@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to the availability of appropriations designated by statute as being for the purpose of carrying out this section, the Secretary may carry out projects for underserved community harbors for purposes of sustaining water-dependent commercial and recreational activities at such harbors.
+Subject to the availability of appropriations designated by statute as being for the purpose of carrying out this section, the Secretary may carry out projects for underserved communityharbors for purposes of sustaining water-dependent commercial and recreational activities at such harbors.
 
 #### (b) Beneficial use
 

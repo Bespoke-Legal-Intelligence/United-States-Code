@@ -40,7 +40,7 @@
 
 #### (4) Interest rate
 
-&emsp;The interest rate on a secured loan under this section shall be not less than the yield on United States Treasury securities of a similar maturity to the maturity of the secured loan on the date of execution of the loan agreement.
+&emsp;The interest rate on a secured loan under this section shall be not less than the yield onUnited States Treasury securities of a similar maturity to the maturity of the secured loan on the date of execution of the loan agreement.
 
 #### (5) Maturity date
 
@@ -172,7 +172,7 @@
 
 #### (2) Terms
 
-&emsp;The terms of a loan guarantee provided under this subsection shall be consistent withthe terms established in this section for a secured loan, except that the rate on the guaranteed loan and any prepayment features shall be negotiated between the obligor and the lender, with the consent of the Secretary or the Administrator, as applicable.
+&emsp;The terms of a loan guarantee provided under this subsection shall be consistent with the terms established in this section for a secured loan, except that the rate on the guaranteed loan and any prepayment features shall be negotiated between the obligor and the lender, with the consent of the Secretary or the Administrator, as applicable.
 
 (Pub. L. 113–121, title V, §5029, June 10, 2014, 128 Stat. 1338; Pub. L. 114–322, title IV, §5008(c), Dec. 16, 2016, 130 Stat. 1897; Pub. L. 115–270, title IV, §4201(a)(3), (b)(1), Oct. 23, 2018, 132 Stat. 3877, 3878.)
 

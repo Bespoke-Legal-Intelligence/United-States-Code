@@ -78,7 +78,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 #### <i>A. Composition.</i>
 
-1\. The General Conference shall consist of the representatives of the States Members of theOrganisation. The Government of each Member State shall appoint not more than five delegates, who shall be selected after consultation with the National Commission, if established, or with educational, scientific and cultural bodies.
+1\. The General Conference shall consist of the representatives of the States Members of the Organisation. The Government of each Member State shall appoint not more than five delegates, who shall be selected after consultation with the National Commission, if established, or with educational, scientific and cultural bodies.
 
 #### <i>B. Functions</i>
 

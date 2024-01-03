@@ -42,7 +42,7 @@ In carrying out subsection (b), the Secretary shall establish and maintain a Nat
 
 #### (e) National plan
 
-In carrying out subsection (b), the Secretary shall develop a national plan for improving adolescent health. The plan shall be consistent with the applicable objectives established by the Secretary for the health status of the people of the United States for the year 2000, and shall be periodically reviewed, and as appropriate, revised.The plan, and any revisions in the plan, shall be submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
+In carrying out subsection (b), the Secretary shall develop a national plan for improving adolescent health. The plan shall be consistent with the applicable objectives established by the Secretary for the health status of the people of the United States for the year 2000, and shall be periodically reviewed, and as appropriate, revised. The plan, and any revisions in the plan, shall be submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
 
 #### (f) Adolescent health
 
@@ -109,6 +109,8 @@ Subsec. (g). Pub. L. 117–103, §1315(b)(2), added subsec. (g).
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

@@ -6,7 +6,7 @@ The Secretary of the Interior, with such advice and assistance as he may require
 
 &emsp;(1) develop and recommend measures which are appropriate to assure the maximum sustainable production of fish and fishery products and to prevent unnecessary and excessive fluctuations in such production;
 
-&emsp;(2) study the economic condition of the industry, and whenever he determines that any segment of the domestic fisheries has been seriously disturbed either by wide fluctuation in the abundance of the resource supporting it, or by unstable market or fishing conditions or due to any other factors he shall make such recommendations to the President and the Congress as he deems appropriate to aid in stabilizing the domestic fisheries;
+&emsp;(2) study the economic condition of the industry, and whenever he determines that any segment of the domestic fisheries has been seriously disturbed either by wide fluctuation in the abundance of the resource supporting it, or by unstable market or fishing conditions or due to any other factors he shall make such recommendations to the President and theCongress as he deems appropriate to aid in stabilizing the domestic fisheries;
 
 &emsp;(3) develop and recommend special promotional and informational activities with a view to stimulating the consumption of fishery products whenever he determines that there is a prospective or actual surplus of such products; and
 
@@ -70,7 +70,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding chapter 63 of title 31, the Secretary of the Interior may negotiate and enter into a cooperative agreement with a partner organization, academic institution, State or local government agency, or other person to implement one or more projects or programs for a refuge or complex of geographically related refuges in accordance with the purposes of this subsection and in compliance with the policies of other relevant authorities, regulations, and policy guidance.
+&emsp;&emsp;Notwithstanding chapter 63 of title 31, the Secretary of the Interior may negotiate and enter into a cooperative agreement with a partner organization, academic institution,State or local government agency, or other person to implement one or more projects or programs for a refuge or complex of geographically related refuges in accordance with the purposes of this subsection and in compliance with the policies of other relevant authorities, regulations, and policy guidance.
 
 #### (B) Projects and programs
 
@@ -150,7 +150,7 @@ The National Wildlife Refuge System Administration Act of 1966, referred to in s
 
 <b>2011</b>—Subsec. (b)(2)(B)(ii). Pub. L. 111–357, §2(b), substituted "National Wildlife Refuge System Administration Act of 1966" for "National Wildlife Refuge Administration Act of 1966".
 
-Subsec. (d)(2)(C)(i). Pub. L. 111–357, §2(b), substituted "National Wildlife Refuge System Administration Actof 1966" for "National Wildlife Refuge Administration Act of 1966".
+Subsec. (d)(2)(C)(i). Pub. L. 111–357, §2(b), substituted "National Wildlife Refuge System Administration Act of 1966" for "National Wildlife Refuge Administration Act of 1966".
 
 Subsec. (f). Pub. L. 111–357, §4(a)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
@@ -218,5 +218,5 @@ Pub. L. 105–242, §4(a), Oct. 5, 1998, 112 Stat. 1575, as amended, formerly se
 
 #### Transfer of Functions
 
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970,eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
 

@@ -80,7 +80,7 @@ Budget and Funding Matters.—(1) Not later than 30 days after the President sub
 
 &emsp;(B) any comments of the Chairman.
 
-(3) If a House of Congress adopts a bill authorizing or appropriating funds for the activities of the Department of Defense positioning, navigation, and timing enterprise that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
+(3) If a House of Congress adopts a bill authorizing or appropriating funds for the activities ofthe Department of Defense positioning, navigation, and timing enterprise that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
 
 (g)
 
@@ -98,7 +98,7 @@ Termination.—The Council shall terminate on the date that is 10 years after th
 
 #### References in Text
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, referred to insubsec. (h), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (h), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
 
 #### Amendments
 

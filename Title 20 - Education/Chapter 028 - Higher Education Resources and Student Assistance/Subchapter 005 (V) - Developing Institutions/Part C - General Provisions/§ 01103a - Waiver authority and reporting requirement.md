@@ -36,7 +36,7 @@ The Secretary may waive the requirements set forth in section 1101a(a)(2)(A)(i) 
 
 A prior section 1103a, Pub. L. 89–329, title V, §512, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 674, related to eligible recipients, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
-Another prior section 1103a, Pub. L. 89–329, title V, §512, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1496, related to selection procedures for grants to institutions offering midcareer teacher training for nontraditional students, prior to the general amendment of this subchapter by Pub. L. 102–325.
+Another prior section 1103a, Pub. L. 89–329, title V, §512, as added Pub. L. 99–498, title V, §501(a), Oct. 17,1986, 100 Stat. 1496, related to selection procedures for grants to institutions offering midcareer teacher training for nontraditional students, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 A prior section 522 of Pub. L. 89–329 was classified to section 1104a of this title, prior to the general amendment of this subchapter by Pub. L. 105–244.
 

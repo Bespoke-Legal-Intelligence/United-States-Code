@@ -46,7 +46,7 @@ The Director of the Institute shall provide, in accordance with subsection (c), 
 
 &emsp;(D) demonstration purposes.
 
-> As used in this subsection, the term "construction" does not include the acquisition of land,and the term "training" does not include research training for which Ruth L. Kirschstein National Research Service Awards may be provided under section 288 of this title.
+> As used in this subsection, the term "construction" does not include the acquisition of land, and the term "training" does not include research training for which Ruth L. Kirschstein National Research Service Awards may be provided under section 288 of this title.
 
 (4) Support of a center under paragraph (1) may be for a period of not to exceed five years. Such period may be extended by the Director for additional periods of not more than five years each if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 

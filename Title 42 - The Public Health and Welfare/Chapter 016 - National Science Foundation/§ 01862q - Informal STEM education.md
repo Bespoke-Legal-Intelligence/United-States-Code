@@ -18,7 +18,7 @@ Activities supported by grants under this section may encompass a single STEM di
 
 &emsp;(1) research and development that improves our understanding of learning and engagement in informal environments, including the role of informal environments in broadening participation in STEM;
 
-&emsp;(2) design and testing of innovative STEM learning models, programs, and other resources for informal learning environments to improve STEM learning outcomes and increase engagement for K–12 students, K–12teachers, and the general public, including design and testing of the scalability of models, programs, and other resources;
+&emsp;(2) design and testing of innovative STEM learning models, programs, and other resources for informal learning environments to improve STEM learning outcomes and increase engagement for K–12 students, K–12 teachers, and the general public, including design and testing of the scalability of models, programs, and other resources;
 
 &emsp;(3) fostering on-going partnerships between institutions involved in informal STEM learning, institutions of higher education, and education research centers;
 
@@ -30,7 +30,7 @@ Activities supported by grants under this section may encompass a single STEM di
 
 #### (1) In general
 
-&emsp;The Director of the National Science Foundation shall make awards, through existing programs where appropriate to institutions of higher education and nonprofit organizations (or consortia of such intuitions <sup>1</sup> or organizations) on a merit-reviewed, competitive basis for research on effective approaches to engaging students in PreK–12, including students from groups historically underrepresented in STEM and rural students.
+&emsp;The Director of the National Science Foundation shall make awards, through existing programs where appropriate to institutions of higher education and nonprofit organizations (or consortia of such intuitions <sup>1</sup> or organizations) on a merit-reviewed, competitive basisfor research on effective approaches to engaging students in PreK–12, including students from groups historically underrepresented in STEM and rural students.
 
 #### (2) Purposes
 

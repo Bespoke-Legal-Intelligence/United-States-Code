@@ -2,7 +2,7 @@
 
 (a)
 
-Minimum Requirements.—The Secretary of Transportation shall prescribe regulations providing minimum requirements for establishingand operating a one-call notification system for a State to adopt that will notify an operator of a pipeline facility of activity in the vicinity of the facility that could threaten the safety of the facility. The regulations shall include the following:
+Minimum Requirements.—The Secretary of Transportation shall prescribe regulations providing minimum requirements for establishing and operating a one-call notification system for a State to adopt that will notify an operator of a pipeline facility of activity in the vicinity of the facility that could threaten the safety of the facility. The regulations shall include the following:
 
 &emsp;(1) a requirement that the system apply to all areas of the State containing underground pipeline facilities.
 
@@ -46,7 +46,7 @@ Prohibition Applicable to Excavators.—A person who engages in demolition, exca
 
 (e)
 
-Prohibition Applicable to Underground Pipeline Facility Owners and Operators.—Any owner or operator of a pipeline facility who fails to respond to a location request in order to prevent damage to the pipeline facility or who fails to take reasonable steps, in response to such a request, to ensure accurate marking of the location of the pipeline facility in order to prevent damage to the pipeline facility shall be subject to a civil action under section 60120 or assessment of a civil penalty under section 60122.
+Prohibition Applicable to Underground Pipeline Facility Owners and Operators.—Any owner or operator of a pipeline facility who fails to respond to a location request in order to prevent damage to the pipeline facility or who fails to take reasonable steps, in response to such a request, to ensure accurate marking of the location of the pipeline facility in order to prevent damage to the pipeline facility shall besubject to a civil action under section 60120 or assessment of a civil penalty under section 60122.
 
 (f)
 

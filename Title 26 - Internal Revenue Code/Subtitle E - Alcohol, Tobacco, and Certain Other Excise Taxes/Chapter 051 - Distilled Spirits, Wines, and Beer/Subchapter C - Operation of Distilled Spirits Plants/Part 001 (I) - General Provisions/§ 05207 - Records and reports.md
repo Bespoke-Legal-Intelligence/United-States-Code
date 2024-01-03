@@ -40,7 +40,7 @@ Every distilled spirits plant proprietor shall keep records in such form and man
 
 #### (b) Reports
 
-Every person required to keep records under subsection (a) shall render such reports coveringhis operations, at such times and in such form and manner and containing such information, as the Secretary shall by regulations prescribe.
+Every person required to keep records under subsection (a) shall render such reports covering his operations, at such times and in such form and manner and containing such information, as the Secretary shall by regulations prescribe.
 
 #### (c) Preservation and inspection
 

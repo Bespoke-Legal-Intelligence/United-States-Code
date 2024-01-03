@@ -150,6 +150,10 @@ The Secretary shall establish a single loan rate in each county for each kind of
 
 #### <b>Editorial Notes</b>
 
+#### Codification
+
+Provisions of law applicable to a loan commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that loan commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334, §1202(a)(1), substituted "2014 through 2018 crop years" for "In general" in heading.

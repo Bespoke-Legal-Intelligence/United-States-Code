@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;(8) the continued development of joint labor-management efforts to provide a healthy environment for collective bargaining can make a significant contribution to improve productivity and foster industrial peace;
 
-&emsp;(9) factors affecting the growth of productivity in the economy include not only the status of technology and the techniques of management but also the role of the worker in the production process and the conditions of his working life;
+&emsp;(9) factors affecting the growth of productivity in the economy include not only thestatus of technology and the techniques of management but also the role of the worker in the production process and the conditions of his working life;
 
 &emsp;(10) there is a national need to identify and encourage appropriate application of capital in sectors of American economic activity in order to improve productivity;
 
@@ -48,7 +48,7 @@ Pub. L. 94–136, §1, Nov. 28, 1975, 89 Stat. 733, provided: "That this Act \[e
 
 #### White House Conference on Productivity
 
-Pub. L. 97–367, Oct. 25, 1982, 96 Stat. 1761, required the President to conduct a White House Conference on Productivity not later than Oct. 25, 1983, prescribed the duties of the Conference, required the Conference to submit to the President a final report not later than 120 days after the date the Conference is called, and required the President (within 120 days after submissionof the final report) to transmit to Congress his recommendations for the administrative action and legislation necessary to implement recommendations contained in the final report with which he concurs.
+Pub. L. 97–367, Oct. 25, 1982, 96 Stat. 1761, required the President to conduct a White House Conference on Productivity not later than Oct. 25, 1983, prescribed the duties of the Conference, required the Conference to submit to the President a final report not later than 120 days after the date the Conference is called, and required the President (within 120 days after submission of the final report) to transmit to Congress his recommendations for the administrative action and legislation necessary to implement recommendations contained in the final report with which he concurs.
 
 #### <b>Executive Documents</b>
 

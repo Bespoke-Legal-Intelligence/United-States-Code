@@ -138,7 +138,7 @@ There are in the Agency 10 regional offices, as identified by the Administrator.
 
 #### Prior Provisions
 
-A prior section 317, Pub. L. 107–296, title V, §507, Nov. 25, 2002, 116 Stat. 2214, related to the role of the Federal Emergency Management Agency, prior to repeal by Pub. L. 109–295, title VI, §611(4), Oct. 4. 2006, 120 Stat. 1395.
+A prior section 317, Pub. L. 107–296, title V, §507, Nov. 25, 2002, 116 Stat. 2214, related to the role of the FederalEmergency Management Agency, prior to repeal by Pub. L. 109–295, title VI, §611(4), Oct. 4. 2006, 120 Stat. 1395.
 
 #### Amendments
 

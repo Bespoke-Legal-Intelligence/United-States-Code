@@ -32,7 +32,7 @@ In this chapter:
 
 #### (6) Low-Btu gas
 
-&emsp;The term "low-Btu gas" means a fuel gas with a heating value of less than 250 Btu per standard cubic foot measured as the higher heating value resulting from the inclusion of noncombustible gases, including nitrogen, helium, argon, and carbon dioxide.
+&emsp;The term "low-Btu gas" means a fuel gas with a heating value of less than 250 Btu per standard cubic foot measured as the higherheating value resulting from the inclusion of noncombustible gases, including nitrogen, helium, argon, and carbon dioxide.
 
 #### (7) Person
 
@@ -54,7 +54,7 @@ In this chapter:
 
 #### (10) Qualifying domestic helium transaction
 
-&emsp;The term "qualifying domestic helium transaction" means any agreement enteredinto or renegotiated agreement during the preceding 1-year period in the United States for the purchase or sale of at least 15,000,000 standard cubic feet of crude or pure helium to which any holder of a contract with the Secretary for the acceptance, storage, delivery, or redelivery of crude helium from the Federal Helium System is a party.
+&emsp;The term "qualifying domestic helium transaction" means any agreement entered into or renegotiated agreement during the preceding 1-year period in the United States for the purchase or sale of at least 15,000,000 standard cubic feet of crude or pure helium to which any holder of a contract with the Secretary for the acceptance, storage, delivery, or redelivery of crude helium from the Federal Helium System is a party.
 
 #### (11) Refiner
 
@@ -122,7 +122,7 @@ Delivery.—No agreement described in subsection (a) shall affect or diminish th
 
 Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §112\], Nov. 29, 1999, 113 Stat. 1535, 1501A–157, provided that:
 
-"(a) Employees of Helium Operations, Bureau of Land Management, entitled to severance pay under 5 U.S.C. 5595, may apply for, and the Secretary of the Interior may pay, the total amount of the severance pay to the employee in a lump sum. Employees paid severance pay in a lump sum and subsequently reemployed by the Federal Government shall be subject to the repayment provisions of 5 U.S.C. 5595(i)(2) and (3), except that any repayment shall be made to the Helium Fund.
+"(a) Employees of Helium Operations, Bureau of Land Management, entitled to severance pay under 5 U.S.C. 5595, may apply for, and the Secretary of the Interior may pay, the total amount of the severance pay to the employee in a lump sum. Employees paid severance pay in a lump sum and subsequently reemployed by the Federal Government shall be subject to the repaymentprovisions of 5 U.S.C. 5595(i)(2) and (3), except that any repayment shall be made to the Helium Fund.
 
 "(b) Helium Operations employees who elect to continue health benefits after separation shall be liable for not more than the required employee contribution under 5 U.S.C. 8905a(d)(1)(A). The Helium Fund shall pay for 18 months the remaining portion of required contributions.
 
@@ -130,7 +130,7 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §112\], Nov. 29, 1999, 113 S
 
 "(d) For purposes of the annual leave restoration provisions of 5 U.S.C. 6304(d)(1)(B), the cessation of helium production and sales, and other related Helium Program activities shall be deemed to create an exigency of public business under, and annual leave that is lost during leave years 1997 through 2001 because of 5 U.S.C. 6304 (regardless of whether such leave was scheduled in advance) shall be restored to the employee and shall be credited and available in accordance with 5 U.S.C. 6304(d)(2). Annual leave so restored and remaining unused upon the transfer of a Helium Program employee to a position of the executive branch outside of the Helium Program shall be liquidated by payment to the employee of a lump sum from the Helium Fund for such leave.
 
-"(e) Benefits under this section shall be paid from the Helium Fund in accordance with section 4(c)(4) of the Helium Privatization Act of 1996 \[probably means theHelium Act, which is classified to section 167b(c)(4) of this title\]. Funds may be made available to Helium Program employees who are or will be separated before October 1, 2002 because of the cessation of helium production and sales and other related activities. Retraining benefits, including retraining and relocation incentives, may be paid for retraining commencing on or before September 30, 2002.
+"(e) Benefits under this section shall be paid from the Helium Fund in accordance with section 4(c)(4) of the Helium Privatization Act of 1996 \[probably means the Helium Act, which is classified to section 167b(c)(4) of this title\]. Funds may be made available to Helium Program employees who are or will be separated before October 1, 2002 because of the cessation of helium production and sales and other related activities. Retraining benefits, including retraining and relocation incentives, may be paid for retraining commencing on or before September 30, 2002.
 
 "(f) This section shall remain in effect through fiscal year 2002."
 

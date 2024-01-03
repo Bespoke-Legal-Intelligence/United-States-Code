@@ -140,7 +140,7 @@ Each issuer shall provide for appropriate funding, as determined by the compensa
 
 #### References in Text
 
-The Investment Company Act of 1940, referred to in subsec. (a)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(1), is title I of act Aug. 22, 1940, ch. 686, 54Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -32,7 +32,7 @@
 
 &emsp;(12) Perform such other duties consistent with this section as the Secretary shall prescribe.
 
-(e) The Secretary shall ensure that the Director is furnished sufficient resources to enable the Director to carry out the functions of the Center in a timely manner.
+(e) The Secretary shall ensure that the Director is furnished sufficient resources to enablethe Director to carry out the functions of the Center in a timely manner.
 
 (f) The Secretary shall include in documents submitted to Congress by the Secretary in support of the President's budget for each fiscal year—
 

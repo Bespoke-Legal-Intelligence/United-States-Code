@@ -54,7 +54,7 @@ Subject to subsection (b), for every major drug producing country and every majo
 
 &emsp;(i) a full and complete description of the vital national interests placed at risk if action is taken pursuant to subsection (a) with respect to that country; and
 
-&emsp;(ii) a statement weighing the risk described in clause (i) against the risks posed to the vital national interests of the United States by the failure of such country to cooperatefully with the United States in combating narcotics or to take adequate steps to combat narcotics on its own.
+&emsp;(ii) a statement weighing the risk described in clause (i) against the risks posed to the vital national interests of the United States by the failure of such country to cooperate fully with the United States in combating narcotics or to take adequate steps to combat narcotics on its own.
 
 (E) The President may make a certification under subparagraph (A)(i) with respect to a major drug producing country or drug-transit country which is also a producer of licit opium only if the President determines that such country has taken steps to prevent significant diversion of its licit cultivation and production into the illicit market, maintains production and stockpiles at levels no higher than those consistent with licit market demand, and prevents illicit cultivation and production.
 
@@ -108,7 +108,7 @@ The action taken by the President under paragraph (1), (2), or (3) of subsection
 
 #### (d) Presidential action regarding aviation
 
-(1)(A) The President is authorized to notify the government of a country against which is imposed the sanction described in subsection (a)(4) of his intention to suspend the authority of foreign air carriers owned or controlled by the government or nationals of that country to engage in foreign air transportation to or from the United States.
+(1)(A) The President is authorized to notify the government of a country against which is imposed the sanction described in subsection\(a)(4) of his intention to suspend the authority of foreign air carriers owned or controlled by the government or nationals of that country to engage in foreign air transportation to or from the United States.
 
 (B) Within 10 days after the date of notification of a government under subparagraph (A), the Secretary of Transportation shall take all steps necessary to suspend at the earliest possible date the authority of any foreign air carrier owned or controlled, directly or indirectly, by the government or nationals of that country to engage in foreign air transportation to or from the United States, notwithstanding any agreement relating to air services.
 

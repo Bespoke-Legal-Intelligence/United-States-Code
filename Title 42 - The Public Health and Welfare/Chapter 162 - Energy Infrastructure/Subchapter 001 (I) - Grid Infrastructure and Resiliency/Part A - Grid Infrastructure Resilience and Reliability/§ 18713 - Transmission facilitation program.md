@@ -90,7 +90,7 @@ There is established a program, to be known as the "Transmission Facilitation Pr
 
 #### (3) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to the Secretary to carry out the program, including for any administrative expenses of carryingout the program that are not recovered under paragraph (4), $10,000,000 for each of fiscal years 2022 through 2026.
+&emsp;There is authorized to be appropriated to the Secretary to carry out the program, including for any administrative expenses of carrying out the program that are not recovered under paragraph (4), $10,000,000 for each of fiscal years 2022 through 2026.
 
 #### (4) Cost recovery
 
@@ -184,7 +184,7 @@ There is established a program, to be known as the "Transmission Facilitation Pr
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall seek to terminate a capacity contract as soon as practicableafter determining that sufficient transmission capacity of the eligible project has been secured by other entities to ensure the long-term financial viability of the eligible project, including through 1 or more transfers under subparagraph (B).
+&emsp;&emsp;The Secretary shall seek to terminate a capacity contract as soon as practicable after determining that sufficient transmission capacity of the eligible project has been secured by other entities to ensure the long-term financial viability of the eligible project, including through 1 or more transfers under subparagraph (B).
 
 #### (B) Transfer
 
@@ -212,7 +212,7 @@ There is established a program, to be known as the "Transmission Facilitation Pr
 
 #### (g) Interest rate on loans
 
-The rate of interest to be charged in connection with any loan made by the Secretary to an eligible entity under subsection (e)(1)(B) shall be fixed by the Secretary, taking into consideration market yields on outstanding marketable obligations of the United States of comparable maturities as of the date of the loan.
+The rate of interest to be charged in connection with any loan made by the Secretary to aneligible entity under subsection (e)(1)(B) shall be fixed by the Secretary, taking into consideration market yields on outstanding marketable obligations of the United States of comparable maturities as of the date of the loan.
 
 #### (h) Public-private partnerships
 
@@ -314,7 +314,7 @@ Prior to taking action to facilitate an eligible project under subparagraph (A),
 
 #### References in Text
 
-The Federal Power Act, referred to in subsec. (f)(4)(D), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
+The Federal Power Act, referred to in subsec. (f)(4)(D), is act June 10, 1920, ch. 285, 41 Stat. 1063, whichis classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

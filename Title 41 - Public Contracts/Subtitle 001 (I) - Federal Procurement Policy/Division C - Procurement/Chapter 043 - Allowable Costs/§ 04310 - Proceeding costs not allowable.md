@@ -14,7 +14,7 @@ Costs.—The term "costs", with respect to a proceeding, means all costs incurre
 
 &emsp;&emsp;(C) the cost of the services of accountants and consultants retained by the contractor, subcontractor, or personal services contractor; and
 
-&emsp;&emsp;(D) the pay of directors, officers, and employees of the contractor, subcontractor, orpersonal services contractor for time devoted by those directors, officers, and employees to the proceeding.
+&emsp;&emsp;(D) the pay of directors, officers, and employees of the contractor, subcontractor, or personal services contractor for time devoted by those directors, officers, and employees to the proceeding.
 
 &emsp;(2)
 

@@ -30,7 +30,7 @@ Each online pharmacy shall post in a visible and clear manner on the homepage of
 
 #### (1) In general
 
-&emsp;Thirty days prior to offering a controlled substance for sale, delivery, distribution, or dispensing, the online pharmacy shall notify the Attorney General, in such form and manner as the Attorney General shall determine, and the State boards of pharmacy in any States in which the online pharmacy offers to sell, deliver, distribute, or dispense controlled substances.
+&emsp;Thirty days prior to offering a controlled substance for sale, delivery, distribution, or dispensing, the online pharmacy shall notify the Attorney General, in such form and manner as the Attorney General shall determine,and the State boards of pharmacy in any States in which the online pharmacy offers to sell, deliver, distribute, or dispense controlled substances.
 
 #### (2) Contents
 
@@ -48,7 +48,7 @@ Each online pharmacy shall post in a visible and clear manner on the homepage of
 
 #### (e) Declaration of compliance
 
-On and after the date on which it makes the notification under subsection (d), each onlinepharmacy shall display on the homepage of its Internet site, in such form as the Attorney General shall by regulation require, a declaration that it has made such notification to the Attorney General.
+On and after the date on which it makes the notification under subsection (d), each online pharmacy shall display on the homepage of its Internet site, in such form as the Attorney General shall by regulation require, a declaration that it has made such notification to the Attorney General.
 
 #### (f) Reports
 
@@ -104,7 +104,7 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 #### (2) To Attorney General
 
-&emsp;Not later than 30 days after the date that a prescription described in subparagraph (A) is issued, the Secretary of Veterans Affairs shall report to the Attorney General the authorization of that emergency prescription.
+&emsp;Not later than 30 days after the date that a prescription described in subparagraph (A) isissued, the Secretary of Veterans Affairs shall report to the Attorney General the authorization of that emergency prescription.
 
 #### (j) Clarification concerning prescription transfers
 
@@ -122,7 +122,7 @@ For effective date of this section, referred to in subsec. (d)(3), see Effective
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (g)(1), (2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-This chapter, referred to in subsec. (j), was in the original "this Act", meaning Pub. L. 91–513, Oct. 27,1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (j), was in the original "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 

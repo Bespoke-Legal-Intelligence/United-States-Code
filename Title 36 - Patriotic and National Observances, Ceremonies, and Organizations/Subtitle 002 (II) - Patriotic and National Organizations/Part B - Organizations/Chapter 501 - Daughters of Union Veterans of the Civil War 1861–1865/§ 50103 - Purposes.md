@@ -12,7 +12,7 @@ Perpetuating Memories.—To perpetuate the memories of the fathers of the Daught
 
 &emsp;(2) building and maintaining a Museum of Civil War History, admission to which shall be free and open to the public, in the city of Springfield, Illinois, as a repository of Civil War documents, artifacts, and cultural relics;
 
-&emsp;(3) maintaining a library in connection with the Civil War museum, admission to which shall be open to the public, containing the official volumes of the War of the Rebellion Records, Civil War genealogical files, Adjutant General reports of the various States, military and biographical records and accounts of the individual service of Union soldiers, sailors, and marines, diaries, letters, relics, and other records;
+&emsp;(3) maintaining a library in connection with the Civil War museum, admission to which shall be open to the public, containing the official volumes of the War of the RebellionRecords, Civil War genealogical files, Adjutant General reports of the various States, military and biographical records and accounts of the individual service of Union soldiers, sailors, and marines, diaries, letters, relics, and other records;
 
 &emsp;(4) promulgating and teaching American history, particularly the history of the Civil War period, through the establishment of scholarship programs at the national and State levels, the presentation of American flags to youth groups and newly naturalized citizens, and the sponsorship of contests of educational merit;
 

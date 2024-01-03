@@ -80,7 +80,7 @@ Pub. L. 114–95, §7001(d)(1), made technical amendment to reference in origina
 
 <b>2000</b>—Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(1)\], inserted ", or not more than 60 days after the date on which the Secretary sends written notice to the local educational agency pursuant to paragraph (3)(A), as the case may be," after "subsection (c)".
 
-Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(2)\], amended heading and text generally. Prior toamendment, text read as follows: "The Secretary shall not accept or approve any application that is filed more than 60 days after a deadline established under subsection (c) of this section."
+Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(2)\], amended heading and text generally. Prior to amendment, text read as follows: "The Secretary shall not accept or approve any application that is filed more than 60 days after a deadline established under subsection (c) of this section."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -122,7 +122,7 @@ Pub. L. 116–211, §2, Dec. 4, 2020, 134 Stat. 1017, provided that: "Due to the
 
 &emsp;"(2) with respect to a requested payment under section 7003 of such Act—
 
-&emsp;&emsp;"(A) use the student count data relating to calculating such payment that was submitted by the local educational agency in the application for fiscal year 2021, provided that payments for fiscal year 2022 shall be calculated by the Secretary using the expenditures and rates described in clauses (i), (ii), (iii), and (iv) of section 7003(b)(1)(C) of such Act that would otherwise apply for fiscal year 2022; or
+&emsp;&emsp;"(A) use the student count data relating to calculating such payment that was submitted by thelocal educational agency in the application for fiscal year 2021, provided that payments for fiscal year 2022 shall be calculated by the Secretary using the expenditures and rates described in clauses (i), (ii), (iii), and (iv) of section 7003(b)(1)(C) of such Act that would otherwise apply for fiscal year 2022; or
 
 &emsp;&emsp;"(B) use the student count data relating to calculating such payment for the fiscal year required under section 7003(c) of such Act."
 

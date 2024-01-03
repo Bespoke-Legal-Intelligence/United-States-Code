@@ -34,7 +34,7 @@
 
 &emsp;&emsp;The proposal shall include—
 
-&emsp;&emsp;&emsp;(i) a list of any statutory requirements of, or regulatory requirements relating to,subchapter II that the State desires the Secretary to waive, in whole or in part; and
+&emsp;&emsp;&emsp;(i) a list of any statutory requirements of, or regulatory requirements relating to, subchapter II that the State desires the Secretary to waive, in whole or in part; and
 
 &emsp;&emsp;&emsp;(ii) a list of any State requirements that the State proposes to waive or change, in whole or in part, to carry out a waiver granted to the State by the Secretary.
 

@@ -18,7 +18,7 @@ Each plan developed under this subsection shall include—
 
 &emsp;&emsp;(i) the suitability of the dredged material for a full range of beneficial uses; and
 
-&emsp;&emsp;(ii) the economic and environmental benefits, efficiencies, and impacts (including theeffects on living coral) of using the dredged material for beneficial uses, including, in the case of beneficial use activities that involve more than one water resources development project, the benefits, efficiencies, and impacts that result from the combined activities;
+&emsp;&emsp;(ii) the economic and environmental benefits, efficiencies, and impacts (including the effects on living coral) of using the dredged material for beneficial uses, including, in the case of beneficial use activities that involve more than one water resources development project, the benefits, efficiencies, and impacts that result from the combined activities;
 
 &emsp;(E) the district-wide goals for beneficial use of the dredged material, including any expected cost savings from aligning and coordinating multiple projects (including projects across Corps districts) in the use of the dredged material; and
 

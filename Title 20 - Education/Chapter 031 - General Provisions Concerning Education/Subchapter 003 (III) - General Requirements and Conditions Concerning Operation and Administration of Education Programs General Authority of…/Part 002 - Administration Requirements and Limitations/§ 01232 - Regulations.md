@@ -70,7 +70,7 @@ Subsec. (e). Pub. L. 94–482, §405(e), substituted "regulation" for "standard,
 
 Subsec. (g). Pub. L. 94–482, §405(f), substituted "final regulations" for "rules, regulations, and guidelines" wherever appearing.
 
-<b>1975</b>—Subsec. (d)(1). Pub. L. 94–142, §7(a)(1), (b), inserted "final" before "standard" wherever appearing in existing provisions and inserted provisions covering the effect of the failure of Congress to adopt the concurrentresolution with respect to any final standard, rule, regulation, or requirement.
+<b>1975</b>—Subsec. (d)(1). Pub. L. 94–142, §7(a)(1), (b), inserted "final" before "standard" wherever appearing in existing provisions and inserted provisions covering the effect of the failure of Congress to adopt the concurrent resolution with respect to any final standard, rule, regulation, or requirement.
 
 Subsec. (d)(2). Pub. L. 94–142, §7(a)(2), (3), substituted "objection to the final standard" for "objection to the proposed standard", "effective date of the final standard" for "effective date of the standard", and "In no event shall the final standard" for "In no event shall the standard".
 
@@ -81,6 +81,8 @@ Subsecs. (d) to (g). Pub. L. 93–380, §509(a)(2), added subsecs. (d) to (g).
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
@@ -102,7 +104,7 @@ Pub. L. 94–142, §8, Nov. 29, 1975, 89 Stat. 796, provided that:
 
 "(a) Notwithstanding any other provision of law, the amendments made by sections 2(a), 2(b), and 2(c) \[amending sections 1411 and 1412 of this title as in effect through Sept. 30, 1977, and amending provisions set out as notes under sections 1411 to 1413 of this title\] shall take effect on July 1, 1975.
 
-"(b) The amendments made by sections 2(d), 2(e), 3, 6, and 7 \[enacting sections 1405 and 1406 of this title, amending this section and sections 1412 and 1453 of this title, enacting provisions set out as a note under section 1411 of this title, and amending provisions set out as a note under section 1401 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1975\].
+"(b) The amendments made by sections 2(d), 2(e), 3, 6, and 7 \[enacting sections 1405 and 1406 of this title,amending this section and sections 1412 and 1453 of this title, enacting provisions set out as a note under section 1411 of this title, and amending provisions set out as a note under section 1401 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1975\].
 
 "(c) The amendments made by sections 4 and 5(a) \[enacting sections 1415 to 1420 of this title and amending sections 1401, 1411, 1412, 1413, and 1414 of this title\] shall take effect on October 1, 1977, except that the provisions of clauses (A), (C), (D), and (E) of paragraph (2) of section 612 of the Act \[section 1412 of this title\], as amended by this Act, section 617(a)(1)(D) of the Act \[section 1417(a)(1)(D) of this title\], as amended by this Act, section 617(b) of the Act \[section 1417(b) of this title\], as amended by this Act, and section 618(a) of the Act \[section 1418(a) of this title\], as amended by this Act, shall take effect on the date of the enactment of this Act \[Nov. 29, 1975\].
 

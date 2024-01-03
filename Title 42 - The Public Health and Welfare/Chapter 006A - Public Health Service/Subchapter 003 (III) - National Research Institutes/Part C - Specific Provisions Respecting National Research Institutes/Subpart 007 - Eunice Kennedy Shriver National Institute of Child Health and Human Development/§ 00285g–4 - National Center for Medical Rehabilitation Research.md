@@ -152,7 +152,7 @@ Subsecs. (g), (h). Pub. L. 114–255, §2040(a)(6), added subsecs. (g) and (h).
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 orsubsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Transfer of Functions
 

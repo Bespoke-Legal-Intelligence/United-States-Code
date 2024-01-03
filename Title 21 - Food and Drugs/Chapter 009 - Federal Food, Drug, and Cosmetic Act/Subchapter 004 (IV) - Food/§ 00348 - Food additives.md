@@ -32,7 +32,7 @@ A food additive shall, with respect to any particular use or intended use of suc
 
 &emsp;(E) full reports of investigations made with respect to the safety for use of such additive, including full information as to the methods and controls used in conducting such investigations.
 
-(3) Upon request of the Secretary, the petitioner shall furnish (or, if the petitioner is not the manufacturer of such additive, the petitioner shall have the manufacturer of such additive furnish, without disclosure to the petitioner) a full description of the methods used in, and the facilities and controls used for, the production of such additive.
+(3) Upon request of the Secretary, the petitioner shall furnish (or, if the petitioner is not the manufacturer of such additive, the petitioner shall have the manufacturer of such additive furnish, without disclosure to the petitioner) a full description of the methods used in,and the facilities and controls used for, the production of such additive.
 
 (4) Upon request of the Secretary, the petitioner shall furnish samples of the food additive involved, or articles used as components thereof, and of the food in or on which the additive is proposed to be used.
 
@@ -78,7 +78,7 @@ Any order, including any regulation established by such order, issued under subs
 
 #### (f) Objections and public hearing; basis and contents of order; statement
 
-(1) Within thirty days after publication of an order made pursuant to subsection (c) or (d) of this section, any person adversely affected by such an order may file objections thereto with the Secretary, specifying with particularity the provisions of the order deemed objectionable, stating reasonable grounds therefor, and requesting a public hearing upon such objections. The Secretary shall, after due notice, as promptly as possible hold such public hearing for the purpose of receiving evidence relevant and material to the issues raised by such objections. As soon as practicable after completion of the hearing, the Secretary shall by order act upon such objections and make such order public.
+(1) Within thirty days after publication of an order made pursuant to subsection (c) or (d) of this section, any person adversely affected by such an order may file objections thereto with the Secretary, specifying with particularity the provisions of the order deemed objectionable, stating reasonable grounds therefor, and requesting a public hearing upon such objections. The Secretary shall, after due notice, as promptly as possible hold such public hearing for the purpose of receiving evidence relevant and material to the issues raised by such objections. Assoon as practicable after completion of the hearing, the Secretary shall by order act upon such objections and make such order public.
 
 (2) Such order shall be based upon a fair evaluation of the entire record at such hearing, and shall include a statement setting forth in detail the findings and conclusions upon which the order is based.
 
@@ -106,7 +106,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (C) In this paragraph, the term "food contact substance" means the substance that is the subject of a notification submitted under paragraph (1), and does not include a similar or identical substance manufactured or prepared by a person other than the manufacturer identified in the notification.
 
-(3)(A) The process in this subsection shall be utilized for authorizing the marketing of a food contact substance except where the Secretary determines that submission and review of a petition under subsection (b) is necessary to provide adequate assurance of safety, or where the Secretary and any manufacturer or supplier agreethat such manufacturer or supplier may submit a petition under subsection (b).
+(3)(A) The process in this subsection shall be utilized for authorizing the marketing of a food contact substance except where the Secretary determines that submission and review of a petition under subsection (b) is necessary to provide adequate assurance of safety, or where the Secretary and any manufacturer or supplier agree that such manufacturer or supplier may submit a petition under subsection (b).
 
 (B) The Secretary is authorized to promulgate regulations to identify the circumstances in which a petition shall be filed under subsection (b), and shall consider criteria such as the probable consumption of such food contact substance and potential toxicity of the food contact substance in determining the circumstances in which a petition shall be filed under subsection (b).
 
@@ -242,7 +242,7 @@ In General.—The Secretary may not implement any requirement which would ban, a
 
 "(b)
 
-Lead and Cadmium Based Enamel.—Unless the Secretary determines, based on available data, thatlead and cadmium based enamel on glass and ceramic ware—
+Lead and Cadmium Based Enamel.—Unless the Secretary determines, based on available data, that lead and cadmium based enamel on glass and ceramic ware—
 
 &emsp;"(1) which has less than 60 millimeters of decorating area below the external rim, and
 
@@ -252,7 +252,7 @@ Lead and Cadmium Based Enamel.—Unless the Secretary determines, based on avail
 
 #### Moratorium on Authority of Secretary With Respect to Saccharin
 
-Pub. L. 95–203, §3, Nov. 23, 1977, 91 Stat. 1452, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–273, June 17, 1980, 94 Stat. 536; Pub. L. 97–42, §2, Aug. 14, 1981, 95 Stat. 946; Pub. L. 98–22, §2, Apr. 22, 1983, 97 Stat. 173; Pub. L. 99–46, May 24, 1985, 99 Stat. 81; Pub. L. 100–71, title I, §101, July 11, 1987, 101 Stat. 431; Pub. L. 102–142, title VI, Oct. 28, 1991, 105 Stat. 910; Pub. L. 104–180, title VI, §602, Aug. 6, 1996, 110 Stat. 1594, provided that: "During the period ending May 1, 2002, the Secretary—
+Pub. L. 95–203, §3, Nov. 23, 1977, 91 Stat. 1452, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–273, June 17, 1980, 94 Stat. 536; Pub. L. 97–42, §2, Aug. 14, 1981, 95 Stat. 946; Pub. L. 98–22, §2, Apr. 22, 1983, 97 Stat. 173; Pub. L. 99–46, May24, 1985, 99 Stat. 81; Pub. L. 100–71, title I, §101, July 11, 1987, 101 Stat. 431; Pub. L. 102–142, title VI, Oct. 28, 1991, 105 Stat. 910; Pub. L. 104–180, title VI, §602, Aug. 6, 1996, 110 Stat. 1594, provided that: "During the period ending May 1, 2002, the Secretary—
 
 &emsp;"(1) may not amend or revoke the interim food additive regulation of the Food and Drug Administration of the Department of Health and Human Services applicable to saccharin and published on March 15, 1977 (section 180.37 of part 180, subchapter B, chapter 1, title 21, Code of Federal Regulations (42 Fed. Reg. 14638)), or
 

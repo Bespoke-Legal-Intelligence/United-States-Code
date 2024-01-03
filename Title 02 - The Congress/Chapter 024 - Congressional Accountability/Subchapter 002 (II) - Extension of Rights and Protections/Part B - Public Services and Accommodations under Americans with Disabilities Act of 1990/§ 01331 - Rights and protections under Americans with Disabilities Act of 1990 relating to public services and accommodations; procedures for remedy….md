@@ -44,7 +44,7 @@ The remedy for a violation of subsection (b) shall be such remedy as would be ap
 
 #### (1) Charge filed with General Counsel
 
-&emsp;A qualified individual with a disability, as defined in section 201(2) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131(2)), who alleges a violation of subsection (b) by an entity listed in subsection (a), may file a charge against any entity responsible for correcting the violation with the General Counsel within 180 days of the occurrence of the alleged violation. The General Counsel shall investigate the charge.
+&emsp;A qualified individual with a disability, as defined in section 201(2) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131(2)), who alleges a violation of subsection (b) by an entity listed in subsection (a), may file a charge against any entity responsible for correcting the violation with the General Counsel within180 days of the occurrence of the alleged violation. The General Counsel shall investigate the charge.
 
 #### (2) Mediation
 
@@ -104,7 +104,7 @@ The remedy for a violation of subsection (b) shall be such remedy as would be ap
 
 #### (1) Definition of Library visitor
 
-&emsp;In this subsection, the term "Library visitor" means an individual who is eligible to bring a claim for a violation under title II or III of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12131 et seq., 12181 et seq.\] (other than a violation for which the exclusive remedy is under section 1311 of this title) against the Library of Congress.
+&emsp;In this subsection, the term "Library visitor" means an individual who is eligible to bring a claim for a violation under title II or III of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12131 et seq., 12181 et seq.\] (otherthan a violation for which the exclusive remedy is under section 1311 of this title) against the Library of Congress.
 
 #### (2) Election of remedies
 

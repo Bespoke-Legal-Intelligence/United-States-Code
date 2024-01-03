@@ -16,7 +16,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;(5) The terms "defense nuclear facility" and "Department of Energy defense nuclear facility" have the meaning given the term "Department of Energy defense nuclear facility" in section 2286g of title 42.
 
-&emsp;(6) The term "nuclear security enterprise" means the physical facilities, technology, andhuman capital of the national security laboratories and the nuclear weapons production facilities.
+&emsp;(6) The term "nuclear security enterprise" means the physical facilities, technology, and human capital of the national security laboratories and the nuclear weapons production facilities.
 
 &emsp;(7) The term "national security laboratory" means any of the following:
 
@@ -76,7 +76,7 @@ Pub. L. 108–136, div. C, title XXXI, §3141(a), Nov. 24, 2003, 117 Stat. 1752,
 
 "(1)
 
-In general.—The purpose of this section \[see Tables for classification\] is to assemble together, without substantive amendment but with technical and conforming amendments of a non-substantive nature, recurring and general provisions of law on Department of Energy national security programs that remain in force in order to consolidate and organize such provisions of law into a single Act intended to comprise general provisions of law on such programs.
+In general.—The purpose of this section \[see Tables for classification\] is to assemble together, without substantive amendment but with technical and conforming amendments of a non-substantive nature, recurring and general provisions of law on Department ofEnergy national security programs that remain in force in order to consolidate and organize such provisions of law into a single Act intended to comprise general provisions of law on such programs.
 
 "(2)
 

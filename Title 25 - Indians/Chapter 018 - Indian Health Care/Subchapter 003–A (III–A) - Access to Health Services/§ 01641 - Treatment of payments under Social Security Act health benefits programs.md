@@ -14,7 +14,7 @@ Nothing in this chapter authorizes the Secretary to provide services to an India
 
 #### (A) 100 percent pass-through of payments due to facilities
 
-&emsp;&emsp;Notwithstanding any other provision of law, but subject to paragraph (2), payments to which a facility of the Service is entitled by reason of a provision of title XVIII or XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\] shall be placed in a special fund to be held by the Secretary. In making payments from such fund, the Secretary shall ensure that each Service unit of the Service receives 100 percent of the amount to which the facilities of the Service, for which such Service unit makes collections, are entitled by reason of a provision of either such title.
+&emsp;&emsp;Notwithstanding any other provision of law, but subject to paragraph (2), payments to which a facility of the Service is entitled by reason of a provision of title XVIII or XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\] shall be placed in a special fund to be held by the Secretary. In making payments from such fund, the Secretary shall ensure that each Service unit of the Service receives 100 percent of the amount to which the facilities of the Service, for which such Service unit makes collections,are entitled by reason of a provision of either such title.
 
 #### (B) Use of funds
 
@@ -34,7 +34,7 @@ Nothing in this chapter authorizes the Secretary to provide services to an India
 
 #### (A) Use of funds
 
-&emsp;&emsp;Each tribal health program making the election described in paragraph (1) with respect to a program under a title of the Social Security Act \[42 U.S.C. 301 et seq.\] shall be reimbursed directly by that program for items and services furnished without regard to subsection (c)(1), except that all amounts so reimbursed shall be used by the tribal health program for the purpose of making any improvements in facilities of the tribal health program that may be necessary to achieve or maintain compliance with the conditions and requirements applicable generally to such items and services under the program under such title and to provide additional health care services, improvements in health care facilities and tribal health programs, any health care-related purpose (including coverage for a service or service within a contract health service delivery area or any portion of a contract health service delivery area that would otherwisebe provided as a contract health service), or otherwise to achieve the objectives provided in section 1602 of this title.
+&emsp;&emsp;Each tribal health program making the election described in paragraph (1) with respect to a program under a title of the Social Security Act \[42 U.S.C. 301 et seq.\] shall be reimbursed directly by that program for items and services furnished without regard to subsection (c)(1), except that all amounts so reimbursed shall be used by the tribal health program for the purpose of making any improvements in facilities of the tribal health program that may be necessary to achieve or maintain compliance with the conditions and requirements applicable generally to such items and services under the program under such title and to provide additional health care services, improvements in health care facilities and tribal health programs, any health care-related purpose (including coverage for a service or service within a contract health service delivery area or any portion of a contract health service delivery area that would otherwise be provided as a contract health service), or otherwise to achieve the objectives provided in section 1602 of this title.
 
 #### (B) Audits
 
@@ -80,7 +80,7 @@ The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq
 
 #### Codification
 
-Amendment by Pub. L. 111–148 is based on section 151 of title I of S. 1790, One Hundred Eleventh Congress, asreported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+Amendment by Pub. L. 111–148 is based on section 151 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 Prior to general amendment by Pub. L. 102–573, section 401 of Pub. L. 94–437, in subsec. (a) amended sections 1395f and 1395n of Title 42, The Public Health and Welfare, in subsec. (b) enacted section 1395qq of Title 42, and in subsecs. (c) and (d) enacted provisions set out as notes under section 1395qq of Title 42 which were restated in this section.
 

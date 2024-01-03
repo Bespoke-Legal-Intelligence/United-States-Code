@@ -40,7 +40,7 @@ Nothing in this section shall be construed to prevent (in the case of property s
 
 &emsp;Paragraph (1) shall not apply to a sale or other disposition which is a part of a transaction in which the entire interest in property is transferred to any person or persons.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 295; Pub. L. 91–172, title II, §231(c)(2), title V, §516(a), Dec. 30, 1969, 83 Stat. 579, 646; Pub. L. 94–455, title XIX, §1901(a)(121), Oct. 4, 1976, 90 Stat. 1784; Pub. L. 95–600, title VII, §702(c)(9), Nov. 6, 1978, 92 Stat. 2928; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980,94 Stat. 299; Pub. L. 98–369, div. A, title IV, §421(b)(4), July 18, 1984, 98 Stat. 794; Pub. L. 103–66, title XIII, §13213(a)(2)(E), Aug. 10, 1993, 107 Stat. 474.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 295; Pub. L. 91–172, title II, §231(c)(2), title V, §516(a), Dec. 30, 1969, 83 Stat. 579, 646; Pub. L. 94–455, title XIX, §1901(a)(121), Oct. 4, 1976, 90 Stat. 1784; Pub. L. 95–600, title VII, §702(c)(9), Nov. 6, 1978, 92 Stat. 2928; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 98–369, div. A, title IV, §421(b)(4), July 18, 1984, 98 Stat. 794; Pub. L. 103–66, title XIII, §13213(a)(2)(E), Aug. 10, 1993, 107 Stat. 474.)
 
 #### <b>Editorial Notes</b>
 

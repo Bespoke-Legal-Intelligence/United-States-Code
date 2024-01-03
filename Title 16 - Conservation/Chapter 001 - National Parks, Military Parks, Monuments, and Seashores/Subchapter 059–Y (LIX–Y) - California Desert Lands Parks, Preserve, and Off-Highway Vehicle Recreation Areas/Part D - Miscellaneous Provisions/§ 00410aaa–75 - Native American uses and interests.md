@@ -2,7 +2,7 @@
 
 #### (a) Access
 
-The Secretary shall ensure access to areas designated under this Act by members of Indian Tribes for traditional cultural and religious purposes, consistent with applicable law, including Public Law 95–341 (commonly known as the "American Indian Religious Freedom Act") (42 U.S.C. 1996).
+The Secretary shall ensure access to areas designated under this Act by members of Indian Tribes for traditional cultural and religious purposes, consistent with applicable law, including Public Law 95–341 (commonly known as the "American Indian Religious Freedom Act") (42 U.S.C. 1996 \[, 1996a\]).
 
 #### (b) Temporary closure
 
@@ -58,7 +58,7 @@ The Secretary shall ensure access to areas designated under this Act by members 
 
 &emsp;&emsp;&emsp;(i) chapter 2003 of title 54;
 
-&emsp;&emsp;&emsp;(ii) Public Law 95–341 (commonly known as the 'American Indian Religious Freedom Act') (42 U.S.C. 1996 \[, 1996a\]);
+&emsp;&emsp;&emsp;(ii) Public Law 95–341 (commonly known as the "American Indian Religious Freedom Act") (42 U.S.C. 1996 \[, 1996a\]);
 
 &emsp;&emsp;&emsp;(iii) the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.);
 

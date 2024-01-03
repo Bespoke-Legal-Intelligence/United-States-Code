@@ -14,7 +14,7 @@ The commencement of a case under this subchapter constitutes an order for relief
 
 #### (d) Appeal
 
-The court may not, on account of an appeal from an order for relief, delay any proceedingunder this subchapter in the case in which the appeal is being taken, nor shall any court order a stay of such proceeding pending such appeal.
+The court may not, on account of an appeal from an order for relief, delay any proceeding under this subchapter in the case in which the appeal is being taken, nor shall any court order a stay of such proceeding pending such appeal.
 
 #### (e) Validity of debt
 

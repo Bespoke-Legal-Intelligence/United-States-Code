@@ -8,7 +8,7 @@ For purposes of this chapter—
 
 (c) The term "automobile" includes any passenger car or station wagon.
 
-(d) The term "new automobile" means an automobile the equitable or legal title to whichhas never been transferred by a manufacturer, distributor, or dealer to an ultimate purchaser.
+(d) The term "new automobile" means an automobile the equitable or legal title to which has never been transferred by a manufacturer, distributor, or dealer to an ultimate purchaser.
 
 (e) The term "dealer" shall mean any person resident or located in the United States or any Territory thereof or in the District of Columbia engaged in the sale or the distribution of new automobiles to the ultimate purchaser.
 
@@ -18,7 +18,7 @@ For purposes of this chapter—
 
 &emsp;(2) in the case of a new automobile imported into the United States, the port of importation.
 
-(g) The term "ultimate purchaser" means, with respect to any new automobile, the first person, other than a dealer purchasing in his capacity as a dealer, who in good faith purchases such new automobile for purposes other than resale.
+(g) The term "ultimate purchaser" means, with respect to any new automobile, the firstperson, other than a dealer purchasing in his capacity as a dealer, who in good faith purchases such new automobile for purposes other than resale.
 
 (h) The term "commerce" shall mean commerce among the several States of the United States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or among the Territories or between any Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation. New automobiles delivered to, or for further delivery to, ultimate purchasers within the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, Virgin Islands, American Samoa, the Trust Territories of the Pacific, the Canal Zone, Wake Island, Midway Island, Kingman Reef, Johnson Island, or within any other place under the jurisdiction of the United States shall be deemed to have been distributed in commerce.
 

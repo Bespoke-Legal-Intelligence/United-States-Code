@@ -14,7 +14,7 @@ The National Council shall—
 
 &emsp;(5) review and evaluate on a continuing basis—
 
-&emsp;&emsp;(A) policies, programs, practices, and procedures concerning individuals with disabilities conducted or assisted by Federal departments and agencies, including programs established or assisted under this chapter orunder the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\]; and
+&emsp;&emsp;(A) policies, programs, practices, and procedures concerning individuals with disabilities conducted or assisted by Federal departments and agencies, including programs established or assisted under this chapter or under the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\]; and
 
 &emsp;&emsp;(B) all statutes and regulations pertaining to Federal programs which assist such individuals with disabilities;
 

@@ -24,7 +24,7 @@ The basis of property acquired in a transfer with respect to which gain realized
 
 "(a)
 
-General rule.—If the executor of the estate of any decedent transfers to a qualified heir (within the meaning of section 2032A(e)(1)) any property with respect to which an election was made under section 2032A, then gain on such transfer shall be recognized to the estate only to the extent that, on the date of such transfer, the fair market value of such property exceeds the value of such property for purposes of chapter 11 (determined without regard to section 2032A).
+General rule.—If the executor of the estate of any decedent transfers to a qualified heir (within the meaning of section 2032A(e)(1)) any property with respect to which an election was made under section 2032A, then gain on such transfer shall be recognized to the estate only to the extent that, on the date of suchtransfer, the fair market value of such property exceeds the value of such property for purposes of chapter 11 (determined without regard to section 2032A).
 
 "(b)
 
@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 97–34 substituted "shall apply where the trustee of a tru
 
 &emsp;"(2) the trustee of the trust satisfies such right with property with respect to which an election was made under section 2032A".
 
-<b>1980</b>—Pub. L. 96–223 substituted "Use of farm, etc., property to satisfy pecuniary bequest" for "Use of certain appreciated carryover basis property to satisfy pecuniary request" in section catchline, generally revised subsecs. (a) and (b) to reflect the repeal elsewhere in the Code of carryover basis provisions, and struck out subsec. (d) which had provided that, for purposes of thissection, references to carryover basis property should be treated as including a reference to property the valuation of which is determined under section 2032A. Pub. L. 96–222 added subsec. (d).
+<b>1980</b>—Pub. L. 96–223 substituted "Use of farm, etc., property to satisfy pecuniary bequest" for "Use of certain appreciated carryover basis property to satisfy pecuniary request" in section catchline, generally revised subsecs. (a) and (b) to reflect the repeal elsewhere in the Code of carryover basis provisions, and struck out subsec. (d) which had provided that, for purposes of this section, references to carryover basis property should be treated as including a reference to property the valuation of which is determined under section 2032A. Pub. L. 96–222 added subsec. (d).
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–600 substituted "chapter 11 (determined without regard to section 2032A)" for "chapter 11".
 

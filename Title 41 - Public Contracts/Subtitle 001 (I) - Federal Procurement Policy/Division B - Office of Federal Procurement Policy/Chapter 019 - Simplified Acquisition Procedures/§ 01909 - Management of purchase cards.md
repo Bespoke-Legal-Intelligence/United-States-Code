@@ -2,7 +2,7 @@
 
 (a)
 
-Required Safeguards and Internal Controls.—The head of each executive agency that issues and uses purchase cards and convenience checks shall establish and maintain safeguards and internal controls to ensure the following:
+Required Safeguards and Internal Controls.—The head of each executive agency thatissues and uses purchase cards and convenience checks shall establish and maintain safeguards and internal controls to ensure the following:
 
 &emsp;(1) There is a record in each executive agency of each holder of a purchase card issued by the agency for official use, annotated with the limitations on single transactions and total transactions that are applicable to the use of each such card or check by that purchase card holder.
 
@@ -18,7 +18,7 @@ Required Safeguards and Internal Controls.—The head of each executive agency t
 
 &emsp;(5) Payments on purchase card accounts are made promptly within prescribed deadlines to avoid interest penalties.
 
-&emsp;(6) Rebates and refunds based on prompt payment, sales volume, or other actions by theagency on purchase card accounts are reviewed for accuracy and properly recorded as a receipt to the agency that pays the monthly bill.
+&emsp;(6) Rebates and refunds based on prompt payment, sales volume, or other actions by the agency on purchase card accounts are reviewed for accuracy and properly recorded as a receipt to the agency that pays the monthly bill.
 
 &emsp;(7) Records of each purchase card transaction (including records on associated contracts, reports, accounts, and invoices) are retained in accordance with standard Government policies on the disposition of records.
 

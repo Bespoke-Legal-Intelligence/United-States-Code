@@ -24,7 +24,7 @@ In carrying out this part, the Secretary shall also conduct technical assistance
 
 #### (e) Report
 
-Every 5 years after December 27, 2020, the Secretary shall report to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on advanced concepts andtechnologies to maximize the geothermal resource potential of the United States.
+Every 5 years after December 27, 2020, the Secretary shall report to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on advanced concepts and technologies to maximize the geothermal resource potential of the United States.
 
 #### (f) Progress reports
 

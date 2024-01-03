@@ -26,7 +26,7 @@ Except as provided in this section, the PBO shall abide by all applicable Federa
 
 #### (2) Fee for service arrangements
 
-&emsp;The Chief Operating Officer shall, when appropriate and consistent with the purposes of the PBO, acquire services related to the functions set forth in section 1018(b)(2) of this title from any entity that has the capability and capacity to meet the requirements set by the PBO. The Chief Operating Officer is authorized to pay fees that are equivalent to those paid by other entities to an organization that provides services that meet the requirements of the PBO, as determined by the Chief Operating Officer.
+&emsp;The Chief Operating Officer shall, when appropriate and consistent with the purposes of the PBO, acquire services related to the functions set forth in section 1018(b)(2) of this title from any entity that has the capability and capacity to meet the requirements set by the PBO. The Chief Operating Officer is authorizedto pay fees that are equivalent to those paid by other entities to an organization that provides services that meet the requirements of the PBO, as determined by the Chief Operating Officer.
 
 #### (d) Two-phase source-selection procedures
 
@@ -146,7 +146,7 @@ Whenever the PBO anticipates that commercial products or commercial services wil
 
 #### (A) Publication
 
-&emsp;&emsp;Not less than 30 days before issuing a solicitation for offers for a contract for a modulefor a system under procedures authorized under subparagraph (A) or (B) of paragraph (4), the PBO shall publish in the Commerce Business Daily a notice of the intent to use such procedures to enter into the contract.
+&emsp;&emsp;Not less than 30 days before issuing a solicitation for offers for a contract for a module for a system under procedures authorized under subparagraph (A) or (B) of paragraph (4), the PBO shall publish in the Commerce Business Daily a notice of the intent to use such procedures to enter into the contract.
 
 #### (B) Exception
 
@@ -196,7 +196,7 @@ Whenever the PBO anticipates that commercial products or commercial services wil
 
 #### (3) Compliance with OFPP guidance
 
-&emsp;The head of the PBO shall ensure that the procurements of the PBO under this section are carried out in a manner that is consistent with the guidance provided for the PBO under paragraph (2).
+&emsp;The head of the PBO shall ensure that the procurements of the PBO under this sectionare carried out in a manner that is consistent with the guidance provided for the PBO under paragraph (2).
 
 #### (j) Limitation on multiagency contracting
 
@@ -272,7 +272,7 @@ Subsec. (l)(3). Pub. L. 115–232, §836(g)(2)(D)(i), (iii), redesignated par. (
 
 Subsec. (l)(4). Pub. L. 115–232, §836(g)(2)(D)(i), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (l)(5). Pub. L. 115–232, §836(g)(2)(D)(i), (iv), redesignated par. (4) as (5) and substituted, in heading, "commercial products and commercial services" for "commercial items" and, in text, "commercial products and commercial services" for "commercial items" and "pursuant to sections 1901 and 3305(a) of title 41." for "pursuant to section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)) and section 31 of the Office of Federal Procurement Policy Act (41 U.S.C. 427)." Former par. (5) redesignated (6).
+Subsec. (l)(5). Pub. L. 115–232, §836(g)(2)(D)(i), (iv), redesignated par. (4) as (5) and substituted, in heading, "commercial products and commercial services" for"commercial items" and, in text, "commercial products and commercial services" for "commercial items" and "pursuant to sections 1901 and 3305(a) of title 41." for "pursuant to section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)) and section 31 of the Office of Federal Procurement Policy Act (41 U.S.C. 427)." Former par. (5) redesignated (6).
 
 Subsec. (l)(6). Pub. L. 115–232, §836(g)(2)(D)(i), (v), redesignated par. (5) as (6) and substituted "pursuant to sections 1901(a)(1) and 3305(a)(1) of title 41." for "pursuant to section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A)) and section 31(a)(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(a)(1))."
 

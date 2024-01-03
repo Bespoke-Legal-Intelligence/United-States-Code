@@ -32,7 +32,7 @@ Local government.—The term "local government" means—
 
 &emsp;(B) an Indian tribe or authorized tribal organization, or Alaska Native village or organization, that is not an Indian tribal government as defined in paragraph (6); and
 
-&emsp;(C) a rural community, unincorporated town or village, or other public entity, for which an application for assistance is made by a State or political subdivision of a State.
+&emsp;(C) a rural community, unincorporated town or village, or other public entity, for which anapplication for assistance is made by a State or political subdivision of a State.
 
 (9) "Federal agency" means any department, independent establishment, Government corporation, or other agency of the executive branch of the Federal Government, including the United States Postal Service, but shall not include the American National Red Cross.
 
@@ -168,7 +168,7 @@ Termination of effectiveness.—Paragraph (1) shall not be effective on and afte
 
 #### Definitions
 
-Pub. L. 115–254, div. D, §1203, Oct. 5, 2018, 132 Stat. 3438, provided that: "In this division \[see Short Title of2018 Amendment note set out under section 5121 of this title\]:
+Pub. L. 115–254, div. D, §1203, Oct. 5, 2018, 132 Stat. 3438, provided that: "In this division \[see Short Title of 2018 Amendment note set out under section 5121 of this title\]:
 
 &emsp;"(1)
 

@@ -210,7 +210,7 @@ In general.—Not later than two years after the date of the establishment of th
 
 Elements.—The report submitted under paragraph (1) shall include an analysis of the following:
 
-&emsp;&emsp;"(A) How the pilot program established under subsection (a)(1) affected policies on establishingand scheduling special activity airspace with an emphasis on the impact of allocation and utilization policies to other nonparticipating aviation users of the National Airspace System.
+&emsp;&emsp;"(A) How the pilot program established under subsection (a)(1) affected policies on establishing and scheduling special activity airspace with an emphasis on the impact of allocation and utilization policies to other nonparticipating aviation users of the National Airspace System.
 
 &emsp;&emsp;"(B) Whether the streamlined processes for dynamic scheduling and management of special activity airspace involved in the pilot program established under subsection (a)(1) contributed to—
 
@@ -296,11 +296,11 @@ Determination of Services and Support to Be Provided.—In determining the servi
 
 #### Enhanced Air Traffic Services
 
-Pub. L. 115–254, div. B, title V, §547, Oct. 5, 2018, 132 Stat. 3377, provided that:
+Pub. L. 115–254, div. B, title V, §547, Oct. 5, 2018, 132 Stat. 3377, as amended by Pub. L. 118–15, div. B, title II, §2202(u), Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §102(u), Dec. 26, 2023, 137 Stat. 1114, provided that:
 
 "(a)
 
-In General.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall establish a pilot program to provide air traffic controlservices on a preferential basis to aircraft equipped with certain NextGen \[Next Generation Air Transportation System\] avionics that—
+In General.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall establish a pilot program to provide air traffic control services on a preferential basis to aircraft equipped with certain NextGen \[Next Generation Air Transportation System\] avionics that—
 
 &emsp;"(1) lasts at least 2 years; and
 
@@ -332,7 +332,7 @@ Preferential basis.—The term 'preferential basis' means—
 
 "(e)
 
-Sunset.—The pilot program established under subsection (a) shall terminate on September 30, 2023.
+Sunset.—The pilot program established under subsection (a) shall terminate on March 8, 2024.
 
 "(f)
 

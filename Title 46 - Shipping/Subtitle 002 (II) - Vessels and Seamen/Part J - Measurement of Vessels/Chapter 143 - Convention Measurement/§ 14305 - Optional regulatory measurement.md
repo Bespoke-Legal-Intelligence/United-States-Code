@@ -1,6 +1,6 @@
 ### §14305. Optional regulatory measurement
 
-(a) On request of the owner of a vessel measured under this chapter that is of United Statesregistry or nationality, or a vessel operated under the authority of the United States, the Secretary also shall measure the vessel under chapter 145 of this title. The tonnages determined under that chapter shall be used in applying—
+(a) On request of the owner of a vessel measured under this chapter that is of United States registry or nationality, or a vessel operated under the authority of the United States, the Secretary also shall measure the vessel under chapter 145 of this title. The tonnages determined under that chapter shall be used in applying—
 
 &emsp;(1) parts A, B, C, E, F, and G of this subtitle and section 12116 of this title;
 
@@ -68,11 +68,11 @@ The International Convention for the Safety of Life at Sea: IMCO Resolution A.49
 
 &emsp;"(a) In respect of the requirements of Regulation 3 of Chapter IV of the 1974 SOLAS Convention for ships the keels of which are laid before 18 July 1994, the Administration may continue to apply the interim scheme, in which case the above-mentioned entry should be made in the Radio-telephony Certificate only; and
 
-&emsp;"(b) In respect of the regulations for cargo ships of less than 1,600 tons gross tonnage (as measured under national systems), the keels of which are laid after 31 December 1985, the Administration may continue to apply the interim scheme until 18 July 1984."
+&emsp;"(b) In respect of the regulations for cargo ships of less than 1,600 tons gross tonnage (as measured under national systems), the keels of which are laid after 31December 1985, the Administration may continue to apply the interim scheme until 18 July 1984."
 
 The International Convention on Standards of Training, Certification, and Watchkeeping for Seafarers, 1978: IMO Resolution A.540 (XIII) of November 17, 1983, provides "that the revised interim scheme for tonnage measurement for certain ships adopted by resolution A.494 (XII), \[described above\] should also be applicable in respect of the provision of the International Convention, and Watchkeeping for Seafarers, 1978."
 
-The International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 Relating to the International Convention for thePrevention of Pollution from Ships, 1973: IMO Resolution A.541 (XIII) of November 17, 1983, provides that:
+The International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973: IMO Resolution A.541 (XIII) of November 17, 1983, provides that:
 
 &emsp;At the request of a shipowner, the Administration may allow a ship of less than 400 tons gross tonnage (measured under the previous national tonnage rules) the keel of which is laid on or before 31 December 1985 and which is required to be measured under the provisions of the International Convention on Tonnage Measurement of Ships, 1969, to use the gross tonnage measured under the national tonnage rules which were in effect prior to the coming into force of the 1969 Tonnage Convention, for the purpose of application of the provisions of MARPOL 73/78. Such tonnage, however, shall not be shown on the 1969 Tonnage Certificate.
 

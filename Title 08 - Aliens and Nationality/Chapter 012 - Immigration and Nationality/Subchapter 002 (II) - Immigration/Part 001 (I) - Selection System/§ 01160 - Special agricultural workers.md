@@ -30,7 +30,7 @@
 
 #### (A) Group 1
 
-&emsp;&emsp;Subject to the numerical limitation established under subparagraph (C), in the case of an alien who has established, at the time of application for temporary residence under paragraph (1), that the alien performed seasonal agricultural services in the United States for at least 90 man-days during each of the 12-month periods ending on May 1,1984, 1985, and 1986, the adjustment shall occur on the first day after the end of the one-year period that begins on the later of (I) the date the alien was granted such temporary resident status, or (II) the day after the last day of the application period described in paragraph (1)(A).
+&emsp;&emsp;Subject to the numerical limitation established under subparagraph (C), in the case of an alien who has established, at the time of application for temporary residence under paragraph (1), that the alien performed seasonal agricultural services in the United States for at least 90 man-days during each of the 12-month periods ending on May 1, 1984, 1985, and 1986, the adjustment shall occur on the first day after the end of the one-year period that begins on the later of (I) the date the alien was granted such temporary resident status, or (II) the day after the last day of the application period described in paragraph (1)(A).
 
 #### (B) Group 2
 
@@ -72,7 +72,7 @@
 
 #### (B) Outside the United States
 
-&emsp;&emsp;The Attorney General, in cooperation with the Secretary of State, shall provide a procedure whereby an alien may apply for adjustment of status under subsection (a)(1) at an appropriate consular office outside the United States. If the alien otherwise qualifies for such adjustment, the Attorney General shall provide such documentation of authorization to enter the United States and to have the alien's status adjusted upon entry as may be necessary to carry out the provisions of this section.
+&emsp;&emsp;The Attorney General, in cooperation with the Secretary of State, shall provide a procedure whereby an alien may apply for adjustment of status under subsection (a)(1) at anappropriate consular office outside the United States. If the alien otherwise qualifies for such adjustment, the Attorney General shall provide such documentation of authorization to enter the United States and to have the alien's status adjusted upon entry as may be necessary to carry out the provisions of this section.
 
 #### (2) Designation of entities to receive applications
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(i) An alien applying for adjustment of status under subsection (a)(1) has the burden of proving by a preponderance of the evidence that the alien has worked the requisite number of man-days (as required under subsection (a)(1)(B)(ii)).
 
-&emsp;&emsp;(ii) If an employer or farm labor contractor employing such an alien has kept proper and adequate records respecting such employment, the alien's burden of proof under clause (i) may be met by securingtimely production of those records under regulations to be promulgated by the Attorney General.
+&emsp;&emsp;(ii) If an employer or farm labor contractor employing such an alien has kept proper and adequate records respecting such employment, the alien's burden of proof under clause (i) may be met by securing timely production of those records under regulations to be promulgated by the Attorney General.
 
 &emsp;&emsp;(iii) An alien can meet such burden of proof if the alien establishes that the alien has in fact performed the work described in subsection (a)(1)(B)(ii) by producing sufficient evidence to show the extent of that employment as a matter of just and reasonable inference. In such a case, the burden then shifts to the Attorney General to disprove the alien's evidence with a showing which negates the reasonableness of the inference to be drawn from the evidence.
 
@@ -346,7 +346,7 @@ Amendment by Pub. L. 101–649 applicable to applications for adjustment of stat
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Actof 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

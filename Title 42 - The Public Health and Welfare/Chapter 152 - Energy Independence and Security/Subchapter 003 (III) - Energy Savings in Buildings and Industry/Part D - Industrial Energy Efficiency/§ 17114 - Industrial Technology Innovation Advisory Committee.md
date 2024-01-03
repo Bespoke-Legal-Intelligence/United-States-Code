@@ -86,7 +86,7 @@ Not later than 180 days after December 27, 2020, the Secretary, in consultation 
 
 &emsp;&emsp;&emsp;(i) specify near-term and long-term qualitative and quantitative objectives relating to each focus area described in section 17113(c) of this title, including research, development, demonstration, and commercial application objectives;
 
-&emsp;&emsp;&emsp;(ii) leverage existing roadmaps relevant to the program in section 17113(b)(1) of this title and the focus areas in section 17113(c) of this title;
+&emsp;&emsp;&emsp;(ii) leverage existing roadmaps relevant to the program in section 17113(b)(1) of thistitle and the focus areas in section 17113(c) of this title;
 
 &emsp;&emsp;&emsp;(iii) specify the anticipated timeframe for achieving the objectives specified under clause (i);
 

@@ -30,7 +30,7 @@ Payment on account of any award pursuant to this subchapter shall not, unless su
 
 #### (f) Losses occurring in Commonwealth of the Philippines
 
-Payments made under this section on account of any award for loss, damage, or destruction occurring in the Commonwealth of the Philippines shall not exceed the amount paid on account of awards in the same amount under the Philippine Rehabilitation Act of 1946.<sup>1</sup>
+Payments made under this section on account of any award for loss, damage, or destruction occurring in the Commonwealth of the Philippines shall not exceed the amount paid on account ofawards in the same amount under the Philippine Rehabilitation Act of 1946.<sup>1</sup>
 
 (July 3, 1948, ch. 826, title II, §213, as added Pub. L. 87–846, title I, §103, Oct. 22, 1962, 76 Stat. 1111; amended Pub. L. 91–571, §1(a), Dec. 24, 1970, 84 Stat. 1503; Pub. L. 104–316, title I, §128(b), Oct. 19, 1996, 110 Stat. 3841.)
 

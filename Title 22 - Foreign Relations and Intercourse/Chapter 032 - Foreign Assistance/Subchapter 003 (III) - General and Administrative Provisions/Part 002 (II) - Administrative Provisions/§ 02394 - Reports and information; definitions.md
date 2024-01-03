@@ -36,7 +36,7 @@ In order that the Congress and the American people may be better and more curren
 
 &emsp;(6) the dollar value of all official development assistance, security assistance, international disaster assistance, refugee assistance, and international narcotics control assistance provided by each government of a country which is a member of the Organization for Economic Cooperation and Development or of the Organization of Petroleum Exporting Countries;
 
-&emsp;(7) the percentage which each type of assistance described in paragraph (6) represents of\(A) the gross national product of each country referred to in paragraph (6), and (B) the budget of the government of such country, as well as the per capita contribution for each country for each type of assistance described in paragraph (6);
+&emsp;(7) the percentage which each type of assistance described in paragraph (6) represents of (A) the gross national product of each country referred to in paragraph (6), and (B) the budget of the government of such country, as well as the per capita contribution for each country for each type of assistance described in paragraph (6);
 
 &emsp;(8) the amount of all foreign currencies acquired without payment of dollars on hand of each foreign country as of September 30 of the preceding fiscal year;
 
@@ -52,7 +52,7 @@ In order that the Congress and the American people may be better and more curren
 
 For purposes of this section—
 
-&emsp;(1) "foreign assistance" means any tangible or intangible item provided by the United States Government to a foreign country or international organization under this chapter or any other Act, including but not limited to any training, service, or technical advice, any item of real, personal, or mixed property, any agricultural commodity, United States dollars, and any currencies of any foreign country which are owned by the United States Government; and
+&emsp;(1) "foreign assistance" means any tangible or intangible item provided by the United States Government to a foreign country or international organization under this chapter or any other Act, including but not limited to any training, service, or technical advice, any item of real, personal, or mixed property, any agricultural commodity, United States dollars, and any currencies of any foreign countrywhich are owned by the United States Government; and
 
 &emsp;(2) "provided by the United States Government" includes, but is not limited to, foreign assistance provided by means of gift, loan, sale, credit, or guaranty.
 
@@ -164,7 +164,7 @@ Determinations, authorizations, regulations, orders, contracts, agreements, and 
 
 #### Annual Report on Economic and Social Growth
 
-Pub. L. 104–107, title V, §574, Feb. 12, 1996, 110 Stat. 749, required the President to submit to the appropriate congressional committees an annual report providing a concise overview of the prospects for economic and social growth in countries receiving economic assistance under title II of Pub. L. 104–107, prior to repeal by Pub.L. 107–228, div. A, title VI, §671(2), Sept. 30, 2002, 116 Stat. 1407.
+Pub. L. 104–107, title V, §574, Feb. 12, 1996, 110 Stat. 749, required the President to submit to the appropriate congressional committees an annual report providing a concise overview of the prospects for economic and social growth in countries receiving economic assistance under title II of Pub. L. 104–107, prior to repeal by Pub. L. 107–228, div. A, title VI, §671(2), Sept. 30, 2002, 116 Stat. 1407.
 
 #### Progress Report of Implementation of Immunization and Oral Rehydration Promotion Programs
 

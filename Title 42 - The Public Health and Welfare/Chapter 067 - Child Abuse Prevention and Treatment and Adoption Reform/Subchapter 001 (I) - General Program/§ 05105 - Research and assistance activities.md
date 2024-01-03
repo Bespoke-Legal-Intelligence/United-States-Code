@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(iii) the number of substantiated cases that result in a judicial finding of child abuse or neglect or related criminal court convictions;
 
-&emsp;&emsp;&emsp;(iv) the extent to which the number of unsubstantiated, unfounded and false reported cases of child abuse or neglect have contributed to the inability of a State torespond effectively to serious cases of child abuse or neglect;
+&emsp;&emsp;&emsp;(iv) the extent to which the number of unsubstantiated, unfounded and false reported cases of child abuse or neglect have contributed to the inability of a State to respond effectively to serious cases of child abuse or neglect;
 
 &emsp;&emsp;&emsp;(v) the extent to which the lack of adequate resources and the lack of adequate training of individuals required by law to report suspected cases of child abuse and neglect have contributed to the inability of a State to respond effectively to serious cases of child abuse and neglect;
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(x) the extent to which reports of suspected or known instances of child abuse or neglect involving a potential combination of jurisdictions, such as intrastate, interstate, Federal-State, and State-Tribal, are being screened out solely on the basis of the cross-jurisdictional complications; and
 
-&emsp;&emsp;&emsp;(xi) the incidence and outcomes of child abuse and neglect allegations reported within the context of divorce, custody, or other family court proceedings, and the interaction between this venue and the child protective services system.
+&emsp;&emsp;&emsp;(xi) the incidence and outcomes of child abuse and neglect allegations reportedwithin the context of divorce, custody, or other family court proceedings, and the interaction between this venue and the child protective services system.
 
 #### (2) Research
 
@@ -142,7 +142,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To enhance the quality and usefulness of research in the field of child abuse and neglect, the Secretary shall, in consultation with experts in the field and other Federal agencies, establish a formal, rigorous, and meritorious peer review process for purposes of evaluating and reviewing applications for assistance through a grant or contract under this section and determining the relative merits of the project for which such assistance is requested.
+&emsp;&emsp;To enhance the quality and usefulness of research in the field of child abuse and neglect, the Secretary shall, in consultation with experts in the field and other Federal agencies, establish a formal, rigorous, and meritorious peer review process for purposes of evaluating and reviewing applications for assistance through a grant or contract under this section and determining the relativemerits of the project for which such assistance is requested.
 
 #### (B) Members
 
@@ -220,7 +220,7 @@ A prior section 104 of Pub. L. 93–247 was renumbered section 103 and is classi
 
 Subsec. (a)(1)(B). Pub. L. 111–320, §113(a)(1)(B), substituted "child abuse and neglect on" for "abuse and neglect on".
 
-Subsec. (a)(1)(C) to (N). Pub. L. 111–320, §113(a)(1)(C)–(K), added subpars. (C), (G), (I), and (K) to (M), redesignated subpars. (C), (D), (E), (F), (G), and (H) as (D), (E), (F), (H), (J), and (N), respectively, in subpar. (D), inserted "and neglect" before semicolon at end, in subpar. (E), inserted ", including best practices to meet the needs of special populations," after "best practices" and substituted "(14)" for "(12)", in subpar. (J), substituted "low-income" for "low income", and, in subpar. (N), substituted "clauses (i) through (x) of subparagraph (O)" for "clauses (i) through (xi) of subparagraph (H)". Former subpar. (I) redesignated (O).
+Subsec. (a)(1)(C) to (N). Pub. L. 111–320, §113(a)(1)(C)–(K), added subpars. (C), (G), (I), and (K) to\(M), redesignated subpars. (C), (D), (E), (F), (G), and (H) as (D), (E), (F), (H), (J), and (N), respectively, in subpar. (D), inserted "and neglect" before semicolon at end, in subpar. (E), inserted ", including best practices to meet the needs of special populations," after "best practices" and substituted "(14)" for "(12)", in subpar. (J), substituted "low-income" for "low income", and, in subpar. (N), substituted "clauses (i) through (x) of subparagraph (O)" for "clauses (i) through (xi) of subparagraph (H)". Former subpar. (I) redesignated (O).
 
 Subsec. (a)(1)(O). Pub. L. 111–320, §113(a)(1)(C), (L), redesignated subpar. (I) as (O), in cls. (i) and (ii), inserted "and neglect" after "abuse", in cl. (v), substituted "child abuse and neglect have" for "child abuse have", added cl. (x) and redesignated former cl. (x) as (xi), and, in cl. (xi), substituted "child abuse and neglect" for "abuse".
 
@@ -296,7 +296,7 @@ Subsec. (a)(1)(D). Pub. L. 104–235, §105(a)(1)(B), (E), redesignated subpar. 
 
 "(iii) the incidence of substantiated reported child abuse cases that result in civil child protection proceedings or criminal proceedings, including the number of such cases with respect to which the court makes a finding that abuse or neglect exists and the disposition of such cases."
 
-Subsec. (a)(2). Pub. L. 104–235, §105(a)(2), struck out "and demonstration" after "research", substituted "paragraph (1)" for "paragraph (1)(A) and activities under section 5106 of this title" in subpar. (A) and struck out "and demonstration" after "research" in introductory provisions of subpar. (B).
+Subsec. (a)(2). Pub. L. 104–235, §105(a)(2), struck out "and demonstration" after "research", substituted"paragraph (1)" for "paragraph (1)(A) and activities under section 5106 of this title" in subpar. (A) and struck out "and demonstration" after "research" in introductory provisions of subpar. (B).
 
 Subsec. (b). Pub. L. 104–235, §105(b), (c), redesignated subsec. (c) as (b)(1), inserted par. heading, struck out ", through the Center," after "Secretary shall", inserted "State and local" before "public and nonprofit" and "assessment," before "identification", added pars. (2) and (3), and struck out heading and text of former subsec. (b) consisting of pars. (1) to (5) which related to publication and dissemination of information.
 

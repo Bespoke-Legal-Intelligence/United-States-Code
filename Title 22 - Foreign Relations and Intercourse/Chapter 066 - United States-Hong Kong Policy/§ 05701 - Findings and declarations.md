@@ -350,7 +350,7 @@ Property transactions.—The President may, pursuant to such regulations as the 
 
 &emsp;"(2)
 
-Exclusion from the united states and revocation of visa or other documentation.—In the case of a foreign person who is an individual, the President may direct the Secretary of State to deny a visa to, and the Secretary of Homeland Security toexclude from the United States, the foreign person, subject to regulatory exceptions to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
+Exclusion from the united states and revocation of visa or other documentation.—In the case of a foreign person who is an individual, the President may direct the Secretary of State to deny a visa to, and the Secretary of Homeland Security to exclude from the United States, the foreign person, subject to regulatory exceptions to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
 
 #### "SEC. 7. SANCTIONS WITH RESPECT TO FOREIGN FINANCIAL INSTITUTIONS THAT CONDUCT SIGNIFICANT TRANSACTIONS WITH FOREIGN PERSONS THAT CONTRAVENE THE OBLIGATIONS OF CHINA UNDER THE JOINT DECLARATION OR THE BASIC LAW.
 
@@ -466,7 +466,7 @@ Exception Relating to Importation of Goods.—
 
 &emsp;"(1)
 
-In general.—The authorities and requirements to impose sanctions under sections 6 and 7 shall not include the authority or requirement to impose sanctions on the importation of goods.
+In general.—The authorities and requirements to impose sanctions under sections 6 and 7 shall notinclude the authority or requirement to impose sanctions on the importation of goods.
 
 &emsp;"(2)
 
@@ -694,7 +694,7 @@ United states person.—The term 'United States person' means—
 
 &emsp;"(3) to support the democratic aspirations of the people of Hong Kong, including the 'ultimate aim' of the selection of the Chief Executive and all members of the Legislative Council by universal suffrage, as articulated in the Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China (referred to in this Act as the 'Basic Law');
 
-&emsp;"(4) to urge the Government of the People's Republic of China to uphold its commitments to Hong Kong, including allowing the people of Hong Kong to govern Hong Kong with a high degree of autonomy and without undue interference, and ensuring that Hong Kong voters freely enjoy the right to elect the Chief Executive and all members of the Hong Kong Legislative Council by universal suffrage;
+&emsp;"(4) to urge the Government of the People's Republic of China to uphold its commitments to Hong Kong, including allowing the people of Hong Kong togovern Hong Kong with a high degree of autonomy and without undue interference, and ensuring that Hong Kong voters freely enjoy the right to elect the Chief Executive and all members of the Hong Kong Legislative Council by universal suffrage;
 
 &emsp;"(5) to support the establishment of a genuine democratic option to freely and fairly nominate and elect the Chief Executive of Hong Kong, and the establishment by 2020 of open and direct democratic elections for all members of the Hong Kong Legislative Council;
 
@@ -786,7 +786,7 @@ Policy Statements.—It is the policy of the United States—
 
 "(b)
 
-Response to Threat of Rendition.—Not later than 30 days after the President determines that legislation proposed or enacted by the Government of Hong Kong would put United States citizens at risk of extradition or rendition to the People's Republic of China or to other countries that lack protections for the rightsof defendants, the President shall submit a report to the appropriate congressional committees that—
+Response to Threat of Rendition.—Not later than 30 days after the President determines that legislation proposed or enacted by the Government of Hong Kong would put United States citizens at risk of extradition or rendition to the People's Republic of China or to other countries that lack protections for the rights of defendants, the President shall submit a report to the appropriate congressional committees that—
 
 &emsp;"(1) contains a strategy for protecting United States citizens and businesses in Hong Kong;
 
@@ -932,7 +932,7 @@ Termination of Sanctions.—The President may terminate the application of sanct
 
 "(h)
 
-Sunset.—This section, and any sanctions imposed under this section, shall terminate on the date that is 5 years after the date of the enactment of this Act \[Nov. 27, 2019\].
+Sunset.—This section, and any sanctions imposed under this section, shall terminate on the datethat is 5 years after the date of the enactment of this Act \[Nov. 27, 2019\].
 
 "(i)
 
@@ -1008,7 +1008,7 @@ Sec. 3. Within 15 days of the date of this order \[July 14, 2020\], the heads of
 
 (c) revoke license exceptions for exports to Hong Kong, reexports to Hong Kong, and transfers (in-country) within Hong Kong of items subject to the Export Administration Regulations, 15 CFR Parts 730–774, that provide differential treatment compared to those license exceptions applicable to exports to China, reexports to China, and transfers (in-country) within China;
 
-(d) consistent with section 902(b)(2) of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246) \[22 U.S.C. 2151 note\], terminate the export licensing suspensions under section 902(a)(3) of such Act insofar as such suspensions apply to exports of defense articles to Hong Kong persons who are physically located outside of Hong Kong and the PRC and who were authorized to receive defense articles prior to the date of this order;
+(d) consistent with section 902(b)(2) of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991\(Public Law 101–246) \[22 U.S.C. 2151 note\], terminate the export licensing suspensions under section 902(a)(3) of such Act insofar as such suspensions apply to exports of defense articles to Hong Kong persons who are physically located outside of Hong Kong and the PRC and who were authorized to receive defense articles prior to the date of this order;
 
 (e) give notice of intent to suspend the Agreement Between the Government of the United States of America and the Government of Hong Kong for the Surrender of Fugitive Offenders (TIAS 98–121);
 
@@ -1070,7 +1070,7 @@ Sec. 8. (a) Any transaction that evades or avoids, has the purpose of evading or
 
 (b) Any conspiracy formed to violate any of the prohibitions set forth in this order is prohibited.
 
-Sec. 9. Nothing in this order shall prohibit transactions for the conduct of the official business of theFederal Government by employees, grantees, or contractors thereof.
+Sec. 9. Nothing in this order shall prohibit transactions for the conduct of the official business of the Federal Government by employees, grantees, or contractors thereof.
 
 Sec. 10. For the purposes of this order:
 
@@ -1078,7 +1078,7 @@ Sec. 10. For the purposes of this order:
 
 (b) the term "entity" means a government or instrumentality of such government, partnership, association, trust, joint venture, corporation, group, subgroup, or other organization, including an international organization;
 
-(c) the term "United States person" means any United States citizen, permanent resident alien, entity organized under the laws of the United States or any jurisdiction within the United States (including foreign branches), or any person in the United States; and
+(c) the term "United States person" means any United States citizen, permanent resident alien, entity organized under the laws of the United States or anyjurisdiction within the United States (including foreign branches), or any person in the United States; and
 
 (d) The term "immediate family member" means spouses and children of any age.
 
@@ -1103,6 +1103,8 @@ Sec. 15. If, based on consideration of the terms, obligations, and expectations 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Continuations of the national emergency with respect to Hong Kong declared by Ex. Ord. No. 13936 were contained in the following:
+
+Notice of President of the United States, dated July 11, 2023, 88 F.R. 44669.
 
 Notice of President of the United States, dated July 11, 2022, 87 F.R. 42057.
 

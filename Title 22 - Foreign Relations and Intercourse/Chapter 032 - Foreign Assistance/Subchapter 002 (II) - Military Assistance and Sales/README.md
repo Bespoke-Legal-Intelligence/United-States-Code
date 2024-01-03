@@ -14,3 +14,4 @@
 - [Part 007 (VII) - Air Base Construction in Israel](Part%20007%20%28VII%29%20-%20Air%20Base%20Construction%20in%20Israel/README.md)
 - [Part 008 (VIII) - Antiterrorism Assistance](Part%20008%20%28VIII%29%20-%20Antiterrorism%20Assistance/README.md)
 - [Part 009 (IX) - Nonproliferation and Export Control Assistance](Part%20009%20%28IX%29%20-%20Nonproliferation%20and%20Export%20Control%20Assistance/README.md)
+- [Part 010 (X) - Cyberspace, Digital Connectivity, and Related Technologies (CDT) Fund](Part%20010%20%28X%29%20-%20Cyberspace%2C%20Digital%20Connectivity%2C%20and%20Related%20Technologies%20%28CDT%29%20Fund/README.md)

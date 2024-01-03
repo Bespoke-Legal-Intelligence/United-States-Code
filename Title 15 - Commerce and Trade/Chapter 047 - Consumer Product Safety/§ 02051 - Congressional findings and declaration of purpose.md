@@ -66,7 +66,7 @@ Pub. L. 110–314, §1(a), Aug. 14, 2008, 122 Stat. 3016, provided that: "This A
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–608, §1, Nov. 16, 1990, 104 Stat. 3110, provided that: "This Act \[enacting sections 2076a and 2084of this title, amending sections 1193, 1194, 1262, 1274, 2053, 2055, 2056, 2058, 2061, 2064, 2066, 2069, 2077, and 2081 of this title, and enacting provisions set out as notes under sections 2053, 2054, 2056, 2076, and 2084 of this title\] may be cited as the 'Consumer Product Safety Improvement Act of 1990'."
+Pub. L. 101–608, §1, Nov. 16, 1990, 104 Stat. 3110, provided that: "This Act \[enacting sections 2076a and 2084 of this title, amending sections 1193, 1194, 1262, 1274, 2053, 2055, 2056, 2058, 2061, 2064, 2066, 2069, 2077, and 2081 of this title, and enacting provisions set out as notes under sections 2053, 2054, 2056, 2076, and 2084 of this title\] may be cited as the 'Consumer Product Safety Improvement Act of 1990'."
 
 #### Short Title of 1981 Amendment
 
@@ -86,7 +86,7 @@ Pub. L. 92–573, §1, Oct. 27, 1972, 86 Stat. 1207, provided that: "This Act \[
 
 #### Authority To Issue Implementing Regulations
 
-Pub. L. 110–314, §3, Aug. 14, 2008, 122 Stat. 3017, provided that: "The Commission may issue regulations, as necessary, to implement this Act \[see Short Title of 2008 Amendment note above\] and the amendments made by this Act."
+Pub. L. 110–314, §3, Aug. 14, 2008, 122 Stat. 3017, provided that: "The Commission may issue regulations, asnecessary, to implement this Act \[see Short Title of 2008 Amendment note above\] and the amendments made by this Act."
 
 #### Severability
 

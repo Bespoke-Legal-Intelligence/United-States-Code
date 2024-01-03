@@ -26,7 +26,7 @@ The period during which an individual is entitled to benefits under the insuranc
 
 &emsp;(3) in the case of an individual who is deemed to have enrolled—
 
-&emsp;&emsp;(A) on or before the last day of the third month of his initial enrollment period, the first day of the month in which he first meets the applicable requirements of section 1395o(a) of this title or July 1, 1973, whichever is later, or
+&emsp;&emsp;(A) on or before the last day of the third month of his initial enrollment period, the first day of the month in which he firstmeets the applicable requirements of section 1395o(a) of this title or July 1, 1973, whichever is later, or
 
 &emsp;&emsp;(B) on or after the first day of the fourth month of his initial enrollment period, and where such month begins—
 
@@ -74,7 +74,7 @@ Notwithstanding subsection (a), in the case of an individual who enrolls during 
 
 In the case of an individual described in section 1395o(b)(1) of this title, the following rules shall apply:
 
-&emsp;(1) In the case of such an individual who is deemed to have enrolled in part B for coverage of immunosuppressive drugs under section 1395p(n)(3) of this title, such individual's coverage period shall begin on the first day of themonth in which the individual first satisfies section 1395o(b) of this title.
+&emsp;(1) In the case of such an individual who is deemed to have enrolled in part B for coverage of immunosuppressive drugs under section 1395p(n)(3) of this title, such individual's coverage period shall begin on the first day of the month in which the individual first satisfies section 1395o(b) of this title.
 
 &emsp;(2) In the case of such an individual who enrolls (or reenrolls, if applicable) in part B for coverage of immunosuppressive drugs under paragraph (2) or (4) of section 1395p(n) of this title, such individual's coverage period shall begin on January 1, 2023, or the month following the month in which the individual so enrolls (or reenrolls), whichever is later.
 
@@ -160,7 +160,7 @@ Subsec. (b). Pub. L. 92–603, §§206(c), 257(a), inserted provisions relating 
 
 Subsecs. (c), (d). Pub. L. 92–603, §202(c)(3)(C), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-<b>1968</b>—Subsec. (b). Pub. L. 90–248 struck out ", during a general enrollment period described in section 1395p(e) of this title," after "notice" in par. (1), and substituted in first sentence following par. (2) "the calendar quarter following the calendar quarter" for "December 31 of the year".
+<b>1968</b>—Subsec. (b). Pub. L. 90–248 struck out ", during a general enrollment period described in section 1395p(e) of this title," after "notice" in par. (1), andsubstituted in first sentence following par. (2) "the calendar quarter following the calendar quarter" for "December 31 of the year".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

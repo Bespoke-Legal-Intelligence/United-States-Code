@@ -66,7 +66,7 @@ Historical and Revision Notes
 
 June 30, 1950, ch. 421, §3, 64 Stat. 304.
 
-The word "agreement" is substituted for the word "articles". The words "Hereafter", "appointed to the United States Military Academy", "engage", and 10:1092c (1st 25 words of clause (2)) are omitted as surplusage. The word "separated" is substituted for the words "discharged by competent authority". The words "if he is permitted to resign" are substituted for the words "in the event of the acceptance of his resignation", since a resignation is effective only when accepted. The first 31 words of clause (3) are substituted for 10:1092c (last 29 words of clause (3)). The last sentence is substituted for the words "with the consent of his parents or guardian if he be a minor, and if any he have".
+The word "agreement" is substituted for the word "articles". The words "Hereafter", "appointed to the United States Military Academy", "engage", and 10:1092c (1st 25 words of clause (2)) are omitted as surplusage. The word "separated" is substituted for the words "discharged by competent authority". The words "if he is permitted to resign" are substituted for thewords "in the event of the acceptance of his resignation", since a resignation is effective only when accepted. The first 31 words of clause (3) are substituted for 10:1092c (last 29 words of clause (3)). The last sentence is substituted for the words "with the consent of his parents or guardian if he be a minor, and if any he have".
 
 #### <b>Editorial Notes</b>
 
@@ -86,7 +86,7 @@ Subsec. (d). Pub. L. 117–263, §553(a)(4), substituted "with respect to a cade
 
 Subsec. (f). Pub. L. 117–263, §553(a)(5), substituted "each term" for "the terms".
 
-<b>2019</b>—Subsec. (a)(5)(A). Pub. L. 116–92 inserted "or seek or accept approval for off-duty employment whilecompleting the cadet's commissioned service obligation" before "to obtain employment".
+<b>2019</b>—Subsec. (a)(5)(A). Pub. L. 116–92 inserted "or seek or accept approval for off-duty employment while completing the cadet's commissioned service obligation" before "to obtain employment".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4348 of this title as this section.
 
@@ -166,7 +166,7 @@ Pub. L. 98–525, title V, §541(d), Oct. 19, 1984, 98 Stat. 2529, provided that
 
 #### Effective Date of 1964 Amendment; Obligated Period of Service
 
-Pub. L. 88–276, §5(c), Mar. 3, 1964, 78 Stat. 153, provided that: "The amendments made by this section\[amending this section, sections 6959 and 9348 of this title, and section 182 of Title 14, Coast Guard\] shall apply only with respect to cadets and midshipmen appointed to the service academies and the Coast Guard Academy after the date of enactment of this Act \[Mar. 3, 1964\], and shall not affect the obligated period of service of any cadet or midshipman appointed to one of the service academies or the Coast Guard Academy on or before the date of enactment of this Act."
+Pub. L. 88–276, §5(c), Mar. 3, 1964, 78 Stat. 153, provided that: "The amendments made by this section \[amending this section, sections 6959 and 9348 of this title, and section 182 of Title 14, Coast Guard\] shall apply only with respect to cadets and midshipmen appointed to the service academies and the Coast Guard Academy after the date of enactment of this Act \[Mar. 3, 1964\], and shall not affect the obligated period of service of any cadet or midshipman appointed to one of the service academies or the Coast Guard Academy on or before the date of enactment of this Act."
 
 #### Regulations Implementing 1985 Amendment
 
@@ -175,6 +175,32 @@ Pub. L. 99–145, title V, §512(d), Nov. 8, 1985, 99 Stat. 626, provided that: 
 #### Savings Provision
 
 For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
+
+#### Report on Service Academy Professional Sports Pathway
+
+Pub. L. 118–31, div. A, title V, §564(b), (c), Dec. 22, 2023, 137 Stat. 274, 275, provided that:
+
+"(b)
+
+Report Required.—Not later than March 1, 2024, and annually thereafter, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a report that includes the following information:
+
+&emsp;"(1) The name, covered Armed Force, and sport of each Service Academy graduate released or deferred from active service in order to participate in professional sports.
+
+&emsp;"(2) A description of the sports career progress of each participant, such as drafted, signed, released, or returned to service in a covered Armed Force.
+
+&emsp;"(3) A summary by participant of marketing strategy and recruiting related activities conducted.
+
+&emsp;"(4) A description by participant of the assessments conducted by the military services to determine the recruiting value associated with approved releases from active duty.
+
+&emsp;"(5) The current status of each participant, including, as appropriate, affiliated franchise.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered Armed Force' means the Army, Navy, Air Force, Marine Corps, or Space Force.
+
+&emsp;"(2) The term 'Service Academy' has the meaning given such term in section 347 of title 10, United States Code."
 
 #### Department of Defense Policy on Service Academy and ROTC Graduates Seeking To Participate in Professional Sports Before Completion of Their Active-Duty Service Obligations
 
@@ -214,7 +240,7 @@ Considerations.—In prescribing the policy, the Secretary shall take into accou
 
 Elements of Policy.—The policy prescribed under subsection (a) shall address the following matters:
 
-&emsp;"(1) The eligibility of graduates of the service academies and the Reserve Officers' Training Corps for a reduction in the obligated length of service on active duty as a commissioned officer otherwise required of such graduates on the basis of their participation in professional sports.
+&emsp;"(1) The eligibility of graduates of the service academies and the Reserve Officers' Training Corps for areduction in the obligated length of service on active duty as a commissioned officer otherwise required of such graduates on the basis of their participation in professional sports.
 
 &emsp;"(2) Criteria for the treatment of an individual as a participant or potential participant in professional sports.
 

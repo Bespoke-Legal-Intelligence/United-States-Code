@@ -24,7 +24,7 @@ It is the sense of Congress that—
 
 &emsp;(2) relief payments by the Administration are appropriate for all borrowers; and
 
-&emsp;(3) in addition to the relief provided under this Act, the Administration should encourage lenders to provide payment deferments, when appropriate, and to extend the maturity of covered loans, so as to avoid balloon paymentsor any requirement for increases in debt payments resulting from deferments provided by lenders during the period of the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the Coronavirus Disease 2019 (COVID–19).
+&emsp;(3) in addition to the relief provided under this Act, the Administration should encourage lenders to provide payment deferments, when appropriate, and to extend the maturity of covered loans, so as to avoid balloon payments or any requirement for increases in debt payments resulting from deferments provided by lenders during the period of the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the Coronavirus Disease 2019 (COVID–19).
 
 #### (c) Principal and interest payments
 
@@ -88,7 +88,7 @@ It is the sense of Congress that—
 
 #### (B) Treatment of additional amounts owed
 
-&emsp;&emsp;If, for a month, the total amount of principal, interest, and associated fees that are owed on a covered loan for which the Administration makes payments under paragraph (1) is more than $9,000 the Administrator may require the lender with respect to the covered loan to add the amount by which those costs exceed $9,000 for that month as interest to be paid by the borrower with respect to the covered loan at the end of the loan period.
+&emsp;&emsp;If, for a month, the total amount of principal, interest, and associated fees that are owed on a covered loan for which the Administration makes payments under paragraph (1) is more than $9,000 the Administratormay require the lender with respect to the covered loan to add the amount by which those costs exceed $9,000 for that month as interest to be paid by the borrower with respect to the covered loan at the end of the loan period.
 
 #### (5) Additional provisions for new loans
 
@@ -168,7 +168,7 @@ A borrower may not receive assistance under subsection (c) for more than 1 cover
 
 #### (2) Publication of list
 
-&emsp;Not later than March 1, 2021, the Administrator shall transmit to each lender of a covered loan a list of each borrower of a covered loan that includes the North American Industry Classification System code assigned to theborrower, based on the records of the Administration, to assist the lenders in identifying which borrowers qualify for an extension of payments under subsection (c).
+&emsp;Not later than March 1, 2021, the Administrator shall transmit to each lender of a covered loan a list of each borrower of a covered loan that includes the North American Industry Classification System code assigned to the borrower, based on the records of the Administration, to assist the lenders in identifying which borrowers qualify for an extension of payments under subsection (c).
 
 #### (3) Education and outreach
 

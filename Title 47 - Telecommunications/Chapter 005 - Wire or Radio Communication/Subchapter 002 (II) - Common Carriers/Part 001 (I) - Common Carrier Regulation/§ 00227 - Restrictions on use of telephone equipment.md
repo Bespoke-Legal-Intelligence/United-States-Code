@@ -10,7 +10,7 @@ As used in this section—
 
 &emsp;&emsp;(B) to dial such numbers.
 
-&emsp;(2) The term "established business relationship", for purposes only of subsection\(b)(1)(C)(i), shall have the meaning given the term in section 64.1200 of title 47, Code of Federal Regulations, as in effect on January 1, 2003, except that—
+&emsp;(2) The term "established business relationship", for purposes only of subsection (b)(1)(C)(i), shall have the meaning given the term in section 64.1200 of title 47, Code of Federal Regulations, as in effect on January 1, 2003, except that—
 
 &emsp;&emsp;(A) such term shall include a relationship between a person or entity and a business subscriber subject to the same terms applicable under such section to a relationship between a person or entity and a residential subscriber; and
 
@@ -110,7 +110,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(I) determine whether the existence of the exception under paragraph (1)(C) relating to an established business relationship has resulted in a significant number of complaints to the Commission regarding the sending of unsolicited advertisements to telephone facsimile machines;
 
-&emsp;&emsp;&emsp;(II) determine whether a significant number of any such complaints involve unsolicited advertisements that were sent on the basis of an established business relationship that was longer in duration than the Commission believes is consistent with the reasonable expectations of consumers;
+&emsp;&emsp;&emsp;(II) determine whether a significant number of any such complaints involve unsolicited advertisements that were sent on the basis of an established business relationship that was longer in duration thanthe Commission believes is consistent with the reasonable expectations of consumers;
 
 &emsp;&emsp;&emsp;(III) evaluate the costs to senders of demonstrating the existence of an established business relationship within a specified period of time and the benefits to recipients of establishing a limitation on such established business relationship; and
 
@@ -236,7 +236,7 @@ As used in this section—
 
 #### (5) Private right of action
 
-&emsp;A person who has received more than one telephone call within any 12-month period by or on behalf of the same entity in violation of the regulations prescribed under this subsection may, if otherwise permitted by the laws or rules of court of a State bring in an appropriate court of that State—
+&emsp;A person who has received more than one telephone call within any 12-month period byor on behalf of the same entity in violation of the regulations prescribed under this subsection may, if otherwise permitted by the laws or rules of court of a State bring in an appropriate court of that State—
 
 &emsp;&emsp;(A) an action based on a violation of the regulations prescribed under this subsection to enjoin such violation,
 
@@ -244,7 +244,7 @@ As used in this section—
 
 &emsp;&emsp;(C) both such actions.
 
-> &emsp;It shall be an affirmative defense in any action brought under this paragraph that the defendant has established and implemented, with due care, reasonable practices and procedures to effectively prevent telephone solicitations inviolation of the regulations prescribed under this subsection. If the court finds that the defendant willfully or knowingly violated the regulations prescribed under this subsection, the court may, in its discretion, increase the amount of the award to an amount equal to not more than 3 times the amount available under subparagraph (B) of this paragraph.
+> &emsp;It shall be an affirmative defense in any action brought under this paragraph that the defendant has established and implemented, with due care, reasonable practices and procedures to effectively prevent telephone solicitations in violation of the regulations prescribed under this subsection. If the court finds that the defendant willfully or knowingly violated the regulations prescribed under this subsection, the court may, in its discretion, increase the amount of the award to an amount equal to not more than 3 times the amount available under subparagraph (B) of this paragraph.
 
 #### (6) Relation to subsection (b)
 
@@ -454,7 +454,7 @@ As used in this section—
 
 #### (6) Effect on State court proceedings
 
-&emsp;Nothing contained in this subsection shall be construed to prohibit an authorized Stateofficial from proceeding in State court on the basis of an alleged violation of any general civil or criminal statute of such State.
+&emsp;Nothing contained in this subsection shall be construed to prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any general civil or criminal statute of such State.
 
 #### (7) Limitation
 
@@ -516,7 +516,7 @@ As used in this section—
 
 #### (1) In general
 
-&emsp;Not later than 1 year after December 30, 2019, the Commission shall take a final agency action to ensure the robocall blocking services provided on an opt-out or opt-in basis pursuant to the Declaratory Ruling of the Commission in the matter of Advanced Methods to Target and Eliminate Unlawful Robocalls (CG Docket No. 17–59; FCC 19–51; adopted on June 6, 2019)—
+&emsp;Not later than 1 year after December 30, 2019, the Commission shall take a final agencyaction to ensure the robocall blocking services provided on an opt-out or opt-in basis pursuant to the Declaratory Ruling of the Commission in the matter of Advanced Methods to Target and Eliminate Unlawful Robocalls (CG Docket No. 17–59; FCC 19–51; adopted on June 6, 2019)—
 
 &emsp;&emsp;(A) are provided with transparency and effective redress options for both—
 
@@ -626,7 +626,7 @@ Effective date.—The requirements of section 227 of the Communications Act of 1
 
 #### Regulations
 
-Pub. L. 116–105, §3(c), Dec. 30, 2019, 133 Stat. 3276, provided that: "The Commission \[Federal CommunicationsCommission\] shall prescribe regulations to implement the amendments made by this section \[amending this section\] not later than 270 days after the date of the enactment of this Act \[Dec. 30, 2019\]."
+Pub. L. 116–105, §3(c), Dec. 30, 2019, 133 Stat. 3276, provided that: "The Commission \[Federal Communications Commission\] shall prescribe regulations to implement the amendments made by this section \[amending this section\] not later than 270 days after the date of the enactment of this Act \[Dec. 30, 2019\]."
 
 Pub. L. 116–105, §8(b), Dec. 30, 2019, 133 Stat. 3283, provided that: "In the case of any exemption issued under subparagraph (B) or (C) of section 227(b)(2) of the Communications Act of 1934 (47 U.S.C. 227(b)(2)) before the date of the enactment of this Act \[Dec. 30, 2019\], the Commission \[Federal Communications Commission\] shall, not later than 1 year after such date of enactment, prescribe such regulations, or amend such existing regulations, as necessary to ensure that such exemption contains each requirement described in subparagraph (I) of such section, as added by subsection (a). To the extent such an exemption contains such a requirement before such date of enactment, nothing in this section \[amending this section\] or the amendments made by this section shall be construed to require the Commission to prescribe or amend regulations relating to such requirement."
 
@@ -788,7 +788,7 @@ Suspected unlawful robocall.—The term 'suspected unlawful robocall' means a ca
 
 Voice service.—The term 'voice service'—
 
-&emsp;&emsp;"(A) means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of the Communications Act of 1934 (47 U.S.C. 251(e)(1)); and
+&emsp;&emsp;"(A) means any service that is interconnected with the public switched telephone network andthat furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of the Communications Act of 1934 (47 U.S.C. 251(e)(1)); and
 
 &emsp;&emsp;"(B) includes—
 

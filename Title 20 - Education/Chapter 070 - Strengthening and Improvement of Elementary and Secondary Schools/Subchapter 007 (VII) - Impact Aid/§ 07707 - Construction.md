@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(C) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of paragraph (3)(B) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
-&emsp;&emsp;(D) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
+&emsp;&emsp;(D) The Secretary shall next give priority to applications for modernization grantsfrom local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
 #### (3) Eligibility requirements
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(I) The agency receives a basic support payment under section 7703(b) of this title for the fiscal year and the agency meets at least one of the following requirements:
 
-&emsp;&emsp;&emsp;&emsp;(aa) The number of children determined under section 7703(a)(1)(C) of thistitle for the agency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
+&emsp;&emsp;&emsp;&emsp;(aa) The number of children determined under section 7703(a)(1)(C) of this title for the agency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
 
 &emsp;&emsp;&emsp;&emsp;(bb) The number of children determined under subparagraphs (B) and (D)(i) of section 7703(a)(1) of this title for the agency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
 
@@ -268,7 +268,7 @@ Subsec. (a)(4). Pub. L. 114–95, §7007(1)(B), made technical amendment to refe
 
 Subsec. (b)(3)(A)(i)(III). Pub. L. 114–95, §7001(d)(8), made technical amendment to reference in original act which appears in text as reference to section 7703(b)(2) of this title.
 
-Subsec. (b)(3)(C)(i)(I). Pub. L. 114–95, §7001(d)(6), made technical amendment to reference in original act which appears in introductory provisions as reference to section 7703(b) of this title.
+Subsec. (b)(3)(C)(i)(I). Pub. L. 114–95, §7001(d)(6), made technical amendment to reference in original act whichappears in introductory provisions as reference to section 7703(b) of this title.
 
 Subsec. (b)(3)(C)(i)(I)(cc). Pub. L. 114–95, §7007(2)(A), added item (cc).
 

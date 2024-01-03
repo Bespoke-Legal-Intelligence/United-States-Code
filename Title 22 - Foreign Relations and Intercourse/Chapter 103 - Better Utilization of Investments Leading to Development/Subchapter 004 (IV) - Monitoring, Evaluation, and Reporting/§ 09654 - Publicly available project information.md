@@ -4,7 +4,7 @@ The Corporation shall—
 
 &emsp;(1) maintain a user-friendly, publicly available, machine-readable database with detailed project-level information, as appropriate and to the extent practicable, including a description of the support provided by the Corporation under subchapter II of this chapter, including, to the extent feasible, the information included in the report to Congress under section 9653 of this title and project-level performance metrics; and
 
-&emsp;(2) include a clear link to information about each project supported by the Corporationunder subchapter II of this chapter on the internet website of the Department of State, "ForeignAssistance.gov", or a successor website or other online publication.
+&emsp;(2) include a clear link to information about each project supported by the Corporation under subchapter II of this chapter on the internet website of the Department of State, "ForeignAssistance.gov", or a successor website or other online publication.
 
 (Pub. L. 115–254, div. F, title IV, §1444, Oct. 5, 2018, 132 Stat. 3506.)
 

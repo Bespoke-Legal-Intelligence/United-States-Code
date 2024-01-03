@@ -46,7 +46,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a program to provide Federal financial assistance to eligible entities to support the research, development, and demonstration of advanced nuclear reactors.
+&emsp;The Secretary shall establish a program to provide Federal financial assistance to eligible entities to support the research, development, demonstration, and deployment of advanced nuclear reactors and associated supply chain infrastructure.
 
 #### (2) Competitive procedures
 
@@ -102,5 +102,11 @@ In addition to amounts otherwise available, there are authorized to be appropria
 
 &emsp;(5) $250,000,000 for fiscal year 2027.
 
-(Pub. L. 117–167, div. B, title VI, §10781, Aug. 9, 2022, 136 Stat. 1728.)
+(Pub. L. 117–167, div. B, title VI, §10781, Aug. 9, 2022, 136 Stat. 1728; Pub. L. 118–31, div. C, title XXXI, §3131(p)(1), Dec. 22, 2023, 137 Stat. 803.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2023</b>—Subsec. (b)(1). Pub. L. 118–31 substituted "demonstration, and deployment of advanced nuclear reactors and associated supply chain infrastructure" for "and demonstration of advanced nuclear reactors".
 

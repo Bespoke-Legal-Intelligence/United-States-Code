@@ -28,7 +28,7 @@ A prior section 5223 of Pub. L. 89–10 was classified to section 7223b of this 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–95, §5003(6)(A), substituted "at such time and in such manner" for "atsuch time, in such manner, and accompanied by such information".
+<b>2015</b>—Subsec. (a). Pub. L. 114–95, §5003(6)(A), substituted "at such time and in such manner" for "at such time, in such manner, and accompanied by such information".
 
 Subsec. (b). Pub. L. 114–95, §5003(6)(B), added subsec. (b) and struck out former subsec. (b) which described required contents for applications submitted under subsec. (a).
 

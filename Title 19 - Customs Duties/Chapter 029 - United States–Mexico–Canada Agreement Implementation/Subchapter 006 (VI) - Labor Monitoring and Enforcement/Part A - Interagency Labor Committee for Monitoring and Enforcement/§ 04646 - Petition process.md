@@ -6,7 +6,7 @@ The Interagency Labor Committee shall establish procedures for submissions by th
 
 #### (b) Facility-specific petitions
 
-With respect to information submitted in accordance with the procedures established under subsection (a) accompanying a petition relating to a denial of rights at a covered facility, as such terms are defined for purposes of Annex 31–A of the USMCA:
+With respect to information submitted in accordance with the procedures established undersubsection (a) accompanying a petition relating to a denial of rights at a covered facility, as such terms are defined for purposes of Annex 31–A of the USMCA:
 
 &emsp;(1) The Interagency Labor Committee shall review such information within 30 days of submission and shall determine whether there is sufficient, credible evidence of a denial of rights (as so defined) enabling the good-faith invocation of enforcement mechanisms.
 

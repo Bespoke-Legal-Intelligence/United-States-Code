@@ -72,7 +72,7 @@ Standards.—(1) Polygraph examinations conducted under this section shall compl
 
 (2) Such examinations may be authorized for any of the following purposes:
 
-&emsp;(A) To assist in determining the initial eligibility for duties described in subsection (c) of, and aperiodically thereafter, on a random basis, to assist in determining the continued eligibility of, persons described in subsections (b)(1) and (c).
+&emsp;(A) To assist in determining the initial eligibility for duties described in subsection (c) of, and aperiodically thereafter, on a random basis, to assist in determining the continuedeligibility of, persons described in subsections (b)(1) and (c).
 
 &emsp;(B) With the consent of, or upon the request of, the examinee, to—
 

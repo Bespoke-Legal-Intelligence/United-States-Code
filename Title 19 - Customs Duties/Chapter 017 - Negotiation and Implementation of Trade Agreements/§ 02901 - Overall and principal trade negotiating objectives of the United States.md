@@ -54,7 +54,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;The principal negotiating objectives of the United States with respect to agriculture are to achieve, on an expedited basis to the maximum extent feasible, more open and fair conditions of trade in agricultural commodities by—
 
-&emsp;&emsp;(A) developing, strengthening, and clarifying rules for agricultural trade, including disciplines on restrictive or trade-distorting import and export practices;
+&emsp;&emsp;(A) developing, strengthening, and clarifying rules for agricultural trade, includingdisciplines on restrictive or trade-distorting import and export practices;
 
 &emsp;&emsp;(B) increasing United States agricultural exports by eliminating barriers to trade (including transparent and nontransparent barriers) and reducing or eliminating the subsidization of agricultural production consistent with the United States policy of agricultural stabilization in cyclical and unpredictable markets;
 
@@ -192,7 +192,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;(iv) otherwise denying equitable access by United States persons to foreign-developed technology or contributing to the inequitable flow of technology between the United States and its trading partners.
 
-&emsp;(B) In pursuing the negotiating objective described in subparagraph (A), the United States negotiators shall take into account UnitedStates Government policies in licensing or otherwise making available to foreign persons technology and other information developed by United States laboratories.
+&emsp;(B) In pursuing the negotiating objective described in subparagraph (A), the United States negotiators shall take into account United States Government policies in licensing or otherwise making available to foreign persons technology and other information developed by United States laboratories.
 
 #### (16) Border taxes
 
@@ -284,7 +284,7 @@ Sec. 1–501. <i>Uniform Fee on Imports</i>. The functions vested in the Preside
 
 Sec. 2–101. <i>Countertrade and Barter.</i>
 
-(1) <i>Establishment</i>. There is established an Interagency Group on Countertrade, which shall be composed of the Secretaries of Commerce, State, Defense, Treasury, Labor, Agriculture, and Energy, the Attorney General, the Administrator of the Agency for International Development, the Director \[Administrator\] of the Federal Emergency Management Agency, the United StatesTrade Representative and the Director of the Office of Management and Budget, or their respective representatives. The Secretary of Commerce or his representative shall be the Chairman of the interagency group.
+(1) <i>Establishment</i>. There is established an Interagency Group on Countertrade, which shall be composed of the Secretaries of Commerce, State, Defense, Treasury, Labor, Agriculture, and Energy, the Attorney General, the Administrator of the Agency for International Development, the Director \[Administrator\] of the Federal Emergency Management Agency, the United States Trade Representative and the Director of the Office of Management and Budget, or their respective representatives. The Secretary of Commerce or his representative shall be the Chairman of the interagency group.
 
 (2) <i>Functions</i>. The interagency group shall carry out the functions and duties set out in section 2205(a) of the Omnibus Trade Act \[15 U.S.C. 4712(a)\].
 
@@ -336,7 +336,7 @@ Sec. 3–301. <i>Reporting Requirement on Semiconductors, Fiber Optics and Super
 
 (B) Federal research and acquisition policies for fiber optics and optical-electronic technologies generally;
 
-(C) Superconducting materials, including descriptions of research priorities, the scientific and technical barriers to commercialization which such research is designed to overcome, steps taken to ensure coordination among Federal agencies conducting research on superconducting materials, and steps taken to consult with private United States industry to ensure that nounnecessary duplication of research exists and that all important scientific and technical barriers to the commercialization of superconducting materials will be addressed; and
+(C) Superconducting materials, including descriptions of research priorities, the scientific and technical barriers to commercialization which such research is designed to overcome, steps taken to ensure coordination among Federal agencies conducting research on superconducting materials, and steps taken to consult with private United States industry to ensure that no unnecessary duplication of research exists and that all important scientific and technical barriers to the commercialization of superconducting materials will be addressed; and
 
 (D) Federal research to assist United States industry to develop and apply advanced manufacturing technologies for the production of durable and nondurable goods.
 

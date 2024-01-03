@@ -2,7 +2,7 @@
 
 #### (a) Funds use prohibition; "election" and "Federal office" defined
 
-No part of any funds appropriated to carry out this chapter, or any program administered by the Corporation under this chapter, shall be used to finance, directly or indirectly, any activity designed to influence the outcome of any election to Federal office, or the outcome of any election to any State or local public office, or any voter registration activity, or to pay the salary of any officer or employee of the Corporation, who, in an official capacity as such an officer or employee, engages in any such activity. As used in this section, the term "election" (when referring to an election for Federal office) has the same meaning given such term by section 30101(1) of title 52, and the term "Federal office" has the same meaning given such term by section 30101(3) of title 52.
+No part of any funds appropriated to carry out this chapter, or any program administered by the Corporation under this chapter, shall be used to finance, directly or indirectly, any activity designed to influence the outcome of any election to Federal office, or the outcome of any election to any State or local public office, or any voter registration activity, or to pay the salary of any officer or employee of the Corporation, who, in an official capacity as such an officer or employee, engages in any such activity. As used in this section, the term "election" (when referring to an election for Federal office)has the same meaning given such term by section 30101(1) of title 52, and the term "Federal office" has the same meaning given such term by section 30101(3) of title 52.
 
 #### (b) Prohibition on program identification
 
@@ -48,7 +48,7 @@ References in subsec. (a) to "section 30101(1) of title 52" and to "section 3010
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–82, §405(a)(7), substituted "administered by the Corporation under thischapter" for "administered by the ACTION Agency" and "of the Corporation" for "of the ACTION Agency".
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §405(a)(7), substituted "administered by the Corporation under this chapter" for "administered by the ACTION Agency" and "of the Corporation" for "of the ACTION Agency".
 
 Subsec. (b)(1). Pub. L. 103–82, §363(3), added par. (1) and struck out former par. (1) which read as follows: "Programs assisted under this chapter shall not be carried on in a manner involving the use of funds, the provision of services, or the employment or assignment of personnel in a manner supporting or resulting in the identification of such programs with (A) any partisan or non-partisan political activity or any other political activity associated with a candidate, or contending faction or group, in an election for public or party office, (B) any activity to provide voters or prospective voters with transportation to the polls or similar assistance in connection with any such election, or (C) any voter registration activity."
 

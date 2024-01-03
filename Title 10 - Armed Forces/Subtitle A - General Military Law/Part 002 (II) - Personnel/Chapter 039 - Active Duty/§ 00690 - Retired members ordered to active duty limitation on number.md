@@ -2,7 +2,7 @@
 
 (a)
 
-General and Flag Officers.—Not more than 15 retired general officers of the Army, Air Force, or Marine Corps, and not more than 15 retired flag officers of the Navy, may be on active duty at any one time. For the purposes of this subsection a retired officer ordered to active duty for a period of 60 days or less is not counted.
+General and Flag Officers.—Not more than 15 retired general officers of the Army, Air Force, Marine Corps, or Space Force, and not more than 15 retired flag officers of the Navy, may be on active duty at any one time. For the purposes of this subsection a retired officer ordered to active duty for a period of 60 days or less is not counted.
 
 (b)
 
@@ -24,7 +24,7 @@ Limitation by Service.—(1) Not more than 25 officers of any one armed force ma
 
 Waiver for Periods of War or National Emergency.—Subsection (a) does not apply in time of war or of national emergency declared by Congress or the President after November 30, 1980. Subsection (b) does not apply in time of war or of national emergency declared by Congress or the President.
 
-(Added Pub. L. 104–201, div. A, title V, §521(a), Sept. 23, 1996, 110 Stat. 2516; amended Pub. L. 106–65, div. A, title V, §507, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–107, div. A, title V, §509(b), Dec. 28, 2001, 115 Stat. 1091.)
+(Added Pub. L. 104–201, div. A, title V, §521(a), Sept. 23, 1996, 110 Stat. 2516; amended Pub. L. 106–65, div. A, title V, §507, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–107, div. A, title V, §509(b), Dec. 28, 2001, 115 Stat. 1091; Pub. L. 118–31, div. A, title XVII, §1741(b)(1), Dec. 22, 2023, 137 Stat. 680.)
 
 #### <b>Editorial Notes</b>
 
@@ -35,6 +35,8 @@ A prior section 690 was renumbered section 12321 of this title.
 Provisions similar to those in subsecs. (a) and (c) of this section were contained in section 688(c) of this title prior to repeal by Pub. L. 104–201, §521(a).
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a). Pub. L. 118–31 substituted "Marine Corps, or Space Force," for "or Marine Corps,".
 
 <b>2001</b>—Subsec. (b)(2)(E). Pub. L. 107–107 added subpar. (E).
 

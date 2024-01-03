@@ -8,7 +8,7 @@ The Congress so declares because it finds—
 
 &emsp;(A) that the establishment, endowment, and continuing support of land-grant universities in the United States by Federal, State, and county governments has led to agricultural progress with and through the private sector in this country and to understanding processes of economic development;
 
-&emsp;(B) that land-grant and other universities in the United States have demonstrated over many years their ability to cooperate with international agencies, educational and research institutions in other countries, the private sector, and nongovernmental organizations worldwide, in expanding global agricultural production, processing, business and trade, to the benefit of aid recipient countries and of the United States;
+&emsp;(B) that land-grant and other universities in the United States have demonstrated overmany years their ability to cooperate with international agencies, educational and research institutions in other countries, the private sector, and nongovernmental organizations worldwide, in expanding global agricultural production, processing, business and trade, to the benefit of aid recipient countries and of the United States;
 
 &emsp;(C) that, in a world of growing populations with rising expectations, increased food production and improved distribution, storage, and marketing in the developing countries is necessary not only to prevent hunger and ensure human health and child survival, but to build the basis for economic growth and trade, and the social security in which democracy and a market economy can thrive, and moreover, that the greatest potential for increasing world food supplies and incomes to purchase food is in the developing countries where the gap between food need and food supply is the greatest and current incomes are lowest;
 
@@ -16,7 +16,7 @@ The Congress so declares because it finds—
 
 &emsp;(E) that, with expanding global markets and increasing imports into many countries, including the United States, food safety and quality, as well as secure supply, have emerged as mutual concerns of all countries;
 
-&emsp;(F) that research, teaching, and extension activities, and appropriate institutional andpolicy development therefore are prime factors in improving agricultural production, food distribution, processing, storage, and marketing abroad (as well as in the United States);
+&emsp;(F) that research, teaching, and extension activities, and appropriate institutional and policy development therefore are prime factors in improving agricultural production, food distribution, processing, storage, and marketing abroad (as well as in the United States);
 
 &emsp;(G) moreover, that agricultural research abroad has in the past and will continue in the future to provide benefits for agriculture and the broader economy of the United States and that increasing the availability of food of higher nutritional quality is of benefit to all;
 
@@ -66,7 +66,7 @@ The United States should—
 
 #### (d) Universities
 
-As used in this subpart, the term "universities" means those colleges or universities in each State, territory, or possession of the United States, or the District of Columbia, now receiving, or which may hereafter receive, benefits under the Act of July 2, 1862 (known as the First Morrill Act) \[7 U.S.C. 301 et seq.\], or theAct of August 30, 1890 (known as the Second Morrill Act) \[7 U.S.C. 321 et seq.\], which are commonly known as "land-grant" universities; institutions now designated or which may hereafter be designated as sea-grant colleges under the Act of October 15, 1966 (known as the National Sea Grant College and Program Act) \[33 U.S.C. 1121 et seq.\], which are commonly known as sea-grant colleges; Native American land-grant colleges as authorized under the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note); and other United States colleges and universities which—
+As used in this subpart, the term "universities" means those colleges or universities in each State, territory, or possession of the United States, or the District of Columbia, now receiving, or which may hereafter receive, benefits under the Act of July 2, 1862 (known as the First Morrill Act) \[7 U.S.C. 301 et seq.\], or the Act of August 30, 1890 (known as the Second Morrill Act) \[7 U.S.C. 321 et seq.\], which are commonly known as "land-grant" universities; institutions now designated or which may hereafter be designated as sea-grant colleges under the Act of October 15, 1966 (known as the National Sea Grant College and Program Act) \[33 U.S.C. 1121 et seq.\], which are commonly known as sea-grant colleges; Native American land-grant colleges as authorized under the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note); and other United States colleges and universities which—
 
 &emsp;(1) have demonstrable capacity in teaching, research, and extension (including outreach) activities in the agricultural sciences; and
 
@@ -220,7 +220,7 @@ Pub. L. 95–426, title VII, §711, Oct. 7, 1978, 92 Stat. 994, which authorized
 
 #### Settlement of Debt Owed the United States
 
-Pub. L. 94–161, title III, §321, Dec. 20, 1975, 89 Stat. 868, provided that: "No debt owed to the United States by any foreign country with respect to the payment of anyloan made under any program funded under this Act \[see Short Title of 1975 Amendment note set out under section 2151 of this title\] may be settled in an amount less than the full amount of such debt unless the Congress by concurrent resolution approves of such settlement."
+Pub. L. 94–161, title III, §321, Dec. 20, 1975, 89 Stat. 868, provided that: "No debt owed to the United States by any foreign country with respect to the payment of any loan made under any program funded under this Act \[see Short Title of 1975 Amendment note set out under section 2151 of this title\] may be settled in an amount less than the full amount of such debt unless the Congress by concurrent resolution approves of such settlement."
 
 #### Cooperation With Other Countries in Alleviating World Food Shortage; Emergency and Humanitarian Requirements
 

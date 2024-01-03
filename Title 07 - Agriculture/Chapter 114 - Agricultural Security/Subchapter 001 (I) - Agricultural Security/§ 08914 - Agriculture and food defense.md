@@ -136,7 +136,7 @@ In this section:
 
 #### (3) Coordination of plans
 
-&emsp;Pursuant to section 6922(d)(6) of this title, as added by section 12202, the Secretary shall, as appropriate, assist in coordinating with other appropriate Federal, State, regional, or localofficials in the exercising of the plans developed under paragraph (2).
+&emsp;Pursuant to section 6922(d)(6) of this title, as added by section 12202, the Secretary shall, as appropriate, assist in coordinating with other appropriate Federal, State, regional, or local officials in the exercising of the plans developed under paragraph (2).
 
 #### (c) National Plant Diagnostic Network
 

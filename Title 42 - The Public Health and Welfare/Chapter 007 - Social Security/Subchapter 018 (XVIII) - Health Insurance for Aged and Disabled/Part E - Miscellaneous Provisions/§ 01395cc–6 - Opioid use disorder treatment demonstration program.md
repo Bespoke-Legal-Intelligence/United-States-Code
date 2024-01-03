@@ -246,7 +246,7 @@ Section 223 of the Protecting Access to Medicare Act of 2014, referred to in sub
 
 #### Amendments
 
-<b>2022</b>—Subsec. (c)(3)(C). Pub. L. 117–328 struck out subpar. (C) which read as follows: "has in effect a waiver in accordance with section 823(h) of title 21 for such purpose and is otherwise in compliance with regulations promulgated by the Substance Abuse and Mental Health Services Administration to carry out such section."
+<b>2022</b>—Subsec. (c)(3)(C). Pub. L. 117–328 struck out subpar. (C) which read as follows: "has in effect a waiverin accordance with section 823(h) of title 21 for such purpose and is otherwise in compliance with regulations promulgated by the Substance Abuse and Mental Health Services Administration to carry out such section."
 
 Pub. L. 117–215 substituted "823(h)" for "823(g)".
 

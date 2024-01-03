@@ -26,7 +26,7 @@ The duties of the Office shall be as follows:
 
 #### (d) Independent Office
 
-The Secretary shall take appropriate actions to ensure the independence of the Office within the Department of Labor, including independence from other officers and employees of the Department engaged in activities relating to the administration of the provisions of this part and part B.
+The Secretary shall take appropriate actions to ensure the independence of the Office withinthe Department of Labor, including independence from other officers and employees of the Department engaged in activities relating to the administration of the provisions of this part and part B.
 
 #### (e) Annual report
 
@@ -84,5 +84,5 @@ Subsecs. (g), (h). Pub. L. 111–84, §3142(a)(4), (5), added subsec. (g) and re
 
 #### Construction
 
-Pub. L. 111–84, div. C, title XXXI, §3142(b), Oct. 28, 2009, 123 Stat. 2716, provided that: "Except as specifically provided in subsection (g) of section 3686 of theEnergy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7385s–15(g)\], as amended by subsection (a) of this section, nothing in the amendments made by such subsection (a) shall be construed to alter or affect the duties and functions of the individual employed by the National Institute for Occupational Safety and Health to serve as an ombudsman to individuals making claims under subtitle B of the Energy Employees Occupational Illness Compensation Program Act of 2000 (42 U.S.C. 7384l et seq.)."
+Pub. L. 111–84, div. C, title XXXI, §3142(b), Oct. 28, 2009, 123 Stat. 2716, provided that: "Except as specifically provided in subsection (g) of section 3686 of the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7385s–15(g)\], as amended by subsection (a) of this section, nothing in the amendments made by such subsection (a) shall be construed to alter or affect the duties and functions of the individual employed by the National Institute for Occupational Safety and Health to serve as an ombudsman to individuals making claims under subtitle B of the Energy Employees Occupational Illness Compensation Program Act of 2000 (42 U.S.C. 7384l et seq.)."
 

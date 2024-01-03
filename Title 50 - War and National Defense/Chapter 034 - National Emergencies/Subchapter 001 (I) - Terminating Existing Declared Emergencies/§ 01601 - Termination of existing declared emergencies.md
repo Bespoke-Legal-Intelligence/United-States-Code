@@ -20,7 +20,7 @@ Pub. L. 94–412, §1, Sept. 14, 1976, 90 Stat. 1255, provided: "That this Act \
 
 #### Savings Provision
 
-Pub. L. 94–412, title V, §501(h), Sept. 14, 1976, 90 Stat. 1258, provided that: "This section \[amending section 1481 of Title 8, Aliens and Nationality and section 2667 of Title 10, Armed Forces, and repealing section 249 of Title 12, Banks and Banking, section 831d of Title 16,Conservation, section 1383 of Title 18, Crimes and Criminal Procedure, and section 211b of Title 42, The Public Health and Welfare\] shall not affect—
+Pub. L. 94–412, title V, §501(h), Sept. 14, 1976, 90 Stat. 1258, provided that: "This section \[amending section 1481 of Title 8, Aliens and Nationality and section 2667 of Title 10, Armed Forces, and repealing section 249 of Title 12, Banks and Banking, section 831d of Title 16, Conservation, section 1383 of Title 18, Crimes and Criminal Procedure, and section 211b of Title 42, The Public Health and Welfare\] shall not affect—
 
 &emsp;"(1) any action taken or proceeding pending not finally concluded or determined at the time of repeal;
 

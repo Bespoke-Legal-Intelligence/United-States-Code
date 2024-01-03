@@ -18,5 +18,5 @@ Nothing contained in this section shall be construed to diminish the authority o
 
 #### Effective Date
 
-Section effective and to be implemented no later than Feb. 1, 1992, see section 1101(d)(1) of Pub. L.102–237, set out as an Effective Date of 1991 Amendment note under section 1421 of this title.
+Section effective and to be implemented no later than Feb. 1, 1992, see section 1101(d)(1) of Pub. L. 102–237, set out as an Effective Date of 1991 Amendment note under section 1421 of this title.
 

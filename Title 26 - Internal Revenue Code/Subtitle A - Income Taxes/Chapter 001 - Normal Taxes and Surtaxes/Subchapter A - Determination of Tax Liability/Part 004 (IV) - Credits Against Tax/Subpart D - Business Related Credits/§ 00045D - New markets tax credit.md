@@ -118,7 +118,7 @@ For purposes of this section—
 
 #### (B) Proprietorship
 
-&emsp;&emsp;Such term shall include any business carried on by an individual as a proprietor if such business would meet the requirements of subparagraph (A) were it incorporated.
+&emsp;&emsp;Such term shall include any business carried on by an individual as a proprietor ifsuch business would meet the requirements of subparagraph (A) were it incorporated.
 
 #### (C) Portions of business may be qualified active low-income community business
 

@@ -20,7 +20,7 @@ If—
 
 &emsp;&emsp;(B) the decrease in tax under this chapter (or the corresponding provisions of prior revenue laws) for the prior taxable year (or years) which would result solely from the exclusion of such item (or portion thereof) from gross income for such prior taxable year (or years).
 
-> For purposes of paragraph (5)(B), the corresponding provisions of the Internal RevenueCode of 1939 shall be chapter 1 of such code (other than subchapter E, relating to self-employment income) and subchapter E of chapter 2 of such code.
+> For purposes of paragraph (5)(B), the corresponding provisions of the Internal Revenue Code of 1939 shall be chapter 1 of such code (other than subchapter E, relating to self-employment income) and subchapter E of chapter 2 of such code.
 
 #### (b) Special rules
 
@@ -56,7 +56,7 @@ Subchapter E of chapter 2 of the Internal Revenue Code of 1939, referred to in s
 
 <b>1976</b>—Subsec. (b)(2). Pub. L. 94–455 struck out provision relating to the applicability of this paragraph where deduction arises out of payments or repayments made pursuant to a price redetermination provision in a subcontract entered into before Jan. 1, 1958.
 
-<b>1964</b>—Subsec. (b)(2). Pub. L. 88–272 substituted "7701(a)(33) without regard to the limitation continued in the last two sentences thereof)" for "1503(c) without regard to paragraph (2) thereof)".
+<b>1964</b>—Subsec. (b)(2). Pub. L. 88–272 substituted "7701(a)(33) without regard to the limitation continuedin the last two sentences thereof)" for "1503(c) without regard to paragraph (2) thereof)".
 
 <b>1962</b>—Subsec. (b)(4), (5). Pub. L. 87–863 added pars. (4) and (5).
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–863, §5(b), Oct. 23, 1962, 76 Stat. 1143, provided that: "The amendment made by subsection (a)\[amending this section\] shall be effective with respect to taxable years beginning on or after January 1, 1962."
+Pub. L. 87–863, §5(b), Oct. 23, 1962, 76 Stat. 1143, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective with respect to taxable years beginning on or after January 1, 1962."
 
 #### Effective Date of 1958 Amendment
 

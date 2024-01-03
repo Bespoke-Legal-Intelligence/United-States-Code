@@ -174,7 +174,7 @@ Non-Federal members.—The non-Federal members of the Task Force shall—
 
 &emsp;"(4)
 
-Deadline for designating designees.—If the Assistant Secretary for Health, the Assistant Secretary for Mental Health and Substance Use, or the head of a Federal department or agency serving as a member of the Task Force under paragraph (2), chooses to be represented on the Task Force by a designee, the Assistant Secretary for Health, the Assistant Secretary for Mental Health and Substance Use, or department or agency head shall designate such designee not later than 90 days after the date of the enactment of this section \[Dec. 29, 2022\].
+Deadline for designating designees.—If the Assistant Secretary for Health, the Assistant Secretary for Mental Health and Substance Use, or thehead of a Federal department or agency serving as a member of the Task Force under paragraph (2), chooses to be represented on the Task Force by a designee, the Assistant Secretary for Health, the Assistant Secretary for Mental Health and Substance Use, or department or agency head shall designate such designee not later than 90 days after the date of the enactment of this section \[Dec. 29, 2022\].
 
 "(c)
 

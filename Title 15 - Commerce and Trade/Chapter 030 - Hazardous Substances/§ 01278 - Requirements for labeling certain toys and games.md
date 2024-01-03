@@ -112,7 +112,7 @@
 
 #### (4) Enforcement
 
-&emsp;The requirements in paragraph (1) shall be treated as a consumer product safety standardpromulgated under section 2058 of this title. The publication or distribution of any advertisement that is not in compliance with paragraph (1) shall be treated as a prohibited act under section 2068(a)(1) of this title.
+&emsp;The requirements in paragraph (1) shall be treated as a consumer product safety standard promulgated under section 2058 of this title. The publication or distribution of any advertisement that is not in compliance with paragraph (1) shall be treated as a prohibited act under section 2068(a)(1) of this title.
 
 #### (d) General labeling requirements
 
@@ -126,7 +126,7 @@
 
 #### (2) Exception for products manufactured outside United States
 
-&emsp;In the case of a product manufactured outside the United States and directly shipped from the manufacturer to the consumer by United States mail or other delivery service, the accompanying material inside the package of the product may fail to bear the required statement if other accompanying material shipped with the product bears such statement.
+&emsp;In the case of a product manufactured outside the United States and directly shipped from the manufacturer to the consumer by United States mail or other delivery service,the accompanying material inside the package of the product may fail to bear the required statement if other accompanying material shipped with the product bears such statement.
 
 #### (3) Special rules for certain packages
 
@@ -176,7 +176,7 @@ Pub. L. 103–267, title I, §101(e), June 16, 1994, 108 Stat. 725, provided tha
 
 "(1)
 
-In general.—Subject to paragraph (2), a State or political subdivision of a State may not establish or enforce a requirement relating to cautionary labeling of small parts hazards or choking hazards in any toy, game, marble, small ball, or balloon intended or suitable for use by children unless such requirement is identical to a requirement established by amendmentsmade by this section to the Federal Hazardous Substances Act \[enacting this section\] or by regulations promulgated by the Commission.
+In general.—Subject to paragraph (2), a State or political subdivision of a State may not establish or enforce a requirement relating to cautionary labeling of small parts hazards or choking hazards in any toy, game, marble, small ball, or balloon intended or suitable for use by children unless such requirement is identical to a requirement established by amendments made by this section to the Federal Hazardous Substances Act \[enacting this section\] or by regulations promulgated by the Commission.
 
 "(2)
 

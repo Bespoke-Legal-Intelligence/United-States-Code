@@ -56,5 +56,5 @@ This Act, referred to in subsec. (c)(2)(A), refers to the Agricultural Act of 19
 
 #### Waiver of Requirements Relating to Non-Federal Cost-Share Grants and Cooperative Agreements for the Delta Regional Authority
 
-Pub. L. 116–260, div. D, title V, §505(a), Dec. 27, 2020, 134 Stat. 1379, provided that: "Requirements relating to non-Federal cost-share grants and cooperative agreements for the Delta Regional Authority under section 382D of the Agricultural Act of 1961 and Consolidated Farm and Rural Development Act (7 U.S.C. 2009aa–3) are waived for grants awarded in fiscal year 2020 and in subsequent years in response to economic distress directly related to the impacts of the Coronavirus Disease (COVID–19)."
+Pub. L. 116–260, div. D, title V, §505(a), Dec. 27, 2020, 134 Stat. 1379, provided that: "Requirements relating to non-Federal cost-share grants and cooperative agreements for the Delta Regional Authority under section 382D of the Agricultural Act of 1961 and Consolidated Farm and Rural Development Act (7 U.S.C. 2009aa–3)are waived for grants awarded in fiscal year 2020 and in subsequent years in response to economic distress directly related to the impacts of the Coronavirus Disease (COVID–19)."
 

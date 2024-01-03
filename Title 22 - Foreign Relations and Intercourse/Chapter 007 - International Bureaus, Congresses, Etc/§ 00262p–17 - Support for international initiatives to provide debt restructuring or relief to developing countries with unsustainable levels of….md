@@ -14,7 +14,7 @@ The Secretary of the Treasury, in consultation with the Secretary of State, shal
 
 &emsp;&emsp;(D) expansion of Common Framework country eligibility to lower middle-income countries who otherwise meet the existing criteria;
 
-&emsp;&emsp;(E) improvements to the Common Framework process with the aim of ensuring access to debt relief in a timely manner for those countries eligible and who request treatment; and
+&emsp;&emsp;(E) improvements to the Common Framework process with the aim of ensuring access to debt relief in a timely manner for thosecountries eligible and who request treatment; and
 
 &emsp;&emsp;(F) consistent enforcement and improvement of the policies of multilateral institutions relating to asset-based and revenue-based borrowing by participating debtors, and coordinated standards on restructuring collateralized debt;
 

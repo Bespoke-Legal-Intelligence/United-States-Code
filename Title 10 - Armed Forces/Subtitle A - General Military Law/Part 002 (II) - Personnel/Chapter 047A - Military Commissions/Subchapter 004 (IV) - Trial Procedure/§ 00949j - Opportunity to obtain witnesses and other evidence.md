@@ -30,5 +30,5 @@ Disclosure of Exculpatory Evidence.—(1) As soon as practicable, trial counsel 
 
 #### Prior Provisions
 
-A prior section 949j, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2614, related to the opportunityto obtain witnesses and other evidence, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949j, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2614, related to the opportunity to obtain witnesses and other evidence, prior to the general amendment of this chapter by Pub. L. 111–84.
 

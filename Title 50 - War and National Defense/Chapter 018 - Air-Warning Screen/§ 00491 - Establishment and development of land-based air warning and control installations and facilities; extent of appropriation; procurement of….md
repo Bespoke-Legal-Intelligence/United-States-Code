@@ -18,7 +18,7 @@ In text, "sections 501–505 of title 40" substituted for "section 201 of the Ac
 
 <b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in second par.
 
-<b>1996</b>—Pub. L. 104–316, in third sentence of second par., struck out "no termination payment shall be final until audited and approved by" after "$222,000,000 and", struck out "which" after "Office", and inserted "of audit" after "for the purpose".
+<b>1996</b>—Pub. L. 104–316, in third sentence of second par., struck out "no termination payment shall be finaluntil audited and approved by" after "$222,000,000 and", struck out "which" after "Office", and inserted "of audit" after "for the purpose".
 
 <b>1982</b>—Pub. L. 97–214 struck out reference to sections 1136 \[10 U.S.C. 4774, 9774\] and 3734 \[40 U.S.C. 259, 267\] of the Revised Statutes.
 

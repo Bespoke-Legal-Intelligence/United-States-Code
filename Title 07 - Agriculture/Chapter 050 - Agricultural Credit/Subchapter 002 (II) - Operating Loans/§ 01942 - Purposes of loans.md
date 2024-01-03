@@ -14,7 +14,7 @@ A direct loan (including a microloan, as defined by the Secretary) may be made u
 
 &emsp;(5) paying loan closing costs;
 
-&emsp;(6) assisting a farmer or rancher in changing the equipment, facilities, or methods of operation of a farm or ranch to comply with a standard promulgated under section 655 of title 29 or a standard adopted by a State under a plan approved under section 667 of title 29, if the Secretary determines that without assistance under this paragraph the farmer or rancher is likely to suffer substantial economic injury in complying with the standard;
+&emsp;(6) assisting a farmer or rancher in changing the equipment, facilities, or methods of operation of a farm or ranch to comply with a standard promulgated under section 655 of title 29 or a standard adopted by a State under a plan approved under section 667 of title 29, if the Secretary determines that without assistance under this paragraph the farmer orrancher is likely to suffer substantial economic injury in complying with the standard;
 
 &emsp;(7) training a limited-resource borrower receiving a loan under section 1934 of this title in maintaining records of farming and ranching operations;
 
@@ -24,7 +24,7 @@ A direct loan (including a microloan, as defined by the Secretary) may be made u
 
 &emsp;&emsp;(A) has refinanced a loan under this subchapter not more than 4 times previously; and
 
-&emsp;&emsp;(B)(i) is a direct loan borrower under this chapter at the time of the refinancing and has suffered a qualifying loss because of a natural disaster declared by the Secretary under this chapter or a major disaster oremergency designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); or
+&emsp;&emsp;(B)(i) is a direct loan borrower under this chapter at the time of the refinancing and has suffered a qualifying loss because of a natural disaster declared by the Secretary under this chapter or a major disaster or emergency designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); or
 
 &emsp;&emsp;(ii) is refinancing a debt obtained from a creditor other than the Secretary; or
 

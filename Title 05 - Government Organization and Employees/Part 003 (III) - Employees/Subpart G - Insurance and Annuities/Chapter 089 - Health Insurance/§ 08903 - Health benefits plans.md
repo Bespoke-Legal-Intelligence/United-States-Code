@@ -4,7 +4,7 @@ The Office of Personnel Management may contract for or approve the following hea
 
 &emsp;(1)
 
-Service Benefit Plan.—One Government-wide plan, which may be underwritten by participating affiliates licensed in any number of States, offering at least 2 levels of benefits for enrollees under this chapter generally and at least 2 levels of benefits for enrollees under the Postal Service Health Benefits Program established under section 8903c, under which payment is made by a carrier under contracts with physicians, hospitals, or other providers of health services for benefits of the types described by section 8904(1) of this title given to employees, annuitants, members of their families, former spouses, or persons having continued coverage under section 8905a of this title, or, under certain conditions, payment is made by a carrier to the employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title.
+Service Benefit Plan.—One Government-wide plan, which may be underwritten by participating affiliates licensed in any number of States, offering at least 2 levels ofbenefits for enrollees under this chapter generally and at least 2 levels of benefits for enrollees under the Postal Service Health Benefits Program established under section 8903c, under which payment is made by a carrier under contracts with physicians, hospitals, or other providers of health services for benefits of the types described by section 8904(1) of this title given to employees, annuitants, members of their families, former spouses, or persons having continued coverage under section 8905a of this title, or, under certain conditions, payment is made by a carrier to the employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title.
 
 &emsp;(2)
 
@@ -30,7 +30,7 @@ Individual-practice prepayment plans.—Individual-practice prepayment plans whi
 
 Mixed model prepayment plans.—Mixed model prepayment plans which are a combination of the type of plans described in subparagraph (A) and the type of plans described in subparagraph (B).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 602; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92Stat. 1224; Pub. L. 98–615, §3(3), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(b), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§102, 111, Feb. 27, 1986, 100 Stat. 14, 19; Pub. L. 100–654, title II, §202(b), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 105–266, §3(b), Oct. 19, 1998, 112 Stat. 2366; Pub. L. 117–108, title I, §101(a)(2)(A), Apr. 6, 2022, 136 Stat. 1135.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 602; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, §3(3), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(b), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§102, 111, Feb. 27, 1986, 100 Stat. 14, 19; Pub. L. 100–654, title II, §202(b), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 105–266, §3(b), Oct. 19, 1998, 112 Stat. 2366; Pub. L. 117–108, title I, §101(a)(2)(A), Apr. 6, 2022, 136 Stat. 1135.)
 
 Historical and Revision Notes
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 100–654 applicable with respect to any calendar year begi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions, and applicable to any individual who is married to an employee or annuitant on or after that date, see section 4(a)(2) of Pub. L. 98–615, as amended, set out as a note under section 8341 of this title.
+Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions, and applicable to any individual who is married to an employee or annuitant on or after that date, see section 4(a)(2) of Pub. L. 98–615,as amended, set out as a note under section 8341 of this title.
 
 #### Effective Date of 1978 Amendment
 

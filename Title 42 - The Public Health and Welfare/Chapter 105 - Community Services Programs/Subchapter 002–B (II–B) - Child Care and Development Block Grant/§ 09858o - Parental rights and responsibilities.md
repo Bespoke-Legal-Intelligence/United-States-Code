@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Nothing in this subchapter shall be construed or applied in any manner to infringe on or usurp the moral and legal rights and responsibilities of parents or legal guardians.
+Nothing in this subchapter shall be construed or applied in any manner to infringe on or usurpthe moral and legal rights and responsibilities of parents or legal guardians.
 
 #### (b) Parental rights to use child care certificates
 

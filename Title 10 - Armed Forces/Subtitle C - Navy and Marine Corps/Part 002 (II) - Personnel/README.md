@@ -29,13 +29,33 @@
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 533 to 577 as 811 to 847 and redesignated section numbers 5441 to 6521 as 8101 to 8392. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
-<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1673(a)(3), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 531 "Strength of Naval Reserve and Marine Corps Reserve", 541 "Running Mates for Reserve Officers", and 549 "Reserve Promotions".
+<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1673(a)(3), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters531 "Strength of Naval Reserve and Marine Corps Reserve", 541 "Running Mates for Reserve Officers", and 549 "Reserve Promotions".
 
 <b>1980</b>—Pub. L. 96–513, title V, §503(16), Dec. 12, 1980, 94 Stat. 2912, inserted "of Naval Reserve and Marine Corps Reserve" after "Strength" in item for chapter 531, inserted "for Reserve Officers" after "Running Mates" in item for chapter 541, struck out item for chapter 543 "Selection Boards", added item for chapter 544, and struck out items for chapter 545 "Promotions" and for chapter 547 "Examinations for Promotion".
 
 <b>1958</b>—Pub. L. 85–861, §1(134), Sept. 2, 1958, 72 Stat. 1507, added item for chapter 549.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Authorization To Pay a Living Quarters Allowance for Department of the Navy Civilian Employees Assigned to Permanent Duty in Guam for Performing Work, or Supporting Work Being Performed, Aboard or Dockside, of U.S. Naval Vessels
+
+Pub. L. 118–31, div. A, title XI, §1102, Dec. 22, 2023, 137 Stat. 426, provided that:
+
+"(a)
+
+Allowance.—When Government owned or rented quarters are not otherwise provided without charge to a covered employee, the Secretary of the Navy may grant to a covered employee one or more of the following allowances:
+
+&emsp;"(1) A living quarters allowance for rent, heat, light, fuel, gas, electricity, and water. The Secretary is authorized to pay such allowance by reimbursement or by advance payments.
+
+&emsp;"(2) Under unusual circumstances, as determined by the Secretary, payment or reimbursement for extraordinary, necessary, and reasonable expenses, not otherwise compensated for, incurred in initial repairs, alterations, and improvements to the privately leased residence in Guam of a covered employee—
+
+&emsp;&emsp;"(A) the expenses are administratively approved in advance; and
+
+&emsp;&emsp;"(B) the duration and terms of the lease justify payment of the expenses by the Government.
+
+"(b)
+
+Covered Employee Defined.—In this section, the term 'covered employee' means any civilian employee of the Department of the Navy who is assigned to permanent duty in Guam for performing work or supporting work being performed, aboard or dockside, of U.S. naval vessels."
 
 #### Suspension of Certain Sections of Title 10 and Amendments to Officer Personnel Act of 1947
 

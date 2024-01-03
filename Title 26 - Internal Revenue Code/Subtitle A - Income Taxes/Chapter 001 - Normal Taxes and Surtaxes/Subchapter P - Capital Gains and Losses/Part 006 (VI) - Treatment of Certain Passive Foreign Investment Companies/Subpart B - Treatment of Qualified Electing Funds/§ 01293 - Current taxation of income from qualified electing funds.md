@@ -110,7 +110,7 @@ Subsec. (g). Pub. L. 100–647, §1012(p)(32), added subsec. (g).
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
+Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31,2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -126,5 +126,5 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section1235(h) of Pub. L. 99–514, set out as a note under section 1291 of this title.
+Section applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as a note under section 1291 of this title.
 

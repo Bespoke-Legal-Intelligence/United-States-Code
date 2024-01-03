@@ -34,7 +34,7 @@ This section shall cease to be effective on October 1, 2023.
 
 #### Amendments
 
-<b>2022</b>—Subsec. (f). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
+<b>2022</b>—Subsec. (f). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "Chapter 10 oftitle 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–256, §305(1), substituted "not fewer than 8 and not more than 14 individuals selected by the President" for "not less than 8 individuals selected by the President, not later than 180 days after November 21, 2011," and inserted "At least one member should be licensed in the field of mental health and have prior experience working as a counselor or therapist providing mental health care to survivors of sexual assault in a victim services agency or organization." after "sexual assault field."
 

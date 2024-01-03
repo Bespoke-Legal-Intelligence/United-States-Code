@@ -14,7 +14,7 @@
 
 &emsp;(6) export trade services in the United States are fragmented into a multitude of separate functions, and companies attempting to offer export trade services lack financial leverage to reach a significant number of potential United States exporters;
 
-&emsp;(7) the United States needs well-developed export trade intermediaries which can achieve economies of scale and acquire expertise enabling them to export goods and services profitably, at low per unit cost to producers;
+&emsp;(7) the United States needs well-developed export trade intermediaries which can achieveeconomies of scale and acquire expertise enabling them to export goods and services profitably, at low per unit cost to producers;
 
 &emsp;(8) the development of export trading companies in the United States has been hampered by business attitudes and by Government regulations;
 
@@ -40,7 +40,7 @@ Edge Act corporation, referred to in subsec. (b), is a corporation organized und
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–64, §1, July 12, 1985, 99 Stat. 120, provided that: "Titles I and II of this Act \[enacting sections 4051to 4053 of this title, section 1864 of Title 19, Customs Duties, and section 466c of Title 46, Appendix, Shipping, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 2304 and 2778 of Title 22, Foreign Relations and Intercourse, section 185 of Title 30, Mineral Lands and Mining, and former sections 4601 to 4606, 4609, 4610, 4614, 4615 to 4620, and 4622 of Title 50, War and National Defense, and enacting provisions set out as notes under section 5314 of Title 5 and former sections 4604, 4605, and 4617 of Title 50\] may be cited as the 'Export Administration Amendments Act of 1985'."
+Pub. L. 99–64, §1, July 12, 1985, 99 Stat. 120, provided that: "Titles I and II of this Act \[enacting sections 4051 to 4053 of this title, section 1864 of Title 19, Customs Duties, and section 466c of Title 46, Appendix, Shipping, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 2304 and 2778 of Title 22, Foreign Relations and Intercourse, section 185 of Title 30, Mineral Lands and Mining, and former sections 4601 to 4606, 4609, 4610, 4614, 4615 to 4620, and 4622 of Title 50, War and National Defense, and enacting provisions set out as notes under section 5314 of Title 5 and former sections 4604, 4605, and 4617 of Title 50\] may be cited as the 'Export Administration Amendments Act of 1985'."
 
 #### Short Title
 

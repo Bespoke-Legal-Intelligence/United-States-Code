@@ -72,7 +72,7 @@ In this subchapter:
 
 &emsp;&emsp;The term "program contract" does not include a contract under a covered program.
 
-(Pub. L. 99–198, title XII, §1271A, as added Pub. L. 113–79, title II, §2401, Feb. 7, 2014, 128 Stat. 745; amended Pub. L. 115–334, title II, §2702, Dec. 20, 2018, 132 Stat. 4593.)
+(Pub. L. 99–198, title XII, §1271A, as added Pub. L. 113–79, title II, §2401, Feb. 7, 2014, 128 Stat. 745;amended Pub. L. 115–334, title II, §2702, Dec. 20, 2018, 132 Stat. 4593.)
 
 #### <b>Editorial Notes</b>
 

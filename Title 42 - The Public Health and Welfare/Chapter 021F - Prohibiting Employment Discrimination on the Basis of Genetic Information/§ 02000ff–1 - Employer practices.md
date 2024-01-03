@@ -40,13 +40,13 @@ It shall be an unlawful employment practice for an employer to request, require,
 
 &emsp;&emsp;(D) the monitoring is in compliance with—
 
-&emsp;&emsp;&emsp;(i) any Federal genetic monitoring regulations, including any such regulations that may be promulgated by the Secretary of Labor pursuant to the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.), the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 801 et seq.), or the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.); or
+&emsp;&emsp;&emsp;(i) any Federal genetic monitoring regulations, including any such regulations that may be promulgated by the Secretary of Labor pursuant to the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.), the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 801 et seq.), orthe Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.); or
 
 &emsp;&emsp;&emsp;(ii) State genetic monitoring regulations, in the case of a State that is implementing genetic monitoring regulations under the authority of the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.); and
 
 &emsp;&emsp;(E) the employer, excluding any licensed health care professional or board certified genetic counselor that is involved in the genetic monitoring program, receives the results of the monitoring only in aggregate terms that do not disclose the identity of specific employees; or
 
-&emsp;(6) where the employer conducts DNA analysis for law enforcement purposes as a forensic laboratory or for purposes of human remainsidentification, and requests or requires genetic information of such employer's employees, but only to the extent that such genetic information is used for analysis of DNA identification markers for quality control to detect sample contamination.
+&emsp;(6) where the employer conducts DNA analysis for law enforcement purposes as a forensic laboratory or for purposes of human remains identification, and requests or requires genetic information of such employer's employees, but only to the extent that such genetic information is used for analysis of DNA identification markers for quality control to detect sample contamination.
 
 #### (c) Preservation of protections
 

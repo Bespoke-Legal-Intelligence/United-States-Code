@@ -1,6 +1,6 @@
 ### §614. Separability
 
-If any provision of this chapter is declared unconstitutional, or the applicability thereof to any person, circumstance, or commodity is held invalid the validity of the remainder of this chapter and the applicability thereof to other persons, circumstances, or commodities shall not be affected thereby.
+If any provision of this chapter is declared unconstitutional, or the applicability thereof toany person, circumstance, or commodity is held invalid the validity of the remainder of this chapter and the applicability thereof to other persons, circumstances, or commodities shall not be affected thereby.
 
 (May 12, 1933, ch. 25, title I, §14, 48 Stat. 39; June 3, 1937, ch. 296, §1, 50 Stat. 246.)
 

@@ -60,7 +60,7 @@ Purpose of Subpart.—It is the purpose of this subpart to make incentive grants
 
 Authorization of Appropriations; Availability.—(1) There are authorized to be appropriated $85,000,000 for fiscal year 1987, and such sums as may be necessary for the 4 succeeding fiscal years.
 
-"(2) Sums appropriated pursuant to paragraph (1) for any fiscal year shall remain available for payments to States under this subpart until the end of the fiscal year succeeding the fiscal year for which such sums were appropriated."
+"(2) Sums appropriated pursuant to paragraph (1) for any fiscal year shall remain available for payments toStates under this subpart until the end of the fiscal year succeeding the fiscal year for which such sums were appropriated."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -42,11 +42,11 @@ Whenever the President determines that fundamental international payments proble
 
 &emsp;(B) a temporary increase in the value or quantity of articles which may be imported under any import restriction, or a temporary suspension of any import restriction.
 
-> Import liberalizing actions proclaimed pursuant to this subsection shall be of broad and uniformapplication with respect to product coverage except that the President shall not proclaim measures under this subsection with respect to those articles where in his judgment such action will cause or contribute to material injury to firms or workers in any domestic industry, including agriculture, mining, fishing, or commerce, or to impairment of the national security, or will otherwise be contrary to the national interest.
+> Import liberalizing actions proclaimed pursuant to this subsection shall be of broad and uniform application with respect to product coverage except that the President shall not proclaim measures under this subsection with respect to those articles where in his judgment such action will cause or contribute to material injury to firms or workers in any domestic industry, including agriculture, mining, fishing, or commerce, or to impairment of the national security, or will otherwise be contrary to the national interest.
 
 #### (d) Nondiscriminatory treatment of import restricting actions
 
-(1) Import restricting actions proclaimed pursuant to subsection (a) shall be applied consistently with the principle of nondiscriminatory treatment. In addition, any quota proclaimed pursuant to subparagraph (B) of subsection (a) shall be applied on a basis which aims at a distribution of trade with the United States approaching as closely as possible that which various foreign countries might have expected to obtain in the absence of such restrictions.
+(1) Import restricting actions proclaimed pursuant to subsection (a) shall be applied consistently with the principle of nondiscriminatorytreatment. In addition, any quota proclaimed pursuant to subparagraph (B) of subsection (a) shall be applied on a basis which aims at a distribution of trade with the United States approaching as closely as possible that which various foreign countries might have expected to obtain in the absence of such restrictions.
 
 (2) Notwithstanding paragraph (1), if the President determines that the purposes of this section will best be served by action against one or more countries having large or persistent balance-of-payments surpluses, he may exempt all other countries from such action.
 

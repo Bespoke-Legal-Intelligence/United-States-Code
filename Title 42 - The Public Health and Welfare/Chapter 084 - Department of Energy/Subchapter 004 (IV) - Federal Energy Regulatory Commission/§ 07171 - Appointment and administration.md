@@ -38,7 +38,7 @@ In carrying out any of its functions, the Commission shall have the powers autho
 
 #### (h) Principal office of Commission
 
-The principal office of the Commission shall be in or near the District of Columbia, where itsgeneral sessions shall be held, but the Commission may sit anywhere in the United States.
+The principal office of the Commission shall be in or near the District of Columbia, where its general sessions shall be held, but the Commission may sit anywhere in the United States.
 
 #### (i) Commission deemed agency; attorney for Commission
 
@@ -64,7 +64,7 @@ In each annual authorization and appropriation request under this chapter, the S
 
 &emsp;&emsp;(C) be valid for a 5-year period beginning on the date on which the certification is issued;
 
-&emsp;&emsp;(D) be no broader than necessary to achieve the objective of retaining or attracting employees and other personnel to allow the Commission to carry out the functions of the Commission in a timely, efficient, and effective manner; and
+&emsp;&emsp;(D) be no broader than necessary to achieve the objective of retaining or attracting employees and other personnel to allow the Commission to carry out the functionsof the Commission in a timely, efficient, and effective manner; and
 
 &emsp;&emsp;(E) include an explanation for why the other approaches available to the Chairman for retaining and attracting employees and other personnel are inadequate.
 

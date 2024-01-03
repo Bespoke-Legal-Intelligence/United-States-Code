@@ -246,9 +246,7 @@ Appeals.—(1) The Secretary shall establish a process by which an educational i
 
 Rule of Construction Regarding State Approving Agencies and Risk-based Surveys.—Nothing in this section shall be construed to prohibit a State approving agency from conducting any risk-based survey the State approving agency considers appropriate at any educational institution that it considers appropriate for oversight purposes.
 
-(l
-
-)
+(l)
 
 Definitions.—In this section:
 

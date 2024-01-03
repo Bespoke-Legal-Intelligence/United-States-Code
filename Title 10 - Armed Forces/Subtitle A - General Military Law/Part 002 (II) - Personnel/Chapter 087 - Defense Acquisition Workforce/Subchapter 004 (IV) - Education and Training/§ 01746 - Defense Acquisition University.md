@@ -146,7 +146,7 @@ Pub. L. 115–91, div. A, title VIII, §850, Dec. 12, 2017, 131 Stat. 1488, prov
 
 "(a)
 
-Training.—Not later than one year after the date of the enactment of this Act \[Dec. 12, 2017\], the President of the Defense Acquisition University shallestablish a comprehensive training program on part 12 of the Federal Acquisition Regulation. The training shall cover, at a minimum, the following topics:
+Training.—Not later than one year after the date of the enactment of this Act \[Dec. 12, 2017\], the President of the Defense Acquisition University shall establish a comprehensive training program on part 12 of the Federal Acquisition Regulation. The training shall cover, at a minimum, the following topics:
 
 &emsp;"(1) The origin of part 12 and the congressional mandate to prefer commercial procurements.
 

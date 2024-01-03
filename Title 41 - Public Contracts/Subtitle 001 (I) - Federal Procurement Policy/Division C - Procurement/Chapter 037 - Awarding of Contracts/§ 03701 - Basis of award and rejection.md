@@ -80,7 +80,7 @@ Contingency operation.—The term 'contingency operation' has the meaning given 
 
 &emsp;"(3)
 
-Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate."
+Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate."
 
 #### Congressional Statement of Purpose
 

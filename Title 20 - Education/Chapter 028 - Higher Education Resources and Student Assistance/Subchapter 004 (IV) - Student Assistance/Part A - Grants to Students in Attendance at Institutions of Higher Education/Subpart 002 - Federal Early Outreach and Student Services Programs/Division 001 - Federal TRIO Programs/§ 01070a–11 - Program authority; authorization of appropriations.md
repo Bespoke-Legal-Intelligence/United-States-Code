@@ -70,7 +70,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 &emsp;&emsp;Not later than 180 days after August 14, 2008, the Secretary shall issue nonregulatory guidance regarding the rights and responsibilities of applicants with respect to the application and evaluation process for programs and projects assisted under this division, including applicant access to peer review comments. The guidance shall describe the procedures for the submission, processing, and scoring of applications for grants under this division, including—
 
-&emsp;&emsp;&emsp;(i) the responsibility of applicants to submit materials in a timely manner andin accordance with the processes established by the Secretary under the authority of the General Education Provisions Act \[20 U.S.C. 1221 et seq.\];
+&emsp;&emsp;&emsp;(i) the responsibility of applicants to submit materials in a timely manner and in accordance with the processes established by the Secretary under the authority of the General Education Provisions Act \[20 U.S.C. 1221 et seq.\];
 
 &emsp;&emsp;&emsp;(ii) steps the Secretary will take to ensure that the materials submitted by applicants are processed in a proper and timely manner;
 
@@ -418,7 +418,7 @@ Subsec. (c)(2)(A). Pub. L. 103–208, §2(b)(8), inserted "with respect to grant
 
 Subsec. (e). Pub. L. 103–208, §2(b)(9), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Documentation of an individual's status pursuant to subsection (g)(2) of this section shall be made—
 
-&emsp;"(1) in the case of an individual who is eighteen years of age or younger or a dependent student by providing the Secretary with a signed statement from the parent or legal guardian, verification from another governmental source, a signed financial aid application, or a signed United States or Puerto Rican income tax return; and
+&emsp;"(1) in the case of an individual who is eighteen years of age or younger or a dependent student by providing the Secretary with a signed statement fromthe parent or legal guardian, verification from another governmental source, a signed financial aid application, or a signed United States or Puerto Rican income tax return; and
 
 &emsp;"(2) in the case of an individual who is age 18 or older or who is an independent student, by providing the Secretary with a signed statement from the individual, verification from another governmental source, a signed financial aid form, or a signed United States or Puerto Rican income tax return."
 

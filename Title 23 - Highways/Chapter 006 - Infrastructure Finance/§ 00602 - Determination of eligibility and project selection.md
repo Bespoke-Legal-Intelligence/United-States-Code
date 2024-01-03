@@ -96,7 +96,7 @@ Public sponsorship of private entities.—In the case of a project that is under
 
 &emsp;(8)
 
-Applications where obligor will be identified later.—A State, local government,agency or instrumentality of a State or local government, or public authority may submit to the Secretary an application under paragraph (4), under which a private party to a public-private partnership will be—
+Applications where obligor will be identified later.—A State, local government, agency or instrumentality of a State or local government, or public authority may submit to the Secretary an application under paragraph (4), under which a private party to a public-private partnership will be—
 
 &emsp;&emsp;(A) the obligor; and
 
@@ -184,7 +184,7 @@ Payment and performance security.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall ensure that the design and construction of a project carried out with assistance under the TIFIA program shall have appropriate payment and performance security, regardless of whether the obligor is a State, local government, agency or instrumentality of a State or local government, public authority, or private party.
+In general.—The Secretary shall ensure that the design and construction of a project carried out with assistance under theTIFIA program shall have appropriate payment and performance security, regardless of whether the obligor is a State, local government, agency or instrumentality of a State or local government, public authority, or private party.
 
 &emsp;&emsp;(B)
 
@@ -192,7 +192,7 @@ Written determination.—If payment and performance security is required to be f
 
 &emsp;&emsp;(C)
 
-No determination or applicable requirements.—If there are no payment and performance security requirements applicable to the obligor, the security under section 3131(b) of title 40 or an equivalent State orlocal requirement, as determined by the Secretary, shall be required.
+No determination or applicable requirements.—If there are no payment and performance security requirements applicable to the obligor, the security under section 3131(b) of title 40 or an equivalent State or local requirement, as determined by the Secretary, shall be required.
 
 (d)
 

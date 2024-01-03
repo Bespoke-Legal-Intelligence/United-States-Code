@@ -46,7 +46,7 @@ Requirements.—The representative of an agency designated under clause (i) shal
 
 &emsp;&emsp;(B)
 
-Functions.—The lead representative of an agency designated under subparagraph (A) shall ensure that appropriate personnel, including leadership and subject matter experts of the agency, are aware of the business of the Council.
+Functions.—The lead representative of an agency designated under subparagraph (A) shall ensure that appropriate personnel,including leadership and subject matter experts of the agency, are aware of the business of the Council.
 
 (c)
 
@@ -64,7 +64,7 @@ Functions.—The Chairperson shall perform functions that include—
 
 &emsp;&emsp;(B) designating executive agencies to be represented on the Council under subsection (b)(1)(H);
 
-&emsp;&emsp;(C) in consultation with the lead representative of each agency represented onthe Council, developing a charter for the Council; and
+&emsp;&emsp;(C) in consultation with the lead representative of each agency represented on the Council, developing a charter for the Council; and
 
 &emsp;&emsp;(D) not later than 7 days after completion of the charter, submitting the charter to the appropriate congressional committees and leadership.
 

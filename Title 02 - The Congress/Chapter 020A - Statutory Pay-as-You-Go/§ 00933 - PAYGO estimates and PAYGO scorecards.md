@@ -14,7 +14,7 @@
 
 #### (C) Conference reports and amendments between the Houses
 
-&emsp;&emsp;To establish the budgetary effects of the conference report on a PAYGO Act, or an amendment to an amendment between Houses on a PAYGO Act, which if estimated shall be estimated jointly by the Chairmen of the House and Senate Budget Committees, the conference report or amendment between the Houses shall include the following statement: "The budgetary effects ofthis Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled 'Budgetary Effects of PAYGO Legislation' for this Act, jointly submitted for printing in the Congressional Record by the Chairmen of the House and Senate Budget Committees, provided that such statement has been submitted prior to the vote on passage in the House acting first on this conference report or amendment between the Houses.".
+&emsp;&emsp;To establish the budgetary effects of the conference report on a PAYGO Act, or an amendment to an amendment between Houses on a PAYGO Act, which if estimated shall be estimated jointly by the Chairmen of the House and Senate Budget Committees, the conference report or amendment between the Houses shall include the following statement: "The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled 'Budgetary Effects of PAYGO Legislation' for this Act, jointly submitted for printing in the Congressional Record by the Chairmen of the House and Senate Budget Committees, provided that such statement has been submitted prior to the vote on passage in the House acting first on this conference report or amendment between the Houses.".
 
 #### (2) Determination of budgetary effects of PAYGO Acts
 
@@ -70,7 +70,7 @@
 
 #### (A) Estimates
 
-&emsp;&emsp;CBO or OMB, as applicable, shall exclude from the estimate of budgetary effects any budgetary effects of a provision that meets the criteria in subsection (c), (d), (e) or (f) of section 936 of this title, to the extent thatthose budgetary effects, when combined with all other excluded budgetary effects of any other previously designated provisions of enacted legislation under the same subsection of section 936 of this title, do not exceed the maximum applicable current policy adjustment defined under the applicable subsection of section 936 of this title for the applicable 10-year period.
+&emsp;&emsp;CBO or OMB, as applicable, shall exclude from the estimate of budgetary effects any budgetary effects of a provision that meets the criteria in subsection (c), (d), (e) or (f) of section 936 of this title, to the extent that those budgetary effects, when combined with all other excluded budgetary effects of any other previously designated provisions of enacted legislation under the same subsection of section 936 of this title, do not exceed the maximum applicable current policy adjustment defined under the applicable subsection of section 936 of this title for the applicable 10-year period.
 
 #### (B) Baseline
 
@@ -118,7 +118,7 @@
 
 #### (6) Community Living Assistance Services and Supports Act
 
-&emsp;Neither scorecard maintained by OMB pursuant to this subsection shall include net savings from any provisions of legislation titled "Community Living Assistance Services and Supports Act", which establishes a Federal insurance program for long-term care, if such legislation is enacted into law, or amended, subsequent to February 12, 2010.
+&emsp;Neither scorecard maintained by OMB pursuant to this subsection shall include net savings from any provisions of legislation titled"Community Living Assistance Services and Supports Act", which establishes a Federal insurance program for long-term care, if such legislation is enacted into law, or amended, subsequent to February 12, 2010.
 
 #### (e) Look-back to capture current-year effects
 
@@ -184,7 +184,7 @@ The Statutory Pay-As-You-Go Act of 2010, referred to in subsec. (a)(1), is title
 
 This Act, referred to in subsecs. (a)(2)(A)(i), (B)(i) and (g)(1), (4), is Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which enacted this chapter, amended sections 639, 900, 905, and 906 of this title and section 3101 of Title 31, Money and Finance, and enacted provisions set out as a note under section 712 of Title 31. For complete classification of this Act to the Code, see Tables.
 
-This chapter, referred to in subsecs. (c)(1) and (g)(2), was in the original "this title", meaning title I of Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 931 of this title and Tables.
+This chapter, referred to in subsecs. (c)(1) and (g)(2), was in the original "this title", meaning title I of Pub.L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 931 of this title and Tables.
 
 As amended by this title, referred to in subsec. (d)(3), means as amended by title I of Pub. L. 111–139.
 

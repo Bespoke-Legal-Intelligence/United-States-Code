@@ -26,7 +26,7 @@ Pub. L. 85–623, §6, Aug. 12, 1958, 72 Stat. 563, provided that: "This Act \[e
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–570, title X, §10001, Oct. 27, 1986, 100 Stat. 3207–166, provided that: "This title \[enacting section 1245 of this title, amending section 1716 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 1245 of this title\] may be cited as the 'Ballistic Knife Prohibition Act of 1986'."
+Pub. L. 99–570, title X, §10001, Oct. 27, 1986, 100 Stat. 3207–166, provided that: "This title \[enacting section 1245 of this title, amending section 1716 of Title 18,Crimes and Criminal Procedure, and enacting provisions set out as a note under section 1245 of this title\] may be cited as the 'Ballistic Knife Prohibition Act of 1986'."
 
 #### Short Title
 

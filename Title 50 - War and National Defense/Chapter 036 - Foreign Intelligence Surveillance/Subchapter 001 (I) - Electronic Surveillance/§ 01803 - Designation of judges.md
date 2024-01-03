@@ -118,7 +118,7 @@ Nothing in this chapter shall be construed to reduce or contravene the inherent 
 
 #### (C) Classified information
 
-&emsp;&emsp;An amicus curiae designated or appointed by the court may have access to classified documents, information, and other materials or proceedings only if that individual is eligible for access to classified information and to the extent consistent with the national security of the United States.
+&emsp;&emsp;An amicus curiae designated or appointed by the court may have access to classifieddocuments, information, and other materials or proceedings only if that individual is eligible for access to classified information and to the extent consistent with the national security of the United States.
 
 #### (D) Rule of construction
 

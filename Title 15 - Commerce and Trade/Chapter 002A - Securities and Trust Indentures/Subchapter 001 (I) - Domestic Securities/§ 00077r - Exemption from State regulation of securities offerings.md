@@ -32,7 +32,7 @@ For purposes of this section, the following are covered securities:
 
 #### (2) Exclusive Federal registration of investment companies
 
-&emsp;A security is a covered security if such security is a security issued by an investment company that is registered, or that has filed a registration statement, under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\].
+&emsp;A security is a covered security if such security is a security issued by an investmentcompany that is registered, or that has filed a registration statement, under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\].
 
 #### (3) Sales to qualified purchasers
 
@@ -42,7 +42,7 @@ For purposes of this section, the following are covered securities:
 
 &emsp;A security is a covered security with respect to a transaction that is exempt from registration under this subchapter pursuant to—
 
-&emsp;&emsp;(A) paragraph (1) or (3) of section 77d <sup>1</sup> of this title, and the issuer of such securityfiles reports with the Commission pursuant to section 78m or 78o(d) of this title;
+&emsp;&emsp;(A) paragraph (1) or (3) of section 77d <sup>1</sup> of this title, and the issuer of such security files reports with the Commission pursuant to section 78m or 78o(d) of this title;
 
 &emsp;&emsp;(B) section 77d(4) <sup>1</sup> of this title;
 
@@ -106,11 +106,11 @@ For purposes of this section, the following are covered securities:
 
 #### (D) Fees not permitted on listed securities
 
-&emsp;&emsp;Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(1), or will be such a covered security upon completion of the transaction, or is a security of the same issuer that is equal in seniority or that is a senior security to a security that is a covered security pursuant to subsection (b)(1).
+&emsp;&emsp;Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(1), or will be such a covered security upon completion of the transaction, or is a security of thesame issuer that is equal in seniority or that is a senior security to a security that is a covered security pursuant to subsection (b)(1).
 
 #### (F) <sup>4</sup> Fees not permitted on crowdfunded securities
 
-&emsp;&emsp;Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(4)(B), or will be such a covered security upon completion of the transaction, except for the securities commission (or any agency or office performing like functions) of the State of the principal place of business of the issuer, or any State in which purchasers of 50 percent or greater of the aggregate amount of the issue are residents, provided that forpurposes of this subparagraph, the term "State" includes the District of Columbia and the territories of the United States.
+&emsp;&emsp;Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(4)(B), or will be such a covered security upon completion of the transaction, except for the securities commission (or any agency or office performing like functions) of the State of the principal place of business of the issuer, or any State in which purchasers of 50 percent or greater of the aggregate amount of the issue are residents, provided that for purposes of this subparagraph, the term "State" includes the District of Columbia and the territories of the United States.
 
 #### (3) Enforcement of requirements
 

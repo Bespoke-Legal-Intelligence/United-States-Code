@@ -4,7 +4,7 @@
 
 Prohibited Discrimination.—A holder of a certificate under section 44704 or 44705 of this title, or a contractor, subcontractor, or supplier of such holder, may not discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to a request of the employee)—
 
-&emsp;(1) provided, caused to be provided, or is about to provide (with any knowledge of the employer) or cause to be provided to the employer or Federal Government information relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to aviation safety under this subtitle or any other law of the United States;
+&emsp;(1) provided, caused to be provided, or is about to provide (with any knowledge of theemployer) or cause to be provided to the employer or Federal Government information relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to aviation safety under this subtitle or any other law of the United States;
 
 &emsp;(2) has filed, caused to be filed, or is about to file (with any knowledge of the employer) or cause to be filed a proceeding relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to aviation safety under this subtitle or any other law of the United States;
 
@@ -66,7 +66,7 @@ Remedy.—If, in response to a complaint filed under paragraph (1), the Secretar
 
 &emsp;&emsp;&emsp;(iii) provide compensatory damages to the complainant.
 
-> &emsp;&emsp;If such an order is issued under this paragraph, the Secretary of Labor, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorneys' and expert witness fees) reasonably incurred, asdetermined by the Secretary of Labor, by the complainant for, or in connection with, the bringing the complaint upon which the order was issued.
+> &emsp;&emsp;If such an order is issued under this paragraph, the Secretary of Labor, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorneys' and expert witness fees) reasonably incurred, as determined by the Secretary of Labor, by the complainant for, or in connection with, the bringing the complaint upon which the order was issued.
 
 &emsp;&emsp;(C)
 

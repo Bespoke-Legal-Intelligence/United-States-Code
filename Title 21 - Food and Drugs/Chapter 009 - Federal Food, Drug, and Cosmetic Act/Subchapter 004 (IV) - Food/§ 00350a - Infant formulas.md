@@ -40,7 +40,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 (D) If the Secretary adds a nutrient to the list of nutrients in the table in subsection (i), the Secretary shall by regulation require that the manufacturer of an infant formula test each batch of such formula for such new nutrient in accordance with subparagraph (A), (B), or (C).
 
-(E) For purposes of this paragraph, the term "final product stage" means the point in themanufacturing process, before distribution of an infant formula, at which an infant formula is homogenous and is not subject to further degradation.
+(E) For purposes of this paragraph, the term "final product stage" means the point in the manufacturing process, before distribution of an infant formula, at which an infant formula is homogenous and is not subject to further degradation.
 
 (4)(A) The Secretary shall by regulation establish requirements respecting the retention of records. Such requirements shall provide for—
 

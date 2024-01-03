@@ -136,7 +136,7 @@ In this section, the following definitions shall apply:
 
 #### (C) Exception
 
-&emsp;&emsp;The term "eligible entity" does not include any entity that has failed to submit the most recently required certification under subsection (c) within 30 days after the date on which such certification is due.
+&emsp;&emsp;The term "eligible entity" does not include any entity that has failed to submitthe most recently required certification under subsection (c) within 30 days after the date on which such certification is due.
 
 #### (4) Emergency call
 

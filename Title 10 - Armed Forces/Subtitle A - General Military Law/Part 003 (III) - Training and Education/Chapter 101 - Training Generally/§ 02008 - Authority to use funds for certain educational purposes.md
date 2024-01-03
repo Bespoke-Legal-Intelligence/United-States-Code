@@ -12,7 +12,7 @@ Sections 7008 and 7013(3) of the Elementary and Secondary Education Act of 1965,
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–95 substituted "section 7013(3) of the Elementary and Secondary Education Act of 1965, or to carry out section 7008 of such Act" for "section 8013(3) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7713(3)), or to carry out section 8008 of such Act (20 U.S.C. 7708)".
+<b>2015</b>—Pub. L. 114–95 substituted "section 7013(3) of the Elementary and Secondary Education Act of 1965, or tocarry out section 7008 of such Act" for "section 8013(3) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7713(3)), or to carry out section 8008 of such Act (20 U.S.C. 7708)".
 
 <b>1996</b>—Pub. L. 104–106 substituted "construction, as defined in section 8013(3) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7713(3)), or to carry out section 8008 of such Act (20 U.S.C. 7708), relating to the provision of assistance to certain school facilities under the impact aid program." for "section 10 of the Act of September 23, 1950 (20 U.S.C. 640), relating to impact aid authorization."
 

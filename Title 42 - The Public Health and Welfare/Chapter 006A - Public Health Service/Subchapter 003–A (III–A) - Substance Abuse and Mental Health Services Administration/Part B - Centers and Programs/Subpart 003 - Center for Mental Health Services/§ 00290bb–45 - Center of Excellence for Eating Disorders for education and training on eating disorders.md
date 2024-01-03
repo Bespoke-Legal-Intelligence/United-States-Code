@@ -36,7 +36,7 @@ The Center—
 
 &emsp;&emsp;(A) support the integration of protocols pertaining to screening, brief intervention, and referral to treatment for individuals experiencing, or at risk for, eating disorders, with health information technology systems;
 
-&emsp;&emsp;(B) develop and provide training materials to health care providers, including primary care and mental health providers, to providescreening, brief intervention, and referral to treatment for members of the military and veterans experiencing, or at risk for, eating disorders; and
+&emsp;&emsp;(B) develop and provide training materials to health care providers, including primary care and mental health providers, to provide screening, brief intervention, and referral to treatment for members of the military and veterans experiencing, or at risk for, eating disorders; and
 
 &emsp;&emsp;(C) consult, as appropriate, with the Secretary of Defense and the Secretary of Veterans Affairs on prevention, identification, intervention for, and treatment of eating disorders.
 

@@ -314,7 +314,7 @@ Pub. L. 116–92, div. A, title XVI, §1627, Dec. 20, 2019, 133 Stat. 1740, prov
 
 "(a)
 
-Reports.—On a semiannual basis during the period beginning on the date of the enactment of this Act\[Dec. 20, 2019\] and ending on the date specified in subsection (b), and annually thereafter, the Director of the Defense Counterintelligence and Security Agency shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the processes in place for adjudicating security clearances and the progress made to address the backlog of security clearance applications, including—
+Reports.—On a semiannual basis during the period beginning on the date of the enactment of this Act \[Dec. 20, 2019\] and ending on the date specified in subsection (b), and annually thereafter, the Director of the Defense Counterintelligence and Security Agency shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the processes in place for adjudicating security clearances and the progress made to address the backlog of security clearance applications, including—
 
 &emsp;"(1) metrics used by the Director to evaluate the inventory and timeliness of adjudicating security clearance cases; and
 
@@ -440,7 +440,7 @@ Enhancement of Information Technology Capabilities of NBIS.—
 
 In general.—The Secretary of Defense shall conduct a review of the information technology capabilities of the National Background Investigations System in order to determine whether enhancements to such capabilities are required for the following:
 
-&emsp;&emsp;"(A) Support for background investigations pursuant to this section and section 951 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2371; 10 U.S.C. 1564 note).
+&emsp;&emsp;"(A) Support for background investigations pursuant to this section and section 951 of the NationalDefense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2371; 10 U.S.C. 1564 note).
 
 &emsp;&emsp;"(B) Support of the National Background Investigations Bureau.
 
@@ -514,7 +514,7 @@ Quarterly and Annual Briefings and Reports.—
 
 &emsp;"(1)
 
-Annual assessment of timeliness.—Not later than December 31, 2018, and each December 31 thereafter through the date specified in paragraph (4), the Security Executive Agent, in coordination with the Chair and other Principals of the Security, Suitability, and Credentialing Performance Accountability Council, shall submit to the appropriate committees of Congress a report on the timeliness of personnel security clearance initiations, investigations, and adjudications, by clearance level, for both initial investigations and periodic reinvestigations duringthe prior fiscal year for Government and contractor employees, including the following:
+Annual assessment of timeliness.—Not later than December 31, 2018, and each December 31 thereafter through the date specified in paragraph (4), the Security Executive Agent, in coordination with the Chair and other Principals of the Security, Suitability, and Credentialing Performance Accountability Council, shall submit to the appropriate committees of Congress a report on the timeliness of personnel security clearance initiations, investigations, and adjudications, by clearance level, for both initial investigations and periodic reinvestigations during the prior fiscal year for Government and contractor employees, including the following:
 
 &emsp;&emsp;"(A) The average periods of time taken by each authorized investigative agency and authorized adjudicative agency to initiate cases, conduct investigations, and adjudicate cases as compared with established timeliness objectives, from the date a completed security clearance application is received to the date of adjudication and notification to the subject and the subject's employer.
 
@@ -578,7 +578,7 @@ Appropriate Congressional Committees Defined.—In this section, the term 'appro
 
 &emsp;"(1) the Committees on Armed Services, Appropriations, Homeland Security and Governmental Affairs, and the Select Committee on Intelligence of the Senate; and
 
-&emsp;"(2) the Committees on Armed Services, Appropriations, Oversight and Government Reform, and the Permanent Select Committee on Intelligence of the House of Representatives."
+&emsp;"(2) the Committees on Armed Services, Appropriations, Oversight and Government Reform \[now Committee on Oversight and Accountability\], and the Permanent Select Committee on Intelligence of the House of Representatives."
 
 #### Enhanced Security Programs for Department of Defense Personnel and Innovation Initiatives
 
@@ -844,7 +844,7 @@ Development; promulgation.—The Security Executive Agent shall—
 
 &emsp;&emsp;"(C)
 
-Sense of congress.—It is the sense of Congress that the Federal Government should not uniformly reject applicants for employment with the Federal Government or Federal contractors based on—
+Sense of congress.—It is the sense of Congress that the Federal Government should not uniformly reject applicants for employment with theFederal Government or Federal contractors based on—
 
 &emsp;&emsp;&emsp;"(i) sealed or expunged criminal records; or
 
@@ -910,7 +910,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;"(B) the Select Committee on Intelligence and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
-&emsp;&emsp;"(C) the Permanent Select Committee on Intelligence, the Committee on Oversight and Government Reform, and the Committee on Homeland Security of the House of Representatives; and
+&emsp;&emsp;"(C) the Permanent Select Committee on Intelligence, the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\], and the Committee on Homeland Security of the House of Representatives; and
 
 &emsp;"(2) the term 'Performance Accountability Council' means the Suitability and Security Clearance Performance Accountability Council established under Executive Order 13467 (73 Fed. Reg. 38103) \[50 U.S.C. 3161 note\], or any successor thereto."
 
@@ -932,7 +932,7 @@ In general.—Not later than 90 days after the date of the enactment of this Act
 
 Elements of analysis.—The analysis under paragraph (1) shall do the following:
 
-&emsp;&emsp;"(A) Determine and compare, for each of the Office of Personnel Management and the components of the Department that conduct personnel security investigations as of the date of the analysis, thequality, cost, and timeliness associated with personnel security investigations and reinvestigations of each type and level of clearance, and identify the elements that contribute to such cost, schedule, and performance.
+&emsp;&emsp;"(A) Determine and compare, for each of the Office of Personnel Management and the components of the Department that conduct personnel security investigations as of the date of the analysis, the quality, cost, and timeliness associated with personnel security investigations and reinvestigations of each type and level of clearance, and identify the elements that contribute to such cost, schedule, and performance.
 
 &emsp;&emsp;"(B) Identify mechanisms for permanently improving the transparency of the cost structure of personnel security investigations and reinvestigations.
 
@@ -946,7 +946,7 @@ Strategy for Modernizing Personnel Security.—
 
 &emsp;"(1)
 
-Strategy required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense, the Director of National Intelligence, and the Director of the Office of Management and Budget shall jointly develop, implement, and provide to the appropriate committees of Congress a strategy to modernize all aspects of personnel security for the Department of Defense with the objectives of improving quality, providing for continuous monitoring, decreasing unauthorized disclosures of classified information, lowering costs, increasing efficiencies, and enabling and encouraging reciprocity.
+Strategy required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense, the Director of National Intelligence, and the Director of the Office of Management and Budget shall jointly develop, implement, and provide to the appropriate committees ofCongress a strategy to modernize all aspects of personnel security for the Department of Defense with the objectives of improving quality, providing for continuous monitoring, decreasing unauthorized disclosures of classified information, lowering costs, increasing efficiencies, and enabling and encouraging reciprocity.
 
 &emsp;"(2)
 
@@ -1082,7 +1082,7 @@ Appropriate Committees of Congress Defined.—In this section, the term 'appropr
 
 &emsp;"(1) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and
 
-&emsp;"(2) the Committee on Armed Services, the Committee on Oversight and Government Reform, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives."
+&emsp;"(2) the Committee on Armed Services, the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\], the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives."
 
 #### Required Notification Whenever Members of the Armed Forces Are Completing Standard Form 86 of the Questionnaire for National Security Positions
 
@@ -1112,7 +1112,7 @@ Ex. Ord. No. 13869, Apr. 24, 2019, 84 F.R. 18125, provided:
 
 By the power vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Findings and Purpose</i>. Section 925 of the National Defense Authorization Act for Fiscal Year2018 (10 U.S.C. 1564 note) provides that the Secretary of Defense has the authority to conduct security, suitability, and credentialing background investigations for Department of Defense personnel and requires the Secretary, in consultation with the Director of the Office of Personnel Management, to provide for a phased transition to the Department of Defense of the conduct of such investigations conducted by the National Background Investigations Bureau (NBIB). Implementing that legislative mandate while retaining the benefit of economies of scale in addressing the Federal Government's background investigations workload, avoiding unnecessary risk, promoting the ongoing alignment of efforts with respect to vetting Federal employees and contractors, and facilitating needed reforms in this critical area requires that the primary responsibility for conducting background investigations Government-wide be transferred from the Office of Personnel Management to the Department of Defense.
+Section 1. <i>Findings and Purpose</i>. Section 925 of the National Defense Authorization Act for Fiscal Year 2018 (10 U.S.C. 1564 note) provides that the Secretary of Defense has the authority to conduct security, suitability, and credentialing background investigations for Department of Defense personnel and requires the Secretary, in consultation with the Director of the Office of Personnel Management, to provide for a phased transition to the Department of Defense of the conduct of such investigations conducted by the National Background Investigations Bureau (NBIB). Implementing that legislative mandate while retaining the benefit of economies of scale in addressing the Federal Government's background investigations workload, avoiding unnecessary risk, promoting the ongoing alignment of efforts with respect to vetting Federal employees and contractors, and facilitating needed reforms in this critical area requires that the primary responsibility for conducting background investigations Government-wide be transferred from the Office of Personnel Management to the Department of Defense.
 
 Sec. 2. <i>Transfer or Delegation of Background Investigation Functions; Further Amendments to Executive Order 13467 of June 30, 2008, as amended</i>. \[Amended Ex. Ord. No. 13467, set out as a note under section 3161 of Title 50, War and National Defense.\]
 

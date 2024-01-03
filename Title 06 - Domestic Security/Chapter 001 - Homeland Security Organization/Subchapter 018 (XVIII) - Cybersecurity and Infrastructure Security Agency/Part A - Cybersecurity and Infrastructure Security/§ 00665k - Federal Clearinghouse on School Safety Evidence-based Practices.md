@@ -8,13 +8,13 @@
 
 #### (2) Purpose
 
-&emsp;The Clearinghouse shall serve as a Federal resource to identify and publish online through SchoolSafety.gov, or any successor website, evidence-based practices and recommendations to improve school safety for use by State and local educational agencies, institutions of higher education, State and local law enforcement agencies, health professionals, and the general public.
+&emsp;The Clearinghouse shall serve as a Federal resource to identify and publish online through SchoolSafety.gov, or any successor website, evidence-based practices and recommendations to improve school safety for use by State and local educational agencies,institutions of higher education, State and local law enforcement agencies, health professionals, and the general public.
 
 #### (3) Personnel
 
 #### (A) Assignments
 
-&emsp;&emsp;The Clearinghouse shall be assigned such personnel and resources as the Secretaryconsiders appropriate to carry out this section.
+&emsp;&emsp;The Clearinghouse shall be assigned such personnel and resources as the Secretary considers appropriate to carry out this section.
 
 #### (B) Detailees
 
@@ -88,7 +88,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;(i) provide feedback on the implementation of evidence-based practices and recommendations of the Clearinghouse; and
 
-&emsp;&emsp;&emsp;(ii) propose additional recommendations for evidence-based practices for inclusionin the Clearinghouse that meet the requirements described in subsection (b)(2)(B).
+&emsp;&emsp;&emsp;(ii) propose additional recommendations for evidence-based practices for inclusion in the Clearinghouse that meet the requirements described in subsection (b)(2)(B).
 
 #### (e) Parental assistance
 

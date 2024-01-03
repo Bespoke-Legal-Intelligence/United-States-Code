@@ -8,7 +8,7 @@ Members of advisory boards and consultants may serve as such without regard to a
 
 #### Codification
 
-"Section 5532 of title 5" substituted in text for "section 201 of the Dual Compensation Act" \[5 U.S.C. 3102\],on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, section 1 of which enacted Title 5, Government Organization and Employees. Section 5532 of title 5 was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
+"Section 5532 of title 5" substituted in text for "section 201 of the Dual Compensation Act" \[5 U.S.C. 3102\], on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, section 1 of which enacted Title 5, Government Organization and Employees. Section 5532 of title 5 was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 #### Amendments
 

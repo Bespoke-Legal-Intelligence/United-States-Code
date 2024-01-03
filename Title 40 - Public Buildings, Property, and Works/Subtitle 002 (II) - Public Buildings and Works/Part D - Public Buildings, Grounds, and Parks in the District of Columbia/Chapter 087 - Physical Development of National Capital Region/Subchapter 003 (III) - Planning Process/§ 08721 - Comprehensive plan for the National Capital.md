@@ -54,7 +54,7 @@ Review, Hearings, and Citizen Advisory Councils.—
 
 &emsp;(1)
 
-Review.—Before the comprehensive plan, any element of the plan, or any revision is adopted, the Commission shall present the plan, element, or revision to the appropriate federal or District of Columbia authorities for comment and recommendations. The Commission may present the proposed revisions annually in a consolidated form. Recommendations by federal and District of Columbia authorities are not binding on the Commission, but the Commission shall give careful consideration to any views and recommendations submitted prior to final adoption.
+Review.—Before the comprehensive plan, any element of the plan, or any revision is adopted, the Commission shall present the plan, element, or revision to the appropriate federal or District of Columbia authorities forcomment and recommendations. The Commission may present the proposed revisions annually in a consolidated form. Recommendations by federal and District of Columbia authorities are not binding on the Commission, but the Commission shall give careful consideration to any views and recommendations submitted prior to final adoption.
 
 &emsp;(2)
 

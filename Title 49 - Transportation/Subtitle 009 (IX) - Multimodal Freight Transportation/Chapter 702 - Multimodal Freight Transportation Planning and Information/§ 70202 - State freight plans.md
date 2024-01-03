@@ -64,7 +64,7 @@ Incorporation.—A State freight plan described in subsection (a) may be develop
 
 &emsp;(2)
 
-Fiscal constraint.—The freight investment plan component of a freight plan shall include a project, or an identified phase of a project, only if funding for completion of theproject can reasonably be anticipated to be available for the project within the time period identified in the freight investment plan.
+Fiscal constraint.—The freight investment plan component of a freight plan shall include a project, or an identified phase of a project, only if funding for completion of the project can reasonably be anticipated to be available for the project within the time period identified in the freight investment plan.
 
 (d)
 

@@ -30,7 +30,7 @@ The Secretary shall award grants to eligible entities to enable such entities to
 
 &emsp;(4) special health and nutrition services, and other related activities, that address the special health, social, and psychological problems of Indian children and youth;
 
-&emsp;(5) special compensatory and other programs and projects designed to assist and encourage Indian children and youth to enter, remain in, or reenter school, and to increase the rate ofhigh school graduation for Indian children and youth;
+&emsp;(5) special compensatory and other programs and projects designed to assist and encourage Indian children and youth to enter, remain in, or reenter school, and to increase the rate of high school graduation for Indian children and youth;
 
 &emsp;(6) comprehensive guidance, counseling, and testing services;
 

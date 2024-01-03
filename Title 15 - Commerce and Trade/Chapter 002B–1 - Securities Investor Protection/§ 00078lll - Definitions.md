@@ -118,7 +118,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;&emsp;(C) any payment by such customer of such indebtedness to the debtor which is made with the approval of the trustee and within such period as the trustee may determine (but in no event more than sixty days after the publication of notice under section 78fff–2(a) of this title).
 
-> &emsp;A claim for a commodity futures contract received, acquired, or held in a portfolio margining account pursuant to a portfolio margining program approved by the Commission or a claim for a security futures contract, shall be deemed to be a claim with respect to such contract as of the filing date, and such claim shall be treated as a claim for cash. In determining net equity under this paragraph, accounts held by a customer in separate capacities shall be deemed to be accounts of separate customers.
+> &emsp;A claim for a commodity futures contract received, acquired, or held in a portfolio margining account pursuant to a portfolio margining program approved by the Commission or a claim for a security futures contract, shall be deemed to be a claim with respect to such contract as of the filing date, and such claim shall be treated as a claim for cash. In determining net equity under this paragraph,accounts held by a customer in separate capacities shall be deemed to be accounts of separate customers.
 
 #### (12) Persons registered as brokers or dealers
 

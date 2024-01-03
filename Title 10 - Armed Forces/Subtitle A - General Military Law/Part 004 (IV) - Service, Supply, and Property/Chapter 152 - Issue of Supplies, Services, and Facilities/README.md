@@ -21,7 +21,7 @@
 | [2566\.](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md) | Space and services: provision to military welfare societies. |
 | [2567\.](%C2%A7%2002567%20-%20Space%20and%20services%20provision%20to%20WIC%20offices.md) | Space and services: provision to WIC offices. |
 | [2568\.](%C2%A7%2002568%20-%20Retention%20of%20combat%20uniforms%20by%20members%20deployed%20in%20support%20of%20contingency%20operations.md) | Retention of combat uniforms by members deployed in support of contingency operations. |
-| [2568a.](%C2%A7%2002568a%20-%20Damaged%20personal%20protective%20equipment%20award%20to%20members%20separating%20from%20the%20Armed%20Forces%20and%20veterans.md) | Damaged personal protective equipment: award to members separating from the Armed Forces and veterans. |
+| [2568a.](%C2%A7%2002568a%20-%20Damaged%20personal%20protective%20equipment%20award%20to%20members%20separating%20from%20the%20Armed%20Forces%20and%20veterans.md) | Damaged personal protective equipment: award to members separating from the Armed Forces and veterans.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

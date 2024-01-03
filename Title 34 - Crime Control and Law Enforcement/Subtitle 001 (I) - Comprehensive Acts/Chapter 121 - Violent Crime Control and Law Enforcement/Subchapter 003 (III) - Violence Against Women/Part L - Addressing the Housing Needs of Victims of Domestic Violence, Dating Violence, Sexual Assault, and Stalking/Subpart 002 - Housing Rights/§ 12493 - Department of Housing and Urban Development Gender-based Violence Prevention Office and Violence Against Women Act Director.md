@@ -14,7 +14,7 @@ The Director shall, among other duties—
 
 &emsp;(3) coordinate with State and local governments and agencies, including State housing finance agencies, regarding advancing housing protections and access to housing for victims of domestic violence, dating violence, sexual assault, and stalking;
 
-&emsp;(4) ensure that technical assistance and support are provided to each appropriate agencyand housing providers regarding implementation of this part, as well as other issues related to advancing housing protections for victims of domestic violence, dating violence, sexual assault, and stalking, including compliance with this part;
+&emsp;(4) ensure that technical assistance and support are provided to each appropriate agency and housing providers regarding implementation of this part, as well as other issues related to advancing housing protections for victims of domestic violence, dating violence, sexual assault, and stalking, including compliance with this part;
 
 &emsp;(5) implement internal systems to track, monitor, and address compliance failures; and
 
@@ -30,7 +30,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Codification
 
-Pub. L. 117–103, div. W, title VI, §602, which directed the addition of this section to chapter 2 of subtitle N of title IV of the Violence Against Women Act of 1994 (34 U.S.C. 12491 et seq.), was executed by adding this section to chapter 2 of subtitle N of title IV of the Violent Crime Control and Law Enforcement Act of 1994 to reflect the probable intent of Congress.
+Pub. L. 117–103, div. W, title VI, §602, which directed the addition of this section to chapter 2 of subtitle N of title IV of the Violence Against Women Act of 1994\(34 U.S.C. 12491 et seq.), was executed by adding this section to chapter 2 of subtitle N of title IV of the Violent Crime Control and Law Enforcement Act of 1994 to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

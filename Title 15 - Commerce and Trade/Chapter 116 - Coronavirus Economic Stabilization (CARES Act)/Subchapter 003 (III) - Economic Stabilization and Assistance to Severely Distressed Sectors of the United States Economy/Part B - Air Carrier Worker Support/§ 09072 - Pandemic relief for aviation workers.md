@@ -26,7 +26,7 @@ Notwithstanding any other provision of law, the Secretary, may use $67,000,000 o
 
 #### Effective Date of 2022 Amendment
 
-Amendment by Pub. L. 117–328 effective upon issuance of guidance or the promulgation of a rule by the Secretary of the Treasury, in consultation with the Secretary of Transportation, see section 102(c) of Pub. L. 117–328, set out as a note under secton 802 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 117–328 effective upon issuance of guidance or the promulgation of a rule by the Secretary of the Treasury, in consultation with the Secretary of Transportation, see section 102(c) of Pub.L. 117–328, set out as a note under secton 802 of Title 42, The Public Health and Welfare.
 
 <i><sup>1</sup></i><i> So in original. There is no subsec. (a) in section 9080 of this title.</i>
 

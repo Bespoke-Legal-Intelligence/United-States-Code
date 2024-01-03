@@ -18,7 +18,7 @@ Sections 592, 593A, 641(b)(6), 641(d)(2)(A), 704(i)(2), and 734(i)(2) of the Tar
 
 #### Prior Provisions
 
-A prior section 1582, acts June 25, 1948, ch. 646, 62 Stat. 943; June 2, 1970; Pub. L. 91–271, title I, §110, 84 Stat. 278; July 26, 1979, Pub. L. 96–39, title X, §1001(b)(4)(B), 93 Stat. 305, related to the jurisdiction of the Customs Court, prior to the general revision of this chapter by Pub. L. 96–417.
+A prior section 1582, acts June 25, 1948, ch. 646, 62 Stat. 943; June 2, 1970; Pub. L. 91–271, title I, §110, 84Stat. 278; July 26, 1979, Pub. L. 96–39, title X, §1001(b)(4)(B), 93 Stat. 305, related to the jurisdiction of the Customs Court, prior to the general revision of this chapter by Pub. L. 96–417.
 
 #### Amendments
 

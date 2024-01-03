@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Financial Literacy Training Program for Members.—(1) The Secretary concerned shall carry out a program to provide comprehensive financial literacy training to members of the armed forces under the jurisdiction of the Secretary on—
+Requirement for Financial Literacy Training Program for Members.—(1) The Secretary concerned shall carry out a program toprovide comprehensive financial literacy training to members of the armed forces under the jurisdiction of the Secretary on—
 
 &emsp;(A) financial services that are available under law to members;
 
@@ -62,25 +62,33 @@ Counseling for Members and Spouses.—(1) The Secretary concerned shall, upon re
 
 (2)(A) In the case of a military installation at which at least 2,000 members of the armed forces on active duty are assigned, the Secretary concerned—
 
-&emsp;(i) shall provide counseling on financial services under this subsection through a full-time financial services counselor at such installation; and
+&emsp;(i) shall provide counseling on financial services under this subsection through a full-time financial services counselor at such installation;
 
-&emsp;(ii) may provide such counseling at such installation by any means elected by the Secretary from among the following:
+&emsp;(ii) shall provide such counseling at such installation—
 
-&emsp;&emsp;(I) Through members of the armed forces in pay grade E–7 or above, or civilians, who provide such counseling as part of their other duties for the armed forces or the Department of Defense.
+&emsp;&emsp;(I) through members of the armed forces in pay grade E–7 or above, or civilians, who provide such counseling as part of their other duties for the armed forces or the Department of Defense;
 
-&emsp;&emsp;(II) By contract, including contract for services by telephone and by the Internet.
+&emsp;&emsp;(II) by contract, including contract for services by telephone and by the Internet; or
 
-&emsp;&emsp;(III) Through qualified representatives of nonprofit organizations and agencies under formal agreements with the Department of Defense to provide such counseling.
+&emsp;&emsp;(III) through qualified representatives of nonprofit organizations and agencies under formal agreements with the Department of Defense to provide such counseling; and
 
-(B) In the case of any military installation not described in subparagraph (A), the Secretary concerned shall provide counseling on financial services under this subsection at such installation by any of the means set forth in subparagraph (A)(ii), as elected by the Secretary concerned.
+&emsp;(iii) may not provide financial services through any individual unless such individual agrees to submit financial disclosures annually to the Secretary.
+
+(B) In the case of any military installation not described in subparagraph (A), the Secretary concerned shall provide counseling on financial services under this subsection at such installation in accordance with the requirements established under subparagraph (A)(ii) and (iii).
 
 (3) Each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraph (2), shall be an individual who, by reason of education, training, or experience, is qualified to provide helpful counseling to members of the armed forces and their spouses on financial services and marketing practices described in subsection (a)(1). Such individual may be a member of the armed forces or an employee of the Federal Government.
 
-(4) The Secretary concerned shall take such action as is necessary to ensure that each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraphs (2), is free from conflicts of interest relevant to the performance of duty under this section and, in the performance of that duty, is dedicated to furnishing members of the armed forces and their spouses with helpful information and counseling on financial services and related marketing practices.
+(4)(A) The Secretary concerned shall take such action as is necessary to ensure that each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraphs (2), is free from conflicts of interest relevant to the performance of duty under this section and, in the performance of that duty, is dedicated to furnishing members of the armed forces and their spouses with helpful information and counseling on financial services and related marketing practices.
+
+(B) In carrying out the requirements of subparagraph (A), the Secretary concerned shall establish a requirement that each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraph (2), submit financial disclosures annually to the Secretary.
+
+(C) The Secretary concerned shall review all financial disclosures submitted pursuant to subparagraph (B) to ensure the counselor, or the individual providing counseling, is free from conflict as required under this paragraph.
+
+(D) If the Secretary concerned determines that a financial services counselor under paragraph (2)(A)(i), or any other individual providing counseling on financial services under paragraph (2),is not free from conflict as required under this paragraph, the Secretary shall ensure that the counselor, or the individual providing counseling, does not provide such services until such time as the Secretary determines that such conflict is resolved.
 
 (c)
 
-Life Insurance.—In counseling a member of the armed forces, or spouse of a member of the armed forces, under this section regardinglife insurance offered by a private sector source, a financial services counselor under subsection (b)(2)(A)(i), or another individual providing counseling on financial services under subsection (b)(2), shall furnish the member or spouse, as the case may be, with information on the availability of Servicemembers' Group Life Insurance under subchapter III of chapter 19 of title 38, including information on the amounts of coverage available and the procedures for electing coverage and the amount of coverage.
+Life Insurance.—In counseling a member of the armed forces, or spouse of a member of the armed forces, under this section regarding life insurance offered by a private sector source, a financial services counselor under subsection (b)(2)(A)(i), or another individual providing counseling on financial services under subsection (b)(2), shall furnish the member or spouse, as the case may be, with information on the availability of Servicemembers' Group Life Insurance under subchapter III of chapter 19 of title 38, including information on the amounts of coverage available and the procedures for electing coverage and the amount of coverage.
 
 (d)
 
@@ -104,11 +112,27 @@ Financial Services Defined.—In this section, the term "financial services" inc
 
 &emsp;(4) Health insurance, budget management, Thrift Savings Plan (TSP), retirement lump sum payments (including rollover options and tax consequences), and Survivor Benefit Plan (SBP).
 
-(Added Pub. L. 109–163, div. A, title V, §578(a)(1), Jan. 6, 2006, 119 Stat. 3274; amended Pub. L. 111–84, div. A, title X, §1073(a)(8), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 114–92, div. A, title VI, §661(b)–(e)(1), Nov. 25, 2015, 129 Stat. 857, 858.)
+(Added Pub. L. 109–163, div. A, title V, §578(a)(1), Jan. 6, 2006, 119 Stat. 3274; amended Pub. L. 111–84, div. A, title X, §1073(a)(8), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 114–92, div. A, title VI, §661(b)–(e)(1), Nov. 25, 2015, 129 Stat. 857, 858; Pub. L. 118–31, div. A, title V, §524(a), Dec. 22, 2023, 137 Stat. 253.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(2)(A)(i). Pub. L. 118–31, §524(a)(1)(A), struck out "and" after "installation;".
+
+Subsec. (b)(2)(A)(ii). Pub. L. 118–31, §524(a)(1)(B)(i), (ii), in introductory provisions, substituted "shall" for "may" and "installation—" for "installation by any means elected by the Secretary from among the following:".
+
+Subsec. (b)(2)(A)(ii)(I). Pub. L. 118–31, §524(a)(1)(B)(iii), substituted "through" for "Through" and "Defense;" for "Defense."
+
+Subsec. (b)(2)(A)(ii)(II). Pub. L. 118–31, §524(a)(1)(B)(iv), substituted "by contract" for "By contract" and "Internet; or" for "Internet."
+
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 118–31, §524(a)(1)(B)(v), substituted "through" for "Through" and "counseling; and" for "counseling."
+
+Subsec. (b)(2)(A)(iii). Pub. L. 118–31, §524(a)(1)(C), added cl. (iii).
+
+Subsec. (b)(2)(B). Pub. L. 118–31, §524(a)(2), substituted "installation in accordance with the requirements established under subparagraph (A)(ii) and (iii)." for "installation by any of the means set forth in subparagraph (A)(ii), as elected by the Secretary concerned."
+
+Subsec. (b)(4). Pub. L. 118–31, §524(a)(3), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
 
 <b>2015</b>—Pub. L. 114–92, §661(e)(1), substituted "Financial literacy training: financial services" for "Consumer education: financial services" in section catchline.
 
@@ -290,7 +314,7 @@ National securities markets improvement act of 1996.—\[Repealed provisions set
 
 "(a)
 
-Clarification of Jurisdiction.—Any provision of law, regulation, or order of a State with respect to regulating the business of insurance or securities shall apply to insurance or securities activities conducted on Federal land or facilities in the United States and abroad, including military installations, except to the extent that such law, regulation, or order—
+Clarification of Jurisdiction.—Any provision of law, regulation, or order of a State with respect toregulating the business of insurance or securities shall apply to insurance or securities activities conducted on Federal land or facilities in the United States and abroad, including military installations, except to the extent that such law, regulation, or order—
 
 &emsp;"(1) directly conflicts with any applicable Federal law, regulation, or authorized directive; or
 

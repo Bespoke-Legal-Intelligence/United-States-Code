@@ -10,7 +10,7 @@ The Commission, by such rules and regulations or order as it deems necessary or 
 
 #### (c) Good faith conformance with rules, regulations, and orders
 
-No provision of this subchapter imposing any liability shall apply to any act done or omittedin good faith in conformity with any rule, regulation, or order of the Commission, notwithstanding that such rule, regulation, or order may, after such act or omission, by amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
+No provision of this subchapter imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or order of the Commission, notwithstanding that such rule, regulation, or order may, after such act or omission, by amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
 
 (Aug. 22, 1940, ch. 686, title I, §38, 54 Stat. 841; Pub. L. 111–203, title IX, §986(c)(3), July 21, 2010, 124 Stat. 1936.)
 

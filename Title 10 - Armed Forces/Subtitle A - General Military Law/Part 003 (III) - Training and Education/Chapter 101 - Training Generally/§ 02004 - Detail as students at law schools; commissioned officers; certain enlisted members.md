@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) have served on active duty for a period of not less than two years nor more than six years and be an officer in the pay grade O–3 or below as of the time the training is to begin; or
 
-&emsp;&emsp;(B) have served on active duty for a period of not less than four years nor more thaneight years and be an enlisted member in the pay grade E–5, E–6, or E–7 as of the time the training is to begin;
+&emsp;&emsp;(B) have served on active duty for a period of not less than four years nor more than eight years and be an enlisted member in the pay grade E–5, E–6, or E–7 as of the time the training is to begin;
 
 &emsp;(2) in the case of an enlisted member, meet all requirements for acceptance of a commission as a commissioned officer in the armed forces; and
 

@@ -22,7 +22,7 @@ For purposes of this section:
 
 #### (3) Pro rata share
 
-&emsp;The term "pro rata share" means the percentage that is equal to (A) the number of days of the marriage of the qualified former spouse to the employee during the employee's periods of creditable service under chapter 84 of title 5, divided by (B) the total number of days of the employee's creditable service.
+&emsp;The term "pro rata share" means the percentage that is equal to (A) the number ofdays of the marriage of the qualified former spouse to the employee during the employee's periods of creditable service under chapter 84 of title 5, divided by (B) the total number of days of the employee's creditable service.
 
 #### (4) Spousal agreement
 
@@ -50,7 +50,7 @@ For purposes of this section:
 
 &emsp;&emsp;The share referred to in subparagraph (A) equals—
 
-&emsp;&emsp;&emsp;(i) 50 percent, if the qualified former spouse was married to the employeethroughout the entire period of the employee's service which is creditable under chapter 84 of title 50; <sup>1</sup> or
+&emsp;&emsp;&emsp;(i) 50 percent, if the qualified former spouse was married to the employee throughout the entire period of the employee's service which is creditable under chapter 84 of title 5; or
 
 &emsp;&emsp;&emsp;(ii) a pro rata share of 50 percent, if the qualified former spouse was not married to the employee throughout such creditable service.
 
@@ -88,7 +88,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) the survivor annuity for any spouse, former spouse (qualified or otherwise), or other survivor under chapter 84 of title 5, and
 
-&emsp;&emsp;&emsp;(ii) any reduction in the annuity of the retired employee to provide survivor benefits under subsection (d) of this section or under sections <sup>2</sup> 8442 or 8445 of title 5.
+&emsp;&emsp;&emsp;(ii) any reduction in the annuity of the retired employee to provide survivor benefits under subsection (d) of this section or under section 8442 or 8445 of title 5.
 
 #### (B) Reduction in basic pay upon recall to service
 
@@ -104,7 +104,7 @@ For purposes of this section:
 
 #### (7) Pro rata share in case of employees transferred to FERS
 
-&emsp;Notwithstanding paragraph (1)(B), in the case of an employee who has elected to become subject to chapter 84 of title 5, the share of such employee's qualified former spouse shall equal the sum of—
+&emsp;Notwithstanding paragraph (1)(B), in the case of an employee who has elected to become subject to chapter 84 of title 5, the share ofsuch employee's qualified former spouse shall equal the sum of—
 
 &emsp;&emsp;(A) 50 percent of the employee's annuity under subchapter III of chapter 83 of title 5 or under subchapter II of this chapter (computed in accordance with section 302(a) of the Federal Employees' Retirement System Act of 1986 or section 2157 of this title), multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service before the effective date of the election to transfer bears to the employee's total creditable service before such effective date; and
 
@@ -120,7 +120,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to an election under section 8416(a) of title 5, and unless otherwise expressly provided by any spousal agreement or court order governing survivor benefits payable under this subsection to a qualifiedformer spouse, such former spouse is entitled to a share, determined under subparagraph (B), of all survivor benefits that would otherwise be payable under subchapter IV of chapter 84 of title 5 to an eligible surviving spouse of the employee.
+&emsp;&emsp;Subject to an election under section 8416(a) of title 5, and unless otherwise expressly provided by any spousal agreement or court order governing survivor benefits payable under this subsection to a qualified former spouse, such former spouse is entitled to a share, determined under subparagraph (B), of all survivor benefits that would otherwise be payable under subchapter IV of chapter 84 of title 5 to an eligible surviving spouse of the employee.
 
 #### (B) Amount of share
 
@@ -226,7 +226,7 @@ In the case of any employee or retired employee who has a qualified former spous
 
 &emsp;(3) any right of the qualified former spouse to any payment of a lump-sum credit under subsection (g), and the amount of any such payment;
 
-> shall be determined in accordance with that spousal agreement or court order, if and to the extent expressly provided for in the terms of the spousal agreement or court order that are not inconsistent with the requirements of this section.
+> shall be determined in accordance with that spousal agreement or court order, if and to the extent expressly provided for in the terms of thespousal agreement or court order that are not inconsistent with the requirements of this section.
 
 #### (i) Applicability of CIARDS former spouse benefits
 
@@ -240,7 +240,7 @@ In the case of any employee or retired employee who has a qualified former spous
 
 (3) Benefits provided pursuant to this subsection shall be payable from the Central Intelligence Agency Retirement and Disability Fund.
 
-(Pub. L. 88–643, title III, §304, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3244; amended Pub. L. 103–178, title II, §202(a)(15), Dec. 3, 1993, 107 Stat. 2027.)
+(Pub. L. 88–643, title III, §304, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3244; amended Pub. L. 103–178, title II, §202(a)(15), Dec. 3, 1993, 107 Stat. 2027; Pub. L. 118–31, div. G, title IX, §7901(d)(4), Dec. 22, 2023, 137 Stat. 1106.)
 
 #### <b>Editorial Notes</b>
 
@@ -254,6 +254,10 @@ A prior section 304 of Pub. L. 88–643, as added Pub. L. 99–335, title V, §5
 
 #### Amendments
 
+<b>2023</b>—Subsec. (c)(1)(B)(i). Pub. L. 118–31, §7901(d)(4)(A), substituted "title 5" for "title 50".
+
+Subsec. (c)(5)(A)(ii). Pub. L. 118–31, §7901(d)(4)(B), substituted "section 8442" for "sections 8442".
+
 <b>1993</b>—Subsec. (i)(1). Pub. L. 103–178 substituted "section 2002(a)(4)" for "section 2002(a)(3)".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
@@ -265,8 +269,4 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 #### Effective Date
 
 Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be title "5".</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "section".</i>
 

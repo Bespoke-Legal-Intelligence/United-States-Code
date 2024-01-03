@@ -94,7 +94,7 @@ Pub. L. 113–2, div. B, §1101(a), Jan. 29, 2013, 127 Stat. 39, provided that: 
 
 #### Short Title of 2011 Amendment
 
-Pub. L. 111–351, §1, Jan. 4, 2011, 124 Stat. 3863, provided that: "This Act \[amending sections 5133, 5134, 5144,5165d, 5170c, 5172, 5195a, 5195b, 5196 to 5196b, 5196f, 5197 to 5197c, and 5197h of this title and enacting provisions set out as a note under section 5133 of this title\] may be cited as the 'Predisaster Hazard Mitigation Act of 2010'."
+Pub. L. 111–351, §1, Jan. 4, 2011, 124 Stat. 3863, provided that: "This Act \[amending sections 5133, 5134, 5144, 5165d, 5170c, 5172, 5195a, 5195b, 5196 to 5196b, 5196f, 5197 to 5197c, and 5197h of this title and enacting provisions set out as a note under section 5133 of this title\] may be cited as the 'Predisaster Hazard Mitigation Act of 2010'."
 
 #### Short Title of 2006 Amendment
 
@@ -152,7 +152,7 @@ In General.—The Administrator of the Federal Emergency Management Agency shall
 
 &emsp;"(2) Mechanisms to eliminate duplication of benefits.
 
-&emsp;"(3) If appropriate, enable the sharing of information among agencies and with State, local, and tribalgovernments, to eliminate the need to file multiple applications and speed disaster recovery.
+&emsp;"(3) If appropriate, enable the sharing of information among agencies and with State, local, and tribal governments, to eliminate the need to file multiple applications and speed disaster recovery.
 
 &emsp;"(4) Any additional tools the Administrator determines will improve the implementation of this section.
 
@@ -174,7 +174,7 @@ Pub. L. 106–390, title III, §308, Oct. 30, 2000, 114 Stat. 1575, required the
 
 #### National Drought Policy
 
-Pub. L. 105–199, July 16, 1998, 112 Stat. 641, as amended by Pub. L. 106–78, title VII, §753, Oct. 22, 1999, 113 Stat. 1170, known as the "National Drought Policy Act of 1998", established the National Drought Policy Commission to study and submit a report on national drought policy and terminated the Commission 90 days after the submission of the report.
+Pub. L. 105–199, July 16, 1998, 112 Stat. 641, as amended by Pub. L. 106–78, title VII, §753, Oct. 22, 1999, 113 Stat.1170, known as the "National Drought Policy Act of 1998", established the National Drought Policy Commission to study and submit a report on national drought policy and terminated the Commission 90 days after the submission of the report.
 
 #### Recommendations Concerning Improvement of Relationships Among Disaster Management Officials
 

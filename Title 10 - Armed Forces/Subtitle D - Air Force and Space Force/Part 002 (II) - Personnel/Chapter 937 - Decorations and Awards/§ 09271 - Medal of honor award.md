@@ -8,7 +8,7 @@ The President may award, and present in the name of Congress, a medal of honor o
 
 &emsp;(3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 540, §8741; Pub. L. 88–77, §3(1), July 25, 1963, 77 Stat. 94; renumbered §9271, Pub. L. 115–232, div. A, title VIII, §806(b)(11), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–283, div. A, title IX, §923(c)(12)(A)(i), Jan. 1, 2021, 134 Stat. 3811.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 540, §8741; Pub. L. 88–77, §3(1), July 25, 1963, 77 Stat. 94; renumbered §9271, Pub. L. 115–232, div. A, title VIII,§806(b)(11), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–283, div. A, title IX, §923(c)(12)(A)(i), Jan. 1, 2021, 134 Stat. 3811.)
 
 Historical and Revision Notes
 

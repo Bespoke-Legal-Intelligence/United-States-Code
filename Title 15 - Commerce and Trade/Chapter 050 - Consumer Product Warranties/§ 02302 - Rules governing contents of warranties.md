@@ -24,7 +24,7 @@ In order to improve the adequacy of information available to consumers, prevent 
 
 &emsp;(10) The time at which the warrantor will perform any obligations under the warranty.
 
-&emsp;(11) The period of time within which, after notice of a defect, malfunction, or failure to conform with the warranty, the warrantor will perform any obligations under the warranty.
+&emsp;(11) The period of time within which, after notice of a defect, malfunction, or failure toconform with the warranty, the warrantor will perform any obligations under the warranty.
 
 &emsp;(12) The characteristics or properties of the products, or parts thereof, that are not covered by the warranty.
 
@@ -50,7 +50,7 @@ In order to improve the adequacy of information available to consumers, prevent 
 
 &emsp;&emsp;(II) the phone number of the manufacturer, the postal mailing address of the manufacturer, or another reasonable non-Internet based means of contacting the manufacturer to obtain and review such terms.
 
-(B) With respect to any requirement that the terms of any written warranty for a consumer product be made available to the consumer (or prospective consumer) prior to sale of the product, in a case in which a consumer product is offered for sale in a retail location, by catalog, or through door-to-door sales, subparagraph (A) shall only apply if the seller makes available, through electronic or other means, at the location of the sale to the consumer purchasing theconsumer product the terms of the warranty for the consumer product before the purchase.
+(B) With respect to any requirement that the terms of any written warranty for a consumer product be made available to the consumer (or prospective consumer) prior to sale of the product, in a case in which a consumer product is offered for sale in a retail location, by catalog, or through door-to-door sales, subparagraph (A) shall only apply if the seller makes available, through electronic or other means, at the location of the sale to the consumer purchasing the consumer product the terms of the warranty for the consumer product before the purchase.
 
 #### (c) Prohibition on conditions for written or implied warranty; waiver by Commission
 
@@ -88,7 +88,7 @@ Pub. L. 114–51, §2, Sept. 24, 2015, 129 Stat. 494, provided that: "Congress m
 
 &emsp;"(2) Modernizing warranty notification rules is necessary to allow the United States to continue to compete globally in manufacturing, trade, and the development of consumer products connected to the Internet.
 
-&emsp;"(3) Allowing an electronic warranty option would expand consumer access to relevant consumer information in an environmentally friendly way, and would provide additional flexibility to manufacturers to meet their labeling and warranty requirements."
+&emsp;"(3) Allowing an electronic warranty option would expand consumer access to relevant consumer information in an environmentally friendly way, andwould provide additional flexibility to manufacturers to meet their labeling and warranty requirements."
 
 #### Revision of Rules
 

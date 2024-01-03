@@ -18,9 +18,9 @@ Service Creditable for Certain Purposes.—(1) The Secretary concerned may autho
 
 &emsp;(C) possesses a specialty designated by the Secretary concerned as critically needed in wartime.
 
-(2) Service credited under paragraph (1) counts only for the award of retirement points for computation of years of service under section 12732 of this title and for computation of retired pay under section 12733 of this title.
+(2) Service credited under paragraph (1) counts only for the award of retirement points for computation of years of service under section 12732of this title and for computation of retired pay under section 12733 of this title.
 
-(3) The number of points credited to a member under paragraph (1) for a year of participation in a course of study is 50. The points shall be credited to the member for one of the years of thatparticipation at the end of each year after the completion of the course of study that the member serves in the Selected Reserve and is credited under section 12732(a)(2) of this title with at least 50 points. The points credited for the participation shall be recorded in the member's records as having been earned in the year of the participation in the course of study.
+(3) The number of points credited to a member under paragraph (1) for a year of participation in a course of study is 50. The points shall be credited to the member for one of the years of that participation at the end of each year after the completion of the course of study that the member serves in the Selected Reserve and is credited under section 12732(a)(2) of this title with at least 50 points. The points credited for the participation shall be recorded in the member's records as having been earned in the year of the participation in the course of study.
 
 (4) Service may not be counted under paragraph (1) for more than four years of participation in a course of study as a member of the program.
 

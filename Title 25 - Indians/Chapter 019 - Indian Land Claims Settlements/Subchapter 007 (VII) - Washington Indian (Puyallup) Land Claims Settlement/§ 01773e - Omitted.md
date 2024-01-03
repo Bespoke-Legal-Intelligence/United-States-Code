@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 101–41, §7, June 21, 1989, 103 Stat. 87, which appropriated $100,000 for navigation equipmentat Commencement Bay as part of the fisheries aspect of the Settlement Agreement, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 101–41, §7, June 21, 1989, 103 Stat. 87, which appropriated $100,000 for navigation equipment at Commencement Bay as part of the fisheries aspect of the Settlement Agreement, was omitted from the Code as being of special and not general application.
 

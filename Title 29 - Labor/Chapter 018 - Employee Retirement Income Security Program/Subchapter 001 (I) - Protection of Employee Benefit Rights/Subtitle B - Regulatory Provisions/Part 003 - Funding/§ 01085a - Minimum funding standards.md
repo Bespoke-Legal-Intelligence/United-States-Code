@@ -248,7 +248,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (1) In general
 
-&emsp;If a CSEC plan which has a funded current liability percentage for the preceding plan year of less than 100 percent fails to pay the full amount of a required installment for the plan year, then the rate of interest charged to the funding standard account under subsection (b)(5) with respect to the amount of the underpayment for the period of the underpayment shall be equal to the greater of—
+&emsp;If a CSEC plan which has a funded current liability percentage for the preceding plan year of less than 100 percent fails to pay the full amount of a required installment for the planyear, then the rate of interest charged to the funding standard account under subsection (b)(5) with respect to the amount of the underpayment for the period of the underpayment shall be equal to the greater of—
 
 &emsp;&emsp;(A) 175 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of such plan year), or
 
@@ -465,7 +465,7 @@ For purposes of this section—
 
 #### (A) Interest rate
 
-&emsp;&emsp;The rate of interest used to determine current liability under this section shall be thethird segment rate determined under section 1083(h)(2)(C) of this title.
+&emsp;&emsp;The rate of interest used to determine current liability under this section shall be the third segment rate determined under section 1083(h)(2)(C) of this title.
 
 #### (B) Mortality tables
 
@@ -551,7 +551,7 @@ Notwithstanding any other provisions of this section—
 
 #### (2) Plan amendments
 
-&emsp;In the case of a CSEC plan that is in funding restoration status for a plan year, no amendment to such plan may take effect during such plan year if such amendment has the effect of increasing liabilities of the plan by means of increases in benefits, establishment of new benefits, changing the rate of benefit accrual, or changing the rate at which benefits become nonforfeitable. This paragraph shall not apply to any plan amendment that is required tocomply with any applicable law. This paragraph shall cease to apply with respect to any plan year, effective as of the first day of the plan year (or if later, the effective date of the amendment) upon payment by the plan sponsor of a contribution to the plan (in addition to any contribution required under this section without regard to this paragraph) in an amount equal to the increase in the funding liability of the plan attributable to the plan amendment.
+&emsp;In the case of a CSEC plan that is in funding restoration status for a plan year, no amendment to such plan may take effect during such plan year if such amendment has the effect of increasing liabilities of the plan by means of increases in benefits, establishment of new benefits, changing the rate of benefit accrual, or changing the rate at which benefits become nonforfeitable. This paragraph shall not apply to any plan amendment that is required to comply with any applicable law. This paragraph shall cease to apply with respect to any plan year, effective as of the first day of the plan year (or if later, the effective date of the amendment) upon payment by the plan sponsor of a contribution to the plan (in addition to any contribution required under this section without regard to this paragraph) in an amount equal to the increase in the funding liability of the plan attributable to the plan amendment.
 
 #### (3) Funding restoration plan
 
@@ -599,7 +599,7 @@ Notwithstanding any other provisions of this section—
 
 Section 104 of the Pension Protection Act of 2006, referred to in subsec. (b)(6), is section 104 of Pub. L. 109–280, which is set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-The Social Security Act, referred to in subsecs. (c)(4)(A) and (h)(3)(C)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(4)(A) and (h)(3)(C)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (d), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 

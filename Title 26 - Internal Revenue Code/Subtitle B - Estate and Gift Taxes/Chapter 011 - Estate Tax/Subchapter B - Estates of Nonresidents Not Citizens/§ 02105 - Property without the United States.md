@@ -82,7 +82,7 @@ Pub. L. 111–312, title VII, §726(b), Dec. 17, 2010, 124 Stat. 3317, provided 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. C, title II, §207(b), Oct. 3, 2008, 122 Stat. 3865, provided that: "The amendment made bythis section \[amending this section\] shall apply to decedents dying after December 31, 2007."
+Pub. L. 110–343, div. C, title II, §207(b), Oct. 3, 2008, 122 Stat. 3865, provided that: "The amendment made by this section \[amending this section\] shall apply to decedents dying after December 31, 2007."
 
 #### Effective Date of 2004 Amendment
 

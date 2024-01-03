@@ -2,9 +2,15 @@
 
 (a) With respect to Acts of Congress authorizing the exercise, during the period of a national emergency, of any special or extraordinary power, the President is authorized to declare such national emergency. Such proclamation shall immediately be transmitted to the Congress and published in the Federal Register.
 
-(b) Any provisions of law conferring powers and authorities to be exercised during a national emergency shall be effective and remain in effect (1) only when the President (in accordance with subsection (a) of this section), specifically declares a national emergency, and (2) only in accordance with this chapter. No law enacted after September 14, 1976, shall supersede this subchapter unless it does so in specific terms, referring to this subchapter, and declaring that the new law supersedes the provisions of this subchapter.
+(b) Any provisions of law conferring powers and authorities to be exercised during a national emergency shall be effective and remain in effect (1) only when the President (in accordance with subsection (a) of this section), specifically declares a national emergency, and (2) only in accordance with this chapter. No law enacted after September 14, 1976, shall supersede this subchapter unless it does so in specific terms,referring to this subchapter, and declaring that the new law supersedes the provisions of this subchapter.
 
 (Pub. L. 94–412, title II, §201, Sept. 14, 1976, 90 Stat. 1255.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Termination of National Emergency Concerning COVID–19
+
+Pub. L. 118–3, Apr. 10, 2023, 137 Stat. 6, provided: "That, pursuant to section 202 of the National Emergencies Act (50 U.S.C. 1622), the national emergency declared by the finding of the President on March 13, 2020, in Proclamation 9994 (85 Fed. Reg. 15337) \[set out below\] is hereby terminated."
 
 #### <b>Executive Documents</b>
 
@@ -26,17 +32,19 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Proc. No. 7463
 
-Notice of President of the United States, dated Sept. 9, 2022, 87 F.R. 55897, provided:
+Notice of President of the United States, dated Sept. 7, 2023, 88 F.R. 62433, provided:
 
 Consistent with section 202(d) of the National Emergencies Act, 50 U.S.C. 1622(d), I am continuing for 1 year the national emergency previously declared on September 14, 2001, in Proclamation 7463, with respect to the terrorist attacks of September 11, 2001, and the continuing and immediate threat of further attacks on the United States.
 
-Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2022. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
+Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2023. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Proc. No. 7463 were contained in the following:
+
+Notice of President of the United States, dated Sept. 9, 2022, 87 F.R. 55897.
 
 Notice of President of the United States, dated Sept. 9, 2021, 86 F.R. 50835.
 
@@ -96,7 +104,7 @@ In December 2019, a novel (new) coronavirus known as SARS–CoV–2 ("the virus"
 
 The spread of COVID–19 within our Nation's communities threatens to strain our Nation's healthcare systems. As of March 12, 2020, 1,645 people from 47 States have been infected with the virus that causes COVID–19. It is incumbent on hospitals and medical facilities throughout the country to assess their preparedness posture and be prepared to surge capacity and capability. Additional measures, however, are needed to successfully contain and combat the virus in the United States.
 
-NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States, by the authority vested in me by the Constitution and the laws of the United States of America, including sections 201 and 301 of the National Emergencies Act (50 U.S.C. 1601 et seq.) \[50 U.S.C. 1621, 1631\] and consistent with section 1135 of the Social Security Act (SSA), as amended (42 U.S.C. 1320b–5), do hereby find and proclaim that the COVID–19 outbreak in the United States constitutes a national emergency, beginning March 1, 2020. Pursuant to this declaration, I direct as follows:
+NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States, by the authority vested in me by the Constitution and the laws of the United States of America, including sections 201 and 301 of the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.) \[50 U.S.C. 1621, 1631\] and consistent with section 1135 of the Social Security Act (SSA), as amended (42 U.S.C. 1320b–5), do hereby find and proclaim that the COVID–19 outbreak in the United States constitutes a national emergency, beginning March 1, 2020. Pursuant to this declaration, I direct as follows:
 
 Section 1. <i>Emergency Authority</i>. The Secretary of HHS may exercise the authority under section 1135 of the SSA to temporarily waive or modify certain requirements of the Medicare, Medicaid, and State Children's Health Insurance programs and of the Health Insurance Portability and Accountability Act Privacy Rule throughout the duration of the public health emergency declared in response to the COVID–19 outbreak.
 
@@ -116,17 +124,13 @@ IN WITNESS WHEREOF, I have hereunto set my hand this thirteenth day of March, in
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Continuation of the National Emergency Declared by Proc. No. 9994
+\[National emergency declared in Proc. No. 9994, set out above, terminated by Pub. L. 118–3, Apr. 10, 2023, 137 Stat. 6, set out above.\]
 
-Notice of President of the United States, dated Feb. 18, 2022, 87 F.R. 10289, provided:
+Continuations of the national emergency declared by Proc. No. 9994 were contained in the following:
 
-On March 13, 2020, by Proclamation 9994 \[set out above\], the President declared a national emergency concerning the coronavirus disease 2019 (COVID–19) pandemic. The COVID–19 pandemic continues to cause significant risk to the public health and safety of the Nation. For this reason, the national emergency declared on March 13, 2020, and beginning March 1, 2020, must continue in effect beyond March 1, 2022. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency declared in Proclamation 9994 concerning the COVID–19 pandemic.
+Notice of President of the United States, dated Feb. 10, 2023, 88 F.R. 9385.
 
-This notice shall be published in the Federal Register and transmitted to the Congress.
-
-J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Prior continuation of the national emergency declared by Proc. No. 9994 was contained in the following:
+Notice of President of the United States, dated Feb. 18, 2022, 87 F.R. 10289.
 
 Notice of President of the United States, dated Feb. 24, 2021, 86 F.R. 11599.
 
@@ -254,7 +258,7 @@ Sec. 3. <i>Task Force on Federal Energy Infrastructure Procurement Policies Rela
 
 (g) In the reports submitted under subsection (f) of this section, the Task Force shall summarize its progress, findings, and recommendations described in subsection (c) of this section.
 
-(h) Because attacks on the bulk-power system can originate through the distribution system, the TaskForce shall engage with distribution system industry groups, to the extent consistent with law and national security. Within 180 days of receiving the recommendations pursuant to subsection (c)(i) of this section, the FAR Council shall consider proposing for notice and public comment an amendment to the applicable provisions in the Federal Acquisition Regulation to implement the recommendations provided pursuant to subsection (c)(i) of this section.
+(h) Because attacks on the bulk-power system can originate through the distribution system, the Task Force shall engage with distribution system industry groups, to the extent consistent with law and national security. Within 180 days of receiving the recommendations pursuant to subsection (c)(i) of this section, the FAR Council shall consider proposing for notice and public comment an amendment to the applicable provisions in the Federal Acquisition Regulation to implement the recommendations provided pursuant to subsection (c)(i) of this section.
 
 Sec. 4. <i>Definitions</i>. For purposes of this order, the following definitions shall apply:
 

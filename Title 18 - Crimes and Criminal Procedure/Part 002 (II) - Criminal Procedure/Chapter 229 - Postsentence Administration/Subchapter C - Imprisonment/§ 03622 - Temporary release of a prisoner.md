@@ -20,7 +20,7 @@ The Bureau of Prisons may release a prisoner from the place of his imprisonment 
 
 &emsp;(c) work at paid employment in the community while continuing in official detention at the penal or correctional facility if—
 
-&emsp;&emsp;(1) the rates of pay and other conditions of employment will not be less than those paid or provided for work of a similar nature in the community; and
+&emsp;&emsp;(1) the rates of pay and other conditions of employment will not be less than those paidor provided for work of a similar nature in the community; and
 
 &emsp;&emsp;(2) the prisoner agrees to pay to the Bureau such costs incident to official detention as the Bureau finds appropriate and reasonable under all the circumstances, such costs to be collected by the Bureau and deposited in the Treasury to the credit of the appropriation available for such costs at the time such collections are made.
 

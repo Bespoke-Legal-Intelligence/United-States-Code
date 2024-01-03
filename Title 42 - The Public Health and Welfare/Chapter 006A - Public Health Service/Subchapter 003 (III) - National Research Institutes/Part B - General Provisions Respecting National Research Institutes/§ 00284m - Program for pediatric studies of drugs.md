@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than one year after September 27, 2007, the Secretary, acting through the Director of the National Institutes of Health and in consultation with the Commissioner of Food and Drugs and experts in pediatric research, shall develop and publish a priority list of needs in pediatric therapeutics, including drugs, biological products, or indications that require study. The list shall be revised every three years.
+&emsp;Not later than one year after September 27, 2007, the Secretary, acting through the Director of the National Institutes of Health and inconsultation with the Commissioner of Food and Drugs and experts in pediatric research, shall develop and publish a priority list of needs in pediatric therapeutics, including drugs, biological products, or indications that require study. The list shall be revised every three years.
 
 #### (2) Consideration of available information
 
@@ -22,7 +22,7 @@
 
 #### (b) Pediatric studies and research
 
-The Secretary, acting through the National Institutes of Health, shall award funds to entities that have the expertise to conduct pediatric clinical trials or other research (including qualified universities, hospitals, laboratories, contract research organizations, practice groups,federally funded programs such as pediatric pharmacology research units, other public or private institutions, or individuals) to enable the entities to conduct the drug studies or other research on the issues described in paragraphs (1) and (2)(A) of subsection (a). The Secretary may use contracts, grants, or other appropriate funding mechanisms to award funds under this subsection.
+The Secretary, acting through the National Institutes of Health, shall award funds to entities that have the expertise to conduct pediatric clinical trials or other research (including qualified universities, hospitals, laboratories, contract research organizations, practice groups, federally funded programs such as pediatric pharmacology research units, other public or private institutions, or individuals) to enable the entities to conduct the drug studies or other research on the issues described in paragraphs (1) and (2)(A) of subsection (a). The Secretary may use contracts, grants, or other appropriate funding mechanisms to award funds under this subsection.
 
 #### (c) Process for proposed pediatric study requests and labeling changes
 
@@ -190,7 +190,7 @@ Subsec. (e)(1). Pub. L. 112–144, §507(d), substituted "to carry out this sect
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–148 inserted ", biological products," after "including drugs".
 
-<b>2007</b>—Pub. L. 110–85 amended section generally. Prior to amendment, section related to development of list of drugs for which pediatric studies are needed, award of contracts for pediatric studies, process for requesting contract proposals to conduct certain pediatric studies, reporting of completed studies, requests for labeling changes and dispute resolution, and recommendation by the Secretary for formulation changes.
+<b>2007</b>—Pub. L. 110–85 amended section generally. Prior to amendment, section related to development of list of drugs for which pediatric studies are needed, award of contracts for pediatric studies, process for requesting contract proposals to conduct certain pediatric studies,reporting of completed studies, requests for labeling changes and dispute resolution, and recommendation by the Secretary for formulation changes.
 
 Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to authorization and availability of appropriations.
 

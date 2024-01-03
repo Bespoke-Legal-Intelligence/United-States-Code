@@ -4,7 +4,7 @@
 
 &emsp;(1) acquire by purchase, lease, or transfer, and construct, expand, rehabilitate, or convert and equip, such facilities as are authorized by law to carry out the purposes of this chapter;
 
-&emsp;(2) contribute to any State such amounts as he determines to be necessary to expand, rehabilitate, or convert facilities owned by it or bythe United States for use jointly by units of two or more reserve components of the armed forces or to acquire or construct facilities for such use;
+&emsp;(2) contribute to any State such amounts as he determines to be necessary to expand, rehabilitate, or convert facilities owned by it or by the United States for use jointly by units of two or more reserve components of the armed forces or to acquire or construct facilities for such use;
 
 &emsp;(3) contribute to any State such amounts as he determines to be necessary to expand, rehabilitate, or convert facilities owned by it (or to acquire, construct, expand, rehabilitate, or convert additional facilities) made necessary by the conversion, redesignation, or reorganization of units of the Army National Guard of the United States or the Air National Guard of the United States authorized by the Secretary of the military department concerned;
 
@@ -20,7 +20,7 @@
 
 (d) The expenses of leasing property under subsection (a)(1) may be paid from appropriations available for the payment of rent.
 
-(e) The Secretary of Defense may procure, or contribute to any State such amounts as the Secretary determines to be necessary to procure, architectural and engineering services and construction design in connection with facilities to be established or developed under this chapter which are not otherwise authorized by law.
+(e) The Secretary of Defense may procure, or contribute to any State such amounts as the Secretary determines to be necessary to procure, architectural and engineering services andconstruction design in connection with facilities to be established or developed under this chapter which are not otherwise authorized by law.
 
 (f)(1) Authority provided by law to construct, expand, rehabilitate, convert, or equip any facility under this section includes authority to expend funds for surveys, administration, overhead, planning, design, and supervision incident to any such activity.
 
@@ -98,7 +98,7 @@ In subsection (d), 50:882(a) (1st 28 words) is omitted as covered by section 223
 
 #### Codification
 
-Subsequent to enactment of this section, act Sept. 11, 1950 (cited in the Historical and Revision Notes above) was amended by acts Aug. 9, 1955, ch. 662, 69 Stat. 593; Aug. 3, 1956, ch. 939, title IV, §414, 70 Stat. 1018; Aug. 29, 1957, Pub. L. 85–215, §2, 71 Stat. 490. The amendments were later repealed and reenacted in sections 2233 and 2236 to 2238 \[now 18233 and 18236 to 18238\] of this title byPub. L. 85–685, title VI, §602, Aug. 20, 1958, 72 Stat. 665, and Pub. L. 85–861, §§1(37)–(39), 16, 36, Sept. 2, 1958, 72 Stat. 1456, 1558, 1568.
+Subsequent to enactment of this section, act Sept. 11, 1950 (cited in the Historical and Revision Notes above) was amended by acts Aug. 9, 1955, ch. 662, 69 Stat. 593; Aug. 3, 1956, ch. 939, title IV, §414, 70 Stat. 1018; Aug. 29, 1957, Pub. L. 85–215, §2, 71 Stat. 490. The amendments were later repealed and reenacted in sections 2233 and 2236 to 2238 \[now 18233 and 18236 to 18238\] of this title by Pub. L. 85–685, title VI, §602, Aug. 20, 1958, 72 Stat. 665, and Pub. L. 85–861, §§1(37)–(39), 16, 36, Sept. 2, 1958, 72 Stat. 1456, 1558, 1568.
 
 #### Amendments
 

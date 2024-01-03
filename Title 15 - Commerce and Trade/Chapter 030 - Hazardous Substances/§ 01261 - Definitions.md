@@ -34,7 +34,7 @@ For the purposes of this chapter—
 
 (2) If the Commission finds that available data on human experience with any substance indicate results different from those obtained on animals in the above-named dosages or concentrations, the human data shall take precedence.
 
-(i) The term "corrosive" means any substance which in contact with living tissue will cause destruction of tissue by chemical action; but shall not refer to action on inanimate surfaces.
+(i) The term "corrosive" means any substance which in contact with living tissue will causedestruction of tissue by chemical action; but shall not refer to action on inanimate surfaces.
 
 (j) The term "irritant" means any substance not corrosive within the meaning of subparagraph (i) which on immediate, prolonged, or repeated contact with normal living tissue will induce a local inflammatory reaction.
 
@@ -156,7 +156,7 @@ Pub. L. 86–613, §17, formerly §16, July 12, 1960, 74 Stat. 380, renumbered P
 
 &emsp;"(a) prior to the expiration of the sixth calendar month after the month in which this Act is enacted \[July 1960\], or
 
-&emsp;"(b) prior to the expiration of such additional period or periods, ending not more than eighteenmonths after the month of enactment of this Act \[July 1960\], as the Commission may prescribe on the basis of a finding that conditions exist which necessitate the prescribing of such additional period or periods: <i>Provided</i>, That the Commission may limit the application of such additional period or periods to violations related to specified provisions of this Act, or to specified kinds of hazardous substances or packages thereof."
+&emsp;"(b) prior to the expiration of such additional period or periods, ending not more than eighteen months after the month of enactment of this Act \[July 1960\], as the Commission may prescribe on the basis of a finding that conditions exist which necessitate the prescribing of such additional period or periods: <i>Provided</i>, That the Commission may limit the application of such additional period or periods to violations related to specified provisions of this Act, or to specified kinds of hazardous substances or packages thereof."
 
 #### Short Title of 1994 Amendment
 
@@ -172,7 +172,7 @@ Pub. L. 91–113, §1, Nov. 6, 1969, 83 Stat. 187, provided that: "This Act \[en
 
 #### Short Title of 1966 Amendment
 
-Pub. L. 89–756, §1, Nov. 3, 1966, 80 Stat. 1303, provided that: "This title \[probably means this "Act", amending this section, sections 1262, 1263, 1264, 1265, 1273 of this title, and provisions set out as a note under this section\] may be cited as the 'Child Protection Act of 1966'."
+Pub. L. 89–756, §1, Nov. 3, 1966, 80 Stat. 1303, provided that: "This title \[probably means this "Act", amendingthis section, sections 1262, 1263, 1264, 1265, 1273 of this title, and provisions set out as a note under this section\] may be cited as the 'Child Protection Act of 1966'."
 
 #### Short Title
 

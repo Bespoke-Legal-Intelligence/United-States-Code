@@ -136,11 +136,11 @@ Pub. L. 115–232, div. A, title VIII, §878, Aug. 13, 2018, 132 Stat. 1908, pro
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Administrator for Federal Procurement Policy shall develop, make available for public comment, and finalize—
+In General.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], theAdministrator for Federal Procurement Policy shall develop, make available for public comment, and finalize—
 
 &emsp;"(1) a definition of the term 'Procurement administrative lead time' or 'PALT', to be applied Government-wide, that describes the amount of time from the date on which a solicitation for a contract or task order is issued to the date of an initial award of the contract or task order; and
 
-&emsp;"(2) a plan for measuring and publicly reporting data on PALT for Federal Government contracts andtask orders in amounts greater than the simplified acquisition threshold.
+&emsp;"(2) a plan for measuring and publicly reporting data on PALT for Federal Government contracts and task orders in amounts greater than the simplified acquisition threshold.
 
 "(b)
 

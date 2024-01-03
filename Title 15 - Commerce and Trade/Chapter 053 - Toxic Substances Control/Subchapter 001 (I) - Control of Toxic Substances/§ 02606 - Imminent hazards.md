@@ -24,7 +24,7 @@
 
 #### (c) Venue and consolidation
 
-(1)(A) An action under subsection (a) against a person who manufactures, processes, or distributes a chemical substance or mixture or an article containing a chemical substance or mixture may be brought in the United States District Court for the District of Columbia or for any judicial district in which any of the defendants is found, resides, or transacts business; and process in such an action may be served on a defendant in any other district in which such defendant resides or may be found. An action under subsection (a) against a chemical substance, mixture, or article may be brought in any United States district court within the jurisdiction ofwhich the substance, mixture, or article is found.
+(1)(A) An action under subsection (a) against a person who manufactures, processes, or distributes a chemical substance or mixture or an article containing a chemical substance or mixture may be brought in the United States District Court for the District of Columbia or for any judicial district in which any of the defendants is found, resides, or transacts business; and process in such an action may be served on a defendant in any other district in which such defendant resides or may be found. An action under subsection (a) against a chemical substance, mixture, or article may be brought in any United States district court within the jurisdiction of which the substance, mixture, or article is found.
 
 (B) In determining the judicial district in which an action may be brought under subsection (a) in instances in which such action may be brought in more than one judicial district, the Administrator shall take into account the convenience of the parties.
 
@@ -50,7 +50,7 @@ For the purposes of subsection (a), the term "imminently hazardous chemical subs
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a)(1). Pub. L. 114–182, §19(f)(1), in concluding provisions, substituted "a determination under section 2604 or 2605 of this title, a rule under section 2603, 2604, or 2605 of this title or subchapter IV, an order under section 2603, 2604, or 2605 of this title or subchapter IV, or a consent agreement under section 2603 of this title" for "a rule under section 2603 of this title, 2604 of this title, 2605 of this title, or subchapter IV or an order under section 2604 of this title or subchapter IV".
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–182, §19(f)(1), in concluding provisions, substituted "a determination under section 2604 or 2605 of this title, a rule under section 2603, 2604, or 2605 of this title or subchapter IV, an order under section 2603, 2604, or 2605 of this title or subchapter IV, or a consent agreement under section 2603 of this title" for "a rule under section 2603 of this title, 2604 of this title, 2605 of this title, or subchapter IV oran order under section 2604 of this title or subchapter IV".
 
 Subsec. (a)(2). Pub. L. 114–182, §19(f)(2), substituted "section 2605(d)(3)(A)(i)" for "section 2605(d)(2)(A)(i)".
 

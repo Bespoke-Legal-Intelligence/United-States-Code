@@ -22,7 +22,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 &emsp;(iv) Notwithstanding clauses (i) and (ii), the quarterly rate of the special allowance for holders of loans which are financed with funds obtained by the holder from the issuance of obligations originally issued on or after October 1, 1993, or refunded after September 30, 2004, the income from which is excluded from gross income under title 26, shall be the quarterly rate of the special allowance established under subparagraph (A), (E), (F), (G), (H), or (I) as the case may be. Such rate shall also apply to holders of loans which were made or purchased with funds obtained by the holder from collections or default reimbursements on, or interest or other income pertaining to, eligible loans made or purchased with funds described in the preceding sentence of this subparagraph or from income on the investment of such funds.
 
-&emsp;(v) Notwithstanding clauses (i) and (ii), the quarterly rate of the special allowance shall be the rate determined under subparagraph (A), (E), (F), (G), (H), or (I) of this paragraph, or paragraph (4), as the case may be, for a holder of loans that—
+&emsp;(v) Notwithstanding clauses (i) and (ii), the quarterly rate of the special allowance shall be the rate determined under subparagraph\(A), (E), (F), (G), (H), or (I) of this paragraph, or paragraph (4), as the case may be, for a holder of loans that—
 
 &emsp;&emsp;(I) were made or purchased with funds—
 
@@ -102,7 +102,7 @@ Consolidation loans.—This subparagraph shall not apply in the case of any cons
 
 &emsp;&emsp;(v)
 
-Limitation on special allowances for PLUS loans.—In the case of PLUS loans made under section 1078–2 of this title and disbursed on or after July 1, 1998, and before October 1, 1998, for which the interest rate is determined under 1077a(j)(3) of this title, a special allowance shall not be paid for suchloan for such <sup>2</sup> unless the rate determined under subparagraph (A) of such section (without regard to subparagraph (B) of such section) exceeds 9.0 percent.
+Limitation on special allowances for PLUS loans.—In the case of PLUS loans made under section 1078–2 of this title and disbursed on or after July 1, 1998, and before October 1, 1998, for which the interest rate is determined under 1077a(j)(3) of this title, a special allowance shall not be paid for such loan for such <sup>2</sup> unless the rate determined under subparagraph (A) of such section (without regard to subparagraph (B) of such section) exceeds 9.0 percent.
 
 &emsp;(H)
 
@@ -180,7 +180,7 @@ In school and grace period.—In the case of any loan—
 
 &emsp;&emsp;(iii)
 
-PLUS loans.—In the case of any loan for which the first disbursement is made on or after January 1, 2000, and before July 1,2010, and for which the applicable rate of interest is described in section 1077a(k)(3) or (l)(2) of this title, clause (i)(III) of this subparagraph shall be applied by substituting "2.64 percent" for "2.34 percent".
+PLUS loans.—In the case of any loan for which the first disbursement is made on or after January 1, 2000, and before July 1, 2010, and for which the applicable rate of interest is described in section 1077a(k)(3) or (l)(2) of this title, clause (i)(III) of this subparagraph shall be applied by substituting "2.64 percent" for "2.34 percent".
 
 &emsp;&emsp;(iv)
 
@@ -242,7 +242,7 @@ Calculation based on LIBOR.—For the calendar quarter beginning on April 1, 201
 
 &emsp;&emsp;&emsp;(II)
 
-Loans eligible for LIBOR-based calculation.—The special allowance paid pursuant to this subsection shall be calculated as described in subclause (I) with respect to special allowance payments for the 3-month period ending June 30, 2012, and each succeeding 3-month period, on loans for which the first disbursement is made on or after January 1, 2000, and before July 1, 2010, if, not later than April 1, 2012, the holder of the loan (or, if the holder acts as eligible lender trustee for the beneficial owner of the loan, the beneficial owner of the loan), affirmatively and permanently waives all contractual, statutory, or other legal rights to a special allowance paid pursuant to this subsection that is calculated using the formula in effect at the time the loans were first disbursed.
+Loans eligible for LIBOR-based calculation.—The special allowance paid pursuant to this subsection shall be calculated as described in subclause (I) with respect to special allowance payments for the 3-month period ending June 30, 2012, and each succeeding 3-month period, on loans for which the first disbursement ismade on or after January 1, 2000, and before July 1, 2010, if, not later than April 1, 2012, the holder of the loan (or, if the holder acts as eligible lender trustee for the beneficial owner of the loan, the beneficial owner of the loan), affirmatively and permanently waives all contractual, statutory, or other legal rights to a special allowance paid pursuant to this subsection that is calculated using the formula in effect at the time the loans were first disbursed.
 
 &emsp;&emsp;&emsp;(III)
 
@@ -286,7 +286,7 @@ Loans eligible for sofr-based calculation.—Except as provided in subclause (IV
 
 &emsp;&emsp;&emsp;&emsp;(bb) a nationally recognized rating organization assigning a rating to a financing secured by loans otherwise eligible for the SOFR-based calculation,
 
-&emsp;&emsp;&nbsp;the holder of the loan (or, if the holder acts as an eligible lender trustee for the beneficial owner of the loan, the beneficial owner of the loan) may elect to apply the rate described in subclause (II) to specified loan portfolios established for financing purposes by separate notices with different effective dates. The special allowance rate based on SOFR shall be effective with respect to a portfolio as of the first day of the calendar quarter following the applicable effective date of the waiver received by the Secretary from the holder or beneficial owner and shall permanently and irrevocably continue for all subsequent quarters.
+&emsp;&emsp;&nbsp;the holder of the loan (or, if the holder acts as an eligible lender trustee for the beneficial owner of the loan, the beneficial owner of the loan) may elect to apply therate described in subclause (II) to specified loan portfolios established for financing purposes by separate notices with different effective dates. The special allowance rate based on SOFR shall be effective with respect to a portfolio as of the first day of the calendar quarter following the applicable effective date of the waiver received by the Secretary from the holder or beneficial owner and shall permanently and irrevocably continue for all subsequent quarters.
 
 &emsp;&emsp;&emsp;(IV)
 
@@ -294,7 +294,7 @@ Fallback provisions.—
 
 &emsp;&emsp;&emsp;&emsp;(aa) In the event that a holder or beneficial owner has not elected to waive its rights to a special allowance payment under clause (vii) with respect to a portfolio with an effective date of the waiver prior to the first of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the date on which the ICE Benchmark Administration ("IBA") has permanently or indefinitely stopped providing the 1-month UnitedStates Dollar LIBOR ("1-month USD LIBOR") to the general public;
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the date on which the ICE Benchmark Administration ("IBA") has permanently or indefinitely stopped providing the 1-month United States Dollar LIBOR ("1-month USD LIBOR") to the general public;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(BB) the effective date of an official public statement by the IBA or its regulator that the 1-month USD LIBOR is no longer reliable or no longer representative; or
 
@@ -356,7 +356,7 @@ Fallback provisions.—
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraph (6) of this subsection, with respect to any loan (including loansmade under section 1078–8 of this title, but excluding loans made under sections 1078–3 and 1087–2(o) of this title) for which a completed note or other written evidence of the loan was sent or delivered to the borrower for signing on or after 10 days after August 13, 1981, each eligible lender under this part is authorized to charge the borrower an origination fee in an amount not to exceed 3.0 percent of the principal amount of the loan, to be deducted proportionately from each installment payment of the proceeds of the loan prior to payment to the borrower. Except as provided in paragraph (8), a lender that charges an origination fee under this paragraph shall assess the same fee to all student borrowers.
+&emsp;&emsp;Subject to paragraph (6) of this subsection, with respect to any loan (including loans made under section 1078–8 of this title, but excluding loans made under sections 1078–3 and 1087–2(o) of this title) for which a completed note or other written evidence of the loan was sent or delivered to the borrower for signing on or after 10 days after August 13, 1981, each eligible lender under this part is authorized to charge the borrower an origination fee in an amount not to exceed 3.0 percent of the principal amount of the loan, to be deducted proportionately from each installment payment of the proceeds of the loan prior to payment to the borrower. Except as provided in paragraph (8), a lender that charges an origination fee under this paragraph shall assess the same fee to all student borrowers.
 
 #### (B) Subsequent reductions
 
@@ -412,7 +412,7 @@ Fallback provisions.—
 
 #### (B) Special rule
 
-&emsp;&emsp;If the Secretary collects loan fees under this subsection through the reduction of interest and special allowance payments, and the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b), respectively, is less than the amount of such loan fees, then the Secretary shall deduct the amount of the loan fee balance from the amount of interest and special allowance payments that would otherwise be payable, in subsequent quarterly increments until the balance has been deducted.
+&emsp;&emsp;If the Secretary collects loan fees under this subsection through the reduction of interest and special allowance payments, andthe total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b), respectively, is less than the amount of such loan fees, then the Secretary shall deduct the amount of the loan fee balance from the amount of interest and special allowance payments that would otherwise be payable, in subsequent quarterly increments until the balance has been deducted.
 
 #### (2) Amount of loan fees
 
@@ -420,7 +420,7 @@ Fallback provisions.—
 
 &emsp;&emsp;(A) except as provided in subparagraph (B), 0.50 percent of the principal amount of the loan with respect to any loan under this part for which the first disbursement was made on or after October 1, 1993; and
 
-&emsp;&emsp;(B) 1.0 percent of the principal amount of the loan with respect to any loan under this part for which the first disbursement wasmade on or after October 1, 2007, and before July 1, 2010.
+&emsp;&emsp;(B) 1.0 percent of the principal amount of the loan with respect to any loan under this part for which the first disbursement was made on or after October 1, 2007, and before July 1, 2010.
 
 #### (3) Distribution of loan fees
 
@@ -449,6 +449,8 @@ Section 1078–1 of this title, referred to in subsecs. (b)(2)(C), (5)(A)(ii) an
 The date of enactment of this section, referred to in subsec. (b)(2)(I)(vii)(III)(bb)(AA), probably means the date of enactment of Pub. L. 112–74, which enacted subsec. (b)(2)(I)(vii) and was approved Dec. 23, 2011.
 
 The Adjustable Interest Rate (LIBOR) Act, referred to in subsec. (b)(2)(I)(viii)(II), is div. U of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 825, which is classified principally to chapter 55 (§5801 et seq.) of Title 12, Banks and Banking. The term "tenor spread adjustment" is defined in section 5802 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 12 and Tables.
+
+The effective date of this clause, referred to in subsec. (b)(2)(I)(viii)(III), probably means the date of enactment of Pub. L. 117–103, which was approved Mar. 15, 2022.
 
 The Servicemembers Civil Relief Act, referred to in subsec. (g), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 50 (§3901 et seq.) of Title 50. The parenthetical reference to "(50 U.S.C. App. 527)" relates to section 207 of the Act, which is now classified to section 3937 of Title 50. For complete classification of this Act to the Code, see Tables.
 
@@ -664,7 +666,7 @@ Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provi
 
 Pub. L. 109–171, title VIII, §8006(b)(2), Feb. 8, 2006, 120 Stat. 160, provided that: "The amendments made by this subsection \[amending this section\] shall not apply with respect to any special allowance payment made under section 438 of the Higher Education Act of 1965 (20 U.S.C. 1087–1) before April 1, 2006."
 
-Pub. L. 109–171, title VIII, §8013(c)(3), Feb. 8, 2006, 120 Stat. 167, provided that: "The amendment made byparagraph (1) \[amending this section\] shall be effective as if enacted on October 30, 2004, and the amendment made by paragraph (2) \[amending provisions set out as a note under section 1078–10 of this title\] shall be effective as if enacted on October 1, 2005."
+Pub. L. 109–171, title VIII, §8013(c)(3), Feb. 8, 2006, 120 Stat. 167, provided that: "The amendment made by paragraph (1) \[amending this section\] shall be effective as if enacted on October 30, 2004, and the amendment made by paragraph (2) \[amending provisions set out as a note under section 1078–10 of this title\] shall be effective as if enacted on October 1, 2005."
 
 Pub. L. 109–171, title VIII, §8013(d)(2), Feb. 8, 2006, 120 Stat. 167, provided that: "The amendments made by subsections (a) and (c) of this section \[amending this section and provisions set out as a note under section 1078–10 of this title\] shall be effective as if the amendments made in subsections (b) and (c) of section 2 of the Second Higher Education Extension Act of 2005 \[Pub. L. 109–150, amending this section and provisions set out as a note under section 1078–10 of this title\] had not been enacted."
 

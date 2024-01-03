@@ -164,7 +164,7 @@ President's Report.—Not later than 18 months after the date of the enactment o
 
 "(e)
 
-Comptroller General's Report.—The Comptroller General of the United States shall, not later than 18 months after the report required by subsection\(d) is submitted to Congress, submit to the appropriate congressional committees a report that—
+Comptroller General's Report.—The Comptroller General of the United States shall, not later than 18 months after the report required by subsection (d) is submitted to Congress, submit to the appropriate congressional committees a report that—
 
 &emsp;"(1) analyzes the guidelines established pursuant to subsection (b); and
 

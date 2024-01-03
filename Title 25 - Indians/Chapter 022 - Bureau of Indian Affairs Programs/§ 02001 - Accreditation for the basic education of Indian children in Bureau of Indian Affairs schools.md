@@ -4,7 +4,7 @@
 
 #### (1) Purpose
 
-&emsp;The purpose of the accreditation required under this section shall be to ensure that Indian students being served by a school funded by the Bureau of Indian Affairs are provided with educational opportunities that equal or exceed those for all other students in the United States.
+&emsp;The purpose of the accreditation required under this section shall be to ensure that Indian students being served by a school funded by the Bureau of Indian Affairs are providedwith educational opportunities that equal or exceed those for all other students in the United States.
 
 #### (2) Declarations of purpose
 
@@ -42,7 +42,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, through contracts and grants, shall provide technical and financialassistance to Bureau-funded schools, to the extent that necessary amounts are made available, to enable such schools to obtain the accreditation required under this subsection, if the school boards request that such assistance, in part or in whole, be provided.
+&emsp;&emsp;The Secretary, through contracts and grants, shall provide technical and financial assistance to Bureau-funded schools, to the extent that necessary amounts are made available, to enable such schools to obtain the accreditation required under this subsection, if the school boards request that such assistance, in part or in whole, be provided.
 
 #### (B) Entities through which assistance may be provided
 
@@ -292,7 +292,7 @@
 
 &emsp;&emsp;&emsp;The Secretary shall consider only the factors described in subparagraph (B) in reviewing—
 
-&emsp;&emsp;&emsp;&emsp;(I) applications from any tribe for the awarding of a contract or grant for aschool that is not a Bureau-funded school; and
+&emsp;&emsp;&emsp;&emsp;(I) applications from any tribe for the awarding of a contract or grant for a school that is not a Bureau-funded school; and
 
 &emsp;&emsp;&emsp;&emsp;(II) applications from any tribe or school board of any Bureau-funded school for—
 
@@ -328,7 +328,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after the date on which an application described in paragraph (1)(A) is submitted to the Secretary, the Secretary shall make a determination of whether to approve the application.
+&emsp;&emsp;Not later than 180 days after the date on which an application described in paragraph\(1)(A) is submitted to the Secretary, the Secretary shall make a determination of whether to approve the application.
 
 #### (B) Failure to make determination
 
@@ -384,7 +384,7 @@
 
 #### (f) Joint administration
 
-Administrative, transportation, and program cost funds received by Bureau-funded schools,and any program from the Department of Education or any other Federal agency for the purpose of providing education or related services, and other funds received for such education and related services from nonfederally funded programs, shall be apportioned and the funds shall be retained at the school.
+Administrative, transportation, and program cost funds received by Bureau-funded schools, and any program from the Department of Education or any other Federal agency for the purpose of providing education or related services, and other funds received for such education and related services from nonfederally funded programs, shall be apportioned and the funds shall be retained at the school.
 
 #### (g) General use of funds
 
@@ -408,7 +408,7 @@ Funds received by Bureau-funded schools from the Bureau of Indian Affairs, and u
 
 This section, referred to in subsec. (b)(4) and the second place appearing in subsec. (c)(1), mean section 1121 of Pub. L. 95–561, prior to the general amendment of this chapter by Pub. L. 107–110. See Prior Provisions notes below.
 
-The Indian Self-Determination Act, referred to in subsec. (b)(8)(D) to (F), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (b)(8)(D) to (F), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 5301 of this title and Tables.
 
 The Tribally Controlled Schools Act of 1988, referred to in subsec. (b)(8)(D) to (F), is part B (§§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§2501 et seq.) of this title. Sections 5204 and 5207 of the Act were classified to sections 2503 and 2506, respectively, of this title, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. Pub. L. 107–110 enacted new sections 5204 and 5207 which are classified to sections 2503 and 2506, respectively, of this title. Pub. L. 107–110 enacted new sections 5203 and 5206 of Pub. L. 100–297, relating to subject matter similar to that of former sections 5204 and 5207, respectively, which are classified to sections 2502 and 2505, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
@@ -432,15 +432,13 @@ Another prior section 2001, Pub. L. 95–561, title XI, §1121, Nov. 1, 1978, 92
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Effective Date
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

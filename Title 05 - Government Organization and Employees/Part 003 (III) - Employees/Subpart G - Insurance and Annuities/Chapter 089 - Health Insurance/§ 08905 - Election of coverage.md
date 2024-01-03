@@ -46,7 +46,7 @@
 
 (e) If an employee, annuitant, or other individual eligible to enroll in a health benefits plan under this chapter has a spouse who is also eligible to enroll, either spouse, but not both, may enroll for self and family, or for a self plus one enrollment that covers the spouse, or each spouse may enroll as an individual or for a self plus one enrollment that does not cover the other spouse or a child who is covered under the enrollment of the other spouse. However, an individual may not be enrolled both as an employee, annuitant, or other individual eligible to enroll and as a member of the family.
 
-(f) An employee, annuitant, former spouse, or person having continued coverage under section 8905a of this title enrolled in a health benefits plan under this chapter may change his coverage or that of himself and members of his family by an application filed within 60 days after a change in family status or at other times and under conditions prescribed by regulations of the Office.
+(f) An employee, annuitant, former spouse, or person having continued coverage under section8905a of this title enrolled in a health benefits plan under this chapter may change his coverage or that of himself and members of his family by an application filed within 60 days after a change in family status or at other times and under conditions prescribed by regulations of the Office.
 
 (g)(1) Under regulations prescribed by the Office, the Office shall, before the start of any contract term in which—
 
@@ -72,7 +72,7 @@
 
 (i) Any services by an officer or employee under this chapter relating to enrolling individuals in a health benefits plan under this chapter, or changing the enrollment of an individual already so enrolled, shall be deemed, for purposes of section 1342 of title 31, services for emergencies involving the safety of human life or the protection of property.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 603; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, §3(4), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), (c), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§103, 104(a), Feb. 27, 1986, 100 Stat. 14; Pub. L. 99–335, title II, §207(m), June 6, 1986, 100 Stat. 598; Pub. L. 100–654, title II, §§201(c), (d), 202(c), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 102–378, §2(77), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–261, div. A, title VII, §721(b)(1), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 106–394, §2, Oct. 30, 2000, 114 Stat. 1629; Pub. L. 113–67, div. A, title VII, §706(a), Dec. 26, 2013, 127 Stat. 1193; Pub. L. 116–92, div. A, title XI, §1110(a), Dec. 20, 2019, 133 Stat. 1600.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 603; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, §3(4), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), (c), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§103, 104(a), Feb. 27, 1986, 100 Stat. 14; Pub. L. 99–335, title II, §207(m), June 6, 1986, 100 Stat. 598; Pub. L. 100–654, title II, §§201(c), (d), 202(c), Nov. 14, 1988,102 Stat. 3845; Pub. L. 102–378, §2(77), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–261, div. A, title VII, §721(b)(1), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 106–394, §2, Oct. 30, 2000, 114 Stat. 1629; Pub. L. 113–67, div. A, title VII, §706(a), Dec. 26, 2013, 127 Stat. 1193; Pub. L. 116–92, div. A, title XI, §1110(a), Dec. 20, 2019, 133 Stat. 1600.)
 
 Historical and Revision Notes
 
@@ -130,7 +130,7 @@ Subsec. (c)(1). Pub. L. 102–378, §2(77)(B), inserted comma after "8341(h)" in
 
 <b>1988</b>—Subsec. (d). Pub. L. 100–654, §202(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "If an employee has a spouse who is an employee, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee or annuitant and as a member of the family."
 
-Subsecs. (e), (f)(1), (2). Pub. L. 100–654, §201(c), (d)(1), substituted "former spouse, or person having continuedcoverage under section 8905a of this title" for "or former spouse".
+Subsecs. (e), (f)(1), (2). Pub. L. 100–654, §201(c), (d)(1), substituted "former spouse, or person having continued coverage under section 8905a of this title" for "or former spouse".
 
 Subsec. (f)(3). Pub. L. 100–654, §201(d)(2), added par. (3).
 

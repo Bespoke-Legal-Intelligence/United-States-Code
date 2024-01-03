@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Charter school.—The term "charter school" has the meaning given that term insection 4310 of the Elementary and Secondary Education Act of 1965.
+Charter school.—The term "charter school" has the meaning given that term in section 4310 of the Elementary and Secondary Education Act of 1965.
 
 &emsp;(2)
 
@@ -16,9 +16,11 @@ Eligible school.—The term "eligible school" means—
 
 &emsp;&emsp;&emsp;(i) at least 30 percent of the students enrolled in the school are from families with incomes below 185 percent of poverty level (as defined by the Office of Management and Budget and revised at least annually in accordance with section 9(b)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(b)(1)) applicable to a family of the size involved; or
 
-&emsp;&emsp;&emsp;(ii) at least 13 percent of the students enrolled in the school qualify for assistance under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.); or
+&emsp;&emsp;&emsp;(ii) at least 13 percent of the students enrolled in the school qualify for assistance under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.);
 
-&emsp;&emsp;(B) a Bureau-funded school as defined in section 1141(3) of the Education Amendments of 1978 (25 U.S.C. 2021(3)).
+&emsp;&emsp;(B) a Bureau-funded school as defined in section 1141(3) of the Education Amendments of 1978 (25 U.S.C. 2021(3)); or
+
+&emsp;&emsp;(C) a Job Corps center as defined in section 147 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3197).
 
 &emsp;(3)
 
@@ -26,9 +28,11 @@ High-need school.—The term "high-need school" means—
 
 &emsp;&emsp;(A) an elementary or middle school in which at least 50 percent of the enrolled students are children from low-income families, based on the number of children eligible for free and reduced priced lunches under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.), the number of children in families receiving assistance under the State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), the number of children eligible to receive medical assistance under the Medicaid program, or a composite of these indicators;
 
-&emsp;&emsp;(B) a high school in which at least 40 percent of enrolled students are children from low-income families, which may be calculated using comparable data from feeder schools; or
+&emsp;&emsp;(B) a high school in which at least 40 percent of enrolled students are children from low-income families, which may be calculated using comparable data from feeder schools;
 
-&emsp;&emsp;(C) a school that is in a local educational agency that is eligible under section 5211(b) of the Elementary and Secondary Education Act of 1965.
+&emsp;&emsp;(C) a school that is in a local educational agency that is eligible under section 5211(b) of the Elementary and Secondary Education Act of 1965; or
+
+&emsp;&emsp;(D) a Job Corps center as defined in section 147 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3197).
 
 &emsp;(4)
 
@@ -62,9 +66,11 @@ Program Authorization.—The Secretary of Defense shall carry out a Troops-to-Te
 
 &emsp;&emsp;&emsp;(i) receiving grants under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) as a result of having within their jurisdictions concentrations of children from low-income families; or
 
-&emsp;&emsp;&emsp;(ii) experiencing a shortage of teachers, in particular a shortage of science, mathematics, special education, foreign language, or career or technical teachers; and
+&emsp;&emsp;&emsp;(ii) experiencing a shortage of teachers, in particular a shortage of science, mathematics, special education, foreign language, or career or technical teachers;
 
-&emsp;&emsp;(B) in elementary schools or secondary schools, or as career or technical teachers.
+&emsp;&emsp;(B) in elementary schools or secondary schools, or as career or technical teachers; and
+
+&emsp;&emsp;(C) as administrators and instructors of the Junior Reserve Officers' Training Corps under section 2031(d) of this title.
 
 (c)
 
@@ -100,7 +106,7 @@ Eligible members.—The following members of the armed forces are eligible for s
 
 Submission of applications.—(A) Selection of eligible members of the armed forces to participate in the Program shall be made on the basis of applications submitted to the Secretary within the time periods specified in subparagraph (B). An application shall be in such form and contain such information as the Secretary may require.
 
-&emsp;(B) In the case of an eligible member of the armed forces described in subparagraph (A)(i), (A)(iii), (B), or (C) of paragraph (1), an application shall be considered to be submitted on atimely basis if the application is submitted not later than three years after the date on which the member is retired, transferred to the Retired Reserve, or separated or released from active duty, whichever applies to the member.
+&emsp;(B) In the case of an eligible member of the armed forces described in subparagraph (A)(i), (A)(iii), (B), or (C) of paragraph (1), an application shall be considered to be submitted on a timely basis if the application is submitted not later than three years after the date on which the member is retired, transferred to the Retired Reserve, or separated or released from active duty, whichever applies to the member.
 
 &emsp;(3)
 
@@ -124,7 +130,7 @@ Selection priorities.—In selecting eligible members of the armed forces to rec
 
 &emsp;&emsp;&emsp;(i) have educational or military experience in science, mathematics, special education, foreign language, or career or technical subjects; and
 
-&emsp;&emsp;&emsp;(ii) agree to seek employment as science, mathematics, foreign language, or special education teachers in elementary schools or secondary schools or in other schools under the jurisdiction of a local educational agency; and
+&emsp;&emsp;&emsp;(ii) agree to seek employment as science, mathematics, foreign language, or special education teachers in elementary schools or secondary schools or Job Corps centers or in other schools under the jurisdiction of a local educational agency; and
 
 &emsp;&emsp;(B) may give priority to members who agree to seek employment in a high-need school.
 
@@ -160,13 +166,13 @@ Violation of participation agreement; exceptions.—A participant shall not be c
 
 &emsp;&emsp;(D) is unable to secure employment for a period not to exceed 12 months by reason of the care required by a spouse who is disabled;
 
-&emsp;&emsp;(E) is unable to find full-time employment as a teacher in an eligible elementary school or secondary school or as a career or technical teacher for a single period not to exceed 27 months; or
+&emsp;&emsp;(E) is unable to find full-time employment as a teacher in an eligible elementary school or secondary school or Job Corps center or as a career or technical teacher for a single period not to exceed 27 months; or
 
 &emsp;&emsp;(F) satisfies the provisions of additional reimbursement exceptions that may be prescribed by the Secretary.
 
 &emsp;(3)
 
-Stipend and bonus for participants.—(A) Subject to subparagraph (C), the Secretarymay pay to a participant a stipend to cover expenses incurred by the participant to obtain the required educational level, certification, or licensing. Such stipend may not exceed $5,000 and may vary by participant.
+Stipend and bonus for participants.—(A) Subject to subparagraph (C), the Secretary may pay to a participant a stipend to cover expenses incurred by the participant to obtain the required educational level, certification, or licensing. Such stipend may not exceed $5,000 and may vary by participant.
 
 &emsp;(B)(i) Subject to subparagraph (C), the Secretary may pay a bonus to a participant who agrees in the participation agreement under paragraph (1) to accept full-time employment as an elementary school teacher, secondary school teacher, or career or technical teacher for not less than three school years in an eligible school.
 
@@ -250,9 +256,9 @@ Limitation on Total Fiscal-year Obligations.—The total amount obligated by the
 
 (k)
 
-Sunset.—The Program shall terminate on July 1, 2025, with respect to the selection of new participants for the program. Participants in the Program as of that date may complete their program, and remain eligible for benefits under this section.
+Sunset.—The Program shall terminate on July 1, 2027, with respect to the selection of new participants for the program. Participants in the Program as of that date may complete their program, and remain eligible for benefits under this section.
 
-(Added Pub. L. 112–239, div. A, title V, §541(b)(1), Jan. 2, 2013, 126 Stat. 1729; amended Pub. L. 113–291, div. A, title X, §1071(f)(14), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–95, title IX, §9215(uuu)(2), Dec. 10, 2015, 129 Stat. 2190; Pub. L. 115–232, div. A, title V, §554, Aug. 13, 2018, 132 Stat. 1773; Pub. L. 117–81, div. A, title V, §551, Dec. 27, 2021, 135 Stat. 1734.)
+(Added Pub. L. 112–239, div. A, title V, §541(b)(1), Jan. 2, 2013, 126 Stat. 1729; amended Pub. L. 113–291, div. A, title X, §1071(f)(14), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–95, title IX, §9215(uuu)(2), Dec. 10, 2015, 129 Stat. 2190; Pub. L. 115–232, div. A, title V, §554, Aug. 13, 2018, 132 Stat. 1773; Pub. L. 117–81, div. A, title V, §551, Dec. 27, 2021, 135 Stat. 1734; Pub. L. 118–31, div. A, title V, §§573, 574, Dec. 22, 2023, 137 Stat. 276, 277.)
 
 #### <b>Editorial Notes</b>
 
@@ -269,6 +275,18 @@ The Social Security Act, referred to in subsec. (a)(3)(A), is act Aug. 14, 1935,
 The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(2)(C). Pub. L. 118–31, §573(1)(A), added subpar. (C).
+
+Subsec. (a)(3)(D). Pub. L. 118–31, §573(1)(B), added subpar. (D).
+
+Subsec. (b)(2)(C). Pub. L. 118–31, §574(1), added subpar (C).
+
+Subsec. (d)(4)(A)(ii). Pub. L. 118–31, §573(2), inserted "or Job Corps centers" after "secondary schools".
+
+Subsec. (e)(2)(E). Pub. L. 118–31, §573(3), inserted "or Job Corps center" after "secondary school".
+
+Subsec. (k). Pub. L. 118–31, §574(2), substituted "2027" for "2025".
 
 <b>2021</b>—Subsec. (b). Pub. L. 117–81, §551(a), substituted "shall" for "may" in introductory provisions.
 
@@ -289,6 +307,10 @@ Subsec. (a)(8). Pub. L. 114–95, §9215(uuu)(2)(C), substituted "section 8101 o
 <b>2014</b>—Subsec. (a)(2)(A)(ii). Pub. L. 113–291 substituted "20 U.S.C. 1411" for "20 U.S.C.1411".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2015 Amendment
 

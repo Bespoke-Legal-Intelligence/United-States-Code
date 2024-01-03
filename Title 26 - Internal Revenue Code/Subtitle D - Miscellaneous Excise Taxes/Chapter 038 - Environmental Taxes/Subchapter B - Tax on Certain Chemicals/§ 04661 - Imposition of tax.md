@@ -103,7 +103,7 @@ Refund of tax previously imposed.—
 
 &emsp;&emsp;"(i)
 
-In general.—In the case of any tax imposed by section 4661 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the sale or use of xylene before October 1, 1985, such tax (including interest,additions to tax, and additional amounts) shall not be assessed, and if assessed, the assessment shall be abated, and if collected shall be credited or refunded (with interest) as an overpayment.
+In general.—In the case of any tax imposed by section 4661 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the sale or use of xylene before October 1, 1985, such tax (including interest, additions to tax, and additional amounts) shall not be assessed, and if assessed, the assessment shall be abated, and if collected shall be credited or refunded (with interest) as an overpayment.
 
 &emsp;&emsp;"(ii)
 
@@ -159,7 +159,7 @@ Exception where manufacturer paid tax.—In the case of any sale before January 
 
 &emsp;"(D)
 
-Registration requirements.—Section 4662(b)(10)(C) of such Code (as added by subsection (g)) shall apply to exchanges made after December 31, 1986."
+Registration requirements.—Section 4662(b)(10)(C) of such Code (as added by subsection (g))shall apply to exchanges made after December 31, 1986."
 
 #### Effective Date
 

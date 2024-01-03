@@ -32,7 +32,7 @@ In this chapter:
 
 #### (8) Location
 
-&emsp;The term "location" means any geographic point or area declared or identified by theUnited States or specified by the International Atomic Energy Agency.
+&emsp;The term "location" means any geographic point or area declared or identified by the United States or specified by the International Atomic Energy Agency.
 
 #### (9) Nuclear Non-Proliferation Treaty
 

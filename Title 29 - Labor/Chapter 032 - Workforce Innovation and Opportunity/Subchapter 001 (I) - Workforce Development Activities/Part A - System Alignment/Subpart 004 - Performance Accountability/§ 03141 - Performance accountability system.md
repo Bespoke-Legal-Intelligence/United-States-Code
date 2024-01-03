@@ -94,7 +94,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (II) Third and fourth year
 
-&emsp;&emsp;&emsp;&emsp;The State and the Secretary of Labor, in conjunction with the Secretary of Education, shall reach agreement, prior to the third program year covered by the State plan, on levels of performance foreach indicator described in clause (iii) for each of the programs described in clause (ii) for each of the third and fourth program years covered by the State plan. In reaching the agreement, the State and Secretary of Labor, in conjunction with the Secretary of Education, shall take into account the factors described in clause (v). The levels agreed to shall be considered to be the State adjusted levels of performance for the State for such program years and shall be incorporated into the State plan as a modification to the plan.
+&emsp;&emsp;&emsp;&emsp;The State and the Secretary of Labor, in conjunction with the Secretary of Education, shall reach agreement, prior to the third program year covered by the State plan, on levels of performance for each indicator described in clause (iii) for each of the programs described in clause (ii) for each of the third and fourth program years covered by the State plan. In reaching the agreement, the State and Secretary of Labor, in conjunction with the Secretary of Education, shall take into account the factors described in clause (v). The levels agreed to shall be considered to be the State adjusted levels of performance for the State for such program years and shall be incorporated into the State plan as a modification to the plan.
 
 #### (v) Factors
 
@@ -208,7 +208,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (4) Contents of eligible training providers performance reports
 
-&emsp;The performance report for an eligible provider of training services under section 3152 of this title shall include, subject to paragraph\(6)(C), with respect to each program of study (or the equivalent) of such provider—
+&emsp;The performance report for an eligible provider of training services under section 3152 of this title shall include, subject to paragraph (6)(C), with respect to each program of study (or the equivalent) of such provider—
 
 &emsp;&emsp;(A) information specifying the levels of performance achieved with respect to the primary indicators of performance described in subclauses (I) through (IV) of subsection (b)(2)(A)(i) with respect to all individuals engaging in the program of study (or the equivalent);
 
@@ -272,7 +272,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (B) Reduction in amount of grant
 
-&emsp;&emsp;If such failure continues for a second consecutive year, or (except in the case of exceptional circumstances as determined by the Secretary of Labor or the Secretary of Education, as appropriate) a State fails to submit a report under subsection (d) for any program year, the percentage of each amount that would (in the absence of this paragraph) be reserved by the Governor under section 3163(a) of this title for the immediately succeeding program year shall be reduced by 5 percentage points until such date as the Secretary of Labor or the Secretary of Education, as appropriate, determines that the State meets such State adjusted levels of performance and has submitted such reports for the appropriate program years.
+&emsp;&emsp;If such failure continues for a second consecutive year, or (except in the case of exceptional circumstances as determined by the Secretary of Labor or the Secretary of Education, as appropriate) a State fails to submit a report under subsection (d) for any program year, the percentage of each amount that would (in the absence of this paragraph) be reserved by the Governor under section 3163(a) of this title for the immediately succeeding program year shall be reduced by 5 percentage points until suchdate as the Secretary of Labor or the Secretary of Education, as appropriate, determines that the State meets such State adjusted levels of performance and has submitted such reports for the appropriate program years.
 
 #### (g) Sanctions for local area failure to meet local performance accountability measures
 
@@ -334,7 +334,7 @@ The Wagner-Peyser Act, referred to in subsec. (b)(2)(A)(i), (3)(A)(ii)(V), is ac
 
 The Rehabilitation Act of 1973, referred to in subsecs. (b)(2)(A)(i), (3)(A)(ii)(VI) and (e)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Government Performance and Results Act of 1993, referred to in subsec. (b)(3)(A)(vi), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+The Government Performance and Results Act of 1993, referred to in subsec. (b)(3)(A)(vi), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39,Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
 This Act, referred to in subsec. (i)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
@@ -345,10 +345,6 @@ This Act, referred to in subsec. (i)(3), is Pub. L. 113–128, July 22, 2014, 12
 Subsec. (g)(1). Pub. L. 114–18, §2(c)(2), struck out "for a program described in subsection (d)(2)(A)" after "part B".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 

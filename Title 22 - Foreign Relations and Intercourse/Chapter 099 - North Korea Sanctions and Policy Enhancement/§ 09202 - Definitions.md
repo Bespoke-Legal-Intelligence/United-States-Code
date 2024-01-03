@@ -46,7 +46,7 @@ In this chapter:
 
 #### (4) Designated person
 
-&emsp;The term "designated person" means a person designated under subsection (a), (b), or (g) of section 9214 of this title for purposes of applying 1 or more of the sanctions described in subchapter I or II with respect to the person.
+&emsp;The term "designated person" means a person designated under subsection (a), (b), or (g)of section 9214 of this title for purposes of applying 1 or more of the sanctions described in subchapter I or II with respect to the person.
 
 #### (5) Foreign person
 
@@ -140,7 +140,7 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 114–122, Feb. 18, 2016, 130Stat. 93, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 93, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
 Subchapter I or II, referred to in par. (4), was in the original "title I or II", meaning titles I and II of Pub. L. 114–122. Title I is classified principally to subchapter I of this chapter. Title II is classified generally to subchapter II of this chapter. For complete classification of titles I and II of Pub. L. 114–122 to the Code, see Tables.
 

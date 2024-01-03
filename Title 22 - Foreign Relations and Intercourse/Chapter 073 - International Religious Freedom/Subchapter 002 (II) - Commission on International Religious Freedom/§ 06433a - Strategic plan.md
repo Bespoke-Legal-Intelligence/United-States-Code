@@ -26,7 +26,7 @@ In this section:
 
 #### (4) Vice Chair
 
-&emsp;The term "Vice Chair" means the Vice Chair of the Commission who was appointed to suchposition by an elected official from the political party that is different from the political party of the elected official who appointed the Chair of the Commission.
+&emsp;The term "Vice Chair" means the Vice Chair of the Commission who was appointed to such position by an elected official from the political party that is different from the political party of the elected official who appointed the Chair of the Commission.
 
 #### (b) Strategic policy and organizational review planning process
 

@@ -36,7 +36,7 @@ The practices and procedures specifically enumerated in this subsection shall be
 
 &emsp;(1) The preparation and use of pure concentrated or unconcentrated juice or must. Concentrated juice or must reduced with water to its original density or to not less than 22 degrees Brix or unconcentrated juice or must reduced with water to not less than 22 degrees Brix shall be deemed to be juice or must, and shall include such amounts of water to clear crushing equipment as regulations prescribed by the Secretary may provide.
 
-&emsp;(2) The addition to natural wine, or to concentrated or unconcentrated juice or must, from one kind of fruit, of wine spirits (whether or not tax-paid) distilled in the United States from the same kind of fruit; except that (A) the wine, juice, or concentrate shall not have an alcoholic content in excess of 24 percent by volume after the addition of wine spirits, and (B) in the case of still wines, wine spirits may be added in any State only to natural wines produced by fermentation in bonded wine cellars located within the same State.
+&emsp;(2) The addition to natural wine, or to concentrated or unconcentrated juice or must, from one kind of fruit, of wine spirits (whether or not tax-paid) distilled in the United Statesfrom the same kind of fruit; except that (A) the wine, juice, or concentrate shall not have an alcoholic content in excess of 24 percent by volume after the addition of wine spirits, and (B) in the case of still wines, wine spirits may be added in any State only to natural wines produced by fermentation in bonded wine cellars located within the same State.
 
 &emsp;(3) Amelioration and sweetening of natural grape wines in accordance with section 5383.
 
@@ -102,7 +102,7 @@ Pub. L. 108–429, title II, §2002(b), Dec. 3, 2004, 118 Stat. 2589, provided t
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–619 effective on first day of first month which begins 90 days or more after Oct. 22, 1968, see section 6 of Pub. L. 90–619, set out as a note under section 5373 of this title.
+Amendment by Pub. L. 90–619 effective on first day of first month which begins 90 days or more after Oct. 22,1968, see section 6 of Pub. L. 90–619, set out as a note under section 5373 of this title.
 
 #### Effective Date of 1965 Amendment
 

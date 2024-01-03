@@ -96,7 +96,7 @@ Notice and Wait on Activities Under Programs.—Not later than 15 days before in
 
 &emsp;(5) Information, including the amount, type, and purpose, on the security assistance provided the foreign country during the three preceding fiscal years pursuant to authorities under this title, the Foreign Assistance Act of 1961, and any other train and equip authorities of the Department of Defense.
 
-&emsp;(6) A description of the elements of the theater security cooperation plan of the geographic combatant command concerned, and of the interagency integrated country strategy, that will be advanced by the program.
+&emsp;(6) A description of the elements of the theater security cooperation plan of the geographic combatant command concerned, andof the interagency integrated country strategy, that will be advanced by the program.
 
 &emsp;(7) In the case of a program described in subsection (d)(3), each of the following:
 
@@ -140,9 +140,59 @@ In general.—Amounts available in a fiscal year to carry out the authority in s
 
 &emsp;&emsp;(B)
 
-Achievement of full operational capacity.—If, in accordance with subparagraph (A), equipment or training is delivered undera program under the authority in subsection (a) in the fiscal year after the fiscal year in which the program begins, amounts for defense articles, training, defense services, supplies (including consumables), and small-scale construction associated with such equipment or training and necessary to ensure that the recipient unit achieves full operational capability for such equipment or training may be used in the fiscal year in which the foreign country takes receipt of such equipment and in the next two fiscal years.
+Achievement of full operational capacity.—If, in accordance with subparagraph (A), equipment or training is delivered under a program under the authority in subsection (a) in the fiscal year after the fiscal year in which the program begins, amounts for defense articles, training, defense services, supplies (including consumables), and small-scale construction associated with such equipment or training and necessary to ensure that the recipient unit achieves full operational capability for such equipment or training may be used in the fiscal year in which the foreign country takes receipt of such equipment and in the next two fiscal years.
 
-(Added Pub. L. 114–328, div. A, title XII, §1241(d)(1), Dec. 23, 2016, 130 Stat. 2500; amended Pub. L. 115–91, div. A, title XII, §1204(b), Dec. 12, 2017, 131 Stat. 1643; Pub. L. 115–232, div. A, title XII, §§1201, 1203(c), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 116–92, div. A, title XII, §1201, Dec. 20, 2019, 133 Stat. 1620; Pub. L. 116–283, div. A, title XII, §1201, Jan. 1, 2021, 134 Stat. 3908; Pub. L. 117–263, div. A, title XII, §1202(c), Dec. 23, 2022, 136 Stat. 2823.)
+(h)
+
+Equipment Disposition; Notice and Wait.—
+
+&emsp;(1) The Secretary of Defense may treat as stocks of the Department of Defense—
+
+&emsp;&emsp;(A) equipment procured to carry out a program pursuant to subsection (a) that has not yet been transferred to a foreign country and is no longer needed to support such program or any other program carried out pursuant to such subsection; and
+
+&emsp;&emsp;(B) equipment that has been transferred to a foreign country to carry out a program pursuant to subsection (a) and is returned by the foreign country to the United States.
+
+&emsp;(2)
+
+Notice and wait.—Not later than 15 days before initiating activities under a program under subsection (a), the Secretary of Defense shall submit to the appropriate committees of Congress a written and electronic notice of the following:
+
+&emsp;&emsp;(A) The foreign country, and specific unit, whose capacity was intended to be built under the program, and the amount, type, and purpose of the equipment that was to be provided.
+
+&emsp;&emsp;(B) An explanation why the equipment is no longer needed to support such program or another program carried out pursuant to such subsection.
+
+(i)
+
+International Agreements.—
+
+&emsp;(1)
+
+In general.—The Secretary of Defense, with the concurrence of the Secretary of State, may—
+
+&emsp;&emsp;(A) allow a foreign country to provide sole-source direction for assistance in support of a program carried out pursuant to subsection (a); and
+
+&emsp;&emsp;(B) enter into an agreement with a foreign country to provide such sole-source direction.
+
+&emsp;(2)
+
+Notification.—Not later than 72 hours after the Secretary of Defense enters into an agreement under paragraph (1), the Secretary shall submit to the congressional defense committees a written notification that includes the following:
+
+&emsp;&emsp;(A) A description of the parameters of the agreement, including types of support, objectives, and duration of support and cooperation under the agreement.
+
+&emsp;&emsp;(B) A description and justification of any anticipated use of sole-source direction pursuant to such agreement.
+
+&emsp;&emsp;(C) An assessment of the extent to which the equipment to be provided under the agreement—
+
+&emsp;&emsp;&emsp;(i) responds to the needs of the foreign country; and
+
+&emsp;&emsp;&emsp;(ii) can be sustained by the foreign country.
+
+&emsp;&emsp;(D) A determination as to whether the anticipated costs to be incurred under the agreement are fair and reasonable.
+
+&emsp;&emsp;(E) A certification that the agreement is in the national security interests of the United States.
+
+&emsp;&emsp;(F) Any other matter relating to the agreement, as determined by the Secretary of Defense.
+
+(Added Pub. L. 114–328, div. A, title XII, §1241(d)(1), Dec. 23, 2016, 130 Stat. 2500; amended Pub. L. 115–91, div. A, title XII, §1204(b), Dec. 12, 2017, 131 Stat. 1643; Pub. L. 115–232, div. A, title XII, §§1201, 1203(c), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 116–92, div. A, title XII, §1201, Dec. 20, 2019, 133 Stat. 1620; Pub. L. 116–283, div. A, title XII, §1201, Jan. 1, 2021, 134 Stat. 3908; Pub. L. 117–263, div. A, title XII, §1202(c), Dec. 23, 2022, 136 Stat. 2823; Pub. L. 118–31, div. A, title XII, §1203(b), (c), Dec. 22, 2023, 137 Stat. 441, 442.)
 
 #### <b>Editorial Notes</b>
 
@@ -155,6 +205,8 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e)(5), (9)(A), is Pu
 A prior section 333 was renumbered section 253 of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsecs. (h), (i). Pub. L. 118–31 added subsecs. (h) and (i).
 
 <b>2022</b>—Subsec. (f). Pub. L. 117–263 substituted "Semi-Annual" for "Quarterly" in heading and "a semi-annual" for "a quarterly" and "180 days" for "calendar quarter" in introductory provisions.
 
@@ -181,6 +233,96 @@ Subsec. (c)(3). Pub. L. 115–91, §1204(b)(2), in heading, substituted "Observa
 Subsec. (c)(4). Pub. L. 115–91, §1204(b)(3), substituted "that the Department of Defense or another department or agency is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, a program of institutional capacity building with appropriate institutions of such foreign country to enhance the capacity of such foreign country to organize, administer, employ, manage, maintain, sustain, or oversee the national security forces of such foreign country." for "that the Department is already undertaking, or will undertake as part of the program, a program of institutional capacity building with appropriate institutions of such foreign country that is complementary to the program with respect to such foreign country under subsection (a)." and struck out at end "The purpose of the program of institutional capacity building shall be to enhance the capacity of such foreign country to exercise responsible civilian control of the national security forces of such foreign country."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Indo-Pacific Campaigning Initiative
+
+Pub. L. 118–31, div. A, title XIII, §1304, Dec. 22, 2023, 137 Stat. 489, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall establish, and the Commander of the United States Indo-Pacific Command shall carry out, an Indo-Pacific Campaigning Initiative (in this section referred to as the 'Initiative') for purposes of—
+
+&emsp;"(1) strengthening United States alliances and partnerships with foreign military partners in the Indo-Pacific region;
+
+&emsp;"(2) deterring military aggression by potential adversaries against the United States and allies and partners of the United States;
+
+&emsp;"(3) dissuading strategic competitors from seeking to achieve their objectives through the conduct of military activities below the threshold of traditional armed conflict;
+
+&emsp;"(4) improving the understanding of the United States Armed Forces with respect to the operating environment in the Indo-Pacific region;
+
+&emsp;"(5) shaping the perception of potential adversaries with respect to United States military capabilities and the military capabilities of allies and partners of the United States in the Indo-Pacific region; and
+
+&emsp;"(6) improving the ability of the United States Armed Forces to coordinate and operate with foreign military partners in the Indo-Pacific region.
+
+"(b)
+
+Briefing and Report.—
+
+&emsp;"(1)
+
+Briefing.—Not later than March 1, 2024, the Secretary shall provide the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] with a briefing that describes ongoing and planned campaigning activities in the Indo-Pacific region for fiscal year 2024.
+
+&emsp;"(2)
+
+Report.—Not later than December 1, 2024, the Secretary shall submit to the congressional defense committees a report that—
+
+&emsp;&emsp;"(A) summarizes the campaigning activities conducted in the Indo-Pacific region during fiscal year 2024; and
+
+&emsp;&emsp;"(B) includes—
+
+&emsp;&emsp;&emsp;"(i) an assessment of the value each such activity contributes to meeting strategic or operational objectives relative to the commitment of resources of such activity;
+
+&emsp;&emsp;&emsp;"(ii) lessons learned in carrying out such activities;
+
+&emsp;&emsp;&emsp;"(iii) any identified resource or authority gap that has negatively impacted the implementation of the Initiative; and
+
+&emsp;&emsp;&emsp;"(iv) proposed plans for additional campaigning activities in the Indo-Pacific region to fulfill the purposes described in subsection (a).
+
+"(c)
+
+Campaigning Defined.—In this section, the term 'campaigning'—
+
+&emsp;"(1) means the conduct and sequencing of logically linked military activities to achieve strategy aligned objectives, including modifying the security environment over time to the benefit of the United States and the allies and partners of the United States while limiting, frustrating, and disrupting competitor activities; and
+
+&emsp;"(2) includes deliberately planned military activities in the Indo-Pacific region involving bilateral and multilateral engagements with foreign partners, training, exercises, demonstrations, experiments, and other activities to achieve the objectives described in subsection (a)."
+
+#### Enhancing Major Defense Partnership With India
+
+Pub. L. 118–31, div. A, title XIII, §1316, Dec. 22, 2023, 137 Stat. 498, provided that: "The Secretary of Defense, in coordination with the Secretary of State and the head of any other relevant Federal department or agency, shall seek to ensure that India is appropriately considered for cooperative defense activities consistent with the status of India as a major defense partner of the United States, including with respect to the following lines of effort:
+
+&emsp;"(1) Eligibility for funding to initiate or facilitate cooperative research, development, testing, or evaluation projects with the Department of Defense, with priority given to projects in the areas of—
+
+&emsp;&emsp;"(A) intelligence, surveillance, and reconnaissance;
+
+&emsp;&emsp;"(B) undersea domain awareness;
+
+&emsp;&emsp;"(C) air combat and support;
+
+&emsp;&emsp;"(D) munitions; and
+
+&emsp;&emsp;"(E) mobility.
+
+&emsp;"(2) Eligibility to enter into agreements with the Department of Defense for cooperative bilateral or multilateral provision of training to build capacity in the areas of—
+
+&emsp;&emsp;"(A) counterterrorism operations;
+
+&emsp;&emsp;"(B) counter-weapons of mass destruction operations;
+
+&emsp;&emsp;"(C) counter-illicit drug trafficking operations;
+
+&emsp;&emsp;"(D) counter-transnational organized crime operations;
+
+&emsp;&emsp;"(E) maritime and border security operations;
+
+&emsp;&emsp;"(F) military intelligence operations;
+
+&emsp;&emsp;"(G) air domain awareness operations; and
+
+&emsp;&emsp;"(H) cyberspace security and defensive cyberspace operations.
+
+&emsp;"(3) Eligibility to enter into a memorandum of understanding or other formal agreement with the Department of Defense for the purpose of conducting cooperative research and development projects on defense equipment and munitions.
+
+&emsp;"(4) Eligibility for entities from India to bid on contracts for the maintenance, repair, or overhaul of Department of Defense equipment located outside the United States."
 
 #### Military Cybersecurity Cooperation With Hashemite Kingdom of Jordan
 
@@ -220,7 +362,7 @@ Contents.—The briefing under paragraph (1) shall include the following:
 
 &emsp;&emsp;"(A) An overview of efforts undertaken pursuant to this section.
 
-&emsp;&emsp;"(B) A description of the feasibility and advisability of expanding the cooperation of militarycybersecurity activities between the Department of Defense and the Ministry of Defense of the Hashemite Kingdom of Jordan.
+&emsp;&emsp;"(B) A description of the feasibility and advisability of expanding the cooperation of military cybersecurity activities between the Department of Defense and the Ministry of Defense of the Hashemite Kingdom of Jordan.
 
 &emsp;&emsp;"(C) Identification of any challenges and resources that need to be addressed so as to expand such cooperation.
 
@@ -234,25 +376,25 @@ Appropriate Congressional Committees Defined.—In this section, the term 'appro
 
 &emsp;"(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives."
 
-#### Pilot Program To Improve Cyber Cooperation with Vietnam, Thailand, and Indonesia
+#### Pilot Program To Improve Cyber Cooperation With Covered Foreign Military Partners in Southeast Asia
 
-Pub. L. 116–283, div. A, title XII, §1256, Jan. 1, 2021, 134 Stat. 3956, provided that:
+Pub. L. 116–283, div. A, title XII, §1256, Jan. 1, 2021, 134 Stat. 3956, as amended by Pub. L. 118–31, div. A, title XIII, §1315(a)–(g)(1), Dec. 22, 2023, 137 Stat. 497, 498, provided that:
 
 "(a)
 
-In General.—The Secretary of Defense, with the concurrence of the Secretary of State, may establish, using existing authorities of the Department of Defense, a pilot program in Vietnam, Thailand, and Indonesia—
+In General.—The Secretary of Defense, with the concurrence of the Secretary of State, may establish, using existing authorities of the Department of Defense, a pilot program with covered foreign military partners—
 
-&emsp;"(1) to enhance the cyber security, resilience, and readiness of the military forces of Vietnam, Thailand, and Indonesia; and
+&emsp;"(1) to enhance the cyber security, resilience, and readiness of the military forces of covered foreign military partners; and
 
-&emsp;"(2) to increase regional cooperation between the United States and Vietnam, Thailand, and Indonesia on cyber issues.
+&emsp;"(2) to increase regional cooperation between the United States and covered foreign military partners on defensive cyber issues.
 
 "(b)
 
 Elements.—The activities of the pilot program under subsection (a) shall include the following:
 
-&emsp;"(1) Provision of training to military officers and civilian officials in the ministries of defense of Vietnam, Thailand, and Indonesia.
+&emsp;"(1) Provision of training to military officers and civilian officials in the ministries of defense of covered foreign military partners.
 
-&emsp;"(2) The facilitation of regular dialogues and trainings among the Department of Defense and the ministries of defense of Vietnam, Thailand, and Indonesia with respect to the development of infrastructure to protect against foreign cyber attacks.
+&emsp;"(2) The facilitation of regular dialogues and trainings among the Department of Defense and the ministries of defense of covered foreign military partners with respect to the development of infrastructure to protect against foreign cyber attacks.
 
 &emsp;"(3) To undertake, as part of cyber cooperation, training that includes curricula expressly relating to human rights, the rule of law, and internet freedom.
 
@@ -270,7 +412,7 @@ Progress report.—Not later than December 31, 2021, and annually thereafter unt
 
 &emsp;&emsp;"(A) a description of the activities conducted and the results of such activities;
 
-&emsp;&emsp;"(B) an assessment of reforms relevant to cybersecurity and technology in enhancing the cyber security, resilience, and readiness of the military forces of Vietnam, Thailand, and Indonesia;
+&emsp;&emsp;"(B) an assessment of reforms relevant to cybersecurity and technology in enhancing the cyber security, resilience, and readiness of the military forces of covered foreign military partners;
 
 &emsp;&emsp;"(C) an assessment of the effectiveness of curricula relating to human rights, the rule of law, and internet freedom; and
 
@@ -278,19 +420,37 @@ Progress report.—Not later than December 31, 2021, and annually thereafter unt
 
 "(d)
 
-Certification.—Not later than 30 days before the date on which the pilot program under subsection (a) is scheduled to commence, the Secretary of Defense, with the concurrence of the Secretary of State, shall submit to the appropriate committees of Congress a certification indicating whether such program would credibly enable, enhance, or facilitate violations of internet freedom or other human rights abuses in Vietnam, Indonesia, or Thailand.
+Certification.—Not later than 30 days before the date on which the pilot program under subsection (a) is scheduled to commence with any covered foreign military partner, the Secretary of Defense, with the concurrence of the Secretary of State, shall submit to the appropriate committees of Congress a certification indicating whether such program would credibly enable, enhance, or facilitate violations of internet freedom or other human rights abuses in the covered foreign military partner.
 
 "(e)
 
-Termination.—The pilot program under subsection (a) shall terminate on December 31, 2024.
+Termination.—The pilot program under subsection (a) shall terminate on December 31, 2027.
 
 "(f)
 
-Appropriate Committees of Congress Defined.—In this section, the term 'appropriate committees of Congress' means—
+Definitions.—In this section:
 
-&emsp;"(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+&emsp;"(1)
 
-&emsp;"(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives."
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+
+&emsp;"(2)
+
+Covered foreign military partner.—The term 'covered foreign military partner' means the following:
+
+&emsp;&emsp;"(A) Vietnam.
+
+&emsp;&emsp;"(B) Thailand.
+
+&emsp;&emsp;"(C) Indonesia.
+
+&emsp;&emsp;"(D) The Philippines.
+
+&emsp;&emsp;"(E) Malaysia."
 
 #### Guidance
 
@@ -298,7 +458,7 @@ Pub. L. 114–328, div. A, title XII, §1241(d)(4), Dec. 23, 2016, 130 Stat. 250
 
 #### Training for Eastern European National Security Forces in the Course of Multilateral Exercises
 
-Pub. L. 114–92, div. A, title XII, §1251, Nov. 25, 2015, 129 Stat. 1070, as amended by Pub. L. 114–328, div. A, title XII, §1233, Dec. 23, 2016, 130 Stat. 2489; Pub. L. 115–91, div. A, title XII, §1205, Dec. 12, 2017, 131 Stat. 1643; Pub. L. 116–92, div. A, title XII, §1247(a), Dec. 20, 2019, 133 Stat. 1662; Pub. L. 116–283, div. A, title XII, §1243, Jan. 1, 2021, 134 Stat. 3947; Pub. L. 117–81, div. A, title XII, §1233, Dec. 27, 2021, 135 Stat. 1974, provided that:
+Pub. L. 114–92, div. A, title XII, §1251, Nov. 25, 2015, 129 Stat. 1070, as amended by Pub. L. 114–328, div. A, title XII, §1233, Dec. 23, 2016, 130 Stat. 2489; Pub. L. 115–91, div. A, title XII, §1205, Dec. 12, 2017, 131 Stat. 1643; Pub. L. 116–92, div. A, title XII, §1247(a), Dec. 20, 2019, 133 Stat. 1662; Pub. L. 116–283, div. A, title XII, §1243, Jan. 1, 2021, 134 Stat. 3947; Pub. L. 117–81, div. A, title XII, §1233, Dec. 27, 2021, 135 Stat. 1974; Pub. L. 118–31, div. A, title XII, §1249, Dec. 22, 2023, 137 Stat. 464, provided that:
 
 "(a)
 
@@ -334,9 +494,11 @@ In general.—Training may be provided under subsection (a) to the national secu
 
 &emsp;&emsp;"(B) Countries that became a member of the North Atlantic Treaty Organization after January 1, 1999.
 
+&emsp;&emsp;"(C) The Republic of Kosovo.
+
 &emsp;"(2)
 
-Eligible countries.—Before providing training under subsection (a), the Secretary of Defense shall,in coordination with the Secretary of State, submit to the Committees on Armed Services of the Senate and the House of Representatives a list of the countries determined pursuant to paragraph (1) to be eligible for the provision of training under subsection (a).
+Eligible countries.—Before providing training under subsection (a), the Secretary of Defense shall, in coordination with the Secretary of State, submit to the Committees on Armed Services of the Senate and the House of Representatives a list of the countries determined pursuant to paragraph (1) to be eligible for the provision of training under subsection (a).
 
 "(d)
 
@@ -402,9 +564,29 @@ Incremental Expenses Defined.—In this section, the term 'incremental expenses'
 
 "(h)
 
-Termination of Authority.—The authority under this section shall terminate on December 31, 2024. Any activity under this section initiated before that date may be completed, but only using funds available for the period beginning on October 1, 2015, and ending on December 31, 2024..\[sic\]"
+Termination of Authority.—The authority under this section shall terminate on December 31, 2026. Any activity under this section initiated before that date may be completed, but only using funds available for the period beginning on October 1, 2015, and ending on December 31, 2026."
 
-#### Indo-Pacific Maritime Security Initiative
+#### Indo-Pacific Maritime Security Initiative; Indo-Pacific Maritime Domain Awareness Initiative
+
+Pub. L. 118–31, div. A, title XIII, §1305, Dec. 22, 2023, 137 Stat. 490, provided that:
+
+"(a)
+
+Establishment.—Not later than 90 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense, in coordination with the Secretary of State, shall seek to establish an initiative with allies and partners of the United States, including Australia, Japan, and India, to be known as the 'Indo-Pacific Maritime Domain Awareness Initiative' (in this section referred to as the 'Initiative'), to bolster maritime domain awareness in the Indo-Pacific region.
+
+"(b)
+
+Use of Authorities.—In carrying out the Initiative, the Secretary of Defense may use the authorities provided in chapter 16 of title 10, United States Code, and other applicable statutory authorities available to the Secretary of Defense.
+
+"(c)
+
+Purposes.—The purposes of the Initiative are as follows:
+
+&emsp;"(1) To enhance the ability of allies and partners of the United States in the Indo-Pacific region to monitor the maritime domain of such region.
+
+&emsp;"(2) To utilize emerging technologies to support maritime domain awareness objectives.
+
+&emsp;"(3) To provide a comprehensive understanding of the maritime domain in the Indo-Pacific region, including by facilitating information sharing among such allies and partners."
 
 Pub. L. 114–92, div. A, title XII, §1263, Nov. 25, 2015, 129 Stat. 1073, as amended by Pub. L. 114–328, div. A, title XII, §1289, Dec. 23, 2016, 130 Stat. 2555; Pub. L. 115–232, div. A, title XII, §1252, Aug. 13, 2018, 132 Stat. 2053; Pub. L. 116–92, div. A, title XII, §§1251, 1252(a), Dec. 20, 2019, 133 Stat. 1666–1668; Pub. L. 117–81, div. A, title XII, §1241, Dec. 27, 2021, 135 Stat. 1976; Pub. L. 117–263, div. A, title XII, §1252, Dec. 23, 2022, 136 Stat. 2850, provided that:
 
@@ -454,7 +636,7 @@ Priorities for Assistance and Training.—In developing programs for assistance 
 
 "(e)
 
-Incremental Expenses of Personnel of Recipient Countries for Training.—If the Secretary of Defense determines that the payment of incremental expenses (as defined in section 301 of title 10, United States Code) in connection with training described insubsection (a)(1)(B) will facilitate the participation in such training of organization personnel of recipient countries described in subsection (b), the Secretary may use amounts available under subsection (f) for assistance and training under subsection (a) for the payment of such incremental expenses.
+Incremental Expenses of Personnel of Recipient Countries for Training.—If the Secretary of Defense determines that the payment of incremental expenses (as defined in section 301 of title 10, United States Code) in connection with training described in subsection (a)(1)(B) will facilitate the participation in such training of organization personnel of recipient countries described in subsection (b), the Secretary may use amounts available under subsection (f) for assistance and training under subsection (a) for the payment of such incremental expenses.
 
 "(f)
 

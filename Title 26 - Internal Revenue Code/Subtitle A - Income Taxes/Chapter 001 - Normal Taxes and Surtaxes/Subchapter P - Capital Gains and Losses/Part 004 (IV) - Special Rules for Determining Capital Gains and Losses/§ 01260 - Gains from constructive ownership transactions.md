@@ -16,7 +16,7 @@ If the taxpayer has gain from a constructive ownership transaction with respect 
 
 #### (2) Amount of interest
 
-&emsp;The amount of interest determined under this paragraph with respect to a prior taxable year is the amount of interest which would have been imposed under section 6601 on the underpayment of tax for such year which would have resulted if the gain (which is treated as ordinary income by reason of subsection (a)(1)) had been included in gross income inthe taxable years in which it accrued (determined by treating the income as accruing at a constant rate equal to the applicable Federal rate as in effect on the day the transaction closed). The period during which such interest shall accrue shall end on the due date (without extensions) for the return of tax imposed by this chapter for the taxable year in which such transaction closed.
+&emsp;The amount of interest determined under this paragraph with respect to a prior taxable year is the amount of interest which would have been imposed under section 6601 on the underpayment of tax for such year which would have resulted if the gain (which is treated as ordinary income by reason of subsection (a)(1)) had been included in gross income in the taxable years in which it accrued (determined by treating the income as accruing at a constant rate equal to the applicable Federal rate as in effect on the day the transaction closed). The period during which such interest shall accrue shall end on the due date (without extensions) for the return of tax imposed by this chapter for the taxable year in which such transaction closed.
 
 #### (3) Applicable Federal rate
 
@@ -114,7 +114,7 @@ Except as provided in regulations prescribed by the Secretary, if a constructive
 
 #### (g) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section, including regulations—
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations—
 
 &emsp;(1) to permit taxpayers to mark to market constructive ownership transactions in lieu of applying this section, and
 

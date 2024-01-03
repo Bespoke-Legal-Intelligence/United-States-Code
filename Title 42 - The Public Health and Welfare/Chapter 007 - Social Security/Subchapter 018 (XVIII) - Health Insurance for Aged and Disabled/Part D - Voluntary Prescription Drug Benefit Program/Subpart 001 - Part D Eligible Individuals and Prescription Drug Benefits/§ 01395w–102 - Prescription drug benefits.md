@@ -76,7 +76,7 @@ For purposes of this part and part C, the term "standard prescription drug cover
 
 #### (A) 25 percent coinsurance
 
-&emsp;&emsp;Subject to subparagraphs (C), (D), and (E) and paragraphs (8) and (9), the coverage has coinsurance (for costs above the annual deductible specified in paragraph (1) and up to the initial coverage limit under paragraph (3) for a year preceding 2025 and for costs above the annual deductible specified in paragraph (1) and up to the annual out-of-pocket threshold specified in paragraph (4)(B) for 2025 and each subsequent year) that is—
+&emsp;&emsp;Subject to subparagraphs (C), (D), and (E) and paragraphs (8) and (9), the coverage hascoinsurance (for costs above the annual deductible specified in paragraph (1) and up to the initial coverage limit under paragraph (3) for a year preceding 2025 and for costs above the annual deductible specified in paragraph (1) and up to the annual out-of-pocket threshold specified in paragraph (4)(B) for 2025 and each subsequent year) that is—
 
 &emsp;&emsp;&emsp;(i) equal to 25 percent; or
 
@@ -234,7 +234,7 @@ For purposes of this part and part C, the term "standard prescription drug cover
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to paragraphs (8) and (9), the coverage provides benefits, after the part D eligible individual has incurred costs (as described in subparagraph (C)) for covered part D drugs in a year equal to the annual out-of-pocket threshold specified in subparagraph (B), with cost-sharing that is equal to—
+&emsp;&emsp;&emsp;Subject to paragraphs (8) and (9), the coverage provides benefits, after the part D eligible individual has incurred costs (as described in subparagraph (C)) for coveredpart D drugs in a year equal to the annual out-of-pocket threshold specified in subparagraph (B), with cost-sharing that is equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) for a year preceding 2024, the greater of—
 
@@ -296,7 +296,7 @@ For purposes of this part and part C, the term "standard prescription drug cover
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) by the Indian Health Service, an Indian tribe or tribal organization, or an urban Indian organization (as defined in section 1603 of title 25);
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(dd) <sup>2</sup> under an AIDS Drug Assistance Program under part B of title XXVI ofthe Public Health Service Act \[42 U.S.C. 300ff–21 et seq.\]; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) <sup>2</sup> under an AIDS Drug Assistance Program under part B of title XXVI of the Public Health Service Act \[42 U.S.C. 300ff–21 et seq.\]; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) <sup>2</sup> under section 1395w–115(h) of this title; or
 
@@ -476,7 +476,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (A) In general
 
-&emsp;&emsp;Such term does not include drugs or classes of drugs, or their medical uses, which may be excluded from coverage or otherwise restricted under section 1396r–8(d)(2) of this title, other than subparagraph (E) of such section (relating to smoking cessation agents), other than subparagraph (I) of such section (relating to barbiturates) if the barbiturate is used in the treatment of epilepsy,cancer, or a chronic mental health disorder, and other than subparagraph (J) of such section (relating to benzodiazepines), or under section 1396r–8(d)(3) of this title, as such sections were in effect on December 8, 2003. Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.
+&emsp;&emsp;Such term does not include drugs or classes of drugs, or their medical uses, which may be excluded from coverage or otherwise restricted under section 1396r–8(d)(2) of this title, other than subparagraph (E) of such section (relating to smoking cessation agents), other than subparagraph (I) of such section (relating to barbiturates) if the barbiturate is used in the treatment of epilepsy, cancer, or a chronic mental health disorder, and other than subparagraph (J) of such section (relating to benzodiazepines), or under section 1396r–8(d)(3) of this title, as such sections were in effect on December 8, 2003. Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.
 
 #### (B) Medicare covered drugs
 
@@ -658,7 +658,7 @@ Application.—In applying subparagraph (A)—
 
 &emsp;"(ii) costs that would be treated as incurred costs for purposes of applying paragraph (4) but for the application of subparagraph (A) shall continue to be treated as incurred costs;
 
-&emsp;"(iii) the Secretary shall establish procedures, which may include a reconciliation process, to fully reimburse PDP sponsors with respect to prescription drug plans and MA organizations with respect to MA–PD plans for the reduction in beneficiary cost sharing associated with the application of subparagraph (A);
+&emsp;"(iii) the Secretary shall establish procedures, which may include a reconciliation process, to fullyreimburse PDP sponsors with respect to prescription drug plans and MA organizations with respect to MA–PD plans for the reduction in beneficiary cost sharing associated with the application of subparagraph (A);
 
 &emsp;"(iv) the Secretary shall develop an estimate of the additional increased costs attributable to the application of this paragraph for increased drug utilization and financing and administrative costs and shall use such estimate to adjust payments to PDP sponsors with respect to prescription drug plans under this part and MA organizations with respect to MA–PD plans under part C; and
 
@@ -720,11 +720,11 @@ Pub. L. 117–169, title I, §11202(c), Aug. 16, 2022, 136 Stat. 1895, provided 
 
 Pub. L. 117–169, title I, §11401(e), Aug. 16, 2022, 136 Stat. 1898, provided that: "The Secretary shall implement this section \[amending this section and sections 1395w–114 and 1395w–115 of this title and enacting provisions set out as a note above\], including the amendments made by this section, for 2023, 2024, and 2025, by program instruction or other forms of program guidance."
 
-Pub. L. 117–169, title I, §11406(d), Aug. 16, 2022, 136 Stat. 1904, provided that: "The Secretary shall implement this section \[amending this section and sections 1395w–114 and 1395w–115 of this title\] for plan years 2023,2024, and 2025 by program instruction or other forms of program guidance."
+Pub. L. 117–169, title I, §11406(d), Aug. 16, 2022, 136 Stat. 1904, provided that: "The Secretary shall implement this section \[amending this section and sections 1395w–114 and 1395w–115 of this title\] for plan years 2023, 2024, and 2025 by program instruction or other forms of program guidance."
 
 #### Payment for Administration of Part D Vaccines in 2007
 
-Pub. L. 109–432, div. B, title II, §202(a), Dec. 20, 2006, 120 Stat. 2986, provided that: "Notwithstanding any other provision of law, in the case of a vaccine that is a covered part D drug under section 1860D–2(e) of the Social Security Act (42 U.S.C. 1395w–102(e)) and that is administered during 2007, the administration of such vaccine shall be paid under part B of title XVIII of such Act \[42 U.S.C. 1395j et seq.\] as if it were the administration of a vaccine described in section 1861(s)(10)(B) of such Act (42 U.S.C. 1395w(s)(10)(B) \[probably should be 1395x(s)(10)(B)\])."
+Pub. L. 109–432, div. B, title II, §202(a), Dec. 20, 2006, 120 Stat. 2986, provided that: "Notwithstanding any other provision of law, in the case of a vaccine that is a covered part D drug under section 1860D–2(e) of the Social Security Act (42 U.S.C. 1395w–102(e)) and that isadministered during 2007, the administration of such vaccine shall be paid under part B of title XVIII of such Act \[42 U.S.C. 1395j et seq.\] as if it were the administration of a vaccine described in section 1861(s)(10)(B) of such Act (42 U.S.C. 1395w(s)(10)(B) \[probably should be 1395x(s)(10)(B)\])."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

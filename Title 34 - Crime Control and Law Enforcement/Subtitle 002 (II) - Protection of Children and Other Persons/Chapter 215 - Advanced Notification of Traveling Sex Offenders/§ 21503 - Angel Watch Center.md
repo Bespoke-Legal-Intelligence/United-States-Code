@@ -112,7 +112,7 @@ The Center shall consist of the following:
 
 &emsp;&emsp;(D) the number of transmissions made under subparagraphs (A),(B), and (C) of paragraph (3) and the countries to which they are transmitted, respectively;
 
-&emsp;&emsp;(E) whether the information was transmitted to the destination country before scheduled commencement of sex offender travel; and
+&emsp;&emsp;(E) whether the information was transmitted to the destination country beforescheduled commencement of sex offender travel; and
 
 &emsp;&emsp;(F) any other information deemed necessary and appropriate by the Secretary of Homeland Security.
 

@@ -102,7 +102,7 @@ Pub. L. 100–90, §1(b)(1), Aug. 18, 1987, 101 Stat. 673, provided that: "The a
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–349, §3, July 12, 1974, 88 Stat. 354, provided that: "The effective date of this Act \[amending this section and section 8348 of Title 5, Government Organization and Employees\] shall be July 1, 1971, except that the Postal Service shall not be required to make (1) thepayments due June 30, 1972, June 30, 1973, and June 30, 1974, attributable to pay increases granted by the Postal Service prior to July 1, 1973, until such time as funds are appropriated to the Postal Service for that purpose, and (2) the transfer to the Civil Service Retirement and Disability Fund required by title II of the Treasury, Postal Service, and General Government Appropriation Act, 1974, Public Law 93–143 \[which is not classified to the Code\]."
+Pub. L. 93–349, §3, July 12, 1974, 88 Stat. 354, provided that: "The effective date of this Act \[amending this section and section 8348 of Title 5, Government Organization and Employees\] shall be July 1, 1971, except that the Postal Service shall not be required to make (1) the payments due June 30, 1972, June 30, 1973, and June 30, 1974, attributable to pay increases granted by the Postal Service prior to July 1, 1973, until such time as funds are appropriated to the Postal Service for that purpose, and (2) the transfer to the Civil Service Retirement and Disability Fund required by title II of the Treasury, Postal Service, and General Government Appropriation Act, 1974, Public Law 93–143 \[which is not classified to the Code\]."
 
 #### Effective Date
 

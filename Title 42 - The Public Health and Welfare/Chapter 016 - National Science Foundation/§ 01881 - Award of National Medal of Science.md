@@ -70,7 +70,7 @@ Sec. 2. <i>The President's Committee</i>. (a) There is hereby established the Pr
 
 (d) The President shall from time to time designate one of the members of the Committee as Chairman thereof.
 
-(e) Of the persons first designated as members of the Committee under the provisions of subsection (b) ofthis Section, four shall be designated to serve until December 31, 1966, four shall be designated to serve until December 31, 1967, and four shall be designated to serve until December 31, 1968.
+(e) Of the persons first designated as members of the Committee under the provisions of subsection (b) of this Section, four shall be designated to serve until December 31, 1966, four shall be designated to serve until December 31, 1967, and four shall be designated to serve until December 31, 1968.
 
 Sec. 3. <i>Preliminary Procedure</i>. (a) The Committee shall receive, on behalf of the President, (1) the recommendations made by the National Academy of Sciences respecting the award of the Medal pursuant to the provisions of Section 2(a) of the Act \[subsec. (a) of this section\], and (2) such similar recommendations as may be made by any other nationally representative scientific or engineering organization or other qualified source. Each such recommendation shall include or be accompanied by such appropriate supporting material as the Committee may from time to time specify.
 
@@ -92,9 +92,11 @@ Sec. 6. <i>Prior Orders</i>. (a) Subject to the provisions of this Order, the Pr
 
 #### Extension of Term of President's Committee on the National Medal of Science
 
-Term of President's Committee on the National Medal of Science extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of President's Committee on the National Medal of Science extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Committee on the National Medal of Science were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 

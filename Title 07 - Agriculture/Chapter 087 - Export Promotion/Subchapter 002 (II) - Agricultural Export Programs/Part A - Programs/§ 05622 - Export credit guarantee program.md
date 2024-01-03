@@ -74,7 +74,7 @@ The Secretary and the United States Trade Representative shall consult on a regu
 
 &emsp;&emsp;(C) work with industry to ensure, to the maximum extent practicable, that risk-based fees associated with the guarantees cover the operating costs and losses over the long term; and
 
-&emsp;&emsp;(D) notwithstanding any other provision of this section, administer and carry out (only after consulting with the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition and Forestry of the Senate) the program pursuant to such terms as may beagreed between the parties to address the World Trade Organization dispute WTO/DS267 to the extent not superseded by any applicable international undertakings on officially supported export credits to which the United States is a party.
+&emsp;&emsp;(D) notwithstanding any other provision of this section, administer and carry out (only after consulting with the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition and Forestry of the Senate) the program pursuant to such terms as may be agreed between the parties to address the World Trade Organization dispute WTO/DS267 to the extent not superseded by any applicable international undertakings on officially supported export credits to which the United States is a party.
 
 (Pub. L. 95–501, title II, §202, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3673; amended Pub. L. 102–237, title III, §334, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §§708, 709(a), Oct. 24, 1992, 106 Stat. 3351; Pub. L. 104–127, title II, §§243(a), 277(c)(3), Apr. 4, 1996, 110 Stat. 965, 979; Pub. L. 107–171, title III, §3102(a)–(c), May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, §3101(a), (c), June 18, 2008, 122 Stat. 1831, 1832; Pub. L. 113–79, title III, §3101(a), Feb. 7, 2014, 128 Stat. 778.)
 
@@ -176,7 +176,7 @@ Pub. L. 104–127, title II, §243(d), Apr. 4, 1996, 110 Stat. 967, provided tha
 
 #### Promotion of Agricultural Exports to Emerging Markets
 
-Pub. L. 101–624, title XV, §1542, Nov. 28, 1990, 104 Stat. 3691, as amended by Pub. L. 102–237, title III, §338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, §321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979; Pub. L. 107–171, title III, §3203, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §3204, June 18, 2008, 122 Stat. 1837; Pub. L. 113–79, title III, §3203, Feb. 7, 2014, 128 Stat. 779; Pub. L. 113–188, title I, §101(b), Nov. 26, 2014, 128 Stat. 2017; Pub. L. 115–334, title III, §§3201(b)(3)(A), 3304, Dec. 20, 2018, 132 Stat. 4616, 4619, provided that:
+Pub. L. 101–624, title XV, §1542, Nov. 28, 1990, 104 Stat. 3691, as amended by Pub. L. 102–237, title III, §338, Dec.13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, §321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979; Pub. L. 107–171, title III, §3203, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §3204, June 18, 2008, 122 Stat. 1837; Pub. L. 113–79, title III, §3203, Feb. 7, 2014, 128 Stat. 779; Pub. L. 113–188, title I, §101(b), Nov. 26, 2014, 128 Stat. 2017; Pub. L. 115–334, title III, §§3201(b)(3)(A), 3304, Dec. 20, 2018, 132 Stat. 4616, 4619, provided that:
 
 "(a)
 

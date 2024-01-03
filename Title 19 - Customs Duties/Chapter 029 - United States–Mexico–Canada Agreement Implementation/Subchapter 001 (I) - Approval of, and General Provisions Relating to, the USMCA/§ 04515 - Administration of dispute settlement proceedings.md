@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) provide administrative assistance to—
 
-&emsp;&emsp;&emsp;(i) panels established under chapter 31 of the USMCA, including under Annex 31–A\(relating to the Facility-Specific Rapid Response Labor Mechanism);
+&emsp;&emsp;&emsp;(i) panels established under chapter 31 of the USMCA, including under Annex 31–A (relating to the Facility-Specific Rapid Response Labor Mechanism);
 
 &emsp;&emsp;&emsp;(ii) technical advisers and experts provided for under chapter 31 of the USMCA;
 

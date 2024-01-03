@@ -96,7 +96,7 @@ In the case of any organization to which this section applies—
 
 &emsp;&emsp;(B) such organization is determined to be exempt from tax for its last taxable year beginning before January 1, 1987, and
 
-&emsp;&emsp;(C) no material change has occurred in the operations of such organization or in itsstructure after August 16, 1986, and before the close of the taxable year.
+&emsp;&emsp;(C) no material change has occurred in the operations of such organization or in its structure after August 16, 1986, and before the close of the taxable year.
 
 > &emsp;To the extent permitted by the Secretary, any successor to an organization meeting the requirements of the preceding sentence, and any organization resulting from the merger or consolidation of organizations each of which met such requirements, shall be treated as an existing Blue Cross or Blue Shield organization.
 
@@ -148,7 +148,7 @@ In the case of any organization to which this section applies—
 
 &emsp;Notwithstanding the preceding paragraphs, paragraphs (2) and (3) of subsection (a) shall not apply to any organization unless such organization's percentage of total premium revenue expended on reimbursement for clinical services and for activities that improve health care quality provided to enrollees under its policies during such taxable year (as reported under section 2718 of the Public Health Service Act) is not less than 85 percent.
 
-(Added Pub. L. 99–514, title X, §1012(b)(1), Oct. 22, 1986, 100 Stat. 2391; amended Pub. L. 104–191, title III, §351(a), Aug. 21, 1996, 110 Stat. 2071; Pub. L. 105–34, title XVI, §1604(d)(2)(A), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 111–148, title IX, §9016(a), Mar. 23, 2010, 124 Stat. 872; Pub. L. 113–235, div. N, §102(a), Dec. 16, 2014, 128 Stat. 2773; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044.)
+(Added Pub. L. 99–514, title X, §1012(b)(1), Oct. 22, 1986, 100 Stat. 2391; amended Pub. L. 104–191, titleIII, §351(a), Aug. 21, 1996, 110 Stat. 2071; Pub. L. 105–34, title XVI, §1604(d)(2)(A), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 111–148, title IX, §9016(a), Mar. 23, 2010, 124 Stat. 872; Pub. L. 113–235, div. N, §102(a), Dec. 16, 2014, 128 Stat. 2773; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044.)
 
 #### <b>Editorial Notes</b>
 
@@ -182,7 +182,7 @@ Pub. L. 113–235, div. N, §102(b), Dec. 16, 2014, 128 Stat. 2773, provided tha
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title IX, §9016(b), Mar. 23, 2010, 124 Stat. 872, provided that: "The amendment made by thissection \[amending this section\] shall apply to taxable years beginning after December 31, 2009."
+Pub. L. 111–148, title IX, §9016(b), Mar. 23, 2010, 124 Stat. 872, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009."
 
 #### Effective Date of 1997 Amendment
 
@@ -244,7 +244,7 @@ Other special rules.—
 
 &emsp;"(D) For purposes of this paragraph, the term 'pension business' means the administration of any plan described in section 401(a) of the Internal Revenue Code of 1954 \[now 1986\] which includes a trust exempt from tax under section 501(a), any plan under which amounts are contributed by an individual's employer for an annuity contract described in section 403(b) of such Code, any individual retirement plan described in section 408 of such Code, and any eligible deferred compensation plan to which section 457(a) of such Code applies."
 
-\[The due date for the report referred to in section 1012(c)(2) of Pub. L. 99–514, set out above, extended to July 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559.\]
+\[The due date for the report referred to in section 1012(c)(2) of Pub. L. 99–514, set out above, extended toJuly 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559.\]
 
 #### Termination of Certain Exceptions From Rules Relating to Exempt Organizations Which Provide Commercial-Type Insurance
 

@@ -16,7 +16,7 @@
 
 #### References in Text
 
-Section 3 of the Military Selective Service Act, referred to in subsec. (a)(1), was classified to section 453 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 3802 of Title 50.
+Section 3 of the Military Selective Service Act, referred to in subsec. (a)(1), was classified to section 453of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 3802 of Title 50.
 
 #### Amendments
 

@@ -6,13 +6,13 @@
 
 (c) The term "Department of the Air Force" as used in this chapter shall be construed to mean the Department of the Air Force at the seat of the government and all field headquarters, forces, reserve components, installations, activities, and functions under the control or supervision of the Department of the Air Force.
 
-(July 26, 1947, ch. 343, title II, §§205(b), 206, 207, formerly §§205(c), 206(a), 207(c), 61 Stat. 501, 502; renumbered §§205(b), 206, 207, Pub. L. 116–92, div. E, title LXVII, §6742(b)(7)–(9), Dec. 20, 2019, 133 Stat. 2240.)
+(July 26, 1947, ch. 343, title II, §§205(b), 206, 207, formerly §§205(c), 206(a), 207(c), 61 Stat. 501, 502;renumbered §§205(b), 206, 207, Pub. L. 116–92, div. E, title LXVII, §6742(b)(7)–(9), Dec. 20, 2019, 133 Stat. 2240.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning act July 26, 1947, ch. 343, 61 Stat.495, known as the National Security Act of 1947, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act July 26, 1947, ch. 343, 61 Stat. 495, known as the National Security Act of 1947, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

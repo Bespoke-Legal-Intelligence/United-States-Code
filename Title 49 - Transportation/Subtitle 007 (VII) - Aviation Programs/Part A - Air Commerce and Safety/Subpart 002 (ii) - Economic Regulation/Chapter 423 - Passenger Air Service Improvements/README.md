@@ -297,7 +297,7 @@ Statutory Construction.—Notwithstanding the requirement in subsection (a), not
 
 #### Establishment of Advisory Committee for Aviation Consumer Protection
 
-Pub. L. 112–95, title IV, §411, Feb. 14, 2012, 126 Stat. 88, as amended by Pub. L. 114–55, title I, §102(i), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(g), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(j), July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §102(i), Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §102(g), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title IV, §415, Oct. 5, 2018, 132 Stat. 3333, provided that:
+Pub. L. 112–95, title IV, §411, Feb. 14, 2012, 126 Stat. 88, as amended by Pub. L. 114–55, title I, §102(i), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(g), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(j), July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §102(i), Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §102(g), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title IV, §415, Oct. 5, 2018, 132 Stat. 3333; Pub. L. 118–15, div. B, title II, §2202(r), Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §102(r), Dec. 26, 2023, 137 Stat. 1114, provided that:
 
 "(a)
 
@@ -345,7 +345,7 @@ Report to Congress.—Not later than February 1 of each of the first 2 calendar 
 
 "(h)
 
-Termination.—The advisory committee established under this section shall terminate on September 30, 2023."
+Termination.—The advisory committee established under this section shall terminate on March 8, 2024."
 
 #### Disclosure of Seat Dimensions To Facilitate the Use of Child Safety Seats on Aircraft
 

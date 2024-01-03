@@ -14,5 +14,5 @@ The Secretary shall be responsible for—
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–125 substituted "Secretary" for "Under Secretary for Border and Transportation Security" in introductory provisions and "U.S. Immigration and Customs Enforcement" for "the Bureau of Border Security" in pars. (1) to (3).
+<b>2016</b>—Pub. L. 114–125 substituted "Secretary" for "Under Secretary for Border and Transportation Security" in introductory provisions and "U.S. Immigrationand Customs Enforcement" for "the Bureau of Border Security" in pars. (1) to (3).
 

@@ -2,7 +2,7 @@
 
 The initial period of active duty for training required by section 12103(d) of title 10, may be divided into two successive annual periods of not less than six weeks each, to permit the enlistment of a Reserve member without interrupting any full-time schooling in which the member is engaged.
 
-(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1007, §713; amended Pub. L. 103–337, div. A, title XVI, §1677(b)(4), Oct. 5, 1994, 108 Stat. 3020; renumbered §3714, Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233.)
+(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1007, §713; amended Pub. L. 103–337, div. A, titleXVI, §1677(b)(4), Oct. 5, 1994, 108 Stat. 3020; renumbered §3714, Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233.)
 
 #### <b>Editorial Notes</b>
 
@@ -20,5 +20,5 @@ Provisions similar to those in this section were contained in section 765 of thi
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 

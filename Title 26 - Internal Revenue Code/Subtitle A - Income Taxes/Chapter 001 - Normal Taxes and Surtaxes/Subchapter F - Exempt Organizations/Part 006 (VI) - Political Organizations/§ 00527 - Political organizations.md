@@ -124,7 +124,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) controls or materially participates in the direction of the organization,
 
-&emsp;&emsp;&emsp;(ii) solicits contributions to the organization (unless the Secretary determines that such solicitations resulted in de minimis contributions and were made without the prior knowledge and consent, whetherexplicit or implicit, of the organization or its officers, directors, agents, or employees), or
+&emsp;&emsp;&emsp;(ii) solicits contributions to the organization (unless the Secretary determines that such solicitations resulted in de minimis contributions and were made without the prior knowledge and consent, whether explicit or implicit, of the organization or its officers, directors, agents, or employees), or
 
 &emsp;&emsp;&emsp;(iii) directs, in whole or in part, disbursements by the organization.
 
@@ -208,7 +208,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) unless it has given notice to the Secretary electronically that it is to be so treated, or
 
-&emsp;&emsp;(B) if the notice is given after the time required under paragraph (2), the organization shall not be so treated for any period before such notice is given or, in the case of any material change in the information requiredunder paragraph (3), for the period beginning on the date on which the material change occurs and ending on the date on which such notice is given.
+&emsp;&emsp;(B) if the notice is given after the time required under paragraph (2), the organization shall not be so treated for any period before such notice is given or, in the case of any material change in the information required under paragraph (3), for the period beginning on the date on which the material change occurs and ending on the date on which such notice is given.
 
 #### (2) Time to give notice
 
@@ -326,7 +326,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The Secretary shall make any notice described in subsection (i)(1) or report described in subsection (j)(7) available for public inspection on the Internet not later than 48 hours after such notice or report has been filed (in addition to such public availability as may be made under section 6104(d)(7)).
+&emsp;The Secretary shall make any notice described in subsection (i)(1) or report describedin subsection (j)(7) available for public inspection on the Internet not later than 48 hours after such notice or report has been filed (in addition to such public availability as may be made under section 6104(d)(7)).
 
 #### (2) Access
 
@@ -472,7 +472,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–276, §1(b), Nov. 2, 2002, 116 Stat. 1929, provided that: "The amendments made by subsection (a)\[amending this section\] shall take effect as if included in the amendments made by Public Law 106–230."
+Pub. L. 107–276, §1(b), Nov. 2, 2002, 116 Stat. 1929, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by Public Law 106–230."
 
 Pub. L. 107–276, §2(c), Nov. 2, 2002, 116 Stat. 1931, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in the amendments made by Public Law 106–230."
 
@@ -548,7 +548,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 474(r)(16) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(r)(16) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983,and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Pub. L. 98–369, div. A, title VII, §722(c), July 18, 1984, 98 Stat. 973, provided that the amendment made by that section is effective for taxable years beginning after Dec. 31, 1981.
 

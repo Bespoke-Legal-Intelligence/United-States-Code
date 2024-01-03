@@ -28,11 +28,11 @@ There is established a Health Information Technology Advisory Committee (referre
 
 &emsp;&emsp;&emsp;(i) Achieving a health information technology infrastructure, nationally and locally, that allows for the electronic access, exchange, and use of health information, including through technology that provides accurate patient information for the correct patient, including exchanging such information, and avoids the duplication of patient records.
 
-&emsp;&emsp;&emsp;(ii) The promotion and protection of privacy and security of health information in health information technology, including technologies that allow for an accounting of disclosures and protections against disclosures of individually identifiable health information made by a covered entity for purposes of treatment, payment, and health care operations (as such terms are defined for purposes of the regulation promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996), including for the segmentation and protection from disclosure of specific and sensitive individually identifiable health information with the goal of minimizing the reluctance of patients to seek care.
+&emsp;&emsp;&emsp;(ii) The promotion and protection of privacy and security of health information in health information technology, including technologies that allow for an accounting of disclosures and protections against disclosures of individually identifiable health information made by a covered entity for purposes of treatment, payment, and health care operations (as such terms aredefined for purposes of the regulation promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996), including for the segmentation and protection from disclosure of specific and sensitive individually identifiable health information with the goal of minimizing the reluctance of patients to seek care.
 
 &emsp;&emsp;&emsp;(iii) The facilitation of secure access by an individual to such individual's protected health information and access to such information by a family member, caregiver, or guardian acting on behalf of a patient, including due to age-related and other disability, cognitive impairment, or dementia.
 
-&emsp;&emsp;&emsp;(iv) Subject to subparagraph (D), any other target area that the HIT AdvisoryCommittee identifies as an appropriate target area to be considered under this subparagraph.
+&emsp;&emsp;&emsp;(iv) Subject to subparagraph (D), any other target area that the HIT Advisory Committee identifies as an appropriate target area to be considered under this subparagraph.
 
 #### (C) Additional target areas
 
@@ -96,7 +96,7 @@ There is established a Health Information Technology Advisory Committee (referre
 
 #### (4) Forum
 
-&emsp;The HIT Advisory Committee shall serve as a forum for the participation of a broad range of stakeholders with specific expertise in policies, including technical expertise, relating tothe matters described in paragraphs (1), (2), and (3) to provide input on the development, harmonization, and recognition of standards, implementation specifications, and certification criteria necessary for the development and adoption of health information technology infrastructure nationally and locally that allows for the electronic access, exchange, and use of health information.
+&emsp;The HIT Advisory Committee shall serve as a forum for the participation of a broad range of stakeholders with specific expertise in policies, including technical expertise, relating to the matters described in paragraphs (1), (2), and (3) to provide input on the development, harmonization, and recognition of standards, implementation specifications, and certification criteria necessary for the development and adoption of health information technology infrastructure nationally and locally that allows for the electronic access, exchange, and use of health information.
 
 #### (5) Schedule
 

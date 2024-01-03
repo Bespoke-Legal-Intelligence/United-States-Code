@@ -130,7 +130,7 @@ In general.—Subject to subsection (b)(2) of section 492A of the Public Health 
 
 Standing approval regarding ethical status.—In the case of any proposal for research on the transplantation of human fetal tissue for therapeutic purposes, the issuance in December 1988 of the Report of the Human Fetal Tissue Transplantation Research Panel shall be deemed to be a report—
 
-&emsp;&emsp;"(A) issued by an ethics advisory board pursuant to section 492A(b)(5)(B)(ii) of the Public HealthService Act \[42 U.S.C. 289a–1(b)(5)(B)(ii)\] (as added by section 101 of this Act); and
+&emsp;&emsp;"(A) issued by an ethics advisory board pursuant to section 492A(b)(5)(B)(ii) of the Public Health Service Act \[42 U.S.C. 289a–1(b)(5)(B)(ii)\] (as added by section 101 of this Act); and
 
 &emsp;&emsp;"(B) finding, on a basis that is neither arbitrary nor capricious, that the nature of the research is such that it is not unethical to conduct or support the research.
 

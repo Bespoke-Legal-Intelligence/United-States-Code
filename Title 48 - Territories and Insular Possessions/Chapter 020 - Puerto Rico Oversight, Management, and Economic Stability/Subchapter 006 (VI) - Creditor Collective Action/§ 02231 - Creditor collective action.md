@@ -74,7 +74,7 @@ In determining whether holders of the requisite principal amount of Outstanding 
 
 &emsp;(1) the Bond has previously been cancelled or delivered for cancellation or is held for reissuance but has not been reissued;
 
-&emsp;(2) the Bond has previously been called for redemption in accordance with its terms or previously become due and payable at maturity or otherwise and the Issuer has previously satisfied its obligation to make, or provide for, all payments due in respect of the Bond in accordance with its terms;
+&emsp;(2) the Bond has previously been called for redemption in accordance with its terms orpreviously become due and payable at maturity or otherwise and the Issuer has previously satisfied its obligation to make, or provide for, all payments due in respect of the Bond in accordance with its terms;
 
 &emsp;(3) the Bond has been substituted with a security of another series; or
 
@@ -110,7 +110,7 @@ The Administrative Supervisor, in consultation with the Issuer, shall establish 
 
 &emsp;&emsp;(E) The Administrative Supervisor shall not place into separate Pools Bonds of the same Issuer that have identical rights in security or priority.
 
-&emsp;(4) Notwithstanding the preceding provisions of this subsection, solely with respect to a preexisting voluntary agreement as described in section 2124(i)(3) of this title, such voluntary agreement may classify Insured Bonds and uninsured bonds in different Pools and providedifferent treatment thereof so long as the preexisting voluntary agreement has been agreed to by—
+&emsp;(4) Notwithstanding the preceding provisions of this subsection, solely with respect to a preexisting voluntary agreement as described in section 2124(i)(3) of this title, such voluntary agreement may classify Insured Bonds and uninsured bonds in different Pools and provide different treatment thereof so long as the preexisting voluntary agreement has been agreed to by—
 
 &emsp;&emsp;(A) holders of a majority in amount of all uninsured bonds outstanding in the modified Pool; and
 
@@ -128,7 +128,7 @@ Before solicitation of acceptance or rejection of a Modification under subsectio
 
 &emsp;(2) if the Issuer is seeking Modifications affecting any other Pools of Bonds of the Territory Government Issuer or its Authorized Territorial Instrumentalities, a description of such other Modifications;
 
-&emsp;(3) if a Fiscal Plan with respect to such Issuer has been certified, the applicable Fiscal Plan certified in accordance with section 2141 of this title; and
+&emsp;(3) if a Fiscal Plan with respect to such Issuer has been certified, the applicable FiscalPlan certified in accordance with section 2141 of this title; and
 
 &emsp;(4) such other information as may be required under applicable securities laws.
 
@@ -176,7 +176,7 @@ For the purpose of calculating the principal amount of the Bonds of any series e
 
 #### (l) Information Agent
 
-For the purpose of administering a vote of holders of Bonds, including the holders of the right to vote such Bonds, or seeking the consent of holder <sup>1</sup> of Bonds, including the holders of the right to vote such Bonds, to a written action under this section, the Territory Government Issuer may appoint an Information Agent for each Pool reasonably acceptable to the Administrative Supervisor.
+For the purpose of administering a vote of holders of Bonds, including the holders of the right to vote such Bonds, or seeking the consent of holder <sup>1</sup> of Bonds, including the holders of theright to vote such Bonds, to a written action under this section, the Territory Government Issuer may appoint an Information Agent for each Pool reasonably acceptable to the Administrative Supervisor.
 
 #### (m) Binding effect
 

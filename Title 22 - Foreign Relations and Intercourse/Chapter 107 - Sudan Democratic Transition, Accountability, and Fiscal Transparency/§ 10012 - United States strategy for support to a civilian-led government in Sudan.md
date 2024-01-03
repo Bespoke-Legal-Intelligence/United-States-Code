@@ -38,5 +38,5 @@ Not later than 1 year after January 1, 2021, the Secretary of State, in coordina
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this subtitle", meaning subtitle G (§§1261–1270E) of title XII of div. A of Pub. L. 116–283, known as the Sudan Democratic Transition, Accountability, and Fiscal Transparency Act of 2020, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original "this subtitle", meaning subtitle G (§§1261–1270E) of title XII of div. A of Pub. L. 116–283, known as the Sudan Democratic Transition, Accountability, and Fiscal Transparency Act of 2020, which isclassified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 

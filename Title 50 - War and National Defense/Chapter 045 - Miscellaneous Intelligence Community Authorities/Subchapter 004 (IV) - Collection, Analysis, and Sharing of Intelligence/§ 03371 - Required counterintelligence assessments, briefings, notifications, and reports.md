@@ -74,7 +74,7 @@
 
 #### (4) Federal election cycle defined
 
-&emsp;In this section, the term "Federal election cycle" means the period which begins on the day after the date of a regularly scheduled general election for Federal office and which ends on the date of the first regularly scheduled general election for Federal office held after such date.
+&emsp;In this section, the term "Federal election cycle" means the period which begins on theday after the date of a regularly scheduled general election for Federal office and which ends on the date of the first regularly scheduled general election for Federal office held after such date.
 
 #### (5) Effective date
 

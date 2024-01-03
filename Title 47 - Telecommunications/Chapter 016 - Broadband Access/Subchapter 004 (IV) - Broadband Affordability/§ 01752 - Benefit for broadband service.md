@@ -22,7 +22,7 @@ In this section:
 
 #### (5) Designated as an eligible telecommunications carrier
 
-&emsp;The term "designated as an eligible telecommunications carrier", with respect to a broadband provider, means the broadband provider is designated as an eligible telecommunications carrier under section 214(e) of the Communications Act of 1934 (47 U.S.C. 214(e)).
+&emsp;The term "designated as an eligible telecommunications carrier", with respect to abroadband provider, means the broadband provider is designated as an eligible telecommunications carrier under section 214(e) of the Communications Act of 1934 (47 U.S.C. 214(e)).
 
 #### (6) Eligible household
 
@@ -236,7 +236,7 @@ In this section:
 
 #### (14) Notification of audit findings
 
-&emsp;Not later than 7 days after a finding made by the Commission under the requirements of paragraph (12), the Commission shall notify the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate with any information described in such paragraph that the Commission has obtained.
+&emsp;Not later than 7 days after a finding made by the Commission under the requirements ofparagraph (12), the Commission shall notify the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate with any information described in such paragraph that the Commission has obtained.
 
 #### (15) Expiration of Program
 
@@ -334,7 +334,7 @@ The Commission may not enforce a violation of this section under section 501, 50
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (a)(6)(B), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-Section 2(d) of the Improper Payments Information Act of 2002, referred to in subsec. (b)(12), is section 2(d) of Pub. L. 107–300, Nov. 26, 2002, 116 Stat. 2350, whichwas set out in a note under section 3321 of Title 31, Money and Finance, and was repealed by Pub. L. 116–117, §3(a)(1), Mar. 2, 2020, 134 Stat. 133. See, generally, subchapter IV of chapter 33 of Title 31.
+Section 2(d) of the Improper Payments Information Act of 2002, referred to in subsec. (b)(12), is section 2(d) of Pub. L. 107–300, Nov. 26, 2002, 116 Stat. 2350, which was set out in a note under section 3321 of Title 31, Money and Finance, and was repealed by Pub. L. 116–117, §3(a)(1), Mar. 2, 2020, 134 Stat. 133. See, generally, subchapter IV of chapter 33 of Title 31.
 
 The Communications Act of 1934, referred to in subsec. (g), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 

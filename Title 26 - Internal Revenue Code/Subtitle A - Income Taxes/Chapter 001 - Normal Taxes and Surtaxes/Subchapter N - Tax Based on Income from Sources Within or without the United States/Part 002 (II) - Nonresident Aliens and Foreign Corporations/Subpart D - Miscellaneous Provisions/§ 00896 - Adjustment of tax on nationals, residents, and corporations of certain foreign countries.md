@@ -16,7 +16,7 @@ Whenever the President finds that—
 
 Whenever the President finds that—
 
-&emsp;(1) under the laws of any foreign country, citizens of the United States or domestic corporations (or any class of such citizens or corporations) are, with respect to any item of income, being subjected to a higher effective rate of tax than are nationals, residents, or corporations of such foreign country (or a similar class of such nationals, residents, or corporations) under similar circumstances;
+&emsp;(1) under the laws of any foreign country, citizens of the United States or domestic corporations (or any class of such citizens or corporations) are, with respect to any item of income, being subjected to a higher effectiverate of tax than are nationals, residents, or corporations of such foreign country (or a similar class of such nationals, residents, or corporations) under similar circumstances;
 
 &emsp;(2) such foreign country, when requested by the United States to do so, has not acted to eliminate such higher effective rate of tax; and
 

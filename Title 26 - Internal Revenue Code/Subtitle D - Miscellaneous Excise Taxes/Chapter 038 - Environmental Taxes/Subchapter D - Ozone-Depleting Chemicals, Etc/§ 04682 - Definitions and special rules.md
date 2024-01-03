@@ -47,7 +47,7 @@ For purposes of this subchapter, the term "ozone-depletion factor" means, with r
 
 | <b>Ozone-depleting chemical:</b> | <b>Ozone-depletion factor:</b> |
 | :--- | ---: |
-| CFC–11 | 1\.0   |
+| CFC–11 | 1\.0&nbsp;&nbsp; |
 | CFC–12 | 1\.0&nbsp;&nbsp; |
 | CFC–113 | 0\.8&nbsp;&nbsp; |
 | CFC–114 | 1\.0&nbsp;&nbsp; |
@@ -98,7 +98,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;&emsp;(I) for a use by the purchaser which meets the requirements of clause (i), or
 
-&emsp;&emsp;&emsp;&emsp;(II) for resale by the purchaser to a second purchaser for a use by the second purchaser which meets the requirements of clause (i).
+&emsp;&emsp;&emsp;&emsp;(II) for resale by the purchaser to a second purchaser for a use by the secondpurchaser which meets the requirements of clause (i).
 
 > &emsp;&emsp;Clause (ii) shall apply only if the manufacturer, producer, and importer, and the 1st and 2d purchasers (if any), meet such registration requirements as may be prescribed by the Secretary.
 
@@ -228,7 +228,7 @@ For purposes of this subchapter—
 
 &emsp;All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.
 
-(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508,title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, §903(a), title XIV, §1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051; Pub. L. 113–295, div. A, title II, §221(a)(107), Dec. 19, 2014, 128 Stat. 4053.)
+(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, §903(a), title XIV, §1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051; Pub. L. 113–295, div. A, title II, §221(a)(107), Dec. 19, 2014, 128 Stat. 4053.)
 
 #### <b>Editorial Notes</b>
 
@@ -318,7 +318,7 @@ Amendment by section 11701(g) of Pub. L. 101–508 effective, except as otherwis
 
 #### Certification System
 
-Pub. L. 104–188, title I, §1803(a)(2), Aug. 20, 1996, 110 Stat. 1892, provided that: "The Secretary of the Treasury, after consultation with the Administrator of theEnvironmental Protection Agency, shall develop a certification system to ensure compliance with the recycling requirement for imported halon under section 4682(d)(1) of the Internal Revenue Code of 1986, as amended by paragraph (1)."
+Pub. L. 104–188, title I, §1803(a)(2), Aug. 20, 1996, 110 Stat. 1892, provided that: "The Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall develop a certification system to ensure compliance with the recycling requirement for imported halon under section 4682(d)(1) of the Internal Revenue Code of 1986, as amended by paragraph (1)."
 
 #### Deposits for First Quarter of 1991
 

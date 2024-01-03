@@ -20,7 +20,7 @@ To the extent feasible, the program established under subsection (a) shall—
 
 #### References in Text
 
-Section 2397h of title 20, referred to in subsec. (b)(1), was omitted in the general amendment of chapter 44\(§2301 et seq.) of Title 20, Education, by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
+Section 2397h of title 20, referred to in subsec. (b)(1), was omitted in the general amendment of chapter 44 (§2301 et seq.) of Title 20, Education, by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 #### Amendments
 

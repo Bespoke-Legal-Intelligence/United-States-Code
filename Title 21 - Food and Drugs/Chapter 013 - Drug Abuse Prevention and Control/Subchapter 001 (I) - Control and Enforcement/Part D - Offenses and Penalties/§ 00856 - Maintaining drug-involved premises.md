@@ -24,7 +24,7 @@ A violation of subsection (a) shall be considered an offense against property fo
 
 &emsp;(B) 2 times the gross receipts, either known or estimated, that were derived from each violation that is attributable to the person.
 
-(2) If a civil penalty is calculated under paragraph (1)(B), and there is more than 1 defendant,the court may apportion the penalty between multiple violators, but each violator shall be jointly and severally liable for the civil penalty under this subsection.
+(2) If a civil penalty is calculated under paragraph (1)(B), and there is more than 1 defendant, the court may apportion the penalty between multiple violators, but each violator shall be jointly and severally liable for the civil penalty under this subsection.
 
 #### (e) Declaratory and injunctive remedies
 

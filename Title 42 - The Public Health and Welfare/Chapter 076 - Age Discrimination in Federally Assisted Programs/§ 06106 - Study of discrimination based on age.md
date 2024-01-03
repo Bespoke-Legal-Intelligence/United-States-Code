@@ -2,7 +2,7 @@
 
 #### (a) Study by Commission on Civil Rights
 
-The Commission on Civil Rights shall (1) undertake a study of unreasonable discriminationbased on age in programs and activities receiving Federal financial assistance; and (2) identify with particularity any such federally assisted program or activity in which there is found evidence of persons who are otherwise qualified being, on the basis of age, excluded from participation in, denied the benefits of, or subjected to discrimination under such program or activity.
+The Commission on Civil Rights shall (1) undertake a study of unreasonable discrimination based on age in programs and activities receiving Federal financial assistance; and (2) identify with particularity any such federally assisted program or activity in which there is found evidence of persons who are otherwise qualified being, on the basis of age, excluded from participation in, denied the benefits of, or subjected to discrimination under such program or activity.
 
 #### (b) Public hearings
 
@@ -43,6 +43,8 @@ Section 105(b) of the Civil Rights Act of 1957, referred to in subsec. (c), is s
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999. Previously, Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979.
 

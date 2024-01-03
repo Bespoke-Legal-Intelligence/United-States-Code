@@ -20,7 +20,7 @@ As used in this part:
 
 #### (5) Target area
 
-&emsp;The term "target area" means any area defined in an application for assistance underthis part that has a population whose income does not exceed the median for the area within which the target area is located.
+&emsp;The term "target area" means any area defined in an application for assistance under this part that has a population whose income does not exceed the median for the area within which the target area is located.
 
 #### (6) Very low-income community
 

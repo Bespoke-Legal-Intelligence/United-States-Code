@@ -32,7 +32,7 @@ Program Support.—The Federal Judicial Center and the Administrative Office of 
 
 #### References in Text
 
-The date of the enactment of the Alternative Dispute Resolution Act of 1998, referred to in subsec. (c), is the date of enactment of Pub. L. 105–315, which was approved Oct. 30, 1998.
+The date of the enactment of the Alternative Dispute Resolution Act of 1998, referred to in subsec. (c), is thedate of enactment of Pub. L. 105–315, which was approved Oct. 30, 1998.
 
 #### Amendments
 
@@ -86,7 +86,7 @@ Report by Federal Judicial Center.—Not later than 5 years after the date of en
 
 #### Effect on Judicial Rulemaking Powers
 
-Pub. L. 100–702, title IX, §904, Nov. 19, 1988, 102 Stat. 4663, provided that: "Nothing in this title \[enacting this chapter and provisions set out as notes under this section and section 652 of this title\], or in chapter 44,as added by section 901 of this Act, is intended to abridge, modify, or enlarge the rule making powers of the Federal judiciary."
+Pub. L. 100–702, title IX, §904, Nov. 19, 1988, 102 Stat. 4663, provided that: "Nothing in this title \[enacting this chapter and provisions set out as notes under this section and section 652 of this title\], or in chapter 44, as added by section 901 of this Act, is intended to abridge, modify, or enlarge the rule making powers of the Federal judiciary."
 
 #### Authorization of Appropriations
 

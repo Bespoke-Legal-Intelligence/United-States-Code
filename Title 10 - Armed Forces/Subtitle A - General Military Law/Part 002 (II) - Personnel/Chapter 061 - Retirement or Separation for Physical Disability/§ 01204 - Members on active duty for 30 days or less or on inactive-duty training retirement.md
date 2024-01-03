@@ -38,7 +38,7 @@ Upon a determination by the Secretary concerned that a member of the armed force
 
 &emsp;&emsp;(B) the disability is at least 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 93; Pub. L. 99–145, title V, §513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 99–661, div. A, title VI, §604(d)(1), (2)(A), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 102–484, div. A, title V, §516(a), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 104–201, div. A, title V, §534, Sept. 23, 1996, 110 Stat. 2521; Pub. L. 105–85, div. A, title V, §513(c)(1), (d)(1), Nov. 18, 1997, 111 Stat. 1730, 1731; Pub. L. 106–65, div. A, title V, §578(i)(3), Oct. 5, 1999, 113 Stat. 629; Pub. L. 107–107, div. A, title V, §513(b), Dec. 28, 2001, 115 Stat. 1093.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 93; Pub. L. 99–145, title V, §513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 99–661, div. A, title VI, §604(d)(1), (2)(A), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 102–484, div. A, title V, §516(a), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 104–201, div. A, title V, §534, Sept. 23, 1996, 110 Stat. 2521; Pub. L. 105–85, div. A, title V, §513(c)(1), (d)(1), Nov. 18, 1997, 111 Stat. 1730, 1731; Pub. L. 106–65, div. A, title V, §578(i)(3), Oct. 5,1999, 113 Stat. 629; Pub. L. 107–107, div. A, title V, §513(b), Dec. 28, 2001, 115 Stat. 1093.)
 
 Historical and Revision Notes
 
@@ -58,7 +58,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §§401(a), 402(c) (less clause (5), and less last proviso), 402(f) (as applicable to §402(c)), 63 Stat. 816, 817, 820.
 
-37:271(a) is omitted as surplusage. As it relates to retirement it is only a statement of the general coverage of the retirement sections of this chapter. As it relates to separation it is only a statement of the general coverage of the separation sections of this chapter. The words "a member \* \* \* not covered by section 1201, 1202, or 1203 of this title" are substituted for the words "a member \* \* \* other than those members covered in subsections (a) and (b) of this section". The words "if the Secretary also determines that" are substituted for the words "That if condition (5) above is met by a finding that", in 37:272(c). The words "of such member","upon retirement", and "to receive", in 37:272(c), are omitted as surplusage.
+37:271(a) is omitted as surplusage. As it relates to retirement it is only a statement of the general coverage of the retirement sections of this chapter. As it relates to separation it is only a statement of the general coverage of the separation sections of this chapter. The words "a member \* \* \* not covered by section 1201, 1202, or 1203 of this title" are substituted for the words "a member \* \* \* other than those members covered in subsections (a) and (b) of this section". The words "if the Secretary also determines that" are substituted for the words "That if condition (5) above is met by a finding that", in 37:272(c). The words "of such member", "upon retirement", and "to receive", in 37:272(c), are omitted as surplusage.
 
 In clause (1), the words "based upon accepted medical principles" are inserted as a necessary implication of the rule stated in 37:272(c)(5).
 

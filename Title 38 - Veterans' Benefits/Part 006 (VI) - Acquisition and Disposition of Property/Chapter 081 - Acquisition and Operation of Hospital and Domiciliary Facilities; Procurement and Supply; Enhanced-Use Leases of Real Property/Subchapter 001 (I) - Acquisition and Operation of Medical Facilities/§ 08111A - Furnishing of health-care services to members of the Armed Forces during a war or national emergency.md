@@ -10,7 +10,7 @@
 
 &emsp;(ii) A disaster or emergency in which the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh) <sup>1</sup> is activated by the Secretary of Health and Human Services under that section or as otherwise authorized by law.
 
-(3) The Secretary may give a higher priority to the furnishing of care and services under thissection than to the furnishing of care and services to any other group of persons eligible for care and services in medical facilities of the Department with the exception of veterans with service-connected disabilities.
+(3) The Secretary may give a higher priority to the furnishing of care and services under this section than to the furnishing of care and services to any other group of persons eligible for care and services in medical facilities of the Department with the exception of veterans with service-connected disabilities.
 
 (4) For the purposes of this section, the terms "hospital care", "nursing home care", and "medical services" have the meanings given such terms by sections 1701(5), 101(28), and 1701(6) of this title, respectively, and the term "medical services" includes services under sections 1782 and 1783 of this title.
 

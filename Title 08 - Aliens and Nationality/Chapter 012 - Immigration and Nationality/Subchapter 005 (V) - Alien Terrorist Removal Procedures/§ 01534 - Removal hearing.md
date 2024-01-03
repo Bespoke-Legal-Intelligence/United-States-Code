@@ -22,7 +22,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 #### (1) Right of counsel
 
-&emsp;The alien shall have a right to be present at such hearing and to be represented by counsel. Any alien financially unable to obtain counsel shall be entitled to have counsel assigned to represent the alien. Such counsel shall be appointed by the judge pursuant to the plan for furnishing representation for any person financially unable to obtain adequate representation for the district in which the hearing is conducted, as provided for in section 3006A of title 18. All provisions of that section shall apply and, for purposes of determining the maximum amount of compensation, the matter shall be treated as if a felony was charged.
+&emsp;The alien shall have a right to be present at such hearing and to be represented by counsel. Any alien financially unable to obtain counselshall be entitled to have counsel assigned to represent the alien. Such counsel shall be appointed by the judge pursuant to the plan for furnishing representation for any person financially unable to obtain adequate representation for the district in which the hearing is conducted, as provided for in section 3006A of title 18. All provisions of that section shall apply and, for purposes of determining the maximum amount of compensation, the matter shall be treated as if a felony was charged.
 
 #### (2) Introduction of evidence
 
@@ -56,7 +56,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 #### (4) Witness fees
 
-&emsp;A witness subpoenaed under this subsection shall receive the same fees and expenses as awitness subpoenaed in connection with a civil proceeding in a court of the United States.
+&emsp;A witness subpoenaed under this subsection shall receive the same fees and expenses as a witness subpoenaed in connection with a civil proceeding in a court of the United States.
 
 #### (5) No access to classified information
 
@@ -206,7 +206,7 @@ Subsec. (e)(3)(D)(iii). Pub. L. 104–208, §354(a)(1)(B), added cl. (iii).
 
 Subsec. (e)(3)(E), (F). Pub. L. 104–208, §354(a)(2), added subpars. (E) and (F).
 
-Subsec. (f). Pub. L. 104–208, §354(b)(2), inserted at end "The judge may allow any part of the argument thatrefers to evidence received in camera and ex parte to be heard in camera and ex parte."
+Subsec. (f). Pub. L. 104–208, §354(b)(2), inserted at end "The judge may allow any part of the argument that refers to evidence received in camera and ex parte to be heard in camera and ex parte."
 
 Subsec. (j). Pub. L. 104–208, §354(b)(3), inserted at end "Any portion of the order that would reveal the substance or source of information received in camera and ex parte pursuant to subsection (e) shall not be made available to the alien or the public."
 

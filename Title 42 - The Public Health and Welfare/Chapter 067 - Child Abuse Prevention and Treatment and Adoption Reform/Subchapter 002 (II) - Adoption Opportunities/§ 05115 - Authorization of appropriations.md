@@ -4,7 +4,7 @@
 
 (b) Not less than 30 percent and not more than 50 percent of the funds appropriated under subsection (a) shall be allocated for activities under subsections (b)(10) and (c) of section 5113 of this title.
 
-(c) The Secretary shall ensure that funds appropriated pursuant to authorizations in this subchapter shall remain available until expended for the purposes for which they were appropriated.
+(c) The Secretary shall ensure that funds appropriated pursuant to authorizations in thissubchapter shall remain available until expended for the purposes for which they were appropriated.
 
 (Pub. L. 95–266, title II, §205, Apr. 24, 1978, 92 Stat. 211; Pub. L. 98–457, title II, §204, Oct. 9, 1984, 98 Stat. 1757; Pub. L. 100–294, title II, §201, Apr. 25, 1988, 102 Stat. 122; Pub. L. 102–295, title IV, §404, May 28, 1992, 106 Stat. 214; Pub. L. 104–235, title II, §213, Oct. 3, 1996, 110 Stat. 3091; Pub. L. 108–36, title II, §205, June 25, 2003, 117 Stat. 822; Pub. L. 111–320, title III, §301(c), Dec. 20, 2010, 124 Stat. 3513.)
 

@@ -34,7 +34,7 @@
 
 (d) The Board may dismiss any appeal which fails to identify the specific determination with which the claimant disagrees.
 
-(Added Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 553, §4005; amended Pub. L. 99–576, title VII, §701(85), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title II, §§203(b), 206, Nov. 18, 1988, 102 Stat. 4111; renumbered §7105 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1),\(2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 112–154, title V, §501(a), Aug. 6, 2012, 126 Stat. 1190; Pub. L. 115–55, §2(q)(1), Aug. 23, 2017, 131 Stat. 1111; Pub. L. 117–168, title VIII, §807(a)(6), Aug. 10, 2022, 136 Stat. 1806.)
+(Added Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 553, §4005; amended Pub. L. 99–576, title VII, §701(85), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title II, §§203(b), 206, Nov. 18, 1988, 102 Stat. 4111; renumbered §7105 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 112–154, title V, §501(a), Aug. 6, 2012, 126 Stat. 1190; Pub. L. 115–55, §2(q)(1), Aug. 23, 2017, 131 Stat. 1111; Pub. L. 117–168, title VIII, §807(a)(6), Aug. 10, 2022, 136 Stat. 1806.)
 
 #### <b>Editorial Notes</b>
 
@@ -58,7 +58,7 @@ Subsec. (d). Pub. L. 115–55, §2(q)(1)(D), added subsec. (d) and struck out fo
 
 Subsec. (e). Pub. L. 115–55, §2(q)(1)(E), struck out subsec. (e) which read as follows:
 
-"(1) If, either at the time or after the agency of original jurisdiction receives a substantive appeal, the claimant or the claimant's representative, if any, submits evidence to either the agency of original jurisdiction or the Board of Veterans' Appeals for consideration in connection with the issue or issues with which disagreement has been expressed, such evidence shall be subject to initial review by the Board unless the claimant or the claimant's representative, as the case may be, requests in writing that the agency of original jurisdiction initially review such evidence.
+"(1) If, either at the time or after the agency of original jurisdiction receives a substantive appeal, theclaimant or the claimant's representative, if any, submits evidence to either the agency of original jurisdiction or the Board of Veterans' Appeals for consideration in connection with the issue or issues with which disagreement has been expressed, such evidence shall be subject to initial review by the Board unless the claimant or the claimant's representative, as the case may be, requests in writing that the agency of original jurisdiction initially review such evidence.
 
 "(2) A request for review of evidence under paragraph (1) shall accompany the submittal of the evidence."
 

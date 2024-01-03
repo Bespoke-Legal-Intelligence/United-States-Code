@@ -100,7 +100,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the customer base for the agricultural commodity or product is expanded; and
 
-&emsp;&emsp;&emsp;(ii) a greater portion of the revenue derived from the marketing, processing, or physical segregation of the agricultural commodity or product is available to the producer of the commodity or product.
+&emsp;&emsp;&emsp;(ii) a greater portion of the revenue derived from the marketing, processing, orphysical segregation of the agricultural commodity or product is available to the producer of the commodity or product.
 
 #### (13) Veteran farmer or rancher
 
@@ -216,7 +216,7 @@ In administering the Program, the Secretary shall—
 
 #### (A) Administration
 
-&emsp;&emsp;The Secretary shall carry out this subsection through the Administrator of theRural Business-Cooperative Service, in coordination with the Administrator of the Agricultural Marketing Service.
+&emsp;&emsp;The Secretary shall carry out this subsection through the Administrator of the Rural Business-Cooperative Service, in coordination with the Administrator of the Agricultural Marketing Service.
 
 #### (B) Eligible entities
 
@@ -547,6 +547,12 @@ In carrying out the Program, to the maximum extent practicable, the Secretary sh
 &emsp;&emsp;Not greater than 8 percent of amounts made available to provide grants under subsections (d) and (e) for a fiscal year may be used for administrative expenses.
 
 (Aug. 14, 1946, ch. 966, title II, §210A, as added Pub. L. 115–334, title X, §10102(b), Dec. 20, 2018, 132 Stat. 4888.)
+
+#### <b>Editorial Notes</b>
+
+#### Codification
+
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -12,7 +12,7 @@
 
 #### (2) Registration
 
-&emsp;An entity (referred to in this section as the "registrant") shall submit a registration under paragraph (1) to the Secretary containing information necessary to notify the Secretary of the name and address of each facility at which, and all trade names under which, the registrant conducts business, the e-mail address for the contact person of the facility or, in the case of a foreign facility, the United States agent for the facility, and, when determined necessary by the Secretarythrough guidance, the general food category (as identified under section 170.3 of title 21, Code of Federal Regulations, or any other food categories as determined appropriate by the Secretary, including by guidance) of any food manufactured, processed, packed, or held at such facility. The registration shall contain an assurance that the Secretary will be permitted to inspect such facility at the times and in the manner permitted by this chapter. The registrant shall notify the Secretary in a timely manner of changes to such information.
+&emsp;An entity (referred to in this section as the "registrant") shall submit a registration under paragraph (1) to the Secretary containing information necessary to notify the Secretary of the name and address of each facility at which, and all trade names under which, the registrant conducts business, the e-mail address for the contact person of the facility or, in the case of a foreign facility, the United States agent for the facility, and, when determined necessary by the Secretary through guidance, the general food category (as identified under section 170.3 of title 21, Code of Federal Regulations, or any other food categories as determined appropriate by the Secretary, including by guidance) of any food manufactured, processed, packed, or held at such facility. The registration shall contain an assurance that the Secretary will be permitted to inspect such facility at the times and in the manner permitted by this chapter. The registrant shall notify the Secretary in a timely manner of changes to such information.
 
 #### (3) Biennial registration renewal
 
@@ -94,7 +94,7 @@ For purposes of this section:
 
 Nothing in this section shall be construed to authorize the Secretary to require an application, review, or licensing process for a facility to be registered, except with respect to the reinstatement of a registration that is suspended under subsection (b).
 
-(June 25, 1938, ch. 675, §415, as added Pub. L. 107–188, title III, §305(a), June 12, 2002, 116 Stat. 667; amended Pub. L. 111–353, title I, §102(a)–(b)(1), (d)(2), Jan. 4, 2011, 124 Stat. 3887, 3889.)
+(June 25, 1938, ch. 675, §415, as added Pub. L. 107–188, title III, §305(a), June 12, 2002, 116 Stat.667; amended Pub. L. 111–353, title I, §102(a)–(b)(1), (d)(2), Jan. 4, 2011, 124 Stat. 3887, 3889.)
 
 #### <b>Editorial Notes</b>
 
@@ -164,7 +164,7 @@ Authority with respect to certain facilities.—
 
 &emsp;&emsp;"(i)
 
-In general.—In promulgating the regulations under subparagraph (A), the Secretary shall consider the results of the science-based risk analysis conducted under subparagraph (C), and shall exempt certain facilities from the requirements in section 418 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350g\] (as added by this section), including hazard analysis and preventive controls, and the mandatory inspection frequency in section 421 of such Act \[21 U.S.C. 350j\] (as added by section 201), or modify the requirements in such sections418 or 421, as the Secretary determines appropriate, if such facilities are engaged only in specific types of on-farm manufacturing, processing, packing, or holding activities that the Secretary determines to be low risk involving specific foods the Secretary determines to be low risk.
+In general.—In promulgating the regulations under subparagraph (A), the Secretary shall consider the results of the science-based risk analysis conducted under subparagraph (C), and shall exempt certain facilities from the requirements in section 418 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350g\] (as added by this section), including hazard analysis and preventive controls, and the mandatory inspection frequency in section 421 of such Act \[21 U.S.C. 350j\] (as added by section 201), or modify the requirements in such sections 418 or 421, as the Secretary determines appropriate, if such facilities are engaged only in specific types of on-farm manufacturing, processing, packing, or holding activities that the Secretary determines to be low risk involving specific foods the Secretary determines to be low risk.
 
 &emsp;&emsp;"(ii)
 
@@ -180,7 +180,7 @@ Final regulations.—Not later than 9 months after the close of the comment peri
 
 &emsp;"(C) the requirements under sections 418 and 421 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350g, 350j\], as added by this Act, from which the Secretary may issue exemptions or modifications of the requirements for certain types of facilities."
 
-Pub. L. 107–188, title III, §305(e), June 12, 2002, 116 Stat. 669, provided that: "Not later than 18 months after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate proposed and final regulations for the requirement of registration under section 415 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350d\] (as added by subsection (a) of this section). Such requirement of registration takes effect—
+Pub. L. 107–188, title III, §305(e), June 12, 2002, 116 Stat. 669, provided that: "Not later than 18 months after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate proposed and final regulations for the requirement of registration under section 415 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350d\] (asadded by subsection (a) of this section). Such requirement of registration takes effect—
 
 &emsp;"(1) upon the effective date of such final regulations; or
 

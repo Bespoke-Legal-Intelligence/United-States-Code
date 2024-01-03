@@ -36,7 +36,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (2) Treated as facility for excess liability
 
-&emsp;To the extent that removal costs and damages from any incident described in paragraph\(1) exceed the amount for which a responsible party is liable (as that amount may be limited under subsection (a)(1)), the mobile offshore drilling unit is deemed to be an offshore facility. For purposes of applying subsection (a)(3), the amount specified in that subsection shall be reduced by the amount for which the responsible party is liable under paragraph (1).
+&emsp;To the extent that removal costs and damages from any incident described in paragraph (1) exceed the amount for which a responsible party is liable (as that amount may be limited under subsection (a)(1)), the mobile offshore drilling unit is deemed to be an offshore facility. For purposes of applying subsection (a)(3), the amount specified in that subsection shall be reduced by the amount for which the responsible party is liable under paragraph (1).
 
 #### (c) Exceptions
 
@@ -76,7 +76,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (1) Onshore facilities
 
-&emsp;Subject to paragraph (2), the President may establish by regulation, with respect to any class or category of onshore facility, a limit of liability under this section of less than $350,000,000, but not less than $8,000,000, taking into account size, storage capacity, oil throughput, proximity to sensitive areas, type of oil handled, history of discharges, and other factors relevant to risks posed by the class or category of facility.
+&emsp;Subject to paragraph (2), the President may establish by regulation, with respect to any class or category of onshore facility, a limit of liability under this section of less than $350,000,000, but not less than $8,000,000, takinginto account size, storage capacity, oil throughput, proximity to sensitive areas, type of oil handled, history of discharges, and other factors relevant to risks posed by the class or category of facility.
 
 #### (2) Deepwater ports and associated vessels
 

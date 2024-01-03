@@ -14,7 +14,7 @@
 
 (2) The sanctions which apply to a foreign person under paragraph (1) are the following:
 
-&emsp;(A) If the item involved in the export, transfer, or trade is within category II of the MTCRAnnex, then the President shall deny, for a period of 2 years—
+&emsp;(A) If the item involved in the export, transfer, or trade is within category II of the MTCR Annex, then the President shall deny, for a period of 2 years—
 
 &emsp;&emsp;(i) United States Government contracts relating to missile equipment or technology; and
 

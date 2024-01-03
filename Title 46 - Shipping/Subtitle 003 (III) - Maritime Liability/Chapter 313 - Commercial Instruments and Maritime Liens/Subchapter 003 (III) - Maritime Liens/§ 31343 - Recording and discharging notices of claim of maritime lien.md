@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(iii) The mortgagee of each mortgage filed or recorded under section 31321 of this title that is an undischarged mortgage on the vessel.
 
-(2) A declaration under this subsection filed by a person that is not an individual must be signed by the president, member, partner, trustee, or other individual authorized to execute the declaration on behalf of the person.
+(2) A declaration under this subsection filed by a person that is not an individual must be signedby the president, member, partner, trustee, or other individual authorized to execute the declaration on behalf of the person.
 
 (c)(1) On full and final discharge of the indebtedness that is the basis for a notice of claim of lien recorded under subsection (b) of this section, the person having the claim shall provide the Secretary with an acknowledged certificate of discharge of the indebtedness. The Secretary shall record the certificate.
 

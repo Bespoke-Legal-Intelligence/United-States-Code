@@ -144,7 +144,7 @@ The Education Council shall use funds made available through the grant under sub
 
 For each fiscal year, the Secretary shall use the amount described in section 7515(c)(2) of this title, to make a payment under the grant. Funds made available through the grant shall remain available until expended.
 
-(Pub. L. 89–10, title VI, §6204, formerly title VII, §7204, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1937; renumbered title VI, §6204, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6003(b), Dec. 10, 2015, 129 Stat. 2046, 2063.)
+(Pub. L. 89–10, title VI, §6204, formerly title VII, §7204, as added Pub. L. 107–110, title VII, §701,Jan. 8, 2002, 115 Stat. 1937; renumbered title VI, §6204, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6003(b), Dec. 10, 2015, 129 Stat. 2046, 2063.)
 
 #### <b>Editorial Notes</b>
 

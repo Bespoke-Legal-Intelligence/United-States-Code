@@ -36,7 +36,7 @@ The Director shall ensure that all individually identifiable information about s
 
 #### (B) Immunity
 
-&emsp;&emsp;Individually identifiable information collected or retained under this subchapter shall be immune from legal process and shallnot, without the consent of the individual concerned, be admitted as evidence or used for any purpose in any action, suit, or other judicial or administrative proceeding.
+&emsp;&emsp;Individually identifiable information collected or retained under this subchapter shall be immune from legal process and shall not, without the consent of the individual concerned, be admitted as evidence or used for any purpose in any action, suit, or other judicial or administrative proceeding.
 
 #### (C) Application
 
@@ -44,7 +44,7 @@ The Director shall ensure that all individually identifiable information about s
 
 #### (2) Employee or staff violations
 
-&emsp;Whoever, being or having been an employee or staff member of the Department, having taken or subscribed the oath of office, or having sworn to observe the limitations imposed by subsection (c)(2), knowingly publishes or communicates any individually identifiable information (as defined in paragraph (5)(A)), the disclosure of which is prohibited by subsection (c)(2), and that comes into such employee or staff's possession by reason of employment (or otherwise providing services) under this subchapter, shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in section 3571 of title 18, or both.
+&emsp;Whoever, being or having been an employee or staff member of the Department, having taken or subscribed the oath of office, or having sworn to observe the limitations imposed by subsection (c)(2), knowingly publishes or communicates any individually identifiableinformation (as defined in paragraph (5)(A)), the disclosure of which is prohibited by subsection (c)(2), and that comes into such employee or staff's possession by reason of employment (or otherwise providing services) under this subchapter, shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in section 3571 of title 18, or both.
 
 #### (3) Temporary staff
 

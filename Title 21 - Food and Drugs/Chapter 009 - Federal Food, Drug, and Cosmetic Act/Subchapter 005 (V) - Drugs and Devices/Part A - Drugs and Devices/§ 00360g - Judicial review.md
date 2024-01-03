@@ -34,7 +34,7 @@ Upon the filing of the petition under subsection (a) of this section for judicia
 
 #### (d) Finality of judgments
 
-The judgment of the court affirming or setting aside, in whole or in part, any regulation ororder shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
+The judgment of the court affirming or setting aside, in whole or in part, any regulation or order shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
 
 #### (e) Remedies
 
@@ -50,7 +50,7 @@ To facilitate judicial review under this section or under any other provision of
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1). Pub. L. 112–144 substituted ", an administrative order changing the classification of a device to class I," for "or changing the classification of a device to class I".
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–144 substituted ", an administrative order changing the classification of adevice to class I," for "or changing the classification of a device to class I".
 
 <b>1997</b>—Subsec. (a)(8). Pub. L. 105–115, §216(a)(2)(A), inserted "or" at end.
 

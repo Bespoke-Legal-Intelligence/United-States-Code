@@ -8,7 +8,7 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Under Secretary for Science and Technology, shall operate extramural research, development, demonstration, testing, and evaluation programs so as to—
+&emsp;The Secretary, acting through the Under Secretary for Science and Technology, shalloperate extramural research, development, demonstration, testing, and evaluation programs so as to—
 
 &emsp;&emsp;(A) ensure that colleges, universities, private research institutes, and companies (and consortia thereof) from as many areas of the United States as practicable participate;
 
@@ -80,7 +80,7 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 &emsp;If the Secretary chooses to establish a headquarters laboratory pursuant to paragraph (2), then the Secretary shall do the following:
 
-&emsp;&emsp;(A) Establish criteria for the selection of the headquarters laboratory in consultationwith the National Academy of Sciences, appropriate Federal agencies, and other experts.
+&emsp;&emsp;(A) Establish criteria for the selection of the headquarters laboratory in consultation with the National Academy of Sciences, appropriate Federal agencies, and other experts.
 
 &emsp;&emsp;(B) Publish the criteria in the Federal Register.
 

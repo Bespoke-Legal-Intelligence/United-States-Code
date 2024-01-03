@@ -24,9 +24,9 @@
 
 &emsp;(ii) shall again begin running on the first day after the date of the recovery of the veteran or member from the injury, or the date on which the individual ceases to be the primary provider of personal care services for the veteran or member, whichever is earlier, on which it is reasonably feasible, as so determined, for the individual to initiate or resume pursuit of a program of education with educational assistance under this chapter.
 
-(B) Subparagraph (A) shall not apply with respect to the period of an individual as a primary provider of personal care services if the period concludes with the revocation of the individual's designation as such a primary provider under section 1720G(a)(7)(D) of this title.
+(B) Subparagraph (A) shall not apply with respect to the period of an individual as a primaryprovider of personal care services if the period concludes with the revocation of the individual's designation as such a primary provider under section 1720G(a)(7)(D) of this title.
 
-(e)(1) Except as provided in paragraph (2) of this subsection, in the case of an individual described in section 3011(a)(1)(B), 3011(a)(1)(C), 3012(a)(1)(B), or 3012(a)(1)(C) of this title who is entitled to basic educational assistance under this chapter, the 10-year period prescribed in subsection (a) of this section shall be reduced byan amount of time equal to the amount of time that such individual was not serving on active duty during the period beginning on January 1, 1977, and ending on June 30, 1985.
+(e)(1) Except as provided in paragraph (2) of this subsection, in the case of an individual described in section 3011(a)(1)(B), 3011(a)(1)(C), 3012(a)(1)(B), or 3012(a)(1)(C) of this title who is entitled to basic educational assistance under this chapter, the 10-year period prescribed in subsection (a) of this section shall be reduced by an amount of time equal to the amount of time that such individual was not serving on active duty during the period beginning on January 1, 1977, and ending on June 30, 1985.
 
 (2) In the case of an individual to which paragraph (1) of this subsection is applicable and who is described in section 3452(a)(1)(B) of this title, the 10-year period prescribed in subsection (a) of this section shall not be reduced by any period in 1977 before the individual began serving on active duty.
 
@@ -162,7 +162,7 @@ Pub. L. 106–419, title I, §102(e), Nov. 1, 2000, 114 Stat. 1825, provided tha
 
 Pub. L. 106–419, title I, §103(e), Nov. 1, 2000, 114 Stat. 1826, provided that:
 
-"(1) In the case of an individual described in paragraph (2), with respect to the time limitation under section 3031 of title 38, United States Code, for use of eligibility and entitlement of basic educational assistance under chapter 30 of such title, the 10-year period applicable under such section shall begin on the later of—
+"(1) In the case of an individual described in paragraph (2), with respect to the time limitation undersection 3031 of title 38, United States Code, for use of eligibility and entitlement of basic educational assistance under chapter 30 of such title, the 10-year period applicable under such section shall begin on the later of—
 
 &emsp;"(A) the date of the enactment of this Act \[Nov. 1, 2000\]; or
 

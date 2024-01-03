@@ -60,7 +60,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;(A) investigations, interventions, and the delivery of services and treatment provided to children and families, including the use of differential response, where appropriate; and
 
-&emsp;&emsp;(B) the provision of services that assist children exposed to domestic violence, andthat also support the caregiving role of their nonabusing parents.
+&emsp;&emsp;(B) the provision of services that assist children exposed to domestic violence, and that also support the caregiving role of their nonabusing parents.
 
 #### (b) Eligibility requirements
 
@@ -90,7 +90,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;A State plan submitted under paragraph (1) shall contain a description of the activities that the State will carry out using amounts received under the grant to achieve the objectives of this subchapter, including—
 
-&emsp;&emsp;(A) an assurance that the State plan, to the maximum extent practicable, is coordinated with the State plan under part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq.\] relating to child welfare services and family preservation and family support services;
+&emsp;&emsp;(A) an assurance that the State plan, to the maximum extent practicable, is coordinated with the State plan under part B of title IV of the Social Security Act \[42 U.S.C.620 et seq.\] relating to child welfare services and family preservation and family support services;
 
 &emsp;&emsp;(B) an assurance in the form of a certification by the Governor of the State that the State has in effect and is enforcing a State law, or has in effect and is operating a statewide program, relating to child abuse and neglect that includes—
 
@@ -138,7 +138,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(xii) provisions requiring, and procedures in place that facilitate the prompt expungement of any records that are accessible to the general public or are used for purposes of employment or other background checks in cases determined to be unsubstantiated or false, except that nothing in this section shall prevent State child protective services agencies from keeping information on unsubstantiated reports in their casework files to assist in future risk and safety assessment;
 
-&emsp;&emsp;&emsp;(xiii) provisions and procedures requiring that in every case involving a victim of child abuse or neglect which results in a judicial proceeding, a guardian ad litem, who has received training appropriate to the role, including training in early childhood, child, and adolescent development, and who may be an attorney or a court appointed special advocate who has received training appropriate to that role (or both), shall be appointed to represent the child in such proceedings—
+&emsp;&emsp;&emsp;(xiii) provisions and procedures requiring that in every case involving a victim of child abuse or neglect which results in a judicial proceeding, a guardian ad litem, who has received training appropriate to the role, including training in early childhood, child, and adolescent development,and who may be an attorney or a court appointed special advocate who has received training appropriate to that role (or both), shall be appointed to represent the child in such proceedings—
 
 &emsp;&emsp;&emsp;&emsp;(I) to obtain first-hand, a clear understanding of the situation and needs of the child; and
 
@@ -188,7 +188,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(i) coordination and consultation with individuals designated by and within appropriate health-care facilities;
 
-&emsp;&emsp;&emsp;(ii) prompt notification by individuals designated by and within appropriate health-care facilities of cases of suspected medical neglect (including instances of withholding of medically indicated treatment from infants with disabilities who have life-threatening conditions); and
+&emsp;&emsp;&emsp;(ii) prompt notification by individuals designated by and within appropriate health-care facilities of cases of suspectedmedical neglect (including instances of withholding of medically indicated treatment from infants with disabilities who have life-threatening conditions); and
 
 &emsp;&emsp;&emsp;(iii) authority, under State law, for the State child protective services system to pursue any legal remedies, including the authority to initiate legal proceedings in a court of competent jurisdiction, as may be necessary to prevent the withholding of medically indicated treatment from infants with disabilities who have life-threatening conditions;
 
@@ -406,7 +406,7 @@ Within 6 months after receiving the State reports under subsection (d), the Secr
 
 &emsp;&emsp;(A) $50,000; and
 
-&emsp;&emsp;(B) an amount that bears the same relationship to any grant funds remaining afterall such States and territories have received $50,000, as the number of children under the age of 18 in the State or territory bears to the number of such children in all States and territories that apply for such a grant.
+&emsp;&emsp;(B) an amount that bears the same relationship to any grant funds remaining after all such States and territories have received $50,000, as the number of children under the age of 18 in the State or territory bears to the number of such children in all States and territories that apply for such a grant.
 
 #### (3) Allotments for decreased appropriation years
 
@@ -502,7 +502,7 @@ Subsec. (a)(13). Pub. L. 111–320, §115(b)(7), (11), redesignated par. (14) as
 
 Subsec. (a)(14). Pub. L. 111–320, §115(b)(12), added par. (14). Former par. (14) redesignated (13).
 
-Subsec. (b)(1). Pub. L. 111–320, §115(c)(1), added par. (1) and struck out former par. (1) which related to requirement that a State submit a plan at the time of the initial grant application and every 5 years thereafter and additional requirement to provide notice of substantive changes and significant changes in how funds have been used.
+Subsec. (b)(1). Pub. L. 111–320, §115(c)(1), added par. (1) and struck out former par. (1) which related to requirement that a State submit a plan at the time of the initial grant application and every 5 years thereafter andadditional requirement to provide notice of substantive changes and significant changes in how funds have been used.
 
 Subsec. (b)(2). Pub. L. 111–320, §115(c)(2)(H), substituted "subparagraph (B)" for "subparagraph (A)" in concluding provisions.
 
@@ -652,7 +652,7 @@ Subsec. (c)(6). Pub. L. 108–36, §114(c)(2), substituted "State and the public
 
 Subsec. (d)(13), (14). Pub. L. 108–36, §114(d), added pars. (13) and (14).
 
-<b>1996</b>—Pub. L. 104–235 reenacted section catchline without change and amended text generally, revising and restating subsecs. (a) and (b), substituting provisions relating to citizen review panels for provisions relating to State program plan in subsec. (c), provisions relating to annual State data reports for provisions relating to waivers in subsec. (d), provisions relating toannual report by Secretary for provisions relating to reduction of funds in case of failure to obligate in subsec. (e), and striking out subsecs. (f) and (g) which related to child welfare services and compliance and education grants, respectively.
+<b>1996</b>—Pub. L. 104–235 reenacted section catchline without change and amended text generally, revising and restating subsecs. (a) and (b), substituting provisions relating to citizen review panels for provisions relating to State program plan in subsec. (c), provisions relating to annual State data reports for provisions relating to waivers in subsec. (d), provisions relating to annual report by Secretary for provisions relating to reduction of funds in case of failure to obligate in subsec. (e), and striking out subsecs. (f) and (g) which related to child welfare services and compliance and education grants, respectively.
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–295, §114(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary, through the Center, is authorized to make grants to the States for purposes of assisting the States in developing, strengthening, and carrying out child abuse and neglect prevention and treatment programs."
 

@@ -12,7 +12,7 @@
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–79 inserted "or Department of Agriculture" after "Department of Defense".
 
-<b>2011</b>—Subsec. (b). Pub. L. 112–81 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Notwithstanding the provisions of subsection (a), all sums received for any Department of Defense activity for fire protection rendered pursuant to this subchapter shall be credited to the appropriation fund or account from which the expenses were paid. Amounts so credited shall be merged with funds in suchappropriation fund or account and shall be available for the same purposes and subject to the same limitations as the funds with which the funds are merged."
+<b>2011</b>—Subsec. (b). Pub. L. 112–81 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Notwithstanding the provisions of subsection (a), all sums received for any Department of Defense activity for fire protection rendered pursuant to this subchapter shall be credited to the appropriation fund or account from which the expenses were paid. Amounts so credited shall be merged with funds in such appropriation fund or account and shall be available for the same purposes and subject to the same limitations as the funds with which the funds are merged."
 
 <b>2008</b>—Pub. L. 110–181 designated existing provisions as subsec. (a) and added subsec. (b).
 

@@ -90,7 +90,7 @@
 
 #### (2) Applications
 
-&emsp;To be eligible for a grant under subsection (b), a State or multistate entity shall submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;To be eligible for a grant under subsection (b), a State or multistate entity shall submitto the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (3) Evaluation
 
@@ -110,7 +110,7 @@ In carrying out this section, the Secretary shall consult with the heads of othe
 
 #### (f) Authorization of appropriations
 
-To awards grants as provided in subsection (d), there are authorized to be appropriated $120,000,000 for each of fiscal years 2011 and 2012,and such sums as may be necessary to carry out this section for each of fiscal years 2013 through 2014.
+To awards grants as provided in subsection (d), there are authorized to be appropriated $120,000,000 for each of fiscal years 2011 and 2012, and such sums as may be necessary to carry out this section for each of fiscal years 2013 through 2014.
 
 (July 1, 1944, ch. 373, title III, §399V–1, formerly §399W, as added, amended, and renumbered §399V–1, Pub. L. 111–148, title V, §5405, title X, §10501(f)(1), (2), Mar. 23, 2010, 124 Stat. 649, 996.)
 

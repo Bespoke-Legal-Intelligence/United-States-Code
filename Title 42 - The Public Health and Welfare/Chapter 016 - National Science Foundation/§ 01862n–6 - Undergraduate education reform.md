@@ -14,7 +14,7 @@ Activities supported by grants under this section may include—
 
 &emsp;(3) creation of multidisciplinary courses or programs that formalize collaborations for the purpose of improved student instruction and research in science, mathematics, engineering, and technology;
 
-&emsp;(4) expansion of undergraduate research opportunities beyond a particular laboratory, course, or academic unit to engage multiple academic units in providing multidisciplinary research opportunities for undergraduate students;
+&emsp;(4) expansion of undergraduate research opportunities beyond a particular laboratory,course, or academic unit to engage multiple academic units in providing multidisciplinary research opportunities for undergraduate students;
 
 &emsp;(5) expansion of innovative tutoring or mentoring programs proven to enhance student recruitment or persistence to degree completion in science, mathematics, engineering, or technology;
 

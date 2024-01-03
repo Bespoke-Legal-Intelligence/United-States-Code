@@ -44,7 +44,7 @@ The Council shall—
 
 &emsp;(1) provide coordination and leadership at the Federal level, and among all Federal departments and agencies, with respect to prevention, wellness and health promotion practices, the public health system, and integrative health care in the United States;
 
-&emsp;(2) after obtaining input from relevant stakeholders, develop a national prevention, health promotion, public health, and integrative health care strategy that incorporates the most effective and achievable means of improving the health status of Americans and reducing the incidence of preventable illness and disability in the United States;
+&emsp;(2) after obtaining input from relevant stakeholders, develop a national prevention,health promotion, public health, and integrative health care strategy that incorporates the most effective and achievable means of improving the health status of Americans and reducing the incidence of preventable illness and disability in the United States;
 
 &emsp;(3) provide recommendations to the President and Congress concerning the most pressing health issues confronting the United States and changes in Federal policy to achieve national wellness, health promotion, and public health goals, including the reduction of tobacco use, sedentary behavior, and poor nutrition;
 
@@ -116,7 +116,7 @@ Not later than July 1, 2010, and annually thereafter through January 1, 2015, th
 
 &emsp;(4) contains specific science-based initiatives to achieve the measurable goals of Healthy People 2020 regarding nutrition, exercise, and smoking cessation, and targeting the 5 leading disease killers in the United States;
 
-&emsp;(5) contains specific plans for consolidating Federal health programs and Centers that exist to promote healthy behavior and reduce disease risk (including eliminating programsand offices determined to be ineffective in meeting the priority goals of Healthy People 2020);
+&emsp;(5) contains specific plans for consolidating Federal health programs and Centers that exist to promote healthy behavior and reduce disease risk (including eliminating programs and offices determined to be ineffective in meeting the priority goals of Healthy People 2020);
 
 &emsp;(6) contains specific plans to ensure that all Federal health care programs are fully coordinated with science-based prevention recommendations by the Director of the Centers for Disease Control and Prevention; and
 

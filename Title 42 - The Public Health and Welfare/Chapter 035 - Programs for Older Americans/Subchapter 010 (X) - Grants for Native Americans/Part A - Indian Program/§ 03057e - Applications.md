@@ -8,7 +8,7 @@ No grant may be made under this part unless the eligible tribal organization sub
 
 &emsp;(2) provide for the use of such methods of administration as are necessary for the proper and efficient administration of the program to be assisted;
 
-&emsp;(3) provide that the tribal organization will make such reports in such form and containing such information, as the Assistant Secretary may reasonably require, and comply with such requirements as the Assistant Secretary may impose to assure the correctness of such reports;
+&emsp;(3) provide that the tribal organization will make such reports in such form and containing such information, as the Assistant Secretary may reasonably require, and complywith such requirements as the Assistant Secretary may impose to assure the correctness of such reports;
 
 &emsp;(4) provide for periodic evaluation of activities and projects carried out under the application;
 
@@ -20,7 +20,7 @@ No grant may be made under this part unless the eligible tribal organization sub
 
 &emsp;(8) provide assurances that either directly or by way of grant or contract with appropriate entities nutrition services will be delivered to older individuals who are Indians represented by the tribal organization substantially in compliance with the provisions of part C of subchapter III, except that in any case in which the need for nutritional services for older individuals who are Indians represented by the tribal organization is already met from other sources, the tribal organization may use the funds otherwise required to be expended under this paragraph for supportive services;
 
-&emsp;(9) provide that any legal or ombudsman services made available to older individuals who are Indians represented by the tribal organization will be substantially in compliancewith the provisions of subchapter III relating to the furnishing of similar services;
+&emsp;(9) provide that any legal or ombudsman services made available to older individuals who are Indians represented by the tribal organization will be substantially in compliance with the provisions of subchapter III relating to the furnishing of similar services;
 
 &emsp;(10) provide satisfactory assurance that fiscal control and fund accounting procedures will be adopted as may be necessary to assure proper disbursement of, and accounting for, Federal funds paid under this part to the tribal organization, including any funds paid by the tribal organization to a recipient of a grant or contract; and
 

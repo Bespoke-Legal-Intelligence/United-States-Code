@@ -42,7 +42,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) increased by the amount of the items of tax preference described in section 57.
 
-&emsp;&emsp;&nbsp;If a taxpayer is subject to the regular tax, such taxpayer shall be subject to the tax imposed by this section (and, if the regular tax is determined by reference to an amount other than taxable income, suchamount shall be treated as the taxable income of such taxpayer for purposes of the preceding sentence).
+&emsp;&emsp;&nbsp;If a taxpayer is subject to the regular tax, such taxpayer shall be subject to the tax imposed by this section (and, if the regular tax is determined by reference to an amount other than taxable income, such amount shall be treated as the taxable income of such taxpayer for purposes of the preceding sentence).
 
 #### (2) Corporations
 
@@ -310,7 +310,7 @@ Subsec. (d)(1)(A). Pub. L. 110–343, §102(a)(1), substituted "($69,950 in the 
 
 Subsec. (d)(1)(B). Pub. L. 110–343, §102(a)(2), substituted "($46,200 in the case of taxable years beginning in 2008)" for "($44,350 in the case of taxable years beginning in 2007)".
 
-<b>2007</b>—Subsec. (d)(1)(A). Pub. L. 110–166, §2(a)(1), substituted "($66,250 in the case of taxable years beginningin 2007)" for "($62,550 in the case of taxable years beginning in 2006)".
+<b>2007</b>—Subsec. (d)(1)(A). Pub. L. 110–166, §2(a)(1), substituted "($66,250 in the case of taxable years beginning in 2007)" for "($62,550 in the case of taxable years beginning in 2006)".
 
 Subsec. (d)(1)(B). Pub. L. 110–166, §2(a)(2), substituted "($44,350 in the case of taxable years beginning in 2007)" for "($42,500 in the case of taxable years beginning in 2006)".
 
@@ -508,7 +508,7 @@ Amendment by section 1302(b) of Pub. L. 109–58 applicable to taxable years of 
 
 Amendment by section 1322(a)(3)(H) of Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
 
-Amendment by section 1342(b)(3) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005,in taxable years ending after such date, see section 1342(c) of Pub. L. 109–58, set out as an Effective Date note under section 30C of this title.
+Amendment by section 1342(b)(3) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1342(c) of Pub. L. 109–58, set out as an Effective Date note under section 30C of this title.
 
 Amendment by section 1341(b)(3) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1341(c) of Pub. L. 109–58, set out as an Effective Date note under section 30B of this title.
 
@@ -544,7 +544,7 @@ Amendment by section 311(b)(1), (2)(A) of Pub. L. 105–34 applicable to taxable
 
 Pub. L. 105–34, title IV, §401(b), Aug. 5, 1997, 111 Stat. 844, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997."
 
-Amendment by section 1601(f)(1)(C) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by section 1601(f)(1)(C) of Pub. L. 105–34 effective as if included in the provisions of the SmallBusiness Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -584,7 +584,7 @@ Amendment by section 11813(b)(5) of Pub. L. 101–508 applicable to property pla
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1002(l)(27) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1002(l)(27) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title I, §1007(a)(3), Nov. 10, 1988, 102 Stat. 3428, provided that the amendment made by that section is effective with respect to taxable years ending after Nov. 10, 1988.
 
@@ -666,7 +666,7 @@ For provisions that nothing in amendment by section 11813(b)(5) of Pub. L. 101�
 
 #### Transitional Provisions
 
-Pub. L. 100–647, title I, §1007(f)(1), Nov. 10, 1988, 102 Stat. 3433, provided that: "In the case of the taxable year of an estate or trust which begins before January 1, 1987, and ends on or after such date, the items of taxpreference apportioned to any beneficiary of such estate or trust under section 58(c) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\]) shall be taken into account for purposes of determining the amount of the tax imposed by section 55 of the Internal Revenue Code of 1986 (as amended by the Tax Reform Act of 1986 \[Pub. L. 99–514\]) on such beneficiary for such beneficiary's taxable year in which such taxable year of the estate or trust ends."
+Pub. L. 100–647, title I, §1007(f)(1), Nov. 10, 1988, 102 Stat. 3433, provided that: "In the case of the taxable year of an estate or trust which begins before January 1, 1987, and ends on or after such date, the items of tax preference apportioned to any beneficiary of such estate or trust under section 58(c) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\]) shall be taken into account for purposes of determining the amount of the tax imposed by section 55 of the Internal Revenue Code of 1986 (as amended by the Tax Reform Act of 1986 \[Pub. L. 99–514\]) on such beneficiary for such beneficiary's taxable year in which such taxable year of the estate or trust ends."
 
 #### Plan Amendments Not Required Until January 1, 1998
 

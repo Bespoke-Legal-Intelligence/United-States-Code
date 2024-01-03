@@ -44,7 +44,7 @@ The Director shall, on a continuing basis—
 
 #### (A) Nature of assistance provided
 
-&emsp;&emsp;Under an education partnership agreement entered into with an educational institution under paragraph (1)(E), the Director mayprovide assistance to the educational institution by—
+&emsp;&emsp;Under an education partnership agreement entered into with an educational institution under paragraph (1)(E), the Director may provide assistance to the educational institution by—
 
 &emsp;&emsp;&emsp;(i) loaning equipment to the educational institution for any purpose and duration in support of such agreement that the Director considers appropriate;
 

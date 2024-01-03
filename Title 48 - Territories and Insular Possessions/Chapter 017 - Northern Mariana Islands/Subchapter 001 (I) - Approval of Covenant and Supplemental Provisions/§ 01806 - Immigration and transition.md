@@ -92,7 +92,7 @@
 
 #### (B) H-2B workers
 
-&emsp;&emsp;In the case of an alien described in subparagraph (A) who seeks admission under section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(ii)(b)), the alien, if otherwise qualified, may, before December 31, 2024, be admitted under such section, notwithstanding the requirement of such section that the service or labor be temporary, for a period of up to 3 years—
+&emsp;&emsp;In the case of an alien described in subparagraph (A) who seeks admission under section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(ii)(b)), the alien, if otherwise qualified, may, before December 31, 2029, be admitted under such section, notwithstanding the requirement of such section that the service or labor be temporary, for a period of up to 3 years—
 
 &emsp;&emsp;&emsp;(i) to perform service or labor on Guam or in the Commonwealth pursuant to any agreement entered into by a prime contractor or subcontractor calling for services or labor required for performance of a contract or subcontract for construction, repairs, renovations, or facility services that is directly connected to, supporting, associated with, or adversely affected by the military realignment occurring on Guam and in the Commonwealth, with priority given to federally funded military projects; or
 
@@ -504,7 +504,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) section 141 of the Compact of Free Association between the United States and the Government of Palau (48 U.S.C. 1931 note).
 
-(Pub. L. 94–241, §6, as added Pub. L. 110–229, title VII, §702(a), May 8, 2008, 122 Stat. 854; amended Pub. L. 113–235, §10, Dec. 16, 2014, 128 Stat. 2134; Pub. L. 115–53, §2, Aug. 22, 2017, 131 Stat. 1091; Pub. L. 115–91, div. A, title X, §1049(a), Dec. 12, 2017, 131 Stat. 1558; Pub. L. 115–218, §3(a), July 24, 2018, 132 Stat. 1547; Pub. L. 115–232, div. A, title X, §1045(a), Aug. 13, 2018, 132 Stat. 1959; Pub. L. 116–24, §2, June 25, 2019, 133 Stat. 977; Pub. L. 116–94, div. P, title IX, §902, Dec. 20, 2019, 133 Stat. 3197; Pub. L. 116–283, div. H, title XCV, §9502, Jan. 1, 2021, 134 Stat. 4822; Pub. L. 117–263, div. E, title LIX, §5901, Dec. 23, 2022, 136 Stat. 3440.)
+(Pub. L. 94–241, §6, as added Pub. L. 110–229, title VII, §702(a), May 8, 2008, 122 Stat. 854; amended Pub. L. 113–235, §10, Dec. 16, 2014, 128 Stat. 2134; Pub. L. 115–53, §2, Aug. 22, 2017, 131 Stat. 1091; Pub. L. 115–91, div. A, title X, §1049(a), Dec. 12, 2017, 131 Stat. 1558; Pub. L. 115–218, §3(a), July 24, 2018, 132 Stat. 1547; Pub. L. 115–232, div. A, title X, §1045(a), Aug. 13, 2018, 132 Stat. 1959; Pub. L. 116–24, §2, June 25, 2019, 133 Stat. 977; Pub. L. 116–94, div. P, title IX, §902, Dec. 20, 2019, 133 Stat. 3197; Pub. L. 116–283, div. H, title XCV, §9502, Jan. 1, 2021, 134 Stat. 4822; Pub. L. 117–263, div. E, title LIX, §5901, Dec. 23, 2022, 136 Stat. 3440; Pub. L. 118–31, div. A, title XVIII, §1807, Dec. 22, 2023, 137 Stat. 688.)
 
 #### <b>Editorial Notes</b>
 
@@ -519,6 +519,8 @@ Section 141 of the Compact of Free Association between the Government of the Uni
 Section 141 of the Compact of Free Association between the United States and the Government of Palau, referred to in subsec. (i)(6)(C)(ii), is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(1)(B). Pub. L. 118–31 substituted "December 31, 2029" for "December 31, 2024" in introductory provisions.
 
 <b>2022</b>—Subsec. (b)(1)(B). Pub. L. 117–263 substituted "December 31, 2024" for "December 31, 2023" in introductory provisions.
 
@@ -540,7 +542,7 @@ Subsec. (b)(3). Pub. L. 115–218, §3(a)(2), added par. (3).
 
 Subsec. (d)(2). Pub. L. 115–218, §3(a)(3)(B), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (d)(3). Pub. L. 115–218, §3(a)(3)(C), amended par. (3) generally. Prior to amendment, text read as follows: "The Secretary of Homeland Security shall establish, administer, and enforce a system for allocating and determining the number, terms, and conditions of permits to be issued to prospective employers for each such nonimmigrant worker described in this subsection who would not otherwise be eligible for admission under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), except a permit for construction occupations (as that term is defined by the Department of Labor as Standard Occupational Classification Group 47–0000 or any successor provision) shall only be issued to extend a permit first issued before October 1, 2015. In adopting and enforcing this system, the Secretary shall also consider, in good faith and not later than 30 days after receipt by the Secretary, any comments and advice submitted by the Governor of the Commonwealth. This system shall provide for a reduction in the allocation of permits for such workers on an annual basis to zero, during a period ending on December 31, 2019, except that for fiscal year 2017 an additional 350 permits shall be made available for extension of existing permits, expiring after August 22, 2017, through September 30, 2017, of which no fewer than 60 shall be reserved for healthcare practitioners and technical operations (as that term is defined by the Department of Labor as Standard Occupational Classification Group 29–0000 or any successor provision), and no fewer than 10 shall be reserved for plant and system operators (as that term is defined by the Department of Labor as Standard Occupational Classification Group 51–8000 or any successor provision). In no event shall a permit be valid beyond the expiration of the transition period. This system may be based on any reasonable method and criteria determined by the Secretary of Homeland Security to promote the maximum use of, and to prevent adverse effects on wages and working conditions of,workers authorized to be employed in the United States, including lawfully admissible freely associated state citizen labor. No alien shall be granted nonimmigrant classification or a visa under this subsection unless the permit requirements established under this paragraph have been met."
+Subsec. (d)(3). Pub. L. 115–218, §3(a)(3)(C), amended par. (3) generally. Prior to amendment, text read as follows: "The Secretary of Homeland Security shall establish, administer, and enforce a system for allocating and determining the number, terms, and conditions of permits to be issued to prospective employers for each such nonimmigrant worker described in this subsection who would not otherwise be eligible for admission under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), except a permit for construction occupations (as that term is defined by the Department of Labor as Standard Occupational Classification Group 47–0000 or any successor provision) shall only be issued to extend a permit first issued before October 1, 2015. In adopting and enforcing this system, the Secretary shall also consider, in good faith and not later than 30 days after receipt by the Secretary, any comments and advice submitted by the Governor of the Commonwealth. This system shall provide for a reduction in the allocation of permits for such workers on an annual basis to zero, during a period ending on December 31, 2019, except that for fiscal year 2017 an additional 350 permits shall be made available for extension of existing permits, expiring after August 22, 2017, through September 30, 2017, of which no fewer than 60 shall be reserved for healthcare practitioners and technical operations (as that term is defined by the Department of Labor as Standard Occupational Classification Group 29–0000 or any successor provision), and no fewer than 10 shall be reserved for plant and system operators (as that term is defined by the Department of Labor as Standard Occupational Classification Group 51–8000 or any successor provision). In no event shall a permit be validbeyond the expiration of the transition period. This system may be based on any reasonable method and criteria determined by the Secretary of Homeland Security to promote the maximum use of, and to prevent adverse effects on wages and working conditions of, workers authorized to be employed in the United States, including lawfully admissible freely associated state citizen labor. No alien shall be granted nonimmigrant classification or a visa under this subsection unless the permit requirements established under this paragraph have been met."
 
 Pub. L. 115–218, §3(a)(3)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
@@ -571,10 +573,6 @@ Subsec. (d)(2). Pub. L. 113–235, §10(2)(A), substituted " 'ending on Decembe
 Subsec. (d)(5), (6). Pub. L. 113–235, §10(2)(B), (C), redesignated par. (6) as (5), and struck out former par. (5), which related to ascertaining current and anticipated labor needs of the Commonwealth, determination whether an extension of up to 5 years of provisions of subsection is necessary, publication of notice of such extension, and factors in determining whether alien workers are necessary to ensure adequate number of workers.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 
@@ -612,11 +610,11 @@ Pub. L. 110–229, title VII, §705, May 8, 2008, 122 Stat. 867, as amended by P
 
 "(a)
 
-In General.—Except as specifically provided in this section or otherwise in this subtitle \[subtitle A (§§701–705) of title VII of Pub. L. 110–229, enacting this section and sections 1807 and 1808 of this title, amending section 1804 of this title and sections 1101, 1158, 1182, 1184, and 1225 of Title 8, Aliens and Nationality, enacting provisions set out as notes under this section, section 1801 of this title, and section 1182 of Title 8, and amending provisions set out as notes under section 1801 of this title\], this subtitle and the amendments madeby this subtitle shall take effect on the date of enactment of this Act \[May 8, 2008\].
+In General.—Except as specifically provided in this section or otherwise in this subtitle \[subtitle A (§§701–705) of title VII of Pub. L. 110–229, enacting this section and sections 1807 and 1808 of this title, amending section 1804 of this title and sections 1101, 1158, 1182, 1184, and 1225 of Title 8, Aliens and Nationality, enacting provisions set out as notes under this section, section 1801 of this title, and section 1182 of Title 8, and amending provisions set out as notes under section 1801 of this title\], this subtitle and the amendments made by this subtitle shall take effect on the date of enactment of this Act \[May 8, 2008\].
 
 "(b)
 
-Amendments to the Immigration and Nationality Act.—The amendments to the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] made by this subtitle \[amending sections 1101, 1158, 1182, 1184, and 1225 of Title 8\], and other provisions of this subtitle applying the immigration laws (as defined in section 101(a)(17) of Immigration and Nationality Act (8 U.S.C. 1101(a)(17))) to the Commonwealth, shall take effect on the transition program effective date described in section 6 of Public Law 94–241 \[48 U.S.C. 1806\] (as added by section 702(a)), unless specifically provided otherwise in this subtitle.
+Amendments to the Immigration and Nationality Act.—The amendments to the Immigration andNationality Act \[8 U.S.C. 1101 et seq.\] made by this subtitle \[amending sections 1101, 1158, 1182, 1184, and 1225 of Title 8\], and other provisions of this subtitle applying the immigration laws (as defined in section 101(a)(17) of Immigration and Nationality Act (8 U.S.C. 1101(a)(17))) to the Commonwealth, shall take effect on the transition program effective date described in section 6 of Public Law 94–241 \[48 U.S.C. 1806\] (as added by section 702(a)), unless specifically provided otherwise in this subtitle.
 
 "(c)
 

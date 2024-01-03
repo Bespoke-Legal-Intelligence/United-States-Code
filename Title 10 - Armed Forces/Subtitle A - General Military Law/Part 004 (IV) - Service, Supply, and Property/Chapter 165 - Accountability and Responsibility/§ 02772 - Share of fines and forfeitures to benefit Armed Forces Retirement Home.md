@@ -18,7 +18,7 @@ Determination of Percentage.—The Chief Operating Officer of the Armed Forces R
 
 #### Prior Provisions
 
-A prior section 2772, act Aug. 10, 1956, ch. 1041, 70A Stat. 156, authorized withholding of pay of officers of the Army, Navy, Air Force, or Marine Corps, and is covered by section 1007 of Title 37, Pay and Allowances of the Uniformed Services, prior to repeal by Pub. L. 87–649, §14c(3), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962.
+A prior section 2772, act Aug. 10, 1956, ch. 1041, 70A Stat. 156, authorized withholding of pay of officers ofthe Army, Navy, Air Force, or Marine Corps, and is covered by section 1007 of Title 37, Pay and Allowances of the Uniformed Services, prior to repeal by Pub. L. 87–649, §14c(3), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962.
 
 #### Amendments
 

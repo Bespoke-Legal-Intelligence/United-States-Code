@@ -166,7 +166,7 @@ Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payment
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L. 107–133, set out as a note under section 629 of this title.
+Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if State legislation is required,see section 301 of Pub. L. 107–133, set out as a note under section 629 of this title.
 
 #### Effective Date of 1999 Amendment
 

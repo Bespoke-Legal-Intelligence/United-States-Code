@@ -26,7 +26,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;In the case of a nonelecting TAA-eligible individual and notwithstanding subsection (a), such individual may elect continuation coverage under this part during the 60-day period that begins on the first day of the month in which the individual becomes a TAA-eligible individual, but only if such election is madenot later than 6 months after the date of the TAA-related loss of coverage.
+&emsp;In the case of a nonelecting TAA-eligible individual and notwithstanding subsection (a), such individual may elect continuation coverage under this part during the 60-day period that begins on the first day of the month in which the individual becomes a TAA-eligible individual, but only if such election is made not later than 6 months after the date of the TAA-related loss of coverage.
 
 #### (2) Commencement of coverage; no reach-back
 
@@ -84,7 +84,7 @@ Section 2701 of the Public Health Service Act, referred to in subsec. (b)(3), wa
 
 <b>2002</b>—Pub. L. 107–210 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>1986</b>—Par. (2). Pub. L. 99–514 inserted "of continuation coverage" after "any election" and inserted at end "If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage."
+<b>1986</b>—Par. (2). Pub. L. 99–514 inserted "of continuation coverage" after "any election" and inserted at end "If there is a choice among types of coverage under theplan, each qualified beneficiary is entitled to make a separate selection among such types of coverage."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

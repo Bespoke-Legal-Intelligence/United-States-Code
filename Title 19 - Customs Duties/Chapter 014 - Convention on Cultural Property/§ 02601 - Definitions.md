@@ -200,7 +200,7 @@ Conditions.—The conditions referred to in paragraph (1) are the following:
 
 &emsp;"(3)
 
-Action.—If the President grants a waiver under this subsection, the specified archaeological or ethnological material of Syria that is the subject of such waiver shall be placed in the temporary custody of the United States Government or in the temporary custody of a cultural or educational institution within the United States for the purpose of protection,restoration, conservation, study, or exhibition, without profit.
+Action.—If the President grants a waiver under this subsection, the specified archaeological or ethnological material of Syria that is the subject of such waiver shall be placed in the temporary custody of the United States Government or in the temporary custody of a cultural or educational institution within the United States for the purpose of protection, restoration, conservation, study, or exhibition, without profit.
 
 &emsp;"(4)
 
@@ -224,7 +224,7 @@ Archaeological or ethnological material of syria.—The term 'archaeological or 
 
 #### "SEC. 4. REPORT.
 
-"Not later than 1 year after the date of the enactment of this Act \[May 9, 2016\], and annually thereafter for the next 6 years, the President shall submit to the appropriate congressional committees a report on the efforts of the executive branch, during the 12-month period preceding the submission of the report, to protect and preserve international cultural property, including—
+"Not later than 1 year after the date of the enactment of this Act \[May 9, 2016\], and annually thereafterfor the next 6 years, the President shall submit to the appropriate congressional committees a report on the efforts of the executive branch, during the 12-month period preceding the submission of the report, to protect and preserve international cultural property, including—
 
 &emsp;"(1) whether an interagency coordinating committee as described in section 2 has been established and, if such a committee has been established, a description of the activities undertaken by such committee, including a list of the entities participating in such activities;
 

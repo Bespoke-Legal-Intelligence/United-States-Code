@@ -30,7 +30,7 @@ For purposes of this section:
 
 #### (3) No preemption
 
-Nothing in paragraph (1) or any provision of the Patient Protection and Affordable Care Act (Public Law 111–148), title I or subtitle B of title II of the Health Care and Education Reconciliation Act of 2010 (Public Law 111–152), or title XVIII or XIX of the Social Security Act (42 U.S.C. 1395 et seq., 42 U.S.C. 1396 et seq.) shall be construed to preempt any State or common law governing medical professional or medical product liability actions or claims.
+Nothing in paragraph (1) or any provision of the Patient Protection and Affordable Care Act (Public Law 111–148), title I or subtitle B of titleII of the Health Care and Education Reconciliation Act of 2010 (Public Law 111–152), or title XVIII or XIX of the Social Security Act (42 U.S.C. 1395 et seq., 42 U.S.C. 1396 et seq.) shall be construed to preempt any State or common law governing medical professional or medical product liability actions or claims.
 
 (Pub. L. 114–10, title I, §106(d), Apr. 16, 2015, 129 Stat. 142.)
 

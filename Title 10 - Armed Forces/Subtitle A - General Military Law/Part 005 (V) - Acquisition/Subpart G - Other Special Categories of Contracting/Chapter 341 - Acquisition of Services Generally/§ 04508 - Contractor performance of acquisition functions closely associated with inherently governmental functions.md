@@ -20,7 +20,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "head of an agency" does not include the Secretary of Homeland Security or the Administrator of the National Oceanic and Atmospheric Administration.
 
-&emsp;(2) The term "inherently governmental functions" has the meaning given such term in subpart 7.5 of part 7 of the Federal Acquisition Regulation.
+&emsp;(2) The term "inherently governmental functions" has the meaning given such term insubpart 7.5 of part 7 of the Federal Acquisition Regulation.
 
 &emsp;(3) The term "functions closely associated with inherently governmental functions" means the functions described in section 7.503(d) of the Federal Acquisition Regulation.
 
@@ -38,7 +38,7 @@ A prior section 4508, acts Aug. 10, 1956, ch. 1041, 70A Stat. 253; Nov. 2, 1966,
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2383 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 116–283, §1856(i), which directed striking out "has the meaning given in section 2302(1) of this title, except that such term", was executed bystriking out "has the meaning given such term in section 2302(1) of this title, except that such term" before "does not include", to reflect the probable intent of Congress.
+Subsec. (b)(1). Pub. L. 116–283, §1856(i), which directed striking out "has the meaning given in section 2302(1) of this title, except that such term", was executed by striking out "has the meaning given such term in section 2302(1) of this title, except that such term" before "does not include", to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

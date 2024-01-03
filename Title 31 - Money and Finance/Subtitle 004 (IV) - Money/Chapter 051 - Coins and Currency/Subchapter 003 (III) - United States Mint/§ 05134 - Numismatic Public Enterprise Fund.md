@@ -30,7 +30,7 @@ Secretary.—The term "Secretary" means the Secretary of the Treasury.
 
 (b)
 
-Establishment of Fund.—There is hereby established in the Treasury of the United States a revolving Numismatic Public Enterprise Fundconsisting of amounts deposited in the fund <sup>1</sup> under subsection (c)(2) of this section or section 221(b) of the United States Mint Reauthorization and Reform Act of 1992 which shall be available to the Secretary for numismatic operations and programs of the United States Mint without fiscal year limitation.
+Establishment of Fund.—There is hereby established in the Treasury of the United States a revolving Numismatic Public Enterprise Fund consisting of amounts deposited in the fund <sup>1</sup> under subsection (c)(2) of this section or section 221(b) of the United States Mint Reauthorization and Reform Act of 1992 which shall be available to the Secretary for numismatic operations and programs of the United States Mint without fiscal year limitation.
 
 (c)
 
@@ -308,7 +308,7 @@ The date of enactment of the Treasury, Postal Service, and General Government Ap
 
 <b>2003</b>—Subsec. (c)(4), (5). Pub. L. 108–15, §103(d)(2), redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: "For purposes of paragraph (1), any expense incurred by the Secretary in connection with the Citizens Commemorative Coin Advisory Committee established under section 5135 shall be treated as an expense incurred for numismatic operations and programs which is an ordinary and reasonable incident of the numismatic business."
 
-Subsec. (f)(1). Pub. L. 108–15, §201(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "Notwithstanding any other provisionof law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund to any designated recipient organization unless—
+Subsec. (f)(1). Pub. L. 108–15, §201(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "Notwithstanding any other provision of law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund to any designated recipient organization unless—
 
 &emsp;"(A) all numismatic operation and program costs allocable to the program under which such numismatic item is produced and sold have been recovered; and
 

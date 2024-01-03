@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Volunteer Income Tax Assistance Matching Grant Program
 
-The Secretary shall establish a Community Volunteer Income Tax Assistance Matching Grant Program under which the Secretary may, subject to the availability of appropriated funds, make grants to provide matching funds for the development, expansion, or continuation of qualified return preparation programs assistingapplicable taxpayers and members of underserved populations.
+The Secretary shall establish a Community Volunteer Income Tax Assistance Matching Grant Program under which the Secretary may, subject to the availability of appropriated funds, make grants to provide matching funds for the development, expansion, or continuation of qualified return preparation programs assisting applicable taxpayers and members of underserved populations.
 
 #### (b) Use of funds
 

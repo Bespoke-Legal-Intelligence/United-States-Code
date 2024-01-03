@@ -16,7 +16,7 @@
 
 (2) Each plan under paragraph (1) shall make available clinically proven substance abuse treatment methods, including opioid substitution therapy, to veterans with respect to whom a qualified medical professional has determined such treatment methods to be appropriate.
 
-(Added Pub. L. 96–22, title I, §104(a), June 13, 1979, 93 Stat. 50, §620A; amended Pub. L. 96–128, title V, §501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, §6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, §3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub.L. 99–108, §3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, §1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, §502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 102–54, §14(b)(13), June 13, 1991, 105 Stat. 284; renumbered §1720A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, §103(b), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(b), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §202(b), Nov. 21, 1997, 111 Stat. 2287; Pub. L. 106–117, title I, §114, Nov. 30, 1999, 113 Stat. 1558; Pub. L. 106–419, title IV, §404(a)(4), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–95, §8(c), Dec. 21, 2001, 115 Stat. 920; Pub. L. 116–283, div. A, title IX, §926(a)(25), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 96–22, title I, §104(a), June 13, 1979, 93 Stat. 50, §620A; amended Pub. L. 96–128, title V, §501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, §6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, §3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–108, §3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, §1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, §502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 102–54, §14(b)(13), June 13, 1991, 105 Stat. 284; renumbered §1720A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, §103(b), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(b), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §202(b), Nov. 21, 1997, 111 Stat. 2287; Pub. L. 106–117, title I, §114, Nov. 30, 1999, 113 Stat. 1558; Pub. L. 106–419, title IV, §404(a)(4), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–95, §8(c), Dec. 21, 2001, 115 Stat. 920; Pub. L. 116–283, div. A, title IX, §926(a)(25), Jan. 1, 2021, 134 Stat. 3830.)
 
 #### <b>Editorial Notes</b>
 
@@ -232,7 +232,7 @@ Grant Application.—
 
 &emsp;"(1)
 
-In general.—An eligible entity seeking the award of a grant under this section shall submit to the Secretary an application therefor in such form, in such manner, and containing such commitments and information as the Secretary considers necessary to carry out this section.
+In general.—An eligible entity seeking the award of a grant under this section shall submit tothe Secretary an application therefor in such form, in such manner, and containing such commitments and information as the Secretary considers necessary to carry out this section.
 
 &emsp;"(2)
 
@@ -472,7 +472,7 @@ Findings.—Congress makes the following findings:
 
 "(b)
 
-In General.—Not later than October 1, 2009, the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of providing veterans who seek treatment for substance use disorders access to a computer-based self-assessment, education, and specified treatment program through a secure Internet website operated by the Secretary. Participation in the pilot program shall be available on a voluntary basis for those veterans who have served in Operation Enduring Freedom or Operation Iraqi Freedom.
+In General.—Not later than October 1, 2009, the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of providing veterans who seek treatment for substance use disorders access to a computer-based self-assessment, education, and specified treatment program through a secure Internet website operated by the Secretary. Participation in the pilot program shall beavailable on a voluntary basis for those veterans who have served in Operation Enduring Freedom or Operation Iraqi Freedom.
 
 "(c)
 
@@ -556,7 +556,7 @@ Loan Recipients.—A loan under this section may only be made to a nonprofit org
 
 "(c)
 
-Funding.—Loans under this section shall be made from the special account of the General Post Fund of the Department of Veterans Affairs established for purposes of this section. The amount of such loans outstanding at any time may not exceed $100,000. Amounts received as payment of principal and interest on such loans shall be deposited in that account. Theoperation of the loan program under this section shall be separately accounted for, and shall be separately stated in the documents accompanying the President's budget for each fiscal year.
+Funding.—Loans under this section shall be made from the special account of the General Post Fund of the Department of Veterans Affairs established for purposes of this section. The amount of such loans outstanding at any time may not exceed $100,000. Amounts received as payment of principal and interest on such loans shall be deposited in that account. The operation of the loan program under this section shall be separately accounted for, and shall be separately stated in the documents accompanying the President's budget for each fiscal year.
 
 "(d)
 

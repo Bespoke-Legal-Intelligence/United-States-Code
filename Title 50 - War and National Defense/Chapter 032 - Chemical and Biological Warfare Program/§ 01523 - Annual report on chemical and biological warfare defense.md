@@ -44,7 +44,7 @@ The report shall include information on the following:
 
 &emsp;&emsp;(B) the means by which the Department determines the level of such coordination and support.
 
-(Pub. L. 103–160, div. A, title XVII, §1703, Nov. 30, 1993, 107 Stat. 1854; Pub. L. 105–85, div. A, title X, §1078(f), Nov. 18, 1997, 111 Stat. 1915; Pub. L. 109–364, div. A, title X, §1041, Oct. 17, 2006, 120 Stat. 2390.)
+(Pub. L. 103–160, div. A, title XVII, §1703, Nov. 30, 1993, 107 Stat. 1854; Pub. L. 105–85, div. A, title X,§1078(f), Nov. 18, 1997, 111 Stat. 1915; Pub. L. 109–364, div. A, title X, §1041, Oct. 17, 2006, 120 Stat. 2390.)
 
 #### <b>Editorial Notes</b>
 

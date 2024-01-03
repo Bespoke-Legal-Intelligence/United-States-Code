@@ -34,5 +34,5 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Potential Environmental and Other Risks Contributing to Incidence of Breast Cancer
 
-Pub. L. 103–43, title XIX, §1911, June 10, 1993, 107 Stat. 205, provided that Director of the National Cancer Institute, in collaboration with Director of the National Institute of Environmental Health Sciences, was to conduct case-control study to assess biological markers of environmental and other potential risk factors contributing to incidence of breast cancer in specified counties in State of New York and northeastern United States that had highest age-adjusted mortality rate of such cancer, and to report results of such study to Congress not later than 30 months after June 10, 1993.
+Pub. L. 103–43, title XIX, §1911, June 10, 1993, 107 Stat. 205, provided that Director of the National Cancer Institute, in collaboration with Director of the NationalInstitute of Environmental Health Sciences, was to conduct case-control study to assess biological markers of environmental and other potential risk factors contributing to incidence of breast cancer in specified counties in State of New York and northeastern United States that had highest age-adjusted mortality rate of such cancer, and to report results of such study to Congress not later than 30 months after June 10, 1993.
 

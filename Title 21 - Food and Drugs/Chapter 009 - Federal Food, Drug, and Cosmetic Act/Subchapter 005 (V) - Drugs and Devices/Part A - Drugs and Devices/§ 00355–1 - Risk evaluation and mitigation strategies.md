@@ -148,7 +148,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;The risk evaluation and mitigation strategy for a drug may require that, as applicable, the responsible person develop for distribution to each patient when the drug is dispensed—
 
-&emsp;&emsp;(A) a Medication Guide, as provided for under part 208 of title 21, Code of FederalRegulations (or any successor regulations); and
+&emsp;&emsp;(A) a Medication Guide, as provided for under part 208 of title 21, Code of Federal Regulations (or any successor regulations); and
 
 &emsp;&emsp;(B) a patient package insert, if the Secretary determines that such insert may help mitigate a serious risk of the drug.
 
@@ -314,7 +314,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (i) Timeframe
 
-&emsp;&emsp;&emsp;Unless the dispute resolution process described under paragraph (3) or (4) applies, and, except as provided in clause (ii) or clause (iii) below, the Secretary, in consultation with the offices described in subsection (c)(2), shall review and act on the proposed risk evaluation and mitigation strategy for a drug or any proposed modification to any required strategy within 180 days of receipt of the proposed strategy or modification.
+&emsp;&emsp;&emsp;Unless the dispute resolution process described under paragraph (3) or (4) applies, and, except as provided in clause (ii) or clause (iii) below, the Secretary, in consultation with the offices described in subsection (c)(2), shall review and act on the proposed risk evaluation and mitigationstrategy for a drug or any proposed modification to any required strategy within 180 days of receipt of the proposed strategy or modification.
 
 #### (ii) Minor modifications
 
@@ -500,7 +500,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (3) Shared REMS
 
-&emsp;If the Secretary approves, in accordance with paragraph (1)(C)(i)(II), a different, comparable aspect of the elements to assure safe use under subsection (f) for a drug that is thesubject of an abbreviated new drug application under section 355(j) of this title, the Secretary may require that such different comparable aspect of the elements to assure safe use can be used with respect to any other drug that is the subject of an application under section 355(j) or 355(b) of this title that references the same listed drug.
+&emsp;If the Secretary approves, in accordance with paragraph (1)(C)(i)(II), a different, comparable aspect of the elements to assure safe use under subsection (f) for a drug that is the subject of an abbreviated new drug application under section 355(j) of this title, the Secretary may require that such different comparable aspect of the elements to assure safe use can be used with respect to any other drug that is the subject of an application under section 355(j) or 355(b) of this title that references the same listed drug.
 
 #### (j) Drug Safety Oversight Board
 
@@ -562,7 +562,7 @@ Subsec. (i)(1)(C). Pub. L. 116–94, §610(f)(2), added subpar. (C) and struck o
 
 &emsp;"(ii) an aspect of the elements to assure safe use for the applicable listed drug is claimed by a patent that has not expired or is a method or process that, as a trade secret, is entitled to protection, and the applicant for the abbreviated new drug application certifies that it has sought a license for use of an aspect of the elements to assure safe use for the applicable listed drug and that it was unable to obtain a license.
 
-> A certification under clause (ii) shall include a description of the efforts made by the applicant for the abbreviated new drug application to obtain a license. In a case described in clause (ii), the Secretary may seek to negotiate a voluntary agreement with the owner of the patent, method, or process for a license under which the applicant for such abbreviated new drug applicationmay use an aspect of the elements to assure safe use, if required under subsection (f) for the applicable listed drug, that is claimed by a patent that has not expired or is a method or process that as a trade secret is entitled to protection."
+> A certification under clause (ii) shall include a description of the efforts made by the applicant for the abbreviated new drug application to obtain a license. In a case described in clause (ii), the Secretary may seek to negotiate a voluntary agreement with the owner of the patent, method, or process for a license under which the applicant for such abbreviated new drug application may use an aspect of the elements to assure safe use, if required under subsection (f) for the applicable listed drug, that is claimed by a patent that has not expired or is a method or process that as a trade secret is entitled to protection."
 
 Subsec. (i)(3). Pub. L. 116–94, §610(f)(3), added par. (3).
 
@@ -606,7 +606,7 @@ Subsec. (g)(2)(C). Pub. L. 112–144, §1132(a)(2)(B), substituted "an assessmen
 
 &emsp;"(ii) an element under subsection (f) should be modified or included in the strategy; or".
 
-Subsec. (g)(2)(D). Pub. L. 112–144, §1132(a)(2)(C), struck out subpar. (D) which read as follows: "within 15 days when ordered by the Secretary, in consultation with the offices described in subsection (c)(2), if the Secretary determines that there may be a cause for action by the Secretary under section 355(e) of this title."
+Subsec. (g)(2)(D). Pub. L. 112–144, §1132(a)(2)(C), struck out subpar. (D) which read as follows: "within 15 days when ordered by the Secretary, in consultation withthe offices described in subsection (c)(2), if the Secretary determines that there may be a cause for action by the Secretary under section 355(e) of this title."
 
 Subsec. (g)(3). Pub. L. 112–144, §1132(a)(3), substituted "for a drug shall include, with respect to each goal included in the strategy, an assessment of the extent to which the approved strategy, including each element of the strategy, is meeting the goal or whether 1 or more such goals or such elements should be modified." for "for a drug shall include—" and struck out subpars. (A) to (C) which related to assessment of elements to assure safe use, postapproval studies, and postapproval clinical trials.
 
@@ -684,7 +684,7 @@ Statement To Accompany Guidelines and Recommendations.—The Commissioner of Foo
 
 &emsp;"(1) are intended to help inform clinical decisionmaking by prescribers and patients; and
 
-&emsp;"(2) are not intended to be used for the purposes of restricting, limiting, delaying, or denying coverage for, or access to, a prescription issued for a legitimate medical purpose by an individual practitioner acting in the usual course of professional practice."
+&emsp;"(2) are not intended to be used for the purposes of restricting, limiting, delaying, or denying coveragefor, or access to, a prescription issued for a legitimate medical purpose by an individual practitioner acting in the usual course of professional practice."
 
 #### Prescriber Education
 

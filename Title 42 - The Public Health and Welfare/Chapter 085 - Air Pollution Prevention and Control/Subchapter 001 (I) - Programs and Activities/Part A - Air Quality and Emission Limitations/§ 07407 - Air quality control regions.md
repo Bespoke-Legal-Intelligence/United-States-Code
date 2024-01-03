@@ -24,7 +24,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 &emsp;&emsp;By such date as the Administrator may reasonably require, but not later than 1 year after promulgation of a new or revised national ambient air quality standard for any pollutant under section 7409 of this title, the Governor of each State shall (and at any other time the Governor of a State deems appropriate the Governor may) submit to the Administrator a list of all areas (or portions thereof) in the State, designating as—
 
-&emsp;&emsp;&emsp;(i) nonattainment, any area that does not meet (or that contributes to ambientair quality in a nearby area that does not meet) the national primary or secondary ambient air quality standard for the pollutant,
+&emsp;&emsp;&emsp;(i) nonattainment, any area that does not meet (or that contributes to ambient air quality in a nearby area that does not meet) the national primary or secondary ambient air quality standard for the pollutant,
 
 &emsp;&emsp;&emsp;(ii) attainment, any area (other than an area identified in clause (i)) that meets the national primary or secondary ambient air quality standard for the pollutant, or
 
@@ -62,7 +62,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 &emsp;(B) No later than 120 days after receiving a notification under subparagraph (A), the Governor shall submit to the Administrator such redesignation, if any, of the appropriate area (or areas) or portion thereof within the State or interstate area, as the Governor considers appropriate.
 
-&emsp;(C) No later than 120 days after the date described in subparagraph (B) (or paragraph (1)(B)(iii)), the Administrator shall promulgate the redesignation, if any, of the area or portion thereof, submitted by the Governor in accordance with subparagraph (B), making such modifications as the Administrator may deem necessary, in the same manner and under the same procedure as is applicable under clause (ii) of paragraph (1)(B), except that the phrase "60 days" shall be substituted for the phrase "120 days" in that clause. If the Governor does not submit, in accordance with subparagraph (B), a redesignation for an area\(or portion thereof) identified by the Administrator under subparagraph (A), the Administrator shall promulgate such redesignation, if any, that the Administrator deems appropriate.
+&emsp;(C) No later than 120 days after the date described in subparagraph (B) (or paragraph (1)(B)(iii)), the Administrator shall promulgate the redesignation, if any, of the area or portion thereof, submitted by the Governor in accordance with subparagraph (B), making such modifications as the Administrator may deem necessary, in the same manner and under the same procedure as is applicable under clause (ii) of paragraph (1)(B), except that the phrase "60 days" shall be substituted for the phrase "120 days" in that clause. If the Governor does not submit, in accordance with subparagraph (B), a redesignation for an area (or portion thereof) identified by the Administrator under subparagraph (A), the Administrator shall promulgate such redesignation, if any, that the Administrator deems appropriate.
 
 &emsp;(D) The Governor of any State may, on the Governor's own motion, submit to the Administrator a revised designation of any area or portion thereof within the State. Within 18 months of receipt of a complete State redesignation submittal, the Administrator shall approve or deny such redesignation. The submission of a redesignation by a Governor shall not affect the effectiveness or enforceability of the applicable implementation plan for the State.
 
@@ -84,7 +84,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 #### (A) Ozone and carbon monoxide
 
-&emsp;&emsp;(i) Within 120 days after November 15, 1990, each Governor of each State shall submit to the Administrator a list that designates, affirms or reaffirms the designation of, or redesignates (as the case may be), all areas (or portions thereof) of the Governor's State as attainment, nonattainment, or unclassifiable with respect to the national ambient air quality standards for ozone and carbon monoxide.
+&emsp;&emsp;(i) Within 120 days after November 15, 1990, each Governor of each State shall submit to the Administrator a list that designates, affirms or reaffirms the designation of, or redesignates (as the case may be), all areas (or portions thereof) of the Governor's State asattainment, nonattainment, or unclassifiable with respect to the national ambient air quality standards for ozone and carbon monoxide.
 
 &emsp;&emsp;(ii) No later than 120 days after the date the Governor is required to submit the list of areas (or portions thereof) required under clause (i) of this subparagraph, the Administrator shall promulgate such designations, making such modifications as the Administrator may deem necessary, in the same manner, and under the same procedure, as is applicable under clause (ii) of paragraph (1)(B), except that the phrase "60 days" shall be substituted for the phrase "120 days" in that clause. If the Governor does not submit, in accordance with clause (i) of this subparagraph, a designation for an area (or portion thereof), the Administrator shall promulgate the designation that the Administrator deems appropriate.
 
@@ -98,7 +98,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 &emsp;&emsp;By operation of law, until redesignation by the Administrator pursuant to paragraph (3)—
 
-&emsp;&emsp;&emsp;(i) each area identified in 52 Federal Register 29383 (Aug. 7, 1987) as a Group I area (except to the extent that such identification was modified by the Administratorbefore November 15, 1990) is designated nonattainment for PM–10;
+&emsp;&emsp;&emsp;(i) each area identified in 52 Federal Register 29383 (Aug. 7, 1987) as a Group I area (except to the extent that such identification was modified by the Administrator before November 15, 1990) is designated nonattainment for PM–10;
 
 &emsp;&emsp;&emsp;(ii) any area containing a site for which air quality monitoring data show a violation of the national ambient air quality standard for PM–10 before January 1, 1989 (as determined under part 50, appendix K of title 40 of the Code of Federal Regulations) is hereby designated nonattainment for PM–10; and
 
@@ -114,7 +114,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 #### (A) Submission
 
-&emsp;&emsp;Notwithstanding any other provision of law, not later than February 15, 2004, the Governor of each State shall submit designations referred to in paragraph (1) for the July 1997 PM<sub>2.5</sub> national ambient air quality standards for each area within the State, based on air quality monitoring data collected in accordance with any applicable Federal reference methods for the relevant areas.
+&emsp;&emsp;Notwithstanding any other provision of law, not later than February 15, 2004, the Governor of each State shall submit designations referred to in paragraph (1) for the July 1997 PM<sub>2.5</sub> national ambient air quality standards for each area within the State,based on air quality monitoring data collected in accordance with any applicable Federal reference methods for the relevant areas.
 
 #### (B) Promulgation
 
@@ -238,7 +238,7 @@ Field Study.—Not later than 2 years after the date of enactment of the SAFETEA
 
 #### Pending Actions and Proceedings
 
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L.95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

@@ -6,7 +6,7 @@ In General.—To support the medical readiness of the armed forces and the readi
 
 (b)
 
-Medical Centers.—(1) The Secretary of Defense shall maintain medical centers in areas with a large population of members of the armed forces and covered beneficiaries.
+Medical Centers.—(1) The Secretary of Defense shall maintain medical centers in areaswith a large population of members of the armed forces and covered beneficiaries.
 
 (2) Medical centers shall serve as referral facilities for members and covered beneficiaries who require comprehensive health care services that support medical readiness.
 
@@ -174,7 +174,7 @@ Subsec. (f). Pub. L. 117–263, §715, added subsec. (f).
 
 #### Deadline
 
-Pub. L. 117–263, div. A, title VII, §713(b), Dec. 23, 2022, 136 Stat. 2658, provided that: "The Secretary of Defense shall designate certain major medical centers as regional centers of excellence in accordance with section 1073d(b)(4)(A) of title 10, United States Code, as added by subsection (a), by not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\]."
+Pub. L. 117–263, div. A, title VII, §713(b), Dec. 23, 2022, 136 Stat. 2658, provided that: "The Secretary of Defenseshall designate certain major medical centers as regional centers of excellence in accordance with section 1073d(b)(4)(A) of title 10, United States Code, as added by subsection (a), by not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\]."
 
 #### Timeline for Establishment
 
@@ -244,7 +244,7 @@ Pub. L. 114–328, div. A, title VII, §703(b), (e), Dec. 23, 2016, 130 Stat. 21
 
 "(b)
 
-Exception.—In carrying out section 1073d of title 10, United States Code, as added by subsection (a)(1),the Secretary of Defense may not restructure or realign the infrastructure of, or modify the health care services provided by, a military medical treatment facility unless the Secretary determines that, if such a restructure, realignment, or modification will eliminate the ability of a covered beneficiary to access health care services at a military medical treatment facility, the covered beneficiary will be able to access such health care services through the purchased care component of the TRICARE program."
+Exception.—In carrying out section 1073d of title 10, United States Code, as added by subsection (a)(1), the Secretary of Defense may not restructure or realign the infrastructure of, or modify the health care services provided by, a military medical treatment facility unless the Secretary determines that, if such a restructure, realignment, or modification will eliminate the ability of a covered beneficiary to access health care services at a military medical treatment facility, the covered beneficiary will be able to access such health care services through the purchased care component of the TRICARE program."
 
 "(e)
 

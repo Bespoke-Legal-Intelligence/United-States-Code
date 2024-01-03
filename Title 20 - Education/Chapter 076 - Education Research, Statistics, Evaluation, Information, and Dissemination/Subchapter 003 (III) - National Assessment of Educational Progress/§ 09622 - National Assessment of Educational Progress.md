@@ -42,7 +42,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 &emsp;&emsp;&emsp;(iii) may conduct State academic assessments of student achievement in grades 4, 8, and 12 as described in paragraph (2)(D); and
 
-&emsp;&emsp;&emsp;(iv) shall conduct each such State assessment, in each subject area and at each grade level, on a developmental basis until the Commissioner for Education Statistics determines, as the result of an evaluation required by subsection (f), that such assessment produces high quality data that are valid and reliable.
+&emsp;&emsp;&emsp;(iv) shall conduct each such State assessment, in each subject area and at eachgrade level, on a developmental basis until the Commissioner for Education Statistics determines, as the result of an evaluation required by subsection (f), that such assessment produces high quality data that are valid and reliable.
 
 #### (B) Agreement
 
@@ -106,7 +106,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (B) Timeline
 
-&emsp;&emsp;The access described in this paragraph shall be provided within 45 days of the datethe request was made, in writing, and be made available in a secure setting that is convenient to both parties.
+&emsp;&emsp;The access described in this paragraph shall be provided within 45 days of the date the request was made, in writing, and be made available in a secure setting that is convenient to both parties.
 
 #### (C) Prohibition
 
@@ -329,10 +329,6 @@ Subsec. (f)(3). Pub. L. 107–279, §401(d)(2), substituted "Assessment Board" f
 Pub. L. 107–279, §401(d)(1), substituted "Commissioner for Education Statistics" for "Commissioner" in two places.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2002 Amendment
 

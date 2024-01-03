@@ -22,7 +22,7 @@ In general.—There is authorized to be appropriated to the Secretary to carry o
 
 &emsp;(2)
 
-Availability.—Any amounts made available for a fiscal year under paragraph (1) that are not used during that fiscal year shall be available for use under this section during any subsequent fiscal year.
+Availability.—Any amounts made available for a fiscal year under paragraph (1) thatare not used during that fiscal year shall be available for use under this section during any subsequent fiscal year.
 
 (Added Pub. L. 117–328, div. DD, title VI, §643(a), Dec. 29, 2022, 136 Stat. 5613.)
 

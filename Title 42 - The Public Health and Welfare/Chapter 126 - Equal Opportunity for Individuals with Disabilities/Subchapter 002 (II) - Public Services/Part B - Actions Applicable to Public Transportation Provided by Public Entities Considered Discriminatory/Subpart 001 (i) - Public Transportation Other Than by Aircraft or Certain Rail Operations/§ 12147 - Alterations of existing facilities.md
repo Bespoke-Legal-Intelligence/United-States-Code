@@ -18,7 +18,7 @@ With respect to alterations of an existing facility or part thereof used in the 
 
 #### (B) Extension for extraordinarily expensive structural changes
 
-&emsp;&emsp;The Secretary may extend the 3-year period under subparagraph (A) up to a 30-yearperiod for key stations in a rapid rail or light rail system which stations need extraordinarily expensive structural changes to, or replacement of, existing facilities; except that by the last day of the 20th year following July 26, 1990, at least 2/3 of such key stations must be readily accessible to and usable by individuals with disabilities.
+&emsp;&emsp;The Secretary may extend the 3-year period under subparagraph (A) up to a 30-year period for key stations in a rapid rail or light rail system which stations need extraordinarily expensive structural changes to, or replacement of, existing facilities; except that by the last day of the 20th year following July 26, 1990, at least 2/3 of such key stations must be readily accessible to and usable by individuals with disabilities.
 
 #### (3) Plans and milestones
 

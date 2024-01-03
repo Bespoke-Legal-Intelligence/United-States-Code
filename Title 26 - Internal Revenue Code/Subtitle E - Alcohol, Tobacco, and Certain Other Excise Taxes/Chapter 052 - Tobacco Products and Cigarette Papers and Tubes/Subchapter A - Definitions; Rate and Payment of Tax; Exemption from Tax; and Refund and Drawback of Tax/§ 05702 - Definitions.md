@@ -50,7 +50,7 @@ When used in this chapter—
 
 #### (j) Removal or remove
 
-"Removal" or "remove" means the removal of tobacco products or cigarette papers or tubes, orany processed tobacco, from the factory or from internal revenue bond under section 5704, as the Secretary shall by regulation prescribe, or release from customs custody, and shall also include the smuggling or other unlawful importation of such articles into the United States.
+"Removal" or "remove" means the removal of tobacco products or cigarette papers or tubes, or any processed tobacco, from the factory or from internal revenue bond under section 5704, as the Secretary shall by regulation prescribe, or release from customs custody, and shall also include the smuggling or other unlawful importation of such articles into the United States.
 
 #### (k) Importer
 
@@ -214,7 +214,7 @@ Pub. L. 111–3, title VII, §702(d)(2), Feb. 4, 2009, 123 Stat. 110, provided t
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §315(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644, provided that: "Theamendments made by this section \[amending this section, section 5761 of this title, and provisions set out as a note under section 5701 of this title\] shall take effect as if included in section 9302 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\]."
+Pub. L. 106–554, §1(a)(7) \[title III, §315(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644, provided that: "The amendments made by this section \[amending this section, section 5761 of this title, and provisions set out as a note under section 5701 of this title\] shall take effect as if included in section 9302 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\]."
 
 #### Effective Date of 1997 Amendment
 

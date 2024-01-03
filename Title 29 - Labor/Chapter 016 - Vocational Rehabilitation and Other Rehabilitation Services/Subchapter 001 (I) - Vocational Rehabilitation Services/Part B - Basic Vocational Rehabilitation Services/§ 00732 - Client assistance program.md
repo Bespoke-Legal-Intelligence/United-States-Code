@@ -14,7 +14,7 @@ No State may receive payments from its allotment under this chapter in any fisca
 
 #### (c) Designation of agency to conduct program
 
-(1)(A) The Governor shall designate a public or private agency to conduct the client assistance program under this section. Except as provided in the last sentence of this subparagraph, the Governor shall designate an agency which is independent of any agency which provides treatment, services, or rehabilitation to individuals under this chapter. If there is an agency in the State which has, or had, prior to February 22, 1984, served as a client assistance agency under this section and which received Federal financial assistance under this chapter, the Governor may, in the initial designation, designate an agency which provides treatment, services, or rehabilitation to individuals with disabilities under this chapter.
+(1)(A) The Governor shall designate a public or private agency to conduct the client assistance program under this section. Except as provided in the last sentence of this subparagraph, the Governor shall designate an agency which is independent of any agency which provides treatment, services, or rehabilitation to individuals under this chapter. If there is an agency in theState which has, or had, prior to February 22, 1984, served as a client assistance agency under this section and which received Federal financial assistance under this chapter, the Governor may, in the initial designation, designate an agency which provides treatment, services, or rehabilitation to individuals with disabilities under this chapter.
 
 (B)(i) The Governor may not redesignate the agency designated under subparagraph (A) without good cause and unless—
 
@@ -60,7 +60,7 @@ The agency designated under subsection (c) of this section may not bring any cla
 
 &emsp;(II) The term "protection and advocacy system" means a protection and advocacy system established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.).
 
-(F) For any fiscal year for which the amount appropriated under subsection (h) equals or exceeds $14,000,000, the Secretary may reserve not less than 1.8 percent and not more than 2.2 percent of such amount to provide a grant for training and technical assistance for the programs established under this section. Such training and technical assistance shall be coordinatedwith activities provided under section 794e(c)(1)(A) of this title.
+(F) For any fiscal year for which the amount appropriated under subsection (h) equals or exceeds $14,000,000, the Secretary may reserve not less than 1.8 percent and not more than 2.2 percent of such amount to provide a grant for training and technical assistance for the programs established under this section. Such training and technical assistance shall be coordinated with activities provided under section 794e(c)(1)(A) of this title.
 
 (2) The amount of an allotment to a State for a fiscal year which the Secretary determines will not be required by the State during the period for which it is available for the purpose for which allotted shall be available for reallotment by the Secretary at appropriate times to other States with respect to which such a determination has not been made, in proportion to the original allotments of such States for such fiscal year, but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use during such period, and the total of such reduction shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any such amount so reallotted to a State for a fiscal year shall be deemed to be a part of its allotment for such fiscal year.
 
@@ -126,7 +126,7 @@ Another prior section 740, Pub. L. 93–112, title I, §120, Sept. 26, 1973, 87 
 
 Subsec. (b). Pub. L. 113–128, §421(2), struck out "not later than October 1, 1984," after "has in effect" in introductory provisions.
 
-Subsec. (e)(1)(A). Pub. L. 113–128, §421(3)(A), substituted "After reserving funds under subparagraphs\(E) and (F), the Secretary shall allot the remainder of" for "The Secretary shall allot".
+Subsec. (e)(1)(A). Pub. L. 113–128, §421(3)(A), substituted "After reserving funds under subparagraphs (E) and (F), the Secretary shall allot the remainder of" for "The Secretary shall allot".
 
 Subsec. (e)(1)(E), (F). Pub. L. 113–128, §421(3)(B), added subpars. (E) and (F).
 

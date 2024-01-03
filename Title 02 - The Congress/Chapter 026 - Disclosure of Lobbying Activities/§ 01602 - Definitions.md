@@ -202,7 +202,7 @@ As used in this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act" meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act" meaning Pub. L. 104–65, Dec. 19, 1995, 109Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 Levels I, II, III, IV, and V of the Executive Schedule, referred to in par. (3)(D), are set out in sections 5312, 5313, 5314, 5315, and 5316, respectively, of Title 5, Government Organization and Employees.
 

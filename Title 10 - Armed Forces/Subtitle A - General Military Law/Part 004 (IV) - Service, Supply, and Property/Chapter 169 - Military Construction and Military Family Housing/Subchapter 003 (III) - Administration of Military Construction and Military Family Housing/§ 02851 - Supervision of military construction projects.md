@@ -40,7 +40,7 @@ Maintenance of Military Construction Information on Internet; Access.—(1) The 
 
 &emsp;(G) For accounts such as planning and design, unspecified minor construction, and family housing operation and maintenance, detailed information regarding expenditures and anticipated expenditures under these accounts and the purposes for which the expenditures are made.
 
-(3) The information required to be provided for each project described in paragraph (1) shall be made available on the Internet site required by such paragraph not later than 90 days after the award of a contract or delivery order for the project. The Secretary of Defense shall update the required information as promptly as practicable, but not less frequently than once amonth, to ensure that the information is available in a timely manner.
+(3) The information required to be provided for each project described in paragraph (1) shall be made available on the Internet site required by such paragraph not later than 90 days after the award of a contract or delivery order for the project. The Secretary of Defense shall update the required information as promptly as practicable, but not less frequently than once a month, to ensure that the information is available in a timely manner.
 
 (d)
 
@@ -108,5 +108,5 @@ Pub. L. 109–163, div. B, title XXVIII, §2803(b), Jan. 6, 2006, 119 Stat. 3506
 
 #### Identification of Requirements To Reduce Backlog in Maintenance and Repair of Defense Facilities
 
-Pub. L. 106–398, §1 \[\[div. A\], title III, §374\], Oct. 30, 2000, 114 Stat. 1654, 1654A–81, which required the Secretary of Defense to submit to Congress, not later than March 15, 2001, a report identifying a list of requirements to reduce the backlog in maintenance and repair needs of facilities and infrastructure under the jurisdiction of the Department of Defense or a military department, which report was to be updated annually, was repealed by Pub. L. 112–81, div. A, title X, §1062(i)(1), Dec. 31, 2011, 125 Stat. 1585.
+Pub. L. 106–398, §1 \[\[div. A\], title III, §374\], Oct. 30, 2000, 114 Stat. 1654, 1654A–81, which required the Secretary of Defense to submit to Congress, not later than March 15, 2001, a report identifying a list of requirements to reduce the backlog in maintenance and repairneeds of facilities and infrastructure under the jurisdiction of the Department of Defense or a military department, which report was to be updated annually, was repealed by Pub. L. 112–81, div. A, title X, §1062(i)(1), Dec. 31, 2011, 125 Stat. 1585.
 

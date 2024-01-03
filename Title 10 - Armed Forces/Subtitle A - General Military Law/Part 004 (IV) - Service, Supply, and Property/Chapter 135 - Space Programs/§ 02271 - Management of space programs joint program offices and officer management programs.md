@@ -24,6 +24,134 @@ A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to com
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Use of Middle Tier Acquisition Program for Proliferated Warfighter Space Architecture of the Space Development Agency
+
+Pub. L. 118–31, div. A, title XVI, §1608, Dec. 22, 2023, 137 Stat. 587, provided that:
+
+"(a)
+
+In General.—The Director of the Space Development Agency shall use a middle tier acquisition program for the rapid fielding of satellites and associated systems for each of the following tranches of the of the \[sic\] proliferated warfighter space architecture of the Agency:
+
+&emsp;"(1) Tranch \[sic\] 1.
+
+&emsp;"(2) Tranch \[sic\] 2.
+
+&emsp;"(3) Tranch \[sic\] 3.
+
+"(b)
+
+Rapid Prototyping and Fielding.—Any tranche of satellites or associated systems developed and fielded under subsection (a) shall have a level of maturity that allows such satellites or systems to be rapidly prototyped within an acquisition program or rapidly fielded within five years of the development of an approved requirement for such satellites or systems.
+
+"(c)
+
+Designation as Major Capability Acquisition.—
+
+&emsp;"(1)
+
+In general.—The Under Secretary of Defense for Acquisition and Sustainment may designate a tranche described in subsection (a) as a major capability acquisition program consistent with Department of Defense Instruction 5000.85, titled 'Major Capability Acquisition' and issued on August 6, 2020 (or a successor instruction).
+
+&emsp;"(2)
+
+Notice to congress.—Not later than 90 days before the date on which a designation under paragraph (1) is made, the Under Secretary of Defense for Acquisition and Sustainment shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the intent of the Under Secretary to make such designation and include with such notice a justification for such designation.
+
+"(d)
+
+Space Acquisition Council Review and Waiver.—
+
+&emsp;"(1)
+
+Review.—In accordance with section 9021 of title 10, United States Code, the Space Acquisition Council shall review each tranch described subsection (a) to ensure integration across the national security space enterprise.
+
+&emsp;"(2)
+
+Waiver.—The Space Acquisition Council may waive the requirements of subsection (a) with respect to a tranch or portion of a tranch described in such subsection if the Council—
+
+&emsp;&emsp;"(A) on the basis of the review conducted under paragraph (1), determines that the use of a middle tier acquisition program is not warranted for such tranch or portion thereof; and
+
+&emsp;&emsp;"(B) not later than 14 days after making such determination, submits to the congressional defense committees notice of the intent of the Council to issue such a waiver.
+
+"(e)
+
+Middle Tier Acquisition Program Defined.—In this section, the term 'middle tier acquisition program' means an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3201 note prec.) in a manner consistent with Department of Defense Instruction 5000.80, titled 'Operation of the Middle Tier of Acquisition (MTA)' and issued on December 30, 2019 (or a successor instruction)."
+
+#### Matters Relating to Space-Based Ground and Airborne Moving Target Indication Systems
+
+Pub. L. 118–31, div. A, title XVI, §1684, Dec. 22, 2023, 137 Stat. 618, provided that:
+
+"(a)
+
+In General.—The Secretary of the Air Force shall be responsible for presenting space-based ground and airborne moving target indication systems to the combatant commands to accomplish missions assigned to such commands under the Unified Command Plan that—
+
+&emsp;"(1) are primarily or fully funded by the Department of Defense; and
+
+&emsp;"(2) provide near real-time, direct support to satisfy the operational requirements of such commands.
+
+"(b)
+
+Milestone Decision Authority.—The Secretary of the Air Force, in consultation with the Director of National Intelligence, shall be milestone decision authority (as defined in section 4204 of title 10, United States Code) for Milestone A approval (as defined in section 4211 of such title) for space-related acquisition programs for ground and airborne moving target indication systems described in subsection (a) that are primarily or fully funded within the military intelligence program.
+
+"(c)
+
+Working Group.—
+
+&emsp;"(1)
+
+Establishment.—Not later than 90 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense shall establish a working group, to be known as the 'Moving Target Indication Working Group' (referred to in this section as the 'working group').
+
+&emsp;"(2)
+
+Responsibilities.—The working group shall be responsible for—
+
+&emsp;&emsp;"(A) addressing Department of Defense joint service requirements for moving target indication systems;
+
+&emsp;&emsp;"(B) monitoring the cost, schedule, and performance of all efforts to replace the tactical intelligence, surveillance, and reconnaissance capability that is provided, as of the date of enactment of this Act, by the Joint Surveillance Target Attack Radar System; and
+
+&emsp;&emsp;"(C) developing the processes and procedures for tasking, collection, processing, exploitation, and dissemination of the data collected by moving target indication systems.
+
+&emsp;"(3)
+
+Membership.—
+
+&emsp;&emsp;"(A)
+
+In general.—The working group shall be composed of members selected by the Secretary of Defense as follows:
+
+&emsp;&emsp;&emsp;"(i) One member of the Space Force and one member of the Joint Staff each of whom shall serve as a co-chair of the working group.
+
+&emsp;&emsp;&emsp;"(ii) One representative of each of the following:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) The Army.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) The Navy.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) The Marine Corps.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) The Air Force.
+
+&emsp;&emsp;"(B)
+
+Congressional notification.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a list of the members selected to serve on the working group pursuant to subparagraph (A).
+
+&emsp;"(4)
+
+Briefing requirements.—
+
+&emsp;&emsp;"(A)
+
+Initial briefing.—Not later than 120 days after the date of the enactment of this Act, the co-chairs of the working group shall provide to the congressional defense committees a briefing on—
+
+&emsp;&emsp;&emsp;"(i) any capabilities development documents developed by the working group that are either approved by, or in development for, the Joint Requirements Oversight Council; and
+
+&emsp;&emsp;&emsp;"(ii) any progress of the working group towards developing processes and procedures for tasking, collection, processing, exploitation, and dissemination of data collected by future moving target indication systems.
+
+&emsp;&emsp;"(B)
+
+Biannual briefings.—Not less frequently than biannually following the initial briefing under subparagraph (A), the working group shall provide to the congressional defense committees a briefing on the status of any moving target indication programs under development by the Department of Defense as of the date of the briefing.
+
+&emsp;&emsp;"(C)
+
+Sunset.—The requirement to provide briefings under this paragraph shall terminate on the date that is five years after the date of the enactment of this Act."
+
 #### Allied Responsive Space Capabilities
 
 Pub. L. 117–263, div. A, title XVI, §1606, Dec. 23, 2022, 136 Stat. 2931, provided that:
@@ -86,7 +214,7 @@ Classification Review.—The Secretary of Defense shall—
 
 "(b)
 
-Coordination.—The Secretary shall carry out the review under subsection (a)(1) in coordination withthe Assistant Secretary of Defense for Space Policy and, as the Secretary determines appropriate, the heads of other elements of the Department of Defense.
+Coordination.—The Secretary shall carry out the review under subsection (a)(1) in coordination with the Assistant Secretary of Defense for Space Policy and, as the Secretary determines appropriate, the heads of other elements of the Department of Defense.
 
 "(c)
 
@@ -95,6 +223,62 @@ Report.—Not later than 60 days after the date on which the Secretary completes
 &emsp;"(1) the timeline for implementing such change or declassification; and
 
 &emsp;"(2) any risks that exist in implementing such change or declassification."
+
+#### Space Policy Review
+
+Pub. L. 117–81, div. A, title XVI, §1611, Dec. 27, 2021, 135 Stat. 2081, as amended by Pub. L. 118–31, div. A, title XVI, §1605, Dec. 22, 2023, 137 Stat. 586, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense, in consultation with the Director of National Intelligence, shall carry out a review of the space policy of the Department of Defense.
+
+"(b)
+
+Elements.—The review under subsection (a) shall include the following:
+
+&emsp;"(1) With respect to the five-year period following the date of the review, an assessment of the threat to the space operations of the United States and the allies of the United States.
+
+&emsp;"(2) An assessment of the national security objectives of the Department relating to space.
+
+&emsp;"(3) An evaluation of the policy changes and funding necessary to accomplish such objectives during such five-year period.
+
+&emsp;"(4) An assessment of the policy of the Department with respect to deterring, responding to, and countering threats to the space operations of the United States and the allies of the United States.
+
+&emsp;"(5) An analysis of such policy with respect to normative behaviors in space, including the commercial use of space.
+
+&emsp;"(6) An analysis of the extent to which such policy is coordinated with other ongoing policy reviews, including reviews regarding nuclear, missile defense, and cyber operations.
+
+&emsp;"(7) A description of the organization and space doctrine of the Department to carry out the space policy of the Department.
+
+&emsp;"(8) An assessment of the space systems and architectures to implement such space policy.
+
+&emsp;"(9) Any other matters the Secretary considers appropriate.
+
+"(c)
+
+Report.—
+
+&emsp;"(1)
+
+Requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary, in consultation with the Director, shall submit to the appropriate congressional committees a report on the results of the review under subsection (a).
+
+&emsp;"(2)
+
+Updates.—The Secretary shall provide for updates to the assessments, analyses, and evaluations carried out pursuant to such review. The Secretary shall submit to the appropriate congressional committees a report on any such updates concurrently with the National Defense Strategy required to be submitted to Congress under section 113(g) of title 10, United States Code.
+
+&emsp;"(3)
+
+Form.—Each report under this subsection shall be submitted in unclassified form, but may include a classified annex.
+
+"(d)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means the following:
+
+&emsp;"(1) The congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
+
+&emsp;"(2) The Committee on Science, Space, and Technology and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;"(3) The Committee on Commerce, Science, and Transportation and the Select Committee on Intelligence of the Senate."
 
 #### Commercial Space Domain Awareness Capabilities
 
@@ -212,7 +396,7 @@ Procedures.—The Secretary of the Air Force shall ensure that the satellite des
 
 &emsp;"(5)
 
-Withholding of funds.—The amount equal to 10 percent of the total amount authorized to be appropriated to the Office of the Secretary of Air Force for the travel of persons under the Operations and Maintenance, Defense-Wide account shall be withheld from obligation or expenditure until the date on which a contract is awarded for the procurement of the satellite described in paragraph (1).
+Withholding of funds.—The amount equal to 10 percent of the total amount authorized to be appropriated to the Office of the Secretary of Air Forcefor the travel of persons under the Operations and Maintenance, Defense-Wide account shall be withheld from obligation or expenditure until the date on which a contract is awarded for the procurement of the satellite described in paragraph (1).
 
 "(b)
 
@@ -554,7 +738,7 @@ Pub. L. 111–383, div. A, title IX, §911, Jan. 7, 2011, 124 Stat. 4328, as ame
 
 #### Space Protection Strategy
 
-Pub. L. 110–181, div. A, title IX, §911(a)–(f), Jan. 28, 2008, 122 Stat. 279, 280, as amended by Pub. L. 113–66,div. A, title IX, §912(c), Dec. 26, 2013, 127 Stat. 824; Pub. L. 113–291, div. A, title X, §1071(d)(1)(B), title XVI, §1606(e), Dec. 19, 2014, 128 Stat. 3509, 3625; Pub. L. 115–232, div. A, title VIII, §813(b)(1), Aug. 13, 2018, 132 Stat. 1851, provided that:
+Pub. L. 110–181, div. A, title IX, §911(a)–(f), Jan. 28, 2008, 122 Stat. 279, 280, as amended by Pub. L. 113–66, div. A, title IX, §912(c), Dec. 26, 2013, 127 Stat. 824; Pub. L. 113–291, div. A, title X, §1071(d)(1)(B), title XVI, §1606(e), Dec. 19, 2014, 128 Stat. 3509, 3625; Pub. L. 115–232, div. A, title VIII, §813(b)(1), Aug. 13, 2018, 132 Stat. 1851, provided that:
 
 "(a)
 
@@ -562,7 +746,7 @@ Sense of Congress.—It is the Sense of Congress that the United States should p
 
 "(b)
 
-Strategy.—The Secretary of Defense, in conjunction with the Director of National Intelligence, shall develop a strategy, to be known as the Space Protection Strategy, for the development and fielding by the United States of the capabilities that are necessary to ensure freedom of action in space for the United States.
+Strategy.—The Secretary of Defense, in conjunction with the Director of National Intelligence,shall develop a strategy, to be known as the Space Protection Strategy, for the development and fielding by the United States of the capabilities that are necessary to ensure freedom of action in space for the United States.
 
 "(c)
 

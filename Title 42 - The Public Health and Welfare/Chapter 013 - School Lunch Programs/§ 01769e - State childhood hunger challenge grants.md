@@ -142,7 +142,7 @@ In determining the range of projects and defining selection criteria under this 
 
 #### (C) Altering nutrition assistance program requirements
 
-&emsp;&emsp;No project that makes use of, alters, or coordinates with the supplemental nutrition assistance program may be funded under this section unless the project is fully consistent with the project requirements described in section 17(b)(1)(B) of the Food and Nutrition Act of 2008 (7 U.S.C. 2026(b)(1)(B)).
+&emsp;&emsp;No project that makes use of, alters, or coordinates with the supplemental nutritionassistance program may be funded under this section unless the project is fully consistent with the project requirements described in section 17(b)(1)(B) of the Food and Nutrition Act of 2008 (7 U.S.C. 2026(b)(1)(B)).
 
 #### (D) Other benefits
 
@@ -173,6 +173,10 @@ The Emergency Food Assistance Act of 1983, referred to in subsec. (g)(3)(D)(iv),
 A prior section 1769e, act June 4, 1946, ch. 281, §24, as added Nov. 10, 1989, Pub. L. 101–147, title I, §112, 103 Stat. 890, related to nutrition guidance for child nutrition programs, prior to repeal by Pub. L. 104–193, title VII, §712, Aug. 22, 1996, 110 Stat. 2301.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date
 

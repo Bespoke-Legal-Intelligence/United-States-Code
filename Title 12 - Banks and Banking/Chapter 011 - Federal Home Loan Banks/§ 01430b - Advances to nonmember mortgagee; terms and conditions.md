@@ -12,7 +12,7 @@ An advance made to a State housing finance agency for the purpose of facilitatin
 
 &emsp;(2) such advance meets the requirements of section 1430(a) of this title, and any real estate collateral for such loan comprises single family or multifamily residential mortgages.
 
-(July 22, 1932, ch. 522, §10b, as added May 25, 1935, ch. 150, §7, 49 Stat. 295; amended Pub. L. 101–73, title VII, §701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 102–550, title XIII, §1392(b), Oct. 28, 1992, 106 Stat. 4009; Pub. L. 110–289, div. A, title II, §1204(8), July 30, 2008, 122 Stat. 2786.)
+(July 22, 1932, ch. 522, §10b, as added May 25, 1935, ch. 150, §7, 49 Stat. 295; amended Pub. L. 101–73,title VII, §701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 102–550, title XIII, §1392(b), Oct. 28, 1992, 106 Stat. 4009; Pub. L. 110–289, div. A, title II, §1204(8), July 30, 2008, 122 Stat. 2786.)
 
 #### <b>Editorial Notes</b>
 

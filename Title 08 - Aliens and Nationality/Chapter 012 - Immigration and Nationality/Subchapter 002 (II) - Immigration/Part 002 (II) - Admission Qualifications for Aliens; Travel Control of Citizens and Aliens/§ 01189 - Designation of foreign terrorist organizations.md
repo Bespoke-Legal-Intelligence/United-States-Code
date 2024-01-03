@@ -32,7 +32,7 @@
 
 #### (C) Freezing of assets
 
-&emsp;&emsp;Upon notification under paragraph (2)(A)(i), the Secretary of the Treasury may require United States financial institutions possessing or controlling any assets of any foreign organization included in the notification to block all financial transactions involving those assets until further directive from either the Secretary of the Treasury, Act of Congress, or order of court.
+&emsp;&emsp;Upon notification under paragraph (2)(A)(i), the Secretary of the Treasury mayrequire United States financial institutions possessing or controlling any assets of any foreign organization included in the notification to block all financial transactions involving those assets until further directive from either the Secretary of the Treasury, Act of Congress, or order of court.
 
 #### (3) Record
 
@@ -54,7 +54,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall review the designation of a foreign terrorist organizationunder the procedures set forth in clauses (iii) and (iv) if the designated organization files a petition for revocation within the petition period described in clause (ii).
+&emsp;&emsp;&emsp;The Secretary shall review the designation of a foreign terrorist organization under the procedures set forth in clauses (iii) and (iv) if the designated organization files a petition for revocation within the petition period described in clause (ii).
 
 #### (ii) Petition period
 
@@ -200,7 +200,7 @@ Another section 411(c) of Pub. L. 107–56 enacted provisions set out as an Effe
 
 <b>2004</b>—Subsec. (a)(3)(B). Pub. L. 108–458, §7119(c)(1)(A), substituted "subsection (c)" for "subsection (b)".
 
-Subsec. (a)(4)(A). Pub. L. 108–458, §7119(a)(1), substituted "A designation" for "Subject to paragraphs (5) and (6), a designation" and "until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c)" for "for a period of 2 years beginning on the effective date of the designation under paragraph (2)(B)".
+Subsec. (a)(4)(A). Pub. L. 108–458, §7119(a)(1), substituted "A designation" for "Subject to paragraphs (5)and (6), a designation" and "until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c)" for "for a period of 2 years beginning on the effective date of the designation under paragraph (2)(B)".
 
 Subsec. (a)(4)(B). Pub. L. 108–458, §7119(a)(2), added subpar. (B) and struck out former subpar. (B) which contained provisions authorizing Secretary to redesignate a foreign organization as a foreign terrorist organization for an additional 2-year period at the end of the 2-year period referred to in subpar. (A) or at the end of any 2-year redesignation period.
 
@@ -218,7 +218,7 @@ Subsec. (b). Pub. L. 108–458, §7119(b)(2), added subsec. (b). Former subsec. 
 
 Subsec. (c). Pub. L. 108–458, §7119(b)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (c)(1). Pub. L. 108–458, §7119(c)(2)(A), substituted "in the Federal Register of a designation, an amended designation, or a determination in response toa petition for revocation, the designated organization may seek judicial review" for "of the designation in the Federal Register, an organization designated as a foreign terrorist organization may seek judicial review of the designation".
+Subsec. (c)(1). Pub. L. 108–458, §7119(c)(2)(A), substituted "in the Federal Register of a designation, an amended designation, or a determination in response to a petition for revocation, the designated organization may seek judicial review" for "of the designation in the Federal Register, an organization designated as a foreign terrorist organization may seek judicial review of the designation".
 
 Subsec. (c)(2) to (4). Pub. L. 108–458, §7119(c)(2)(B)–(D), inserted ", amended designation, or determination in response to a petition for revocation" after "designation" wherever appearing.
 

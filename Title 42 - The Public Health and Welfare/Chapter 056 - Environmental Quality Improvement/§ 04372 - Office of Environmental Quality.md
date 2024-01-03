@@ -6,7 +6,7 @@ There is established in the Executive Office of the President an office to be kn
 
 #### (b) Compensation of Deputy Director
 
-The compensation of the Deputy Director shall be fixed by the President at a rate not in excess of the annual rate of compensation payable to the Deputy Director of the Office of Management and Budget.
+The compensation of the Deputy Director shall be fixed by the President at a rate not inexcess of the annual rate of compensation payable to the Deputy Director of the Office of Management and Budget.
 
 #### (c) Employment of personnel, experts, and consultants; compensation
 
@@ -46,7 +46,7 @@ The General Schedule, referred to in subsec. (c), is set out under section 5332 
 
 #### Codification
 
-In subsec. (e), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (e), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

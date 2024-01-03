@@ -34,7 +34,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (B) Eligibility policies
 
-&emsp;&emsp;Medicaid and CHIP eligibility policies, including a determination of the degree to which Federal and State policies provide health care coverage to needy populations.
+&emsp;&emsp;Medicaid and CHIP eligibility policies, including a determination of the degree towhich Federal and State policies provide health care coverage to needy populations.
 
 #### (C) Enrollment and retention processes
 
@@ -76,7 +76,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (A) Certain secretarial reports
 
-&emsp;&emsp;If the Secretary submits to Congress (or a committee of Congress) a report that is required by law and that relates to access policies, including with respect to payment policies, under Medicaid or CHIP, the Secretary shall transmit a copy of the report to MACPAC. MACPAC shall review the reportand, not later than 6 months after the date of submittal of the Secretary's report to Congress, shall submit to the appropriate committees of Congress and the Secretary written comments on such report. Such comments may include such recommendations as MACPAC deems appropriate.
+&emsp;&emsp;If the Secretary submits to Congress (or a committee of Congress) a report that is required by law and that relates to access policies, including with respect to payment policies, under Medicaid or CHIP, the Secretary shall transmit a copy of the report to MACPAC. MACPAC shall review the report and, not later than 6 months after the date of submittal of the Secretary's report to Congress, shall submit to the appropriate committees of Congress and the Secretary written comments on such report. Such comments may include such recommendations as MACPAC deems appropriate.
 
 #### (B) Regulations
 
@@ -102,7 +102,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 &emsp;&emsp;&emsp;&emsp;(II) Data relating to the amount and sources of hospitals' uncompensated care costs, including the amount of such costs that are the result of providing unreimbursed or under-reimbursed services, charity care, or bad debt.
 
-&emsp;&emsp;&emsp;&emsp;(III) Data identifying hospitals with high levels of uncompensated care that also provide access to essential community services for low-income, uninsured, and vulnerable populations, such as graduate medical education, and the continuum of primary through quarternary care, including the provision of trauma care and public health services.
+&emsp;&emsp;&emsp;&emsp;(III) Data identifying hospitals with high levels of uncompensated care that also provide access to essential community services for low-income, uninsured,and vulnerable populations, such as graduate medical education, and the continuum of primary through quarternary care, including the provision of trauma care and public health services.
 
 &emsp;&emsp;&emsp;&emsp;(IV) State-specific analyses regarding the relationship between the most recent State DSH allotment and the projected State DSH allotment for the succeeding year and the data reported under subclauses (I), (II), and (III) for the State.
 
@@ -138,7 +138,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (B) Information sharing
 
-&emsp;&emsp;MACPAC and MedPAC shall have access to deliberations and records of the other suchentity, respectively, upon the request of the other such entity.
+&emsp;&emsp;MACPAC and MedPAC shall have access to deliberations and records of the other such entity, respectively, upon the request of the other such entity.
 
 #### (12) Consultation with States
 
@@ -346,7 +346,7 @@ Reliance on Law.—With respect to amendments made by this Act (other than title
 
 &emsp;"(1) such amendments are effective as of such date whether or not regulations implementing such amendments have been issued; and
 
-&emsp;"(2) Federal financial participation for medical assistance or child health assistance furnished undertitle XIX or XXI, respectively, of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\] on or after such date by a State in good faith reliance on such amendments before the date of promulgation of final regulations, if any, to carry out such amendments (or before the date of guidance, if any, regarding the implementation of such amendments) shall not be denied on the basis of the State's failure to comply with such regulations or guidance."
+&emsp;"(2) Federal financial participation for medical assistance or child health assistance furnished under title XIX or XXI, respectively, of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\] on or after such date by a State in good faith reliance on such amendments before the date of promulgation of final regulations, if any, to carry out such amendments (or before the date of guidance, if any, regarding the implementation of such amendments) shall not be denied on the basis of the State's failure to comply with such regulations or guidance."
 
 #### Purpose
 

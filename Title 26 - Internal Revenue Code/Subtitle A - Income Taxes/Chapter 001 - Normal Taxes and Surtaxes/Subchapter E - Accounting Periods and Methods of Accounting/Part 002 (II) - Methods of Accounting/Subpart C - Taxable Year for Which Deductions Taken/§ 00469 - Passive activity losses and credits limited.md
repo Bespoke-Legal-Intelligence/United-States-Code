@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (B) Income in subsequent years
 
-&emsp;&emsp;If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, then any net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity. If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.
+&emsp;&emsp;If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, thenany net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity. If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.
 
 #### (4) Material participation not required for paragraphs (2) and (3)
 
@@ -236,7 +236,7 @@ If during the taxable year a taxpayer disposes of his entire interest in any pas
 
 #### (C) Income from prior years
 
-&emsp;&emsp;To the extent provided in regulations, income or gain from the activity for preceding taxable years shall be taken into account under subparagraph (A)(ii) for the taxable year to the extent necessary to prevent the avoidance of this section.
+&emsp;&emsp;To the extent provided in regulations, income or gain from the activity for precedingtaxable years shall be taken into account under subparagraph (A)(ii) for the taxable year to the extent necessary to prevent the avoidance of this section.
 
 #### (2) Disposition by death
 
@@ -436,7 +436,7 @@ For purposes of this section—
 
 #### (9) Election to increase basis of property by amount of disallowed credit
 
-&emsp;For purposes of determining gain or loss from a disposition of any property to which subsection (g)(1) applies, the transferor may elect to increase the basis of such property immediately before the transfer by an amount equal to the portion of any unused credit allowable under this chapter which reduced the basis of such property for the taxable year in which such credit arose. If the taxpayer elects the application of this paragraph, such portion of the passive activity credit of such taxpayer shall not be allowed for any taxable year.
+&emsp;For purposes of determining gain or loss from a disposition of any property to whichsubsection (g)(1) applies, the transferor may elect to increase the basis of such property immediately before the transfer by an amount equal to the portion of any unused credit allowable under this chapter which reduced the basis of such property for the taxable year in which such credit arose. If the taxpayer elects the application of this paragraph, such portion of the passive activity credit of such taxpayer shall not be allowed for any taxable year.
 
 #### (10) Coordination with section 280A
 
@@ -704,7 +704,7 @@ Pub. L. 103–66, title XIII, §13143(c), Aug. 10, 1993, 107 Stat. 441, provided
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(16) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(b)(16) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (asdefined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -724,7 +724,7 @@ Amendment by section 1005(a)(1)–(9), (11), (12) of Pub. L. 100–647 effective
 
 Amendment by section 2004(g) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
-Amendment by section 6009(c)(3) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1989,see section 6009(d) of Pub. L. 100–647, set out as a note under section 86 of this title.
+Amendment by section 6009(c)(3) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1989, see section 6009(d) of Pub. L. 100–647, set out as a note under section 86 of this title.
 
 #### Effective Date of 1987 Amendment
 

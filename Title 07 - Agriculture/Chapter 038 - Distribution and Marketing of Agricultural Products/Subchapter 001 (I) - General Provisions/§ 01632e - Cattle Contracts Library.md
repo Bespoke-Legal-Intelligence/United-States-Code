@@ -4,7 +4,9 @@ There is hereby appropriated $1,000,000, to remain available until September 30,
 
 (Pub. L. 117–103, div. A, title VII, §779, Mar. 15, 2022, 136 Stat. 100.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2022, and also as part of the Consolidated Appropriations Act, 2022, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
+Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2022, and also as part of the Consolidated Appropriations Act, 2022, andnot as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
 

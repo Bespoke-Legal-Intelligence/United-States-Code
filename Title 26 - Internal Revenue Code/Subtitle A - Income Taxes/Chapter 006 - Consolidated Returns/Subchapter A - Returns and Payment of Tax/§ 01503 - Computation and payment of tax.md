@@ -46,7 +46,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (1) In general
 
-&emsp;Solely for purposes of determining gain or loss on the disposition of intragroup stock and the amount of any inclusion by reason of an excess loss account, in determining the adjustments to the basis of such intragroup stock on account of the earnings and profits of any member of an affiliated group for any consolidated year (and in determining the amount in such account)—
+&emsp;Solely for purposes of determining gain or loss on the disposition of intragroup stock and the amount of any inclusion by reason of anexcess loss account, in determining the adjustments to the basis of such intragroup stock on account of the earnings and profits of any member of an affiliated group for any consolidated year (and in determining the amount in such account)—
 
 &emsp;&emsp;(A) such earnings and profits shall be determined as if section 312 were applied for such taxable year (and all preceding consolidated years of the member with respect to such group) without regard to subsections (k) and (n) thereof, and
 
@@ -144,7 +144,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (4) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the provisions of this subsection, including regulations—
+&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate tocarry out the provisions of this subsection, including regulations—
 
 &emsp;&emsp;(A) to prevent the avoidance of this subsection through the transfer of built-in losses to the subsidiary,
 
@@ -332,7 +332,7 @@ Amendment by Pub. L. 86–780 applicable to taxable years beginning after Dec. 3
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 <i><sup>1</sup></i><i> Subsec. (a) heading editorially supplied.</i>
 

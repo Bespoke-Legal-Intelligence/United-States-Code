@@ -114,7 +114,7 @@ As used in this chapter, the term—
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–34 amended section catchline and text generally, restating certain definitions, adding new definitions, and striking out definitions of "alter", "container", "institute", "original equipment manufacturer", "private label distributor", and "standards and specifications".
+<b>1999</b>—Pub. L. 106–34 amended section catchline and text generally, restating certain definitions, addingnew definitions, and striking out definitions of "alter", "container", "institute", "original equipment manufacturer", "private label distributor", and "standards and specifications".
 
 <b>1996</b>—Par. (1)(B). Pub. L. 104–113, §11(b)(1), struck out "having a minimum tensile strength of 150,000 pounds per square inch" after "fasteners".
 

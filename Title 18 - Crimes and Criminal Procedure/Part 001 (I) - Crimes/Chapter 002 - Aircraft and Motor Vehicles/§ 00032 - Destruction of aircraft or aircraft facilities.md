@@ -34,7 +34,7 @@
 
 (c) Whoever willfully imparts or conveys any threat to do an act which would violate any of paragraphs (1) through (6) of subsection (a) or any of paragraphs (1) through (3) of subsection (b) of this section, with an apparent determination and will to carry the threat into execution shall be fined under this title or imprisoned not more than five years, or both.
 
-(Added July 14, 1956, ch. 595, §1, 70 Stat. 539; amended Pub. L. 98–473, title II, §2013(b), Oct. 12, 1984, 98 Stat. 2187; Pub. L. 100–690, title VII, §7016, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–322, title XXXIII, §330016(1)(O), (S), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title VII, §§721(b), 723(a)(1), Apr. 24, 1996, 110 Stat. 1298, 1300; Pub. L. 109–177, title I, §123, Mar. 9, 2006, 120 Stat. 226.)
+(Added July 14, 1956, ch. 595, §1, 70 Stat. 539; amended Pub. L. 98–473, title II, §2013(b), Oct. 12, 1984, 98 Stat. 2187; Pub. L. 100–690, title VII,§7016, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–322, title XXXIII, §330016(1)(O), (S), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title VII, §§721(b), 723(a)(1), Apr. 24, 1996, 110 Stat. 1298, 1300; Pub. L. 109–177, title I, §123, Mar. 9, 2006, 120 Stat. 226.)
 
 #### <b>Editorial Notes</b>
 

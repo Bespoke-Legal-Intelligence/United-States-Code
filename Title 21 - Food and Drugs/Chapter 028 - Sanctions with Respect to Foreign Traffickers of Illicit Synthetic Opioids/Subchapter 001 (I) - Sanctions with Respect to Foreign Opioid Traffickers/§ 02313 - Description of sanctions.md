@@ -66,7 +66,7 @@ A person that violates, attempts to violate, conspires to violate, or causes a v
 
 &emsp;Sanctions under this section shall not apply with respect to—
 
-&emsp;&emsp;(A) any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.); or
+&emsp;&emsp;(A) any activity subject to the reporting requirements under title V of the NationalSecurity Act of 1947 (50 U.S.C. 3091 et seq.); or
 
 &emsp;&emsp;(B) any authorized intelligence or law enforcement activities of the United States.
 

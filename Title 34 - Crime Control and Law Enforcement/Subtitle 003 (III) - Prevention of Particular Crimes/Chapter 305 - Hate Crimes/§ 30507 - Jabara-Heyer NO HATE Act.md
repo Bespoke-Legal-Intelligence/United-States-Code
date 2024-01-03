@@ -12,7 +12,7 @@ Congress finds the following:
 
 &emsp;(2) According to data obtained by the Federal Bureau of Investigation, the incidence of such violence increased in 2019, the most recent year for which data is available.
 
-&emsp;(3) In 1990, Congress enacted the Hate Crime Statistics Act (Public Law 101–275; 28 U.S.C. 534 note) <sup>1</sup> to provide the Federal Government, law enforcement agencies, and the public with data regarding the incidence of hate crime. The Hate Crime Statistics Act and the Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act (division E of Public Law 111–84; 123 Stat. 2835) <sup>1</sup> have enabled Federal authorities to understand and, where appropriate, investigate and prosecute hate crimes.
+&emsp;(3) In 1990, Congress enacted the Hate Crime Statistics Act (Public Law 101–275; 28 U.S.C. 534 note) <sup>1</sup> to provide the Federal Government, law enforcement agencies, and the public with data regarding the incidence of hate crime. The Hate Crime Statistics Act and the Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act (division E of PublicLaw 111–84; 123 Stat. 2835) <sup>1</sup> have enabled Federal authorities to understand and, where appropriate, investigate and prosecute hate crimes.
 
 &emsp;(4) A more complete understanding of the national problem posed by hate crime is in the public interest and supports the Federal interest in eradicating bias-motivated violence referenced in section 249(b)(1)(C) of title 18.
 
@@ -284,7 +284,7 @@ In this section:
 
 The Hate Crime Statistics Act, referred to in subsecs. (b)(3) and (g)(1)(A), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which was set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification as section 41305 of this title, and as provisions set out as a note under section 41305 of this title.
 
-The Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act, referred to in subsec. (b)(3), is division E of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2835. For complete classification of this Act, see Short Title of 2009 Act note set out under section 10101 of this title and Tables.
+The Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act, referred to in subsec. (b)(3), is division E of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2835. For complete classification of this Act to the Code, see Short Title of 2009 Act note set out under section 10101 of this title and Tables.
 
 #### Codification
 

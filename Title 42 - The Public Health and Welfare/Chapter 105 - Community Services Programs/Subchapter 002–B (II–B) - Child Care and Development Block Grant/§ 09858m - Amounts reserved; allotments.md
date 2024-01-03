@@ -54,7 +54,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The allotment percentage for a State is determined by dividing the per capita incomeof all individuals in the United States, by the per capita income of all individuals in the State.
+&emsp;&emsp;The allotment percentage for a State is determined by dividing the per capita income of all individuals in the United States, by the per capita income of all individuals in the State.
 
 #### (B) Limitations
 
@@ -130,7 +130,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if the use will result in a decrease in the level of child care services provided by the Indian tribe or tribalorganization as compared to the level of child care services provided by the Indian tribe or tribal organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if the use will result in a decrease in the level of child care services provided by the Indian tribe or tribal organization as compared to the level of child care services provided by the Indian tribe or tribal organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made.
 
 #### (ii) Waiver
 

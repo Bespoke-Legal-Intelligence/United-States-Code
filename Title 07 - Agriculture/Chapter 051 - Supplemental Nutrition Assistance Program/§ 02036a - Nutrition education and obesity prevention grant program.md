@@ -2,7 +2,7 @@
 
 #### (a) Definition of eligible individual
 
-In this section, the term "eligible individual" means an individual who is eligible to receive benefits under a nutrition education and obesity prevention program under this section as a result of being—
+In this section, the term "eligible individual" means an individual who is eligible to receivebenefits under a nutrition education and obesity prevention program under this section as a result of being—
 
 &emsp;(1) an individual eligible for benefits under—
 
@@ -104,7 +104,7 @@ Consistent with the terms and conditions of grants awarded under this section, S
 
 #### (6) Information clearinghouse
 
-&emsp;The Secretary shall establish an online clearinghouse that makes available to State agencies, local agencies, institutions of higher education, and community organizations best practices for planning, implementing, and evaluating nutrition education and obesity prevention services to ensure that projects carried out with funds received under this section are appropriate for the target population.
+&emsp;The Secretary shall establish an online clearinghouse that makes available to State agencies, local agencies, institutions of higher education, and community organizations best practices for planning, implementing, andevaluating nutrition education and obesity prevention services to ensure that projects carried out with funds received under this section are appropriate for the target population.
 
 #### (7) Technical assistance
 
@@ -214,7 +214,7 @@ Consistent with the terms and conditions of grants awarded under this section, S
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the Secretary determines that a State agency will not expend all of the funds allocated to the State agency for a fiscal year under paragraph (1) or in the case of a State agency that elects not to receivethe entire amount of funds allocated to the State agency for a fiscal year, the Secretary shall reallocate the unexpended funds to other States during the fiscal year or the subsequent fiscal year (as determined by the Secretary) that have approved State plans under which the State agencies may expend the reallocated funds.
+&emsp;&emsp;&emsp;If the Secretary determines that a State agency will not expend all of the funds allocated to the State agency for a fiscal year under paragraph (1) or in the case of a State agency that elects not to receive the entire amount of funds allocated to the State agency for a fiscal year, the Secretary shall reallocate the unexpended funds to other States during the fiscal year or the subsequent fiscal year (as determined by the Secretary) that have approved State plans under which the State agencies may expend the reallocated funds.
 
 #### (ii) Effect of additional funds
 

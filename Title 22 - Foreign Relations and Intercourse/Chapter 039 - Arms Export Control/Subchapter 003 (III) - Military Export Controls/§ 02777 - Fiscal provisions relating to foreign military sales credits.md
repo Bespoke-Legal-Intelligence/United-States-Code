@@ -2,7 +2,7 @@
 
 #### (a) Permissible uses of cash payments under sections 2761, 2762, 2763, and 2769
 
-Cash payments received under sections 2761, 2762, and 2769 of this title and advances receivedunder section 2763 of this title shall be available solely for payments to suppliers (including the military departments) and refunds to purchasers and shall not be available for financing credits and guaranties.
+Cash payments received under sections 2761, 2762, and 2769 of this title and advances received under section 2763 of this title shall be available solely for payments to suppliers (including the military departments) and refunds to purchasers and shall not be available for financing credits and guaranties.
 
 #### (b) Transfer of funds to miscellaneous receipts of Treasury
 

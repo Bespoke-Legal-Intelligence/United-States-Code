@@ -74,7 +74,7 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 (5)(A) A State which on or before October 1, 1980, had designated, with the approval of the Assistant Secretary, a single planning and service area covering all of the older individuals in the State, in which the State agency was administering the area plan, may after that date designate one or more additional planning and service areas within the State to be administered by public or private nonprofit agencies or organizations as area agencies on aging, after considering the factors specified in subsection (a)(1)(E). The State agency shall continue to perform the functions of an area agency on aging for any area of the State not included in a planning and service area for which an area agency on aging has been designated.
 
-(B) Whenever a State agency designates a new area agency on aging after October 9, 1984, the State agency shall give the right to first refusal to a unit of general purpose local government if\(i) such unit can meet the requirements of subsection (c), and (ii) the boundaries of such a unit and the boundaries of the area are reasonably contiguous.
+(B) Whenever a State agency designates a new area agency on aging after October 9, 1984, the State agency shall give the right to first refusal to a unit of general purpose local government if (i) such unit can meet the requirements of subsection (c), and (ii) the boundaries of such a unit and the boundaries of the area are reasonably contiguous.
 
 (C)(i) A State agency shall establish and follow appropriate procedures to provide due process to affected parties, if the State agency initiates an action or proceeding to—
 
@@ -104,7 +104,7 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 &emsp;(II) procedural grounds.
 
-(iv) In deciding an appeal described in clause (ii)(V), the Assistant Secretary may affirm or set aside the decision of the State agency. If the Assistant Secretary sets aside the decision, and the State agency has taken an action described in subclauses (I) through (III) of clause (i), the State agency shall nullify the action.
+(iv) In deciding an appeal described in clause (ii)(V), the Assistant Secretary may affirm or set aside the decision of the State agency. If theAssistant Secretary sets aside the decision, and the State agency has taken an action described in subclauses (I) through (III) of clause (i), the State agency shall nullify the action.
 
 #### (c) Eligible State area agencies; development of area; preferred area agency on aging designees
 
@@ -144,7 +144,7 @@ A prior section 3025, Pub. L. 89–73, title III, §305, as added Pub. L. 93–2
 
 Another prior section 3025, Pub. L. 89–73, title III, §306, formerly §305, July 14, 1965, 79 Stat. 224; renumbered §306, Pub. L. 91–69, §5, Sept. 17, 1969, 83 Stat. 110, related to payments of grants for State and community programs on aging, adjustments, advances or reimbursement, and installments, prior to repeal by Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 36.
 
-Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §304, as addedPub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 38; Pub. L. 94–135, title I, §§105, 106(c), Nov. 28, 1975, 89 Stat. 715, 716, which was classified to section 3024 of this title prior to repeal by Pub. L. 95–478.
+Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §304, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 38; Pub. L. 94–135, title I, §§105, 106(c), Nov. 28, 1975, 89 Stat. 715, 716, which was classified to section 3024 of this title prior to repeal by Pub. L. 95–478.
 
 #### Amendments
 

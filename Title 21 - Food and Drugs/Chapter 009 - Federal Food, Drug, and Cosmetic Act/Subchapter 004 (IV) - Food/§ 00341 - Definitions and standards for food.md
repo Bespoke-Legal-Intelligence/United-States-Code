@@ -280,5 +280,5 @@ Sec. 3. <i>Specific Activities and Functions</i>. (a) The Council shall develop 
 
 Sec. 4. <i>Cooperation</i>. All actions taken by the Council shall, as appropriate, promote partnerships and cooperation with States, tribes, and other public and private sector efforts wherever possible to improve the safety of the food supply.
 
-Sec. 5. <i>General Provisions</i>. This order is intended only to improve the internal management of the executive branch and is not intended to, nor does it, create any right or benefit, substantive or procedural, enforceableat law by a party against the United States, its agencies, its officers or any person. Nothing in this order shall affect or alter the statutory responsibilities of any Federal agency charged with food safety responsibilities.
+Sec. 5. <i>General Provisions</i>. This order is intended only to improve the internal management of the executive branch and is not intended to, nor does it, create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers or any person. Nothing in this order shall affect or alter the statutory responsibilities of any Federal agency charged with food safety responsibilities.
 

@@ -12,7 +12,7 @@ In the agreement between the Secretary and an owner or operator, the owner or op
 
 &emsp;(5) upon transfer of his right and interest in the lands subject to the agreement during the agreement period, to forfeit all rights to further payments or grants under the agreement and refund to the United States all payments or grants received thereunder during the year of the transfer unless the transferee of any such land agrees with the Secretary to assume all obligations of the agreement;
 
-&emsp;(6) not to adopt any practice specified by the Secretary in the agreement as a practicewhich would tend to defeat the purposes of the agreement; and
+&emsp;(6) not to adopt any practice specified by the Secretary in the agreement as a practice which would tend to defeat the purposes of the agreement; and
 
 &emsp;(7) to such additional provisions as the Secretary determines are desirable and includes in the agreement to effectuate the purposes of the program or to facilitate its administration.
 

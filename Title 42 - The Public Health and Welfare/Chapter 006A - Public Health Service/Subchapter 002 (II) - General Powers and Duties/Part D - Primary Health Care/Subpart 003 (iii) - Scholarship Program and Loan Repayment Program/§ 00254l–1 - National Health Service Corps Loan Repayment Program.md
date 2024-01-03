@@ -20,7 +20,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;&emsp;(i) in an accredited (as determined by the Secretary) educational institution in a State; and
 
-&emsp;&emsp;(ii) in the final year of a course of a study or program, offered by such institution andapproved by the Secretary, leading to a degree in medicine, osteopathic medicine, dentistry, or other health profession;
+&emsp;&emsp;(ii) in the final year of a course of a study or program, offered by such institution and approved by the Secretary, leading to a degree in medicine, osteopathic medicine, dentistry, or other health profession;
 
 &emsp;(2) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps <sup>1</sup> of the Service or be eligible for selection for civilian service in the Corps; and
 
@@ -108,7 +108,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 #### (1) In general
 
-&emsp;A loan repayment provided for an individual under a written contract under the Loan Repayment Program shall consist of payment, in accordance with paragraph (2), on behalf of the individual of the principal, interest, and related expenses on government and commercial loans received by the individual regarding the undergraduate or graduate education of the individual (or both), which loans were made for—
+&emsp;A loan repayment provided for an individual under a written contract under the Loan Repayment Program shall consist of payment, in accordance with paragraph (2), on behalf of the individual of the principal, interest, and related expenses on government and commercialloans received by the individual regarding the undergraduate or graduate education of the individual (or both), which loans were made for—
 
 &emsp;&emsp;(A) tuition expenses;
 
@@ -188,7 +188,7 @@ Subsec. (b)(1). Pub. L. 101–597, §202(b)(1)(A), amended par. (1) generally. P
 
 &emsp;&emsp;"(I) in an accredited (as determined by the Secretary) educational institution in a State; and
 
-&emsp;&emsp;"(II) in the final year of a course of study or program, offered by such institution and approved by the Secretary, leading to a degree in medicine, osteopathic medicine, dentistry, or other health profession; or
+&emsp;&emsp;"(II) in the final year of a course of study or program, offered by such institution and approved bythe Secretary, leading to a degree in medicine, osteopathic medicine, dentistry, or other health profession; or
 
 &emsp;"(ii) in an approved graduate training program in medicine, osteopathic medicine, dentistry, or other health profession; or
 
@@ -234,7 +234,7 @@ Subsec. (f)(2). Pub. L. 101–597, §202(e), inserted before semicolon at end ",
 
 Subsec. (g)(1). Pub. L. 101–597, §202(f)(1), inserted "regarding the undergraduate or graduate education of the individual (or both), which loans were made" after "loans received by the individual".
 
-Subsec. (g)(2)(A). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage areafor reference to health manpower shortage area in cls. (ii) and (iii).
+Subsec. (g)(2)(A). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in cls. (ii) and (iii).
 
 Pub. L. 101–597, §202(f)(2)(A), substituted "For each year" for "Except as provided in subparagraph (B) and paragraph (3), for each year" and "$35,000" for "$20,000", inserted at end "In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—", and added immediately thereafter cls. (i) to (iii).
 
@@ -272,7 +272,7 @@ Pub. L. 101–597, title II, §202(g)(2), Nov. 16, 1990, 104 Stat. 3026, provide
 
 #### Regulations
 
-Pub. L. 100–177, title II, §205, Dec. 1, 1987, 101 Stat. 1003, provided that: "Not later than 180 days after the effective date of the amendments made by this title \[Dec. 21, 1987\], the Secretary of Health and Human Services shall issue regulations for the loan repayment programs established by the amendments \[enacting this section and sections 254q and 254q–1 of this title, amending sections 242a, 254d, 254g, 254h–1, and 254o of this title, and repealing former section 254q of this title\]."
+Pub. L. 100–177, title II, §205, Dec. 1, 1987, 101 Stat. 1003, provided that: "Not later than 180 days after the effective date of the amendments made by this title\[Dec. 21, 1987\], the Secretary of Health and Human Services shall issue regulations for the loan repayment programs established by the amendments \[enacting this section and sections 254q and 254q–1 of this title, amending sections 242a, 254d, 254g, 254h–1, and 254o of this title, and repealing former section 254q of this title\]."
 
 #### Clarification on Current Eligibility for Loan Repayment Programs
 

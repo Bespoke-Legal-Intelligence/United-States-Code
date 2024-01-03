@@ -100,7 +100,7 @@ The availability of disposal capacity for low-level radioactive waste from any s
 
 &emsp;&emsp;&emsp;(i)
 
-July 1, 1986.—The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning on January 15, 1986, and ending June 30, 1986, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(A) is met by the State in which such waste originated.
+July 1, 1986.—The twenty-five per centum of any amount collected by aState under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning on January 15, 1986, and ending June 30, 1986, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(A) is met by the State in which such waste originated.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -252,7 +252,7 @@ January 1, 1990.—The twenty-five per centum of any amount collected by a State
 
 Proprietary information.—
 
-&emsp;&emsp;(i) Trade secrets, proprietary and other confidential information shall be made available to a State under this subsection upon request only if such State—
+&emsp;&emsp;(i) Trade secrets, proprietary and other confidential information shall be madeavailable to a State under this subsection upon request only if such State—
 
 &emsp;&emsp;&emsp;(I) consents in writing to restrict the dissemination of the information to those who are directly involved in monitoring under subparagraph (A) and who have a need to know;
 
@@ -262,7 +262,7 @@ Proprietary information.—
 
 &emsp;&emsp;(ii) The United States shall not be liable for the wrongful disclosure by any individual or State of any information provided to such individual or State under this subsection.
 
-&emsp;&emsp;(iii) Whenever any individual or State has obtained possession of information underthis subsection, the individual shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to an officer or employee of the United States or of any department or agency thereof and the State shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to the United States or any department or agency thereof. No State or State officer or employee who receives trade secrets, proprietary information, or other confidential information under sections 2021b to 2021j of this title may be required to disclose such information under State law.
+&emsp;&emsp;(iii) Whenever any individual or State has obtained possession of information under this subsection, the individual shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to an officer or employee of the United States or of any department or agency thereof and the State shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to the United States or any department or agency thereof. No State or State officer or employee who receives trade secrets, proprietary information, or other confidential information under sections 2021b to 2021j of this title may be required to disclose such information under State law.
 
 #### (g) Nondiscrimination
 

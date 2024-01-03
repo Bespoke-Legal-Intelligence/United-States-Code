@@ -34,7 +34,7 @@ Section 209 of the Social Security Act, referred to in subsec. (c), is classifie
 
 <b>1987</b>—Subsec. (a)(3). Pub. L. 100–202, §101(m) \[title VI, §624(b)(1)\], struck out "the provisions of subsection (b) and" after "subject to".
 
-Subsec. (b). Pub. L. 100–202, §101(m) \[title VI, §624(b)(2)\], added subsec. (b) and struck out former subsec. (b) which consisted of pars. (1) and (2) providingthat subsec. (a)(3) not apply to the Thrift Savings Fund unless the Fund meets the antidiscrimination requirements applicable to arrangements described in section 401(k) of title 26 and to matching contributions.
+Subsec. (b). Pub. L. 100–202, §101(m) \[title VI, §624(b)(2)\], added subsec. (b) and struck out former subsec. (b) which consisted of pars. (1) and (2) providing that subsec. (a)(3) not apply to the Thrift Savings Fund unless the Fund meets the antidiscrimination requirements applicable to arrangements described in section 401(k) of title 26 and to matching contributions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

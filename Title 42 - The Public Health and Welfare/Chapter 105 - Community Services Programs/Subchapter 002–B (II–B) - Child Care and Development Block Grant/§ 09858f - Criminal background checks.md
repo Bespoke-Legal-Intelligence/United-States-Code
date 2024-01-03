@@ -64,7 +64,7 @@ A criminal background check for a child care staff member under subsection (a) s
 
 #### (1) In general
 
-&emsp;A child care provider covered by subsection (c) shall submit a request, to the appropriate State agency designated by a State, for a criminal background check described in subsection (b), for each child care staff member (including prospective child care staff members) of the provider.
+&emsp;A child care provider covered by subsection (c) shall submit a request, to the appropriate State agency designated by a State, for a criminal background check described in subsection (b), for each child care staff member\(including prospective child care staff members) of the provider.
 
 #### (2) Staff members
 

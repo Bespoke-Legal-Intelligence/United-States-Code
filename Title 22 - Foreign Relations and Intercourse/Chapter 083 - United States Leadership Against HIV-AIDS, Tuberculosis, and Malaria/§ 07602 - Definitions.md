@@ -28,7 +28,7 @@ In this chapter:
 
 #### (7) Impact evaluation research
 
-&emsp;The term "impact evaluation research" means the application of research methods and statistical analysis to measure the extent to which change in a population-based outcome can be attributed to program intervention instead of other environmental factors.
+&emsp;The term "impact evaluation research" means the application of research methods and statistical analysis to measure the extentto which change in a population-based outcome can be attributed to program intervention instead of other environmental factors.
 
 #### (8) Operations research
 

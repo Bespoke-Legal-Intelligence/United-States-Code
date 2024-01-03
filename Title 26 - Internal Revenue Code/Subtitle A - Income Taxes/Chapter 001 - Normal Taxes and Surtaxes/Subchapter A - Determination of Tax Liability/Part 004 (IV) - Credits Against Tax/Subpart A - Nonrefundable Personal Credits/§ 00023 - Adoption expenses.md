@@ -22,7 +22,7 @@
 
 #### (1) Dollar limitation
 
-&emsp;The aggregate amount of qualified adoption expenses which may be taken into account under subsection (a) for all taxable years with respect to the adoption of a child by the taxpayer shall not exceed $10,000.
+&emsp;The aggregate amount of qualified adoption expenses which may be taken into accountunder subsection (a) for all taxable years with respect to the adoption of a child by the taxpayer shall not exceed $10,000.
 
 #### (2) Income limitation
 
@@ -118,7 +118,7 @@ In the case of an adoption of a child who is not a citizen or resident of the Un
 
 #### (g) Basis adjustments
 
-For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
+For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shallbe reduced by the amount of the credit so allowed.
 
 #### (h) Adjustments for inflation
 
@@ -184,7 +184,7 @@ Subsec. (c). Pub. L. 109–135, §402(i)(3)(A)(ii), reenacted heading without ch
 
 Pub. L. 109–58, §1335(b)(1), which directed amendment of subsec. (c) by substituting "this section, section 25D, and section 1400C" for "this section and section 1400C", was repealed by Pub. L. 109–135, §402(i)(4). See Effective and Termination Dates of 2005 Amendment notes below.
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–147, §411(c)(1)(A), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: "In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter—
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–147, §411(c)(1)(A), reenacted heading without change and amended text ofpar. (1) generally. Prior to amendment, text read as follows: "In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter—
 
 &emsp;"(A) in the case of an adoption of a child other than a child with special needs, the amount of the qualified adoption expenses paid or incurred by the taxpayer, and
 
@@ -288,7 +288,7 @@ In general.—Except as provided in paragraphs (2) and (3), the amendments made 
 
 "(2)
 
-Repeal of public utility holding company act of 1935.—The amendments made by subsection (a) \[amending sections 121, 246, 247, 1223, 1245, and 1250 of this title and repealing sections 1081 to 1083 of this title\] shall not apply with respect to any transaction ordered in compliance with the Public Utility HoldingCompany Act of 1935 \[15 U.S.C. 79 et seq.\] before its repeal.
+Repeal of public utility holding company act of 1935.—The amendments made by subsection (a) \[amending sections 121, 246, 247, 1223, 1245, and 1250 of this title and repealing sections 1081 to 1083 of this title\] shall not apply with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 \[15 U.S.C. 79 et seq.\] before its repeal.
 
 "(3)
 

@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the term of plant variety protection shall expire 20 years from the date of issue of the certificate in the United States, except that—
+&emsp;Except as provided in paragraph (2), the term of plant variety protection shall expire20 years from the date of issue of the certificate in the United States, except that—
 
 &emsp;&emsp;(A) in the case of a tuber propagated plant variety subject to a waiver granted under section 2402(a)(1)(B)(i) of this title, the term of the plant variety protection shall expire 20 years after the date of the original grant of the plant breeder's rights to the variety outside the United States; and
 

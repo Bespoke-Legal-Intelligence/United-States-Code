@@ -12,7 +12,7 @@
 
 (3) The amount of the relief and the amount of any relief granted to an official or agent of the Department of the Treasury under 31 U.S.C. 3527, shall be charged to the Check Forgery Insurance Fund (31 U.S.C. 3343). A recovery or repayment of a loss for which replacement is made out of the fund shall be credited to the fund and is available for the purposes for which the fund was established.
 
-(b) This section does not relieve another individual from civil or criminal liability for acheck, draft, warrant, or debt obligation of the Government.
+(b) This section does not relieve another individual from civil or criminal liability for a check, draft, warrant, or debt obligation of the Government.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 956; Pub. L. 108–447, div. H, title II, §220(a), Dec. 8, 2004, 118 Stat. 3242; Pub. L. 110–161, div. D, title I, §119, Dec. 26, 2007, 121 Stat. 1979.)
 

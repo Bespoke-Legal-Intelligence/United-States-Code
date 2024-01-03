@@ -132,7 +132,7 @@ In general.—To achieve the goal established under subsection (a)(1), the Secre
 
 &emsp;"(2)
 
-Strategy.—The strategy developed under paragraph (1) shall address the regulatory and administrative burdens (such as documentation requirements) relating to the use of electronic healthrecords. Such strategy shall include broad public comment and shall prioritize—
+Strategy.—The strategy developed under paragraph (1) shall address the regulatory and administrative burdens (such as documentation requirements) relating to the use of electronic health records. Such strategy shall include broad public comment and shall prioritize—
 
 &emsp;&emsp;"(A)(i) incentives for meaningful use of certified EHR technology for eligible professionals and hospitals under sections 1848(a)(7) and 1886(b)(3)(B)(ix), respectively, of the Social Security Act (42 U.S.C. 1395w–4(a)(7), 1395ww(b)(3)(B)(ix));
 

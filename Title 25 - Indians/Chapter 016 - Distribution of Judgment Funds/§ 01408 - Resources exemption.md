@@ -18,5 +18,5 @@ The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13736(b), Aug. 10, 1993, 107 Stat. 663, provided that: "The amendment made by thissection \[amending this section\] shall take effect on January 1, 1994."
+Pub. L. 103–66, title XIII, §13736(b), Aug. 10, 1993, 107 Stat. 663, provided that: "The amendment made by this section \[amending this section\] shall take effect on January 1, 1994."
 

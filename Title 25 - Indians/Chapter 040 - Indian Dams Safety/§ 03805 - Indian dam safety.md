@@ -72,7 +72,7 @@ In this section:
 
 #### (ii) Additional expenditures
 
-&emsp;&emsp;&emsp;The Secretary may expend more than $22,750,000 for any fiscal year referred to in clause (i) if the additional amounts are available in the Fund as a result of a failure of the Secretary to expend all of the amounts available under clause (i) in 1 or more prior fiscal years.
+&emsp;&emsp;&emsp;The Secretary may expend more than $22,750,000 for any fiscal year referred to inclause (i) if the additional amounts are available in the Fund as a result of a failure of the Secretary to expend all of the amounts available under clause (i) in 1 or more prior fiscal years.
 
 #### (D) Investments of amounts
 
@@ -180,7 +180,7 @@ In this section:
 
 #### (i) High-Hazard Fund
 
-&emsp;&emsp;&emsp;Consistent with subsection (b)(1)(B), the Secretary shall use or transfer to the Bureau of Indian Affairs not less than $22,750,000 of amounts in the High-Hazard Indian Dam Safety Deferred Maintenance Fund, plus accrued interest, for each of fiscal years 2017 through 2030 to carry outmaintenance, repair, and replacement activities for 1 or more of the Indian dams described in paragraph (2)(A).
+&emsp;&emsp;&emsp;Consistent with subsection (b)(1)(B), the Secretary shall use or transfer to the Bureau of Indian Affairs not less than $22,750,000 of amounts in the High-Hazard Indian Dam Safety Deferred Maintenance Fund, plus accrued interest, for each of fiscal years 2017 through 2030 to carry out maintenance, repair, and replacement activities for 1 or more of the Indian dams described in paragraph (2)(A).
 
 #### (ii) Low-Hazard Fund
 
@@ -264,7 +264,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), before expending funds on an Indian dam pursuant to paragraph (1) and not later than 60 days after December 16, 2016, the Secretary shall—
+&emsp;&emsp;Except as provided in subparagraph (B), before expending funds on an Indian dampursuant to paragraph (1) and not later than 60 days after December 16, 2016, the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) consult with the Director of the Bureau of Indian Affairs on the expenditure of funds;
 
@@ -360,7 +360,7 @@ In this section:
 
 #### (D) Vacancies
 
-&emsp;&emsp;Any vacancy in the Committee shall not affect the powers of the Committee, butshall be filled in the same manner as the original appointment.
+&emsp;&emsp;Any vacancy in the Committee shall not affect the powers of the Committee, but shall be filled in the same manner as the original appointment.
 
 #### (E) Initial meeting
 

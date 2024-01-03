@@ -8,7 +8,7 @@
 
 #### (2) Outreach events
 
-&emsp;The Secretary shall create opportunities for individuals in senior positions and supervisorsin the Department to participate in outreach events and to discuss issues relating to diversity and inclusion with the workforce on a regular basis, including with employee resource groups.
+&emsp;The Secretary shall create opportunities for individuals in senior positions and supervisors in the Department to participate in outreach events and to discuss issues relating to diversity and inclusion with the workforce on a regular basis, including with employee resource groups.
 
 #### (b) External advisory committees and boards
 

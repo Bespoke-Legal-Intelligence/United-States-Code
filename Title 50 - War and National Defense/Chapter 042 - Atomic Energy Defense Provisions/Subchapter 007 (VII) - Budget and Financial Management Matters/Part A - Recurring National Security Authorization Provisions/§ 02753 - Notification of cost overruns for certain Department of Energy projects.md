@@ -78,7 +78,7 @@ Not later than 90 days after submitting a notification under subsection (b) with
 
 &emsp;(2) if the project will be continued, certify to the congressional defense committees that—
 
-&emsp;&emsp;(A) a revised cost and schedule baseline has been established for the project and, in the case of a stockpile life extension project referred to in subparagraph (A) or (B) of subsection (a)(1) or a major alteration project referred to in subsection (a)(2), a revised estimate of the cost for each warhead in the project has been made;
+&emsp;&emsp;(A) a revised cost and schedule baseline has been established for the project and, in the case of a stockpile life extension project referred to in subparagraph (A) or (B) of subsection (a)(1) or a major alteration projectreferred to in subsection (a)(2), a revised estimate of the cost for each warhead in the project has been made;
 
 &emsp;&emsp;(B) the continuation of the project is necessary to the mission of the Department of Energy and there is no alternative to the project that would meet the requirements of that mission; and
 

@@ -2,7 +2,7 @@
 
 (a)(1) For the purpose of this section—
 
-&emsp;(A) the term "agency" means an agency under subparagraph (A), (B), (C), (D), or (E) ofsection 4101(1) of this title, the Architect of the Capitol, the Botanic Garden, and the Office of Congressional Accessibility Services; and
+&emsp;(A) the term "agency" means an agency under subparagraph (A), (B), (C), (D), or (E) of section 4101(1) of this title, the Architect of the Capitol, the Botanic Garden, and the Office of Congressional Accessibility Services; and
 
 &emsp;(B) the term "student loan" means—
 
@@ -52,7 +52,7 @@
 
 (f) Any benefit under this section shall be in addition to basic pay and any other form of compensation otherwise payable to the employee involved.
 
-(g) The Director of the Office of Personnel Management, after consultation with heads of a representative number and variety of agencies and any other consultation which the Director considers appropriate, shall prescribe regulations containing such standards and requirements as the Director considers necessary to provide for reasonable uniformity among programs under this section.
+(g) The Director of the Office of Personnel Management, after consultation with heads of a representative number and variety of agencies and any other consultation which the Director considers appropriate, shall prescribe regulations containing such standards and requirements as the Director considers necessary toprovide for reasonable uniformity among programs under this section.
 
 (h)(1) Each head of an agency shall maintain, and annually submit to the Director of the Office of Personnel Management, information with respect to the agency on—
 

@@ -126,7 +126,7 @@ Pub. L. 106–58, title VI, §638(b)–(e), Sept. 29, 1999, 113 Stat. 475, provi
 
 "(b)
 
-Plan for Implementation.—Not later than 90 days after the effective date of this section \[noon on Jan. 20, 2001\], the President shall communicate in writing, to the Chairmen of the Committees on Appropriations, the Chairman of the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Chairman of the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, a plan for implementation of the provisions of, and amendments made by, this section \[amending this section and sections 503 and 1105 of this title\].
+Plan for Implementation.—Not later than 90 days after the effective date of this section \[noon on Jan. 20, 2001\], the President shall communicate in writing, to the Chairmen of the Committees on Appropriations, the Chairman of the Committee on Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, and the Chairman of the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, a plan for implementation of the provisions of, and amendments made by, this section \[amending this section and sections 503 and 1105 of this title\].
 
 "(c)
 
@@ -152,7 +152,7 @@ Pub. L. 101–576, title II, §206, Nov. 15, 1990, 104 Stat. 2845, provided that
 
 "(a)
 
-Agency Reviews of Financial Management Activities.—Not later than 120 days after the date of the enactment of this Act \[Nov. 15, 1990\], the Director of the Office of Management and Budget shall require each agency listed in subsection (b) of section 901 of title 31, United States Code, as amended by this Act, to conduct a review of its financial management activities for the purpose of consolidating its accounting, budgeting, and other financial management activities under the agency Chief Financial Officer appointed under subsection (a) of that section for the agency.
+Agency Reviews of Financial Management Activities.—Not later than 120 days after the date of the enactment of this Act \[Nov. 15, 1990\], the Director of the Office of Management and Budget shall require each agency listed in subsection (b) of section 901 of title 31, United States Code, as amended by this Act, to conduct a review of its financial management activitiesfor the purpose of consolidating its accounting, budgeting, and other financial management activities under the agency Chief Financial Officer appointed under subsection (a) of that section for the agency.
 
 "(b)
 

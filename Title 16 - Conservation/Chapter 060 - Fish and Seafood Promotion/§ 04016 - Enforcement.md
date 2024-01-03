@@ -16,7 +16,7 @@
 
 (1)(A) When a council brings an action under subsection (a)(2) of this section, the council may recover costs of litigation and, where the action is brought to collect an unpaid assessment, interest from the date the amount became due and payable.
 
-(B) Any person who violates any provision of an order (including a cease and desist order previously issued under this paragraph) or regulation issued by the Secretary under this chapter, or who fails or refuses to pay, collect, or remit any assessment required under this chapter, may be assessed a civil penalty by the Secretary of not less than $500 nor more than $5,000 for each such violation. Each violation shall be a separate offense. In addition to, or in lieu of, a civil penalty under this subparagraph, the Secretary may issue an order requiring such person to cease and desist from continuing such violation.
+(B) Any person who violates any provision of an order (including a cease and desist order previously issued under this paragraph) or regulation issued by the Secretary under this chapter, or who fails or refuses to pay, collect, or remit any assessment required under this chapter, may be assessed a civil penalty by the Secretary of not less than $500 nor more than $5,000 for each such violation. Each violation shall be a separate offense. In addition to, or in lieu of, acivil penalty under this subparagraph, the Secretary may issue an order requiring such person to cease and desist from continuing such violation.
 
 (C) No penalty shall be assessed, or cease and desist order issued, under this paragraph unless the affected person is given notice and opportunity for a hearing before the Secretary with respect to such violation.
 

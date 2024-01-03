@@ -26,7 +26,7 @@ Sale of private airport to public sponsor.—In the case of a privately owned ai
 
 &emsp;&emsp;(B) funding is provided under this subchapter for any portion of the public sponsor's acquisition of airport land; and
 
-&emsp;&emsp;(C) an amount equal to the remaining unamortized portion of any airport improvement grant made to that airport for purposes other than land acquisition, amortizedover a 20-year period, plus an amount equal to the Federal share of the current fair market value of any land acquired with an airport improvement grant made to that airport on or after October 1, 1996, is repaid to the Secretary by the private owner.
+&emsp;&emsp;(C) an amount equal to the remaining unamortized portion of any airport improvement grant made to that airport for purposes other than land acquisition, amortized over a 20-year period, plus an amount equal to the Federal share of the current fair market value of any land acquired with an airport improvement grant made to that airport on or after October 1, 1996, is repaid to the Secretary by the private owner.
 
 &emsp;(3)
 

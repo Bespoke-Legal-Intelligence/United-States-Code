@@ -26,7 +26,7 @@ A recipient of a grant, contract, or cooperative agreement awarded under this se
 
 &emsp;(3) establish consortia with minority national organizations, minority institutions of higher education, and faith-based institutions to disseminate information about emergency preparedness to minority communities; and
 
-&emsp;(4) implement a joint project with a minority serving institution, including a part B institution (as defined in section 1061(2) of title 20), an institution described in subparagraph (A), (B), or (C) of section 1063b(e)(1) <sup>1</sup> of title 20, and a Hispanic-serving institution (as defined in section 1101a(a)(5) of title 20).
+&emsp;(4) implement a joint project with a minority serving institution, including a part B institution (as defined in section 1061(2) of title20), an institution described in subparagraph (A), (B), or (C) of section 1063b(e)(1) <sup>1</sup> of title 20, and a Hispanic-serving institution (as defined in section 1101a(a)(5) of title 20).
 
 #### (e) Application and review procedure
 

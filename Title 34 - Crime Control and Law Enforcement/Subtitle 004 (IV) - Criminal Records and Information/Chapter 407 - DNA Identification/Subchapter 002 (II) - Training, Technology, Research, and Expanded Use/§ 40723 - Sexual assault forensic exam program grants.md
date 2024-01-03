@@ -236,7 +236,7 @@ Subsec. (e). Pub. L. 117–103, §1318(d)(2), (e), redesignated subsec. (d) as (
 
 <b>2019</b>—Subsec. (d). Pub. L. 116–104 substituted "2019 through 2024" for "2015 through 2019".
 
-<b>2018</b>—Subsec. (c)(2). Pub. L. 115–107 inserted ", both adult and pediatric," after "role of forensic nurses" and substituted "elder abuse, and, in particular, the need for pediatric sexual assault nurse examiners, including such nurse examiners working in the multidisciplinarysetting, in responding to abuse of both children and adolescents" for "and elder abuse".
+<b>2018</b>—Subsec. (c)(2). Pub. L. 115–107 inserted ", both adult and pediatric," after "role of forensic nurses" and substituted "elder abuse, and, in particular, the need for pediatric sexual assault nurse examiners, including such nurse examiners working in the multidisciplinary setting, in responding to abuse of both children and adolescents" for "and elder abuse".
 
 <b>2016</b>—Subsecs. (c), (d). Pub. L. 114–324 added subsec. (c) and redesignated former subsec. (c) as (d).
 

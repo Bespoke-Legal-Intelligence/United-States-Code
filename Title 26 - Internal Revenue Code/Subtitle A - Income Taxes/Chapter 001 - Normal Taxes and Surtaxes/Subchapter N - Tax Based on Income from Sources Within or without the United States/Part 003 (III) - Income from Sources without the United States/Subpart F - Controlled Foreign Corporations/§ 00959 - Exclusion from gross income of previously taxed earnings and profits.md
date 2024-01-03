@@ -24,7 +24,7 @@ For purposes of subsections (a) and (b), section 316(a) shall be applied by appl
 
 &emsp;&emsp;(B) earnings and profits attributable to amounts included in gross income under section 951(a)(1)(C) (or which would have been included except for subsection (a)(3) of this section),
 
-> &emsp;with any distribution being allocated between earnings and profits described in subparagraph (A) and earnings and profits described in subparagraph (B) proportionately on the basis of the respective amounts of such earnings and profits,
+> &emsp;with any distribution being allocated between earnings and profits described in subparagraph (A) and earnings and profits described in subparagraph (B) proportionately on the basis ofthe respective amounts of such earnings and profits,
 
 &emsp;(2) then to earnings and profits attributable to amounts included in gross income under section 951(a)(1)(A) (but reduced by amounts not included under subparagraph (B) or (C) of section 951(a)(1) because of the exclusions in paragraphs (2) and (3) of subsection (a) of this section), and
 
@@ -50,7 +50,7 @@ For purposes of this section and section 960(c), any amount included in the gros
 
 &emsp;In applying this section, actual distributions shall be taken into account before amounts that would be included under section 951(a)(1)(B) (determined without regard to this section).
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1019; amended Pub. L. 94–455, title XIX,§1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §133(b)(1), July 18, 1984, 98 Stat. 668; Pub. L. 99–514, title XII, §1226(b), Oct. 22, 1986, 100 Stat. 2560; Pub. L. 100–647, title I, §1012(bb)(7)(A), Nov. 10, 1988, 102 Stat. 3536; Pub. L. 103–66, title XIII, §13231(c)(1), (2), (4)(A), (B), Aug. 10, 1993, 107 Stat. 497, 498; Pub. L. 104–188, title I, §1501(b)(4)–(8), Aug. 20, 1996, 110 Stat. 1826; Pub. L. 115–97, title I, §14301(c)(32), (33), Dec. 22, 2017, 131 Stat. 2224.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1019; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §133(b)(1), July 18, 1984, 98 Stat. 668; Pub. L. 99–514, title XII, §1226(b), Oct. 22, 1986, 100 Stat. 2560; Pub. L. 100–647, title I, §1012(bb)(7)(A), Nov. 10, 1988, 102 Stat. 3536; Pub. L. 103–66, title XIII, §13231(c)(1), (2), (4)(A), (B), Aug. 10, 1993, 107 Stat. 497, 498; Pub. L. 104–188, title I, §1501(b)(4)–(8), Aug. 20, 1996, 110 Stat. 1826; Pub. L. 115–97, title I, §14301(c)(32), (33), Dec. 22, 2017, 131 Stat. 2224.)
 
 #### <b>Editorial Notes</b>
 
@@ -134,7 +134,7 @@ Election of earlier date for certain transactions.—
 
 &emsp;"(A)
 
-In general.—If the appropriate election is made under subparagraph (B), the amendments madeby subsection (b) \[amending this section and section 1248 of this title\] shall apply with respect to transactions to which subsection (a) or (f) of section 1248 of such Code applies occurring after October 9, 1975.
+In general.—If the appropriate election is made under subparagraph (B), the amendments made by subsection (b) \[amending this section and section 1248 of this title\] shall apply with respect to transactions to which subsection (a) or (f) of section 1248 of such Code applies occurring after October 9, 1975.
 
 &emsp;"(B)
 

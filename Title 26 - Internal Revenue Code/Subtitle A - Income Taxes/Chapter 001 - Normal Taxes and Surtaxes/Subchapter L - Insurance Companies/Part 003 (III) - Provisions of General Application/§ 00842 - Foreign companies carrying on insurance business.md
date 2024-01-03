@@ -116,7 +116,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-<b>2017</b>—Subsec. (c). Pub. L. 115–97 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "In the case of a foreign company taxable under part I, subsection (b) shall be applied before computing the small life insurance company deduction."
+<b>2017</b>—Subsec. (c). Pub. L. 115–97 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck outformer par. (1). Prior to amendment, text of par. (1) read as follows: "In the case of a foreign company taxable under part I, subsection (b) shall be applied before computing the small life insurance company deduction."
 
 <b>2004</b>—Subsec. (c)(3), (4). Pub. L. 108–218 redesignated par. (4) as (3) and struck out heading and text of former par. (3). Text read as follows: "For purposes of section 809, the equity base of any foreign mutual life insurance company as of the close of any taxable year shall be increased by the excess of—
 

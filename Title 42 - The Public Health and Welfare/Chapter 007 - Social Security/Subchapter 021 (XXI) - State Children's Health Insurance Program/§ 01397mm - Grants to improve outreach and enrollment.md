@@ -100,7 +100,7 @@ In this section:
 
 &emsp;&emsp;(C) a covered entity described in section 256b(a)(4) of this title; and
 
-&emsp;&emsp;(D) any other entity or consortium that serves children under a federally funded program, including the special supplemental nutrition program for women, infants, and children (WIC) established under section 1786 of this title, the Head Start and Early Head Start programs under the Head Start Act (42 U.S.C. 9801 et seq.),<sup>1</sup> the school lunch program established under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\], and an elementary or secondary school.
+&emsp;&emsp;(D) any other entity or consortium that serves children under a federally funded program, including the special supplemental nutrition program for women, infants, and children (WIC) established under section 1786of this title, the Head Start and Early Head Start programs under the Head Start Act (42 U.S.C. 9801 et seq.),<sup>1</sup> the school lunch program established under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\], and an elementary or secondary school.
 
 #### (3) Indians; Indian tribe; tribal organization; urban Indian organization
 
@@ -168,7 +168,7 @@ From the amounts made available under subsection (a)(2), the Secretary shall dev
 
 #### References in Text
 
-The Indian Health Care Improvement Act, referred to in subsecs. (b)(2) and (f)(1)(C), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in subsecs. (b)(2) and (f)(1)(C), is Pub. L. 94–437, Sept. 30,1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 The Head Start Act, referred to in subsec. (f)(2)(D), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 

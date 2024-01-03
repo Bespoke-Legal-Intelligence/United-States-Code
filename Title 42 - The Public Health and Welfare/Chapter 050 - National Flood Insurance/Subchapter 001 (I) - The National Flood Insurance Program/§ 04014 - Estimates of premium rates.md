@@ -28,7 +28,7 @@ The Administrator is authorized to undertake and carry out such studies and inve
 
 &emsp;&emsp;&emsp;&emsp;(III) the costs associated with an individual risk transfer with respect to risk classes, as defined by the Administrator,
 
-> &emsp;would be required in order to make such insurance available on an actuarial basis for any types and classes of properties for which insurance coverage is available under section 4012(a) of this title (or is recommended to the Congress under section 4012(b) of this title);
+> &emsp;would be required in order to make such insurance available on an actuarial basis for anytypes and classes of properties for which insurance coverage is available under section 4012(a) of this title (or is recommended to the Congress under section 4012(b) of this title);
 
 &emsp;(2) the rates, if less than the rates estimated under paragraph (1), which would be reasonable, would encourage prospective insureds to purchase flood insurance, and would be consistent with the purposes of this chapter, and which, together with a fee charged to policyholders that shall not be not subject to any agents' commission, company expenses allowances, or State or local premium taxes, shall include any administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title), except that the Administrator shall not estimate rates under this paragraph for—
 
@@ -66,7 +66,7 @@ Notwithstanding any other provision of law, any community that has made adequate
 
 #### (f) Availability of flood insurance in communities restoring disaccredited flood protection systems; criteria; rates
 
-Notwithstanding any other provision of law, this subsection shall apply to riverine and coastal levees that are located in a community which has been determined by the Administrator of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so, and shall apply without regard to the level of Federal funding of or participation in the construction, reconstruction, or improvement of the flood protection system. Except as provided in this subsection, in such a community, flood insurance shall be made available to those properties impacted by the disaccreditation of the flood protection system at premium rates that do not exceed those which would be applicable to any property located in an area of special flood hazard, the construction of which was started prior to the effective date of the initial Flood Insurance Rate Map published by the Administrator for the community in which such property is located. A revised Flood Insurance Rate Map shall be prepared for the community to delineate as Zone AR the areas of special flood hazard that result from the disaccreditation of the flood protection system. A community will be considered to be in the process of restoration if—
+Notwithstanding any other provision of law, this subsection shall apply to riverine and coastal levees that are located in a community which has been determined by the Administrator of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so, and shall apply without regard to the level of Federal funding of or participation in the construction, reconstruction, or improvement of the flood protection system. Except as provided in this subsection, in such a community, flood insurance shall be made available to those properties impacted by the disaccreditation of the flood protection system at premium rates that do not exceed those which would be applicable to any property located in an area of special flood hazard, the construction of which was started prior to the effective date of the initial Flood Insurance Rate Map published by the Administrator for thecommunity in which such property is located. A revised Flood Insurance Rate Map shall be prepared for the community to delineate as Zone AR the areas of special flood hazard that result from the disaccreditation of the flood protection system. A community will be considered to be in the process of restoration if—
 
 &emsp;(1) the flood protection system has been deemed restorable by a Federal agency in consultation with the local project sponsor;
 
@@ -80,7 +80,7 @@ Notwithstanding any other provision of law, this subsection shall apply to river
 
 #### (g) No extension of subsidy to new policies or lapsed policies
 
-The Administrator shall not provide flood insurance to prospective insureds at rates lessthan those estimated under subsection (a)(1), as required by paragraph (2) of that subsection, for—
+The Administrator shall not provide flood insurance to prospective insureds at rates less than those estimated under subsection (a)(1), as required by paragraph (2) of that subsection, for—
 
 &emsp;(1) any policy under the flood insurance program that has lapsed in coverage,,<sup>1</sup> unless the decision of the policy holder to permit a lapse in flood insurance coverage was as a result of the property covered by the policy no longer being required to retain such coverage; or
 
@@ -156,7 +156,7 @@ Subsecs. (g), (h). Pub. L. 112–141, §100205(a)(1)(B), added subsecs. (g) and 
 
 <b>1990</b>—Subsec. (a)(1)(B)(iii). Pub. L. 101–508, §2302(e)(1)(A)–(C), added cl. (iii).
 
-Subsec. (a)(2). Pub. L. 101–508, §2302(e)(1)(D), inserted before semicolon ", and which, together with a fee charged to policyholders that shall not be not subject to any agents' commission, company expenses allowances, or State or local premium taxes, shall include any administrative expenses incurred in carrying outthe flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title)".
+Subsec. (a)(2). Pub. L. 101–508, §2302(e)(1)(D), inserted before semicolon ", and which, together with a fee charged to policyholders that shall not be not subject to any agents' commission, company expenses allowances, or State or local premium taxes, shall include any administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title)".
 
 <b>1983</b>—Subsecs. (a) to (c), (e). Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
 
@@ -340,7 +340,7 @@ Termination.—The authority provided under paragraphs (1) and (2) shall termina
 
 #### Fees
 
-Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in part: "That beginning in fiscal year 2003 and thereafter, fees authorized in 42 U.S.C.4014(a)(1)(B)(iii) shall be collected only if provided in advance in appropriations acts."
+Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in part: "That beginning in fiscal year 2003 and thereafter, fees authorized in 42 U.S.C. 4014(a)(1)(B)(iii) shall be collected only if provided in advance in appropriations acts."
 
 #### Study of Economic Effects of Charging Actuarially Based Premium Rates for Pre-FIRM Structures
 

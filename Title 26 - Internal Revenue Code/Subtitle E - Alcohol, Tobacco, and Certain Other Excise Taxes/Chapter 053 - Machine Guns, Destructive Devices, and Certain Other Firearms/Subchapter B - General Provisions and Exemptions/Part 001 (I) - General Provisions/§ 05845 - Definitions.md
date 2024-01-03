@@ -16,7 +16,7 @@ The term "rifle" means a weapon designed or redesigned, made or remade, and inte
 
 #### (d) Shotgun
 
-The term "shotgun" means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of the explosive in a fixed shotgun shell to fire through a smooth bore either a number of projectiles (ball shot) or a single projectile for each pull of the trigger, and shall include any such weapon which may be readily restored to fire a fixed shotgun shell.
+The term "shotgun" means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy ofthe explosive in a fixed shotgun shell to fire through a smooth bore either a number of projectiles (ball shot) or a single projectile for each pull of the trigger, and shall include any such weapon which may be readily restored to fire a fixed shotgun shell.
 
 #### (e) Any other weapon
 
@@ -28,7 +28,7 @@ The term "destructive device" means (1) any explosive, incendiary, or poison gas
 
 #### (g) Antique firearm
 
-The term "antique firearm" means any firearm not designed or redesigned for using rim fire or conventional center fire ignition with fixed ammunition and manufactured in or before 1898 (including any matchlock, flintlock, percussion cap, or similar type of ignition system or replica thereof, whether actually manufactured before or after the year 1898) and also any firearm using fixed ammunition manufactured in or before 1898, for which ammunition is no longermanufactured in the United States and is not readily available in the ordinary channels of commercial trade.
+The term "antique firearm" means any firearm not designed or redesigned for using rim fire or conventional center fire ignition with fixed ammunition and manufactured in or before 1898 (including any matchlock, flintlock, percussion cap, or similar type of ignition system or replica thereof, whether actually manufactured before or after the year 1898) and also any firearm using fixed ammunition manufactured in or before 1898, for which ammunition is no longer manufactured in the United States and is not readily available in the ordinary channels of commercial trade.
 
 #### (h) Unserviceable firearm
 
@@ -70,7 +70,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 <b>1986</b>—Subsec. (a)(7). Pub. L. 99–308, §109(b), substituted "any silencer (as defined in section 921 of title 18, United States Code)" for "a muffler or a silencer for any firearm whether or not such firearm is included within this definition".
 
-Subsec. (b). Pub. L. 99–308, §109(a), substituted "any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun," for "any combination of parts designed and intended for use in converting a weapon into a machinegun,".
+Subsec. (b). Pub. L. 99–308, §109(a), substituted "any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun," for "anycombination of parts designed and intended for use in converting a weapon into a machinegun,".
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 

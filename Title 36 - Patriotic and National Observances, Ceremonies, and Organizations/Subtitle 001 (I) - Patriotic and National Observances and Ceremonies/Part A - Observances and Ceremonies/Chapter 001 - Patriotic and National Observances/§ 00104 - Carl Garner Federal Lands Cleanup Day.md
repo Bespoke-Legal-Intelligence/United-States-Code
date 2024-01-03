@@ -6,7 +6,7 @@ Designation.—The first Saturday after Labor Day is Carl Garner Federal Lands C
 
 (b)
 
-Proclamation.—The President shall issue a proclamation calling on the people of the United States to observe Carl Garner Federal Lands Cleanup Day with appropriate programs, ceremonies, and activities. However, activities may be undertaken in individual States on a dayother than the first Saturday after Labor Day if a manager of Federal land decides that an alternative date is more appropriate because of climatological or other factors.
+Proclamation.—The President shall issue a proclamation calling on the people of the United States to observe Carl Garner Federal Lands Cleanup Day with appropriate programs, ceremonies, and activities. However, activities may be undertaken in individual States on a day other than the first Saturday after Labor Day if a manager of Federal land decides that an alternative date is more appropriate because of climatological or other factors.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1255.)
 

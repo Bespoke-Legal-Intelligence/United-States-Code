@@ -26,7 +26,7 @@ Definitions.—The definitions in section 4 of the MAPS Act of 2021 shall apply 
 
 (Added Pub. L. 117–219, §5(a), Dec. 5, 2022, 136 Stat. 2272.)
 
-#### <b>Editorial Notes</b>
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Text
 

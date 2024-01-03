@@ -50,7 +50,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;(11) contain a description of the activities that the State has undertaken for children adopted from other countries, including the provision of adoption and post-adoption services;
 
-&emsp;(12) provide that the State shall collect and report information on children who are adopted from other countries and who enter into State custody as a result of the disruption of a placement for adoption or the dissolution of an adoption, including the number of children, the agencies who handled the placement or adoption, the plans for the child, and the reasons for the disruption or dissolution;
+&emsp;(12) provide that the State shall collect and report information on children who are adopted from other countries and who enter into State custody as a result of the disruption of a placement for adoption or the dissolution ofan adoption, including the number of children, the agencies who handled the placement or adoption, the plans for the child, and the reasons for the disruption or dissolution;
 
 &emsp;(13) demonstrate substantial, ongoing, and meaningful collaboration with State courts in the development and implementation of the State plan under this subpart, the State plan approved under subpart 2, and the State plan approved under part E, and in the development and implementation of any program improvement plan required under section 1320a–2a of this title;
 
@@ -128,7 +128,7 @@ The Indian Child Welfare Act, referred to in subsec. (b)(9), probably means the 
 
 Subsec. (b)(18). Pub. L. 115–123, §50772, substituted "all vulnerable children under 5 years of age" for "such children".
 
-Subsec. (b)(19). Pub. L. 115–123, §50732, amended par. (19) generally. Prior to amendment, par. (19) read as follows: "contain a description of the sources used to compile information on child maltreatment deaths required by Federal law to be reported by the State agency referred to in paragraph (1), and to the extent thatthe compilation does not include information on such deaths from the State vital statistics department, child death review teams, law enforcement agencies, or offices of medical examiners or coroners, the State shall describe why the information is not so included and how the State will include the information."
+Subsec. (b)(19). Pub. L. 115–123, §50732, amended par. (19) generally. Prior to amendment, par. (19) read as follows: "contain a description of the sources used to compile information on child maltreatment deaths required by Federal law to be reported by the State agency referred to in paragraph (1), and to the extent that the compilation does not include information on such deaths from the State vital statistics department, child death review teams, law enforcement agencies, or offices of medical examiners or coroners, the State shall describe why the information is not so included and how the State will include the information."
 
 <b>2014</b>—Subsec. (b)(8)(A)(ii). Pub. L. 113–183, §112(b)(2)(A)(i), inserted "and in accordance with the requirements of section 675a of this title" after "section 675(5) of this title".
 
@@ -154,7 +154,7 @@ Subsec. (b)(15)(A)(vii). Pub. L. 111–148, §2955(c), added cl. (vii).
 
 <b>2006</b>—Subsec. (b)(3). Pub. L. 109–288, §6(c)(1)(A), added par. (3) and struck out former par. (3) which read as follows: "provide that the standards and requirements imposed with respect to child day care under subchapter XX of this chapter shall apply with respect to day care services under this subpart, except insofar as eligibility for such services is involved;".
 
-Subsec. (b)(4). Pub. L. 109–288, §6(c)(1)(A), (B), added par. (4) and struck out former par. (4) which read as follows: "provide for the training and effective use of paid paraprofessional staff, with particular emphasis on the full-time or part-time employment of persons of low income, as community service aides, in the administration of the plan, and for the use of nonpaid or partially paid volunteers in providing services and in assisting any advisory committees established by the State agency;".
+Subsec. (b)(4). Pub. L. 109–288, §6(c)(1)(A), (B), added par. (4) and struck out former par. (4) which read as follows: "provide for the training and effective use of paid paraprofessional staff, with particular emphasis on thefull-time or part-time employment of persons of low income, as community service aides, in the administration of the plan, and for the use of nonpaid or partially paid volunteers in providing services and in assisting any advisory committees established by the State agency;".
 
 Subsec. (b)(5). Pub. L. 109–288, §6(c)(1)(A), (C), redesignated par. (7) as (5) and struck out former par. (5) which read as follows: "contain a description of the services to be provided and specify the geographic areas where such services will be available;".
 
@@ -258,7 +258,7 @@ Subsec. (b)(2). Pub. L. 103–66, §13711(b)(1)(B), (C), inserted "under the Sta
 
 Subsec. (b)(3). Pub. L. 103–66, §13711(b)(1)(B), substituted "under this subpart" for "under this part".
 
-<b>1989</b>—Subsec. (b)(1)(A). Pub. L. 101–239 substituted "the individual or agency that administers or supervises the administration of the State's services program under subchapter XX" for "the individual or agency designated pursuant to section 1397b(d)(1)(C) of this title to administer or supervise the administration of the State's services program".
+<b>1989</b>—Subsec. (b)(1)(A). Pub. L. 101–239 substituted "the individual or agency that administers or supervises the administration of the State's services program under subchapter XX" for "the individual oragency designated pursuant to section 1397b(d)(1)(C) of this title to administer or supervise the administration of the State's services program".
 
 <b>1980</b>—Pub. L. 96–272 substituted provisions relating to State plans covering child welfare services for provisions relating to the payments to States and the computation of amounts.
 
@@ -340,7 +340,7 @@ Application to States With Waivers.—In the case of a State that, on the date o
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–183, title I, §112(a)(3), Sept. 29, 2014, 128 Stat. 1926, provided that:"In the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), the amendments made by this subsection \[amending this section and section 675 of this title\] shall not apply until the date that is 3 years after the date of the enactment of this Act \[Sept. 29, 2014\]."
+Pub. L. 113–183, title I, §112(a)(3), Sept. 29, 2014, 128 Stat. 1926, provided that:"In the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), the amendments made by this subsection \[amending this section and section 675 of this title\] shall not apply until thedate that is 3 years after the date of the enactment of this Act \[Sept. 29, 2014\]."
 
 Pub. L. 113–183, title I, §112(c), Sept. 29, 2014, 128 Stat. 1928, provided that:
 
@@ -404,7 +404,7 @@ In General.—Except as otherwise provided in this Act \[enacting sections 673b,
 
 Delay Permitted if State Legislation Required.—In the case of a State plan under part B or E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Nov. 19, 1997\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature."
 
-Pub. L. 105–33, title V, §5593, Aug. 5, 1997, 111 Stat. 644, provided that: "The amendments made by this chapter \[chapter 5 (§§5591–5593) of subtitle F of title V of Pub. L. 105–33, amending this section and sections 624, 625, 628b, 671, and 672 of this title\] shall take effect as if included in the enactment of title V of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2277)."
+Pub. L. 105–33, title V, §5593, Aug. 5, 1997, 111 Stat. 644, provided that: "The amendments made by this chapter \[chapter 5 (§§5591–5593) of subtitle F of title V of Pub. L. 105–33, amending this section and sections 624, 625,628b, 671, and 672 of this title\] shall take effect as if included in the enactment of title V of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2277)."
 
 #### Effective Date of 1996 Amendment
 

@@ -86,7 +86,7 @@ Each application submitted under subsection (a) shall include assurances that—
 
 &emsp;&emsp;(D) that has adopted reasonable bylaws for the conduct of the activities of the committee and abides by such bylaws;
 
-&emsp;(5) the local educational agency will coordinate activities under this subchapter with other Federal programs supporting educational and related services administered by such agency;
+&emsp;(5) the local educational agency will coordinate activities under this subchapter withother Federal programs supporting educational and related services administered by such agency;
 
 &emsp;(6) the local educational agency conducted outreach to parents and family members to meet the requirements under this paragraph;
 
@@ -120,7 +120,7 @@ Subsec. (b)(1). Pub. L. 114–95, §6002(f)(2)(A), substituted "Indian" for "Ame
 
 Subsec. (b)(2)(A). Pub. L. 114–95, §6002(f)(2)(B)(i), substituted "is consistent with the State, tribal, and local plans" for "is consistent with the State and local plans".
 
-Subsec. (b)(2)(B). Pub. L. 114–95, §6002(f)(2)(B)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: "includes academic content and student academic achievement goals for such children,and benchmarks for attaining such goals, that are based on the challenging State academic content and student academic achievement standards adopted under subchapter I of this chapter for all children;".
+Subsec. (b)(2)(B). Pub. L. 114–95, §6002(f)(2)(B)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: "includes academic content and student academic achievement goals for such children, and benchmarks for attaining such goals, that are based on the challenging State academic content and student academic achievement standards adopted under subchapter I of this chapter for all children;".
 
 Subsec. (b)(3). Pub. L. 114–95, §6002(f)(2)(C), added par. (3) and struck out former par. (3) which read as follows: "explains how Federal, State, and local programs, especially programs carried out under subchapter I of this chapter, will meet the needs of such students;".
 
@@ -166,5 +166,5 @@ Subsec. (d). Pub. L. 114–95, §6002(f)(4), added subsec. (d).
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 114–95, set out as a note under section 6301 of this title.
 

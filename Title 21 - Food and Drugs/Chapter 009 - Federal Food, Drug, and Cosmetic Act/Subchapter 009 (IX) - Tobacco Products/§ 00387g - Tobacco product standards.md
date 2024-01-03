@@ -128,7 +128,7 @@
 
 #### (2) Effective date
 
-&emsp;A regulation establishing a tobacco product standard shall set forth the date or dates upon which the standard shall take effect, but no such regulation may take effect before 1 year after the date of its publication unless the Secretary determines that an earlier effective date is necessary for the protection of the public health. Such date or dates shall be established so as to minimize, consistent with the public health, economic loss to, and disruption or dislocation of, domestic and international trade. In establishing such effective date or dates, the Secretary shall consider information submitted in connection with a proposed product standard by interested parties, including manufacturers and tobacco growers, regarding the technical achievability of compliance with the standard, and including information concerning the existence of patents that make it impossible to comply in thetimeframe envisioned in the proposed standard. If the Secretary determines, based on the Secretary's evaluation of submitted comments, that a product standard can be met only by manufacturers requiring substantial changes to the methods of farming the domestically grown tobacco used by the manufacturer, the effective date of that product standard shall be not less than 2 years after the date of publication of the final regulation establishing the standard.
+&emsp;A regulation establishing a tobacco product standard shall set forth the date or dates upon which the standard shall take effect, but no such regulation may take effect before 1 year after the date of its publication unless the Secretary determines that an earlier effective date is necessary for the protection of the public health. Such date or dates shall be established so as to minimize, consistent with the public health, economic loss to, and disruption or dislocation of, domestic and international trade. In establishing such effective date or dates, the Secretary shall consider information submitted in connection with a proposed product standard by interested parties, including manufacturers and tobacco growers, regarding the technical achievability of compliance with the standard, and including information concerning the existence of patents that make it impossible to comply in the timeframe envisioned in the proposed standard. If the Secretary determines, based on the Secretary's evaluation of submitted comments, that a product standard can be met only by manufacturers requiring substantial changes to the methods of farming the domestically grown tobacco used by the manufacturer, the effective date of that product standard shall be not less than 2 years after the date of publication of the final regulation establishing the standard.
 
 #### (3) Limitation on power granted to the Food and Drug Administration
 
@@ -174,7 +174,7 @@
 
 #### (D) Report and recommendation
 
-&emsp;&emsp;The Tobacco Products Scientific Advisory Committee shall, within 60 days after the referral of a proposed regulation under this paragraph and after independent study of the data and information furnished to it by the Secretary and other data and information before it, submit to the Secretary a report and recommendation respecting such regulation, together with all underlying data and information and a statement of the reason or basis for the recommendation.
+&emsp;&emsp;The Tobacco Products Scientific Advisory Committee shall, within 60 days after the referral of a proposed regulation under this paragraph and after independent study of the data and information furnished to it by the Secretary and other data and information before it, submit to the Secretary a report and recommendation respecting suchregulation, together with all underlying data and information and a statement of the reason or basis for the recommendation.
 
 #### (E) Public availability
 
@@ -206,7 +206,7 @@
 
 #### (3) Rule of construction
 
-&emsp;Nothing in this subsection shall be construed to limit the Secretary's authority totake action under this section or other sections of this chapter at any time applicable to any dissolvable tobacco product.
+&emsp;Nothing in this subsection shall be construed to limit the Secretary's authority to take action under this section or other sections of this chapter at any time applicable to any dissolvable tobacco product.
 
 (June 25, 1938, ch. 675, §907, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1799; amended Pub. L. 117–103, div. P, title I, §111(f), Mar. 15, 2022, 136 Stat. 790.)
 

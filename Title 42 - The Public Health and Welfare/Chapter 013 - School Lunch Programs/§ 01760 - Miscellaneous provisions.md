@@ -82,7 +82,7 @@ The value of assistance to children under this chapter shall not be considered t
 
 #### (f) Adjustment of national average payment rate for Alaska, Hawaii, territories and possessions, etc.
 
-In providing assistance for breakfasts, lunches, suppers, and supplements served in Alaska, Hawaii, Guam, American Samoa, Puerto Rico, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, the Secretary may establish appropriate adjustments for each such State to the national average payment rates prescribed under sections 1753, 1759a, 1761, and 1766 of this title and section 4 of the Child Nutrition Act of 1966 \[42 U.S.C.1773\], to reflect the differences between the costs of providing meals and supplements in those States and the costs of providing meals and supplements in all other States.
+In providing assistance for breakfasts, lunches, suppers, and supplements served in Alaska, Hawaii, Guam, American Samoa, Puerto Rico, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, the Secretary may establish appropriate adjustments for each such State to the national average payment rates prescribed under sections 1753, 1759a, 1761, and 1766 of this title and section 4 of the Child Nutrition Act of 1966 \[42 U.S.C. 1773\], to reflect the differences between the costs of providing meals and supplements in those States and the costs of providing meals and supplements in all other States.
 
 #### (g) Criminal penalties
 
@@ -246,7 +246,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 #### (o) Procurement contracts
 
-In acquiring a good or service for programs under this chapter or the Child Nutrition Act of1966 (42 U.S.C. 1771 et seq.) (other than section 17 of that Act (42 U.S.C. 1786)), a State, State agency, school, or school food authority may enter into a contract with a person that has provided specification information to the State, State agency, school, or school food authority for use in developing contract specifications for acquiring such good or service.
+In acquiring a good or service for programs under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) (other than section 17 of that Act (42 U.S.C. 1786)), a State, State agency, school, or school food authority may enter into a contract with a person that has provided specification information to the State, State agency, school, or school food authority for use in developing contract specifications for acquiring such good or service.
 
 #### (p) Price for a paid lunch
 
@@ -332,7 +332,7 @@ In acquiring a good or service for programs under this chapter or the Child Nutr
 
 #### (B) Inclusion
 
-&emsp;&emsp;The term "nonprogram food" includes food that is sold in competition with a programestablished under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
+&emsp;&emsp;The term "nonprogram food" includes food that is sold in competition with a program established under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
 
 #### (2) Revenues
 
@@ -366,7 +366,7 @@ The Older Americans Act of 1965, referred to in subsec. (i), is Pub. L. 89–73,
 
 The Civil Rights Act of 1964, referred to in subsec. (l)(4)(M)(i), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (l)(4)(M)(iii), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsec. (l)(4)(M)(iii), is Pub. L. 92–318, June 23, 1972, 86Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
 The Age Discrimination Act of 1975, referred to in subsec. (l)(4)(M)(iv), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
@@ -526,7 +526,7 @@ Pub. L. 101–147, §306(a)(2), amended subsec. (i), as amended identically by P
 
 <b>1986</b>—Subsec. (d)(5). Pub. L. 99–661, §4205(a)(2), inserted "On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available."
 
-Subsec. (d)(5)(A). Pub. L. 99–500 and Pub. L. 99–591, §325(a), which directed the amendment of subpar. (A) by striking out "except private schools whose average yearly tuition exceeds $1,500 per child," after "grade or under," was executed by striking out "except private schools whose average yearly tuition exceeds $2,000 per child," after "grade or under," to reflect the probable intent of Congress and the intervening amendment of subpar. (A) by Pub. L. 99–661, §4205(a)(1). See below.
+Subsec. (d)(5)(A). Pub. L. 99–500 and Pub. L. 99–591, §325(a), which directed the amendment of subpar. (A) by striking out "except private schools whose average yearly tuition exceeds $1,500 per child," after "grade or under," was executed by striking out "except private schools whose average yearly tuition exceeds $2,000 per child," after "grade or under," to reflect the probableintent of Congress and the intervening amendment of subpar. (A) by Pub. L. 99–661, §4205(a)(1). See below.
 
 Pub. L. 99–661, §4205(a)(1), substituted "$2,000" for "$1,500".
 
@@ -571,6 +571,10 @@ Pub. L. 87–688 inserted "American Samoa," after "Guam".
 <b>1952</b>—Subsec. (d)(1). Act July 12, 1952, included Guam within definition of State.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2015 Amendment
 
@@ -820,5 +824,5 @@ Report.—Not later than 180 days after the date of the enactment of this Act, t
 
 #### Study of Cost Accounting Requirements
 
-Pub. L. 94–105, §21, Oct. 7, 1975, 89 Stat. 527, prohibited Secretary from delaying or withholding or causing anyState to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
+Pub. L. 94–105, §21, Oct. 7, 1975, 89 Stat. 527, prohibited Secretary from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
 

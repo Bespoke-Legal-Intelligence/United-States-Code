@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-Under authority of section 13 of this title, the Secretary, through the Service, shall enter into contracts with, or make grants to, urban Indian organizations for the provision of health careand referral services for urban Indians residing in the urban centers in which such organizations are situated. Any such contract or grant shall include requirements that the urban Indian organization successfully undertake to—
+Under authority of section 13 of this title, the Secretary, through the Service, shall enter into contracts with, or make grants to, urban Indian organizations for the provision of health care and referral services for urban Indians residing in the urban centers in which such organizations are situated. Any such contract or grant shall include requirements that the urban Indian organization successfully undertake to—
 
 &emsp;(1) estimate the population of urban Indians residing in the urban center in which such organization is situated who are or could be recipients of health care or referral services;
 

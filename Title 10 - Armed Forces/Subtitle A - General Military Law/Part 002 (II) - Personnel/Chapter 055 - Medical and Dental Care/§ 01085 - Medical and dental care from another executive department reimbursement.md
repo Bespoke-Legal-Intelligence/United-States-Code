@@ -1,6 +1,6 @@
 ### §1085. Medical and dental care from another executive department: reimbursement
 
-If a member or former member of a uniformed service under the jurisdiction of one executive department (or a dependent of such a member or former member) receives inpatient medical or dental care in a facility under the jurisdiction of another executive department, the appropriation for maintaining and operating the facility furnishing the care shall be reimbursed at rates established by the President to reflect the average cost of providing the care.
+If a member or former member of a uniformed service under the jurisdiction of one executivedepartment (or a dependent of such a member or former member) receives inpatient medical or dental care in a facility under the jurisdiction of another executive department, the appropriation for maintaining and operating the facility furnishing the care shall be reimbursed at rates established by the President to reflect the average cost of providing the care.
 
 (Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1450; amended Pub. L. 89–264, §1, Oct. 19, 1965, 79 Stat. 989; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–94, title XII, §1268(6), Sept. 24, 1983, 97 Stat. 706; Pub. L. 98–557, §19(12), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title XIII, §1303(a)(8), Nov. 8, 1985, 99 Stat. 739.)
 

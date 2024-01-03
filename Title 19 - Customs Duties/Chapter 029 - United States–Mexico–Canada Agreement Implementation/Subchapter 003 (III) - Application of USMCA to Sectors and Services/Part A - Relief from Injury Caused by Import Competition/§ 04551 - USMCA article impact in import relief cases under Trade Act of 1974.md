@@ -16,7 +16,7 @@ If, in any investigation initiated under chapter 1 of title II of the Trade Act 
 
 #### (2) Application of "contribute importantly" standard
 
-&emsp;In determining whether imports from a USMCA country or countries contribute importantly to the serious injury, or threat thereof, the International Trade Commission shall consider such factors as the change in the import share of the USMCA country or countries, and the level and change in the level of imports of such country or countries. In applying the preceding sentence, imports from a USMCA country or countries normally shall not be considered to contribute importantly to serious injury, or the threat thereof, if the growth rate of imports from such country or countries during the period in which an injurious increase in imports occurred is appreciably lower than the growth rate of total imports from all sources over the same period.
+&emsp;In determining whether imports from a USMCA country or countries contribute importantly to the serious injury, or threat thereof, the International Trade Commission shall consider such factors as the change in the import share of the USMCA country or countries, and the level and change in the level of imports of such country or countries.In applying the preceding sentence, imports from a USMCA country or countries normally shall not be considered to contribute importantly to serious injury, or the threat thereof, if the growth rate of imports from such country or countries during the period in which an injurious increase in imports occurred is appreciably lower than the growth rate of total imports from all sources over the same period.
 
 #### (c) "Contribute importantly" defined
 

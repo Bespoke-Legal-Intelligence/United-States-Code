@@ -78,7 +78,7 @@ No area may be designated under this section unless the application for such des
 
 &emsp;&emsp;(F) does not include any action to assist any establishment in relocating from one area outside the nominated area to the nominated area, except that assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary is permitted if—
 
-&emsp;&emsp;&emsp;(i) the establishment of the new branch, affiliate, or subsidiary will not result in a decrease in employment in the area of original location or in any other areawhere the existing business entity conducts business operations, and
+&emsp;&emsp;&emsp;(i) the establishment of the new branch, affiliate, or subsidiary will not result in a decrease in employment in the area of original location or in any other area where the existing business entity conducts business operations, and
 
 &emsp;&emsp;&emsp;(ii) there is no reason to believe that the new branch, affiliate, or subsidiary is being established with the intention of closing down the operations of the existing business entity in the area of its original location or in any other area where the existing business entity conducts business operation, and
 
@@ -130,7 +130,7 @@ No area may be designated under this section unless the application for such des
 
 #### (ii) Special rule for rural areas
 
-&emsp;&emsp;&emsp;If a population census tract (or equivalent division under section 1392(b)(4)) in a rural area exceeds 1,000 square miles or includes a substantial amount of land owned by the Federal, State, or local government, the nominated area may exclude such excess square mileage or governmentally owned land and the exclusion of that area will not be treated as violating the continuous boundary requirement of section 1392(a)(3)(B).
+&emsp;&emsp;&emsp;If a population census tract (or equivalent division under section 1392(b)(4)) in arural area exceeds 1,000 square miles or includes a substantial amount of land owned by the Federal, State, or local government, the nominated area may exclude such excess square mileage or governmentally owned land and the exclusion of that area will not be treated as violating the continuous boundary requirement of section 1392(a)(3)(B).
 
 #### (C) Aggregate population limitation
 
@@ -254,7 +254,7 @@ Amendment by Pub. L. 111–312 applicable to periods after Dec. 31, 2009, see se
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title IX, §951(c), Aug. 5, 1997, 111 Stat. 885, provided that: "The amendments made by this section \[amending this section and section 1396 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\], except that designations of newempowerment zones made pursuant to such amendments shall be made during the 180-day period beginning on the date of the enactment of this Act. No designation pursuant to such amendments shall take effect before January 1, 2000."
+Pub. L. 105–34, title IX, §951(c), Aug. 5, 1997, 111 Stat. 885, provided that: "The amendments made by this section \[amending this section and section 1396 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\], except that designations of new empowerment zones made pursuant to such amendments shall be made during the 180-day period beginning on the date of the enactment of this Act. No designation pursuant to such amendments shall take effect before January 1, 2000."
 
 #### Treatment of Certain Termination Dates Specified in Nominations
 
@@ -270,7 +270,7 @@ Pub. L. 113–295, div. A, title I, §139(b), Dec. 19, 2014, 128 Stat. 4020, pro
 
 Pub. L. 112–240, title III, §327(c), Jan. 2, 2013, 126 Stat. 2334, provided that: "In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act \[Jan. 2, 2013\]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary's designee) may provide."
 
-Pub. L. 111–312, title VII, §753(c), Dec. 17, 2010, 124 Stat. 3321, provided that: "In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act \[Dec. 17, 2010\]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section \[Dec. 17, 2010\], the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary's designee) may provide."
+Pub. L. 111–312, title VII, §753(c), Dec. 17, 2010, 124 Stat. 3321, provided that: "In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act \[Dec. 17, 2010\]), subparagraph (B) of such section shall not apply withrespect to such designation if, after the date of the enactment of this section \[Dec. 17, 2010\], the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary's designee) may provide."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -58,7 +58,7 @@ Any participant in the Foreign Service Retirement and Disability System who is s
 
 &emsp;(B) with respect to a member of the Service assigned to duty outside the United States, 30 days after receiving notice of the proposed suspension.
 
-(Pub. L. 96–465, title I, §610, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 100–204, title I, §181(d), Dec. 22, 1987,101 Stat. 1364; Pub. L. 101–167, title V, §586(b), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 101–246, title I, §143, Feb. 16, 1990, 104 Stat. 36; Pub. L. 102–138, title I, §143(a), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–415, §1(h)(2), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2313, Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §328\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438; Pub. L. 107–228, div. A, title III, §314(a), Sept. 30, 2002, 116 Stat. 1378; Pub. L. 114–323, title IV, §415(a), Dec. 16, 2016, 130 Stat. 1933; Pub. L. 117–81, div. E, title LIII, §5317, Dec. 27, 2021, 135 Stat. 2367; Pub. L. 117–263, div. I, title XCII, §9202(b)(1), Dec. 23, 2022, 136 Stat. 3864.)
+(Pub. L. 96–465, title I, §610, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 100–204, title I, §181(d), Dec. 22, 1987, 101 Stat. 1364; Pub. L. 101–167, title V, §586(b), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 101–246, title I, §143, Feb. 16, 1990, 104 Stat. 36; Pub. L. 102–138, title I, §143(a), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–415, §1(h)(2), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2313, Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §328\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438; Pub. L. 107–228, div. A, title III, §314(a), Sept. 30, 2002, 116 Stat. 1378; Pub. L. 114–323, title IV, §415(a), Dec. 16, 2016, 130 Stat. 1933; Pub. L. 117–81, div. E, title LIII, §5317, Dec. 27, 2021, 135 Stat. 2367; Pub. L. 117–263, div. I, title XCII, §9202(b)(1), Dec. 23, 2022, 136 Stat. 3864.)
 
 #### <b>Editorial Notes</b>
 
@@ -122,7 +122,7 @@ Separation of lowest ranked foreign service members.—Not later than 90 days af
 
 "(2)
 
-Special internal reviews.—In any case where the member was evaluated by the same rating official in any 2 of the years of lowest ranking, an internal review of the member's file shall be conducted to determine whether the member should be considered for action leading to separation.
+Special internal reviews.—In any case where the member was evaluated by the same rating officialin any 2 of the years of lowest ranking, an internal review of the member's file shall be conducted to determine whether the member should be considered for action leading to separation.
 
 "(3)
 

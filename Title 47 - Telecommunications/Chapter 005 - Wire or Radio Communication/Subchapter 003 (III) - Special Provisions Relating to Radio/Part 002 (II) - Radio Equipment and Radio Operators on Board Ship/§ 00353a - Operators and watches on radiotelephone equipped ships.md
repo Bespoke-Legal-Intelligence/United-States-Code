@@ -10,5 +10,5 @@
 
 #### Amendments
 
-<b>1965</b>—Pub. L. 89–121 substituted "radiotelephone station" for "radiotelephone installation" in two places, and "one operator who may be the master, an officer, or a member of the crew" for "one qualified operator who may be a member of the crew holding only a certificate for radio telephony", inserted "in the open sea" before "outside of a harbor", and required a continuous watch whenever the station is not being used for authorized traffic.
+<b>1965</b>—Pub. L. 89–121 substituted "radiotelephone station" for "radiotelephone installation" in two places, and "one operator who may be the master, an officer, or a member of the crew" for "one qualified operator who may be a member of the crew holding only a certificate for radio telephony", inserted "in the opensea" before "outside of a harbor", and required a continuous watch whenever the station is not being used for authorized traffic.
 

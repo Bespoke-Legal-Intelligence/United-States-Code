@@ -2,7 +2,7 @@
 
 #### (a) Federal Constitution, laws, and treaties applicable; other Federal requirements applicable; status of deepwater port; Federal or State authorities and responsibilities within territorial seas unaffected; notification by Secretary of State of intent to exercise jurisdiction; objections by foreign governments
 
-(1) The Constitution, laws, and treaties of the United States shall apply to a deepwater port licensed under this chapter and to activities connected, associated, or potentially interfering with the use or operation of any such port, inthe same manner as if such port were an area of exclusive Federal jurisdiction located within a State. Nothing in this chapter shall be construed to relieve, exempt, or immunize any person from any other requirement imposed by Federal law, regulation, or treaty. Deepwater ports licensed under this chapter do not possess the status of islands and have no territorial seas of their own.
+(1) The Constitution, laws, and treaties of the United States shall apply to a deepwater port licensed under this chapter and to activities connected, associated, or potentially interfering with the use or operation of any such port, in the same manner as if such port were an area of exclusive Federal jurisdiction located within a State. Nothing in this chapter shall be construed to relieve, exempt, or immunize any person from any other requirement imposed by Federal law, regulation, or treaty. Deepwater ports licensed under this chapter do not possess the status of islands and have no territorial seas of their own.
 
 (2) Except as otherwise provided by this chapter, nothing in this chapter shall in any way alter the responsibilities and authorities of a State or the United States within the territorial seas of the United States.
 
@@ -16,7 +16,7 @@
 
 #### (b) Law of nearest adjacent coastal State as applicable Federal law; Federal administration and enforcement of such law; nearest adjacent coastal State defined
 
-The law of the nearest adjacent coastal State, now in effect or hereafter adopted, amended, or repealed, is declared to be the law of the United States, and shall apply to any deepwater port licensed pursuant to this chapter, to the extent applicable and not inconsistent with any provision or regulation under this chapter or other Federal laws and regulations now in effect or hereafter adopted, amended, or repealed. All such applicable laws shall be administered and enforced by the appropriate officers and courts of the United States. For purposes of this subsection, the nearest adjacent coastal State shall be that State whose seaward boundaries, if extended beyond 3 miles, would encompass the site of the deepwater port.
+The law of the nearest adjacent coastal State, now in effect or hereafter adopted, amended, or repealed, is declared to be the law of the United States, and shall apply to any deepwater port licensed pursuant to this chapter, to the extent applicable and not inconsistent with any provision or regulation under this chapter or other Federal laws and regulations now in effect or hereafter adopted, amended, or repealed. Allsuch applicable laws shall be administered and enforced by the appropriate officers and courts of the United States. For purposes of this subsection, the nearest adjacent coastal State shall be that State whose seaward boundaries, if extended beyond 3 miles, would encompass the site of the deepwater port.
 
 #### (c) Vessels of United States and foreign states subject to Federal jurisdiction; objections to jurisdiction; designation of agent for service of process; duty of licensee
 
@@ -44,7 +44,7 @@ The customs laws administered by the Secretary of the Treasury shall not apply t
 
 #### (e) Federal district courts; original jurisdiction; venue
 
-The United States district courts shall have original jurisdiction of cases and controversies arising out of or in connection with the construction and operation of deepwater ports, and proceedings with respect to any such case or controversy may be instituted in the judicialdistrict in which any defendant resides or may be found, or in the judicial district of the adjacent coastal State nearest the place where the cause of action arose.
+The United States district courts shall have original jurisdiction of cases and controversies arising out of or in connection with the construction and operation of deepwater ports, and proceedings with respect to any such case or controversy may be instituted in the judicial district in which any defendant resides or may be found, or in the judicial district of the adjacent coastal State nearest the place where the cause of action arose.
 
 (Pub. L. 93–627, §19(a)–(e), Jan. 3, 1975, 88 Stat. 2145, 2146; Pub. L. 98–419, §5(a), (b), Sept. 25, 1984, 98 Stat. 1609.)
 

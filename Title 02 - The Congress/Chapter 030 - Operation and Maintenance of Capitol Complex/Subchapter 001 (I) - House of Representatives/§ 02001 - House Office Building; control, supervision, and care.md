@@ -1,6 +1,6 @@
 ### §2001. House Office Building; control, supervision, and care
 
-The House of Representatives Office Building, which shall hereafter be designated as the House Office Building and the employment of all service, other than the United States Capitol Police, that may be appropriated for by Congress, necessary for its protection, care, and occupancy, shall be under the control and supervision of the Architect of the Capitol, subject to the approval and direction of a commission consisting of the Speaker of the House of Representatives and two Representatives in Congress, to be appointed by the Speaker. Vacancies occurring by resignation, termination of service as Representatives in Congress, or otherwise in the membership of said commission shall be filled by the Speaker, and any two members of said commission shall constitute a quorum to do business. The Architect of the Capitol shall submit annually to Congress estimates in detail for all services, other than the United States Capitol Police, and for all other expenses in connection with said office building and necessary for its protection, care, and occupancy; and said commission herein referred to shall from time to time prescribe rules and regulations to govern said architect in making all such employments, together with rules and regulations governing the use and occupancy of all rooms and space in said building.
+The House of Representatives Office Building, which shall hereafter be designated as the HouseOffice Building and the employment of all service, other than the United States Capitol Police, that may be appropriated for by Congress, necessary for its protection, care, and occupancy, shall be under the control and supervision of the Architect of the Capitol, subject to the approval and direction of a commission consisting of the Speaker of the House of Representatives and two Representatives in Congress, to be appointed by the Speaker. Vacancies occurring by resignation, termination of service as Representatives in Congress, or otherwise in the membership of said commission shall be filled by the Speaker, and any two members of said commission shall constitute a quorum to do business. The Architect of the Capitol shall submit annually to Congress estimates in detail for all services, other than the United States Capitol Police, and for all other expenses in connection with said office building and necessary for its protection, care, and occupancy; and said commission herein referred to shall from time to time prescribe rules and regulations to govern said architect in making all such employments, together with rules and regulations governing the use and occupancy of all rooms and space in said building.
 
 (Mar. 4, 1907, ch. 2918, 34 Stat. 1365; May 28, 1908, No. 30, 35 Stat. 578; Mar. 3, 1921, ch. 124, 41 Stat. 1291; Pub. L. 111–145, §6(c)(1), Mar. 4, 2010, 124 Stat. 54.)
 
@@ -20,7 +20,7 @@ Section is based on act Mar. 4, 1907, popularly known as the "Sundry Civil Appro
 
 #### Change of Name
 
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under section 1801 of this title.
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former section 1801 of this title.
 
 #### Short Title of 2012 Amendment
 
@@ -74,7 +74,7 @@ Authority of Architect of the Capitol to Enter Into Leases and Other Agreements 
 
 &emsp;"(1)
 
-Authority described.—The Architect of the Capitol is authorized to enter into leases and other agreements with departments and agencies of the Federal Government for the use of the building described in subsection (e) (or portions thereof), subject to the approval of the House Office Building Commission.
+Authority described.—The Architect of the Capitol is authorized to enter into leases and otheragreements with departments and agencies of the Federal Government for the use of the building described in subsection (e) (or portions thereof), subject to the approval of the House Office Building Commission.
 
 &emsp;"(2)
 
@@ -196,7 +196,7 @@ Availability of funds.—Funds in the account established by paragraph (1) shall
 
 &emsp;&emsp;"(B) payment of expenses associated with renovating facilities under the jurisdiction of the Architect for the purpose of accommodating such tenants;
 
-&emsp;&emsp;"(C) reimbursement of expenses incurred for advertising and marketing activities related to the disposal under subsection (a)(1) in a total amount of not to exceed $75,000; and
+&emsp;&emsp;"(C) reimbursement of expenses incurred for advertising and marketing activities related to thedisposal under subsection (a)(1) in a total amount of not to exceed $75,000; and
 
 &emsp;&emsp;"(D) reimbursement of expenses incurred by the Chief Administrative Officer of the House of Representatives to cover the costs of furnishings and furniture to accommodate the needs of the House of Representatives Child Care Center.
 
@@ -248,7 +248,7 @@ House Resolution No. 402, One Hundred First Congress, Sept. 10, 1990, provided t
 
 "(a)
 
-Thomas P. O'Neill, Jr. House of Representatives Office Building.—The House of Representatives office building located at C Street and New Jersey Avenue, Southeast, in the District of Columbia, and known as House of Representatives Office Building Annex No.1, shall be known and designated as the 'Thomas P. O'Neill, Jr. House of Representatives Office Building'.
+Thomas P. O'Neill, Jr. House of Representatives Office Building.—The House of Representatives office building located at C Street and New Jersey Avenue, Southeast, in the District of Columbia, and known as House of Representatives Office Building Annex No. 1, shall be known and designated as the 'Thomas P. O'Neill, Jr. House of Representatives Office Building'.
 
 "(b)
 

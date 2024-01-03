@@ -12,7 +12,7 @@ The Secretary of Transportation, and the Secretary of Commerce, in consultation 
 
 #### (b) Considerations relating to the taxing mechanism
 
-&emsp;(1) The extent to which the Federal Government should seek to recover some or all ofFederal expenditures for the benefit of inland waterway transportation from the users of the facilities for which such expenditures are made.
+&emsp;(1) The extent to which the Federal Government should seek to recover some or all of Federal expenditures for the benefit of inland waterway transportation from the users of the facilities for which such expenditures are made.
 
 &emsp;(2) The various forms of inland waterway user taxes and charges which could be established.
 
@@ -96,7 +96,7 @@ The effects of inland waterway user taxes and charges on—
 
 &emsp;(2) The expansion and improvement of the inland waterways determined to be necessary by the Secretary of the Army under section 158 of the Water Resources Development Act of 1976 (Public Law 94–587) or estimated to be necessary under paragraph (3).
 
-&emsp;(3) The requirements of the Nation through the year 2000 for transportation service, theportion thereof which should be provided by inland waterway carriers, and an estimate of the expansion and improvement of inland waterway capacity necessary to meet such requirements.
+&emsp;(3) The requirements of the Nation through the year 2000 for transportation service, the portion thereof which should be provided by inland waterway carriers, and an estimate of the expansion and improvement of inland waterway capacity necessary to meet such requirements.
 
 #### (g) "Inland waterway user taxes and charges" defined
 

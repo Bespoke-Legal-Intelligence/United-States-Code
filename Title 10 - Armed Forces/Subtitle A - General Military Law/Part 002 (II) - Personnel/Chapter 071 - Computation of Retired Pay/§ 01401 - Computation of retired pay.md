@@ -22,7 +22,7 @@ Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The mo
 
 Use of Most Favorable Formula.—If a person would otherwise be entitled to retired pay computed under more than one formula of the table in subsection (a) or of any other provision of law, the person is entitled to be paid under the applicable formula that is most favorable to him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 106; Pub. L. 85–422, §§6(7), 11(a)(2), May 20, 1958, 72 Stat. 129, 131; Pub. L. 88–132, §5(h)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 89–132, §6, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §3(1), Dec. 16, 1967, 81 Stat. 653; Pub. L. 92–455, §1, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(b)(1), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title I, §113(a), title V, §511(49), Dec. 12, 1980, 94 Stat. 2876, 2924; Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 98–557, §35(b), Oct. 30, 1984, 98 Stat. 2877; Pub. L. 99–348, title II, §201(a), July 1, 1986, 100 Stat. 691; Pub. L. 102–484, div. A, title X, §1052(18), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 109–163, div. A, title V, §509(d)(1)(A), Jan. 6, 2006, 119 Stat. 3231; Pub. L. 109–364, div. A, title V, §502(d)(1), Oct. 17, 2006, 120 Stat. 2177; Pub. L. 111–383, div. A, title VI, §631(a), Jan. 7, 2011, 124 Stat. 4239; Pub. L. 112–239, div. A, title X, §1076(f)(19), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 114–92, div. A, title VI, §631(c)(1)(A), Nov. 25, 2015, 129 Stat. 843.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 106; Pub. L. 85–422, §§6(7), 11(a)(2), May 20, 1958, 72 Stat. 129, 131; Pub. L. 88–132, §5(h)(1), Oct. 2, 1963, 77 Stat.214; Pub. L. 89–132, §6, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §3(1), Dec. 16, 1967, 81 Stat. 653; Pub. L. 92–455, §1, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(b)(1), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title I, §113(a), title V, §511(49), Dec. 12, 1980, 94 Stat. 2876, 2924; Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 98–557, §35(b), Oct. 30, 1984, 98 Stat. 2877; Pub. L. 99–348, title II, §201(a), July 1, 1986, 100 Stat. 691; Pub. L. 102–484, div. A, title X, §1052(18), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 109–163, div. A, title V, §509(d)(1)(A), Jan. 6, 2006, 119 Stat. 3231; Pub. L. 109–364, div. A, title V, §502(d)(1), Oct. 17, 2006, 120 Stat. 2177; Pub. L. 111–383, div. A, title VI, §631(a), Jan. 7, 2011, 124 Stat. 4239; Pub. L. 112–239, div. A, title X, §1076(f)(19), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 114–92, div. A, title VI, §631(c)(1)(A), Nov. 25, 2015, 129 Stat. 843.)
 
 Historical and Revision Notes
 
@@ -116,7 +116,7 @@ In footnote 3, the words "and disregard a part of a year that is less than six m
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–92, in column 2 of table, substituted "the retired pay multiplier determined for the member under section 1409 of this title" for "2½%of years of service credited to him under section 1208" in formula numbers 1 and 2 and "section 1409" for "section 1409(a)" in formula numbers 4 and 5.
+<b>2015</b>—Subsec. (a). Pub. L. 114–92, in column 2 of table, substituted "the retired pay multiplier determined for the member under section 1409 of this title" for "2½% of years of service credited to him under section 1208" in formula numbers 1 and 2 and "section 1409" for "section 1409(a)" in formula numbers 4 and 5.
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239 substituted "columns 1, 2, and 3," for "columns 1, 2, 3, and 4," in introductory provisions.
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementatio
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–383, div. A, title VI, §631(d), Jan. 7, 2011, 124 Stat. 4240, provided that: "The tables in sections 1401(a), 1402(d), and 1402a(d) of title 10, United States Code, as in effect on the day before the date of the enactment of this Act \[Jan. 7, 2011\], shall continue to apply to the computation or recomputation of retired or retainer pay for persons who first became entitled to retired or retainer pay under subtitle A of such title on or before the date of the enactment of this Act. Theamendments made by this section \[amending this section and sections 1402 and 1402a of this title\] shall apply only with respect to persons who first become entitled to retired or retainer pay under such subtitle after that date."
+Pub. L. 111–383, div. A, title VI, §631(d), Jan. 7, 2011, 124 Stat. 4240, provided that: "The tables in sections 1401(a), 1402(d), and 1402a(d) of title 10, United States Code, as in effect on the day before the date of the enactment of this Act \[Jan. 7, 2011\], shall continue to apply to the computation or recomputation of retired or retainer pay for persons who first became entitled to retired or retainer pay under subtitle A of such title on or before the date of the enactment of this Act. The amendments made by this section \[amending this section and sections 1402 and 1402a of this title\] shall apply only with respect to persons who first become entitled to retired or retainer pay under such subtitle after that date."
 
 #### Effective Date of 1994 Amendment
 
@@ -200,7 +200,7 @@ Amendment by section 113(a) of Pub. L. 96–513 effective Sept. 15, 1981, but th
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–207 effective Oct. 1, 1967, see section 7 of Pub. L. 90–207, set out as a note under section 203 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 90–207 effective Oct. 1, 1967, see section 7 of Pub. L. 90–207, set out as a note undersection 203 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1965 Amendment
 
@@ -280,7 +280,7 @@ Repeal of source law.—Section 8054 of the Department of Defense Appropriations
 
 "(5)
 
-Cross reference.—For the effective date of October 1, 1983, for provisions making permanent programmatic changes in law to accomplish the policy provided in such section 8054 (and prior provisions of law), see section 923(h) of the Department of Defense Authorization Act, 1984 (Public Law 98–94) \[probably means section 923(g) of Pub. L. 98–94, set out as an Effective Date of 1983 Amendment note under section 1174 of this title\]."
+Cross reference.—For the effective date of October 1, 1983, for provisions making permanent programmatic changes in law to accomplish the policy provided in such section 8054 (and prior provisions of law), see section 923(h) of the Department of Defense Authorization Act, 1984 (Public Law 98–94) \[probablymeans section 923(g) of Pub. L. 98–94, set out as an Effective Date of 1983 Amendment note under section 1174 of this title\]."
 
 #### Limitation on Payment of Retired or Retainer Pay To Reflect Fractional Year Adjustments
 
@@ -324,7 +324,7 @@ Pub. L. 85–422, §4, May 20, 1958, 72 Stat. 128, as amended by Pub. L. 85–85
 
 "(a) Except for members covered by section 7 of this Act, members and former members of the uniformed services who are entitled to retired pay, retirement pay, retainer pay, or equivalent pay, on the day before the effective date of this Act \[June 1, 1958\], shall be entitled to an increase of 6 per centum of that pay to which they were entitled on that date.
 
-"(b) Notwithstanding any other provision of law, a member of a uniformed service retired under any provision of law, or transferred to the Fleet Reserve or FleetMarine Corps Reserve, on the effective date of this Act \[June 1, 1958\] shall have his retired pay or retainer pay computed on the basis of the rates of basic pay set forth in the Career Compensation Act of 1949, as amended by this Act, or on the rates of basic pay set forth in the Career Compensation Act of 1949 on the day before the effective date of this Act, plus 6 per centum of that pay, whichever is greater.
+"(b) Notwithstanding any other provision of law, a member of a uniformed service retired under any provision of law, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve, on the effective date of this Act \[June 1, 1958\] shall have his retired pay or retainer pay computed on the basis of the rates of basic pay set forth in the Career Compensation Act of 1949, as amended by this Act, or on the rates of basic pay set forth in the Career Compensation Act of 1949 on the day before the effective date of this Act, plus 6 per centum of that pay, whichever is greater.
 
 "(c) Section 5 of the Career Incentive Act of 1955 (69 Stat. 22) does not apply to any person who is retired, or to whom retired pay, retirement pay, retainer pay, or equivalent pay (including temporary disability retired pay) is granted, on or after the effective date of this Act \[June 1, 1958\]".
 

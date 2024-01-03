@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title1",
- "package": "USCODE-2022-title1",
+ "package": "USCODE-2023-title1",
  "pieces": [
   {
    "id": "1_",
@@ -208,33 +208,33 @@
      2,
      [
       [
-       192,
+       667,
        "[Page 7]"
       ]
      ]
     ],
     [
-     "I",
-     68,
-     [
-      [
-       113,
-       "[Page 8]"
-      ]
-     ]
-    ],
-    [
      "L",
-     182,
-     "[Page 9]",
+     72,
+     "[Page 8]",
      true
     ],
     [
      "I",
-     282,
+     188,
      [
       [
-       323,
+       144,
+       "[Page 9]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     286,
+     [
+      [
+       431,
        "[Page 10]"
       ]
      ]
@@ -251,7 +251,7 @@
    "marks": [
     [
      "L",
-     6,
+     18,
      "[Page 11]",
      true
     ]
@@ -309,18 +309,11 @@
   },
   {
    "id": "1_111",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 12]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00111 - Repeals as evidence of prior effectiveness.md",
    "printed_pages": [
     11,
-    12
+    11
    ]
   },
   {
@@ -328,10 +321,20 @@
    "marks": [
     [
      "I",
-     46,
+     2,
      [
       [
-       222,
+       425,
+       "[Page 12]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     48,
+     [
+      [
+       275,
        "[Page 13]"
       ]
      ]
@@ -339,24 +342,17 @@
    ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112 - Statutes at Large; contents; admissibility in evidence.md",
    "printed_pages": [
-    12,
+    11,
     13
    ]
   },
   {
    "id": "1_112a",
-   "marks": [
-    [
-     "L",
-     40,
-     "[Page 14]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112a - United States Treaties and Other International Agreements; contents; admissibility in evidence.md",
    "printed_pages": [
     13,
-    14
+    13
    ]
   },
   {
@@ -364,49 +360,45 @@
    "marks": [
     [
      "I",
-     30,
+     8,
      [
       [
-       152,
+       228,
+       "[Page 14]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     40,
+     [
+      [
+       140,
        "[Page 15]"
       ]
      ]
     ],
     [
-     "I",
-     70,
-     [
-      [
-       405,
-       "[Page 16]"
-      ]
-     ]
+     "L",
+     110,
+     "[Page 16]",
+     true
     ],
     [
      "I",
-     136,
+     184,
      [
       [
-       159,
+       170,
        "[Page 17]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     218,
-     [
-      [
-       114,
-       "[Page 18]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112b - United States international agreements; transmission to Congress.md",
+   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112b - United States international agreements and non-binding instruments; transparency provisions.md",
    "printed_pages": [
-    14,
-    18
+    13,
+    17
    ]
   },
   {
@@ -414,8 +406,8 @@
    "marks": [],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00113 - Little and Brown's edition of laws and treaties; slip laws; Treaties and Other International Acts Series; admissibility in evidence.md",
    "printed_pages": [
-    18,
-    18
+    17,
+    17
    ]
   },
   {
@@ -423,8 +415,8 @@
    "marks": [],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00114 - Sealing of instruments.md",
    "printed_pages": [
-    18,
-    18
+    17,
+    17
    ]
   },
   {
@@ -432,19 +424,19 @@
    "marks": [
     [
      "I",
-     20,
+     28,
      [
       [
-       142,
-       "[Page 19]"
+       147,
+       "[Page 18]"
       ]
      ]
     ]
    ],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/README.md",
    "printed_pages": [
-    18,
-    19
+    17,
+    18
    ]
   },
   {
@@ -452,8 +444,8 @@
    "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00201 - Publication and distribution of Code of Laws of United States and Supplements and District of Columbia Code and Supplements.md",
    "printed_pages": [
-    19,
-    19
+    18,
+    18
    ]
   },
   {
@@ -461,8 +453,8 @@
    "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00202 - Preparation and publication of Codes and Supplements.md",
    "printed_pages": [
-    19,
-    19
+    18,
+    18
    ]
   },
   {
@@ -470,40 +462,44 @@
    "marks": [
     [
      "L",
-     4,
-     "[Page 20]",
+     12,
+     "[Page 19]",
      true
     ]
    ],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00203 - District of Columbia Code; preparation and publication; cumulative supplements.md",
    "printed_pages": [
-    19,
-    20
+    18,
+    19
    ]
   },
   {
    "id": "1_204",
-   "marks": [
-    [
-     "L",
-     82,
-     "[Page 21]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00204 - Codes and Supplements as evidence of the laws of United States and District of Columbia; citation of Codes and Supplements.md",
    "printed_pages": [
-    20,
-    21
+    19,
+    19
    ]
   },
   {
    "id": "1_205",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       332,
+       "[Page 20]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00205 - Codes and Supplement; where printed; form and style; ancillaries.md",
    "printed_pages": [
-    21,
-    21
+    19,
+    20
    ]
   },
   {
@@ -511,8 +507,8 @@
    "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00206 - Bills and resolutions of Committee on the Judiciary of House of Representatives; form and style; ancillaries; curtailment of copies.md",
    "printed_pages": [
-    21,
-    21
+    20,
+    20
    ]
   },
   {
@@ -520,8 +516,8 @@
    "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00207 - Copies of acts and resolutions in slip form; additional number printed for Committee on the Judiciary of House of Representatives.md",
    "printed_pages": [
-    21,
-    21
+    20,
+    20
    ]
   },
   {
@@ -529,8 +525,8 @@
    "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00208 - Delegation of function of Committee on the Judiciary to other agencies; printing, and so forth, under direction of Joint Committee on….md",
    "printed_pages": [
-    21,
-    21
+    20,
+    20
    ]
   },
   {
@@ -538,8 +534,8 @@
    "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00209 - Copies of Supplements to Code of Laws of United States and of District of Columbia Code and Supplements; conclusive evidence of original.md",
    "printed_pages": [
-    21,
-    21
+    20,
+    20
    ]
   },
   {
@@ -547,8 +543,8 @@
    "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00210 - Distribution of Supplements to Code of Laws of United States and of District of Columbia Code and Supplements; slip and pamphlet copies.md",
    "printed_pages": [
-    21,
-    21
+    20,
+    20
    ]
   },
   {
@@ -559,16 +555,16 @@
      2,
      [
       [
-       98,
-       "[Page 22]"
+       384,
+       "[Page 21]"
       ]
      ]
     ]
    ],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00211 - Copies to Members of Congress.md",
    "printed_pages": [
-    21,
-    22
+    20,
+    21
    ]
   },
   {
@@ -576,8 +572,8 @@
    "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00212 - Additional distribution at each new Congress.md",
    "printed_pages": [
-    22,
-    22
+    21,
+    21
    ]
   },
   {
@@ -585,11 +581,11 @@
    "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00213 - Appropriation for preparing and editing supplements.md",
    "printed_pages": [
-    22,
-    22
+    21,
+    21
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2022-title1 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2023-title1 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 01 - General Provisions"
 }

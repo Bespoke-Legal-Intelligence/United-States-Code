@@ -1,6 +1,6 @@
 ### §7749. Property: for United States surveys
 
-Under regulations governing the transportation of Army supplies, any branch, office, orofficer designated by the Secretary of the Army shall receive, transport, and be responsible for property turned over by the officers or agents of any United States survey, for the National Museum or for a department of the United States or field office thereof. The amount paid by the Army for transportation under this section shall be refunded to the Army by the National Museum or the department to which the property is consigned.
+Under regulations governing the transportation of Army supplies, any branch, office, or officer designated by the Secretary of the Army shall receive, transport, and be responsible for property turned over by the officers or agents of any United States survey, for the National Museum or for a department of the United States or field office thereof. The amount paid by the Army for transportation under this section shall be refunded to the Army by the National Museum or the department to which the property is consigned.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 268, §4749; renumbered §7749, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 

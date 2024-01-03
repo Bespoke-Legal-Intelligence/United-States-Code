@@ -10,7 +10,7 @@ The Secretary, may, at public sale, and upon not less than 20 days' notice, sell
 
 #### (c) Lease
 
-Until such sale, the Secretary may lease such real estate owned as aforesaid on such terms and for such period as the Secretary shall deem proper.
+Until such sale, the Secretary may lease such real estate owned as aforesaid on such terms andfor such period as the Secretary shall deem proper.
 
 #### (d) Release to debtor
 

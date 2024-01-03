@@ -22,7 +22,7 @@ Tobacco products and cigarette papers and tubes classifiable under item 804.00 o
 
 #### References in Text
 
-Item 804.00 of title I of the Tariff Act of 1930, referred to in subsec. (d), was classified to item 804.00 of the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States. The Harmonized Tariff Schedule of the United States is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+Item 804.00 of title I of the Tariff Act of 1930, referred to in subsec. (d), was classified to item 804.00 of the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States. The Harmonized Tariff Schedule of the United States is notset out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 #### Amendments
 
@@ -66,7 +66,7 @@ Pub. L. 101–239, title VII, §7508(b), Dec. 19, 1989, 103 Stat. 2370, provided
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–509 applicable to articles imported, entered for warehousing, or brought into theUnited States or a foreign trade zone after Dec. 15, 1986, see section 8011(c) of Pub. L. 99–509, set out as a note under section 5061 of this title.
+Amendment by Pub. L. 99–509 applicable to articles imported, entered for warehousing, or brought into the United States or a foreign trade zone after Dec. 15, 1986, see section 8011(c) of Pub. L. 99–509, set out as a note under section 5061 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -6,7 +6,7 @@ As soon as possible after the date on which a petition is filed under section 22
 
 #### (b) Workers covered by certification
 
-A certification under this section shall not apply to any worker whose last total or partial separation from the firm or appropriate subdivision of the firm before his application under section 2291 of this title occurred—
+A certification under this section shall not apply to any worker whose last total or partialseparation from the firm or appropriate subdivision of the firm before his application under section 2291 of this title occurred—
 
 &emsp;(1) more than one year before the date of the petition on which such certification was granted, or
 
@@ -76,7 +76,7 @@ For reversion, beginning on July 1, 2021, to the provisions of this section as i
 
 For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
 
-Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 2271 of this title, which providedfor the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
+Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 2271 of this title, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by Pub. L.114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
 
 #### Effective and Termination Dates of 2009 Amendment
 

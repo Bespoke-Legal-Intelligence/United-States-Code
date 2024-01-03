@@ -14,7 +14,7 @@ Reports.—Not later than 15 days after the date on which the Secretary of Defen
 
 (b)
 
-Elements of Evaluation.—Each evaluation under subsection (a)(1) shall include, withrespect to the military department being evaluated, the following:
+Elements of Evaluation.—Each evaluation under subsection (a)(1) shall include, with respect to the military department being evaluated, the following:
 
 &emsp;(1) The adequacy of the policies, procedures, and execution of manning, training, and equipping personnel for employment within the Cyber Mission Force.
 

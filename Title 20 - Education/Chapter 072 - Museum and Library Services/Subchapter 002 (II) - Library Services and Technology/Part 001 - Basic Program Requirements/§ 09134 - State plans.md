@@ -134,7 +134,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 &emsp;&emsp;&emsp;A library covered by paragraph (1) that does not have in place an Internet safety policy meeting the requirements of paragraph (1)—
 
-&emsp;&emsp;&emsp;&emsp;(I) for the first program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put inplace an Internet safety policy that meets such requirements; and
+&emsp;&emsp;&emsp;&emsp;(I) for the first program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy that meets such requirements; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for the second program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that such library is in compliance with such requirements.
 
@@ -142,7 +142,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (iii) Waivers
 
-&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make the certification otherwise required by that clause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this subchapter.
+&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make the certification otherwise required by thatclause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this subchapter.
 
 #### (5) Noncompliance
 
@@ -214,7 +214,7 @@ The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b)(6)(A). Pub. L. 115–410, §11(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "elementary and secondary education, including coordination with the activities within the State that are supported by a grant under section 6646 of this title;".
+<b>2018</b>—Subsec. (b)(6)(A). Pub. L. 115–410, §11(1), added subpar. (A) and struck out former subpar. (A) whichread as follows: "elementary and secondary education, including coordination with the activities within the State that are supported by a grant under section 6646 of this title;".
 
 Subsec. (b)(6)(C)(iii). Pub. L. 115–410, §11(2), added cl. (iii).
 

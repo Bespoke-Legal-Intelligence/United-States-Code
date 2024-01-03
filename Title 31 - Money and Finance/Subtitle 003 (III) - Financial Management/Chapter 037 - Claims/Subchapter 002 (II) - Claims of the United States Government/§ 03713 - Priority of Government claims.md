@@ -40,7 +40,7 @@ R.S. §3467; restated May 10, 1934, ch. 277, §518(a), 48 Stat. 760; Nov. 6, 197
 
 In the section, the word "claim" is substituted for "debts" for consistency. The word "due" is omitted as unnecessary.
 
-In subsection (a)(1), before clause (A), the word "paid" is substituted for "satisfied" for consistency. In clause (A)(i), the words "and the priority established shall extend as well to cases in which" are omitted because of the restatement. In clause (A)(ii), the word "property" is substituted for "estate and effects" to eliminate unnecessary words. The words "absconding, concealed, or" and "by process of law" are omitted as surplus.
+In subsection (a)(1), before clause (A), the word "paid" is substituted for "satisfied" for consistency. In clause (A)(i), the words "and the priority established shall extend as well to cases in which" are omitted because of the restatement. In clause (A)(ii), the word"property" is substituted for "estate and effects" to eliminate unnecessary words. The words "absconding, concealed, or" and "by process of law" are omitted as surplus.
 
 In subsection (a)(2), the words "The priority established under . . . however" are omitted as surplus.
 

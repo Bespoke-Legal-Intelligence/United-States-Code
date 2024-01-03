@@ -52,7 +52,7 @@ In subsection (a)(2), the words "deputy disbursing official" are substituted for
 
 In subsection (b)(1), the word "disabled" is substituted for "incapacity" for consistency in the title. The word "until" is substituted for "for a period of time not to extend beyond" to eliminate unnecessary words.
 
-In subsection (b)(2), the words "The deputy disbursing official, and not the former disbursing official or the estate of the former disbursing official" are substituted for "The former disbursing officer or his estate . . . but the deputy disbursing officer shall be responsible therefor" for clarity and because of the restatement. The word "liable" is substituted for "subject to any legal liability or penalty" to eliminate unnecessary words. The word "actions" is substituted for "official acts and defaults". The words "in the name or in the place of the former disbursing officer" are omitted as unnecessary.
+In subsection (b)(2), the words "The deputy disbursing official, and not the former disbursing officialor the estate of the former disbursing official" are substituted for "The former disbursing officer or his estate . . . but the deputy disbursing officer shall be responsible therefor" for clarity and because of the restatement. The word "liable" is substituted for "subject to any legal liability or penalty" to eliminate unnecessary words. The word "actions" is substituted for "official acts and defaults". The words "in the name or in the place of the former disbursing officer" are omitted as unnecessary.
 
 #### <b>Editorial Notes</b>
 

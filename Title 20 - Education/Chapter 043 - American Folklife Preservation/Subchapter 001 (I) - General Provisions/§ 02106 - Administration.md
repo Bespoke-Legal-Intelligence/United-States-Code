@@ -16,7 +16,7 @@ In addition to any authority vested in it by other provisions of this subchapter
 
 &emsp;(6) accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
-&emsp;(7) enter into contracts to carry out the provisions of this subchapter, and such contracts may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds and in conformity with section 6101 of title 41; and
+&emsp;(7) enter into contracts to carry out the provisions of this subchapter, and such contracts may, with the concurrence of two-thirds of the members of the Board, be entered into withoutperformance or other bonds and in conformity with section 6101 of title 41; and
 
 &emsp;(8) make advances, progress, and other payments which the Board deems necessary under this subchapter in conformity with the provisions of section 3324(a) and (b) of title 31.
 

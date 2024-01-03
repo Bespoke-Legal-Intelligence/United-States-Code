@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) Under regulations prescribed by the Secretary of Defense, the Secretary may make an honorary promotion (whether or not posthumous) of a former member or retired member of the armed forces to any grade not exceeding the grade of major general, rear admiral (upper half), or an equivalent grade in the Space Force if the Secretary determines that the promotion is merited.
+In General.—(1) Under regulations prescribed by the Secretary of Defense, the Secretary may make an honorary promotion (whether or not posthumous) of a former member or retired member of the armed forces to any grade not exceeding the grade of major general or rear admiral (upper half) if the Secretary determines that the promotion is merited.
 
 (2) The authority to make an honorary promotion under this subsection shall apply notwithstanding that the promotion is not otherwise authorized by law.
 
@@ -12,11 +12,17 @@ Notice to Congress.—The Secretary may not make an honorary promotion pursuant 
 
 (c)
 
-Notice of Promotion.—Upon making an honorary promotion pursuant to subsection (a),the Secretary shall expeditiously notify the former member or retired member concerned, or the next of kin of such former member or retired member if such former member or retired member is deceased, of the promotion.
+Notice of Promotion.—Upon making an honorary promotion pursuant to subsection (a), the Secretary shall expeditiously notify the former member or retired member concerned, or the next of kin of such former member or retired member if such former member or retired member is deceased, of the promotion.
 
 (d)
 
 Nature of Promotion.—Any promotion pursuant to this section is honorary, and shall not affect the pay, retired pay, or other benefits from the United States to which the former member or retired member concerned is entitled or would have been entitled based on the military service of such former member or retired member, nor affect any benefits to which any other person is or may become entitled based on the military service of such former member or retired member.
 
-(Added Pub. L. 116–283, div. A, title V, §523(a), Jan. 1, 2021, 134 Stat. 3597.)
+(Added Pub. L. 116–283, div. A, title V, §523(a), Jan. 1, 2021, 134 Stat. 3597; amended Pub. L. 118–31, div. A, title XVII, §1741(a)(6), Dec. 22, 2023, 137 Stat. 680.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2023</b>—Subsec. (a)(1). Pub. L. 118–31 substituted "general or" for "general," and struck out ", or an equivalent grade in the Space Force" after "rear admiral (upper half)".
 

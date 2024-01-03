@@ -90,7 +90,7 @@ In general.—Notwithstanding section 552b of title 5, a majority of the members
 
 &emsp;&emsp;(B)
 
-Disclosure of nonpublic collaborative discussions.—Except as provided under subparagraphs (C) and (D), not later than 2 business days after the conclusion of a meeting under subparagraph (A), the Board shall make available to the public, in a place easily accessible to the public—
+Disclosure of nonpublic collaborative discussions.—Except as provided under subparagraphs (C) and (D), not later than 2 business days after the conclusion ofa meeting under subparagraph (A), the Board shall make available to the public, in a place easily accessible to the public—
 
 &emsp;&emsp;&emsp;(i) a list of the individuals present at the meeting; and
 

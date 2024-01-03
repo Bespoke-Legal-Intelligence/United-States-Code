@@ -16,7 +16,7 @@ In order to increase the opportunities and motivation for family planning and to
 
 (1) In order to contribute to improvements in the health of the greatest number of poor people in developing countries, the President is authorized to furnish assistance, on such terms and conditions as he may determine, for health programs. Assistance under this subsection shall be used primarily for basic integrated health services, safe water and sanitation, disease prevention and control, and related health planning and research. This assistance shall emphasize self-sustaining community-based health programs by means such as training of health auxiliary and other appropriate personnel, support for the establishment and evaluation of projects that can be replicated on a broader scale, measures to improve management of health programs, and other services and supplies to support health and disease prevention programs.
 
-(2)(A) In carrying out the purposes of this subsection, the President shall promote, encourage, and undertake activities designed to deal directly with the special health needs of children and mothers. Such activities should utilize simple, available technologies which can significantly reduce childhood mortality, such as improved and expanded immunization programs, oral rehydration to combat diarrhoeal diseases, and education programs aimed at improving nutrition and sanitation and at promoting child spacing. In carrying out this paragraph, guidance shall be sought from knowledgeable health professionals from outside the agency primarily responsible for administering subchapter I of this chapter. In addition to government-to-government programs, activities pursuant to this paragraph should include support for appropriate activities of the types described in this paragraph which are carried out by international organizations (which may include international organizations receiving funds under part III of this subchapter) and by private and voluntary organizations, and should include encouragement to other donors to support such types of activities.
+(2)(A) In carrying out the purposes of this subsection, the President shall promote, encourage, and undertake activities designed to deal directly with the special health needs of children and mothers. Such activities should utilize simple, available technologies which can significantly reduce childhood mortality, such as improved and expanded immunization programs, oral rehydration to combat diarrhoeal diseases, and education programs aimed at improving nutrition and sanitation and at promoting child spacing. In carrying out this paragraph, guidance shall be sought from knowledgeable health professionals from outside the agency primarily responsible for administering subchapter I of this chapter. In addition to government-to-government programs, activities pursuant to this paragraph should include support for appropriate activities of the types described in this paragraph which are carried out by international organizations (which may includeinternational organizations receiving funds under part III of this subchapter) and by private and voluntary organizations, and should include encouragement to other donors to support such types of activities.
 
 (B) In addition to amounts otherwise available for such purpose, there are authorized to be appropriated to the President $25,000,000 for fiscal year 1986 and $75,000,000 for fiscal year 1987 for use in carrying out this paragraph. Amounts appropriated under this subparagraph are authorized to remain available until expended.
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–88, title I, §103(d), Aug. 3, 1977, 91 Stat. 535, provided that: "The amendment made by subsection (a)of this section \[amending this section\] shall take effect on October 1, 1977."
+Pub. L. 95–88, title I, §103(d), Aug. 3, 1977, 91 Stat. 535, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall take effect on October 1, 1977."
 
 #### International Pandemic Preparedness
 
@@ -228,7 +228,7 @@ Pub. L. 117–263, div. E, title LV, subtitle D, Dec. 23, 2022, 136 Stat. 3344, 
 
 &emsp;"(9) The term 'pandemic preparedness' refers to the actions taken to establish and sustain the capacity and capabilities necessary to rapidly identify, prevent, protect against, and respond to the emergence, reemergence, and spread of pathogens of pandemic potential.
 
-&emsp;"(10) The term 'partner country' means a foreign country in which the relevant Federal departments and agencies are implementing United States foreign assistance for global health security and pandemic prevention, preparedness, and response under this subtitle.
+&emsp;"(10) The term 'partner country' means a foreign country in which the relevant Federal departments and agencies are implementing United States foreignassistance for global health security and pandemic prevention, preparedness, and response under this subtitle.
 
 &emsp;"(11) The term 'relevant Federal departments and agencies' means any Federal department or agency implementing United States policies and programs relevant to the advancement of United States global health security and diplomacy overseas, which may include—
 
@@ -260,7 +260,7 @@ Pub. L. 117–263, div. E, title LV, subtitle D, Dec. 23, 2022, 136 Stat. 3344, 
 
 "(a)
 
-Leveraging United States Bilateral Global Health Programs for International Pandemic Response.—Subject to the notification requirements under section 634A of the Foreign Assistance Act of 1961 (22 U.S.C. 2394–1), amounts authorized to be appropriated or otherwise made available to carry out section 104 of the Foreign Assistance Act (22 U.S.C. 2151b)may be used in countries receiving such United States foreign assistance for the purpose of—
+Leveraging United States Bilateral Global Health Programs for International Pandemic Response.—Subject to the notification requirements under section 634A of the Foreign Assistance Act of 1961 (22 U.S.C. 2394–1), amounts authorized to be appropriated or otherwise made available to carry out section 104 of the Foreign Assistance Act (22 U.S.C. 2151b) may be used in countries receiving such United States foreign assistance for the purpose of—
 
 &emsp;"(1) strengthening vaccine readiness;
 
@@ -326,7 +326,7 @@ In general.—The President shall develop, update, maintain, and advance a compr
 
 &emsp;&emsp;&emsp;"(i) demonstrated need, as identified through the Joint External Evaluation process, the Global Health Security Index classification of health systems, national action plans for health security, Global Health Security Agenda, other risk-based assessments, and complementary or successor indicators of global health security and pandemic preparedness; and
 
-&emsp;&emsp;&emsp;"(ii) demonstrated commitment to transparency, including budget and global health data transparency, complying with the International Health Regulations (2005), investing in domestic health systems, and achieving measurable results;
+&emsp;&emsp;&emsp;"(ii) demonstrated commitment to transparency, including budget and global health data transparency, complying with the InternationalHealth Regulations (2005), investing in domestic health systems, and achieving measurable results;
 
 &emsp;&emsp;"(E) reduce long-term reliance upon United States foreign assistance for global health security by—
 
@@ -448,7 +448,7 @@ Authorities.—The Ambassador-At-Large may—
 
 &emsp;&emsp;"(B) ensure effective coordination, management, and oversight of United States foreign policy, diplomatic efforts, and foreign assistance funded with amounts authorized to be appropriated pursuant to section 5564(a) that are used by the Department of State to advance the relevant elements of the United States global health security and diplomacy strategy developed pursuant to subsection (a) by—
 
-&emsp;&emsp;&emsp;"(i) developing and updating, as appropriate, in collaboration with the Administrator of theUSAID and the Secretary of Health and Human Services, related policy guidance and unified auditing, monitoring, and evaluation plans;
+&emsp;&emsp;&emsp;"(i) developing and updating, as appropriate, in collaboration with the Administrator of the USAID and the Secretary of Health and Human Services, related policy guidance and unified auditing, monitoring, and evaluation plans;
 
 &emsp;&emsp;&emsp;"(ii) avoiding duplication of effort and collaborating with other relevant Federal departments and agencies;
 
@@ -734,7 +734,7 @@ Administrative expenses; financial tracking systems.—The FIF Representative sh
 
 &emsp;"(4)
 
-Exemption from duties and taxes.—The FIF Representative should seek to ensure that the Fund adopts rules that condition grants upon agreement by the relevant national authorities in an eligible partner country to exempt from duties and taxes all products financed by such grants, including procurements by any principal or subrecipient for the purpose of carrying out such grants.
+Exemption from duties and taxes.—The FIF Representative should seek to ensure that the Fundadopts rules that condition grants upon agreement by the relevant national authorities in an eligible partner country to exempt from duties and taxes all products financed by such grants, including procurements by any principal or subrecipient for the purpose of carrying out such grants.
 
 "(h)
 

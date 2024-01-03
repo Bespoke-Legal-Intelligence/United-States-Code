@@ -44,7 +44,7 @@ Pub. L. 104–106, div. D, title XLIV, §4401, Feb. 10, 1996, 110 Stat. 678, pro
 
 "(a)
 
-Effective Date.—Except as otherwise provided in this division \[div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification\], this division and theamendments made by this division shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\].
+Effective Date.—Except as otherwise provided in this division \[div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification\], this division and the amendments made by this division shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\].
 
 "(b)
 
@@ -56,7 +56,7 @@ Solicitations, unsolicited proposals, and related contracts.—An amendment made
 
 &emsp;"(2)
 
-Other matters.—An amendment made by this division shall also apply, to the extent and in the manner prescribed in the final regulations promulgated pursuant to section 4402 to implement such amendment, with respect to any matter related to—
+Other matters.—An amendment made by this division shall also apply, to the extent and in themanner prescribed in the final regulations promulgated pursuant to section 4402 to implement such amendment, with respect to any matter related to—
 
 &emsp;&emsp;"(A) a contract that is in effect on the date described in paragraph (3);
 

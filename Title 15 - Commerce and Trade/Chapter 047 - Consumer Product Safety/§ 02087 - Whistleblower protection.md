@@ -2,7 +2,7 @@
 
 (a) No manufacturer, private labeler, distributor, or retailer,<sup>1</sup> may discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment because the employee, whether at the employee's initiative or in the ordinary course of the employee's duties (or any person acting pursuant to a request of the employee)—
 
-&emsp;(1) provided, caused to be provided, or is about to provide or cause to be provided to the employer, the Federal Government, or the attorney general of a State information relating to any violation of, or any act or omission the employee reasonably believes to be a violation of any provision of this chapter or any other Act enforced by the Commission, or any order, rule, regulation, standard, or ban under any such Acts;
+&emsp;(1) provided, caused to be provided, or is about to provide or cause to be provided to the employer, the Federal Government, or the attorney general of a State information relating to any violation of, or any act or omission the employee reasonably believes to be a violation of any provision of this chapter or any other Act enforced by the Commission, or any order,rule, regulation, standard, or ban under any such Acts;
 
 &emsp;(2) testified or is about to testify in a proceeding concerning such violation;
 
@@ -20,7 +20,7 @@
 
 (iii) The Secretary may determine that a violation of subsection (a) has occurred only if the complainant demonstrates that any behavior described in paragraphs (1) through (4) of subsection (a) was a contributing factor in the unfavorable personnel action alleged in the complaint.
 
-(iv) Relief may not be ordered under subparagraph (A) if the employer demonstrates by clear and convincing evidence that the employerwould have taken the same unfavorable personnel action in the absence of that behavior.
+(iv) Relief may not be ordered under subparagraph (A) if the employer demonstrates by clear and convincing evidence that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
 
 (3)(A) Not later than 120 days after the date of conclusion of any hearing under paragraph (2), the Secretary shall issue a final order providing the relief prescribed by this paragraph or denying the complaint. At any time before issuance of a final order, a proceeding under this subsection may be terminated on the basis of a settlement agreement entered into by the Secretary, the complainant, and the person alleged to have committed the violation.
 
@@ -36,7 +36,7 @@
 
 (C) If the Secretary finds that a complaint under paragraph (1) is frivolous or has been brought in bad faith, the Secretary may award to the prevailing employer a reasonable attorneys' fee, not exceeding $1,000, to be paid by the complainant.
 
-(4) If the Secretary has not issued a final decision within 210 days after the filing of the complaint, or within 90 days after receiving a written determination, the complainant may bring an action at law or equity for <i>de novo</i> review in the appropriate district court of the United States with jurisdiction, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury. The proceedings shall be governed by the same legal burdens of proof specified in paragraph (2)(B). The court shall have jurisdiction to grant all relief necessary to make the employee whole, including injunctive relief and compensatory damages, including—
+(4) If the Secretary has not issued a final decision within 210 days after the filing of the complaint, or within 90 days after receiving a written determination, the complainant may bring an action at law or equity for <i>de novo</i> review in the appropriate district court of the United States with jurisdiction, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury. The proceedings shall be governed by the same legal burdens of proof specified in paragraph (2)(B).The court shall have jurisdiction to grant all relief necessary to make the employee whole, including injunctive relief and compensatory damages, including—
 
 &emsp;(A) reinstatement with the same seniority status that the employee would have had, but for the discharge or discrimination;
 

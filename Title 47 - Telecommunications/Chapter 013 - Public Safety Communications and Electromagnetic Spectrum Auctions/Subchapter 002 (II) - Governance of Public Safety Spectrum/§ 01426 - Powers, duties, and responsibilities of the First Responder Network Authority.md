@@ -24,7 +24,7 @@ The First Responder Network Authority shall have the authority to do the followi
 
 &emsp;&emsp;(A) ensuring nationwide standards for use and access of the network;
 
-&emsp;&emsp;(B) issuing open, transparent, and competitive requests for proposals to private sector entities for the purposes of building, operating, and maintaining the network that use, without materially changing, the minimum technical requirements developed under section 1423 of this title;
+&emsp;&emsp;(B) issuing open, transparent, and competitive requests for proposals to privatesector entities for the purposes of building, operating, and maintaining the network that use, without materially changing, the minimum technical requirements developed under section 1423 of this title;
 
 &emsp;&emsp;(C) encouraging that such requests leverage, to the maximum extent economically desirable, existing commercial wireless infrastructure to speed deployment of the network; and
 

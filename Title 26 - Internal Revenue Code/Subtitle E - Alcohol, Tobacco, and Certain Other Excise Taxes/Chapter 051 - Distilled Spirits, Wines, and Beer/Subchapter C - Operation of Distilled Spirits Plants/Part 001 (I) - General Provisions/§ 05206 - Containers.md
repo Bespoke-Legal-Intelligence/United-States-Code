@@ -52,7 +52,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 603, 63
 
 <b>1996</b>—Subsec. (f)(2). Pub. L. 104–188 substituted "section 105(e)" for "section 5(e)".
 
-<b>1984</b>—Subsecs. (d) to (f). Pub. L. 98–369 added subsec. (d), redesignated existing subsecs. (d) and (e) as (e) and (f), respectively, and in subsec. (f) added pars. (3) and (4).
+<b>1984</b>—Subsecs. (d) to (f). Pub. L. 98–369 added subsec. (d), redesignated existing subsecs. (d) and (e) as (e) and\(f), respectively, and in subsec. (f) added pars. (3) and (4).
 
 <b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 

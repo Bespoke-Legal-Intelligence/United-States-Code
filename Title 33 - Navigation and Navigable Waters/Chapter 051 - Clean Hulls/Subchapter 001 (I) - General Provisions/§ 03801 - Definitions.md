@@ -62,7 +62,7 @@ In this chapter:
 
 #### (14) United States
 
-&emsp;The term "United States" means the several States of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa,the Virgin Islands, the Commonwealth of the Northern Marianas, and any other territory or possession over which the United States has jurisdiction.
+&emsp;The term "United States" means the several States of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Marianas, and any other territory or possession over which the United States has jurisdiction.
 
 #### (15) Use
 

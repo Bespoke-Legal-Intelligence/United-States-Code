@@ -8,7 +8,7 @@
 
 (c) A final award is binding on the parties to the arbitration proceeding, and may be enforced pursuant to sections 9 through 13 of title 9. No action brought to enforce such an award shall be dismissed nor shall relief therein be denied on the grounds that it is against the United States or that the United States is an indispensable party.
 
-(d) An award entered under this subchapter in an arbitration proceeding may not serve as an estoppel in any other proceeding for any issue that was resolved in the proceeding. Such an award also may not be used as precedent or otherwise be considered in any factually unrelated proceeding, whether conducted under this subchapter, by an agency, or in a court, or in any other arbitration proceeding.
+(d) An award entered under this subchapter in an arbitration proceeding may not serve as anestoppel in any other proceeding for any issue that was resolved in the proceeding. Such an award also may not be used as precedent or otherwise be considered in any factually unrelated proceeding, whether conducted under this subchapter, by an agency, or in a court, or in any other arbitration proceeding.
 
 (Added Pub. L. 101–552, §4(b), Nov. 15, 1990, 104 Stat. 2743, §590; renumbered §580 and amended Pub. L. 102–354, §§3(b)(2), 5(b)(3), Aug. 26, 1992, 106 Stat. 944, 946; Pub. L. 104–320, §8(a), Oct. 19, 1996, 110 Stat. 3872.)
 

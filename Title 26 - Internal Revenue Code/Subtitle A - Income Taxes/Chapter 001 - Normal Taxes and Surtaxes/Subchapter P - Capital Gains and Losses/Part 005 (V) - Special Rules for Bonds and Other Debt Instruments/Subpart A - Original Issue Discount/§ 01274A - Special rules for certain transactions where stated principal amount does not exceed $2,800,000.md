@@ -78,7 +78,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### Inflation Adjusted Items for Certain Years
 
-<i>For inflation adjustment of certain items in this section, see Revenue Rulings listed in a</i><i>table below and Revenue Procedures listed in a table under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Rulings listed in a table below and Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### <b>Editorial Notes</b>
 

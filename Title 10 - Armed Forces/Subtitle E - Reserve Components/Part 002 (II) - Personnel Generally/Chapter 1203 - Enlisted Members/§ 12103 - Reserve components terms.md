@@ -34,7 +34,7 @@ Act
 
 July 9, 1952, ch. 608, §227, 66 Stat. 488.
 
-In subsection (a), the first sentence is substituted for 50:951(a). The words "as Reserves in the Armed Forces of the United States" and "the existence of" are omitted as surplusage.
+In subsection (a), the first sentence is substituted for 50:951(a). The words "as Reserves in the Armed Forcesof the United States" and "the existence of" are omitted as surplusage.
 
 In subsections (a) and (b), the word "hereafter" is omitted as surplusage. The words "the expiration of" are inserted for clarity.
 
@@ -124,11 +124,11 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–107, title VIII, §805(c), Nov. 9, 1979, 93 Stat. 813, provided that: "The amendments made by this section \[amending this section and section 651 of this title\] shall apply only to individuals who become members ofan Armed Force after the date of the enactment of this Act \[Nov. 9, 1979\]."
+Pub. L. 96–107, title VIII, §805(c), Nov. 9, 1979, 93 Stat. 813, provided that: "The amendments made by this section \[amending this section and section 651 of this title\] shall apply only to individuals who become members of an Armed Force after the date of the enactment of this Act \[Nov. 9, 1979\]."
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–485, title IV, §405(c)(2), Oct. 20, 1978, 92 Stat. 1616, provided that: "The amendments made by paragraph (1) \[amending this section\] shall not apply with respect to a person who enlisted as a Reserve for service in the Armed Forces under section 511(b) \[now 12103(b)\] of title 10, United States Code, before the date of the enactment of this Act \[Oct. 20, 1978\]."
+Pub. L. 95–485, title IV, §405(c)(2), Oct. 20, 1978, 92 Stat. 1616, provided that: "The amendments made by paragraph (1) \[amending this section\] shall not apply with respect to a person who enlisted as a Reserve forservice in the Armed Forces under section 511(b) \[now 12103(b)\] of title 10, United States Code, before the date of the enactment of this Act \[Oct. 20, 1978\]."
 
 #### Effective Date of 1967 Amendment
 

@@ -20,7 +20,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(C) a public or nonprofit technical institution or career and technical education school used exclusively or principally for the provision of career and technical education to individuals who have completed or left secondary school and who are available for study in preparation for entering the labor market, if the institution or school admits, as regular students, individuals who have completed secondary school and individuals who have left secondary school; or
 
-&emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides career and technical education in not fewer than 3 different occupational fields leading to immediate employment butnot necessarily leading to a baccalaureate degree, if the department or division admits, as regular students, both individuals who have completed secondary school and individuals who have left secondary school.
+&emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides career and technical education in not fewer than 3 different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits, as regular students, both individuals who have completed secondary school and individuals who have left secondary school.
 
 #### (4) Articulation agreement
 
@@ -46,7 +46,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;&emsp;(i) provides individuals with rigorous academic content and relevant technical knowledge and skills needed to prepare for further education and careers in current or emerging professions, which may include high-skill, high-wage, or in-demand industry sectors or occupations, which shall be, at the secondary level, aligned with the challenging State academic standards adopted by a State under section 6311(b)(1) of this title;
 
-&emsp;&emsp;&emsp;(ii) provides technical skill proficiency or a recognized postsecondary credential, which may include an industry-recognized credential, a certificate, or an associate degree; and
+&emsp;&emsp;&emsp;(ii) provides technical skill proficiency or a recognized postsecondary credential, which may include an industry-recognizedcredential, a certificate, or an associate degree; and
 
 &emsp;&emsp;&emsp;(iii) may include prerequisite courses (other than a remedial course) that meet the requirements of this subparagraph;
 
@@ -184,7 +184,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(E) an Indian Tribe, Tribal organization, or Tribal education agency that operates a school or may be present in the State;
 
-&emsp;&emsp;(F) a postsecondary educational institution controlled by the Bureau of Indian Education or operated by or on behalf of any Indian Tribe that is eligible to contract with the Secretary of the Interior for the administration of programs under the Indian Self-Determination and Education AssistanceAct (25 U.S.C. 5301 et seq.) or the Act of April 16, 1934 (25 U.S.C. 5342 et seq.);
+&emsp;&emsp;(F) a postsecondary educational institution controlled by the Bureau of Indian Education or operated by or on behalf of any Indian Tribe that is eligible to contract with the Secretary of the Interior for the administration of programs under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.) or the Act of April 16, 1934 (25 U.S.C. 5342 et seq.);
 
 &emsp;&emsp;(G) a tribally controlled college or university; or
 
@@ -292,7 +292,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;Subject to subparagraph (B), the term "pay for success initiative" means a performance-based grant, contract, or cooperative agreement awarded by a State or local public entity (such as a local educational agency) to a public or private nonprofit entity—
 
-&emsp;&emsp;&emsp;(i) in which a commitment is made to pay for improved outcomes that result inincreased public value and social benefit to students and the public sector, such as improved student outcomes as evidenced by the indicators of performance described in section 2323(b)(2) of this title and direct cost savings or cost avoidance to the public sector; and
+&emsp;&emsp;&emsp;(i) in which a commitment is made to pay for improved outcomes that result in increased public value and social benefit to students and the public sector, such as improved student outcomes as evidenced by the indicators of performance described in section 2323(b)(2) of this title and direct cost savings or cost avoidance to the public sector; and
 
 &emsp;&emsp;&emsp;(ii) that includes—
 

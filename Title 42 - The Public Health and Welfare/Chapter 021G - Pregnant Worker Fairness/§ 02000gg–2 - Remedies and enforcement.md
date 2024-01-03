@@ -26,7 +26,7 @@
 
 #### (3) Damages
 
-&emsp;The powers, remedies, and procedures provided in section 1981a of this title, including the limitations contained in subsection (b)(3) of such section 1981a, for purposes of addressing allegations of such a violation, shall be the powers, remedies, and procedures this chapter provides to address any allegation of such practice (not an employment practice specifically excluded from coverage under section 1981a(a)(1) of this title).
+&emsp;The powers, remedies, and procedures provided in section 1981a of this title, including the limitations contained in subsection (b)(3) of such section 1981a, for purposes of addressing allegations of such a violation, shall be the powers, remedies, and procedures this chapterprovides to address any allegation of such practice (not an employment practice specifically excluded from coverage under section 1981a(a)(1) of this title).
 
 #### (c) Employees covered by chapter 5 of title 3
 
@@ -36,7 +36,7 @@
 
 #### (2) Costs and fees
 
-&emsp;The powers, remedies, and procedures provided in subsections (b) and (c) of section 1988of this title shall be the powers, remedies, and procedures this chapter provides to the President, the Commission, the Board, or any person alleging such practice.
+&emsp;The powers, remedies, and procedures provided in subsections (b) and (c) of section 1988 of this title shall be the powers, remedies, and procedures this chapter provides to the President, the Commission, the Board, or any person alleging such practice.
 
 #### (3) Damages
 

@@ -2,7 +2,7 @@
 
 #### (a) Regulation of foreign commerce
 
-No State or political subdivision of a State may regulate in foreign commerce any article,means of conveyance, plant, biological control organism, plant pest, noxious weed, or plant product in order—
+No State or political subdivision of a State may regulate in foreign commerce any article, means of conveyance, plant, biological control organism, plant pest, noxious weed, or plant product in order—
 
 &emsp;(1) to control a plant pest or noxious weed;
 

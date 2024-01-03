@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) in the case of a multiple source drug (as defined in subsection (c)(6)(C)), 106 percent of the amount determined under paragraph (3) for a multiple source drug furnished before April 1, 2008, or 106 percent of the amount determined under paragraph (6) for a multiple source drug furnished on or after April 1, 2008;
 
-&emsp;&emsp;(B) in the case of a single source drug or biological (as defined in subsection (c)(6)(D)), 106 percent of the amount determined under paragraph (4) or in the case of such a drug or biological product that is a selected drug (asreferred to in section 1320f–1(c) of this title), with respect to a price applicability period (as defined in section 1320f(b)(2) of this title), 106 percent of the maximum fair price (as defined in section 1320f(c)(3) of this title) applicable for such drug and a year during such period; or
+&emsp;&emsp;(B) in the case of a single source drug or biological (as defined in subsection (c)(6)(D)), 106 percent of the amount determined under paragraph (4) or in the case of such a drug or biological product that is a selected drug (as referred to in section 1320f–1(c) of this title), with respect to a price applicability period (as defined in section 1320f(b)(2) of this title), 106 percent of the maximum fair price (as defined in section 1320f(c)(3) of this title) applicable for such drug and a year during such period; or
 
 &emsp;&emsp;(C) in the case of a biosimilar biological product (as defined in subsection (c)(6)(H)), the amount determined under paragraph (8).
 
@@ -112,7 +112,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a qualifying biosimilar biological product that is furnished during the applicable 5-year period for such product, the amount specified in this paragraph for such product with respect to such period is the sum determined under subparagraph (A), except that clause (ii) of such subparagraph shall be applied by substituting "8 percent" for "6 percent".
+&emsp;&emsp;&emsp;In the case of a qualifying biosimilar biological product that is furnished during the applicable 5-year period for such product, the amount specified in this paragraph for such product with respect to such period is the sum determined under subparagraph (A), except that clause (ii) ofsuch subparagraph shall be applied by substituting "8 percent" for "6 percent".
 
 #### (ii) Applicable 5-year period
 
@@ -160,7 +160,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), in the case of a drug or biological during an initial period (not to exceed a full calendar quarter) in which data on the prices for sales for the drug or biological is not sufficiently available from the manufacturer to compute anaverage sales price for the drug or biological, the Secretary may determine the amount payable under this section—
+&emsp;&emsp;Subject to subparagraph (B), in the case of a drug or biological during an initial period (not to exceed a full calendar quarter) in which data on the prices for sales for the drug or biological is not sufficiently available from the manufacturer to compute an average sales price for the drug or biological, the Secretary may determine the amount payable under this section—
 
 &emsp;&emsp;&emsp;(i) in the case of a drug or biological furnished prior to January 1, 2019, based on—
 
@@ -186,7 +186,7 @@
 
 #### (A) In general on a quarterly basis
 
-&emsp;&emsp;The manufacturer's average sales price, for a drug or biological of a manufacturer, shall be calculated by such manufacturer under this subsection on a quarterly basis. In making such calculation insofar as there is a lag in the reporting of the information on rebates and chargebacks under paragraph (3) so that adequate data are not available on a timely basis, the manufacturer shall apply a methodology based on a 12-month rolling average for the manufacturer to estimate costs attributable to rebates and chargebacks. For years after 2004, the Secretary may establish a uniform methodology under this subparagraph to estimate and apply such costs.
+&emsp;&emsp;The manufacturer's average sales price, for a drug or biological of a manufacturer, shall be calculated by such manufacturerunder this subsection on a quarterly basis. In making such calculation insofar as there is a lag in the reporting of the information on rebates and chargebacks under paragraph (3) so that adequate data are not available on a timely basis, the manufacturer shall apply a methodology based on a 12-month rolling average for the manufacturer to estimate costs attributable to rebates and chargebacks. For years after 2004, the Secretary may establish a uniform methodology under this subparagraph to estimate and apply such costs.
 
 #### (B) Updates in payment amounts
 
@@ -310,7 +310,7 @@
 
 &emsp;&emsp;For calendar quarters beginning on or after January 1, 2022, section 1396r–8(b)(3)(C)(iv) of this title shall be applied as if—
 
-&emsp;&emsp;&emsp;(i) each reference to "under this subparagraph and subsection (c)(4)(B)(ii)(III)" werea reference to "under this subparagraph, subsection (c)(4)(B)(ii)(III), and subparagraphs (A), (B), and (C) of section 1395w–3a(d)(4) of this title"; and
+&emsp;&emsp;&emsp;(i) each reference to "under this subparagraph and subsection (c)(4)(B)(ii)(III)" were a reference to "under this subparagraph, subsection (c)(4)(B)(ii)(III), and subparagraphs (A), (B), and (C) of section 1395w–3a(d)(4) of this title"; and
 
 &emsp;&emsp;&emsp;(ii) the reference to "activities related to the oversight and enforcement of this section and agreements under this section" were a reference to "activities related to the oversight and enforcement of this section and under subsection (f)(2) of section 1395w–3a of this title and subparagraphs (A), (B), and (C) of this subsection 1395w–3a(d)(4) of this title and, if applicable, agreements under this section".
 
@@ -390,7 +390,7 @@ In the case of a public health emergency under section 247d of this title in whi
 
 #### (1) OIG studies
 
-&emsp;The Inspector General of the Department of Health and Human Services shall conduct periodic studies to identify National Drug Codes for drug or biological products that are self-administered for which payment may not be made under this part because such products are not covered pursuant to section 1395x(s)(2) of this title and which the Inspector General determines (based on the same or similar methodologies to the methodologies used in the final recommendation followup report of the Inspector General described in paragraph (3) or in the November 2017 final report of the Inspector General entitled "Excluding Noncovered Versions When Setting Payment for Two Part B Drugs Would Have Resulted in Lower Drug Costs for Medicare and its Beneficiaries") should be excluded from the determination of the payment amount under this section.
+&emsp;The Inspector General of the Department of Health and Human Services shall conduct periodic studies to identify National Drug Codes for drug or biological products that are self-administered for which payment may not be made under this part because such products are not covered pursuant to section 1395x(s)(2) of this title and which the Inspector General determines (based on the same or similar methodologies to the methodologies used in the final recommendation followup report ofthe Inspector General described in paragraph (3) or in the November 2017 final report of the Inspector General entitled "Excluding Noncovered Versions When Setting Payment for Two Part B Drugs Would Have Resulted in Lower Drug Costs for Medicare and its Beneficiaries") should be excluded from the determination of the payment amount under this section.
 
 #### (2) Payment adjustment
 
@@ -590,7 +590,7 @@ In the case of a public health emergency under section 247d of this title in whi
 
 &emsp;&emsp;&emsp;(ii) the number of units for such billing and payment code of such drug furnished during such calendar quarter—
 
-&emsp;&emsp;&emsp;&emsp;(I) with respect to which the manufacturer provides a discount under the program under section 256b of this title or a rebate under section 1396r–8 of this title; or
+&emsp;&emsp;&emsp;&emsp;(I) with respect to which the manufacturer provides a discount under the program under section 256b of this title or arebate under section 1396r–8 of this title; or
 
 &emsp;&emsp;&emsp;&emsp;(II) that are packaged into the payment amount for an item or service and are not separately payable.
 
@@ -634,7 +634,7 @@ In the case of a public health emergency under section 247d of this title in whi
 
 #### (C) Selected drugs
 
-&emsp;&emsp;In the case of a part B rebatable drug that is a selected drug (as defined in section 1320f–1(c) of this title) with respect to a price applicability period (as defined in section 1320f(b)(2) of this title), in the case such drug is no longer considered to be a selected drug under section 1320f–1(c) of this title, for each applicable period (as defined under subsection (g)(7)) <sup>3</sup> beginning after the price applicability period with respect to such drug, clause (i) of paragraph (3)(C) shall be appliedas if the term "payment amount benchmark quarter" were defined under paragraph (3)(D) as the calendar quarter beginning January 1 of the last year during such price applicability period with respect to such selected drug and clause (ii) of paragraph (3)(C) shall be applied as if the term "benchmark period CPI–U" were defined under paragraph (3)(E) as if the reference to "January 2021" under such paragraph were a reference to "the July of the year preceding such last year".
+&emsp;&emsp;In the case of a part B rebatable drug that is a selected drug (as defined in section 1320f–1(c) of this title) with respect to a price applicability period (as defined in section 1320f(b)(2) of this title), in the case such drug is no longer considered to be a selected drug under section 1320f–1(c) of this title, for each applicable period (as defined under subsection (g)(7)) <sup>3</sup> beginning after the price applicability period with respect to such drug, clause (i) of paragraph (3)(C) shall be applied as if the term "payment amount benchmark quarter" were defined under paragraph (3)(D) as the calendar quarter beginning January 1 of the last year during such price applicability period with respect to such selected drug and clause (ii) of paragraph (3)(C) shall be applied as if the term "benchmark period CPI–U" were defined under paragraph (3)(E) as if the reference to "January 2021" under such paragraph were a reference to "the July of the year preceding such last year".
 
 #### (5) Application to beneficiary coinsurance
 

@@ -38,6 +38,9 @@
 | [3528\.](%C2%A7%2003528%20-%20Compensation%20and%20professional%20standards%20for%20certain%20medical%20officers.md) | Compensation and professional standards for certain medical officers. |
 | [3529\.](%C2%A7%2003529%20-%20Medical%20advisory%20board.md) | Medical advisory board. |
 | [3530\.](%C2%A7%2003530%20-%20Office%20of%20wellness%20and%20workforce%20support.md) | Office of wellness and workforce support. |
+| [3531\.](%C2%A7%2003531%20-%20Sexual%20assault%20and%20sexual%20harassment%20within%20the%20Agency.md) | Sexual assault and sexual harassment within the Agency. |
+| [3532\.](%C2%A7%2003532%20-%20Reporting%20and%20investigation%20of%20allegations%20of%20sexual%20assault%20and%20sexual%20harassment.md) | Reporting and investigation of allegations of sexual assault and sexual harassment. |
+| [3533\.](%C2%A7%2003533%20-%20Special%20Victim%20Investigator.md) | Special Victim Investigator. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -82,3 +85,6 @@
 - [&sect; 03528 - Compensation and professional standards for certain medical officers](%C2%A7%2003528%20-%20Compensation%20and%20professional%20standards%20for%20certain%20medical%20officers.md)
 - [&sect; 03529 - Medical advisory board](%C2%A7%2003529%20-%20Medical%20advisory%20board.md)
 - [&sect; 03530 - Office of wellness and workforce support](%C2%A7%2003530%20-%20Office%20of%20wellness%20and%20workforce%20support.md)
+- [&sect; 03531 - Sexual assault and sexual harassment within the Agency](%C2%A7%2003531%20-%20Sexual%20assault%20and%20sexual%20harassment%20within%20the%20Agency.md)
+- [&sect; 03532 - Reporting and investigation of allegations of sexual assault and sexual harassment](%C2%A7%2003532%20-%20Reporting%20and%20investigation%20of%20allegations%20of%20sexual%20assault%20and%20sexual%20harassment.md)
+- [&sect; 03533 - Special Victim Investigator](%C2%A7%2003533%20-%20Special%20Victim%20Investigator.md)

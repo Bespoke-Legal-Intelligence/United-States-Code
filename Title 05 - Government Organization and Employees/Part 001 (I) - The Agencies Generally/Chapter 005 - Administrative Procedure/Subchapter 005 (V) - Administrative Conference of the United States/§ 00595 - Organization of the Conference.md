@@ -80,7 +80,7 @@ In subsection (b), the words "except that the Council members initially appointe
 
 In subsection (b)(1), the words "the sessions" are substituted for "such meetings" for clarity as elsewhere the word "sessions" refers to sessions of the Conference and "meetings" refers to meetings of the Council.
 
-In subsection (c)(7), the words "subject to the civil service and classification laws" are omitted as unnecessary inasmuch as appointments in the executive branch are made subject to the civil service laws and pay is fixed under classification laws unless specificallyexcepted. The words "and fix the pay of" are added for clarity.
+In subsection (c)(7), the words "subject to the civil service and classification laws" are omitted as unnecessary inasmuch as appointments in the executive branch are made subject to the civil service laws and pay is fixed under classification laws unless specifically excepted. The words "and fix the pay of" are added for clarity.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

@@ -4,7 +4,7 @@
 
 (b) Any person who knows or recklessly disregards the construction or use of a tunnel or passage described in subsection (a) on land that the person owns or controls shall be fined under this title and imprisoned for not more than 10 years.
 
-(c) Any person who uses a tunnel or passage described in subsection (a) to unlawfully smuggle an alien, goods (in violation of section 545), controlled substances, weapons of mass destruction (including biological weapons), or a member of a terrorist organization (as defined in section 2339B(g)(6)) shall be subject to a maximum term of imprisonment that is twice the maximum term of imprisonment that would have otherwise been applicable had the unlawful activity not made use of such a tunnel or passage.
+(c) Any person who uses a tunnel or passage described in subsection (a) to unlawfully smuggle an alien, goods (in violation of section 545), controlled substances, weapons of mass destruction (including biological weapons), or a member of a terrorist organization (as defined in section 2339B(g)(6)) shall be subject to a maximum term of imprisonment that is twice the maximum term of imprisonment that would haveotherwise been applicable had the unlawful activity not made use of such a tunnel or passage.
 
 (d) Any person who attempts or conspires to commit any offense under subsection (a) or subsection (c) of this section shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.
 

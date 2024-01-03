@@ -52,7 +52,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 &emsp;&emsp;(E) A procedure through which—
 
-&emsp;&emsp;&emsp;(i) the agency receiving the single registration form under one of such programsinforms the agency administering the other program whether the receiving agency has denied the registration; and
+&emsp;&emsp;&emsp;(i) the agency receiving the single registration form under one of such programs informs the agency administering the other program whether the receiving agency has denied the registration; and
 
 &emsp;&emsp;&emsp;(ii) each of such agencies ensures that registrations are entered into the national database of registered persons that is maintained by each such agency.
 
@@ -60,7 +60,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 &emsp;With respect to the process of identification under the section 351A program and the section 212 program for names and other identifying information submitted to the Attorney General (relating to certain categories of individuals and entities), the memorandum of understanding under paragraph (1) shall provide for the development and implementation of the following:
 
-&emsp;&emsp;(A) A procedure through which a person who is required to submit information pursuant to such process makes (in addition to the submission to the Attorney General) a submission, at the option of the person, to either the agency administering the section 351A program or the agency administering the section 212 program, but not both, which submission satisfies the requirement of submission for both of such programs.
+&emsp;&emsp;(A) A procedure through which a person who is required to submit information pursuant to such process makes (in addition to the submission to the Attorney General) a submission, at the option of the person, to either the agency administering the section 351A program or the agency administeringthe section 212 program, but not both, which submission satisfies the requirement of submission for both of such programs.
 
 &emsp;&emsp;(B) A procedure for the sharing by both of such agencies of information received from the Attorney General by one of such agencies pursuant to the submission under subparagraph (A).
 

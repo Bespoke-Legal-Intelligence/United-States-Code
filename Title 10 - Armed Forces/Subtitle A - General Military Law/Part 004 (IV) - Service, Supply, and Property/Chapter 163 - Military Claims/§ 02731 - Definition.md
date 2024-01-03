@@ -80,11 +80,11 @@ Pub. L. 113–76, div. C, title VIII, §8127, Jan. 17, 2014, 128 Stat. 134.
 
 #### Authority for Certain Payments To Redress Injury and Loss
 
-Pub. L. 116–92, div. A, title XII, §1213, Dec. 20, 2019, 133 Stat. 1629, as amended by Pub. L. 117–81, div. A, title XIII, §1331(a)–(d), Dec. 27, 2021, 135 Stat. 2006, 2007; Pub. L. 117–263, div. A, title XII, §1221, Dec. 23, 2022, 136 Stat. 2836, provided that:
+Pub. L. 116–92, div. A, title XII, §1213, Dec. 20, 2019, 133 Stat. 1629, as amended by Pub. L. 117–81, div. A, title XIII, §1331(a)–(d), Dec. 27, 2021, 135 Stat. 2006, 2007; Pub. L. 117–263, div. A, title XII, §1221, Dec. 23, 2022, 136 Stat. 2836; Pub. L. 118–31, div. A, title XII, §1209, Dec. 22, 2023, 137 Stat. 449, provided that:
 
 "(a)
 
-Authority.—During the period beginning on the date of the enactment of this Act \[Dec. 20, 2019\] and ending on December 31, 2033, not more than $3,000,000 for each calendar year, to be derived from funds authorized to be appropriated to the Office of the Secretary of Defense under the Operation and Maintenance, Defense-wide account, may be made available for ex gratia payments for damage, personal injury, or death that is incident to the use of force by the United States Armed Forces, a coalition that includes the United States, a military organization supporting the United States, or a military organization supporting the United States or such coalition.
+Authority.—During the period beginning on the date of the enactment of this Act \[Dec. 20, 2019\] and ending on December 31, 2033, not more than $3,000,000 for each calendar year, to be derived from funds authorized to be appropriated to the Office of the Secretary of Defense under the Operation and Maintenance, Defense-wide account, may be made available for ex gratia payments for damage, personal injury, or death that is incident to the use of force by the United States Armed Forces, a coalition that includes the UnitedStates, a military organization supporting the United States, or a military organization supporting the United States or such coalition.
 
 "(b)
 
@@ -146,7 +146,7 @@ Written Record.—A written record of any ex gratia payment offered pursuant to 
 
 Quarterly Report.—Not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\], and every 90 days thereafter, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report including the following:
 
-&emsp;"(1) With respect to each ex gratia payment made under the authority in this subsection or any other authority during the preceding 90-day period, each of the following:
+&emsp;"(1) With respect to each ex gratia payment made under the authority in this section or any other authority during the preceding 90-day period, each of the following:
 
 &emsp;&emsp;"(A) The amount used for such payments and the country with respect to which each such payment was made.
 
@@ -156,11 +156,17 @@ Quarterly Report.—Not later than 90 days after the date of the enactment of th
 
 &emsp;&emsp;"(D) The manner in which payments are made.
 
-&emsp;"(2) With respect to a preceding 90-day period in which no ex gratia payments were made—
+&emsp;"(2) The status of all other pending or denied ex gratia payments or requests, including—
 
-&emsp;&emsp;"(A) whether any such payment was refused, along with the reason for such refusal; or
+&emsp;&emsp;"(A) when any such request was made;
 
-&emsp;&emsp;"(B) any other reason for which no such payments were made.
+&emsp;&emsp;"(B) what steps the Department is taking to respond to the request;
+
+&emsp;&emsp;"(C) whether the Department denied any requests for any such payment, along with the reason for such denial;
+
+&emsp;&emsp;"(D) whether any such payment was refused, along with the reason for such refusal, if known; or
+
+&emsp;&emsp;"(E) any other reason for which a payment was not offered or made.
 
 &emsp;"(3) The status of Department of Defense efforts to establish the requests procedures required under subsection (d)(1) and to otherwise implement this section.
 
@@ -172,7 +178,7 @@ Relation to Other Authorities.—Notwithstanding any other provision of law, the
 
 #### Report on Department Policy on Payment of Claims for Loss of Personal Property
 
-Pub. L. 105–85, div. A, title X, §1013(b), Nov. 18, 1997, 111 Stat. 1874, provided that: "The Secretary of Defense shall submit to Congress a report describing the Department of Defense policy regarding the payment of a claim by a member of the Armed Forces who is not assigned to quarters of the United States for losses and damage to personal property of the member incurred at the member's residence as a result of a natural disaster. The report shall include a description of the number of such claims received over the past 10 years, the number of claims paid, and the number of claims rejected. If the Secretary determines the Department of Defense should modify its policy in order to accept additional claims by members who are not assigned to quarters of the United States for losses and damage to personal property, the Secretary shall also include in the report any legislative changes that the Secretary considers necessary to enable the Secretary to implement the policy change."
+Pub. L. 105–85, div. A, title X, §1013(b), Nov. 18, 1997, 111 Stat. 1874, provided that: "The Secretary of Defense shall submit to Congress a report describing the Department of Defense policy regarding the payment of a claim by a member of the Armed Forces who is not assigned to quarters of the United States for losses and damage to personal property of the member incurred at the member's residence as a result of a natural disaster. The report shall include a description of the number of such claims received over the past 10 years, the number of claims paid, and the number of claims rejected. If the Secretary determines the Department of Defense should modify its policy in order to accept additional claims by members who are not assigned toquarters of the United States for losses and damage to personal property, the Secretary shall also include in the report any legislative changes that the Secretary considers necessary to enable the Secretary to implement the policy change."
 
 #### Public Health Service
 

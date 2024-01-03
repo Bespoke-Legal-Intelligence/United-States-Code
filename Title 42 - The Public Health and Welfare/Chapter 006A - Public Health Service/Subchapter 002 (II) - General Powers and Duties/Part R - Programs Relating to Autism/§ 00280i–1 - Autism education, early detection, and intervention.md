@@ -6,7 +6,7 @@ It is the purpose of this section—
 
 &emsp;(1) to increase awareness, reduce barriers to screening and diagnosis, promote evidence-based interventions for individuals with autism spectrum disorder and other developmental disabilities, and train professionals to utilize valid and reliable screening tools to diagnose or rule out and provide evidence-based interventions for individuals with autism spectrum disorder and other developmental disabilities across their lifespan; and
 
-&emsp;(2) to conduct activities under this section with a focus on an interdisciplinary approach (as defined in programs developed under section 501(a)(2) of the Social Security Act \[42 U.S.C. 701(a)(2)\]) that will also focus on specific issues for children who are not receiving an early diagnosis and subsequent interventions.
+&emsp;(2) to conduct activities under this section with a focus on an interdisciplinary approach (as defined in programs developed under section 501(a)(2) of the Social Security Act \[42U.S.C. 701(a)(2)\]) that will also focus on specific issues for children who are not receiving an early diagnosis and subsequent interventions.
 
 #### (b) In general
 
@@ -116,7 +116,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 #### (1) Training
 
-&emsp;The Secretary, in coordination with activities conducted under title V of the Social Security Act \[42 U.S.C. 701 et seq.\], shall, subject to the availability of appropriations, expandexisting interdisciplinary training opportunities or opportunities to increase the number of sites able to diagnose or rule out individuals with autism spectrum disorder or other developmental disabilities across their lifespan and ensure that—
+&emsp;The Secretary, in coordination with activities conducted under title V of the Social Security Act \[42 U.S.C. 701 et seq.\], shall, subject to the availability of appropriations, expand existing interdisciplinary training opportunities or opportunities to increase the number of sites able to diagnose or rule out individuals with autism spectrum disorder or other developmental disabilities across their lifespan and ensure that—
 
 &emsp;&emsp;(A) competitive grants or cooperative agreements are awarded to public or nonprofit agencies, including institutions of higher education, to expand existing or develop new maternal and child health interdisciplinary leadership education in neurodevelopmental and related disabilities programs (similar to the programs developed under section 501(a)(2) of the Social Security Act \[42 U.S.C. 701(a)(2)\]) in States that do not have such a program;
 
@@ -158,7 +158,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 #### (f) Intervention
 
-The Secretary shall promote research, through grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with autism spectrum disorder or other developmental disabilities across the lifespan of such individuals, develop guidelines for those interventions, and disseminate information related to such research and guidelines.
+The Secretary shall promote research, through grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with autism spectrum disorder or other developmental disabilities across the lifespan of such individuals, develop guidelines for those interventions, anddisseminate information related to such research and guidelines.
 
 #### (g) Sunset
 

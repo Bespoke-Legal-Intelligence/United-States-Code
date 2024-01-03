@@ -32,7 +32,7 @@ Each State personnel development plan under subsection (a)(2) shall—
 
 &emsp;&emsp;(A) the nature and extent of the partnership described in section 1452(b) of this title and the respective roles of each member of the partnership, including the partner described in section 1452(b)(3) of this title if applicable; and
 
-&emsp;&emsp;(B) how the State educational agency will work with other persons and organizationsinvolved in, and concerned with, the education of children with disabilities, including the respective roles of each of the persons and organizations;
+&emsp;&emsp;(B) how the State educational agency will work with other persons and organizations involved in, and concerned with, the education of children with disabilities, including the respective roles of each of the persons and organizations;
 
 &emsp;(2) describe how the strategies and activities described in paragraph (4) will be coordinated with activities supported with other public resources (including part B \[subchapter II\] and part C \[subchapter III\] funds retained for use at the State level for personnel and professional development purposes) and private resources;
 

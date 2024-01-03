@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director, shall establish a program to support measurement research to inform the development of best practices, benchmarks, methodologies, procedures, and voluntary, consensus-based technical standards for biometric identification systems, including facial recognition systems, to assess and improve the performance of such systems. In carrying out such program, the Director may—
+The Secretary, acting through the Director, shall establish a program to support measurement research to inform the development of best practices, benchmarks, methodologies, procedures, and voluntary, consensus-based technical standards for biometric identification systems, including facial recognition systems, to assess and improve the performance of such systems.In carrying out such program, the Director may—
 
 &emsp;(1) conduct measurement research to support efforts to improve the performance of biometric identification systems, including in areas related to conformity assessment, image quality and interoperability, contactless biometric capture technologies, and human-in-the-loop biometric identification systems and processes;
 

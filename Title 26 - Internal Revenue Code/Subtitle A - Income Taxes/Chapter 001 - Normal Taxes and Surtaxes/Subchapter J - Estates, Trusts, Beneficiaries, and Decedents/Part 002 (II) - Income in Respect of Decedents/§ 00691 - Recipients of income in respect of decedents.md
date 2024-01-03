@@ -84,7 +84,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;&emsp;(B) The net value for estate tax purposes of all the items described in subsection (a)(1) shall be the excess of the value for estate tax purposes of all the items described in subsection (a)(1) over the deductions from the gross estate in respect of claims which represent the deductions and credit described in subsection (b). Such net value shall be determined with respect to the provisions of section 421(c)(2), relating to the deduction for estate tax with respect to stock options to which part II of subchapter D applies.
 
-&emsp;&emsp;(C) The estate tax attributable to such net value shall be an amount equal to the excess of the estate tax over the estate tax computed without including in the gross estate such net value.
+&emsp;&emsp;(C) The estate tax attributable to such net value shall be an amount equal to the excessof the estate tax over the estate tax computed without including in the gross estate such net value.
 
 #### (3) Special rule for generation-skipping transfers
 
@@ -110,7 +110,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;In determining the net value for estate tax purposes under subsection (c)(2)(B) for purposes of this subsection, the value for estate tax purposes of the items described in paragraph (1) of this subsection shall be computed—
 
-&emsp;&emsp;(A) by determining the excess of the value of the annuity at the date of the death of thedeceased annuitant over the total amount excludable from the gross income of the surviving annuitant under section 72 during the surviving annuitant's life expectancy period, and
+&emsp;&emsp;(A) by determining the excess of the value of the annuity at the date of the death of the deceased annuitant over the total amount excludable from the gross income of the surviving annuitant under section 72 during the surviving annuitant's life expectancy period, and
 
 &emsp;&emsp;(B) by multiplying the figure so obtained by the ratio which the value of the annuity for estate tax purposes bears to the value of the annuity at the date of the death of the deceased.
 
@@ -244,7 +244,7 @@ Amendment by Pub. L. 100–203 applicable to dispositions in taxable years begin
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 301(b)(8) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
+Amendment by section 301(b)(8) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
 
 Amendment by section 1432(a)(3) of Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
 
@@ -272,7 +272,7 @@ Pub. L. 95–600, title VII, §702(b)(2), Nov. 6, 1978, 92 Stat. 2925, provided 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(91) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(91) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 1951(b)(10)(A) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1951(d) of Pub. L. 94–455, set out as a note under section 72 of this title.
 

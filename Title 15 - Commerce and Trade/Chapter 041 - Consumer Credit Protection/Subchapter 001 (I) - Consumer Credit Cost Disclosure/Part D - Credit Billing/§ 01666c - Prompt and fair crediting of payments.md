@@ -44,5 +44,5 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–24 effective 9 months after May 22, 2009, except as otherwise specifically provided,see section 3 of Pub. L. 111–24, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 111–24 effective 9 months after May 22, 2009, except as otherwise specifically provided, see section 3 of Pub. L. 111–24, set out as a note under section 1602 of this title.
 

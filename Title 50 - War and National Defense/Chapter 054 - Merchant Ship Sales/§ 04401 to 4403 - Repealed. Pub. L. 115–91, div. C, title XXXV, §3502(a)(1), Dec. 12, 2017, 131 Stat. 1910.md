@@ -14,7 +14,7 @@ Act Mar. 8, 1946, ch. 82, §1, 60 Stat. 41, which provided that act Mar. 8, 1946
 
 #### Termination Date
 
-Act Mar. 8, 1946, ch. 82, §14, 60 Stat. 50, as amended June 28, 1947, ch. 161, §1, 61 Stat. 190; Feb. 27, 1948, ch. 78, §1(a), 62 Stat. 38; Feb. 28, 1949, ch. 12, 63 Stat. 9; June 29, 1949, ch. 281, §1, 63 Stat. 349; June 30, 1950, ch. 427, §1, 64 Stat. 308; Aug. 17, 1950, ch. 725, 64 Stat. 452, which provided that no contract of sale was to be made underact Mar. 8, 1946, after Jan. 15, 1951, and no contract of charter was to be made under that act after June 30, 1950, except as provided under 50 U.S.C. 4403(e), (f), was repealed by Pub. L. 115–91, div. C, title XXXV, §3502(a)(1), Dec. 12, 2017, 131 Stat. 1910.
+Act Mar. 8, 1946, ch. 82, §14, 60 Stat. 50, as amended June 28, 1947, ch. 161, §1, 61 Stat. 190; Feb. 27, 1948, ch. 78, §1(a), 62 Stat. 38; Feb. 28, 1949, ch. 12, 63 Stat. 9; June 29, 1949, ch. 281, §1, 63 Stat. 349; June 30, 1950, ch. 427, §1, 64 Stat. 308; Aug. 17, 1950, ch. 725, 64 Stat. 452, which provided that no contract of sale was to be made under act Mar. 8, 1946, after Jan. 15, 1951, and no contract of charter was to be made under that act after June 30, 1950, except as provided under 50 U.S.C. 4403(e), (f), was repealed by Pub. L. 115–91, div. C, title XXXV, §3502(a)(1), Dec. 12, 2017, 131 Stat. 1910.
 
 #### Great Lakes Vessels
 

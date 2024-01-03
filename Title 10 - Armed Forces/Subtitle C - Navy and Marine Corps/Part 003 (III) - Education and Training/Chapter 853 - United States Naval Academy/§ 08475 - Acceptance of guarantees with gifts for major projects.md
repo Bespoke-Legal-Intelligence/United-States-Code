@@ -28,7 +28,7 @@ Major project.—The term "major project" means a project for the purchase or ot
 
 Qualified guarantee.—The term "qualified guarantee", with respect to a major project, means a guarantee that—
 
-&emsp;&emsp;(A) is made by one or more persons in connection with a donation, specifically for the project, of a total amount in cash or securities that, as determined by the Secretary of the Navy, is sufficient to defray a substantial portion of the total cost of the project;
+&emsp;&emsp;(A) is made by one or more persons in connection with a donation, specifically for theproject, of a total amount in cash or securities that, as determined by the Secretary of the Navy, is sufficient to defray a substantial portion of the total cost of the project;
 
 &emsp;&emsp;(B) is made to facilitate or expedite the completion of the project in reasonable anticipation that other donors will contribute sufficient funds or other resources in amounts sufficient to pay for completion of the project;
 

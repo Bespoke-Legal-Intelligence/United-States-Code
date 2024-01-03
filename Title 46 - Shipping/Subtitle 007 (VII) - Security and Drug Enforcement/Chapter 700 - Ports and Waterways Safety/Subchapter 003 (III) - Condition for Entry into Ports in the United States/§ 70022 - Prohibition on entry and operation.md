@@ -26,7 +26,7 @@ In general.—The prohibition under paragraph (1) shall not apply with respect t
 
 &emsp;&emsp;(B)
 
-Notice.—Not later than 15 days after making a determination under subparagraph (A), the Secretary of State shall submit to the Committee on Foreign Affairs and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation of the Senate written notice of the determination and the basis upon which the determination was made.
+Notice.—Not later than 15 days after making a determination under subparagraph (A), the Secretary of State shall submit to the Committee on Foreign Affairs and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Foreign Relations and the Committee on Commerce, Science,and Transportation of the Senate written notice of the determination and the basis upon which the determination was made.
 
 &emsp;&emsp;(C)
 

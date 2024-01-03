@@ -72,7 +72,7 @@
 
 #### (2) Noncompliance
 
-&emsp;If the Secretary determines under an audit conducted under paragraph (1) that a State orIndian tribe is not materially in compliance with a State or Tribal plan—
+&emsp;If the Secretary determines under an audit conducted under paragraph (1) that a State or Indian tribe is not materially in compliance with a State or Tribal plan—
 
 &emsp;&emsp;(A) the Secretary shall collaborate with the State or Indian tribe to develop a corrective action plan in the case of a first instance of noncompliance; and
 

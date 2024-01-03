@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (d) Limitation also to apply to excess credits or net capital losses
 
-Rules similar to the rules of subsection (a) shall also apply in the case of any excess credit (as defined in section 383(a)(2)) or net capital loss.
+Rules similar to the rules of subsection (a) shall also apply in the case of any excess credit\(as defined in section 383(a)(2)) or net capital loss.
 
 #### (e) Ordering rules for net operating losses, etc.
 
@@ -180,5 +180,5 @@ Pub. L. 100–203, title X, §10226(c), Dec. 22, 1987, 101 Stat. 1330–416, pro
 
 #### Election To Have Amendments by Pub. L. 100–647 Not Apply
 
-Pub. L. 100–647, title II, §2004(m)(5), Nov. 10, 1988, 102 Stat. 3607, provided that: "In any case where the acquisition date (as defined in section 384(c)(2) of the 1986 Code as amended by this subsection) is before March 31,1988, the acquiring corporation may elect to have the amendments made by this subsection not apply. Such an election shall be made in such manner as the Secretary of the Treasury or his delegate shall prescribe and shall be made not later than the later of the due date (including extensions) for filing the return for the taxable year of the acquiring corporation in which the acquisition date occurs or the date 120 days after the date of the enactment of this Act \[Nov. 10, 1989\]. Such an election, once made, shall be irrevocable."
+Pub. L. 100–647, title II, §2004(m)(5), Nov. 10, 1988, 102 Stat. 3607, provided that: "In any case where the acquisition date (as defined in section 384(c)(2) of the 1986 Code as amended by this subsection) is before March 31, 1988, the acquiring corporation may elect to have the amendments made by this subsection not apply. Such an election shall be made in such manner as the Secretary of the Treasury or his delegate shall prescribe and shall be made not later than the later of the due date (including extensions) for filing the return for the taxable year of the acquiring corporation in which the acquisition date occurs or the date 120 days after the date of the enactment of this Act \[Nov. 10, 1989\]. Such an election, once made, shall be irrevocable."
 

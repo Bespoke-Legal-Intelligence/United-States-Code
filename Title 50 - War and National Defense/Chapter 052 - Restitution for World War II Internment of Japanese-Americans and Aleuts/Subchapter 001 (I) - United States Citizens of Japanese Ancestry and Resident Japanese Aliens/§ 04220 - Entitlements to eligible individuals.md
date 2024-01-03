@@ -12,7 +12,7 @@ Subject to sections 4214(e) and 4215(g) of this title and except as provided in 
 
 #### (2) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated for fiscal year 1993 and each subsequent fiscal year such sums as may be necessary for thepayments from discretionary appropriations described in paragraph (1).
+&emsp;There are authorized to be appropriated for fiscal year 1993 and each subsequent fiscal year such sums as may be necessary for the payments from discretionary appropriations described in paragraph (1).
 
 #### (c) Definitions
 

@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title XVI, §1633(b)(2), Aug. 13, 2018, 132 Stat. 2125, added item 2200c and struckout former item 2200c "Centers of Academic Excellence in Cyber Education".
+<b>2018</b>—Pub. L. 115–232, div. A, title XVI, §1633(b)(2), Aug. 13, 2018, 132 Stat. 2125, added item 2200c and struck out former item 2200c "Centers of Academic Excellence in Cyber Education".
 
 <b>2017</b>—Pub. L. 115–91, div. A, title XVI, §1649(d)(1)(A), (2), Dec. 12, 2017, 131 Stat. 1752, 1753, substituted "CYBER" for "INFORMATION SECURITY" in chapter heading and "Centers of Academic Excellence in Cyber Education" for "Centers of Academic Excellence in Information Assurance Education" in item 2200c.
 

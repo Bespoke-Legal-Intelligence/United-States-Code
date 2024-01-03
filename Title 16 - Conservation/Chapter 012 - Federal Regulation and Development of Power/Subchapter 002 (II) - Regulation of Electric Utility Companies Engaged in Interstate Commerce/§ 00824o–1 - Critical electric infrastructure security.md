@@ -72,7 +72,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), an order for emergency measures issued under paragraph (1) shall expire no later than 15 days after its issuance.
+&emsp;&emsp;Except as provided in subparagraph (B), an order for emergency measures issued underparagraph (1) shall expire no later than 15 days after its issuance.
 
 #### (B) Extensions
 
@@ -86,7 +86,7 @@ For purposes of this section:
 
 #### (B) Defense critical electric infrastructure
 
-&emsp;&emsp;To the extent the owner or operator of defense critical electric infrastructure is required to take emergency measures pursuant to an order issued under this subsection, the owners or operators of a critical defense facility or facilities designated by the Secretary pursuant to subsection (c) that relyupon such infrastructure shall bear the full incremental costs of the measures.
+&emsp;&emsp;To the extent the owner or operator of defense critical electric infrastructure is required to take emergency measures pursuant to an order issued under this subsection, the owners or operators of a critical defense facility or facilities designated by the Secretary pursuant to subsection (c) that rely upon such infrastructure shall bear the full incremental costs of the measures.
 
 #### (7) Temporary access to classified information
 
@@ -162,7 +162,7 @@ Not later than 180 days after December 4, 2015, the Secretary, in consultation w
 
 #### (9) Duration of designation
 
-&emsp;Information may not be designated as critical electric infrastructure information forlonger than 5 years, unless specifically re-designated by the Commission or the Secretary, as appropriate.
+&emsp;Information may not be designated as critical electric infrastructure information for longer than 5 years, unless specifically re-designated by the Commission or the Secretary, as appropriate.
 
 #### (10) Removal of designation
 

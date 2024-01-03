@@ -22,7 +22,7 @@
 
 #### (4) Burden of proof
 
-&emsp;In any civil action under paragraph (1), the plaintiff shall have the burden to establish a prima facie case that, due to acts or omissions of any official of the Organization or any member of an inspection team of the Technical Secretariat taken under the color of the Convention, proprietary information of the plaintiff has been divulged or taken without authorization. If the United States Court of Federal Claims finds that the plaintiff has demonstrated such a prima facie case, the burden shall shift to the United States to disprove the plaintiff's claim. In deciding whether theplaintiff has carried its burden, the United States Court of Federal Claims shall consider, among other things—
+&emsp;In any civil action under paragraph (1), the plaintiff shall have the burden to establish a prima facie case that, due to acts or omissions of any official of the Organization or any member of an inspection team of the Technical Secretariat taken under the color of the Convention, proprietary information of theplaintiff has been divulged or taken without authorization. If the United States Court of Federal Claims finds that the plaintiff has demonstrated such a prima facie case, the burden shall shift to the United States to disprove the plaintiff's claim. In deciding whether the plaintiff has carried its burden, the United States Court of Federal Claims shall consider, among other things—
 
 &emsp;&emsp;(A) the value of proprietary information;
 
@@ -84,7 +84,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (iii) International financial assistance
 
-&emsp;&emsp;&emsp;The United States shall oppose any loan or financial or technical assistance by international financial institutions in accordance with section 262d of this title to a person described in subparagraph (A).
+&emsp;&emsp;&emsp;The United States shall oppose any loan or financial or technical assistance byinternational financial institutions in accordance with section 262d of this title to a person described in subparagraph (A).
 
 #### (iv) Export-Import Bank transactions
 
@@ -152,7 +152,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (5) Waiver of sanctions on foreign countries
 
-&emsp;The President may waive some or all of the sanctions provided under paragraph (3) in a particular case if he determines and certifies in writing to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that such waiver is necessary to protect the national security interests of the United States. The certification shall set forth the reasons supporting the determination and shall take effect on the date on which the certification is received by the Congress.
+&emsp;The President may waive some or all of the sanctions provided under paragraph (3) in a particular case if he determines and certifiesin writing to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that such waiver is necessary to protect the national security interests of the United States. The certification shall set forth the reasons supporting the determination and shall take effect on the date on which the certification is received by the Congress.
 
 #### (6) Notification to Congress
 

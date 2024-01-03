@@ -52,7 +52,7 @@ The Attorney General shall make grants to eligible entities for the purpose of p
 
 &emsp;(6) developing, enlarging, or strengthening culturally specific programs and projects to provide culturally specific services regarding responses to, and prevention of, female genital mutilation and cutting; or
 
-&emsp;(7) strengthening the response of social and human services by providing population-specific training for service providers on domesticviolence, dating violence, sexual assault, or stalking in underserved populations.
+&emsp;(7) strengthening the response of social and human services by providing population-specific training for service providers on domestic violence, dating violence, sexual assault, or stalking in underserved populations.
 
 #### (e) Application
 

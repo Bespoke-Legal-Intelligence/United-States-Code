@@ -26,7 +26,7 @@ In this section:
 
 #### (B) Conviction not required
 
-&emsp;&emsp;Nothing in subparagraph (A) shall be construed to require a criminal conviction or any other determination of a court in order for conduct to constitute a covered act.
+&emsp;&emsp;Nothing in subparagraph (A) shall be construed to require a criminal conviction orany other determination of a court in order for conduct to constitute a covered act.
 
 #### (3) Covered provider
 
@@ -192,7 +192,7 @@ A covered provider shall make information about the options and process describe
 
 #### (1) In general
 
-&emsp;A covered provider and any officer, director, employee, vendor, or agent thereof shall not be subject to liability for any claims deriving from an action taken or omission made with respect to compliance with this section and the rules adopted to implement this section.
+&emsp;A covered provider and any officer, director, employee, vendor, or agent thereof shall not be subject to liability for any claims derivingfrom an action taken or omission made with respect to compliance with this section and the rules adopted to implement this section.
 
 #### (2) Commission authority
 
@@ -330,7 +330,7 @@ Evaluation.—Not later than 2 years after completing the rulemaking under subpa
 
 &emsp;&emsp;"(D)
 
-Rule of construction.—Nothing in this paragraph shall be construed to limit the ability ofa survivor who meets the requirements under section 345(c)(1) of the Communications Act of 1934 \[47 U.S.C. 345(c)(1)\], as added by section 4 of this Act, to participate in the designated program indefinitely if the survivor otherwise qualifies for the designated program under the rules of the designated program.
+Rule of construction.—Nothing in this paragraph shall be construed to limit the ability of a survivor who meets the requirements under section 345(c)(1) of the Communications Act of 1934 \[47 U.S.C. 345(c)(1)\], as added by section 4 of this Act, to participate in the designated program indefinitely if the survivor otherwise qualifies for the designated program under the rules of the designated program.
 
 &emsp;&emsp;"(E)
 

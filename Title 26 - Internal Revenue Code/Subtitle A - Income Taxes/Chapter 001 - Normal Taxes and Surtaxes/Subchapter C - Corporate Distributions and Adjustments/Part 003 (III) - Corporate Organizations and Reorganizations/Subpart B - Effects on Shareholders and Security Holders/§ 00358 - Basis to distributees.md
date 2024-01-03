@@ -134,7 +134,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §309(d)\], Dec. 21, 2000, 114 Stat. 2
 
 "(1)
 
-In general.—The amendments made by this section \[amending this section and section 357 of this title\]shall apply to assumptions of liability after October 18, 1999.
+In general.—The amendments made by this section \[amending this section and section 357 of this title\] shall apply to assumptions of liability after October 18, 1999.
 
 "(2)
 

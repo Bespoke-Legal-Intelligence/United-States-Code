@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President shall establish a mechanism to coordinate, with the maximum possible effectiveness and efficiency, the efforts of United States Government departments and agencies engaged in formulating policy and carrying out programs for achieving nonproliferation and threat reduction.
+The President shall establish a mechanism to coordinate, with the maximum possible effectiveness and efficiency, the efforts of UnitedStates Government departments and agencies engaged in formulating policy and carrying out programs for achieving nonproliferation and threat reduction.
 
 #### (b) Membership
 
@@ -244,7 +244,7 @@ Structure of the Agreement.—It is the sense of Congress that the Agreement sho
 
 #### "SEC. 1316. INDEPENDENT MEDIA AND THE RULE OF LAW.
 
-"Notwithstanding section 1315 (a)(1) and (b)(1), up to 10 percent of the amount equal to the value of the debtreduced pursuant to this subtitle may be used to promote a vibrant, independent media sector and the rule of law in the Russian Federation through an endowment to support the establishment of a 'Center for an Independent Press and the Rule of Law' in the Russian Federation, which shall be directed by a joint United States-Russian Board of Directors in which the majority of members, including the chairman, shall be United States personnel, and which shall be responsible for management of the endowment, its funds, and the Center's programs.
+"Notwithstanding section 1315 (a)(1) and (b)(1), up to 10 percent of the amount equal to the value of the debt reduced pursuant to this subtitle may be used to promote a vibrant, independent media sector and the rule of law in the Russian Federation through an endowment to support the establishment of a 'Center for an Independent Press and the Rule of Law' in the Russian Federation, which shall be directed by a joint United States-Russian Board of Directors in which the majority of members, including the chairman, shall be United States personnel, and which shall be responsible for management of the endowment, its funds, and the Center's programs.
 
 #### "SEC. 1317. RESTRICTION ON DEBT REDUCTION AUTHORITY.
 

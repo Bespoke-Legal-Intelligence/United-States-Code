@@ -12,7 +12,7 @@ Subject to the availability of appropriations, for fiscal year 2009 and each fis
 
 #### (1) Requirement
 
-&emsp;For each fiscal year during which the Secretary determines that a tribally controlled postsecondary career and technical institution described in paragraph (2) meets the definition referred to in section 1861 of this title, the Secretary shall select that tribally controlled postsecondary career and technical institution under subsection (a)(1) to receive funding under this section.
+&emsp;For each fiscal year during which the Secretary determines that a tribally controlled postsecondary career and technical institution described in paragraph (2) meets the definition referred to in section 1861 of this title, theSecretary shall select that tribally controlled postsecondary career and technical institution under subsection (a)(1) to receive funding under this section.
 
 #### (2) Institutions
 

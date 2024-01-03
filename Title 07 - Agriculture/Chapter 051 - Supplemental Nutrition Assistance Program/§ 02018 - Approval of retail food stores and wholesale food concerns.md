@@ -30,7 +30,7 @@ Certificate.—Approval of an applicant shall be evidenced by the issuance to su
 
 &emsp;(D)
 
-Visit required.—No retail food store or wholesale food concern of a type determined by the Secretary, based on factors that include size, location, and type of items sold, shall be approved to be authorized or reauthorized for participation in the supplemental nutrition assistance program unless an authorized employee of the Department of Agriculture, a designee of the Secretary, or, if practicable, an official of the State or local government designated by the Secretary has visited the store or concern for the purpose of determining whether the store or concern should be approved or reauthorized, as appropriate.
+Visit required.—No retail food store or wholesale food concern of a type determined by the Secretary, based on factors that include size, location, and type of items sold, shall be approved to be authorized or reauthorized forparticipation in the supplemental nutrition assistance program unless an authorized employee of the Department of Agriculture, a designee of the Secretary, or, if practicable, an official of the State or local government designated by the Secretary has visited the store or concern for the purpose of determining whether the store or concern should be approved or reauthorized, as appropriate.
 
 (2) The Secretary shall issue regulations providing for—
 
@@ -40,7 +40,7 @@ Visit required.—No retail food store or wholesale food concern of a type deter
 
 (3)
 
-Authorization periods.—The Secretary shall establish specific time periods duringwhich authorization to accept and redeem benefits shall be valid under the supplemental nutrition assistance program.
+Authorization periods.—The Secretary shall establish specific time periods during which authorization to accept and redeem benefits shall be valid under the supplemental nutrition assistance program.
 
 (4)
 
@@ -64,7 +64,7 @@ Any retail food store or wholesale food concern which has failed upon applicatio
 
 #### (e) Reporting of abuses by public
 
-Approved retail food stores shall display a sign providing information on how persons may report abuses they have observed in the operation of the supplemental nutrition assistance program.
+Approved retail food stores shall display a sign providing information on how persons may report abuses they have observed in the operationof the supplemental nutrition assistance program.
 
 #### (f) Limitation on participation of house-to-house trade routes
 

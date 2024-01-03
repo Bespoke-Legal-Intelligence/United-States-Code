@@ -20,7 +20,7 @@
 
 (1) The Institute shall conduct, or require each recipient to provide for, an annual fiscal audit. The report of each such audit shall be maintained for a period of at least five years at the principal office of the Institute.
 
-(2) The Institute shall submit to the Comptroller General of the United States copies ofsuch reports, and the Comptroller General may, in addition, inspect the books, accounts, financial records, files, and other papers or property belonging to or in use by such grantee, contractor, person, or entity, which relate to the disposition or use of funds received from the Institute. Such audit reports shall be available for public inspection during regular business hours, at the principal office of the Institute.
+(2) The Institute shall submit to the Comptroller General of the United States copies of such reports, and the Comptroller General may, in addition, inspect the books, accounts, financial records, files, and other papers or property belonging to or in use by such grantee, contractor, person, or entity, which relate to the disposition or use of funds received from the Institute. Such audit reports shall be available for public inspection during regular business hours, at the principal office of the Institute.
 
 (Pub. L. 98–620, title II, §212, Nov. 8, 1984, 98 Stat. 3345; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

@@ -84,7 +84,7 @@ Case Manager.—(1) The Secretary shall designate a case manager for each indivi
 
 (e)
 
-Participation and Collaboration in Development of Plans.—(1) The Secretary shall involve each individual described in subsection\(a), and the family or legal guardian of such individual, in the development of the plan for such individual under that subsection to the maximum extent practicable.
+Participation and Collaboration in Development of Plans.—(1) The Secretary shall involve each individual described in subsection (a), and the family or legal guardian of such individual, in the development of the plan for such individual under that subsection to the maximum extent practicable.
 
 (2) The Secretary shall collaborate in the development of a plan for an individual under subsection (a) with a State protection and advocacy system if—
 
@@ -106,7 +106,7 @@ Periodic review by secretary.—The Secretary shall periodically review the effe
 
 &emsp;(2)
 
-Request for review by veterans.—In addition to the periodic review required by paragraph (1), the Secretary shall conduct a review of the plan for an individual under paragraph (1) at the request of the individual, or in the case of an individual who is incapacitated, at the request of the guardian or designee of the individual.
+Request for review by veterans.—In addition to the periodic review required byparagraph (1), the Secretary shall conduct a review of the plan for an individual under paragraph (1) at the request of the individual, or in the case of an individual who is incapacitated, at the request of the guardian or designee of the individual.
 
 (g)
 
@@ -332,7 +332,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(C) is unable to manage routine activities of daily living without supervision and assistance, as determined by the Secretary; and
 
-&emsp;&emsp;"(D) could reasonably be expected to receive ongoing services after the end of the pilot program under this section under another program of the Federal Government or through other means, as determined by the Secretary."
+&emsp;&emsp;"(D) could reasonably be expected to receive ongoing services after the end of the pilot program under this section under another program of theFederal Government or through other means, as determined by the Secretary."
 
 "(g)
 

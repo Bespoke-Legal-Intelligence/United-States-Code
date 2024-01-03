@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (ii) Specified loss
 
-&emsp;&emsp;&emsp;The term "specified loss" means ordinary loss from the sale, exchange, or other disposition of property (including the termination of a position with respect to such property). Such term shall include any foreign currency loss attributable to a section 988 transaction (within the meaningof section 988) and any amount allowable as a deduction under section 1296(a)(2).
+&emsp;&emsp;&emsp;The term "specified loss" means ordinary loss from the sale, exchange, or other disposition of property (including the termination of a position with respect to such property). Such term shall include any foreign currency loss attributable to a section 988 transaction (within the meaning of section 988) and any amount allowable as a deduction under section 1296(a)(2).
 
 #### (C) Special rule for companies electing to use the taxable year
 

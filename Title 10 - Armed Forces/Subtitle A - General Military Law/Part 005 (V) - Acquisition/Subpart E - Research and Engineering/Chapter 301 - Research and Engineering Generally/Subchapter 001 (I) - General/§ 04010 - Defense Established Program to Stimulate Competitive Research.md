@@ -32,7 +32,7 @@ Eligible States.—(1) The Under Secretary of Defense for Research and Engineeri
 
 (2) The Under Secretary shall designate a State as an eligible State if, as determined by the Under Secretary—
 
-&emsp;(A) the average annual amount of all Department of Defense obligations for scienceand engineering research and development that were in effect with institutions of higher education in the State for the three fiscal years preceding the fiscal year for which the designation is effective or for the last three fiscal years for which statistics are available is less than the amount determined by multiplying 60 percent times the amount equal to 1/50 of the total average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the United States for such three preceding or last fiscal years, as the case may be; and
+&emsp;(A) the average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the State for the three fiscal years preceding the fiscal year for which the designation is effective or for the last three fiscal years for which statistics are available is less than the amount determined by multiplying 60 percent times the amount equal to 1/50 of the total average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the United States for such three preceding or last fiscal years, as the case may be; and
 
 &emsp;(B) the State has demonstrated a commitment to developing research bases in the State and to improving science and engineering research and education programs in areas relevant to the mission of the Department of Defense at institutions of higher education in the State.
 
@@ -56,5 +56,5 @@ State Defined.—In this section, the term "State" means a State of the United S
 
 #### Effective Date
 
-Pub. L. 117–81, div. A, title II, §214(d), Dec. 27, 2021, 135 Stat. 1591, provided that: "This section \[enacting this section and repealing provisions set out as notes under section 2358 of this title\] and the amendments and repeals made by this section shall take effect immediately after the effective date of the amendments made by title XVIII of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) \[Jan. 1, 2022\]."
+Pub. L. 117–81, div. A, title II, §214(d), Dec. 27, 2021, 135 Stat. 1591, provided that: "This section \[enacting thissection and repealing provisions set out as notes under section 2358 of this title\] and the amendments and repeals made by this section shall take effect immediately after the effective date of the amendments made by title XVIII of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) \[Jan. 1, 2022\]."
 

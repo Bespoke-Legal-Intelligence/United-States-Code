@@ -18,7 +18,7 @@ Pub. L. 115–254, div. D, §1220, Oct. 5, 2018, 132 Stat. 3453, provided that:
 
 "(a)
 
-Review and Analysis.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\],the Administrator \[of the Federal Emergency Management Agency\] shall review the Unified Federal Environmental and Historic Preservation review process established pursuant to section 429 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189g), and submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate that includes the following:
+Review and Analysis.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Emergency Management Agency\] shall review the Unified Federal Environmental and Historic Preservation review process established pursuant to section 429 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189g), and submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate that includes the following:
 
 &emsp;"(1) An analysis of whether and how the unified process has expedited the interagency review process to ensure compliance with the environmental and historic requirements under Federal law relating to disaster recovery projects.
 

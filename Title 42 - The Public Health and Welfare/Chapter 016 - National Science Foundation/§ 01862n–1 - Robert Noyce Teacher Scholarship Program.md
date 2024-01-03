@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(ii) offering academic courses and clinical teaching experiences designed to prepare stipend recipients to teach in elementary schools and secondary schools served by a high need local educational agency, including such preparation as is necessary to meet requirements for teacher certification or licensing; and
 
-&emsp;&emsp;&emsp;(iii) offering programs to stipend recipients, both during and after matriculation in the program for which the stipend is received, to enable recipients to become better mathematics and science teachers, to fulfill the service requirements of this section, and to exchange ideas with others in the students' fields.
+&emsp;&emsp;&emsp;(iii) offering programs to stipend recipients, both during and after matriculationin the program for which the stipend is received, to enable recipients to become better mathematics and science teachers, to fulfill the service requirements of this section, and to exchange ideas with others in the students' fields.
 
 #### (4) Eligibility requirement
 
@@ -144,7 +144,7 @@
 
 #### (e) Conditions of support
 
-As a condition of acceptance of a scholarship or stipend under this section, a recipient of ascholarship or stipend shall enter into an agreement with the eligible entity—
+As a condition of acceptance of a scholarship or stipend under this section, a recipient of a scholarship or stipend shall enter into an agreement with the eligible entity—
 
 &emsp;(1) accepting the terms of the scholarship or stipend pursuant to subsection (c) or subsection (d);
 
@@ -240,7 +240,7 @@ In this section—
 
 &emsp;(6) the term "scholarship" means an award under subsection (c);
 
-&emsp;(7) the term "science, technology, engineering, or mathematics professional" means an individual who holds a baccalaureate, master's, or doctoral degree in science, technology, engineering, mathematics, or computer science, including cybersecurity, and is working in or had a career in such field or a related area; and
+&emsp;(7) the term "science, technology, engineering, or mathematics professional" means anindividual who holds a baccalaureate, master's, or doctoral degree in science, technology, engineering, mathematics, or computer science, including cybersecurity, and is working in or had a career in such field or a related area; and
 
 &emsp;(8) the term "stipend" means an award under subsection (d).
 
@@ -302,7 +302,7 @@ Subsec. (i)(7). Pub. L. 115–91, §1649C(2), amended par. (7) generally. Prior 
 
 #### Change of Name
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science,Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2018 Amendment
 

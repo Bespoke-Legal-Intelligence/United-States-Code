@@ -20,7 +20,7 @@ Designated agency ethics official.—The term "designated agency ethics official
 
 &emsp;(4)
 
-Executive branch.—The term "executive branch" includes each Executive agency (asdefined in section 105 of this title), other than the Government Accountability Office, and any other entity or administrative unit in the executive branch.
+Executive branch.—The term "executive branch" includes each Executive agency (as defined in section 105 of this title), other than the Government Accountability Office, and any other entity or administrative unit in the executive branch.
 
 &emsp;(5)
 
@@ -44,7 +44,7 @@ Honoraria.—The term "honoraria" means the plural of "honorarium" as defined in
 
 &emsp;(7)
 
-Income.—The term "income" means all income from whatever source derived, including but not limited to the following items: compensation for services, including fees, commissions, and similar items; gross income derived from business (and net income if the individual elects to include it); gains derived from dealings in property; interest; rents; royalties; dividends; annuities; income from life insurance and endowment contracts; pensions; income from discharge of indebtedness; distributive share of partnership income; and income from an interest in an estate or trust.
+Income.—The term "income" means all income from whatever source derived, including but not limited to the following items: compensation for services, including fees,commissions, and similar items; gross income derived from business (and net income if the individual elects to include it); gains derived from dealings in property; interest; rents; royalties; dividends; annuities; income from life insurance and endowment contracts; pensions; income from discharge of indebtedness; distributive share of partnership income; and income from an interest in an estate or trust.
 
 &emsp;(8)
 
@@ -186,7 +186,7 @@ Pub. L. 107–119, §1, Jan. 15, 2002, 115 Stat. 2382, provided that: "This Act 
 
 #### Short Title of 1996 Act
 
-Pub. L. 104–179, §1, Aug. 6, 1996, 110 Stat. 1566, provided that: "This Act \[see Tables for classification\]may be cited as the 'Office of Government Ethics Authorization Act of 1996'."
+Pub. L. 104–179, §1, Aug. 6, 1996, 110 Stat. 1566, provided that: "This Act \[see Tables for classification\] may be cited as the 'Office of Government Ethics Authorization Act of 1996'."
 
 #### Short Title of 1992 Act
 

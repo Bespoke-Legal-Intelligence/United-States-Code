@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From the funds reserved by the Secretary under section 6671(1) of this title for a fiscal year, the Secretary shall award grants, on a competitive basis, to eligible entities for the purposes of—
+From the funds reserved by the Secretary under section 6671(1) of this title for a fiscalyear, the Secretary shall award grants, on a competitive basis, to eligible entities for the purposes of—
 
 &emsp;(1) providing teachers, principals, or other school leaders from nontraditional preparation and certification routes or pathways to serve in traditionally underserved local educational agencies;
 
@@ -60,7 +60,7 @@ In this section, the term "eligible entity" means—
 
 &emsp;(1) an institution of higher education that provides course materials or resources that are evidence-based in increasing academic achievement, graduation rates, or rates of postsecondary education matriculation;
 
-&emsp;(2) a national nonprofit entity with a demonstrated record of raising student academicachievement, graduation rates, and rates of higher education attendance, matriculation, or completion, or of effectiveness in providing preparation and professional development activities and programs for teachers, principals, or other school leaders;
+&emsp;(2) a national nonprofit entity with a demonstrated record of raising student academic achievement, graduation rates, and rates of higher education attendance, matriculation, or completion, or of effectiveness in providing preparation and professional development activities and programs for teachers, principals, or other school leaders;
 
 &emsp;(3) the Bureau of Indian Education; or
 

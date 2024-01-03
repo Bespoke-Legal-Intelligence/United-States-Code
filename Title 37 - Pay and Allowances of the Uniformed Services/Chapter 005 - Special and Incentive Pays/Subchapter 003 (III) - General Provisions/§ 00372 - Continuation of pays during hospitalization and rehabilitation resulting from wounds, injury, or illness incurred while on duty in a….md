@@ -8,7 +8,7 @@ Continuation of Pays.—If a member of a regular or reserve component of a unifo
 
 Duration.—The payment of pay and allowances to a member under subsection (a) may continue until the end of the first month beginning after the earliest of the following dates:
 
-&emsp;(1) The date on which the member is returned for assignment to other than a medical or patient unit for duty; however, in the case of a member under the jurisdiction of a Secretary of a military department, the date on which the member is determined fit for duty.
+&emsp;(1) The date on which the member is returned for assignment to other than a medical or patient unit for duty; however, in the caseof a member under the jurisdiction of a Secretary of a military department, the date on which the member is determined fit for duty.
 
 &emsp;(2) One year after the date on which the member is first hospitalized for the treatment of the wound, injury, or illness, except that the Secretary concerned may extend the termination date in six-month increments.
 

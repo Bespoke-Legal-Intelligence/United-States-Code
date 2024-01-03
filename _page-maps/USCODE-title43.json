@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title43",
- "package": "USCODE-2022-title43",
+ "package": "USCODE-2023-title43",
  "pieces": [
   {
    "id": "43_",
@@ -13435,20 +13435,20 @@
    "id": "43_1333",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 328]",
-     true
-    ],
-    [
      "I",
-     72,
+     24,
      [
       [
-       100,
-       "[Page 329]"
+       855,
+       "[Page 328]"
       ]
      ]
+    ],
+    [
+     "L",
+     72,
+     "[Page 329]",
+     true
     ]
    ],
    "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01333 - Laws and regulations governing lands.md",
@@ -20955,6 +20955,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2022-title43 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2023-title43 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 43 - Public Lands"
 }

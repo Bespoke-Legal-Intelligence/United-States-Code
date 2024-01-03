@@ -14,5 +14,5 @@ Historical and Revision Notes
 
 46:643(b)
 
-Section 7304 specifies, that before a merchant mariner's document is noted to specify that the individual is a U.S. citizen, the individual must provide satisfactory proof that he is a citizen. This does not impose a requirement of United States citizenship as a condition for issuance of a document.
+Section 7304 specifies, that before a merchant mariner's document is noted to specify that the individual is a U.S. citizen, the individual must provide satisfactory proof that he is a citizen. This does not impose arequirement of United States citizenship as a condition for issuance of a document.
 

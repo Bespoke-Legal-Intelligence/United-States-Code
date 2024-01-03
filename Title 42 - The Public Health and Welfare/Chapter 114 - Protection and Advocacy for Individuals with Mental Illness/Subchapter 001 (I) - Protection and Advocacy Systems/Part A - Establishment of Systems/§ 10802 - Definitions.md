@@ -20,7 +20,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(A) who has a significant mental illness or emotional impairment, as determined by a mental health professional qualified under the laws and regulations of the State; and
 
-&emsp;&emsp;(B)(i)(I) who is an inpatient or resident in a facility rendering care or treatment, evenif the whereabouts of such inpatient or resident are unknown;
+&emsp;&emsp;(B)(i)(I) who is an inpatient or resident in a facility rendering care or treatment, even if the whereabouts of such inpatient or resident are unknown;
 
 &emsp;&emsp;(II) who is in the process of being admitted to a facility rendering care or treatment, including persons being transported to such a facility; or"; <sup>2</sup>
 

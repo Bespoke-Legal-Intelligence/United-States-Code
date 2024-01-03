@@ -4,7 +4,7 @@
 
 (1)
 
-General conformity certification.—Except as provided in paragraphs (2) and (3), every manufacturer of a product which is subject to a consumer product safety rule under this chapter or similar rule, ban, standard, or regulation under any other Act enforced by the Commission and which is imported for consumption or warehousing or distributed in commerce (and the private labeler of such product if such product bears a private label) shall issue a certificate which—
+General conformity certification.—Except as provided in paragraphs (2) and (3), every manufacturer of a product which is subject to a consumer product safety rule under this chapter or similar rule, ban, standard, or regulation under any other Act enforced by the Commission and which is imported for consumption or warehousing or distributed in commerce (andthe private labeler of such product if such product bears a private label) shall issue a certificate which—
 
 &emsp;(A) shall certify, based on a test of each product or upon a reasonable testing program, that such product complies with all rules, bans, standards, or regulations applicable to the product under this chapter or any other Act enforced by the Commission; and
 
@@ -50,7 +50,7 @@ Children's metal jewelry.—Not later than 120 days after August 14, 2008, the C
 
 &emsp;&emsp;(v)
 
-Baby bouncers, walkers, and jumpers.—Not later than 210 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation ofthird party conformity assessment bodies to assess conformity with parts 1500.18(a)(6) and 1500.86(a) of such title.<sup>1</sup>
+Baby bouncers, walkers, and jumpers.—Not later than 210 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with parts 1500.18(a)(6) and 1500.86(a) of such title.<sup>1</sup>
 
 &emsp;&emsp;(vi)
 
@@ -294,7 +294,7 @@ In this section:
 
 &emsp;&emsp;Upon request, the Commission may accredit a conformity assessment body that is owned, managed, or controlled by a manufacturer or private labeler as a third party conformity assessment body if the Commission by order finds that—
 
-&emsp;&emsp;&emsp;(i) accreditation of the conformity assessment body would provide equal or greater consumer safety protection than the manufacturer's or private labeler's useof an independent third party conformity assessment body; and
+&emsp;&emsp;&emsp;(i) accreditation of the conformity assessment body would provide equal or greater consumer safety protection than the manufacturer's or private labeler's use of an independent third party conformity assessment body; and
 
 &emsp;&emsp;&emsp;(ii) the conformity assessment body has established procedures to ensure that—
 

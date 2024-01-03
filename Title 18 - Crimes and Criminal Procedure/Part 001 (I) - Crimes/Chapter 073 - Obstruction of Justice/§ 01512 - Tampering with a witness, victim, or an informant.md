@@ -154,7 +154,7 @@ Subsec. (h). Pub. L. 100–690, §7029(a), added subsec. (h).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–646, §61(2), (3), added subsec. (a) and redesignated former subsec. (a) as (b).
 
-Subsecs. (b) to (g). Pub. L. 99–646, §61(1), (3), redesignated former subsec. (a) as (b), inserted ", delay, orprevent", and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
+Subsecs. (b) to (g). Pub. L. 99–646, §61(1), (3), redesignated former subsec. (a) as (b), inserted ", delay, or prevent", and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -228,7 +228,7 @@ Notification of availability of protection.—A victim or witness should routine
 
 &emsp;"(3)
 
-Scheduling changes.—All victims and witnesses who have been scheduled to attend criminal justice proceedings should either be notified as soon as possible of any scheduling changes which will affect their appearances or have available a system for alerting witnesses promptly by telephone or otherwise.
+Scheduling changes.—All victims and witnesses who have been scheduled to attend criminal justice proceedings should either be notified as soonas possible of any scheduling changes which will affect their appearances or have available a system for alerting witnesses promptly by telephone or otherwise.
 
 &emsp;"(4)
 

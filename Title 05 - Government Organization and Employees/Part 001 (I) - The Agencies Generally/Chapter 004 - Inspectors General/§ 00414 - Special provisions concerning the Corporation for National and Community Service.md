@@ -12,7 +12,7 @@ Personnel.—Notwithstanding the provisions of paragraphs (7) and (8) of section
 
 (b)
 
-Reports to Board of Directors.—Not later than the date on which the Chief Executive Officer of the Corporation for National and Community Service transmits any report to the Congress under subsection (b) or (c) of section 405 of this title, the Chief Executive Officer shall transmit such report to the Board of Directors of such Corporation.
+Reports to Board of Directors.—Not later than the date on which the Chief Executive Officer of the Corporation for National and Community Service transmits any report to the Congress under subsection (b) or (c) of section 405 ofthis title, the Chief Executive Officer shall transmit such report to the Board of Directors of such Corporation.
 
 (c)
 

@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Attorney General shall use available data from State and local authorities as well as research data to carry out a biennial comprehensive research and statistical review and analysis of severe forms of trafficking inpersons, and a biennial comprehensive research and statistical review and analysis of sex trafficking and unlawful commercial sex acts in the United States, and shall submit to Congress separate biennial reports on the findings.
+&emsp;&emsp;The Attorney General shall use available data from State and local authorities as well as research data to carry out a biennial comprehensive research and statistical review and analysis of severe forms of trafficking in persons, and a biennial comprehensive research and statistical review and analysis of sex trafficking and unlawful commercial sex acts in the United States, and shall submit to Congress separate biennial reports on the findings.
 
 #### (B) Contents
 
@@ -32,7 +32,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Attorney General, in consultation and cooperation with the Secretary of Health and Human Services, shall conduct an annual conference in each of the fiscal years 2006, 2007, and 2008, and thereafter conduct a biennial conference, addressing severe forms of trafficking in persons and commercial sex acts that occur, in whole or in part, within the territorial jurisdiction of the United States. At each such conference, the Attorney General, or his designee, shall—
+&emsp;&emsp;The Attorney General, in consultation and cooperation with the Secretary of Healthand Human Services, shall conduct an annual conference in each of the fiscal years 2006, 2007, and 2008, and thereafter conduct a biennial conference, addressing severe forms of trafficking in persons and commercial sex acts that occur, in whole or in part, within the territorial jurisdiction of the United States. At each such conference, the Attorney General, or his designee, shall—
 
 &emsp;&emsp;&emsp;(i) announce and evaluate the findings contained in the research and statistical reviews carried out under paragraph (1);
 
@@ -106,7 +106,7 @@ Pub. L. 115–392, §8, Dec. 21, 2018, 132 Stat. 5253, provided that: "Not later
 
 #### Ending Government Partnerships With the Commercial Sex Industry
 
-Pub. L. 115–392, §19, Dec. 21, 2018, 132 Stat. 5258, provided that: "No Federal funds or resources may be used for the operation of, participation in, or partnership with any program that involves the provision of funding or resources to an organization that—
+Pub. L. 115–392, §19, Dec. 21, 2018, 132 Stat. 5258, provided that: "No Federal funds or resources may be usedfor the operation of, participation in, or partnership with any program that involves the provision of funding or resources to an organization that—
 
 &emsp;"(1) has the primary purpose of providing adult entertainment; and
 
@@ -142,7 +142,7 @@ Sec. 2. <i>Strengthening Federal Responsiveness to Human Trafficking</i>. (a) Th
 
 Sec. 3. <i>Prosecuting Human Traffickers and Individuals Who Exploit Children Online</i>. (a) The Attorney General, through the Federal Enforcement Working Group, in collaboration with the Secretary of Labor and the Secretary of Homeland Security, shall:
 
-(i) improve interagency coordination with respect to targeting traffickers, determining threat assessments,and sharing law enforcement intelligence to build on the Administration's commitment to the continued success of ongoing anti-trafficking enforcement initiatives, such as the Anti-Trafficking Coordination Team and the U.S.-Mexico Bilateral Human Trafficking Enforcement Initiatives; and
+(i) improve interagency coordination with respect to targeting traffickers, determining threat assessments, and sharing law enforcement intelligence to build on the Administration's commitment to the continued success of ongoing anti-trafficking enforcement initiatives, such as the Anti-Trafficking Coordination Team and the U.S.-Mexico Bilateral Human Trafficking Enforcement Initiatives; and
 
 (ii) coordinate activities, as appropriate, with the Task Force on Missing and Murdered American Indians and Alaska Natives as established by Executive Order 13898 of November 26, 2019 (Establishing the Task Force on Missing and Murdered American Indians and Alaska Natives) \[25 U.S.C. 2801 note\].
 

@@ -54,7 +54,7 @@ Definitions.—In this section:
 
 (c)
 
-Requirements of Child Support Orders.—A child support order made by a court of a State is made consistently with this section if—
+Requirements of Child Support Orders.—A child support order made by a court ofa State is made consistently with this section if—
 
 &emsp;(1) a court that makes the order, pursuant to the laws of the State in which the court is located and subsections (e), (f), and (g)—
 
@@ -124,7 +124,7 @@ Registration for Modification.—If there is no individual contestant or child r
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–183, §301(f)(2)(C), inserted designations for pars. (1) to (9) and "The term" after each designation.
 
-Subsec. (d). Pub. L. 113–183, §301(f)(2)(A), substituted "individual contestant or the parties have consented ina record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order," for "individual contestant".
+Subsec. (d). Pub. L. 113–183, §301(f)(2)(A), substituted "individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order," for "individual contestant".
 
 Subsec. (e)(2)(A). Pub. L. 113–183, §301(f)(2)(B), substituted "individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order" for "individual contestant".
 

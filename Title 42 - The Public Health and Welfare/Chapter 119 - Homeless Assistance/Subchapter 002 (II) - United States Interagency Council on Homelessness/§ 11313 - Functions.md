@@ -166,7 +166,7 @@ Committees.—The Committees of the Congress specified in this subsection are as
 
 #### Personnel From Federal Departments and Agencies
 
-Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1608, provided in part: "That the Council shall carry out its duties in the 10 standard Federal regions under section 203(a)(4) of such Act \[now 42 U.S.C. 11313(a)(5)\] only through detail, on a non-reimbursable basis, of employees of the departments and agencies represented on the Council pursuant to section 202(a) of such Act \[42 U.S.C. 11312(a)\]."
+Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1608, provided in part: "That the Council shall carry out itsduties in the 10 standard Federal regions under section 203(a)(4) of such Act \[now 42 U.S.C. 11313(a)(5)\] only through detail, on a non-reimbursable basis, of employees of the departments and agencies represented on the Council pursuant to section 202(a) of such Act \[42 U.S.C. 11312(a)\]."
 
 Similar provisions were contained in the following prior appropriations acts:
 

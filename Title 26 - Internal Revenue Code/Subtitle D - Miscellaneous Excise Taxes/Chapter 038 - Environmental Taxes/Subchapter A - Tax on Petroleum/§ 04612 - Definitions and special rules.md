@@ -88,7 +88,7 @@ There shall be allowed as a credit against so much of the tax imposed by section
 
 #### (A) In general
 
-&emsp;&emsp;The credit determined under this subsection for any taxable year is an amountequal to the aggregate credit which would be allowed to the taxpayer under subsection (d) for amounts paid into the Trans-Alaska Pipeline Liability Fund had the Oil Spill Liability Trust Fund financing rate not ceased to apply.
+&emsp;&emsp;The credit determined under this subsection for any taxable year is an amount equal to the aggregate credit which would be allowed to the taxpayer under subsection (d) for amounts paid into the Trans-Alaska Pipeline Liability Fund had the Oil Spill Liability Trust Fund financing rate not ceased to apply.
 
 #### (B) Limitation
 

@@ -77,7 +77,7 @@
 
 &emsp;(B) the date on which the employee or Member making the deposit first becomes an employee or Member following the period of military service for which such deposit is due,
 
-> shall include interest on such amount computed and compounded annually beginning on the date of the expiration of the two-year period. The interest rate that is applicable in computing interest in any year under this paragraph shall beequal to the interest rate that is applicable for such year under section 8334(e).
+> shall include interest on such amount computed and compounded annually beginning on the date of the expiration of the two-year period. The interest rate that is applicable in computing interest in any year under this paragraph shall be equal to the interest rate that is applicable for such year under section 8334(e).
 
 (3) Any payment received by an agency, the Secretary of the Senate, or the Chief Administrative Officer of the House of Representatives under this subsection shall be immediately remitted to the Office for deposit in the Treasury of the United States to the credit of the Fund.
 
@@ -243,7 +243,7 @@ Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the f
 
 #### Effective Date of 2003 Amendments
 
-Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
+Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to anyannuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
 
 Amendment by Pub. L. 108–92 applicable with respect to any annuity entitlement which is based on a separation from service occurring on or after Oct. 3, 2003, see section 2 of Pub. L. 108–92, set out as a note under section 8415 of this title.
 
@@ -281,7 +281,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, and applicable with respec
 
 #### Authorization of Payments
 
-Payments from the Office of Personnel Management authorized by section 3(b) of Pub. L. 115–352, whichamended this section, to be paid from the Civil Service Retirement and Disability Fund, see section 3(c) of Pub. L. 115–352, set out as a note under section 8334 of this title.
+Payments from the Office of Personnel Management authorized by section 3(b) of Pub. L. 115–352, which amended this section, to be paid from the Civil Service Retirement and Disability Fund, see section 3(c) of Pub. L. 115–352, set out as a note under section 8334 of this title.
 
 #### No Reduction in Agency Contributions
 

@@ -40,7 +40,7 @@ In carrying out the programs specified in paragraphs (1) and (3) of subsection (
 
 #### (2) Exception
 
-&emsp;Notwithstanding paragraph (1), no personnel action (as defined in section 2302(a)(2)(A) of title 5) may be taken with respect to a Federal employee unless such action is taken by another Federal employee.
+&emsp;Notwithstanding paragraph (1), no personnel action (as defined in section 2302(a)(2)(A) of title 5) may be taken with respect to a Federalemployee unless such action is taken by another Federal employee.
 
 #### (e) Savings provision
 
@@ -84,6 +84,8 @@ Section was formerly part of subtitle E of title II of Pub. L. 103–354 and cla
 
 Section is comprised of section 228 of Pub. L. 103–354. Subsec. (f) of section 228 of Pub. L. 103–354 amended sections 2001, 2002, 2005, and 3862 of Title 16, Conservation, and repealed section 590e of Title 16.
 
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(2), (3). Pub. L. 115–334, §12410(b)(1)(A), (B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: "The forest land enhancement program under section 2103 of title 16."
@@ -112,7 +114,7 @@ Subsec. (b)(4). Pub. L. 104–127, §336(c)(3), (d)(2)(A)(ii), redesignated par.
 
 Subsec. (b)(5). Pub. L. 104–127, §336(d)(2)(A)(ii), redesignated par. (7) as (5). Former par. (5) redesignated (3).
 
-Subsec. (b)(6). Pub. L. 104–127, §336(a)(2)(D), (d)(2)(A)(ii), redesignated par. (8) as (6) and struck out before period at end "and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590g et seq.)". Former par. (6) redesignated (4).
+Subsec. (b)(6). Pub. L. 104–127, §336(a)(2)(D), (d)(2)(A)(ii), redesignated par. (8) as (6) and struck outbefore period at end "and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590g et seq.)". Former par. (6) redesignated (4).
 
 Subsec. (b)(7), (8). Pub. L. 104–127, §336(d)(2)(A)(ii), redesignated pars. (7) and (8) as (5) and (6), respectively.
 

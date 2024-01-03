@@ -36,7 +36,7 @@ In the case of any partnership regularly carrying on a trade or business (within
 
 #### (2) Certain foreign partnerships required to file return
 
-&emsp;Except as provided in regulations prescribed by the Secretary, this section shall apply to a foreign partnership for any taxable year if for such year, such partnership has—
+&emsp;Except as provided in regulations prescribed by the Secretary, this section shall apply to aforeign partnership for any taxable year if for such year, such partnership has—
 
 &emsp;&emsp;(A) gross income derived from sources within the United States, or
 
@@ -62,7 +62,7 @@ Section 743(e)(6), referred to in subsec. (f), was redesignated section 743(e)(5
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–113 substituted "Except as provided in the procedures under section 6225(c), with respect to statements under section 6226, or as otherwise provided by the Secretary, information required to be furnished by the partnership under this subsection may not be amended after the due date of the return under subsection (a) to which such information relates." for "In the case of an electing large partnership (as defined in section 775), such information shall be furnished on or before the first March 15 following the close of such taxable year."
 
-Pub. L. 114–74, §1101(e), (f)(1), which directed amendment of subsec. (b) by first inserting at end "Except as provided in the procedures under section 6225(c), with respect to statements under section 6226, or as otherwise provided by the Secretary, information required tobe furnished by the partnership under this subsection may not be amended after the due date of the return under subsection (a) to which such information relates." and then by striking the last sentence, was not executed in view of the amendment by Pub. L. 114–113, which made identical amendments but in the reverse order, effective as if included in section 1101 of Pub. L. 114–74. See note above.
+Pub. L. 114–74, §1101(e), (f)(1), which directed amendment of subsec. (b) by first inserting at end "Except as provided in the procedures under section 6225(c), with respect to statements under section 6226, or as otherwise provided by the Secretary, information required to be furnished by the partnership under this subsection may not be amended after the due date of the return under subsection (a) to which such information relates." and then by striking the last sentence, was not executed in view of the amendment by Pub. L. 114–113, which made identical amendments but in the reverse order, effective as if included in section 1101 of Pub. L. 114–74. See note above.
 
 <b>2004</b>—Subsec. (f). Pub. L. 108–357 added subsec. (f).
 

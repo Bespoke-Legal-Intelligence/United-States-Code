@@ -60,7 +60,7 @@ Activities that may be supported by assistance under subsection (a) include the 
 
 &emsp;(4) To support investments in people, particularly women and children, including—
 
-&emsp;&emsp;(A) promoting modern, public primary and secondary education and vocational and technical training, including programs to assist in the development of modern, nationwide school curriculums for public, private, and religious schools; support for the properoversight of all educational institutions, including religious schools, as required by Pakistani law; initiatives to enhance access to education and vocational and technical training for women and girls and to increase women's literacy, with a special emphasis on helping girls stay in school; and construction and maintenance of libraries and public schools;
+&emsp;&emsp;(A) promoting modern, public primary and secondary education and vocational and technical training, including programs to assist in the development of modern, nationwide school curriculums for public, private, and religious schools; support for the proper oversight of all educational institutions, including religious schools, as required by Pakistani law; initiatives to enhance access to education and vocational and technical training for women and girls and to increase women's literacy, with a special emphasis on helping girls stay in school; and construction and maintenance of libraries and public schools;
 
 &emsp;&emsp;(B) programs relating to higher education to ensure a breadth and consistency of Pakistani graduates, including through public-private partnerships;
 
@@ -104,7 +104,7 @@ Activities that may be supported by assistance under subsection (a) include the 
 
 &emsp;&emsp;(A) the United States should provide robust assistance to the people of Pakistan who have been displaced as a result of ongoing conflict and violence in Pakistan and support international efforts to coordinate assistance to refugees and internally displaced persons in Pakistan, including by providing support to international and nongovernmental organizations for this purpose;
 
-&emsp;&emsp;(B) the Administrator of the United States Agency for International Development should support the development objectives of the Refugee Affected and Host Areas (RAHA) Initiative in Pakistan to address livelihoods, health, education, infrastructure development, and environmental restoration in identified parts of the country where Afghan refugees have lived; and
+&emsp;&emsp;(B) the Administrator of the United States Agency for International Development should support the development objectivesof the Refugee Affected and Host Areas (RAHA) Initiative in Pakistan to address livelihoods, health, education, infrastructure development, and environmental restoration in identified parts of the country where Afghan refugees have lived; and
 
 &emsp;&emsp;(C) the United States should have a coordinated, strategic communications strategy to engage the people of Pakistan and to help ensure the success of the measures authorized by this subchapter.
 
@@ -118,7 +118,7 @@ For fiscal years 2010 through 2014, the President shall notify the appropriate c
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (c)(5), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424,which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c)(5), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -206,7 +206,7 @@ Other scholarships.—The USAID Administrator shall make every effort to award 5
 
 "(c)
 
-Leveraging Investment.—The USAID Administrator shall, to the greatest extent practicable, consult with and leverage investments by the Pakistani privatesector and Pakistani diaspora communities in the United States as part of USAID's greater effort to improve the quality of, expand access to, and ensure sustainability of education programs in Pakistan.
+Leveraging Investment.—The USAID Administrator shall, to the greatest extent practicable, consult with and leverage investments by the Pakistani private sector and Pakistani diaspora communities in the United States as part of USAID's greater effort to improve the quality of, expand access to, and ensure sustainability of education programs in Pakistan.
 
 #### "SEC. 5. ANNUAL CONGRESSIONAL BRIEFING.
 

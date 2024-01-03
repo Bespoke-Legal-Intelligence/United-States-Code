@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(ii) unless the Commission finds (in which case the Commission shall deny such registration) that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the applicant does not have adequate financial and managerial resources to consistently produce credit ratings with integrity and to materially comply with the procedures and methodologies disclosed under paragraph (1)(B) and with subsections (g), (h), (i), and (j); or
+&emsp;&emsp;&emsp;&emsp;(I) the applicant does not have adequate financial and managerial resources to consistently produce credit ratings with integrity and to materially complywith the procedures and methodologies disclosed under paragraph (1)(B) and with subsections (g), (h), (i), and (j); or
 
 &emsp;&emsp;&emsp;&emsp;(II) if the applicant were so registered, its registration would be subject to suspension or revocation under subsection (d).
 
@@ -152,7 +152,7 @@
 
 #### (1) In general
 
-&emsp;The Commission, by order, shall censure, place limitations on the activities, functions, or operations of, suspend for a period not exceeding 12 months, or revoke the registration of any nationally recognized statistical rating organization, or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization, if the Commission finds, on the record after notice and opportunity for hearing, that such censure, placing of limitations, suspension, bar or revocation is necessary for the protection of investors and in the public interest and that such nationally recognized statistical rating organization, or any person associated with such an organization, whether prior to or subsequent to becoming so associated—
+&emsp;The Commission, by order, shall censure, place limitations on the activities, functions, or operations of, suspend for a period not exceeding 12 months, or revoke the registration of any nationally recognized statistical ratingorganization, or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization, if the Commission finds, on the record after notice and opportunity for hearing, that such censure, placing of limitations, suspension, bar or revocation is necessary for the protection of investors and in the public interest and that such nationally recognized statistical rating organization, or any person associated with such an organization, whether prior to or subsequent to becoming so associated—
 
 &emsp;&emsp;(A) has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), (E), (H), or (G) of section 78o(b)(4) of this title, has been convicted of any offense specified in section 78o(b)(4)(B) of this title, or is enjoined from any action, conduct, or practice specified in subparagraph (C) of section 78o(b)(4) of this title, during the 10-year period preceding the date of commencement of the proceedings under this subsection, or at any time thereafter;
 
@@ -230,7 +230,7 @@
 
 &emsp;&emsp;(A) the manner in which a nationally recognized statistical rating organization is compensated by the obligor, or any affiliate of the obligor, for issuing credit ratings or providing related services;
 
-&emsp;&emsp;(B) the provision of consulting, advisory, or other services by a nationally recognizedstatistical rating organization, or any person associated with such nationally recognized statistical rating organization, to the obligor, or any affiliate of the obligor;
+&emsp;&emsp;(B) the provision of consulting, advisory, or other services by a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, to the obligor, or any affiliate of the obligor;
 
 &emsp;&emsp;(C) business relationships, ownership interests, or any other financial or personal interests between a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, and the obligor, or any affiliate of the obligor;
 
@@ -270,7 +270,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Commission shall conduct periodic reviews of the policies described in subparagraph (A) and the implementation of the policies at each nationally recognized statistical rating organization to ensure they are reasonably designed and implemented to most effectively eliminate conflicts of interest.
+&emsp;&emsp;&emsp;The Commission shall conduct periodic reviews of the policies described in subparagraph (A) and the implementation of the policies at each nationally recognized statistical rating organization to ensurethey are reasonably designed and implemented to most effectively eliminate conflicts of interest.
 
 #### (ii) Timing of reviews
 
@@ -376,7 +376,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 &emsp;On and after the effective date of this section—
 
-&emsp;&emsp;(A) an entity that, before that date, received advice, approval, or a no-action letterfrom the Commission or staff thereof to be treated as a nationally recognized statistical rating organization pursuant to the Commission rule at section 240.15c3–1 of title 17, Code of Federal Regulations, may represent itself or act as a nationally recognized statistical rating organization only—
+&emsp;&emsp;(A) an entity that, before that date, received advice, approval, or a no-action letter from the Commission or staff thereof to be treated as a nationally recognized statistical rating organization pursuant to the Commission rule at section 240.15c3–1 of title 17, Code of Federal Regulations, may represent itself or act as a nationally recognized statistical rating organization only—
 
 &emsp;&emsp;&emsp;(i) during Commission consideration of the application, if such entity has filed an application for registration under this section; and
 
@@ -692,7 +692,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (5) Exception authority
 
-&emsp;If the Commission finds that compliance with the provisions of this subsection present an unreasonable burden on a small nationally recognized statistical rating organization, the Commission may permit the nationally recognized statistical rating organization to delegate such responsibilities to a committee thatincludes at least one individual who is a user of ratings of a nationally recognized statistical rating organization.
+&emsp;If the Commission finds that compliance with the provisions of this subsection present an unreasonable burden on a small nationally recognized statistical rating organization, the Commission may permit the nationally recognized statistical rating organization to delegate such responsibilities to a committee that includes at least one individual who is a user of ratings of a nationally recognized statistical rating organization.
 
 #### (u) Duty to report tips alleging material violations of law
 
@@ -742,7 +742,7 @@ Subsec. (c)(2). Pub. L. 111–203, §932(a)(2)(A), inserted "any other provision
 
 Subsec. (c)(3). Pub. L. 111–203, §932(a)(2)(B), added par. (3).
 
-Subsec. (d). Pub. L. 111–203, §932(a)(3), designated existing provisions as par. (1), inserted heading, inserted ", or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization," before "if the Commission finds" and "bar" before "or revocation is necessary", redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted "filed with" for "furnished to" in introductory provisions, in subpar. (D), substituted "file" for "furnish", and added subpar. (F) and par. (2).
+Subsec. (d). Pub. L. 111–203, §932(a)(3), designated existing provisions as par. (1), inserted heading, inserted", or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization," before "if the Commission finds" and "bar" before "or revocation is necessary", redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted "filed with" for "furnished to" in introductory provisions, in subpar. (D), substituted "file" for "furnish", and added subpar. (F) and par. (2).
 
 Subsec. (h)(3) to (5). Pub. L. 111–203, §932(a)(4), added pars. (3) to (5).
 
@@ -768,7 +768,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Regulations
 
-Pub. L. 111–203, title IX, §937, July 21, 2010, 124 Stat. 1885, provided that: "Unless otherwise specifically provided in this subtitle \[subtitle C (§§931–939H) of title IX of Pub. L. 111–203, enacting sections 78o–8 and 78o–9 of this title, amending this section and sections 78c, 78u–4, and 80a–6 of this title, sections 24a, 1817, 1831e, and 4519 of Title 12, Banks and Banking, and section 286hh ofTitle 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, sections 78m and 78o–9 of this title, and section 24a of Title 12\], the \[Securities and Exchange\] Commission shall issue final regulations, as required by this subtitle and the amendments made by this subtitle, not later than 1 year after the date of enactment of this Act \[July 21, 2010\]."
+Pub. L. 111–203, title IX, §937, July 21, 2010, 124 Stat. 1885, provided that: "Unless otherwise specifically provided in this subtitle \[subtitle C (§§931–939H) of title IX of Pub. L. 111–203, enacting sections 78o–8 and 78o–9 of this title, amending this section and sections 78c, 78u–4, and 80a–6 of this title, sections 24a, 1817, 1831e, and 4519 of Title 12, Banks and Banking, and section 286hh of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, sections 78m and 78o–9 of this title, and section 24a of Title 12\], the \[Securities and Exchange\] Commission shall issue final regulations, as required by this subtitle and the amendments made by this subtitle, not later than 1 year after the date of enactment of this Act \[July 21, 2010\]."
 
 #### Rule of Construction—No New Disclosure Requirements
 
@@ -824,7 +824,7 @@ Pub. L. 111–203, title IX, §943, July 21, 2010, 124 Stat. 1897, provided that
 
 Pub. L. 111–203, title IX, §931, July 21, 2010, 124 Stat. 1872, provided that: "Congress finds the following:
 
-&emsp;"(1) Because of the systemic importance of credit ratings and the reliance placed on credit ratings by individual and institutional investors and financial regulators, the activities and performances of credit rating agencies, including nationally recognized statistical rating organizations, are matters of national public interest, as credit rating agencies are central to capital formation, investor confidence, and the efficient performance of the United States economy.
+&emsp;"(1) Because of the systemic importance of credit ratings and the reliance placed on credit ratings byindividual and institutional investors and financial regulators, the activities and performances of credit rating agencies, including nationally recognized statistical rating organizations, are matters of national public interest, as credit rating agencies are central to capital formation, investor confidence, and the efficient performance of the United States economy.
 
 &emsp;"(2) Credit rating agencies, including nationally recognized statistical rating organizations, play a critical 'gatekeeper' role in the debt market that is functionally similar to that of securities analysts, who evaluate the quality of securities in the equity market, and auditors, who review the financial statements of firms. Such role justifies a similar level of public oversight and accountability.
 
@@ -838,7 +838,7 @@ Pub. L. 111–203, title IX, §931, July 21, 2010, 124 Stat. 1872, provided that
 
 Pub. L. 109–291, §2, Sept. 29, 2006, 120 Stat. 1327, provided that: "Upon the basis of facts disclosed by the record and report of the Securities and Exchange Commission made pursuant to section 702 of the Sarbanes-Oxley Act of 2002 \[Pub. L. 107–204\] (116 Stat. 797), hearings before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives during the 108th and 109th Congresses, comment letters to the concept releases and proposed rules of the Commission, and facts otherwise disclosed and ascertained, Congress finds that credit rating agencies are of national importance, in that, among other things—
 
-&emsp;"(1) their ratings, publications, writings, analyses, and reports are furnished and distributed, and theircontracts, subscription agreements, and other arrangements with clients are negotiated and performed, by the use of the mails and other means and instrumentalities of interstate commerce;
+&emsp;"(1) their ratings, publications, writings, analyses, and reports are furnished and distributed, and their contracts, subscription agreements, and other arrangements with clients are negotiated and performed, by the use of the mails and other means and instrumentalities of interstate commerce;
 
 &emsp;"(2) their ratings, publications, writings, analyses, and reports customarily relate to the purchase and sale of securities traded on securities exchanges and in interstate over-the-counter markets, securities issued by companies engaged in business in interstate commerce, and securities issued by national banks and member banks of the Federal Reserve System;
 

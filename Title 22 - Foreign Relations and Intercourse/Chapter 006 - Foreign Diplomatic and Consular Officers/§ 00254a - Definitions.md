@@ -4,7 +4,7 @@ As used in this Act—
 
 &emsp;(1) the term "members of a mission" means—
 
-&emsp;&emsp;(A) the head of a mission and those members of a mission who are members of thediplomatic staff or who, pursuant to law, are granted equivalent privileges and immunities,
+&emsp;&emsp;(A) the head of a mission and those members of a mission who are members of the diplomatic staff or who, pursuant to law, are granted equivalent privileges and immunities,
 
 &emsp;&emsp;(B) members of the administrative and technical staff of a mission, and
 
@@ -52,7 +52,7 @@ Pub. L. 95–393, §1, Sept. 30, 1978, 92 Stat. 808, provided that: "This Act \[
 
 #### Notification of Travel by Accredited Diplomatic and Consular Personnel of the Russian Federation in the United States
 
-Pub. L. 116–92, div. E, title LXVII, §6704, Dec. 20, 2019, 133 Stat. 2223, provided that: "In carrying out the advance notification requirements set out in section 502 of the Intelligence Authorization Act for Fiscal Year 2017 (division N of Public Law 115–31; 131 Stat. 825; 22 U.S.C. 254a note), the Secretary of State shall—
+Pub. L. 116–92, div. E, title LXVII, §6704, Dec. 20, 2019, 133 Stat. 2223, provided that: "In carrying out the advance notification requirements set out in section 502 of the Intelligence Authorization Act for Fiscal Year2017 (division N of Public Law 115–31; 131 Stat. 825; 22 U.S.C. 254a note), the Secretary of State shall—
 
 &emsp;"(1) ensure that the Russian Federation provides notification to the Secretary of State at least 2 business days in advance of all travel that is subject to such requirements by accredited diplomatic and consular personnel of the Russian Federation in the United States, and take necessary action to secure full compliance by Russian personnel and address any noncompliance; and
 

@@ -1,6 +1,6 @@
 ### §§4051 to 4062. Repealed. Pub. L. 100–297, title II, §2303, Apr. 28, 1988, 102 Stat. 324
 
-Section 4051, Pub. L. 98–377, title VII, §701, Aug. 11, 1984, 98 Stat. 1299; Pub. L. 99–159, title II, §261, Nov. 22, 1985, 99 Stat. 901, related to authorization of appropriations.
+Section 4051, Pub. L. 98–377, title VII, §701, Aug. 11, 1984, 98 Stat. 1299; Pub. L. 99–159, title II, §261, Nov. 22,1985, 99 Stat. 901, related to authorization of appropriations.
 
 Section 4052, Pub. L. 98–377, title VII, §702, Aug. 11, 1984, 98 Stat. 1299, related to eligibility requirements.
 

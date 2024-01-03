@@ -54,7 +54,7 @@ July 4, 1966, Pub. L. 89–488, §§11(a), 12, 80 Stat. 255.
 
 In the first sentence, the words "section 8124 of this title" are substituted for "section 36" to reflect the codification of that section in title 5, United States Code.
 
-In the second sentence, the word "adjudicating" is substituted for "in the adjudication of". The words "section 8146 of this title" and "this subchapter" are substituted for "section 42 of this Act" and "this Act", respectively, to reflect the codification of the Federal Employees' Compensation Act in title 5, United States Code.
+In the second sentence, the word "adjudicating" is substituted for "in the adjudication of". The words "section 8146 of this title" and "this subchapter" are substituted for "section 42 of this Act" and "this Act", respectively, to reflect the codification of the FederalEmployees' Compensation Act in title 5, United States Code.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

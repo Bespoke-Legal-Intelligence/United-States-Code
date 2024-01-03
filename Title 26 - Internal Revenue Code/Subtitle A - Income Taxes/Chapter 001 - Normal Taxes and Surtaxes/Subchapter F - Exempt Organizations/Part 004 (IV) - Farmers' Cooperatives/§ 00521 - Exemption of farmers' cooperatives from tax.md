@@ -8,7 +8,7 @@ A farmers' cooperative organization described in subsection (b)(1) shall be exem
 
 #### (1) Exempt farmers' cooperatives
 
-&emsp;The farmers' cooperatives exempt from taxation to the extent provided in subsection (a) are farmers', fruit growers', or like associations organized and operated on a cooperative basis (A) for the purpose of marketing the products of members or other producers, and turning back to them the proceeds of sales, less the necessary marketing expenses, on the basis of either the quantity or the value of the products furnished by them, or (B) for the purpose of purchasing supplies and equipment for the use of members or other persons, and turning over such supplies and equipment to them at actual cost, plus necessary expenses.
+&emsp;The farmers' cooperatives exempt from taxation to the extent provided in subsection (a) are farmers', fruit growers', or like associations organized and operated on a cooperative basis (A) for the purpose of marketing theproducts of members or other producers, and turning back to them the proceeds of sales, less the necessary marketing expenses, on the basis of either the quantity or the value of the products furnished by them, or (B) for the purpose of purchasing supplies and equipment for the use of members or other persons, and turning over such supplies and equipment to them at actual cost, plus necessary expenses.
 
 #### (2) Organizations having capital stock
 

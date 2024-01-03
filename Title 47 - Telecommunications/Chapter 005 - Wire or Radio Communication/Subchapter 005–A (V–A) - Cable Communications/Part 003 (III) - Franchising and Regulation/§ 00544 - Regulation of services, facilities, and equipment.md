@@ -6,7 +6,7 @@ Any franchising authority may not regulate the services, facilities, and equipme
 
 #### (b) Requests for proposals; establishment and enforcement of requirements
 
-In the case of any franchise granted after the effective date of this subchapter, the franchisingauthority, to the extent related to the establishment or operation of a cable system—
+In the case of any franchise granted after the effective date of this subchapter, the franchising authority, to the extent related to the establishment or operation of a cable system—
 
 &emsp;(1) in its request for proposals for a franchise (including requests for renewal proposals, subject to section 546 of this title), may establish requirements for facilities and equipment, but may not, except as provided in subsection (h), establish requirements for video programming or other information services; and
 
@@ -74,7 +74,7 @@ Within 120 days after October 5, 1992, the Commission shall prescribe rules conc
 
 #### References in Text
 
-For "the effective date of this subchapter", referred to in subsecs. (b) and (c), as 60 days after Oct. 30, 1984,except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
+For "the effective date of this subchapter", referred to in subsecs. (b) and (c), as 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
 
 #### Amendments
 

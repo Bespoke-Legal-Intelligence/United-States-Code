@@ -32,7 +32,7 @@ The Attorney General, on behalf of the Secretary, or other party at whose reques
 
 &emsp;&emsp;(ii) in an amount not exceeding $100,000, for any subsequent violation.
 
-(2) In a civil action under this section, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee and costs. The United States shall be liable for such fees and costs to the extent provided by section 2412 of title 28.
+(2) In a civil action under this section, the court, in its discretion, may allow the prevailingparty, other than the United States, a reasonable attorney's fee and costs. The United States shall be liable for such fees and costs to the extent provided by section 2412 of title 28.
 
 #### (e) Intervention in civil actions
 

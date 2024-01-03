@@ -8,13 +8,13 @@
 
 (b) The head of an agency administering an included Federal loan program shall require a person applying for a loan under the program to provide that person's taxpayer identifying number.
 
-(c)(1) The head of each Federal agency shall require each person doing business with that agency to furnish to that agency such person's taxpayer identifying number.
+(c)(1) The head of each Federal agency shall require each person doing business with thatagency to furnish to that agency such person's taxpayer identifying number.
 
 (2) For purposes of this subsection, a person shall be considered to be doing business with a Federal agency if the person is—
 
 &emsp;(A) a lender or servicer in a Federal guaranteed or insured loan program administered by the agency;
 
-&emsp;(B) an applicant for, or recipient of, a Federal license, permit, right-of-way, grant, orbenefit payment administered by the agency or insurance administered by the agency;
+&emsp;(B) an applicant for, or recipient of, a Federal license, permit, right-of-way, grant, or benefit payment administered by the agency or insurance administered by the agency;
 
 &emsp;(C) a contractor of the agency;
 

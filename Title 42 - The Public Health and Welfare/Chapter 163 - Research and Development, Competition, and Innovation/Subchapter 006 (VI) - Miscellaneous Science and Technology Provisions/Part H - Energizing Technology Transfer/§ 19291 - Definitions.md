@@ -40,5 +40,5 @@ In this part:
 
 #### References in Text
 
-This part, referred to in text, was in the original "this subtitle", meaning subtitle J (§§10701–10727) oftitle VI of div. B of Pub. L. 117–167, which is classified principally to this part. For complete classification of subtitle J to the Code, see Tables.
+This part, referred to in text, was in the original "this subtitle", meaning subtitle J (§§10701–10727) of title VI of div. B of Pub. L. 117–167, which is classified principally to this part. For complete classification of subtitle J to the Code, see Tables.
 

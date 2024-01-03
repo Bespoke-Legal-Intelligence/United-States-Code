@@ -14,7 +14,7 @@ This section shall not apply to the national security laboratories with respect 
 
 #### References in Text
 
-Section 3119 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (b), is section 3119 of Pub. L. 114–328, which was set out as a note under section 2791 of Title 50, War and NationalDefense, prior to repeal by Pub. L. 117–263, div. C, title XXXI, §3116(b), Dec. 23, 2022, 136 Stat. 3054.
+Section 3119 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (b), is section 3119 of Pub. L. 114–328, which was set out as a note under section 2791 of Title 50, War and National Defense, prior to repeal by Pub. L. 117–263, div. C, title XXXI, §3116(b), Dec. 23, 2022, 136 Stat. 3054.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

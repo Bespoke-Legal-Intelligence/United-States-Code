@@ -46,7 +46,7 @@ Medical quality assurance records created by or for any Indian health program or
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), a medical quality assurance record described in subsection (b)may be disclosed, and an individual referred to in subsection (c) may give testimony in connection with such a record, only as follows:
+&emsp;Subject to paragraph (2), a medical quality assurance record described in subsection (b) may be disclosed, and an individual referred to in subsection (c) may give testimony in connection with such a record, only as follows:
 
 &emsp;&emsp;(A) To a Federal agency or private organization, if such medical quality assurance record or testimony is needed by such agency or organization to perform licensing or accreditation functions related to any Indian health program or to a health program of an urban Indian organization to perform monitoring, required by law, of such program or organization.
 
@@ -102,7 +102,7 @@ Disclosure under subsection (d) does not permit redisclosure except to the exten
 
 #### (l) Inconsistencies
 
-To the extent that the protections under part C of title IX of the Public Health Service Act (42U.S.C. 229b–21 et seq.) \[42 U.S.C. 299b–21 et seq.\] (as amended by the Patient Safety and Quality Improvement Act of 2005 (Public Law 109–41; 119 Stat. 424)) and this section are inconsistent, the provisions of whichever is more protective shall control.
+To the extent that the protections under part C of title IX of the Public Health Service Act (42 U.S.C. 229b–21 et seq.) \[42 U.S.C. 299b–21 et seq.\] (as amended by the Patient Safety and Quality Improvement Act of 2005 (Public Law 109–41; 119 Stat. 424)) and this section are inconsistent, the provisions of whichever is more protective shall control.
 
 #### (m) Relationship to other law
 

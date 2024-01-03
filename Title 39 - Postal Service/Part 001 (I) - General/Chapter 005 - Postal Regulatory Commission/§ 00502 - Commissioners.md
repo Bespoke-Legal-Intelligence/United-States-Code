@@ -24,5 +24,5 @@ The Postal Accountability and Enhancement Act, referred to in subsec. (a), is Pu
 
 #### Effective Date
 
-Section not to affect the appointment or tenure of any person serving as a Commissioner on the Postal Regulatory Commission under an appointment made before Dec. 20, 2006, or any nomination made before that date, but when any such office becomes vacant, the appointment to fill that office to be made in accordance with this section, see section 601(b) of Pub. L. 109–435, set out as an Effective Date of 2006 Amendment note under section 501 of this title.
+Section not to affect the appointment or tenure of any person serving as a Commissioner on the PostalRegulatory Commission under an appointment made before Dec. 20, 2006, or any nomination made before that date, but when any such office becomes vacant, the appointment to fill that office to be made in accordance with this section, see section 601(b) of Pub. L. 109–435, set out as an Effective Date of 2006 Amendment note under section 501 of this title.
 

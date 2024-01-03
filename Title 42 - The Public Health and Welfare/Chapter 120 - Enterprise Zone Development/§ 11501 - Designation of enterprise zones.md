@@ -34,7 +34,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the Secretary shall designate (i) the nominated areas with the highest average ranking with respect to the criteria set forth in subparagraphs (C) and (D) of subsection\(c)(3), and the 1 criterion set forth in subparagraph (E)(i) or (E)(ii) of subsection (c)(3) that gives an area a higher ranking; and (ii) for areas described in paragraph (2)(B), the nominated areas with the highest ranking with respect to the 1 criterion set forth in subparagraph (C), (D), (E)(i), or (E)(ii) of subsection (c)(3) that gives an area a higher ranking. For purposes of the preceding sentence, an area shall be ranked within each such criterion on the basis of the amount by which the area exceeds such criterion, with the area that exceeds such criterion by the greatest amount given the highest ranking.
+&emsp;&emsp;Except as provided in subparagraph (B), the Secretary shall designate (i) the nominated areas with the highest average ranking with respect to the criteria set forth in subparagraphs (C) and (D) of subsection (c)(3), and the 1 criterion set forth in subparagraph (E)(i) or (E)(ii) of subsection (c)(3) that gives an area a higher ranking; and (ii) for areas described in paragraph (2)(B), the nominated areas with the highest ranking with respect to the 1 criterion set forth in subparagraph (C), (D), (E)(i), or (E)(ii) of subsection (c)(3) that gives an area a higher ranking. For purposes of the preceding sentence, an area shall be ranked within each such criterion on the basis of the amount by which the area exceeds such criterion, with the area that exceeds such criterion by the greatest amount given the highest ranking.
 
 #### (B) Exception where inadequate course of action, etc.
 
@@ -124,7 +124,7 @@
 
 #### (3) Eligibility requirements
 
-&emsp;For purposes of paragraph (1), a nominated area meets the requirements of this paragraphif the State and local governments in which it is located certify and the Secretary, after such review of supporting data as he deems appropriate, accepts such certification, that—
+&emsp;For purposes of paragraph (1), a nominated area meets the requirements of this paragraph if the State and local governments in which it is located certify and the Secretary, after such review of supporting data as he deems appropriate, accepts such certification, that—
 
 &emsp;&emsp;(A) the area is one of pervasive poverty, unemployment, and general distress;
 
@@ -152,7 +152,7 @@
 
 #### (1) In general
 
-&emsp;No nominated area shall be designated as an enterprise zone unless the local government and the State in which it is located agree in writing that, during any period during which the area is an enterprise zone, such governments will follow a specified course of action designated to reduce the various burdens borne by employers or employees in such area. A course of action shall not be treated as meeting the requirements of this paragraph unless the course of action include provisions described in not less than 4 of the subparagraphs of paragraph (2).
+&emsp;No nominated area shall be designated as an enterprise zone unless the local governmentand the State in which it is located agree in writing that, during any period during which the area is an enterprise zone, such governments will follow a specified course of action designated to reduce the various burdens borne by employers or employees in such area. A course of action shall not be treated as meeting the requirements of this paragraph unless the course of action include provisions described in not less than 4 of the subparagraphs of paragraph (2).
 
 #### (2) Course of action
 

@@ -2,7 +2,7 @@
 
 #### (a) Approval of projects
 
-The President, acting through the Administrator of the Federal Emergency ManagementAgency, may approve projects under the alternative procedures adopted under this section for any major disaster or emergency declared on or after January 29, 2013. The Administrator may also apply the alternate procedures adopted under this section to a major disaster or emergency declared before enactment of this Act for which construction has not begun as of the date of enactment of this Act.<sup>1</sup>
+The President, acting through the Administrator of the Federal Emergency Management Agency, may approve projects under the alternative procedures adopted under this section for any major disaster or emergency declared on or after January 29, 2013. The Administrator may also apply the alternate procedures adopted under this section to a major disaster or emergency declared before enactment of this Act for which construction has not begun as of the date of enactment of this Act.<sup>1</sup>
 
 #### (b) Adoption
 
@@ -110,7 +110,7 @@ The guidelines for reimbursement for costs under subsection (e)(2)(D) shall ensu
 
 &emsp;&emsp;(E) whether the independent expert panel described in subsection (e)(1)(E) was effective; and
 
-&emsp;&emsp;(F) recommendations for whether the alternative procedures should be continued and any recommendations for changes to the alternative procedures.
+&emsp;&emsp;(F) recommendations for whether the alternative procedures should be continuedand any recommendations for changes to the alternative procedures.
 
 (Pub. L. 93–288, title IV, §428, as added Pub. L. 113–2, div. B, §1102(2), Jan. 29, 2013, 127 Stat. 39; amended Pub. L. 115–254, div. D, §1207(c), (d), Oct. 5, 2018, 132 Stat. 3440, 3441.)
 

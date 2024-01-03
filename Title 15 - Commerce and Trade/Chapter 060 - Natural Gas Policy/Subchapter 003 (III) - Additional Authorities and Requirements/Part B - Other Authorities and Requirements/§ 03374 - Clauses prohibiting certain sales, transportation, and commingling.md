@@ -6,7 +6,7 @@ Any provision of any contract for the first sale of natural gas is hereby declar
 
 &emsp;(1) prohibits the commingling of natural gas subject to such contract with natural gas subject to the jurisdiction of the Commission under the provisions of the Natural Gas Act \[15 U.S.C. 717 et seq.\];
 
-&emsp;(2) prohibits the sale of any natural gas subject to such contract to, or transportation ofany such natural gas by, any person subject to the jurisdiction of the Commission under the Natural Gas Act \[15 U.S.C. 717 et seq.\], or otherwise prohibits the sale or transportation in interstate commerce (within the meaning of the Natural Gas Act) of natural gas subject to such contract; or
+&emsp;(2) prohibits the sale of any natural gas subject to such contract to, or transportation of any such natural gas by, any person subject to the jurisdiction of the Commission under the Natural Gas Act \[15 U.S.C. 717 et seq.\], or otherwise prohibits the sale or transportation in interstate commerce (within the meaning of the Natural Gas Act) of natural gas subject to such contract; or
 
 &emsp;(3) terminates, or grants any party the option to terminate, any obligation under any such contract as a result of such commingling, sale, or transportation.
 

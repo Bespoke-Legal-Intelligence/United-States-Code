@@ -12,7 +12,7 @@ This section applies to any civil action or proceeding, including any child cust
 
 #### (1) Authority for stay
 
-&emsp;At any stage before final judgment in a civil action or proceeding in which a servicemember described in subsection (a) is a party, the court may on its own motion and shall, upon application by the servicemember, stay the action for a period of not less than 90 days, if the conditions in paragraph (2) are met.
+&emsp;At any stage before final judgment in a civil action or proceeding in which a servicemember described in subsection (a) is a party, the court may on its own motion and shall, upon application by the servicemember,stay the action for a period of not less than 90 days, if the conditions in paragraph (2) are met.
 
 #### (2) Conditions for stay
 

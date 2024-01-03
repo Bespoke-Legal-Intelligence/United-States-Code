@@ -222,7 +222,7 @@ Investment and trade programs.—Each of the agencies referred to in subsections
 
 &emsp;"(2)
 
-United states government procurement.—To the extent not inconsistent with the obligations of the United States under any international agreement, the Secretary of State and the head of any other department or agency of the United States carrying out activities in South Africa shall, to the maximum extent practicable, in procuring goods or services, make affirmative efforts to assist business enterprises having more than 50 percent beneficial ownership by South African blacks or other nonwhite South Africans, notwithstanding any law relating to the making or performance of, or the expenditure of funds for, United States Government contracts.
+United states government procurement.—To the extent not inconsistent with the obligations ofthe United States under any international agreement, the Secretary of State and the head of any other department or agency of the United States carrying out activities in South Africa shall, to the maximum extent practicable, in procuring goods or services, make affirmative efforts to assist business enterprises having more than 50 percent beneficial ownership by South African blacks or other nonwhite South Africans, notwithstanding any law relating to the making or performance of, or the expenditure of funds for, United States Government contracts.
 
 #### "SEC. 7. INFORMATION AND EDUCATIONAL EXCHANGE PROGRAMS.
 

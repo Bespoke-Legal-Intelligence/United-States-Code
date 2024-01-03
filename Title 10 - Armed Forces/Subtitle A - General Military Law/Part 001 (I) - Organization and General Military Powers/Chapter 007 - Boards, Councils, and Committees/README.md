@@ -18,14 +18,9 @@
 | [182a.](%C2%A7%2000182a%20-%20Center%20for%20Excellence%20in%20Environmental%20Security.md) | Center for Excellence in Environmental Security. |
 | [183\.](%C2%A7%2000183%20-%20Department%20of%20Defense%20Board%20of%20Actuaries.md) | Department of Defense Board of Actuaries. |
 | [183a.](%C2%A7%2000183a%20-%20Military%20Aviation%20and%20Installation%20Assurance%20Clearinghouse%20for%20review%20of%20mission%20obstructions.md) | Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions. |
-| 184\.<sup>1</sup> | Civilian Protection Center of Excellence. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 184\.<sup>1</sup> | Joint Safety Council. |
-| \[185 to 187. Renumbered or Repealed.\] |  |
+| [184\.](%C2%A7%2000184%20-%20Civilian%20Protection%20Center%20of%20Excellence.md) | Civilian Protection Center of Excellence. |
+| [185\.](%C2%A7%2000185%20-%20Joint%20Safety%20Council.md) | Joint Safety Council. |
+| \[186, 187. | Repealed.\] |
 | [188\.](%C2%A7%2000188%20-%20Interagency%20Council%20on%20the%20Strategic%20Capability%20of%20the%20National%20Laboratories.md) | Interagency Council on the Strategic Capability of the National Laboratories. |
 | [189\.](%C2%A7%2000189%20-%20Communications%20Security%20Review%20and%20Advisory%20Board.md) | Communications Security Review and Advisory Board. |
 | \[190. | Repealed.\] |
@@ -36,7 +31,9 @@
 
 #### Amendments
 
-<b>2022</b>—Pub. L. 117–263, div. A, title III, §311, title X, §1082(a)(2), title XIV, §1411(a), Dec. 23, 2022, 136 Stat. 2500, 2799, 2869, added item 182a and item 184 "Civilian Protection Center of Excellence" and struck out item 187 "Strategic Materials Protection Board". Striking of item 187 was made pursuant to section 102 of this title.
+<b>2023</b>—Pub. L. 118–31, div. A, title III, §363(1), Dec. 22, 2023, 137 Stat. 233, redesignated item 184 "Joint Safety Council" as 185. Amendment was made pursuant to operation of section 102 of this title.
+
+<b>2022</b>—Pub. L. 117–263, div. A, title III, §311, title X, §1082(a)(2), title XIV, §1411(a), Dec. 23, 2022, 136 Stat. 2500, 2799, 2869, added item 182a and item 184 "Civilian Protection Center of Excellence" and struck out item 187 "Strategic Materials Protection Board". Striking of item 187 was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title III, §372(b), Dec. 27, 2021, 135 Stat. 1666, added item 184 "Joint Safety Council".
 
@@ -80,8 +77,6 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 
 <b>1976</b>—Pub. L. 94–361, title VIII, §811(c), July 14, 1976, 90 Stat. 936, added items 176 and 177.
 
-<i><sup>1</sup></i><i> So in original. Two items 184 have been enacted.</i>
-
 
 ---
 
@@ -103,9 +98,8 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 - [&sect; 00182a - Center for Excellence in Environmental Security](%C2%A7%2000182a%20-%20Center%20for%20Excellence%20in%20Environmental%20Security.md)
 - [&sect; 00183 - Department of Defense Board of Actuaries](%C2%A7%2000183%20-%20Department%20of%20Defense%20Board%20of%20Actuaries.md)
 - [&sect; 00183a - Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions](%C2%A7%2000183a%20-%20Military%20Aviation%20and%20Installation%20Assurance%20Clearinghouse%20for%20review%20of%20mission%20obstructions.md)
-- [&sect; 00184 - 1 Civilian Protection Center of Excellence](%C2%A7%2000184%20-%201%20Civilian%20Protection%20Center%20of%20Excellence.md)
-- [&sect; 00184 - 1 Joint Safety Council](%C2%A7%2000184%20-%201%20Joint%20Safety%20Council.md)
-- [&sect; 00185 - Repealed. Pub. L. 114&#8211;328, div. A, title IX, &sect;904(a), Dec. 23, 2016, 130 Stat. 2345](%C2%A7%2000185%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7904%28a%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202345.md)
+- [&sect; 00184 - Civilian Protection Center of Excellence](%C2%A7%2000184%20-%20Civilian%20Protection%20Center%20of%20Excellence.md)
+- [&sect; 00185 - Joint Safety Council](%C2%A7%2000185%20-%20Joint%20Safety%20Council.md)
 - [&sect; 00186 - Repealed. Pub. L. 113&#8211;291, div. A, title IX, &sect;901(c), Dec. 19, 2014, 128 Stat. 3463](%C2%A7%2000186%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28c%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203463.md)
 - [&sect; 00187 - Repealed. Pub. L. 117&#8211;263, div. A, title XIV, &sect;1411(a), Dec. 23, 2022, 136 Stat. 2869](%C2%A7%2000187%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93263%2C%20div.%20A%2C%20title%20XIV%2C%20%C2%A71411%28a%29%2C%20Dec.%2023%2C%202022%2C%20136%20Stat.%202869.md)
 - [&sect; 00188 - Interagency Council on the Strategic Capability of the National Laboratories](%C2%A7%2000188%20-%20Interagency%20Council%20on%20the%20Strategic%20Capability%20of%20the%20National%20Laboratories.md)

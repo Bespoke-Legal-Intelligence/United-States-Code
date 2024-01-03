@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) establish the database described in paragraph (4); and
 
-&emsp;&emsp;(D) include in any directory (other than the database described in subparagraph (C)) containing provider directory information with respect to such plan or such coverage the information described in paragraph (5).
+&emsp;&emsp;(D) include in any directory (other than the database described in subparagraph (C))containing provider directory information with respect to such plan or such coverage the information described in paragraph (5).
 
 #### (2) Verification process
 
@@ -66,7 +66,7 @@
 
 &emsp;For purposes of paragraph (1), the criteria described in this paragraph, with respect to an item or service furnished to a participant or beneficiary of a group health plan or group health insurance coverage offered by a health insurance issuer by a nonparticipating provider or a nonparticipating facility, are the following:
 
-&emsp;&emsp;(A) The participant or beneficiary received through a database, provider directory, or response protocol described in subsection (a) information with respect to such item and service to be furnished and such information provided that the provider was a participating provider or facility was a participating facility, with respect to the plan for furnishing such item or service.
+&emsp;&emsp;(A) The participant or beneficiary received through a database, provider directory, or response protocol described in subsection (a)information with respect to such item and service to be furnished and such information provided that the provider was a participating provider or facility was a participating facility, with respect to the plan for furnishing such item or service.
 
 &emsp;&emsp;(B) The information was not provided, in accordance with subsection (a), to the participant or beneficiary and the participant or beneficiary requested through the response protocol described in subsection (a)(3) of the plan or coverage information on whether the provider was a participating provider or facility was a participating facility with respect to the plan for furnishing such item or service and was informed through such protocol that the provider was such a participating provider or facility was such a participating facility.
 

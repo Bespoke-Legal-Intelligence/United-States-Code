@@ -118,7 +118,7 @@ Definitions.—For purposes of this section—
 
 Section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (a)(2)(A)(i)(II), is section 1083(c) of Pub. L. 110–181, which is set out as a note below.
 
-The enactment of this section and the date of the enactment of this section, referred to in subsecs. (a)(2)(A)(i)(II) and (b), refers to the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
+The enactment of this section and the date of the enactment of this section, referred to in subsecs.\(a)(2)(A)(i)(II) and (b), refers to the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
 
 Section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997, referred to in subsecs. (a)(2)(A)(i)(II) and (b), is Pub. L. 104–208, div. A, title I, §101(c) \[title V, §589\], which is set out as a note under section 1605 of this title.
 
@@ -434,7 +434,7 @@ Comptroller General Report.—Not later than December 31, 2022, the Comptroller 
 
 &emsp;"(1) all distributions were made in accordance with the requirements of subsections (a), (b), and (c); and
 
-&emsp;"(2) all individuals described in subsection (a)(1) received compensation from amounts made available to carry out that subsection in the manner described in subsection (a)(2).
+&emsp;"(2) all individuals described in subsection (a)(1) received compensation from amounts made available tocarry out that subsection in the manner described in subsection (a)(2).
 
 #### "SEC. 1708. TREATY AND EXECUTIVE AGREEMENT PRACTICE.
 
@@ -640,7 +640,7 @@ Sec. 2. For purposes of this order:
 
 (d) The term "entity" means a partnership, association, trust, joint venture, corporation, group, subgroup, or other organization.
 
-Sec. 3. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
+Sec. 3. This order is not intended to, and does not, create any right or benefit, substantive or procedural,enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

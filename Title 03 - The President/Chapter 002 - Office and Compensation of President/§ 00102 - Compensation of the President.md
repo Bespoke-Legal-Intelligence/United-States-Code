@@ -520,7 +520,7 @@ Reports.—
 
 &emsp;"(1)
 
-In general.—The President, acting through the Federal Transition Coordinator, shall submit to the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate reports describing the activities undertaken by the President and agencies to prepare for the transfer of power to a new President.
+In general.—The President, acting through the Federal Transition Coordinator, shall submit to the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate reports describing the activities undertaken by the President and agencies to prepare for the transfer of power to a new President.
 
 &emsp;"(2)
 

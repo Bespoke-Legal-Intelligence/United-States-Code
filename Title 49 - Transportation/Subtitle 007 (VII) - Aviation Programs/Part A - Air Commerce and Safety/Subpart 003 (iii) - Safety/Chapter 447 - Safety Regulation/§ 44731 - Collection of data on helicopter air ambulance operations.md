@@ -60,7 +60,7 @@ Subsec. (a)(3). Pub. L. 115–254, §314(d)(1)(C), substituted "of patients tran
 
 Subsec. (a)(5). Pub. L. 115–254, §314(d)(1)(D), struck out "flights and" after "The number of" and "while providing air ambulance services" before period at end.
 
-Subsec. (a)(6). Pub. L. 115–254, §314(d)(1)(E), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "The time of day of each flight flown by helicopters operated by the certificate holder while providing air ambulance services."
+Subsec. (a)(6). Pub. L. 115–254, §314(d)(1)(E), amended par. (6) generally. Prior to amendment, par. (6) read asfollows: "The time of day of each flight flown by helicopters operated by the certificate holder while providing air ambulance services."
 
 Subsec. (d). Pub. L. 115–254, §314(d)(2), substituted "The Administrator shall submit annually" for "Not later than 2 years after the date of enactment of this section, and annually thereafter, the Administrator shall submit" and inserted at end "The report shall include the number of accidents experienced by helicopter air ambulance operations, the number of fatal accidents experienced by helicopter air ambulance operations, and the rate, per 100,000 flight hours, of accidents and fatal accidents experienced by operators providing helicopter air ambulance services."
 

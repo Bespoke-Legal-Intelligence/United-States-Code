@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than December 31, 2022, the Secretary, working through the NTIA, and the Commission shall identify a total of at least 255 megahertz of Federal and non-Federal spectrum for mobile and fixed wireless broadband use.
+&emsp;Not later than December 31, 2022, the Secretary, working through the NTIA, and theCommission shall identify a total of at least 255 megahertz of Federal and non-Federal spectrum for mobile and fixed wireless broadband use.
 
 #### (2) Unlicensed and licensed use
 

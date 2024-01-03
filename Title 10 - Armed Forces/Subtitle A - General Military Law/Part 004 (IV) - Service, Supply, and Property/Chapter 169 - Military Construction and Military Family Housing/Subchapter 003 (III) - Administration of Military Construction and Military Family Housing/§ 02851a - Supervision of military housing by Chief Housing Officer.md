@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Assistant Secretary of Defense for Energy, Installations, and Environment shall serve as the Chief Housing Officer, who shall oversee family housing and military unaccompanied housing under the jurisdiction of the Department of Defense or acquired or constructed under subchapter IV of this chapter (inthis section referred to as "covered housing units").
+In General.—The Assistant Secretary of Defense for Energy, Installations, and Environment shall serve as the Chief Housing Officer, who shall oversee family housing and military unaccompanied housing under the jurisdiction of the Department of Defense or acquired or constructed under subchapter IV of this chapter (in this section referred to as "covered housing units").
 
 (b)
 

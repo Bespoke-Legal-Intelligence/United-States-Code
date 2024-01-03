@@ -41,7 +41,7 @@ Pub. L. 114–328, div. E, title LXIII, §5541(6)(B), (C), Dec. 23, 2016, 130 St
 
 Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, added items 860a to 860c and substituted "Post-trial processing in general and special courts-martial" for "Action by the convening authority" in item 860.
 
-Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, which directed amendment of analysis by striking out item "61" and inserting item 861, was amended bystriking out item 861 "Waiver or withdrawal of appeal" and adding new item 861 to reflect the probable intent of Congress.
+Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, which directed amendment of analysis by striking out item "61" and inserting item 861, was amended by striking out item 861 "Waiver or withdrawal of appeal" and adding new item 861 to reflect the probable intent of Congress.
 
 <b>1996</b>—Pub. L. 104–106, div. A, title XI, §1133(a)(2), Feb. 10, 1996, 110 Stat. 466, added item 876b.
 

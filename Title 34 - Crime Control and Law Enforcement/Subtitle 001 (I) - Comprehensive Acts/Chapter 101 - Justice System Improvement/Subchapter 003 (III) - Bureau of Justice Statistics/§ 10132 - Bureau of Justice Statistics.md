@@ -218,9 +218,9 @@ Study and Report Required.—The Director of the Bureau of Justice Statistics, i
 
 &emsp;&emsp;"(B) the Committee on Health, Education, Labor, and Pensions of the Senate;
 
-&emsp;&emsp;"(C) the Committee on Oversight and Reform of the House of Representatives; and
+&emsp;&emsp;"(C) the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives; and
 
-&emsp;&emsp;"(D) the Committee on Education and Labor of the House of Representatives."
+&emsp;&emsp;"(D) the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives."
 
 #### Data Collection
 
@@ -322,7 +322,7 @@ Issues Addressed.—The study conducted under this section shall include an anal
 
 #### Inclusion of Seniors in National Crime Victimization Survey
 
-Pub. L. 106–534, §6, Nov. 22, 2000, 114 Stat. 2557, provided that: "Beginning not later than 2 years after the date of enactment of this Act \[Nov. 22, 2000\], as part ofeach National Crime Victimization Survey, the Attorney General shall include statistics relating to—
+Pub. L. 106–534, §6, Nov. 22, 2000, 114 Stat. 2557, provided that: "Beginning not later than 2 years after thedate of enactment of this Act \[Nov. 22, 2000\], as part of each National Crime Victimization Survey, the Attorney General shall include statistics relating to—
 
 &emsp;"(1) crimes targeting or disproportionately affecting seniors;
 

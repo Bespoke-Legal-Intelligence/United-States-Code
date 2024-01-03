@@ -30,7 +30,7 @@
 
 #### Codification
 
-Section was enacted as part of the Family Smoking Prevention and Tobacco Control Act, and not as part ofthe Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+Section was enacted as part of the Family Smoking Prevention and Tobacco Control Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

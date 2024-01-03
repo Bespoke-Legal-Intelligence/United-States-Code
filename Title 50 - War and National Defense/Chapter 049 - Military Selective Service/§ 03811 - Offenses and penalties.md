@@ -48,7 +48,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original "this tit
 
 This Act, referred to in subsec. (e), is act June 24, 1948, ch. 625, 62 Stat. 604, known as the Military Selective Service Act. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. TitleIV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Codification
 
@@ -162,7 +162,7 @@ Sec. 2. The Board, under such regulations as it may prescribe, shall examine the
 
 Sec. 3. The Board shall report to the President its findings and recommendations as to whether Executive clemency should be granted or denied in any case. If clemency is recommended, the Board shall also recommend the form that such clemency should take, including clemency conditioned upon a period of alternate service in the national interest. In the case of an individual discharged from the armed forces with a punitive or undesirable discharge, the Board may recommend to the President that a clemency discharge be substituted for a punitive or undesirable discharge. Determination of any period of alternate service shall be in accord with the Proclamation \[Proc. No. 4313, set out above\] announcing a program for the return of Vietnam era draft evaders and military deserters.
 
-Sec. 4. The Board shall give priority consideration to those applicants who are presently confined and have been convicted only of an offense set forth in section 2of this order, and who have no outstanding criminal charges.
+Sec. 4. The Board shall give priority consideration to those applicants who are presently confined and have been convicted only of an offense set forth in section 2 of this order, and who have no outstanding criminal charges.
 
 Sec. 5. Each member of the Board, except any member who then receives other compensation from the United States, may receive compensation for each day he or she is engaged upon the work of the Board at not to exceed the daily rate now or hereafter prescribed by law for persons and positions in GS–18, as authorized by law (5 U.S.C. 3109), and may also receive travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the government service employed intermittently.
 
@@ -234,7 +234,7 @@ The Attorney General is directed to exercise his discretion under 8 U.S.C. 1182(
 
 This shall not include anyone who falls into the exceptions of paragraphs 1(a) and (b) and 2(a) and (b) above.
 
-4\. Any individual offered conditional clemency or granted a pardon or other clemency under ExecutiveOrder 11803 \[set out above\] or Presidential Proclamation 4313, dated September 16, 1974 \[set out above\], shall receive the full measure of relief afforded by this program if they are otherwise qualified under the terms of this Executive Order.
+4\. Any individual offered conditional clemency or granted a pardon or other clemency under Executive Order 11803 \[set out above\] or Presidential Proclamation 4313, dated September 16, 1974 \[set out above\], shallreceive the full measure of relief afforded by this program if they are otherwise qualified under the terms of this Executive Order.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

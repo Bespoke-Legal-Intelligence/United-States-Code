@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to perform the functions of the Bureau under this part until the Director of the Bureau is confirmed by the Senate in accordance with section 5491 of this title.
+The Secretary is authorized to perform the functions of the Bureau under this part until theDirector of the Bureau is confirmed by the Senate in accordance with section 5491 of this title.
 
 #### (b) Interim administrative services by the Department of the Treasury
 

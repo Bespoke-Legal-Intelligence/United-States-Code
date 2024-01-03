@@ -18,7 +18,7 @@
 
 (b)(1) An offshore supply vessel of less than 500 gross tons as measured under section 14502 of this title or 6,000 gross tons as measured under section 14302 of this title on a voyage of less than 600 miles shall have a licensed mate. If the vessel is on a voyage of at least 600 miles, however, the vessel shall have 2 licensed mates.
 
-(2) An offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of this title on a voyage of less than 600 miles shall have at least two licensed mates, provided the offshore supply vessel meets the requirements ofsection 8104(g)(2). An offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of this title on a voyage of at least 600 miles shall have three licensed mates.
+(2) An offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of this title on a voyage of less than 600 miles shall have at least two licensed mates, provided the offshore supply vessel meets the requirements of section 8104(g)(2). An offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of this title on a voyage of at least 600 miles shall have three licensed mates.
 
 (3) An offshore supply vessel of more than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, may not be operated without a licensed engineer.
 

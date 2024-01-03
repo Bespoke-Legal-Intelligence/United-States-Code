@@ -132,7 +132,7 @@ In this section:
 
 #### (C) Minimum funding
 
-&emsp;&emsp;Not less than 50 percent of the total funding for all grants under this subsection shallbe awarded in grants to institutions of higher education.
+&emsp;&emsp;Not less than 50 percent of the total funding for all grants under this subsection shall be awarded in grants to institutions of higher education.
 
 #### (2) Innovation projects
 
@@ -288,7 +288,7 @@ Not later than 180 days after December 19, 2007, the Secretary shall establish p
 
 #### (1) Grants
 
-&emsp;There is authorized to be appropriated for the cost of grants authorized in subsections (b), (c), and (d) $250,000,000 for each of fiscal years 2009 through 2013, of which not more than 5 percent may be used for administrative expenses.
+&emsp;There is authorized to be appropriated for the cost of grants authorized in subsections\(b), (c), and (d) $250,000,000 for each of fiscal years 2009 through 2013, of which not more than 5 percent may be used for administrative expenses.
 
 #### (2) Loans
 

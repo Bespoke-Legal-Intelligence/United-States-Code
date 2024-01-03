@@ -1,7 +1,5 @@
 ### §8018. Capacity building in foreign fisheries
 
-#### (a) In general
-
 The Secretary, in consultation with the heads of other Federal agencies, as appropriate, shall develop and carry out with partner governments and civil society—
 
 &emsp;(1) multi-year international environmental cooperation agreements and projects; and
@@ -14,7 +12,7 @@ The Secretary, in consultation with the heads of other Federal agencies, as appr
 
 #### Codification
 
-Section was enacted as part of the Don Young Coast Guard Authorization Act of 2022 and also as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Maritime Security and Fisheries Enforcement Act or the Maritime SAFE Act, which comprises this chapter.
+Section was enacted as part of the Don Young Coast Guard Authorization Act of 2022 and also as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Maritime Security and Fisheries Enforcement Act or the Maritime SAFE Act which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

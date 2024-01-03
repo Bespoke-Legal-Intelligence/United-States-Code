@@ -20,7 +20,7 @@ For purposes of this chapter, the term—
 
 &emsp;&emsp;(D) any component or part of any article listed in this paragraph,
 
-> &emsp;but does not include merchant vessels or (as defined by the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\]) source material (except uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity), byproduct material, special nuclear material, production facilities, utilization facilities, or atomic weapons or articles involving Restricted Data;
+> &emsp;but does not include merchant vessels or (as defined by the Atomic Energy Act of 1954 \[42U.S.C. 2011 et seq.\]) source material (except uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity), byproduct material, special nuclear material, production facilities, utilization facilities, or atomic weapons or articles involving Restricted Data;
 
 &emsp;(4) "defense service", except as provided in paragraph (7) of this section, means, with respect to a sale or transfer by the United States under the authority of this chapter or any other foreign assistance or sales program of the United States, any service, test, inspection, repair, training, publication, technical or other assistance, or defense information (as defined in section 2403(e) of this title), used for the purposes of making military sales, but does not include design and construction services under section 2769 of this title;
 

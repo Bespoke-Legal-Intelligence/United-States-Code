@@ -70,7 +70,7 @@ In the case of a distribution of partnership property or a transfer of an intere
 
 &emsp;&emsp;<b>For provisions relating to penalties for failure to file a return required by this section, see section 6721.</b>
 
-(Added Pub. L. 99–514, title VI, §641(a), Oct. 22, 1986, 100 Stat. 2282; amended Pub. L. 100–647, title I, §1006(h)(1), (2), (3)(B), Nov. 10, 1988, 102 Stat. 3410; Pub. L. 101–508, title XI, §11323(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–464; Pub. L. 103–66, title XIII, §13261(e), Aug. 10, 1993, 107 Stat. 539.)
+(Added Pub. L. 99–514, title VI, §641(a), Oct. 22, 1986, 100 Stat. 2282; amended Pub. L. 100–647, title I, §1006(h)(1), (2), (3)(B), Nov. 10, 1988, 102 Stat. 3410; Pub. L. 101–508, title XI, §11323(a), (b)(1),Nov. 5, 1990, 104 Stat. 1388–464; Pub. L. 103–66, title XIII, §13261(e), Aug. 10, 1993, 107 Stat. 539.)
 
 #### <b>Editorial Notes</b>
 

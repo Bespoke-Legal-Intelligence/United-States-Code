@@ -10,7 +10,7 @@
 
 #### (A) Improvements
 
-&emsp;&emsp;In carrying out the Incremental Technology Development Program, the Secretary shall focus on the continuous improvement of new or available technologies, including—
+&emsp;&emsp;In carrying out the Incremental Technology Development Program, the Secretaryshall focus on the continuous improvement of new or available technologies, including—
 
 &emsp;&emsp;&emsp;(i) decontamination chemicals and techniques;
 

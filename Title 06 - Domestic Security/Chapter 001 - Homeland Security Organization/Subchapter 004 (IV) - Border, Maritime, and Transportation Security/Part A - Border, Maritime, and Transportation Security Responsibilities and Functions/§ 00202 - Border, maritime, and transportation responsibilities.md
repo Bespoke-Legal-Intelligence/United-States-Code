@@ -4,7 +4,7 @@ The Secretary shall be responsible for the following:
 
 &emsp;(1) Preventing the entry of terrorists and the instruments of terrorism into the United States.
 
-&emsp;(2) Securing the borders, territorial waters, ports, terminals, waterways, and air, land, and sea transportation systems of the United States, including managing and coordinating those functions transferred to the Department at ports of entry.
+&emsp;(2) Securing the borders, territorial waters, ports, terminals, waterways, and air, land, andsea transportation systems of the United States, including managing and coordinating those functions transferred to the Department at ports of entry.
 
 &emsp;(3) Carrying out the immigration enforcement functions vested by statute in, or performed by, the Commissioner of Immigration and Naturalization (or any officer, employee, or component of the Immigration and Naturalization Service) immediately before the date on which the transfer of functions specified under section 251 of this title takes effect.
 

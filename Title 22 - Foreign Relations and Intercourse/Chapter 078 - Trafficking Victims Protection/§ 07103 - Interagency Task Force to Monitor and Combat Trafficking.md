@@ -28,7 +28,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;(6) Engage in consultation and advocacy with governmental and nongovernmental organizations, among other entities, to advance the purposes of this chapter, and make reasonable efforts to distribute information to enable all relevant Federal Government agencies to publicize the National Human Trafficking Resource Center Hotline on their websites, in all headquarters offices, and in all field offices throughout the United States.
 
-&emsp;(7) Not later than May 1, 2004, and annually thereafter, the Attorney General shall submit to the Committee on Ways and Means, the Committee on Foreign Affairs <sup>1</sup> the Committee on Financial Services,, <sup>2</sup> and the Committee on the Judiciary of the House of Representatives and the Committee on Finance, the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Committee on the Judiciary of the Senate, a report on Federal agencies that are implementing any provision of this chapter, or any amendment made by this chapter, which shall include, at a minimum, information on—
+&emsp;(7) Not later than May 1, 2004, and annually thereafter, the Attorney General shall submit to the Committee on Ways and Means, the Committee on Foreign Affairs <sup>1</sup> the Committeeon Financial Services,, <sup>2</sup> and the Committee on the Judiciary of the House of Representatives and the Committee on Finance, the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Committee on the Judiciary of the Senate, a report on Federal agencies that are implementing any provision of this chapter, or any amendment made by this chapter, which shall include, at a minimum, information on—
 
 &emsp;&emsp;(A) the number of persons who received benefits or other services under subsections (b) and (f) <sup>3</sup> of section 7105 of this title in connection with programs or activities funded or administered by the Secretary of Health and Human Services, the Secretary of Labor, the Attorney General, the Board of Directors of the Legal Services Corporation, and other appropriate Federal agencies during the preceding fiscal year;
 
@@ -78,7 +78,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;&emsp;(P) the activities undertaken by Federal agencies to train appropriate State, tribal, and local government and law enforcement officials to identify victims of severe forms of trafficking, including both sex and labor trafficking;
 
-&emsp;&emsp;(Q) the activities undertaken by Federal agencies in cooperation with State, tribal, and local law enforcement officials to identify, investigate, and prosecute offenses under sections 1581, 1583, 1584, 1589, 1590, 1591, 1592, 1594, 2251, 2251A, 2421, 2422, and 2423 of title 18, or equivalent State offenses, including, in each fiscal year—
+&emsp;&emsp;(Q) the activities undertaken by Federal agencies in cooperation with State, tribal, and local law enforcement officials to identify, investigate, and prosecute offenses under sections 1581, 1583, 1584, 1589, 1590, 1591, 1592, 1594, 2251, 2251A, 2421, 2422, and 2423 oftitle 18, or equivalent State offenses, including, in each fiscal year—
 
 &emsp;&emsp;&emsp;(i) the number, age, gender, country of origin, and citizenship status of victims identified for each offense;
 

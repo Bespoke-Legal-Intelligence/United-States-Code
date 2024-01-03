@@ -28,7 +28,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(i) is established, created, or organized in the United States or under the laws of the United States; and
 
-&emsp;&emsp;&emsp;(ii) has significant operations in, and a majority of its employees engaged in aviation manufacturing activities and services,or maintenance, repair, and overhaul activities and services based in the United States;
+&emsp;&emsp;&emsp;(ii) has significant operations in, and a majority of its employees engaged in aviation manufacturing activities and services, or maintenance, repair, and overhaul activities and services based in the United States;
 
 &emsp;&emsp;(C) which has involuntarily furloughed or laid off at least 10 percent of its workforce in 2020 as compared to 2019 or has experienced at least a 15 percent decline in 2020 revenues as compared to 2019;
 

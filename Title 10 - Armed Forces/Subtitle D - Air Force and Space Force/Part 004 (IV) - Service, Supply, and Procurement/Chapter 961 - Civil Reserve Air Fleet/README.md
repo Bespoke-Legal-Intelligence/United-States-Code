@@ -25,7 +25,7 @@ Prior section 9502, act Aug. 10, 1956, ch. 1041, 70A Stat. 574, related to maint
 
 Prior section 9503, act Aug. 10, 1956, ch. 1041, 70A Stat. 574, related to research and development programs of the Air Force, prior to repeal by Pub. L. 103–160, div. A, title VIII, §827(c), Nov. 30, 1993, 107 Stat. 1713.
 
-Prior section 9504, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to procurement of ordnance, signal, andchemical warfare supplies for experimental purposes by the Secretary of the Air Force, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(c)(2), Nov. 30, 1993, 107 Stat. 1707. See section 4023 of this title.
+Prior section 9504, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to procurement of ordnance, signal, and chemical warfare supplies for experimental purposes by the Secretary of the Air Force, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(c)(2), Nov. 30, 1993, 107 Stat. 1707. See section 4023 of this title.
 
 Prior section 9505, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to procurement of production equipment by Secretary of the Air Force, prior to repeal by Pub. L. 103–160, div. A, title VIII, §823(1), Nov. 30, 1993, 107 Stat. 1707.
 
@@ -43,7 +43,7 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 
 <b>2015</b>—Pub. L. 114–92, div. A, title X, §1085(b)(2), Nov. 25, 2015, 129 Stat. 1005, added item 9517.
 
-<b>2014</b>—Pub. L. 113–291, div. A, title X, §§1042(b), 1045(b), Dec. 19, 2014, 128 Stat. 3493, 3494, struck out item 9513 "Use of military installations by Civil Reserve Air Fleet contractors" and added item 9516.
+<b>2014</b>—Pub. L. 113–291, div. A, title X, §§1042(b), 1045(b), Dec. 19, 2014, 128 Stat. 3493, 3494, struck out item 9513"Use of military installations by Civil Reserve Air Fleet contractors" and added item 9516.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title III, §366(b), Dec. 31, 2011, 125 Stat. 1381, added item 9511a.
 

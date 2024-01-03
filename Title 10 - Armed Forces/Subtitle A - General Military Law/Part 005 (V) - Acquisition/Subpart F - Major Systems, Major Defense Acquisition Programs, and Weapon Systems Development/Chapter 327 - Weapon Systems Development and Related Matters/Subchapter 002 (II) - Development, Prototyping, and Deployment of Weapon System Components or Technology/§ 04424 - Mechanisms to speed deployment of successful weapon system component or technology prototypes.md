@@ -2,7 +2,7 @@
 
 (a)
 
-Selection of Prototype Project for Production and Rapid Fielding.—A weapon system component or technology prototype project may be selected by the service acquisition executive of the military department concerned for a follow-on production contract or other transaction without the use of competitive procedures, notwithstanding the requirements of sections 3201 through 3205 of this title, if—
+Selection of Prototype Project for Production and Rapid Fielding.—A weapon system component or technology prototype project may be selected by the service acquisition executive of the military department concerned for a follow-on production contract or other transactionwithout the use of competitive procedures, notwithstanding the requirements of sections 3201 through 3205 of this title, if—
 
 &emsp;(1) the follow-on production project addresses a high priority warfighter need or reduces the costs of a weapon system;
 
@@ -14,7 +14,7 @@ Selection of Prototype Project for Production and Rapid Fielding.—A weapon sys
 
 (b)
 
-Special Transfer Authority.—(1) The Secretary of a military department may, as specified in advance by appropriations Acts, transfer funds that remain available for obligation in procurement appropriation accounts ofthe military department to fund the low-rate initial production of the rapid fielding project until required funding for full-rate production can be submitted and approved through the regular budget process of the Department of Defense.
+Special Transfer Authority.—(1) The Secretary of a military department may, as specified in advance by appropriations Acts, transfer funds that remain available for obligation in procurement appropriation accounts of the military department to fund the low-rate initial production of the rapid fielding project until required funding for full-rate production can be submitted and approved through the regular budget process of the Department of Defense.
 
 (2) The funds transferred under this subsection to fund the low-rate initial production of a rapid fielding project shall be for a period not to exceed two years, the amount for such period may not exceed $50,000,000, and the special transfer authority provided in this subsection may not be used more than once to fund procurement of a particular new or upgraded system.
 

@@ -58,7 +58,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsecs. (b) and (c
 
 #### Amendments
 
-<b>2014</b>—Subsec. (b). Pub. L. 113–128, §512(m)(1), substituted "the Secretary of Labor shall, as appropriate, fully utilize the authority provided under title I of the Workforce Innovation and Opportunity Act" for "the Secretary of Labor shall, as appropriate, fully utilize the authority provided under the Job Training Partnership Act and title I of the Workforce Investment Act of 1998" in introductory provisions.
+<b>2014</b>—Subsec. (b). Pub. L. 113–128, §512(m)(1), substituted "the Secretary of Labor shall, as appropriate,fully utilize the authority provided under title I of the Workforce Innovation and Opportunity Act" for "the Secretary of Labor shall, as appropriate, fully utilize the authority provided under the Job Training Partnership Act and title I of the Workforce Investment Act of 1998" in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 113–128, §512(m)(2), substituted "the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of activities under title I of the Workforce Innovation and Opportunity Act" for "the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of title I of the Workforce Investment Act of 1998".
 

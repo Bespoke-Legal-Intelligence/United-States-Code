@@ -44,7 +44,7 @@
 
 #### (2) Administrative cap
 
-&emsp;No State may spend more than the greater of $55,000, or 5 percent, of the grant received under section 9905 of this title or State allotment received under section 9906 of this title for administrative expenses, including monitoring activities. Funds to be spent for such expenses shall be taken from the portion of the grant under section 9905 of this title or State allotment that remains after the State makes grants to eligible entities under subsection (a). The cost of activities conducted under paragraph (1)(A) shall not be consideredto be administrative expenses. The startup cost and cost of administrative activities conducted under subsection (c) shall be considered to be administrative expenses.
+&emsp;No State may spend more than the greater of $55,000, or 5 percent, of the grant received under section 9905 of this title or State allotment received under section 9906 of this title for administrative expenses, including monitoring activities. Funds to be spent for such expenses shall be taken from the portion of the grant under section 9905 of this title or State allotment that remains after the State makes grants to eligible entities under subsection (a). The cost of activities conducted under paragraph (1)(A) shall not be considered to be administrative expenses. The startup cost and cost of administrative activities conducted under subsection (c) shall be considered to be administrative expenses.
 
 #### (c) Charity tax credit
 
@@ -54,7 +54,7 @@
 
 #### (2) Limit
 
-&emsp;The aggregate amount a State may use under paragraph (1) during a fiscal year shall not exceed 100 percent of the revenue loss of the State during the fiscal year that is attributable to the charity tax credit, as determined by the Secretary of the Treasury without regard to any such revenue loss occurring before January 1, 1999.
+&emsp;The aggregate amount a State may use under paragraph (1) during a fiscal year shallnot exceed 100 percent of the revenue loss of the State during the fiscal year that is attributable to the charity tax credit, as determined by the Secretary of the Treasury without regard to any such revenue loss occurring before January 1, 1999.
 
 #### (3) Definitions and rules
 
@@ -134,7 +134,7 @@
 
 #### (bb) Exceptions
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Such term shall not include any management or general expense, any expense for the purpose of influencinglegislation (as defined in section 4911(d) of title 26), any expense for the purpose of fundraising, any expense for a legal service provided on behalf of any individual referred to in clause (iii), any expense for providing tuition assistance relating to compulsory school attendance, and any expense that consists of a payment to an affiliate of the organization.
+&emsp;&emsp;&emsp;&emsp;&emsp;Such term shall not include any management or general expense, any expense for the purpose of influencing legislation (as defined in section 4911(d) of title 26), any expense for the purpose of fundraising, any expense for a legal service provided on behalf of any individual referred to in clause (iii), any expense for providing tuition assistance relating to compulsory school attendance, and any expense that consists of a payment to an affiliate of the organization.
 
 #### (v) Reporting requirement
 

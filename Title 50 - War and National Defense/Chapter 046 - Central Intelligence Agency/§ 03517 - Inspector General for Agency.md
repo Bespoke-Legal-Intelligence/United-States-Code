@@ -162,7 +162,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (B)(i) Not later than the end of the 14-calendar day period beginning on the date of receipt from an employee of a complaint or information under subparagraph (A), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information.
 
-(ii) If the Director determines that a complaint or information transmitted under paragraph (1) would create a conflict of interest for the Director, the Director shall return the complaint or information to the Inspector General with that determination and the Inspector General shall make the transmission to the Director of National Intelligence. In such a case, the requirements of this subsection for the Director of the Central Intelligence Agency apply to the Director of National Intelligence <sup>3</sup>
+(ii) If the Director determines that a complaint or information transmitted under paragraph (1) would create a conflict of interest for the Director, the Director shall return the complaint or information to the Inspector General with that determination and the Inspector General shall make the transmission to the Director of National Intelligence. In such a case, the requirements of this subsection for the Director of the Central Intelligence Agency apply to the Director of National Intelligence.
 
 (C) Upon receipt of a transmittal from the Inspector General under subparagraph (B), the Director shall, within 7 calendar days of such receipt, forward such transmittal to the intelligence committees, together with any comments the Director considers appropriate.
 
@@ -170,7 +170,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (ii) The employee may contact the intelligence committees directly as described in clause (i) only if the employee—
 
-&emsp;(I) before making such a contact, furnishes to the Director, through the Inspector General, a statement of the employee's complaint or information and notice of the employee'sintent to contact the intelligence committees directly; and
+&emsp;(I) before making such a contact, furnishes to the Director, through the Inspector General, a statement of the employee's complaint or information and notice of the employee's intent to contact the intelligence committees directly; and
 
 &emsp;(II) obtains and follows from the Director, through the Inspector General, direction on how to contact the intelligence committees in accordance with appropriate security practices.
 
@@ -210,9 +210,9 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken; and
 
-&emsp;(B) no action constituting a reprisal, or threat of reprisal, for making such complaint or providing such information may be taken by any employee of the Agency in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+&emsp;(B) no action constituting a reprisal, or threat of reprisal, for making such complaint or providing such information may be taken by any employee of the Agency in a position to take such actions, unless the complaint wasmade or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
-(4) The Inspector General shall have authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of his duties, which oath <sup>4</sup> affirmation, or affidavit when administered or taken by or before an employee of the Office designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal.
+(4) The Inspector General shall have authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of his duties, which oath, affirmation, or affidavit when administered or taken by or before an employee of the Office designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal.
 
 (5)(A) Except as provided in subparagraph (B), the Inspector General is authorized to require by subpoena the production of all information, documents, reports, answers, records, accounts, papers, and other data in any medium (including electronically stored information or any tangible thing) and documentary evidence necessary in the performance of the duties and responsibilities of the Inspector General.
 
@@ -262,7 +262,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(A) the aggregate amount requested for the operations of the Inspector General;
 
-&emsp;(B) the amount requested for all training requirements of the Inspector General, including a certification from the Inspector General that the amount requested is sufficient to fund all training requirements for the Office; and
+&emsp;(B) the amount requested for all training requirements of the Inspector General, includinga certification from the Inspector General that the amount requested is sufficient to fund all training requirements for the Office; and
 
 &emsp;(C) the amount requested to support the Council of the Inspectors General on Integrity and Efficiency, including a justification for such amount.
 
@@ -298,7 +298,7 @@ There shall be transferred to the Office the office of the Agency referred to as
 
 (2) The information referred to in paragraph (1) shall be obvious and facilitate accessibility to the information related to the Office of the Inspector General.
 
-(June 20, 1949, ch. 227, §17, as added Pub. L. 100–453, title V, §504, Sept. 29, 1988, 102 Stat. 1910; amended Pub. L. 101–193, title VIII, §801, Nov. 30, 1989, 103 Stat. 1711; Pub. L. 102–496, title VI, §601, Oct. 24, 1992, 106 Stat. 3187; Pub. L. 103–359, title IV, §402, Oct. 14, 1994, 108 Stat. 3427; Pub. L. 104–93, title IV, §403, Jan. 6, 1996, 109 Stat. 969; Pub. L. 105–107, title IV, §402, Nov. 20, 1997, 111 Stat. 2257; Pub. L. 105–272, title VII, §702(a), Oct. 20, 1998, 112 Stat. 2414; Pub. L. 106–567, title IV, §§402, 403, Dec. 27, 2000, 114 Stat. 2847, 2848; Pub. L. 107–108, title III, §309(a), Dec. 28, 2001, 115 Stat. 1399; Pub. L. 107–306, title VIII, §811(b)(2), Nov. 27, 2002, 116 Stat. 2422; Pub. L. 108–458, title I, §§1071(b)(1)(B), (2)(C), 1074(b)(2), Dec. 17, 2004, 118 Stat. 3690, 3694; Pub. L. 111–259, title IV, §§425(a)–(f)(1), 426, title VIII, §802(2), Oct. 7, 2010, 124 Stat. 2728–2730, 2746; Pub. L. 112–87, title IV, §413, Jan. 3, 2012, 125 Stat. 1891; Pub. L. 112–277, title III, §309(b)(1), Jan. 14, 2013, 126 Stat. 2474; Pub. L. 113–126, title VI, §603(b), July 7, 2014, 128 Stat. 1420; Pub. L. 114–113, div. M, title IV, §411, Dec. 18, 2015, 129 Stat. 2922; Pub. L. 115–31, div. N, title IV, §412(a), May 5, 2017, 131 Stat. 821; Pub. L. 117–103, div. X, title V, §502(c), Mar. 15, 2022, 136 Stat. 986; Pub. L. 117–263, div. E, title LII, §§5202(a)(4), 5203(c), div. F, title LXVI, §6609(c), Dec. 23, 2022, 136 Stat. 3226, 3231, 3560.)
+(June 20, 1949, ch. 227, §17, as added Pub. L. 100–453, title V, §504, Sept. 29, 1988, 102 Stat. 1910; amended Pub. L. 101–193, title VIII, §801, Nov. 30, 1989, 103 Stat. 1711; Pub. L. 102–496, title VI, §601, Oct. 24, 1992, 106 Stat. 3187; Pub. L. 103–359, title IV, §402, Oct. 14, 1994, 108 Stat. 3427; Pub. L. 104–93, title IV, §403, Jan. 6, 1996, 109 Stat. 969; Pub. L. 105–107, title IV, §402, Nov. 20, 1997, 111 Stat. 2257; Pub. L. 105–272, title VII, §702(a), Oct. 20, 1998, 112 Stat. 2414; Pub. L. 106–567, title IV, §§402, 403, Dec. 27, 2000, 114 Stat. 2847, 2848; Pub. L. 107–108, title III, §309(a), Dec. 28, 2001, 115 Stat. 1399; Pub. L. 107–306, title VIII, §811(b)(2), Nov. 27, 2002, 116 Stat. 2422; Pub. L. 108–458, title I, §§1071(b)(1)(B), (2)(C), 1074(b)(2), Dec. 17, 2004, 118 Stat. 3690, 3694; Pub. L. 111–259, title IV, §§425(a)–(f)(1), 426, title VIII, §802(2), Oct. 7, 2010, 124 Stat. 2728–2730, 2746; Pub. L. 112–87, title IV, §413, Jan. 3, 2012, 125 Stat. 1891; Pub. L. 112–277, title III, §309(b)(1), Jan. 14, 2013, 126 Stat. 2474; Pub. L. 113–126, title VI, §603(b), July 7, 2014, 128 Stat. 1420; Pub. L. 114–113, div. M, title IV, §411, Dec. 18, 2015, 129 Stat. 2922; Pub. L. 115–31, div. N, title IV, §412(a), May 5, 2017, 131 Stat. 821; Pub. L. 117–103, div. X, title V, §502(c), Mar. 15, 2022, 136 Stat. 986; Pub. L. 117–263, div. E, title LII, §§5202(a)(4), 5203(c), div. F, title LXVI, §6609(c), Dec. 23, 2022, 136 Stat. 3226, 3231, 3560; Pub. L. 118–31, div. G, title IX, §7901(g)(4), Dec. 22, 2023, 137 Stat. 1107.)
 
 #### <b>Editorial Notes</b>
 
@@ -314,6 +314,10 @@ Section was formerly classified to section 403q of this title prior to editorial
 
 #### Amendments
 
+<b>2023</b>—Subsec. (d)(5)(B)(ii). Pub. L. 118–31, §7901(g)(4)(A), inserted period at end.
+
+Subsec. (e)(4). Pub. L. 118–31, §7901(g)(4)(B), substituted "which oath, affirmation, or affidavit" for "which oath affirmation, or affidavit".
+
 <b>2022</b>—Subsec. (b)(6). Pub. L. 117–263, §5202(a)(4)(A), designated existing provisions as subpar. (A), substituted "substantive rationale, including detailed and case-specific reasons," for "reasons", and added subpar. (B).
 
 Subsec. (b)(7). Pub. L. 117–263, §5202(a)(4)(B), added par. (7).
@@ -322,7 +326,7 @@ Subsec. (b)(8). Pub. L. 117–263, §5203(c), added par. (8).
 
 Subsec. (d)(5)(G). Pub. L. 117–103 inserted cl. (i) designation before "In this" in introductory provisions, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and former subcls. (I) to (III) as items (aa) to (cc), respectively, of subcl. (I), and added cl. (ii).
 
-Subsec. (d)(5)(G)(i)(I)(aa). Pub. L. 117–263, §6609(c), substituted "of the Federal Government that is—" and subitems (AA) and (BB) for "involving classified information, but does not include differences of opinions concerning public policy matters."
+Subsec. (d)(5)(G)(i)(I)(aa). Pub. L. 117–263, §6609(c), substituted "of the Federal Government that is—" andsubitems (AA) and (BB) for "involving classified information, but does not include differences of opinions concerning public policy matters."
 
 <b>2017</b>—Subsec. (e)(7)(C). Pub. L. 115–31 added subpar. (C).
 
@@ -338,7 +342,7 @@ Subsec. (d)(5)(H). Pub. L. 113–126, §603(b)(2), added subpar. (H).
 
 <b>2012</b>—Subsec. (h). Pub. L. 112–87 added subsec. (h).
 
-<b>2010</b>—Subsec. (b)(1). Pub. L. 111–259, §425(a), substituted "This appointment shall be made without regard to political affiliation and shall be on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigation. Such appointment shall also be made on the basis of compliance with the security standards of the Agency and prior experience in the field of foreign intelligence." for "This appointment shall be made without regard to political affiliation and shall be solely on the basis of integrity, compliance with the security standards of the Agency, and prior experience in the field of foreign intelligence.Such appointment shall also be made on the basis of demonstrated ability in accounting, financial analysis, law, management analysis, public administration, or auditing."
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–259, §425(a), substituted "This appointment shall be made without regard to political affiliation and shall be on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigation. Such appointment shall also be made on the basis of compliance with the security standards of the Agency and prior experience in the field of foreign intelligence." for "This appointment shall be made without regard to political affiliation and shall be solely on the basis of integrity, compliance with the security standards of the Agency, and prior experience in the field of foreign intelligence. Such appointment shall also be made on the basis of demonstrated ability in accounting, financial analysis, law, management analysis, public administration, or auditing."
 
 Subsec. (b)(6). Pub. L. 111–259, §425(b), struck out "immediately" after "President shall" and substituted "not later than 30 days prior to the effective date of such removal. Nothing in this paragraph shall be construed to prohibit a personnel action otherwise authorized by law, other than transfer or removal." for period at end.
 
@@ -447,8 +451,4 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 <i><sup>1</sup></i><i> So in original. Probably should be "nonduty".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

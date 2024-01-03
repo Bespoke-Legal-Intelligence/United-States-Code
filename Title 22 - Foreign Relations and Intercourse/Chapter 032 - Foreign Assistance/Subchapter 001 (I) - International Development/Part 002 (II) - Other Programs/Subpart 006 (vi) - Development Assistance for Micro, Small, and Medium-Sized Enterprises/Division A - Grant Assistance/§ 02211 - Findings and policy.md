@@ -78,5 +78,5 @@ Pub. L. 108–484, §7, Dec. 23, 2004, 118 Stat. 3930, provided that: "It is the
 
 #### References
 
-Pub. L. 108–484, §9, Dec. 23, 2004, 118 Stat. 3931, provided that: "Any reference in a law, regulation, agreement, or other document of the United States to section 108, 131, or 132 of the Foreign Assistance Act of 1961 \[former 22 U.S.C. 2151f, 2152a, 2152b\] shall be deemed to be a reference to subtitle B of title VI of chapter 2 ofpart I of the Foreign Assistance Act of 1961 \[division B of this subpart\], subtitle A of title VI of chapter 2 of part I of such Act \[this division\], or subtitle C of title VI of chapter 2 of part I of such Act \[division C of this subpart\], respectively."
+Pub. L. 108–484, §9, Dec. 23, 2004, 118 Stat. 3931, provided that: "Any reference in a law, regulation, agreement, or other document of the United States to section 108, 131, or 132 of the Foreign Assistance Act of 1961 \[former 22 U.S.C. 2151f, 2152a, 2152b\] shall be deemed to be a reference to subtitle B of title VI of chapter 2 of part I of the Foreign Assistance Act of 1961 \[division B of this subpart\], subtitle A of title VI of chapter 2 of part I of such Act \[this division\], or subtitle C of title VI of chapter 2 of part I of such Act \[division C of this subpart\], respectively."
 

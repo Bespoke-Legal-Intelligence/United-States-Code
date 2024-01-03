@@ -17,7 +17,7 @@ Part A—Coronavirus Economic Stabilization
 - [&sect; 09050 - Temporary relief for community banks](%C2%A7%2009050%20-%20Temporary%20relief%20for%20community%20banks.md)
 - [&sect; 09051 - Temporary relief from troubled debt restructurings](%C2%A7%2009051%20-%20Temporary%20relief%20from%20troubled%20debt%20restructurings.md)
 - [&sect; 09052 - Optional temporary relief from current expected credit losses](%C2%A7%2009052%20-%20Optional%20temporary%20relief%20from%20current%20expected%20credit%20losses.md)
-- [&sect; 09053 - Special Inspector General for pandemic recovery](%C2%A7%2009053%20-%20Special%20Inspector%20General%20for%20pandemic%20recovery.md)
+- [&sect; 09053 - Special Inspector General for Pandemic Recovery](%C2%A7%2009053%20-%20Special%20Inspector%20General%20for%20Pandemic%20Recovery.md)
 - [&sect; 09054 - Conflicts of interest](%C2%A7%2009054%20-%20Conflicts%20of%20interest.md)
 - [&sect; 09055 - Congressional Oversight Commission](%C2%A7%2009055%20-%20Congressional%20Oversight%20Commission.md)
 - [&sect; 09056 - Foreclosure moratorium and consumer right to request forbearance](%C2%A7%2009056%20-%20Foreclosure%20moratorium%20and%20consumer%20right%20to%20request%20forbearance.md)

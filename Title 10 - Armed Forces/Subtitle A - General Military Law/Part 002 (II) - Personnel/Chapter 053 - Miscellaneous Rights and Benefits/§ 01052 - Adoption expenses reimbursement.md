@@ -70,7 +70,7 @@ A prior section 1052 was renumbered section 1063 of this title and subsequently 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (g)(1). Pub. L. 109–163 inserted "or other source authorized to place children for adoption underState or local law" after "qualified adoption agency" in introductory provisions.
+<b>2006</b>—Subsec. (g)(1). Pub. L. 109–163 inserted "or other source authorized to place children for adoption under State or local law" after "qualified adoption agency" in introductory provisions.
 
 <b>2004</b>—Subsec. (g)(3)(D). Pub. L. 108–375 added subpar. (D).
 
@@ -86,7 +86,7 @@ Subsec. (g)(3). Pub. L. 104–201, §652(a)(2), added par. (3).
 
 #### Effective Date
 
-Pub. L. 102–190, div. A, title VI, §651(c), Dec. 5, 1991, 105 Stat. 1387, provided that: "The amendments made by subsections (a) and (b) \[enacting this section and section 514 of Title 14, Coast Guard\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1991\] and shall apply to adoptions completed on or after that date."
+Pub. L. 102–190, div. A, title VI, §651(c), Dec. 5, 1991, 105 Stat. 1387, provided that: "The amendments madeby subsections (a) and (b) \[enacting this section and section 514 of Title 14, Coast Guard\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1991\] and shall apply to adoptions completed on or after that date."
 
 #### Reimbursement for Adoptions Completed During Period Between Test and Permanent Program
 

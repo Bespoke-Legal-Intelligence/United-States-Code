@@ -12,7 +12,7 @@
 
 (f) Biomedical science functions, including physician assistant functions and chiropractic functions, in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as biomedical science officers.
 
-(g) Judge advocate functions in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by theSecretary, and who are designated as judge advocates.
+(g) Judge advocate functions in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as judge advocates.
 
 (h) Chaplain functions in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary and who are designated as chaplains.
 

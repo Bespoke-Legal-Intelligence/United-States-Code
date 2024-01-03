@@ -66,7 +66,7 @@ At any time during examination of an application filed under subsection (b), an 
 
 #### (e) Designation of resident for service of process and notices
 
-If the applicant is not domiciled in the United States the applicant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
+If the applicant is not domiciled in the United States the applicant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process maybe served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
 #### (f) Third-party submission of evidence
 
@@ -120,7 +120,7 @@ Pub. L. 116–260, div. Q, title II, §223(c), Dec. 27, 2020, 134 Stat. 2201, pr
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1998 Amendment
 
@@ -150,7 +150,7 @@ Section 46(a) of act July 5, 1946, provided that this chapter shall be in force 
 
 #### Short Title of 2020 Amendment
 
-Pub. L. 116–260, div. Q, title II, §221(a), Dec. 27, 2020, 134 Stat. 2200, provided that: "This subtitle \[subtitle B (§§221–228) of title II of div. Q of Pub. L. 116–260, enacting sections 1066a and 1066b of this title, amending this section and sections 1062, 1064, 1065, 1068, 1070, 1071, 1092, 1094, and 1116 of this title, and enacting provisions set out as notes under this section and sections 1066a, 1064, 1068, and 116 of this title\] may be cited as the 'Trademark Modernization Act of 2020' or the 'TM Act of 2020'."
+Pub. L. 116–260, div. Q, title II, §221(a), Dec. 27, 2020, 134 Stat. 2200, provided that: "This subtitle \[subtitle B (§§221–228) of title II of div. Q of Pub. L. 116–260, enacting sections 1066a and 1066b of this title, amending this section and sections 1062, 1064, 1065, 1068, 1070, 1071, 1092, 1094, and 1116 of this title, and enacting provisions set out as notes under this section and sections 1064, 1066a, 1068, and 1116 of this title\] may be cited as the 'Trademark Modernization Act of 2020' or the 'TM Act of 2020'."
 
 #### Short Title of 2010 Amendment
 
@@ -234,7 +234,7 @@ Act July 5, 1946, ch. 540, title XI, §§46(b), 47, 60 Stat. 445, provided:
 
 "
 
-Sec. 47. (a) All applications for registration pending in the Patent Office at the effective date of this Act \[July 5, 1947\] may be amended, if practicable, to bring them under the provisions of this Act \[this chapter\].The prosecution of such applications so amended and the grant of registrations thereon shall be proceeded with in accordance with the provisions of this Act \[this chapter\]. If such amendments are not made, the prosecution of said applications shall be proceeded with and registrations thereon granted in accordance with the Acts under which said applications were filed, and said Acts are hereby continued in force to this extent and for this purpose only, notwithstanding the foregoing general repeal thereof.
+Sec. 47. (a) All applications for registration pending in the Patent Office at the effective date of this Act \[July 5, 1947\] may be amended, if practicable, to bring them under the provisions of this Act \[this chapter\]. The prosecution of such applications so amended and the grant of registrations thereon shall be proceeded with in accordance with the provisions of this Act \[this chapter\]. If such amendments are not made, the prosecution of said applications shall be proceeded with and registrations thereon granted in accordance with the Acts under which said applications were filed, and said Acts are hereby continued in force to this extent and for this purpose only, notwithstanding the foregoing general repeal thereof.
 
 "(b) In any case in which an appeal is pending before the United States Court of Customs and Patent Appeals or any United States Circuit Court of Appeals or the United States Court of Appeals for the District of Columbia or the United States Supreme Court at the effective date of this Act \[July 5, 1947\], the court, if it be of the opinion that the provisions of this Act \[this chapter\] are applicable to the subject matter of the appeal, may apply such provision or may remand the case to the Commissioner \[now Director\] or to the district court for the taking of additional evidence or a new trial or for reconsideration of the decision on the record as made, as the appellate court may deem proper."
 

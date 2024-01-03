@@ -52,5 +52,5 @@ The Director, in consultation with other relevant Federal agencies and stakehold
 
 #### Amendments
 
-<b>2022</b>—Pub. L. 117–167 amended section generally. Prior to amendment, section related to Director's continuance of program to support development of voluntary and cost-effective technical standards, metrology, testbeds, and conformance criteria, taking into account appropriate user concerns.
+<b>2022</b>—Pub. L. 117–167 amended section generally. Prior to amendment, section related to Director's continuance of program to support development of voluntary and cost-effective technical standards, metrology,testbeds, and conformance criteria, taking into account appropriate user concerns.
 

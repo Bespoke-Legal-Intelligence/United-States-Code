@@ -22,7 +22,7 @@ Provision of Direction and Guidance.—
 
 &emsp;(2) Selections made based on the direction and guidance provided under this subsection shall not exceed the maximum percentage of officers who may be selected from below the announced promotion zone at any given selection board convened under section 2106 of this title.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 180, §258; amended Pub. L. 89–444, §1(17),June 9, 1966, 80 Stat. 196; Pub. L. 104–324, title II, §212, Oct. 19, 1996, 110 Stat. 3915; Pub. L. 111–281, title II, §212(2), Oct. 15, 2010, 124 Stat. 2914; renumbered §2115 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 117–263, div. K, title CXII, §11245(a), Dec. 23, 2022, 136 Stat. 4043.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 180, §258; amended Pub. L. 89–444, §1(17), June 9, 1966, 80 Stat. 196; Pub. L. 104–324, title II, §212, Oct. 19, 1996, 110 Stat. 3915; Pub. L. 111–281, title II, §212(2), Oct. 15, 2010, 124 Stat. 2914; renumbered §2115 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 117–263, div. K, title CXII, §11245(a), Dec. 23, 2022, 136 Stat. 4043.)
 
 #### <b>Editorial Notes</b>
 
@@ -36,7 +36,7 @@ Subsec. (a). Pub. L. 115–282, §123(b)(2), substituted "section 2106" for "sec
 
 Subsec. (b)(2). Pub. L. 115–282, §123(b)(2), substituted "section 2106" for "section 251".
 
-<b>2010</b>—Pub. L. 111–281 designated existing provisions as subsec. (a), inserted heading, substituted "with—" for "with:" in introductory provisions, and added subsec. (b).
+<b>2010</b>—Pub. L. 111–281 designated existing provisions as subsec. (a), inserted heading, substituted "with—" for"with:" in introductory provisions, and added subsec. (b).
 
 <b>1996</b>—Cl. (2). Pub. L. 104–324 struck out ", with identification of those officers who are in the promotion zone" after "officers for promotion".
 

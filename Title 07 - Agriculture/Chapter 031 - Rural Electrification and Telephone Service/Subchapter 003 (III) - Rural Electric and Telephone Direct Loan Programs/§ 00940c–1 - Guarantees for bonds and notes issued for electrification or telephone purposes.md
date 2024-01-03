@@ -114,6 +114,8 @@ The authority provided under this section shall terminate on September 30, 2023.
 
 #### Codification
 
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -158,7 +160,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Regulations and Implementation
 
-Pub. L. 110–234, title VI, §6106(b), May 22, 2008, 122 Stat. 1197, and Pub. L. 110–246, §4(a), title VI, §6106(b), June 18, 2008, 122 Stat. 1664, 1959, provided that: "The Secretary \[of Agriculture\] shall continue to carry out section 313A of the Rural Electrification Act of 1936 (7 U.S.C. 940c–1) in the same manner as on the day before the date of enactment of this Act \[June 18, 2008\], except without regard to the limitations prescribed in subsection (b)(1) of that section, until such time as any regulations necessary to carry out the amendments made by this section \[amending this section\] are fully implemented."
+Pub. L. 110–234, title VI, §6106(b), May 22, 2008, 122 Stat. 1197, and Pub. L. 110–246, §4(a), title VI, §6106(b), June 18, 2008, 122 Stat. 1664, 1959, provided that: "The Secretary \[of Agriculture\] shall continue to carry out section 313A of the Rural Electrification Act of 1936 (7 U.S.C. 940c–1) in the same manner as on the day beforethe date of enactment of this Act \[June 18, 2008\], except without regard to the limitations prescribed in subsection (b)(1) of that section, until such time as any regulations necessary to carry out the amendments made by this section \[amending this section\] are fully implemented."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

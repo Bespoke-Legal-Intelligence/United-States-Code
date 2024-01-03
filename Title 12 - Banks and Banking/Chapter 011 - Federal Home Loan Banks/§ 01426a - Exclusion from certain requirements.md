@@ -64,7 +64,7 @@ Commission rules relating to tender offers shall not apply in connection with tr
 
 #### (2) Considerations
 
-&emsp;In issuing regulations under this section, the Commission shall consider the distinctivecharacteristics of the Federal Home Loan Banks when evaluating—
+&emsp;In issuing regulations under this section, the Commission shall consider the distinctive characteristics of the Federal Home Loan Banks when evaluating—
 
 &emsp;&emsp;(A) the accounting treatment with respect to the payment to the Resolution Funding Corporation;
 

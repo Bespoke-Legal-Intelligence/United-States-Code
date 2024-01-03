@@ -18,7 +18,7 @@ The Director of National Institutes of Health, in cooperation with the Directors
 
 #### (d) Peer review
 
-The Director of National Institutes of Health shall establish peer review mechanisms to evaluate applications for the awards and fellowships provided for in subsection (b)(2) and section 284l of this title. Such review mechanisms shall include individuals who are exceptionally qualified to appraise the merits of potential clinical research training and research grant proposals.
+The Director of National Institutes of Health shall establish peer review mechanisms to evaluate applications for the awards and fellowshipsprovided for in subsection (b)(2) and section 284l of this title. Such review mechanisms shall include individuals who are exceptionally qualified to appraise the merits of potential clinical research training and research grant proposals.
 
 (July 1, 1944, ch. 373, title IV, §409G, formerly §409C, as added Pub. L. 106–505, title II, §203, Nov. 13, 2000, 114 Stat. 2326; renumbered §409G, Pub. L. 107–109, §3(1), Jan. 4, 2002, 115 Stat. 1408.)
 
@@ -46,7 +46,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(4) The United States will spend more than $1,200,000,000,000 on health care in 1999, but the Federal budget for health research at the National Institutes of Health was $15,600,000,000 only 1 percent of that total.
 
-&emsp;"(5) Studies at the Institute of Medicine, the National Research Council, and the National Academyof Sciences have all addressed the current problems in clinical research.
+&emsp;"(5) Studies at the Institute of Medicine, the National Research Council, and the National Academy of Sciences have all addressed the current problems in clinical research.
 
 &emsp;"(6) The Director of the National Institutes of Health has recognized the current problems in clinical research and appointed a special panel, which recommended expanded support for existing National Institutes of Health clinical research programs and the creation of new initiatives to recruit and retain clinical investigators.
 

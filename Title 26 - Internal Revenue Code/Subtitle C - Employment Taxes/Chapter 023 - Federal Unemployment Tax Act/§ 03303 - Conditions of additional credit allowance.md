@@ -24,7 +24,7 @@ A taxpayer shall be allowed an additional credit under section 3302(b) with resp
 
 &emsp;&emsp;(D) such contributions were payable to such account with respect to the 3 years preceding the computation date; and
 
-&emsp;(4) if the taxpayer is a certified professional employer organization (as defined in section7705) that is treated as the employer under section 3511, such certified professional employer organization is permitted to collect and remit, in accordance with paragraphs (1), (2), and (3), contributions during the taxable year to the State unemployment fund with respect to a work site employee.
+&emsp;(4) if the taxpayer is a certified professional employer organization (as defined in section 7705) that is treated as the employer under section 3511, such certified professional employer organization is permitted to collect and remit, in accordance with paragraphs (1), (2), and (3), contributions during the taxable year to the State unemployment fund with respect to a work site employee.
 
 > For any person (or group of persons) who has (or have) not been subject to the State law for a period of time sufficient to compute the reduced rates permitted by paragraphs (1), (2), (3), and (4) of this subsection on a 3–year basis (i) the period of time required may be reduced to the amount of time the person (or group of persons) has (or have) had experience under or has (or have) been subject to the State law, whichever is appropriate, but in no case less than 1 year immediately preceding the computation date, or (ii) a reduced rate (not less than 1 percent) may be permitted by the State law on a reasonable basis other than as permitted by paragraph (1), (2), (3), or (4).
 
@@ -56,7 +56,7 @@ As used in this section—
 
 &emsp;The term "guaranteed employment account" means a separate account, in an unemployment fund, maintained with respect to a person (or group of persons) having individuals in his (or their) employ who, in accordance with the provisions of the State law or of a plan thereunder approved by the State agency,
 
-&emsp;&emsp;(A) guarantees in advance at least 30 hours of work, for which remuneration will be paid at not less than stated rates, for each of 40 weeks (or if more, 1 weekly hour may be deducted for each added week guaranteed) in a year, to all the individuals who are in his (or their) employ in, and who continue to be available for suitable work in, one or moredistinct establishments, except that any such individual's guaranty may commence after a probationary period (included within the 11 or less consecutive weeks immediately following the first week in which the individual renders services), and
+&emsp;&emsp;(A) guarantees in advance at least 30 hours of work, for which remuneration will be paid at not less than stated rates, for each of 40 weeks (or if more, 1 weekly hour may be deducted for each added week guaranteed) in a year, to all the individuals who are in his (or their) employ in, and who continue to be available for suitable work in, one or more distinct establishments, except that any such individual's guaranty may commence after a probationary period (included within the 11 or less consecutive weeks immediately following the first week in which the individual renders services), and
 
 &emsp;&emsp;(B) gives security or assurance, satisfactory to the State agency, for the fulfillment of such guaranties, from which account, unless such account is exhausted or terminated, is paid all and only compensation, payable on the basis of services performed for such person (or for one or more of the persons comprising the group), to any such individual whose guaranteed remuneration has not been paid (either pursuant to the guaranty or from the security or assurance provided for the fulfillment of the guaranty), or whose guaranty is not renewed and who is otherwise eligible for compensation under the State law.
 
@@ -98,7 +98,7 @@ A State may, without being deemed to violate the standards set forth in subsecti
 
 &emsp;Nothing in paragraph (1) shall limit the authority of a State to provide that an employer's account not be relieved of charges relating to a payment from the State unemployment fund for reasons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of a failure to respond timely or adequately to requests described in paragraph (1)(A).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 440; Sept. 1, 1954, ch. 1212, §2, 68 Stat. 1130; Pub. L. 91–373, title I, §§104(c), 122(a), 142(c)–(e), Aug. 10, 1970, 84 Stat. 699, 702, 707; Pub. L. 94–455, title XIX, §§1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 94–566, title I, §122(a), (b), Oct. 20, 1976, 90 Stat. 2675, 2676; Pub. L. 112–40, title II, §252(a), Oct. 21, 2011, 125 Stat. 421; Pub. L. 113–295, div. B, title II, §206(c)(2), Dec. 19, 2014, 128 Stat. 4070.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 440; Sept. 1, 1954, ch. 1212, §2, 68 Stat. 1130; Pub. L. 91–373, title I, §§104(c), 122(a), 142(c)–(e), Aug. 10, 1970, 84 Stat. 699, 702, 707; Pub. L. 94–455, title XIX, §§1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 94–566, title I, §122(a), (b), Oct. 20, 1976, 90 Stat. 2675, 2676; Pub. L. 112–40, title II, §252(a), Oct. 21, 2011, 125 Stat. 421; Pub. L.113–295, div. B, title II, §206(c)(2), Dec. 19, 2014, 128 Stat. 4070.)
 
 #### <b>Editorial Notes</b>
 
@@ -118,7 +118,7 @@ Subsec. (g). Pub. L. 94–566, §122(a), added subsec. (g).
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–373, §122(a), added to provision following par. (3) the authorization for the allowance of a reduced rate by State law (but not less than 1 percent) on a reasonable basis other than as permitted by par. (1), (2), or (3).
 
-Subsec. (b). Pub. L. 91–373, §142(c)–(e), changed the certification date referred to in pars. (1) to (3) from Dec. 31 to Oct. 31, with provision for a 10-month periodin the case of Oct. 31, 1972, and, except for Oct. 31, 1972, provided for a 12-month period ending on Oct. 31 each year.
+Subsec. (b). Pub. L. 91–373, §142(c)–(e), changed the certification date referred to in pars. (1) to (3) from Dec. 31 to Oct. 31, with provision for a 10-month period in the case of Oct. 31, 1972, and, except for Oct. 31, 1972, provided for a 12-month period ending on Oct. 31 each year.
 
 Subsecs. (e), (f). Pub. L. 91–373, §104(c), added subsecs. (e) and (f).
 

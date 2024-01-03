@@ -4,7 +4,7 @@
 
 In addition to amounts otherwise available for such purposes, there are authorized to be appropriated to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 and following; relating to the economic support fund) $4,000,000 for the 3-year period beginning October 1, 1989, which shall be available only—
 
-&emsp;(1) for providing medical supplies and hospital equipment to Poland through private andvoluntary organizations, including for the expenses of purchasing, transporting, and distributing such supplies and equipment, and
+&emsp;(1) for providing medical supplies and hospital equipment to Poland through private and voluntary organizations, including for the expenses of purchasing, transporting, and distributing such supplies and equipment, and
 
 &emsp;(2) for training of Polish medical personnel.
 
@@ -22,7 +22,7 @@ Assistance may be provided under this section notwithstanding any other provisio
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§2346 et seq.) of subchapterII of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Foreign Operations, Export Financing, and Related Programs Appropriations Act, referred to in subsec. (b)(2), is for fiscal year 1990, Pub. L. 101–167, Nov. 21, 1989, 103 Stat. 1195. For complete classification of this and other Foreign Operations, Export Financing, and Related Programs Appropriations Acts to the Code, see Tables.
 

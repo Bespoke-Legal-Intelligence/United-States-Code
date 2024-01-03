@@ -124,7 +124,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) for items on which no action has been taken, the reasons for inaction, and an identification of any official who is responsible for such action;
 
-&emsp;&emsp;&emsp;&emsp;(V) recommendations for such administrative and legislative actions as may be appropriate to resolve problems encountered by investors; and
+&emsp;&emsp;&emsp;&emsp;(V) recommendations for such administrative and legislative actions as may beappropriate to resolve problems encountered by investors; and
 
 &emsp;&emsp;&emsp;&emsp;(VI) any other information, as determined appropriate by the Investor Advocate.
 
@@ -232,7 +232,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 #### (B) Compensation
 
-&emsp;&emsp;The annual rate of pay for the Advocate for Small Business Capital Formation shallbe equal to the highest rate of annual pay for other senior executives who report directly to the Commission.
+&emsp;&emsp;The annual rate of pay for the Advocate for Small Business Capital Formation shall be equal to the highest rate of annual pay for other senior executives who report directly to the Commission.
 
 #### (C) No current employee of the Commission
 
@@ -286,7 +286,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 &emsp;&emsp;&emsp;(iii) a summary of the most serious issues encountered by small businesses and small business investors, including any unique issues encountered by minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters and their investors, during the reporting period;
 
-&emsp;&emsp;&emsp;(iv) an inventory of the items summarized under clause (iii) (including items summarized under such clause for any prior reporting period on which no action has been taken or that have not been resolved to the satisfaction of the Advocate for Small Business Capital Formation as of the beginning of the reporting period covered by the report) that includes—
+&emsp;&emsp;&emsp;(iv) an inventory of the items summarized under clause (iii) (including itemssummarized under such clause for any prior reporting period on which no action has been taken or that have not been resolved to the satisfaction of the Advocate for Small Business Capital Formation as of the beginning of the reporting period covered by the report) that includes—
 
 &emsp;&emsp;&emsp;&emsp;(I) identification of any action taken by the Commission or the self-regulatory organization and the result of such action;
 

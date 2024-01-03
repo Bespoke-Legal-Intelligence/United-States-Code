@@ -68,7 +68,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;&emsp;(vi) effectively constructing IEPs, participating in IEP meetings, and implementing IEPs;
 
-&emsp;&emsp;&emsp;(vii) preparing children with disabilities to participate in statewide assessments (with or without accommodations) and alternate assessments, as appropriate, and to ensure that all children with disabilities are a part of all accountability systems under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\]; and
+&emsp;&emsp;&emsp;(vii) preparing children with disabilities to participate in statewide assessments (with or without accommodations) and alternate assessments, as appropriate, and to ensure that all children with disabilities are a part of all accountability systems under the Elementary and SecondaryEducation Act of 1965 \[20 U.S.C. 6301 et seq.\]; and
 
 &emsp;&emsp;&emsp;(viii) working in high need elementary schools and secondary schools, including urban schools, rural schools, and schools operated by an entity described in section 6113(d)(1)(A)(ii) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7423(d)(1)(A)(ii)\], and schools that serve high numbers or percentages of limited English proficient children.
 
@@ -106,7 +106,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;&emsp;(iii) provide—
 
-&emsp;&emsp;&emsp;&emsp;(I) high-quality mentoring and induction opportunities with ongoing supportfor beginning special education teachers; or
+&emsp;&emsp;&emsp;&emsp;(I) high-quality mentoring and induction opportunities with ongoing support for beginning special education teachers; or
 
 &emsp;&emsp;&emsp;&emsp;(II) inservice professional development to beginning and veteran special education teachers through the ongoing exchange of information and instructional strategies with faculty.
 
@@ -130,7 +130,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;(C) Preparing personnel in the innovative uses and application of technology, including universally designed technologies, assistive technology devices, and assistive technology services—
 
-&emsp;&emsp;&emsp;(i) to enhance learning by children with low incidence disabilities through early intervention, educational, and transitional services; and
+&emsp;&emsp;&emsp;(i) to enhance learning by children with low incidence disabilities through earlyintervention, educational, and transitional services; and
 
 &emsp;&emsp;&emsp;(ii) to improve communication with parents.
 
@@ -182,7 +182,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 #### (1) In general
 
-&emsp;An eligible entity that wishes to receive a grant, or enter into a contract or cooperative agreement, under this section shall submit anapplication to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;An eligible entity that wishes to receive a grant, or enter into a contract or cooperative agreement, under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (2) Identified State needs
 
@@ -256,7 +256,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2
 
 A prior section 1462, Pub. L. 91–230, title VI, §662, as added Pub. L. 99–457, title III, §317, Oct. 8, 1986, 100 Stat. 1172; amended Pub. L. 101–476, title VII, §702, Oct. 30, 1990, 104 Stat. 1141, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
-A prior section 662 of Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 188, eff. July 1, 1971, repealed sections 611 to 618, 621 to 624, and 871 to 880a of this title, and sections 2491 to 2494 and 2698 to 2698b of Title 42, The Public Health and Welfare, and amended section 676 of thistitle, prior to repeal by Pub. L. 98–199, §14, Dec. 2, 1983, 97 Stat. 1374.
+A prior section 662 of Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 188, eff. July 1, 1971, repealed sections 611 to 618, 621 to 624, and 871 to 880a of this title, and sections 2491 to 2494 and 2698 to 2698b of Title 42, The Public Health and Welfare, and amended section 676 of this title, prior to repeal by Pub. L. 98–199, §14, Dec. 2, 1983, 97 Stat. 1374.
 
 #### Amendments
 

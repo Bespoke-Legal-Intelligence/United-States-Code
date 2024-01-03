@@ -162,7 +162,7 @@ The head of an agency may enter into a grant, contract, cooperative agreement, o
 
 #### (B) Increase in amount
 
-&emsp;&emsp;The head of an agency may increase the amount of a cash prize purse or non-cashprize award after an initial announcement is made under subsection (f) only if—
+&emsp;&emsp;The head of an agency may increase the amount of a cash prize purse or non-cash prize award after an initial announcement is made under subsection (f) only if—
 
 &emsp;&emsp;&emsp;(i) notice of the increase is provided in the same manner as the initial notice of the prize competition; and
 
@@ -196,7 +196,7 @@ Not later than 180 days after January 6, 2017, the General Services Administrati
 
 #### (1) In general
 
-&emsp;Not later than March 1 of every other year, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the activities carried out during the preceding 2 fiscal years under the authority in subsection (b).
+&emsp;Not later than March 1 of every other year, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the activities carried outduring the preceding 2 fiscal years under the authority in subsection (b).
 
 #### (2) Information included
 
@@ -236,7 +236,7 @@ Not later than 180 days after January 6, 2017, the General Services Administrati
 
 #### Amendments
 
-<b>2022</b>—Subsec. (k)(4). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and"Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
+<b>2022</b>—Subsec. (k)(4). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2017</b>—Subsec. (c). Pub. L. 114–329, §401(b)(1)(A), (B), substituted "Prize competitions" for "Prizes" in heading and "prize competition may be 1 or more of the following types of activities" for "prize may be one or more of the following" in introductory provisions.
 

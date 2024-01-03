@@ -116,7 +116,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (ii) CARVM
 
-&emsp;&emsp;&emsp;The term "CARVM" means the Commissioners' Annuities Reserve Valuation Method prescribed by the National Association of Insurance Commissioners which is applicable to the contract and in effect as of the date the reserve is determined.
+&emsp;&emsp;&emsp;The term "CARVM" means the Commissioners' Annuities Reserve ValuationMethod prescribed by the National Association of Insurance Commissioners which is applicable to the contract and in effect as of the date the reserve is determined.
 
 #### (C) No additional reserve deduction allowed for deficiency reserves
 
@@ -148,7 +148,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (A) Qualified supplemental benefits treated separately
 
-&emsp;&emsp;For purposes of this part, the amount of the life insurance reserve for any qualifiedsupplemental benefit shall be computed separately as though such benefit were under a separate contract.
+&emsp;&emsp;For purposes of this part, the amount of the life insurance reserve for any qualified supplemental benefit shall be computed separately as though such benefit were under a separate contract.
 
 #### (B) Qualified supplemental benefit
 
@@ -294,7 +294,7 @@ Subsec. (d)(3)(A)(iv)(II). Pub. L. 115–97, §13517(a)(2)(F), substituted "as o
 
 Subsec. (d)(3)(B). Pub. L. 115–97, §13517(a)(2)(G), (H), substituted "applicable to the contract and in effect as of the date the reserve is determined" for "in effect on the date of the issuance of the contract" in cls. (i) and (ii).
 
-Subsec. (d)(4) to (6). Pub. L. 115–97, §13517(a)(2)(A), (B), redesignated par. (6) as (4) and struck out former pars. (4) and (5) which related to applicable Federal and prevailing State assumed interest rates and prevailing commissioners' standard tables, respectively.
+Subsec. (d)(4) to (6). Pub. L. 115–97, §13517(a)(2)(A), (B), redesignated par. (6) as (4) and struck out former pars.\(4) and (5) which related to applicable Federal and prevailing State assumed interest rates and prevailing commissioners' standard tables, respectively.
 
 Subsec. (e)(2). Pub. L. 115–97, §13517(a)(3)(C), amended par. (2) generally. Prior to amendment, par. (2) related to supplemental benefits.
 
@@ -414,7 +414,7 @@ Section applicable to taxable years beginning after Dec. 31, 1983, see section 2
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Treatment of Certain Assessment Life Insurance Companies
 

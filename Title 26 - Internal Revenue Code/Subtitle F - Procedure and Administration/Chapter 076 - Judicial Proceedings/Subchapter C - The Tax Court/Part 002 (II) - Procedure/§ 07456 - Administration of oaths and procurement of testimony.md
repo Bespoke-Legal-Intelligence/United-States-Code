@@ -22,7 +22,7 @@ The Tax Court and each division thereof shall have power to punish by fine or im
 
 &emsp;(3) disobedience or resistance to its lawful writ, process, order, rule, decree, or command.
 
-> It shall have such assistance in the carrying out of its lawful writ, process, order, rule, decree, or command as is available to a court of the United States. The United States marshal for any district in which the Tax Court is sitting shall, when requested by the chief judge of the TaxCourt, attend any session of the Tax Court in such district and may otherwise provide, when requested by the chief judge of the Tax Court, for the security of the Tax Court, including the personal protection of Tax Court judges, court officers, witnesses, and other threatened persons in the interests of justice, where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding. The United States Marshals Service retains final authority regarding security requirements for the Tax Court.
+> It shall have such assistance in the carrying out of its lawful writ, process, order, rule, decree, or command as is available to a court of the United States. The United States marshal for any district in which the Tax Court is sitting shall, when requested by the chief judge of the Tax Court, attend any session of the Tax Court in such district and may otherwise provide, when requested by the chief judge of the Tax Court, for the security of the Tax Court, including the personal protection of Tax Court judges, court officers, witnesses, and other threatened persons in the interests of justice, where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding. The United States Marshals Service retains final authority regarding security requirements for the Tax Court.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 885; Pub. L. 91–172, title IX, §§956, 958, Dec. 30, 1969, 83 Stat. 732, 734; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §336(b)(1), title V, §502(c), Nov. 6, 1978, 92 Stat. 2841, 2879; Pub. L. 96–222, title I, §105(a)(1)(B), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–164, title I, §153(a), Apr. 2, 1982, 96 Stat. 47; Pub. L. 97–248, title IV, §402(c)(13), Sept. 3, 1982, 96 Stat. 668; Pub. L. 97–362, title I, §106(c), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 98–369, div. A, title IV, §§463(a), 464(a)–(c), July 18, 1984, 98 Stat. 824; Pub. L. 99–514, title XV, §§1555(a), 1556(b)(1), Oct. 22, 1986, 100 Stat. 2754, 2755; Pub. L. 110–177, title I, §102(b), Jan. 7, 2008, 121 Stat. 2535.)
 
@@ -84,7 +84,7 @@ Pub. L. 98–369, div. A, title IV, §464(e)(1), July 18, 1984, 98 Stat. 825, pr
 
 #### Effective Date of 1982 Amendments
 
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of theTreasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under section 702 of this title.
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under section 702 of this title.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
@@ -108,7 +108,7 @@ Pub. L. 110–177, title I, §102(c), Jan. 7, 2008, 121 Stat. 2535, provided tha
 
 #### References to Commissioners Deemed References to Special Trial Judges
 
-Pub. L. 98–369, div. A, title IV, §464(e)(2), July 18, 1984, 98 Stat. 825, provided that: "Any reference in any law to a commissioner of the Tax Court shall be treated as a reference to a special trial judge of the Tax Court."
+Pub. L. 98–369, div. A, title IV, §464(e)(2), July 18, 1984, 98 Stat. 825, provided that: "Any reference in any lawto a commissioner of the Tax Court shall be treated as a reference to a special trial judge of the Tax Court."
 
 #### Commissioners' Salaries Pending Changes Under Federal Salary Act
 

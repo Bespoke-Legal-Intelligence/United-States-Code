@@ -4,7 +4,7 @@
 
 #### (1) Payments during construction
 
-&emsp;The non-Federal interests for a navigation project for a harbor or inland harbor, or any separable element thereof, on which a contract for physical construction has not been awarded before June 10, 2014, shall pay, during the period of construction of the project, the following costs associated with general navigation features:
+&emsp;The non-Federal interests for a navigation project for a harbor or inland harbor, or anyseparable element thereof, on which a contract for physical construction has not been awarded before June 10, 2014, shall pay, during the period of construction of the project, the following costs associated with general navigation features:
 
 &emsp;&emsp;(A) 10 percent of the cost of construction of the portion of the project which has a depth not in excess of 20 feet; plus
 

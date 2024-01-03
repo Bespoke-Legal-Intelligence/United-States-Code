@@ -130,7 +130,7 @@ Section 1. <i>Policy</i>. To ensure that the Federal Government appropriately su
 
 (a) consider, in their emergency preparedness planning, the unique needs of agency employees with disabilities and individuals with disabilities whom the agency serves;
 
-(b) encourage, including through the provision of technical assistance, as appropriate, consideration ofthe unique needs of employees and individuals with disabilities served by State, local, and tribal governments and private organizations and individuals in emergency preparedness planning; and
+(b) encourage, including through the provision of technical assistance, as appropriate, consideration of the unique needs of employees and individuals with disabilities served by State, local, and tribal governments and private organizations and individuals in emergency preparedness planning; and
 
 (c) facilitate cooperation among Federal, State, local, and tribal governments and private organizations and individuals in the implementation of emergency preparedness plans as they relate to individuals with disabilities.
 

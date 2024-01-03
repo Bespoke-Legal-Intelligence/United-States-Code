@@ -72,11 +72,11 @@
 
 (7) For each period for which a payment by a Secretary concerned is required under paragraph (6), the Secretary concerned shall contribute such amount from appropriations available for active duty pay of the uniformed service concerned.
 
-(8) The sums withheld from the basic or other pay of members, or collected from them by the Secretary concerned, under this subsection, and the sums contributed from appropriations under this subsection, together with the income derived from any dividends or premium rate adjustments received from insurers shall be deposited to the credit of the revolving fund established in the Treasury of the United States under section 1869(d)(1) of this title.
+(8) The sums withheld from the basic or other pay of members, or collected from them by the Secretary concerned, under this subsection, and the sums contributed from appropriations underthis subsection, together with the income derived from any dividends or premium rate adjustments received from insurers shall be deposited to the credit of the revolving fund established in the Treasury of the United States under section 1869(d)(1) of this title.
 
 (f) When a claim for benefits is submitted under this section, the Secretary of Defense or, in the case of a member not under the jurisdiction of the Secretary of Defense, the Secretary concerned, shall certify to the Secretary whether the member with respect to whom the claim is submitted—
 
-&emsp;(1) was at the time of the injury giving rise to the claim insured under Servicemembers'Group Life Insurance for the purposes of this section; and
+&emsp;(1) was at the time of the injury giving rise to the claim insured under Servicemembers' Group Life Insurance for the purposes of this section; and
 
 &emsp;(2) has sustained a qualifying loss.
 
@@ -212,7 +212,7 @@ Certification of persons entitled to payment.—The Secretary concerned shall ce
 
 "(3)
 
-Funding.—At the time a certification is made under paragraph (2), the Secretary concerned, from funds then available to that Secretary for the pay of members of the uniformed services under the jurisdiction of that Secretary, shall pay to the Secretary ofVeterans Affairs the amount of funds the Secretary of Veterans Affairs determines to be necessary to pay all costs related to payments to be made under that certification. Amounts received by the Secretary of Veterans Affairs under this paragraph shall be deposited to the credit of the revolving fund in the Treasury of the United States established under section 1969(d) of title 38, United States Code.
+Funding.—At the time a certification is made under paragraph (2), the Secretary concerned, from funds then available to that Secretary for the pay of members of the uniformed services under the jurisdiction of that Secretary, shall pay to the Secretary of Veterans Affairs the amount of funds the Secretary of Veterans Affairs determines to be necessary to pay all costs related to payments to be made under that certification. Amounts received by the Secretary of Veterans Affairs under this paragraph shall be deposited to the credit of the revolving fund in the Treasury of the United States established under section 1969(d) of title 38, United States Code.
 
 "(4)
 

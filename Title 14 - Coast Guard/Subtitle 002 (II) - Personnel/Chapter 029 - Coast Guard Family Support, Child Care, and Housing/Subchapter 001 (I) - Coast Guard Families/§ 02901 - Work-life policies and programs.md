@@ -8,7 +8,7 @@ The Commandant is authorized—
 
 &emsp;(3) to perform such other duties as the Commandant considers necessary.
 
-(Added Pub. L. 113–281, title II, §214(a), Dec. 18, 2014, 128 Stat. 3029, §531; renumbered §2901, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230.)
+(Added Pub. L. 113–281, title II, §214(a), Dec. 18, 2014, 128 Stat. 3029, §531; renumbered §2901, Pub.L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230.)
 
 #### <b>Editorial Notes</b>
 

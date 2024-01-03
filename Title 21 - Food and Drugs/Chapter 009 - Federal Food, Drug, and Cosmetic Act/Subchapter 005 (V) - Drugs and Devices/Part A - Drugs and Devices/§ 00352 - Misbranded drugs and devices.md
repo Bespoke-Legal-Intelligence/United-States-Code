@@ -6,9 +6,9 @@ A drug or device shall be deemed to be misbranded—
 
 (1) If its labeling is false or misleading in any particular. Health care economic information provided to a payor, formulary committee, or other similar entity with knowledge and expertise in the area of health care economic analysis, carrying out its responsibilities for the selection of drugs or devices for coverage or reimbursement, shall not be considered to be false or misleading under this paragraph if the health care economic information relates to an indication approved under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 for such drug or device, is based on competent and reliable scientific evidence, and includes, where applicable, a conspicuous and prominent statement describing any material differences between the health care economic information and the labeling approved for the drug or device under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42. The requirements set forth in section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 shall not apply to health care economic information provided to such a payor, committee, or entity in accordance with this paragraph. Information that is relevant to the substantiation of the health care economic information presented pursuant to this paragraph shall be made available to the Secretary upon request.
 
-(2)(A) For purposes of this paragraph,<sup>1</sup> the term "health care economic information" means any analysis (including the clinical data, inputs, clinical or other assumptions, methods, results, and other components underlying or comprising the analysis) that identifies, measures, or describes the economic consequences, which may be based on the separate or aggregated clinical consequences of the represented health outcomes, of the use of a drug. Such analysis may be comparative to the use of another drug, to another health care intervention, or to no intervention.
+(2)(A) For purposes of this paragraph,<sup>1</sup> the term "health care economic information" means any analysis (including the clinical data, inputs, clinical or other assumptions, methods, results, and other components underlying or comprising the analysis) that identifies, measures, or describes the economic consequences, which may be based on the separate or aggregated clinical consequences of the represented health outcomes, of the use of a drug or device. Such analysis may be comparative to the use of another drug or device, to another health care intervention, or to no intervention.
 
-(B) Such term does not include any analysis that relates only to an indication that is not approved under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 for such drug.
+(B) Such term does not include any analysis that relates only to an indication that is not approved under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 for such drug or device.
 
 #### (b) Package form; contents of label
 
@@ -48,7 +48,7 @@ If it purports to be a drug the name of which is recognized in an official compe
 
 #### (h) Deteriorative drugs; packing and labeling
 
-If it has been found by the Secretary to be a drug liable to deterioration, unless it is packaged in such form and manner, and its label bears a statement of such precautions, as the Secretary shall by regulations require as necessary for the protection of the public health. No such regulation shall be established for any drug recognized in an official compendium until the Secretary shall have informed the appropriate body charged with the revision of such compendium of the need for such packaging or labeling requirements and such body shall have failed within a reasonable time to prescribe such requirements.
+If it has been found by the Secretary to be a drug liable to deterioration, unless it is packaged in such form and manner, and its label bears a statement of such precautions, as the Secretary shall by regulations require as necessary for the protection of the public health. No such regulation shall be established for any drug recognized in an official compendium until the Secretary shall have informed the appropriate body charged with the revision of such compendium of the need for such packaging orlabeling requirements and such body shall have failed within a reasonable time to prescribe such requirements.
 
 #### (i) Drug; misleading container; imitation; offer for sale under another name
 
@@ -138,7 +138,7 @@ If it is a drug and it fails to bear the product identifier as required by secti
 
 #### (dd) Improper labeling of antimicrobial drugs
 
-If it is an antimicrobial drug, as defined in section 360a–2(f) of this title, and its labeling fails to conform with the requirements under section 360a–2(d) of this title.
+If it is an antimicrobial drug, as defined in section 360a–2(f) of this title, and its labelingfails to conform with the requirements under section 360a–2(d) of this title.
 
 #### (ee) Nonprescription drug subject to regulation
 
@@ -182,7 +182,7 @@ If it is a drug and it was manufactured, prepared, propagated, compounded, or pr
 
 &emsp;&emsp;&emsp;(II) has otherwise been determined to be safe or effective for the purpose or purposes for which the drug or device is being studied; or
 
-&emsp;&emsp;(ii) information that represents that an unapproved use of a drug or device that hasbeen so approved, granted marketing authorization, cleared, or licensed—
+&emsp;&emsp;(ii) information that represents that an unapproved use of a drug or device that has been so approved, granted marketing authorization, cleared, or licensed—
 
 &emsp;&emsp;&emsp;(I) is so approved, granted marketing authorization, cleared, or licensed; or
 
@@ -204,11 +204,7 @@ If it is a drug and it was manufactured, prepared, propagated, compounded, or pr
 
 &emsp;(G) factual presentations of results from studies that do not characterize or make conclusions regarding safety or efficacy.
 
-(June 25, 1938, ch. 675, §502, 52 Stat. 1050; June 23, 1939, ch. 242, §3, 53 Stat. 854; Dec. 22, 1941, ch. 613, §2, 55 Stat. 851; July 6, 1945, ch. 281, §2, 59 Stat. 463; Mar. 10, 1947, ch. 16, §2, 61 Stat. 11; July 13, 1949, ch. 305, §1, 63 Stat. 409; Aug. 5, 1953, ch. 334, §1, 67 Stat. 389; Pub. L. 86–618, title I, §102(b)(2), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §§105(c), 112(a), (b), 131(a), title III, §305, Oct. 10, 1962, 76 Stat. 785, 790, 791, 795; Pub. L. 90–399, §105(a), July 13, 1968, 82 Stat. 352; Pub. L. 91–601, §6(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–295, §§3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, 90 Stat. 577, 580, 583; Pub. L. 95–633, title I, §111, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 102–300, §3(a)(2), June 16, 1992, 106 Stat. 239; Pub. L. 102–571, title I, §107(9), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(m), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, §412(c), Nov. 21, 1997, 111 Stat. 2312, 2325, 2327, 2375; Pub. L. 107–250, title II, §206, title III, §§301(a), 302(a)(1), Oct. 26, 2002, 116 Stat. 1613, 1616; Pub. L. 108–214, §2(b)(2)(B), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(E), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–43, §2(c)(1), Aug. 1, 2005, 119 Stat. 441; Pub. L. 109–462, §2(d), Dec. 22, 2006, 120 Stat. 3472; Pub. L. 110–85, title IX, §§901(d)(3)(A), (6), 902(a), 906(a), Sept. 27, 2007, 121 Stat. 940, 942, 943, 949; Pub. L. 112–144, title III, §306, title VII, §§702(a), 714(c), July 9, 2012, 126 Stat. 1024, 1065, 1074; Pub. L. 112–193, §2(a), Oct. 5, 2012, 126 Stat. 1443; Pub. L. 113–54, title I, §103(b), title II, §206(b), Nov. 27, 2013, 127 Stat. 597, 639; Pub. L. 114–255, div. A, title III, §§3037, 3044(b)(2), Dec. 13, 2016, 130 Stat. 1105, 1121; Pub. L. 115–234, title III, §303(a), Aug. 14, 2018, 132 Stat. 2436; Pub. L. 116–136, div. A, title III, §3852, Mar. 27, 2020, 134 Stat. 454; Pub. L. 117–328, div. FF, title III, §3630(a), Dec. 29, 2022, 136 Stat. 5893.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 303(a) of Pub. L. 115–234 applicable beginning on Sept. 30, 2023. See 2018 Amendment note below.</i>
+(June 25, 1938, ch. 675, §502, 52 Stat. 1050; June 23, 1939, ch. 242, §3, 53 Stat. 854; Dec. 22, 1941, ch. 613, §2, 55 Stat. 851; July 6, 1945, ch. 281, §2, 59 Stat. 463; Mar. 10, 1947, ch. 16, §2, 61 Stat. 11; July 13, 1949, ch. 305, §1, 63 Stat. 409; Aug. 5, 1953, ch. 334, §1, 67 Stat. 389; Pub. L. 86–618, title I, §102(b)(2), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §§105(c), 112(a), (b), 131(a), title III, §305, Oct. 10, 1962, 76 Stat. 785, 790, 791, 795; Pub. L. 90–399, §105(a), July 13, 1968, 82 Stat. 352; Pub. L. 91–601, §6(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–295, §§3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, 90 Stat. 577, 580, 583; Pub. L. 95–633, title I, §111, Nov. 10, 1978, 92Stat. 3773; Pub. L. 102–300, §3(a)(2), June 16, 1992, 106 Stat. 239; Pub. L. 102–571, title I, §107(9), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(m), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, §412(c), Nov. 21, 1997, 111 Stat. 2312, 2325, 2327, 2375; Pub. L. 107–250, title II, §206, title III, §§301(a), 302(a)(1), Oct. 26, 2002, 116 Stat. 1613, 1616; Pub. L. 108–214, §2(b)(2)(B), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(E), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–43, §2(c)(1), Aug. 1, 2005, 119 Stat. 441; Pub. L. 109–462, §2(d), Dec. 22, 2006, 120 Stat. 3472; Pub. L. 110–85, title IX, §§901(d)(3)(A), (6), 902(a), 906(a), Sept. 27, 2007, 121 Stat. 940, 942, 943, 949; Pub. L. 112–144, title III, §306, title VII, §§702(a), 714(c), July 9, 2012, 126 Stat. 1024, 1065, 1074; Pub. L. 112–193, §2(a), Oct. 5, 2012, 126 Stat. 1443; Pub. L. 113–54, title I, §103(b), title II, §206(b), Nov. 27, 2013, 127 Stat. 597, 639; Pub. L. 114–255, div. A, title III, §§3037, 3044(b)(2), Dec. 13, 2016, 130 Stat. 1105, 1121; Pub. L. 115–234, title III, §303(a), Aug. 14, 2018, 132 Stat. 2436; Pub. L. 116–136, div. A, title III, §3852, Mar. 27, 2020, 134 Stat. 454; Pub. L. 117–328, div. FF, title III, §3630(a), Dec. 29, 2022, 136 Stat. 5893.)
 
 #### <b>Editorial Notes</b>
 
@@ -216,7 +212,9 @@ If it is a drug and it was manufactured, prepared, propagated, compounded, or pr
 
 <b>2022</b>—Subsec. (a)(1). Pub. L. 117–328, §3630(a)(1)–(3), substituted "drugs or devices for coverage" for "drugs for coverage", "drug or device" for "drug" in two places, "under section 355 of this title or under section 262(a) of title 42" for "under section 355 of this title or under section 262(a) of title 42", "under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42" for "under section 355 of this title or under section 262 of title 42", and "in section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42" for "in section 355(a) of this title or in subsections (a) and (k) of section 262 of title 42".
 
-Subsec. (a)(2)(B). Pub. L. 117–328, §3630(a)(2), substituted "under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42" for "under section 355 of this title or under section 262 of title 42".
+Subsec. (a)(2)(A). Pub. L. 117–328, §3630(a)(1)(B), substituted "drug or device" for "drug" in two places.
+
+Subsec. (a)(2)(B). Pub. L. 117–328, §3630(a)(1)(B), (2), substituted "drug or device" for "drug" and "under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42" for "under section 355 of this title or under section 262 of title 42".
 
 Subsec. (gg). Pub. L. 117–328, §3630(a)(4), added subsec. (gg).
 
@@ -300,7 +298,7 @@ Pars. (q) to (t). Pub. L. 94–295, §3(e)(1), added pars. (q) to (t).
 
 <b>1968</b>—Par. (l). Pub. L. 90–399 inserted "(except a drug for use in animals other than man)" after "represented as a drug".
 
-<b>1962</b>—Par. (e). Pub. L. 87–781, §112(a), designated existing provisions as subpar. (1), substituted ", unless (A) its label bears, to the exclusion of any other nonproprietary name (except the applicable systematic chemical name or the chemical formula), (i) the established name (as defined in subparagraph (2) of this subsection) of the drug, if such there be, and (ii), in case it is fabricated from two or more ingredients, the established name and quantity" for "and is not designated solely by a name recognized in an official compendium unless its label bears (1) the common or usual name of the drug, if such there be; and (2), in case it is fabricated from two or more ingredients, the common or usual name", and "the established name" for "the name", provided that the requirement for stating the quantity of active ingredients, other than those specified in this par., applies only to prescription drugs, and that the established name of a drug on a label is to be printed prominently and in type at least half as large as used for any proprietary designation, and added subpar. (2) defining "established name".
+<b>1962</b>—Par. (e). Pub. L. 87–781, §112(a), designated existing provisions as subpar. (1), substituted ", unless (A) its label bears, to the exclusion of any other nonproprietary name (except the applicable systematic chemical name or the chemical formula), (i) the established name (as defined in subparagraph (2) of this subsection) of the drug, if such there be, and (ii), in case it is fabricated from two or more ingredients, the established name and quantity" for "and is not designated solely by a name recognized in an official compendium unless its label bears (1) the common or usual name of the drug, if such there be; and (2), in case it is fabricated from two or more ingredients, the common or usual name", and "the established name" for "the name", provided that the requirement for stating the quantity of active ingredients, other than those specified in this par., applies only to prescription drugs, and that the established name of a drug on a label is to be printedprominently and in type at least half as large as used for any proprietary designation, and added subpar. (2) defining "established name".
 
 Par. (g). Pub. L. 87–781, §112(b), provided that if there is an inconsistency between the provisions of this par. and those of par. (e), as to the name of a drug, the requirements of par. (e) should prevail.
 
@@ -394,7 +392,7 @@ Amendment by Pub. L. 86–618 effective July 12, 1960, subject to the provisions
 
 #### Effective Date; Postponement
 
-Pars. (b) and (d) to (h) effective Jan. 1, 1940, and such paragraphs effective July 1, 1940, as provided by regulations for certain lithographed labeling and containers bearing certain labeling, see act June 23, 1939, ch. 242, 53 Stat. 853, set out as an Effective Date: Postponement in Certain Cases note under section 301 of this title.
+Pars. (b) and (d) to (h) effective Jan. 1, 1940, and such paragraphs effective July 1, 1940, as provided by regulations for certain lithographed labeling and containers bearing certain labeling, see act June 23, 1939, ch. 242,53 Stat. 853, set out as an Effective Date: Postponement in Certain Cases note under section 301 of this title.
 
 #### Regulations
 

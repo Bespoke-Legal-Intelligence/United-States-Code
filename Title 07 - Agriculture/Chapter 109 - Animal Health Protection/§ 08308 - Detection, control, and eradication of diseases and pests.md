@@ -8,7 +8,7 @@ The Secretary may carry out operations and measures to detect, control, or eradi
 
 #### (1) In general
 
-&emsp;The Secretary may pay a claim arising out of the destruction of any animal, article, ormeans of conveyance consistent with the purposes of this chapter.
+&emsp;The Secretary may pay a claim arising out of the destruction of any animal, article, or means of conveyance consistent with the purposes of this chapter.
 
 #### (2) Specific cooperative programs
 
@@ -32,7 +32,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(2), (3). Pub. L. 110–246, §11011(2), added par. (2), redesignated former par. (2) as (3), and, in par. (3), struck out "of longer than 60 days" after "review".
+<b>2008</b>—Subsec. (b)(2), (3). Pub. L. 110–246, §11011(2), added par. (2), redesignated former par. (2) as (3), and,in par. (3), struck out "of longer than 60 days" after "review".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

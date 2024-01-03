@@ -6,7 +6,7 @@ Preference.—During the period preceding October 1, 2035, in leasing or procuri
 
 &emsp;(1) will meet the requirements or needs of the Department of Defense; and
 
-&emsp;(2) are commercially available at a cost, including operating cost, reasonably comparableto motor vehicles containing only an internal combustion or heat engine using combustible fuel.
+&emsp;(2) are commercially available at a cost, including operating cost, reasonably comparable to motor vehicles containing only an internal combustion or heat engine using combustible fuel.
 
 (b)
 
@@ -28,7 +28,7 @@ Requirement.—Except as provided in subsection (e), beginning on October 1, 203
 
 (e)
 
-Relation to Other Vehicle Technologies That Reduce Consumption of Fossil Fuels.—Notwithstanding the requirement under subsection (d), beginning on October 1, 2035, the Secretary of Defense may authorize the purchase or lease of a covered nontactical vehicle that is not described in such subsection if the Secretary determines, on a case-by-case basis, that—
+Relation to Other Vehicle Technologies That Reduce Consumption of Fossil Fuels.—Notwithstanding the requirement under subsection (d), beginning on October 1, 2035, theSecretary of Defense may authorize the purchase or lease of a covered nontactical vehicle that is not described in such subsection if the Secretary determines, on a case-by-case basis, that—
 
 &emsp;(1) the technology used in the vehicle to be purchased or leased reduces the consumption of fossil fuels compared to vehicles that use conventional internal combustion technology;
 

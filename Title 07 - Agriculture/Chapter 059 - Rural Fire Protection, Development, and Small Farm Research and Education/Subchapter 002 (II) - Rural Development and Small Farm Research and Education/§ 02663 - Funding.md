@@ -50,7 +50,7 @@ Act of August 30, 1890, referred to in subsec. (e), is act Aug. 30, 1890, ch. 84
 
 #### Prior Provisions
 
-A prior section 2663, Pub. L. 92–419, title V, §503, Aug. 30, 1972, 86 Stat. 672; Pub. L. 94–259, §1, Apr. 5, 1976, 90 Stat. 314; Pub. L. 95–113, title XIV, §1441, Sept. 29, 1977, 91 Stat. 1006; Pub. L. 96–355, §4(1)–(3), Sept. 24, 1980, 94 Stat. 1173, 1174, related to program moneys, prior to repeal by Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1326.
+A prior section 2663, Pub. L. 92–419, title V, §503, Aug. 30, 1972, 86 Stat. 672; Pub. L. 94–259, §1, Apr. 5, 1976, 90 Stat. 314; Pub. L. 95–113, title XIV, §1441, Sept. 29, 1977, 91 Stat. 1006; Pub. L. 96–355, §4(1)–(3), Sept. 24, 1980, 94Stat. 1173, 1174, related to program moneys, prior to repeal by Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 #### Amendments
 

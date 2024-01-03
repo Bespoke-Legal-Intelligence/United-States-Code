@@ -18,7 +18,7 @@ In developing the survey tool required under subsection (a), the Secretary of Ed
 
 #### (1) In general
 
-&emsp;The survey tool developed pursuant to this section shall be fair and unbiased, be scientifically valid and reliable, meet the highest standards of survey research, and notify the participant that anonymized results of the survey may be published.
+&emsp;The survey tool developed pursuant to this section shall be fair and unbiased, be scientifically valid and reliable, meet the highest standards of survey research, and notify theparticipant that anonymized results of the survey may be published.
 
 #### (2) Survey questions
 
@@ -98,7 +98,7 @@ In developing the survey tool required under subsection (a), the Secretary of Ed
 
 #### (e) Completed surveys
 
-The Secretary of Education shall require each institution of higher education that administers the survey tool developed pursuant to this section to ensure, to the maximum extent practicable, that an adequate, random, and representative sample size of students (as determined by the Secretary) enrolled at the institution complete the survey tool developed pursuant to this section.
+The Secretary of Education shall require each institution of higher education that administersthe survey tool developed pursuant to this section to ensure, to the maximum extent practicable, that an adequate, random, and representative sample size of students (as determined by the Secretary) enrolled at the institution complete the survey tool developed pursuant to this section.
 
 #### (f) Report
 

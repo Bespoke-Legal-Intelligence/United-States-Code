@@ -21,6 +21,7 @@
 | [3617\.](%C2%A7%2003617%20-%20National%20Security%20Agency%20Emerging%20Technologies%20Panel.md) | National Security Agency Emerging Technologies Panel. |
 | [3618\.](%C2%A7%2003618%20-%20Collection%20of%20service%20charges%20for%20certification%20or%20validation%20of%20information%20assurance%20products.md) | Collection of service charges for certification or validation of information assurance products. |
 | [3619\.](%C2%A7%2003619%20-%20Senior%20Chief%20Petty%20Officer%20Shannon%20Kent%20Award%20for%20Distinguished%20Female%20Personnel.md) | Senior Chief Petty Officer Shannon Kent Award for Distinguished Female Personnel. |
+| [3620\.](%C2%A7%2003620%20-%20Congressional%20notification%20of%20intelligence%20collection%20adjustments.md) | Congressional notification of intelligence collection adjustments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,3 +49,4 @@
 - [&sect; 03617 - National Security Agency Emerging Technologies Panel](%C2%A7%2003617%20-%20National%20Security%20Agency%20Emerging%20Technologies%20Panel.md)
 - [&sect; 03618 - Collection of service charges for certification or validation of information assurance products](%C2%A7%2003618%20-%20Collection%20of%20service%20charges%20for%20certification%20or%20validation%20of%20information%20assurance%20products.md)
 - [&sect; 03619 - Senior Chief Petty Officer Shannon Kent Award for Distinguished Female Personnel](%C2%A7%2003619%20-%20Senior%20Chief%20Petty%20Officer%20Shannon%20Kent%20Award%20for%20Distinguished%20Female%20Personnel.md)
+- [&sect; 03620 - Congressional notification of intelligence collection adjustments](%C2%A7%2003620%20-%20Congressional%20notification%20of%20intelligence%20collection%20adjustments.md)

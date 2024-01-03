@@ -8,7 +8,7 @@ There are authorized to be appropriated to the Director for carrying out section
 
 #### References in Text
 
-Sections 2 through 4, referred to in text, is sections 2 to 4 of Pub. L. 102–476, which enacted sections 1862hand 1862i of this title and amended section 1862 of this title, respectively.
+Sections 2 through 4, referred to in text, is sections 2 to 4 of Pub. L. 102–476, which enacted sections 1862h and 1862i of this title and amended section 1862 of this title, respectively.
 
 #### Codification
 

@@ -138,7 +138,7 @@ The Secretary shall submit to the Committee on Agriculture of the House of Repre
 
 #### (A) In general
 
-&emsp;&emsp;An entity receiving a grant under this section shall provide non-Federal matching funds (including funds from an agricultural commodity promotion, research, and information program) equal to not less than the amount of the grant.
+&emsp;&emsp;An entity receiving a grant under this section shall provide non-Federal matchingfunds (including funds from an agricultural commodity promotion, research, and information program) equal to not less than the amount of the grant.
 
 #### (B) In-kind support
 
@@ -228,7 +228,7 @@ Funds made available under this section shall not be used for the construction o
 
 #### (D) Availability of funds
 
-&emsp;&emsp;Funds reserved under subparagraph (C) shall remain available and reserved for the purpose described in such subparagraph until expended.
+&emsp;&emsp;Funds reserved under subparagraph (C) shall remain available and reserved for thepurpose described in such subparagraph until expended.
 
 #### (2) Authorization of appropriations for fiscal years 2014 through 2023
 
@@ -328,7 +328,7 @@ Amendment by section 7614(b)(3)(B) of Pub. L. 115–334 applicable to grants, co
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-YearExtension of Agricultural Programs note under section 8701 of this title.
 
 #### Effective Date
 
@@ -356,7 +356,7 @@ Strategy.—With respect to programs identified under subsection (b), the Secret
 
 #### Emergency Citrus Disease Research and Development Trust Fund
 
-Pub. L. 115–334, title XII, §12605, Dec. 20, 2018, 132 Stat. 5006, provided that:
+Pub. L. 115–334, title XII, §12605, Dec. 20, 2018, 132 Stat. 5006, as amended by Pub. L. 118–22, div. B, title I, §102(d)(8)(D), Nov. 17, 2023, 137 Stat. 118, provided that:
 
 "(a)
 
@@ -372,11 +372,11 @@ Use of Fund.—From amounts in the Citrus Trust Fund, the Secretary shall, begin
 
 "(d)
 
-Funding.—Of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Citrus Trust Fund $25,000,000 for each of fiscal years 2019 through 2023, to remain available until expended."
+Funding.—Of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Citrus Trust Fund $25,000,000 for each of fiscal years 2019 through 2024, to remain available until expended."
 
 #### Coordination of Projects and Activities
 
-Pub. L. 110–234, title VII, §7311(b), May 22, 2008, 122 Stat. 1245, and Pub. L. 110–246, §4(a), title VII, §7311(b),June 18, 2008, 122 Stat. 1664, 2006, provided that: "In carrying out the amendment made by this section \[enacting this section\], the Secretary \[of Agriculture\] shall ensure that the Division Chief of the applicable Research, Education, and Extension Office established under section 251 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6971) coordinates projects and activities under this section to ensure, to the maximum extent practicable, that unnecessary duplication of effort is eliminated or minimized."
+Pub. L. 110–234, title VII, §7311(b), May 22, 2008, 122 Stat. 1245, and Pub. L. 110–246, §4(a), title VII, §7311(b), June 18, 2008, 122 Stat. 1664, 2006, provided that: "In carrying out the amendment made by this section \[enacting this section\], the Secretary \[of Agriculture\] shall ensure that the Division Chief of the applicable Research, Education, and Extension Office established under section 251 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6971) coordinates projects and activities under this section to ensure, to the maximum extent practicable, that unnecessary duplication of effort is eliminated or minimized."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

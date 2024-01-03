@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) the improvement of methods for detecting biological agents or toxins of potential use in a biological attack and the testing of such methods under variable conditions;
 
-&emsp;&emsp;(B) the improvement or pursuit of methods for testing, verifying, and calibrating new detection and surveillance tools and techniques; and
+&emsp;&emsp;(B) the improvement or pursuit of methods for testing, verifying, and calibrating newdetection and surveillance tools and techniques; and
 
 &emsp;&emsp;(C) carrying out other research activities in relevant areas.
 

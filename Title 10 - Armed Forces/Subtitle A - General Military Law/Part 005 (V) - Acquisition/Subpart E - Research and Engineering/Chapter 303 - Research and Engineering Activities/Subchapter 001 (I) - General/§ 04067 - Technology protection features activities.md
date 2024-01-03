@@ -56,9 +56,25 @@ Subsec. (c)(4). Pub. L. 117–81, §831(a)(2)(A), redesignated par. (2) as (4).
 
 Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementationand applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Conforming Regulations
 
 Pub. L. 117–81, div. A, title VIII, §831(b), Dec. 27, 2021, 135 Stat. 1832, provided that: "Not later than 120 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to conform with section 2357 of title 10, United States Code \[now 10 U.S.C. 4067\], as amended by subsection (a)."
+
+#### Updated Guidance on Planning for Exportability Features for Future Programs
+
+Pub. L. 118–31, div. A, title VIII, §810, Dec. 22, 2023, 137 Stat. 321, provided that:
+
+"(a)
+
+Program Guidance on Planning for Exportability Features.—Not later than one year after the date of the enactment of this Act \[Dec. 22, 2023\], the Under Secretary of Defense for Acquisition and Sustainment shall ensure that the program guidance for major defense acquisition programs (as defined in section 4201 of title 10, United States Code) and for acquisition programs and projects that are carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3201 note prec.) is revised to integrate planning for exportability features under section 4067 of title 10, United States Code, including—
+
+&emsp;"(1) for major defense acquisition programs, an assessment of such programs to identify potential exportability needs; and
+
+&emsp;"(2) for technologies under an acquisition program or project carried out using the rapid fielding or rapid prototyping acquisition pathway that are transitioned to a major capability acquisition program, an assessment of potential exportability needs of such technologies not later than one year after the date of such transition.
+
+"(b)
+
+Revision of Guidance for Program Protection Plans.—Not later than three years after the date of the enactment of this Act, the Under Secretary shall revise guidance for program protection plans to integrate a requirement to determine exportability for the programs covered by such plans."
 

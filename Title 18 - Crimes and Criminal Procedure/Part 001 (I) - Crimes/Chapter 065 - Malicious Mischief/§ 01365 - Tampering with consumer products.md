@@ -14,7 +14,7 @@
 
 (c)(1) Whoever knowingly communicates false information that a consumer product has been tainted, if such product or the results of such communication affect interstate or foreign commerce, and if such tainting, had it occurred, would create a risk of death or bodily injury to another person, shall be fined under this title or imprisoned not more than five years, or both.
 
-(2) As used in paragraph (1) of this subsection, the term "communicates false information" means communicates information that is false and that the communicator knows is false, under circumstances in which the information may reasonably be expected to be believed.
+(2) As used in paragraph (1) of this subsection, the term "communicates false information"means communicates information that is false and that the communicator knows is false, under circumstances in which the information may reasonably be expected to be believed.
 
 (d) Whoever knowingly threatens, under circumstances in which the threat may reasonably be expected to be believed, that conduct that, if it occurred, would violate subsection (a) of this section will occur, shall be fined under this title or imprisoned not more than five years, or both.
 

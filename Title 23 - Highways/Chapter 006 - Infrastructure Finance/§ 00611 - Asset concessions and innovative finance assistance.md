@@ -10,7 +10,7 @@ Approved infrastructure asset.—The term "approved infrastructure asset" means�
 
 &emsp;&emsp;(A) a project (as defined in section 601(a)); and
 
-&emsp;&emsp;(B) a group of projects (as defined in section 601(a)) considered together in a single asset concession or long-term lease to a concessionaire by 1 or more eligible entities.
+&emsp;&emsp;(B) a group of projects (as defined in section 601(a)) considered together in a singleasset concession or long-term lease to a concessionaire by 1 or more eligible entities.
 
 &emsp;(2)
 
@@ -24,7 +24,7 @@ Asset concession.—The term "asset concession" means a contract between an elig
 
 &emsp;&emsp;&emsp;&emsp;(I) to provide to the eligible entity 1 or more asset concession payments; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to maintain or exceed the condition, performance, and service level ofthe approved infrastructure asset, as compared to that condition, performance, and service level on the date of execution of the agreement or lease; and
+&emsp;&emsp;&emsp;&emsp;(II) to maintain or exceed the condition, performance, and service level of the approved infrastructure asset, as compared to that condition, performance, and service level on the date of execution of the agreement or lease; and
 
 &emsp;&emsp;&emsp;(iii) the eligible entity and the concessionaire agree that the costs for a fiscal year of the agreement or lease, and any project carried out under the agreement or lease, shall not be shifted to any taxpayer the annual household income of whom is less than $400,000 per year, including through taxes, user fees, tolls, or any other measure, for use of an approved infrastructure asset; and
 

@@ -12,7 +12,7 @@ The sponsor of a new animal drug may request the Secretary to designate a new an
 
 #### (1) In general
 
-&emsp;Not later than 60 calendar days after the receipt of a request under subsection (b), the Secretary shall determine whether the new animal drug that is the subject of the request meets the criteria described in subsection (a). If the Secretary determines that the new animal drug meets the criteria, the Secretary shall designate the new animal drug as a priority zoonotic animal drug and shall take such actions as are appropriate to expedite the development and review of the application for approval or conditional approval of such new animal drug.
+&emsp;Not later than 60 calendar days after the receipt of a request under subsection (b), theSecretary shall determine whether the new animal drug that is the subject of the request meets the criteria described in subsection (a). If the Secretary determines that the new animal drug meets the criteria, the Secretary shall designate the new animal drug as a priority zoonotic animal drug and shall take such actions as are appropriate to expedite the development and review of the application for approval or conditional approval of such new animal drug.
 
 #### (2) Actions
 

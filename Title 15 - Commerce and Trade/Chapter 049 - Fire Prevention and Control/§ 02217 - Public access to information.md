@@ -8,7 +8,7 @@ Copies of any document, report, statement, or information received or sent by th
 
 &emsp;(3) in any judicial proceeding under a court order formulated to preserve the confidentiality of such information without impairing the proceedings; and
 
-&emsp;(4) to the public when he determines such disclosure to be necessary in order to protect health and safety after notice and opportunity for comment in writing or for discussion in closed session within fifteen days by the party to which the information pertains (if the delay resulting from such notice and opportunity for comment would not be detrimental to health and safety).
+&emsp;(4) to the public when he determines such disclosure to be necessary in order to protect health and safety after notice and opportunity for comment in writing or for discussion in closed session within fifteen days by the party to which the information pertains (if the delay resulting from such notice and opportunity forcomment would not be detrimental to health and safety).
 
 (Pub. L. 93–498, §20, Oct. 29, 1974, 88 Stat. 1547; Pub. L. 106–503, title I, §110(a)(2)(B)(viii), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–239, div. A, title XVIII, §1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
 

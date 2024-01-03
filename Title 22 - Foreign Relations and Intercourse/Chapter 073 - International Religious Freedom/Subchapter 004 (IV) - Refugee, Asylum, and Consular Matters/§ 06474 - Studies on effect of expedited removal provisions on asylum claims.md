@@ -32,7 +32,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), to facilitate the studies and reports, the Attorney General shall permit the Comptroller General of the United States and, in the case of a Commission request under subsection (a), the experts designated under subsection (a) to have unrestricted access to all stages of all proceedings conducted under section 1225(b) of title 8.
+&emsp;Except as provided in paragraph (2), to facilitate the studies and reports, the Attorney General shall permit the Comptroller Generalof the United States and, in the case of a Commission request under subsection (a), the experts designated under subsection (a) to have unrestricted access to all stages of all proceedings conducted under section 1225(b) of title 8.
 
 #### (2) Exceptions
 

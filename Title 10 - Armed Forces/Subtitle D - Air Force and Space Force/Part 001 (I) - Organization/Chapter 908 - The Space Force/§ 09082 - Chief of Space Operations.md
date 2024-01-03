@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment.—(1) There is a Chief of Space Operations, appointed by the President, by and with the advice and consent of the Senate, from the general, flag, or equivalent officers of the Space Force. The Chief serves at the pleasure of the President.
+Appointment.—(1) There is a Chief of Space Operations, appointed by the President, by andwith the advice and consent of the Senate, from the general, flag, or equivalent officers of the Space Force. The Chief serves at the pleasure of the President.
 
 (2) The Chief shall be appointed for a term of four years. In time of war or during a national emergency declared by Congress, the Chief may be reappointed for a term of not more than four years.
 
@@ -34,27 +34,27 @@ Duties.—Subject to the authority, direction, and control of the Secretary of t
 
 &emsp;(4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Space Force as the Secretary determines;
 
-&emsp;(5) perform duties prescribed for the Chief of Space Operations by sections 171, 1808(a), and 1847(e)(4)(B), (5) of this title and other provision of law; and
+&emsp;(5) perform duties prescribed for the Chief of Space Operations by sections 171 and 3104 of this title and other provisions of law; and
 
 &emsp;(6) perform such other military duties, not otherwise assigned by law, as are assigned to the Chief by the President, the Secretary of Defense, or the Secretary of the Air Force.
 
 (e)
 
-Joint Chiefs of Staff.—(1) Commencing one year after the date of the enactment of the United States Space Force Act, the Chief of Space Operations shall be a member of the Joint Chiefs of Staff.
+Joint Chiefs of Staff.—(1) The Chief of Space Operations shall be a member of the Joint Chiefs of Staff.
 
 (2) To the extent that such action does not impair the independence of the Chief in the performance of the duties of the Chief as a member of the Joint Chiefs of Staff pursuant to paragraph (1), the Chief shall inform the Secretary of the Air Force regarding military advice rendered by members of the Joint Chiefs of Staff on matters affecting the Department of the Air Force.
 
 (3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief shall keep the Secretary of the Air Force fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-(Added Pub. L. 116–92, div. A, title IX, §953(a), Dec. 20, 2019, 133 Stat. 1563; amended Pub. L. 116–283, div. A, title IX, §922(c), title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 3806, 4294.)
+(Added Pub. L. 116–92, div. A, title IX, §953(a), Dec. 20, 2019, 133 Stat. 1563; amended Pub. L. 116–283, div. A, title IX, §922(c), title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 3806, 4294; Pub. L. 118–31, div. A, title XVII, §1741(b)(7), Dec. 22, 2023, 137 Stat. 681.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The date of the enactment of the United States Space Force Act, referred to in subsec. (e)(1), is the date of enactment of subtitle D of title IX of div. A of Pub. L. 116–92, which was approved Dec. 20, 2019.
-
 #### Amendments
+
+<b>2023</b>—Subsec. (d)(5). Pub. L. 118–31, §1741(b)(7)(A), substituted "sections 171 and 3104 of this title and other provisions of law" for "sections 171, 1808(a), and 1847(e)(4)(B), (5) of this title and other provision of law".
+
+Subsec. (e)(1). Pub. L. 118–31, §1741(b)(7)(B), substituted "The Chief" for "Commencing one year after the date of the enactment of the United States Space Force Act, the Chief".
 
 <b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §922(c)(1)(A), substituted "general, flag, or equivalent officers of the Space Force" for "general officers of the Air Force".
 
@@ -88,7 +88,7 @@ Pub. L. 116–92, div. A, title IX, §953(b), Dec. 20, 2019, 133 Stat. 1564, pro
 
 "(1)
 
-Incumbent.—The individual serving as Commander of the Air Force Space Command as of the day before the date of the enactment of this Act \[Dec. 20, 2019\] may serve as the Chief of Space Operations under subsection (a) of section 9082 of title 10, United States Code (as added by subsection (a) of this section), after that date without further appointment as otherwise provided for by subsection (a) of such section 9082.
+Incumbent.—The individual serving as Commander of the Air Force Space Command as of the day before the date of the enactment of this Act \[Dec. 20, 2019\] may serve as the Chief of Space Operations under subsection (a) of section 9082 of title 10, United States Code (as added by subsection (a) of this section), afterthat date without further appointment as otherwise provided for by subsection (a) of such section 9082.
 
 "(2)
 

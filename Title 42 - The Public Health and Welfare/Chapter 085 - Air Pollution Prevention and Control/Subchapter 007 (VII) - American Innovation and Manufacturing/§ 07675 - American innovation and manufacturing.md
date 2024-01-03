@@ -235,7 +235,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of establishing the baselines pursuant to subparagraphs (B) and (C), the Administrator shall use the exchange values listed in the table contained in subsection (c)(1) for regulated substances and the following exchange valuesfor hydrochlorofluorocarbons and chlorofluorocarbons:
+&emsp;&emsp;&emsp;For purposes of establishing the baselines pursuant to subparagraphs (B) and (C), the Administrator shall use the exchange values listed in the table contained in subsection (c)(1) for regulated substances and the following exchange values for hydrochlorofluorocarbons and chlorofluorocarbons:
 
 &nbsp;
 

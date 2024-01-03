@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) The United States today has the highest per capita rate of death and property loss from fire of all the major industrialized nations in the world.
 
-&emsp;(3) Fire is an undue burden affecting all Americans, and fire also constitutes a public health and safety problem of great dimensions. Fire kills 12,000 and scars and injures300,000 Americans each year, including 50,000 individuals who require extended hospitalization. Almost $3 billion worth of property is destroyed annually by fire, and the total economic cost of destructive fire in the United States is estimated conservatively to be $11,000,000,000 per year. Firefighting is the Nation's most hazardous profession.
+&emsp;(3) Fire is an undue burden affecting all Americans, and fire also constitutes a public health and safety problem of great dimensions. Fire kills 12,000 and scars and injures 300,000 Americans each year, including 50,000 individuals who require extended hospitalization. Almost $3 billion worth of property is destroyed annually by fire, and the total economic cost of destructive fire in the United States is estimated conservatively to be $11,000,000,000 per year. Firefighting is the Nation's most hazardous profession.
 
 &emsp;(4) Such losses of life and property from fire are unacceptable to the Congress.
 
@@ -72,7 +72,7 @@ Pub. L. 105–108, §1, Nov. 20, 1997, 111 Stat. 2264, provided that: "This Act 
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–254, §1, May 19, 1994, 108 Stat. 679, provided that: "This Act \[enacting sections 2221 and 2228 of thistitle, amending sections 2216, 2220, and 2227 of this title, and enacting provisions set out as notes under this section and section 2216 of this title\] may be cited as the 'Arson Prevention Act of 1994'."
+Pub. L. 103–254, §1, May 19, 1994, 108 Stat. 679, provided that: "This Act \[enacting sections 2221 and 2228 of this title, amending sections 2216, 2220, and 2227 of this title, and enacting provisions set out as notes under this section and section 2216 of this title\] may be cited as the 'Arson Prevention Act of 1994'."
 
 #### Short Title of 1990 Amendment
 
@@ -154,7 +154,7 @@ Findings.—Congress finds that—
 
 "(b)
 
-Purpose.—It is the purpose of this Act \[see Short Title of 1990 Amendment note above\] to save lives andprotect property by promoting fire and life safety in hotels, motels, and all places of public accommodation affecting commerce."
+Purpose.—It is the purpose of this Act \[see Short Title of 1990 Amendment note above\] to save lives and protect property by promoting fire and life safety in hotels, motels, and all places of public accommodation affecting commerce."
 
 #### Waiver of Federal Liability
 
@@ -188,7 +188,7 @@ There shall be within the Agency a Deputy Director, who shall be appointed by th
 
 #### Sec. 104. Associate Directors
 
-There shall be within the Agency not more than four Associate Directors, who shall be appointed by the President, by and with the advice and consent of the Senate, two of whom shall be compensated at the rate now or hereafter prescribed by law for level IV of the Executive Schedule \[5 U.S.C. 5315\], one of whom shall be compensated at the rate now or hereafter prescribed by law for level V of the Executive Schedule \[5 U.S.C. 5316\] and one of whom shall be compensated at the rate now or hereafter prescribed by law for GS–18 of the General Schedule \[set out under 5 U.S.C. 5332\]. The Associate Directors shall perform such functions as the Director may from time to time prescribe.
+There shall be within the Agency not more than four Associate Directors, who shall be appointed by the President, by and with the advice and consent of the Senate, two of whom shall be compensated at the rate now or hereafter prescribed by law for level IV of the Executive Schedule \[5 U.S.C. 5315\], one of whom shall be compensated at the rate now or hereafter prescribed by law for level V of the Executive Schedule \[5 U.S.C. 5316\] and one of whom shall be compensated at the rate now or hereafter prescribed by law for GS–18 of theGeneral Schedule \[set out under 5 U.S.C. 5332\]. The Associate Directors shall perform such functions as the Director may from time to time prescribe.
 
 #### Sec. 105. Regional Directors
 
@@ -250,7 +250,7 @@ If the plan takes effect, I will assign to the Federal Emergency Management Agen
 
 I will also transfer to the new Agency all authorities and functions under the Disaster Relief Acts of 1970 and 1974 \[sections 4401 et seq. and 5121 et seq. of Title 42, The Public Health and Welfare\] now delegated to the Federal Disaster Assistance Administration in the Department of Housing and Urban Development.
 
-I will also transfer all Presidential authorities and functions now delegated to the Federal Preparedness Agency in the General Services Administration, including the establishment of policy for the national stockpile. The stockpile disposal function, which is statutorily assigned to the General Services Administration, would remain there. Once these steps have been taken by Executive Order, these three agencies would be abolished.
+I will also transfer all Presidential authorities and functions now delegated to the Federal Preparedness Agency in the General Services Administration, including the establishment of policy for the national stockpile. The stockpile disposal function, which is statutorily assigned to the General Services Administration, would remain there. Once these steps have beentaken by Executive Order, these three agencies would be abolished.
 
 Several additional transfers of emergency preparedness and mitigation functions would complete the consolidation. These include:
 
@@ -304,7 +304,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 1–102. The Director of the Office of Management and Budget shall, in accord with Section 302 of the Reorganization Plan, provide for all the appropriate transfers, including those transfers related to all the functions transferred from the Department of Commerce, the Department of Housing and Urban Development, and the President.
 
-1–103. (a) The functions transferred from the Department of Commerce are those vested in the Secretary of Commerce, the Administrator and Deputy Administrator of the National Fire Prevention and Control Administration (now the United States Fire Administration (Sec. 2(a) of Public Law 95–422)), and the Superintendent of the National Academy for Fire Prevention and Control pursuant to the Federal Fire Prevention and Control Act of 1974, as amended (15 U.S.C. 2201 et seq.) \[this chapter\] but not including any functions vested by the amendments made to other acts by Sections 18 and 23 of that Act (15 U.S.C. 278f and 1511). The functions vested in the Administrator by Sections 24 and 25 of that Act, as added by Sections 3 and 4 of Public Law 95–422 (15 U.S.C. 2220 and 2221), are not transferred to the Director of the Federal Emergency Management Agency. Those functions are transferred with the Administrator and remain vested in him. (Section 201 of the Plan.)
+1–103. (a) The functions transferred from the Department of Commerce are those vested in the Secretary of Commerce, the Administrator and Deputy Administrator of the National Fire Prevention and Control Administration (now the United States Fire Administration (Sec. 2(a) of Public Law 95–422)), and the Superintendent of the National Academy for Fire Prevention and Control pursuant to the Federal Fire Prevention and Control Act of 1974, as amended (15 U.S.C. 2201 et seq.) \[this chapter\] but not including any functions vested by the amendments made to other acts by Sections 18 and 23 of that Act (15 U.S.C. 278f and 1511). The functions vested in the Administrator by Sections 24and 25 of that Act, as added by Sections 3 and 4 of Public Law 95–422 (15 U.S.C. 2220 and 2221), are not transferred to the Director of the Federal Emergency Management Agency. Those functions are transferred with the Administrator and remain vested in him. (Section 201 of the Plan.)
 
 (b) There was also transferred from the Department of Commerce any function concerning the Emergency Broadcast System which was transferred to the Secretary of Commerce by Section 5B of Reorganization Plan No. 1 of 1977 (42 FR 56101; implemented by Executive Order No. 12046 of March 27, 1978) \[set out in Title 5, Appendix, Government Organization and Employees; set out as a note under section 305 of Title 47, Telecommunications\]. (Section 203 of the Plan.)
 

@@ -40,7 +40,7 @@ Section 1. (a) The Secretary of Defense is hereby authorized and empowered to ex
 
 &emsp;(3) has not served on active duty for a total of 24 months.
 
-(b) In pursuance of the provisions of section 673a \[now 12303\] of title 10 of the United States Code, the Secretary of Defense is hereby authorized to require a member ordered to active duty under the authority of this Order to serve on active duty until his total service on active duty equals 24 months. If the enlistment or period of military service of a member of the Ready Reserve ordered to active duty under this authority would expire before he has served the required period ofactive duty prescribed herein, his enlistment or period of military service may be extended until he has served the required period.
+(b) In pursuance of the provisions of section 673a \[now 12303\] of title 10 of the United States Code, the Secretary of Defense is hereby authorized to require a member ordered to active duty under the authority of this Order to serve on active duty until his total service on active duty equals 24 months. If the enlistment or period of military service of a member of the Ready Reserve ordered to active duty under this authority would expire before he has served the required period of active duty prescribed herein, his enlistment or period of military service may be extended until he has served the required period.
 
 (c) In pursuance of the provisions of section 673a \[now 12303\] of title 10 of the United States Code, and in order to achieve fair treatment among members of the Ready Reserve who are being considered for active duty under this authority, appropriate consideration shall be given to—
 

@@ -20,7 +20,7 @@ At the time of importation of any large yacht, if such large yacht is imported f
 
 #### (1) <sup>1</sup> Deposit of duty
 
-&emsp;If any large yacht (which has been imported for sale at a boat show in the United Stateswith the deferral of duties as provided in this section) is sold within the 6-month period after importation—
+&emsp;If any large yacht (which has been imported for sale at a boat show in the United States with the deferral of duties as provided in this section) is sold within the 6-month period after importation—
 
 &emsp;&emsp;(A) entry shall be completed and duty (calculated at the applicable rates provided for under subheading 8903.91.00 or 8903.92.00 of the Harmonized Tariff Schedule of the United States and based upon the value of the large yacht at the time of importation) shall be deposited with the Customs Service; and
 

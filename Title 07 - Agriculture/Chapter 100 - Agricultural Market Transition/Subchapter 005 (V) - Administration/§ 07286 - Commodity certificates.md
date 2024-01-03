@@ -34,7 +34,7 @@ The Commodity Credit Corporation may make in-kind payments—
 
 #### (3) Application of authority
 
-&emsp;Beginning with the 2015 crop marketing year, the Secretary shall carry out paragraph\(1) under the same terms and conditions as were in effect for the 2008 crop year for loans made to producers under subtitle B \[7 U.S.C. 8731 et seq.\] of title I of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8701 et seq.).
+&emsp;Beginning with the 2015 crop marketing year, the Secretary shall carry out paragraph (1) under the same terms and conditions as were in effect for the 2008 crop year for loans made to producers under subtitle B \[7 U.S.C. 8731 et seq.\] of title I of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8701 et seq.).
 
 (Pub. L. 104–127, title I, §166, as added Pub. L. 106–78, title VIII, §812, Oct. 22, 1999, 113 Stat. 1181; amended Pub. L. 107–171, title I, §1608, May 13, 2002, 116 Stat. 218; Pub. L. 110–234, title I, §1607, May 22, 2008, 122 Stat. 1018; Pub. L. 110–246, §4(a), title I, §1607, June 18, 2008, 122 Stat. 1664, 1746, Pub. L. 114–113, div. A, title VII, §740, Dec. 18, 2015, 129 Stat. 2281.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established the National Assessment Governing Board (hereafter in this subchapterreferred to as the "Assessment Board"), which shall formulate policy guidelines for the National Assessment (carried out under section 9622 of this title).
+There is established the National Assessment Governing Board (hereafter in this subchapter referred to as the "Assessment Board"), which shall formulate policy guidelines for the National Assessment (carried out under section 9622 of this title).
 
 #### (b) Membership
 
@@ -110,7 +110,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 &emsp;&emsp;(J) plan and execute the initial public release of National Assessment of Educational Progress reports.
 
-> &emsp;The National Assessment of Educational Progress data shall not be released prior to the release of the reports described in subparagraph (J).
+> &emsp;The National Assessment of Educational Progress data shall not be released prior to therelease of the reports described in subparagraph (J).
 
 #### (2) Delegation
 
@@ -225,10 +225,6 @@ Subsec. (h). Pub. L. 107–279, §401(c)(2), substituted "Assessment Board" for 
 Subsec. (c)(4). Pub. L. 106–554, §1(a)(1) \[title III, §307(2)\], added par. (4).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2002 Amendment
 

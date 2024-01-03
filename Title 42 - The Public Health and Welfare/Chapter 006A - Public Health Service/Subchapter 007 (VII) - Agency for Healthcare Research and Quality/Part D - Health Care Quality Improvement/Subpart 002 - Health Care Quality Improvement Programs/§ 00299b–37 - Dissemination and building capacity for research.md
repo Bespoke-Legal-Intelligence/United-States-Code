@@ -10,7 +10,7 @@
 
 &emsp;The Office shall provide for the dissemination of the Institute's research findings and government-funded research relevant to comparative clinical effectiveness research to physicians, health care providers, patients, vendors of health information technology focused on clinical decision support, appropriate professional associations, and Federal and private health plans. Materials, forums, and media used to disseminate the findings, informational tools, and resource databases shall—
 
-&emsp;&emsp;(A) include a description of considerations for specific subpopulations, the research methodology, and the limitations of the research, and the names of the entities, agencies, instrumentalities, and individuals who conducted any research which was published by the Institute; and
+&emsp;&emsp;(A) include a description of considerations for specific subpopulations, the researchmethodology, and the limitations of the research, and the names of the entities, agencies, instrumentalities, and individuals who conducted any research which was published by the Institute; and
 
 &emsp;&emsp;(B) not be construed as mandates, guidelines, or recommendations for payment, coverage, or treatment.
 

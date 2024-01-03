@@ -16,7 +16,7 @@ Subsec. (b). Pub. L. 116–283, §1862(c)(2), as amended by Pub. L. 117–81, §
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–107 inserted ", or another inscription with the same meaning," after "inscription".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–106, §1062(f), struck out at end "If the Secretary determines that the personshould not be debarred, the Secretary shall submit to Congress a report on such determination not later than 30 days after the determination is made."
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §1062(f), struck out at end "If the Secretary determines that the person should not be debarred, the Secretary shall submit to Congress a report on such determination not later than 30 days after the determination is made."
 
 Subsec. (b). Pub. L. 104–106, §1503(a)(22), substituted "In" for "For purposes of".
 

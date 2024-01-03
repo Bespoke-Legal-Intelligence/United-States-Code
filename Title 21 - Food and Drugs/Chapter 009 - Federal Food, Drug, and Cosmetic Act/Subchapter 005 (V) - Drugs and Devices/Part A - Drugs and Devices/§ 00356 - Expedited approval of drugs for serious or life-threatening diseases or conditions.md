@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, at the request of the sponsor of a drug, expedite the development and review of such drug if the drug is intended, alone or in combination with 1 or more other drugs, to treat a serious or life-threatening disease or condition and preliminary clinical evidence indicates that the drug may demonstrate substantial improvement over existing therapies on 1 or more clinically significant endpoints, such as substantial treatment effects observed early in clinical development. (In this section, such a drug is referred to as a "breakthrough therapy".)
+&emsp;The Secretary shall, at the request of the sponsor of a drug, expedite the development and review of such drug if the drug is intended, alone or in combination with 1 or more otherdrugs, to treat a serious or life-threatening disease or condition and preliminary clinical evidence indicates that the drug may demonstrate substantial improvement over existing therapies on 1 or more clinically significant endpoints, such as substantial treatment effects observed early in clinical development. (In this section, such a drug is referred to as a "breakthrough therapy".)
 
 #### (2) Request for designation
 
@@ -38,7 +38,7 @@
 
 #### (2) Request for designation
 
-&emsp;The sponsor of a new drug may request the Secretary to designate the drug as a fast track product. A request for the designation may be made concurrently with, or at any time after,submission of an application for the investigation of the drug under section 355(i) of this title or section 351(a)(3) of the Public Health Service Act \[42 U.S.C. 262(a)(3)\].
+&emsp;The sponsor of a new drug may request the Secretary to designate the drug as a fast track product. A request for the designation may be made concurrently with, or at any time after, submission of an application for the investigation of the drug under section 355(i) of this title or section 351(a)(3) of the Public Health Service Act \[42 U.S.C. 262(a)(3)\].
 
 #### (3) Designation
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;Approval of a product under this subsection may be subject to 1 or both of the following requirements:
 
-&emsp;&emsp;&emsp;(i) That the sponsor conduct an appropriate postapproval study or studies to verify and describe the predicted effect on irreversible morbidity or mortality or other clinical benefit.
+&emsp;&emsp;&emsp;(i) That the sponsor conduct an appropriate postapproval study or studies toverify and describe the predicted effect on irreversible morbidity or mortality or other clinical benefit.
 
 &emsp;&emsp;&emsp;(ii) That the sponsor submit copies of all promotional materials related to the product during the preapproval review period and, following approval and for such period thereafter as the Secretary determines to be appropriate, at least 30 days prior to dissemination of the materials.
 
@@ -174,7 +174,7 @@ The Secretary shall—
 
 #### (5) Actions
 
-&emsp;The sponsor of a regenerative advanced therapy shall be eligible for the actions to expeditedevelopment and review of such therapy under subsection (a)(3)(B), including early interactions to discuss any potential surrogate or intermediate endpoint to be used to support the accelerated approval of an application for the product under subsection (c).
+&emsp;The sponsor of a regenerative advanced therapy shall be eligible for the actions to expedite development and review of such therapy under subsection (a)(3)(B), including early interactions to discuss any potential surrogate or intermediate endpoint to be used to support the accelerated approval of an application for the product under subsection (c).
 
 #### (6) Access to expedited approval pathways
 
@@ -244,7 +244,7 @@ The Secretary shall—
 
 #### (5) Guidance
 
-&emsp;Not later than 18 months after December 13, 2016, the Secretary shall issue draft guidancedescribing criteria, processes, and other general considerations for demonstrating the safety and effectiveness of limited population antibacterial and antifungal drugs. The Secretary shall publish final guidance within 18 months of the close of the public comment period on such draft guidance. The Secretary may approve antibacterial and antifungal drugs under this subsection prior to issuing guidance under this paragraph.
+&emsp;Not later than 18 months after December 13, 2016, the Secretary shall issue draft guidance describing criteria, processes, and other general considerations for demonstrating the safety and effectiveness of limited population antibacterial and antifungal drugs. The Secretary shall publish final guidance within 18 months of the close of the public comment period on such draft guidance. The Secretary may approve antibacterial and antifungal drugs under this subsection prior to issuing guidance under this paragraph.
 
 #### (6) Advice
 
@@ -266,7 +266,7 @@ The Secretary shall—
 
 #### (B) GAO report
 
-&emsp;&emsp;Not later than December 2021, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report on the coordination of activities required under section 319E of the Public Health Service Act \[42 U.S.C. 247d–5\]. Such report shall include a review of such activities, and the extent to which the use of the pathway established under this subsection has streamlined premarket approval for antibacterial or antifungal drugs for limited populations, if such pathway has functioned as intended, if such pathway has helped provide for safe and effective treatment for patients, if such premarket approval would be appropriate for other categories of drugs, and if the authorities under this subsection have affected antibacterial or antifungal resistance.
+&emsp;&emsp;Not later than December 2021, the Comptroller General of the United States shallsubmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report on the coordination of activities required under section 319E of the Public Health Service Act \[42 U.S.C. 247d–5\]. Such report shall include a review of such activities, and the extent to which the use of the pathway established under this subsection has streamlined premarket approval for antibacterial or antifungal drugs for limited populations, if such pathway has functioned as intended, if such pathway has helped provide for safe and effective treatment for patients, if such premarket approval would be appropriate for other categories of drugs, and if the authorities under this subsection have affected antibacterial or antifungal resistance.
 
 (June 25, 1938, ch. 675, §506, as added Pub. L. 105–115, title I, §112(a), Nov. 21, 1997, 111 Stat. 2309; amended Pub. L. 112–144, title VIII, §803, title IX, §§901(b), 902(a), July 9, 2012, 126 Stat. 1079, 1083, 1086; Pub. L. 114–255, div. A, title III, §§3033(a), (c), 3042, Dec. 13, 2016, 130 Stat. 1101, 1103, 1112; Pub. L. 117–328, div. FF, title III, §3210(a), Dec. 29, 2022, 136 Stat. 5822.)
 
@@ -334,7 +334,7 @@ Pub. L. 117–328, div. FF, title III, §3210(f), Dec. 29, 2022, 136 Stat. 5825,
 
 Pub. L. 114–255, div. A, title III, §3033(b), Dec. 13, 2016, 130 Stat. 1103, provided that: "Nothing in this section \[amending this section\] and the amendments made by this section shall be construed to alter the authority of the Secretary of Health and Human Services—
 
-&emsp;"(1) to approve drugs pursuant to the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) and section 351 of the Public Health Service Act (42 U.S.C. 262) as authorized prior to the date of enactment of the 21st Century Cures Act \[Dec. 13, 2016\], including the standards of evidence, and applicable conditions, for approval under such Acts; or
+&emsp;"(1) to approve drugs pursuant to the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) and section 351 of the Public Health Service Act (42 U.S.C.262) as authorized prior to the date of enactment of the 21st Century Cures Act \[Dec. 13, 2016\], including the standards of evidence, and applicable conditions, for approval under such Acts; or
 
 &emsp;"(2) to alter the authority of the Secretary to require postapproval studies pursuant to such Acts, as authorized prior to the date of enactment of the 21st Century Cures Act."
 
@@ -408,7 +408,7 @@ Pub. L. 112–144, title IX, §901(c), July 9, 2012, 126 Stat. 1085, provided th
 
 "(1)
 
-Draft guidance.—Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall issue draft guidance to implement the amendments made by this section \[amending this section\]. In developing such guidance, the Secretary shall specifically consider issues arising under the accelerated approval and fast track processes under section 506 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 356\], as amended by subsection (b), for drugs designated for a rare disease or condition under section 526 of such Act (21 U.S.C. 360bb) and shall also consider any unique issues associated with very rare diseases.
+Draft guidance.—Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall issue draft guidance to implement the amendments made by this section \[amending this section\]. In developing such guidance, the Secretary shall specifically consider issuesarising under the accelerated approval and fast track processes under section 506 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 356\], as amended by subsection (b), for drugs designated for a rare disease or condition under section 526 of such Act (21 U.S.C. 360bb) and shall also consider any unique issues associated with very rare diseases.
 
 "(2)
 

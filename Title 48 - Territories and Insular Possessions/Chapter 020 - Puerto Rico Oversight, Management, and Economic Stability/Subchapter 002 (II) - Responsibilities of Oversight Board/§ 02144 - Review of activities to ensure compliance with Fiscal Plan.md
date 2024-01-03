@@ -78,7 +78,7 @@
 
 #### (2) No action permitted until analysis received
 
-&emsp;The Legislature shall not adopt a reprogramming, and no officer or employee of the territorial government may carry out any reprogramming, until the Oversight Board has provided the Legislature with an analysis that certifies such reprogramming will not be inconsistent with the Fiscal Plan and Budget.
+&emsp;The Legislature shall not adopt a reprogramming, and no officer or employee ofthe territorial government may carry out any reprogramming, until the Oversight Board has provided the Legislature with an analysis that certifies such reprogramming will not be inconsistent with the Fiscal Plan and Budget.
 
 #### (3) Prohibition on action until Oversight Board is appointed
 

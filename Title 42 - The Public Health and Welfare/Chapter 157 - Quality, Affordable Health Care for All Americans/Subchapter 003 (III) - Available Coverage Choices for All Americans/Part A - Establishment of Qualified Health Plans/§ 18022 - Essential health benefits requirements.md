@@ -68,7 +68,7 @@ In this title,<sup>1</sup> the term "essential health benefits package" means, w
 
 &emsp;&emsp;&emsp;(ii) if such services are provided out-of-network, the cost-sharing requirement (expressed as a copayment amount or coinsurance rate) is the same requirement that would apply if such services were provided in-network;
 
-&emsp;&emsp;(F) provide that if a plan described in section 18031(b)(2)(B)(ii) <sup>3</sup> of this title (relatingto stand-alone dental benefits plans) is offered through an Exchange, another health plan offered through such Exchange shall not fail to be treated as a qualified health plan solely because the plan does not offer coverage of benefits offered through the stand-alone plan that are otherwise required under paragraph (1)(J); and <sup>4</sup>
+&emsp;&emsp;(F) provide that if a plan described in section 18031(b)(2)(B)(ii) <sup>3</sup> of this title (relating to stand-alone dental benefits plans) is offered through an Exchange, another health plan offered through such Exchange shall not fail to be treated as a qualified health plan solely because the plan does not offer coverage of benefits offered through the stand-alone plan that are otherwise required under paragraph (1)(J); and <sup>4</sup>
 
 &emsp;&emsp;(G) periodically review the essential health benefits under paragraph (1), and provide a report to Congress and the public that contains—
 
@@ -102,7 +102,7 @@ In this title,<sup>1</sup> the term "essential health benefits package" means, w
 
 &emsp;&emsp;&emsp;(ii) in the case of other coverage, twice the amount in effect under clause (i).
 
-> &emsp;&emsp;If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
+> &emsp;&emsp;If the amount of any increase under clause (i) is not a multiple of $50, such increaseshall be rounded to the next lowest multiple of $50.
 
 #### (2) Repealed. Pub. L. 113–93, title II, §213(a)(1), Apr. 1, 2014, 128 Stat. 1047
 

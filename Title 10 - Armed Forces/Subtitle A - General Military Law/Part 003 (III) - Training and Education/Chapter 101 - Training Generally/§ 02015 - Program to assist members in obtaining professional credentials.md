@@ -44,7 +44,7 @@ Regulations.—(1) The Secretary of Defense and the Secretary of Homeland Securi
 
 (e)
 
-Expenses Defined.—In this section, the term "expenses" means expenses for class room instruction, hands-on training (and associatedmaterials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
+Expenses Defined.—In this section, the term "expenses" means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
 
 (Added Pub. L. 109–163, div. A, title V, §538(a), Jan. 6, 2006, 119 Stat. 3250; amended Pub. L. 113–291, div. A, title V, §551(a), Dec. 19, 2014, 128 Stat. 3376; Pub. L. 114–92, div. A, title V, §559, Nov. 25, 2015, 129 Stat. 827; Pub. L. 114–328, div. A, title V, §561, Dec. 23, 2016, 130 Stat. 2137; Pub. L. 115–232, div. A, title V, §556, Aug. 13, 2018, 132 Stat. 1773.)
 
@@ -96,7 +96,7 @@ Pub. L. 116–283, div. A, title V, §578, Jan. 1, 2021, 134 Stat. 3649, provide
 
 Study on Performance Measures.—The Secretary of Defense shall conduct a study to determine additional performance measures to evaluate the effectiveness of the Credentialing Opportunities On-Line programs (in this section referred to as the 'COOL programs') of each Armed Force in connecting members of the Armed Forces with professional credential programs. The study shall include the following:
 
-&emsp;"(1) The percentage of members of the Armed Force concerned described in section 1142(a) of title 10, United States Code, who participate in a professional credential program through the COOL program of the Armed Force concerned.
+&emsp;"(1) The percentage of members of the Armed Force concerned described in section 1142(a) of title 10, United States Code, who participate in a professionalcredential program through the COOL program of the Armed Force concerned.
 
 &emsp;"(2) The percentage of members of the Armed Force concerned described in paragraph (1) who have completed a professional credential program described in that paragraph.
 

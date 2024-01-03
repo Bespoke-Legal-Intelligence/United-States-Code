@@ -50,7 +50,7 @@ This section may be cited as the "HELP Commission Act".
 
 &emsp;(L) analyze whether United States development assistance should be used as a means to achieve United States foreign policy objectives;
 
-&emsp;(M) analyze how the United States can evaluate the performance of its development assistance programs not only against economic indicators, but in other ways, including how to measure the success of United States development assistance in democratization efforts; and evaluate the existing foreign assistance framework to ascertain the degree of coordination, or lack thereof, of the disparate foreign development programs as administered by the various Federal agencies, to identify and assess the redundancies of programs and organizational structures engaged in foreign assistance, and to recommend revisions to authorizing legislation for foreign assistance that would seek to reconcile competing foreign policy and foreign aid goals; and
+&emsp;(M) analyze how the United States can evaluate the performance of its development assistance programs not only against economic indicators, but in other ways, including how to measure the success of United States development assistance in democratization efforts; and evaluate the existing foreign assistance framework to ascertain the degree of coordination, or lack thereof, of the disparate foreign development programs as administered by the various Federal agencies, to identify and assess the redundancies of programs andorganizational structures engaged in foreign assistance, and to recommend revisions to authorizing legislation for foreign assistance that would seek to reconcile competing foreign policy and foreign aid goals; and
 
 &emsp;(N) study any other areas that the Commission considers necessary relating to United States development assistance.
 
@@ -110,7 +110,7 @@ This section may be cited as the "HELP Commission Act".
 
 (5) The Members of the Commission may, with the approval of the Commission, conduct such travel as is necessary to carry out the purposes of this section. Each trip must be approved by a majority of the Commission.
 
-(6) Upon the request of the Commission, the head of any Federal department or agency may detail, on a reimbursable or nonreimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its functions under this section. The detail of any such personnel shall be without interruption or loss of civil service or Foreign Service status or privilege.
+(6) Upon the request of the Commission, the head of any Federal department or agency maydetail, on a reimbursable or nonreimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its functions under this section. The detail of any such personnel shall be without interruption or loss of civil service or Foreign Service status or privilege.
 
 #### (f) Report of Commission
 

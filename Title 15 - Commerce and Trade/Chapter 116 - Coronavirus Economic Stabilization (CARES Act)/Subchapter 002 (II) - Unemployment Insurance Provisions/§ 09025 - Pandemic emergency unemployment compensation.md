@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;(i) is registered for employment services in such a manner and to such extent as prescribed by the State agency;
 
-&emsp;&emsp;&emsp;(ii) has engaged in an active search for employment that is appropriate in light of the employment available in the labor market, the individual's skills and capabilities, and includes a number of employer contacts that is consistent with the standards communicated to the individual by the State;
+&emsp;&emsp;&emsp;(ii) has engaged in an active search for employment that is appropriate in light ofthe employment available in the labor market, the individual's skills and capabilities, and includes a number of employer contacts that is consistent with the standards communicated to the individual by the State;
 
 &emsp;&emsp;&emsp;(iii) has maintained a record of such work search, including employers contacted, method of contact, and date contacted; and
 
@@ -166,7 +166,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;There are appropriated out of the employment security administration account (as established by section 901(a) of the Social Security Act (42 U.S.C. 1101(a)) of the Unemployment Trust Fund, without fiscal year limitation, such funds as may be necessary for purposes of assisting States (as provided in title III of the Social Security Act (42 U.S.C. 501 et seq.)) in meeting the costs of administration of agreements under this section.
+&emsp;&emsp;There are appropriated out of the employment security administration account (as established by section 901(a) of the Social Security Act (42 U.S.C. 1101(a)) <sup>3</sup> of the Unemployment Trust Fund, without fiscal year limitation, such funds as may be necessary for purposes of assisting States (as provided in title III of the Social Security Act (42 U.S.C. 501 et seq.)) in meeting the costs of administration of agreements under this section.
 
 #### (B) Transfer of funds
 
@@ -281,4 +281,6 @@ Coordination rules.—The amendments made by subsection (c)(1) shall apply to in
 <i><sup>1</sup></i><i> So in original. Probably should be "a".</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. A third closing parenthesis probably should appear.</i>
 

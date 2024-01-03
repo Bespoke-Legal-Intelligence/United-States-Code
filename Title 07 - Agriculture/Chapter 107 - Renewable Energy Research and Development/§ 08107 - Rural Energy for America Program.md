@@ -190,7 +190,7 @@ The Secretary shall ensure, to the maximum extent practicable, that adequate out
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), of the funds made available for each fiscal year underparagraph (1), 4 percent shall be available to carry out subsection (b).
+&emsp;&emsp;Subject to subparagraph (B), of the funds made available for each fiscal year under paragraph (1), 4 percent shall be available to carry out subsection (b).
 
 #### (B) Other use
 

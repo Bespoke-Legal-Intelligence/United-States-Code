@@ -2,7 +2,7 @@
 
 As used in this subchapter:
 
-&emsp;(1) The terms "foreign power", "agent of a foreign power", "international terrorism", "foreign intelligence information", "Attorney General", "United States person", "United States", "person", and "State" shall have the same meanings as in section 1801 of this title.
+&emsp;(1) The terms "foreign power", "agent of a foreign power", "international terrorism", "foreign intelligence information", "AttorneyGeneral", "United States person", "United States", "person", and "State" shall have the same meanings as in section 1801 of this title.
 
 &emsp;(2) The terms "pen register" and "trap and trace device" have the meanings given such terms in section 3127 of title 18.
 

@@ -8,7 +8,7 @@ The Secretary shall, subject to appropriations, make grants pursuant to this sub
 
 Grants made pursuant to this subchapter shall go into the general operating funds of the institution to defray, at the determination of the tribally controlled college or university, expenditures for academic, educational, and administrative purposes and for the operation and maintenance of the college or university. Funds provided pursuant to this subchapter shall not be used in connection with religious worship or sectarian instruction.
 
-(Pub. L. 95–471, title I, §102, Oct. 17, 1978, 92 Stat. 1326; Pub. L. 98–192, §3(a), Dec. 1, 1983, 97 Stat. 1336; Pub. L. 105–244, title IX, §901(b)(5), (6), (12), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title I, §102, Oct. 17, 1978, 92 Stat. 1326; Pub. L. 98–192, §3(a), Dec. 1, 1983, 97 Stat.1336; Pub. L. 105–244, title IX, §901(b)(5), (6), (12), Oct. 7, 1998, 112 Stat. 1828.)
 
 #### <b>Editorial Notes</b>
 

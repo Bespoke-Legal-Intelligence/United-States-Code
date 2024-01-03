@@ -146,7 +146,7 @@ Obligations issued before July 2, 1982, by certain issuers.—Any obligation iss
 
 <b>1988</b>—Subsec. (a)(2)(A)(ii). Pub. L. 100–647 substituted "subsection (a)(7)" for "subsection (a)(6)".
 
-<b>1986</b>—Subsec. (a)(3)(B). Pub. L. 99–514, §1803(a)(3), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: "For purposes of this paragraph, the term 'short-term Government obligation' means any obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia which is—
+<b>1986</b>—Subsec. (a)(3)(B). Pub. L. 99–514, §1803(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "For purposes of this paragraph, the term 'short-term Government obligation' means any obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia which is—
 
 &emsp;"(i) issued on a discount basis, and
 
@@ -406,7 +406,7 @@ New section 38 property.—This subparagraph shall not apply to the sale or exch
 
 &emsp;&emsp;&emsp;"(iv)
 
-Sale of business real estate.—Any sale or exchange of any real property used in an active trade or business by a person who would be aqualified person if he disposed of his entire interest.
+Sale of business real estate.—Any sale or exchange of any real property used in an active trade or business by a person who would be a qualified person if he disposed of his entire interest.
 
 &nbsp;&nbsp;This subparagraph shall not apply to any transaction described in the last sentence of paragraph (6)(B) (relating to transaction in excess of $100,000,000).
 

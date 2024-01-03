@@ -26,7 +26,7 @@ Term.—Each Senior Technical Authority shall be designated for a fixed term, no
 
 &emsp;(4)
 
-Voluntary departure.—If an individual designated as a Senior Technical Authorityvoluntarily departs the position before demonstrated successful performance of the class of vessels concerned, the Secretary shall designate, in writing, a replacement, and shall notify, in writing, the congressional defense committees not later than 90 days after such departure.
+Voluntary departure.—If an individual designated as a Senior Technical Authority voluntarily departs the position before demonstrated successful performance of the class of vessels concerned, the Secretary shall designate, in writing, a replacement, and shall notify, in writing, the congressional defense committees not later than 90 days after such departure.
 
 &emsp;(5)
 
@@ -60,7 +60,7 @@ Certification elements.—The certification on a class of naval vessels describe
 
 &emsp;&emsp;(D) The date on which the Senior Technical Authority approved the systems engineering, engineering development, and land-based engineering and testing plans for such class of vessels.
 
-&emsp;&emsp;(E) A description by the Senior Technical Authority of the key technical knowledge objectives and demonstrated system performance of each plan approved as described in subparagraph (D).
+&emsp;&emsp;(E) A description by the Senior Technical Authority of the key technical knowledgeobjectives and demonstrated system performance of each plan approved as described in subparagraph (D).
 
 &emsp;&emsp;(F) A determination by the Senior Technical Authority that such plans are sufficient to achieve thorough technical knowledge of critical systems of such class of vessels before the start of detail design and construction.
 

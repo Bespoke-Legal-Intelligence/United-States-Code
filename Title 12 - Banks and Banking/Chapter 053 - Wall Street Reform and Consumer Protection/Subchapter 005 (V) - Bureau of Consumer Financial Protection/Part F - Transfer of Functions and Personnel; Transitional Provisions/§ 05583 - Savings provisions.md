@@ -40,7 +40,7 @@ Section 5581(b)(5) of this title does not affect the validity of any right, duty
 
 #### (1) Existing rights, duties, and obligations not affected
 
-&emsp;Section 5581(b)(6) of this title does not affect the validity of any right, duty, or obligation of the United States, the National Credit Union Administration, the National Credit Union Administration Board, or any other person, that—
+&emsp;Section 5581(b)(6) of this title does not affect the validity of any right, duty, or obligation ofthe United States, the National Credit Union Administration, the National Credit Union Administration Board, or any other person, that—
 
 &emsp;&emsp;(A) arises under any provision of law relating to any consumer financial protection function of the National Credit Union Administration transferred to the Bureau by this title; <sup>1</sup> and
 
@@ -96,7 +96,7 @@ Section 5581(b)(5) of this title does not affect the validity of any right, duty
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2) and under subsection (i), all orders, resolutions, determinations, agreements, and rulings that have been issued, made, prescribed, or allowed to become effective by any transferor agency or by a court of competent jurisdiction, in the performance of consumer financial protection functions that are transferred by this title <sup>1</sup> and that are in effect on the day before the designated transfer date, shall continue in effect, and shall continue to be enforceable by the appropriate transferor agency, according to the terms of those orders, resolutions, determinations, agreements, and rulings, and shall not be enforceable by or against the Bureau.
+&emsp;Except as provided in paragraph (2) and under subsection (i), all orders, resolutions, determinations, agreements, and rulings that have been issued, made, prescribed, or allowed to become effective by any transferor agency or by a court of competent jurisdiction, in the performance of consumer financial protectionfunctions that are transferred by this title <sup>1</sup> and that are in effect on the day before the designated transfer date, shall continue in effect, and shall continue to be enforceable by the appropriate transferor agency, according to the terms of those orders, resolutions, determinations, agreements, and rulings, and shall not be enforceable by or against the Bureau.
 
 #### (2) Exception for orders applicable to persons described in section 5515(a) of this title
 

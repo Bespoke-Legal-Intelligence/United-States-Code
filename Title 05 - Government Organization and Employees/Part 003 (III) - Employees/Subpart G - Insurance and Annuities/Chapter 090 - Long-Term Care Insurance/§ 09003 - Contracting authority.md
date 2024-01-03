@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Office of Personnel Management shall, without regard to section 6101(b)to (d) of title 41 or any other statute requiring competitive bidding, contract with one or more qualified carriers for a policy or policies of long-term care insurance. The Office shall ensure that each resulting contract (hereafter in this chapter referred to as a "master contract") is awarded on the basis of contractor qualifications, price, and reasonable competition.
+In General.—The Office of Personnel Management shall, without regard to section 6101(b) to (d) of title 41 or any other statute requiring competitive bidding, contract with one or more qualified carriers for a policy or policies of long-term care insurance. The Office shall ensure that each resulting contract (hereafter in this chapter referred to as a "master contract") is awarded on the basis of contractor qualifications, price, and reasonable competition.
 
 (b)
 
@@ -46,7 +46,7 @@ In general.—Each master contract under this chapter shall require the carrier 
 
 &emsp;(2)
 
-Eligibility.—A carrier's determination as to whether or not a particular individual is eligible to obtain long-term care insurance coverage under this chapter shall be subject to review only to the extent and in the manner provided in the applicable master contract.
+Eligibility.—A carrier's determination as to whether or not a particular individual iseligible to obtain long-term care insurance coverage under this chapter shall be subject to review only to the extent and in the manner provided in the applicable master contract.
 
 &emsp;(3)
 
@@ -90,7 +90,7 @@ Full portability.—Each master contract under this chapter shall include such p
 
 (e)
 
-Effect of Government Shutdown.—Coverage under a master contract under this chapter for long-term care insurance for an employeeor member of the uniformed services enrolled under such contract and who, due to a lapse in appropriations, is furloughed or excepted from furlough and working without pay shall continue during such lapse and may not be cancelled as a result of nonpayment of premiums or other periodic charges due to such lapse.
+Effect of Government Shutdown.—Coverage under a master contract under this chapter for long-term care insurance for an employee or member of the uniformed services enrolled under such contract and who, due to a lapse in appropriations, is furloughed or excepted from furlough and working without pay shall continue during such lapse and may not be cancelled as a result of nonpayment of premiums or other periodic charges due to such lapse.
 
 (Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 764; amended Pub. L. 111–350, §5(a)(18), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 116–92, div. A, title XI, §1111(a)(3), Dec. 20, 2019, 133 Stat. 1601.)
 
@@ -112,7 +112,7 @@ Subsec. (c)(3)(B). Pub. L. 111–350, §5(a)(18)(D), substituted "section 7104(b
 
 #### Change of Name
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

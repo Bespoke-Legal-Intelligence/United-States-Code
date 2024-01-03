@@ -56,7 +56,7 @@ With respect to training provided for under this section, the Secretary shall gi
 
 &emsp;(6) Qualified applicants that include educational activities in cultural competency and health literacy.
 
-&emsp;(7) Qualified applicants that have a high rate for placing graduates in practice settings that serve underserved areas or health disparitypopulations, or who achieve a significant increase in the rate of placing graduates in such settings.
+&emsp;(7) Qualified applicants that have a high rate for placing graduates in practice settings that serve underserved areas or health disparity populations, or who achieve a significant increase in the rate of placing graduates in such settings.
 
 &emsp;(8) Qualified applicants that intend to establish a special populations oral health care education center or training program for the didactic and clinical education of dentists, dental health professionals, and dental hygienists who plan to teach oral health care for people with developmental disabilities, cognitive impairment, complex medical problems, significant physical limitations, and vulnerable elderly.
 

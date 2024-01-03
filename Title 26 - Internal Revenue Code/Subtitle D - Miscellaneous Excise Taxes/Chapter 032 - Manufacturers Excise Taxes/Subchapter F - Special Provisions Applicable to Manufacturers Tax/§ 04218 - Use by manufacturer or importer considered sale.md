@@ -12,7 +12,7 @@ If any person manufactures, produces, or imports a tire taxable under section 40
 
 Except as provided in section 4223(b), in any case in which a person is made liable for tax by the preceding provisions of this section, the tax (if based on the price for which the article is sold) shall be computed on the price at which such or similar articles are sold, in the ordinary course of trade, by manufacturers, producers, or importers, thereof, as determined by the Secretary.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 494; Aug. 11, 1955, ch. 805, §1(a), (b), 69 Stat. 689; Pub. L. 85–859, title I, §118, Sept. 2, 1958, 72 Stat. 1281; Pub. L. 86–418, §2(a), Apr. 8, 1960, 74 Stat. 38; Pub. L. 87–61, title II, §205(b), June 29, 1961, 75 Stat. 126; Pub. L. 89–44, title II, §208(c), June 21, 1965, 79 Stat. 141; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, §2(b)(1), Feb. 10, 1978, 92 Stat. 11; Pub. L. 98–369, div. A, title VII, §735(c)(7), July 18, 1984, 98 Stat. 983.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 494; Aug. 11, 1955, ch. 805, §1(a), (b), 69 Stat. 689; Pub. L. 85–859, title I, §118, Sept. 2, 1958, 72 Stat. 1281; Pub. L. 86–418, §2(a), Apr. 8, 1960, 74 Stat. 38; Pub. L. 87–61, title II, §205(b), June 29, 1961, 75 Stat. 126; Pub. L. 89–44, title II, §208(c), June 21, 1965, 79 Stat. 141; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, §2(b)(1), Feb. 10, 1978, 92 Stat. 11; Pub. L.98–369, div. A, title VII, §735(c)(7), July 18, 1984, 98 Stat. 983.)
 
 #### <b>Editorial Notes</b>
 

@@ -18,7 +18,7 @@ Each update shall address the following:
 
 &emsp;(3) Cooperating and coordinating with Federal departments and agencies, and State and local agencies, in the maritime environment, in support of maritime security missions.
 
-&emsp;(4) Highlighting the work completed within the context of other national and Departmentmaritime security strategic guidance and how that work fits with the Maritime Operations Coordination Plan.
+&emsp;(4) Highlighting the work completed within the context of other national and Department maritime security strategic guidance and how that work fits with the Maritime Operations Coordination Plan.
 
 (Pub. L. 107–296, title IV, §435, as added Pub. L. 115–254, div. J, §1807(a), Oct. 5, 2018, 132 Stat. 3536.)
 

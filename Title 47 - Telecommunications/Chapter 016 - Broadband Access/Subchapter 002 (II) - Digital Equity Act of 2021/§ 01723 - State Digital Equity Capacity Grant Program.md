@@ -396,7 +396,7 @@ When applying for a grant under this section, a State shall include in the appli
 
 #### (1) In general
 
-&emsp;The Assistant Secretary shall terminate a grant awarded to an eligible State under thissection if, after notice to the State and opportunity for a hearing, the Assistant Secretary—
+&emsp;The Assistant Secretary shall terminate a grant awarded to an eligible State under this section if, after notice to the State and opportunity for a hearing, the Assistant Secretary—
 
 &emsp;&emsp;(A) presents to the State a rationale and supporting information that clearly demonstrates that—
 
@@ -468,7 +468,7 @@ From amounts made available in a fiscal year to carry out the Program, the Assis
 
 &emsp;&emsp;(C) developing the report required under section 1725(a) of this title;
 
-&emsp;(2) not less than 5 percent to award grants to, or enter into contracts or cooperative agreements with, Indian Tribes, Alaska Native entities, and Native Hawaiian organizations to allow those tribes, entities, and organizations to carry out the activities described in this section; and
+&emsp;(2) not less than 5 percent to award grants to, or enter into contracts or cooperativeagreements with, Indian Tribes, Alaska Native entities, and Native Hawaiian organizations to allow those tribes, entities, and organizations to carry out the activities described in this section; and
 
 &emsp;(3) not less than 1 percent to award grants to, or enter into contracts or cooperative agreements with, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States that is not a State to enable those entities to carry out the activities described in this section.
 

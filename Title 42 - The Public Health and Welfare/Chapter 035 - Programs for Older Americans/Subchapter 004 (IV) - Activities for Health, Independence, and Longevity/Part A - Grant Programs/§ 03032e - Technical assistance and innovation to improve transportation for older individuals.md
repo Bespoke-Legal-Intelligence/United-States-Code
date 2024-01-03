@@ -8,7 +8,7 @@ The Secretary may award grants or contracts to nonprofit organizations to improv
 
 #### (1) In general
 
-&emsp;A nonprofit organization receiving a grant or contract under subsection (a) shall use the funds received through such grant or contract to carry out a demonstration project, or to provide technical assistance to assist local transit providers, area agencies on aging, senior centers, and local senior support groups, to encourage and facilitate coordination of Federal, State, and local transportation services and resources for older individuals. The organization may use the funds to develop and carry out an innovative transportation demonstration project to create transportation services for older individuals.
+&emsp;A nonprofit organization receiving a grant or contract under subsection (a) shall use thefunds received through such grant or contract to carry out a demonstration project, or to provide technical assistance to assist local transit providers, area agencies on aging, senior centers, and local senior support groups, to encourage and facilitate coordination of Federal, State, and local transportation services and resources for older individuals. The organization may use the funds to develop and carry out an innovative transportation demonstration project to create transportation services for older individuals.
 
 #### (2) Specific activities
 
@@ -18,7 +18,7 @@ The Secretary may award grants or contracts to nonprofit organizations to improv
 
 &emsp;&emsp;(B) preparing information on transportation options and resources for older individuals and organizations serving such individuals, and disseminating the information by establishing and operating a toll-free telephone number, call center, website or Internet-based portal, mobile application, or other technological tools;
 
-&emsp;&emsp;(C) developing models and best practices for providing comprehensive integrated transportation services for older individuals, including services administered by the Secretary of Transportation, by providing ongoing technical assistance to agencies providing services under subchapter III and byassisting in coordination of public and community transportation services;
+&emsp;&emsp;(C) developing models and best practices for providing comprehensive integrated transportation services for older individuals, including services administered by the Secretary of Transportation, by providing ongoing technical assistance to agencies providing services under subchapter III and by assisting in coordination of public and community transportation services;
 
 &emsp;&emsp;(D)(i) improving the aggregation, availability, and accessibility of information on options for transportation services for older individuals, including information on public transit, on-demand transportation services, volunteer-based transportation services, and other private transportation providers; and
 

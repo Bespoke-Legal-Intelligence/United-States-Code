@@ -8,7 +8,7 @@ The purpose of the Association shall be to provide a mechanism through which lic
 
 &emsp;(3) supervising and disciplining resident and nonresident insurance producers;
 
-&emsp;(4) establishing licensing fees for resident and nonresident insurance producers so thatthere is no loss of insurance producer licensing revenue to the State; and
+&emsp;(4) establishing licensing fees for resident and nonresident insurance producers so that there is no loss of insurance producer licensing revenue to the State; and
 
 &emsp;(5) prescribing and enforcing laws and regulations regulating the conduct of resident and nonresident insurance producers.
 

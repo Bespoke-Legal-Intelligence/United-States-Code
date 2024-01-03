@@ -6,7 +6,7 @@ Use of Appropriated Funds.—The Director of the National Geospatial-Intelligenc
 
 (b)
 
-Use of Funds Other Than Appropriated Funds.—The Director may use funds other than appropriated funds to provide foreign countries with imagery intelligence and geospatial information support, notwithstanding provisions of law relating to the expenditure of funds of the United States, except that—
+Use of Funds Other Than Appropriated Funds.—The Director may use funds other thanappropriated funds to provide foreign countries with imagery intelligence and geospatial information support, notwithstanding provisions of law relating to the expenditure of funds of the United States, except that—
 
 &emsp;(1) no such funds may be expended, in whole or in part, by or for the benefit of the National Geospatial-Intelligence Agency for a purpose for which Congress had previously denied funds;
 
@@ -44,7 +44,7 @@ Subsec. (a). Pub. L. 112–239, §921(a), substituted "foreign countries, region
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made bysection 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 #### Effective Date
 

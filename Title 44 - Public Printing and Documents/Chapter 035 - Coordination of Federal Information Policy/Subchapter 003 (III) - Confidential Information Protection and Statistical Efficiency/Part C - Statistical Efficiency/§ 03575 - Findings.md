@@ -20,7 +20,7 @@ The Congress finds the following:
 
 #### References in Text
 
-The International Investment and Trade in Services Survey Act, referred to in par. (5), is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, which is classified generally to chapter 46 (§3101 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 22 and Tables.
+The International Investment and Trade in Services Survey Act, referred to in par. (5), is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, which is classified generally to chapter 46 (§3101 et seq.) of Title 22, Foreign Relationsand Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 22 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

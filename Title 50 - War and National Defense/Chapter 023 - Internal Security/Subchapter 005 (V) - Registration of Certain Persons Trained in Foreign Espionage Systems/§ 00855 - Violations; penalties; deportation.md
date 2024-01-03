@@ -10,7 +10,7 @@
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (b), is act June 27, 1952, ch. 477, 66 Stat. 163. Chapter 4 of title II of the Act is classified generally to part IV (§1221 et seq.) of subchapter II of chapter 12 of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b), is act June 27, 1952, ch. 477, 66 Stat. 163.Chapter 4 of title II of the Act is classified generally to part IV (§1221 et seq.) of subchapter II of chapter 12 of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Codification
 
@@ -24,7 +24,7 @@ Section was not enacted as part of the Internal Security Act of 1950 which compr
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the firstmonth beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
+Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "makes".</i>
 

@@ -10,7 +10,7 @@ In general.—The Secretary of Transportation may make grants for technical assi
 
 &emsp;(2)
 
-Demonstration grants.—At least the first 3 grants awarded under this section shallbe demonstration grants for the purpose of demonstrating and evaluating the utility of grants under this section. Each such demonstration grant shall not exceed $25,000.
+Demonstration grants.—At least the first 3 grants awarded under this section shall be demonstration grants for the purpose of demonstrating and evaluating the utility of grants under this section. Each such demonstration grant shall not exceed $25,000.
 
 &emsp;(3)
 

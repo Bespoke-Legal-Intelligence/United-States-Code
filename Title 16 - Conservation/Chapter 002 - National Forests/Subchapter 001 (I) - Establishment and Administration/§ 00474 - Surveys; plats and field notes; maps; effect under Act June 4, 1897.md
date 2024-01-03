@@ -20,7 +20,7 @@ Act June 4, 1897, chapter 2, section 1, referred to in text, is act June 4, 1897
 
 #### Transfer of Functions
 
-"Field Surveying Service" substituted in text for "office of surveyors-general" by act Mar. 3, 1925. Subsequently, the Service was abolished and its functions transferred to Secretary of the Interior by Reorg. Plan No. 3 of 1946, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
+"Field Surveying Service" substituted in text for "office of surveyors-general" by act Mar. 3, 1925. Subsequently, the Service was abolished and its functions transferred to Secretary of the Interior by Reorg. Plan No. 3 of 1946, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat.1100, set out in the Appendix to Title 5, Government Organization and Employees.
 
 "Secretary of the Interior or such officer as he may designate" substituted in text for "Commissioner of the General Land Office" on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.
 

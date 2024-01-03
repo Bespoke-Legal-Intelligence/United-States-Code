@@ -14,7 +14,7 @@ The Association shall—
 
 &emsp;(3) be an independent organization that may not be merged with or into any other private or public entity; and
 
-&emsp;(4) except as otherwise provided in this subchapter, be subject to, and have all the powers conferred upon, a nonprofit corporation by the District of Columbia Nonprofit Corporation Act (D.C. Code, sec. 29–301.01 et seq.) or any successor thereto.
+&emsp;(4) except as otherwise provided in this subchapter, be subject to, and have all the powersconferred upon, a nonprofit corporation by the District of Columbia Nonprofit Corporation Act (D.C. Code, sec. 29–301.01 et seq.) or any successor thereto.
 
 (Pub. L. 106–102, title III, §321, as added Pub. L. 114–1, title II, §202(a), Jan. 12, 2015, 129 Stat. 13.)
 

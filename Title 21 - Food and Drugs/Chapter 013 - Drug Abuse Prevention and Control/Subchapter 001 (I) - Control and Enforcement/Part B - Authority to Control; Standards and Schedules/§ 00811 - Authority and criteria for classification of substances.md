@@ -12,7 +12,7 @@ The Attorney General shall apply the provisions of this subchapter to the contro
 
 &emsp;(2) remove any drug or other substance from the schedules if he finds that the drug or other substance does not meet the requirements for inclusion in any schedule.
 
-> Rules of the Attorney General under this subsection shall be made on the record after opportunity for a hearing pursuant to the rulemaking procedures prescribed by subchapter II of chapter 5 of title 5. Proceedings for the issuance, amendment, or repeal of such rules may be initiated by the Attorney General (1) on his own motion, (2) at the request of the Secretary, or (3) on the petition of any interested party.
+> Rules of the Attorney General under this subsection shall be made on the record after opportunity for a hearing pursuant to the rulemakingprocedures prescribed by subchapter II of chapter 5 of title 5. Proceedings for the issuance, amendment, or repeal of such rules may be initiated by the Attorney General (1) on his own motion, (2) at the request of the Secretary, or (3) on the petition of any interested party.
 
 #### (b) Evaluation of drugs and other substances
 
@@ -52,7 +52,7 @@ In making any finding under subsection (a) of this section or under subsection (
 
 &emsp;(B) If such requirements are not met by such existing controls and the Secretary of Health and Human Services concurs in the scheduling decision or schedule notice transmitted by the notification, the Secretary shall recommend to the Attorney General that he initiate proceedings for scheduling the drug or substance under the appropriate schedule pursuant to subsections (a) and (b) of this section.
 
-&emsp;(C) If such requirements are not met by such existing controls and the Secretary of Healthand Human Services does not concur in the scheduling decision or schedule notice transmitted by the notification, the Secretary shall—
+&emsp;(C) If such requirements are not met by such existing controls and the Secretary of Health and Human Services does not concur in the scheduling decision or schedule notice transmitted by the notification, the Secretary shall—
 
 &emsp;&emsp;(i) if he deems that additional controls are necessary to protect the public health and safety, recommend to the Attorney General that he initiate proceedings for scheduling the drug or substance pursuant to subsections (a) and (b) of this section, to apply such additional controls;
 
@@ -68,13 +68,13 @@ In making any finding under subsection (a) of this section or under subsection (
 
 &emsp;(i) the decision is reversed, and
 
-&emsp;(ii) the drug or substance subject to such decision is not required to be controlled under schedule IV or V to carry out the minimum United States obligations under paragraph 7 of article 2 of the Convention,
+&emsp;(ii) the drug or substance subject to such decision is not required to be controlled under schedule IV or V to carry out the minimumUnited States obligations under paragraph 7 of article 2 of the Convention,
 
 > the order issued under this subparagraph with respect to such drug or substance shall expire upon receipt by the United States of the review decision. If, as a result of action taken pursuant to action initiated under a request transmitted under clause (iv) of paragraph (3)(C), the drug or substance with respect to which such action was taken is not required to be controlled under schedule IV or V, the order issued under this paragraph with respect to such drug or substance shall expire upon receipt by the United States of a notice of the action taken with respect to such drug or substance under the Convention.
 
 (C) An order issued under subparagraph (A) or (B) may be issued without regard to the findings required by subsection (a) of this section or by section 812(b) of this title and without regard to the procedures prescribed by subsection (a) or (b) of this section.
 
-(5) Nothing in the amendments made by the Psychotropic Substances Act of 1978 or the regulations or orders promulgated thereunder shall be construed to preclude requests by the Secretary of Health and Human Services or the Attorney General through the Secretary of State, pursuant to article 2 or other applicable provisions of the Convention, for review of schedulingdecisions under such Convention, based on new or additional information.
+(5) Nothing in the amendments made by the Psychotropic Substances Act of 1978 or the regulations or orders promulgated thereunder shall be construed to preclude requests by the Secretary of Health and Human Services or the Attorney General through the Secretary of State, pursuant to article 2 or other applicable provisions of the Convention, for review of scheduling decisions under such Convention, based on new or additional information.
 
 #### (e) Immediate precursors
 
@@ -108,7 +108,7 @@ If, at the time a new-drug application is submitted to the Secretary for any dru
 
 (2) The scheduling of a substance under this subsection shall expire at the end of 2 years from the date of the issuance of the order scheduling such substance, except that the Attorney General may, during the pendency of proceedings under subsection (a)(1) with respect to the substance, extend the temporary scheduling for up to 1 year.
 
-(3) When issuing an order under paragraph (1), the Attorney General shall be required to consider, with respect to the finding of an imminent hazard to the public safety, only those factors set forth in paragraphs (4), (5), and (6) of subsection (c), including actual abuse, diversion from legitimate channels, and clandestine importation, manufacture, or distribution.
+(3) When issuing an order under paragraph (1), the Attorney General shall be required to consider, with respect to the finding of an imminent hazard to the public safety, only those factorsset forth in paragraphs (4), (5), and (6) of subsection (c), including actual abuse, diversion from legitimate channels, and clandestine importation, manufacture, or distribution.
 
 (4) The Attorney General shall transmit notice of an order proposed to be issued under paragraph (1) to the Secretary of Health and Human Services. In issuing an order under paragraph (1), the Attorney General shall take into consideration any comments submitted by the Secretary in response to a notice transmitted pursuant to this paragraph.
 
@@ -120,7 +120,7 @@ If, at the time a new-drug application is submitted to the Secretary for any dru
 
 (1) The Attorney General may issue a temporary order adding a drug or other substance to the definition of anabolic steroids if the Attorney General finds that—
 
-&emsp;(A) the drug or other substance satisfies the criteria for being considered an anabolic steroid under section 802(41) of this title but is not listed in that section or by regulation of theAttorney General as being an anabolic steroid; and
+&emsp;(A) the drug or other substance satisfies the criteria for being considered an anabolic steroid under section 802(41) of this title but is not listed in that section or by regulation of the Attorney General as being an anabolic steroid; and
 
 &emsp;(B) adding such drug or other substance to the definition of anabolic steroids will assist in preventing abuse or misuse of the drug or other substance.
 
@@ -158,7 +158,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(3) and (g)
 
 Schedules I, II, III, IV, and V, referred to in subsecs. (d)(4)(A), (B), (h)(1), and (j)(1), are set out in section 812(c) of this title.
 
-The Psychotropic Substances Act of 1978, referred to in subsec. (d)(5), is Pub. L. 95–633, Nov. 10, 1978, 92 Stat. 3768, which enacted sections 801a, 830, and 852 of this title, amended sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and section 242a of Title 42, The Public Health and Welfare, repealed section 830 of this title effective Jan. 1, 1981, and enacted provisions set out as notes under sections 801, 801a, 812, and 830 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 801 of this title and Tables.
+The Psychotropic Substances Act of 1978, referred to in subsec. (d)(5), is Pub. L. 95–633, Nov. 10, 1978, 92 Stat.3768, which enacted sections 801a, 830, and 852 of this title, amended sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and section 242a of Title 42, The Public Health and Welfare, repealed section 830 of this title effective Jan. 1, 1981, and enacted provisions set out as notes under sections 801, 801a, 812, and 830 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 801 of this title and Tables.
 
 This subchapter and subchapter II of this chapter, referred to in subsec. (g)(1), was in the original "titles II and III of the Comprehensive Drug Abuse Prevention and Control Act", which was translated as meaning titles II and III of the Comprehensive Drug Abuse Prevention and Control Act of 1970, Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, 1285, to reflect the probable intent of Congress. Title II is classified principally to this subchapter and part A of title III comprises subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title notes set out under section 801 of this title and Tables.
 

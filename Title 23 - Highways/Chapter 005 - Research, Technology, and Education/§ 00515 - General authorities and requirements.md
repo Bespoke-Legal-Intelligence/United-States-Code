@@ -104,7 +104,7 @@ Membership.—The Advisory Committee shall have no more than 25 members, be bala
 
 &emsp;&emsp;(R) an expert in traffic management;
 
-&emsp;&emsp;(S) a representative from a public interest group concerned with the impact of the transportation system on land use and residential patterns;
+&emsp;&emsp;(S) a representative from a public interest group concerned with the impact of thetransportation system on land use and residential patterns;
 
 &emsp;&emsp;(T) a representative from a public interest group concerned with the impact of the transportation system on terrestrial and aquatic species and the habitat of those species; and
 

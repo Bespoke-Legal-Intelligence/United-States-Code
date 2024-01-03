@@ -14,7 +14,7 @@ The Architect of the Capitol may lease space under subsection (a) upon submissio
 
 &emsp;(1) the Committees on Appropriations and Rules and Administration of the Senate for space to be leased for the Senate;
 
-&emsp;(2) the Committee on Appropriations of the House of Representatives and the House Office Building Commission for space to be leased for the House of Representatives; and
+&emsp;(2) the Committee on Appropriations of the House of Representatives and the House OfficeBuilding Commission for space to be leased for the House of Representatives; and
 
 &emsp;(3) the Committees on Appropriations of the Senate and House of Representatives, for space to be leased for any other entity under subsection (a).
 

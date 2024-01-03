@@ -4,7 +4,7 @@
 
 In General.—Whoever knowingly—
 
-&emsp;(1) directly or indirectly, corruptly gives, offers, or promises anything of value to any public or private person, with intent to commit international terrorism or domestic terrorism\(as those terms are defined under section 2331), to—
+&emsp;(1) directly or indirectly, corruptly gives, offers, or promises anything of value to any public or private person, with intent to commit international terrorism or domestic terrorism (as those terms are defined under section 2331), to—
 
 &emsp;&emsp;(A) influence any action or any person to commit or aid in committing, or collude in, or allow, any fraud, or make opportunity for the commission of any fraud affecting any secure or restricted area or seaport; or
 

@@ -222,7 +222,7 @@ Pub. L. 111–31, div. A, §2, June 22, 2009, 123 Stat. 1776, provided that: "Th
 
 &emsp;"(31) The regulations described in paragraph (30) will directly and materially advance the Federal Government's substantial interest in reducing the number of children and adolescents who use cigarettes and smokeless tobacco and in preventing the life-threatening health consequences associated with tobacco use. An overwhelming majority of Americans who use tobacco products begin using such products while they are minors and become addicted to the nicotine in those products before reaching the age of 18. Tobacco advertising and promotion play a crucial role in the decision of these minors to begin using tobacco products. Less restrictive and less comprehensive approaches have not \[been\] and will not be effective in reducing the problems addressed by such regulations. The reasonable restrictions on the advertising and promotion of tobacco products contained in such regulations will lead to a significant decrease in the number of minors using and becoming addicted to those products.
 
-&emsp;"(32) The regulations described in paragraph (30) impose no more extensive restrictions on communication by tobacco manufacturers and sellers than are necessary to reduce the number of children and adolescents who use cigarettes and smokeless tobacco and to prevent the life-threatening health consequences associated with tobacco use. Such regulations are narrowly tailored to restrict those advertising and promotional practices which are most likely to be seen or heard by youth and most likely to entice them into tobacco use, while affording tobacco manufacturers and sellers ample opportunity to convey information about their products to adult consumers.
+&emsp;"(32) The regulations described in paragraph (30) impose no more extensive restrictions on communication by tobacco manufacturers and sellers thanare necessary to reduce the number of children and adolescents who use cigarettes and smokeless tobacco and to prevent the life-threatening health consequences associated with tobacco use. Such regulations are narrowly tailored to restrict those advertising and promotional practices which are most likely to be seen or heard by youth and most likely to entice them into tobacco use, while affording tobacco manufacturers and sellers ample opportunity to convey information about their products to adult consumers.
 
 &emsp;"(33) Tobacco dependence is a chronic disease, one that typically requires repeated interventions to achieve long-term or permanent abstinence.
 
@@ -238,7 +238,7 @@ Pub. L. 111–31, div. A, §2, June 22, 2009, 123 Stat. 1776, provided that: "Th
 
 &emsp;"(39) Recent studies have demonstrated that there has been no reduction in risk on a population-wide basis from 'low tar' and 'light' cigarettes, and such products may actually increase the risk of tobacco use.
 
-&emsp;"(40) The dangers of products sold or distributed as modified risk tobacco products that do not in fact reduce risk are so high that there is a compelling governmental interest in ensuring that statements aboutmodified risk tobacco products are complete, accurate, and relate to the overall disease risk of the product.
+&emsp;"(40) The dangers of products sold or distributed as modified risk tobacco products that do not in fact reduce risk are so high that there is a compelling governmental interest in ensuring that statements about modified risk tobacco products are complete, accurate, and relate to the overall disease risk of the product.
 
 &emsp;"(41) As the Federal Trade Commission has found, consumers have misinterpreted advertisements in which one product is claimed to be less harmful than a comparable product, even in the presence of disclosures and advisories intended to provide clarification.
 
@@ -262,7 +262,7 @@ Pub. L. 111–31, div. A, §2, June 22, 2009, 123 Stat. 1776, provided that: "Th
 
 Pub. L. 111–31, div. A, §3, June 22, 2009, 123 Stat. 1781, provided that: "The purposes of this division \[see Short Title of 2009 Amendment note set out under section 301 of this title\] are—
 
-&emsp;"(1) to provide authority to the Food and Drug Administration to regulate tobacco products under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), by recognizing it as the primary Federal regulatory authority with respect to the manufacture, marketing, and distribution of tobacco products as provided for in this division;
+&emsp;"(1) to provide authority to the Food and Drug Administration to regulate tobacco products under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), by recognizing it as the primary Federal regulatory authority with respect to the manufacture,marketing, and distribution of tobacco products as provided for in this division;
 
 &emsp;"(2) to ensure that the Food and Drug Administration has the authority to address issues of particular concern to public health officials, especially the use of tobacco by young people and dependence on tobacco;
 
@@ -300,7 +300,7 @@ Limitation.—Subsection (a) shall only apply with respect to obligations of the
 
 "(b)
 
-Date Described.—The date described in this subsection is the first day of the first fiscal quarter following the initial 2 consecutive fiscal quarters of fiscalyear 2010 for which the Secretary of Health and Human Services has collected fees under section 919 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 387s\] (as added by section 101).
+Date Described.—The date described in this subsection is the first day of the first fiscal quarter following the initial 2 consecutive fiscal quarters of fiscal year 2010 for which the Secretary of Health and Human Services has collected fees under section 919 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 387s\] (as added by section 101).
 
 "(c)
 

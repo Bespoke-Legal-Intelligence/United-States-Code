@@ -8,7 +8,7 @@
 | [12684\.](%C2%A7%2012684%20-%20Reserves%20separation%20for%20absence%20without%20authority%20or%20sentence%20to%20imprisonment.md) | Reserves: separation for absence without authority or sentence to imprisonment. |
 | [12685\.](%C2%A7%2012685%20-%20Reserves%20separated%20for%20cause%20character%20of%20discharge.md) | Reserves separated for cause: character of discharge. |
 | [12686\.](%C2%A7%2012686%20-%20Reserves%20on%20active%20duty%20within%20two%20years%20of%20retirement%20eligibility%20limitation%20on%20release%20from%20active%20duty.md) | Reserves on active duty within two years of retirement eligibility: limitation on release from active duty. |
-| [12687\.](%C2%A7%2012687%20-%20Reserves%20under%20confinement%20by%20sentence%20of%20court-martial%20separation%20after%20six%20months%20confinement.md) | Reserves under confinement by sentence of court-martial: separation after six months confinement. |
+| [12687\.](%C2%A7%2012687%20-%20Reserves%20under%20confinement%20by%20sentence%20of%20court-martial%20separation%20after%20six%20months%20confinement.md) | Reserves under confinement by sentence of court-martial: separation after six months confinement.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

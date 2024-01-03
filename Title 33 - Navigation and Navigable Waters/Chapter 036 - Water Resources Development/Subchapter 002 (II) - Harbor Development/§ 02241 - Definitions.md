@@ -8,7 +8,7 @@ For purposes of this subchapter—
 
 #### (2) Eligible operations and maintenance
 
-&emsp;(A) Except as provided in subparagraph (B), the term "eligible operations and maintenance" means all Federal operations, maintenance, repair, and rehabilitation, including (i) maintenance dredging reasonably necessary to maintain the width and nominal depth of any harbor or inland harbor; (ii) the construction of dredged material disposal facilities that are necessary for the operation and maintenance of any harbor or inland harbor; (iii) dredging and disposing of contaminated sediments that are in or that affect the maintenance of Federal navigation channels; (iv) mitigating for impacts resulting from Federal navigation operation and maintenance activities; and (v) operating and maintaining dredged material disposal facilities.
+&emsp;(A) Except as provided in subparagraph (B), the term "eligible operations and maintenance" means all Federal operations, maintenance, repair, and rehabilitation, including (i) maintenance dredging reasonably necessary to maintain the width and nominal depth of any harbor or inland harbor; (ii) the construction of dredged material disposal facilities that are necessary for the operation and maintenance of any harbor or inland harbor; (iii) dredging and disposing of contaminated sediments thatare in or that affect the maintenance of Federal navigation channels; (iv) mitigating for impacts resulting from Federal navigation operation and maintenance activities; and (v) operating and maintaining dredged material disposal facilities.
 
 &emsp;(B) As applied to the Saint Lawrence Seaway, the term "eligible operations and maintenance" means all operations, maintenance, repair, and rehabilitation, including maintenance dredging reasonably necessary to keep such Seaway or navigation improvements operated or maintained by the Great Lakes St. Lawrence Seaway Development Corporation in operation and reasonable state of repair.
 
@@ -56,7 +56,7 @@ For purposes of this subchapter—
 
 #### (8) United States
 
-&emsp;The term "United States" means all areas included within the territorial boundaries ofthe United States, including the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory or possession over which the United States exercises jurisdiction.
+&emsp;The term "United States" means all areas included within the territorial boundaries of the United States, including the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory or possession over which the United States exercises jurisdiction.
 
 (Pub. L. 99–662, title II, §214, Nov. 17, 1986, 100 Stat. 4108; Pub. L. 104–303, title II, §201(e), Oct. 12, 1996, 110 Stat. 3672; Pub. L. 116–260, div. AA, title V, §512(c)(5)(C), Dec. 27, 2020, 134 Stat. 2756.)
 

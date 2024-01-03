@@ -60,7 +60,7 @@ FinCEN identifier.—The term "FinCEN identifier" means the unique identifying n
 
 &emsp;(7)
 
-Foreign person.—The term "foreign person" means a person who is not a UnitedStates person, as defined in section 7701(a) of the Internal Revenue Code of 1986.
+Foreign person.—The term "foreign person" means a person who is not a United States person, as defined in section 7701(a) of the Internal Revenue Code of 1986.
 
 &emsp;(8)
 
@@ -308,11 +308,11 @@ Reporting requirement for exempt entities having an ownership interest.—If an 
 
 &emsp;&emsp;(C)
 
-Reporting requirement for certain pooled investment vehicles.—Any corporation, limited liability company, or othersimilar entity that is an exempt entity described in subsection (a)(11)(B)(xviii) and is formed under the laws of a foreign country shall file with FinCEN a written certification that provides identification information of an individual that exercises substantial control over the pooled investment vehicle in the same manner as required under this subsection.
+Reporting requirement for certain pooled investment vehicles.—Any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xviii) and is formed under the laws of a foreign country shall file with FinCEN a written certification that provides identification information of an individual that exercises substantial control over the pooled investment vehicle in the same manner as required under this subsection.
 
 &emsp;&emsp;(D)
 
-Reporting requirement for exempt subsidiaries.—In accordance with the regulations promulgated by the Secretary, any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xxii), shall, at the time such entity no longer meets the criteria described in subsection (a)(11)(B)(xxii), submit to FinCEN a report containing the information required under subparagraph (A).
+Reporting requirement for exempt subsidiaries.—In accordance with the regulations promulgated by the Secretary, any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xxii), shall,at the time such entity no longer meets the criteria described in subsection (a)(11)(B)(xxii), submit to FinCEN a report containing the information required under subparagraph (A).
 
 &emsp;&emsp;(E)
 
@@ -462,11 +462,11 @@ Appropriate protocols.—The Secretary of the Treasury shall establish by regula
 
 &emsp;&emsp;&emsp;(v) who are authorized by agreement with the Secretary to access the information;
 
-&emsp;&emsp;(H) require the requesting agency to establish and maintain, to the satisfaction of the Secretary, a permanent system of standardized records with respect to an auditable trail of each request for beneficial ownership information submitted to the Secretary by the agency, including the reason for the request, the name of the individual who made the request, the date of the request, any disclosure of beneficial ownership informationmade by or to the agency, and any other information the Secretary of the Treasury determines is appropriate;
+&emsp;&emsp;(H) require the requesting agency to establish and maintain, to the satisfaction of the Secretary, a permanent system of standardized records with respect to an auditable trail of each request for beneficial ownership information submitted to the Secretary by the agency, including the reason for the request, the name of the individual who made the request, the date of the request, any disclosure of beneficial ownership information made by or to the agency, and any other information the Secretary of the Treasury determines is appropriate;
 
 &emsp;&emsp;(I) require that the requesting agency receiving beneficial ownership information from the Secretary conduct an annual audit to verify that the beneficial ownership information received from the Secretary has been accessed and used appropriately, and in a manner consistent with this paragraph and provide the results of that audit to the Secretary upon request;
 
-&emsp;&emsp;(J) require the Secretary to conduct an annual audit of the adherence of the agencies to the protocols established under this paragraph to ensure that agencies are requesting and using beneficial ownership information appropriately; and
+&emsp;&emsp;(J) require the Secretary to conduct an annual audit of the adherence of the agencies to the protocols established under this paragraph to ensure that agencies are requestingand using beneficial ownership information appropriately; and
 
 &emsp;&emsp;(K) provide such other safeguards which the Secretary determines (and which the Secretary prescribes in regulations) to be necessary or appropriate to protect the confidentiality of the beneficial ownership information.
 
@@ -542,13 +542,13 @@ Department of the treasury testimony.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than March 31 of each year for 5 years beginning in 2022, the Director shall be made available to testify before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, or an appropriate subcommittee thereof, regardingFinCEN issues, including, specifically, issues relating to—
+In general.—Not later than March 31 of each year for 5 years beginning in 2022, the Director shall be made available to testify before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, or an appropriate subcommittee thereof, regarding FinCEN issues, including, specifically, issues relating to—
 
 &emsp;&emsp;&emsp;(i) anticipated plans, goals, and resources necessary for operations of FinCEN in implementing the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
 
 &emsp;&emsp;&emsp;(ii) the adequacy of appropriations for FinCEN in the current and the previous fiscal year to—
 
-&emsp;&emsp;&emsp;&emsp;(I) ensure that the requirements and obligations imposed upon FinCEN by the Anti-Money Laundering Act of 2020 and the amendments made by that Act are completed as efficiently, effectively, and expeditiously as possible; and
+&emsp;&emsp;&emsp;&emsp;(I) ensure that the requirements and obligations imposed upon FinCEN by the Anti-Money Laundering Act of 2020 and the amendments made by that Act arecompleted as efficiently, effectively, and expeditiously as possible; and
 
 &emsp;&emsp;&emsp;&emsp;(II) provide for robust and effective implementation and enforcement of the provisions of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
 
@@ -614,7 +614,7 @@ In general.—As a condition of the funds made available under this section, eac
 
 &emsp;&emsp;(B)
 
-Notification from the department of the treasury.—A notification under clause\(i) or (ii) of subparagraph (A) shall explicitly state that the notification is on behalf of the Department of the Treasury for the purpose of preventing money laundering, the financing of terrorism, proliferation financing, serious tax fraud, and other financial crime by requiring nonpublic registration of business entities formed or registered to do business in the United States.
+Notification from the department of the treasury.—A notification under clause (i) or (ii) of subparagraph (A) shall explicitly state that the notification is on behalf of the Department of the Treasury for the purpose of preventing money laundering, the financing of terrorism, proliferation financing, serious tax fraud, and other financial crime by requiring nonpublic registration of business entities formed or registered to do business in the United States.
 
 (f)
 
@@ -716,7 +716,7 @@ Treasury office of inspector general investigation in the event of a cybersecuri
 
 &emsp;&emsp;(A)
 
-In general.—In the event of a cybersecurity breach that results in substantial unauthorized access and disclosure of sensitive beneficial ownership information, the Inspector General of the Department of the Treasury shall conduct an investigationinto FinCEN cybersecurity practices that, to the extent possible, determines any vulnerabilities within FinCEN information security and confidentiality protocols and provides recommendations for fixing those deficiencies.
+In general.—In the event of a cybersecurity breach that results in substantial unauthorized access and disclosure of sensitive beneficial ownership information, the Inspector General of the Department of the Treasury shall conduct an investigation into FinCEN cybersecurity practices that, to the extent possible, determines any vulnerabilities within FinCEN information security and confidentiality protocols and provides recommendations for fixing those deficiencies.
 
 &emsp;&emsp;(B)
 
@@ -796,7 +796,7 @@ Pub. L. 116–283, div. F, title LXIV, §6402, Jan. 1, 2021, 134 Stat. 4604, pro
 
 &emsp;&emsp;"(E) bring the United States into compliance with international anti-money laundering and countering the financing of terrorism standards;
 
-&emsp;"(6) beneficial ownership information collected under the amendments made by this title is sensitiveinformation and will be directly available only to authorized government authorities, subject to effective safeguards and controls, to—
+&emsp;"(6) beneficial ownership information collected under the amendments made by this title is sensitive information and will be directly available only to authorized government authorities, subject to effective safeguards and controls, to—
 
 &emsp;&emsp;"(A) facilitate important national security, intelligence, and law enforcement activities; and
 

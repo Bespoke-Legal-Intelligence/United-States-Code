@@ -8,7 +8,7 @@ For purposes of this section, "clean coal technology" means any technology, incl
 
 #### (1) Applicability
 
-&emsp;This subsection applies to physical or operational changes to existing facilities for the sole purpose of installation, operation, cessation, or removal of a temporary or permanent clean coal technology demonstration project. For the purposes of this section, aclean coal technology demonstration project shall mean a project using funds appropriated under the heading "Department of Energy—Clean Coal Technology", up to a total amount of $2,500,000,000 for commercial demonstration of clean coal technology, or similar projects funded through appropriations for the Environmental Protection Agency. The Federal contribution for a qualifying project shall be at least 20 percent of the total cost of the demonstration project.
+&emsp;This subsection applies to physical or operational changes to existing facilities for the sole purpose of installation, operation, cessation, or removal of a temporary or permanent clean coal technology demonstration project. For the purposes of this section, a clean coal technology demonstration project shall mean a project using funds appropriated under the heading "Department of Energy—Clean Coal Technology", up to a total amount of $2,500,000,000 for commercial demonstration of clean coal technology, or similar projects funded through appropriations for the Environmental Protection Agency. The Federal contribution for a qualifying project shall be at least 20 percent of the total cost of the demonstration project.
 
 #### (2) Temporary projects
 

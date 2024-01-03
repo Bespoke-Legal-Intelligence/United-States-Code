@@ -6,7 +6,7 @@
 
 (3) Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\], the Federal Trade Commission shall enforce the rules issued under paragraph (1), in the same manner, by the same means, and with the same jurisdiction, as though all applicable terms and provisions of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] were incorporated into and made part of this section.
 
-(b)(1) Except as provided in paragraph (6), in any case in which the attorney general of a State has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by the engagement of any person subject to a rule prescribed under subsection (a) in practices that violate suchrule, the State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States or other court of competent jurisdiction—
+(b)(1) Except as provided in paragraph (6), in any case in which the attorney general of a State has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by the engagement of any person subject to a rule prescribed under subsection (a) in practices that violate such rule, the State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States or other court of competent jurisdiction—
 
 &emsp;(A) to enjoin that practice;
 
@@ -64,7 +64,7 @@ Section was formerly set out as a note under section 1638 of Title 15, Commerce 
 
 "(3) Before issuing a final rule pursuant to the proceeding initiated under paragraph (1), the Federal Trade Commission shall consult with the Federal Reserve Board concerning any portion of the proposed rule applicable to acts or practices to which the provisions of the Truth in Lending Act (15 U.S.C. 1601 et seq.) may apply.
 
-"(4) The Federal Trade Commission shall enforce the rules issued under paragraph (1) in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made part of this section."
+"(4) The Federal Trade Commission shall enforce the rules issued under paragraph (1) in the same manner, by the same means, and with the same jurisdiction,powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made part of this section."
 
 Subsec. (b)(1). Pub. L. 111–203, §1097(2)(A), added par. (1) and struck out former par. (1) which read as follows: "Except as provided in paragraph (6), in any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person subject to a rule prescribed under subsection (a) in a practice that violates such rule, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in an appropriate district court of the United States or other court of competent jurisdiction—
 

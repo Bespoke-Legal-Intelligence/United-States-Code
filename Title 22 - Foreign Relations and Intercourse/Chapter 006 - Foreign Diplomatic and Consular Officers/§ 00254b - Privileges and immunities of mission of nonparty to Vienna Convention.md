@@ -1,6 +1,6 @@
 ### §254b. Privileges and immunities of mission of nonparty to Vienna Convention
 
-With respect to a nonparty to the Vienna Convention, the mission, the members of the mission, their families, and diplomatic couriersshall enjoy the privileges and immunities specified in the Vienna Convention.
+With respect to a nonparty to the Vienna Convention, the mission, the members of the mission, their families, and diplomatic couriers shall enjoy the privileges and immunities specified in the Vienna Convention.
 
 (Pub. L. 95–393, §3(b), Sept. 30, 1978, 92 Stat. 808; Pub. L. 97–241, title II, §203(b)(2), Aug. 24, 1982, 96 Stat. 291.)
 

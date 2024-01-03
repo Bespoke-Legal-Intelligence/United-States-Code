@@ -64,7 +64,7 @@ To be eligible to receive a grant, contract, or cooperative agreement under subs
 
 #### (1) Annual report to Secretary
 
-&emsp;An entity receiving a grant, contract, or cooperative agreement under this section shallprepare and submit to the Secretary an annual report. The report shall describe the program activities undertaken with funds received under the grant, contract, or cooperative agreement, including each of the following:
+&emsp;An entity receiving a grant, contract, or cooperative agreement under this section shall prepare and submit to the Secretary an annual report. The report shall describe the program activities undertaken with funds received under the grant, contract, or cooperative agreement, including each of the following:
 
 &emsp;&emsp;(A) The programming that has been developed, directly or indirectly, by the eligible entity, and the target population of the programming.
 
@@ -101,10 +101,6 @@ The Head Start Act, referred to in subsec. (a)(4)(B), is subchapter B (§635 et 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (a)(4)(B), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 9857(a) of Title 42 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

@@ -36,7 +36,7 @@
 
 |  |  |
 | :--- | ---: |
-| [9541\.](Subchapter%20002%20%28II%29%20-%20New%20Initiatives%20to%20Promote%20Economic%20Resiliency%20for%20Minority%20Businesses/%C2%A7%2009541%20-%20Annual%20diverse%20business%20forum%20on%20capital%20formation.md) | Annual diverse business forum on capital formation |
+| [9541\.](Subchapter%20002%20%28II%29%20-%20New%20Initiatives%20to%20Promote%20Economic%20Resiliency%20for%20Minority%20Businesses/%C2%A7%2009541%20-%20Annual%20diverse%20business%20forum%20on%20capital%20formation.md) | Annual diverse business forum on capital formation. |
 | [9542\.](Subchapter%20002%20%28II%29%20-%20New%20Initiatives%20to%20Promote%20Economic%20Resiliency%20for%20Minority%20Businesses/%C2%A7%2009542%20-%20Agency%20study%20on%20alternative%20financing%20solutions.md) | Agency study on alternative financing solutions. |
 | [9543\.](Subchapter%20002%20%28II%29%20-%20New%20Initiatives%20to%20Promote%20Economic%20Resiliency%20for%20Minority%20Businesses/%C2%A7%2009543%20-%20Educational%20development%20relating%20to%20management%20and%20entrepreneurship.md) | Educational development relating to management and entrepreneurship. |
 

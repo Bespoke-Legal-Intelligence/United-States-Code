@@ -60,7 +60,7 @@ The Uniform Code of Military Justice, referred to in subsecs. (a)(2)(A) and (d)(
 
 #### Amendments
 
-<b>2016</b>—Subsecs. (b) to (d). Pub. L. 114–119 added subsec. (b), redesignated former subsecs. (b) and (c) as (c) and\(d), respectively, and in subsecs. (c) and (d), substituted "subsection (a) or (b)" for "subsection (a)" wherever appearing.
+<b>2016</b>—Subsecs. (b) to (d). Pub. L. 114–119 added subsec. (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and in subsecs. (c) and (d), substituted "subsection (a) or (b)" for "subsection (a)" wherever appearing.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

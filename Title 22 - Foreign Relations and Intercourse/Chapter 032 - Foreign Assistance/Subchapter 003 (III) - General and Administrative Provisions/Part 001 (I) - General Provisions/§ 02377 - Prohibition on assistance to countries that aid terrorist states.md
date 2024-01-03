@@ -42,7 +42,7 @@ Pub. L. 104–132, title III, §324, Apr. 24, 1996, 110 Stat. 1255, provided tha
 
 &emsp;"(4) the President should use all necessary means, including covert action and military force, to disrupt, dismantle, and destroy international infrastructure used by international terrorists, including overseas terrorist training facilities and safe havens;
 
-&emsp;"(5) the Congress deplores decisions to ease, evade, or end international sanctions on state sponsors of terrorism, including the recent decision by the United Nations Sanctions Committee to allow airline flights to and from Libya despite Libya's noncompliance with United Nations resolutions; and
+&emsp;"(5) the Congress deplores decisions to ease, evade, or end international sanctions on state sponsors ofterrorism, including the recent decision by the United Nations Sanctions Committee to allow airline flights to and from Libya despite Libya's noncompliance with United Nations resolutions; and
 
 &emsp;"(6) the President should continue to undertake efforts to increase the international isolation of state sponsors of international terrorism, including efforts to strengthen international sanctions, and should oppose any future initiatives to ease sanctions on Libya or other state sponsors of terrorism."
 

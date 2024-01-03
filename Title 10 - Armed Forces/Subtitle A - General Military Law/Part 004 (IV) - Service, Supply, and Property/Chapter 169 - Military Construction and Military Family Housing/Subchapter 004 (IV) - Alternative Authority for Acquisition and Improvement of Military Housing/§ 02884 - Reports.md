@@ -18,7 +18,7 @@ Project Reports.—(1) The Secretary concerned shall transmit to the appropriate
 
 &emsp;(D) A statement of the United States funds required for the contract, agreement, conveyance, or lease and a description of the source of such funds, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, agreement, conveyance, or lease.
 
-&emsp;(E) An economic assessment of the life cycle costs of the contract, agreement, conveyance, or lease, including an estimate of the amount of United States funds that would be paid overthe life of the contract, agreement, conveyance, or lease from amounts derived from payments of government allowances, including the basic allowance for housing under section 403 of title 37, if the housing affected by the project were fully occupied by military personnel over the life of the contract, agreement, conveyance, or lease.
+&emsp;(E) An economic assessment of the life cycle costs of the contract, agreement, conveyance, or lease, including an estimate of the amount of United States funds that would be paid over the life of the contract, agreement, conveyance, or lease from amounts derived from payments of government allowances, including the basic allowance for housing under section 403 of title 37, if the housing affected by the project were fully occupied by military personnel over the life of the contract, agreement, conveyance, or lease.
 
 (3)(A) In the case of a contract or agreement described in paragraph (1) proposed to be entered into with a private party, the report shall specify whether the contract or agreement will or may include a guarantee (including the making of mortgage or rental payments) by the Secretary to the private party in the event of—
 
@@ -150,7 +150,7 @@ Subsec. (b)(1). Pub. L. 109–163, §2806(c)(2)(B), (C), substituted "covering e
 
 Pub. L. 109–163, §2806(c)(2)(A), as amended by Pub. L. 111–383, §1075(h)(6), substituted "A separate report" for "A report".
 
-<b>2004</b>—Subsec. (a)(2). Pub. L. 108–375, §2806(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The report shall describe the proposed contract, conveyance, or lease and the intended method ofparticipation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation."
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–375, §2806(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The report shall describe the proposed contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation."
 
 Subsec. (b)(5), (6). Pub. L. 108–375, §2806(b), added par. (5) and redesignated former par. (5) as (6).
 

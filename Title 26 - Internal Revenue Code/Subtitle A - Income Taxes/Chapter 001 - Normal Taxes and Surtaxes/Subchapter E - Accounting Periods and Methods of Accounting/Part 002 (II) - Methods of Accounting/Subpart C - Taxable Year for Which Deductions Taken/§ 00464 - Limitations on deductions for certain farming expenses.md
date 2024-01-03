@@ -64,7 +64,7 @@ Subsection (a) shall not apply to any amount paid for supplies which are on hand
 
 #### (C) Deductible farming expenses
 
-&emsp;&emsp;The term "deductible farming expenses" means any amount allowable as a deduction under this chapter (including any amount allowable as a deduction for depreciation or amortization) which is properly allocable to the trade or business of farming.
+&emsp;&emsp;The term "deductible farming expenses" means any amount allowable as a deductionunder this chapter (including any amount allowable as a deduction for depreciation or amortization) which is properly allocable to the trade or business of farming.
 
 #### (e) Farming
 

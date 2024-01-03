@@ -16,13 +16,13 @@ As used in this chapter—
 
 &emsp;(3) the term "sexual contact" means the intentional touching, either directly or through the clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person;
 
-&emsp;(4) the term "serious bodily injury" means bodily injury that involves a substantial risk of death, unconsciousness, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty;
+&emsp;(4) the term "serious bodily injury" means bodily injury that involves a substantial risk of death, unconsciousness, extreme physical pain, protracted and obvious disfigurement, orprotracted loss or impairment of the function of a bodily member, organ, or mental faculty;
 
 &emsp;(5) the term "official detention" means—
 
 &emsp;&emsp;(A) detention by a Federal officer or employee, or under the direction of a Federal officer or employee, following arrest for an offense; following surrender in lieu of arrest for an offense; following a charge or conviction of an offense, or an allegation or finding of juvenile delinquency; following commitment as a material witness; following civil commitment in lieu of criminal proceedings or pending resumption of criminal proceedings that are being held in abeyance, or pending extradition, deportation, or exclusion; or
 
-&emsp;&emsp;(B) custody by a Federal officer or employee, or under the direction of a Federal officer or employee, for purposes incident toany detention described in subparagraph (A) of this paragraph, including transportation, medical diagnosis or treatment, court appearance, work, and recreation;
+&emsp;&emsp;(B) custody by a Federal officer or employee, or under the direction of a Federal officer or employee, for purposes incident to any detention described in subparagraph (A) of this paragraph, including transportation, medical diagnosis or treatment, court appearance, work, and recreation;
 
 > &emsp;but does not include supervision or other control (other than custody during specified hours or days) after release on bail, probation, or parole, or after release following a finding of juvenile delinquency;
 

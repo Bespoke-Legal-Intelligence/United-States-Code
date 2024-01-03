@@ -62,7 +62,7 @@
 
 &emsp;(2) that the Comptroller General has the same responsibility for performance appraisals under this subsection as the Director of the Office of Personnel Management has under section 4302 of title 5;
 
-&emsp;(3) for a reduction in grade or removal of an officer or employee because of unacceptable performance consistent with section 4303 of title 5;
+&emsp;(3) for a reduction in grade or removal of an officer or employee because of unacceptableperformance consistent with section 4303 of title 5;
 
 &emsp;(4) for other personnel actions consistent with chapter 75 of title 5; and
 
@@ -130,7 +130,7 @@
 
 (j)(1) For purposes of this subsection—
 
-&emsp;(A) the term "pay increase", as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) of such officer or employee, taking effect under section 731(b) and subsection (c)(3) in such year;
+&emsp;(A) the term "pay increase", as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) of such officer or employee, taking effect undersection 731(b) and subsection (c)(3) in such year;
 
 &emsp;(B) the term "required minimum percentage", as used with respect to an officer or employee in connection with a year, means the percentage equal to the total increase in rates of basic pay (expressed as a percentage) taking effect under sections 5303 and 5304–5304a of title 5 in such year with respect to General Schedule positions within the pay locality (as defined by section 5302(5) of title 5) in which the position of such officer or employee is located;
 
@@ -236,7 +236,7 @@ Section 4(c)(1) of the Government Accountability Office Act of 2008, referred to
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(2). Pub. L. 110–323, §8, substituted "rate for level III of the Executive Level, except thatthe total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5" for "highest basic rate for GS–15".
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–323, §8, substituted "rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5" for "highest basic rate for GS–15".
 
 Subsec. (j). Pub. L. 110–323, §2(a), added subsec. (j).
 
@@ -330,7 +330,7 @@ Pay Increase Defined.—For purposes of this section, the term 'pay increase', a
 
 "(c)
 
-Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier dateas the Comptroller General may specify), the rate of basic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
+Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate of basic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
 
 "(d)
 
@@ -406,7 +406,7 @@ In General.—Not later than 6 months after the date of the enactment of this Ac
 
 Amount.—The amount payable to a qualified individual under this section shall be equal to—
 
-&emsp;"(1) the total amount of performance-based compensation such individual would have earned for 2006 (determined by applying the Government Accountability Office's performance-based compensation system under GAO Orders 2540.3 and 2540.4, as in effect in 2006) if such individual had not had a salary equal to or greater than the maximum for such individual's band (as further described in subsection (c)(2)), less
+&emsp;"(1) the total amount of performance-based compensation such individual would have earned for 2006 (determined by applying the Government Accountability Office's performance-based compensation system under GAO Orders 2540.3 and 2540.4, as in effect in2006) if such individual had not had a salary equal to or greater than the maximum for such individual's band (as further described in subsection (c)(2)), less
 
 &emsp;"(2) the total amount of performance-based compensation such individual was in fact granted, in January 2006, for that year.
 
@@ -422,7 +422,7 @@ Qualified Individual.—For purposes of this section, the term 'qualified indivi
 
 &emsp;&emsp;"(C) an individual participating in a development program under which such individual receives performance appraisals, and is eligible to receive permanent merit pay increases, more than once a year; and
 
-&emsp;"(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staffmember with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
+&emsp;"(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staff member with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
 
 "(d)
 

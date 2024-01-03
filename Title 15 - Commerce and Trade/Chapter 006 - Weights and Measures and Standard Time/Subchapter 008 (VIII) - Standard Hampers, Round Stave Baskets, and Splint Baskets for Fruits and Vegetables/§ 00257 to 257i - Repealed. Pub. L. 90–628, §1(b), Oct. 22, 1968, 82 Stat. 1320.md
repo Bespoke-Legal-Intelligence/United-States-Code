@@ -18,7 +18,7 @@ Section 257g, acts May 21, 1928, ch. 664, §8, 45 Stat. 687; June 25, 1948, ch. 
 
 Section 257h, act May 21, 1928, ch. 664, §9, 45 Stat. 687, provided for promulgation of regulations covering examinations and tests by Secretary of Agriculture.
 
-Section 257i, act May 21, 1968, ch. 664, §10, 45 Stat. 687, authorized Secretary of Agriculture to cooperate with other agencies in carrying out sections 257 to 257i of this title.
+Section 257i, act May 21, 1968, ch. 664, §10, 45 Stat. 687, authorized Secretary of Agriculture to cooperate withother agencies in carrying out sections 257 to 257i of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

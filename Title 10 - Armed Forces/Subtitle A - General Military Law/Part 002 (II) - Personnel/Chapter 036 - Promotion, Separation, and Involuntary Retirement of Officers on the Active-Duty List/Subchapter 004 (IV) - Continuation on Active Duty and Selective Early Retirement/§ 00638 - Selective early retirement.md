@@ -26,7 +26,7 @@
 
 (3)(A) The Secretary concerned may defer for not more than three months the retirement of an officer otherwise approved for early retirement under this section or section 638a of this title in order to prevent a personal hardship to the officer or for other humanitarian reasons. Any such deferral shall be made on a case-by-case basis considering the circumstances of the case of the particular officer concerned. The authority of the Secretary to grant such a deferral may not be delegated.
 
-(B) An officer recommended for early retirement under paragraph (1)(A) or section 638a of this title, if approved for deferral under subparagraph (A), shall be retired on the date requested by the officer, and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement.
+(B) An officer recommended for early retirement under paragraph (1)(A) or section 638a ofthis title, if approved for deferral under subparagraph (A), shall be retired on the date requested by the officer, and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement.
 
 (C) The Secretary concerned may defer the retirement of an officer otherwise approved for early retirement under paragraph (1)(B), but in no case later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement.
 
@@ -76,7 +76,7 @@ Subsec. (b)(1). Pub. L. 101–510, §521(b)(2)(B), inserted "or section 638a of 
 
 &emsp;"(1) who holds the regular grade of lieutenant colonel or commander and has failed of selection for promotion to the grade of colonel or, in the case of an officer of the Navy, captain two or more times and whose name is not on a list of officers recommended for promotion;
 
-&emsp;"(2) who holds the regular grade of colonel or, in the case of an officer of the Navy, captain and has served at least four years of active duty in that grade and whose name is not on a list of officers recommended for promotion;
+&emsp;"(2) who holds the regular grade of colonel or, in the case of an officer of the Navy, captain and hasserved at least four years of active duty in that grade and whose name is not on a list of officers recommended for promotion;
 
 &emsp;"(3) who holds the regular grade of brigadier general or rear admiral (lower half) and has served at least three and one-half years of active duty in that grade and whose name is not on a list of officers recommended for promotion; or
 

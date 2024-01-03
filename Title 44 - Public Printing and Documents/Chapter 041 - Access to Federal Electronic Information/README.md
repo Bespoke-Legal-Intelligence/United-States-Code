@@ -165,7 +165,7 @@ Reports not submitted.—If a Federal agency does not submit a congressionally m
 
 &emsp;"(2)
 
-Reports not in open format.—If a Federal agency submits a congressionally mandated report that does not meet the criteria described in subsection (b)(1)(B), the Director shall still include the congressionally mandated report on the reports online portal.
+Reports not in open format.—If a Federal agency submits a congressionally mandated report that does not meet the criteria described in subsection (b)(1)(B), the Director shall still include thecongressionally mandated report on the reports online portal.
 
 "(d)
 
@@ -173,7 +173,7 @@ Deadline.—The Director shall ensure that information required to be published 
 
 &emsp;"(1) not later than 30 days after the information is received from the Federal agency involved; or
 
-&emsp;"(2) in the case of information required under subsection (c), not later than 30 days after the deadlineunder this subtitle for the Federal agency involved to submit information with respect to the congressionally mandated report involved.
+&emsp;"(2) in the case of information required under subsection (c), not later than 30 days after the deadline under this subtitle for the Federal agency involved to submit information with respect to the congressionally mandated report involved.
 
 "(e)
 
@@ -291,7 +291,7 @@ In general.—This subtitle shall apply with respect to any congressionally mand
 
 &emsp;&emsp;"(A) is required by statute to be submitted to the House of Representatives, or the Speaker thereof, or the Senate, or the President or President Pro Tempore thereof, at any time on or after the date of the enactment of this Act \[Dec. 23, 2022\]; or
 
-&emsp;&emsp;"(B) is included by the Clerk of the House of Representatives or the Secretary of the Senate (as the case may be) on the list of reports received by theHouse of Representatives or the Senate (as the case may be) at any time on or after the date of the enactment of this Act.
+&emsp;&emsp;"(B) is included by the Clerk of the House of Representatives or the Secretary of the Senate (as the case may be) on the list of reports received by the House of Representatives or the Senate (as the case may be) at any time on or after the date of the enactment of this Act.
 
 &emsp;"(2)
 

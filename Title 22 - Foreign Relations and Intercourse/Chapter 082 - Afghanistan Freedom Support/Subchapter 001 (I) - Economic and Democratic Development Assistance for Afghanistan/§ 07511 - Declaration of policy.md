@@ -48,7 +48,7 @@ Consultations Required.—Commencing not later than 30 days after the date of th
 
 "(b)
 
-Availability of Agreement Text.—Before entering into any bilateral security agreement with Afghanistan, the President shall make available to the appropriate committees of Congress the text of such agreement.
+Availability of Agreement Text.—Before entering into any bilateral security agreement with Afghanistan, the President shall make available to theappropriate committees of Congress the text of such agreement.
 
 "(c)
 

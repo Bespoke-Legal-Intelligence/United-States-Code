@@ -42,7 +42,7 @@ Baseline constant dollar value.—For purposes of paragraph (2), the baseline co
 
 &emsp;(2)
 
-Adjustment.—On October 1 of each year evenly divisible by 5, the Council shall adjust each acquisition-related dollar threshold provided by law, as described in subsection (b)(1), to the baseline constant dollar value of that threshold.
+Adjustment.—On October 1 of each year evenly divisible by 5, the Council shall adjust each acquisition-related dollar threshold provided by law, as described in subsection (b)(1),to the baseline constant dollar value of that threshold.
 
 &emsp;(3)
 

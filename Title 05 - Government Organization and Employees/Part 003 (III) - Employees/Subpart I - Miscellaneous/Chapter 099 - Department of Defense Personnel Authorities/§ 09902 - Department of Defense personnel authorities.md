@@ -168,7 +168,7 @@ Provisions Related to Separation and Retirement Incentives.—
 
 &emsp;&emsp;(A) a reemployed annuitant under subchapter III of chapter 83 or chapter 84, or another retirement system for employees of the Federal Government;
 
-&emsp;&emsp;(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under anyof the retirement systems referred to in subparagraph (A); or
+&emsp;&emsp;(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under any of the retirement systems referred to in subparagraph (A); or
 
 &emsp;&emsp;(C) for purposes of eligibility for separation incentives under this section, an employee who is in receipt of a decision notice of involuntary separation for misconduct or unacceptable performance.
 
@@ -222,25 +222,9 @@ In general.—Not later than 1 year after the implementation of any performance 
 
 &emsp;&emsp;(A) conduct appropriately designed and statistically valid internal assessments or employee surveys to assess employee perceptions of any program, system, procedures, or other aspect of personnel management, as established or modified under authority of this section; and
 
-&emsp;&emsp;(B) submit to the appropriate committees of Congress and the Comptroller General, a report describing the results of the assessments or surveys conducted under subparagraph (A) (including the methodology used), together with any other information which the Secretary considers appropriate.
+&emsp;&emsp;(B) submit to the appropriate committees of Congress a report describing the results of the assessments or surveys conducted under subparagraph (A) (including the methodology used), together with any other information which the Secretary considers appropriate.
 
 &emsp;(2)
-
-Review.—After receiving any report under paragraph (1), the Comptroller General—
-
-&emsp;&emsp;(A) shall review the assessments or surveys described in such report to determine if they were appropriately designed and statistically valid;
-
-&emsp;&emsp;(B) shall conduct a review of the extent to which the program, system, procedures, or other aspect of program management concerned (as described in paragraph (1)(A)) is fair, credible, transparent, and otherwise in conformance with the requirements of this section; and
-
-&emsp;&emsp;(C) within 6 months after receiving such report, shall submit to the appropriate committees of Congress—
-
-&emsp;&emsp;&emsp;(i) an independent evaluation of the results of the assessments or surveys reviewed under subparagraph (A), and
-
-&emsp;&emsp;&emsp;(ii) the findings of the Comptroller General based on the review under subparagraph (B),
-
-> &emsp;&emsp;together with any recommendations the Comptroller General considers appropriate.
-
-&emsp;(3)
 
 Definition.—For purposes of this subsection, the term "appropriate committees of Congress" means—
 
@@ -250,7 +234,7 @@ Definition.—For purposes of this subsection, the term "appropriate committees 
 
 &emsp;&emsp;(C) the Committee on Oversight and Government Reform of the House of Representatives.
 
-(Added Pub. L. 108–136, div. A, title XI, §1101(a)(1), Nov. 24, 2003, 117 Stat. 1621; amended Pub. L. 110–181, div. A, title XI, §1106(a), Jan. 28, 2008, 122 Stat. 349; Pub. L. 110–417, \[div. A\], title XI, §1106, Oct. 14, 2008, 122 Stat. 4617; Pub. L. 111–84, div. A, title XI, §§1113(b)(1), (d), (f)(1), 1121, Oct. 28, 2009, 123 Stat. 2498, 2499, 2502, 2505; Pub. L. 111–383, div. A, title X, §1075(a)(2), title XI, §1101(c), Jan. 7, 2011, 124 Stat. 4368, 4382; Pub. L. 112–81, div. A, title XI, §§1101(a)–(c), 1102(a), Dec. 31, 2011, 125 Stat. 1610, 1611.)
+(Added Pub. L. 108–136, div. A, title XI, §1101(a)(1), Nov. 24, 2003, 117 Stat. 1621; amended Pub. L. 110–181, div. A, title XI, §1106(a), Jan. 28, 2008, 122 Stat. 349; Pub. L. 110–417, \[div. A\], title XI, §1106, Oct. 14, 2008, 122 Stat. 4617; Pub. L. 111–84, div. A, title XI, §§1113(b)(1), (d), (f)(1), 1121, Oct. 28, 2009, 123 Stat. 2498, 2499, 2502, 2505; Pub. L. 111–383, div. A, title X, §1075(a)(2), titleXI, §1101(c), Jan. 7, 2011, 124 Stat. 4368, 4382; Pub. L. 112–81, div. A, title XI, §§1101(a)–(c), 1102(a), Dec. 31, 2011, 125 Stat. 1610, 1611; Pub. L. 118–31, div. A, title XI, §1120, Dec. 22, 2023, 137 Stat. 435.)
 
 #### <b>Editorial Notes</b>
 
@@ -265,6 +249,10 @@ The date of the enactment of the Federal Workforce Restructuring Act of 1994, re
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2004, referred to in subsec. (g)(2)(A), is the date of enactment of Pub. L. 108–136, which was approved Nov. 24, 2003.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (h)(1)(B). Pub. L. 118–31, §1120(1), struck out "and the Comptroller General," after "committees of Congress".
+
+Subsec. (h)(2), (3). Pub. L. 118–31, §1120(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which provided for review by the Comptroller General of reports under paragraph (1).
 
 <b>2011</b>—Subsec. (a)(1)(D), (E). Pub. L. 112–81, §1101(a), added subpar. (D) and redesignated former subpar. (D) as (E).
 
@@ -292,9 +280,9 @@ Subsec. (i). Pub. L. 110–417 substituted "the requirements and limitations in 
 
 #### Change of Name
 
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 #### Effective Date of 2011 Amendment
 
@@ -314,7 +302,7 @@ Pub. L. 114–328, div. A, title XI, §1107, Dec. 23, 2016, 130 Stat. 2448, as a
 
 #### Reports on Performance Management System and Appointment Procedures
 
-Pub. L. 112–81, div. A, title XI, §1102(b), Dec. 31, 2011, 125 Stat. 1611, which directed the Secretary of Defense to submit reports on performance management system and appointment procedures, was repealed by Pub. L. 115–91, div. A, title X, §1051(q)(1), Dec. 12, 2017, 131 Stat. 1565.
+Pub. L. 112–81, div. A, title XI, §1102(b), Dec. 31, 2011, 125 Stat. 1611, which directed the Secretary of Defense to submit reports on performance management systemand appointment procedures, was repealed by Pub. L. 115–91, div. A, title X, §1051(q)(1), Dec. 12, 2017, 131 Stat. 1565.
 
 #### Provisions Relating to the National Security Personnel System
 
@@ -424,7 +412,7 @@ Requirements.—The Secretary's proposal (whether as described in paragraph (1)(
 
 &emsp;"(4)
 
-Congressional approval required.—If Congress approves the Secretary's proposal in the National Defense Authorization Act for Fiscal Year 2011, the Secretary may implement the proposal (subject to any changes required by law) and begin the implementation of such proposal for personnel included in the National Security Personnel System, in lieu of the transition that would otherwise be required by subsection (b), subject to paragraph (5).
+Congressional approval required.—If Congress approves the Secretary's proposal in the National Defense Authorization Act for Fiscal Year 2011, the Secretary may implement the proposal (subject to any changes required by law) and begin the implementation of such proposal for personnel included inthe National Security Personnel System, in lieu of the transition that would otherwise be required by subsection (b), subject to paragraph (5).
 
 &emsp;"(5)
 
@@ -438,7 +426,7 @@ Definitions.—For purposes of this subsection, the term 'covered committees' me
 
 &emsp;&emsp;"(B) the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
-&emsp;&emsp;"(C) the Committee on Oversight and Government Reform of the House of Representatives."
+&emsp;&emsp;"(C) the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives."
 
 #### Implementation
 

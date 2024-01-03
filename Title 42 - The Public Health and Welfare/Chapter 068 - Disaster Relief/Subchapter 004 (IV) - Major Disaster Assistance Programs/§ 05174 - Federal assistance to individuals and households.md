@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The President shall determine appropriate types of housing assistance to be providedunder this section to individuals and households described in subsection (a)(1) based on considerations of cost effectiveness, convenience to the individuals and households, and such other factors as the President may consider appropriate.
+&emsp;&emsp;The President shall determine appropriate types of housing assistance to be provided under this section to individuals and households described in subsection (a)(1) based on considerations of cost effectiveness, convenience to the individuals and households, and such other factors as the President may consider appropriate.
 
 #### (B) Multiple types of assistance
 
@@ -158,7 +158,7 @@
 
 #### (1) Medical, dental, child care, and funeral expenses
 
-&emsp;The President, in consultation with the Governor of a State, may provide financial assistance under this section to an individual or household in the State who is adversely affected by a major disaster to meet disaster-related medical, dental, child care, and funeral expenses.
+&emsp;The President, in consultation with the Governor of a State, may provide financial assistance under this section to an individual orhousehold in the State who is adversely affected by a major disaster to meet disaster-related medical, dental, child care, and funeral expenses.
 
 #### (2) Personal property, transportation, and other expenses
 
@@ -224,7 +224,7 @@
 
 #### (F) Applicable laws
 
-&emsp;&emsp;All Federal laws applicable to the management, administration, or contracting of the programs by the Federal Emergency Management Agency under this section shall be applicable to the management, administration, or contracting by a non-Federal entity under this section.
+&emsp;&emsp;All Federal laws applicable to the management, administration, or contracting of theprograms by the Federal Emergency Management Agency under this section shall be applicable to the management, administration, or contracting by a non-Federal entity under this section.
 
 #### (G) Report on effectiveness
 
@@ -298,7 +298,7 @@
 
 #### (i) Verification measures
 
-In carrying out this section, the President shall develop a system, including an electronic database, that shall allow the President, or the designee of the President, to—
+In carrying out this section, the President shall develop a system, including an electronicdatabase, that shall allow the President, or the designee of the President, to—
 
 &emsp;(1) verify the identity and address of recipients of assistance under this section to provide reasonable assurance that payments are made only to an individual or household that is eligible for such assistance;
 

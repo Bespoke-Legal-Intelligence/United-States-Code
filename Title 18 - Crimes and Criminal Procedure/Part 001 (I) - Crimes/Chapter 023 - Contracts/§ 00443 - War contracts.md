@@ -34,7 +34,7 @@ Section 103 of Title 41, referred to in text, probably means section 3 of act Ju
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322, in concluding provisions of first par., struck out "or (3) five years after 12 o'clock noon of December 31, 1946," after "of such war contract," and substituted "shall be fined under this title" for "shall, if a corporation, be fined not more than $50,000, and, if a natural person, be fined not more than $10,000".
+<b>1994</b>—Pub. L. 103–322, in concluding provisions of first par., struck out "or (3) five years after 12 o'clock noonof December 31, 1946," after "of such war contract," and substituted "shall be fined under this title" for "shall, if a corporation, be fined not more than $50,000, and, if a natural person, be fined not more than $10,000".
 
 <b>1951</b>—Act Oct. 31, 1951, substituted "12 o'clock noon of December 31, 1946" for "the termination of hostilities in the present war as proclaimed by the President or by a concurrent resolution of the two Houses of Congress", and, in penultimate paragraph, substituted "Administrator of General Services" for "Director of Contract Settlement".
 

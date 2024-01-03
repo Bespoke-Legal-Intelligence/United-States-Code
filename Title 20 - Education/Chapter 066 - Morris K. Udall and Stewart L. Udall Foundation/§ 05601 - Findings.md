@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;&emsp;(A) since 1995, has operated exceptional scholarship, internship, and fellowship programs for areas of study related to the environment and Native American tribal policy and health care;
 
-&emsp;&emsp;(B) since 1999, has provided valuable environmental conflict resolution services andleadership through the National Center (previously known as the United States Institute for Environmental Conflict Resolution); and
+&emsp;&emsp;(B) since 1999, has provided valuable environmental conflict resolution services and leadership through the National Center (previously known as the United States Institute for Environmental Conflict Resolution); and
 
 &emsp;&emsp;(C) is committed to continue making a substantial contribution toward public policy in the future by—
 
@@ -30,7 +30,7 @@ The Congress finds that—
 
 &emsp;(7) as Secretary of the Interior from 1961 to 1969, Stewart L. Udall oversaw the creation of 4 national parks, 6 national monuments, 8 national seashores and lakeshores, 9 recreation areas, 20 historic sites, and 56 wildlife refuges; and
 
-&emsp;(8) it is fitting that the leadership and vision of Stewart L. Udall in the areas of environmental and Native American policy be jointly honored with that of Morris K. Udall through the foundation bearing the Udall name.
+&emsp;(8) it is fitting that the leadership and vision of Stewart L. Udall in the areas of environmental and Native American policy be jointlyhonored with that of Morris K. Udall through the foundation bearing the Udall name.
 
 (Pub. L. 102–259, §3, Mar. 19, 1992, 106 Stat. 78; Pub. L. 111–90, §3, Nov. 3, 2009, 123 Stat. 2976; Pub. L. 116–94, div. P, title III, §302(b), Dec. 20, 2019, 133 Stat. 3187.)
 

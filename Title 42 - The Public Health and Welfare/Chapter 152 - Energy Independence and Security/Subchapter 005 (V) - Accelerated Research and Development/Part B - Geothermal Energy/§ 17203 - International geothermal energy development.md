@@ -10,7 +10,7 @@ The Director of the United States Trade and Development Agency may—
 
 &emsp;(1) encourage participation by United States firms in actions taken to carry out subsection (a); and
 
-&emsp;(2) provide grants and other financial support for feasibility and resource assessment studies conducted in, or intended to benefit, less developed countries.
+&emsp;(2) provide grants and other financial support for feasibility and resource assessmentstudies conducted in, or intended to benefit, less developed countries.
 
 (Pub. L. 110–140, title VI, §624, Dec. 19, 2007, 121 Stat. 1684; Pub. L. 116–260, div. Z, title III, §3002(k), Dec. 27, 2020, 134 Stat. 2495.)
 

@@ -42,7 +42,7 @@ A civil action may be brought—
 
 &emsp;(A) requested by the Secretary of the Treasury, or
 
-&emsp;(B) one or more participants, beneficiaries, or fiduciaries, of such plan request in writing\(in such manner as the Secretary shall prescribe by regulation) that he exercise such authority on their behalf. In the case of such a request under this paragraph he may exercise such authority only if he determines that such violation affects, or such enforcement is necessary to protect, claims of participants or beneficiaries to benefits under the plan.
+&emsp;(B) one or more participants, beneficiaries, or fiduciaries, of such plan request in writing (in such manner as the Secretary shall prescribe by regulation) that he exercise such authority on their behalf. In the case of such a request under this paragraph he may exercise such authority only if he determines that such violation affects, or such enforcement is necessary to protect, claims of participants or beneficiaries to benefits under the plan.
 
 (2) The Secretary shall not initiate an action to enforce section 1145 of this title.
 
@@ -62,7 +62,7 @@ A civil action may be brought—
 
 (6) If, within 30 days of a request by the Secretary to a plan administrator for documents under section 1024(a)(6) of this title, the plan administrator fails to furnish the material requested to the Secretary, the Secretary may assess a civil penalty against the plan administrator of up to $100 a day from the date of such failure (but in no event in excess of $1,000 per request). No penalty shall be imposed under this paragraph for any failure resulting from matters reasonably beyond the control of the plan administrator.
 
-(7) The Secretary may assess a civil penalty against a plan administrator of up to $100 a day from the date of the plan administrator's failure or refusal to provide notice to participants and beneficiaries in accordance with subsection (i) or (m) of section 1021 of this title. For purposes of this paragraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
+(7) The Secretary may assess a civil penalty against a plan administrator of up to $100 a day from the date of the plan administrator's failureor refusal to provide notice to participants and beneficiaries in accordance with subsection (i) or (m) of section 1021 of this title. For purposes of this paragraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
 
 (8) The Secretary may assess against any plan sponsor of a multiemployer plan a civil penalty of not more than $1,100 per day—
 
@@ -150,7 +150,7 @@ Definitions.—Terms used in this paragraph which are defined in section 1191b o
 
 (11) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) <sup>2</sup> of title 42.
 
-(12) The Secretary may assess a civil penalty against any sponsor of a CSEC plan of up to $100 a day from the date of the plan sponsor's failure to comply with the requirements of section 1085a(j)(3) of this title to establish or update a funding restoration plan.
+(12) The Secretary may assess a civil penalty against any sponsor of a CSEC plan of up to $100a day from the date of the plan sponsor's failure to comply with the requirements of section 1085a(j)(3) of this title to establish or update a funding restoration plan.
 
 #### (d) Status of employee benefit plan as entity
 
@@ -162,7 +162,7 @@ Definitions.—Terms used in this paragraph which are defined in section 1191b o
 
 (1) Except for actions under subsection (a)(1)(B) of this section, the district courts of the United States shall have exclusive jurisdiction of civil actions under this subchapter brought by the Secretary or by a participant, beneficiary, fiduciary, or any person referred to in section 1021(f)(1) of this title. State courts of competent jurisdiction and district courts of the United States shall have concurrent jurisdiction of actions under paragraphs (1)(B) and (7) of subsection (a) of this section.
 
-(2) Where an action under this subchapter is brought in a district court of the United States,it may be brought in the district where the plan is administered, where the breach took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
+(2) Where an action under this subchapter is brought in a district court of the United States, it may be brought in the district where the plan is administered, where the breach took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
 
 #### (f) Amount in controversy; citizenship of parties
 
@@ -204,7 +204,7 @@ In all civil actions under this subchapter, attorneys appointed by the Secretary
 
 #### (k) Jurisdiction of actions against the Secretary of Labor
 
-Suits by an administrator, fiduciary, participant, or beneficiary of an employee benefit plan to review a final order of the Secretary, to restrain the Secretary from taking any action contrary to the provisions of this chapter, or to compel him to take action required under this subchapter, may be brought in the district court of the United States for the district where the plan has its principal office, or in the United States District Court for the District of Columbia.
+Suits by an administrator, fiduciary, participant, or beneficiary of an employee benefit plan to review a final order of the Secretary, to restrain the Secretary from taking any actioncontrary to the provisions of this chapter, or to compel him to take action required under this subchapter, may be brought in the district court of the United States for the district where the plan has its principal office, or in the United States District Court for the District of Columbia.
 
 #### (l) Civil penalties on violations by fiduciaries
 
@@ -292,7 +292,7 @@ Pub. L. 109–280, §502(b)(2), which directed amendment of par. (4) by substitu
 
 Pub. L. 109–280, §502(a)(2), substituted "subsection (j) or (k) of section 1021 of this title" for "section 1021(j)".
 
-Pub. L. 109–280, §103(b)(2), which directed amendment of par. (4) by substituting "section 1021(j) or 1082(b)(7)(F)(iv) of this title" for "section1082(b)(7)(F)(iv) of this title", was executed by making the substitution for "section 1082(b)(7)(F)(vi) of this title", to reflect the probable intent of Congress.
+Pub. L. 109–280, §103(b)(2), which directed amendment of par. (4) by substituting "section 1021(j) or 1082(b)(7)(F)(iv) of this title" for "section 1082(b)(7)(F)(iv) of this title", was executed by making the substitution for "section 1082(b)(7)(F)(vi) of this title", to reflect the probable intent of Congress.
 
 Subsec. (c)(7). Pub. L. 109–280, §507(b), substituted "subsection (i) or (m) of section 1021" for "section 1021(i)".
 
@@ -356,7 +356,7 @@ Subsec. (l). Pub. L. 101–239, §2101(a), added subsec. (l).
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–203, §9342(c), designated existing provision as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), and added par. (2).
 
-Subsec. (i). Pub. L. 100–203, §9344, amended second sentence generally. Prior to amendment, second sentence read as follows: "The amount of such penalty may not exceed 5 percent of the amount involved (as defined in section 4975(f)(4) of title 26); except that if the transaction is not corrected (in such manner as the Secretary shall prescribe by regulation, which regulations shall be consistent with section 4975(f)(5) of title 26) within 90 days after notice from the Secretary (or such longer period as the Secretary may permit), such penalty may be in an amount not more than 100 percent of the amount involved."
+Subsec. (i). Pub. L. 100–203, §9344, amended second sentence generally. Prior to amendment, second sentence read as follows: "The amount of such penalty may not exceed 5 percent of the amount involved (as defined in section 4975(f)(4) of title 26); except that if the transaction is not corrected (in such manner as theSecretary shall prescribe by regulation, which regulations shall be consistent with section 4975(f)(5) of title 26) within 90 days after notice from the Secretary (or such longer period as the Secretary may permit), such penalty may be in an amount not more than 100 percent of the amount involved."
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–272 inserted "(1) who fails to meet the requirements of paragraph (1) or (4) of section 1166 of this title with respect to a participant or beneficiary, or (2)".
 
@@ -380,7 +380,7 @@ Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child hea
 
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
-Pub. L. 110–233, title I, §101(f)(2), May 21, 2008, 122 Stat. 888, provided that: "The amendments made by this section \[amending this section and sections 1182 and 1191b of this title\] shall apply with respect to grouphealth plans for plan years beginning after the date that is 1 year after the date of enactment of this Act \[May 21, 2008\]."
+Pub. L. 110–233, title I, §101(f)(2), May 21, 2008, 122 Stat. 888, provided that: "The amendments made by this section \[amending this section and sections 1182 and 1191b of this title\] shall apply with respect to group health plans for plan years beginning after the date that is 1 year after the date of enactment of this Act \[May 21, 2008\]."
 
 #### Effective Date of 2006 Amendment
 
@@ -444,7 +444,7 @@ Regulations.—The Secretary of Labor shall issue the regulations required to ca
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–272 applicable to plan years beginning on or after July 1, 1986, with special rule for collective bargaining agreements, see section 10002(d) of Pub. L. 99–272, set out as an Effective Date note under section 1161 of this title.
+Amendment by Pub. L. 99–272 applicable to plan years beginning on or after July 1, 1986, with special rule forcollective bargaining agreements, see section 10002(d) of Pub. L. 99–272, set out as an Effective Date note under section 1161 of this title.
 
 #### Effective Date of 1980 Amendment
 

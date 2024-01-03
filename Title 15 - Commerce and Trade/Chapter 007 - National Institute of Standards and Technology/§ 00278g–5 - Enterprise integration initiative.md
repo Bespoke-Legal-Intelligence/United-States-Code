@@ -22,7 +22,7 @@ In order to carry out this Act, the Director may work with industry, trade assoc
 
 #### (d) Manufacturing Extension Program
 
-The Director shall ensure that the Manufacturing Extension Program is prepared to advise small- and medium-sized businesses on how to acquire the expertise, equipment, and training necessary to participate fully in supply chains using enterprise integration.
+The Director shall ensure that the Manufacturing Extension Program is prepared to advise small- and medium-sized businesses on how toacquire the expertise, equipment, and training necessary to participate fully in supply chains using enterprise integration.
 
 (Pub. L. 107–277, §3, Nov. 5, 2002, 116 Stat. 1936; Pub. L. 113–188, title II, §201(b), Nov. 26, 2014, 128 Stat. 2018; Pub. L. 114–329, title V, §501(e)(2), Jan. 6, 2017, 130 Stat. 3033.)
 

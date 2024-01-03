@@ -32,7 +32,7 @@ A coral reef stewardship partnership that has identified, as the subject of its 
 
 #### (1) In general
 
-&emsp;A coral reef stewardship partnership that has identified, as the subject of its stewardship activities, a coral reef or ecologically significant component of a coral reef that is not under the management jurisdiction of any Federal agency specified in section 6402(c) ofthis title shall, at a minimum, include the following:
+&emsp;A coral reef stewardship partnership that has identified, as the subject of its stewardship activities, a coral reef or ecologically significant component of a coral reef that is not under the management jurisdiction of any Federal agency specified in section 6402(c) of this title shall, at a minimum, include the following:
 
 &emsp;&emsp;(A) A State or county's resource management agency or a covered Native entity, a representative of which shall serve as the chairperson of the coral reef stewardship partnership.
 

@@ -2,7 +2,7 @@
 
 #### (a) Finding
 
-Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Saharan Africa, the Caribbean, Central Asia, Eastern Europe, Latin America and other developing countries is a major global health, national security, development, and humanitarian crisis.
+Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Saharan Africa,the Caribbean, Central Asia, Eastern Europe, Latin America and other developing countries is a major global health, national security, development, and humanitarian crisis.
 
 #### (b) Policy
 
@@ -22,7 +22,7 @@ Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Sah
 
 &emsp;&emsp;&emsp;(iii) support care for 12,000,000 individuals infected with or affected by HIV/AIDS, including 5,000,000 orphans and vulnerable children affected by HIV/AIDS, with an emphasis on promoting a comprehensive, coordinated system of services to be integrated throughout the continuum of care;
 
-&emsp;&emsp;&emsp;(iv) provide at least 80 percent of the target population with access to counseling,testing, and treatment to prevent the transmission of HIV from mother-to-child;
+&emsp;&emsp;&emsp;(iv) provide at least 80 percent of the target population with access to counseling, testing, and treatment to prevent the transmission of HIV from mother-to-child;
 
 &emsp;&emsp;&emsp;(v) provide care and treatment services to children with HIV in proportion to their percentage within the HIV-infected population of a given partner country; and
 
@@ -62,7 +62,7 @@ Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Sah
 
 #### (3) Coordination of assistance efforts
 
-&emsp;The President shall coordinate the provision of assistance under paragraph (1) with the provision of related assistance by the Joint United Nations Programme on HIV/AIDS (UNAIDS), the United Nations Children's Fund (UNICEF), the World Health Organization (WHO), the United Nations Development Programme (UNDP), the Global Fund to Fight AIDS, Tuberculosis and Malaria and other appropriate international organizations (such as the International Bank for Reconstruction and Development), relevant regional multilateral development institutions, national, state, and local governments of partner countries, other international actors,,<sup>2</sup> appropriate governmental and nongovernmental organizations, and relevant executive branch agencies within the framework of the principles of the Three Ones.
+&emsp;The President shall coordinate the provision of assistance under paragraph (1) with the provision of related assistance by the Joint United Nations Programme on HIV/AIDS (UNAIDS), the United Nations Children's Fund (UNICEF), the World Health Organization (WHO), the United Nations Development Programme (UNDP), the Global Fund to Fight AIDS, Tuberculosis and Malaria and other appropriate international organizations (such as the International Bank for Reconstruction and Development), relevant regional multilateraldevelopment institutions, national, state, and local governments of partner countries, other international actors,,<sup>2</sup> appropriate governmental and nongovernmental organizations, and relevant executive branch agencies within the framework of the principles of the Three Ones.
 
 #### (d) Activities supported
 
@@ -128,7 +128,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 &emsp;&emsp;(A) assistance to establish and implement programs to strengthen and broaden indigenous health care delivery systems and the capacity of such systems to deliver HIV/AIDS pharmaceuticals and otherwise provide for the treatment of individuals with HIV/AIDS, including clinical training for indigenous organizations and health care providers;
 
-&emsp;&emsp;(B) assistance to strengthen and expand hospice and palliative care programs to assist patients debilitated by HIV/AIDS, their families, and the primary caregivers of such patients, including programs that utilize faith-based and community-based organizations;
+&emsp;&emsp;(B) assistance to strengthen and expand hospice and palliative care programs to assist patients debilitated by HIV/AIDS, their families, and the primary caregivers of such patients, including programs that utilizefaith-based and community-based organizations;
 
 &emsp;&emsp;(C) assistance for the purpose of the care and treatment of individuals with HIV/AIDS through the provision of pharmaceuticals, including antiretrovirals and other pharmaceuticals and therapies for the treatment of opportunistic infections, pain management, nutritional support, and other treatment modalities;
 
@@ -138,7 +138,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 #### (3) Preventative intervention education and technologies
 
-&emsp;(A) With particular emphasis on specific populations that represent a particularly high risk of contracting or spreading HIV/AIDS, including those exploited through the sex trade, victims of rape and sexual assault, individuals already infected with HIV/AIDS, and in cases of occupational exposure of health care workers, assistance with efforts to reduce the riskof HIV/AIDS infection including post-exposure pharmaceutical prophylaxis, and necessary pharmaceuticals and commodities, including test kits, condoms, and, when proven effective, microbicides.
+&emsp;(A) With particular emphasis on specific populations that represent a particularly high risk of contracting or spreading HIV/AIDS, including those exploited through the sex trade, victims of rape and sexual assault, individuals already infected with HIV/AIDS, and in cases of occupational exposure of health care workers, assistance with efforts to reduce the risk of HIV/AIDS infection including post-exposure pharmaceutical prophylaxis, and necessary pharmaceuticals and commodities, including test kits, condoms, and, when proven effective, microbicides.
 
 &emsp;(B) Bulk purchases of available test kits, condoms, and, when proven effective, microbicides that are intended to reduce the risk of HIV/AIDS transmission and for appropriate program support for the introduction and distribution of these commodities, as well as education and training on the use of the technologies.
 
@@ -190,7 +190,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 #### (D) Distribution
 
-&emsp;&emsp;The distribution of such HIV/AIDS pharmaceuticals, antiviral therapies, and other appropriate medicines (including medicines to treat opportunistic infections) to qualified national, regional, or local organizations for the treatment of individuals with HIV/AIDS in accordance with appropriate HIV/AIDS testing and monitoring requirements and treatment protocols and for the prevention of mother-to-child transmission of the HIV infection.
+&emsp;&emsp;The distribution of such HIV/AIDS pharmaceuticals, antiviral therapies, and other appropriate medicines (including medicines to treat opportunistic infections) to qualified national, regional, or local organizations for the treatment of individuals with HIV/AIDS in accordance with appropriate HIV/AIDS testing and monitoring requirements and treatment protocols and for theprevention of mother-to-child transmission of the HIV infection.
 
 #### (6) Related and coordinated activities
 
@@ -270,7 +270,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 #### (8) Compacts and framework agreements
 
-&emsp;The development of compacts or framework agreements, tailored to local circumstances, with national governments or regional partnerships in countries with significant HIV/AIDS burdens to promote host government commitment to deeper integration of HIV/AIDS services into health systems, contribute to health systems overall, and enhance sustainability, including—
+&emsp;The development of compacts or framework agreements, tailored to local circumstances,with national governments or regional partnerships in countries with significant HIV/AIDS burdens to promote host government commitment to deeper integration of HIV/AIDS services into health systems, contribute to health systems overall, and enhance sustainability, including—
 
 &emsp;&emsp;(A) cost sharing assurances that meet the requirements under section 2151h of this title; and
 
@@ -284,7 +284,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 &emsp;&emsp;(A) The congressionally mandated Institute of Medicine report entitled "PEPFAR Implementation: Progress and Promise" states: "The next strategy \[of the U.S. Global AIDS Initiative\] should squarely address the needs and challenges involved in supporting sustainable country HIV/AIDS programs, thereby transitioning from a focus on emergency relief.".
 
-&emsp;&emsp;(B) One mechanism to promote the transition from an emergency to a public health and development approach to HIV/AIDS isthrough compacts or framework agreements between the United States Government and each participating nation.
+&emsp;&emsp;(B) One mechanism to promote the transition from an emergency to a public health and development approach to HIV/AIDS is through compacts or framework agreements between the United States Government and each participating nation.
 
 #### (2) Elements
 
@@ -528,7 +528,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 &emsp;&emsp;&emsp;(ii) the number and percentage of eligible HIV positive patients starting isoniazid preventative therapy.
 
-&emsp;&emsp;(Q) A description of efforts by partner countries to train, employ, and retain health care workers, including efforts to address workforce shortages.
+&emsp;&emsp;(Q) A description of efforts by partner countries to train, employ, and retain healthcare workers, including efforts to address workforce shortages.
 
 &emsp;&emsp;(R) A description of program evaluations completed during the reporting period, including whether all completed evaluations have been published on a publically available Internet website and whether any completed evaluations did not adhere to the common evaluation standards of practice published under paragraph (4).
 
@@ -628,7 +628,7 @@ Pub. L. 113–76, div. K, title III, Jan. 17, 2014, 128 Stat. 477, provided in p
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

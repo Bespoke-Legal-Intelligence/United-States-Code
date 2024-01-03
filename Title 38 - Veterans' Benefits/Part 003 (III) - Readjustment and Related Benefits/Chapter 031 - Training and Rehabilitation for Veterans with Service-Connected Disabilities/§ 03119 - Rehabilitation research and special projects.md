@@ -8,7 +8,7 @@
 
 (b) For the purpose specified in subsection (a) of this section, the Secretary is authorized to make grants to or contract with public or nonprofit agencies, including institutions of higher learning.
 
-(c) The Secretary shall cooperate with the Commissioner of the Rehabilitation Services Administration and the Director of the Institute of Handicapped Research in the Department of Education, the Assistant Secretary for Veterans' Employment in the Department of Labor, and the Secretary of Health and Human Services regarding rehabilitation studies, research, and special projects of mutual programmatic concern.
+(c) The Secretary shall cooperate with the Commissioner of the Rehabilitation Services Administration and the Director of the Institute of Handicapped Research in the Department of Education, the Assistant Secretary for Veterans' Employment in the Department of Labor,and the Secretary of Health and Human Services regarding rehabilitation studies, research, and special projects of mutual programmatic concern.
 
 (Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2184, §1519; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3119, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 

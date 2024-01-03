@@ -19,7 +19,7 @@
 | [3312\.](%C2%A7%2003312%20-%20Photographs%20or%20microphotographs%20of%20records%20considered%20as%20originals%3B%20certified%20reproductions%20admissible%20in%20evidence.md) | Photographs or microphotographs of records considered as originals; certified reproductions admissible in evidence. |
 | [3313\.](%C2%A7%2003313%20-%20Moneys%20from%20sale%20of%20records%20payable%20into%20the%20Treasury.md) | Moneys from sale of records payable into the Treasury. |
 | [3314\.](%C2%A7%2003314%20-%20Procedures%20for%20disposal%20of%20records%20exclusive.md) | Procedures for disposal of records exclusive. |
-| \[3315 to 3324. Repealed.\]<br> |  |
+| \[3315 to 3324. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -74,7 +74,7 @@ The sanctions the President may impose with respect to a foreign person under su
 
 #### (4) Dual-use export prohibition
 
-&emsp;The President may prohibit the issuance of any license and suspend any license for thetransfer to the foreign person of any item the export of which is controlled under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) <sup>1</sup> (as in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)) or the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations.
+&emsp;The President may prohibit the issuance of any license and suspend any license for the transfer to the foreign person of any item the export of which is controlled under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) <sup>1</sup> (as in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)) or the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations.
 
 #### (5) Property transactions
 
@@ -88,7 +88,7 @@ The sanctions the President may impose with respect to a foreign person under su
 
 #### (6) Banking transactions
 
-&emsp;The President may, pursuant to such regulations as the President may prescribe, prohibit any transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the foreign person.
+&emsp;The President may, pursuant to such regulations as the President may prescribe, prohibitany transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the foreign person.
 
 #### (7) Prohibition on investment in equity or debt of sanctioned person
 
@@ -244,7 +244,7 @@ The International Emergency Economic Powers Act, referred to in subsecs. (c)(4) 
 
 <b>2017</b>—Subsec. (a)(3)(B)(ii). Pub. L. 115–44, §229(a)(3), substituted "subsection (i)" for "subsection (h)".
 
-Subsec. (b)(1). Pub. L. 115–44, §225, substituted "on and after the date that is 30 days after August 2, 2017, the President shall impose, unless the President determines that it is not in the national interest of the United States to do so," for "on and after the date that is 45 days after December 18, 2014, the President may impose".
+Subsec. (b)(1). Pub. L. 115–44, §225, substituted "on and after the date that is 30 days after August 2, 2017,the President shall impose, unless the President determines that it is not in the national interest of the United States to do so," for "on and after the date that is 45 days after December 18, 2014, the President may impose".
 
 Subsecs. (g) to (i). Pub. L. 115–44, §229(a)(1), (2), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
@@ -346,7 +346,7 @@ Reporting and discharge.—If the Committee on Finance has not reported such joi
 
 &emsp;&emsp;"(C)
 
-Motion to proceed.—Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the Committee on Finance reports the joint resolution of disapproval to the Senate or has been discharged from its consideration (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) shall be waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint resolution of disapproval is agreed to, the joint resolution shall remain the unfinished business until disposed of.
+Motion to proceed.—Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the Committee on Finance reports the joint resolution of disapproval to the Senate or has been discharged from its consideration (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) shall be waived. The motion to proceed is not debatable.The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint resolution of disapproval is agreed to, the joint resolution shall remain the unfinished business until disposed of.
 
 &emsp;&emsp;"(D)
 

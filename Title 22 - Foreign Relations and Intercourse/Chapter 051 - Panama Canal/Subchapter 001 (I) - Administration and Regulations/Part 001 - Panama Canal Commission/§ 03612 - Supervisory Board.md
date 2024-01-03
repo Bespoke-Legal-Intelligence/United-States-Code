@@ -10,7 +10,7 @@ The President shall appoint the members of the Board. The members of the Board w
 
 #### (c) Meetings; quorum; proxies
 
-The Board shall hold meetings as provided in regulations adopted by the Commission and approved by the Secretary of Defense. A quorum for the transaction of business shall consist of a majority of the Board members of which a majority of those present are nationals of the United States. The Secretary of Defense, or the officer of the Department of Defense designated by the Secretary under subsection (a) of this section, may act by proxy for any other member of the Board if that other member authorizes the proxy in writing and signs the proxy. The proxy may be counted to establish a quorum and may be used by the Secretary of Defense, or the officer of the Department of Defense designated by the Secretary under subsection (a) of this section, to cast the vote of the absent Board member and to act for that member with all the powers that member would possess if present.
+The Board shall hold meetings as provided in regulations adopted by the Commission and approved by the Secretary of Defense. A quorum for the transaction of business shall consist of a majority of the Board members of which a majority of those present are nationals of the United States. The Secretary of Defense, or the officer of the Department of Defense designated by the Secretary under subsection (a) of thissection, may act by proxy for any other member of the Board if that other member authorizes the proxy in writing and signs the proxy. The proxy may be counted to establish a quorum and may be used by the Secretary of Defense, or the officer of the Department of Defense designated by the Secretary under subsection (a) of this section, to cast the vote of the absent Board member and to act for that member with all the powers that member would possess if present.
 
 (Pub. L. 96–70, title I, §1102, Sept. 27, 1979, 93 Stat. 456; Pub. L. 98–217, Feb. 14, 1984, 98 Stat. 9; Pub. L. 99–223, §6, Dec. 28, 1985, 99 Stat. 1740; Pub. L. 100–203, title V, §5416, Dec. 22, 1987, 101 Stat. 1330–270; Pub. L. 100–705, §7, Nov. 19, 1988, 102 Stat. 4686; Pub. L. 101–510, div. C, title XXXV, §3504, Nov. 5, 1990, 104 Stat. 1846; Pub. L. 104–106, div. C, title XXXV, §3523, Feb. 10, 1996, 110 Stat. 638; Pub. L. 105–261, div. C, title XXXV, §3511(a), Oct. 17, 1998, 112 Stat. 2270.)
 
@@ -28,7 +28,7 @@ The Board shall hold meetings as provided in regulations adopted by the Commissi
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–203 inserted before period at end "or, as authorized by the Chairman of the Board, while on official Panama Canal Commission business".
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–223 inserted provisions relating to compensation of members of the Board whohold no other office with either the Government of the United States or the Republic of Panama for which they receive pay.
+<b>1985</b>—Subsec. (b). Pub. L. 99–223 inserted provisions relating to compensation of members of the Board who hold no other office with either the Government of the United States or the Republic of Panama for which they receive pay.
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–217 inserted provisions under which the Secretary of Defense or the officer of the Department of Defense designated by the Secretary may act by proxy for other members of the Board.
 

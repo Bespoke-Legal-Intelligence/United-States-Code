@@ -2,7 +2,7 @@
 
 No funds received under this chapter may be used to provide career and technical education programs or programs of study to students prior to the the <sup>1</sup> middle grades (as such term is defined in section 7801 of this title), except that equipment and facilities purchased with funds under this chapter may be used by such students.
 
-(Pub. L. 88–210, title II, §215, formerly title III, §315, as added Pub. L. 109–270, §1(b), Aug. 12, 2006,120 Stat. 744; renumbered title II, §215, and amended Pub. L. 115–224, title II, §201(a)(3), (5), (6), July 31, 2018, 132 Stat. 1621.)
+(Pub. L. 88–210, title II, §215, formerly title III, §315, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 744; renumbered title II, §215, and amended Pub. L. 115–224, title II, §201(a)(3), (5), (6), July 31, 2018, 132 Stat. 1621.)
 
 #### <b>Editorial Notes</b>
 

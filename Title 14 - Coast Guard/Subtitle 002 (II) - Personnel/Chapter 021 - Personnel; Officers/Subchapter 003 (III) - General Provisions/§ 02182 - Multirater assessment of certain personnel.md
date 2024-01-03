@@ -26,7 +26,7 @@ Officers.—Each officer of the Coast Guard shall undergo a multirater assessmen
 
 &emsp;(3)
 
-Enlisted members.—Each enlisted member of the Coast Guard shall undergo amultirater assessment before advancement to—
+Enlisted members.—Each enlisted member of the Coast Guard shall undergo a multirater assessment before advancement to—
 
 &emsp;&emsp;(A) the grade of E–7;
 

@@ -44,7 +44,7 @@ There are authorized to be appropriated to carry out the Program for each of fis
 
 &emsp;(2) $15,000,000 to the Nuclear Regulatory Commission.
 
-(Pub. L. 111–8, div. C, title III, §313, Mar. 11, 2009, 123 Stat. 627; Pub. L. 116–260, div. Z, title II, §2003(e), Dec. 27, 2020, 134 Stat. 2465; Pub. L. 117–167, div. B, title VI, §10745(b), Aug. 9, 2022, 136 Stat. 1721.)
+(Pub. L. 111–8, div. C, title III, §313, Mar. 11, 2009, 123 Stat. 627; Pub. L. 116–260, div. Z, title II,§2003(e), Dec. 27, 2020, 134 Stat. 2465; Pub. L. 117–167, div. B, title VI, §10745(b), Aug. 9, 2022, 136 Stat. 1721.)
 
 #### <b>Editorial Notes</b>
 

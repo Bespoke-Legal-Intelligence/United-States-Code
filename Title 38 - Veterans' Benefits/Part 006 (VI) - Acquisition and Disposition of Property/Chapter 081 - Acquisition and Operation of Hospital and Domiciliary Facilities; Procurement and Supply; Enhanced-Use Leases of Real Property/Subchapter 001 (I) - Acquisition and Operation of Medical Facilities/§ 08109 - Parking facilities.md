@@ -12,7 +12,7 @@
 
 &emsp;(3) The term "eligible person" means an individual to whom the Secretary is authorized to furnish medical examination or treatment.
 
-(b) In order to accommodate the vehicles of employees of medical facilities, vehicles used to transport veterans and eligible persons to or from such facilities for the purpose of examination or treatment, and the vehicles of visitors and other individuals having business at such facilities, the Secretary—
+(b) In order to accommodate the vehicles of employees of medical facilities, vehicles used totransport veterans and eligible persons to or from such facilities for the purpose of examination or treatment, and the vehicles of visitors and other individuals having business at such facilities, the Secretary—
 
 &emsp;(1) may construct or alter parking facilities, and may acquire, by purchase, lease, condemnation, donation, exchange, or otherwise, such land or interests in land as the Secretary considers necessary for use as the site for any such construction or alteration;
 
@@ -60,7 +60,7 @@
 
 (2) For the purpose of section 8104(a)(2) of this title, a bill, resolution, or amendment which provides that funds in the revolving fund (including any funds proposed in such bill, resolution, or amendment to be appropriated to the revolving fund) may be expended for a project involving a total expenditure of more than $4,000,000 for the construction, alteration, or acquisition (including site acquisition) of a parking facility or facilities at a medical facility shall be considered to be a bill, resolution, or amendment making an appropriation which may be expended for a major medical facility project.
 
-(j) Funds in a construction account or capital account that are available for a constructionproject or a nonrecurring maintenance project may be used for the construction or relocation of a surface parking lot incidental to that project.
+(j) Funds in a construction account or capital account that are available for a construction project or a nonrecurring maintenance project may be used for the construction or relocation of a surface parking lot incidental to that project.
 
 (Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5009; amended Pub. L. 99–576, title II, §223(a)(1), Oct. 28, 1986, 100 Stat. 3259; renumbered §8109 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–79, §3(b), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §207(b), Oct. 9, 1996, 110 Stat. 3190; Pub. L. 105–368, title VII, §705, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–422, title IV, §415, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 115–141, div. J, title II, §234, Mar. 23, 2018, 132 Stat. 820.)
 

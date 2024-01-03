@@ -30,7 +30,7 @@ In this subpart:
 
 &emsp;&emsp;(G) includes frequent practice of reading and writing strategies;
 
-&emsp;&emsp;(H) uses age-appropriate, valid, and reliable screening assessments, diagnostic assessments, formative assessment processes, and summative assessments to identify a child's learning needs, to inform instruction, and to monitor the child's progress and the effects of instruction;
+&emsp;&emsp;(H) uses age-appropriate, valid, and reliable screening assessments, diagnostic assessments, formative assessment processes,and summative assessments to identify a child's learning needs, to inform instruction, and to monitor the child's progress and the effects of instruction;
 
 &emsp;&emsp;(I) uses strategies to enhance children's motivation to read and write and children's engagement in self-directed learning;
 

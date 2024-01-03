@@ -60,7 +60,7 @@ Subsec. (d)(2). Pub. L. 95–631, §4(a)(2)(A)–(C), inserted in first sentence
 
 Subsec. (d)(4). Pub. L. 95–631, §4(a)(3), added par. (4).
 
-Subsec. (e). Pub. L. 95–631, §(4)(b), amended provisions generally, and among other changes, substituted references to subsec. (b)(1)(D)(ii)(I) of this section for prior references to subsec. (b) of this section, and struck outpar. (3) defining the development period, now covered in subsec. (b)(1)(E) of this section.
+Subsec. (e). Pub. L. 95–631, §(4)(b), amended provisions generally, and among other changes, substituted references to subsec. (b)(1)(D)(ii)(I) of this section for prior references to subsec. (b) of this section, and struck out par. (3) defining the development period, now covered in subsec. (b)(1)(E) of this section.
 
 Subsec. (f). Pub. L. 95–631, §4(c), amended provisions generally, and among other changes, reduced the period within which to publish a proposed consumer product safety standard to forty-five days from 150 days and required the publication in the Federal Register of the reasons for not publishing the proposed standard, including a statement indicative of the taking of other approaches such as a voluntary consumer safety standard adopted by persons to be subject to the proposed standard.
 
@@ -142,7 +142,7 @@ Requirements.—
 
 &emsp;"(2)(A) Effective on and after January 1, 1993, all residential automatic garage door openers manufactured on and after such date for sale in the United States shall conform to any additional entrapment protection requirements of the American National Standards Institute Underwriters Laboratories, Inc. Standards for Safety—UL 325, third edition, which were issued after the date of the enactment of this Act \[Nov. 16, 1990\] to become effective on or before January 1, 1993.
 
-&emsp;"(B) If, by June 1, 1992, the Underwriters Laboratories, Inc., has not issued a revision to the May 4, 1988, Standards for Safety—UL 325, third edition, to require an entrapment protection feature or device in addition to that required by the May 4, 1988, Standard, the Consumer Product Safety Commission shall begin a rulemaking proceeding, to be completed no later than October 31, 1992, to require an additional such feature or device on all automatic residential garage door openers manufactured on or after January 1, 1993, for sale in the United States. If such a revision is issued by the Underwriters Laboratories,Inc. after the rulemaking has commenced, the rulemaking shall be terminated and the revision shall be incorporated in the consumer product safety rule under subsection (a) unless the Commission has determined under subsection (c) that such revision does not carry out the purposes of subsection (b).
+&emsp;"(B) If, by June 1, 1992, the Underwriters Laboratories, Inc., has not issued a revision to the May 4, 1988, Standards for Safety—UL 325, third edition, to require an entrapment protection feature or device in addition to that required by the May 4, 1988, Standard, the Consumer Product Safety Commission shall begin a rulemaking proceeding, to be completed no later than October 31, 1992, to require an additional such feature or device on all automatic residential garage door openers manufactured on or after January 1, 1993, for sale in the United States. If such a revision is issued by the Underwriters Laboratories, Inc. after the rulemaking has commenced, the rulemaking shall be terminated and the revision shall be incorporated in the consumer product safety rule under subsection (a) unless the Commission has determined under subsection (c) that such revision does not carry out the purposes of subsection (b).
 
 "(c)
 
@@ -162,7 +162,7 @@ Preemption.—In applying section 26(a) of the Consumer Product Safety Act (15 U
 
 "(g)
 
-Regulations.—Section 553 of title 5, United States Code, shall apply with respect to the issuance of any regulations by the Consumer Product Safety Commission to implement the requirements of this section and sections 7 and 9 of the Consumer Product Safety Act \[15 U.S.C. 2056, 2058\] do not apply to such issuance. Any additional or revised requirement issued by the Commission shall provide an adequate degree of protection to the public.
+Regulations.—Section 553 of title 5, United States Code, shall apply with respect to the issuance of any regulations by the Consumer Product Safety Commission to implement the requirements of this section and sections 7 and 9 of the Consumer Product Safety Act \[15 U.S.C. 2056, 2058\] do not apply to such issuance. Any additional or revised requirement issued by theCommission shall provide an adequate degree of protection to the public.
 
 "(h)
 

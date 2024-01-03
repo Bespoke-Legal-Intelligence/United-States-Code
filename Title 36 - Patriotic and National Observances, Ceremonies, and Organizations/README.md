@@ -118,6 +118,7 @@
 | <b>1409 through 1499. </b> | <b>reserved</b> |  |
 | [<b>1501.</b>](Subtitle%20002%20%28II%29%20-%20Patriotic%20and%20National%20Organizations/Part%20B%20-%20Organizations/Chapter%201501%20-%20National%20Academy%20of%20Public%20Administration/README.md) | <b>National Academy of Public Administration</b> | <b>150101</b> |
 | [<b>1503.</b>](Subtitle%20002%20%28II%29%20-%20Patriotic%20and%20National%20Organizations/Part%20B%20-%20Organizations/Chapter%201503%20-%20National%20Academy%20of%20Sciences/README.md) | <b>National Academy of Sciences</b> | <b>150301</b> |
+| [<b>1504.</b>](Subtitle%20002%20%28II%29%20-%20Patriotic%20and%20National%20Organizations/Part%20B%20-%20Organizations/Chapter%201504%20-%20National%20American%20Indian%20Veterans%2C%20Incorporated/README.md) | <b>National American Indian Veterans, Incorporated</b> | <b>150401</b> |
 | [<b>1505.</b>](Subtitle%20002%20%28II%29%20-%20Patriotic%20and%20National%20Organizations/Part%20B%20-%20Organizations/Chapter%201505%20-%20National%20Conference%20of%20State%20Societies%2C%20Washington%2C%20District%20of%20Columbia/README.md) | <b>National Conference of State Societies, Washington, District of Columbia</b> | <b>150501</b> |
 | [<b>1507.</b>](Subtitle%20002%20%28II%29%20-%20Patriotic%20and%20National%20Organizations/Part%20B%20-%20Organizations/Chapter%201507%20-%20National%20Conference%20on%20Citizenship/README.md) | <b>National Conference on Citizenship</b> | <b>150701</b> |
 | [<b>1509.</b>](Subtitle%20002%20%28II%29%20-%20Patriotic%20and%20National%20Organizations/Part%20B%20-%20Organizations/Chapter%201509%20-%20National%20Council%20on%20Radiation%20Protection%20and%20Measurements/README.md) | <b>National Council on Radiation Protection and Measurements</b> | <b>150901</b> |
@@ -185,6 +186,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. E, title LI, §5103(b), Dec. 22, 2023, 137 Stat. 938, which directed amendment of analysis for subtitle II of this title by adding item 1504, was executed by making the addition to this analysis to reflect the probable intent of Congress.
 
 <b>2020</b>—Pub. L. 116–189, §4(b), Oct. 30, 2020, 134 Stat. 946, which directed amendment of analysis for part B of subtitle II of this title by substituting "United States Olympic and Paralympic Committee" for "United States Olympic Committee" in item for chapter 2205, was executed by making the substitution in this analysis to reflect the probable intent of Congress.
 

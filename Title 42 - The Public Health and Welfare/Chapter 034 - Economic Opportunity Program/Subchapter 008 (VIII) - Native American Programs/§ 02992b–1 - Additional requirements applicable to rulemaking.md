@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding subsection (a) of section 553 of title 5, and except as otherwise provided in this section, such section 553 shall apply with respect to the establishment and general operation of any program that provides loans,grants, benefits, or contracts authorized by this subchapter.
+Notwithstanding subsection (a) of section 553 of title 5, and except as otherwise provided in this section, such section 553 shall apply with respect to the establishment and general operation of any program that provides loans, grants, benefits, or contracts authorized by this subchapter.
 
 #### (b) Interpretative rule or general statement of policy; waiver of notice and public procedure regarding any other rule
 

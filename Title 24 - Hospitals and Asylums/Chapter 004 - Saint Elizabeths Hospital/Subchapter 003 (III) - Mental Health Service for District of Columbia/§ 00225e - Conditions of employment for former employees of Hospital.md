@@ -8,7 +8,7 @@ Each individual accepting employment without a break in service with the Distric
 
 &emsp;(2) meet all licensure requirements within 18 months of appointment by the District government;
 
-&emsp;(3) notwithstanding chapter 63 of title 5, transfer accrued annual and sick leave balances pursuant to title XII of the District of Columbia Comprehensive Merit Personnel Act of 1978;
+&emsp;(3) notwithstanding chapter 63 of title 5, transfer accrued annual and sick leave balances pursuant to title XII of the District ofColumbia Comprehensive Merit Personnel Act of 1978;
 
 &emsp;(4) have the grade and rate of pay determined in accordance with regulations established pursuant to title XI of the District of Columbia Comprehensive Merit Personnel Act of 1978, except that no employee shall suffer a loss in the basic rate of pay or in seniority;
 
@@ -16,7 +16,7 @@ Each individual accepting employment without a break in service with the Distric
 
 &emsp;(6) be entitled to the same health and life insurance benefits as are available to District employees in the applicable service;
 
-&emsp;(7) if employed by the Federal Government before January 1, 1984, continue to be covered by the United States Civil Service RetirementSystem, under chapter 83 of title 5, to the same extent that such retirement system covers District Government <sup>1</sup> employees; and
+&emsp;(7) if employed by the Federal Government before January 1, 1984, continue to be covered by the United States Civil Service Retirement System, under chapter 83 of title 5, to the same extent that such retirement system covers District Government <sup>1</sup> employees; and
 
 &emsp;(8) if employed by the Federal Government on or after January 1, 1984, be subject to the retirement system applicable to District government employees pursuant to title XXVI, Retirement, of the District of Columbia Government Comprehensive Merit Personnel Act of 1978.
 

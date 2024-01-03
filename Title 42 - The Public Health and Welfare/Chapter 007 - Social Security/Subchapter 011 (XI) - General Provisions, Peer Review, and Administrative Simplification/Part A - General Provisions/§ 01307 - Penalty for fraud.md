@@ -22,7 +22,7 @@ Pub. L. 103–296, §108(b)(6), which directed that subsec. (b) be amended by su
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2663(e)(2)(A), substituted "of chapter 2, 21, or 23 of the Internal Revenue Code of 1954, or of any provision of subtitle F of such Code which corresponds (within the meaning of section7852(b) of such Code) to a provision contained in subchapter E of chapter 9 of the Internal Revenue Code of 1939," for "subchapter E of chapter 1 or subchapter A, C, or E of chapter 9 of the Internal Revenue Code \[of 1939\]".
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2663(e)(2)(A), substituted "of chapter 2, 21, or 23 of the Internal Revenue Code of 1954, or of any provision of subtitle F of such Code which corresponds (within the meaning of section 7852(b) of such Code) to a provision contained in subchapter E of chapter 9 of the Internal Revenue Code of 1939," for "subchapter E of chapter 1 or subchapter A, C, or E of chapter 9 of the Internal Revenue Code \[of 1939\]".
 
 Subsec. (b). Pub. L. 98–369, §2663(l)(1), substituted "Secretary" for "Administrator".
 

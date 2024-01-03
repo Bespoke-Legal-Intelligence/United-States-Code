@@ -8,7 +8,7 @@ Establishment.—The Secretary of Defense may establish and carry out a program 
 
 Program Activities.—The activities that may be carried out under the program established under subsection (a) are the following:
 
-&emsp;(1) Identification, investigation, and documentation of suspected environmental effectsattributable to past actions by the Department of Defense.
+&emsp;(1) Identification, investigation, and documentation of suspected environmental effects attributable to past actions by the Department of Defense.
 
 &emsp;(2) Development of mitigation options for such environmental effects, including development of cost-to-complete estimates and a system for prioritizing mitigation actions.
 

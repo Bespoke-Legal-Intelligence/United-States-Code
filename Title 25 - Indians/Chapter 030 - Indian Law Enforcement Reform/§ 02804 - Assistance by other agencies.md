@@ -82,7 +82,7 @@ The Bureau may accept reimbursement, resources, assistance, or funding from—
 
 #### References in Text
 
-Section 5412(a) of this title, referred to in subsec. (g)(2), was in the original "section 701(a) of the Indian Self-Determination and Education Assistance Act", and was translated as reading "section 702(a) of the Indian Self-Determination and Education Assistance Act", meaning section 702(a) of Pub. L. 93–638, to reflect the probable intent of Congress, because Pub. L. 93–638 does not contain a section 701(a), and section 702(a) of Pub. L. 93–638 relates to establishment of the Indian Law Enforcement Foundation.
+Section 5412(a) of this title, referred to in subsec. (g)(2), was in the original "section 701(a) of the Indian Self-Determination and Education Assistance Act", and was translated as reading "section 702(a) of the Indian Self-Determination and Education Assistance Act", meaning section 702(a) of Pub. L. 93–638, to reflectthe probable intent of Congress, because Pub. L. 93–638 does not contain a section 701(a), and section 702(a) of Pub. L. 93–638 relates to establishment of the Indian Law Enforcement Foundation.
 
 #### Amendments
 

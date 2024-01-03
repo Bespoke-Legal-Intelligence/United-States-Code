@@ -8,7 +8,7 @@
 
 #### (2) Exception for collective bargaining agreements
 
-&emsp;Paragraph (1) shall not apply to any organization which is part of a plan maintained pursuant to an agreement between employee representatives and 1 or more employers if the Secretary finds that such agreement is a collective bargaining agreement and that such plan was the subject of good faith bargaining between such employee representatives and such employer or employers.
+&emsp;Paragraph (1) shall not apply to any organization which is part of a plan maintained pursuant to an agreement between employee representatives and 1 or more employers if theSecretary finds that such agreement is a collective bargaining agreement and that such plan was the subject of good faith bargaining between such employee representatives and such employer or employers.
 
 #### (b) Nondiscrimination requirements
 
@@ -174,7 +174,7 @@ In general.—The amendments made by this section \[enacting this section\] shal
 
 "(2)
 
-Treatment of certain benefits in pay status as of january 1, 1985.—For purposes of determining whether a plan meets the requirements of section 505(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)), there may (at the election of the employer) be excluded from consideration all disability or severance payments payable to individuals who are in pay status as of January 1, 1985. The preceding sentence shall not apply to any payment to the extent such payment is increased by any plan amendment adopted after June 22, 1984."
+Treatment of certain benefits in pay status as of january 1, 1985.—For purposes of determining whether a plan meets the requirements of section 505(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)), there may (at theelection of the employer) be excluded from consideration all disability or severance payments payable to individuals who are in pay status as of January 1, 1985. The preceding sentence shall not apply to any payment to the extent such payment is increased by any plan amendment adopted after June 22, 1984."
 
 #### Regulations
 

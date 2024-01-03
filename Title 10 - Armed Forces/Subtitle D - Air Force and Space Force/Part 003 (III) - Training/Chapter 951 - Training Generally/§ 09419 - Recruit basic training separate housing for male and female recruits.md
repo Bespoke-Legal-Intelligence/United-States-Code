@@ -18,13 +18,15 @@ Construction Planning.—In planning for the construction of housing to be used 
 
 (d)
 
-Basic Training Defined.—In this section, the term "basic training" means the initial entry training program of the Air Force that constitutes the basic training of new recruits.
+Basic Training Defined.—In this section, the term "basic training" means the initial entry training program of the Air Force or the Space Force that constitutes the basic training of new recruits.
 
-(Added Pub. L. 105–261, div. A, title V, §521(c)(1), Oct. 17, 1998, 112 Stat. 2011, §9319; renumbered §9419, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
+(Added Pub. L. 105–261, div. A, title V, §521(c)(1), Oct. 17, 1998, 112 Stat. 2011, §9319; renumbered §9419, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832; amended Pub. L. 118–31, div. A, title XVII, §1741(b)(6), Dec. 22, 2023, 137 Stat. 681.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d). Pub. L. 118–31 inserted "or the Space Force" after "training program of the Air Force".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9319 of this title as this section.
 
@@ -32,7 +34,7 @@ Basic Training Defined.—In this section, the term "basic training" means the i
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Implementation
 

@@ -38,7 +38,7 @@ Annual Report on Non-federalized Service National Guard Personnel, Training, and
 
 (3) The annual report required by paragraph (1) shall be submitted to the following officials:
 
-&emsp;(A) The congressional defense committees, the Committee on Homeland Security of the House of Representatives, and the Committeeon Homeland Security and Governmental Affairs of the Senate.
+&emsp;(A) The congressional defense committees, the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
 &emsp;(B) The Secretary of Defense.
 

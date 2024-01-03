@@ -9,7 +9,7 @@
 | [405\.](%C2%A7%2000405%20-%20Use%20of%20Department%20of%20Defense%20funds%20for%20United%20States%20share%20of%20costs%20of%20United%20Nations%20peacekeeping%20activities%20limitation.md) | Use of Department of Defense funds for United States share of costs of United Nations peacekeeping activities: limitation. |
 | \[406. | Renumbered.\] |
 | [407\.](%C2%A7%2000407%20-%20Humanitarian%20demining%20assistance%20and%20stockpiled%20conventional%20munitions%20assistance%20authority%3B%20limitations.md) | Humanitarian demining assistance and stockpiled conventional munitions assistance: authority; limitations. |
-| [408\.](%C2%A7%2000408%20-%20Equipment%20and%20training%20of%20foreign%20personnel%20to%20assist%20in%20Department%20of%20Defense%20accounting%20for%20missing%20United%20States%20Government%20personnel.md) | Equipment and training of foreign personnel to assist in Department of Defense accounting for missing United States Government personnel. |
+| [408\.](%C2%A7%2000408%20-%20Assistance%20in%20support%20of%20Department%20of%20Defense%20accounting%20for%20missing%20United%20States%20Government%20personnel.md) | Assistance in support of Department of Defense accounting for missing United States Government personnel. |
 | [409\.](%C2%A7%2000409%20-%20Center%20for%20Complex%20Operations.md) | Center for Complex Operations. |
 | \[410. | Repealed.\] |
 
@@ -22,6 +22,8 @@
 Chapter was comprised of subchapter I, sections 401 to 404, and subchapter II, section 410, prior to amendment by Pub. L. 104–106, div. A, title V, §571(c), Feb. 10, 1996, 110 Stat. 353, which struck out headings for subchapters I and II.
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title X, §1042(a)(1), Dec. 22, 2023, 137 Stat. 388, substituted "Assistance in support of" for "Equipment and training of foreign personnel to assist in" in item 408. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title X, §1092(b)(2), Dec. 31, 2011, 125 Stat. 1606, added item 407 and struck out former item 407 "Humanitarian demining assistance: authority; limitations".
 
@@ -53,6 +55,6 @@ Pub. L. 104–106, div. A, title V, §571(c)(1), (2), Feb. 10, 1996, 110 Stat. 3
 - [&sect; 00405 - Use of Department of Defense funds for United States share of costs of United Nations peacekeeping activities limitation](%C2%A7%2000405%20-%20Use%20of%20Department%20of%20Defense%20funds%20for%20United%20States%20share%20of%20costs%20of%20United%20Nations%20peacekeeping%20activities%20limitation.md)
 - [&sect; 00406 - Renumbered &sect;401(f)](%C2%A7%2000406%20-%20Renumbered%20%C2%A7401%28f%29.md)
 - [&sect; 00407 - Humanitarian demining assistance and stockpiled conventional munitions assistance authority; limitations](%C2%A7%2000407%20-%20Humanitarian%20demining%20assistance%20and%20stockpiled%20conventional%20munitions%20assistance%20authority%3B%20limitations.md)
-- [&sect; 00408 - Equipment and training of foreign personnel to assist in Department of Defense accounting for missing United States Government personnel](%C2%A7%2000408%20-%20Equipment%20and%20training%20of%20foreign%20personnel%20to%20assist%20in%20Department%20of%20Defense%20accounting%20for%20missing%20United%20States%20Government%20personnel.md)
+- [&sect; 00408 - Assistance in support of Department of Defense accounting for missing United States Government personnel](%C2%A7%2000408%20-%20Assistance%20in%20support%20of%20Department%20of%20Defense%20accounting%20for%20missing%20United%20States%20Government%20personnel.md)
 - [&sect; 00409 - Center for Complex Operations](%C2%A7%2000409%20-%20Center%20for%20Complex%20Operations.md)
 - [&sect; 00410 - Repealed. Pub. L. 104&#8211;106, div. A, title V, &sect;571(a)(1), Feb. 10, 1996, 110 Stat. 353](%C2%A7%2000410%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7571%28a%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20353.md)

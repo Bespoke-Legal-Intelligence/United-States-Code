@@ -74,7 +74,7 @@ For purposes of this part:
 
 #### (1) DISC income
 
-&emsp;The earnings and profits derived by a corporation during a taxable year in which such corporation is a DISC, before reduction for any distributions during the year, but reduced by amounts deemed distributed under section 995(b)(1), shall constitute the DISC income forsuch year. The earnings and profits of a DISC for a taxable year include any amounts includible in such DISC's gross income pursuant to section 951(a) for such year. Accumulated DISC income shall be reduced by deemed distributions under section 995(b)(2).
+&emsp;The earnings and profits derived by a corporation during a taxable year in which such corporation is a DISC, before reduction for any distributions during the year, but reduced by amounts deemed distributed under section 995(b)(1), shall constitute the DISC income for such year. The earnings and profits of a DISC for a taxable year include any amounts includible in such DISC's gross income pursuant to section 951(a) for such year. Accumulated DISC income shall be reduced by deemed distributions under section 995(b)(2).
 
 #### (2) Previously taxed income
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of P
 
 Amendment by section 1101(e) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 1101(g)(1) of Pub. L. 94–455, set out as a note under section 905 of this title.
 
-Amendment by section 1901(b)(3)(I) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(3)(I) of Pub. L. 94–455 applicable with respect to taxable years beginning afterDec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

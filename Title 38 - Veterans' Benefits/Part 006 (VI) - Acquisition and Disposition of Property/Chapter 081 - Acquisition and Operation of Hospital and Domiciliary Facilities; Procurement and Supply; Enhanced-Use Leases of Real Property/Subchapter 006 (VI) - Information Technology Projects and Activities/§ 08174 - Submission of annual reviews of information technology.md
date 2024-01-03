@@ -6,7 +6,7 @@ In General.—The Secretary, acting through the Chief Information Officer of the
 
 (b)
 
-First Submission.—The first annual review submitted under subsection (a) shall include acopy of each previous annual review conducted under section 11319(d)(3) of title 40.
+First Submission.—The first annual review submitted under subsection (a) shall include a copy of each previous annual review conducted under section 11319(d)(3) of title 40.
 
 (Added Pub. L. 117–328, div. U, title IV, §403(a), Dec. 29, 2022, 136 Stat. 5488.)
 

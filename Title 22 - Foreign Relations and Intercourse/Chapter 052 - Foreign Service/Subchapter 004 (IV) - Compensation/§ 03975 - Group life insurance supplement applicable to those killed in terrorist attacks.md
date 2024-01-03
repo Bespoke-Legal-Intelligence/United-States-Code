@@ -32,7 +32,7 @@ Section 2656f(d) of this title, referred to in subsecs. (a)(1) and (b), was in t
 
 #### Effective Date
 
-Section applicable in the case of a Foreign Service or executive branch employee subject to the authority of the chief of mission pursuant to section 3927 of this title, serving at a United States diplomatic or consular mission abroad, who died on or after April 18, 1983, as a result of injuries from an act of terrorism, as defined in section 2656f(d) of this title, see section 7082(c) of Pub. L. 113–76, set out as an Effective Date of 2014 Amendment note under section 3973 of this title.
+Section applicable in the case of a Foreign Service or executive branch employee subject to the authority ofthe chief of mission pursuant to section 3927 of this title, serving at a United States diplomatic or consular mission abroad, who died on or after April 18, 1983, as a result of injuries from an act of terrorism, as defined in section 2656f(d) of this title, see section 7082(c) of Pub. L. 113–76, set out as an Effective Date of 2014 Amendment note under section 3973 of this title.
 
 #### Applicability
 

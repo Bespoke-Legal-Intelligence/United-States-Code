@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to be eligible to receive any payments under section 9006, the candidates of a political party in a presidential election shall, in writing—
+In order to be eligible to receive any payments under section 9006, the candidates of a politicalparty in a presidential election shall, in writing—
 
 &emsp;(1) agree to obtain and furnish to the Commission such evidence as it may request of the qualified campaign expenses of such candidates,
 
@@ -66,7 +66,7 @@ Subsecs. (b), (c). Pub. L. 93–443, §404(c)(5), substituted "Commission" for "
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–393, title V, §534(b), Oct. 6, 1992, 106 Stat. 1764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to amounts made available under chapter 95 or 96 of the Internal Revenue Code of 1986 more than thirty days after the date of the enactment of this Act \[Oct. 6, 1992\]."
+Pub. L. 102–393, title V, §534(b), Oct. 6, 1992, 106 Stat. 1764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply toamounts made available under chapter 95 or 96 of the Internal Revenue Code of 1986 more than thirty days after the date of the enactment of this Act \[Oct. 6, 1992\]."
 
 #### Effective Date of 1976 Amendment
 

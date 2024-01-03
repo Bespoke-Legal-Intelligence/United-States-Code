@@ -48,7 +48,7 @@ Pub. L. 99–190, §101(a) \[H.R. 3037, title I, §101\], Dec. 19, 1985, 99 Stat
 
 #### Feral Swine Eradication and Control Pilot Program
 
-Pub. L. 115–334, title II, §2408, Dec. 20, 2018, 132 Stat. 4574, provided that:
+Pub. L. 115–334, title II, §2408, Dec. 20, 2018, 132 Stat. 4574, as amended by Pub. L. 118–22, div. B, title I, §102(d)(1)(C), Nov. 17, 2023, 137 Stat. 116, provided that:
 
 "(a)
 
@@ -76,7 +76,7 @@ Assistance.—The Secretary may provide financial assistance to agricultural pro
 
 "(d)
 
-Coordination.—The Secretary shall ensure that the Natural Resources Conservation Service and the Animal and Plant Health Inspection Service coordinate for purposes of this section through State technical committees established under section 1261(a) of the Food Security Act of 1985 (16 U.S.C. 3861(a)).
+Coordination.—The Secretary shall ensure that the Natural Resources Conservation Service and the Animal and Plant Health Inspection Service coordinatefor purposes of this section through State technical committees established under section 1261(a) of the Food Security Act of 1985 (16 U.S.C. 3861(a)).
 
 "(e)
 
@@ -100,7 +100,7 @@ Funding.—
 
 &emsp;"(1)
 
-Mandatory funding.—Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $75,000,000 for the period of fiscal years 2019 through 2023.
+Mandatory funding.—Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $75,000,000 for the period of fiscal years 2019 through 2023 and $15,000,000 for fiscal year 2024.
 
 &emsp;"(2)
 

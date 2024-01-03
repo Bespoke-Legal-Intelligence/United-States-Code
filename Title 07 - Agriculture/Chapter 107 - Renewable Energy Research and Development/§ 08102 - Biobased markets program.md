@@ -76,7 +76,7 @@
 
 #### (F) Certification
 
-&emsp;&emsp;After the date specified in any applicable guidelines prepared pursuant to paragraph (3), contracting offices shall require that vendors certify that the biobased products to be used in the performance of the contract will comply with the applicable specifications or other contractual requirements.
+&emsp;&emsp;After the date specified in any applicable guidelines prepared pursuant to paragraph\(3), contracting offices shall require that vendors certify that the biobased products to be used in the performance of the contract will comply with the applicable specifications or other contractual requirements.
 
 #### (3) Guidelines
 
@@ -106,7 +106,7 @@
 
 #### (C) Information provided
 
-&emsp;&emsp;Information provided pursuant to subparagraph (B)(v) <sup>1</sup> with respect to a material or item shall be considered to be provided foranother item made with the same material or item.
+&emsp;&emsp;Information provided pursuant to subparagraph (B)(v) <sup>1</sup> with respect to a material or item shall be considered to be provided for another item made with the same material or item.
 
 #### (D) Prohibition
 
@@ -152,7 +152,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the results of the annual review and monitoring program established under paragraph (2)(C)(iv);
 
-&emsp;&emsp;&emsp;&emsp;(III) the number and dollar value of contracts entered into during the year that include the direct procurement of biobased products;
+&emsp;&emsp;&emsp;&emsp;(III) the number and dollar value of contracts entered into during the yearthat include the direct procurement of biobased products;
 
 &emsp;&emsp;&emsp;&emsp;(IV) the number of service and construction (including renovations) contracts entered into during the year that include language on the use of biobased products; and
 
@@ -242,7 +242,7 @@ Effective beginning on the date that is 90 days after the date of enactment of t
 
 #### (g) Forest products laboratory coordination
 
-In determining whether products are eligible for the "USDA Certified Biobased Product" label, the Secretary (acting through the Forest Products Laboratory) shall provide appropriate technical and other assistance to the program and applicants for forest products.
+In determining whether products are eligible for the "USDA Certified Biobased Product"label, the Secretary (acting through the Forest Products Laboratory) shall provide appropriate technical and other assistance to the program and applicants for forest products.
 
 #### (h) Streamlining
 
@@ -312,7 +312,7 @@ A procuring agency (as defined in subsection (a)(1)) shall not establish regulat
 
 #### (1) Mandatory funding
 
-&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $3,000,000 for each of fiscal years 2014 through 2023.
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $3,000,000 for each of fiscal years 2014 through 2024.
 
 #### (2) Discretionary funding
 
@@ -326,7 +326,7 @@ In this section, the term "biobased product" (as defined in section 8101 of this
 
 In carrying out this section, except as provided in subsection (g), the Secretary shall act through the rural development mission area.
 
-(Pub. L. 107–171, title IX, §9002, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1305, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2067; amended Pub. L. 112–240, title VII, §701(f)(1), Jan. 2, 2013, 126 Stat. 2364; Pub. L. 113–79, title IX, §9002(a), Feb. 7, 2014, 128 Stat. 926; Pub. L. 115–334, title IX, §9002, Dec. 20, 2018, 132 Stat. 4883.)
+(Pub. L. 107–171, title IX, §9002, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1305, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2067; amended Pub. L. 112–240, title VII, §701(f)(1), Jan. 2, 2013, 126 Stat. 2364; Pub. L. 113–79, title IX, §9002(a), Feb. 7, 2014, 128 Stat. 926; Pub. L. 115–334, title IX, §9002, Dec. 20, 2018, 132 Stat. 4883; Pub. L. 118–22, div. B, title I, §102(d)(6)(A), Nov. 17, 2023, 137 Stat. 117.)
 
 #### <b>Editorial Notes</b>
 
@@ -345,6 +345,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8102, Pub. L. 107–171, title IX, §9002, May 13, 2002, 116 Stat. 476; Pub. L. 109–58, title II, §205, title IX, §943(a)(2), (b), Aug. 8, 2005, 119 Stat. 654, 880, 881, related to Federal procurement of biobased products, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (k)(1). Pub. L. 118–22 substituted "2024" for "2023".
 
 <b>2018</b>—Subsec. (b)(2)(A)(iii). Pub. L. 115–334, §9002(1), added cl. (iii).
 
@@ -396,6 +398,10 @@ Subsec. (j). Pub. L. 113–79, §9002(a)(7), added subsec. (j).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2023 Amendment
+
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
@@ -426,7 +432,7 @@ Sec. 2. <i>Biobased Product Designations</i>. The USDA has already designated 64
 
 (a) increase both the number of categories of biobased products designated and individual products eligible for preferred purchasing by 50 percent within 1 year of the date of this memorandum; and
 
-(b) establish a web-based process whereby biobased product manufacturers can request USDA to establish a new product category for designation. The USDA shall determine the merit of the request and, if the product category is deemed eligible, propose designation within 180 days of the request.
+(b) establish a web-based process whereby biobased product manufacturers can request USDA to establish a new product category for designation. The USDA shall determine the merit of the request and, if theproduct category is deemed eligible, propose designation within 180 days of the request.
 
 Sec. 3. <i>Changes in Procurement Mechanisms</i>. Several actions can be taken to facilitate improvement in and compliance with the requirements to purchase biobased products. To achieve these changes, I direct:
 
@@ -478,7 +484,7 @@ Sec. 8. <i>General Provisions</i>. (a) This memorandum shall apply to an agency 
 
 (c) For purposes of this memorandum, "biobased product" shall have the meaning set forth in section 8101(4) of title 7, United States Code.
 
-(d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any partyagainst the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 (e) The Secretary of Agriculture is hereby authorized and directed to publish this memorandum in the Federal Register.
 

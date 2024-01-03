@@ -10,7 +10,7 @@ In General.—To the maximum extent practicable, on or after the date on which e
 
 (b)
 
-Covered Reports.—(1) Except as provided in paragraph (2), a report described in this subsection is any report that is required by law tobe submitted to Congress by the Secretary of Defense, or by any element of the Department of Defense.
+Covered Reports.—(1) Except as provided in paragraph (2), a report described in this subsection is any report that is required by law to be submitted to Congress by the Secretary of Defense, or by any element of the Department of Defense.
 
 (2) A report otherwise described in paragraph (1) is not a report described in this subsection if the report contains—
 

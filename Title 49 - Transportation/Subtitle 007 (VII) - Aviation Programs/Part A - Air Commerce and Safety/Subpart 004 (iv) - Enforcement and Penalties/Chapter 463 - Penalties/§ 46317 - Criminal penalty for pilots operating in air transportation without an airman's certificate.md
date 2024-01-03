@@ -26,7 +26,7 @@ Criminal penalty.—An individual violating subsection (a) shall be fined under 
 
 &emsp;(3)
 
-Terms of imprisonment.—A term of imprisonment imposed under paragraph (2) shall be served in addition to, and not concurrently with, any other term of imprisonment imposed on the individual subject to the imprisonment.
+Terms of imprisonment.—A term of imprisonment imposed under paragraph (2) shallbe served in addition to, and not concurrently with, any other term of imprisonment imposed on the individual subject to the imprisonment.
 
 (Added Pub. L. 106–181, title V, §509(a), Apr. 5, 2000, 114 Stat. 141.)
 

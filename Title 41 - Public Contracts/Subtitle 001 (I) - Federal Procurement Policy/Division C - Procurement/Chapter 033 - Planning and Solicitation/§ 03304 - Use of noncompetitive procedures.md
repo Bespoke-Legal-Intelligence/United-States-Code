@@ -236,7 +236,7 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 #### General Services Administration: Notification of Use of Noncompetitive Procedures in Response to Public Health Emergency Declaration
 
-Pub. L. 116–136, div. B, title V, §15003, Mar. 27, 2020, 134 Stat. 532, provided that: "Notwithstanding 41 U.S.C.3304(a)(7)(B), the Administrator, when making a determination that use of noncompetitive procedures is necessary for public interest in accordance with 41 U.S.C. 3304(a)(7)(A) in response to a public health emergency declaration by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247(d) \[247d\]), is required to notify Congress in writing of that determination not less than 3 days prior to the award of the contract."
+Pub. L. 116–136, div. B, title V, §15003, Mar. 27, 2020, 134 Stat. 532, provided that: "Notwithstanding 41 U.S.C. 3304(a)(7)(B), the Administrator, when making a determination that use of noncompetitive procedures is necessary for public interest in accordance with 41 U.S.C. 3304(a)(7)(A) in response to a public health emergency declaration by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247(d) \[247d\]), is required to notify Congress in writing of that determination not less than 3 days prior to the award of the contract."
 
 #### Justification and Approval of Sole-Source Contracts
 

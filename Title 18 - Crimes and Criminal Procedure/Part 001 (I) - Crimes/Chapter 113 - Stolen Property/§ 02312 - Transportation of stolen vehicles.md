@@ -12,7 +12,7 @@ The first sentence of said section 408, providing the short title "An Act to pun
 
 Definitions of "aircraft," "motor vehicle," and "interstate or foreign commerce," which constituted the second sentence of said section 408 of title 18, U.S.C., 1940 ed., and were derived from section 2 of said act of October 29, 1919, as amended, are incorporated in sections 10 and 2311 of this title.
 
-Provision relating to receiving or selling stolen aircraft or motor vehicles, which was derived from section 4 of the act of October 29, 1919, as amended, is incorporated in section 2313 of this title.
+Provision relating to receiving or selling stolen aircraft or motor vehicles, which was derived from section4 of the act of October 29, 1919, as amended, is incorporated in section 2313 of this title.
 
 Venue provision, which was derived from section 5 of the act of October 29, 1919, was omitted as unnecessary, being covered by section 3237 of this title.
 

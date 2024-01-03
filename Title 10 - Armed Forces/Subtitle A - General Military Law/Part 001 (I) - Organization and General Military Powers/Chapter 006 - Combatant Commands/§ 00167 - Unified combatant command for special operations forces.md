@@ -32,7 +32,7 @@ Authority of Combatant Commander.—(1) In addition to the authority prescribed 
 
 &emsp;&emsp;(i) for forces assigned to the special operations command; and
 
-&emsp;&emsp;(ii) for special operations forces assigned to unified combatant commands other than the special operations command, with respect to all matters covered by paragraph (4)and, with respect to a matter not covered by paragraph (4), to the extent directed by the Secretary of Defense.
+&emsp;&emsp;(ii) for special operations forces assigned to unified combatant commands other than the special operations command, with respect to all matters covered by paragraph (4) and, with respect to a matter not covered by paragraph (4), to the extent directed by the Secretary of Defense.
 
 &emsp;(D) Training assigned forces.
 
@@ -152,7 +152,7 @@ Budget Support for Reserve Elements.—(1) Before the budget proposal for the sp
 
 #### References in Text
 
-Chapter 137 of this title, referred to in subsec. (e)(4)(B), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+Chapter 137 of this title, referred to in subsec. (e)(4)(B), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of "chapter 137 legacy provisions", see section 3016 of this title.
 
 The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
@@ -294,7 +294,7 @@ Pub. L. 112–81, div. A, title IX, §904, Dec. 31, 2011, 125 Stat. 1533, provid
 
 "(a)
 
-Requirement.—By not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\] and annually thereafter, each Secretary of a military department shall enter into a memorandum of agreement with the Commander of the United States Special Operations Command that identifies or establishes processes and associated milestones by which numbers and types of enabling capabilities of the general purpose forces of the Armed Forces under the jurisdiction of such Secretary can be identified and dedicated to fulfillthe training and operational requirements of special operations forces under the United States Special Operations Command.
+Requirement.—By not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\] and annually thereafter, each Secretary of a military department shall enter into a memorandum of agreement with the Commander of the United States Special Operations Command that identifies or establishes processes and associated milestones by which numbers and types of enabling capabilities of the general purpose forces of the Armed Forces under the jurisdiction of such Secretary can be identified and dedicated to fulfill the training and operational requirements of special operations forces under the United States Special Operations Command.
 
 "(b)
 
@@ -382,13 +382,13 @@ Program and Budget Execution.—To the extent that there is authority to revise 
 
 "(e)
 
-Grade for Commanders of Certain Area Special Operations Commands.—The commander of the special operations command of the United States European Command, the United States Pacific Command \[now United States Indo-Pacific Command\], and any other unified combatant command that the Secretaryof Defense may designate for the purposes of this section shall be of general or flag officer grade."
+Grade for Commanders of Certain Area Special Operations Commands.—The commander of the special operations command of the United States European Command, the United States Pacific Command \[now United States Indo-Pacific Command\], and any other unified combatant command that the Secretary of Defense may designate for the purposes of this section shall be of general or flag officer grade."
 
 \[Identical provisions were contained in section 101(c) \[§9115(c)–(e)\] of Pub. L. 99–500 and Pub. L. 99–591, which was repealed by Pub. L. 102–484, div. A, title IX, §936(c), Oct. 23, 1992, 106 Stat. 2479.\]
 
 #### Report on Capabilities of United States To Conduct Special Operations and Engage in Low Intensity Conflicts
 
-Pub. L. 99–500, §101(c) \[title IX, §9115(h)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, §101(c) \[title IX, §9115(h)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, §1311(h)(2), Nov. 14, 1986, 100 Stat. 3986, required President, not later than one year after the date of enactment, to transmit to Congress a report on capabilities of United States to conduct special operations and engage in low intensity conflicts, the report to include a description of deficiencies in such capabilities, actions being taken throughout executive branch to correct such deficiencies, the principal low intensity conflict threats to interests of United States, and the actions taken and to be taken to implement this section.
+Pub. L. 99–500, §101(c) \[title IX, §9115(h)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, §101(c)\[title IX, §9115(h)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, §1311(h)(2), Nov. 14, 1986, 100 Stat. 3986, required President, not later than one year after the date of enactment, to transmit to Congress a report on capabilities of United States to conduct special operations and engage in low intensity conflicts, the report to include a description of deficiencies in such capabilities, actions being taken throughout executive branch to correct such deficiencies, the principal low intensity conflict threats to interests of United States, and the actions taken and to be taken to implement this section.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

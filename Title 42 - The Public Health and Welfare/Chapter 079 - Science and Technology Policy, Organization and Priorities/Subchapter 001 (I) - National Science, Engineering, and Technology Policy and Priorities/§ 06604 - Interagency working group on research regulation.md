@@ -30,7 +30,7 @@ It is the sense of Congress that—
 
 #### (d) Establishment
 
-The Director of the Office of Management and Budget, in coordination with the Office of Science and Technology Policy, shall establish an interagency working group (referred to in this section as the "Working Group") for thepurpose of reducing administrative burdens on federally funded researchers while protecting the public interest through the transparency of and accountability for federally funded activities.
+The Director of the Office of Management and Budget, in coordination with the Office of Science and Technology Policy, shall establish an interagency working group (referred to in this section as the "Working Group") for the purpose of reducing administrative burdens on federally funded researchers while protecting the public interest through the transparency of and accountability for federally funded activities.
 
 #### (e) Responsibilities
 
@@ -142,7 +142,7 @@ Not later than 1 year after January 6, 2017, and annually thereafter for 3 years
 
 #### Codification
 
-Section was enacted as the Research and Development Efficiency Act and also as part of the AmericanInnovation and Competitiveness Act, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
+Section was enacted as the Research and Development Efficiency Act and also as part of the American Innovation and Competitiveness Act, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -4,7 +4,7 @@ The purposes of the corporation are—
 
 &emsp;(1) to preserve for ourselves and our posterity the great and basic truths and enduring principles upon which this Nation was founded;
 
-&emsp;(2) to maintain a continuing interest in the welfare and rehabilitation of the disabled veterans of World War II, the Korean conflict, and the Vietnam era and to establish facilities for the assistance of all veterans and to represent them in their claims before the Department ofVeterans Affairs and other organizations without charge;
+&emsp;(2) to maintain a continuing interest in the welfare and rehabilitation of the disabled veterans of World War II, the Korean conflict, and the Vietnam era and to establish facilities for the assistance of all veterans and to represent them in their claims before the Department of Veterans Affairs and other organizations without charge;
 
 &emsp;(3) to dedicate ourselves to the service and best interests of the community, State, and Nation to the end that our country shall be and remain forever a whole, strong, and free Nation;
 

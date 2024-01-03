@@ -4,7 +4,7 @@
 
 For purposes of subsections (a) and (b) of section 807, the sum of the items described in section 807(c) taken into account as of the close of the taxable year with respect to any variable contract shall, under regulations prescribed by the Secretary, be adjusted—
 
-&emsp;(1) by subtracting therefrom an amount equal to the sum of the amounts added fromtime to time (for the taxable year) to the reserves separately accounted for in accordance with subsection (c) by reason of appreciation in value of assets (whether or not the assets have been disposed of), and
+&emsp;(1) by subtracting therefrom an amount equal to the sum of the amounts added from time to time (for the taxable year) to the reserves separately accounted for in accordance with subsection (c) by reason of appreciation in value of assets (whether or not the assets have been disposed of), and
 
 &emsp;(2) by adding thereto an amount equal to the sum of the amounts subtracted from time to time (for the taxable year) from such reserves by reason of depreciation in value of assets (whether or not the assets have been disposed of).
 
@@ -82,7 +82,7 @@ For purposes of this part, the term "annuity contract" includes a contract which
 
 #### (1) In general
 
-&emsp;For purposes of subchapter L, section 72 (relating to annuities), and section 7702(a) (relating to definition of life insurance contract), a variable contract (other than a pension plan contract) which is otherwise described in this section and which is based on a segregated asset account shall not be treated as an annuity, endowment, or life insurance contract for any period (and any subsequent period) forwhich the investments made by such account are not, in accordance with regulations prescribed by the Secretary, adequately diversified.
+&emsp;For purposes of subchapter L, section 72 (relating to annuities), and section 7702(a) (relating to definition of life insurance contract), a variable contract (other than a pension plan contract) which is otherwise described in this section and which is based on a segregated asset account shall not be treated as an annuity, endowment, or life insurance contract for any period (and any subsequent period) for which the investments made by such account are not, in accordance with regulations prescribed by the Secretary, adequately diversified.
 
 #### (2) Safe harbor for diversification
 

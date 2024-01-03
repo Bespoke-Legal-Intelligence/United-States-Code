@@ -76,7 +76,7 @@
 
 #### (3) Multiple projects
 
-&emsp;If appropriate, the Secretary may combine portions of separate water resources projects with appropriate combined cost-sharing among the various water resources projects in a partnership agreement for a facility under this subsection if the facility serves to manage dredged material from multiple water resources projects located in the geographic region of the facility.
+&emsp;If appropriate, the Secretary may combine portions of separate water resources projectswith appropriate combined cost-sharing among the various water resources projects in a partnership agreement for a facility under this subsection if the facility serves to manage dredged material from multiple water resources projects located in the geographic region of the facility.
 
 #### (4) Specified Federal funding sources and cost sharing
 
@@ -146,7 +146,7 @@
 
 #### (E) Budget Act compliance
 
-&emsp;&emsp;Any spending authority (as defined in section 651(c)(2) of title 2) authorized by this section shall be effective only to such extent and in such amounts as are provided in appropriation Acts.
+&emsp;&emsp;Any spending authority (as defined in section 651(c)(2) of title 2) authorized by this section shall be effective only to such extentand in such amounts as are provided in appropriation Acts.
 
 (Pub. L. 104–303, title II, §217, Oct. 12, 1996, 110 Stat. 3694; Pub. L. 110–114, title II, §2005, Nov. 8, 2007, 121 Stat. 1071; Pub. L. 116–260, div. AA, title I, §145, Dec. 27, 2020, 134 Stat. 2654.)
 

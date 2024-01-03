@@ -30,7 +30,7 @@ In this section:
 
 #### (b) Calculations for public institutions
 
-In making the calculations regarding cost of attendance, net price, and tuition and fees under this section with respect to a public institution of higher education, the Secretary shall calculate the cost of attendance, net price, and tuition and fees at such institution in the manner described in subsection (a), except that—
+In making the calculations regarding cost of attendance, net price, and tuition and fees underthis section with respect to a public institution of higher education, the Secretary shall calculate the cost of attendance, net price, and tuition and fees at such institution in the manner described in subsection (a), except that—
 
 &emsp;(1) the cost of attendance, net price, and tuition and fees shall be calculated for first-time, full-time undergraduate students enrolled in the institution who are residents of the State in which such institution is located; and
 
@@ -46,7 +46,7 @@ In making the calculations regarding cost of attendance, net price, and tuition 
 
 &emsp;&emsp;(B) A list of the five percent of institutions in each such category that have the highest net price for the most recent academic year for which data are available.
 
-&emsp;&emsp;(C) A list of the five percent of institutions in each such category that have the largestincrease, expressed as a percentage change, in tuition and fees over the most recent three academic years for which data are available, using the first academic year of the three-year period as the base year to compute such percentage change.
+&emsp;&emsp;(C) A list of the five percent of institutions in each such category that have the largest increase, expressed as a percentage change, in tuition and fees over the most recent three academic years for which data are available, using the first academic year of the three-year period as the base year to compute such percentage change.
 
 &emsp;&emsp;(D) A list of the five percent of institutions in each such category that have the largest increase, expressed as a percentage change, in net price over the most recent three academic years for which data are available, using the first academic year of the three-year period as the base year to compute such percentage change.
 
@@ -114,7 +114,7 @@ The lists described in subsection (c)(1) shall be compiled according to the foll
 
 #### (1) In general
 
-&emsp;An institution shall not be placed on a list described in subparagraph (C) or (D) of subsection (c)(1), and shall not be subject to the reporting required under subsection (e), if the dollar amount of the institution's increase in tuition and fees, or net price, as applicable, is less than $600 for the three-year period described in such subparagraph.
+&emsp;An institution shall not be placed on a list described in subparagraph (C) or (D) of subsection (c)(1), and shall not be subject to the reporting required under subsection (e), if the dollar amount of the institution's increase intuition and fees, or net price, as applicable, is less than $600 for the three-year period described in such subparagraph.
 
 #### (2) Update
 
@@ -206,7 +206,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;&emsp;(L) The undergraduate major areas of study at the institution with the highest number of degrees awarded.
 
-&emsp;&emsp;(M) The student-faculty ratio, the number of full-time and part-time faculty, and thenumber of graduate assistants with primarily instructional responsibilities, at the institution.
+&emsp;&emsp;(M) The student-faculty ratio, the number of full-time and part-time faculty, and the number of graduate assistants with primarily instructional responsibilities, at the institution.
 
 &emsp;&emsp;(N)(i) The cost of attendance for first-time, full-time undergraduate students enrolled in the institution who live on campus;
 
@@ -266,7 +266,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (A) Availability of list of participating institutions
 
-&emsp;&emsp;The Secretary shall make publicly available on the College Navigator website in a sortable and searchable format a list of all institutions of higher education that participate in programs under subchapter IV, which list shall, for each institution, include the following:
+&emsp;&emsp;The Secretary shall make publicly available on the College Navigator website in asortable and searchable format a list of all institutions of higher education that participate in programs under subchapter IV, which list shall, for each institution, include the following:
 
 &emsp;&emsp;&emsp;(i) The tuition and fees for each of the three most recent academic years for which data are available.
 

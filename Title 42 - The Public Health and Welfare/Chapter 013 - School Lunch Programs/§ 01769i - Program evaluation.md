@@ -26,7 +26,7 @@
 
 #### (2) Pilot projects
 
-&emsp;In carrying out this subsection, the Secretary may conduct pilot projects to improve the certification process used for the school lunch program.
+&emsp;In carrying out this subsection, the Secretary may conduct pilot projects to improvethe certification process used for the school lunch program.
 
 #### (3) Components
 

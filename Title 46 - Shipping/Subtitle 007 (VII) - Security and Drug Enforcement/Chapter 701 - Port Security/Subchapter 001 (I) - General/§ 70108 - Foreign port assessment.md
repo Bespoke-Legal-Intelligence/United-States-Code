@@ -56,15 +56,19 @@ Recognition of Assessment Conducted by Other Entities.—
 
 &emsp;(1)
 
-Certification and treatment of assessments.—For the purposes of this section and section 70109, the Secretary may treat an assessment that a foreign government (including, for the purposes of this subsection, an entity of or operating under the auspices of the European Union) or international organization has conducted as an assessment that the Secretary has conducted for the purposes of subsection (a), provided that the Secretary certifies that the foreign government or international organization has—
+Certification and treatment of assessments.—For the purposes of this section and section 70109, the Secretary may treat an assessment that a foreign government (including, for the purposes of this subsection, an entity of or operating under the auspices of the European Union) or international organization has conducted as an assessment that the Secretary has conducted for the purposes of subsection (a), if—
 
-&emsp;&emsp;(A) conducted the assessment in accordance with subsection (b); and
+&emsp;&emsp;(A) the Secretary certifies that the foreign government or international organization—
 
-&emsp;&emsp;(B) provided the Secretary with sufficient information pertaining to its assessment (including, but not limited to, information on the outcome of the assessment).
+&emsp;&emsp;&emsp;(i) has conducted the assessment in accordance with subsection (b); and
+
+&emsp;&emsp;&emsp;(ii) has provided the Secretary with sufficient information pertaining to its assessment (including information regarding the outcome of the assessment); and
+
+&emsp;&emsp;(B) the foreign government that conducted the assessment is not a state sponsor of terrorism (as defined in section 3316(h)).
 
 &emsp;(2)
 
-Authorization to enter into an agreement.—For the purposes of this section and section 70109, the Secretary, in consultation with the Secretary of State, may enter into an agreement with a foreign government (including, for the purposes of this subsection, an entity of or operating under the auspices of the European Union) or international organization, under which parties to the agreement—
+Authorization to enter into an agreement.—For the purposes of this section and section 70109, the Secretary, in consultation with the Secretary of State, may enter into an agreement with a foreign government (including, for the purposes of this subsection, an entity of or operating under the auspices of theEuropean Union) or international organization, under which parties to the agreement—
 
 &emsp;&emsp;(A) conduct an assessment, required under subsection (a);
 
@@ -74,21 +78,55 @@ Authorization to enter into an agreement.—For the purposes of this section and
 
 &emsp;(3)
 
-Limitations.—Nothing in this subsection shall be construed to—
+Limitations.—Nothing in this section may be construed—
 
-&emsp;&emsp;(A) require the Secretary to recognize an assessment that a foreign government or an international organization has conducted; or
+&emsp;&emsp;(A) to require the Secretary to treat an assessment conducted by a foreign government or an international organization as an assessment that satisfies the requirement under subsection (a);
 
-&emsp;&emsp;(B) limit the discretion or ability of the Secretary to conduct an assessment under this section.
+&emsp;&emsp;(B) to limit the discretion or ability of the Secretary to conduct an assessment under this section;
+
+&emsp;&emsp;(C) to limit the authority of the Secretary to repatriate aliens to their respective countries of origin; or
+
+&emsp;&emsp;(D) to prevent the Secretary from requesting security and safety measures that the Secretary considers necessary to safeguard Coast Guard personnel during the repatriation of aliens to their respective countries of origin.
 
 &emsp;(4)
 
 Notification to congress.—Not later than 30 days before entering into an agreement or arrangement with a foreign government under paragraph (2), the Secretary shall notify the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the proposed terms of such agreement or arrangement.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2079; amended Pub. L. 109–347, title II, §234, Oct. 13, 2006, 120 Stat. 1918; Pub. L. 111–281, title VIII, §806(a)(1), (c)(2)(B), Oct. 15, 2010, 124 Stat. 2992, 2993; Pub. L. 114–120, title III, §317, Feb. 8, 2016, 130 Stat. 62.)
+(g)
+
+State Sponsors of Terrorism and International Terrorist Organizations.—The Secretary—
+
+&emsp;(1) may not enter into an agreement under subsection (f)(2) with—
+
+&emsp;&emsp;(A) a foreign government that is a state sponsor of terrorism (as defined in section 3316(h)); or
+
+&emsp;&emsp;(B) an entity designated by the Secretary of State as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189); and
+
+&emsp;(2) shall—
+
+&emsp;&emsp;(A) deem any port that is under the jurisdiction of a foreign government that is a state sponsor of terrorism as not having effective antiterrorism measures for purposes of this section and section 70109; and
+
+&emsp;&emsp;(B) immediately apply the sanctions described in section 70110(a) to such port.
+
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2079; amended Pub. L. 109–347, title II, §234, Oct. 13, 2006, 120 Stat. 1918; Pub. L. 111–281, title VIII, §806(a)(1), (c)(2)(B), Oct. 15, 2010, 124 Stat. 2992, 2993; Pub. L. 114–120, title III, §317, Feb. 8, 2016, 130 Stat. 62; Pub. L. 118–31, div. E, title LVI, §5603, Dec. 22, 2023, 137 Stat. 959.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (f)(1). Pub. L. 118–31, §5603(1)(A), substituted "if—" and subpars. (A) and (B) for "provided that the Secretary certifies that the foreign government or international organization has—
+
+&emsp;"(A) conducted the assessment in accordance with subsection (b); and
+
+&emsp;"(B) provided the Secretary with sufficient information pertaining to its assessment (including, but not limited to, information on the outcome of the assessment)."
+
+Subsec. (f)(3). Pub. L. 118–31, §5603(1)(B), amended par. (3) generally. Prior to amendment, text read as follows: "Nothing in this subsection shall be construed to—
+
+&emsp;"(A) require the Secretary to recognize an assessment that a foreign government or an international organization has conducted; or
+
+&emsp;"(B) limit the discretion or ability of the Secretary to conduct an assessment under this section."
+
+Subsec. (g). Pub. L. 118–31, §5603(2), added subsec. (g).
 
 <b>2016</b>—Subsec. (f). Pub. L. 114–120 added subsec. (f).
 

@@ -1,6 +1,6 @@
 ### §8472. Chapel: crypt and window spaces
 
-The crypt and window spaces of the Naval Academy Chapel may be used only for memorials to officers of the Navy who have successfully commanded a fleet or squadron in battle or who have received the thanks of Congress forconspicuously distinguished services in time of war. No memorial to an officer may be accepted for, or installed in, the crypt or window spaces until at least five years after the death of that officer.
+The crypt and window spaces of the Naval Academy Chapel may be used only for memorials to officers of the Navy who have successfully commanded a fleet or squadron in battle or who have received the thanks of Congress for conspicuously distinguished services in time of war. No memorial to an officer may be accepted for, or installed in, the crypt or window spaces until at least five years after the death of that officer.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 435, §6972; renumbered §8472, Pub. L. 115–232, div. A, title VIII, §807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 

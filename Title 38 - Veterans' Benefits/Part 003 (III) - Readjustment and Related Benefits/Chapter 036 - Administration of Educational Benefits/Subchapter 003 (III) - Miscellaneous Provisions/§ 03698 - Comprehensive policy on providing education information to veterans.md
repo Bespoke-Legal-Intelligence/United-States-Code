@@ -58,13 +58,13 @@ Postsecondary Education Information.—(1) The Secretary shall ensure that the i
 
 &emsp;&emsp;(xii) information on whether the institution requires a covered individual to take additional action pursuant to section 3679(e)(4) of this title to stay enrolled in a course pending receipt of educational assistance under a law administered by the Secretary;
 
-&emsp;&emsp;(xiii) <sup>1</sup> whether the institution is listed on the College Navigator website as affiliated with a religion and, if so, which religious denomination;
+&emsp;&emsp;(xiii) whether the institution is listed on the College Navigator website as affiliated with a religion and, if so, which religious denomination;
 
-&emsp;&emsp;(xiv) <sup>1</sup> whether the Secretary of Education or other head of a department or agency of the Federal Government has determined that the institution is a minority serving institution and, if so, which one or more types of minority serving institutions; and
+&emsp;&emsp;(xiv) whether the Secretary of Education or other head of a department or agency of the Federal Government has determined that the institution is a minority serving institution and, if so, which one or more types of minority serving institutions; and
 
-&emsp;&emsp;(xv) <sup>1</sup> whether the institution is gender specific.
+&emsp;&emsp;(xv) whether the institution is gender specific.
 
-(2) To the extent practicable, the Secretary shall provide the information described in paragraph (1) by including hyperlinks on the Internet website of the Department to other Internet websites that contain such information, including the Internet website of the Department of Education, in a form that is comprehensive and easily understood by veterans, members of the Armed Forces, and other individuals. To the extent practicable, the Secretary shall ensure that such information is provided in a searchable format.<sup>1</sup>
+(2) To the extent practicable, the Secretary shall provide the information described in paragraph (1) by including hyperlinks on the Internet website of the Department to other Internet websites that contain such information, including the Internet website of the Department of Education, in a form that is comprehensive and easily understood by veterans, members of the Armed Forces, and other individuals. To the extent practicable, the Secretary shall ensure that such information is provided in a searchable format.
 
 (3)(A) If the Secretary of Veterans Affairs requires, for purposes of providing information pursuant to subsection (b)(5), information that has been reported, or information that is similar to information that has been reported, by an institution of higher learning to the Secretary of Education, the Secretary of Defense, the Secretary of Labor, or the heads of other Federal agencies under a provision of law other than under this section, the Secretary of Veterans Affairs shall obtain the information the Secretary of Veterans Affairs requires from the Secretary or head with the information rather than the institution of higher learning.
 
@@ -90,11 +90,11 @@ Definitions.—In this section:
 
 &emsp;(2) The term "postsecondary education and training opportunities" means any postsecondary program of education, including apprenticeships and on-job training, for which the Secretary of Veterans Affairs provides assistance to a veteran or member of the Armed Forces.
 
-&emsp;(3) <sup>1</sup> The term "College Navigator website" has the meaning given that term in section 132 of the Higher Education Act <sup>2</sup> (20 U.S.C. 1015a).
+&emsp;(3) The term "College Navigator website" has the meaning given that term in section 132 of the Higher Education Act <sup>1</sup> (20 U.S.C. 1015a).
 
-&emsp;(4) <sup>1</sup> The term "minority serving institution" means any of the following:
+&emsp;(4) The term "minority serving institution" means any of the following:
 
-&emsp;&emsp;(A) A part B institution, as such term is defined in section 322(2) of the Higher Education Act <sup>2</sup> (20 U.S.C. 1061(2)).
+&emsp;&emsp;(A) A part B institution, as such term is defined in section 322(2) of the Higher Education Act <sup>1</sup> (20 U.S.C. 1061(2)).
 
 &emsp;&emsp;(B) A Hispanic-serving institution, as such term is defined in section 502(a)(5) of such Act (20 U.S.C. 1101a(5)).
 
@@ -109,10 +109,6 @@ Definitions.—In this section:
 &emsp;&emsp;(G) An Asian American and Native American Pacific Islander-serving institution, as such term is defined in section 320(b) of such Act (20 U.S.C. 1059g(b)).
 
 (Added Pub. L. 112–249, §1(a)(1), Jan. 10, 2013, 126 Stat. 2398; amended Pub. L. 115–48, title III, §303, Aug. 16, 2017, 131 Stat. 991; Pub. L. 115–407, title I, §104, Dec. 31, 2018, 132 Stat. 5371; Pub. L. 117–16, §3(a), (b), June 8, 2021, 135 Stat. 282.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 3(a), (b) of Pub. L. 117–16 applicable with respect to the information provided under section 3698 of title 38, beginning on the date that is two years after June 8, 2021. See 2021 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -186,7 +182,5 @@ Commercially available off-the-shelf.—The term 'commercially available off-the
 
 Postsecondary education and training opportunities.—The term 'postsecondary education and training opportunities' means any postsecondary program of education, including apprenticeships and on-job training, for which the Secretary of Veterans Affairs provides assistance to a veteran or member of the Armed Forces."
 
-<i><sup>1</sup></i><i> See Applicability of Amendment note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by "of 1965".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "of 1965".</i>
 

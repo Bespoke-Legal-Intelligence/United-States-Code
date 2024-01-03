@@ -58,7 +58,7 @@ Sec. 3. <i>Waivers</i>. (a) In accordance with Section 3(b) of the Act \[section
 
 Sec. 4. <i>Definition</i>. As used in this order, the word "function" or "functions" includes any executive duty, obligation, power, authority, responsibility, right, privilege, discretion, or activity.
 
-Sec. 5. <i>Saving provisions</i>. Except to the extent that they may be inconsistent with law or with this order, all determinations, authorizations, regulations, orders, contracts, agreements and other actions issued, undertaken, or entered into with respect to any function affected by this order and not revoked, superseded, orotherwise made inapplicable before the date of this order, shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
+Sec. 5. <i>Saving provisions</i>. Except to the extent that they may be inconsistent with law or with this order, all determinations, authorizations, regulations, orders, contracts, agreements and other actions issued, undertaken, or entered into with respect to any function affected by this order and not revoked, superseded, or otherwise made inapplicable before the date of this order, shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
 
 Sec. 6. <i>Effective date</i>. The provisions of this order shall be effective as of July 1, 1962.
 

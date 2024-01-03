@@ -22,7 +22,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;For purposes of this section, the term "debt-financed property" means any property which is held to produce income and with respect to which there is an acquisition indebtedness (as defined in subsection (c)) at any time during the taxable year (or, if the property was disposed of during the taxable year, with respect to which there was an acquisition indebtedness at any time during the 12-month period ending with the date of such disposition), except that such term does not include—
 
-&emsp;&emsp;(A)(i) any property substantially all the use of which is substantially related (aside from the need of the organization for income or funds) to the exercise or performance by such organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501 (or, in the case of an organization described in section 511(a)(2)(B), to the exercise or performance of any purpose or function designated in section 501(c)(3)), or (ii) any property to which clause (i) does not apply, to the extent that its use is so substantially related;
+&emsp;&emsp;(A)(i) any property substantially all the use of which is substantially related (aside from the need of the organization for income or funds) to the exercise or performance by such organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501 (or, in the case of an organizationdescribed in section 511(a)(2)(B), to the exercise or performance of any purpose or function designated in section 501(c)(3)), or (ii) any property to which clause (i) does not apply, to the extent that its use is so substantially related;
 
 &emsp;&emsp;(B) except in the case of income excluded under section 512(b)(5), any property to the extent that the income from such property is taken into account in computing the gross income of any unrelated trade or business;
 
@@ -42,7 +42,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (A) Neighborhood land
 
-&emsp;&emsp;If an organization acquires real property for the principal purpose of using the land (commencing within 10 years of the time of acquisition) in the manner described in paragraph (1)(A) and at the time of acquisition the property is in the neighborhood of otherproperty owned by the organization which is used in such manner, the real property acquired for such future use shall not be treated as debt-financed property so long as the organization does not abandon its intent to so use the land within the 10-year period. The preceding sentence shall not apply for any period after the expiration of the 10-year period, and shall apply after the first 5 years of the 10-year period only if the organization establishes to the satisfaction of the Secretary that it is reasonably certain that the land will be used in the described manner before the expiration of the 10-year period.
+&emsp;&emsp;If an organization acquires real property for the principal purpose of using the land (commencing within 10 years of the time of acquisition) in the manner described in paragraph (1)(A) and at the time of acquisition the property is in the neighborhood of other property owned by the organization which is used in such manner, the real property acquired for such future use shall not be treated as debt-financed property so long as the organization does not abandon its intent to so use the land within the 10-year period. The preceding sentence shall not apply for any period after the expiration of the 10-year period, and shall apply after the first 5 years of the 10-year period only if the organization establishes to the satisfaction of the Secretary that it is reasonably certain that the land will be used in the described manner before the expiration of the 10-year period.
 
 #### (B) Other cases
 
@@ -168,7 +168,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term "acquisition indebtedness" doesnot, for purposes of this section, include indebtedness incurred by a qualified organization in acquiring or improving any real property. For purposes of this paragraph, an interest in a mortgage shall in no event be treated as real property.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "acquisition indebtedness" does not, for purposes of this section, include indebtedness incurred by a qualified organization in acquiring or improving any real property. For purposes of this paragraph, an interest in a mortgage shall in no event be treated as real property.
 
 #### (B) Exceptions
 
@@ -290,7 +290,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;&emsp;&emsp;(II) the stated principal amount of the financing provided by the financial institution does not exceed the amount of the outstanding indebtedness (including accrued but unpaid interest) of the financial institution with respect to the property described in clause (iii) immediately before the acquisition referred to in clause (iii) or (v), whichever is applicable, and
 
-&emsp;&emsp;&emsp;&emsp;(III) the present value (determined as of the time of the sale and by using the applicable Federal rate determined under section 1274(d)) of the maximum amount payable pursuant to the financing that is determined by reference to the revenue, income, or profits derived from the property cannot exceed 30 percent of the total purchase price of the property (including the contingent payments).
+&emsp;&emsp;&emsp;&emsp;(III) the present value (determined as of the time of the sale and by using theapplicable Federal rate determined under section 1274(d)) of the maximum amount payable pursuant to the financing that is determined by reference to the revenue, income, or profits derived from the property cannot exceed 30 percent of the total purchase price of the property (including the contingent payments).
 
 #### (iii) Property to which subparagraph applies
 
@@ -554,7 +554,7 @@ Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts 
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, and to the manner of treatment to be accorded indebtednesses secured bycertain mortgages on properties bargain-purchased before Oct. 9, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, and to the manner of treatment to be accorded indebtednesses secured by certain mortgages on properties bargain-purchased before Oct. 9, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
 
 #### Effective Date of 1960 Amendment
 

@@ -34,7 +34,7 @@
 
 (2) If a sentence specified by the guidelines includes a term of imprisonment, the maximum of the range established for such a term shall not exceed the minimum of that range by more than the greater of 25 percent or 6 months, except that, if the minimum term of the range is 30 years or more, the maximum may be life imprisonment.
 
-(c) The Commission, in establishing categories of offenses for use in the guidelines and policy statements governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other authorized sanctions, governing the size of a fine or the length of a term of probation, imprisonment, or supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider whether the following matters, among others, have any relevance to the nature, extent, place of service, or other incidents <sup>2</sup> of an appropriate sentence, and shall take them into account only to the extent that they do have relevance—
+(c) The Commission, in establishing categories of offenses for use in the guidelines and policy statements governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other authorized sanctions, governing the size of a fine or thelength of a term of probation, imprisonment, or supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider whether the following matters, among others, have any relevance to the nature, extent, place of service, or other incidents <sup>2</sup> of an appropriate sentence, and shall take them into account only to the extent that they do have relevance—
 
 &emsp;(1) the grade of the offense;
 
@@ -106,7 +106,7 @@
 
 &emsp;(4) committed a crime of violence that constitutes a felony while on release pending trial, sentence, or appeal from a Federal, State, or local felony for which he was ultimately convicted; or
 
-&emsp;(5) committed a felony that is set forth in section 401 or 1010 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 841 and 960), and that involved trafficking in a substantial quantity of a controlled substance.
+&emsp;(5) committed a felony that is set forth in section 401 or 1010 of the Comprehensive DrugAbuse Prevention and Control Act of 1970 (21 U.S.C. 841 and 960), and that involved trafficking in a substantial quantity of a controlled substance.
 
 (j) The Commission shall insure that the guidelines reflect the general appropriateness of imposing a sentence other than imprisonment in cases in which the defendant is a first offender who has not been convicted of a crime of violence or an otherwise serious offense, and the general appropriateness of imposing a term of imprisonment on a person convicted of a crime of violence that results in serious bodily injury.
 
@@ -202,7 +202,7 @@ Subsec. (w)(4). Pub. L. 109–177, §735(2), substituted "itself may assemble or
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–21, §401(k), substituted "consistent with all pertinent provisions of any Federal statute" for "consistent with all pertinent provisions of this title and title 18, United States Code,".
 
-Subsec. (w). Pub. L. 108–21, §401(h), amended subsec. (w) generally. Prior to amendment, subsec. (w) read as follows: "The appropriate judge or officer shall submit to the Commission in connection with each sentence imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age, race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other information as the Commission finds appropriate. The Commission shall submit to Congress at least annually an analysis of these reports and any recommendations for legislation that the Commission concludes is warranted by that analysis."
+Subsec. (w). Pub. L. 108–21, §401(h), amended subsec. (w) generally. Prior to amendment, subsec. (w) read asfollows: "The appropriate judge or officer shall submit to the Commission in connection with each sentence imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age, race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other information as the Commission finds appropriate. The Commission shall submit to Congress at least annually an analysis of these reports and any recommendations for legislation that the Commission concludes is warranted by that analysis."
 
 <b>1994</b>—Subsec. (h)(1)(B), (2)(B). Pub. L. 103–322, §330003(f)(1), substituted "the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)" for "section 1 of the Act of September 15, 1980 (21 U.S.C. 955a)".
 
@@ -260,7 +260,7 @@ Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (w) of this section relating to requirementthat the Commission submit to Congress at least annually an analysis of reports and recommendations for legislation that the Commission concludes is warranted by that analysis, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (w) of this section relating to requirement that the Commission submit to Congress at least annually an analysis of reports and recommendations for legislation that the Commission concludes is warranted by that analysis, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines
 

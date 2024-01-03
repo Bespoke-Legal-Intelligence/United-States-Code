@@ -110,7 +110,7 @@ Pub. L. 103–236 designated existing provisions as par. (1), redesignated forme
 
 <b>1988</b>—Subsec. (b)(2). Pub. L. 100–461 inserted "or regional inspector general offices under the jurisdiction of the inspector General, Agency for International Development" after "commander", and substituted a period for "; and" at end.
 
-Subsec. (b)(3). Pub. L. 100–461 struck out par. (3) which read as follows: "establish, notwithstanding any other provision of law, appropriate overseas staffing levels of the Regional Offices of the Inspector General of the Agency for International Development in effective consultation with the Inspector General of the Agency: <i>Provided</i>, That the authority of the Secretary of State shall be exercised only by the Secretary and shall not be delegated to a subordinate officer of the Department of State: <i>Provided further</i>, That the Inspector General must report to the appropriate committees of both Houses of the Congress within thirty days the denial by the Secretary of State of a request by the Inspector General to increase or reduce an existing position level of a regional office: <i>Provided further</i>, That the total number of positions authorized for the Office of the Inspector General in Washington and overseas shall be determined by the Inspector General within the limitation of the appropriations level provided."
+Subsec. (b)(3). Pub. L. 100–461 struck out par. (3) which read as follows: "establish, notwithstanding any other provision of law, appropriate overseas staffing levels of the Regional Offices of the Inspector General of the Agency for International Development in effective consultation with the Inspector General of the Agency: <i>Provided</i>, That the authority of the Secretary of State shall be exercised only by the Secretary andshall not be delegated to a subordinate officer of the Department of State: <i>Provided further</i>, That the Inspector General must report to the appropriate committees of both Houses of the Congress within thirty days the denial by the Secretary of State of a request by the Inspector General to increase or reduce an existing position level of a regional office: <i>Provided further</i>, That the total number of positions authorized for the Office of the Inspector General in Washington and overseas shall be determined by the Inspector General within the limitation of the appropriations level provided."
 
 <b>1987</b>—Subsec. (b)(3). Pub. L. 100–202 added par. (3).
 
@@ -138,7 +138,7 @@ In General.—Pursuant to the responsibility of the Secretary \[of State\] for d
 
 &emsp;"(1) An evaluation of whether the size and composition of the Marine Corps Security Guard Program is adequate to meet global diplomatic security requirements.
 
-&emsp;"(2) An assessment of whether the Marine Corps security guards are appropriately deployed amongUnited States embassies, consulates, and other diplomatic facilities to respond to evolving security developments and potential threats to United States interests abroad.
+&emsp;"(2) An assessment of whether the Marine Corps security guards are appropriately deployed among United States embassies, consulates, and other diplomatic facilities to respond to evolving security developments and potential threats to United States interests abroad.
 
 &emsp;"(3) An assessment of the mission objectives of the Marine Corps Security Guard Program and the procedural rules of engagement to protect diplomatic personnel under the Program.
 

@@ -60,7 +60,7 @@ In this subchapter, except as specified otherwise:
 
 #### (11) Personal health record
 
-&emsp;The term "personal health record" means an electronic record of PHR identifiable healthinformation (as defined in section 17937(f)(2) of this title) on an individual that can be drawn from multiple sources and that is managed, shared, and controlled by or primarily for the individual.
+&emsp;The term "personal health record" means an electronic record of PHR identifiable health information (as defined in section 17937(f)(2) of this title) on an individual that can be drawn from multiple sources and that is managed, shared, and controlled by or primarily for the individual.
 
 #### (12) Protected health information
 

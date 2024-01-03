@@ -28,7 +28,7 @@
 
 &emsp;(B) for failure to provide timely notice under paragraph (8).
 
-(3)(A)(i) Notwithstanding any other provision of law (including sections 207 and 1631(d)(1) of the Social Security Act (42 U.S.C. 407 and 1383(d)(1)), section 413(b) of Public Law 91–173 (30 U.S.C. 923(b)), and section 14 of the Act of August 29, 1935 (45 U.S.C. 231m)), except as provided in clause (ii), all payments due to an individual under—
+(3)(A)(i) Notwithstanding any other provision of law (including sections 207 and 1631(d)(1) of the Social Security Act (42 U.S.C. 407 and 1383(d)(1)), section 413(b) of Public Law 91–173 (30U.S.C. 923(b)), and section 14 of the Act of August 29, 1935 (45 U.S.C. 231m)), except as provided in clause (ii), all payments due to an individual under—
 
 &emsp;(I) the Social Security Act,
 
@@ -68,7 +68,7 @@
 
 &emsp;(iii) a contact point within the creditor agency that will handle concerns regarding the offset.
 
-(B) If the payment to be offset is a periodic benefit payment, the disbursing official shalltake reasonable steps, as determined by the Secretary of the Treasury, to provide the notice to the payee not later than the date on which the payee is otherwise scheduled to receive the payment, or as soon as practical thereafter, but no later than the date of the administrative offset. Notwithstanding the preceding sentence, the failure of the debtor to receive such notice shall not impair the legality of such administrative offset.
+(B) If the payment to be offset is a periodic benefit payment, the disbursing official shall take reasonable steps, as determined by the Secretary of the Treasury, to provide the notice to the payee not later than the date on which the payee is otherwise scheduled to receive the payment, or as soon as practical thereafter, but no later than the date of the administrative offset. Notwithstanding the preceding sentence, the failure of the debtor to receive such notice shall not impair the legality of such administrative offset.
 
 (8) A levy pursuant to the Internal Revenue Code of 1986 shall take precedence over requests for administrative offset pursuant to other laws.
 
@@ -156,7 +156,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(8), is classified 
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -178,7 +178,7 @@ Subsec. (e). Pub. L. 110–246, §14219(a), amended subsec. (e) generally. Prior
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(c)(1), substituted "the head of an executive, judicial, or legislative agency" for "the head of an executive or legislative agency" in introductory provisions.
 
-Subsec. (b). Pub. L. 104–134, §31001(d)(2)(A), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Before collecting a claim by administrative offset under subsection (a) of this section, the head of an executive or legislative agency must prescribe regulations on collecting by administrative offset based on—
+Subsec. (b). Pub. L. 104–134, §31001(d)(2)(A), amended subsec. (b) generally. Prior to amendment, subsec. (b)read as follows: "Before collecting a claim by administrative offset under subsection (a) of this section, the head of an executive or legislative agency must prescribe regulations on collecting by administrative offset based on—
 
 &emsp;"(1) the best interests of the United States Government;
 

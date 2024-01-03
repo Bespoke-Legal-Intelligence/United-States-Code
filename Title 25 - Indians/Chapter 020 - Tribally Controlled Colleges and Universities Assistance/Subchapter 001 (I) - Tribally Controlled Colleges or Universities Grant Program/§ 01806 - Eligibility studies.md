@@ -16,7 +16,7 @@ Funds to carry out the purposes of this section for any fiscal year may be drawn
 
 &emsp;(2) not more than 5 per centum of the funds appropriated to carry out section 1807 of this title for such fiscal year.
 
-(Pub. L. 95–471, title I, §106, formerly §105, Oct. 17, 1978, 92 Stat. 1326; renumbered §106 and amended Pub. L. 98–192, §§4(a)(1), (b)(1), 6(a),Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 105–244, title IX, §901(b)(5), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title I, §106, formerly §105, Oct. 17, 1978, 92 Stat. 1326; renumbered §106 and amended Pub. L. 98–192, §§4(a)(1), (b)(1), 6(a), Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 105–244, title IX, §901(b)(5), Oct. 7, 1998, 112 Stat. 1828.)
 
 #### <b>Editorial Notes</b>
 

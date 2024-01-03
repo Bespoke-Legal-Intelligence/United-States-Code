@@ -24,7 +24,7 @@ Elements of Report.—Each report required under subsection (a) shall include, w
 
 &emsp;&emsp;(D) With respect to section 335 of this title, the total Department of Defense costs to fund expenses to attend training provided by the Government of Colombia that began during the period of the report.
 
-&emsp;&emsp;(E) With respect to amounts made available for section 341 of this title, the Department of Defense manpower and travel costs to conduct bi-lateral <sup>1</sup> state partnership program engagements with the partner country.
+&emsp;&emsp;(E) With respect to amounts made available for section 341 of this title, the Department of Defense manpower and travel costs to conduct bilateral state partnership program engagements with the partner country.
 
 &emsp;&emsp;(F) With respect to amounts made available for section 342 of this title, the Department of Defense-funded, foreign-partner travel costs to attend a regional center activity that began during the period of the report.
 
@@ -50,7 +50,7 @@ Elements of Report.—Each report required under subsection (a) shall include, w
 
 &emsp;&emsp;(H) Pursuant to the authorities under sections 343, 345, 348, 349, 350 and 352 of this title, the total number of partner country personnel who began training during the period of the report.
 
-&emsp;&emsp;(I) Pursuant to section 347 of this title, the number of cadets from the partner countrythat were enrolled in the Service Academies during the period of the report.
+&emsp;&emsp;(I) Pursuant to section 347 of this title, the number of cadets from the partner country that were enrolled in the Service Academies during the period of the report.
 
 &emsp;&emsp;(J) Pursuant to amounts made available to carry out section 2561 of this title, the number of new humanitarian assistance projects funded through the Overseas Humanitarian Disaster and Civic Aid account that were approved during the period of the required report.
 
@@ -92,7 +92,7 @@ Elements of Report.—Each report required under subsection (a) shall include, w
 
 &emsp;&emsp;&emsp;(ii) the units of the Government of Colombia that conducted the training activity;
 
-&emsp;&emsp;&emsp;(iii) the duration of the training activity provided by the Government of Colombia; <sup>2</sup>
+&emsp;&emsp;&emsp;(iii) the duration of the training activity provided by the Government of Colombia; and
 
 &emsp;&emsp;&emsp;(iv) a description of the objective of the training activity provided by the Government of Colombia.
 
@@ -116,7 +116,7 @@ Elements of Report.—Each report required under subsection (a) shall include, w
 
 &emsp;&emsp;&emsp;(iv) the number of officials from the foreign country who participated the activity.
 
-&emsp;&emsp;(H) With respect to each training event that commenced under sections <sup>3</sup> 343, 345, 348, 349, 350, or <sup>3</sup> 352 of this title during the period of the report—
+&emsp;&emsp;(H) With respect to each training event that commenced under section 343, 345, 348, 349, 350, or 352 of this title during the period of the report—
 
 &emsp;&emsp;&emsp;(i) a description of the training;
 
@@ -132,7 +132,7 @@ Elements of Report.—Each report required under subsection (a) shall include, w
 
 &emsp;&emsp;&emsp;(iii) the anticipated costs to provide such assistance.
 
-(Added and amended Pub. L. 114–328, div. A, title XII, §§1246(d)(2)(A), 1251(a)–(f), Dec. 23, 2016, 130 Stat. 2521, 2529–2531; Pub. L. 115–232, div. A, title XII, §1204(b)(1)(A), Aug. 13, 2018, 132 Stat. 2017; Pub. L. 117–263, div. A, title XII, §1202(d), Dec. 23, 2022, 136 Stat. 2823.)
+(Added and amended Pub. L. 114–328, div. A, title XII, §§1246(d)(2)(A), 1251(a)–(f), Dec. 23, 2016, 130 Stat. 2521, 2529–2531; Pub. L. 115–232, div. A, title XII, §1204(b)(1)(A), Aug. 13, 2018, 132 Stat. 2017; Pub. L. 117–263, div. A, title XII, §1202(d), Dec. 23, 2022, 136 Stat. 2823; Pub. L. 118–31, div. A, title XVIII, §1801(a)(4), Dec. 22, 2023, 137 Stat. 683.)
 
 #### <b>Editorial Notes</b>
 
@@ -141,6 +141,12 @@ Elements of Report.—Each report required under subsection (a) shall include, w
 Text of section, as added by Pub. L. 114–328, was based on text of subsecs. (a) to (e) of section 1211 of Pub. L. 113–291, div. A, title XII, Dec. 19, 2014, 128 Stat. 3544, which was not classified to the Code. Section was subsequently amended generally by Pub. L. 117–263.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(2)(E). Pub. L. 118–31, §1801(a)(4)(A), substituted "bilateral" for "bi-lateral".
+
+Subsec. (b)(4)(E)(iii). Pub. L. 118–31, §1801(a)(4)(B)(i), inserted "and" after semicolon at end.
+
+Subsec. (b)(4)(H). Pub. L. 118–31, §1801(a)(4)(B)(ii), substituted "section" for "sections" in introductory provisions.
 
 <b>2022</b>—Pub. L. 117–263 amended section generally. Prior to amendment, section related to annual report required by Secretary of Defense to the appropriate congressional committees setting forth a description of each program carried out to provide training, equipment, or other assistance or reimbursement.
 
@@ -203,10 +209,4 @@ Pub. L. 117–263, div. A, title XII, §1202(e), Dec. 23, 2022, 136 Stat. 2826, 
 &emsp;"(1) the requirements of such section 386 as amended by subsection (d); or
 
 &emsp;"(2) the requirements of such section 386 as in effect on the day before the date of the enactment of this Act."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "bilateral".</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by "and".</i>
-
-<i><sup>3</sup></i><i> So in original.</i>
 

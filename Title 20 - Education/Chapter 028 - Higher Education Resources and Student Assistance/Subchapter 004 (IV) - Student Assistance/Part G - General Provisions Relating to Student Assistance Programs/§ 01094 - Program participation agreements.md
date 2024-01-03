@@ -60,7 +60,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(18) The institution will meet the requirements established pursuant to section 1092(g) of this title.
 
-&emsp;(19) The institution will not impose any penalty, including the assessment of late fees, the denial of access to classes, libraries, or other institutional facilities, or the requirement that the student borrow additional funds, on any student because of the student's inability to meet his or her financial obligations to theinstitution as a result of the delayed disbursement of the proceeds of a loan made under this subchapter due to compliance with the provisions of this subchapter, or delays attributable to the institution.
+&emsp;(19) The institution will not impose any penalty, including the assessment of late fees, the denial of access to classes, libraries, or other institutional facilities, or the requirement that the student borrow additional funds, on any student because of the student's inability to meet his or her financial obligations to the institution as a result of the delayed disbursement of the proceeds of a loan made under this subchapter due to compliance with the provisions of this subchapter, or delays attributable to the institution.
 
 &emsp;(20) The institution will not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except that this paragraph shall not apply to the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
 
@@ -112,7 +112,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 #### (c) Audits; financial responsibility; enforcement of standards
 
-(1) Notwithstanding any other provisions of this subchapter, the Secretary shall prescribe such regulations as may be necessary to provide for—
+(1) Notwithstanding any other provisions of this subchapter, the Secretary shall prescribesuch regulations as may be necessary to provide for—
 
 &emsp;(A)(i) except as provided in clauses (ii) and (iii), a financial audit of an eligible institution with regard to the financial condition of the institution in its entirety, and a compliance audit of such institution with regard to any funds obtained by it under this subchapter or obtained from a student or a parent who has a loan insured or guaranteed by the Secretary under this subchapter, on at least an annual basis and covering the period since the most recent audit, conducted by a qualified, independent organization or person in accordance with standards established by the Comptroller General for the audit of governmental organizations, programs, and functions, and as prescribed in regulations of the Secretary, the results of which shall be submitted to the Secretary and shall be available to cognizant guaranty agencies, eligible lenders, State agencies, and the appropriate State agency notifying the Secretary under subpart 1 of part H, except that the Secretary may modify the requirements of this clause with respect to institutions of higher education that are foreign institutions, and may waive such requirements with respect to a foreign institution whose students receive less than $500,000 in loans under this subchapter during the award year preceding the audit period;
 
@@ -170,7 +170,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 (ii) Any civil penalty may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the appropriateness of the penalty to the size of the institution of higher education subject to the determination, and the gravity of the violation, failure, or misrepresentation shall be considered. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the institution charged.
 
-(4) The Secretary shall publish a list of State agencies which the Secretary determines to be reliable authority as to the quality of public postsecondary vocational education in their respective States for the purpose of determining eligibility for all Federal student assistance programs.
+(4) The Secretary shall publish a list of State agencies which the Secretary determines to bereliable authority as to the quality of public postsecondary vocational education in their respective States for the purpose of determining eligibility for all Federal student assistance programs.
 
 (5) The Secretary shall make readily available to appropriate guaranty agencies, eligible lenders, State agencies notifying the Secretary under subpart 1 of part H, and accrediting agencies or associations the results of the audits of eligible institutions conducted pursuant to paragraph (1)(A).
 
@@ -230,7 +230,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;&emsp;&emsp;(iii) in the case of scholarships provided by a proprietary institution of higher education, only those scholarships provided by the institution in the form of monetary aid or tuition discounts based upon the academic achievements or financial need of students, disbursed during each fiscal year from an established restricted account, and only to the extent that funds in that account represent designated funds from an outside source or from income earned on those funds;
 
-&emsp;&emsp;(E) in the case of each student who receives a loan on or after July 1, 2008, and prior to July 1, 2011, that is authorized under section 1078–8 of this title or that is a Federal Direct Unsubsidized Stafford Loan, treat as revenue received by the institution from sources other than funds received under this subchapter, the amount by which the disbursement of such loan received by the institution exceeds the limit on such loan in effect on the day before May 7, 2008; and
+&emsp;&emsp;(E) in the case of each student who receives a loan on or after July 1, 2008, andprior to July 1, 2011, that is authorized under section 1078–8 of this title or that is a Federal Direct Unsubsidized Stafford Loan, treat as revenue received by the institution from sources other than funds received under this subchapter, the amount by which the disbursement of such loan received by the institution exceeds the limit on such loan in effect on the day before May 7, 2008; and
 
 &emsp;&emsp;(F) exclude from revenues—
 
@@ -288,7 +288,7 @@ An institution of higher education's code of conduct, as required under subsecti
 
 &emsp;&emsp;For purposes of this paragraph, the term "revenue-sharing arrangement" means an arrangement between an institution and a lender under which—
 
-&emsp;&emsp;&emsp;(i) a lender provides or issues a loan that is made, insured, or guaranteed under thissubchapter to students attending the institution or to the families of such students; and
+&emsp;&emsp;&emsp;(i) a lender provides or issues a loan that is made, insured, or guaranteed under this subchapter to students attending the institution or to the families of such students; and
 
 &emsp;&emsp;&emsp;(ii) the institution recommends the lender or the loan products of the lender and in exchange, the lender pays a fee or provides other material benefits, including revenue or profit sharing, to the institution, an officer or employee of the institution, or an agent.
 
@@ -344,7 +344,7 @@ An institution of higher education's code of conduct, as required under subsecti
 
 &emsp;&emsp;&emsp;(i) an officer or employee of an institution who is not employed in the institution's financial aid office and who does not otherwise have responsibilities with respect to education loans, or an agent who does not have responsibilities with respect to education loans, from performing paid or unpaid service on a board of directors of a lender, guarantor, or servicer of education loans;
 
-&emsp;&emsp;&emsp;(ii) an officer or employee of the institution who is not employed in the institution's financial aid office but who has responsibility with respect to education loans as a result of a position held at the institution, or an agent who has responsibility with respect to education loans, from performing paid or unpaid service on a board of directors of a lender, guarantor, or servicer of education loans, if the institution has a written conflict of interest policy that clearly sets forth that officers, employees, or agents must recuse themselves from participating in any decisionof the board regarding education loans at the institution; or
+&emsp;&emsp;&emsp;(ii) an officer or employee of the institution who is not employed in the institution's financial aid office but who has responsibility with respect to education loans as a result of a position held at the institution, or an agent who has responsibility with respect to education loans, from performing paid or unpaid service on a board of directors of a lender, guarantor, or servicer of education loans, if the institution has a written conflict of interest policy that clearly sets forth that officers, employees, or agents must recuse themselves from participating in any decision of the board regarding education loans at the institution; or
 
 &emsp;&emsp;&emsp;(iii) an officer, employee, or contractor of a lender, guarantor, or servicer of education loans from serving on a board of directors, or serving as a trustee, of an institution, if the institution has a written conflict of interest policy that the board member or trustee must recuse themselves from any decision regarding education loans at the institution.
 
@@ -504,7 +504,7 @@ Nothing in the amendments made by the Higher Education Amendments of 1992 shall 
 
 #### References in Text
 
-The Higher Education Amendments of 1992, referred to in subsec. (j), is Pub. L. 102–325, July 23, 1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
+The Higher Education Amendments of 1992, referred to in subsec. (j), is Pub. L. 102–325, July 23, 1992, 106Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 

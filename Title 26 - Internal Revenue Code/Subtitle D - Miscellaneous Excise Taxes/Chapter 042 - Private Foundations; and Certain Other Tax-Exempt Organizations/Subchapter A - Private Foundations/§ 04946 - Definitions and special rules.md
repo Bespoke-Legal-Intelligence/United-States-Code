@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(i) which is effectively controlled (directly or indirectly) by the same person or persons who control the private foundation in question, or
 
-&emsp;&emsp;&emsp;(ii) substantially all of the contributions to which were made (directly or indirectly)by the same person or persons described in subparagraph (A), (B), or (C), or members of their families (within the meaning of subsection (d)), who made (directly or indirectly) substantially all of the contributions to the private foundation in question, and
+&emsp;&emsp;&emsp;(ii) substantially all of the contributions to which were made (directly or indirectly) by the same person or persons described in subparagraph (A), (B), or (C), or members of their families (within the meaning of subsection (d)), who made (directly or indirectly) substantially all of the contributions to the private foundation in question, and
 
 &emsp;&emsp;(I) only for purposes of section 4941, a government official (as defined in subsection (c)).
 
@@ -110,5 +110,5 @@ Pub. L. 98–369, div. A, title III, §306(c), July 18, 1984, 98 Stat. 784, prov
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made afterDec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as an Effective Date note under section 192 of this title.
+Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made after Dec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as an Effective Date note under section 192 of this title.
 

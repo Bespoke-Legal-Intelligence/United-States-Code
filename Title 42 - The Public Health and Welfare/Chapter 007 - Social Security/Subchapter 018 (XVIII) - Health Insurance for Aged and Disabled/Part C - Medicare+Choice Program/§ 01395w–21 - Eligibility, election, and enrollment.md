@@ -70,7 +70,7 @@
 
 #### (3) Limitation on eligibility of qualified medicare beneficiaries and other medicaid beneficiaries to enroll in an MSA plan
 
-&emsp;An individual who is a qualified medicare beneficiary (as defined in section 1396d(p)(1) ofthis title), a qualified disabled and working individual (described in section 1396d(s) of this title), an individual described in section 1396a(a)(10)(E)(iii) of this title, or otherwise entitled to medicare cost-sharing under a State plan under subchapter XIX is not eligible to enroll in an MSA plan.
+&emsp;An individual who is a qualified medicare beneficiary (as defined in section 1396d(p)(1) of this title), a qualified disabled and working individual (described in section 1396d(s) of this title), an individual described in section 1396a(a)(10)(E)(iii) of this title, or otherwise entitled to medicare cost-sharing under a State plan under subchapter XIX is not eligible to enroll in an MSA plan.
 
 #### (4) Coverage under MSA plans
 
@@ -154,7 +154,7 @@
 
 #### (i) Without prescription drug coverage
 
-&emsp;&emsp;&emsp;An MA eligible individual described in this clause, with respect to a plan year, is an MA eligible individual who is enrolled in a reasonable cost reimbursement contract under section 1395mm(h) of this title in the previous plan year and who is not, for such previous plan year, enrolled in a prescription drug plan under part D, including coverage under section 1395w–132 of this title.
+&emsp;&emsp;&emsp;An MA eligible individual described in this clause, with respect to a plan year, isan MA eligible individual who is enrolled in a reasonable cost reimbursement contract under section 1395mm(h) of this title in the previous plan year and who is not, for such previous plan year, enrolled in a prescription drug plan under part D, including coverage under section 1395w–132 of this title.
 
 #### (ii) With prescription drug coverage
 
@@ -212,7 +212,7 @@
 
 &emsp;&emsp;&emsp;The Secretary shall require a Medicare Advantage organization that is offering a Medicare Advantage plan that has been converted from a reasonable cost reimbursement contract pursuant to section 1395mm(h)(5)(C)(iv) of this title to mail, not later than 30 days prior to the first day of the annual, coordinated election period under subsection (e)(3) of a year, to any individual enrolled under such contract and identified by the Secretary under subsection (c)(4)(D) for such year—
 
-&emsp;&emsp;&emsp;&emsp;(I) a notification that such individual will, on such day, be deemed to have made an election with respect to suchplan to receive benefits under this subchapter through an MA plan or MA–PD plan (and shall be enrolled in such plan) for the next plan year under subsection (c)(4)(A), but that the individual may make a different election during the annual, coordinated election period for such year;
+&emsp;&emsp;&emsp;&emsp;(I) a notification that such individual will, on such day, be deemed to have made an election with respect to such plan to receive benefits under this subchapter through an MA plan or MA–PD plan (and shall be enrolled in such plan) for the next plan year under subsection (c)(4)(A), but that the individual may make a different election during the annual, coordinated election period for such year;
 
 &emsp;&emsp;&emsp;&emsp;(II) the information described in subparagraph (A);
 
@@ -304,7 +304,7 @@
 
 #### (D) Quality and performance
 
-&emsp;&emsp;To the extent available, plan quality and performance indicators for the benefitsunder the plan (and how they compare to such indicators under the original medicare fee-for-service program under parts A and B in the area involved), including—
+&emsp;&emsp;To the extent available, plan quality and performance indicators for the benefits under the plan (and how they compare to such indicators under the original medicare fee-for-service program under parts A and B in the area involved), including—
 
 &emsp;&emsp;&emsp;(i) disenrollment rates for medicare enrollees electing to receive benefits through the plan for the previous 2 years (excluding disenrollment due to death or moving outside the plan's service area),
 
@@ -320,7 +320,7 @@
 
 #### (5) Maintaining a toll-free number and Internet site
 
-&emsp;The Secretary shall maintain a toll-free number for inquiries regarding Medicare+Choice options and the operation of this part in all areas in which Medicare+Choice plans are offered and an Internet site through which individuals may electronically obtain information on such options and Medicare+Choice plans.
+&emsp;The Secretary shall maintain a toll-free number for inquiries regarding Medicare+Choice options and the operation of this part in all areas in which Medicare+Choice plans are offered and an Internet site through which individuals mayelectronically obtain information on such options and Medicare+Choice plans.
 
 #### (6) Use of non-Federal entities
 
@@ -524,7 +524,7 @@
 
 #### (2) Priority
 
-&emsp;If the Secretary determines that a Medicare+Choice organization, in relation to a Medicare+Choice plan it offers, has a capacity limit and the number of Medicare+Choice eligible individuals who elect the plan under this section exceeds the capacity limit, the organization may limit the election of individuals of the plan under this section but only if priority in election is provided—
+&emsp;If the Secretary determines that a Medicare+Choice organization, in relation to a Medicare+Choice plan it offers, has a capacity limit and the number of Medicare+Choice eligible individuals who elect the plan under this section exceeds the capacity limit, the organization may limit the election of individuals ofthe plan under this section but only if priority in election is provided—
 
 &emsp;&emsp;(A) first to such individuals as have elected the plan at the time of the determination, and
 
@@ -652,7 +652,7 @@
 
 &emsp;&emsp;Sales and marketing activities for the enrollment of individuals in Medicare Advantage plans that are conducted—
 
-&emsp;&emsp;&emsp;(i) in health care settings in areas where health care is delivered to individuals (such as physician offices and pharmacies),except in the case where such activities are conducted in common areas in health care settings; and
+&emsp;&emsp;&emsp;(i) in health care settings in areas where health care is delivered to individuals (such as physician offices and pharmacies), except in the case where such activities are conducted in common areas in health care settings; and
 
 &emsp;&emsp;&emsp;(ii) at educational events.
 
@@ -670,7 +670,7 @@
 
 #### (C) Limitation of gifts to nominal dollar value
 
-&emsp;&emsp;The offering of gifts and other promotional items other than those that are of nominal value (as determined by the Secretary) to prospective enrollees at promotional activities.
+&emsp;&emsp;The offering of gifts and other promotional items other than those that are of nominalvalue (as determined by the Secretary) to prospective enrollees at promotional activities.
 
 #### (D) Compensation
 
@@ -914,7 +914,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §501(d)\], Nov. 29, 1999, 11
 
 "(1) The amendments made by subsection (a) \[amending this section and section 1395ss of this title\] apply to notices of impending terminations or discontinuances made on or after the date of the enactment of this Act \[Nov. 29, 1999\].
 
-"(2) The amendments made by subsection (c) \[amending this section\] apply to elections made on or after the date of the enactment of this Act \[Nov. 29, 1999\] with respect to eliminations of Medicare+Choice payment areas from a service area that occur before, on, or after the date of the enactment of this Act."
+"(2) The amendments made by subsection (c) \[amending this section\] apply to elections made on or after thedate of the enactment of this Act \[Nov. 29, 1999\] with respect to eliminations of Medicare+Choice payment areas from a service area that occur before, on, or after the date of the enactment of this Act."
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §502(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, provided that: "The amendments made by this section \[amending this section\] apply to elections and changes of coverage made on or after January 1, 2000."
 
@@ -976,7 +976,7 @@ Enrollment in new plans.—During the period beginning on January 1, 2008, and e
 
 Pub. L. 108–173, title II, §231(d), Dec. 8, 2003, 117 Stat. 2208, provided that: "In promulgating regulations to carry out section 1851(a)(2)(A)(ii) of the Social Security Act \[42 U.S.C. 1395w–21(a)(2)(A)(ii)\] (as added by subsection (a)) and section 1859(b)(6) of such Act \[42 U.S.C. 1395w–28(b)(6)\] (as added by subsection (b)), the Secretary \[of Health and Human Services\] may provide (notwithstanding section 1859(b)(6)(A) of such Act) for the offering of specialized MA plans for special needs individuals by MA plans that disproportionately serve special needs individuals."
 
-Pub. L. 108–173, title II, §231(e), Dec. 8, 2003, 117 Stat. 2208, provided that: "Not later than December 31, 2007, the Secretary \[of Health and Human Services\] shall submit to Congress a report that assesses the impact of specialized MA plans for special needs individuals on the cost and quality of services provided to enrollees. Such report shall include an assessment of the costs and savings to the medicare program as a result of amendments made by subsections (a), (b), and (c) \[amending this section and section 1395w–28 of this title\]."
+Pub. L. 108–173, title II, §231(e), Dec. 8, 2003, 117 Stat. 2208, provided that: "Not later than December 31, 2007, the Secretary \[of Health and Human Services\] shall submit to Congress a report that assesses the impact ofspecialized MA plans for special needs individuals on the cost and quality of services provided to enrollees. Such report shall include an assessment of the costs and savings to the medicare program as a result of amendments made by subsections (a), (b), and (c) \[amending this section and section 1395w–28 of this title\]."
 
 #### MedPAC Study on Consumer Coalitions
 

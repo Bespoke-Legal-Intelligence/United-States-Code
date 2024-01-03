@@ -1,6 +1,6 @@
 ### §516. Equal employment responsibilities
 
-(a)(1) The Secretary shall provide that the employment discrimination complaint resolution system within the Department be established and administered so as to encourage timely and fair resolution of concerns and complaints. The Secretary shall take steps to ensure that the system is administered in an objective, fair, and effective manner and in a manner that is perceived by employees and other interested parties as being objective, fair, and effective.
+(a)(1) The Secretary shall provide that the employment discrimination complaint resolution system within the Department be established and administered so as to encourage timely and fair resolution of concerns and complaints. The Secretary shall take steps to ensure that the system is administered in an objective, fair, andeffective manner and in a manner that is perceived by employees and other interested parties as being objective, fair, and effective.
 
 (2) The Secretary shall ensure that the employment discrimination complaint resolution system established under paragraph (1) requires that any manager of the Department who receives a sexual or other harassment or employment discrimination complaint reports such complaint to the Office of Resolution Management, or successor office, immediately, or if such immediate reporting is impracticable, not later than two days after the date on which the manager receives the complaint.
 
@@ -84,7 +84,7 @@
 
 &emsp;(B) does not also serve in a position that has responsibility over personnel functions of the Department or other functions that conflict with the functions under this section.
 
-(i) In accordance with subsection (b), not later than one year after the date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, the Secretary shall ensure that each Equal Employment Opportunity program manager of the Department at the facility level reports to the head of the Office of Resolution Management, or such successor office established pursuant to subsection\(a), with respect to the equal employment functions of the program manager.
+(i) In accordance with subsection (b), not later than one year after the date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, the Secretary shall ensure that each Equal Employment Opportunity program manager of the Department at the facility level reports to the head of the Office of Resolution Management, or such successor office established pursuant to subsection (a), with respect to the equal employment functions of the program manager.
 
 (Added Pub. L. 105–114, title I, §101(a)(1), Nov. 21, 1997, 111 Stat. 2278; amended Pub. L. 105–368, title IV, §403(d)(2), Nov. 11, 1998, 112 Stat. 3339; Pub. L. 108–170, title IV, §405(a), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 117–76, §7(a), Dec. 21, 2021, 135 Stat. 1520; Pub. L. 117–328, div. U, title IV, §§402(a)–(d), 408(a)(1), Dec. 29, 2022, 136 Stat. 5484, 5485, 5495.)
 
@@ -126,7 +126,7 @@ Pub. L. 105–114, title I, §101(c), Nov. 21, 1997, 111 Stat. 2280, provided th
 
 Pub. L. 117–328, div. U, title IV, §402(e), Dec. 29, 2022, 136 Stat. 5485, provided that: "The Secretary of Veterans Affairs shall—
 
-&emsp;"(1) by not later than the date that is 180 days after the date of the enactment of this Act \[Dec. 29, 2022\], and on a regular basis thereafter, review the policies relating to sexual and other harassment and employment discrimination of the Department of Veterans Affairs to ensure that such policies are complete and in accordance with the sexual and other harassment and employment discrimination policies established by the Office of Resolution Management of the Department, or successor office; and
+&emsp;"(1) by not later than the date that is 180 days after the date of the enactment of this Act \[Dec. 29, 2022\], and on a regular basis thereafter, review the policies relating to sexual and other harassment and employment discrimination of the Department of VeteransAffairs to ensure that such policies are complete and in accordance with the sexual and other harassment and employment discrimination policies established by the Office of Resolution Management of the Department, or successor office; and
 
 &emsp;"(2) by not later than 180 days after the date of the enactment of this Act, issue a final directive and a handbook for the Harassment Prevention Program of the Department."
 

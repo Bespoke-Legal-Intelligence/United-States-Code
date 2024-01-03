@@ -8,7 +8,7 @@ In light of the existing threat to the environment and to public health and safe
 
 #### (1) Initiation
 
-&emsp;The Secretary is requested to initiate negotiations with Mexico, within 60 days after November 7, 2000, for a new Treaty Minute or amodification of Treaty Minute 283 consistent with the provisions of sections 277d–43 to 277d–46 of this title.
+&emsp;The Secretary is requested to initiate negotiations with Mexico, within 60 days after November 7, 2000, for a new Treaty Minute or a modification of Treaty Minute 283 consistent with the provisions of sections 277d–43 to 277d–46 of this title.
 
 #### (2) Implementation
 

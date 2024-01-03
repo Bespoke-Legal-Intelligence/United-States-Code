@@ -52,7 +52,7 @@ For purposes of this part, if stock is received by an individual in a distributi
 
 &emsp;&emsp;(A) such transfer shall not be treated as a disposition for purposes of this part, and
 
-&emsp;&emsp;(B) the same tax treatment under this part with respect to the transferred propertyshall apply to the transferee as would have applied to the transferor.
+&emsp;&emsp;(B) the same tax treatment under this part with respect to the transferred property shall apply to the transferee as would have applied to the transferor.
 
 #### (d) Attribution of stock ownership
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title V, §555(c)(3), July 18, 1984, 98 Stat. 898, as amended by Pub. L. 99–514, title XVIII, §1855(a)(4), Oct. 22, 1986, 100 Stat. 2882, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply with respect to modifications of options after March 20, 1984."
+Pub. L. 98–369, div. A, title V, §555(c)(3), July 18, 1984, 98 Stat. 898, as amended by Pub. L. 99–514, title XVIII,§1855(a)(4), Oct. 22, 1986, 100 Stat. 2882, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply with respect to modifications of options after March 20, 1984."
 
 #### Effective Date of 1983 Amendment
 

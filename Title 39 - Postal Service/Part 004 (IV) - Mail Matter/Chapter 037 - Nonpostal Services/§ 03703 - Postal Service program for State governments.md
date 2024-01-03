@@ -26,7 +26,7 @@ Public Notice.—Not more than 90 days after offering a service under the progra
 
 (c)
 
-Approval Required.—The Postal Service may not establish the program under subsection\(a) unless the Governors of the Postal Service approve such program by a recorded vote that is publicly disclosed on the Postal Service website with a majority of the Governors then in office voting for approval.
+Approval Required.—The Postal Service may not establish the program under subsection (a) unless the Governors of the Postal Service approve such program by a recorded vote that is publicly disclosed on the Postal Service website with a majority of the Governors then in office voting for approval.
 
 (d)
 

@@ -88,6 +88,88 @@ Subsec. (f). Pub. L. 115–91, §1635(2), redesignated subsec. (f) as (e).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Development of Cyber Support Mechanisms for Geographic Combatant Commands
+
+Pub. L. 118–31, div. A, title XV, §1506, Dec. 22, 2023, 137 Stat. 540, provided that:
+
+"(a)
+
+Development of Mechanisms Required.—Not later than 270 days after the date of the enactment of this Act \[Dec. 22, 2023\], each commander of a geographic combatant command, in coordination with the Commander of the United States Cyber Command, shall develop a cyber support mechanism to support the operations of that geographic combatant command.
+
+"(b)
+
+Elements.—Each cyber support mechanism developed with respect to a geographic combatant command under subsection (a) shall include the following:
+
+&emsp;"(1) Processes to enhance the cyber capabilities of such combatant command.
+
+&emsp;"(2) Plans to develop and maintain a sufficient cyber planning capacity in such combatant command.
+
+&emsp;"(3) Processes to integrate cyber capabilities into operational support for such combatant command.
+
+&emsp;"(4) A prioritization of cyber risks and vulnerabilities within the geographic area of responsibility of such combatant command.
+
+&emsp;"(5) Specific plans to assist in the defense of friendly foreign countries."
+
+#### Pilot Program and Other Measures To Enhance Readiness and Effectiveness of Cyber Mission Force
+
+Pub. L. 118–31, div. A, title XV, §1535, Dec. 22, 2023, 137 Stat. 566, provided that:
+
+"(a)
+
+Personnel Requirements and Training for Critical Work Roles.—Not later than 270 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense shall—
+
+&emsp;"(1) direct and oversee the implementation of guidance, to be issued by each Secretary of a military department, that correlates critical work roles to military occupational specialties and periods of obligated service with respect to that military department;
+
+&emsp;"(2) require that, prior to the attachment or assignment of a member of the Armed Forces to a unit of the United States Cyber Command, the Secretary concerned ensure such member is fully trained and in compliance with the required standards for the work role to be assumed by the member within such unit, including with respect to critical work roles within the Cyber Mission Force;
+
+&emsp;"(3) ensure that the period of obligated service for members of the Armed Forces is—
+
+&emsp;&emsp;"(A) uniform across the military departments with respect to positions of the Cyber Mission Force involving critical work roles;
+
+&emsp;&emsp;"(B) commensurate with the financial and time investments made by Secretary concerned for the purpose of furnishing training pursuant to paragraph (2); and
+
+&emsp;&emsp;"(C) sufficient to meet the readiness requirements established by the Commander of the United States Cyber Command;
+
+&emsp;"(4) facilitate consecutive assignments of members of the Armed Forces to the same unit of the United States Cyber Command without inhibiting the advancement or promotion potential of any such member;
+
+&emsp;"(5) provide to the Secretaries of the military departments direction for the integration of critical work roles into the personnel system of record of the respective military department, to provide for tracking cyber personnel data by work role; and
+
+&emsp;"(6) establish within at least one military department the curriculum and capacity necessary to train sufficient numbers of members of the Armed Forces from across the military departments in the performance of critical work roles within the Cyber Mission Force to achieve the readiness requirements established by the Commander of United States Cyber Command.
+
+"(b)
+
+Pilot Program on Contracting for Services Relevant to Critical Work Roles.—
+
+&emsp;"(1)
+
+Pilot program.—Not later than 180 days after the date of the enactment of this Act, the Commander of the United States Cyber Command shall carry out a pilot program under which the Commander shall seek to enter into one or more contracts under which skilled contractor personnel provide services relevant to critical work roles within the Cyber Mission Force, for the purpose of enhancing the readiness and effectiveness of the Cyber Mission Force.
+
+&emsp;"(2)
+
+Duration.—The Commander shall carry out the pilot program under paragraph (1) during the three-year period beginning on the date of the commencement of the pilot program and following such period, may—
+
+&emsp;&emsp;"(A) continue carrying out such pilot program for such duration as the Commander considers appropriate;
+
+&emsp;&emsp;"(B) transition such pilot program to a permanent program; or
+
+&emsp;&emsp;"(C) terminate such pilot program.
+
+"(c)
+
+Plan on Hiring, Training, and Retaining Civilians to Serve in Critical Work Roles.—Not later than 120 days after the date of the enactment of this Act, the Commander of the United States Cyber Command shall—
+
+&emsp;"(1) develop a plan to hire, train, and retain civilians to serve in critical work roles and other work roles within the Cyber Mission Force, for the purpose of enhancing the readiness and effectiveness of the Cyber Mission Force; and
+
+&emsp;"(2) provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on such plan.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'critical work role' means a work role designated as critical by the Commander of the United States Cyber Command for purposes of this section.
+
+&emsp;"(2) The term 'Secretary concerned' has the meaning given that term in section 101 of title 10, United States Code."
+
 #### Management and Oversight of Joint Cyber Warfighting Architecture
 
 Pub. L. 117–263, div. A, title XV, §1509, Dec. 23, 2022, 136 Stat. 2886, provided that:
@@ -358,7 +440,7 @@ Elements.—In establishing a revised total force generation model under paragra
 
 "(d)
 
-Implementation Plan.—Not later than June 1, 2025, the Secretary shall submit to the congressional defense committees \[Committees on Armed Servicesand Appropriations of the Senate and the House of Representatives\] an implementation plan for effecting the revised total force generation model required under subsection (c).
+Implementation Plan.—Not later than June 1, 2025, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an implementation plan for effecting the revised total force generation model required under subsection (c).
 
 "(e)
 
@@ -392,7 +474,7 @@ Plan and Briefing Required.—Not later than 180 days after the date of the enac
 
 "(b)
 
-Implementation.—Not later than 30 days after the date of the briefing provided under paragraph (3) of subsection (a), the Secretary of Defense and the Chairman shall commence implementation of the aspects of the plan developed under paragraph (1) of such subsection that are not dependent upon legislative action.
+Implementation.—Not later than 30 days after the date of the briefing provided under paragraph (3) ofsubsection (a), the Secretary of Defense and the Chairman shall commence implementation of the aspects of the plan developed under paragraph (1) of such subsection that are not dependent upon legislative action.
 
 "(c)
 
@@ -458,7 +540,7 @@ Elements.—The review under subsection (a) shall include the following:
 
 &emsp;&emsp;"(B) the Commander of the United States Cyber Command may issue advisory tasking to forces that are not Cyberspace Operations Forces pursuant to such definition; and
 
-&emsp;&emsp;"(C) forces that are not Cyberspace Operations Forces pursuant to such definition are subject totraining standards established by the Commander as the Cyberspace Joint Force Trainer."
+&emsp;&emsp;"(C) forces that are not Cyberspace Operations Forces pursuant to such definition are subject to training standards established by the Commander as the Cyberspace Joint Force Trainer."
 
 #### Assignment of Certain Budget Control Responsibilities to Commander of United States Cyber Command
 
@@ -506,7 +588,7 @@ Implementation Plan.—
 
 &emsp;"(1)
 
-In general.—Not later than the date that is 30 days after the date of the enactment of this Act, the Comptroller General of the Department of Defense and the Commander of United States Cyber Command, in coordination with Chief Information Officer of the Department, the Principal Cyber Advisor, the Under Secretary of Defense for Acquisition and Sustainment, Cost Assessment and Program Evaluation, and the Secretaries of the military departments, shall jointly develop an implementation plan for the transition of responsibilities assigned to the Commander of United States Cyber Command pursuant to subsection (a)(1).
+In general.—Not later than the date that is 30 days after the date of the enactment of this Act, theComptroller General of the Department of Defense and the Commander of United States Cyber Command, in coordination with Chief Information Officer of the Department, the Principal Cyber Advisor, the Under Secretary of Defense for Acquisition and Sustainment, Cost Assessment and Program Evaluation, and the Secretaries of the military departments, shall jointly develop an implementation plan for the transition of responsibilities assigned to the Commander of United States Cyber Command pursuant to subsection (a)(1).
 
 &emsp;"(2)
 

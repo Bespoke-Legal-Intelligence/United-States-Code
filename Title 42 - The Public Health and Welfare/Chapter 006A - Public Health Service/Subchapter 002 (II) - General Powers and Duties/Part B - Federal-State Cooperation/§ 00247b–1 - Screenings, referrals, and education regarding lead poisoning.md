@@ -146,7 +146,7 @@ For purposes of this section, the term "political subdivision" includes Indian t
 
 The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall develop national guidelines for the uniform reporting of all blood lead test results to State and local health departments.
 
-(July 1, 1944, ch. 373, title III, §317A, as added Pub. L. 100–572, §3, Oct. 31, 1988, 102 Stat. 2887;amended Pub. L. 102–531, title III, §303(a), Oct. 27, 1992, 106 Stat. 3484; Pub. L. 103–183, title VII, §705(a), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §404, Nov. 13, 1998, 112 Stat. 3588; Pub. L. 106–310, div. A, title XXV, §§2501(a), (b), 2504, Oct. 17, 2000, 114 Stat. 1161, 1164; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
+(July 1, 1944, ch. 373, title III, §317A, as added Pub. L. 100–572, §3, Oct. 31, 1988, 102 Stat. 2887; amended Pub. L. 102–531, title III, §303(a), Oct. 27, 1992, 106 Stat. 3484; Pub. L. 103–183, title VII, §705(a), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §404, Nov. 13, 1998, 112 Stat. 3588; Pub. L. 106–310, div. A, title XXV, §§2501(a), (b), 2504, Oct. 17, 2000, 114 Stat. 1161, 1164; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
 
 #### <b>Editorial Notes</b>
 

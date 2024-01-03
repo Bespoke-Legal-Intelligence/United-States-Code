@@ -18,7 +18,7 @@ Cotton-producing State.—
 
 &emsp;(1)
 
-In general.—The term "cotton-producing State" means any State in which the average annual production of cotton during the five years 1960–1964 was twenty thousand bales or more, except that any State producing cotton whose production during such period was less than such amount shall under regulations prescribed by the Secretary be combined with another State or States producing cotton in such manner that such average annual production of such combination of States totaled twenty thousand bales or more.
+In general.—The term "cotton-producing State" means any State in which theaverage annual production of cotton during the five years 1960–1964 was twenty thousand bales or more, except that any State producing cotton whose production during such period was less than such amount shall under regulations prescribed by the Secretary be combined with another State or States producing cotton in such manner that such average annual production of such combination of States totaled twenty thousand bales or more.
 
 &emsp;(2)
 

@@ -34,7 +34,7 @@ Section was formerly classified to section 595 of the former Appendix to this ti
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b). Pub. L. 115–407 substituted "State or local office—" for "State or local office, a person who is absent from a State because the person is accompanying the person's spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
+<b>2018</b>—Subsec. (b). Pub. L. 115–407 substituted "State or local office—" for "State or local office, a personwho is absent from a State because the person is accompanying the person's spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
 
 "(1) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;
 
@@ -44,11 +44,11 @@ Section was formerly classified to section 595 of the former Appendix to this ti
 
 <b>2009</b>—Pub. L. 111–97 inserted "and spouses of military personnel" after "military personnel" in section catchline, designated existing provisions as subsec.(a), inserted heading, and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–407, title III, §303(b), Dec. 31, 2018, 132 Stat. 5374, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effecton the date that is 90 days after the date of the enactment of this Act \[Dec. 31, 2018\]."
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
+Pub. L. 115–407, title III, §303(b), Dec. 31, 2018, 132 Stat. 5374, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is 90 days after the date of the enactment of this Act \[Dec. 31, 2018\]."
 
 #### Effective Date of 2009 Amendment
 

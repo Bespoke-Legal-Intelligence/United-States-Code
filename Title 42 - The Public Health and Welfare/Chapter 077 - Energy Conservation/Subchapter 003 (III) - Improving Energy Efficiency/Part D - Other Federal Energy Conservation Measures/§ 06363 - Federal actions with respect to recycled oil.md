@@ -40,7 +40,7 @@ As soon as practicable after December 22, 1975, the National Institute of Standa
 
 (1)(A) Within 90 days after the date on which the Commission receives the report under subsection (c), the Commission shall, by rule, prescribe—
 
-&emsp;(i) test procedures for the determination of substantial equivalency of re-refined or otherwise processed used oil or blend of oil, consisting of such re-refined or otherwise processed used oil and new oil or additives, with new oil distributed for a particular end use; and
+&emsp;(i) test procedures for the determination of substantial equivalency of re-refined or otherwise processed used oil or blend of oil, consisting of such re-refined or otherwise processed used oil and new oil or additives, withnew oil distributed for a particular end use; and
 
 &emsp;(ii) labeling standards applicable to containers of recycled oil in order to carry out the purposes of this section.
 

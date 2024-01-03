@@ -6,7 +6,7 @@ In the making of appropriations under any provision of this Act or amendment mad
 
 #### (b) State and local law enforcement
 
-In the making of appropriations under any provision of this Act or amendment made by this Act that authorizes the making of an appropriation for a State and local law enforcement program for a certain fiscal year in a certain amount out of the Violent Crime Reduction Trust Fund, not to exceed 10 percent of that amount is authorized to be appropriated for that fiscal year for any other State and local law enforcement program for which appropriations are authorized by any other State and local law enforcement provision of this Act or amendment made by this Act. The aggregate reduction in the authorization for any particular State and local law enforcement program may not exceed 10 percent of the total amount authorized to be appropriated from the Violent Crime Reduction Trust Fund for that program in this Act or amendment made by this Act.
+In the making of appropriations under any provision of this Act or amendment made bythis Act that authorizes the making of an appropriation for a State and local law enforcement program for a certain fiscal year in a certain amount out of the Violent Crime Reduction Trust Fund, not to exceed 10 percent of that amount is authorized to be appropriated for that fiscal year for any other State and local law enforcement program for which appropriations are authorized by any other State and local law enforcement provision of this Act or amendment made by this Act. The aggregate reduction in the authorization for any particular State and local law enforcement program may not exceed 10 percent of the total amount authorized to be appropriated from the Violent Crime Reduction Trust Fund for that program in this Act or amendment made by this Act.
 
 #### (c) Prevention
 
@@ -218,7 +218,7 @@ Section 13852 of title 42, referred to in subsec. (d), was omitted from the Code
 
 Sections 31501–31505, referred to in subsec. (d), are sections 31501–31505 of Pub. L. 103–322, 108 Stat. 1888, 1889, which amended former sections 2502 to 2504, 2506, and 2512 of Title 16, Conservation.
 
-Section 31901, referred to in subsec. (d), is section 31901 of Pub. L. 103–322, 108 Stat. 1892, which enactedprovisions set out as a note under section 10101 of this title.
+Section 31901, referred to in subsec. (d), is section 31901 of Pub. L. 103–322, 108 Stat. 1892, which enacted provisions set out as a note under section 10101 of this title.
 
 Section 13883 of title 42, referred to in subsec. (d), was omitted from the Code as obsolete.
 

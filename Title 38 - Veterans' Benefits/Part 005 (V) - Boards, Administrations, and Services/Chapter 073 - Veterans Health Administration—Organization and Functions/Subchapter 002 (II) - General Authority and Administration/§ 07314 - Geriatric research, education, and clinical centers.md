@@ -20,7 +20,7 @@
 
 &emsp;(5) The capability to conduct effectively evaluations of the activities of such center.
 
-(d)(1) In order to provide advice to assist the Secretary and the Under Secretary for Health in carrying out their responsibilities under this section, the Assistant Under Secretary for Health described in section 7306(b)(3) of this title shall establish a panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the establishment of new centers under this section.
+(d)(1) In order to provide advice to assist the Secretary and the Under Secretary for Health in carrying out their responsibilities under thissection, the Assistant Under Secretary for Health described in section 7306(b)(3) of this title shall establish a panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the establishment of new centers under this section.
 
 (2) The membership of the panel shall consist of experts in the fields of geriatric and gerontological research, education, and clinical care. Members of the panel shall serve as consultants to the Department for a period of no longer than six months.
 

@@ -54,7 +54,7 @@ As used in this section:
 
 &emsp;(G) meet such other reasonable and necessary terms and conditions as the Secretary may require consistent with this section.
 
-(2) For purposes of subparagraphs (B) and (C) of paragraph (1), the term "farming or ranching operations" shall include rent paid by lessees of agricultural land during any period in which the borrower-owner, due to circumstances beyond the control of the borrower-owner, is unable to actively farm such land.
+(2) For purposes of subparagraphs (B) and (C) of paragraph (1), the term "farming or ranching operations" shall include rent paid by lessees of agricultural land during any period in which theborrower-owner, due to circumstances beyond the control of the borrower-owner, is unable to actively farm such land.
 
 (3) For the purposes of paragraph (1)(E), the failure of the borrower-owner to make timely rental payments shall constitute cause for the termination of all rights of such borrower-owner to possession and occupancy of the homestead property under this section. In effecting any such termination, the Secretary shall afford the borrower-owner or lessee the notice and hearing procedural rights described in section 1983b <sup>2</sup> of this title and shall comply with all applicable State and local laws governing eviction from residential property.
 
@@ -104,7 +104,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>1996</b>—Subsec. (c)(1)(A). Pub. L. 104–127, §644(1), substituted "30" for "90" in two places.
 
-Subsec. (c)(6). Pub. L. 104–127, §644(2), substituted "Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996)," for "Within 30 days of the acquisition of the homestead property securing a loan made or insured under this chapter," and struck out at end "For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988."
+Subsec. (c)(6). Pub. L. 104–127, §644(2), substituted "Not later than the date of acquisition of the propertysecuring a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996)," for "Within 30 days of the acquisition of the homestead property securing a loan made or insured under this chapter," and struck out at end "For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988."
 
 <b>1992</b>—Subsec. (a)(4), (5). Pub. L. 102–552, §516(i), redesignated par. (4), defining "Secretary", as (5).
 

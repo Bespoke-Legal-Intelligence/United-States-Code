@@ -80,7 +80,7 @@ In general.—Upon completion of the rulemaking required under subsection (b), t
 
 &emsp;&emsp;&emsp;&emsp;(IV) use of flight simulation training devices and line-oriented flight training.
 
-&emsp;&emsp;(B) Use of safety equipment that should be worn or used by flight crewmembers and medical personnel on a flight, including the possible use of shoulder harnesses, helmets, seatbelts, and fire resistant clothing to enhance crash survivability.
+&emsp;&emsp;(B) Use of safety equipment that should be worn or used by flight crewmembers andmedical personnel on a flight, including the possible use of shoulder harnesses, helmets, seatbelts, and fire resistant clothing to enhance crash survivability.
 
 &emsp;(2)
 
@@ -100,7 +100,7 @@ Part 135.—The term "part 135" means part 135 of title 14, Code of Federal Regu
 
 &emsp;(2)
 
-Part 135 certificate holder.—The term "part 135 certificate holder" means a personholding an operating certificate issued under part 119 of title 14, Code of Federal Regulations, that is authorized to conduct civil helicopter air ambulance operations under part 135.
+Part 135 certificate holder.—The term "part 135 certificate holder" means a person holding an operating certificate issued under part 119 of title 14, Code of Federal Regulations, that is authorized to conduct civil helicopter air ambulance operations under part 135.
 
 (Added Pub. L. 112–95, title III, §306(a), Feb. 14, 2012, 126 Stat. 58.)
 

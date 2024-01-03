@@ -18,9 +18,9 @@
 
 &emsp;(5) a barge of United States registry or nationality, or a barge operated under the authority of the United States (except a barge that engages on a foreign voyage) unless the owner requests.
 
-(c) An existing vessel that has not undergone a change that the Secretary finds substantially affects the vessel's gross tonnage (or a vessel to which IMO Resolutions A.494 (XII) of November 19, 1981, A.540 (XIII) of November 17, 1983, or A.541 (XIII) of November 17, 1983, apply) may retain its tonnages existing on July 18, 1994, for the application of relevant requirements under international agreements (except the Convention) and other laws of the United States. However, if the vessel undergoes a change substantially affecting its tonnage after July 18, 1994, the vessel shall be remeasured under this chapter.
+(c) An existing vessel that has not undergone a change that the Secretary finds substantially affects the vessel's gross tonnage (or a vessel to which IMO Resolutions A.494 (XII) of November 19, 1981, A.540 (XIII) of November 17, 1983, or A.541 (XIII) of November 17, 1983, apply) may retain its tonnages existing on July 18, 1994, forthe application of relevant requirements under international agreements (except the Convention) and other laws of the United States. However, if the vessel undergoes a change substantially affecting its tonnage after July 18, 1994, the vessel shall be remeasured under this chapter.
 
-(d) This chapter does not affect an international agreement to which the United StatesGovernment is a party that is not in conflict with the Convention or the application of IMO Resolutions A.494 (XII) of November 19, 1981, A.540 (XIII) of November 17, 1983, and A.541 (XIII) of November 17, 1983.
+(d) This chapter does not affect an international agreement to which the United States Government is a party that is not in conflict with the Convention or the application of IMO Resolutions A.494 (XII) of November 19, 1981, A.540 (XIII) of November 17, 1983, and A.541 (XIII) of November 17, 1983.
 
 (Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1920; Pub. L. 101–595, title III, §305, Nov. 16, 1990, 104 Stat. 2985; Pub. L. 111–281, title III, §303(c), Oct. 15, 2010, 124 Stat. 2924.)
 
@@ -100,9 +100,9 @@ Pub. L. 99–509, title V, §5103(g), Oct. 21, 1986, 100 Stat. 1927, provided th
 
 &emsp;&emsp;"(A) a study of—
 
-&emsp;&emsp;&emsp;"(i) the impact of applying vessel tonnage determined under chapter 143 of title 46 (as enacted by section 5101 of this subtitle), United States Code, in laws of the United States that contain provisions based on tonnage, including an analysis of the number and types of vessels that would become subject to additional laws or more stringent requirements because of that application; and
+&emsp;&emsp;&emsp;"(i) the impact of applying vessel tonnage determined under chapter 143 of title 46 (as enactedby section 5101 of this subtitle), United States Code, in laws of the United States that contain provisions based on tonnage, including an analysis of the number and types of vessels that would become subject to additional laws or more stringent requirements because of that application; and
 
-&emsp;&emsp;&emsp;"(ii) the extent to which the tonnage thresholds in laws of the United States whose application isbased on tonnage would have to be raised so that additional vessels would not become subject to those laws if their application is based on tonnage determined under chapter 143; and
+&emsp;&emsp;&emsp;"(ii) the extent to which the tonnage thresholds in laws of the United States whose application is based on tonnage would have to be raised so that additional vessels would not become subject to those laws if their application is based on tonnage determined under chapter 143; and
 
 &emsp;&emsp;"(B) a recommendation of the levels to which the tonnage thresholds in laws of the United States whose application is based on tonnage should be raised if a complete conversion to the International Convention measurement system under chapter 143 is made;
 

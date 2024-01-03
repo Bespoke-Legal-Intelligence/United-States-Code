@@ -10,7 +10,7 @@ In time of war the President is authorized and empowered, in addition to all oth
 
 First. Within the limits of the amounts appropriated therefor, to place an order with any person for such ships or war material as the necessities of the Government, to be determined by the President, may require and which are of the nature, kind, and quantity usually produced or capable of being produced by such person. Compliance with all such orders shall be obligatory on any person to whom such order is given, and such order shall take precedence over all other orders and contracts theretofore placed with such person. If any person owning, leasing, or operating any factory equipped for the building or production of ships or war material for the Navy shall refuse or fail to give to the United States such preference in the execution of such an order, or shall refuse to build, supply, furnish, or manufacture the kind, quantity, or quality of ships or war material so ordered at such reasonable price as shall be determined by the President, the President may take immediate possession of any factory of such person, or of any part thereof without taking possession of the entire factory, and may use the same at such times and in such manner as he may consider necessary or expedient.
 
-Second. Within the limit of the amounts appropriated therefor, to modify or cancel any existing contract for the building, production, orpurchase of ships or war material; and if any contractor shall refuse or fail to comply with the contract as so modified the President may take immediate possession of any factory of such contractor, or any part thereof without taking possession of the entire factory, and may use the same at such times and in such manner as he may consider necessary or expedient.
+Second. Within the limit of the amounts appropriated therefor, to modify or cancel any existing contract for the building, production, or purchase of ships or war material; and if any contractor shall refuse or fail to comply with the contract as so modified the President may take immediate possession of any factory of such contractor, or any part thereof without taking possession of the entire factory, and may use the same at such times and in such manner as he may consider necessary or expedient.
 
 Third. To require the owner or occupier of any factory in which ships or war material are built or produced to place at the disposal of the United States the whole or any part of the output of such factory, and, within the limit of the amounts appropriated therefor, to deliver such output or parts thereof in such quantities and at such times as may be specified in the order at such reasonable price as shall be determined by the President.
 
@@ -32,11 +32,11 @@ For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of
 
 In subsec. (d), "section 1346 or section 1491 of title 28" substituted for "section twenty-four, paragraph twenty, and section one hundred and forty-five of the Judicial Code" (those sections classified to sections 41(20) and 250 of former Title 28, Judicial Code and Judiciary) on authority of act June 25, 1948, ch. 646, 62 Stat. 869, section 1 of which enacted Title 28, Judiciary and Judicial Procedure. Section 1346 of Title 28 sets forth the basic jurisdiction of the district courts in cases in which the United States is defendant. Section 1491 of Title 28 sets forth the basic jurisdiction of the United States Court of Claims. Sections 24(20) and 145 of the Judicial Code were also classified to sections 1496, 1501, 1503, 2401, 2402, and 2501 of Title 28.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Similar Provisions
 
 Provisions similar to those in this section were contained in the Naval Appropriation Act, 1918, act July 1, 1918, ch. 114, 40 Stat. 719, which terminated six months after the treaty of peace between the United States and Germany (Oct. 18, 1921).
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of War and Emergencies
 
@@ -74,7 +74,7 @@ Sec. 102. <i>Delegation of Authority under 50 U.S.C. App. 468 \[now 50 U.S.C. 38
 
 Sec. 103. <i>Delegation of Authority under 10 U.S.C. 4501 and 9501, and 50 U.S.C. 82.</i>
 
-(a) Subject to paragraph (b) of this section, the authorities vested in the President under 10 U.S.C. 4501 and 9501 \[former sections 4501 and 9501 of Title 10\] with respect to the placing of orders for necessary products or materials, and under 50 U.S.C. 82 with respect to theplacing of orders for ships or war materials, except for the taking authority vested in the President by these acts, are hereby delegated to:
+(a) Subject to paragraph (b) of this section, the authorities vested in the President under 10 U.S.C. 4501and 9501 \[former sections 4501 and 9501 of Title 10\] with respect to the placing of orders for necessary products or materials, and under 50 U.S.C. 82 with respect to the placing of orders for ships or war materials, except for the taking authority vested in the President by these acts, are hereby delegated to:
 
 (1) the Secretary of Agriculture with respect to all food resources;
 

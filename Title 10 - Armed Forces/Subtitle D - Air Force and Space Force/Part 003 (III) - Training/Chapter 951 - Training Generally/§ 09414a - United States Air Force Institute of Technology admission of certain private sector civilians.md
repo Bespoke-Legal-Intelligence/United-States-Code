@@ -44,7 +44,7 @@ Tuition.—(1) The United States Air Force Institute of Technology shall charge 
 
 Standards of Conduct.—While receiving instruction at the United States Air Force Institute of Technology, covered private sector employees enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
 
-(Added Pub. L. 111–383, div. A, title V, §593(a), Jan. 7, 2011, 124 Stat. 4232, §9314a; amended Pub. L. 112–239, div. A, title V, §589(b), Jan. 2, 2013, 126 Stat. 1769; Pub. L. 114–92, div. A, title V, §558, title X, §1081(a)(13), Nov. 25, 2015, 129 Stat. 827, 1001; Pub. L. 115–91, div. A, title V, §581(a)–(d)(1), Dec. 12, 2017, 131 Stat. 1414, 1415; renumbered§9414a and amended Pub. L. 115–232, div. A, title VIII, §§806(a)(3), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
+(Added Pub. L. 111–383, div. A, title V, §593(a), Jan. 7, 2011, 124 Stat. 4232, §9314a; amended Pub. L. 112–239, div. A, title V, §589(b), Jan. 2, 2013, 126 Stat. 1769; Pub. L. 114–92, div. A, title V, §558, title X, §1081(a)(13), Nov. 25, 2015, 129 Stat. 827, 1001; Pub. L. 115–91, div. A, title V, §581(a)–(d)(1), Dec. 12, 2017, 131 Stat. 1414, 1415; renumbered §9414a and amended Pub. L. 115–232, div. A, title VIII, §§806(a)(3), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
 
 #### <b>Editorial Notes</b>
 

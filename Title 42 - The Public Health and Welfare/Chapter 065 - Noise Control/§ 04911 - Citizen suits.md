@@ -4,7 +4,7 @@
 
 Except as provided in subsection (b), any person (other than the United States) may commence a civil action on his own behalf—
 
-&emsp;(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment tothe Constitution) who is alleged to be in violation of any noise control requirement (as defined in subsection (e) <sup>1</sup>), or
+&emsp;(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any noise control requirement (as defined in subsection (e) <sup>1</sup>), or
 
 &emsp;(2) against—
 

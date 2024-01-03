@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(B) be junior only to such interests in the farm or ranch as may be conveyed at the time of acquisition to the person (including a lender) from whom the borrower obtained a loan used to acquire the farm or ranch; and
 
-&emsp;&emsp;(C) require the borrower to obtain the permission of the Secretary before the borrower may grant an additional security interest in the farm or ranch.
+&emsp;&emsp;(C) require the borrower to obtain the permission of the Secretary before the borrowermay grant an additional security interest in the farm or ranch.
 
 #### (c) Limitations
 

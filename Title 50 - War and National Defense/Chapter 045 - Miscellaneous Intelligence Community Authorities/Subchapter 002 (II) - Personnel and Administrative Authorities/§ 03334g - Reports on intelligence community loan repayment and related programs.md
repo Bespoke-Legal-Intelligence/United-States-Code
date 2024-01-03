@@ -8,7 +8,7 @@ It is the sense of Congress that—
 
 &emsp;(2) creating such a program would enhance the ability of the elements of the intelligence community to recruit, hire, and retain highly qualified personnel, including with respect to mission-critical and hard-to-fill positions;
 
-&emsp;(3) such a program, including with respect to eligibility requirements, should be designed soas to maximize the ability of the elements of the intelligence community to recruit, hire, and retain highly qualified personnel, including with respect to mission-critical and hard-to-fill positions; and
+&emsp;(3) such a program, including with respect to eligibility requirements, should be designed so as to maximize the ability of the elements of the intelligence community to recruit, hire, and retain highly qualified personnel, including with respect to mission-critical and hard-to-fill positions; and
 
 &emsp;(4) to the extent possible, such a program should be uniform throughout the intelligence community and publicly promoted by each element of the intelligence community to both current employees of the element as well as to prospective employees of the element.
 

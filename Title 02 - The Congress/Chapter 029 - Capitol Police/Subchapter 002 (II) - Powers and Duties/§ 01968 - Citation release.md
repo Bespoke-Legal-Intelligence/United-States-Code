@@ -8,7 +8,7 @@ The Chief of the Capitol Police, with the approval of the Capitol Police Board, 
 
 (1) In the same manner as provided for with respect to an official of the Metropolitan Police Department of the District of Columbia under section 23–1110(a) of the District of Columbia Code, the Superior Court of the District of Columbia shall have the authority to appoint the member of the Capitol Police designated under subsection (a) of this section to take bail or collateral from persons charged with offenses triable in the Superior Court of the District of Columbia. Pursuant to that authority—
 
-&emsp;(A) the citation power described in subsection (b) of section 23–1110 of the District ofColumbia Code shall be exercised by such member of the Capitol Police in the same manner as by an official of the Metropolitan Police Department; and
+&emsp;(A) the citation power described in subsection (b) of section 23–1110 of the District of Columbia Code shall be exercised by such member of the Capitol Police in the same manner as by an official of the Metropolitan Police Department; and
 
 &emsp;(B) paragraph (4) of subsection (b) of section 23–1110 of the District of Columbia Code, relating to failure to appear, shall apply with respect to citations under subparagraph (A) of this paragraph.
 
@@ -20,5 +20,5 @@ The Chief of the Capitol Police, with the approval of the Capitol Police Board, 
 
 #### Codification
 
-Section was classified to section 212a–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 212a–5 of former Title 40, prior to the enactment of Title 40, PublicBuildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 

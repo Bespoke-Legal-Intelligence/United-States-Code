@@ -18,7 +18,7 @@ Restriction on Legislative Payment of Claims.—In the case of a contract of an 
 
 (c)
 
-Treatment of Certain Clauses Implementing Executive Orders.—The unilateral insertion of a covered clause into an existing Department of Defense contract, order, or other transaction by a contracting officer shall be treated as a change directed by the contracting officer pursuant to, and subject to, the Changesclause of the underlying contract, order, or other transaction.
+Treatment of Certain Clauses Implementing Executive Orders.—The unilateral insertion of a covered clause into an existing Department of Defense contract, order, or other transaction by a contracting officer shall be treated as a change directed by the contracting officer pursuant to, and subject to, the Changes clause of the underlying contract, order, or other transaction.
 
 (d)
 

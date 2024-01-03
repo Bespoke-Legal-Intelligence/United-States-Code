@@ -16,7 +16,7 @@
 
 #### (A) Competitive basis
 
-&emsp;&emsp;Except as provided in subsections (a) and (b) of section 3304 of title 41, the Secretary shall select on a competitive basis an entity to operate a Job Corps center and entities to provide activities described in this part to the Job Corps center. In developing a solicitation for an operator or service provider, the Secretary shall consult with the Governor of the State in which the center is located, the workforce council for the Job Corps center (if established), and the applicable local board regarding the contents of such solicitation, including elements that will promote the consistency of the activities carried out through the center with the objectives set forth in the State plan or in a local plan.
+&emsp;&emsp;Except as provided in subsections (a) and (b) of section 3304 of title 41, the Secretary shall select on a competitive basis an entity to operate a Job Corps center and entities to provide activities described in this part to the Job Corps center. In developing a solicitation for an operator or service provider, the Secretary shall consult with the Governor of the State in which the center is located, the workforce council for the Job Corps center (if established), and the applicable local board regarding the contents ofsuch solicitation, including elements that will promote the consistency of the activities carried out through the center with the objectives set forth in the State plan or in a local plan.
 
 #### (B) Recommendations and considerations
 
@@ -185,10 +185,6 @@ The Workforce Investment Act of 1998, referred to in subsec. (a)(3)(C), is Pub. 
 The Fish and Wildlife Coordination Act, referred to in subsec. (d)(2), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see section 661(a) of Title 16, Short Title note set out under section 661 of Title 16, and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

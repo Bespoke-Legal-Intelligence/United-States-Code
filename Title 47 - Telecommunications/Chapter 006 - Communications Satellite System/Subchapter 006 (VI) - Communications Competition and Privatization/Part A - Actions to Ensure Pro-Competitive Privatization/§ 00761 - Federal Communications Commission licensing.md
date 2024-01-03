@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) after April 1, 2001, in the case of INTELSAT and its successor entities, INTELSAT and any successor entities have been privatized in a manner that will harm competition in the telecommunications markets of the United States; or
 
-&emsp;&emsp;&emsp;(ii) after April 1, 2000, in the case of Inmarsat and its successor entities, Inmarsat and any successor entities havebeen privatized in a manner that will harm competition in the telecommunications markets of the United States.
+&emsp;&emsp;&emsp;(ii) after April 1, 2000, in the case of Inmarsat and its successor entities, Inmarsat and any successor entities have been privatized in a manner that will harm competition in the telecommunications markets of the United States.
 
 #### (B) Consequences of determination
 

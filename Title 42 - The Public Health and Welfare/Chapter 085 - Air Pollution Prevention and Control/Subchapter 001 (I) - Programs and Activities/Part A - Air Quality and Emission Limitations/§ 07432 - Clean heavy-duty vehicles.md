@@ -64,7 +64,7 @@ For purposes of this section:
 
 #### (5) Zero-emission vehicle
 
-&emsp;The term "zero-emission vehicle" means a vehicle that has a drivetrain that produces,under any possible operational mode or condition, zero exhaust emissions of—
+&emsp;The term "zero-emission vehicle" means a vehicle that has a drivetrain that produces, under any possible operational mode or condition, zero exhaust emissions of—
 
 &emsp;&emsp;(A) any air pollutant that is listed pursuant to section 7408(a) of this title (or any precursor to such an air pollutant); and
 

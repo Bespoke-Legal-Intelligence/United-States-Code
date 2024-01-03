@@ -26,7 +26,7 @@ The Administrator may make grants, on a competitive basis, to governmental and n
 
 &emsp;The report shall contain the following:
 
-&emsp;&emsp;(A) A list of the organizations, hospitals, or other entities to which the grants wereprovided and the purpose for which those entities were provided grants.
+&emsp;&emsp;(A) A list of the organizations, hospitals, or other entities to which the grants were provided and the purpose for which those entities were provided grants.
 
 &emsp;&emsp;(B) Efforts taken to ensure that potential grant applicants are provided with information necessary to develop an effective application.
 
@@ -64,7 +64,7 @@ Section was enacted as part of the Floyd D. Spence National Defense Authorizatio
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the FederalEmergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

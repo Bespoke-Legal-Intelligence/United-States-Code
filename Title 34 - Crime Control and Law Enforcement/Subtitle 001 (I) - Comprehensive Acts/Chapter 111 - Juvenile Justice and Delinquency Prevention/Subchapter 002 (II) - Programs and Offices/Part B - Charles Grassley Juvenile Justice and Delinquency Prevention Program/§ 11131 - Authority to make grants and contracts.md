@@ -6,7 +6,7 @@
 
 (2) Grants and contracts may be made under paragraph (1) only to public and private agencies, organizations, and individuals that have experience in providing such technical assistance.
 
-(Pub. L. 93–415, title II, §221, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(a), Oct. 3, 1977, 91 Stat. 1050; Pub. L. 98–473, title II, §625(a), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII,§7256, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(1), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(A)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12221(a)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 115–385, title II, §204(a), Dec. 21, 2018, 132 Stat. 5130.)
+(Pub. L. 93–415, title II, §221, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(a), Oct. 3, 1977, 91 Stat. 1050; Pub. L. 98–473, title II, §625(a), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §7256, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(1), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(A)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12221(a)(2), Nov. 2, 2002, 116 Stat.1894; Pub. L. 115–385, title II, §204(a), Dec. 21, 2018, 132 Stat. 5130.)
 
 #### <b>Editorial Notes</b>
 

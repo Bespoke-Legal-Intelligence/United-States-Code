@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(ii) neither House of the Congress adopts an extension disapproval resolution under paragraph (5) before June 1, 1991.
 
-(2) If the President is of the opinion that the fast track procedures should be extended to implementing bills described in paragraph (1)(B), the President must submit to the Congress, no later than March 1, 1991, a written report that contains a request for such extension, together with—
+(2) If the President is of the opinion that the fast track procedures should be extended to implementing bills described in paragraph (1)(B),the President must submit to the Congress, no later than March 1, 1991, a written report that contains a request for such extension, together with—
 
 &emsp;(A) a description of all trade agreements that have been negotiated under section 2902(b) or (c) of this title and the anticipated schedule for submitting such agreements to the Congress for approval;
 
@@ -108,13 +108,13 @@
 
 (D) It is not in order for the House of Representatives to consider any procedural disapproval resolution not reported by the Committee on Ways and Means and the Committee on Rules.
 
-(E) For purposes of this subsection, the term "procedural disapproval resolution" means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: "That the President has failed or refused to consult with Congress on trade negotiations and trade agreements in accordance with the provisions of the Omnibus Trade and Competitiveness Act of 1988, and, therefore, theprovisions of section 151 of the Trade Act of 1974 shall not apply to any implementing bill submitted with respect to any trade agreement entered into under section 1102(b) or (c) of such Act of 1988, if, during the 60-day period beginning on the date on which this resolution is agreed to by the           , the            agrees to a procedural disapproval resolution (within the meaning of section 1103(c)(1)(E) of such Act of 1988).", with the first blank space being filled with the name of the resolving House of the Congress and the second blank space being filled with the name of the other House of the Congress.
+(E) For purposes of this subsection, the term "procedural disapproval resolution" means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: "That the President has failed or refused to consult with Congress on trade negotiations and trade agreements in accordance with the provisions of the Omnibus Trade and Competitiveness Act of 1988, and, therefore, the provisions of section 151 of the Trade Act of 1974 shall not apply to any implementing bill submitted with respect to any trade agreement entered into under section 1102(b) or (c) of such Act of 1988, if, during the 60-day period beginning on the date on which this resolution is agreed to by the           , the            agrees to a procedural disapproval resolution (within the meaning of section 1103(c)(1)(E) of such Act of 1988).", with the first blank space being filled with the name of the resolving House of the Congress and the second blank space being filled with the name of the other House of the Congress.
 
 (2) The fast track procedures shall not apply to any implementing bill that contains a provision approving of any trade agreement which is entered into under section 2902(c) of this title with any foreign country if either—
 
 &emsp;(A) the requirements of section 2902(c)(3) of this title are not met with respect to the negotiation of such agreement; or
 
-&emsp;(B) the Committee on Finance of the Senate or the Committee on Ways and Means of the House of Representatives disapproves of the negotiation of such agreement before the close of the 60-day period which begins on the date notice is provided under section 2902(c)(3)(C)(i) of this title with respect to the negotiation of such agreement.
+&emsp;(B) the Committee on Finance of the Senate or the Committee on Ways and Means of the House of Representatives disapproves of thenegotiation of such agreement before the close of the 60-day period which begins on the date notice is provided under section 2902(c)(3)(C)(i) of this title with respect to the negotiation of such agreement.
 
 #### (d) Rules of House of Representatives and Senate
 

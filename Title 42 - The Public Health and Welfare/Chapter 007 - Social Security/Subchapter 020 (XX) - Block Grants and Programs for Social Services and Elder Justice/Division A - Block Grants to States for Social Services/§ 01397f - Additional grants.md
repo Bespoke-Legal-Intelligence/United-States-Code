@@ -54,11 +54,11 @@ Notwithstanding section 1397d(a) of this title:
 
 &emsp;(2) In order to assist disadvantaged adults and youths in achieving and maintaining self-sufficiency, a State may use amounts paid under this section to make grants to, or enter into contracts with—
 
-&emsp;&emsp;(A) organizations operated for profit or not for profit, for the purpose of training and employing disadvantaged adults and youthsin construction, rehabilitation, or improvement of affordable housing, public infrastructure, and community facilities; and
+&emsp;&emsp;(A) organizations operated for profit or not for profit, for the purpose of training and employing disadvantaged adults and youths in construction, rehabilitation, or improvement of affordable housing, public infrastructure, and community facilities; and
 
 &emsp;&emsp;(B) nonprofit organizations and community or junior colleges, for the purpose of enabling such entities to provide short-term training courses in entrepreneurism and self-employment, and other training that will promote individual self-sufficiency and the interests of the community.
 
-&emsp;(3) A State may use amounts paid under this section to make grants to, or enter into contracts with, nonprofit community-based organizations to enable such organizations to provide activities designed to promote and protect the interests of children and families, outside of school hours, including keeping schools open during evenings and weekends for mentoring and study.
+&emsp;(3) A State may use amounts paid under this section to make grants to, or enter into contracts with, nonprofit community-based organizations to enable such organizations to provide activities designed to promote and protect the interests of children and families,outside of school hours, including keeping schools open during evenings and weekends for mentoring and study.
 
 &emsp;(4) In order to assist disadvantaged adults and youths in achieving and maintaining economic self-support, a State may use amounts paid under this section to—
 

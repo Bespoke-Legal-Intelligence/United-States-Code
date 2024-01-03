@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) assure the meeting of the purposes of sentencing as set forth in section 3553(a)(2) of title 18, United States Code;
 
-&emsp;&emsp;(B) provide certainty and fairness in meeting the purposes of sentencing, avoiding unwarranted sentencing disparities among defendants with similar records who have beenfound guilty of similar criminal conduct while maintaining sufficient flexibility to permit individualized sentences when warranted by mitigating or aggravating factors not taken into account in the establishment of general sentencing practices; and
+&emsp;&emsp;(B) provide certainty and fairness in meeting the purposes of sentencing, avoiding unwarranted sentencing disparities among defendants with similar records who have been found guilty of similar criminal conduct while maintaining sufficient flexibility to permit individualized sentences when warranted by mitigating or aggravating factors not taken into account in the establishment of general sentencing practices; and
 
 &emsp;&emsp;(C) reflect, to the extent practicable, advancement in knowledge of human behavior as it relates to the criminal justice process; and
 

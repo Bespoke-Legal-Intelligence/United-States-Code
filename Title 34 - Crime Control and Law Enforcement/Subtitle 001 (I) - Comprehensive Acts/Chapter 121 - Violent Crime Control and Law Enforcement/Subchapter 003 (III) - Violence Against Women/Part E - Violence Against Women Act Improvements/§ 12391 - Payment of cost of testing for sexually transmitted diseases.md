@@ -24,7 +24,7 @@
 
 #### (4) Termination of testing requirements
 
-&emsp;An order for follow-up testing under paragraph (3) shall be terminated if the person obtains an acquittal on, or dismissal of, allcharges of the type referred to in subsection (a).<sup>1</sup>
+&emsp;An order for follow-up testing under paragraph (3) shall be terminated if the person obtains an acquittal on, or dismissal of, all charges of the type referred to in subsection (a).<sup>1</sup>
 
 #### (5) Confidentiality of test
 

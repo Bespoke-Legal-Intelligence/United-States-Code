@@ -22,7 +22,7 @@ The Chief Executive Officer shall have the following authorities:
 
 &emsp;(9) To submit to the President and the Congress an annual report which summarizes and evaluates activities under this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 et seq.\], and the Television Broadcasting to Cuba Act \[22 U.S.C. 1465aa et seq.\]. Each annual report shall place special emphasis on the assessment described in paragraph (2).
 
-&emsp;(10) To the extent considered necessary to carry out the functions of the Chief Executive Officer, procure, rent, or lease supplies, services, and other property for journalism, media, production, and broadcasting, and related support services, notwithstanding any other provision of law relating to such acquisition, rental, or lease, and under the same terms and conditions as authorized under section 501(b) of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1461(b)), and for multiyear contracts and leases for periods of up to 20 years subject to the requirements of subsections (b) through (f) of section 3903 of title 41.
+&emsp;(10) To the extent considered necessary to carry out the functions of the Chief Executive Officer, procure, rent, or lease supplies, services, and other property for journalism, media, production, and broadcasting, and related support services, notwithstanding any other provision of law relating to such acquisition, rental, or lease, and under the same terms and conditions as authorized under section 501(b) of the United States Information and Educational Exchange Act of 1948 (22 U.S.C.1461(b)), and for multiyear contracts and leases for periods of up to 20 years subject to the requirements of subsections (b) through (f) of section 3903 of title 41.
 
 &emsp;(11) To appoint such personnel for the Chief Executive Officer as the Chief Executive Officer may determine to be necessary, which shall not be subject to the provisions of title 5 governing appointments in the competitive service, and to fix their compensation in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
@@ -34,7 +34,7 @@ The Chief Executive Officer shall have the following authorities:
 
 &emsp;(15)(A) To procure personal services at rates not to exceed the daily equivalent of the rate provided for positions classified above grade GS–15 of the General Schedule under section 5108 of title 5.
 
-&emsp;(B) To allow those providing such services, while away from their homes or their regular places of business, travel expenses (includingper diem in lieu of subsistence) as authorized by section 5703 of title 5 for persons in the Government service employed intermittently, while so employed.
+&emsp;(B) To allow those providing such services, while away from their homes or their regular places of business, travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of title 5 for persons in the Government service employed intermittently, while so employed.
 
 &emsp;(16) To procure, pursuant to section 1535 of title 31 (commonly known as the "Economy Act"), such goods and services from other departments or agencies for the Chief Executive Officer and the International Broadcasting Bureau as the Chief Executive Officer determines are appropriate.
 
@@ -56,7 +56,7 @@ The Chief Executive Officer shall have the following authorities:
 
 &emsp;&emsp;(B) submit to the appropriate congressional committees a list of anomalous reports, including status updates on anomalous services during the 3-year period commencing on the date of receipt of the first report of biased, unprofessional, or otherwise problematic content."; <sup>3</sup> and
 
-&emsp;&emsp;(C) launch a review, using external, native-language and regional experts, the results of which are to be reported to the appropriate congressional committees, if a widespread pattern of violations of the principles, standards, or journalistic code of ethics of a language service or grantee network has been identified.
+&emsp;&emsp;(C) launch a review, using external, native-language and regional experts, the results of which are to be reported to the appropriate congressional committees, if a widespreadpattern of violations of the principles, standards, or journalistic code of ethics of a language service or grantee network has been identified.
 
 #### (b) Professional independence of broadcasters
 
@@ -94,7 +94,7 @@ The Radio Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is Pub. 
 
 The Television Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
-This chapter, referred to in subsecs. (a)(5), (14), (21) and (c)(1) the second place appearing, was in the original "this Act", and was translated, to reflect the probable intent of Congress, as reading "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsecs. (a)(5), (14), and (c)(1) the second place appearing, was in the original "this Act", and was translated, to reflect the probable intent of Congress, as reading "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, which is classified generally to chapter 18 (§1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
 
@@ -114,7 +114,7 @@ Pub. L. 116–283, div. A, title XII, §1299Q(c), (e)(2), Jan. 1, 2021, 134 Stat
 
 <b>2022</b>—Subsec. (a)(1). Pub. L. 117–263, §9706(1), struck out "direct and" before "supervise".
 
-Subsec. (a)(20). Pub. L. 117–263, §9706(4), which directed amendment of par. (22), "as redesignated", of subsec. (a) by substituting a period for "and to condition grants" and all that followed, was executed by substituting a period for "and to condition grants or cooperative agreements, if appropriate, on such grants or cooperative agreements or any similar amendments as authorized under section 6207(a) of this title, including authority to name and replace the board of any grantee authorized under this chapter, to meet the purposes of this chapter in accordance with subsection (c)." in par. (20), as redesignated by Pub. L. 117–263, §9706(3), to reflect the probable intent of Congress. See Amendment note below. Par. (20), and not par. (22), contained the words "and to condition grants".
+Subsec. (a)(20). Pub. L. 117–263, §9706(4), which directed amendment of par. (22), "as redesignated", of subsec. (a) by substituting a period for "and to condition grants" and all that followed, was executed by substituting a period for "and to condition grants or cooperative agreements, if appropriate, on such grants or cooperative agreements or any similar amendments as authorized under section 6207(a) of this title, including authority to name and replace the board of any grantee authorized under this chapter, to meet the purposes of this chapter in accordance with subsection\(c)." in par. (20), as redesignated by Pub. L. 117–263, §9706(3), to reflect the probable intent of Congress. See Amendment note below. Par. (20), and not par. (22), contained the words "and to condition grants".
 
 Pub. L. 117–263, §9706(2), (3), redesignated par. (21) as (20) and struck out former par. (20) which read as follows: "Notwithstanding any other provision of law, including section 6207(a) of this title, to condition, if appropriate, any grant or cooperative agreement to RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, or the Middle East Broadcasting Networks, or any organization that is established through the consolidation of such entities, on authority to determine membership of their respective boards, and the consolidation of such grantee entities into a single grantee organization under terms and conditions established by the Agency in accordance with subsection (c)."
 

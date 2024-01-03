@@ -32,13 +32,13 @@ As used in this chapter—
 
 Subsec. (b). Pub. L. 87–840, §3, substituted "the District of Columbia" for "Alaska, Hawaii".
 
-Subsecs. (d) and (e). Pub. L. 87–840, §3, added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 87–840, §3, added subsecs. (d) and (e).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–840, §7, Oct. 18, 1962, 76 Stat. 1077, provided that: "The amendments made by this Act \[enactingsection 1178 of this title and amending this section and sections 1172 and 1173 of this title\] shall take effect on the sixtieth day after the date of its enactment \[Oct. 18, 1962\]."
+Pub. L. 87–840, §7, Oct. 18, 1962, 76 Stat. 1077, provided that: "The amendments made by this Act \[enacting section 1178 of this title and amending this section and sections 1172 and 1173 of this title\] shall take effect on the sixtieth day after the date of its enactment \[Oct. 18, 1962\]."
 
 #### Short Title of 1962 Amendment
 

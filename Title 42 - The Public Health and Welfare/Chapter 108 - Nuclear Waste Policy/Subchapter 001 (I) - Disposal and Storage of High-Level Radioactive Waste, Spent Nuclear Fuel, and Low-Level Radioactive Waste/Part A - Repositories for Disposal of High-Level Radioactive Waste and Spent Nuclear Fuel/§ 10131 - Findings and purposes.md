@@ -8,7 +8,7 @@
 
 &emsp;(3) Federal efforts during the past 30 years to devise a permanent solution to the problems of civilian radioactive waste disposal have not been adequate;
 
-&emsp;(4) while the Federal Government has the responsibility to provide for the permanent disposal of high-level radioactive waste and such spent nuclear fuel as may be disposed of in order to protect the public health and safety and the environment, the costs of such disposal should be the responsibility of the generators and owners of such waste and spent fuel;
+&emsp;(4) while the Federal Government has the responsibility to provide for the permanent disposal of high-level radioactive waste and suchspent nuclear fuel as may be disposed of in order to protect the public health and safety and the environment, the costs of such disposal should be the responsibility of the generators and owners of such waste and spent fuel;
 
 &emsp;(5) the generators and owners of high-level radioactive waste and spent nuclear fuel have the primary responsibility to provide for, and the responsibility to pay the costs of, the interim storage of such waste and spent fuel until such waste and spent fuel is accepted by the Secretary of Energy in accordance with the provisions of this chapter;
 

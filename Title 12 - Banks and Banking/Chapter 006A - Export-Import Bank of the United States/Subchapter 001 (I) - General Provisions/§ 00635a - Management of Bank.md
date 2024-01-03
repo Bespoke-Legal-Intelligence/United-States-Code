@@ -572,9 +572,9 @@ In General.—The Board of Directors of the Export-Import Bank of the United Sta
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
 
-Pub. L. 117–103, div. K, title VI, Mar. 15, 2022, 136 Stat. 588.
+\[Pub. L. 117–103, div. K, title VI, Mar. 15, 2022, 136 Stat. 588.
 
-Pub. L. 116–260, div. K, title VI, Dec. 27, 2020, 134 Stat. 1716.
+\[Pub. L. 116–260, div. K, title VI, Dec. 27, 2020, 134 Stat. 1716.
 
 \[Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598.
 

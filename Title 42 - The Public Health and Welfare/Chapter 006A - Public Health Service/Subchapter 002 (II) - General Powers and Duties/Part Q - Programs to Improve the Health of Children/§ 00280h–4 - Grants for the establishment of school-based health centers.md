@@ -2,7 +2,7 @@
 
 #### (1) Program
 
-The Secretary of Health and Human Services (in this section referred to as the "Secretary") shall establish a program to award grants to eligible entities to support the operation of school-based health centers.
+The Secretary of Health and Human Services (in this section referred to as the "Secretary")shall establish a program to award grants to eligible entities to support the operation of school-based health centers.
 
 #### (2) Eligibility
 

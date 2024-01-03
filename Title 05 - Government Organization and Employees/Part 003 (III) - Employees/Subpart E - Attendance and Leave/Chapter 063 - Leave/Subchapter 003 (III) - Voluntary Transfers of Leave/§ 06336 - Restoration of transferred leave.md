@@ -1,6 +1,6 @@
 ### §6336. Restoration of transferred leave
 
-(a)(1) The Office of Personnel Management shall establish procedures under which, except as provided in paragraph (2), any transferred leave remaining to the credit of a leave recipient when the medical emergency affecting the leave recipient terminates shall be restored on aprorated basis by transfer to the appropriate accounts of the respective leave donors.
+(a)(1) The Office of Personnel Management shall establish procedures under which, except as provided in paragraph (2), any transferred leave remaining to the credit of a leave recipient when the medical emergency affecting the leave recipient terminates shall be restored on a prorated basis by transfer to the appropriate accounts of the respective leave donors.
 
 (2) Nothing in paragraph (1) shall require the restoration of leave to a leave donor—
 
@@ -14,7 +14,7 @@
 
 &emsp;(1) crediting such leave to the leave donor's annual leave account in the then current leave year;
 
-&emsp;(2) crediting such leave to the leave donor's annual leave account, effective as of the first day of the first leave year beginning after the date of the election; or
+&emsp;(2) crediting such leave to the leave donor's annual leave account, effective as of the firstday of the first leave year beginning after the date of the election; or
 
 &emsp;(3) donating such leave in whole or part to another leave recipient; if a leave donor elects to donate only part of restored leave to another recipient, the donor may elect to have the remaining leave credited to the donor's annual leave account in accordance with paragraph (1) or (2).
 

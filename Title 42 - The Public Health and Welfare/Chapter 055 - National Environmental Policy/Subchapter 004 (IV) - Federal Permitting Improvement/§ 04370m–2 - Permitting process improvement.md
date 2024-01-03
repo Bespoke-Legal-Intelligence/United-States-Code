@@ -290,7 +290,7 @@
 
 #### (E) Consistency with other time periods
 
-&emsp;&emsp;A permitting timetable established under subparagraph (A) shall be consistent with any other relevant time periods established under Federal law and shall not prevent any cooperating or participating agency from discharging any obligation under Federal law in connection with the project.
+&emsp;&emsp;A permitting timetable established under subparagraph (A) shall be consistent with any other relevant time periods establishedunder Federal law and shall not prevent any cooperating or participating agency from discharging any obligation under Federal law in connection with the project.
 
 #### (F) Conforming to permitting timetables
 
@@ -430,7 +430,7 @@ Subsec. (c)(2)(F)(i). Pub. L. 117–58, §70801(c)(3)(C)(i), inserted "intermedi
 
 Subsec. (c)(2)(F)(ii). Pub. L. 117–58, §70801(c)(3)(C)(ii)(I), substituted "an intermediate or final completion date for agency action on a covered project or reasonably believes the agency will fail to conform with a completion date 30 days before" for "a completion date for agency action on a covered project or is at significant risk of failing to conform with" in introductory provisions.
 
-Subsec. (c)(2)(F)(ii)(I). Pub. L. 117–58, §70801(c)(3)(C)(ii)(II), substituted "reasonably believingthe agency will fail to conform" for "significantly risking failing to conform".
+Subsec. (c)(2)(F)(ii)(I). Pub. L. 117–58, §70801(c)(3)(C)(ii)(II), substituted "reasonably believing the agency will fail to conform" for "significantly risking failing to conform".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

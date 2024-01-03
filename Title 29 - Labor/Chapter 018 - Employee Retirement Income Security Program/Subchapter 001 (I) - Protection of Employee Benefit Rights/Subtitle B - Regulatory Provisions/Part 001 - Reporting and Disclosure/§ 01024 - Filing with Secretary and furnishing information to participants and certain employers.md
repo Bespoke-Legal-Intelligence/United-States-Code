@@ -8,7 +8,7 @@
 
 &emsp;(i) covers fewer than 100 participants; or
 
-&emsp;(ii) is a plan described in section 1060(a) of this title that covers fewer than 1,000 participants, but only if no single employer in the plan has 100 or more participants covered by the plan.
+&emsp;(ii) is a plan described in section 1060(a) of this title that covers fewer than 1,000 participants, but only if no single employer in theplan has 100 or more participants covered by the plan.
 
 (B) Nothing contained in this paragraph shall preclude the Secretary from requiring any information or data from any such plan to which this part applies where he finds such data or information is necessary to carry out the purposes of this subchapter nor shall the Secretary be precluded from revoking provisions for simplified reports for any such plan if he finds it necessary to do so in order to carry out the objectives of this subchapter.
 
@@ -96,7 +96,7 @@ The Secretary may by regulation require that the administrator of any employee b
 
 #### (2) Effect of subsection
 
-&emsp;Nothing in this subsection waives any other provision under this subchapter requiring plan administrators to provide, upon request, information to employers that have an obligation to contribute under the plan.
+&emsp;Nothing in this subsection waives any other provision under this subchapter requiring planadministrators to provide, upon request, information to employers that have an obligation to contribute under the plan.
 
 #### (e) Cross references
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if or
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable with respect to reports required to be filed after Dec. 31, 1987, see section 9342(d)(1) of Pub. L. 100–203, set out as a note under section 1132 of this title.
+Amendment by Pub. L. 100–203 applicable with respect to reports required to be filed after Dec. 31, 1987,see section 9342(d)(1) of Pub. L. 100–203, set out as a note under section 1132 of this title.
 
 #### Effective Date of 1986 Amendment
 

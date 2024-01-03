@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, from amounts received under subsection (d), shall establish a breastfeeding promotion program to promote breastfeeding as the best method of infant nutrition, foster wider public acceptance of breastfeeding in the United States, and assist in the distribution of breastfeeding equipment to breastfeeding women.
+The Secretary, from amounts received under subsection (d), shall establish a breastfeedingpromotion program to promote breastfeeding as the best method of infant nutrition, foster wider public acceptance of breastfeeding in the United States, and assist in the distribution of breastfeeding equipment to breastfeeding women.
 
 #### (b) Conduct of program
 

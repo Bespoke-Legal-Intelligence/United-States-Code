@@ -106,7 +106,7 @@ In this subchapter:
 
 #### (12) Digital literacy
 
-&emsp;The term "digital literacy" means the skills associated with using technology to enableusers to find, evaluate, organize, create, and communicate information.
+&emsp;The term "digital literacy" means the skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information.
 
 #### (13) Disability
 

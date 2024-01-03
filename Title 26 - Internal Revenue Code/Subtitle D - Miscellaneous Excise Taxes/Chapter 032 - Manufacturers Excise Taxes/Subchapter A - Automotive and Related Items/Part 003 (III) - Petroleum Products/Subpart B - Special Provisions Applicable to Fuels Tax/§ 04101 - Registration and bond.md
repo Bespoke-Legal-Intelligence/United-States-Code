@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Every person required by the Secretary to register under this section with respect to the tax imposed by section 4041(a) or 4081, every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A)), every person producing or importing sustainable aviation fuel (as defined in section 40B), and every person producing second generation biofuel (as defined in section 40(b)(6)(E)) shall register with the Secretary at such time, in such form and manner, and subject to such terms and conditions, as the Secretary may by regulations prescribe. A registration under this section may be used only in accordance with regulations prescribed under this section.
+&emsp;Every person required by the Secretary to register under this section with respect to thetax imposed by section 4041(a) or 4081, every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A)), every person producing or importing sustainable aviation fuel (as defined in section 40B), and every person producing second generation biofuel (as defined in section 40(b)(6)(E)) shall register with the Secretary at such time, in such form and manner, and subject to such terms and conditions, as the Secretary may by regulations prescribe. A registration under this section may be used only in accordance with regulations prescribed under this section.
 
 #### (2) Registration of persons within foreign trade zones, etc.
 
@@ -68,7 +68,7 @@ The Secretary may require—
 
 #### Amendment of Subsection (a)(1)
 
-<i>Pub. L. 117–169, title I, §13704(b)(5), (c), Aug. 16, 2022, 136 Stat. 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (a)(1) of this section is amended by inserting "every person producing a fuel eligible for the clean fuel production credit (pursuant to section 45Z)," after "section 6426(k)(3)),". See 2022 Amendment note below.</i>
+<i>Pub. L. 117–169, title I, §13704(b)(5), (c), Aug. 16, 2022, 136 Stat. 2003, provided that, applicable</i><i>to transportation fuel produced after Dec. 31, 2024, subsection (a)(1) of this section is amended by inserting "every person producing a fuel eligible for the clean fuel production credit (pursuant to section 45Z)," after "section 6426(k)(3)),". See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 

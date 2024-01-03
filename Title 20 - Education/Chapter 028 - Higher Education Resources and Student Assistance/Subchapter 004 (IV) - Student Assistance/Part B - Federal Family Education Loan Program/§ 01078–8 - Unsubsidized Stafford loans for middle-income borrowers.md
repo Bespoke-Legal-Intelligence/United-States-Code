@@ -40,7 +40,7 @@ The determination of the amount of a loan by an eligible institution under subse
 
 &emsp;&emsp;&emsp;&emsp;(II) $7,000 for coursework necessary for a professional credential or certification from a State required for employment as a teacher in an elementary or secondary school,
 
-> &emsp;&emsp;except in cases where the Secretary determines that a higher amount is warranted in order to carry out the purpose of this part with respect to students engaged in specialized training requiring exceptionally high costs of education, but the annual insurable limit per student shall not be deemed to be exceeded by a line of credit under which actual payments by the lender to the borrower will not be made in any years in excess of the annual limit.
+> &emsp;&emsp;except in cases where the Secretary determines that a higher amount is warranted in order to carry out the purpose of this part with respect to students engaged in specialized training requiring exceptionally high costs of education, but the annual insurable limit per student shall not be deemed to beexceeded by a line of credit under which actual payments by the lender to the borrower will not be made in any years in excess of the annual limit.
 
 #### (B) Aggregate limit
 
@@ -134,7 +134,7 @@ The determination of the amount of a loan by an eligible institution under subse
 
 #### (6) Repayment period
 
-&emsp;For purposes of calculating the repayment period under section 1078(b)(9) of this title,such period shall commence at the time the first payment of principal is due from the borrower.
+&emsp;For purposes of calculating the repayment period under section 1078(b)(9) of this title, such period shall commence at the time the first payment of principal is due from the borrower.
 
 #### (7) Qualification for forbearance
 
@@ -178,7 +178,7 @@ Subsec. (e)(6). Pub. L. 111–39, §402(f)(5)(B), amended par. (6) generally, re
 
 Subsec. (d)(2). Pub. L. 110–315, §428(a)(1)(A), which directed substitution of "Graduate, professional, and independent postbaccalaureate students" for "Graduate and professional students" in heading, was executed by substituting "graduate, professional, and independent postbaccalaureate students" for "graduate and professional students" to reflect the probable intent on Congress.
 
-Subsec. (d)(2)(A). Pub. L. 110–315, §428(a)(1)(B)(i), inserted ", or a student described in clause (ii)," after "graduate or professional student" in introductory provisions.
+Subsec. (d)(2)(A). Pub. L. 110–315, §428(a)(1)(B)(i), inserted ", or a student described in clause (ii)," after"graduate or professional student" in introductory provisions.
 
 Subsec. (d)(2)(A)(ii). Pub. L. 110–315, §428(a)(1)(B)(ii), added cl. (ii) and struck out former cl. (ii) which read as follows: "in the case of a graduate student enrolled in coursework specified in sections 1091(b)(3)(B) and 1091(b)(4)(B) of this title, $7,000;".
 
@@ -264,7 +264,7 @@ Amendment by Pub. L. 115–245 applicable with respect to loans made on or after
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2008 Amendment
 

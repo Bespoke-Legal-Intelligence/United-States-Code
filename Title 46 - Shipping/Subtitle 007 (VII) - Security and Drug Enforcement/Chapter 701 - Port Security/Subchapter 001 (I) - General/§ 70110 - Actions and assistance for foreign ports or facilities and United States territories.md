@@ -12,7 +12,7 @@ In General.—Unless the Secretary finds that a foreign port or facility maintai
 
 (b)
 
-Effective Date for Sanctions.—Any action taken by the Secretary under subsection (a) for a particular port or facility shall take effect—
+Effective Date for Sanctions.—Any action taken by the Secretary under subsection (a)for a particular port or facility shall take effect—
 
 &emsp;(1) 90 days after the government of the foreign country with jurisdiction over or control of that port or facility is notified under section 70109 unless the Secretary finds that the government has brought the antiterrorism measures at the port or facility up to the security level the Secretary used in making an assessment under section 70108 before the end of that 90-day period; or
 
@@ -32,7 +32,7 @@ Assistance for Foreign Ports, Facilities, and United States Territories.—
 
 &emsp;(1)
 
-In general.—The Secretary, in consultation with the Secretary of Transportation, the Secretary of State, and the Secretary of Energy, shall identify assistance programs that could facilitate implementation of port or facility security antiterrorism measures in foreign countries and territories of the United States. The Secretary shall establish a strategic plan to utilize those assistance programs to assist ports and facilities that are found by the Secretary under subsection (a) not tomaintain effective antiterrorism measures in the implementation of port or facility security antiterrorism measures.
+In general.—The Secretary, in consultation with the Secretary of Transportation, the Secretary of State, and the Secretary of Energy, shall identify assistance programs that could facilitate implementation of port or facility security antiterrorism measures in foreign countries and territories of the United States. The Secretary shall establish a strategic plan to utilize those assistance programs to assist ports and facilities that are found by the Secretary under subsection (a) not to maintain effective antiterrorism measures in the implementation of port or facility security antiterrorism measures.
 
 &emsp;(2)
 

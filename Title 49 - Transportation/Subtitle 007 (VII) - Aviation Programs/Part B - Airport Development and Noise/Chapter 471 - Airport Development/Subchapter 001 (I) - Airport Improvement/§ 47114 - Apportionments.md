@@ -60,7 +60,7 @@ Use of previous fiscal year's apportionment.—Notwithstanding subparagraph (A),
 
 &emsp;&emsp;(F)
 
-Special rule for fiscal years 2018 through 2020.—Notwithstanding subparagraph (A) and subject to subparagraph (G), the Secretary shall apportion to a sponsor of an airport under that subparagraph <sup>1</sup> for each of fiscal years 2018 through 2020 an amount based on the number of passengerboardings at the airport during calendar year 2012 if the airport—
+Special rule for fiscal years 2018 through 2020.—Notwithstanding subparagraph (A) and subject to subparagraph (G), the Secretary shall apportion to a sponsor of an airport under that subparagraph <sup>1</sup> for each of fiscal years 2018 through 2020 an amount based on the number of passenger boardings at the airport during calendar year 2012 if the airport—
 
 &emsp;&emsp;&emsp;(i) had 10,000 or more passenger boardings during calendar year 2012;
 
@@ -80,7 +80,9 @@ Minimum apportionment for commercial service airports with more than 8,000 passe
 
 Seasonal airports.—Notwithstanding section 47102, if the Secretary determines that a commercial service airport with at least 8,000 passenger boardings receives scheduled air carrier service for fewer than 6 months in the calendar year used to calculate apportionments to airport sponsors in a fiscal year, then the Secretary shall consider the airport to be a nonhub primary airport for purposes of this chapter.
 
-&emsp;&emsp;(J) Special rule for fiscal years 2022 and 2023.—Notwithstanding subparagraph (A) and the absence of scheduled passenger aircraft service at an airport, the Secretary shall apportion in fiscal years 2022 and 2023 to the sponsor of the airport an amount based on the number of passenger boardings at the airport during whichever of the following years that would result in the highest apportioned amount:
+&emsp;&emsp;(J)
+
+Special rule for fiscal years 2022 and 2023.—Notwithstanding subparagraph (A) and the absence of scheduled passenger aircraft service at an airport, the Secretary shall apportion in fiscal years 2022 and 2023, and for the period beginning on October 1, 2023, and ending on March 8, 2024, to the sponsor of the airport an amount based on the number of passenger boardings at the airport during whichever of the following years that would result in the highest apportioned amount:
 
 &emsp;&emsp;&emsp;(i) Calendar year 2018.
 
@@ -172,7 +174,7 @@ Airports in alaska, puerto rico, and hawaii.—An amount apportioned under parag
 
 &emsp;(5)
 
-Use of state highway specifications.—The Secretary shall use the highway specifications of a State for airfield pavement construction and improvement using funds made available under this subsection at nonprimary airports serving aircraft that do not exceed 60,000 pounds gross weight if—
+Use of state highway specifications.—The Secretary shall use the highway specifications of a State for airfield pavement construction and improvement using funds made available under this subsection at nonprimaryairports serving aircraft that do not exceed 60,000 pounds gross weight if—
 
 &emsp;&emsp;(A) such State requests the use of such specifications; and
 
@@ -266,7 +268,7 @@ Effective period.—Subparagraph (A) shall be in effect for fiscal year 2004.
 
 Supplemental Apportionment for Puerto Rico and United States Territories.—The Secretary shall apportion amounts for airports in Puerto Rico and all other United States territories in accordance with this section. This subsection does not prohibit the Secretary from making project grants for airports in Puerto Rico or other United States territories from the discretionary fund under section 47115.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §121, Oct. 9, 1996, 110 Stat. 3217; Pub. L. 106–181, title I, §§104(a)–(d), 105(c), Apr. 5, 2000, 114 Stat. 67–71; Pub. L. 108–176, title I, §§146, 147, Dec. 12, 2003, 117 Stat. 2504; Pub. L. 109–115, div. A, title I, §109, Nov. 30, 2005, 119 Stat. 2402; Pub. L. 112–95, title I, §§111(c)(2)(A)(iii), 141–143, Feb. 14, 2012, 126 Stat. 18, 28, 29; Pub. L. 114–190, title II, §2301, July 15, 2016, 130 Stat. 638; Pub. L. 115–63, title I, §102(b), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–254, div. B, title I, §§136, 148(b), 151, 164, Oct. 5, 2018, 132 Stat. 3210, 3214, 3215, 3225; Pub. L. 116–260, div. L, title IV, §422, Dec. 27, 2020, 134 Stat. 1909.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §121, Oct. 9, 1996, 110 Stat. 3217; Pub. L. 106–181, title I, §§104(a)–(d), 105(c), Apr. 5, 2000, 114 Stat. 67–71; Pub. L. 108–176, title I, §§146, 147, Dec. 12, 2003, 117 Stat. 2504; Pub. L. 109–115, div. A, title I, §109, Nov. 30, 2005, 119 Stat. 2402; Pub. L. 112–95, title I, §§111(c)(2)(A)(iii), 141–143, Feb. 14, 2012, 126 Stat. 18, 28, 29; Pub. L. 114–190, title II, §2301, July 15, 2016, 130 Stat. 638; Pub. L. 115–63, title I, §102(b), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–254, div. B, title I, §§136, 148(b), 151, 164, Oct. 5, 2018, 132 Stat. 3210, 3214, 3215, 3225; Pub. L. 116–260, div. L, title IV, §422, Dec. 27, 2020, 134 Stat. 1909; Pub. L. 118–15, div. B, title II, §2201(e), Sept. 30, 2023, 137 Stat. 82; Pub. L. 118–34, title I, §101(e), Dec. 26, 2023, 137 Stat. 1113.)
 
 Historical and Revision Notes
 
@@ -338,7 +340,7 @@ In subsection (c)(1)(A), the words "during the prior calendar year" are substitu
 
 In subsection (c)(2)(A), the word "cargo" is substituted for "property (including mail)" for consistency in the revised title.
 
-In subsection (c)(3), the words "The total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 44 percent of theamount subject to apportionment for a fiscal year" are substituted for 49 App.:2206(b)(2)(A) and (3)(A) for clarity and to eliminate unnecessary words. The words "If this paragraph requires reduction of an amount that otherwise would be apportioned under this subsection" are substituted for "In any case in which apportionments in a fiscal year would be reduced by subparagraph (A)" for clarity.
+In subsection (c)(3), the words "The total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 44 percent of the amount subject to apportionment for a fiscal year" are substituted for 49 App.:2206(b)(2)(A) and (3)(A) for clarity and to eliminate unnecessary words. The words "If this paragraph requires reduction of an amount that otherwise would be apportioned under this subsection" are substituted for "In any case in which apportionments in a fiscal year would be reduced by subparagraph (A)" for clarity.
 
 In subsection (d)(2)(A), the words "the Commonwealth of" are omitted as surplus.
 
@@ -373,9 +375,13 @@ In subsection (c)(3)(B), the words "the total of all amounts apportioned under p
 
 #### References in Text
 
-Section 15(a) of the Airport and Airway Development Act of 1970, referred to in subsec. (e)(1), is section 15(a) of Pub. L. 91–258, which was classified to section 1715(a) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
+Section 15(a) of the Airport and Airway Development Act of 1970, referred to in subsec. (e)(1), is section 15(a)of Pub. L. 91–258, which was classified to section 1715(a) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c)(1)(J). Pub. L. 118–34 substituted "March 8, 2024," for "December 31, 2023,".
+
+Pub. L. 118–15 substituted "2023, and for the period beginning on October 1, 2023, and ending on December 31, 2023, to" for "2023 to".
 
 <b>2020</b>—Subsec. (c)(1)(J). Pub. L. 116–260 added subpar. (J).
 

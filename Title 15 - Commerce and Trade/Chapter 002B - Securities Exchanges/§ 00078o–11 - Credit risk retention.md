@@ -36,7 +36,7 @@ In this section—
 
 &emsp;The regulations prescribed under subsection (b) shall—
 
-&emsp;&emsp;(A) prohibit a securitizer from directly or indirectly hedging or otherwise transferringthe credit risk that the securitizer is required to retain with respect to an asset;
+&emsp;&emsp;(A) prohibit a securitizer from directly or indirectly hedging or otherwise transferring the credit risk that the securitizer is required to retain with respect to an asset;
 
 &emsp;&emsp;(B) require a securitizer to retain—
 
@@ -72,7 +72,7 @@ In this section—
 
 &emsp;&emsp;(G) provide for—
 
-&emsp;&emsp;&emsp;(i) a total or partial exemption of any securitization, as may be appropriate in the public interest and for the protection of investors;
+&emsp;&emsp;&emsp;(i) a total or partial exemption of any securitization, as may be appropriate inthe public interest and for the protection of investors;
 
 &emsp;&emsp;&emsp;(ii) a total or partial exemption for the securitization of an asset issued or guaranteed by the United States, or an agency of the United States, as the Federal banking agencies and the Commission jointly determine appropriate in the public interest and for the protection of investors, except that, for purposes of this clause, the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation are not agencies of the United States;
 
@@ -164,7 +164,7 @@ In determining how to allocate risk retention obligations between a securitizer 
 
 #### (6) Certification
 
-&emsp;The Commission shall require an issuer to certify, for each issuance of an asset-backedsecurity collateralized exclusively by qualified residential mortgages, that the issuer has evaluated the effectiveness of the internal supervisory controls of the issuer with respect to the process for ensuring that all assets that collateralize the asset-backed security are qualified residential mortgages.
+&emsp;The Commission shall require an issuer to certify, for each issuance of an asset-backed security collateralized exclusively by qualified residential mortgages, that the issuer has evaluated the effectiveness of the internal supervisory controls of the issuer with respect to the process for ensuring that all assets that collateralize the asset-backed security are qualified residential mortgages.
 
 #### (f) Enforcement
 

@@ -78,7 +78,7 @@ Section 7713 of this title, referred to in subsec. (d)(2), was in the original a
 
 Section was formerly set out as a note under section 7703b of this title.
 
-Section was enacted as part of the John Warner National Defense Authorization Act for Fiscal Year 2007, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
+Section was enacted as part of the John Warner National Defense Authorization Act for Fiscal Year 2007,and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
 
 #### Amendments
 
@@ -112,7 +112,7 @@ Pub. L. 114–328, div. A, title V, §572(b), Dec. 23, 2016, 130 Stat. 2141, as 
 
 #### "Congressional Defense Committees" Defined
 
-For definition of "congressional defense committees", see section 3 of Pub. L. 109–364, listed in a table under section 101 of Title 10, Armed Forces.
+For definition of "congressional defense committees" as the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 101 of Title 10, Armed Forces, as made applicable by section 3 of Pub. L. 109–364, which is listed in a table under section 101 of Title 10.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

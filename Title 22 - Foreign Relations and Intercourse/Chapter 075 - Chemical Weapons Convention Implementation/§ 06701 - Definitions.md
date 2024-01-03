@@ -14,7 +14,7 @@ In this chapter:
 
 #### (2) Chemical Weapons Convention; Convention
 
-&emsp;The terms "Chemical Weapons Convention" and "Convention" mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, opened for signature on January 13, 1993.
+&emsp;The terms "Chemical Weapons Convention" and "Convention" mean the Convention on theProhibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, opened for signature on January 13, 1993.
 
 #### (3) Key component of a binary or multicomponent chemical system
 
@@ -260,7 +260,7 @@ Paragraphs (17), (37), and (41) of section 40102 of title 49, referred to in par
 
 #### Codification
 
-In par. 14(C), "section 70502(b) of title 46" substituted for "section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))", meaning section 3(b) of the Maritime Drug Law EnforcementAct, on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
+In par. 14(C), "section 70502(b) of title 46" substituted for "section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))", meaning section 3(b) of the Maritime Drug Law Enforcement Act, on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

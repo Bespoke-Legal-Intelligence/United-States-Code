@@ -58,7 +58,7 @@ The Secretary may make grants, from allocations made under section 7423 of this 
 
 #### (3) Assurance to serve all Indian children
 
-&emsp;An Indian tribe, Indian organization, or consortium of such entities that is eligible to apply for a grant under paragraph (1) shall include, in the application required under section 7424 of this title, an assurance that the entity will use the grant funds to provide services to all Indian students served by the local educational agency.
+&emsp;An Indian tribe, Indian organization, or consortium of such entities that is eligible toapply for a grant under paragraph (1) shall include, in the application required under section 7424 of this title, an assurance that the entity will use the grant funds to provide services to all Indian students served by the local educational agency.
 
 #### (d) Indian community-based organization
 

@@ -62,7 +62,7 @@ Prior section 3104 was renumbered section 5304 of this title.
 
 #### Amendments
 
-<b>2023</b>—Subsec. (a)(12). Pub. L. 117–333, §14(a), amended par. (12) generally. Prior to amendment, par. (12) read as follows: "For veterans with the most severe service-connected disabilities who require homebound training or self-employment, or both homebound training and self-employment, such license fees and essential equipment, supplies, and minimum stocks of materials as the Secretary determines to be necessary for such a veteran to begin employment and are within the criteria and cost limitations that the Secretary shall prescribe in regulations for the furnishing of such fees, equipment, supplies, and stocks."
+<b>2023</b>—Subsec. (a)(12). Pub. L. 117–333, §14(a), amended par. (12) generally. Prior to amendment, par. (12) read as follows: "For veterans with the most severe service-connected disabilities who require homebound training or self-employment, or both homebound training andself-employment, such license fees and essential equipment, supplies, and minimum stocks of materials as the Secretary determines to be necessary for such a veteran to begin employment and are within the criteria and cost limitations that the Secretary shall prescribe in regulations for the furnishing of such fees, equipment, supplies, and stocks."
 
 Subsec. (c)(1). Pub. L. 117–333, §14(b), inserted ", including with respect to providing priority for services under subsection (a)(12) to veterans with the most severe service-connected disabilities who require homebound training or self-employment, or both homebound training and self-employment" after "determined by the Secretary".
 

@@ -56,7 +56,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;On October 1, 2012, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer tothe Secretary to carry out this subsection $10,000,000, to remain available until expended.
+&emsp;&emsp;On October 1, 2012, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this subsection $10,000,000, to remain available until expended.
 
 #### (B) Receipt and acceptance
 
@@ -224,9 +224,13 @@ A prior section 1769d, act June 4, 1946, ch. 281, §23, as added Nov. 10, 1989, 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date
 
-Section effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, setout as an Effective Date of 2010 Amendment note under section 1751 of this title.
+Section effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as an Effective Date of 2010 Amendment note under section 1751 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

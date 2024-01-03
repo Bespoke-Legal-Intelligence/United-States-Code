@@ -34,7 +34,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;&emsp;(IX) representatives of victim or witness advocacy groups, including at least one individual with expertise in addressing the challenges of sexual abuse and exploitation and trauma, particularly the needs of youth who experience disproportionate levels of sexual abuse, exploitation, and trauma before entering the juvenile justice system; and
 
-&emsp;&emsp;&emsp;&emsp;(X) for a State in which one or more Indian Tribes are located, an Indian tribal representative (if such representativeis available) or other individual with significant expertise in tribal law enforcement and juvenile justice in Indian tribal communities;
+&emsp;&emsp;&emsp;&emsp;(X) for a State in which one or more Indian Tribes are located, an Indian tribal representative (if such representative is available) or other individual with significant expertise in tribal law enforcement and juvenile justice in Indian tribal communities;
 
 &emsp;&emsp;&emsp;(iii) a majority of which members (including the chairperson) shall not be full-time employees of the Federal, State, or local government;
 
@@ -284,9 +284,9 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;&emsp;(I) is located outside a metropolitan statistical area (as defined by the Office of Management and Budget) and has no existing acceptable alternative placement available;
 
-&emsp;&emsp;&emsp;&emsp;(II) is located where conditions of distance to be traveled or the lack of highway, road, or transportation do not allow for court appearances within 48 hours (excluding Saturdays, Sundays, and legal holidays) so that a brief (not toexceed an additional 48 hours) delay is excusable; or
+&emsp;&emsp;&emsp;&emsp;(II) is located where conditions of distance to be traveled or the lack of highway, road, or transportation do not allow for court appearances within 48 hours (excluding Saturdays, Sundays, and legal holidays) so that a brief (not to exceed an additional 48 hours) delay is excusable; or
 
-&emsp;&emsp;&emsp;&emsp;(III) is located where conditions of safety exist (such as severe adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until 24 hours after the time that such conditions allow for reasonable safe travel;
+&emsp;&emsp;&emsp;&emsp;(III) is located where conditions of safety exist (such as severe adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearancemay be delayed until 24 hours after the time that such conditions allow for reasonable safe travel;
 
 &emsp;(14) provide for an effective system of monitoring jails, lock-ups, detention facilities, and correctional facilities to ensure that the core requirements are met, and for annual reporting of the results of such monitoring to the Administrator, except that such reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph, which is in compliance with the requirements in paragraphs (11) and (12), and which has enacted legislation which conforms to such requirements and which contains sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
 
@@ -332,7 +332,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;(C) not later than 48 hours during which such status offender is so held—
 
-&emsp;&emsp;&emsp;(i) such representative shall submit an assessment to the court that issued suchorder, regarding the immediate needs of such status offender;
+&emsp;&emsp;&emsp;(i) such representative shall submit an assessment to the court that issued such order, regarding the immediate needs of such status offender;
 
 &emsp;&emsp;&emsp;(ii) such court shall conduct a hearing to determine—
 
@@ -400,7 +400,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(32) provide an assurance that the agency of the State receiving funds under this subchapter collaborates with the State educational agency receiving assistance under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.) to develop and implement a plan to ensure that, in order to support educational progress—
 
-&emsp;&emsp;(A) the student records of adjudicated juveniles, including electronic records if available, are transferred in a timely manner from the educational program in the juvenile detention or secure treatment facility to the educational or training program into which the juveniles will enroll;
+&emsp;&emsp;(A) the student records of adjudicated juveniles, including electronic records if available, are transferred in a timely mannerfrom the educational program in the juvenile detention or secure treatment facility to the educational or training program into which the juveniles will enroll;
 
 &emsp;&emsp;(B) the credits of adjudicated juveniles are transferred; and
 
@@ -462,13 +462,13 @@ Notwithstanding any other provision of law, the Administrator shall establish ap
 
 &emsp;&emsp;(C) advising the Administrator with respect to particular functions or aspects of the work of the Office; and
 
-&emsp;&emsp;(D) advising the President and Congress with regard to State perspectives on the operation of the Office and Federal legislationpertaining to juvenile justice and delinquency prevention.
+&emsp;&emsp;(D) advising the President and Congress with regard to State perspectives on the operation of the Office and Federal legislation pertaining to juvenile justice and delinquency prevention.
 
 #### (g) Compliance determination
 
 #### (1) In general
 
-&emsp;For each fiscal year, the Administrator shall make a determination regarding whether each State receiving a grant under this subchapter is in compliance or out of compliance with respect to each of the core requirements.
+&emsp;For each fiscal year, the Administrator shall make a determination regarding whether eachState receiving a grant under this subchapter is in compliance or out of compliance with respect to each of the core requirements.
 
 #### (2) Reporting
 
@@ -620,7 +620,7 @@ Subsec. (g). Pub. L. 115–385, §205(5), added subsec. (g).
 
 <b>2006</b>—Subsec. (a)(7)(B)(i) to (iv). Pub. L. 109–162 added cl. (i) and redesignated former cls. (i) to (iii) as (ii) to (iv), respectively.
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–273, §12209(1)(A), substituted ", projects, and activities" for "and challenge activities subsequent to State participation in part E of this subchapter" in second sentence of introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273, §12209(1)(A), substituted ", projects, and activities" for "and challengeactivities subsequent to State participation in part E of this subchapter" in second sentence of introductory provisions.
 
 Subsec. (a)(3). Pub. L. 107–273, §12209(1)(B)(i), substituted "that—" for ", which—" in introductory provisions.
 
@@ -684,7 +684,7 @@ Subsec. (a)(10)(E). Pub. L. 107–273, §12209(1)(H)(iii), substituted "juvenile
 
 &emsp;"(IV) programs to counsel delinquent juveniles and other juveniles regarding the opportunities that education provides; and".
 
-Subsec. (a)(10)(F). Pub. L. 107–273, §12209(1)(H)(iv), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "expanded use of home probation and recruitment and training of home probation officers, other professional and paraprofessional personnel, and volunteers to work effectively to allowyouth to remain at home with their families as an alternative to incarceration or institutionalization;".
+Subsec. (a)(10)(F). Pub. L. 107–273, §12209(1)(H)(iv), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "expanded use of home probation and recruitment and training of home probation officers, other professional and paraprofessional personnel, and volunteers to work effectively to allow youth to remain at home with their families as an alternative to incarceration or institutionalization;".
 
 Subsec. (a)(10)(G). Pub. L. 107–273, §12209(1)(H)(v), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: "youth-initiated outreach programs designed to assist youth (including youth with limited proficiency in English) who otherwise would not be reached by traditional youth assistance programs;".
 
@@ -902,7 +902,7 @@ Subsec. (a)(10)(J). Pub. L. 98–473, §626(a)(5)(F), struck out "juvenile gangs
 
 Subsec. (a)(10)(K), (L). Pub. L. 98–473, §626(a)(5)(G), added subpars. (K) and (L).
 
-Subsec. (a)(14). Pub. L. 98–473, §626(a)(6), in amending par. (14) generally, inserted ", through 1989," after "shall" and substituted provisions relating to exceptions for former provisions which related to the special needs of areas characterized by low population density with respect to the detention of juveniles and exceptions for temporary detention in adult facilities of juveniles accused of serious crimes against persons.
+Subsec. (a)(14). Pub. L. 98–473, §626(a)(6), in amending par. (14) generally, inserted ", through 1989," after"shall" and substituted provisions relating to exceptions for former provisions which related to the special needs of areas characterized by low population density with respect to the detention of juveniles and exceptions for temporary detention in adult facilities of juveniles accused of serious crimes against persons.
 
 Subsec. (a)(17), (18). Pub. L. 98–473, §626(a)(11), (12), added par. (17) and redesignated former par. (17) as (18). Former par. (18) redesignated (19).
 
@@ -962,7 +962,7 @@ Subsec. (a)(12)(B). Pub. L. 96–509, §19(g)(6), substituted "Administrator" fo
 
 Subsec. (a)(14). Pub. L. 96–509, §11(a)(15)(A), added par. (14). Former par. (14) redesignated (15).
 
-Subsec. (a)(15). Pub. L. 96–509, §§11(a)(14), (15)(A), 19(g)(7), redesignated former par. (14) as (15) and in par. (15) as so redesignated, provided that the annual reporting requirements of the results of the monitoring required by this section can be waived for States which have complied with the requirements of par. (12)(A), par. (13), and par. (14), and which have enacted legislation, conforming to those requirements, which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively and substituted "to the Administrator" for "to the Associate Administrator". Former par. (15) redesignated (16).
+Subsec. (a)(15). Pub. L. 96–509, §§11(a)(14), (15)(A), 19(g)(7), redesignated former par. (14) as (15) and in par. (15) as so redesignated, provided that the annual reporting requirements of the results of the monitoring required by this section can be waived for States which have complied with the requirements of par. (12)(A), par. (13), and par. (14), and which have enacted legislation, conforming to those requirements, which contains, in the opinion of the Administrator, sufficientenforcement mechanisms to ensure that such legislation will be administered effectively and substituted "to the Administrator" for "to the Associate Administrator". Former par. (15) redesignated (16).
 
 Subsec. (a)(16), (17). Pub. L. 96–509, §11(a)(15)(A), redesignated former pars. (15) and (16) as (16) and (17), respectively. Former par. (17) redesignated (18).
 
@@ -1034,7 +1034,7 @@ Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 11101 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002,and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 11101 of this title.
 
 #### Effective Date of 1996 Amendment
 

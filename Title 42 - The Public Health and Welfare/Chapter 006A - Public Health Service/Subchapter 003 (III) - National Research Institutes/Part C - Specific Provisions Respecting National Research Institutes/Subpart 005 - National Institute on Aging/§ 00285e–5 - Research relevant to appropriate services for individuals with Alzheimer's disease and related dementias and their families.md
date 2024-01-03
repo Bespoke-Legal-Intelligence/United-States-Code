@@ -38,7 +38,7 @@ the <sup>1</sup> Director of the Institute may develop, or make grants to devel
 
 For purposes of this section, the term "Council on Alzheimer's Disease" means the council established in section 11211(a) <sup>2</sup> of this title.
 
-(July 1, 1944, ch. 373, title IV, §445C, formerly Pub. L. 99–660, title IX, §941, Nov. 14, 1986, 100 Stat. 3808; renumbered §445C of act July 1, 1944; amended Pub. L. 100–607, title I, §142(a), (d)(2), Nov. 4, 1988, 102 Stat. 3057, 3058; Pub. L. 102–507, §9, Oct. 24, 1992, 106 Stat. 3287; Pub. L. 103–43, title VIII, §804, June 10, 1993, 107 Stat. 164.)
+(July 1, 1944, ch. 373, title IV, §445C, formerly Pub. L. 99–660, title IX, §941, Nov. 14, 1986, 100 Stat. 3808; renumbered §445C of act July 1, 1944, and amended Pub. L. 100–607, title I, §142(a), (d)(2), Nov. 4, 1988, 102 Stat. 3057, 3058; Pub. L. 102–507, §9, Oct. 24, 1992, 106 Stat. 3287; Pub. L. 103–43, title VIII, §804, June 10, 1993, 107 Stat. 164.)
 
 #### <b>Editorial Notes</b>
 

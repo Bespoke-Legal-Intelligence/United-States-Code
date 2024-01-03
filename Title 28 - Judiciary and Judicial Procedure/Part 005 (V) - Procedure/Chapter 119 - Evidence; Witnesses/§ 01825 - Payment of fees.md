@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 116–260, §220(b), substituted "Attorney General" for "Un
 
 "In any case wherein the United States or an officer or agency thereof, is a party, the United States marshal for the district shall pay all fees of witnesses on the certificate of the United States Attorney or Assistant United States Attorney, and in the proceedings before a United States Commissioner, on the certificate of such commissioner.
 
-"In all proceedings, in forma pauperis, for a writ of habeas corpus or in proceedings under section 2255 of this title, the United States marshal for the district shall pay all fees of witnesses for the party authorized to proceed in forma pauperis, on the certificate of the district judge.
+"In all proceedings, in forma pauperis, for a writ of habeas corpus or in proceedings under section 2255 ofthis title, the United States marshal for the district shall pay all fees of witnesses for the party authorized to proceed in forma pauperis, on the certificate of the district judge.
 
 "Fees and mileage need not be tendered to the witness upon service of a subpena issued in behalf of the United States or an officer or agency thereof, or upon service of a subpena issued on behalf of a party, authorized to proceed in forma pauperis, where the payment thereof is to be made by the United States marshal as authorized in this section."
 

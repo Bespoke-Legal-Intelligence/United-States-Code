@@ -112,7 +112,7 @@ Gynecologist access.—The Director shall ensure that all prisoners have access 
 
 &emsp;(4)
 
-Relation to other laws.—Nothing in paragraph (1) shall be construed to affect therequirements under the Prison Rape Elimination Act of 2003 (34 U.S.C. 30301 et seq.).
+Relation to other laws.—Nothing in paragraph (1) shall be construed to affect the requirements under the Prison Rape Elimination Act of 2003 (34 U.S.C. 30301 et seq.).
 
 (Added Pub. L. 117–103, div. W, title X, §1001(b), Mar. 15, 2022, 136 Stat. 912.)
 

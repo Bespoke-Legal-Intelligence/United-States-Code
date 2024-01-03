@@ -32,7 +32,7 @@ Definitions.—In this section—
 
 &emsp;(12) the term "Program plan" means a health benefits plan offered under the Program; and
 
-&emsp;(13) the definitions set forth in section 8901 shall apply, and for the purposes of applying such definitions in carrying out this section, a Postal Service employee and Postal Service annuitant shall be treated in the same manner as an employee and an annuitant (as those terms are defined in paragraphs (1) and (3), respectively, of section 8901), consistent with the requirements of this section.
+&emsp;(13) the definitions set forth in section 8901 shall apply, and for the purposes of applyingsuch definitions in carrying out this section, a Postal Service employee and Postal Service annuitant shall be treated in the same manner as an employee and an annuitant (as those terms are defined in paragraphs (1) and (3), respectively, of section 8901), consistent with the requirements of this section.
 
 (b)
 
@@ -76,7 +76,7 @@ Program plans and participation.—The Program shall—
 
 &emsp;(2)
 
-Coverage with equivalent benefits and cost-sharing.—In the initial contract year, the Office shall ensure that each carrier participating in the Program provides under the Program plans offered by the carrier benefitsand cost-sharing requirements that are equivalent to the benefits and cost-sharing requirements under the health benefits plans offered by the carrier under this chapter that are not Program plans, except that prescription drug benefits and cost-sharing requirements may differ between the Program plans and other health benefits plans offered by the carrier under this chapter to the extent needed to integrate the Medicare part D prescription drug benefits coverage required under subsection (h)(2).
+Coverage with equivalent benefits and cost-sharing.—In the initial contract year, the Office shall ensure that each carrier participating in the Program provides under the Program plans offered by the carrier benefits and cost-sharing requirements that are equivalent to the benefits and cost-sharing requirements under the health benefits plans offered by the carrier under this chapter that are not Program plans, except that prescription drug benefits and cost-sharing requirements may differ between the Program plans and other health benefits plans offered by the carrier under this chapter to the extent needed to integrate the Medicare part D prescription drug benefits coverage required under subsection (h)(2).
 
 &emsp;(3)
 
@@ -120,7 +120,7 @@ Current postal service annuitants.—The individual, as of January 1, 2025, is a
 
 &emsp;&emsp;&emsp;(ii)
 
-Current employees aged 64 and over.—The individual, as of January 1, 2025, is a Postal Service employee and is at least 64 years of age.
+Current employees aged 64 and over.—The individual, as of January 1,2025, is a Postal Service employee and is at least 64 years of age.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -162,7 +162,7 @@ Transitional Open Season.—
 
 Definitions.—In this subsection—
 
-&emsp;&emsp;(A) the term "current option", with respect to an individual, means the optionunder a plan under this chapter in which the individual is enrolled during the contract year preceding the initial contract year; and
+&emsp;&emsp;(A) the term "current option", with respect to an individual, means the option under a plan under this chapter in which the individual is enrolled during the contract year preceding the initial contract year; and
 
 &emsp;&emsp;(B) the term "current plan", with respect to an individual, means the plan under this chapter in which the individual is enrolled during the contract year preceding the initial contract year.
 
@@ -204,7 +204,7 @@ Contents.—The regulations issued under paragraph (1) shall include—
 
 &emsp;&emsp;(C) provisions under which a Postal Service employee or Postal Service annuitant enrolled under the Program may request a belated change of plan and may be prospectively enrolled in the plan of the employee's or annuitant's choice; and
 
-&emsp;&emsp;(D) provisions for individuals to cancel coverage under the Program in writing to the Postal Service because the individuals choose not to enroll in, or to disenroll from, Medicare part B.
+&emsp;&emsp;(D) provisions for individuals to cancel coverage under the Program in writing tothe Postal Service because the individuals choose not to enroll in, or to disenroll from, Medicare part B.
 
 (h)
 
@@ -308,7 +308,7 @@ Requirements.—In carrying out the Health Benefits Education Program establishe
 
 &emsp;&emsp;(C) respond and provide answers to any inquiry from such employees and annuitants about the Postal Service Health Benefits Program, in consultation with the Office as necessary;
 
-&emsp;&emsp;(D) in consultation with the Centers for Medicare \& Medicaid Services and the Social Security Administration, provide information to individuals about enrollment under the Medicare program under title XVIII of the Social Security Act, and refer individuals to the Centers for Medicare \& Medicaid Services and the Social Security Administration as necessary for additional enrollment information; and
+&emsp;&emsp;(D) in consultation with the Centers for Medicare \& Medicaid Services and the SocialSecurity Administration, provide information to individuals about enrollment under the Medicare program under title XVIII of the Social Security Act, and refer individuals to the Centers for Medicare \& Medicaid Services and the Social Security Administration as necessary for additional enrollment information; and
 
 &emsp;&emsp;(E) carry out, or provide for through contract or other arrangement, the activities described in paragraph (5).
 
@@ -404,7 +404,7 @@ Definitions.—In this subsection, the terms 'Medicare part A', 'Medicare part B
 
 "(2)
 
-Information sharing by opm.—The Office shall, by regulation, establish a process for providing such information as is necessary to the Social Security Administration regarding Postal Service annuitants (and the family members of such annuitants) who may be eligible to enroll under Medicare part B during the special enrollment period described in subsection (o) of section 1837 of the Social Security Act (42 U.S.C. 1395p), as added by subsection (b), or who may be subject to the enrollment requirements described in paragraphs (1) and (2) of section 8903c(e) of title 5, United States Code, as added by subsection (a).
+Information sharing by opm.—The Office shall, by regulation, establish a process for providing such information as is necessary to the Social Security Administration regarding Postal Service annuitants (and the family members of such annuitants) who may be eligible to enroll under Medicare part B during the special enrollment period described in subsection (o) of section 1837 of the Social Security Act (42 U.S.C. 1395p),as added by subsection (b), or who may be subject to the enrollment requirements described in paragraphs (1) and (2) of section 8903c(e) of title 5, United States Code, as added by subsection (a).
 
 "(3)
 
@@ -426,7 +426,7 @@ Inter-agency agreement.—The Commissioner of Social Security shall enter into a
 
 Report to congress.—The Director of the Office—
 
-&emsp;"(i) shall report the amount paid under subparagraph (A) annually to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives; and
+&emsp;"(i) shall report the amount paid under subparagraph (A) annually to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives; and
 
 &emsp;"(ii) may satisfy the requirement under clause (i) by including the amount paid under subparagraph (A) in any other annual report submitted to Congress."
 

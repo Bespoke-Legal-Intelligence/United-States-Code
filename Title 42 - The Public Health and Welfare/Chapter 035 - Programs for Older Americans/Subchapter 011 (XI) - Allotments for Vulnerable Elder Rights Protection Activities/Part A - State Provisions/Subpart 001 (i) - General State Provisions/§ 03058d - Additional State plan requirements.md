@@ -12,7 +12,7 @@ In order to be eligible to receive an allotment under this part, a State shall i
 
 &emsp;(4) an assurance that the State will use funds made available under this part for a subpart in addition to, and will not supplant, any funds that are expended under any Federal or State law in existence on the day before September 30, 1992, to carry out each of the vulnerable elder rights protection activities described in the subpart;
 
-&emsp;(5) an assurance that the State will place no restrictions, other than the requirements referred to in clauses (i) through (iv) of section3058g(a)(5)(C) of this title, on the eligibility of entities for designation as local Ombudsman entities under section 3058g(a)(5) of this title;
+&emsp;(5) an assurance that the State will place no restrictions, other than the requirements referred to in clauses (i) through (iv) of section 3058g(a)(5)(C) of this title, on the eligibility of entities for designation as local Ombudsman entities under section 3058g(a)(5) of this title;
 
 &emsp;(6) an assurance that, with respect to programs for the prevention of elder abuse, neglect, and exploitation under subpart III of this part—
 

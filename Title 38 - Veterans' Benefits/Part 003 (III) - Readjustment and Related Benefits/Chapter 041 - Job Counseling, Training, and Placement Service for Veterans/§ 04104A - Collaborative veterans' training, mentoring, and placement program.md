@@ -68,7 +68,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;(A) the Committee on Veterans' Affairs and the Committee on Health, Education, Labor, and Pension of the Senate; and
 
-&emsp;&emsp;(B) the Committee on Veterans' Affairs and the Committee on Education and Workforce of the House of Representatives; and
+&emsp;&emsp;(B) the Committee on Veterans' Affairs and the Committee on Education and Workforce <sup>1</sup> of the House of Representatives; and
 
 &emsp;(2) the term "nonprofit organization" means an organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and that is exempt from taxation under section 501(a) of such Code.
 
@@ -96,5 +96,7 @@ A prior section 4104A, added Pub. L. 100–323, §4(a)(1), May 20, 1988, 102 Sta
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014\(July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

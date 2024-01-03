@@ -29,13 +29,17 @@
 | [144\.](%C2%A7%2000144%20-%20Director%20of%20Small%20Business%20Programs.md) | Director of Small Business Programs. |
 | [145\.](%C2%A7%2000145%20-%20Principal%20Advisor%20on%20Countering%20Weapons%20of%20Mass%20Destruction.md) | Principal Advisor on Countering Weapons of Mass Destruction. |
 | \[146. | Renumbered.\] |
-| [147\.](%C2%A7%2000147%20-%20Chief%20Diversity%20Officer.md) | Chief Diversity Officer.<br> |
+| [147\.](%C2%A7%2000147%20-%20Chief%20Diversity%20Officer.md) | Chief Diversity Officer. |
+| [148\.](%C2%A7%2000148%20-%20Joint%20Energetics%20Transition%20Office.md) | Joint Energetics Transition Office. |
+| [149\.](%C2%A7%2000149%20-%20Office%20of%20Strategic%20Capital.md) | Office of Strategic Capital. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title II, §241(a), title IX, §903(a), Dec. 22, 2023, 137 Stat. 205, 358, added items 148 and 149. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title IX, §902(a)(4)(A), Dec. 27, 2021, 135 Stat. 1869, struck out item 146 "Office of Local Defense Community Cooperation".
 
@@ -59,7 +63,7 @@ Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 34
 
 <b>2013</b>—Pub. L. 112–239, div. A, title X, §1076(f)(2), Jan. 2, 2013, 126 Stat. 1952, struck out item 133b "Deputy Under Secretary of Defense for Logistics and Materiel Readiness".
 
-<b>2011</b>—Pub. L. 111–383, div. A, title IX, §901(k)(2)(A), Jan. 7, 2011, 124 Stat. 4325, added items 132a, 137a, 138b to 138d, and 139a to 139c, and struck out former items 133a "Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics", 134a "Principal Deputy Under Secretary of Defense for Policy", 136a "Principal Deputy Under Secretary of Defense for Personnel and Readiness", 137a "Deputy Under Secretaries of Defense", 139a "Director of Defense Research and Engineering", 139b "Director of Operational Energy Plans and Programs", 139c "Director of Cost Assessment and Program Evaluation", 139d "Director of Developmental Test and Evaluation; Director of Systems Engineering: joint guidance", and 142 "Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs".
+<b>2011</b>—Pub. L. 111–383, div. A, title IX, §901(k)(2)(A), Jan. 7, 2011, 124 Stat. 4325, added items 132a, 137a, 138b to 138d, and 139a to 139c, and struck out former items133a "Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics", 134a "Principal Deputy Under Secretary of Defense for Policy", 136a "Principal Deputy Under Secretary of Defense for Personnel and Readiness", 137a "Deputy Under Secretaries of Defense", 139a "Director of Defense Research and Engineering", 139b "Director of Operational Energy Plans and Programs", 139c "Director of Cost Assessment and Program Evaluation", 139d "Director of Developmental Test and Evaluation; Director of Systems Engineering: joint guidance", and 142 "Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs".
 
 <b>2009</b>—Pub. L. 111–84, div. A, title IX, §§905(a)(2), 906(c)(3), Oct. 28, 2009, 123 Stat. 2425, 2427, added items 133a, 134a, 136a, 137a, and 138a and struck out former items 133a "Deputy Under Secretary of Defense for Acquisition and Technology", 134a "Deputy Under Secretary of Defense for Policy", 134b "Deputy Under Secretary of Defense for Technology Security Policy", and 136a "Deputy Under Secretary of Defense for Personnel and Readiness".
 
@@ -97,7 +101,7 @@ Pub. L. 100–26, §9(b)(2), Apr. 21, 1987, 101 Stat. 287, struck out item 140a 
 
 Pub. L. 99–569, title IV, §§401(d), 403(b), Oct. 27, 1986, 100 Stat. 3196, 3197, added items 140a and 140b.
 
-Pub. L. 99–433, title I, §§101(a)(6), 110(e)(2), Oct. 1, 1986, 100 Stat. 995, 1003, substituted "Office of the Secretary of Defense" for "Department of Defense" in chapter heading, and amended analysis generally, substituting items 131 to 140 for former items 131 "Executive department", 132 "Seal", 133 "Secretary of Defense: appointment; powers and duties; delegation by", 133a "Secretary of Defense: annual report on North Atlantic Treaty Organization readiness", 133b "Sale or transfer of defense articles: reports to Congress", 134 "Deputy Secretary of Defense: appointment; powers and duties; precedence", 134a "Under Secretary of Defense for Acquisition: appointment", 135 "Under Secretary of Defense for Policy; Director of Defense Research and Engineering: appointments; powers and duties; precedence", 136 "Assistant Secretaries of Defense: appointment; powers and duties; precedence", 136a "Director ofOperational Test and Evaluation: appointment, powers and duties", 137 "General Counsel: appointment; powers and duties", 138 "Annual authorization of appropriations and personnel strengths for the armed forces; annual manpower requirements and operations and maintenance reports", 139 "Secretary of Defense: weapons development and procurement schedules for armed forces; reports; supplemental reports", 139a "Oversight of cost growth in major programs: Selected Acquisition Reports", 139b "Oversight of cost growth in major programs: unit cost reports", 139c "Major defense acquisition programs: independent cost estimates", 140 "Emergencies and extraordinary expenses", 140a "Secretary of Defense: funds transfers for foreign cryptologic support", 140b "Prohibition of certain civilian personnel management constraints", and 140c "Secretary of Defense: authority to withhold from public disclosure certain technical data".
+Pub. L. 99–433, title I, §§101(a)(6), 110(e)(2), Oct. 1, 1986, 100 Stat. 995, 1003, substituted "Office of the Secretary of Defense" for "Department of Defense" in chapter heading, and amended analysis generally, substituting items 131 to 140 for former items 131 "Executive department", 132 "Seal", 133 "Secretary of Defense: appointment; powers and duties; delegation by", 133a "Secretary of Defense: annual report on North Atlantic Treaty Organization readiness", 133b "Sale or transfer of defense articles: reports to Congress", 134 "Deputy Secretary of Defense: appointment; powers and duties; precedence", 134a "Under Secretary of Defense for Acquisition: appointment", 135 "Under Secretary of Defense for Policy; Director of Defense Research and Engineering: appointments; powers and duties; precedence", 136 "Assistant Secretaries of Defense: appointment; powers and duties; precedence", 136a "Director of Operational Test and Evaluation: appointment, powers and duties", 137 "General Counsel: appointment; powers and duties", 138 "Annual authorization of appropriations and personnel strengths for the armed forces; annual manpower requirements and operations and maintenance reports", 139 "Secretary of Defense: weapons development and procurement schedules for armed forces; reports; supplemental reports", 139a "Oversight of cost growth in major programs: Selected Acquisition Reports", 139b "Oversight of cost growth in major programs: unit cost reports", 139c "Major defense acquisition programs: independent cost estimates", 140 "Emergencies and extraordinary expenses", 140a "Secretary of Defense: funds transfers for foreign cryptologic support", 140b "Prohibition of certain civilian personnel management constraints", and 140c "Secretary of Defense: authority to withhold from public disclosure certain technical data".
 
 Pub. L. 99–348, title V, §501(e)(2), July 1, 1986, 100 Stat. 708, added item 134a and substituted "Under Secretary of Defense for Policy; Director of Defense Research and Engineering: appointments" for "Under Secretaries of Defense: appointment" in item 135.
 
@@ -176,3 +180,5 @@ Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 34
 - [&sect; 00145 - Principal Advisor on Countering Weapons of Mass Destruction](%C2%A7%2000145%20-%20Principal%20Advisor%20on%20Countering%20Weapons%20of%20Mass%20Destruction.md)
 - [&sect; 00146 - Renumbered &sect;198](%C2%A7%2000146%20-%20Renumbered%20%C2%A7198.md)
 - [&sect; 00147 - Chief Diversity Officer](%C2%A7%2000147%20-%20Chief%20Diversity%20Officer.md)
+- [&sect; 00148 - Joint Energetics Transition Office](%C2%A7%2000148%20-%20Joint%20Energetics%20Transition%20Office.md)
+- [&sect; 00149 - Office of Strategic Capital](%C2%A7%2000149%20-%20Office%20of%20Strategic%20Capital.md)

@@ -14,7 +14,7 @@ A person may not procure or cause to be prepared an investigative consumer repor
 
 #### (b) Disclosure on request of nature and scope of investigation
 
-Any person who procures or causes to be prepared an investigative consumer report on any consumer shall, upon written request made by the consumer within a reasonable period of time after the receipt by him of the disclosure required by subsection (a)(1), make a complete and accurate disclosure of the nature and scope of the investigation requested. This disclosure shall be made in a writing mailed, or otherwise delivered, to the consumer not later than five days after the date on which the request for such disclosure was received from the consumer or such report was first requested, whichever is the later.
+Any person who procures or causes to be prepared an investigative consumer report on any consumer shall, upon written request made by the consumer within a reasonable period of time after the receipt by him of the disclosure required by subsection (a)(1), make a complete and accurate disclosure of the nature and scope ofthe investigation requested. This disclosure shall be made in a writing mailed, or otherwise delivered, to the consumer not later than five days after the date on which the request for such disclosure was received from the consumer or such report was first requested, whichever is the later.
 
 #### (c) Limitation on liability upon showing of reasonable procedures for compliance with provisions
 
@@ -64,5 +64,5 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 #### Effective Date
 
-Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 

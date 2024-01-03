@@ -72,7 +72,7 @@ For purposes of this section—
 
 The date for filing the return of the tax imposed by this section for any calendar quarter shall be the last day of the first month following such quarter.
 
-(Added Pub. L. 95–502, title II, §202(a), Oct. 21, 1978, 92 Stat. 1696; amended Pub. L. 99–499, title V, §521(a)(3), Oct. 17, 1986, 100 Stat. 1777; Pub. L. 99–662, title XIV, §1404(a), Nov. 17, 1986, 100 Stat. 4270; Pub. L. 100–647, title II, §2002(a)(2), Nov. 10, 1988, 102 Stat. 3597; Pub. L. 103–66, title XIII, §13241(d), Aug. 10, 1993, 107 Stat. 510; Pub. L. 108–357, title II, §241(b), Oct. 22, 2004, 118 Stat. 1438; Pub. L. 110–172, §6(d)(1)(B), Dec. 29, 2007, 121 Stat. 2480; Pub. L. 113–295, div. B, title II, §205(a), Dec. 19, 2014, 128 Stat. 4065; Pub. L. 115–141, div.U, title IV, §401(b)(40), (41), Mar. 23, 2018, 132 Stat. 1204.)
+(Added Pub. L. 95–502, title II, §202(a), Oct. 21, 1978, 92 Stat. 1696; amended Pub. L. 99–499, title V, §521(a)(3), Oct. 17, 1986, 100 Stat. 1777; Pub. L. 99–662, title XIV, §1404(a), Nov. 17, 1986, 100 Stat. 4270; Pub. L. 100–647, title II, §2002(a)(2), Nov. 10, 1988, 102 Stat. 3597; Pub. L. 103–66, title XIII, §13241(d), Aug. 10, 1993, 107 Stat. 510; Pub. L. 108–357, title II, §241(b), Oct. 22, 2004, 118 Stat. 1438; Pub. L. 110–172, §6(d)(1)(B), Dec. 29, 2007, 121 Stat. 2480; Pub. L. 113–295, div. B, title II, §205(a), Dec. 19, 2014, 128 Stat. 4065; Pub. L. 115–141, div. U, title IV, §401(b)(40), (41), Mar. 23, 2018, 132 Stat. 1204.)
 
 #### <b>Editorial Notes</b>
 

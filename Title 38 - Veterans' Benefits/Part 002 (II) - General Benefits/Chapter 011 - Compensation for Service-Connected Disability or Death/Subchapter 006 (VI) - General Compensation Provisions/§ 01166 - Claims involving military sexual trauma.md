@@ -156,7 +156,7 @@ Audit and Modification of Denial Letters.—
 
 &emsp;"(1)
 
-Requirement.—The Secretary of Veterans Affairs shall conduct an audit of the language used in letters sent to individuals to explain the decision by the Secretary to deny covered claims. Not later than 180 days after the date of the enactment of this Act\[Dec. 27, 2022\], the Secretary shall modify the letters to ensure that—
+Requirement.—The Secretary of Veterans Affairs shall conduct an audit of the language used in letters sent to individuals to explain the decision by the Secretary to deny covered claims. Not later than 180 days after the date of the enactment of this Act \[Dec. 27, 2022\], the Secretary shall modify the letters to ensure that—
 
 &emsp;&emsp;"(A) the letters use trauma-informed language; and
 

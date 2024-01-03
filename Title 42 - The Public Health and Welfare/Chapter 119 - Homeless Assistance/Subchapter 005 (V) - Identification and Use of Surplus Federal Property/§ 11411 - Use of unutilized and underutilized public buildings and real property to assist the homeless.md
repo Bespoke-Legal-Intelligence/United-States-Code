@@ -80,7 +80,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (3) Property that is reviewed by the Secretary under subsection (a) and that is not identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the United States Interagency Council on Homelessness. If no such review of the determination is requested within the 20-day period, such property will not be included in subsequent publications unless the landholding agency makes changes to the property (e.g. improvements) that may change the unsuitable determination and the Secretary subsequently determines the property is suitable.
 
-(4)(A) Written notice of intent to apply for a property published under subsection (c)(1)(A)(ii) may be filed at any time after the 30-day period described in paragraph (1) has expired. In such case, an application submitted pursuant to the notice may be approved for disposal for use to assist the homeless only if the property remains available for application for use to assist the homeless. If the property remains available, the use to assist the homeless shall be given priority of consideration over other competing disposalopportunities under sections 541–555 of title 40, except as provided in subsection (f)(3)(A).
+(4)(A) Written notice of intent to apply for a property published under subsection (c)(1)(A)(ii) may be filed at any time after the 30-day period described in paragraph (1) has expired. In such case, an application submitted pursuant to the notice may be approved for disposal for use to assist the homeless only if the property remains available for application for use to assist the homeless. If the property remains available, the use to assist the homeless shall be given priority of consideration over other competing disposal opportunities under sections 541–555 of title 40, except as provided in subsection (f)(3)(A).
 
 (B) Surplus property for which an application has been approved shall be assigned promptly to the Secretary of Health and Human Services for disposition in accordance with and subject to subsection (f).
 
@@ -158,7 +158,7 @@ Section 2(e) of Base Closure Community Redevelopment and Homeless Assistance Act
 
 #### Codification
 
-In subsec. (a), "section 524(a)(2) and (3) of title 40" substituted for "section 202(b)(2) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483(b)(2))", in subsecs.(b)(2)(A)(ii) and (f)(1), "section 550(a)–(d) of title 40" substituted for "paragraphs (1) and (4) of section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k)(1) and (4))", in subsecs. (d)(4)(A) and (f)(3)(A), "sections 541–555 of title 40" substituted for "section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)", in subsec. (f)(3)(A), "section 550 of title 40" substituted for "section 203(k) of such Act", meaning the Federal Property and Administrative Services Act of 1949, in subsec. (f)(4), "section 550 of title 40" substituted for "section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k))", and, in subsec. (i)(2), "section 102 of title 40" substituted for "section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)", on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a), "section 524(a)(2) and (3) of title 40" substituted for "section 202(b)(2) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483(b)(2))", in subsecs.(b)(2)(A)(ii) and (f)(1), "section 550(a)–(d) of title 40" substituted for "paragraphs (1)and (4) of section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k)(1) and (4))", in subsecs. (d)(4)(A) and (f)(3)(A), "sections 541–555 of title 40" substituted for "section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)", in subsec. (f)(3)(A), "section 550 of title 40" substituted for "section 203(k) of such Act", meaning the Federal Property and Administrative Services Act of 1949, in subsec. (f)(4), "section 550 of title 40" substituted for "section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k))", and, in subsec. (i)(2), "section 102 of title 40" substituted for "section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)", on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -244,7 +244,7 @@ Reporting Requirement.—
 
 &emsp;"(1)
 
-In general.—If any head of a department, agency, or other element of the Department makes a determination under subsection (a) during a fiscal year, not later than 90 days after the end of that fiscal year, the Secretary of Defense shall submit to the appropriate committees of Congress a report listing all the buildings, facilities, and other properties for which a determination was made under that subsection during that fiscal year.
+In general.—If any head of a department, agency, or other element of the Department makes adetermination under subsection (a) during a fiscal year, not later than 90 days after the end of that fiscal year, the Secretary of Defense shall submit to the appropriate committees of Congress a report listing all the buildings, facilities, and other properties for which a determination was made under that subsection during that fiscal year.
 
 &emsp;"(2)
 
@@ -256,7 +256,7 @@ Appropriate committees of congress defined.—In this subsection, the term 'appr
 
 &emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Financial Services, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Financial Services, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives.
 
 "(d)
 

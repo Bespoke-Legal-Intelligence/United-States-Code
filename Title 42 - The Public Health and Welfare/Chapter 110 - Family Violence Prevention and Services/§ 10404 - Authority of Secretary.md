@@ -50,3 +50,9 @@ A prior section 10404, Pub. L. 98–457, title III, §305, Oct. 9, 1984, 98 Stat
 
 A prior section 304 of Pub. L. 98–457 was classified to section 10403 of this title prior to the general amendment of this chapter by Pub. L. 111–320.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+

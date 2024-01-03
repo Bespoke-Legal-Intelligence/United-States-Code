@@ -18,5 +18,5 @@ Section 1948, Pub. L. 92–513, title II, §208, Oct. 20, 1972, 86 Stat. 959, re
 
 Section 1949, Pub. L. 92–513, title II, §209, Oct. 20, 1972, 86 Stat. 959; Pub. L. 94–364, title II, §202, July 14, 1976, 90 Stat. 981; Pub. L. 97–331, §2(c), Oct. 15, 1982, 96 Stat. 1619, authorized appropriations to carry out this subchapter for fiscal years 1983, 1984, and 1985.
 
-Section 1950, Pub. L. 92–513, title II, §210, as added Pub. L. 102–388, title III, §355, Oct. 6, 1992, 106 Stat. 1556, related to labeling requirements for automobiles. See sections 32304 and 32309 of Title 49.
+Section 1950, Pub. L. 92–513, title II, §210, as added Pub. L. 102–388, title III, §355, Oct. 6, 1992, 106 Stat. 1556,related to labeling requirements for automobiles. See sections 32304 and 32309 of Title 49.
 

@@ -52,7 +52,7 @@ Pub. L. 93–189, §36, Dec. 17, 1973, 87 Stat. 734, as amended by Pub. L. 97–
 
 "(a) The President or his delegate shall seek, as soon as possible a revision of the Social Progress Trust Fund Agreement (dated June 19, 1961) between the United States and the Inter-American Development Bank. Such revision should provide for the—
 
-&emsp;"(1) periodic transfer of unencumbered capital resources of such trust fund, and of any future repayments or other accruals otherwise payable to such trust fund, to the Inter-American Foundation, to be administered by the Foundation for purposes of partIV of the Foreign Assistance Act of 1969 (22 U.S.C. 290f and following);
+&emsp;"(1) periodic transfer of unencumbered capital resources of such trust fund, and of any future repayments or other accruals otherwise payable to such trust fund, to the Inter-American Foundation, to be administered by the Foundation for purposes of part IV of the Foreign Assistance Act of 1969 (22 U.S.C. 290f and following);
 
 &emsp;"(2) utilization of such unencumbered capital resources, future repayments, and other accruals by the Inter-American Development Bank for purposes of sections 1 and 2 of the Latin American Development Act (22 U.S.C. 1942 and 1943) in such a way that the resources received in the currencies of the more developed member countries are utilized to the extent possible for the benefit of the lesser developed member countries; or
 

@@ -18,7 +18,7 @@ The value of the gross estate shall include the value of all property to the ext
 
 &emsp;&emsp;(B) joint tenants with right of survivorship, but only if the decedent and the spouse of the decedent are the only joint tenants.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 385; Pub. L. 87–834, §18(a)(2)(G), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2002(c)(1), (3), Oct. 4, 1976, 90 Stat. 1855, 1856; Pub. L. 95–600, title V, §511(a), title VII, §702(k)(2), Nov. 6, 1978, 92 Stat. 2881, 2932; Pub. L. 96–222, title I, §105(a)(3), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–34, title IV, §403(c)(1)–(3)(A), Aug. 13, 1981, 95 Stat. 301, 302.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 385; Pub. L. 87–834, §18(a)(2)(G), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2002(c)(1), (3), Oct. 4, 1976, 90 Stat. 1855, 1856; Pub. L. 95–600, title V, §511(a), title VII, §702(k)(2), Nov. 6, 1978, 92 Stat.2881, 2932; Pub. L. 96–222, title I, §105(a)(3), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–34, title IV, §403(c)(1)–(3)(A), Aug. 13, 1981, 95 Stat. 301, 302.)
 
 #### <b>Editorial Notes</b>
 

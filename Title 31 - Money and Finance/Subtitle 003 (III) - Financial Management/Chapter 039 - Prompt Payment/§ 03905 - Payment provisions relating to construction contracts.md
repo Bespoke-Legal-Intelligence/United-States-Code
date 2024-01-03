@@ -40,7 +40,7 @@
 
 &emsp;(2) furnish to the Government, as soon as practicable, a copy of the notice furnished to the subcontractor pursuant to paragraph (1) of this subsection;
 
-&emsp;(3) reduce the subcontractor's progress payment by an amount not to exceed the amountspecified in the notice of withholding furnished under paragraph (1) of this subsection;
+&emsp;(3) reduce the subcontractor's progress payment by an amount not to exceed the amount specified in the notice of withholding furnished under paragraph (1) of this subsection;
 
 &emsp;(4) pay the subcontractor as soon as practicable after the correction of the identified subcontract performance deficiency, and—
 

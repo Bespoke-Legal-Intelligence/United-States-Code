@@ -42,5 +42,5 @@ The last sentence is substituted for the words "except for shelter for which no 
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–181 amended section generally. Prior to amendment, text read as follows: "Under such conditions as he may prescribe, the Secretary of the Air Force may provide for the sale of fuel, oil, and other supplies for use in aircraft operated by a foreign military or air attaché accredited to the United States, and for the furnishing of mechanical service and other assistance to such aircraft. Shelter may be furnished to such aircraft, but only without charge."
+<b>2008</b>—Pub. L. 110–181 amended section generally. Prior to amendment, text read as follows: "Under such conditions as he may prescribe, the Secretary of the Air Force may provide for the sale of fuel, oil, and other supplies for use in aircraft operated by a foreign military or air attaché accredited to the United States, andfor the furnishing of mechanical service and other assistance to such aircraft. Shelter may be furnished to such aircraft, but only without charge."
 

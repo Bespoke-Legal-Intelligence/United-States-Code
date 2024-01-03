@@ -38,7 +38,7 @@
 
 #### (2) Monitoring
 
-&emsp;The President shall establish a monitoring program to verify that a person that receivesa waiver under paragraph (1)(B) is not trafficking illicit opioids.
+&emsp;The President shall establish a monitoring program to verify that a person that receives a waiver under paragraph (1)(B) is not trafficking illicit opioids.
 
 #### (3) Notification
 
@@ -54,7 +54,7 @@ The President may waive, for renewable periods of 180 days, the application of t
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a)(1), (b)(1), and (c), was in the original "this subtitle", meaning subtitle A (§§7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in subsecs. (a)(1), (b)(1), and (c), was in the original "this subtitle", meaningsubtitle A (§§7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 #### <b>Executive Documents</b>
 

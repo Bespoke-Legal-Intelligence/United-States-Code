@@ -10,7 +10,7 @@ Prohibitions.—A person may not—
 
 &emsp;&emsp;(A) without an airman certificate authorizing the airman to serve in the capacity for which the certificate was issued; or
 
-&emsp;&emsp;(B) in violation of a term of the certificate or a regulation prescribed or order issued under section 44701(a) or (b) or any of sections 44702–44716 of this title;
+&emsp;&emsp;(B) in violation of a term of the certificate or a regulation prescribed or order issuedunder section 44701(a) or (b) or any of sections 44702–44716 of this title;
 
 &emsp;(3) employ for service related to civil aircraft used in air commerce an airman who does not have an airman certificate authorizing the airman to serve in the capacity for which the airman is employed;
 
@@ -24,7 +24,7 @@ Prohibitions.—A person may not—
 
 &emsp;(8) operate an airport without an airport operating certificate required under section 44706 of this title or in violation of a term of the certificate;
 
-&emsp;(9) manufacture, deliver, sell, or offer for sale any aviation fuel or additive in violationof a regulation prescribed under section 44714 of this title; or
+&emsp;(9) manufacture, deliver, sell, or offer for sale any aviation fuel or additive in violation of a regulation prescribed under section 44714 of this title; or
 
 &emsp;(10) violate section 44732 or any regulation issued thereunder.
 

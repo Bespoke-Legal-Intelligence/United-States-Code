@@ -10,7 +10,7 @@ In registering under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], any s
 
 #### (b) Filing of three copies of advertisement, pamphlet, etc. in connection with public offering; time of filing
 
-It shall be unlawful for any of the following companies, or for any underwriter for such a company, in connection with a public offering of any security of which such company is the issuer, to make use of the mails or any means or instrumentalities of interstate commerce, to transmit any advertisement, pamphlet, circular, form letter, or other sales literature addressed to or intended for distribution to prospective investors unless three copies of the full text thereof have been filed with the Commission or are filed with the Commission within ten days thereafter:
+It shall be unlawful for any of the following companies, or for any underwriter for such a company, in connection with a public offering of any security of which such company is the issuer, to make use of the mails or any means orinstrumentalities of interstate commerce, to transmit any advertisement, pamphlet, circular, form letter, or other sales literature addressed to or intended for distribution to prospective investors unless three copies of the full text thereof have been filed with the Commission or are filed with the Commission within ten days thereafter:
 
 &emsp;(1) any registered open-end company;
 
@@ -24,7 +24,7 @@ In addition to the powers relative to prospectuses granted the Commission by sec
 
 #### (d) Application of other provisions to securities of investment companies, face-amount certificate companies, and open-end companies or unit investment trust
 
-The exemption provided by paragraph (8) of section 3(a) of the Securities Act of 1933 \[15 U.S.C. 77c(a)(8)\] shall not apply to any security of which an investment company is the issuer. The exemption provided by paragraph (11) of said section 3(a) \[15 U.S.C. 77c(a)(11)\] shall not apply to any security of which a registered investment company is the issuer. The exemption provided by section 4(3) <sup>1</sup> of the Securities Act of1933 \[15 U.S.C. 77d(a)(3)\] shall not apply to any transaction in a security issued by a face-amount certificate company or in a redeemable security issued by an open-end management company or unit investment trust if any other security of the same class is currently being offered or sold by the issuer or by or through an underwriter in a distribution which is not exempted from section 5 of said Act \[15 U.S.C. 77e\], except to such extent and subject to such terms and conditions as the Commission, having due regard for the public interest and the protection of investors, may prescribe by rules or regulations with respect to any class of persons, securities, or transactions.
+The exemption provided by paragraph (8) of section 3(a) of the Securities Act of 1933 \[15 U.S.C. 77c(a)(8)\] shall not apply to any security of which an investment company is the issuer. The exemption provided by paragraph (11) of said section 3(a) \[15 U.S.C. 77c(a)(11)\] shall not apply to any security of which a registered investment company is the issuer. The exemption provided by section 4(3) <sup>1</sup> of the Securities Act of 1933 \[15 U.S.C. 77d(a)(3)\] shall not apply to any transaction in a security issued by a face-amount certificate company or in a redeemable security issued by an open-end management company or unit investment trust if any other security of the same class is currently being offered or sold by the issuer or by or through an underwriter in a distribution which is not exempted from section 5 of said Act \[15 U.S.C. 77e\], except to such extent and subject to such terms and conditions as the Commission, having due regard for the public interest and the protection of investors, may prescribe by rules or regulations with respect to any class of persons, securities, or transactions.
 
 #### (e) Amendment of registration statements relating to securities issued by face-amount certificate companies, open-end management companies or unit investment trusts
 
@@ -62,7 +62,7 @@ In addition to any prospectus permitted or required by section 10(a) of the Secu
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsecs. (a), (c), and (e), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsecs. (a), (c), and (e), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 For the effective date of this subchapter, referred to in subsec. (c), see section 80a–52 of this title.
 

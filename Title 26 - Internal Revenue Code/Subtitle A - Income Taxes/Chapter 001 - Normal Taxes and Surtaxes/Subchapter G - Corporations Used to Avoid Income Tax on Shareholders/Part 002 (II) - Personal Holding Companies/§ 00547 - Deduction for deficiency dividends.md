@@ -54,7 +54,7 @@ No deficiency dividend deduction shall be allowed under subsection (a) unless (u
 
 &emsp;In the case of any deficiency with respect to the tax imposed by section 541 established by a determination under this section—
 
-&emsp;&emsp;(A) the collection of the deficiency and all interest, additional amounts, and assessablepenalties shall, except in cases of jeopardy, be stayed until the expiration of 120 days after the date of the determination, and
+&emsp;&emsp;(A) the collection of the deficiency and all interest, additional amounts, and assessable penalties shall, except in cases of jeopardy, be stayed until the expiration of 120 days after the date of the determination, and
 
 &emsp;&emsp;(B) if claim for deficiency dividend deduction is filed under subsection (e), the collection of such part of the deficiency as is not reduced by the deduction for deficiency dividends provided in subsection (a) shall be stayed until the date the claim is disallowed (in whole or in part) and if disallowed in part collection shall be made only with respect to the part disallowed.
 

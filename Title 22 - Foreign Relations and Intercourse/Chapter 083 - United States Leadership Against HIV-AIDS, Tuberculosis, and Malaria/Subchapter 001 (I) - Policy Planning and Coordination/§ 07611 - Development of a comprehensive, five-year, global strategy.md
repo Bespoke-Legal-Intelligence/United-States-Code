@@ -42,7 +42,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;(J) help partner countries to train and support retention of health care professionals and paraprofessionals, with the target of training and retaining at least 140,000 new health care professionals and paraprofessionals with an emphasis on training and in country deployment of critically needed doctors and nurses and to strengthen capacities in developing countries, especially in sub-Saharan Africa, to deliver primary health care with the objective of helping countries achieve staffing levels of at least 2.3 doctors, nurses, and midwives per 1,000 population, as called for by the World Health Organization;
 
-&emsp;(5) include multisectoral approaches and specific strategies to treat individuals infected with HIV/AIDS and to prevent the further transmission of HIV infections, with a particular focus on the needs of families with children (including the prevention of mother-to-child transmission), women, young people, orphans, and vulnerable children;
+&emsp;(5) include multisectoral approaches and specific strategies to treat individuals infected with HIV/AIDS and to prevent the furthertransmission of HIV infections, with a particular focus on the needs of families with children (including the prevention of mother-to-child transmission), women, young people, orphans, and vulnerable children;
 
 &emsp;(6) establish a timetable with annual global treatment targets with country-level benchmarks for antiretroviral treatment;
 
@@ -286,7 +286,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (1) Design and budget plan for data evaluation
 
-&emsp;The Global AIDS Coordinator shall enter into a contract with the Institute of Medicine of the National Academies that provides that not later than 18 months after July 30, 2008, the Institute, in consultation with the Global AIDS Coordinator and other relevant parties representing the public and private sector, shall provide the Global AIDS Coordinator with a design plan and budget for the evaluation and collection of baseline and subsequent data to address the elements set forth in paragraph (2)(B). The Global AIDS Coordinator shall submit the budget and design plan to the appropriate congressional committees.
+&emsp;The Global AIDS Coordinator shall enter into a contract with the Institute of Medicine of the National Academies that provides that not later than 18 months after July 30, 2008,the Institute, in consultation with the Global AIDS Coordinator and other relevant parties representing the public and private sector, shall provide the Global AIDS Coordinator with a design plan and budget for the evaluation and collection of baseline and subsequent data to address the elements set forth in paragraph (2)(B). The Global AIDS Coordinator shall submit the budget and design plan to the appropriate congressional committees.
 
 #### (2) Study
 
@@ -436,7 +436,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;The studies required to be submitted by September 30, 2014, and annually thereafter through September 30, 2024, shall include, in addition to the elements set forth under paragraph (1), the following elements:
 
-&emsp;&emsp;(A) A plan for conducting cost studies of United States assistance under section2151b–2 of this title in partner countries, taking into account the goal for more systematic collection of data, as well as the demands of such analysis on available human and fiscal resources.
+&emsp;&emsp;(A) A plan for conducting cost studies of United States assistance under section 2151b–2 of this title in partner countries, taking into account the goal for more systematic collection of data, as well as the demands of such analysis on available human and fiscal resources.
 
 &emsp;&emsp;(B) A comprehensive and harmonized expenditure analysis by partner country, including—
 
@@ -460,7 +460,7 @@ The Global AIDS Coordinator shall develop a message, to be prominently displayed
 
 &emsp;(2) enhances awareness by program recipients that the program is an effort on behalf of the citizens of the United States.
 
-(Pub. L. 108–25, title I, §101, May 27, 2003, 117 Stat. 718; Pub. L. 110–293, title I, §101, July 30, 2008, 122 Stat. 2923; Pub. L. 113–56, §§2, 3(a), Dec. 2, 2013, 127 Stat. 648; Pub. L. 115–305, §2, Dec. 11, 2018, 132 Stat. 4402.)
+(Pub. L. 108–25, title I, §101, May 27, 2003, 117 Stat. 718; Pub. L. 110–293, title I, §101, July 30, 2008, 122 Stat. 2923; Pub. L. 113–56, §§2, 3(a), Dec.2, 2013, 127 Stat. 648; Pub. L. 115–305, §2, Dec. 11, 2018, 132 Stat. 4402.)
 
 #### <b>Editorial Notes</b>
 

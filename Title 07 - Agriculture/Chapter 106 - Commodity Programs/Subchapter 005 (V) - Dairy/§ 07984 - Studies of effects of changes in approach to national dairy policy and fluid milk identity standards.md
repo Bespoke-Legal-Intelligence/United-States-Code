@@ -10,7 +10,7 @@ The Secretary of Agriculture shall conduct a study of the effects of—
 
 #### (b) Fluid milk identity standards
 
-The Secretary shall conduct a study of the effects of including in the standard of identity for fluid milk a required minimum protein content that is commensurate with the average nonfat solids content of bovine milk produced in the United States.
+The Secretary shall conduct a study of the effects of including in the standard of identity forfluid milk a required minimum protein content that is commensurate with the average nonfat solids content of bovine milk produced in the United States.
 
 #### (c) Reports
 

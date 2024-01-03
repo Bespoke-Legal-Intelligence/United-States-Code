@@ -1,6 +1,6 @@
 # Printed pages - Title 23 - Highways
 
-GPO's 2022 edition (laws in effect as of 2023-01-05), from its printed page marks. The exact position of
+GPO's 2023 edition (laws in effect as of 2024-01-03), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title23.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -143,45 +143,45 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00332 - Pollinator-friendly practices on roadsides and highway rights-of-way](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000332%20-%20Pollinator-friendly%20practices%20on%20roadsides%20and%20highway%20rights-of-way.md) | 372–373 |
 | [Chapter 004 - Highway Safety](Chapter%20004%20-%20Highway%20Safety/README.md) | 373–374 |
 | [&sect; 00401 - Authority of the Secretary](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000401%20-%20Authority%20of%20the%20Secretary.md) | 374–379 |
-| [&sect; 00402 - Highway safety programs](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000402%20-%20Highway%20safety%20programs.md) | 379–401 |
-| [&sect; 00403 - Highway safety research and development](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000403%20-%20Highway%20safety%20research%20and%20development.md) | 401–407 |
-| [&sect; 00404 - High-visibility enforcement program](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000404%20-%20High-visibility%20enforcement%20program.md) | 407–408 |
-| [&sect; 00405 - National priority safety programs](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000405%20-%20National%20priority%20safety%20programs.md) | 408–428 |
-| [&sect; 00406 - General requirements for Federal assistance](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000406%20-%20General%20requirements%20for%20Federal%20assistance.md) | 428–429 |
-| [&sect; 00407 - Discovery and admission as evidence of certain reports and surveys](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000407%20-%20Discovery%20and%20admission%20as%20evidence%20of%20certain%20reports%20and%20surveys.md) | 429 |
-| [&sect; 00408 - Agency accountability](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000408%20-%20Agency%20accountability.md) | 429–430 |
-| [&sect; 00409 - Renumbered &sect;407](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000409%20-%20Renumbered%20%C2%A7407.md) | 430 |
-| [&sect; 00410, 411 - Repealed. Pub. L. 112&#8211;141, div. C, title I, &sect;31109(e), (f), July 6, 2012, 126 Stat. 757](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000410%2C%20411%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20C%2C%20title%20I%2C%20%C2%A731109%28e%29%2C%20%28f%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20757.md) | 430 |
-| [&sect; 00412 - Renumbered &sect;408](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000412%20-%20Renumbered%20%C2%A7408.md) | 430 |
-| [Chapter 005 - Research, Technology, and Education](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/README.md) | 430–431 |
-| [&sect; 00501 - Definitions](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000501%20-%20Definitions.md) | 431–432 |
-| [&sect; 00502 - Surface transportation research, development, and technology](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000502%20-%20Surface%20transportation%20research%2C%20development%2C%20and%20technology.md) | 432–448 |
-| [&sect; 00503 - Research and technology development and deployment](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000503%20-%20Research%20and%20technology%20development%20and%20deployment.md) | 448–462 |
-| [&sect; 00504 - Training and education](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000504%20-%20Training%20and%20education.md) | 462–467 |
-| [&sect; 00505 - State planning and research](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000505%20-%20State%20planning%20and%20research.md) | 467–469 |
-| [&sect; 00506, 507 - Repealed. Pub. L. 112&#8211;141, div. E, title II, &sect;&sect;52006(a), 52007(a), July 6, 2012, 126 Stat. 882](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000506%2C%20507%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20E%2C%20title%20II%2C%20%C2%A7%C2%A752006%28a%29%2C%2052007%28a%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20882.md) | 469 |
-| [&sect; 00508 - Repealed. Pub. L. 114&#8211;94, div. A, title VI, &sect;6019(d)(1)(A), Dec. 4, 2015, 129 Stat. 1581](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000508%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9394%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A76019%28d%29%281%29%28A%29%2C%20Dec.%204%2C%202015%2C%20129%20Stat.%201581.md) | 469 |
-| [&sect; 00509 - Repealed. Pub. L. 112&#8211;141, div. E, title II, &sect;52008(a), July 6, 2012, 126 Stat. 882](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000509%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20E%2C%20title%20II%2C%20%C2%A752008%28a%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20882.md) | 469 |
-| [&sect; 00510 - Future strategic highway research program](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000510%20-%20Future%20strategic%20highway%20research%20program.md) | 469–471 |
-| [&sect; 00511 - Multistate corridor operations and management](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000511%20-%20Multistate%20corridor%20operations%20and%20management.md) | 471 |
-| [&sect; 00512 - National ITS program plan](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000512%20-%20National%20ITS%20program%20plan.md) | 471–475 |
-| [&sect; 00513 - Use of funds for ITS activities](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000513%20-%20Use%20of%20funds%20for%20ITS%20activities.md) | 475–476 |
-| [&sect; 00514 - Goals and purposes](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000514%20-%20Goals%20and%20purposes.md) | 476 |
-| [&sect; 00515 - General authorities and requirements](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000515%20-%20General%20authorities%20and%20requirements.md) | 476–479 |
-| [&sect; 00516 - Research and development](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000516%20-%20Research%20and%20development.md) | 479 |
-| [&sect; 00517 - National architecture and standards](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000517%20-%20National%20architecture%20and%20standards.md) | 479–480 |
-| [&sect; 00518 - Vehicle-to-vehicle and vehicle-to-infrastructure communications systems deployment](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000518%20-%20Vehicle-to-vehicle%20and%20vehicle-to-infrastructure%20communications%20systems%20deployment.md) | 480 |
-| [&sect; 00519 - Infrastructure development](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000519%20-%20Infrastructure%20development.md) | 480–481 |
-| [&sect; 00520 - Transportation Resilience and Adaptation Centers of Excellence](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000520%20-%20Transportation%20Resilience%20and%20Adaptation%20Centers%20of%20Excellence.md) | 481–482 |
-| [Chapter 006 - Infrastructure Finance](Chapter%20006%20-%20Infrastructure%20Finance/README.md) | 482 |
-| [&sect; 00601 - Generally applicable provisions](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000601%20-%20Generally%20applicable%20provisions.md) | 482–490 |
-| [&sect; 00602 - Determination of eligibility and project selection](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000602%20-%20Determination%20of%20eligibility%20and%20project%20selection.md) | 490–493 |
-| [&sect; 00603 - Secured loans](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000603%20-%20Secured%20loans.md) | 493–496 |
-| [&sect; 00604 - Lines of credit](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000604%20-%20Lines%20of%20credit.md) | 496–498 |
-| [&sect; 00605 - Program administration](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000605%20-%20Program%20administration.md) | 498–499 |
-| [&sect; 00606 - State and local permits](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000606%20-%20State%20and%20local%20permits.md) | 499 |
-| [&sect; 00607 - Regulations](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000607%20-%20Regulations.md) | 499 |
-| [&sect; 00608 - Funding](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000608%20-%20Funding.md) | 499–501 |
-| [&sect; 00609 - Reports to Congress](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000609%20-%20Reports%20to%20Congress.md) | 501–502 |
-| [&sect; 00610 - State infrastructure bank program](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000610%20-%20State%20infrastructure%20bank%20program.md) | 502–505 |
-| [&sect; 00611 - Asset concessions and innovative finance assistance](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000611%20-%20Asset%20concessions%20and%20innovative%20finance%20assistance.md) | 505–507 |
+| [&sect; 00402 - Highway safety programs](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000402%20-%20Highway%20safety%20programs.md) | 379–397 |
+| [&sect; 00403 - Highway safety research and development](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000403%20-%20Highway%20safety%20research%20and%20development.md) | 397–403 |
+| [&sect; 00404 - High-visibility enforcement program](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000404%20-%20High-visibility%20enforcement%20program.md) | 403–404 |
+| [&sect; 00405 - National priority safety programs](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000405%20-%20National%20priority%20safety%20programs.md) | 404–417 |
+| [&sect; 00406 - General requirements for Federal assistance](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000406%20-%20General%20requirements%20for%20Federal%20assistance.md) | 417–418 |
+| [&sect; 00407 - Discovery and admission as evidence of certain reports and surveys](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000407%20-%20Discovery%20and%20admission%20as%20evidence%20of%20certain%20reports%20and%20surveys.md) | 418 |
+| [&sect; 00408 - Agency accountability](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000408%20-%20Agency%20accountability.md) | 418–419 |
+| [&sect; 00409 - Renumbered &sect;407](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000409%20-%20Renumbered%20%C2%A7407.md) | 419 |
+| [&sect; 00410, 411 - Repealed. Pub. L. 112&#8211;141, div. C, title I, &sect;31109(e), (f), July 6, 2012, 126 Stat. 757](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000410%2C%20411%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20C%2C%20title%20I%2C%20%C2%A731109%28e%29%2C%20%28f%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20757.md) | 419 |
+| [&sect; 00412 - Renumbered &sect;408](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000412%20-%20Renumbered%20%C2%A7408.md) | 419 |
+| [Chapter 005 - Research, Technology, and Education](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/README.md) | 419–420 |
+| [&sect; 00501 - Definitions](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000501%20-%20Definitions.md) | 420–421 |
+| [&sect; 00502 - Surface transportation research, development, and technology](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000502%20-%20Surface%20transportation%20research%2C%20development%2C%20and%20technology.md) | 421–437 |
+| [&sect; 00503 - Research and technology development and deployment](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000503%20-%20Research%20and%20technology%20development%20and%20deployment.md) | 437–451 |
+| [&sect; 00504 - Training and education](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000504%20-%20Training%20and%20education.md) | 451–456 |
+| [&sect; 00505 - State planning and research](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000505%20-%20State%20planning%20and%20research.md) | 456–458 |
+| [&sect; 00506, 507 - Repealed. Pub. L. 112&#8211;141, div. E, title II, &sect;&sect;52006(a), 52007(a), July 6, 2012, 126 Stat. 882](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000506%2C%20507%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20E%2C%20title%20II%2C%20%C2%A7%C2%A752006%28a%29%2C%2052007%28a%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20882.md) | 458 |
+| [&sect; 00508 - Repealed. Pub. L. 114&#8211;94, div. A, title VI, &sect;6019(d)(1)(A), Dec. 4, 2015, 129 Stat. 1581](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000508%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9394%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A76019%28d%29%281%29%28A%29%2C%20Dec.%204%2C%202015%2C%20129%20Stat.%201581.md) | 458 |
+| [&sect; 00509 - Repealed. Pub. L. 112&#8211;141, div. E, title II, &sect;52008(a), July 6, 2012, 126 Stat. 882](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000509%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20E%2C%20title%20II%2C%20%C2%A752008%28a%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20882.md) | 458 |
+| [&sect; 00510 - Future strategic highway research program](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000510%20-%20Future%20strategic%20highway%20research%20program.md) | 458–460 |
+| [&sect; 00511 - Multistate corridor operations and management](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000511%20-%20Multistate%20corridor%20operations%20and%20management.md) | 460 |
+| [&sect; 00512 - National ITS program plan](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000512%20-%20National%20ITS%20program%20plan.md) | 460–464 |
+| [&sect; 00513 - Use of funds for ITS activities](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000513%20-%20Use%20of%20funds%20for%20ITS%20activities.md) | 464–465 |
+| [&sect; 00514 - Goals and purposes](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000514%20-%20Goals%20and%20purposes.md) | 465–466 |
+| [&sect; 00515 - General authorities and requirements](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000515%20-%20General%20authorities%20and%20requirements.md) | 466–468 |
+| [&sect; 00516 - Research and development](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000516%20-%20Research%20and%20development.md) | 468 |
+| [&sect; 00517 - National architecture and standards](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000517%20-%20National%20architecture%20and%20standards.md) | 468–469 |
+| [&sect; 00518 - Vehicle-to-vehicle and vehicle-to-infrastructure communications systems deployment](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000518%20-%20Vehicle-to-vehicle%20and%20vehicle-to-infrastructure%20communications%20systems%20deployment.md) | 469–470 |
+| [&sect; 00519 - Infrastructure development](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000519%20-%20Infrastructure%20development.md) | 470 |
+| [&sect; 00520 - Transportation Resilience and Adaptation Centers of Excellence](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000520%20-%20Transportation%20Resilience%20and%20Adaptation%20Centers%20of%20Excellence.md) | 470–471 |
+| [Chapter 006 - Infrastructure Finance](Chapter%20006%20-%20Infrastructure%20Finance/README.md) | 471 |
+| [&sect; 00601 - Generally applicable provisions](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000601%20-%20Generally%20applicable%20provisions.md) | 471–479 |
+| [&sect; 00602 - Determination of eligibility and project selection](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000602%20-%20Determination%20of%20eligibility%20and%20project%20selection.md) | 479–482 |
+| [&sect; 00603 - Secured loans](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000603%20-%20Secured%20loans.md) | 482–486 |
+| [&sect; 00604 - Lines of credit](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000604%20-%20Lines%20of%20credit.md) | 486–487 |
+| [&sect; 00605 - Program administration](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000605%20-%20Program%20administration.md) | 487–488 |
+| [&sect; 00606 - State and local permits](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000606%20-%20State%20and%20local%20permits.md) | 488 |
+| [&sect; 00607 - Regulations](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000607%20-%20Regulations.md) | 488–489 |
+| [&sect; 00608 - Funding](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000608%20-%20Funding.md) | 489–491 |
+| [&sect; 00609 - Reports to Congress](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000609%20-%20Reports%20to%20Congress.md) | 491–492 |
+| [&sect; 00610 - State infrastructure bank program](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000610%20-%20State%20infrastructure%20bank%20program.md) | 492–494 |
+| [&sect; 00611 - Asset concessions and innovative finance assistance](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000611%20-%20Asset%20concessions%20and%20innovative%20finance%20assistance.md) | 494–496 |

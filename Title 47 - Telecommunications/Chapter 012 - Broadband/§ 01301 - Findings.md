@@ -56,7 +56,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. Broadband access is essential to the Nation's global competitiveness in the 21st century, driving job creation, promoting innovation, and expanding markets for American businesses. Broadband access also affords public safety agencies the opportunity for greater levels of effectiveness and interoperability. While broadband infrastructure has been deployed in a vast majority of communities across the country, today too many areas still lack adequate access to this crucial resource. For these areas, decisions on access to Federal property and rights of way can be essential to the deployment of both wired and wireless broadband infrastructure. The Federal Government controls nearly 30 percent of all land in the United States, owns thousands of buildings, and provides substantial funding for State and local transportation infrastructure, creating significant opportunities for executive departments and agencies (agencies) to help expand broadband infrastructure.
 
-Sec. 2. <i>Broadband Deployment on Federal Property Working Group</i>. (a) In order to ensure a coordinated and consistent approach in implementing agency procedures, requirements, and policies related to access to Federal lands, buildings, and rights of way, federally assisted highways, and tribal lands to advance broadband deployment, there is established a Broadband Deployment on Federal Property Working Group (Working Group), to be co-chaired by representatives designated by the Administrator of General Services and the Secretary of Homeland Security (Co-Chairs) from their respective agencies, in consultationwith the Director of the Office of Science and Technology Policy (Director) and in coordination with the Chief Performance Officer (CPO).
+Sec. 2. <i>Broadband Deployment on Federal Property Working Group</i>. (a) In order to ensure a coordinated and consistent approach in implementing agency procedures, requirements, and policies related to access to Federal lands, buildings, and rights of way, federally assisted highways, and tribal lands to advance broadband deployment, there is established a Broadband Deployment on Federal Property Working Group (Working Group), to be co-chaired by representatives designated by the Administrator of General Services and the Secretary of Homeland Security (Co-Chairs) from their respective agencies, in consultation with the Director of the Office of Science and Technology Policy (Director) and in coordination with the Chief Performance Officer (CPO).
 
 (b) The Working Group shall be composed of:
 
@@ -188,7 +188,7 @@ Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Unleashing the Wireless Broadband Revolution
 
-Memorandum of President of the United States, June 28, 2010, 75 F.R. 38387, which related to making available 500 MHz of Federal and nonfederal spectrum suitable for mobile and fixed wireless broadband use, wasrevoked by section 6(e) of Memorandum of President of the United States, Oct. 25, 2018, 83 F.R. 54515, set out as a note under section 901 of this title.
+Memorandum of President of the United States, June 28, 2010, 75 F.R. 38387, which related to making available 500 MHz of Federal and nonfederal spectrum suitable for mobile and fixed wireless broadband use, was revoked by section 6(e) of Memorandum of President of the United States, Oct. 25, 2018, 83 F.R. 54515, set out as a note under section 901 of this title.
 
 #### Expanding America's Leadership in Wireless Innovation
 

@@ -60,7 +60,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;In the case of sugar beets, the minimum payment established under clause (i) shall not exceed the rate of payment provided for under the applicable contract between a sugar beet producer and a sugar beet processor.
+&emsp;&emsp;&emsp;In the case of sugar beets, the minimum payment established under clause (i) shallnot exceed the rate of payment provided for under the applicable contract between a sugar beet producer and a sugar beet processor.
 
 #### (3) Administration
 
@@ -154,7 +154,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (B) Tariff-rate quotas
 
-&emsp;&emsp;Subparagraph (A) shall not apply to sugars, syrups, or molasses that are within thequantities of tariff-rate quotas that are subject to the lower rate of duties.
+&emsp;&emsp;Subparagraph (A) shall not apply to sugars, syrups, or molasses that are within the quantities of tariff-rate quotas that are subject to the lower rate of duties.
 
 #### (4) Collection of information on Mexico
 
@@ -195,6 +195,8 @@ This section shall be effective only for the 2008 through 2023 crops of sugar be
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (h), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 #### Codification
+
+Provisions of law applicable to sugarcane or sugar beets for the 2023 crop year pursuant to title I of Pub. L. 113–79 and amendment made by section 1301 of Pub. L. 115–334 applicable to the 2024 crop year for sugarcane or sugar beets, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 

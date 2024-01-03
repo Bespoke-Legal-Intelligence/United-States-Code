@@ -28,7 +28,7 @@ A prior section 9345, added Pub. L. 105–85, div. A, title V, §542(c)(1), Nov.
 
 Another prior section 9345, act Aug. 10, 1956, ch. 1041, 70A Stat. 565, related to selection of Filipinos for instruction at the Air Force Academy, prior to repeal by Pub. L. 98–94, title X, §1004(c)(2), (d), Sept. 24, 1983, 97 Stat. 660, effective one year after Sept. 24, 1983.
 
-A prior section 9345a, added Pub. L. 110–417, \[div. A\], title V, §541(c)(1), Oct. 14, 2008, 122 Stat. 4456; amended Pub. L. 113–291, div. A, title V, §553(c), Dec. 19, 2014, 128 Stat. 3377, related to foreign and cultural exchange activities, prior to repeal by Pub. L. 114–328, div. A, title XII, §1248(b)(1), Dec. 23, 2016, 130 Stat. 2525.
+A prior section 9345a, added Pub. L. 110–417, \[div. A\], title V, §541(c)(1), Oct. 14, 2008, 122 Stat. 4456; amendedPub. L. 113–291, div. A, title V, §553(c), Dec. 19, 2014, 128 Stat. 3377, related to foreign and cultural exchange activities, prior to repeal by Pub. L. 114–328, div. A, title XII, §1248(b)(1), Dec. 23, 2016, 130 Stat. 2525.
 
 #### Amendments
 

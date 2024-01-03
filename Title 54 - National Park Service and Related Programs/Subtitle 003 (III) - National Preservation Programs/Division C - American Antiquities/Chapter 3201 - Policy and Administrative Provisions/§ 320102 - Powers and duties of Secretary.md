@@ -38,7 +38,7 @@ Operation for Benefit of Public.—The Secretary may operate and manage historic
 
 (j)
 
-Corporation To Carry Out Duties.—When the Secretary determines that it would be administratively burdensome to restore, reconstruct, operate, or maintain any particular historic or archeologic site, building, or property donated to the United States through the Service, the Secretary may cause the restoration, reconstruction, operation, or maintenance to be done by organizing a corporation for that purpose under the laws of the District of Columbia or any State.
+Corporation To Carry Out Duties.—When the Secretary determines that it would be administratively burdensome to restore, reconstruct, operate, or maintain any particular historic or archeologic site, building, or property donated to the United States through the Service, the Secretary may cause the restoration, reconstruction, operation, or maintenance to bedone by organizing a corporation for that purpose under the laws of the District of Columbia or any State.
 
 (k)
 

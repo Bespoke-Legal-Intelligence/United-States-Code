@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—An officer in the grade of first lieutenant, captain, major, or lieutenant colonel in the Army, Air Force, or Marine Corps, or lieutenant (junior grade), lieutenant, lieutenant commander, or commander in the Navy, who is described in subsection (b) may be temporarily promoted to the grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, or Marine Corps, or lieutenant, lieutenant commander, commander, or captain in the Navy, as applicable, under regulations prescribed by the Secretary of the military department concerned. Appointments under this section shall be made by the President, by and with the advice and consent of the Senate.
+In General.—An officer in the grade of first lieutenant, captain, major, or lieutenant colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant (junior grade), lieutenant, lieutenant commander, or commander in the Navy, who is described in subsection (b) may be temporarily promoted to the grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant, lieutenant commander, commander, or captain in the Navy, as applicable, under regulations prescribed by the Secretary of the military department concerned. Appointments under this section shall be made by the President, by and with the advice and consent of the Senate.
 
 (b)
 
@@ -12,7 +12,7 @@ Covered Officers.—An officer described in this subsection is any officer in a 
 
 &emsp;(2) is serving in a position (as determined by the Secretary of the military department concerned) that—
 
-&emsp;&emsp;(A) is designated to be held by a captain, major, lieutenant colonel, or colonel in the Army, Air Force, or Marine Corps, or lieutenant, lieutenant commander, commander, or captain in the Navy, as applicable; and
+&emsp;&emsp;(A) is designated to be held by a captain, major, lieutenant colonel, or colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant, lieutenant commander, commander, or captain in the Navy, as applicable; and
 
 &emsp;&emsp;(B) requires that an officer serving in such position have the skill possessed by such officer.
 
@@ -32,9 +32,9 @@ Acceptance and Effective Date of Appointment.—Each appointment under this sect
 
 Termination of Appointment.—Unless sooner terminated, an appointment under this section terminates—
 
-&emsp;(1) on the date the officer who received the appointment is promoted to the permanent grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, or Marine Corps, or lieutenant, lieutenant commander, commander, or captain in the Navy; or
+&emsp;(1) on the date the officer who received the appointment is promoted to the permanent grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant, lieutenant commander, commander, or captain in the Navy; or
 
-&emsp;(2) on the date the officer is detached from a position described in subsection (b)(2), unless the officer is on a promotion list to the permanent grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, or Marine Corps, or lieutenant, lieutenant commander, commander, or captain in the Navy, in which case the appointment terminates on the date the officer is promoted to that grade.
+&emsp;(2) on the date the officer is detached from a position described in subsection (b)(2), unless the officer is on a promotion list to the permanent grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant, lieutenant commander, commander, or captain in the Navy, in which case the appointment terminates on the date the officer is promoted to that grade.
 
 (g)
 
@@ -52,15 +52,25 @@ Limitation on Number of Eligible Positions.—An appointment under this section 
 
 &emsp;(2) In the case of the Air Force—
 
-&emsp;&emsp;(A) as captain, 100;
+&emsp;&emsp;(A) as captain 95;
 
-&emsp;&emsp;(B) as major, 325;
+&emsp;&emsp;(B) as major, 305;
 
-&emsp;&emsp;(C) as lieutenant colonel, 175; and
+&emsp;&emsp;(C) as lieutenant colonel, 165; and
 
-&emsp;&emsp;(D) as colonel, 80.
+&emsp;&emsp;(D) as colonel, 75.
 
-&emsp;(3) In the case of the Marine Corps—
+&emsp;(3) In the case of the Space Force—
+
+&emsp;&emsp;(A) as captain, 5;
+
+&emsp;&emsp;(B) as major, 20;
+
+&emsp;&emsp;(C) as lieutenant colonel, 10; and
+
+&emsp;&emsp;(D) as colonel, 5.
+
+&emsp;(4) In the case of the Marine Corps—
 
 &emsp;&emsp;(A) as captain, 50;
 
@@ -70,15 +80,37 @@ Limitation on Number of Eligible Positions.—An appointment under this section 
 
 &emsp;&emsp;(D) as colonel, 50.
 
-&emsp;(4) In the case of the Navy—
+&emsp;(5) In the case of the Navy—
 
 &emsp;&emsp;(A) as lieutenant, 100;
 
-&emsp;&emsp;(B) as lieutenant commander, 325;
+&emsp;&emsp;(B) as lieutenant commander, 425;
 
 &emsp;&emsp;(C) as commander, 175; and
 
 &emsp;&emsp;(D) as captain, 80.
 
-(Added Pub. L. 115–232, div. A, title V, §503(a)(1), Aug. 13, 2018, 132 Stat. 1740.)
+(Added Pub. L. 115–232, div. A, title V, §503(a)(1), Aug. 13, 2018, 132 Stat. 1740; amended Pub. L. 118–31, div. A, title V, §505, title XVII, §1716(d), Dec. 22, 2023, 137 Stat. 241, 653.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2023</b>—Pub. L. 118–31, §1716(d)(1), substituted "Marine Corps, or Space Force," for "or Marine Corps," wherever appearing.
+
+Subsec. (g)(2) to (4). Pub. L. 118–31, §1716(d)(2), added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: "In the case of the Air Force—
+
+&emsp;"(A) as captain, 100;
+
+&emsp;"(B) as major, 325;
+
+&emsp;"(C) as lieutenant colonel, 175; and
+
+&emsp;"(D) as colonel, 80."
+
+> Former par. (4) redesignated (5).
+
+Subsec. (g)(4)(B). Pub. L. 118–31, §505, substituted "425" for "325".
+
+Subsec. (g)(5). Pub. L. 118–31, §1716(d)(2), redesignated par. (4) as (5).
 

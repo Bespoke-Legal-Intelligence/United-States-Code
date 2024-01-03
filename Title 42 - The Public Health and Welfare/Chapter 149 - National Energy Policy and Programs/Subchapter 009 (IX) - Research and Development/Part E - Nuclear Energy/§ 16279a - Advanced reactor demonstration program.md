@@ -40,7 +40,7 @@ In carrying out demonstration projects under the program established in subsecti
 
 &emsp;(2) consider, as evaluation criterions—
 
-&emsp;&emsp;(A) the likelihood that the operating cost for future commercial units for each design implemented through a demonstrationproject under this subsection is cost-competitive in the applicable market, including those designs configured as integrated energy systems as described in section 16272(c) of this title;
+&emsp;&emsp;(A) the likelihood that the operating cost for future commercial units for each design implemented through a demonstration project under this subsection is cost-competitive in the applicable market, including those designs configured as integrated energy systems as described in section 16272(c) of this title;
 
 &emsp;&emsp;(B) the technology readiness level of a proposed advanced nuclear reactor technology;
 

@@ -14,7 +14,7 @@ Minimum Information.—The management information system shall, at a minimum, pr
 
 &emsp;(3) Relative promotion rates for military personnel in the acquisition workforce.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1653; amended Pub. L.103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 108–375, div. A, title X, §1084(d)(15), Oct. 28, 2004, 118 Stat. 2062.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1653; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 108–375, div. A, title X, §1084(d)(15), Oct. 28, 2004, 118 Stat. 2062.)
 
 #### <b>Editorial Notes</b>
 

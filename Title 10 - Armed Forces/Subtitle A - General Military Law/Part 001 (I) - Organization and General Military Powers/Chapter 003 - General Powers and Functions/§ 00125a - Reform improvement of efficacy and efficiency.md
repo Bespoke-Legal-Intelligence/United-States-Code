@@ -6,7 +6,7 @@ In General.—The Secretary of Defense shall take such action as is necessary to
 
 (b)
 
-Policy.—The Secretary shall develop a policy and issue guidance to implement reformwithin the Department and to improve the ability of the Department to prioritize among and assess the costs and benefits of covered elements of reform.
+Policy.—The Secretary shall develop a policy and issue guidance to implement reform within the Department and to improve the ability of the Department to prioritize among and assess the costs and benefits of covered elements of reform.
 
 (c)
 

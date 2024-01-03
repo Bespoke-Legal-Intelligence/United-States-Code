@@ -68,7 +68,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) subparagraph (A) of subsection (a)(2) shall not apply to such term interest, and
 
-&emsp;&emsp;(B) the value of such term interest for purposes of applying subsection (a)(1) shall be the amount which the holder of the term interest establishes as the amount for which such interest could be sold to an unrelated third party.
+&emsp;&emsp;(B) the value of such term interest for purposes of applying subsection (a)(1) shall bethe amount which the holder of the term interest establishes as the amount for which such interest could be sold to an unrelated third party.
 
 #### (d) Treatment of transfers of interests in portion of trust
 
@@ -96,5 +96,5 @@ Subsec. (a)(3)(B). Pub. L. 104–188, §1702(f)(11)(B), substituted "incomplete 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates,see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 

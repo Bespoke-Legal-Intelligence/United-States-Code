@@ -44,7 +44,7 @@
 
 (2) Paragraph (1) shall apply only to payments made by the Executive Director after the date on which the Executive Director receives written notice of the election, decree, order, or agreement, and such additional information and documentation as the Executive Director may require.
 
-(3) The amount of the survivor annuity payable from the Thrift Savings Fund to a formerspouse of a deceased employee, Member, former employee, or former Member under this section may not exceed the excess, if any, of—
+(3) The amount of the survivor annuity payable from the Thrift Savings Fund to a former spouse of a deceased employee, Member, former employee, or former Member under this section may not exceed the excess, if any, of—
 
 &emsp;(A) the amount of the survivor annuity determined for a surviving spouse of the deceased employee, Member, former employee, or former Member under the method described in subsection (b)(1), over
 
@@ -70,7 +70,7 @@
 
 (2) An application for a loan or withdrawal under section 8433(g) and (h) of this title shall not be approved if approval would have the result described under subsection (c)(1).
 
-(f) Waivers and notifications required by this section and waivers of the requirements for such waivers and notifications (as authorized by this section) may be made only in accordance with procedures prescribed by the Executive Director.
+(f) Waivers and notifications required by this section and waivers of the requirements for such waivers and notifications (as authorized by thissection) may be made only in accordance with procedures prescribed by the Executive Director.
 
 (g) Except with respect to the making of loans or withdrawals under section 8433(g) and (h), none of the provisions of this section requiring notification to, or the consent or waiver of, a spouse or former spouse of an employee, Member, former employee, or former Member shall apply in any case in which the nonforfeitable account balance of the employee, Member, former employee, or former Member is $3,500 or less.
 
@@ -98,7 +98,7 @@ Subsec. (g). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(4)(
 
 Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(4)(B)\]\], which directed insertion of "and (h)" after "8344(g)" was executed by making the insertion after "8433(g)" to reflect the probable intent of Congress.
 
-<b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–226, §9(d)(1), substituted "subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2)" for "subsection (b)(3), (b)(4),\(c)(3), or (c)(4) of section 8433 of this title or change an election previously made under subsection (b)(1), (b)(2), (c)(1), or (c)(2)".
+<b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–226, §9(d)(1), substituted "subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2)" for "subsection (b)(3), (b)(4), (c)(3), or (c)(4) of section 8433 of this title or change an election previously made under subsection (b)(1), (b)(2), (c)(1), or (c)(2)".
 
 Subsec. (a)(1)(B). Pub. L. 103–226, §9(i)(9), substituted "subsection (b)" for "subsection (c)".
 

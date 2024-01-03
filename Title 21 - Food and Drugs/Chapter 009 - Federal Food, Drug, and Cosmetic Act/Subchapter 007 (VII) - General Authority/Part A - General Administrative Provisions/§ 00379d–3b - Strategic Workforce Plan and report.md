@@ -28,7 +28,7 @@ In developing each Food and Drug Administration Strategic Workforce Plan under s
 
 &emsp;(1) the number of employees (including senior leadership and non-senior leadership employees) eligible for retirement, the expertise of such employees, and the employing center of such employees;
 
-&emsp;(2) the vacancy and turnover rates for employees with different types of expertise andfrom different centers, including any changes or trends related to such rates;
+&emsp;(2) the vacancy and turnover rates for employees with different types of expertise and from different centers, including any changes or trends related to such rates;
 
 &emsp;(3) the results of the Federal Employee Viewpoint Survey for employees of the Food and Drug Administration, including any changes or trends related to such results;
 

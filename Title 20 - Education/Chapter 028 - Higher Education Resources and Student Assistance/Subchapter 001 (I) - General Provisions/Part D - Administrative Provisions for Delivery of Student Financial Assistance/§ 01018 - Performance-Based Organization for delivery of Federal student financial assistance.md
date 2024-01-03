@@ -168,7 +168,7 @@
 
 #### (2) Reappointment
 
-&emsp;The Secretary may reappoint the Chief Operating Officer to subsequent terms of not less than 3 and not more than 5 years, so long as the performance of the Chief Operating Officer, as set forth in the performance agreement described in paragraph (4), is satisfactory.
+&emsp;The Secretary may reappoint the Chief Operating Officer to subsequent terms of not lessthan 3 and not more than 5 years, so long as the performance of the Chief Operating Officer, as set forth in the performance agreement described in paragraph (4), is satisfactory.
 
 #### (3) Removal
 
@@ -202,7 +202,7 @@
 
 #### (C) Payment
 
-&emsp;&emsp;Payment of a bonus under subparagraph (B) may be made to the Chief Operating Officer only to the extent that such paymentdoes not cause the Chief Operating Officer's total aggregate compensation in a calendar year to equal or exceed the amount of the President's salary under section 102 of title 3.
+&emsp;&emsp;Payment of a bonus under subparagraph (B) may be made to the Chief Operating Officer only to the extent that such payment does not cause the Chief Operating Officer's total aggregate compensation in a calendar year to equal or exceed the amount of the President's salary under section 102 of title 3.
 
 #### (e) Senior management
 
@@ -248,7 +248,7 @@
 
 &emsp;The Ombudsman shall—
 
-&emsp;&emsp;(A) in accordance with regulations of the Secretary, receive, review, and attempt to resolve informally complaints from borrowers of loans described in paragraph (1), including, as appropriate, attempts to resolve such complaints within the Department of Education and with institutions of higher education, lenders, guaranty agencies, loan servicers, and other participants in the loan programs described in paragraph (1); and
+&emsp;&emsp;(A) in accordance with regulations of the Secretary, receive, review, and attempt toresolve informally complaints from borrowers of loans described in paragraph (1), including, as appropriate, attempts to resolve such complaints within the Department of Education and with institutions of higher education, lenders, guaranty agencies, loan servicers, and other participants in the loan programs described in paragraph (1); and
 
 &emsp;&emsp;(B) compile and analyze data on borrower complaints and make appropriate recommendations.
 
@@ -272,7 +272,7 @@
 
 #### (h) Establishment of fair and equitable system for measuring staff performance
 
-The PBO shall establish an annual performance management system, subject to compliance with title 5, and consistent with applicable provisions of law and regulations, which strengthens the effectiveness of the PBO by providing for establishing goals or objectives for individual, group, or organizational performance (or any combination thereof), consistent with the performance plan of the PBO and its performance planning procedures, including those establishedunder the Government Performance and Results Act of 1993, and communicating such goals or objectives to employees.
+The PBO shall establish an annual performance management system, subject to compliance with title 5, and consistent with applicable provisions of law and regulations, which strengthens the effectiveness of the PBO by providing for establishing goals or objectives for individual, group, or organizational performance (or any combination thereof), consistent with the performance plan of the PBO and its performance planning procedures, including those established under the Government Performance and Results Act of 1993, and communicating such goals or objectives to employees.
 
 #### (i) Authorization of appropriations
 

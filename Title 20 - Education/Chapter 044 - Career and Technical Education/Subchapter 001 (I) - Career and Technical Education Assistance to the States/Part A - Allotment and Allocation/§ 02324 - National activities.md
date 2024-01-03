@@ -74,7 +74,7 @@ The Secretary shall take such action as may be necessary to secure at reasonable
 
 #### (A) In general
 
-&emsp;&emsp;From amounts made available under subsection (f), the Secretary, acting throughthe Director, shall provide for the conduct of a series of research and evaluation initiatives for each year for which funds are appropriated to carry out this chapter, which are aligned with the plan in subsection (c)(2), of career and technical education programs under this chapter, including the implementation of the Strengthening Career and Technical Education for the 21st Century Act, to the extent practicable, through studies and analyses conducted independently through grants, contracts, and cooperative agreements that are awarded on a competitive basis. Whenever possible, data used for the evaluation for a fiscal year shall be data from the most recent fiscal year for which such data are available, and from the 5-year period preceding that fiscal year.
+&emsp;&emsp;From amounts made available under subsection (f), the Secretary, acting through the Director, shall provide for the conduct of a series of research and evaluation initiatives for each year for which funds are appropriated to carry out this chapter, which are aligned with the plan in subsection (c)(2), of career and technical education programs under this chapter, including the implementation of the Strengthening Career and Technical Education for the 21st Century Act, to the extent practicable, through studies and analyses conducted independently through grants, contracts, and cooperative agreements that are awarded on a competitive basis. Whenever possible, data used for the evaluation for a fiscal year shall be data from the most recent fiscal year for which such data are available, and from the 5-year period preceding that fiscal year.
 
 #### (B) Contents
 
@@ -88,7 +88,7 @@ The Secretary shall take such action as may be necessary to secure at reasonable
 
 &emsp;&emsp;&emsp;&emsp;(III) the number of such students that are high school students that earn credit toward a recognized postsecondary credential;
 
-&emsp;&emsp;&emsp;(ii) the extent to which career and technical education programs and programs of study prepare students, including special populations, for subsequent employment in high-skill, high-wage occupations (including those in which mathematics and science skills are critical, which may include computer science), or for participation in postsecondary education;
+&emsp;&emsp;&emsp;(ii) the extent to which career and technical education programs and programs of study prepare students, including special populations, for subsequent employmentin high-skill, high-wage occupations (including those in which mathematics and science skills are critical, which may include computer science), or for participation in postsecondary education;
 
 &emsp;&emsp;&emsp;(iii) employer involvement in, benefit from, and satisfaction with, career and technical education programs and programs of study and career and technical education students' preparation for employment;
 
@@ -148,7 +148,7 @@ The Secretary shall take such action as may be necessary to secure at reasonable
 
 #### (A) In general
 
-&emsp;&emsp;From amounts made available under subsection (f), the Secretary, after consultation with the Director, the Commissioner for Education Research, and the States, and with input from the independent advisory panel established under subsection (d)(1)(A), shall award a grant, contract, or cooperative agreement, on a competitive basis, to an institution of higher education or to a consortium of one or more institutions of higher education and one or more private nonprofit organizations or agencies, to carry out one or more of the activities described in subparagraph (B).
+&emsp;&emsp;From amounts made available under subsection (f), the Secretary, after consultation with the Director, the Commissioner for Education Research, and the States, and with input from the independent advisory panel established under subsection (d)(1)(A), shall award a grant, contract, or cooperative agreement, on a competitive basis, to an institution of higher education or to a consortium of one or more institutions of highereducation and one or more private nonprofit organizations or agencies, to carry out one or more of the activities described in subparagraph (B).
 
 #### (B) Grant activities
 
@@ -322,7 +322,7 @@ The Secretary shall take such action as may be necessary to secure at reasonable
 
 &emsp;&emsp;(I) Supporting the use of career and technical education programs and programs of study in a coordinated strategy to address identified employer needs and workforce shortages, such as shortages in the early childhood, elementary school, and secondary school education workforce.
 
-&emsp;&emsp;(J) Providing integrated student support that addresses the comprehensive needs ofstudents, such as incorporating accelerated and differentiated learning opportunities supported by evidence-based strategies for special populations.
+&emsp;&emsp;(J) Providing integrated student support that addresses the comprehensive needs of students, such as incorporating accelerated and differentiated learning opportunities supported by evidence-based strategies for special populations.
 
 &emsp;&emsp;(K) Establishing an online portal for career and technical education students, including special populations, preparing for postsecondary career and technical education, which may include opportunities for mentoring, gaining financial literacy skills, and identifying career opportunities and interests, and a platform to establish online savings accounts to be used exclusively for postsecondary career and technical education programs and programs of study.
 

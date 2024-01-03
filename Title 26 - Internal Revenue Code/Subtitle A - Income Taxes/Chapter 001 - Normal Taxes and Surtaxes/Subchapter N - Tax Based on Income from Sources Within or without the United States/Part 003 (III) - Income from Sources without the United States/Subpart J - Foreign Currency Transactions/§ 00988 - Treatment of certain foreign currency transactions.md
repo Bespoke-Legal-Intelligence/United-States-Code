@@ -156,7 +156,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified fund" means any partnership if—
 
-&emsp;&emsp;&emsp;&emsp;(I) at all times during the taxable year (and during each preceding taxable year to which an election under subclause (V) applied), such partnership has at least 20 partners and no single partner owns more than 20 percent of the interests in the capital or profits of the partnership,
+&emsp;&emsp;&emsp;&emsp;(I) at all times during the taxable year (and during each preceding taxable year to which an election under subclause (V) applied), such partnership has at least 20partners and no single partner owns more than 20 percent of the interests in the capital or profits of the partnership,
 
 &emsp;&emsp;&emsp;&emsp;(II) the principal activity of such partnership for such taxable year (and each such preceding taxable year) consists of buying and selling options, futures, or forwards with respect to commodities,
 

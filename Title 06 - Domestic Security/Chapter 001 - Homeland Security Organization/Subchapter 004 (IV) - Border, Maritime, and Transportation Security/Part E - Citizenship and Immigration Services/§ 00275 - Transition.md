@@ -12,7 +12,7 @@ With respect to any function transferred by this part to, and exercised on or af
 
 #### (1) Exercise of authorities
 
-&emsp;Except as otherwise provided by law, a Federal official to whom a function is transferred by this part may, for purposes of performing the function, exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date specified in section 455.<sup>1</sup>
+&emsp;Except as otherwise provided by law, a Federal official to whom a function is transferred by this part may, for purposes of performing the function, exercise all authorities under any other provision of law that were availablewith respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date specified in section 455.<sup>1</sup>
 
 #### (2) Transfer and allocation of appropriations and personnel
 

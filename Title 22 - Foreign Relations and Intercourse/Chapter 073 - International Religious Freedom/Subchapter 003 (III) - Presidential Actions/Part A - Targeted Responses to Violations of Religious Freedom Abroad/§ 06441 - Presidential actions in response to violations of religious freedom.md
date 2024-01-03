@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(B) seek to the fullest extent possible to target action as narrowly as practicable with respect to the agency or instrumentality of the foreign government, or specific officials thereof, that are responsible for such violations; and
 
-&emsp;&emsp;(C) when appropriate, make every reasonable effort to conclude a binding agreementconcerning the cessation of such violations in countries with which the United States has diplomatic relations.
+&emsp;&emsp;(C) when appropriate, make every reasonable effort to conclude a binding agreement concerning the cessation of such violations in countries with which the United States has diplomatic relations.
 
 #### (2) Guidelines for Presidential actions
 

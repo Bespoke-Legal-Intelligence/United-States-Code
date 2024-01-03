@@ -294,6 +294,170 @@ Pub. L. 109–295, title V, §550, Oct. 4, 2006, 120 Stat. 1388, as amended by P
 
 \[Pub. L. 113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919, provided that the repeal of section 550 of Pub. L. 109–295, formerly set out above, is effective as of the effective date of Pub. L. 113–254, which is the date that is 30 days after Dec. 18, 2014. See section 4(a) of Pub. L. 113–254, set out as an Effective and Termination Dates note under section 621 of this title.\]
 
+#### Prohibition on Availability of Funds for Certain Activities and Assessment of the Overt Human Intelligence and Open Source Intelligence Collection Programs of the Office of Intelligence and Analysis of the Department of Homeland Security
+
+Pub. L. 118–31, div. G, title III, §7324, Dec. 22, 2023, 137 Stat. 1039, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means the following:
+
+&emsp;&emsp;"(A) The congressional intelligence committees \[Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives\].
+
+&emsp;&emsp;"(B) The Committee on Homeland Security and Governmental Affairs of the Senate.
+
+&emsp;&emsp;"(C) The Committee on Homeland Security of the House of Representatives.
+
+&emsp;"(2)
+
+Covered activity.—The term 'covered activity' means—
+
+&emsp;&emsp;"(A) with respect to the Overt Human Intelligence Collection Program, an interview for intelligence collection purposes with any individual, including a United States person, who has been criminally charged, arraigned, or taken into the custody of a Federal, State, or local law enforcement agency, but whose guilt with respect to such criminal matters has not yet been adjudicated, unless the Office of Intelligence and Analysis has obtained the consent of the interviewee following consultation with counsel;
+
+&emsp;&emsp;"(B) with respect to either the Overt Human Intelligence Collection Program or the Open Source Intelligence Collection Program, any collection targeting journalists in the performance of their journalistic functions; and
+
+&emsp;&emsp;"(C) with respect to the Overt Human Intelligence Collection Program, an interview for intelligence collection purposes with a United States person where the Office of Intelligence and Analysis lacks a reasonable belief based on facts and circumstances that the United States person may possess significant foreign intelligence (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)).
+
+&emsp;"(3)
+
+Overt human intelligence collection program.—The term 'Overt Human Intelligence Collection Program' means the program established by the Under Secretary of Homeland Security for Intelligence and Analysis pursuant to Policy Instruction 907 of the Office of Intelligence and Analysis, issued on June 29, 2016, or any successor program.
+
+&emsp;"(4)
+
+Open source intelligence collection program.—The term 'Open Source Collection Intelligence Program' means the program established by the Under Secretary of Homeland Security for Intelligence and Analysis for the purpose of collecting intelligence and information for potential production and reporting in the form of Open Source Information Reports as reflected in Policy Instruction 900 of the Office of Intelligence and Analysis, issued on January 13, 2015, or any successor program.
+
+&emsp;"(5)
+
+United states person.—The term 'United States person' means—
+
+&emsp;&emsp;"(A) a United States citizen;
+
+&emsp;&emsp;"(B) an alien known by the Office of Intelligence and Analysis to be a permanent resident alien;
+
+&emsp;&emsp;"(C) an unincorporated association substantially composed of United States citizens or permanent resident aliens; or
+
+&emsp;&emsp;"(D) a corporation incorporated in the United States, except for a corporation directed and controlled by a foreign government or governments.
+
+&emsp;"(6)
+
+United states person information (uspi).—The term 'United States person information'—
+
+&emsp;&emsp;"(A) means information that is reasonably likely to identify 1 or more specific United States persons; and
+
+&emsp;&emsp;"(B) may be either a single item of information or information that, when combined with other available information, is reasonably likely to identify one or more specific United States persons.
+
+"(b)
+
+Prohibition on Availability of Funds for Covered Activities of Overt Human Intelligence Collection Program and Open Source Intelligence Collection Program.—None of the funds authorized to be appropriated by this division \[see Tables for classification\] may be made available to the Office of Intelligence and Analysis of the Department of Homeland Security to conduct a covered activity.
+
+"(c)
+
+Limitation on Personnel.—None of the funds authorized to be appropriated by this division may be used by the Office of Intelligence and Analysis of the Department of Homeland Security to increase, above the staffing level in effect on the day before the date of the enactment of this Act \[Dec. 22, 2023\], the number of personnel assigned to the Open Source Intelligence Division who work exclusively or predominantly on domestic terrorism issues.
+
+"(d)
+
+Inspector General of the Intelligence Community Assessment of Overt Human Intelligence Collection Program and Open Source Intelligence Collection Program.—
+
+&emsp;"(1)
+
+Requirement.—The Inspector General of the Intelligence Community shall conduct an assessment of the Overt Human Intelligence Collection Program and the Open Source Intelligence Collection Program.
+
+&emsp;"(2)
+
+Elements.—The assessment under paragraph (1) shall include findings and, as the Inspector General considers appropriate, recommendations on the following:
+
+&emsp;&emsp;"(A) Whether the Overt Human Intelligence Collection Program and the Open Source Intelligence Collection Program are legally authorized, and if so, an identification of the legal authorities.
+
+&emsp;&emsp;"(B) Whether, and to what extent, such programs have provided valuable insights on national intelligence priorities and intelligence priorities of the Department of Homeland Security, citing specific examples of such insights at the appropriate classification level.
+
+&emsp;&emsp;"(C) Whether there is sufficient training provided to, and sufficient oversight provided of, personnel of the Office of Intelligence and Analysis of the Department of Homeland Security who conduct intelligence collection under such programs.
+
+&emsp;&emsp;"(D) Whether the responsibilities and requirements for such programs set forth in the relevant policy instructions, intelligence oversight guidelines, and other governing documents or standard operating procedures of the Office of Intelligence and Analysis, particularly as they relate to the obligation to safeguard the privacy, civil liberties, and civil rights of United States persons, are adequate, appropriate, and consistently adhered to by such personnel.
+
+&emsp;&emsp;"(E) Whether such programs raise or have raised legal, ethical, or operational concerns, includingconcerns relating to the actual or potential violation of any applicable policies or procedures for protecting the constitutional or statutory rights of United States persons.
+
+&emsp;&emsp;"(F) Whether other Federal agencies, such as the Federal Bureau of Investigation, conduct similar programs and, if so, a comparison of any similarities and differences between the respective programs.
+
+&emsp;&emsp;"(G) With respect to non-analytic intelligence reports produced by the Office of Intelligence and Analysis derived in whole or in part from such programs, whether such reports appropriately minimize United States person information and use press reporting in an appropriate manner.
+
+&emsp;&emsp;"(H) With respect to the Open Source Intelligence Collection Program, whether such program is effective at identifying threats directed against the United States, including true threats, incitement to violence, and malign cyber activity.
+
+&emsp;&emsp;"(I) Whether there have been any identified instances in which State, local, territorial, or Tribal government agencies have used, or sought to use, the Office of Intelligence and Analysis as an instrument to introduce political or politicized information into the national intelligence collection and reporting stream.
+
+&emsp;&emsp;"(J) Any other matter the Inspector General of the Intelligence Community determines appropriate.
+
+&emsp;"(3)
+
+Briefing.—Not later than 120 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Inspector General of the Intelligence Community shall provide to the appropriate congressional committees a briefing on the preliminary findings and recommendations of the Inspector General with respect to the assessment under paragraph (1).
+
+&emsp;"(4)
+
+Report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 180 days after the date of the enactment of this Act, the Inspector General of the Intelligence Community shall submit to the appropriate congressional committees a report containing the findings and recommendations of the Inspector General with respect to the assessment under paragraph (1).
+
+&emsp;&emsp;"(B)
+
+Form.—The report submitted pursuant to subparagraph (A) shall be submitted under that subparagraph in unclassified form, but may include a classified annex.
+
+&emsp;"(5)
+
+Quarterly briefings.—The Under Secretary of Homeland Security for Intelligence and Analysis shall, not less than once per quarter, provide to the appropriate congressional committees a briefing on the intelligence collection activities of the Office of Intelligence and Analysis. These briefings shall include—
+
+&emsp;&emsp;"(A) a description of any new activities, initiatives, or efforts undertaken pursuant to the Overt Human Intelligence Collection Program or the Open Source Intelligence Collection Program;
+
+&emsp;&emsp;"(B) a description of any new policies, procedures, or guidance concerning the Overt Human Intelligence Collection Program or the Open Source Intelligence Collection Program;
+
+&emsp;&emsp;"(C) a description of any compliance-related inquiries, investigations, reviews, checks, or audits initiated concerning the Overt Human Intelligence Collection Program or the Open Source Intelligence Collection Program, as well as an update on the outcome or status of any preexisting inquiries, investigations, reviews, checks, or audits concerning these programs;
+
+&emsp;&emsp;"(D) a comparison of the volume of intelligence and information collected on United States persons by the Office and used in finished intelligence products produced by the Office with the volume of intelligence or information on United States persons that is—
+
+&emsp;&emsp;&emsp;"(i) collected by State, local, and Tribal territory governments, the private sector, and other components of the Department of Homeland Security;
+
+&emsp;&emsp;&emsp;"(ii) provided directly or indirectly to the Office; and
+
+&emsp;&emsp;&emsp;"(iii) used in finished intelligence products produced by the Office; and
+
+&emsp;&emsp;"(E) information on the reports and products issued by the Overt Human Intelligence Collection Program and the Open Source Intelligence Collection Program for the quarter covered by the briefing, which shall reflect—
+
+&emsp;&emsp;&emsp;"(i) the number of reports and products issued by each program;
+
+&emsp;&emsp;&emsp;"(ii) the number of reports and products issued by type or format of the report or product;
+
+&emsp;&emsp;&emsp;"(iii) the number of reports and products based on information provided by representatives of Federal, foreign or international, State, local, Tribal, territorial, or private sector entities, respectively, and, for each of these subcategories, the number of reports or products based on information provided by known or presumed United States persons;
+
+&emsp;&emsp;&emsp;"(iv) the number of reports and products based on information provided by individuals in administrative custody and, within that number, the number of reports or products based on information provided by known or presumed United States persons;
+
+&emsp;&emsp;&emsp;"(v) the number of reports and products based on information provided by confidential informants and, within that number, the number of reports or products based on information provided by known or presumed United States persons;
+
+&emsp;&emsp;&emsp;"(vi) the number of reports and products supporting different national or departmental missions and, for each of these subcategories, the number of reports or products based on information provided by known or presumed United States persons; and
+
+&emsp;&emsp;&emsp;"(vii) the number of reports and products identifying United States persons.
+
+"(e)
+
+Rules of Construction.—
+
+&emsp;"(1)
+
+Effect on other intelligence oversight.—Nothing in this section shall be construed as limiting or superseding the authority of any official within the Department of Homeland Security to conduct legal, privacy, civil rights, or civil liberties oversight of the intelligence activities of the Office of Intelligence and Analysis.
+
+&emsp;"(2)
+
+Sharing and receiving intelligence information.—Nothing in this section shall be construed to prohibit, or to limit the authority of, personnel of the Office of Intelligence and Analysis from sharing intelligence information with, or receiving information from—
+
+&emsp;&emsp;"(A) foreign, State, local, Tribal, or territorial governments (or any agency or subdivision thereof);
+
+&emsp;&emsp;"(B) the private sector; or
+
+&emsp;&emsp;"(C) other elements of the Federal government, including the components of the Department of Homeland Security."
+
 #### DHS Component Usage of the Homeland Security Information Network
 
 Pub. L. 116–116, §4, Mar. 2, 2020, 134 Stat. 111, provided that:
@@ -474,7 +638,7 @@ Sec. 2. <i>Continuing Authorities</i>. This order does not alter the existing au
 
 &emsp;(iii) National Security Systems. The National Security Telecommunications and Information Systems Security Committee, as established by and consistent with NSD–42 and chaired by the Department of Defense, shall be designated as the "Committee on National Security Systems."
 
-(c) Additional Responsibilities. The heads of executive branch departments and agencies are responsible and accountable for providing and maintaining adequate levels of security for information systems, including emergency preparedness communications systems, for programs under their control. Heads of suchdepartments and agencies shall ensure the development and, within available appropriations, funding of programs that adequately address these mission systems, especially those critical systems that support the national security and other essential government programs. Additionally, security should enable, and not unnecessarily impede, department and agency business operations.
+(c) Additional Responsibilities. The heads of executive branch departments and agencies are responsible and accountable for providing and maintaining adequate levels of security for information systems, including emergency preparedness communications systems, for programs under their control. Heads of such departments and agencies shall ensure the development and, within available appropriations, funding of programs that adequately address these mission systems, especially those critical systems that support the national security and other essential government programs. Additionally, security should enable, and not unnecessarily impede, department and agency business operations.
 
 Sec. 3. <i>The National Infrastructure Advisory Council</i>. The National Infrastructure Advisory Council (NIAC), established on October 16, 2001, shall provide the President, through the Secretary of Homeland Security, with advice on the security and resilience of the critical infrastructure sectors and their functional systems, physical assets, and cyber networks.
 
@@ -520,9 +684,11 @@ Sec. 4. <i>Judicial Review</i>. This order does not create any right or benefit,
 
 #### Extension of Term of National Infrastructure Advisory Council
 
-Term of National Infrastructure Advisory Council extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of National Infrastructure Advisory Council extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of National Infrastructure Advisory Council were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
@@ -552,7 +718,7 @@ Section 1. \[Amended Ex. Ord. No. 13234.\]
 
 Sec. 2. \[Amended Ex. Ord. No. 13231, set out above.\]
 
-Sec. 3. Executive Order 13228 of October 8, 2001 ("Establishing the Office of Homeland Security and the Homeland Security Council") \[50 U.S.C. 3021 note\], is amended by inserting "the Secretary of Homeland Security," after "the Secretary of Transportation," insection 5(b). Further, during the period from January 24, 2003, until March 1, 2003, the Secretary of Homeland Security shall have the responsibility for coordinating the domestic response efforts otherwise assigned to the Assistant to the President for Homeland Security pursuant to section 3(g) of Executive Order 13228.
+Sec. 3. Executive Order 13228 of October 8, 2001 ("Establishing the Office of Homeland Security and the Homeland Security Council") \[50 U.S.C. 3021 note\], is amended by inserting "the Secretary of Homeland Security," after "the Secretary of Transportation," in section 5(b). Further, during the period from January 24, 2003, until March 1, 2003, the Secretary of Homeland Security shall have the responsibility for coordinating the domestic response efforts otherwise assigned to the Assistant to the President for Homeland Security pursuant to section 3(g) of Executive Order 13228.
 
 Sec. 4. \[Amended Ex. Ord. No. 13224, listed in a table under section 1701 of Title 50, War and National Defense.\]
 
@@ -622,7 +788,7 @@ Sec. 4. <i>Cybersecurity Information Sharing</i>. (a) It is the policy of the Un
 
 (c) To assist the owners and operators of critical infrastructure in protecting their systems from unauthorized access, exploitation, or harm, the Secretary, consistent with \[former\] 6 U.S.C. 143 \[now 6 U.S.C. 655\] and in collaboration with the Secretary of Defense, shall, within 120 days of the date of this order, establish procedures to expand the Enhanced Cybersecurity Services program to all critical infrastructure sectors. This voluntary information sharing program will provide classified cyber threat and technical information from the Government to eligible critical infrastructure companies or commercial service providers that offer security services to critical infrastructure.
 
-(d) The Secretary, as the Executive Agent for the Classified National Security Information Program created under Executive Order 13549 of August 18, 2010 (Classified National Security Information Program for State, Local, Tribal, and Private Sector Entities), shall expedite the processing of security clearances to appropriate personnel employed by critical infrastructure owners and operators, prioritizing the critical infrastructure identified in section 9 of this order.
+(d) The Secretary, as the Executive Agent for the Classified National Security Information Program created under Executive Order 13549 of August 18, 2010 (Classified National Security Information Program for State, Local, Tribal, and Private Sector Entities), shall expedite the processing of security clearances to appropriate personnel employed by critical infrastructureowners and operators, prioritizing the critical infrastructure identified in section 9 of this order.
 
 (e) In order to maximize the utility of cyber threat information sharing with the private sector, the Secretary shall expand the use of programs that bring private sector subject-matter experts into Federal service on a temporary basis. These subject matter experts should provide advice regarding the content, structure, and types of information most useful to critical infrastructure owners and operators in reducing and mitigating cyber risks.
 
@@ -644,7 +810,7 @@ Sec. 7. <i>Baseline Framework to Reduce Cyber Risk to Critical Infrastructure</i
 
 (d) In developing the Cybersecurity Framework, the Director shall engage in an open public review and comment process. The Director shall also consult with the Secretary, the National Security Agency, Sector-Specific Agencies and other interested agencies including OMB, owners and operators of critical infrastructure, and other stakeholders through the consultative process established in section 6 of this order. The Secretary, the Director of National Intelligence, and the heads of other relevant agencies shall provide threat and vulnerability information and technical expertise to inform the development of the Cybersecurity Framework. The Secretary shall provide performance goals for the Cybersecurity Framework informed by work under section 9 of this order.
 
-(e) Within 240 days of the date of this order, the Director shall publish a preliminary version of the Cybersecurity Framework (the "preliminary Framework"). Within 1 year of the date of this order, andafter coordination with the Secretary to ensure suitability under section 8 of this order, the Director shall publish a final version of the Cybersecurity Framework (the "final Framework").
+(e) Within 240 days of the date of this order, the Director shall publish a preliminary version of the Cybersecurity Framework (the "preliminary Framework"). Within 1 year of the date of this order, and after coordination with the Secretary to ensure suitability under section 8 of this order, the Director shall publish a final version of the Cybersecurity Framework (the "final Framework").
 
 (f) Consistent with statutory responsibilities, the Director will ensure the Cybersecurity Framework and related guidance is reviewed and updated as necessary, taking into consideration technological changes, changes in cyber risks, operational feedback from owners and operators of critical infrastructure, experience from the implementation of section 8 of this order, and any other relevant factors.
 
@@ -654,7 +820,7 @@ Sec. 8. <i>Voluntary Critical Infrastructure Cybersecurity Program</i>. (a) The 
 
 (c) Sector-Specific Agencies shall report annually to the President, through the Secretary, on the extent to which owners and operators notified under section 9 of this order are participating in the Program.
 
-(d) The Secretary shall coordinate establishment of a set of incentives designed to promote participation in the Program. Within 120 days of the date of this order, the Secretary and the Secretaries of the Treasury and Commerce each shall make recommendations separately to the President, through the Assistant to the President for Homeland Security and Counterterrorism and the Assistant to the President for Economic Affairs, that shall include analysis of the benefits and relative effectiveness of such incentives, and whether the incentives would require legislation or can be provided under existing law and authorities to participants in the Program.
+(d) The Secretary shall coordinate establishment of a set of incentives designed to promote participation inthe Program. Within 120 days of the date of this order, the Secretary and the Secretaries of the Treasury and Commerce each shall make recommendations separately to the President, through the Assistant to the President for Homeland Security and Counterterrorism and the Assistant to the President for Economic Affairs, that shall include analysis of the benefits and relative effectiveness of such incentives, and whether the incentives would require legislation or can be provided under existing law and authorities to participants in the Program.
 
 (e) Within 120 days of the date of this order, the Secretary of Defense and the Administrator of General Services, in consultation with the Secretary and the Federal Acquisition Regulatory Council, shall make recommendations to the President, through the Assistant to the President for Homeland Security and Counterterrorism and the Assistant to the President for Economic Affairs, on the feasibility, security benefits, and relative merits of incorporating security standards into acquisition planning and contract administration. The report shall address what steps can be taken to harmonize and make consistent existing procurement requirements related to cybersecurity.
 
@@ -690,7 +856,7 @@ Sec. 12. <i>General Provisions</i>. (a) This order shall be implemented consiste
 
 (b) Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
 
-(c) All actions taken pursuant to this order shall be consistent with requirements and authorities to protect intelligence and law enforcement sources and methods. Nothing in this order shall be interpreted to supersede measures established under authority of law to protect the security and integrity of specific activities and associations that are in direct support of intelligence and law enforcement operations.
+(c) All actions taken pursuant to this order shall be consistent with requirements and authorities to protect intelligence and law enforcement sources and methods. Nothing in this order shall be interpreted tosupersede measures established under authority of law to protect the security and integrity of specific activities and associations that are in direct support of intelligence and law enforcement operations.
 
 (d) This order shall be implemented consistent with U.S. international obligations.
 
@@ -734,13 +900,13 @@ Sec. 3. <i>ISAO Standards Organization</i>. (a) The Secretary, in consultation w
 
 (b) To be selected, the SO must demonstrate the ability to engage and work across the broad community of organizations engaged in sharing information related to cybersecurity risks and incidents, including ISAOs, and associations and private companies engaged in information sharing in support of their customers.
 
-(c) The agreement referenced in section 3(a) shall require that the SO engage in an open public review andcomment process for the development of the standards referenced above, soliciting the viewpoints of existing entities engaged in sharing information related to cybersecurity risks and incidents, owners and operators of critical infrastructure, relevant agencies, and other public and private sector stakeholders.
+(c) The agreement referenced in section 3(a) shall require that the SO engage in an open public review and comment process for the development of the standards referenced above, soliciting the viewpoints of existing entities engaged in sharing information related to cybersecurity risks and incidents, owners and operators of critical infrastructure, relevant agencies, and other public and private sector stakeholders.
 
 (d) The Secretary shall support the development of these standards and, in carrying out the requirements set forth in this section, shall consult with the Office of Management and Budget, the National Institute of Standards and Technology in the Department of Commerce, Department of Justice, the Information Security Oversight Office in the National Archives and Records Administration, the Office of the Director of National Intelligence, Sector-Specific Agencies, and other interested Federal entities. All standards shall be consistent with voluntary international standards when such international standards will advance the objectives of this order, and shall meet the requirements of the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113), and OMB Circular A–119, as revised.
 
 Sec. 4. <i>Critical Infrastructure Protection Program</i>. (a) Pursuant to sections 213 and 214(h) of the Critical Infrastructure Information Act of 2002, I hereby designate the NCCIC as a critical infrastructure protection program and delegate to it authority to enter into voluntary agreements with ISAOs in order to promote critical infrastructure security with respect to cybersecurity.
 
-(b) Other Federal entities responsible for conducting cybersecurity and related activities to address threats to the public health and safety, national security, and economic security, consistent with the objectives of this order, may participate in activities under these agreements.
+(b) Other Federal entities responsible for conducting cybersecurity and related activities to address threatsto the public health and safety, national security, and economic security, consistent with the objectives of this order, may participate in activities under these agreements.
 
 (c) The Secretary will determine the eligibility of ISAOs and their members for any necessary facility or personnel security clearances associated with voluntary agreements in accordance with Executive Order 13549 of August 18, 2010 (Classified National Security Information Programs for State, Local, Tribal, and Private Sector Entities), and Executive Order 12829 of January 6, 1993 (National Industrial Security Program), as amended, including as amended by this order.
 

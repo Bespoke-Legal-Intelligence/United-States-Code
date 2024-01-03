@@ -16,13 +16,15 @@ Covered Individual Defined.—In this section, the term "covered individual" mea
 
 &emsp;(2) a member of the reserve components in an active status; or
 
-&emsp;(3) a dependent of an individual described in subparagraph (A) or (B).<sup>1</sup>
+&emsp;(3) a dependent of an individual described in paragraph (1) or (2).
 
-(Added Pub. L. 108–136, div. A, title V, §582(a)(1), Nov. 24, 2003, 117 Stat. 1489; amended Pub. L. 117–263, div. A, title V, §571(a), Dec. 23, 2022, 136 Stat. 2600.)
+(Added Pub. L. 108–136, div. A, title V, §582(a)(1), Nov. 24, 2003, 117 Stat. 1489; amended Pub. L. 117–263, div. A, title V, §571(a), Dec. 23, 2022, 136 Stat. 2600; Pub. L. 118–31, div. A, title XVIII, §1801(a)(17), Dec. 22, 2023, 137 Stat. 684.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c)(3). Pub. L. 118–31 substituted "paragraph (1) or (2)" for "subparagraph (A) or (B)".
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–263, §571(a)(1), substituted "a chaplain-led program to assist a covered individual" for "chaplain-led programs to assist members of the armed forces on active duty and their immediate family members, and members of reserve components in an active status and their immediate family members," and inserted ", or to support the resiliency, suicide prevention, or holistic wellness of such covered individual" after "structure".
 
@@ -35,6 +37,4 @@ Subsec. (c). Pub. L. 117–263, §571(a)(3), added subsec. (c) and struck out fo
 #### Effective Date
 
 Pub. L. 108–136, div. A, title V, §582(b), Nov. 24, 2003, 117 Stat. 1490, provided that: "Section 1789 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2003."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1) or (2)."</i>
 

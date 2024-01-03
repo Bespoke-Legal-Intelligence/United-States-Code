@@ -12,7 +12,7 @@
 
 #### (3) Subgrants
 
-&emsp;For the purposes for which a grant is awarded under this section, the eligible entity receiving the grant may award subgrants to a Federally qualified health center (as defined in section 1395x(aa) of this title), an opioid treatment program (as defined in section 8.2 of title 42, Code of Federal Regulations (or any successor regulations)), any practitioner dispensing narcotic drugs for the purpose ofmaintenance or detoxification treatment, or any nonprofit organization that the Secretary deems appropriate, which may include Urban Indian organizations (as defined in section 1603 of title 25).
+&emsp;For the purposes for which a grant is awarded under this section, the eligible entity receiving the grant may award subgrants to a Federally qualified health center (as defined in section 1395x(aa) of this title), an opioid treatment program (as defined in section 8.2 of title 42, Code of Federal Regulations (or any successor regulations)), any practitioner dispensing narcotic drugs for the purpose of maintenance or detoxification treatment, or any nonprofit organization that the Secretary deems appropriate, which may include Urban Indian organizations (as defined in section 1603 of title 25).
 
 #### (4) Prescribing
 

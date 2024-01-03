@@ -4,7 +4,7 @@
 
 The State Task Force shall—
 
-&emsp;(1) coordinate and communicate regularly with the State Advisory Council on Early Care and Education (hereafter in this part referred to as "State Advisory Council") or a similar State entity charged with creating a comprehensive system of early care and education in the State, for the purposes of—
+&emsp;(1) coordinate and communicate regularly with the State Advisory Council on Early Careand Education (hereafter in this part referred to as "State Advisory Council") or a similar State entity charged with creating a comprehensive system of early care and education in the State, for the purposes of—
 
 &emsp;&emsp;(A) integrating recommendations for early childhood professional development and career activities into the plans of the State Advisory Council; and
 
@@ -58,7 +58,7 @@ The State Task Force shall—
 
 &emsp;&emsp;(F) supporting articulation agreements between two- and four-year public and private institutions of higher education and mechanisms to transform other training, professional development, and experience into academic credit;
 
-&emsp;&emsp;(G) developing mentoring and coaching programs to support new educators in anddirectors of early childhood education programs;
+&emsp;&emsp;(G) developing mentoring and coaching programs to support new educators in and directors of early childhood education programs;
 
 &emsp;&emsp;(H) providing career development advising with respect to the field of early childhood education, including informing an individual regarding—
 
@@ -80,7 +80,7 @@ The State Task Force shall hold public hearings and provide an opportunity for p
 
 #### (c) Periodic review
 
-The State Task Force shall meet periodically to review implementation of the statewide plan and to recommend any changes to the statewide plan the State Task Force determines necessary.
+The State Task Force shall meet periodically to review implementation of the statewide planand to recommend any changes to the statewide plan the State Task Force determines necessary.
 
 (Pub. L. 89–329, title VIII, §815, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3398.)
 

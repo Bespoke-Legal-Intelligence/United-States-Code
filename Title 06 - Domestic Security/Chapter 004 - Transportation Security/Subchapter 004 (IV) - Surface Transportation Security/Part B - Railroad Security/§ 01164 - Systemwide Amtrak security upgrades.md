@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(E) to obtain train tracking and interoperable communications systems that are coordinated with Federal, State, and local agencies and tribal governments to the maximum extent possible;
 
-&emsp;&emsp;(F) to hire, train, and employ police and security officers, including canine units, assigned to full-time security orcounterterrorism duties related to railroad transportation;
+&emsp;&emsp;(F) to hire, train, and employ police and security officers, including canine units, assigned to full-time security or counterterrorism duties related to railroad transportation;
 
 &emsp;&emsp;(G) for operating and capital costs associated with security awareness, preparedness, and response training, including training under section 1167 of this title, and training developed by universities, institutions of higher education, and nonprofit employee labor organizations, for railroad employees, including frontline employees;
 
@@ -114,7 +114,7 @@ Strategic Plan.—If the Administrator decides to grant the request by Amtrak un
 
 "(d)
 
-Notices.—The Administrator shall notify the appropriate committees of Congress \[Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] of any decision made under subsection (a) and the details of the strategic plan under subsection (c).
+Notices.—The Administrator shall notify the appropriate committees of Congress \[Committees onCommerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] of any decision made under subsection (a) and the details of the strategic plan under subsection (c).
 
 "(e)
 

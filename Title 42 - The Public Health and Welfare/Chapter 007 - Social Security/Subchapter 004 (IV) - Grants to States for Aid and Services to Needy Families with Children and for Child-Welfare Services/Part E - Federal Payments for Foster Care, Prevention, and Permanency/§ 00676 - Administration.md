@@ -12,7 +12,7 @@ Each State shall submit statistical reports as the Secretary may require with re
 
 #### (1) Authority
 
-&emsp;The Secretary shall provide technical assistance and implementation services that are dedicated to improving services and permanency outcomes for Indian children and their families through the provision of assistance described in paragraph (2).
+&emsp;The Secretary shall provide technical assistance and implementation services that arededicated to improving services and permanency outcomes for Indian children and their families through the provision of assistance described in paragraph (2).
 
 #### (2) Assistance provided
 
@@ -56,7 +56,7 @@ Each State shall submit statistical reports as the Secretary may require with re
 
 #### (1) Technical assistance and best practices
 
-&emsp;The Secretary shall provide to States and, as applicable, to Indian tribes, tribal organizations, and tribal consortia, technical assistance regarding the provision of services and programs described in section 671(e)(1) of this title and shall disseminate best practices with respect to the provision of the services andprograms, including how to plan and implement a well-designed and rigorous evaluation of a promising, supported, or well-supported practice.
+&emsp;The Secretary shall provide to States and, as applicable, to Indian tribes, tribal organizations, and tribal consortia, technical assistance regarding the provision of services and programs described in section 671(e)(1) of this title and shall disseminate best practices with respect to the provision of the services and programs, including how to plan and implement a well-designed and rigorous evaluation of a promising, supported, or well-supported practice.
 
 #### (2) Clearinghouse of promising, supported, and well-supported practices
 

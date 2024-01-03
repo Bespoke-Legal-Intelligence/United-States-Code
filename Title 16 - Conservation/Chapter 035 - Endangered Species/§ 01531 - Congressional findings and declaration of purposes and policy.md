@@ -86,7 +86,7 @@ In General.—The Secretary \[of Agriculture\] and the Secretary of the Interior
 
 "(b)
 
-Expansion of Model.—The Secretary and the Secretary of the Interior may expand the conservationmodel described in subsection (a) through a new partnership agreement between the Farm Service Agency and the United States Fish and Wildlife Service for the purpose of carrying out conservation activities for species conservation.
+Expansion of Model.—The Secretary and the Secretary of the Interior may expand the conservation model described in subsection (a) through a new partnership agreement between the Farm Service Agency and the United States Fish and Wildlife Service for the purpose of carrying out conservation activities for species conservation.
 
 "(c)
 
@@ -178,7 +178,7 @@ Sec. 4. <i>Functions</i>. Consistent with the authorities and responsibilities o
 
 (b) not later than 90 days from the date of this order, review the Strategy to Combat Transnational Organized Crime of July 19, 2011, and, if appropriate, make recommendations regarding the inclusion of crime related to wildlife trafficking as an implementation element for the Federal Government's transnational organized crime strategy;
 
-(c) coordinate efforts among and consult with agencies, as appropriate and consistent with the Department of State's foreign affairs role, regarding workwith foreign nations and international bodies that monitor and aid in enforcement against crime related to wildlife trafficking; and
+(c) coordinate efforts among and consult with agencies, as appropriate and consistent with the Department of State's foreign affairs role, regarding work with foreign nations and international bodies that monitor and aid in enforcement against crime related to wildlife trafficking; and
 
 (d) carry out other functions necessary to implement this order.
 

@@ -46,5 +46,5 @@ Pub. L. 93–109, §4, Sept. 21, 1973, 87 Stat. 352, provided that: "The amendme
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise specified, see section 3 of Pub. L. 91–222, set out in part as a note under section 1331 of this title.
+Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise specified, see section 3 of Pub.L. 91–222, set out in part as a note under section 1331 of this title.
 

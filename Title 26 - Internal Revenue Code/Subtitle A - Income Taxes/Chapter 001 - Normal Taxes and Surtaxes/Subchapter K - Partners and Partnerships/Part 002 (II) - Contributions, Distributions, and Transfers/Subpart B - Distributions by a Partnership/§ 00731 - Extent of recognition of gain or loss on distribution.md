@@ -12,7 +12,7 @@ In the case of a distribution by a partnership to a partner—
 
 &emsp;&emsp;(B) the basis to the distributee, as determined under section 732, of any unrealized receivables (as defined in section 751(c)) and inventory (as defined in section 751(d)).
 
-> Any gain or loss recognized under this subsection shall be considered as gain or loss from the sale or exchange of the partnership interest of the distributee partner.
+> Any gain or loss recognized under this subsection shall be considered as gain or loss fromthe sale or exchange of the partnership interest of the distributee partner.
 
 #### (b) Partnerships
 
@@ -50,7 +50,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 &emsp;&emsp;&emsp;(iii) any financial instrument the value of which is determined substantially by reference to marketable securities,
 
-&emsp;&emsp;&emsp;(iv) except to the extent provided in regulations prescribed by the Secretary, any interest in a precious metal which, as of the date of the distribution, is activelytraded (within the meaning of section 1092(d)(1)) unless such metal was produced, used, or held in the active conduct of a trade or business by the partnership,
+&emsp;&emsp;&emsp;(iv) except to the extent provided in regulations prescribed by the Secretary, any interest in a precious metal which, as of the date of the distribution, is actively traded (within the meaning of section 1092(d)(1)) unless such metal was produced, used, or held in the active conduct of a trade or business by the partnership,
 
 &emsp;&emsp;&emsp;(v) except as otherwise provided in regulations prescribed by the Secretary, interests in any entity if substantially all of the assets of such entity consist (directly or indirectly) of marketable securities, money, or both, and
 
@@ -100,7 +100,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 &emsp;&emsp;&emsp;&emsp;(V) foreign currencies,
 
-&emsp;&emsp;&emsp;&emsp;(VI) interests in or derivative financial instruments (including options, forward or futures contracts, short positions, and similar financial instruments) in any asset described in any other subclause of this clause or in any commodity traded on or subject to the rules of a board of trade or commodity exchange,
+&emsp;&emsp;&emsp;&emsp;(VI) interests in or derivative financial instruments (including options, forward or futures contracts, short positions, and similar financial instruments) in any asset described in any other subclause of this clause or in any commodity tradedon or subject to the rules of a board of trade or commodity exchange,
 
 &emsp;&emsp;&emsp;&emsp;(VII) other assets specified in regulations prescribed by the Secretary, or
 
@@ -132,7 +132,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 &emsp;&emsp;&emsp;&emsp;(II) a partner who contributes to a partnership an interest in another partnership shall be treated as contributing a proportionate share of the assets of the other partnership.
 
-&emsp;&emsp;&nbsp;If the preceding sentence does not apply under such regulations with respect to anyinterest held by a partnership in another partnership, the interest in such other partnership shall be treated as if it were specified in a subclause of clause (i).
+&emsp;&emsp;&nbsp;If the preceding sentence does not apply under such regulations with respect to any interest held by a partnership in another partnership, the interest in such other partnership shall be treated as if it were specified in a subclause of clause (i).
 
 #### (4) Basis of securities distributed
 
@@ -192,7 +192,7 @@ Pub. L. 103–465, title VII, §741(c), Dec. 8, 1994, 108 Stat. 5009, provided t
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and section 737 of this title\] shall apply to distributions after the date of the enactment of this Act \[Dec. 8, 1994\].
+In general.—Except as otherwise provided in this subsection, the amendments made by this section\[amending this section and section 737 of this title\] shall apply to distributions after the date of the enactment of this Act \[Dec. 8, 1994\].
 
 "(2)
 

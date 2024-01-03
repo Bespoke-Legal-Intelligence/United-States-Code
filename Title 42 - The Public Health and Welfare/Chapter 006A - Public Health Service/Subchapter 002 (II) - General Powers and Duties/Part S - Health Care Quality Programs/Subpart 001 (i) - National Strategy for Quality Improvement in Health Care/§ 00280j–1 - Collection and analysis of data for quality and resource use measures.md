@@ -40,7 +40,7 @@
 
 #### (c) Consistent data aggregation
 
-The Secretary may award grants or contracts under this section only to entities that enablesummary data that can be integrated and compared across multiple sources. The Secretary shall provide standards for the protection of the security and privacy of patient data.
+The Secretary may award grants or contracts under this section only to entities that enable summary data that can be integrated and compared across multiple sources. The Secretary shall provide standards for the protection of the security and privacy of patient data.
 
 #### (d) Matching funds
 

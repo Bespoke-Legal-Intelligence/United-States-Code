@@ -30,7 +30,7 @@ The Secretary may not make a Federal capital contribution for purposes of subsec
 
 &emsp;(3) with respect to public or nonprofit private secondary educational institutions and undergraduate institutions of higher education, to enter into arrangements with 1 or more such institutions for the purpose of carrying out programs regarding the educational preparation of disadvantaged students, including minority students, to enter the health professions and regarding the recruitment of such individuals into the health professions;
 
-&emsp;(4) to establish a mentor program for assisting disadvantaged students, including minority students, regarding the completion of the educational requirements for degrees from the school;
+&emsp;(4) to establish a mentor program for assisting disadvantaged students, including minority students, regarding the completion of theeducational requirements for degrees from the school;
 
 &emsp;(5) to be carrying out each of the activities specified in any of paragraphs (1) through (4) by not later than 1 year after the date on which the first Federal capital contribution is made to the school for purposes of subsection (a); and
 

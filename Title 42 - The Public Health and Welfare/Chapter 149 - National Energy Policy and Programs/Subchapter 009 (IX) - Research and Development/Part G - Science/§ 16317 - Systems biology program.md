@@ -60,7 +60,7 @@ Within the funds authorized to be appropriated pursuant to this part, amounts sh
 
 #### (1) In general
 
-&emsp;In carrying out the program under section 18644(a) of this title, the Director shall supportup to 6 bioenergy research centers to conduct fundamental research in plant and microbial systems biology, biological imaging and analysis, and genomics, and to accelerate advanced research and development of advanced biofuels, bioenergy or biobased materials, chemicals, and products that are produced from a variety of regionally diverse feedstocks, and to facilitate the translation of research results to industry. The activities of the centers authorized under this subsection may include—
+&emsp;In carrying out the program under section 18644(a) of this title, the Director shall support up to 6 bioenergy research centers to conduct fundamental research in plant and microbial systems biology, biological imaging and analysis, and genomics, and to accelerate advanced research and development of advanced biofuels, bioenergy or biobased materials, chemicals, and products that are produced from a variety of regionally diverse feedstocks, and to facilitate the translation of research results to industry. The activities of the centers authorized under this subsection may include—
 
 &emsp;&emsp;(A) accelerating the domestication of bioenergy-relevant plants, microbes, and associated microbial communities to enable high-impact, value-added coproduct development at multiple points in the bioenergy supply chain;
 
@@ -144,7 +144,7 @@ Within the funds authorized to be appropriated pursuant to this part, amounts sh
 
 #### (6) Coordination
 
-&emsp;In coordination with the Bioenergy Technologies Office of the Department, the Secretary shall support interdisciplinary research activities to improve the capacity, efficiency, resilience, security, reliability, and affordability, of the production and use of advanced biofuels and bioproducts, as well as activities to enable positive impacts and avoid the potential negative impacts that the production and use of advanced biofuels and bioproducts may have on ecosystems, people, and historically marginalized communities.
+&emsp;In coordination with the Bioenergy Technologies Office of the Department, the Secretary shall support interdisciplinary research activities to improve the capacity, efficiency,resilience, security, reliability, and affordability, of the production and use of advanced biofuels and bioproducts, as well as activities to enable positive impacts and avoid the potential negative impacts that the production and use of advanced biofuels and bioproducts may have on ecosystems, people, and historically marginalized communities.
 
 #### (7) Funding
 

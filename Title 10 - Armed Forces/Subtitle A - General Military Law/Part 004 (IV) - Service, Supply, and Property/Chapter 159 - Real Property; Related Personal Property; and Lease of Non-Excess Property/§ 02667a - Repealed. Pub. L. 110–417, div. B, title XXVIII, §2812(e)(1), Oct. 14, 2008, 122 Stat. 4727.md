@@ -24,5 +24,5 @@ Treatment of money rents.—Amounts in any special account established for a Def
 
 &emsp;"(A) remain available until expended for the purposes specified in such subsection, notwithstanding the repeal of such section by paragraph (1); or
 
-&emsp;"(B) to the extent provided in appropriations Acts, be transferred to the special account required for theSecretary of Defense by subsection (e) of section 2667 of such title, as amended by subsection (d)(2) of this section."
+&emsp;"(B) to the extent provided in appropriations Acts, be transferred to the special account required for the Secretary of Defense by subsection (e) of section 2667 of such title, as amended by subsection (d)(2) of this section."
 

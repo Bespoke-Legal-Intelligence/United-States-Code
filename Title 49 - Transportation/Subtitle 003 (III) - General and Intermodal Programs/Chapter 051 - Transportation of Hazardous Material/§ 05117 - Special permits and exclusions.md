@@ -124,7 +124,7 @@ The Ports and Waterways Safety Act of 1972, referred to in subsec. (d)(1)(C), is
 
 #### Amendments
 
-<b>2015</b>—Subsec. (b). Pub. L. 114–94, §7204(1), substituted "an application for a new special permit or a modification to an existing special permit" for "an application for a special permit" and inserted "The Secretary shall make available to the public on the Department of Transportation's Internet Web site any special permit other than a new special permit or a modification to an existing special permit and shall give the public an opportunity to inspect the safety analysis and comment on the application for a period of not more than 15 days." before "This subsection".
+<b>2015</b>—Subsec. (b). Pub. L. 114–94, §7204(1), substituted "an application for a new special permit or a modification to an existing special permit" for "an application for a special permit" and inserted "The Secretary shall make available to the public on the Department ofTransportation's Internet Web site any special permit other than a new special permit or a modification to an existing special permit and shall give the public an opportunity to inspect the safety analysis and comment on the application for a period of not more than 15 days." before "This subsection".
 
 Subsec. (c). Pub. L. 114–94, §7204(2), substituted "a special permit or approval" for "the special permit" in two places, "120 days" for "180 days", and "make available to the public" for "publish", and struck out "in the Federal Register" after "a statement".
 

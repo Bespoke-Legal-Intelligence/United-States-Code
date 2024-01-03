@@ -14,7 +14,7 @@ The funds provided by appropriation or transfer from other accounts for any fisc
 
 #### (b) Delivery of commodities
 
-The Secretary shall deliver, to each State participating in the school lunch program under this chapter, commodities valued at the total level of assistance authorized under subsection (c) <sup>1</sup> for each school year for the school lunchprogram in the State, not later than September 30 of the following school year.
+The Secretary shall deliver, to each State participating in the school lunch program under this chapter, commodities valued at the total level of assistance authorized under subsection (c) <sup>1</sup> for each school year for the school lunch program in the State, not later than September 30 of the following school year.
 
 #### (c) Level of commodity assistance; computation of index; calculation of total assistance to each State; emphasis on high protein foods; per meal value of donated foods
 
@@ -140,7 +140,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–448, §101, substituted in second sentence "Except as provided in the next 2 sentences, any school" for "Any school" and inserted after second sentence "Any school food authority may refuse some or all of the fresh fruits and vegetables offered to the school food authority in any school year and shall receive, in lieu of the offered fruits and vegetables, other more desirable fresh fruits and vegetables that are at least equal in value to the fresh fruits and vegetables refused by the school food authority. The value of any fresh fruits and vegetables refused by a school under the preceding sentence for a school year shall not be used to determine the 20 percent of the total value of agricultural commodities and other foods tendered to the school food authority in the school year under the second sentence."
 
-Subsec. (b). Pub. L. 103–448, §102, amended subsec. (b) generally. Prior to amendment, subsec. (b) related to cash donations in lieu of commodity donations during school year for school food service programs and withholding of funds for States administered by Secretary for disbursement to participating schools to be used to purchase commodities and other food for their food service programs.
+Subsec. (b). Pub. L. 103–448, §102, amended subsec. (b) generally. Prior to amendment, subsec. (b) related to cash donations in lieu of commodity donations during school year for school food service programs and withholding of funds for States administered by Secretaryfor disbursement to participating schools to be used to purchase commodities and other food for their food service programs.
 
 Subsec. (g). Pub. L. 103–448, §103, added subsec. (g).
 
@@ -210,7 +210,7 @@ Pub. L. 107–171, title IV, §4301(b), May 13, 2002, 116 Stat. 330, provided th
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–336, title IV, §401, Oct. 31, 1998, 112 Stat. 3170, provided that: "Except as otherwise provided inthis Act \[see Short Title of 1998 Amendment note set out under section 1751 of this title\], this Act and the amendments made by this Act shall take effect on October 1, 1998."
+Pub. L. 105–336, title IV, §401, Oct. 31, 1998, 112 Stat. 3170, provided that: "Except as otherwise provided in this Act \[see Short Title of 1998 Amendment note set out under section 1751 of this title\], this Act and the amendments made by this Act shall take effect on October 1, 1998."
 
 #### Effective Date of 1994 Amendment
 

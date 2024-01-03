@@ -4,7 +4,7 @@
 
 A person may not be compelled to give his testimony or statement or to produce a document or other thing in violation of any legally applicable privilege.
 
-(b) This chapter does not preclude a person within the United States from voluntarily giving his testimony or statement, or producing adocument or other thing, for use in a proceeding in a foreign or international tribunal before any person and in any manner acceptable to him.
+(b) This chapter does not preclude a person within the United States from voluntarily giving his testimony or statement, or producing a document or other thing, for use in a proceeding in a foreign or international tribunal before any person and in any manner acceptable to him.
 
 (June 25, 1948, ch. 646, 62 Stat. 949; May 24, 1949, ch. 139, §93, 63 Stat. 103; Pub. L. 88–619, §9(a), Oct. 3, 1964, 78 Stat. 997; Pub. L. 104–106, div. A, title XIII, §1342(b), Feb. 10, 1996, 110 Stat. 486.)
 
@@ -12,7 +12,7 @@ A person may not be compelled to give his testimony or statement or to produce a
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§649–653, 701, 703, 704 (R.S. §§871–875, 4071, 4073, 4074; Feb. 27, 1877, ch. 69, §1, 19 Stat. 241; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; June 25, 1936, ch. 804, 49 Stat. 1921).
+Based on title 28, U.S.C., 1940 ed., §§649–653, 701, 703, 704 (R.S. §§871–875, 4071, 4073, 4074; Feb. 27, 1877, ch. 69,§1, 19 Stat. 241; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; June 25, 1936, ch. 804, 49 Stat. 1921).
 
 Sections 649–652 of title 28, U.S.C., 1940 ed., applied only to the District of Columbia and contained detailed provisions for issuing subpoenas, payment of witness fees and procedure for ordering and taking depositions. These matters are all covered by Federal Rules of Civil Procedure, Rules 26–32.
 

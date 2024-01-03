@@ -58,7 +58,7 @@ In developing the strategy required under this section, the Secretary of State s
 
 #### (c) Consultation
 
-In developing the strategy required under this section, the Secretary of State may consult with civil society and the private sector in the United States, El Salvador, Guatemala, and Honduras.
+In developing the strategy required under this section, the Secretary of State may consult with civil society and the private sector in theUnited States, El Salvador, Guatemala, and Honduras.
 
 #### (d) Benchmarks
 

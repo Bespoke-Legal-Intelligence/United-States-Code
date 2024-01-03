@@ -8,7 +8,7 @@ In the preparation of the recommendations for the reorganization of trade functi
 
 #### (1) Advisory rulings and final determinations
 
-&emsp;For the purposes of this subchapter, the Secretary of the Treasury shall provide for the prompt issuance of advisory rulings and final determinations on whether, under section 2518(4)(B) of this title, an article is or would be a product of a foreign country or instrumentality designated pursuant to section 2511(b) of this title.
+&emsp;For the purposes of this subchapter, the Secretary of the Treasury shall provide for theprompt issuance of advisory rulings and final determinations on whether, under section 2518(4)(B) of this title, an article is or would be a product of a foreign country or instrumentality designated pursuant to section 2511(b) of this title.
 
 #### (2) Penalties for fraudulent conduct
 
@@ -94,7 +94,7 @@ In general.—If subparagraph (A) applies to any signatory country—
 
 Time sanctions are imposed.—Any sanction—
 
-&emsp;&emsp;&emsp;"(I) described in clause (i)(I) shall apply from the date that is the last day of the 18-month period described in subparagraph (A)(i) or, in thecase of paragraph (2)(C), from the date procedures for suspending concessions under the Agreement have been completed, and
+&emsp;&emsp;&emsp;"(I) described in clause (i)(I) shall apply from the date that is the last day of the 18-month period described in subparagraph (A)(i) or, in the case of paragraph (2)(C), from the date procedures for suspending concessions under the Agreement have been completed, and
 
 &emsp;&emsp;&emsp;"(II) described in clause (i)(II) shall apply beginning on the day after the date described in subclause (I)."
 
@@ -176,7 +176,7 @@ Procedures With Respect to Violations of Agreement.—
 
 &emsp;"(1)
 
-Initiation of dispute settlement procedures.—If, within 60 days after the annual report is submitted under subsection (d)(1) of this section, a signatory country identified pursuant to subsection (d)(1)(A) of this section has not complied with the Agreement, then the United States Trade Representative shall promptly request proceedings on the matter under the formal dispute settlement proceduresprovided under the Agreement unless such proceedings are already underway pursuant to the identification of the signatory country under subsection (d)(1) of this section as not in compliance in a preceding annual report.
+Initiation of dispute settlement procedures.—If, within 60 days after the annual report is submitted under subsection (d)(1) of this section, a signatory country identified pursuant to subsection (d)(1)(A) of this section has not complied with the Agreement, then the United States Trade Representative shall promptly request proceedings on the matter under the formal dispute settlement procedures provided under the Agreement unless such proceedings are already underway pursuant to the identification of the signatory country under subsection (d)(1) of this section as not in compliance in a preceding annual report.
 
 &emsp;"(2)
 
@@ -288,7 +288,7 @@ Advice to congress.—The President shall, as necessary, advise the Congress and
 
 &emsp;"(2)
 
-Contents of report.—The general report required by this subsection shall include an evaluation of the adequacy and effectiveness of actions takenpursuant to subsections (e), (f), and (g) of this section as a means toward eliminating discriminatory government procurement practices against United States businesses.
+Contents of report.—The general report required by this subsection shall include an evaluation of the adequacy and effectiveness of actions taken pursuant to subsections (e), (f), and (g) of this section as a means toward eliminating discriminatory government procurement practices against United States businesses.
 
 &emsp;"(3)
 
@@ -300,7 +300,7 @@ Legislative recommendations.—The general report may also include, if appropria
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in section 3511(d)(17) of this title, enters into force with respect to the United States (Jan. 1, 1995), see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
+Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in section 3511(d)(17) of this title, enters into force with respect to the United States (Jan. 1, 1995),see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
 
 #### Termination Date of 1988 Amendment
 

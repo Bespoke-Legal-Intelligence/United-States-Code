@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of the military department concerned may authorize an officer in a grade above grade O–2 to remain on active duty after the date otherwise provided for the separation or retirement of the officer in section 632, 633, 634, 635, or 636 of this title, as applicable, if the officer has a military occupational specialty, rating, or specialty code in a military specialty designated pursuant to subsection (b).
+In General.—The Secretary of the military department concerned may authorize an officer in a grade above grade O–2 to remain on active duty after the date otherwise provided for the separation or retirement of the officer in section 632, 633, 634, 635, or 636 of this title, as applicable, if the officer has a military occupational specialty, rating, or specialty code in amilitary specialty designated pursuant to subsection (b).
 
 (b)
 

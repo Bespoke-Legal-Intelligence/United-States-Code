@@ -62,7 +62,7 @@ Explanation.—If, after attempting to use less restrictive techniques as requir
 
 Maximum period of confinement.—If a covered juvenile is placed in room confinement because the covered juvenile poses a serious and immediate risk of physical harm to himself or herself, or to others, the covered juvenile shall be released—
 
-&emsp;&emsp;&emsp;(i) immediately when the covered juvenile has sufficiently gained control so as to no longer engage in behavior that threatens serious and immediate risk of physical harm to himself or herself, or to others; or
+&emsp;&emsp;&emsp;(i) immediately when the covered juvenile has sufficiently gained control so asto no longer engage in behavior that threatens serious and immediate risk of physical harm to himself or herself, or to others; or
 
 &emsp;&emsp;&emsp;(ii) if a covered juvenile does not sufficiently gain control as described in clause (i), not later than—
 

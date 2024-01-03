@@ -36,7 +36,7 @@ Guidelines and Policies for Implementation of Coordination and Sharing Recommend
 
 &emsp;(C) will not reduce capacities in certain specialized programs of the Department of Veterans Affairs that the Secretary is required to maintain in accordance with section 1706(b) of this title.
 
-(2) To facilitate the sharing and coordination of health care services between the two Departments, the two Secretaries shall jointly developand implement guidelines for a standardized, uniform payment and reimbursement schedule for those services. Such schedule shall be revised periodically as necessary. The two Secretaries may on a case-by-case basis waive elements of the schedule if they jointly agree that such a waiver is in the best interests of both Departments.
+(2) To facilitate the sharing and coordination of health care services between the two Departments, the two Secretaries shall jointly develop and implement guidelines for a standardized, uniform payment and reimbursement schedule for those services. Such schedule shall be revised periodically as necessary. The two Secretaries may on a case-by-case basis waive elements of the schedule if they jointly agree that such a waiver is in the best interests of both Departments.
 
 (3)(A) The guidelines established under paragraph (1) shall authorize the heads of individual Department of Defense and Department of Veterans Affairs medical facilities and service regions to enter into health care resources coordination and sharing agreements.
 
@@ -90,7 +90,7 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 &emsp;&emsp;(ii) descriptions of any new administrative policies that enhance the success of the project.
 
-(5) In addition to the matters specified in paragraphs (2), (3), and (4), the two Secretaries shall include in the annual report under this subsection for each year through 2009 a report on the pilot program for graduate medical education under section 725 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314), including activities under the program during the preceding year and each Secretary's assessment of the efficacy of providing education and training under that program.
+(5) In addition to the matters specified in paragraphs (2), (3), and (4), the two Secretaries shall include in the annual report under this subsection for each year through 2009 a reporton the pilot program for graduate medical education under section 725 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314), including activities under the program during the preceding year and each Secretary's assessment of the efficacy of providing education and training under that program.
 
 (g)
 
@@ -216,7 +216,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Admini
 
 <b>1982</b>—Pub. L. 97–174, §3(b)(1), substituted "Sharing of Veterans' Administration and Department of Defense health-care resources" for "Use of Armed Forces facilities" in section catchline.
 
-Subsec. (a). Pub. L. 97–174, §3(a)(1), (2), designated existing provisions as subsec. (a) and substituted "material, and other resources as may be needed to operate such facilities properly, except that the Administrator may not enter into an agreement that would result (1)in a permanent reduction in the total number of authorized Veterans' Administration hospital beds and nursing home beds to a level below the minimum number of such beds required by section 5010(a)(1) of this title to be authorized, or (2) in a permanent reduction in the total number of such beds operated and maintained to a level below the minimum number of such beds required by such section to be operated and maintained" for "and material as may be needed to operate such facilities properly, or for the transfer, without reimbursement of appropriations, of facilities, supplies, equipment, or material necessary and proper for authorized care for veterans, except that at no time shall the Administrator enter into any agreement which will result in a permanent reduction of Veterans' Administration hospital and domiciliary beds below the number established or approved on June 22, 1944, plus the estimated number required to meet the load of eligibles under this title,".
+Subsec. (a). Pub. L. 97–174, §3(a)(1), (2), designated existing provisions as subsec. (a) and substituted "material, and other resources as may be needed to operate such facilities properly, except that the Administrator may not enter into an agreement that would result (1) in a permanent reduction in the total number of authorized Veterans' Administration hospital beds and nursing home beds to a level below the minimum number of such beds required by section 5010(a)(1) of this title to be authorized, or (2) in a permanent reduction in the total number of such beds operated and maintained to a level below the minimum number of such beds required by such section to be operated and maintained" for "and material as may be needed to operate such facilities properly, or for the transfer, without reimbursement of appropriations, of facilities, supplies, equipment, or material necessary and proper for authorized care for veterans, except that at no time shall the Administrator enter into any agreement which will result in a permanent reduction of Veterans' Administration hospital and domiciliary beds below the number established or approved on June 22, 1944, plus the estimated number required to meet the load of eligibles under this title,".
 
 Subsecs. (b) to (g). Pub. L. 97–174, §3(a)(3), added subsecs. (b) to (g).
 
@@ -224,7 +224,7 @@ Subsecs. (b) to (g). Pub. L. 97–174, §3(a)(3), added subsecs. (b) to (g).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VII, §721(c), Dec. 2, 2002, 116 Stat. 2595, provided that: "The amendments made by this section \[amending this section and section 1104 of Title 10, Armed Forces\] shall take effect on October 1, 2003."
+Pub. L. 107–314, div. A, title VII, §721(c), Dec. 2, 2002, 116 Stat. 2595, provided that: "The amendments madeby this section \[amending this section and section 1104 of Title 10, Armed Forces\] shall take effect on October 1, 2003."
 
 #### Effective Date
 
@@ -324,7 +324,7 @@ Pub. L. 107–314, div. A, title VII, §722, Dec. 2, 2002, 116 Stat. 2595, as am
 
 "(a)
 
-Establishment.—(1) The Secretary of Veterans Affairs and the Secretary of Defense shall conduct a health care resources sharing project to serve as a test for evaluating the feasibility, and the advantages and disadvantages, of measures and programs designed to improve the sharing and coordination of health care and health care resources between the Department of Veterans Affairs and the Department of Defense. The project shall be carried out, as a minimum, at the sites identified under subsection (b).
+Establishment.—(1) The Secretary of Veterans Affairs and the Secretary of Defense shall conduct a health care resources sharing project to serve as a test for evaluating the feasibility, and the advantages and disadvantages, of measures and programs designed toimprove the sharing and coordination of health care and health care resources between the Department of Veterans Affairs and the Department of Defense. The project shall be carried out, as a minimum, at the sites identified under subsection (b).
 
 "(2) Reimbursement between the two Departments with respect to the project under this section shall be made in accordance with the provisions of section 8111(e)(2) of title 38, United States Code, as amended by section 721(a).
 
@@ -412,13 +412,13 @@ Pub. L. 106–117, title I, §113, Nov. 30, 1999, 113 Stat. 1556, as amended by 
 
 "(a)
 
-Interagency Agreement.—(1) The Secretary of Defense shall enter into an agreement (characterized asa memorandum of understanding or otherwise) with the Secretary of Veterans Affairs with respect to the provision of medical care by the Secretary of Veterans Affairs to eligible military retirees in accordance with the provisions of subsection (c). That agreement shall include provisions for reimbursement of the Secretary of Veterans Affairs by the Secretary of Defense for medical care provided by the Secretary of Veterans Affairs to an eligible military retiree and may include such other provisions with respect to the terms and conditions of such care as may be agreed upon by the two Secretaries.
+Interagency Agreement.—(1) The Secretary of Defense shall enter into an agreement (characterized as a memorandum of understanding or otherwise) with the Secretary of Veterans Affairs with respect to the provision of medical care by the Secretary of Veterans Affairs to eligible military retirees in accordance with the provisions of subsection (c). That agreement shall include provisions for reimbursement of the Secretary of Veterans Affairs by the Secretary of Defense for medical care provided by the Secretary of Veterans Affairs to an eligible military retiree and may include such other provisions with respect to the terms and conditions of such care as may be agreed upon by the two Secretaries.
 
 "(2) Reimbursement under the agreement under paragraph (1) shall be in accordance with rates agreed upon by the Secretary of Defense and the Secretary of Veterans Affairs. Such reimbursement may be made by the Secretary of Defense or by the appropriate TRICARE Managed Care Support contractor, as determined in accordance with that agreement.
 
 "(3) In entering into the agreement under paragraph (1), particularly with respect to determination of the rates of reimbursement under paragraph (2), the Secretary of Defense shall consult with TRICARE Managed Care Support contractors.
 
-"(4) The Secretary of Veterans Affairs may not enter into an agreement under paragraph (1) for the provision of care in accordance with the provisions of subsection (c) with respect to any geographic service area, or a part of any such area, of the Veterans Health Administration unless—
+"(4) The Secretary of Veterans Affairs may not enter into an agreement under paragraph (1) for the provisionof care in accordance with the provisions of subsection (c) with respect to any geographic service area, or a part of any such area, of the Veterans Health Administration unless—
 
 &emsp;"(A) in the judgment of that Secretary, the Department of Veterans Affairs will recover the costs of providing such care to eligible military retirees; and
 
@@ -488,7 +488,7 @@ Authority.—The Secretary of Veterans Affairs may enter into an agreement with 
 
 "(b)
 
-Use of Funds.—Any amount received by the Secretary from a non-Federal entity as payment for services provided by the Secretary during a prior fiscalyear under an agreement entered into under this section may be obligated by the Secretary during the fiscal year in which the Secretary receives the payment.
+Use of Funds.—Any amount received by the Secretary from a non-Federal entity as payment for services provided by the Secretary during a prior fiscal year under an agreement entered into under this section may be obligated by the Secretary during the fiscal year in which the Secretary receives the payment.
 
 #### "SEC. 202. REQUIREMENT FOR IMPROVEMENT IN SERVICES FOR VETERANS.
 

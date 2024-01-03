@@ -2,7 +2,7 @@
 
 #### (a) Reimbursement of States
 
-Subject to the amounts provided in advance in appropriation Acts, the Attorney General shallreimburse a State for the costs incurred by the State for the imprisonment of any illegal alien or Cuban national who is convicted of a felony by such State.
+Subject to the amounts provided in advance in appropriation Acts, the Attorney General shall reimburse a State for the costs incurred by the State for the imprisonment of any illegal alien or Cuban national who is convicted of a felony by such State.
 
 #### (b) Illegal aliens convicted of a felony
 

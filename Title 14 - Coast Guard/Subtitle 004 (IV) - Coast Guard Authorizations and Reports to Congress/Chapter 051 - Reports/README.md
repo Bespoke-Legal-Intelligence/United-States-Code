@@ -16,7 +16,7 @@
 | [5112\.](%C2%A7%2005112%20-%20Sexual%20assault%20and%20sexual%20harassment%20in%20the%20Coast%20Guard.md) | Sexual assault and sexual harassment in the Coast Guard. |
 | [5113\.](%C2%A7%2005113%20-%20Officers%20not%20on%20active%20duty%20promotion%20list.md) | Officers not on active duty promotion list. |
 | [5114\.](%C2%A7%2005114%20-%20Expenses%20of%20performing%20and%20executing%20defense%20readiness%20missions.md) | Expenses of performing and executing defense readiness missions. |
-| [5115\.](%C2%A7%2005115%20-%20Major%20grants%2C%20contracts%2C%20or%20other%20transactions.md) | Major grants, contracts, or other transactions. |
+| [5115\.](%C2%A7%2005115%20-%20Major%20grants%2C%20contracts%2C%20or%20other%20transactions.md) | Major grants, contracts, or other transactions.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

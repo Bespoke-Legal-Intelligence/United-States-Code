@@ -10,7 +10,7 @@ The Commission may, on its own motion, and shall, on application of any person o
 
 #### (b) Pooling study
 
-(1) The Commission, in consultation with the reliability councils established under section 202(a) of the Federal Power Act \[16 U.S.C. 824a\], the Secretary, and the electric utility industry shall study the opportunities for—
+(1) The Commission, in consultation with the reliability councils established under section202(a) of the Federal Power Act \[16 U.S.C. 824a\], the Secretary, and the electric utility industry shall study the opportunities for—
 
 &emsp;(A) conservation of energy,
 

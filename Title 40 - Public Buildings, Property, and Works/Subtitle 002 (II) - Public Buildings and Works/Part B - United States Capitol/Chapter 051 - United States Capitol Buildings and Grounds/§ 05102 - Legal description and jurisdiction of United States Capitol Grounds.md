@@ -10,7 +10,7 @@ Jurisdiction.—
 
 &emsp;(1)
 
-Architect of the capitol.—The jurisdiction and control over the Grounds, vested prior to July 31, 1946, by law in the Architect, is extended to the entire area of the Grounds. Except as provided in paragraph (2), the Architect is responsible for the maintenance and improvement of the Grounds, including those streets and roadways in the Grounds as shown on the map referred to in subsection (a) asbeing under the jurisdiction and control of the Commissioners of the District of Columbia.
+Architect of the capitol.—The jurisdiction and control over the Grounds, vested prior to July 31, 1946, by law in the Architect, is extended to the entire area of the Grounds. Except as provided in paragraph (2), the Architect is responsible for the maintenance and improvement of the Grounds, including those streets and roadways in the Grounds as shown on the map referred to in subsection (a) as being under the jurisdiction and control of the Commissioners of the District of Columbia.
 
 &emsp;(2)
 
@@ -192,7 +192,7 @@ In general.—Administrative jurisdiction over each of the following properties 
 
 &emsp;&emsp;"(E) An unimproved portion of Western Avenue Northwest, north of Oregon Avenue Northwest, that abuts U.S. Reservation 339 (National Park Service property).
 
-&emsp;&emsp;"(F) An unimproved portion of 17th Street Northwest, south of Shepherd Street Northwest, thatabuts U.S. Reservation 339 (National Park Service property).
+&emsp;&emsp;"(F) An unimproved portion of 17th Street Northwest, south of Shepherd Street Northwest, that abuts U.S. Reservation 339 (National Park Service property).
 
 &emsp;&emsp;"(G) An unimproved portion of 30th Street Northwest, north of Broad Branch Road Northwest, that is within the boundaries of U.S. Reservation 515 (National Park Service property).
 
@@ -260,7 +260,7 @@ Title Held by Secretary.—If title to the real property identified for conveyan
 
 "(c)
 
-Review.—If the Secretary agrees to the conveyance under subsection (b), or if title to the property is held by the District of Columbia, the real property shall be conveyed after a 30-day review period beginning on the date on which notice of the conveyance is received by the Committee on Homeland Security and Governmental Affairs and the Committee on Rules of the Senate and the Committee on Government Reform and the Committee on Transportation and Infrastructure of the House of Representatives.
+Review.—If the Secretary agrees to the conveyance under subsection (b), or if title to the property is held by the District of Columbia, the real property shall be conveyed after a 30-day review period beginning on the date on which notice of the conveyance is received by the Committee on Homeland Security and Governmental Affairs and the Committee on Rules of the Senate and the Committee on Government Reform \[now Committee on Oversight and Accountability\] and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 "(d)
 
@@ -306,11 +306,11 @@ Study.—The Architect of the Capitol shall not construct a mail screening facil
 
 "(a)
 
-District of Columbia.—Not later than January 31 of each year, the Mayor of the District of Columbia shall report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform, the Committee on Energy and Commerce, the Committee on Resources, and the Committee on Transportation and Infrastructure of the House of Representatives on the use and development during the previous year of land for which title is conveyed to the District of Columbia and land for which administrative jurisdiction is transferred to the District of Columbia pursuant to this Act.
+District of Columbia.—Not later than January 31 of each year, the Mayor of the District of Columbia shall report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform \[now Committee on Oversight and Accountability\], the Committee on Energy and Commerce, the Committee on Resources, and the Committee on Transportation and Infrastructure of the House of Representatives on the use and development during the previous year of land for which title is conveyed to the District of Columbia and land for which administrative jurisdiction is transferred to the District of Columbia pursuant to this Act.
 
 "(b)
 
-Comptroller General.—The Comptroller General shall report periodically to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform, the Committee on Energy and Commerce, the Committee on Resources, and the Committee on Transportation and Infrastructure of the House of Representatives on—
+Comptroller General.—The Comptroller General shall report periodically to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform \[now Committee on Oversight and Accountability\], theCommittee on Energy and Commerce, the Committee on Resources, and the Committee on Transportation and Infrastructure of the House of Representatives on—
 
 &emsp;"(1) the use and development during the previous 2 years of land for which title is conveyed and land for which administrative jurisdiction is transferred pursuant to this Act; and
 
@@ -560,7 +560,7 @@ Sec. 10. Any contract entered into pursuant to this Act or pursuant to any amend
 
 #### Acquisition of Property for Additions to United States Capitol Grounds
 
-Pub. L. 85–429, May 29, 1958, 72 Stat. 148 and Pub. L. 85–591, Aug. 6, 1958, 72 Stat. 495, in part authorized the Architect of the Capitol to acquire certain real property for additions to United States Capitol Grounds.
+Pub. L. 85–429, May 29, 1958, 72 Stat. 148 and Pub. L. 85–591, Aug. 6, 1958, 72 Stat. 495, in part authorized theArchitect of the Capitol to acquire certain real property for additions to United States Capitol Grounds.
 
 #### <b>Other Legislative Documents</b>
 
@@ -596,7 +596,7 @@ NOW, THEREFORE, in formal compliance with the aforecited provisions of the Addit
 
 &nbsp;1. The Rayburn House Office Building, the subway connecting such building to the Capitol Building, the pedestrian tunnels connecting such building to the Longworth House Office Building, the underground garages in Squares 637 and 691 and the tunnels connecting these garages to the House Office Buildings, are hereby declared to be House Office Buildings and, as such, are hereby made subject to those provisions of the Act of July 31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments to such Act, which are applicable to the Capitol Buildings, and to the Act of Mar. 4, 1907 (40 U.S.C. 175) \[now 2 U.S.C. 2001\].
 
-&nbsp;2. All other real property acquired by the Architect of the Capitol under authority of the Additional House Office Building Act is hereby declared to be part of the United States Capitol Groundsand is hereby made subject to the Act of July 31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments to such Act.
+&nbsp;2. All other real property acquired by the Architect of the Capitol under authority of the Additional House Office Building Act is hereby declared to be part of the United States Capitol Grounds and is hereby made subject to the Act of July 31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments to such Act.
 
 &nbsp;3. Nothing herein shall be construed to contravene (a) the provisions of Public Law 89–260 authorizing the future use of Squares 732 north and south as a site for the Library of Congress James Madison Memorial Building; or (b) the authority delegated by the House Office Building Commission to the Select House Committee under authority of H. Res. 514, 90th Congress, pertaining to the direction and supervision of the use and operation of the four House Garages and outdoor parking lots.
 

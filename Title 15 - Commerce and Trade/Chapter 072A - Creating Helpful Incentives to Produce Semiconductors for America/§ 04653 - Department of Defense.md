@@ -112,7 +112,7 @@
 
 #### References in Text
 
-Section 224 of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (a)(2)(E), is section 224 of Pub. L. 116–92, which is set out as a note preceding section 4501 of Title 10, Armed Forces.
+Section 224 of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (a)(2)(E),is section 224 of Pub. L. 116–92, which is set out as a note preceding section 4501 of Title 10, Armed Forces.
 
 Section 2371 of title 10, referred to in subsec. (a)(4), was renumbered section 4021 of Title 10, Armed Forces, by Pub. L. 116–283, §1841(b)(1), as amended by Pub. L. 117–81, §1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151.
 
@@ -126,7 +126,7 @@ Subsec. (b)(3). Pub. L. 117–81, §217(2), added par. (3).
 
 #### "Congressional Defense Committees" Defined
 
-For definition of "congressional defense committees", see section 3 of Pub. L. 116–283, listed in a table under section 101 of Title 10, Armed Forces.
+For definition of "congressional defense committees" as the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 101 of Title 10, Armed Forces, as made applicable by section 3 of Pub. L. 116–283, which is listed in a table under section 101 of Title 10.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

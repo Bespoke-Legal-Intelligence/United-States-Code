@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title30",
- "package": "USCODE-2022-title30",
+ "package": "USCODE-2023-title30",
  "pieces": [
   {
    "id": "30_",
@@ -9872,6 +9872,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2022-title30 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2023-title30 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 30 - Mineral Lands and Mining"
 }

@@ -58,7 +58,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs of the Senate;
 
-&emsp;&emsp;"(B) the Committee on Oversight and Reform of the House of Representatives;
+&emsp;&emsp;"(B) the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives;
 
 &emsp;&emsp;"(C) the Committee on Environment and Public Works of the Senate;
 

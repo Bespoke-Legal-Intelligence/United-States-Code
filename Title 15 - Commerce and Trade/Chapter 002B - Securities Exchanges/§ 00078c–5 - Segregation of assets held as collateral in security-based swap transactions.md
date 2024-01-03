@@ -28,7 +28,7 @@ It shall be unlawful for any person to accept any money, securities, or property
 
 #### (2) Commission action
 
-&emsp;Notwithstanding subsection (b), in accordance with such terms and conditions as the Commission may prescribe by rule, regulation, or order, any money, securities, or property of the security-based swaps customer of a broker, dealer, or security-based swap dealer described in subsection (b) may be commingled and deposited as provided in this section with any other money, securities, or property received by the broker, dealer, or security-based swap dealer and required by the Commission to be separately accounted for and treated and dealt with as belonging to the security-based swaps customer of the broker, dealer, or security-based swap dealer.
+&emsp;Notwithstanding subsection (b), in accordance with such terms and conditions as the Commission may prescribe by rule, regulation, or order, any money, securities, or property of the security-based swaps customer of a broker, dealer, or security-based swap dealer describedin subsection (b) may be commingled and deposited as provided in this section with any other money, securities, or property received by the broker, dealer, or security-based swap dealer and required by the Commission to be separately accounted for and treated and dealt with as belonging to the security-based swaps customer of the broker, dealer, or security-based swap dealer.
 
 #### (d) Permitted investments
 

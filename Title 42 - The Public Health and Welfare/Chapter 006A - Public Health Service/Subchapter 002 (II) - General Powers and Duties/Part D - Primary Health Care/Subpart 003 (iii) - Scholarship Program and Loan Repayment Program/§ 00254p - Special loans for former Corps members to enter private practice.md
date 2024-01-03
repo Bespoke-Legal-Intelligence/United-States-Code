@@ -46,7 +46,7 @@ Section was formerly classified to section 294x of this title prior to renumberi
 
 A prior section 338G of act July 1, 1944, was renumbered section 338H by Pub. L. 101–597 and is classified to section 254q of this title.
 
-Another prior section 338G of act July 1, 1944, was renumbered section 338I by section 201(1) of Pub. L. 100–177 and classified to section 254r of this title, prior to repeal by Pub. L. 100–713, title I, §104(b)(1), Nov. 23, 1988, 102 Stat. 4787.
+Another prior section 338G of act July 1, 1944, was renumbered section 338I by section 201(1) of Pub. L.100–177 and classified to section 254r of this title, prior to repeal by Pub. L. 100–713, title I, §104(b)(1), Nov. 23, 1988, 102 Stat. 4787.
 
 Another prior section 338G of act July 1, 1944, was classified to section 254q of this title prior to repeal by Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999.
 

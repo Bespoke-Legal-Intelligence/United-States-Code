@@ -102,7 +102,7 @@ Definitions.—In this paragraph, the terms 'agency' and 'whistleblower' have th
 
 "(B)
 
-Report.—Each agency shall annually submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, and each committee of Congress with jurisdiction over the agency a report that details—
+Report.—Each agency shall annually submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, and each committee of Congress with jurisdiction over the agency a report that details—
 
 &emsp;"(i) the number of performance appraisals, for the year covered by the report, that determined that an employee of the agency failed to meet the standards for protecting whistleblowers that were established under section 4302(b) of title 5, United States Code, as amended by paragraph (1);
 

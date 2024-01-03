@@ -14,7 +14,7 @@
 
 (e) Premium pay under this section is in addition to premium pay which may be due for the same work under section 5545(a) and (b) of this title, providing premium pay for nightwork.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 90–83, §1(29), Sept. 11, 1967, 81 Stat. 201; Pub. L.90–623, §1(13), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2317(2), Oct. 21, 1998, 112 Stat. 2681–829.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 90–83, §1(29), Sept. 11, 1967, 81 Stat. 201; Pub. L. 90–623, §1(13), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2317(2), Oct. 21, 1998, 112 Stat. 2681–829.)
 
 Historical and Revision Notes<br>1966
 

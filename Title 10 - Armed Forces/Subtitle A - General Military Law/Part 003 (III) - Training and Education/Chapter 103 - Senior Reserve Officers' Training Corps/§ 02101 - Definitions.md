@@ -8,7 +8,7 @@ In this chapter:
 
 &emsp;(3) The term "advanced training" means the training and instruction offered in the Senior Reserve Officers' Training Corps to students enrolled in an advanced education program beyond the baccalaureate degree level or to students in the third and fourth years of a four-year Senior Reserve Officers' Training Corps course, or the equivalent period of training in an approved two-year Senior Reserve Officers' Training Corps course (except that, in the case of a student enrolled in an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers' Training Corps course, such term includes a fifth academic year or a combination of a part of a fifth academic year and summer sessions).
 
-(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1064; amended Pub. L. 98–94, title X, §1003(a)(1), title XII, §1268(11), Sept. 24, 1983, 97 Stat. 656, 706; Pub. L. 100–180, div. A, title XII,§1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 104–201, div. A, title V, §553(b), Sept. 23, 1996, 110 Stat. 2526.)
+(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1064; amended Pub. L. 98–94, title X, §1003(a)(1), title XII, §1268(11), Sept. 24, 1983, 97 Stat. 656, 706; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 104–201, div. A, title V, §553(b), Sept. 23, 1996, 110 Stat. 2526.)
 
 #### <b>Editorial Notes</b>
 
@@ -38,7 +38,7 @@ Pub. L. 116–283, div. A, title V, §519, Jan. 1, 2021, 134 Stat. 3591, provide
 
 Pilot Programs Required.—The Secretary of Defense may carry out two pilot programs as follows:
 
-&emsp;"(1) A pilot program, with elements as provided for in subsection (c), at covered institutions in order to assess the feasibility and advisability of mechanisms to reduce barriers to participation in the Senior Reserve Officers' Training Corps at such institutions by creating partnerships between satellite or extension Senior Reserve Officers' Training Corps units at such institutions and covered military installations.
+&emsp;"(1) A pilot program, with elements as provided for in subsection (c), at covered institutions in order to assess the feasibility and advisability of mechanismsto reduce barriers to participation in the Senior Reserve Officers' Training Corps at such institutions by creating partnerships between satellite or extension Senior Reserve Officers' Training Corps units at such institutions and covered military installations.
 
 &emsp;"(2) In consultation with the Secretary of Homeland Security, a pilot program, with elements as provided for in subsection (d), in order to assess the feasibility and advisability of the provision of financial assistance to members of the Senior Reserve Officers' Training Corps, and members of the Coast Guard College Student Pre-Commissioning Initiative, at covered institutions for participation in flight training.
 

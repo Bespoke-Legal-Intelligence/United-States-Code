@@ -70,9 +70,9 @@ Mental Health Counseling.—(1) With respect to activities conducted by personne
 
 (g)
 
-Authorization of Appropriations.—There are authorized to be appropriated, $155,300,000 for each of fiscal years 2019 through 2023 to carry out this section.
+Authorization of Appropriations.—There are authorized to be appropriated, $155,300,000 for each of fiscal years 2019 through 2028 to carry out this section.
 
-(Added Pub. L. 107–287, §6(a)(1), Nov. 7, 2002, 116 Stat. 2030; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–417, title III, §306, Dec. 19, 2006, 120 Stat. 2863; Pub. L. 110–387, title IX, §901(a)(7), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–275, title X, §1001(p)(2), Oct. 13, 2010, 124 Stat. 2897; Pub. L. 113–5, title I, §105, Mar. 13, 2013, 127 Stat. 170; Pub. L. 116–22, title VII, §701(a), June 24, 2019, 133 Stat. 961.)
+(Added Pub. L. 107–287, §6(a)(1), Nov. 7, 2002, 116 Stat. 2030; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–417, title III, §306, Dec. 19, 2006, 120 Stat. 2863; Pub. L. 110–387, title IX, §901(a)(7), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–275, title X, §1001(p)(2), Oct. 13, 2010, 124 Stat. 2897; Pub. L. 113–5, title I, §105, Mar. 13, 2013, 127 Stat. 170; Pub. L. 116–22, title VII, §701(a), June 24, 2019, 133 Stat. 961; Pub. L. 118–19, §3, Oct. 6, 2023, 137 Stat. 106.)
 
 #### <b>Editorial Notes</b>
 
@@ -85,6 +85,8 @@ Section 502 of the Homeland Security Act of 2002, referred to in subsec. (a)(2)(
 Section 154(b)(1) of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, referred to in subsec. (b)(2), is section 154(b)(1) of Pub. L. 107–188, which is set out as a note below.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (g). Pub. L. 118–19 substituted "2028" for "2023".
 
 <b>2019</b>—Subsec. (g). Pub. L. 116–22 substituted "2019 through 2023" for "2014 through 2018".
 
@@ -120,7 +122,7 @@ Subsec. (g). Pub. L. 109–417, §306(b), added subsec. (g).
 
 For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System, including the functions of the Secretary of Homeland Security and the Under Secretary for Emergency Preparedness and Response relating thereto, to the Secretary of Health and Human Services, see title III of Pub. L. 109–295, set out in part as a note under section 300hh–11 of Title 42, The Public Health and Welfare, and section 301(b) of Pub. L. 109–417, set out as a note under section 300hh–11 of Title 42.
 
-For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to the Secretary of Homeland Security, and for treatment ofrelated references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Enhancement of Emergency Preparedness of Department of Veterans Affairs
 

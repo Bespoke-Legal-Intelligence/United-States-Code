@@ -332,7 +332,7 @@ The President may request from foreign nations agreements that specify concrete 
 
 #### References in Text
 
-The Native American Graves Protection and Repatriation Act, referred to in subsecs. (a)(3)(C)(i) and (b)(4)(C)(ii)(I), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§3001 et seq.) of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Native American Graves Protection and Repatriation Act, referred to in subsecs. (a)(3)(C)(i) and (b)(4)(C)(ii)(I), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 The Archaeological Resources Protection Act of 1979, referred to in subsecs. (a)(3)(C)(ii) and (b)(4)(C)(ii)(II), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
 

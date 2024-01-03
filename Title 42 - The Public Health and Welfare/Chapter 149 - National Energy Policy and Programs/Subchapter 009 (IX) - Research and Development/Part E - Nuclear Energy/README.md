@@ -20,3 +20,4 @@ Part E—Nuclear Energy
 - [&sect; 16279c - Organization and administration of programs](%C2%A7%2016279c%20-%20Organization%20and%20administration%20of%20programs.md)
 - [&sect; 16280 - Advanced Nuclear Energy Licensing Cost-Share Grant Program](%C2%A7%2016280%20-%20Advanced%20Nuclear%20Energy%20Licensing%20Cost-Share%20Grant%20Program.md)
 - [&sect; 16281 - Advanced nuclear fuel availability](%C2%A7%2016281%20-%20Advanced%20nuclear%20fuel%20availability.md)
+- [&sect; 16282 - U.S. nuclear fuel security initiative](%C2%A7%2016282%20-%20U.S.%20nuclear%20fuel%20security%20initiative.md)

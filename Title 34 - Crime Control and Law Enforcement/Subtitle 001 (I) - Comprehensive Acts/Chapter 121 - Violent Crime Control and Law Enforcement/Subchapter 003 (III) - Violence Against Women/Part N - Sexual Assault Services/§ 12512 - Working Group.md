@@ -14,7 +14,7 @@ The Working Group shall consult with—
 
 #### (c) Membership
 
-The Working Group shall be composed of governmental or nongovernmental agency heads atthe discretion of the Attorney General, in consultation with the Secretary.
+The Working Group shall be composed of governmental or nongovernmental agency heads at the discretion of the Attorney General, in consultation with the Secretary.
 
 #### (d) Duties
 

@@ -42,7 +42,7 @@ The lien imposed by subsection (a) arises on the date of termination of a plan, 
 
 #### (e) Release or subordination
 
-If the corporation determines that release of the lien or subordination of the lien to any other creditor of the liable person would not adverselyaffect the collection of the liability imposed under section 1362, 1363, or 1364 of this title, or that the amount realizable by the corporation from the property to which the lien attaches will ultimately be increased by such release or subordination, and that the ultimate collection of the liability will be facilitated by such release or subordination, the corporation may issue a certificate of release or subordination of the lien with respect to such property, or any part thereof.
+If the corporation determines that release of the lien or subordination of the lien to any other creditor of the liable person would not adversely affect the collection of the liability imposed under section 1362, 1363, or 1364 of this title, or that the amount realizable by the corporation from the property to which the lien attaches will ultimately be increased by such release or subordination, and that the ultimate collection of the liability will be facilitated by such release or subordination, the corporation may issue a certificate of release or subordination of the lien with respect to such property, or any part thereof.
 
 #### (f) Definitions
 
@@ -100,7 +100,7 @@ Pub. L. 101–239, title VII, §7894(g)(4)(B), Dec. 19, 1989, 103 Stat. 2451, pr
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of this title after that date, see section 9312(d)(1) of Pub. L.100–203, as amended, set out as a note under section 1301 of this title.
+Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of this title after that date, see section 9312(d)(1) of Pub. L. 100–203, as amended, set out as a note under section 1301 of this title.
 
 #### Effective Date of 1986 Amendment
 

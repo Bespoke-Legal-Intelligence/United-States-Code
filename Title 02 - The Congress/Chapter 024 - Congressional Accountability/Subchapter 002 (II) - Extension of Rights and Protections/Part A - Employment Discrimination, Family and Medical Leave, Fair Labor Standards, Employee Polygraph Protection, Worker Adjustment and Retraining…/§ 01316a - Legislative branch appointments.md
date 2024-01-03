@@ -12,11 +12,11 @@ The rights and protections established under section 2108, sections 3309 through
 
 #### (A) In general
 
-&emsp;The remedy for a violation of paragraph (2) shall be such remedy as would be appropriate if awarded under applicable provisions of title 5 in the case of a violation of the relevant corresponding provision (referred to in paragraph (2)) of such title.
+&emsp;The remedy for a violation of paragraph (2) shall be such remedy as would be appropriate if awarded under applicable provisions of title5 in the case of a violation of the relevant corresponding provision (referred to in paragraph (2)) of such title.
 
 #### (B) Procedure
 
-&emsp;The procedure for consideration of alleged violations of paragraph (2) shall be the sameas apply under section 401 of the Congressional Accountability Act of 1995 \[2 U.S.C. 1401\] (and the provisions of law referred to therein) in the case of an alleged violation of part A of title II of such Act \[2 U.S.C. 1311 et seq.\].
+&emsp;The procedure for consideration of alleged violations of paragraph (2) shall be the same as apply under section 401 of the Congressional Accountability Act of 1995 \[2 U.S.C. 1401\] (and the provisions of law referred to therein) in the case of an alleged violation of part A of title II of such Act \[2 U.S.C. 1311 et seq.\].
 
 #### (4) Regulations to implement section
 

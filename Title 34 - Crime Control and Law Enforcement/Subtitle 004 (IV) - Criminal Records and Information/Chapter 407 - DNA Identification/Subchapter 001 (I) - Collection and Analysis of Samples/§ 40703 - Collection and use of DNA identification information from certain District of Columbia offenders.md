@@ -8,7 +8,7 @@
 
 #### (2) From individuals on release, parole, or probation
 
-&emsp;The Director of the Court Services and Offender Supervision Agency for the District of Columbia shall collect a DNA sample from each individual under the supervision of the Agency who is on supervised release, parole, or probation who is, or has been, convicted of a qualifying District of Columbia offense (as determined under subsection (d)).
+&emsp;The Director of the Court Services and Offender Supervision Agency for the District of Columbia shall collect a DNA sample from each individual under the supervision of theAgency who is on supervised release, parole, or probation who is, or has been, convicted of a qualifying District of Columbia offense (as determined under subsection (d)).
 
 #### (3) Individuals already in CODIS
 

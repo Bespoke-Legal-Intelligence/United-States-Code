@@ -4,7 +4,7 @@
 
 The Secretary, in consultation with experts representing a variety of clinical specialties, State, Tribal, or local public health officials, researchers, epidemiologists, statisticians, and community organizations, shall establish or continue a program to award competitive grants to eligible entities for the purpose of—
 
-&emsp;(1) identifying, developing, or disseminating best practices to improve maternal health care quality and outcomes, improve maternaland infant health, and eliminate preventable maternal mortality and severe maternal morbidity, which may include—
+&emsp;(1) identifying, developing, or disseminating best practices to improve maternal health care quality and outcomes, improve maternal and infant health, and eliminate preventable maternal mortality and severe maternal morbidity, which may include—
 
 &emsp;&emsp;(A) information on evidence-based practices to improve the quality and safety of maternal health care in hospitals and other health care settings of a State or health care system by addressing topics commonly associated with health complications or risks related to prenatal care, labor care, birthing, and postpartum care;
 

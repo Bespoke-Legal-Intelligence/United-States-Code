@@ -70,7 +70,7 @@ Financial assistance may be provided to a person under subsection (a) for not mo
 
 #### (2) Appointment
 
-&emsp;Upon completion of the program of education for which a person receives financial assistance under subsection (a) and acceptance of appointment in the commissioned officercorps of the Administration, the person may be issued a subsequent clothing allowance equivalent to that normally provided to a newly appointed officer.
+&emsp;Upon completion of the program of education for which a person receives financial assistance under subsection (a) and acceptance of appointment in the commissioned officer corps of the Administration, the person may be issued a subsequent clothing allowance equivalent to that normally provided to a newly appointed officer.
 
 #### (h) Termination of financial assistance
 

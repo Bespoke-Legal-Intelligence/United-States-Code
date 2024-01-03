@@ -1,6 +1,6 @@
 ### §1407. Persons living in and born in Guam
 
-(a) The following persons, and their children born after April 11, 1899, are declared to be citizens of the United States as of August 1, 1950, ifthey were residing on August 1, 1950, on the island of Guam or other territory over which the United States exercises rights of sovereignty:
+(a) The following persons, and their children born after April 11, 1899, are declared to be citizens of the United States as of August 1, 1950, if they were residing on August 1, 1950, on the island of Guam or other territory over which the United States exercises rights of sovereignty:
 
 (1) All inhabitants of the island of Guam on April 11, 1899, including those temporarily absent from the island on that date, who were Spanish subjects, who after that date continued to reside in Guam or other territory over which the United States exercises sovereignty, and who have taken no affirmative steps to preserve or acquire foreign nationality; and
 

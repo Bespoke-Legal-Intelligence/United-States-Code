@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than August 1, 1994, the Secretary shall, in consultation with the appropriate regional scientific review group established under subsection (d), prepare a draft stock assessment for each marine mammal stock which occurs in waters under the jurisdiction of the United States. Each draft stock assessment, based on the best scientific information available, shall—
+Not later than August 1, 1994, the Secretary shall, in consultation with the appropriate regional scientific review group established under subsection (d), prepare a draft stock assessmentfor each marine mammal stock which occurs in waters under the jurisdiction of the United States. Each draft stock assessment, based on the best scientific information available, shall—
 
 &emsp;(1) describe the geographic range of the affected stock, including any seasonal or temporal variation in such range;
 

@@ -26,7 +26,7 @@ Compensation of a servicemember for military service shall not be deemed to be i
 
 #### (c) Income of a military spouse
 
-Income for services performed by the spouse of a servicemember shall not be deemed to be income for services performed or from sources within a tax jurisdiction of the United States ifthe spouse is not a resident or domiciliary of the jurisdiction in which the income is earned because the spouse is in the jurisdiction solely to be with the servicemember serving in compliance with military orders.
+Income for services performed by the spouse of a servicemember shall not be deemed to be income for services performed or from sources within a tax jurisdiction of the United States if the spouse is not a resident or domiciliary of the jurisdiction in which the income is earned because the spouse is in the jurisdiction solely to be with the servicemember serving in compliance with military orders.
 
 #### (d) Personal property
 
@@ -112,7 +112,7 @@ Subsecs. (e) to (g). Pub. L. 111–97, §3(a)(2), redesignated subsecs. (d) to (
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–407, title III, §302(b), Dec. 31, 2018, 132 Stat. 5373, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to any return of State or local income tax filed for any taxable year beginning with the taxable year that includes the date of the enactment of this Act \[Dec. 31, 2018\]."
+Pub. L. 115–407, title III, §302(b), Dec. 31, 2018, 132 Stat. 5373, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to any return of State or local income tax filedfor any taxable year beginning with the taxable year that includes the date of the enactment of this Act \[Dec. 31, 2018\]."
 
 #### Effective Date of 2009 Amendment
 

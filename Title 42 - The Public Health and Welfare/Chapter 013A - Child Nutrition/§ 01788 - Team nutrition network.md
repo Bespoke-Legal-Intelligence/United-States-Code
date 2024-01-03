@@ -140,7 +140,7 @@ A State agency that receives a grant under this section may use funds from the g
 
 #### (4) Duration
 
-&emsp;Subject to the availability of funds made available to carry out this subsection, a local educational agency receiving assistance under this subsection shall conduct the project during a period of 3 successive school years beginning with the initial fiscal year for which the local educational agency receives funds.
+&emsp;Subject to the availability of funds made available to carry out this subsection, a localeducational agency receiving assistance under this subsection shall conduct the project during a period of 3 successive school years beginning with the initial fiscal year for which the local educational agency receives funds.
 
 #### (5) Authorized activities
 
@@ -182,7 +182,7 @@ A State agency that receives a grant under this section may use funds from the g
 
 #### (i) Nutrition education support
 
-In carrying out the purpose of this section to support nutrition education, the Secretary may provide for technical assistance and grants toimprove the quality of school meals and access to local foods in schools and institutions.
+In carrying out the purpose of this section to support nutrition education, the Secretary may provide for technical assistance and grants to improve the quality of school meals and access to local foods in schools and institutions.
 
 #### (j) Limitation
 

@@ -48,7 +48,7 @@ The responsible person shall receive reports of adverse events through the domes
 
 #### (f) Fragrance and flavor ingredients
 
-If the Secretary has reasonable grounds to believe that an ingredient or combination of ingredients in a fragrance or flavor has caused or contributed to a serious adverse event required to be reported under this section, the Secretary may request in writing a list of such ingredients or categories of ingredients in the specific fragrances or flavors in the cosmetic product, from the responsible person. The responsible person shall ensure that the requested information is submitted to the Secretary within 30 days of such request. In response to a request under section 552 of title 5, information submitted to the Secretary under this subsection shall be withheld under section 552(b)(3) of title 5.
+If the Secretary has reasonable grounds to believe that an ingredient or combination of ingredients in a fragrance or flavor has caused or contributed to a serious adverse event required to be reported under this section, the Secretary may request in writing a list of such ingredients or categories of ingredients in the specific fragrances or flavors in the cosmetic product, from the responsible person. The responsible person shall ensure that the requested information issubmitted to the Secretary within 30 days of such request. In response to a request under section 552 of title 5, information submitted to the Secretary under this subsection shall be withheld under section 552(b)(3) of title 5.
 
 #### (g) Protected information
 

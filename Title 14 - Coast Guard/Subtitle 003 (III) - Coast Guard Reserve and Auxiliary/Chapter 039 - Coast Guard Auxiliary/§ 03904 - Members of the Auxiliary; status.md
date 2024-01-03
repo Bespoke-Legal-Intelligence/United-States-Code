@@ -1,6 +1,6 @@
 ### §3904. Members of the Auxiliary; status
 
-(a) Except as otherwise provided in this chapter, a member of the Coast Guard Auxiliary shall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, Federal employee benefits, ethics, conflicts of interest, and other similar criminal or civil statutes and regulations governing the conduct of Federal employees. However, nothing in this subsection shall constrain the Commandant from prescribing standards for the conduct and behavior of members of the Auxiliary.
+(a) Except as otherwise provided in this chapter, a member of the Coast Guard Auxiliaryshall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, Federal employee benefits, ethics, conflicts of interest, and other similar criminal or civil statutes and regulations governing the conduct of Federal employees. However, nothing in this subsection shall constrain the Commandant from prescribing standards for the conduct and behavior of members of the Auxiliary.
 
 (b) A member of the Auxiliary while assigned to duty shall be deemed to be a Federal employee only for the purposes of the following:
 

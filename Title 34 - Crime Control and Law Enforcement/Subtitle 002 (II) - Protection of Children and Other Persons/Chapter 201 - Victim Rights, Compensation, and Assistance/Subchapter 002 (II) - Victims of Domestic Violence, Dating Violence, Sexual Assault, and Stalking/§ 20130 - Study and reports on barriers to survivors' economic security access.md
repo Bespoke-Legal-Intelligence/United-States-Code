@@ -28,7 +28,7 @@ The study and reports under this section shall include—
 
 &emsp;(6) best practices for States, employers, health carriers, insurers, and other private entities in addressing issues related to domestic violence, dating violence, sexual assault, or stalking; and
 
-&emsp;(7) barriers that impede victims' ability to pursue legal action, including legal costs andfiling fees, and complexities of the jurisdiction of law enforcement agencies.
+&emsp;(7) barriers that impede victims' ability to pursue legal action, including legal costs and filing fees, and complexities of the jurisdiction of law enforcement agencies.
 
 (Pub. L. 117–103, div. W, title VII, §704, Mar. 15, 2022, 136 Stat. 894.)
 

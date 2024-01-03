@@ -22,7 +22,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 &emsp;(i) 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) in the case of a facility which is sold or transferred or the use of which changes after July 18, 1984, or
 
-&emsp;(ii) thirty days after July 18, 1984, or if later 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b), in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984,
+&emsp;(ii) thirty days after July 18, 1984, or if later 180 days after the date of the sale, transfer, orchange of use for which a notice is required by subsection (b), in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984,
 
 > the amount which the United States is entitled to recover under paragraph (1) with respect to a facility shall be the amount prescribed by paragraph (1) plus interest, during the period described in subparagraph (B), at a rate (determined by the Secretary) based on the average of the bond equivalent of the weekly 90-day Treasury bill auction rate.
 

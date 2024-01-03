@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, for any program applying to become a
 
 &emsp;&emsp;(ii) has acquired experience, training, or skills through military service that is applicable to the apprenticeship occupation; and
 
-&emsp;(3) when the Secretary approves the registered apprenticeship program, provide a copy of the program's certificate of registration to the State approving agency designated underchapter 36 of title 38 in the State where the program is located.
+&emsp;(3) when the Secretary approves the registered apprenticeship program, provide a copy of the program's certificate of registration to the State approving agency designated under chapter 36 of title 38 in the State where the program is located.
 
 (Pub. L. 116–134, §2, Mar. 26, 2020, 134 Stat. 276.)
 
@@ -40,7 +40,7 @@ Notwithstanding any other provision of law, for any program applying to become a
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 116–134, Mar. 26, 2020, 134 Stat. 276, known as the Support for Veterans in Effective Apprenticeships Act of 2019, which enacted this section and provisions set out as a note under section 50 of this title. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 50 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 116–134, Mar. 26, 2020, 134 Stat. 276, known as the Support forVeterans in Effective Apprenticeships Act of 2019, which enacted this section and provisions set out as a note under section 50 of this title. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 50 of this title and Tables.
 
 The Act of August 16, 1937, referred to in subsec. (a)(1), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 

@@ -40,7 +40,7 @@
 
 &emsp;(4) in any case, reimburse the victim for lost income and necessary child care, transportation, and other expenses related to participation in the investigation or prosecution of the offense or attendance at proceedings related to the offense;
 
-&emsp;(5) in any case, if the victim (or if the victim is deceased, the victim's estate) consents, make restitution in services in lieu of money, or make restitution to a person or organization designated by the victim or the estate; and
+&emsp;(5) in any case, if the victim (or if the victim is deceased, the victim's estate) consents,make restitution in services in lieu of money, or make restitution to a person or organization designated by the victim or the estate; and
 
 &emsp;(6) in the case of an offense under sections 1028(a)(7) or 1028A(a) of this title, pay an amount equal to the value of the time reasonably spent by the victim in an attempt to remediate the intended or actual harm incurred by the victim from the offense.
 

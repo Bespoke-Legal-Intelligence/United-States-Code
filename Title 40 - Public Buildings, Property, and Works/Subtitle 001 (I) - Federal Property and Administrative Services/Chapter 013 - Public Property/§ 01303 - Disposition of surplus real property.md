@@ -116,7 +116,7 @@ In subsection (a), the words "wholly owned Government corporations" are substitu
 
 In subsection (b)(1), before subclause (A), the words "Notwithstanding any other provision of law", "heretofore or hereafter", and "by judicial process or otherwise in the collection of debts, purchase, donation, condemnation, devise, forfeiture, lease, or in any other manner" are omitted as unnecessary. In subclause (A), the words "or reassign" are omitted as unnecessary.
 
-In subsection (e), the words "General Services Administration", "Administrator", and "Administration" are substituted for "Public Buildings Administration" because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) \[303(b)\] of the revised title.
+In subsection (e), the words "General Services Administration", "Administrator", and "Administration" are substituted for "Public Buildings Administration" because of section 103(a) of the Federal Property andAdministrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) \[303(b)\] of the revised title.
 
 In subsection (f), the words "as hereinafter" are omitted as obsolete. The words "which have been or may hereafter be" and "notwithstanding any declaration that the same is in excess of its needs" are omitted as unnecessary.
 
@@ -354,7 +354,7 @@ Transparency of Information.—All the proceedings, information, and deliberatio
 
 &emsp;"(1) the Committee on Transportation and Infrastructure of the House of Representatives;
 
-&emsp;"(2) the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives;
+&emsp;"(2) the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives;
 
 &emsp;"(3) the Committee on Homeland Security and Governmental Affairs of the Senate;
 
@@ -412,7 +412,7 @@ Qualifications.—Appointments shall be made with consideration of a balance of 
 
 "(a)
 
-Experts and Consultants.—The Board, to the extent practicable and subject to appropriations Acts, shall use contracts, including nonappropriated contracts, entered into by the Administrator for services necessary to carry out the duties of the Board.
+Experts and Consultants.—The Board, to the extent practicable and subject to appropriations Acts,shall use contracts, including nonappropriated contracts, entered into by the Administrator for services necessary to carry out the duties of the Board.
 
 "(b)
 
@@ -490,7 +490,7 @@ Factors.—In developing the standards and criteria under paragraph (1), the Dir
 
 "(c)
 
-Special Rule for Utilization Rates.—Standards developed by the Director of OMB pursuant to subsection (b) shall incorporate and apply clear standardutilization rates to the extent that such standard rates increase efficiency and provide performance data. The utilization rates shall be consistent throughout each applicable category of space and with nongovernment space utilization rates. To the extent the space utilization rate of a given agency exceeds the utilization rates to be applied under this subsection, the Director of OMB may recommend realignment, co-location, consolidation, or other type of action to improve space utilization.
+Special Rule for Utilization Rates.—Standards developed by the Director of OMB pursuant to subsection (b) shall incorporate and apply clear standard utilization rates to the extent that such standard rates increase efficiency and provide performance data. The utilization rates shall be consistent throughout each applicable category of space and with nongovernment space utilization rates. To the extent the space utilization rate of a given agency exceeds the utilization rates to be applied under this subsection, the Director of OMB may recommend realignment, co-location, consolidation, or other type of action to improve space utilization.
 
 "(d)
 
@@ -616,7 +616,7 @@ Schedule and limitations.—
 
 &emsp;&emsp;"(A)
 
-First round.—Not later than 2 years after the date of transmittal of the list of properties recommended pursuant to subsection (b), the Boardshall transmit to the Director of OMB the first report required under paragraph (1). The total value of transactions contained in the first report may not exceed $2,500,000,000.
+First round.—Not later than 2 years after the date of transmittal of the list of properties recommended pursuant to subsection (b), the Board shall transmit to the Director of OMB the first report required under paragraph (1). The total value of transactions contained in the first report may not exceed $2,500,000,000.
 
 &emsp;&emsp;"(B)
 
@@ -984,7 +984,7 @@ Requirement.—Notwithstanding any other provision of law, the sale of the prope
 
 "(d)
 
-Net Proceeds.—Any net proceeds received shall be paid into an account in the Federal Buildings Fundestablished under section 592 of title 40, United States Code. Upon deposit, the net proceeds from the sale may be expended only subject to a specific future appropriation.
+Net Proceeds.—Any net proceeds received shall be paid into an account in the Federal Buildings Fund established under section 592 of title 40, United States Code. Upon deposit, the net proceeds from the sale may be expended only subject to a specific future appropriation.
 
 #### "SEC. 25. SALE OF COTTON ANNEX.
 

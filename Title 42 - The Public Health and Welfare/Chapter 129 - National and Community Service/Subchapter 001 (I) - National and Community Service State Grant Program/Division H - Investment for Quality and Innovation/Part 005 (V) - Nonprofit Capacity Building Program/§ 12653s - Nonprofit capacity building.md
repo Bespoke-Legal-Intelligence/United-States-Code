@@ -76,7 +76,7 @@ To be eligible to receive a grant under this section, an intermediary nonprofit 
 
 #### (iii) Maintenance of effort, prior year third-party funding levels
 
-&emsp;&emsp;&emsp;For purposes of maintaining private sector support levels for the activities specified by this program, a non-Federal share that includes donations by third partiesshall be composed in a way that does not decrease prior levels of funding from the same third parties granted to the nonprofit intermediary grantee in the preceding year.
+&emsp;&emsp;&emsp;For purposes of maintaining private sector support levels for the activities specified by this program, a non-Federal share that includes donations by third parties shall be composed in a way that does not decrease prior levels of funding from the same third parties granted to the nonprofit intermediary grantee in the preceding year.
 
 #### (g) Reservation
 

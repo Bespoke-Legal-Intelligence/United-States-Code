@@ -2,7 +2,7 @@
 
 (a)
 
-Eligibility of Protective Services Civilian Employees.—An individual employed as aprotective services civilian employee at a military installation may be permitted to purchase food and hygiene items at a commissary store or MWR retail facility located on that military installation.
+Eligibility of Protective Services Civilian Employees.—An individual employed as a protective services civilian employee at a military installation may be permitted to purchase food and hygiene items at a commissary store or MWR retail facility located on that military installation.
 
 (b)
 

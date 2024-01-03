@@ -50,7 +50,7 @@ Requirements for issuing order.—The court may not grant an application under c
 
 &emsp;&emsp;&emsp;&emsp;(VI) the application describes with reasonable particularity the matter to be seized and, to the extent reasonable under the circumstances, identifies the location where the matter is to be seized;
 
-&emsp;&emsp;&emsp;&emsp;(VII) the person against whom seizure would be ordered, or persons acting inconcert with such person, would destroy, move, hide, or otherwise make such matter inaccessible to the court, if the applicant were to proceed on notice to such person; and
+&emsp;&emsp;&emsp;&emsp;(VII) the person against whom seizure would be ordered, or persons acting in concert with such person, would destroy, move, hide, or otherwise make such matter inaccessible to the court, if the applicant were to proceed on notice to such person; and
 
 &emsp;&emsp;&emsp;&emsp;(VIII) the applicant has not publicized the requested seizure.
 
@@ -102,7 +102,7 @@ Appointment of special master.—The court may appoint a special master to locat
 
 &emsp;&emsp;(E)
 
-Service of order.—The court shall order that service of a copy of the order under this paragraph, and the submissions of the applicant to obtain the order, shall be made by a Federal law enforcement officer who, upon making service, shall carry out the seizure under the order. The court may allow State or local law enforcement officials to participate, but may not permit the applicant or any agent of the applicant to participate in the seizure. At the request of law enforcement officials, the court may allow a technical expert who is unaffiliated with the applicant and who is bound by a court-approved non-disclosure agreement to participate in the seizure if the court determines that the participation of the expert will aid the efficient execution of and minimize the burden of the seizure.
+Service of order.—The court shall order that service of a copy of the order under this paragraph, and the submissions of the applicant to obtain the order, shall be made by a Federal law enforcement officer who, upon making service, shall carry outthe seizure under the order. The court may allow State or local law enforcement officials to participate, but may not permit the applicant or any agent of the applicant to participate in the seizure. At the request of law enforcement officials, the court may allow a technical expert who is unaffiliated with the applicant and who is bound by a court-approved non-disclosure agreement to participate in the seizure if the court determines that the participation of the expert will aid the efficient execution of and minimize the burden of the seizure.
 
 &emsp;&emsp;(F)
 

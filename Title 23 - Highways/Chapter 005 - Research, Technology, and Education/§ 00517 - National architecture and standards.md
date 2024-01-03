@@ -14,7 +14,7 @@ Interoperability and efficiency.—To the maximum extent practicable, the nation
 
 &emsp;(3)
 
-Use of standards development organizations.—In carrying out this section, the Secretary shall support the development and maintenance of standards and protocols using the services of such standards development organizations as the Secretary determines to be necessary and whose memberships include representatives of the surface transportation and intelligent transportation systems industries.
+Use of standards development organizations.—In carrying out this section, the Secretary shall support the development andmaintenance of standards and protocols using the services of such standards development organizations as the Secretary determines to be necessary and whose memberships include representatives of the surface transportation and intelligent transportation systems industries.
 
 (b)
 
@@ -26,7 +26,7 @@ Provisional Standards.—
 
 &emsp;(1)
 
-In general.—If the Secretary finds that the development or balloting of an intelligent transportation system standard jeopardizesthe timely achievement of the objectives described in subsection (a), the Secretary may establish a provisional standard, after consultation with affected parties, using, to the maximum extent practicable, the work product of appropriate standards development organizations.
+In general.—If the Secretary finds that the development or balloting of an intelligent transportation system standard jeopardizes the timely achievement of the objectives described in subsection (a), the Secretary may establish a provisional standard, after consultation with affected parties, using, to the maximum extent practicable, the work product of appropriate standards development organizations.
 
 &emsp;(2)
 

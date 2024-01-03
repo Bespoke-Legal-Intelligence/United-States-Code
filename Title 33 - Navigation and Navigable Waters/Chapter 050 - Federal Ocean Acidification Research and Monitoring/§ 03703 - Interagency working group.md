@@ -28,7 +28,7 @@ The Subcommittee shall—
 
 &emsp;(3) facilitate communication and outreach opportunities with nongovernmental organizations and members of the stakeholder community with interests in marine resources;
 
-&emsp;(4) coordinate the United States Federal research and monitoring program with researchand monitoring programs and scientists from other nations;
+&emsp;(4) coordinate the United States Federal research and monitoring program with research and monitoring programs and scientists from other nations;
 
 &emsp;(5) establish or designate, and contribute to as appropriate, an Ocean Acidification Information Exchange to make information on ocean acidification and coastal acidification developed through or utilized by the interagency ocean acidification program accessible through electronic means, including information which would be useful to policymakers, researchers, and other stakeholders in mitigating or adapting to the impacts of ocean acidification and coastal acidification; and <sup>1</sup>
 
@@ -276,7 +276,7 @@ Subsec. (b)(2). Pub. L. 117–167, §10644(3)(A), inserted "and coastal acidific
 
 Subsec. (b)(4). Pub. L. 117–167, §10644(3)(B), substituted semicolon for "; and".
 
-Subsec. (b)(5). Pub. L. 117–167, §10644(3)(C), inserted ", and contribute to as appropriate," after "designate"and substituted "and coastal acidification developed" for "developed" and "and coastal acidification; and" for period at end.
+Subsec. (b)(5). Pub. L. 117–167, §10644(3)(C), inserted ", and contribute to as appropriate," after "designate" and substituted "and coastal acidification developed" for "developed" and "and coastal acidification; and" for period at end.
 
 Subsec. (c). Pub. L. 117–167, §10644(6), added subsec. (c). Former subsec. (c) redesignated (e).
 
@@ -286,7 +286,7 @@ Subsec. (c)(2)(B). Pub. L. 117–167, §10644(4)(A)(iii), substituted "interagen
 
 Subsec. (c)(3). Pub. L. 117–167, §10644(4)(B), inserted "until 2031" after "at least once every 5 years".
 
-Subsec. (c)(4). Pub. L. 117–167, §10644(4)(C), inserted "until 2032" after "and every 6 years thereafter" in introductory provisions.
+Subsec. (c)(4)(A). Pub. L. 117–167, §10644(4)(C), inserted "until 2032" after "and every 6 years thereafter" in introductory provisions.
 
 Subsec. (d). Pub. L. 117–167, §10644(6), added subsec. (d).
 

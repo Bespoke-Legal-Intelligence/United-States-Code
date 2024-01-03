@@ -40,7 +40,7 @@ This chapter, referred to in par. (5), was in the original "this Act", meaning P
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed inHouse Document No. 103–7 (in which the 3rd item on page 88 identifies a reporting provision which, as subsequently amended, is contained in this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 3rd item on page 88 identifies a reporting provision which, as subsequently amended, is contained in this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

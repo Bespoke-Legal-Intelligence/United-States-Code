@@ -26,7 +26,7 @@ The Secretary shall—
 
 Pub. L. 95–39, title I, §111, June 3, 1977, 91 Stat. 186, provided that:
 
-"(a) The Administrator \[now Secretary of Energy\] shall classify each recipient of any award, contract, or other financial arrangement in any nonnuclear research, development, or demonstration category as—
+"(a) The Administrator \[now Secretary of Energy\] shall classify each recipient of any award, contract, orother financial arrangement in any nonnuclear research, development, or demonstration category as—
 
 &emsp;"(1) a Federal agency,
 

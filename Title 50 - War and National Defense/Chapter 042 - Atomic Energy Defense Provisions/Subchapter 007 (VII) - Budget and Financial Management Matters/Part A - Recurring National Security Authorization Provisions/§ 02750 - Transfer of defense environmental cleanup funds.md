@@ -42,7 +42,7 @@ In this section:
 
 &emsp;(2) The term "defense environmental cleanup funds" means funds appropriated to the Department of Energy pursuant to an authorization for carrying out defense environmental cleanup activities necessary for national security programs.
 
-(Pub. L. 107–314, div. D, title XLVII, §4710, formerly div. C, title XXXVI, §3629, Dec. 2, 2002, 116 Stat. 2760; renumbered div. D, title XLVII, §4710, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), (D)(iv), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–66, div. C, title XXXI, §3146(h)(2), Dec. 26, 2013, 127 Stat. 1081; Pub. L. 113–291, div. C, title XXXI, §3142(q), Dec. 19, 2014, 128 Stat. 3901.)
+(Pub. L. 107–314, div. D, title XLVII, §4710, formerly div. C, title XXXVI, §3629, Dec. 2, 2002, 116Stat. 2760; renumbered div. D, title XLVII, §4710, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), (D)(iv), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–66, div. C, title XXXI, §3146(h)(2), Dec. 26, 2013, 127 Stat. 1081; Pub. L. 113–291, div. C, title XXXI, §3142(q), Dec. 19, 2014, 128 Stat. 3901.)
 
 #### <b>Editorial Notes</b>
 

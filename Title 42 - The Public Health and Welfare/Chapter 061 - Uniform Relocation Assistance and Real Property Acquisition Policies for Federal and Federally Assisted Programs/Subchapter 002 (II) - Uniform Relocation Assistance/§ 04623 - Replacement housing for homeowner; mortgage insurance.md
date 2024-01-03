@@ -1,6 +1,6 @@
 ### §4623. Replacement housing for homeowner; mortgage insurance
 
-(a)(1) In addition to payments otherwise authorized by this subchapter, the head of the displacing agency shall make an additional payment not in excess of $31,000, as adjusted by regulation, in accordance with 4633(d) <sup>1</sup> of this title,to any displaced person who is displaced from a dwelling actually owned and occupied by such displaced person for not less than 90 days before the initiation of negotiations for the acquisition of the property. Such additional payment shall include the following elements:
+(a)(1) In addition to payments otherwise authorized by this subchapter, the head of the displacing agency shall make an additional payment not in excess of $31,000, as adjusted by regulation, in accordance with 4633(d) <sup>1</sup> of this title, to any displaced person who is displaced from a dwelling actually owned and occupied by such displaced person for not less than 90 days before the initiation of negotiations for the acquisition of the property. Such additional payment shall include the following elements:
 
 (A) The amount, if any, which when added to the acquisition cost of the dwelling acquired by the displacing agency, equals the reasonable cost of a comparable replacement dwelling.
 
@@ -12,7 +12,7 @@
 
 (b) The head of any Federal agency may, upon application by a mortgagee, insure any mortgage (including advances during construction) on a comparable replacement dwelling executed by a displaced person assisted under this section, which mortgage is eligible for insurance under any Federal law administered by such agency notwithstanding any requirements under such law relating to age, physical condition, or other personal characteristics of eligible mortgagors, and may make commitments for the insurance of such mortgage prior to the date of execution of the mortgage.
 
-(Pub. L. 91–646, title II, §203, Jan. 2, 1971, 84 Stat. 1896; Pub. L. 100–17, title IV, §406, Apr. 2, 1987, 101 Stat. 251; Pub. L. 112–141, div. A, title I, §1521(b), July 6, 2012, 126 Stat. 578.)
+(Pub. L. 91–646, title II, §203, Jan. 2, 1971, 84 Stat. 1896; Pub. L. 100–17, title IV, §406, Apr. 2, 1987, 101Stat. 251; Pub. L. 112–141, div. A, title I, §1521(b), July 6, 2012, 126 Stat. 578.)
 
 #### <b>Editorial Notes</b>
 

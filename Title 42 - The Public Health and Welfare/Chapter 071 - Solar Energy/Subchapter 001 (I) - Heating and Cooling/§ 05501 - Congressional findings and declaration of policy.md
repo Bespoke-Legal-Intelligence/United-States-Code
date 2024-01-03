@@ -20,7 +20,7 @@
 
 &emsp;(9) innovation and creativity in the development of solar heating and combined solar heating and cooling components and systems can be fostered through encouraging direct contact between the manufacturers of such systems and the architects, engineers, developers, contractors, and other persons interested in installing such systems in buildings;
 
-&emsp;(10) evaluation of the performance and reliability of solar heating and combined solar heating and cooling technologies can be expedited by testing under carefully controlled conditions; and
+&emsp;(10) evaluation of the performance and reliability of solar heating and combined solarheating and cooling technologies can be expedited by testing under carefully controlled conditions; and
 
 &emsp;(11) commercial application of solar heating and combined solar heating and cooling technologies can be expedited by early commercial demonstration under practical conditions.
 
@@ -32,7 +32,7 @@
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–590, §1, Nov. 4, 1978, 92 Stat. 2513, provided that Pub. L. 95–590 (enacting subchapter III of thischapter) could be cited as the "Solar Photovoltaic Energy Research, Development, and Demonstration Act of 1978", prior to repeal by Pub. L. 116–260, div. Z, title III, §3006(f), Dec. 27, 2020, 134 Stat. 2513.
+Pub. L. 95–590, §1, Nov. 4, 1978, 92 Stat. 2513, provided that Pub. L. 95–590 (enacting subchapter III of this chapter) could be cited as the "Solar Photovoltaic Energy Research, Development, and Demonstration Act of 1978", prior to repeal by Pub. L. 116–260, div. Z, title III, §3006(f), Dec. 27, 2020, 134 Stat. 2513.
 
 #### Short Title
 

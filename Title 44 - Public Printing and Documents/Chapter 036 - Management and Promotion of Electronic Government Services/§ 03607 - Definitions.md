@@ -64,6 +64,10 @@ Secretary.—The term "Secretary" means the Secretary of Homeland Security.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date of Repeal
 
 Pub. L. 117–263, div. E, title LIX, §5921(d)(1), Dec. 23, 2022, 136 Stat. 3458, provided that the repeal of this section is effective on the date that is 5 years after Dec. 23, 2022.

@@ -22,7 +22,7 @@ Nothing in this section shall be construed to amend, expand, or limit the provis
 
 #### References in Text
 
-The amendments to this chapter made by the Modernization of Cosmetics Regulation Act of 2022, referred to in subsecs. (b) and (c), means the amendments made by subtitle E (§§3501–3508) of title III of div. FF of Pub. L. 117–328, which enacted this section and sections 364 to 364i of this title and amended sections 331, 361, 362, 374, and 381 of this title.
+The amendments to this chapter made by the Modernization of Cosmetics Regulation Act of 2022, referredto in subsecs. (b) and (c), means the amendments made by subtitle E (§§3501–3508) of title III of div. FF of Pub. L. 117–328, which enacted this section and sections 364 to 364i of this title and amended sections 331, 361, 362, 374, and 381 of this title.
 
 The time of enactment of the Modernization of Cosmetics Regulation Act of 2022, referred to in subsec. (b), probably means the date of enactment of subtitle E (§§3501–3508) of title III of div. FF of Pub. L. 117–328, which was approved Dec. 29, 2022.
 

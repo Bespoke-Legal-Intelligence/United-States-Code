@@ -36,7 +36,7 @@ Subsec. (b)(2). Pub. L. 117–333, §14(c)(2)(B), substituted "paragraph" for "c
 
 <b>2006</b>—Subsec. (b)(1). Pub. L. 109–233 substituted "section 4(b)(1)" for "section 8" and "633(b)(1)" for "633(b)".
 
-<b>2002</b>—Subsec. (a)(2)(B). Pub. L. 107–288 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "utilization of the services of disabled veterans outreach program specialists under section 4103A of this title; and".
+<b>2002</b>—Subsec. (a)(2)(B). Pub. L. 107–288 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "utilization of the services of disabledveterans outreach program specialists under section 4103A of this title; and".
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–275 inserted "rated at 10 percent or more" after "disability".
 

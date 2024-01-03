@@ -20,7 +20,7 @@ The President is authorized to provide grants to private, nonprofit organization
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–198, §7(a)(1), inserted at end "The President is also authorized to provide grantsto entities to undertake research on North Korea's denial of human rights, including on the political and military chains of command responsible for authorizing and implementing systemic human rights abuses, including at prison camps and detention facilities where political prisoners are held."
+<b>2018</b>—Subsec. (a). Pub. L. 115–198, §7(a)(1), inserted at end "The President is also authorized to provide grants to entities to undertake research on North Korea's denial of human rights, including on the political and military chains of command responsible for authorizing and implementing systemic human rights abuses, including at prison camps and detention facilities where political prisoners are held."
 
 Subsec. (b)(1). Pub. L. 115–198, §7(a)(2), substituted "2022" for "2017".
 

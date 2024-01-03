@@ -8,7 +8,7 @@ To be eligible to receive financial assistance under this chapter, a project sha
 
 #### (A) In general
 
-&emsp;&emsp;The project and obligor shall be creditworthy, which shall be determined by theSecretary or the Administrator, as applicable.
+&emsp;&emsp;The project and obligor shall be creditworthy, which shall be determined by the Secretary or the Administrator, as applicable.
 
 #### (B) Considerations
 
@@ -52,7 +52,7 @@ To be eligible to receive financial assistance under this chapter, a project sha
 
 #### (B) Small community water infrastructure projects
 
-&emsp;&emsp;For a project described in paragraph (2) or (3) of section 3905 of this title that serves a community of not more than 25,000 individuals, the eligible project costs of a project shall be reasonably anticipated to be not less than $5,000,000.
+&emsp;&emsp;For a project described in paragraph (2) or (3) of section 3905 of this title that serves acommunity of not more than 25,000 individuals, the eligible project costs of a project shall be reasonably anticipated to be not less than $5,000,000.
 
 #### (3) Dedicated revenue sources
 
@@ -178,7 +178,7 @@ Subsec. (b)(3). Pub. L. 114–322, §5008(b)(2)(D)(ii), substituted "section 390
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### "Secretary" Defined
 

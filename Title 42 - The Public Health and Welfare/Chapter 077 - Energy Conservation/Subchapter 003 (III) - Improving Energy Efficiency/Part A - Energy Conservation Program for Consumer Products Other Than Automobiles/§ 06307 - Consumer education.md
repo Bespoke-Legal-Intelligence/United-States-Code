@@ -10,7 +10,7 @@ The Secretary shall, in close cooperation and coordination with the Commission a
 
 &emsp;(3) such other matters as the Secretary determines may encourage the conservation of energy in the use of consumer products.
 
-> Such steps to educate consumers may include publications, audiovisual presentations, demonstrations, and the sponsorship of national and regional conferences involving manufacturers, distributors, retailers, and consumers, and State, local, and Federal Government representatives. Nothing in this section may be construed to require the compilation of lists which compare the estimated annual operating costs of consumer products by model or manufacturer's name.
+> Such steps to educate consumers may include publications, audiovisual presentations, demonstrations, and the sponsorship of national and regional conferences involving manufacturers, distributors, retailers, and consumers, and State, local, and Federal Government representatives. Nothing in this section may be construed to require the compilation of lists which compare the estimated annual operating costs ofconsumer products by model or manufacturer's name.
 
 #### (b) State and local incentive programs
 

@@ -72,7 +72,7 @@ Center for Maritime Innovation.—
 
 &emsp;(1)
 
-In general.—The Secretary of Transportation shall, through a cooperative agreement, establish a United States Center for MaritimeInnovation (referred to in this subsection as the "Center") to support the study, research, development, assessment, and deployment of emerging marine technologies and practices related to the maritime transportation system.
+In general.—The Secretary of Transportation shall, through a cooperative agreement, establish a United States Center for Maritime Innovation (referred to in this subsection as the "Center") to support the study, research, development, assessment, and deployment of emerging marine technologies and practices related to the maritime transportation system.
 
 &emsp;(2)
 
@@ -110,7 +110,7 @@ Functions.—The Center shall—
 
 &emsp;&emsp;&emsp;(iv) documentation of best practices in the maritime industry, including training and informational webinars on solutions for the maritime industry; and
 
-&emsp;&emsp;(F) work with academic and private sector response training centers and Domestic Maritime Workforce Training and Education Centers of Excellence to develop maritime strategies applicable to various segments of the United States maritime industry, including the inland, deep water, and coastal fleets.
+&emsp;&emsp;(F) work with academic and private sector response training centers and Domestic Maritime Workforce Training and EducationCenters of Excellence to develop maritime strategies applicable to various segments of the United States maritime industry, including the inland, deep water, and coastal fleets.
 
 (Added Pub. L. 112–213, title IV, §403(a), Dec. 20, 2012, 126 Stat. 1569; amended Pub. L. 116–92, div. C, title XXXV, §3503, Dec. 20, 2019, 133 Stat. 1969; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8504(b), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 117–81, div. C, title XXXV, §3514, Dec. 27, 2021, 135 Stat. 2243; Pub. L. 117–263, div. C, title XXXV, §3543(a), Dec. 23, 2022, 136 Stat. 3098.)
 
@@ -154,7 +154,7 @@ Subsecs. (e), (f). Pub. L. 117–81 added subsec. (e) and redesignated former su
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, §3503(1), substituted "The Secretary of Transportation, acting through the Maritime Administrator, shall engage in the study" for "The Secretary of Transportation may engage in the environmental study".
 
-Subsec. (b). Pub. L. 116–92, §3503(2), in introductory provisions of par. (1), substituted "shall identify, study, evaluate, test, demonstrate, or improve emerging marine technologies and practices to improve—" for "may—" and "environmental performance to meet United States Federal and international standards and guidelines, including—" for "(1) identify, study, evaluate, test, demonstrate, or improve emerging marine technologies and practices that are likely to achieveenvironmental improvements by—", in subpar. (C) of par. (1), substituted "species; or" for "species; and", added subpar. (D) of par. (1), and, in par. (2), substituted "the efficiency and safety of domestic maritime industries." for "coordinate with the Environmental Protection Agency, the Coast Guard, and other Federal, State, local, or tribal agencies, as appropriate."
+Subsec. (b). Pub. L. 116–92, §3503(2), in introductory provisions of par. (1), substituted "shall identify, study, evaluate, test, demonstrate, or improve emerging marine technologies and practices to improve—" for "may—" and "environmental performance to meet United States Federal and international standards and guidelines, including—" for "(1) identify, study, evaluate, test, demonstrate, or improve emerging marine technologies and practices that are likely to achieve environmental improvements by—", in subpar. (C) of par. (1), substituted "species; or" for "species; and", added subpar. (D) of par. (1), and, in par. (2), substituted "the efficiency and safety of domestic maritime industries." for "coordinate with the Environmental Protection Agency, the Coast Guard, and other Federal, State, local, or tribal agencies, as appropriate."
 
 Subsec. (c)(2). Pub. L. 116–92, §3503(3), substituted "or other benefits to domestic maritime industries" for "benefits".
 

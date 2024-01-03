@@ -32,7 +32,7 @@ Subsec. (d). Pub. L. 99–83, §105(b)(1)(C), added subsec. (d).
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–113, §114(a), substituted "$19,000,000 for the fiscal year 1982 and $19,000,000 for the fiscal year 1983" for "$25,000,000 for the fiscal year 1981".
 
-Subsec. (b). Pub. L. 97–113, §114(b), increased to $15,000,000 from $10,000,000 amount of funds authorized to be transferred in any fiscal year and deleted restriction on transfer of earmarked funds.
+Subsec. (b). Pub. L. 97–113, §114(b), increased to $15,000,000 from $10,000,000 amount of funds authorizedto be transferred in any fiscal year and deleted restriction on transfer of earmarked funds.
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–533 substituted "$25,000,000 for the fiscal year 1981" for "$21,100,000 for the fiscal year 1980".
 
@@ -50,5 +50,5 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

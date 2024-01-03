@@ -14,7 +14,7 @@
 
 #### (1) On original quantity
 
-&emsp;Where there is evidence satisfactory to the Secretary that there has been any loss of distilled spirits from any cask or other package deposited on bonded premises, other than a loss which by reason of section 5008(a) is not taxable, the Secretary may require the withdrawal from bonded premises of such distilled spirits, and direct the officer designated by him to collect the tax accrued on the original quantity of distilled spirits entered for depositon bonded premises in such cask or package; except that, under regulations prescribed by the Secretary, when the extent of any loss from causes other than theft or unauthorized voluntary destruction can be established by the proprietor to the satisfaction of the Secretary an allowance of the tax on the loss so established may be credited against the tax on the original quantity. If such tax is not paid on demand it shall be assessed and collected as other taxes are assessed and collected.
+&emsp;Where there is evidence satisfactory to the Secretary that there has been any loss of distilled spirits from any cask or other package deposited on bonded premises, other than a loss which by reason of section 5008(a) is not taxable, the Secretary may require the withdrawal from bonded premises of such distilled spirits, and direct the officer designated by him to collect the tax accrued on the original quantity of distilled spirits entered for deposit on bonded premises in such cask or package; except that, under regulations prescribed by the Secretary, when the extent of any loss from causes other than theft or unauthorized voluntary destruction can be established by the proprietor to the satisfaction of the Secretary an allowance of the tax on the loss so established may be credited against the tax on the original quantity. If such tax is not paid on demand it shall be assessed and collected as other taxes are assessed and collected.
 
 #### (2) Alternative method
 
@@ -54,7 +54,7 @@ Provisions similar to those comprising subsecs. (a)(2)(A), (3) of this section w
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a)(1). Pub. L. 96–39, §804(a), struck out "internal revenue" after "provided in this section, the" and "storage, gauging, and bottling" after "but not limited to".
+<b>1979</b>—Subsec. (a)(1). Pub. L. 96–39, §804(a), struck out "internal revenue" after "provided in this section, the"and "storage, gauging, and bottling" after "but not limited to".
 
 Subsec. (a)(2), (3). Pub. L. 96–39, §804(a), redesignated par. (3) as (2). Former par. (2), relating to distilled spirits entered for storage, was struck out.
 
@@ -80,7 +80,7 @@ Pub. L. 85–859, title II, §206(f), Sept. 2, 1958, 72 Stat. 1431, as amended b
 
 &emsp;"(B) distilled spirits which after the date of the enactment of this Act \[Sept. 2, 1958\] are entered for deposit in an internal revenue bonded warehouse.
 
-"(2) If the 8 years from the date of original entry of any distilled spirits for deposit in internal revenue bonded warehouses expires at any time during the 10-day period which begins on the date of the enactment of this Act \[Sept. 2, 1958\], the amendments made by this section shall apply with respect to such spirits if (andonly if) before the close of such 10-day period there is filed with the Secretary of the Treasury or his delegate either—
+"(2) If the 8 years from the date of original entry of any distilled spirits for deposit in internal revenue bonded warehouses expires at any time during the 10-day period which begins on the date of the enactment of this Act \[Sept. 2, 1958\], the amendments made by this section shall apply with respect to such spirits if (and only if) before the close of such 10-day period there is filed with the Secretary of the Treasury or his delegate either—
 
 &emsp;"(A) a consent of surety which changes (for periods on and after the date of the enactment of this Act) the condition based on the withdrawal of spirits from the internal revenue bonded warehouse within 8 years from the date of original entry for deposit to a condition based on the withdrawal of spirits from the internal revenue bonded warehouse within 20 years from the date of original entry for deposit, or
 

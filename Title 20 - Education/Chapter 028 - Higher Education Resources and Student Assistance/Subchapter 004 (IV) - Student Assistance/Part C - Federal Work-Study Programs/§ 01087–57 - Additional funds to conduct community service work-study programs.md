@@ -60,5 +60,5 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 #### Effective Date
 
-Section applicable to periods of enrollment beginning on or after July 1, 1987, see section 403(b)(2) of Pub. L. 99–498, set out as a note under section 1087–53 of this title.
+Section applicable to periods of enrollment beginning on or after July 1, 1987, see section 403(b)(2) of Pub. L.99–498, set out as a note under section 1087–53 of this title.
 

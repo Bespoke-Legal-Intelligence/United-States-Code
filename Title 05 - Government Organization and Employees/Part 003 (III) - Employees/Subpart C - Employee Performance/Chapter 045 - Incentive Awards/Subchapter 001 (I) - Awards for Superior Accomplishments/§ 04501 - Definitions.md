@@ -108,7 +108,7 @@ Section 1. <i>Statement of Presidential Principles.</i>
 
 Government corporations subject to this order should not pay bonuses in excess of those authorized by sections 4501 through 4507 of title 5, United States Code, except as otherwise specifically provided by law.
 
-Sec. 2. <i>Administration Review</i>. (a) Before taking action to approve any bonus in excess of those authorized in section 4502 of title 5, United States Code, each corporation subject to this section (as provided in section 6 of this order) shall submit information to the Director of the Office of Management and Budget (OMB) relating to such bonuses as provided in subsection (b). Such corporation shall refrain from approving any such bonus until the Director of OMB has had an opportunity to review the information provided by the corporation.
+Sec. 2. <i>Administration Review</i>. (a) Before taking action to approve any bonus in excess of those authorized in section 4502 of title 5, United States Code, each corporation subject to this section (as provided in section6 of this order) shall submit information to the Director of the Office of Management and Budget (OMB) relating to such bonuses as provided in subsection (b). Such corporation shall refrain from approving any such bonus until the Director of OMB has had an opportunity to review the information provided by the corporation.
 
 (b) The Director of OMB shall issue instructions to the corporations subject to this section specifying when information is to be submitted, and the content and form of such information.
 

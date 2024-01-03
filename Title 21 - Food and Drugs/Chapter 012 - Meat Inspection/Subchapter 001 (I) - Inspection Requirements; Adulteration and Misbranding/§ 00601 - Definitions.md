@@ -36,7 +36,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(C) if it bears or contains any food additive which is unsafe within the meaning of section 348 of this title,
 
-&emsp;(D) if it bears or contains any color additive which is unsafe within the meaning of section 379e of this title: <i>Provided</i>, That an articlewhich is not adulterated under clause (B), (C), or (D) shall nevertheless be deemed adulterated if use of the pesticide chemical, food additive, or color additive in or on such article is prohibited by regulations of the Secretary in establishments at which inspection is maintained under this subchapter;
+&emsp;(D) if it bears or contains any color additive which is unsafe within the meaning of section 379e of this title: <i>Provided</i>, That an article which is not adulterated under clause (B), (C), or (D) shall nevertheless be deemed adulterated if use of the pesticide chemical, food additive, or color additive in or on such article is prohibited by regulations of the Secretary in establishments at which inspection is maintained under this subchapter;
 
 &emsp;(3) if it consists in whole or in part of any filthy, putrid, or decomposed substance or is for any other reason unsound, unhealthful, unwholesome, or otherwise unfit for human food;
 
@@ -70,7 +70,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(8) if it purports to be or is represented as a food for which a standard or standards of fill of container have been prescribed by regulations of the Secretary under section 607 of this title, and it falls below the standard of fill of container applicable thereto, unless its label bears, in such manner and form as such regulations specify, a statement that it falls below such standard;
 
-&emsp;(9) if it is not subject to the provisions of subparagraph (7), unless its label bears (A) the common or usual name of the food, if any there be, and (B) in case it is fabricated from two or more ingredients, the common or usual name of each such ingredient; except that spices, flavorings, and colorings may, when authorized by the Secretary, be designated as spices, flavorings, and colorings without naming each: <i>Provided</i>, That to the extent that compliance with the requirements of clause (B) of this subparagraph (9) is impracticable, or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary;
+&emsp;(9) if it is not subject to the provisions of subparagraph (7), unless its label bears (A) the common or usual name of the food, if anythere be, and (B) in case it is fabricated from two or more ingredients, the common or usual name of each such ingredient; except that spices, flavorings, and colorings may, when authorized by the Secretary, be designated as spices, flavorings, and colorings without naming each: <i>Provided</i>, That to the extent that compliance with the requirements of clause (B) of this subparagraph (9) is impracticable, or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary;
 
 &emsp;(10) if it purports to be or is represented for special dietary uses, unless its label bears such information concerning its vitamin, mineral, and other dietary properties as the Secretary, after consultation with the Secretary of Health and Human Services, determines to be, and by regulations prescribes as, necessary in order fully to inform purchasers as to its value for such uses;
 
@@ -136,7 +136,7 @@ Pub. L. 113–79, title XII, §12106(c), Feb. 7, 2014, 128 Stat. 982, provided t
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Pub. L. 110–234, title XI, §11016(b)(2)(A), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, §4(a), title XI, §11016(b)(2)(A), June 18, 2008, 122 Stat. 1664, 2131, provided that the amendments made by section 11016(b)(1) of Pub. L. 110–234 and section 11016(b)(1) of Pub. L. 110–246 (enacting sections 606 and 625 of this title, amending this section, and repealing former section 606 of this title) would not apply until the date on which the Secretary of Agriculture issued final regulations to carry out such amendments, prior to repeal by Pub. L. 113–79, title XII, §12106(b)(4), Feb. 7, 2014, 128 Stat. 981, effective as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 2130), see Effective Date of 2014 Amendment note above.
 
@@ -150,7 +150,7 @@ Pub. L. 109–97, title VII, §798(b), Nov. 10, 2005, 119 Stat. 2166, provided t
 
 Pub. L. 90–201, §20, Dec. 15, 1967, 81 Stat. 601, provided that: "This Act \[see Short Title note below\] shall become effective upon enactment \[Dec. 15, 1967\] except as provided in paragraphs (a) through (d):
 
-"(a) The provisions of paragraph (b)(1) and (c) of section 10 and the provisions of section 20 of the Federal Meat Inspection Act, as amended by sections 7 and 10 of this Act \[sections 610 and 620 of this title\], and the provisions of section 18 of this Act repealing paragraph\(b) of section 306 of the Tariff Act of 1930 \[section 1306(b) of Title 19, Customs Duties\], shall become effective upon the expiration of sixty days after enactment \[Dec. 15, 1967\], hereof.
+"(a) The provisions of paragraph (b)(1) and (c) of section 10 and the provisions of section 20 of the Federal Meat Inspection Act, as amended by sections 7 and 10 of this Act \[sections 610 and 620 of this title\], and the provisions of section 18 of this Act repealing paragraph (b) of section 306 of the Tariff Act of 1930 \[section 1306(b) of Title 19, Customs Duties\], shall become effective upon the expiration of sixty days after enactment \[Dec. 15, 1967\], hereof.
 
 "(b) The provisions of title I of the Federal Meat Inspection Act, as amended by this Act \[this subchapter\], shall become effective with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof upon the expiration of sixty days after enactment \[Dec. 15, 1967\] hereof.
 

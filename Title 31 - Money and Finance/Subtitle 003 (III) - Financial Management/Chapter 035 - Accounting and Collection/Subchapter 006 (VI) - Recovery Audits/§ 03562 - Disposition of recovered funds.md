@@ -12,7 +12,7 @@ Availability of Funds for Recovery Audits and Activities Program.—Funds collec
 
 #### Amendments
 
-<b>2020</b>—Subsec. (a). Pub. L. 116–117 substituted "section 3352(i)" for "section 3561" and "agency to reimburse"for "agency for the following purposes: (1) To reimburse" and struck out par. (2) which read as follows: "To pay contractors for services under the program in accordance with the guidance issued under section 3561(c)(5) of this title."
+<b>2020</b>—Subsec. (a). Pub. L. 116–117 substituted "section 3352(i)" for "section 3561" and "agency to reimburse" for "agency for the following purposes: (1) To reimburse" and struck out par. (2) which read as follows: "To pay contractors for services under the program in accordance with the guidance issued under section 3561(c)(5) of this title."
 
 <b>2010</b>—Pub. L. 111–204 repealed section but provided that subsec. (a) was to continue in effect, with certain exceptions related to programs carried out under section 3561 of this title. Prior to amendment, in addition to subsec. (a), section contained subsecs. (b) and (c) which related to treatment of funds not used for programs under section 3561 of this title and priority of other authorized dispositions, respectively.
 

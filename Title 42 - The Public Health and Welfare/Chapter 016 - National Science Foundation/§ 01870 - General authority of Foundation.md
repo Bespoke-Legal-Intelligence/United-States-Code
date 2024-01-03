@@ -46,7 +46,7 @@ In subsec. (g), "section 501 of title 44" substituted for "section 87 of the Act
 
 <b>2022</b>—Subsec. (l). Pub. L. 117–167 added subsec. (l).
 
-<b>2007</b>—Subsec. (f). Pub. L. 110–69 inserted before semicolon at end ", except that funds may be donated for specific prize competitions for 'basic research' as defined in the Office of Management and Budget Circular No. A–11".
+<b>2007</b>—Subsec. (f). Pub. L. 110–69 inserted before semicolon at end ", except that funds may be donated forspecific prize competitions for 'basic research' as defined in the Office of Management and Budget Circular No. A–11".
 
 <b>1986</b>—Subsec. (k). Pub. L. 99–383 added subsec. (k).
 

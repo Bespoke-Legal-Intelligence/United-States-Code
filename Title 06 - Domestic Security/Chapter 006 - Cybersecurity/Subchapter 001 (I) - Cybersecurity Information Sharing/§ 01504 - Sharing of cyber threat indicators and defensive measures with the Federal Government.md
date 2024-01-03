@@ -96,7 +96,7 @@
 
 &emsp;&emsp;(E) include procedures for notifying entities and Federal entities if information received pursuant to this section is known or determined by a Federal entity receiving such information not to constitute a cyber threat indicator;
 
-&emsp;&emsp;(F) protect the confidentiality of cyber threat indicators containing personal information of specific individuals or information that identifies specific individuals to thegreatest extent practicable and require recipients to be informed that such indicators may only be used for purposes authorized under this subchapter; and
+&emsp;&emsp;(F) protect the confidentiality of cyber threat indicators containing personal information of specific individuals or information that identifies specific individuals to the greatest extent practicable and require recipients to be informed that such indicators may only be used for purposes authorized under this subchapter; and
 
 &emsp;&emsp;(G) include steps that may be needed so that dissemination of cyber threat indicators is consistent with the protection of classified and other sensitive national security information.
 
@@ -150,7 +150,7 @@
 
 #### (ii) Application to additional capability and process
 
-&emsp;&emsp;&emsp;If the President designates an appropriate Federal entity to develop and implement a capability and process under clause (i), the provisions of this subchapter that apply to the capability and process required by paragraph (1) shall also be construed to apply to the capability and process developed and implemented under clause (i).
+&emsp;&emsp;&emsp;If the President designates an appropriate Federal entity to develop and implement a capability and process under clause\(i), the provisions of this subchapter that apply to the capability and process required by paragraph (1) shall also be construed to apply to the capability and process developed and implemented under clause (i).
 
 #### (3) Public notice and access
 
@@ -238,7 +238,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), cyber threat indicators and defensive measures provided to the Federal Government under this subchapter shall not be used by anyFederal, State, tribal, or local government to regulate, including an enforcement action, the lawful activities of any non-Federal entity or any activities taken by a non-Federal entity pursuant to mandatory standards, including activities relating to monitoring, operating defensive measures, or sharing cyber threat indicators.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), cyber threat indicators and defensive measures provided to the Federal Government under this subchapter shall not be used by any Federal, State, tribal, or local government to regulate, including an enforcement action, the lawful activities of any non-Federal entity or any activities taken by a non-Federal entity pursuant to mandatory standards, including activities relating to monitoring, operating defensive measures, or sharing cyber threat indicators.
 
 #### (ii) Exceptions
 

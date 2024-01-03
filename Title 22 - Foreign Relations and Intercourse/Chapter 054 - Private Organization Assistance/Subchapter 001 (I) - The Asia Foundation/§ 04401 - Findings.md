@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) The Asia Foundation's commitment to strengthening indigenous Asian institutions which further stable national development, constructive social change, equitable economic growth, and cooperative international relationships is fully consistent with and supportive of long-term United States interests in Asia;
 
-&emsp;(3) The Asia Foundation, as a private organization, is able to conduct programs in response to Asian initiatives that would be difficult or impossible for an official United States instrumentality, and it is in a positionin Asia to respond quickly and flexibly to meet new opportunities;
+&emsp;(3) The Asia Foundation, as a private organization, is able to conduct programs in response to Asian initiatives that would be difficult or impossible for an official United States instrumentality, and it is in a position in Asia to respond quickly and flexibly to meet new opportunities;
 
 &emsp;(4) in recognition of the valuable contributions of The Asia Foundation to long-range United States foreign policy interests, the United States Government has, through a variety of agencies, provided financial support for The Asia Foundation; and
 

@@ -4,7 +4,7 @@
 
 General Authority.—(1) The National Transportation Safety Board, and when authorized by it, a member of the Board, an administrative law judge employed by or assigned to the Board, or an officer or employee designated by the Chairman of the Board, may conduct hearings to carry out this chapter, administer oaths, and require, by subpoena or otherwise, necessary witnesses and evidence.
 
-(2) A witness or evidence in a hearing under paragraph (1) of this subsection may be summoned or required to be produced from any place in the United States to the designated place of the hearing. A witness summoned underthis subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
+(2) A witness or evidence in a hearing under paragraph (1) of this subsection may be summoned or required to be produced from any place in the United States to the designated place of the hearing. A witness summoned under this subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
 
 (3) A subpoena shall be issued under the signature of the Chairman or the Chairman's delegate but may be served by any person designated by the Chairman.
 
@@ -226,7 +226,7 @@ In General.—The National Transportation Safety Board may enter into agreements
 
 "(b)
 
-Report on Usage.—On July 1 of each year, as part of the annual report required by section 1117 of title 49, United States Code, the National Transportation Safety Board shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure, the House of Representatives Committee on Government Reform \[now Committee on Oversight and Reform\], the Senate Committee on Commerce, Science, and Transportation, and the Senate Committee on Governmental Affairs that—
+Report on Usage.—On July 1 of each year, as part of the annual report required by section 1117 of title 49, United States Code, the National Transportation Safety Board shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure, the House of Representatives Committee on Government Reform \[now Committee on Oversight and Accountability\], the Senate Committee on Commerce, Science, and Transportation, and the Senate Committee on Governmental Affairs that—
 
 &emsp;"(1) describes each contract executed by the Board to which the authority provided by subsection (a) was applied; and
 

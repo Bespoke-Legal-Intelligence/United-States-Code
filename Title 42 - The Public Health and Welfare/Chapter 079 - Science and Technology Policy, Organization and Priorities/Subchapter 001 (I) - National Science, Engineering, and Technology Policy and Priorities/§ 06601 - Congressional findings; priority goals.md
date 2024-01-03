@@ -284,7 +284,7 @@ National Academies Science, Technology and Security Roundtable.—
 
 &emsp;"(1)
 
-In general.—The National Science Foundation, the Department of Energy, and the Departmentof Defense, and any other agencies as determined by the Director of the Office of Science and Technology Policy, shall enter into a joint agreement with the Academies to create a new 'National Science, Technology, and Security Roundtable' (hereinafter in this subsection referred to as the 'roundtable').
+In general.—The National Science Foundation, the Department of Energy, and the Department of Defense, and any other agencies as determined by the Director of the Office of Science and Technology Policy, shall enter into a joint agreement with the Academies to create a new 'National Science, Technology, and Security Roundtable' (hereinafter in this subsection referred to as the 'roundtable').
 
 &emsp;"(2)
 
@@ -354,7 +354,7 @@ High-energy Physics.—
 
 &emsp;"(1)
 
-In general.—The Physical Science Subcommittee of the National Science and Technology Council (referred to in this section as 'Subcommittee') shall continue to coordinate Federal efforts related to high-energy physics research to maximize the efficiency and effectiveness of United States investment in high-energy physics.
+In general.—The Physical Science Subcommittee of the National Science and TechnologyCouncil (referred to in this section as 'Subcommittee') shall continue to coordinate Federal efforts related to high-energy physics research to maximize the efficiency and effectiveness of United States investment in high-energy physics.
 
 &emsp;"(2)
 
@@ -468,7 +468,7 @@ Sec. 8. This Order shall be effective on February 26, 1978.
 
 #### Executive Order No. 12700
 
-Ex. Ord. No. 12700, Jan. 19, 1990, 55 F.R. 2219, as amended by Ex. Ord. No. 12768, June 28, 1991, 56 F.R. 30302, which established the President's Council of Advisors on Science and Technology and provided for its functions, administration, and termination on June 30,1993, was revoked by section 4(c) of Ex. Ord. No. 12882, §4(c), Nov. 23, 1993, 58 F.R. 62493. Ex. Ord. No. 12869, Sept. 30, 1993, §2, 58 F.R. 51751, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees, which reestablished the President's Council of Advisors on Science and Technology in accordance with the provisions of Ex. Ord. No. 12700 and extended its term until Sept. 30, 1995, was also revoked by Ex. Ord. 12882, §4(c).
+Ex. Ord. No. 12700, Jan. 19, 1990, 55 F.R. 2219, as amended by Ex. Ord. No. 12768, June 28, 1991, 56 F.R. 30302, which established the President's Council of Advisors on Science and Technology and provided for its functions, administration, and termination on June 30, 1993, was revoked by section 4(c) of Ex. Ord. No. 12882, §4(c), Nov. 23, 1993, 58 F.R. 62493. Ex. Ord. No. 12869, Sept. 30, 1993, §2, 58 F.R. 51751, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees, which reestablished the President's Council of Advisors on Science and Technology in accordance with the provisions of Ex. Ord. No. 12700 and extended its term until Sept. 30, 1995, was also revoked by Ex. Ord. 12882, §4(c).
 
 #### Ex. Ord. No. 12881. Establishment of National Science and Technology Council
 
@@ -602,7 +602,7 @@ Sec. 3. <i>Membership.</i>
 
 (a) The Commission shall be an expert panel composed of not more than 13 members appointed by the President, drawn from the fields of bioethics, science, medicine, technology, engineering, law, philosophy, theology, or other areas of the humanities or social sciences, at least one and not more than three of whom may be bioethicists or scientists drawn from the executive branch, as designated by the President.
 
-(b) The President shall designate a Chair and Vice Chair from among the members of the Commission. The Chair shall convene and preside at meetings of the Commission, determine its agenda, and direct its work. The Vice Chair shall perform the duties of the Chair in the absence or disability of the Chair and shall perform such other functions as the Chair may from time to time assign.
+(b) The President shall designate a Chair and Vice Chair from among the members of the Commission.The Chair shall convene and preside at meetings of the Commission, determine its agenda, and direct its work. The Vice Chair shall perform the duties of the Chair in the absence or disability of the Chair and shall perform such other functions as the Chair may from time to time assign.
 
 (c) Members shall serve for a term of 2 years and shall be eligible for reappointment. Members may continue to serve after the expiration of their terms until the appointment of a successor.
 
@@ -648,7 +648,7 @@ Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 
 
 #### Executive Order No. 13539
 
-Ex. Ord. No. 13539, Apr. 21, 2010, 75 F.R. 21973, as amended by Ex. Ord. No. 13596, §2, Dec. 19, 2011, 76 F.R.80725, which established the President's Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13895, §7, Oct. 22, 2019, 84 F.R. 57311, formerly set out below.
+Ex. Ord. No. 13539, Apr. 21, 2010, 75 F.R. 21973, as amended by Ex. Ord. No. 13596, §2, Dec. 19, 2011, 76 F.R. 80725, which established the President's Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13895, §7, Oct. 22, 2019, 84 F.R. 57311, formerly set out below.
 
 #### Extension of Term of President's Council of Advisors on Science and Technology
 
@@ -704,7 +704,7 @@ Sec. 4. <i>Federal Investment in AI Research and Development.</i>
 
 (b) Heads of AI R\&D agencies shall budget an amount for AI R\&D that is appropriate for this prioritization.
 
-(i) Following the submission of the President's Budget request to the Congress, heads of such agencies shallcommunicate plans for achieving this prioritization to the OMB Director and the OSTP Director each fiscal year through the Networking and Information Technology Research and Development (NITRD) Program.
+(i) Following the submission of the President's Budget request to the Congress, heads of such agencies shall communicate plans for achieving this prioritization to the OMB Director and the OSTP Director each fiscal year through the Networking and Information Technology Research and Development (NITRD) Program.
 
 (ii) Within 90 days of the enactment of appropriations for their respective agencies, heads of such agencies shall identify each year, consistent with applicable law, the programs to which the AI R\&D priority will apply and estimate the total amount of such funds that will be spent on each such program. This information shall be communicated to the OMB Director and OSTP Director each fiscal year through the NITRD Program.
 
@@ -880,7 +880,11 @@ J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Council of Advisors on Science and Technology
 
-Term of President's Council of Advisors on Science and Technology (established by Ex. Ord. No. 14007) extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of President's Council of Advisors on Science and Technology (established by Ex. Ord. No. 14007) extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+
+Previous extension of term of President's Council of Advisors on Science and Technology (established by Ex. Ord. No. 14007) was contained in the following prior Executive Order:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 #### Strengthened Protections for Human Subjects of Classified Research
 
@@ -1012,7 +1016,7 @@ Sec. 4. <i>Publication of Scientific-Integrity Policies and Ongoing Biennial Rep
 
 Sec. 5. <i>Evidence-Based Policymaking</i>. (a) Heads of agencies shall ensure that the scientific-integrity policies of their agencies consider, supplement, and support their plans for forming evidence-based policies, including the evidence-building plans required by 5 U.S.C. 312(a) and the annual evaluation plans required by 5 U.S.C. 312(b).
 
-(b) Within 120 days of the date of this memorandum, after consultation with the Director, the Director of the Office of Management and Budget (OMB) shall issue guidance to improve agencies' evidence-building plans and annual evaluation plans. Specifically, the Director of OMB shall consider whether, consistent with, and building upon, Executive Order 13707 of September 15, 2015 (Using Behavioral Science Insights to Better Serve the American People) \[5 U.S.C. 601 note\], agencies' evidence-building plans and annual evaluation plans shall include a broad set of methodological approaches for the evidence-based and iterative development and the equitable delivery of policies, programs, and agency operations. Relevant approaches might include use of pilot projects, randomized control trials, quantitative-survey research and statistical analysis, qualitative research, ethnography, research based on data linkages in which records from two or more datasets that refer to the same entity are joined, well-established processes for community engagement and inclusion in research, and other approaches that may be informed by the social and behavioral sciences and data science.
+(b) Within 120 days of the date of this memorandum, after consultation with the Director, the Director of the Office of Management and Budget (OMB) shall issue guidance to improve agencies' evidence-building plans and annual evaluation plans. Specifically, the Director of OMB shall consider whether, consistent with, andbuilding upon, Executive Order 13707 of September 15, 2015 (Using Behavioral Science Insights to Better Serve the American People) \[5 U.S.C. 601 note\], agencies' evidence-building plans and annual evaluation plans shall include a broad set of methodological approaches for the evidence-based and iterative development and the equitable delivery of policies, programs, and agency operations. Relevant approaches might include use of pilot projects, randomized control trials, quantitative-survey research and statistical analysis, qualitative research, ethnography, research based on data linkages in which records from two or more datasets that refer to the same entity are joined, well-established processes for community engagement and inclusion in research, and other approaches that may be informed by the social and behavioral sciences and data science.
 
 (c) The statutory positions required to be designated by agencies by the Foundations for Evidence-Based Policymaking Act of 2018 (Public Law 115–435) \[see Tables for classification\], which include the Evaluation Officer, the Chief Data Officer, and a senior statistical official, shall incorporate scientific-integrity principles consistent with this memorandum into agencies' data governance and evaluation approaches. Similarly, the Chief Data Officers Council shall incorporate scientific-integrity principles consistent with this memorandum into its efforts to establish government-wide best practices for the use, protection, dissemination, and generation of data, and both the Chief Data Officers Council and the Evaluation Officer Council shall identify ways in which agencies can improve upon the production of evidence for use in policymaking.
 

@@ -150,7 +150,7 @@ Subsec. (e)(2). Pub. L. 114–328, §804(d)(2), substituted "authorized appropri
 
 Subsec. (f)(1). Pub. L. 114–328, §804(e), substituted "Secretary of a military department, or the Secretary of Defense with respect to Defense-wide appropriations accounts," for "Secretary of Defense".
 
-Subsec. (g). Pub. L. 114–328, §804(f), struck out "in accordance with the provisions of appropriations Acts" after "subsection (d)" and inserted at end "Funds deposited in the Defense Modernization Account shall remain available for obligation until the end of the thirdfiscal year that follows the fiscal year in which the amounts are deposited in the account."
+Subsec. (g). Pub. L. 114–328, §804(f), struck out "in accordance with the provisions of appropriations Acts" after "subsection (d)" and inserted at end "Funds deposited in the Defense Modernization Account shall remain available for obligation until the end of the third fiscal year that follows the fiscal year in which the amounts are deposited in the account."
 
 Subsec. (h)(2)(A), (B). Pub. L. 114–328, §804(g)(1), (2), added subpar. (A) and redesignated former subpar. (A) as (B). Former subpar. (B) redesignated (C).
 
@@ -195,12 +195,6 @@ Subsec. (k). Pub. L. 108–136, §1008(f)(1), added subsec. (k).
 <b>1999</b>—Subsec. (j)(3)(B). Pub. L. 106–65 substituted "Committee on Armed Services" for "Committee on National Security".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
-
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2021 Amendment
 

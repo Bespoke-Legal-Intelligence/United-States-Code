@@ -26,7 +26,7 @@ The report required by subsection (a) shall include the following:
 
 &emsp;(9) An identification of any capability or resource gaps that would affect the implementation of the strategy described in subsection (a), and a mitigation plan to address such gaps.
 
-&emsp;(10) An assessment of current and desired partner contributions to countering threats from North Korea, and a plan to enhance cooperation among countries with shared security interests with respect to North Korea.
+&emsp;(10) An assessment of current and desired partner contributions to countering threatsfrom North Korea, and a plan to enhance cooperation among countries with shared security interests with respect to North Korea.
 
 &emsp;(11) Any other matters the President considers appropriate.
 

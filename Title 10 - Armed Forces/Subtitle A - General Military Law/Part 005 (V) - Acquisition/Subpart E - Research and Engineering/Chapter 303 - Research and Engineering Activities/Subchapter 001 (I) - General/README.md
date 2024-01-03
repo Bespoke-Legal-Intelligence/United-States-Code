@@ -146,7 +146,7 @@ Notice Required.—Not later than 15 days before the date on which the Under Sec
 
 #### Joint Artificial Intelligence Research, Development, and Transition Activities
 
-Pub. L. 115–232, div. A, title II, §238, Aug. 13, 2018, 132 Stat. 1695, as amended by Pub. L. 116–92, div. A, title II, §221, Dec. 20, 2019, 133 Stat. 1261; Pub. L. 116–283, div. A, title II, §232, Jan. 1, 2021, 134 Stat. 3480; Pub. L. 117–263, div. A, title II, §212(l), Dec. 23, 2022, 136 Stat. 2470, provided that:
+Pub. L. 115–232, div. A, title II, §238, Aug. 13, 2018, 132 Stat. 1695, as amended by Pub. L. 116–92, div. A, title II, §221, Dec. 20, 2019, 133 Stat. 1261; Pub. L. 116–283, div. A, title II, §232, Jan. 1, 2021, 134 Stat. 3480; Pub. L. 117–263, div. A, title II, §212(l), Dec. 23, 2022, 136 Stat. 2470; Pub. L. 118–31, div. A, title XV, §1521(b), Dec. 22, 2023, 137 Stat. 551, provided that:
 
 "(a)
 
@@ -248,13 +248,69 @@ Acceleration of acquisition, development and fielding of artificial intelligence
 
 &emsp;"(3)
 
-Governance and oversight of artificial intelligence and machine learning policy.—Regularly convening appropriate officials across the Department—
+Chief digital and artificial intelligence officer governing council.—
 
-&emsp;&emsp;"(A) to integrate the functional activities of the organizations and elements of the Department withrespect to artificial intelligence and machine learning;
+&emsp;&emsp;"(A)
 
-&emsp;&emsp;"(B) to ensure there are efficient and effective artificial intelligence and machine learning capabilities throughout the Department; and
+Establishment.—The Secretary shall establish a council to provide policy oversight to ensure the responsible, coordinated, and ethical employment of data and artificial intelligence capabilities across Department of Defense missions and operations. Such council shall be known as the 'Chief Digital and Artificial Intelligence Officer Governing Council' (in this paragraph referred to as the 'Council').
 
-&emsp;&emsp;"(C) to develop and continuously improve research, innovation, policy, joint processes, and procedures to facilitate the development, acquisition, integration, advancement, oversight, and sustainment of artificial intelligence and machine learning throughout the Department.
+&emsp;&emsp;"(B)
+
+Membership.—The Council shall be composed of the following:
+
+&emsp;&emsp;&emsp;"(i) Joint Staff J–6.
+
+&emsp;&emsp;&emsp;"(ii) The Under Secretary of Defense for Acquisition and Sustainment.
+
+&emsp;&emsp;&emsp;"(iii) The Under Secretary of Defense for Research and Evaluation.
+
+&emsp;&emsp;&emsp;"(iv) The Under Secretary of Defense for Intelligence and Security.
+
+&emsp;&emsp;&emsp;"(v) The Under Secretary of Defense for Policy.
+
+&emsp;&emsp;&emsp;"(vi) The Director of Cost Analysis and Program Evaluation.
+
+&emsp;&emsp;&emsp;"(vii) The Chief Information Officer of the Department.
+
+&emsp;&emsp;&emsp;"(viii) The Director of Administration and Management.
+
+&emsp;&emsp;&emsp;"(ix) The service acquisition executives of each of the military departments.
+
+&emsp;&emsp;"(C)
+
+Head of council.—The Council shall be headed by the Chief Digital and Artificial Intelligence Officer of the Department.
+
+&emsp;&emsp;"(D)
+
+Meetings.—The Council shall meet not less frequently than twice each fiscal year.
+
+&emsp;&emsp;"(E)
+
+Duties of council.—The duties of the Council are as follows:
+
+&emsp;&emsp;&emsp;"(i) To streamline the organizational structure of the Department as such structure relates to the development, implementation, and oversight of artificial intelligence.
+
+&emsp;&emsp;&emsp;"(ii) To improve coordination on artificial intelligence governance with the defense industry sector.
+
+&emsp;&emsp;&emsp;"(iii) To issue and oversee guidance on ethical requirements and protections for the use of artificial intelligence supported by Department funding and the reduction or mitigation of instances of unintended bias in artificial intelligence algorithms.
+
+&emsp;&emsp;&emsp;"(iv) To identify, monitor, and periodically update appropriate recommendations for the operational use of artificial intelligence.
+
+&emsp;&emsp;&emsp;"(v) To review, to the extent the head of the Council considers necessary, artificial intelligence program funding, to ensure that any investment by the Department in an artificial intelligence tool, system, or algorithm adheres to each applicable policy of the Department relating to artificial intelligence.
+
+&emsp;&emsp;&emsp;"(vi) To provide periodic status updates on the efforts of the Department to develop and implement artificial intelligence into existing Department programs and processes.
+
+&emsp;&emsp;&emsp;"(vii) To issue guidance on access and distribution restrictions relating to data, models, tool sets, or testing or validation infrastructure.
+
+&emsp;&emsp;&emsp;"(viii) To implement and oversee an educational program on data and artificial intelligence, for the purpose of familiarizing personnel Department-wide on the applications of artificial intelligence within the respective operations of such personnel.
+
+&emsp;&emsp;&emsp;"(ix) To implement and oversee a scorecard to assess data decrees of the Department.
+
+&emsp;&emsp;&emsp;"(x) Such other duties as the Council determines appropriate.
+
+&emsp;&emsp;"(F)
+
+Periodic reports.—Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 \[Dec. 22, 2023\], and not less frequently than once every 18months thereafter, the Council shall submit to the Secretary and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the activities of the Council during the period covered by the report.
 
 "(e)
 
@@ -368,7 +424,7 @@ Coordination.—In carrying out this section, the Secretary shall consider coord
 
 #### Hypersonics Development
 
-Pub. L. 109–364, div. A, title II, §218, Oct. 17, 2006, 120 Stat. 2126, as amended by Pub. L. 112–81, div. A, title II, §241, Dec. 31, 2011, 125 Stat. 1343; Pub. L. 114–92, div. A,title X, §1079(f), Nov. 25, 2015, 129 Stat. 999; Pub. L. 115–91, div. A, title II, §214(b), Dec. 12, 2017, 131 Stat. 1325; Pub. L. 116–92, div. A, title II, §216, Dec. 20, 2019, 133 Stat. 1257; Pub. L. 116–283, div. A, title II, §217(e), Jan. 1, 2021, 134 Stat. 3462, provided that:
+Pub. L. 109–364, div. A, title II, §218, Oct. 17, 2006, 120 Stat. 2126, as amended by Pub. L. 112–81, div. A, title II, §241, Dec. 31, 2011, 125 Stat. 1343; Pub. L. 114–92, div. A, title X, §1079(f), Nov. 25, 2015, 129 Stat. 999; Pub. L. 115–91, div. A, title II, §214(b), Dec. 12, 2017, 131 Stat. 1325; Pub. L. 116–92, div. A, title II, §216, Dec. 20, 2019, 133 Stat. 1257; Pub. L. 116–283, div. A, title II, §217(e), Jan. 1, 2021, 134 Stat. 3462, provided that:
 
 "(a)
 
@@ -454,9 +510,9 @@ Department of Defense Facilities Authority.—(1) If the Secretary determines th
 
 "(B) The facility project may be carried out only after the end of the 21-day period beginning on the date the notification is received by the congressional defense committees.
 
-"(4) If the Secretary determines: (A) that the facility is vital to national security or to the protection of health, safety, or the quality of the environment; and (B) the requirement for the facility is so urgent that the advance notification in paragraph (3) and the subsequent 21-day deferral of the facility project would threaten the life, health, or safety of personnel, orwould otherwise jeopardize national security, the Secretary may obligate funds for the facility and notify the congressional defense committees within seven days after the date on which appropriated funds are obligated with the information required in paragraph (3).
+"(4) If the Secretary determines: (A) that the facility is vital to national security or to the protection of health, safety, or the quality of the environment; and (B) the requirement for the facility is so urgent that the advance notification in paragraph (3) and the subsequent 21-day deferral of the facility project would threaten the life, health, or safety of personnel, or would otherwise jeopardize national security, the Secretary may obligate funds for the facility and notify the congressional defense committees within seven days after the date on which appropriated funds are obligated with the information required in paragraph (3).
 
-"(5) Nothing in this section shall be construed to authorize the Secretary to acquire, construct, lease, or improve a facility having general utility beyond the specific purposes of the program.
+"(5) Nothing in this section shall be construed to authorize the Secretary to acquire, construct, lease, orimprove a facility having general utility beyond the specific purposes of the program.
 
 "(6) In this subsection, the term 'facility' has the meaning given the term in section 2801(c) of title 10, United States Code.
 
@@ -546,7 +602,7 @@ Elements of Plan.—The plan required by subsection (a) shall include, at a mini
 
 &emsp;"(3) Measures to limit potential disruptions to existing contracts and programs from proposals accepted and incorporated into acquisition programs of the Department of Defense.
 
-&emsp;"(4) Measures to ensure that research and development efforts of small-business concerns are considered as early as possible in a program's acquisition planning process to accommodate potential technology insertion without disruption to existing contracts and programs.
+&emsp;"(4) Measures to ensure that research and development efforts of small-business concerns are considered as early as possible in a program's acquisitionplanning process to accommodate potential technology insertion without disruption to existing contracts and programs.
 
 "(e)
 

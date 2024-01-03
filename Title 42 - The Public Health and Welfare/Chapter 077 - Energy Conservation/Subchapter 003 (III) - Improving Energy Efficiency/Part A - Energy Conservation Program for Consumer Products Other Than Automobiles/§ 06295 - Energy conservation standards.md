@@ -140,7 +140,7 @@ Through-the-wall central air conditioner; through-the-wall central air condition
 
 &emsp;&emsp;&emsp;(IV) exchanges all of its outdoor air across a single surface of the equipment cabinet; and
 
-&emsp;&emsp;&emsp;(V) has a combined outdoor air exchange area of less than 800 square inches (split systems) or less than 1,210 square inches\(single packaged systems) as measured on the surface area described in subclause (IV).
+&emsp;&emsp;&emsp;(V) has a combined outdoor air exchange area of less than 800 square inches (split systems) or less than 1,210 square inches (single packaged systems) as measured on the surface area described in subclause (IV).
 
 &emsp;&emsp;(iii)
 
@@ -324,7 +324,7 @@ Testing of alternative descriptors.—In establishing the final rule, the Secret
 
 &emsp;(K)
 
-Existing covered water heaters.—A covered water heater shall be considered to comply with the final rule on and after the effective date of the final rule and with any revised labeling requirements established by the Federal Trade Commission to carry out the final rule if the covered water heater—
+Existing covered water heaters.—A covered water heater shall be considered to comply with the final rule on and after the effective date of the final rule and with any revised labeling requirements established by theFederal Trade Commission to carry out the final rule if the covered water heater—
 
 &emsp;&emsp;(i) was manufactured prior to the effective date of the final rule; and
 
@@ -426,7 +426,7 @@ Consideration.—In carrying out this section with respect to electric water hea
 
 &emsp;&emsp;(iv)
 
-Requirements.—In carrying out this paragraph, the Secretary shall require that grid-enabled water heaters be equipped with communication capability to enable the grid-enabled water heaters to participate in ancillary services programs if the Secretary determines that the technology is available, practical, and cost-effective.
+Requirements.—In carrying out this paragraph, the Secretary shall require that grid-enabled water heaters be equipped with communication capability to enable the grid-enabled water heaters to participate in ancillary services programs if the Secretarydetermines that the technology is available, practical, and cost-effective.
 
 #### (f) Standards for furnaces and boilers
 
@@ -472,7 +472,7 @@ Automatic means for adjusting water temperature.—
 
 &emsp;&emsp;(i)
 
-In general.—The manufacturer shall equip each gas, oil, and electric hot waterboiler (other than a boiler equipped with a tankless domestic water heating coil) with automatic means for adjusting the temperature of the water supplied by the boiler to ensure that an incremental change in inferred heat load produces a corresponding incremental change in the temperature of water supplied.
+In general.—The manufacturer shall equip each gas, oil, and electric hot water boiler (other than a boiler equipped with a tankless domestic water heating coil) with automatic means for adjusting the temperature of the water supplied by the boiler to ensure that an incremental change in inferred heat load produces a corresponding incremental change in the temperature of water supplied.
 
 &emsp;&emsp;(ii)
 
@@ -551,7 +551,7 @@ Exception.—A boiler that is manufactured to operate without any need for elect
 
 (6) The standards described in paragraph (5) do not apply to (A) a ballast which is designed for dimming or for use in ambient temperatures of 0° F or less, or (B) a ballast which has a power factor of less than 0.90 and is designed and labeled for use only in residential building applications.
 
-(7)(A) The Secretary shall publish a final rule no later than January 1, 1992, to determine if thestandards established under paragraph (5) should be amended, including whether such standards should be amended so that they would be applicable to ballasts described in paragraph (6) and other fluorescent lamp ballasts. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1995.
+(7)(A) The Secretary shall publish a final rule no later than January 1, 1992, to determine if the standards established under paragraph (5) should be amended, including whether such standards should be amended so that they would be applicable to ballasts described in paragraph (6) and other fluorescent lamp ballasts. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1995.
 
 (B) After January 1, 1992, the Secretary shall publish a final rule no later than five years after the date of publication of a previous final rule. The Secretary shall determine in such rule whether to amend the standards in effect for fluorescent lamp ballasts, including whether such standards should be amended so that they would be applicable to additional fluorescent lamp ballasts.
 
@@ -596,7 +596,7 @@ Exception.—A boiler that is manufactured to operate without any need for elect
 
 &emsp;(i) a ballast that is designed for dimming to 50 percent or less of the maximum output of the ballast;
 
-&emsp;(ii) a ballast that is designed for use with 2 F96T12HO lamps at ambient temperatures of negative 20°F or less and for use in an outdoor sign; or
+&emsp;(ii) a ballast that is designed for use with 2 F96T12HO lamps at ambient temperatures ofnegative 20°F or less and for use in an outdoor sign; or
 
 &emsp;(iii) a ballast that has a power factor of less than 0.90 and is designed and labeled for use only in residential applications.
 
@@ -664,7 +664,7 @@ Standards.—
 
 &emsp;(A)
 
-Definition of effective date.—In this paragraph (other than subparagraph (D)), the term "effective date" means, with respect to each type of lamp specified in a table contained in subparagraph (B), the last day of theperiod of months corresponding to that type of lamp (as specified in the table) that follows October 24, 1992.
+Definition of effective date.—In this paragraph (other than subparagraph (D)), the term "effective date" means, with respect to each type of lamp specified in a table contained in subparagraph (B), the last day of the period of months corresponding to that type of lamp (as specified in the table) that follows October 24, 1992.
 
 &emsp;(B)
 
@@ -792,7 +792,7 @@ Scope.—The rulemaking shall not be limited to incandescent lamp technologies.
 
 &emsp;&emsp;(iii)
 
-Amended standards.—If the Secretary determines that the standards in effect for general service incandescent lamps should be amended, the Secretary shall publish a final rule not later than January 1, 2022, with an effective date that is not earlier than 3 years after the date on which the final rule is published.
+Amended standards.—If the Secretary determines that the standards in effect for general service incandescent lampsshould be amended, the Secretary shall publish a final rule not later than January 1, 2022, with an effective date that is not earlier than 3 years after the date on which the final rule is published.
 
 &emsp;&emsp;(iv)
 
@@ -846,7 +846,7 @@ Phased-in effective dates.—The Secretary shall consider phased-in effective da
 
 &emsp;(II) is applicable to any sale or installation of all products in such type or class of showerhead or faucet.
 
-(C) If, after any period of five consecutive years, the maximum flow rate requirements of the ASME/ANSI standard for showerheads are not amended to improve the efficiency of water use of such products, or after any such period such requirements for faucets are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of showerhead or faucet if such State regulation—
+(C) If, after any period of five consecutive years, the maximum flow rate requirements of the ASME/ANSI standard for showerheads are not amended to improve the efficiency of water use of such products, or after any such period such requirements for faucets are not amendedto improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of showerhead or faucet if such State regulation—
 
 &emsp;(i) is more stringent than the standards in effect for such type of class of showerhead or faucet; and
 
@@ -1255,7 +1255,7 @@ In general.—In any subsequent rulemaking for any product for which a regional 
 
 &emsp;&emsp;(ii)
 
-Regional standard no longer appropriate.—Except as provided in clause (iii), if the Secretary determines that regional standards are no longer appropriate for a product, beginning on the effective date of the amended standard for the product—
+Regional standard no longer appropriate.—Except as provided in clause (iii), if the Secretary determines that regionalstandards are no longer appropriate for a product, beginning on the effective date of the amended standard for the product—
 
 &emsp;&emsp;&emsp;(I) there shall be 1 base national standard for the product with Federal enforcement; and
 
@@ -1417,7 +1417,7 @@ Effect of paragraph.—Nothing in this paragraph authorizes the Secretary to iss
 
 > In making a determination under this paragraph concerning whether a performance-related feature justifies the establishment of a higher or lower standard, the Secretary shall consider such factors as the utility to the consumer of such a feature, and such other factors as the Secretary deems appropriate.
 
-(2) Any rule prescribing a higher or lower level of energy use or efficiency under paragraph (1) shall include an explanation of the basis on which such higher or lower level was established.
+(2) Any rule prescribing a higher or lower level of energy use or efficiency under paragraph (1) shall include an explanation of the basis onwhich such higher or lower level was established.
 
 #### (r) Inclusion in standards of test procedures and other requirements
 
@@ -1569,7 +1569,7 @@ In general.—The term "security or life safety alarm or surveillance system" me
 
 &emsp;&emsp;&emsp;(II)
 
-Exclusion.—The term "security or life safety alarm or surveillance system"does not include any product with a principal function other than life safety, security, or surveillance that—
+Exclusion.—The term "security or life safety alarm or surveillance system" does not include any product with a principal function other than life safety, security, or surveillance that—
 
 &emsp;&emsp;&emsp;&emsp;(aa) is designed and marketed with a built-in alarm or theft-deterrent feature; or
 
@@ -1877,7 +1877,7 @@ Mercury vapor lamp ballasts (other than specialty application mercury vapor lamp
 
 #### (A) In general
 
-&emsp;&emsp;Test procedures for all covered products shall be amended pursuant to section 6293 ofthis title to include standby mode and off mode energy consumption, taking into consideration the most current versions of Standards 62301 and 62087 of the International Electrotechnical Commission, with such energy consumption integrated into the overall energy efficiency, energy consumption, or other energy descriptor for each covered product, unless the Secretary determines that—
+&emsp;&emsp;Test procedures for all covered products shall be amended pursuant to section 6293 of this title to include standby mode and off mode energy consumption, taking into consideration the most current versions of Standards 62301 and 62087 of the International Electrotechnical Commission, with such energy consumption integrated into the overall energy efficiency, energy consumption, or other energy descriptor for each covered product, unless the Secretary determines that—
 
 &emsp;&emsp;&emsp;(i) the current test procedures for a covered product already fully account for and incorporate the standby mode and off mode energy consumption of the covered product; or
 

@@ -34,7 +34,7 @@ Sources of Assistance.—Subject to subsection (c), a grant provided under this 
 
 (e)
 
-Federal Share.—Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.
+Federal Share.—Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may beused to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.
 
 (f)
 

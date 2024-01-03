@@ -32,7 +32,7 @@ The authorities in this subchapter shall only be exercised to—
 
 #### (2) Denomination
 
-&emsp;Support provided under paragraph (1) may be denominated and repayable in United States dollars or foreign currency. Foreign currency denominated support provided by paragraph\(1) should only be provided if the Board determines there is a substantive policy rationale for such support.
+&emsp;Support provided under paragraph (1) may be denominated and repayable in United States dollars or foreign currency. Foreign currency denominated support provided by paragraph (1) should only be provided if the Board determines there is a substantive policy rationale for such support.
 
 #### (3) Guidelines and criteria
 
@@ -102,9 +102,9 @@ The Corporation may administer and manage special projects and programs in suppo
 
 #### (3) Purposes for which support may be provided
 
-&emsp;The Corporation, subject to the approval of the Board, may designate private, nonprofitorganizations as eligible to receive support under this subchapter for the following purposes:
+&emsp;The Corporation, subject to the approval of the Board, may designate private, nonprofit organizations as eligible to receive support under this subchapter for the following purposes:
 
-&emsp;&emsp;(A) To promote development of economic freedom and private sectors, including small- and medium-sized enterprises and joint ventures with the United States and host country participants.
+&emsp;&emsp;(A) To promote development of economic freedom and private sectors, includingsmall- and medium-sized enterprises and joint ventures with the United States and host country participants.
 
 &emsp;&emsp;(B) To facilitate access to credit to small- and medium-sized enterprises with sound business plans in countries where there is limited means of accessing credit on market terms.
 

@@ -106,7 +106,7 @@ Transmittal to congress.—The explanatory statement shall be transmitted to the
 
 &emsp;(3)
 
-Listing in report.—A report of the Administrator under section 126 of this title must include a listing and description of any negotiated disposals of surplus property having an estimated fair market value of more than $15,000, in the case of real property, or $5,000, in the case of any other property, other than disposals for which an explanatory statement has been transmitted under this subsection.
+Listing in report.—A report of the Administrator under section 126 of this titlemust include a listing and description of any negotiated disposals of surplus property having an estimated fair market value of more than $15,000, in the case of real property, or $5,000, in the case of any other property, other than disposals for which an explanatory statement has been transmitted under this subsection.
 
 (f)
 

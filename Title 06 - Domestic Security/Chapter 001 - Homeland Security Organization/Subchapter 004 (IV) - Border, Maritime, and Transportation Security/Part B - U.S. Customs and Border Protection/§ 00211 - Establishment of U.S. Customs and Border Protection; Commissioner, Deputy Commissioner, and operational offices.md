@@ -106,7 +106,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 &emsp;Air and Marine Operations shall—
 
-&emsp;&emsp;(A) serve as the law enforcement office within U.S. Customs and Border Protection with primary responsibility to detect, interdict, and prevent acts of terrorism and theunlawful movement of people, illicit drugs, and other contraband across the borders of the United States in the air and maritime environment;
+&emsp;&emsp;(A) serve as the law enforcement office within U.S. Customs and Border Protection with primary responsibility to detect, interdict, and prevent acts of terrorism and the unlawful movement of people, illicit drugs, and other contraband across the borders of the United States in the air and maritime environment;
 
 &emsp;&emsp;(B) conduct joint aviation and marine operations with U.S. Immigration and Customs Enforcement;
 
@@ -134,7 +134,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 &emsp;&emsp;&emsp;(ii) monitor and coordinate the airspace for unmanned aerial systems operations of Air and Marine Operations in U.S. Customs and Border Protection;
 
-&emsp;&emsp;&emsp;(iii) detect, identify, and coordinate a response to threats to national security in the air domain, in coordination with other appropriate agencies, as determined by the Executive Assistant Commissioner;
+&emsp;&emsp;&emsp;(iii) detect, identify, and coordinate a response to threats to national security inthe air domain, in coordination with other appropriate agencies, as determined by the Executive Assistant Commissioner;
 
 &emsp;&emsp;&emsp;(iv) provide aviation and marine support to other Federal, State, tribal, and local agencies; and
 
@@ -204,7 +204,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 #### (B) Form
 
-&emsp;&emsp;The report required under subparagraph (A) shall, to the greatest extent practicable,be submitted in unclassified form, but may be submitted in classified form, if the Executive Assistant Commissioner determines that such is appropriate and informs the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate of the reasoning for such.
+&emsp;&emsp;The report required under subparagraph (A) shall, to the greatest extent practicable, be submitted in unclassified form, but may be submitted in classified form, if the Executive Assistant Commissioner determines that such is appropriate and informs the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate of the reasoning for such.
 
 #### (h) Office of Intelligence
 
@@ -296,7 +296,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 &emsp;&emsp;(B) standard use of force procedures that officers and agents of U.S. Customs and Border Protection may employ in the execution of their duties, including the use of deadly force;
 
-&emsp;&emsp;(C) uniform, standardized, and publicly-available procedures for processing and investigating complaints against officers,agents, and employees of U.S. Customs and Border Protection for violations of professional conduct, including the timely disposition of complaints and a written notification to the complainant of the status or outcome, as appropriate, of the related investigation, in accordance with section 552a of title 5 (commonly referred to as the "Privacy Act" or the "Privacy Act of 1974");
+&emsp;&emsp;(C) uniform, standardized, and publicly-available procedures for processing and investigating complaints against officers, agents, and employees of U.S. Customs and Border Protection for violations of professional conduct, including the timely disposition of complaints and a written notification to the complainant of the status or outcome, as appropriate, of the related investigation, in accordance with section 552a of title 5 (commonly referred to as the "Privacy Act" or the "Privacy Act of 1974");
 
 &emsp;&emsp;(D) an internal, uniform reporting mechanism regarding incidents involving the use of deadly force by an officer or agent of U.S. Customs and Border Protection, including an evaluation of the degree to which the procedures required under subparagraph (B) were followed; and
 
@@ -376,7 +376,7 @@ The Commissioner shall require all officers and agents of U.S. Customs and Borde
 
 #### (A) In general
 
-&emsp;&emsp;The Commissioner shall ensure that an individual apprehended by a U.S. Border Patrol agent or an Office of Field Operations officer is provided with information concerning such individual's rights, including the right to contact a representative of such individual's government for purposes of United States treaty obligations.
+&emsp;&emsp;The Commissioner shall ensure that an individual apprehended by a U.S. Border Patrol agent or an Office of Field Operations officer is provided with information concerning such individual's rights, includingthe right to contact a representative of such individual's government for purposes of United States treaty obligations.
 
 #### (B) Form
 
@@ -644,7 +644,7 @@ CBP.—The term 'CBP' means U.S. Customs and Border Protection.
 
 "(a)
 
-CBP Agriculture Specialists.—The Commissioner of U.S. Customs and Border Protection may hire, train, and assign 240 new CBP Agriculture Specialists above the current attrition level during every fiscal year until the total number of CBP Agriculture Specialists equals and sustains the requirements identified each year in the Agriculture Resource Allocation Model.
+CBP Agriculture Specialists.—The Commissioner of U.S. Customs and Border Protection may hire,train, and assign 240 new CBP Agriculture Specialists above the current attrition level during every fiscal year until the total number of CBP Agriculture Specialists equals and sustains the requirements identified each year in the Agriculture Resource Allocation Model.
 
 "(b)
 
@@ -864,7 +864,7 @@ Commissioner.—The term 'Commissioner' means the Commissioner of U.S. Customs a
 
 &emsp;"(3)
 
-Express consignment operator or carrier.—The term 'express consignment operator or carrier'has the meaning given that term in section 128.1 of title 19, Code of Federal Regulations (or any similar successor regulation).
+Express consignment operator or carrier.—The term 'express consignment operator or carrier' has the meaning given that term in section 128.1 of title 19, Code of Federal Regulations (or any similar successor regulation).
 
 #### "SEC. 3. INTERDICTION OF FENTANYL, OTHER SYNTHETIC OPIOIDS, AND OTHER NARCOTICS AND PSYCHOACTIVE SUBSTANCES.
 

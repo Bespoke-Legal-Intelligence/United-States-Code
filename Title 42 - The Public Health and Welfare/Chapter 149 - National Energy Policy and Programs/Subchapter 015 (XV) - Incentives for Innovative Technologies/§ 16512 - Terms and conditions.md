@@ -188,7 +188,7 @@ The Secretary shall consult with the Secretary of the Treasury regarding any res
 
 #### (2) Transmission
 
-&emsp;Not later than 30 days after receiving information on a proposed guarantee from the Secretary, the Secretary of the Treasury shalltransmit the written analysis of the financial terms and conditions of the proposed guarantee required under paragraph (1) to the Secretary.
+&emsp;Not later than 30 days after receiving information on a proposed guarantee from the Secretary, the Secretary of the Treasury shall transmit the written analysis of the financial terms and conditions of the proposed guarantee required under paragraph (1) to the Secretary.
 
 #### (3) Explanation
 
@@ -274,7 +274,7 @@ For each project selected for a guarantee under this subchapter, the Secretary s
 
 #### References in Text
 
-Division C of Public Law 108–324, referred to in subsec. (a), is division C of Pub. L. 108–324, Oct. 13, 2004, 118Stat. 1255, known as the Alaska Natural Gas Pipeline Act, which is classified principally to chapter 15D (§720 et seq.) of Title 15, Commerce and Trade. For complete classification of division C to the Code, see Short Title note set out under section 720 of Title 15 and Tables.
+Division C of Public Law 108–324, referred to in subsec. (a), is division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, known as the Alaska Natural Gas Pipeline Act, which is classified principally to chapter 15D (§720 et seq.) of Title 15, Commerce and Trade. For complete classification of division C to the Code, see Short Title note set out under section 720 of Title 15 and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (k), is set out in the Appendix to Title 5, Government Organization and Employees.
 

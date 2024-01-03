@@ -22,7 +22,7 @@ Another prior section 11391, Pub. L. 100–77, title IV, §431, July 22, 1987, 1
 
 Section 11392, Pub. L. 100–77, title IV, §432, as added Pub. L. 102–550, title XIV, §1404, Oct. 28, 1992, 106 Stat. 4022, provided definitions for part D.
 
-Another prior section 11392, Pub. L. 100–77, title IV, §432, July 22, 1987, 101 Stat. 505; Pub. L. 100–628, title IV,§§461–463(a), Nov. 7, 1988, 102 Stat. 3236, 3237; Pub. L. 101–625, title VIII, §834(b)–(d), Nov. 28, 1990, 104 Stat. 4365, 4366, which provided for supplemental assistance for facilities to assist the homeless, was repealed by Pub. L. 102–550, §1403(a).
+Another prior section 11392, Pub. L. 100–77, title IV, §432, July 22, 1987, 101 Stat. 505; Pub. L. 100–628, title IV, §§461–463(a), Nov. 7, 1988, 102 Stat. 3236, 3237; Pub. L. 101–625, title VIII, §834(b)–(d), Nov. 28, 1990, 104 Stat. 4365, 4366, which provided for supplemental assistance for facilities to assist the homeless, was repealed by Pub. L. 102–550, §1403(a).
 
 Section 11393, Pub. L. 100–77, title IV, §433, as added Pub. L. 102–550, title XIV, §1404, Oct. 28, 1992, 106 Stat. 4024, related to program assistance.
 
@@ -42,7 +42,7 @@ Section 11398, Pub. L. 100–77, title IV, §438, as added Pub. L. 102–550, ti
 
 Section 11399, Pub. L. 100–77, title IV, §439, as added Pub. L. 102–550, title XIV, §1404, Oct. 28, 1992, 106 Stat. 4028, authorized appropriations for fiscal years 1993 and 1994.
 
-Section 11401, Pub. L. 100–77, title IV, §441, July 22, 1987, 101 Stat. 508; Pub. L. 100–628, title IV, §481(a)–(d)(1), Nov. 7, 1988, 102 Stat. 3237, 3238; Pub. L. 101–625, title VIII, §835, Nov. 28, 1990, 104 Stat. 4366; Pub. L. 102–550, title XIV, §1405(a)–(d), Oct. 28, 1992, 106 Stat. 4028, 4029; Pub. L. 104–330, title V, §506(a)(8), Oct. 26, 1996, 110 Stat. 4044, related to section 1437f assistance for single room occupancy dwellings.
+Section 11401, Pub. L. 100–77, title IV, §441, July 22, 1987, 101 Stat. 508; Pub. L. 100–628, title IV, §481(a)–(d)(1), Nov. 7, 1988, 102 Stat. 3237, 3238; Pub. L.101–625, title VIII, §835, Nov. 28, 1990, 104 Stat. 4366; Pub. L. 102–550, title XIV, §1405(a)–(d), Oct. 28, 1992, 106 Stat. 4028, 4029; Pub. L. 104–330, title V, §506(a)(8), Oct. 26, 1996, 110 Stat. 4044, related to section 1437f assistance for single room occupancy dwellings.
 
 Section 11402, Pub. L. 100–77, title IV, §443, as added Pub. L. 100–628, title IV, §482(a), Nov. 7, 1988, 102 Stat. 3238; amended Pub. L. 106–377, §1(a)(1) \[title II, §208\], Oct. 27, 2000, 114 Stat. 1441, 1441A–25, related to environmental review.
 

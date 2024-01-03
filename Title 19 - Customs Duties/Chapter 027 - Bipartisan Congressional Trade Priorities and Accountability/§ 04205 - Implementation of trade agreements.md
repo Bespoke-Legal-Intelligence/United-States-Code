@@ -76,7 +76,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The trade authorities procedures shall not apply to any implementing bill submitted with respect to a trade agreement or trade agreements entered into under section4202(b) of this title if during the 60-day period beginning on the date that one House of Congress agrees to a procedural disapproval resolution for lack of notice or consultations with respect to such trade agreement or agreements, the other House separately agrees to a procedural disapproval resolution with respect to such trade agreement or agreements.
+&emsp;&emsp;The trade authorities procedures shall not apply to any implementing bill submitted with respect to a trade agreement or trade agreements entered into under section 4202(b) of this title if during the 60-day period beginning on the date that one House of Congress agrees to a procedural disapproval resolution for lack of notice or consultations with respect to such trade agreement or agreements, the other House separately agrees to a procedural disapproval resolution with respect to such trade agreement or agreements.
 
 #### (B) Procedural disapproval resolution
 
@@ -266,7 +266,7 @@ Amendment by Pub. L. 114–125 effective as if included in the enactment of titl
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 13701, July 17, 2015, 80 F.R.43903, set out as a note under section 4201 of this title, and Memorandum of President of the United States, May 24, 2016, 81 F.R. 35579, set out below.
+For delegation of functions of President under this section, see Ex. Ord. No. 13701, July 17, 2015, 80 F.R. 43903, set out as a note under section 4201 of this title, and Memorandum of President of the United States, May 24, 2016, 81 F.R. 35579, set out below.
 
 #### Delegation of Authority Under Section 106 of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015
 

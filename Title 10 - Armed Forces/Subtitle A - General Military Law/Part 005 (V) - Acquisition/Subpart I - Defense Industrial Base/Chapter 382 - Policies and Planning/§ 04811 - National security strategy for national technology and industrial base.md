@@ -2,7 +2,7 @@
 
 (a)
 
-National Security Strategy for National Technology and Industrial Base.—The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. The Secretary shall submit such strategy to Congress not later than 180 days after the date of submission of the national security strategy report required under section 108 of the National Security Act of 1947 (50 U.S.C. 3043). Such strategy shall be based on a prioritized assessment of risks and challenges tothe defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:
+National Security Strategy for National Technology and Industrial Base.—The Secretary of Defense shall develop a national security strategy for the national technology andindustrial base. The Secretary shall submit such strategy to Congress as an integrated part of the report submitted under section 4814 of this title. Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:
 
 &emsp;(1) Supplying, equipping, and supporting the force structure of the armed forces that is necessary to achieve—
 
@@ -26,7 +26,7 @@ National Security Strategy for National Technology and Industrial Base.—The Se
 
 &emsp;(8) Maintaining critical design skills to ensure that the armed forces are provided with systems capable of ensuring technological superiority over potential adversaries.
 
-&emsp;(9) Ensuring reliable sources of materials that are critical to national security, such as specialty metals, essential minerals, armor plate, and rare earth elements.
+&emsp;(9) Ensuring reliable sources of services, supplies, and materials that are critical to national security, such as specialty metals, essential minerals, armor plate, and rare earth elements, including by reducing reliance on potential adversaries for such services, supplies, and materials to the maximum extent practicable.
 
 &emsp;(10) Reducing, to the maximum extent practicable, the presence of counterfeit parts in the supply chain and the risk associated with such parts.
 
@@ -54,7 +54,7 @@ Departmental Guidance.—The Secretary of Defense shall prescribe departmental g
 
 Purpose of Guidance.—The guidance prescribed pursuant to paragraph (1) shall provide for technological and industrial capability considerations to be integrated into the strategy, management, budget allocation, acquisition, and logistics support decision processes.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662, §2501; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(a), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(b), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1603(a)(1), Jan. 2, 2013, 126 Stat. 2062; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title VIII, §882, Dec. 23, 2016, 130 Stat. 2316; Pub. L. 116–92, div. A, title VIII, §846(a), Dec. 20, 2019, 133 Stat. 1503; renumbered §4811 and amended Pub. L. 116–283, div. A, title VII, §713(a), title XVIII, §1867(b), (c)(1), Jan. 1, 2021, 134 Stat. 3692, 4281.)
+(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662, §2501; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(a), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(b), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1603(a)(1), Jan. 2, 2013, 126 Stat. 2062; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title VIII, §882, Dec. 23, 2016, 130 Stat. 2316; Pub. L. 116–92, div. A, title VIII, §846(a), Dec. 20, 2019, 133 Stat. 1503; renumbered §4811 and amended Pub. L. 116–283, div. A, title VII, §713(a), title XVIII, §1867(b), (c)(1), Jan. 1, 2021, 134 Stat. 3692, 4281; Pub. L. 118–31, div. A, title VIII, §851, title X, §1061(b), Dec. 22, 2023, 137 Stat. 343, 398.)
 
 #### <b>Editorial Notes</b>
 
@@ -63,6 +63,10 @@ Purpose of Guidance.—The guidance prescribed pursuant to paragraph (1) shall p
 The text of subsecs. (a) and (b) of section 2506 of this title, which were transferred to this section and redesignated as pars. (1) and (2), respectively, of subsec. (c), by Pub. L. 116–283, §1867(c)(1)(B), was based on Pub. L. 102–484, div. D, title XLII, §4216(a), Oct. 23, 1992, 106 Stat. 2668; Pub. L. 104–201, div. A, title VIII, §829(d), Sept. 23, 1996, 110 Stat. 2613; Pub. L. 111–383, div. A, title VIII, §895(d), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 115–91, div. A, title X, §1051(a)(18), Dec. 12, 2017, 131 Stat. 1561; Pub. L. 116–283, div. A, title XVIII, §1867(c)(1)(B), Jan. 1, 2021, 134 Stat. 4281.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a). Pub. L. 118–31, §1061(b), in introductory provisions, substituted "The Secretary shall submit such strategy to Congress as an integrated part of the report submitted under section 4814 of this title." for "The Secretary shall submit such strategy to Congress not later than 180 days after the date of submission of the national security strategy report required under section 108 of the National Security Act of 1947 (50 U.S.C. 3043)."
+
+Subsec. (a)(9). Pub. L. 118–31, §851, inserted "services, supplies, and" before "materials" and ", including by reducing reliance on potential adversaries for such services, supplies, and materials to the maximum extent practicable" before period at end.
 
 <b>2021</b>—Pub. L. 116–283, §1867(b), renumbered section 2501 of this title as this section.
 
@@ -119,6 +123,256 @@ Subsec. (b)(2). Pub. L. 103–160, §1182(a)(10), substituted "that, by reducing
 #### Effective Date of 2021 Amendment
 
 Amendment by section 1867(b), (c)(1) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Recovery of Rare Earth Elements and Other Strategic and Critical Materials Through End-Of-Life Equipment Recycling
+
+Pub. L. 118–31, div. A, title III, §367, Dec. 22, 2023, 137 Stat. 235, provided that: "The Secretary of Defense shall issue policies and establish procedures to—
+
+&emsp;"(1) identify end-of-life equipment of the Department of Defense that contains rare earth elements and other materials determined pursuant to section 3(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98b(a)) to be strategic and critical materials; and
+
+&emsp;"(2) recover such materials from such equipment for the purposes of reuse by the Department of Defense."
+
+#### Pilot Program on Capital Assistance To Support Defense Investment in the Industrial Base
+
+Pub. L. 118–31, div. A, title IX, §903(b), Dec. 22, 2023, 137 Stat. 360, provided that:
+
+"(1)
+
+Capital assistance.—To the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes detailed in this subsection, the Secretary of Defense, acting through the Director of the Office of Strategic Capital (referred to in this section as the 'Director'), may carry out a pilot program under this subsection to provide capital assistance to eligible entities for eligible investments to develop technologies that support the duties and elements of the Office and meet the needs of the Department of Defense.
+
+"(2)
+
+Eligibility and application process.—
+
+&emsp;"(A)
+
+In general.—An eligible entity seeking capital assistance for an eligible investment under this subsection shall submit to the Director an application at such time, in such manner, and containing such information as the Director may require.
+
+&emsp;"(B)
+
+Selection of investments.—The Director shall establish criteria for selecting among eligible investments for which applications are submitted under subparagraph (A). The criteria shall include—
+
+&emsp;&emsp;"(i) the extent to which an investment supports the national security or economic interests of the United States;
+
+&emsp;&emsp;"(ii) the likelihood that capital assistance provided for an investment would enable the investment to proceed sooner than the investment would otherwise be able to proceed; and
+
+&emsp;&emsp;"(iii) the creditworthiness of an investment.
+
+&emsp;"(3)
+
+Capital assistance.—
+
+&emsp;&emsp;"(A)
+
+Loans and loan guarantees.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—To the extent and in such amounts as specifically provided in advance inappropriations Acts for the purposes detailed in this subsection, the Director may provide loans or loan guarantees to finance or refinance the costs of an eligible investment selected pursuant to paragraph (2)(B).
+
+&emsp;&emsp;&emsp;"(ii)
+
+Administration of loans.—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
+
+Interest rate.—
+
+&emsp;&emsp;&emsp;"(aa)
+
+In general.—Except as provided under item (bb), the interest rate on a loan provided under clause (i) shall be not less than the yield on marketable United States Treasury securities of a similar maturity to the maturity of the loan on the date of execution of the loan agreement.
+
+&emsp;&emsp;&emsp;"(bb)
+
+Exception.—The Director may waive the requirement under item (aa) with respect to an investment if the investment is determined by the Secretary of Defense to be vital to the national security of the United States.
+
+&emsp;&emsp;&emsp;"(cc)
+
+Criteria.—The Director shall establish separate and distinct criteria for interest rates for loan guarantees with private sector lending institutions.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
+
+Final maturity date.—The final maturity date of a loan provided under clause (i) shall be not later than 50 years after the date on which the loan was provided.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III)
+
+Prepayment.—A loan provided under clause (i) may be paid earlier than is provided for under the loan agreement without a penalty.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV)
+
+Nonsubordination.—
+
+&emsp;&emsp;&emsp;"(aa)
+
+In general.—A loan provided under clause (i) shall not be subordinated to the claims of any holder of investment obligations in the event of bankruptcy, insolvency, or liquidation of the obligor.
+
+&emsp;&emsp;&emsp;"(bb)
+
+Exception.—The Director may waive the requirement under item (aa) with respect to the investment in order to mitigate risks to loan repayment.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V)
+
+Sale of loans.—The Director may sell to another entity or reoffer into the capital markets a loan provided under clause (i) if the Director determines that the sale or reoffering can be made on favorable terms.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VI)
+
+Loan guarantees.—Any loan guarantee provided under clause (i) shall specify the percentage of the principal amount guaranteed. If the Secretary determines that the holder of a loan guaranteed by the Department of Defense defaults on the loan, the Director shall pay the holder as specified in the loan guarantee agreement.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VII)
+
+Investment-grade rating.—The Director shall establish a credit rating system to ensure a reasonable reassurance of repayment. The system may include use of existing credit rating agencies where appropriate.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VIII)
+
+Terms and conditions.—Loans and loan guarantees provided under clause (i) shall be subject to such other terms and conditions and contain such other covenants, representations, warranties, and requirements (including requirements for audits) as the Secretary determines appropriate.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IX)
+
+Applicability of federal credit reform act of 1990.—Loans and loan guarantees provided under clause (i) shall be subject to the requirements of the Federal Credit Reform Act of 1990 \[title V of Pub. L. 93–344\] (2 U.S.C. 661 et seq.).
+
+&emsp;&emsp;"(B)
+
+Technical assistance.—Subject to appropriations Acts, the Director may provide technical assistance with respect to developing and financing investments to eligible entities seeking capital assistance for eligible investments and eligible entities receiving capital assistance under this subsection.
+
+&emsp;&emsp;"(C)
+
+Terms and conditions.—
+
+&emsp;&emsp;&emsp;"(i)
+
+Amount of capital assistance.—To the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes detailed in this subsection, the Director shall provide to an eligible investment selected pursuant to paragraph (2)(B) the amount of capital assistance necessary to carry out the investment.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Use of united states dollars.—All financial transactions conducted under this section shall be conducted in United States dollars.
+
+&emsp;"(4)
+
+Non-federal funding requirements.—The requirements of section 149(d) of title 10, United States Code (as added by subsection (a)) shall apply to eligible investments under this subsection.
+
+&emsp;"(5)
+
+Establishment of accounts.—
+
+&emsp;&emsp;"(A)
+
+Credit program account.—
+
+&emsp;&emsp;&emsp;"(i)
+
+Establishment.—There is established in the Treasury of the United States a Department of Defense Credit Program Account to make and guarantee loans under this subsection in accordance with section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a).
+
+&emsp;&emsp;&emsp;"(ii)
+
+Funding.—The Credit Program Account shall consist of amounts appropriated pursuant to the authorization of appropriations.
+
+&emsp;&emsp;"(B)
+
+Use of funds.—To the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes detailed in this subsection, the Director is authorized to pay, from amounts in the Department of Defense Credit Program Account—
+
+&emsp;&emsp;&emsp;"(i) the cost, as defined in section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a), of loans and loan guarantees and other capital assistance;
+
+&emsp;&emsp;&emsp;"(ii) administrative expenses associated with activities under this section \[enacting this note and section 149 of this title\];
+
+&emsp;&emsp;&emsp;"(iii) project-specific transaction costs; and
+
+&emsp;&emsp;&emsp;"(iv) the cost of providing support authorized by this subsection.
+
+&emsp;"(6)
+
+Regulations.—The Secretary of Defense may prescribe such regulations as the Secretary determines to be appropriate to carry out this subsection.
+
+&emsp;"(7)
+
+Annual report.—Not later than the first Monday in February of a fiscal year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an annual report describing activities carried out pursuant to this subsection in the preceding fiscal year and the goals of the Department of Defense in accordance with this subsection for the next fiscal year.
+
+&emsp;"(8)
+
+Notification requirement.—The Secretary of Defense shall notify the congressional defense committees not later than 30 days after a use of loans, loan guarantees, or technical assistance under this subsection.
+
+&emsp;"(9)
+
+Sunset.—The authorities provided under this subsection shall expire on October 1, 2028.
+
+&emsp;"(10)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;"(A) The term 'capital assistance' means loans, loan guarantees, or technical assistance provided under paragraph (3).
+
+&emsp;&emsp;"(B) The terms 'eligible entity' and 'eligible investment' have the meanings given those terms in section 149(e) of title 10, United States Code (as added by subsection (a)).
+
+&emsp;&emsp;"(C) The term 'obligor' means a party that is primarily liable for payment of the principal of or interest on a loan."
+
+#### Critical Mineral Independence
+
+Pub. L. 118–31, div. A, title XIV, §1414, Dec. 22, 2023, 137 Stat. 528, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services of the House of Representatives.
+
+&emsp;"(2)
+
+Covered country.—The term 'covered country' means—
+
+&emsp;&emsp;"(A) a covered nation (as defined in section 4872(d) of title 10, United States Code); and
+
+&emsp;&emsp;"(B) any other country determined by the Secretary of Defense to be a strategic competitor or adversary of the United States for purposes of this section.
+
+&emsp;"(3)
+
+Critical mineral.—The term 'critical mineral' means a critical mineral (as defined in section 7002(a) of the Energy Act of 2020 (30 U.S.C. 1606(a))) that the Secretary of Defense determines to be important to the national security of the United States for purposes of this section.
+
+&emsp;"(4)
+
+Shortfall material.—The term 'shortfall material' means materials determined to be in shortfall in the most recent report on stockpile requirements submitted to Congress under subsection (a) of section 14 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–5) and included in the most recent briefing required by subsection (f) of such section.
+
+"(b)
+
+Statement of Policy.—It is the policy of the United States—
+
+&emsp;"(1) to expand secure sources of supply of critical minerals, including rare earth elements, in the United States and in countries that are allies or partners of the United States to meet the needs of the United States defense sector so that the Department of Defense will achieve critical mineral supply chain independence from covered countries, including the People's Republic of China, the Russian Federation, the Islamic Republic of Iran, and the Democratic People's Republic of North Korea; and
+
+&emsp;"(2) that the Department of Defense will procure critical minerals and products made using supply chains involving critical minerals that are not mined or processed in or by covered countries.
+
+"(c)
+
+Strategy to Achieve Critical Mineral Supply Chain Independence for the Department of Defense.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 22, 2023\], the Under Secretary of Defense for Acquisition and Sustainment shall submit to the appropriate committees of Congress a strategy to develop supply chains for the Department of Defense that are not dependent on mining or processing of critical minerals in or by covered countries, in order to achieve critical mineral supply chain independence from covered countries for the Department by 2035.
+
+&emsp;"(2)
+
+Elements.—The strategy required by paragraph (1) shall—
+
+&emsp;&emsp;"(A) identify and assess significant vulnerabilities in the supply chains of contractors and subcontractors of the Department of Defense involving critical minerals that are mined or processed in or by covered countries;
+
+&emsp;&emsp;"(B) identify and recommend changes to the acquisition laws, regulations, and policies of the Department of Defense to ensure contractors and subcontractors of the Department use supply chains involving critical minerals that are not mined or processed in or by covered countries to the greatest extent practicable;
+
+&emsp;&emsp;"(C) evaluate the utility and desirability of leveraging the process for acquiring shortfall materials for the National Defense Stockpile under the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.) to strengthen mining and processing capacity for critical minerals in the United States and in countries that are allies or partners of the United States;
+
+&emsp;&emsp;"(D) identify areas of potential engagement and partnership with the governments of countries that are allies or partners of the United States to jointly reduce dependence on critical minerals mined or processed in or by covered countries;
+
+&emsp;&emsp;"(E) identify and recommend other policy changes that may be needed to achieve critical mineral supply chain independence from covered countries for the Department;
+
+&emsp;&emsp;"(F) identify and recommend measures to streamline authorities and policies with respect to critical minerals and supply chains for critical minerals; and
+
+&emsp;&emsp;"(G) prioritize the recommendations made in the strategy to achieve critical mineral supply chain independence from covered countries for the Department, taking into consideration economic costs and varying degrees of vulnerability posed to the national security of the United States by reliance on different types of critical minerals.
+
+&emsp;"(3)
+
+Form of strategy.—The strategy required by paragraph (1) shall be submitted in classified form but shall include an unclassified summary."
 
 #### Department of Defense National Imperative for Industrial Skills Program
 
@@ -240,7 +494,7 @@ Strategic and Critical Materials Defined.—In this section, the term 'strategic
 
 #### Analyses of Certain Activities for Action To Address Sourcing and Industrial Capacity
 
-Pub. L. 117–263, div. A, title VIII, §858, Dec. 23, 2022, 136 Stat. 2731, provided that:
+Pub. L. 117–263, div. A, title VIII, §858, Dec. 23, 2022, 136 Stat. 2731, as amended by Pub. L. 118–31, div. A, title X, §1061(c)(3), Dec. 22, 2023, 137 Stat. 399, provided that:
 
 "(a)
 
@@ -296,21 +550,19 @@ Briefing required.—Not later than January 15, 2024, the Secretary of Defense s
 
 Reporting.—The Secretary of Defense shall include the analyses conducted under subsection (a), and any relevant recommendations and descriptions of activities resulting from such analyses, as appropriate, in each of the following during the 2024 calendar year:
 
-&emsp;&emsp;"(A) The annual report or quarterly briefings to Congress required under section 4814 of title 10, United States Code.
+&emsp;&emsp;"(A) The annual report on unfunded priorities of the national technology and industrial base required under section 4815 of such title.
 
-&emsp;&emsp;"(B) The annual report on unfunded priorities of the national technology and industrial base required under section 4815 of such title.
+&emsp;&emsp;"(B) Department of Defense technology and industrial base policy guidance prescribed under section 4811(c) of such title.
 
-&emsp;&emsp;"(C) Department of Defense technology and industrial base policy guidance prescribed under section 4811(c) of such title.
+&emsp;&emsp;"(C) Activities to modernize acquisition processes to ensure the integrity of the industrial base pursuant to section 4819 of such title.
 
-&emsp;&emsp;"(D) Activities to modernize acquisition processes to ensure the integrity of the industrial base pursuant to section 4819 of such title.
+&emsp;&emsp;"(D) Defense memoranda of understanding and related agreements considered in accordance with section 4851 of such title.
 
-&emsp;&emsp;"(E) Defense memoranda of understanding and related agreements considered in accordance with section 4851 of such title.
+&emsp;&emsp;"(E) Industrial base or acquisition policy changes.
 
-&emsp;&emsp;"(F) Industrial base or acquisition policy changes.
+&emsp;&emsp;"(F) Legislative proposals for changes to relevant statutes which the Department shall consider, develop, and submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not less frequently than once per fiscal year.
 
-&emsp;&emsp;"(G) Legislative proposals for changes to relevant statutes which the Department shall consider, develop, and submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not less frequently than once per fiscal year.
-
-&emsp;&emsp;"(H) Other actions as the Secretary of Defense determines appropriate.
+&emsp;&emsp;"(G) Other actions as the Secretary of Defense determines appropriate.
 
 "(c)
 
@@ -414,7 +666,7 @@ Service chiefs.—For each event a military department conducts under subsection
 
 &emsp;"(2)
 
-Acquisition executives.—For each event a military department conducts under subsection (a), the service acquisition executive of the military department conducting the event shall, for each key advanced system development area, perform the following:
+Acquisition executives.—For each event a military department conducts under subsection (a),the service acquisition executive of the military department conducting the event shall, for each key advanced system development area, perform the following:
 
 &emsp;&emsp;"(A) Identify and describe related and potentially related existing, planned, or potential acquisition plans and strategies.
 
@@ -570,7 +822,7 @@ In general.—Not later than December 31, 2022, the Secretary of Defense shall s
 
 &emsp;&emsp;"(B)
 
-Form.—The report required by subparagraph (A) shall be submitted in an unclassified form, but may include a classified annex to the extent required to protect the national security of the United States.
+Form.—The report required by subparagraph (A) shall be submitted in an unclassified form, butmay include a classified annex to the extent required to protect the national security of the United States.
 
 &emsp;"(2)
 
@@ -582,7 +834,7 @@ In general.—Not later than March 1, 2023, and quarterly thereafter until March
 
 &emsp;&emsp;"(B)
 
-Documentation.—Each briefing under subparagraph (A) shall be accompanied by documentation regarding the particular points of discussionfor that briefing, including the fluctuations described in such subparagraph, expressed as a percentage."
+Documentation.—Each briefing under subparagraph (A) shall be accompanied by documentation regarding the particular points of discussion for that briefing, including the fluctuations described in such subparagraph, expressed as a percentage."
 
 #### Plan and Report on Reduction of Reliance on Services, Supplies, or Materials From Covered Countries
 
@@ -682,7 +934,7 @@ Implementation plan.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than one year after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for implementing the activity established under this section.
+In general.—Not later than one year after the date of the enactment of this Act \[Jan. 1, 2021\],the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for implementing the activity established under this section.
 
 &emsp;&emsp;"(B)
 
@@ -1176,7 +1428,7 @@ Funding.—
 
 &emsp;"(1)
 
-In general.—Subject to the availability of appropriations for such purpose, of the funds authorizedto be appropriated by this Act \[see Tables for classification\] or otherwise made available for fiscal year 2016 for research, development, test, and evaluation, Defense-wide, not more than $300,000,000 may be used for each such fiscal year for the program established under subsection (a)(1).
+In general.—Subject to the availability of appropriations for such purpose, of the funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for fiscal year 2016 for research, development, test, and evaluation, Defense-wide, not more than $300,000,000 may be used for each such fiscal year for the program established under subsection (a)(1).
 
 &emsp;"(2)
 
@@ -1276,7 +1528,7 @@ Definitions.—In this section:
 
 #### Essential Items Identification and Domestic Production Capabilities Improvement Program
 
-Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, §841, Oct. 17, 2006, 120 Stat. 2335; Pub. L. 111–84, div. A, title VIII, §846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, §1062(g)(2), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, §1071(b)(5)(A), (d)(1)(C), Dec. 19, 2014, 128 Stat. 3506, 3509; Pub. L. 116–283, div. A, title XVIII, §1866(d)(4), Jan. 1, 2021, 134 Stat. 4280; Pub. L. 117–81, div. A, title XVII, §1701(b)(21)(B), Dec. 27, 2021, 135 Stat. 2135, provided that:
+Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L.109–364, div. A, title VIII, §841, Oct. 17, 2006, 120 Stat. 2335; Pub. L. 111–84, div. A, title VIII, §846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, §1062(g)(2), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, §1071(b)(5)(A), (d)(1)(C), Dec. 19, 2014, 128 Stat. 3506, 3509; Pub. L. 116–283, div. A, title XVIII, §1866(d)(4), Jan. 1, 2021, 134 Stat. 4280; Pub. L. 117–81, div. A, title XVII, §1701(b)(21)(B), Dec. 27, 2021, 135 Stat. 2135, provided that:
 
 #### "SEC. 811. CONSISTENCY WITH UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.
 
@@ -1390,7 +1642,7 @@ Financial incentives program.—A financial incentives program to provide loan g
 
 &emsp;"(2)
 
-Technology development program.—A technology development program, to be carried out within the Department of Defense by the Defense Advanced Research Projects Agency, to improve thetechnology base for advanced shipbuilding technologies and related dual-use technologies through activities including a development program for innovative commercial ship design and production processes and technologies.
+Technology development program.—A technology development program, to be carried out within the Department of Defense by the Defense Advanced Research Projects Agency, to improve the technology base for advanced shipbuilding technologies and related dual-use technologies through activities including a development program for innovative commercial ship design and production processes and technologies.
 
 &emsp;"(3)
 

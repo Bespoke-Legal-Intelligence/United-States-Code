@@ -196,6 +196,10 @@ Pub. L. 103–66, title XIV, §14002(c)(3)(A), Aug. 10, 1993, 107 Stat. 684, whi
 
 Pub. L. 99–177, title II, §275, Dec. 12, 1985, 99 Stat. 1100, as amended by Pub. L. 100–119, title I, §106(c), title II, §210(b), Sept. 29, 1987, 101 Stat. 780, 787; Pub. L. 101–508, title XIII, §§13112(b), 13208(b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 105–33, title X, §10212(a), Aug. 5, 1997, 111 Stat. 712, which provided that, except as otherwise provided in section 275, amendments by title II of Pub. L. 99–177 were effective Dec. 12, 1985, and applicable to fiscal years beginning after Sept. 30, 1985; that amendment by section 201(a)(2) of Pub. L. 99–177 (amending section 622(2) of this title), and amendment by section 201(b) of Pub. L. 99–177 (insofar as it relates to section 633(c), (f), and (g) of this title and to section 641(c), (d), and (g) of this title), were effective Apr. 15, 1986; that amendment by section 212 of Pub. L. 99–177 (amending section 652 of this title) was effective Feb. 1, 1986; that sections 251, 253, 258B, and 271(b) of Pub. L. 99–177 (sections 901, 903, and 907c of this title and provisions set out as a note below), and sections 1105(f) and 1106(c) of title 31, United States Code, were to expire Sept. 30, 2002; that the remaining sections of part C of title II of Pub. L. 99–177 (enacting this subchapter) were to expire Sept. 30, 2006; and that amendments by part D of title II of Pub. L. 99–177 (amending section 911 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 911 of Title 42) were applicable as provided in that part, was repealed by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 118–5, §1, June 3, 2023, 137 Stat. 10, provided that: "This Act \[enacting sections 4336 to 4336e of Title 42, the Public Health and Welfare, amending sections 901 and 904 of this title, section 801 of Title 5, Government Organization and Employees, sections 2011 and 2015 of Title 7, Agriculture, and sections 607, 611, 4332, and 4370m of Title 42, and enacting provisions set out as notes under section 551 of Title 5, section 2015 of Title 7, section 3101 of Title 31, Money and Finance, and section 607 of Title 42\] may be cited as the 'Fiscal Responsibility Act of 2023'."
+
 #### Short Title of 2021 Amendment
 
 Pub. L. 117–71, §1, Dec. 10, 2021, 135 Stat. 1506, provided that: "This Act \[amending section 901a of this title and sections 1395m–1, 1395w–4, and 1395iii of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under section 901a of this title\] may be cited as the 'Protecting Medicare and American Farmers from Sequester Cuts Act'."
@@ -226,7 +230,7 @@ Pub. L. 100–119, title I, §101(b), Sept. 29, 1987, 101 Stat. 754, provided th
 
 #### Short Title
 
-Pub. L. 99–177, title II, §200(a), Dec. 12, 1985, 99 Stat. 1038, provided that: "This title \[enacting this chapter and sections 654 to 656 of this title, amending sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing section 661 of this title, enacting provisions set out as notes under this section and section 911 of Title 42, and amending provisions set out as a note under section 621 of this title\] may be cited as the 'Balanced Budget and Emergency Deficit Control Act of 1985'."
+Pub. L. 99–177, title II, §200(a), Dec. 12, 1985, 99 Stat. 1038, provided that: "This title \[enacting this chapter and sections 654 to 656 of this title, amending sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare,repealing section 661 of this title, enacting provisions set out as notes under this section and section 911 of Title 42, and amending provisions set out as a note under section 621 of this title\] may be cited as the 'Balanced Budget and Emergency Deficit Control Act of 1985'."
 
 #### Severability
 
@@ -358,7 +362,7 @@ In general.—To enable the joint committee to exercise its powers, functions, a
 
 &emsp;&emsp;"(B)
 
-Expenses.—In carrying out its functions, the joint committee is authorized to incur expenses in the same manner and under the same conditions as the Joint Economic Committee is authorized by section 11\[(d)\] of Public Law 79–304 (15 U.S.C. 1024(d)).
+Expenses.—In carrying out its functions, the joint committee is authorized to incur expenses inthe same manner and under the same conditions as the Joint Economic Committee is authorized by section 11\[(d)\] of Public Law 79–304 (15 U.S.C. 1024(d)).
 
 &emsp;&emsp;"(C)
 
@@ -374,7 +378,7 @@ Proxy voting.—No proxy voting shall be allowed on behalf of the members of the
 
 &emsp;&emsp;&emsp;"(ii)
 
-Congressional budget office estimates.—The Congressional Budget Office shall provide estimates of the legislation (as described in paragraph (3)(B)) in accordance with sections308(a) and 201(f) of the Congressional Budget Act of 1974 (2 U.S.C. 639(a) and 601(f)) (including estimates of the effect of interest payment on the debt). In addition, the Congressional Budget Office shall provide information on the budgetary effect of the legislation beyond the year 2021. The joint committee may not vote on any version of the report, recommendations, or legislative language unless such estimates are available for consideration by all members of the joint committee at least 48 hours prior to the vote as certified by the Co-Chairs.
+Congressional budget office estimates.—The Congressional Budget Office shall provide estimates of the legislation (as described in paragraph (3)(B)) in accordance with sections 308(a) and 201(f) of the Congressional Budget Act of 1974 (2 U.S.C. 639(a) and 601(f)) (including estimates of the effect of interest payment on the debt). In addition, the Congressional Budget Office shall provide information on the budgetary effect of the legislation beyond the year 2021. The joint committee may not vote on any version of the report, recommendations, or legislative language unless such estimates are available for consideration by all members of the joint committee at least 48 hours prior to the vote as certified by the Co-Chairs.
 
 &emsp;&emsp;"(E)
 
@@ -464,7 +468,7 @@ Committee consideration.—A joint committee bill introduced in the Senate under
 
 &emsp;"(2)
 
-Motion to proceed.—Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order, not later than 2 days of session after the date on which a joint committee bill is reported or discharged from all committees to which it was referred, for the majority leader of the Senate or the majority leader's designee to move to proceed to the consideration of the joint committee bill. It shall also be in order for any Member of the Senate to move to proceed to the consideration of the joint committee bill at any time after the conclusion of such 2-day period. A motion to proceed is in order even though a previous motion to the same effect has been disagreed to. All points of order against the motion to proceed to the joint committee bill are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed toshall not be in order. If a motion to proceed to the consideration of the joint committee bill is agreed to, the joint committee bill shall remain the unfinished business until disposed of.
+Motion to proceed.—Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order, not later than 2 days of session after the date on which a joint committee bill is reported or discharged from all committees to which it was referred, for the majority leader of the Senate or the majority leader's designee to move to proceed to the consideration of the joint committee bill. It shall also be in order for any Member of the Senate to move to proceed to the consideration of the joint committee bill at any time after the conclusion of such 2-day period. A motion to proceed is in order even though a previous motion to the same effect has been disagreed to. All points of order against the motion to proceed to the joint committee bill are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint committee bill is agreed to, the joint committee bill shall remain the unfinished business until disposed of.
 
 &emsp;"(3)
 
@@ -558,7 +562,7 @@ Pub. L. 107–77, title II, Nov. 28, 2001, 115 Stat. 775.
 
 #### Purpose of Subtitle B of Title X of Pub. L. 105–33
 
-Pub. L. 105–33, title X, §10201, Aug. 5, 1997, 111 Stat. 697, provided that: "The purpose of this subtitle \[subtitle B (§§10201–10213) of title X of Pub. L. 105–33, amending this section, sections 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 901a and 908 of this title and section 14212 of Title 42, enacting provisions set out as a note under section 902 of this title, and amending and repealing provisions set out as notes under thissection\] is to extend discretionary spending limits and pay-as-you-go requirements."
+Pub. L. 105–33, title X, §10201, Aug. 5, 1997, 111 Stat. 697, provided that: "The purpose of this subtitle \[subtitle B (§§10201–10213) of title X of Pub. L. 105–33, amending this section, sections 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 901a and 908 of this title and section 14212 of Title 42, enacting provisions set out as a note under section 902 of this title, and amending and repealing provisions set out as notes under this section\] is to extend discretionary spending limits and pay-as-you-go requirements."
 
 #### Restriction on Elimination or Reduction of Programs Relating to Energy and Water Development
 

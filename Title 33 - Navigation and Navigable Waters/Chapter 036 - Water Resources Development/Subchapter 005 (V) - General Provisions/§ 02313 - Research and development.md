@@ -68,7 +68,7 @@ In carrying out subsection (a), the Secretary is authorized to test and apply te
 
 #### (ii) Records
 
-&emsp;&emsp;&emsp;The only records of a party, other entity, or subordinate element referred to in clause (i) that the Comptroller General may examine pursuant to subparagraph (A) are records of the same type as the records that the Government has had the right to examine under the audit access clauses of the previous transactions referred to in such clause that were entered into by that particular party, entity, or subordinate element.
+&emsp;&emsp;&emsp;The only records of a party, other entity, or subordinate element referred to in clause (i) that the Comptroller General may examine pursuant to subparagraph (A) are records of the same type as the records that the Government has had theright to examine under the audit access clauses of the previous transactions referred to in such clause that were entered into by that particular party, entity, or subordinate element.
 
 #### (C) Waiver
 

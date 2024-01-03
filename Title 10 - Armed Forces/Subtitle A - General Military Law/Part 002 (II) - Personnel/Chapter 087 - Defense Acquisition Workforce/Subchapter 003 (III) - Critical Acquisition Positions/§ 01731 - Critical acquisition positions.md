@@ -32,7 +32,7 @@ Mobility Statements.—(1) The Secretary of Defense is authorized to require civ
 
 (2) The Secretary of Defense shall identify which categories of civilians in critical acquisition positions, as a condition of employment, shall be required to sign mobility statements. The Secretary shall make available published information on such identification of categories.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646, §1733; amended Pub. L. 102–484, div. A, title X, §1052(22), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–89, §3(b)(3)(C), Sept. 30, 1993, 107 Stat. 983; Pub. L. 104–201, div. A, title X, §1074(a)(9)(C), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 108–136, div. A, title VIII, §833(2), Nov. 24, 2003, 117 Stat. 1550; Pub. L. 108–375, div. A, title VIII, §812(a)(2), Oct. 28, 2004, 118 Stat. 2013; renumbered §1731 and amended Pub. L. 116–92, div. A, title VIII, §861(j)(2)–(4), (6)(A), Dec. 20, 2019, 133 Stat. 1519; Pub. L. 116–283, div. A, title IX,§924(b)(3)(AA), title XVIII, §1846(i)(4), Jan. 1, 2021, 134 Stat. 3821, 4252.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646, §1733; amended Pub. L. 102–484, div. A, title X, §1052(22), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–89, §3(b)(3)(C), Sept. 30, 1993, 107 Stat. 983; Pub. L. 104–201, div. A, title X, §1074(a)(9)(C), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 108–136, div. A, title VIII, §833(2), Nov. 24, 2003, 117 Stat. 1550; Pub. L. 108–375, div. A, title VIII, §812(a)(2), Oct. 28, 2004, 118 Stat. 2013; renumbered §1731 and amended Pub. L. 116–92, div. A, title VIII, §861(j)(2)–(4), (6)(A), Dec. 20, 2019, 133 Stat. 1519; Pub. L. 116–283, div. A, title IX, §924(b)(3)(AA), title XVIII, §1846(i)(4), Jan. 1, 2021, 134 Stat. 3821, 4252.)
 
 #### <b>Editorial Notes</b>
 
@@ -54,7 +54,7 @@ Subsec. (a)(1)(B)(ii). Pub. L. 116–283, §1846(i)(4), which directed amendment
 
 <b>2019</b>—Pub. L. 116–92, §861(j)(6)(A), renumbered section 1733 of this title as this section.
 
-Subsec. (a). Pub. L. 116–92, §861(j)(2), in section 1733 of this title prior to renumbering as this section, redesignated subsec. (b) as (a) and struck out former subsec. (a). Prior to amendment, text of subsec. (a) of section 1733 read as follows: "A critical acquisition position may be filled only by a member of the Acquisition Corps."
+Subsec. (a). Pub. L. 116–92, §861(j)(2), in section 1733 of this title prior to renumbering as this section, redesignated subsec. (b) as (a) and struck out former subsec.\(a). Prior to amendment, text of subsec. (a) of section 1733 read as follows: "A critical acquisition position may be filled only by a member of the Acquisition Corps."
 
 Subsec. (b). Pub. L. 116–92, §861(j)(3), prior to repeal of former section 1731, transferred subsec. (b) of that section to section 1733 of this title and substituted "the Acquisition Workforce" for "Acquisition Corps" in heading and "in the acquisition workforce" for "selected for the Acquisition Corps" in text. See Codification note above. Section 1733 was subsequently renumbered as this section.
 

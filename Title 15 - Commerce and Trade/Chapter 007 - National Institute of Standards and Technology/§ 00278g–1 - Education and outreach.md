@@ -74,7 +74,7 @@ The Director may—
 
 &emsp;(8) carry out other activities to increase the participation of persons historically underrepresented in STEM in the Institute's programs; and
 
-&emsp;(9) conduct outreach to and develop collaborations with nontraditional educational organizations, including those that offer training through nonprofit associations and professional associations or professional societies, to engage persons historically underrepresented in STEM through programs developed under this subsection.
+&emsp;(9) conduct outreach to and develop collaborations with nontraditional educational organizations, including those that offer trainingthrough nonprofit associations and professional associations or professional societies, to engage persons historically underrepresented in STEM through programs developed under this subsection.
 
 (Mar. 3, 1901, ch. 872, §18, as added Pub. L. 114–329, title III, §306(b), Jan. 6, 2017, 130 Stat. 3008; amended Pub. L. 117–167, div. B, title II, §10241, Aug. 9, 2022, 136 Stat. 1486.)
 
@@ -96,7 +96,7 @@ Subsec. (e)(6) to (9). Pub. L. 117–167, §10241(2), added pars. (6) to (9).
 
 #### Savings Clause for Research Fellowships and Other Financial Assistance to Students at Institutes of Higher Education
 
-Pub. L. 114–329, title III, §306(d)(1), Jan. 6, 2017, 130 Stat. 3010, provided that: "The repeal made by subsection (a) of this section \[repealing this section\] shall not affect any award of a research fellowship or other form of financial assistance made under section 18 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–1) before the date of enactment ofthis Act \[Jan. 6, 2017\]. Such award shall continue to be subject to the requirements to which such funds were subject under that section before the date of enactment of this Act."
+Pub. L. 114–329, title III, §306(d)(1), Jan. 6, 2017, 130 Stat. 3010, provided that: "The repeal made by subsection (a) of this section \[repealing this section\] shall not affect any award of a research fellowship or other form of financial assistance made under section 18 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–1) before the date of enactment of this Act \[Jan. 6, 2017\]. Such award shall continue to be subject to the requirements to which such funds were subject under that section before the date of enactment of this Act."
 
 <i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

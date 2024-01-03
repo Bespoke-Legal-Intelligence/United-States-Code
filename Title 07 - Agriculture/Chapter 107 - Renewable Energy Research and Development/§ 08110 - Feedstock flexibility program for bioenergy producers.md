@@ -26,7 +26,7 @@ In this section:
 
 #### (A) Purchases and sales
 
-&emsp;&emsp;For each of the 2008 through 2023 crops, the Secretary shall purchase eligible commodities from eligible entities and sell such commodities to bioenergy producers for the purpose of producing bioenergy in a manner that ensures that section 7272 of this title is operated at no cost to the Federal Government by avoiding forfeitures to the Commodity Credit Corporation.
+&emsp;&emsp;For each of the 2008 through 2024 crops, the Secretary shall purchase eligible commodities from eligible entities and sell such commodities to bioenergy producers for the purpose of producing bioenergy in a manner that ensures that section 7272 of this title is operated at no cost to the Federal Government by avoiding forfeitures to the Commodity Credit Corporation.
 
 #### (B) Competitive procedures
 
@@ -40,7 +40,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each September 1 thereafter through September 1, 2023, the Secretary shall provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that shall be made available for purchase and sale for the cropyear following the date of the notice under this section.
+&emsp;&emsp;As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each September 1 thereafter through September 1, 2024, the Secretary shall provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that shall be made available for purchase and sale for the crop year following the date of the notice under this section.
 
 #### (B) Reestimates
 
@@ -66,7 +66,7 @@ In this section:
 
 #### (B) Emergency shortages
 
-&emsp;&emsp;Notwithstanding subparagraph (A), if there is an emergency shortage of sugar for human consumption in the United States market that is caused by a war, flood, hurricane, or other natural disaster, or other similar event, the Secretary may dispose of an eligible commodity that is owned and held in inventory by the Commodity Credit Corporation (accumulated pursuant to the program authorized under section 7272 of this title) through disposition as authorized under section 7272(f) of this title or through the use of any other authority of the Commodity Credit Corporation.
+&emsp;&emsp;Notwithstanding subparagraph (A), if there is an emergency shortage of sugar for human consumption in the United Statesmarket that is caused by a war, flood, hurricane, or other natural disaster, or other similar event, the Secretary may dispose of an eligible commodity that is owned and held in inventory by the Commodity Credit Corporation (accumulated pursuant to the program authorized under section 7272 of this title) through disposition as authorized under section 7272(f) of this title or through the use of any other authority of the Commodity Credit Corporation.
 
 #### (4) Transfer rule; storage fees
 
@@ -102,7 +102,7 @@ In this section:
 
 &emsp;The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation, including the use of such sums as are necessary, to carry out this section.
 
-(Pub. L. 107–171, title IX, §9010, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1325, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2086; amended Pub. L. 112–240, title VII, §701(f)(9), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9009, Feb. 7, 2014, 128 Stat. 931; Pub. L. 115–334, title IX, §9009, Dec. 20, 2018, 132 Stat. 4887.)
+(Pub. L. 107–171, title IX, §9010, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1325, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2086; amended Pub. L. 112–240, title VII, §701(f)(9), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9009, Feb. 7, 2014, 128 Stat. 931; Pub. L. 115–334, title IX, §9009, Dec. 20, 2018, 132 Stat. 4887; Pub. L. 118–22, div. B, title I, §102(d)(6)(C), Nov. 17, 2023, 137 Stat. 118.)
 
 #### <b>Editorial Notes</b>
 
@@ -110,7 +110,7 @@ In this section:
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Agricultural Adjustment Act of 1938, referred to in subsec. (b)(5), is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Part VII of subtitle B of title III of the Act is classified to subpart VII (§1359aa et seq.) of part B of subchapter II of chapter 35 of this title. For complete classificationof this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (b)(5), is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Part VII of subtitle B of title III of the Act is classified to subpart VII (§1359aa et seq.) of part B of subchapter II of chapter 35 of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 #### Codification
 
@@ -122,6 +122,8 @@ A prior section 9010 of Pub. L. 107–171 was classified to section 8108 of this
 
 #### Amendments
 
+<b>2023</b>—Subsec. (b)(1)(A), (2)(A). Pub. L. 118–22 substituted "2024" for "2023".
+
 <b>2018</b>—Subsec. (b)(1)(A), (2)(A). Pub. L. 115–334 substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (b)(1)(A), (2)(A). Pub. L. 113–79 substituted "2018" for "2013".
@@ -129,6 +131,10 @@ A prior section 9010 of Pub. L. 107–171 was classified to section 8108 of this
 <b>2013</b>—Subsec. (b)(1)(A), (2)(A). Pub. L. 112–240 substituted "2013" for "2012".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2023 Amendment
+
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
 #### Effective Date of 2013 Amendment
 

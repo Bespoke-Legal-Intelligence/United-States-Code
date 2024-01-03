@@ -18,7 +18,7 @@ In conducting the study, the Secretary shall consider the feasibility of—
 
 #### (c) Report
 
-Not later then 3 years after March 23, 2010, the Secretary shall submit to the Committee on Indian Affairs and Committee on Finance of theSenate and the Committee on Natural Resources and Committee on Energy and Commerce of the House of Representatives a report that includes—
+Not later then 3 years after March 23, 2010, the Secretary shall submit to the Committee on Indian Affairs and Committee on Finance of the Senate and the Committee on Natural Resources and Committee on Energy and Commerce of the House of Representatives a report that includes—
 
 &emsp;(1) the results of the study under this section;
 

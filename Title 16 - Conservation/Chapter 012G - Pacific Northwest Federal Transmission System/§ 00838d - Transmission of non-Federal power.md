@@ -1,6 +1,6 @@
 ### §838d. Transmission of non-Federal power
 
-The Administrator shall make available to all utilities on a fair and nondiscriminatory basis, any capacity in the Federal transmission system which he determines to be in excess of the capacity required to transmit electric power generated or acquired by the United States.
+The Administrator shall make available to all utilities on a fair and nondiscriminatory basis,any capacity in the Federal transmission system which he determines to be in excess of the capacity required to transmit electric power generated or acquired by the United States.
 
 (Pub. L. 93–454, §6, Oct. 18, 1974, 88 Stat. 1377.)
 

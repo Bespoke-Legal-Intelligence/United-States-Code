@@ -14,7 +14,7 @@ A grant may be made under section 254c–9 of this title only if the applicant i
 
 &emsp;&emsp;(B) by an entity that provides health services on a prepaid basis.
 
-&emsp;(5) The applicant will, at each site at which the applicant provides services under section254c–9(a) of this title, post a conspicuous notice informing individuals who receive the services of any Federal policies that apply to the applicant with respect to the imposition of charges on such individuals.
+&emsp;(5) The applicant will, at each site at which the applicant provides services under section 254c–9(a) of this title, post a conspicuous notice informing individuals who receive the services of any Federal policies that apply to the applicant with respect to the imposition of charges on such individuals.
 
 (Pub. L. 106–505, title V, §522, Nov. 13, 2000, 114 Stat. 2344.)
 

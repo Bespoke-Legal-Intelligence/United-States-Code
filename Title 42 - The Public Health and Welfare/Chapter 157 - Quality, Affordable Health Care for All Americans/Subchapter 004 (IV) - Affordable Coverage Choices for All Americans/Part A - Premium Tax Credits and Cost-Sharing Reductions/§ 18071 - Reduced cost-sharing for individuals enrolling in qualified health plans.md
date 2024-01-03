@@ -54,7 +54,7 @@ In this section, the term "eligible insured" means an individual—
 
 &emsp;The Secretary shall establish procedures under which the issuer of a qualified health plan to which this section applies shall further reduce cost-sharing under the plan in a manner sufficient to—
 
-&emsp;&emsp;(A) in the case of an eligible insured whose household income is not less than 100 percent but not more than 150 percent of the poverty line for a family of the size involved, increase the plan's share of the total allowed costs of benefits provided under the plan to 94 percent of such costs;
+&emsp;&emsp;(A) in the case of an eligible insured whose household income is not less than 100 percent but not more than 150 percent of the poverty line for a family of the size involved,increase the plan's share of the total allowed costs of benefits provided under the plan to 94 percent of such costs;
 
 &emsp;&emsp;(B) in the case of an eligible insured whose household income is more than 150 percent but not more than 200 percent of the poverty line for a family of the size involved, increase the plan's share of the total allowed costs of benefits provided under the plan to 87 percent of such costs; and
 
@@ -128,7 +128,7 @@ In this section, the term "eligible insured" means an individual—
 
 #### (3) Secretarial authority
 
-&emsp;The Secretary, in consultation with the Secretary of the Treasury, shall prescribe rules setting forth the methods by which calculations of family size and household income are made for purposes of this subsection. Such rules shall be designed to ensure that the least burden is placed on individuals enrolling in qualified health plans through an Exchange and taxpayers eligible for the credit allowable under this section.
+&emsp;The Secretary, in consultation with the Secretary of the Treasury, shall prescribe rulessetting forth the methods by which calculations of family size and household income are made for purposes of this subsection. Such rules shall be designed to ensure that the least burden is placed on individuals enrolling in qualified health plans through an Exchange and taxpayers eligible for the credit allowable under this section.
 
 #### (f) Special rule for individuals who receive unemployment compensation during 2021
 

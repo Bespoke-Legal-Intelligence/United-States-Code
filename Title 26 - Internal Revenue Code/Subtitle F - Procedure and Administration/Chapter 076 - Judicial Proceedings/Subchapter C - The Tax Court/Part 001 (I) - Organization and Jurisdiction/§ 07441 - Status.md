@@ -16,7 +16,7 @@ There is hereby established, under article I of the Constitution of the United S
 
 #### Effective Date of 1969 Amendment
 
-Pub. L. 91–172, title IX, §962(a), Dec. 30, 1969, 83 Stat. 736, provided that: "The amendments made by sections 951, 953, 954(c) and (e), 955, 956, 958, and 960(c), (d), (e), (g), and (j) \[amending this section and sections 7443, 7447, 7448, 7456, 7471, and 7701 of this title\] shall take effect on the date of enactment of this Act \[Dec. 30, 1969\]."
+Pub. L. 91–172, title IX, §962(a), Dec. 30, 1969, 83 Stat. 736, provided that: "The amendments made by sections951, 953, 954(c) and (e), 955, 956, 958, and 960(c), (d), (e), (g), and (j) \[amending this section and sections 7443, 7447, 7448, 7456, 7471, and 7701 of this title\] shall take effect on the date of enactment of this Act \[Dec. 30, 1969\]."
 
 #### Report on Inventory of Cases in Tax Court
 

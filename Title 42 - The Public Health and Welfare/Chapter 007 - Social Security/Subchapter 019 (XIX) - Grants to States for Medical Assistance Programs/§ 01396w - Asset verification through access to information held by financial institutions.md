@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(A) requires each applicant for, or recipient of, medical assistance under the State plan under this subchapter on the basis of being aged, blind, or disabled to provide authorization by such applicant or recipient (and any other person whose resources are required by law to be disclosed to determine the eligibility of the applicant or recipient for such assistance) for the State to obtain (subject to the cost reimbursement requirements of section 1115(a) of the Right to Financial Privacy Act <sup>1</sup> \[12 U.S.C. 3415\] but at no cost to the applicant or recipient) from any financial institution (within the meaning of section 1101(1) of such Act \[12 U.S.C. 3401(1)\]) any financial record (within the meaning of section 1101(2) of such Act) held by the institution with respect to the applicant or recipient (and such other person, as applicable), whenever the State determines the record is needed in connection with a determination with respect to such eligibility for (or the amount or extent of) such medical assistance; and
 
-&emsp;&emsp;(B) uses the authorization provided under subparagraph (A) to verify the financial resources of such applicant or recipient (and such other person, as applicable), in order to determine or redetermine the eligibility ofsuch applicant or recipient for medical assistance under the State plan.
+&emsp;&emsp;(B) uses the authorization provided under subparagraph (A) to verify the financial resources of such applicant or recipient (and such other person, as applicable), in order to determine or redetermine the eligibility of such applicant or recipient for medical assistance under the State plan.
 
 #### (2) Program described
 
@@ -154,7 +154,7 @@ Notwithstanding any other provision of law, reasonable expenses of States in car
 
 #### References in Text
 
-The Right to Financial Privacy Act, referred to in subsec. (d)(1), probably means the Right to Financial Privacy Act of 1978, title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
+The Right to Financial Privacy Act, referred to in subsec. (d)(1), probably means the Right to Financial Privacy Act of 1978, title XI of Pub. L. 95–630, Nov. 10,1978, 92 Stat. 3697, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
 #### Amendments
 

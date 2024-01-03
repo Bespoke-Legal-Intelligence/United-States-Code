@@ -46,5 +46,5 @@ Section effective Sept. 30, 1997, see section 521(b) of Pub. L. 104–201, set o
 
 #### Applicability
 
-Pub. L. 107–314, div. A, title V, §503(b)(2), Dec. 2, 2002, 116 Stat. 2531, provided that: "The provisions of section 689(d) of title 10, United States Code, shall apply with respect to an officer ordered to active duty under section 501 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 589) before the date of the enactment of this Act \[Dec. 2, 2002\] inthe same manner as such provisions apply to an officer ordered to active duty under section 688 of such title."
+Pub. L. 107–314, div. A, title V, §503(b)(2), Dec. 2, 2002, 116 Stat. 2531, provided that: "The provisions of section 689(d) of title 10, United States Code, shall apply with respect to an officer ordered to active duty under section 501 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 589) before the date of the enactment of this Act \[Dec. 2, 2002\] in the same manner as such provisions apply to an officer ordered to active duty under section 688 of such title."
 

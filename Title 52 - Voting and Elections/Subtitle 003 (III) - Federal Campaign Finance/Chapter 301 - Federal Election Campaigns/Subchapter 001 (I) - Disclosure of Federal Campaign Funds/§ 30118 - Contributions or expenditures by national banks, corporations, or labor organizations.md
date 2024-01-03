@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-It is unlawful for any national bank, or any corporation organized by authority of any law of Congress, to make a contribution or expenditure in connection with any election to any political office, or in connection with any primary election or political convention or caucus held to select candidates for any political office, or for any corporation whatever, or any labor organization, to make a contribution or expenditure in connection with any election at which presidential and vice presidential electors or a Senator or Representative in, or a Delegate or Resident Commissioner to, Congress are to be voted for, or in connection with any primary election or political convention or caucus held to select candidates for any of the foregoing offices, or for any candidate, political committee, or other person knowingly to accept or receive any contribution prohibited by this section, or any officer or any director of any corporation or any national bank or any officer of any labor organization to consent to any contribution or expenditure by the corporation, national bank, or labor organization, as the case may be, prohibited by this section.
+It is unlawful for any national bank, or any corporation organized by authority of any law of Congress, to make a contribution or expenditure in connection with any election to any political office, or in connection with any primary election or political convention or caucus held to select candidates for any political office, or for any corporation whatever, or any labor organization, to make a contribution or expenditure in connection with any election at which presidential and vice presidential electors or a Senator or Representative in, or a Delegate or Resident Commissioner to, Congress are to be voted for, or in connection with any primary election or political convention or caucus held to select candidates for any of the foregoing offices, or for any candidate, political committee, or otherperson knowingly to accept or receive any contribution prohibited by this section, or any officer or any director of any corporation or any national bank or any officer of any labor organization to consent to any contribution or expenditure by the corporation, national bank, or labor organization, as the case may be, prohibited by this section.
 
 #### (b) Definitions; particular activities prohibited or allowed
 
@@ -32,7 +32,7 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 (5) Notwithstanding any other law, any method of soliciting voluntary contributions or of facilitating the making of voluntary contributions to a separate segregated fund established by a corporation, permitted by law to corporations with regard to stockholders and executive or administrative personnel, shall also be permitted to labor organizations with regard to their members.
 
-(6) Any corporation, including its subsidiaries, branches, divisions, and affiliates, that utilizes a method of soliciting voluntary contributions or facilitating the making of voluntary contributions, shall make available such method, on written request and at a cost sufficient only to reimburse the corporation for the expenses incurred thereby, to a labor organization representing any members working for such corporation, its subsidiaries, branches, divisions, and affiliates.
+(6) Any corporation, including its subsidiaries, branches, divisions, and affiliates, that utilizes a method of soliciting voluntary contributions or facilitating the making of voluntary contributions, shall make available such method, onwritten request and at a cost sufficient only to reimburse the corporation for the expenses incurred thereby, to a labor organization representing any members working for such corporation, its subsidiaries, branches, divisions, and affiliates.
 
 (7) For purposes of this section, the term "executive or administrative personnel" means individuals employed by a corporation who are paid on a salary, rather than hourly, basis and who have policymaking, managerial, professional, or supervisory responsibilities.
 
@@ -110,7 +110,7 @@ Another prior section 316 of Pub. L. 92–225 was renumbered section 311, and is
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–155, §§203(a), 214(d), substituted " 'contribution or expenditure' includes a contribution or expenditure, as those terms are defined in section 431 of this title, and also includes" for " 'contribution or expenditure' shall include" and inserted"or for any applicable electioneering communication" before ", but shall not include (A)".
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–155, §§203(a), 214(d), substituted " 'contribution or expenditure' includes a contribution or expenditure, as those terms are defined in section 431 of this title, and also includes" for " 'contribution or expenditure' shall include" and inserted "or for any applicable electioneering communication" before ", but shall not include (A)".
 
 Subsec. (c). Pub. L. 107–155, §203(b), added subsec. (c).
 

@@ -46,7 +46,7 @@ Subject to subsection (b)(2), the Director—
 
 #### (1) Establishment of Committee
 
-&emsp;There is established the Great Lakes Fish and Wildlife Restoration Proposal Review Committee, which shall operate under the guidance of the United States Fish and Wildlife Service.
+&emsp;There is established the Great Lakes Fish and Wildlife Restoration Proposal ReviewCommittee, which shall operate under the guidance of the United States Fish and Wildlife Service.
 
 #### (2) Membership and appointment
 
@@ -180,7 +180,7 @@ Subject to subsection (b)(2), the Director—
 
 #### References in Text
 
-The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, referred to in subsec. (b)(2)(B)(iv), is title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, which is classified principally to chapter 67 (§4701 et seq.) of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 4701 of this title and Tables.
+The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, referred to in subsec. (b)(2)(B)(iv), is title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, which is classified principally to chapter 67 (§4701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
 Executive Order 13340, referred to in subsec. (b)(2)(B)(vi), is Ex. Ord. No. 13340, May 18, 2004, 69 F.R. 29043, which is set out as a note under section 1268 of Title 33, Navigation and Navigable Waters.
 

@@ -100,7 +100,7 @@ The Secretary, after consultation with the Assistant Secretary for Health, the S
 
 #### (f) Monitoring at Federal health care facilities
 
-The Secretary shall encourage reporting on aggregate antimicrobial drug use and antimicrobial resistance to antimicrobial drugs and the implementation of antimicrobial stewardship programs by health care facilities of the Department of Defense, the Department of Veterans Affairs, and the Indian Health Service andshall provide technical assistance to the Secretary of Defense and the Secretary of Veterans Affairs, as appropriate and upon request.
+The Secretary shall encourage reporting on aggregate antimicrobial drug use and antimicrobial resistance to antimicrobial drugs andthe implementation of antimicrobial stewardship programs by health care facilities of the Department of Defense, the Department of Veterans Affairs, and the Indian Health Service and shall provide technical assistance to the Secretary of Defense and the Secretary of Veterans Affairs, as appropriate and upon request.
 
 #### (g) Report on antimicrobial resistance in humans and use of antimicrobial drugs
 
@@ -328,7 +328,7 @@ Sec. 4. <i>Presidential Advisory Council on Combating Antibiotic-Resistant Bacte
 
 (b) The Secretary shall designate a chairperson from among the members of the Advisory Council.
 
-(c) The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to: preserve the effectiveness of antibiotics by optimizing their use; advance research to develop improved methods for combating antibiotic resistance and conducting antibiotic stewardship; strengthen surveillance of antibiotic-resistant bacterial infections; prevent the transmission of antibiotic-resistant bacterial infections; advance the development of rapid point-of-care and agricultural diagnostics; further research on new treatments for bacterial infections; develop alternatives to antibiotics for agricultural purposes; maximize the dissemination of up-to-date information on the appropriate and proper use of antibiotics to the general public and human and animal healthcare providers; and improve international coordination of efforts to combat antibiotic resistance. The Secretary shall provide the Presidentwith all written reports created by the Advisory Council.
+(c) The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to: preserve the effectiveness of antibiotics by optimizing their use; advance research to develop improved methods for combating antibiotic resistance and conducting antibiotic stewardship; strengthen surveillance of antibiotic-resistant bacterial infections; prevent the transmission of antibiotic-resistant bacterial infections; advance the development of rapid point-of-care and agricultural diagnostics; further research on new treatments for bacterial infections; develop alternatives to antibiotics for agricultural purposes; maximize the dissemination of up-to-date information on the appropriate and proper use of antibiotics to the general public and human and animal healthcare providers; and improve international coordination of efforts to combat antibiotic resistance. The Secretary shall provide the President with all written reports created by the Advisory Council.
 
 (d) Task Force agencies shall, to the extent permitted by law, provide the Advisory Council with such information as it may require for purposes of carrying out its functions.
 

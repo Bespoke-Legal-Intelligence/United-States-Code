@@ -6,7 +6,7 @@ Appointment of Trustees and Receivers.—
 
 &emsp;(1)
 
-Appointment of secretary.—In a proceeding in a court of the United States in which a trustee or receiver may be appointed for a corporation operating a vessel of United States registry between the United States and a foreign country, on which the United States Government holds a mortgage, the court may appoint the Secretary of Transportation as the sole trustee or receiver (subject to the direction of the court) if—
+Appointment of secretary.—In a proceeding in a court of the United States inwhich a trustee or receiver may be appointed for a corporation operating a vessel of United States registry between the United States and a foreign country, on which the United States Government holds a mortgage, the court may appoint the Secretary of Transportation as the sole trustee or receiver (subject to the direction of the court) if—
 
 &emsp;&emsp;(A) the court finds that the appointment will—
 

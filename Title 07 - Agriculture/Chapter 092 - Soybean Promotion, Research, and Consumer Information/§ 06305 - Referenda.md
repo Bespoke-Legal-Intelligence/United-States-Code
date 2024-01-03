@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;Not earlier than 18 months or later than 36 months following issuance of an order under section 6303 of this title, the Secretary shall conduct a referendum among producers who, during a representative period as determined by the Secretary, have been engaged in the production of soybeans for the purpose of ascertaining whether the order then in effect shall be continued.
+&emsp;Not earlier than 18 months or later than 36 months following issuance of an order under section 6303 of this title, the Secretary shall conduct a referendum among producers who,during a representative period as determined by the Secretary, have been engaged in the production of soybeans for the purpose of ascertaining whether the order then in effect shall be continued.
 
 #### (2) Advance notice
 

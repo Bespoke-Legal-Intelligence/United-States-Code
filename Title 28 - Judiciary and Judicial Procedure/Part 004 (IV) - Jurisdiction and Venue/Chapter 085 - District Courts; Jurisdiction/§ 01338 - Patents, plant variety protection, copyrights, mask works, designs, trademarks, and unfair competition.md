@@ -28,7 +28,7 @@ Subsection (b) is added and is intended to avoid "piecemeal" litigation to enfor
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–29 substituted "No State court shall have jurisdiction over any claim for relief arising under any Act of Congress relating to patents, plant variety protection, or copyrights. For purposes of this subsection, the term 'State' includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands." for "Such jurisdiction shall be exclusive of the courts of the states in patent, plant variety protection and copyright cases."
 
-<b>1999</b>—Pub. L. 106–113 substituted "trademarks" for "trade-marks" in section catchline and subsec. (a) and substituted "trademark" for "trade-mark" in subsec. (b).
+<b>1999</b>—Pub. L. 106–113 substituted "trademarks" for "trade-marks" in section catchline and subsec. (a) andsubstituted "trademark" for "trade-mark" in subsec. (b).
 
 <b>1998</b>—Pub. L. 105–304, §503(b)(2)(A), inserted "designs," after "mask works," in section catchline.
 

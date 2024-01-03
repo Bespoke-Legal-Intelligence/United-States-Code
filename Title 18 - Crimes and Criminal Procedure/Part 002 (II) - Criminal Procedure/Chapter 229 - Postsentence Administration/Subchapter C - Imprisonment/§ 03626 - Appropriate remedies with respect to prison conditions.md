@@ -6,7 +6,7 @@ Requirements for Relief.—
 
 &emsp;(1)
 
-Prospective relief.—(A) Prospective relief in any civil action with respect to prison conditions shall extend no further than necessary to correct the violation of the Federal right of a particular plaintiff or plaintiffs. The court shall not grant or approve any prospective relief unless the court finds that such relief is narrowly drawn, extends no further thannecessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the relief.
+Prospective relief.—(A) Prospective relief in any civil action with respect to prison conditions shall extend no further than necessary to correct the violation of the Federal right of a particular plaintiff or plaintiffs. The court shall not grant or approve any prospective relief unless the court finds that such relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the relief.
 
 &emsp;(B) The court shall not order any prospective relief that requires or permits a government official to exceed his or her authority under State or local law or otherwise violates State or local law, unless—
 
@@ -62,7 +62,7 @@ Termination of prospective relief.—(A) In any civil action with respect to pri
 
 &emsp;(2)
 
-Immediate termination of prospective relief.—In any civil action with respect to prison conditions, a defendant or intervener shall be entitled to the immediate termination of any prospective relief if the relief was approved or granted in the absence of a finding by the court that the relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right.
+Immediate termination of prospective relief.—In any civil action with respect to prison conditions, a defendant or intervener shall be entitled to the immediate terminationof any prospective relief if the relief was approved or granted in the absence of a finding by the court that the relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right.
 
 &emsp;(3)
 
@@ -164,7 +164,7 @@ Definitions.—As used in this section—
 
 &emsp;(1) the term "consent decree" means any relief entered by the court that is based in whole or in part upon the consent or acquiescence of the parties but does not include private settlements;
 
-&emsp;(2) the term "civil action with respect to prison conditions" means any civil proceeding arising under Federal law with respect to the conditions of confinement or the effects of actions by government officials on the lives ofpersons confined in prison, but does not include habeas corpus proceedings challenging the fact or duration of confinement in prison;
+&emsp;(2) the term "civil action with respect to prison conditions" means any civil proceeding arising under Federal law with respect to the conditions of confinement or the effects of actions by government officials on the lives of persons confined in prison, but does not include habeas corpus proceedings challenging the fact or duration of confinement in prison;
 
 &emsp;(3) the term "prisoner" means any person subject to incarceration, detention, or admission to any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program;
 
@@ -228,11 +228,11 @@ Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §810\], Apr. 26, 1996, 1
 
 #### Special Masters Appointed Prior to April 26, 1996; Prohibition on Use of Funds
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 1996, 110 Stat. 3009, 3009–45, provided that: "None of the funds available to the Judiciary in fiscal years 1996 and 1997 and hereafter shall be available for expenses authorized pursuant to section 802(a) of title VIII of section 101(a) of title I of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, Public Law 104–134 \[amending this section\], for costs related to the appointment of Special Masters prior to April 26, 1996."
+Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 1996, 110 Stat. 3009, 3009–45, provided that:"None of the funds available to the Judiciary in fiscal years 1996 and 1997 and hereafter shall be available for expenses authorized pursuant to section 802(a) of title VIII of section 101(a) of title I of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, Public Law 104–134 \[amending this section\], for costs related to the appointment of Special Masters prior to April 26, 1996."
 
 #### Payment of Damage Award in Satisfaction of Pending Restitution Orders
 
-Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §807\], Apr. 26, 1996, 110 Stat. 1321, 1321–75, provided that: "Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctionalfacility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner."
+Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §807\], Apr. 26, 1996, 110 Stat. 1321, 1321–75, provided that: "Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner."
 
 #### Notice to Crime Victims of Pending Damage Award
 

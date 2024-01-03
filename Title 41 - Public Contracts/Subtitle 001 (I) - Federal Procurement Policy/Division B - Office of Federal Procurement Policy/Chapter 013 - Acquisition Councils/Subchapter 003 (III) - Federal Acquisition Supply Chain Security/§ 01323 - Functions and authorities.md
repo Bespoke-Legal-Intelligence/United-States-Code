@@ -48,13 +48,13 @@ Authority for Exclusion or Removal Orders.—
 
 Criteria.—To reduce supply chain risk, the Council shall establish criteria and procedures for—
 
-&emsp;&emsp;(A) recommending orders applicable to executive agencies requiring the exclusion of sources or covered articles from executive agency procurement actions (in this section referred to as "exclusion orders");
+&emsp;&emsp;(A) recommending orders applicable to executive agencies requiring the exclusion of sources or covered articles from executiveagency procurement actions (in this section referred to as "exclusion orders");
 
 &emsp;&emsp;(B) recommending orders applicable to executive agencies requiring the removal of covered articles from executive agency information systems (in this section referred to as "removal orders");
 
 &emsp;&emsp;(C) requesting and approving exceptions to an issued exclusion or removal order when warranted by circumstances, including alternative mitigation actions or other findings relating to the national interest, including national security reviews, national security investigations, or national security agreements; and
 
-&emsp;&emsp;(D) ensuring that recommended orders do not conflict with standards and guidelines issued under section 11331 of title 40 and that the Council consults with the Director of the National Institute of Standards and Technology regarding any recommended ordersthat would implement standards and guidelines developed by the National Institute of Standards and Technology.
+&emsp;&emsp;(D) ensuring that recommended orders do not conflict with standards and guidelines issued under section 11331 of title 40 and that the Council consults with the Director of the National Institute of Standards and Technology regarding any recommended orders that would implement standards and guidelines developed by the National Institute of Standards and Technology.
 
 &emsp;(2)
 
@@ -118,7 +118,7 @@ Facilitation of exclusion orders.—If officials identified under this paragraph
 
 &emsp;&emsp;(D)
 
-Review of exclusion and removal orders.—The officials identified under this paragraph shall review all exclusion and removal orders issued under subparagraph (A) not less frequently than annually pursuant to procedures established by the Council.
+Review of exclusion and removal orders.—The officials identified under thisparagraph shall review all exclusion and removal orders issued under subparagraph (A) not less frequently than annually pursuant to procedures established by the Council.
 
 &emsp;&emsp;(E)
 

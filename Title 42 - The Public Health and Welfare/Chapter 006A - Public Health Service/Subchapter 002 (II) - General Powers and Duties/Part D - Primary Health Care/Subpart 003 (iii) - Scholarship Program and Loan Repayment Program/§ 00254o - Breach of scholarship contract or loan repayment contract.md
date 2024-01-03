@@ -16,7 +16,7 @@
 
 &emsp;(A) in the case of an individual who is enrolled in the final year of a course of study, fails to maintain an acceptable level of academic standing in the educational institution in which such individual is enrolled (such level determined by the educational institution under regulations of the Secretary) or voluntarily terminates such enrollment or is dismissed from such educational institution before completion of such course of study; or
 
-&emsp;(B) in the case of an individual who is enrolled in a graduate training program, fails tocomplete such training program and does not receive a waiver from the Secretary under section 254l–1(b)(1)(B)(ii) of this title,
+&emsp;(B) in the case of an individual who is enrolled in a graduate training program, fails to complete such training program and does not receive a waiver from the Secretary under section 254l–1(b)(1)(B)(ii) of this title,
 
 > in lieu of any service obligation arising under such contract shall be liable to the United States for the amount that has been paid on behalf of the individual under the contract.
 
@@ -92,7 +92,7 @@ Notwithstanding any other provision of Federal or State law, there shall be no l
 
 The amendment made by section 313(a)(4) of the Health Care Safety Net Amendments of 2002 (Public Law 107–251) shall apply to any obligation for which a discharge in bankruptcy has not been granted before the date that is 31 days after October 26, 2002.
 
-(July 1, 1944, ch. 373, title III, §338E, formerly title VII, §754, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2286; amended Pub. L. 95–83, title III, §307(g), Aug. 1, 1977, 91 Stat. 391; renumbered §338D and amended Pub. L. 97–35, title XXVII, §2709(a), (e)(1)–(4)(A), Aug. 13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(2), Jan. 4, 1983, 96 Stat. 2061; renumbered §338E and amended Pub. L. 100–177, title II, §§201(2), 202(e), title III, §308(a), Dec. 1, 1987, 101 Stat. 992, 997, 1006; Pub. L. 100–203, title IV, §4052(b), Dec. 22, 1987, 101 Stat. 1330–97; Pub. L. 100–360, title IV, §411(f)(10)(B), July 1, 1988, 102 Stat. 780; Pub. L. 101–597, title II, §203(a), Nov. 16, 1990, 104 Stat. 3027; Pub. L. 107–251, title III, §313(a), Oct. 26, 2002, 116 Stat. 1651; Pub. L. 108–163, §2(l)(1), Dec. 6, 2003, 117 Stat. 2022.)
+(July 1, 1944, ch. 373, title III, §338E, formerly title VII, §754, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2286; amended Pub. L. 95–83, title III, §307(g), Aug. 1, 1977, 91 Stat. 391; renumbered §338D and amended Pub. L. 97–35, title XXVII, §2709(a), (e)(1)–(4)(A), Aug.13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(2), Jan. 4, 1983, 96 Stat. 2061; renumbered §338E and amended Pub. L. 100–177, title II, §§201(2), 202(e), title III, §308(a), Dec. 1, 1987, 101 Stat. 992, 997, 1006; Pub. L. 100–203, title IV, §4052(b), Dec. 22, 1987, 101 Stat. 1330–97; Pub. L. 100–360, title IV, §411(f)(10)(B), July 1, 1988, 102 Stat. 780; Pub. L. 101–597, title II, §203(a), Nov. 16, 1990, 104 Stat. 3027; Pub. L. 107–251, title III, §313(a), Oct. 26, 2002, 116 Stat. 1651; Pub. L. 108–163, §2(l)(1), Dec. 6, 2003, 117 Stat. 2022.)
 
 #### <b>Editorial Notes</b>
 
@@ -126,7 +126,7 @@ Pub. L. 107–251, §313(a)(2)(A)(i), made technical amendment to reference in o
 
 Subsec. (b)(3). Pub. L. 107–251, §313(a)(2)(B), added par. (3).
 
-Subsec. (c)(1). Pub. L. 107–251, §313(a)(3)(A)(ii), added subpars. (A) to (C) and concluding provisions and struck out former subpars. (A) to (C) which related, respectively, to amounts to be recovered in the case of a contract for a 2-year period of obligated service, in the case of a contract for a period of obligated service of greater than 2 years where the breach occurred before the end of the first 2 years of such period, and in thecase of a contract for a period of obligated service of greater than 2 years, where the breach occurred after the first 2 years of such period.
+Subsec. (c)(1). Pub. L. 107–251, §313(a)(3)(A)(ii), added subpars. (A) to (C) and concluding provisions and struck out former subpars. (A) to (C) which related, respectively, to amounts to be recovered in the case of a contract for a 2-year period of obligated service, in the case of a contract for a period of obligated service of greater than 2 years where the breach occurred before the end of the first 2 years of such period, and in the case of a contract for a period of obligated service of greater than 2 years, where the breach occurred after the first 2 years of such period.
 
 Pub. L. 107–251, §313(a)(3)(A)(i), in introductory provisions, made technical amendment to reference in original act which appears in text as reference to section 254p(d) of this title.
 
@@ -160,7 +160,7 @@ Subsec. (d). Pub. L. 100–177, §§202(e)(3), (5), 308(a), redesignated subsec.
 
 Subsec. (b). Pub. L. 97–35, §2709(e)(1), (3), redesignated subsec. (c) as (b) and, as so redesignated, designated existing provisions as par. (1) and made numerous changes to reflect renumbering of subpart sections, and added par. (2). Former subsec. (b) redesignated (a).
 
-Subsecs. (c), (d). Pub. L. 97–35, §2709(e)(1), (4)(A), redesignated subsec. (d) as (c) and, as so redesignated, in par. (2) inserted reference to partial or total waiver. Former subsec. (c) redesignated (b).
+Subsecs. (c), (d). Pub. L. 97–35, §2709(e)(1), (4)(A), redesignated subsec. (d) as (c) and, as so redesignated, inpar. (2) inserted reference to partial or total waiver. Former subsec. (c) redesignated (b).
 
 <b>1977</b>—Subsec. (c). Pub. L. 95–83 substituted " 'φ' is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans" for " 'φ' is the sum of the amount paid under this subpart to or on behalf of the individual and the interest on such amount which would be payable if at the time it was paid it was a loan".
 

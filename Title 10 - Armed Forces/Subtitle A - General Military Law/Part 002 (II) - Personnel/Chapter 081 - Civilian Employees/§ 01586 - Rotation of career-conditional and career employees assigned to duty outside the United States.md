@@ -10,7 +10,7 @@
 
 &emsp;(3) who applies, not later than 30 days after his completion of such duty, for the right to return to a position in the United States as provided by subsection (c).
 
-> The Secretary of the department concerned may provide by regulation for the waiver of the provisions of paragraphs (2) and (3), or of either ofsuch paragraphs, in those cases in which the application of such paragraphs, or either of them, would be against equity and good conscience or against the public interest.
+> The Secretary of the department concerned may provide by regulation for the waiver of the provisions of paragraphs (2) and (3), or of either of such paragraphs, in those cases in which the application of such paragraphs, or either of them, would be against equity and good conscience or against the public interest.
 
 (c) The right to return to a position in the United States granted under this section shall be without reduction in the seniority, status, and tenure held by the employee immediately before his assignment to duty outside the United States and the employee shall be placed, not later than 30 days after the date on which he is determined to be immediately available to exercise such right in accordance with the following provisions:
 
@@ -96,7 +96,7 @@ Ex. Ord. No. 10895, Nov. 25, 1960, 25 F.R. 12165, provided:
 
 By virtue of the authority vested in me by section 1586(f) of title 10 of the United States Code, and as President of the United States, and having determined that such action is necessary in the national interest, it is ordered as follows:
 
-Section 1. Assignment of an employee to duty in the State of Alaska or Hawaii under regulations prescribed pursuant to section 1586 of title 10 of the United States Code shall be held and considered for the purposes of that section, to be an assignment to duty outside the United States.
+Section 1. Assignment of an employee to duty in the State of Alaska or Hawaii under regulations prescribed pursuant to section 1586 of title 10 of the United States Code shall be held and considered for the purposes ofthat section, to be an assignment to duty outside the United States.
 
 Sec. 2. The Secretary of Defense shall from time to time, and at least annually, consider the need for continuing this order in effect, and he shall recommend the revocation thereof at such time as he may deem such action advisable.
 

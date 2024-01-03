@@ -54,7 +54,7 @@ The Secretary of Defense shall ensure that the military-to-military and defense 
 
 #### (1) Reports requirement
 
-&emsp;Not less than 15 days before any obligation of any Cooperative Threat Reduction funds, the Secretary of Defense shall submit to the congressional defense committees a report on that proposed obligation of such funds for that fiscal year (or, in accordance with section 3735(b) of this title, the semiannual period covered by the report).
+&emsp;Not less than 15 days before any obligation of any Cooperative Threat Reduction funds, the Secretary of Defense shall submit to the congressional defense committees a report on that proposed obligation of such funds for that fiscal year (or, in accordance with section3735(b) of this title, the semiannual period covered by the report).
 
 #### (2) Matters included
 

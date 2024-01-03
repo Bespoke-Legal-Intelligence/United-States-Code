@@ -190,9 +190,9 @@ Any determination by the Secretary under this section shall be final.
 
 #### (2) Disposal of eligible commodities
 
-&emsp;Eligible commodities remaining in the trust after September 30, 2023, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
+&emsp;Eligible commodities remaining in the trust after September 30, 2024, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
 
-(Pub. L. 96–494, title III, §302, as added Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, §212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, §3202, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(E), 3201, June 18, 2008, 122 Stat. 1820, 1834; Pub. L. 113–79, title III, §3202, Feb. 7, 2014, 128 Stat. 779; Pub. L. 115–334, title III, §3303, Dec. 20, 2018, 132 Stat. 4619.)
+(Pub. L. 96–494, title III, §302, as added Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, §212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, §3202, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(E), 3201, June 18, 2008, 122 Stat. 1820, 1834; Pub. L. 113–79, title III, §3202, Feb. 7, 2014, 128 Stat. 779; Pub. L. 115–334, title III, §3303, Dec. 20, 2018, 132 Stat. 4619; Pub. L. 118–22, div. B, title I, §102(d)(2), Nov. 17, 2023, 137 Stat. 116.)
 
 #### <b>Editorial Notes</b>
 
@@ -206,6 +206,8 @@ Section 4606 of title 50, referred to in subsec. (e)(2), was repealed by Pub. L.
 
 #### Codification
 
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 Section was enacted as part of the Bill Emerson Humanitarian Trust Act which is title III of the Agricultural Act of 1980, and not as part of the Food for Peace Act which comprises this chapter.
@@ -215,6 +217,8 @@ Section was enacted as part of the Bill Emerson Humanitarian Trust Act which is 
 A prior section 1736f–1, Pub. L. 96–494, title III, §302, Dec. 3, 1980, 94 Stat. 2578; Pub. L. 99–198, title X, §1013, Dec. 23, 1985, 99 Stat. 1456; Pub. L. 101–624, title XI, §1143, title XV, §1515(c), Nov. 28, 1990, 104 Stat. 3515, 3663, established food security wheat reserve, prior to general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, §225(a).
 
 #### Amendments
+
+<b>2023</b>—Subsec. (h)(2). Pub. L. 118–22 substituted "2024" for "2023".
 
 <b>2018</b>—Subsec. (b)(2)(B)(i). Pub. L. 115–334, §3303(1), substituted "2023" for "2018" in two places.
 
@@ -283,6 +287,10 @@ Subsec. (f)(2)(A). Pub. L. 105–385, §212(a)(4)(B), inserted before period at 
 Subsecs. (f)(2)(B)(ii), (h)(1), (2). Pub. L. 105–385, §212(b)(3)(B), substituted "trust" for "reserve".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2023 Amendment
+
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
 #### Effective Date of 2008 Amendment
 

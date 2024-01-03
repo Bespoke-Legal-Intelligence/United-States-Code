@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) $3 ($0.33 for qualified natural gas production).
 
-> &emsp;&emsp;The applicable reference price for a taxable year is the reference price of the calendaryear preceding the calendar year in which the taxable year begins.
+> &emsp;&emsp;The applicable reference price for a taxable year is the reference price of the calendar year preceding the calendar year in which the taxable year begins.
 
 #### (B) Inflation adjustment
 
@@ -131,6 +131,10 @@ Section applicable to production in taxable years beginning after Dec. 31, 2004,
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2023</b>—Internal Revenue Notice 2023–58.
+
+<b>2022</b>—Internal Revenue Notice 2023–41.
 
 <b>2021</b>—Internal Revenue Notice 2022–18.
 

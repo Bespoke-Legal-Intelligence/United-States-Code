@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-From amounts made available for grants under this section, the Attorney General shallmake grants to States to assist those States in ensuring that budgetary circumstances (such as reduced State and local spending on prisons) do not compromise efforts to protect inmates (particularly from prison rape) and to safeguard the communities to which inmates return. The purpose of grants under this section shall be to provide funds for personnel, training, technical assistance, data collection, and equipment to prevent and prosecute prisoner rape.
+From amounts made available for grants under this section, the Attorney General shall make grants to States to assist those States in ensuring that budgetary circumstances (such as reduced State and local spending on prisons) do not compromise efforts to protect inmates (particularly from prison rape) and to safeguard the communities to which inmates return. The purpose of grants under this section shall be to provide funds for personnel, training, technical assistance, data collection, and equipment to prevent and prosecute prisoner rape.
 
 #### (b) Use of grant amounts
 
@@ -48,7 +48,7 @@ Amounts received by a grantee under this section may be used by the grantee, dir
 
 #### (3) Matching
 
-&emsp;The Federal share of a grant under this section may not exceed 50 percent of the total costs of the project described in the application submitted under subsection (d) for the fiscal year for which the grant was made under this section.
+&emsp;The Federal share of a grant under this section may not exceed 50 percent of the totalcosts of the project described in the application submitted under subsection (d) for the fiscal year for which the grant was made under this section.
 
 #### (d) Applications
 
@@ -86,7 +86,7 @@ Amounts received by a grantee under this section may be used by the grantee, dir
 
 #### (2) Dissemination
 
-&emsp;The Attorney General shall ensure that each report submitted under paragraph (1) is madeavailable under the national clearinghouse established under section 30304 of this title.
+&emsp;The Attorney General shall ensure that each report submitted under paragraph (1) is made available under the national clearinghouse established under section 30304 of this title.
 
 #### (f) State defined
 

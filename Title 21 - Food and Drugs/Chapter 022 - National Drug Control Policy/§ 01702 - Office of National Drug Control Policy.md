@@ -110,7 +110,7 @@ Subsec. (b). Pub. L. 109–469, §102(b), amended subsec. (b) generally. Prior t
 
 #### Gifts to Office of National Drug Control Policy
 
-Pub. L. 117–328, div. E, title II, Dec. 29, 2022, 136 Stat. 4664, provided in part: "That the Office \[of NationalDrug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office."
+Pub. L. 117–328, div. E, title II, Dec. 29, 2022, 136 Stat. 4664, provided in part: "That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office."
 
 Similar provisions were contained in the following prior appropriation acts:
 

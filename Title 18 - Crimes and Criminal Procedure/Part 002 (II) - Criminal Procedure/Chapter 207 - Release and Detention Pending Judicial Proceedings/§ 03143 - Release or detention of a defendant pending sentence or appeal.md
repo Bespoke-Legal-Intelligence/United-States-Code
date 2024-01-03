@@ -76,7 +76,7 @@ Pub. L. 99–646, §51(b), provided that the amendment of subsec. (c) by section
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–473, §223(f)(1), inserted provisions relating to applicable guideline under section 994 of title 28.
 
-Subsec. (c). Pub. L. 98–473, §223(f)(2), which would have added a final sentence requiring a judge to treata defendant in a case in which an appeal had been taken by the United States pursuant to the provisions of section 3742 in accordance with the provisions of (1) subsection (a) if the person had been sentenced to a term of imprisonment; or (2) section 3142 if the person had not been sentenced to a term of imprisonment did not become effective pursuant to section 51(b) of Pub. L. 99–646. See 1986 Amendment note above.
+Subsec. (c). Pub. L. 98–473, §223(f)(2), which would have added a final sentence requiring a judge to treat a defendant in a case in which an appeal had been taken by the United States pursuant to the provisions of section 3742 in accordance with the provisions of (1) subsection (a) if the person had been sentenced to a term of imprisonment; or (2) section 3142 if the person had not been sentenced to a term of imprisonment did not become effective pursuant to section 51(b) of Pub. L. 99–646. See 1986 Amendment note above.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

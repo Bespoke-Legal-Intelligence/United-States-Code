@@ -36,7 +36,7 @@ The services referred to in subsection (a) are—
 
 &emsp;&emsp;(D) referring the eligible homeless individual for such other services as may be appropriate; and
 
-&emsp;&emsp;(E) providing representative payee services in accordance with section 1631(a)(2) of the Social Security Act \[42 U.S.C. 1383(a)(2)\] if the eligible homeless individual is receiving aid under title XVI of such act \[42 U.S.C. 1381 et seq.\] and if the applicant is designated by the Secretary to provide such services;
+&emsp;&emsp;(E) providing representative payee services in accordance with section 1631(a)(2) of theSocial Security Act \[42 U.S.C. 1383(a)(2)\] if the eligible homeless individual is receiving aid under title XVI of such act \[42 U.S.C. 1381 et seq.\] and if the applicant is designated by the Secretary to provide such services;
 
 &emsp;(8) supportive and supervisory services in residential settings;
 

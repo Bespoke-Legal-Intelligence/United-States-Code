@@ -2,7 +2,7 @@
 
 Indian tribes providing health care services pursuant to a contract entered into under the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\] may lease permanent structures for the purpose of providing such health care services without obtaining advance approval in appropriation Acts.
 
-(Pub. L. 94–437, title VIII, §820, formerly title VII, §720, as added Pub. L. 100–713, title VII, §716,Nov. 23, 1988, 102 Stat. 4837; renumbered title VIII, §820, and amended Pub. L. 102–573, title VII, §701(a), (b), title VIII, §807, Oct. 29, 1992, 106 Stat. 4572, 4586.)
+(Pub. L. 94–437, title VIII, §820, formerly title VII, §720, as added Pub. L. 100–713, title VII, §716, Nov. 23, 1988, 102 Stat. 4837; renumbered title VIII, §820, and amended Pub. L. 102–573, title VII, §701(a), (b), title VIII, §807, Oct. 29, 1992, 106 Stat. 4572, 4586.)
 
 #### <b>Editorial Notes</b>
 

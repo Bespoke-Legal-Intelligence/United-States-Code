@@ -24,7 +24,7 @@ Further, the Secretary of the Treasury shall instruct each Executive Director of
 
 &emsp;&emsp;(C) has detonated a nuclear explosive device; and
 
-&emsp;(4) in relation to assistance for the Socialist Republic of Vietnam, the People's Democratic Republic of Laos, Russia and the other independent states of the former Soviet Union (asdefined in section 5801 of this title), and Democratic Kampuchea (Cambodia), the responsiveness of the governments of such countries in providing a more substantial accounting of Americans missing in action.
+&emsp;(4) in relation to assistance for the Socialist Republic of Vietnam, the People's Democratic Republic of Laos, Russia and the other independent states of the former Soviet Union (as defined in section 5801 of this title), and Democratic Kampuchea (Cambodia), the responsiveness of the governments of such countries in providing a more substantial accounting of Americans missing in action.
 
 #### (c) Requirements of United States assistance through institutions for projects in recipient countries
 
@@ -50,7 +50,7 @@ In determining whether the government of a country engages in a pattern of gross
 
 &emsp;(2) has failed to undertake serious and sustained efforts to combat particularly severe violations of religious freedom when such efforts could have been reasonably undertaken.
 
-(Pub. L. 95–118, title VII, §701, Oct. 3, 1977, 91 Stat. 1069; Pub. L. 96–259, title V, §501(a), (b), June 3, 1980, 94 Stat. 431, 432; Pub. L. 97–35, title XIII, §1342(b), Aug. 13, 1981, 95 Stat. 743; Pub. L. 97–375, title II, §211, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 98–181, title I \[title X, §1004\], Nov. 30, 1983, 97 Stat. 1286; Pub. L. 101–240, title V, §541(c), (d)(4), (e)(8), Dec. 19, 1989, 103 Stat. 2517–2519; Pub. L. 101–513, title V, §562(b)(2), Nov. 5, 1990, 104 Stat. 2034; Pub. L. 102–511, title X, §1008, Oct. 24, 1992, 106 Stat. 3361; Pub. L. 103–236, title VIII, §823(b), Apr. 30, 1994, 108 Stat. 512; Pub. L. 105–292, title IV, §422, Oct. 27, 1998, 112 Stat. 2810; Pub. L. 106–569, title XI, §1103(g), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 113–188, title XVI, §1601(b), Nov. 26, 2014, 128 Stat. 2025.)
+(Pub. L. 95–118, title VII, §701, Oct. 3, 1977, 91 Stat. 1069; Pub. L. 96–259, title V, §501(a), (b), June 3, 1980, 94 Stat. 431, 432; Pub. L. 97–35, title XIII, §1342(b), Aug. 13, 1981, 95 Stat. 743; Pub. L. 97–375, title II, §211, Dec. 21, 1982, 96 Stat. 1826;Pub. L. 98–181, title I \[title X, §1004\], Nov. 30, 1983, 97 Stat. 1286; Pub. L. 101–240, title V, §541(c), (d)(4), (e)(8), Dec. 19, 1989, 103 Stat. 2517–2519; Pub. L. 101–513, title V, §562(b)(2), Nov. 5, 1990, 104 Stat. 2034; Pub. L. 102–511, title X, §1008, Oct. 24, 1992, 106 Stat. 3361; Pub. L. 103–236, title VIII, §823(b), Apr. 30, 1994, 108 Stat. 512; Pub. L. 105–292, title IV, §422, Oct. 27, 1998, 112 Stat. 2810; Pub. L. 106–569, title XI, §1103(g), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 113–188, title XVI, §1601(b), Nov. 26, 2014, 128 Stat. 2025.)
 
 #### <b>Editorial Notes</b>
 
@@ -78,7 +78,7 @@ Subsec. (g)(1). Pub. L. 101–240, §541(d)(4), struck out par. (1) which relate
 
 <b>1983</b>—Subsec. (a)(1). Pub. L. 98–181 substituted "pattern" for "consistent pattern".
 
-Subsec. (g)(1). Pub. L. 98–181 substituted "Not later than thirty days after the end of each calendar quarter,the Secretary of the Treasury, in consultation with the Secretary of State, shall report." for "The Secretary of the Treasury, in consultation with the Secretary of State, shall report quarterly".
+Subsec. (g)(1). Pub. L. 98–181 substituted "Not later than thirty days after the end of each calendar quarter, the Secretary of the Treasury, in consultation with the Secretary of State, shall report." for "The Secretary of the Treasury, in consultation with the Secretary of State, shall report quarterly".
 
 <b>1982</b>—Subsec. (c)(1). Pub. L. 97–375 inserted "excluding section 262e of this title and".
 
@@ -142,5 +142,5 @@ Pub. L. 95–118, title VII, §705, as added by Pub. L. 96–259, title V, §501
 
 #### Amendment of Articles of Agreement of International Financial Institutions; Establishment of Human Rights Standards To Be Considered in Connection With Assistance Application
 
-Pub. L. 95–481, title VI, §611, Oct. 18, 1978, 92 Stat. 1602, provided that: "The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and theUnited States Governor of the African Development Fund, to propose and seek adoption of an amendment to the Articles of Agreement for their respective institutions to establish human rights standards to be considered in connection with each application for assistance."
+Pub. L. 95–481, title VI, §611, Oct. 18, 1978, 92 Stat. 1602, provided that: "The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to propose and seek adoption of an amendment to the Articles of Agreement for their respective institutions to establish human rights standards to be considered in connection with each application for assistance."
 

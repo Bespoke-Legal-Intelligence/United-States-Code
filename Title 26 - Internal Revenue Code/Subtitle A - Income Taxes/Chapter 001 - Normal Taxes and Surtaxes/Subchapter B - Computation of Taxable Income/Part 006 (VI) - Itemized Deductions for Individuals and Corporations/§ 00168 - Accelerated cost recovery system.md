@@ -1687,7 +1687,7 @@ For purposes of this section—
 
 #### Amendment of Subsection (e)(3)(B)
 
-<i>Pub. L. 117–169, title I, §13703, Aug. 16, 2022, 136 Stat. 1997, provided that, applicable to facilities and property placed in service after Dec. 31, 2024, subsection (e)(3)(B) of this section is amended—</i>
+<i>Pub. L. 117–169, title I, §13703, Aug. 16, 2022, 136 Stat. 1997, provided that, applicable to facilities and property placed in service after Dec. 31, 2024, subsection (e)(3)(B) of this section is amended:</i>
 
 <i>(1) in clause (vi)(III), by striking "and" at the end,</i>
 

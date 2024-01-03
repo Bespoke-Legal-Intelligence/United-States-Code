@@ -32,7 +32,7 @@ Such marine research plan shall include—
 
 #### (2) Time for approval or disapproval
 
-&emsp;The Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency, shall jointly approve or disapprovesuch research plan within 120 days after receiving the plan.
+&emsp;The Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency, shall jointly approve or disapprove such research plan within 120 days after receiving the plan.
 
 #### (3) Action after disapproval
 

@@ -94,7 +94,7 @@ Pub. L. 110–28, title VIII, §8215(c), May 25, 2007, 121 Stat. 194, provided t
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of theTax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

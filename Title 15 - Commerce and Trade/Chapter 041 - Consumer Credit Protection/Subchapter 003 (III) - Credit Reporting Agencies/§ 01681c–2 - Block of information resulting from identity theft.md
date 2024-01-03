@@ -74,7 +74,7 @@ The provisions of this section do not apply to a check services company, acting 
 
 #### (f) Access to blocked information by law enforcement agencies
 
-No provision of this section shall be construed as requiring a consumer reporting agency to prevent a Federal, State, or local law enforcement agency from accessing blocked information in a consumer file to which the agency could otherwise obtain access under this subchapter.
+No provision of this section shall be construed as requiring a consumer reporting agency to prevent a Federal, State, or local law enforcement agency from accessing blocked information in a consumer file to which the agencycould otherwise obtain access under this subchapter.
 
 (Pub. L. 90–321, title VI, §605B, as added Pub. L. 108–159, title I, §152(a), Dec. 4, 2003, 117 Stat. 1964; amended Pub. L. 111–203, title X, §1088(a)(2)(C), July 21, 2010, 124 Stat. 2087.)
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Attorney General shall establish not less than 50 Gang Resistance Education and Training (GREAT) projects, to be located in communities across the country, in addition to the number of projects currently funded.
+&emsp;The Attorney General shall establish not less than 50 Gang Resistance Education andTraining (GREAT) projects, to be located in communities across the country, in addition to the number of projects currently funded.
 
 #### (2) Selection of communities
 

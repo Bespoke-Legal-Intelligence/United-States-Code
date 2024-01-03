@@ -68,7 +68,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;For purposes of this subsection and section 300gg–131 of title 42, in the case of a participant or beneficiary who is enrolled in a group health plan or group health insurance coverage offered by a health insurance issuer and who is furnished services described in clause (i) with respect to an emergency medical condition, the term "emergency services" shall include, unless each of the conditions described in subclause (II) are met, in addition to the items and services described in clause (i), items and services—
+&emsp;&emsp;&emsp;&emsp;For purposes of this subsection and section 300gg–131 of title 42, in the caseof a participant or beneficiary who is enrolled in a group health plan or group health insurance coverage offered by a health insurance issuer and who is furnished services described in clause (i) with respect to an emergency medical condition, the term "emergency services" shall include, unless each of the conditions described in subclause (II) are met, in addition to the items and services described in clause (i), items and services—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) for which benefits are provided or covered under the plan or coverage, respectively; and
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) for an item or service furnished in a subsequent year (before the first sufficient information year (as defined in clause (v)(II)) for such item or service with respect to such plan or coverage), means the rate determined under subclause (I) or this subclause, as applicable, for such item or service for the year previous to such subsequent year, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over such previous year;
 
-&emsp;&emsp;&emsp;&emsp;(III) for an item or service furnished in the first sufficient information year for such item or service with respect to such plan or coverage, has the meaning giventhe term qualifying payment amount in clause (i)(I), except that in applying such clause to such item or service, the reference to "furnished during 2022" shall be treated as a reference to furnished during such first sufficient information year, the reference to "in 2019" <sup>1</sup> shall be treated as a reference to such sufficient information year, and the increase described in such clause shall not be applied; and
+&emsp;&emsp;&emsp;&emsp;(III) for an item or service furnished in the first sufficient information year for such item or service with respect to such plan or coverage, has the meaning given the term qualifying payment amount in clause (i)(I), except that in applying such clause to such item or service, the reference to "furnished during 2022" shall be treated as a reference to furnished during such first sufficient information year, the reference to "in 2019" <sup>1</sup> shall be treated as a reference to such sufficient information year, and the increase described in such clause shall not be applied; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) for an item or service furnished in any year subsequent to the first sufficient information year for such item or service with respect to such plan or coverage, has the meaning given such term in clause (i)(II), except that in applying such clause to such item or service, the reference to "furnished during 2023 or a subsequent year" shall be treated as a reference to furnished during the year after such first sufficient information year or a subsequent year.
 
@@ -172,7 +172,7 @@
 
 #### (ii) Participating provider
 
-&emsp;&emsp;&emsp;The term "participating provider" means, with respect to an item or service and a group health plan or group health insurance coverage offered by a health insurance issuer, a physician or other health care provider who is acting within the scope of practice of that provider's license or certification under applicable State law and who has a contractual relationshipwith the plan or issuer, respectively, for furnishing such item or service under the plan or coverage, respectively.
+&emsp;&emsp;&emsp;The term "participating provider" means, with respect to an item or service and a group health plan or group health insurance coverage offered by a health insurance issuer, a physician or other health care provider who is acting within the scope of practice of that provider's license or certification under applicable State law and who has a contractual relationship with the plan or issuer, respectively, for furnishing such item or service under the plan or coverage, respectively.
 
 #### (H) Recognized amount
 
@@ -214,7 +214,7 @@
 
 #### (1) In general
 
-&emsp;In the case of items or services (other than emergency services to which subsection (a) applies) for which any benefits are provided or covered by a group health plan or health insurance issuer offering group health insurance coverage furnished to a participant or beneficiary of such plan or coverage by a nonparticipating provider (as defined in subsection (a)(3)(G)(i)) (and who, with respect to such items and services, has not satisfied the notice and consent criteria of section 300gg–132(d) of title 42) with respect to a visit (as defined by the Secretary in accordance with paragraph (2)(B)) at a participating health care facility (as defined in paragraph\(2)(A)), with respect to such plan or coverage, respectively, the plan or coverage, respectively—
+&emsp;In the case of items or services (other than emergency services to which subsection (a) applies) for which any benefits are provided or covered by a group health plan or health insurance issuer offering group health insurance coverage furnished to a participant or beneficiary of such plan or coverage by a nonparticipating provider (as defined in subsection (a)(3)(G)(i)) (and who, with respect to such items and services, has not satisfied the notice and consent criteria of section 300gg–132(d) of title 42) with respect to a visit (as defined by the Secretary in accordance with paragraph (2)(B)) at a participating health care facility (as defined in paragraph (2)(A)), with respect to such plan or coverage, respectively, the plan or coverage, respectively—
 
 &emsp;&emsp;(A) shall not impose on such participant or beneficiary a cost-sharing requirement for such items and services so furnished that is greater than the cost-sharing requirement that would apply under such plan or coverage, respectively, had such items or services been furnished by a participating provider (as defined in subsection (a)(3)(G)(ii));
 
@@ -312,7 +312,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) an affiliate or a subsidiary of such a group health plan or health insurance issuer, provider, or facility; or
 
-&emsp;&emsp;&emsp;&emsp;(III) an affiliate or subsidiary of a professional or trade association of suchgroup health plans or health insurance issuers or of providers or facilities;
+&emsp;&emsp;&emsp;&emsp;(III) an affiliate or subsidiary of a professional or trade association of such group health plans or health insurance issuers or of providers or facilities;
 
 &emsp;&emsp;&emsp;(iii) carries out the responsibilities of such an entity in accordance with this subsection;
 
@@ -468,7 +468,7 @@
 
 #### (B) Information
 
-&emsp;&emsp;For purposes of subparagraph (A), the information described in this subparagraph is, with respect to a notification under paragraph (1)(B) by a nonparticipating provider, nonparticipating emergency facility, group health plan, or health insurance issuer offering group health insurance coverage—
+&emsp;&emsp;For purposes of subparagraph (A), the information described in this subparagraph is,with respect to a notification under paragraph (1)(B) by a nonparticipating provider, nonparticipating emergency facility, group health plan, or health insurance issuer offering group health insurance coverage—
 
 &emsp;&emsp;&emsp;(i) a description of each item and service included with respect to such notification;
 
@@ -500,7 +500,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each party to a determination under paragraph (5) to which an entity is selectedunder paragraph (3) <sup>5</sup> in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
+&emsp;&emsp;Each party to a determination under paragraph (5) to which an entity is selected under paragraph (3) <sup>5</sup> in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
 
 #### (B) Amount of fee
 
@@ -528,7 +528,7 @@ A group health plan or a health insurance issuer offering group health insurance
 
 #### (1) In general
 
-&emsp;For plan years beginning on or after January 1, 2022, each group health plan, or a health insurance issuer offering group health insurance coverage shall, with respect to a notification submitted under section 300gg–136 of title 42 by a health care provider or health care facility to the plan or issuer for a participant or beneficiary under plan or coverage scheduled to receive an item or service from the provider or facility (or authorized representative of such participant or beneficiary), not later than 1 business day (or, in the case such item or service was so scheduled at least 10 business days before such item or service is to be furnished (or in the case of a request made to such plan or coverage by such participant or beneficiary), 3 business days) after the date on which the plan or coverage receives such notification (or such request), provide to the participant or beneficiary (through mail or electronic means, as requested by the participant or beneficiary) a notification (in clear and understandable language) including the following:
+&emsp;For plan years beginning on or after January 1, 2022, each group health plan, or a health insurance issuer offering group health insurance coverage shall, with respect to a notification submitted under section 300gg–136 of title 42 by a health care provider or health care facility to the plan or issuer for a participant or beneficiary under plan or coverage scheduled to receive an item or service from the provider or facility (or authorized representative ofsuch participant or beneficiary), not later than 1 business day (or, in the case such item or service was so scheduled at least 10 business days before such item or service is to be furnished (or in the case of a request made to such plan or coverage by such participant or beneficiary), 3 business days) after the date on which the plan or coverage receives such notification (or such request), provide to the participant or beneficiary (through mail or electronic means, as requested by the participant or beneficiary) a notification (in clear and understandable language) including the following:
 
 &emsp;&emsp;(A) Whether or not the provider or facility is a participating provider or a participating facility with respect to the plan or coverage with respect to the furnishing of such item or service and—
 
@@ -544,7 +544,7 @@ A group health plan or a health insurance issuer offering group health insurance
 
 &emsp;&emsp;(E) A good faith estimate of the amount that the participant or beneficiary has incurred toward meeting the limit of the financial responsibility (including with respect to deductibles and out-of-pocket maximums) under the plan or coverage (as of the date of such notification).
 
-&emsp;&emsp;(F) In the case such item or service is subject to a medical management technique (including concurrent review, prior authorization, and step-therapy or fail-first protocols)for coverage under the plan or coverage, a disclaimer that coverage for such item or service is subject to such medical management technique.
+&emsp;&emsp;(F) In the case such item or service is subject to a medical management technique (including concurrent review, prior authorization, and step-therapy or fail-first protocols) for coverage under the plan or coverage, a disclaimer that coverage for such item or service is subject to such medical management technique.
 
 &emsp;&emsp;(G) A disclaimer that the information provided in the notification is only an estimate based on the items and services reasonably expected, at the time of scheduling (or requesting) the item or service, to be furnished and is subject to change.
 
@@ -590,7 +590,7 @@ Amendment by section 107(b) of Pub. L. 116–260 applicable with respect to plan
 
 #### Effective Date
 
-Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 8902 of Title 5, Government Organization and Employees.
+Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BBof Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 8902 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

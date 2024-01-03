@@ -6,7 +6,7 @@ The Commission is authorized to—
 
 &emsp;(1) conduct experiments and do research and development work in the military application of atomic energy;
 
-&emsp;(2) engage in the production of atomic weapons, or atomic weapon parts, except that such activities shall be carried on only to the extent that the express consent and direction ofthe President of the United States has been obtained, which consent and direction shall be obtained at least once each year;
+&emsp;(2) engage in the production of atomic weapons, or atomic weapon parts, except that such activities shall be carried on only to the extent that the express consent and direction of the President of the United States has been obtained, which consent and direction shall be obtained at least once each year;
 
 &emsp;(3) provide for safe storage, processing, transportation, and disposal of hazardous waste (including radioactive waste) resulting from nuclear materials production, weapons production and surveillance programs, and naval nuclear propulsion programs;
 
@@ -58,7 +58,7 @@ Pub. L. 106–398, §1 \[div. C, title XXXI, §3195\], Oct. 30, 2000, 114 Stat. 
 
 #### Nuclear Weapons Stockpile Life Extension Program
 
-Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926, which was formerly set out as a noteunder this section, was renumbered section 4204 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(5)(A)–(C), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2524 of Title 50, War and National Defense.
+Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926, which was formerly set out as a note under this section, was renumbered section 4204 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(5)(A)–(C), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2524 of Title 50, War and National Defense.
 
 #### Report on Stockpile Stewardship Criteria
 
@@ -130,7 +130,7 @@ Pub. L. 104–106, div. C, title XXXI, §3137, Feb. 10, 1996, 110 Stat. 620, as 
 
 #### Fellowship Program for Development of Skills Critical to Department of Energy Nuclear Weapons Complex
 
-Pub. L. 104–106, div. C, title XXXI, §3140, Feb. 10, 1996, 110 Stat. 621, as amended by Pub. L. 106–65, div. C, title XXXI, §3162(a)–(d), Oct. 5, 1999, 113 Stat. 943, which was formerly set out as a note under this section, was renumbered section 4623 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(10), Nov. 24, 2003, 117 Stat. 1779, and is classified to section 2723 of Title 50, War and National Defense.
+Pub. L. 104–106, div. C, title XXXI, §3140, Feb. 10, 1996, 110 Stat. 621, as amended by Pub. L. 106–65, div. C, title XXXI, §3162(a)–(d), Oct. 5, 1999, 113 Stat. 943, which was formerly set out as a note under this section, was renumbered section 4623 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(10), Nov. 24, 2003, 117 Stat. 1779, and is classified to section 2723 of Title 50, War and National Defense.
 
 #### Study on Nuclear Test Readiness Postures
 
@@ -196,7 +196,7 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by P
 
 &emsp;"(2) only if the test is conducted during the period covered by the report.
 
-"(d)(1) Not later than March 1, of each year beginning after 1992, the President shall submit to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, in classified and unclassified forms, a report containing the following matters:
+"(d)(1) Not later than March 1, of each year beginning after 1992, the President shall submit to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, in classified andunclassified forms, a report containing the following matters:
 
 &emsp;"(A) A schedule for resumption of the Nuclear Testing Talks with Russia.
 

@@ -40,7 +40,7 @@ Applicability of Commercial Procedures.—
 
 &emsp;"(1)
 
-Services of a type sold in marketplace.—The regulations modified pursuant to subsection (a) shall ensure that services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, may be treated as commercial services for purposes of section 2306a of title10, United States Code \[see 10 U.S.C. 3701 et seq.\] (relating to truth in negotiations), only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such services.
+Services of a type sold in marketplace.—The regulations modified pursuant to subsection (a) shall ensure that services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, may be treated as commercial services for purposes of section 2306a of title 10, United States Code \[see 10 U.S.C. 3701 et seq.\] (relating to truth in negotiations), only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such services.
 
 &emsp;"(2)
 

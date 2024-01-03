@@ -32,7 +32,7 @@ The Administrator may study and develop emergency preparedness measures designed
 
 (1) The Administrator may—
 
-&emsp;(A) conduct or arrange, by contract or otherwise, for training programs for the instructionof emergency preparedness officials and other persons in the organization, operation, and techniques of emergency preparedness;
+&emsp;(A) conduct or arrange, by contract or otherwise, for training programs for the instruction of emergency preparedness officials and other persons in the organization, operation, and techniques of emergency preparedness;
 
 &emsp;(B) conduct or operate schools or including the payment of travel expenses, in accordance with subchapter I of chapter 57 of title 5 and the Standardized Government Travel Regulations, and per diem allowances, in lieu of subsistence for trainees in attendance or the furnishing of subsistence and quarters for trainees and instructors on terms prescribed by the Administrator; and
 
@@ -98,7 +98,7 @@ The Administrator may publicly disseminate appropriate emergency preparedness in
 
 (8) The Administrator shall submit to Congress a report, at least annually, regarding all contributions made pursuant to this subsection.
 
-(9) All laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed with the assistance of any contribution of Federal funds made by the Administrator under this subsection shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40, and every such employee shall receive compensation at a rate not less than one and ½ times the basic rate of pay of the employee for all hours worked in any workweek in excess of eight hours in any workday or 40 hours in the workweek, as the case may be. The Administrator shall make no contribution of Federal funds without first obtaining adequate assurance that these labor standards will be maintained upon the construction work. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 3145 of title 40.
+(9) All laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed with the assistance of any contribution of Federal funds made by the Administrator under this subsection shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40, and every such employee shall receive compensation at a rate notless than one and ½ times the basic rate of pay of the employee for all hours worked in any workweek in excess of eight hours in any workday or 40 hours in the workweek, as the case may be. The Administrator shall make no contribution of Federal funds without first obtaining adequate assurance that these labor standards will be maintained upon the construction work. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 3145 of title 40.
 
 #### (k) Sale or disposal of certain materials and facilities
 
@@ -122,7 +122,7 @@ In subsec. (k), "chapters 1 to 11 of title 40 and division C (except sections 33
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 2281 of the former Appendix to Title50, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
+Provisions similar to those in this section were contained in section 2281 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
 
 #### Amendments
 
@@ -354,7 +354,7 @@ Other state law.—No party shall be liable under the law of any State other tha
 
 "(f)
 
-Licenses and Permits.—If any person holds a license, certificate, or other permit issued by any responding party evidencing the meeting of qualifications for professional, mechanical, or other skills and assistance is requested by a receiving jurisdiction, such person will be deemed licensed, certified, or permitted by the receiving jurisdiction to render aid involvingsuch skill to meet a public service event, emergency or training for any such events."
+Licenses and Permits.—If any person holds a license, certificate, or other permit issued by any responding party evidencing the meeting of qualifications for professional, mechanical, or other skills and assistance is requested by a receiving jurisdiction, such person will be deemed licensed, certified, or permitted by the receiving jurisdiction to render aid involving such skill to meet a public service event, emergency or training for any such events."
 
 #### Pilot Program To Study Design and Construction of Buildings To Minimize Effects of Nuclear Explosions
 

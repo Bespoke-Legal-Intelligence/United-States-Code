@@ -146,7 +146,7 @@ Explanation.—The written notice under subparagraph (A) shall describe the limi
 
 &emsp;(5)
 
-Agency action.—Not later than the day after the last day of a period of investigative leave for an employee under paragraph (1), an agency shall—
+Agency action.—Not later than the day after the last day of a period of investigativeleave for an employee under paragraph (1), an agency shall—
 
 &emsp;&emsp;(A) return the employee to regular duty status;
 
@@ -342,5 +342,5 @@ The Administrative Leave Act of 2016, referred to in subsec. (f)(2)(C), is secti
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 

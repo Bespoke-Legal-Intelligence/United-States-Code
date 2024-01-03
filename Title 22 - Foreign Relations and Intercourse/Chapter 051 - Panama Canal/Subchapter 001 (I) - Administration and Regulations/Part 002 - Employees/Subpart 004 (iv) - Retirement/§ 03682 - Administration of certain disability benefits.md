@@ -16,7 +16,7 @@ Each cash relief payment made pursuant to this section shall be increased on the
 
 #### (d) Cash relief payments to widows
 
-The Commission may pay cash relief to the widow of any former employee of the Canal Zone Government or the Panama Canal Company who, until the time of his death, receives or hasreceived cash relief under subsection (a) of this section, under section 181 of title 2 of the Canal Zone Code (as in effect on September 30, 1979), or under the Act of July 8, 1937, referred to in such subsection (a). The term "widow" as used in this subsection includes only the following:
+The Commission may pay cash relief to the widow of any former employee of the Canal Zone Government or the Panama Canal Company who, until the time of his death, receives or has received cash relief under subsection (a) of this section, under section 181 of title 2 of the Canal Zone Code (as in effect on September 30, 1979), or under the Act of July 8, 1937, referred to in such subsection (a). The term "widow" as used in this subsection includes only the following:
 
 &emsp;(1) a woman legally married to such employee at the time of his termination for disability and at his death;
 

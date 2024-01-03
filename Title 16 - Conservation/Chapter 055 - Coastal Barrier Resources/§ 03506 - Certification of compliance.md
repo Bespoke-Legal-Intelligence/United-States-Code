@@ -14,7 +14,7 @@ The head of each Federal agency affected by this chapter shall report and certif
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–591 amended section generally. Prior to amendment, section read as follows: "The Director of the Office of Management and Budget shall, on behalf of each Federal agency concerned, make written certification that each such agency has complied with the provisions of this chapter during each fiscal year beginning after September 30, 1982. Such certification shall be submitted on an annual basis to the House of Representatives and the Senate pursuant to the schedule required under the Congressional Budget and Impoundment Control Act of 1974."
+<b>1990</b>—Pub. L. 101–591 amended section generally. Prior to amendment, section read as follows: "The Director of the Office of Management and Budget shall, on behalf of each Federal agency concerned, make written certification that each such agency has complied with the provisions of this chapter during each fiscal year beginning after September 30, 1982. Such certification shall be submitted on an annual basis to the House ofRepresentatives and the Senate pursuant to the schedule required under the Congressional Budget and Impoundment Control Act of 1974."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

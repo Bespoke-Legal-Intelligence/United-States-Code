@@ -72,7 +72,7 @@ Except as otherwise provided, in this Act:
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

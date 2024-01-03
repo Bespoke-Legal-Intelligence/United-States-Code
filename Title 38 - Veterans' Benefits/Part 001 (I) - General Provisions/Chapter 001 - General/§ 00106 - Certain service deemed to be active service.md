@@ -126,7 +126,7 @@ Pub. L. 95–202, title IV, §401, Nov. 23, 1977, 91 Stat. 1449, as amended by P
 
 "(c) Under regulations prescribed by the Secretary of Defense, any person who is issued a discharge under honorable conditions pursuant to the implementation of subsection (a) of this section may be awarded any campaign or service medal warranted by such person's service."
 
-\[Section 1263(b) of Pub. L. 98–94 provided that: "The amendment made by subsection (a) \[enacting subsec. (c) set out above\] shall apply to all persons issued discharges under honorable conditions pursuant to section 401 of the GI Bill Improvements Act of 1977 \[Pub. L. 95–202, set out above\] whether such discharges are awarded before, on, or after the date of the enactment of this Act \[Sept. 24, 1983\]."\]
+\[Section 1263(b) of Pub. L. 98–94 provided that: "The amendment made by subsection (a) \[enacting subsec.\(c) set out above\] shall apply to all persons issued discharges under honorable conditions pursuant to section 401 of the GI Bill Improvements Act of 1977 \[Pub. L. 95–202, set out above\] whether such discharges are awarded before, on, or after the date of the enactment of this Act \[Sept. 24, 1983\]."\]
 
 \[Amendment of subsec. (a)(1)(B), set out above, by Pub. L. 96–466, effective Oct. 1, 1980, see section 802(h) of Pub. L. 96–466, set out as an Effective Date of 1980 Amendment note under section 3452 of this title.\]
 

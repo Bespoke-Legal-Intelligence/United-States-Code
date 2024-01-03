@@ -30,5 +30,5 @@ Act July 29, 1947, ch. 345, §1, 61 Stat. 511, as amended by Pub. L. 85–102, �
 
 #### Savings Provision
 
-Act July 29, 1947, ch. 345, §9, 61 Stat. 514, which provided that if any provision of this Act \[this chapter\] is held invalid for any cause, such invalidity shall not affect the other provisions hereof, was repealed by Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15.
+Act July 29, 1947, ch. 345, §9, 61 Stat. 514, which provided that if any provision of this Act \[this chapter\] isheld invalid for any cause, such invalidity shall not affect the other provisions hereof, was repealed by Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15.
 

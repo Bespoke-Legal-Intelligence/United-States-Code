@@ -110,7 +110,7 @@ In General.—The Administrator \[of the National Aeronautics and Space Administ
 
 "(b)
 
-Plan.—Not later than 180 days after the date of enactment of this Act \[Dec. 30, 2005\], the Administrator shall transmit to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan describing how NASA \[National Aeronautics and Space Administration\] will proceed with its human space flight programs, which, at a minimum, shall describe—
+Plan.—Not later than 180 days after the date of enactment of this Act \[Dec. 30, 2005\], the Administrator shall transmit to the Committee on Science \[now Committee on Science, Space, and Technology\] of theHouse of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan describing how NASA \[National Aeronautics and Space Administration\] will proceed with its human space flight programs, which, at a minimum, shall describe—
 
 &emsp;"(1) how NASA will deploy personnel from, and use the facilities of, the Space Shuttle program to ensure that the Space Shuttle operates as safely as possible through its final flight and to ensure that personnel and facilities from the Space Shuttle program are used in NASA's exploration programs in accordance with subsection (a);
 

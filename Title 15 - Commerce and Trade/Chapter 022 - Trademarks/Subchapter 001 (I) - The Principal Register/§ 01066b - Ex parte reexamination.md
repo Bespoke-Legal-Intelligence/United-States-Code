@@ -60,7 +60,7 @@ The procedures for reexamination shall be the same as the procedures established
 
 #### (f) Registrant's evidence of use
 
-A registrant's documentary evidence of use shall be consistent with when a mark shall be deemed to be in use in commerce under the definition of "use in commerce" in section 1127 ofthis title, but shall not be limited in form to that of specimens as provided in section 1051(a) of this title.
+A registrant's documentary evidence of use shall be consistent with when a mark shall be deemed to be in use in commerce under the definition of "use in commerce" in section 1127 of this title, but shall not be limited in form to that of specimens as provided in section 1051(a) of this title.
 
 #### (g) Examiner's decision; order to cancel
 
@@ -70,7 +70,7 @@ For each good or service for which it is determined that the registration should
 
 #### (1) In general
 
-&emsp;The Director may, on the Director's own initiative, institute an ex parte reexamination proceeding if the Director discovers information that supports a prima facie case of the mark having not been used in commerce on or in connection with some or all of the goods or services covered by the registration on or before the relevant date. The Director shall promptly notify the registrant of such determination, at which time reexamination shall proceed according to the same procedures established pursuant to subsection (e). If the Director determines, based on the Director's own initiative, to institute an ex parte reexamination proceeding, the Director shall transmit or make available the information that formed the basis for that determination as part of the institution notice.
+&emsp;The Director may, on the Director's own initiative, institute an ex parte reexamination proceeding if the Director discovers information that supports a prima facie case of the mark having not been used in commerce on orin connection with some or all of the goods or services covered by the registration on or before the relevant date. The Director shall promptly notify the registrant of such determination, at which time reexamination shall proceed according to the same procedures established pursuant to subsection (e). If the Director determines, based on the Director's own initiative, to institute an ex parte reexamination proceeding, the Director shall transmit or make available the information that formed the basis for that determination as part of the institution notice.
 
 #### (2) Rule of construction
 

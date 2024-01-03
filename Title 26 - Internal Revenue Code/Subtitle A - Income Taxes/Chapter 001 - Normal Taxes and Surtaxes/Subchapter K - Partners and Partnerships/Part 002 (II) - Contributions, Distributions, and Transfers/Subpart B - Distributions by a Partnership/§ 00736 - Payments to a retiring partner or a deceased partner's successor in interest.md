@@ -2,7 +2,7 @@
 
 #### (a) Payments considered as distributive share or guaranteed payment
 
-Payments made in liquidation of the interest of a retiring partner or a deceased partner shall, except as provided in subsection (b), be considered—
+Payments made in liquidation of the interest of a retiring partner or a deceased partner shall,except as provided in subsection (b), be considered—
 
 &emsp;(1) as a distributive share to the recipient of partnership income if the amount thereof is determined with regard to the income of the partnership, or
 

@@ -60,7 +60,7 @@ Appointments.—Within 90 days from the date of enactment of this Act \[Dec. 22,
 
 "(c)
 
-Terms.—The members of the Board shall serve for a term of 6 years, except that the original members of the Board shall be appointed for staggered terms as determined appropriate by the Secretary. A vacancy on the Board shall be filled within 60 days of the vacancy in the same manner in which the original appointment was made and shall be for the balance of the term of the individual who was replaced. No individual may serve more than 2 consecutive terms as a member.
+Terms.—The members of the Board shall serve for a term of 6 years, except that the original members of the Board shall be appointed for staggered terms as determined appropriate by the Secretary. A vacancy on the Board shall be filled within 60 days of the vacancy in the same manner in which the original appointment was made and shall be for the balance of the term ofthe individual who was replaced. No individual may serve more than 2 consecutive terms as a member.
 
 "(d)
 
@@ -248,6 +248,7 @@ Relief With Respect to Certain Foundation Acts or Failure To Act.—If the Found
 - [Chapters 1409 Through 1499&#8212;Reserved](Chapters%201409%20Through%201499%E2%80%94Reserved/README.md)
 - [Chapter 1501 - National Academy of Public Administration](Chapter%201501%20-%20National%20Academy%20of%20Public%20Administration/README.md)
 - [Chapter 1503 - National Academy of Sciences](Chapter%201503%20-%20National%20Academy%20of%20Sciences/README.md)
+- [Chapter 1504 - National American Indian Veterans, Incorporated](Chapter%201504%20-%20National%20American%20Indian%20Veterans%2C%20Incorporated/README.md)
 - [Chapter 1505 - National Conference of State Societies, Washington, District of Columbia](Chapter%201505%20-%20National%20Conference%20of%20State%20Societies%2C%20Washington%2C%20District%20of%20Columbia/README.md)
 - [Chapter 1507 - National Conference on Citizenship](Chapter%201507%20-%20National%20Conference%20on%20Citizenship/README.md)
 - [Chapter 1509 - National Council on Radiation Protection and Measurements](Chapter%201509%20-%20National%20Council%20on%20Radiation%20Protection%20and%20Measurements/README.md)

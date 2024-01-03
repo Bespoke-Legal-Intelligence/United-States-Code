@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director, through the Center for Quality Improvement and Patient Safety of the Agencyfor Healthcare Research and Quality (referred to in this section as the "Center"), shall award—
+The Director, through the Center for Quality Improvement and Patient Safety of the Agency for Healthcare Research and Quality (referred to in this section as the "Center"), shall award—
 
 &emsp;(1) technical assistance grants or contracts to eligible entities to provide technical support to institutions that deliver health care and health care providers (including rural and urban providers of services and suppliers with limited infrastructure and financial resources to implement and support quality improvement activities, providers of services and suppliers with poor performance scores, and providers of services and suppliers for which there are disparities in care among subgroups of patients) so that such institutions and providers understand, adapt, and implement the models and practices identified in the research conducted by the Center, including the Quality Improvement Networks Research Program; and
 
@@ -74,7 +74,7 @@ The Director may not award a grant or contract under this section to an entity u
 
 #### (f) Coordination
 
-The entities that receive a grant or contract under this section shall coordinate with healthinformation technology regional extension centers under section 300jj–32(c) of this title and the primary care extension program established under section 280g–12 of this title regarding the dissemination of quality improvement, system delivery reform, and best practices information.
+The entities that receive a grant or contract under this section shall coordinate with health information technology regional extension centers under section 300jj–32(c) of this title and the primary care extension program established under section 280g–12 of this title regarding the dissemination of quality improvement, system delivery reform, and best practices information.
 
 (July 1, 1944, ch. 373, title IX, §934, as added and amended Pub. L. 111–148, title III, §3501, title X, §10501(f)(3), Mar. 23, 2010, 124 Stat. 511, 996.)
 

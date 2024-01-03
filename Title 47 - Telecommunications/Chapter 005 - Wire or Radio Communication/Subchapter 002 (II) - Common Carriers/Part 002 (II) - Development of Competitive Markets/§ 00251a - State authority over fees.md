@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Nothing in this Act, any amendment made by this Act, the Communications Act of 1934 (47 U.S.C. 151 et seq.), or any Commission regulation or order may prevent the imposition and collection of a fee or charge applicable to a commercial mobile service or an IP-enabled voice service specifically designated by aState, a political subdivision of a State, an Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) for 9–8–8 related services, if the fee or charge is held in a sequestered account to be obligated or expended only in support of 9–8–8 services, or enhancements of such services, as specified in the provision of State or local law adopting the fee or charge.
+&emsp;Nothing in this Act, any amendment made by this Act, the Communications Act of 1934 (47 U.S.C. 151 et seq.), or any Commission regulation or order may prevent the imposition and collection of a fee or charge applicable to a commercial mobile service or an IP-enabled voice service specifically designated by a State, a political subdivision of a State, an Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) for 9–8–8 related services, if the fee or charge is held in a sequestered account to be obligated or expended only in support of 9–8–8 services, or enhancements of such services, as specified in the provision of State or local law adopting the fee or charge.
 
 #### (2) Use of 9–8–8 funds
 

@@ -24,7 +24,7 @@ The Secretary may conduct, and may request and utilize on a reimbursed or nonrei
 
 &emsp;(3) the collection, utilization, and disclosure of such information as may be necessary to implement the North Pacific Fisheries Convention, subject to sections 552 and 552a of title 5 and section 402(b) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1881a(b));
 
-&emsp;(4) the issuance of permits to owners and operators of United States vessels to engage in fishing activities in the Convention Area seaward of the exclusive economic zone of the United States, under such terms and conditions as the Secretary may prescribe, including the period of time that a permit is valid; and
+&emsp;(4) the issuance of permits to owners and operators of United States vessels to engage infishing activities in the Convention Area seaward of the exclusive economic zone of the United States, under such terms and conditions as the Secretary may prescribe, including the period of time that a permit is valid; and
 
 &emsp;(5) if recommended by the United States Commissioners, the assessment and collection of fees, not to exceed 3 percent of the ex-vessel value of fisheries resources harvested by vessels of the United States in fisheries conducted in the Convention Area, to recover the actual costs to the United States to carry out the functions of the Secretary under this chapter.
 
@@ -56,7 +56,7 @@ The Secretary shall ensure the consistency, to the extent practicable, of fisher
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d), is Pub. L.94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Tuna Conventions Act of 1950, referred to in subsec. (d), is act Sept. 7, 1950, ch. 907, 64 Stat. 777, which is classified generally to chapter 16 (§951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 

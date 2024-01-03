@@ -26,7 +26,7 @@ The Secretary may by regulations provide for the waiver of any provision of this
 
 A prior section 5312, act Aug. 16, 1954, ch. 736, 68A Stat. 659, made a cross reference to remission and refund of tax on alcohol for loss or leakage, prior to the general revision of this chapter by Pub. L. 85–859.
 
-Provisions similar to those comprising this section were contained in prior sections of act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
+Provisions similar to those comprising this section were contained in prior sections of act Aug. 16, 1954,prior to the general revision of this chapter by Pub. L. 85–859, as follows:
 
 &nbsp;
 

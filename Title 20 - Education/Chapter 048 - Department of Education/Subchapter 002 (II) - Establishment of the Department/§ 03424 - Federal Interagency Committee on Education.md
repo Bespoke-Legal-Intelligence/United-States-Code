@@ -24,7 +24,7 @@ The Committee shall be composed of the Secretary, who shall chair the Committee,
 
 #### (d) Designation of additional persons to attend meetings
 
-The Director of the Office of Management and Budget, the Chairman of the Council of Economic Advisers, the Director of the Office of Science and Technology Policy, and the Executive Director of the Domestic Policy Staff may each designate a staff member to attend meetings of the Committee.
+The Director of the Office of Management and Budget, the Chairman of the Council of Economic Advisers, the Director of the Office of Science and Technology Policy, and the Executive Director of the Domestic Policy Staff mayeach designate a staff member to attend meetings of the Committee.
 
 #### (e) Federal vocational education and training programs study; report
 

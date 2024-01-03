@@ -74,7 +74,7 @@ For purposes of subsection (b)(3) and this subsection—
 
 #### (A) In general
 
-&emsp;&emsp;A corporation that fails to meet the requirements of subsection (b)(3) (other than a failure described in subparagraph (B)(i) of this paragraph) for such quarter shall nevertheless be considered to have satisfied the requirements of such subsection for such quarter if—
+&emsp;&emsp;A corporation that fails to meet the requirements of subsection (b)(3) (other than a failure described in subparagraph (B)(i) of this paragraph) for such quarter shall nevertheless be considered to have satisfied therequirements of such subsection for such quarter if—
 
 &emsp;&emsp;&emsp;(i) following the corporation's identification of the failure to satisfy the requirements of such subsection for such quarter, a description of each asset that causes the corporation to fail to satisfy the requirements of such subsection at the close of such quarter is set forth in a schedule for such quarter filed in the manner provided by the Secretary,
 
@@ -190,7 +190,7 @@ For purposes of this section, the term "qualified publicly traded partnership" m
 
 &emsp;&emsp;(B) 1/9 of the gross income of such company which is derived from such sources.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 268; Pub. L. 85–866, title I, §38, Sept. 2, 1958, 72 Stat. 1638; Pub. L. 91–172, title IX, §908(a), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–12, title VI, §602(a)(2), Mar. 29, 1975, 89 Stat. 58; Pub. L. 94–455, title XIX, §§1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1783, 1834; Pub. L. 95–345, §2(a)(3), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §701(s)(1), Nov. 6, 1978, 92 Stat. 2911; Pub. L. 97–424, title V, §547(b)(1), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title X, §1071(a)(1), July 18, 1984, 98 Stat. 1049; Pub. L. 99–514, title VI, §§652(a), (b), 653(a)–(c), 654(a), title XII, §1235(f)(3), Oct. 22, 1986, 100 Stat. 2297, 2298, 2575; Pub. L. 100–647, title I, §1006(m), (n)(1), (2)(A), (B), (4), (5), (o), Nov. 10, 1988, 102 Stat. 3415, 3416; Pub. L. 105–34, title XII, §1271(a)–(b)(7), Aug. 5, 1997, 111 Stat. 1036, 1037; Pub. L. 108–357, title III, §331(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1476; Pub. L. 111–325, title II, §201(a), (b), Dec. 22, 2010, 124 Stat. 3539, 3540; Pub. L. 113–295, div. A, title II, §205(e), Dec. 19, 2014, 128 Stat. 4027; Pub. L. 115–97, title I, §14212(b)(1)(B), Dec. 22, 2017, 131 Stat. 2217.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 268; Pub. L. 85–866, title I, §38, Sept. 2, 1958, 72 Stat. 1638; Pub. L. 91–172, title IX, §908(a), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–12, title VI, §602(a)(2), Mar. 29, 1975, 89 Stat. 58; Pub. L. 94–455, title XIX, §§1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1783, 1834; Pub. L. 95–345, §2(a)(3), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §701(s)(1), Nov. 6, 1978, 92 Stat. 2911; Pub. L. 97–424, title V, §547(b)(1), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title X, §1071(a)(1), July 18, 1984, 98 Stat. 1049; Pub. L. 99–514, title VI, §§652(a), (b), 653(a)–(c), 654(a), title XII, §1235(f)(3), Oct. 22,1986, 100 Stat. 2297, 2298, 2575; Pub. L. 100–647, title I, §1006(m), (n)(1), (2)(A), (B), (4), (5), (o), Nov. 10, 1988, 102 Stat. 3415, 3416; Pub. L. 105–34, title XII, §1271(a)–(b)(7), Aug. 5, 1997, 111 Stat. 1036, 1037; Pub. L. 108–357, title III, §331(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1476; Pub. L. 111–325, title II, §201(a), (b), Dec. 22, 2010, 124 Stat. 3539, 3540; Pub. L. 113–295, div. A, title II, §205(e), Dec. 19, 2014, 128 Stat. 4027; Pub. L. 115–97, title I, §14212(b)(1)(B), Dec. 22, 2017, 131 Stat. 2217.)
 
 #### <b>Editorial Notes</b>
 
@@ -212,7 +212,7 @@ Subsec. (i). Pub. L. 111–325, §201(b), added subsec. (i).
 
 Subsec. (b)(2). Pub. L. 108–357, §331(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "at least 90 percent of its gross income is derived from dividends, interest, payments with respect to securities loans (as defined in section 512(a)(5)), and gains from the sale or other disposition of stock or securities (as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures, or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies; and".
 
-Subsec. (b)(3)(B). Pub. L. 108–357, §331(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "not more than 25 percent of the value of its total assets is invested in the securities (other than Government securities or the securities of otherregulated investment companies) of any one issuer, or of two or more issuers which the taxpayer controls and which are determined, under regulations prescribed by the Secretary, to be engaged in the same or similar trades or businesses or related trades or businesses."
+Subsec. (b)(3)(B). Pub. L. 108–357, §331(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "not more than 25 percent of the value of its total assets is invested in the securities (other than Government securities or the securities of other regulated investment companies) of any one issuer, or of two or more issuers which the taxpayer controls and which are determined, under regulations prescribed by the Secretary, to be engaged in the same or similar trades or businesses or related trades or businesses."
 
 Subsec. (c)(5), (6). Pub. L. 108–357, §331(c), added par. (5) and redesignated former par. (5) as (6).
 
@@ -354,7 +354,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §701(s)(3), Nov. 6, 1978, 92 Stat. 2911, provided that: "The amendments made by this section \[amending this section and section 852 of this title\] shall apply to taxable years beginning after December 31, 1975."
+Pub. L. 95–600, title VII, §701(s)(3), Nov. 6, 1978, 92 Stat. 2911, provided that: "The amendments made by this section \[amending this section and section 852 ofthis title\] shall apply to taxable years beginning after December 31, 1975."
 
 Amendment by Pub. L. 95–345 applicable with respect to amounts received after Dec. 31, 1976, as payments with respect to securities loans (as defined in section 512(a)(5) of this title), and transfers of securities, under agreements described in section 1058 of this title, occurring after such date, see section 2(e) of Pub. L. 95–345, set out as a note under section 509 of this title.
 

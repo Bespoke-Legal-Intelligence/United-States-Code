@@ -20,7 +20,7 @@ Elements.—Each report under subsection (a) shall include the following:
 
 &emsp;&emsp;(E) Details of the amounts of any funds transferred by the Secretary of Defense pursuant to section 2912 of this title, including a detailed description of the purpose for which such amounts have been used.
 
-&emsp;(2) Statistical information on operational energy demands of the Department, in termsof expenditures and consumption, for the preceding five fiscal years, including information on funding made available in regular defense appropriations Acts and any supplemental appropriations Acts.
+&emsp;(2) Statistical information on operational energy demands of the Department, in terms of expenditures and consumption, for the preceding five fiscal years, including information on funding made available in regular defense appropriations Acts and any supplemental appropriations Acts.
 
 &emsp;(3) A description of each initiative related to the operational energy strategy of the Department and a summary of funds appropriated for each initiative in the previous fiscal year and current fiscal year and requested for each initiative for the next five fiscal years.
 
@@ -92,7 +92,7 @@ Subsec. (b)(1). Pub. L. 115–91, §1081(a)(48), substituted "section 2926(b)" f
 
 Subsec. (a)(2) to (11). Pub. L. 114–328, §311(2)–(4), added par. (2), redesignated pars. (9) and (11) as pars. (3) and (4), respectively, and struck out former pars. (2) to (8) and (10), which required various tables and descriptions in reports.
 
-<b>2015</b>—Subsec. (a)(4). Pub. L. 114–92, §313(1), (2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: "In addition to the information contained in the table listing energy projects financed through third party financing mechanisms, as required by paragraph (3), the table also shall list any renewable energy certificates associated with each project, including information regarding whether the renewable energy certificates were bundled or unbundled, the purchasing authority for the renewable energy certificates, and the price of the associated renewable energy certificates."
+<b>2015</b>—Subsec. (a)(4). Pub. L. 114–92, §313(1), (2), redesignated par. (5) as (4) and struck out former par. (4)which read as follows: "In addition to the information contained in the table listing energy projects financed through third party financing mechanisms, as required by paragraph (3), the table also shall list any renewable energy certificates associated with each project, including information regarding whether the renewable energy certificates were bundled or unbundled, the purchasing authority for the renewable energy certificates, and the price of the associated renewable energy certificates."
 
 Subsec. (a)(5), (6). Pub. L. 114–92, §313(2), redesignated pars. (6) and (8) as (5) and (6), respectively. Former par. (5) redesignated (4).
 

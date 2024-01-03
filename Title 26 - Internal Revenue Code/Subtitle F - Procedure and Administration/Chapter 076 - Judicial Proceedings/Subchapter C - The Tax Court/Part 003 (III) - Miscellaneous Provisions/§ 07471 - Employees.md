@@ -42,7 +42,7 @@
 
 #### (8) Rights to certain appeals reserved
 
-&emsp;Notwithstanding any other provision of law, an individual who is an employee of the Tax Court on the day before the effective date ofthis subsection and who, as of that day, was entitled to—
+&emsp;Notwithstanding any other provision of law, an individual who is an employee of the Tax Court on the day before the effective date of this subsection and who, as of that day, was entitled to—
 
 &emsp;&emsp;(A) appeal a reduction in grade or removal to the Merit Systems Protection Board under chapter 43 of title 5, United States Code,
 

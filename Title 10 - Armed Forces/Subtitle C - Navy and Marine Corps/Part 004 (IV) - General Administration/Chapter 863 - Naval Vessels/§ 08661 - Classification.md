@@ -32,11 +32,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Policy of the United States on Minimum Number of Battle Force Ships
 
-Pub. L. 115–91, div. A, title X, §1025, Dec. 12, 2017, 131 Stat. 1549, provided that:
+Pub. L. 115–91, div. A, title X, §1025, Dec. 12, 2017, 131 Stat. 1549, as amended by Pub. L. 118–31, div. A, title X, §1020, Dec. 22, 2023, 137 Stat. 385, provided that:
 
 "(a)
 
-Policy.—It shall be the policy of the United States to have available, as soon as practicable, not fewer than 355 battle force ships, comprised of the optimal mix of platforms, with funding subject to the availability of appropriations or other funds.
+Policy.—It shall be the policy of the United States—
+
+&emsp;"(1) to have available, as soon as practicable, not fewer than 355 battle force ships, comprised of the optimal mix of platforms, with funding subject to the availability of appropriations or other funds; and
+
+&emsp;"(2) that the United States shipbuilding defense industrial base is fundamental to achieving the shipbuilding requirements of the Navy and constitutes a unique national security imperative that requires sustainment and support by the Navy and Congress.
 
 "(b)
 
@@ -52,7 +56,7 @@ Metering Required.—The Secretary of the Navy shall meter Navy piers so that th
 
 "(b)
 
-Progress Reports.—In each of the Department of Defense energy management reports submitted to Congress during fiscal years 2012 through 2017 under section 2925(a) of title 10, United States Code \[section 2925(a) of this title struck out, and new section 2925(a) of this title added, by Pub. L. 117–263, §314(b)(1)(B)\], the Secretary of the Navy shall include information on the progress being made to implement the metering of Navy piers, including information on any reductions in energy consumption achieved through the use of such metering."
+Progress Reports.—In each of the Department of Defense energy management reports submitted to Congress during fiscal years 2012 through 2017 undersection 2925(a) of title 10, United States Code \[section 2925(a) of this title struck out, and new section 2925(a) of this title added, by Pub. L. 117–263, §314(b)(1)(B)\], the Secretary of the Navy shall include information on the progress being made to implement the metering of Navy piers, including information on any reductions in energy consumption achieved through the use of such metering."
 
 #### Advance Procurement Funding
 
@@ -144,7 +148,7 @@ Applicability.—Subsection (a) shall apply only with respect to appropriations 
 
 #### Repair of Vessels in Foreign Shipyards
 
-Pub. L. 99–500, §101(c) \[title IX, §9101\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, §101(c) \[title IX, §9101\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, provided that: "No naval vessel or any vessel owned and operated by the Department of Defense homeported in the United States may be overhauled, repaired, or maintained in a foreign owned and operated shipyard located outside of the United States, except for voyage repairs."
+Pub. L. 99–500, §101(c) \[title IX, §9101\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, §101(c) \[title IX, §9101\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118,provided that: "No naval vessel or any vessel owned and operated by the Department of Defense homeported in the United States may be overhauled, repaired, or maintained in a foreign owned and operated shipyard located outside of the United States, except for voyage repairs."
 
 #### Encouragement of Construction in United States Shipyards of Combatant Vessels for United States Allies
 
@@ -176,7 +180,7 @@ Pub. L. 97–114, title VII, §791, Dec. 29, 1981, 95 Stat. 1593, provided that:
 
 &emsp;"(2) In order to conduct the numerous and growing missions of the modern American Navy, a goal of a naval inventory of approximately six hundred active ships of various types by the end of the century at the latest, is highly desirable, the exact figure to be flexible to accommodate new designs as the specific details of our naval missions evolve to meet various contingencies.
 
-&emsp;"(3) The Secretary of Defense comply with section 808 of Public Law 94–106, the Department of Defense Appropriation Authorization Act of 1976 \[set out as anote under this section\], in order that the Congress may more properly appropriate the funds necessary to reach a six hundred-ship goal at least by the end of the present century."
+&emsp;"(3) The Secretary of Defense comply with section 808 of Public Law 94–106, the Department of Defense Appropriation Authorization Act of 1976 \[set out as a note under this section\], in order that the Congress may more properly appropriate the funds necessary to reach a six hundred-ship goal at least by the end of the present century."
 
 #### Tonnage Balance for Construction of Ships; Repeal
 

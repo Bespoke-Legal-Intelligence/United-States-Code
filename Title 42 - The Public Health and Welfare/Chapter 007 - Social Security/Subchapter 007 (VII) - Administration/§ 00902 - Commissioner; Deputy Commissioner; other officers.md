@@ -34,7 +34,7 @@
 
 #### (c) Chief Actuary
 
-(1) There shall be in the Administration a Chief Actuary, who shall be appointed by, and in direct line of authority to, the Commissioner. The Chief Actuary shall be appointed from individuals who have demonstrated, by their education and experience, superior expertise in theactuarial sciences. The Chief Actuary shall serve as the chief actuarial officer of the Administration, and shall exercise such duties as are appropriate for the office of the Chief Actuary and in accordance with professional standards of actuarial independence. The Chief Actuary may be removed only for cause.
+(1) There shall be in the Administration a Chief Actuary, who shall be appointed by, and in direct line of authority to, the Commissioner. The Chief Actuary shall be appointed from individuals who have demonstrated, by their education and experience, superior expertise in the actuarial sciences. The Chief Actuary shall serve as the chief actuarial officer of the Administration, and shall exercise such duties as are appropriate for the office of the Chief Actuary and in accordance with professional standards of actuarial independence. The Chief Actuary may be removed only for cause.
 
 (2) The Chief Actuary shall be compensated at the highest rate of basic pay for the Senior Executive Service under section 5382(b) of title 5.
 
@@ -44,7 +44,7 @@ There shall be in the Administration a Chief Financial Officer appointed by the 
 
 #### (e) Inspector General
 
-There shall be in the Administration an Inspector General appointed by the President, by and with the advice and consent of the Senate, in accordance with section 403(a) of title 5.
+There shall be in the Administration an Inspector General appointed by the President, byand with the advice and consent of the Senate, in accordance with section 403(a) of title 5.
 
 (Aug. 14, 1935, ch. 531, title VII, §702, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(C)(i), (l)(1), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §102, Aug. 15, 1994, 108 Stat. 1465; Pub. L. 104–121, title I, §103(e)(1), Mar. 29, 1996, 110 Stat. 851; Pub. L. 117–286, §4(b)(76), Dec. 27, 2022, 136 Stat. 4351.)
 
@@ -114,7 +114,7 @@ Report by Secretary.—Not later than January 1, 1993, the Secretary shall submi
 
 "(d)
 
-GAO Report.—The Comptroller General of the United States shall review the level of telephone access by the public to the local offices of the Social Security Administration. The Comptroller General shall file an interim report with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate describing such level of telephone access not later than 120 days after the date of the enactment of this Act \[Nov. 5, 1990\] and shall file a final report with such Committees describing such level of access not later than 210 days after such date.
+GAO Report.—The Comptroller General of the United States shall review the level of telephone access by the public to the local offices of the Social Security Administration. The Comptroller General shall file an interim report with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate describing such level of telephone access not later than 120 days after the date of the enactment of this Act \[Nov. 5, 1990\] and shall file afinal report with such Committees describing such level of access not later than 210 days after such date.
 
 "(e)
 

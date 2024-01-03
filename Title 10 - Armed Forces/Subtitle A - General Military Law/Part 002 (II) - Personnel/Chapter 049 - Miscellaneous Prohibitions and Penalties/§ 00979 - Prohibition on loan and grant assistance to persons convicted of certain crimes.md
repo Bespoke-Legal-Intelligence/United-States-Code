@@ -1,6 +1,6 @@
 ### §979. Prohibition on loan and grant assistance to persons convicted of certain crimes
 
-Funds appropriated to the Department of Defense may not be used to provide a loan, a guarantee of a loan, or a grant to any person who hasbeen convicted by a court of general jurisdiction of any crime which involves the use of (or assisting others in the use of) force, trespass, or the seizure of property under the control of an institution of higher education to prevent officials or students of the institution from engaging in their duties or pursuing their studies.
+Funds appropriated to the Department of Defense may not be used to provide a loan, a guarantee of a loan, or a grant to any person who has been convicted by a court of general jurisdiction of any crime which involves the use of (or assisting others in the use of) force, trespass, or the seizure of property under the control of an institution of higher education to prevent officials or students of the institution from engaging in their duties or pursuing their studies.
 
 (Added Pub. L. 98–525, title XIV, §1401(c)(1), Oct. 19, 1984, 98 Stat. 2615.)
 

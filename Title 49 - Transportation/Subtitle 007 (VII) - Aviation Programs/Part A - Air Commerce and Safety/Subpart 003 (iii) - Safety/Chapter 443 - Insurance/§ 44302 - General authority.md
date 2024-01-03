@@ -16,7 +16,7 @@ In general.—The Secretary may reimburse an air carrier for the increase in the
 
 &emsp;(2)
 
-Payment from revolving fund.—A reimbursement under this subsection shall be paid from the revolving fund established by section 44307.
+Payment from revolving fund.—A reimbursement under this subsection shall be paidfrom the revolving fund established by section 44307.
 
 &emsp;(3)
 
@@ -28,7 +28,7 @@ Termination of authority.—The authority to reimburse air carriers under this s
 
 (c)
 
-Presidential Approval.—The Secretary may provide insurance or reinsurance under subsection (a) of this section, or reimburse an aircarrier under subsection (b) of this section, only with the approval of the President. The President may approve the insurance or reinsurance or the reimbursement only after deciding that the continued operation of the American aircraft or foreign-flag aircraft to be insured or reinsured is necessary in the interest of air commerce or national security or to carry out the foreign policy of the United States Government.
+Presidential Approval.—The Secretary may provide insurance or reinsurance under subsection (a) of this section, or reimburse an air carrier under subsection (b) of this section, only with the approval of the President. The President may approve the insurance or reinsurance or the reimbursement only after deciding that the continued operation of the American aircraft or foreign-flag aircraft to be insured or reinsured is necessary in the interest of air commerce or national security or to carry out the foreign policy of the United States Government.
 
 (d)
 
@@ -110,7 +110,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1311, 72 Stat. 806.
 
 In subsection (a)(1), before clause (A), the words "Subject to subsection (b) of this section" are added, and the words "American aircraft or foreign-flag aircraft" are substituted for "aircraft" in 49 App.:1532(a), for clarity. The words "in the manner and to the extent provided by this subchapter" are omitted as unnecessary. The words "Insurance shall be issued under this subchapter only to cover any risk from the operation of an aircraft . . . such aircraft is" are omitted because of the restatement. In clause (B), the word "places" is substituted for "points" for consistency in the revised title.
 
-In subsection (a)(2), the words "An aircraft may be insured or reinsured for not more than" are substituted for "and such stated amount shall not exceed" in 49 App.:1537(a) for clarity and because of the restatement. The words "its reasonable value" are substituted for "an amount . . . to represent the fair and reasonablevalue of the aircraft" to eliminate unnecessary words. The words "Insurance or reinsurance may be provided only" are added because of the restatement. The word "conditions" is omitted as being included in "terms".
+In subsection (a)(2), the words "An aircraft may be insured or reinsured for not more than" are substituted for "and such stated amount shall not exceed" in 49 App.:1537(a) for clarity and because of the restatement. The words "its reasonable value" are substituted for "an amount . . . to represent the fair and reasonable value of the aircraft" to eliminate unnecessary words. The words "Insurance or reinsurance may be provided only" are added because of the restatement. The word "conditions" is omitted as being included in "terms".
 
 In subsection (b), the words "The Secretary may provide insurance or reinsurance under subsection (a) of this section only with the approval of the President" are substituted for "with the approval of the President" for clarity and because of the restatement. The words "The President may" are substituted for "The President shall" because the authority of the President is discretionary.
 
@@ -200,7 +200,7 @@ Subsec. (d). Pub. L. 107–42, §201(a)(2), (5), redesignated subsec. (c) as (d)
 
 Subsec. (e). Pub. L. 107–42, §201(a)(2), redesignated subsec. (d) as (e).
 
-<b>1997</b>—Subsec. (a)(2). Pub. L. 105–137 substituted "as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry." for "as determined by the Secretary."
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–137 substituted "as determined by the Secretary in accordance with reasonable business practices in the commercial aviationinsurance industry." for "as determined by the Secretary."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

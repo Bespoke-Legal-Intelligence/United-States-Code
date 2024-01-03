@@ -20,7 +20,7 @@ In making a valuation of the property of any wire telephone carrier the Commissi
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", meaning act June 19, 1934,ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 
@@ -30,5 +30,5 @@ This chapter, referred to in subsecs. (b) and (c), was in the original "this Act
 
 <b>1956</b>—Subsec. (a). Act Aug. 2, 1956, inserted provisions relating to submission of comments by parties and required a public hearing upon request, in lieu of former provisions requiring hearing upon application.
 
-<b>1954</b>—Subsec. (b). Act Apr. 27, 1954, included mobile or point-to-point radio telephone exchange service withinexclusions provided for in such subsection, where it is subject to regulation by a State commission or by local governmental authority, and made it clear that the Commission retains its licensing authority over the radio stations that might be involved in such service.
+<b>1954</b>—Subsec. (b). Act Apr. 27, 1954, included mobile or point-to-point radio telephone exchange service within exclusions provided for in such subsection, where it is subject to regulation by a State commission or by local governmental authority, and made it clear that the Commission retains its licensing authority over the radio stations that might be involved in such service.
 

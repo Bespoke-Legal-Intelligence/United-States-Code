@@ -98,7 +98,7 @@ Upon the approval of a self-determination contract, the Secretary shall add to t
 
 #### (h) Indirect costs for contracts for construction programs
 
-In calculating the indirect costs associated with a self-determination contract for a construction program, the Secretary shall take into consideration only those costs associated with the administration of the contract and shall not take into consideration those moneys actually passed on by the tribal organization to construction contractors and subcontractors.
+In calculating the indirect costs associated with a self-determination contract for a construction program, the Secretary shall take into consideration only those costs associated with the administration of the contract and shall not take into consideration those moneys actuallypassed on by the tribal organization to construction contractors and subcontractors.
 
 #### (i) Indian Health Service and Bureau of Indian Affairs budget consultations
 
@@ -110,7 +110,7 @@ Notwithstanding any other provision of law, a tribal organization may use funds 
 
 #### (k) Allowable uses of funds without approval of Secretary
 
-Without intending any limitation, a tribal organization may, without the approval of theSecretary, expend funds provided under a self-determination contract for the following purposes, to the extent that the expenditure of the funds is supportive of a contracted program:
+Without intending any limitation, a tribal organization may, without the approval of the Secretary, expend funds provided under a self-determination contract for the following purposes, to the extent that the expenditure of the funds is supportive of a contracted program:
 
 &emsp;(1) Depreciation and use allowances not otherwise specifically prohibited by law, including the depreciation of facilities owned by the tribe or tribal organization.
 

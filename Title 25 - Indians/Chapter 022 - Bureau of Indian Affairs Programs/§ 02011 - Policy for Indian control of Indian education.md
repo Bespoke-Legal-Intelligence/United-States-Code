@@ -8,7 +8,7 @@ It shall be the policy of the United States acting through the Secretary, in car
 
 #### (1) In general
 
-&emsp;All actions under this Act shall be done with active consultation with tribes. The United States acting through the Secretary and tribes shall work in a government-to-government relationship to ensure quality education for all tribal members.
+&emsp;All actions under this Act shall be done with active consultation with tribes. The UnitedStates acting through the Secretary and tribes shall work in a government-to-government relationship to ensure quality education for all tribal members.
 
 #### (2) Requirements
 

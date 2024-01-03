@@ -64,6 +64,7 @@
 | [1928c.](Subchapter%20003%20%28III%29%20-%20Economic%20Assistance/Part%20D%20-%20Special%20Assistance%20and%20Other%20Programs/%C2%A7%2001928c%20-%20Report%20to%20the%20Congress.md) | Report to the Congress. |
 | [1928d.](Subchapter%20003%20%28III%29%20-%20Economic%20Assistance/Part%20D%20-%20Special%20Assistance%20and%20Other%20Programs/%C2%A7%2001928d%20-%20Auditing%20and%20accounting.md) | Auditing and accounting. |
 | [1928e.](Subchapter%20003%20%28III%29%20-%20Economic%20Assistance/Part%20D%20-%20Special%20Assistance%20and%20Other%20Programs/%C2%A7%2001928e%20-%20North%20Atlantic%20Assembly%3B%20appropriations%20for%20expenses%20of%20annual%20meeting.md) | North Atlantic Assembly; appropriations for expenses of annual meeting. |
+| [1928f.](Subchapter%20003%20%28III%29%20-%20Economic%20Assistance/Part%20D%20-%20Special%20Assistance%20and%20Other%20Programs/%C2%A7%2001928f%20-%20Limitation%20on%20withdrawal%20from%20the%20North%20Atlantic%20Treaty%20Organization.md) | Limitation on withdrawal from the North Atlantic Treaty Organization. |
 | 1929 to 1936. Repealed. |  |
 | [1937\.](Subchapter%20003%20%28III%29%20-%20Economic%20Assistance/Part%20D%20-%20Special%20Assistance%20and%20Other%20Programs/%C2%A7%2001937%20-%20Irish%20counterpart%20account%3B%20approval%20of%20disposition.md) | Irish counterpart account; approval of disposition. |
 | 1938 to 1941. Repealed. |  |

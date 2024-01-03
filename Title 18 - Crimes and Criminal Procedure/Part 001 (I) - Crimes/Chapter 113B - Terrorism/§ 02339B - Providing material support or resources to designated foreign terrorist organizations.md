@@ -6,7 +6,7 @@ Prohibited Activities.—
 
 &emsp;(1)
 
-Unlawful conduct.—Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 20 years, or both, and, if the death of any person results,shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
+Unlawful conduct.—Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 20 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
 
 &emsp;(2)
 
@@ -104,7 +104,7 @@ Introduction of classified information; precautions by court.—
 
 &emsp;&emsp;(A)
 
-Exhibits.—To prevent unnecessary or inadvertent disclosure of classified information in a civil proceeding brought by the United States under this section, the UnitedStates may petition the court ex parte to admit, in lieu of classified writings, recordings, or photographs, one or more of the following:
+Exhibits.—To prevent unnecessary or inadvertent disclosure of classified information in a civil proceeding brought by the United States under this section, the United States may petition the court ex parte to admit, in lieu of classified writings, recordings, or photographs, one or more of the following:
 
 &emsp;&emsp;&emsp;(i) Copies of items from which classified information has been redacted.
 
@@ -280,5 +280,5 @@ Findings.—The Congress finds that—
 
 "(b)
 
-Purpose.—The purpose of this subtitle \[subtitle A (§§301–303) of title III of Pub. L. 104–132, enacting this section and section 1189 of Title 8, Aliens and Nationality\] is to provide the Federal Government the fullest possible basis, consistent with the Constitution, to prevent persons within the United States, or subject to the jurisdiction of the United States, from providing material support or resources to foreign organizations that engage in terrorist activities."
+Purpose.—The purpose of this subtitle \[subtitle A (§§301–303) of title III of Pub. L. 104–132, enacting thissection and section 1189 of Title 8, Aliens and Nationality\] is to provide the Federal Government the fullest possible basis, consistent with the Constitution, to prevent persons within the United States, or subject to the jurisdiction of the United States, from providing material support or resources to foreign organizations that engage in terrorist activities."
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Manpower Requirements of National Guard Bureau.—The manpower requirements of the National Guard Bureau as a joint activity of the Department of Defense shall be determined in accordance with regulations prescribed by theSecretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff.
+Manpower Requirements of National Guard Bureau.—The manpower requirements of the National Guard Bureau as a joint activity of the Department of Defense shall be determined in accordance with regulations prescribed by the Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff.
 
 (b)
 

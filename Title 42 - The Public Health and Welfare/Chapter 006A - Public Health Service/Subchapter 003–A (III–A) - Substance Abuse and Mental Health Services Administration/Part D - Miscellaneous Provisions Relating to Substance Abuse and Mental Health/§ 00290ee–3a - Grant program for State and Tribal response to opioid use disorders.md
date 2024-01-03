@@ -24,7 +24,7 @@ The Secretary of Health and Human Services (referred to in this section as the "
 
 &emsp;&emsp;&emsp;&emsp;(I) with respect to allocations for States, gives preference to States whose populations have a prevalence of opioid misuse and use disorders or drug overdose deaths that is substantially higher relative to the populations of other States;
 
-&emsp;&emsp;&emsp;&emsp;(II) with respect to allocations for Tribes and Tribal organizations, gives preferences to Tribes and Tribal organizations (including those applying inpartnership with an Urban Indian organization) serving populations with demonstrated need with respect to opioid misuse and use disorders or drug overdose deaths;
+&emsp;&emsp;&emsp;&emsp;(II) with respect to allocations for Tribes and Tribal organizations, gives preferences to Tribes and Tribal organizations (including those applying in partnership with an Urban Indian organization) serving populations with demonstrated need with respect to opioid misuse and use disorders or drug overdose deaths;
 
 &emsp;&emsp;&emsp;&emsp;(III) includes performance assessments for continuation awards; and
 
@@ -180,7 +180,7 @@ Subsec. (b)(2)(A). Pub. L. 115–271, §7181(a)(5)(B)(ii), substituted "Establis
 
 Subsec. (b)(2)(C). Pub. L. 115–271, §7181(a)(5)(B)(iii), inserted "preventing diversion of controlled substances," after "treatment programs,".
 
-Subsec. (b)(2)(E). Pub. L. 115–271, §7181(a)(5)(B)(iv), substituted "as the State or Indian Tribe determines appropriate, related to addressing the opioid abuse crisis within the State or Indian Tribe, including directing resources in accordance with local needs related to substance use disorders" for "as the State determinesappropriate, related to addressing the opioid abuse crisis within the State".
+Subsec. (b)(2)(E). Pub. L. 115–271, §7181(a)(5)(B)(iv), substituted "as the State or Indian Tribe determines appropriate, related to addressing the opioid abuse crisis within the State or Indian Tribe, including directing resources in accordance with local needs related to substance use disorders" for "as the State determines appropriate, related to addressing the opioid abuse crisis within the State".
 
 Subsec. (c). Pub. L. 115–271, §7181(a)(6), substituted "subsection (b)" for "subsection (c)" in introductory provisions.
 
@@ -192,7 +192,7 @@ Pub. L. 115–271, §7181(a)(3), redesignated subsec. (e) as (d). Former subsec.
 
 Subsec. (d)(1). Pub. L. 115–271, §7181(a)(7)(B), substituted "subsection (b)" for "subsection (c)".
 
-Subsecs. (e) to (i). Pub. L. 115–271, §7181(a)(8), added subsecs. (e) to (i). Former subsecs. (e) and (f) redesignated (d) and (j), respectively.
+Subsecs. (e) to (i). Pub. L. 115–271, §7181(a)(8), added subsec. (e) to (i). Former subsecs. (e) and (f) redesignated (d) and (j), respectively.
 
 Subsec. (j). Pub. L. 115–271, §7181(a)(4), redesignated subsec. (f) as (j).
 

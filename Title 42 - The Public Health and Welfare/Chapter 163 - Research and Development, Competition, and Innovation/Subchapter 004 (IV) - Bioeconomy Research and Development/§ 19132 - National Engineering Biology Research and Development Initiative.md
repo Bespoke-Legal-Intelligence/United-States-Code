@@ -56,7 +56,7 @@ The activities of the Initiative shall include the following:
 
 &emsp;(4) Support for education and training of undergraduate and graduate students in engineering biology, biomanufacturing, bioprocess engineering, and computational science applied to engineering biology and in the related ethical, legal, environmental, safety, security, and other societal domains.
 
-&emsp;(5) Support for a national network of testbeds based on open standards, interfaces,and processes, including by repurposing existing facilities such as those specified in paragraph (3)(C), that would enable scale up of laboratory engineering biology research.
+&emsp;(5) Support for a national network of testbeds based on open standards, interfaces, and processes, including by repurposing existing facilities such as those specified in paragraph (3)(C), that would enable scale up of laboratory engineering biology research.
 
 &emsp;(6) Activities to develop robust mechanisms for documenting and quantifying the outputs and economic benefits of engineering biology.
 

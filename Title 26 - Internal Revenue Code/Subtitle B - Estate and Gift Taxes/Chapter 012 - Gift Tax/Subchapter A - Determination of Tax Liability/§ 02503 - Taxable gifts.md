@@ -16,7 +16,7 @@ The term "taxable gifts" means the total amount of gifts made during the calenda
 
 &emsp;&emsp;(A) $10,000, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendaryear by substituting "calendar year 1997" for "calendar year 2016" in subparagraph (A)(ii) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 1997" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;If any amount as adjusted under the preceding sentence is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
 

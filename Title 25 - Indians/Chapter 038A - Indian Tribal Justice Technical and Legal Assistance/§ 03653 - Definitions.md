@@ -20,7 +20,7 @@ For purposes of this chapter:
 
 #### (5) Judicial personnel
 
-&emsp;The term "judicial personnel" means any judge, magistrate, court counselor, courtclerk, court administrator, bailiff, probation officer, officer of the court, dispute resolution facilitator, or other official, employee, or volunteer within the tribal judicial system.
+&emsp;The term "judicial personnel" means any judge, magistrate, court counselor, court clerk, court administrator, bailiff, probation officer, officer of the court, dispute resolution facilitator, or other official, employee, or volunteer within the tribal judicial system.
 
 #### (6) Non-profit entities
 

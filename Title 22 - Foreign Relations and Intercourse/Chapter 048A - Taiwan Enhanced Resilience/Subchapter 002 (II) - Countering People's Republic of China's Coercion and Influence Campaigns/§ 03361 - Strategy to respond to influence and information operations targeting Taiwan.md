@@ -20,7 +20,7 @@ The strategy required under subsection (a) shall include descriptions of—
 
 &emsp;&emsp;(C) media training for Taiwan officials and other Taiwan entities targeted by disinformation campaigns;
 
-&emsp;(2) the proposed response to political influence operations that includes an assessment of the extent of influence exerted by the Government of the People's Republic of China and the Chinese Communist Party in Taiwan on local political parties, financial institutions, media organizations, and other entities;
+&emsp;(2) the proposed response to political influence operations that includes an assessment ofthe extent of influence exerted by the Government of the People's Republic of China and the Chinese Communist Party in Taiwan on local political parties, financial institutions, media organizations, and other entities;
 
 &emsp;(3) support for exchanges and other technical assistance to strengthen the Taiwan legal system's ability to respond to sharp power operations; and
 

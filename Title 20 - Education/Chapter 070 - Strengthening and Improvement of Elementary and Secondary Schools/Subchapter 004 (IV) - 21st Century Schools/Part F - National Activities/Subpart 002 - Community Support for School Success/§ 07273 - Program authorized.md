@@ -8,7 +8,7 @@
 
 #### (A) Promise neighborhoods
 
-&emsp;&emsp;The implementation of a comprehensive, effective continuum of coordinated servicesthat meets the purpose described in section 7271(1) of this title by carrying out activities in neighborhoods with—
+&emsp;&emsp;The implementation of a comprehensive, effective continuum of coordinated services that meets the purpose described in section 7271(1) of this title by carrying out activities in neighborhoods with—
 
 &emsp;&emsp;&emsp;(i) high concentrations of low-income individuals;
 
@@ -42,7 +42,7 @@ Continued funding of a grant under this subpart, including a grant extended unde
 
 #### (A) Matching funds
 
-&emsp;&emsp;Each eligible entity receiving a grant under this subpart for activities described in section 7274 of this title shall contribute matching funds in an amount equal to not less than 100 percent of the amount of the grant. Such matching funds shall come from Federal, State, local, and private sources.
+&emsp;&emsp;Each eligible entity receiving a grant under this subpart for activities described insection 7274 of this title shall contribute matching funds in an amount equal to not less than 100 percent of the amount of the grant. Such matching funds shall come from Federal, State, local, and private sources.
 
 #### (B) Private sources
 

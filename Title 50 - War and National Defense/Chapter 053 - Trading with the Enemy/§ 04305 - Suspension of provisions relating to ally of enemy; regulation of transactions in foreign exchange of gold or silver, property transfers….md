@@ -10,7 +10,7 @@ If the President shall have reasonable cause to believe that any act is about to
 
 &emsp;(B) investigate, regulate, direct and compel, nullify, void, prevent or prohibit, any acquisition holding, withholding, use, transfer, withdrawal, transportation, importation or exportation of, or dealing in, or exercising any right, power, or privilege with respect to, or transactions involving, any property in which any foreign country or a national thereof has any interest,
 
-> by any person, or with respect to any property, subject to the jurisdiction of the United States; and any property or interest of any foreign country or national thereof shall vest, when, as, and upon the terms, directed by the President, in such agency or person as may be designated from time to time by the President, and upon such terms and conditions as the President may prescribe such interest or property shall be held, used, administered, liquidated, sold, or otherwise dealt with in the interest of and for the benefit of the United States, and such designated agency or person may perform any and all acts incident to the accomplishment or furtherance of these purposes; and the President shall, in the manner hereinabove provided, require any person to keep a full record of, and to furnish under oath, in the form of reports or otherwise, complete information relative to any act or transaction referred to in this subdivision either before, during, or after the completion thereof, or relative to any interest in foreign property, or relative to any property in which any foreign country or any national thereof has or has had any interest, or as may be otherwisenecessary to enforce the provisions of this subdivision, and in any case in which a report could be required, the President may, in the manner hereinabove provided, require the production, or if necessary to the national security or defense, the seizure, of any books of account, records, contracts, letters, memoranda, or other papers, in the custody or control of such person.
+> by any person, or with respect to any property, subject to the jurisdiction of the United States; and any property or interest of any foreign country or national thereof shall vest, when, as, and upon the terms, directed by the President, in such agency or person as may be designated from time to time by the President, and upon such terms and conditions as the President may prescribe such interest or property shall be held, used, administered, liquidated, sold, or otherwise dealt with in the interest of and for the benefit of the United States, and such designated agency or person may perform any and all acts incident to the accomplishment or furtherance of these purposes; and the President shall, in the manner hereinabove provided, require any person to keep a full record of, and to furnish under oath, in the form of reports or otherwise, complete information relative to any act or transaction referred to in this subdivision either before, during, or after the completion thereof, or relative to any interest in foreign property, or relative to any property in which any foreign country or any national thereof has or has had any interest, or as may be otherwise necessary to enforce the provisions of this subdivision, and in any case in which a report could be required, the President may, in the manner hereinabove provided, require the production, or if necessary to the national security or defense, the seizure, of any books of account, records, contracts, letters, memoranda, or other papers, in the custody or control of such person.
 
 (2) Any payment, conveyance, transfer, assignment, or delivery of property or interest therein, made to or for the account of the United States, or as otherwise directed, pursuant to this subdivision or any rule, regulation, instruction, or direction issued hereunder shall to the extent thereof be a full acquittance and discharge for all purposes of the obligation of the person making the same; and no person shall be held liable in any court for or in respect to anything done or omitted in good faith in connection with the administration of, or in pursuance of and in reliance on, this subdivision, or any rule, regulation, instruction, or direction issued hereunder.
 
@@ -96,13 +96,13 @@ Sec. 3. This proclamation is not intended to, and does not, create any right, be
 
 Sec. 4. This proclamation is effective at 12:01 a.m. eastern daylight time on June 27, 2008.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this twenty-sixth day of June, in the year of our Lord two thousand eight, and of the Independence of the United States of America the two hundred and thirty-second.
+IN WITNESS WHEREOF, I have hereunto set my hand this twenty-sixth day of June, in the year of ourLord two thousand eight, and of the Independence of the United States of America the two hundred and thirty-second.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 8389. Regulating Transactions in Foreign Exchange and Foreign-Owned Property, Providing for the Reporting of All Foreign-Owned Property
 
-Ex. Ord. No. 8389, Apr. 10, 1940, 5 F.R. 1400, as amended by Ex. Ord. No. 8405, May 10, 1940, 5 F.R. 1677; Ex. Ord. No. 8446, June 17, 1940, 5 F.R. 2279; Ex. Ord. No. 8484, July 15, 1940, 5 F.R. 2586; Ex. Ord. No. 8493, July 25, 1940, 5 F.R. 2667; Ex. Ord. No. 8565, Oct. 10, 1940, 5 F.R. 4062; Ex. Ord. No. 8701, Mar. 4, 1941, 6 F.R. 1285; Ex. Ord. No.8711, Mar. 13, 1941, 6 F.R. 1443; Ex. Ord. No. 8721, Mar. 24, 1941, 6 F.R. 1622; Ex. Ord. No. 8746, Apr. 28, 1941, 6 F.R. 2187; Ex. Ord. No. 8785, June 14, 1941, 6 F.R. 2897; Ex. Ord. No. 8832, July 26, 1941, 6 F.R. 3715; Ex. Ord. No. 8963, Dec. 9, 1941, 6 F.R. 6348; Ex. Ord. No. 8998, Dec. 26, 1941, 6 F.R. 6787, provided:
+Ex. Ord. No. 8389, Apr. 10, 1940, 5 F.R. 1400, as amended by Ex. Ord. No. 8405, May 10, 1940, 5 F.R. 1677; Ex. Ord. No. 8446, June 17, 1940, 5 F.R. 2279; Ex. Ord. No. 8484, July 15, 1940, 5 F.R. 2586; Ex. Ord. No. 8493, July 25, 1940, 5 F.R. 2667; Ex. Ord. No. 8565, Oct. 10, 1940, 5 F.R. 4062; Ex. Ord. No. 8701, Mar. 4, 1941, 6 F.R. 1285; Ex. Ord. No. 8711, Mar. 13, 1941, 6 F.R. 1443; Ex. Ord. No. 8721, Mar. 24, 1941, 6 F.R. 1622; Ex. Ord. No. 8746, Apr. 28, 1941, 6 F.R. 2187; Ex. Ord. No. 8785, June 14, 1941, 6 F.R. 2897; Ex. Ord. No. 8832, July 26, 1941, 6 F.R. 3715; Ex. Ord. No. 8963, Dec. 9, 1941, 6 F.R. 6348; Ex. Ord. No. 8998, Dec. 26, 1941, 6 F.R. 6787, provided:
 
 #### section 1. certain foreign banking transactions prohibited
 
@@ -230,7 +230,7 @@ The "effective date of this Order" with respect to any foreign country not desig
 
 #### section 4. records of foreign banking and security transactions; investigations
 
-A. The Secretary of the Treasury and/or the Attorney General may require, by means of regulations, rulings, instructions, or otherwise, any person to keep a full record of, and to furnish under oath, in the form of reports or otherwise, from time to time and at any time or times, complete information relative to, any transaction referred to in section 5(b) of the Act of October 6, 1917 (40 Stat. 415) \[50 U.S.C. 4305(b)\], as amended, or relative to any property in which any foreign country or any national thereof has any interest of any nature whatsoever, direct or indirect, including the production of any books of account, contracts, letters, or other papers, in connection therewith, in the custody or control of such person, either before or after such transaction is completed; and the Secretary of the Treasury and/or the Attorney General may, through any agency, investigate any such transaction or act, or any violation of the provisions of this Order.
+A. The Secretary of the Treasury and/or the Attorney General may require, by means of regulations, rulings, instructions, or otherwise, any person to keep a full record of, and to furnish under oath, in the form of reports or otherwise, from time to time and at any time or times, complete information relative to, any transaction referred to in section 5(b) of the Act of October 6, 1917 (40 Stat. 415) \[50 U.S.C. 4305(b)\], as amended, or relative to any property in which any foreign countryor any national thereof has any interest of any nature whatsoever, direct or indirect, including the production of any books of account, contracts, letters, or other papers, in connection therewith, in the custody or control of such person, either before or after such transaction is completed; and the Secretary of the Treasury and/or the Attorney General may, through any agency, investigate any such transaction or act, or any violation of the provisions of this Order.
 
 B. Every person engaging in any of the transactions referred to in sections 1 and 2 of this Order shall keep a full record of each such transaction engaged in by him, regardless of whether such transaction is effected pursuant to license or otherwise, and such record shall be available for examination for at least one year after the date of such transaction.
 
@@ -274,13 +274,13 @@ Executive Order No. 8389 of April 10, 1940, as amended, shall no longer be deeme
 
 #### section 7. regulations by secretary of the treasury
 
-Without limitation as to any other powers or authority of the Secretary of the Treasury or the Attorney General under any other provision of this Order, the Secretary of the Treasury is authorized and empowered to prescribe from time to time regulations, rulings, and instructions to carry out the purposes of this Order and to provide therein or otherwise the conditions under which licenses may be granted by or through such officers or agencies as the Secretary of the Treasury may designate, and the decision of the Secretary with respect to the granting, denial or other disposition of an application or license shall be final.
+Without limitation as to any other powers or authority of the Secretary of the Treasury or the Attorney General under any other provision of this Order, the Secretary of the Treasury is authorized and empoweredto prescribe from time to time regulations, rulings, and instructions to carry out the purposes of this Order and to provide therein or otherwise the conditions under which licenses may be granted by or through such officers or agencies as the Secretary of the Treasury may designate, and the decision of the Secretary with respect to the granting, denial or other disposition of an application or license shall be final.
 
 #### section 8. offenses and penalties under act oct. 6, 1917
 
 Section 5(b) of the Act of October 6, 1917, as amended \[50 U.S.C. 4305(b)\], provides in part:
 
-"\* \* \* Whoever willfully violates any of the provisions of this subdivision or of any license, order, rule or regulation issued thereunder, shall, upon conviction, befined not more than $10,000, or, if a natural person, may be imprisoned for not more than ten years, or both; and any officer, director, or agent of any corporation who knowingly participates in such violation may be punished by a like fine, imprisonment, or both."
+"\* \* \* Whoever willfully violates any of the provisions of this subdivision or of any license, order, rule or regulation issued thereunder, shall, upon conviction, be fined not more than $10,000, or, if a natural person, may be imprisoned for not more than ten years, or both; and any officer, director, or agent of any corporation who knowingly participates in such violation may be punished by a like fine, imprisonment, or both."
 
 #### section 9. amendments of order and regulations prescribed thereunder
 
@@ -302,21 +302,23 @@ The terms and provisions of Executive Order 9095 of March 11, 1942, as amended \
 
 #### Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act
 
-Determination of President of the United States, No. 2022–22, Sept. 2, 2022, 87 F.R. 54859, provided:
+Determination of President of the United States, No. 2023–10, Sept. 13, 2023, 88 F.R. 64347, provided:
 
 Memorandum for the Secretary of State \[and\] the Secretary of the Treasury
 
-Under section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. 4305 note), and a previous determination on September 7, 2021 (86 <i>FR</i> 50831, September 10, 2021), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2022.
+Under section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. 4305 note), and a previous determination on September 2, 2022 (87 <i>FR</i> 54859, September 8, 2022), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2023.
 
 I hereby determine that the continuation of the exercise of those authorities with respect to Cuba for 1 year is in the national interest of the United States.
 
-Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2023, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 CFR part 515.
+Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2024, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 C.F.R. Part 515.
 
 The Secretary of the Treasury is authorized and directed to publish this determination in the Federal Register.
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior extensions were contained in the following:
+
+Determination of President of the United States, No. 2022–22, Sept. 2, 2022, 87 F.R. 54859.
 
 Determination of President of the United States, No. 2021–12, Sept. 7, 2021, 86 F.R. 50831.
 

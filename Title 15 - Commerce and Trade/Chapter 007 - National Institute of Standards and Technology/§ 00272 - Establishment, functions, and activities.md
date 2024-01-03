@@ -98,7 +98,7 @@ In carrying out the functions specified in subsection (b), the Secretary, acting
 
 &emsp;(30) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
 
-&emsp;(31) demonstrate the results of the Institute's activities by exhibits or other methodsof technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
+&emsp;(31) demonstrate the results of the Institute's activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
 
 &emsp;(32) undertake such other activities similar to those specified in this subsection as the Director determines appropriate.
 
@@ -176,9 +176,9 @@ Paragraphs (19) and (20), referred to in subsec. (c)(25) and (26), were redesign
 
 #### Amendments
 
-<b>2022</b>—Subsec. (b)(4). Pub. L. 117–167, §10242(a), amended par. (4) generally. Prior to amendment, par. (4) readas follows: "to enter into contracts, including cooperative research and development arrangements, and grants and cooperative agreements, in furtherance of the purposes of this chapter;".
+<b>2022</b>—Subsec. (b)(4). Pub. L. 117–167, §10242(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "to enter into contracts, including cooperative research and development arrangements, and grants and cooperative agreements, in furtherance of the purposes of this chapter;".
 
-Subsec. (c)(16). Pub. L. 117–167, §10223(3), added par. (16). Former par. (16) redesignated (17).
+Subsec. (c)(16). Pub. L. 117–167, §10223(3), added par. (16). Former par. (16) redesignated (21).
 
 Pub. L. 117–167, §10223(1), substituted semicolon for period at end.
 
@@ -414,7 +414,7 @@ Pub. L. 100–418, title V, §5112(d), Aug. 23, 1988, 102 Stat. 1431, provided t
 
 #### National Institute of Standards and Technology; Small Business Plan
 
-Pub. L. 100–418, title V, §5163(b), Aug. 23, 1988, 102 Stat. 1450, provided that: "The Director of the National Institute of Standards and Technology shall prepare a plan detailing the manner in which the Institute will make small businesses more aware of the Institute's activities and research, and the manner in which the Institute will seek to increase the application by small businesses of the Institute's research, particularly in manufacturing. The plan shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives not later than 120 days after the date of the enactment of this Act \[Aug. 23, 1988\]."
+Pub. L. 100–418, title V, §5163(b), Aug. 23, 1988, 102 Stat. 1450, provided that: "The Director of the National Institute of Standards and Technology shall prepare a plan detailing the manner in which the Institute willmake small businesses more aware of the Institute's activities and research, and the manner in which the Institute will seek to increase the application by small businesses of the Institute's research, particularly in manufacturing. The plan shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives not later than 120 days after the date of the enactment of this Act \[Aug. 23, 1988\]."
 
 #### Construction of Radio Laboratory Building
 

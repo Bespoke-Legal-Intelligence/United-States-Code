@@ -16,7 +16,7 @@ In carrying out his responsibilities under this section, the Secretary of Defens
 
 #### (c) Coordination of program
 
-(1) The Secretary of Defense shall designate the Army as executive agent for the Department of Defense to coordinate and integrate research, development, test, and evaluation, and acquisition, requirements of the military departments for chemical and biological warfare defense programs of the Department of Defense.
+(1) The Secretary of Defense shall designate the Army as executive agent for the Department of Defense to coordinate and integrate research,development, test, and evaluation, and acquisition, requirements of the military departments for chemical and biological warfare defense programs of the Department of Defense.
 
 (2) The Director of the Defense Advanced Research Projects Agency may conduct a program of basic and applied research and advanced technology development on chemical and biological warfare defense technologies and systems. In conducting such program, the Director shall seek to avoid unnecessary duplication of the activities under the program with chemical and biological warfare defense activities of the military departments and defense agencies and shall coordinate the activities under the program with those of the military departments and defense agencies.
 
@@ -24,7 +24,7 @@ In carrying out his responsibilities under this section, the Secretary of Defens
 
 (1) The budget for the Department of Defense for each fiscal year after fiscal year 1994 shall reflect a coordinated and integrated chemical and biological defense program for the Department of Defense.
 
-(2) Funding requests for the program (other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2)) shall be set forth in the budget of the Department of Defense for each fiscal year as a separate account, with a single program element for each of the categories of research, development, test, and evaluation, acquisition, and military construction. Amounts for military construction projects may be set forth in the annual military construction budget. Funds for military construction for the program in the military construction budget shall be set forth separately from other funds for military construction projects. Funding requests for the program may not be included in the budget accounts of the military departments.
+(2) Funding requests for the program (other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2)) shall be set forth in the budget of the Department of Defense for each fiscal year as a separate account, with a single program element for each of the categories of research, development, test, and evaluation, acquisition, and military construction. Amounts for military construction projects may be set forth in the annual military construction budget. Funds for military construction for the program in the military construction budget shall be set forth separately from other funds for military construction projects. Funding requests for the program may be included in the budget accounts of the military departments.
 
 (3) The program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2) shall be set forth as a separate program element in the budget of that agency.
 
@@ -52,7 +52,7 @@ In carrying out his responsibilities under this section, the Secretary of Defens
 
 (2) Not later than May 1, 1994, the Secretary shall submit to Congress a report that describes the details of measures being taken to improve joint coordination and oversight of the program and ensure a coherent and effective approach to its management.
 
-(Pub. L. 103–160, div. A, title XVII, §1701, Nov. 30, 1993, 107 Stat. 1853; Pub. L. 104–201, div. A, title II, §228, Sept. 23, 1996, 110 Stat. 2460.)
+(Pub. L. 103–160, div. A, title XVII, §1701, Nov. 30, 1993, 107 Stat. 1853; Pub. L. 104–201, div. A, title II, §228, Sept. 23, 1996, 110 Stat. 2460; Pub. L. 118–31, div. A, title X, §1047, Dec. 22, 2023, 137 Stat. 392.)
 
 #### <b>Editorial Notes</b>
 
@@ -61,6 +61,8 @@ In carrying out his responsibilities under this section, the Secretary of Defens
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d)(2). Pub. L. 118–31 substituted "may be included in the budget accounts" for "may not be included in the budget accounts".
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–201, §228(a), designated existing provisions as par. (1) and added par. (2).
 
@@ -114,7 +116,7 @@ Delayed implementation.—The Secretary of Defense may initiate implementation o
 
 &emsp;&emsp;"(B)
 
-Nonimplementation.—The Secretary of Defense may decide not to implement a recommendation in the report described in subsection (a)(1) if the Secretary provides to the congressional defense committees, on or before the date specified in paragraph (1)—
+Nonimplementation.—The Secretary of Defense may decide not to implement a recommendation in the report described in subsection (a)(1) ifthe Secretary provides to the congressional defense committees, on or before the date specified in paragraph (1)—
 
 &emsp;&emsp;&emsp;"(i) a specific justification for the decision not to implement the recommendation; and
 
@@ -122,7 +124,7 @@ Nonimplementation.—The Secretary of Defense may decide not to implement a reco
 
 #### National Bio-Weapons Defense Analysis Center
 
-Pub. L. 107–296, title XVII, §1708, Nov. 25, 2002, 116 Stat. 2318, provided that: "There is established in the Department of Defense a National Bio-Weapons DefenseAnalysis Center, whose mission is to develop countermeasures to potential attacks by terrorists using weapons of mass destruction."
+Pub. L. 107–296, title XVII, §1708, Nov. 25, 2002, 116 Stat. 2318, provided that: "There is established in the Department of Defense a National Bio-Weapons Defense Analysis Center, whose mission is to develop countermeasures to potential attacks by terrorists using weapons of mass destruction."
 
 \[For transfer of functions, personnel, assets, and liabilities of the National Bio-Weapons Defense Analysis Center of the Department of Defense, including the functions of the Secretary of Defense related thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 183(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -222,7 +224,7 @@ Sense of congress.—It is the sense of Congress that the facility considered un
 
 &emsp;&emsp;"(i) be under the jurisdiction of the Secretary of Defense; and
 
-&emsp;&emsp;"(ii) be located at a principal facility of the Department of Defense for the testing and evaluationof the use of chemical and biological weapons during any period of armed conflict."
+&emsp;&emsp;"(ii) be located at a principal facility of the Department of Defense for the testing and evaluation of the use of chemical and biological weapons during any period of armed conflict."
 
 #### Consolidation of Chemical and Biological Defense Training Activities
 

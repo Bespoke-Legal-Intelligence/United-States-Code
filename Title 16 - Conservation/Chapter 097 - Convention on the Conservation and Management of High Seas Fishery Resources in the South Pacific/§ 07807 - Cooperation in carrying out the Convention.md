@@ -12,7 +12,7 @@ All Federal agencies may, upon the request of the Secretary, cooperate in the co
 
 Nothing in this chapter, or in the laws or regulations of any State, prevents the Secretary or the Commission from—
 
-&emsp;(1) conducting or authorizing the conduct of fishing operations and biological experimentsat any time for purposes of scientific investigation; or
+&emsp;(1) conducting or authorizing the conduct of fishing operations and biological experiments at any time for purposes of scientific investigation; or
 
 &emsp;(2) discharging any other duties prescribed by the South Pacific Fishery Resources Convention.
 

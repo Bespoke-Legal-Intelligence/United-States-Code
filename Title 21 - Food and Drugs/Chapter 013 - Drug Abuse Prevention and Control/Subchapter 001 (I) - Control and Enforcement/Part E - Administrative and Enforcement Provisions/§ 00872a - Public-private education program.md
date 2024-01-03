@@ -18,7 +18,7 @@ The Attorney General shall continue to—
 
 #### Codification
 
-Section was enacted as part of the Comprehensive Methamphetamine Control Act of 1996, and not as partof the Controlled Substances Act which comprises this subchapter.
+Section was enacted as part of the Comprehensive Methamphetamine Control Act of 1996, and not as part of the Controlled Substances Act which comprises this subchapter.
 
 #### Amendments
 

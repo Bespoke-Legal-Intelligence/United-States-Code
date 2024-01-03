@@ -74,7 +74,7 @@ Subsec. (f). Pub. L. 90–168, §2(4), added subsec. (f).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 1661(b)(3) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, seesection 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by section 1661(b)(3) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Effective Date of 1983 Amendment
 

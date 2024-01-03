@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this chapter, the term "Federal Government" has the same meaning that the term "United States" had in the Contract Work Hours and Safety Standards Act (Public Law 87–581, 76 Stat. 357).
+Definition.—In this chapter, the term "Federal Government" has the same meaningthat the term "United States" had in the Contract Work Hours and Safety Standards Act (Public Law 87–581, 76 Stat. 357).
 
 (b)
 

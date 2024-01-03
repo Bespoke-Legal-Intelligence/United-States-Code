@@ -58,7 +58,7 @@ The Secretary shall provide technical assistance to grantees and entities listed
 
 #### (f) Dissemination of best practices
 
-The Secretary, based on evaluation of the activities funded pursuant to this section, shall identify and disseminate evidence-based or evidence-informed practices for screening, assessment, treatment, and referral to treatment services for maternal mental health and substance use disorders, including culturally and linguistically appropriate services, for women during pregnancy and 12 months following pregnancy.
+The Secretary, based on evaluation of the activities funded pursuant to this section, shallidentify and disseminate evidence-based or evidence-informed practices for screening, assessment, treatment, and referral to treatment services for maternal mental health and substance use disorders, including culturally and linguistically appropriate services, for women during pregnancy and 12 months following pregnancy.
 
 #### (g) Matching requirement
 

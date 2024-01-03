@@ -42,11 +42,11 @@ Grants awarded under this section shall be for a period of 3-years,<sup>2</sup> 
 
 #### (B) Customized reports
 
-&emsp;&emsp;Employers and employer organizations may request customized reports from a State All Payer Claims Database that has received a grant under this section, at cost, subject to the requirements of this section with respect to privacy, security, and proprietary financial information.
+&emsp;&emsp;Employers and employer organizations may request customized reports from aState All Payer Claims Database that has received a grant under this section, at cost, subject to the requirements of this section with respect to privacy, security, and proprietary financial information.
 
 #### (C) Non-customized reports
 
-&emsp;&emsp;A State All Payer Claims Database that has received a grant under this section shallmake available to all authorized users aggregate data sets available through the State All Payer Claims Database, free of charge.
+&emsp;&emsp;A State All Payer Claims Database that has received a grant under this section shall make available to all authorized users aggregate data sets available through the State All Payer Claims Database, free of charge.
 
 #### (3) Waivers
 

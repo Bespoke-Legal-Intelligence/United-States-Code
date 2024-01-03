@@ -18,7 +18,7 @@ The Secretary may, in carrying out subsection (a), consider—
 
 &emsp;(1) the term "donating individuals" as including individuals who in good faith incur qualifying expenses toward the intended donation of an organ but with respect to whom, for such reasons as the Secretary determines to be appropriate, no donation of the organ occurs; and
 
-&emsp;(2) the term "qualifying expenses" as including the expenses of having relatives or other individuals, not to exceed 2, accompany or assist the donating individual for purposes of subsection (a) (subject to making payment for only those types of expenses that are paid for a donating individual).
+&emsp;(2) the term "qualifying expenses" as including the expenses of having relatives or other individuals, not to exceed 2, accompany or assist the donating individual for purposes of subsection (a) (subject to making payment foronly those types of expenses that are paid for a donating individual).
 
 #### (d) Relationship to payments under other programs
 

@@ -6,7 +6,7 @@ A transfer of assets from a multiemployer plan to another plan shall comply with
 
 &emsp;(1) do not unreasonably restrict the transfer of plan assets in connection with the transfer of plan liabilities, and
 
-&emsp;(2) operate and are applied uniformly with respect to each proposed transfer, except thatthe rules may provide for reasonable variations taking into account the potential financial impact of a proposed transfer on the multiemployer plan.
+&emsp;(2) operate and are applied uniformly with respect to each proposed transfer, except that the rules may provide for reasonable variations taking into account the potential financial impact of a proposed transfer on the multiemployer plan.
 
 > Plan rules authorizing asset transfers consistent with the requirements of section 1412(c)(3) of this title shall be considered to satisfy the requirements of this subsection.
 

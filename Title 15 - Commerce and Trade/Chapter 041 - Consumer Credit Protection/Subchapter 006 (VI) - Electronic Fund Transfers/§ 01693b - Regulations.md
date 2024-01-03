@@ -26,7 +26,7 @@
 
 #### (b) Issuance of model clauses
 
-The Bureau shall issue model clauses for optional use by financial institutions to facilitatecompliance with the disclosure requirements of section 1693c of this title and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language. Such model clauses shall be adopted after notice duly given in the Federal Register and opportunity for public comment in accordance with section 553 of title 5. With respect to the disclosures required by section 1693c(a)(3) and (4) of this title, the Bureau shall take account of variations in the services and charges under different electronic fund transfer systems and, as appropriate, shall issue alternative model clauses for disclosure of these differing account terms.
+The Bureau shall issue model clauses for optional use by financial institutions to facilitate compliance with the disclosure requirements of section 1693c of this title and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language. Such model clauses shall be adopted after notice duly given in the Federal Register and opportunity for public comment in accordance with section 553 of title 5. With respect to the disclosures required by section 1693c(a)(3) and (4) of this title, the Bureau shall take account of variations in the services and charges under different electronic fund transfer systems and, as appropriate, shall issue alternative model clauses for disclosure of these differing account terms.
 
 #### (c) Criteria; modification of requirements
 
@@ -114,7 +114,7 @@ No provision of this subchapter may be construed as altering, limiting, or other
 
 &emsp;(2) the Board in making determinations regarding the meaning or interpretation of section 1693o–2 of this title.
 
-(Pub. L. 90–321, title IX, §904, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 104–193, title VIII, §891, title IX, §907, Aug. 22, 1996, 110 Stat. 2346, 2350; Pub. L. 106–102, title VII, §702, Nov. 12, 1999, 113 Stat. 1463; Pub. L. 111–203, title X, §§1073(a)(2), 1084(1), (3), July 21, 2010, 124 Stat. 2060, 2081; Pub. L. 112–216, §1, Dec. 20, 2012, 126 Stat. 1590.)
+(Pub. L. 90–321, title IX, §904, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 104–193, title VIII, §891, title IX, §907, Aug. 22, 1996, 110 Stat. 2346, 2350; Pub. L. 106–102, title VII, §702, Nov. 12, 1999, 113 Stat.1463; Pub. L. 111–203, title X, §§1073(a)(2), 1084(1), (3), July 21, 2010, 124 Stat. 2060, 2081; Pub. L. 112–216, §1, Dec. 20, 2012, 126 Stat. 1590.)
 
 #### <b>Editorial Notes</b>
 

@@ -8,7 +8,7 @@ The Director of the National Counterterrorism Center, the Director of a national
 
 #### (1) In general
 
-&emsp;In response to a request covered by subsection (a), the Director of the National Counterterrorism Center, the Director of a national intelligence center, or the head of any element of the intelligence community shall provide to the Committee making such request the document or information covered by such request unless the President determines that such document or information shall not be provided because the President is asserting a privilege pursuant to the Constitution of the United States.
+&emsp;In response to a request covered by subsection (a), the Director of the National Counterterrorism Center, the Director of a national intelligence center, or the head of any element of the intelligence community shall provide to the Committee making such request the document or information covered by such request unless the President determines that such document or information shall not be provided because the President is assertinga privilege pursuant to the Constitution of the United States.
 
 #### (2) Submission to Congress
 

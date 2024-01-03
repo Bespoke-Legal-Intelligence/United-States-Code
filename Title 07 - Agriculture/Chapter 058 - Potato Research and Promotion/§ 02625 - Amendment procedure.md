@@ -26,7 +26,7 @@ Publication of Proposed Amendments.—The Secretary shall publish for public com
 
 "(c)
 
-Issuance of Final Amendments.—Not later than 150 days after publication of such amendment, and after notice and opportunity for public comment, the Secretary shall issue the amendments to the plan, as described in subsection (a), if the Secretary has reason to believe that such amendments will tend to effectuate the declared policy of this subtitle \[see Short Title of 1990 Amendment note set out under section 2611 of this title\].
+Issuance of Final Amendments.—Not later than 150 days after publication of such amendment, and afternotice and opportunity for public comment, the Secretary shall issue the amendments to the plan, as described in subsection (a), if the Secretary has reason to believe that such amendments will tend to effectuate the declared policy of this subtitle \[see Short Title of 1990 Amendment note set out under section 2611 of this title\].
 
 "(d)
 
@@ -56,7 +56,7 @@ Refunds.—The board shall—
 
 "(f)
 
-Termination.—If such amendments to the plan are not approved, the Secretary shall terminate theamendments and the plan shall continue in effect without the amendments.
+Termination.—If such amendments to the plan are not approved, the Secretary shall terminate the amendments and the plan shall continue in effect without the amendments.
 
 "(g)
 

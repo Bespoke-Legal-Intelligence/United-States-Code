@@ -130,7 +130,7 @@ Pub. L. 116–315, §2205(a)(4), redesignated subsec. (f)(3) as (h) and subpars.
 
 Subsec. (i). Pub. L. 116–315, §2208(a)(2), redesignated subsec. (h), as redesignated by Pub. L. 116–315, §2205(a)(4)(A), (B), as (i).
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–157, §202(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Subject to subsection (b) of this section, the Secretary may make grants to any State to assist such State in establishing, expanding, or improving veterans' cemeteries owned by such State. Any such grant may be made only upon submission of an application to the Secretary in such form and manner, and containing such information, as the Secretary may require."
+<b>2007</b>—Subsec. (a). Pub. L. 110–157, §202(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a)read as follows: "Subject to subsection (b) of this section, the Secretary may make grants to any State to assist such State in establishing, expanding, or improving veterans' cemeteries owned by such State. Any such grant may be made only upon submission of an application to the Secretary in such form and manner, and containing such information, as the Secretary may require."
 
 Subsec. (b). Pub. L. 110–157, §202(b)(3)(A), substituted "A grant under this section for a purpose described in subsection (a)(1)(A)" for "Grants under this section" in introductory provisions and "such a grant" for "a grant under this section" wherever appearing.
 

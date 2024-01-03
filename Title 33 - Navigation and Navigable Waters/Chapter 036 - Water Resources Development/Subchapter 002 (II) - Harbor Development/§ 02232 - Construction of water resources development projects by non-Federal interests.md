@@ -278,7 +278,7 @@ Requirements.—For each project authorized to begin preconstruction engineering
 
 "(d)
 
-Secretary Review of Potential Adverse Impacts.—When reviewing the feasibility study and the environmental impact statement for a project under subsection (b), the Secretary shall follow current USACE Policy, Regulations, and Guidance, to assesspotential adverse downstream impacts to the Pearl River Basin. Upon completion of the Secretary's determination under subsection (b), the non-Federal sponsor shall design the project in a manner that addresses any potential adverse impacts or that provides mitigation in accordance with section 906 of the Water Resources Development Act of 1986 (33 U.S.C. 2283).
+Secretary Review of Potential Adverse Impacts.—When reviewing the feasibility study and the environmental impact statement for a project under subsection (b), the Secretary shall follow current USACE Policy, Regulations, and Guidance, to assess potential adverse downstream impacts to the Pearl River Basin. Upon completion of the Secretary's determination under subsection (b), the non-Federal sponsor shall design the project in a manner that addresses any potential adverse impacts or that provides mitigation in accordance with section 906 of the Water Resources Development Act of 1986 (33 U.S.C. 2283).
 
 "(e)
 

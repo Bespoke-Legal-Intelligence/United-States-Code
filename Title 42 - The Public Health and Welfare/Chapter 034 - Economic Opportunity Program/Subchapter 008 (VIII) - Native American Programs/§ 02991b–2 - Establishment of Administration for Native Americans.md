@@ -20,7 +20,7 @@ The Commissioner shall—
 
 &emsp;(4) collect and disseminate information related to the social and economic conditions of Native Americans, and assist the Secretary in preparing an annual report to the Congress about such conditions;
 
-&emsp;(5) give preference to agencies described in section 2991b(a) of this title that are eligible for assistance under this subchapter, in entering into contracts for technical assistance, training, and evaluation under this subchapter; and
+&emsp;(5) give preference to agencies described in section 2991b(a) of this title that are eligiblefor assistance under this subchapter, in entering into contracts for technical assistance, training, and evaluation under this subchapter; and
 
 &emsp;(6) encourage agencies that carry out projects under this subchapter, to give preference to Native Americans, in hiring and entering into contracts to carry out such projects.
 

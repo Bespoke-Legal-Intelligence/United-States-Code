@@ -18,7 +18,7 @@ In this section—
 
 &emsp;&emsp;(E) a tribal small business concern, as described in section 657a(b)(2)(C) of this title, with not more than 500 employees; or
 
-&emsp;&emsp;(F) an agricultural enterprise (as defined in section 647(b) of this title with not more than 500 employees.
+&emsp;&emsp;(F) an agricultural enterprise (as defined in section 647(b) of this title <sup>1</sup> with not more than 500 employees.
 
 #### (b) Eligible entities
 
@@ -28,11 +28,11 @@ During the covered period, in addition to small business concerns, private nonpr
 
 With respect to a loan made under section 636(b)(2) of this title in response to COVID–19 during the covered period, the Administrator shall waive—
 
-&emsp;(1) any rules related <sup>1</sup> the personal guarantee on advances and loans of not more than $200,000 during the covered period for all applicants;
+&emsp;(1) any rules related <sup>2</sup> the personal guarantee on advances and loans of not more than $200,000 during the covered period for all applicants;
 
 &emsp;(2) the requirement that an applicant needs to be in business for the 1-year period before the disaster, except that no waiver may be made for a business that was not in operation on January 31, 2020; and
 
-&emsp;(3) the requirement in the flush matter following subparagraph (E) of section 636(b)(2) of this title, as so redesignated by subsection (f) of this section,<sup>2</sup> that an applicant be unable to obtain credit elsewhere.
+&emsp;(3) the requirement in the flush matter following subparagraph (E) of section 636(b)(2) of this title, as so redesignated by subsection (f) of this section,<sup>3</sup> that an applicant be unable to obtain credit elsewhere.
 
 #### (d) Approval and ability to repay for small dollar loans
 
@@ -56,7 +56,7 @@ With respect to a loan made under section 636(b)(2) of this title in response to
 
 #### (A) Advances
 
-&emsp;&emsp;During the covered period, an entity included for eligibility in subsection (b), including small business concerns, private nonprofit organizations, and small agricultural cooperatives, that applies for a loan under section 636(b)(2) of this title in response to COVID–19 may request that the Administrator provide an advance that is, subject to paragraph (3), in the amount requested by such applicant to such applicant.
+&emsp;&emsp;During the covered period, an entity included for eligibility in subsection (b), including small business concerns, private nonprofit organizations, and small agricultural cooperatives, that applies for a loan under section 636(b)(2) of this title in response to COVID–19 may request that theAdministrator provide an advance that is, subject to paragraph (3), in the amount requested by such applicant to such applicant.
 
 #### (B) Timing
 
@@ -158,7 +158,7 @@ Definitions.—In this section—
 
 &emsp;"(1) the term 'Administrator' means the Administrator of the Small Business Administration; and
 
-&emsp;"(2) the terms 'covered entity' and 'economic loss' have the meanings given the terms in section 331(a) of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act (title III of division N of Public Law 116–260) \[15 U.S.C. 9009b(a)\].
+&emsp;"(2) the terms 'covered entity' and 'economic loss' have the meanings given the terms in section 331(a)of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act (title III of division N of Public Law 116–260) \[15 U.S.C. 9009b(a)\].
 
 "(b)
 
@@ -210,7 +210,9 @@ In general.—Not later than 15 days after the date of enactment of this Act \[D
 
 Notice and comment.— The notice and comment requirements under section 553 of title 5, United States Code, shall not apply with respect to the rules issued under paragraph (1)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "to".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 
-<i><sup>2</sup></i><i> See Codification note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "to".</i>
+
+<i><sup>3</sup></i><i> See Codification note below.</i>
 

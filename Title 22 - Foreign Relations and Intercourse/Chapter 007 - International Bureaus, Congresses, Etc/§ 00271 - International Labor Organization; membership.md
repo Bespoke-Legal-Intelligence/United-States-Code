@@ -24,7 +24,7 @@ The reasons for acceptance of the Constitution of the Organization by the United
 
 "Whereas the International Labor Organization provides a unique international forum in which representatives of employers and workers join together with those of governments in formulating conventions and recommendations which serve as international minimum standards for labor and social legislation and administration within member countries; and
 
-"Whereas extensive revision of the constitution has been undertaken to enable the Organization to meetchanged conditions, to strengthen the application of conventions and recommendations, with careful provision to meet the constitutional rules and practices of Federal States, and to operate as a specialized agency in relationship with the United Nations; and
+"Whereas extensive revision of the constitution has been undertaken to enable the Organization to meet changed conditions, to strengthen the application of conventions and recommendations, with careful provision to meet the constitutional rules and practices of Federal States, and to operate as a specialized agency in relationship with the United Nations; and
 
 "Whereas the Constitution of the International Labor Organization Instrument of Amendment of 1946 was adopted unanimously on October 9, 1946, with the entire delegation of the United States to the Twenty-ninth Session of the International Labor Conference supporting this Instrument of Amendment."
 
@@ -74,9 +74,11 @@ General Provisions
 
 #### Extension of Term of President's Committee on the International Labor Organization
 
-Term of President's Committee on the International Labor Organization extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of President's Committee on the International Labor Organization extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Committee on the International Labor Organization were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 

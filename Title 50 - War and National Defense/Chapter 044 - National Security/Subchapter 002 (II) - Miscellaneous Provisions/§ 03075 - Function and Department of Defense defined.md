@@ -10,11 +10,11 @@
 
 #### References in Text
 
-Title II of this Act, referred to in subsec. (b), means title II of the National Security Act of 1947, act July 26, 1947, ch. 343, 61 Stat. 499. Section 201(d) of title II, which was formerly classified to section 408 of this title prior to editorial reclassification and renumbering as section 3005 of this title, was repealed by Pub. L. 87–651, §307, Sept. 7, 1962, 76 Stat. 526. Section 201, enacted by Pub. L. 116–92, div. E, title LXVII, §6742(b)(6), 133 Stat. 2240, is classified to section 3005 of this title. Sections 205(c), 206(a), and 207(c) of title II, renumbered sections 205(b), 206, and 207 by Pub. L. 116–92, div. E, title LXVII, §6742(b)(7)–(9), 133 Stat. 2240, were formerly classified to section 409 of this title prior to editorial reclassification and renumbering as section 3004 of this title. For complete classification of title II to the Code, see Tables.
+Title II of this Act, referred to in subsec. (b), means title II of the National Security Act of 1947, act July 26, 1947, ch. 343, 61 Stat. 499. Section 201(d) of title II, which was formerly classified to section 408 of this title prior to editorial reclassification and renumbering as section 3005 of this title, was repealed by Pub. L. 87–651, §307,Sept. 7, 1962, 76 Stat. 526. Section 201, enacted by Pub. L. 116–92, div. E, title LXVII, §6742(b)(6), 133 Stat. 2240, is classified to section 3005 of this title. Sections 205(c), 206(a), and 207(c) of title II, renumbered sections 205(b), 206, and 207 by Pub. L. 116–92, div. E, title LXVII, §6742(b)(7)–(9), 133 Stat. 2240, were formerly classified to section 409 of this title prior to editorial reclassification and renumbering as section 3004 of this title. For complete classification of title II to the Code, see Tables.
 
 #### Codification
 
-Section was formerly classified to section 410 of this title prior to editorial reclassification and renumberingas this section, and to section 171n of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 410 of this title prior to editorial reclassification and renumbering as this section, and to section 171n of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 

@@ -6,7 +6,7 @@ Subject to subsections (b) and (c) and section 12583(f) of this title, the actua
 
 #### (b) Nondiscrimination and nonpolitical selection of participants
 
-The recruitment and selection of individuals to serve in national service programs receivingassistance under section 12571 of this title or to fill approved national service positions shall be consistent with the requirements of section 12635 of this title.
+The recruitment and selection of individuals to serve in national service programs receiving assistance under section 12571 of this title or to fill approved national service positions shall be consistent with the requirements of section 12635 of this title.
 
 #### (c) Second term
 
@@ -14,7 +14,7 @@ Acceptance into a national service program to serve a second term of service und
 
 #### (d) Recruitment and placement
 
-The Corporation and each State Commission shall establish a system to recruit individuals who desire to perform national service and to assist the placement of these individuals in approved national service positions, which may include positions available under titles I and II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq. \[and 5000 et seq.\]). The Corporation and State Commissions shall disseminate information regarding available approved national service positions through cooperation with secondary schools, institutions of higher education, employment service offices, State vocational rehabilitation agencies within the meaning of the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.) and other State agencies that primarily serve individuals with disabilities, and other appropriate entities, particularly those organizations that provide outreach to disadvantaged youths and youths who are individuals with disabilities.
+The Corporation and each State Commission shall establish a system to recruit individuals who desire to perform national service and to assist the placement of these individuals in approved national service positions, which may include positions available under titles I and II of the Domestic Volunteer Service Act of 1973 (42U.S.C. 4951 et seq. \[and 5000 et seq.\]). The Corporation and State Commissions shall disseminate information regarding available approved national service positions through cooperation with secondary schools, institutions of higher education, employment service offices, State vocational rehabilitation agencies within the meaning of the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.) and other State agencies that primarily serve individuals with disabilities, and other appropriate entities, particularly those organizations that provide outreach to disadvantaged youths and youths who are individuals with disabilities.
 
 #### (e) National leadership pool
 

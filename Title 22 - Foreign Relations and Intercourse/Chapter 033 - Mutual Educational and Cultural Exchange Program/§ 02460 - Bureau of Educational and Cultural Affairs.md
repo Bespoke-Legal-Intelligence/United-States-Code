@@ -22,7 +22,9 @@ In order to carry out the purposes of this chapter, there is established in the 
 
 &emsp;(9) the Arts America program which promotes a greater appreciation and understanding of American art abroad by supporting exhibitions and tours by American artists in other countries; and
 
-&emsp;(10) exchange programs, including in coordination and consultation with the private sector, focused on music and the performing arts that provide opportunities for foreign nationals and Americans to build cross-cultural understanding and advance peace abroad.
+&emsp;(10) <sup>1</sup> exchange programs, including in coordination and consultation with the private sector, focused on music and the performing arts that provide opportunities for foreign nationals and Americans to build cross-cultural understanding and advance peace abroad.
+
+&emsp;(10) <sup>1</sup> the John Lewis Civil Rights Fellowship Program established under section 2465 of this title, which provides funding for international internships and research placements for early- to mid-career individuals from the United States to study nonviolent civil rights movements in self-arranged placements with universities or nongovernmental organizations in foreign countries.
 
 #### (b) Revocation or diminution of grants
 
@@ -32,13 +34,13 @@ In order to carry out the purposes of this chapter, there is established in the 
 
 #### (c) Program requirements
 
-The President shall insure that all programs under the authority of the Bureau shall maintain their nonpolitical character and shall be balanced and representative of the diversity of American political, social, and cultural life. ThePresident shall insure that academic and cultural programs under the authority of the Bureau shall maintain their scholarly integrity and shall meet the highest standards of academic excellence or artistic achievement.
+The President shall insure that all programs under the authority of the Bureau shall maintain their nonpolitical character and shall be balanced and representative of the diversity of American political, social, and cultural life. The President shall insure that academic and cultural programs under the authority of the Bureau shall maintain their scholarly integrity and shall meet the highest standards of academic excellence or artistic achievement.
 
 #### (d) Administration of programs
 
 (1) The Bureau shall administer no programs except those operating under the authority of this chapter and consistent with its purposes.
 
-(2) Notwithstanding paragraph (1), the Bureau may also exercise the authorities of this chapter to administer programs authorized by, or funded pursuant to, the FREEDOM Support Act, the Support for East European Democracy Act \[22 U.S.C. 5401 et seq.\], the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other Act authorizing educational or cultural exchanges or activities, to the extent that such programs are consistent with the purposes of this chapter.
+(2) Notwithstanding paragraph (1), the Bureau may also exercise the authorities of this chapter to administer programs authorized by, or funded pursuant to, the FREEDOM Support Act, the Support for East European Democracy Act \[22 U.S.C. 5401 et seq.\], the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other Act authorizing educational or cultural exchangesor activities, to the extent that such programs are consistent with the purposes of this chapter.
 
 #### (e) Office of Citizen Exchanges
 
@@ -92,7 +94,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 &emsp;(F) To conduct a survey of private sector international exchange activities and develop strategies for expanding public and private partnerships in, and leveraging private sector support for, United States Government-sponsored international exchange and training activities.
 
-&emsp;(G) Not later than 6 months after October 21, 1998, to report on the feasibility and advisability of transferring funds and program management for the ATLAS or the Mandela Fellows programs, or both, in South Africa from the Agency for International Development to the Department of State. The report shall include an assessment of the capabilities of the South African Fulbright Commission to manage such programs and the cost effects of consolidating such programs under one entity.
+&emsp;(G) Not later than 6 months after October 21, 1998, to report on the feasibility and advisability of transferring funds and programmanagement for the ATLAS or the Mandela Fellows programs, or both, in South Africa from the Agency for International Development to the Department of State. The report shall include an assessment of the capabilities of the South African Fulbright Commission to manage such programs and the cost effects of consolidating such programs under one entity.
 
 (7) All reports prepared by the Working Group shall be submitted to the President, through the Secretary of State, acting through the Under Secretary of State for Public Diplomacy.
 
@@ -104,7 +106,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 (11) With respect to any report issued under paragraph (6), a member may submit dissenting views to be submitted as part of the report of the Working Group.
 
-(Pub. L. 87–256, §112, as added Pub. L. 98–164, title II, §213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, §301(1), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 103–236, title II, §229(a), Apr. 30, 1994, 108 Stat. 423; Pub. L. 105–244, title I, §102(a)(7)(B), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2414, Oct. 21, 1998, 112 Stat. 2681–832; Pub. L. 107–228, div. A, title II, §§221, 229, Sept. 30, 2002, 116 Stat. 1367, 1371; Pub. L. 117–263, div. I, title XCVI, §9604(b)(2), Dec. 23, 2022, 136 Stat. 3912.)
+(Pub. L. 87–256, §112, as added Pub. L. 98–164, title II, §213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, §301(1), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 103–236, title II, §229(a), Apr. 30, 1994, 108 Stat. 423; Pub. L. 105–244, title I, §102(a)(7)(B), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2414, Oct. 21, 1998, 112 Stat. 2681–832; Pub. L. 107–228, div. A, title II, §§221, 229, Sept. 30, 2002, 116 Stat. 1367, 1371; Pub. L. 117–263, div. I, title XCVI, §9604(b)(2), Dec. 23, 2022, 136 Stat. 3912; Pub. L. 118–31, div. F, title LXVI, §6604(b), Dec. 22, 2023, 137 Stat. 1013.)
 
 #### <b>Editorial Notes</b>
 
@@ -120,7 +122,9 @@ The Foreign Assistance Act of 1961, referred to in subsec. (d)(2), is Pub. L. 87
 
 #### Amendments
 
-<b>2022</b>—Subsec. (a)(10). Pub. L. 117–263 added par. (10).
+<b>2023</b>—Subsec. (a)(10). Pub. L. 118–31 added par. (10) relating to John Lewis Civil Rights Fellowship Program. Ancillary amendments at the end of pars. (8) and (9) of subsec. (a) could not be executed because of the prior addition by Pub. L. 117–263 of par. (10) relating to exchange programs focused on music and the performing arts. See 2022 Amendment note below.
+
+<b>2022</b>—Subsec. (a)(10). Pub. L. 117–263 added par. (10) relating to exchange programs focused on music and the performing arts.
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–228, §221, designated existing provisions as par. (1) and added par. (2).
 
@@ -243,4 +247,6 @@ Sec. 9. Nothing in this Executive order is intended to alter the authorities and
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
+
+<i><sup>1</sup></i><i> So in original. Two pars. (10) have been enacted.</i>
 

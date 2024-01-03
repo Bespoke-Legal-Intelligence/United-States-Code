@@ -52,7 +52,7 @@ Any project assisted under this section may provide services such as—
 
 &emsp;(6) mentoring programs involving elementary or secondary school teachers or counselors, faculty members at institutions of higher education, students, or any combination of such persons; and
 
-&emsp;(7) programs and activities as described in subsection (b) or paragraphs (1) through (6) of this subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
+&emsp;(7) programs and activities as described in subsection (b) or paragraphs (1) through (6) of this subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term isdefined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
 
 #### (d) Requirements for approval of applications
 

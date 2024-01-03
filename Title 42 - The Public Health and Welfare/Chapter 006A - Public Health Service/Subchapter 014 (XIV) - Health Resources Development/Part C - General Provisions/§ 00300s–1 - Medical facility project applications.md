@@ -20,7 +20,7 @@ No loan, loan guarantee, or grant may be made under part A or B for a medical fa
 
 &emsp;(F) reasonable assurance that title to such site is or will be vested in one or more of the entities filing the application or in a public or other nonprofit entity which is to operate the facility on completion of the project;
 
-&emsp;(G) reasonable assurance that adequate financial support will be available for the completion of the project and for its maintenance and operation when completed, and, for the purpose of determining if the requirements ofthis subparagraph are met, Federal assistance provided directly to a medical facility which is located in an area determined by the Secretary to be an urban or rural poverty area or through benefits provided individuals served at such facility shall be considered as financial support;
+&emsp;(G) reasonable assurance that adequate financial support will be available for the completion of the project and for its maintenance and operation when completed, and, for the purpose of determining if the requirements of this subparagraph are met, Federal assistance provided directly to a medical facility which is located in an area determined by the Secretary to be an urban or rural poverty area or through benefits provided individuals served at such facility shall be considered as financial support;
 
 &emsp;(H) the type of assistance being sought under part A or B for the project;
 

@@ -26,7 +26,7 @@ As used in this chapter—
 
 &emsp;(6) the term "State" means a State, the District of Columbia, Puerto Rico, and any other possession or territory of the United States.
 
-(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1871, §3126; renumbered §3127, Pub. L. 100–690, title VII, §7092(a)(1), Nov. 18, 1988, 102 Stat. 4410; amended Pub. L. 107–56, title II, §216(c)(1)–(4), Oct. 26, 2001, 115 Stat. 290; Pub. L. 111–79, §2(3), Oct. 19, 2009, 123 Stat. 2087.)
+(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1871, §3126; renumbered §3127, Pub. L. 100–690, title VII, §7092(a)(1), Nov. 18, 1988, 102 Stat. 4410; amended Pub. L. 107–56, title II,§216(c)(1)–(4), Oct. 26, 2001, 115 Stat. 290; Pub. L. 111–79, §2(3), Oct. 19, 2009, 123 Stat. 2087.)
 
 #### <b>Editorial Notes</b>
 
@@ -44,7 +44,7 @@ Par. (2)(A). Pub. L. 107–56, §216(c)(1), added subpar. (A) and struck out for
 
 Par. (3). Pub. L. 107–56, §216(c)(2), substituted "dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted, provided, however, that such information shall not include the contents of any communication" for "electronic or other impulses which identify the numbers dialed or otherwise transmitted on the telephone line to which such device is attached" and inserted "or process" after "device" wherever appearing.
 
-Par. (4). Pub. L. 107–56, §216(c)(3), inserted "or process" after "means a device" and substituted "or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire or electronic communication, provided, however, thatsuch information shall not include the contents of any communication;" for "of an instrument or device from which a wire or electronic communication was transmitted;".
+Par. (4). Pub. L. 107–56, §216(c)(3), inserted "or process" after "means a device" and substituted "or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire or electronic communication, provided, however, that such information shall not include the contents of any communication;" for "of an instrument or device from which a wire or electronic communication was transmitted;".
 
 <b>1988</b>—Pub. L. 100–690 renumbered section 3126 of this title as this section.
 

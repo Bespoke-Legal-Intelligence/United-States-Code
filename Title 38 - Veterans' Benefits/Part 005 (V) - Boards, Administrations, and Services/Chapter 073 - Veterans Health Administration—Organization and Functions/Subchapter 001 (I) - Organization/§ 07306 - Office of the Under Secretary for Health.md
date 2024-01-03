@@ -4,7 +4,7 @@
 
 &emsp;(1) The Deputy Under Secretary for Health, who shall be the principal assistant of the Under Secretary for Health and who shall be a qualified doctor of medicine.
 
-&emsp;(2) The Associate Deputy Under Secretary for Health, who shall be an assistant to the Under Secretary for Health and the Deputy Under Secretary for Health and who shall be a qualified doctor of medicine.
+&emsp;(2) The Associate Deputy Under Secretary for Health, who shall be an assistant to theUnder Secretary for Health and the Deputy Under Secretary for Health and who shall be a qualified doctor of medicine.
 
 &emsp;(3) Not to exceed eight Assistant Under Secretaries for Health.
 
@@ -66,7 +66,7 @@
 
 (g) For purposes of applying any provision of chapter 74 of this title, including sections 7404, 7410, and 7421, or any other provision of law, the Secretary may treat any appointment for a position under this chapter to be an appointment under this section.
 
-(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, title II, §205, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 102–585, title V, §511(b), Nov. 4, 1992, 106 Stat. 4956; Pub. L. 103–446, title XII, §1201(c)(3), Nov. 2, 1994, 108 Stat. 4683; Pub. L. 104–262, title III, §344, Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–419, title II, §206, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 107–135, title I, §131, Jan. 23, 2002, 115 Stat. 2454; Pub. L. 111–163, title V, §514(a), May 5, 2010, 124 Stat. 1165; Pub. L. 116–315, title V, §5101(a), Jan. 5, 2021, 134 Stat. 5022; Pub. L. 117–96, §1(a), Mar. 14, 2022, 136 Stat. 34; Pub. L. 117–168, title IX, §906(d), Aug. 10, 2022, 136 Stat. 1813.)
+(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, title II, §205, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 102–585, title V, §511(b), Nov. 4, 1992, 106 Stat. 4956; Pub. L. 103–446, title XII, §1201(c)(3), Nov. 2, 1994, 108 Stat. 4683; Pub. L. 104–262, title III, §344, Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–419, title II, §206, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 107–135, title I, §131, Jan. 23, 2002, 115 Stat. 2454; Pub. L. 111–163, title V,§514(a), May 5, 2010, 124 Stat. 1165; Pub. L. 116–315, title V, §5101(a), Jan. 5, 2021, 134 Stat. 5022; Pub. L. 117–96, §1(a), Mar. 14, 2022, 136 Stat. 34; Pub. L. 117–168, title IX, §906(d), Aug. 10, 2022, 136 Stat. 1813.)
 
 #### <b>Editorial Notes</b>
 

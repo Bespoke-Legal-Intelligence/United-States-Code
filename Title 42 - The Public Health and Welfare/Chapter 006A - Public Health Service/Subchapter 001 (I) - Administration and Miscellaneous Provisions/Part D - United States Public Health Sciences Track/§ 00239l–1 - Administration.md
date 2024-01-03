@@ -8,7 +8,7 @@ The business of the Track shall be conducted by the Surgeon General with funds a
 
 #### (1) In general
 
-&emsp;The Surgeon General, after considering the recommendations of the National Health Care Workforce Commission, shall obtain the services of such professors, instructors, and administrative and other employees as may be necessary to operate the Track, but utilize when possible, existing affiliated health professions training institutions. Members of the faculty and staff shall be employed under salary schedules and granted retirement and otherrelated benefits prescribed by the Secretary so as to place the employees of the Track faculty on a comparable basis with the employees of fully accredited schools of the health professions within the United States.
+&emsp;The Surgeon General, after considering the recommendations of the National Health Care Workforce Commission, shall obtain the services of such professors, instructors, and administrative and other employees as may be necessary to operate the Track, but utilize when possible, existing affiliated health professions training institutions. Members of the faculty and staff shall be employed under salary schedules and granted retirement and other related benefits prescribed by the Secretary so as to place the employees of the Track faculty on a comparable basis with the employees of fully accredited schools of the health professions within the United States.
 
 #### (2) Titles
 

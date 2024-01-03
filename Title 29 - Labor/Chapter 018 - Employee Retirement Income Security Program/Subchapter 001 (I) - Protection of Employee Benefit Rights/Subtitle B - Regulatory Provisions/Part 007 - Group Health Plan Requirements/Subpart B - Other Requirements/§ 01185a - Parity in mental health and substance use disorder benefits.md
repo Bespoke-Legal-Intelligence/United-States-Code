@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(i) the financial requirements applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant financial requirements applied to substantially all medical and surgical benefits covered by the plan (or coverage), and there are no separate cost sharing requirements that are applicable only with respect to mental health or substance use disorder benefits; and
 
-&emsp;&emsp;&emsp;(ii) the treatment limitations applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant treatment limitations applied to substantially all medical and surgical benefits covered by the plan (or coverage) and there are no separate treatment limitations that are applicable only with respect to mental health or substance use disorder benefits.
+&emsp;&emsp;&emsp;(ii) the treatment limitations applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant treatment limitations applied to substantially all medical and surgical benefits covered by the plan (or coverage) and there are no separate treatment limitations that are applicableonly with respect to mental health or substance use disorder benefits.
 
 #### (B) Definitions
 
@@ -74,7 +74,7 @@
 
 #### (5) Out-of-network providers
 
-&emsp;In the case of a plan or coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits, if the plan or coverage provides coverage for medical or surgical benefits provided by out-of-network providers, the plan or coverage shall provide coverage for mental health or substance use disorder benefits provided by out-of-network providers in a manner that isconsistent with the requirements of this section.
+&emsp;In the case of a plan or coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits, if the plan or coverage provides coverage for medical or surgical benefits provided by out-of-network providers, the plan or coverage shall provide coverage for mental health or substance use disorder benefits provided by out-of-network providers in a manner that is consistent with the requirements of this section.
 
 #### (6) Compliance program guidance document
 
@@ -152,7 +152,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) factors used in provider reimbursement methodologies (such as service type, geographic market, demand for services, and provider supply, practice size, training, experience, and licensure) as such factors apply to network adequacy;
 
-&emsp;&emsp;&emsp;(iii) examples of sources of information that may serve as evidentiary standards for the purposes of making determinations regarding the development and application of nonquantitative treatment limitations;
+&emsp;&emsp;&emsp;(iii) examples of sources of information that may serve as evidentiary standardsfor the purposes of making determinations regarding the development and application of nonquantitative treatment limitations;
 
 &emsp;&emsp;&emsp;(iv) examples of specific factors, and the evidentiary standards used to evaluate such factors, used by such plans or issuers in performing a nonquantitative treatment limitation analysis;
 
@@ -174,7 +174,7 @@
 
 #### (A) Nonquantitative treatment limitation (NQTL) requirements
 
-&emsp;&emsp;In the case of a group health plan or a health insurance issuer offering group health insurance coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits and that imposes nonquantitative treatment limitations (referred to in this section as "NQTLs") on mental health or substance usedisorder benefits, such plan or issuer shall perform and document comparative analyses of the design and application of NQTLs and, beginning 45 days after December 27, 2020, make available to the Secretary, upon request, the comparative analyses and the following information:
+&emsp;&emsp;In the case of a group health plan or a health insurance issuer offering group health insurance coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits and that imposes nonquantitative treatment limitations (referred to in this section as "NQTLs") on mental health or substance use disorder benefits, such plan or issuer shall perform and document comparative analyses of the design and application of NQTLs and, beginning 45 days after December 27, 2020, make available to the Secretary, upon request, the comparative analyses and the following information:
 
 &emsp;&emsp;&emsp;(i) The specific plan or coverage terms or other relevant terms regarding the NQTLs, that applies to such plan or coverage, and a description of all mental health or substance use disorder and medical or surgical benefits to which each such term applies in each respective benefits classification.
 
@@ -216,7 +216,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a summary of the comparative analyses requested under clause (i), including the identity of each group health plan or health insurance issuer, with respect to certain health insurance coverage that is determined to be not in compliance after the final determination by the Secretary described in clause (iii)(I)(bb);
 
-&emsp;&emsp;&emsp;&emsp;(II) the Secretary's conclusions as to whether each group health plan or health insurance issuer submitted sufficient information for the Secretary toreview the comparative analyses requested under clause (i) for compliance with this section;
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary's conclusions as to whether each group health plan or health insurance issuer submitted sufficient information for the Secretary to review the comparative analyses requested under clause (i) for compliance with this section;
 
 &emsp;&emsp;&emsp;&emsp;(III) for each group health plan or health insurance issuer that did submit sufficient information for the Secretary to review the comparative analyses requested under clause (i), the Secretary's conclusions as to whether and why the plan or issuer is in compliance with the disclosure requirements under this section;
 
@@ -244,7 +244,7 @@ Nothing in this section shall be construed—
 
 &emsp;(1) as requiring a group health plan (or health insurance coverage offered in connection with such a plan) to provide any mental health or substance use disorder benefits; or
 
-&emsp;(2) in the case of a group health plan (or health insurance coverage offered in connection with such a plan) that provides mental health or substance use disorder benefits, as affecting the terms and conditions of the plan or coverage relating to such benefits under the plan or coverage, except as provided in subsection (a).
+&emsp;(2) in the case of a group health plan (or health insurance coverage offered in connection with such a plan) that provides mental health or substance use disorder benefits, as affecting the terms and conditions of the planor coverage relating to such benefits under the plan or coverage, except as provided in subsection (a).
 
 #### (c) Exemptions
 
@@ -310,7 +310,7 @@ Nothing in this section shall be construed—
 
 &emsp;&emsp;&emsp;&emsp;(II) for both the plan year upon which a cost exemption is sought and the year prior, a description of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan; and
 
-&emsp;&emsp;&emsp;&emsp;(III) for both the plan year upon which a cost exemption is sought and the year prior, the actual total costs of coverage with respect to mental health and substance use disorder benefits under the plan.
+&emsp;&emsp;&emsp;&emsp;(III) for both the plan year upon which a cost exemption is sought and the year prior, the actual total costs of coveragewith respect to mental health and substance use disorder benefits under the plan.
 
 #### (iii) Confidentiality
 

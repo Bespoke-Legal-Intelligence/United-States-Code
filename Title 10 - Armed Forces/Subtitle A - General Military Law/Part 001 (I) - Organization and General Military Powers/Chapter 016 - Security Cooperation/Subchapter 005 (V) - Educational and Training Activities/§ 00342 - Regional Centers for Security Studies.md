@@ -50,7 +50,7 @@ Payment of Costs.—(1) Participation in activities of a Regional Center shall b
 
 (2) For a foreign national participant, payment of costs may be made by the participant, the participant's own government, by a Department or agency of the United States other than the Department of Defense, or by a gift or donation on behalf of one or more Regional Centers accepted under section 2611 of this title on behalf of the participant's government.
 
-(3)(A) The Secretary of Defense may waive reimbursement of the costs of activities of the Regional Centers for foreign military officers and foreign defense and security personnel from a developing country if the Secretary determines that attendance of such personnel without reimbursement is in the national security interest of the United States. Costs for which reimbursement is waived pursuant to this paragraph shall be paid from appropriations available to the Regional Centers.
+(3)(A) The Secretary of Defense may waive reimbursement of the costs of activities of the Regional Centers for foreign military officers and foreign defense and security personnel from a developing country if the Secretary determines that attendance of such personnel without reimbursement is in the national security interest ofthe United States. Costs for which reimbursement is waived pursuant to this paragraph shall be paid from appropriations available to the Regional Centers.
 
 (B)(i) The Secretary of Defense may, with the concurrence of the Secretary of State, waive reimbursement otherwise required under this subsection of the costs of activities of the Regional Centers for personnel of nongovernmental and international organizations who participate in activities of the Regional Centers that enhance cooperation of nongovernmental organizations and international organizations with United States forces if the Secretary of Defense determines that attendance of such personnel without reimbursement is in the national security interest of the United States.
 
@@ -346,7 +346,7 @@ Establishment.—
 
 &emsp;"(1)
 
-In general.—Not earlier than 30 days after the submittal of the report required by subsection (a), and subject to the availability of appropriated funds, the Secretary of Defense may establish and administer a Department of Defense Functional Center for Security Studies in Irregular Warfare.
+In general.—Not earlier than 30 days after the submittal of the report required by subsection (a),and subject to the availability of appropriated funds, the Secretary of Defense may establish and administer a Department of Defense Functional Center for Security Studies in Irregular Warfare.
 
 &emsp;"(2)
 

@@ -52,7 +52,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (1) Civil action
 
-&emsp;In any case in which the attorney general of a State, or an official or agency of a State, has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by any person who violates paragraph (1) or (2) of section 7704(a), who violates section 7704(d), or who engages in a pattern or practice that violates paragraph (3), (4), or (5) of section 7704(a), of this title, the attorney general, official, or agency of the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction—
+&emsp;In any case in which the attorney general of a State, or an official or agency of a State, has reason to believe that an interest of the residents of that State has been or is threatenedor adversely affected by any person who violates paragraph (1) or (2) of section 7704(a), who violates section 7704(d), or who engages in a pattern or practice that violates paragraph (3), (4), or (5) of section 7704(a), of this title, the attorney general, official, or agency of the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction—
 
 &emsp;&emsp;(A) to enjoin further violation of section 7704 of this title by the defendant; or
 
@@ -138,7 +138,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (9) Requisite scienter for certain civil actions
 
-&emsp;Except as provided in section 7704(a)(1)(C) of this title, section 7704(a)(2) of this title, clause (ii), (iii), or (iv) of section 7704(a)(4)(A) of this title, section 7704(b)(1)(A) of this title, or section 7704(b)(3) of this title, in a civil action brought by a State attorney general, or an official or agency of a State, to recover monetary damages for a violation of this chapter, the court shall not grant the relief sought unless the attorney general, official, or agency establishes that the defendant acted with actual knowledge, or knowledge fairly implied on the basis of objective circumstances, of the act or omission that constitutes the violation.
+&emsp;Except as provided in section 7704(a)(1)(C) of this title, section 7704(a)(2) of this title, clause\(ii), (iii), or (iv) of section 7704(a)(4)(A) of this title, section 7704(b)(1)(A) of this title, or section 7704(b)(3) of this title, in a civil action brought by a State attorney general, or an official or agency of a State, to recover monetary damages for a violation of this chapter, the court shall not grant the relief sought unless the attorney general, official, or agency establishes that the defendant acted with actual knowledge, or knowledge fairly implied on the basis of objective circumstances, of the act or omission that constitutes the violation.
 
 #### (g) Action by provider of Internet access service
 
@@ -212,11 +212,11 @@ The Investment Advisers Act of 1940, referred to in subsec. (b)(5), is title II 
 
 The Packers and Stockyards Act, 1921, referred to in subsec. (b)(8), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (b)(9), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (b)(9), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, whichis classified principally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
 The Communications Act of 1934, referred to in subsec. (b)(10), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 etseq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

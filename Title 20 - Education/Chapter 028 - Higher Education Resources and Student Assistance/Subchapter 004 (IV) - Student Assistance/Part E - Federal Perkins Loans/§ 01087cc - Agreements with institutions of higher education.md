@@ -100,7 +100,7 @@ Subsec. (c)(2)(B). Pub. L. 111–39, §405(2)(A)(ii), added subpar. (B) and stru
 
 Subsec. (c)(3). Pub. L. 111–39, §405(2)(B), substituted "and (5)" for "and (6)" and made technical amendment to reference in original act which appears in text as reference to section 1681c of title 15.
 
-<b>2008</b>—Subsec. (a)(4)(B). Pub. L. 110–315, §463(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "if the institution is not one described in subparagraph (A), the Secretary may—
+<b>2008</b>—Subsec. (a)(4)(B). Pub. L. 110–315, §463(a), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: "if the institution is not one described in subparagraph (A), the Secretary may—
 
 &emsp;"(i) allow such institution to transfer its interest in such loan to the Secretary, for collection, and the Secretary may use any collections thereon (less an amount not to exceed 30 percent of any such sums collected to cover the Secretary's collection costs) to make allocations to institutions of additional capital contributions in accordance with section 1087bb of this title; or
 

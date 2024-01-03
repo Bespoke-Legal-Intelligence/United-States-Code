@@ -82,7 +82,7 @@ For purposes of this subchapter:
 
 &emsp;(H) an employee, officer, director (or an individual having powers or responsibilities similar to those of officers or directors), or a 10 percent or more shareholder directly or indirectly, of a person described in subparagraph (B), (C), (D), (E), or (G), or of the employee benefit plan; or
 
-&emsp;(I) a 10 percent or more (directly or indirectly in capital or profits) partner or joint venturer of a person described in subparagraph (B), (C), (D), (E), or (G).
+&emsp;(I) a 10 percent or more (directly or indirectly in capital or profits) partner or jointventurer of a person described in subparagraph (B), (C), (D), (E), or (G).
 
 > The Secretary, after consultation and coordination with the Secretary of the Treasury, may by regulation prescribe a percentage lower than 50 percent for subparagraph (E) and (G) and lower than 10 percent for subparagraph (H) or (I). The Secretary may prescribe regulations for determining the ownership (direct or indirect) of profits and beneficial interests, and the manner in which indirect stockholdings are taken into account. Any person who is a party in interest with respect to a plan to which a trust described in section 501(c)(22) of title 26 is permitted to make payments under section 1403 of this title shall be treated as a party in interest with respect to such trust.
 
@@ -148,7 +148,7 @@ For purposes of this subchapter:
 
 (30) The term "unfunded accrued liability" means the excess of the accrued liability, under an actuarial cost method which so provides, over the present value of the assets of a pension plan. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
 
-(31) The term "advance funding actuarial cost method" or "actuarial cost method" means a recognized actuarial technique utilized for establishing the amount and incidence of the annual actuarial cost of pension plan benefits and expenses. Acceptable actuarial cost methods shall include the accrued benefit cost method (unit credit method), the entry age normal cost method, the individual level premium costmethod, the aggregate cost method, the attained age normal cost method, and the frozen initial liability cost method. The terminal funding cost method and the current funding (pay-as-you-go) cost method are not acceptable actuarial cost methods. The Secretary of the Treasury shall issue regulations to further define acceptable actuarial cost methods.
+(31) The term "advance funding actuarial cost method" or "actuarial cost method" means a recognized actuarial technique utilized for establishing the amount and incidence of the annual actuarial cost of pension plan benefits and expenses. Acceptable actuarial cost methods shall include the accrued benefit cost method (unit credit method), the entry age normal cost method, the individual level premium cost method, the aggregate cost method, the attained age normal cost method, and the frozen initial liability cost method. The terminal funding cost method and the current funding (pay-as-you-go) cost method are not acceptable actuarial cost methods. The Secretary of the Treasury shall issue regulations to further define acceptable actuarial cost methods.
 
 (32) The term "governmental plan" means a plan established or maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. The term "governmental plan" also includes any plan to which the Railroad Retirement Act of 1935, or 1937 \[45 U.S.C. 231 et seq.\] applies, and which is financed by contributions required under that Act and any plan of an international organization which is exempt from taxation under the provisions of the International Organizations Immunities Act \[22 U.S.C. 288 et seq.\]. The term "governmental plan" includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function) <sup>3</sup>
 
@@ -162,7 +162,7 @@ For purposes of this subchapter:
 
 (C) For purposes of this paragraph—
 
-&emsp;(i) A plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches includes a plan maintained by an organization, whether a civil law corporation or otherwise, the principal purpose or function of which is the administration or funding of a plan or program for the provision of retirement benefits or welfare benefits, or both, for the employees of a church or a convention or association of churches, if such organization is controlled by or associated with a church or a convention or association of churches.
+&emsp;(i) A plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches includes a plan maintained by an organization, whether a civil law corporation or otherwise, the principal purpose or function of which is the administration or funding of aplan or program for the provision of retirement benefits or welfare benefits, or both, for the employees of a church or a convention or association of churches, if such organization is controlled by or associated with a church or a convention or association of churches.
 
 &emsp;(ii) The term employee of a church or a convention or association of churches includes—
 
@@ -188,7 +188,7 @@ For purposes of this subchapter:
 
 (iii) For purposes of this subparagraph, the term "correction period" means—
 
-&emsp;(I) the period ending 270 days after the date of mailing by the Secretary of the Treasury ofa notice of default with respect to the plan's failure to meet one or more of the requirements of this paragraph; or
+&emsp;(I) the period ending 270 days after the date of mailing by the Secretary of the Treasury of a notice of default with respect to the plan's failure to meet one or more of the requirements of this paragraph; or
 
 &emsp;(II) any period set by a court of competent jurisdiction after a final determination that the plan fails to meet such requirements, or, if the court does not specify such period, any reasonable period determined by the Secretary of the Treasury on the basis of all the facts and circumstances, but in any event not less than 270 days after the determination has become final; or
 
@@ -246,7 +246,7 @@ For purposes of this subchapter:
 
 &emsp;(II) a plan that meets the criteria in clauses (i) and (ii) of subparagraph (A) of this paragraph or that is described in clause (vi) may, pursuant to procedures prescribed by the Pension Benefit Guaranty Corporation, elect to be a multiemployer plan, if—
 
-&emsp;&emsp;(aa) for each of the 3 plan years immediately preceding the first plan year forwhich the election under this paragraph is effective with respect to the plan, the plan has met those criteria or is so described,
+&emsp;&emsp;(aa) for each of the 3 plan years immediately preceding the first plan year for which the election under this paragraph is effective with respect to the plan, the plan has met those criteria or is so described,
 
 &emsp;&emsp;(bb) substantially all of the plan's employer contributions for each of those plan years were made or required to be made by organizations that were exempt from tax under section 501 of title 26, and
 
@@ -266,7 +266,7 @@ For purposes of this subchapter:
 
 (vi) A plan is described in this clause if it is a plan sponsored by an organization which is described in section 501(c)(5) of title 26 and exempt from tax under section 501(a) of such title and which was established in Chicago, Illinois, on August 12, 1881.
 
-(vii) For purposes of this chapter and title 26, a plan making an election under this subparagraph shall be treated as maintained pursuant to a collective bargaining agreement if a collective bargaining agreement, expressly or otherwise, provides for or permits employer contributions to the plan by one or more employers that are signatory to such agreement, or participation in the plan by one or more employees of an employer that is signatory to such agreement, regardless of whether the plan was created, established, or maintained for such employees by virtue of another document that is not a collective bargaining agreement.
+(vii) For purposes of this chapter and title 26, a plan making an election under this subparagraph shall be treated as maintained pursuant to a collective bargaining agreement if a collective bargaining agreement, expressly or otherwise, provides for or permits employer contributions to the plan by one or more employers thatare signatory to such agreement, or participation in the plan by one or more employees of an employer that is signatory to such agreement, regardless of whether the plan was created, established, or maintained for such employees by virtue of another document that is not a collective bargaining agreement.
 
 (38) The term "investment manager" means any fiduciary (other than a trustee or named fiduciary, as defined in section 1102(a)(2) of this title)—
 
@@ -318,7 +318,7 @@ In general.—The term "pooled employer plan" means a plan—
 
 &emsp;&emsp;(i) which is an individual account plan established or maintained for the purpose of providing benefits to the employees of 2 or more employers;
 
-&emsp;&emsp;(ii) which is a plan described in section 401(a) of title 26 which includes a trust exempt from tax under section 501(a) of title 26, a plan that consists of annuity contracts described in section 403(b) of title 26, or a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof); and
+&emsp;&emsp;(ii) which is a plan described in section 401(a) of title 26 which includes a trust exempt from tax under section 501(a) of title 26, a plan that consists of annuity contractsdescribed in section 403(b) of title 26, or a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof); and
 
 &emsp;&emsp;(iii) the terms of which meet the requirements of subparagraph (B).
 
@@ -344,7 +344,7 @@ Requirements for plan terms.—The requirements of this subparagraph are met wit
 
 &emsp;&emsp;&emsp;(I) the pooled plan provider to provide to employers in the plan any disclosures or other information which the Secretary may require, including any disclosures or other information to facilitate the selection or any monitoring of the pooled plan provider by employers in the plan; and
 
-&emsp;&emsp;&emsp;(II) each employer in the plan to take such actions as the Secretary or the pooled plan provider determines are necessary to administer the plan or for the plan to meet any requirement applicable under this chapter or title 26 to a plan described in section 401(a) of title 26, a plan that consists of annuity contracts described in section 403(b) of title 26, or to a plan that consists of individual retirement accounts described in section 408 of title 26 (includingby reason of subsection (c) thereof), whichever is applicable, including providing any disclosures or other information which the Secretary may require or which the pooled plan provider otherwise determines are necessary to administer the plan or to allow the plan to meet such requirements; and
+&emsp;&emsp;&emsp;(II) each employer in the plan to take such actions as the Secretary or the pooled plan provider determines are necessary to administer the plan or for the plan to meet any requirement applicable under this chapter or title 26 to a plan described in section 401(a) of title 26, a plan that consists of annuity contracts described in section 403(b) of title 26, or to a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof), whichever is applicable, including providing any disclosures or other information which the Secretary may require or which the pooled plan provider otherwise determines are necessary to administer the plan or to allow the plan to meet such requirements; and
 
 &emsp;&emsp;(vi) provide that any disclosure or other information required to be provided under clause (v) may be provided in electronic form and will be designed to ensure only reasonable costs are imposed on pooled plan providers and employers in the plan.
 
@@ -374,7 +374,7 @@ In general.—The term "pooled plan provider" means a person who—
 
 &emsp;&emsp;&emsp;(II) each employer in the plan takes such actions as the Secretary or pooled plan provider determines are necessary for the plan to meet the requirements described in subclause (I), including providing the disclosures and information described in paragraph (43)(B)(v)(II);
 
-&emsp;&emsp;(ii) registers as a pooled plan provider with the Secretary, and provides to the Secretary such other information as the Secretary may require, before beginning operations as a pooled plan provider;
+&emsp;&emsp;(ii) registers as a pooled plan provider with the Secretary, and provides to the Secretary such other information as the Secretarymay require, before beginning operations as a pooled plan provider;
 
 &emsp;&emsp;(iii) acknowledges in writing that such person is a named fiduciary, and the plan administrator, with respect to the pooled employer plan; and
 
@@ -406,21 +406,15 @@ Good faith compliance with law before guidance.—An employer or pooled plan pro
 
 Aggregation rules.—For purposes of this paragraph, in determining whether a person meets the requirements of this paragraph to be a pooled plan provider with respect to any plan, all persons who perform services for the plan and who are treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of title 26 shall be treated as one person.
 
+(45)
+
+Pension-linked emergency savings account.—The term "pension-linked emergency savings account" means a short-term savings account established and maintained as part of an individual account plan, in accordance with section 1193 of this title, on behalf of an eligible participant (as such term is defined in section 1193(b) of this title) that—
+
+&emsp;(A) is a designated Roth account (within the meaning of section 402A of title 26) and accepts only participant contributions, as described in section 1193(d)(1)(A) of this title, which are designated Roth contributions subject to the rules of section 402A(e) of title 26; and
+
+&emsp;(B) meets the requirements of part 8 of subtitle B.
+
 (Pub. L. 93–406, title I, §3, Sept. 2, 1974, 88 Stat. 833; Pub. L. 96–364, title III, §§302, 305, title IV, §§407(a), 409, Sept. 26, 1980, 94 Stat. 1291, 1294, 1303, 1307; Pub. L. 97–473, title III, §302(a), Jan. 14, 1983, 96 Stat. 2612; Pub. L. 99–272, title XI, §11016(c)(1), Apr. 7, 1986, 100 Stat. 273; Pub. L. 99–509, title IX, §9203(b)(1), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XVIII, §1879(u)(3), Oct. 22, 1986, 100 Stat. 2913; Pub. L. 100–202, §136(a), Dec. 22, 1987, 101 Stat. 1329–441; Pub. L. 101–239, title VII, §§7871(b)(2), 7881(m)(2)(D), 7891(a)(1), 7893(a), 7894(a)(1)(A), (2)(A), (3), (4), Dec. 19, 1989, 103 Stat. 2435, 2444, 2445, 2447, 2448; Pub. L. 101–508, title XII, §12002(b)(2)(C), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 102–89, §2, Aug. 14, 1991, 105 Stat. 446; Pub. L. 104–290, title III, §308(b)(1), Oct. 11, 1996, 110 Stat. 3440; Pub. L. 105–72, §1(a), Nov. 10, 1997, 111 Stat. 1457; Pub. L. 109–280, title VI, §611(f), title IX, §§905(a), 906(a)(2)(A), title XI, §§1104(c), 1106(a), Aug. 17, 2006, 120 Stat. 972, 1050, 1051, 1060; Pub. L. 110–28, title VI, §6611(a)(1), (b)(1), May 25, 2007, 121 Stat. 179, 180; Pub. L. 110–458, title I, §111(c), Dec. 23, 2008, 122 Stat. 5113; Pub. L. 116–94, div. O, title I, §101(b), (c)(1), (3), Dec. 20, 2019, 133 Stat. 3141, 3144; Pub. L. 117–328, div. T, title I, §§105(a), 106(d), 127(a), Dec. 29, 2022, 136 Stat. 5286, 5287, 5317.)
-
-#### Amendment of Section
-
-<i>Pub. L. 117–328, div. T, title I, §127(a), (g), Dec. 29, 2022, 136 Stat. 5317, 5330, provided that, applicable to plan years beginning after Dec. 31, 2023, this section is amended by adding at the end the following:</i>
-
-<i>"(45)</i>
-
-<i>Pension-linked emergency savings account.—The term 'pension-linked emergency savings account' means a short-term savings account established and maintained as part of an individual account plan, in accordance with section 1193 of this title, on behalf of an eligible participant (as such term is defined in section 1193(b) of this title) that—</i>
-
-&emsp;<i>"(A) is a designated Roth account (within the meaning of section 402A of title 26) and accepts only participant contributions, as described in section 1193(d)(1)(A) of this title, which are designated Roth contributions subject to the rules of section 402A(e) of title 26; and</i>
-
-&emsp;<i>"(B) meets the requirements of part 8 of subtitle B."</i>
-
-<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -490,7 +484,7 @@ Par. (37)(G)(vii). Pub. L. 110–28, §6611(a)(1)(C), added cl. (vii).
 
 Par. (2)(B). Pub. L. 109–280, §1104(c), inserted at end "An applicable voluntary early retirement incentive plan (as defined in section 457(e)(11)(D)(ii) of title 26) making payments or supplements described in section 457(e)(11)(D)(i) of title 26, and an applicable employment retention plan (as defined in section 457(f)(4)(C) of title 26) making payments of benefits described in section 457(f)(4)(A) of title 26, shall, for purposes of this subchapter, be treated as a welfare plan (and not a pension plan) with respect to such payments and supplements."
 
-Par. (32). Pub. L. 109–280, §906(a)(2)(A), inserted at end "The term 'governmental plan' includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function)".
+Par. (32). Pub. L. 109–280, §906(a)(2)(A), inserted at end "The term 'governmental plan' includes a plan which isestablished and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function)".
 
 Par. (37)(G). Pub. L. 109–280, §1106(a), added subpar. (G).
 
@@ -578,7 +572,7 @@ Amendment by section 611(f) of Pub. L. 109–280 applicable to transactions occu
 
 Amendment by section 905(a) of Pub. L. 109–280 applicable to distributions in plan years beginning after Dec. 31, 2006, see section 905(c) of Pub. L. 109–280, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Amendment by section 906(a)(2)(A) of Pub. L. 109–280 applicable to any year beginning on or after Aug. 17, 2006, see section 906(c) of Pub. L. 109–280, set out as a note under section 414 of Title 26, Internal Revenue Code.
+Amendment by section 906(a)(2)(A) of Pub. L. 109–280 applicable to any year beginning on or after Aug. 17,2006, see section 906(c) of Pub. L. 109–280, set out as a note under section 414 of Title 26, Internal Revenue Code.
 
 Amendment by section 1104(c) of Pub. L. 109–280 effective Aug. 17, 2006, and applicable to plan years ending after such date, see section 1104(d)(1), (3) of Pub. L. 109–280, set out as a note under section 457 of Title 26, Internal Revenue Code.
 
@@ -636,7 +630,7 @@ Pub. L. 97–473, title III, §302(c), Jan. 14, 1983, 96 Stat. 2612, provided th
 
 Amendment of pars. (2), (14), and (37), by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
 
-Amendment of par. (33) by Pub. L. 96–364 effective Jan. 1, 1974, see section 407(c) of Pub. L. 96–364, set out as a note under section 414 of Title 26, Internal Revenue Code.
+Amendment of par. (33) by Pub. L. 96–364 effective Jan. 1, 1974, see section 407(c) of Pub. L. 96–364, set outas a note under section 414 of Title 26, Internal Revenue Code.
 
 #### Regulations
 

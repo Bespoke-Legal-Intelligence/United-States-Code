@@ -98,7 +98,7 @@ Pub. L. 103–335, title VIII, §8073, Sept. 30, 1994, 108 Stat. 2635.
 
 Pub. L. 103–139, title VIII, §8087, Nov. 11, 1993, 107 Stat. 1459.
 
-Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712, as amended by Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §561(f)(1)–(3), Nov. 30, 1993, 107 Stat. 1667, 1668; Pub. L. 103–337, div. A, title V, §518(a), (b), Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title XV, §1501(d)(3), Feb. 10, 1996, 110 Stat. 500; Pub. L. 105–261, div. A, title V, §561(l), (m), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(l), (m)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–107, div. A, title X, §1048(h)(2), Dec. 28, 2001, 115 Stat. 1229, provided that:
+Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712, as amended by Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §561(f)(1)–(3), Nov. 30, 1993, 107 Stat. 1667,1668; Pub. L. 103–337, div. A, title V, §518(a), (b), Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title XV, §1501(d)(3), Feb. 10, 1996, 110 Stat. 500; Pub. L. 105–261, div. A, title V, §561(l), (m), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(l), (m)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–107, div. A, title X, §1048(h)(2), Dec. 28, 2001, 115 Stat. 1229, provided that:
 
 #### "SEC. 4411. FORCE REDUCTION TRANSITION PERIOD DEFINED.
 
@@ -202,7 +202,7 @@ Annual Payment Period.—An annual payment granted to a member under this sectio
 
 "(e)
 
-Computation of Annual Payment.—(1) The annual payment for a member shall be equal to theamount determined by multiplying the product of 12 and the applicable percent under paragraph (2) by the monthly basic pay to which the member would be entitled if the member were serving on active duty as of the date the member is transferred to the Retired Reserve.
+Computation of Annual Payment.—(1) The annual payment for a member shall be equal to the amount determined by multiplying the product of 12 and the applicable percent under paragraph (2) by the monthly basic pay to which the member would be entitled if the member were serving on active duty as of the date the member is transferred to the Retired Reserve.
 
 "(2)(A) Subject to subparagraph (B) the percent applicable to a member for purposes of paragraph (1) is 5 percent plus 0.5 percent for each full year of service, computed under section 12732 of title 10, United States Code, that a member has completed in excess of 20 years before transfer to the Retired Reserve.
 
@@ -290,7 +290,7 @@ Inapplicability to Certain Separations and Reassignments.—Sections 4418 throug
 
 "(c)
 
-Termination of Benefits.—The eligibility of a member of a reserve component of the Armed Forces (after having involuntarily ceased to be a member of the Selected Reserve) to receive benefits and privileges under sections 4418 through 4420 terminates upon the involuntary separation of such member from the Armed Forces under adverse conditions, as characterized by the Secretary of the military department concerned.
+Termination of Benefits.—The eligibility of a member of a reserve component of the Armed Forces\(after having involuntarily ceased to be a member of the Selected Reserve) to receive benefits and privileges under sections 4418 through 4420 terminates upon the involuntary separation of such member from the Armed Forces under adverse conditions, as characterized by the Secretary of the military department concerned.
 
 #### "SEC. 4422. READJUSTMENT BENEFITS FOR CERTAIN VOLUNTARILY SEPARATED MEMBERS OF THE RESERVE COMPONENTS.
 

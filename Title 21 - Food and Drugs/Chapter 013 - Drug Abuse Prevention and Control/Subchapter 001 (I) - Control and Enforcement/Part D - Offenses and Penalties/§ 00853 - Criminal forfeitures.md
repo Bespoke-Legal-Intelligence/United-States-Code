@@ -44,7 +44,7 @@ There is a rebuttable presumption at trial that any property of a person convict
 
 &emsp;&emsp;(ii) the need to preserve the availability of the property through the entry of the requested order outweighs the hardship on any party against whom the order is to be entered:
 
-> <i>Provided, however</i>, That an order entered pursuant to subparagraph (B) shall be effective for not more than ninety days, unless extended by the court for good cause shown or unless an indictment or information described in subparagraph (A) has been filed.
+> <i>Provided, however</i>, That an order entered pursuant to subparagraph (B) shall be effective for not more than ninety days, unless extended by thecourt for good cause shown or unless an indictment or information described in subparagraph (A) has been filed.
 
 (2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than fourteen days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
 
@@ -78,7 +78,7 @@ Following the seizure of property ordered forfeited under this section, the Atto
 
 With respect to property ordered forfeited under this section, the Attorney General is authorized to—
 
-&emsp;(1) grant petitions for mitigation or remission of forfeiture, restore forfeited property to victims of a violation of this subchapter, ortake any other action to protect the rights of innocent persons which is in the interest of justice and which is not inconsistent with the provisions of this section;
+&emsp;(1) grant petitions for mitigation or remission of forfeiture, restore forfeited property to victims of a violation of this subchapter, or take any other action to protect the rights of innocent persons which is in the interest of justice and which is not inconsistent with the provisions of this section;
 
 &emsp;(2) compromise claims arising under this section;
 
@@ -156,7 +156,7 @@ The provisions of this section shall be liberally construed to effectuate its re
 
 #### (3) Return of property to jurisdiction
 
-&emsp;In the case of property described in paragraph (1)(C), the court may, in addition to any other action authorized by this subsection, order the defendant to return the property to the jurisdiction of the court so that the property may be seized and forfeited.
+&emsp;In the case of property described in paragraph (1)(C), the court may, in addition to any other action authorized by this subsection,order the defendant to return the property to the jurisdiction of the court so that the property may be seized and forfeited.
 
 #### (q) Restitution for cleanup of clandestine laboratory sites
 

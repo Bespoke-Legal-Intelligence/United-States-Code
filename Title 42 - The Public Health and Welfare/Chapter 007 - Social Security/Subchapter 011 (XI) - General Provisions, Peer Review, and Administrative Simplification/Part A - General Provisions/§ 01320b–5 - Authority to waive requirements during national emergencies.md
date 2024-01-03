@@ -36,7 +36,7 @@ To the extent necessary to accomplish the purpose specified in subsection (a), t
 
 &emsp;(6) limitations on payments under section 1395w–21(i) of this title for health care items and services furnished to individuals enrolled in a Medicare+Choice plan by health care professionals or facilities not included under such plan;
 
-&emsp;(7) sanctions and penalties that arise from noncompliance with the following requirements (as promulgateid under the authority of section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note)— <sup>1</sup>
+&emsp;(7) sanctions and penalties that arise from noncompliance with the following requirements (as promulgated under the authority of section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note)— <sup>1</sup>
 
 &emsp;&emsp;(A) section 164.510 of title 45, Code of Federal Regulations, relating to—
 

@@ -16,7 +16,7 @@ The Secretary shall appoint such officers and employees as may be necessary for 
 
 <b>1949</b>—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
-Act June 7, 1949, amended section generally to permit the Secretary to appoint the officers and employees ofthe Corporation and to define their authority and duties.
+Act June 7, 1949, amended section generally to permit the Secretary to appoint the officers and employees of the Corporation and to define their authority and duties.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

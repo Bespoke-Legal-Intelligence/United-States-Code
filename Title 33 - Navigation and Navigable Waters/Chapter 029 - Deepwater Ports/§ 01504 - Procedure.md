@@ -2,23 +2,53 @@
 
 #### (a) Regulations; issuance, amendment, or rescission; scope
 
-The Secretary shall, as soon as practicable after January 3, 1975, and after consultation with other Federal agencies, issue regulations to carry out the purposes and provisions of this chapter in accordance with the provisions of section 553 of title 5, without regard to subsection (a) thereof. Such regulations shall pertain to, but need not be limited to, application, issuance, transfer, renewal, suspension, and termination of licenses. Such regulations shall provide for full consultation and cooperation with all other interested Federal agencies and departments and with any potentially affected coastal State, and for consideration of the views of any interested members of the general public. The Secretary is further authorized, consistent withthe purposes and provisions of this chapter, to amend or rescind any such regulation.
+The Secretary shall, as soon as practicable after January 3, 1975, and after consultation with other Federal agencies, issue regulations to carry out the purposes and provisions of this chapter in accordance with the provisions of section 553 of title 5, without regard to subsection (a) thereof. Such regulations shall pertain to, but need not be limited to, application, issuance, transfer, renewal, suspension, and termination of licenses. Such regulations shall provide for full consultation and cooperation with all other interested Federal agencies and departments and with any potentially affected coastal State, and for consideration of the views of any interested members of the general public. The Secretary is further authorized, consistent with the purposes and provisions of this chapter, to amend or rescind any such regulation.
 
 #### (b) Additional regulations; criteria for site evaluation and preconstruction testing
 
 The Secretary, in consultation with the Secretary of the Interior and the Administrator of the National Oceanic and Atmospheric Administration, shall, as soon as practicable after January 3, 1975, prescribe regulations relating to those activities involved in site evaluation and preconstruction testing at potential deepwater port locations that may (1) adversely affect the environment; (2) interfere with authorized uses of the Outer Continental Shelf; or (3) pose a threat to human health and welfare. Such activity may thenceforth not be undertaken except in accordance with regulations prescribed pursuant to this subsection. Such regulations shall be consistent with the purposes of this chapter.
 
-#### (c) Plans; submittal to Secretary of Transportation; publication in Federal Register; application contents; exemption
+#### (c) Applications
 
-(1) Any person making an application under this chapter shall submit detailed plans to the Secretary. Within 21 days after the receipt of an application, the Secretary shall determine whether the application appears to contain all of the information required by paragraph (2) hereof. If the Secretary determines that such information appears to be contained in the application, the Secretary shall, no later than 5 days after making such a determination, publish notice of the application and a summary of the plans in the Federal Register. If the Secretary determines that all of the required information does not appear to be contained in the application, the Secretary shall notify the applicant and take no further action with respect to the application until such deficiencies have been remedied.
+(1)
 
-(2) Each application shall include such financial, technical, and other information as the Secretary deems necessary or appropriate. Such information shall include, but need not be limited to—
+Requirements.—
+
+&emsp;(A)
+
+In general.—Each person that submits to the Secretary an application shall include in the application a detailed plan that contains all information required under paragraph (2).
+
+&emsp;(B)
+
+Action by secretary.—Not later than 21 days after the date of receipt of an application, the Secretary shall—
+
+&emsp;&emsp;(i) determine whether the application contains all information required under paragraph (2); and
+
+&emsp;&emsp;(ii)(I) if the Secretary determines that such information is contained in the application, not later than 5 days after making the determination, publish in the Federal Register—
+
+&emsp;&emsp;&emsp;(aa) a notice of the application; and
+
+&emsp;&emsp;&emsp;(bb) a summary of the plans; or
+
+&emsp;&emsp;(II) if the Secretary determines that all required information is not contained in the application—
+
+&emsp;&emsp;&emsp;(aa) notify the applicant of the applicable deficiencies; and
+
+&emsp;&emsp;&emsp;(bb) take no further action with respect to the application until those deficiencies have been remedied.
+
+&emsp;(C)
+
+Applicability.—On publication of a notice relating to an application under subparagraph (B)(ii)(I), the Secretary shall be subject to subsection (f).
+
+(2)
+
+Inclusions.—Each application shall include such financial, technical, and other information as the Secretary determines to be necessary or appropriate, including—
 
 &emsp;(A) the name, address, citizenship, telephone number, and the ownership interest in the applicant, of each person having any ownership interest in the applicant of greater than 3 per centum;
 
 &emsp;(B) to the extent feasible, the name, address, citizenship, and telephone number of any person with whom the applicant has made, or proposes to make, a significant contract for the construction or operation of the deepwater port and a copy of any such contract;
 
-&emsp;(C) the name, address, citizenship, and telephone number of each affiliate of the applicant and of any person required to be disclosed pursuant to subparagraphs (A) or (B) of this paragraph, together with a description of the manner in which such affiliate is associated with the applicant or any person required to be disclosed under subparagraph (A) or (B) of this paragraph;
+&emsp;(C) the name, address, citizenship, and telephone number of each affiliate of the applicant and of any person required to be disclosed pursuant to subparagraphs (A) or (B), together with a description of the manner in which such affiliate is associated with the applicant or any person required to be disclosed under subparagraph (A) or (B);
 
 &emsp;(D) the proposed location and capacity of the deepwater port, including all components thereof;
 
@@ -26,9 +56,9 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 
 &emsp;(F) with respect to construction in phases, a detailed description of each phase, including anticipated dates of completion for each of the specific components thereof;
 
-&emsp;(G) the location and capacity of existing and proposed storage facilities and pipelines which will store or transport oil transported through the deepwater port, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C) of this paragraph;
+&emsp;(G) the location and capacity of existing and proposed storage facilities and pipelines which will store or transport oil transported through the deepwater port, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C);
 
-&emsp;(H) with respect to any existing and proposed refineries which will receive oil transported through the deepwater port, the location and capacity of each such refinery and the anticipated volume of such oil to be refined by each such refinery, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C) of this paragraph;
+&emsp;(H) with respect to any existing and proposed refineries which will receive oil transported through the deepwater port, the location and capacity of each such refinery and the anticipated volume of such oil to be refined by each such refinery, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C);
 
 &emsp;(I) the financial and technical capabilities of the applicant to construct or operate the deepwater port;
 
@@ -54,7 +84,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 
 #### (e) Recommendations to Secretary of Transportation; application for all Federal authorizations; copies of application to Federal agencies and departments with jurisdiction; recommendation of approval or disapproval and of manner of amendment to comply with laws or regulations
 
-(1) Not later than 30 days after January 3, 1975, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chief of Engineers of the United States Army Corps of Engineers, the Administrator of the National Oceanic and Atmospheric Administration, and the heads of any other Federal departments or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of deepwater ports shall transmit to the Secretary written comments as to their expertise or statutory responsibilities pursuant to this chapter or any other Federal law.
+(1) Not later than 30 days after January 3, 1975, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chief of Engineers of the United States ArmyCorps of Engineers, the Administrator of the National Oceanic and Atmospheric Administration, and the heads of any other Federal departments or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of deepwater ports shall transmit to the Secretary written comments as to their expertise or statutory responsibilities pursuant to this chapter or any other Federal law.
 
 (2) An application filed with the Secretary shall constitute an application for all Federal authorizations required for ownership, construction, and operation of a deepwater port. At the time notice of any application is published pursuant to subsection (c) of this section, the Secretary shall forward a copy of such application to those Federal agencies and departments with jurisdiction over any aspect of such ownership, construction, or operation for comment, review, or recommendation as to conditions and for such other action as may be required by law. Each agency or department involved shall review the application and, based upon legal considerations within its area of responsibility, recommend to the Secretary, the approval or disapproval of the application not later than 45 days after the last public hearing on a proposed license for a designated application area. In any case in which the agency or department recommends disapproval, it shall set forth in detail the manner in which the application does not comply with any law or regulation within its area of responsibility and shall notify the Secretary how the application may be amended so as to bring it into compliance with the law or regulation involved.
 
@@ -64,15 +94,45 @@ For all applications, the Secretary, in cooperation with other involved Federal 
 
 #### (g) Public notice and hearings; evidentiary hearing in District of Columbia; decision of Secretary based on evidentiary record; consolidation of hearings
 
-A license may be issued only after public notice and public hearings in accordance with this subsection. At least one such public hearing shall be held in each adjacent coastal State. Any interested person may present relevant material at any hearing. After hearings in each adjacent coastal State are concluded if the Secretary determines that there exists one or more specific and material factual issues which may be resolved by a formal evidentiary hearing, at least one adjudicatory hearing shall be held in accordance with the provisions of section 554 of title 5 in the District of Columbia. The record developed in any such adjudicatory hearing shall be basis for the Secretary's decision to approve or deny a license. Hearings held pursuant to this subsection shall be consolidated insofar as practicable with hearings held by other agencies. All public hearings on all applications for any designated application area shall be consolidated and shall be concluded not later than 240 days after notice of the initial application has been published pursuant to subsection (c) of this section.
+A license may be issued only after public notice and public hearings in accordance with this subsection. At least one such public hearing shall be held in each adjacent coastal State. Any interested person may present relevant material at any hearing. After hearings in each adjacent coastal State are concluded if the Secretary determines that there exists one or more specific and material factual issues which may be resolved by a formal evidentiary hearing, at least one adjudicatory hearing shall be held in accordance with the provisions of section 554 of title 5 in the District of Columbia. The record developed in any such adjudicatory hearing shall be basis for the Secretary's decision to approve or deny a license. Hearings held pursuant to this subsection shall be consolidated insofar as practicable with hearings held by other agencies. All public hearings on all applications for any designated application area shall be consolidated and shall be concluded not later than 240 days after notice of the initial application has been published pursuant to subsection (c).
 
-#### (h) Nonrefundable application fee; processing costs; State fees; "land-based facilities directly related to a deepwater port facility" defined; fair market rental value, advance payment
+#### (h) Fees
 
-(1) Each person applying for a license pursuant to this chapter shall remit to the Secretary at the time the application is filed a nonrefundable application fee established by regulation by the Secretary. In addition, an applicant shall also reimburse the United States and the appropriate adjacent coastal State for any additional costs incurred in processing an application.
+#### (1) Requirement
 
-(2) Notwithstanding any other provision of this chapter, and unless prohibited by law, an adjacent coastal State may fix reasonable fees for the use of a deepwater port facility, and such State and any other State in which land-based facilities directly related to a deepwater port facility are located may set reasonable fees for the use of such land-based facilities. Fees may be fixed under authority of this paragraph as compensation for any economic cost attributable to the construction and operation of such deepwater port and such land-based facilities, whichcannot be recovered under other authority of such State or political subdivision thereof, including, but not limited to, ad valorem taxes, and for environmental and administrative costs attributable to the construction and operation of such deepwater port and such land-based facilities. Fees under this paragraph shall not exceed such economic, environmental, and administrative costs of such State. Such fees shall be subject to the approval of the Secretary. As used in this paragraph, the term "land-based facilities directly related to a deepwater port facility" means the onshore tank farm and pipelines connecting such tank farm to the deepwater port facility.
+#### (A) In general
 
-(3) A licensee shall pay annually in advance the fair market rental value (as determined by the Secretary of the Interior) of the subsoil and seabed of the Outer Continental Shelf of the United States to be utilized by the deepwater port, including the fair market rental value of the right-of-way necessary for the pipeline segment of the port located on such subsoil and seabed.
+&emsp;&emsp;Each person applying for a license pursuant to this chapter shall remit to the Secretary at the time the application is filed a nonrefundable application fee established by regulation by the Secretary.
+
+#### (B) Reimbursement
+
+&emsp;&emsp;In addition to a fee under subparagraph (A), an applicant shall also reimburse the United States and the appropriate adjacent coastal State for any additional costs incurred in processing an application.
+
+#### (2) Usage fees
+
+#### (A) Definition of directly related land-based facility
+
+&emsp;&emsp;In this paragraph, the term "directly related land-based facility", with respect to a deepwater port facility, means an onshore tank farm and any pipelines connecting the tank farm to the deepwater port facility.
+
+#### (B) Authorization
+
+&emsp;&emsp;Notwithstanding any other provision of this chapter, and unless prohibited by law, an adjacent coastal State may fix reasonable fees for the use of a deepwater port facility, and such State and any other State in which land-based facilities directly related to a deepwater port facility are located may set reasonable fees for the use of such land-based facilities.
+
+#### (C) Treatment
+
+&emsp;&emsp;A fee may be established pursuant to this paragraph as compensation for any economic cost attributable to the construction and operation of the applicable deepwater port and the applicable land-based facilities, which cannot be recovered under other authority of the applicable State or political subdivision thereof, including, but not limited to, ad valorem taxes, and for environmental and administrative costs attributable to the construction and operation of the applicable deepwater port and the applicable land-based facilities.
+
+#### (D) Amount
+
+&emsp;&emsp;The amount of a fee established under this paragraph shall not exceed the applicable economic, environmental, and administrative costs of the applicable State.
+
+#### (E) Approval
+
+&emsp;&emsp;A fee established under this paragraph shall be subject to the approval of the Secretary.
+
+#### (3) Rental payment
+
+&emsp;A licensee shall pay annually in advance the fair market rental value (as determined by the Secretary of the Interior) of the subsoil and seabed of the outer Continental Shelf of the United States to be utilized by the deepwater port, including the fair market rental value ofthe right-of-way necessary for the pipeline segment of the port located on such subsoil and seabed.
 
 #### (i) Application approval; period for determination; priorities; criteria for determination of application best serving national interest
 
@@ -80,33 +140,101 @@ A license may be issued only after public notice and public hearings in accordan
 
 (2) In the event more than one application is submitted for an application area, the Secretary, unless one of the proposed deepwater ports clearly best serves the national interest, shall issue a license according to the following order of priorities:
 
-&emsp;(A) to an adjacent coastal State (or combination of States), any political subdivision thereof, or agency or instrumentality, including a wholly owned corporation of any such government;
+&emsp;(A) First, to an adjacent coastal State (or combination of States), any political subdivision thereof, or agency or instrumentality, including a wholly owned corporation of any such government.
 
-&emsp;(B) to a person who is neither (i) engaged in producing, refining, or marketing oil, nor (ii) an affiliate of any person who is engaged in producing, refining, or marketing oil or an affiliate of any such affiliate;
+&emsp;(B) Second, to a person who is neither (i) engaged in producing, refining, or marketing oil, nor (ii) an affiliate of any person who is engaged in producing, refining, or marketing oil or an affiliate of any such affiliate.
 
-&emsp;(C) to any other person.
+&emsp;(C) Third, to any other person.
 
 (3) In determining whether any one proposed deepwater port clearly best serves the national interest, the Secretary shall consider the following factors:
 
-&emsp;(A) the degree to which the proposed deepwater ports affect the environment, as determined under criteria established pursuant to section 1505 of this title;
+&emsp;(A) The degree to which the proposed deepwater ports affect the environment, as determined under criteria established pursuant to section 1505 of this title.
 
-&emsp;(B) any significant differences between anticipated completion dates for the proposed deepwater ports; and
+&emsp;(B) National security, including an assessment of the implications for the national security of the United States or an allied country (as that term is defined in section 2350f(d)(1) of title 10) of the United States.
 
-&emsp;(C) any differences in costs of construction and operation of the proposed deepwater ports, to the extent that such differential may significantly affect the ultimate cost of oil to the consumer.
+&emsp;(C) Any significant differences between anticipated completion dates for the proposed deepwater ports.
 
-(4) The Secretary shall approve or deny any application for a deepwater port for natural gas submitted pursuant to this chapter not later than 90 days after the last public hearing on a proposed license. Paragraphs (1), (2), and (3) of this subsection shall not apply to an application for a deepwater port for natural gas.
+&emsp;(D) Any differences in costs of construction and operation of the proposed deepwater ports, to the extent that such differential may significantly affect the ultimate cost of oil to the consumer.
+
+(4)
+
+Applications for deepwater ports for natural gas.—
+
+&emsp;(A)
+
+Deadline for determination.—The Secretary shall approve or deny any application for a deepwater port for natural gas submitted pursuant to this chapter not later than 90 days after the last public hearing on a proposed license.
+
+&emsp;(B)
+
+Effect of failure to determine.—If the Secretary fails to approve or deny an application for a deepwater port for natural gas by the applicable deadline under subparagraph (A), the reporting requirements under paragraphs (1), (2), and (3) shall not apply to the application.
 
 #### (j) LNG tankers
 
 #### (1) Program
 
-&emsp;The Secretary of Transportation shall develop and implement a program to promote the transportation of liquefied natural gas to and from the United States on United States flag vessels.
+&emsp;The Secretary shall develop and implement a program to promote the transportation of liquefied natural gas to and from the United States on United States flag vessels.
 
 #### (2) Information to be provided
 
 &emsp;When the Coast Guard is operating as a contributing agency in the Federal Energy Regulatory Commission's shoreside licensing process for a liquefied natural gas or liquefied petroleum gas terminal located on shore or within State seaward boundaries, the Coast Guard shall provide to the Commission the information described in subsection (c)(2)(K) with respect to vessels reasonably anticipated to be servicing that port.
 
-(Pub. L. 93–627, §5, Jan. 3, 1975, 88 Stat. 2131; Pub. L. 98–419, §2(f), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, §505, Oct. 19, 1996, 110 Stat. 3927; Pub. L. 107–295, title I, §106(c), (f), (g), Nov. 25, 2002, 116 Stat. 2086–2088; Pub. L. 109–241, title III, §304(c)(1), July 11, 2006, 120 Stat. 527; Pub. L. 111–281, title IX, §903(d), Oct. 15, 2010, 124 Stat. 3011; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8502(b)(2), Jan. 1, 2021, 134 Stat. 4747.)
+#### (k) Transparency in issuance of licenses and permits
+
+#### (1) Definition of applicable deadline
+
+&emsp;In this subsection, the term "applicable deadline", with respect to an applicant, means the deadline or date applicable to the applicant under any of the following:
+
+&emsp;&emsp;(A) Section 1503(c)(6) of this title.
+
+&emsp;&emsp;(B) Section 1503(d)(3) of this title.
+
+&emsp;&emsp;(C) Subsection (c)(1)(B) (including clause (ii)(I) of that subsection).
+
+&emsp;&emsp;(D) Subsection (d)(3).
+
+&emsp;&emsp;(E) Paragraph (1) or (2) of subsection (e).
+
+&emsp;&emsp;(F) Subsection (g).
+
+&emsp;&emsp;(G) Paragraph (1) or (4)(A) of subsection (i).
+
+#### (2) Suspensions and delays
+
+&emsp;If the Secretary suspends or delays an applicable deadline, the Secretary shall submit to the applicant, and publish in the Federal Register, a written statement—
+
+&emsp;&emsp;(A) describing the reasons for the suspension or delay;
+
+&emsp;&emsp;(B) describing and requesting any information necessary to issue the applicable license or permit and the status of applicable license or permit application at the lead agency and any cooperating agencies; and
+
+&emsp;&emsp;(C) identifying the applicable deadline with respect to the statement.
+
+#### (3) Applicant rights to technical assistance
+
+#### (A) In general
+
+&emsp;&emsp;An applicant that receives a statement under paragraph (2) may submit to the Secretary a request for a meeting with appropriate personnel of the Department of Transportation and representatives of each cooperating Federal agency, as appropriate, determined by the Secretary to be relevant with respect to the application, including such officials as are appropriate, who shall provide technical assistance, status, process, and timeline updates and additional information as necessary.
+
+#### (B) Timing
+
+&emsp;&emsp;A meeting requested under clause (i) shall be held not later than 30 days after the date on which the Secretary receives the request under that clause.
+
+#### (4) Requirements
+
+&emsp;On receipt of a request under paragraph (3)(A), and not less frequently than once every 30 days thereafter until the date on which theapplication process is no longer suspended or delayed, the Secretary shall submit a notice of the delay, including a description of the time elapsed since the applicable deadline and the nature and circumstances of the applicable suspension or delay, to—
+
+&emsp;&emsp;(A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+&emsp;&emsp;(B) the Committee on Transportation and Infrastructure of the House of Representatives.
+
+#### (5) Briefing
+
+&emsp;If the Secretary suspends or delays an applicable deadline, not later than 120 days after that applicable deadline, and not less frequently than once every 120 days thereafter until the date on which the application process is no longer suspended or delayed, the Secretary (or a designee of the Secretary) shall provide a briefing regarding the time elapsed since the applicable deadline and the nature and circumstances of the applicable suspension or delay to—
+
+&emsp;&emsp;(A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+&emsp;&emsp;(B) the Committee on Transportation and Infrastructure of the House of Representatives.
+
+(Pub. L. 93–627, §5, Jan. 3, 1975, 88 Stat. 2131; Pub. L. 98–419, §2(f), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, §505, Oct. 19, 1996, 110 Stat. 3927; Pub. L. 107–295, title I, §106(c), (f), (g), Nov. 25, 2002, 116 Stat. 2086–2088; Pub. L. 109–241, title III, §304(c)(1), July 11, 2006, 120 Stat. 527; Pub. L. 111–281, title IX, §903(d), Oct. 15, 2010, 124 Stat. 3011; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8502(b)(2), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 118–31, div. C, title XXXV, §3514(k)(4), Dec. 22, 2023, 137 Stat. 814.)
 
 #### <b>Editorial Notes</b>
 
@@ -115,6 +243,42 @@ A license may be issued only after public notice and public hearings in accordan
 The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c). Pub. L. 118–31, §3514(k)(4)(A)(i), inserted heading.
+
+Subsec. (c)(1). Pub. L. 118–31, §3514(k)(4)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Any person making an application under this chapter shall submit detailed plans to the Secretary. Within 21 days after the receipt of an application, the Secretary shall determine whether the application appears to contain all of the information required by paragraph (2) hereof. If the Secretary determines that such information appears to be contained in the application, the Secretary shall, no later than 5 days after making such a determination, publish notice of the application and a summary of the plans in the Federal Register. If the Secretary determines that all of the required information does not appear to be contained in the application, the Secretary shall notify the applicant and take no further action with respect to the application until such deficiencies have been remedied."
+
+Subsec. (c)(2). Pub. L. 118–31, §3514(k)(4)(A)(ii), inserted heading, substituted "Each application shall include such financial, technical, and other information as the Secretary determines to be necessary or appropriate, including—" for "Each application shall include such financial, technical, and other information as the Secretary deems necessary or appropriate. Such information shall include, but need not be limited to—" in introductory provisions, struck out "of this paragraph" after "subparagraph (A) or (B)" in two places in subpar. (C), and after "subparagraphs (A), (B), or (C)" in subpars. (G) and (H), and realigned margins of subpars. (A) to (M).
+
+Subsec. (g). Pub. L. 118–31, §3514(k)(4)(B), substituted "subsection (c)" for "subsection (c) of this section".
+
+Subsec. (h). Pub. L. 118–31, §3514(k)(4)(C)(i), inserted heading.
+
+Subsec. (h)(1). Pub. L. 118–31, §3514(k)(4)(C)(i), (ii), inserted par. (1) heading, designated first sentence of par. (1) as subpar. (A) and inserted subpar. heading, designated second sentence as subpar. (B), inserted subpar. heading, and substituted "In addition to a fee under subparagraph (A)" for "In addition".
+
+Subsec. (h)(2). Pub. L. 118–31, §3514(k)(4)(C)(iii)(I), (II), inserted par. heading and struck out "As used in this paragraph, the term 'land-based facilities directly related to a deepwater port facility' means the onshore tank farm and pipelines connecting such tank farm to the deepwater port facility." at end.
+
+Subsec. (h)(2)(A). Pub. L. 118–31, §3514(k)(4)(C)(iii)(II), added subpar. (A).
+
+Subsec. (h)(2)(B) to (E). Pub. L. 11831, §3514(k)(4)(C)(iii)(II), (III), designated first sentence of par. (2) as subpar. (B) and inserted subpar. heading; designated second sentence as subpar. (C), inserted subpar. heading, and substituted "the applicable" for "such" wherever appearing and "A fee may be established pursuant to this paragraph" for "Fees may be fixed under authority of this paragraph"; designated third sentence as subpar. (D), inserted subpar. heading, and substituted "the applicable" for "such" in two places and "The amount of a fee established under this paragraph" for "Fees under this paragraph"; and designated fourth sentence as subpar. (E), inserted subpar. heading, and substituted "A fee established under this paragraph" for "Such fees".
+
+Subsec. (h)(3). Pub. L. 118–31, §3514(k)(4)(C)(iv), inserted heading and substituted "outer" for "Outer" before "Continental".
+
+Subsec. (i)(2)(A). Pub. L. 118–31, §3514(k)(4)(D)(i)(I), inserted "First," after subpar. designation and substituted period for semicolon at end.
+
+Subsec. (i)(2)(B). Pub. L. 118–31, §3514(k)(4)(D)(i)(II), inserted "Second," after subpar. designation and substituted period for semicolon at end.
+
+Subsec. (i)(2)(C). Pub. L. 118–31, §3514(k)(4)(D)(i)(III), inserted "Third," after subpar. designation.
+
+Subsec. (i)(3)(A). Pub. L. 118–31, §3514(k)(4)(D)(ii)(III), substituted "(A) The degree" for "(A) the degree" and period for semicolon at end.
+
+Subsec. (i)(3)(B) to (D). Pub. L. 118–31, §3514(k)(4)(D)(ii)(I), (II), (IV), added subpar. (B), redesignated former subpar. (B) as (C) and substituted "Any" for "any" and a period for "; and", and redesignated former subpar. (C) as (D) and substituted "Any" for "any".
+
+Subsec. (i)(4). Pub. L. 118–31, §3514(k)(4)(D)(iii), inserted par. heading, designated existing provisions as subpar. (A) and inserted subpar. heading, struck out "Paragraphs (1), (2), and (3) of this subsection shall not apply to an application for a deepwater port for natural gas." at end, and added subpar. (B).
+
+Subsec. (j)(1). Pub. L. 118–31, §3514(k)(4)(E), struck out "of Transportation" after "Secretary".
+
+Subsec. (k). Pub. L. 118–31, §3514(k)(4)(F), added subsec. (k).
 
 <b>2021</b>—Subsec. (j). Pub. L. 116–283 added subsec. (j).
 

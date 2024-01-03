@@ -44,7 +44,7 @@
 
 #### (A) Reclamation reserves
 
-&emsp;&emsp;In the case of any reserve for qualified reclamation costs, there shall be included in gross income for any taxable year an amount equal to the excess of—
+&emsp;&emsp;In the case of any reserve for qualified reclamation costs, there shall be included ingross income for any taxable year an amount equal to the excess of—
 
 &emsp;&emsp;&emsp;(i) the closing balance of the reserve for such taxable year, over
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 #### (ii) Exception for certain hazardous waste sites
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply to that portion of any property which is disturbed after the property is listed in the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980.
+&emsp;&emsp;&emsp;Clause (i) shall not apply to that portion of any property which is disturbed afterthe property is listed in the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980.
 
 #### (3) Property
 
@@ -164,7 +164,7 @@ For purposes of this section—
 
 The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (d)(2)(A), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445. Title V of that Act is classified generally to subchapter V (§1251 et seq.) of chapter 25 of Title 30, Mineral Lands and Mining. Sections 511 and 528 of that Act are classified to sections 1261 and 1278, respectively, of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
-The Solid Waste Disposal Act, referred to in subsec. (d)(2)(B)(i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (d)(2)(B)(i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 Section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (d)(2)(B)(ii), is classified to section 9605 of Title 42.
 

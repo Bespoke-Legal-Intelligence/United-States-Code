@@ -20,7 +20,7 @@ The purposes of the Act are—
 
 Congress finds the following:
 
-&emsp;(1) In 2002, over 7,000,000 people were incarcerated in Federal or State prisons or in localjails. Nearly 650,000 people are released from Federal and State incarceration into communities nationwide each year.
+&emsp;(1) In 2002, over 7,000,000 people were incarcerated in Federal or State prisons or in local jails. Nearly 650,000 people are released from Federal and State incarceration into communities nationwide each year.
 
 &emsp;(2) There are over 3,200 jails throughout the United States, the vast majority of which are operated by county governments. Each year, these jails will release more than 10,000,000 people back into the community.
 

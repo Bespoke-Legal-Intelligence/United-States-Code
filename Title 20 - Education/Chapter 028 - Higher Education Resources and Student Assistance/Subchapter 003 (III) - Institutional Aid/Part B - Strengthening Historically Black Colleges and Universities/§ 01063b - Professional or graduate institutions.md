@@ -156,7 +156,7 @@ No institution that is eligible for and receives an award under section 1102a, 1
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–315, §311(a), inserted at end "Any funds awarded for such five-year grant period that are obligated during such five-year period may be expended during the 10-year period beginning on the first day of such five-year period."
+<b>2008</b>—Subsec. (b). Pub. L. 110–315, §311(a), inserted at end "Any funds awarded for such five-year grant period that are obligated during such five-year period may beexpended during the 10-year period beginning on the first day of such five-year period."
 
 Subsec. (c)(5). Pub. L. 110–315, §311(b)(1), substituted "establishing or improving" for "establish or improve".
 
@@ -258,7 +258,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

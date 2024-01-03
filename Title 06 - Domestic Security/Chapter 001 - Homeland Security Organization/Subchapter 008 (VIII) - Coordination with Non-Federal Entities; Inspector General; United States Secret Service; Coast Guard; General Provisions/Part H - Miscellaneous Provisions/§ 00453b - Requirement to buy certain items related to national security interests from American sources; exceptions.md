@@ -74,7 +74,7 @@ This section applies with respect to contracts entered into by the Department of
 
 #### Codification
 
-Section was enacted as part of the American Recovery and Reinvestment Act of 2009, and not as part ofthe Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the American Recovery and Reinvestment Act of 2009, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 #### Amendments
 

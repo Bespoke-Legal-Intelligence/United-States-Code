@@ -2,7 +2,7 @@
 
 #### (a) Payments to providers of services or other person regarded as payment to individuals
 
-Any payment under this subchapter to any provider of services or other person with respectto any items or services furnished any individual shall be regarded as a payment to such individual.
+Any payment under this subchapter to any provider of services or other person with respect to any items or services furnished any individual shall be regarded as a payment to such individual.
 
 #### (b) Incorrect payments on behalf of individuals; payment adjustment
 
@@ -54,7 +54,7 @@ If an individual who received medical and other health services for which paymen
 
 &emsp;(1) if the person or persons who furnished the services agree to the terms of assignment specified in section 1395u(b)(3)(B)(ii) of this title with respect to the services, payment for such services shall be made to such person or persons, and
 
-&emsp;(2) if the person or persons who furnished the services do not agree to the terms of assignment specified in section 1395u(b)(3)(B)(ii) of this title with respect to the services, payment for such services shall be made on the basis of an itemized bill to the person who has agreed to assume the legal obligation to make payment for such services and files a request for payment (with such accompanying evidence of such legal obligation as may be required in regulations),
+&emsp;(2) if the person or persons who furnished the services do not agree to the terms of assignment specified in section 1395u(b)(3)(B)(ii) of this title with respect tothe services, payment for such services shall be made on the basis of an itemized bill to the person who has agreed to assume the legal obligation to make payment for such services and files a request for payment (with such accompanying evidence of such legal obligation as may be required in regulations),
 
 > but only in such amount and subject to such conditions as would be applicable if the individual who received the services had not died.
 

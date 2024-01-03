@@ -82,7 +82,7 @@ If a return is made for a short period by reason of subsection (a)—
 
 #### Amendments
 
-<b>2004</b>—Subsec. (e)(3) to (5). Pub. L. 108–357 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: "Undistributed foreign personal holding company income, see section 557."
+<b>2004</b>—Subsec. (e)(3) to (5). Pub. L. 108–357 redesignated pars. (4) and (5) as (3) and (4), respectively, and struckout former par. (3) which read as follows: "Undistributed foreign personal holding company income, see section 557."
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §104(b)(7)(A), struck out ", and adding the zero bracket amount" after "by the number of months in the short period".
 

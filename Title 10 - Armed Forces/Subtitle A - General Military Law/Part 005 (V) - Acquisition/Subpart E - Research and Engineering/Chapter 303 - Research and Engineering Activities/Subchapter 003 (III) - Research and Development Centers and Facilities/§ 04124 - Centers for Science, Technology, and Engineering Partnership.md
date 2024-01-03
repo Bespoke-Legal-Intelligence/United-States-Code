@@ -4,7 +4,7 @@
 
 Designation.—(1) The Secretary of Defense, in coordination with the Secretaries of the military departments, shall designate each science and technology reinvention laboratory as a Center for Science, Technology, and Engineering Partnership (in this section referred to as "Centers") in the recognized core competencies of the designee.
 
-(2) The Secretary of Defense shall establish a policy to encourage the Secretary of each military department to reengineer management and business processes and adopt best-business andpersonnel practices at the Centers of the Secretary concerned in connection with the capability requirements of the Centers, so as to serve as recognized leaders in such capabilities throughout the Department of Defense and in the national technology and industrial base.
+(2) The Secretary of Defense shall establish a policy to encourage the Secretary of each military department to reengineer management and business processes and adopt best-business and personnel practices at the Centers of the Secretary concerned in connection with the capability requirements of the Centers, so as to serve as recognized leaders in such capabilities throughout the Department of Defense and in the national technology and industrial base.
 
 (3) The Secretary of Defense, acting through the directors of the Centers, may conduct one or more pilot programs, consistent with applicable requirements of law, to test any practices referred to in paragraph (2) that the Directors determine could—
 
@@ -90,7 +90,13 @@ Availability of Excess Capacities to Private-sector Partners.—Capacities of a 
 
 Use of Partnership Intermediaries to Promote Defense Research and Education.—(1) Subject to the approval of the Secretary or the head of the another department or agency of the Federal Government concerned, the Director of a Center may enter into a contract, memorandum of understanding or other transaction with a partnership intermediary that provides for the partnership intermediary to perform services for the Department of Defense that increase the likelihood of success in the conduct of cooperative or joint activities of the Center with industry or academic institutions.
 
-(2) In this subsection, the term "partnership intermediary" means an agency of a State or local government, or a nonprofit entity owned in whole or in part by, chartered by, funded in whole or in part by, or operated in whole or in part by or on behalf of a State or local government, that assists, counsels, advises, evaluates, or otherwise cooperates with industry or academic institutions that need or can make demonstrably productive use of technology-related assistance from a Center.
+(2) In this subsection, the term "partnership intermediary" means an agency of a State or local government, or a nonprofit entity owned in whole or in part by, chartered by, funded in whole or in part by, or operated in whole or in part by or on behalf of a State or local government, that—
+
+&emsp;(A) assists, counsels, advises, evaluates, or otherwise cooperates with industry or academic institutions that need or can make demonstrably productive use of technology-related assistance from a Center;
+
+&emsp;(B) facilitates technology transfer from industry or academic institutions to a Center; or
+
+&emsp;(C) assists and facilitates workforce development in critical technology areas for technology transition activities to fulfill unmet needs of a Center.
 
 (g)
 
@@ -106,7 +112,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "science and technology reinvention laboratory" means a science and technology reinvention laboratory designated under section 4121(b) of this title.
 
-(Added Pub. L. 114–92, div. A, title II, §211(a), Nov. 25, 2015, 129 Stat. 764, §2368; amended Pub. L. 115–232, div. A, title II, §231, Aug. 13, 2018, 132 Stat. 1690; Pub. L. 116–92, div. A, title XVII, §1731(a)(45), Dec. 20, 2019, 133 Stat. 1814; renumbered §4124 and amended Pub. L. 116–283, div. A, title XVIII, §1843(b)(1), (d), as added Pub. L. 117–81, div. A, title XVII, §1701(u)(4)(A), (C), Dec. 27, 2021, 135 Stat. 2153; Pub. L. 116–283, div. A, title XVIII, §§1844(b)(1), (c), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4245, 4246, 4294; Pub. L. 117–81, div. A, title II, §215(d)(12), title XVII, §1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 1594, 2154.)
+(Added Pub. L. 114–92, div. A, title II, §211(a), Nov. 25, 2015, 129 Stat. 764, §2368; amended Pub. L. 115–232, div. A, title II, §231, Aug. 13, 2018, 132 Stat. 1690; Pub. L. 116–92, div. A, title XVII, §1731(a)(45), Dec. 20, 2019, 133 Stat. 1814; renumbered §4124 and amended Pub. L. 116–283, div. A, title XVIII, §1843(b)(1), (d), as added Pub. L. 117–81, div. A, title XVII, §1701(u)(4)(A), (C), Dec. 27, 2021, 135 Stat. 2153; Pub. L. 116–283, div. A, title XVIII, §§1844(b)(1), (c), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4245, 4246, 4294; Pub. L. 117–81, div. A, title II, §215(d)(12), title XVII, §1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 1594, 2154; Pub. L. 118–31, div. A, title II, §214, Dec. 22, 2023, 137 Stat. 184.)
 
 #### <b>Editorial Notes</b>
 
@@ -115,6 +121,8 @@ Definitions.—In this section:
 Section 219 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009, referred to in subsec. (d)(2), is section 219 of Pub. L. 110–417, \[div. A\], title II, Oct. 14, 2008, 122 Stat. 4389, which was set out as a note under section 2358 of this title, prior to repeal by Pub. L. 115–91, div. A, title II, §220(c)(1), Dec. 12, 2017, 131 Stat. 1333. Provisions similar to those in former section 219 of Pub. L. 110–417 are now contained in section 4123 of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (f)(2). Pub. L. 118–31 inserted dash after "local government, that" and subpar. (A) designation before "assists" and added subpars. (B) and (C).
 
 <b>2021</b>—Pub. L. 116–283, §1844(b)(1), which directed the renumbering of section 2368 of this title as section 4146 instead of this section, was repealed by Pub. L. 117–81, §1701(u)(5)(B), effective as if included therein, so that such renumbering was no longer directed.
 

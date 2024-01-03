@@ -24,7 +24,7 @@
 
 &emsp;(A) waive the application of the preceding provisions of this section on a case-by-case basis for employees in positions for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
 
-&emsp;(B) grant authority to the head of such agency to waive the application of the preceding provisions of this section, on a case-by-case basis, for an employee serving on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.
+&emsp;(B) grant authority to the head of such agency to waive the application of the preceding provisions of this section, on a case-by-case basis, for an employee serving on a temporarybasis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.
 
 (2) The Office shall prescribe regulations for the exercise of any authority under this subsection, including criteria for any exercise of authority and procedures for terminating a delegation of authority under paragraph (1)(B).
 
@@ -122,7 +122,7 @@
 
 #### References in Text
 
-The American Recovery and Reinvestment Act of 2009, referred to in subsec. (i)(2)(B), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. For complete classificationof this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
+The American Recovery and Reinvestment Act of 2009, referred to in subsec. (i)(2)(B), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (i)(2)(B), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765. Title I of the Act is classified principally to subchapter I (§5211 et seq.) of chapter 52 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
@@ -166,9 +166,9 @@ Pub. L. 101–509 added subsec. (f).
 
 #### Change of Name
 
-Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 2014 Amendment
 

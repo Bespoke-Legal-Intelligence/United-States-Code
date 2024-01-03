@@ -2,7 +2,7 @@
 
 #### (a) Exclusivity
 
-Only the Oversight Board, after the issuance of a certificate pursuant to section 2124(j) of thistitle, may file a plan of adjustment of the debts of the debtor.
+Only the Oversight Board, after the issuance of a certificate pursuant to section 2124(j) of this title, may file a plan of adjustment of the debts of the debtor.
 
 #### (b) Deadline for filing plan
 

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Freely Associated States
 
-&emsp;The term "Freely Associated States" means the Republic of Palau, the Republic of the Marshall Islands, and the Federated States of Micronesia, which have each entered into a Compact of Free Association with the United States.
+&emsp;The term "Freely Associated States" means the Republic of Palau, the Republic of the Marshall Islands, and the Federated States of Micronesia, which have each entered into aCompact of Free Association with the United States.
 
 #### (2) United States
 

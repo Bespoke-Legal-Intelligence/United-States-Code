@@ -192,7 +192,7 @@ Final Rule.—Not later than 18 months after the date of enactment of this Act \
 
 #### Advisory Committee on the Air Travel Needs of Passengers With Disabilities
 
-Pub. L. 115–254, div. B, title IV, §439, Oct. 5, 2018, 132 Stat. 3345, provided that:
+Pub. L. 115–254, div. B, title IV, §439, Oct. 5, 2018, 132 Stat. 3345, as amended by Pub. L. 118–15, div. B, title II, §2202(t), Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §102(t), Dec. 26, 2023, 137 Stat. 1114, provided that:
 
 "(a)
 
@@ -276,7 +276,7 @@ Report to congress.—Not later than 60 days after the date the Secretary receiv
 
 "(g)
 
-Termination.—The Advisory Committee established under this section shall terminate on September 30, 2023.
+Termination.—The Advisory Committee established under this section shall terminate on March 8, 2024.
 
 "(h)
 

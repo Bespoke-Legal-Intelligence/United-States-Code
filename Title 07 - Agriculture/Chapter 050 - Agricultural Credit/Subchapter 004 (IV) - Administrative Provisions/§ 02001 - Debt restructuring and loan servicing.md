@@ -58,7 +58,7 @@ To be eligible to obtain assistance under subsection (a)—
 
 &emsp;&emsp;&emsp;(iv) other administrative and attorney's costs; plus
 
-&emsp;&emsp;(C) the value, as determined by the Secretary, of any property not included in subparagraph (A)(i) if the property is specified in any security agreement with respect to such loan and the Secretary determines thatthe value of such property should be included for purposes of this section.
+&emsp;&emsp;(C) the value, as determined by the Secretary, of any property not included in subparagraph (A)(i) if the property is specified in any security agreement with respect to such loan and the Secretary determines that the value of such property should be included for purposes of this section.
 
 #### (3) Value of the restructured loan
 
@@ -206,7 +206,7 @@ No foreclosure or other similar actions shall be taken to liquidate any loan det
 
 &emsp;(1) until the borrower has been given the opportunity to appeal such decision; and
 
-&emsp;(2) if the borrower appeals, the appeals process has been completed, and a determination has been made that the loan is ineligible for restructuring.
+&emsp;(2) if the borrower appeals, the appeals process has been completed, and a determinationhas been made that the loan is ineligible for restructuring.
 
 #### (h) Time limits for restructuring
 
@@ -314,7 +314,7 @@ Subsecs. (m) to (p). Pub. L. 104–127, §645(3), redesignated subsecs. (m) to (
 
 Subsec. (m). Pub. L. 102–237, §501(h)(2), substituted "section 1985(e)(1)" for "section 1985(e)(1)(A)".
 
-<b>1990</b>—Subsec. (b)(1). Pub. L. 101–624, §1816(a), inserted before semicolon at end ", except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current,the borrower shall not be eligible for assistance under subsection (a)".
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–624, §1816(a), inserted before semicolon at end ", except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a)".
 
 Subsec. (c)(2)(A). Pub. L. 101–624, §1816(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the amount of the current appraised value of the property securing the loan; less".
 

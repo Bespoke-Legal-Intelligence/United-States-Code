@@ -74,7 +74,7 @@ Amendment by Pub. L. 115–141 effective Oct. 1, 2018, see section 103 of div. P
 
 #### Continued Applicability of Regulatory Fees
 
-Pub. L. 115–141, div. P, title I, §102(d)(2), Mar. 23, 2018, 132 Stat. 1086, provided that: "A regulatory fee established under section 9 of the Communications Act of 1934 \[47 U.S.C. 159\], as such section is in effect on the day before the effective date described in section 103 of this title \[Oct. 1, 2018\], shall remain in effect under section 9 of the Communications Act of 1934, as amended by subsection (b) of this section, until such time as the Commission \[Federal Communications Commission\] adjusts or amends such fee under subsection (c) or (d) of such section 9, as so amended."
+Pub. L. 115–141, div. P, title I, §102(d)(2), Mar. 23, 2018, 132 Stat. 1086, provided that: "A regulatory fee established under section 9 of the Communications Act of 1934 \[47 U.S.C. 159\], as such section is in effect on the day before the effective date described in section 103 ofthis title \[Oct. 1, 2018\], shall remain in effect under section 9 of the Communications Act of 1934, as amended by subsection (b) of this section, until such time as the Commission \[Federal Communications Commission\] adjusts or amends such fee under subsection (c) or (d) of such section 9, as so amended."
 
 #### Rulemaking To Amend Schedule of Regulatory Fees
 

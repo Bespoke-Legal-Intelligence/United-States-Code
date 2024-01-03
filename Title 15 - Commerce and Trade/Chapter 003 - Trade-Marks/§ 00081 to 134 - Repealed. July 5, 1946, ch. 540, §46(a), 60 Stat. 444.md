@@ -174,7 +174,7 @@ Distribution Table
 
 not now covered.
 
-Sections were repealed effective one year from July 5, 1946, insofar as inconsistent with present trade-mark provisions contained in chapter 22, §1051 et seq. of this title. For effect of repeal on existing registrations and pending proceedings see notes under section 1051 of this title.
+Sections were repealed effective one year from July 5, 1946, insofar as inconsistent with present trade-mark provisions contained in chapter 22, §1051 et seq. of thistitle. For effect of repeal on existing registrations and pending proceedings see notes under section 1051 of this title.
 
 Sections 98 and 127 were rerepealed by act June 25, 1948, ch. 646, §39, 62 Stat. 992, eff. Sept. 1, 1948.
 

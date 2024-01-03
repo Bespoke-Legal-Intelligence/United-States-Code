@@ -32,7 +32,7 @@ Provisions similar to those in this section were contained in section 261(a) of 
 
 #### Change of Name
 
-Pub. L. 109–163, div. A, title V, §515(a)(1), Jan. 6, 2006, 119 Stat. 3233, provided that: "The reserve componentof the Armed Forces known as the Naval Reserve is redesignated as the Navy Reserve."
+Pub. L. 109–163, div. A, title V, §515(a)(1), Jan. 6, 2006, 119 Stat. 3233, provided that: "The reserve component of the Armed Forces known as the Naval Reserve is redesignated as the Navy Reserve."
 
 Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, as amended by Pub. L. 111–383, div. A, title X, §1075(h)(1), Jan. 7, 2011, 124 Stat. 4377, provided that: "Any reference in any law, regulation, document, record, or other paper of the United States to the Naval Reserve, other than a reference to the Naval Reserve regarding the United States Naval Reserve Retired List, shall be considered to be a reference to the Navy Reserve."
 
@@ -194,7 +194,7 @@ Duration.—The duration of the pilot program may not exceed three years.
 
 "(e)
 
-Report.—Not later than 180 days before the completion of the pilot program, the Secretary of Defense shall submit to the Secretary of Veterans Affairs and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the pilot program, including the number of members of the National Guard and Reserves provided treatment or services by community partners, and a description and assessment of the effectiveness and achievements of the pilot program with respect to research, treatment, education, and outreach on mental health, substance use disorders, traumatic brain injury, and suicide prevention."
+Report.—Not later than 180 days before the completion of the pilot program, the Secretary of Defense shall submit to the Secretary of Veterans Affairs and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the pilot program, including the number of members of the National Guard and Reserves provided treatment or services by community partners, and a description and assessment of the effectiveness and achievements ofthe pilot program with respect to research, treatment, education, and outreach on mental health, substance use disorders, traumatic brain injury, and suicide prevention."
 
 #### Behavioral Health Support
 
@@ -256,7 +256,7 @@ Regulations.—The Secretaries of the military departments shall administer this
 
 Pub. L. 111–84, div. A, title V, §597(b), Oct. 28, 2009, 123 Stat. 2344, which related to annual reports on the Yellow Ribbon Reintegration Program, was repealed by Pub. L. 114–92, div. A, title X, §1072(d)(2), Nov. 25, 2015, 129 Stat. 995.
 
-Pub. L. 110–181, div. A, title V, §582, Jan. 28, 2008, 122 Stat. 122, as amended by Pub. L. 111–84, div. A, title V,§595, Oct. 28, 2009, 123 Stat. 2338; Pub. L. 111–383, div. A, title V, §583, Jan. 7, 2011, 124 Stat. 4228; Pub. L. 112–81, div. A, title V, §590, Dec. 31, 2011, 125 Stat. 1438; Pub. L. 112–239, div. A, title V, §581(b), Jan. 2, 2013, 126 Stat. 1766; Pub. L. 114–92, div. A, title V, §551, title X, §1072(d)(1), Nov. 25, 2015, 129 Stat. 820, 995, provided that:
+Pub. L. 110–181, div. A, title V, §582, Jan. 28, 2008, 122 Stat. 122, as amended by Pub. L. 111–84, div. A, title V, §595, Oct. 28, 2009, 123 Stat. 2338; Pub. L. 111–383, div. A, title V, §583, Jan. 7, 2011, 124 Stat. 4228; Pub. L. 112–81, div. A, title V, §590, Dec. 31, 2011, 125 Stat. 1438; Pub. L. 112–239, div. A, title V, §581(b), Jan. 2, 2013, 126 Stat. 1766; Pub. L. 114–92, div. A, title V, §551, title X, §1072(d)(1), Nov. 25, 2015, 129 Stat. 820, 995, provided that:
 
 "(a)
 
@@ -290,7 +290,7 @@ Partnerships and access.—The office may enter into partnerships with other pub
 
 Center for excellence in reintegration.—The Office for Reintegration Programs shall establish a Center for Excellence in Reintegration within the office. The Center shall have the following functions:
 
-&emsp;&emsp;"(A) To collect and analyze 'lessons learned' and suggestions from State National Guard and Reserve organizations with existing or developing reintegration programs.
+&emsp;&emsp;"(A) To collect and analyze 'lessons learned' and suggestions from State National Guard and Reserveorganizations with existing or developing reintegration programs.
 
 &emsp;&emsp;"(B) To assist in developing training aids and briefing materials and training representatives from State National Guard and Reserve organizations.
 

@@ -58,7 +58,7 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 #### (4) Denial of deduction
 
-&emsp;Any deduction under subtitle A with respect to any tax against which a credit is allowedunder this subsection shall only be for the amount of such tax as reduced by such credit.
+&emsp;Any deduction under subtitle A with respect to any tax against which a credit is allowed under this subsection shall only be for the amount of such tax as reduced by such credit.
 
 #### (5) Credit for transferee in bond
 
@@ -106,7 +106,7 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 &emsp;&emsp;&emsp;(i) paragraph (1) shall not apply, and
 
-&emsp;&emsp;&emsp;(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
+&emsp;&emsp;&emsp;(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in thesame manner as if such amount were an overpayment of tax imposed by this section.
 
 #### (B) Amount of refund
 
@@ -210,7 +210,7 @@ Pub. L. 116–260, div. EE, title I, §110(b), Dec. 27, 2020, 134 Stat. 3049, pr
 
 #### Prior Provisions
 
-A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955, ch. 18, §3(a)(7), 69 Stat. 14; Mar.29, 1956, ch. 115, §3(a)(7), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(5), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(5), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955, ch. 18, §3(a)(7), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(7), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(5), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(5), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 
@@ -378,7 +378,7 @@ Pub. L. 100–647, title VI, §6101(b), Nov. 10, 1988, 102 Stat. 3710, provided 
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–490, §6(b), Oct. 26, 1974, 88 Stat. 1468, provided that: "The amendment made by this section \[amending this section\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of enactment of this Act \[Oct. 26, 1974\]."
+Pub. L. 93–490, §6(b), Oct. 26, 1974, 88 Stat. 1468, provided that: "The amendment made by this section \[amending this section\] shall take effect on the first day of the first calendar month which begins more than90 days after the date of enactment of this Act \[Oct. 26, 1974\]."
 
 #### Effective Date of 1965 Amendment
 

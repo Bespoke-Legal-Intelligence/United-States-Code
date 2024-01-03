@@ -8,7 +8,7 @@ In this subchapter:
 
 #### (2) Agency CERPO
 
-&emsp;The term "agency CERPO" means the chief environmental review and permitting officerof an agency, as designated by the head of the agency under section 4370m–1(b)(2)(A)(iii)(I) of this title.
+&emsp;The term "agency CERPO" means the chief environmental review and permitting officer of an agency, as designated by the head of the agency under section 4370m–1(b)(2)(A)(iii)(I) of this title.
 
 #### (3) Authorization
 
@@ -26,7 +26,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "covered project" means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, semiconductors, artificial intelligence and machine learning, high-performance computing and advanced computer hardware and software, quantum information science and technology, data storage and data management, cybersecurity, carbon capture, or any other sector as determined by a majority vote of the Council that—
+&emsp;&emsp;The term "covered project" means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, semiconductors, artificial intelligence and machine learning, high-performance computing and advanced computer hardware and software, quantum information science and technology, data storage and data management, cybersecurity, carbon capture, energy storage, or any other sector as determined by a majority vote of the Council that—
 
 &emsp;&emsp;&emsp;(i)(I) is subject to NEPA;
 
@@ -124,7 +124,7 @@ In this subchapter:
 
 &emsp;The term "project sponsor" means an entity, including any private, public, or public-private entity, seeking an authorization for a covered project.
 
-(Pub. L. 114–94, div. D, title XLI, §41001, Dec. 4, 2015, 129 Stat. 1741; Pub. L. 116–260, div. S, §102(d)(1), Dec. 27, 2020, 134 Stat. 2250; Pub. L. 117–58, div. G, title VIII, §70801(a), Nov. 15, 2021, 135 Stat. 1287; Pub. L. 117–173, §1, Aug. 16, 2022, 136 Stat. 2103.)
+(Pub. L. 114–94, div. D, title XLI, §41001, Dec. 4, 2015, 129 Stat. 1741; Pub. L. 116–260, div. S, §102(d)(1), Dec. 27, 2020, 134 Stat. 2250; Pub. L. 117–58, div. G, title VIII, §70801(a), Nov. 15, 2021, 135 Stat. 1287; Pub. L. 117–173, §1, Aug. 16, 2022, 136 Stat. 2103; Pub. L. 118–5, div. C, title III, §323, June 3, 2023, 137 Stat. 46.)
 
 #### <b>Editorial Notes</b>
 
@@ -137,6 +137,8 @@ The National Environmental Policy Act of 1969 or NEPA, referred to in pars. (6)(
 Section was enacted as part of the Fixing America's Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 
 #### Amendments
+
+<b>2023</b>—Par. (6)(A). Pub. L. 118–5 inserted "energy storage," before "or any other sector".
 
 <b>2022</b>—Par. (6)(A). Pub. L. 117–173 inserted "semiconductors, artificial intelligence and machine learning, high-performance computing and advanced computer hardware and software, quantum information science and technology, data storage and data management, cybersecurity," after "manufacturing," in introductory provisions.
 
@@ -194,7 +196,7 @@ Report.—
 
 In general.—Not later than 180 days after the date of enactment of this Act \[Dec. 27, 2020\], the Chair of the Council on Environmental Quality (referred to in this section as the 'Chair'), in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, the Secretary of the Interior, the Secretary of Transportation, the Executive Director of the Federal Permitting Improvement Council, and the head of any other relevant Federal agency (as determined by the President), shall prepare a report that—
 
-&emsp;&emsp;"(I) compiles all existing relevant Federal permitting and review information and resources forproject applicants, agencies, and other stakeholders interested in the deployment and impact of carbon capture, utilization, and sequestration projects and carbon dioxide pipelines, including—
+&emsp;&emsp;"(I) compiles all existing relevant Federal permitting and review information and resources for project applicants, agencies, and other stakeholders interested in the deployment and impact of carbon capture, utilization, and sequestration projects and carbon dioxide pipelines, including—
 
 &emsp;&emsp;&emsp;"(aa) the appropriate points of interaction with Federal agencies;
 
@@ -226,7 +228,7 @@ Guidance.—
 
 &emsp;"(i)
 
-In general.—After submission of the report under subparagraph (B)(ii), but not later than 1 year after the date of enactment of this Act \[Dec. 27, 2020\], the Chair shall submit guidance consistent with that report to all relevant Federal agencies that—
+In general.—After submission of the report under subparagraph (B)(ii), but not later than 1 yearafter the date of enactment of this Act \[Dec. 27, 2020\], the Chair shall submit guidance consistent with that report to all relevant Federal agencies that—
 
 &emsp;&emsp;"(I) facilitates reviews associated with the deployment of carbon capture, utilization, and sequestration projects and carbon dioxide pipelines; and
 

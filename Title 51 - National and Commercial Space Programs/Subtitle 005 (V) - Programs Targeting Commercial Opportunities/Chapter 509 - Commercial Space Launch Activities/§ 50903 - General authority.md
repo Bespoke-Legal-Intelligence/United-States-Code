@@ -10,7 +10,7 @@ Facilitating Commercial Launches and Reentries.—In carrying out this chapter, 
 
 &emsp;(1) encourage, facilitate, and promote commercial space launches and reentries by the private sector, including those involving space flight participants; and
 
-&emsp;(2) take actions to facilitate private sector involvement in commercial space transportation activity, and to promote public-private partnerships involving the United States Government, State governments, and the private sector to build, expand, modernize, or operate a space launch and reentry infrastructure.
+&emsp;(2) take actions to facilitate private sector involvement in commercial space transportation activity, and to promote public-privatepartnerships involving the United States Government, State governments, and the private sector to build, expand, modernize, or operate a space launch and reentry infrastructure.
 
 (c)
 
@@ -20,7 +20,7 @@ Safety.—In carrying out the responsibilities under subsection (b), the Secreta
 
 Executive Agency Assistance.—When necessary, the head of an executive agency shall assist the Secretary in carrying out this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1332, §70103 of title 49; Pub. L. 105–303, title I,§102(a)(4), Oct. 28, 1998, 112 Stat. 2847; Pub. L. 108–492, §2(c)(1), (2), Dec. 23, 2004, 118 Stat. 3976; renumbered §70103 then §50903 of title 51, Pub. L. 111–314, §4(d)(2), (3)(C), Dec. 18, 2010, 124 Stat. 3440.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1332, §70103 of title 49; Pub. L. 105–303, title I, §102(a)(4), Oct. 28, 1998, 112 Stat. 2847; Pub. L. 108–492, §2(c)(1), (2), Dec. 23, 2004, 118 Stat. 3976; renumbered §70103 then §50903 of title 51, Pub. L. 111–314, §4(d)(2), (3)(C), Dec. 18, 2010, 124 Stat. 3440.)
 
 Historical and Revision Notes
 
@@ -118,7 +118,7 @@ Sec. 2. <i>Responsibilities of Lead Agency</i>. The Secretary of Transportation 
 
 (h) conduct appropriate planning regarding long-term effects of Federal activities related to ELV commercialization.
 
-Sec. 3. An interagency group, chaired by the Secretary of Transportation and composed of representatives from the Department of State, the Department of Defense, the Department of Commerce, the Federal Communications Commission, and the National Aeronautics and Space Administration, is hereby established. This group shall meet at the call of the Chair and shall advise and assist the Department of Transportation in performing its responsibilities under this Order.
+Sec. 3. An interagency group, chaired by the Secretary of Transportation and composed of representatives from the Department of State, the Department of Defense, the Department of Commerce, the FederalCommunications Commission, and the National Aeronautics and Space Administration, is hereby established. This group shall meet at the call of the Chair and shall advise and assist the Department of Transportation in performing its responsibilities under this Order.
 
 Sec. 4. <i>Responsibilities of Other Agencies</i>. All executive departments and agencies shall assist the Secretary of Transportation in carrying out this Order. To the extent permitted by law and in consultation with the Secretary of Transportation, they shall:
 
@@ -128,7 +128,7 @@ Sec. 4. <i>Responsibilities of Other Agencies</i>. All executive departments and
 
 (c) establish timetables for the expeditious handling of and response to applications for licenses and approvals for commercial ELV activities.
 
-Sec. 5. The powers granted to the Secretary of Transportation to encourage, facilitate and coordinate theoverall ELV commercialization process shall not diminish or abrogate any statutory or operational authority exercised by any other Federal agency.
+Sec. 5. The powers granted to the Secretary of Transportation to encourage, facilitate and coordinate the overall ELV commercialization process shall not diminish or abrogate any statutory or operational authority exercised by any other Federal agency.
 
 Sec. 6. Nothing contained in this Order or in any procedures promulgated hereunder shall confer any substantive or procedural right or privilege on any person or organization, enforceable against the United States, its agencies, its officers or any person.
 

@@ -98,11 +98,11 @@
 
 #### (1) Training
 
-&emsp;The head of each element of the intelligence community shall regularly provide training on the reporting requirements under subsection (b) to employees of that element who occupy a covered intelligence position.
+&emsp;The head of each element of the intelligence community shall regularly provide training on the restrictions under subsection (a) and the reporting requirements under subsection (b) to employees of that element who occupy a covered intelligence position.
 
 #### (2) Written notice about reporting requirements
 
-&emsp;The head of each element of the intelligence community shall provide written notice of the reporting requirements under subsection (b) to an employee when the employee ceases to occupy a covered intelligence position.
+&emsp;The head of each element of the intelligence community shall provide written notice of the reporting requirements under subsection (b) to an employee when the employee occupies a covered intelligence position.
 
 #### (3) Written notice about restrictions
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;(A) when the head of the element determines that such person may become subject to such covered intelligence position restrictions; and
 
-&emsp;&emsp;(B) before the person ceases to occupy a covered intelligence position.
+&emsp;&emsp;(B) when the person occupies a covered intelligence position.
 
 #### (e) Annual reports
 
@@ -162,7 +162,7 @@ In addition to the annual reports under subsection (e), if a head of an element 
 
 &emsp;&emsp;(A) the risk to national security, the counterintelligence risk, or both; and
 
-&emsp;&emsp;(B) the activities that may violate Federal law, infringe upon the privacy rights of United States persons, or constitute abuses of human rights.
+&emsp;&emsp;(B) the activities that may violate Federal law, infringe upon the privacy rights ofUnited States persons, or constitute abuses of human rights.
 
 #### (g) Definitions
 
@@ -212,7 +212,7 @@ In this section:
 
 &emsp;The term "government of a foreign country" has the meaning given the term in section 611(e) of title 22.
 
-(July 26, 1947, ch. 343, title III, §304, as added Pub. L. 113–293, title III, §305(a), Dec. 19, 2014, 128 Stat. 3995; amended Pub. L. 117–103, div. X, title III, §308(a)(1), Mar. 15, 2022, 136 Stat. 966; Pub. L. 117–263, div. F, title LXIII, §6301(a)–(c), Dec. 23, 2022, 136 Stat. 3498–3500.)
+(July 26, 1947, ch. 343, title III, §304, as added Pub. L. 113–293, title III, §305(a), Dec. 19, 2014, 128 Stat. 3995; amended Pub. L. 117–103, div. X, title III, §308(a)(1), Mar. 15, 2022, 136 Stat. 966; Pub. L. 117–263, div. F, title LXIII, §6301(a)–(c), Dec. 23, 2022, 136 Stat. 3498–3500; Pub. L. 118–31, div. G, title III, §7304, Dec. 22, 2023, 137 Stat. 1025.)
 
 #### <b>Editorial Notes</b>
 
@@ -221,6 +221,12 @@ In this section:
 A prior section 304 of act July 26, 1947, ch. 343, title III, 61 Stat. 508, was classified to section 171k of former Title 5, Executive Departments and Government Officers and Employees, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d)(1). Pub. L. 118–31, §7304(1), which directed insertion of "the restrictions under subsection (a) and" before "the report requirements", was executed by making the insertion before "the reporting requirements" to reflect the probable intent of Congress.
+
+Subsec. (d)(2). Pub. L. 118–31, §7304(2), substituted "occupies" for "ceases to occupy".
+
+Subsec. (d)(3)(B). Pub. L. 118–31, §7304(3), substituted "when the person occupies a covered intelligence position" for "before the person ceases to occupy a covered intelligence position".
 
 <b>2022</b>—Pub. L. 117–103 amended section generally. Prior to amendment, section related to reporting of certain employment activities by former intelligence officers and employees.
 

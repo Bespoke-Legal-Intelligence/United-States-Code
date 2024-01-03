@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), if a State, territory, or other governmental entity provides notice to the Secretary of the Treasury in the manner provided by the Secretary of the Treasury that the State, territory, or other governmental entity intends to decline all or a portion of the amounts that are to be awarded to the State, territory, or other governmental entity from funds appropriated under this subchapter, an amount equal to the unaccepted amounts or portion of such amounts allocated by the Secretary of the Treasury as of the date of such notice that would have been awarded to the State, territory, or other governmental entity shall be rescinded from the applicable appropriation account.
+&emsp;Subject to paragraphs (2) and (3), if a State, territory, or other governmental entity provides notice to the Secretary of the Treasury in the manner provided by the Secretary of the Treasury that the State, territory, or other governmental entity intends to decline all or a portion of the amounts that are to be awarded to the State, territory, or other governmental entity from funds appropriated under this subchapter, an amount equal to the unaccepted amounts or portion of such amounts allocated by the Secretary of the Treasury as of the date of such notice thatwould have been awarded to the State, territory, or other governmental entity shall be rescinded from the applicable appropriation account.
 
 #### (2) Exclusion
 

@@ -36,7 +36,7 @@ Section was formerly classified to section 2212 of Title 42, The Public Health a
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(1). Pub. L. 113–66 substituted "or by chapter 309 or 311 of title 46" for "by the Act of March9, 1920 (46 U.S.C. App. 741–752), or by the Act of March 3, 1925 (46 U.S.C. App. 781–790)".
+<b>2013</b>—Subsec. (b)(1). Pub. L. 113–66 substituted "or by chapter 309 or 311 of title 46" for "by the Act of March 9, 1920 (46 U.S.C. App. 741–752), or by the Act of March 3, 1925 (46 U.S.C. App. 781–790)".
 
 <b>2003</b>—Pub. L. 108–136, §3141(k)(4)(D)(i), made technical amendment to section catchline.
 

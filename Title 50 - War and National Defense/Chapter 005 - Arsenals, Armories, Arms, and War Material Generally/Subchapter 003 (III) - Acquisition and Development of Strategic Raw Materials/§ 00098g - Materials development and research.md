@@ -2,15 +2,9 @@
 
 #### (a) Development, mining, preparation, treatment, and utilization of ores and other mineral substances
 
-(1) The President shall make scientific, technologic, and economic investigations concerning the development, mining, preparation, treatment, and utilization of ores and other mineral substances that (A) are found in the United States, or in its territories or possessions, (B) are essential to the national defense, industrial, and essential civilian needs of the United States, and (C) are found in known domestic sources in inadequate quantities or grades.
+(1) The President shall make scientific, technologic, and economic investigations concerning the development, mining, preparation, treatment, and utilization of ores and other mineral substances that (A) are found in the United States, its territories or possessions, or in a reliable source <sup>1</sup> (B) are essential to the national defense, industrial, and essential civilian needs of the United States, and (C) are found in known domestic sources in inadequate quantities or grades.
 
-(2) Such investigations shall be carried out in order to—
-
-&emsp;(A) determine and develop new domestic sources of supply of such ores and mineral substances;
-
-&emsp;(B) devise new methods for the treatment and utilization of lower grade reserves of such ores and mineral substances; and
-
-&emsp;(C) develop substitutes for such essential ores and mineral products.
+(2) Such investigations shall be carried out in order to develop new sources of strategic and critical materials, develop substitutes, or conserve domestic sources and reliable sources of supply for such strategic and critical materials.
 
 (3) Investigations under paragraph (1) may be carried out on public lands and, with the consent of the owner, on privately owned lands for the purpose of exploring and determining the extent and quality of deposits of such minerals, the most suitable methods of mining and beneficiating such minerals, and the cost at which the minerals or metals may be produced.
 
@@ -34,7 +28,7 @@ The President shall encourage the conservation of domestic sources of any materi
 
 &emsp;(2) more efficient methods of production or use of such material.
 
-(June 7, 1939, ch. 190, §8, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 322; amended Pub. L. 101–189, div. C, title XXXIII, §3311, Nov. 29, 1989, 103 Stat. 1686.)
+(June 7, 1939, ch. 190, §8, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 322; amended Pub. L. 101–189, div. C, title XXXIII, §3311, Nov. 29, 1989, 103 Stat. 1686; Pub. L. 118–31, div. A, title XIV, §1411(e)(2)(B), Dec. 22, 2023, 137 Stat. 527.)
 
 #### <b>Editorial Notes</b>
 
@@ -46,6 +40,16 @@ Provisions similar to those in this section were contained in former section 98f
 
 #### Amendments
 
+<b>2023</b>—Subsec. (a)(1). Pub. L. 118–31, §1411(e)(2)(B)(i), substituted "its territories or possessions, or in a reliable source" for "or in its territories or possessions,".
+
+Subsec. (a)(2). Pub. L. 118–31, §1411(e)(2)(B)(ii), substituted "in order to develop new sources of strategic and critical materials, develop substitutes, or conserve domestic sources and reliable sources of supply for such strategic and critical materials." for "in order to—
+
+&emsp;"(A) determine and develop new domestic sources of supply of such ores and mineral substances;
+
+&emsp;"(B) devise new methods for the treatment and utilization of lower grade reserves of such ores and mineral substances; and
+
+&emsp;"(C) develop substitutes for such essential ores and mineral products."
+
 <b>1989</b>—Subsecs. (c), (d). Pub. L. 101–189 added subsecs. (c) and (d).
 
 #### <b>Executive Documents</b>
@@ -53,4 +57,6 @@ Provisions similar to those in this section were contained in former section 98f
 #### Delegation of Functions
 
 Functions of President under subsec. (a) of this section delegated to Secretary of the Interior and functions of President under subsec. (b) of this section delegated to Secretary of Agriculture by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

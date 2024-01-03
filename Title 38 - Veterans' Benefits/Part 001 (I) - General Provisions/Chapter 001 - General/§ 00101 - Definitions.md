@@ -96,9 +96,9 @@ For the purposes of this title—
 
 (23) The term "inactive duty training" means—
 
-&emsp;(A) duty (other than full-time duty) prescribed for Reserves (including commissioned officers of the Reserve Corps <sup>1</sup> of the Public Health Service) by the Secretary concerned under section 206 of title 37 or any other provision of law;
+&emsp;(A) duty (other than full-time duty) prescribed for Reserves (including commissioned officers of the Reserve Corps <sup>1</sup> of the Public Health Service), or for members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10), by the Secretary concerned under section 206 of title 37 or any other provision of law;
 
-&emsp;(B) special additional duties authorized for Reserves (including commissioned officers of the Reserve Corps of the Public Health Service) by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned; and
+&emsp;(B) special additional duties authorized for Reserves (including commissioned officers of the Reserve Corps <sup>1</sup> of the Public Health Service), or for members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10), by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned; and
 
 &emsp;(C) training (other than active duty for training) by a member of, or applicant for membership (as defined in section 8140(g) of title 5) in, the Senior Reserve Officers' Training Corps prescribed under chapter 103 of title 10.
 
@@ -142,13 +142,11 @@ For the purposes of this title—
 
 &emsp;(D) the Air Force Reserve;
 
-&emsp;(E) the Space Force Reserve;
+&emsp;(E) the Coast Guard Reserve;
 
-&emsp;(F) the Coast Guard Reserve;
+&emsp;(F) the Army National Guard of the United States; and
 
-&emsp;(G) the Army National Guard of the United States; and
-
-&emsp;(H) the Air National Guard of the United States.
+&emsp;(G) the Air National Guard of the United States.
 
 (28) The term "nursing home care" means the accommodation of convalescents or other persons who are not acutely ill and not in need of hospital care, but who require nursing care and related medical services, if such nursing care and medical services are prescribed by, or are performed under the general direction of, persons duly licensed to provide such care. Such term includes services furnished in skilled nursing care facilities, in intermediate care facilities, and in combined facilities. It does not include domiciliary care.
 
@@ -158,7 +156,7 @@ For the purposes of this title—
 
 &emsp;(B) The period beginning on August 5, 1964, and ending on May 7, 1975, in all other cases.
 
-(30) The term "Mexican border period" means the period beginning on May 9, 1916, and endingon April 5, 1917, in the case of a veteran who during such period served in Mexico, on the borders thereof, or in the waters adjacent thereto.
+(30) The term "Mexican border period" means the period beginning on May 9, 1916, and ending on April 5, 1917, in the case of a veteran who during such period served in Mexico, on the borders thereof, or in the waters adjacent thereto.
 
 (31) The term "spouse" means a person of the opposite sex who is a wife or husband.
 
@@ -184,7 +182,7 @@ For the purposes of this title—
 
 (38) The term "toxic-exposed veteran" means any veteran described in section 1710(e)(1) of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1106; Pub. L. 86–195, Aug. 25, 1959, 73 Stat. 424; Pub. L. 87–674, §1, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–815, §3, Oct. 15, 1962, 76 Stat. 927; Pub. L. 88–450, §4(c), (d), Aug. 19, 1964, 78 Stat. 504; Pub. L. 89–311, §2(c)(1), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 89–358, §4(d), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–77, title II, §201, Aug. 31, 1967, 81 Stat. 181; Pub. L. 91–24, §§1(a), (b), 16, June 11, 1969, 83 Stat. 33, 35; Pub. L. 91–262, §1, May 21, 1970, 84 Stat. 256; Pub. L. 91–588, §9(a), (b), Dec. 24, 1970, 84 Stat. 1584; Pub. L. 91–621, §6(a)(1), (2), Dec. 31, 1970, 84 Stat. 1864; Pub. L. 92–198, §5(a), Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–540, title IV, §407, Oct. 24, 1972, 86 Stat. 1092; Pub. L. 94–169, title I, §101(1), Dec. 23, 1975, 89 Stat. 1013; Pub. L. 94–417, §1(b), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 95–126, §3, Oct. 8, 1977, 91 Stat. 1108; Pub. L. 95–202, title III, §309(a), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 95–588, title III, §301, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title IV, §401, June 13, 1979, 93 Stat. 62; Pub. L. 97–37, §3(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–295, §4(2), (95)(A), Oct. 12, 1982, 96 Stat. 1304, 1313; Pub. L. 97–306, title I, §113(a), Oct. 14, 1982, 96 Stat. 1432; Pub. L. 98–223, title II, §201, Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title VII, §702(1), Oct. 28, 1986, 100 Stat. 3301; Pub. L. 100–322, title I, §103(a), title III, §311, May 20, 1988, 102 Stat. 493, 534; Pub. L. 100–456, div. A, title VI, §633(c), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–237, §2(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–25, title III, §332, Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; Pub. L. 102–54, §14(a)(1), June 13, 1991, 105 Stat. 282; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(a)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 104–275, title V, §505(a), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title III, §301(a), Nov. 1, 2000, 114 Stat. 1852; Pub. L. 107–14, §4(a)(2), June 5, 2001, 115 Stat. 26; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 109–163, div. A, title V, §515(e)(1), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–444, §8(b)(1), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(b)(1), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 110–389, title IV, §402(b), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 115–55, §2(a), Aug. 23, 2017, 131 Stat. 1105; Pub. L. 116–259, title I, §107, Dec. 23, 2020, 134 Stat. 1160; Pub. L. 116–283, div. A, title IX, §926(a)(1), (b), Jan. 1, 2021, 134 Stat. 3829, 3831; Pub. L. 116–315, title II, §2001, title III, §3004(a), Jan. 5, 2021, 134 Stat. 4967, 4992; Pub. L. 117–168, title I, §102(b), Aug. 10, 2022, 136 Stat. 1761.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1106; Pub. L. 86–195, Aug. 25, 1959, 73 Stat. 424; Pub. L. 87–674, §1, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–815, §3, Oct. 15, 1962, 76 Stat. 927; Pub. L. 88–450, §4(c), (d), Aug. 19, 1964, 78 Stat. 504; Pub. L. 89–311, §2(c)(1), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 89–358, §4(d), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–77, title II, §201, Aug. 31, 1967, 81 Stat. 181; Pub. L. 91–24, §§1(a), (b), 16, June 11, 1969, 83 Stat. 33, 35; Pub. L. 91–262, §1, May 21, 1970, 84 Stat. 256; Pub. L. 91–588, §9(a), (b), Dec. 24, 1970, 84 Stat. 1584; Pub. L. 91–621, §6(a)(1), (2), Dec. 31, 1970, 84 Stat. 1864; Pub. L. 92–198, §5(a), Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–540, title IV, §407, Oct. 24, 1972, 86 Stat. 1092; Pub. L. 94–169, title I, §101(1), Dec. 23, 1975, 89 Stat. 1013; Pub. L. 94–417, §1(b), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 95–126, §3, Oct. 8, 1977, 91 Stat. 1108; Pub. L. 95–202, title III, §309(a), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 95–588, title III, §301, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title IV, §401, June 13, 1979, 93 Stat. 62; Pub. L. 97–37, §3(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–295, §4(2), (95)(A), Oct. 12, 1982, 96 Stat. 1304, 1313; Pub. L. 97–306, title I, §113(a), Oct. 14, 1982, 96 Stat. 1432; Pub. L. 98–223, title II, §201, Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title VII, §702(1), Oct. 28, 1986, 100 Stat. 3301; Pub. L. 100–322, title I, §103(a), title III, §311, May 20, 1988, 102 Stat. 493, 534; Pub. L. 100–456, div. A, title VI, §633(c), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–237, §2(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–25, title III, §332, Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; Pub. L. 102–54, §14(a)(1), June 13, 1991, 105 Stat. 282; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(a)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 104–275, title V, §505(a), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title III, §301(a), Nov. 1, 2000, 114 Stat. 1852; Pub. L. 107–14, §4(a)(2), June 5, 2001, 115 Stat. 26; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 109–163, div. A, title V, §515(e)(1), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–444, §8(b)(1), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(b)(1), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 110–389, title IV, §402(b), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 115–55, §2(a), Aug. 23, 2017, 131 Stat. 1105; Pub. L. 116–259, title I, §107, Dec. 23, 2020, 134 Stat. 1160; Pub. L. 116–283, div. A, title IX, §926(a)(1), (b), Jan. 1, 2021, 134 Stat. 3829, 3831; Pub. L. 116–315, title II, §2001, title III, §3004(a), Jan. 5, 2021, 134 Stat. 4967, 4992; Pub. L. 117–168, title I, §102(b), Aug. 10, 2022, 136 Stat. 1761; Pub. L. 118–31, div. A, title XVII, §1723(a)(1), Dec. 22, 2023, 137 Stat. 674.)
 
 #### <b>Editorial Notes</b>
 
@@ -193,6 +191,10 @@ For the purposes of this title—
 For definition of Canal Zone, referred to in par. (20), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+<b>2023</b>—Par. (23)(A), (B). Pub. L. 118–31, §1723(a)(1)(A), inserted ", or for members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10)," after "(including commissioned officers of the Reserve Corps of the Public Health Service)".
+
+Par. (27)(E) to (H). Pub. L. 118–31, §1723(a)(1)(B), redesignated subpars. (F), (G), and (H) as subpars. (E), (F), and (G), respectively, and struck out former subpar. (E) which read as follows: "the Space Force Reserve;".
 
 <b>2022</b>—Pars. (37), (38). Pub. L. 117–168 added pars. (37) and (38).
 
@@ -498,6 +500,12 @@ Amendment by Pub. L. 89–311 effective first day of second calendar month follo
 
 #### Short Title of 2023 Amendment
 
+Pub. L. 118–21, §1, Nov. 13, 2023, 137 Stat. 109, provided that: "This Act \[amending sections 5702 and 5901 of this title and enacting provisions set out as notes under sections 5702 and 5901 of this title\] may be cited as the 'Wounded Warrior Access Act'."
+
+Pub. L. 118–20, §1, Nov. 13, 2023, 137 Stat. 108, provided that: "This Act \[amending section 109 of this title\] may be cited as the 'Korean American Vietnam Allies Long Overdue for Relief Act' or the 'Korean American VALOR Act'."
+
+Pub. L. 118–6, §1, June 14, 2023, 137 Stat. 50, provided that: "This Act \[enacting provisions set out as notesunder section 1114 of this title\] may be cited as the 'Veterans' Compensation Cost-of-Living Adjustment Act of 2023' or the 'Veterans' COLA Act of 2023'."
+
 Pub. L. 117–355, §1, Jan. 5, 2023, 136 Stat. 6278, provided that: "This Act \[amending sections 2404, 2406, and 2411 of this title and enacting provisions set out as a note under section 2303 of this title\] may be cited as the 'National Cemeteries Preservation and Protection Act of 2022'."
 
 Pub. L. 117–333, §1(a), Jan. 5, 2023, 136 Stat. 6121, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans Auto and Education Improvement Act of 2022'."
@@ -508,7 +516,7 @@ Pub. L. 117–333, §10(a), Jan. 5, 2023, 136 Stat. 6131, provided that: "This s
 
 Pub. L. 117–328, div. U, §1(a), Dec. 29, 2022, 136 Stat. 5404, provided that: "This division \[see Tables for classification\] may be cited as the 'Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022'."
 
-Pub. L. 117–328, div. U, title II, §231, Dec. 29, 2022, 136 Stat. 5456, provided that: "This subtitle \[subtitle C\(§§231–234) of title II of div. U of Pub. L. 117–328, amending sections 3031, 3103, 3321, and 3512 of this title\] may be cited as the 'GI Bill National Emergency Extended Deadline Act of 2022'."
+Pub. L. 117–328, div. U, title II, §231, Dec. 29, 2022, 136 Stat. 5456, provided that: "This subtitle \[subtitle C (§§231–234) of title II of div. U of Pub. L. 117–328, amending sections 3031, 3103, 3321, and 3512 of this title\] may be cited as the 'GI Bill National Emergency Extended Deadline Act of 2022'."
 
 Pub. L. 117–328, div. U, title II, §251, Dec. 29, 2022, 136 Stat. 5462, provided that: "This subtitle \[subtitle E (§§251–255) of title II of div. U of Pub. L. 117–328, enacting sections 5302B and 5314A of this title, amending sections 5302, 5314, and 5315 of this title and enacting provisions set out as notes under sections 5302, 5302B, 5314A, and 5315 of this title\] may be cited as the 'VA Beneficiary Debt Collection Improvement Act of 2022'."
 
@@ -564,7 +572,7 @@ Pub. L. 117–103, div. CC, §101, Mar. 15, 2022, 136 Stat. 1109, provided that:
 
 Pub. L. 117–76, §1, Dec. 21, 2021, 135 Stat. 1517, provided that: "This Act \[amending sections 516, 3313, 3679, 3680, 3689, 3690, 3696, and 3729 of this title, enacting provisions set out as notes under sections 3679 and 3680 of this title, and amending provisions set out as notes preceding section 3001 and under sections 3031, 3103, 3485, and 3687 of this title\] may be cited as the 'Responsible Education Mitigating Options and Technical Extensions Act' or the 'REMOTE Act'."
 
-Pub. L. 117–69, §1, Nov. 30, 2021, 135 Stat. 1495, provided that: "This Act \[enacting provisions set out as anote under section 1703 of this title\] may be cited as the 'Protecting Moms Who Served Act of 2021'."
+Pub. L. 117–69, §1, Nov. 30, 2021, 135 Stat. 1495, provided that: "This Act \[enacting provisions set out as a note under section 1703 of this title\] may be cited as the 'Protecting Moms Who Served Act of 2021'."
 
 Pub. L. 117–68, §1, Nov. 30, 2021, 135 Stat. 1493, provided that: "This Act \[amending section 3679 of this title and enacting provisions set out as a note under section 3679 of this title\] may be cited as the 'Colonel John M. McHugh Tuition Fairness for Survivors Act of 2021'."
 
@@ -622,7 +630,7 @@ Pub. L. 116–106, §1, Jan. 7, 2020, 133 Stat. 3291, provided that: "This Act \
 
 Pub. L. 116–61, §1, Sept. 30, 2019, 133 Stat. 1116, provided that: "This Act \[amending sections 315, 714, 1725A, 2044, 3313, 3321, 3683, 3699, 3733, 7462, 7696, and 8104 of this title\] may be cited as the 'Department of Veterans Affairs Expiring Authorities Act of 2019'."
 
-Pub. L. 116–58, §1, Sept. 26, 2019, 133 Stat. 1091, provided that: "This Act \[enacting provisions set out asnotes under section 1114 of this title\] may be cited as the 'Veterans' Compensation Cost-of-Living Adjustment Act of 2019'."
+Pub. L. 116–58, §1, Sept. 26, 2019, 133 Stat. 1091, provided that: "This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the 'Veterans' Compensation Cost-of-Living Adjustment Act of 2019'."
 
 Pub. L. 116–23, §1, June 25, 2019, 133 Stat. 966, provided that: "This Act \[enacting sections 1116A, 1116B, and 1822 of this title, amending sections 1710, 1831, 3703, 3710, 3729, 3731, and 3762 of this title, and enacting provisions set out as notes under sections 1116A, 1116B, 1822, 3703, and 3731 of this title\] may be cited as the 'Blue Water Navy Vietnam Veterans Act of 2019'."
 
@@ -682,7 +690,7 @@ Pub. L. 114–218, §1, July 29, 2016, 130 Stat. 842, provided that: "This Act \
 
 Pub. L. 114–197, §1, July 22, 2016, 130 Stat. 693, provided that: "This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the 'Veterans' Compensation COLA Act of 2016'."
 
-Pub. L. 114–188, §1, June 30, 2016, 130 Stat. 611, provided that: "This Act \[amending section 1709B of thistitle\] may be cited as the 'Female Veteran Suicide Prevention Act'."
+Pub. L. 114–188, §1, June 30, 2016, 130 Stat. 611, provided that: "This Act \[amending section 1709B of this title\] may be cited as the 'Female Veteran Suicide Prevention Act'."
 
 #### Short Title of 2015 Amendment
 
@@ -740,7 +748,7 @@ Pub. L. 112–37, §1(a), Oct. 5, 2011, 125 Stat. 392, provided that: "This Act 
 
 Pub. L. 112–26, §1, Aug. 3, 2011, 125 Stat. 268, provided that: "This Act \[amending section 3729 of this title and enacting provisions set out as notes under sections 3313 and 3729 of this title\] may be cited as the 'Restoring GI Bill Fairness Act of 2011'."
 
-Pub. L. 111–377, §1(a), Jan. 4, 2011, 124 Stat. 4106, provided that: "This Act \[enacting section 3315A of thistitle, amending sections 3031, 3034, 3108, 3301, 3311, 3313, 3315, 3316, 3319, 3322, 3323, 3512, 3671 to 3673, 3675, 3679, 3680, 3681, 3684, and 3689 of this title and section 2006 of Title 10, Armed Forces, and enacting provisions set out as notes under sections 3031, 3034, 3108, 3301, 3311, 3313, 3315, 3315A, 3319, 3322, 3680, and 3684 of this title and section 2006 of Title 10\] may be cited as the 'Post-9/11 Veterans Educational Assistance Improvements Act of 2010'."
+Pub. L. 111–377, §1(a), Jan. 4, 2011, 124 Stat. 4106, provided that: "This Act \[enacting section 3315A of this title, amending sections 3031, 3034, 3108, 3301, 3311, 3313, 3315, 3316, 3319, 3322, 3323, 3512, 3671 to 3673, 3675, 3679, 3680, 3681, 3684, and 3689 of this title and section 2006 of Title 10, Armed Forces, and enacting provisions set out as notes under sections 3031, 3034, 3108, 3301, 3311, 3313, 3315, 3315A, 3319, 3322, 3680, and 3684 of this title and section 2006 of Title 10\] may be cited as the 'Post-9/11 Veterans Educational Assistance Improvements Act of 2010'."
 
 #### Short Title of 2010 Amendment
 
@@ -774,7 +782,7 @@ Pub. L. 110–252, title V, §5001, June 30, 2008, 122 Stat. 2357, provided that
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 110–157, §1(a), Dec. 26, 2007, 121 Stat. 1831, provided that: "This Act \[enacting section 5317A of this title, amending sections 1114, 1160, 2306, 2408, and 3485 of this title and section 653 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 2306 and 2408 of this title\] may be cited as the 'Dr. James Allen Veteran Vision Equity Act of 2007'."
+Pub. L. 110–157, §1(a), Dec. 26, 2007, 121 Stat. 1831, provided that: "This Act \[enacting section 5317A of this title, amending sections 1114, 1160, 2306, 2408, and 3485 of this title and section 653 of Title 42, The Public Healthand Welfare, and enacting provisions set out as notes under sections 2306 and 2408 of this title\] may be cited as the 'Dr. James Allen Veteran Vision Equity Act of 2007'."
 
 Pub. L. 110–111, §1, Nov. 5, 2007, 121 Stat. 1035, provided that: "This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the 'Veterans' Compensation Cost-of-Living Adjustment Act of 2007'."
 
@@ -784,7 +792,7 @@ Pub. L. 110–110, §1, Nov. 5, 2007, 121 Stat. 1031, provided that: "This Act \
 
 Pub. L. 109–461, §1(a), Dec. 22, 2006, 120 Stat. 3403, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans Benefits, Health Care, and Information Technology Act of 2006'."
 
-Pub. L. 109–461, title IX, §901, Dec. 22, 2006, 120 Stat. 3450, provided that: "This title \[enacting subchapter III of chapter 57 and chapter 79 of this title\] may be citedas the 'Department of Veterans Affairs Information Security Enhancement Act of 2006'."
+Pub. L. 109–461, title IX, §901, Dec. 22, 2006, 120 Stat. 3450, provided that: "This title \[enacting subchapter III of chapter 57 and chapter 79 of this title\] may be cited as the 'Department of Veterans Affairs Information Security Enhancement Act of 2006'."
 
 Pub. L. 109–444, §1(a), Dec. 21, 2006, 120 Stat. 3304, which provided that the Act (see Tables for classification) could be cited as the "Veterans Programs Extension Act of 2006", was repealed by Pub. L. 109–461, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3468, set out below.
 
@@ -826,11 +834,11 @@ Pub. L. 107–330, §1(a), Dec. 6, 2002, 116 Stat. 2820, provided that: "This Ac
 
 Pub. L. 107–288, §1(a), Nov. 7, 2002, 116 Stat. 2033, provided that: "This Act \[enacting sections 4112 and 4215 of this title, amending sections 3117, 4101 to 4104, 4106, 4107, 4109, 4211, 4212, and 4214 of this title, repealing section 4104A of this title, and enacting provisions set out as notes under sections 4100, 4101, 4102, 4102A, 4103A, 4106, 4107, 4211, 4214, and 4215 of this title\] may be cited as the 'Jobs for Veterans Act'."
 
-Pub. L. 107–287, §1, Nov. 7, 2002, 116 Stat. 2024, provided that: "This Act \[enacting sections 1785, 7325, 7326, and 8117 of this title, amending sections 308 and 8111A of this title and section 5315 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 7325 and 7326 of this title, and amending provisions set out as a note preceding section 8117 of this title\] may be cited as the 'Department of Veterans Affairs Emergency Preparedness Act of 2002'."
+Pub. L. 107–287, §1, Nov. 7, 2002, 116 Stat. 2024, provided that: "This Act \[enacting sections 1785, 7325, 7326,and 8117 of this title, amending sections 308 and 8111A of this title and section 5315 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 7325 and 7326 of this title, and amending provisions set out as a note preceding section 8117 of this title\] may be cited as the 'Department of Veterans Affairs Emergency Preparedness Act of 2002'."
 
 Pub. L. 107–247, §1, Oct. 23, 2002, 116 Stat. 1517, provided that: "This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the 'Veterans' Compensation Cost-of-Living Adjustment Act of 2002'."
 
-Pub. L. 107–135, §1(a), Jan. 23, 2002, 115 Stat. 2446, provided that: "This Act \[enacting sections 1782 to 1784 and 7324 of this title, amending sections 103, 1701, 1705 to 1707, 1710, 1711, 1712A, 1714, 1729, 1729A, 1781, 7303, 7306, 7426, 7451, 7454, 7631, 7672, 7673, 7682, 7683, 8110 to 8111A, 8152, 8502, 8520, and 8521 of this title and sections 8415 and 8422 of Title 5, Government Organization and Employees, renumbering section 1713 of this title as section 1781 of this title, repealing sections 7676 and 7684 of this title, and enacting provisions set out as notes under sections 1705, 1710, 7303, 7311, 7324, 7451, 7454, 7631,and 7682 of this title and section 8415 of Title 5\] may be cited as the 'Department of Veterans Affairs Health Care Programs Enhancement Act of 2001'."
+Pub. L. 107–135, §1(a), Jan. 23, 2002, 115 Stat. 2446, provided that: "This Act \[enacting sections 1782 to 1784 and 7324 of this title, amending sections 103, 1701, 1705 to 1707, 1710, 1711, 1712A, 1714, 1729, 1729A, 1781, 7303, 7306, 7426, 7451, 7454, 7631, 7672, 7673, 7682, 7683, 8110 to 8111A, 8152, 8502, 8520, and 8521 of this title and sections 8415 and 8422 of Title 5, Government Organization and Employees, renumbering section 1713 of this title as section 1781 of this title, repealing sections 7676 and 7684 of this title, and enacting provisions set out as notes under sections 1705, 1710, 7303, 7311, 7324, 7451, 7454, 7631, and 7682 of this title and section 8415 of Title 5\] may be cited as the 'Department of Veterans Affairs Health Care Programs Enhancement Act of 2001'."
 
 #### Short Title of 2001 Amendments
 
@@ -880,7 +888,7 @@ Pub. L. 105–33, title VIII, §8001(a), Aug. 5, 1997, 111 Stat. 663, provided t
 
 #### Short Title of 1996 Amendments
 
-Pub. L. 104–275, §1(a), Oct. 9, 1996, 110 Stat. 3322, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans' Benefits Improvements Act of 1996'."
+Pub. L. 104–275, §1(a), Oct. 9, 1996, 110 Stat. 3322, provided that: "This Act \[see Tables for classification\]may be cited as the 'Veterans' Benefits Improvements Act of 1996'."
 
 Pub. L. 104–275, title IV, §401, Oct. 9, 1996, 110 Stat. 3337, provided that: "This title \[amending sections 1315, 1965, 1967 to 1971, 1973, 1974, 1977, 3017, and 3224 of this title and enacting provisions set out as notes under sections 1965 and 1968 of this title\] may be cited as the 'Veterans' Insurance Reform Act of 1996'."
 
@@ -1144,7 +1152,7 @@ Pub. L. 91–666, §1, Jan. 11, 1971, 84 Stat. 1998, provided: "That this Act \[
 
 Pub. L. 91–506, §1, Oct. 23, 1970, 84 Stat. 1108, provided: "That this Act \[see Tables for classification\] may be cited as the 'Veterans' Housing Act of 1970'."
 
-Pub. L. 91–219, §1, Mar. 26, 1970, 84 Stat. 76, provided: "That this Act \[see Tables for classification\] may be cited as the 'Veterans Education and Training Amendments Act of 1970'."
+Pub. L. 91–219, §1, Mar. 26, 1970, 84 Stat. 76, provided: "That this Act \[see Tables for classification\] may becited as the 'Veterans Education and Training Amendments Act of 1970'."
 
 #### Short Title of 1967 Amendment
 
@@ -1236,7 +1244,7 @@ Pub. L. 106–117, §3, Nov. 30, 1999, 113 Stat. 1547, provided that: "For purpo
 
 #### Definition of Administrator for 1988 Amendments
 
-Pub. L. 100–687, div. B, §1002, Nov. 18, 1988, 102 Stat. 4122, provided that: "For purposes of this division \[seeTables for classification\], the term 'Administrator' means the Administrator of Veterans' Affairs."
+Pub. L. 100–687, div. B, §1002, Nov. 18, 1988, 102 Stat. 4122, provided that: "For purposes of this division \[see Tables for classification\], the term 'Administrator' means the Administrator of Veterans' Affairs."
 
 Pub. L. 100–322, §3, May 20, 1988, 102 Stat. 489, provided that: "For purposes of this Act \[see Tables for classification\], the term 'Administrator' means the Administrator of Veterans' Affairs."
 

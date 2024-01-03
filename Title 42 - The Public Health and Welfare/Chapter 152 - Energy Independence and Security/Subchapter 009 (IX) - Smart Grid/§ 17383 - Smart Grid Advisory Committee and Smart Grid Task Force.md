@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish, within 90 days of December 19, 2007, a Smart Grid Advisory Committee (either as an independent entity or as a designated sub-part of a larger advisory committee on electricity matters). The Smart Grid Advisory Committee shall include eightor more members appointed by the Secretary who have sufficient experience and expertise to represent the full range of smart grid technologies and services, to represent both private and non-Federal public sector stakeholders. One member shall be appointed by the Secretary to Chair the Smart Grid Advisory Committee.
+&emsp;The Secretary shall establish, within 90 days of December 19, 2007, a Smart Grid Advisory Committee (either as an independent entity or as a designated sub-part of a larger advisory committee on electricity matters). The Smart Grid Advisory Committee shall include eight or more members appointed by the Secretary who have sufficient experience and expertise to represent the full range of smart grid technologies and services, to represent both private and non-Federal public sector stakeholders. One member shall be appointed by the Secretary to Chair the Smart Grid Advisory Committee.
 
 #### (2) Mission
 
@@ -22,7 +22,7 @@
 
 #### (2) Mission
 
-&emsp;The mission of the Smart Grid Task Force shall be to insure awareness, coordination and integration of the diverse activities of the Office and elsewhere in the Federal Government related to smart-grid technologies and practices, including but not limited to: smart grid research and development; development of widely accepted smart-grid standards and protocols; the relationship of smart-grid technologies and practices to electric utility regulation; the relationship of smart-grid technologies and practices to infrastructure development, system reliability and security; and the relationship of smart-grid technologies and practices to other facets of electricity supply, demand, transmission, distribution, and policy. The Smart Grid Task Force shall collaborate with the Smart Grid Advisory Committee and other Federal agencies and offices. The Smart Grid Task Force shall meet at the call of its Director as necessary to accomplish its mission.
+&emsp;The mission of the Smart Grid Task Force shall be to insure awareness, coordination and integration of the diverse activities of the Office and elsewhere in the Federal Government related to smart-grid technologies and practices, including but not limited to: smart grid research and development; development of widely accepted smart-grid standards and protocols; the relationship of smart-grid technologies and practices to electric utility regulation; the relationship of smart-grid technologies and practices to infrastructure development, system reliability and security; and the relationship of smart-grid technologies and practices to other facets of electricity supply, demand, transmission, distribution,and policy. The Smart Grid Task Force shall collaborate with the Smart Grid Advisory Committee and other Federal agencies and offices. The Smart Grid Task Force shall meet at the call of its Director as necessary to accomplish its mission.
 
 #### (c) Authorization
 

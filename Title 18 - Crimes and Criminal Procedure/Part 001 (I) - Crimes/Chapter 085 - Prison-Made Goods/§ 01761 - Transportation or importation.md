@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) taxes (Federal, State, local);
 
-&emsp;&emsp;(B) reasonable charges for room and board, as determined by regulations issued by thechief State correctional officer, in the case of a State prisoner;
+&emsp;&emsp;(B) reasonable charges for room and board, as determined by regulations issued by the chief State correctional officer, in the case of a State prisoner;
 
 &emsp;&emsp;(C) allocations for support of family pursuant to State statute, court order, or agreement by the offender;
 
@@ -62,7 +62,7 @@ Subsec. (c). Pub. L. 103–322, §330010(11), struck out "and" at end of par. (1
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–393 substituted "$50,000" for "$1,000" and "two years" for "one year".
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–647, §2906(1), (2), substituted "In addition to the exceptions set forth in subsection (b) of this section, this chapter shall not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners who" for "In addition to the exceptions set forth in subsection (b) of this section, this chapter shall also not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners participating in a program of not more than twenty pilot projects designated by the Director of the Bureau of Justice Assistance and who" in introductory provisions, added par. (1), and redesignated former pars. (1) to (3) as (2) to (4), respectively.
+<b>1990</b>—Subsec. (c). Pub. L. 101–647, §2906(1), (2), substituted "In addition to the exceptions set forth in subsection (b) of this section, this chapter shall not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners who" for "In addition to the exceptions set forth in subsection (b) of this section, this chapter shall also not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners participating in a program of not more than twenty pilot projects designatedby the Director of the Bureau of Justice Assistance and who" in introductory provisions, added par. (1), and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
 Subsec. (c)(2)(B). Pub. L. 101–647, §2906(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "reasonable charges for room and board as determined by regulations which shall be issued by the Chief State correctional officer;".
 

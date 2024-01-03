@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A Federal health care program must accept an entity that is operated by the Service, an Indian tribe, tribal organization, or urban Indian organization as a provider eligible to receive payment under the program for health care services furnished to an Indian on the same basis as any other provider qualified to participate as a provider of health care services under the program if the entity meets generally applicable State or other requirements for participation as a provider of health care services under the program.
+&emsp;A Federal health care program must accept an entity that is operated by the Service, an Indian tribe, tribal organization, or urban Indian organization as a provider eligible to receive payment under the program for health care services furnished to an Indian on thesame basis as any other provider qualified to participate as a provider of health care services under the program if the entity meets generally applicable State or other requirements for participation as a provider of health care services under the program.
 
 #### (2) Satisfaction of State or local licensure or recognition requirements
 

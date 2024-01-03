@@ -84,7 +84,7 @@ Pub. L. 102–572, title X, §1003(c), Oct. 29, 1992, 106 Stat. 4524, provided t
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–458, title VI, §6601, Dec. 17, 2004, 118 Stat. 3761, provided that: "This subtitle \[subtitle G (§§6601–6604) of title VI of Pub. L. 108–458, enacting section 2339D of this title, amending sections 2332b and 2339A to 2339C of this title, and enacting provisions set out as a note under section 2332b of this title\] may be cited as the 'Material Support to Terrorism Prohibition Enhancement Act of 2004'."
+Pub. L. 108–458, title VI, §6601, Dec. 17, 2004, 118 Stat. 3761, provided that: "This subtitle \[subtitle G\(§§6601–6604) of title VI of Pub. L. 108–458, enacting section 2339D of this title, amending sections 2332b and 2339A to 2339C of this title, and enacting provisions set out as a note under section 2332b of this title\] may be cited as the 'Material Support to Terrorism Prohibition Enhancement Act of 2004'."
 
 #### Short Title of 2002 Amendment
 

@@ -36,7 +36,7 @@ For any fiscal year for which the amount made available for a fiscal year under 
 
 #### (2) Allotments
 
-&emsp;Any amounts remaining after the Secretary awards funds under paragraph (1) shall be allotted to each State, or consortium of States, that did not receive a grant under such paragraph, in an amount that bears the same relationship to the remaining amounts as the number of students aged 5 through 17 in the State, or, in the case of a consortium, in the States of the consortium, (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
+&emsp;Any amounts remaining after the Secretary awards funds under paragraph (1) shall be allotted to each State, or consortium of States,that did not receive a grant under such paragraph, in an amount that bears the same relationship to the remaining amounts as the number of students aged 5 through 17 in the State, or, in the case of a consortium, in the States of the consortium, (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
 
 #### (c) State defined
 

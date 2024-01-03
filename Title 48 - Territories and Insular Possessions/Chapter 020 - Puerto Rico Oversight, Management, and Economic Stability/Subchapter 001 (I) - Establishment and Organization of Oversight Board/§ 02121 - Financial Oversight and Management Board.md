@@ -136,7 +136,7 @@ An individual is eligible for appointment as a member of the Oversight Board onl
 
 &emsp;(1) has knowledge and expertise in finance, municipal bond markets, management, law, or the organization or operation of business or government; and
 
-&emsp;(2) prior to appointment, an individual is not an officer, elected official, or employee of the territorial government, a candidate for elected office of the territorial government, or a former elected official of the territorial government.
+&emsp;(2) prior to appointment, an individual is not an officer, elected official, or employee of theterritorial government, a candidate for elected office of the territorial government, or a former elected official of the territorial government.
 
 #### (g) No compensation for service
 

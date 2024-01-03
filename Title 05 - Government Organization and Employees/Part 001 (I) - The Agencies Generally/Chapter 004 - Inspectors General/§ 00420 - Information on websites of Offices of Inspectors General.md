@@ -52,7 +52,7 @@ Rule of construction.—Nothing in this subsection shall be construed as authori
 
 (c)
 
-Definitions.—In this section, the terms "designated Federal entity" and "head of thedesignated Federal entity" have the meanings given those terms in section 415(a) of this title.
+Definitions.—In this section, the terms "designated Federal entity" and "head of the designated Federal entity" have the meanings given those terms in section 415(a) of this title.
 
 (Pub. L. 117–286, §3(b), Dec. 27, 2022, 136 Stat. 4251.)
 

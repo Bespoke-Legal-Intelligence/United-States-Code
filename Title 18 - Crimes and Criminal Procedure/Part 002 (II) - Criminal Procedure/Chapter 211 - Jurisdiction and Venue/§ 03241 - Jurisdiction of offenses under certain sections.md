@@ -6,7 +6,7 @@ The District Court of the Virgin Islands shall have jurisdiction of offenses und
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §§39, 574; sections 23, 101, 1406 of title 48, U.S.C., 1940 ed., Territories andInsular Possessions; section 39 of title 50, U.S.C., 1940 ed., War and National Defense (June 6, 1900, ch. 786, §4, 31 Stat. 322; Aug. 24, 1912, ch. 387, §3, 37 Stat. 512; June 15, 1917, ch. 30, title XIII, §2, 40 Stat. 231; Mar. 2, 1921, ch. 110, 41 Stat. 1203; June 22, 1936, ch. 699, §28, 49 Stat. 1814).
+Based on title 18, U.S.C., 1940 ed., §§39, 574; sections 23, 101, 1406 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions; section 39 of title 50, U.S.C., 1940 ed., War and National Defense (June 6, 1900, ch. 786, §4, 31 Stat. 322; Aug. 24, 1912, ch. 387, §3, 37 Stat. 512; June 15, 1917, ch. 30, title XIII, §2, 40 Stat. 231; Mar. 2, 1921, ch. 110, 41 Stat. 1203; June 22, 1936, ch. 699, §28, 49 Stat. 1814).
 
 Section consolidates portions of sections 39 and 574 of title 18, U.S.C., 1940 ed., with jurisdictional provisions of sections 23, 101, and 1406 of title 48, U.S.C., 1940 ed., and section 39 of title 50 U.S.C., 1940 ed., with changes of phraseology necessary to effect consolidation.
 

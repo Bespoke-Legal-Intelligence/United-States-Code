@@ -18,7 +18,7 @@ Absence from the United States for a continuous period of one year or more durin
 
 #### (c) Physical presence
 
-The granting of the benefits of subsection (b) of this section shall not relieve the applicant from the requirement of physical presence within the United States for the period specified in subsection (a) of this section, except in the case of those persons who are employed by, or under contract with, the Government of the United States. In the case of a person employed by or under contract with Central Intelligence Agency, the requirement in subsection (b) of an uninterrupted period of at least one year of physical presence in the United States may be complied with by such person at any time prior to filing an application for naturalization.
+The granting of the benefits of subsection (b) of this section shall not relieve the applicant from the requirement of physical presence within the United States for the period specified in subsection (a) of this section, except in the case of those persons who are employed by, or under contract with, the Government of the United States. In the case of a person employed by orunder contract with Central Intelligence Agency, the requirement in subsection (b) of an uninterrupted period of at least one year of physical presence in the United States may be complied with by such person at any time prior to filing an application for naturalization.
 
 #### (d) Moral character
 
@@ -36,7 +36,7 @@ In determining whether the applicant has sustained the burden of establishing go
 
 (3) The number of aliens naturalized pursuant to this subsection in any fiscal year shall not exceed five. The Director of Central Intelligence shall inform the Select Committee on Intelligence and the Committee on the Judiciary of the Senate and the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives within a reasonable time prior to the filing of each application under the provisions of this subsection.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §316, 66 Stat. 242; Pub. L. 97–116, §14, Dec. 29, 1981, 95Stat. 1619; Pub. L. 99–169, title VI, §601, Dec. 4, 1985, 99 Stat. 1007; Pub. L. 101–649, title IV, §§402, 407(c)(2), (d)(1), (e)(1), Nov. 29, 1990, 104 Stat. 5038, 5041, 5046; Pub. L. 104–208, div. C, title III, §308(g)(7)(F), Sept. 30, 1996, 110 Stat. 3009–624; Pub. L. 109–149, title V, §518, Dec. 30, 2005, 119 Stat. 2882.)
+(June 27, 1952, ch. 477, title III, ch. 2, §316, 66 Stat. 242; Pub. L. 97–116, §14, Dec. 29, 1981, 95 Stat. 1619; Pub. L. 99–169, title VI, §601, Dec. 4, 1985, 99 Stat. 1007; Pub. L. 101–649, title IV, §§402, 407(c)(2), (d)(1), (e)(1), Nov. 29, 1990, 104 Stat. 5038, 5041, 5046; Pub. L. 104–208, div. C, title III, §308(g)(7)(F), Sept. 30, 1996, 110 Stat. 3009–624; Pub. L. 109–149, title V, §518, Dec. 30, 2005, 119 Stat. 2882.)
 
 #### <b>Editorial Notes</b>
 
@@ -82,7 +82,7 @@ Subsec. (e). Pub. L. 101–649, §407(d)(1)(C), substituted "the Attorney Genera
 
 Pub. L. 101–649, §407(c)(2), substituted references to applicant, applicant's, and application for references to petitioner, petitioner's, and petition wherever appearing.
 
-Subsec. (f). Pub. L. 101–649, §407(e)(1), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "Naturalization shall not be granted to a petitioner by a naturalization court while registration proceedings or proceedings to require registration against an organization of which the petitioner is a member or affiliate are pending under section 792 or 793 of title 50."
+Subsec. (f). Pub. L. 101–649, §407(e)(1), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "Naturalization shall not be granted toa petitioner by a naturalization court while registration proceedings or proceedings to require registration against an organization of which the petitioner is a member or affiliate are pending under section 792 or 793 of title 50."
 
 Subsec. (f)(1). Pub. L. 101–649, §407(d)(1)(D), substituted "within a particular State or district of the Service in the United States" for "within the jurisdiction of the court".
 

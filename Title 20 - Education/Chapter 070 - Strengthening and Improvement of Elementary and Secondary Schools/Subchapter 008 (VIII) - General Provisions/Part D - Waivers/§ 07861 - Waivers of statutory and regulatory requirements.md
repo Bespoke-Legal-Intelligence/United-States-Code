@@ -166,7 +166,7 @@ The Secretary shall not waive under this section any statutory or regulatory req
 
 &emsp;&emsp;(A) include in, or delete from, such request, specific academic standards, such as the Common Core State Standards developed under the Common Core State Standards Initiative or any other standards common to a significant number of States;
 
-&emsp;&emsp;(B) use specific academic assessment instruments or items, including assessments aligned to the standards described in subparagraph (A); or
+&emsp;&emsp;(B) use specific academic assessment instruments or items, including assessmentsaligned to the standards described in subparagraph (A); or
 
 &emsp;&emsp;(C) include in, or delete from, such waiver request any specific elements of—
 
@@ -316,7 +316,7 @@ State and locally-requested waivers.—For a State educational agency, local edu
 
 &emsp;&emsp;"(F) Section 4109(b) \[20 U.S.C. 7119(b)\].
 
-&emsp;&emsp;"(G) The definition under section 8101(42) \[20 U.S.C. 7801(42)\] for purposes of the Elementary andSecondary Education Act of 1965 (20 U.S.C. 6301 et seq.).
+&emsp;&emsp;"(G) The definition under section 8101(42) \[20 U.S.C. 7801(42)\] for purposes of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.).
 
 &emsp;"(3)
 
@@ -388,7 +388,7 @@ Public notice.—A State educational agency, Indian Tribe, or local educational 
 
 &emsp;"(2)
 
-Notifying congress.—Not later than 7 days after granting a waiver under this section, the Secretary shall notify the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Appropriations of the Senate, the Committee on Education and Labor of the House of Representatives, and the Committee on Appropriations of the House of Representatives of such waiver.
+Notifying congress.—Not later than 7 days after granting a waiver under this section, the Secretary shall notify the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Appropriations of the Senate, the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives, and the Committee on Appropriations of the House of Representatives of such waiver.
 
 &emsp;"(3)
 
@@ -396,7 +396,7 @@ Publication.—Not later than 30 days after granting a waiver under this section
 
 &emsp;"(4)
 
-Report.—Not later than 30 days after the date of enactment of this Act \[Mar. 27, 2020\], the Secretary shall prepare and submit a report to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate, and the Committee on Education and Labor and the Committee on Appropriations of the House of Representatives, with recommendations on any additional waivers under the Individuals with Disabilities Education Act (20 U.S.C. 1401 \[1400\] et seq.), the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), and the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.) the Secretary believes are necessary to be enacted into law to provide limited flexibility to States and local educational agencies to meet the needs of students during the emergency involving Federal primary responsibility determined to exist by the President under section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191(b)) with respect to the Coronavirus Disease 2019 (COVID–19).
+Report.—Not later than 30 days after the date of enactment of this Act \[Mar. 27, 2020\], the Secretary shall prepare and submit a report to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate, and the Committee on Education and Labor \[now Committee on Education and the Workforce\] and the Committee on Appropriations of the House of Representatives, with recommendations on any additional waivers under the Individuals with Disabilities Education Act (20 U.S.C. 1401 \[1400\] et seq.), the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), and the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.) the Secretary believes are necessary to be enacted into law to provide limited flexibility to States and local educational agencies to meet the needs of students during the emergency involving Federal primary responsibility determined to exist by the President under section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191(b)) with respect to the Coronavirus Disease 2019 (COVID–19).
 
 "(e)
 

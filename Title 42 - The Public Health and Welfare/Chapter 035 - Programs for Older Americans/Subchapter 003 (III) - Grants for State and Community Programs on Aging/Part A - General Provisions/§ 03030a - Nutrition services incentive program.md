@@ -6,7 +6,7 @@ The purpose of this section is to provide incentives to encourage and reward eff
 
 #### (b) Allotment and provision and payment
 
-(1) The Secretary shall allot and provide, in accordance with this section, to or on behalf of each State agency with a plan approved under this subchapter for a fiscal year, and to or on behalf of each grantee with an application approved under subchapter X for such fiscal year, an amount bearing the same ratio to the total amount appropriated for such fiscal year under subsection (e) as the number of meals served in the State under such plan approved for the preceding fiscal year (or the number of meals served by the title VI \[subchapter X\] grantee, under such application approved for such preceding fiscal year), bears to the total number of such meals served in all States and by all title VI \[subchapter X\] grantees under all such plans and applications approved for such preceding fiscal year.
+(1) The Secretary shall allot and provide, in accordance with this section, to or on behalf of each State agency with a plan approved under this subchapter for a fiscal year, and to or on behalf of each grantee with an application approved under subchapter X for such fiscal year, an amount bearing the same ratio to the total amount appropriated for such fiscal year under subsection (e) as the number of meals served in the State under such plan approved for the preceding fiscal year (or the number of meals served by the title VI \[subchapter X\] grantee, under such application approved for such preceding fiscal year), bears to the total number ofsuch meals served in all States and by all title VI \[subchapter X\] grantees under all such plans and applications approved for such preceding fiscal year.
 
 (2) For purposes of paragraph (1), in the case of a grantee that has an application approved under subchapter X for a fiscal year but that did not receive assistance under this section for the preceding fiscal year, the number of meals served by the title VI \[subchapter X\] grantee for the preceding fiscal year shall be deemed to equal the number of meals that the Assistant Secretary estimates will be served by the title VI \[subchapter X\] grantee in the fiscal year for which the application was approved.
 
@@ -172,7 +172,7 @@ Application Process.—Effective on the date of enactment of this Act \[Apr. 23,
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any State plan submitted under section 3027(a) of this title and approved for any fiscal year beginning before Nov. 29,1987, see section 701(a), (b) of Pub. L. 100–175, set out as a note under section 3001 of this title.
+Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any State plan submitted under section 3027(a) of this title and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as a note under section 3001 of this title.
 
 #### Effective Date of 1986 Amendment
 

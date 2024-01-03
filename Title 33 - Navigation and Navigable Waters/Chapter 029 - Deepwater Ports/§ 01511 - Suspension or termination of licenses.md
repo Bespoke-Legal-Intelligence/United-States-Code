@@ -12,7 +12,7 @@ Whenever a licensee fails to comply with any applicable provision of this chapte
 
 #### (b) Public health or safety; danger to environment; completion of proceedings
 
-If the Secretary determines that immediate suspension of the construction or operation of a deepwater port or any component thereof is necessary to protect public health or safety or to eliminate imminent and substantial danger to the environment, he shall order the licensee to cease or alter such construction or operation pending the completion of a judicial proceeding pursuant to subsection (a) of this section.
+If the Secretary determines that immediate suspension of the construction or operation of a deepwater port or any component thereof is necessary to protect public health or safety or to eliminate imminent and substantial danger tothe environment, he shall order the licensee to cease or alter such construction or operation pending the completion of a judicial proceeding pursuant to subsection (a) of this section.
 
 (Pub. L. 93–627, §12, Jan. 3, 1975, 88 Stat. 2138.)
 

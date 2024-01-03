@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(E) the status of the project if it is existing or ongoing; and
 
-&emsp;&emsp;(F) in addition to the requirements found in subparagraphs (A) through (E), the Revitalization Coordinator may require suchsubmission to include any or all of the following criteria that assess how the project will—
+&emsp;&emsp;(F) in addition to the requirements found in subparagraphs (A) through (E), the Revitalization Coordinator may require such submission to include any or all of the following criteria that assess how the project will—
 
 &emsp;&emsp;&emsp;(i) reduce reliance on oil for electric generation in Puerto Rico;
 

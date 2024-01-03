@@ -2,7 +2,7 @@
 
 (a) There is established in the Treasury of the United States a Thrift Savings Fund.
 
-(b) The Thrift Savings Fund consists of the sum of all amounts contributed under section 8432 of this title and all amounts deposited under section 8479(b) of this title, increased by the total net earnings from investments of sums in the Thrift Savings Fund or reduced by the total net losses from investments of the Thrift Savings Fund, and reduced by the total amountof payments made from the Thrift Savings Fund (including payments for administrative expenses).
+(b) The Thrift Savings Fund consists of the sum of all amounts contributed under section 8432 of this title and all amounts deposited under section 8479(b) of this title, increased by the total net earnings from investments of sums in the Thrift Savings Fund or reduced by the total net losses from investments of the Thrift Savings Fund, and reduced by the total amount of payments made from the Thrift Savings Fund (including payments for administrative expenses).
 
 (c) The sums in the Thrift Savings Fund are appropriated and shall remain available without fiscal year limitation—
 
@@ -26,7 +26,7 @@
 
 (3) Moneys due or payable from the Thrift Savings Fund to any individual and, in the case of an individual who is an employee or Member (or former employee or Member), the balance in the account of the employee or Member (or former employee or Member) shall be subject to legal process for the enforcement of the individual's legal obligations to provide child support or make alimony payments as provided in section 459 of the Social Security Act (42 U.S.C. 659), the enforcement of an order for restitution under section 3663A of title 18, forfeiture under section 8432(g)(5) of this title, an obligation of the Executive Director to make a transfer under section 415(d)(3) of the Congressional Accountability Act of 1995 (2 U.S.C. 1415(d)(3)), or an obligation of the Executive Director to make a payment to another person under section 8467 of this title, and shall be subject to a Federal tax levy under section 6331 of the Internal Revenue Code of 1986. For the purposes of this paragraph, an amount contributed for the benefit of an individual under section 8432(c)(1) (including any earnings attributable thereto) shall not be considered part of the balance in such individual's account unless such amount is nonforfeitable, as determined under applicable provisions of section 8432(g).
 
-(f) The sums in the Thrift Savings Fund shall not be appropriated for any purpose other than the purposes specified in this section and may not be used for any other purpose.
+(f) The sums in the Thrift Savings Fund shall not be appropriated for any purpose other thanthe purposes specified in this section and may not be used for any other purpose.
 
 (g) All sums contributed to the Thrift Savings Fund by an employee or Member or by an employing agency for the benefit of such employee or Member and all net earnings in such Fund attributable to investment of such sums are held in such Fund in trust for such employee or Member.
 

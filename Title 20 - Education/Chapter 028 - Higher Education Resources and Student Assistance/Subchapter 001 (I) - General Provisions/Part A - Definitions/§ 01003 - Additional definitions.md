@@ -12,7 +12,7 @@ In this chapter:
 
 #### (3) Critical foreign language
 
-&emsp;Except as otherwise provided, the term "critical foreign language" means each of the languages contained in the list of critical languages designated by the Secretary in the Federal Register on August 2, 1985 (50 Fed. Reg. 31412; promulgated under the authority of section 212(d) of the Education for Economic Security Act (repealed by section 2303 of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988)), as updated by the Secretary from time to time and published in the Federal Register, except that in the implementation of this definition with respect to a specific title, the Secretary may set priorities according to the purposes of such title and the national security, economic competitiveness, and educational needs of the United States.
+&emsp;Except as otherwise provided, the term "critical foreign language" means each of the languages contained in the list of critical languages designated by the Secretary in the Federal Register on August 2, 1985 (50 Fed. Reg. 31412; promulgated under the authority of section 212(d) of the Education for Economic Security Act (repealed by section 2303 of theAugustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988)), as updated by the Secretary from time to time and published in the Federal Register, except that in the implementation of this definition with respect to a specific title, the Secretary may set priorities according to the purposes of such title and the national security, economic competitiveness, and educational needs of the United States.
 
 #### (4) Department
 
@@ -227,6 +227,10 @@ Pars. (17) to (24). Pub. L. 110–315, §103(a)(1), added pars. (17) to (24).
 <b>2002</b>—Pars. (4) to (6), (10), (14). Pub. L. 107–110 substituted "7801" for "8801".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2015 Amendment
 

@@ -88,7 +88,7 @@ In this section:
 
 #### (c) Access options
 
-With respect to land included on a priority list described in subsection (b), the Secretary shall develop and submit to the Committees on Appropriations and Energy and Natural Resources of the Senate and the Committees on Appropriations and Natural Resources of the House of Representatives a report on options for providing access that—
+With respect to land included on a priority list described in subsection (b), the Secretary shall develop and submit to the Committees on Appropriations and Energy and Natural Resourcesof the Senate and the Committees on Appropriations and Natural Resources of the House of Representatives a report on options for providing access that—
 
 &emsp;(1) identifies how public access and egress could reasonably be provided to the legal boundaries of the land in a manner that minimizes the impact on wildlife habitat and water quality;
 
@@ -128,7 +128,7 @@ In considering public access and egress under subsections (b) and (c), the Secre
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(3)(D), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, PublicLands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43, Public Lands, and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(3)(D), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43, Public Lands, and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

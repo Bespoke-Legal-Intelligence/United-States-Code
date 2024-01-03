@@ -96,7 +96,7 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 
 <b>1981</b>—Pub. L. 97–89, title VII, §701(a)(2), Dec. 4, 1981, 95 Stat. 1160, added item for chapter 83.
 
-<b>1980</b>—Pub. L. 96–513, title V, §§501(1), 511(29), (54)(B), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, added item for chapter 32, substituted "531" for "541" as section number in item for chapter 33, substituted "34" for "35" as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted "Reserve Components: Standards and Procedures for Retention and Promotion" for "Retention of Reserves" in item for chapter 51, added item for chapter 60, substituted "1251" for "1255" as section number in item for chapter 63, substituted "Retirement of Warrant Officers" for "Retirement" in item for chapter 65,substituted "1370" for "1371" as section number in item for chapter 69, and amended item for chapter 73 to read: "Annuities Based on Retired or Retainer Pay".
+<b>1980</b>—Pub. L. 96–513, title V, §§501(1), 511(29), (54)(B), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, added item for chapter 32, substituted "531" for "541" as section number in item for chapter 33, substituted "34" for "35" as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted "Reserve Components: Standards and Procedures for Retention and Promotion" for "Retention of Reserves" in item for chapter 51, added item for chapter 60, substituted "1251" for "1255" as section number in item for chapter 63, substituted "Retirement of Warrant Officers" for "Retirement" in item for chapter 65, substituted "1370" for "1371" as section number in item for chapter 69, and amended item for chapter 73 to read: "Annuities Based on Retired or Retainer Pay".
 
 <b>1972</b>—Pub. L. 92–425, §2, Sept. 21, 1972, 86 Stat. 711, amended item for chapter 73 by inserting "; Survivor Benefit Plan" after "Pay" which could not be executed as directed in view of amendment by Pub. L. 87–381. See 1961 Amendment note below.
 
@@ -113,6 +113,62 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 <b>1958</b>—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted "General Service Requirements" for "Service Requirements for Reserves" in item for chapter 37, "971" for "\[No present sections\]" in item for chapter 49, "Medical and Dental Care" for "Voting by Members of Armed Forces" in item for chapter 55, and struck out "Care of the Dead" and substituted "1475" for "1481" in item for chapter 75.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Requirement To Base Military Accessions and Promotions on Merit and Performance
+
+Pub. L. 118–31, div. A, title V, §529C, Dec. 22, 2023, 137 Stat. 257, provided that:
+
+"(a)
+
+Merit Requirement.—A military accession or a promotion in the Department of Defense shall be based on individual merit and demonstrated performance.
+
+"(b)
+
+Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section not later than 90 days after the date of the enactment of this Act \[Dec. 22, 2023\]."
+
+#### Pilot Program on Cardiac Screenings for Military Accessions
+
+Pub. L. 118–31, div. A, title V, §547, Dec. 22, 2023, 137 Stat. 266, provided that:
+
+"(a)
+
+Establishment.—Not later than September 30, 2024, the Secretary of Defense shall carry out a pilot program to provide an electrocardiogram to individuals who undergo military accession screenings. Each such electrocardiogram shall be provided—
+
+&emsp;"(1) on a mandatory basis;
+
+&emsp;"(2) at no cost to the recipient; and
+
+&emsp;"(3) in a facility of the Department of Defense or by a member or employee of the military health system.
+
+"(b)
+
+Purposes.—In carrying out the pilot program, the Secretary shall—
+
+&emsp;"(1) determine the costs (including protocols and personnel and equipment for each location where the Secretary carries out the pilot program) and benefits to the Department of providing an electrocardiogram to every individual who undergoes a military accession screening;
+
+&emsp;"(2) develop and implement appropriate processes to assess the long-term impacts of electrocardiogram results on military service; and
+
+&emsp;"(3) consult with experts in cardiology to develop appropriate clinical practice guidelines for cardiac screenings, diagnosis, and treatment.
+
+"(c)
+
+Briefing.—Not later than 180 days after the date on which the pilot program terminates, the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the pilot program. Such briefing shall include the following:
+
+&emsp;"(1) The results of all electrocardiograms provided to individuals under the pilot program—
+
+&emsp;&emsp;"(A) disaggregated by Armed Force, race, and gender; and
+
+&emsp;&emsp;"(B) without any personally identifiable information.
+
+&emsp;"(2) The rate of significant cardiac issues detected pursuant to electrocardiograms provided under the pilot program, disaggregated by Armed Force, race, and gender.
+
+&emsp;"(3) The number of individuals, if any, who were disqualified from accession based solely on the result of an electrocardiogram provided under the pilot program.
+
+&emsp;"(4) The cost of carrying out the pilot program.
+
+"(d)
+
+Termination.—The pilot program shall terminate after three years after its implementation."
 
 #### Standardization of Policies Relating to Service in Armed Forces by Individuals Diagnosed With HBV
 
@@ -182,7 +238,31 @@ Definitions.—In this section:
 
 &emsp;"(4) The term 'special operations forces' means forces described under section 167(j) of title 10, United States Code."
 
-#### Improvements to Military Accessions in Armed Forces Under the Jurisdiction of the Secretaries of the Military Departments
+#### Improvements to Military Accessions in the Armed Forces
+
+Pub. L. 118–31, div. A, title V, §545, Dec. 22, 2023, 137 Stat. 265, provided that:
+
+"(a)
+
+Improvements.—Not later than one year after the date of the enactment of this Act \[Dec. 22, 2023\], and once four years thereafter, the Secretary of Defense shall—
+
+&emsp;"(1) conduct an assessment of the prescribed medical standards and medical screening processes required for the appointment of an individual as an officer, or enlistment of an individual as a member, in each covered Armed Force;
+
+&emsp;"(2) taking into account the findings of such assessment—
+
+&emsp;&emsp;"(A) update such standards and processes, as may be necessary; and
+
+&emsp;&emsp;"(B) take such steps as may be necessary to improve the waiver process for individuals who do not meet such prescribed medical standards; and
+
+&emsp;"(3) submit to the Committees on Armed Services of the House of Representatives and the Senate a report containing, with respect to the most recently conducted assessment under paragraph (1)—
+
+&emsp;&emsp;"(A) the findings of that assessment and a description of the actions carried out pursuant to paragraph (2); and
+
+&emsp;&emsp;"(B) recommendations by the Secretary for any legislative action the Secretary determines necessary to further improve such standards and processes.
+
+"(b)
+
+Covered Armed Force Defined.—In this section, the term 'covered Armed Force' means the Army, Navy, Air Force, Marine Corps, or Space Force."
 
 Pub. L. 117–81, div. A, title V, §522, Dec. 27, 2021, 135 Stat. 1686, provided that:
 
@@ -572,7 +652,7 @@ Elements.—Each briefing under paragraph (1) shall include, for each Armed Forc
 
 &emsp;&emsp;"(A) A description and assessment of the fielding of newest generations of personal protective equipment to members of such Armed Force, including the following:
 
-&emsp;&emsp;&emsp;"(i) The number (aggregated by total number and by sex) of members of such Armed Forceissued the Army Soldiers Protective System and the Modular Scalable Vest Generation II body armor as of December 31, 2020.
+&emsp;&emsp;&emsp;"(i) The number (aggregated by total number and by sex) of members of such Armed Force issued the Army Soldiers Protective System and the Modular Scalable Vest Generation II body armor as of December 31, 2020.
 
 &emsp;&emsp;&emsp;"(ii) The number (aggregated by total number and by sex) of members of such Armed Force issued Marine Corps Plate Carrier Generation III body armor as of that date.
 

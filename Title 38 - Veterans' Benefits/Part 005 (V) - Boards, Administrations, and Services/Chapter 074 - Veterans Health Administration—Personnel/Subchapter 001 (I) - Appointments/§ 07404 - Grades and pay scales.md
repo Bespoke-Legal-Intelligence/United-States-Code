@@ -18,7 +18,7 @@
 
 (C) Notwithstanding the provisions of subsection (d) of section 5307 of title 5, the Secretary may make any certification under that subsection instead of the Office of Personnel Management and without concurrence of the Office of Management and Budget.
 
-(b) The grades for positions provided for in paragraph (1) of section 7401 of this title shall be as follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law:
+(b) The grades for positions provided for in paragraph (1) of section 7401 of this title shall beas follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law:
 
 physician and surgeon (md/do), podiatrist (dpm), and dentist and oral surgeon (dds, dmd) schedule
 
@@ -72,7 +72,7 @@ Level II of the Executive Schedule, referred to in subsec. (a)(3)(B)(ii), is set
 
 #### Codification
 
-Pub. L. 115–182, title V, §502(b)(1), June 6, 2018, 132 Stat. 1475, which directed amendment of "section 7404(b) of such title" without specifying the Code titleto be amended, was executed to this section, which is section 7404 of Title 38, Veterans' Benefits, to reflect the probable intent of Congress. See 2018 Amendment note below.
+Pub. L. 115–182, title V, §502(b)(1), June 6, 2018, 132 Stat. 1475, which directed amendment of "section 7404(b) of such title" without specifying the Code title to be amended, was executed to this section, which is section 7404 of Title 38, Veterans' Benefits, to reflect the probable intent of Congress. See 2018 Amendment note below.
 
 #### Prior Provisions
 
@@ -186,7 +186,7 @@ Treatment of waiver.—A decision not to grant a waiver under paragraph (1) shal
 
 #### Application
 
-Pub. L. 115–182, title V, §502(b)(2), June 6, 2018, 132 Stat. 1475, provided that: "The amendments made byparagraph (1) \[amending this section\] shall apply with respect to a pay period of the Department of Veterans Affairs beginning on or after the date that is 30 days after the date of the enactment of this Act \[June 6, 2018\]."
+Pub. L. 115–182, title V, §502(b)(2), June 6, 2018, 132 Stat. 1475, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to a pay period of the Department of Veterans Affairs beginning on or after the date that is 30 days after the date of the enactment of this Act \[June 6, 2018\]."
 
 #### <b>Executive Documents</b>
 

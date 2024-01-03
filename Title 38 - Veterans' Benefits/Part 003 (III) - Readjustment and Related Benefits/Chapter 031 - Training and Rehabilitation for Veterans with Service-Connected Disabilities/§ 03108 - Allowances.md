@@ -6,7 +6,7 @@
 
 (B) In any case in which the Secretary determines that a veteran described in subparagraph (A) has been displaced as the result of a natural or other disaster while being paid a subsistence allowance under that subparagraph, as determined by the Secretary, the Secretary may extend the payment of a subsistence allowance under such subparagraph for up to an additional two months while the veteran is satisfactorily following a program of employment services described in such subparagraph.
 
-(3) A subsistence allowance may not be paid under this chapter to a veteran for any period during which such veteran is being provided with an initial evaluation under section 3106(a) of this title or during which such veteran is being provided only with counseling or with placement or postplacement services under section 3105(b) of this title.
+(3) A subsistence allowance may not be paid under this chapter to a veteran for any period during which such veteran is being provided with an initial evaluation under section 3106(a) of this title or during which such veteran is being provided only with counseling or withplacement or postplacement services under section 3105(b) of this title.
 
 (b)(1) Except as otherwise provided in this section, the Secretary shall determine the subsistence allowance to be paid to a veteran under this chapter in accordance with the following table, which shall be the monthly amount shown in column II, III, IV, or V (whichever is applicable as determined by the veteran's dependency status) opposite the appropriate type of program being pursued as specified in column I:
 
@@ -57,7 +57,7 @@
 
 (g)(1) Notwithstanding any other provision of this title and subject to the provisions of paragraph (2) of this subsection, no subsistence allowance may be paid under this section in the case of any veteran who is pursuing a rehabilitation program under this chapter while incarcerated in a Federal, State, local, or other penal institution or correctional facility for conviction of a felony.
 
-(2) Paragraph (1) of this subsection shall not apply in the case of any veteran who is pursuinga rehabilitation program under this chapter while residing in a halfway house or participating in a work-release program in connection with such veteran's conviction of a felony.
+(2) Paragraph (1) of this subsection shall not apply in the case of any veteran who is pursuing a rehabilitation program under this chapter while residing in a halfway house or participating in a work-release program in connection with such veteran's conviction of a felony.
 
 (h) Notwithstanding any other provision of this title, the amount of subsistence allowance, or other allowance under subsection (f) of this section, that may be paid to a veteran pursuing a rehabilitation program for any month for which such veteran receives compensation at the rate prescribed in section 1114(j) of this title as the result of hospital treatment (not including post-hospital convalescence) or observation at the expense of the Department of Veterans Affairs may not exceed, when added to any compensation to which such veteran is entitled for such month, an amount equal to the greater of—
 

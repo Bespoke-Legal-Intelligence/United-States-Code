@@ -22,7 +22,7 @@ Leasing and Road Maintenance Authority.—The Secretary of Defense and the Secre
 
 (c)
 
-Prohibition on Naming Department of Defense Real Property After Member of Congress.—(1) Real property under the jurisdiction of the Secretary of Defense or the Secretary ofa military department may not be named after, or otherwise officially identified by the name of, any individual who is a Member of Congress at the time the property is so named or identified.
+Prohibition on Naming Department of Defense Real Property After Member of Congress.—(1) Real property under the jurisdiction of the Secretary of Defense or the Secretary of a military department may not be named after, or otherwise officially identified by the name of, any individual who is a Member of Congress at the time the property is so named or identified.
 
 (2) In this subsection:
 
@@ -66,6 +66,90 @@ Subsec. (c). Pub. L. 108–375, §2821(a)(1), added subsec. (c).
 
 Pub. L. 112–81, div. B, title XXVIII, §2863(b), Dec. 31, 2011, 125 Stat. 1702, provided that: "The prohibition in subsection (c) of section 2661 of title 10, United States Code, as added by subsection (a), shall apply only with respect to real property of the Department of Defense named after the date of the enactment of this Act \[Dec. 31, 2011\]."
 
+#### Prohibition on Display of Unapproved Flags
+
+Pub. L. 118–31, div. A, title X, §1052, Dec. 22, 2023, 137 Stat. 395, provided that:
+
+"(a)
+
+Prohibition.—No flag other than an approved flag shall be displayed in any work place, common access area, or public area of the Department of Defense.
+
+"(b)
+
+Exclusions.—The prohibition under subsection (a) shall not apply to—
+
+&emsp;"(1) the public display or depiction of a flag other than an approved flag in a museum exhibit, State-issued license plate, grave site, memorial marker, monument, educational display, historical display, or work of art, if the nature of the display or depiction cannot reasonably be viewed as endorsement of the flag by the Department of Defense; or
+
+&emsp;"(2) a building or area that primarily serves as a place of residence, including a barracks, dormitory, bachelor quarters, government-operated housing, or public-private venture housing area.
+
+"(c)
+
+Rule of Construction.—Nothing in this section shall be construed to affect the authority of a military commander to enforce good order and discipline on a military installation.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'approved flag' means any of the following:
+
+&emsp;&emsp;"(A) The American flag.
+
+&emsp;&emsp;"(B) The flag of a State or of the District of Columbia.
+
+&emsp;&emsp;"(C) A military service flag.
+
+&emsp;&emsp;"(D) A flag or general officer flag.
+
+&emsp;&emsp;"(E) A Presidentially-appointed, Senate-confirmed civilian flag.
+
+&emsp;&emsp;"(F) A Senior Executive Service or military department-specific flag.
+
+&emsp;&emsp;"(G) The National League of Families POW/MIA flag.
+
+&emsp;&emsp;"(H) The flag of another country that is an ally or partner of the United States or for official protocol purposes.
+
+&emsp;&emsp;"(I) The flag of an organization of which the United States is a member.
+
+&emsp;&emsp;"(J) A ceremonial, command, unit, or branch flag or guidon.
+
+&emsp;&emsp;"(K) The flag of an athletic team, club, cadet-led organization, academic department, unit subdivision, or other entity approved to operate at a Service Academy (as such term is defined in section 347 of title 10, United States Code) or in conjunction with a Reserve Officer Training Corps activity.
+
+&emsp;&emsp;"(L) A flag or banner displayed by a retail tenant or non-government entity operating in a building owned or controlled by the Department of Defense, for the purposes of advertising business products and services, if authorized by contract.
+
+&emsp;&emsp;"(M) A religious flag or banner, including a holiday flag, if otherwise authorized.
+
+&emsp;&emsp;"(N) A flag approved at the discretion of the military chain of command or senior civilian leadership, as appropriate.
+
+&emsp;"(2) The term 'work place, common access area, or public area of the Department of Defense' includes the following:
+
+&emsp;&emsp;"(A) An office building, facility, naval vessel, aircraft, governmental vehicle, hangar, garage, ready room, storage room, tool and equipment room, or workshop.
+
+&emsp;&emsp;"(B) A sensitive compartmented information facility of other secure facility.
+
+&emsp;&emsp;"(C) A schoolhouse or training facility.
+
+&emsp;&emsp;"(D) The area in plain view of such a building that is not residential in nature, including the areas outside of buildings of the Department of Defense."
+
+#### Tribal Liaisons at Military Installations
+
+Pub. L. 118–31, div. A, title X, §1084, Dec. 22, 2023, 137 Stat. 418, provided that:
+
+"(a)
+
+Tribal Liaisons at Military Installations.—The Secretary of Defense shall ensure that each military installation under the jurisdiction of a military department that has an Indian Tribe, Native Hawaiian organization, or Tribal interest in the area surrounding the installation has a Tribal liaison located at the installation.
+
+"(b)
+
+Tribal Interest.—For purposes of subsection (a), an area surrounding a military installation shall be considered to be an area in which there is a Tribal interest if an Indian Tribe or Native Hawaiian organization is historically or culturally affiliated with the land or water managed or directly affected by the military installation.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'Indian Tribe' has the meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304(e)).
+
+&emsp;"(2) The term 'Native Hawaiian organization' has the meaning given that term in section 6207 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7517)."
+
 #### National Standards for Federal Fire Protection at Military Installations
 
 Pub. L. 117–263, div. A, title III, §388, Dec. 23, 2022, 136 Stat. 2546, provided that:
@@ -78,7 +162,7 @@ Standards Required.—Beginning not later than one year after the date of the en
 
 &emsp;"(2) the minimum staffing requirement for any firefighting vehicle responding to a structural building emergency at a military installation is not less than four firefighters per vehicle; and
 
-&emsp;"(3) the minimum staffing requirement for any firefighting vehicle responding to an aircraft or airfield incident at a military installation is not less than three firefighters per vehicle.
+&emsp;"(3) the minimum staffing requirement for any firefighting vehicle responding to an aircraft or airfieldincident at a military installation is not less than three firefighters per vehicle.
 
 "(b)
 

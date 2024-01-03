@@ -48,7 +48,7 @@ Not later than 30 days after December 23, 2022, the American Institute in Taiwan
 
 &emsp;&emsp;(A) a parliamentary office, ministry, or other agency of Taiwan; or
 
-&emsp;&emsp;(B) an organization outside the public sector in Taiwan, whose interests are associated with the interests of the fellow and the agency of the United States Governmentfrom which the fellow is or had been employed.
+&emsp;&emsp;(B) an organization outside the public sector in Taiwan, whose interests are associated with the interests of the fellow and the agency of the United States Government from which the fellow is or had been employed.
 
 #### (e) Program requirements
 

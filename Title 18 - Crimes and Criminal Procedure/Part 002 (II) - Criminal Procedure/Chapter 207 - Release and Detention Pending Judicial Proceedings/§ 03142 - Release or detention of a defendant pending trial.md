@@ -90,7 +90,7 @@ Detention.—(1) If, after a hearing pursuant to the provisions of subsection (f
 
 &emsp;(C) a period of not more than five years has elapsed since the date of conviction, or the release of the person from imprisonment, for the offense described in subparagraph (A), whichever is later.
 
-(3) Subject to rebuttal by the person, it shall be presumed that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of the community if the judicial officer finds that there is probable cause to believe that the person committed—
+(3) Subject to rebuttal by the person, it shall be presumed that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety ofthe community if the judicial officer finds that there is probable cause to believe that the person committed—
 
 &emsp;(A) an offense for which a maximum term of imprisonment of ten years or more is prescribed in the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of title 46;
 

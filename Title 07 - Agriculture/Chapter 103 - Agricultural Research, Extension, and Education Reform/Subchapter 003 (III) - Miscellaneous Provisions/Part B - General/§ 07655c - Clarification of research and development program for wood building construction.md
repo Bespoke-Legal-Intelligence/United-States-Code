@@ -68,7 +68,7 @@ Mass timber.—The term 'mass timber' includes—
 
 &emsp;"(3)
 
-Secretary.—The term 'Secretary' means the Secretary \[of Agriculture\], acting through the Research and Development deputy area and the State and Private Forestry deputy area of the Forest Service.
+Secretary.—The term 'Secretary' means the Secretary \[of Agriculture\], acting through the Research and Development deputy area and the Stateand Private Forestry deputy area of the Forest Service.
 
 &emsp;"(4)
 

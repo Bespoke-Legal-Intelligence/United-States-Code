@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, the actions of Federal officers or a
 
 #### (b) Limitations for filing claims
 
-(1) Claims alleging the invalidity of this chapter may be brought not later than the 60th dayfollowing the date a decision takes effect pursuant to section 719f of this title.
+(1) Claims alleging the invalidity of this chapter may be brought not later than the 60th day following the date a decision takes effect pursuant to section 719f of this title.
 
 (2) Claims alleging that an action will deny rights under the Constitution of the United States, or that an action is in excess of statutory jurisdiction, authority, or limitations, or short of statutory right may be brought not later than the 60th day following the date of such action, except that if a party shows that he did not know of the action complained of, and a reasonable person acting in the circumstances would not have known, he may bring a claim alleging the invalidity of such action on the grounds stated above not later than the 60th day following the date of his acquiring actual or constructive knowledge of such action.
 
@@ -20,7 +20,7 @@ Notwithstanding any other provision of law, the actions of Federal officers or a
 
 #### (B) Exclusive jurisdiction
 
-&emsp;&emsp;The Special Court shall have exclusive jurisdiction to determine such proceeding in accordance with the procedures hereinafter provided, and no other court of the United States, or any State, territory, or possession of the United States, or of the District of Columbia, shall have jurisdiction of any such claim in any proceeding instituted prior to or on or after October 22, 1976.
+&emsp;&emsp;The Special Court shall have exclusive jurisdiction to determine such proceeding in accordance with the procedures hereinafter provided, and no other court of the United States, or any State, territory, or possessionof the United States, or of the District of Columbia, shall have jurisdiction of any such claim in any proceeding instituted prior to or on or after October 22, 1976.
 
 #### (2) Expedited consideration
 

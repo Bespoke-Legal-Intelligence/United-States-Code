@@ -54,7 +54,7 @@ Requirements with respect to agreements.—An agreement entered into with a cove
 
 &emsp;&emsp;(A) shall address the terms of use, ownership, and disposition of the funds, services, or equipment contributed pursuant to the agreement; and
 
-&emsp;&emsp;(B) shall include a provision that the covered entity will not recover the costs of its contribution through any other agreement with the United States.
+&emsp;&emsp;(B) shall include a provision that the covered entity will not recover the costs of itscontribution through any other agreement with the United States.
 
 (d)
 
@@ -115,6 +115,18 @@ A prior section 2276, acts Aug. 10, 1956, ch. 1041, 70A Stat. 126; Sept. 7, 1962
 <b>2018</b>—Subsec. (e). Pub. L. 115–232 struck out subsec. (e). Text read as follows: "Not later than January 31 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the funds, services, and equipment accepted and used by the Secretary under this section during the preceding fiscal year."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Plan To Improve Threat-Sharing Arrangements With Commercial Space Operators
+
+Pub. L. 118–31, div. A, title XVI, §1610, Dec. 22, 2023, 137 Stat. 589, provided that:
+
+"(a)
+
+Plan for Threat Sharing With Commercial Space Operators.—The Assistant Secretary of the Air Force for Space Acquisition and Integration, in consultation with the Commander of the United States Space Command, shall develop and implement a plan to expand threat-sharing arrangements with commercial space operators that are under contract with the Department of Defense as of the date of the enactment of this Act \[Dec. 22, 2023\].
+
+"(b)
+
+Report.—Not later than 180 days after the date of the enactment of this Act, the Assistant Secretary of the Air Force for Space Acquisition and Integration, in coordination with the Commander of the United States Space Command, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the plan required under subsection (a)."
 
 #### National Security Space Launch Program
 

@@ -40,7 +40,7 @@ Section was formerly classified to section 5701 of Title 42, The Public Health a
 
 <b>1999</b>—Par. (5). Pub. L. 106–71, §3(a)(1), substituted "an accurate national reporting system to report the problem, and to assist in the development of" for "accurate reporting of the problem nationally and to develop".
 
-Par. (8). Pub. L. 106–71, §3(a)(2), added par. (8) and struck out former par. (8) which read as follows: "in view of the interstate nature of the problem, it is the responsibility of the Federal Government to develop an accurate national reporting system and to develop an effective system of care including prevention, emergency shelter services, and longer residential care outside the public welfare and law enforcement structures;".
+Par. (8). Pub. L. 106–71, §3(a)(2), added par. (8) and struck out former par. (8) which read as follows: "in view of the interstate nature of the problem, it is the responsibility of the Federal Government to develop an accurate national reporting system and to develop aneffective system of care including prevention, emergency shelter services, and longer residential care outside the public welfare and law enforcement structures;".
 
 <b>1992</b>—Par. (1). Pub. L. 102–586, §3(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "the number of juveniles who leave and remain away from home without parental permission has increased to alarming proportions, creating a substantial law enforcement problem for the communities inundated, and significantly endangering the young people who are without resources and live on the street;".
 

@@ -36,7 +36,7 @@ Section 321 of the International Development and Food Assistance Act of 1975, re
 
 #### Prior Provisions
 
-A prior section 704 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 463, amended section 1704 of Title 7, Agriculture, prior to repeal by Pub. L. 87–565, pt. IV, §401, Aug. 1, 1962, 76 Stat. 263, except insofar as section 704 affected section 1704.
+A prior section 704 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 463, amended section 1704 of Title 7, Agriculture, prior to repeal by Pub. L. 87–565, pt. IV, §401,Aug. 1, 1962, 76 Stat. 263, except insofar as section 704 affected section 1704.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

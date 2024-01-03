@@ -6,7 +6,7 @@ It is the sense of Congress that the goal of compelling Iran to abandon efforts 
 
 &emsp;(2) full, timely, and vigorous implementation of all sanctions enacted into law, including sanctions imposed or expanded by this Act or amendments made by this Act, through—
 
-&emsp;&emsp;(A) intensified monitoring by the President and the designees of the President, including the Secretary of the Treasury, the Secretary of State, and senior officials inthe intelligence community (as defined in section 401a(4) of title 50), as appropriate;
+&emsp;&emsp;(A) intensified monitoring by the President and the designees of the President, including the Secretary of the Treasury, the Secretary of State, and senior officials in the intelligence community (as defined in section 401a(4) of title 50), as appropriate;
 
 &emsp;&emsp;(B) more extensive use of extraordinary authorities provided for under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) and other sanctions laws;
 

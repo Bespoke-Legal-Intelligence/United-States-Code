@@ -24,7 +24,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 #### (A) Consideration for claims
 
-&emsp;&emsp;The deduction allowed by this section in the case of claims against the estate, unpaidmortgages, or any indebtedness shall, when founded on a promise or agreement, be limited to the extent that they were contracted bona fide and for an adequate and full consideration in money or money's worth; except that in any case in which any such claim is founded on a promise or agreement of the decedent to make a contribution or gift to or for the use of any donee described in section 2055 for the purposes specified therein, the deduction for such claims shall not be so limited, but shall be limited to the extent that it would be allowable as a deduction under section 2055 if such promise or agreement constituted a bequest.
+&emsp;&emsp;The deduction allowed by this section in the case of claims against the estate, unpaid mortgages, or any indebtedness shall, when founded on a promise or agreement, be limited to the extent that they were contracted bona fide and for an adequate and full consideration in money or money's worth; except that in any case in which any such claim is founded on a promise or agreement of the decedent to make a contribution or gift to or for the use of any donee described in section 2055 for the purposes specified therein, the deduction for such claims shall not be so limited, but shall be limited to the extent that it would be allowable as a deduction under section 2055 if such promise or agreement constituted a bequest.
 
 #### (B) Certain taxes
 
@@ -50,7 +50,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 #### (2) Condition for allowance of deduction
 
-&emsp;No deduction shall be allowed under paragraph (1) for a foreign death tax specified therein unless the decrease in the tax imposed by section 2001 which results from the deduction provided in paragraph (1) will inure solely for the benefit of the public, charitable, or religious transferees described in section 2055 or section 2106(a)(2). In any case where the tax imposed by section 2001 is equitably apportioned among all the transferees of property included in the gross estate, including those described in sections 2055 and 2106(a)(2) (taking into account any exemptions, credits, or deductions allowed by this chapter), in determining such decrease, there shall be disregarded any decrease in the Federal estate tax which any transferees other than those described in sections 2055 and 2106(a)(2) are required to pay.
+&emsp;No deduction shall be allowed under paragraph (1) for a foreign death tax specified therein unless the decrease in the tax imposed by section 2001 which results from the deduction provided in paragraph (1) will inure solely for the benefit of the public, charitable, or religious transferees described in section 2055 or section 2106(a)(2). In any case where the tax imposed by section 2001 is equitably apportioned among all the transferees of property included in the gross estate, including those described in sections 2055 and 2106(a)(2) (taking into account any exemptions, credits, or deductions allowed by this chapter), in determining such decrease, there shall be disregarded any decrease in the Federal estatetax which any transferees other than those described in sections 2055 and 2106(a)(2) are required to pay.
 
 #### (3) Effect on credit for foreign death taxes of deduction under this subsection
 
@@ -134,7 +134,7 @@ Pub. L. 98–369, div. A, title X, §1027(c), July 18, 1984, 98 Stat. 1032, prov
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1902(a)(12)(B) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2012 of this title.
+Amendment by section 1902(a)(12)(B) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4,1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1959 Amendment
 

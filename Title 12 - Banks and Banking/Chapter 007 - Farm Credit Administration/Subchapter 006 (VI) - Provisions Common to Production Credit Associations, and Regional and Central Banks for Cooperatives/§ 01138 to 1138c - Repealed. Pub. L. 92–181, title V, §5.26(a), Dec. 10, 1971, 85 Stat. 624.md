@@ -1,6 +1,6 @@
 ### §§1138 to 1138c. Repealed. Pub. L. 92–181, title V, §5.26(a), Dec. 10, 1971, 85 Stat. 624
 
-Section 1138, acts June 16, 1933, ch. 98, title VI, §60, 48 Stat. 266; Aug. 19, 1937, ch. 704, §5(a), 50 Stat. 704; July26, 1956, ch. 741, title I, §105(l), 70 Stat. 666, set out general corporate powers common to banks for cooperatives and production credit associations. See sections 2093 and 2122 of this title.
+Section 1138, acts June 16, 1933, ch. 98, title VI, §60, 48 Stat. 266; Aug. 19, 1937, ch. 704, §5(a), 50 Stat. 704; July 26, 1956, ch. 741, title I, §105(l), 70 Stat. 666, set out general corporate powers common to banks for cooperatives and production credit associations. See sections 2093 and 2122 of this title.
 
 Section 1138a, acts June 16, 1933, ch. 98, title VI, §61, 48 Stat. 267; July 26, 1956, ch. 741, title I, §105(m), 70 Stat. 666, provided for examination of parts of farm credit system by examiners of Farm Credit Administration. See section 2254 of this title.
 

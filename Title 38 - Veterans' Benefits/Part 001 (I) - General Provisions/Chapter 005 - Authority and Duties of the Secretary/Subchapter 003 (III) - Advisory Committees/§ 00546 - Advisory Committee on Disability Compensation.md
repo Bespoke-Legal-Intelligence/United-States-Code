@@ -76,7 +76,7 @@ Another prior section 613, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, relat
 
 Prior sections 614 to 620C were renumbered sections 1714 to 1720C of this title, respectively.
 
-Another prior section 620C, added Pub. L. 100–6, §2(a), Feb. 12, 1987, 101 Stat. 92, related to community-based psychiatric residential treatment for chronically mentally ill veterans, prior to repeal by Pub. L. 100–322, title I, §115(g)(1), May 20, 1988, 102 Stat. 502. See section 115(a)–(f) of Pub. L. 100–322, set out as a note under section 1712 of this title.
+Another prior section 620C, added Pub. L. 100–6, §2(a), Feb. 12, 1987, 101 Stat. 92, related to community-basedpsychiatric residential treatment for chronically mentally ill veterans, prior to repeal by Pub. L. 100–322, title I, §115(g)(1), May 20, 1988, 102 Stat. 502. See section 115(a)–(f) of Pub. L. 100–322, set out as a note under section 1712 of this title.
 
 Prior sections 621 to 624 were renumbered sections 1721 to 1724 of this title, respectively.
 

@@ -46,7 +46,7 @@ The authority of the Bureau to issue regulations under this subchapter does not 
 
 &emsp;(B) involved a disclosed amount which was 10 per centum or less of the amount that should have been disclosed and (i) in cases where the error involved a disclosed finance charge, the annual percentage rate was disclosed correctly, and (ii) in cases where the error involved a disclosed annual percentage rate, the finance charge was disclosed correctly; in which event the agency may require such adjustment as it determines to be equitable;
 
-&emsp;(C) involved a total failure to disclose either the annual percentage rate or the financecharge, in which event the agency may require such adjustment as it determines to be equitable; or
+&emsp;(C) involved a total failure to disclose either the annual percentage rate or the finance charge, in which event the agency may require such adjustment as it determines to be equitable; or
 
 &emsp;(D) resulted from any other unique circumstance involving clearly technical and nonsubstantive disclosure violations that do not adversely affect information provided to the consumer and that have not misled or otherwise deceived the consumer.
 
@@ -60,7 +60,7 @@ The authority of the Bureau to issue regulations under this subchapter does not 
 
 &emsp;&emsp;(ii) require the full adjustment, but permit the creditor to make the required adjustment in partial payments over an extended period of time which the agency considers to be reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a)), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditor to become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831o\];
 
-&emsp;(B) the <sup>1</sup> amount of the adjustment would be less than $1, except that if more than one year has elapsed since the date of the violation, the agency may require that such amount be paid into the Treasury of the United States, or
+&emsp;(B) the <sup>1</sup> amount of the adjustment would be less than $1, except that if more than one year has elapsed since the date of the violation, theagency may require that such amount be paid into the Treasury of the United States, or
 
 &emsp;(C) except where such disclosure error resulted from a willful violation which was intended to mislead the person to whom credit was extended, in the case of an open-end credit plan, more than two years after the violation, or in the case of any other extension of credit, as follows:
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note undersection 5314 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under section 5314 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 

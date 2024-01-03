@@ -48,7 +48,7 @@
 
 #### (1) Assignment by historic peanut producers
 
-&emsp;The Secretary shall give each historic peanut producer an opportunity to assign the average peanut yield and average acreage determined under subsection (a) for each farm ofthe historic peanut producer to cropland on that farm or another farm in the same State or a contiguous State.
+&emsp;The Secretary shall give each historic peanut producer an opportunity to assign the average peanut yield and average acreage determined under subsection (a) for each farm of the historic peanut producer to cropland on that farm or another farm in the same State or a contiguous State.
 
 #### (2) Limitation on acreage assignment
 

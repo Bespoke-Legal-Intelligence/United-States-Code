@@ -16,7 +16,7 @@ The performance information made publicly available on an Internet website, as d
 
 #### (2) Consultation with stakeholders
 
-&emsp;The entity with a contract under section 1890(a) of the Social Security Act \[42 U.S.C. 1395aaa(a)\] shall convene multi-stakeholder groups, as described in such section, to review the design and format of each Internet website made available under subsection (a) and shall transmit to the Secretary the views of such multi-stakeholder groups with respect to each such design and format.
+&emsp;The entity with a contract under section 1890(a) of the Social Security Act \[42 U.S.C. 1395aaa(a)\] shall convene multi-stakeholder groups, as described in such section, to review the design and format of each Internet websitemade available under subsection (a) and shall transmit to the Secretary the views of such multi-stakeholder groups with respect to each such design and format.
 
 #### (d) Coordination
 

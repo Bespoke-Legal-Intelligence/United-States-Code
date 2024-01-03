@@ -36,7 +36,7 @@
 
 (f)(1) Upon the recommendation of the Under Secretary for Health, the Secretary may—
 
-&emsp;(A) use the authority in subsection (a) to establish the qualifications for and (subject to paragraph (2)) to appoint individuals to positions listed in section 7401(3) of this title; and
+&emsp;(A) use the authority in subsection (a) to establish the qualifications for and (subject toparagraph (2)) to appoint individuals to positions listed in section 7401(3) of this title; and
 
 &emsp;(B) use the authority provided in subsection (c) for the promotion and advancement of Department employees serving in such positions.
 

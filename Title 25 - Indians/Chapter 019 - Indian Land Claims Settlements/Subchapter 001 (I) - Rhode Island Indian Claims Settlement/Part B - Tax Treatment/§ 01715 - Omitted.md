@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 95–395, title II, §201, as added Pub. L. 96–601, §5(a), Dec. 24, 1980, 94 Stat. 3498, which providedfor tax exemption for settlement lands, with certain exceptions, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 95–395, title II, §201, as added Pub. L. 96–601, §5(a), Dec. 24, 1980, 94 Stat. 3498, which provided for tax exemption for settlement lands, with certain exceptions, was omitted from the Code as being of special and not general application.
 

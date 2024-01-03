@@ -12,7 +12,7 @@
 
 #### (3) Pregnant women and young children
 
-&emsp;Not later than the 2020 report and in each report thereafter, the Secretaries shall include national nutritional and dietary information and guidelines for pregnant women and children from birth until the age of 2.
+&emsp;Not later than the 2020 report and in each report thereafter, the Secretaries shall includenational nutritional and dietary information and guidelines for pregnant women and children from birth until the age of 2.
 
 #### (b) Approval by Secretaries
 

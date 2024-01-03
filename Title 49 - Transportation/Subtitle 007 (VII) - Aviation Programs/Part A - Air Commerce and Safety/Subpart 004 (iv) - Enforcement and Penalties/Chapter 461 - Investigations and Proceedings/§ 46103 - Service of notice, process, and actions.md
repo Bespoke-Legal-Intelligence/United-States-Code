@@ -92,7 +92,7 @@ In subsection (c), the words "with like effect as if made personally upon such c
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1991(f)(3), substituted "by the Administrator of the Federal Aviation Administration)" for "by the Administrator)".
 
-Pub. L. 115–254, §1991(f)(1), substituted "Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Security with respect to securityduties and powers designated to be carried out by the Under Secretary".
+Pub. L. 115–254, §1991(f)(1), substituted "Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary".
 
 Subsec. (a)(2)(A). Pub. L. 115–254, §1991(f)(2), (4), substituted "Administrator of the Transportation Security Administration," for "Under Secretary," and "or Administrator of the Federal Aviation Administration" for "or Administrator".
 

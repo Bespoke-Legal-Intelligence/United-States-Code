@@ -14,7 +14,7 @@ This chapter—
 
 #### (c) Other programs
 
-Nothing in this chapter may be construed to preempt or supersede any other program relating to cut flowers or cut greens promotion andconsumer information organized and operated under the laws of the United States or a State.
+Nothing in this chapter may be construed to preempt or supersede any other program relating to cut flowers or cut greens promotion and consumer information organized and operated under the laws of the United States or a State.
 
 (Pub. L. 103–190, §13, Dec. 14, 1993, 107 Stat. 2289.)
 

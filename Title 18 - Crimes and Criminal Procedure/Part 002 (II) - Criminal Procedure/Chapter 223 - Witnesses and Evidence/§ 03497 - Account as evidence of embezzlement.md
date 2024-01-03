@@ -1,6 +1,6 @@
 ### §3497. Account as evidence of embezzlement
 
-Upon the trial of any indictment against any person for embezzling public money it shall besufficient evidence, prima facie, for the purpose of showing a balance against such person, to produce a transcript from the books and proceedings of the Government Accountability Office.
+Upon the trial of any indictment against any person for embezzling public money it shall be sufficient evidence, prima facie, for the purpose of showing a balance against such person, to produce a transcript from the books and proceedings of the Government Accountability Office.
 
 (June 25, 1948, ch. 645, 62 Stat. 836; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

@@ -30,7 +30,7 @@ Notwithstanding section 247, no deduction shall be allowed to a Native Corporati
 
 #### (f) Definitions
 
-For purposes of this section, the terms "Native Corporation" and "Settlement Trust" have the same meaning given such terms under section 646(h).
+For purposes of this section, the terms "Native Corporation" and "Settlement Trust" havethe same meaning given such terms under section 646(h).
 
 (Added Pub. L. 115–97, title I, §13821(a)(1), Dec. 22, 2017, 131 Stat. 2178.)
 
@@ -44,5 +44,5 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 
 
 #### Effective Date
 
-Pub. L. 115–97, title I, §13821(a)(3), Dec. 22, 2017, 131 Stat. 2178, provided that: "The amendments made bythis subsection \[enacting this section\] shall apply to taxable years beginning after December 31, 2016."
+Pub. L. 115–97, title I, §13821(a)(3), Dec. 22, 2017, 131 Stat. 2178, provided that: "The amendments made by this subsection \[enacting this section\] shall apply to taxable years beginning after December 31, 2016."
 

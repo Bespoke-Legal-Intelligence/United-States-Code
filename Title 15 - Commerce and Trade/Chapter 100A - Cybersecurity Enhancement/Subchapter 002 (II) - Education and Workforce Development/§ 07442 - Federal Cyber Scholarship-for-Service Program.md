@@ -20,7 +20,7 @@ The Federal Cyber Scholarship-for-Service Program shall—
 
 &emsp;&emsp;(C) not more than 20 percent of such recipients are placed in positions described in paragraphs (2) through (5) of subsection (d); and
 
-&emsp;(4) provide awards to improve cybersecurity education, including by seeking to provide awards in coordination with other relevantagencies for summer cybersecurity camp or other experiences, including teacher training, in each of the 50 States, at the kindergarten through grade 12 level—
+&emsp;(4) provide awards to improve cybersecurity education, including by seeking to provide awards in coordination with other relevant agencies for summer cybersecurity camp or other experiences, including teacher training, in each of the 50 States, at the kindergarten through grade 12 level—
 
 &emsp;&emsp;(A) to increase interest in cybersecurity careers;
 
@@ -114,7 +114,7 @@ As a condition of participating in the program, a qualified institution of highe
 
 &emsp;(1) enter into an agreement with the Director of the National Science Foundation, to monitor the compliance of scholarship recipients with respect to their post-award employment obligations; and
 
-&emsp;(2) provide to the Director of the National Science Foundation and the Director of theOffice of Personnel Management, on an annual basis, the post-award employment documentation required under subsection (g)(1) for scholarship recipients through the completion of their post-award employment obligations.
+&emsp;(2) provide to the Director of the National Science Foundation and the Director of the Office of Personnel Management, on an annual basis, the post-award employment documentation required under subsection (g)(1) for scholarship recipients through the completion of their post-award employment obligations.
 
 #### (i) Amount of repayment
 
@@ -196,7 +196,7 @@ The Director of the National Science Foundation may provide for the partial or t
 
 #### (3) Resources
 
-&emsp;The Director of the National Science Foundation, in coordination with the Director ofthe Office of Personnel Management, shall provide consolidated and user-friendly online resources for prospective scholarship recipients, including, to the extent practicable—
+&emsp;The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall provide consolidated and user-friendly online resources for prospective scholarship recipients, including, to the extent practicable—
 
 &emsp;&emsp;(A) searchable, up-to-date, and accurate information about participating institutions of higher education and job opportunities related to the field of cybersecurity; and
 
@@ -224,7 +224,7 @@ Subsec. (d)(6). Pub. L. 116–283, §9403(2), added par. (6).
 
 Subsec. (f)(3). Pub. L. 116–283, §9401(g)(4)(C), substituted "under section 7443" for "under section 7451".
 
-Subsec. (f)(5) to (7). Pub. L. 116–283, §9404(1), added pars. (5) to (7) and struck out former par. (5) which read as follows: "accept the terms of a scholarship under this section.".
+Subsec. (f)(5) to (7). Pub. L. 116–283, §9404(1), added pars. (5) to (7) and struck out former par. (5) which read as follows: "accept the terms of a scholarship under this section."
 
 Subsec. (g)(1). Pub. L. 116–283, §9404(2)(A), inserted "the Office of Personnel Management (in coordination with the National Science Foundation) and" before "the qualified institution".
 
@@ -252,9 +252,13 @@ Subsec. (m). Pub. L. 115–91, §1649B(a)(4), amended subsec. (m) generally. Pri
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Savings Provision
 
-Pub. L. 115–91, div. A, title XVI, §1649B(b), Dec. 12, 2017, 131 Stat. 1755, provided that: "Nothing in this section \[amending this section\], or an amendment made by this section, shall affect any agreement, scholarship, loan, or repayment, under section 302 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7442), in effect on the day before the date of enactment of this subtitle \[Dec. 12, 2017\]."
+Pub. L. 115–91, div. A, title XVI, §1649B(b), Dec. 12, 2017, 131 Stat. 1755, provided that: "Nothing in this section \[amending this section\], or an amendment madeby this section, shall affect any agreement, scholarship, loan, or repayment, under section 302 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7442), in effect on the day before the date of enactment of this subtitle \[Dec. 12, 2017\]."
 
 #### Community College Cyber Pilot Program and Assessment
 

@@ -10,7 +10,7 @@ Section 1248, Pub. L. 88–210, title I, §108, as added Pub. L. 90–576, title
 
 Section 1261, Pub. L. 88–210, title I, §121, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1072, authorized grants for State vocational education programs.
 
-Section 1262, Pub. L. 88–210, title I, §122, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1072; amended Pub. L. 93–380, title VIII, §841(a)(1), (5), Aug. 21, 1974, 88 Stat. 606, 607, set forth authorized purposes for use of Federal grants for State vocational education programs.
+Section 1262, Pub. L. 88–210, title I, §122, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1072; amended Pub. L. 93–380, title VIII, §841(a)(1), (5), Aug. 21, 1974, 88 Stat. 606, 607, set forth authorized purposesfor use of Federal grants for State vocational education programs.
 
 Section 1263, Pub. L. 88–210, title I, §123, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1073, set forth requirements for and procedures applicable to State plans.
 
@@ -52,7 +52,7 @@ Section 1354, Pub. L. 88–210, title I, §174, as added Pub. L. 90–576, title
 
 Section 1355, Pub. L. 88–210, title I, §175, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1087, defined "cooperative work-study program".
 
-Section 1371, Pub. L. 88–210, title I, §181, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1088; amended Pub. L. 91–230, title VII, §706(a), Apr. 13, 1970, 84 Stat. 189; Pub. L. 92–318, title II, §207, June 23, 1972, 86 Stat. 326; Pub. L. 94–482, title II, §201(n), Oct. 12, 1976,90 Stat. 2169, set forth funding provisions for work-study programs for vocational education students.
+Section 1371, Pub. L. 88–210, title I, §181, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1088; amended Pub. L. 91–230, title VII, §706(a), Apr. 13, 1970, 84 Stat. 189; Pub. L. 92–318, title II, §207, June 23, 1972, 86 Stat. 326; Pub. L. 94–482, title II, §201(n), Oct. 12, 1976, 90 Stat. 2169, set forth funding provisions for work-study programs for vocational education students.
 
 Section 1372, Pub. L. 88–210, title I, §182, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1088, set forth requirements of State plan for participation in student work-study program funding.
 

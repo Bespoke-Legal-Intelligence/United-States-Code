@@ -32,7 +32,7 @@ Grant funds made available under this part may be used by an eligible local educ
 
 #### (b) Special rule
 
-Grant funds under this part may be used for activities described in paragraphs (2) and (3) ofsubsection (a) only if the activities are directly related to improving student academic achievement based on the challenging State academic standards or directly related to improving student reading skills or knowledge of mathematics, science, history, geography, English, foreign languages, art, or music, or to improving career, technical, and professional skills.
+Grant funds under this part may be used for activities described in paragraphs (2) and (3) of subsection (a) only if the activities are directly related to improving student academic achievement based on the challenging State academic standards or directly related to improving student reading skills or knowledge of mathematics, science, history, geography, English, foreign languages, art, or music, or to improving career, technical, and professional skills.
 
 (Pub. L. 89–10, title IV, §4407, formerly title V, §5307, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1809; renumbered title IV, §4407, and amended Pub. L. 114–95, title IV, §§4001(b)(3)(A), (B), (D)(i), 4401(4), Dec. 10, 2015, 129 Stat. 1967, 2015; Pub. L. 116–260, div. H, title III, §314(b), Dec. 27, 2020, 134 Stat. 1610.)
 

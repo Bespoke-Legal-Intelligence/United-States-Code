@@ -14,7 +14,7 @@ The Secretary is authorized to enter into agreements with the State agency for t
 
 #### (d) Cross reference
 
-For provisions relating to the authority of certain Indian tribes, tribal organizations, andAlaska Native health organizations to elect to directly bill for, and receive payment for, health care services provided by a hospital or clinic of such tribes or organizations and for which payment may be made under this subchapter, see section 1645 of title 25.<sup>1</sup>
+For provisions relating to the authority of certain Indian tribes, tribal organizations, and Alaska Native health organizations to elect to directly bill for, and receive payment for, health care services provided by a hospital or clinic of such tribes or organizations and for which payment may be made under this subchapter, see section 1645 of title 25.<sup>1</sup>
 
 (Aug. 14, 1935, ch. 531, title XIX, §1911, as added Pub. L. 94–437, title IV, §402(a), Sept. 30, 1976, 90 Stat. 1409; amended Pub. L. 100–203, title IV, §§4118(f)(1), 4211(h)(8), Dec. 22, 1987, 101 Stat. 1330–155, 1330–206; Pub. L. 100–360, title IV, §411(k)(10)(E), July 1, 1988, 102 Stat. 796; Pub. L. 106–417, §3(b)(2), Nov. 1, 2000, 114 Stat. 1815.)
 

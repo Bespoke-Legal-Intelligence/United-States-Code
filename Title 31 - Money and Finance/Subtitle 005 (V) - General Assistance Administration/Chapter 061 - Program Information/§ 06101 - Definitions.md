@@ -262,7 +262,7 @@ Requirement.—The Interagency Committee on Debarment and Suspension shall—
 
 &emsp;"(3) encourage and assist Federal agencies in entering into cooperative efforts to pool resources and achieve operational efficiencies in the Governmentwide suspension and debarment system;
 
-&emsp;"(4) recommend to the Office of Management and Budget changes to the Government suspension anddebarment system and its rules, if such recommendations are approved by a majority of the Interagency Committee;
+&emsp;"(4) recommend to the Office of Management and Budget changes to the Government suspension and debarment system and its rules, if such recommendations are approved by a majority of the Interagency Committee;
 
 &emsp;"(5) authorize the Office of Management and Budget to issue guidelines that implement those recommendations;
 
@@ -514,7 +514,7 @@ Report.—
 
 &emsp;"(1)
 
-In general.—The Director shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives an annual report regarding the implementation of the website established under this section.
+In general.—The Director shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives an annual report regarding the implementation of the website established under this section.
 
 &emsp;"(2)
 
@@ -682,7 +682,7 @@ Limitation.—The Director may not grant more than 3 extensions to the Secretary
 
 &emsp;&emsp;&emsp;"(iii)
 
-Notification.—The Director of the Office of Management and Budget shall notify the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] and the Committee on Armed Services of the House of Representatives of—
+Notification.—The Director of the Office of Management and Budget shall notify the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] and the Committee on Armed Services of the House of Representatives of—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) each grant of an extension under clause (i); and
 
@@ -746,7 +746,7 @@ Termination.—The pilot program shall terminate on the date that is 2 years aft
 
 &emsp;"(6)
 
-Report to congress.—Not later than 90 days after the date on which the pilot program terminates under paragraph (5), the Director shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on the Budget of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] and the Committee on the Budget of the House of Representatives a report on the pilot program, which shall include—
+Report to congress.—Not later than 90 days after the date on which the pilot program terminates under paragraph (5), the Director shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on the Budget of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] and the Committee on the Budget of the House of Representatives a report on the pilot program, which shall include—
 
 &emsp;&emsp;"(A) a description of the data collected under the pilot program, the usefulness of the data provided, and the cost to collect the data from recipients; and
 
@@ -900,7 +900,7 @@ Sec. 2. To the extent permitted by law, Executive departments and agencies shall
 
 (c) Not allow a party to participate in any affected program if any Executive department or agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in an affected program. An agency may grant an exception permitting a debarred, suspended, or excluded party to participate in a particular transaction upon a written determination by the agency head or authorized designee stating the reason(s) for deviating from this Presidential policy. However, I intend that exceptions to this policy should be granted only infrequently.
 
-Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelinesissued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
+Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelines issued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
 
 Sec. 4. There is hereby constituted the Interagency Committee on Debarment and Suspension, which shall monitor implementation of this Order. The Committee shall consist of representatives of agencies designated by the Director of the Office of Management and Budget.
 

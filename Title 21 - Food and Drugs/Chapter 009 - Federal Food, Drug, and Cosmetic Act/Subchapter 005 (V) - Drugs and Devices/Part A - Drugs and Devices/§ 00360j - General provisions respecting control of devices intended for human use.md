@@ -42,7 +42,7 @@ Any requirement authorized by or under section 351, 352, 360, or 360i of this ti
 
 #### (c) Trade secrets
 
-Any information reported to or otherwise obtained by the Secretary or his representativeunder section 360c, 360d, 360e, 360f, 360h, 360i, or 374 of this title or under subsection (f) or (g) of this section which is exempt from disclosure pursuant to subsection (a) of section 552 of title 5 by reason of subsection (b)(4) of such section shall be considered confidential and shall not be disclosed and may not be used by the Secretary as the basis for the reclassification of a device from class III to class II or class I or as the basis for the establishment or amendment of a performance standard under section 360d of this title for a device reclassified from class III to class II, except (1) in accordance with subsection (h), and (2) that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter (other than section 360c or 360d of this title).
+Any information reported to or otherwise obtained by the Secretary or his representative under section 360c, 360d, 360e, 360f, 360h, 360i, or 374 of this title or under subsection (f) or (g) of this section which is exempt from disclosure pursuant to subsection (a) of section 552 of title 5 by reason of subsection (b)(4) of such section shall be considered confidential and shall not be disclosed and may not be used by the Secretary as the basis for the reclassification of a device from class III to class II or class I or as the basis for the establishment or amendment of a performance standard under section 360d of this title for a device reclassified from class III to class II, except (1) in accordance with subsection (h), and (2) that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter (other than section 360c or 360d of this title).
 
 #### (d) Notices and findings
 
@@ -132,7 +132,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(A) submit a plan for any proposed clinical testing of the device and a report of prior investigations of the device (including, where appropriate, tests on animals) adequate to justify the proposed clinical testing—
 
-&emsp;&emsp;(i) to the institutional review committee established in accordance with regulationsof the Secretary to supervise clinical testing of devices in the facilities where the proposed clinical testing is to be conducted, or
+&emsp;&emsp;(i) to the institutional review committee established in accordance with regulations of the Secretary to supervise clinical testing of devices in the facilities where the proposed clinical testing is to be conducted, or
 
 &emsp;&emsp;(ii) to the Secretary, if—
 
@@ -142,7 +142,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 > &emsp;&emsp;for review for adequacy to justify the commencement of such testing; and, unless the plan and report are submitted to the Secretary, submit to the Secretary a summary of the plan and a report of prior investigations of the device (including, where appropriate, tests on animals);
 
-&emsp;(B) promptly notify the Secretary (under such circumstances and in such manner as the Secretary prescribes) of approval by an institutional review committee of any clinical testing plan submitted to it in accordance with subparagraph (A);
+&emsp;(B) promptly notify the Secretary (under such circumstances and in such manner as theSecretary prescribes) of approval by an institutional review committee of any clinical testing plan submitted to it in accordance with subparagraph (A);
 
 &emsp;(C) in the case of a device to be distributed to investigators for testing, obtain signed agreements from each of such investigators that any testing of the device involving human subjects will be under such investigator's supervision and in accordance with subparagraph (D) and submit such agreements to the Secretary; and
 
@@ -282,7 +282,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 &emsp;(C) for which on the enactment date an exemption under subsection (i) of such section was in effect;
 
-&emsp;(D) which is within a type of device described in subparagraph (A), (B), or (C) and issubstantially equivalent to another device within that type;
+&emsp;(D) which is within a type of device described in subparagraph (A), (B), or (C) and is substantially equivalent to another device within that type;
 
 &emsp;(E) which the Secretary in a notice published in the Federal Register before the enactment date has declared to be a new drug subject to section 355 of this title; or
 
@@ -290,7 +290,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 > is classified in class III unless the Secretary in response to a petition submitted under paragraph (2) has classified such device in class I or II.
 
-(2) The Secretary may initiate the reclassification of a device classified into class III under paragraph (1) of this subsection or the manufacturer or importer of a device classified under paragraph (1) may petition the Secretary (in such form and manner as he shall prescribe) for the issuance of an order classifying the device in class I or class II. Within thirty days of the filing of such a petition, the Secretary shall notify the petitioner of any deficiencies in the petition which prevent the Secretary from making a decision on the petition. Except as provided in paragraph (3)(D)(ii), within one hundred and eighty days after the filing of a petition under this paragraph, the Secretary shall, after consultation with the appropriate panel under section 360c of this title, by order either deny the petition or order the classification, in accordance with the criteria prescribed by section 360c(a)(1)(A) of this title or 360c(a)(1)(B) of this title, of the device in class I or class II.
+(2) The Secretary may initiate the reclassification of a device classified into class III underparagraph (1) of this subsection or the manufacturer or importer of a device classified under paragraph (1) may petition the Secretary (in such form and manner as he shall prescribe) for the issuance of an order classifying the device in class I or class II. Within thirty days of the filing of such a petition, the Secretary shall notify the petitioner of any deficiencies in the petition which prevent the Secretary from making a decision on the petition. Except as provided in paragraph (3)(D)(ii), within one hundred and eighty days after the filing of a petition under this paragraph, the Secretary shall, after consultation with the appropriate panel under section 360c of this title, by order either deny the petition or order the classification, in accordance with the criteria prescribed by section 360c(a)(1)(A) of this title or 360c(a)(1)(B) of this title, of the device in class I or class II.
 
 (3)(A) In the case of a device which is described in paragraph (1)(A) and which is in class III—
 
@@ -530,7 +530,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 &emsp;An over-the-counter hearing aid shall be subject to the regulations promulgated in accordance with section 709(b) of the FDA Reauthorization Act of 2017 and shall be exempt from sections 801.420 and 801.421 of title 21, Code of Federal Regulations (or any successor regulations).
 
-(June 25, 1938, ch. 675, §520, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 565; amended Pub. L. 101–629, §§3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, 104 Stat. 4514, 4516, 4518, 4519, 4522, 4524, 4529; Pub. L. 102–571, title I, §107(10), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 105–115, title I, §125(b)(2)(E), title II, §§201(a), 203, 216(a)(1), title IV, §410(a), Nov. 21, 1997, 111 Stat. 2325, 2332, 2334, 2349, 2372; Pub. L. 109–96, §1, Nov. 9, 2005, 119 Stat. 2119; Pub. L. 110–85, titleIII, §303(a), title VIII, §801(b)(3)(E), Sept. 27, 2007, 121 Stat. 860, 921; Pub. L. 112–144, title V, §507(c), title VI, §§601, 606, 613(a), 617, July 9, 2012, 126 Stat. 1045, 1051, 1054, 1060, 1062; Pub. L. 114–255, div. A, title III, §§3024(a), 3038(b), 3052(a), 3056, 3060(a), Dec. 13, 2016, 130 Stat. 1099, 1110, 1124, 1128, 1130; Pub. L. 115–52, title V, §502(b), title VII, §§706(a), 709(a), Aug. 18, 2017, 131 Stat. 1037, 1058, 1065; Pub. L. 117–180, div. F, title V, §5002, Sept. 30, 2022, 136 Stat. 2167; Pub. L. 117–229, div. C, title III, §303, Dec. 16, 2022, 136 Stat. 2312; Pub. L. 117–286, §4(a)(156), Dec. 27, 2022, 136 Stat. 4323; Pub. L. 117–328, div. FF, title III, §§3103, 3601(b), Dec. 29, 2022, 136 Stat. 5807, 5861.)
+(June 25, 1938, ch. 675, §520, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 565; amended Pub. L. 101–629, §§3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, 104 Stat. 4514, 4516, 4518, 4519, 4522, 4524, 4529; Pub. L. 102–571, title I, §107(10), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 105–115, title I, §125(b)(2)(E), title II, §§201(a), 203, 216(a)(1), title IV, §410(a), Nov. 21, 1997, 111 Stat. 2325, 2332, 2334, 2349, 2372; Pub. L. 109–96, §1, Nov. 9, 2005, 119 Stat. 2119; Pub. L. 110–85, title III, §303(a), title VIII, §801(b)(3)(E), Sept. 27, 2007, 121 Stat. 860, 921; Pub. L. 112–144, title V, §507(c), title VI, §§601, 606, 613(a), 617, July 9, 2012, 126 Stat. 1045, 1051, 1054, 1060, 1062; Pub. L. 114–255, div. A, title III, §§3024(a), 3038(b), 3052(a), 3056, 3060(a), Dec. 13, 2016, 130 Stat. 1099, 1110, 1124, 1128, 1130; Pub. L. 115–52, title V, §502(b), title VII, §§706(a), 709(a), Aug. 18, 2017, 131 Stat. 1037, 1058, 1065; Pub. L. 117–180, div. F, title V, §5002, Sept. 30, 2022, 136 Stat. 2167; Pub. L. 117–229, div. C, title III, §303, Dec. 16, 2022, 136 Stat. 2312; Pub. L. 117–286, §4(a)(156), Dec. 27, 2022, 136 Stat. 4323; Pub. L. 117–328, div. FF, title III, §§3103, 3601(b), Dec. 29, 2022, 136 Stat. 5807, 5861.)
 
 #### Delayed Applicability of Amendment
 
@@ -766,7 +766,7 @@ Pub. L. 101–629, §14(c), Nov. 28, 1990, 104 Stat. 4525, directed Secretary of
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payableunder specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See Delayed Applicability of Amendment note below.</i>
 

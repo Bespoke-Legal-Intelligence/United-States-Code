@@ -10,7 +10,7 @@
 
 (b) If a claim under subsection (a) is settled or compromised for $500,000 or less, the Secretary of the Air Force may pay it. If it is settled or compromised for more than $500,000, he shall certify it to Congress.
 
-(c) In any case where the amount to be paid is not more than $100,000, the Secretary of the Air Force may delegate his authority under subsection (a) to any person in the Department of the Air Force designated by him.
+(c) In any case where the amount to be paid is not more than $100,000, the Secretary of the AirForce may delegate his authority under subsection (a) to any person in the Department of the Air Force designated by him.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 592; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 92–417, §1(6), Aug. 29, 1972, 86 Stat. 655; Pub. L. 101–189, div. A, title XVI, §1633, Nov. 29, 1989, 103 Stat. 1608.)
 

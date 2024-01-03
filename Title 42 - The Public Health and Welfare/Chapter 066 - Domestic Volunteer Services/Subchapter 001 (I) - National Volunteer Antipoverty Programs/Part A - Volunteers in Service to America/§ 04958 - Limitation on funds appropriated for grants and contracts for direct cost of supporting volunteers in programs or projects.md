@@ -1,6 +1,6 @@
 ### §4958. Limitation on funds appropriated for grants and contracts for direct cost of supporting volunteers in programs or projects
 
-(a) Of funds appropriated for the purpose of this part under section 5081 of this title, not more than 30 percent for the fiscal year ending September 30, 1984, and for each fiscal year thereafter, may be obligated for the direct cost of supporting volunteers in programs or projects carried out pursuant to grants and contracts made under section 5042(12) <sup>1</sup> of this title.
+(a) Of funds appropriated for the purpose of this part under section 5081 of this title, notmore than 30 percent for the fiscal year ending September 30, 1984, and for each fiscal year thereafter, may be obligated for the direct cost of supporting volunteers in programs or projects carried out pursuant to grants and contracts made under section 5042(12) <sup>1</sup> of this title.
 
 (b) No funds shall be obligated under this part pursuant to grants or contracts made after December 13, 1979, for new projects for the direct cost of supporting volunteers unless the recipient of each such grant or contract has been selected through a competitive process which includes—
 

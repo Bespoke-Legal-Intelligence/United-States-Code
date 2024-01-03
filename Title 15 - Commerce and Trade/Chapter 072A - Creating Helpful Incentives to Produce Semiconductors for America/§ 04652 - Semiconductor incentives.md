@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the customers, or categories of customers, to which the covered entity plans to sell the semiconductor technology, equipment, materials, or research and development described in item (aa); and
 
-&emsp;&emsp;&emsp;&emsp;(VI) documented, to the extent practicable, workforce needs and developed a strategy to meet such workforce needs consistent with the commitments described in subclauses (II) and (III);
+&emsp;&emsp;&emsp;&emsp;(VI) documented, to the extent practicable, workforce needs and developed a strategy to meet such workforce needsconsistent with the commitments described in subclauses (II) and (III);
 
 &emsp;&emsp;&emsp;(iii) with respect to the project described in clause (i), the covered entity has an executable plan to identify and mitigate relevant semiconductor supply chain security risks, such as risks associated with access, availability, confidentiality, integrity, and a lack of geographic diversification in the covered entity's supply chain; and
 
@@ -202,7 +202,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On or before the date on which the Secretary awards Federal financial assistance to a covered entity under this section, the covered entity shall enter into an agreement with the Secretary specifying that, during the 10-year period beginning on the date of the award, subject to clause (ii), the covered entity may not engage in any significant transaction, as defined in the agreement, involving the material expansion of semiconductor manufacturing capacity in the People's Republic of China or any other foreign country of concern.
+&emsp;&emsp;&emsp;On or before the date on which the Secretary awards Federal financial assistanceto a covered entity under this section, the covered entity shall enter into an agreement with the Secretary specifying that, during the 10-year period beginning on the date of the award, subject to clause (ii), the covered entity may not engage in any significant transaction, as defined in the agreement, involving the material expansion of semiconductor manufacturing capacity in the People's Republic of China or any other foreign country of concern.
 
 #### (ii) Exceptions
 
@@ -238,7 +238,7 @@
 
 &emsp;&emsp;&emsp;Upon a notification under clause (i)(II) that a planned significant transaction of a covered entity is a violation of the agreement of the covered entity required under subparagraph (C)(i), the Secretary shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) immediately request from the covered entity tangible proof that theplanned significant transaction has ceased or been abandoned; and
+&emsp;&emsp;&emsp;&emsp;(I) immediately request from the covered entity tangible proof that the planned significant transaction has ceased or been abandoned; and
 
 &emsp;&emsp;&emsp;&emsp;(II) provide the covered entity 45 days to produce and provide to the Secretary the tangible proof described in subclause (I).
 
@@ -286,7 +286,7 @@
 
 #### (H) Congressional notification
 
-&emsp;&emsp;Not later than 60 days after the date on which the Secretary finds a violation by a covered entity of an agreement required under subparagraph (C)(i), and after providing the covered entity with an opportunity to provide information in response to that finding, the Secretary shall provide to the appropriate Committees of Congress—
+&emsp;&emsp;Not later than 60 days after the date on which the Secretary finds a violation by acovered entity of an agreement required under subparagraph (C)(i), and after providing the covered entity with an opportunity to provide information in response to that finding, the Secretary shall provide to the appropriate Committees of Congress—
 
 &emsp;&emsp;&emsp;(i) a notification of the violation;
 
@@ -472,11 +472,11 @@ Section 3212 of title 42 shall apply to a construction project that receives fin
 
 #### (7) Advanced budget authority
 
-&emsp;New loans may not be obligated and new loan guarantees may not be committed to under this subsection, unless appropriations of budget authority to cover the costs of such loans and loan guarantees are made in advance in accordance with section 661c(b) of title 2.
+&emsp;New loans may not be obligated and new loan guarantees may not be committed to under this subsection, unless appropriations ofbudget authority to cover the costs of such loans and loan guarantees are made in advance in accordance with section 661c(b) of title 2.
 
 #### (8) Continued oversight
 
-&emsp;The loan agreement for a loan guaranteed under this subsection shall provide that no provision of the loan agreement may be amended of waived without the consent of the Secretary.
+&emsp;The loan agreement for a loan guaranteed under this subsection shall provide that no provision of the loan agreement may be amended of <sup>3</sup> waived without the consent of the Secretary.
 
 #### (h) Oversight
 
@@ -532,7 +532,7 @@ Subsec. (c)(1)(B)(iii). Pub. L. 117–167, §105(a)(1)(A), added cl. (iii).
 
 Subsec. (c)(1)(C)(v). Pub. L. 117–167, §105(a)(1)(B), added cl. (v).
 
-Subsec. (c)(1)(D). Pub. L. 117–167, §105(a)(2), added subpar. (D).
+Subsec. (c)(1)(D). Pub. L. 117–167, §105(a)(2), which directed amendment of subsec. (c) by adding subpar. (D) after par. (1)(C)(iv), was executed by making the addition after par. (1)(C)(v), to reflect the probable intent of Congress and the addition of cl. (v) by Pub. L. 117–167, §105(a)(1)(B). See above.
 
 Subsecs. (d) to (i). Pub. L. 117–167, §103(b)(6), added subsecs. (d) to (i).
 
@@ -575,4 +575,6 @@ Pub. L. 117–167, §2, Aug. 9, 2022, 136 Stat. 1371, provided that: "Except as 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 
 <i><sup>2</sup></i><i> So in original. The period probably should be "; and".</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "or".</i>
 

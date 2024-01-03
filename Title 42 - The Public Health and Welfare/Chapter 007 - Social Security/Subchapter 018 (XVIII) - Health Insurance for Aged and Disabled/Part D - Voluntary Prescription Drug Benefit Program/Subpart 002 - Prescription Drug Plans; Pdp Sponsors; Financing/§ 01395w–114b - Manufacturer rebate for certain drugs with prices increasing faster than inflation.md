@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(ii) the amount (if any) by which—
 
-&emsp;&emsp;&emsp;&emsp;(I) the annual manufacturer price (as determined in paragraph (2)) paid forsuch dosage form and strength with respect to such part D rebatable drug for the period; exceeds
+&emsp;&emsp;&emsp;&emsp;(I) the annual manufacturer price (as determined in paragraph (2)) paid for such dosage form and strength with respect to such part D rebatable drug for the period; exceeds
 
 &emsp;&emsp;&emsp;&emsp;(II) the inflation-adjusted payment amount determined under paragraph (3) for such dosage form and strength with respect to such part D rebatable drug for the period.
 

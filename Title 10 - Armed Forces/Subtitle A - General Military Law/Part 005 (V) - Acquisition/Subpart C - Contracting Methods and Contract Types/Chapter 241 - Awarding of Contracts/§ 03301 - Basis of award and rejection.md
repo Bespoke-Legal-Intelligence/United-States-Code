@@ -6,7 +6,7 @@ Award.—The head of an agency shall evaluate sealed bids and competitive propos
 
 (b)
 
-Rejection.—All sealed bids or competitive proposals received in response to a solicitation may be rejected if the head of the agency determines that such action is in the public interest.
+Rejection.—All sealed bids or competitive proposals received in response to a solicitationmay be rejected if the head of the agency determines that such action is in the public interest.
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1816(c)(2)(A), (3), Jan. 1, 2021, 134 Stat. 4182.)
 
@@ -25,6 +25,10 @@ The text of subsec. (b)(1), (2) of section 2305 of this title, which was transfe
 #### Effective Date
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+#### Consideration of the Past Performance of Affiliate Companies of Small Business Concerns
+
+Pub. L. 118–31, div. A, title VIII, §865, Dec. 22, 2023, 137 Stat. 348, provided that: "Not later than July 1, 2024, the Secretary of Defense shall amend section 215.305 of the Defense Federal Acquisition Supplement (or any successor regulation) to require that when small business concerns bid on Department of Defense contracts, the past performance evaluation and source selection processes shall consider, if relevant, the past performance information of affiliate companies of the small business concerns."
 
 #### Inclusion of Best Available Information Regarding Past Performance of Subcontractors and Joint Venture Partners
 
@@ -80,7 +84,7 @@ Elements.—The strategy required by subsection (a) shall, at a minimum—
 
 "(c)
 
-Contractor Comments.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Under Secretary of Defense for Acquisition and Sustainment shall revise the Defense Supplement to the Federal Acquisition Regulation to require the following:
+Contractor Comments.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31,2011\], the Under Secretary of Defense for Acquisition and Sustainment shall revise the Defense Supplement to the Federal Acquisition Regulation to require the following:
 
 &emsp;"(1) That affected contractors are provided, in a timely manner, information on contractor performance to be included in past performance databases in accordance with subsection (a).
 

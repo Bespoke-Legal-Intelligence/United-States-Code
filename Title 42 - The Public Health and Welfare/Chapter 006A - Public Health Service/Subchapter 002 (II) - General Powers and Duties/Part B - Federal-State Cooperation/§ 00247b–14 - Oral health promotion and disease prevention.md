@@ -32,7 +32,7 @@
 
 #### (B) General use of funds
 
-&emsp;&emsp;Amounts made available under paragraph (1) shall be used to assist small water systems in improving the effectiveness of water fluoridation and to meet the recommendations of the EARWF.
+&emsp;&emsp;Amounts made available under paragraph (1) shall be used to assist small water systems in improving the effectiveness of waterfluoridation and to meet the recommendations of the EARWF.
 
 #### (C) Fluoridation specialists
 
@@ -50,7 +50,7 @@
 
 #### (D) Implementation
 
-&emsp;&emsp;The project established under this subsection shall be planned, implemented andevaluated over the 5-year period beginning on the date on which funds are appropriated under this section and shall be designed to serve as a model for improving the effectiveness of water fluoridation systems of small rural communities.
+&emsp;&emsp;The project established under this subsection shall be planned, implemented and evaluated over the 5-year period beginning on the date on which funds are appropriated under this section and shall be designed to serve as a model for improving the effectiveness of water fluoridation systems of small rural communities.
 
 #### (3) Evaluation
 

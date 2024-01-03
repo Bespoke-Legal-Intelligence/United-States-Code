@@ -52,13 +52,13 @@ Beginning in fiscal year 2023, the Secretary shall assess and collect fees in ac
 
 #### (ii) Special rule for previously discontinued drug products
 
-&emsp;&emsp;&emsp;If a drug product that is identified in a human drug application approved as of October 1 of a fiscal year is not a prescription drug product as of that date because the drug product is in the discontinued section of a list referenced in section 379g(3)(A)(iii) of this title, and on any subsequent day during such fiscal year the drug product is a prescription drug product, then except as provided in subparagraphs (B) and (C), each person who is named as the applicant in a human drug application with respect to such product, and who, after September1, 1992, had pending before the Secretary a human drug application or supplement, shall pay the annual prescription drug program fee established for a fiscal year under subsection (c)(6) for such prescription drug product. Such fee shall be due on the last business day of such fiscal year and shall be paid only once for each such product for a fiscal year in which the fee is payable.
+&emsp;&emsp;&emsp;If a drug product that is identified in a human drug application approved as of October 1 of a fiscal year is not a prescription drug product as of that date because the drug product is in the discontinued section of a list referenced in section 379g(3)(A)(iii) of this title, and on any subsequent day during such fiscal year the drug product is a prescription drug product, then except as provided in subparagraphs (B) and (C), each person who is named as the applicant in a human drug application with respect to such product, and who, after September 1, 1992, had pending before the Secretary a human drug application or supplement, shall pay the annual prescription drug program fee established for a fiscal year under subsection (c)(6) for such prescription drug product. Such fee shall be due on the last business day of such fiscal year and shall be paid only once for each such product for a fiscal year in which the fee is payable.
 
 #### (B) Exception for certain prescription drug products
 
 &emsp;&emsp;A prescription drug program fee shall not be assessed for a prescription drug product under subparagraph (A) if such product is—
 
-&emsp;&emsp;&emsp;(i) a large volume parenteral product (a sterile aqueous drug product packaged in a single-dose container with a volume greater than or equal to 100 mL, not including powders for reconstitution or pharmacy bulk packages) identified on the list compiled under section 355(j)(7) of this title;
+&emsp;&emsp;&emsp;(i) a large volume parenteral product (a sterile aqueous drug product packaged in a single-dose container with a volume greater than or equal to 100 mL, not includingpowders for reconstitution or pharmacy bulk packages) identified on the list compiled under section 355(j)(7) of this title;
 
 &emsp;&emsp;&emsp;(ii) pharmaceutically equivalent (as defined in section 314.3 of title 21, Code of Federal Regulations (or any successor regulation)) to another product on the list of products compiled under section 355(j)(7) of this title (not including the discontinued section of such list); or
 
@@ -150,7 +150,7 @@ Beginning in fiscal year 2023, the Secretary shall assess and collect fees in ac
 
 #### (B) Methodology
 
-&emsp;&emsp;For purposes of this paragraph, the Secretary shall employ the capacity planning methodology utilized by the Secretary in setting fees for fiscal year 2021, as described in the notice titled "Prescription Drug User Fee Rates for Fiscal Year 2021" published in the Federal Register on August 3, 2020 (85 Fed. Reg. 46651). The workload categories used in applying such methodology in forecasting shall include only the activities described in that notice and, as feasible, additional activities that are directly related to the direct review of applications and supplements, including additional formal meeting types, the direct review of postmarketing commitments and requirements, the direct review of risk evaluation and mitigation strategies, and the direct review of annual reports for approved prescription drug products. Subject to the exceptions in the preceding sentence, the Secretary shall not include as workload categories in applying such methodology in forecasting any non-core review activities, including those activities that the Secretary referenced for potential future use in such notice but did not utilize in setting fees for fiscal year 2021.
+&emsp;&emsp;For purposes of this paragraph, the Secretary shall employ the capacity planningmethodology utilized by the Secretary in setting fees for fiscal year 2021, as described in the notice titled "Prescription Drug User Fee Rates for Fiscal Year 2021" published in the Federal Register on August 3, 2020 (85 Fed. Reg. 46651). The workload categories used in applying such methodology in forecasting shall include only the activities described in that notice and, as feasible, additional activities that are directly related to the direct review of applications and supplements, including additional formal meeting types, the direct review of postmarketing commitments and requirements, the direct review of risk evaluation and mitigation strategies, and the direct review of annual reports for approved prescription drug products. Subject to the exceptions in the preceding sentence, the Secretary shall not include as workload categories in applying such methodology in forecasting any non-core review activities, including those activities that the Secretary referenced for potential future use in such notice but did not utilize in setting fees for fiscal year 2021.
 
 #### (C) Limitation
 
@@ -212,7 +212,7 @@ Beginning in fiscal year 2023, the Secretary shall assess and collect fees in ac
 
 #### (7) Limit
 
-&emsp;The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscalyear for the resources allocated for the process for the review of human drug applications.
+&emsp;The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of human drug applications.
 
 #### (d) Fee waiver or reduction
 
@@ -276,7 +276,7 @@ A human drug application or supplement submitted by a person subject to fees und
 
 &emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2023, to defray increases in the costs of the resources allocated for the process for the review of human drug applications (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 1997 multiplied by the adjustment factor; and
 
-&emsp;&emsp;&emsp;&emsp;(II) for fiscal year 2024 and each subsequent fiscal year, to defray the costs of the resources allocated for the process for the review of human drug applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the sum of the amounts allocated by the Secretary for such costs, excluding costs paid from fees collected under this section, plus other costs for the maintenance, renovation,and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture, and other necessary materials and supplies in connection with the process for the review of human drug applications, is no less than the amount allocated for such costs, excluding any such costs paid from fees collected under this section, for fiscal year 1997, multiplied by the adjustment factor.
+&emsp;&emsp;&emsp;&emsp;(II) for fiscal year 2024 and each subsequent fiscal year, to defray the costs of the resources allocated for the process for the review of human drug applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the sum of the amounts allocated by the Secretary for such costs, excluding costs paid from fees collected under this section, plus other costs for the maintenance, renovation, and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture, and other necessary materials and supplies in connection with the process for the review of human drug applications, is no less than the amount allocated for such costs, excluding any such costs paid from fees collected under this section, for fiscal year 1997, multiplied by the adjustment factor.
 
 #### (B) Compliance
 
@@ -344,7 +344,7 @@ Section 357 of this title, referred to in subsec. (a)(2)(B)(iii), was repealed b
 
 The Drug Price Competition and Patent Term Restoration Act of 1984, referred to in subsec. (a)(2)(B)(iv), is Pub. L. 98–417, Sept. 24, 1984, 98 Stat. 1585. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 301 of this title and Tables.
 
-Section 101(b) of the Prescription Drug User Fee Amendments of 2017, referred to in subsec.\(c)(2)(B)(ii)(III), is section 101(b) of Pub. L. 115–52, set out as a note under section 379g of this title.
+Section 101(b) of the Prescription Drug User Fee Amendments of 2017, referred to in subsec. (c)(2)(B)(ii)(III), is section 101(b) of Pub. L. 115–52, set out as a note under section 379g of this title.
 
 #### Amendments
 
@@ -420,7 +420,7 @@ Subsec. (a)(1)(F). Pub. L. 115–52, §102(a)(1)(F), struck out "or indication" 
 
 Subsec. (a)(2). Pub. L. 115–52, §102(a)(1)(G)–(I), redesignated par. (3) as (2), substituted "Prescription drug program fee" for "Prescription drug product fee" in heading, and struck out former par. (2) which related to prescription drug establishment fee.
 
-Subsec. (a)(2)(A). Pub. L. 115–52, §102(a)(1)(J), substituted "Except as provided in subparagraphs (B) and (C), each person who is named as the applicant in a human drug application, and who, after September 1, 1992, had pending before the Secretary a human drug application or supplement, shall pay the annual prescription drug program fee established for a fiscal year under subsection (c)(5) for each prescription drug product that is identified in such a human drug application approved as of October 1 of such fiscal year." for "Except as provided in subparagraph (B), each person who is named as the applicant in a human drug application, and who, after September 1, 1992, had pending beforethe Secretary a human drug application or supplement, shall pay for each such prescription drug product the annual fee established under subsection (c)(4)."
+Subsec. (a)(2)(A). Pub. L. 115–52, §102(a)(1)(J), substituted "Except as provided in subparagraphs (B) and (C), each person who is named as the applicant in a human drug application, and who, after September 1, 1992, had pending before the Secretary a human drug application or supplement, shall pay the annual prescription drug program fee established for a fiscal year under subsection (c)(5) for each prescription drug product that is identified in such a human drug application approved as of October 1 of such fiscal year." for "Except as provided in subparagraph (B), each person who is named as the applicant in a human drug application, and who, after September 1, 1992, had pending before the Secretary a human drug application or supplement, shall pay for each such prescription drug product the annual fee established under subsection (c)(4)."
 
 Subsec. (a)(2)(B). Pub. L. 115–52, §102(a)(1)(K), inserted "for certain prescription drug products" after "Exception" in heading and substituted "A prescription drug program fee shall not be assessed for a prescription drug product" for "A prescription drug product shall not be assessed a fee" in introductory provisions.
 
@@ -490,7 +490,7 @@ Subsec. (g)(4). Pub. L. 112–144, §103(4)(D), substituted "fiscal years 2013 t
 
 Subsec. (a)(1)(A). Pub. L. 110–85, §103(g), substituted "(c)(5)" for "(c)(4)" in cls. (i) and (ii).
 
-Subsec. (a)(1)(D). Pub. L. 110–85, §103(a)(2)(A), inserted "or withdrawn before filing" after "refused for filing"in heading and "or withdrawn without a waiver before filing" before period at end of text.
+Subsec. (a)(1)(D). Pub. L. 110–85, §103(a)(2)(A), inserted "or withdrawn before filing" after "refused for filing" in heading and "or withdrawn without a waiver before filing" before period at end of text.
 
 Subsec. (a)(1)(E) to (G). Pub. L. 110–85, §103(a)(2)(B), (C), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
@@ -552,13 +552,13 @@ Subsec. (a)(3)(A). Pub. L. 107–188, §504(a)(4)(A), amended heading and text o
 
 &emsp;"(ii) who, after September 1, 1992, had pending before the Secretary a human drug application or supplement,
 
-> shall pay for each such prescription drug product the annual fee established in subsection (b) of this section. Such fee shall be payable for the fiscal year in which the product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be payable on or before January 31 of each year. Such fee shall be paid only once foreach product for a fiscal year in which the fee is payable."
+> shall pay for each such prescription drug product the annual fee established in subsection (b) of this section. Such fee shall be payable for the fiscal year in which the product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be payable on or before January 31 of each year. Such fee shall be paid only once for each product for a fiscal year in which the fee is payable."
 
 Subsec. (a)(3)(B). Pub. L. 107–188, §504(a)(4)(B), substituted "A prescription drug product shall not be assessed a fee under subparagraph (A) if such product is identified on the list compiled under section 355(j)(7)(A) of this title with a potency described in terms of per 100 mL, or if such product is the same product as another product approved under an application filed under section 355(b)" for "The listing of a prescription drug product under section 360 of this title shall not require the person who listed such product to pay the fee prescribed by subparagraph (A) if such product is the same product as a product approved under an application filed under section 355(b)(2)".
 
 Subsec. (b). Pub. L. 107–188, §504(b), amended heading and text of subsec. (b) generally, substituting "Fee revenue amounts" for "Fee amounts" in heading and substituting fee schedules for fiscal years 2003 to 2007 for fee provisions relating to fiscal years 1998 to 2002.
 
-Subsec. (c)(1). Pub. L. 107–188, §504(c)(1)(A), (D), substituted "revenues" for "fees and total fee revenues" in introductory provisions and "fiscal year 2003" for "fiscal year 1997" in concluding provisions.
+Subsec. (c)(1). Pub. L. 107–188, §504(c)(1)(A), (D), substituted "revenues" for "fees and total fee revenues" inintroductory provisions and "fiscal year 2003" for "fiscal year 1997" in concluding provisions.
 
 Subsec. (c)(1)(A). Pub. L. 107–188, §504(c)(1)(B), struck out "during the preceding fiscal year" before "in the Consumer Price Index" and substituted "for the 12 month period ending June 30 preceding the fiscal year for which fees are being established, or" for ", or".
 
@@ -628,7 +628,7 @@ Subsec. (b). Pub. L. 105–115, §103(b), amended subsec. (b) generally. Prior t
 
 Subsec. (c). Pub. L. 105–115, §103(c)(1), substituted "Adjustments" for "Increases and adjustments" in heading.
 
-Subsec. (c)(1). Pub. L. 105–115, §103(c)(2), substituted "Inflation adjustment" for "Revenue increase" in heading, "The fees and total fee revenues established in subsection (b) shall be adjusted by the Secretary" for "The total fee revenues established by the schedule in subsection (b)(1) shall be increased by the Secretary" in introductory provisions, and "change" for "increase" after "total percentage" in subpars. (A) and (B), and inserted at end "The adjustment made each fiscal year by this subsection will be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 1997 under this subsection."
+Subsec. (c)(1). Pub. L. 105–115, §103(c)(2), substituted "Inflation adjustment" for "Revenue increase" in heading, "The fees and total fee revenues established in subsection (b) shall be adjusted by the Secretary" for "The total fee revenues established by the schedule in subsection (b)(1) shall be increased by the Secretary"in introductory provisions, and "change" for "increase" after "total percentage" in subpars. (A) and (B), and inserted at end "The adjustment made each fiscal year by this subsection will be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 1997 under this subsection."
 
 Subsec. (c)(2). Pub. L. 105–115, §103(c)(3), substituted "September 30, 1997, adjust the establishment and product fees described in subsection (b) for the fiscal year in which the adjustment occurs so that the revenues collected from each of the categories of fees described in paragraphs (2) and (3) of subsection (b) shall be set to be equal to the revenues collected from the category of application and supplement fees described in paragraph (1) of subsection (b)." for "October 1, 1992, adjust the fees established by the schedule in subsection (b)(1) for the following fiscal year to achieve the total fee revenues, as may be increased under paragraph (1). Such fees shall be adjusted under this paragraph to maintain the proportions established in such schedule."
 
@@ -694,7 +694,7 @@ Section ceases to be effective Oct. 1, 2027, see section 1005(a) of Pub. L. 117�
 
 #### Special Rule for Waivers and Refunds
 
-Pub. L. 105–115, title I, §103(h), Nov. 21, 1997, 111 Stat. 2304, provided that: "Any requests for waivers or refunds for fees assessed under section 736 of the Federal Food, Drug, and Cosmetic Act (42 U.S.C. 379h) prior to the date of enactment of this Act \[Nov. 21, 1997\] shall be submitted in writing to the Secretary of Health and Human Services within 1 year after the date of enactment of this Act. Any requests for waivers or refunds pertaining to a fee for a human drug application or supplement accepted for filing prior to October 1, 1997 or to a product or establishment fee required by such Act for a fiscal year prior to fiscal year 1998, shall be evaluated according to the terms of the Prescription Drug User Fee Act of 1992 \[see section 101(a) of Pub. L. 102–571, set out as a Short Title of 1992 Amendment note under section 301 of this title\] (as in effect on September 30, 1997)and part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379g et seq.\] (as in effect on September 30, 1997). The term 'person' in such Acts shall continue to include an affiliate thereof."
+Pub. L. 105–115, title I, §103(h), Nov. 21, 1997, 111 Stat. 2304, provided that: "Any requests for waivers or refunds for fees assessed under section 736 of the Federal Food, Drug, and Cosmetic Act (42 U.S.C. 379h) prior to the date of enactment of this Act \[Nov. 21, 1997\] shall be submitted in writing to the Secretary of Health and Human Services within 1 year after the date of enactment of this Act. Any requests for waivers or refunds pertaining to a fee for a human drug application or supplement accepted for filing prior to October 1, 1997 or to a product or establishment fee required by such Act for a fiscal year prior to fiscal year 1998, shall be evaluated according to the terms of the Prescription Drug User Fee Act of 1992 \[see section 101(a) of Pub. L. 102–571, set out as a Short Title of 1992 Amendment note under section 301 of this title\] (as in effect on September 30, 1997) and part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379g et seq.\] (as in effect on September 30, 1997). The term 'person' in such Acts shall continue to include an affiliate thereof."
 
 <i><sup>1</sup></i><i> So in original. The word "of" probably should not appear. See sections 379j–42(c)(2)(D) and 379j–52(c)(3)(D) of this title.</i>
 

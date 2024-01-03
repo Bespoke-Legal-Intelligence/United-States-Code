@@ -216,7 +216,7 @@ Pub. L. 100–408, §20, Aug. 20, 1988, 102 Stat. 1084, provided that:
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–604, title II, §208, Nov. 8, 1978, 92 Stat. 3041, provided that: "Except as otherwise provided in this title \[see section 202(b) of Pub. L. 95–604, set out as an Effective Date note under section 2113 of this title\] the amendments made by this title \[enacting sections 2022 and 2114 of this title, amending this section and sections 2021, 2111, and 2201 of this title, and enacting provisions set out as notes under sections 2021 and 2113 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 8, 1978\]."
+Pub. L. 95–604, title II, §208, Nov. 8, 1978, 92 Stat. 3041, provided that: "Except as otherwise provided in thistitle \[see section 202(b) of Pub. L. 95–604, set out as an Effective Date note under section 2113 of this title\] the amendments made by this title \[enacting sections 2022 and 2114 of this title, amending this section and sections 2021, 2111, and 2201 of this title, and enacting provisions set out as notes under sections 2021 and 2113 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 8, 1978\]."
 
 #### Transfer of Functions
 

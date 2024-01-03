@@ -34,7 +34,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) The requirement to report immediately, and in no case later than 24 hours after receiving, information on children who have been identified as being a victim of a severe form of trafficking in persons to law enforcement authorities under paragraph (34)(A) of section 471(a) of the Social Security Act (42 U.S.C. 671(a)).
 
-&emsp;&emsp;&emsp;(ii) The requirement to report immediately, and in no case later than 24 hours after receiving, information on missing or abducted children to law enforcement authorities, including children classified as "runaways", for entry into the NationalCrime Information Center (NCIC) database of the Federal Bureau of Investigation, and to the National Center for Missing and Exploited Children, under paragraph (35)(B) of such section \[42 U.S.C. 671(a)(35)(B)\].
+&emsp;&emsp;&emsp;(ii) The requirement to report immediately, and in no case later than 24 hours after receiving, information on missing or abducted children to law enforcement authorities, including children classified as "runaways", for entry into the National Crime Information Center (NCIC) database of the Federal Bureau of Investigation, and to the National Center for Missing and Exploited Children, under paragraph (35)(B) of such section \[42 U.S.C. 671(a)(35)(B)\].
 
 &emsp;&emsp;&emsp;(iii) The requirement to report to the Secretary of Health and Human Services the total number of children who are victims of child human trafficking under paragraph (34)(B) of such section \[42 U.S.C. 671(a)(34)(B)\].
 
@@ -56,5 +56,5 @@ In this section:
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(2)(C), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part E of title IV of the Act is classified generally to part E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(C), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620.Part E of title IV of the Act is classified generally to part E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

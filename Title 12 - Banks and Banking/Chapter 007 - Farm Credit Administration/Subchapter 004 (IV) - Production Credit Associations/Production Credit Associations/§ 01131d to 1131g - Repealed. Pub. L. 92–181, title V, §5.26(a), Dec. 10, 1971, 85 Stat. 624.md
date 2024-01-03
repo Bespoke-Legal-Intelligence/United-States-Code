@@ -4,7 +4,7 @@ Section 1131d, acts June 16, 1933, ch. 98, title II, §20, 48 Stat. 259; July 26
 
 Section 1131e, acts June 16, 1933, ch. 98, title II, §21, 48 Stat. 260; Aug. 11, 1955, ch. 785, title II, §201, 69 Stat. 663; July 26, 1956, ch. 741, title I, §105(g), 70 Stat. 665, provided for capital stock of production credit associations and its value, classes, voting rights, limitations on transfer, exchange, and dividends. See section 2094 of this title.
 
-Section 1131e–1, acts Aug. 6, 1953, ch. 335, §16, 67 Stat. 399; July 26, 1956, ch. 741, title I, §107(b), 70 Stat. 666; Oct. 17, 1968, Pub. L. 90–582, §2(b), 82 Stat. 1145, provided for issuance of class C stock for production credit associations and conditions, privileges, restrictions, limitations, and qualifications placed on such stock.
+Section 1131e–1, acts Aug. 6, 1953, ch. 335, §16, 67 Stat. 399; July 26, 1956, ch. 741, title I, §107(b), 70 Stat. 666; Oct. 17, 1968, Pub. L. 90–582, §2(b), 82 Stat. 1145, providedfor issuance of class C stock for production credit associations and conditions, privileges, restrictions, limitations, and qualifications placed on such stock.
 
 Section 1131f, acts June 16, 1933, ch. 98, title II, §22, 48 Stat. 261; Aug. 11, 1955, ch. 785, title II, §202, 69 Stat. 663; July 26, 1956, ch. 741, title I, §105(h), 70 Stat. 665; Oct. 3, 1961, Pub. L. 87–343, §2(2), 75 Stat. 758; Oct. 4, 1965, Pub. L. 89–237, §2(a), 78 Stat. 924, covered application of earnings of production credit associations and restoration of capital, impairment, surplus account, distribution of earnings, and allocation on a patronage basis. See section 2095 of this title.
 

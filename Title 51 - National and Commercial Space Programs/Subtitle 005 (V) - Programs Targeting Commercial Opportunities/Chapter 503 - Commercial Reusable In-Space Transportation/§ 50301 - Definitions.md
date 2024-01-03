@@ -12,7 +12,7 @@ In-space transportation services.—The term "in-space transportation services" 
 
 &emsp;(3)
 
-In-space transportation system.—The term "in-space transportation system" means the space and ground elements, including in-space transportation vehicles and support space systems, and ground administration and control facilities and associated equipment, necessary for the provision of in-space transportation services.
+In-space transportation system.—The term "in-space transportation system" means the space and ground elements, including in-space transportation vehicles and supportspace systems, and ground administration and control facilities and associated equipment, necessary for the provision of in-space transportation services.
 
 &emsp;(4)
 

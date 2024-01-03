@@ -60,7 +60,7 @@ From funds made available under section 6332(a) of this title the Secretary is a
 
 #### (III) Number of pupils
 
-&emsp;&emsp;&emsp;&emsp;In determining the number of pupils under this paragraph served by each local educational agency and in each State, the Secretary shall multiply thenumber of children counted under section 6333(c) of this title by a factor of 1.4.
+&emsp;&emsp;&emsp;&emsp;In determining the number of pupils under this paragraph served by each local educational agency and in each State, the Secretary shall multiply the number of children counted under section 6333(c) of this title by a factor of 1.4.
 
 #### (IV) Enrollment requirement
 
@@ -134,7 +134,7 @@ Funds received by States under this section shall be allocated within States to 
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of children determined under section 6333(c) of this title for that local educational agency who constitute not more than 15.58 percent, inclusive, of the agency's total population aged 5 to 17, inclusive, multiplied by 1.0;
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of such children who constitute more than 15.58 percent, butnot more than 22.11 percent, of such population, multiplied by 1.75;
+&emsp;&emsp;&emsp;&emsp;(II) the number of such children who constitute more than 15.58 percent, but not more than 22.11 percent, of such population, multiplied by 1.75;
 
 &emsp;&emsp;&emsp;&emsp;(III) the number of such children who constitute more than 22.11 percent, but not more than 30.16 percent, of such population, multiplied by 2.5;
 

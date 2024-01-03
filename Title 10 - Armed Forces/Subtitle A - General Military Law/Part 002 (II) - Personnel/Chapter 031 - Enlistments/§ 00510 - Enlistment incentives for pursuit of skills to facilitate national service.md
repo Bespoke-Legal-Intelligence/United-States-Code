@@ -6,7 +6,7 @@ Enlistment Incentive Program.—The Secretary of Defense shall carry out an enli
 
 (b)
 
-National Call to Service Participant.—In this section, the term "National Call to Service participant" means a person who has not previously served in the armed forces who enters into an original enlistment pursuant to a written agreement with the Secretary of a military department (in such form and manner as may be prescribed by that Secretary) under which theperson agrees to perform a period of national service as specified in subsection (c).
+National Call to Service Participant.—In this section, the term "National Call to Service participant" means a person who has not previously served in the armed forces who enters into an original enlistment pursuant to a written agreement with the Secretary of a military department (in such form and manner as may be prescribed by that Secretary) under which the person agrees to perform a period of national service as specified in subsection (c).
 
 (c)
 
@@ -14,7 +14,7 @@ National Service.—The total period of national service to which a National Cal
 
 &emsp;(1) upon completion of initial entry training (as prescribed by the Secretary of Defense), serve on active duty in a military occupational specialty designated by the Secretary of Defense under subsection (d) for a period of 15 months;
 
-&emsp;(2) upon completion of the period of active duty specified in paragraph (1) and without a break in service, serve either (A) an additional period of active duty as determined by the Secretary of Defense, or (B) a period of 24 months in an active status in the Selected Reserve; and
+&emsp;(2) upon completion of the period of active duty specified in paragraph (1) and without a break in service, serve either (A) an additional period of active duty as determined by the Secretary of Defense, or (B) a period of 24 months in an active status in the Selected Reserve or the Space Force; and
 
 &emsp;(3) upon completion of the period of service specified in paragraph (2), and without a break in service, serve the remaining period of obligated service specified in the agreement—
 
@@ -24,9 +24,11 @@ National Service.—The total period of national service to which a National Cal
 
 &emsp;&emsp;(C) in the Individual Ready Reserve;
 
-&emsp;&emsp;(D) in Americorps or another domestic national service program jointly designated by the Secretary of Defense and the head of such program for purposes of this section; or
+&emsp;&emsp;(D) in the Space Force;
 
-&emsp;&emsp;(E) in any combination of service referred to in subparagraphs (A) through (D) that is approved by the Secretary of the military department concerned pursuant to regulations prescribed by the Secretary of Defense and specified in the agreement.
+&emsp;&emsp;(E) in Americorps or another domestic national service program jointly designated by the Secretary of Defense and the head of such program for purposes of this section; or
+
+&emsp;&emsp;(F) in any combination of service referred to in subparagraphs (A) through (E) that is approved by the Secretary of the military department concerned pursuant to regulations prescribed by the Secretary of Defense and specified in the agreement.
 
 (d)
 
@@ -62,11 +64,11 @@ Payment of Bonus Amounts.—(1) Payment to a National Call to Service participan
 
 Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph (B), a National Call to Service participant who elects an incentive under paragraph (3) or (4) of subsection (e) is not entitled to additional educational assistance under chapter 1606 of this title or to basic educational assistance under subchapter II of chapter 30 of title 38.
 
-(B) If a National Call to Service participant meets all eligibility requirements specified in chapter 1606 of this title or chapter 30 of title 38 for entitlement to allowances for educational assistance under either such chapter, the participant may become eligible for allowances for educational assistance benefits under either such chapter up to the maximum allowance provided less the total amount of allowance paid under paragraph (3) or (4) of subsection (e).
+(B) If a National Call to Service participant meets all eligibility requirements specified inchapter 1606 of this title or chapter 30 of title 38 for entitlement to allowances for educational assistance under either such chapter, the participant may become eligible for allowances for educational assistance benefits under either such chapter up to the maximum allowance provided less the total amount of allowance paid under paragraph (3) or (4) of subsection (e).
 
 (2)(A) Educational assistance under paragraphs (3) or (4) of subsection (e) shall be provided through the Department of Veterans Affairs under an agreement to be entered into by the Secretary of Defense and the Secretary of Veterans Affairs. The agreements shall include administrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Secretary of Veterans Affairs for the making of payments under this section.
 
-(B) Except as otherwise provided in this section, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II <sup>1</sup> of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term "eligible veteran" and the term "person", as used in those provisions, shall be deemed for the purpose of the application of those provisions to this section torefer to a person eligible for educational assistance under paragraph (3) or (4) of subsection (e).
+(B) Except as otherwise provided in this section, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II <sup>1</sup> of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term "eligible veteran" and the term "person", as used in those provisions, shall be deemed for the purpose of the application of those provisions to this section to refer to a person eligible for educational assistance under paragraph (3) or (4) of subsection (e).
 
 (3)(A) Except as provided in paragraph (1), nothing in this section shall prohibit a National Call to Service participant who satisfies through service under subsection (c) the eligibility requirements for educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38 from an entitlement to such educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38, as the case may be.
 
@@ -98,7 +100,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "Secretary of a military department" includes, with respect to matters concerning the Coast Guard when it is not operating as a service in the Navy, the Secretary of the Department in which the Coast Guard is operating.
 
-(Added Pub. L. 107–314, div. A, title V, §531(a)(1), Dec. 2, 2002, 116 Stat. 2541; amended Pub. L. 108–136, div. A, title V, §535(a), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 109–163, div. A, title V, §545, title VI, §687(c)(1), Jan. 6, 2006, 119 Stat. 3254, 3333; Pub. L. 109–364, div. A, title X, §1071(e)(2), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 115–91, div. A, title VI, §618(a)(1)(A), Dec. 12, 2017, 131 Stat. 1426.)
+(Added Pub. L. 107–314, div. A, title V, §531(a)(1), Dec. 2, 2002, 116 Stat. 2541; amended Pub. L. 108–136, div. A, title V, §535(a), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 109–163, div. A, title V, §545, title VI, §687(c)(1), Jan. 6, 2006, 119 Stat. 3254, 3333; Pub. L. 109–364, div. A, title X, §1071(e)(2), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 115–91, div. A, title VI, §618(a)(1)(A), Dec. 12, 2017, 131 Stat. 1426; Pub. L. 118–31, div. A, title XVII, §1717(b)(5), Dec. 22, 2023, 137 Stat. 655.)
 
 #### <b>Editorial Notes</b>
 
@@ -113,6 +115,10 @@ The National and Community Service Act of 1990, referred to in subsec. (l)(1), i
 A prior section 510 was renumbered section 12102 of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c)(2). Pub. L. 118–31, §1717(b)(5)(A), inserted "or the Space Force" after "Selected Reserve".
+
+Subsec. (c)(3)(D) to (F). Pub. L. 118–31, §1717(b)(5)(B), added subpar. (D), redesignated former subpars. (D) and (E) as (E) and (F), respectively, and in subpar. (F) substituted "subparagraphs (A) through (E)" for "subparagraphs (A) through (D)".
 
 <b>2017</b>—Subsec. (i). Pub. L. 115–91 inserted "or 373" before "of title 37".
 
@@ -150,11 +156,11 @@ Pub. L. 107–314, div. A, title V, §531(b), Dec. 2, 2002, 116 Stat. 2544, dire
 
 #### Implementation Report
 
-Pub. L. 107–314, div. A, title V, §531(d), Dec. 2, 2002, 116 Stat. 2544, directed the Secretary of Defense to submit to committees of Congress a report on the Secretary's plans for implementation of this section not later than Mar. 31, 2003.
+Pub. L. 107–314, div. A, title V, §531(d), Dec. 2, 2002, 116 Stat. 2544, directed the Secretary of Defense to submit to the Committees on Armed Services of the Senate and House of Representatives, no later than Mar. 31, 2003, a report on the Secretary's plans for implementation of this section.
 
 #### Effectiveness Reports
 
-Pub. L. 107–314, div. A, title V, §531(e), Dec. 2, 2002, 116 Stat. 2545, provided that: "Not later than March 31, 2005, and March 31, 2007, the Secretary of Defense shall submit to the committees specified in subsection (d) reports on the effectiveness of the program under section 510 of title 10, United States Code, as added by subsection (a), in attracting new recruits to national service."
+Pub. L. 107–314, div. A, title V, §531(e), Dec. 2, 2002, 116 Stat. 2545, directed the Secretary of Defense to submit to the Committees on Armed Services of the Senate and House of Representatives, no later than Mar. 31, 2005, and Mar. 31, 2007, reports on the effectiveness of the program under this section in attracting new recruits to national service.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

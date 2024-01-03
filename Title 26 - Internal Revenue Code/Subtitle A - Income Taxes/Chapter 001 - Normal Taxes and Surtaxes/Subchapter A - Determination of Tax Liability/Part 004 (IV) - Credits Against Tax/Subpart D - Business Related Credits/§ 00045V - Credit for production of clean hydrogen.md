@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "qualified clean hydrogen" means hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of not greater than 4 kilograms of CO2e per kilogram of hydrogen.
+&emsp;&emsp;The term "qualified clean hydrogen" means hydrogen which is produced through aprocess that results in a lifecycle greenhouse gas emissions rate of not greater than 4 kilograms of CO2e per kilogram of hydrogen.
 
 #### (B) Additional requirements
 
@@ -164,7 +164,7 @@ For purposes of this section—
 
 #### (5) Regulations and guidance
 
-&emsp;The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+&emsp;The Secretary shall issue such regulations or other guidance as the Secretary determinesnecessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 
 #### (f) Regulations
 

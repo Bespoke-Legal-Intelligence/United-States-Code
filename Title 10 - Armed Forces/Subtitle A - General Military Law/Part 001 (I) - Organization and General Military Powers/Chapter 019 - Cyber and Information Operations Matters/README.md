@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [391\.](%C2%A7%2000391%20-%20Reporting%20on%20cyber%20incidents%20with%20respect%20to%20networks%20and%20information%20systems%20of%20operationally%20critical%20contractors%20and%20certain%20other%E2%80%A6.md) | Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors and certain other contractors. |
 | [391a.](%C2%A7%2000391a%20-%20Annual%20reports%20on%20support%20by%20military%20departments%20for%20United%20States%20Cyber%20Command.md) | Annual reports on support by military departments for United States Cyber Command. |
+| [391b.](%C2%A7%2000391b%20-%20Strategic%20cybersecurity%20program.md) | Strategic cybersecurity program. |
 | [392\.](%C2%A7%2000392%20-%20Executive%20agents%20for%20cyber%20test%20and%20training%20ranges.md) | Executive agents for cyber test and training ranges. |
 | [392a.](%C2%A7%2000392a%20-%20Principal%20Cyber%20Advisors.md) | Principal Cyber Advisors. |
 | [393\.](%C2%A7%2000393%20-%20Reporting%20on%20penetrations%20of%20networks%20and%20information%20systems%20of%20certain%20contractors.md) | Reporting on penetrations of networks and information systems of certain contractors. |
@@ -11,13 +12,8 @@
 | [395\.](%C2%A7%2000395%20-%20Notification%20requirements%20for%20sensitive%20military%20cyber%20operations.md) | Notification requirements for sensitive military cyber operations. |
 | [396\.](%C2%A7%2000396%20-%20Notification%20requirements%20for%20cyber%20weapons.md) | Notification requirements for cyber weapons. |
 | [397\.](%C2%A7%2000397%20-%20Principal%20Information%20Operations%20Advisor.md) | Principal Information Operations Advisor. |
-| 398\.<sup>1</sup> | Military information support operations in information environment. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 398\.<sup>1</sup> | Pilot program for sharing cyber capabilities and related information with foreign operational partners. |
+| [398\.](%C2%A7%2000398%20-%20Military%20information%20support%20operations%20in%20information%20environment.md) | Military information support operations in information environment. |
+| [398a.](%C2%A7%2000398a%20-%20Pilot%20program%20for%20sharing%20cyber%20capabilities%20and%20related%20information%20with%20foreign%20operational%20partners.md) | Pilot program for sharing cyber capabilities and related information with foreign operational partners. |
 | [399\.](%C2%A7%2000399%20-%20Notifications%20relating%20to%20military%20operations%20in%20the%20information%20environment%20requirement%20to%20notify%20Chief%20of%20Mission.md) | Notifications relating to military operations in the information environment: requirement to notify Chief of Mission. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,9 +22,11 @@
 
 #### Amendments
 
+<b>2023</b>—Pub. L. 118–31, div. A, title XV, §§1501(1), 1502(a)(1), title XVIII, §1801(a)(6), Dec. 22, 2023, 137 Stat. 533, 683, added item 391b and made identical amendments redesignating item 398 "Pilot program for sharing cyber capabilities and related information with foreign operational partners" as 398a. Amendments were made pursuant to operation of section 102 of this title.
+
 <b>2022</b>—Pub. L. 117–263, div. A, title X, §1052(b), title XV, §§1501(b)(1), 1502(a), 1521, 1551(b), Dec. 23, 2022, 136 Stat. 2777, 2877, 2879, 2897, 2919, added items 391a, 392a, and 399 and two items 398.
 
-<b>2019</b>—Pub. L. 116–92, div. A, title XVI, §1631(a)(2)(A), Dec. 20, 2019, 133 Stat. 1742, substituted "CYBER ANDINFORMATION OPERATIONS MATTERS" for "CYBER MATTERS" in chapter heading and added item 397.
+<b>2019</b>—Pub. L. 116–92, div. A, title XVI, §1631(a)(2)(A), Dec. 20, 2019, 133 Stat. 1742, substituted "CYBER AND INFORMATION OPERATIONS MATTERS" for "CYBER MATTERS" in chapter heading and added item 397.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title XVI, §1631(c)(2), Aug. 13, 2018, 132 Stat. 2123, added items 394 to 396.
 
@@ -168,8 +166,6 @@ Report.—Not later than 180 days after the date of the enactment of this Act, t
 
 Briefing.—Not later than 30 days after the date on which the Under Secretary of Defense for Intelligence and Security and the Under Secretary of Defense for Policy submit the report under subsection (b), the Under Secretaries, in coordination with the Commander of the United States Cyber Command, the Director of the Defense Security Cooperation Agency, and the Director of the Defense Intelligence Agency, shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the findings from the report on enhancing training and coordination to advance cyberspace security cooperation described in such subsection. Such briefing shall include a discussion on the enhanced training meeting the elements under subsection (a)(3) and a plan for future updates and sustainment of such training."
 
-<i><sup>1</sup></i><i> So in original. Two sections 398 have been enacted.</i>
-
 
 ---
 
@@ -177,6 +173,7 @@ Briefing.—Not later than 30 days after the date on which the Under Secretary o
 
 - [&sect; 00391 - Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors and certain other&#8230;](%C2%A7%2000391%20-%20Reporting%20on%20cyber%20incidents%20with%20respect%20to%20networks%20and%20information%20systems%20of%20operationally%20critical%20contractors%20and%20certain%20other%E2%80%A6.md)
 - [&sect; 00391a - Annual reports on support by military departments for United States Cyber Command](%C2%A7%2000391a%20-%20Annual%20reports%20on%20support%20by%20military%20departments%20for%20United%20States%20Cyber%20Command.md)
+- [&sect; 00391b - Strategic cybersecurity program](%C2%A7%2000391b%20-%20Strategic%20cybersecurity%20program.md)
 - [&sect; 00392 - Executive agents for cyber test and training ranges](%C2%A7%2000392%20-%20Executive%20agents%20for%20cyber%20test%20and%20training%20ranges.md)
 - [&sect; 00392a - Principal Cyber Advisors](%C2%A7%2000392a%20-%20Principal%20Cyber%20Advisors.md)
 - [&sect; 00393 - Reporting on penetrations of networks and information systems of certain contractors](%C2%A7%2000393%20-%20Reporting%20on%20penetrations%20of%20networks%20and%20information%20systems%20of%20certain%20contractors.md)
@@ -184,6 +181,6 @@ Briefing.—Not later than 30 days after the date on which the Under Secretary o
 - [&sect; 00395 - Notification requirements for sensitive military cyber operations](%C2%A7%2000395%20-%20Notification%20requirements%20for%20sensitive%20military%20cyber%20operations.md)
 - [&sect; 00396 - Notification requirements for cyber weapons](%C2%A7%2000396%20-%20Notification%20requirements%20for%20cyber%20weapons.md)
 - [&sect; 00397 - Principal Information Operations Advisor](%C2%A7%2000397%20-%20Principal%20Information%20Operations%20Advisor.md)
-- [&sect; 00398 - 1 Military information support operations in information environment](%C2%A7%2000398%20-%201%20Military%20information%20support%20operations%20in%20information%20environment.md)
-- [&sect; 00398 - 1 Pilot program for sharing cyber capabilities and related information with foreign operational partners](%C2%A7%2000398%20-%201%20Pilot%20program%20for%20sharing%20cyber%20capabilities%20and%20related%20information%20with%20foreign%20operational%20partners.md)
+- [&sect; 00398 - Military information support operations in information environment](%C2%A7%2000398%20-%20Military%20information%20support%20operations%20in%20information%20environment.md)
+- [&sect; 00398a - Pilot program for sharing cyber capabilities and related information with foreign operational partners](%C2%A7%2000398a%20-%20Pilot%20program%20for%20sharing%20cyber%20capabilities%20and%20related%20information%20with%20foreign%20operational%20partners.md)
 - [&sect; 00399 - Notifications relating to military operations in the information environment requirement to notify Chief of Mission](%C2%A7%2000399%20-%20Notifications%20relating%20to%20military%20operations%20in%20the%20information%20environment%20requirement%20to%20notify%20Chief%20of%20Mission.md)

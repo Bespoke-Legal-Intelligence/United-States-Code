@@ -8,9 +8,9 @@ Not later than one year after December 20, 2019, the President, in coordination 
 
 &emsp;(3) Prioritized descriptions of the goals and objectives for stabilizing conflict-affected areas, reducing fragility, and preventing the spread of extremism and violence in each such country.
 
-&emsp;(4) Descriptions of how and when the relevant goals, objectives, plans, and benchmarksfor each such country or region will be incorporated into relevant United States country or regional plans and strategies, including the National Security Strategy of the United States, the Stabilization Assistance Review, Department of State Integrated Country Strategies, USAID Country Development Cooperation Strategies, and Department of Defense Campaign Plans, Operational Plans, and Regional Strategies, as well as any equivalent or successor plans or strategies.
+&emsp;(4) Descriptions of how and when the relevant goals, objectives, plans, and benchmarks for each such country or region will be incorporated into relevant United States country or regional plans and strategies, including the National Security Strategy of the United States, the Stabilization Assistance Review, Department of State Integrated Country Strategies, USAID Country Development Cooperation Strategies, and Department of Defense Campaign Plans, Operational Plans, and Regional Strategies, as well as any equivalent or successor plans or strategies.
 
-&emsp;(5) Interagency plans to ensure that appropriate local actors, including government and civil society entities, have an appropriate ownership stake in developing, implementing, monitoring, and evaluating relevant activities under each such plan.
+&emsp;(5) Interagency plans to ensure that appropriate local actors, including government andcivil society entities, have an appropriate ownership stake in developing, implementing, monitoring, and evaluating relevant activities under each such plan.
 
 &emsp;(6) Interagency plans to integrate existing and planned security assistance and cooperation programs in each such country or region with the strategy, and to mitigate risks associated with such programs, including risks related to corruption, governance, and human rights.
 

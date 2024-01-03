@@ -1,6 +1,6 @@
 ### §3126. Reports concerning pen registers and trap and trace devices
 
-The Attorney General shall annually report to Congress on the number of pen register orders and orders for trap and trace devices applied for by law enforcement agencies of the Department of Justice, which report shall include information concerning—
+The Attorney General shall annually report to Congress on the number of pen register ordersand orders for trap and trace devices applied for by law enforcement agencies of the Department of Justice, which report shall include information concerning—
 
 &emsp;(1) the period of interceptions authorized by the order, and the number and duration of any extensions of the order;
 

@@ -4,7 +4,7 @@
 
 (b) Unless discharged from his appointment as a Reserve, an officer of the Army National Guard of the United States whose Federal recognition as a member of the Army National Guard is withdrawn becomes a member of the Army Reserve. An officer who so becomes a member of the Army Reserve ceases to be a member of the Army National Guard of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 194, §3352; Pub. L. 85–861, §1(80)(A), Sept. 2, 1958, 72 Stat. 1468; Pub. L. 86–559, §1(7), June 30, 1960, 74 Stat. 265; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; renumbered §12213 and amended Pub. L. 103–337, div. A, title XVI, §§1636(a), 1662(c)(3), 1675(b)(2), Oct. 5, 1994, 108 Stat. 2968, 2990, 3017; Pub. L. 104–106, div. A, titleXV, §1501(b)(13)(A), (14), Feb. 10, 1996, 110 Stat. 496.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 194, §3352; Pub. L. 85–861, §1(80)(A), Sept. 2, 1958, 72 Stat. 1468; Pub. L. 86–559, §1(7), June 30, 1960, 74 Stat. 265; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; renumbered §12213 and amended Pub. L. 103–337, div. A, title XVI, §§1636(a), 1662(c)(3), 1675(b)(2), Oct. 5, 1994, 108 Stat. 2968, 2990, 3017; Pub. L. 104–106, div. A, title XV, §1501(b)(13)(A), (14), Feb. 10, 1996, 110 Stat. 496.)
 
 Historical and Revision Notes<br>1956
 
@@ -32,7 +32,7 @@ Act
 
 July 9, 1952, ch. 608, §§706 (less last 15 words of 1st sentence, and less applicability to enlistments), 707 (less applicability to enlistments), 66 Stat. 503.
 
-In subsection (a), the words "at any time", "of any person", and "from the National Guard of the United States or from the Air National Guard of the United States" are omitted as surplusage. The words "highest regular or reserve grade ever held by him in the Army" are substituted for the words "highest permanent grade previously held in the Army or any component thereof", since "permanent" grades are held only in a component and there are no "non-permanent" grades held in a component.
+In subsection (a), the words "at any time", "of any person", and "from the National Guard of the United States or from the Air National Guard of the UnitedStates" are omitted as surplusage. The words "highest regular or reserve grade ever held by him in the Army" are substituted for the words "highest permanent grade previously held in the Army or any component thereof", since "permanent" grades are held only in a component and there are no "non-permanent" grades held in a component.
 
 In subsection (b), the words "appointment as a Reserve" are substituted for the words "appointment or \* \* \* as a Reserve officer or". The words "whose Federal recognition as a member \* \* \* is withdrawn" are substituted for the words "ceases to hold a status as a federally recognized member".
 

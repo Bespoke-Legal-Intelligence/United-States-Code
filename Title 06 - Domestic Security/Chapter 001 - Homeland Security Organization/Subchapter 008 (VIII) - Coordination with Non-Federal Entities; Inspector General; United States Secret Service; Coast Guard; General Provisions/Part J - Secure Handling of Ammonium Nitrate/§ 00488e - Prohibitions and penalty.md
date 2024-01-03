@@ -40,7 +40,7 @@ No civil penalty may be assessed under this part unless the person liable for th
 
 #### (e) Delay in application of prohibition
 
-Paragraphs (1) and (2) of subsection (a) shall apply on and after the date that is 6 monthsafter the date that the Secretary issues a final rule implementing this part.
+Paragraphs (1) and (2) of subsection (a) shall apply on and after the date that is 6 months after the date that the Secretary issues a final rule implementing this part.
 
 (Pub. L. 107–296, title VIII, §899F, as added Pub. L. 110–161, div. E, title V, §563(a), Dec. 26, 2007, 121 Stat. 2088.)
 

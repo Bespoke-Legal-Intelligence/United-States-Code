@@ -16,7 +16,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 &emsp;(D) to administer oaths.
 
-(2) For the purpose of verifying the accuracy of any energy information requested, acquired, or collected by the Federal Energy Administrator, the Federal Energy Administrator, or any officer or employer <sup>2</sup> duly designated by him, upon presenting appropriate credentials and a written notice from the Federal EnergyAdministrator to the owner, operator, or agent in charge, may—
+(2) For the purpose of verifying the accuracy of any energy information requested, acquired, or collected by the Federal Energy Administrator, the Federal Energy Administrator, or any officer or employer <sup>2</sup> duly designated by him, upon presenting appropriate credentials and a written notice from the Federal Energy Administrator to the owner, operator, or agent in charge, may—
 
 &emsp;(A) enter, at reasonable times, any business premise or facility; and
 
@@ -70,7 +70,7 @@ Upon a showing satisfactory to the Federal Energy Administrator by any person th
 
 As used in this section:
 
-&emsp;(1) The term "energy information" includes (A) all information in whatever form on (i) fuel reserves, exploration, extraction, and energy resources (including petrochemical feedstocks) wherever located; (ii) production, distribution, and consumption of energy and fuels wherever carried on; and (B) matters relating to energy and fuels, such as corporatestructure and proprietary relationships, costs, prices, capital investment, and assets, and other matters directly related thereto, wherever they exist.
+&emsp;(1) The term "energy information" includes (A) all information in whatever form on (i) fuel reserves, exploration, extraction, and energy resources (including petrochemical feedstocks) wherever located; (ii) production, distribution, and consumption of energy and fuels wherever carried on; and (B) matters relating to energy and fuels, such as corporate structure and proprietary relationships, costs, prices, capital investment, and assets, and other matters directly related thereto, wherever they exist.
 
 &emsp;(2) The term "person" means any natural person, corporation, partnership, association, consortium, or any entity organized for a common business purpose, wherever situated, domiciled, or doing business, who directly or through other persons subject to their control does business in any part of the United States.
 

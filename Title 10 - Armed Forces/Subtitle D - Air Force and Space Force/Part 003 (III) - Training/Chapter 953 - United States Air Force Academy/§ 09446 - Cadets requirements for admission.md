@@ -8,7 +8,7 @@
 
 (d) To be admitted to the Academy, an appointee must take and subscribe to an oath prescribed by the Secretary of the Air Force. If a candidate for admission refuses to take and subscribe to the prescribed oath, his appointment is terminated.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 565, §9346; Pub. L. 89–718, §47, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 104–201, div. A, title V, §555(d), Sept. 23, 1996, 110 Stat. 2527; renumbered §9446, Pub. L. 115–232, div.A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 565, §9346; Pub. L. 89–718, §47, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 104–201, div. A, title V, §555(d), Sept. 23, 1996, 110 Stat. 2527; renumbered §9446, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
 
 Historical and Revision Notes
 

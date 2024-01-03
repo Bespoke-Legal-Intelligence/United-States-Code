@@ -52,7 +52,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (c), is 
 
 #### Short Title
 
-For short title of this subchapter as the "Syria Human Rights Accountability Act of 2012", see section 701 of Pub. L. 112–158, set out as a note under section 8701 of this title.
+For short title of this subchapter as the "Syria Human Rights Accountability Act of 2012", see section701 of Pub. L. 112–158, set out as a note under section 8701 of this title.
 
 #### Caesar Syria Civilian Protection
 
@@ -176,7 +176,7 @@ Immediate effect.—A revocation under subclause (I) shall—
 
 &emsp;"(2)
 
-Penalties.—The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of regulations promulgated under section 7433(b) to carry out paragraph (1)(A) to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
+Penalties.—The penalties provided for in subsections (b) and (c) of section 206 of the InternationalEmergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of regulations promulgated under section 7433(b) to carry out paragraph (1)(A) to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
 
 &emsp;"(3)
 
@@ -476,7 +476,7 @@ Report on Accountability for War Crimes, Crimes Against Humanity, and Genocide i
 
 &emsp;"(1)
 
-In general.—The Secretary of State shall submit a report on war crimes, crimes against humanity, and genocide in Syria to the appropriate congressional committees not later than 90 days after thedate of the enactment of this Act \[Aug. 13, 2018\] and another such report not later than 180 days after the Secretary of State determines that the violence in Syria has ceased.
+In general.—The Secretary of State shall submit a report on war crimes, crimes against humanity, and genocide in Syria to the appropriate congressional committees not later than 90 days after the date of the enactment of this Act \[Aug. 13, 2018\] and another such report not later than 180 days after the Secretary of State determines that the violence in Syria has ceased.
 
 &emsp;"(2)
 

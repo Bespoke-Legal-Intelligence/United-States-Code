@@ -52,11 +52,11 @@ All personnel actions affecting covered employees shall be made free from any di
 
 #### (2) Rule of construction
 
-&emsp;Nothing in paragraph (1) may be construed to extend liability for a violation of subsection (a) to an employing office on the basis of an action taken by any person who is not under the supervision or control of the employing office.
+&emsp;Nothing in paragraph (1) may be construed to extend liability for a violation of subsection\(a) to an employing office on the basis of an action taken by any person who is not under the supervision or control of the employing office.
 
 #### (3) Intern defined
 
-&emsp;For purposes of this subsection, the term "intern" means an individual who performs service for an employing office which is uncompensated by the United States to earn credit awarded by an educational institutionor to learn a trade or occupation, and includes any individual participating in a page program operated by any House of Congress.
+&emsp;For purposes of this subsection, the term "intern" means an individual who performs service for an employing office which is uncompensated by the United States to earn credit awarded by an educational institution or to learn a trade or occupation, and includes any individual participating in a page program operated by any House of Congress.
 
 #### (e) Effective date
 

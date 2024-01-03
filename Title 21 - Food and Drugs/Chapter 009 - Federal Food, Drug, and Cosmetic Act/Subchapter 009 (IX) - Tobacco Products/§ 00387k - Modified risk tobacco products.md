@@ -158,7 +158,7 @@ The Secretary shall make the application described in subsection (d) publicly av
 
 #### (1) Modified risk products
 
-&emsp;The Secretary shall require for the marketing of a product under this section that any advertising or labeling concerning modified risk products enable the public to comprehend the information concerning modifiedrisk and to understand the relative significance of such information in the context of total health and in relation to all of the diseases and health-related conditions associated with the use of tobacco products.
+&emsp;The Secretary shall require for the marketing of a product under this section that any advertising or labeling concerning modified risk products enable the public to comprehend the information concerning modified risk and to understand the relative significance of such information in the context of total health and in relation to all of the diseases and health-related conditions associated with the use of tobacco products.
 
 #### (2) Comparative claims
 
@@ -228,7 +228,7 @@ A product for which the Secretary has issued an order pursuant to subsection (g)
 
 &emsp;Not later than 2 years after June 22, 2009, the Secretary shall issue regulations or guidance (or any combination thereof) on the scientific evidence required for assessment and ongoing review of modified risk tobacco products. Such regulations or guidance shall—
 
-&emsp;&emsp;(A) to the extent that adequate scientific evidence exists, establish minimum standards for scientific studies needed prior to issuing an order under subsection (g) to show that a substantial reduction in morbidity ormortality among individual tobacco users occurs for products described in subsection (g)(1) or is reasonably likely for products described in subsection (g)(2);
+&emsp;&emsp;(A) to the extent that adequate scientific evidence exists, establish minimum standards for scientific studies needed prior to issuing an order under subsection (g) to show that a substantial reduction in morbidity or mortality among individual tobacco users occurs for products described in subsection (g)(1) or is reasonably likely for products described in subsection (g)(2);
 
 &emsp;&emsp;(B) include validated biomarkers, intermediate clinical endpoints, and other feasible outcome measures, as appropriate;
 
@@ -262,5 +262,5 @@ Except as provided in this section, no distributor may take any action, after Ju
 
 #### Modification of Deadlines for Secretarial Action
 
-With respect to any time periods specified in an amendment by div. A of Pub. L. 111–31 that begin on June 22, 2009, within which the Secretary of Health and Human Services is required to carry out and complete specified activities, with certain limitations, the calculation of such time periods shall commence on the first day of the first fiscal quarter following the initial 2 consecutive fiscal quarters of fiscal year 2010 for which the Secretary has collected fees under section 387s of this title, and the Secretary may extend or reduce the duration of one or more such time periods, except that no such period shall be extended for more than 90 days, see section 6 of Pub. L. 111–31, set out as a note under section 387 of this title.
+With respect to any time periods specified in an amendment by div. A of Pub. L. 111–31 that begin on June 22, 2009, within which the Secretary of Health and Human Services is required to carry out and complete specified activities, with certain limitations, the calculation of such time periods shall commence on the first day of the first fiscal quarter following the initial 2 consecutive fiscal quarters of fiscal year 2010 for which the Secretary has collected fees under section387s of this title, and the Secretary may extend or reduce the duration of one or more such time periods, except that no such period shall be extended for more than 90 days, see section 6 of Pub. L. 111–31, set out as a note under section 387 of this title.
 

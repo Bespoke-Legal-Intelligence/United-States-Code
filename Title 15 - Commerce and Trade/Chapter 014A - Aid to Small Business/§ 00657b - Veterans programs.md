@@ -72,7 +72,7 @@ The Associate Administrator—
 
 #### (2) Presentations
 
-&emsp;In carrying out paragraph (1), a Veteran Business Outreach Center may provide grants to entities located in Transition Assistance Program locations to make presentations on the opportunities available from the Administration for recently separating or separatedveterans. Each presentation under this paragraph shall include, at a minimum, a description of the entrepreneurial and business training resources available from the Administration.
+&emsp;In carrying out paragraph (1), a Veteran Business Outreach Center may provide grants to entities located in Transition Assistance Program locations to make presentations on the opportunities available from the Administration for recently separating or separated veterans. Each presentation under this paragraph shall include, at a minimum, a description of the entrepreneurial and business training resources available from the Administration.
 
 #### (3) Written materials
 
@@ -174,7 +174,7 @@ Pub. L. 106–50, title II, §203, Aug. 17, 1999, 113 Stat. 239, as amended by P
 
 "(a)
 
-In General.—There is established an advisory committee to be known as the 'Advisory Committee onVeterans Business Affairs' (in this section referred to as the 'Committee'), which shall serve as an independent source of advice and policy recommendations to—
+In General.—There is established an advisory committee to be known as the 'Advisory Committee on Veterans Business Affairs' (in this section referred to as the 'Committee'), which shall serve as an independent source of advice and policy recommendations to—
 
 &emsp;"(1) the Administrator of the Small Business Administration (in this section referred to as the 'Administrator');
 
@@ -340,7 +340,7 @@ In General.—The Administrator of the Small Business Administration shall enter
 
 "(b)
 
-Resources.—The Administrator shall provide to SCORE such resources as the Administrator determines necessary for SCORE to carry out the requirements of the memorandum of understanding specified in paragraph (1)."
+Resources.—The Administrator shall provide to SCORE such resources as the Administrator determinesnecessary for SCORE to carry out the requirements of the memorandum of understanding specified in paragraph (1)."
 
 #### Entrepreneurial Assistance
 
@@ -406,7 +406,7 @@ Pub. L. 106–50, title I, §103(b), Aug. 17, 1999, 113 Stat. 235, provided that
 
 Ex. Ord. No. 13540, Apr. 26, 2010, 75 F.R. 22497, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 102 of title I of the Military Reservist and Veteran Small Business Reauthorization and Opportunity Act of 2008 (Public Law 110–186) (the "Act"), and in order to establish an interagency task force to coordinate the efforts of Federal agencies to improve capital, business development opportunities, and pre-established Federal contracting goals for small business concerns owned and controlled by veterans and service-disabled veterans, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 102 of title I of the Military Reservist and Veteran Small Business Reauthorization and Opportunity Act of 2008 (Public Law 110–186) (the "Act"), and in order to establish an interagency task force to coordinate the efforts of Federal agencies to improve capital, business development opportunities, and pre-established Federal contracting goals for small business concerns owned and controlled by veteransand service-disabled veterans, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. The Administrator of the Small Business Administration (Administrator) shall establish within the Small Business Administration an Interagency Task Force on Veterans Small Business Development (Task Force).
 
@@ -466,9 +466,11 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Interagency Task Force on Veterans Small Business Development
 
-Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of Interagency Task Force on Veterans Small Business Development were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 

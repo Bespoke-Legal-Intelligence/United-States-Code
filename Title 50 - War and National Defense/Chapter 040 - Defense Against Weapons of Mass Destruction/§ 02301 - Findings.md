@@ -32,7 +32,7 @@ Congress makes the following findings:
 
 &emsp;(15) Facilities required for production of radiological, biological, and chemical weapons are much smaller and harder to detect than nuclear weapons facilities, and biological and chemical weapons can be deployed by alternative delivery means other than long-range ballistic missiles.
 
-&emsp;(16) Covert or unconventional means of delivery of nuclear, radiological, biological, andchemical weapons include cargo ships, passenger aircraft, commercial and private vehicles and vessels, and commercial cargo shipments routed through multiple destinations.
+&emsp;(16) Covert or unconventional means of delivery of nuclear, radiological, biological, and chemical weapons include cargo ships, passenger aircraft, commercial and private vehicles and vessels, and commercial cargo shipments routed through multiple destinations.
 
 &emsp;(17) Traditional arms control efforts assume large state efforts with detectable manufacturing programs and weapons production programs, but are ineffective in monitoring and controlling smaller, though potentially more dangerous, unconventional proliferation efforts.
 
@@ -146,7 +146,7 @@ Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, as amended 
 
 "(a)
 
-Enhanced Response Capability.—In light of the continuing potential for terrorist use of weapons of mass destruction against the United States and the need to develop a more fully coordinated response to that threat on the part of Federal, State, and local agencies, the President shall act to increase the effectiveness at the Federal, State, and local level of the domestic emergency preparedness program for response to terrorist incidents involving weapons of mass destruction by utilizing the President's existing authorities to develop an integrated program that builds upon the program established under the Defense Against Weapons of Mass Destruction Act of 1996 (title XIV of Public Law 104–201; 110 Stat. 2714; 50 U.S.C. 2301 et seq.).
+Enhanced Response Capability.—In light of the continuing potential for terrorist use of weapons of mass destruction against the United States and the need to develop a more fully coordinated response to that threat on the part of Federal, State, and local agencies, the President shall act to increase the effectiveness at the Federal, State, and local level of the domestic emergency preparedness program for response to terrorist incidents involving weapons of mass destruction by utilizing the President's existing authorities to develop an integrated program that builds upon the program established under the Defense AgainstWeapons of Mass Destruction Act of 1996 (title XIV of Public Law 104–201; 110 Stat. 2714; 50 U.S.C. 2301 et seq.).
 
 "(b)
 

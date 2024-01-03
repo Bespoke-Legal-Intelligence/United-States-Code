@@ -16,7 +16,7 @@
 
 #### (4) Rule of construction
 
-&emsp;Nothing in this section shall be construed as transferring the Administration or any of its functions from the Department of Commerceexcept in time of national emergency and to the extent provided in this section.
+&emsp;Nothing in this section shall be construed as transferring the Administration or any of its functions from the Department of Commerce except in time of national emergency and to the extent provided in this section.
 
 #### (b) Limitation on transfer of officers
 

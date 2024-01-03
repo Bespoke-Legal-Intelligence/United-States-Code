@@ -20,7 +20,7 @@ For the purpose of carrying out section 7707 of this title, there are authorized
 
 For the purpose of carrying out section 7708 of this title, there are authorized to be appropriated $4,835,000 for each of fiscal years 2017 through 2019, and $5,210,213 for fiscal year 2020.
 
-(Pub. L. 89–10, title VII, §7014, formerly title VIII, §8014, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3772; amended Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817\], Oct. 30, 2000, 114 Stat. 1654, 1654A–388; Pub. L. 107–110, title VIII, §805, Jan. 8, 2002, 115 Stat. 1956; renumbered title VII, §7014, and amended Pub. L. 114–95, title VII, §§7001(c)(2), (d)(1), (6), 7013, Dec. 10, 2015, 129 Stat. 2074, 2088.)
+(Pub. L. 89–10, title VII, §7014, formerly title VIII, §8014, as added Pub. L. 103–382, title I, §101,Oct. 20, 1994, 108 Stat. 3772; amended Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817\], Oct. 30, 2000, 114 Stat. 1654, 1654A–388; Pub. L. 107–110, title VIII, §805, Jan. 8, 2002, 115 Stat. 1956; renumbered title VII, §7014, and amended Pub. L. 114–95, title VII, §§7001(c)(2), (d)(1), (6), 7013, Dec. 10, 2015, 129 Stat. 2074, 2088.)
 
 #### <b>Editorial Notes</b>
 

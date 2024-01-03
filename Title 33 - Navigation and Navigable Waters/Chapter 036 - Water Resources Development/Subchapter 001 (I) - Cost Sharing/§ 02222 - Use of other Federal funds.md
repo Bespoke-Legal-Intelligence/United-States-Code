@@ -12,7 +12,7 @@ The non-Federal interest for a water resources development study or project, inc
 
 #### Amendments
 
-<b>2022</b>—Pub. L. 117–263 substituted "water resources development study or project, including a study orproject under a continuing authority program (as defined in section 2282d(c)(1)(D) of this title) and a study or project under an environmental infrastructure assistance program," for "water resources study or project" and substituted "if—" and pars. (1) and (2) for "if the Federal agency that provides the funds determines that the funds are authorized to be used to carry out the study or project."
+<b>2022</b>—Pub. L. 117–263 substituted "water resources development study or project, including a study or project under a continuing authority program (as defined in section 2282d(c)(1)(D) of this title) and a study or project under an environmental infrastructure assistance program," for "water resources study or project" and substituted "if—" and pars. (1) and (2) for "if the Federal agency that provides the funds determines that the funds are authorized to be used to carry out the study or project."
 
 #### Codification
 

@@ -10,7 +10,7 @@ The Congress makes the following declarations:
 
 &emsp;(1) The Development Fund for Africa established under chapter 10 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2293 et seq.) has been an effective tool in providing development assistance to sub-Saharan Africa since 1988.
 
-&emsp;(2) The Development Fund for Africa will complement the other provisions of this chapter and lay a foundation for increased trade and investment opportunities between the United States and sub-Saharan Africa.
+&emsp;(2) The Development Fund for Africa will complement the other provisions of this chapter and lay a foundation for increased tradeand investment opportunities between the United States and sub-Saharan Africa.
 
 &emsp;(3) Assistance provided through the Development Fund for Africa will continue to support programs and activities that promote the long term economic development of sub-Saharan Africa, such as programs and activities relating to the following:
 
@@ -42,7 +42,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87
 
 #### Codification
 
-Section is comprised of section 127 of Pub. L. 106–200. Subsec. (c) of section 127 of Pub. L. 106–200 amendedsection 2293 of Title 22, Foreign Relations and Intercourse.
+Section is comprised of section 127 of Pub. L. 106–200. Subsec. (c) of section 127 of Pub. L. 106–200 amended section 2293 of Title 22, Foreign Relations and Intercourse.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

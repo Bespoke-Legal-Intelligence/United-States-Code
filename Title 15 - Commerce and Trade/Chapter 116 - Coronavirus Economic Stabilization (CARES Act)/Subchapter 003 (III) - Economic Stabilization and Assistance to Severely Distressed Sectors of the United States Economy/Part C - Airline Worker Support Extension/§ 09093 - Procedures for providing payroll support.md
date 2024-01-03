@@ -38,7 +38,7 @@ The Secretary shall provide financial assistance under this part—
 
 &emsp;&emsp;&emsp;(i) be, to the maximum extent practicable, in the same form and on the same terms and conditions (including requirements for audits and the clawback of any financial assistance provided upon failure by a passenger air carrier or contractor to honor the assurances specified in section 9094 of this title), as agreed to by the Secretary and the recipient for assistance received under section 9073 of this title, except if inconsistent with this part; or
 
-&emsp;&emsp;&emsp;(ii) in the event such a passenger air carrier or a contractor did not receive assistance under section 9073 of this title, be, to the maximum extent practicable, in the same form and on the same terms and conditions (including requirements for audits and the clawback of any financial assistance provided upon failure by a passenger air carrier or contractor to honor the assurances specified in section 9094 of thistitle), as agreed to by the Secretary and similarly situated recipients of assistance under section 9073 of this title.
+&emsp;&emsp;&emsp;(ii) in the event such a passenger air carrier or a contractor did not receive assistance under section 9073 of this title, be, to the maximum extent practicable, in the same form and on the same terms and conditions (including requirements for audits and the clawback of any financial assistance provided upon failure by a passenger air carrier or contractor to honor the assurances specified in section 9094 of this title), as agreed to by the Secretary and similarly situated recipients of assistance under section 9073 of this title.
 
 #### (B) Procedures
 

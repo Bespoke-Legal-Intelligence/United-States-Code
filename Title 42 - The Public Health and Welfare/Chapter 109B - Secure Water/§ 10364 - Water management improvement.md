@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(F) to assist States and water users in complying with interstate compacts or reducing basin water supply-demand imbalances;
 
-&emsp;&emsp;(G) to achieve the prevention of the decline of species that the United States Fish and Wildlife Service and National Marine Fisheries Service have proposed for listingunder the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) (or candidate species that are being considered by those agencies for such listing but are not yet the subject of a proposed rule);
+&emsp;&emsp;(G) to achieve the prevention of the decline of species that the United States Fish and Wildlife Service and National Marine Fisheries Service have proposed for listing under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) (or candidate species that are being considered by those agencies for such listing but are not yet the subject of a proposed rule);
 
 &emsp;&emsp;(H) to achieve the acceleration of the recovery of threatened species, endangered species, and designated critical habitats that are adversely affected by Federal reclamation projects or are subject to a recovery plan or conservation plan under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) under which the Commissioner of Reclamation has implementation responsibilities;
 
@@ -188,7 +188,7 @@ There is authorized to be appropriated to carry out this section $820,000,000, t
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(1)(G), (H), is Pub. L. 93–205, Dec. 28, 1973, 87Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(1)(G), (H), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 Section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015, referred to in subsec. (e), is section 206 of div. D of Pub. L. 113–235, which is set out as a note under section 620 of Title 43, Public Lands.
 

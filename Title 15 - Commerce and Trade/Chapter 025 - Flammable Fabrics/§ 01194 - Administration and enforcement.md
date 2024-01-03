@@ -2,7 +2,7 @@
 
 #### (a) Enforcement under Federal Trade Commission Act provisions; civil action to enforce standard or regulation
 
-Except as otherwise specifically provided herein, sections 1192, 1194, 1195, and 1197(b) of this title shall be enforced by the Commission under rules, regulations and procedures provided for in the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\]. In the case of an attorney general of a State alleging a violation of a standard or regulation under section 1193 of this title that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce the requirement of such standard or regulation. The procedural requirements of section 2073 of this title shall apply to any such action.
+Except as otherwise specifically provided herein, sections 1192, 1194, 1195, and 1197(b) of thistitle shall be enforced by the Commission under rules, regulations and procedures provided for in the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\]. In the case of an attorney general of a State alleging a violation of a standard or regulation under section 1193 of this title that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce the requirement of such standard or regulation. The procedural requirements of section 2073 of this title shall apply to any such action.
 
 #### (b) Application of Federal Trade Commission Act provisions
 
@@ -34,7 +34,7 @@ The Commission is authorized to—
 
 (B) Not later than December 1, 2011, and December 1 of each fifth calendar year thereafter, the Commission shall prescribe and publish in the Federal Register a schedule of maximum authorized penalties that shall apply for violations that occur after January 1 of the year immediately following such publication.
 
-(C) The schedule of maximum authorized penalties shall be prescribed by increasing each of the amounts referred to in paragraph (1) by thecost-of-living adjustment for the preceding five years. Any increase determined under the preceding sentence shall be rounded to—
+(C) The schedule of maximum authorized penalties shall be prescribed by increasing each of the amounts referred to in paragraph (1) by the cost-of-living adjustment for the preceding five years. Any increase determined under the preceding sentence shall be rounded to—
 
 &emsp;(i) in the case of penalties greater than $1,000 but less than or equal to $10,000, the nearest multiple of $1,000;
 
@@ -52,7 +52,7 @@ The Commission is authorized to—
 
 &emsp;&emsp;(I) the Consumer Price Index for the month of June of the calendar year preceding the adjustment; exceeds
 
-&emsp;&emsp;(II) the Consumer Price Index for the month of June preceding the date on which the maximum authorized penalty was last adjusted.
+&emsp;&emsp;(II) the Consumer Price Index for the month of June preceding the date on whichthe maximum authorized penalty was last adjusted.
 
 (June 30, 1953, ch. 164, §5, 67 Stat. 112; Pub. L. 90–189, §4, Dec. 14, 1967, 81 Stat. 570; Pub. L. 101–608, title I, §§115(c), 118(b), Nov. 16, 1990, 104 Stat. 3120, 3122; Pub. L. 110–314, title II, §217(a)(3), (b)(1)(C), Aug. 14, 2008, 122 Stat. 3058, 3059.)
 

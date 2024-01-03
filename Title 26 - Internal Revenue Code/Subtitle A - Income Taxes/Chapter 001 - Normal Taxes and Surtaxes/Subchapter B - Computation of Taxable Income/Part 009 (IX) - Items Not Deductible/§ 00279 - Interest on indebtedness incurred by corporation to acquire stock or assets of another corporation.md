@@ -22,7 +22,7 @@ For purposes of this section, the term "corporate acquisition indebtedness" mean
 
 &emsp;&emsp;(A) subordinated to the claims of trade creditors of the issuing corporation generally, or
 
-&emsp;&emsp;(B) expressly subordinated in right of payment to the payment of any substantialamount of unsecured indebtedness, whether outstanding or subsequently issued, of the issuing corporation,
+&emsp;&emsp;(B) expressly subordinated in right of payment to the payment of any substantial amount of unsecured indebtedness, whether outstanding or subsequently issued, of the issuing corporation,
 
 &emsp;(3) the bond or other evidence of indebtedness is either—
 
@@ -162,7 +162,7 @@ Subsec. (i). Pub. L. 94–514 struck out provisions that par. (2) would cease to
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title II, §221(a)(47)(B), Dec. 19, 2014, 128 Stat. 4045, provided that: "The amendments made by this paragraph \[amending this section\] shall not—
+Pub. L. 113–295, div. A, title II, §221(a)(47)(B), Dec. 19, 2014, 128 Stat. 4045, provided that: "The amendmentsmade by this paragraph \[amending this section\] shall not—
 
 &emsp;"(i) apply to obligations issued on or before October 9, 1969 (determined in the same manner as under section 279 of the Internal Revenue Code of 1986 as in effect before such amendments), and
 

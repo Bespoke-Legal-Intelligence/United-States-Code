@@ -58,7 +58,7 @@ For purposes of this section, the term "eligible deferred compensation plan" mea
 
 > &emsp;shall remain (until made available to the participant or other beneficiary) solely the property and rights of the employer (without being restricted to the provision of benefits under the plan), subject only to the claims of the employer's general creditors.
 
-> A plan which is established and maintained by an employer which is described in subsection (e)(1)(A) and which is administered in a manner which is inconsistent with the requirements of any of the preceding paragraphs shall be treated as not meeting the requirements of such paragraph as of the 1st plan year beginning more than 180 days after the date of notification by the Secretary of the inconsistency unless the employer corrects the inconsistency before the 1st day of such plan year.
+> A plan which is established and maintained by an employer which is described in subsection (e)(1)(A) and which is administered in a manner which is inconsistent with the requirements of any of the preceding paragraphs shall be treated as not meeting the requirements of such paragraph as of the 1st plan year beginning more than 180 days after the date of notification by the Secretary of the inconsistency unless the employer corrects the inconsistency before the 1st day of such plan year. A plan which is established and maintained by an employer which is described in subsection (e)(1)(A) shall not be treated as failing to meet the requirements of this subsection solely because the plan, or another plan maintained by the employer which meets the requirements of section 401(a) or 403(b), provides for matching contributions on account of qualified student loan payments as described in section 401(m)(13).
 
 #### (c) Limitation
 
@@ -82,7 +82,7 @@ The maximum amount of the compensation of any one individual which may be deferr
 
 &emsp;&emsp;(B) the plan meets the minimum distribution requirements of paragraph (2),
 
-&emsp;&emsp;(C) in the case of a plan maintained by an employer described in subsection (e)(1)(A), the plan meets requirements similar to the requirements of section 401(a)(31), and
+&emsp;&emsp;(C) in the case of a plan maintained by an employer described in subsection (e)(1)(A),the plan meets requirements similar to the requirements of section 401(a)(31), and
 
 &emsp;&emsp;(D) except as may be otherwise provided by regulations, in the case of amounts described in subparagraph (A)(iv), such amounts will be distributed only in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
 
@@ -206,7 +206,7 @@ For purposes of this section—
 
 #### (iv) Special rule for application of limitation on accruals for certain plans
 
-&emsp;&emsp;&emsp;In the case of a plan described in subparagraph (A)(ii) which is a defined benefit plan (as defined in section 414(j)), the limitation under clause (ii) shall apply to the actuarial present value of the aggregate amount of length of service awards accruing with respect to any year of service. Such actuarial present value with respect to any year shall be calculated using reasonable actuarial assumptions and methods, assuming payment will be made under the most valuable form of payment under the plan with payment commencing at the later of the earliest age at which unreduced benefits are payable under the planor the participant's age at the time of the calculation.
+&emsp;&emsp;&emsp;In the case of a plan described in subparagraph (A)(ii) which is a defined benefit plan (as defined in section 414(j)), the limitation under clause (ii) shall apply to the actuarial present value of the aggregate amount of length of service awards accruing with respect to any year of service. Such actuarial present value with respect to any year shall be calculated using reasonable actuarial assumptions and methods, assuming payment will be made under the most valuable form of payment under the plan with payment commencing at the later of the earliest age at which unreduced benefits are payable under the plan or the participant's age at the time of the calculation.
 
 #### (C) Qualified services
 
@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (B) Nonelective deferred compensation
 
-&emsp;&emsp;For purposes of subparagraph (A), deferred compensation shall be treated as nonelective only if all individuals (other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.
+&emsp;&emsp;For purposes of subparagraph (A), deferred compensation shall be treated as nonelectiveonly if all individuals (other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.
 
 #### (13) Special rule for churches
 
@@ -284,7 +284,7 @@ For purposes of this section—
 
 #### (17) Trustee-to-trustee transfers to purchase permissive service credit
 
-&emsp;No amount shall be includible in gross income by reason of a direct trustee-to-trustee transfer to a defined benefit governmentalplan (as defined in section 414(d)) if such transfer is—
+&emsp;No amount shall be includible in gross income by reason of a direct trustee-to-trustee transfer to a defined benefit governmental plan (as defined in section 414(d)) if such transfer is—
 
 &emsp;&emsp;(A) for the purchase of permissive service credit (as defined in section 415(n)(3)(A)) under such plan, or
 
@@ -298,7 +298,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the plan ceiling established for purposes of subsection (b)(2) (without regard to subsection (b)(3)), plus
 
-&emsp;&emsp;&emsp;(ii) the applicable dollar amount for the taxable year determined under section 414(v)(2)(B)(i), or
+&emsp;&emsp;&emsp;(ii) the lesser of any designated Roth contributions made by the participant to the plan or the applicable dollar amount for the taxable year determined under section 414(v)(2)(B)(i), or
 
 &emsp;&emsp;(B) the amount determined under the applicable subsection (without regard to this paragraph).
 
@@ -402,21 +402,13 @@ For purposes of this section—
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 117–328, div. T, title I, §110(f), (h), Dec. 29, 2022, 136 Stat. 5293, provided that, applicable to contributions made for plan years beginning after Dec. 31, 2023, subsection (b) of this section is amended by adding at the end the following: "A plan which is established and maintained by an employer which is described in subsection (e)(1)(A) shall not be treated as failing to meet the requirements of this subsection solely because the plan, or another plan maintained by the employer which meets the requirements of section 401(a) or 403(b), provides for matching contributions on account of qualified student loan payments as described in section 401(m)(13).". See 2022 Amendment note below.</i>
-
 #### Amendment of Subsection (d)(1)(A)
 
-<i>Pub. L. 117–328, div. T, title III, §334(b)(5), (e), Dec. 29, 2022, 136 Stat. 5370, 5372, provided that, applicable to distributions made after the date which is 3 years after Dec. 29, 2022, subsection (d)(1)(A) of this section is amended by striking "or" at the end of clause (iii), by striking the comma at the end of clause (iv) and inserting ", or", and by adding at the end the following new clause:</i>
+<i>Pub. L. 117–328, div. T, title III, §334(b)(5), (e), Dec. 29, 2022, 136 Stat. 5370, 5372, provided</i><i>that, applicable to distributions made after the date which is 3 years after Dec. 29, 2022, subsection (d)(1)(A) of this section is amended by striking "or" at the end of clause (iii), by striking the comma at the end of clause (iv) and inserting ", or", and by adding at the end the following new clause:</i>
 
 &emsp;&emsp;&emsp;<i>"(v) as provided in section 401(a)(39),".</i>
 
 <i>See 2022 Amendment note below.</i>
-
-#### Amendment of Subsection (e)(18)(A)(ii)
-
-<i>Pub. L. 117–328, div. T, title VI, §603(b)(2), (c), Dec. 29, 2022, 136 Stat. 5392, provided that, applicable to taxable years beginning after Dec. 31, 2023, subsection (e)(18)(A)(ii) of this section is amended by inserting "the lesser of any designated Roth contributions made by the participant to the plan or" before "the applicable dollar amount". See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -594,7 +586,7 @@ Amendment by section 603(b)(2) of Pub. L. 117–328 applicable to taxable years 
 
 #### Effective Date of 2019 Amendment
 
-Amendment by section 104(b) of Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2019, see section 104(c) of Pub. L. 116–94, set out as a note under section 401 of this title.
+Amendment by section 104(b) of Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2019, seesection 104(c) of Pub. L. 116–94, set out as a note under section 401 of this title.
 
 Amendment by section 109(d) of Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2019, see section 109(e) of Pub. L. 116–94, set out as a note under section 401 of this title.
 
@@ -694,7 +686,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1011(e)(9), Nov. 10, 1988, 102 Stat. 3461, provided that the amendment made by that section is effective for years beginning after Dec. 31, 1988.
+Pub. L. 100–647, title I, §1011(e)(9), Nov. 10, 1988, 102 Stat. 3461, provided that the amendment made by thatsection is effective for years beginning after Dec. 31, 1988.
 
 Amendment by section 1011(e)(1), (2), (10) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -736,7 +728,7 @@ Treatment of certain nonelective deferred compensation.—Section 457 of the 198
 
 &emsp;&emsp;"(ii) the individual with respect to whom the deferral is made was covered under such agreement on such date.
 
-> Subparagraph (B) shall not apply to any taxable year ending after the date on which any modification of the amount or formula described in subparagraph (B)(i)(II) agreed to in writing before January 1, 1989, is effective. The preceding sentence shall not apply to a modification agreed to in writing before January 1, 1989, whichdoes not increase any benefit of a participant. Amounts described in the first sentence of this paragraph shall be taken into account for purposes of applying section 457 of the 1986 Code to other amounts deferred under any eligible deferred compensation plan.
+> Subparagraph (B) shall not apply to any taxable year ending after the date on which any modification of the amount or formula described in subparagraph (B)(i)(II) agreed to in writing before January 1, 1989, is effective. The preceding sentence shall not apply to a modification agreed to in writing before January 1, 1989, which does not increase any benefit of a participant. Amounts described in the first sentence of this paragraph shall be taken into account for purposes of applying section 457 of the 1986 Code to other amounts deferred under any eligible deferred compensation plan.
 
 "(4)
 

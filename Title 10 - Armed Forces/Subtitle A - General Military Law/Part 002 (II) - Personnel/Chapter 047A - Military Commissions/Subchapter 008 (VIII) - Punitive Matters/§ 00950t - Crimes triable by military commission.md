@@ -28,7 +28,7 @@ Denying quarter.—Any person subject to this chapter who, with effective comman
 
 &emsp;(7)
 
-Taking hostages.—Any person subject to this chapter who, having knowingly seized or detained one or more persons, threatens to kill, injure, or continue to detain such person or persons with the intent of compelling any nation, person other than the hostage, or group of persons to act or refrain from acting as an explicit or implicit condition for the safety or release of such person or persons, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Taking hostages.—Any person subject to this chapter who, having knowingly seized or detained one or more persons, threatens to kill, injure, or continue to detain such person or persons with the intent of compelling anynation, person other than the hostage, or group of persons to act or refrain from acting as an explicit or implicit condition for the safety or release of such person or persons, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(8)
 
@@ -92,7 +92,7 @@ Destruction of property in violation of the law of war.—Any person subject to 
 
 &emsp;(17)
 
-Using treachery or perfidy.—Any person subject to this chapter who, after inviting the confidence or belief of one or more persons that they were entitled to, or obliged to accord, protection under the law of war, intentionally makes use of that confidence or belief in killing, injuring, or capturing such person or persons shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Using treachery or perfidy.—Any person subject to this chapter who, after inviting the confidence or belief of one or more persons that they were entitled to, or obliged to accord, protection under the law of war, intentionally makes use of that confidence or beliefin killing, injuring, or capturing such person or persons shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(18)
 
@@ -168,7 +168,7 @@ Solicitation.—Any person subject to this chapter who solicits or advises anoth
 
 &emsp;(31)
 
-Contempt.—A military commission under this chapter may punish for contempt any person who uses any menacing word, sign,or gesture in its presence, or who disturbs its proceedings by any riot or disorder.
+Contempt.—A military commission under this chapter may punish for contempt any person who uses any menacing word, sign, or gesture in its presence, or who disturbs its proceedings by any riot or disorder.
 
 &emsp;(32)
 

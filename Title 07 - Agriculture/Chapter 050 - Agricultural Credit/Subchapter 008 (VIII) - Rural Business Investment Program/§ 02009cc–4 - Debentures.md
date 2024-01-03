@@ -16,7 +16,7 @@ Section 2009g(i) of this title shall apply to any guarantee under this section.
 
 Under this section, the Secretary may—
 
-&emsp;(1) guarantee the debentures issued by a rural business investment company only to the extent that the total face amount of outstanding guaranteed debentures of the rural business investment company does not exceed the lesser of—
+&emsp;(1) guarantee the debentures issued by a rural business investment company only to the extent that the total face amount of outstanding guaranteed debentures of the ruralbusiness investment company does not exceed the lesser of—
 
 &emsp;&emsp;(A) 300 percent of the private capital of the rural business investment company; or
 

@@ -56,7 +56,7 @@ The conditions of participation that a home health agency is required to meet un
 
 &emsp;(ii) Such standards shall include the content of the curriculum, minimum hours of training, qualification of instructors, and procedures for determination of competency.
 
-&emsp;(iii) Such standards may permit approval of programs offered by or in home health agencies, as well as outside agencies (including employee organizations), and of programs in effect on December 22, 1987; except that theymay not provide for the approval of a program offered by or in a home health agency which, within the previous 2 years—
+&emsp;(iii) Such standards may permit approval of programs offered by or in home health agencies, as well as outside agencies (including employee organizations), and of programs in effect on December 22, 1987; except that they may not provide for the approval of a program offered by or in a home health agency which, within the previous 2 years—
 
 &emsp;&emsp;(I) has been determined to be out of compliance with subparagraph (A), (B), or (C);
 
@@ -88,7 +88,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 #### (c) Surveys of home health agencies
 
-(1) Any agreement entered into or renewed by the Secretary pursuant to section 1395aa of this title relating to home health agencies shall provide that the appropriate State or local agency shall conduct, without any prior notice, a standard survey of each home health agency. Any individual who notifies (or causes to be notified) a home health agency of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under this paragraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a of this title. The Secretary shall review each State's or local agency's procedures for scheduling and conduct of standard surveys to assure that the State or agency has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
+(1) Any agreement entered into or renewed by the Secretary pursuant to section 1395aa of thistitle relating to home health agencies shall provide that the appropriate State or local agency shall conduct, without any prior notice, a standard survey of each home health agency. Any individual who notifies (or causes to be notified) a home health agency of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under this paragraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a of this title. The Secretary shall review each State's or local agency's procedures for scheduling and conduct of standard surveys to assure that the State or agency has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
 
 (2)(A) Except as provided in subparagraph (B), each home health agency shall be subject to a standard survey not later than 36 months after the date of the previous standard survey conducted under this paragraph. The Secretary shall establish a frequency for surveys of home health agencies within this 36-month interval commensurate with the need to assure the delivery of quality home health services.
 
@@ -138,7 +138,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 #### (e) Enforcement
 
-(1) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) and determines that the deficiencies involved immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in subsection (f)(2)(A)(iii) or terminate the certification of the agency, and may provide, in addition, for 1 or more of the other remedies described in subsection (f)(2)(A).
+(1) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that iscertified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) and determines that the deficiencies involved immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in subsection (f)(2)(A)(iii) or terminate the certification of the agency, and may provide, in addition, for 1 or more of the other remedies described in subsection (f)(2)(A).
 
 (2) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) and determines that the deficiencies involved do not immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary may (for a period not to exceed 6 months) impose intermediate sanctions developed pursuant to subsection (f), in lieu of terminating the certification of the agency. If, after such a period of intermediate sanctions, the agency is still no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a), the Secretary shall terminate the certification of the agency.
 
@@ -182,7 +182,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 A home health agency shall submit claims for payment for home health services under this subchapter only on the basis of the geographic location at which the service is furnished, as determined by the Secretary.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1891, as added and amended Pub. L. 100–203, title IV, §§4021(b), 4022(a), 4023(a), Dec. 22, 1987, 101 Stat. 1330–67, 1330–69, 1330–71; Pub. L. 100–360, title IV, §411(d)(1)(A), (2)–(3)(B), July 1, 1988, 102 Stat. 773, 774; Pub. L. 100–485, title VI, §608(d)(20)(A), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–508, title IV, §§4206(d)(2), 4207(i)(1), formerly 4027(i)(1), Nov. 5, 1990, 104 Stat. 1388–116, 1388–123, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–134, title I, §101(d) \[title V, §516(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–33, title IV, §4604(a), Aug. 5, 1997, 111 Stat. 472; Pub. L. 108–173, title VII, §736(c)(3), Dec. 8, 2003, 117 Stat. 2356.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1891, as added and amended Pub. L. 100–203, title IV, §§4021(b),4022(a), 4023(a), Dec. 22, 1987, 101 Stat. 1330–67, 1330–69, 1330–71; Pub. L. 100–360, title IV, §411(d)(1)(A), (2)–(3)(B), July 1, 1988, 102 Stat. 773, 774; Pub. L. 100–485, title VI, §608(d)(20)(A), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–508, title IV, §§4206(d)(2), 4207(i)(1), formerly 4027(i)(1), Nov. 5, 1990, 104 Stat. 1388–116, 1388–123, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–134, title I, §101(d) \[title V, §516(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–33, title IV, §4604(a), Aug. 5, 1997, 111 Stat. 472; Pub. L. 108–173, title VII, §736(c)(3), Dec. 8, 2003, 117 Stat. 2356.)
 
 #### <b>Editorial Notes</b>
 
@@ -214,7 +214,7 @@ Subsec. (f)(2)(A). Pub. L. 100–360, §411(d)(3)(B)(iii), inserted before last 
 
 Pub. L. 100–360, §411(d)(3)(B)(i), realigned the margins of cls. (i) to (iii) and concluding provisions.
 
-Subsec. (f)(2)(A)(i). Pub. L. 100–360, §411(d)(3)(B)(ii), substituted "in an amount not to exceed $10,000 foreach day of noncompliance" for "for each day of noncompliance".
+Subsec. (f)(2)(A)(i). Pub. L. 100–360, §411(d)(3)(B)(ii), substituted "in an amount not to exceed $10,000 for each day of noncompliance" for "for each day of noncompliance".
 
 <b>1987</b>—Subsecs. (c), (d). Pub. L. 100–203, §4022(a), added subsecs. (c) and (d).
 
@@ -252,7 +252,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IV, §4022(b), Dec. 22, 1987, 101 Stat. 1330–71, provided that: "Except as otherwise specifically provided in section 1891(d) of the Social Security Act \[42 U.S.C. 1395bbb(d)\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\]."
+Pub. L. 100–203, title IV, §4022(b), Dec. 22, 1987, 101 Stat. 1330–71, provided that: "Except as otherwise specifically provided in section 1891(d) of the Social Security Act \[42 U.S.C. 1395bbb(d)\] (as added by subsection\(a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\]."
 
 Pub. L. 100–203, title IV, §4023(b), Dec. 22, 1987, 101 Stat. 1330–73, as amended by Pub. L. 100–360, title IV, §411(d)(3)(C), July 1, 1988, 102 Stat. 774, provided that: "Except as otherwise specifically provided in subsections (e) and (f) of section 1891 of the Social Security Act \[42 U.S.C. 1395bbb(e), (f)\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\], and no intermediate sanction described in section 1891(f)(2)(A) of such Act \[42 U.S.C. 1395bbb(f)(2)(A)\] shall be imposed for violations occurring before such effective date."
 

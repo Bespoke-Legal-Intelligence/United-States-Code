@@ -34,7 +34,7 @@ The Director of the Institute shall coordinate the activities of the Director un
 
 &emsp;(C) The Director of the Institute shall submit any revisions of the plan to the President's Cancer Panel, the Secretary, and the Director of NIH.
 
-&emsp;(D) The Secretary shall provide a copy of the plan submitted under subparagraph (A), and any revisions submitted under subparagraph (C), to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
+&emsp;(D) The Secretary shall provide a copy of the plan submitted under subparagraph (A), andany revisions submitted under subparagraph (C), to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
 
 #### (d) Other cancers
 
@@ -52,7 +52,7 @@ In carrying out subsection (a), the Director of the Institute shall conduct or s
 
 #### (e) Report
 
-The Director of the Institute shall prepare, for inclusion in the biennial report submitted under section 284b <sup>3</sup> of this title, a report that describes the activities of the National Cancer Instituteunder the research programs referred to in subsection (a), that shall include—
+The Director of the Institute shall prepare, for inclusion in the biennial report submitted under section 284b <sup>3</sup> of this title, a report that describes the activities of the National Cancer Institute under the research programs referred to in subsection (a), that shall include—
 
 &emsp;(1) a description of the research plan with respect to breast cancer prepared under subsection (c);
 

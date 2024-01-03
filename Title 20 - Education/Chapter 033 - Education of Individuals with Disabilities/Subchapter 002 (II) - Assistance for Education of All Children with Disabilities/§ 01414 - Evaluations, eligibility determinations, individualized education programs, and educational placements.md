@@ -50,7 +50,7 @@
 
 #### (II) For services
 
-&emsp;&emsp;&emsp;&emsp;If the parent of such child refuses to consent to services under clause (i)(II),the local educational agency shall not provide special education and related services to the child by utilizing the procedures described in section 1415 of this title.
+&emsp;&emsp;&emsp;&emsp;If the parent of such child refuses to consent to services under clause (i)(II), the local educational agency shall not provide special education and related services to the child by utilizing the procedures described in section 1415 of this title.
 
 #### (III) Effect on agency obligations
 
@@ -226,7 +226,7 @@
 
 #### (ii) Summary of performance
 
-&emsp;&emsp;&emsp;For a child whose eligibility under this subchapter terminates under circumstances described in clause (i), a local educational agency shall provide the child with a summary of the child's academic achievement and functional performance, which shall include recommendations on how to assist the child in meeting the child's postsecondary goals.
+&emsp;&emsp;&emsp;For a child whose eligibility under this subchapter terminates under circumstances described in clause (i), a local educational agency shall provide the child with a summary of the child's academic achievement and functional performance, which shall include recommendations onhow to assist the child in meeting the child's postsecondary goals.
 
 #### (d) Individualized education programs
 
@@ -358,7 +358,7 @@
 
 #### (I) Transfer within the same State
 
-&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in the same State, the localeducational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency adopts the previously held IEP or develops, adopts, and implements a new IEP that is consistent with Federal and State law.
+&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in the same State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency adopts the previously held IEP or develops, adopts, and implements a new IEP that is consistent with Federal and State law.
 
 #### (II) Transfer outside State
 
@@ -506,7 +506,7 @@
 
 #### (6) Failure to meet transition objectives
 
-&emsp;If a participating agency, other than the local educational agency, fails to provide thetransition services described in the IEP in accordance with paragraph (1)(A)(i)(VIII), the local educational agency shall reconvene the IEP Team to identify alternative strategies to meet the transition objectives for the child set out in the IEP.
+&emsp;If a participating agency, other than the local educational agency, fails to provide the transition services described in the IEP in accordance with paragraph (1)(A)(i)(VIII), the local educational agency shall reconvene the IEP Team to identify alternative strategies to meet the transition objectives for the child set out in the IEP.
 
 #### (7) Children with disabilities in adult prisons
 
@@ -520,7 +520,7 @@
 
 #### (B) Additional requirement
 
-&emsp;&emsp;If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child's IEP Team may modify the child's IEP or placement notwithstanding the requirements of sections <sup>1</sup> 1412(a)(5)(A) of this title and paragraph (1)(A) if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
+&emsp;&emsp;If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child's IEP Team may modify the child's IEP or placement notwithstanding the requirements of sections <sup>1</sup>1412(a)(5)(A) of this title and paragraph (1)(A) if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
 
 #### (e) Educational placements
 
@@ -551,10 +551,6 @@ A prior section 1414a, Pub. L. 91–230, title VI, §614A, as added Pub. L. 103�
 <b>2015</b>—Subsec. (b)(5)(A). Pub. L. 114–95 inserted ", as such section was in effect on the day before December 10, 2015" after "of this title".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 

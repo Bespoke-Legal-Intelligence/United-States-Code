@@ -16,7 +16,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 &emsp;&emsp;(A) require the testimony of the firm or of any person associated with a registered public accounting firm, with respect to any matter that the Board considers relevant or material to an investigation;
 
-&emsp;&emsp;(B) require the production of audit work papers and any other document or information in the possession of a registered public accounting firm or any associated person thereof, wherever domiciled, that the Board considers relevant or material to the investigation, and may inspect the books andrecords of such firm or associated person to verify the accuracy of any documents or information supplied;
+&emsp;&emsp;(B) require the production of audit work papers and any other document or information in the possession of a registered public accounting firm or any associated person thereof, wherever domiciled, that the Board considers relevant or material to the investigation, and may inspect the books and records of such firm or associated person to verify the accuracy of any documents or information supplied;
 
 &emsp;&emsp;(C) request the testimony of, and production of any document in the possession of, any other person, including any client of a registered public accounting firm that the Board considers relevant or material to an investigation under this section, with appropriate notice, subject to the needs of the investigation, as permitted under the rules of the Board; and
 
@@ -168,7 +168,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (A) In general
 
-&emsp;&emsp;The Board may impose sanctions under this section on a registered accounting firm or upon any person who is, or at the time of the alleged failure reasonably to supervise was, a supervisory person of such firm, if the Board finds that—
+&emsp;&emsp;The Board may impose sanctions under this section on a registered accounting firmor upon any person who is, or at the time of the alleged failure reasonably to supervise was, a supervisory person of such firm, if the Board finds that—
 
 &emsp;&emsp;&emsp;(i) the firm has failed reasonably to supervise an associated person, either as required by the rules of the Board relating to auditing or quality control standards, or otherwise, with a view to preventing violations of this Act, the rules of the Board, the provisions of the securities laws relating to the preparation and issuance of audit reports and the obligations and liabilities of accountants with respect thereto, including the rules of the Commission under this Act, or professional standards; and
 
@@ -256,7 +256,7 @@ Subsec. (c)(7)(B). Pub. L. 111–203, §982(f), in heading, inserted ", broker,
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

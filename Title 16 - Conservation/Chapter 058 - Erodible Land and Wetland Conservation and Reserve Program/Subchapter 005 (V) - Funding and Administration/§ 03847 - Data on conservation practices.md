@@ -24,5 +24,5 @@ Not later than 1 year after December 20, 2018, the Secretary shall submit to the
 
 #### Prior Provisions
 
-A prior section 3847, Pub. L. 99–198, title XII, §1247, as added Pub. L. 101–624, title XIV, §1445, Nov. 28, 1990, 104 Stat. 3603; amended Pub. L. 102–237, title II, §204(8), Dec. 13, 1991, 105 Stat. 1855, which related to assistance for control of spread of weeds and pests, was omitted in the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 3847, Pub. L. 99–198, title XII, §1247, as added Pub. L. 101–624, title XIV, §1445, Nov. 28, 1990, 104Stat. 3603; amended Pub. L. 102–237, title II, §204(8), Dec. 13, 1991, 105 Stat. 1855, which related to assistance for control of spread of weeds and pests, was omitted in the general amendment of this subchapter by Pub. L. 104–127.
 

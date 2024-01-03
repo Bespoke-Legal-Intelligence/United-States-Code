@@ -12,7 +12,7 @@
 
 (2) Upon receipt of a petition filed under paragraph (1), the Governor shall—
 
-&emsp;(A) ensure that rapid response assistance and appropriate core and intensive services (as described in section 134 of the Workforce Investment Act of 1998 (29 U.S.C. 2864)) <sup>1</sup> authorized under other Federal laws are made available to the workers covered by the petition to the extent authorized under such laws; and
+&emsp;(A) ensure that rapid response assistance and appropriate core and intensive services (asdescribed in section 134 of the Workforce Investment Act of 1998 (29 U.S.C. 2864)) <sup>1</sup> authorized under other Federal laws are made available to the workers covered by the petition to the extent authorized under such laws; and
 
 &emsp;(B) assist the Secretary in the review of the petition by verifying such information and providing such other assistance as the Secretary may request.
 
@@ -132,7 +132,7 @@ Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of thissubchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding this section.
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding this section.
 
 #### Effective Date of 1993 Amendment
 
@@ -334,7 +334,7 @@ Certification of firms that did not submit petitions between february 13, 2011, 
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary of Commerce shall certify a firm described in subparagraph (B) as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 \[19 U.S.C. 2341\], as in effect on the date of the enactment of this Act\[Oct. 21, 2011\], if the firm or its representative files a petition for a certification of eligibility under section 251 of the Trade Act of 1974 not later than 90 days after such date of enactment.
+In general.—The Secretary of Commerce shall certify a firm described in subparagraph (B) as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 \[19 U.S.C. 2341\], as in effect on the date of the enactment of this Act \[Oct. 21, 2011\], if the firm or its representative files a petition for a certification of eligibility under section 251 of the Trade Act of 1974 not later than 90 days after such date of enactment.
 
 &emsp;&emsp;"(B)
 

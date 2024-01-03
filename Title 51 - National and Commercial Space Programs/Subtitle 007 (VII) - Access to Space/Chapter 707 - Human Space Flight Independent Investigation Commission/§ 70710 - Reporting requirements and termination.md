@@ -6,7 +6,7 @@ Interim Reports.—A Commission may submit to the President and Congress interim
 
 (b)
 
-Final Report.—A Commission shall submit to the President and Congress, and make concurrently available to the public, a final report containing such findings, conclusions, and recommendations for corrective actions as have been agreed to by a majority of Commission members. Such report shall include any minority views or opinions not reflected in the majority report.
+Final Report.—A Commission shall submit to the President and Congress, and makeconcurrently available to the public, a final report containing such findings, conclusions, and recommendations for corrective actions as have been agreed to by a majority of Commission members. Such report shall include any minority views or opinions not reflected in the majority report.
 
 (c)
 

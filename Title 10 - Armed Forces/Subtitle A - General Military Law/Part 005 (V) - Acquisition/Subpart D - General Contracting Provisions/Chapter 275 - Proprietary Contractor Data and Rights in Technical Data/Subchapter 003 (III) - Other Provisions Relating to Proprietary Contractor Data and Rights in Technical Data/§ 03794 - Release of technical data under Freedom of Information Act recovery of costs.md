@@ -24,7 +24,7 @@ Waiver.—The Secretary of Defense shall waive the payment of costs required by 
 
 &emsp;(3) the Secretary determines, in accordance with section 552(a)(4)(A)(iii) of title 5, that such a waiver is in the interests of the United States.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §954(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub. L. 99–591, §101(c) \[title X, §954(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172, §2328; Pub. L. 99–661, div. A, title IX, formerly title IV, §954(a)(1), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, §7(a)(7)(A), (B)(i), Apr. 21, 1987, 101 Stat. 278; renumbered §3794, Pub. L. 116–283, div. A, title XVIII, §1833(o)(2), Jan. 1, 2021, 134 Stat. 4234; Pub. L. 117–81, div. A, title XVII, §1701(b)(12)(B), Dec. 27, 2021, 135 Stat. 2134.)
+(Added Pub. L. 99–500, §101(c) \[title X, §954(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub.L. 99–591, §101(c) \[title X, §954(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172, §2328; Pub. L. 99–661, div. A, title IX, formerly title IV, §954(a)(1), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, §7(a)(7)(A), (B)(i), Apr. 21, 1987, 101 Stat. 278; renumbered §3794, Pub. L. 116–283, div. A, title XVIII, §1833(o)(2), Jan. 1, 2021, 134 Stat. 4234; Pub. L. 117–81, div. A, title XVII, §1701(b)(12)(B), Dec. 27, 2021, 135 Stat. 2134.)
 
 #### <b>Editorial Notes</b>
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–26, §12(d)(2), Apr. 21, 1987, 101 Stat. 289, provided that: "The amendment to section 2328 of suchtitle \[now 10 U.S.C. 3794\] made by section 7(a)(7)(A)(i)(II) shall take effect on the same date and in the same manner as provided in section 1804(b) of Public Law 99–570 \[set out as an Effective Date of 1986 Amendment note under section 552 of Title 5, Government Organization and Employees\] for the amendment made by section 1803 of that Public Law to section 552a of title 5, United States Code \[probably means amendment by section 1803 of Pub. L. 99–570 to section 552(a) of Title 5\]."
+Pub. L. 100–26, §12(d)(2), Apr. 21, 1987, 101 Stat. 289, provided that: "The amendment to section 2328 of such title \[now 10 U.S.C. 3794\] made by section 7(a)(7)(A)(i)(II) shall take effect on the same date and in the same manner as provided in section 1804(b) of Public Law 99–570 \[set out as an Effective Date of 1986 Amendment note under section 552 of Title 5, Government Organization and Employees\] for the amendment made by section 1803 of that Public Law to section 552a of title 5, United States Code \[probably means amendment by section 1803 of Pub. L. 99–570 to section 552(a) of Title 5\]."
 
 #### Effective Date
 

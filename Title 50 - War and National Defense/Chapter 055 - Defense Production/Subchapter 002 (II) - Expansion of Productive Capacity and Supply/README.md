@@ -15,3 +15,4 @@ Title III of the Defense Production Act of 1950, comprising this subchapter, was
 - [&sect; 04532 - Loans to private business enterprises](%C2%A7%2004532%20-%20Loans%20to%20private%20business%20enterprises.md)
 - [&sect; 04533 - Other presidential action authorized](%C2%A7%2004533%20-%20Other%20presidential%20action%20authorized.md)
 - [&sect; 04534 - Defense Production Act Fund](%C2%A7%2004534%20-%20Defense%20Production%20Act%20Fund.md)
+- [&sect; 04535 - Reports on exercise of authorities](%C2%A7%2004535%20-%20Reports%20on%20exercise%20of%20authorities.md)

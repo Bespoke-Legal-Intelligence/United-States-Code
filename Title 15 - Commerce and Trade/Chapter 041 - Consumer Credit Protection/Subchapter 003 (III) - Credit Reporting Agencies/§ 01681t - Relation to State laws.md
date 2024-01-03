@@ -128,7 +128,7 @@ Subsec. (d). Pub. L. 108–159, §711(3), substituted "(b) and (c)" for "(b) and
 
 &emsp;"(C) gives greater protection to consumers than is provided under this subchapter."
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2419(1), designated existing provisions as subsec. (a), inserted heading, andsubstituted "Except as provided in subsections (b) and (c), this subchapter" for "This subchapter".
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted "Except as provided in subsections (b) and (c), this subchapter" for "This subchapter".
 
 Subsecs. (b) to (d). Pub. L. 104–208, §2419(2), added subsecs. (b) to (d).
 

@@ -18,7 +18,7 @@ The purposes of this section are—
 
 #### (2) Eligible entities
 
-&emsp;In this subsection, the term "eligible entity" means any of the following entities that has a plan to develop and maintain, or to improve and expand, programs that support theentity's use of a Native American or Alaska Native language as the primary language of instruction in elementary schools or secondary schools, or both:
+&emsp;In this subsection, the term "eligible entity" means any of the following entities that has a plan to develop and maintain, or to improve and expand, programs that support the entity's use of a Native American or Alaska Native language as the primary language of instruction in elementary schools or secondary schools, or both:
 
 &emsp;&emsp;(A) An Indian tribe.
 
@@ -76,7 +76,7 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;(iii) the qualifications of all instructional and leadership personnel at such school is sufficient to deliver high-quality education through the Native American or Alaska Native language used in the school; and
 
-&emsp;&emsp;&emsp;(iv) the school will collect and report to the public data relative to student achievement and, if appropriate, rates of high school graduation, career readiness, and enrollment in postsecondary education or workforce development programs, of students who are enrolled in the school's programs.
+&emsp;&emsp;&emsp;(iv) the school will collect and report to the public data relative to studentachievement and, if appropriate, rates of high school graduation, career readiness, and enrollment in postsecondary education or workforce development programs, of students who are enrolled in the school's programs.
 
 #### (2) Limitation
 

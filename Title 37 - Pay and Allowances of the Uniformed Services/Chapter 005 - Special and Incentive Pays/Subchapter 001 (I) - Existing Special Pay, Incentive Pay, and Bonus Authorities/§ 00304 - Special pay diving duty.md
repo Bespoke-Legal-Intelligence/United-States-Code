@@ -26,7 +26,7 @@
 
 (e) In time of war, the President may suspend the payment of diving duty pay.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 465; Pub. L. 97–60, title I, §115, Oct. 14, 1981, 95 Stat. 995; Pub. L. 100–180, div. A, title VI, §624(a), Dec. 4, 1987, 101 Stat. 1103; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–261, div. A, title VI, §616(a), Oct. 17, 1998, 112 Stat. 2041; Pub. L. 106–65, div. A, title VI, §617(a), (b), Oct. 5, 1999, 113 Stat. 652.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 465; Pub. L. 97–60, title I, §115, Oct. 14, 1981, 95 Stat. 995; Pub.L. 100–180, div. A, title VI, §624(a), Dec. 4, 1987, 101 Stat. 1103; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–261, div. A, title VI, §616(a), Oct. 17, 1998, 112 Stat. 2041; Pub. L. 106–65, div. A, title VI, §617(a), (b), Oct. 5, 1999, 113 Stat. 652.)
 
 Historical and Revision Notes
 

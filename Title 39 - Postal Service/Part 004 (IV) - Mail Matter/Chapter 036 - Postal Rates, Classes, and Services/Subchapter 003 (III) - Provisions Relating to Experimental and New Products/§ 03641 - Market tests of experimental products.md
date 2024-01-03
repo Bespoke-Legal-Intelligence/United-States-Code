@@ -22,7 +22,7 @@ Significantly different product.—The product is, from the viewpoint of the mai
 
 &emsp;(2)
 
-Market disruption.—The introduction or continued offering of the product will not create an unfair or otherwise inappropriate competitive advantage for the Postal Service or any mailer, particularly in regard to smallbusiness concerns (as defined under subsection (h)).
+Market disruption.—The introduction or continued offering of the product will not create an unfair or otherwise inappropriate competitive advantage for the Postal Service or any mailer, particularly in regard to small business concerns (as defined under subsection (h)).
 
 &emsp;(3)
 

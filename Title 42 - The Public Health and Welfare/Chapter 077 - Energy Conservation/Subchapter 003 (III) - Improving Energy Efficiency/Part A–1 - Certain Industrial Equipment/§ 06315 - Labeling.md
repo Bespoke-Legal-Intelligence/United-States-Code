@@ -72,7 +72,7 @@ A labeling rule under this section shall not apply to any article of covered equ
 
 #### (k) Labeling authority under Federal Trade Commission Act
 
-Until such time as labeling rules under this section take effect with respect to a type (or class) of covered equipment, this section shallnot affect any authority of the Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] to require labeling with respect to energy consumption of such type (or class) of covered equipment.
+Until such time as labeling rules under this section take effect with respect to a type (or class) of covered equipment, this section shall not affect any authority of the Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] to require labeling with respect to energy consumption of such type (or class) of covered equipment.
 
 (Pub. L. 94–163, title III, §344, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3271; amended Pub. L. 102–486, title I, §122(c), Oct. 24, 1992, 106 Stat. 2809; Pub. L. 109–58, title I, §136(g), Aug. 8, 2005, 119 Stat. 643; Pub. L. 110–140, title III, §312(d), Dec. 19, 2007, 121 Stat. 1567.)
 

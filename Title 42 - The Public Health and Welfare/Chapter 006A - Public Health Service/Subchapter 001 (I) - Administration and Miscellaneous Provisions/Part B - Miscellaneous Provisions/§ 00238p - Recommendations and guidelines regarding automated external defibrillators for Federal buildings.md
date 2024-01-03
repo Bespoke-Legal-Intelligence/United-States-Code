@@ -36,7 +36,7 @@ For purposes of this section:
 
 &emsp;(1) The term "automated external defibrillator device" has the meaning given such term in section 238q of this title.
 
-&emsp;(2) The term "Federal building" includes a building or portion of a building leased orrented by a Federal agency, and includes buildings on military installations of the United States.
+&emsp;(2) The term "Federal building" includes a building or portion of a building leased or rented by a Federal agency, and includes buildings on military installations of the United States.
 
 (July 1, 1944, ch. 373, title II, §247, as added Pub. L. 106–505, title IV, §403, Nov. 13, 2000, 114 Stat. 2337.)
 

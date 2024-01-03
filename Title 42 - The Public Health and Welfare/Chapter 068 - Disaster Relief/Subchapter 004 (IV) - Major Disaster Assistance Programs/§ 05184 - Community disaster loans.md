@@ -26,7 +26,7 @@ The amount of any such loan shall be based on need, shall not exceed—
 
 Any loans made under this section shall not reduce or otherwise affect any grants or other assistance under this chapter.
 
-(Pub. L. 93–288, title IV, §417, formerly §414(a), (b), May 22, 1974, 88 Stat. 158; renumbered §417, Pub. L. 100–707, title I, §106(j), Nov. 23, 1988, 102 Stat. 4705; Pub. L. 106–390, title II, §207, Oct. 30, 2000, 114 Stat. 1571; Pub. L. 109–347, title VI, §608, Oct. 13, 2006, 120 Stat. 1942.)
+(Pub. L. 93–288, title IV, §417, formerly §414(a), (b), May 22, 1974, 88 Stat. 158; renumbered §417,Pub. L. 100–707, title I, §106(j), Nov. 23, 1988, 102 Stat. 4705; Pub. L. 106–390, title II, §207, Oct. 30, 2000, 114 Stat. 1571; Pub. L. 109–347, title VI, §608, Oct. 13, 2006, 120 Stat. 1942.)
 
 #### <b>Editorial Notes</b>
 

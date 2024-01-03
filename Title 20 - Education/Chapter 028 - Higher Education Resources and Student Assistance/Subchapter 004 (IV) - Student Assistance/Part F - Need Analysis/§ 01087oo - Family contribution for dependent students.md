@@ -72,7 +72,7 @@ Percentages for Computation of State and Other Tax Allowance
 
 #### (3) Allowance for social security taxes
 
-&emsp;The allowance for social security taxes is equal to the amount earned by each parent multiplied by the social security withholding rate appropriate to the tax year of the earnings, up to the maximum statutory social security tax withholding amount for that same tax year.
+&emsp;The allowance for social security taxes is equal to the amount earned by each parentmultiplied by the social security withholding rate appropriate to the tax year of the earnings, up to the maximum statutory social security tax withholding amount for that same tax year.
 
 #### (4) Income protection allowance
 
@@ -548,7 +548,7 @@ Parents' Contribution From AAI
 
 #### <i>(4) Allowance for parents' negative available income</i>
 
-&emsp;<i>The allowance for parents' negative available income is the amount, if any, by which the sum</i><i>of the amounts deducted under subsection (c)(1) exceeds the sum of the parents' total income (as defined in section 1087vv of this title) and the parents' available assets (as determined in accordance with subsection (d)).</i>
+&emsp;<i>The allowance for parents' negative available income is the amount, if any, by which the sum of the amounts deducted under subsection (c)(1) exceeds the sum of the parents' total income (as defined in section 1087vv of this title) and the parents' available assets (as determined in accordance with subsection (d)).</i>
 
 #### <i>(h) Student's assets</i>
 
@@ -652,7 +652,7 @@ Pub. L. 110–84, title VI, §601(e), Sept. 27, 2007, 121 Stat. 804, provided th
 
 Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
-Pub. L. 109–171, title VIII, §8017(a)(2), Feb. 8, 2006, 120 Stat. 173, provided that: "The amendments made byparagraph (1) \[amending this section\] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007."
+Pub. L. 109–171, title VIII, §8017(a)(2), Feb. 8, 2006, 120 Stat. 173, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007."
 
 #### Effective Date of 1998 Amendment
 

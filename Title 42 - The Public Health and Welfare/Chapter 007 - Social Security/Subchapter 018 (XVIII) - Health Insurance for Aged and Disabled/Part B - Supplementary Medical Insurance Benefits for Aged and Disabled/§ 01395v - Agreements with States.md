@@ -124,7 +124,7 @@ Subsec. (d)(2)(D). Pub. L. 90–248, §222(e)(3), struck out "(not later than Ja
 
 Subsec. (d)(3)(A). Pub. L. 90–248, §222(b)(1), substituted "ineligible both for money payments of a kind specified in the agreement and (if there is in effect a modification entered into under subsection (h)) for medical assistance" for "ineligible for money payments of a kind specified in the agreement".
 
-Subsec. (f). Pub. L. 90–248, §222(b)(2), inserted "or eligible to receive medical assistance under the plan of such State approved under subchapter XIX" and ", and individuals eligible to receive medical assistance under the plan of the State approved under subchapter XIX" after "or part A of subchapter IV" and ", and part A of subchapter IV", respectively.
+Subsec. (f). Pub. L. 90–248, §222(b)(2), inserted "or eligible to receive medical assistance under the plan of such State approved under subchapter XIX" and ", and individuals eligible to receive medical assistance underthe plan of the State approved under subchapter XIX" after "or part A of subchapter IV" and ", and part A of subchapter IV", respectively.
 
 Pub. L. 90–248, §241(e)(2), struck out "IV," before "X," in two places, and inserted "or part A of subchapter IV," after "XVI," first place it appears in first sentence and ", and part A of subchapter IV" after "XVI" in second sentence.
 

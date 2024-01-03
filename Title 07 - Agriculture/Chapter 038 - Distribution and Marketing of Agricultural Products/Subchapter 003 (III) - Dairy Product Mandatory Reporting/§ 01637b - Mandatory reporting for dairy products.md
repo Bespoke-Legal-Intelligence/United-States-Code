@@ -28,7 +28,7 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 &emsp;&emsp;(A) the information referred to in paragraph (1)(A)(i) is required only with respect to those package sizes actually used to establish minimum prices for Class III or Class IV milk under a Federal milk marketing order;
 
-&emsp;&emsp;(B) the information referred to in paragraph (1)(A)(i) is required only to the extent that the information is actually used to establish minimum prices for Class III or Class IV milk under a Federal milk marketing order;
+&emsp;&emsp;(B) the information referred to in paragraph (1)(A)(i) is required only to the extentthat the information is actually used to establish minimum prices for Class III or Class IV milk under a Federal milk marketing order;
 
 &emsp;&emsp;(C) the frequency of the required reporting under paragraph (1)(A)(i) does not exceed the frequency used to establish minimum prices for Class III or Class IV milk under a Federal milk marketing order; and
 
@@ -44,7 +44,7 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise directed by the Secretary or the Attorney General for enforcement purposes, no officer, employee, or agent of the United States shall make available to the public information, statistics, or documents obtained from or submitted by any person under this subchapter other than in a manner that ensures that confidentiality is preserved regarding the identity ofpersons, including parties to a contract, and proprietary business information.
+&emsp;&emsp;Except as otherwise directed by the Secretary or the Attorney General for enforcement purposes, no officer, employee, or agent of the United States shall make available to the public information, statistics, or documents obtained from or submitted by any person under this subchapter other than in a manner that ensures that confidentiality is preserved regarding the identity of persons, including parties to a contract, and proprietary business information.
 
 #### (B) Relation to other requirements
 

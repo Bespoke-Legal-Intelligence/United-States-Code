@@ -34,7 +34,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary may enter into an agreement with a State orlocal government to provide for the cooperative management of a public recreation area if—
+&emsp;&emsp;Subject to subparagraph (B), the Secretary may enter into an agreement with a State or local government to provide for the cooperative management of a public recreation area if—
 
 &emsp;&emsp;&emsp;(i) the public recreation area is located—
 

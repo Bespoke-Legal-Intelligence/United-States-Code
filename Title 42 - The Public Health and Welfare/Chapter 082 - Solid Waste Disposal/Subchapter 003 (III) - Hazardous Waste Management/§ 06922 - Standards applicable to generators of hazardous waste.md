@@ -14,7 +14,7 @@ Not later than eighteen months after October 21, 1976, and after notice and oppo
 
 &emsp;(5) use of a manifest system and any other reasonable means necessary to assure that all such hazardous waste generated is designated for treatment, storage, or disposal in, and arrives at, treatment, storage, or disposal facilities (other than facilities on the premises where the waste is generated) for which a permit has been issued as provided in this subchapter, or pursuant to title I of the Marine Protection, Research, and Sanctuaries Act (86 Stat. 1052) \[33 U.S.C. 1411 et seq.\]; and
 
-&emsp;(6) submission of reports to the Administrator (or the State agency in any case in which such agency carries out a permit program pursuant to this subchapter) at least once every two years, setting out—
+&emsp;(6) submission of reports to the Administrator (or the State agency in any case inwhich such agency carries out a permit program pursuant to this subchapter) at least once every two years, setting out—
 
 &emsp;&emsp;(A) the quantities and nature of hazardous waste identified or listed under this subchapter that he has generated during the year;
 

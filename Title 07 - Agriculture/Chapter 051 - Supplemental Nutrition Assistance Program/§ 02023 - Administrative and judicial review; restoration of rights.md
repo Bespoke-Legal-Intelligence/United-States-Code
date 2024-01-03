@@ -26,7 +26,7 @@ Delivery of notices.—A notice under paragraph (1) shall be delivered by any fo
 
 (12) Subject to the right of judicial review hereinafter provided, a determination made by an administrative law judge regarding a claim made pursuant to section 2025(c) of this title shall be final and shall take effect thirty days after the date of the delivery or service of final notice of such determination.
 
-(13) If the store, concern, or State agency feels aggrieved by such final determination, it may obtain judicial review thereof by filing a complaint against the United States in the United States court for the district in which it resides or is engaged in business, or, in the case of a retail food store or wholesale food concern, in any court of record of the State having competent jurisdiction, within thirty days after the date of delivery or service of the final notice of determination upon it, requesting the court to set aside such determination.
+(13) If the store, concern, or State agency feels aggrieved by such final determination, it may obtain judicial review thereof by filing a complaint against the United States in the United States court for the district in which it resides or is engaged in business, or, in the case of a retail food store or wholesale food concern, in any court of record of the State having competent jurisdiction, within thirty days after the date ofdelivery or service of the final notice of determination upon it, requesting the court to set aside such determination.
 
 (14) The copy of the summons and complaint required to be delivered to the official or agency whose order is being attacked shall be sent to the Secretary or such person or persons as the Secretary may designate to receive service of process.
 
@@ -90,7 +90,7 @@ Subsec. (e). Pub. L. 91–671, §7(b), added subsec. (e).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Amendment by sections 4001(b) and 4002(a)(7) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+Amendment by sections 4001(b) and 4002(a)(7) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub.L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 2002 Amendment
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 103–66 effective Oct. 1, 1991, see section 13971(b)(1)(A)
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–435 effective Oct. 1, 1985, with respect to claims under section 2025(c) of this titlefor quality control review periods after such date, except as otherwise provided, see section 701(b)(5)(C), (D) of Pub. L. 100–435, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 100–435 effective Oct. 1, 1985, with respect to claims under section 2025(c) of this title for quality control review periods after such date, except as otherwise provided, see section 701(b)(5)(C), (D) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1982 Amendment
 

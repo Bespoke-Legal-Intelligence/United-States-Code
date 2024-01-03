@@ -40,13 +40,13 @@ With respect to an eligible family, each of the following services shall, direct
 
 &emsp;(2) Primary health care for the children, including developmental assessments.
 
-&emsp;(3) Education for the parents concerning infant care and child development, including the development and utilization of parent and teacher resource networks and other family resource and support networks where such networks are available.
+&emsp;(3) Education for the parents concerning infant care and child development, including the development and utilization of parent and teacher resource networks and other familyresource and support networks where such networks are available.
 
 &emsp;(4) Upon the request of a parent, providing the education described in paragraph (3) to other individuals who have responsibility for caring for the children.
 
 &emsp;(5) Education for the parents concerning behaviors that adversely affect health.
 
-&emsp;(6) Assistance in obtaining necessary health, mental health, developmental, social, housing, and nutrition services and other assistance, including services and other assistance under maternal and child health programs; the special supplemental nutrition program for women, infants, and children; section 1786 of this title; title V of the Social Security Act \[42 U.S.C. 701 et seq.\]; title XIX of such Act \[42 U.S.C. 1396 et seq.\] (including the program for early and periodic screening, diagnostic, and treatment services described in section 1905(r) of such Act \[42 U.S.C. 1396d(r)\]); titles IV and XIX of the Social Security Act \[42 U.S.C. 601 et seq., 1396 et seq.\]; housing programs; otherfood assistance programs; and appropriate alcohol and drug dependency treatment programs, according to need.
+&emsp;(6) Assistance in obtaining necessary health, mental health, developmental, social, housing, and nutrition services and other assistance, including services and other assistance under maternal and child health programs; the special supplemental nutrition program for women, infants, and children; section 1786 of this title; title V of the Social Security Act \[42 U.S.C. 701 et seq.\]; title XIX of such Act \[42 U.S.C. 1396 et seq.\] (including the program for early and periodic screening, diagnostic, and treatment services described in section 1905(r) of such Act \[42 U.S.C. 1396d(r)\]); titles IV and XIX of the Social Security Act \[42 U.S.C. 601 et seq., 1396 et seq.\]; housing programs; other food assistance programs; and appropriate alcohol and drug dependency treatment programs, according to need.
 
 #### (c) Considerations in making grants
 
@@ -112,7 +112,7 @@ For purposes of subsection (a)(1), a pregnant woman shall be considered to be at
 
 #### (5) Home visiting services team
 
-&emsp;The team to be consulted under paragraph (4) on behalf of a family shall include, as appropriate, other nursing professionals, physician assistants, social workers, child welfare professionals, infant and early childhood specialists, nutritionists, and laypersons trained as home visitors. The case manager shall ensure that the plan is coordinated with those physician services that may be required by the mother or child.
+&emsp;The team to be consulted under paragraph (4) on behalf of a family shall include, as appropriate, other nursing professionals, physician assistants, social workers, child welfare professionals, infant and early childhood specialists, nutritionists, and laypersons trained as home visitors. The case manager shall ensure that the plan is coordinated with thosephysician services that may be required by the mother or child.
 
 #### (g) Outreach
 
@@ -216,7 +216,7 @@ The Secretary may make a grant under subsection (a) only if—
 
 &emsp;The Secretary shall, directly or through contracts with public or private entities—
 
-&emsp;&emsp;(A) conduct evaluations to determine the effectiveness of projects under subsection (a) in reducing the incidence of children born with health or developmental complications,the incidence among children less than 3 years of age of such complications, and the incidence of child abuse and neglect; and
+&emsp;&emsp;(A) conduct evaluations to determine the effectiveness of projects under subsection (a) in reducing the incidence of children born with health or developmental complications, the incidence among children less than 3 years of age of such complications, and the incidence of child abuse and neglect; and
 
 &emsp;&emsp;(B) not less than once during each 3-year period, prepare and submit to the appropriate committees of Congress a report concerning the results of such evaluations.
 
@@ -286,7 +286,7 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Effective Date
 
-Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 
@@ -300,7 +300,7 @@ Pub. L. 102–321, title V, §501, July 10, 1992, 106 Stat. 426, provided that: 
 
 &emsp;"(2) to reduce the incidence of infant mortality and of infants born prematurely, with low birthweight, or with other impairments including those associated with maternal substance abuse;
 
-&emsp;"(3) for pregnant women and mothers of children below the age of 3 whose children have experienced orare at risk of experiencing a health or developmental complication, to provide assistance in obtaining health and related social services necessary to meet the special needs of the women and their children;
+&emsp;"(3) for pregnant women and mothers of children below the age of 3 whose children have experienced or are at risk of experiencing a health or developmental complication, to provide assistance in obtaining health and related social services necessary to meet the special needs of the women and their children;
 
 &emsp;"(4) to assist, when requested, women who are pregnant and at-risk for poor birth outcomes, or who have young children and are abusing alcohol or other drugs, in obtaining appropriate treatment; and
 

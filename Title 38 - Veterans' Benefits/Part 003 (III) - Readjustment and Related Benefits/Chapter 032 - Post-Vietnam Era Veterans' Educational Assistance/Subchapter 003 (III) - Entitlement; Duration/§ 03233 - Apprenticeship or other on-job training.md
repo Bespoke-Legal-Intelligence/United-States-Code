@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsection (b) of this section, the amount of the monthly benefit payment to an individual pursuing a full-time program of apprenticeship or other on-job training under this chapter is—
 
-&emsp;(1) for each of the first six months of the individual's pursuit of such program, 75 percent of the monthly benefit payment otherwise payable to such individual under this chapter;
+&emsp;(1) for each of the first six months of the individual's pursuit of such program, 75 percentof the monthly benefit payment otherwise payable to such individual under this chapter;
 
 &emsp;(2) for each of the second six months of the individual's pursuit of such program, 55 percent of such monthly benefit payment; and
 

@@ -4,7 +4,7 @@
 
 In General.—The Director of the Office of Science and Technology Policy, in collaboration with the interagency working group and upon the advice of the advisory group, shall develop a strategy for coordinated observation of space weather among members of the interagency working group (in this chapter, referred to as the "integrated strategy"). The integrated strategy shall identify—
 
-&emsp;(1) observations and measurements that must be sustained beyond the lifetime of current ground-based and space-based assets, as described under section 60603, that are essential for space weather research, models, forecasting, and prediction;
+&emsp;(1) observations and measurements that must be sustained beyond the lifetime of current ground-based and space-based assets, asdescribed under section 60603, that are essential for space weather research, models, forecasting, and prediction;
 
 &emsp;(2) new observations and measurements that may significantly improve space weather forecasting and prediction; and
 
@@ -28,7 +28,7 @@ Review of Integrated Strategy.—
 
 &emsp;(1)
 
-Review.—The Administrator of the National Aeronautics and Space Administration and the Administrator of the National Oceanic and Atmospheric Administration, in consultation with Federal agencies participating in the interagency working group, shall enter into anagreement with the National Academies of Sciences, Engineering, and Medicine to review the integrated strategy developed in this section.
+Review.—The Administrator of the National Aeronautics and Space Administration and the Administrator of the National Oceanic and Atmospheric Administration, in consultation with Federal agencies participating in the interagency working group, shall enter into an agreement with the National Academies of Sciences, Engineering, and Medicine to review the integrated strategy developed in this section.
 
 &emsp;(2)
 

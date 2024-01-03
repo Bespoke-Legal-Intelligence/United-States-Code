@@ -50,7 +50,7 @@ The judge may require the applicant to furnish such other information as may be 
 
 (B) Except when disabled or otherwise unavailable to make a request referred to in subparagraph (A), an official referred to in that subparagraph may not delegate the authority to make a request referred to in that subparagraph.
 
-(C) Each official referred to in subparagraph (A) with authority to make a request under thatsubparagraph shall take appropriate actions in advance to ensure that delegation of such authority is clearly established in the event such official is disabled or otherwise unavailable to make such request.
+(C) Each official referred to in subparagraph (A) with authority to make a request under that subparagraph shall take appropriate actions in advance to ensure that delegation of such authority is clearly established in the event such official is disabled or otherwise unavailable to make such request.
 
 (2)(A) If as a result of a request under paragraph (1) the Attorney General determines not to approve an application under the second sentence of subsection (a) for purposes of making the application under this section, the Attorney General shall provide written notice of the determination to the official making the request for the review of the application under that paragraph. Except when disabled or otherwise unavailable to make a determination under the preceding sentence, the Attorney General may not delegate the responsibility to make a determination under that sentence. The Attorney General shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event the Attorney General is disabled or otherwise unavailable to make such determination.
 
@@ -99,6 +99,8 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 #### Effective Date
 
 Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by the Attorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under section 1821 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Officials Designated To Make Certifications
 

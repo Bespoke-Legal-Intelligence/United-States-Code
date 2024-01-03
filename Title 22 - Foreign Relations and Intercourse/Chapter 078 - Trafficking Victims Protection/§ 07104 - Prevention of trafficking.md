@@ -78,7 +78,7 @@ The President shall establish and carry out international initiatives to enhance
 
 #### (c) Border interdiction
 
-The President shall establish and carry out programs of border interdiction outside the United States. Such programs shall include providing grants to foreign nongovernmental organizations that provide for transit shelters operating at key border crossings and that help train survivors of trafficking in persons to educate and train border guards and officials, and other local law enforcement officials, to identify traffickers and victims of severe forms of trafficking, and the appropriate manner in which to treat such victims. Such programs shall also include, to the extent appropriate, monitoring by such survivors of trafficking in persons of the implementation of border interdiction programs, including helping in the identification of such victims to stop the cross-border transit of victims. The President shall ensure that any program established under this subsection provides the opportunity for any trafficking victim who is freed to return to his or her previous residence if the victim so chooses.
+The President shall establish and carry out programs of border interdiction outside the United States. Such programs shall include providing grants to foreign nongovernmental organizations that provide for transit shelters operating at key border crossings and that help train survivors of trafficking in persons to educate and train border guards and officials, and other local law enforcement officials, to identify traffickers and victims of severe forms of trafficking, and the appropriate manner in which to treat such victims. Such programs shall also include, to the extent appropriate, monitoring by such survivors of trafficking in persons of the implementation of border interdiction programs, including helping in the identification ofsuch victims to stop the cross-border transit of victims. The President shall ensure that any program established under this subsection provides the opportunity for any trafficking victim who is freed to return to his or her previous residence if the victim so chooses.
 
 #### (d) International media
 
@@ -302,11 +302,9 @@ Subsec. (g). Pub. L. 108–193, §3(b), added subsec. (g).
 
 #### Change of Name
 
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2013 Amendment
 

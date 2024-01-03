@@ -194,7 +194,7 @@ Public notice and comment.—The Administrator shall publish the report in the F
 
 "(b)
 
-Report to Congress Containing Recommendations of Administrator.—Not later than 60 days afterthe last day of the period for public comment under subsection (a)(6), the Administrator shall submit to the committees specified in subsection (a)(5)—
+Report to Congress Containing Recommendations of Administrator.—Not later than 60 days after the last day of the period for public comment under subsection (a)(6), the Administrator shall submit to the committees specified in subsection (a)(5)—
 
 &emsp;"(1) a report containing the recommendations of the Administrator on realignment and consolidation of services and facilities (including regional offices) of the FAA; and
 

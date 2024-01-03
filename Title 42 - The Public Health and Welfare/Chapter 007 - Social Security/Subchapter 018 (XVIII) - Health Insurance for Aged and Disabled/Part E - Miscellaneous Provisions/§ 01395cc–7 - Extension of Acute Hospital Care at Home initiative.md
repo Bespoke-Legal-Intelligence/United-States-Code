@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) Flexibility to allow a hospital to furnish inpatient services, including routine services, outside the hospital under arrangements, as described in Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; Organ Acquisition; Rural Emergency Hospitals: Payment Policies, Conditions of Participation, Provider Enrollment, Physician Self-Referral; New Service Category for Hospital Outpatient Department Prior Authorization Process; Overall Hospital Quality Star Rating; COVID–19 (87 Fed. Reg. 71748 et seq.).
 
-&emsp;&emsp;(C) Waiver of the telehealth requirements under clause (i) <sup>1</sup> of section 1395m(m)(4)(C) of this title, as amended by section 4113(a) of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022, such that the originating sites described in clause (ii) of such section shall include thehome or temporary residence of the individual.
+&emsp;&emsp;(C) Waiver of the telehealth requirements under clause (i) <sup>1</sup> of section 1395m(m)(4)(C) of this title, as amended by section 4113(a) of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022, such that the originating sites described in clause (ii) of such section shall include the home or temporary residence of the individual.
 
 &emsp;&emsp;(D) Other waivers and flexibilities that, as of December 29, 2022, were in place for such initiative during such emergency period.
 

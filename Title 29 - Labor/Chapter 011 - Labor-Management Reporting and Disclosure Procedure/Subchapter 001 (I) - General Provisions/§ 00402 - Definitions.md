@@ -32,7 +32,7 @@ For the purposes of this chapter—
 
 &emsp;(5) is a conference, general committee, joint or system board, or joint council, subordinate to a national or international labor organization, which includes a labor organization engaged in an industry affecting commerce within the meaning of any of the preceding paragraphs of this subsection, other than a State or local central body.
 
-(k) "Secret ballot" means the expression by ballot, voting machine, or otherwise, but in no event by proxy, of a choice with respect to any election or vote taken upon any matter, which is cast in such a manner that the person expressing such choice cannot be identified with the choice expressed.
+(k) "Secret ballot" means the expression by ballot, voting machine, or otherwise, but in noevent by proxy, of a choice with respect to any election or vote taken upon any matter, which is cast in such a manner that the person expressing such choice cannot be identified with the choice expressed.
 
 (l) "Trust in which a labor organization is interested" means a trust or other fund or organization (1) which was created or established by a labor organization, or one or more of the trustees or one or more members of the governing body of which is selected or appointed by a labor organization, and (2) a primary purpose of which is to provide benefits for the members of such labor organization or their beneficiaries.
 

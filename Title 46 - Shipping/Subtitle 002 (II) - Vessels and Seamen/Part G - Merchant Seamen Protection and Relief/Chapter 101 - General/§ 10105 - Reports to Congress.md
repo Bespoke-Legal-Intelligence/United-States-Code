@@ -8,7 +8,7 @@ In General.—Not later than 1 year after the date of enactment of the Don Young
 
 &emsp;(2) the number of penalties issued under such section;
 
-&emsp;(3) the number of open investigations under such section, completed investigations under such section, and the outcomes of such open or completed investigations;
+&emsp;(3) the number of open investigations under such section, completed investigations undersuch section, and the outcomes of such open or completed investigations;
 
 &emsp;(4) the number of assessments or audits conducted under section 3203 and the outcome of those assessments or audits;
 
@@ -28,5 +28,5 @@ Privacy.—In collecting the information required under subsection (a), the Comm
 
 The date of the enactment of the Don Young Coast Guard Authorization Act of 2022, referred to in subsec. (a), is the date of enactment of division K of Pub. L. 117–263, which was approved Dec. 23, 2022.
 
-Title CXVI of the Don Young Coast Guard Authorization Act of 2022, referred to subsec. (a)(7), is title CXVIof division K of Pub. L. 117–263, Dec. 23, 2022, 136 Stat. 4145. For complete classification of title CXVI to the Code, see Tables.
+Title CXVI of the Don Young Coast Guard Authorization Act of 2022, referred to subsec. (a)(7), is title CXVI of division K of Pub. L. 117–263, Dec. 23, 2022, 136 Stat. 4145. For complete classification of title CXVI to the Code, see Tables.
 

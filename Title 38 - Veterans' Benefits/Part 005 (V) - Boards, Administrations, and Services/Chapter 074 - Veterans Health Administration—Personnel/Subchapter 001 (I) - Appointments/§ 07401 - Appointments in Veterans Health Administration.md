@@ -6,7 +6,7 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
 &emsp;(2) Scientific and professional personnel, such as microbiologists, chemists, and biostatisticians.
 
-&emsp;(3) Audiologists, licensed hearing aid specialists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists,pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, statisticians, economists, informaticists, data scientists, and and <sup>1</sup> such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:
+&emsp;(3) Audiologists, licensed hearing aid specialists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, statisticians, economists, informaticists, data scientists, and and <sup>1</sup> such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:
 
 &emsp;&emsp;(A) Such other classes of health care occupations—
 
@@ -24,7 +24,7 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
 &emsp;(4) Directors of medical centers and directors of Veterans Integrated Service Networks with demonstrated ability in the medical profession, in health care administration, or in health care fiscal management.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057; Pub. L. 108–422, title V, §502, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, §201(a), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 111–163, title VI, §601(a), May 5, 2010, 124 Stat. 1167; Pub. L. 114–58, title VI, §601(23), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–256, §4(a)(1), Dec. 14, 2016, 130 Stat. 1347; Pub. L. 115–41, title II, §207(a), June 23, 2017, 131 Stat. 877; Pub. L. 117–328, div. U, title I, §183, Dec. 29, 2022, 136 Stat. 5436.)
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003,117 Stat. 2054, 2057; Pub. L. 108–422, title V, §502, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, §201(a), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 111–163, title VI, §601(a), May 5, 2010, 124 Stat. 1167; Pub. L. 114–58, title VI, §601(23), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–256, §4(a)(1), Dec. 14, 2016, 130 Stat. 1347; Pub. L. 115–41, title II, §207(a), June 23, 2017, 131 Stat. 877; Pub. L. 117–328, div. U, title I, §183, Dec. 29, 2022, 136 Stat. 5436.)
 
 #### <b>Editorial Notes</b>
 
@@ -118,7 +118,7 @@ Pub. L. 117–328, div. V, title I, §103, Dec. 29, 2022, 136 Stat. 5500, provid
 
 "(a)
 
-In General.—Not later than three years after the date of the enactment of this Act \[Dec. 29, 2022\] and subject to the availability of appropriations, the Secretary of Veterans Affairs, in collaboration with the Office of Mental Health and Suicide Prevention and the Office of Academic Affiliations, shall add an additional 250 paid trainee slots in covered mental health disciplines to the workforce of the Department of Veterans Affairs.
+In General.—Not later than three years after the date of the enactment of this Act \[Dec. 29, 2022\] andsubject to the availability of appropriations, the Secretary of Veterans Affairs, in collaboration with the Office of Mental Health and Suicide Prevention and the Office of Academic Affiliations, shall add an additional 250 paid trainee slots in covered mental health disciplines to the workforce of the Department of Veterans Affairs.
 
 "(b)
 
@@ -190,7 +190,7 @@ Payment of Amounts.—
 
 &emsp;"(1)
 
-In general.—Payment of any amounts for a buy out of a service contract for a covered healthcare professional under subsection (a) shall be made directly to the individual or entity with respect to which the covered health care professional has a service obligation under such contract.
+In general.—Payment of any amounts for a buy out of a service contract for a covered health care professional under subsection (a) shall be made directly to the individual or entity with respect to which the covered health care professional has a service obligation under such contract.
 
 &emsp;"(2)
 
@@ -312,7 +312,7 @@ Purpose.—Amounts in the Fund shall be available for payment to the Department 
 
 &emsp;"(4) is experiencing symptoms of COVID–19 and seeking a medical diagnosis;
 
-&emsp;"(5) is caring for a son or daughter of such employee if the school or place of care of the son or daughter has been closed, if the school of such son or daughter requires or makes optional a virtual learning instruction model or requires or makes optional a hybrid of in-person and virtual learning instruction models, or the child care provider of such son ordaughter is unavailable, due to COVID–19 precautions;
+&emsp;"(5) is caring for a son or daughter of such employee if the school or place of care of the son or daughter has been closed, if the school of such son or daughter requires or makes optional a virtual learning instruction model or requires or makes optional a hybrid of in-person and virtual learning instruction models, or the child care provider of such son or daughter is unavailable, due to COVID–19 precautions;
 
 &emsp;"(6) is experiencing any other substantially similar condition;
 
@@ -476,7 +476,7 @@ No Additional Funds Authorized.—No additional funds are authorized to be appro
 
 #### Occupational Series for Certain Mental Health Providers
 
-Pub. L. 116–171, title V, §501(b), Oct. 17, 2020, 134 Stat. 815, provided that: "Not later than one year after the date of the enactment of this Act \[Oct. 17, 2020\], the Secretary of Veterans Affairs, in consultation with the Office of Personnel Management, shall develop an occupational series for licensed professional mental health counselors and marriage and family therapists of the Department of Veterans Affairs."
+Pub. L. 116–171, title V, §501(b), Oct. 17, 2020, 134 Stat. 815, provided that: "Not later than one year after the date of the enactment of this Act \[Oct. 17, 2020\], the Secretary of Veterans Affairs, in consultation with the Office of Personnel Management, shall develop an occupational series for licensed professional mental healthcounselors and marriage and family therapists of the Department of Veterans Affairs."
 
 #### Identification and Referral of Members of the Armed Forces With a Health Care Occupation for Potential Employment With the Department of Veterans Affairs During Separation From the Armed Forces
 

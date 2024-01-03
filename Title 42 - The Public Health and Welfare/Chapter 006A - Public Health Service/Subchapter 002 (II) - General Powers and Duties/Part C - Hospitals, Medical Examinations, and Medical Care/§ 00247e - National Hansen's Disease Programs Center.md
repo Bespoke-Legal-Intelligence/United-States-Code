@@ -62,7 +62,7 @@ Pub. L. 107–220, §§1(b), 2, Aug. 21, 2002, 116 Stat. 1332, provided that:
 
 "(b)
 
-Public Law 105–78.—References in section 211 of Public Law 105–78 \[amending this section and enactingprovisions set out as a note under this section\], and in deeds, agreements, or other documents under such section, to the Gillis W. Long Hansen's Disease Center shall be deemed to be references to the National Hansen's Disease Programs Center.
+Public Law 105–78.—References in section 211 of Public Law 105–78 \[amending this section and enacting provisions set out as a note under this section\], and in deeds, agreements, or other documents under such section, to the Gillis W. Long Hansen's Disease Center shall be deemed to be references to the National Hansen's Disease Programs Center.
 
 #### "SEC. 2. OTHER REFERENCES.
 
@@ -172,7 +172,7 @@ Pub. L. 105–78, title II, §211(a)–(g), Nov. 13, 1997, 111 Stat. 1489, as am
 
 &emsp;&emsp;"(i) The choice the patient makes under subparagraph (A) does not affect the responsibility of the Secretary for providing to the patient such care at or through the Center.
 
-&emsp;&emsp;"(ii) If the patient chooses the option under subparagraph (A)(ii) and receives inpatient care at or through the Center, the Secretary may reduce the amount of payments under such subparagraph, except to the extent that reimbursement for the expenses of such care is available to the provider ofthe care through the program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] or the program under title XIX of such Act \[42 U.S.C. 1396 et seq.\]. Any such reduction shall be made on the basis of the number of days for which the patient received the inpatient care.
+&emsp;&emsp;"(ii) If the patient chooses the option under subparagraph (A)(ii) and receives inpatient care at or through the Center, the Secretary may reduce the amount of payments under such subparagraph, except to the extent that reimbursement for the expenses of such care is available to the provider of the care through the program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] or the program under title XIX of such Act \[42 U.S.C. 1396 et seq.\]. Any such reduction shall be made on the basis of the number of days for which the patient received the inpatient care.
 
 &emsp;"(6) The Secretary shall provide to each eligible patient such information and time as may be necessary for the patient to make an informed decision regarding the options under paragraph (5)(A).
 

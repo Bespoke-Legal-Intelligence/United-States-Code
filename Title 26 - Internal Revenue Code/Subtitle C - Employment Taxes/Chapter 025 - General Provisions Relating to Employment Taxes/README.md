@@ -37,7 +37,7 @@ Pub. L. 98–21, title I, §123(b)(2), Apr. 20, 1983, 97 Stat. 88, added item 35
 
 <b>1982</b>—Pub. L. 97–248, title II, §§269(d), 270(b), Sept. 3, 1982, 96 Stat. 553, 554, added items 3508 and 3509.
 
-Pub. L. 97–248, title III, §§307(b)(5), 308(a), Sept. 3, 1982, 96 Stat. 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, the caption of chapter 25 is amended by inserting "AND COLLECTION OF INCOME TAXES AT SOURCE". Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal RevenueCode of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+Pub. L. 97–248, title III, §§307(b)(5), 308(a), Sept. 3, 1982, 96 Stat. 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, the caption of chapter 25 is amended by inserting "AND COLLECTION OF INCOME TAXES AT SOURCE". Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 <b>1978</b>—Pub. L. 95–600, title I, §105(b)(2), Nov. 6, 1978, 92 Stat. 2776, added item 3507.
 

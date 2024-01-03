@@ -66,7 +66,7 @@ For purposes of this part, part II, and chapter 3, the term "trade or business w
 
 &emsp;&emsp;(B) the activities of such trade or business were a material factor in the realization of the income, gain, or loss.
 
-> &emsp;In determining whether an asset is used in or held for use in the conduct of such trade or business or whether the activities of such trade or business were a material factor in realizing an item of income, gain, or loss, due regard shall be given to whether or not such asset or such income, gain, or loss was accounted for through such trade or business.
+> &emsp;In determining whether an asset is used in or held for use in the conduct of such trade or business or whether the activities of suchtrade or business were a material factor in realizing an item of income, gain, or loss, due regard shall be given to whether or not such asset or such income, gain, or loss was accounted for through such trade or business.
 
 #### (3) Other income from sources within United States
 
@@ -82,7 +82,7 @@ For purposes of this part, part II, and chapter 3, the term "trade or business w
 
 &emsp;&emsp;(ii) consists of dividends, interest, or amounts received for the provision of guarantees of indebtedness, and either is derived in the active conduct of a banking, financing, or similar business within the United States or is received by a corporation the principal business of which is trading in stocks or securities for its own account; or
 
-&emsp;&emsp;(iii) is derived from the sale or exchange (outside the United States) through such office or other fixed place of business of personal property described in section 1221(a)(1), except that this clause shall not apply if the property is sold or exchanged for use, consumption, or disposition outside the UnitedStates and an office or other fixed place of business of the taxpayer in a foreign country participated materially in such sale.
+&emsp;&emsp;(iii) is derived from the sale or exchange (outside the United States) through such office or other fixed place of business of personal property described in section 1221(a)(1), except that this clause shall not apply if the property is sold or exchanged for use, consumption, or disposition outside the United States and an office or other fixed place of business of the taxpayer in a foreign country participated materially in such sale.
 
 > &emsp;Any income or gain which is equivalent to any item of income or gain described in clause (i), (ii), or (iii) shall be treated in the same manner as such item for purposes of this subparagraph.
 
@@ -274,7 +274,7 @@ For purposes of this subchapter—
 
 #### (D) Coordination with subpart F, etc.
 
-&emsp;&emsp;For purposes of this paragraph, proper adjustment shall be made to the earnings and profits of any corporation to take into account any earnings and profits included in gross income under section 951 or under any other provision of this title and reflected in the adjusted basis of the stock.
+&emsp;&emsp;For purposes of this paragraph, proper adjustment shall be made to the earnings andprofits of any corporation to take into account any earnings and profits included in gross income under section 951 or under any other provision of this title and reflected in the adjusted basis of the stock.
 
 #### (5) Affiliated group
 
@@ -362,7 +362,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;Any qualified research and experimental expenditures described in subparagraph (B)—
 
-&emsp;&emsp;&emsp;(i) if incurred by a United States person, shall be allocated and apportioned underthis section in the same manner as if they were attributable to activities conducted in the United States, and
+&emsp;&emsp;&emsp;(i) if incurred by a United States person, shall be allocated and apportioned under this section in the same manner as if they were attributable to activities conducted in the United States, and
 
 &emsp;&emsp;&emsp;(ii) if incurred by a person other than a United States person, shall be allocated and apportioned under this section in the same manner as if they were attributable to activities conducted outside the United States.
 
@@ -402,7 +402,7 @@ For purposes of this subchapter—
 
 &emsp;This subsection shall apply to the taxpayer's first taxable year (beginning on or before August 1, 1994) following the taxpayer's last taxable year to which Revenue Procedure 92–56 applies or would apply if the taxpayer elected the benefits of such Revenue Procedure.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 89–809, title I, §102(d), Nov. 13, 1966, 80 Stat. 1544; Pub. L. 94–455, title XIX, §1901(a)(113), Oct. 4, 1976, 90 Stat. 1783; Pub. L. 98–369, div. A, title I, §§123(a), 127(c), July 18, 1984, 98 Stat. 644, 651; Pub. L. 99–514, title XII, §§1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§1810(c)(2), (3), 1899A(21), Oct. 22, 1986, 100 Stat. 2525, 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; Pub. L. 100–203, title X, §10242(b), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1012(a)(1)(B), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, 102 Stat. 3494, 3498, 3499, 3501–3503, 3521, 3525; Pub. L. 101–239, title VII, §7111, Dec. 19, 1989, 103 Stat. 2326; Pub. L. 101–508, title XI, §11401(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 102–227, title I, §101(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §13234, Aug. 10, 1993, 107 Stat. 504; Pub. L. 105–34, title XI, §1162(a), Aug. 5, 1997, 111 Stat. 987; Pub. L. 106–170, title V, §532(c)(2)(N)–(P), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–519, §4(3), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(6), title IV, §§401(a), (b), 403(b)(6), 413(c)(12), title VIII, §894(a), Oct. 22, 2004, 118 Stat. 1423, 1488, 1491, 1494, 1507, 1647; Pub. L. 110–289, div. C, title III, §3093(a), (b), July 30, 2008, 122 Stat. 2912; Pub. L. 111–92, §15(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §551(a), Mar. 18, 2010, 124 Stat. 117; Pub. L. 111–226, title II, §216(a), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–240, title II, §2122(c), Sept. 27, 2010, 124 Stat. 2568; Pub. L. 115–97, title I, §§13501(a), 14502(a), Dec. 22, 2017, 131 Stat. 2138, 2235; Pub. L. 115–141, div. U, title IV, §401(a)(152), (d)(1)(D)(x), (xvii)(IV), (V), Mar. 23, 2018, 132 Stat. 1191, 1207, 1208; Pub. L. 117–2, title IX, §9671(a), Mar. 11, 2021, 135 Stat. 184.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 89–809, title I, §102(d), Nov. 13, 1966, 80 Stat. 1544; Pub. L. 94–455, title XIX, §1901(a)(113), Oct. 4, 1976, 90 Stat. 1783; Pub. L. 98–369, div. A, title I, §§123(a), 127(c), July 18, 1984, 98 Stat. 644, 651; Pub. L. 99–514, title XII, §§1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§1810(c)(2), (3), 1899A(21), Oct. 22, 1986, 100 Stat. 2525, 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; Pub. L. 100–203, title X, §10242(b), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1012(a)(1)(B), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, 102 Stat. 3494, 3498, 3499, 3501–3503, 3521, 3525; Pub. L. 101–239, title VII, §7111, Dec. 19, 1989, 103 Stat. 2326; Pub. L. 101–508, title XI, §11401(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 102–227, title I, §101(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L.103–66, title XIII, §13234, Aug. 10, 1993, 107 Stat. 504; Pub. L. 105–34, title XI, §1162(a), Aug. 5, 1997, 111 Stat. 987; Pub. L. 106–170, title V, §532(c)(2)(N)–(P), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–519, §4(3), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(6), title IV, §§401(a), (b), 403(b)(6), 413(c)(12), title VIII, §894(a), Oct. 22, 2004, 118 Stat. 1423, 1488, 1491, 1494, 1507, 1647; Pub. L. 110–289, div. C, title III, §3093(a), (b), July 30, 2008, 122 Stat. 2912; Pub. L. 111–92, §15(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §551(a), Mar. 18, 2010, 124 Stat. 117; Pub. L. 111–226, title II, §216(a), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–240, title II, §2122(c), Sept. 27, 2010, 124 Stat. 2568; Pub. L. 115–97, title I, §§13501(a), 14502(a), Dec. 22, 2017, 131 Stat. 2138, 2235; Pub. L. 115–141, div. U, title IV, §401(a)(152), (d)(1)(D)(x), (xvii)(IV), (V), Mar. 23, 2018, 132 Stat. 1191, 1207, 1208; Pub. L. 117–2, title IX, §9671(a), Mar. 11, 2021, 135 Stat. 184.)
 
 #### <b>Editorial Notes</b>
 
@@ -484,7 +484,7 @@ In general.—This subsection shall apply to the taxpayer's first 3 taxable year
 
 Reduction.—Notwithstanding subparagraph (A), in the case of the taxpayer's first taxable year beginning after August 1, 1991, this subsection shall only apply to qualified research and experimental expenditures incurred during the first 6 months of such taxable year."
 
-<b>1991</b>—Subsec. (f)(5). Pub. L. 102–227 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "This subsection shall apply to the taxpayer's first 2 taxable years beginning after August 1, 1989, and on or before August 1, 1991."
+<b>1991</b>—Subsec. (f)(5). Pub. L. 102–227 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "This subsection shall apply to the taxpayer's first 2taxable years beginning after August 1, 1989, and on or before August 1, 1991."
 
 <b>1990</b>—Subsec. (f)(5). Pub. L. 101–508 substituted "Years" for "Year" in heading and amended text generally. Prior to amendment, text read as follows:
 
@@ -566,7 +566,7 @@ Subsec. (d)(7), (8). Pub. L. 99–514, §1810(c)(2), added par. (7) and redesign
 
 Subsec. (e). Pub. L. 99–514, §1215(a), added subsec. (e).
 
-<b>1984</b>—Subsec. (c)(2). Pub. L. 98–369, §127(c), substituted "section 871(a)(1), section 871(h) section 881(a), or section 881(c)" for "section 871(a)(1) or section 881(a)".
+<b>1984</b>—Subsec. (c)(2). Pub. L. 98–369, §127(c), substituted "section 871(a)(1), section 871(h) section 881(a),or section 881(c)" for "section 871(a)(1) or section 881(a)".
 
 Subsec. (d). Pub. L. 98–369, §123(a), added subsec. (d).
 
@@ -602,7 +602,7 @@ Pub. L. 111–147, title V, §551(b), Mar. 18, 2010, 124 Stat. 117, provided tha
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–92, §15(c), Nov. 6, 2009, 123 Stat. 2996, provided that: "The amendments made by this section\[amending this section\] shall apply to taxable years beginning after December 31, 2010."
+Pub. L. 111–92, §15(c), Nov. 6, 2009, 123 Stat. 2996, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2010."
 
 #### Effective Date of 2008 Amendment
 
@@ -654,7 +654,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section 10242(d) of Pub. L. 100–203, set out as a note under section 816 of this title.
+Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section 10242(d)of Pub. L. 100–203, set out as a note under section 816 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -834,7 +834,7 @@ Special rule.—
 
 &emsp;"(A)
 
-In general.—In the case of a qualified corporation, in lieu of applying paragraph (2), the amendments made by this section shall not apply to interest expenses allocable to any indebtedness to theextent such indebtedness does not exceed $500,000,000 if—
+In general.—In the case of a qualified corporation, in lieu of applying paragraph (2), the amendments made by this section shall not apply to interest expenses allocable to any indebtedness to the extent such indebtedness does not exceed $500,000,000 if—
 
 &emsp;&emsp;"(i) the indebtedness was incurred to develop or improve existing property that is owned by the taxpayer on November 16, 1985, and was acquired with the intent to develop or improve the property,
 
@@ -906,7 +906,7 @@ Pub. L. 99–514, title XII, §1223(c), Oct. 22, 1986, 100 Stat. 2558, provided 
 
 Pub. L. 99–514, title XII, §1242(c), Oct. 22, 1986, 100 Stat. 2580, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986."
 
-Amendment by section 1275(c)(7) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
+Amendment by section 1275(c)(7) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
 Amendment by section 1810(c)(2), (3) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -934,7 +934,7 @@ Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 3
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, except that in applying section 864(c)(4)(B)(iii) of this title with respect to a binding contract entered into on or before Feb. 24, 1966, activities in the United States on or before such date in negotiating or carrying out such contract shall not be taken into account, see section102(e)(1) of Pub. L. 89–809, set out as a note under section 861 of this title.
+Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, except that in applying section 864(c)(4)(B)(iii) of this title with respect to a binding contract entered into on or before Feb. 24, 1966, activities in the United States on or before such date in negotiating or carrying out such contract shall not be taken into account, see section 102(e)(1) of Pub. L. 89–809, set out as a note under section 861 of this title.
 
 #### Savings Provision
 

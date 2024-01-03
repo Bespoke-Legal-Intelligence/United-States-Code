@@ -40,7 +40,7 @@
 
 #### (1) Use for payment of insurance obligations
 
-&emsp;From sums appropriated pursuant to section 1071(b)(4)(B) of this title, the Secretary shall advance to each State which has an agreement with the Secretary under section 1078(c) of this title with respect to a student loan insurance program, an amount determined in accordance with paragraph (2) of this subsection to be used for the purpose of making payments under the State's insurance obligations under such program.
+&emsp;From sums appropriated pursuant to section 1071(b)(4)(B) of this title, the Secretary shalladvance to each State which has an agreement with the Secretary under section 1078(c) of this title with respect to a student loan insurance program, an amount determined in accordance with paragraph (2) of this subsection to be used for the purpose of making payments under the State's insurance obligations under such program.
 
 #### (2) Amount of advances
 
@@ -120,7 +120,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall pay any guaranty agency the amount of reimbursement of claimsunder section 1078(c)(1) of this title, filed between September 1, 1988, and December 31, 1989, which were previously withheld or canceled in order to be applied to satisfy such agency's obligation to eliminate excess cash reserves held by such agency, based on the maximum cash reserve (as described in subsection (e) of this section as in effect on September 1, 1988) permitted at the end of 1986, if such maximum cash reserve was miscalculated because of erroneous financial information provided by such agency to the Secretary and if (A) such erroneous information is verified by an audited financial statement of the reserve fund, signed by a certified public accountant, and (B) such audited financial statement is provided to the Secretary prior to January 1, 1993.
+&emsp;The Secretary shall pay any guaranty agency the amount of reimbursement of claims under section 1078(c)(1) of this title, filed between September 1, 1988, and December 31, 1989, which were previously withheld or canceled in order to be applied to satisfy such agency's obligation to eliminate excess cash reserves held by such agency, based on the maximum cash reserve (as described in subsection (e) of this section as in effect on September 1, 1988) permitted at the end of 1986, if such maximum cash reserve was miscalculated because of erroneous financial information provided by such agency to the Secretary and if (A) such erroneous information is verified by an audited financial statement of the reserve fund, signed by a certified public accountant, and (B) such audited financial statement is provided to the Secretary prior to January 1, 1993.
 
 #### (2) Amount
 
@@ -144,7 +144,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;Notwithstanding any other provision of law, the reserve funds of the guaranty agencies, and any assets purchased with such reserve funds, regardless of who holds or controls the reserves or assets, shall be considered to be the property of the United States to be used in the operation of the program authorized by this part. However, the Secretary may not require the return of all reserve funds of a guaranty agency to the Secretary unless the Secretary determines that such return is in the best interest of the operation of the program authorized by this part, or to ensure the proper maintenance of such agency's funds or assets or the orderly termination of the guaranty agency's operations and the liquidation of its assets. The reserves shall be maintained by each guaranty agency to pay program expenses and contingent liabilities, as authorized by the Secretary, except that—
 
-&emsp;&emsp;(A) the Secretary may direct a guaranty agency to return to the Secretary a portion of its reserve fund which the Secretary determines is unnecessary to pay the program expenses and contingent liabilities of the guaranty agency;
+&emsp;&emsp;(A) the Secretary may direct a guaranty agency to return to the Secretary a portionof its reserve fund which the Secretary determines is unnecessary to pay the program expenses and contingent liabilities of the guaranty agency;
 
 &emsp;&emsp;(B) the Secretary may direct the guaranty agency to require the return, to the guaranty agency or to the Secretary, of any reserve funds or assets held by, or under the control of, any other entity, which the Secretary determines are necessary to pay the program expenses and contingent liabilities of the guaranty agency, or which are required for the orderly termination of the guaranty agency's operations and the liquidation of its assets;
 
@@ -190,7 +190,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;&emsp;&emsp;(ii) the total amount of all such agencies' reserve funds remaining (after deduction of the required shares calculated under such subparagraph).
 
-&emsp;&emsp;(D) If any additional amount is required to be recalled under paragraph (1) (after deducting the total of the required shares calculated under subparagraphs (B) and (C)), such additional amount shall be obtained by imposing on each guaranty agency with a reserve ratio (after deducting the required shares calculated under such subparagraphs) in excess of 0.58 percent an equal percentage reduction in the amount of the agency's reserve funds remaining (after such deduction) that exceed a reserve ratio of 0.58 percent. The equal percentage reduction shall be the percentage obtained by dividing—
+&emsp;&emsp;(D) If any additional amount is required to be recalled under paragraph (1) (after deducting the total of the required shares calculated under subparagraphs (B) and (C)), such additional amount shall be obtained by imposing on each guaranty agency with a reserve ratio (after deducting the required shares calculated under such subparagraphs) in excess of 0.58 percent an equal percentagereduction in the amount of the agency's reserve funds remaining (after such deduction) that exceed a reserve ratio of 0.58 percent. The equal percentage reduction shall be the percentage obtained by dividing—
 
 &emsp;&emsp;&emsp;(i) the additional amount to be recalled under paragraph (1) (after deducting the amount recalled under subparagraphs (B) and (C)), by
 
@@ -340,7 +340,7 @@ Amendment by Pub. L. 103–208 (which was effective as if included in Pub. L. 10
 
 #### Prior Provisions
 
-A prior section 1072, Pub. L. 89–329, title IV, §422, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 89–752, §11, Nov. 3, 1966, 80 Stat. 1243; Pub. L. 90–575, title I, §114(b), (c), Oct. 16, 1968, 82 Stat. 1021, 1022; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2100; Pub. L. 95–43, §1(a)(11)–(13), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–561, title XIII, §1322(a), Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 99–272, title XVI, §16011, Apr. 7, 1986, 100 Stat. 339, authorized advances to establish or strengthen reserve funds of State and nonprofit private loan insurance programs, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1072, Pub. L. 89–329, title IV, §422, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 89–752, §11, Nov. 3, 1966, 80 Stat. 1243; Pub. L. 90–575, title I, §114(b), (c), Oct. 16, 1968, 82 Stat. 1021, 1022; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2100; Pub. L. 95–43, §1(a)(11)–(13), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–561, title XIII, §1322(a), Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, titleXIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 99–272, title XVI, §16011, Apr. 7, 1986, 100 Stat. 339, authorized advances to establish or strengthen reserve funds of State and nonprofit private loan insurance programs, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

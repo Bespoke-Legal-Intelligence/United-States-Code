@@ -62,7 +62,7 @@ Not later than 60 days after submission to the Secretary of Labor of the Board's
 
 &emsp;(1) includes a statement of whether the Secretary accepts or rejects the Board's recommendations;
 
-&emsp;(2) if the Secretary accepts the Board's recommendations, describes the timeline forwhen those recommendations will be implemented; and
+&emsp;(2) if the Secretary accepts the Board's recommendations, describes the timeline for when those recommendations will be implemented; and
 
 &emsp;(3) if the Secretary does not accept the recommendations, describes the reasons the Secretary does not agree and provides all scientific research to the Board supporting that decision.
 
@@ -82,9 +82,9 @@ Not later than 60 days after submission to the Secretary of Labor of the Board's
 
 #### (j) Sunset
 
-The Board shall terminate on the date that is 10 years after December 19, 2014.
+The Board shall terminate on the date that is 15 years after December 19, 2014.
 
-(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3687\], as added Pub. L. 113–291, div. C, title XXXI, §3141(a), Dec. 19, 2014, 128 Stat. 3897; amended Pub. L. 115–91, div. C, title XXXI, §3120, Dec. 12, 2017, 131 Stat. 1892; Pub. L. 116–92, div. C, title XXXI, §3134(b), Dec. 20, 2019, 133 Stat. 1959.)
+(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3687\], as added Pub. L. 113–291, div. C, title XXXI, §3141(a), Dec. 19, 2014, 128 Stat. 3897; amended Pub. L. 115–91, div. C, title XXXI, §3120, Dec. 12, 2017, 131 Stat. 1892; Pub. L. 116–92, div. C, title XXXI, §3134(b), Dec. 20, 2019, 133 Stat. 1959; Pub. L. 118–31, div. E, title LV, §5501(c), Dec. 22, 2023, 137 Stat. 956.)
 
 #### <b>Editorial Notes</b>
 
@@ -93,6 +93,8 @@ The Board shall terminate on the date that is 10 years after December 19, 2014.
 Section 151 of title I of division B of Appendix D of the Consolidated Appropriations Act, 2001, referred to in subsec. (i)(2)(A), (B), is Pub. L. 106–554, §1(a)(4) \[div. B, title I, §151\], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, which is not classified to the Code.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (j). Pub. L. 118–31 substituted "15 years" for "10 years".
 
 <b>2019</b>—Subsec. (b)(1)(E), (F). Pub. L. 116–92, §3134(b)(1), added subpars. (E) and (F).
 

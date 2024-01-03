@@ -6,7 +6,7 @@ Subpart D—Treatment of Excess Distributions by Trusts
 | [666\.](%C2%A7%2000666%20-%20Accumulation%20distribution%20allocated%20to%20preceding%20years.md) | Accumulation distribution allocated to preceding years. |
 | [667\.](%C2%A7%2000667%20-%20Treatment%20of%20amounts%20deemed%20distributed%20by%20trust%20in%20preceding%20years.md) | Treatment of amounts deemed distributed by trust in preceding years. |
 | [668\.](%C2%A7%2000668%20-%20Interest%20charge%20on%20accumulation%20distributions%20from%20foreign%20trusts.md) | Interest charge on accumulation distributions from foreign trusts. |
-| \[669. | Repealed.\] |
+| \[669. | Repealed.\]<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

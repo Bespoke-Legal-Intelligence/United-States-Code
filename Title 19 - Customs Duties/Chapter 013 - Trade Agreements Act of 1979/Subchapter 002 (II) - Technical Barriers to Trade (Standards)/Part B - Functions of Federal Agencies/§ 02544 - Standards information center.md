@@ -32,7 +32,7 @@ The standards information center shall—
 
 &emsp;&emsp;(C) the determination of the levels of protection that a Federal agency or an agency of a State or local government considers appropriate; and
 
-&emsp;&emsp;(D) the membership and participation of the Federal Government and State and local governments in international and regional sanitary and phytosanitary organizations and systems, and in bilateral and multilateral arrangements regarding sanitary andphytosanitary measures, and the provisions of those systems and arrangements.
+&emsp;&emsp;(D) the membership and participation of the Federal Government and State and local governments in international and regional sanitary and phytosanitary organizations and systems, and in bilateral and multilateral arrangements regarding sanitary and phytosanitary measures, and the provisions of those systems and arrangements.
 
 #### (2) Definitions
 

@@ -20,7 +20,7 @@ Board of Directors.—(1) The board of directors is the governing body of the FF
 
 (3) The number of directors, terms of office of the directors, and the method of selecting the directors, are as provided in the constitution or bylaws of the FFA.
 
-(4) The board shall meet at least annually at the time and place provided in the constitution or bylaws of the FFA. The annual report of the board shall be presented at that meeting. Special meetings of the board may be called at any time by the chair.
+(4) The board shall meet at least annually at the time and place provided in the constitutionor bylaws of the FFA. The annual report of the board shall be presented at that meeting. Special meetings of the board may be called at any time by the chair.
 
 (b)
 
@@ -88,7 +88,7 @@ Subsec. (a)(2), (3). Pub. L. 116–7, §5(1)(B), added pars. (2) and (3) and str
 
 Subsec. (a)(4). Pub. L. 116–7, §5(1)(C), substituted "constitution or bylaws of the FFA" for "bylaws" and "chair" for "chairman".
 
-Subsecs. (b), (c). Pub. L. 116–7, §5(2), (3), added subsecs. (b) and (c) and struck out former subsec. (b) whichread as follows: "
+Subsecs. (b), (c). Pub. L. 116–7, §5(2), (3), added subsecs. (b) and (c) and struck out former subsec. (b) which read as follows: "
 
 Governing Committee.—The board may designate the chairman of the board and two members of the chairman's staff as a governing committee. When the board is not in session, the governing committee has the powers of the board subject to the board's direction and may authorize the seal of the corporation to be affixed to all papers that require it."
 

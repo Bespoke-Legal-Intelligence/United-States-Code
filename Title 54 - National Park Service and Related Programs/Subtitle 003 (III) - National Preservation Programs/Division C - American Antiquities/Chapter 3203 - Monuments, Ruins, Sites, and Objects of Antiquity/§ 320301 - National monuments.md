@@ -66,7 +66,11 @@ Arches National Monument, Utah \[Monument abolished and funds made available to 
 
 c79; Proc. No. 3887, Jan. 20, 1969, 83 Stat. 920.
 
+Avi Kwa Ame National Monument, Nevada.—Proc. No. 10533, Mar. 21, 2023, 88 F.R. 17987; Ex. Ord. No. 14109, §1(ii), Sept. 29, 2023, 88 F.R. 68448.
+
 Aztec Ruins National Monument, New Mexico.—Proc. No. 1650, Jan. 24, 1923, 42 Stat. 2295; Proc. No. 1840, July 2, 1928, 45 Stat. 2954; Proc. No. 1928, Dec. 19, 1930, 46 Stat. 3040; Proc. No. 2787, May 27, 1948, 62 Stat. 1513; Pub. L. 100–559, title VI, §§601–604, Oct. 28, 1988, 102 Stat. 2800.
+
+Baaj Nwaavjo I'tah Kukveni—Ancestral Footprints of the Grand Canyon National Monument, Arizona.—Proc. No. 10606, Aug. 8, 2023, 88 F.R. 55331; Ex. Ord. No. 14109, §1(jj), Sept. 29, 2023, 88 F.R. 68448.
 
 Badlands National Monument, South Dakota \[Monument redesignated Badlands National Park, see section 441e–1 of Title 16, Conservation\].—Proc. No. 2320, Jan. 25, 1939, 53 Stat. 2521.
 
@@ -74,7 +78,7 @@ Bandelier National Monument, New Mexico.—Proc. No. 1322, Feb. 11, 1916, 39 Sta
 
 Basin and Range National Monument, Nevada.—Proc. No. 9297, July 10, 2015, 80 F.R. 41969.
 
-Bears Ears National Monument, Utah.—Proc. No. 9558, Dec. 28, 2016, 82 F.R. 1139; Ex. Ord. No. 13811, §1(dd), Sept. 29, 2017, 82 F.R. 46364; Proc. No. 9681, Dec. 4, 2017, 82 F.R. 58081; Ex. Ord. No. 13889, §1(aa), Sept. 27, 2019, 84 F.R. 52744; Ex. Ord. No. 14048, §1(aa), Sept. 30, 2021, 86 F.R. 55466; Proc. No. 10285, Oct. 8, 2021, 86 F.R. 57321.
+Bears Ears National Monument, Utah.—Proc. No. 9558, Dec. 28, 2016, 82 F.R. 1139; Ex. Ord. No. 13811, §1(dd), Sept. 29, 2017, 82 F.R. 46364; Proc. No. 9681, Dec. 4, 2017, 82 F.R. 58081; Ex. Ord. No. 13889, §1(aa), Sept. 27, 2019, 84 F.R. 52744; Ex. Ord. No. 14048, §1(aa), Sept. 30, 2021, 86 F.R. 55466; Proc. No. 10285, Oct. 8, 2021, 86 F.R. 57321; Ex. Ord. No. 14109, §1(gg), Sept. 29, 2023, 88 F.R. 68448.
 
 Becharof National Monument, Alaska.—Proc. No. 4613, Dec. 1, 1978, 93 Stat. 1450.
 
@@ -136,6 +140,8 @@ Castle Mountains National Monument, California.—Proc. No. 9394, Feb. 12, 2016,
 
 Castle Pinckney National Monument, South Carolina.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968.
 
+Castner Range National Monument, Texas.—Proc No. 10534, Mar. 21, 2023, 88 F.R. 17999.
+
 Cedar Breaks National Monument, Utah.—Proc. No. 2054, Aug. 22, 1933, 48 Stat. 1705.
 
 César E. Chávez National Monument, California.—Proc. No. 8884, Oct. 8, 2012, 77 F.R. 62413.
@@ -184,6 +190,8 @@ a371; Pub. L. 106–323, Oct. 19, 2000, 114 Stat. 1289.
 
 El Morro National Monument, New Mexico.—Proc. No. 695, Dec. 8, 1906, 34 Stat. 3264; Proc. No. 1377, June 18, 1917, 40 Stat. 1673.
 
+Emmett Till and Mamie Till-Mobley National Monument, Illinois and Mississippi.—Proc. No. 10602, July 25, 2023, 88 F.R. 48705.
+
 First State National Monument, Delaware \[Monument redesignated First State National Historical Park, see section 410rrr of Title 16, Conservation\].—Proc. No. 8944, Mar. 25, 2013, 78 F.R. 18769.
 
 Fort Jefferson National Monument, Florida \[Monument abolished and incorporated in Dry Tortugas National Park, see section 410xx of Title 16, Conservation\].—Proc. No. 2112, Jan. 4, 1935, 49 Stat. 3430; Pub. L. 96–287, title II, June 28, 1980, 94 Stat. 600; Pub. L. 102–525, title II, §201(c), Oct. 26, 1992, 106 Stat. 3440.
@@ -218,7 +226,7 @@ Glacier Bay National Monument, Alaska \[Monument redesignated Glacier Bay Nation
 
 c27; Proc. No. 4618, Dec. 1, 1978, 93 Stat. 1458.
 
-Gold Butte National Monument, Nevada.—Proc. No. 9559, Dec. 28, 2016, 82 F.R. 1149; Ex. Ord. No. 13811, §1(ee), Sept. 29, 2017, 82 F.R. 46364; Ex. Ord. No. 13889, §1(bb), Sept. 27, 2019, 84 F.R. 52744; Ex. Ord. No. 14048, §1(bb), Sept. 30, 2021, 86 F.R. 55466.
+Gold Butte National Monument, Nevada.—Proc. No. 9559, Dec. 28, 2016, 82 F.R. 1149; Ex. Ord. No. 13811, §1(ee), Sept. 29, 2017, 82 F.R. 46364; Ex. Ord. No. 13889, §1(bb), Sept. 27, 2019, 84 F.R. 52744; Ex. Ord. No. 14048, §1(bb), Sept. 30, 2021, 86 F.R. 55466; Ex. Ord. No. 14109, §1(hh), Sept. 29, 2023, 88 F.R. 68448.
 
 Governors Island National Monument, New York.—Proc. No. 7402, Jan. 19, 2001, 66 F.R. 7855; Proc. No. 7647, Feb. 7, 2003, 68 F.R. 7053.
 
@@ -228,7 +236,7 @@ Grand Canyon National Monument, Arizona.—Proc. No. 794, Jan. 11, 1908, 35 Stat
 
 Grand Canyon-Parashant National Monument, Arizona.—Proc. No. 7265, Jan. 11, 2000, 65 F.R. 2825.
 
-Grand Staircase-Escalante National Monument, Utah.—Proc. No. 6920, Sept. 18, 1996, 110 Stat. 4561; Pub. L. 105–335, Oct. 31, 1998, 112 Stat. 3139; Pub. L. 105–355, title II, §201, Nov. 6, 1998, 112 Stat. 3252; Pub. L. 106–176, title III, §307, Mar. 10, 2000, 114 Stat. 33; Proc. No. 9682, Dec. 4, 2017, 82 F.R. 58089; Ex. Ord. No. 13889, §1(cc), Sept. 27, 2019, 84 F.R. 52744; Ex. Ord. No. 14048, §1(y), Sept. 30, 2021, 86 F.R. 55466; Proc. No. 10286, Oct. 8, 2021, 86 F.R. 57335.
+Grand Staircase-Escalante National Monument, Utah.—Proc. No. 6920, Sept. 18, 1996, 110 Stat. 4561; Pub. L. 105–335, Oct. 31, 1998, 112 Stat. 3139; Pub. L. 105–355, title II, §201, Nov. 6, 1998, 112 Stat. 3252; Pub. L. 106–176, title III, §307, Mar. 10, 2000, 114 Stat. 33; Proc. No. 9682, Dec. 4, 2017, 82 F.R. 58089; Ex. Ord. No. 13889, §1(cc), Sept. 27, 2019, 84 F.R. 52744; Ex. Ord. No. 14048, §1(y), Sept. 30, 2021, 86 F.R. 55466; Proc. No. 10286, Oct. 8, 2021, 86 F.R. 57335; Ex. Ord. No. 14109, §1(ee), Sept. 29, 2023, 88 F.R. 68448.
 
 Great Sand Dunes National Monument, Colorado \[Monument abolished and incorporated in Great Sand Dunes National Park, see section 410hhh–2 of Title 16, Conservation\].—Proc. No. 1994, Mar. 17, 1932, 47 Stat. 2506; Proc. No. 2681, Mar. 12, 1946, 60 Stat. 1339; Proc. No. 3138, June 7, 1956, 70 Stat.
 
@@ -364,7 +372,7 @@ Saguaro National Monument, Arizona \[Monument abolished and incorporated in Sagu
 
 San Gabriel Mountains National Monument, California.—Proc. No. 9194, Oct. 10, 2014, 79 F.R. 62303.
 
-San Juan Islands National Monument, Washington.—Proc. No. 8947, Mar. 25, 2013, 78 F.R. 18789; Ex. Ord. No. 13708, §1(nn), Sept. 30, 2015, 80 F.R. 60272; Ex. Ord. No. 13811, §1(cc), Sept. 29, 2017, 82 F.R. 46364; Ex. Ord. No. 13889, §1(z), Sept. 27, 2019, 84 F.R. 52744; Ex. Ord. No. 14048, §1(z), Sept. 30, 2021, 86 F.R. 55466.
+San Juan Islands National Monument, Washington.—Proc. No. 8947, Mar. 25, 2013, 78 F.R. 18789; Ex. Ord. No. 13708, §1(nn), Sept. 30, 2015, 80 F.R. 60272; Ex. Ord. No. 13811, §1(cc), Sept. 29, 2017, 82 F.R. 46364; Ex. Ord. No. 13889, §1(z), Sept. 27, 2019, 84 F.R. 52744; Ex. Ord. No. 14048, §1(z), Sept. 30, 2021, 86 F.R. 55466; Ex. Ord. No. 14109, §1(ff), Sept. 29, 2023, 88 F.R. 68448.
 
 Sand to Snow National Monument, California.—Proc. No. 9396, Feb. 12, 2016, 81 F.R. 8379.
 

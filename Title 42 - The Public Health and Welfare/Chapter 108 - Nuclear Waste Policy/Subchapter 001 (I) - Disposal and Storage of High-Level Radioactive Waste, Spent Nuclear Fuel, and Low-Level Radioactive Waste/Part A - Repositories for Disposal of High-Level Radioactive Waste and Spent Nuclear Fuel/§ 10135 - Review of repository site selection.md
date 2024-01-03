@@ -28,7 +28,7 @@ If any notice of disapproval of a repository site designation has been submitted
 
 (4)(A) When each committee to which a resolution of siting approval has been referred has reported, or has been deemed to be discharged from further consideration of, a resolution described in paragraph (3), it shall at any time thereafter be in order (even though a previous motion to the same effect has been disagreed to) for any Member of the Senate to move to proceed to the consideration of such resolution. Such motion shall be highly privileged and shall not be debatable. Such motion shall not be subject to amendment, to a motion to postpone, or to a motion to proceed to the consideration of other business. A motion to reconsider the vote by which such motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of such resolution is agreed to, such resolution shall remain the unfinished business of the Senate until disposed of.
 
-(B) Debate on a resolution of siting approval, and on all debatable motions and appeals in connection with such resolution, shall be limited to not more than 10 hours, which shall be divided equally between Members favoring and Members opposing such resolution. A motion further to limit debate shall be in order and shall not be debatable. Such motion shall not be subject to amendment, to a motion to postpone, or to a motion to proceed to the consideration of otherbusiness, and a motion to recommit such resolution shall not be in order. A motion to reconsider the vote by which such resolution is agreed to or disagreed to shall not be in order.
+(B) Debate on a resolution of siting approval, and on all debatable motions and appeals in connection with such resolution, shall be limited to not more than 10 hours, which shall be divided equally between Members favoring and Members opposing such resolution. A motion further to limit debate shall be in order and shall not be debatable. Such motion shall not be subject to amendment, to a motion to postpone, or to a motion to proceed to the consideration of other business, and a motion to recommit such resolution shall not be in order. A motion to reconsider the vote by which such resolution is agreed to or disagreed to shall not be in order.
 
 (C) Immediately following the conclusion of the debate on a resolution of siting approval, and a single quorum call at the conclusion of such debate if requested in accordance with the rules of the Senate, the vote on final approval of such resolution shall occur.
 
@@ -42,7 +42,7 @@ If any notice of disapproval of a repository site designation has been submitted
 
 &emsp;&emsp;(i) the procedure with respect to that or other resolutions of the Senate with respect to such site shall be the same as if no resolution from the House with respect to such site had been received; but
 
-&emsp;&emsp;(ii) on any vote on final passage of a resolution of the Senate with respect to such site, a resolution from the House with respect to such site where the text is identical shall be automatically substituted for the resolution of the Senate.
+&emsp;&emsp;(ii) on any vote on final passage of a resolution of the Senate with respect to such site, a resolution from the House with respect to such site where the text is identicalshall be automatically substituted for the resolution of the Senate.
 
 #### (e) Procedures applicable to House of Representatives
 

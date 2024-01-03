@@ -44,7 +44,7 @@ For purposes of this part—
 
 &emsp;&emsp;(C) any regular interest in another REMIC transferred to the REMIC on the startup day in exchange for regular or residual interests in the REMIC.
 
-> &emsp;For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property. For purposes of subparagraph (A), any obligation originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) shall be treated as principally secured by an interest in real property if more than 50 percent of such obligations which are transferred to, or purchased by, the REMIC are principally secured by an interest in real property (determined without regard to this sentence).
+> &emsp;For purposes of subparagraph (A), any obligation secured by stock held by a person as atenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property. For purposes of subparagraph (A), any obligation originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) shall be treated as principally secured by an interest in real property if more than 50 percent of such obligations which are transferred to, or purchased by, the REMIC are principally secured by an interest in real property (determined without regard to this sentence).
 
 #### (4) Qualified replacement mortgage
 
@@ -82,7 +82,7 @@ For purposes of this part—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term "qualified reserve fund" means any reasonably required reserve to—
 
-&emsp;&emsp;&emsp;(i) provide for full payment of expenses of the REMIC or amounts due on regularinterests in the event of defaults on qualified mortgages or lower than expected returns on cash flow investments, or
+&emsp;&emsp;&emsp;(i) provide for full payment of expenses of the REMIC or amounts due on regular interests in the event of defaults on qualified mortgages or lower than expected returns on cash flow investments, or
 
 &emsp;&emsp;&emsp;(ii) provide a source of funds for the purchase of obligations described in clause (ii) or (iii) of paragraph (3)(A).
 
@@ -158,7 +158,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) permitting determinations of the fair market value of property transferred to a REMIC and issue price of interests in a REMIC to be made earlier than otherwise provided,
 
-&emsp;(3) requiring reporting to holders of residual interests of such information as frequently asis necessary or appropriate to permit such holders to compute their taxable income accurately,
+&emsp;(3) requiring reporting to holders of residual interests of such information as frequently as is necessary or appropriate to permit such holders to compute their taxable income accurately,
 
 &emsp;(4) providing appropriate rules for treatment of transfers of qualified replacement mortgages to the REMIC where the transferor holds any interest in the REMIC, and
 
@@ -214,7 +214,7 @@ Subsec. (a)(3)(A)(ii). Pub. L. 100–647, §1006(t)(5)(C)(ii), inserted before c
 
 Subsec. (a)(3)(C). Pub. L. 100–647, §1006(t)(5)(C)(iii), substituted "on the startup day in exchange for regular or residual interests in the REMIC" for "on or before the startup day".
 
-Subsec. (a)(4)(A). Pub. L. 100–647, §1006(t)(5)(D), amended subpar. (A) generally. Prior to amendment,subpar. (A) read as follows: "which would be described in paragraph (3)(A) if it were transferred to the REMIC on or before the startup day, and".
+Subsec. (a)(4)(A). Pub. L. 100–647, §1006(t)(5)(D), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "which would be described in paragraph (3)(A) if it were transferred to the REMIC on or before the startup day, and".
 
 Subsec. (a)(7)(B). Pub. L. 100–647, §1006(t)(7), inserted before period at end of first sentence "or lower than expected returns on cash flow investments".
 

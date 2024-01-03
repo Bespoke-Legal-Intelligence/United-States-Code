@@ -2,7 +2,7 @@
 
 #### (a) Appointment; duties
 
-The Administrator shall appoint a flood insurance advisory committee without regard to the provisions of title 5 governing appointments in the competitive service, and such committee shall advise the Administrator in the preparation of any regulations prescribed in accordance with this chapter and with respect to policy matters arising in the administration of this chapter, and shall perform such other responsibilities as the Administrator may, from time to time, assign to such committee.
+The Administrator shall appoint a flood insurance advisory committee without regard to the provisions of title 5 governing appointments in the competitive service, and such committee shall advise the Administrator in the preparation of any regulations prescribed in accordance with this chapter and with respect to policymatters arising in the administration of this chapter, and shall perform such other responsibilities as the Administrator may, from time to time, assign to such committee.
 
 #### (b) Membership
 
@@ -44,7 +44,7 @@ Section effective 120 days following Aug. 1, 1968, or such later date prescribed
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

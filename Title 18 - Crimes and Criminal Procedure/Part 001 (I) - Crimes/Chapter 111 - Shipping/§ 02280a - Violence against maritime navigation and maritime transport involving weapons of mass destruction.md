@@ -42,7 +42,7 @@ In general.—Subject to the exceptions in subsection (c), a person who unlawful
 
 &emsp;&emsp;&emsp;(vi) any equipment, materials, or software or related technology that significantly contributes to the design, manufacture, or delivery of a biological or chemical weapon, with the intention that it will be used for such purpose;
 
-&emsp;&emsp;(C) transports another person on board a ship knowing that the person has committed an act that constitutes an offense under section 2280 or subparagraph (A), (B), (D), or (E) of this section <sup>1</sup> or an offense set forth in an applicable treaty, as specified in section2280(d)(1), and intending to assist that person to evade criminal prosecution;
+&emsp;&emsp;(C) transports another person on board a ship knowing that the person has committed an act that constitutes an offense under section 2280 or subparagraph (A), (B), (D), or (E) of this section <sup>1</sup> or an offense set forth in an applicable treaty, as specified in section 2280(d)(1), and intending to assist that person to evade criminal prosecution;
 
 &emsp;&emsp;(D) injures or kills any person in connection with the commission or the attempted commission of any of the offenses set forth in subparagraphs (A) through (C), or subsection (a)(2), to the extent that the subsection (a)(2) offense pertains to subparagraph (A); or
 

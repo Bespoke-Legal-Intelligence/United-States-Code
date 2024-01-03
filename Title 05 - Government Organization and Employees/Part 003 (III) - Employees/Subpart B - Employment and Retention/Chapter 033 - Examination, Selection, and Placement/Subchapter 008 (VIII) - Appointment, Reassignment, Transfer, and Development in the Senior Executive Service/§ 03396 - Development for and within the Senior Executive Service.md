@@ -24,11 +24,11 @@
 
 (3)(A) Any career appointee in an agency may be granted a sabbatical under this subsection only if the appointee agrees, as a condition of accepting the sabbatical, to serve in the civil service upon the completion of the sabbatical for a period of 2 consecutive years.
 
-(B) Each agreement required under subparagraph (A) of this paragraph shall provide that inthe event the career appointee fails to carry out the agreement (except for good and sufficient reason as determined by the head of the agency who granted the sabbatical) the appointee shall be liable to the United States for payment of all expenses (including salary) of the sabbatical. The amount shall be treated as a debt due the United States.
+(B) Each agreement required under subparagraph (A) of this paragraph shall provide that in the event the career appointee fails to carry out the agreement (except for good and sufficient reason as determined by the head of the agency who granted the sabbatical) the appointee shall be liable to the United States for payment of all expenses (including salary) of the sabbatical. The amount shall be treated as a debt due the United States.
 
 (d)(1) The Office shall encourage and assist individuals to improve their skills and increase their contribution by service in a variety of agencies as well as by accepting temporary placements in State or local governments or in the private sector.
 
-(2) In order to promote the professional development of career appointees and to assist them in achieving their maximum levels of proficiency, the Office shall, in a manner consistent with the needs of the Government provide appropriate informational services and otherwise encourage career appointees to take advantage of any opportunities relating to—
+(2) In order to promote the professional development of career appointees and to assist them in achieving their maximum levels of proficiency, the Office shall, in a manner consistentwith the needs of the Government provide appropriate informational services and otherwise encourage career appointees to take advantage of any opportunities relating to—
 
 &emsp;(A) sabbaticals;
 

@@ -126,7 +126,7 @@ Funds Returned to Miscellaneous Receipts of the Department of the Treasury.—
 
 "(e)
 
-Reporting Requirement.—The National Archives and Records Administration shall provide quarterly reports to the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Reform \[now Oversight and Reform\] of the House of Representatives on the operation of the Records Center Revolving Fund."
+Reporting Requirement.—The National Archives and Records Administration shall provide quarterly reports to the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives on the operation of the Records Center Revolving Fund."
 
 #### Federal Records Management Provisions Without Effect on Authorities and Responsibilities of Administrator of General Services, Joint Committee, or Government Publishing Office
 

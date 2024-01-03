@@ -76,9 +76,17 @@ For transfer of functions, personnel, assets, and liabilities of the Department 
 
 Missions and functions of elements of Department of Defense as specified in classified annex to Pub. L. 104–201, and related personnel, assets, and balances of appropriations and authorizations of appropriations, transferred to National Imagery and Mapping Agency, see sections 1111 and 1113 of Pub. L. 104–201, set out as notes under section 441 of this title.
 
+#### Software-Based Capability To Facilitate Scheduling Between the Department of Defense and Congress
+
+Pub. L. 118–31, div. A, title IX, §919, Dec. 22, 2023, 137 Stat. 372, provided that: "Not later than September 30, 2024, the Secretary of Defense shall seek to develop and implement a software-based capability to facilitate the mutual scheduling of engagements between the Department of Defense and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]. Such capability shall—
+
+&emsp;"(1) enable the automated transmission of scheduling data to and from the congressional defense committees; and
+
+&emsp;"(2) be compatible and interoperable with the information technology systems of such committees."
+
 #### Integrated and Authenticated Access to Department of Defense Systems for Certain Congressional Staff for Oversight Purposes
 
-Pub. L. 117–263, div. A, title X, §1046, Dec. 23, 2022, 136 Stat. 2773, provided that:
+Pub. L. 117–263, div. A, title X, §1046, Dec. 23, 2022, 136 Stat. 2773, as amended by Pub. L. 118–31, div. A, title X, §1081, Dec. 22, 2023, 137 Stat. 416, provided that:
 
 "(a)
 
@@ -88,9 +96,11 @@ In General.—The Secretary of Defense shall develop processes and procedures un
 
 &emsp;&emsp;"(A) the reporting system described in section 805(b) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81) \[135 Stat. 1816\] that will replace the Selected Acquisition Report requirements under section 4351 of title 10, United States Code; and
 
-&emsp;&emsp;"(B) the process referred to in section 908 of the William (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) \[10 U.S.C. 111 note\] that is used by the Department of Defense to identify reports to Congress required by annual national defense authorization Acts, assign responsibility for preparation of such reports, and manage the completion and delivery of such reports to Congress; and
+&emsp;&emsp;"(B) the process referred to in section 908 of the William (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) \[10 U.S.C. 111 note\] that is used by the Department of Defense to identify reports to Congress required by annual national defense authorization Acts, assign responsibility for preparation of such reports, and manage the completion and delivery of such reports to Congress;
 
-&emsp;"(2) to the extent feasible, be integrated with the provision of Pentagon Facilities Alternative Credentials.
+&emsp;"(2) to the extent feasible, be integrated with the provision of Pentagon Facilities Alternative Credentials; and
+
+&emsp;"(3) to the extent feasible, be integrated with software used by the Department of Defense Parking Management Office to validate parking requests.
 
 "(b)
 
@@ -200,21 +210,85 @@ Pub. L. 115–91, div. A, title X, §1051(x), Dec. 12, 2017, 131 Stat. 1567, pro
 
 #### Organizational Strategy for the Department of Defense
 
-Pub. L. 117–81, div. A, title IX, §910, Dec. 27, 2021, 135 Stat. 1877, as amended by Pub. L. 117–263, div. A, title X, §1044(a), Dec. 23, 2022, 136 Stat. 2771, provided that:
+Pub. L. 118–31, div. G, title III, §7353, Dec. 22, 2023, 137 Stat. 1065, provided that:
 
 "(a)
 
-Establishment.—Using the authority provided pursuant to section 911(c) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 111 note), the Secretary of Defense shall establish a cross-functional team to address national security challenges posed by anomalous health incidents (as defined by the Secretary) and ensure that individuals affected by anomalous health incidents receive timely and comprehensive health care and treatment pursuant to title 10, United States Code, for symptoms consistent with an anomalous health incident.
+Access to Information.—Upon request by the cross-functional team of the Department of Defense established under section 910 of the National Defense Authorization Act of Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 111 note) \[set out below\] (in this section referred to as the 'cross-functional team'), and consistent with the protection of intelligence sources and methods, the head of any element of the intelligence community shall provide such team with access to any information (including any intelligence reporting, analysis, or finished intelligence product) of the element potentially relevant to the duties of such team required under subsection (b)(1) of such section.
+
+"(b)
+
+Rule of Construction.—Nothing in subsection (a) shall be construed as waiving the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) or any other applicable law regarding privacy or the protection of health information.
+
+"(c)
+
+Staffing of Cross-functional Team by Certain Elements.—
+
+&emsp;"(1)
+
+Staffing.—
+
+&emsp;&emsp;"(A)
+
+Covered elements.—The head of each covered element shall detail or assign to the cross-functional team, including through a joint duty assignment (as applicable), intelligence or counterintelligence personnel of that covered element in such numbers as the head, in consultation with such team, determines necessary to support such team in fulfilling the duties required under section 910(b)(1) of the National Defense Authorization Act of Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 111 note).
+
+&emsp;&emsp;"(B)
+
+Other elements.—The head any element that is not a covered element may only detail or assign to the cross-functional team, including through a joint duty assignment (as applicable), intelligence or counterintelligence personnel of such element if the head of such element—
+
+&emsp;&emsp;&emsp;"(i) receives written concurrence from the Director of National Intelligence and the Secretaryof Defense regarding the specific personnel to be detailed or assigned; and
+
+&emsp;&emsp;&emsp;"(ii) submits to the congressional intelligence committees, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives a notification describing the personnel to be detailed or assigned and the rationale for participation in the cross functional team.
+
+&emsp;"(2)
+
+National security agency.—In carrying out paragraph (1) with respect to the National Security Agency, the Director of the National Security Agency shall ensure there is detailed or assigned to the cross-functional team at least 1 individual determined appropriate by the Director, who, while so detailed or assigned, shall provide such team with technical expertise of the National Security Agency relevant to the fulfilment of the duties referred to in paragraph (1).
+
+"(d)
+
+Additional Detail Authority.—Upon request by the cross-functional team, the head of any element of the intelligence community may detail to such team personnel of the element to provide intelligence, counterintelligence, or related support.
+
+"(e)
+
+Covered Element Defined.—In this section, the term 'covered element' means the following:
+
+&emsp;"(1) The National Security Agency.
+
+&emsp;"(2) The Defense Intelligence Agency.
+
+&emsp;"(3) The intelligence elements of the Army, the Navy, the Air Force, and the Marine Corps."
+
+\[For definitions of "intelligence community" and "congressional intelligence committees" as used in section 7353 of Pub. L. 118–31, set out above, see section 7002 of Pub. L. 118–31, set out as a note under section 3003 of Title 50, War and National Defense.\]
+
+Pub. L. 117–81, div. A, title IX, §910, Dec. 27, 2021, 135 Stat. 1877, as amended by Pub. L. 117–263, div. A, title X, §1044(a), Dec. 23, 2022, 136 Stat. 2771; Pub. L. 118–31, div. A, title IX, §917, Dec. 22, 2023, 137 Stat. 369, provided that:
+
+"(a)
+
+Establishment.—Using the authority provided pursuant to section 911(c) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 111 note), the Secretary of Defense shall establish a cross-functional team to address national security challenges posed by anomalous health incidents (as defined by the Secretary), including capabilities that plausibly could result in such incidents, and ensure that individuals affected by anomalous health incidents receive timely and comprehensive health care and treatment pursuant to title 10, United States Code, for symptoms consistent with an anomalous health incident.
 
 "(b)
 
 Duties.—The duties of the cross-functional team established under subsection (a) shall be—
 
-&emsp;"(1) to assist the Secretary of Defense with addressing the challenges posed by anomalous health incidents, including the causation, attribution, mitigation, identification, and treatment for such incidents;
+&emsp;"(1) to investigate and carry out such other activities as may be necessary—
 
-&emsp;"(2) to integrate and deconflict the efforts of the Department of Defense regarding anomalous health incidents with the efforts of other departments or agencies of the Federal Government regarding such incidents; and
+&emsp;&emsp;"(A) to identify anomalous health incidents;
 
-&emsp;"(3) any other efforts regarding such incidents that the Secretary considers appropriate.
+&emsp;&emsp;"(B) to determine the causes and sources of such incidents, including identification of any individuals, entities, capabilities, or phenomena to which such incidents may plausibly be attributed; and
+
+&emsp;&emsp;"(C) to understand how such incidents may be mitigated and treated;
+
+&emsp;"(2) to address the challenges posed by anomalous health incidents, including by coordinating research into—
+
+&emsp;&emsp;"(A) non-kinetic capabilities that plausibly might result in such incidents, such as anti-personnel capabilities and directed energy capabilities;
+
+&emsp;&emsp;"(B) the detection and mitigation of such capabilities; and
+
+&emsp;&emsp;"(C) the development of countermeasures for such capabilities;
+
+&emsp;"(3) to integrate and deconflict the efforts of the Department of Defense regarding anomalous health incidents with the efforts of other departments or agencies of the Federal Government regarding such incidents; and
+
+&emsp;"(4) to undertake any other efforts regarding non-kinetic threats to personnel and anomalous health incidents that the Secretary considers appropriate.
 
 "(c)
 
@@ -222,7 +296,7 @@ Team Leadership.—The Secretary shall select an Under Secretary of Defense to l
 
 "(d)
 
-Determination of Organizational Roles and Responsibilities.—The Secretary, in consultation with the Director of National Intelligence and acting through the cross-functional team established under subsection (a), shall determine the roles and responsibilities of the organizations and elements of the Department of Defense with respect to addressing anomalous health incidents, including the roles and responsibilities of the Office of the Secretary of Defense, the intelligence components of the Department, Defense agencies, Department of Defense field activities, the military departments, combatant commands, and the Joint Staff.
+Determination of Organizational Roles and Responsibilities.—The Secretary, acting through the cross-functional team established under subsection (a), shall determine the roles and responsibilities of the organizations and elements of the Department of Defense with respect to addressing anomalous health incidents, including the roles and responsibilities of the Office of the Secretary of Defense, the intelligence components of the Department, Defense agencies, Department of Defense field activities, the military departments, combatant commands, and the Joint Staff.
 
 "(e)
 
@@ -242,7 +316,7 @@ Initial briefing.—Not later than 45 days after the date of the enactment of th
 
 &emsp;"(2)
 
-Updates.—Not later than March 1, 2023, and not less frequently than once every 180 days thereafter until March 1, 2026, the Secretary shall provide to the appropriate congressional committees a briefing containing updates with respect to the efforts of the Department regarding anomalous health incidents.
+Updates.—Not later than March 1, 2023, and not less frequently than once every 180 days thereafter until March 1, 2028, the Secretary shall provide to the appropriate congressional committees a briefing containing updates on any activities carried out to fulfill the duties specified in subsection (b) since the date of the preceding briefing under this section.
 
 "(f)
 
@@ -416,7 +490,7 @@ Directive on Collaborative Culture and Behavior.—The guidance issued by the Se
 
 "(e)
 
-Streamlining of Organizational Structure and Processes of OSD.—Not later than 18 monthsafter the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall take such actions as the Secretary considers appropriate to streamline the organizational structure and processes of the Office of the Secretary of Defense in order to increase spans of control, achieve a reduction in layers of management, eliminate unnecessary duplication between the Office and the Joint Staff, and reduce the time required to complete standard processes and activities.
+Streamlining of Organizational Structure and Processes of OSD.—Not later than 18 months after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall take such actions as the Secretary considers appropriate to streamline the organizational structure and processes of the Office of the Secretary of Defense in order to increase spans of control, achieve a reduction in layers of management, eliminate unnecessary duplication between the Office and the Joint Staff, and reduce the time required to complete standard processes and activities.
 
 "(f)
 
@@ -460,7 +534,7 @@ Pub. L. 117–263, div. A, title X, §1059(a), Dec. 23, 2022, 136 Stat. 2780, pr
 
 Pub. L. 115–91, div. A, title VIII, §811(d)(2), Dec. 12, 2017, 131 Stat. 1460, provided that: "Section 1080(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1000; 10 U.S.C. 111 note), as amended by section 1061(j) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2405; 10 U.S.C. 111 note), does not apply to the report required to be submitted to Congress under section 2313a of title 10, United States Code \[now 10 U.S.C. 3847\]."
 
-Pub. L. 114–328, div. A, title X, §1061, Dec. 23, 2016, 130 Stat. 2400, as amended by Pub. L. 115–91, div. A, title X, §§1051(u)–(w), 1081(d)(11), (12), Dec. 12, 2017, 131 Stat. 1566, 1567, 1600; Pub. L. 115–232, div. A, title III, §314(b)(2), title VIII, §813(i)(1), Aug. 13, 2018, 132 Stat. 1712, 1851; Pub. L. 117–81, div. A, title X, §§1011(b), 1064, Dec. 27, 2021, 135 Stat. 1890, 1909; Pub. L. 117–263, div. A, title III, §§314(c)(2), 375(b), 376(b), title X, §§1053(b)(2), 1059(b), title XVI, §1633(e), Dec. 23, 2022, 136 Stat. 2505, 2542, 2778, 2780, 2938, provided that:
+Pub. L. 114–328, div. A, title X, §1061, Dec. 23, 2016, 130 Stat. 2400, as amended by Pub. L. 115–91, div. A, title X, §§1051(u)–(w), 1081(d)(11), (12), Dec. 12, 2017, 131 Stat. 1566, 1567, 1600; Pub. L. 115–232, div. A, title III,§314(b)(2), title VIII, §813(i)(1), Aug. 13, 2018, 132 Stat. 1712, 1851; Pub. L. 117–81, div. A, title X, §§1011(b), 1064, Dec. 27, 2021, 135 Stat. 1890, 1909; Pub. L. 117–263, div. A, title III, §§314(c)(2), 375(b), 376(b), title X, §§1053(b)(2), 1059(b), title XVI, §1633(e), Dec. 23, 2022, 136 Stat. 2505, 2542, 2778, 2780, 2938; Pub. L. 118–31, div. B, title XXVIII, §2821(c), Dec. 22, 2023, 137 Stat. 751, provided that:
 
 "(a)
 
@@ -556,7 +630,7 @@ Reports Required by Title 10
 
 &emsp;"(30) Section 1557(e).
 
-&emsp;"(31) Section 1781a(e).
+&emsp;"\[(31) Repealed. Pub. L. 118–31, div. B, title XXVIII, §2821(c), Dec. 22, 2023, 137 Stat. 751.\]
 
 &emsp;"(32) Section 1781c(h) \[now 10 U.S.C. 1781c(g)\].
 
@@ -592,7 +666,7 @@ Reports Required by Title 10
 
 &emsp;"\[(48) Repealed. Pub. L. 117–263, div. A, title X, §1053(b)(2), Dec. 23, 2022, 136 Stat. 2778.\]
 
-&emsp;"(49) Section 2684a(g).
+&emsp;"(49) Section 2684a(g) \[now 10 U.S.C. 2684a(h)\].
 
 &emsp;"(50) Section 2687a.
 
@@ -884,7 +958,7 @@ Major department of defense headquarters activities defined.—In this subsectio
 
 &emsp;"(4)
 
-Implementation.—Not later than 120 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary shall revise applicable guidance on the Department of Defense major headquarters activities as needed to—
+Implementation.—Not later than 120 days after the date of the enactment of this Act \[Nov. 25, 2015\],the Secretary shall revise applicable guidance on the Department of Defense major headquarters activities as needed to—
 
 &emsp;&emsp;"(A) incorporate into such guidance the definition of the term 'major Department of Defense headquarters activities' as provided in paragraph (3);
 
@@ -924,7 +998,7 @@ Certifications on cost savings achieved.—Not later than 120 days after the dat
 
 &emsp;&emsp;"(A) The validity of the cost savings achieved for each major Department of Defense headquarters activity during the previous fiscal year, including the cost of personnel detailed by another Department entity to the headquarters activity.
 
-&emsp;&emsp;"(B) Whether the cost savings achieved for each major Department of Defense headquarters activityduring that fiscal year met the savings objective for the headquarters activity for that fiscal year, as established pursuant to paragraph (1).
+&emsp;&emsp;"(B) Whether the cost savings achieved for each major Department of Defense headquarters activity during that fiscal year met the savings objective for the headquarters activity for that fiscal year, as established pursuant to paragraph (1).
 
 "(d)
 
@@ -1008,7 +1082,7 @@ Initial report.—Not later than 180 days after the date of the enactment of thi
 
 &emsp;"(2)
 
-Status report.—The Secretary shall include with the Department of Defense materials submitted to Congress with the budget of the President for each of fiscal years 2017 through 2024 (as submitted to Congress pursuant to section 1105 of title 31, United States Code) a report describing the implementation of the plan required by subsection (a) during the preceding fiscal year and any modifications to the plan required due to changing circumstances. Each such report shall include the following:
+Status report.—The Secretary shall include with the Department of Defense materials submittedto Congress with the budget of the President for each of fiscal years 2017 through 2024 (as submitted to Congress pursuant to section 1105 of title 31, United States Code) a report describing the implementation of the plan required by subsection (a) during the preceding fiscal year and any modifications to the plan required due to changing circumstances. Each such report shall include the following:
 
 &emsp;&emsp;"(A) A summary of savings achieved for each covered organization in the fiscal year covered by such report.
 
@@ -1094,7 +1168,7 @@ Definition.—In this section, the term 'interagency coordination', within the c
 
 "(g)
 
-Construction.—Nothing in this provision shall be construed as preventing the Secretary of Defense from naming an official with the responsibilities listed in subsection (b) before the submission of the report required under this section."
+Construction.—Nothing in this provision shall be construed as preventing the Secretary of Defensefrom naming an official with the responsibilities listed in subsection (b) before the submission of the report required under this section."
 
 #### Commission on Review of Overseas Military Facility Structure of the United States
 
@@ -1164,7 +1238,7 @@ White House Communications Agency.—For purposes of this section, the term 'Whi
 
 #### Military Force Structure Review
 
-Pub. L. 104–201, div. A, title IX, subtitle B, Sept. 23, 1996, 110 Stat. 2623, directed Secretary of Defense, in consultation with Chairman of the Joint Chiefs of Staff, to complete in 1997 a review of defense program of United States, which was to include comprehensive examination of defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of defense program and policies with view toward determining and expressing defense strategy of United States and establishing revised defense program through year 2005, further established National Defense Panel to complete review and report to Secretary not later than Dec. 1, 1997, further directed Secretary to submit final report to Congress not later than Dec. 15, 1997, and provided for termination of Panel 30 days after submission of report to Secretary.
+Pub. L. 104–201, div. A, title IX, subtitle B, Sept. 23, 1996, 110 Stat. 2623, directed Secretary of Defense, in consultation with Chairman of the Joint Chiefs of Staff, to complete in 1997 a review of defense program of United States, which was to include comprehensive examination of defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of defense program and policies withview toward determining and expressing defense strategy of United States and establishing revised defense program through year 2005, further established National Defense Panel to complete review and report to Secretary not later than Dec. 1, 1997, further directed Secretary to submit final report to Congress not later than Dec. 15, 1997, and provided for termination of Panel 30 days after submission of report to Secretary.
 
 #### Commission on Roles and Missions of Armed Forces
 
@@ -1182,7 +1256,7 @@ Termination of Report Requirements.—Unless otherwise provided by a law enacted
 
 Preparation of List.—(1) The Secretary of Defense shall submit to Congress a list of each provision of law that, as of the date specified in subsection (c), imposes upon the Secretary of Defense (or any other officer of the Department of Defense) a reporting requirement described in paragraph (2). The list of provisions of law shall include a statement or description of the report required under each such provision of law.
 
-"(2) Paragraph (1) applies to a requirement imposed by law to submit to Congress (or specified committees of Congress) a report on a recurring basis, or upon the occurrence of specified events, if the Secretary determines that the continued requirement to submit thatreport is unnecessary or incompatible with the efficient management of the Department of Defense.
+"(2) Paragraph (1) applies to a requirement imposed by law to submit to Congress (or specified committees of Congress) a report on a recurring basis, or upon the occurrence of specified events, if the Secretary determines that the continued requirement to submit that report is unnecessary or incompatible with the efficient management of the Department of Defense.
 
 "(3) The Secretary shall submit with the list an explanation, for each report specified in the list, of the reasons why the Secretary considers the continued requirement to submit the report to be unnecessary or incompatible with the efficient management of the Department of Defense.
 
@@ -1232,7 +1306,7 @@ Pub. L. 99–433, title VI, §602, Oct. 1, 1986, 100 Stat. 1066, as amended by P
 
 #### Legislation To Make Required Conforming Changes in Law
 
-Pub. L. 99–433, title VI, §604, Oct. 1, 1986, 100 Stat. 1075a, directed Secretary of Defense, not later than six months after Oct. 1, 1986, to submit to Committees on Armed Services of Senate and House of Representatives a draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by Pub. L. 99–433.
+Pub. L. 99–433, title VI, §604, Oct. 1, 1986, 100 Stat. 1075a, directed Secretary of Defense, not later than sixmonths after Oct. 1, 1986, to submit to Committees on Armed Services of Senate and House of Representatives a draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by Pub. L. 99–433.
 
 #### Readiness Status of Military Forces of the North Atlantic Treaty Organization; Assessment, Findings, and Report to Congressional Committees
 

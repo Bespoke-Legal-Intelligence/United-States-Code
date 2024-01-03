@@ -6,7 +6,7 @@ As part of the research and development activities of the Advanced Manufacturing
 
 &emsp;(1) leverage the research and development expertise of those programs to promote early stage energy efficiency technology development;
 
-&emsp;(2) support the use of innovative manufacturing processes and applied research for development, demonstration, and commercialization of new technologies and processesto improve efficiency (including improvements in efficient use of water), reduce emissions, reduce industrial waste, and improve industrial cost-competitiveness; and
+&emsp;(2) support the use of innovative manufacturing processes and applied research for development, demonstration, and commercialization of new technologies and processes to improve efficiency (including improvements in efficient use of water), reduce emissions, reduce industrial waste, and improve industrial cost-competitiveness; and
 
 &emsp;(3) apply the knowledge and expertise of the Advanced Manufacturing Office to help achieve the program goals of the other programs.
 

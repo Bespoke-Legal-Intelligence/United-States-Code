@@ -10,7 +10,7 @@ In establishing regulations for good manufacturing practices under this section,
 
 #### (c) Timeframe
 
-The Secretary shall publish a notice of proposed rulemaking not later than 2 years afterDecember 29, 2022, and shall publish a final such rule not later than 3 years after December 29, 2022.
+The Secretary shall publish a notice of proposed rulemaking not later than 2 years after December 29, 2022, and shall publish a final such rule not later than 3 years after December 29, 2022.
 
 (June 25, 1938, ch. 675, §606, as added Pub. L. 117–328, div. FF, title III, §3502, Dec. 29, 2022, 136 Stat. 5850.)
 

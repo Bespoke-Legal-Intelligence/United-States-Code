@@ -20,7 +20,7 @@ The requirements of this chapter do not apply to the operations of a gas utility
 
 #### (d) List of covered utilities
 
-Before the beginning of each calendar year, the Secretary shall publish a list identifying each gas utility to which this chapter appliesduring such calendar year. Promptly after publication of such list, each State regulatory authority shall notify the Secretary of each gas utility on the list for which such State regulatory authority has ratemaking authority.
+Before the beginning of each calendar year, the Secretary shall publish a list identifying each gas utility to which this chapter applies during such calendar year. Promptly after publication of such list, each State regulatory authority shall notify the Secretary of each gas utility on the list for which such State regulatory authority has ratemaking authority.
 
 (Pub. L. 95–617, title III, §301, Nov. 9, 1978, 92 Stat. 3149.)
 

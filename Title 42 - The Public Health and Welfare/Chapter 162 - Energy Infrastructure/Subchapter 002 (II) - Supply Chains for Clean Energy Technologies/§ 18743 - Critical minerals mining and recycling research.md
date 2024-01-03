@@ -124,7 +124,7 @@ In this section:
 
 &emsp;The purposes of the Subcommittee shall be—
 
-&emsp;&emsp;(A) to advise and assist the National Science and Technology Council, including the Committee on Homeland and National Security of the National Science and Technology Council, on United States policies, procedures, and plans relating to critical minerals, including—
+&emsp;&emsp;(A) to advise and assist the National Science and Technology Council, includingthe Committee on Homeland and National Security of the National Science and Technology Council, on United States policies, procedures, and plans relating to critical minerals, including—
 
 &emsp;&emsp;&emsp;(i) Federal research, development, and deployment efforts to optimize methods for extractions, concentration, separation, and purification of conventional, secondary, and unconventional sources of critical minerals, including research that prioritizes end-to-end integration of mining and recycling techniques and the end-use target for critical minerals;
 
@@ -196,7 +196,7 @@ In this section:
 
 #### (4) Secondary recovery
 
-&emsp;In awarding grants under paragraph (1), the Secretary shall seek to award not less than 30 percent of the total amount of grants awarded during the fiscal year for projects relating to secondary recovery of critical minerals and metals.
+&emsp;In awarding grants under paragraph (1), the Secretary shall seek to award not less than 30 percent of the total amount of grants awardedduring the fiscal year for projects relating to secondary recovery of critical minerals and metals.
 
 #### (5) Domestic priority
 

@@ -52,7 +52,7 @@ Peer Review Panel.—(1) The Under Secretary for Health shall establish a panel 
 
 (C) Of the members first appointed to the panel, one half shall be appointed for a period of three years and one half shall be appointed for a period of two years, as designated by the Under Secretary at the time of appointment.
 
-(3) The panel shall review each proposal submitted to the panel by the Under Secretary and shall submit its views on the relative scientific and clinical merit of each such proposal to the Under Secretary.
+(3) The panel shall review each proposal submitted to the panel by the Under Secretary andshall submit its views on the relative scientific and clinical merit of each such proposal to the Under Secretary.
 
 (4) The panel shall not be subject to chapter 10 of title 5.
 

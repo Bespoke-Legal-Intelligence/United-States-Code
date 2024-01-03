@@ -96,7 +96,7 @@ The text of section 857(b) to (f) of this title, which was transferred to subsec
 
 Pub. L. 101–647, §2401(b), redesignated subsec. (b) of section 857 of this title as subsec. (b) of this section. See Codification note above.
 
-Subsecs. (c) to (e). Pub. L. 101–647, §2401(b), redesignated subsecs. (c) to (e) of section 857 of this title as subsecs. (c) to (e) of this section. See Codification note above.
+Subsecs. (c) to (e). Pub. L. 101–647, §2401(b), redesignated subsecs. (c) to (e) of section 857 of this title assubsecs. (c) to (e) of this section. See Codification note above.
 
 Subsec. (f). Pub. L. 101–647, §2401(c)(2), made technical amendment to reference to "This section" to correct reference to corresponding provision of original act.
 

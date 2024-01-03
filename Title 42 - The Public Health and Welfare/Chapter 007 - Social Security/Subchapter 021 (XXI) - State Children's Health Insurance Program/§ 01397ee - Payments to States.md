@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;Subject to subparagraph (H), the baseline number of child enrollees for a State under subchapter XIX—
 
-&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2009 is equal to the monthly average unduplicated number of qualifying children enrolled in the State plan under subchapter XIX during fiscal year 2007 increased by the population growth for children in that State from 2007 to 2008 (as estimated by the Bureau of the Census) plus 4 percentage points,and further increased by the population growth for children in that State from 2008 to 2009 (as estimated by the Bureau of the Census) plus 4 percentage points;
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2009 is equal to the monthly average unduplicated number of qualifying children enrolled in the State plan under subchapter XIX during fiscal year 2007 increased by the population growth for children in that State from 2007 to 2008 (as estimated by the Bureau of the Census) plus 4 percentage points, and further increased by the population growth for children in that State from 2008 to 2009 (as estimated by the Bureau of the Census) plus 4 percentage points;
 
 &emsp;&emsp;&emsp;&emsp;(II) for each of fiscal years 2010, 2011, and 2012, is equal to the baseline number of child enrollees for the State for the previous fiscal year under subchapter XIX, increased by the population growth for children in that State from the calendar year in which the respective fiscal year begins to the succeeding calendar year (as estimated by the Bureau of the Census) plus 3.5 percentage points;
 
@@ -126,7 +126,7 @@
 
 #### (iii) Proportional reduction
 
-&emsp;&emsp;&emsp;If the sum of the amounts otherwise payable under this paragraph for a fiscal yearexceeds the amount available for the fiscal year under this subparagraph, the amount to be paid under this paragraph to each State shall be reduced proportionally.
+&emsp;&emsp;&emsp;If the sum of the amounts otherwise payable under this paragraph for a fiscal year exceeds the amount available for the fiscal year under this subparagraph, the amount to be paid under this paragraph to each State shall be reduced proportionally.
 
 #### (F) Qualifying children defined
 
@@ -160,7 +160,7 @@
 
 #### (A) Continuous eligibility
 
-&emsp;&emsp;The State has elected the option of continuous eligibility for a full 12 months for all children described in section 1396a(e)(12) of this title under subchapter XIX under 19 years of age, as well as applying such policy under its State child health plan under this subchapter.
+&emsp;&emsp;The State has elected the option of continuous eligibility for a full 12 months for all children described in section 1396a(e)(12) <sup>3</sup> of this title under subchapter XIX under 19 years of age, as well as applying such policy under its State child health plan under this subchapter.
 
 #### (B) Liberalization of asset requirements
 
@@ -190,7 +190,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State provides, in the case of renewal of a child's eligibility for medical assistance under subchapter XIX or child health assistance under this subchapter, a pre-printed form completed by the State based on the information available to theState and notice to the parent or caretaker relative of the child that eligibility of the child will be renewed and continued based on such information unless the State is provided other information. Nothing in this clause shall be construed as preventing a State from verifying, through electronic and other means, the information so provided.
+&emsp;&emsp;&emsp;The State provides, in the case of renewal of a child's eligibility for medical assistance under subchapter XIX or child health assistance under this subchapter, a pre-printed form completed by the State based on the information available to the State and notice to the parent or caretaker relative of the child that eligibility of the child will be renewed and continued based on such information unless the State is provided other information. Nothing in this clause shall be construed as preventing a State from verifying, through electronic and other means, the information so provided.
 
 #### (ii) Satisfaction through demonstrated use of ex parte process
 
@@ -198,7 +198,7 @@
 
 #### (F) Presumptive eligibility for children
 
-&emsp;&emsp;The State is implementing section 1396r–1a of this title under subchapter XIX as well as, pursuant to section 1397gg(e)(1) of this title, under this subchapter.
+&emsp;&emsp;The State is implementing section 1396r–1a of this title under subchapter XIX as well as,pursuant to section 1397gg(e)(1) of this title, under this subchapter.
 
 #### (G) Express Lane
 
@@ -248,11 +248,11 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (iii) Expenditures for outreach to increase the enrollment of children under this subchapter and subchapter XIX through premium assistance subsidies
 
-&emsp;&emsp;&emsp;Expenditures for outreach activities to families of children likely to be eligible for premium assistance subsidies in accordance with paragraph (2)(B), (3), or (10), or a waiver approved under section 1315 of this title, to inform such families of the availability of, and to assist them in enrolling their children in, such subsidies, and to employers likely to provide qualified employer-sponsored coverage (as defined in subparagraph (B) of such paragraph <sup>3</sup>), but not to exceed an amount equal to 1.25 percent of the maximum amount permitted to be expended under subparagraph (A) for items described in subsection (a)(1)(D).
+&emsp;&emsp;&emsp;Expenditures for outreach activities to families of children likely to be eligible for premium assistance subsidies in accordance with paragraph (2)(B), (3), or (10), or a waiver approved under section 1315 of this title, to inform such families of the availability of, and to assist them in enrolling their children in, such subsidies, and to employers likely to provide qualified employer-sponsored coverage (as defined in subparagraph (B) of such paragraph <sup>4</sup>), but not to exceed an amount equal to 1.25 percent of the maximum amount permitted to be expended under subparagraph (A) for items described in subsection (a)(1)(D).
 
 #### (iv) Payment error rate measurement (PERM) expenditures
 
-&emsp;&emsp;&emsp;Expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the <sup>4</sup> subchapter IV of chapter 33 of title 31 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations).
+&emsp;&emsp;&emsp;Expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the <sup>5</sup> subchapter IV of chapter 33 of title 31 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations).
 
 #### (3) Waiver for purchase of family coverage
 
@@ -302,7 +302,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (A) FMAP applied to expenditures
 
-&emsp;&emsp;Except as provided in subparagraph (B), for fiscal years beginning with fiscal year 2009, the Federal medical assistance percentage (as determined under section 1396d(b) of this title without regard to clause (4) of such section) shall be substituted for the enhanced FMAP under subsection (a)(1) with respect to any expenditures for providing child health assistance or health benefits coverage for a targeted low-income child whose effective family income would exceed 300 percent of the poverty line but for the application of a general exclusion of a block of income that is not determined by type of expense or type of income.
+&emsp;&emsp;Except as provided in subparagraph (B), for fiscal years beginning with fiscal year 2009, the Federal medical assistance percentage (as determined under section 1396d(b) of this title without regard to clause (4) of such section) shall be substituted for the enhanced FMAP under subsection (a)(1) with respect to any expenditures for providing child health assistance or health benefits coverage for a targeted low-income child whose effective family income would exceed 300 percent of the poverty line but for theapplication of a general exclusion of a block of income that is not determined by type of expense or type of income.
 
 #### (B) Exception
 
@@ -330,7 +330,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 &emsp;&emsp;&emsp;Subject to clause (ii), in this paragraph, the term "qualified employer-sponsored coverage" means a group health plan or health insurance coverage offered through an employer—
 
-&emsp;&emsp;&emsp;&emsp;(I) that qualifies as creditable coverage as a group health plan under section 2701(c)(1) of the Public Health Service Act; <sup>5</sup>
+&emsp;&emsp;&emsp;&emsp;(I) that qualifies as creditable coverage as a group health plan under section 2701(c)(1) of the Public Health Service Act; <sup>3</sup>
 
 &emsp;&emsp;&emsp;&emsp;(II) for which the employer contribution toward any premium for such coverage is at least 40 percent; and
 
@@ -364,7 +364,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (D) Application of secondary payor rules
 
-&emsp;&emsp;The State shall be a secondary payor for any items or services provided under the qualified employer-sponsored coverage for which the State provides child health assistance under the State child health plan.
+&emsp;&emsp;The State shall be a secondary payor for any items or services provided under thequalified employer-sponsored coverage for which the State provides child health assistance under the State child health plan.
 
 #### (E) Requirement to provide supplemental coverage for benefits and cost-sharing protection provided under the State child health plan
 
@@ -412,7 +412,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (J) No effect on premium assistance waiver programs
 
-&emsp;&emsp;Nothing in this paragraph shall be construed as limiting the authority of a Stateto offer premium assistance under section 1396e or 1396e–1 of this title, a waiver described in paragraph (2)(B) or (3), a waiver approved under section 1315 of this title, or other authority in effect prior to February 4, 2009.
+&emsp;&emsp;Nothing in this paragraph shall be construed as limiting the authority of a State to offer premium assistance under section 1396e or 1396e–1 of this title, a waiver described in paragraph (2)(B) or (3), a waiver approved under section 1315 of this title, or other authority in effect prior to February 4, 2009.
 
 #### (K) Notice of availability
 
@@ -422,7 +422,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 &emsp;&emsp;&emsp;(ii) provide, as part of the application and enrollment process under the State child health plan, information describing the availability of such subsidies and how to elect to obtain such a subsidy; and
 
-&emsp;&emsp;&emsp;(iii) establish such other procedures as the State determines necessary to ensure that parents are fully informed of the choices for receiving child health assistance under the State child health plan or through the receipt of premium assistance subsidies.
+&emsp;&emsp;&emsp;(iii) establish such other procedures as the State determines necessary to ensurethat parents are fully informed of the choices for receiving child health assistance under the State child health plan or through the receipt of premium assistance subsidies.
 
 #### (L) Application to qualified employer-sponsored benchmark coverage
 
@@ -434,7 +434,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (11) Enhanced payments
 
-&emsp;Notwithstanding subsection (b), the enhanced FMAP with respect to payments under subsection (a) for expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the <sup>4</sup> subchapter IV of chapter 33 of title 31 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations) shall in no event be less than 90 percent.
+&emsp;Notwithstanding subsection (b), the enhanced FMAP with respect to payments under subsection (a) for expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the <sup>5</sup> subchapter IV of chapter 33 of title 31 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations) shall in no event be less than 90 percent.
 
 #### (12) Temporary enhanced payment for coverage and administration of COVID–19 vaccines
 
@@ -470,7 +470,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (A) In general
 
-&emsp;&emsp;During the period that begins on March 23, 2010, and ends on September 30, 2029, as a condition of receiving payments under section 1396b(a) of this title, a State shall not have in effect eligibility standards, methodologies, or procedures under its State child health plan (including any waiver under such plan) for children (including children provided medical assistance for whichpayment is made under section 1397ee(a)(1)(A) of this title) that are more restrictive than the eligibility standards, methodologies, or procedures, respectively, under such plan (or waiver) as in effect on March 23, 2010. During the period that begins on October 1, 2019, and ends on September 30, 2029, the preceding sentence shall only apply with respect to children in families whose income does not exceed 300 percent of the poverty line (as defined in section 1397jj(c)(5) of this title) applicable to a family of the size involved. The preceding sentences shall not be construed as preventing a State during any such periods from—
+&emsp;&emsp;During the period that begins on March 23, 2010, and ends on September 30, 2029, as a condition of receiving payments under section 1396b(a) of this title, a State shall not have in effect eligibility standards, methodologies, or procedures under its State child health plan (including any waiver under such plan) for children (including children provided medical assistance for which payment is made under section 1397ee(a)(1)(A) of this title) that are more restrictive than the eligibility standards, methodologies, or procedures, respectively, under such plan (or waiver) as in effect on March 23, 2010. During the period that begins on October 1, 2019, and ends on September 30, 2029, the preceding sentence shall only apply with respect to children in families whose income does not exceed 300 percent of the poverty line (as defined in section 1397jj(c)(5) of this title) applicable to a family of the size involved. The preceding sentences shall not be construed as preventing a State during any such periods from—
 
 &emsp;&emsp;&emsp;(i) applying eligibility standards, methodologies, or procedures for children under the State child health plan or under any waiver of the plan that are less restrictive than the eligibility standards, methodologies, or procedures, respectively, for children under the plan or waiver that are in effect on March 23, 2010;
 
@@ -510,7 +510,7 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 #### (ii) Expenditures described
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the expenditures described in this clause are expenditures, made after August 15, 2003,and during the period in which funds are available to the qualifying State for use under subparagraph (A), for medical assistance under subchapter XIX to individuals who have not attained age 19 and whose family income exceeds 150 percent of the poverty line.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the expenditures described in this clause are expenditures, made after August 15, 2003, and during the period in which funds are available to the qualifying State for use under subparagraph (A), for medical assistance under subchapter XIX to individuals who have not attained age 19 and whose family income exceeds 150 percent of the poverty line.
 
 #### (iii) No impact on determination of budget neutrality for waivers
 
@@ -518,7 +518,7 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 #### (2) Qualifying State
 
-&emsp;In this subsection, the term "qualifying State" means a State that, on and after April 15, 1997, has an income eligibility standard that is at least 184 percent of the poverty line with respect to any 1 or more categories of children (other than infants) who are eligible for medical assistance under section 1396a(a)(10)(A) of this title or, in the case of a State that has a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX that was first implemented on August 1, 1994, or July 1, 1995, has an income eligibility standard under such waiver for children that is at least 185 percent of the poverty line, or, in the case of a State that has a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX that was first implemented on January 1, 1994, has an income eligibility standard under such waiver for children who lack health insurance that is at least 185 percent of the poverty line, or, in the case of a State that had a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX that was first implemented on October 1, 1993, had an income eligibility standard under such waiver for children that was at least 185 percent of the poverty line and on and after July 1, 1998, has an income eligibility standard for children under section 1396a(a)(10)(A) of this title or a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX that is at least 185 percent of the poverty line.
+&emsp;In this subsection, the term "qualifying State" means a State that, on and after April 15, 1997, has an income eligibility standard that is at least 184 percent of the poverty line with respect to any 1 or more categories ofchildren (other than infants) who are eligible for medical assistance under section 1396a(a)(10)(A) of this title or, in the case of a State that has a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX that was first implemented on August 1, 1994, or July 1, 1995, has an income eligibility standard under such waiver for children that is at least 185 percent of the poverty line, or, in the case of a State that has a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX that was first implemented on January 1, 1994, has an income eligibility standard under such waiver for children who lack health insurance that is at least 185 percent of the poverty line, or, in the case of a State that had a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX that was first implemented on October 1, 1993, had an income eligibility standard under such waiver for children that was at least 185 percent of the poverty line and on and after July 1, 1998, has an income eligibility standard for children under section 1396a(a)(10)(A) of this title or a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX that is at least 185 percent of the poverty line.
 
 #### (3) Construction
 
@@ -542,7 +542,9 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 Sections 108 and 115 of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (a)(3)(E)(ii)(I)(bb), (H), are sections 108 and 115, respectively, of title I of Pub. L. 111–3, Feb. 4, 2009, 123 Stat. 25, 35. Section 108 is not classified to the Code. Section 115 is set out as a note under section 1396d of this title.
 
-Section 2701 of the Public Health Service Act, referred to in subsec. (c)(10)(B)(i)(I), is section 2701 of act July 1, 1944, which was classified to section 300gg of this title, was renumbered section 2704, effective for planyears beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
+Section 1396a(e)(12) of this title, referred to in subsec. (a)(4)(A), was repealed, and a new section 1396a(e)(12) was added, by Pub. L. 117–328, div. FF, title V, §5112(a), Dec. 29, 2022, 136 Stat. 5940.
+
+Section 2701 of the Public Health Service Act, referred to in subsec. (c)(10)(B)(i)(I), is section 2701 of act July 1, 1944, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (c)(10)(B)(i)(III), (ii) and (d)(3)(B), is classified generally to Title 26, Internal Revenue Code.
 
@@ -622,7 +624,7 @@ Subsec. (g)(4)(A). Pub. L. 111–148, §10203(d)(2)(C)(ii), substituted "2015" f
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–3, §§113(a)(1), 201(b)(1)(A), substituted "(or, in the case of expenditures described in subparagraph (D)(iv), the higher of 75 percent or the sum of the enhanced FMAP plus 5 percentage points)" for "(or, in the case of expenditures described in subparagraph (B), the Federal medical assistance percentage (as defined in the first sentence of section 1396d(b) of this title))" in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 111–3, §113(a)(2), added subpar. (B) "\[reserved\]" and struck out former subpar. (B)which read as follows: "for the provision of medical assistance on behalf of a child during a presumptive eligibility period under section 1396r–1a of this title;".
+Subsec. (a)(1)(B). Pub. L. 111–3, §113(a)(2), added subpar. (B) "\[reserved\]" and struck out former subpar. (B) which read as follows: "for the provision of medical assistance on behalf of a child during a presumptive eligibility period under section 1396r–1a of this title;".
 
 Subsec. (a)(1)(D)(iv), (v). Pub. L. 111–3, §201(b)(1)(B), added cl. (iv) and redesignated former cl. (iv) as (v).
 
@@ -702,7 +704,7 @@ Except as otherwise provided, amendment by Pub. L. 111–3 effective Apr. 1, 200
 
 Amendment by section 211(c) of Pub. L. 111–3 effective Jan. 1, 2010, see section 211(d)(1)(A) of Pub. L. 111–3, set out as a note under section 1396a of this title.
 
-Pub. L. 111–3, title III, §301(a)(2)(B), Feb. 4, 2009, 123 Stat. 61, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall not applyto coverage the purchase of which has been approved by the Secretary \[of Health and Human Services\] under section 2105(c)(3) of the Social Security Act \[42 U.S.C. 1397ee(c)(3)\] prior to the date of enactment of this Act \[Feb. 4, 2009\]."
+Pub. L. 111–3, title III, §301(a)(2)(B), Feb. 4, 2009, 123 Stat. 61, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall not apply to coverage the purchase of which has been approved by the Secretary \[of Health and Human Services\] under section 2105(c)(3) of the Social Security Act \[42 U.S.C. 1397ee(c)(3)\] prior to the date of enactment of this Act \[Feb. 4, 2009\]."
 
 #### Termination Date of 2007 Amendment
 
@@ -778,7 +780,7 @@ State option to apply perm data.—A State may elect, for purposes of determinin
 
 &emsp;"(3)
 
-State option to apply meqc data.—For purposes of satisfying the requirements of subpart Q of part 431 of title 42, Code of Federal Regulations, relating to Medicaid eligibility reviews, a State may elect to substitute data obtained through MEQC reviews conducted in accordance with section 1903(u) of the Social Security Act (42 U.S.C. 1396b(u)) for data required for purposes of PERM requirements, but only if the State MEQC reviews are based on a broad,representative sample of Medicaid applicants or enrollees in the States.
+State option to apply meqc data.—For purposes of satisfying the requirements of subpart Q of part 431 of title 42, Code of Federal Regulations, relating to Medicaid eligibility reviews, a State may elect to substitute data obtained through MEQC reviews conducted in accordance with section 1903(u) of the Social Security Act (42 U.S.C. 1396b(u)) for data required for purposes of PERM requirements, but only if the State MEQC reviews are based on a broad, representative sample of Medicaid applicants or enrollees in the States.
 
 "(f)
 
@@ -798,9 +800,9 @@ Time for Promulgation of Final Rule.—The final rule implementing the PERM requ
 
 <i><sup>2</sup></i><i> So in original. Subsec. (a) of this section does not contain a par. (16).</i>
 
-<i><sup>3</sup></i><i> So in original. Probably means subpar. (B) of par. (10).</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 
-<i><sup>4</sup></i><i> So in original. The word "the" probably should not appear.</i>
+<i><sup>4</sup></i><i> So in original. Probably means subpar. (B) of par. (10).</i>
 
-<i><sup>5</sup></i><i> See References in Text note below.</i>
+<i><sup>5</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

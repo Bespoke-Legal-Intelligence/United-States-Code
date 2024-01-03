@@ -54,7 +54,7 @@ The President shall submit with each report under this section a statement of th
 
 &emsp;(C) an assessment of the supply chain for each such material, including any assessment of any relevant risk in any such supply chain.
 
-(June 7, 1939, ch. 190, §14, as added Pub. L. 100–180, div. C, title II, §3202(c), Dec. 4, 1987, 101 Stat. 1246; amended Pub. L. 102–190, div. C, title XXXIII, §3313(b)(1), (2), Dec. 5, 1991, 105 Stat. 1585; Pub. L. 103–160, div. C, title XXXIII, §3314, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 104–201, div. C, title XXXIII, §3311(a), Sept. 23, 1996, 110 Stat. 2856; Pub. L. 117–263, div. A, title XIV, §1413, Dec. 23, 2022, 136 Stat. 2872.)
+(June 7, 1939, ch. 190, §14, as added Pub. L. 100–180, div. C, title II, §3202(c), Dec. 4, 1987, 101Stat. 1246; amended Pub. L. 102–190, div. C, title XXXIII, §3313(b)(1), (2), Dec. 5, 1991, 105 Stat. 1585; Pub. L. 103–160, div. C, title XXXIII, §3314, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 104–201, div. C, title XXXIII, §3311(a), Sept. 23, 1996, 110 Stat. 2856; Pub. L. 117–263, div. A, title XIV, §1413, Dec. 23, 2022, 136 Stat. 2872.)
 
 #### <b>Editorial Notes</b>
 

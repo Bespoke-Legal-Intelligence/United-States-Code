@@ -146,7 +146,7 @@ Subsec. (g). Pub. L. 115–141, §401(c)(2)(A), redesignated subsec. (g) as (f).
 
 Subsec. (b)(2). Pub. L. 99–514, §1803(a)(13)(B)(ii), substituted "the amount included in gross income under paragraph (1)" for "the amount of the accrued interest described in paragraph (1)".
 
-Subsec. (d). Pub. L. 99–514, §1879(s)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) readas follows: "In the case of any tax-exempt obligation (as defined in section 1275(a)(3))—
+Subsec. (d). Pub. L. 99–514, §1879(s)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In the case of any tax-exempt obligation (as defined in section 1275(a)(3))—
 
 &emsp;"(1) subsections (a) and (b)(1) shall not apply,
 

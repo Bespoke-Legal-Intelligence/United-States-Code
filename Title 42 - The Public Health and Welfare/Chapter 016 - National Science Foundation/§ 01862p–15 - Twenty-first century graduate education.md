@@ -14,7 +14,7 @@ Activities supported by grants under this section may include—
 
 &emsp;(3) development and implementation of future faculty training programs focused on improved instruction, mentoring, assessment of student learning, and support of undergraduate STEM students;
 
-&emsp;(4) support and training for graduate students to participate in instructional activities beyond the traditional teaching assistantship, and especially as part of ongoing educationalreform efforts, including at pre-K–12 schools, and primarily undergraduate institutions;
+&emsp;(4) support and training for graduate students to participate in instructional activities beyond the traditional teaching assistantship, and especially as part of ongoing educational reform efforts, including at pre-K–12 schools, and primarily undergraduate institutions;
 
 &emsp;(5) creation, improvement, or expansion of innovative graduate programs such as science master's degree programs;
 

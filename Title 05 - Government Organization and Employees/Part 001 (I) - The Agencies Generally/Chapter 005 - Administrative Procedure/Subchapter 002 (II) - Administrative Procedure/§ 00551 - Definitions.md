@@ -152,6 +152,132 @@ Section 551 of former Title 5, Executive Departments and Government Officers and
 
 Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see section 6 of Pub. L. 94–409, set out as an Effective Date note under section 552b of this title.
 
+#### Statutory Administrative Pay-As-You-Go
+
+Pub. L. 118–5, div. B, title III, June 3, 2023, 137 Stat. 31, provided that:
+
+#### "SEC. 261. SHORT TITLE.
+
+"This title may be cited as the 'Administrative Pay-As-You-Go Act of 2023'.
+
+#### "SEC. 262. DEFINITIONS.
+
+"In this title—
+
+&emsp;"(1) the term 'administrative action' means a 'rule' as defined in section 804(3) of title 5, United States Code;
+
+&emsp;"(2) the term 'agency' means any authority of the United States that is an 'agency' under section 3502(1) of title 44, United States Code, other than those considered to be independent regulatory agencies, as defined in section 3502(5) of such title;
+
+&emsp;"(3) the term 'covered discretionary administrative action' means a discretionary administrative action that would affect direct spending;
+
+&emsp;"(4) the term 'direct spending' has the meaning given that term in section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900(c));
+
+&emsp;"(5) the term 'Director' means the Director of the Office of Management and Budget;
+
+&emsp;"(6) the term 'discretionary administrative action'—
+
+&emsp;&emsp;"(A) means any administrative action that is not required by law; and
+
+&emsp;&emsp;"(B) includes an administrative action required by law for which an agency has discretion in the manner in which to implement the administrative action; and
+
+&emsp;"(7) the term 'increase direct spending' means that the amount of direct spending would increase relative to—
+
+&emsp;&emsp;"(A) the most recently submitted projection of the amount of direct spending presented in baseline estimates as defined in section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 907\], as amended, under—
+
+&emsp;&emsp;&emsp;"(i) the budget of the President submitted under section 1105 of title 31, United States Code; or
+
+&emsp;&emsp;&emsp;"(ii) the supplemental summary of the budget submitted under section 1106 of title 31, United States Code;
+
+&emsp;&emsp;"(B) with respect to a discretionary administrative action that is incorporated into the applicable projection described in subparagraph (A) and for which a proposal has not been submitted under section 263(a)(2)(A), a projection of the amount of direct spending if no administrative action were taken; or
+
+&emsp;&emsp;"(C) with respect to a discretionary administrative action described in paragraph (6)(B), a projection of the amount of direct spending under the least costly implementation option reasonably identifiable by the agency that meets the requirements under the statute.
+
+#### "SEC. 263. REQUIREMENTS FOR ADMINISTRATIVE ACTIONS THAT AFFECT DIRECT SPENDING.
+
+"(a)
+
+Discretionary Administrative Actions.—
+
+&emsp;"(1)
+
+In general.—Before an agency may finalize any covered discretionary administrative action, thehead of the agency shall submit to the Director for review written notice regarding the covered discretionary administrative action, which shall include an estimate of the budgetary effects of the covered discretionary administrative action.
+
+&emsp;"(2)
+
+Increasing direct spending.—
+
+&emsp;&emsp;"(A)
+
+In general.—If the covered discretionary administrative action would increase direct spending, the written notice submitted by the head of the agency under paragraph (1) shall include a proposal to undertake 1 or more other administrative actions that would provide a reduction in direct spending greater than or equal to the increase in direct spending attributable to the covered discretionary administrative action.
+
+&emsp;&emsp;"(B)
+
+Review.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The Director shall determine whether the reduction in direct spending in a proposal in a written notice from an agency under subparagraph (A) is greater than or equal to the increase in direct spending attributable to the covered discretionary administrative action to which the written notice relates.
+
+&emsp;&emsp;&emsp;"(ii)
+
+No offset.—If the written notice regarding a proposed covered discretionary administrative action that would increase direct spending does not include a proposal to offset the increased direct spending as determined in clause (i), the Director shall return the written notice to the agency for resubmission in accordance with this title.
+
+"(b)
+
+Nondiscretionary Actions.—If an agency determines that an administrative action that would increase direct spending is required by law and therefore is not a covered discretionary administrative action, before the agency finalizes that administrative action, the head of the agency shall—
+
+&emsp;"(1) submit to the Director a written opinion by the general counsel of the agency, or the equivalent employee of the agency, explaining that legal conclusion;
+
+&emsp;"(2) submit to the Director a projection of the amount of direct spending under the least costly implementation option reasonably identifiable by the agency that meets the requirements under the statute; and
+
+&emsp;"(3) consult with the Director regarding implementation of the administrative action.
+
+"(c)
+
+Projections.—Any projection for purposes of this title shall be conducted in accordance with Office of Management and Budget Circular A–11, or any successor thereto.
+
+#### "SEC. 264. ISSUANCE OF ADMINISTRATIVE GUIDANCE.
+
+"Not later than 90 days after the date of enactment of this Act \[June 3, 2023\], the Director shall issue instructions regarding the implementation of this title, including how covered discretionary administrative actions that increase direct spending and nontax receipts will be evaluated.
+
+#### "SEC. 265. WAIVER.
+
+"(a)
+
+In General.—The Director may waive the requirements of section 263 if the Director concludes that the waiver—
+
+&emsp;"(1) is necessary for the delivery of essential services; or
+
+&emsp;"(2) is necessary for effective program delivery.
+
+"(b)
+
+Publication.—Any waiver determination under subsection (a) shall be published in the Federal Register.
+
+#### "SEC. 266. EXEMPTION.
+
+"This title shall not apply to administrative actions with direct spending cost of less than—
+
+&emsp;"(1) $1,000,000,000 over the 10-year period beginning with the current year; or
+
+&emsp;"(2) $100,000,000 in any given year during such 10-year period.
+
+#### "SEC. 267. JUDICIAL REVIEW.
+
+"No determination, finding, action, or omission under this title shall be subject to judicial review.
+
+#### "SEC. 268. SUNSET.
+
+"This title shall expire on December 31, 2024.
+
+#### "SEC. 269. GAO REPORT.
+
+"Within 180 days of the date of enactment of this Act \[June 3, 2023\], the Comptroller General shall issue a report on the implementation of this title.
+
+#### "SEC. 270. CONGRESSIONAL REVIEW ACT COMPLIANCE ASSESSMENT.
+
+\[Amended section 801 of this title.\]"
+
 #### Study and Reports on Administrative Subpoenas
 
 Pub. L. 106–544, §7, Dec. 19, 2000, 114 Stat. 2719, provided that:
@@ -176,7 +302,7 @@ Report on Frequency of Use of Administrative Subpoenas.—
 
 &emsp;"(1)
 
-In general.—The Attorney General and the Secretary of the Treasury shall report in January of each year to the Committees on the Judiciary of the Senate and the House of Representatives on the number of administrative subpoenas issued by them under this section and the identity of the agency or component of the Department of Justice or the Departmentof the Treasury issuing the subpoena and imposing the charges.
+In general.—The Attorney General and the Secretary of the Treasury shall report in January of each year to the Committees on the Judiciary of the Senate and the House of Representatives on the number of administrative subpoenas issued by them under this section and the identity of the agency or component of the Department of Justice or the Department of the Treasury issuing the subpoena and imposing the charges.
 
 &emsp;"(2)
 
@@ -198,7 +324,7 @@ Ex. Ord. No. 13992, Jan. 20, 2021, 86 F.R. 7049, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered that:
 
-Section 1. <i>Policy</i>. It is the policy of my Administration to use available tools to confront the urgent challenges facing the Nation, including the coronavirus disease 2019 (COVID–19) pandemic, economic recovery, racial justice, and climate change. To tackle these challenges effectively, executive departments and agencies (agencies) must be equipped with the flexibility to use robust regulatory action to address national priorities. This order revokes harmful policies and directives that threaten to frustrate the Federal Government's ability to confront these problems, and empowers agencies to use appropriate regulatory tools to achieve these goals.
+Section 1. <i>Policy</i>. It is the policy of my Administration to use available tools to confront the urgent challenges facing the Nation, including the coronavirus disease 2019 (COVID–19) pandemic, economic recovery, racial justice, and climate change. To tackle these challenges effectively, executive departments and agencies (agencies) must be equipped with the flexibility to userobust regulatory action to address national priorities. This order revokes harmful policies and directives that threaten to frustrate the Federal Government's ability to confront these problems, and empowers agencies to use appropriate regulatory tools to achieve these goals.
 
 Sec. 2. <i>Revocation of Orders</i>. Executive Order 13771 of January 30, 2017 (Reducing Regulation and Controlling Regulatory Costs) \[former 5 U.S.C. 601 note\], Executive Order 13777 of February 24, 2017 (Enforcing the Regulatory Reform Agenda) \[former 5 U.S.C. 601 note\], Executive Order 13875 of June 14, 2019 (Evaluating and Improving the Utility of Federal Advisory Committees) \[former 5 U.S.C. App. note\], Executive Order 13891 of October 9, 2019 (Promoting the Rule of Law Through Improved Agency Guidance Documents) \[former 5 U.S.C. 601 note\], Executive Order 13892 of October 9, 2019 (Promoting the Rule of Law Through Transparency and Fairness in Civil Administrative Enforcement and Adjudication) \[formerly set out above\], and Executive Order 13893 of October 10, 2019 (Increasing Government Accountability for Administrative Actions by Reinvigorating Administrative PAYGO) \[former 5 U.S.C. 601 note\], are hereby revoked.
 

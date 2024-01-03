@@ -14,7 +14,7 @@ A request under subsection (a) shall specify the rule or rules to be waived or m
 
 #### (d) Consideration of requests
 
-In considering a request, the Secretary shall weigh the extent to which the proposed change is likely to further job creation, community development, or economic revitalization within the enterprise zone against the effect the change is likely to have on the underlying purposes of applicable statutes in the geographic area that would be affected by the change. The Secretary shall approve the request whenever the Secretary finds, in the discretion of the Secretary, that the public interest that the proposed change would serve in furthering such job creation, community development or economic revitalization outweighs the public interest that continuation of the rule unchanged would serve in furthering such underlying purposes. The Secretary shall not approve any request to waive or modify a rule if that waiver or modification would—
+In considering a request, the Secretary shall weigh the extent to which the proposed change is likely to further job creation, community development, or economic revitalization within the enterprise zone against the effect the change is likely to have on the underlying purposes of applicable statutes in the geographic area thatwould be affected by the change. The Secretary shall approve the request whenever the Secretary finds, in the discretion of the Secretary, that the public interest that the proposed change would serve in furthering such job creation, community development or economic revitalization outweighs the public interest that continuation of the rule unchanged would serve in furthering such underlying purposes. The Secretary shall not approve any request to waive or modify a rule if that waiver or modification would—
 
 &emsp;(1) directly violate a statutory requirement; or
 
@@ -62,5 +62,5 @@ For purposes of this section:
 
 #### References in Text
 
-The Housing Act of 1949, referred to in subsecs. (a) and (j)(2), is act July 15, 1949, ch. 338, 63 Stat. 413. TitleV of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
+The Housing Act of 1949, referred to in subsecs. (a) and (j)(2), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 

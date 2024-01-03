@@ -46,7 +46,7 @@ It shall be an unlawful employment practice for an employment agency to request,
 
 &emsp;&emsp;&emsp;(ii) State genetic monitoring regulations, in the case of a State that is implementing genetic monitoring regulations under the authority of the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.); and
 
-&emsp;&emsp;(E) the employment agency, excluding any licensed health care professional or board certified genetic counselor that is involvedin the genetic monitoring program, receives the results of the monitoring only in aggregate terms that do not disclose the identity of specific individuals.
+&emsp;&emsp;(E) the employment agency, excluding any licensed health care professional or board certified genetic counselor that is involved in the genetic monitoring program, receives the results of the monitoring only in aggregate terms that do not disclose the identity of specific individuals.
 
 #### (c) Preservation of protections
 

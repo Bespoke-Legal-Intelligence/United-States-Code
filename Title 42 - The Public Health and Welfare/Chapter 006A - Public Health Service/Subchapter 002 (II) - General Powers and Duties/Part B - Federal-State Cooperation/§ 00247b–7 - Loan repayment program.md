@@ -30,7 +30,7 @@ With respect to the National Health Service Corps Loan Repayment Program establi
 
 #### (d) Availability of appropriations
 
-Amounts appropriated for a fiscal year for contracts under subsection (a) shall remainavailable until the expiration of the second fiscal year beginning after the fiscal year for which the amounts were appropriated.
+Amounts appropriated for a fiscal year for contracts under subsection (a) shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which the amounts were appropriated.
 
 (July 1, 1944, ch. 373, title III, §317F, as added Pub. L. 103–183, title VII, §703, Dec. 14, 1993, 107 Stat. 2240; amended Pub. L. 105–392, title IV, §406, Nov. 13, 1998, 112 Stat. 3588; Pub. L. 116–22, title III, §301(c), June 24, 2019, 133 Stat. 932.)
 

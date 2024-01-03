@@ -8,7 +8,7 @@ Providing Shipping Papers.—Each person offering for transportation in commerce
 
 Keeping Shipping Papers on the Vehicle.—(1) A motor carrier, and the person offering the hazardous material for transportation if a private motor carrier, shall keep the shipping paper on the vehicle transporting the material.
 
-(2) Except as provided in paragraph (1) of this subsection, the shipping paper shall be kept in a location the Secretary specifies in a motor vehicle, train, vessel, aircraft, or facility until—
+(2) Except as provided in paragraph (1) of this subsection, the shipping paper shall be kept in alocation the Secretary specifies in a motor vehicle, train, vessel, aircraft, or facility until—
 
 &emsp;(A) the hazardous material no longer is in transportation; or
 
@@ -100,7 +100,7 @@ Rulemaking Proceeding.—
 
 &emsp;"(1)
 
-Initiation.—In order to develop methods of improving the current system of identifying hazardous materials being transported in vehicles for safeguarding the health and safety of persons respondingto emergencies involving such hazardous materials and the public and to facilitate the review and reporting process required by subsection (d), the Secretary of Transportation shall initiate a rulemaking proceeding not later than 30 days after the date of the enactment of this Act \[Nov. 16, 1990\].
+Initiation.—In order to develop methods of improving the current system of identifying hazardous materials being transported in vehicles for safeguarding the health and safety of persons responding to emergencies involving such hazardous materials and the public and to facilitate the review and reporting process required by subsection (d), the Secretary of Transportation shall initiate a rulemaking proceeding not later than 30 days after the date of the enactment of this Act \[Nov. 16, 1990\].
 
 &emsp;"(2)
 
@@ -176,7 +176,7 @@ Review and Report to Congress.—
 
 &emsp;"(1)
 
-In general.—Not later than 25 months after the date of the enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall review the report of the National Academy of Sciences submitted under subsection (b) and the results of rulemaking proceeding initiated under subsection (a) with respect to a central reporting system and computerized telecommunications data center and shall prepare andsubmit to Congress a report summarizing the report of the National Academy of Sciences and the results of such rulemaking proceeding, together with the Secretary's recommendations concerning the establishment and operation of such a system and center and the Secretary's recommendations concerning implementation of the recommendations contained in the report of the National Academy of Sciences.
+In general.—Not later than 25 months after the date of the enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall review the report of the National Academy of Sciences submitted under subsection (b) and the results of rulemaking proceeding initiated under subsection (a) with respect to a central reporting system and computerized telecommunications data center and shall prepare and submit to Congress a report summarizing the report of the National Academy of Sciences and the results of such rulemaking proceeding, together with the Secretary's recommendations concerning the establishment and operation of such a system and center and the Secretary's recommendations concerning implementation of the recommendations contained in the report of the National Academy of Sciences.
 
 &emsp;"(2)
 

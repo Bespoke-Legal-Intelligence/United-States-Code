@@ -42,7 +42,7 @@
 
 &emsp;&emsp;An institution of higher education (or a consortium thereof) seeking funding under this subsection shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum—
 
-&emsp;&emsp;&emsp;(i) a description of the applicant's computer and network security research and instructional capacity, and in the case ofan application from a consortium of institutions of higher education, a description of the role that each member will play in implementing the proposal;
+&emsp;&emsp;&emsp;(i) a description of the applicant's computer and network security research and instructional capacity, and in the case of an application from a consortium of institutions of higher education, a description of the role that each member will play in implementing the proposal;
 
 &emsp;&emsp;&emsp;(ii) a comprehensive plan by which the institution or consortium will build instructional capacity in computer and information security;
 
@@ -224,7 +224,7 @@ Computer and network security shall be included among the fields of specializati
 
 #### References in Text
 
-The Scientific and Advanced Technology Act of 1992, referred to in subsec. (b)(1), is Pub. L. 102–476, Oct. 23,1992, 106 Stat. 2297, which is classified generally to section 1862h et seq. of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1861 of Title 42 and Tables.
+The Scientific and Advanced Technology Act of 1992, referred to in subsec. (b)(1), is Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, which enacted sections 1862h to 1862j of Title 42, The Public Health and Welfare, and amended section 1862 of Title 42. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1861 of Title 42 and Tables.
 
 #### Amendments
 

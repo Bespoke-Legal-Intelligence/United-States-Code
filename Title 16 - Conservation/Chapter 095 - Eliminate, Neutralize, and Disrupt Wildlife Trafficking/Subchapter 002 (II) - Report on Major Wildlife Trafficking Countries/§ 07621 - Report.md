@@ -26,13 +26,13 @@ This section shall cease to have force or effect on September 30, 2028.
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 114–231, Oct. 7, 2016, 130 Stat. 949, known as the Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note under section 7601 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 114–231, Oct. 7, 2016, 130 Stat. 949, known as the Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016,which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note under section 7601 of this title and Tables.
 
 #### Amendments
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–263, §5943(c)(1)(A), substituted "biennially thereafter by June 1 of each year in which a report is required" for "annually thereafter".
 
-Subsec. (b). Pub. L. 117–263, §5943(c)(1)(B), substituted "shall also list each country determined by the Secretary of State to be a country of concern within the meaning of this chapter" for "shall identify each country of concern listed in the report the government of which has actively engaged in or knowingly profited from the trafficking of endangered or threatened species.".
+Subsec. (b). Pub. L. 117–263, §5943(c)(1)(B), substituted "shall also list each country determined by the Secretary of State to be a country of concern within the meaning of this chapter" for "shall identify each country of concern listed in the report the government of which has actively engaged in or knowingly profited from the trafficking of endangered or threatened species."
 
 Subsecs. (c), (d). Pub. L. 117–263, §5943(c)(1)(C), added subsecs. (c) and (d) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: "This section shall terminate on the date that is 5 years after October 7, 2016."
 

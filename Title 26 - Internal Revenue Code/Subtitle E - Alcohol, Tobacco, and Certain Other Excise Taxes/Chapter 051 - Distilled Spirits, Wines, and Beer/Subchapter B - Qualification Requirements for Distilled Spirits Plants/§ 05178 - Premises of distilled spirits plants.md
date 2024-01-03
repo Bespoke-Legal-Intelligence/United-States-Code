@@ -6,7 +6,7 @@
 
 &emsp;(A) The premises of a distilled spirits plant shall be as described in the application required by section 5171(c). The Secretary shall prescribe such regulations relating to the location, construction, arrangement, and protection of distilled spirits plants as he deems necessary to facilitate inspection and afford adequate security to the revenue.
 
-&emsp;(B) No distilled spirits plant for the production of distilled spirits shall be located in anydwelling house, in any shed, yard, or inclosure connected with any dwelling house, or on board any vessel or boat, or on premises where beer or wine is made or produced, or liquors of any description are retailed, or on premises where any other business is carried on (except when authorized under subsection (b)).
+&emsp;(B) No distilled spirits plant for the production of distilled spirits shall be located in any dwelling house, in any shed, yard, or inclosure connected with any dwelling house, or on board any vessel or boat, or on premises where beer or wine is made or produced, or liquors of any description are retailed, or on premises where any other business is carried on (except when authorized under subsection (b)).
 
 &emsp;(C) Notwithstanding any other provision of this chapter relating to distilled spirits plants the Secretary may approve the location, construction, arrangement, and method of operation of any establishment which was qualified to operate on the date preceding the effective date of this section if he deems that such location, construction, arrangement, and method of operation will afford adequate security to the revenue.
 

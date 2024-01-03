@@ -6,7 +6,7 @@ Notwithstanding any other provision of this chapter or any other provision of la
 
 #### (b) Prohibition on withholding funds
 
-The Secretary is prohibited from withholding funds from any State educational agency or local educational agency if the State educational agency or local educational agency fails to adopt a specific method of teacher or paraprofessional certification.
+The Secretary is prohibited from withholding funds from any State educational agency orlocal educational agency if the State educational agency or local educational agency fails to adopt a specific method of teacher or paraprofessional certification.
 
 (Pub. L. 89–10, title VIII, §8530, formerly title IX, §9530, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1984; renumbered title VIII, §8530, and amended Pub. L. 114–95, title VIII, §§8001(a)(6), 8027, Dec. 10, 2015, 129 Stat. 2088, 2089, 2116.)
 

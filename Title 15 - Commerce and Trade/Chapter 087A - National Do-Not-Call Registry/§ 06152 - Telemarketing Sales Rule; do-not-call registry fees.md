@@ -80,7 +80,7 @@ The Federal Trade Commission shall assess and collect an annual fee pursuant to 
 
 #### (A) CPI
 
-&emsp;&emsp;The term "CPI" means the average of the monthly consumer price index (for all urbanconsumers published by the Department of Labor).
+&emsp;&emsp;The term "CPI" means the average of the monthly consumer price index (for all urban consumers published by the Department of Labor).
 
 #### (B) Baseline CPI
 

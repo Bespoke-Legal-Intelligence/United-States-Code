@@ -18,7 +18,7 @@ In this chapter:
 
 &emsp;&emsp;(B) is—
 
-&emsp;&emsp;&emsp;(i) loaded at a port in the United States and unloaded either at another port in the United States or at a port in Canada or Mexico; or
+&emsp;&emsp;&emsp;(i) loaded at a port in the United States and unloaded either at another port in theUnited States or at a port in Canada or Mexico; or
 
 &emsp;&emsp;&emsp;(ii) loaded at a port in Canada or Mexico and unloaded at a port in the United States.
 

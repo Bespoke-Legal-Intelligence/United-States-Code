@@ -16,7 +16,7 @@
 
 (2) The Secretary may prescribe different and individual performance standards, to the extent appropriate and feasible, for different electronic products so as to recognize their different operating characteristics and uses.
 
-(3) The performance standards prescribed under this section shall not apply to any electronic product which is intended solely for export if (A) such product and the outside of any shipping container used in the export of suchproduct are labeled or tagged to show that such product is intended for export, and (B) such product meets all the applicable requirements of the country to which such product is intended for export.
+(3) The performance standards prescribed under this section shall not apply to any electronic product which is intended solely for export if (A) such product and the outside of any shipping container used in the export of such product are labeled or tagged to show that such product is intended for export, and (B) such product meets all the applicable requirements of the country to which such product is intended for export.
 
 (4) The Secretary may by regulation amend or revoke any performance standard prescribed under this section.
 
@@ -60,11 +60,11 @@ A certified copy of the transcript of the record and administrative proceedings 
 
 (B) The Committee may propose electronic product radiation safety standards to the Secretary for his consideration. All proceedings of the Committee shall be recorded and the record of each such proceeding shall be available for public inspection.
 
-(2) Payments to members of the Committee who are not officers or employees of the UnitedStates pursuant to subsection (c) of section 210 of title 42 shall not render members of the Committee officers or employees of the United States for any purpose.
+(2) Payments to members of the Committee who are not officers or employees of the United States pursuant to subsection (c) of section 210 of title 42 shall not render members of the Committee officers or employees of the United States for any purpose.
 
 #### (g) Review and evaluation
 
-The Secretary shall review and evaluate on a continuing basis testing programs carried out by industry to assure the adequacy of safeguards against hazardous electronic product radiation and to assure that electronic products comply with standards prescribed under this section.
+The Secretary shall review and evaluate on a continuing basis testing programs carried outby industry to assure the adequacy of safeguards against hazardous electronic product radiation and to assure that electronic products comply with standards prescribed under this section.
 
 #### (h) Product certification
 

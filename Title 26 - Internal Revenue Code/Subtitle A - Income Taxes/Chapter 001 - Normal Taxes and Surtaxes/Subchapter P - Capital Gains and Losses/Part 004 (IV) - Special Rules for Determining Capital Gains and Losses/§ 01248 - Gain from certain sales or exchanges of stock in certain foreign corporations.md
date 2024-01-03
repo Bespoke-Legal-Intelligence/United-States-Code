@@ -32,7 +32,7 @@ In the case of an individual, if the stock sold or exchanged is a capital asset 
 
 &emsp;If—
 
-&emsp;&emsp;(A) subsection (a) or (f) applies to a sale, exchange, or distribution by a United States person of stock of a foreign corporation and, by reason of the ownership of the stock sold or exchanged, such person owned within the meaning of section 958(a)(2) stock of any other foreign corporation; and
+&emsp;&emsp;(A) subsection (a) or (f) applies to a sale, exchange, or distribution by a United Statesperson of stock of a foreign corporation and, by reason of the ownership of the stock sold or exchanged, such person owned within the meaning of section 958(a)(2) stock of any other foreign corporation; and
 
 &emsp;&emsp;(B) such person owned, within the meaning of section 958(a), or was considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such other foreign corporation at any time during the 5-year period ending on the date of the sale or exchange when such other foreign corporation was a controlled foreign corporation (as defined in section 957),
 
@@ -112,7 +112,7 @@ Except as provided in regulations prescribed by the Secretary—
 
 &emsp;In the case of any distribution of stock of a foreign corporation, paragraph (1) shall not apply if such distribution is to a domestic corporation—
 
-&emsp;&emsp;(A) which is treated under this section as holding such stock for the period for whichthe stock was held by the distributing corporation, and
+&emsp;&emsp;(A) which is treated under this section as holding such stock for the period for which the stock was held by the distributing corporation, and
 
 &emsp;&emsp;(B) which, immediately after the distribution, satisfies the stock ownership requirements of subsection (a)(2) with respect to such foreign corporation.
 
@@ -162,7 +162,7 @@ In the case of the sale or exchange by a domestic corporation of stock in a fore
 
 &emsp;&emsp;<b>For provision excluding amounts previously taxed under this section from gross income when subsequently distributed, see section 959(e).</b>
 
-(Added Pub. L. 87–834, §15(a), Oct. 16, 1962, 76 Stat. 1041; amended Pub. L. 89–809, title I, §104(k), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 91–172, title IV, §442(b)(2), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §§1022(a), 1042(b), (c)(1), (3), title XIV, §1402(b)(1)(Y), (2), title XIX, §§1901(b)(3)(H), (32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1619, 1636, 1637, 1732, 1793, 1800, 1834; Pub. L. 97–448, title I, §102(c)(1), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–369, div. A, title I, §133(a), (b)(2), (c), title VIII, §801(d)(6), title X, §1001(b)(22), (e), July 18, 1984, 98 Stat. 667, 668, 996, 1012; Pub. L. 99–514, title VI, §631(d)(2), title XVIII, §§1810(i)(1), 1875(g)(1), 1876(a)(2), Oct. 22, 1986, 100 Stat. 2272, 2829, 2897; Pub. L. 100–647, title I, §§1006(e)(14), 1012(p)(19), Nov. 10, 1988, 102 Stat. 3402, 3518; Pub. L. 104–188, title I, §1702(g)(1), Aug. 20, 1996, 110 Stat. 1872; Pub. L. 108–357, title IV, §413(c)(22), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 110–172, §11(g)(17), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 115–97, title I, §14102(a)(1), Dec. 22, 2017, 131 Stat. 2192.)
+(Added Pub. L. 87–834, §15(a), Oct. 16, 1962, 76 Stat. 1041; amended Pub. L. 89–809, title I, §104(k), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 91–172, title IV, §442(b)(2), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §§1022(a), 1042(b), (c)(1), (3), title XIV, §1402(b)(1)(Y), (2), title XIX, §§1901(b)(3)(H), (32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1619, 1636, 1637, 1732, 1793, 1800, 1834; Pub. L. 97–448, title I, §102(c)(1), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–369, div. A, title I, §133(a), (b)(2), (c), title VIII, §801(d)(6), title X, §1001(b)(22), (e), July 18, 1984, 98 Stat. 667, 668, 996, 1012; Pub. L. 99–514, title VI, §631(d)(2), title XVIII, §§1810(i)(1), 1875(g)(1), 1876(a)(2), Oct. 22, 1986, 100 Stat. 2272, 2829, 2897; Pub. L. 100–647, title I, §§1006(e)(14), 1012(p)(19), Nov. 10, 1988, 102Stat. 3402, 3518; Pub. L. 104–188, title I, §1702(g)(1), Aug. 20, 1996, 110 Stat. 1872; Pub. L. 108–357, title IV, §413(c)(22), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 110–172, §11(g)(17), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 115–97, title I, §14102(a)(1), Dec. 22, 2017, 131 Stat. 2192.)
 
 #### <b>Editorial Notes</b>
 
@@ -250,7 +250,7 @@ Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 Subsec. (f). Pub. L. 94–455, §1042(c)(1), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 94–455, §§1042(c)(1), (3)(B), 1901(b)(3)(H), redesignated former subsec. (f) as (g); inserted "(other than an amount treated as a dividend under subsection (f))" in par. (3)(A); and substituted in par. (3)(B) "ordinary income" for "gain from the sale ofan asset which is not a capital asset", respectively. Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 94–455, §§1042(c)(1), (3)(B), 1901(b)(3)(H), redesignated former subsec. (f) as (g); inserted "(other than an amount treated as a dividend under subsection (f))" in par. (3)(A); and substituted in par. (3)(B) "ordinary income" for "gain from the sale of an asset which is not a capital asset", respectively. Former subsec. (g) redesignated (h).
 
 Subsec. (g)(3)(C). Pub. L. 94–455, §1402(b)(2), provided that "9 months" would be changed to "1 year".
 

@@ -6,7 +6,7 @@ In General.—An individual who is certified by the Secretary of Transportation 
 
 (b)
 
-Time for Application.—An individual may submit an application for certification under subsection (c) to the Secretary not later than 45 days after the date the individual completes a period of employment described in subsection (c)(1)(A) with respect to which the application is submitted.
+Time for Application.—An individual may submit an application for certification under subsection (c) to the Secretary not later than 45days after the date the individual completes a period of employment described in subsection (c)(1)(A) with respect to which the application is submitted.
 
 (c)
 

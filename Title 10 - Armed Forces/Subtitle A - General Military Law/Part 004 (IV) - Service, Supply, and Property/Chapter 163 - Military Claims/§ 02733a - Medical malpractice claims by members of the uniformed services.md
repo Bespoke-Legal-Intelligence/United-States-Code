@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Consistent with this section and under such regulations as the Secretary of Defense shall prescribe under subsection (f), the Secretary may allow, settle, and pay a claim against the United States for personal injury or death incident to the service of a member of the uniformed services that was caused by the medical malpractice of a Department of Defense health care provider.
+In General.—Consistent with this section and under such regulations as the Secretary of Defense shall prescribe under subsection (g), the Secretary may allow, settle, and pay a claim against the United States for personal injury or death incident to the service of a member of the uniformed services that was caused by the medical malpractice of a Department of Defense health care provider.
 
 (b)
 
@@ -18,7 +18,7 @@ Requirement for Claims.—A claim may be allowed, settled, and paid under subsec
 
 &emsp;(5) the claim is not allowed to be settled and paid under any other provision of law; and
 
-&emsp;(6) the claim is substantiated as prescribed in regulations prescribed by the Secretary of Defense under subsection (f).
+&emsp;(6) the claim is substantiated as prescribed in regulations prescribed by the Secretary of Defense under subsection (g).
 
 (c)
 
@@ -28,15 +28,23 @@ Liability.—(1) The Department of Defense is liable for only the portion of com
 
 (d)
 
-Payment of Claims.—(1) If the Secretary of Defense determines, pursuant to regulations prescribed by the Secretary under subsection (f), that a claim under this section in excess of $100,000 is meritorious, and the claim is otherwise payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Secretary of the Treasury for payment under section 1304 of title 31.
+Payment of Claims.—(1) If the Secretary of Defense determines, pursuant to regulations prescribed by the Secretary under subsection (g), that a claim under this section in excess of $100,000 is meritorious, and the claim is otherwise payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Secretary of the Treasury for payment under section 1304 of title 31.
 
-(2) Except as provided in paragraph (1), no claim may be paid under this section unless the amount tendered is accepted by the claimant in full satisfaction.
+(2) Except as provided in paragraph (1), no claim may be paid under this section unless theamount tendered is accepted by the claimant in full satisfaction.
 
 (e)
 
 Reporting Medical Malpractice.—Not later than 30 days after a determination of medical malpractice or the payment of all or part of a claim under this section, the Secretary of Defense shall submit to the Director of the Defense Health Agency a report documenting such determination or payment to be used by the Director for all necessary and appropriate purposes, including medical quality assurance.
 
 (f)
+
+Justification of Denial.—If a claim under this section is denied, the Secretary of Defense shall provide the claimant with detailed reasoning justifying the denial of the claim, including—
+
+&emsp;(1) copies of any written reports prepared by any expert upon which the denial is based; and
+
+&emsp;(2) all records and documents relied upon in preparing such written reports, other than medical quality assurance records (as such term is defined in section 1102 of this title).
+
+(g)
 
 Regulations.—(1) The Secretary of Defense shall prescribe regulations to implement this section.
 
@@ -68,13 +76,13 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations to imple
 
 &emsp;(B) not later than one year after prescribing such interim final rule and considering public comments with respect to such interim final rule, by prescribing a final rule.
 
-(g)
+(h)
 
 Limitation on Attorney Fees.—(1) No attorney shall charge, demand, receive, or collect for services rendered, fees in excess of 20 percent of any claim paid pursuant to this section.
 
 (2) Any attorney who charges, demands, receives, or collects for services rendered in connection with a claim under this section any amount in excess of the amount allowed under paragraph (1), if recovery be had, shall be fined not more than $2,000, imprisoned not more than one year, or both.
 
-(h)
+(i)
 
 Annual Report.—Not less frequently than annually until 2025, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report—
 
@@ -84,7 +92,7 @@ Annual Report.—Not less frequently than annually until 2025, the Secretary of 
 
 &emsp;(3) describing any other information that may enhance the effectiveness of the claims process under this section.
 
-(i)
+(j)
 
 Definitions.—In this section:
 
@@ -100,7 +108,19 @@ Department of defense health care provider.—The term "Department of Defense he
 
 Member of the uniformed services.—The term "member of the uniformed services" includes a member of a reserve component of the armed forces if the claim by the member under this section is in connection with personal injury or death that occurred while the member was in Federal status.
 
-(Added Pub. L. 116–92, div. A, title VII, §731(a)(1), Dec. 20, 2019, 133 Stat. 1457.)
+(Added Pub. L. 116–92, div. A, title VII, §731(a)(1), Dec. 20, 2019, 133 Stat. 1457; amended Pub. L. 118–31, div. A, title VII, §713, Dec. 22, 2023, 137 Stat. 302.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2023</b>—Subsec. (a). Pub. L. 118–31, §713(1), substituted "subsection (g)" for "subsection (f)".
+
+Subsec. (b)(6). Pub. L. 118–31, §713(2), substituted "subsection (g)" for "subsection (f)".
+
+Subsec. (d)(1). Pub. L. 118–31, §713(3), substituted "subsection (g)" for "subsection (f)".
+
+Subsecs. (f) to (j). Pub. L. 118–31, §713(4), (5), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

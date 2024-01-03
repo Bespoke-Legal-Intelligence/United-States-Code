@@ -22,7 +22,7 @@ The Secretary shall make a grant under this section for the expansion, renovatio
 
 &emsp;(1) For not less than 20 years after the grant is awarded, the facility shall be used for the purposes of the research for which the facility was expanded, as described in the grant application.
 
-&emsp;(2) Sufficient funds will be available, as of the date of completion of the expansion, forthe effective use of the facility for the purposes of the research for which the facility was expanded.
+&emsp;(2) Sufficient funds will be available, as of the date of completion of the expansion, for the effective use of the facility for the purposes of the research for which the facility was expanded.
 
 &emsp;(3) The proposed expansion—
 

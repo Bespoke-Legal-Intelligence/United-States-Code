@@ -108,7 +108,7 @@
 
 #### (B) Definition
 
-&emsp;&emsp;The term "WTC-related musculoskeletal disorder" means a chronic or recurrent disorder of the musculoskeletal system caused by heavy lifting or repetitive strain on the joints or musculoskeletal system occurring during rescue or recovery efforts in the New York City disaster area in the aftermath of the September 11, 2001, terrorist attacks.
+&emsp;&emsp;The term "WTC-related musculoskeletal disorder" means a chronic or recurrent disorder of the musculoskeletal system caused by heavy lifting or repetitive strain on the joints or musculoskeletal system occurring during rescue or recovery efforts in the NewYork City disaster area in the aftermath of the September 11, 2001, terrorist attacks.
 
 #### (5) Cancer
 
@@ -148,7 +148,7 @@
 
 #### (C) Action by Advisory Committee
 
-&emsp;&emsp;In the case that the Administrator requests a recommendation of the Advisory Committee under this paragraph, with respect to adding a health condition to the list in paragraph (3), the Advisory Committee shall submit to the Administrator such recommendation not later than 90 days after the date of such request or by such date (not to exceed 180 days after such date of request) as specified by the Administrator. Not later than 90 days after the date of receipt of such recommendation, the Administrator shall,in accordance with subparagraph (D), publish in the Federal Register a proposed rule with respect to such recommendation or a determination not to propose such a proposed rule and the basis for such determination.
+&emsp;&emsp;In the case that the Administrator requests a recommendation of the Advisory Committee under this paragraph, with respect to adding a health condition to the list in paragraph (3), the Advisory Committee shall submit to the Administrator such recommendation not later than 90 days after the date of such request or by such date (not to exceed 180 days after such date of request) as specified by the Administrator. Not later than 90 days after the date of receipt of such recommendation, the Administrator shall, in accordance with subparagraph (D), publish in the Federal Register a proposed rule with respect to such recommendation or a determination not to propose such a proposed rule and the basis for such determination.
 
 #### (D) Publication
 
@@ -216,7 +216,7 @@
 
 &emsp;&emsp;If a physician at a Clinical Center of Excellence determines pursuant to subsection (a) that the enrolled WTC responder has a health condition described in subsection (a)(1)(A) that is not in the list in subsection (a)(3) but which is medically associated with a WTC-related health condition—
 
-&emsp;&emsp;&emsp;(i) the physician shall promptly transmit such determination to the WTC ProgramAdministrator and provide the Administrator with the facts supporting such determination; and
+&emsp;&emsp;&emsp;(i) the physician shall promptly transmit such determination to the WTC Program Administrator and provide the Administrator with the facts supporting such determination; and
 
 &emsp;&emsp;&emsp;(ii) the Administrator shall make a determination under subparagraph (B) with respect to such physician's determination.
 
@@ -234,7 +234,7 @@
 
 #### (C) Inclusion in list of health conditions
 
-&emsp;&emsp;If the WTC Program Administrator provides certification under subparagraph (B)(iii) for coverage of a condition, the Administrator may, pursuant to subsection (a)(6), add the condition to the list in subsection (a)(3).
+&emsp;&emsp;If the WTC Program Administrator provides certification under subparagraph (B)(iii) for coverage of a condition, the Administrator may, pursuant to subsection\(a)(6), add the condition to the list in subsection (a)(3).
 
 #### (D) Conditions already declined for inclusion in list
 
@@ -278,7 +278,7 @@
 
 &emsp;&emsp;&emsp;Subject to clause (ii):
 
-&emsp;&emsp;&emsp;&emsp;(I) Subject to subparagraphs (B) and (C), the WTC Program Administratorshall reimburse costs for medically necessary treatment under this subchapter for WTC-related health conditions according to the payment rates that would apply to the provision of such treatment and services by the facility under the Federal Employees Compensation Act.
+&emsp;&emsp;&emsp;&emsp;(I) Subject to subparagraphs (B) and (C), the WTC Program Administrator shall reimburse costs for medically necessary treatment under this subchapter for WTC-related health conditions according to the payment rates that would apply to the provision of such treatment and services by the facility under the Federal Employees Compensation Act.
 
 &emsp;&emsp;&emsp;&emsp;(II) For treatment not covered under subclause (i) or subparagraph (B), the WTC Program Administrator shall establish by regulation a reimbursement rate for such treatment.
 

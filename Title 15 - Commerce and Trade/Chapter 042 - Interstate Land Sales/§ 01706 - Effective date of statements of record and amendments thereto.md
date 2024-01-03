@@ -6,7 +6,7 @@ Except as hereinafter provided, the effective date of a statement of record, or 
 
 #### (b) Incomplete or inaccurate statements of record
 
-If it appears to the Director that a statement of record, or any amendment thereto, is on its face incomplete or inaccurate in any material respect, the Director shall so advise the developer within a reasonable time after the filing of the statement or the amendment, but prior to the date the statement or amendment would otherwise be effective. Such notification shall serve to suspend the effective date of the statement or the amendment until thirty days after the developer files such additional information as the Director shall require. Any developer, upon receipt of such notice, may request a hearing, and such hearing shall be held within twenty days of receipt of such request by the Director.
+If it appears to the Director that a statement of record, or any amendment thereto, is on its face incomplete or inaccurate in any material respect, the Director shall so advise the developer within a reasonable time after the filing of the statement or the amendment, but prior to the date the statement or amendment would otherwise be effective. Such notification shall serve to suspend the effective date of the statement or the amendment until thirty days after the developer files such additional information as the Director shall require. Any developer,upon receipt of such notice, may request a hearing, and such hearing shall be held within twenty days of receipt of such request by the Director.
 
 #### (c) Amendment of statement of record
 

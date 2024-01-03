@@ -22,7 +22,7 @@ Subsequent award.—The Secretary may award an operating agreement to an applica
 
 (c)
 
-Procedure for Awarding New Operating Agreements.—The Secretary may enter into a new operating agreement with an applicant that meets the requirements of section 53102(c) (for vessels that meet the qualifications of section 53102(b)) on the basis of priority for vessel type established by military requirements of the Secretary of Defense. The Secretary shall allow an applicant at least 30 days to submit an application for a new operating agreement. After consideration of military requirements, priority shall be given to an applicant that is a UnitedStates citizen under section 50501 of this title. The Secretary may not approve an application without the consent of the Secretary of Defense. The Secretary shall enter into an operating agreement with the applicant or provide a written reason for denying the application.
+Procedure for Awarding New Operating Agreements.—The Secretary may enter into a new operating agreement with an applicant that meets the requirements of section 53102(c) (for vessels that meet the qualifications of section 53102(b)) on the basis of priority for vessel type established by military requirements of the Secretary of Defense. The Secretary shall allow an applicant at least 30 days to submit an application for a new operating agreement. After consideration of military requirements, priority shall be given to an applicant that is a United States citizen under section 50501 of this title. The Secretary may not approve an application without the consent of the Secretary of Defense. The Secretary shall enter into an operating agreement with the applicant or provide a written reason for denying the application.
 
 (d)
 
@@ -44,7 +44,7 @@ The date of enactment of this paragraph, referred to in subsec. (b)(1), probably
 
 Subsec. (c). Pub. L. 112–239, §3508(c)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to priority for awarding agreements.
 
-<b>2006</b>—Subsec. (c)(1). Pub. L. 109–304, §13(a)(2)(A)–(C), substituted "section 50501 of this title" for "section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)" in subpars. (A)(iii) and (C)(i) and (ii), "applying subparagraph" for "applying subparagraphs" in subpar. (B), and "section 50501" for "section 2" in subpar. (C) heading.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–304, §13(a)(2)(A)–(C), substituted "section 50501 of this title" for "section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)" in subpars. (A)(iii) and (C)(i) and (ii), "applying subparagraph" for"applying subparagraphs" in subpar. (B), and "section 50501" for "section 2" in subpar. (C) heading.
 
 Subsec. (c)(3)(B). Pub. L. 109–304, §13(a)(2)(D), substituted "agreements" for "agreement".
 

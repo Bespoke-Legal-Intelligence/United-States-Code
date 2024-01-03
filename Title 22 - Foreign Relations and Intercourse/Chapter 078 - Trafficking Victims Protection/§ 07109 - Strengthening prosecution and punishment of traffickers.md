@@ -34,7 +34,7 @@ The Fair Labor Standards Act, referred to in subsec. (b)(1), probably means the 
 
 The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (b)(1), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, which is classified generally to chapter 20 (§1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 29 and Tables.
 
-The Sentencing Act of 1987, referred to in subsec. (b)(3), is Pub. L. 100–182, Dec. 7, 1987, 101 Stat. 1266. Section 21(a) of the Act is set out as a note under section994 of Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 3551 of Title 18, Crimes and Criminal Procedure, and Tables.
+The Sentencing Act of 1987, referred to in subsec. (b)(3), is Pub. L. 100–182, Dec. 7, 1987, 101 Stat. 1266. Section 21(a) of the Act is set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 3551 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 #### Codification
 

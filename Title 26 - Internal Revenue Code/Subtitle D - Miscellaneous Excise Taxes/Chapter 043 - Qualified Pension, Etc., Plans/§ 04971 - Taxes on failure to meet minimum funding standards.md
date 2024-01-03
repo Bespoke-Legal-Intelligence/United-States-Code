@@ -120,7 +120,7 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 &emsp;Except as provided in this subsection—
 
-&emsp;&emsp;(A) no tax shall be imposed under this section for a taxable year with respect to a multiemployer plan if, for the plan years ending with or within the taxable year, the plan is in critical status pursuant to section 432, and
+&emsp;&emsp;(A) no tax shall be imposed under this section for a taxable year with respect to a multiemployer plan if, for the plan yearsending with or within the taxable year, the plan is in critical status pursuant to section 432, and
 
 &emsp;&emsp;(B) any tax imposed under this subsection for a taxable year with respect to a multiemployer plan if, for the plan years ending with or within the taxable year, the plan is in endangered status pursuant to section 432 shall be in addition to any other tax imposed by this section.
 
@@ -358,7 +358,7 @@ For provisions that nothing in amendment by section 401(b)(44) of Pub. L. 115–
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractorplans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 

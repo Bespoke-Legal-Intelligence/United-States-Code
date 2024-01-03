@@ -36,7 +36,7 @@ The Congress finds and declares—
 
 The Director of the Office of Management and Budget shall coordinate and monitor the development and implementation by Federal departments and agencies of the efforts required by subsection (b) and shall report to the Congress on such development and implementation and with respect to any provisions of law which unnecessarily prevent such departments and agencies from carrying out the provisions of this section as part of each report required under Public Law 93–556. Such report shall include an estimate of the reduction of the level of paperwork burden hours of the affected agencies as allocated by the Office of Management and Budget.
 
-(Pub. L. 95–557, title IX, §905, Oct. 31, 1978, 92 Stat. 2126; Pub. L. 96–153, title III, §328, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 98–479, title II,§204(n)(4), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 102–54, §13(q)(10), June 13, 1991, 105 Stat. 281.)
+(Pub. L. 95–557, title IX, §905, Oct. 31, 1978, 92 Stat. 2126; Pub. L. 96–153, title III, §328, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 98–479, title II, §204(n)(4), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 102–54, §13(q)(10), June 13, 1991, 105 Stat. 281.)
 
 #### <b>Editorial Notes</b>
 

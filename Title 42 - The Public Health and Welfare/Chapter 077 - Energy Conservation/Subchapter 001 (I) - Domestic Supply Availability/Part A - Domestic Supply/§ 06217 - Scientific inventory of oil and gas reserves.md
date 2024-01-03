@@ -40,7 +40,7 @@ Section was enacted as part of the Energy Act of 2000, and not as part of the En
 
 <b>2005</b>—Subsec. (a)(1). Pub. L. 109–58, §364(a)(1)(A), struck out "reserve" before "estimates" and "and" after the semicolon.
 
-Subsec. (a)(2), (3). Pub. L. 109–58, §364(a)(1)(B), added pars. (2) and (3) and struck out former par. (2) which read as follows: "the extent and nature of any restrictions or impediments to the development of such resources."
+Subsec. (a)(2), (3). Pub. L. 109–58, §364(a)(1)(B), added pars. (2) and (3) and struck out former par. (2) whichread as follows: "the extent and nature of any restrictions or impediments to the development of such resources."
 
 Subsec. (b). Pub. L. 109–58, §364(a)(2), substituted "resource" for "reserve" and "publicly" for "publically".
 

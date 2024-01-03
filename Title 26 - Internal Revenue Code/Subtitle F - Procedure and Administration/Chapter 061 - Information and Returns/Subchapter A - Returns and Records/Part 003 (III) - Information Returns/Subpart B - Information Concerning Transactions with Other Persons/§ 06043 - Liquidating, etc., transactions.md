@@ -20,7 +20,7 @@ Every organization which for any of its last 5 taxable years preceding its liqui
 
 If—
 
-&emsp;(1) control (as defined in section 304(c)(1)) of a corporation is acquired by any person (or group of persons) in a transaction (or series of related transactions), or
+&emsp;(1) control (as defined in section 304(c)(1)) of a corporation is acquired by any person (orgroup of persons) in a transaction (or series of related transactions), or
 
 &emsp;(2) there is a recapitalization of a corporation or other substantial change in the capital structure of a corporation,
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section101(k)(2)(B) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 101(k)(2)(B) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "6652(l)."</i>
 

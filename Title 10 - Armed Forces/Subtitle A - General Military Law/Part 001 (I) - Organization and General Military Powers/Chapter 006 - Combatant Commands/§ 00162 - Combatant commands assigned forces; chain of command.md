@@ -6,7 +6,7 @@ Assignment of Forces.—(1) As directed by the Secretary of Defense, the Secreta
 
 (2) A force not assigned to a combatant command or to the United States element of the North American Aerospace Defense Command under paragraph (1) shall remain assigned to the military department concerned for carrying out the responsibilities of the Secretary of the military department concerned as specified in section 7013, 8013, or 9013 of this title, as applicable.
 
-(3) A force assigned to a combatant command or to the United States element of the North American Aerospace Defense Command underthis section may be transferred from the command to which it is assigned only—
+(3) A force assigned to a combatant command or to the United States element of the North American Aerospace Defense Command under this section may be transferred from the command to which it is assigned only—
 
 &emsp;(A) by authority of the Secretary of Defense; and
 
@@ -34,7 +34,7 @@ Chain of Command.—Unless otherwise directed by the President, the chain of com
 
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–328, §924(1), substituted "As directed by the Secretary of Defense" for "Except as provided in paragraph (2)" and "specified forces" for "all forces" and struck out "Such assignments shall be made as directed by the Secretary of Defense, including direction as to the command to which forces are to be assigned." before "The Secretary of Defense".
 
-Subsec. (a)(2). Pub. L. 114–328, §924(2), added par. (2) and struck out former par. (2) which read as follows: "Except as otherwise directed by the Secretary of Defense, forces to be assigned by the Secretaries of the military departments to the combatant commands or to the United States element of the North American Aerospace Defense Command under paragraph (1) do not include forces assigned to carry out functions of the Secretary of a military department listed in sections 3013(b), 5013(b), and 8013(b) of this title or forces assigned to multinational peacekeeping organizations."
+Subsec. (a)(2). Pub. L. 114–328, §924(2), added par. (2) and struck out former par. (2) which read as follows: "Except as otherwise directed by the Secretary of Defense, forces to be assigned by the Secretaries of the military departments to the combatant commands or to the United States element of the North AmericanAerospace Defense Command under paragraph (1) do not include forces assigned to carry out functions of the Secretary of a military department listed in sections 3013(b), 5013(b), and 8013(b) of this title or forces assigned to multinational peacekeeping organizations."
 
 Subsec. (a)(4). Pub. L. 114–328, §924(3)(B), struck out "assigned to, and" before "under the command".
 

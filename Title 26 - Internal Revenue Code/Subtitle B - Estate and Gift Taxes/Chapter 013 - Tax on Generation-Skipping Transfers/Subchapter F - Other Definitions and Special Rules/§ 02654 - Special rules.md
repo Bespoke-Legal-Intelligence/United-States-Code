@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), if property is transferred in a generation-skipping transfer, the basis of such property shall be increased (but not above the fair market value of such property) by an amount equal to that portion of the tax imposed by section 2601 with respect to the transfer which is attributable to the excess of the fair market value of such property over its adjusted basis immediately before the transfer. The preceding shall be applied after any basis adjustment under section 1015 with respect to the transfer.
+&emsp;Except as provided in paragraph (2), if property is transferred in a generation-skippingtransfer, the basis of such property shall be increased (but not above the fair market value of such property) by an amount equal to that portion of the tax imposed by section 2601 with respect to the transfer which is attributable to the excess of the fair market value of such property over its adjusted basis immediately before the transfer. The preceding shall be applied after any basis adjustment under section 1015 with respect to the transfer.
 
 #### (2) Certain transfers at death
 

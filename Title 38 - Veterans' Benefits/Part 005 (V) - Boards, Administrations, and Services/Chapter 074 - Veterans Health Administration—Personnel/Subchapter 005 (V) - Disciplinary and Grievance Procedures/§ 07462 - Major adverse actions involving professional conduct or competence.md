@@ -14,7 +14,7 @@
 
 &emsp;(A) Advance written notice from the Under Secretary for Health or other charging official specifically stating the basis for each charge, the adverse actions that could be taken if the charges are sustained, a statement of any specific law, regulation, policy, procedure, practice, or other specific instruction that has been violated with respect to each charge, and a file containing all the evidence in support of each charge, except that the requirement for notification in advance may be waived if there is reasonable cause to believe that the employee has committed a crime for which the employee may be imprisoned.
 
-&emsp;(B) The opportunity, within the time period provided for in paragraph (4)(A), to present an answer orally and in writing to the Under Secretary for Health or other deciding official, who shall be an official higher in rank than the charging official, and to submit affidavits and other documentary evidence in support of the answer.
+&emsp;(B) The opportunity, within the time period provided for in paragraph (4)(A), to present an answer orally and in writing to the Under Secretary for Health or other deciding official,who shall be an official higher in rank than the charging official, and to submit affidavits and other documentary evidence in support of the answer.
 
 (2) In any case described in paragraph (1), the employee is entitled to be represented by an attorney or other representative of the employee's choice at all stages of the case.
 

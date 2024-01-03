@@ -42,7 +42,7 @@ Pub. L. 95–600, §701(t)(3)(B) (effective Oct. 4, 1976, see Pub. L. 95–600, 
 
 #### Amendments
 
-<b>2022</b>—Subsec. (a)(6). Pub. L. 117–169, §11003(b), inserted "50A," after "46".
+<b>2022</b>—Subsec. (a)(6). Pub. L. 117–169, §11003(b), inserted "50A," after "46,".
 
 Pub. L. 117–169, §10201(b), inserted "37," before "41".
 
@@ -134,7 +134,7 @@ Amendment by section 1901(a)(39) of Pub. L. 94–455 effective for taxable years
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974,but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as a note under section 410 of this title.
+Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as a note under section 410 of this title.
 
 #### Effective Date
 

@@ -78,7 +78,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 &emsp;&emsp;&emsp;Any alien who—
 
-&emsp;&emsp;&emsp;&emsp;(I) is convicted of a crime involving moral turpitude committed within five years (or 10 years in the case of an alien provided lawful permanent resident status under section 1255(j) of this title) after the date of admission, and
+&emsp;&emsp;&emsp;&emsp;(I) is convicted of a crime involving moral turpitude committed within fiveyears (or 10 years in the case of an alien provided lawful permanent resident status under section 1255(j) of this title) after the date of admission, and
 
 &emsp;&emsp;&emsp;&emsp;(II) is convicted of a crime for which a sentence of one year or longer may be imposed,
 
@@ -108,7 +108,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (i) Conviction
 
-&emsp;&emsp;&emsp;Any alien who at any time after admission has been convicted of a violation of\(or a conspiracy or attempt to violate) any law or regulation of a State, the United States, or a foreign country relating to a controlled substance (as defined in section 802 of title 21), other than a single offense involving possession for one's own use of 30 grams or less of marijuana, is deportable.
+&emsp;&emsp;&emsp;Any alien who at any time after admission has been convicted of a violation of (or a conspiracy or attempt to violate) any law or regulation of a State, the United States, or a foreign country relating to a controlled substance (as defined in section 802 of title 21), other than a single offense involving possession for one's own use of 30 grams or less of marijuana, is deportable.
 
 #### (ii) Drug abusers and addicts
 
@@ -172,7 +172,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (ii) Waiver authorized
 
-&emsp;&emsp;&emsp;The Attorney General may waive clause (i) in the case of an alien lawfully admitted for permanent residence if no previous civil money penalty was imposed against the alien under section 1324c of this title and the offense was incurred solely to assist, aid, or support the alien's spouse orchild (and no other individual). No court shall have jurisdiction to review a decision of the Attorney General to grant or deny a waiver under this clause.
+&emsp;&emsp;&emsp;The Attorney General may waive clause (i) in the case of an alien lawfully admitted for permanent residence if no previous civil money penalty was imposed against the alien under section 1324c of this title and the offense was incurred solely to assist, aid, or support the alien's spouse or child (and no other individual). No court shall have jurisdiction to review a decision of the Attorney General to grant or deny a waiver under this clause.
 
 #### (D) Falsely claiming citizenship
 
@@ -254,7 +254,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) that did not result in serious bodily injury; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) where there was a connection between the crime and the alien's havingbeen battered or subjected to extreme cruelty.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) where there was a connection between the crime and the alien's having been battered or subjected to extreme cruelty.
 
 #### (B) Credible evidence considered
 
@@ -282,7 +282,7 @@ Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) (other t
 
 (4) Nothing in this subsection may be construed to limit the authority of the Secretary of Homeland Security or the Attorney General to grant a stay of removal or deportation in any case not described in this subsection.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §237, formerly ch. 5, §241, 66 Stat. 204; July 18, 1956, ch. 629, title III, §301(b), (c), 70 Stat. 575; Pub. L. 86–648, §9, July 14, 1960, 74 Stat. 505; Pub. L. 87–301, §16, Sept. 26, 1961, 75 Stat. 655; Pub. L. 89–236, §11(e), Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §7(e), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–549, title I, §103, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 97–116, §8, Dec. 29, 1981, 95 Stat. 1616; Pub. L. 99–570, title I, §1751(b), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title III, §303(b), Nov. 6, 1986, 100 Stat. 3431; Pub. L. 99–639, §2(b), Nov. 10, 1986, 100 Stat. 3541; Pub. L. 99–653, §7(c), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§2(n)(2), 9(m), Oct. 24, 1988, 102 Stat. 2613, 2620; Pub. L. 100–690, title VII, §§7344(a), 7348(a), Nov. 18, 1988, 102 Stat. 4470, 4473; Pub. L. 101–649, title I, §153(b), title V, §§505(a), 508(a), 544(b), title VI, §602(a), (b), Nov. 29, 1990, 104 Stat. 5006, 5050, 5051, 5061, 5077, 5081; Pub. L. 102–232, title III, §§302(d)(3), 307(h), (k), Dec. 12, 1991, 105 Stat. 1745, 1755, 1756; Pub. L. 103–322, title XIII, §130003(d), Sept. 13, 1994, 108 Stat. 2026; Pub. L. 103–416, title II, §§203(b), 219(g), Oct. 25, 1994, 108 Stat. 4311, 4317; Pub. L. 104–132, title IV, §§414(a), 435(a), Apr. 24, 1996, 110 Stat. 1270, 1274; renumbered ch. 4, §237, and amended Pub. L. 104–208, div. C, title I, §108(c), title III, §§301(d), 305(a)(2), 308(d)(2), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5), 344(b), 345(b), 347(b), 350(a), 351(b), title VI, §671(a)(4)(B), (d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–558, 3009–579, 3009–598, 3009–617, 3009–619 to 3009–622, 3009–637 to 3009–640, 3009–721, 3009–723; Pub. L. 106–386, div. B, title V, §1505(b)(1), (c)(2), Oct. 28, 2000, 114 Stat. 1525, 1526; Pub. L. 106–395, title II, §201(c)(1), (2), Oct. 30, 2000, 114 Stat. 1634, 1635; Pub. L. 107–56, title IV, §411(b)(1), Oct. 26, 2001, 115 Stat. 348; Pub. L. 108–458, title V, §§5304(b), 5402, 5501(b), 5502(b), Dec. 17, 2004, 118 Stat. 3736, 3737, 3740, 3741; Pub. L. 109–13, div. B, title I, §105(a)(1), (b), May 11, 2005, 119 Stat. 309, 310; Pub. L. 109–248, title IV, §401, July 27, 2006, 120 Stat. 622; Pub. L. 109–271, §6(c), Aug. 12, 2006, 120 Stat. 763; Pub. L. 110–340, §2(c), Oct. 3, 2008, 122 Stat. 3736; Pub. L. 110–457, title II, §§204, 222(f)(2), Dec. 23, 2008, 122 Stat. 5060, 5071.)
+(June 27, 1952, ch. 477, title II, ch. 4, §237, formerly ch. 5, §241, 66 Stat. 204; July 18, 1956, ch. 629, title III, §301(b), (c), 70 Stat. 575; Pub. L. 86–648, §9, July 14, 1960, 74 Stat. 505; Pub. L. 87–301, §16, Sept. 26, 1961, 75 Stat. 655; Pub. L. 89–236, §11(e), Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §7(e), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–549, title I, §103, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 97–116, §8, Dec. 29, 1981, 95 Stat. 1616; Pub. L. 99–570, title I, §1751(b), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title III, §303(b), Nov. 6, 1986, 100 Stat. 3431; Pub. L. 99–639, §2(b), Nov. 10, 1986, 100 Stat. 3541; Pub. L. 99–653, §7(c), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§2(n)(2), 9(m), Oct. 24, 1988, 102 Stat. 2613, 2620; Pub. L. 100–690, title VII, §§7344(a), 7348(a), Nov. 18, 1988, 102 Stat. 4470, 4473; Pub. L. 101–649, title I, §153(b), title V, §§505(a), 508(a), 544(b), title VI, §602(a), (b), Nov. 29, 1990, 104 Stat. 5006, 5050, 5051, 5061, 5077, 5081; Pub. L. 102–232, title III, §§302(d)(3), 307(h), (k), Dec. 12, 1991, 105 Stat. 1745, 1755, 1756; Pub. L. 103–322, title XIII, §130003(d), Sept. 13, 1994, 108 Stat. 2026; Pub. L. 103–416, title II, §§203(b), 219(g), Oct. 25, 1994, 108 Stat. 4311, 4317; Pub. L. 104–132, title IV, §§414(a), 435(a), Apr. 24, 1996, 110 Stat. 1270, 1274; renumbered ch. 4, §237, and amended Pub. L. 104–208, div. C, title I, §108(c), title III, §§301(d), 305(a)(2), 308(d)(2), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5), 344(b), 345(b), 347(b), 350(a), 351(b), title VI, §671(a)(4)(B), (d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–558, 3009–579, 3009–598, 3009–617, 3009–619 to 3009–622, 3009–637 to 3009–640, 3009–721, 3009–723; Pub. L. 106–386, div. B, title V, §1505(b)(1), (c)(2), Oct. 28,2000, 114 Stat. 1525, 1526; Pub. L. 106–395, title II, §201(c)(1), (2), Oct. 30, 2000, 114 Stat. 1634, 1635; Pub. L. 107–56, title IV, §411(b)(1), Oct. 26, 2001, 115 Stat. 348; Pub. L. 108–458, title V, §§5304(b), 5402, 5501(b), 5502(b), Dec. 17, 2004, 118 Stat. 3736, 3737, 3740, 3741; Pub. L. 109–13, div. B, title I, §105(a)(1), (b), May 11, 2005, 119 Stat. 309, 310; Pub. L. 109–248, title IV, §401, July 27, 2006, 120 Stat. 622; Pub. L. 109–271, §6(c), Aug. 12, 2006, 120 Stat. 763; Pub. L. 110–340, §2(c), Oct. 3, 2008, 122 Stat. 3736; Pub. L. 110–457, title II, §§204, 222(f)(2), Dec. 23, 2008, 122 Stat. 5060, 5071.)
 
 #### <b>Editorial Notes</b>
 
@@ -352,7 +352,7 @@ Subsec. (a)(1)(A). Pub. L. 104–208, §§301(d)(3), 308(d)(3)(A), amended subpa
 
 Pub. L. 104–208, §301(d)(2), substituted "Inadmissible" for "Excludable" in subpar. heading.
 
-Subsec. (a)(1)(B). Pub. L. 104–208, §301(d)(4), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: "Any alien who entered the United States without inspection or at any time or place other than as designated by the Attorney General or is in the United States in violation of this chapter or any other law of the United States is deportable."
+Subsec. (a)(1)(B). Pub. L. 104–208, §301(d)(4), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: "Any alien who entered the United States without inspection or at anytime or place other than as designated by the Attorney General or is in the United States in violation of this chapter or any other law of the United States is deportable."
 
 Subsec. (a)(1)(E)(iii). Pub. L. 104–208, §351(b), inserted "an individual who at the time of the offense was" after "aided only".
 
@@ -474,7 +474,7 @@ Subsec. (a)(20). Pub. L. 100–525, §2(n)(2), substituted "an alien lawfully ad
 
 Subsec. (a)(10). Pub. L. 99–653 repealed par. (10). Prior to repeal, par. (10) read as follows: "entered the United States from foreign contiguous territory or adjacent islands, having arrived there on a vessel or aircraft of a nonsignatory transportation company under section 1228(a) of this title and was without the required period of stay in such foreign contiguous territory or adjacent islands following such arrival (other than an alien described in section 1101(a)(27)(A) of this title and aliens born in the Western Hemisphere);".
 
-Subsec. (a)(11). Pub. L. 99–570 substituted "any law or regulation of a State, the United States, or a foreign country relating to a controlled substance (as defined in section 802 of title 21)" for "any law or regulation relating to the illicit possession of or traffic in narcotic drugs or marihuana, or who has been convicted of a violation of, or a conspiracy to violate, any law or regulation governing or controlling the taxing, manufacture,production, compounding, transportation, sale, exchange, dispensing, giving away, importation, exportation, or the possession for the purpose of the manufacture, production, compounding, transportation, sale, exchange, dispensing, giving away, importation, or exportation of opium, coca leaves, heroin, marihuana, any salt derivative or preparation of opium or coca leaves or isonipecaine or any addiction-forming or addiction-sustaining opiate".
+Subsec. (a)(11). Pub. L. 99–570 substituted "any law or regulation of a State, the United States, or a foreign country relating to a controlled substance (as defined in section 802 of title 21)" for "any law or regulation relating to the illicit possession of or traffic in narcotic drugs or marihuana, or who has been convicted of a violation of, or a conspiracy to violate, any law or regulation governing or controlling the taxing, manufacture, production, compounding, transportation, sale, exchange, dispensing, giving away, importation, exportation, or the possession for the purpose of the manufacture, production, compounding, transportation, sale, exchange, dispensing, giving away, importation, or exportation of opium, coca leaves, heroin, marihuana, any salt derivative or preparation of opium or coca leaves or isonipecaine or any addiction-forming or addiction-sustaining opiate".
 
 Subsec. (a)(20). Pub. L. 99–603 added par. (20).
 

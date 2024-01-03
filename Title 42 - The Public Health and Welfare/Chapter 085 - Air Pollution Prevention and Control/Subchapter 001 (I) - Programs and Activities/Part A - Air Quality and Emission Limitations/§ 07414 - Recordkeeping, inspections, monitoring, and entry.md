@@ -30,7 +30,7 @@ For the purpose (i) of developing or assisting in the development of any impleme
 
 #### (b) State enforcement
 
-(1) Each State may develop and submit to the Administrator a procedure for carrying out this section in such State. If the Administrator finds the State procedure is adequate, he may delegate to such State any authority he has to carry out this section.
+(1) Each State may develop and submit to the Administrator a procedure for carrying out thissection in such State. If the Administrator finds the State procedure is adequate, he may delegate to such State any authority he has to carry out this section.
 
 (2) Nothing in this subsection shall prohibit the Administrator from carrying out this section in a State.
 

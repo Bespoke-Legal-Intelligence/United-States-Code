@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(iii) Any other appropriate action to resolve the performance problem; and
 
-&emsp;(2) except as provided under section 1204 of the Internal Revenue Service Restructuringand Reform Act of 1998, strengthens the system's effectiveness by—
+&emsp;(2) except as provided under section 1204 of the Internal Revenue Service Restructuring and Reform Act of 1998, strengthens the system's effectiveness by—
 
 &emsp;&emsp;(A) establishing goals or objectives for individual, group, or organizational performance (or any combination thereof), consistent with the Internal Revenue Service's performance planning procedures, including those established under the Government Performance and Results Act of 1993, subtitle III of title 40, Revenue Procedure 64–22 (as in effect on July 30, 1997), and taxpayer service surveys, and communicating such goals or objectives to employees;
 

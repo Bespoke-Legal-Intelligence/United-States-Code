@@ -12,7 +12,7 @@ All orders, determinations, rules, regulations, permits, contracts, certificates
 
 #### (b) Pending proceedings; orders, appeals, payments
 
-This chapter shall not affect any proceeding pending, at the time this chapter takes effect,before any department or agency (or component thereof) regarding functions which are transferred by this chapter; but such proceedings, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals (except as provided in section 766(i)(2) of this title) shall be taken therefrom, and payments shall be made pursuant to such orders, as if this chapter had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions, and to the same extent, that such proceeding could have been discontinued if this chapter had not been enacted.
+This chapter shall not affect any proceeding pending, at the time this chapter takes effect, before any department or agency (or component thereof) regarding functions which are transferred by this chapter; but such proceedings, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals (except as provided in section 766(i)(2) of this title) shall be taken therefrom, and payments shall be made pursuant to such orders, as if this chapter had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions, and to the same extent, that such proceeding could have been discontinued if this chapter had not been enacted.
 
 #### (c) Commencement of suits before effective date
 
@@ -20,7 +20,7 @@ Except as provided in subsection (e)—
 
 &emsp;(1) the provisions of this chapter shall not affect suits commenced prior to the date this chapter takes effect, and
 
-&emsp;(2) in all such suits proceedings shall be had, appeals taken, and judgments rendered, in the same manner and effect as if this chapter had not been enacted.
+&emsp;(2) in all such suits proceedings shall be had, appeals taken, and judgments rendered, in thesame manner and effect as if this chapter had not been enacted.
 
 #### (d) Litigation; abatement prohibition; Federal parties
 

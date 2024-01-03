@@ -26,7 +26,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 #### (1) Rule
 
-&emsp;If an individual at a hospital has an emergency medical condition which has not been stabilized (within the meaning of subsection (e)(3)(B)), the hospital may not transfer the individual unless—
+&emsp;If an individual at a hospital has an emergency medical condition which has not beenstabilized (within the meaning of subsection (e)(3)(B)), the hospital may not transfer the individual unless—
 
 &emsp;&emsp;(A)(i) the individual (or a legally responsible person acting on the individual's behalf) after being informed of the hospital's obligations under this section and of the risk of transfer, in writing requests transfer to another medical facility,
 
@@ -264,7 +264,7 @@ Subsec. (d)(2). Pub. L. 100–360, §411(b)(8)(A)(i), as amended by Pub. L. 100�
 
 <b>1987</b>—Subsec. (d)(1). Pub. L. 100–203, §4009(a)(2), which directed insertion of a provision related to imposing the sanction described in section 1395u(j)(2)(A) of this title, was amended generally by Pub. L. 100–360, §411(b)(8)(A)(i), so that it does not amend par. (1).
 
-Subsec. (d)(2). Pub. L. 100–203, §4009(a)(1), as amended by Pub. L. 100–360, §411(b)(8)(A)(i), as amended by Pub. L. 100–485, §608(d)(18)(E), substituted subpars. (A) and (B) for "In addition to the other grounds for imposition of a civil money penalty under section 1320a–7a(a) of this title, a participating hospital that knowingly violates a requirement of this section and the responsible physician in the hospital with respect to such a violation are each subject, under that section, to a civil money penalty of not more than $25,000 for each such violation.", designated second sentence as subpar. (C), substituted "this paragraph" for "the previous sentence", and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (C).
+Subsec. (d)(2). Pub. L. 100–203, §4009(a)(1), as amended by Pub. L. 100–360, §411(b)(8)(A)(i), as amended by Pub. L. 100–485, §608(d)(18)(E), substituted subpars. (A) and (B) for "In addition to the other grounds for impositionof a civil money penalty under section 1320a–7a(a) of this title, a participating hospital that knowingly violates a requirement of this section and the responsible physician in the hospital with respect to such a violation are each subject, under that section, to a civil money penalty of not more than $25,000 for each such violation.", designated second sentence as subpar. (C), substituted "this paragraph" for "the previous sentence", and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (C).
 
 <b>1986</b>—Subsec. (b)(2), (3). Pub. L. 99–509 struck out "legally responsible" after "individual (or a".
 
@@ -302,7 +302,7 @@ Pub. L. 101–239, title VI, §6211(i), Dec. 19, 1989, 103 Stat. 2249, provided 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) ofPub. L. 100–485, set out as a note under section 704 of this title.
+Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
@@ -428,7 +428,7 @@ Determination of allotments.—The amount of the allotment for each State descri
 
 &emsp;&emsp;&emsp;"(i) the total amount available for allotments under this paragraph for the fiscal year; and
 
-&emsp;&emsp;&emsp;"(ii) the percentage of undocumented alien apprehensions in the State in that fiscal year ascompared to the total of such apprehensions for all such States for the preceding fiscal year.
+&emsp;&emsp;&emsp;"(ii) the percentage of undocumented alien apprehensions in the State in that fiscal year as compared to the total of such apprehensions for all such States for the preceding fiscal year.
 
 &emsp;&emsp;"(C)
 
@@ -558,7 +558,7 @@ Sec. 2. <i>Policy</i>. It is the policy of the United States to recognize the hu
 
 Sec. 3. (a) The Secretary of Health and Human Services (Secretary) shall ensure that individuals responsible for all programs and activities under his jurisdiction that receive Federal funding are aware of their obligations toward infants, including premature infants or infants with disabilities, who have an emergency medical condition in need of stabilizing treatment, under EMTALA and section 504 of the Rehab Act, as interpreted consistent with the Born-Alive Infants Protection Act. In particular, the Secretary shall ensure that individuals responsible for such programs and activities are aware that they are not excused from complying with these obligations, including the obligation to provide an appropriate medical screening examination and stabilizing treatment or transfer, when extremely premature infants are born alive or infants are born with disabilities. The Secretary shall also ensure that individuals responsible for such programs and activities are aware that they may not unlawfully discourage parents from seeking medical treatment for their infant child solely because of their infant child's disability. The Secretary shall further ensure that individuals responsible for such programs and activities are aware of their obligations to provide stabilizing treatment that will allow the infant patients to be transferred to a more suitable facility if appropriate treatment is not possible at the initial location.
 
-(b) The Secretary shall, as appropriate and consistent with applicable law, ensure that Federal funding disbursed by the Department of Health and Human Services is expended in full compliance with EMTALA and section 504 of the Rehab Act, as interpreted consistent with the Born-Alive Infants Protection Act, as reflected in the policy set forth in section 2 of this order.
+(b) The Secretary shall, as appropriate and consistent with applicable law, ensure that Federal funding disbursed by the Department of Health and Human Services is expended in full compliance with EMTALA and section 504 of the Rehab Act, as interpreted consistentwith the Born-Alive Infants Protection Act, as reflected in the policy set forth in section 2 of this order.
 
 (i) The Secretary shall, as appropriate and to the fullest extent permitted by law, investigate complaints of violations of applicable Federal laws with respect to infants born alive, including infants who have an emergency medical condition in need of stabilizing treatment or infants with disabilities whose parents seek medical treatment for their infants. The Secretary shall also clarify, in an easily understandable format, the process by which parents and hospital staff may submit such complaints for investigation under applicable Federal laws.
 

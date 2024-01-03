@@ -64,7 +64,7 @@ Subsec. (b). Pub. L. 96–54, §2(a)(15), substituted "Office" for "Commission".
 
 <b>1975</b>—Subsec. (a)(2)(B). Pub. L. 94–183 struck out "(except a Postmaster)" after "an individual appointed by the President".
 
-<b>1967</b>—Subsec. (a)(1)(C). Pub. L. 90–83 substituted "Environmental Science Services Administration" for"Coast and Geodetic Survey." See Historical and Revision Notes under section 2101 of this title.
+<b>1967</b>—Subsec. (a)(1)(C). Pub. L. 90–83 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey." See Historical and Revision Notes under section 2101 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

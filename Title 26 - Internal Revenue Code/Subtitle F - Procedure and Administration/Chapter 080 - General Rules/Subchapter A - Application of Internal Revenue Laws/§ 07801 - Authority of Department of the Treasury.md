@@ -32,7 +32,7 @@ Nothing in this section or section 301(f) of title 31 shall be considered to aff
 
 #### References in Text
 
-The Homeland Security Act of 2002, referred to in subsec. (a)(2)(B), is Pub. L. 107–296, Nov. 25, 2002, 116Stat. 2135, which is classified principally to chapter 1 (§101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables. The effective date of the Act is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6.
+The Homeland Security Act of 2002, referred to in subsec. (a)(2)(B), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables. The effective date of the Act is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6.
 
 #### Amendments
 
@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 97–258, §2(f)(1), inserted "or section 301(f) of title 3
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1964 Amendment
 
@@ -270,7 +270,7 @@ Pub. L. 116–25, title I, §1302, July 1, 2019, 133 Stat. 993, provided that:
 
 In General.—Not later than September 30, 2020, the Secretary of the Treasury (or the Secretary's delegate) shall submit to Congress a comprehensive written plan to redesign the organization of the Internal Revenue Service. Such plan shall—
 
-&emsp;"(1) ensure the successful implementation of the priorities specified by Congress in this Act \[see ShortTitle of 2019 Amendment note set out under section 1 of this title\];
+&emsp;"(1) ensure the successful implementation of the priorities specified by Congress in this Act \[see Short Title of 2019 Amendment note set out under section 1 of this title\];
 
 &emsp;"(2) prioritize taxpayer services to ensure that all taxpayers easily and readily receive the assistance that they need;
 
@@ -296,7 +296,7 @@ In General.—The Commissioner of Internal Revenue shall develop and implement a
 
 &emsp;"(3) establish organizational units serving particular groups of taxpayers with similar needs; and
 
-&emsp;"(4) ensure an independent appeals function within the Internal Revenue Service, including the prohibition in the plan of ex parte communications between appeals officers and other Internal Revenue Service employees to the extent that such communications appear to compromise the independence of the appeals officers.
+&emsp;"(4) ensure an independent appeals function within the Internal Revenue Service, including the prohibition in the plan of ex parte communications between appeals officers and other Internal Revenue Service employees to the extent that such communicationsappear to compromise the independence of the appeals officers.
 
 "(b)
 
@@ -580,7 +580,7 @@ In general.—(A) The Commission or, on the authorization of the Commission, any
 
 &emsp;&emsp;"(i) hold such hearings and sit and act at such times and places, take such testimony, receive such evidence, administer such oaths, and
 
-&emsp;&emsp;"(ii) require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence,memoranda, papers, and documents, as the Commission or such designated subcommittee or designated member may deem advisable.
+&emsp;&emsp;"(ii) require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents, as the Commission or such designated subcommittee or designated member may deem advisable.
 
 &emsp;"(B) Subpoenas issued under subparagraph (A)(ii) may be issued under the signature of the Co-Chairs of the Commission, the chairman of any designated subcommittee, or any designated member, and may be served by any person designated by such Co-Chairs, subcommittee chairman, or member. The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section.
 
@@ -776,7 +776,7 @@ Sec. 3. <i>Functions</i>. (a) The Board shall directly support the Secretary's o
 
 (c) The Board shall prepare semiannual reports to the President and to the Congress, which shall be transmitted by the Secretary of the Treasury.
 
-Sec. 4. <i>Administration</i>. To the extent permitted by law and subject to the availability of appropriations, the Secretary shall provide the Board administrative services, facilities, staff, and such other financial support services as may be necessary for the performance of its functions under this order.
+Sec. 4. <i>Administration</i>. To the extent permitted by law and subject to the availability of appropriations, the Secretary shall provide the Board administrative services, facilities, staff, and such other financial supportservices as may be necessary for the performance of its functions under this order.
 
 Sec. 5. <i>Judicial Review</i>. This order is intended only to improve the internal management of the Internal Revenue Service and is not intended, and shall not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
 

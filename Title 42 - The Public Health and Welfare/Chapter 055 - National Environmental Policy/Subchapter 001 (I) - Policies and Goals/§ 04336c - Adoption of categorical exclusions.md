@@ -1,0 +1,14 @@
+### §4336c. Adoption of categorical exclusions
+
+An agency may adopt a categorical exclusion listed in another agency's NEPA procedures for a category of proposed agency actions for which the categorical exclusion was established consistent with this paragraph. The agency shall—
+
+&emsp;(1) identify the categorical exclusion listed in another agency's NEPA procedures that covers a category of proposed actions or related actions;
+
+&emsp;(2) consult with the agency that established the categorical exclusion to ensure that theproposed adoption of the categorical exclusion to a category of actions is appropriate;
+
+&emsp;(3) identify to the public the categorical exclusion that the agency plans to use for its proposed actions; and
+
+&emsp;(4) document adoption of the categorical exclusion.
+
+(Pub. L. 91–190, title I, §109, as added Pub. L. 118–5, div. C, title III, §321(b), June 3, 2023, 137 Stat. 43.)
+

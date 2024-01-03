@@ -52,7 +52,7 @@ Justification.—It is a justification of an asserted use or release restriction
 
 #### Codification
 
-The text of subsec. (d) of section 2321 of this title, which was transferred to this section and amended byPub. L. 116–283, §1833(i), was based on Pub. L. 100–26, §7(a)(5)(A)(ii), Apr. 21, 1987, 101 Stat. 276; Pub. L. 100–180, div. A, title XII, §1231(6)(A), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 103–35, title II, §201(g)(4), May 31, 1993, 107 Stat. 100; Pub. L. 111–383, div. A, title VIII, §824(c), Jan. 7, 2011, 124 Stat. 4269; Pub. L. 112–81, div. A, title VIII, §815(b), Dec. 31, 2011, 125 Stat. 1492.
+The text of subsec. (d) of section 2321 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1833(i), was based on Pub. L. 100–26, §7(a)(5)(A)(ii), Apr. 21, 1987, 101 Stat. 276; Pub. L. 100–180, div. A, title XII, §1231(6)(A), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 103–35, title II, §201(g)(4), May 31, 1993, 107 Stat. 100; Pub. L. 111–383, div. A, title VIII, §824(c), Jan. 7, 2011, 124 Stat. 4269; Pub. L. 112–81, div. A, title VIII, §815(b), Dec. 31, 2011, 125 Stat. 1492.
 
 #### Prior Provisions
 

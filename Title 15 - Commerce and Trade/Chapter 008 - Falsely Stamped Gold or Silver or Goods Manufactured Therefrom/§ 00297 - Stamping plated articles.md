@@ -46,7 +46,7 @@ Pub. L. 87–354, §2, Oct. 4, 1961, 75 Stat. 776, provided that: "The amendment
 
 #### Separability
 
-Pub. L. 91–366, §2, July 31, 1970, 84 Stat. 691, provided that: "If any provision of this Act \[see Effective Dateof 1970 Amendment note above\] or any amendment made thereby, or the application thereof to any person, as that term is herein defined, is held invalid, the remainder of the Act or amendment and the application of the remaining provisions of the Act or amendment to any person shall not be affected thereby."
+Pub. L. 91–366, §2, July 31, 1970, 84 Stat. 691, provided that: "If any provision of this Act \[see Effective Date of 1970 Amendment note above\] or any amendment made thereby, or the application thereof to any person, as that term is herein defined, is held invalid, the remainder of the Act or amendment and the application of the remaining provisions of the Act or amendment to any person shall not be affected thereby."
 
 #### Construction of 1970 Amendment
 

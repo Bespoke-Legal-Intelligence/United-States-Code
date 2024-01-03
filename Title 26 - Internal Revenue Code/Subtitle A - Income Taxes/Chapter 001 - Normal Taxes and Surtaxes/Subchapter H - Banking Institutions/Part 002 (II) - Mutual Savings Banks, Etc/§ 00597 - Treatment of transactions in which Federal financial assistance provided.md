@@ -74,7 +74,7 @@ Subsec. (d). Pub. L. 100–647, §4012(b)(2)(B), which directed amendment of sec
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7841(e)(2), Dec. 19, 1989, 103 Stat. 2429, provided that: "The amendment made bythis subsection \[amending this section\] shall apply as if included in the amendments made by section 1401 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Pub. L. 101–73\]."
+Pub. L. 101–239, title VII, §7841(e)(2), Dec. 19, 1989, 103 Stat. 2429, provided that: "The amendment made by this subsection \[amending this section\] shall apply as if included in the amendments made by section 1401 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Pub. L. 101–73\]."
 
 Pub. L. 101–73, title XIV, §1401(c)(3)–(5), Aug. 9, 1989, 103 Stat. 550, provided that:
 
@@ -132,7 +132,7 @@ Federal Savings and Loan Insurance Corporation abolished and its functions trans
 
 #### Repeal of Provisions Relating to Repeal of Special Reorganization Rules for Financial Institutions
 
-Pub. L. 101–73, title XIV, §1401(b)(1), Aug. 9, 1989, 103 Stat. 549, provided that: "Section 904 of the Tax Reform Act of 1986 \[Pub. L. 99–514, amending section 368 of this title, repealing this section and enacting provisions set out as notes under sections 368 and 597 of this title\] (other than subsection (c)(2)(B) thereof \[section 904(c)(2)(B) of Pub. L. 99–514, formerly set out as a note above\]) is hereby repealed and the Internal Revenue Code of 1986 shall be applied as if the amendments made by such section had not been enacted."
+Pub. L. 101–73, title XIV, §1401(b)(1), Aug. 9, 1989, 103 Stat. 549, provided that: "Section 904 of the Tax ReformAct of 1986 \[Pub. L. 99–514, amending section 368 of this title, repealing this section and enacting provisions set out as notes under sections 368 and 597 of this title\] (other than subsection (c)(2)(B) thereof \[section 904(c)(2)(B) of Pub. L. 99–514, formerly set out as a note above\]) is hereby repealed and the Internal Revenue Code of 1986 shall be applied as if the amendments made by such section had not been enacted."
 
 #### References to Federal Savings and Loan Insurance Corporation
 

@@ -38,7 +38,7 @@ The period of ineligibility referred to in subsections (a) and (b) shall be susp
 
 &emsp;(B) has otherwise been rehabilitated; or
 
-&emsp;(C) has made a good faith effort to gain admission to a supervised drug rehabilitationprogram, but is unable to do so because of inaccessibility or unavailability of such a program, or the inability of the individual to pay for such a program.
+&emsp;(C) has made a good faith effort to gain admission to a supervised drug rehabilitation program, but is unable to do so because of inaccessibility or unavailability of such a program, or the inability of the individual to pay for such a program.
 
 #### (d) Definitions
 
@@ -58,7 +58,7 @@ The penalties provided by this section shall not apply to any individual who coo
 
 #### (f) Indian provision
 
-Nothing in this section shall be construed to affect the obligation of the United States to any Indian or Indian tribe arising out of any treaty, statute, Executive order, or the trust responsibility of the United States owing to such Indian or Indian tribe. Nothing in this subsection shall exempt any individual Indian from the sanctions provided for in this section, provided that no individual Indian shall be denied any benefit under Federal Indian programs comparable to those described in subsection (d)(1)(B) or (d)(2).
+Nothing in this section shall be construed to affect the obligation of the United States to any Indian or Indian tribe arising out of any treaty,statute, Executive order, or the trust responsibility of the United States owing to such Indian or Indian tribe. Nothing in this subsection shall exempt any individual Indian from the sanctions provided for in this section, provided that no individual Indian shall be denied any benefit under Federal Indian programs comparable to those described in subsection (d)(1)(B) or (d)(2).
 
 #### (g) Presidential report
 

@@ -76,7 +76,7 @@ The Secretary of Health and Human Services, or the Secretary's designee, shall�
 
 #### (B) Non-Federal members
 
-&emsp;&emsp;In addition to the members outlined in subparagraph (A), the Advisory Council shall include 12 expert members from outside the Federal Government, which shall include—
+&emsp;&emsp;In addition to the members outlined in subparagraph (A), the Advisory Council shallinclude 12 expert members from outside the Federal Government, which shall include—
 
 &emsp;&emsp;&emsp;(i) 2 Alzheimer's patient advocates;
 

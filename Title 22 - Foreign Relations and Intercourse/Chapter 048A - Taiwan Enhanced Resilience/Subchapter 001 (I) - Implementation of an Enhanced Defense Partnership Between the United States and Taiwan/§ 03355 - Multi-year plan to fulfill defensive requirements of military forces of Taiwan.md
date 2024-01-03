@@ -54,7 +54,7 @@ The plan required by subsection (a) shall include the following:
 
 &emsp;&emsp;(E) any other combined training, exercises, or planning with Taiwan's military forces that the Secretary of Defense and Secretary of State consider relevant.
 
-&emsp;(9) An identification of options for the United States to use, to the maximum extent practicable, existing authorities or programs to expedite military assistance to Taiwan in the event of a crisis or conflict, including—
+&emsp;(9) An identification of options for the United States to use, to the maximum extentpracticable, existing authorities or programs to expedite military assistance to Taiwan in the event of a crisis or conflict, including—
 
 &emsp;&emsp;(A) a list of defense articles of the United States that may be transferred to Taiwan during a crisis or conflict;
 

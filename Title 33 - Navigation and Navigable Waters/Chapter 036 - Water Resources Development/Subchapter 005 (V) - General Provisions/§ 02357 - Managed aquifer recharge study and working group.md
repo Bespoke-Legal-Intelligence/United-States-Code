@@ -64,7 +64,7 @@
 
 &emsp;The working group established under this subsection shall—
 
-&emsp;&emsp;(A) advise the Secretary regarding the development and execution of the assessmentunder subsection (a) and any feasibility studies under subsection (b);
+&emsp;&emsp;(A) advise the Secretary regarding the development and execution of the assessment under subsection (a) and any feasibility studies under subsection (b);
 
 &emsp;&emsp;(B) assist Corps of Engineers offices at the headquarter, division, and district levels with raising awareness of non-Federal interests of the potential benefits of carrying out managed aquifer recharge projects; and
 

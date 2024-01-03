@@ -108,7 +108,7 @@ Each lender that has a preferred lender arrangement with a covered institution, 
 
 &emsp;&emsp;&emsp;(ii) if such institution-affiliated organization has a website, publish such code of conduct prominently on the website; and
 
-&emsp;&emsp;&emsp;(iii) administer and enforce such code of conduct by, at a minimum, requiring that all of such organization's agents with responsibilities with respect to educationloans be annually informed of the provisions of such code of conduct.
+&emsp;&emsp;&emsp;(iii) administer and enforce such code of conduct by, at a minimum, requiring that all of such organization's agents with responsibilities with respect to education loans be annually informed of the provisions of such code of conduct.
 
 (Pub. L. 89–329, title I, §153, as added Pub. L. 110–315, title I, §120, Aug. 14, 2008, 122 Stat. 3122; amended Pub. L. 111–39, title I, §101(b)(6), July 1, 2009, 123 Stat. 1935.)
 

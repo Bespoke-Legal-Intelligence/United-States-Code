@@ -66,7 +66,7 @@ Research plan.—Not later than 6 months after the date of enactment of the FAA 
 
 &emsp;(3)
 
-Review.—The Administrator shall enter into an arrangement with the National Research Council to conduct an independent review of the plan developed under paragraph (2)and shall provide the results of that review to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 18 months after the date of enactment of the FAA Modernization and Reform Act of 2012.
+Review.—The Administrator shall enter into an arrangement with the National Research Council to conduct an independent review of the plan developed under paragraph (2) and shall provide the results of that review to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 18 months after the date of enactment of the FAA Modernization and Reform Act of 2012.
 
 (e)
 
@@ -290,7 +290,7 @@ Eligible project.—The term 'eligible project' means a project relating to the 
 
 &emsp;&emsp;"(B) automation tools to effect improvements in airport capacity, including passive final approach spacing tools and traffic management advisory equipment; and
 
-&emsp;&emsp;"(C) facilities and equipment that enhance airspace control procedures, including consolidation of terminal radar control facilities and equipment, orassist in en route surveillance, including oceanic and offshore flight tracking.
+&emsp;&emsp;"(C) facilities and equipment that enhance airspace control procedures, including consolidation of terminal radar control facilities and equipment, or assist in en route surveillance, including oceanic and offshore flight tracking.
 
 &emsp;"(2)
 

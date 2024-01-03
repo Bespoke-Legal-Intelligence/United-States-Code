@@ -82,7 +82,7 @@ Procedure To Be Published.—Not later than 30 days after the date of the enactm
 
 Statutory Construction.—Nothing in this section may be construed as interfering with, nullifying, or otherwise affecting determinations made by the Federal Aviation Administration, or to be made by the Administration with respect to applications under part 161 of title 14, Code of Federal Regulations, that were pending on November 1, 1999.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1291; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §231(a), (b)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–300, 1501A–301; Pub. L. 106–181, title VII, §721(a)–(c)(1), (d), Apr. 5, 2000, 114 Stat. 164, 165.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1291; Pub. L. 106–113, div. B, §1000(a)(5) \[title II,§231(a), (b)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–300, 1501A–301; Pub. L. 106–181, title VII, §721(a)–(c)(1), (d), Apr. 5, 2000, 114 Stat. 164, 165.)
 
 Historical and Revision Notes
 

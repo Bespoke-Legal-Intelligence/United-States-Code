@@ -38,7 +38,7 @@ Pub. L. 113–121, §1(a), June 10, 2014, 128 Stat. 1193, provided that: "This A
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 110–114, §1(a), Nov. 8, 2007, 121 Stat. 1041, provided that: "This Act \[see Tables for classification\] may be cited as the 'Water Resources Development Act of 2007'."
+Pub. L. 110–114, §1(a), Nov. 8, 2007, 121 Stat. 1041, provided that: "This Act \[see Tables for classification\]may be cited as the 'Water Resources Development Act of 2007'."
 
 #### Short Title of 2000 Amendment
 
@@ -68,7 +68,7 @@ Pub. L. 100–676, §1(a), Nov. 17, 1988, 102 Stat. 4012, provided that: "This A
 
 Pub. L. 99–662, §1(a), Nov. 17, 1986, 100 Stat. 4082, provided that: "This Act \[enacting this chapter and sections 59n–1, 59v, 59w, 403b, 426n, 426o, 467f to 467n, 555a, 579a, 652, 701b–12, 709b, 988a, and 1414a of this title, sections 460tt of Title 16, Conservation, sections 4461, 4462, 9505, and 9506 of Title 26, Internal Revenue Code, section 483d of former Title 40, Public Buildings, Property, and Works, and sections 1962d–11b and 1962d–20 of Title 42, The Public Health and Welfare, amending sections 409, 414, 415, 426g, 426i, 426j, 426m, 467, 467b, 555, 557, 603a, 610, 701a–1, 701g, 701n, 701r, 701s, 984, and 1804 of this title, section 3036 of Title 10, Armed Forces, sections 460ee and 1002 of Title 16, section 4042 of Title 26, sections 1962d–5a, 1962d–5b, 1962d–5d, 1962d–5f, and 1962d–16 of Title 42, sections 390 and 390b of Title 43, Public Lands, and section 1121–1 of Title 46, Appendix, Shipping, repealing sections 1801 and 1802 of this title, enacting provisions set out as notes under this section, sections 426, 426g, 467, 661, 984, 988, 1414a, and 2294 of this title, sections 460d and 1004 of Title 16, sections 1, 4042, 4461, 9505, and 9506 of Title 26, sections 1962d–5b, 1962d–20, and 10301 of Title 42, and section 390b of Title 43, and amending provisions set out as a note under section 1962b–3 of Title 42\] may be cited as the 'Water Resources Development Act of 1986'."
 
-Pub. L. 99–662, title II, §215, Nov. 17, 1986, 100 Stat. 4109, provided that: "This title \[enacting subchapter IIof this chapter\] may be cited as the 'Harbor Development and Navigation Improvement Act of 1986'."
+Pub. L. 99–662, title II, §215, Nov. 17, 1986, 100 Stat. 4109, provided that: "This title \[enacting subchapter II of this chapter\] may be cited as the 'Harbor Development and Navigation Improvement Act of 1986'."
 
 #### Pilot Programs on the Formulation of Corps of Engineers Projects in Rural Communities and Economically Disadvantaged Communities
 
@@ -104,7 +104,7 @@ Selection criteria.—In selecting a feasibility study under paragraph (2)(C), t
 
 &emsp;&emsp;"(B) the percentage of families with income above the poverty threshold but below the average household income in the county or counties (or county-equivalent entity or entities) in which the project is located is greater than such percentage for the State, based on census bureau data;
 
-&emsp;&emsp;"(C) the percentage of the population that identifies as belonging to a minority or indigenous group in the county or counties (or county-equivalent entity or entities) in which the project is located is greater than the average such percentage in the State, based on census bureau data; and
+&emsp;&emsp;"(C) the percentage of the population that identifies as belonging to a minority or indigenous group in the county or counties (or county-equivalent entity or entities) in which the project is located isgreater than the average such percentage in the State, based on census bureau data; and
 
 &emsp;&emsp;"(D) the project is addressing flooding or hurricane or storm damage effects that have a disproportionate impact on a rural community, a minority community, or an Indian Tribe.
 
@@ -294,7 +294,7 @@ Regional sediment management.—Notwithstanding section 204(g) of the Water Reso
 
 &emsp;"(5)
 
-Small flood control projects.—Notwithstanding section 205 of the Flood Control Act of 1948\(33 U.S.C. 701s), there is authorized to be appropriated to carry out such section $69,250,000 for each of fiscal years 2021 through 2024.
+Small flood control projects.—Notwithstanding section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s), there is authorized to be appropriated to carry out such section $69,250,000 for each of fiscal years 2021 through 2024.
 
 &emsp;"(6)
 
@@ -536,7 +536,7 @@ In general.—In carrying out the pilot program, the Secretary shall—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) not more than 5 projects that have been authorized for construction, but did not receive the authorization prior to the date of enactment of this Act;
 
-&emsp;&emsp;&emsp;"(ii) notify the Committee on Environment and Public Works of the Senate and the Committee onTransportation and Infrastructure of the House of Representatives on the identification of each project under the pilot program;
+&emsp;&emsp;&emsp;"(ii) notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the identification of each project under the pilot program;
 
 &emsp;&emsp;&emsp;"(iii) in collaboration with the non-Federal interest, develop a detailed project management plan for each identified project that outlines the scope, budget, design, and construction resource requirements necessary for the non-Federal interest to execute the project, or a separable element of the project;
 
@@ -572,7 +572,7 @@ Report.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report detailing the results of the pilot program carried out under this subsection, including—
+In general.—Not later than 3 years after the date of enactment of this Act, the Secretary shallsubmit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report detailing the results of the pilot program carried out under this subsection, including—
 
 &emsp;&emsp;&emsp;"(i) a description of the progress of non-Federal interests in meeting milestones in detailed project schedules developed pursuant to paragraph (2)(B); and
 
@@ -752,7 +752,7 @@ Cost Share.—Nothing in this section affects a cost-sharing requirement under F
 
 "(n)
 
-Report.—Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report describing the resultsof the pilot program established under subsection (a), including any recommendations of the Secretary concerning whether the program or any component of the program should be implemented on a national basis.
+Report.—Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report describing the results of the pilot program established under subsection (a), including any recommendations of the Secretary concerning whether the program or any component of the program should be implemented on a national basis.
 
 "(o)
 
@@ -806,7 +806,7 @@ Pub. L. 106–53, title V, §511, Aug. 17, 1999, 113 Stat. 341, provided that:
 
 "(a)
 
-In General.—In evaluating potential improvements for water control management activities and consolidation of water control management centers, the Secretary may consider a regionalized water control management plan but may not implement such a plan until the date on which a report is submitted under subsection (b).
+In General.—In evaluating potential improvements for water control management activities andconsolidation of water control management centers, the Secretary may consider a regionalized water control management plan but may not implement such a plan until the date on which a report is submitted under subsection (b).
 
 "(b)
 

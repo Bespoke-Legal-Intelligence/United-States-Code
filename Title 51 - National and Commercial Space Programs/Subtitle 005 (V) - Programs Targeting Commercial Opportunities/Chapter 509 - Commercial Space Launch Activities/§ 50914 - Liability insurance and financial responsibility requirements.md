@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—(1) When a launch or reentry license is issued or transferred under this chapter, the licensee or transferee shall obtain liability insurance or demonstrate financial responsibility in amounts to compensate for the maximum probable loss from claims by—
+General Requirements.—(1) When a launch or reentry license is issued or transferredunder this chapter, the licensee or transferee shall obtain liability insurance or demonstrate financial responsibility in amounts to compensate for the maximum probable loss from claims by—
 
 &emsp;(A) a third party for death, bodily injury, or property damage or loss resulting from an activity carried out under the license; and
 
@@ -60,7 +60,7 @@ Annual Report.—(1) Not later than November 15 of each year, the Secretary of T
 
 (e)
 
-Launches or Reentries Involving Government Facilities and Personnel.—The Secretary of Transportation shall establish requirements consistent with this chapter for proof of financial responsibility and other assurances necessary to protect the Government and its executive agencies and personnel from liability, death, bodily injury, or property damage or loss as a result of a launch or operation of a launch site or reentry site or a reentry involving a facility or personnel of the Government. The Secretary may not relieve the Government of liability under this subsection for death, bodily injury, or property damage or loss resulting from the willful misconduct of the Government or its agents.
+Launches or Reentries Involving Government Facilities and Personnel.—The Secretary of Transportation shall establish requirements consistent with this chapter for proof of financial responsibility and other assurances necessary to protect the Government and its executive agencies and personnel from liability, death, bodily injury, or property damage or loss as a result of a launch or operation of a launch site or reentry site or a reentry involving a facility or personnel of the Government. The Secretary may not relieve the Government of liability under this subsection for death, bodily injury, or property damage or loss resulting fromthe willful misconduct of the Government or its agents.
 
 (f)
 

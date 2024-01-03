@@ -8,7 +8,7 @@ This chapter shall cease to be effective five years after the date of the enactm
 
 #### References in Text
 
-The date of the enactment of the Independent Counsel Reauthorization Act of 1994, referred to in text, is the date of enactment of Pub. L. 103–270, which was approved June 30, 1994.
+The date of the enactment of the Independent Counsel Reauthorization Act of 1994, referred to in text, isthe date of enactment of Pub. L. 103–270, which was approved June 30, 1994.
 
 #### Amendments
 

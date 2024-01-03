@@ -74,7 +74,7 @@ Appointment or designation and responsibilities.—The head of each executive ag
 
 Who is eligible.—The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the executive agency's advocate for competition.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3782; Pub. L. 111–383, div. A, title X, §1075(f)(5)(B), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 112–81, div. A, title VIII, §813, Dec. 31, 2011, 125 Stat. 1491; Pub. L. 114–260, §2, Dec. 14, 2016, 130 Stat. 1361; Pub. L. 114–328, div. A, title VIII, §835(b), Dec. 23, 2016, 130 Stat. 2285; Pub. L. 116–92, div. A, title VIII, §826, Dec. 20, 2019, 133 Stat. 1491.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3782; Pub. L. 111–383, div. A, title X, §1075(f)(5)(B), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 112–81, div. A, title VIII, §813, Dec. 31, 2011, 125 Stat. 1491; Pub. L. 114–260, §2, Dec. 14, 2016, 130 Stat. 1361; Pub. L.114–328, div. A, title VIII, §835(b), Dec. 23, 2016, 130 Stat. 2285; Pub. L. 116–92, div. A, title VIII, §826, Dec. 20, 2019, 133 Stat. 1491.)
 
 #### Amendment Not Shown in Text
 

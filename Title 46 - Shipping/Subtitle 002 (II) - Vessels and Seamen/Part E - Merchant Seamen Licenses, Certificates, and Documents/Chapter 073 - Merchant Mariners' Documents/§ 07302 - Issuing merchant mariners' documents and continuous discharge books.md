@@ -1,6 +1,6 @@
 ### §7302. Issuing merchant mariners' documents and continuous discharge books
 
-(a) The Secretary shall issue a merchant mariner's document to an individual required to have that document under part F of this subtitle if the individual satisfies the requirements of this part. The document serves as a certificate of identification and as a certificate of service, specifying each rating in which the holder is qualified to serve on board vessels on which that document is required under part F.
+(a) The Secretary shall issue a merchant mariner's document to an individual required to have that document under part F of this subtitle if the individual satisfies the requirements of this part. The document serves as a certificate of identification and as a certificate of service,specifying each rating in which the holder is qualified to serve on board vessels on which that document is required under part F.
 
 (b) The Secretary also may issue a continuous discharge book to an individual issued a merchant mariner's document if the individual requests.
 
@@ -102,7 +102,7 @@ Review and regulations.—Notwithstanding any other provision of law, not later 
 
 &emsp;&emsp;&emsp;"(i) the timeframes and impediments for veterans and members of the uniformed services to receive a merchant mariner credential;
 
-&emsp;&emsp;&emsp;"(ii) the classifications of sea service acquired through training and service as a member of the Uniformed Services and level of equivalence such service has with respect to sea service on merchant vessels; and
+&emsp;&emsp;&emsp;"(ii) the classifications of sea service acquired through training and service as a member of theUniformed Services and level of equivalence such service has with respect to sea service on merchant vessels; and
 
 &emsp;&emsp;&emsp;"(iii) the amount of sea service, including percent of the total time onboard for purposes of equivalent underway service, that will be accepted as required experience for all endorsements for applicants for a merchant mariner credential who are veterans or members of the Uniformed Services; and
 
@@ -120,7 +120,7 @@ Consultation.—In carrying out paragraph (2) \[probably should be "paragraph (1
 
 &emsp;"(3)
 
-Report.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022), the United States Committee on the Marine Transportation System shall submit to the Committees on Commerce, Science, and Transportation and Armed Services of the Senate and the Committees on Transportation and Infrastructure and Armed Services of the House of Representatives, a report that contains an update on the activities carried out to implement—
+Report.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\], the United States Committee on the Marine Transportation System shall submit to the Committees on Commerce, Science, and Transportation and Armed Services of the Senate and the Committees on Transportation and Infrastructure and Armed Services of the House of Representatives, a report that contains an update on the activities carried out to implement—
 
 &emsp;&emsp;"(A) the July 2020 report by the Committee on the Marine Transportation System to the White House Office of Trade and Manufacturing Policy on the implementation of Executive Order 13860 (84 Fed. Reg. 8407; relating to supporting the transition of active duty servicemembers and military veterans into the Merchant Marine); and
 
@@ -188,7 +188,7 @@ Pub. L. 114–120, title III, §304, Feb. 8, 2016, 130 Stat. 53, provided that:
 
 "(a)
 
-In General.—Except as provided in subsection (c) and not later than 1 year after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department in which the Coast Guard is operating shall establish a process to harmonize the expiration dates ofmerchant mariner credentials, mariner medical certificates, and radar observer endorsements for individuals applying to the Secretary for a new merchant mariner credential or for renewal of an existing merchant mariner credential.
+In General.—Except as provided in subsection (c) and not later than 1 year after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department in which the Coast Guard is operating shall establish a process to harmonize the expiration dates of merchant mariner credentials, mariner medical certificates, and radar observer endorsements for individuals applying to the Secretary for a new merchant mariner credential or for renewal of an existing merchant mariner credential.
 
 "(b)
 

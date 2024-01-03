@@ -186,7 +186,7 @@ Non-federal share.—The non-Federal share of the cost of an activity described 
 
 &emsp;&emsp;(B)
 
-Tribal technical assistance centers.—The Federal share of the cost of anactivity carried out by a tribal technical assistance center under paragraph (2)(D)(ii) shall be 100 percent.
+Tribal technical assistance centers.—The Federal share of the cost of an activity carried out by a tribal technical assistance center under paragraph (2)(D)(ii) shall be 100 percent.
 
 (c)
 
@@ -384,7 +384,7 @@ Eligible activities.—The freight planning capacity building initiative shall i
 
 &emsp;&emsp;(E) Facilitating relationship building between governmental and private entities involved in freight transportation.
 
-&emsp;&emsp;(F) Identifying ways to target the capacity of State transportation departments and local transportation agencies to address freight considerations in operations, security, asset management, and environmental stewardship in connection with long-range multimodal transportation planning and project implementation.
+&emsp;&emsp;(F) Identifying ways to target the capacity of State transportation departments and local transportation agencies to address freight considerations in operations, security, asset management, and environmentalstewardship in connection with long-range multimodal transportation planning and project implementation.
 
 &emsp;(5)
 
@@ -480,7 +480,7 @@ Subsec. (i). Pub. L. 117–58, §13007(c), added subsec. (i).
 
 <b>2015</b>—Subsec. (a)(4). Pub. L. 114–94 substituted "104(b)(2)" for "104(b)(3)" and "surface transportation block grant program" for "surface transportation program".
 
-Subsec. (d)(4)(B), (C). Pub. L. 114–95 substituted "section 8101 of the Elementary and Secondary Education Act of 1965" for "section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)".
+Subsec. (d)(4)(B), (C). Pub. L. 114–95 substituted "section 8101 of the Elementary and Secondary EducationAct of 1965" for "section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)".
 
 <b>2012</b>—Subsec. (a)(2)(A). Pub. L. 112–141, §52004(1)(A), inserted "and the employees of any other applicable Federal agency" before the semicolon at end.
 

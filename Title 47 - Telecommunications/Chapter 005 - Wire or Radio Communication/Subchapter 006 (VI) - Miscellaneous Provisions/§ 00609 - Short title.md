@@ -26,7 +26,7 @@ Pub. L. 117–58, div. F, title VI, §60601, Nov. 15, 2021, 135 Stat. 1246, prov
 
 #### Short Title of 2020 Amendment
 
-Pub. L. 116–260, div. FF, title IX, §902(a), Dec. 27, 2020, 134 Stat. 3206, provided that: "This section \[amending section 615a–1 of this title, repealing section 1413 of this title and enacting provisions set out as notes under section 615a–1 of this title\] may be cited as the 'Don't Break Up the T-Band Act of 2020'."
+Pub. L. 116–260, div. FF, title IX, §902(a), Dec. 27, 2020, 134 Stat. 3206, provided that: "This section \[amendingsection 615a–1 of this title, repealing section 1413 of this title and enacting provisions set out as notes under section 615a–1 of this title\] may be cited as the 'Don't Break Up the T-Band Act of 2020'."
 
 Pub. L. 116–172, §1, Oct. 17, 2020, 134 Stat. 832, provided that: "This Act \[enacting section 251a of this title, amending section 251 of this title, and enacting provisions set out as notes under section 251 of this title\] may be cited as the 'National Suicide Hotline Designation Act of 2020'."
 
@@ -62,7 +62,7 @@ Pub. L. 113–197, §1, Nov. 26, 2014, 128 Stat. 2055, provided that: "This Act 
 
 Pub. L. 111–331, §1, Dec. 22, 2010, 124 Stat. 3572, provided that: "This Act \[amending section 227 of this title\] may be cited as the 'Truth in Caller ID Act of 2009'."
 
-Pub. L. 111–311, §1, Dec. 15, 2010, 124 Stat. 3294, provided that: "This Act \[enacting section 621 of this title\]may be cited as the 'Commercial Advertisement Loudness Mitigation Act' or the 'CALM Act'."
+Pub. L. 111–311, §1, Dec. 15, 2010, 124 Stat. 3294, provided that: "This Act \[enacting section 621 of this title\] may be cited as the 'Commercial Advertisement Loudness Mitigation Act' or the 'CALM Act'."
 
 Pub. L. 111–260, §1(a), Oct. 8, 2010, 124 Stat. 2751, provided that: "This Act \[enacting sections 615c and 616 to 620 of this title, amending sections 153, 225, 303, 330, 402, 503, 610, and 613 of this title, and enacting provisions set out as notes under sections 153, 303, 613, and 619 of this title\] may be cited as the 'Twenty-First Century Communications and Video Accessibility Act of 2010'."
 
@@ -104,7 +104,7 @@ Pub. L. 107–75, §1, Nov. 28, 2001, 115 Stat. 703, provided that: "This Act \[
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1731\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: "This subtitle \[subtitle C (§§1731–1733) of title XVII of div. B of H.R. 5666, as enacted by section 1(a)(4) of Pub. L. 106–554, amending section 254 of this title and enacting provisions set out as a note under section 254 of this title\] may be cited as the 'Neighborhood Children's Internet Protection Act'."
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1731\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: "Thissubtitle \[subtitle C (§§1731–1733) of title XVII of div. B of H.R. 5666, as enacted by section 1(a)(4) of Pub. L. 106–554, amending section 254 of this title and enacting provisions set out as a note under section 254 of this title\] may be cited as the 'Neighborhood Children's Internet Protection Act'."
 
 #### Short Title of 1999 Amendments
 
@@ -200,7 +200,7 @@ Pub. L. 91–97, §1, Oct. 27, 1969, 83 Stat. 146, provided: "That this Act \[am
 
 #### Short Title of 1967 Amendment
 
-Pub. L. 90–129, §1, Nov. 7, 1967, 81 Stat. 365, provided: "That this Act \[enacting sections 396, 398, and 399 ofthis title, amending sections 390 to 395 and 397 of this title, and enacting provisions set out as notes under sections 390 and 392 of this title\] may be cited as the 'Public Broadcasting Act of 1967'."
+Pub. L. 90–129, §1, Nov. 7, 1967, 81 Stat. 365, provided: "That this Act \[enacting sections 396, 398, and 399 of this title, amending sections 390 to 395 and 397 of this title, and enacting provisions set out as notes under sections 390 and 392 of this title\] may be cited as the 'Public Broadcasting Act of 1967'."
 
 #### Short Title of 1960 Amendment
 

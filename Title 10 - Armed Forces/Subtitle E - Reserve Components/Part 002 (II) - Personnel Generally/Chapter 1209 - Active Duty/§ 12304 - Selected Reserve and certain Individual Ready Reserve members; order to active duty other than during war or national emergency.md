@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—Notwithstanding the provisions of section 12302(a) or any other provision of law, when the President determines that it is necessary to augment the active forces for any named operational mission or that it is necessary to provide assistance referred to in subsection (b), he may authorize the Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, without the consent of the members concerned, to order any unit, and any member not assigned to a unit organized to serve as a unit of the Selected Reserve (as defined in section 10143(a) of this title), or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, under their respective jurisdictions, to active duty for not more than 365 consecutive days.
+Authority.—Notwithstanding the provisions of section 12302(a) or any other provision of law, when the President determines that it is necessary to augment the active forces or that it is necessary to provide assistance referred to in subsection (b), he may authorize the Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, without the consent of the members concerned, to order any unit, and any member not assigned to a unit organized to serve as a unit of the Selected Reserve (as defined in section 10143(a) of this title), or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, under their respective jurisdictions, to active duty for not more than 365 consecutive days.
 
 (b)
 
@@ -14,39 +14,49 @@ Support for Responses to Certain Emergencies.—The authority under subsection (
 
 (c)
 
-Limitations.—(1) No unit or member of a reserve component may be ordered to active duty under this section to perform any of the functions authorized by chapter 13 or section 12406 of this title or, except as provided in subsection (b), to provide assistance to either the Federal Government or a State in time of a serious natural or manmade disaster, accident, or catastrophe.
+Authority Relating to Significant Cyber Incidents.—When the Secretary of Defense or the Secretary of the department in which the Coast Guard is operating determines that it is necessary to augment the active armed forces for the response of the Department of Defense or other department under which the Coast Guard is operating, respectively, to a covered incident, such Secretary may, without the consent of the member affected, order any unit, and any member not assigned to a unit organized to serve as a unit of the Selected Reserve (as defined in section 10143(a) of this title), under the respective jurisdiction of such Secretary, to active duty for not more than 365 consecutive days.
+
+(d)
+
+Limitations.—(1) No unit or member of a reserve component may be ordered to active duty under this section to perform any of the functions authorized by chapter 13 or section 12406 of this title or, except as provided in subsection (b) or subsection (c), to provide assistance to either the Federal Government or a State in time of a serious natural or manmade disaster, accident, or catastrophe.
 
 (2) Not more than 200,000 members of the Selected Reserve and the Individual Ready Reserve may be on active duty under this section at any one time, of whom not more than 30,000 may be members of the Individual Ready Reserve.
 
 (3) No unit or member of a reserve component may be ordered to active duty under this section to provide assistance referred to in subsection (b) unless the President determines that the requirements for responding to an emergency referred to in that subsection have exceeded, or will exceed, the response capabilities of local, State, and Federal civilian agencies.
 
-(d)
+(e)
 
 Exclusion From Strength Limitations.—Members ordered to active duty under this section shall not be counted in computing authorized strength in members on active duty or members in grade under this title or any other law.
 
-(e)
+(f)
 
 Policies and Procedures.—The Secretary of Defense and the Secretary of Homeland Security shall prescribe such policies and procedures for the armed forces under their respective jurisdictions as they consider necessary to carry out this section.
 
-(f)
-
-Notification of Congress.—Whenever the President authorizes the Secretary of Defense or the Secretary of Homeland Security to order any unit or member of the Selected Reserve or Individual Ready Reserve to active duty, under the authority of subsection (a), he shall, within 24 hours after exercising such authority, submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of these units or members.
-
 (g)
 
-Termination of Duty.—Whenever any unit of the Selected Reserve or any member of the Selected Reserve not assigned to a unit organized to serve as a unit, or any member of the Individual Ready Reserve, is ordered to active duty under authority of subsection (a), the service of all units or members so ordered to active duty may be terminated by—
-
-&emsp;(1) order of the President, or
-
-&emsp;(2) law.
+Notification of Congress.—Whenever the President authorizes the Secretary of Defense or the Secretary of Homeland Security to order any unit or member of the Selected Reserve or Individual Ready Reserve to active duty, under the authority of subsection (a) or subsection (c), he shall, within 24 hours after exercising such authority, submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of these units or members.
 
 (h)
 
-Relationship to War Powers Resolution.—Nothing contained in this section shall be construed as amending or limiting the application of the provisions of the War Powers Resolution (50 U.S.C. 1541 et seq.).
+Termination of Duty.—(1) Whenever any unit of the Selected Reserve or any member of the Selected Reserve not assigned to a unit organized to serve as a unit, or any member of the Individual Ready Reserve, is ordered to active duty under authority of subsection (a), the service of all units or members so ordered to active duty may be terminated by—
+
+&emsp;(A) order of the President; or
+
+&emsp;(B) law.
+
+(2) Whenever any unit of the Selected Reserve or any member of the Selected Reserve not assigned to a unit organized to serve as a unit is ordered to active duty under authority of subsection (c), the service of all units or members so ordered to active duty may be terminated by—
+
+&emsp;(A) order of the Secretary of Defense or, with respect to the Coast Guard, the Secretary of the Department in which the Coast Guard is operating; or
+
+&emsp;(B) law.
 
 (i)
 
-Considerations for Involuntary Order to Active Duty.—(1) In determining which members of the Selected Reserve and Individual Ready Reserve will be ordered to duty withouttheir consent under this section, appropriate consideration shall be given to—
+Relationship to War Powers Resolution.—Nothing contained in this section shall be construed as amending or limiting the application of the provisions of the War Powers Resolution (50 U.S.C. 1541 et seq.).
+
+(j)
+
+Considerations for Involuntary Order to Active Duty.—(1) In determining which members of the Selected Reserve and Individual Ready Reserve will be ordered to duty without their consent under this section, appropriate consideration shall be given to—
 
 &emsp;(A) the length and nature of previous service, to assure such sharing of exposure to hazards as the national security and military requirements will reasonably allow;
 
@@ -58,23 +68,59 @@ Considerations for Involuntary Order to Active Duty.—(1) In determining which 
 
 (2) The Secretary of Defense shall prescribe such policies and procedures as the Secretary considers necessary to carry out this subsection.
 
-(j)
+(k)
 
 Definitions.—In this section:
 
-&emsp;(1) The term "Individual Ready Reserve mobilization category" means, in the case of any reserve component, the category of the Individual Ready Reserve described in section 10144(b) of this title.
+&emsp;(1) The term "covered incident" means—
 
-&emsp;(2) The term "weapon of mass destruction" has the meaning given that term in section 1403 of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1)).
+&emsp;&emsp;(A) a cyber incident involving a Department of Defense information system, or a breach of a Department of Defense system that involves personally identifiable information, that the Secretary of Defense determines is likely to result in demonstrable harm to the national security interests, foreign relations, or the economy of the United States, or to the public confidence, civil liberties, or public health and safety of the people of the United States;
 
-(Added Pub. L. 94–286, §1, May 14, 1976, 90 Stat. 517, §673b; amended Pub. L. 96–584, §2, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–295, §1(9), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–661, div. A, title V, §521, Nov. 14, 1986, 100 Stat. 3870; renumbered §12304 and amended, Pub. L. 103–337, div. A, title V, §511(a), title XVI, §§1662(e)(2), 1675(c)(2), Oct. 5, 1994, 108 Stat. 2752, 2992, 3017; Pub. L. 105–85, div. A, title V, §511(b)–(e)(1), Nov. 18, 1997, 111 Stat. 1728, 1729; Pub. L. 105–261, div. A, title V, §511(a), Oct. 17, 1998, 112 Stat. 2005; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §514(a), Dec. 2, 2002, 116 Stat. 2539; Pub. L. 108–136, div. A, title V, §515, Nov. 24, 2003, 117 Stat. 1460; Pub. L. 108–375, div. A, title V, §514(c), Oct. 28, 2004, 118 Stat. 1883; Pub. L. 109–364, div. A, title V, §522, title X, §1076(c), Oct. 17, 2006, 120 Stat. 2192, 2406; Pub. L. 110–181, div. A, title X, §§1063(a)(15), 1068(c), Jan. 28, 2008, 122 Stat. 322, 326; Pub. L. 112–81, div. A, title V, §516(b), Dec. 31, 2011, 125 Stat. 1397; Pub. L. 115–232, div. A, title XII, §1204(a)(5), Aug. 13, 2018, 132 Stat. 2017.)
+&emsp;&emsp;(B) a cyber incident involving a Department of Homeland Security information system, or a breach of a Department of Homeland Security system that involves personally identifiable information, that the Secretary of Homeland Security determines is likely to result in demonstrable harm to the national security interests, foreign relations, or the economy of the United States or to the public confidence, civil liberties, or public health and safety of the people of the United States;
+
+&emsp;&emsp;(C) a cyber incident, or collection of related cyber incidents, that the President determines is likely to result in demonstrable harm to the national security interests, foreign relations, or economy of the United States or to the public confidence, civil liberties, or public health and safety of the people of the United States; or
+
+&emsp;&emsp;(D) a significant incident declared pursuant to section 2233 of the Homeland Security Act of 2002 (6 U.S.C. 677b).
+
+&emsp;(2) The term "Individual Ready Reserve mobilization category" means, in the case of any reserve component, the category of the Individual Ready Reserve described in section 10144(b) of this title.
+
+&emsp;(3) The term "weapon of mass destruction" has the meaning given that term in section 1403 of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1)).
+
+(Added Pub. L. 94–286, §1, May 14, 1976, 90 Stat. 517, §673b; amended Pub. L. 96–584, §2, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–295, §1(9), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–661, div. A, title V, §521, Nov. 14, 1986, 100 Stat. 3870; renumbered §12304 and amended, Pub. L. 103–337, div. A, title V, §511(a), title XVI, §§1662(e)(2), 1675(c)(2), Oct. 5, 1994, 108 Stat. 2752, 2992, 3017; Pub. L. 105–85, div. A, title V, §511(b)–(e)(1), Nov. 18, 1997, 111 Stat. 1728, 1729; Pub. L. 105–261, div. A, title V, §511(a), Oct. 17, 1998, 112 Stat. 2005; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §514(a), Dec. 2, 2002, 116 Stat. 2539; Pub. L. 108–136, div. A, title V, §515, Nov. 24, 2003, 117 Stat. 1460; Pub. L. 108–375, div. A, title V, §514(c), Oct. 28, 2004, 118 Stat. 1883; Pub. L. 109–364, div. A, title V, §522, title X, §1076(c), Oct. 17, 2006, 120 Stat. 2192, 2406; Pub. L. 110–181, div. A, title X, §§1063(a)(15), 1068(c), Jan. 28, 2008, 122 Stat. 322, 326; Pub. L. 112–81, div. A, title V, §516(b), Dec. 31, 2011, 125 Stat. 1397; Pub. L. 115–232, div. A, title XII, §1204(a)(5), Aug. 13, 2018, 132 Stat. 2017; Pub. L. 118–31, div. A, title XV, §1532, Dec. 22, 2023, 137 Stat. 563.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
+The War Powers Resolution, referred to in subsec. (i), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a). Pub. L. 118–31, §1532(1), struck out "for any named operational mission" after "active forces".
+
+Subsec. (c). Pub. L. 118–31, §1532(3), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 118–31, §1532(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(1). Pub. L. 118–31, §1532(4), inserted "or subsection (c)" after "subsection (b)".
+
+Subsecs. (e), (f). Pub. L. 118–31, §1532(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively. Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 118–31, §1532(2), (5), redesignated subsec. (f) as (g) and inserted "or subsection (c)" after "subsection (a)". Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 118–31, §1532(2), (6), redesignated subsec. (g) as (h) and amended it generally. Prior to amendment, text read as follows: "Whenever any unit of the Selected Reserve or any member of the Selected Reserve not assigned to a unit organized to serve as a unit, or any member of the Individual Ready Reserve, is ordered to active duty under authority of subsection (a), the service of all units or members so ordered to active duty may be terminated by—
+
+&emsp;"(1) order of the President, or
+
+&emsp;"(2) law."
+
+> Former subsec. (h) redesignated (i).
+
+Subsecs. (i), (j). Pub. L. 118–31, §1532(2), redesignated subsecs. (h) and (i) as (i) and (j), respectively. Former subsec. (j) redesignated (k).
+
+Subsec. (k). Pub. L. 118–31, §1532(7), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+
+Pub. L. 118–31, §1532(2), redesignated subsec. (j) as (k).
 
 <b>2018</b>—Subsec. (c)(1). Pub. L. 115–232 substituted "chapter 13" for "chapter 15".
 
@@ -196,7 +242,7 @@ This order shall be published in the Federal Register and transmitted promptly t
 
 Ex. Ord. No. 12927, Sept. 15, 1994, 59 F.R. 47781, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 673b \[now 12304\] of title 10 of the United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operational missions to restore the civilian government in Haiti. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 673b \[now 12304\] of title 10 of the United States Code, I hereby determine that it is necessary to augment the active armed forcesof the United States for the effective conduct of operational missions to restore the civilian government in Haiti. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve.
 
 This order is intended only to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
@@ -244,7 +290,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13680, Oct. 16, 2014, 79 F.R. 63287, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active Armed Forces of the United States for the effective conduct of Operation United Assistance, which is providing support to civilian-led humanitarian assistance and consequence management support related to the Ebola virus disease outbreak in West Africa. In furtherance of this operation, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, under their respective jurisdictions, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit of the Selected Reserve, or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, and to terminate the service of those units and members ordered to active duty.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active Armed Forces of the United States for the effective conduct of Operation United Assistance, which is providing support to civilian-led humanitarian assistance and consequence management support related to the Ebola virus disease outbreak in West Africa. In furtherance of this operation, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, under their respective jurisdictions, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit of the Selected Reserve, or any member in the Individual Ready Reserve mobilizationcategory and designated as essential under regulations prescribed by the Secretary concerned, and to terminate the service of those units and members ordered to active duty.
 
 This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
@@ -254,7 +300,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13919, Apr. 30, 2020, 85 F.R. 26591, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 12304 of title 10, United States Code, and having determined that it is necessary to augment the regular Armed Forces of the UnitedStates for a named operational mission, specifically the "Enhanced Department of Defense Counternarcotic Operation in the Western Hemisphere," I hereby order as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 12304 of title 10, United States Code, and having determined that it is necessary to augment the regular Armed Forces of the United States for a named operational mission, specifically the "Enhanced Department of Defense Counternarcotic Operation in the Western Hemisphere," I hereby order as follows:
 
 Section 1. <i>Activation Authority</i>. The Secretary of Defense is directed to order to active duty for not more than 365 consecutive days, any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve under the jurisdiction of the Secretary of Defense, not to exceed 200 Selected Reservists at any one time, as he considers necessary.
 

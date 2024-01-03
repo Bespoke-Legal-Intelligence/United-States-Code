@@ -18,7 +18,7 @@ Section 1400J, added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21
 
 Pub. L. 115–141, div. U, title IV, §401(d)(5)(C), Mar. 23, 2018, 132 Stat. 1210, provided that: "The amendments made by this paragraph \[amending sections 469 and 1397B of this title and repealing sections 1400E to 1400J of this title\], shall not apply to—
 
-&emsp;"(i) in the case of the repeal of section 1400F of the Internal Revenue Code of 1986, qualified community assets (as defined in such section, as in effect before its repeal) which were acquired by the taxpayer before January 1, 2010,
+&emsp;"(i) in the case of the repeal of section 1400F of the Internal Revenue Code of 1986, qualified community assets (as defined in such section, as in effect beforeits repeal) which were acquired by the taxpayer before January 1, 2010,
 
 &emsp;"(ii) in the case of the repeal section 1400H of such Code, wages paid or incurred before January 1, 2010,
 

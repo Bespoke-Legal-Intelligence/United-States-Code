@@ -54,7 +54,7 @@ Level IV of the Executive Schedule, referred to in subsec. (i), is set out in se
 
 #### Codification
 
-The text of subsec. (i) of section 2307 of this title, which was transferred to this section and amended byPub. L. 116–283, §1834(g), was based on Pub. L. 101–510, div. A, title VIII, §836(a), Nov. 5, 1990, 104 Stat. 1615; Pub. L. 102–25, title VII, §701(j)(2)(A), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)(7), Oct. 13, 1994, 108 Stat. 3301; Pub. L. 105–85, div. A, title VIII, §802(1), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592.
+The text of subsec. (i) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1834(g), was based on Pub. L. 101–510, div. A, title VIII, §836(a), Nov. 5, 1990, 104 Stat. 1615; Pub. L. 102–25, title VII, §701(j)(2)(A), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)(7), Oct. 13, 1994, 108 Stat. 3301; Pub. L. 105–85, div. A, title VIII, §802(1), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592.
 
 #### Amendments
 

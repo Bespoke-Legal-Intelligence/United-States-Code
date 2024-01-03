@@ -16,7 +16,7 @@ There is hereby imposed a tax on any taxable substance sold or used by the impor
 
 #### (3) Authority to prescribe rate in lieu of paragraph (2) rate
 
-&emsp;The Secretary may prescribe for each taxable substance a tax which, if prescribed, shall apply in lieu of the tax specified in paragraph\(2) with respect to such substance. The tax prescribed by the Secretary shall be equal to the amount of tax which would be imposed by subsection (a) with respect to the taxable substance if such substance were produced using the predominant method of production of such substance.
+&emsp;The Secretary may prescribe for each taxable substance a tax which, if prescribed, shall apply in lieu of the tax specified in paragraph (2) with respect to such substance. The tax prescribed by the Secretary shall be equal to the amount of tax which would be imposed by subsection (a) with respect to the taxable substance if such substance were produced using the predominant method of production of such substance.
 
 #### (c) Exemptions for substances taxed under sections 4611 and 4661
 

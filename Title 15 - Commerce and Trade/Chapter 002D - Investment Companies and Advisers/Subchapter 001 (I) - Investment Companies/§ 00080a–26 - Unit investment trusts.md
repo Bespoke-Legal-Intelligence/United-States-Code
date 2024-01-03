@@ -10,7 +10,7 @@ No principal underwriter for or depositor of a registered unit investment trust 
 
 &emsp;(3) provides, in substance, that the trustee or custodian shall not resign until either (A) the trust has been completely liquidated and the proceeds of the liquidation distributed to the security holders of the trust, or (B) a successor trustee or custodian, having the qualifications prescribed in paragraph (1) of this subsection, has been designated and has accepted such trusteeship or custodianship; and
 
-&emsp;(4) provides, in substance, (A) that a record will be kept by the depositor or an agent ofthe depositor of the name and address of, and the shares issued by the trust and held by, every holder of any security issued pursuant to such instrument, insofar as such information is known to the depositor or agent; and (B) that whenever a security is deposited with the trustee in substitution for any security in which such security holder has an undivided interest, the depositor or the agent of the depositor will, within five days after such substitution, either deliver or mail to such security holder a notice of substitution, including an identification of the securities eliminated and the securities substituted, and a specification of the shares of such security holder affected by the substitution.
+&emsp;(4) provides, in substance, (A) that a record will be kept by the depositor or an agent of the depositor of the name and address of, and the shares issued by the trust and held by, every holder of any security issued pursuant to such instrument, insofar as such information is known to the depositor or agent; and (B) that whenever a security is deposited with the trustee in substitution for any security in which such security holder has an undivided interest, the depositor or the agent of the depositor will, within five days after such substitution, either deliver or mail to such security holder a notice of substitution, including an identification of the securities eliminated and the securities substituted, and a specification of the shares of such security holder affected by the substitution.
 
 #### (b) Bank or affiliated person of bank as trustee or custodian
 
@@ -38,7 +38,7 @@ Whenever the Commission has reason to believe that a unit investment trust is in
 
 &emsp;It shall be unlawful for any registered separate account funding variable insurance contracts, or for the sponsoring insurance company of such account, to sell any such contract—
 
-&emsp;&emsp;(A) unless the fees and charges deducted under the contract, in the aggregate, are reasonable in relation to the services rendered, the expenses expected to be incurred, and the risks assumed by the insurance company, and, beginning on the earlier of August 1, 1997, or the earliest effective date of any registration statement or amendment thereto for such contract following October 11, 1996, the insurance company so represents in the registration statement for the contract; and
+&emsp;&emsp;(A) unless the fees and charges deducted under the contract, in the aggregate, arereasonable in relation to the services rendered, the expenses expected to be incurred, and the risks assumed by the insurance company, and, beginning on the earlier of August 1, 1997, or the earliest effective date of any registration statement or amendment thereto for such contract following October 11, 1996, the insurance company so represents in the registration statement for the contract; and
 
 &emsp;&emsp;(B) unless the insurance company—
 

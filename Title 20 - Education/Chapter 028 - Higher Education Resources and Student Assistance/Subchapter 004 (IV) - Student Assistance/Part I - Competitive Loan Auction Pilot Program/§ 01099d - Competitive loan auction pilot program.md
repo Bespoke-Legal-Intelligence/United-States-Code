@@ -36,7 +36,7 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 &emsp;&emsp;The Secretary establishes a prequalification process for eligible lenders desiring to participate in an auction under this paragraph that contains, at a minimum—
 
-&emsp;&emsp;&emsp;(i) a set of borrower benefits and servicing requirements each eligible lendershall meet in order to participate in such an auction;
+&emsp;&emsp;&emsp;(i) a set of borrower benefits and servicing requirements each eligible lender shall meet in order to participate in such an auction;
 
 &emsp;&emsp;&emsp;(ii) an assessment of each such eligible lender's capacity, including capital capacity, to participate effectively; and
 
@@ -48,7 +48,7 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 #### (D) Bids
 
-&emsp;&emsp;Each eligible lender's bid consists of the amount of the special allowance payment (after the application of section 1087–1(b)(2)(I)(v) of this title) the eligible lender proposes to accept from the Secretary with respect to the eligible Federal PLUS Loans made under this paragraph in lieu of the amount determined under section 1087–1(b)(2)(I) of this title.
+&emsp;&emsp;Each eligible lender's bid consists of the amount of the special allowance payment (after the application of section 1087–1(b)(2)(I)(v) of this title) the eligible lender proposes to accept from the Secretary with respect to the eligible Federal PLUS Loans made under this paragraph in lieu ofthe amount determined under section 1087–1(b)(2)(I) of this title.
 
 #### (E) Maximum bid
 
@@ -102,7 +102,7 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 #### (ii) Determination of eligible lender of last resort
 
-&emsp;&emsp;&emsp;Prior to the start of any auction under this paragraph, eligible lenders that desire to serve as an eligible lender of last resort shall submit an application to the Secretary at such time and in such manner asthe Secretary may determine. Such application shall include an assurance that the eligible lender will meet the prequalification requirements described in subparagraph (B).
+&emsp;&emsp;&emsp;Prior to the start of any auction under this paragraph, eligible lenders that desire to serve as an eligible lender of last resort shall submit an application to the Secretary at such time and in such manner as the Secretary may determine. Such application shall include an assurance that the eligible lender will meet the prequalification requirements described in subparagraph (B).
 
 #### (iii) Geographic location
 

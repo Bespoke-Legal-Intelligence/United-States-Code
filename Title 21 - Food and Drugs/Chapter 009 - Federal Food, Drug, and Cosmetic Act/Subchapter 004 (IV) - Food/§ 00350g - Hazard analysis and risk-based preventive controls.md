@@ -212,7 +212,7 @@ This section shall not apply to activities of a facility that are subject to sec
 
 &emsp;&emsp;A qualified facility that is exempt from the requirements under subsections (a) through (i) and subsection (n) and does not prepare documentation under paragraph (2)(B)(i)(I) shall—
 
-&emsp;&emsp;&emsp;(i) with respect to a food for which a food packaging label is required by the Secretary under any other provision of this chapter, include prominently and conspicuously on such label the name and business address of the facility where the food was manufactured or processed; or
+&emsp;&emsp;&emsp;(i) with respect to a food for which a food packaging label is required by the Secretary under any other provision of thischapter, include prominently and conspicuously on such label the name and business address of the facility where the food was manufactured or processed; or
 
 &emsp;&emsp;&emsp;(ii) with respect to a food for which a food packaging label is not required by the Secretary under any other provisions of this chapter, prominently and conspicuously display, at the point of purchase, the name and business address of the facility where the food was manufactured or processed, on a label, poster, sign, placard, or documents delivered contemporaneously with the food in the normal course of business, or, in the case of Internet sales, in an electronic notice.
 
@@ -264,7 +264,7 @@ For purposes of this section:
 
 #### (1) Critical control point
 
-&emsp;The term "critical control point" means a point, step, or procedure in a food process atwhich control can be applied and is essential to prevent or eliminate a food safety hazard or reduce such hazard to an acceptable level.
+&emsp;The term "critical control point" means a point, step, or procedure in a food process at which control can be applied and is essential to prevent or eliminate a food safety hazard or reduce such hazard to an acceptable level.
 
 #### (2) Facility
 

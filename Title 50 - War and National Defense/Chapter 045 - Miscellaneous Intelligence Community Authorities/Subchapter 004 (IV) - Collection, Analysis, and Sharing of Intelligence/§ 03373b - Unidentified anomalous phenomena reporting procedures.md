@@ -52,7 +52,7 @@
 
 #### (A) Protection
 
-&emsp;&emsp;An employee of a department or agency of the Federal Government, or of a contractor, subcontractor, grantee, subgrantee, or personal services contractor of such a department or agency, who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take, or threaten to take or fail to take, a personnel action, including the revocation or suspension of security clearances, or termination of employment, with respect to any individual as a reprisal for any authorized disclosure.
+&emsp;&emsp;An employee of a department or agency of the Federal Government, or of a contractor, subcontractor, grantee, subgrantee, or personal services contractor of such a department or agency, who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take, or threaten to take or fail to take, a personnel action, including the revocation or suspension of security clearances, or termination of employment, with respect toany individual as a reprisal for any authorized disclosure.
 
 #### (B) Procedures
 
@@ -62,7 +62,7 @@
 
 #### (A) Identification
 
-&emsp;&emsp;The Secretary of Defense, the Director of National Intelligence, the Secretary of Homeland Security, the heads of such otherdepartments and agencies of the Federal Government that have supported investigations of the types of events covered by subparagraph (A) of subsection (a)(1) and activities and programs described in subparagraph (B) of such subsection, and contractors of the Federal Government that have supported or are supporting such activities and programs, shall conduct comprehensive searches of all records relating to nondisclosure orders relating to the types of events described in subsection (a) and provide copies of such orders, agreements, or obligations to the Office.
+&emsp;&emsp;The Secretary of Defense, the Director of National Intelligence, the Secretary of Homeland Security, the heads of such other departments and agencies of the Federal Government that have supported investigations of the types of events covered by subparagraph (A) of subsection (a)(1) and activities and programs described in subparagraph (B) of such subsection, and contractors of the Federal Government that have supported or are supporting such activities and programs, shall conduct comprehensive searches of all records relating to nondisclosure orders relating to the types of events described in subsection (a) and provide copies of such orders, agreements, or obligations to the Office.
 
 #### (B) Submission to Congress
 
@@ -108,6 +108,8 @@ In this section:
 
 #### References in Text
 
+Executive Order 13526, referred to in subsec. (b)(1)(B), is Ex. Ord. No. 13526, Dec. 29, 2009, 75 F.R. 707, 1013, which is set out as a note under section 3161 of this title.
+
 The Atomic Energy Act of 1954, referred to in subsec. (b)(1)(B), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919. Chapter 18 of the Act is classified generally to subchapter XVII (§2271 et seq.) of chapter 23 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Codification
@@ -118,5 +120,5 @@ Section is comprised of section 1673 of Pub. L. 117–263. Subsec. (c) of sectio
 
 #### Definitions
 
-For definition of "congressional defense committees" as used in this section, see section 3 of of Pub. L. 117–263, set out as a note under section 101 of Title 10, Armed Forces.
+For definition of "congressional defense committees" as the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 101 of Title 10, Armed Forces, as made applicable by section 3 of of Pub. L. 117–263, which is listed in a table under section 101 of Title 10.
 

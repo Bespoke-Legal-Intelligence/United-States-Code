@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after October 2, 2013, the Secretary of State shall submit to theCommittee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a multiyear strategy that—
+&emsp;Not later than 180 days after October 2, 2013, the Secretary of State shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a multiyear strategy that—
 
 &emsp;&emsp;(A) identifies a path toward the adoption of necessary reforms that prioritize and reinforce the OAS's core competencies described in section 4(8);
 

@@ -52,5 +52,5 @@ Subsec. (c)(1). Pub. L. 115–41, §201(b), inserted "employees in senior execut
 
 #### Regulations
 
-Pub. L. 102–40, title II, §204, May 7, 1991, 105 Stat. 207, provided that: "The Secretary of Veterans Affairs shallprescribe regulations under subchapter V of chapter 74 of title 38, United States Code (as added by section 203), not later than 180 days after the date of the enactment of this Act \[May 7, 1991\]. Such regulations shall be published in the Federal Register for notice-and-comment not less than 30 days before the day on which they take effect."
+Pub. L. 102–40, title II, §204, May 7, 1991, 105 Stat. 207, provided that: "The Secretary of Veterans Affairs shall prescribe regulations under subchapter V of chapter 74 of title 38, United States Code (as added by section 203), not later than 180 days after the date of the enactment of this Act \[May 7, 1991\]. Such regulations shall be published in the Federal Register for notice-and-comment not less than 30 days before the day on which they take effect."
 

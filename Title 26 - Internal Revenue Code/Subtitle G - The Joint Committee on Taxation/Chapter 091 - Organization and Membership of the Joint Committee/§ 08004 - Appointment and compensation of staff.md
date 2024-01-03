@@ -14,5 +14,5 @@ Except as otherwise provided by law, the Joint Committee shall have power to app
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1907(c) of Pub. L. 94–455, set out as a note under section 8001 of this title.
+Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct.4, 1976, see section 1907(c) of Pub. L. 94–455, set out as a note under section 8001 of this title.
 

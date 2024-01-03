@@ -10,7 +10,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 &emsp;(3) that can feasibly be made available, as of the date of submission of the report or at any time during the next 15 years, for use under the 1934 Act \[47 U.S.C. 151 et seq.\] (other than for Federal Government stations under section 305 of the 1934 Act \[47 U.S.C. 305\]);
 
-&emsp;(4) the transfer of which (from Federal Government use) will not result in costs to the Federal Government, or losses of services or benefits to the public, that are excessive in relation to the benefits to the public that may be provided by non-Federal licensees; and
+&emsp;(4) the transfer of which (from Federal Government use) will not result in costs to theFederal Government, or losses of services or benefits to the public, that are excessive in relation to the benefits to the public that may be provided by non-Federal licensees; and
 
 &emsp;(5) that are most likely to have the greatest potential for productive uses and public benefits under the 1934 Act \[47 U.S.C. 151 et seq.\] if allocated for non-Federal use.
 
@@ -26,7 +26,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 &emsp;&emsp;(A) the bands of frequencies counted under this paragraph may not count toward more than one-half of the minimums required by paragraph (1) or (3) of this subsection;
 
-&emsp;&emsp;(B) a band of frequencies may not be counted under this paragraph unless the assignments of the band to Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305) are limited by geographic area, by time, or by other means so as to guarantee that the potential use to be made by such Federal Government stations is substantially less (as measured by geographicarea, time, or otherwise) than the potential use to be made by non-Federal stations; and
+&emsp;&emsp;(B) a band of frequencies may not be counted under this paragraph unless the assignments of the band to Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305) are limited by geographic area, by time, or by other means so as to guarantee that the potential use to be made by such Federal Government stations is substantially less (as measured by geographic area, time, or otherwise) than the potential use to be made by non-Federal stations; and
 
 &emsp;&emsp;(C) the operational sharing permitted under this paragraph shall be subject to the interference regulations prescribed by the Commission pursuant to section 305(a) of the 1934 Act \[47 U.S.C. 305(a)\] and to coordination procedures that the Commission and the Secretary shall jointly establish and implement to ensure against harmful interference.
 
@@ -116,7 +116,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (2) Public comment
 
-&emsp;The Secretary shall provide interested persons with the opportunity to submit, within 90days after the date of its publication, written comment on the preliminary report required by paragraph (1). The Secretary shall immediately transmit a copy of any such comment to the Commission.
+&emsp;The Secretary shall provide interested persons with the opportunity to submit, within 90 days after the date of its publication, written comment on the preliminary report required by paragraph (1). The Secretary shall immediately transmit a copy of any such comment to the Commission.
 
 #### (3) Comment and recommendations from Commission
 
@@ -156,7 +156,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (f) Additional reallocation report
 
-If the Secretary receives a notice from the Commission pursuant to section 3002(c)(5) of the Balanced Budget Act of 1997, the Secretary shall prepare and submit to the President, the Commission, and the Congress a report recommending for reallocation for use other than by Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305), bands of frequencies that are suitable for the licensees identified in the Commission's notice. The Commission shall, not later than one year after receipt of such report, prepare, submit to the President and the Congress, and implement, a plan for the immediate allocation and assignment of such frequencies under the 1934 Act \[47 U.S.C. 151 et seq.\] to incumbent licensees described in the Commission's notice.
+If the Secretary receives a notice from the Commission pursuant to section 3002(c)(5) of the Balanced Budget Act of 1997, the Secretary shallprepare and submit to the President, the Commission, and the Congress a report recommending for reallocation for use other than by Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305), bands of frequencies that are suitable for the licensees identified in the Commission's notice. The Commission shall, not later than one year after receipt of such report, prepare, submit to the President and the Congress, and implement, a plan for the immediate allocation and assignment of such frequencies under the 1934 Act \[47 U.S.C. 151 et seq.\] to incumbent licensees described in the Commission's notice.
 
 #### (g) Relocation of and spectrum sharing by Federal Government stations
 
@@ -176,7 +176,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section and section 928 of this title, the term "relocation or sharingcosts" means the costs incurred by a Federal entity in connection with the auction of spectrum frequencies or the sharing of spectrum frequencies (including the auction or a planned auction of the rights to use spectrum frequencies on a shared basis with such entity) in order to achieve comparable capability of systems as before the relocation or sharing arrangement. Such term includes, with respect to relocation or sharing, as the case may be—
+&emsp;&emsp;For purposes of this section and section 928 of this title, the term "relocation or sharing costs" means the costs incurred by a Federal entity in connection with the auction of spectrum frequencies or the sharing of spectrum frequencies (including the auction or a planned auction of the rights to use spectrum frequencies on a shared basis with such entity) in order to achieve comparable capability of systems as before the relocation or sharing arrangement. Such term includes, with respect to relocation or sharing, as the case may be—
 
 &emsp;&emsp;&emsp;(i) the costs of any modification or replacement of equipment, spares, associated ancillary equipment, software, facilities, operating manuals, training, or compliance with regulations that are attributable to relocation or sharing;
 
@@ -220,7 +220,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (6) Implementation of procedures
 
-&emsp;The NTIA shall take such actions as necessary to ensure the timely relocation of Federal entities' spectrum-related operations from frequencies described in paragraph (2) tofrequencies or facilities of comparable capability and to ensure the timely implementation of arrangements for the sharing of frequencies described in such paragraph. Upon a finding by the NTIA that a Federal entity has achieved comparable capability of systems, the NTIA shall terminate or limit the entity's authorization and notify the Commission that the entity's relocation has been completed or sharing arrangement has been implemented. The NTIA shall also terminate such entity's authorization if the NTIA determines that the entity has unreasonably failed to comply with the timeline for relocation or sharing submitted by the Director of the Office of Management and Budget under section 928(d)(2)(C) of this title.
+&emsp;The NTIA shall take such actions as necessary to ensure the timely relocation of Federal entities' spectrum-related operations from frequencies described in paragraph (2) to frequencies or facilities of comparable capability and to ensure the timely implementation of arrangements for the sharing of frequencies described in such paragraph. Upon a finding by the NTIA that a Federal entity has achieved comparable capability of systems, the NTIA shall terminate or limit the entity's authorization and notify the Commission that the entity's relocation has been completed or sharing arrangement has been implemented. The NTIA shall also terminate such entity's authorization if the NTIA determines that the entity has unreasonably failed to comply with the timeline for relocation or sharing submitted by the Director of the Office of Management and Budget under section 928(d)(2)(C) of this title.
 
 #### (h) Development and publication of relocation or sharing transition plans
 
@@ -300,7 +300,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (D) Regulations
 
-&emsp;&emsp;Not later than 180 days after February 22, 2012, the NTIA shall, after public notice andcomment and subject to approval by the Director of OMB, adopt regulations to govern the workings of the Technical Panel.
+&emsp;&emsp;Not later than 180 days after February 22, 2012, the NTIA shall, after public notice and comment and subject to approval by the Director of OMB, adopt regulations to govern the workings of the Technical Panel.
 
 #### (E) Certain requirements inapplicable
 

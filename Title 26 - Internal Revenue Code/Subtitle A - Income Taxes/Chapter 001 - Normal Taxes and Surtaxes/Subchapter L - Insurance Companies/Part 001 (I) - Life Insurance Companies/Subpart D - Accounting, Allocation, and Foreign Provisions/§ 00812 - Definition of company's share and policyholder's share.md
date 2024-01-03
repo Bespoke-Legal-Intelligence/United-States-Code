@@ -18,7 +18,7 @@ Another section 1084(b) of Pub. L. 105–34 amended sections 101 and 264 of this
 
 #### Prior Provisions
 
-A prior section 812, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 127; amended Pub. L. 87–858, §3(d)(1), Oct.23, 1962, 76 Stat. 1137; Pub. L. 88–571, §1(a), Sept. 2, 1964, 78 Stat. 857; Pub. L. 94–455, title VIII, §806(d)(1), title XIX, §1901(a)(99), Oct. 4, 1976, 90 Stat. 1598, 1781; Pub. L. 97–34, title II, §207(b), Aug. 13, 1981, 95 Stat. 225, related to operations loss deductions, prior to the general revision of this part by Pub. L. 98–369, §211(a).
+A prior section 812, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 127; amended Pub. L. 87–858, §3(d)(1), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–571, §1(a), Sept. 2, 1964, 78 Stat. 857; Pub. L. 94–455, title VIII, §806(d)(1), title XIX, §1901(a)(99), Oct. 4, 1976, 90 Stat. 1598, 1781; Pub. L. 97–34, title II, §207(b), Aug. 13, 1981, 95 Stat. 225, related to operations loss deductions, prior to the general revision of this part by Pub. L. 98–369, §211(a).
 
 Another prior section 812, act Aug. 16, 1954, ch. 736, §812, as added Mar. 13, 1956, ch. 83, §2, 70 Stat. 45, related to reserve and other policy liability deduction, prior to the general revision of this part by Pub. L. 86–69, §2(a).
 
@@ -60,7 +60,7 @@ Pub. L. 115–97, title I, §13518(c), Dec. 22, 2017, 131 Stat. 2148, provided t
 
 Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
 
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec.19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -94,5 +94,5 @@ Section applicable to taxable years beginning after Dec. 31, 1983, see section 2
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Commission an advisory board to be known as the "Technical Advisory Board for First Responder Interoperability".
+There is established within the Commission an advisory board to be known as the "TechnicalAdvisory Board for First Responder Interoperability".
 
 #### (b) Membership
 
@@ -40,7 +40,7 @@ There is established within the Commission an advisory board to be known as the 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), members of the Interoperability Board shallbe appointed for the life of the Interoperability Board.
+&emsp;&emsp;Except as provided in subparagraph (B), members of the Interoperability Board shall be appointed for the life of the Interoperability Board.
 
 #### (B) Removal for cause
 

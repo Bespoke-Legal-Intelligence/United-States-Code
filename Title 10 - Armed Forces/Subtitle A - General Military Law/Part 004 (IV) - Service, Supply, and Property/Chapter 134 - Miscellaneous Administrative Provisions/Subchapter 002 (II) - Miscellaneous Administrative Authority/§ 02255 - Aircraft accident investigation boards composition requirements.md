@@ -6,7 +6,7 @@ Required Membership of Boards.—Whenever the Secretary of a military department
 
 &emsp;(1) a majority of the members (or in the case of a board consisting of a single member, the member) is selected from units other than the mishap unit or a unit subordinate to the mishap unit; and
 
-&emsp;(2) in the case of a board consisting of more than one member, at least one member of the board is a member of the armed forces or an officer or an employee of the Department of Defense who possesses knowledge and expertise relevant to aircraft accident investigations.
+&emsp;(2) in the case of a board consisting of more than one member, at least one member of the board is a member of the armed forces or anofficer or an employee of the Department of Defense who possesses knowledge and expertise relevant to aircraft accident investigations.
 
 (b)
 

@@ -256,7 +256,81 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 &emsp;&emsp;In designating reporting standards under this paragraph, the Secretary shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Markup Language.
 
-(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996,110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284; Pub. L. 109–171, title VII, §7102(b)(2), Feb. 8, 2006, 120 Stat. 136; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–291, title VIII, §812(a), Dec. 8, 2010, 124 Stat. 3160; Pub. L. 112–96, title IV, §§4003(a), 4005(e), Feb. 22, 2012, 126 Stat. 195, 198.)
+(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284; Pub. L. 109–171, title VII, §7102(b)(2), Feb. 8, 2006, 120 Stat. 136; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–291, title VIII, §812(a), Dec. 8, 2010, 124 Stat. 3160; Pub. L. 112–96, title IV, §§4003(a), 4005(e), Feb. 22, 2012, 126 Stat. 195, 198; Pub. L. 118–5, div. C, title I, §§302, 304, June 3, 2023, 137 Stat. 34, 35.)
+
+#### Amendment of Section
+
+<i>Pub. L. 118–5, div. C, title I, §§302, 304, 305, June 3, 2023, 137 Stat. 34–36, provided that, effective Oct. 1, 2024, this section is amended by adding at the end the following:</i>
+
+#### <i>(e) Pilot projects for promoting accountability by measuring work outcomes</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>The Secretary shall carry out a pilot program under which the Secretary may select up to 5 States to which a grant is made under section 603(a) of this title for a fiscal year to negotiate performance benchmarks for work and family outcomes for recipients of assistance under the State program funded under this part, and programs funded with qualified State expenditures. The Secretary shall issue guidance on how States apply for participation in the pilot. The benchmarks shall include—</i>
+
+&emsp;&emsp;<i>(A) the percentage of work-eligible individuals under the State program funded under this part who are in unsubsidized employment during the 2nd quarter after exiting the program;</i>
+
+&emsp;&emsp;<i>(B) the level of earnings of such individuals in the 2nd and 4th quarters after exit; and</i>
+
+&emsp;&emsp;<i>(C) other indicators of family stability and well-being as established by the Secretary.</i>
+
+#### <i>(2) Level of performance benchmark</i>
+
+&emsp;<i>The Secretary and a State selected under paragraph (1) shall agree to the requisite level of per</i><i>formance on these benchmarks after developing baseline data in the State and comparative data in other States.</i>
+
+#### <i>(3) Failure of State to meet benchmark</i>
+
+&emsp;<i>If a State fails to meet a measured benchmark standard agreed to under paragraph (2) for 2 successive fiscal years, the State, in order to continue in the pilot shall enter into a plan with the Secretary to achieve the required level of performance or, if mutually agreed to, adjust the benchmark based on new information about the feasibility of meeting such benchmark.</i>
+
+#### <i>(4) Duration</i>
+
+&emsp;<i>The pilot under this subsection shall be in effect for 6 fiscal years, with one year to establish benchmark data and negotiate targets and five years to measure performance against the targets, and shall supersede the requirements under section 607 of this title for such fiscal years, notwithstanding any other provision of law.</i>
+
+#### <i>(5) Application of penalty for failure to reduce assistance for recipients refusing without good cause to work</i>
+
+&emsp;<i>For purposes of section 609(a)(14) of this title, a State operating a pilot must have a system for reducing the amount of assistance payable to a family if an individual refuses, without good cause (including for reasons described in 607(e)(2) of this title), to engage in any such activities as the State has required of such an individual. A State without such a system shall be considered to have failed to comply with the requirements of section 607(e) of this title for so long as the failure to comply continues.</i>
+
+#### <i>(6) Collection of performance data</i>
+
+&emsp;<i>Each State selected under paragraph (1), in consultation with the Secretary, shall collect and submit to the Secretary data on the performance of the State operating such a pilot program.</i>
+
+#### <i>(7) Reports</i>
+
+#### <i>(A) Initial report</i>
+
+&emsp;&emsp;<i>Not later than 12 months after June 3, 2023, the Secretary shall submit a report to Congress on the status of the program under this section.</i>
+
+#### <i>(B) Final report</i>
+
+&emsp;&emsp;<i>Not later than 12 months after the date on which the programs under this section have terminated, the Secretary shall submit a comprehensive report to Congress on outcomes achieved under such programs.</i>
+
+#### <i>(f) Reporting performance indicators</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>Each State, in consultation with the Secretary, shall collect and submit to the Secretary the information necessary for each indicator described in paragraph (2), for fiscal year 2025 and each fiscal year thereafter.</i>
+
+#### <i>(2) Indicators of performance</i>
+
+&emsp;<i>The indicators described in this paragraph for a fiscal year are the following:</i>
+
+&emsp;&emsp;<i>(A) The percentage of individuals who were work-eligible individuals as of the time of exit from the program, who are in unsubsidized employment during the second quarter after the exit.</i>
+
+&emsp;&emsp;<i>(B) The percentage of individuals who were work-eligible individuals who were in unsubsidized employment in the second quarter after the exit, who are also in unsubsidized employment during the fourth quarter after the exit.</i>
+
+&emsp;&emsp;<i>(C) The median earnings of individuals who were work-eligible individuals as of the time of exit from the program, who are in unsubsidized employment during the second quarter after the exit.</i>
+
+&emsp;&emsp;<i>(D) The percentage of individuals who have not attained 24 years of age, are attending high school or enrolled in an equivalency program, and are work-eligible individuals or were work-eligible individuals as of the time of exit from the program, who obtain a high school degree or its recognized equivalent while receiving assistance under the State program funded under this part or within 1 year after the exit.</i>
+
+#### <i>(3) Definition of exit</i>
+
+&emsp;<i>In paragraph (2), the term "exit" means, with respect to a State program funded under this part, ceases to receive assistance under the program funded by this part.</i>
+
+#### <i>(4) Regulations</i>
+
+&emsp;<i>In order to ensure nationwide comparability of data, the Secretary, after consultation with the Secretary of Labor and with States, shall issue regulations governing the reporting of performance indicators under this subsection.</i>
+
+<i>See 2023 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -274,6 +348,10 @@ A prior section 611, act Aug. 14, 1935, ch. 531, title IV, §411, as added Dec. 
 
 #### Amendments
 
+<b>2023</b>—Subsec. (e). Pub. L. 118–5, §302, added subsec. (e).
+
+Subsec. (f). Pub. L. 118–5, §304, added subsec. (f).
+
 <b>2012</b>—Subsec. (a)(1)(A)(ii)(III). Pub. L. 112–96, §4005(e), struck out second closing parenthesis after "1972".
 
 Subsec. (d). Pub. L. 112–96, §4003(a), added subsec. (d).
@@ -284,7 +362,7 @@ Subsec. (d). Pub. L. 112–96, §4003(a), added subsec. (d).
 
 <b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–171, §7102(b)(2)(A), inserted "or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)" before colon at end of introductory provisions.
 
-Subsec. (a)(1)(B)(ii). Pub. L. 109–171, §7102(b)(2)(B), inserted "and any other State programs funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)" after "this part".
+Subsec. (a)(1)(B)(ii). Pub. L. 109–171, §7102(b)(2)(B), inserted "and any other State programs funded withqualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)" after "this part".
 
 <b>1999</b>—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(4) \[title VIII, §804(a)(1)\], in introductory provisions, inserted "(except for information relating to activities carried out under section 603(a)(5) of this title)" after "part".
 
@@ -320,6 +398,10 @@ Pub. L. 105–33, §5001(e)(6), inserted before period at end ", and shall cons
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2023 Amendment
+
+Amendment by Pub. L. 118–5 effective Oct. 1, 2024, see section 305 of Pub. L. 118–5, set out as a note under section 607 of this title.
+
 #### Effective Date of 2012 Amendment; Regulations
 
 Pub. L. 112–96, title IV, §4003(b), Feb. 22, 2012, 126 Stat. 196, provided that:
@@ -344,7 +426,7 @@ Amendment by Pub. L. 109–171 effective Oct. 1, 2006, see section 7102(d) of Pu
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 5507 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996,Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
+Amendment by section 5507 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 
 Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the provision of Pub. L. 104–193 amended at the time the provision became law, see section 5518(d) of Pub. L. 105–33, set out as a note under section 862a of Title 21, Food and Drugs.
 

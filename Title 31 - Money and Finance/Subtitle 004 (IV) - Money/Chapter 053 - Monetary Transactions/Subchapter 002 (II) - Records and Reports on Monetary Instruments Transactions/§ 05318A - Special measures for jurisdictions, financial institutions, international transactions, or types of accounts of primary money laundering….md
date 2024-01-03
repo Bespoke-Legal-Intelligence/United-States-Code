@@ -66,7 +66,7 @@ Form of records and reports.—Such records and reports shall be made and retain
 
 &emsp;&emsp;&emsp;(ii) the legal capacity in which a participant in any transaction is acting;
 
-&emsp;&emsp;&emsp;(iii) the identity of the beneficial owner of the funds involved in any transaction, in accordance with such procedures as the Secretary determines to be reasonable andpracticable to obtain and retain the information; and
+&emsp;&emsp;&emsp;(iii) the identity of the beneficial owner of the funds involved in any transaction, in accordance with such procedures as the Secretary determines to be reasonable and practicable to obtain and retain the information; and
 
 &emsp;&emsp;&emsp;(iv) a description of any transaction.
 
@@ -116,7 +116,7 @@ Jurisdictional factors.—In the case of a particular jurisdiction—
 
 &emsp;&emsp;&emsp;(iii) the substance and quality of administration of the bank supervisory and counter-money laundering laws of that jurisdiction;
 
-&emsp;&emsp;&emsp;(iv) the relationship between the volume of financial transactions occurring in that jurisdiction and the size of the economy of the jurisdiction;
+&emsp;&emsp;&emsp;(iv) the relationship between the volume of financial transactions occurring in thatjurisdiction and the size of the economy of the jurisdiction;
 
 &emsp;&emsp;&emsp;(v) the extent to which that jurisdiction is characterized as an offshore banking or secrecy haven by credible international organizations or multilateral expert groups;
 
@@ -176,7 +176,7 @@ Other terms.—The Secretary may, by regulation, further define the terms in par
 
 (f)
 
-Classified Information.—In any judicial review of a finding of the existence of a primary money laundering concern, or of the requirement for 1 or more special measures with respect to a primary money laundering concern, made under this section, if the designation or imposition, or both, were based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.),<sup>2</sup> such information may be submitted bythe Secretary to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review of any finding made or any requirement imposed under this section.
+Classified Information.—In any judicial review of a finding of the existence of a primary money laundering concern, or of the requirement for 1 or more special measures with respect to a primary money laundering concern, made under this section, if the designation or imposition, or both, were based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.),<sup>2</sup> such information may be submitted by the Secretary to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review of any finding made or any requirement imposed under this section.
 
 (Added Pub. L. 107–56, title III, §311(a), Oct. 26, 2001, 115 Stat. 298; amended Pub. L. 108–177, title III, §376, Dec. 13, 2003, 117 Stat. 2630; Pub. L. 108–458, title VI, §6203(e), (f), Dec. 17, 2004, 118 Stat. 3747; Pub. L. 109–293, title V, §501, Sept. 30, 2006, 120 Stat. 1350.)
 

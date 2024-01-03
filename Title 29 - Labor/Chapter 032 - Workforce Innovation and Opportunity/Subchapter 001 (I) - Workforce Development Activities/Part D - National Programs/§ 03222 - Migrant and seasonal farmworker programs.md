@@ -34,7 +34,7 @@ To be eligible to receive a grant or enter into a contract under this section, a
 
 #### (4) Administration
 
-&emsp;Grants and contracts awarded under this section shall be centrally administered by theDepartment of Labor and competitively awarded by the Secretary using procedures consistent with standard Federal Government competitive procurement policies.
+&emsp;Grants and contracts awarded under this section shall be centrally administered by the Department of Labor and competitively awarded by the Secretary using procedures consistent with standard Federal Government competitive procurement policies.
 
 #### (d) Authorized activities
 

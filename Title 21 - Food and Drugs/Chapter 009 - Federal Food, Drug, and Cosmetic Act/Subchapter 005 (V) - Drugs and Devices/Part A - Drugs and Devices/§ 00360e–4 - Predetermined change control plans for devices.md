@@ -12,7 +12,7 @@
 
 #### (3) Scope
 
-&emsp;The Secretary may require that a change control plan include labeling required for safe and effective use of the device as such device changes pursuant to such plan, notification requirements if the device does not function as intended pursuant to such plan, and performance requirements for changes made under the plan.
+&emsp;The Secretary may require that a change control plan include labeling required for safeand effective use of the device as such device changes pursuant to such plan, notification requirements if the device does not function as intended pursuant to such plan, and performance requirements for changes made under the plan.
 
 #### (b) Cleared devices
 

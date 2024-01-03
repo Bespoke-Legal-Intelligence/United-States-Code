@@ -44,7 +44,7 @@ For purposes of this section, the term "qualified first responder service" means
 
 #### Prior Provisions
 
-A prior section, added Pub. L. 111–5, div. B, title III, §3001(a)(15)(A), Feb. 17, 2009, 123 Stat. 465; amended Pub. L. 111–144, §3(b)(5)(B), Mar. 2, 2010, 124 Stat. 44, related to COBRA premium assistance, prior to repeal by Pub. L. 115–141, div. U, title IV, §401(d)(7)(C), Mar. 23, 2018, 132 Stat. 1212.
+A prior section, added Pub. L. 111–5, div. B, title III, §3001(a)(15)(A), Feb. 17, 2009, 123 Stat. 465; amended Pub.L. 111–144, §3(b)(5)(B), Mar. 2, 2010, 124 Stat. 44, related to COBRA premium assistance, prior to repeal by Pub. L. 115–141, div. U, title IV, §401(d)(7)(C), Mar. 23, 2018, 132 Stat. 1212.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

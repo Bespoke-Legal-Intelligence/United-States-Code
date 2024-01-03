@@ -94,7 +94,7 @@ The taxable income of an S corporation shall be computed in the same manner as i
 
 &emsp;Sections 1367(a)(2)(D) and 1371(c)(1) shall not apply with respect to any increase in the tax imposed by reason of this subsection.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1676; amended Pub. L. 98–369, div. A, title VII, §721(a), (b)(1), (p), July 18, 1984, 98 Stat. 966, 970; Pub. L. 99–514, title V, §511(d)(2)(C), title VI, §632(b), title VII, §701(e)(4)(J), Oct. 22, 1986, 100 Stat. 2249, 2277, 2343; Pub. L. 100–203, title X, §10227(a), Dec. 22, 1987, 101 Stat. 1330–416; Pub. L. 100–647, title I, §1006(f)(7), title II, §2004(n), Nov. 10, 1988, 102 Stat. 3407, 3608; Pub. L. 109–135, title IV, §411(a), Dec. 21, 2005, 119 Stat. 2636.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1676; amended Pub. L. 98–369, div. A, title VII, §721(a), (b)(1), (p), July 18, 1984, 98 Stat. 966, 970; Pub. L. 99–514, title V, §511(d)(2)(C), title VI, §632(b), title VII, §701(e)(4)(J), Oct. 22, 1986, 100 Stat. 2249, 2277, 2343; Pub. L. 100–203, title X, §10227(a), Dec. 22, 1987, 101 Stat. 1330–416; Pub. L. 100–647, title I, §1006(f)(7), title II, §2004(n), Nov.10, 1988, 102 Stat. 3407, 3608; Pub. L. 109–135, title IV, §411(a), Dec. 21, 2005, 119 Stat. 2636.)
 
 #### <b>Editorial Notes</b>
 
@@ -132,7 +132,7 @@ Pub. L. 109–135, title IV, §411(b), Dec. 21, 2005, 119 Stat. 2636, provided t
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1006(f)(7) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L.99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1006(f)(7) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Amendment by section 2004(n) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 

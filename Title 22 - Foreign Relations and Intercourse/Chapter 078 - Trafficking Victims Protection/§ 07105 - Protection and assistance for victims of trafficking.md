@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of State and the Administrator of the United States Agency for International Development, in consultation withappropriate nongovernmental organizations, shall establish and carry out programs and initiatives in foreign countries to assist in the safe integration, reintegration, or resettlement, as appropriate, of victims of trafficking. Such programs and initiatives shall be designed to meet the appropriate assistance needs of such persons and their children, as identified by the Task Force, and shall be carried out in a manner which takes into account the cross-border, regional, and transnational aspects of trafficking in persons. In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:
+&emsp;The Secretary of State and the Administrator of the United States Agency for International Development, in consultation with appropriate nongovernmental organizations, shall establish and carry out programs and initiatives in foreign countries to assist in the safe integration, reintegration, or resettlement, as appropriate, of victims of trafficking. Such programs and initiatives shall be designed to meet the appropriate assistance needs of such persons and their children, as identified by the Task Force, and shall be carried out in a manner which takes into account the cross-border, regional, and transnational aspects of trafficking in persons. In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:
 
 &emsp;&emsp;(A) Support for local in-country nongovernmental organization-operated hotlines, culturally and linguistically appropriate protective shelters, and regional and international nongovernmental organization networks and databases on trafficking, including support to assist nongovernmental organizations in establishing service centers and systems that are mobile and extend beyond large cities.
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) Education and training for trafficked women and girls.
 
-&emsp;&emsp;(D) The safe integration or reintegration of trafficked individuals into an appropriate community or family, with full respect for the wishes, dignity, and safety of the trafficked individual.
+&emsp;&emsp;(D) The safe integration or reintegration of trafficked individuals into an appropriate community or family, with full respect forthe wishes, dignity, and safety of the trafficked individual.
 
 &emsp;&emsp;(E) Support for developing or increasing programs to assist families of victims in locating, repatriating, and treating their trafficked family members, in assisting the voluntary repatriation of these family members or their integration or resettlement into appropriate communities, and in providing them with treatment.
 
@@ -102,7 +102,7 @@
 
 #### (i) Determination
 
-&emsp;&emsp;&emsp;Upon receiving credible information that a child described in subparagraph (C)(ii)(I) who is seeking assistance under this paragraph may have been subjected to a severe form of trafficking in persons, the Secretary of Health and Human Services shall promptly determine if the child is eligible for interim assistance under this paragraph. The Secretary shall have exclusiveauthority to make interim eligibility determinations under this clause. A determination of interim eligibility under this clause shall not affect the independent determination whether a child is a victim of a severe form of trafficking.
+&emsp;&emsp;&emsp;Upon receiving credible information that a child described in subparagraph (C)(ii)(I) who is seeking assistance under this paragraph may have been subjected to a severe form of trafficking in persons, the Secretary of Health and Human Services shall promptly determine if the child is eligible for interim assistance under this paragraph. The Secretary shall have exclusive authority to make interim eligibility determinations under this clause. A determination of interim eligibility under this clause shall not affect the independent determination whether a child is a victim of a severe form of trafficking.
 
 #### (ii) Notification
 
@@ -202,7 +202,7 @@ Not later than 180 days after October 28, 2000, the Attorney General, the Secret
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a Federal law enforcement official files an application stating that an alien is a victim of a severe form of trafficking and may be a potential witness to such trafficking, the Secretary of Homeland Security may permit the alien to remain in the United States to facilitate the investigation and prosecution of those responsible for such crime.
+&emsp;&emsp;&emsp;If a Federal law enforcement official files an application stating that an alien is a victim of a severe form of trafficking and may be a potential witness to such trafficking, the Secretary of Homeland Security may permit the alien to remain in theUnited States to facilitate the investigation and prosecution of those responsible for such crime.
 
 #### (ii) Safety
 
@@ -242,7 +242,7 @@ Not later than 180 days after October 28, 2000, the Attorney General, the Secret
 
 &emsp;&emsp;&emsp;(ii) specific trafficking-in-persons briefings for all ambassadors and deputy chiefs of mission before such individuals depart for their posts;
 
-&emsp;&emsp;&emsp;(iii) at least annual reminders to all personnel referred to in clauses (i) and (ii), including appropriate personnel from other Federal departments and agencies, at eachdiplomatic or consular post of the Department of State located outside the United States of—
+&emsp;&emsp;&emsp;(iii) at least annual reminders to all personnel referred to in clauses (i) and (ii), including appropriate personnel from other Federal departments and agencies, at each diplomatic or consular post of the Department of State located outside the United States of—
 
 &emsp;&emsp;&emsp;&emsp;(I) key problems, threats, methods, and warning signs of trafficking in persons specific to the country or jurisdiction in which each such post is located; and
 
@@ -364,7 +364,7 @@ Subsec. (c)(4). Pub. L. 110–457, §212(b), inserted ", the Department of Home
 
 Subsec. (f). Pub. L. 110–457, §213(a)(1), added subsec. (f) relating to assistance for United States citizens and lawful permanent residents.
 
-<b>2006</b>—Subsec. (b)(1)(E). Pub. L. 109–162, §804(b)(1), (2), which directed amendment of cl. (i) by inserting "andthe Secretary of Homeland Security" after "Attorney General" in introductory provisions and in subcl. (II)(bb) and the amendment of cl. (ii) by inserting "Secretary of Homeland Security" after "Attorney General", could not be executed because the words "Attorney General" did not appear subsequent to the amendment by Pub. L. 109–162, §804(a)(1). See below.
+<b>2006</b>—Subsec. (b)(1)(E). Pub. L. 109–162, §804(b)(1), (2), which directed amendment of cl. (i) by inserting "and the Secretary of Homeland Security" after "Attorney General" in introductory provisions and in subcl. (II)(bb) and the amendment of cl. (ii) by inserting "Secretary of Homeland Security" after "Attorney General", could not be executed because the words "Attorney General" did not appear subsequent to the amendment by Pub. L. 109–162, §804(a)(1). See below.
 
 Pub. L. 109–162, §804(a)(1), substituted "Secretary of Homeland Security" for "Attorney General" wherever appearing.
 
@@ -384,7 +384,7 @@ Pub. L. 109–162, §804(a)(1) substituted "Secretary of Homeland Security" for 
 
 Subsec. (b)(1)(A). Pub. L. 108–193, §4(a)(2)(A), inserted ", or an alien classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8," after "in persons".
 
-Subsec. (b)(1)(B). Pub. L. 108–193, §4(a)(2)(B), inserted "and aliens classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8," after "United States," and inserted sentence at end relating to nonentitlement programs funded by the Secretary of Health and Human Services.
+Subsec. (b)(1)(B). Pub. L. 108–193, §4(a)(2)(B), inserted "and aliens classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8," after "United States," andinserted sentence at end relating to nonentitlement programs funded by the Secretary of Health and Human Services.
 
 Subsec. (b)(1)(D). Pub. L. 108–193, §6(a)(2), struck out subpar. (D) which related to annual reports on the number of persons receiving benefits or services under paragraph (1).
 

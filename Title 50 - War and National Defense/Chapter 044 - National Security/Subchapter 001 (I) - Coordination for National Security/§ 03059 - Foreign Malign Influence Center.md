@@ -104,5 +104,5 @@ Subsecs. (e), (f). Pub. L. 117–263, §6307(b), added subsec. (e) and redesigna
 
 #### Reference to Foreign Malign Influence Response Center
 
-Pub. L. 117–263, div. F, title LXIII, §6307(a)(4), Dec. 23, 2022, 136 Stat. 3505, provided that: "Any reference in law, regulation, map, document, paper, or other record of the United States to the 'Foreign Malign InfluenceResponse Center' shall be deemed to be a reference to the Foreign Malign Influence Center."
+Pub. L. 117–263, div. F, title LXIII, §6307(a)(4), Dec. 23, 2022, 136 Stat. 3505, provided that: "Any reference in law, regulation, map, document, paper, or other record of the United States to the 'Foreign Malign Influence Response Center' shall be deemed to be a reference to the Foreign Malign Influence Center."
 

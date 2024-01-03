@@ -4,7 +4,7 @@ Whoever, without the consent of the owner, charterer, master, or person in comma
 
 Whoever, with like intent, having boarded, entered or secreted himself aboard a vessel or aircraft at any place within or without the jurisdiction of the United States, remains aboard after the vessel or aircraft has left such place and is thereon at any place within the jurisdiction of the United States; or
 
-Whoever, with intent to obtain a ride or transportation, boards or enters any aircraft owned or operated by the United States without the consent of the person in command or other duly authorized officer or agent—
+Whoever, with intent to obtain a ride or transportation, boards or enters any aircraft owned or operated by the United States without theconsent of the person in command or other duly authorized officer or agent—
 
 &emsp;(1) shall be fined under this title, imprisoned not more than 5 years, or both;
 

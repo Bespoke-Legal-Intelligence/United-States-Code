@@ -90,7 +90,7 @@ The Secretary of Health and Human Services (referred to in this section as the "
 
 &emsp;In awarding grants under this section, the Secretary shall give preference to eligible entities that meet any or all of the following criteria:
 
-&emsp;&emsp;(A) The eligible entity is a critical access hospital (as defined in section 1395x(mm)(1) of this title), a low volume hospital (as defined in section 1395ww(d)(12)(C)(i) of such title), a sole community hospital (as defined in section 1395ww(d)(5)(D)(iii) of such title),or a hospital that receives disproportionate share hospital payments under section 1395ww(d)(5)(F) of this title.
+&emsp;&emsp;(A) The eligible entity is a critical access hospital (as defined in section 1395x(mm)(1) of this title), a low volume hospital (as defined in section 1395ww(d)(12)(C)(i) of such title), a sole community hospital (as defined in section 1395ww(d)(5)(D)(iii) of such title), or a hospital that receives disproportionate share hospital payments under section 1395ww(d)(5)(F) of this title.
 
 &emsp;&emsp;(B) The eligible entity is located in a State with an age-adjusted rate of drug overdose deaths that is above the national overdose mortality rate, as determined by the Director of the Centers for Disease Control and Prevention, or under the jurisdiction of an Indian Tribe with an age-adjusted rate of drug overdose deaths that is above the national overdose mortality rate, as determined through appropriate mechanisms as determined by the Secretary in consultation with Indian Tribes.
 

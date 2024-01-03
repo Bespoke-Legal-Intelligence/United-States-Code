@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) identify, investigate, and resolve complaints that—
 
-&emsp;&emsp;&emsp;(i) are made by, or on behalf of, residents, including residents with limited or no decisionmaking capacity and who have no known legal representative, and if such a resident is unable to communicate consent for an Ombudsman to work on a complaint directly involving the resident, the Ombudsman shall seek evidence to indicate what outcome the resident would have communicated (and, in the absence ofevidence to the contrary, shall assume that the resident wishes to have the resident's health, safety, welfare, and rights protected) and shall work to accomplish that outcome; and
+&emsp;&emsp;&emsp;(i) are made by, or on behalf of, residents, including residents with limited or no decisionmaking capacity and who have no known legal representative, and if such a resident is unable to communicate consent for an Ombudsman to work on a complaint directly involving the resident, the Ombudsman shall seek evidence to indicate what outcome the resident would have communicated (and, in the absence of evidence to the contrary, shall assume that the resident wishes to have the resident's health, safety, welfare, and rights protected) and shall work to accomplish that outcome; and
 
 &emsp;&emsp;&emsp;(ii) relate to action, inaction, or decisions, that may adversely affect the health, safety, welfare, or rights of the residents (including the welfare and rights of the residents with respect to the appointment and activities of guardians and representative payees), of—
 
@@ -78,7 +78,7 @@
 
 #### (B) Duties
 
-&emsp;&emsp;An individual so designated shall, in accordance with the policies and procedures established by the Office and the State agency—
+&emsp;&emsp;An individual so designated shall, in accordance with the policies and proceduresestablished by the Office and the State agency—
 
 &emsp;&emsp;&emsp;(i) provide services to protect the health, safety, welfare <sup>1</sup> and rights of residents;
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(vi) support, actively encourage, and assist in the development of resident and family councils;
 
-&emsp;&emsp;&emsp;(vii) identify, investigate, and resolve complaints described in clause (iii) that are made by or on behalf of residents with limited or no decisionmaking capacity and who have no known legal representative, and if such a resident is unable to communicate consent for an Ombudsman to work on a complaint directly involving the resident, the Ombudsman shall seek evidenceto indicate what outcome the resident would have communicated (and, in the absence of evidence to the contrary, shall assume that the resident wishes to have the resident's health, safety, welfare, and rights protected) and shall work to accomplish that outcome; and
+&emsp;&emsp;&emsp;(vii) identify, investigate, and resolve complaints described in clause (iii) that are made by or on behalf of residents with limited or no decisionmaking capacity and who have no known legal representative, and if such a resident is unable to communicate consent for an Ombudsman to work on a complaint directly involving the resident, the Ombudsman shall seek evidence to indicate what outcome the resident would have communicated (and, in the absence of evidence to the contrary, shall assume that the resident wishes to have the resident's health, safety, welfare, and rights protected) and shall work to accomplish that outcome; and
 
 &emsp;&emsp;&emsp;(viii) carry out other activities that the Ombudsman determines to be appropriate.
 

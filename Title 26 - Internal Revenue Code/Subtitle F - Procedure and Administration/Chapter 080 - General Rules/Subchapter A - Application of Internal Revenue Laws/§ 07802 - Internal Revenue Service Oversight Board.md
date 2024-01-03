@@ -38,7 +38,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 &emsp;&emsp;&emsp;(vii) The needs and concerns of small businesses.
 
-> &emsp;&emsp;In the aggregate, the members of the Oversight Board described in paragraph (1)(A) should collectively bring to bear expertise in all of the areas described in the preceding sentence.
+> &emsp;&emsp;In the aggregate, the members of the Oversight Board described in paragraph (1)(A)should collectively bring to bear expertise in all of the areas described in the preceding sentence.
 
 #### (B) Terms
 
@@ -96,7 +96,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (4) Quorum
 
-&emsp;Five members of the Oversight Board shall constitute a quorum. A majority of memberspresent and voting shall be required for the Oversight Board to take action.
+&emsp;Five members of the Oversight Board shall constitute a quorum. A majority of members present and voting shall be required for the Oversight Board to take action.
 
 #### (5) Removal
 
@@ -118,7 +118,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 &emsp;&emsp;This paragraph shall not be construed—
 
-&emsp;&emsp;&emsp;(i) to affect any other immunities and protections that may be available to such member under applicable law with respect to such transactions;
+&emsp;&emsp;&emsp;(i) to affect any other immunities and protections that may be available to suchmember under applicable law with respect to such transactions;
 
 &emsp;&emsp;&emsp;(ii) to affect any other right or remedy against the United States under applicable law; or
 
@@ -308,7 +308,7 @@ Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representativeschanged to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 1998 Amendment
 

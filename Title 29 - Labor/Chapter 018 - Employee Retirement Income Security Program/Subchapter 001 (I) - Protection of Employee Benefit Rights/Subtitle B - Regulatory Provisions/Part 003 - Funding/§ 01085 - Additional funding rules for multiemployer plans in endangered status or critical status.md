@@ -146,7 +146,7 @@ For purposes of this section—
 
 #### (v) Notice of projection to be in critical status in a future plan year
 
-&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A)(i) that a multiemployer plan will be in critical status for any of 5 succeeding plan years (but not for the current plan year) and the plan sponsor of such plan has not made an election to be in critical status for the plan year under paragraph (4), the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the projected critical status to the Pension Benefit Guaranty Corporation.
+&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A)(i) that a multiemployer plan will be in critical status for any of 5succeeding plan years (but not for the current plan year) and the plan sponsor of such plan has not made an election to be in critical status for the plan year under paragraph (4), the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the projected critical status to the Pension Benefit Guaranty Corporation.
 
 #### (4) Election to be in critical status
 
@@ -342,7 +342,7 @@ For purposes of this section—
 
 &emsp;In any case in which a multiemployer plan is in critical status for a plan year, the plan sponsor, in accordance with this subsection—
 
-&emsp;&emsp;(A) shall adopt a rehabilitation plan not later than 240 days following the required date for the actuarial certification of critical status under subsection (b)(3)(A), and
+&emsp;&emsp;(A) shall adopt a rehabilitation plan not later than 240 days following the requireddate for the actuarial certification of critical status under subsection (b)(3)(A), and
 
 &emsp;&emsp;(B) within 30 days after the adoption of the rehabilitation plan—
 
@@ -478,7 +478,7 @@ For purposes of this section—
 
 #### (A) Imposition of surcharge
 
-&emsp;&emsp;Each employer otherwise obligated to make contributions for the initial critical year shall be obligated to pay to the plan forsuch year a surcharge equal to 5 percent of the contributions otherwise required under the applicable collective bargaining agreement (or other agreement pursuant to which the employer contributes). For each succeeding plan year in which the plan is in critical status for a consecutive period of years beginning with the initial critical year, the surcharge shall be 10 percent of the contributions otherwise so required.
+&emsp;&emsp;Each employer otherwise obligated to make contributions for the initial critical year shall be obligated to pay to the plan for such year a surcharge equal to 5 percent of the contributions otherwise required under the applicable collective bargaining agreement (or other agreement pursuant to which the employer contributes). For each succeeding plan year in which the plan is in critical status for a consecutive period of years beginning with the initial critical year, the surcharge shall be 10 percent of the contributions otherwise so required.
 
 #### (B) Enforcement of surcharge
 
@@ -746,7 +746,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(IV) information as to the rights and remedies of plan participants and beneficiaries,
 
-&emsp;&emsp;&emsp;&emsp;(V) if applicable, a statement describing the appointment of a retiree representative, the date of appointment ofsuch representative, identifying information about the retiree representative (including whether the representative is a plan trustee), and how to contact such representative, and
+&emsp;&emsp;&emsp;&emsp;(V) if applicable, a statement describing the appointment of a retiree representative, the date of appointment of such representative, identifying information about the retiree representative (including whether the representative is a plan trustee), and how to contact such representative, and
 
 &emsp;&emsp;&emsp;&emsp;(VI) information on how to contact the Department of the Treasury for further information and assistance where appropriate.
 
@@ -784,7 +784,7 @@ For purposes of this section—
 
 #### (iv) Agency review
 
-&emsp;&emsp;&emsp;In evaluating whether the plan sponsor has met the criteria specified in clause (ii) of subparagraph (C), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall review the plan sponsor's consideration of factors under such clause.
+&emsp;&emsp;&emsp;In evaluating whether the plan sponsor has met the criteria specified in clause (ii) of subparagraph (C), the Secretary of theTreasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall review the plan sponsor's consideration of factors under such clause.
 
 #### (v) Standard for accepting plan sponsor determinations
 
@@ -798,7 +798,7 @@ For purposes of this section—
 
 #### (ii) Administration of vote
 
-&emsp;&emsp;&emsp;Not later than 30 days after approval of the suspension by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, under subparagraph (G), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall administer a vote of participants andbeneficiaries of the plan. Except as provided in clause (v), the suspension shall go into effect following the vote unless a majority of all participants and beneficiaries of the plan vote to reject the suspension. The plan sponsor may submit a new suspension application to the Secretary of the Treasury for approval in any case in which a suspension is prohibited from taking effect pursuant to a vote under this subparagraph.
+&emsp;&emsp;&emsp;Not later than 30 days after approval of the suspension by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, under subparagraph (G), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall administer a vote of participants and beneficiaries of the plan. Except as provided in clause (v), the suspension shall go into effect following the vote unless a majority of all participants and beneficiaries of the plan vote to reject the suspension. The plan sponsor may submit a new suspension application to the Secretary of the Treasury for approval in any case in which a suspension is prohibited from taking effect pursuant to a vote under this subparagraph.
 
 #### (iii) Ballots
 
@@ -904,7 +904,7 @@ For purposes of this section—
 
 &emsp;&emsp;Effective on the date the notice of certification of the plan's critical status for the initial critical year under subsection (b)(3)(D) is sent, and notwithstanding section 1054(g) of this title, the plan shall not pay—
 
-&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title) occurs after the date such notice is sent,
+&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participantor beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title) occurs after the date such notice is sent,
 
 &emsp;&emsp;&emsp;(ii) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
@@ -958,7 +958,7 @@ For purposes of this section—
 
 #### (h) Expedited resolution of plan sponsor decisions
 
-If, within 60 days of the due date for adoption of a funding improvement plan under subsection (c) or a rehabilitation plan under subsection (e), the plan sponsor of a plan in endangered status or a plan in critical status has not agreed on a funding improvement plan or rehabilitation plan, then any member of the board or group that constitutes the plan sponsor may require that the plan sponsor enter into an expedited dispute resolution procedure for the development and adoption of a funding improvement plan or rehabilitation plan.
+If, within 60 days of the due date for adoption of a funding improvement plan under subsection\(c) or a rehabilitation plan under subsection (e), the plan sponsor of a plan in endangered status or a plan in critical status has not agreed on a funding improvement plan or rehabilitation plan, then any member of the board or group that constitutes the plan sponsor may require that the plan sponsor enter into an expedited dispute resolution procedure for the development and adoption of a funding improvement plan or rehabilitation plan.
 
 #### (i) Nonbargained participation
 
@@ -968,7 +968,7 @@ If, within 60 days of the due date for adoption of a funding improvement plan un
 
 #### (2) Nonbargained employees only
 
-&emsp;In the case of an employer that contributes to a multiemployer plan only with respect to employees who are not covered by a collective bargaining agreement, this section shall be applied as if the employer were the bargainingparty, and its participation agreement with the plan were a collective bargaining agreement with a term ending on the first day of the plan year beginning after the employer is provided the schedule or schedules described in subsections (c) and (e).
+&emsp;In the case of an employer that contributes to a multiemployer plan only with respect to employees who are not covered by a collective bargaining agreement, this section shall be applied as if the employer were the bargaining party, and its participation agreement with the plan were a collective bargaining agreement with a term ending on the first day of the plan year beginning after the employer is provided the schedule or schedules described in subsections (c) and (e).
 
 #### (j) Definitions; actuarial method
 
@@ -1042,7 +1042,7 @@ The enactment of the Pension Protection Act of 2006, referred to in subsec. (e)(
 
 #### Prior Provisions
 
-A prior section 1085, Pub. L. 93–406, title I, §305, Sept. 2, 1974, 88 Stat. 873, related to alternative minimum funding standard, prior to repeal by Pub. L. 109–280, title I, §101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
+A prior section 1085, Pub. L. 93–406, title I, §305, Sept. 2, 1974, 88 Stat. 873, related to alternative minimumfunding standard, prior to repeal by Pub. L. 109–280, title I, §101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
 
 #### Amendments
 
@@ -1150,7 +1150,7 @@ Amendment by section 103(a) of Pub. L. 113–235 applicable with respect to plan
 
 Amendment by section 104(a) of Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31, 2014, see section 104(c) of div. O of Pub. L. 113–235, set out as a note under section 432 of Title 26, Internal Revenue Code.
 
-Amendment by section 105(a) of Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31,2014, see section 105(c) of div. O of Pub. L. 113–235, set out as a note under section 432 of Title 26, Internal Revenue Code.
+Amendment by section 105(a) of Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31, 2014, see section 105(c) of div. O of Pub. L. 113–235, set out as a note under section 432 of Title 26, Internal Revenue Code.
 
 Amendment by section 106(a) of Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31, 2014, see section 106(c) of div. O of Pub. L. 113–235, set out as a note under section 432 of Title 26, Internal Revenue Code.
 

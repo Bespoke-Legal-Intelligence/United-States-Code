@@ -2,7 +2,7 @@
 
 (a) Subject to subsection (b), nothing in this subchapter shall affect the authority of any management official of the Department, in accordance with applicable law—
 
-&emsp;(1) to determine the mission, budget, organization, and internal security practices of theDepartment, and the number of individuals in the Service or in the Department;
+&emsp;(1) to determine the mission, budget, organization, and internal security practices of the Department, and the number of individuals in the Service or in the Department;
 
 &emsp;(2) to hire, assign, direct, lay off, and retain individuals in the Service or in the Department, to suspend, remove, or take other disciplinary action against such individuals, and to determine the number of members of the Service to be promoted and to remove the name of or delay the promotion of any member in accordance with regulations prescribed under section 4005(b) of this title;
 

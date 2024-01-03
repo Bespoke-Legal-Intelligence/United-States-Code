@@ -10,7 +10,7 @@ In this subtitle, the following definitions shall apply:
 
 #### (2) 500-year floodplain
 
-&emsp;The term "500-year floodplain" means that area which is subject to inundation from aflood having a 0.2-percent chance of being equaled or exceeded in any given year.
+&emsp;The term "500-year floodplain" means that area which is subject to inundation from a flood having a 0.2-percent chance of being equaled or exceeded in any given year.
 
 #### (3) Administrator
 

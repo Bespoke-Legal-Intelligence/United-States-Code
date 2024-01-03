@@ -2,7 +2,7 @@
 
 #### (a) Conservation measures; resources
 
-(1) The Administrator shall acquire such resources through conservation, implement allsuch conservation measures, and acquire such renewable resources which are installed by a residential or small commercial consumer to reduce load, as the Administrator determines are consistent with the plan, or if no plan is in effect with the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title and, in the case of major resources, in accordance with subsection (c) of this section. Such conservation measures and such resources may include, but are not limited to—
+(1) The Administrator shall acquire such resources through conservation, implement all such conservation measures, and acquire such renewable resources which are installed by a residential or small commercial consumer to reduce load, as the Administrator determines are consistent with the plan, or if no plan is in effect with the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title and, in the case of major resources, in accordance with subsection (c) of this section. Such conservation measures and such resources may include, but are not limited to—
 
 &emsp;(A) loans and grants to consumers for insulation or weatherization, increased system efficiency, and waste energy recovery by direct application,
 
@@ -30,7 +30,7 @@
 
 (4) The Administrator shall acquire any non-Federal resources to replace Federal base system resources only in accordance with the provisions of this section. The Administrator shall include in the contracts for the acquisition of any such non-Federal replacement resources provisions which will enable him to ensure that such non-Federal replacement resources are developed and operated in a manner consistent with the considerations specified in section 839b(e)(2) of this title.
 
-(5) Notwithstanding any acquisition of resources pursuant to this section, the Administrator shall not reduce his efforts to achieve conservation and to acquire renewable resources installed by a residential or small commercial consumer to reduce load, pursuant to subsection (a)(1) of this section.
+(5) Notwithstanding any acquisition of resources pursuant to this section, the Administrator shall not reduce his efforts to achieve conservation and to acquire renewable resources installed by a residential or small commercialconsumer to reduce load, pursuant to subsection (a)(1) of this section.
 
 #### (c) Procedure for acquiring major resources, implementing conservation measures, paying or reimbursing investigation and preconstruction expenses, or granting billing credits
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(ii) if no plan is in effect, a finding that the proposal is either consistent or inconsistent with the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title or notwithstanding its inconsistency, a finding that it is needed to meet the Administrator's obligations under this chapter.
 
-> &emsp;In the case of subsection (f) of this section, such decision shall be treated as satisfying the applicable requirements of this subsection andof subsection (f) of this section, if it includes a finding of probable consistency, based upon the Administrator's evaluation of information available at the time of completion of the hearing under this paragraph. Such decision shall include the reasons for such finding.
+> &emsp;In the case of subsection (f) of this section, such decision shall be treated as satisfying the applicable requirements of this subsection and of subsection (f) of this section, if it includes a finding of probable consistency, based upon the Administrator's evaluation of information available at the time of completion of the hearing under this paragraph. Such decision shall include the reasons for such finding.
 
 (2) Within sixty days of the receipt of the Administrator's decision pursuant to paragraph (1)(D) of this subsection, the Council may determine by a majority vote of all members of the Council, and notify the Administrator—
 
@@ -80,7 +80,7 @@ The Administrator is authorized to acquire a resource, other than a major resour
 
 #### (e) Effectuation of priorities; use of customers and local entities
 
-(1) In order to effectuate the priority given to conservation measures and renewable resources under this chapter, the Administrator shall, to the maximum extent practicable, make use of his authorities under this chapter to acquire conservation measures and renewable resources, to implement conservation measures, and to provide credits and technical and financial assistance for the development and implementation of such resources and measures (including the funding of, and the securing of debt for, expenses incurred during the investigation and preconstruction of resources, as authorized in subsection (f) of this section).
+(1) In order to effectuate the priority given to conservation measures and renewable resourcesunder this chapter, the Administrator shall, to the maximum extent practicable, make use of his authorities under this chapter to acquire conservation measures and renewable resources, to implement conservation measures, and to provide credits and technical and financial assistance for the development and implementation of such resources and measures (including the funding of, and the securing of debt for, expenses incurred during the investigation and preconstruction of resources, as authorized in subsection (f) of this section).
 
 (2) To the extent conservation measures or acquisition of resources require direct arrangements with consumers, the Administrator shall make maximum practicable use of customers and local entities capable of administering and carrying out such arrangements.
 
@@ -164,7 +164,7 @@ In the exercise of his authorities pursuant to this section, the Administrator s
 
 (2) The Administrator is authorized and directed to investigate periodically opportunities for mutually beneficial interregional exchanges of electric power that reduce the need for additional generation or generating capacity in the Pacific Northwest and the regions with which such exchanges may occur. The Council shall take into consideration in formulating a plan such investigations.
 
-(3) After the Administrator submits a report to Congress pursuant to paragraph (5) of this subsection, the Administrator is authorized to acquire resources consistent with such investigations and consistent with the plan or, if no plan is in effect, with the priorities of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title. Such acquisitions shall be in accordance with the provisions of this subsection.
+(3) After the Administrator submits a report to Congress pursuant to paragraph (5) of thissubsection, the Administrator is authorized to acquire resources consistent with such investigations and consistent with the plan or, if no plan is in effect, with the priorities of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title. Such acquisitions shall be in accordance with the provisions of this subsection.
 
 (4) The Administrator shall conduct the investigations and the acquisitions, if any, authorized under this subsection with the assistance of other Federal agencies as may be appropriate.
 

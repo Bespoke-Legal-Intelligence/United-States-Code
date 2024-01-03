@@ -12,5 +12,5 @@ Section was classified to section 207c of former Title 40, prior to the enactmen
 
 #### Amendments
 
-<b>2017</b>—Pub. L. 115–45 substituted "deposit into the Fund, including amounts received in response to the shooting incident at the practice for the Congressional Baseball Game for Charity on June 14, 2017," for "deposit into the Fund".
+<b>2017</b>—Pub. L. 115–45 substituted "deposit into the Fund, including amounts received in response to theshooting incident at the practice for the Congressional Baseball Game for Charity on June 14, 2017," for "deposit into the Fund".
 

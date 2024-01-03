@@ -2,7 +2,7 @@
 
 #### (a) Appeal of assignment restriction
 
-The Secretary shall establish a right and process for employees to appeal any assignment restriction or preclusion. Such right and process shall ensure that any employee subjected to an assignment restriction or preclusion shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance. Any such appeal shall be resolved not later than 60 days after such appeal is filed.
+The Secretary shall establish and maintain a right and process for employees to appeal a decision related to an assignment, based on a restriction, review, or preclusion. Such right and process shall ensure that any such employee shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance. Any such appeal shall be resolved not later than 60 days after such appeal is filed.
 
 #### (b) Certification
 
@@ -22,7 +22,7 @@ The Secretary shall—
 
 &emsp;(2) include a reference to such publication in the report required under subsection (b).
 
-(Pub. L. 114–323, title IV, §414, Dec. 16, 2016, 130 Stat. 1932; Pub. L. 117–81, div. E, title LIII, §5311(b), Dec. 27, 2021, 135 Stat. 2364.)
+(Pub. L. 114–323, title IV, §414, Dec. 16, 2016, 130 Stat. 1932; Pub. L. 117–81, div. E, title LIII, §5311(b), Dec. 27, 2021, 135 Stat. 2364; Pub. L. 118–31, div. F, title LXI, §6115(f), Dec. 22, 2023, 137 Stat. 970.)
 
 #### <b>Editorial Notes</b>
 
@@ -32,6 +32,8 @@ Section is comprised of section 414 of Pub. L. 114–323. Subsec. (d) of section
 
 #### Amendments
 
+<b>2023</b>—Subsec. (a). Pub. L. 118–31 substituted "The Secretary shall establish and maintain a right and process for employees to appeal a decision related to an assignment, based on a restriction, review, or preclusion. Such right and process shall ensure that any such employee shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance." for "The Secretary shall establish a right and process for employees to appeal any assignment restriction or preclusion. Such right and process shall ensure that any employee subjected to an assignment restriction or preclusion shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance."
+
 <b>2021</b>—Subsec. (a). Pub. L. 117–81 inserted at end "Such right and process shall ensure that any employee subjected to an assignment restriction or preclusion shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance. Any such appeal shall be resolved not later than 60 days after such appeal is filed."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
@@ -40,7 +42,7 @@ Section is comprised of section 414 of Pub. L. 114–323. Subsec. (d) of section
 
 Pub. L. 117–81, div. E, title LIII, §5311(c), Dec. 27, 2021, 135 Stat. 2364, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary shall revise, and certify to the appropriate congressional committees regarding such revision, the Foreign Affairs Manual guidance regarding denial or revocation of a security clearance to expressly state that all review and appeal rights relating thereto shall also apply to any recommendation or decision to impose an assignment restriction or preclusion to an employee."
 
-\[For definitions of "Secretary" and "appropriate congressional committees" as used in section 5311(c) of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under section 263c of this title.\]
+\[For definitions of "Secretary" and "appropriate congressional committees" as used in section 5311(c) ofPub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under section 263c of this title.\]
 
 #### Definitions
 

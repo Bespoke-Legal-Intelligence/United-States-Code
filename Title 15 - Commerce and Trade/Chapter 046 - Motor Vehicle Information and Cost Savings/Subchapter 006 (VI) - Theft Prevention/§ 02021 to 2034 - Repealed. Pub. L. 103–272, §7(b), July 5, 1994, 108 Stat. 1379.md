@@ -1,6 +1,6 @@
 ### §§2021 to 2034. Repealed. Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379
 
-Section 2021, Pub. L. 92–513, title VI, §601, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2755;amended Pub. L. 102–519, title III, §301, Oct. 25, 1992, 106 Stat. 3393, defined terms for purposes of this subchapter. See section 33101 of Title 49, Transportation.
+Section 2021, Pub. L. 92–513, title VI, §601, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2755; amended Pub. L. 102–519, title III, §301, Oct. 25, 1992, 106 Stat. 3393, defined terms for purposes of this subchapter. See section 33101 of Title 49, Transportation.
 
 Section 2022, Pub. L. 92–513, title VI, §602, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2756; amended Pub. L. 102–519, title III, §§302, 306(a), Oct. 25, 1992, 106 Stat. 3394, 3397, related to theft prevention standard. See sections 33102 to 33104 of Title 49.
 

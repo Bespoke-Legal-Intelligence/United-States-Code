@@ -44,7 +44,7 @@ Application for appointment of independent counsel.—The Attorney General shall
 
 &emsp;&emsp;(B) the 90-day period referred to in subsection (a)(1), and any extension granted under subsection (a)(3), have elapsed and the Attorney General has not filed a notification with the division of the court under subsection (b)(1).
 
-> &emsp;In determining under this chapter whether reasonable grounds exist to warrant further investigation, the Attorney General shall comply with the written or other established policies of the Department of Justice with respect to the conduct of criminal investigations.
+> &emsp;In determining under this chapter whether reasonable grounds exist to warrant further investigation, the Attorney General shallcomply with the written or other established policies of the Department of Justice with respect to the conduct of criminal investigations.
 
 &emsp;(2)
 

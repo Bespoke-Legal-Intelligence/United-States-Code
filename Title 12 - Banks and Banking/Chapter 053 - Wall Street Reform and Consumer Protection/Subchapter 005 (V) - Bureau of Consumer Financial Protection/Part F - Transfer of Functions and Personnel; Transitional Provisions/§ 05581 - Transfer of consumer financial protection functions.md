@@ -64,13 +64,13 @@ Except as provided in subsection (c), consumer financial protection functions ar
 
 #### (A) Transfer of functions
 
-&emsp;&emsp;The authority of the Federal Trade Commission under an enumerated consumer law to prescribe rules, issue guidelines, or conduct a study or issue a report mandated under such law shall be transferred to the Bureau on the designated transfer date. Nothing in this title <sup>1</sup> shall be construed to require a mandatory transfer of any employee of the Federal Trade Commission.
+&emsp;&emsp;The authority of the Federal Trade Commission under an enumerated consumer law to prescribe rules, issue guidelines, or conduct a study or issue a report mandated under such law shall be transferred to the Bureau on the designated transfer date. Nothing in this title <sup>1</sup> shall be construed torequire a mandatory transfer of any employee of the Federal Trade Commission.
 
 #### (B) Bureau authority
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Bureau shall have all powers and duties under the enumerated consumer laws to prescribe rules, issue guidelines, or to conduct studies or issue reports mandatedby such laws, that were vested in the Federal Trade Commission on the day before the designated transfer date.
+&emsp;&emsp;&emsp;The Bureau shall have all powers and duties under the enumerated consumer laws to prescribe rules, issue guidelines, or to conduct studies or issue reports mandated by such laws, that were vested in the Federal Trade Commission on the day before the designated transfer date.
 
 #### (ii) Federal Trade Commission Act
 

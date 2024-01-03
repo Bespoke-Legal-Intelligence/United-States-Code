@@ -44,7 +44,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 &emsp;&emsp;&emsp;&emsp;&emsp;If a State has been granted an extension to the distribution period under subclause (I) but is unable to make all the distributions required under clause (i) before the end of such period as extended, an authorized officer of the State may request an additional extension of the distribution period of not more than 30 days. The Secretary may grant a request for an additional extension of such period only if—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the authorized officer making such request provides a written plan to the Secretary specifying, for eachdistribution for which an additional extension is requested, when the State expects to make such distribution and the actions the State has taken and will take in order to make all such distributions before the end of the distribution period (as extended under subclause (I) and this subclause); and
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the authorized officer making such request provides a written plan to the Secretary specifying, for each distribution for which an additional extension is requested, when the State expects to make such distribution and the actions the State has taken and will take in order to make all such distributions before the end of the distribution period (as extended under subclause (I) and this subclause); and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the Secretary determines that such plan is reasonably designed to distribute all such funds to nonentitlement units of local government by the end of the distribution period (as so extended).
 
@@ -100,7 +100,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 #### (A) First tranche amount
 
-&emsp;&emsp;To the extent practicable, with respect to each metropolitan city for which an amount is allocated under paragraph (1), each State for which an amount is allocated under paragraph (2) for distribution to nonentitlement units of local government, and each county for which an amount is allocated under paragraph (3), the Secretary shall pay from suchallocation the First Tranche Amount for such city, State, or county not later than 60 days after March 11, 2021.
+&emsp;&emsp;To the extent practicable, with respect to each metropolitan city for which an amount is allocated under paragraph (1), each State for which an amount is allocated under paragraph (2) for distribution to nonentitlement units of local government, and each county for which an amount is allocated under paragraph (3), the Secretary shall pay from such allocation the First Tranche Amount for such city, State, or county not later than 60 days after March 11, 2021.
 
 #### (B) Second tranche amount
 
@@ -170,7 +170,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 #### (II) Rule of application
 
-&emsp;&emsp;&emsp;&emsp;The spending limitation under subclause (I) shall not apply to any use offunds permitted under paragraph (1), and any such use of funds shall be disregarded for purposes of applying such spending limitation.
+&emsp;&emsp;&emsp;&emsp;The spending limitation under subclause (I) shall not apply to any use of funds permitted under paragraph (1), and any such use of funds shall be disregarded for purposes of applying such spending limitation.
 
 #### (ii) Limitation on operating expenses
 
@@ -178,7 +178,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 #### (iii) Application of requirements
 
-&emsp;&emsp;&emsp;Except as otherwise determined by the Secretary or the head of a Federal agency to which the Secretary has delegated authority pursuant to clause (iv) or provided in this section—
+&emsp;&emsp;&emsp;Except as otherwise determined by the Secretary or the head of a Federal agencyto which the Secretary has delegated authority pursuant to clause (iv) or provided in this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the requirements of section 1702 of title 47 shall apply to funds provided under a payment made under this section that are used pursuant to subparagraph (A) for a project described in clause (xxvi) of section 802(c)(5)(B) of this title that relates to broadband infrastructure; and
 
@@ -292,7 +292,7 @@ Subsec. (c)(6). Pub. L. 117–328, §102(a)(2)(B)(ii), added par. (6).
 
 #### Effective Date of 2022 Amendment
 
-Amendment by Pub. L. 117–328 effective upon issuance of guidance or the promulgation of a rule by the Secretary of the Treasury, in consultation with the Secretary of Transportation, see section 102(c) of Pub. L. 117–328, set out as a note under secton 802 of this title.
+Amendment by Pub. L. 117–328 effective upon issuance of guidance or the promulgation of a rule by the Secretary of the Treasury, in consultation with the Secretary of Transportation, see section 102(c) of Pub. L. 117–328, set out as a note under section 802 of this title.
 
 #### Effective Date of 2021 Amendment
 

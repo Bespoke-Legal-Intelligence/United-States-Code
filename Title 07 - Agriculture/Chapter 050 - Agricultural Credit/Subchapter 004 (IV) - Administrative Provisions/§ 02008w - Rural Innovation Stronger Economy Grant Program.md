@@ -102,7 +102,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) investment organizations, including venture development organizations, venture capital firms, revolving loan funders, angel investment groups, community lenders, community development financial institutions, rural business investment companies, small business investment companies (as defined in section 662 of title 15), philanthropic organizations, and other institutions focused on expanding access to capital, are committed partners in the jobs accelerator partnership and willing to potentially invest in projects emerging from the jobs accelerator; and
 
-&emsp;&emsp;&emsp;(ii) institutions of higher education, applied research institutions, workforce development entities, and community-based organizations are willing to partner with the jobs accelerator to provide workers with skills relevant to the industry cluster needs of the region, with an emphasis on the use of on-the-job training, registered apprenticeships, customized training, classroom occupational training, or incumbent worker training;
+&emsp;&emsp;&emsp;(ii) institutions of higher education, applied research institutions, workforce development entities, and community-based organizations are willing to partner with the jobs accelerator to provide workers with skills relevant to the industry cluster needs of the region, with an emphasis on the use of on-the-job training, registered apprenticeships, customized training,classroom occupational training, or incumbent worker training;
 
 &emsp;&emsp;(B) the ability of the eligible entity to provide the non-Federal share as required under paragraph (2);
 
@@ -146,7 +146,7 @@ A grant awarded under subsection (b) may be in an amount equal to—
 
 &emsp;&emsp;(B) to support programs to be carried out at, or in direct partnership with, the jobs accelerator that support the objectives of the jobs accelerator, including—
 
-&emsp;&emsp;&emsp;(i) linking rural communities and entrepreneurs to markets, networks, industry clusters, and other regional opportunities to support high-wage job creation, newbusiness formation, business expansion, and economic growth;
+&emsp;&emsp;&emsp;(i) linking rural communities and entrepreneurs to markets, networks, industry clusters, and other regional opportunities to support high-wage job creation, new business formation, business expansion, and economic growth;
 
 &emsp;&emsp;&emsp;(ii) integrating small businesses into a supply chain;
 

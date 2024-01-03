@@ -134,7 +134,7 @@ In this section:
 
 #### (3) Local labor market
 
-&emsp;The term "local labor market" means any of the following areas that contains 1 or more specified entities described in subparagraphs (A) through (D) of paragraph (6) <sup>1</sup>:
+&emsp;The term "local labor market" means any of the following areas that contains 1 or morespecified entities described in subparagraphs (A) through (D) of paragraph (6) <sup>1</sup>:
 
 &emsp;&emsp;(A) A metropolitan statistical area or micropolitan statistical area, excluding any area described in subparagraph (C).
 
@@ -240,7 +240,7 @@ In this section:
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (j)(9)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title VI of the Act is classified generally to subchapter VI (§801 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (j)(9)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title VI of the Act is classified generally to subchapter VI (§801 et seq.) of chapter 7 of Title 42, The Public Healthand Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -80,7 +80,7 @@ The Secretary shall establish a civil nuclear credit program—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 60 days after the applicable date under subparagraph (B) of paragraph (1), the Secretary shall determinewhether to certify, in accordance with clauses (ii) and (iii), each nuclear reactor for which an application is submitted under subparagraph (A) of that paragraph.
+&emsp;&emsp;&emsp;Not later than 60 days after the applicable date under subparagraph (B) of paragraph (1), the Secretary shall determine whether to certify, in accordance with clauses (ii) and (iii), each nuclear reactor for which an application is submitted under subparagraph (A) of that paragraph.
 
 #### (ii) Minimum requirements
 

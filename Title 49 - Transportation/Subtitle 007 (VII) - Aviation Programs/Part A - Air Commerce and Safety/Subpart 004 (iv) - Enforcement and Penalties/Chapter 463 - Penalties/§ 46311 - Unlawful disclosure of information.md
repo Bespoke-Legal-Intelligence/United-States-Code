@@ -2,7 +2,7 @@
 
 (a)
 
-Criminal Penalty.—The Secretary of Transportation, the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration, or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration, or an officer or employee of the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration shall be fined under title 18, imprisoned for not more than 2 years, or both, if the Secretary, Administrator of theTransportation Security Administration, Administrator of the Federal Aviation Administration, officer, or employee knowingly and willfully discloses information that—
+Criminal Penalty.—The Secretary of Transportation, the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration, or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration, or an officer or employee of the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration shall be fined under title 18, imprisoned for not more than 2 years, or both, if the Secretary, Administrator of the Transportation Security Administration, Administrator of the Federal Aviation Administration, officer, or employee knowingly and willfully discloses information that—
 
 &emsp;(1) the Secretary, Administrator of the Transportation Security Administration, Administrator of the Federal Aviation Administration, officer, or employee acquires when inspecting the records of an air carrier; or
 
@@ -82,7 +82,7 @@ Subsec. (a)(1). Pub. L. 115–254, §1991(g)(3)(A)(ii), substituted "Administrat
 
 Subsecs. (b), (c). Pub. L. 115–254, §1991(g)(3)(B), substituted "Administrator of the Federal Aviation Administration" for "Administrator" wherever appearing.
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(d)(6), in introductory provisions, inserted "the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary," after "Transportation," and "Under Secretary," after "Secretary," and substituted ", Under Secretary, or Administrator" for "or Administrator".
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(d)(6), in introductory provisions, inserted "the Under Secretary of Transportation for Security with respect to securityduties and powers designated to be carried out by the Under Secretary," after "Transportation," and "Under Secretary," after "Secretary," and substituted ", Under Secretary, or Administrator" for "or Administrator".
 
 Subsec. (a)(1). Pub. L. 107–71, §140(d)(6)(B) inserted "Under Secretary," after "Secretary,".
 

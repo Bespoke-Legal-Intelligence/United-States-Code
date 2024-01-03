@@ -14,7 +14,7 @@
 
 #### (1) Custody
 
-&emsp;If the judge decides that an alien shall be removed, the alien shall be detained pending the outcome of any appeal. After the conclusion of any judicial review thereof which affirms the removal order, the Attorney General shall retain the alien in custody and remove the alien to a country specified under paragraph (2).
+&emsp;If the judge decides that an alien shall be removed, the alien shall be detained pending theoutcome of any appeal. After the conclusion of any judicial review thereof which affirms the removal order, the Attorney General shall retain the alien in custody and remove the alien to a country specified under paragraph (2).
 
 #### (2) Removal
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 

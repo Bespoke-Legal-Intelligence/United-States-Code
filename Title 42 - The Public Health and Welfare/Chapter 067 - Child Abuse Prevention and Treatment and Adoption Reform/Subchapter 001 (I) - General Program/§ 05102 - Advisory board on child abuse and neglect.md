@@ -102,7 +102,7 @@ Pub. L. 101–126, §8, Oct. 25, 1989, 103 Stat. 769, provided that: "This Act a
 
 Pub. L. 98–457, title I, §128, Oct. 9, 1984, 98 Stat. 1755, provided that:
 
-"(a) Except as provided in subsection (b), the provisions of this part or any amendment made by this part \[part B (§§121–128) of title I of Pub. L. 98–457, amending this section and section 5103 of this title and enacting provisions set out as notes under sections 5101 and 5103 of this title\] shall be effective on the date of the enactment of this Act \[Oct. 9, 1984\].
+"(a) Except as provided in subsection (b), the provisions of this part or any amendment made by this part\[part B (§§121–128) of title I of Pub. L. 98–457, amending this section and section 5103 of this title and enacting provisions set out as notes under sections 5101 and 5103 of this title\] shall be effective on the date of the enactment of this Act \[Oct. 9, 1984\].
 
 "(b)(1) Except as provided in paragraph (2), the amendments made by sections 122 and 123(b) of this Act \[amending section 5103 of this title\] shall become effective one year after the date of such enactment \[Oct. 9, 1984\].
 

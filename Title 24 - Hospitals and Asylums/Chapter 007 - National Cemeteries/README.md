@@ -132,7 +132,7 @@ Yorktown, Virginia.
 
 #### National Cemeteries in Foreign Countries
 
-The functions of administration pertaining to national cemeteries located in foreign countries, whichwere transferred to the Department of State, were revoked and the functions of administration pertaining to national cemeteries and memorials located in Europe, together with personnel, records, etc. were transferred to the American Battle Monuments Commission by Ex. Ord. No. 6614, Apr. 25, 1934, set out as a note under section 901 of Title 5, Government Organization and Employees.
+The functions of administration pertaining to national cemeteries located in foreign countries, which were transferred to the Department of State, were revoked and the functions of administration pertaining to national cemeteries and memorials located in Europe, together with personnel, records, etc. were transferred to the American Battle Monuments Commission by Ex. Ord. No. 6614, Apr. 25, 1934, set out as a note under section 901 of Title 5, Government Organization and Employees.
 
 
 ---

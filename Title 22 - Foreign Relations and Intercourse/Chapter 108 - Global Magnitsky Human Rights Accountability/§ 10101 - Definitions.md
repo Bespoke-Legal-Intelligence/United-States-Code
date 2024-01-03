@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Foreign person
 
-&emsp;The term "foreign person" has the meaning given that term in section 595.304 of title 31,Code of Federal Regulations (as in effect on the day before December 23, 2016).
+&emsp;The term "foreign person" has the meaning given that term in section 595.304 of title 31, Code of Federal Regulations (as in effect on the day before December 23, 2016).
 
 #### (2) Gross violations of internationally recognized human rights
 

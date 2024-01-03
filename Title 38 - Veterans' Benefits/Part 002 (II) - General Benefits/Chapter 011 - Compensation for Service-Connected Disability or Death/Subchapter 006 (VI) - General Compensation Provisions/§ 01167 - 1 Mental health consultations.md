@@ -10,7 +10,7 @@ Availability.—The Secretary shall—
 
 &emsp;(1) offer a veteran a consultation under subsection (a) without regard to any previous denial or approval of a claim of that veteran for a service-connected disability relating to a mental health diagnosis; and
 
-&emsp;(2) ensure that a veteran offered a mental health consultation under subsection (a) may elect to receive such consultation during the one-year period beginning on the date on which the consultation is offered or during such longer period beginning on such date as the Secretary considers appropriate.
+&emsp;(2) ensure that a veteran offered a mental health consultation under subsection (a) may elect to receive such consultation during the one-year period beginning on the date onwhich the consultation is offered or during such longer period beginning on such date as the Secretary considers appropriate.
 
 (c)
 

@@ -20,7 +20,7 @@
 
 (2) Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served for at least 3 years as a technician acquires a competitive status for transfer to the competitive service if such individual—
 
-&emsp;(A) is involuntarily separated from service as a technician other than by removal for cause on charges of misconduct or delinquency;
+&emsp;(A) is involuntarily separated from service as a technician other than by removal forcause on charges of misconduct or delinquency;
 
 &emsp;(B) passes a suitable noncompetitive examination; and
 
@@ -82,7 +82,7 @@ Former employees.—If the Department is accepting applications as described in 
 
 Regulations.—The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575; Pub. L. 107–296, title XIII, §1312(a)(1), Nov. 25, 2002, 116 Stat. 2290; Pub. L. 108–375, div. A, title XI, §1105(g), Oct. 28, 2004, 118 Stat. 2075; Pub. L. 109–163, div. A, title XI, §1104(e)(2), Jan. 6, 2006, 119 Stat. 3450; Pub. L. 111–84, div. A, title XI, §1102(d)(2), Oct. 28, 2009, 123 Stat. 2485; Pub. L. 115–46, title II, §213, Aug. 12, 2017, 131 Stat. 967; Pub. L. 117–263, div. A, title XI, §1108, Dec. 23, 2022, 136 Stat. 2818.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575; Pub. L. 107–296, title XIII, §1312(a)(1), Nov. 25, 2002, 116 Stat. 2290; Pub. L. 108–375, div. A, title XI, §1105(g), Oct. 28, 2004, 118 Stat. 2075; Pub. L. 109–163, div. A, title XI, §1104(e)(2), Jan. 6, 2006, 119 Stat. 3450; Pub. L. 111–84, div. A, title XI, §1102(d)(2), Oct. 28, 2009, 123 Stat. 2485; Pub. L. 115–46, title II, §213, Aug. 12, 2017, 131 Stat. 967;Pub. L. 117–263, div. A, title XI, §1108, Dec. 23, 2022, 136 Stat. 2818.)
 
 Historical and Revision Notes
 
@@ -202,7 +202,7 @@ Pub. L. 106–117, title V, §511(d)(2), Nov. 30, 1999, 113 Stat. 1576, provided
 
 #### Effective Date of 1995 Amendment
 
-Pub. L. 104–65, §16(c), Dec. 19, 1995, 109 Stat. 703, provided that: "The repeal and amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\]."
+Pub. L. 104–65, §16(c), Dec. 19, 1995, 109 Stat. 703, provided that: "The repeal and amendment made by thissection \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\]."
 
 Pub. L. 104–65, §17(b), Dec. 19, 1995, 109 Stat. 703, provided that: "The amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\], except the Office of Personnel Management shall—
 

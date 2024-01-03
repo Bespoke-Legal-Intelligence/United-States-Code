@@ -16,7 +16,7 @@ In connection with the census, the Secretary may conduct any survey or other inf
 
 #### (c) Year of information
 
-The information collected in each census taken under this section shall relate to the year immediately preceding the year in which the census is taken.
+The information collected in each census taken under this section shall relate to the yearimmediately preceding the year in which the census is taken.
 
 #### (d) Enforcement
 
@@ -50,7 +50,7 @@ A census under this section shall include—
 
 #### (1) Information provided to Secretary of Agriculture
 
-&emsp;On a written request by the Secretary of Agriculture, the Secretary of Commerce may provide to the Secretary of Agriculture anyinformation collected under title 13 that the Secretary of Agriculture considers necessary for the taking of a census or survey under this section.
+&emsp;On a written request by the Secretary of Agriculture, the Secretary of Commerce may provide to the Secretary of Agriculture any information collected under title 13 that the Secretary of Agriculture considers necessary for the taking of a census or survey under this section.
 
 #### (2) Information provided to Secretary of Commerce
 

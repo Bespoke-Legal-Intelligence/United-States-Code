@@ -12,7 +12,7 @@ The Director of the Institute shall award funding through grants, contracts, or 
 
 &emsp;(2) identifying potential targets for therapeutic candidates, including antivirals, to treat such pathogens;
 
-&emsp;(3) identifying existing medical products with the potential to address such pathogens, including candidates that could be used in outpatient settings; and
+&emsp;(3) identifying existing medical products with the potential to address such pathogens,including candidates that could be used in outpatient settings; and
 
 &emsp;(4) carrying out or supporting other research related to medical products to address such pathogens, as determined appropriate by the Director.
 
@@ -38,7 +38,7 @@ The Director of the Institute shall—
 
 #### (f) Supplement, not supplant
 
-Any support received by a center described in subsection (a) under this section shall be used tosupplement, and not supplant, other public or private support for activities authorized to be supported.
+Any support received by a center described in subsection (a) under this section shall be used to supplement, and not supplant, other public or private support for activities authorized to be supported.
 
 (July 1, 1944, ch. 373, title IV, §447D, as added Pub. L. 117–328, div. FF, title II, §2301, Dec. 29, 2022, 136 Stat. 5756.)
 

@@ -30,7 +30,7 @@ As part of the annual performance plan required in the budget submission of the 
 
 #### (c) Definition
 
-In this section, the term "methamphetamine precursor chemicals" means the chemicalsephedrine, pseudoephedrine, or phenylpropanolamine, including each of the salts, optical isomers, and salts of optical isomers of such chemicals.
+In this section, the term "methamphetamine precursor chemicals" means the chemicals ephedrine, pseudoephedrine, or phenylpropanolamine, including each of the salts, optical isomers, and salts of optical isomers of such chemicals.
 
 (Pub. L. 109–347, title VII, §707, Oct. 13, 2006, 120 Stat. 1946.)
 

@@ -60,7 +60,7 @@
 
 #### (D) Report
 
-&emsp;&emsp;Not later than December 31, 2029, the Commission shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a report describing the views of the Commission on the continued appropriateness and necessity of the funding described in subparagraph (B)(iii).
+&emsp;&emsp;Not later than December 31, 2029, the Commission shall submit to the Committee onAppropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a report describing the views of the Commission on the continued appropriateness and necessity of the funding described in subparagraph (B)(iii).
 
 #### (2) Fees for service or thing of value
 
@@ -142,7 +142,7 @@ With respect to invoices for fees described in subsection (b)(2), the Commission
 
 &emsp;(2) develop and implement processes to audit invoices to ensure accuracy, transparency, and fairness; and
 
-&emsp;(3) modify regulations to ensure fair and appropriate processes to provide licensees and applicants an opportunity to efficiently dispute or otherwise seek review and correction of errors in invoices for those fees.
+&emsp;(3) modify regulations to ensure fair and appropriate processes to provide licensees andapplicants an opportunity to efficiently dispute or otherwise seek review and correction of errors in invoices for those fees.
 
 #### (e) Report
 

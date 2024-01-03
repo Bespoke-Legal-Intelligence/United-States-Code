@@ -44,7 +44,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) the base price for the livestock is determined by seller-buyer interaction and agreement on a day; and
 
-&emsp;&emsp;(B) the livestock are scheduled for delivery to the packer not later than 14 days afterthe date on which the livestock are committed to the packer.
+&emsp;&emsp;(B) the livestock are scheduled for delivery to the packer not later than 14 days after the date on which the livestock are committed to the packer.
 
 #### (10) Prior slaughter week
 

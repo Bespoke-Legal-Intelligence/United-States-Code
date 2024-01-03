@@ -28,7 +28,7 @@ Forms of Air Force Support.—The Secretary of the Air Force may, under subsecti
 
 &emsp;(8) provide funds for the national headquarters of the Civil Air Patrol, including—
 
-&emsp;&emsp;(A) funds for the payment of staff compensation and benefits, administrative expenses, travel, per diem and allowances,rent, utilities, other operational expenses of the national headquarters; and
+&emsp;&emsp;(A) funds for the payment of staff compensation and benefits, administrative expenses, travel, per diem and allowances, rent, utilities, other operational expenses of the national headquarters; and
 
 &emsp;&emsp;(B) to the extent considered necessary by the Secretary of the Air Force to fulfill Air Force requirements, funds for the payment of compensation and benefits for key staff at regional, State, or territorial headquarters;
 
@@ -46,7 +46,7 @@ Forms of Air Force Support.—The Secretary of the Air Force may, under subsecti
 
 (c)
 
-Assistance by Other Agencies.—(1) The Secretary of the Air Force may arrange for the use by the Civil Air Patrol of such facilities and services under the jurisdiction of the Secretary of the Army, the Secretary of the Navy, or the head of any other department or agency of the United States as the Secretary of the Air Force considers to be needed by the Civil Air Patrol to carry out its mission.
+Assistance by Other Agencies.—(1) The Secretary of the Air Force may arrange for theuse by the Civil Air Patrol of such facilities and services under the jurisdiction of the Secretary of the Army, the Secretary of the Navy, or the head of any other department or agency of the United States as the Secretary of the Air Force considers to be needed by the Civil Air Patrol to carry out its mission.
 
 (2) An arrangement for use of facilities or services of a military department or other department or agency under this subsection shall be subject to the agreement of the Secretary of the military department or head of the other department or agency, as the case may be.
 

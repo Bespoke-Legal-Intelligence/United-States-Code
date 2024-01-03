@@ -70,7 +70,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 The Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, referred to in subsec. (b)(2), is Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3575. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 1801 of Title 16, Conservation, and Tables.
 
-The High Seas Driftnet Fishing Moratorium Protection Act, referred to in subsec. (b)(3), is Pub. L. 104–43,title VI, Nov. 3, 1995, 109 Stat. 391, which enacted sections 1826d to 1826g of Title 16, Conservation, and provisions set out as a note under section 1826d of Title 16. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 1801 of Title 16 and Tables.
+The High Seas Driftnet Fishing Moratorium Protection Act, referred to in subsec. (b)(3), is Pub. L. 104–43, title VI, Nov. 3, 1995, 109 Stat. 391, which enacted sections 1826d to 1826g of Title 16, Conservation, and provisions set out as a note under section 1826d of Title 16. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 1801 of Title 16 and Tables.
 
 The Shark Conservation Act of 2010, referred to in subsec. (b)(4), is Pub. L. 111–348, title I, Jan. 4, 2011, 124 Stat. 3668, which amended sections 1826i to 1826k, 1857, and 4107 of Title 16, Conservation, and enacted provisions set out as notes under sections 1826k and 1857 of Title 16. For complete classification of this Act to the Code, see Short Title of 2011 Amendment note set out under section 1801 of Title 16 and Tables.
 
@@ -86,7 +86,7 @@ The Migratory Bird Treaty Act of 1918, referred to in subsec. (g), probably shou
 
 The Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016, referred to in subsec. (h), is Pub. L. 114–231, Oct. 7, 2016, 130 Stat. 949, which is classified principally to chapter 95 (§7601 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of Title 16 and Tables.
 
-The Wild Bird Conservation Act of 1992, referred to in subsec. (i), is Pub. L. 102–440, title I, Oct. 23, 1992, 106 Stat. 2224, which is classified generally to chapter 69 (§4901 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 4901 of Title 16 and Tables.
+The Wild Bird Conservation Act of 1992, referred to in subsec. (i), is Pub. L. 102–440, title I, Oct. 23, 1992, 106 Stat. 2224, which is classified generally to chapter 69 (§4901 et seq.) of Title 16, Conservation. For completeclassification of this Act to the Code, see Short Title note set out under section 4901 of Title 16 and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@
 
 (b) The Secretary shall ensure that the staffing and level of extended care services provided by the Secretary nationally in facilities of the Department during any fiscal year is not less than the staffing and level of such services provided nationally in facilities of the Department during fiscal year 1998.
 
-(c)(1) Except as provided in paragraph (2), the Secretary may not furnish extended care services for a non-service-connected disability other than in the case of a veteran who has a compensable service-connected disability unless the veteran agrees to pay to the United States a copayment (determined in accordance with subsection (d)) for any period of such services in a year after the first 21 days of such services provided that veteran in that year.
+(c)(1) Except as provided in paragraph (2), the Secretary may not furnish extended care services for a non-service-connected disability other than in the case of a veteran who has a compensable service-connected disability unless theveteran agrees to pay to the United States a copayment (determined in accordance with subsection (d)) for any period of such services in a year after the first 21 days of such services provided that veteran in that year.
 
 (2) Paragraph (1) shall not apply—
 

@@ -174,7 +174,7 @@ For purposes of this section—
 
 #### (B) Lowest 3-month rate
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "lowest 3-month rate" means the lowest of the applicable Federal rates in effect for anymonth in the 3-calendar-month period ending with the 1st calendar month in which there is a binding contract in writing for such sale or exchange.
+&emsp;&emsp;For purposes of subparagraph (A), the term "lowest 3-month rate" means the lowest of the applicable Federal rates in effect for any month in the 3-calendar-month period ending with the 1st calendar month in which there is a binding contract in writing for such sale or exchange.
 
 #### (3) Term of debt instrument
 

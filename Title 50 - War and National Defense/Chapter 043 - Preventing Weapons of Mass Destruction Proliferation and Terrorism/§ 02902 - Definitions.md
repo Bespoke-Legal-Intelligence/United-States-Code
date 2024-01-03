@@ -20,7 +20,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) the Trigger List of the Guidelines for Nuclear Transfers of the Nuclear Suppliers Group;
 
-&emsp;&emsp;&emsp;(ii) the Annex of the Guidelines for Transfers of Nuclear-Related Dual-UseEquipment, Materials, Software, and Related Technology of the Nuclear Suppliers Group; or
+&emsp;&emsp;&emsp;(ii) the Annex of the Guidelines for Transfers of Nuclear-Related Dual-Use Equipment, Materials, Software, and Related Technology of the Nuclear Suppliers Group; or
 
 &emsp;&emsp;&emsp;(iii) any of the Common Control Lists of the Australia Group; and
 

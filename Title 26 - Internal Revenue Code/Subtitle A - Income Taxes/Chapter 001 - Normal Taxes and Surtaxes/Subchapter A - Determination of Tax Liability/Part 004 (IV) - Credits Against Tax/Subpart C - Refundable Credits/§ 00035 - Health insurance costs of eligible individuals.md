@@ -76,7 +76,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) has attained age 55 as of the first day of such month, and
 
-&emsp;&emsp;(B) is receiving a benefit for such month any portion of which is paid by the PensionBenefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974.
+&emsp;&emsp;(B) is receiving a benefit for such month any portion of which is paid by the Pension Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974.
 
 #### (d) Qualifying family member
 
@@ -260,7 +260,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 #### (9) Continuation coverage premium assistance
 
-&emsp;In the case of an assistance eligible individual who receives premium assistance forcontinuation coverage under section 9501(a)(1) of the American Rescue Plan Act of 2021 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
+&emsp;In the case of an assistance eligible individual who receives premium assistance for continuation coverage under section 9501(a)(1) of the American Rescue Plan Act of 2021 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
 
 #### (10) Continued qualification of family members after certain events
 
@@ -316,7 +316,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 &emsp;The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
 
-(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), titleIII, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465; Pub. L. 111–144, §3(b)(5)(A), Mar. 2, 2010, 124 Stat. 44; Pub. L. 111–344, title I, §§111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, 124 Stat. 3614–3616; Pub. L. 112–40, title II, §241(a), (b)(1), (3)(A)–(C), Oct. 21, 2011, 125 Stat. 418, 419; Pub. L. 113–295, div. A, title II, §209(j)(3), Dec. 19, 2014, 128 Stat. 4031; Pub. L. 114–27, title IV, §407(a), (b), (d), June 29, 2015, 129 Stat. 381, 382; Pub. L. 116–94, div. Q, title I, §146(a), Dec. 20, 2019, 133 Stat. 3236; Pub. L. 116–260, div. EE, title I, §134(a), Dec. 27, 2020, 134 Stat. 3053; Pub. L. 117–2, title IX, §9501(b)(3)(A), Mar. 11, 2021, 135 Stat. 137.)
+(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465; Pub. L. 111–144, §3(b)(5)(A), Mar. 2, 2010, 124 Stat. 44; Pub. L. 111–344, title I, §§111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, 124 Stat. 3614–3616; Pub. L. 112–40, title II, §241(a), (b)(1), (3)(A)–(C), Oct. 21, 2011, 125 Stat. 418, 419; Pub. L. 113–295, div. A, title II, §209(j)(3), Dec. 19, 2014, 128 Stat. 4031; Pub. L. 114–27, title IV, §407(a), (b), (d), June 29, 2015, 129 Stat. 381, 382; Pub. L. 116–94, div. Q, title I, §146(a), Dec. 20, 2019, 133 Stat. 3236; Pub. L. 116–260, div. EE, title I, §134(a), Dec. 27, 2020, 134 Stat. 3053; Pub. L. 117–2, title IX, §9501(b)(3)(A), Mar. 11, 2021, 135 Stat. 137.)
 
 #### <b>Editorial Notes</b>
 
@@ -334,7 +334,7 @@ Section 2744(c)(2) of the Public Health Service Act, referred to in subsec. (e)(
 
 The Patient Protection and Affordable Care Act, referred to in subsecs. (e)(1)(J) and (g)(12)(B)(i)(I), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 1412 of the Act is classified to section 18082 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Section 1928 of the Act is classified to section 1396s of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, ThePublic Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Section 1928 of the Act is classified to section 1396s of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 9501(a)(1) of the American Rescue Plan Act of 2021, referred to in subsec. (g)(9), is section 9501(a)(1) of Pub. L. 117–2, which is set out in a note under section 4980B of this title.
 
@@ -414,7 +414,7 @@ Pub. L. 117–2, title IX, §9501(b)(3)(B), Mar. 11, 2021, 135 Stat. 137, provid
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. EE, title I, §134(b), Dec. 27, 2020, 134 Stat. 3053, provided that: "The amendment made by this section \[amending this section\] shall apply to months beginning after December 31, 2020."
+Pub. L. 116–260, div. EE, title I, §134(b), Dec. 27, 2020, 134 Stat. 3053, provided that: "The amendment made bythis section \[amending this section\] shall apply to months beginning after December 31, 2020."
 
 #### Effective Date of 2019 Amendment
 
@@ -474,7 +474,7 @@ Pub. L. 111–144, §3(c), Mar. 2, 2010, 124 Stat. 45, provided that: "The amend
 
 &emsp;"(1) the amendments made by subsection (b)(1) \[amending provisions set out as a note under section 6432 of this title\] shall apply to periods of coverage beginning after the date of the enactment of this Act \[Mar. 2, 2010\];
 
-&emsp;"(2) the amendments made by subsection (b)(2) \[amending provisions set out as a note under section6432 of this title\] shall take effect as if included in the amendments made by section 1010 of division B of the Department of Defense Appropriations Act, 2010 \[Pub. L. 111–118, amending provisions set out a note under this section\]; and
+&emsp;"(2) the amendments made by subsection (b)(2) \[amending provisions set out as a note under section 6432 of this title\] shall take effect as if included in the amendments made by section 1010 of division B of the Department of Defense Appropriations Act, 2010 \[Pub. L. 111–118, amending provisions set out a note under this section\]; and
 
 &emsp;"(3) the amendments made by subsections (b)(3) and (b)(4) \[amending provisions set out as a note under section 6432 of this title\] shall take effect on the date of the enactment of this Act \[Mar. 2, 2010\]."
 
@@ -502,7 +502,7 @@ Pub. L. 107–210, div. A, title II, §201(d), Aug. 6, 2002, 116 Stat. 960, prov
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and section 300gg–45 of Title 42, The Public Health and Welfare, amending section 1324 of Title 31, Money and Finance, and renumbering former section 35 of this title as section 36 of this title\] shall apply to taxable years beginning after December 31, 2001.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and section 300gg–45 of Title 42, The Public Health and Welfare, amending section 1324 of Title 31,Money and Finance, and renumbering former section 35 of this title as section 36 of this title\] shall apply to taxable years beginning after December 31, 2001.
 
 "(2)
 
@@ -560,11 +560,11 @@ Non-HCTC participants.—In the case of eligible individuals not receiving the h
 
 &emsp;"(3)
 
-Report.—Not later than December 31 of each year in which a survey is conducted under paragraph (1) (beginning in 2010), the Secretary of the Treasury shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor, and the Committee on Energy and Commerce of the House of Representatives the findings of the most recent survey conducted under paragraph (1).
+Report.—Not later than December 31 of each year in which a survey is conducted under paragraph (1) (beginning in 2010), the Secretary of the Treasury shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor \[now Committee on Education and the Workforce\], and the Committee on Energy and Commerce of the House of Representatives the findings of the most recent survey conducted under paragraph (1).
 
 "(b)
 
-Report.—Not later than October 1 of each year (beginning in 2010), the Secretary of the Treasury (after consultation with the Secretary of Health and Human Services, and, in the case of the information required under paragraph (7), the Secretary of Labor) shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor, and the Committee on Energy and Commerce of the House of Representatives the following information with respect to the most recent taxable year ending before such date:
+Report.—Not later than October 1 of each year (beginning in 2010), the Secretary of the Treasury (after consultation with the Secretary of Health and Human Services, and, in the case of the information required under paragraph (7), the Secretary of Labor) shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor \[now Committee on Education and the Workforce\], and the Committee on Energy and Commerce of the House of Representatives the following information with respect to the most recent taxable year ending before such date:
 
 &emsp;"(1) In each State and nationally—
 
@@ -596,7 +596,7 @@ Report.—Not later than October 1 of each year (beginning in 2010), the Secreta
 
 > &emsp;The information required under this paragraph shall be reported with respect to each category of coverage described in such subparagraphs.
 
-&emsp;"(4) In each State and nationally, the gender and average age of eligible individuals (as defined in section 35(c) of such Code) who receive the health coverage tax credit, in each category of coverage described in section 35(e)(1) of such Code, with respect to each category of eligible individuals described in such section.
+&emsp;"(4) In each State and nationally, the gender and average age of eligible individuals (as defined in section 35(c) of such Code) who receive the health coverage tax credit, in each category of coverage described in section 35(e)(1) of such Code, with respectto each category of eligible individuals described in such section.
 
 &emsp;"(5) The steps taken by the Secretary of the Treasury to increase the participation rates in the HCTC program among eligible individuals, including outreach and enrollment activities.
 

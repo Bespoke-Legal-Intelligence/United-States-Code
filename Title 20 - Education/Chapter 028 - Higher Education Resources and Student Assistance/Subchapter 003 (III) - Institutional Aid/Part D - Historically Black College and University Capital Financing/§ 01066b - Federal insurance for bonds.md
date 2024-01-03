@@ -38,7 +38,7 @@ The Secretary may not enter into an insurance agreement described in subsection 
 
 &emsp;&emsp;&emsp;(ii) shall be used to return to an eligible institution an amount equal to any remaining portion of such institution's 5 percent deposit of loan proceeds within 120 days following scheduled repayment of such institution's loan;
 
-&emsp;(9) provide in each loan agreement with respect to a loan that, if a delinquency on suchloan results in amounts being withdrawn from the escrow account to pay principal and interest on bonds, subsequent payments on such loan shall be available to replenish such escrow account;
+&emsp;(9) provide in each loan agreement with respect to a loan that, if a delinquency on such loan results in amounts being withdrawn from the escrow account to pay principal and interest on bonds, subsequent payments on such loan shall be available to replenish such escrow account;
 
 &emsp;(10) comply with the limitations set forth in section 1066c of this title;
 
@@ -74,7 +74,7 @@ Subject to subsection (c)(1) the full faith and credit of the United States is p
 
 Notwithstanding any other provision of law, a qualified bond guaranteed under this part may be sold to any party that offers terms that the Secretary determines are in the best interest of the eligible institution.
 
-(Pub. L. 89–329, title III, §343, formerly title VII, §723, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 743; amended Pub. L. 103–382, title III, §360C, Oct. 20, 1994, 108 Stat. 3972; renumbered title III, §343, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(5), 306(b), Oct. 7, 1998, 112 Stat. 1636, 1637, 1646; Pub. L. 110–315, title III, §§314(b), 320(2), Aug. 14, 2008, 122 Stat. 3181, 3187.)
+(Pub. L. 89–329, title III, §343, formerly title VII, §723, as added Pub. L. 102–325, title VII, §704,July 23, 1992, 106 Stat. 743; amended Pub. L. 103–382, title III, §360C, Oct. 20, 1994, 108 Stat. 3972; renumbered title III, §343, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(5), 306(b), Oct. 7, 1998, 112 Stat. 1636, 1637, 1646; Pub. L. 110–315, title III, §§314(b), 320(2), Aug. 14, 2008, 122 Stat. 3181, 3187.)
 
 #### <b>Editorial Notes</b>
 

@@ -16,7 +16,7 @@
 
 #### (2) Acceptance and performance by labs and sites
 
-&emsp;Notwithstanding any other law governing the administration, mission, use, or operations of any of the Department of Energy national laboratories and sites, such laboratoriesand sites are authorized to accept and perform work for the Secretary, consistent with resources provided, and perform such work on an equal basis to other missions at the laboratory and not on a noninterference basis with other missions of such laboratory or site.
+&emsp;Notwithstanding any other law governing the administration, mission, use, or operations of any of the Department of Energy national laboratories and sites, such laboratories and sites are authorized to accept and perform work for the Secretary, consistent with resources provided, and perform such work on an equal basis to other missions at the laboratory and not on a noninterference basis with other missions of such laboratory or site.
 
 #### (b) Joint sponsorship arrangements
 
@@ -74,7 +74,7 @@ The Secretary of Energy shall ensure that any research, development, test, and e
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25,2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### Codification
 

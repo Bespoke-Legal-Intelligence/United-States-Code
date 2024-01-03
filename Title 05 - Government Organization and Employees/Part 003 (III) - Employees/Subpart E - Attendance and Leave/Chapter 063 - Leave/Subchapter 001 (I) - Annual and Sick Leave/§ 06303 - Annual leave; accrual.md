@@ -22,7 +22,7 @@
 
 > The determination of years of service may be made on the basis of an affidavit of the employee. Leave provided by this subchapter accrues to an employee who is not paid on the basis of biweekly pay periods on the same basis as it would accrue if the employee were paid on the basis of biweekly pay periods.
 
-(b) Notwithstanding subsection (a) of this section, an employee whose current employment is limited to less than 90 days is entitled to annual leave under this subchapter only after being currently employed for a continuous period of 90 days under successive appointments without abreak in service. After completing the 90-day period, the employee is entitled to be credited with the leave that would have accrued to him under subsection (a) of this section except for this subsection.
+(b) Notwithstanding subsection (a) of this section, an employee whose current employment is limited to less than 90 days is entitled to annual leave under this subchapter only after being currently employed for a continuous period of 90 days under successive appointments without a break in service. After completing the 90-day period, the employee is entitled to be credited with the leave that would have accrued to him under subsection (a) of this section except for this subsection.
 
 (c) A change in the rate of accrual of annual leave by an employee under this section takes effect at the beginning of the pay period after the pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, in which the employee completed the prescribed period of service.
 

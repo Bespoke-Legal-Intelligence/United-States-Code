@@ -54,7 +54,7 @@ Letter of interest.—The term "letter of interest" means a letter submitted by 
 
 &emsp;(7)
 
-Line of credit.—The term "line of credit" means an agreement entered into by theSecretary with an obligor under section 604 to provide a direct loan at a future date upon the occurrence of certain events.
+Line of credit.—The term "line of credit" means an agreement entered into by the Secretary with an obligor under section 604 to provide a direct loan at a future date upon the occurrence of certain events.
 
 &emsp;(8)
 
@@ -138,7 +138,7 @@ Project.—The term "project" means—
 
 &emsp;&emsp;&emsp;(i) that—
 
-&emsp;&emsp;&emsp;&emsp;(I) is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described insection 5302(4)(G)(v) <sup>1</sup> of title 49, and related infrastructure; or
+&emsp;&emsp;&emsp;&emsp;(I) is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described in section 5302(4)(G)(v) <sup>1</sup> of title 49, and related infrastructure; or
 
 &emsp;&emsp;&emsp;&emsp;(II) is a project for economic development, including commercial and residential development, and related infrastructure and activities—
 
@@ -234,7 +234,7 @@ Treatment of Chapter.—For purposes of this title, this chapter shall be treate
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (a)(5), is act May 27, 1933, ch. 38, title I, 48 Stat. 74,which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (a)(5), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(5), is set out in Title 26, Internal Revenue Code.
 
@@ -562,7 +562,7 @@ Qualifying Projects.—
 
 &emsp;"(1)
 
-In general.—Subject to paragraph (2), funds in an infrastructure bank established under this section may be used only to provide assistance with respect to projects eligible for assistance under title 23, United States Code, for capital projects (as defined in section 5302 of title 49, United States Code), or for any other project related to surface transportation that the Secretary determines to be appropriate.
+In general.—Subject to paragraph (2), funds in an infrastructure bank established under this section may be used only to provide assistance with respect to projects eligible for assistance under title 23,United States Code, for capital projects (as defined in section 5302 of title 49, United States Code), or for any other project related to surface transportation that the Secretary determines to be appropriate.
 
 &emsp;"(2)
 
@@ -580,7 +580,7 @@ Infrastructure Bank Requirements.—
 
 In general.—Subject to paragraph (2), in order to establish an infrastructure bank under this section, each State establishing such a bank shall—
 
-&emsp;&emsp;"(A) contribute, at a minimum, to the bank from non-Federal sources an amount equal to 25 percentof the amount of each capitalization grant made to the State and contributed to the bank under subsection (c), except that if the State has a higher Federal share payable under section 120(b) of title 23, United States Code, the State shall be required to contribute only an amount commensurate with the higher Federal share;
+&emsp;&emsp;"(A) contribute, at a minimum, to the bank from non-Federal sources an amount equal to 25 percent of the amount of each capitalization grant made to the State and contributed to the bank under subsection (c), except that if the State has a higher Federal share payable under section 120(b) of title 23, United States Code, the State shall be required to contribute only an amount commensurate with the higher Federal share;
 
 &emsp;&emsp;"(B) ensure that the bank maintains on a continuing basis an investment grade rating on its debt issuances and its ability to pay claims under credit enhancement programs of the bank;
 
@@ -700,7 +700,7 @@ Highway account.—Notwithstanding any other provision of law, the Secretary may
 
 &emsp;"(3)
 
-Transit account.—Notwithstanding any other provision of law, the Secretary may allow, subject tosubsection (g)(1), a State entering into a cooperative agreement under this section, and any other Federal transit grant recipient, to contribute not to exceed 10 percent of the funds made available to the State or other Federal transit grant recipient in each of fiscal years 1996 and 1997 for capital projects under sections 5307, 5309, and 5311 of title 49, United States Code, into the transit account of the infrastructure bank established by the State. Federal funds contributed to such account under this paragraph shall constitute for purposes of this section a capitalization grant for the transit account of the infrastructure bank.
+Transit account.—Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (g)(1), a State entering into a cooperative agreement under this section, and any other Federal transit grant recipient, to contribute not to exceed 10 percent of the funds made available to the State or other Federal transit grant recipient in each of fiscal years 1996 and 1997 for capital projects under sections 5307, 5309, and 5311 of title 49, United States Code, into the transit account of the infrastructure bank established by the State. Federal funds contributed to such account under this paragraph shall constitute for purposes of this section a capitalization grant for the transit account of the infrastructure bank.
 
 &emsp;"(4)
 

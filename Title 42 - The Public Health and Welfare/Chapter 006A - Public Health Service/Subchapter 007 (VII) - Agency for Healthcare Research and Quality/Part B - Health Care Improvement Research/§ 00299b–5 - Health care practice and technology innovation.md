@@ -22,7 +22,7 @@ The Director shall promote innovation in evidence-based health care practices an
 
 #### (2) Consultations
 
-&emsp;In carrying out this subsection, the Director shall cooperate and consult with the Assistant Secretary for Health, the Administrator of the Centers for Medicare \& Medicaid Services, theDirector of the National Institutes of Health, the Commissioner of Food and Drugs, and the heads of any other interested Federal department or agency, and shall seek input, where appropriate, from professional societies and other private and public entities.
+&emsp;In carrying out this subsection, the Director shall cooperate and consult with the Assistant Secretary for Health, the Administrator of the Centers for Medicare \& Medicaid Services, the Director of the National Institutes of Health, the Commissioner of Food and Drugs, and the heads of any other interested Federal department or agency, and shall seek input, where appropriate, from professional societies and other private and public entities.
 
 #### (3) Methodology
 

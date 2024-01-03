@@ -16,6 +16,7 @@
 | [9021a.](%C2%A7%2009021a%20-%20Air%20Force%20Reserve%20Forces%20Policy%20Committee.md) | Air Force Reserve Forces Policy Committee. |
 | [9022\.](%C2%A7%2009022%20-%20Financial%20management.md) | Financial management. |
 | [9023\.](%C2%A7%2009023%20-%20Chief%20of%20Legislative%20Liaison.md) | Chief of Legislative Liaison. |
+| [9023a.](%C2%A7%2009023a%20-%20Legislative%20Liaison%20of%20the%20Space%20Force.md) | Legislative Liaison of the Space Force. |
 | [9024\.](%C2%A7%2009024%20-%20Director%20of%20Small%20Business%20Programs.md) | Director of Small Business Programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,11 +29,13 @@ A prior chapter 903, consisting of sections 9331 to 9362, related to the United 
 
 #### Amendments
 
+<b>2023</b>—Pub. L. 118–31, div. A, title V, §509B, Dec. 22, 2023, 137 Stat. 243, added item 9023a. Amendment was made pursuant to operation of section 102 of this title.
+
 <b>2021</b>—Pub. L. 117–81, div. A, title XVI, §1602(a)(3), Dec. 27, 2021, 135 Stat. 2076, substituted "Space Acquisition Council" for "Space Force Acquisition Council" in item 9021.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title IX, §954(b), Dec. 20, 2019, 133 Stat. 1565, added items 9021 and 9021a and struck out former item 9021 "Air Force Reserve Forces Policy Committee".
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(d)(4), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 803 of this title as this chapter and items 8011 to 8024 as 9011 to 9024, respectively.
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(d)(4), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter803 of this title as this chapter and items 8011 to 8024 as 9011 to 9024, respectively.
 
 <b>2006</b>—Pub. L. 109–163, div. A, title IX, §904(e)(2), Jan. 6, 2006, 119 Stat. 3402, added item 8024.
 
@@ -44,7 +47,7 @@ A prior chapter 903, consisting of sections 9331 to 9362, related to the United 
 
 <b>1967</b>—Pub. L. 90–168, §2(20), Dec. 1, 1967, 81 Stat. 525, added item 8019.
 
-<b>1964</b>—Pub. L. 88–426, title III, §§305(40)(B), 306(j)(8), Aug. 14, 1964, 78 Stat. 427, 432, struck out"; compensation" from item 8012, and struck out item 8018 "Compensation of General Counsel".
+<b>1964</b>—Pub. L. 88–426, title III, §§305(40)(B), 306(j)(8), Aug. 14, 1964, 78 Stat. 427, 432, struck out "; compensation" from item 8012, and struck out item 8018 "Compensation of General Counsel".
 
 <b>1962</b>—Pub. L. 87–651, title II, §213(b), Sept. 7, 1962, 76 Stat. 524, added item 8010.
 
@@ -69,4 +72,5 @@ A prior chapter 903, consisting of sections 9331 to 9362, related to the United 
 - [&sect; 09021a - Air Force Reserve Forces Policy Committee](%C2%A7%2009021a%20-%20Air%20Force%20Reserve%20Forces%20Policy%20Committee.md)
 - [&sect; 09022 - Financial management](%C2%A7%2009022%20-%20Financial%20management.md)
 - [&sect; 09023 - Chief of Legislative Liaison](%C2%A7%2009023%20-%20Chief%20of%20Legislative%20Liaison.md)
+- [&sect; 09023a - Legislative Liaison of the Space Force](%C2%A7%2009023a%20-%20Legislative%20Liaison%20of%20the%20Space%20Force.md)
 - [&sect; 09024 - Director of Small Business Programs](%C2%A7%2009024%20-%20Director%20of%20Small%20Business%20Programs.md)

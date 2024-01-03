@@ -30,7 +30,7 @@
 
 &emsp;(B) with respect to the violator, the degree of culpability, any history of prior offenses, and such other matters as justice may require.
 
-(3) Transfer of ownership of a high seas fishing vessel, by sale or otherwise, shall not extinguishany permit sanction that is in effect or is pending at the time of transfer of ownership. Before executing the transfer of ownership of a vessel, by sale or otherwise, the owner shall disclose in writing to the prospective transferee the existence of any permit sanction that will be in effect or pending with respect to the vessel at the time of the transfer. The Secretary may waive or compromise a sanction in the case of a transfer pursuant to court order.
+(3) Transfer of ownership of a high seas fishing vessel, by sale or otherwise, shall not extinguish any permit sanction that is in effect or is pending at the time of transfer of ownership. Before executing the transfer of ownership of a vessel, by sale or otherwise, the owner shall disclose in writing to the prospective transferee the existence of any permit sanction that will be in effect or pending with respect to the vessel at the time of the transfer. The Secretary may waive or compromise a sanction in the case of a transfer pursuant to court order.
 
 (4) In the case of any permit that is suspended under this subsection for nonpayment of a civil penalty or criminal fine, the Secretary shall reinstate the permit upon payment of the penalty or fine and interest thereon at the prevailing rate.
 
@@ -46,7 +46,7 @@ Any person against whom a civil penalty is assessed under subsection (a) or agai
 
 #### (e) Collection
 
-(1) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court has entered final judgment in favor of the Secretary, the matter shall be referred to the Attorney General, who shall recover the amount assessed in any appropriate district court of the United States. In such action the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
+(1) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court has entered final judgment in favor of the Secretary, the matter shall be referred to the Attorney General, who shall recover the amountassessed in any appropriate district court of the United States. In such action the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
 (2) A high seas fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used in the commission of an act prohibited by section 5505 of this title shall be liable in rem for any civil penalty assessed for such violation under subsection (a) and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel that may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
 

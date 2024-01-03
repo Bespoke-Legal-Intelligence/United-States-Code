@@ -4,9 +4,9 @@
 
 (B) Each such non-Federal entity that expends Federal awards under more than one Federal program shall undergo a single audit in accordance with the requirements of subsections (b) through (i) of this section and guidance issued by the Director under section 7505.
 
-(C) Each such non-Federal entity that expends awards under only one Federal program and is not subject to laws, regulations, or Federal award agreements that require a financial statement audit of the non-Federal entity, may elect to have a program-specific audit conducted in accordance with applicable provisions of this section and guidance issued by the Director under section 7505.
+(C) Each such non-Federal entity that expends awards under only one Federal program and isnot subject to laws, regulations, or Federal award agreements that require a financial statement audit of the non-Federal entity, may elect to have a program-specific audit conducted in accordance with applicable provisions of this section and guidance issued by the Director under section 7505.
 
-(2)(A) Each non-Federal entity that expends a total amount of Federal awards of less than$300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such entity, shall be exempt for such fiscal year from compliance with—
+(2)(A) Each non-Federal entity that expends a total amount of Federal awards of less than $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such entity, shall be exempt for such fiscal year from compliance with—
 
 &emsp;(i) the audit requirements of this chapter; and
 
@@ -66,7 +66,7 @@
 
 (2) When reporting on any single audit, the auditor shall include a summary of the auditor's results regarding the non-Federal entity's financial statements, internal controls, and compliance with laws and regulations.
 
-(h) The non-Federal entity shall transmit the reporting package, in an electronic form in accordance with the data standards established under chapter 64 and which shall include thenon-Federal entity's financial statements, schedule of expenditures of Federal awards, corrective action plan defined under subsection (i), and auditor's reports developed pursuant to this section, to a Federal clearinghouse designated by the Director, and make it available for public inspection within the earlier of—
+(h) The non-Federal entity shall transmit the reporting package, in an electronic form in accordance with the data standards established under chapter 64 and which shall include the non-Federal entity's financial statements, schedule of expenditures of Federal awards, corrective action plan defined under subsection (i), and auditor's reports developed pursuant to this section, to a Federal clearinghouse designated by the Director, and make it available for public inspection within the earlier of—
 
 &emsp;(1) 30 days after receipt of the auditor's report; or
 
@@ -104,5 +104,5 @@ Subsec. (g). Pub. L. 103–272, §4(f)(1)(W)(iv), substituted "section 3512(c)" 
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 

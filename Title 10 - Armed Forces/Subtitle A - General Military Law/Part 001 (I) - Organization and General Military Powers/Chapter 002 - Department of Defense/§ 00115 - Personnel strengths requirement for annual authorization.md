@@ -56,7 +56,7 @@ Limitation on Appropriations for Military Personnel.—No funds may be appropria
 
 (d)
 
-Military Technician (Dual Status) End Strengths To Be Authorized by Law.—Congress shall authorize for each fiscal year both the minimum end strength for non-temporary military technicians (dual status) and the endstrength for temporary military technicians (dual status) for each reserve component of the Army and Air Force. Funds available to the Department of Defense for any fiscal year may not be used for the pay of a military technician (dual status) during that fiscal year unless the technician fills a position that is within the number of such positions authorized by law for that fiscal year for the reserve component of that technician. This subsection applies without regard to section 129 of this title. In each budget submitted by the President to Congress under section 1105 of title 31, the minimum end strength for non-temporary military technicians (dual status), and the end strength for temporary military technicians (dual status), requested for each reserve component of the Army and Air Force shall be specifically set forth.
+Military Technician (Dual Status) End Strengths To Be Authorized by Law.—Congress shall authorize for each fiscal year both the minimum end strength for non-temporary military technicians (dual status) and the end strength for temporary military technicians (dual status) for each reserve component of the Army and Air Force. Funds available to the Department of Defense for any fiscal year may not be used for the pay of a military technician (dual status) during that fiscal year unless the technician fills a position that is within the number of such positions authorized by law for that fiscal year for the reserve component of that technician. This subsection applies without regard to section 129 of this title. In each budget submitted by the President to Congress under section 1105 of title 31, the minimum end strength for non-temporary military technicians (dual status), and the end strength for temporary military technicians (dual status), requested for each reserve component of the Army and Air Force shall be specifically set forth.
 
 (e)
 
@@ -74,7 +74,7 @@ Authority for Secretary of Defense Variances for Active-Duty and Selected Reserv
 
 &emsp;(1) vary the end strength authorized pursuant to subsection (a)(1)(A) for a fiscal year for any of the armed forces by a number equal to not more than 3 percent of that end strength;
 
-&emsp;(2) vary the end strength authorized pursuant to subsection (a)(1)(B) for a fiscal year for any of the armed forces by a number equal to not more than 2 percent of that end strength;
+&emsp;(2) vary the end strength authorized pursuant to subsection (a)(1)(B) for a fiscal year for any of the armed forces by a number equal to not more than 3 percent of that end strength;
 
 &emsp;(3) vary the end strength authorized pursuant to subsection (a)(2) for a fiscal year for the Selected Reserve of any of the reserve components by a number equal to not more than 3 percent of that end strength; and
 
@@ -84,9 +84,11 @@ Authority for Secretary of Defense Variances for Active-Duty and Selected Reserv
 
 Authority for Service Secretary Variances for Active-duty and Selected Reserve End Strengths.—(1) Upon determination by the Secretary of a military department that such action would enhance manning and readiness in essential units or in critical specialties or ratings, the Secretary may—
 
-&emsp;(A) vary the end strength pursuant to subsection (a)(1)(A) for a fiscal year for the armed force or forces under the jurisdiction of that Secretary by a number not equal to more than two percent of such authorized end strength; and
+&emsp;(A) vary the end strength pursuant to subsection (a)(1)(A) for a fiscal year for the armed force or forces under the jurisdiction of that Secretary by a number not equal to more than 2 percent of such authorized end strength;
 
-&emsp;(B) vary the end strength pursuant to subsection (a)(2) for a fiscal year for the Selected Reserve of the reserve component of the armed force or forces under the jurisdiction of that Secretary by a number equal to not more than one percent of such authorized end strength.
+&emsp;(B) vary the end strength pursuant to subsection (a)(1)(B) for a fiscal year for the armed force or forces under the jurisdiction of that Secretary by a number not equal to more than 2 percent of such authorized end strength; and
+
+&emsp;(C) vary the end strength pursuant to subsection (a)(2) for a fiscal year for the Selected Reserve of the reserve component of the armed force or forces under the jurisdiction of that Secretary by a number equal to not more than 2 percent of such authorized end strength.
 
 (2) Any variance under paragraph (1)(A) of the end strength for an armed force for a fiscal year shall be counted as part of the variance for that armed force for that fiscal year authorized under subsection (f)(1). Any variance under paragraph (1)(B) of the end strength for the Selected Reserve of a reserve component of an armed force for a fiscal year shall be counted as part of the variance for that Selected Reserve for that fiscal year authorized under subsection (f)(3).
 
@@ -100,7 +102,7 @@ Authority for Service Secretary Variances for Active-duty and Selected Reserve E
 
 (h)
 
-Adjustment When Coast Guard is Operating as a Service in the Navy.—The authorized strength of the Navy under subsection (a)(1)is increased by the authorized strength of the Coast Guard during any period when the Coast Guard is operating as a service in the Navy.
+Adjustment When Coast Guard is Operating as a Service in the Navy.—The authorized strength of the Navy under subsection (a)(1) is increased by the authorized strength of the Coast Guard during any period when the Coast Guard is operating as a service in the Navy.
 
 (i)
 
@@ -132,7 +134,7 @@ Certain Personnel Excluded From Counting for Active-Duty End Strengths.—In cou
 
 &emsp;(13) Members of the National Guard on full-time National Guard duty involuntarily and performing homeland defense activities under chapter 9 of title 32.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1710; amended Pub. L. 102–190, div. A, title III, §312(a), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title IV, §§401(c), 415, title V, §513(a)(1), title X, §1061(c), title XV, §1501(c)(3), Feb. 10, 1996, 110 Stat. 286, 288, 305, 442, 498; Pub. L. 105–85, div. A, title IV, §413(b), title V, §522(i)(1), Nov. 18, 1997, 111 Stat. 1720, 1736; Pub. L. 106–65, div. A, title IV, §415, Oct. 5, 1999, 113 Stat. 587; Pub. L. 106–398, §1 \[\[div. A\], title IV, §422\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 107–107, div. A, title IV, §§421(a), 422, Dec. 28, 2001, 115 Stat. 1076, 1077; Pub. L. 107–314, div. A, title IV, §403, Dec. 2, 2002, 116 Stat. 2525; Pub. L. 108–136, div. A, title IV, §403(a), (b), Nov. 24, 2003, 117 Stat. 1450, 1451; Pub. L. 108–375, div. A, title IV, §416(a)–(d), title V, §512(b), Oct. 28, 2004, 118 Stat. 1866, 1867, 1880; Pub. L. 109–364, div. A, title X, §1071(a)(1), (g)(1)(A), Oct. 17, 2006, 120 Stat. 2398, 2402; Pub. L. 110–181, div. A, title IV, §§416(b), 417, Jan. 28, 2008, 122 Stat. 91, 92; Pub. L. 111–84, div. A, title IV, §418, Oct. 28, 2009, 123 Stat. 2268; Pub. L. 114–328, div. A, title IV, §416, Dec. 23, 2016, 130 Stat. 2093; Pub. L. 115–91, div. A, title X, §1081(a)(2), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 115–232, div. A, title XII, §1204(a)(4), Aug. 13, 2018, 132 Stat. 2017; Pub. L. 116–283, div. A, title IV, §415(a), Jan. 1, 2021, 134 Stat. 3558; Pub. L. 117–81, div. A, title IV, §415, Dec. 27, 2021, 135 Stat. 1675; Pub. L. 117–263, div. A, title IV, §402(b), Dec. 23, 2022, 136 Stat. 2551.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1710; amended Pub. L. 102–190, div. A, title III, §312(a), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title IV, §§401(c), 415, title V, §513(a)(1), title X, §1061(c), title XV, §1501(c)(3), Feb. 10, 1996, 110 Stat. 286, 288, 305, 442, 498; Pub. L. 105–85, div. A, title IV, §413(b), title V, §522(i)(1), Nov. 18, 1997, 111 Stat. 1720, 1736; Pub. L. 106–65, div. A, title IV, §415, Oct. 5, 1999, 113 Stat. 587; Pub. L. 106–398, §1 \[\[div. A\], title IV, §422\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 107–107, div. A, title IV, §§421(a), 422, Dec. 28, 2001, 115 Stat. 1076,1077; Pub. L. 107–314, div. A, title IV, §403, Dec. 2, 2002, 116 Stat. 2525; Pub. L. 108–136, div. A, title IV, §403(a), (b), Nov. 24, 2003, 117 Stat. 1450, 1451; Pub. L. 108–375, div. A, title IV, §416(a)–(d), title V, §512(b), Oct. 28, 2004, 118 Stat. 1866, 1867, 1880; Pub. L. 109–364, div. A, title X, §1071(a)(1), (g)(1)(A), Oct. 17, 2006, 120 Stat. 2398, 2402; Pub. L. 110–181, div. A, title IV, §§416(b), 417, Jan. 28, 2008, 122 Stat. 91, 92; Pub. L. 111–84, div. A, title IV, §418, Oct. 28, 2009, 123 Stat. 2268; Pub. L. 114–328, div. A, title IV, §416, Dec. 23, 2016, 130 Stat. 2093; Pub. L. 115–91, div. A, title X, §1081(a)(2), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 115–232, div. A, title XII, §1204(a)(4), Aug. 13, 2018, 132 Stat. 2017; Pub. L. 116–283, div. A, title IV, §415(a), Jan. 1, 2021, 134 Stat. 3558; Pub. L. 117–81, div. A, title IV, §415, Dec. 27, 2021, 135 Stat. 1675; Pub. L. 117–263, div. A, title IV, §402(b), Dec. 23, 2022, 136 Stat. 2551; Pub. L. 118–31, div. A, title IV, §402, Dec. 22, 2023, 137 Stat. 235.)
 
 #### <b>Editorial Notes</b>
 
@@ -145,6 +147,14 @@ Section 10(b)(2) of the Military Selective Service Act, referred to in subsec. (
 A prior section 115, added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138(b)–(d); amended Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title I, §102, Dec. 12, 1980, 94 Stat. 2840; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IX, §§902, 903, Dec. 1, 1981, 95 Stat. 1113, 1114; Pub. L. 97–252, title IV, §402(a), Sept. 8, 1982, 96 Stat. 725; Pub. L. 97–295, §1(3), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–145, title XII, §1208, Nov. 8, 1985, 99 Stat. 723; renumbered §115, Pub. L. 99–433, title I, §§101(a)(2), 110(b)(4), (5), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 99–661, div. A, title IV, §§411(c) \[(d)\], 413, Nov. 14, 1986, 100 Stat. 3861, 3862; Pub. L. 100–26, §7(j)(2), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–456, div. A, title VI, §641, Sept. 29, 1988, 102 Stat. 1987, related to annual authorization of personnel strengths and annual manpower requirements reports, prior to repeal and reenactment as sections 115, 115a, 115b \[now 10541\], 123a, and 129a of this title by Pub. L. 101–510, §1483(a), (b).
 
 #### Amendments
+
+<b>2023</b>—Subsec. (f)(2). Pub. L. 118–31, §402(1), substituted "not more than 3 percent" for "not more than 2 percent".
+
+Subsec. (g)(1). Pub. L. 118–31, §402(2), added subpars. (A) to (C) and struck out former subpars. (A) and (B) which read as follows:
+
+"(A) vary the end strength pursuant to subsection (a)(1)(A) for a fiscal year for the armed force or forces under the jurisdiction of that Secretary by a number not equal to more than two percent of such authorized end strength; and
+
+"(B) vary the end strength pursuant to subsection (a)(2) for a fiscal year for the Selected Reserve of the reserve component of the armed force or forces under the jurisdiction of that Secretary by a number equal to not more than one percent of such authorized end strength."
 
 <b>2022</b>—Subsec. (f). Pub. L. 117–263, §402(b)(1), substituted "vary" for "increase" in pars. (1), (2), and (4).
 
@@ -302,7 +312,7 @@ Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, pr
 
 #### Regulations
 
-Pub. L. 108–375, div. A, title IV, §416(m), Oct. 28, 2004, 118 Stat. 1869, provided that: "The Secretary of Defense shall prescribe by regulation the meaning of the term 'operational support' for purposes of paragraph (1) of subsection (b) of section 115 of title 10, United States Code, as added by subsection (a)."
+Pub. L. 108–375, div. A, title IV, §416(m), Oct. 28, 2004, 118 Stat. 1869, provided that: "The Secretary of Defenseshall prescribe by regulation the meaning of the term 'operational support' for purposes of paragraph (1) of subsection (b) of section 115 of title 10, United States Code, as added by subsection (a)."
 
 #### Transfer of Functions
 
@@ -342,7 +352,7 @@ Pub. L. 104–106, div. A, title V, §513(b), Feb. 10, 1996, 110 Stat. 305.
 
 #### Comptroller General Review of Proposed Army End Strength Allocations
 
-Pub. L. 104–106, title V, §552, Feb. 10, 1996, 110 Stat. 319, provided that, during fiscal years 1996 through 2001, the Comptroller General was (1) to analyze the plans of the Secretary of the Army for the allocation of assigned active component end strengths for the Army through the requirements process known as Total Army Analysis 2003 and through any subsequent similar requirements process of the Army that was conducted before 2002, (2) to consider whether the proposed active component end strengths and planned allocation of forces for that period was sufficient to implement the national military strategy, and (3) to submit toCongress an annual report by Mar. 1 of each year through 2002 on the Comptroller General's findings and conclusions, prior to repeal by Pub. L. 107–107, div. A, title V, §595, Dec. 28, 2001, 115 Stat. 1126.
+Pub. L. 104–106, title V, §552, Feb. 10, 1996, 110 Stat. 319, provided that, during fiscal years 1996 through 2001, the Comptroller General was (1) to analyze the plans of the Secretary of the Army for the allocation of assigned active component end strengths for the Army through the requirements process known as Total Army Analysis 2003 and through any subsequent similar requirements process of the Army that was conducted before 2002, (2) to consider whether the proposed active component end strengths and planned allocation of forces for that period was sufficient to implement the national military strategy, and (3) to submit to Congress an annual report by Mar. 1 of each year through 2002 on the Comptroller General's findings and conclusions, prior to repeal by Pub. L. 107–107, div. A, title V, §595, Dec. 28, 2001, 115 Stat. 1126.
 
 #### Effect of Reserve Component on Computation of End Strength Limitation for Active Forces for Fiscal Year 1995
 

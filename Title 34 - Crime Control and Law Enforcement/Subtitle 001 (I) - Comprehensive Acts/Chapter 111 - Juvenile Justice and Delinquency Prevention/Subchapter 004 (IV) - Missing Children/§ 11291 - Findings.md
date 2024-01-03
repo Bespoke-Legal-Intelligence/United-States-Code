@@ -36,7 +36,7 @@ A prior section 402 of Pub. L. 93–415 amended section 3888 of Title 42, The Pu
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–393 made amendments to this section substantially identical to those made by Pub. L. 115–267, §2(a). See Amendment notes below. Text of section is based on amendments by Pub. L. 115–267.
+<b>2018</b>—Pub. L. 115–393 made amendments to this section substantially identical to those made by Pub. L.115–267, §2(a). See Amendment notes below. Text of section is based on amendments by Pub. L. 115–267.
 
 Par. (1). Pub. L. 115–267, §2(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "each year thousands of children are abducted or removed from the control of a parent having legal custody without such parent's consent, under circumstances which immediately place the child in grave danger;".
 

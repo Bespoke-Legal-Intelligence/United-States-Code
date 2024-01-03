@@ -270,7 +270,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) described in paragraph (1) of subsection (c) of section 2791 of the Public Health Service Act; or
 
-&emsp;&emsp;(B) described in paragraph (2), (3), or (4) of such subsection if the benefits are providedunder a separate policy, certificate, or contract of insurance.
+&emsp;&emsp;(B) described in paragraph (2), (3), or (4) of such subsection if the benefits are provided under a separate policy, certificate, or contract of insurance.
 
 #### (4) Individuals residing outside United States or residents of territories
 
@@ -350,7 +350,7 @@ Subsec. (c)(3)(D)(ii). Pub. L. 115–97, §11002(d)(1)(GG), substituted "for 'ca
 
 Subsec. (c)(1), (2). Pub. L. 111–148, §10106(b)(2), amended pars. (1) and (2) generally. Prior to amendment pars. (1) and (2) related to the amount of and dollar limitations on penalty for failure to maintain minimum essential coverage.
 
-Subsec. (c)(2)(B). Pub. L. 111–152, §1002(a)(1)(A), inserted "the excess of" before "the taxpayer's household income" and "for the taxable year over the amount of gross income specified in section 6012(a)(1) with respectto the taxpayer" before "for the taxable year" in introductory provisions.
+Subsec. (c)(2)(B). Pub. L. 111–152, §1002(a)(1)(A), inserted "the excess of" before "the taxpayer's household income" and "for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer" before "for the taxable year" in introductory provisions.
 
 Subsec. (c)(2)(B)(i). Pub. L. 111–152, §1002(a)(1)(B), substituted "1.0" for "0.5".
 

@@ -76,7 +76,7 @@
 
 #### (B) Meeting for review
 
-&emsp;&emsp;If the Secretary rescinds or modifies under subparagraph (A) a determination to qualify a drug development tool, the requestor involved shall, on request, be granted a meeting with the Secretary to discuss the basis of the Secretary's decision to rescind or modify the determination before the effective date of the rescission or modification.
+&emsp;&emsp;If the Secretary rescinds or modifies under subparagraph (A) a determination to qualifya drug development tool, the requestor involved shall, on request, be granted a meeting with the Secretary to discuss the basis of the Secretary's decision to rescind or modify the determination before the effective date of the rescission or modification.
 
 #### (c) Transparency
 
@@ -128,7 +128,7 @@
 
 Nothing in this section shall be construed—
 
-&emsp;(1) to alter the standards of evidence under subsection (c) or (d) of section 355 of this title,including the substantial evidence standard in such subsection (d), or under section 351 of the Public Health Service Act \[42 U.S.C. 262\] (as applicable); or
+&emsp;(1) to alter the standards of evidence under subsection (c) or (d) of section 355 of this title, including the substantial evidence standard in such subsection (d), or under section 351 of the Public Health Service Act \[42 U.S.C. 262\] (as applicable); or
 
 &emsp;(2) to limit the authority of the Secretary to approve or license products under this chapter or the Public Health Service Act \[42 U.S.C. 201 et seq.\], as applicable (as in effect before December 13, 2016).
 
@@ -214,7 +214,7 @@ Pub. L. 114–255, div. A, title III, §3011(b), Dec. 13, 2016, 130 Stat. 1089, 
 
 "(1)
 
-In general.—The Secretary of Health and Human Services (referred to in this section \[this note\] as the 'Secretary') shall, in consultation with biomedical research consortia (as defined in subsection (e) of section 507 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 357\] (as added by subsection (a)) and other interested parties through a collaborative publicprocess, issue guidance to implement such section 507 that—
+In general.—The Secretary of Health and Human Services (referred to in this section \[this note\] as the 'Secretary') shall, in consultation with biomedical research consortia (as defined in subsection (e) of section 507 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 357\] (as added by subsection (a)) and other interested parties through a collaborative public process, issue guidance to implement such section 507 that—
 
 &emsp;"(A) provides a conceptual framework describing appropriate standards and scientific approaches to support the development of biomarkers delineated under the taxonomy established under paragraph (3);
 

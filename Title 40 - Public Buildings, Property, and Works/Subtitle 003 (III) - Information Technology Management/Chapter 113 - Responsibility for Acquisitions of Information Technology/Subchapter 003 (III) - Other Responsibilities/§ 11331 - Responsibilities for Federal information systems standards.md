@@ -6,7 +6,7 @@ Standards and Guidelines.—
 
 &emsp;(1)
 
-Authority to prescribe.—Except as provided under paragraph (2), the Secretary of Commerce shall, on the basis of standards and guidelines developed by the National Institute of Standards and Technology pursuant to paragraphs (2) and (3) of section 20(a) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(a)), prescribe standards and guidelines pertaining to Federal information systems.
+Authority to prescribe.—Except as provided under paragraph (2), the Secretary of Commerce shall, on the basis of standards and guidelines developed by the National Institute of Standards and Technology pursuant toparagraphs (2) and (3) of section 20(a) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(a)), prescribe standards and guidelines pertaining to Federal information systems.
 
 &emsp;(2)
 
@@ -38,7 +38,7 @@ Requirement.—Information security standards described in subparagraph (A) shal
 
 (c)
 
-Authority to Disapprove or Modify.—The President may disapprove or modify the standards and guidelines referred to in subsection\(a)(1) if the President determines such action to be in the public interest. The President's authority to disapprove or modify such standards and guidelines may not be delegated. Notice of such disapproval or modification shall be published promptly in the Federal Register. Upon receiving notice of such disapproval or modification, the Secretary of Commerce shall immediately rescind or modify such standards or guidelines as directed by the President.
+Authority to Disapprove or Modify.—The President may disapprove or modify the standards and guidelines referred to in subsection (a)(1) if the President determines such action to be in the public interest. The President's authority to disapprove or modify such standards and guidelines may not be delegated. Notice of such disapproval or modification shall be published promptly in the Federal Register. Upon receiving notice of such disapproval or modification, the Secretary of Commerce shall immediately rescind or modify such standards or guidelines as directed by the President.
 
 (d)
 
@@ -122,7 +122,7 @@ Authority to make mandatory.—Except as provided under paragraph (2), the Secre
 
 Required mandatory standards.—(A) Standards prescribed under subsection (a)(1) shall include information security standards that—
 
-&emsp;&emsp;"(i) provide minimum information security requirements as determined under section 20(b) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(b)); and
+&emsp;&emsp;"(i) provide minimum information security requirements as determined under section 20(b) of theNational Institute of Standards and Technology Act (15 U.S.C. 278g–3(b)); and
 
 &emsp;&emsp;"(ii) are otherwise necessary to improve the security of Federal information and information systems.
 

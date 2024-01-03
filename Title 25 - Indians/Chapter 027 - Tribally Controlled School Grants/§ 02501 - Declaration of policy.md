@@ -40,7 +40,7 @@ Congress repudiates and rejects House Concurrent Resolution 108 of the 83d Congr
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638,Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 House Concurrent Resolution 108 of the 83rd Congress, referred to in subsec. (f), is H. Con. Res. 108, Eighty-third Congress, Aug. 1, 1953, 67 Stat. B132, which is not classified to the Code.
 

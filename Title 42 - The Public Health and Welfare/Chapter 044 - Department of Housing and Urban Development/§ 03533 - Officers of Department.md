@@ -72,7 +72,7 @@ There shall be in the Department a Federal Housing Administration Comptroller, d
 
 #### (B) Specific functions
 
-&emsp;&emsp;The Director shall carry out the functions assigned to the Director and the Office underthis section and any other provisions of law. Such functions shall include establishing rules necessary for—
+&emsp;&emsp;The Director shall carry out the functions assigned to the Director and the Office under this section and any other provisions of law. Such functions shall include establishing rules necessary for—
 
 &emsp;&emsp;&emsp;(i) the counseling procedures under section 1701x(g)(1) of title 12;
 
@@ -120,7 +120,7 @@ There shall be in the Department a Federal Housing Administration Comptroller, d
 
 #### (5) Scope of homeownership counseling
 
-&emsp;In carrying out the responsibilities of the Director, the Director shall ensure that homeownership counseling provided by, in connection with, or pursuant to any function, activity, or program of the Department addresses the entire process of homeownership, including the decision to purchase a home, the selection and purchase of a home, issues arising during or affecting the period of ownership of a home (including refinancing, default and foreclosure, and other financial decisions), and the sale or other disposition of a home.
+&emsp;In carrying out the responsibilities of the Director, the Director shall ensure that homeownership counseling provided by, in connection with, or pursuant to any function, activity, or program of the Department addresses the entire process of homeownership, including the decision to purchase a home, the selection and purchase of a home, issues arising during or affecting the period of ownership of a home (including refinancing, default andforeclosure, and other financial decisions), and the sale or other disposition of a home.
 
 #### (h) Special Assistant for Veterans Affairs
 
@@ -232,7 +232,7 @@ Amendment by Pub. L. 101–509 effective on first day of first pay period that b
 
 #### Effective Date; Interim Appointments
 
-Nomination and appointment of Under Secretary, Assistant Secretaries, General Counsel, Federal Housing Commissioner, and Assistant Secretary for Administration of Department of Housing and Urban Development any time after Sept. 9, 1965, and interim designationand compensation of officers of Housing and Home Finance Agency for those offices upon non-entry upon the offices upon expiration of first period of sixty calendar days following Sept. 9, 1965 or on earlier date specified by Executive order, see section 11 of Pub. L. 89–174, set out as a note under section 3531 of this title.
+Nomination and appointment of Under Secretary, Assistant Secretaries, General Counsel, Federal Housing Commissioner, and Assistant Secretary for Administration of Department of Housing and Urban Development any time after Sept. 9, 1965, and interim designation and compensation of officers of Housing and Home Finance Agency for those offices upon non-entry upon the offices upon expiration of first period of sixty calendar days following Sept. 9, 1965 or on earlier date specified by Executive order, see section 11 of Pub. L. 89–174, set out as a note under section 3531 of this title.
 
 #### Transfer of Position in Office of Deputy Assistant Secretary for Special Needs
 

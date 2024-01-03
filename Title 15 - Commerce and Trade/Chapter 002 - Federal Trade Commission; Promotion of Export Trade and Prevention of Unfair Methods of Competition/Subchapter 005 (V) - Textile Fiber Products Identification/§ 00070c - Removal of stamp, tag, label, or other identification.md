@@ -12,7 +12,7 @@ Any person—
 
 &emsp;(2) selling, advertising, or offering for sale a textile fiber product whether in its original state or contained in other textile fiber products, which has been shipped, advertised, or offered for sale, in commerce,
 
-> may substitute for the stamp, tag, label, or other means of identification required to be affixed to such textile product pursuant to section 70b(b) of this title, a stamp, tag, label, or other means of identification conforming to the requirements of section 70b(b) of this title, and such substituted stamp, tag, label, or other means of identification shall show the name or other identification issued and registered by the Commission of the person making the substitution.
+> may substitute for the stamp, tag, label, or other means of identification required to be affixed to such textile product pursuant to section 70b(b) of this title, a stamp, tag, label, or other means of identification conforming to the requirements of section 70b(b) of this title, and such substituted stamp, tag, label, or other means of identification shall show the name orother identification issued and registered by the Commission of the person making the substitution.
 
 #### (c) Affixing of stamp, tag, etc. to individual unit of broken package
 

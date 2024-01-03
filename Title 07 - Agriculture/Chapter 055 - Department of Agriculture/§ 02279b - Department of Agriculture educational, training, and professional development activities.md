@@ -100,7 +100,7 @@ Under the general supervision of the Secretary, the Graduate School shall develo
 
 #### (6) Liability
 
-&emsp;The Director and the members of the Board shall not be held personally liable for any loss or damage that may accrue to the funds of the Graduate School as the result of any act or exercise of discretion performed in carrying out their duties under this section.
+&emsp;The Director and the members of the Board shall not be held personally liable for any loss or damage that may accrue to the funds of theGraduate School as the result of any act or exercise of discretion performed in carrying out their duties under this section.
 
 #### (f) Employees
 

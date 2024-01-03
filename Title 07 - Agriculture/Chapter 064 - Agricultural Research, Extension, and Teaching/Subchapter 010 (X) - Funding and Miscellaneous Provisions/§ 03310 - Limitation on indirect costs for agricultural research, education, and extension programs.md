@@ -12,7 +12,7 @@ Subsections (a) and (c) shall not apply to a grant awarded competitively under s
 
 In the case of a grant described in subsection (a), the limitation on indirect costs specified in such subsection shall be applied to both the initial grant award and any subgrant of the Federal funds provided under the initial grant award so that the total of all indirect costs charged against the total of the Federal funds provided under the initial grant award does not exceed such limitation.
 
-(Pub. L. 95–113, title XIV, §1462, as added Pub. L. 105–185, title II, §230(a), June 23, 1998, 112 Stat.546; amended Pub. L. 107–171, title VII, §7222, May 13, 2002, 116 Stat. 454; Pub. L. 110–234, title VII, §7132(a), May 22, 2008, 122 Stat. 1228; Pub. L. 110–246, §4(a), title VII, §7132(a), June 18, 2008, 122 Stat. 1664, 1989; Pub. L. 115–334, title VII, §7125, Dec. 20, 2018, 132 Stat. 4794.)
+(Pub. L. 95–113, title XIV, §1462, as added Pub. L. 105–185, title II, §230(a), June 23, 1998, 112 Stat. 546; amended Pub. L. 107–171, title VII, §7222, May 13, 2002, 116 Stat. 454; Pub. L. 110–234, title VII, §7132(a), May 22, 2008, 122 Stat. 1228; Pub. L. 110–246, §4(a), title VII, §7132(a), June 18, 2008, 122 Stat. 1664, 1989; Pub. L. 115–334, title VII, §7125, Dec. 20, 2018, 132 Stat. 4794.)
 
 #### <b>Editorial Notes</b>
 

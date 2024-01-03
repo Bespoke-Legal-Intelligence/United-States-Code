@@ -88,7 +88,7 @@ In this section:
 
 #### (C) Distribution
 
-&emsp;&emsp;In carrying out the Program and to the extent practicable, the Director shall ensure there is a wide, equitable distribution of Program participants across diverse geographic areas and that the Program includes a diverse representation of students, including students from groups historically underrepresented in STEM.
+&emsp;&emsp;In carrying out the Program and to the extent practicable, the Director shall ensurethere is a wide, equitable distribution of Program participants across diverse geographic areas and that the Program includes a diverse representation of students, including students from groups historically underrepresented in STEM.
 
 #### (3) Consultation
 

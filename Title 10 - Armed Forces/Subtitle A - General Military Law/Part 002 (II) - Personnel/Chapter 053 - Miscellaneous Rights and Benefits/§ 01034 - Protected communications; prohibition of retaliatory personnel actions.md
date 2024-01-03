@@ -54,7 +54,7 @@ Inspector General Investigation of Allegations of Prohibited Personnel Actions.�
 
 &emsp;(B) Gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
 
-&emsp;(C) A threat by another member of the armed forces or employee of the Federal Government that indicates a determination or intent to kill or cause serious bodily injury to members of the armed forces or civilians or damage to military, Federal, or civilian property.
+&emsp;(C) A threat by another member of the armed forces or employee of the Federal Government that indicates a determination or intent to kill or cause serious bodily injury tomembers of the armed forces or civilians or damage to military, Federal, or civilian property.
 
 (3) A communication described in paragraph (2) shall not be excluded from the protections provided in this section because—
 
@@ -96,7 +96,7 @@ Inspector General Investigation of Underlying Allegations.—Upon receiving an a
 
 (e)
 
-Reports on Investigations.—(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval ofthe report of that investigation under subsection (c)(4)(F), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to such Secretaries, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(E).
+Reports on Investigations.—(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(F), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to such Secretaries, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(E).
 
 (2) In the copy of the report transmitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under section 552 of title 5. However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.
 
@@ -158,7 +158,7 @@ Correction of Records When Prohibited Action Taken.—(1) A board for the correc
 
 &emsp;(B) may examine witnesses through deposition, serve interrogatories, and request the production of evidence, including evidence contained in the investigatory record of the Inspector General but not included in the report submitted under subsection (e)(1).
 
-(4) The Secretary concerned shall issue a final decision with respect to an application described in paragraph (1) within 180 days after the application is filed. If the Secretary fails to issue such a final decision within that time, the member or former member shall be deemed to have exhausted the member's or former member's administrative remedies under section 1552 of this title.
+(4) The Secretary concerned shall issue a final decision with respect to an application describedin paragraph (1) within 180 days after the application is filed. If the Secretary fails to issue such a final decision within that time, the member or former member shall be deemed to have exhausted the member's or former member's administrative remedies under section 1552 of this title.
 
 (5) The Secretary concerned shall order such action, consistent with the limitations contained in sections 1552 and 1553 of this title, as is necessary to correct the record of a personnel action prohibited by subsection (b).
 
@@ -306,7 +306,7 @@ Subsec. (c)(1). Pub. L. 105–261, §933(a)(1)(A), added par. (1) and struck out
 
 Subsec. (c)(2)(B). Pub. L. 105–261, §933(b), substituted "Gross mismanagement" for "Mismanagement".
 
-Subsec. (c)(3) to (5). Pub. L. 105–261, §933(a)(1)(B), added pars. (3) to (5) and struck out former par. (3) which read as follows: "The Inspector General is not required to make an investigation under paragraph (1) in the case of an allegation made more than 60 days after the date on which the member becomes aware of the personnel action that is the subject of the allegation."
+Subsec. (c)(3) to (5). Pub. L. 105–261, §933(a)(1)(B), added pars. (3) to (5) and struck out former par. (3)which read as follows: "The Inspector General is not required to make an investigation under paragraph (1) in the case of an allegation made more than 60 days after the date on which the member becomes aware of the personnel action that is the subject of the allegation."
 
 Subsec. (d). Pub. L. 105–261, §933(a)(2), inserted "receiving the allegation" after ", the Inspector General" and "In the case of an allegation received by the Inspector General of the Department of Defense, the Inspector General may delegate that responsibility to the Inspector General of the armed force concerned." at end.
 

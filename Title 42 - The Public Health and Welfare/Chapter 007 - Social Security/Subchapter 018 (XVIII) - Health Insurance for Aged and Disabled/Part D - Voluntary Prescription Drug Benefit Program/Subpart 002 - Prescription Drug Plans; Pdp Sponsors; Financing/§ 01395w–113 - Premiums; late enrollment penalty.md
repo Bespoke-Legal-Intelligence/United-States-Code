@@ -70,7 +70,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For each year (beginning with 2006) the Secretary shall compute a national average monthly bid amount equal to the average of the standardized bid amounts (as defined in paragraph (5)) for each prescription drug plan and for each MA–PD plan described in section 1395w–21(a)(2)(A)(i) of this title. Such average does not take into account the bids submitted for MSA plans, MA private fee-for-service plan, and specialized MA plans for special needs individuals, PACE programs under section 1395eee of this title (pursuant to section 1395w–131(f) of this title), and under reasonable cost reimbursement contracts under section 1395mm(h) of this title (pursuant to section 1395w–131(e) of this title).
+&emsp;&emsp;For each year (beginning with 2006) the Secretary shall compute a national average monthly bid amount equal to the average ofthe standardized bid amounts (as defined in paragraph (5)) for each prescription drug plan and for each MA–PD plan described in section 1395w–21(a)(2)(A)(i) of this title. Such average does not take into account the bids submitted for MSA plans, MA private fee-for-service plan, and specialized MA plans for special needs individuals, PACE programs under section 1395eee of this title (pursuant to section 1395w–131(f) of this title), and under reasonable cost reimbursement contracts under section 1395mm(h) of this title (pursuant to section 1395w–131(e) of this title).
 
 #### (B) Weighted average
 
@@ -138,7 +138,7 @@
 
 #### (ii) Additional disclosure
 
-&emsp;&emsp;&emsp;Not later than October 15 of each year beginning with 2010, the Secretary shalldisclose to the Commissioner of Social Security the following information for the purpose of carrying out the income-related increase in the base beneficiary premium under this paragraph with respect to the following year:
+&emsp;&emsp;&emsp;Not later than October 15 of each year beginning with 2010, the Secretary shall disclose to the Commissioner of Social Security the following information for the purpose of carrying out the income-related increase in the base beneficiary premium under this paragraph with respect to the following year:
 
 &emsp;&emsp;&emsp;&emsp;(I) The modified adjusted gross income threshold applicable under paragraph (2) of section 1395r(i) of this title (including application of paragraph (5) of such section).
 
@@ -362,7 +362,7 @@
 
 &emsp;&emsp;In the case where the monthly benefit payments of an individual that are withheld under subparagraph (A) are insufficient to pay the amount described in such subparagraph, the Commissioner of Social Security shall enter into agreements with the Secretary, the Director of the Office of Personnel Management, and the Railroad Retirement Board as necessary in order to allow other agencies to collect the amount described in subparagraph (A) that was not withheld under such subparagraph.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–13, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2102; amended Pub. L. 110–275, titleI, §114(a)(1), July 15, 2008, 122 Stat. 2506; Pub. L. 111–148, title III, §3308(a), (b)(1), Mar. 23, 2010, 124 Stat. 472, 474; Pub. L. 117–169, title I, §11201(d)(1), (2), (3)(C), Aug. 16, 2022, 136 Stat. 1888, 1890.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–13, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2102; amended Pub. L. 110–275, title I, §114(a)(1), July 15, 2008, 122 Stat. 2506; Pub. L. 111–148, title III, §3308(a), (b)(1), Mar. 23, 2010, 124 Stat. 472, 474; Pub. L. 117–169, title I, §11201(d)(1), (2), (3)(C), Aug. 16, 2022, 136 Stat. 1888, 1890.)
 
 #### <b>Editorial Notes</b>
 

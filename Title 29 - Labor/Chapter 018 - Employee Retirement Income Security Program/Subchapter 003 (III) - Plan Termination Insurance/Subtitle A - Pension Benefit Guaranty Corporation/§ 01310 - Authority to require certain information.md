@@ -82,13 +82,9 @@ Subsecs. (d), (e). Pub. L. 109–280, §505(b), added subsecs. (d) and (e).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L.113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2012 Amendment
 

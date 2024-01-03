@@ -42,7 +42,7 @@ Another section 7520 was renumbered section 7521 of this title.
 
 #### Amendments
 
-<b>2014</b>—Subsec. (c)(2), (3). Pub. L. 113–295 redesignated par. (3) as (2), substituted "The Secretary" for "Notlater than December 31, 1989, the Secretary" and struck out "thereafter" after "once each 10 years", and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "Not later than the day 3 months after the date of the enactment of this section, the Secretary shall prescribe initial tables for purposes of subsection (a). Such tables may be based on the same mortality experience as used for purposes of section 2031 on the date of the enactment of this section."
+<b>2014</b>—Subsec. (c)(2), (3). Pub. L. 113–295 redesignated par. (3) as (2), substituted "The Secretary" for "Not later than December 31, 1989, the Secretary" and struck out "thereafter" after "once each 10 years", and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "Not later than the day 3 months after the date of the enactment of this section, the Secretary shall prescribe initial tables for purposes of subsection (a). Such tables may be based on the same mortality experience as used for purposes of section 2031 on the date of the enactment of this section."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

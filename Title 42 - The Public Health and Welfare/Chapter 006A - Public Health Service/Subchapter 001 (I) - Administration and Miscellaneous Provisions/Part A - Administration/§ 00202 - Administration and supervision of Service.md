@@ -56,7 +56,7 @@ The Secretary may from time to time make such provisions as he shall deem approp
 
 #### Sec. 4. Incidental Transfers
 
-As he may deem necessary in order to carry out the provisions of this reorganization plan, the Secretary may from time to time effect transfers within the Department of Health, Education, and Welfare of any of the records, property, personnel and unexpended balances (available or to be made available) of appropriations, allocations, and other funds of the Department which relate to functions affected by this reorganization plan.
+As he may deem necessary in order to carry out the provisions of this reorganization plan, the Secretarymay from time to time effect transfers within the Department of Health, Education, and Welfare of any of the records, property, personnel and unexpended balances (available or to be made available) of appropriations, allocations, and other funds of the Department which relate to functions affected by this reorganization plan.
 
 \[The Secretary and Department of Health, Education, and Welfare were redesignated the Secretary and Department of Health and Human Services, respectively, by 20 U.S.C. 3508.\]
 
@@ -142,7 +142,7 @@ In summary, the reorganization plan would:
 
 &emsp;Transfer to the Secretary of Health, Education, and Welfare the functions now vested in the Surgeon General of the Public Health Service and in its various subordinate units (this transfer will not affect certain statutory advisory bodies such as the National Advisory Cancer and Heart Councils);
 
-&emsp;Abolish the four principal statutory components of the Public Health Service, including the offices held by their heads (the Bureau of Medical Services, the Bureau of State Services, the National Institutes ofHealth exclusive of its several research institutes such as the National Cancer and Heart Institutes, and the Office of the Surgeon General); and
+&emsp;Abolish the four principal statutory components of the Public Health Service, including the offices held by their heads (the Bureau of Medical Services, the Bureau of State Services, the National Institutes of Health exclusive of its several research institutes such as the National Cancer and Heart Institutes, and the Office of the Surgeon General); and
 
 &emsp;Authorize the Secretary to assign the functions transferred to him by the plan to officials and entities of the Public Health Service and to other agencies of the Department as he deems appropriate.
 

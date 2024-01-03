@@ -12,7 +12,7 @@ Under regulations prescribed by the Secretary, the basis of a United States shar
 
 #### (2) Amount in excess of basis
 
-&emsp;To the extent that an amount excluded from gross income under section 959(a) exceeds the adjusted basis of the stock or other property with respect to which it is received, the amount shall be treated as gain from the sale or exchange of property.
+&emsp;To the extent that an amount excluded from gross income under section 959(a) exceeds the adjusted basis of the stock or other propertywith respect to which it is received, the amount shall be treated as gain from the sale or exchange of property.
 
 #### (c) Basis adjustments in stock held by foreign corporations
 
@@ -28,7 +28,7 @@ Under regulations prescribed by the Secretary, if a United States shareholder is
 
 If a domestic corporation received a dividend from a specified 10-percent owned foreign corporation (as defined in section 245A) in any taxable year, solely for purposes of determining loss on any disposition of stock of such foreign corporation in such taxable year or any subsequent taxable year, the basis of such domestic corporation in such stock shall be reduced (but not below zero) by the amount of any deduction allowable to such domestic corporation under section 245A with respect to such stock except to the extent such basis was reduced under section 1059 by reason of a dividend for which such a deduction was allowable.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1022; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XI, §1112(b)(1), Aug. 5, 1997, 111 Stat.969; Pub. L. 109–135, title IV, §409(b), Dec. 21, 2005, 119 Stat. 2635; Pub. L. 115–97, title I, §14102(b)(1), Dec. 22, 2017, 131 Stat. 2192.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1022; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XI, §1112(b)(1), Aug. 5, 1997, 111 Stat. 969; Pub. L. 109–135, title IV, §409(b), Dec. 21, 2005, 119 Stat. 2635; Pub. L. 115–97, title I, §14102(b)(1), Dec. 22, 2017, 131 Stat. 2192.)
 
 #### <b>Editorial Notes</b>
 

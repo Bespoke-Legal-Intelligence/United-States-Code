@@ -46,7 +46,7 @@ Pub. L. 97–34, §311(h)(4), substituted "section 219" for "section 219 or 220"
 
 <b>1980</b>—Subsec. (f)(2). Pub. L. 96–222 substituted "(without the application of paragraph (2) thereof), except to the extent that section 402(e)(4)(J) applies to such distribution" for "without the application of paragraph (2) thereof".
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–600, §142(a), substituted "(other than an amount described in subsection (f))" for "(other than a lump sum distribution described in section 402(e)(4), determined without regard to the next to the last sentence of section 402(e)(4)(A))" in provisions preceding par. (1).
+<b>1978</b>—Subsec. (c). Pub. L. 95–600, §142(a), substituted "(other than an amount described in subsection (f))"for "(other than a lump sum distribution described in section 402(e)(4), determined without regard to the next to the last sentence of section 402(e)(4)(A))" in provisions preceding par. (1).
 
 Subsec. (e). Pub. L. 95–600, §§156(c)(4), 702(j)(1), inserted "section 403(b)(8) (but only to the extent such contribution is attributed to a distribution from a contract described in subsection (c)(3))," after "403(a)(4)" and inserted "or 220" after "section 219" wherever appearing in provisions following par. (3).
 
@@ -62,7 +62,7 @@ Subsec. (e). Pub. L. 94–455, §2009(c)(1), added subsec. (e).
 
 <b>1969</b>—Subsec. (c)(3). Pub. L. 91–172 substituted "section 170(b)(1)(A)(ii) or (vi), or which is a religious organization (other than a trust)," for "section 503(b) (1), (2), or (3),".
 
-<b>1966</b>—Subsec. (c). Pub. L. 89–365 added par. (4), inserted reference to chapter 73 of title 10 of the United States Code in the enumeration of the plans and contracts set out in the prohibition against allowance of exclusion for that part of the value of the amount payable under the plan or contract in the proportion that the total payments or contributions made by the decedent bear to the total payments or contributions made,and provided that, for purposes of this section, amounts payable under chapter 73 of title 10 are attributable to payments or contributions made by the decedent only to the extent of amounts deposited by him pursuant to section 1438 of title 10.
+<b>1966</b>—Subsec. (c). Pub. L. 89–365 added par. (4), inserted reference to chapter 73 of title 10 of the United States Code in the enumeration of the plans and contracts set out in the prohibition against allowance of exclusion for that part of the value of the amount payable under the plan or contract in the proportion that the total payments or contributions made by the decedent bear to the total payments or contributions made, and provided that, for purposes of this section, amounts payable under chapter 73 of title 10 are attributable to payments or contributions made by the decedent only to the extent of amounts deposited by him pursuant to section 1438 of title 10.
 
 <b>1962</b>—Subsec. (c). Pub. L. 87–792 substituted "was a plan described in section 403(a)" for "met the requirements of section 401(a)(3), (4), (5), and (6)" in par. (2), and inserted sentence providing, for purposes of this subsection, that contributions or payments on behalf of the decedent while he was an employee within the meaning of section 401(c)(1) made under a trust or plan described in paragraph (1) or (2) shall be considered to be contributions or payments made by the decedent.
 
@@ -122,7 +122,7 @@ Amendment by section 313(b)(3) of Pub. L. 97–34 applicable to redemptions afte
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 applicable with respect to the estates of decedents dying after Apr. 1, 1980, see section 101(b)(1)(D) of Pub. L. 96–222, set out as a note under section 691 of this title.
+Amendment by Pub. L. 96–222 applicable with respect to the estates of decedents dying after Apr. 1, 1980, seesection 101(b)(1)(D) of Pub. L. 96–222, set out as a note under section 691 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 93–406 applicable to taxable years ending on or after Sep
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–580, §2(b), Oct. 27, 1972, 86 Stat. 1276, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to estate of decedents for which the period prescribed by the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for filing of a claim for credit or refund of an overpayment of estate tax ends on or after the date of enactment of this Act \[Oct. 27, 1972\]. No interest shall be allowed or paid on any overpayment of estate tax resulting from the application of the amendmentmade by subsection (a) for any period prior to the expiration of the one hundred and eightieth day following the date of the enactment of this Act."
+Pub. L. 92–580, §2(b), Oct. 27, 1972, 86 Stat. 1276, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to estate of decedents for which the period prescribed by the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for filing of a claim for credit or refund of an overpayment of estate tax ends on or after the date of enactment of this Act \[Oct. 27, 1972\]. No interest shall be allowed or paid on any overpayment of estate tax resulting from the application of the amendment made by subsection (a) for any period prior to the expiration of the one hundred and eightieth day following the date of the enactment of this Act."
 
 #### Effective Date of 1969 Amendment
 

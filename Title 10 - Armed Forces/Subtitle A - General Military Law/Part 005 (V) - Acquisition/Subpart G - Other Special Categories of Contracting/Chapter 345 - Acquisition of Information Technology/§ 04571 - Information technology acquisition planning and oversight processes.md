@@ -42,6 +42,108 @@ Pub. L. 116–283, §1857(b)(1), renumbered section 2223a of this title as this 
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
+#### Policies for Management and Certification of Link 16 Military Tactical Data Link Network
+
+Pub. L. 118–31, div. A, title II, §228, Dec. 22, 2023, 137 Stat. 199, provided that:
+
+"(a)
+
+Policies Required.—The Secretary of Defense shall develop and implement policies to adapt Link 16 system management and certification to align with agile development practices.
+
+"(b)
+
+Elements.—The policies required by subsection (a) shall include the following:
+
+&emsp;"(1) A standardized process through a Chairman, Joint Chiefs of Staff Manual, to allow Link 16 frequency use within approved special use airspaces for the purpose of testing radio systems and associated software that have not completed electromagnetic compatibility features certification. Such process—
+
+&emsp;&emsp;"(A) shall, at a minimum, ensure routine and continued approval for test operations of developmental systems in the Nevada Test and Training Range, Restricted Area 2508, Warning Area 151/470, Warning Area 386, and the Joint Pacific Alaska Range Complex; and
+
+&emsp;&emsp;"(B) may incorporate standardized mitigations that enable routine approval including effective radiated power settings and coordination for rapid test termination.
+
+&emsp;"(2) Processes to streamline approval or denial of temporary frequency assignment for Link 16 operations to not more than 15 days for test, training, and large-scale exercises. In developing such processes, the Secretary of Defense—
+
+&emsp;&emsp;"(A) shall ensure that the processes cover operations in excess of uncoordinated operations time slot duty factor limits, inclusion of foreign participants, and participation of non-stage 4 approved terminals or platforms; and
+
+&emsp;&emsp;"(B) consider delegating sole authority for temporary frequency assignment to the Department of Defense and the automation of decision-making processes relating to such assignments.
+
+&emsp;"(3) Delegation of authority to the system manager for Link 16 to determine when new software within Department of Defense Link 16 terminals affects electromagnetic compatibility features and requires recertification.
+
+&emsp;"(4) The self-certification by the Department of Defense of the compliance of the Department's radios with electromagnetic compatibility features.
+
+&emsp;"(5) Processes to internally manage Link 16 uncoordinated operations that enable approval for test, training, and exercises that does not exceed 15 days for systems holding an active radio frequency authorization or temporary frequency assignment.
+
+"(c)
+
+Information to Congress.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense shall provide to the congressional defense committees—
+
+&emsp;"(1) a briefing on the policies developed under subsection (a), along with a timeline for implementation of such policies; and
+
+&emsp;"(2) a list of such additional resources or authorities as the Secretary determines may be required to implement such policies.
+
+"(d)
+
+Testing Required.—
+
+&emsp;"(1)
+
+In general.—In conjunction with the development of the policies required under subsection (a), the Secretary of Defense shall conduct, sponsor, or review testing and analysis that determines if any effects on air traffic systems are possible due to Link 16 terminals which have not completed electromagnetic compatibility features certification and quantifies any such effects. Such testing shall evaluate Link 16 transmission within plus or minus 7 megahertz of the 1030 and 1090 megahertz frequency bands to determine if effects on air traffic systems are possible, under what conditions such effects could occur, and the impact of such effects.
+
+&emsp;"(2)
+
+Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the testing conducted under paragraph (1), with an emphasis on procedures that the Secretary intends to implement to negate harmful effects on air traffic from the use of Link 16 terminals or platforms that have not completed electromagnetic compatibility features certification, within special use airspace."
+
+#### Requirements for Deployment of Fifth Generation Information and Communications Capabilities to Military Installations and Other Department Facilities
+
+Pub. L. 118–31, div. A, title XV, §1526, Dec. 22, 2023, 137 Stat. 557, provided that:
+
+"(a)
+
+Requirements.—
+
+&emsp;"(1)
+
+Strategy for private wireless networks.—Not later than 120 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense shall develop and implement a strategy for deploying to military installations and other facilities of the Department of Defense private wireless networks that are—
+
+&emsp;&emsp;"(A) based on fifth generation information and communications capabilities and Open Radio Access Network architecture; and
+
+&emsp;&emsp;"(B) tailored to the mission, security, and performance requirements of the respective military installation or other facility.
+
+&emsp;"(2)
+
+Process for public wireless network service providers.—
+
+&emsp;&emsp;"(A)
+
+Establishment.—The Secretary shall establish a Department-wide process under which a public wireless network service provider of fifth generation information and communications capabilities may gain access to a military installation or other facility of the Department to provide commercial subscriber services to military and civilian personnel of the Department (including contractor personnel) located at, and organizational elements of the Department maintained at, such installation or facility.
+
+&emsp;&emsp;"(B)
+
+Design requirements.—In establishing the process under subparagraph (A), the Secretary shall ensure relevant system architectures and supporting infrastructure are designed to support modular upgrades to future generation technologies.
+
+&emsp;"(3)
+
+Determination relating to contract authority.—The Secretary shall determine, on a contract-by-contract basis or as a determination with uniform applicability to contracts across military installations and other facilities of the Department, whether to enter into a contract for—
+
+&emsp;&emsp;"(A) neutral hosting, under which infrastructure and services would be provided to companies deploying private wireless networks and public wireless network services to such installation or other facility through multi-operator core network architectures; or
+
+&emsp;&emsp;"(B) separate private wireless network and public wireless network infrastructure at such installation or other facility (which shall include a determination by the Secretary on how to establish roaming agreements and policies between such networks).
+
+&emsp;"(4)
+
+Briefing.—Not later than 150 days after the date of the enactment of this Act, the Secretary shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the strategy developed under paragraph (1) and any other activity carried out pursuant to this subsection.
+
+"(b)
+
+International Cooperation Activities.—The Secretary, using existing authorities available to the Secretary, may engage in cooperation activities with foreign allies and partners of the United States to—
+
+&emsp;"(1) improve the implementation of the strategy under subsection (a)(1); and
+
+&emsp;"(2) inform the deployment of private wireless networks to military installations and other facilities of the Department pursuant to such strategy.
+
+"(c)
+
+Open Radio Access Network Architecture Defined.—In this section, the term 'Open Radio Access Network architecture' means a network architecture that is modular, uses open interfaces, and virtualizes functionality on commodity hardware through software."
+
 #### Target Date for Deployment of 5G Wireless Broadband Infrastructure at All Military Installations
 
 Pub. L. 117–263, div. A, title II, §221, Dec. 23, 2022, 136 Stat. 2478, provided that:
@@ -218,7 +320,7 @@ Establishment.—Using the authority provided under section 911(c) of the Nation
 
 Duties.—The duties of the cross-functional team established under paragraph (1) shall be—
 
-&emsp;&emsp;"(A) to assist the Secretary of Defense in determining the roles and responsibilities of the organizations and elements of the Department of Defense with respect to the acquisition, sustainment, andoperation of 5G wireless networking, as required under subsection (d);
+&emsp;&emsp;"(A) to assist the Secretary of Defense in determining the roles and responsibilities of the organizations and elements of the Department of Defense with respect to the acquisition, sustainment, and operation of 5G wireless networking, as required under subsection (d);
 
 &emsp;&emsp;"(B) to assist the senior official responsible for 5G wireless networking in carrying out the responsibilities assigned to such official under subsection (b);
 
@@ -520,9 +622,9 @@ In general.—In developing the capability required under subsection (a), the Se
 
 &emsp;"(2)
 
-Program selection.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall assess and select not fewer than four and not more than ten programs of the Department of Defense to participate in the demonstration activities under paragraph (1), including—
+Program selection.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall assess and selectnot fewer than four and not more than ten programs of the Department of Defense to participate in the demonstration activities under paragraph (1), including—
 
-&emsp;&emsp;"(A) at least one program participating in the pilot program authorized under section 873 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2223a note \[now 10 U.S.C. 4571 note\]);
+&emsp;&emsp;"(A) at least one program participating in the pilot program authorized under section 873 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2223a note \[now former 10 U.S.C. 4571 note\]);
 
 &emsp;&emsp;"(B) at least one program participating in the pilot program authorized under section 874 of such Act (Public Law 115–91; 10 U.S.C. 2302 note);
 
@@ -730,7 +832,7 @@ Development of Strategy.—The official or entity designated under subsection (a
 
 &emsp;&emsp;"(A) the science and technology reinvention laboratories (as designated under section 4121(b) of title 10, United States Code);
 
-&emsp;&emsp;"(B) the facilities of the Major Range and Test Facility Base (as defined in section 2358a(g) of title 10, United States Code \[now 10 U.S.C. 4091(g)\]);
+&emsp;&emsp;"(B) the facilities of the Major Range and Test Facility Base (as defined in section 2358a(g) of title 10, United States Code \[now 10 U.S.C. 4091(f)\]);
 
 &emsp;&emsp;"(C) the Defense Advanced Research Projects Agency; and
 
@@ -748,7 +850,7 @@ Pub. L. 116–92, div. A, title VIII, §800, Dec. 20, 2019, 133 Stat. 1478, prov
 
 "(a)
 
-Software Acquisition and Development Pathways.—The Secretary of Defense shall establish pathways as described under subsection (b) to provide for the efficient and effective acquisition, development, integration, and timely delivery of secure software. Such a pathway shall include the following:
+Software Acquisition and Development Pathways.—The Secretary of Defense shall establish pathways as described under subsection (b) to provide forthe efficient and effective acquisition, development, integration, and timely delivery of secure software. Such a pathway shall include the following:
 
 &emsp;"(1)
 
@@ -934,7 +1036,7 @@ Requirements.—In carrying out paragraph (1), the Secretary shall—
 
 &emsp;&emsp;"(J) in the case that the Secretary decides to sustain the status quo on packet capture databases, ensure that analysts operating on or from the Unified Platform, the Big Data Platform instances, the network defense services providers, and the Cyber Mission Forces can directly access packets and query the database; and
 
-&emsp;&emsp;"(K) consider whether the Joint Artificial Intelligence Center's cybersecurity artificial intelligence national mission initiative, and any other similar initiatives, should include an application for the metadata residing in the Big Data Platform instances.
+&emsp;&emsp;"(K) consider whether the Joint Artificial Intelligence Center's cybersecurity artificial intelligence national mission initiative, and any other similar initiatives, should include an applicationfor the metadata residing in the Big Data Platform instances.
 
 "(c)
 
@@ -1058,7 +1160,7 @@ Report Required.—The Chief Information Officer shall submit to the congression
 
 &emsp;"(6) A detailed description of existing workloads that will be migrated to enterprise-wide cloud infrastructure or platforms as a result of the Department of Defense's Cloud Initiative, including estimated migration costs and timelines, based on the analysis required under subsection (a)(2).
 
-&emsp;"(7) A description of the program management and program office of the Department of Defense's CloudInitiative, including the number of personnel, overhead costs, and organizational structure.
+&emsp;"(7) A description of the program management and program office of the Department of Defense's Cloud Initiative, including the number of personnel, overhead costs, and organizational structure.
 
 &emsp;"(8) A description of the effect of the Joint Enterprise Defense Infrastructure on and the relationship of such Infrastructure to existing cloud computing infrastructure, platform, and service contracts across the Department of Defense, specifically the effect and relationship to the private cloud infrastructure of the Department, MilCloud 2.0 run by the Defense Information Systems Agency based on the analysis required under subsection (a)(2).
 
@@ -1090,157 +1192,9 @@ Transparency and Competition.—The Deputy Secretary shall ensure that the acqui
 
 #### Pilot Program To Use Agile or Iterative Development Methods To Tailor Major Software-Intensive Warfighting Systems and Defense Business Systems
 
-Pub. L. 115–232, div. A, title VIII, §869(a)–(d), Aug. 13, 2018, 132 Stat. 1902, 1903, provided that:
+Pub. L. 115–232, div. A, title VIII, §869(a)–(d), Aug. 13, 2018, 132 Stat. 1902, 1903, provided that the Secretary of Defense was to include certain systems in the pilot program to use agile or iterative development methods pursuant to section 873 of Pub. L. 115–91, formerly set out below.
 
-"(a)
-
-In General.—Not later than 30 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall include the following systems in the pilot program to use agile or iterative development methods pursuant to section 873 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2223a note \[now 10 U.S.C. 4571 note\]):
-
-&emsp;"(1) Defense Retired and Annuitant Pay System 2 (DRAS2), Defense Logistics Agency.
-
-&emsp;"(2) Army Integrated Air and Missile Defense (AIAMD), Army.
-
-&emsp;"(3) Army Contract Writing System (ACWS), Army.
-
-&emsp;"(4) Defense Enterprise Accounting and Management System (DEAMS) Inc2, Air Force.
-
-&emsp;"(5) Item Master, Air Force.
-
-"(b)
-
-Additions to List.—Not later than 30 days after the date of the enactment of this Act, the Secretary of Defense shall identify three additional systems for participation in the pilot program pursuant to section 873 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2223a \[now 4571\] note) and notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the additions.
-
-"(c)
-
-Community of Practice Advising on Agile or Iterative Development.—The Under Secretary of Defense for Acquisition and Sustainment shall establish a Community of Practice on agile or iterative methods so that programs that have been incorporating agile or iterative methods can share with programs participating in the pilot the lessons learned, best practices, and recommendations for improvements to acquisition and supporting processes. The Service Acquisition Executives of the military departments shall send representation from the following programs, which have reported using agile or iterative methods:
-
-&emsp;"(1) Air and Space Operations Center (AOC).
-
-&emsp;"(2) Command Control Battle Management and Communications (C2BMC).
-
-&emsp;"(3) The family of Distributed Common Ground Systems.
-
-&emsp;"(4) The family of Global Command and Control Systems.
-
-&emsp;"(5) Navy Personnel and Pay (NP2).
-
-&emsp;"(6) Other programs and activities as appropriate.
-
-"(d)
-
-Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall report to the congressional defense committees on the status of the pilot program and each system participating in the pilot. The report shall include the following elements:
-
-&emsp;"(1) A description of how cost and schedule estimates in support of the program are being conducted and using what methods.
-
-&emsp;"(2) The contracting strategy and types of contracts that will be used in executing the program.
-
-&emsp;"(3) A description of how intellectual property ownership issues associated with software applications developed with agile or iterative methods will be addressed to ensure future sustainment, maintenance, and upgrades to software applications after the applications are fielded.
-
-&emsp;"(4) A description of the tools and software applications that are expected to be developed for the program and the costs and cost categories associated with each.
-
-&emsp;"(5) A description of challenges the program has faced in realigning the program to use agile or iterative methods."
-
-Pub. L. 115–91, div. A, title VIII, §873, Dec. 12, 2017, 131 Stat. 1498, as amended by Pub. L. 115–232, div. A, title VIII, §869(e), Aug. 13, 2018, 132 Stat. 1903, provided that:
-
-"(a)
-
-Pilot Program.—
-
-&emsp;"(1)
-
-In general.—Not later than 30 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense, in consultation with the Secretaries of the military departments and the chiefs of the armed forces, shall establish a pilot program to tailor and simplify software development requirements and methods for major software-intensive warfighting systems and defense business systems.
-
-&emsp;"(2)
-
-Implementation plan for pilot program.—Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense, in consultation with the Secretaries of the military departments and the chiefs of the armed forces, shall develop a plan for implementing the pilot program required under this subsection, including guidance for implementing the program and for selecting systems for participation in the program.
-
-&emsp;"(3)
-
-Selection of systems for pilot program.—
-
-&emsp;&emsp;"(A) The implementation plan shall require that systems be selected as follows:
-
-&emsp;&emsp;&emsp;"(i) For major software-intensive warfighting systems, one system per armed force and one defense-wide system, including at least one majordefense acquisition program or major automated information system.
-
-&emsp;&emsp;&emsp;"(ii) For defense business systems, not fewer than two systems and not greater than eight systems.
-
-&emsp;&emsp;"(B) In selecting systems or subsystems for participation, the Secretary shall prioritize systems as follows:
-
-&emsp;&emsp;&emsp;"(i) For major software-intensive warfighting systems, systems that—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) have identified software development as a high risk;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) have experienced cost growth and schedule delay; or
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) did not deliver any operational capability within the prior calendar year.
-
-&emsp;&emsp;&emsp;"(ii) For defense business systems, systems that—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) have experienced cost growth and schedule delay;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) did not deliver any operational capability within the prior calendar year; or
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) are underperforming other systems within a defense business system portfolio with similar user requirements.
-
-"(b)
-
-Realignment Plans.—
-
-&emsp;"(1)
-
-In general.—Not later than 60 days after selecting a system for the pilot program under subsection (a)(3), the Secretary shall develop a plan for realigning the system by breaking down the system into smaller increments using agile or iterative development methods. The realignment plan shall include a revised cost estimate that is lower than the cost estimate for the system that was current as of the date of the enactment of this Act \[Dec. 12, 2017\].
-
-&emsp;"(2)
-
-Realignment execution.—Each increment for a realigned system shall—
-
-&emsp;&emsp;"(A) be designed to deliver a meaningfully useful capability within the first 180 days following realignment;
-
-&emsp;&emsp;"(B) be designed to deliver subsequent meaningfully useful capabilities in time periods of less than 180 days;
-
-&emsp;&emsp;"(C) incorporate multidisciplinary teams focused on software production that prioritize user needs and control of total cost of ownership;
-
-&emsp;&emsp;"(D) be staffed with highly qualified technically trained staff and personnel with management and business process expertise in leadership positions to support requirements modification, acquisition strategy, and program decisionmaking;
-
-&emsp;&emsp;"(E) ensure that the acquisition strategy for the realigned system is broad enough to allow for proposals of a service, system, modified business practice, configuration of personnel, or combination thereof for implementing the strategy;
-
-&emsp;&emsp;"(F) include periodic engagement with the user community, as well as representation by the user community in program management and software production activity;
-
-&emsp;&emsp;"(G) ensure that the acquisition strategy for the realigned system favors outcomes-based requirements definition and capability as a service, including the establishment of technical evaluation criteria as outcomes to be used to negotiate service-level agreements with vendors; and
-
-&emsp;&emsp;"(H) consider options for termination of the relationship with any vendor unable or unwilling to offer terms that meet the requirements of this section.
-
-"(c)
-
-Removal of Systems.—The Secretary may remove a system selected for the pilot program under subsection (a)(3) only after the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a written determination that indicates that the selected system has been unsuccessful in reducing cost or schedule growth, or is not meeting the overall needs of the pilot program.
-
-"(d)
-
-Education and Training in Agile or Iterative Development Methods.—
-
-&emsp;"(1)
-
-Training requirement.—The Secretary shall ensure that any personnel from the relevant organizations in each of the military departments and Defense Agencies participating in the pilot program, including organizations responsible for engineering, budgeting, contracting, test and evaluation, requirements validation, and certification and accreditation, receive targeted training in agile or iterative development methods, including the interim course required by section 891 of this Act \[10 U.S.C. 1746 note\].
-
-&emsp;"(2)
-
-Support.—In carrying out the pilot program under subsection (a), the Secretary shall ensure that personnel participating in the program provide feedback to inform the development of education and training curricula as required by section 891.
-
-"(e)
-
-Sunset.—The pilot program required under subsection (a) shall terminate on September 30, 2023. Any system selected under subsection (a)(3) for the pilot program shall continue after that date through the execution of its realignment plan.
-
-"(f)
-
-Agile or Iterative Development Defined.—In this section, the term 'agile or iterative development', with respect to software—
-
-&emsp;"(1) means acquisition pursuant to a method for delivering multiple, rapid, incremental capabilities to the user for operational use, evaluation, and feedback not exclusively linked to any single, proprietary method or process; and
-
-&emsp;"(2) involves—
-
-&emsp;&emsp;"(A) the incremental development and fielding of capabilities, commonly called 'spirals', 'spins', or 'sprints', which can be measured in a few weeks or months; and
-
-&emsp;&emsp;"(B) continuous participation and collaboration by users, testers, and requirements authorities."
+Pub. L. 115–91, div. A, title VIII, §873, Dec. 12, 2017, 131 Stat. 1498, as amended by Pub. L. 115–232, div. A, title VIII, §869(e), Aug. 13, 2018, 132 Stat. 1903, provided that the Secretary of Defense was to establish a pilot program to tailor and simplify software development requirements and methods for major software-intensive warfighting systems and defense business systems, and that such pilot program would terminate on Sept. 30, 2023.
 
 #### Global Theater Security Cooperation Management Information System
 

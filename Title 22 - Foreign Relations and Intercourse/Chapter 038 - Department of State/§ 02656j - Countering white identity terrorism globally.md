@@ -20,9 +20,9 @@ The strategy shall at a minimum contain the following:
 
 &emsp;&emsp;(A) adapt or expand existing Department programs, projects, activities, or policy instruments based on existing authorities for the specific purpose of degrading and delegitimizing the white identity terrorist movement globally; and
 
-&emsp;&emsp;(B) identify the need for any new Department programs, projects, activities, or policy instruments for the specific purpose of degrading and delegitimizing the white identity terrorist movement globally, including a description of the steps and resources necessary to establish any such programs, projects, activities, or policy instruments, noting whether such steps would require new authorities.
+&emsp;&emsp;(B) identify the need for any new Department programs, projects, activities, or policy instruments for the specific purpose ofdegrading and delegitimizing the white identity terrorist movement globally, including a description of the steps and resources necessary to establish any such programs, projects, activities, or policy instruments, noting whether such steps would require new authorities.
 
-&emsp;(4) Detailed plans for using public diplomacy, including the efforts of the Secretary of State and other senior Executive Branch officials, including the President, to degrade anddelegitimize white identity terrorist ideologues and ideology globally, including by—
+&emsp;(4) Detailed plans for using public diplomacy, including the efforts of the Secretary of State and other senior Executive Branch officials, including the President, to degrade and delegitimize white identity terrorist ideologues and ideology globally, including by—
 
 &emsp;&emsp;(A) countering white identity terrorist messaging and supporting efforts to redirect potential supporters away from white identity terrorist content online;
 

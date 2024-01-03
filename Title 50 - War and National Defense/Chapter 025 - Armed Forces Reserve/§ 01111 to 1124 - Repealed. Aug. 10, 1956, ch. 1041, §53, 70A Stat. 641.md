@@ -18,7 +18,7 @@ Section 1118, acts July 9, 1952, ch. 608, pt. VII, §708, 66 Stat. 503; Sept. 3,
 
 Section 1119, act July 9, 1952, ch. 608, pt. VII, §709, 66 Stat. 503, provided for training in State status. See sections 10107, 10113, and 12401 of Title 10.
 
-Section 1120, act July 9, 1952, ch. 608, pt. VII, §710, 66 Stat. 503, provided for relief from National Guard duty when ordered to active duty. See section 325 of Title 32, National Guard.
+Section 1120, act July 9, 1952, ch. 608, pt. VII, §710, 66 Stat. 503, provided for relief from National Guard dutywhen ordered to active duty. See section 325 of Title 32, National Guard.
 
 Section 1121, act July 9, 1952, ch. 608, pt. VII, §711, 66 Stat. 504, related to relief from liability for issued United States property. See section 704 of Title 32.
 
@@ -26,5 +26,5 @@ Section 1122, act July 9, 1952, ch. 608, pt. VII, §712, 66 Stat. 504, related t
 
 Section 1123, act July 9, 1952, ch. 608, pt. VII, §713, 66 Stat. 504, related to Federal status of personnel ordered to active duty. See sections 12211, 12212, and 12403 of Title 10, Armed Forces.
 
-Section 1124, act July 9, 1952, ch. 608, pt. VII, §714, 66 Stat. 504, related to benefits for members of National Guard of United States. See section 12602 of Title 10,Armed Forces, and section 501(c) of Title 37, Pay and Allowances of the Uniformed Services.
+Section 1124, act July 9, 1952, ch. 608, pt. VII, §714, 66 Stat. 504, related to benefits for members of National Guard of United States. See section 12602 of Title 10, Armed Forces, and section 501(c) of Title 37, Pay and Allowances of the Uniformed Services.
 

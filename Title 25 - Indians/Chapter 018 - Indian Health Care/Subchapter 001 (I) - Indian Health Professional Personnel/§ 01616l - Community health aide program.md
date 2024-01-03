@@ -30,7 +30,7 @@ The Secretary, acting through the Community Health Aide Program of the Service, 
 
 &emsp;(5) develop and maintain a system that provides close supervision of community health aides and community health practitioners;
 
-&emsp;(6) develop a system under which the work of community health aides and community health practitioners is reviewed and evaluated to ensure the provision of quality health care, health promotion, and disease prevention services; and
+&emsp;(6) develop a system under which the work of community health aides and communityhealth practitioners is reviewed and evaluated to ensure the provision of quality health care, health promotion, and disease prevention services; and
 
 &emsp;(7) ensure that—
 
@@ -76,7 +76,7 @@ The Secretary, acting through the Community Health Aide Program of the Service, 
 
 #### (3) Report
 
-&emsp;The neutral panel shall submit to the Secretary, the Committee on Indian Affairs of theSenate, and the Committee on Natural Resources of the House of Representatives a report describing the results of the study under paragraph (2), including a description of—
+&emsp;The neutral panel shall submit to the Secretary, the Committee on Indian Affairs of the Senate, and the Committee on Natural Resources of the House of Representatives a report describing the results of the study under paragraph (2), including a description of—
 
 &emsp;&emsp;(A) any determination of the neutral panel under paragraph (2)(C); and
 
@@ -120,7 +120,7 @@ Nothing in this section shall restrict the ability of the Service, an Indian tri
 
 #### Codification
 
-Amendment by section 10221(a) of Pub. L. 111–148 is based on section 111 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148, except as provided in section 10221(b)(1) of Pub. L. 111–148.
+Amendment by section 10221(a) of Pub. L. 111–148 is based on section 111 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee onIndian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148, except as provided in section 10221(b)(1) of Pub. L. 111–148.
 
 #### Amendments
 

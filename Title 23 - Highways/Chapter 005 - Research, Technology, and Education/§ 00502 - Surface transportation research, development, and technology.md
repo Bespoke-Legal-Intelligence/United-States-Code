@@ -284,7 +284,7 @@ Availability of funds.—Notwithstanding any other provision of law, amounts app
 
 &emsp;&emsp;&emsp;(iii)
 
-Savings provision.—Nothing in this subparagraph may be construed to permit the obligation or payment of funds in violation of the Anti-Deficiency Act (31 U.S.C. 1341).
+Savings provision.—Nothing in this subparagraph may be construed to permitthe obligation or payment of funds in violation of the Anti-Deficiency Act (31 U.S.C. 1341).
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -596,7 +596,7 @@ Midsized community.—The term 'midsized community" means any community that is 
 
 &emsp;"(5)
 
-Regional partnership.—The term 'regional partnership' means a partnership composed of 2 ormore eligible entities located in jurisdictions with a combined population that is equal to or greater than the population of any midsized community.
+Regional partnership.—The term 'regional partnership' means a partnership composed of 2 or more eligible entities located in jurisdictions with a combined population that is equal to or greater than the population of any midsized community.
 
 &emsp;"(6)
 
@@ -858,7 +858,7 @@ Authorization of Appropriations.—
 
 &emsp;"(1)
 
-In general.—There is authorized to be appropriated to the Secretary $100,000,000 for each of the first 5 fiscal years beginning after the date of enactment of this Act, of which—
+In general.—There is authorized to be appropriated to the Secretary $100,000,000 for each of thefirst 5 fiscal years beginning after the date of enactment of this Act, of which—
 
 &emsp;&emsp;"(A) not more than 40 percent shall be used to provide SMART grants for eligible projects that primarily benefit large communities;
 
@@ -1366,7 +1366,7 @@ In General.—The Secretary \[of Transportation\] shall develop guidance for usi
 
 Implementation.—The Secretary shall ensure that any guidance developed under subsection (a)—
 
-&emsp;"(1) clearly identifies criteria for low-risk and exempt intelligent transportation systems projects,with a goal of minimizing unnecessary delay or paperwork burden;
+&emsp;"(1) clearly identifies criteria for low-risk and exempt intelligent transportation systems projects, with a goal of minimizing unnecessary delay or paperwork burden;
 
 &emsp;"(2) is consistently implemented by the Department \[of Transportation\] nationwide; and
 
@@ -1494,7 +1494,7 @@ Procurement Methods.—
 
 &emsp;"(1)
 
-Technical assistance.—The Secretary shall develop appropriate technical assistance and guidance to assist State and local agencies in evaluatingand selecting appropriate methods of procurement for intelligent transportation system projects carried out using funds made available from the Highway Trust Fund, including innovative and nontraditional methods such as the Information Technology Omnibus Procurement.
+Technical assistance.—The Secretary shall develop appropriate technical assistance and guidance to assist State and local agencies in evaluating and selecting appropriate methods of procurement for intelligent transportation system projects carried out using funds made available from the Highway Trust Fund, including innovative and nontraditional methods such as the Information Technology Omnibus Procurement.
 
 &emsp;"(2)
 
@@ -1586,7 +1586,7 @@ In general.—If the Secretary finds that the development or balloting of an int
 
 &emsp;"(2)
 
-Critical standards.—If a standard identified as critical in the report under subsection (b) is not adopted and published by the appropriate standards development organization by January 1, 2001, the Secretary shall establish a provisional standard after consultation with affected parties, and using, to the extent practicable, the work product of appropriate standards development organizations.
+Critical standards.—If a standard identified as critical in the report under subsection (b) is not adopted and published by the appropriate standards development organization by January 1, 2001, the Secretary shall establish a provisional standard after consultation with affected parties, and using, to theextent practicable, the work product of appropriate standards development organizations.
 
 &emsp;"(3)
 
@@ -1728,7 +1728,7 @@ Commercial vehicle operations.—The term 'commercial vehicle operations'—
 
 &emsp;"(3)
 
-Corridor.—The term 'corridor' means any major transportation route that includes parallellimited access highways, major arterials, or transit lines.
+Corridor.—The term 'corridor' means any major transportation route that includes parallel limited access highways, major arterials, or transit lines.
 
 &emsp;"(4)
 
@@ -1840,7 +1840,7 @@ Subordinate Committees.—The Secretary shall establish a subordinate committee 
 
 "(g)
 
-Assistance of Secretary.—Upon request of the advisory committee, the Secretary shall provide such information, administrative services, support staff, and supplies as the Secretary determines to be necessary for the advisory committee to carry out its functions.
+Assistance of Secretary.—Upon request of the advisory committee, the Secretary shall provide suchinformation, administrative services, support staff, and supplies as the Secretary determines to be necessary for the advisory committee to carry out its functions.
 
 "(h)
 
@@ -1852,7 +1852,7 @@ Termination.—Section 1013 of title 5, United States Code, shall not apply to t
 
 #### Fundamental Properties of Asphalts and Modified Asphalts
 
-Pub. L. 102–240, title VI, §6016, Dec. 18, 1991, 105 Stat. 2182, as amended by Pub. L. 114–94, div. A, title I,§1419(a), Dec. 4, 2015, 129 Stat. 1423, required the Administrator of the Federal Highway Administration to conduct studies of the fundamental chemical and physical properties of petroleum asphalts and modified asphalts used in highway construction in the United States and to submit reports on the progress of the studies and authorized appropriations for fiscal years 1992 to 1996.
+Pub. L. 102–240, title VI, §6016, Dec. 18, 1991, 105 Stat. 2182, as amended by Pub. L. 114–94, div. A, title I, §1419(a), Dec. 4, 2015, 129 Stat. 1423, required the Administrator of the Federal Highway Administration to conduct studies of the fundamental chemical and physical properties of petroleum asphalts and modified asphalts used in highway construction in the United States and to submit reports on the progress of the studies and authorized appropriations for fiscal years 1992 to 1996.
 
 #### Study of Factors Affecting Safe and Efficient Operation of Bridges, Tunnels and Roads Within United States
 

@@ -1,6 +1,6 @@
 ### §2903. Oath; authority to administer
 
-(a) The oath of office required by section 3331 of this title may be administered by an individual authorized by the laws of the United States or local law to administer oaths in the State, District, or territory or possession of the United States where the oath is administered.
+(a) The oath of office required by section 3331 of this title may be administered by an individual authorized by the laws of the UnitedStates or local law to administer oaths in the State, District, or territory or possession of the United States where the oath is administered.
 
 (b) An employee of an Executive agency designated in writing by the head of the Executive agency, or the Secretary of a military department with respect to an employee of his department, may administer—
 

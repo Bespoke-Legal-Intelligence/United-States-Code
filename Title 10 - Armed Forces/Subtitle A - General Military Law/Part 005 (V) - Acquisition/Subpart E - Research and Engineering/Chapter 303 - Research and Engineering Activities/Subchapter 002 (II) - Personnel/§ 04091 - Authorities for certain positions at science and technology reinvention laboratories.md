@@ -6,7 +6,7 @@ Authority to Make Direct Appointments.—
 
 &emsp;(1)
 
-Candidates for scientific and engineering positions at science and technology reinvention laboratories.—The director of any Science and Technology Reinvention Laboratory (hereinafter in this section referred to as an "STRL") may appoint qualified candidates possessing a bachelor's degree to positions described in paragraph (1) of subsection (b) as an employee in a laboratory described in that paragraph without regard to the provisions of subchapter I of chapter 33 of title 5 (other than sections 3303 and 3328 of such title).
+Candidates for scientific and engineering positions at science and technology reinvention laboratories.—The director of any Science and Technology Reinvention Laboratory (hereinafter in this section referred to as an "STRL") may appoint qualified candidates possessing a bachelor's or advanced degree to positions described in paragraph (1) of subsection (b) as an employee in a laboratory described in that paragraph without regard to the provisions of subchapter I of chapter 33 of title 5 (other than sections 3303 and 3328 of such title).
 
 &emsp;(2)
 
@@ -42,13 +42,13 @@ Candidates enrolled in scientific and engineering programs.—The positions desc
 
 (c)
 
-Limitation on Number of Appointments Allowable in a Calendar Year.—The authority under subsection (a) may not, in any calendar year and with respect to any laboratory, agency, or organization described in subsection (b), be exercised with respect to a number of candidates greater than the following:
+Limitation on Number of Appointments Allowable in a Fiscal Year.—The authority under subsection (a) may not, in any fiscal year and with respect to any laboratory, agency, or organization described in subsection (b), be exercised with respect to a number of candidates greater than the following:
 
-&emsp;(1) In the case of a laboratory described in subsection (b)(1), with respect to appointment authority under subsection (a)(1), the number equal to 6 percent of the total number of scientific and engineering positions in such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+&emsp;(1) In the case of a laboratory described in subsection (b)(1), with respect to appointment authority under subsection (a)(1), the number equal to 11 percent of the total number of scientific and engineering positions in such laboratory that are filled as of the close of the preceding fiscal year.
 
-&emsp;(2) In the case of a laboratory, agency, or organization described in subsection (b)(2), with respect to appointment authority under subsection (a)(2), the number equal to 3 percent of the total number of scientific, technical, engineering, mathematics, and technician positions in such laboratory, agency, or organization that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+&emsp;(2) In the case of a laboratory, agency, or organization described in subsection (b)(2), with respect to appointment authority under subsection (a)(2), the number equal to 3 percent of the total number of scientific, technical, engineering, mathematics, and technician positions in such laboratory, agency, or organization that are filled as of the close of the preceding fiscal year.
 
-&emsp;(3) In the case of a laboratory described in subsection (b)(3), with respect to appointment authority under subsection (a)(3), the number equal to 10 percent of the total number of scientific and engineering positions in such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+&emsp;(3) In the case of a laboratory described in subsection (b)(3), with respect to appointment authority under subsection (a)(3), the number equal to 10 percent of the total number of scientific and engineering positions in such laboratory that are filled as of the close of the preceding fiscal year.
 
 (d)
 
@@ -64,7 +64,7 @@ Establishment.—There is hereby established in each STRL, each facility of the 
 
 &emsp;(2)
 
-Appointments.—(A) The laboratory positions described in paragraph (1) may be filled, and shall be managed, by the director of the STRL involved, under criteria established pursuant to section 4121(a) of this title, relating to personnel demonstration projects at laboratories of the Department of Defense, except that the director of the laboratory involved shall determine the number of such positions at such laboratory, not to exceed 2 percent of the number of scientists and engineers employed at such laboratory as of the close of the last fiscal year before the fiscal year in which any appointments subject to that numerical limitation are made.
+Appointments.—(A) The laboratory positions described in paragraph (1) may be filled,and shall be managed, by the director of the STRL involved, under criteria established pursuant to section 4121(a) of this title, relating to personnel demonstration projects at laboratories of the Department of Defense, except that the director of the laboratory involved shall determine the number of such positions at such laboratory, not to exceed 2 percent of the number of scientists and engineers employed at such laboratory as of the close of the last fiscal year before the fiscal year in which any appointments subject to that numerical limitation are made.
 
 &emsp;(B) The test and evaluation positions described in paragraph (1) may be filled, and shall be managed, by the director of the Major Range and Test Facility Base, in the case of a position at a facility of the Major Range and Test Facility Base, and the director of the Defense Test Resource Management Center, in the case of a position at such center, under criteria established pursuant to section 4121(a) of this title, relating to personnel demonstration projects at laboratories of the Department of Defense, except that the director involved shall determine the number of such positions at each facility of the Major Range and Test Facility Base and the Defense Test Resource Management Center, not to exceed two percent of the number of scientists and engineers, but at least one position, employed at the Major Range and Test Facility Base or the Defense Test Resource Management Center, as the case may be, as of the close of the last fiscal year before the fiscal year in which any appointments subject to those numerical limitations are made.
 
@@ -86,24 +86,6 @@ Exceptions.—Paragraph (1) shall not apply to Senior Executive Service position
 
 (f)
 
-Direct Hire Authority at Personnel Demonstration Laboratories for Advanced Degree Holders.—
-
-&emsp;(1)
-
-Authority.—The Secretary of Defense may appoint qualified candidates possessing an advanced degree to positions described in paragraph (2) without regard to the provisions of subchapter I of chapter 33 of title 5, other than sections 3303 and 3328 of such title.
-
-&emsp;(2)
-
-Applicability.—This subsection applies with respect to candidates for scientific and engineering positions within any laboratory designated by section 4121(b) of this title as a Department of Defense science and technology reinvention laboratory.
-
-&emsp;(3)
-
-Limitation.—(A) Authority under this subsection may not, in any calendar year and with respect to any laboratory, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineering positions within such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
-
-&emsp;(B) For purposes of this paragraph, positions and candidates shall be counted on a full-time equivalent basis.
-
-(g)
-
 Definitions.—In this section:
 
 &emsp;(1) The term "Defense Test Resource Management Center" means the Department of Defense Test Resource Management Center established under section 4173 of this title.
@@ -114,11 +96,19 @@ Definitions.—In this section:
 
 &emsp;(4) The term "veteran" has the meaning given that term in section 101 of title 38.
 
-(Added Pub. L. 114–328, div. A, title XI, §1122(a)(1), Dec. 23, 2016, 130 Stat. 2453, §2358a; amended Pub. L. 115–91, div. A, title XI, §1111, Dec. 12, 2017, 131 Stat. 1636; Pub. L. 115–232, div. A, title XI, §1112(a), Aug. 13, 2018, 132 Stat. 2012; renumbered §4091, Pub. L. 116–283, div. A, title XVIII, §1843(a), as added Pub. L. 117–81, div. A, title XVII, §1701(u)(4)(A), Dec. 27, 2021, 135 Stat. 2153; Pub. L. 116–283, div. A, title XVIII, §§1843(b)(2), 1845(c)(5), Jan. 1, 2021, 134 Stat. 4245, 4247; Pub. L. 117–81, div. A, title II, §§212(a), 215(d)(13), Dec. 27, 2021, 135 Stat. 1588, 1595.)
+(Added Pub. L. 114–328, div. A, title XI, §1122(a)(1), Dec. 23, 2016, 130 Stat. 2453, §2358a; amended Pub. L. 115–91, div. A, title XI, §1111, Dec. 12, 2017, 131 Stat. 1636; Pub. L. 115–232, div. A, title XI, §1112(a), Aug. 13, 2018, 132 Stat. 2012; renumbered §4091, Pub. L. 116–283, div. A, title XVIII, §1843(a), as added Pub. L. 117–81, div. A, title XVII, §1701(u)(4)(A), Dec. 27, 2021, 135 Stat. 2153; Pub. L. 116–283, div. A, title XVIII, §§1843(b)(2), 1845(c)(5), Jan. 1, 2021, 134 Stat. 4245, 4247; Pub. L. 117–81, div. A, title II, §§212(a), 215(d)(13), Dec. 27, 2021, 135 Stat. 1588, 1595; Pub. L. 118–31, div. A, title XI, §1103, Dec. 22, 2023, 137 Stat. 427.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(1). Pub. L. 118–31, §1103(1), substituted "bachelor's or advanced degree" for "bachelor's degree".
+
+Subsec. (c). Pub. L. 118–31, §1103(2)(A), (B), (D), substituted "Fiscal Year" for "Calendar Year" in heading, "fiscal year" for "calendar year" in introductory provisions, and "the preceding fiscal year" for "the fiscal year last ending before the start of such calendar year" in pars. (1) to (3).
+
+Subsec. (c)(1). Pub. L. 118–31, §1103(2)(C), substituted "11 percent" for "6 percent".
+
+Subsecs. (f), (g). Pub. L. 118–31, §1103(3), (4), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to direct hire authority at personnel demonstration laboratories for advanced degree holders.
 
 <b>2021</b>—Pub. L. 116–283, §1843(a), as added by Pub. L. 117–81, §1701(u)(4)(A), renumbered section 2358a of this title as this section.
 

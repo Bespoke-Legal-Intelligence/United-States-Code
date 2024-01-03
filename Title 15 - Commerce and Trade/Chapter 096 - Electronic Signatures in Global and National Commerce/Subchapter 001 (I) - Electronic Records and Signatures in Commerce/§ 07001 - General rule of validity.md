@@ -100,7 +100,7 @@ Notwithstanding subsection (a), if a statute, regulation, or other rule of law r
 
 #### (f) Proximity
 
-Nothing in this subchapter affects the proximity required by any statute, regulation, orother rule of law with respect to any warning, notice, disclosure, or other record required to be posted, displayed, or publicly affixed.
+Nothing in this subchapter affects the proximity required by any statute, regulation, or other rule of law with respect to any warning, notice, disclosure, or other record required to be posted, displayed, or publicly affixed.
 
 #### (g) Notarization and acknowledgment
 
@@ -178,5 +178,5 @@ Student loans.—With respect to any records that are provided or made available
 
 #### Short Title
 
-Pub. L. 106–229, §1, June 30, 2000, 114 Stat. 464, provided that: "This Act \[enacting this chapter and amending provisions set out as a note under section 231 of Title 47, Telecommunications\] may be cited as the 'Electronic Signatures in Global and National Commerce Act'."
+Pub. L. 106–229, §1, June 30, 2000, 114 Stat. 464, provided that: "This Act \[enacting this chapter andamending provisions set out as a note under section 231 of Title 47, Telecommunications\] may be cited as the 'Electronic Signatures in Global and National Commerce Act'."
 

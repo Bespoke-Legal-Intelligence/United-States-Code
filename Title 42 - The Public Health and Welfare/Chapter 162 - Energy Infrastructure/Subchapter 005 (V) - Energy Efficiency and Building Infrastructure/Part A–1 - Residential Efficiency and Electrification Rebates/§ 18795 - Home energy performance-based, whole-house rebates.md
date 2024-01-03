@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $4,300,000,000, to remain available through September 30, 2031, to carry out a program to award grants to State energy offices to develop and implement a HOMES rebate program.
+&emsp;In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $4,300,000,000, to remain available through September 30, 2031, to carry out a program to award grantsto State energy offices to develop and implement a HOMES rebate program.
 
 #### (2) Allocation of funds
 
@@ -144,7 +144,7 @@ In this section:
 
 #### (3) Low- or moderate-income household
 
-&emsp;The term "low- or moderate-income household" means an individual or family the totalannual income of which is less than 80 percent of the median income of the area in which the individual or family resides, as reported by the Department of Housing and Urban Development, including an individual or family that has demonstrated eligibility for another Federal program with income restrictions equal to or below 80 percent of area median income.
+&emsp;The term "low- or moderate-income household" means an individual or family the total annual income of which is less than 80 percent of the median income of the area in which the individual or family resides, as reported by the Department of Housing and Urban Development, including an individual or family that has demonstrated eligibility for another Federal program with income restrictions equal to or below 80 percent of area median income.
 
 (Pub. L. 117–169, title V, §50121, Aug. 16, 2022, 136 Stat. 2033.)
 

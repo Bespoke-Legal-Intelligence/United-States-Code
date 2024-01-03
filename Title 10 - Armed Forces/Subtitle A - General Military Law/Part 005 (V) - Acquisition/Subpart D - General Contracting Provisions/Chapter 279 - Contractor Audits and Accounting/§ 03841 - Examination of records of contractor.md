@@ -82,11 +82,11 @@ Forms of Original Record Storage.—Nothing in this section shall be construed t
 
 (i)
 
-Use of Images of Original Records.—The head of an agency shall not require a contractor or subcontractor to provide original records in an audit carried out pursuant to this section if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
+Use of Images of Original Records.—The head of an agency shall not require a contractoror subcontractor to provide original records in an audit carried out pursuant to this section if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
 
 &emsp;(1) The contractor or subcontractor has established procedures to ensure that the imaging process preserves the integrity, reliability, and security of the original records.
 
-&emsp;(2) The contractor or subcontractor maintains an effective indexing system to permittimely and convenient access to the imaged records.
+&emsp;(2) The contractor or subcontractor maintains an effective indexing system to permit timely and convenient access to the imaged records.
 
 &emsp;(3) The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems.
 
@@ -164,7 +164,7 @@ Risk-based Auditing.—A determination by the Defense Contract Audit Agency that
 
 "(d)
 
-Comptroller General Review.—Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall initiate a review of the documentation required by subsection (a). Not later than 90 days after completion of the review, the Comptroller General shall submit to the congressional defense committees \[Committees onArmed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the review, with findings and recommendations for improving the audit processes of the Defense Contract Audit Agency."
+Comptroller General Review.—Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall initiate a review of the documentation required by subsection (a). Not later than 90 days after completion of the review, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the review, with findings and recommendations for improving the audit processes of the Defense Contract Audit Agency."
 
 #### <b>Executive Documents</b>
 

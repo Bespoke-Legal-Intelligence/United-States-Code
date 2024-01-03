@@ -30,7 +30,7 @@ In this subchapter, for the purpose of grants authorized under this subchapter:
 
 #### (5) Community-based organization
 
-&emsp;The term "community-based organization" means a nonprofit, nongovernmental, or tribalorganization that serves a specific geographic community that—
+&emsp;The term "community-based organization" means a nonprofit, nongovernmental, or tribal organization that serves a specific geographic community that—
 
 &emsp;&emsp;(A) focuses primarily on domestic violence, dating violence, sexual assault, or stalking;
 
@@ -108,7 +108,7 @@ In this subchapter, for the purpose of grants authorized under this subchapter:
 
 &emsp;&emsp;(B) unfairly use a person's personal economic resources, including money, assets, and credit, for one's own advantage; or
 
-&emsp;&emsp;(C) exert undue influence over a person's financial and economic behavior or decisions, including forcing default on joint orother financial obligations, exploiting powers of attorney, guardianship, or conservatorship, or failing or neglecting to act in the best interests of a person to whom one has a fiduciary duty.
+&emsp;&emsp;(C) exert undue influence over a person's financial and economic behavior or decisions, including forcing default on joint or other financial obligations, exploiting powers of attorney, guardianship, or conservatorship, or failing or neglecting to act in the best interests of a person to whom one has a fiduciary duty.
 
 #### (14) Elder abuse
 
@@ -276,7 +276,7 @@ In this subchapter, for the purpose of grants authorized under this subchapter:
 
 #### (34) Sex trafficking
 
-&emsp;The term "sex trafficking" means any conduct proscribed by section 1591 of title 18,whether or not the conduct occurs in interstate or foreign commerce or within the special maritime and territorial jurisdiction of the United States.
+&emsp;The term "sex trafficking" means any conduct proscribed by section 1591 of title 18, whether or not the conduct occurs in interstate or foreign commerce or within the special maritime and territorial jurisdiction of the United States.
 
 #### (35) Sexual assault
 
@@ -422,7 +422,7 @@ In this subchapter, for the purpose of grants authorized under this subchapter:
 
 &emsp;&emsp;(i) Grantees and subgrantees may share—
 
-&emsp;&emsp;&emsp;(I) nonpersonally identifying data in the aggregate regarding services to their clients and nonpersonally identifying demographic information in order to complywith Federal, State, tribal, or territorial reporting, evaluation, or data collection requirements;
+&emsp;&emsp;&emsp;(I) nonpersonally identifying data in the aggregate regarding services to their clients and nonpersonally identifying demographic information in order to comply with Federal, State, tribal, or territorial reporting, evaluation, or data collection requirements;
 
 &emsp;&emsp;&emsp;(II) court-generated information and law enforcement-generated information contained in secure, governmental registries for protection order enforcement purposes; and
 
@@ -440,7 +440,7 @@ In this subchapter, for the purpose of grants authorized under this subchapter:
 
 #### (F) Oversight
 
-&emsp;&emsp;Nothing in this paragraph shall prevent the Attorney General from disclosing grant activities authorized in this Act to the chairman and ranking members of the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate exercising Congressional oversight authority. All disclosures shall protect confidentiality and omit personally identifying information, including location information about individuals.
+&emsp;&emsp;Nothing in this paragraph shall prevent the Attorney General from disclosing grantactivities authorized in this Act to the chairman and ranking members of the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate exercising Congressional oversight authority. All disclosures shall protect confidentiality and omit personally identifying information, including location information about individuals.
 
 #### (G) Confidentiality assessment and assurances
 
@@ -504,7 +504,7 @@ In this subchapter, for the purpose of grants authorized under this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities. If there is a demonstrated history that the Office on Violence Against Women has previously set aside amounts greater than 8 percent for technical assistance and training relating to grant programs authorized under this subchapter, the Office has the authority to continue setting aside amounts greater than 8 percent.
+&emsp;&emsp;Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities. If there is a demonstrated history that the Office on Violence Against Women has previously set aside amounts greater than 8percent for technical assistance and training relating to grant programs authorized under this subchapter, the Office has the authority to continue setting aside amounts greater than 8 percent.
 
 #### (B) Requirement
 
@@ -614,7 +614,7 @@ In this subchapter, for the purpose of grants authorized under this subchapter:
 
 #### (16) Innovation fund
 
-&emsp;Of the amounts appropriated to carry out this subchapter, not more than 1 percent shallbe made available for pilot projects, demonstration projects, and special initiatives designed to improve Federal, State, local, Tribal, and other community responses to gender-based violence.
+&emsp;Of the amounts appropriated to carry out this subchapter, not more than 1 percent shall be made available for pilot projects, demonstration projects, and special initiatives designed to improve Federal, State, local, Tribal, and other community responses to gender-based violence.
 
 (Pub. L. 103–322, title IV, §40002, as added Pub. L. 109–162, §3(a), Jan. 5, 2006, 119 Stat. 2964; amended Pub. L. 109–271, §§1(d)–(f), 2(e), Aug. 12, 2006, 120 Stat. 751, 752; Pub. L. 111–320, title II, §202(d), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 113–4, §3, Mar. 7, 2013, 127 Stat. 56; Pub. L. 117–103, div. W, §2(a), Mar. 15, 2022, 136 Stat. 840; Pub. L. 117–315, §2(b), Dec. 27, 2022, 136 Stat. 4404.)
 
@@ -700,7 +700,7 @@ Subsec. (a)(32) to (39). Pub. L. 117–103, §2(a)(1)(D), redesignated pars. (26
 
 Subsec. (a)(40). Pub. L. 117–103, §2(a)(1)(X), added par. (40). Former par. (40) redesignated (47).
 
-Subsec. (a)(41), (42). Pub. L. 117–103, §2(a)(1)(C), redesignated pars. (34) and (35) as (41) and (42). Former pars. (43) to (45) redesignated (50) to (52), respectively.
+Subsec. (a)(41), (42). Pub. L. 117–103, §2(a)(1)(C), redesignated pars. (34) and (35) as (41) and (42), respectively.Former pars. (41) and (42) redesignated (48) and (49), respectively.
 
 Subsec. (a)(42)(A). Pub. L. 117–315, §2(b)(1), inserted ", Native Hawaiian organizations, or the Native Hawaiian community" after "Indian service providers", ", organizations, or communities" after "member providers", and "or Native Hawaiian" after "designed to assist Indian".
 
@@ -896,7 +896,7 @@ Pub. L. 109–162, title II, §201, Jan. 5, 2006, 119 Stat. 2993, provided that:
 
 &emsp;"(5) Geographic isolation often compounds the problems facing sexual assault victims. The lack of anonymity and accessible support services can limit opportunities for justice for victims.
 
-&emsp;"(6) Domestic elder abuse is primarily family abuse. The National Elder Abuse Incidence Studyfound that the perpetrator was a family member in 90 percent of cases.
+&emsp;"(6) Domestic elder abuse is primarily family abuse. The National Elder Abuse Incidence Study found that the perpetrator was a family member in 90 percent of cases.
 
 &emsp;"(7) Barriers for older victims leaving abusive relationships include—
 
@@ -970,13 +970,13 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to improve efforts to prevent and address online harassment and abuse, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Technology platforms and social media can be vital tools for expression, civic participation, and building a sense of community. But the scale, reach, and amplification effects of technology platforms have also exacerbated gender-based violence, particularly through online harassment and abuse. Online harassment and abuse include a broad array of harmful and sometimes illegal behaviors that are perpetrated through the use of technology. Women, adolescent girls, and LGBTQI+ individuals, who may be additionally targeted because of their race, ethnicity, religion, and other factors, can experience more severe harms from online harassment and abuse. Online harassment and abuse take many forms, including the non-consensual distribution of intimate digital images; cyberstalking; sextortion; doxing; malicious deep fakes; gendered disinformation; rape and death threats; the online recruitment and exploitation of victims of sex trafficking; and various forms of technology-facilitated intimate partner abuse. In the United States, 1 in3 women under the age of 35 reports having been sexually harassed online, and over half of LGBTQI+ individuals report having been the target of severe online abuse, including sustained harassment, physical threats, and stalking in addition to sexual harassment. Globally, half of girls report that they are more likely to be harassed through social media than on the street.
+Section 1. <i>Policy</i>. Technology platforms and social media can be vital tools for expression, civic participation, and building a sense of community. But the scale, reach, and amplification effects of technology platforms have also exacerbated gender-based violence, particularly through online harassment and abuse. Online harassment and abuse include a broad array of harmful and sometimes illegal behaviors that are perpetrated through the use of technology. Women, adolescent girls, and LGBTQI+ individuals, who may be additionally targeted because of their race, ethnicity, religion, and other factors, can experience more severe harms from online harassment and abuse. Online harassment and abuse take many forms, including the non-consensual distribution of intimate digital images; cyberstalking; sextortion; doxing; malicious deep fakes; gendered disinformation; rape and death threats; the online recruitment and exploitation of victims of sex trafficking; and various forms of technology-facilitated intimate partner abuse. In the United States, 1 in 3 women under the age of 35 reports having been sexually harassed online, and over half of LGBTQI+ individuals report having been the target of severe online abuse, including sustained harassment, physical threats, and stalking in addition to sexual harassment. Globally, half of girls report that they are more likely to be harassed through social media than on the street.
 
 In the United States and around the world, women and LGBTQI+ political leaders, public figures, activists, and journalists are especially targeted by sexualized forms of online harassment and abuse, undermining their ability to exercise their human rights and participate in democracy, governance, and civic life. Online abuse and harassment, which aim to preclude women from political decision-making about their own lives and communities, undermine the functioning of democracy. Growing evidence also demonstrates that online radicalization can be linked to gender-based violence, which, along with other forms of abuse and harassment, spans the digital and physical realms. Online harassment and abuse can result in a range of dire consequences for victims, from psychological distress and self-censorship to economic losses, disruptions to education, increased self-harm, suicide, homicide, and other forms of physical and sexual violence. Further, digital technologies are often used in concert with other forms of abuse and harassment, underscoring the urgency of addressing the interplay of in-person and online harms. More research is needed to fully understand the nature, magnitude, and costs of these harms and ways to address them in the United States and globally.
 
 Therefore, I am directing the Director of the White House Gender Policy Council and the Assistant to the President for National Security Affairs to lead an interagency effort to address online harassment and abuse, specifically focused on technology-facilitated gender-based violence, and to develop concrete recommendations to improve prevention, response, and protection efforts through programs and policies in the United States and globally.
 
-Sec. 2. <i>Establishment</i>. There is established within the Executive Office of the President the White House Task Force to Address Online Harassment and Abuse (Task Force).
+Sec. 2. <i>Establishment</i>. There is established within the Executive Office of the President the White House TaskForce to Address Online Harassment and Abuse (Task Force).
 
 Sec. 3. <i>Membership</i>. (a) The Director of the White House Gender Policy Council and the Assistant to the President for National Security Affairs, or their designees, shall serve as Co-Chairs of the Task Force.
 

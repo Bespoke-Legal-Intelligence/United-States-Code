@@ -30,7 +30,7 @@
 
 (4) For purposes of this subsection, the term "covered person" means an officer, employee, agent, or contractor of the Postal Service.
 
-(g)(1) If the Postal Service determines that any document or other matter it provides to the Postal Regulatory Commission under a subpoena issued under subsection (f), or otherwise at the request of the Commission in connection with any proceeding or other purpose under this title, contains information which is described in section 410(c) of this title, or exempt from public disclosure under section 552(b) of title 5, the Postal Service shall, at the time of providing such matter to the Commission, notify the Commission, in writing, of its determination (and the reasons therefor).
+(g)(1) If the Postal Service determines that any document or other matter it provides to the Postal Regulatory Commission under a subpoena issued under subsection (f), or otherwise at the request of the Commission in connection with any proceeding or other purpose under this title, contains information which is described insection 410(c) of this title, or exempt from public disclosure under section 552(b) of title 5, the Postal Service shall, at the time of providing such matter to the Commission, notify the Commission, in writing, of its determination (and the reasons therefor).
 
 (2) Except as provided in paragraph (3), no officer or employee of the Commission may, with respect to any information as to which the Commission has been notified under paragraph (1)—
 
@@ -38,7 +38,7 @@
 
 &emsp;(B) permit anyone who is not an officer or employee of the Commission to have access to any such information.
 
-(3)(A) Paragraph (2) shall not prohibit the Commission from publicly disclosing relevant information in furtherance of its duties under this title, provided that the Commission has adopted regulations under section 553 of title 5,that establish a procedure for according appropriate confidentiality to information identified by the Postal Service under paragraph (1). In determining the appropriate degree of confidentiality to be accorded information identified by the Postal Service under paragraph (1), the Commission shall balance the nature and extent of the likely commercial injury to the Postal Service against the public interest in maintaining the financial transparency of a government establishment competing in commercial markets.
+(3)(A) Paragraph (2) shall not prohibit the Commission from publicly disclosing relevant information in furtherance of its duties under this title, provided that the Commission has adopted regulations under section 553 of title 5, that establish a procedure for according appropriate confidentiality to information identified by the Postal Service under paragraph (1). In determining the appropriate degree of confidentiality to be accorded information identified by the Postal Service under paragraph (1), the Commission shall balance the nature and extent of the likely commercial injury to the Postal Service against the public interest in maintaining the financial transparency of a government establishment competing in commercial markets.
 
 (B) Paragraph (2) shall not prevent the Commission from requiring production of information in the course of any discovery procedure established in connection with a proceeding under this title. The Commission shall, by regulations based on rule 26(c) of the Federal Rules of Civil Procedure, establish procedures for ensuring appropriate confidentiality for information furnished to any party.
 

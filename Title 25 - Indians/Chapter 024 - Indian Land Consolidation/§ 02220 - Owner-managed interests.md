@@ -54,7 +54,7 @@ The Secretary shall not be responsible for the collection of, or accounting for,
 
 #### (1) In general
 
-&emsp;Subject to the provisions of paragraph (2), after the applications of the owners of all of the trust or restricted interests in a parcel of land have been approved by the Secretary pursuant to subsection (d), each such interest shall continue in owner-managed status under this section notwithstanding any subsequentconveyance of the interest in trust or restricted status to another person or the subsequent descent of the interest in trust or restricted status by testate or intestate succession to 1 or more heirs.
+&emsp;Subject to the provisions of paragraph (2), after the applications of the owners of all of the trust or restricted interests in a parcel of land have been approved by the Secretary pursuant to subsection (d), each such interest shall continue in owner-managed status under this section notwithstanding any subsequent conveyance of the interest in trust or restricted status to another person or the subsequent descent of the interest in trust or restricted status by testate or intestate succession to 1 or more heirs.
 
 #### (2) Revocation
 
@@ -74,7 +74,7 @@ The Secretary shall not be responsible for the collection of, or accounting for,
 
 (2) For purposes of this section, the term "owner-managed status" means, with respect to a trust or restricted interest, that—
 
-&emsp;(A) the interest is a trust or restricted interest in a parcel of land for which applications covering all trust or restricted interests in such parcel have been submitted to and approved by the Secretary pursuant to subsection (d);
+&emsp;(A) the interest is a trust or restricted interest in a parcel of land for which applications covering all trust or restricted interests insuch parcel have been submitted to and approved by the Secretary pursuant to subsection (d);
 
 &emsp;(B) the interest may be leased without approval of the Secretary pursuant to, and in a manner that is consistent with, the requirements of this section; and
 

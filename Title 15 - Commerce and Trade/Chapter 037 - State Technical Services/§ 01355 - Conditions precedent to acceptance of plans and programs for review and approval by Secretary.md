@@ -10,7 +10,7 @@ The Secretary shall not accept the five-year plan of a State for review and appr
 
 &emsp;(d) determined that matching funds will be available from State or other non-Federal sources;
 
-&emsp;(e) determined that such technical services program does not provide a service which on the date of such certification is economically and readily available in such State from private technical services, professional consultants, or private institutions;
+&emsp;(e) determined that such technical services program does not provide a service which onthe date of such certification is economically and readily available in such State from private technical services, professional consultants, or private institutions;
 
 &emsp;(f) planned no services specially related to a particular firm or company, public work, or other capital project except insofar as the services are of general concern to the industry and commerce of the community, State, or region;
 

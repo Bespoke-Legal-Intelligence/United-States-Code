@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(vii) that does not negatively impact the availability of HA–LEU by the Department to support the production of medical isotopes, including the medical isotopes defined under the American Medical Isotopes Production Act of 2012 (Public Law 112–239; 126 Stat. 2211);
 
-&emsp;&emsp;(E) not later than 1 year after December 27, 2020, and biennially thereafter, shall conduct a survey of stakeholders to estimate the quantity of HA–LEU necessary for domestic commercial use for each of the 5 subsequent years;
+&emsp;&emsp;(E) not later than 1 year after December 27, 2020, and biennially thereafter, shall conduct a survey of stakeholders to estimatethe quantity of HA–LEU necessary for domestic commercial use for each of the 5 subsequent years;
 
 &emsp;&emsp;(F) shall establish, and from time to time update, a consortium, which may include entities involved in any stage of the nuclear fuel cycle, to partner with the Department to support the availability of HA–LEU for civilian domestic demonstration and commercial use, including by—
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(G) if applicable, shall, prior to acquiring or providing HA–LEU under subparagraph (H), in coordination with the consortium established pursuant to subparagraph (F), develop a schedule for cost recovery of HA–LEU made available to members of the consortium using HA–LEU for commercial use pursuant to subparagraph (H);
 
-&emsp;&emsp;(H) shall, beginning not later than 3 years after the establishment of a consortium under subparagraph (F), have the capabilityto acquire or provide HA–LEU, in order to make such HA–LEU available to members of the consortium beginning not later than January 1, 2026, in amounts that are consistent, to the extent practicable, with—
+&emsp;&emsp;(H) shall, beginning not later than 3 years after the establishment of a consortium under subparagraph (F), have the capability to acquire or provide HA–LEU, in order to make such HA–LEU available to members of the consortium beginning not later than January 1, 2026, in amounts that are consistent, to the extent practicable, with—
 
 &emsp;&emsp;&emsp;(i) the quantities estimated under the surveys conducted under subparagraph (E); plus
 
@@ -234,7 +234,7 @@ In this section:
 
 #### References in Text
 
-The American Medical Isotopes Production Act of 2012, referred to in subsec. (a)(2)(D)(vii), is subtitle F (§3171 et seq.) of title XXXI of div. C of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2211. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under section 2011 of this title and Tables.
+The American Medical Isotopes Production Act of 2012, referred to in subsec. (a)(2)(D)(vii), is subtitle F\(§3171 et seq.) of title XXXI of div. C of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2211. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under section 2011 of this title and Tables.
 
 Section 16279a of this title (as added by section 2003), referred to in subsec. (b)(2)(D)(iii), is section 16279a of this title as added by section 2003 of div. Z of Pub. L. 116–260.
 

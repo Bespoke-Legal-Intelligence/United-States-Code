@@ -50,7 +50,7 @@ Lease of Facilities.—The Secretary of Health and Human Services, acting under 
 
 "(c)
 
-Self-Determination Contracts for Staffing and Operation.—The Secretary of Health and Human Services, acting under section 102 of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5321\], may contract with the Tanana Chiefs Conference to staff and operate the facilities leased under subsection (b), without a request of an Indian tribe, and without regard to the definition and proviso in section 4(l) of that Act \[25 U.S.C. 5304(l)\]."
+Self-Determination Contracts for Staffing and Operation.—The Secretary of Health and Human Services, acting under section 102 of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5321\], may contract with the Tanana Chiefs Conference to staff and operate the facilities leased under subsection (b), without a request of an Indian tribe, andwithout regard to the definition and proviso in section 4(l) of that Act \[25 U.S.C. 5304(l)\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

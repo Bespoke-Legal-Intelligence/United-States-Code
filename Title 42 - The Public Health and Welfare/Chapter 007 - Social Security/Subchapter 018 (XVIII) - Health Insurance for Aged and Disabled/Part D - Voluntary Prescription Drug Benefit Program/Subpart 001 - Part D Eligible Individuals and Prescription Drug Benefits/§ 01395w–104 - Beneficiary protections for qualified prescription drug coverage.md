@@ -116,7 +116,7 @@
 
 #### (ii) Consultation
 
-&emsp;&emsp;&emsp;In developing the standards under clause (i), the Secretary shall consult with theNational Council for Prescription Drug Programs and other standard setting organizations determined appropriate by the Secretary.
+&emsp;&emsp;&emsp;In developing the standards under clause (i), the Secretary shall consult with the National Council for Prescription Drug Programs and other standard setting organizations determined appropriate by the Secretary.
 
 #### (iii) Implementation
 
@@ -202,7 +202,7 @@
 
 #### (iv) Requirement for certain categories and classes until criteria established
 
-&emsp;&emsp;&emsp;Until such time as the Secretary establishes the criteria under clause (ii)(II) the following categories and classes of drugs shall be identified under clause (ii)(I):
+&emsp;&emsp;&emsp;Until such time as the Secretary establishes the criteria under clause (ii)(II) thefollowing categories and classes of drugs shall be identified under clause (ii)(I):
 
 &emsp;&emsp;&emsp;&emsp;(I) Anticonvulsants.
 
@@ -518,13 +518,13 @@
 
 #### (iv) Clinical contact
 
-&emsp;&emsp;&emsp;With respect to each at-risk beneficiary for prescription drug abuse enrolled in a prescription drug plan offered by a PDP sponsor, the PDP sponsor shall contact thebeneficiary's providers who have prescribed frequently abused drugs regarding whether prescribed medications are appropriate for such beneficiary's medical conditions.
+&emsp;&emsp;&emsp;With respect to each at-risk beneficiary for prescription drug abuse enrolled in a prescription drug plan offered by a PDP sponsor, the PDP sponsor shall contact the beneficiary's providers who have prescribed frequently abused drugs regarding whether prescribed medications are appropriate for such beneficiary's medical conditions.
 
 #### (v) Treatment of enrollees with a history of opioid-related overdose
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;For plan years beginning not later than January 1, 2021, a part D eligible individual who is not an exempted individual described in clause (ii) and who is identified under this clause as a part D eligible individual with a history of opioid-related overdose (as defined by the Secretary) shall be included as a potentially at-risk beneficiary for prescription drug abuse under the drug management program under this paragraph.
+&emsp;&emsp;&emsp;&emsp;For plan years beginning not later than January 1, 2021, a part D eligible individual who is not an exempted individual described in clause (ii) and who is identified under this clause as a part D eligible individual with a history ofopioid-related overdose (as defined by the Secretary) shall be included as a potentially at-risk beneficiary for prescription drug abuse under the drug management program under this paragraph.
 
 #### (II) Identification and notice
 
@@ -578,7 +578,7 @@
 
 #### (E) Terminations and appeals
 
-&emsp;&emsp;The identification of an individual as an at-risk beneficiary for prescription drug abuse under this paragraph, a coverage determination made under a drug management program for at-risk beneficiaries, the selection of prescriber or pharmacy under subparagraph (D), and information to be shared under subparagraph (I), with respect to such individual, shall be subject to reconsideration and appeal under subsection (h) and if on reconsideration a PDP sponsor affirms its denial, in whole or in part, the case shall be automatically forwarded to the independent,outside entity contracted with the Secretary for review and resolution.
+&emsp;&emsp;The identification of an individual as an at-risk beneficiary for prescription drug abuse under this paragraph, a coverage determination made under a drug management program for at-risk beneficiaries, the selection of prescriber or pharmacy under subparagraph (D), and information to be shared under subparagraph (I), with respect to such individual, shall be subject to reconsideration and appeal under subsection (h) and if on reconsideration a PDP sponsor affirms its denial, in whole or in part, the case shall be automatically forwarded to the independent, outside entity contracted with the Secretary for review and resolution.
 
 #### (F) Termination of identification
 
@@ -586,7 +586,7 @@
 
 &emsp;&emsp;&emsp;The Secretary shall develop standards for the termination of identification of an individual as an at-risk beneficiary for prescription drug abuse under this paragraph. Under such standards such identification shall terminate as of the earlier of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the date the individual demonstrates that the individual is no longer likely, in the absence of the restrictions under this paragraph, to be an at-risk beneficiary for prescription drug abuse described in subparagraph (C)(i); and
+&emsp;&emsp;&emsp;&emsp;(I) the date the individual demonstrates that the individual is no longer likely, in the absence of the restrictions under this paragraph, to be an at-riskbeneficiary for prescription drug abuse described in subparagraph (C)(i); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the end of such maximum period of identification as the Secretary may specify.
 
@@ -646,7 +646,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) providers of services or suppliers that may facilitate the abuse or diversion of frequently abused drugs by beneficiaries.
 
-&emsp;&emsp;&emsp;(iii) Consultation with the contractor described in subparagraph (B) to verify if an individual enrolling in a prescription drug plan offered by a PDP sponsor has been previously identified by another PDP sponsor as an individual described in clause (ii)(I).
+&emsp;&emsp;&emsp;(iii) Consultation with the contractor described in subparagraph (B) to verify if anindividual enrolling in a prescription drug plan offered by a PDP sponsor has been previously identified by another PDP sponsor as an individual described in clause (ii)(I).
 
 #### (B) Reporting
 
@@ -800,7 +800,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (A) Initial standards
 
-&emsp;&emsp;Not later than September 1, 2005, the Secretary shall develop, adopt, recognize, or modify initial uniform standards relating to the requirements for electronic prescription drug programs described in paragraph (2) taking into consideration the recommendations (if any) from the National Committee on Vital and Health Statistics (as established under section 242k(k) of this title) under subparagraph (B).
+&emsp;&emsp;Not later than September 1, 2005, the Secretary shall develop, adopt, recognize, ormodify initial uniform standards relating to the requirements for electronic prescription drug programs described in paragraph (2) taking into consideration the recommendations (if any) from the National Committee on Vital and Health Statistics (as established under section 242k(k) of this title) under subparagraph (B).
 
 #### (B) Role of NCVHS
 
@@ -876,7 +876,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), a prescription for a covered part D drug under a prescription drug plan (or under an MA–PD plan) for a schedule II, III, IV, or V controlled substance shall be transmitted by a health care practitioner electronically in accordance with an electronic prescriptiondrug program that meets the requirements of paragraph (2).
+&emsp;&emsp;Subject to subparagraph (B), a prescription for a covered part D drug under a prescription drug plan (or under an MA–PD plan) for a schedule II, III, IV, or V controlled substance shall be transmitted by a health care practitioner electronically in accordance with an electronic prescription drug program that meets the requirements of paragraph (2).
 
 #### (B) Exception for certain circumstances
 
@@ -884,7 +884,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 &emsp;&emsp;&emsp;(i) a prescription issued when the practitioner and dispensing pharmacy are the same entity;
 
-&emsp;&emsp;&emsp;(ii) a prescription issued that cannot be transmitted electronically under the most recently implemented version of the National Council for Prescription Drug Programs SCRIPT Standard;
+&emsp;&emsp;&emsp;(ii) a prescription issued that cannot be transmitted electronically under the mostrecently implemented version of the National Council for Prescription Drug Programs SCRIPT Standard;
 
 &emsp;&emsp;&emsp;(iii) a prescription issued by a practitioner who received a waiver or a renewal thereof for a period of time as determined by the Secretary, not to exceed one year, from the requirement to use electronic prescribing due to demonstrated economic hardship, technological limitations that are not reasonably within the control of the practitioner, or other exceptional circumstance demonstrated by the practitioner;
 
@@ -936,7 +936,7 @@ Each PDP sponsor shall provide meaningful procedures for hearing and resolving g
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), a PDP sponsor shall meet the requirements of paragraphs (4) and (5) of section 1395w–22(g) of this title with respect to benefits (including a determination related to the application of tiered cost-sharing described in subsection (g)(2)) in a manner similar (as determined by the Secretary) to the manner such requirements apply to an MA organization with respect to benefits under the original medicare fee-for-service program option it offers under an MA plan under part C. In applying this paragraph only the part D eligible individual shall be entitled to bring such an appeal.
+&emsp;Subject to paragraph (2), a PDP sponsor shall meet the requirements of paragraphs (4) and (5) of section 1395w–22(g) of this title with respect to benefits (including a determination related to the application of tiered cost-sharing described in subsection (g)(2)) in a manner similar (as determined by the Secretary) to the manner such requirements apply to an MA organization with respect to benefits under the original medicare fee-for-service program option it offers under an MA plan under part C. In applying this paragraph only the part Deligible individual shall be entitled to bring such an appeal.
 
 #### (2) Limitation in cases on nonformulary determinations
 

@@ -6,7 +6,7 @@ In this part, the term "competitive procedures" means procedures under which the
 
 &emsp;(2) the competitive selection for award of science and technology proposals resulting from a general solicitation and the peer review or scientific review (as appropriate) of such proposals;
 
-&emsp;(3) the procedures established by the Administrator of General Services for the multipleaward schedule program of the General Services Administration if—
+&emsp;(3) the procedures established by the Administrator of General Services for the multiple award schedule program of the General Services Administration if—
 
 &emsp;&emsp;(A) participation in the program has been open to all responsible sources; and
 

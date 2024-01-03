@@ -36,7 +36,7 @@ Any forms prescribed by the Commission under subsection (a)(1), and any informat
 
 #### (d) Rules, regulations, or forms; issuance, procedures applicable, etc.
 
-(1) Before prescribing any rule, regulation, or form under this section or any other provision of this Act, the Commission shall transmit a statement with respect to such rule, regulation, or form to the Senate and the House of Representatives, in accordance with this subsection. Such statement shall set forth the proposed rule, regulation, or form, and shall contain a detailed explanation and justification of it.
+(1) Before prescribing any rule, regulation, or form under this section or any other provision ofthis Act, the Commission shall transmit a statement with respect to such rule, regulation, or form to the Senate and the House of Representatives, in accordance with this subsection. Such statement shall set forth the proposed rule, regulation, or form, and shall contain a detailed explanation and justification of it.
 
 (2) If either House of the Congress does not disapprove by resolution any proposed rule or regulation submitted by the Commission under this section within 30 legislative days after the date of the receipt of such proposed rule or regulation or within 10 legislative days after the date of receipt of such proposed form, the Commission may prescribe such rule, regulation, or form.
 
@@ -134,7 +134,7 @@ Subsec. (a)(1), (4). Pub. L. 93–443, §208(c)(9)(A), (B), substituted "him" fo
 
 Subsec. (a)(6). Pub. L. 93–443, §209(a)(1), substituted provisions respecting index of reports and statements and publication thereof in Federal Register for provisions respecting compilation and maintenance of current list of candidate statements.
 
-Subsec. (a)(7). Pub. L. 93–443, §209(a)(1), substituted provision for preparation and publication of special reports listing candidates for whom reports were filed as required by this subchapter and those candidates forwhom such reports were not filed as so required for provisions respecting publication of annual reports and compilations of data.
+Subsec. (a)(7). Pub. L. 93–443, §209(a)(1), substituted provision for preparation and publication of special reports listing candidates for whom reports were filed as required by this subchapter and those candidates for whom such reports were not filed as so required for provisions respecting publication of annual reports and compilations of data.
 
 Subsec. (a)(8). Pub. L. 93–443, §209(a)(1), redesignated par. (11) as (8) and struck out former par. (8) provision for preparation and publication of special reports comparing the various totals and categories of contributions and expenditures made with respect to preceding elections.
 

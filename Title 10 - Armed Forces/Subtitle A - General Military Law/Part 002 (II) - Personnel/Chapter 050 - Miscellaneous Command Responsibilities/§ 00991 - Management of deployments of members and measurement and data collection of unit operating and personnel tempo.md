@@ -14,7 +14,7 @@ Management Responsibilities.—(1) The deployment (or potential deployment) of a
 
 &emsp;&emsp;(i) 220 days; or
 
-&emsp;&emsp;(ii) a lower number of days prescribed by the Secretary of Defense, acting through theUnder Secretary of Defense for Personnel and Readiness.
+&emsp;&emsp;(ii) a lower number of days prescribed by the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness.
 
 &emsp;(B) The term "two-year high-deployment threshold" means—
 
@@ -22,7 +22,7 @@ Management Responsibilities.—(1) The deployment (or potential deployment) of a
 
 &emsp;&emsp;(ii) a lower number of days prescribed by the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness.
 
-(3) A member may be deployed, or continued in a deployment, without regard to paragraph (1) if the deployment, or continued deployment, is approved by the Secretary of Defense. The authority of the Secretary under the preceding sentence may only be delegated to a civilian officer of the Department of Defense appointed by the President, by and with the advice and consent of the Senate.
+(3) A member may be deployed, or continued in a deployment, without regard to paragraph (1) if the deployment, or continued deployment, is approved by the Secretary of Defense. The authority of the Secretary under the preceding sentence may only be delegated to a civilian officer of the Department of Defense appointed bythe President, by and with the advice and consent of the Senate.
 
 (4) The Secretary of Defense shall prescribe a policy that addresses each of the following:
 
@@ -82,7 +82,7 @@ Recordkeeping.—(1) The Secretary of Defense shall—
 
 National Security Waiver Authority.—(1) The Secretary of the military department concerned may suspend the applicability of this section to a member or any group of members under the Secretary's jurisdiction when the Secretary determines that such a waiver is necessary in the national security interests of the United States.
 
-(2)(A) Whenever a waiver is in effect under paragraph (1), the member or group of members covered by the waiver shall be subject to specificand measurable deployment thresholds established and maintained for purposes of this subsection.
+(2)(A) Whenever a waiver is in effect under paragraph (1), the member or group of members covered by the waiver shall be subject to specific and measurable deployment thresholds established and maintained for purposes of this subsection.
 
 (B) Thresholds under this paragraph may be applicable—
 

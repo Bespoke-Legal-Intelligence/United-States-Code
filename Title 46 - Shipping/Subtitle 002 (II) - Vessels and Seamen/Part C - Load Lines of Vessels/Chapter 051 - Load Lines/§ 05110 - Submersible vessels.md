@@ -8,5 +8,5 @@ Notwithstanding sections 5103–5105 of this title, the Secretary may prescribe 
 
 #### <i>Revised section 5110</i>
 
-Section 5110 authorizes the Secretary to prescribe regulations for the marking of load lines of submersible vessels. This general authority has been included in anticipation of the commercial development of submersibles.
+Section 5110 authorizes the Secretary to prescribe regulations for the marking of load lines of submersiblevessels. This general authority has been included in anticipation of the commercial development of submersibles.
 

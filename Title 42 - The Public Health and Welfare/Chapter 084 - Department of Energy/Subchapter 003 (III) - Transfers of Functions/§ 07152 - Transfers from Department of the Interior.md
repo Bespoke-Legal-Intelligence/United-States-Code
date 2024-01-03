@@ -2,7 +2,7 @@
 
 #### (a) Functions relating to electric power
 
-(1) There are transferred to, and vested in, the Secretary all functions of the Secretary of the Interior under section 825s of title 16, and all other functions of the Secretary of the Interior, and officers and components of the Department of the Interior, with respect to—
+(1) There are transferred to, and vested in, the Secretary all functions of the Secretary of the Interior under section 825s of title 16, and all other functions of the Secretary of the Interior,and officers and components of the Department of the Interior, with respect to—
 
 &emsp;(A) the Southeastern Power Administration;
 
@@ -120,7 +120,7 @@ Contributed Funds.—Notwithstanding any other provision of law, the Alaska Powe
 
 Federal Power Act.—(1) After the sales authorized by this Act occur, Eklutna and Snettisham, including future modifications, shall continue to be exempt from the requirements of Part I of the Federal Power Act (16 U.S.C. 791a et seq.), except as provided in subsection (b).
 
-"(2) The exemption provided by paragraph (1) shall not affect the Memorandum of Agreement entered intoamong the State of Alaska, the Eklutna Purchasers, the Alaska Energy Authority, and Federal fish and wildlife agencies regarding the protection, mitigation of, damages to, and enhancement of fish and wildlife, dated August 7, 1991, which remains in full force and effect.
+"(2) The exemption provided by paragraph (1) shall not affect the Memorandum of Agreement entered into among the State of Alaska, the Eklutna Purchasers, the Alaska Energy Authority, and Federal fish and wildlife agencies regarding the protection, mitigation of, damages to, and enhancement of fish and wildlife, dated August 7, 1991, which remains in full force and effect.
 
 "(3) Nothing in this title or the Federal Power Act preempts the State of Alaska from carrying out the responsibilities and authorities of the Memorandum of Agreement.
 

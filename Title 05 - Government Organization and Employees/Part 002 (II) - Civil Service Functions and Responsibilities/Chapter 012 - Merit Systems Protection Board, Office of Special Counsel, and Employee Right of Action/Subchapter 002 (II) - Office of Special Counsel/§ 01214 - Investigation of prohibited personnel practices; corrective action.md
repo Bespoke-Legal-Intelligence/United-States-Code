@@ -96,7 +96,7 @@
 
 &emsp;(B) written comments by any individual who alleges to be the subject of the prohibited personnel practice.
 
-(4)(A) The Board shall order such corrective action as the Board considers appropriate, if the Board determines that the Special Counsel has demonstrated that a prohibited personnel practice, other than one described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), has occurred, exists, or is to be taken.
+(4)(A) The Board shall order such corrective action as the Board considers appropriate, if theBoard determines that the Special Counsel has demonstrated that a prohibited personnel practice, other than one described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), has occurred, exists, or is to be taken.
 
 (B)(i) Subject to the provisions of clause (ii), in any case involving an alleged prohibited personnel practice as described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), the Board shall order such corrective action as the Board considers appropriate if the Special Counsel has demonstrated that a disclosure or protected activity described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) was a contributing factor in the personnel action which was taken or is to be taken against the individual.
 
@@ -156,7 +156,7 @@ Subsec. (b)(4)(B)(i). Pub. L. 112–199, §101(b)(1)(A), (2)(A), inserted "or se
 
 Subsec. (b)(4)(B)(ii). Pub. L. 112–199, §114(a), inserted ", after a finding that a protected disclosure was a contributing factor," after "ordered if".
 
-Subsec. (g)(2). Pub. L. 112–199, §107(b), substituted "any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs)." for"and any other reasonable and foreseeable consequential damages."
+Subsec. (g)(2). Pub. L. 112–199, §107(b), substituted "any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs)." for "and any other reasonable and foreseeable consequential damages."
 
 Subsec. (h). Pub. L. 112–199, §104(c)(1), added subsec. (h).
 

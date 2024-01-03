@@ -16,7 +16,7 @@ Funds provided under this section may be used for the following program purpose 
 
 &emsp;&emsp;(B) develop and implement policies, practices, and procedures to effectively respond to domestic violence, dating violence, sexual assault, stalking, or sex trafficking against youth;
 
-&emsp;&emsp;(C) provide technical assistance and training to enhance the ability of school personnel, victim service providers, child protective service workers, staff of law enforcement agencies, prosecutors, court personnel, individuals who work in after school programs, medical personnel, social workers, mental health personnel, and workers in other programs that serve children and youth to improve their ability to appropriately respond to the needs of children and youth who are victims of domestic violence, dating violence, sexual assault, stalking,and sex trafficking, and to properly refer such children, youth, and their families to appropriate services;
+&emsp;&emsp;(C) provide technical assistance and training to enhance the ability of school personnel, victim service providers, child protective service workers, staff of law enforcement agencies, prosecutors, court personnel, individuals who work in after school programs, medical personnel, social workers, mental health personnel, and workers in other programs that serve children and youth to improve their ability to appropriately respond to the needs of children and youth who are victims of domestic violence, dating violence, sexual assault, stalking, and sex trafficking, and to properly refer such children, youth, and their families to appropriate services;
 
 &emsp;&emsp;(D) clarify State or local mandatory reporting policies and practices regarding peer-on-peer dating violence, sexual assault, stalking, and sex trafficking; or
 
@@ -28,7 +28,7 @@ Funds provided under this section may be used for the following program purpose 
 
 &emsp;&emsp;(A) provide training to school personnel, including healthcare providers and security personnel, on the needs of students who are victims of domestic violence, dating violence, sexual assault, stalking, sex trafficking, or female genital mutilation or cutting;
 
-&emsp;&emsp;(B) develop and implement prevention and intervention policies in middle and high schools, including appropriate responses to, and identification and referral procedures for, students who are experiencing or perpetrating domestic violence, dating violence, sexual assault, stalking, or sex trafficking, and procedures for handling the requirements of court protective orders issued to or against students;
+&emsp;&emsp;(B) develop and implement prevention and intervention policies in middle and high schools, including appropriate responses to, and identification and referral procedures for, students who are experiencing or perpetrating domestic violence, dating violence,sexual assault, stalking, or sex trafficking, and procedures for handling the requirements of court protective orders issued to or against students;
 
 &emsp;&emsp;(C) provide confidential support services for student victims of domestic violence, dating violence, sexual assault, stalking, or sex trafficking, such as a resource person who is either on-site or on-call;
 
@@ -96,7 +96,7 @@ Funds provided under this section may be used for the following program purpose 
 
 #### (A) Education
 
-&emsp;&emsp;To be eligible to receive a grant for the purposes described in subsection (b)(2), an entity described in subparagraph (A) or (B)of paragraph (1) shall be partnered with a public, charter, tribal, or nationally accredited private middle or high school, a school administered by the Department of Defense under section 2164 of title 10 or section 921 of title 20, a group of schools, a school district, or an institution of higher education.
+&emsp;&emsp;To be eligible to receive a grant for the purposes described in subsection (b)(2), an entity described in subparagraph (A) or (B) of paragraph (1) shall be partnered with a public, charter, tribal, or nationally accredited private middle or high school, a school administered by the Department of Defense under section 2164 of title 10 or section 921 of title 20, a group of schools, a school district, or an institution of higher education.
 
 #### (B) Other partnerships
 

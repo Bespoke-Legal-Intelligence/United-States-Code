@@ -52,7 +52,7 @@ Subsection (a) shall not apply to the following powers regardless of by whom hel
 
 &emsp;&emsp;(B) the period during which any income beneficiary shall be under the age of 21 years,
 
-> &emsp;to distribute or apply income to or for such beneficiary or to accumulate and add the income to corpus. A power does not fall within the powers described in this paragraph if any person has a power to add to the beneficiary or beneficiaries or to a class of beneficiaries designated to receive the income or corpus, except where such action is to provide for after-born or after-adopted children.
+> &emsp;to distribute or apply income to or for such beneficiary or to accumulate and add the income to corpus. A power does not fall within the powers described in this paragraph if any person has a power to add to the beneficiary orbeneficiaries or to a class of beneficiaries designated to receive the income or corpus, except where such action is to provide for after-born or after-adopted children.
 
 #### (8) Power to allocate between corpus and income
 

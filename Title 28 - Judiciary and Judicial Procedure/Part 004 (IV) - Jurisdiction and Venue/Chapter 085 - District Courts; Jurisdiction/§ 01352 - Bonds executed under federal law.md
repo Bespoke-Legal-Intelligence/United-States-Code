@@ -6,7 +6,7 @@ The district courts shall have original jurisdiction, concurrent with State cour
 
 #### Historical and Revision Notes
 
-This section is necessary to permit actions in the district courts upon any bond authorized by a law of the United States. In the absence of this new provision, such actions could not be maintained except by the United States, where the amount and other jurisdictional requisites did not exist. The new section also makes clear that it does not affect the right to prosecute such actions in State courts.
+This section is necessary to permit actions in the district courts upon any bond authorized by a law of theUnited States. In the absence of this new provision, such actions could not be maintained except by the United States, where the amount and other jurisdictional requisites did not exist. The new section also makes clear that it does not affect the right to prosecute such actions in State courts.
 
 #### <b>Editorial Notes</b>
 

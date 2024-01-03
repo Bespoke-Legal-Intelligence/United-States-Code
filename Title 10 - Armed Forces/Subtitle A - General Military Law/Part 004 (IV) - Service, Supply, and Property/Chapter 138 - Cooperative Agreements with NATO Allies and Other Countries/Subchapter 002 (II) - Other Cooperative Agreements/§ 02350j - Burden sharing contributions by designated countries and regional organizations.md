@@ -70,7 +70,7 @@ Elements.—Each report required by paragraph (1) shall include the following fo
 
 &emsp;&emsp;&emsp;(ii) the amount of any remaining unobligated balance.
 
-&emsp;&emsp;(E) The amount of such burden sharing contributions expended, by eligible category, including compensation for local national employees, military construction projects, and supplies and services of the Department of Defense.
+&emsp;&emsp;(E) The amount of such burden sharing contributions expended, by eligible category,including compensation for local national employees, military construction projects, and supplies and services of the Department of Defense.
 
 &emsp;&emsp;(F) Any other matter the Secretary of Defense considers relevant.
 

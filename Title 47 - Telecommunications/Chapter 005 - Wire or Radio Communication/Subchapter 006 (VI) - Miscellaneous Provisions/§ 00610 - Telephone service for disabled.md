@@ -46,7 +46,7 @@ The Commission shall establish such regulations as are necessary to ensure reaso
 
 #### (c) Technical standards
 
-The Commission shall establish or approve such technical standards as are required to enforce this section. A telephone or other customer premises equipment that is compliantwith relevant technical standards developed through a public participation process and in consultation with interested consumer stakeholders (designated by the Commission for the purposes of this section) will be considered hearing aid compatible for purposes of this section, until such time as the Commission may determine otherwise. The Commission shall consult with the public, including people with hearing loss, in establishing or approving such technical standards. The Commission may delegate this authority to an employee pursuant to section 155(c) of this title. The Commission shall remain the final arbiter as to whether the standards meet the requirements of this section.
+The Commission shall establish or approve such technical standards as are required to enforce this section. A telephone or other customer premises equipment that is compliant with relevant technical standards developed through a public participation process and in consultation with interested consumer stakeholders (designated by the Commission for the purposes of this section) will be considered hearing aid compatible for purposes of this section, until such time as the Commission may determine otherwise. The Commission shall consult with the public, including people with hearing loss, in establishing or approving such technical standards. The Commission may delegate this authority to an employee pursuant to section 155(c) of this title. The Commission shall remain the final arbiter as to whether the standards meet the requirements of this section.
 
 #### (d) Labeling of packaging materials for equipment
 
@@ -68,7 +68,7 @@ Any common carrier or connecting carrier may provide specialized terminal equipm
 
 Nothing in the Twenty-First Century Communications and Video Accessibility Act of 2010 shall be construed to modify the Commission's regulations set forth in section 20.19 of title 47 of the Code of Federal Regulations, as in effect on October 8, 2010.
 
-(June 19, 1934, ch. 652, title VII, §710, formerly title VI, §610, as added Pub. L. 97–410, §3, Jan. 3, 1983, 96 Stat. 2043; renumbered title VII, §710, Pub. L. 98–549, §6(a), Oct. 30, 1984, 98 Stat. 2804; amended Pub. L. 100–394, §3, Aug. 16, 1988, 102 Stat. 976; Pub. L. 103–414, title III, §304(a)(16), Oct. 25, 1994, 108 Stat. 4297; Pub. L. 111–260, title I, §102, Oct. 8, 2010, 124 Stat. 2753.)
+(June 19, 1934, ch. 652, title VII, §710, formerly title VI, §610, as added Pub. L. 97–410, §3, Jan. 3, 1983, 96 Stat. 2043; renumbered title VII, §710, Pub. L. 98–549, §6(a), Oct. 30, 1984, 98 Stat. 2804; amended Pub. L. 100–394, §3, Aug. 16, 1988, 102 Stat. 976; Pub. L. 103–414, title III, §304(a)(16),Oct. 25, 1994, 108 Stat. 4297; Pub. L. 111–260, title I, §102, Oct. 8, 2010, 124 Stat. 2753.)
 
 #### <b>Editorial Notes</b>
 

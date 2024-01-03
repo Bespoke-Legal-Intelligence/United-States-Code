@@ -1,6 +1,6 @@
 ### §8501. Vesting of property left by decedents
 
-(a) Personal property left by any decedent upon premises used as a Department facility, which premises are subject to the exclusive legislative jurisdiction of the United States and are within the exterior boundaries of any State or dependency of the United States, shall vest and be disposed of as provided in this subchapter, except that—
+(a) Personal property left by any decedent upon premises used as a Department facility, which premises are subject to the exclusive legislative jurisdiction of the United States and arewithin the exterior boundaries of any State or dependency of the United States, shall vest and be disposed of as provided in this subchapter, except that—
 
 &emsp;(1) if such person died leaving a last will and testament probated under the laws of the place of such person's domicile or under the laws of the State or dependency of the United States within the exterior boundaries of which such premises or a part thereof may be, the personal property of such decedent situated upon such premises shall vest in the person or persons entitled thereto under the provisions of such last will and testament; and
 

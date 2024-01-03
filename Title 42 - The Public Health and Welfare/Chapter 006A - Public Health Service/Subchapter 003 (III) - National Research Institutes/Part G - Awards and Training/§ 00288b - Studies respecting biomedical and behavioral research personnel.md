@@ -16,7 +16,7 @@ The Secretary shall, in accordance with subsection (b), arrange for the conduct 
 
 #### (b) Arrangement with National Academy of Sciences or other nonprofit private groups or associations
 
-(1) The Secretary shall request the National Academy of Sciences to conduct the study required by subsection (a) under an arrangement under which the actual expenses incurred by such Academy in conducting such study will be paid by the Secretary. If the National Academy of Sciences is willing to do so, the Secretary shall enter into such an arrangement with such Academy for the conduct of such study.
+(1) The Secretary shall request the National Academy of Sciences to conduct the study required by subsection (a) under an arrangement under which the actual expenses incurred by such Academy in conducting such study will bepaid by the Secretary. If the National Academy of Sciences is willing to do so, the Secretary shall enter into such an arrangement with such Academy for the conduct of such study.
 
 (2) If the National Academy of Sciences is unwilling to conduct such study under such an arrangement, then the Secretary shall enter into a similar arrangement with other appropriate nonprofit private groups or associations under which such groups or associations will conduct such study and prepare and submit the reports thereon as provided in subsection (c).<sup>1</sup>
 

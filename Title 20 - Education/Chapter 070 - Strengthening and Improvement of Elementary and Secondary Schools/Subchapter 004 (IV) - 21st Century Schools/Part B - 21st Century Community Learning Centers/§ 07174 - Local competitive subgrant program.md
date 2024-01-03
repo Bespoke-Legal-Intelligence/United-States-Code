@@ -4,7 +4,7 @@
 
 #### (1) Community learning centers
 
-&emsp;A State that receives funds under this part for a fiscal year shall provide the amount made available under section 7172(c)(1) of thistitle to award subgrants to eligible entities for community learning centers in accordance with this part.
+&emsp;A State that receives funds under this part for a fiscal year shall provide the amount made available under section 7172(c)(1) of this title to award subgrants to eligible entities for community learning centers in accordance with this part.
 
 #### (2) Expanded learning program activities
 
@@ -116,7 +116,7 @@ A subgrant awarded under this part may not be made in an amount that is less tha
 
 &emsp;&emsp;&emsp;(i) students who primarily attend schools that—
 
-&emsp;&emsp;&emsp;&emsp;(I) are implementing comprehensive support and improvement activities or targeted support and improvement activities under section 6311(d) of this title or other schools determined by the local educational agency to be in need of intervention and support to improve student academic achievement and other outcomes; and
+&emsp;&emsp;&emsp;&emsp;(I) are implementing comprehensive support and improvement activities or targeted support and improvement activities under section 6311(d) of this titleor other schools determined by the local educational agency to be in need of intervention and support to improve student academic achievement and other outcomes; and
 
 &emsp;&emsp;&emsp;&emsp;(II) enroll students who may be at risk for academic failure, dropping out of school, involvement in criminal or delinquent activities, or who lack strong positive role models; and
 

@@ -80,7 +80,7 @@ There is hereby established a commission to be known as the Commission on Safegu
 
 (1)(A) Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5 for each day (including travel time) during which such member is engaged in the performance of the duties of the Commission.
 
-(B) All members of the Commission who are officers or employees of the United States shallserve without compensation by reason of their service on the Commission.
+(B) All members of the Commission who are officers or employees of the United States shall serve without compensation by reason of their service on the Commission.
 
 (2) The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission.
 
@@ -112,7 +112,7 @@ Sections 3101 and 3103, referred to in subsec. (g), are sections 3101 and 3103 o
 
 #### Codification
 
-Section is comprised of section 3142 of Pub. L. 106–65. Subsec. (h)(1) of section 3142 of Pub. L. 106–65 repealed section 3161 of Pub. L. 105–85, formerly set out as a note under section 7251 of this title. Subsec. (h)(2) of section 3142 of Pub. L. 106–65 amended section 2657 of Title 50, War and National Defense.
+Section is comprised of section 3142 of Pub. L. 106–65. Subsec. (h)(1) of section 3142 of Pub. L. 106–65 repealed section 3161 of Pub. L. 105–85, formerly set out as a noteunder section 7251 of this title. Subsec. (h)(2) of section 3142 of Pub. L. 106–65 amended section 2657 of Title 50, War and National Defense.
 
 #### Amendments
 

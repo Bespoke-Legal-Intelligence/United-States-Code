@@ -44,7 +44,7 @@ For the purpose of this subchapter—
 
 &emsp;(9) "child" means one who at the time of the death of the employee is under 18 years of age or over that age and incapable of self-support, and includes stepchildren, adopted children, and posthumous children, but does not include married children;
 
-&emsp;(10) "grandchild" means one who at the time of the death of the employee is under 18 years of age or over that age and incapable of self-support;
+&emsp;(10) "grandchild" means one who at the time of the death of the employee is under 18 yearsof age or over that age and incapable of self-support;
 
 &emsp;(11) "widower" means the husband living with or dependent for support on the decedent at the time of her death, or living apart for reasonable cause or because of her desertion;
 
@@ -68,7 +68,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) engaged in armed conflict, whether or not war has been declared, against the United States or any of its allies; or
 
-&emsp;&emsp;(C) engaged in a war or armed conflict between military forces of any origin in acountry in which an individual to whom this subchapter applies is serving;
+&emsp;&emsp;(C) engaged in a war or armed conflict between military forces of any origin in a country in which an individual to whom this subchapter applies is serving;
 
 &emsp;(15) "allies" means any nation with which the United States is engaged in a common military effort or with which the United States has entered into a common defensive military alliance;
 

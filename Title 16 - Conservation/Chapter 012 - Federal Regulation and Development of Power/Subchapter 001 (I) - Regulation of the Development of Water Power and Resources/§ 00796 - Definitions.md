@@ -2,7 +2,7 @@
 
 The words defined in this section shall have the following meanings for purposes of this chapter, to wit:
 
-&emsp;(1) "public lands" means such lands and interest in lands owned by the United States asare subject to private appropriation and disposal under public land laws. It shall not include "reservations", as hereinafter defined;
+&emsp;(1) "public lands" means such lands and interest in lands owned by the United States as are subject to private appropriation and disposal under public land laws. It shall not include "reservations", as hereinafter defined;
 
 &emsp;(2) "reservations" means national forests, tribal lands embraced within Indian reservations, military reservations, and other lands and interests in lands owned by the United States, and withdrawn, reserved, or withheld from private appropriation and disposal under the public land laws; also lands and interests in lands acquired and held for any public purposes; but shall not include national monuments or national parks;
 
@@ -100,7 +100,7 @@ Wholesale transmission services.—The term "wholesale transmission services" me
 
 &emsp;(25)
 
-Exempt wholesale generator.—The term "exempt wholesale generator" shall have the meaning provided by section 79z–5a <sup>2</sup> of title 15.<sup>1</sup>
+Exempt wholesale generator.—The term "exempt wholesale generator" shall havethe meaning provided by section 79z–5a <sup>2</sup> of title 15.<sup>1</sup>
 
 &emsp;(26)
 
@@ -186,7 +186,7 @@ Pub. L. 102–486, title VII, §731, Oct. 24, 1992, 106 Stat. 2921, provided tha
 
 #### Termination of Federal Power Commission; Transfer of Functions
 
-The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., weretransferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

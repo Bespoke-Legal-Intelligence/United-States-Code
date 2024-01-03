@@ -48,7 +48,7 @@ For purposes of this chapter—
 
 #### (B) Marker well
 
-&emsp;&emsp;The term "completion location", when used with reference to any marker well, means any subsurface location from which natural gas was produced from such well in commercial quantities after January 1, 1970, and before April 20, 1977.
+&emsp;&emsp;The term "completion location", when used with reference to any marker well,means any subsurface location from which natural gas was produced from such well in commercial quantities after January 1, 1970, and before April 20, 1977.
 
 #### (8) Proration unit
 
@@ -82,7 +82,7 @@ For purposes of this chapter—
 
 #### (14) Successor to an existing contract
 
-&emsp;The term "successor to an existing contract" means any contract, other than a rollover contract, entered into on or after November 9, 1978, for the first sale of natural gaswhich was previously subject to an existing contract, whether or not there is an identity of parties or terms with those of such existing contract.
+&emsp;The term "successor to an existing contract" means any contract, other than a rollover contract, entered into on or after November 9, 1978, for the first sale of natural gas which was previously subject to an existing contract, whether or not there is an identity of parties or terms with those of such existing contract.
 
 #### (15) Interstate pipeline
 
@@ -120,7 +120,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;&emsp;(IV) to the user by the producer and transported under any certificate, granted pursuant to section 7(c) of the Natural Gas Act \[15 U.S.C. 717f(c)\], if such certificate was specifically granted for the transportation of that natural gas for such user;
 
-&emsp;&emsp;&emsp;(ii) natural gas for which abandonment of service was granted before November 9, 1978, under section 7 of the Natural Gas Act \[15 U.S.C. 717f\]; and
+&emsp;&emsp;&emsp;(ii) natural gas for which abandonment of service was granted before November 9,1978, under section 7 of the Natural Gas Act \[15 U.S.C. 717f\]; and
 
 &emsp;&emsp;&emsp;(iii) natural gas which, but for this clause, would be committed or dedicated to interstate commerce under subparagraph (A)(ii) by reason of the action of any person (including any successor in interest thereof, other than by means of any reversion of a leasehold interest), if on May 31, 1978—
 
@@ -158,7 +158,7 @@ For purposes of this chapter—
 
 #### (22) Deliver
 
-&emsp;The term "deliver", when used with respect to any first sale of natural gas, means the physical delivery from the seller; except that in the case of the sale of proven reserves inplace to any interstate pipeline, any intrastate pipeline, any local distribution company, or any user of such natural gas, such term means the transfer of title to such reserves.
+&emsp;The term "deliver", when used with respect to any first sale of natural gas, means the physical delivery from the seller; except that in the case of the sale of proven reserves in place to any interstate pipeline, any intrastate pipeline, any local distribution company, or any user of such natural gas, such term means the transfer of title to such reserves.
 
 #### (23) Certificate
 
@@ -214,7 +214,7 @@ For purposes of this chapter—
 
 #### (36) Prudhoe Bay Unit of Alaska
 
-&emsp;The term "Prudhoe Bay Unit of Alaska" means the geographic area subject to the voluntary unit agreement approved by the Commissioner of the Department of Natural Resources of the State of Alaska on June 2, 1977, and referred to as the "affected area" in Conservation Order No. 145 of the Alaska Oil and Gas Conservation Committee, Division of Oil and Gas Conservation, Department of Natural Resources of the State of Alaska, as such order was in effect on June 1, 1977, and determined without regard to any adjustments in the description of the affected area permitted to be made under such order.
+&emsp;The term "Prudhoe Bay Unit of Alaska" means the geographic area subject to the voluntary unit agreement approved by the Commissioner of the Department of Natural Resources of the State of Alaska on June 2, 1977,and referred to as the "affected area" in Conservation Order No. 145 of the Alaska Oil and Gas Conservation Committee, Division of Oil and Gas Conservation, Department of Natural Resources of the State of Alaska, as such order was in effect on June 1, 1977, and determined without regard to any adjustments in the description of the affected area permitted to be made under such order.
 
 #### (37) Antitrust laws
 
@@ -246,5 +246,5 @@ Pub. L. 101–60, §1, July 26, 1989, 103 Stat. 157, provided that: "This Act \[
 
 #### Short Title
 
-Pub. L. 95–621, §1, Nov. 9, 1978, 92 Stat. 3351, provided that: "This Act \[enacting this chapter and amendingsection 7255 of Title 42, The Public Health and Welfare\] may be cited as the 'Natural Gas Policy Act of 1978'."
+Pub. L. 95–621, §1, Nov. 9, 1978, 92 Stat. 3351, provided that: "This Act \[enacting this chapter and amending section 7255 of Title 42, The Public Health and Welfare\] may be cited as the 'Natural Gas Policy Act of 1978'."
 

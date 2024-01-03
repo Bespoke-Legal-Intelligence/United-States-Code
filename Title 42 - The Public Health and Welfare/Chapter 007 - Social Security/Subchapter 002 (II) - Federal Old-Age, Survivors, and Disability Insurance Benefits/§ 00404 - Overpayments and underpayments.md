@@ -16,7 +16,7 @@
 
 > &emsp;until section 402(x)(1) of this title no longer applies, or would no longer apply in the case of benefits that have terminated.
 
-&emsp;(iii) Nothing in clause (ii) shall be construed to limit the Commissioner's authority towithhold amounts, make adjustments, or recover amounts due under this subchapter, subchapter VIII or subchapter XVI that would be deducted from a payment that would otherwise be payable to such person but for such clause.
+&emsp;(iii) Nothing in clause (ii) shall be construed to limit the Commissioner's authority to withhold amounts, make adjustments, or recover amounts due under this subchapter, subchapter VIII or subchapter XVI that would be deducted from a payment that would otherwise be payable to such person but for such clause.
 
 (2) Notwithstanding any other provision of this section, when any payment of more than the correct amount is made to or on behalf of an individual who has died, and such payment—
 
@@ -38,7 +38,7 @@
 
 (2) In making for purposes of this subsection any determination of whether any individual is without fault, the Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).
 
-(3)(A) In making for purposes of this subsection any determination of whether such adjustment or recovery would defeat the purpose of this subchapter, the Commissioner of Social Security shall require an individual to provide authorization for the Commissioner to obtain (subject to the cost reimbursement requirements of section 1115(a) of the Right to Financial Privacy Act \[12 U.S.C. 3415\]) from any financial institution (within the meaning of section 1101(1) of such Act \[12 U.S.C. 3401(1)\]) any financial record (within the meaning of section 1101(2) of such Act \[12 U.S.C. 3401(2)\]) held by the institution with respect to such individual whenever the Commissioner determines the record is needed in connection with a determination with respect to such adjustment or recovery.
+(3)(A) In making for purposes of this subsection any determination of whether such adjustment or recovery would defeat the purpose of this subchapter, the Commissioner of Social Security shall require an individual to provide authorization for the Commissioner to obtain\(subject to the cost reimbursement requirements of section 1115(a) of the Right to Financial Privacy Act \[12 U.S.C. 3415\]) from any financial institution (within the meaning of section 1101(1) of such Act \[12 U.S.C. 3401(1)\]) any financial record (within the meaning of section 1101(2) of such Act \[12 U.S.C. 3401(2)\]) held by the institution with respect to such individual whenever the Commissioner determines the record is needed in connection with a determination with respect to such adjustment or recovery.
 
 (B) Notwithstanding section 1104(a)(1) of the Right to Financial Privacy Act \[12 U.S.C. 3404(a)(1)\], an authorization provided by an individual pursuant this paragraph shall remain effective until the earlier of—
 

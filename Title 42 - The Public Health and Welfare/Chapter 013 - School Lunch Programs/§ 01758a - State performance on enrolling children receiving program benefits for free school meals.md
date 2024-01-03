@@ -16,7 +16,7 @@ The assessment of the Secretary of the performance of each State shall include�
 
 #### (c) Performance innovations
 
-The report of the Secretary shall describe best practices from States with the best performance or the most improved performance from the previous year.
+The report of the Secretary shall describe best practices from States with the best performanceor the most improved performance from the previous year.
 
 (Pub. L. 110–234, title IV, §4301, May 22, 2008, 122 Stat. 1125; Pub. L. 110–246, §4(a), title IV, §4301, June 18, 2008, 122 Stat. 1664, 1886.)
 
@@ -35,6 +35,10 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Richard B. Russell National School Lunch Act which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date
 

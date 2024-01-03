@@ -20,7 +20,7 @@
 
 #### (B) Grants to tribes
 
-&emsp;&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year and not reserved under subparagraph (A)(i), not less than 10 percent shall be used to carry out section 10409 of this title.
+&emsp;&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year and not reservedunder subparagraph (A)(i), not less than 10 percent shall be used to carry out section 10409 of this title.
 
 #### (C) Technical assistance and training centers
 

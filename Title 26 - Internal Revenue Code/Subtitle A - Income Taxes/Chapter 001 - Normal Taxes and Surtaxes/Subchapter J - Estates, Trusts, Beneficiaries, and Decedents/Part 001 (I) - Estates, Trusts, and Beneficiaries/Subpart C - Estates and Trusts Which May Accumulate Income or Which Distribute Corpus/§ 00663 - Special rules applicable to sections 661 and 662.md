@@ -6,7 +6,7 @@ There shall not be included as amounts falling within section 661(a) or 662(a)â€
 
 #### (1) Gifts, bequests, etc.
 
-&emsp;Any amount which, under the terms of the governing instrument, is properly paid or credited as a gift or bequest of a specific sum of money or of specific property and which is paid or credited all at once or in not more than 3 installments. For this purpose an amount which can be paid or credited only from the income of the estate or trust shall not be considered as a gift or bequest of a specific sum of money.
+&emsp;Any amount which, under the terms of the governing instrument, is properly paid orcredited as a gift or bequest of a specific sum of money or of specific property and which is paid or credited all at once or in not more than 3 installments. For this purpose an amount which can be paid or credited only from the income of the estate or trust shall not be considered as a gift or bequest of a specific sum of money.
 
 #### (2) Charitable, etc., distributions
 

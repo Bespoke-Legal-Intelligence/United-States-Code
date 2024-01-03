@@ -142,7 +142,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, §22(h); added Apr. 11, 1943, ch. 52, §3,
 
 Sept. 24, 1917, ch. 56, 40 Stat. 288, §22(j); added July 1, 1973, Pub. L. 93–53, §3(a), 87 Stat. 135.
 
-In subsection (a), the words "through the United States Postal Service or otherwise" and "Treasury" before "savings" are omitted as surplus. The words "and may buy, redeem, and make refunds under section 3111 of this title" are added because of the restatement. The words "for expenditures authorized by law" are substituted for "to meet any public expenditures authorized by law, and to retire any outstanding obligations of the United States bearing interest or issued on a discount basis" for clarity and because they are inclusive. The word "combination" is omitted as surplus.
+In subsection (a), the words "through the United States Postal Service or otherwise" and "Treasury" before "savings" are omitted as surplus. The words "and may buy, redeem, and make refunds under section 3111 of this title" are added because of the restatement. The words "for expenditures authorized by law" are substituted for "to meet any public expenditures authorized by law, and to retire any outstanding obligationsof the United States bearing interest or issued on a discount basis" for clarity and because they are inclusive. The word "combination" is omitted as surplus.
 
 In subsection (b)(1), the words "Except as provided in paragraph (2) of this subsection" are added for clarity. The word "conditions" is substituted for "terms" for consistency in the revised title and with other titles of the United States Code. The word "calendar" is omitted as surplus. The words "(or, beginning on October 1, 1976, if later)" are omitted as executed.
 
@@ -150,7 +150,7 @@ In subsection (b)(3), the words "at their option" and "upon them" are omitted as
 
 In subsection (c), before clause (1), the words "subject to the limitation imposed by section 757b of this title" are omitted as surplus. The words "issued under this section" are added for clarity. In clause (3), the words "terms and" are omitted as surplus. The words "consistent with subsections (b) to (d) of this section" are omitted as unnecessary because of the restatement. In clause (4), the words "before maturity" are omitted as surplus. In clause (6), the words "a way to evidence payments for" are substituted for "issue, or cause to be issued, stamps, or may provide any other means to evidence payments for" because they are inclusive. The text of 31:757c(c)(last sentence) is omitted because section 5 of the Public Debt Act of 1942 (ch. 205, 56 Stat. 189), ended the authority of the Postmaster General to issue stamps. In clause (7), the word "maximum" is added for clarity. The words "at any one time" are omitted as surplus.
 
-In subsection (d), before clause (1), the words "under such regulations as he may prescribe", "or permit", and "commercial banks, trust companies, savings banks, savings and loan associations, building and loan associations (including cooperative banks), creditunions, cash depositories, industrial banks, and similar" are omitted as surplus. In clause (1), the words "Commonwealth of the Philippine Islands" in section 22(h) of the Second Liberty Bond Act (ch. 56, 40 Stat. 288) are omitted because of Proclamation No. 2695 (July 24, 1946, 60 Stat. 1352) proclaiming the independence of the Philippines. In clause (3), the words "department or equivalent" are omitted as surplus. In clause (5), the word "duly" is omitted as surplus.
+In subsection (d), before clause (1), the words "under such regulations as he may prescribe", "or permit", and "commercial banks, trust companies, savings banks, savings and loan associations, building and loan associations (including cooperative banks), credit unions, cash depositories, industrial banks, and similar" are omitted as surplus. In clause (1), the words "Commonwealth of the Philippine Islands" in section 22(h) of the Second Liberty Bond Act (ch. 56, 40 Stat. 288) are omitted because of Proclamation No. 2695 (July 24, 1946, 60 Stat. 1352) proclaiming the independence of the Philippines. In clause (3), the words "department or equivalent" are omitted as surplus. In clause (5), the word "duly" is omitted as surplus.
 
 In subsection (e)(1), the words "by regulations" are omitted as unnecessary. The words "a way" are added, and the words "However, a check may become a bond" are substituted for "This subsection shall apply", for clarity.
 
@@ -232,7 +232,7 @@ Pub. L. 103–465, title VII, §745(b), Dec. 8, 1994, 108 Stat. 5011, provided t
 
 #### Transitional Rule
 
-Pub. L. 97–248, title II, §289(b), Sept. 3, 1982, 96 Stat. 57, provided that for a savings bond issued before the 30th day after Sept. 3, 1982, for purposes of sections 757c and 757c–2 of former Title 31, the minimum yield for the period held is the scheduled investment yield for the period in effect on the 30th day.
+Pub. L. 97–248, title II, §289(b), Sept. 3, 1982, 96 Stat. 57, provided that for a savings bond issued before the 30th day after Sept. 3, 1982, for purposes of sections 757c and 757c–2 of former Title 31, the minimum yield for theperiod held is the scheduled investment yield for the period in effect on the 30th day.
 
 #### <b>Executive Documents</b>
 

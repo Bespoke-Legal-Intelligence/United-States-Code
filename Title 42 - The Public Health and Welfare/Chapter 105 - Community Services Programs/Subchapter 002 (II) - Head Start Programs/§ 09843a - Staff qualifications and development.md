@@ -88,7 +88,7 @@
 
 &emsp;&emsp;&emsp;(ii) an associate degree in a related field and coursework equivalent to a major relating to early childhood education, with experience teaching preschool-age children; or
 
-&emsp;&emsp;&emsp;(iii) a baccalaureate degree and has been admitted into the Teach For America program, passed a rigorous early childhood content exam, such as the Praxis II, participated in a Teach For America summer training institute that includes teaching preschool children, and is receiving ongoing professional development and support from Teach For America's professional staff.
+&emsp;&emsp;&emsp;(iii) a baccalaureate degree and has been admitted into the Teach For America program, passed a rigorous early childhoodcontent exam, such as the Praxis II, participated in a Teach For America summer training institute that includes teaching preschool children, and is receiving ongoing professional development and support from Teach For America's professional staff.
 
 #### (4) Waiver
 
@@ -236,7 +236,7 @@ Before a Head Start agency employs an individual, such agency shall—
 
 &emsp;&emsp;(C) a criminal record check as otherwise required by Federal law.
 
-(Pub. L. 97–35, title VI, §648A, as added Pub. L. 103–252, title I, §115, May 18, 1994, 108 Stat. 643; amended Pub. L. 105–285, title I, §115, Oct. 27, 1998, 112 Stat. 2722; Pub. L. 110–134, §19, Dec. 12, 2007, 121 Stat. 1430.)
+(Pub. L. 97–35, title VI, §648A, as added Pub. L. 103–252, title I, §115, May 18, 1994, 108 Stat. 643; amended Pub. L. 105–285, title I, §115, Oct. 27,1998, 112 Stat. 2722; Pub. L. 110–134, §19, Dec. 12, 2007, 121 Stat. 1430.)
 
 #### <b>Editorial Notes</b>
 
@@ -263,6 +263,10 @@ Subsecs. (f), (g). Pub. L. 110–134, §19(4), added subsecs. (f) and (g).
 Subsec. (b)(2)(B). Pub. L. 105–285, §115(2), substituted "staff or that are" for "staff, that are" and struck out ", or that lack staff of a similar cultural background to that of the participating children and their families" before semicolon.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date
 

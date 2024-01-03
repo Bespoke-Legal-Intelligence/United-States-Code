@@ -6,7 +6,7 @@ Annual Payment.—Subject to the availability of appropriations for such purpose
 
 (b)
 
-Certification Required for Payment.—As a condition of receiving payment under this section for a fiscal year for a vessel, the program participant shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53405(a) of this title for at least 320 days during the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
+Certification Required for Payment.—As a condition of receiving payment under this section for a fiscal year for a vessel, the program participant shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53405(a) of this title for at least 320 days during the fiscal year. Days during which thevessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 
 (c)
 

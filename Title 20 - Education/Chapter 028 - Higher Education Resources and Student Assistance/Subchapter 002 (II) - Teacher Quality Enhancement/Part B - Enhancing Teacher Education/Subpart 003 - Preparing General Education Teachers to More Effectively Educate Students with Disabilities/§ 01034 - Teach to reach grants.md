@@ -26,7 +26,7 @@ In this section, the term "eligible partnership" means a partnership that—
 
 &emsp;&emsp;&emsp;(ii) that have a program of study that leads to an undergraduate degree, a master's degree, or completion of a postbaccalaureate program required for teacher certification; and
 
-&emsp;&emsp;&emsp;(iii) the graduates of which meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title;
+&emsp;&emsp;&emsp;(iii) the graduates of which meet the applicable State certification and licensurerequirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title;
 
 &emsp;&emsp;(B) a department or program of special education at an institution of higher education;
 
@@ -100,7 +100,7 @@ The Secretary shall convene a peer review committee to review applications for g
 
 A prior section 1034, Pub. L. 89–329, title II, §224, as added Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 470, required Secretary to consult with appropriate library and information science professional bodies in determining critical needs and priorities under former sections 1032 and 1033 of this title, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
-Another prior section 1034, Pub. L. 89–329, title II, §224, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1385, authorized special purpose grants, prior to repeal by Pub. L. 99–498, title II, §204(a), Oct. 17, 1986, 100 Stat. 1289.
+Another prior section 1034, Pub. L. 89–329, title II, §224, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980,94 Stat. 1385, authorized special purpose grants, prior to repeal by Pub. L. 99–498, title II, §204(a), Oct. 17, 1986, 100 Stat. 1289.
 
 Another prior section 1034, Pub. L. 89–329, title II, §223, formerly §224, Nov. 8, 1965, 79 Stat. 1228, Pub. L. 91–230, title IV, §401(h)(4), Apr. 13, 1970, 84 Stat. 174, and renumbered Pub. L. 92–318, title I, §111(b)(3)(D), June 23, 1972, 86 Stat. 240, related to grants for research and demonstration projects, prior to the general amendment of this subchapter by Pub. L. 96–374.
 

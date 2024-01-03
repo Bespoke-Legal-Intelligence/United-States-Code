@@ -18,7 +18,7 @@ Establishment; Membership.—There is established the Railroad-Shipper Transport
 
 &emsp;&emsp;(B) 3 shall be representative of large shipper organizations (as determined by the Chairman).
 
-&emsp;(4) The Secretary of Transportation and the members of the Board shall serve as ex officio,nonvoting members of the Council. The Council shall not be subject to chapter 10 of title 5. A list of the members appointed to the Council shall be forwarded to the Chairmen and ranking members of the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+&emsp;(4) The Secretary of Transportation and the members of the Board shall serve as ex officio, nonvoting members of the Council. The Council shall not be subject to chapter 10 of title 5. A list of the members appointed to the Council shall be forwarded to the Chairmen and ranking members of the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 &emsp;(5) Each ex officio member of the Council may designate an alternate, who shall serve as a member of the Council whenever the ex officio member is unable to attend a meeting of the Council. Any such designated alternate shall be selected from individuals who exercise significant decision-making authority in the Federal agency involved.
 

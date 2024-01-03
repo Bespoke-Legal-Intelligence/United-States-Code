@@ -50,11 +50,11 @@ In this chapter:
 
 &emsp;&emsp;(A) carried out a contract or compact under title I or IV of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.) for a period of not less than 3 consecutive years ending on the date on which the Indian tribe submits the application without material audit exception (or without any material audit exceptions that were not corrected within the 3-year period) relating to the management of tribal land or natural resources; or
 
-&emsp;&emsp;(B) substantial experience in the administration, review, or evaluation of energy resource leases or agreements or has otherwise substantially participated in the administration, management, or development of energyresources located on the tribal land of the Indian tribe.
+&emsp;&emsp;(B) substantial experience in the administration, review, or evaluation of energy resource leases or agreements or has otherwise substantially participated in the administration, management, or development of energy resources located on the tribal land of the Indian tribe.
 
 &emsp;(10) The term "Secretary" means the Secretary of the Interior.
 
-&emsp;(11) The term "sequestration" means the long-term separation, isolation, or removal of greenhouse gases from the atmosphere, including through a biological or geologic method such as reforestation or an underground reservoir.
+&emsp;(11) The term "sequestration" means the long-term separation, isolation, or removal ofgreenhouse gases from the atmosphere, including through a biological or geologic method such as reforestation or an underground reservoir.
 
 &emsp;(12) The term "tribal energy development organization" means—
 

@@ -24,7 +24,7 @@ Whenever more than one of the pursuits or occupations described in this subchapt
 
 #### (d) Death or change of location
 
-Certain persons, other than the person who has paid the special tax under this subchapter for the carrying on of any business at any place, may secure the right to carry on, without incurring additional special tax, the same business at the same place for the remainder of the taxable period for which the special tax was paid. The persons who may secure such right are:
+Certain persons, other than the person who has paid the special tax under this subchapterfor the carrying on of any business at any place, may secure the right to carry on, without incurring additional special tax, the same business at the same place for the remainder of the taxable period for which the special tax was paid. The persons who may secure such right are:
 
 &emsp;(1) the surviving spouse or child, or executor or administrator or other legal representative, of a deceased taxpayer;
 

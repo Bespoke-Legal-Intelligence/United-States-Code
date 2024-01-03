@@ -32,7 +32,7 @@ Subject to the availability of appropriations, the Attorney General shall award 
 
 #### (1) In general
 
-&emsp;To request a grant under this section, an eligible entity shall submit an application to theAttorney General not later than 90 days after the date on which funds to carry out this section are appropriated for fiscal year 2022 in such form as the Attorney General may require.
+&emsp;To request a grant under this section, an eligible entity shall submit an application to the Attorney General not later than 90 days after the date on which funds to carry out this section are appropriated for fiscal year 2022 in such form as the Attorney General may require.
 
 #### (2) Contents
 

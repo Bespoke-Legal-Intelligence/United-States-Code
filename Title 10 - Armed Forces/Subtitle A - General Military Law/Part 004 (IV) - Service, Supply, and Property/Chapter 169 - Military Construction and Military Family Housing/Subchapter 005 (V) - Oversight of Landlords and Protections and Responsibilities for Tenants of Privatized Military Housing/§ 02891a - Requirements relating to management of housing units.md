@@ -48,7 +48,7 @@ Requirements for Landlords.—(1) The landlord providing a housing unit shall di
 
 &emsp;(B) if the prospective tenant is not able to be present for the inspection, with an official of the housing management office designated by the prospective tenant to conduct the inspection on the tenant's behalf.
 
-(4) In the event that the installation housing management office determines that a housing unit does not meet minimum health, safety, and welfare standards set forth in Federal, State, and local law as a result of a walkthrough inspection or an inspection conducted under subsection (c), the landlord providing the housing unit shall remediate any issues and make any appropriate repairs to the satisfaction of the housing management office and subject to another inspection by the housing management office.
+(4) In the event that the installation housing management office determines that a housing unit does not meet minimum health, safety, andwelfare standards set forth in Federal, State, and local law as a result of a walkthrough inspection or an inspection conducted under subsection (c), the landlord providing the housing unit shall remediate any issues and make any appropriate repairs to the satisfaction of the housing management office and subject to another inspection by the housing management office.
 
 (5) A landlord providing a housing unit may not conduct any promotional events to encourage tenants to fill out maintenance comment cards or satisfaction surveys of any kind, without the approval of the chief of the housing management office.
 
@@ -108,7 +108,7 @@ Prohibition Against Collection of Amounts in Addition to Rent.—(1) A landlord 
 
 (B) In subparagraph (A), the term "disability" has the meaning given that term in section 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102).
 
-(Added Pub. L. 116–92, div. B, title XXX, §3014(a), Dec. 20, 2019, 133 Stat. 1924; amended Pub. L. 116–283, div. B, title XXVIII, §2811(d), Jan. 1, 2021, 134 Stat. 4324; Pub. L. 117–81, div. A, title X, §1081(a)(31), div. B, title XXVIII, §2813(b)(1), Dec. 27, 2021, 135 Stat. 1921, 2192; Pub. L. 117–263, div. B, title XXVIII, §2824, Dec. 23, 2022, 136 Stat. 3001.)
+(Added Pub. L. 116–92, div. B, title XXX, §3014(a), Dec. 20, 2019, 133 Stat. 1924; amended Pub. L.116–283, div. B, title XXVIII, §2811(d), Jan. 1, 2021, 134 Stat. 4324; Pub. L. 117–81, div. A, title X, §1081(a)(31), div. B, title XXVIII, §2813(b)(1), Dec. 27, 2021, 135 Stat. 1921, 2192; Pub. L. 117–263, div. B, title XXVIII, §2824, Dec. 23, 2022, 136 Stat. 3001.)
 
 #### <b>Editorial Notes</b>
 

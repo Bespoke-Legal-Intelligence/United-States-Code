@@ -34,7 +34,7 @@ Rebate Agreements With Food Producers.—(1) In the administration of the progra
 
 (3) The period covered by a contract entered into under this subsection, including any period of extension of the contract by modification of the contract, exercise of an option, or other cause, may not exceed three years. No such contract may be extended by a modification of the contract, by exercise of an option, or by any other means. Nothing in this paragraph prohibits a contractor under a contract entered into under this subsection for any year from submitting an offer for, and being awarded, a contract that is to be entered into under this subsection for a successive year.
 
-(4) Amounts rebated under a contract entered into under paragraph (1) shall be credited to the appropriation available for carrying out the program under this section in the fiscal year in which rebated, shall be merged with the other sums in that appropriation, and shall be available for the program for the same period as the other sums in the appropriation.
+(4) Amounts rebated under a contract entered into under paragraph (1) shall be credited to theappropriation available for carrying out the program under this section in the fiscal year in which rebated, shall be merged with the other sums in that appropriation, and shall be available for the program for the same period as the other sums in the appropriation.
 
 (f)
 
@@ -68,7 +68,7 @@ Definitions.—In this section:
 
 #### References in Text
 
-Chapter 137 of this title, referred to in subsec. (e)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+Chapter 137 of this title, referred to in subsec. (e)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of "chapter 137 legacy provisions", see section 3016 of this title.
 
 The Immigration and Nationality Act, referred to in subsec. (g)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
@@ -108,7 +108,7 @@ Pub. L. 117–263, div. A, title VI, §645, Dec. 23, 2022, 136 Stat. 2637, provi
 
 "(a)
 
-Data Collection.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], the Under Secretary of Defense for Personnel and Readiness, in coordination with the Under Secretary for Food, Nutrition, and Consumer Services of the Department of Agriculture, shall—
+Data Collection.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], theUnder Secretary of Defense for Personnel and Readiness, in coordination with the Under Secretary for Food, Nutrition, and Consumer Services of the Department of Agriculture, shall—
 
 &emsp;"(1) develop a survey, in collaboration with the Department of Agriculture, to determine how many members of the Armed Forces serving on active duty, and dependents of such members, are food insecure;
 
@@ -134,7 +134,7 @@ Data Collection.—Not later than one year after the date of the enactment of th
 
 "(b)
 
-Report.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], and annually thereafter for the four subsequent years, the Under Secretary of Defense for Personnel \& Readiness shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committees on Agriculture and Education and Labor of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report including the following:
+Report.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], and annually thereafter for the four subsequent years, the Under Secretary of Defense for Personnel \& Readiness shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committees on Agriculture and Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report including the following:
 
 &emsp;"(1) The number of members of the Armed Forces serving on active duty and their dependents who are food insecure.
 

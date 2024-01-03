@@ -20,7 +20,7 @@
 
 #### (3) Fiscal year 2013 and subsequent fiscal years
 
-&emsp;A country shall be a candidate country for purposes of eligibility for assistance for fiscalyear 2013 or a subsequent fiscal year if the country—
+&emsp;A country shall be a candidate country for purposes of eligibility for assistance for fiscal year 2013 or a subsequent fiscal year if the country—
 
 &emsp;&emsp;(A) has a per capita income not greater than the lower middle income country threshold established by the International Bank for Reconstruction and Development for such fiscal year;
 

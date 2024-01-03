@@ -6,7 +6,7 @@ The Commission is authorized to receive, adjudicate according to law, and provid
 
 #### (b) Compensation for loss or damage to real property used in educational, medical, or welfare work
 
-Any such religious organization or its personnel functioning in the Philippines and affiliated with a religious organization in the United States, which furnished relief in the Philippines to members of the Armed Forces of the United States or to civilian American citizens in accordance with the provisions of subsection (a) shall be compensated from the War Claims Fund, as hereinafter provided, for the loss and damage sustained as a consequence of the war to its schools, colleges, universities, scientific observatories, hospitals, dispensaries, orphanages, and other property or facilities connected with its educational, medical, or welfare work.
+Any such religious organization or its personnel functioning in the Philippines and affiliated with a religious organization in the United States, which furnished relief in the Philippines to members of the Armed Forces of the United States or to civilian American citizens in accordance with the provisions of subsection (a) shall be compensated from the War Claims Fund, as hereinafter provided, for the loss and damage sustained as a consequence of the war toits schools, colleges, universities, scientific observatories, hospitals, dispensaries, orphanages, and other property or facilities connected with its educational, medical, or welfare work.
 
 #### (c) Compensation to replace facilities
 
@@ -44,7 +44,7 @@ The Commission shall expedite the payments under this section without reducing p
 
 #### References in Text
 
-The Philippine Rehabilitation Act of 1946, referred to in subsec. (h)(1), is act Apr. 30, 1946, ch. 243, 60 Stat. 128, which was classified to sections 1751 to 1806 of the former Appendix to this title, prior to omission from the Code as terminated. See Termination of Philippine War Damage Commission note below.
+The Philippine Rehabilitation Act of 1946, referred to in subsec. (h)(1), is act Apr. 30, 1946, ch. 243, 60 Stat. 128,which was classified to sections 1751 to 1806 of the former Appendix to this title, prior to omission from the Code as terminated. See Termination of Philippine War Damage Commission note below.
 
 #### Codification
 

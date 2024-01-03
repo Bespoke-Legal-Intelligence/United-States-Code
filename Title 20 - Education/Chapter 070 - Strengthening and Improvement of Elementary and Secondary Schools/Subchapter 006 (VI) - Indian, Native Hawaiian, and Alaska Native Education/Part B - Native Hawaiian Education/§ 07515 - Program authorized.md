@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(iii) the recruitment and preparation of Native Hawaiians, and other individuals who live in communities with a high concentration of Native Hawaiians, to become teachers;
 
-&emsp;&emsp;(H) the operation of community-based learning centers that address the needs of Native Hawaiian students, parents, families, and communities through the coordination of public and private programs and services, including—
+&emsp;&emsp;(H) the operation of community-based learning centers that address the needs of Native Hawaiian students, parents, families,and communities through the coordination of public and private programs and services, including—
 
 &emsp;&emsp;&emsp;(i) early childhood education programs;
 
@@ -116,7 +116,7 @@ Not more than 5 percent of funds provided to a recipient of a grant or contract 
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a)(3)(D)(iii), is title VI of Pub. L.91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a)(3)(D)(iii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Prior Provisions
 

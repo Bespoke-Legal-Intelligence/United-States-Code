@@ -10,7 +10,7 @@ The United States reaffirms the commitment made in its 1959 bilateral agreement 
 
 #### (c) Availability; defensive aspects of assistance
 
-Security assistance for Pakistan shall be made available in order to assist Pakistan in dealingwith the threat to its security posed by the Soviet presence in Afghanistan. The United States will take appropriate steps to ensure that defense articles provided by the United States to Pakistan are used for defensive purposes.
+Security assistance for Pakistan shall be made available in order to assist Pakistan in dealing with the threat to its security posed by the Soviet presence in Afghanistan. The United States will take appropriate steps to ensure that defense articles provided by the United States to Pakistan are used for defensive purposes.
 
 #### (d) Waiver of limitations respecting nuclear transfers
 
@@ -88,7 +88,7 @@ Pub. L. 102–266 added Pub. L. 102–145, §118. See 1991 Amendment note below.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
+Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set outas an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1985 Amendment
 
@@ -150,7 +150,7 @@ Statements of Policy.—The following shall be the policy of the United States:
 
 &emsp;"(3) To support robust funding for programs of the United States Agency for International Development and the Department of State that assist the Government of Pakistan in working toward the goals described in subsection (a)(4), as the Government of Pakistan demonstrates a clear commitment to building a moderate, democratic state.
 
-&emsp;"(4) To work with the international community to secure additional financial and political support toeffectively implement the policies set forth in this subsection.
+&emsp;"(4) To work with the international community to secure additional financial and political support to effectively implement the policies set forth in this subsection.
 
 &emsp;"(5) To facilitate a just resolution of the dispute over the territory of Kashmir, to the extent that such facilitation is invited and welcomed by the Governments of Pakistan and India and by the people of Kashmir.
 
@@ -186,7 +186,7 @@ Limitation.—For fiscal year 2008, United States assistance under chapter 2 of 
 
 &emsp;"(2)
 
-Memorandum of justification.—The President shall include in the report required by paragraph (1) a memorandum of justification setting forth the basis for the President's determination under paragraph (1).
+Memorandum of justification.—The President shall include in the report required by paragraph (1)a memorandum of justification setting forth the basis for the President's determination under paragraph (1).
 
 &emsp;"(3)
 

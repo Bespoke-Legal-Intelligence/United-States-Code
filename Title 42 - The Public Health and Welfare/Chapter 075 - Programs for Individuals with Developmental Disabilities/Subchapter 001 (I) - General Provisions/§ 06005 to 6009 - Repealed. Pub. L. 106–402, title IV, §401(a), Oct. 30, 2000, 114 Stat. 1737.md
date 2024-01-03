@@ -8,7 +8,7 @@ Section 6006, Pub. L. 88–164, title I, §107, as added Pub. L. 98–527, §2, 
 
 A prior section 6006, Pub. L. 88–164, title I, §107, as added Pub. L. 94–103, title I, §125, Oct. 4, 1975, 89 Stat. 499, related to recovery of expenditures under certain conditions and liens, prior to the general amendment of this chapter by Pub. L. 98–527.
 
-Section 6007, Pub. L. 88–164, title I, §108, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2669; amendedPub. L. 101–496, §7, Oct. 31, 1990, 104 Stat. 1195; Pub. L. 103–230, title I, §109, Apr. 6, 1994, 108 Stat. 296, related to responsibilities of the Secretary.
+Section 6007, Pub. L. 88–164, title I, §108, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2669; amended Pub. L. 101–496, §7, Oct. 31, 1990, 104 Stat. 1195; Pub. L. 103–230, title I, §109, Apr. 6, 1994, 108 Stat. 296, related to responsibilities of the Secretary.
 
 A prior section 6007, Pub. L. 88–164, title I, §108, formerly §133, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1318, and renumbered and amended Pub. L. 94–103, title I, §126(a), Oct. 4, 1975, 89 Stat. 499, established National Advisory Council on Services and Facilities for Developmentally Disabled and provided for membership, terms of office, compensation and traveling expenses, and duties and functions, prior to repeal by Pub. L. 95–602, title V, §504(a), Nov. 6, 1978, 92 Stat. 3006.
 

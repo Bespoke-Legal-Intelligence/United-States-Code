@@ -154,7 +154,7 @@ Procedural safeguards.—The Administrator, in consultation with the Office of t
 
 &emsp;(4)
 
-Project approval required.—The Administrator may not award a grant under thissection unless the Administrator determines that—
+Project approval required.—The Administrator may not award a grant under this section unless the Administrator determines that—
 
 &emsp;&emsp;(A) sufficient funding is available to meet the matching requirements of subsection (e);
 

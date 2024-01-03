@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The Secretary of Energy shall prescribe and make effective a rule which provides that, notwithstanding any other provision of law (other than subsection (b)) and to the maximum extent practicable, no interstate pipeline may curtail deliveries of natural gas for any essential industrial process or feedstock use, unless such curtailment—
+The Secretary of Energy shall prescribe and make effective a rule which provides that, notwithstanding any other provision of law (otherthan subsection (b)) and to the maximum extent practicable, no interstate pipeline may curtail deliveries of natural gas for any essential industrial process or feedstock use, unless such curtailment—
 
 &emsp;(1) does not reduce the quantity of natural gas delivered for such use below the use requirement specified in subsection (c);
 

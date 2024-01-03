@@ -10,7 +10,7 @@
 
 #### Codification
 
-Subsection (b), which required the Secretary of Agriculture to submit an annual report to Congress ontrends in family farm operations and comprehensive national and State-by-State data on nonfamily farm operations in the United States, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 44 of House Document No. 103–7.
+Subsection (b), which required the Secretary of Agriculture to submit an annual report to Congress on trends in family farm operations and comprehensive national and State-by-State data on nonfamily farm operations in the United States, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 44 of House Document No. 103–7.
 
 #### Amendments
 

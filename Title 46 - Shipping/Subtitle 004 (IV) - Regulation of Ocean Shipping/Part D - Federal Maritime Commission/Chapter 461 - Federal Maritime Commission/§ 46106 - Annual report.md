@@ -28,7 +28,7 @@ Report on Foreign Laws and Practices.—The Commission shall include in its annu
 
 &emsp;&emsp;&emsp;(i) identified as a nonmarket economy country (as defined in section 771(18) of the Tariff Act of 1930 (19 U.S.C. 1677(18))) as of the date of enactment of this paragraph;
 
-&emsp;&emsp;&emsp;(ii) identified by the United States Trade Representative in the most recent report required by section 182 of the Trade Act of 1974 (19 U.S.C. 2242) as a priority foreigncountry under subsection (a)(2) of that section; or
+&emsp;&emsp;&emsp;(ii) identified by the United States Trade Representative in the most recent report required by section 182 of the Trade Act of 1974 (19 U.S.C. 2242) as a priority foreign country under subsection (a)(2) of that section; or
 
 &emsp;&emsp;&emsp;(iii) subject to monitoring by the United States Trade Representative under section 306 of the Trade Act of 1974 (19 U.S.C. 2416).
 

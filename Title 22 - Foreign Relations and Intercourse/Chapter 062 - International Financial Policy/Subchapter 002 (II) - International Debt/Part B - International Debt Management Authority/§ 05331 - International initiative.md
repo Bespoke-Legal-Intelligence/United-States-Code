@@ -32,7 +32,7 @@ In any discussions initiated under subsection (a), the Secretary should include 
 
 &emsp;(2) That support for such an authority should come from industrialized countries, and that greater support should be expected from countries with strong current account surpluses.
 
-&emsp;(3) That such an authority should have a clearly defined close working relationship with the International Monetary Fund and the International Bank for Reconstruction andDevelopment and the various regional development banks.
+&emsp;(3) That such an authority should have a clearly defined close working relationship with the International Monetary Fund and the International Bank for Reconstruction and Development and the various regional development banks.
 
 &emsp;(4) That such an authority should be designed to operate as a self-supporting entity, requiring no routine appropriation of resources from any member government, and to function subject to the prohibitions contained in the first sentence of section 5332(a) of this title.
 

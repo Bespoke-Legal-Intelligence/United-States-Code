@@ -12,7 +12,7 @@ Subject to the availability of funds appropriated under the authority of subsect
 
 (1) The scholarship assistance provided under subsection (a) of this section shall be provided under the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254l of this title, provided that—
 
-&emsp;(A) the provision of scholarships in each type of health care profession training shall correspond to the need for each type of health care professional identified in the Native Hawaiian comprehensive health care master plan implemented under section 11703 of this title to serve the Native Hawaiian health care systems, as identified by Papa Ola Lokahi;
+&emsp;(A) the provision of scholarships in each type of health care profession training shallcorrespond to the need for each type of health care professional identified in the Native Hawaiian comprehensive health care master plan implemented under section 11703 of this title to serve the Native Hawaiian health care systems, as identified by Papa Ola Lokahi;
 
 &emsp;(B) the primary health services covered under the scholarship assistance program under this section shall be the services included under the definition of that term under section 11711(8) of this title;
 
@@ -52,7 +52,7 @@ There are authorized to be appropriated such sums as may be necessary for fiscal
 
 Amendment by Pub. L. 111–148 is based on section 202(a) of title II of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-Section enacted by section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, which was enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on "September 12, 1992", has beentreated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
+Section enacted by section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, which was enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on "September 12, 1992", has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

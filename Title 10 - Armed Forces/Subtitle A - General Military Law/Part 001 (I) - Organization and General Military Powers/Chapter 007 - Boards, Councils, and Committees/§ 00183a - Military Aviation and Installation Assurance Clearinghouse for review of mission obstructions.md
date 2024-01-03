@@ -12,37 +12,37 @@ Establishment.—(1) The Secretary of Defense shall establish a Military Aviatio
 
 (b)
 
-Functions.—(1) The Clearinghouse shall coordinate Department of Defense review of applications for energy projects filed with the Secretary of Transportation pursuant to section 44718 of title 49 and received by the Department of Defense from the Secretary of Transportation. In performing such coordination, the Clearinghouse shall provide procedures to ensure affected local military installations are consulted.
+Functions.—(1) The Clearinghouse shall coordinate Department of Defense review of applications for energy projects or antenna structure projects filed with the Secretary of Transportation pursuant to section 44718 of title 49 and received by the Department of Defense from the Secretary of Transportation. In performing such coordination, the Clearinghouse shall provide procedures to ensure affected local military installations are consulted.
 
-(2) The Clearinghouse shall accelerate the development of planning tools necessary to determine the acceptability to the Department of Defense of proposals included in an application for an energy project submitted pursuant to such section.
+(2) The Clearinghouse shall accelerate the development of planning tools necessary to determine the acceptability to the Department of Defense of proposals included in an application for an energy project or antenna structure project submitted pursuant to such section.
 
 (3) The Clearinghouse shall perform such other functions as the Secretary of Defense assigns.
 
 (c)
 
-Review of Proposed Actions.—(1) Not later than 75 days after receiving from the Secretary of Transportation a proper application for an energy project under section 44718 of title 49 that may have an adverse impact on military operations and readiness, the Clearinghouse shall conduct a preliminary review of such application. The review shall—
+Review of Proposed Actions.—(1) Not later than 75 days after receiving from the Secretary of Transportation a proper application for an energy project or antenna structure project under section 44718 of title 49 that may have an adverse impact on military operations and readiness, the Clearinghouse shall conduct a preliminary review of such application. The review shall—
 
-&emsp;(A) assess the likely scope, duration, and level of risk of any adverse impact of such energy project on military operations and readiness; and
+&emsp;(A) assess the likely scope, duration, and level of risk of any adverse impact of such energy project or antenna structure project on military operations and readiness; and
 
-&emsp;(B) identify any feasible and affordable actions that could be taken by the Department, the developer of such energy project, or others to mitigate the adverse impact and to minimize risks to national security while allowing the energy project to proceed with development.
+&emsp;(B) identify any feasible and affordable actions that could be taken by the Department, the developer of such energy project or antenna structure project, or others to mitigate the adverse impact and to minimize risks to national security while allowing the energy project or antenna structure project to proceed with development.
 
-(2)(A) If the Clearinghouse finds under paragraph (1) that an energy project will have an adverse impact on military operations and readiness, the Clearinghouse shall issue to the applicant a notice of presumed risk that describes the concerns identified by the Department in the preliminary review and requests a discussion of possible mitigation actions.
+(2)(A) If the Clearinghouse finds under paragraph (1) that an energy project or antenna structure project will have an adverse impact on military operations and readiness, the Clearinghouse shall issue to the applicant a notice of presumed risk that describes the concerns identified by the Department in the preliminary review and requests a discussion of possible mitigation actions.
 
-(B) After the Clearinghouse issues a notice under subparagraph (A) with respect to an energy project, the parties should seek to identify feasible and affordable actions that can be taken by the Department, the developer of such energy project, or others to mitigate any adverse impact on military operations and readiness.
+(B) After the Clearinghouse issues a notice under subparagraph (A) with respect to an energy project or antenna structure project, the parties should seek to identify feasible and affordable actions that can be taken by the Department, the developer of such energy project or antenna structure project, or others to mitigate any adverse impact on military operations and readiness.
 
 (C) A notice of presumed risk issued under subparagraph (A) is a preliminary assessment only and does not represent a formal objection pursuant to subsection (e). Discussions of possible mitigation actions under such subparagraph could favorably resolve any concerns identified in the notice of presumed risk.
 
-(3) At the same time that the Clearinghouse issues to the applicant a notice of presumed risk under paragraph (2), the Clearinghouse shall provide the same notice to the governor of the State in which the project is located and request that the governor provide the Clearinghouse any comments the governor believes of relevance to the application. The Secretary of Defense shall consider the comments of the governor in the Secretary's evaluation of whether the project presents an unacceptable risk to the national security of the United States and shall include the comments with the finding provided to the Secretary of Transportation pursuant to section 44718(f) of title 49.
+(3) At the same time that the Clearinghouse issues to the applicant a notice of presumed risk under paragraph (2), the Clearinghouse shall provide the same notice to the governor of the State in which the project is located and request that the governor provide the Clearinghouse any comments the governor believes of relevance tothe application. The Clearinghouse shall ensure that a governor has at least 30 days after the date on which the governor receives the notice of presumed risk to provide any such comments and shall provide detailed information and other information necessary to ensure that the governor can fully understand the nature of the presumed risk. The Secretary of Defense shall consider the comments of the governor in the Secretary's evaluation of whether the project presents an unacceptable risk to the national security of the United States and shall include the comments with the finding provided to the Secretary of Transportation pursuant to section 44718(f) of title 49.
 
-(4) If, after issuing the notices of presumed risk required by paragraphs (2) and (3), the Secretary of Defense later concludes for any reason that the energy project will not have an adverse impact on military readiness, the Clearinghouse shall notify the applicant and the governor in writing of that conclusion.
+(4) If, after issuing the notices of presumed risk required by paragraphs (2) and (3), the Secretary of Defense later concludes for any reason that the energy project or antenna structure project will not have an adverse impact on military readiness, the Clearinghouse shall notify the applicant and the governor in writing of that conclusion.
 
-(5) The Clearinghouse shall develop, in coordination with other departments and agencies of the Federal Government, an integrated review process to ensure timely notification and consideration of energy projects filed with the Secretary of Transportation pursuant to section 44718 of title 49 that may have an adverse impact on military operations and readiness.
+(5) The Clearinghouse shall develop, in coordination with other departments and agencies of the Federal Government, an integrated review process to ensure timely notification and consideration of energy projects or antenna structure projects filed with the Secretary of Transportation pursuant to section 44718 of title 49 that may have an adverse impact on military operations and readiness.
 
-(6) The Clearinghouse shall establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from another Federal agency, a State government, an Indian tribal government, a local government, a landowner, or the developer of an energy project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response.
+(6) The Clearinghouse shall establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from another Federal agency, a State government, an Indian tribal government, a local government, a landowner, or the developer of an energy project or antenna structure project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response.
 
-(7) The Clearinghouse shall develop procedures for conducting early outreach to parties carrying out energy projects that could have an adverse impact on military operations and readiness and to clearly communicate to such parties actions being taken by the Department of Defense under this section. The procedures shall provide for filing by such parties of a project area and preliminary project layout at least one year before expected construction of any project proposed within a military training route or within line-of-sight of any air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar operated or used by the Department of Defense in order to provide adequate time for analysis and negotiation of mitigation options. Material marked as proprietary or competition sensitive by a party filing for this preliminary review shall be protected from public release by the Department of Defense.
+(7) The Clearinghouse shall develop procedures for conducting early outreach to parties carrying out energy projects or antenna structure projects that could have an adverse impact on military operations and readiness and to clearly communicate to such parties actions being taken by the Department of Defense under this section. The procedures shall provide for filing by such parties of a project area and preliminary project layout at least one year before expected construction of any project proposed within a military training route or within line-of-sight of any air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar operated or used by the Department of Defense in order to provide adequate time for analysis and negotiation of mitigation options. Material marked as proprietary or competition sensitive by a party filing for this preliminary review shall be protected from public release by the Department of Defense.
 
-(8) If, in reviewing an application for an energy project pursuant to paragraph (1), the Clearinghouse finds no adverse impact on military operations under section 44718(b)(1) of title 49, the Clearinghouse shall communicate to the Secretary of Transportation in writing, not later than five business days after making such finding, the following: "No Part 77 concerns, national security review ongoing."
+(8) If, in reviewing an application for an energy project or antenna structure project pursuant to paragraph (1), the Clearinghouse finds no adverse impact on military operations under section 44718(b)(1) of title 49, the Clearinghouse shall communicate to the Secretary of Transportation in writing, not later than five business days after making such finding, the following: "No Part 77 concerns, national security review ongoing."
 
 (d)
 
@@ -52,13 +52,13 @@ Comprehensive Review.—(1) The Secretary of Defense shall develop a comprehensi
 
 &emsp;(A) assess the magnitude of interference posed by projects filed with the Secretary of Transportation pursuant to section 44718 of title 49;
 
-&emsp;(B) solely for the purpose of informing preliminary reviews under subsection (c)(1) and early outreach efforts under subsection (c)(5), identify distinct geographic areas selected as proposed locations for projects filed, or for projects that are reasonably expected to be filed in the near future, with the Secretary of Transportation pursuant to section 44718 of title 49 where the Secretary of Defense can demonstrate such projects could have an adverse impact on military operations and readiness, including military training routes, and categorize the risk of adverse impact in such areas;
+&emsp;(B) solely for the purpose of informing preliminary reviews under subsection (c)(1) and early outreach efforts under subsection (c)(5), identify distinct geographic areas selected as proposed locations for projects filed, or for projects that are reasonably expected to be filed in the near future, with the Secretary of Transportation pursuant to section 44718 of title 49 where the Secretary of Defense can demonstrate such projects could have an adverse impact on military operations and readiness, including military training routes or any active intercontinental ballistic missile launch facility or control center, and categorize the risk of adverse impact in such areas;
 
 &emsp;(C) develop procedures for the initial identification of such geographic areas identified under subparagraph (B), to include a process to provide notice and seek public comment prior to making a final designation of the geographic areas, including maps of the area and the basis for identification;
 
 &emsp;(D) develop procedures to periodically review and modify, consistent with the notice and public comment process under subparagraph (C), geographic areas identified under subparagraph (B) and to solicit and identify additional geographic areas as appropriate;
 
-&emsp;(E) at the conclusion of the notice and public comment period conducted under subparagraph (C), make a final finding on the designation of a geographic area of concern or delegate the authority to make such finding to the Deputy Secretary of Defense, an Under Secretary of Defense, or a Deputy Under Secretary of Defense; and
+&emsp;(E) at the conclusion of the notice and public comment period conducted under subparagraph (C), make a final finding on the designation of a geographic area of concern or delegate the authority to make such finding to the Deputy Secretary of Defense, an Under Secretary of Defense, a Deputy Under Secretary of Defense, or, in the case of a geographic area of concern related to an active intercontinental ballistic missile launch facility or control center, the Assistant Secretary of Defense for Energy, Installations, and Environment; and
 
 &emsp;(F) specifically identify feasible and affordable long-term actions that may be taken to mitigate adverse impacts of projects filed, or which may be filed in the future, with the Secretary of Transportation pursuant to section 44718 of title 49, on military operations and readiness, including—
 
@@ -78,7 +78,13 @@ Comprehensive Review.—(1) The Secretary of Defense shall develop a comprehensi
 
 (e)
 
-Department of Defense Finding of Unacceptable Risk.—(1) The Secretary of Defense may not object to an energy project filed with the Secretary of Transportation pursuant to section 44718 of title 49, except in a case in which the Secretary of Defense determines, after giving full consideration to mitigation actions identified pursuant to this section, that such project, in isolation or cumulatively with other projects, would result in an unacceptable risk to the national security of the United States. The Secretary of Defense's finding of unacceptable risk to national security shall be transmitted to the Secretary of Transportation for inclusion in the report required under section 44718(b)(2) of title 49.
+Department of Defense Finding of Unacceptable Risk.—(1)(A) The Secretary of Defense may not object to an energy project or antenna structure project filed with the Secretary of Transportation pursuant to section 44718 of title 49, except in a case in which the Secretary of Defense determines, after giving full consideration to mitigation actions identified pursuant to this section, that such project, in isolation or cumulatively with other projects, would result in an unacceptable risk to the national security of the United States.
+
+(B)(i) In the case of any energy project or antenna structure project with proposed structures more than 200 feet above ground level located within two nautical miles of the geographic center of an active intercontinental ballistic missile launch facility or control center, the Secretary of Defense shall issue a finding of unacceptable risk to national security for such project if the mitigation actions identified pursuant to this section do not include removal of all such proposed structures from such project after receiving notice of presumed risk from the Clearinghouse under subsection (c)(2).
+
+(ii) Clause (i) does not apply to structures approved before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 or to structures that are re-powered with updated technology in the same location as previously approved structures.
+
+(C) Any finding of unacceptable risk to national security by the Secretary of Defense under this paragraph shall be transmitted to the Secretary of Transportation for inclusion in the report required under section 44718(b)(2) of title 49.
 
 (2)(A) Not later than 30 days after making a finding of unacceptable risk under paragraph (1), the Secretary of Defense shall submit to the congressional defense committees, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a report on such finding and the basis for such finding. Such report shall include an explanation of the operational impact that led to the finding, a discussion of the mitigation options considered, and an explanation of why the mitigation options were not feasible or did not resolve the conflict. The report may include a classified annex. Unclassified reports shall also be provided to the project proponent. The Secretary of Defense may provide public notice through the Federal Register of the finding.
 
@@ -90,7 +96,7 @@ Department of Defense Finding of Unacceptable Risk.—(1) The Secretary of Defen
 
 (f)
 
-Authority to Accept Contributions of Funds.—The Secretary of Defense is authorized to request and accept a voluntary contribution of funds from an applicant for an energy project. Amounts so accepted shall remain available until expended for the purpose of offsetting the cost of measures undertaken by the Secretary of Defense to mitigate adverse impacts of such a project on military operations and readiness or to conduct studies of potential measures to mitigate such impacts.
+Authority to Accept Contributions of Funds.—The Secretary of Defense is authorized to request and accept a voluntary contribution of funds from an applicant for an energy project or antenna structure project. Amounts so accepted shall remain available until expended for the purpose of offsetting the cost of measures undertaken by the Secretary of Defense to mitigate adverse impacts of such a project on military operations and readiness or to conduct studies of potential measures to mitigate such impacts.
 
 (g)
 
@@ -102,21 +108,37 @@ Definitions.—In this section:
 
 &emsp;(1) The term "adverse impact on military operations and readiness" means any adverse impact upon military operations and readiness, including flight operations, research, development, testing, and evaluation, and training, that is demonstrable and is likely to impair or degrade the ability of the armed forces to perform their warfighting missions.
 
-&emsp;(2) The term "energy project" means a project that provides for the generation or transmission of electrical energy.
+&emsp;(2) The term "antenna structure project"—
 
-&emsp;(3) The term "governor", with respect to a State, means the chief executive officer of the State.
+&emsp;&emsp;(A) means a project to construct a structure located within two nautical miles of the geographic center of any intercontinental ballistic missile launch facility or control center that—
 
-&emsp;(4) The term "landowner" means a person that owns a fee interest in real property on which a proposed energy project is planned to be located.
+&emsp;&emsp;&emsp;(i) is constructed or used to transmit radio energy or that is constructed or used for the primary purpose of supporting antennas to transmit or receive radio energy (or both), and any antennas and other appurtenances mounted on the structure, from the time construction of the supporting structure begins until such time as the supporting structure is dismantled; and
 
-&emsp;(5) The term "military installation" has the meaning given that term in section 2801(c)(4) of this title.
+&emsp;&emsp;&emsp;(ii) for which notification is required to be made to the Federal Aviation Administration pursuant to processes already established under this title; and
 
-&emsp;(6) The term "military readiness" includes any training or operation that could be related to combat readiness, including testing and evaluation activities.
+&emsp;&emsp;(B) does not include—
 
-&emsp;(7) The term "military training route" means a training route developed as part of the Military Training Route Program, carried out jointly by the Administrator of the Federal Aviation Administration and the Secretary of Defense, for use by the armed forces for the purpose of conducting low-altitude, high-speed military training.
+&emsp;&emsp;&emsp;(i) any structure constructed before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, including any such structure which is upgraded, repaired, or otherwise modified after such date of enactment as long as such upgrade, repair, or modification has not increased the height of such structure; or
 
-&emsp;(8) The term "State" means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, theUnited States Virgin Islands, and American Samoa.
+&emsp;&emsp;&emsp;(ii) any project in support of or required by an intercontinental ballistic missile launch facility or control center, or any other such project that has been approved by the Secretary of Defense or the Secretary of Defense's designee for use on the same military installation at which such facility or control center is located.
 
-&emsp;(9) The term "unacceptable risk to the national security of the United States" means the construction, alteration, establishment, or expansion, or the proposed construction, alteration, establishment, or expansion, of a structure or sanitary landfill, that the Secretary of Defense can demonstrate would—
+&emsp;(3) The term "intercontinental ballistic missile launch facility or control center" means such facilities or control centers located at the Francis E. Warren Air Force Base; <sup>1</sup> the Malmstrom Air Force Base, and the Minot Air Force Base, and their respective missile fields.
+
+&emsp;(4) The term "energy project" means a project that provides for the generation or transmission of electrical energy.
+
+&emsp;(5) The term "governor", with respect to a State, means the chief executive officer of the State.
+
+&emsp;(6) The term "landowner" means a person that owns a fee interest in real property on which a proposed energy project or antenna structure project is planned to be located.
+
+&emsp;(7) The term "military installation" has the meaning given that term in section 2801(c)(4) of this title.
+
+&emsp;(8) The term "military readiness" includes any training or operation that could be related to combat readiness, including testing and evaluation activities.
+
+&emsp;(9) The term "military training route" means a training route developed as part of the Military Training Route Program, carried out jointly by the Administrator of the Federal Aviation Administration and the Secretary of Defense, for use by the armed forces for the purpose of conducting low-altitude, high-speed military training.
+
+&emsp;(10) The term "State" means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the United States Virgin Islands, and American Samoa.
+
+&emsp;(11) The term "unacceptable risk to the national security of the United States" means the construction, alteration, establishment, or expansion, or the proposed construction, alteration, establishment, or expansion, of a structure or sanitary landfill, that the Secretary of Defense can demonstrate would—
 
 &emsp;&emsp;(A) endanger safety in air commerce directly related to the activities of the Department of Defense;
 
@@ -124,11 +146,27 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) significantly impair or degrade the capability of the Department of Defense to conduct training, research, development, testing, and evaluation, and operations or to maintain military readiness.
 
-(Added Pub. L. 115–91, div. A, title III, §311(a), Dec. 12, 2017, 131 Stat. 1343; amended Pub. L. 116–92, div. A, title III, §§311, 312, 371, Dec. 20, 2019, 133 Stat. 1303, 1329; Pub. L. 116–283, div. A, title III, §311, Jan. 1, 2021, 134 Stat. 3513; Pub. L. 117–81, div. A, title III, §371(b), Dec. 27, 2021, 135 Stat. 1663.)
+(Added Pub. L. 115–91, div. A, title III, §311(a), Dec. 12, 2017, 131 Stat. 1343; amended Pub. L. 116–92, div. A, title III, §§311, 312, 371, Dec. 20, 2019, 133 Stat. 1303, 1329; Pub. L. 116–283, div. A, title III, §311, Jan. 1, 2021, 134 Stat. 3513; Pub. L. 117–81, div. A, title III, §371(b), Dec. 27, 2021, 135 Stat. 1663; Pub. L. 118–31, div. A, title III, §§361, 362, Dec. 22, 2023, 137 Stat. 231.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsecs. (e)(1)(B)(ii) and (h)(2)(B)(i), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
+
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, §362(b)(1), inserted "or antenna structure projects" after "energy projects" wherever appearing and inserted "or antenna structure project" after "energy project" wherever appearing except in subsecs. (e)(1) and (h)(2).
+
+Subsec. (c)(3). Pub. L. 118–31, §361, inserted "The Clearinghouse shall ensure that a governor has at least 30 days after the date on which the governor receives the notice of presumed risk to provide any such comments and shall provide detailed information and other information necessary to ensure that the governor can fully understand the nature of the presumed risk." after "to the application."
+
+Subsec. (d)(2)(B). Pub. L. 118–31, §362(a)(1)(A), inserted "or any active intercontinental ballistic missile launch facility or control center" after "military training routes".
+
+Subsec. (d)(2)(E). Pub. L. 118–31, §362(a)(1)(B), substituted "a Deputy Under Secretary of Defense, or, in the case of a geographic area of concern related to an active intercontinental ballistic missile launch facility or control center, the Assistant Secretary of Defense for Energy, Installations, and Environment" for "or a Deputy Under Secretary of Defense".
+
+Subsec. (e)(1). Pub. L. 118–31, §362(a)(2), designated first sentence as subpar. (A) and inserted "or antenna structure project" after "energy project", designated second sentence as subpar. (C) and substituted "Any finding of unacceptable risk to national security by the Secretary of Defense under this paragraph" for "The Secretary of Defense's finding of unacceptable risk to national security", and added subpar. (B) after subpar. (A) as so designated.
+
+Subsec. (h)(2) to (11). Pub. L. 118–31, §362(b)(2), added pars. (2) and (3) and redesignated former pars. (2) to (9) as (4) to (11), respectively.
 
 <b>2021</b>—Subsec. (c)(2). Pub. L. 116–283, §311(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -142,7 +180,7 @@ Subsec. (c)(8). Pub. L. 117–81, §371(b)(2), added par. (8).
 
 <b>2019</b>—Subsec. (c)(1). Pub. L. 116–92, §311, substituted "75 days" for "60 days" in introductory provisions.
 
-Subsec. (c)(6). Pub. L. 116–92, §371(1), in second sentence, substituted "air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar" for "air route surveillance radar or airport surveillance radar" and inserted after second sentence "Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity."
+Subsec. (c)(6). Pub. L. 116–92, §371(1), in second sentence, substituted "air route surveillance radar, airportsurveillance radar, or wide area surveillance over-the-horizon radar" for "air route surveillance radar or airport surveillance radar" and inserted after second sentence "Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity."
 
 Subsec. (d)(2)(E). Pub. L. 116–92, §371(2)(A), substituted "the Deputy Secretary of Defense, an Under Secretary of Defense, or a Deputy Under Secretary of Defense" for "a Deputy Secretary of Defense, an Under Secretary of Defense, or a Principal Deputy Under Secretary of Defense".
 
@@ -165,4 +203,6 @@ Pub. L. 115–91, div. A, title III, §311(c), Dec. 12, 2017, 131 Stat. 1348, pr
 #### Deadline for Initial Identification of Geographic Areas
 
 Pub. L. 115–91, div. A, title III, §311(d), Dec. 12, 2017, 131 Stat. 1348, provided that: "The initial identification of geographic areas under section 183a(d)(2)(B) of title 10, United States Code, as added by subsection (a), shall be completed not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\]."
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

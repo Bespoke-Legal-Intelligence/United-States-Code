@@ -222,7 +222,7 @@ The annuity of the surviving spouse of a judge or special trial judge electing u
 
 #### (n) Includible service
 
-Subject to the provisions of subsection (d), the years of service of a judge or special trial judge which are allowable as the basis for calculating the amount of the annuity of his surviving spouse shall include his years of service as a member of the United States Board of Tax Appeals, as a judge or special trial judge of the Tax Court of the United States, and as a judge orspecial trial judge of the Tax Court, his years of service pursuant to any appointment under section 7443A, his years of service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of active service as a member of the Armed Forces of the United States not exceeding 5 years in the aggregate and not including any such service for which credit is allowed for the purposes of retirement or retired pay under any other provision of law, and his years of any other civilian service within the purview of sections 8332 and 8411 of title 5 of the United States Code.
+Subject to the provisions of subsection (d), the years of service of a judge or special trial judge which are allowable as the basis for calculating the amount of the annuity of his surviving spouse shall include his years of service as a member of the United States Board of Tax Appeals, as a judge or special trial judge of the Tax Court of the United States, and as a judge or special trial judge of the Tax Court, his years of service pursuant to any appointment under section 7443A, his years of service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of active service as a member of the Armed Forces of the United States not exceeding 5 years in the aggregate and not including any such service for which credit is allowed for the purposes of retirement or retired pay under any other provision of law, and his years of any other civilian service within the purview of sections 8332 and 8411 of title 5 of the United States Code.
 
 #### (o) Simultaneous entitlement
 
@@ -288,7 +288,7 @@ Subsec. (u). Pub. L. 117–328, §701(b)(5), added subsec. (u).
 
 Subsec. (a)(6). Pub. L. 115–141, §401(b)(52), struck out ", and compensation received under section 7443B" after "United States Code".
 
-Subsec. (d). Pub. L. 115–141, §401(b)(53), substituted "at 3 percent per annum" for "at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter".
+Subsec. (d). Pub. L. 115–141, §401(b)(53), substituted "at 3 percent per annum" for "at 4 percent per annumto December 31, 1947, and 3 percent per annum thereafter".
 
 Subsec. (j)(1)(A). Pub. L. 115–141, §401(a)(327), substituted "Code)," for "Code,),".
 
@@ -466,7 +466,7 @@ Subsection (a).—The amendment made by subsection (a) \[amending this section\]
 
 "(2)
 
-Subsection (b).—The amendment made by subsection (b) of this section \[amending this section\] shall apply with respect to increases in the salary of judges of the United States Tax Court taking effect after the date of the enactment of this Act \[Oct. 25, 1982\]."
+Subsection (b).—The amendment made by subsection (b) of this section \[amending this section\] shallapply with respect to increases in the salary of judges of the United States Tax Court taking effect after the date of the enactment of this Act \[Oct. 25, 1982\]."
 
 #### Effective Date of 1976 Amendment
 

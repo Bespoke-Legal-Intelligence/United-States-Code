@@ -20,5 +20,5 @@ For transfer of functions under sections 3521 to 3527 to and establishment of th
 
 #### Effective Date of Repeal
 
-Repeal effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective andTermination Dates of 1988 Amendments note under section 5315 of Title 5, Government Organization and Employees.
+Repeal effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective and Termination Dates of 1988 Amendments note under section 5315 of Title 5, Government Organization and Employees.
 

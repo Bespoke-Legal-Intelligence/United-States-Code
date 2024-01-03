@@ -56,7 +56,7 @@
 
 #### (5) Report
 
-&emsp;Not later than 30 days after completion of all dispersion analyses under paragraph (1), the Secretary shall submit to the appropriate congressional committees a report detailingthe Secretary's conclusions and findings in an appropriate format.
+&emsp;Not later than 30 days after completion of all dispersion analyses under paragraph (1), the Secretary shall submit to the appropriate congressional committees a report detailing the Secretary's conclusions and findings in an appropriate format.
 
 (Pub. L. 110–53, title XV, §1519, Aug. 3, 2007, 121 Stat. 443.)
 

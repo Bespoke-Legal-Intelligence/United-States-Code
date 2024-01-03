@@ -22,7 +22,7 @@ For the purpose of this section, the term "eligible entity" means—
 
 &emsp;(3) an Indian tribe or organization, in consortium with an institution of higher education; and
 
-&emsp;(4) a Bureau-funded school (as defined in section 2026 <sup>1</sup> of title 25) in a consortium with at least one Tribal College or University, as defined in section 1059c(b) of this title, where feasible.
+&emsp;(4) a Bureau-funded school (as defined in section 2026 <sup>1</sup> of title 25) in a consortium with atleast one Tribal College or University, as defined in section 1059c(b) of this title, where feasible.
 
 #### (c) Program authorized
 

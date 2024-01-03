@@ -14,7 +14,7 @@ For purposes of this section:
 
 #### (1) Adequate substantiation of safety
 
-&emsp;The term "adequate substantiation of safety" means tests or studies, research, analyses, or other evidence or information that is considered, among experts qualified by scientific training and experience to evaluate the safety of cosmetic products and their ingredients, sufficient to support a reasonable certainty that a cosmetic product is safe.
+&emsp;The term "adequate substantiation of safety" means tests or studies, research, analyses,or other evidence or information that is considered, among experts qualified by scientific training and experience to evaluate the safety of cosmetic products and their ingredients, sufficient to support a reasonable certainty that a cosmetic product is safe.
 
 #### (2) Safe
 

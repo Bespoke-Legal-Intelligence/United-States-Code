@@ -60,7 +60,7 @@ Each briefing required by subsection (a) and report required by subsection (b) s
 
 #### (C) Elements
 
-&emsp;&emsp;A comprehensive review conducted under subparagraph (A) of a report required by subsection (b) shall include an assessment,based on the most current information available, of the following:
+&emsp;&emsp;A comprehensive review conducted under subparagraph (A) of a report required by subsection (b) shall include an assessment, based on the most current information available, of the following:
 
 &emsp;&emsp;&emsp;(i) The actual cost savings achieved compared to cost savings estimated under subsection (c)(1), and any increased costs incurred under the contract that were unexpected or uncertain at the time the contract was awarded.
 
@@ -74,11 +74,17 @@ Each briefing required by subsection (a) and report required by subsection (b) s
 
 #### (1) In general
 
-&emsp;The requirements for briefings under subsection (a) and reports under subsection (b) shall apply with respect to requests for proposals issued or contracts awarded, as applicable, by the Administrator during fiscal years 2019 through 2022.
+&emsp;The requirements for briefings under subsection (a) and reports under subsection (b) shall apply with respect to requests for proposals issued or contracts awarded, as applicable, by the Administrator during fiscal years 2019 through 2032.
 
 #### (2) Naval reactors
 
 &emsp;The requirements for briefings under subsection (a) and reports under subsection (b) shall not apply with respect to a management and operations contract for a Naval Reactor facility.
 
-(Pub. L. 107–314, div. D, title XLVIII, §4807, as added Pub. L. 115–232, div. C, title XXXI, §3131(a), Aug. 13, 2018, 132 Stat. 2298.)
+(Pub. L. 107–314, div. D, title XLVIII, §4807, as added Pub. L. 115–232, div. C, title XXXI,§3131(a), Aug. 13, 2018, 132 Stat. 2298; amended Pub. L. 118–31, div. C, title XXXI, §3119, Dec. 22, 2023, 137 Stat. 791.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2023</b>—Subsec. (f)(1). Pub. L. 118–31 substituted "2032" for "2022".
 

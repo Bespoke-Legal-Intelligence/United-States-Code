@@ -2,7 +2,7 @@
 
 #### (a) Retired and Senior Volunteer Program
 
-There are authorized to be appropriated to carry out part A of subchapter II, $70,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014.
+There are authorized to be appropriated to carry out part A of subchapter II, $70,000,000 forfiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014.
 
 #### (b) Foster Grandparent Program
 
@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 98–288, §28(c), struck out "$16,610,000 for fiscal year 
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35, §607(b)(1), substituted provisions authorizing appropriations for fiscal years 1982 and 1983, for provisions authorizing appropriations for fiscal year ending June 30, 1974, through fiscal year ending Sept. 30, 1981.
 
-Subsec. (b). Pub. L. 97–35, §607(b)(2), substituted provisions authorizing appropriations for fiscal years 1982and 1983, for provisions relating to authorization, availability, and allocation of appropriations from fiscal year ending June 30, 1974, through fiscal year ending Sept. 30, 1981.
+Subsec. (b). Pub. L. 97–35, §607(b)(2), substituted provisions authorizing appropriations for fiscal years 1982 and 1983, for provisions relating to authorization, availability, and allocation of appropriations from fiscal year ending June 30, 1974, through fiscal year ending Sept. 30, 1981.
 
 Subsec. (c). Pub. L. 97–35, §607(b)(3), added subsec. (c).
 

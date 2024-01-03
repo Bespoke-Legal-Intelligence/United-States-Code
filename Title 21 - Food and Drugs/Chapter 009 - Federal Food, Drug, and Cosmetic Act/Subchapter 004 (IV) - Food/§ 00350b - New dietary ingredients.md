@@ -30,7 +30,7 @@ Any person may file with the Secretary a petition proposing the issuance of an o
 
 #### (d) "New dietary ingredient" defined
 
-For purposes of this section, the term "new dietary ingredient" means a dietary ingredient that was not marketed in the United States before October 15, 1994 and does not include any dietary ingredient which was marketed in the United States before October 15, 1994.
+For purposes of this section, the term "new dietary ingredient" means a dietary ingredientthat was not marketed in the United States before October 15, 1994 and does not include any dietary ingredient which was marketed in the United States before October 15, 1994.
 
 (June 25, 1938, ch. 675, §413, as added Pub. L. 103–417, §8, Oct. 25, 1994, 108 Stat. 4331; amended Pub. L. 111–353, title I, §113(a), Jan. 4, 2011, 124 Stat. 3920.)
 

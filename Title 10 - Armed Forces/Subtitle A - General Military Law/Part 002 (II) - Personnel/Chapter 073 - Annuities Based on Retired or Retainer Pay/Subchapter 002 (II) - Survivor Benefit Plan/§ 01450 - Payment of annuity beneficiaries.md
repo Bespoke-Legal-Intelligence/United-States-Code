@@ -148,7 +148,7 @@ Copy of court order or other official statement.—Either—
 
 &emsp;&emsp;(B)
 
-Persons required to make election.—A person shall be considered for purposes of subparagraph (A) to be required to electunder section 1448(b) of this title to provide an annuity to a former spouse if—
+Persons required to make election.—A person shall be considered for purposes of subparagraph (A) to be required to elect under section 1448(b) of this title to provide an annuity to a former spouse if—
 
 &emsp;&emsp;&emsp;(i) the person enters, incident to a proceeding of divorce, dissolution, or annulment, into a written agreement to make such an election and the agreement (I) has been incorporated in or ratified or approved by a court order, or (II) has been filed with the court of appropriate jurisdiction in accordance with applicable State law; or
 
@@ -184,7 +184,7 @@ Exceptions.—Paragraph (1) does not apply to—
 
 (h)
 
-Treatment of Annuities Under Other Laws.—Except as provided in section 1451 of this title, an annuity under this section is in addition to any other payment to which a person is entitled under any other provision of law. Such annuity shall be considered as income under laws administered by the Secretary of Veterans Affairs.
+Treatment of Annuities Under Other Laws.—Except as provided in section 1451 of this title, an annuity under this section is in addition to any other payment to which a person is entitled under any other provision of law. Suchannuity shall be considered as income under laws administered by the Secretary of Veterans Affairs.
 
 (i)
 
@@ -290,7 +290,7 @@ Collection from participant of annuity amounts erroneously paid.—A debt under 
 
 &emsp;&emsp;(C)
 
-Collection from beneficiary.—If the participant dies before the full recovery of the amount of annuity payments described in subparagraph (A)(ii) has been made by the United States, the remaining amount of such annuity payments may be collected from the participant's beneficiary under the Plan if that beneficiary was the recipient of the annuity payments made by reason of this subsection.
+Collection from beneficiary.—If the participant dies before the full recovery ofthe amount of annuity payments described in subparagraph (A)(ii) has been made by the United States, the remaining amount of such annuity payments may be collected from the participant's beneficiary under the Plan if that beneficiary was the recipient of the annuity payments made by reason of this subsection.
 
 (m)
 
@@ -364,7 +364,7 @@ Rounding down.—The monthly amount of an allowance payable under this subsectio
 
 &emsp;&emsp;(D)
 
-Public notice on amount of allowance payable.—Whenever an increase in the amount of the allowance payable underparagraph (1) is made pursuant to this paragraph, the Secretary of Defense shall publish the amount of the allowance so payable by reason of such increase, including the months for which payable.
+Public notice on amount of allowance payable.—Whenever an increase in the amount of the allowance payable under paragraph (1) is made pursuant to this paragraph, the Secretary of Defense shall publish the amount of the allowance so payable by reason of such increase, including the months for which payable.
 
 (Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 708; amended Pub. L. 94–496, §1(3), (4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §§203, 207(b), (c), Sept. 30, 1978, 92 Stat. 845, 848; Pub. L. 97–22, §11(a)(3), July 10, 1981, 95 Stat. 137; Pub. L. 97–252, title X, §1003(c), (d), Sept. 8, 1982, 96 Stat. 736; Pub. L. 98–94, title IX, §941(a)(3), (c)(3), Sept. 24, 1983, 97 Stat. 653; Pub. L. 98–525, title VI, §§642(b), 644, Oct. 19, 1984, 98 Stat. 2546, 2548; Pub. L. 99–145, title VII, §§713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, §1303(a)(11), Nov. 8, 1985, 99 Stat. 672, 674–677, 739; Pub. L. 99–661, div. A, title VI, §§641(a), (b)(2), (3), 643(a), title XIII, §1343(a)(8)(C), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 100–26, §3(3), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VI, §636(a), Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–224, §5(b)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 101–189, div. A, title XIV, §1407(a)(2)–(4), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1588, 1602; Pub. L. 103–337, div. A, title X, §1070(e)(3), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2561; Pub. L. 105–85, div. A, title VI, §642(a), Nov. 18, 1997, 111 Stat. 1799; Pub. L. 105–261, div. A, title VI, §643(b), Oct. 17, 1998, 112 Stat. 2048; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(c)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–166; Pub. L. 110–181, div. A, title VI, §§643(a), 644, Jan. 28, 2008, 122 Stat. 157, 158; Pub. L. 110–417, \[div. A\], title VI, §631(a), Oct. 14, 2008, 122 Stat. 4492; Pub. L. 111–31, div. B, title II, §201, June 22, 2009, 123 Stat. 1857; Pub. L. 112–239, div. A, title VI, §641(b), Jan. 2, 2013, 126 Stat. 1783; Pub. L. 113–291, div. A, title VI, §624(a)(1), (2)(A), Dec. 19, 2014, 128 Stat. 3403; Pub. L. 114–328, div. A, title VI, §§642(d), 643(c)(2), 646, Dec. 23, 2016, 130 Stat. 2165, 2166, 2168; Pub. L. 115–91, div. A, title VI, §621, Dec. 12, 2017, 131 Stat. 1427; Pub. L. 115–232, div. A, title VI, §622(a), (b), Aug. 13, 2018, 132 Stat. 1799; Pub. L. 116–92, div. A, title VI, §622(a)(1), Dec. 20, 2019, 133 Stat. 1427.)
 
@@ -526,7 +526,7 @@ Subsec. (f)(2). Pub. L. 98–94, §941(c)(3)(B), substituted "or annulment," for
 
 <b>1982</b>—Subsec. (a)(4). Pub. L. 97–252, §1003(c), substituted "former spouse or other natural person" for "natural person" and "unless the election to provide an annuity to the former spouse or other natural person has been changed as provided in subsection (f)" for "if there is no eligible beneficiary under clause (1) or clause (2)".
 
-Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par. (1), substituted "A person who elects to provide an annuity to a person designated by him under section 1448(b) of this title may, subject to paragraph (2) of this subsection," for "An unmarried person who elects to provide an annuity to a persondesignated by him under subsection (a)(4), but who later marries or acquires a dependent child,", inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
+Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par. (1), substituted "A person who elects to provide an annuity to a person designated by him under section 1448(b) of this title may, subject to paragraph (2) of this subsection," for "An unmarried person who elects to provide an annuity to a person designated by him under subsection (a)(4), but who later marries or acquires a dependent child,", inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
 
 <b>1981</b>—Subsec. (d). Pub. L. 97–22 substituted "Office of Personnel Management" for "Civil Service Commission".
 
@@ -558,7 +558,7 @@ Amendment by section 642(d) of Pub. L. 114–328 inapplicable to accural of annu
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title VI, §641(c), Jan. 2, 2013, 126 Stat. 1783, provided that: "The amendments made by this section \[amending this section and section 1452 of this title\] shall apply with respect to any participant electing an annuity for survivors under chapter 84 of title 5, United States Code, on or after the date of the enactment of this Act \[Jan. 2, 2013\]."
+Pub. L. 112–239, div. A, title VI, §641(c), Jan. 2, 2013, 126 Stat. 1783, provided that: "The amendments made by this section \[amending this section and section 1452 of this title\] shall apply with respect to any participant electing an annuity for survivors under chapter 84 oftitle 5, United States Code, on or after the date of the enactment of this Act \[Jan. 2, 2013\]."
 
 #### Effective Date of 2008 Amendment
 
@@ -604,7 +604,7 @@ Pub. L. 116–92, div. A, title VI, §622(b), Dec. 20, 2019, 133 Stat. 1427, pro
 
 #### Prohibition on Recoupment of Certain Amounts Previously Refunded to SBP Recipients
 
-Pub. L. 116–92, div. A, title VI, §622(c), Dec. 20, 2019, 133 Stat. 1427, provided that: "A surviving spouse who is or has been in receipt of an annuity under the Survivor Benefit Plan under subchapter II of chapter 73 of title 10, United States Code, that is in effect before the effective date provided under subsection (f) \[enacting provisions set out as a note under section 1448 of this title\] and that is adjusted by reason of the amendmentsmade by subsection (a) \[amending this section and section 1451 of this title\] and who has received a refund of retired pay under section 1450(e) of title 10, United States Code, shall not be required to repay such refund to the United States."
+Pub. L. 116–92, div. A, title VI, §622(c), Dec. 20, 2019, 133 Stat. 1427, provided that: "A surviving spouse who is or has been in receipt of an annuity under the Survivor Benefit Plan under subchapter II of chapter 73 of title 10, United States Code, that is in effect before the effective date provided under subsection (f) \[enacting provisions set out as a note under section 1448 of this title\] and that is adjusted by reason of the amendments made by subsection (a) \[amending this section and section 1451 of this title\] and who has received a refund of retired pay under section 1450(e) of title 10, United States Code, shall not be required to repay such refund to the United States."
 
 #### Recomputation of Annuities
 
@@ -634,7 +634,7 @@ Time for recomputation.—The requirement under paragraph (1) for recomputation 
 
 Savings provision.—If, as a result of the recomputation of annuities under section 1450 of title 10, United States Code, and supplemental survivor annuities under \[former\] section 1457 of such title, as required by paragraph (1), the total amount of both annuities to be paid to an annuitant for a month would be less (because of the offset required by section 1450(c) of such title for dependency and indemnity compensation) than the amount that would be paid to the annuitant in the absence of recomputation, the Secretary of Defense shall take such actions as are necessary to adjust the annuity amounts to eliminate the reduction."
 
-\[Pub. L. 110–417, \[div. A\], title VI, §632, Oct. 14, 2008, 122 Stat. 4493, provided that the amendment made by that section to section 644(c) of Pub. L. 108–375, set out above, is effective as of Oct. 28, 2004, and as if included in section 644(c) of Pub. L. 108–375 as enacted.\]
+\[Pub. L. 110–417, \[div. A\], title VI, §632, Oct. 14, 2008, 122 Stat. 4493, provided that the amendment made by that section to section 644(c) of Pub. L. 108–375, set outabove, is effective as of Oct. 28, 2004, and as if included in section 644(c) of Pub. L. 108–375 as enacted.\]
 
 #### Effectuation of Intended SBP Annuity for Former Spouse When Not Elected by Reason of Untimely Death of Retiree
 

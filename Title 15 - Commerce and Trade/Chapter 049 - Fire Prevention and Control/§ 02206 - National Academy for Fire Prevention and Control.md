@@ -18,7 +18,7 @@ The Superintendent is authorized to—
 
 &emsp;(3) conduct courses and programs of training and education, as defined in subsection (d) of this section;
 
-&emsp;(4) appoint faculty members and consultants without regard to the provisions of title 5,governing appointments in the competitive service, and, with respect to temporary and intermittent services, to make appointments to the same extent as is authorized by section 3109 of title 5;
+&emsp;(4) appoint faculty members and consultants without regard to the provisions of title 5, governing appointments in the competitive service, and, with respect to temporary and intermittent services, to make appointments to the same extent as is authorized by section 3109 of title 5;
 
 &emsp;(5) establish fees and other charges for attendance at, and subscription to, courses and programs offered by the Academy. Such fees may be modified or waived as determined by the Superintendent;
 
@@ -102,7 +102,7 @@ The Academy shall be located on such site as the Administrator of FEMA selects, 
 
 #### (h) Construction costs
 
-Of the sums authorized to be appropriated for the purpose of implementing the programs ofthe Administration, not more than $9,000,000 shall be available for the construction of facilities of the Academy on the site selected under subsection (g) of this section. Such sums for such construction shall remain available until expended.
+Of the sums authorized to be appropriated for the purpose of implementing the programs of the Administration, not more than $9,000,000 shall be available for the construction of facilities of the Academy on the site selected under subsection (g) of this section. Such sums for such construction shall remain available until expended.
 
 #### (i) Educational and professional assistance
 
@@ -150,7 +150,7 @@ The Superintendent is authorized to admit to the courses and programs of the Aca
 
 #### (3) Restriction on use of funds
 
-&emsp;The amounts expended by the Administrator to carry out this subsection in any fiscal yearshall not exceed 7.5 per centum of the amount authorized to be appropriated in such fiscal year pursuant to section 2216 of this title.
+&emsp;The amounts expended by the Administrator to carry out this subsection in any fiscal year shall not exceed 7.5 per centum of the amount authorized to be appropriated in such fiscal year pursuant to section 2216 of this title.
 
 #### (n) Triennial report
 
@@ -192,7 +192,7 @@ Subsecs. (m), (n). Pub. L. 110–376, §4(b)(3), (c), added subsecs. (m) and (n)
 
 <b>2003</b>—Subsec. (d)(1)(F) to (N). Pub. L. 108–169, §204(a), added subpars. (F) to (M) and redesignated former subpar. (F) as (N).
 
-Subsec. (l). Pub. L. 108–169, §204(d), inserted at end "The Superintendent shall offer, at the Academy and at other sites, courses and training assistance as necessary to accommodate all geographic regions and needs of career and volunteer firefighters."
+Subsec. (l). Pub. L. 108–169, §204(d), inserted at end "The Superintendent shall offer, at the Academy andat other sites, courses and training assistance as necessary to accommodate all geographic regions and needs of career and volunteer firefighters."
 
 <b>2000</b>—Subsecs. (a), (b), (g), (j). Pub. L. 106–503 substituted "Director" for "Secretary" wherever appearing.
 

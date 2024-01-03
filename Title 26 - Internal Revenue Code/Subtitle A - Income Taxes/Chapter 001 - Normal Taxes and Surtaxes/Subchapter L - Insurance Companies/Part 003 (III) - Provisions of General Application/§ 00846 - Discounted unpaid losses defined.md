@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, the term "undiscounted unpaid losses" means the unpaid losses shown in the annual statement filed by the taxpayer for the year ending with or within the taxable year of the taxpayer.
+&emsp;Except as otherwise provided in this subsection, the term "undiscounted unpaid losses" means the unpaid losses shown in theannual statement filed by the taxpayer for the year ending with or within the taxable year of the taxpayer.
 
 #### (2) Adjustment if losses discounted on annual statement
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (4) Line of business
 
-&emsp;The term "line of business" means a category for the reporting of loss payment patterns determined on the basis of the annual statement for fire and casualty insurance companies for the calendar year ending with or within the taxable year, except that the multiple peril lines shall be treated as a single line of business.
+&emsp;The term "line of business" means a category for the reporting of loss payment patterns determined on the basis of the annual statement for fire and casualty insurance companies for the calendar year ending withor within the taxable year, except that the multiple peril lines shall be treated as a single line of business.
 
 #### (5) Multiple peril lines
 
@@ -212,7 +212,7 @@ Transitional rule.—For the first taxable year beginning after December 31, 198
 
 &emsp;"(B) the unpaid losses as defined in sections 807(c)(2) and 805(a)(1) of such Code at the end of the preceding taxable year,
 
-> shall be determined as if the amendments made by this section had applied to such unpaid losses and expenses unpaid in the preceding taxable year and by using the interest rate and loss payment patterns applicable to accident years ending with calendar year 1987. For subsequent taxable years, such amendments shall be applied with respect to such unpaid losses and expenses unpaid by using the interest rate and loss payment patterns applicable to accident years ending with calendar year 1987.
+> shall be determined as if the amendments made by this section had applied to such unpaid losses and expenses unpaid in the preceding taxable year and by using the interest rate and loss payment patterns applicable to accident years ending with calendar year 1987. For subsequent taxable years, such amendments shall be applied with respect to such unpaid losses and expensesunpaid by using the interest rate and loss payment patterns applicable to accident years ending with calendar year 1987.
 
 "(3)
 

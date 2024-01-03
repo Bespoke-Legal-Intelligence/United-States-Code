@@ -66,7 +66,7 @@ Requests.—A liquidation or reliquidation may be made under subparagraph (A) wi
 
 &emsp;"(C)
 
-Payment of amounts owed.—Any amounts owed by the United States pursuant to the liquidation or reliquidation of an entry of a covered articleunder subparagraph (A) shall be paid, without interest, not later than 90 days after the date of the liquidation or reliquidation (as the case may be).
+Payment of amounts owed.—Any amounts owed by the United States pursuant to the liquidation or reliquidation of an entry of a covered article under subparagraph (A) shall be paid, without interest, not later than 90 days after the date of the liquidation or reliquidation (as the case may be).
 
 "(3)
 
@@ -218,7 +218,7 @@ Retroactive application for certain liquidations and reliquidations.—
 
 General rule.—Notwithstanding section 514 of the Tariff Act of 1930 \[19 U.S.C. 1514\] or any other provision of law, and subject to paragraph (3), any entry—
 
-&emsp;&emsp;"(i) of an article to which duty-free treatment under title V of the Trade Act of 1974 \[19 U.S.C. 2461et seq.\] would have applied if such entry had been made on July 1, 1998, and such title had been in effect on July 1, 1998, and
+&emsp;&emsp;"(i) of an article to which duty-free treatment under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] would have applied if such entry had been made on July 1, 1998, and such title had been in effect on July 1, 1998, and
 
 &emsp;&emsp;"(ii) that was made—
 

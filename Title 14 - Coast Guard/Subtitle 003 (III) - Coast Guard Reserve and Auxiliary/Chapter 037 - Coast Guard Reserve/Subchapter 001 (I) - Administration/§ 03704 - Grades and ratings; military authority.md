@@ -1,6 +1,6 @@
 ### §3704. Grades and ratings; military authority
 
-The grades and ratings in the Reserve, including cadets but not grades above rear admiral, are those prescribed by law or regulation for the Coast Guard. A member of the Reserve on active duty or inactive-duty training has the same authority, rights, and privileges in the performance of that duty as a member of the Regular Coast Guard of corresponding grade or rating.
+The grades and ratings in the Reserve, including cadets but not grades above rear admiral, are those prescribed by law or regulation for theCoast Guard. A member of the Reserve on active duty or inactive-duty training has the same authority, rights, and privileges in the performance of that duty as a member of the Regular Coast Guard of corresponding grade or rating.
 
 (Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1003, §704; renumbered §3704, Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233.)
 

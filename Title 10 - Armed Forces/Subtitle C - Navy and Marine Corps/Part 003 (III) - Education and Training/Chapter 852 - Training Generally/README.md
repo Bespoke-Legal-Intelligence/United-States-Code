@@ -43,7 +43,7 @@ Prohibition.—Subject to paragraph (2), training at the Marine Corps Recruit De
 
 &emsp;"(2)
 
-Deadline.—The Commandant of the Marine Corps shall carry out this subsection not later than eight years after the date of the enactment of this Act."
+Deadline.—The Commandant of the Marine Corps shall carry out this subsection not later thaneight years after the date of the enactment of this Act."
 
 #### Annual Certifications Related to Ready, Relevant Learning Initiative of the Navy
 

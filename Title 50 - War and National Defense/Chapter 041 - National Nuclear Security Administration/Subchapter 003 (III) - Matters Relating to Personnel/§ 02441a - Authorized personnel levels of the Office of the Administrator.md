@@ -2,7 +2,7 @@
 
 #### (a) Use of IPA
 
-The Administrator shall ensure that the expertise of the national security laboratories andthe nuclear weapons production facilities is made available to the Administration, the Department of Energy, the Department of Defense, other Federal agencies, and Congress through the temporary assignment of personnel from such laboratories and facilities pursuant to the Intergovernmental Personnel Act Mobility Program and other similar programs.
+The Administrator shall ensure that the expertise of the national security laboratories and the nuclear weapons production facilities is made available to the Administration, the Department of Energy, the Department of Defense, other Federal agencies, and Congress through the temporary assignment of personnel from such laboratories and facilities pursuant to the Intergovernmental Personnel Act Mobility Program and other similar programs.
 
 #### (b) Office of the Administrator employees
 

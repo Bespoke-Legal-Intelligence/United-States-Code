@@ -70,7 +70,7 @@
 
 #### (iii) Additional information
 
-&emsp;&emsp;&emsp;As part of, or in addition to, the notice under clause (ii), a consumer reporting agency shall provide to a consumer inwriting not later than 5 business days after the date of the reinsertion—
+&emsp;&emsp;&emsp;As part of, or in addition to, the notice under clause (ii), a consumer reporting agency shall provide to a consumer in writing not later than 5 business days after the date of the reinsertion—
 
 &emsp;&emsp;&emsp;&emsp;(I) a statement that the disputed information has been reinserted;
 
@@ -94,7 +94,7 @@
 
 #### (B) Contents
 
-&emsp;&emsp;As part of, or in addition to, the notice under subparagraph (A), a consumer reporting agency shall provide to a consumer in writing before the expiration of the 5-day period referred to in subparagraph (A)—
+&emsp;&emsp;As part of, or in addition to, the notice under subparagraph (A), a consumer reporting agency shall provide to a consumer inwriting before the expiration of the 5-day period referred to in subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) a statement that the reinvestigation is completed;
 
@@ -130,7 +130,7 @@ Whenever a statement of a dispute is filed, unless there is reasonable grounds t
 
 #### (d) Notification of deletion of disputed information
 
-Following any deletion of information which is found to be inaccurate or whose accuracy can no longer be verified or any notation as to disputed information, the consumer reporting agency shall, at the request of the consumer, furnish notification that the item has been deleted or the statement, codification or summary pursuant to subsection (b) or (c) to any personspecifically designated by the consumer who has within two years prior thereto received a consumer report for employment purposes, or within six months prior thereto received a consumer report for any other purpose, which contained the deleted or disputed information.
+Following any deletion of information which is found to be inaccurate or whose accuracy can no longer be verified or any notation as to disputed information, the consumer reporting agency shall, at the request of the consumer, furnish notification that the item has been deleted or the statement, codification or summary pursuant to subsection (b) or (c) to any person specifically designated by the consumer who has within two years prior thereto received a consumer report for employment purposes, or within six months prior thereto received a consumer report for any other purpose, which contained the deleted or disputed information.
 
 #### (e) Treatment of complaints and report to Congress
 

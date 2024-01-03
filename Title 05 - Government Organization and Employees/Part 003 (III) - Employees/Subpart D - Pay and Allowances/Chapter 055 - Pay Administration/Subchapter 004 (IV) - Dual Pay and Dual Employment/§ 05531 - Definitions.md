@@ -4,7 +4,7 @@ For the purpose of section 5533 of this title—
 
 &emsp;(1) "member" has the meaning given such term by section 101(23) of title 37;
 
-&emsp;(2) "position" means a civilian office or position (including a temporary, part-time, or intermittent position), appointive or elective, in the legislative, executive, or judicial branch of the Government of the United States (including a Government corporation and a nonappropriated fund instrumentality under the jurisdiction of the armed forces) or in the government of the District of Columbia;
+&emsp;(2) "position" means a civilian office or position (including a temporary, part-time, or intermittent position), appointive or elective, in the legislative, executive, or judicial branch of the Government of the United States (including a Government corporation, but excluding a nonappropriated fund instrumentality under the jurisdiction of the armed forces) or in the government of the District of Columbia;
 
 &emsp;(3) "retired or retainer pay" means retired pay, as defined in section 8311(3) of this title, determined without regard to subparagraphs (B) through (D) of such section 8311(3); except that such term does not include an annuity payable to an eligible beneficiary of a member or former member of a uniformed service under chapter 73 of title 10;
 
@@ -16,7 +16,7 @@ For the purpose of section 5533 of this title—
 
 &emsp;(7) "congressional employee" has the meaning given that term by section 2107 of this title, excluding an employee of an agency in the legislative branch.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 482; Pub. L. 95–454, title III, §308(b), Oct. 13, 1978, 92 Stat. 1150; Pub. L. 102–190, div. A, title VI, §655(a)(2), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 104–186, title II, §215(6), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(f)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–145, §7(b)(1), Mar. 4, 2010, 124 Stat. 55; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 482; Pub. L. 95–454, title III, §308(b), Oct. 13, 1978, 92 Stat. 1150; Pub. L. 102–190, div. A, title VI, §655(a)(2), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 104–186, title II, §215(6), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(f)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–145, §7(b)(1), Mar. 4, 2010, 124 Stat. 55; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 118–31, div. A, title XI, §1108, Dec. 22, 2023, 137 Stat. 428.)
 
 Historical and Revision Notes
 
@@ -41,6 +41,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Par. (2). Pub. L. 118–31 substituted "Government corporation, but excluding" for "Government corporation and".
 
 <b>2010</b>—Par. (4). Pub. L. 111–145 substituted "the Congressional Budget Office, and the United States Capitol Police" for "and the Congressional Budget Office".
 
@@ -74,7 +76,7 @@ Pub. L. 95–454, title III, §308(g), Oct. 13, 1978, 92 Stat. 1151, provided th
 
 "(1) Except as provided in paragraph (2) of this subsection, the amendments made by this section \[amending this section and section 5532 of this title\] shall apply only with respect to pay periods beginning after the effective date of this Act \[see Effective Date note set out under section 1101 of this title\] and only with respect to members of the uniformed services who first receive retired or retainer pay (as defined in section 5531(3) of title 5, United States Code (as amended by this section)), after the effective date of this Act.
 
-"(2) Such amendments shall not apply to any individual employed in a position on the date of the enactment of this Act \[Oct. 13, 1978\] so long as the individual continues to hold any such position (disregarding any break in service of 3 days or less) if the individual, onthat date, would have been entitled to retired or retainer pay but for the fact the individual does not satisfy any applicable age requirement.
+"(2) Such amendments shall not apply to any individual employed in a position on the date of the enactment of this Act \[Oct. 13, 1978\] so long as the individual continues to hold any such position (disregarding any break in service of 3 days or less) if the individual, on that date, would have been entitled to retired or retainer pay but for the fact the individual does not satisfy any applicable age requirement.
 
 "(3) The provisions of section 5532 of title 5, United States Code, as in effect immediately before the effective date of this Act, shall apply with respect to any retired officer of a regular component of the uniformed services who is receiving retired pay on or before such date, or any individual to whom paragraph (2) applies, in the same manner and to the same extent as if the preceding subsections of this section had not been enacted."
 

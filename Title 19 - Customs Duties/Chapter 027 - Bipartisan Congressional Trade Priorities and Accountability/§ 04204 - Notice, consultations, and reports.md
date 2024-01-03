@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) upon the request of a majority of the members of either the House Advisory Group on Negotiations or the Senate Advisory Group on Negotiations convened under section 4203(c) of this title, meet with the requesting congressional advisory group before initiating the negotiations or at any other time concerning the negotiations; and
 
-&emsp;&emsp;(D) after consulting with the Committee on Ways and Means and the Committee on Finance, and at least 30 calendar days before initiating negotiations with a country, publish on a publicly available Internet website of the Office of the United States Trade Representative, and regularly update thereafter, a detailed and comprehensive summary of the specific objectives with respect to the negotiations, and a description of how the agreement, if successfully concluded, willfurther those objectives and benefit the United States.
+&emsp;&emsp;(D) after consulting with the Committee on Ways and Means and the Committee on Finance, and at least 30 calendar days before initiating negotiations with a country, publish on a publicly available Internet website of the Office of the United States Trade Representative, and regularly update thereafter, a detailed and comprehensive summary of the specific objectives with respect to the negotiations, and a description of how the agreement, if successfully concluded, will further those objectives and benefit the United States.
 
 #### (2) Negotiations regarding agriculture
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(ii) consider whether the tariff levels bound and applied throughout the world with respect to imports from the United States are higher than United States tariffs and whether the negotiation provides an opportunity to address any such disparity; and
 
-&emsp;&emsp;&emsp;(iii) consult with the Committee on Ways and Means and the Committee on Agriculture of the House of Representatives and the Committee on Finance and the Committee on Agriculture, Nutrition, and Forestry of the Senate concerning the results of the assessment, whether it is appropriate for the United States to agree to further tariff reductions based on the conclusions reached in the assessment, and how all applicable negotiating objectives will be met.
+&emsp;&emsp;&emsp;(iii) consult with the Committee on Ways and Means and the Committee on Agriculture of the House of Representatives and the Committee on Finance and the Committee on Agriculture, Nutrition, and Forestry of the Senate concerning the results of the assessment, whether it is appropriate for the United States to agree tofurther tariff reductions based on the conclusions reached in the assessment, and how all applicable negotiating objectives will be met.
 
 #### (B) Special consultations on import sensitive products
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(A) assess whether United States tariffs on textile and apparel products that were bound under the Uruguay Round Agreements are lower than the tariffs bound by that country and whether the negotiation provides an opportunity to address any such disparity; and
 
-&emsp;&emsp;(B) consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate concerning the results of the assessment,whether it is appropriate for the United States to agree to further tariff reductions based on the conclusions reached in the assessment, and how all applicable negotiating objectives will be met.
+&emsp;&emsp;(B) consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate concerning the results of the assessment, whether it is appropriate for the United States to agree to further tariff reductions based on the conclusions reached in the assessment, and how all applicable negotiating objectives will be met.
 
 #### (5) Adherence to existing international trade and investment agreement obligations
 
@@ -144,7 +144,7 @@
 
 #### (2) Assessment
 
-&emsp;Not later than 105 calendar days after the President enters into a trade agreement under section 4202(b) of this title, the Commission shall submit to the President and Congress a report assessing the likely impact of the agreement on the United States economy as a whole and on specific industry sectors, including the impact the agreement will have on the gross domestic product, exports and imports, aggregate employment and employment opportunities, the production, employment, and competitive position of industries likely to be significantly affected by the agreement, and the interests of United States consumers.
+&emsp;Not later than 105 calendar days after the President enters into a trade agreement undersection 4202(b) of this title, the Commission shall submit to the President and Congress a report assessing the likely impact of the agreement on the United States economy as a whole and on specific industry sectors, including the impact the agreement will have on the gross domestic product, exports and imports, aggregate employment and employment opportunities, the production, employment, and competitive position of industries likely to be significantly affected by the agreement, and the interests of United States consumers.
 
 #### (3) Review of empirical literature
 
@@ -200,7 +200,7 @@
 
 #### (B) Agency staffing requirements
 
-&emsp;&emsp;A description of additional personnel required by Federal agencies responsible for monitoring and implementing the trade agreement, including personnel required by the Office of the United States Trade Representative, the Department of Commerce, the Department of Agriculture (including additional personnel required to implementsanitary and phytosanitary measures in order to obtain market access for United States exports), the Department of Homeland Security, the Department of the Treasury, and such other agencies as may be necessary.
+&emsp;&emsp;A description of additional personnel required by Federal agencies responsible for monitoring and implementing the trade agreement, including personnel required by the Office of the United States Trade Representative, the Department of Commerce, the Department of Agriculture (including additional personnel required to implement sanitary and phytosanitary measures in order to obtain market access for United States exports), the Department of Homeland Security, the Department of the Treasury, and such other agencies as may be necessary.
 
 #### (C) Customs infrastructure requirements
 

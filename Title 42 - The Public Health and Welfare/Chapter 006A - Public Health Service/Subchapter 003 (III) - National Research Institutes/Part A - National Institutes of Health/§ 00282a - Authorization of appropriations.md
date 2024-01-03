@@ -126,7 +126,7 @@ Section applicable only with respect to amounts appropriated for fiscal year 200
 
 #### Supplement, Not Supplant; Prohibition Against Transfer
 
-Pub. L. 113–94, §3(c), Apr. 3, 2014, 128 Stat. 1087, provided that: "Funds appropriated pursuant to section 402A(a)(2) of the Public Health Service Act \[42 U.S.C. 282a(a)(2)\], as added by subsection (b)—
+Pub. L. 113–94, §3(c), Apr. 3, 2014, 128 Stat. 1087, provided that: "Funds appropriated pursuant to section402A(a)(2) of the Public Health Service Act \[42 U.S.C. 282a(a)(2)\], as added by subsection (b)—
 
 &emsp;"(1) shall be used to supplement, not supplant, the funds otherwise allocated by the National Institutes of Health for pediatric research; and
 

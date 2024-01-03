@@ -64,7 +64,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (II) Training expenditures
 
-&emsp;&emsp;&emsp;&emsp;With respect to amounts expended during a fiscal year quarter beginning after September 30, 2009, and before October 1, 2011, for which the tribe, organization, or consortium is eligible for payments under subparagraph (A) or (B) of section 674(a)(3) of this title, not more than 12 percent of such amounts may consist of in-kind expenditures from third-party sources that are specified in such list and described in subclause (III).
+&emsp;&emsp;&emsp;&emsp;With respect to amounts expended during a fiscal year quarter beginning after September 30, 2009, and before October 1, 2011, for which the tribe, organization, or consortium is eligible for payments under subparagraph (A) or (B) of section 674(a)(3) of this title, not more than 12percent of such amounts may consist of in-kind expenditures from third-party sources that are specified in such list and described in subclause (III).
 
 #### (III) Sources described
 
@@ -110,7 +110,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a tribe, organization, or consortium that elects to provide services and programs specified in section 671(e)(1) of this title to children described in section 671(e)(2) of this title and their parents or kin caregivers under the plan, the Secretary shall specify the requirements applicable to the provision of the services and programs. The requirements shall, to the greatest extent practicable, be consistent with the requirements applicable to States under section 671(e) of this title and shall permit the provision of the services and programs in the form of services and programs that are adapted to the culture and context of the tribal communities served.
+&emsp;&emsp;&emsp;In the case of a tribe, organization, or consortium that elects to provide servicesand programs specified in section 671(e)(1) of this title to children described in section 671(e)(2) of this title and their parents or kin caregivers under the plan, the Secretary shall specify the requirements applicable to the provision of the services and programs. The requirements shall, to the greatest extent practicable, be consistent with the requirements applicable to States under section 671(e) of this title and shall permit the provision of the services and programs in the form of services and programs that are adapted to the culture and context of the tribal communities served.
 
 #### (ii) Performance measures
 
@@ -140,7 +140,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (e) Nonapplication to cooperative agreements and contracts
 
-Any cooperative agreement or contract entered into between an Indian tribe, a tribal organization, or a tribal consortium and a State for the administration or payment of funds under this part that is in effect as of October 7, 2008, shall remain in full force and effect, subject to the right of either party to the agreement or contract to revoke or modify the agreement or contract pursuant to the terms of the agreement or contract. Nothing in this section shall be construed as affecting the authority for an Indian tribe, a tribal organization, or a tribal consortium and a State to enter into a cooperativeagreement or contract for the administration or payment of funds under this part.
+Any cooperative agreement or contract entered into between an Indian tribe, a tribal organization, or a tribal consortium and a State for the administration or payment of funds under this part that is in effect as of October 7, 2008, shall remain in full force and effect, subject to the right of either party to the agreement or contract to revoke or modify the agreement or contract pursuant to the terms of the agreement or contract. Nothing in this section shall be construed as affecting the authority for an Indian tribe, a tribal organization, or a tribal consortium and a State to enter into a cooperative agreement or contract for the administration or payment of funds under this part.
 
 #### (f) John H. Chafee Foster Care Independence Program
 
@@ -156,7 +156,7 @@ Nothing in this section shall be construed as affecting the application of secti
 
 #### References in Text
 
-Section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008, referred to in subsec. (c)(1)(D)(iii)(I), (iv), (v), is section 301(e)(2) of Pub. L. 110–351, which is set out as a note under section 671 of this title.
+Section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008, referred to insubsec. (c)(1)(D)(iii)(I), (iv), (v), is section 301(e)(2) of Pub. L. 110–351, which is set out as a note under section 671 of this title.
 
 #### Amendments
 

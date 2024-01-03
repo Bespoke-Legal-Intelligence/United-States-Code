@@ -50,7 +50,7 @@ For purposes of this section, the term "United States" means the 50 States and t
 
 &emsp;Any amount so reallotted to a State is deemed part of the allotment of the State under this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §423, formerly §421, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 912; amended Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 516; Pub. L. 100–203, title IX, §9135(b)(2), Dec. 22, 1987, 101 Stat. 1330–315; renumbered §423 and amended Pub. L. 109–288, §§6(b)(2), (d), 11(a)(1), Sept. 28, 2006, 120 Stat. 1244, 1246, 1255; Pub. L. 112–34, title I, §101(d), Sept. 30, 2011, 125 Stat. 371; Pub. L. 117–348, title I, §101(b), Jan. 5, 2023, 136 Stat. 6215.)
+(Aug. 14, 1935, ch. 531, title IV, §423, formerly §421, as added Pub. L. 90–248, title II, §240(c),Jan. 2, 1968, 81 Stat. 912; amended Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 516; Pub. L. 100–203, title IX, §9135(b)(2), Dec. 22, 1987, 101 Stat. 1330–315; renumbered §423 and amended Pub. L. 109–288, §§6(b)(2), (d), 11(a)(1), Sept. 28, 2006, 120 Stat. 1244, 1246, 1255; Pub. L. 112–34, title I, §101(d), Sept. 30, 2011, 125 Stat. 371; Pub. L. 117–348, title I, §101(b), Jan. 5, 2023, 136 Stat. 6215.)
 
 #### <b>Editorial Notes</b>
 

@@ -14,7 +14,7 @@ If—
 
 &emsp;&emsp;(D) fail to allow fishing vessels of the United States equitable access to fish subject to such country's exclusive fishery management authority;
 
-> the Secretary of State, unless there is clear and convincing credible evidence that the seizure did not meet the requirements under paragraph (1) or (2), as the case may be, shall immediately take such steps as are necessary—
+> the Secretary of State, unless there is clear and convincing credible evidence that the seizure did not meet the requirements under paragraph (1)or (2), as the case may be, shall immediately take such steps as are necessary—
 
 &emsp;(i) for the protection of such vessel and for the health and welfare of its crew;
 

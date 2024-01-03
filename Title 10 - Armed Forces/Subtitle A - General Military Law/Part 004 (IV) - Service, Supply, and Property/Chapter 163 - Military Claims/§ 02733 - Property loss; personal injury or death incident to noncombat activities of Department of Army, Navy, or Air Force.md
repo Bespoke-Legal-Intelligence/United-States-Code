@@ -32,11 +32,11 @@
 
 (f) For the purposes of this section, a member of the National Oceanic and Atmospheric Administration or of the Public Health Service who is serving with the Navy or Marine Corps shall be treated as if he were a member of that armed force.
 
-(g) Under regulations prescribed by the Secretary concerned, an officer or employee under the jurisdiction of the Secretary may settle a claim that otherwise would be payable under this section in an amount not to exceed $25,000. A decision of the officer or employee who makes a final settlement decision under this section may be appealed by the claimant to the Secretary concerned or an officer or employee designated by the Secretary for that purpose.
+(g) Under regulations prescribed by the Secretary concerned, an officer or employee underthe jurisdiction of the Secretary may settle a claim that otherwise would be payable under this section in an amount not to exceed $25,000. A decision of the officer or employee who makes a final settlement decision under this section may be appealed by the claimant to the Secretary concerned or an officer or employee designated by the Secretary for that purpose.
 
 (h) Under such regulations as the Secretary of Defense may prescribe, he or his designee has the same authority as the Secretary of a military department under this section with respect to the settlement of claims based on damage, loss, personal injury, or death caused by a civilian officer or employee of the Department of Defense acting within the scope of his employment or otherwise incident to noncombat activities of that department.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 153; Pub. L. 85–729, §1, Aug. 23, 1958, 72 Stat. 813; Pub. L. 85–861, §1(54), Sept. 2, 1958, 72 Stat. 1461; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–522, Sept. 26, 1968, 82 Stat. 875; Pub. L. 90–525, §§1, 3–5, Sept. 26, 1968, 82 Stat. 877, 878; Pub. L. 91–312, §2, July 8, 1970, 84 Stat. 412; Pub. L.93–336, §1, July 8, 1974, 88 Stat. 291; Pub. L. 96–513, title V, §511(94), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 98–564, §1, Oct. 30, 1984, 98 Stat. 2918; Pub. L. 104–316, title II, §202(e), Oct. 19, 1996, 110 Stat. 3842; Pub. L. 116–283, div. A, title IX, §924(b)(2)(A)(ix), Jan. 1, 2021, 134 Stat. 3821.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 153; Pub. L. 85–729, §1, Aug. 23, 1958, 72 Stat. 813; Pub. L. 85–861, §1(54), Sept. 2, 1958, 72 Stat. 1461; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–522, Sept. 26, 1968, 82 Stat. 875; Pub. L. 90–525, §§1, 3–5, Sept. 26, 1968, 82 Stat. 877, 878; Pub. L. 91–312, §2, July 8, 1970, 84 Stat. 412; Pub. L. 93–336, §1, July 8, 1974, 88 Stat. 291; Pub. L. 96–513, title V, §511(94), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 98–564, §1, Oct. 30, 1984, 98 Stat. 2918; Pub. L. 104–316, title II, §202(e), Oct. 19, 1996, 110 Stat. 3842; Pub. L. 116–283, div. A, title IX, §924(b)(2)(A)(ix), Jan. 1, 2021, 134 Stat. 3821.)
 
 Historical and Revision Notes<br>1956
 
@@ -162,7 +162,7 @@ Subsec. (g). Pub. L. 93–336, §1(3), substituted "$5,000" for "$2,500".
 
 Subsec. (d). Pub. L. 91–312, §2(b), substituted "$15,000" for "$5,000" wherever appearing.
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–525, §1, substituted "Secretary concerned" for "Secretary of a military department", and authorized the Chief Legal Officer of the Coast Guard to settle claims, settlement of claims for damage or loss to personal property in possession of the Coast Guard, and settlements when the torts are caused by civilian officers or employees and members of the Coast Guard when acting within scope of employment or otherwise incident to noncombat activities of the Coast Guard.
+<b>1968</b>—Subsec. (a). Pub. L. 90–525, §1, substituted "Secretary concerned" for "Secretary of a military department", and authorized the Chief Legal Officer of the Coast Guard to settle claims, settlement of claims for damage or loss to personal property in possession of theCoast Guard, and settlements when the torts are caused by civilian officers or employees and members of the Coast Guard when acting within scope of employment or otherwise incident to noncombat activities of the Coast Guard.
 
 Subsec. (b)(4). Pub. L. 90–522, §1(1), authorized application of local law in determining effect of claimant's contributory negligence.
 
@@ -176,7 +176,7 @@ Subsec. (h). Pub. L. 90–525, §4, added subsec. (h).
 
 <b>1966</b>—Subsec. (f). Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey".
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–729, §1(1)(A), substituted "the Judge Advocate General of an armed force under his jurisdiction, if designated by him, may settle, and pay in an amount not more than $5,000" for "any officerdesignated by him may settle, and pay in an amount not more than $1,000".
+<b>1958</b>—Subsec. (a). Pub. L. 85–729, §1(1)(A), substituted "the Judge Advocate General of an armed force under his jurisdiction, if designated by him, may settle, and pay in an amount not more than $5,000" for "any officer designated by him may settle, and pay in an amount not more than $1,000".
 
 Subsec. (b). Pub. L. 85–861, §1(54)(A), (B), in cl. (1), substituted "two years" for "one year" in three places and included claims accruing in time of armed conflict, and inserted sentence providing for the determination of dates of the beginning and ending of an armed conflict.
 

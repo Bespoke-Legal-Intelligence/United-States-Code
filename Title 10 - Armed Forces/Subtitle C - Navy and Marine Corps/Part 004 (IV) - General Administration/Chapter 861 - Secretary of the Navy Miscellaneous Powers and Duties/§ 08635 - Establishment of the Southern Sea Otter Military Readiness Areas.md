@@ -44,7 +44,7 @@ Treatment as species proposed to be listed.—For purposes of conducting a milit
 
 (c)
 
-Removal.—Nothing in this section or any other Federal law shall be construed to requirethat any southern sea otter located within the Southern Sea Otter Military Readiness Areas be removed from the Areas.
+Removal.—Nothing in this section or any other Federal law shall be construed to require that any southern sea otter located within the Southern Sea Otter Military Readiness Areas be removed from the Areas.
 
 (d)
 

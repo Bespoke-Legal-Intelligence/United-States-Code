@@ -38,7 +38,7 @@
 
 #### (5) Individual account plan
 
-&emsp;For purposes of this subsection, the term "individual account plan" has the meaningprovided in section 1002(34) of title 29, except that such term shall not include a one-participant retirement plan (within the meaning of section 1021(i)(8)(B) of title 29).
+&emsp;For purposes of this subsection, the term "individual account plan" has the meaning provided in section 1002(34) of title 29, except that such term shall not include a one-participant retirement plan (within the meaning of section 1021(i)(8)(B) of title 29).
 
 #### (6) Notice to directors, executive officers, and the Commission
 

@@ -122,7 +122,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(C) to assist the Government of Nepal in maintaining publication on the Internet of all trade regulations, forms for exporters and importers, tax and tariff rates, and other documentation relating to exporting goods and developing a robust public-private dialogue, through its National Trade Facilitation Committee, for Nepal to identify timelines for implementation of key reforms and solutions, as provided for under the Agreement on Trade Facilitation of the World Trade Organization; and
 
-&emsp;&emsp;(D) to increase access to guides for importers and exporters, through publication of such guides on the Internet, including rulesand documentation for United States tariff preference programs.
+&emsp;&emsp;(D) to increase access to guides for importers and exporters, through publication of such guides on the Internet, including rules and documentation for United States tariff preference programs.
 
 #### (e) Reporting requirement
 
@@ -152,7 +152,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (c)(
 
 #### Delegation of Functions
 
-Functions of President under subsec. (d) of this section assigned to the Administrator of the United States Agency for International Development, in consultation with the Secretary of State and the United States Trade Representative, and under subsec. (e) of this section assigned to the United States Trade Representative, in consultation with the Secretary of State, see Ex. Ord. No. 13733, §1(c), (d), July 22, 2016, 81 F.R. 49515, set out as a note under section 4421 of this title.
+Functions of President under subsec. (d) of this section assigned to the Administrator of the United StatesAgency for International Development, in consultation with the Secretary of State and the United States Trade Representative, and under subsec. (e) of this section assigned to the United States Trade Representative, in consultation with the Secretary of State, see Ex. Ord. No. 13733, §1(c), (d), July 22, 2016, 81 F.R. 49515, set out as a note under section 4421 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

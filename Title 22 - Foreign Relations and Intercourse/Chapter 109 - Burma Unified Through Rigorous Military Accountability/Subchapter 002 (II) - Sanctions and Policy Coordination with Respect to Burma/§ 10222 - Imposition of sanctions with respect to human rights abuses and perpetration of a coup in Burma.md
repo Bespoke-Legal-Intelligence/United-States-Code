@@ -50,7 +50,7 @@ The President may impose the sanctions described in subsection (d) with respect 
 
 &emsp;&emsp;(D) the orchestration of arbitrary detention or torture in Burma or other serious human rights abuses in Burma; or
 
-#### (5) any Burmese entity that provides materiel to the Burmese military.
+&emsp;(5) any Burmese entity that provides materiel to the Burmese military.
 
 #### (d) Sanctions described
 
@@ -58,7 +58,7 @@ The sanctions described in this subsection are the following:
 
 #### (1) Property blocking
 
-&emsp;The President may exercise all powers granted to the President by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of the foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+&emsp;The President may exercise all powers granted to the President by the InternationalEmergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of the foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
 
 #### (2) Foreign exchange
 
@@ -148,7 +148,7 @@ The President may, on a case-by-case basis waive the application of sanctions or
 
 #### (2) Penalties
 
-&emsp;The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulations promulgated under this section to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act \[50 U.S.C. 1705(a)\].
+&emsp;The penalties provided for in subsections (b) and (c) of section 206 of the InternationalEmergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulations promulgated under this section to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act \[50 U.S.C. 1705(a)\].
 
 #### (i) Report
 

@@ -6,7 +6,7 @@ General Authority.—With the approval of the President, the Secretary of the Tr
 
 (b)
 
-Providing Information.—To carry out subsection (a), the Secretary may require a person making a shipment of valuables or a claim for replacement to make a declaration or to provide other information the Secretary considers necessary.
+Providing Information.—To carry out subsection (a), the Secretary may require a person making a shipment of valuables or a claim for replacement to make a declaration or to provideother information the Secretary considers necessary.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1283.)
 

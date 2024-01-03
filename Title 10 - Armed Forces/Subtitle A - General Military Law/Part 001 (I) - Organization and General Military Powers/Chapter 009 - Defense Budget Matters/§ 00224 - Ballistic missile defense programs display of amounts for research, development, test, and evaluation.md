@@ -22,7 +22,7 @@ Notification of Transfer.—Before responsibility for a ballistic missile defens
 
 (d)
 
-Conforming Budget and Planning Transfers.—When a ballistic missile defense program is transferred from the Missile Defense Agency to the Secretary of a military department in accordance with this section, the Secretary of Defense shall ensure that all appropriate conforming changes are made to proposed or projected funding allocations in the future-yearsdefense program under section 221 of this title and other Department of Defense program, budget, and planning documents.
+Conforming Budget and Planning Transfers.—When a ballistic missile defense program is transferred from the Missile Defense Agency to the Secretary of a military department in accordance with this section, the Secretary of Defense shall ensure that all appropriate conforming changes are made to proposed or projected funding allocations in the future-years defense program under section 221 of this title and other Department of Defense program, budget, and planning documents.
 
 (e)
 

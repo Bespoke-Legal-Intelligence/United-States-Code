@@ -38,7 +38,7 @@
 | [1056a.](%C2%A7%2001056a%20-%20Reintegration%20of%20recovered%20Department%20of%20Defense%20personnel%3B%20post-isolation%20support%20activities%20for%20other%20recovered%20personnel.md) | Reintegration of recovered Department of Defense personnel; post-isolation support activities for other recovered personnel. |
 | [1057\.](%C2%A7%2001057%20-%20Use%20of%20armed%20forces%20insignia%20on%20State%20license%20plates.md) | Use of armed forces insignia on State license plates. |
 | [1058\.](%C2%A7%2001058%20-%20Responsibilities%20of%20military%20law%20enforcement%20officials%20at%20scenes%20of%20domestic%20violence.md) | Responsibilities of military law enforcement officials at scenes of domestic violence. |
-| [1059\.](%C2%A7%2001059%20-%20Dependents%20of%20members%20separated%20for%20dependent%20abuse%20transitional%20compensation%3B%20commissary%20and%20exchange%20benefits.md) | Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits. |
+| [1059\.](%C2%A7%2001059%20-%20Dependents%20of%20members%20separated%20for%20dependent%20abuse%20transitional%20compensation%3B%20commissary%20and%20exchange%20benefits%3B%20lodging%20expenses.md) | Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits; lodging expenses. |
 | [1060\.](%C2%A7%2001060%20-%20Military%20service%20of%20retired%20members%20with%20newly%20democratic%20nations%20consent%20of%20Congress.md) | Military service of retired members with newly democratic nations: consent of Congress. |
 | [1060a.](%C2%A7%2001060a%20-%20Special%20supplemental%20food%20program.md) | Special supplemental food program. |
 | [1060b.](%C2%A7%2001060b%20-%20Military%20ID%20cards%20dependents%20and%20survivors%20of%20retirees.md) | Military ID cards: dependents and survivors of retirees. |
@@ -49,6 +49,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title VI, §632(1), Dec. 22, 2023, 137 Stat. 296, inserted "; lodging expenses" after "benefits" in item 1059. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title V, §532(b), Dec. 27, 2021, 135 Stat. 1695, added item 1044f.
 
@@ -74,7 +76,7 @@ Pub. L. 110–181, div. A, title VI, §671(b)(2), title XII, §1203(e)(2), Jan. 
 
 <b>2002</b>—Pub. L. 107–314, div. A, title XII, §1201(a)(2), Dec. 2, 2002, 116 Stat. 2663, added item 1051a.
 
-<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title V, §§551(b), 579(c)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–125, 1654A–142, added items 1044d, 1052, 1053, and 1053a, and struck out former items 1052 "Reimbursement for adoption expenses" and 1053 "Reimbursement for financialinstitution charges incurred because of Government error in direct deposit of pay".
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title V, §§551(b), 579(c)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–125, 1654A–142, added items 1044d, 1052, 1053, and 1053a, and struck out former items 1052 "Reimbursement for adoption expenses" and 1053 "Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay".
 
 <b>1997</b>—Pub. L. 105–85, div. A, title V, §593(a)(2), Nov. 18, 1997, 111 Stat. 1763, added item 1033.
 
@@ -276,7 +278,7 @@ Records.—Not later than 90 days after the date of enactment of this Act, the S
 
 Rule of Construction.—Subsection (a) shall not be construed to limit the authority of the Secretary of Defense to—
 
-&emsp;"(1) create or maintain records relating to, or regulate the possession, carrying, or other use of a firearm, ammunition, or other weapon by a member ofthe Armed Forces or civilian employee of the Department of Defense while—
+&emsp;"(1) create or maintain records relating to, or regulate the possession, carrying, or other use of a firearm, ammunition, or other weapon by a member of the Armed Forces or civilian employee of the Department of Defense while—
 
 &emsp;&emsp;"(A) engaged in official duties on behalf of the Department of Defense; or
 
@@ -390,7 +392,7 @@ Contingency Operation Defined.—In this section, the term 'contingency operatio
 - [&sect; 01056a - Reintegration of recovered Department of Defense personnel; post-isolation support activities for other recovered personnel](%C2%A7%2001056a%20-%20Reintegration%20of%20recovered%20Department%20of%20Defense%20personnel%3B%20post-isolation%20support%20activities%20for%20other%20recovered%20personnel.md)
 - [&sect; 01057 - Use of armed forces insignia on State license plates](%C2%A7%2001057%20-%20Use%20of%20armed%20forces%20insignia%20on%20State%20license%20plates.md)
 - [&sect; 01058 - Responsibilities of military law enforcement officials at scenes of domestic violence](%C2%A7%2001058%20-%20Responsibilities%20of%20military%20law%20enforcement%20officials%20at%20scenes%20of%20domestic%20violence.md)
-- [&sect; 01059 - Dependents of members separated for dependent abuse transitional compensation; commissary and exchange benefits](%C2%A7%2001059%20-%20Dependents%20of%20members%20separated%20for%20dependent%20abuse%20transitional%20compensation%3B%20commissary%20and%20exchange%20benefits.md)
+- [&sect; 01059 - Dependents of members separated for dependent abuse transitional compensation; commissary and exchange benefits; lodging expenses](%C2%A7%2001059%20-%20Dependents%20of%20members%20separated%20for%20dependent%20abuse%20transitional%20compensation%3B%20commissary%20and%20exchange%20benefits%3B%20lodging%20expenses.md)
 - [&sect; 01060 - Military service of retired members with newly democratic nations consent of Congress](%C2%A7%2001060%20-%20Military%20service%20of%20retired%20members%20with%20newly%20democratic%20nations%20consent%20of%20Congress.md)
 - [&sect; 01060a - Special supplemental food program](%C2%A7%2001060a%20-%20Special%20supplemental%20food%20program.md)
 - [&sect; 01060b - Military ID cards dependents and survivors of retirees](%C2%A7%2001060b%20-%20Military%20ID%20cards%20dependents%20and%20survivors%20of%20retirees.md)

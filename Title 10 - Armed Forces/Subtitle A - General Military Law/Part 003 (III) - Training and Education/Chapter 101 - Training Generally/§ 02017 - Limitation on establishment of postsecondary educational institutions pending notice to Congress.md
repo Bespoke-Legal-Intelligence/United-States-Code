@@ -14,5 +14,5 @@ Postsecondary Educational Institution Defined.—In this section, the term "post
 
 #### Applicability
 
-Pub. L. 116–92, div. A, title V, §553(b)(3), Dec. 20, 2019, 133 Stat. 1387, provided that: "Section 2017 of title 10, United States Code, as added by paragraph (1), shall apply with respect to postsecondary educational institutions intended to be established by the Secretary of Defense on or after the date of the enactment of this Act \[Dec. 20, 2019\]."
+Pub. L. 116–92, div. A, title V, §553(b)(3), Dec. 20, 2019, 133 Stat. 1387, provided that: "Section 2017 of title 10,United States Code, as added by paragraph (1), shall apply with respect to postsecondary educational institutions intended to be established by the Secretary of Defense on or after the date of the enactment of this Act \[Dec. 20, 2019\]."
 

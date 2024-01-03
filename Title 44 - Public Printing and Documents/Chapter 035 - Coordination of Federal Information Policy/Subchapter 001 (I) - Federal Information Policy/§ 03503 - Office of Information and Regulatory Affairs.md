@@ -10,7 +10,7 @@
 
 #### Prior Provisions
 
-A prior section 3503, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2814; amended Pub. L. 99–500, §101(m) \[title VIII, §813(a)\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–336, and Pub. L. 99–591, §101(m) \[title VIII, §813(a)\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–336, related to theestablishment of the Office of Information and Regulatory Affairs prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3503, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2814; amended Pub. L. 99–500, §101(m) \[title VIII, §813(a)\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–336, and Pub. L. 99–591, §101(m) \[title VIII, §813(a)\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–336, related to the establishment of the Office of Information and Regulatory Affairs prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3503, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, prescribed duties of Director of Bureau of the Budget, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3504 of this title.
 

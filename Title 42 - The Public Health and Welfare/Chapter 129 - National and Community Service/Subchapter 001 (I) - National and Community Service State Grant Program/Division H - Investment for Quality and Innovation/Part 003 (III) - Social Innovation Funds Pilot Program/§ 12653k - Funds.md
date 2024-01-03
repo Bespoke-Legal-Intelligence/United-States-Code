@@ -6,7 +6,7 @@ Congress finds the following:
 
 &emsp;(1) Social entrepreneurs and other nonprofit community organizations are developing innovative and effective solutions to national and local challenges.
 
-&emsp;(2) Increased public and private investment in replicating and expanding proven effective solutions, and supporting new solutions, developed by social entrepreneurs and other nonprofit community organizations could allow those entrepreneurs and organizations to replicate and expand proven initiatives, and support new initiatives, in communities.
+&emsp;(2) Increased public and private investment in replicating and expanding proven effectivesolutions, and supporting new solutions, developed by social entrepreneurs and other nonprofit community organizations could allow those entrepreneurs and organizations to replicate and expand proven initiatives, and support new initiatives, in communities.
 
 &emsp;(3) A network of Social Innovation Funds could leverage Federal investments to increase State, local, business, and philanthropic resources to replicate and expand proven solutions and invest in supporting new innovations to tackle specific identified community challenges.
 
@@ -106,11 +106,11 @@ To be eligible to receive a grant under subsection (d), an entity shall—
 
 #### (g) Application
 
-To be eligible to receive a grant under subsection (d) for national leveraging capital, an eligible entity shall submit an application to the Corporation at such time, in such manner, andcontaining such information as the Corporation may specify, including, at a minimum—
+To be eligible to receive a grant under subsection (d) for national leveraging capital, an eligible entity shall submit an application to the Corporation at such time, in such manner, and containing such information as the Corporation may specify, including, at a minimum—
 
 &emsp;(1) an assurance that the eligible entity will—
 
-&emsp;&emsp;(A) use the funds received through that capital in order to make subgrants to community organizations that will use the funds to replicate or expand proven initiatives, or support new initiatives, in low-income communities;
+&emsp;&emsp;(A) use the funds received through that capital in order to make subgrants to community organizations that will use the fundsto replicate or expand proven initiatives, or support new initiatives, in low-income communities;
 
 &emsp;&emsp;(B) in making decisions about subgrants for communities, consult with a diverse cross section of community representatives in the decisions, including individuals from the public, nonprofit private, and for-profit private sectors; and
 
@@ -250,7 +250,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 &emsp;&emsp;(F) specific evidence of how the community organization will meet the requirements for providing matching funds specified in subsection (k);
 
-&emsp;&emsp;(G) a description of how the community organization will sustain the replicated orexpanded initiative after the conclusion of the subgrant period; and
+&emsp;&emsp;(G) a description of how the community organization will sustain the replicated or expanded initiative after the conclusion of the subgrant period; and
 
 &emsp;&emsp;(H) any other information the eligible entity may require, including information necessary for the eligible entity to fulfill the requirements of subsection (g)(5).
 

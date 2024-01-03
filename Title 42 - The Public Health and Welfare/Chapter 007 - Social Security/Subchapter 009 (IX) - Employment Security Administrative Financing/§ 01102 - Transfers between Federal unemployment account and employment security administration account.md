@@ -32,7 +32,7 @@ A prior section 1102, act Aug. 14, 1935, ch. 531, title IX, §902, 49 Stat. 639,
 
 <b>1987</b>—Subsec. (a)(2). Pub. L. 100–203 substituted "five-eighths" for "one-eighth".
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–373, §304(a), inserted, in provisions preceding par. (1), reference to the retention of the entire amount of the excess in the employment security administration account or the transfer to the extended unemployment compensation account as provided in section 1101(f)(3) of this title and, in par. (2), substituted "one-eighth of 1 percent" for "four-tenths of 1 per centum".
+<b>1970</b>—Subsec. (a). Pub. L. 91–373, §304(a), inserted, in provisions preceding par. (1), reference to the retentionof the entire amount of the excess in the employment security administration account or the transfer to the extended unemployment compensation account as provided in section 1101(f)(3) of this title and, in par. (2), substituted "one-eighth of 1 percent" for "four-tenths of 1 per centum".
 
 Subsec. (c). Pub. L. 91–373, §304(b), added subsec. (c).
 

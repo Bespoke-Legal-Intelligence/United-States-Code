@@ -10,7 +10,7 @@ No covered person or service provider shall terminate or in any other way discri
 
 &emsp;(3) filed, instituted, or caused to be filed or instituted any proceeding under any Federal consumer financial law; or
 
-&emsp;(4) objected to, or refused to participate in, any activity, policy, practice, or assigned task that the employee (or other such person) reasonably believed to be in violation of any law,rule, order, standard, or prohibition, subject to the jurisdiction of, or enforceable by, the Bureau.
+&emsp;(4) objected to, or refused to participate in, any activity, policy, practice, or assigned task that the employee (or other such person) reasonably believed to be in violation of any law, rule, order, standard, or prohibition, subject to the jurisdiction of, or enforceable by, the Bureau.
 
 #### (b) Definition of covered employee
 
@@ -72,7 +72,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (A) Timing
 
-&emsp;&emsp;Not later than 120 days after the date of conclusion of any hearing under paragraph (2), the Secretary of Labor shall issue a final order providing the relief prescribed by this paragraph or denying the complaint. At any time before issuance of a final order, a proceeding under this subsection may be terminated on the basis of a settlement agreement entered into by the Secretary of Labor, the complainant, and the person alleged to have committed the violation.
+&emsp;&emsp;Not later than 120 days after the date of conclusion of any hearing under paragraph (2), the Secretary of Labor shall issue a final order providing the relief prescribed by this paragraph or denying the complaint. At any time before issuance of a final order, a proceeding under this subsection may be terminated on the basis of a settlement agreement entered into by the Secretary of Labor,the complainant, and the person alleged to have committed the violation.
 
 #### (B) Penalties
 
@@ -136,11 +136,11 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (1) No waiver of rights and remedies
 
-&emsp;Except as provided under paragraph (3), and notwithstanding any other provision of law, the rights and remedies provided for in this section may not be waived by any agreement, policy, form, or condition of employment, including by any predispute arbitration agreement.
+&emsp;Except as provided under paragraph (3), and notwithstanding any other provision of law,the rights and remedies provided for in this section may not be waived by any agreement, policy, form, or condition of employment, including by any predispute arbitration agreement.
 
 #### (2) No predispute arbitration agreements
 
-&emsp;Except as provided under paragraph (3), and notwithstanding any other provision of law,no predispute arbitration agreement shall be valid or enforceable to the extent that it requires arbitration of a dispute arising under this section.
+&emsp;Except as provided under paragraph (3), and notwithstanding any other provision of law, no predispute arbitration agreement shall be valid or enforceable to the extent that it requires arbitration of a dispute arising under this section.
 
 #### (3) Exception
 

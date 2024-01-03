@@ -8,7 +8,7 @@ There are authorized to be appropriated to carry out this part $1,000,000,000 fo
 
 #### Prior Provisions
 
-A prior section 7181, Pub. L. 89–10, title IV, §4301, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1773, which set forth short title of the Pro-Children Act of 2001, was renumbered section 8571 of Pub. L. 89–10 by Pub. L. 114–95, title IV, §4001(a)(4)(A), (B),\(C)(ii), title VIII, §8001(a)(9), Dec. 10, 2015, 129 Stat. 1966, 2088, 2089, and transferred to section 7971 of this title.
+A prior section 7181, Pub. L. 89–10, title IV, §4301, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1773, which set forth short title of the Pro-Children Act of 2001, was renumbered section 8571 of Pub. L. 89–10 by Pub. L. 114–95, title IV, §4001(a)(4)(A), (B), (C)(ii), title VIII, §8001(a)(9), Dec. 10, 2015, 129 Stat. 1966, 2088, 2089, and transferred to section 7971 of this title.
 
 A prior section 7182, Pub. L. 89–10, title IV, §4302, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1773, which related to definitions, was renumbered section 8572 of Pub. L. 89–10 by Pub. L. 114–95, title IV, §4001(a)(4)(A), (B), (C)(ii), title VIII, §8001(a)(9), Dec. 10, 2015, 129 Stat. 1966, 2088, 2089, and transferred to section 7972 of this title.
 

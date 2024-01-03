@@ -38,7 +38,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;(17) The term "person associated with an investment adviser" means any partner, officer, or director of such investment adviser (or any person performing similar functions), or any person directly or indirectly controlling or controlled by such investment adviser, including any employee of such investment adviser, except that for the purposes of section 80b–3 of this title (other than subsection (f) thereof), persons associated with an investment adviser whose functions are clerical or ministerial shall not be included in the meaning of such term. The Commission may by rules and regulations classify, for the purposes of any portion of portions of this subchapter, persons, including employees controlled by an investment adviser.
 
-&emsp;(18) "Security" means any note, stock, treasury stock, security future, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, any put, call, straddle, option, or privilege on any security (including a certificate of deposit) or on any group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, or, in general, any interest or instrument commonly known as a "security", or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guaranty of, or warrant or right to subscribe to or purchase any of the foregoing.
+&emsp;(18) "Security" means any note, stock, treasury stock, security future, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription,transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, any put, call, straddle, option, or privilege on any security (including a certificate of deposit) or on any group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, or, in general, any interest or instrument commonly known as a "security", or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guaranty of, or warrant or right to subscribe to or purchase any of the foregoing.
 
 &emsp;(19) "State" means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, or any other possession of the United States.
 
@@ -46,7 +46,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;(21) "Securities Act of 1933" \[15 U.S.C. 77a et seq.\], "Securities Exchange Act of 1934" \[15 U.S.C. 78a et seq.\], and "Trust Indenture Act of 1939" \[15 U.S.C. 77aaa et seq.\], mean those Acts, respectively, as heretofore or hereafter amended.
 
-&emsp;(22) "Business development company" means any company which is a business development company as defined in section 80a–2(a)(48) ofthis title and which complies with section 80a–54 of this title, except that—
+&emsp;(22) "Business development company" means any company which is a business development company as defined in section 80a–2(a)(48) of this title and which complies with section 80a–54 of this title, except that—
 
 &emsp;&emsp;(A) the 70 per centum of the value of the total assets condition referred to in sections 80a–2(a)(48) and 80a–54 of this title shall be 60 per centum for purposes of determining compliance therewith;
 
@@ -96,7 +96,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 #### (b) Applicability to Federal or State government, agency, or instrumentality, or to officers, agents, or employees thereof
 
-No provision in this subchapter shall apply to, or be deemed to include, the United States, a State, or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned directly or indirectly by any one or more of the foregoing, or any officer, agent, or employee of any of theforegoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
+No provision in this subchapter shall apply to, or be deemed to include, the United States, a State, or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned directly or indirectly by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
 
 #### (c) Consideration of promotion of efficiency, competition, and capital formation
 
@@ -242,7 +242,7 @@ Antifraud Authority.—A family office that would not be a family office, but fo
 
 #### Definitions
 
-Pub. L. 111–203, title IV, §402(b), July 21, 2010, 124 Stat. 1570, provided that: "As used in this title \[enacting sections 80b–18b and 80b–18c of this title, amending this section and sections 80b–3, 80b–3a, 80b–4, 80b–5, 80b–10, and 80b–11 of this title, and enacting provisionsset out as notes under this section and sections 77b and 80b–20 of this title\], the terms 'investment adviser' and 'private fund' have the same meanings as in section 202 of the Investment Advisers Act of 1940 \[15 U.S.C. 80b–2\], as amended by this title."
+Pub. L. 111–203, title IV, §402(b), July 21, 2010, 124 Stat. 1570, provided that: "As used in this title \[enacting sections 80b–18b and 80b–18c of this title, amending this section and sections 80b–3, 80b–3a, 80b–4, 80b–5, 80b–10, and 80b–11 of this title, and enacting provisions set out as notes under this section and sections 77b and 80b–20 of this title\], the terms 'investment adviser' and 'private fund' have the same meanings as in section 202 of the Investment Advisers Act of 1940 \[15 U.S.C. 80b–2\], as amended by this title."
 
 #### <b>Executive Documents</b>
 

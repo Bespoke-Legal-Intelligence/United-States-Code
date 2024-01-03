@@ -14,7 +14,7 @@ The exceptions provided in paragraphs (1), (2), and (3) of section 1244 of this 
 
 #### (d) "Ballistic knife" defined
 
-As used in this section, the term "ballistic knife" means a knife with a detachable bladethat is propelled by a spring-operated mechanism.
+As used in this section, the term "ballistic knife" means a knife with a detachable blade that is propelled by a spring-operated mechanism.
 
 (Pub. L. 85–623, §7, as added Pub. L. 99–570, title X, §10002, Oct. 27, 1986, 100 Stat. 3207–167; amended Pub. L. 100–690, title VI, §6472, Nov. 18, 1988, 102 Stat. 4379.)
 
@@ -30,5 +30,5 @@ Subsec. (b). Pub. L. 100–690, §6472(2), struck out "or State" after "Federal"
 
 #### Effective Date
 
-Pub. L. 99–570, title X, §10004, Oct. 27, 1986, 100 Stat. 3207–167, provided that: "The amendments made by this title \[enacting this section, amending section 1716 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 1241 of this title\] shall take effect 30 days after the date of enactment of this title \[Oct. 27, 1986\]."
+Pub. L. 99–570, title X, §10004, Oct. 27, 1986, 100 Stat. 3207–167, provided that: "The amendments made by thistitle \[enacting this section, amending section 1716 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 1241 of this title\] shall take effect 30 days after the date of enactment of this title \[Oct. 27, 1986\]."
 

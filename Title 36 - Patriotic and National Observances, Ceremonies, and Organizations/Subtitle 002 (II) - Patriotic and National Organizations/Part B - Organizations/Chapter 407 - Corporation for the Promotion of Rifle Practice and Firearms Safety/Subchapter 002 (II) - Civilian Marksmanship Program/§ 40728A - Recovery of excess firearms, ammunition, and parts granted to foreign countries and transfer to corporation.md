@@ -2,7 +2,7 @@
 
 (a)
 
-Authority to Recover.—The Secretary of the Army may recover from any country towhich surplus firearms, ammunition, repair parts, or other supplies described in section 40732(a) of this title are furnished on a grant basis under the conditions imposed by section 505 of the Foreign Assistance Act of 1961 (22 U.S.C. 2314) any such surplus firearms, ammunition, repair parts, or supplies that become excess to the needs of such country.
+Authority to Recover.—The Secretary of the Army may recover from any country to which surplus firearms, ammunition, repair parts, or other supplies described in section 40732(a) of this title are furnished on a grant basis under the conditions imposed by section 505 of the Foreign Assistance Act of 1961 (22 U.S.C. 2314) any such surplus firearms, ammunition, repair parts, or supplies that become excess to the needs of such country.
 
 (b)
 

@@ -32,7 +32,7 @@ Pub. L. 91–375, §14, Aug. 12, 1970, 84 Stat. 786, provided that:
 
 &emsp;"(5) that the traffic in such offensive advertisements is so large that individual citizens will be helpless to protect their privacy or their families without stronger and more effective Federal controls over the mailing of such matter.
 
-"(b) \[<i>Congressional Determination of Public Policy</i>\] On the basis of such findings, the Congress determines thatit is contrary to the public policy of the United States for the facilities and services of the United States Postal Service to be used for the distribution of such materials to persons who do not want their privacy invaded in this manner or to persons who wish to protect their minor children from exposure to such material."
+"(b) \[<i>Congressional Determination of Public Policy</i>\] On the basis of such findings, the Congress determines that it is contrary to the public policy of the United States for the facilities and services of the United States Postal Service to be used for the distribution of such materials to persons who do not want their privacy invaded in this manner or to persons who wish to protect their minor children from exposure to such material."
 
 \[Provisions of section 14 of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date not preceding section 101 of this title.\]
 

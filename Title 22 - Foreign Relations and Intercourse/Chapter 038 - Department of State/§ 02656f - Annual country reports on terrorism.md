@@ -22,7 +22,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;&emsp;(B) the extent to which the government of the foreign country is cooperating in preventing further acts of terrorism against United States citizens in the foreign country; and
 
-&emsp;(4) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the prevention of an act of international terrorism against such citizens or interests, the information described in paragraph (3)(B).
+&emsp;(4) with respect to each foreign country from which the United States Government hassought cooperation during the previous five years in the prevention of an act of international terrorism against such citizens or interests, the information described in paragraph (3)(B).
 
 #### (b) Provisions to be included in report
 

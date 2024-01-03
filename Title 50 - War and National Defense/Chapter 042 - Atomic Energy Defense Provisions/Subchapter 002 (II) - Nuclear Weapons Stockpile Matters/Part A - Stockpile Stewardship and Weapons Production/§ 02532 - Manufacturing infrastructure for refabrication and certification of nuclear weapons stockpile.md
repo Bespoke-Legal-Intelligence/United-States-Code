@@ -42,7 +42,7 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 #### Amendments
 
-<b>2019</b>—Subsec. (a)(1). Pub. L. 116–92, §3139(b)(3)(A), inserted "most recent" before "Nuclear Posture Review".
+<b>2019</b>—Subsec. (a)(1). Pub. L. 116–92, §3139(b)(3)(A), inserted "most recent" before "Nuclear Posture Review" in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 116–92, §3139(b)(3)(B)(i), substituted "National Security Complex" for "Plant".
 
@@ -80,7 +80,7 @@ Acceleration of Manufacturing.—The Administrator for Nuclear Security shall re
 
 "(b)
 
-Annual Briefing.—Not later than March 31, 2023, and annually thereafter through 2030, the Administrator shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a briefing on—
+Annual Briefing.—Not later than March 31, 2023, and annually thereafter through 2030, the Administrator shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on—
 
 &emsp;"(1) progress made in carrying out subsection (a);
 

@@ -22,7 +22,7 @@ Another prior section 3030p, Pub. L. 89–73, title III, §371, as added Pub. L.
 
 Section 3030q, Pub. L. 89–73, title III, §382, as added Pub. L. 102–375, title III, §320, Sept. 30, 1992, 106 Stat. 1243, defined "in-home services".
 
-Section 3030r, Pub. L. 89–73, title III, §383, as added Pub. L. 102–375, title III, §320, Sept. 30, 1992, 106 Stat. 1243, required that funds available under former part G of this subchapter be in addition to funds otherwise expended.
+Section 3030r, Pub. L. 89–73, title III, §383, as added Pub. L. 102–375, title III, §320, Sept. 30, 1992, 106 Stat.1243, required that funds available under former part G of this subchapter be in addition to funds otherwise expended.
 
 #### Amendments
 

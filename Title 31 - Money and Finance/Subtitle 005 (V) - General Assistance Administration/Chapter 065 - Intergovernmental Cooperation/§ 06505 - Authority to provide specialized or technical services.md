@@ -52,7 +52,7 @@ In subsection (a), the source provisions are consolidated to eliminate an unnece
 
 In subsection (b), the word "may" is substituted for "is authorized within his discretion" for clarity and to omit unnecessary words. The words "specialized or technical services" are omitted because of consolidation of the source provisions. The words "direct or indirect" are omitted as surplus.
 
-In subsection (c), the word "Payment" is substituted for "moneys" for consistency in the section. The words "All" and "or any bureau or other administrative division thereof" are omitted as surplus.
+In subsection (c), the word "Payment" is substituted for "moneys" for consistency in the section. The words"All" and "or any bureau or other administrative division thereof" are omitted as surplus.
 
 In subsection (d), the words "and does not supersede" are omitted as unnecessary. The words "authority under another law in effect on October 16, 1968" are substituted for "authority now possessed" for clarity. The words "by any Federal department or agency with respect to furnishing services, whether on a reimbursable or nonreimbursable basis, to State and local units of government" are omitted as unnecessary.
 

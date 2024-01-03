@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—For the purposes of the computation of the years of service of a member of the armed forces under a provision of this title providing for such computation to be made under this section, the years of service of the member are computed by adding—
+In General.—For the purposes of the computation of the years of service of a member ofthe armed forces under a provision of this title providing for such computation to be made under this section, the years of service of the member are computed by adding—
 
 &emsp;(1) his years of active service;
 
@@ -60,7 +60,7 @@ This amends 10:1405 to correct an inadvertent error in the codification of title
 
 <b>2001</b>—Subsec. (c)(1). Pub. L. 107–107 substituted "October 5, 1994," for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995,".
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–106, as amended by Pub. L. 104–201, substituted "Made Up or Excluded" for "Made Up" in heading, designated existing provisions as par. (1), substituted "section 972(a) of this title, or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after the date of theenactment of the National Defense Authorization Act for Fiscal Year 1995," for "section 972 of this title", and added par. (2).
+<b>1996</b>—Subsec. (c). Pub. L. 104–106, as amended by Pub. L. 104–201, substituted "Made Up or Excluded" for "Made Up" in heading, designated existing provisions as par. (1), substituted "section 972(a) of this title, or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995," for "section 972 of this title", and added par. (2).
 
 <b>1994</b>—Subsec. (a)(3). Pub. L. 103–337, §1662(j)(3), substituted "12733" for "1333" and "12731" for "1331".
 
@@ -84,7 +84,7 @@ Pub. L. 87–649 substituted "section 205(a)(7) and (8) of title 37" for "sectio
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section 972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
+Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -64,7 +64,7 @@ Amendment by Pub. L. 114–315 applicable to fiscal years beginning on and after
 
 Pub. L. 113–235, div. I, title II, §244(b), Dec. 16, 2014, 128 Stat. 2569, provided that: "Section 117 of title 38, United States Code, shall apply as follows:
 
-&emsp;"(1) With respect to an account described in paragraph (4), (5), or (6) of subsection (c) of such section, as redesignated by subsection (a) of this section, for each fiscal year beginning with fiscal year 2011.
+&emsp;"(1) With respect to an account described in paragraph (4), (5), or (6) of subsection (c) of such section,as redesignated by subsection (a) of this section, for each fiscal year beginning with fiscal year 2011.
 
 &emsp;"(2) With respect to an account described in paragraph (1), (2), or (3) of such subsection (c), as added by subsection (a) of this section, for each fiscal year beginning with 2017."
 
@@ -82,7 +82,7 @@ Reports.—
 
 &emsp;"(1)
 
-In general.—Not later than 120 days after the date of each year in 2011, 2012, and 2013, on which the President submits the budget request for the next fiscal year under section 1105 of title 31, United States Code, the Comptroller General shall submit to the Committees on Veterans' Affairs, Appropriations, andthe Budget of the Senate and the Committees on Veterans' Affairs, Appropriations, and the Budget of the House of Representatives and to the Secretary a report on the review conducted under subsection (a).
+In general.—Not later than 120 days after the date of each year in 2011, 2012, and 2013, on which the President submits the budget request for the next fiscal year under section 1105 of title 31, United States Code, the Comptroller General shall submit to the Committees on Veterans' Affairs, Appropriations, and the Budget of the Senate and the Committees on Veterans' Affairs, Appropriations, and the Budget of the House of Representatives and to the Secretary a report on the review conducted under subsection (a).
 
 &emsp;"(2)
 

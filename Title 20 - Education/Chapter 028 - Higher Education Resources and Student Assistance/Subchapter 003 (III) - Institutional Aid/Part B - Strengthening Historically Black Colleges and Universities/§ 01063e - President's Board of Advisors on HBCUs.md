@@ -24,7 +24,7 @@
 
 #### (A) Designation
 
-&emsp;&emsp;The President shall designate one member of the President's Board of Advisors to serveas its Chair, who shall help direct the Board's work in coordination with the Secretary and in consultation with the Executive Director.
+&emsp;&emsp;The President shall designate one member of the President's Board of Advisors to serve as its Chair, who shall help direct the Board's work in coordination with the Secretary and in consultation with the Executive Director.
 
 #### (B) Consultation
 

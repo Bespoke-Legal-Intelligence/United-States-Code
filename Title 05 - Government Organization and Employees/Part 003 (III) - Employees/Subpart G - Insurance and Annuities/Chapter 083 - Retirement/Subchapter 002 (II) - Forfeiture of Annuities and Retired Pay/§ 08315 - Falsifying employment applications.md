@@ -1,6 +1,6 @@
 ### §8315. Falsifying employment applications
 
-(a) An individual, or his survivor or beneficiary, may not be paid annuity or retired pay on the basis of the service of the individual which is creditable toward the annuity or retired pay, subject to the exceptions in section 8311(2) and (3) of this title, if the individual knowingly and willfully made or makes a false, fictitious, or fraudulent statement or representation, or knowingly and willfully concealed or conceals a material fact—
+(a) An individual, or his survivor or beneficiary, may not be paid annuity or retired payon the basis of the service of the individual which is creditable toward the annuity or retired pay, subject to the exceptions in section 8311(2) and (3) of this title, if the individual knowingly and willfully made or makes a false, fictitious, or fraudulent statement or representation, or knowingly and willfully concealed or conceals a material fact—
 
 &emsp;(1) before, on, or after September 1, 1954, concerning his—
 

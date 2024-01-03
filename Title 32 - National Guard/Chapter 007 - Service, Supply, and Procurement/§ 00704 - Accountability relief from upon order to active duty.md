@@ -1,6 +1,6 @@
 ### §704. Accountability: relief from upon order to active duty
 
-Upon ordering any part of the Army National Guard of the United States or the Air National Guard of the United States to active duty, the President may, upon such terms as he may prescribe, relieve the State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, orthe Virgin Islands, whichever is concerned, of accountability for property of the United States previously issued to it for the use of that part.
+Upon ordering any part of the Army National Guard of the United States or the Air National Guard of the United States to active duty, the President may, upon such terms as he may prescribe, relieve the State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands, whichever is concerned, of accountability for property of the United States previously issued to it for the use of that part.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 613; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 

@@ -32,7 +32,7 @@ For purposes of this section, the term "applicable financial statement" means, w
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided by the Secretary, if the taxpayer is a partner in a partnership, adjusted financial statement income of the taxpayer with respect to such partnership shall be adjusted to only take into account the taxpayer's distributive share of adjusted financial statement income of such partnership.
+&emsp;&emsp;&emsp;Except as provided by the Secretary, if the taxpayer is a partner in a partnership,adjusted financial statement income of the taxpayer with respect to such partnership shall be adjusted to only take into account the taxpayer's distributive share of adjusted financial statement income of such partnership.
 
 #### (ii) Adjusted financial statement income of partnerships
 
@@ -58,7 +58,7 @@ For purposes of this section, the term "applicable financial statement" means, w
 
 #### (5) Adjustments for certain taxes
 
-&emsp;Adjusted financial statement income shall be appropriately adjusted to disregard any Federal income taxes, or income, war profits, or excess profits taxes (within the meaning of section 901) with respect to a foreign country or possession of the United States, which are taken into account on the taxpayer's applicable financial statement. To the extent provided by the Secretary, the preceding sentence shall not apply to income, war profits, or excess profits taxes (within the meaning of section 901) that are imposed by a foreign country or possession of the United States and takeninto account on the taxpayer's applicable financial statement if the taxpayer does not choose to have the benefits of subpart A of part III of subchapter N for the taxable year. The Secretary shall prescribe such regulations or other guidance as may be necessary and appropriate to provide for the proper treatment of current and deferred taxes for purposes of this paragraph, including the time at which such taxes are properly taken into account.
+&emsp;Adjusted financial statement income shall be appropriately adjusted to disregard any Federal income taxes, or income, war profits, or excess profits taxes (within the meaning of section 901) with respect to a foreign country or possession of the United States, which are taken into account on the taxpayer's applicable financial statement. To the extent provided by the Secretary, the preceding sentence shall not apply to income, war profits, or excess profits taxes (within the meaning of section 901) that are imposed by a foreign country or possession of the United States and taken into account on the taxpayer's applicable financial statement if the taxpayer does not choose to have the benefits of subpart A of part III of subchapter N for the taxable year. The Secretary shall prescribe such regulations or other guidance as may be necessary and appropriate to provide for the proper treatment of current and deferred taxes for purposes of this paragraph, including the time at which such taxes are properly taken into account.
 
 #### (6) Adjustment with respect to disregarded entities
 

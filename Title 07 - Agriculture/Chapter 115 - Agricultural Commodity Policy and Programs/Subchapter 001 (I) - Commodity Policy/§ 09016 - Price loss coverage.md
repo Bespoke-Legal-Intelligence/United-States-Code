@@ -54,7 +54,7 @@ The effective price for a covered commodity for a crop year shall be the higher 
 
 #### (d) Payment amount
 
-If price loss coverage payments are required to be provided under this section for any of the 2014 through 2018 crop years for a covered commodity, the amount of the price loss coverage payment to be paid to the producers on a farm for the crop year shall be equal to the product obtained by multiplying—
+If price loss coverage payments are required to be provided under this section for any of the 2014 through 2024 crop years for a covered commodity, the amount of the price loss coverage payment to be paid to the producers on a farm for the crop year shall be equal to the product obtained by multiplying—
 
 &emsp;(1) the payment rate for the covered commodity under subsection (c);
 
@@ -64,7 +64,7 @@ If price loss coverage payments are required to be provided under this section f
 
 #### (e) Time for payments
 
-If the Secretary determines under this section that price loss coverage payments are required to be provided for the covered commodity, the payments shall be made beginning October 1, oras soon as practicable thereafter, after the end of the applicable marketing year for the covered commodity.
+If the Secretary determines under this section that price loss coverage payments are required to be provided for the covered commodity, the payments shall be made beginning October 1, or as soon as practicable thereafter, after the end of the applicable marketing year for the covered commodity.
 
 #### (f) Effective price for barley
 
@@ -108,11 +108,17 @@ In order to reflect price premiums, the Secretary shall provide a reference pric
 
 &emsp;&emsp;&emsp;(ii) the total United States cottonseed production, measured in pounds.
 
-(Pub. L. 113–79, title I, §1116, Feb. 7, 2014, 128 Stat. 668; Pub. L. 115–123, div. F, §60101(a)(8), Feb. 9, 2018, 132 Stat. 310; Pub. L. 115–334, title I, §1106, Dec. 20, 2018, 132 Stat. 4504.)
+(Pub. L. 113–79, title I, §1116, Feb. 7, 2014, 128 Stat. 668; Pub. L. 115–123, div. F, §60101(a)(8), Feb. 9, 2018, 132 Stat. 310; Pub. L. 115–334, title I, §1106, Dec. 20, 2018, 132 Stat. 4504; Pub. L. 118–22, div. B, title I, §102(c)(3), Nov. 17, 2023, 137 Stat. 116.)
 
 #### <b>Editorial Notes</b>
 
+#### Codification
+
+Provisions of law applicable to a covered commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that covered commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
 #### Amendments
+
+<b>2023</b>—Subsec. (d). Pub. L. 118–22 substituted "2024" for "2018".
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334, §1106(1), in introductory provisions, inserted "or (h)" after "subsection (a)" and substituted "determines that—" for "determines that, for any of the 2014 through 2018 crop years—", inserted par. (1) designation and introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1) and realigned margins, and added par. (2).
 
@@ -124,7 +130,11 @@ Subsec. (h). Pub. L. 115–123 added subsec. (h).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2023 Amendment
+
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–123 applicable beginning with the 2018 crop year, see section 60101(a)(13) of Pub. L. 115–123, set out as a note under section 9011 of this title.
+Amendment by Pub. L. 115–123 applicable beginning with the 2018 crop year, see section 60101(a)(13) of Pub.L. 115–123, set out as a note under section 9011 of this title.
 

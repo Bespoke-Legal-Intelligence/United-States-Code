@@ -34,7 +34,7 @@
 
 (3) The report under this subsection, together with the recommendation of the MRS Commission, shall be transmitted to Congress on November 1, 1989.
 
-(4)(A)(i) Each member of the MRS Commission shall be paid at the rate provided for level III of the Executive Schedule for each day (includingtravel time) such member is engaged in the work of the MRS Commission, and shall receive travel expenses, including per diem in lieu of subsistence in the same manner as is permitted under sections 5702 and 5703 of title 5.
+(4)(A)(i) Each member of the MRS Commission shall be paid at the rate provided for level III of the Executive Schedule for each day (including travel time) such member is engaged in the work of the MRS Commission, and shall receive travel expenses, including per diem in lieu of subsistence in the same manner as is permitted under sections 5702 and 5703 of title 5.
 
 (ii) The MRS Commission may appoint and fix compensation, not to exceed the rate of basic pay payable for GS–18 of the General Schedule, for such staff as may be necessary to carry out its functions.
 

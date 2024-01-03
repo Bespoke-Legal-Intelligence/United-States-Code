@@ -88,7 +88,7 @@ Subsec. (c)(1). Pub. L. 114–95, §5003(4)(C), substituted "Bureau of Indian Ed
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 114–95, set out as a note under section 6301 of this title.
 
 #### Rural and Low-Income School Program Adjustments
 
@@ -134,7 +134,7 @@ Limits on local educational agency awards.—For the purposes of making an award
 
 &emsp;"(2)
 
-Adjustments to state allocations.—In determining grant amounts for each State educational agency under section 5221(a)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7351(a)(2)) for each fiscal year during the period described in subsection (c), the Secretary of Education shall reduce the amount that the State educational agencywould otherwise receive by the combined amount of any reductions in grant awards required under paragraph (1) for such year for the local educational agencies described in subsection (a)(2) that are served by the State educational agency.
+Adjustments to state allocations.—In determining grant amounts for each State educational agency under section 5221(a)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7351(a)(2)) for each fiscal year during the period described in subsection (c), the Secretary of Education shall reduce the amount that the State educational agency would otherwise receive by the combined amount of any reductions in grant awards required under paragraph (1) for such year for the local educational agencies described in subsection (a)(2) that are served by the State educational agency.
 
 "(c)
 

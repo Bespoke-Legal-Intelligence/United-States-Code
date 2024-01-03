@@ -164,7 +164,7 @@ The Director may make an award under subsection (a) only if an application for t
 
 #### (m) Allocation of awards
 
-In making awards under subsection (a), the Director shall give priority to an applicant thatagrees to use the award for a program serving an area that is a rural area, an area designated under section 254e of this title by the Secretary as a health professional shortage area, or an area determined by the Director to have a shortage of family-based substance use disorder treatment options.
+In making awards under subsection (a), the Director shall give priority to an applicant that agrees to use the award for a program serving an area that is a rural area, an area designated under section 254e of this title by the Secretary as a health professional shortage area, or an area determined by the Director to have a shortage of family-based substance use disorder treatment options.
 
 #### (n) Duration of award
 
@@ -238,7 +238,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Director of the Center for Behavioral Health Statistics and Quality shall evaluatethe pilot program at the conclusion of the first grant cycle funded by the pilot program.
+&emsp;&emsp;The Director of the Center for Behavioral Health Statistics and Quality shall evaluate the pilot program at the conclusion of the first grant cycle funded by the pilot program.
 
 #### (B) Report
 
@@ -350,7 +350,7 @@ Subsec. (s). Pub. L. 114–198, §501(c)(1)(A), (2), redesignated subsec. (r) as
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date
 
@@ -392,7 +392,7 @@ In general.—Not later than 60 days after the date of enactment of this Act \[O
 
 &emsp;"(A) an update on the implementation of the recommendations in the strategy, including information regarding the agencies involved in the implementation; and
 
-&emsp;"(B) information on additional funding or authority the Secretary requires, if any, to implement thestrategy, which may include authorities needed to coordinate implementation of such strategy across the Department of Health and Human Services.
+&emsp;"(B) information on additional funding or authority the Secretary requires, if any, to implement the strategy, which may include authorities needed to coordinate implementation of such strategy across the Department of Health and Human Services.
 
 "(2)
 

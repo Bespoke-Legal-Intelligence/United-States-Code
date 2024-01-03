@@ -20,7 +20,7 @@
 
 &emsp;(4) other records that will make it easier to carry out an audit.
 
-(d) Records of a recipient related to an amount received from a joint management fund shall be made available to the head of the executive agency responsible for administering the fund and the Comptroller General for inspection and audit.
+(d) Records of a recipient related to an amount received from a joint management fund shall bemade available to the head of the executive agency responsible for administering the fund and the Comptroller General for inspection and audit.
 
 (e) For a project subject to a joint management fund, one non-Government share may be established conforming to—
 

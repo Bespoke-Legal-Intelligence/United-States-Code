@@ -70,7 +70,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L.105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1991 Amendment
 
@@ -82,5 +82,5 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Abolition of House Committee on the District of Columbia
 
-Committee on the District of Columbia of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on the District of Columbia treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on the District of Columbia of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on the District of Columbia treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 

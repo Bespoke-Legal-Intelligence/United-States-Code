@@ -164,7 +164,7 @@ Minimum training requirements.—The Superintendent shall ensure that all cadets
 
 &emsp;&emsp;(A) An initial training session, which shall occur not later than 7 days after a cadet's initial arrival at the Academy.
 
-&emsp;&emsp;(B) Additional training sessions, which shall occur biannually following the cadet'sinitial training session until the cadet graduates or leaves the Academy.
+&emsp;&emsp;(B) Additional training sessions, which shall occur biannually following the cadet's initial training session until the cadet graduates or leaves the Academy.
 
 (c)
 
@@ -228,7 +228,7 @@ Survey results.—Each report under paragraph (1) for an Academy program year th
 
 &emsp;&emsp;(B)
 
-Focus group results.—Each report under paragraph (1) for an Academy program year in which the Secretary is not required to conduct the survey described in subsection (c)(2) shall include the results of the focus group conducted in that program year under subsection (c)(3).
+Focus group results.—Each report under paragraph (1) for an Academy program year in which the Secretary is not required to conduct the survey described in subsection (c)(2) shall include the results of thefocus group conducted in that program year under subsection (c)(3).
 
 &emsp;(4)
 
@@ -264,7 +264,7 @@ Definitions.—In this section and section 51319 of this title:
 
 &emsp;(1)
 
-Dating violence; domestic violence; stalking.—The terms "dating violence", "domestic violence", and "stalking" have the meanings given those terms is <sup>1</sup> section40002(a) of the Violence Against Women Act of 1994 (42 U.S.C. 13925(a)).<sup>2</sup>
+Dating violence; domestic violence; stalking.—The terms "dating violence", "domestic violence", and "stalking" have the meanings given those terms is <sup>1</sup> section 40002(a) of the Violence Against Women Act of 1994 (42 U.S.C. 13925(a)).<sup>2</sup>
 
 &emsp;(2)
 
@@ -350,7 +350,7 @@ Pub. L. 115–232, div. C, title XXXV, §3507(b), Aug. 13, 2018, 132 Stat. 2310,
 
 #### Access of Academy Cadets to DOD SAFE or Equivalent Helpline
 
-Pub. L. 115–91, div. C, title XXXV, §3515(b), Dec. 12, 2017, 131 Stat. 1926, which directed the Secretary of Transportation to provide cadets at the United States Merchant Marine Academy access to the Department ofDefense SAFE Helpline or an equivalent helpline to report incidents of sexual harassment, dating violence, domestic violence, sexual assault, or stalking, was repealed by Pub. L. 117–263, div. C, title XXXV, §3513(c)(2), Dec. 23, 2022, 136 Stat. 3068, which also redesignated section 3515(c) of Pub. L. 115–91 (amending section 51319 of this title) as section 3515(b) of Pub. L. 115–91.
+Pub. L. 115–91, div. C, title XXXV, §3515(b), Dec. 12, 2017, 131 Stat. 1926, which directed the Secretary of Transportation to provide cadets at the United States Merchant Marine Academy access to the Department of Defense SAFE Helpline or an equivalent helpline to report incidents of sexual harassment, dating violence, domestic violence, sexual assault, or stalking, was repealed by Pub. L. 117–263, div. C, title XXXV, §3513(c), Dec. 23, 2022, 136 Stat. 3068, which also redesignated section 3515(c) of Pub. L. 115–91 (amending section 51319 of this title) as section 3515(b) of Pub. L. 115–91.
 
 #### Sea Year Compliance
 
@@ -416,7 +416,7 @@ Annual Report.—
 
 &emsp;"(2) Each report under paragraph (1) shall include, for the Academy program year covered by the report, the following:
 
-&emsp;&emsp;"(A) The number of sexual assaults, rapes, and other sexual offenses involving cadets or other Academy personnel that have been reported to Academy officials during the program year and, of those reported cases, the number that have been substantiated.
+&emsp;&emsp;"(A) The number of sexual assaults, rapes, and other sexual offenses involving cadets or otherAcademy personnel that have been reported to Academy officials during the program year and, of those reported cases, the number that have been substantiated.
 
 &emsp;&emsp;"(B) The policies, procedures, and processes implemented by the Superintendent and the leadership of the Academy in response to sexual harassment and sexual violence involving cadets or other Academy personnel during the program year.
 

@@ -28,7 +28,7 @@ The Director shall—
 
 &emsp;&emsp;(C) test such strategies and widely disseminate those strategies for which there is scientific evidence of effectiveness; and
 
-&emsp;&emsp;(D) determine the most effective approaches for disseminating research findingsto health disparity populations, including minority populations.
+&emsp;&emsp;(D) determine the most effective approaches for disseminating research findings to health disparity populations, including minority populations.
 
 #### (2) Use of certain strategies
 
@@ -50,7 +50,7 @@ The Director shall—
 
 #### (2) Examination of certain practices
 
-&emsp;The Director shall examine the practices of providers that have a record of reducing health disparities or have experience in providing culturally competent health services to minority health disparity populations or other health disparity populations. In examining such practices of providers funded under the authorities of this chapter, the Director shall consult with the heads of the relevant agencies of the Public Health Service.
+&emsp;The Director shall examine the practices of providers that have a record of reducing health disparities or have experience in providing culturally competent health services tominority health disparity populations or other health disparity populations. In examining such practices of providers funded under the authorities of this chapter, the Director shall consult with the heads of the relevant agencies of the Public Health Service.
 
 #### (3) Report
 

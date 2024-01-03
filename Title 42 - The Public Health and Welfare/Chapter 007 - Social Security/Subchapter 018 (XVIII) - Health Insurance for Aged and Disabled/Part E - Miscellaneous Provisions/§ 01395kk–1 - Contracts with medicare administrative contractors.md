@@ -90,7 +90,7 @@
 
 #### (B) Renewal of contracts
 
-&emsp;&emsp;The Secretary may renew a contract with a medicare administrative contractor under this section from term to term without regard to section 6101 of title 41 or any other provision of law requiring competition, if the medicare administrative contractor has met or exceeded the performance requirements applicable with respect to the contract and contractor, except that the Secretary shall provide for the application of competitive procedures under such a contract not less frequently than once every 10 years.
+&emsp;&emsp;The Secretary may renew a contract with a medicare administrative contractor under this section from term to term without regard to section 6101 of title 41 or any other provision of law requiring competition, if the medicare administrative contractor hasmet or exceeded the performance requirements applicable with respect to the contract and contractor, except that the Secretary shall provide for the application of competitive procedures under such a contract not less frequently than once every 10 years.
 
 #### (C) Transfer of functions
 
@@ -188,7 +188,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No medicare administrative contractor shall be liable to the United States for apayment by a certifying or disbursing officer unless, in connection with such payment, the medicare administrative contractor acted with reckless disregard of its obligations under its medicare administrative contract or with intent to defraud the United States.
+&emsp;&emsp;No medicare administrative contractor shall be liable to the United States for a payment by a certifying or disbursing officer unless, in connection with such payment, the medicare administrative contractor acted with reckless disregard of its obligations under its medicare administrative contract or with intent to defraud the United States.
 
 #### (B) Relationship to False Claims Act
 
@@ -276,7 +276,7 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### (3) Response to toll-free lines
 
-&emsp;The Secretary shall ensure that each medicare administrative contractor shall provide, for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A or enrolled under part B, or both, with respect to whom claims are submitted for claims processing, a toll-free telephone number at which such individuals, providers of services, and suppliers may obtain information regarding billing, coding, claims, coverage, and other appropriate information under this subchapter.
+&emsp;The Secretary shall ensure that each medicare administrative contractor shall provide,for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A or enrolled under part B, or both, with respect to whom claims are submitted for claims processing, a toll-free telephone number at which such individuals, providers of services, and suppliers may obtain information regarding billing, coding, claims, coverage, and other appropriate information under this subchapter.
 
 #### (4) Monitoring of contractor responses
 
@@ -310,7 +310,7 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### (1) In general
 
-&emsp;In order to reduce improper payments under this subchapter, each medicare administrative contractor shall establish and have in place an improper payment outreach and education program under which the contractor, through outreach, education, training, and technicalassistance or other activities, shall provide providers of services and suppliers located in the region covered by the contract under this section with the information described in paragraph (2). The activities described in the preceding sentence shall be conducted on a regular basis.
+&emsp;In order to reduce improper payments under this subchapter, each medicare administrative contractor shall establish and have in place an improper payment outreach and education program under which the contractor, through outreach, education, training, and technical assistance or other activities, shall provide providers of services and suppliers located in the region covered by the contract under this section with the information described in paragraph (2). The activities described in the preceding sentence shall be conducted on a regular basis.
 
 #### (2) Information to be provided through activities
 
@@ -488,7 +488,7 @@ Pub. L. 108–173, title IX, §911(a)(2), Dec. 8, 2003, 117 Stat. 2383, provided
 
 #### References
 
-Pub. L. 108–173, title IX, §911(e), Dec. 8, 2003, 117 Stat. 2386, provided that: "On and after the effective dateprovided under subsection (d)(1) \[set out above\], any reference to a fiscal intermediary or carrier under title XI or XVIII of the Social Security Act \[42 U.S.C. 1301 et seq., 1395 et seq.\] (or any regulation, manual instruction, interpretative rule, statement of policy, or guideline issued to carry out such titles) shall be deemed a reference to a medicare administrative contractor (as provided under section 1874A of the Social Security Act \[42 U.S.C. 1395kk–1\])."
+Pub. L. 108–173, title IX, §911(e), Dec. 8, 2003, 117 Stat. 2386, provided that: "On and after the effective date provided under subsection (d)(1) \[set out above\], any reference to a fiscal intermediary or carrier under title XI or XVIII of the Social Security Act \[42 U.S.C. 1301 et seq., 1395 et seq.\] (or any regulation, manual instruction, interpretative rule, statement of policy, or guideline issued to carry out such titles) shall be deemed a reference to a medicare administrative contractor (as provided under section 1874A of the Social Security Act \[42 U.S.C. 1395kk–1\])."
 
 #### Secretarial Submission of Legislative Proposal
 
@@ -526,7 +526,7 @@ In general.—The provisions of section 1874A(e)(2) of the Social Security Act \
 
 Deadline for initial evaluation.—In the case of such a fiscal intermediary or carrier with an agreement or contract under such respective section in effect as of the date of the enactment of this Act \[Dec. 8, 2003\], the first evaluation under section 1874A(e)(2)(A) of the Social Security Act \[42 U.S.C. 1395kk–1(e)(2)(A)\] (as added by subsection (a)), pursuant to paragraph (1), shall be completed (and a report on the evaluation submitted to the Secretary \[of Health and Human Services\]) by not later than 1 year after such date."
 
-Pub. L. 108–173, title IX, §921(b)(2), Dec. 8, 2003, 117 Stat. 2389, provided that: "The provisions of section 1874A(f) of the Social Security Act \[42 U.S.C. 1395kk–1(f)\], as added by paragraph (1), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions."
+Pub. L. 108–173, title IX, §921(b)(2), Dec. 8, 2003, 117 Stat. 2389, provided that: "The provisions of section 1874A(f) of the Social Security Act \[42 U.S.C. 1395kk–1(f)\], as added by paragraph (1), shall apply toeach fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions."
 
 Pub. L. 108–173, title IX, §921(c)(3), Dec. 8, 2003, 117 Stat. 2390, provided that: "The provisions of section 1874A(g) of the Social Security Act \[42 U.S.C. 1395kk–1(g)\], as added by paragraph (1), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions."
 
@@ -572,7 +572,7 @@ Length and consultation.—Each pilot project under this subsection shall—
 
 &emsp;"(3)
 
-Range of pilot projects.—Of the pilot projects conducted under this subsection with respectto proposed new or modified documentation guidelines—
+Range of pilot projects.—Of the pilot projects conducted under this subsection with respect to proposed new or modified documentation guidelines—
 
 &emsp;&emsp;"(A) at least one shall focus on a peer review method by physicians (not employed by a medicare contractor) which evaluates medical record information for claims submitted by physicians identified as statistical outliers relative to codes used for billing purposes for such services;
 
@@ -636,7 +636,7 @@ Report to congress.—
 
 &emsp;&emsp;"(A) Not later than October 1, 2005, the Secretary shall submit to Congress a report on the results of the study conducted under paragraph (1).
 
-&emsp;&emsp;"(B) The Medicare Payment Advisory Commission shall conduct an analysis of the results of the study included in the report under subparagraph (A) and shall submit a report on such analysis to Congress.
+&emsp;&emsp;"(B) The Medicare Payment Advisory Commission shall conduct an analysis of the results of thestudy included in the report under subparagraph (A) and shall submit a report on such analysis to Congress.
 
 "(e)
 

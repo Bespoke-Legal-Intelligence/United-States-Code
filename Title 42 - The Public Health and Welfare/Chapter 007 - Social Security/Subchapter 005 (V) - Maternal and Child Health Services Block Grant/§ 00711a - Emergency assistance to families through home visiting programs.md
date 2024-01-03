@@ -16,7 +16,7 @@ To be eligible to receive funds made available by subsection (a) of this section
 
 &emsp;&emsp;(B) when using funds to provide emergency supplies to eligible families receiving grant services under section 711 of this title, ensure coordination with local diaper banks to the extent practicable; and
 
-&emsp;(3) reaffirm that, in conducting the program, the entity will focus on priority populations (as defined in section 711(d)(4) of this title).
+&emsp;(3) reaffirm that, in conducting the program, the entity will focus on priority populations (as defined in section 711(d)(4) <sup>1</sup> of this title).
 
 #### (c) Uses of funds
 
@@ -30,7 +30,7 @@ An entity to which funds are provided under this section shall use the funds—
 
 &emsp;(4) for the acquisition by families served by programs under section 711 of this title of such technological means as are needed to conduct and support a virtual home visit;
 
-&emsp;(5) to provide emergency supplies (such as diapers and diapering supplies including diaper wipes and diaper cream, necessary to ensure that a child using a diaper is properly cleaned and protected from diaper rash, formula, food, water, hand soap and hand sanitizer) to an eligible family (as defined in section 711(l)(2) of this title);
+&emsp;(5) to provide emergency supplies (such as diapers and diapering supplies including diaper wipes and diaper cream, necessary to ensure that a child using a diaper is properly cleanedand protected from diaper rash, formula, food, water, hand soap and hand sanitizer) to an eligible family (as defined in section 711(l)(2) of this title);
 
 &emsp;(6) to coordinate with and provide reimbursement for supplies to diaper banks when using such entities to provide emergency supplies specified in paragraph (5); or
 
@@ -39,6 +39,10 @@ An entity to which funds are provided under this section shall use the funds—
 (Aug. 14, 1935, ch. 531, title V, §511A, as added Pub. L. 117–2, title IX, §9101, Mar. 11, 2021, 135 Stat. 123; amended Pub. L. 117–328, div. FF, title VI, §6101(f)(2)(B), Dec. 29, 2022, 136 Stat. 5962.)
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 711(d)(4) of this title, referred to in subsec. (b), was redesignated section 711(d)(5) of this title by Pub. L. 117–328, div. FF, title VI, §6101(h)(1)(B), Dec. 29, 2022, 136 Stat. 5963.
 
 #### Amendments
 
@@ -53,4 +57,6 @@ Amendment by Pub. L. 117–328 effective Oct. 1, 2022, see section 6101(i)(1) of
 #### Effective Date
 
 Pub. L. 117–2, title IX, §9101, Mar. 11, 2021, 135 Stat. 123, provided in part that this section is effective 1 day after the date of enactment of this Act (Mar. 11, 2021).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

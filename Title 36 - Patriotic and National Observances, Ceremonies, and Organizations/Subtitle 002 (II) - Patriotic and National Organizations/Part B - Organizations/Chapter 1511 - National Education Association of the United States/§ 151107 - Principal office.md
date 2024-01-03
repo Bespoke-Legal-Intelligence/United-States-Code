@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 June 30, 1906, ch. 3929, §8, 34 Stat. 807; June 14, 1937, ch. 336, §4, 50 Stat. 258.
 
-The words "activities of the corporation may be conducted" are substituted for "meetings of the corporation, its officers, committees, and departments, may be held, and . . . its business may be transacted" for consistency in the revised title and to eliminate unnecessary words.
+The words "activities of the corporation may be conducted" are substituted for "meetings of the corporation, its officers, committees, and departments, may beheld, and . . . its business may be transacted" for consistency in the revised title and to eliminate unnecessary words.
 

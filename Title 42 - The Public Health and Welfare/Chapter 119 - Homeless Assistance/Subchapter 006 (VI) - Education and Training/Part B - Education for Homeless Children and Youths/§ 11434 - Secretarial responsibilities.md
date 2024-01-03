@@ -12,7 +12,7 @@ The Secretary shall provide support and technical assistance to a State educatio
 
 #### (1) In general
 
-&emsp;The Secretary shall, before the next school year that begins after December 10, 2015, update and disseminate nationwide the public notice described in this subsection (as in effectprior to such date) of the educational rights of homeless children and youths.
+&emsp;The Secretary shall, before the next school year that begins after December 10, 2015, update and disseminate nationwide the public notice described in this subsection (as in effect prior to such date) of the educational rights of homeless children and youths.
 
 #### (2) Dissemination
 
@@ -36,7 +36,7 @@ The Secretary shall develop, issue, and publish in the Federal Register, not lat
 
 &emsp;(1) may assist local educational agencies to implement the provisions related to homeless children and youths amended by that Act; and
 
-&emsp;(2) may review and revise State policies and procedures that may present barriers to the identification of homeless children and youths, and the enrollment, attendance, and success of homeless children and youths in school.
+&emsp;(2) may review and revise State policies and procedures that may present barriers to theidentification of homeless children and youths, and the enrollment, attendance, and success of homeless children and youths in school.
 
 #### (h) Information
 
@@ -99,10 +99,6 @@ Subsec. (h)(1)(A). Pub. L. 114–95, §9104(6), substituted "primary nighttime r
 Subsec. (i). Pub. L. 114–95, §9104(7), substituted "December 10, 2015" for "January 8, 2002".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 

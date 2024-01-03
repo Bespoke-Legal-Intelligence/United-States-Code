@@ -10,7 +10,7 @@
 | [674\.](%C2%A7%2000674%20-%20Temporary%20administrative%20reassignment%20or%20removal%20of%20a%20member%20on%20active%20duty%20accused%20of%20committing%20a%20sexual%20assault%20or%20related%20offense.md) | Temporary administrative reassignment or removal of a member on active duty accused of committing a sexual assault or related offense. |
 | \[675 to 687. | Renumbered.\] |
 | [688\.](%C2%A7%2000688%20-%20Retired%20members%20authority%20to%20order%20to%20active%20duty%3B%20duties.md) | Retired members: authority to order to active duty; duties. |
-| [688a.](%C2%A7%2000688a%20-%20Retired%20members%20temporary%20authority%20to%20order%20to%20active%20duty%20in%20high-demand%2C%20low-density%20assignments.md) | Retired members: temporary authority to order to active duty in high-demand, low-density assignments. |
+| [688a.](%C2%A7%2000688a%20-%20Authority%20to%20order%20to%20active%20duty%20in%20high-demand%2C%20low-density%20assignments.md) | Authority to order to active duty in high-demand, low-density assignments. |
 | [689\.](%C2%A7%2000689%20-%20Retired%20members%20grade%20in%20which%20ordered%20to%20active%20duty%20and%20upon%20release%20from%20active%20duty.md) | Retired members: grade in which ordered to active duty and upon release from active duty. |
 | [690\.](%C2%A7%2000690%20-%20Retired%20members%20ordered%20to%20active%20duty%20limitation%20on%20number.md) | Retired members ordered to active duty: limitation on number. |
 | \[691. | Repealed.\] |
@@ -20,6 +20,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title V, §521(b), Dec. 22, 2023, 137 Stat. 249, substituted "Authority to order to active duty in high-demand, low-density assignments" for "Retired members: temporary authority to order to active duty in high-demand, low-density assignments" in item 688a.
 
 <b>2022</b>—Pub. L. 117–263, div. A, title IV, §402(a)(2), Dec. 23, 2022, 136 Stat. 2551, struck out item 691 "Permanent end strength levels to support the National Defense Strategy".
 
@@ -97,7 +99,7 @@ Pub. L. 102–25, title VII, §701(e)(3), Apr. 6, 1991, 105 Stat. 114, transferr
 - [&sect; 00686 - Renumbered &sect;12318](%C2%A7%2000686%20-%20Renumbered%20%C2%A712318.md)
 - [&sect; 00687 - Renumbered &sect;12319](%C2%A7%2000687%20-%20Renumbered%20%C2%A712319.md)
 - [&sect; 00688 - Retired members authority to order to active duty; duties](%C2%A7%2000688%20-%20Retired%20members%20authority%20to%20order%20to%20active%20duty%3B%20duties.md)
-- [&sect; 00688a - Retired members temporary authority to order to active duty in high-demand, low-density assignments](%C2%A7%2000688a%20-%20Retired%20members%20temporary%20authority%20to%20order%20to%20active%20duty%20in%20high-demand%2C%20low-density%20assignments.md)
+- [&sect; 00688a - Authority to order to active duty in high-demand, low-density assignments](%C2%A7%2000688a%20-%20Authority%20to%20order%20to%20active%20duty%20in%20high-demand%2C%20low-density%20assignments.md)
 - [&sect; 00689 - Retired members grade in which ordered to active duty and upon release from active duty](%C2%A7%2000689%20-%20Retired%20members%20grade%20in%20which%20ordered%20to%20active%20duty%20and%20upon%20release%20from%20active%20duty.md)
 - [&sect; 00690 - Retired members ordered to active duty limitation on number](%C2%A7%2000690%20-%20Retired%20members%20ordered%20to%20active%20duty%20limitation%20on%20number.md)
 - [&sect; 00691 - Repealed. Pub. L. 117&#8211;263, div. A, title IV, &sect;402(a)(1), Dec. 23, 2022, 136 Stat. 2551](%C2%A7%2000691%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93263%2C%20div.%20A%2C%20title%20IV%2C%20%C2%A7402%28a%29%281%29%2C%20Dec.%2023%2C%202022%2C%20136%20Stat.%202551.md)

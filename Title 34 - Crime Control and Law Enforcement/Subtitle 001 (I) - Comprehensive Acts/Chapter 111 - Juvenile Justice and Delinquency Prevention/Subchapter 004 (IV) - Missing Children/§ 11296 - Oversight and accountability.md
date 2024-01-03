@@ -40,7 +40,7 @@ All grants awarded by the Department of Justice that are authorized under this s
 
 #### (A) Limitation
 
-&emsp;&emsp;No amounts authorized to be appropriated under this subchapter may be used to host orsupport any expenditure for conferences that uses more than $20,000 unless the Deputy Attorney General or the appropriate Assistant Attorney General, Director, or principal deputy director as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
+&emsp;&emsp;No amounts authorized to be appropriated under this subchapter may be used to host or support any expenditure for conferences that uses more than $20,000 unless the Deputy Attorney General or the appropriate AssistantAttorney General, Director, or principal deputy director as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
 
 #### (B) Written approval
 
@@ -91,10 +91,6 @@ A prior section 408 of Pub. L. 93–415 was renumbered section 409 and is classi
 <b>2018</b>—Par. (1). Pub. L. 115–267, §3(b), substituted "2023" for "2018".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 

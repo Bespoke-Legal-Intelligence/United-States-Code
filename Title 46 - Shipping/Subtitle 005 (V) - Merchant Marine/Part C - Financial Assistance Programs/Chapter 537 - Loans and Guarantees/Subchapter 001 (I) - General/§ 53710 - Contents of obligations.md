@@ -60,7 +60,7 @@ Covering deficiencies by insurance.—To the extent covered by insurance, a defi
 
 Other Provisions To Protect Security Interests and Provide for the Financial Stability of the Obligor.—An obligation guaranteed under this chapter and any related agreement must contain other provisions, which shall include—
 
-&emsp;(1) provisions for the protection of the security interests of the Government (including acceleration, assumption, and subrogation provisions and the issuance of notes by the obligor to the Secretary or Administrator), liens and releases of liens, payment of taxes; and
+&emsp;(1) provisions for the protection of the security interests of the Government (includingacceleration, assumption, and subrogation provisions and the issuance of notes by the obligor to the Secretary or Administrator), liens and releases of liens, payment of taxes; and
 
 &emsp;(2) any other provisions that the Secretary or Administrator may prescribe.
 

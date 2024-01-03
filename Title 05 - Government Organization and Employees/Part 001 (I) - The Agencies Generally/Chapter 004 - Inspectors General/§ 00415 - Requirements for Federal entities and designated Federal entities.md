@@ -70,7 +70,7 @@ Office of inspector general.—The term "Office of Inspector General" means an O
 
 (b)
 
-Office of Inspector General in Each Designated Federal Entity.—Not later than 180 days after October 18, 1988, there shall be established and maintained in each designated Federal entity an Office of Inspector General. The head of the designated Federal entity shall transfer to such office the offices, units, or othercomponents, and the functions, powers, or duties thereof, that such head determines are properly related to the functions of the Office of Inspector General and would, if so transferred, further the purposes of this section. There shall not be transferred to such office any program operating responsibilities.
+Office of Inspector General in Each Designated Federal Entity.—Not later than 180 days after October 18, 1988, there shall be established and maintained in each designated Federal entity an Office of Inspector General. The head of the designated Federal entity shall transfer to such office the offices, units, or other components, and the functions, powers, or duties thereof, that such head determines are properly related to the functions of the Office of Inspector General and would, if so transferred, further the purposes of this section. There shall not be transferred to such office any program operating responsibilities.
 
 (c)
 
@@ -142,7 +142,7 @@ Appointment.—For purposes of carrying out subsection (c) with respect to the U
 
 &emsp;(2)
 
-Oversight responsibility of inspector general for activities of postal inspection service.—In carrying out the duties and responsibilities specified in this chapter, the Inspector General of the United States Postal Service (hereinafter in this subsection referred to as the "Inspector General") shall have oversight responsibility for all activities of thePostal Inspection Service, including any internal investigation performed by the Postal Inspection Service. The Chief Postal Inspector shall promptly report the significant activities being carried out by the Postal Inspection Service to such Inspector General.
+Oversight responsibility of inspector general for activities of postal inspection service.—In carrying out the duties and responsibilities specified in this chapter, the Inspector General of the United States Postal Service (hereinafter in this subsection referred to as the "Inspector General") shall have oversight responsibility for all activities of the Postal Inspection Service, including any internal investigation performed by the Postal Inspection Service. The Chief Postal Inspector shall promptly report the significant activities being carried out by the Postal Inspection Service to such Inspector General.
 
 &emsp;(3)
 
@@ -196,7 +196,7 @@ Definition of governors.—In this subsection, the term "Governors" has the mean
 
 &emsp;(6)
 
-Authorization of appropriations.—There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Office of Inspector General of the United States Postal Service.
+Authorization of appropriations.—There are authorized to be appropriated, out of the Postal Service Fund, such sums as may benecessary for the Office of Inspector General of the United States Postal Service.
 
 (g)
 
@@ -216,7 +216,7 @@ Personnel.—In addition to the other authorities specified in this chapter, an 
 
 &emsp;(3)
 
-Application of section 412(a).—Notwithstanding the last sentence of subsection (d)(1) of this section, the provisions of subsection (a) of section 412 of this title (other than the provisions of subparagraphs (A), (B), (C), and (E) of subsection (a)(1) of section 412 of this title) shall apply to the Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer FinancialProtection and the Chairman of the Board of Governors of the Federal Reserve System in the same manner as such provisions apply to the Inspector General of the Department of the Treasury and the Secretary of the Treasury, respectively.
+Application of section 412(a).—Notwithstanding the last sentence of subsection (d)(1) of this section, the provisions of subsection (a) of section 412 of this title (other than the provisions of subparagraphs (A), (B), (C), and (E) of subsection (a)(1) of section 412 of this title) shall apply to the Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection and the Chairman of the Board of Governors of the Federal Reserve System in the same manner as such provisions apply to the Inspector General of the Department of the Treasury and the Secretary of the Treasury, respectively.
 
 &emsp;(4)
 
@@ -292,7 +292,7 @@ Report.—On October 31 of each year, the head of each Federal entity (as define
 
 <i>(iii) by adding at the end the following:</i>
 
-&emsp;<i>"(B) If there is an open or completed inquiry into an Inspector General that relates to the removal or transfer of the Inspector General under</i><i>subparagraph (A), the written communication required under that subparagraph shall—</i>
+&emsp;<i>"(B) If there is an open or completed inquiry into an Inspector General that relates to the removal or transfer of the Inspector General under subparagraph (A), the written communication required under that subparagraph shall—</i>
 
 &emsp;&emsp;<i>"(i) identify each entity that is conducting, or that conducted, the inquiry; and</i>
 
@@ -382,6 +382,10 @@ The National Labor Relations Act, referred to in subsec. (f)(4), is act July 5, 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Savings Provision; References to Inspector General of the Postal Regulatory Commission
 
 Pub. L. 117–108, title II, §209(c), Apr. 6, 2022, 136 Stat. 1152, provided that:
@@ -392,11 +396,11 @@ Personnel, documents, assets.—All personnel, documents, assets, unexpended bal
 
 "(2)
 
-Legal documents.—Any order, determination, rule, regulation, permit, grant, loan, contract, agreement, certificate, license, or privilege that has been issued, made, granted, or allowed to become effective by the Inspector General of the Postal Regulatory Commission that is in effect on the effective date of this section shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law.
+Legal documents.—Any order, determination, rule, regulation, permit, grant, loan, contract, agreement, certificate, license, or privilege that has been issued, made, granted, or allowed to become effectiveby the Inspector General of the Postal Regulatory Commission that is in effect on the effective date of this section shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law.
 
 "(3)
 
-Proceedings.—This section and the amendments made by this section shall not affect any proceedingpending on the effective date of this section before the Inspector General of the Postal Regulatory Commission, but such proceeding shall be continued by the Inspector General of the Postal Service, at the discretion of that Inspector General. Nothing in this paragraph shall be construed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that the proceeding could have been discontinued or modified if this section and those amendments had not been enacted.
+Proceedings.—This section and the amendments made by this section shall not affect any proceeding pending on the effective date of this section before the Inspector General of the Postal Regulatory Commission, but such proceeding shall be continued by the Inspector General of the Postal Service, at the discretion of that Inspector General. Nothing in this paragraph shall be construed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that the proceeding could have been discontinued or modified if this section and those amendments had not been enacted.
 
 "(4)
 
@@ -466,7 +470,7 @@ Limitation.—The authority provided by subsection (a) shall be effective only w
 
 Pub. L. 113–76, div. B, title IV, Jan. 17, 2014, 128 Stat. 75, provided in part: "That the Inspector General for the Commission on Civil Rights (CCR IG), as provided in Public Law 113–6 \[set out below\], is authorized to close out all work related to pending or closed investigations, to complete pending investigations, and to terminate all activities related to the duties, responsibilities and authorities of the CCR IG: <i>Provided further</i>, That when the CCR IG concludes that all pending investigations have been completed, all work related to pending or closed investigations has been closed out, and all activities related to the duties, responsibilities and authorities of the CCR IG have ended, the CCR IG shall certify that conclusion to the Committees on Appropriations of the House of Representatives and the Senate, and the Office of the CCR IG shall then be terminated".
 
-Pub. L. 113–6, div. B, title IV, Mar. 26, 2013, 127 Stat. 266, as amended by Pub. L. 117–286, §4(b)(14), Dec. 27, 2022, 136 Stat. 4344, provided in part: "That there shall be an Inspector General at the Commission on Civil Rights who shall have the duties, responsibilities, and authorities specified in chapter 4 of title 5, United States Code: <i>Provided further</i>, That an individual appointed to the position of Inspector General of the Government Accountability Office (GAO) shall, by virtue of such appointment, also hold the position of Inspector General of the Commission on Civil Rights: <i>Provided further</i>, That the Inspector General of the Commission on Civil Rights shall utilize personnel of the Office of Inspector General of GAO in performing the duties of the Inspector General of the Commission on CivilRights, and shall not appoint any individuals to positions within the Commission on Civil Rights".
+Pub. L. 113–6, div. B, title IV, Mar. 26, 2013, 127 Stat. 266, as amended by Pub. L. 117–286, §4(b)(14), Dec. 27, 2022, 136 Stat. 4344, provided in part: "That there shall be an Inspector General at the Commission on Civil Rights who shall have the duties, responsibilities, and authorities specified in chapter 4 of title 5, United States Code: <i>Provided further</i>, That an individual appointed to the position of Inspector General of the Government Accountability Office (GAO) shall, by virtue ofsuch appointment, also hold the position of Inspector General of the Commission on Civil Rights: <i>Provided further</i>, That the Inspector General of the Commission on Civil Rights shall utilize personnel of the Office of Inspector General of GAO in performing the duties of the Inspector General of the Commission on Civil Rights, and shall not appoint any individuals to positions within the Commission on Civil Rights".
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -978,7 +982,7 @@ Reports.—(1) Not later than 30 days after the end of each fiscal-year quarter,
 
 &emsp;&emsp;"(iv) the justification and approval documents on which was based the determination to use procedures other than procedures that provide for full and open competition.
 
-"(2) A contract described in this paragraph is any major contract or other agreement that is entered into by any department or agency of the United States Government that involves the use of amounts appropriated or otherwise made available for the reconstruction of Iraq with any public or private sector entity for any of the following purposes:
+"(2) A contract described in this paragraph is any major contract or other agreement that is entered intoby any department or agency of the United States Government that involves the use of amounts appropriated or otherwise made available for the reconstruction of Iraq with any public or private sector entity for any of the following purposes:
 
 &emsp;"(A) To build or rebuild physical infrastructure of Iraq.
 
@@ -1028,7 +1032,7 @@ Definitions.—In this section—
 
 &emsp;"(A) the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
 
-&emsp;"(B) the Committees on Appropriations, Armed Services, Foreign Affairs, and Oversight and Government Reform of the House of Representatives; and
+&emsp;"(B) the Committees on Appropriations, Armed Services, Foreign Affairs, and Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives; and
 
 &emsp;"(2) the term 'amounts appropriated or otherwise made available for the reconstruction of Iraq' means amounts appropriated or otherwise made available for any fiscal year—
 

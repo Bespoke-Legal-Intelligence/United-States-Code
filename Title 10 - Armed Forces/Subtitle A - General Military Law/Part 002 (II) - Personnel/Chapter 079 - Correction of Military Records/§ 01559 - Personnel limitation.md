@@ -20,13 +20,15 @@ Service Review Agency Defined.—In this section, the term "service review agenc
 
 &emsp;(2) with respect to the Department of the Navy, the Board for Correction of Naval Records; and
 
-&emsp;(3) with respect to the Department of the Air Force, the Air Force Review Boards Agency.
+&emsp;(3) with respect to the Department of the Air Force, the Department of the the <sup>1</sup> Air Force Review Boards Agency.
 
-(Added Pub. L. 107–314, div. A, title V, §552(a), Dec. 2, 2002, 116 Stat. 2552; amended Pub. L. 108–375, div. A, title V, §581, Oct. 28, 2004, 118 Stat. 1928; Pub. L. 110–417, \[div. A\], title V, §593, Oct. 14, 2008, 122 Stat. 4475; Pub. L. 111–383, div. A, title V, §533(b), Jan. 7, 2011, 124 Stat. 4216; Pub. L. 112–239, div. A, title V, §520, title X, §1076(b)(2), Jan. 2, 2013, 126 Stat. 1722, 1949; Pub. L. 114–328, div. A, title V, §592, Dec. 23, 2016, 130 Stat. 2152; Pub. L. 116–92, div. A, title V, §524(a), Dec. 20, 2019, 133 Stat. 1355.)
+(Added Pub. L. 107–314, div. A, title V, §552(a), Dec. 2, 2002, 116 Stat. 2552; amended Pub. L. 108–375, div. A, title V, §581, Oct. 28, 2004, 118 Stat. 1928; Pub. L. 110–417, \[div. A\], title V, §593, Oct. 14, 2008, 122 Stat. 4475; Pub. L. 111–383, div.A, title V, §533(b), Jan. 7, 2011, 124 Stat. 4216; Pub. L. 112–239, div. A, title V, §520, title X, §1076(b)(2), Jan. 2, 2013, 126 Stat. 1722, 1949; Pub. L. 114–328, div. A, title V, §592, Dec. 23, 2016, 130 Stat. 2152; Pub. L. 116–92, div. A, title V, §524(a), Dec. 20, 2019, 133 Stat. 1355; Pub. L. 118–31, div. A, title XVII, §1722(j)(2)(C), Dec. 22, 2023, 137 Stat. 673.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c)(3). Pub. L. 118–31 inserted "the Department of the" after "Air Force,".
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92 substituted "December 31, 2025" for "December 31, 2019" and "that agency." for "that agency until—" and struck out pars. (1) and (2) which read as follows:
 
@@ -57,4 +59,6 @@ Pub. L. 112–239, §520, substituted "December 31, 2016" for "December 31, 2013
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–239, div. A, title X, §1076(b), Jan. 2, 2013, 126 Stat. 1949, provided that the amendment made by section 1076(b)(2) is effective Jan. 7, 2011, and as if included in Pub. L. 111–383 as enacted.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -8,5 +8,5 @@ Section 5662 was editorially reclassified as section 11162 of Title 34, Crime Co
 
 #### Prior Provisions
 
-A prior section 5662, Pub. L. 93–415, title II, §248, as added Pub. L. 100–690, title VII, §7264, Nov. 18, 1988, 102Stat. 4447; amended Pub. L. 102–586, §2(g)(6), Nov. 4, 1992, 106 Stat. 4997, related to special studies and reports, prior to repeal by Pub. L. 107–273, div. C, title II, §12210(1), Nov. 2, 2002, 116 Stat. 1880.
+A prior section 5662, Pub. L. 93–415, title II, §248, as added Pub. L. 100–690, title VII, §7264, Nov. 18, 1988, 102 Stat. 4447; amended Pub. L. 102–586, §2(g)(6), Nov. 4, 1992, 106 Stat. 4997, related to special studies and reports, prior to repeal by Pub. L. 107–273, div. C, title II, §12210(1), Nov. 2, 2002, 116 Stat. 1880.
 

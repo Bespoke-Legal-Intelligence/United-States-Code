@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) may include professional development activities to prepare mathematics and science teachers to teach challenging mathematics, science, and technology college-preparatory courses;
 
-&emsp;&emsp;(C) offering innovative preservice and inservice programs that instruct teachers on using technology and laboratory experiences more effectively in teaching mathematics and science, including programs that recruitand train undergraduate and graduate students to provide technical and laboratory support to teachers;
+&emsp;&emsp;(C) offering innovative preservice and inservice programs that instruct teachers on using technology and laboratory experiences more effectively in teaching mathematics and science, including programs that recruit and train undergraduate and graduate students to provide technical and laboratory support to teachers;
 
 &emsp;&emsp;(D) developing distance learning programs for teachers or students, including developing courses, curricular materials, and other resources for the in-service professional development of teachers that are made available to teachers through the Internet;
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(H) developing or adapting elementary school and secondary school mathematics and science curricular materials that incorporate contemporary research on the science of learning;
 
-&emsp;&emsp;(I) developing initiatives to increase and sustain the number, quality, and diversity of prekindergarten through grade 12 teachers of mathematics and science, including the use of induction programs, as defined in section 9813(h) <sup>1</sup> of title 20, for teachers in their first 2 years of teaching, especially in underserved areas;
+&emsp;&emsp;(I) developing initiatives to increase and sustain the number, quality, and diversity of prekindergarten through grade 12 teachers of mathematics and science, including the use of induction programs, as defined in section 9813(h) <sup>1</sup> of title 20, for teachers in their first2 years of teaching, especially in underserved areas;
 
 &emsp;&emsp;(J) using mathematicians, scientists, and engineers employed by private businesses to help recruit and train mathematics and science teachers;
 
@@ -96,7 +96,7 @@
 
 #### (8) Mentors for teachers and students of challenging courses
 
-&emsp;Partnerships carrying out activities to prepare mathematics and science teachers toteach challenging mathematics, science, and technology college-preparatory courses in accordance with paragraph (3)(B) shall encourage companies employing scientists, technologists, engineers, or mathematicians to provide mentors to teachers and students and provide for the coordination of such mentoring activities.
+&emsp;Partnerships carrying out activities to prepare mathematics and science teachers to teach challenging mathematics, science, and technology college-preparatory courses in accordance with paragraph (3)(B) shall encourage companies employing scientists, technologists, engineers, or mathematicians to provide mentors to teachers and students and provide for the coordination of such mentoring activities.
 
 #### (9) Innovation
 
@@ -286,6 +286,8 @@ Subsec. (d). Pub. L. 110–69, §7028(9), added subsec. (d).
 
 #### Change of Name
 
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2015 Amendment
@@ -316,7 +318,7 @@ Pub. L. 107–368, §22, Dec. 19, 2002, 116 Stat. 3065, provided for a National 
 
 #### Definitions
 
-Pub. L. 107–368, §4, Dec. 19, 2002, 116 Stat. 3035, as amended by Pub. L. 114–95, title IX, §9215(ggg)(1), Dec.10, 2015, 129 Stat. 2186, provided that: "In this Act \[see Short Title of 2002 Amendment note set out under section 1861 of this title\]:
+Pub. L. 107–368, §4, Dec. 19, 2002, 116 Stat. 3035, as amended by Pub. L. 114–95, title IX, §9215(ggg)(1), Dec. 10, 2015, 129 Stat. 2186, provided that: "In this Act \[see Short Title of 2002 Amendment note set out under section 1861 of this title\]:
 
 &emsp;"(1)
 

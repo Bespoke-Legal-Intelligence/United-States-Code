@@ -42,7 +42,7 @@
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–201 applicable with respect to individuals who first become members ofArmed Forces Health Professions Scholarship and Financial Assistance program or students of Uniformed Services University of the Health Sciences on or after Oct. 1, 1996, see section 741(c) of Pub. L. 104–201, set out as a note under section 2114 of this title.
+Amendment by Pub. L. 104–201 applicable with respect to individuals who first become members of Armed Forces Health Professions Scholarship and Financial Assistance program or students of Uniformed Services University of the Health Sciences on or after Oct. 1, 1996, see section 741(c) of Pub. L. 104–201, set out as a note under section 2114 of this title.
 
 #### Effective Date of 1980 Amendment
 

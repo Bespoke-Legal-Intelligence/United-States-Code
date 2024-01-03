@@ -60,7 +60,7 @@ Eligible school food authority.—To be eligible to receive an additional reimbu
 
 &emsp;(E)
 
-Failure to comply.—Beginning on the later of the date described in subparagraph (A)(ii)(II), December 13, 2010, or October 1, 2012, school food authorities found to be out of compliance with the meal patterns or nutrition standards established by the implementing regulations shall not receive the additional reimbursement for each lunch served described in this paragraph.
+Failure to comply.—Beginning on the later of the date described in subparagraph (A)(ii)(II), December 13, 2010, or October 1, 2012, school food authorities found to be out of compliance with the meal patterns or nutrition standards established by the implementingregulations shall not receive the additional reimbursement for each lunch served described in this paragraph.
 
 &emsp;(F)
 
@@ -72,7 +72,7 @@ In general.—Subject to clauses (ii) and (iii), the Secretary shall make funds 
 
 &emsp;&emsp;(ii)
 
-Provision of funds.—The Secretary shall provide funds described in clause (i) toStates administering a school lunch program in a manner proportional to the administrative expense allocation of each State during the preceding fiscal year.
+Provision of funds.—The Secretary shall provide funds described in clause (i) to States administering a school lunch program in a manner proportional to the administrative expense allocation of each State during the preceding fiscal year.
 
 &emsp;&emsp;(iii)
 
@@ -114,6 +114,10 @@ Pub. L. 87–688 inserted "American Samoa," after "Guam," in two places and "the
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
@@ -138,7 +142,7 @@ Pub. L. 97–35, title VIII, §820(a), Aug. 13, 1981, 95 Stat. 534, provided tha
 
 "(3) The amendments made by sections 807 \[amending section 1772 of this title\], 808 \[amending sections 1760 and 1784 of this title\], and 810(a)(2) \[amending section 1766 of this title\] shall take effect on the first day of the second month following the date of the enactment of this Act \[Aug. 13, 1981\].
 
-"(4) The amendments made by the following sections shall take effect October 1, 1981: sections 805 \[repealing sections 1754 and 1774 of this title\], 806 \[amending section 1788 of this title\], 809 \[amending section 1761 of this title\], 810(a)(1) \[amending section 1766 of this title\], 810(f) \[amending section 1766 of this title\], 810(g) \[amending section 1766 of this title\], 812 \[amending section 1759a of this title\], 814 \[amending section 1776 of this title\], 817 \[enacting section 1774 of this title and amending sections 1759, 1761, 1766, 1773, and 1788 of this title\], and 819 \[amending this section and sections 1755,1757, 1759a, 1760, 1762a, 1763, 1766, 1773, 1776, and 1780 of this title\].
+"(4) The amendments made by the following sections shall take effect October 1, 1981: sections 805 \[repealing sections 1754 and 1774 of this title\], 806 \[amending section 1788 of this title\], 809 \[amending section 1761 of this title\], 810(a)(1) \[amending section 1766 of this title\], 810(f) \[amending section 1766 of this title\], 810(g) \[amending section 1766 of this title\], 812 \[amending section 1759a of this title\], 814 \[amending section 1776 of this title\], 817 \[enacting section 1774 of this title and amending sections 1759, 1761, 1766, 1773, and 1788 of this title\], and 819 \[amending this section and sections 1755, 1757, 1759a, 1760, 1762a, 1763, 1766, 1773, 1776, and 1780 of this title\].
 
 "(5) The amendments made by section 813 \[amending sections 1759a, 1760, 1762a, and 1772 of this title\] shall take effect 90 days after the date of the enactment of this Act \[Aug. 13, 1981\].
 
@@ -214,7 +218,7 @@ Pub. L. 92–433, §4(a), Sept. 26, 1972, 86 Stat. 725, authorized Secretary of 
 
 #### Additional Funds for Apportionment to States and for Special Assistance; Consultation With Child Nutrition Council; Reimbursement of Separate Fund From Supplemental Appropriation
 
-Pub. L. 92–153, §1, Nov. 5, 1971, 85 Stat. 419, provided: "That, notwithstanding any other provision of law, the Secretary of Agriculture shall until such time as a supplemental appropriation may provide additional funds for such purpose use so much of the funds appropriated by section 32 of the Act of August 24, 1935 (7 U.S.C. 612c), as may be necessary, in addition to the funds now available therefor, to carry out the purposes of section 11 of the \[Richard B. Russell\] National School Lunch Act \[section 1759a of this title\] and provide a rate of reimbursement which will assure every needy child of free or reduced price lunches during the fiscal year ending June 30, 1972, and to carry out the purposes of section 4 of the \[Richard B. Russell\] National School Lunch Act \[this section\] and provide an average rate of reimbursement of 6 cents per meal within each State. In determining the amount of funds needed and the requirements of the various States therefor, the Secretary shall consult with the National Advisory Council on Child Nutrition and interested parties. Funds expended under the foregoing provisions of this resolution shall be reimbursed out of any supplemental appropriation hereafter enacted \[on and after Nov. 5, 1971\] for the purpose of carrying out section 4 \[this section\] and section 11 of the \[Richard B. Russell\] National School Lunch Act \[section 1759a of this title\], and such reimbursements shall be deposited into the fund established pursuant to section 32 of the Act of August 24, 1935 \[section 612c of Title 7, Agriculture\], to be available for the purposes of said section 32 \[section 612c of Title 7\]."
+Pub. L. 92–153, §1, Nov. 5, 1971, 85 Stat. 419, provided: "That, notwithstanding any other provision of law, the Secretary of Agriculture shall until such time as a supplemental appropriation may provide additional funds for such purpose use so much of the funds appropriated by section 32 of the Act of August 24, 1935 (7 U.S.C. 612c), as may be necessary, in addition to the funds now available therefor, to carry out the purposes of section 11 of the \[Richard B. Russell\] National School Lunch Act \[section 1759a of this title\] and provide a rate of reimbursement which will assure every needy child of free or reduced price lunches during the fiscal year ending June 30, 1972, and to carry out the purposes of section 4 of the \[Richard B. Russell\] National SchoolLunch Act \[this section\] and provide an average rate of reimbursement of 6 cents per meal within each State. In determining the amount of funds needed and the requirements of the various States therefor, the Secretary shall consult with the National Advisory Council on Child Nutrition and interested parties. Funds expended under the foregoing provisions of this resolution shall be reimbursed out of any supplemental appropriation hereafter enacted \[on and after Nov. 5, 1971\] for the purpose of carrying out section 4 \[this section\] and section 11 of the \[Richard B. Russell\] National School Lunch Act \[section 1759a of this title\], and such reimbursements shall be deposited into the fund established pursuant to section 32 of the Act of August 24, 1935 \[section 612c of Title 7, Agriculture\], to be available for the purposes of said section 32 \[section 612c of Title 7\]."
 
 #### Apportionment of Additional Funds to States
 

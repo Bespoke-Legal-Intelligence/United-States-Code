@@ -86,7 +86,7 @@
 
 #### (3) Application
 
-&emsp;An eligible entity that desires to receive a grant, or enter into a contract, under paragraph (1) shall submit an application to the Secretary at such time, in such form, and containing such information and assurances as the Commissioner may require, including, if the Commissioner determines appropriate, a description of how the proposed project or demonstration program—
+&emsp;An eligible entity that desires to receive a grant, or enter into a contract, under paragraph (1) shall submit an application to theSecretary at such time, in such form, and containing such information and assurances as the Commissioner may require, including, if the Commissioner determines appropriate, a description of how the proposed project or demonstration program—
 
 &emsp;&emsp;(A) is based on current research findings, which may include research conducted by the National Institute on Disability, Independent Living, and Rehabilitation Research, the National Institutes of Health, and other public or private organizations; and
 
@@ -246,7 +246,7 @@
 
 #### (e) Authorization of appropriations
 
-For the purpose of carrying out this section there are authorized to be appropriated $5,796,000 for fiscal year 2015, $6,244,000 for fiscal year 2016, $6,373,000 for fiscal year 2017, $6,515,000 for fiscal year 2018, $6,668,000 for fiscal year 2019, and $6,809,000 for fiscal year 2020.
+For the purpose of carrying out this section there are authorized to be appropriated $5,796,000for fiscal year 2015, $6,244,000 for fiscal year 2016, $6,373,000 for fiscal year 2017, $6,515,000 for fiscal year 2018, $6,668,000 for fiscal year 2019, and $6,809,000 for fiscal year 2020.
 
 (Pub. L. 93–112, title III, §303, as added Pub. L. 105–220, title IV, §406, Aug. 7, 1998, 112 Stat. 1190; amended Pub. L. 108–446, title III, §305(h)(5), (6), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 113–128, title IV, §442, July 22, 2014, 128 Stat. 1673.)
 

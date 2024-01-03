@@ -46,13 +46,13 @@ Outreach.—The Secretary of each military department, or the Presidential desig
 
 (e)
 
-Authority To Designate Voting Assistance Offices as Voter Registration Agency on Military Installations.—The Secretary of Defense may authorize the Secretaries of the military departments to designate offices on military installations as voter registrationagencies under section 7(a)(2) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–5(a)(2)) <sup>1</sup> for all purposes of such Act. Any office so designated shall discharge the requirements of this section, under the regulations prescribed by the Secretary of Defense under subsection (f).
+Authority To Designate Voting Assistance Offices as Voter Registration Agency on Military Installations.—The Secretary of Defense may authorize the Secretaries of the military departments to designate offices on military installations as voter registration agencies under section 7(a)(2) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–5(a)(2)) <sup>1</sup> for all purposes of such Act. Any office so designated shall discharge the requirements of this section, under the regulations prescribed by the Secretary of Defense under subsection (f).
 
 (f)
 
 Regulations.—
 
-&emsp;(1) The Secretary of Defense shall prescribe regulations relating to the administration of the requirements of this section. The regulations shall be prescribed before the regularly scheduled general election for Federal office held in November 2010, and shall be implemented for such general election for Federal office and for each succeeding election for Federal office.
+&emsp;(1) The Secretary of Defense shall prescribe regulations relating to the administration ofthe requirements of this section. The regulations shall be prescribed before the regularly scheduled general election for Federal office held in November 2010, and shall be implemented for such general election for Federal office and for each succeeding election for Federal office.
 
 &emsp;(2) The Secretary of a military department shall provide the Committees on Armed Services of the Senate and the House of Representatives with notice of any decision by the Secretary to close a voter assistance office that was designated on an installation before the date of the enactment of this paragraph. The notice shall include the rational for the closure, the timing of the closure, the number of covered individuals supported by the office, and the plan for providing the assistance available under subsection (a) to covered individuals after the closure of the office.
 

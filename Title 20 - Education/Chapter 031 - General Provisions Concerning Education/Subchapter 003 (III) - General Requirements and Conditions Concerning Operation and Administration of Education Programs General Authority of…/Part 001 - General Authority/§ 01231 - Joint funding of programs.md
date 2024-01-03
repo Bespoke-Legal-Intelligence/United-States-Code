@@ -8,7 +8,7 @@
 
 (3) If the Secretary enters into an agreement under this subsection for the administration of a project, the agency administering the project shall use such agency's procedures to award contracts or grants and to administer such awards, unless the parties to the agreement specify the use of procedures of another agency that is a party to the agreement.
 
-(4) If the Secretary has entered into an agreement authorized under this subsection and the Secretary and the heads of the other agencies participating in the agreement determine that joint funding is necessary to address a special need consistent with the purposes and authorized activities of each program that provides funding under the joint project, the Secretary and the heads of the other participating agencies may develop a single set of criteria for the jointly funded project and require each applicant for such project to submit a single application for review by the participating agencies.
+(4) If the Secretary has entered into an agreement authorized under this subsection and theSecretary and the heads of the other agencies participating in the agreement determine that joint funding is necessary to address a special need consistent with the purposes and authorized activities of each program that provides funding under the joint project, the Secretary and the heads of the other participating agencies may develop a single set of criteria for the jointly funded project and require each applicant for such project to submit a single application for review by the participating agencies.
 
 #### (b) Joint applications
 
@@ -48,9 +48,11 @@ A prior section 430 of Pub. L. 90–247 was renumbered section 436, and is class
 
 #### Change of Name
 
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1972 Amendment; Inconsistent Provisions Ineffective
 
-Pub. L. 92–318, title III, §302(c), June 23, 1972, 86 Stat. 333, provided that: "The provisions of section 421(c) \[now 430(c)\] of the General Education Provisions Act \[subsec. (c) of this section\] shall be effective upon the date of enactment of this Act \[June 23, 1972\]. No provision of any law which is inconsistent with such section 421(c) shall be effective nor shall any such provision control to the extent of such inconsistency, unless sucha law is enacted after the date of enactment of this Act."
+Pub. L. 92–318, title III, §302(c), June 23, 1972, 86 Stat. 333, provided that: "The provisions of section 421(c) \[now 430(c)\] of the General Education Provisions Act \[subsec. (c) of this section\] shall be effective upon the date of enactment of this Act \[June 23, 1972\]. No provision of any law which is inconsistent with such section 421(c) shall be effective nor shall any such provision control to the extent of such inconsistency, unless such a law is enacted after the date of enactment of this Act."
 

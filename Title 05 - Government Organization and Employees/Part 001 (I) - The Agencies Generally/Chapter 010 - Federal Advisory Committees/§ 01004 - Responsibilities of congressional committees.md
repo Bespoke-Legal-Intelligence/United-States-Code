@@ -16,7 +16,7 @@ Consideration of Legislation.—In considering legislation establishing, or auth
 
 &emsp;(4) contain provisions dealing with authorization of appropriations, the date for submission of reports (if any), the duration of the advisory committee, and the publication of reports and other materials, to the extent that the standing committee determines the provisions of section 1009 of this chapter to be inadequate; and
 
-&emsp;(5) contain provisions which will assure that the advisory committee will have adequatestaff (either supplied by an agency or employed by it), will be provided adequate quarters, and will have funds available to meet its other necessary expenses.
+&emsp;(5) contain provisions which will assure that the advisory committee will have adequate staff (either supplied by an agency or employed by it), will be provided adequate quarters, and will have funds available to meet its other necessary expenses.
 
 (c)
 

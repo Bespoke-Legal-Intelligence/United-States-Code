@@ -8,7 +8,7 @@ Report Required.—Not later than March 31 of each year, the Secretary of Defens
 
 Elements.—Each report under subsection (a) shall include, for the year covered by the report, the following:
 
-&emsp;(1) With respect to environmental restoration activities of the Department of Defense,and for each of the military departments, information on the Defense Environmental Restoration Program under section 2701 of this title, including—
+&emsp;(1) With respect to environmental restoration activities of the Department of Defense, and for each of the military departments, information on the Defense Environmental Restoration Program under section 2701 of this title, including—
 
 &emsp;&emsp;(A) the total number of sites at which such program was carried out;
 

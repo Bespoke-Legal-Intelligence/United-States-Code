@@ -8,7 +8,7 @@ In addition to the carriage requirements set forth in section 534 of this title,
 
 #### (1) General requirement to carry each qualified station
 
-&emsp;Subject to paragraphs (2) and (3) and subsection (e), each cable operator shall carry, on the cable system of that cable operator, any qualified local noncommercial educational television station requesting carriage.
+&emsp;Subject to paragraphs (2) and (3) and subsection (e), each cable operator shall carry, onthe cable system of that cable operator, any qualified local noncommercial educational television station requesting carriage.
 
 #### (2) Systems with 12 or fewer channels
 
@@ -32,7 +32,7 @@ In addition to the carriage requirements set forth in section 534 of this title,
 
 &emsp;(B) In the case of a cable system described in this paragraph which operates beyond the presence of any qualified local noncommercial educational television station, the cable operator shall import and carry on that system the signal of at least one qualified noncommercial educational television station to comply with subparagraph (A)(i).
 
-&emsp;(C) The cable operator of a cable system described in this paragraph which carries the signal of a qualified local noncommercial educational station affiliated with a State public television network shall not be required to carry the signal of any additional qualified local noncommercial educational television stations affiliated with the same network if the programming of such additional stations is substantially duplicated by the programming of the qualified local noncommercialeducational television station receiving carriage.
+&emsp;(C) The cable operator of a cable system described in this paragraph which carries the signal of a qualified local noncommercial educational station affiliated with a State public television network shall not be required to carry the signal of any additional qualified local noncommercial educational television stations affiliated with the same network if the programming of such additional stations is substantially duplicated by the programming of the qualified local noncommercial educational television station receiving carriage.
 
 &emsp;(D) A cable operator of a system described in this paragraph which increases the usable activated channel capacity of the system to more than 36 channels on or after March 29, 1990, shall, in accordance with the other provisions of this section, carry the signal of each qualified local noncommercial educational television station requesting carriage, subject to subsection (e).
 
@@ -60,7 +60,7 @@ A qualified local noncommercial educational television station whose signal is c
 
 #### (2) Bandwidth and technical quality
 
-&emsp;A cable operator shall provide each qualified local noncommercial educational television station whose signal is carried in accordance with this section with bandwidth and technical capacity equivalent to that provided to commercial television broadcast stations carried on the cable system and shall carry the signal of each qualified local noncommercial educational television station without material degradation.
+&emsp;A cable operator shall provide each qualified local noncommercial educational televisionstation whose signal is carried in accordance with this section with bandwidth and technical capacity equivalent to that provided to commercial television broadcast stations carried on the cable system and shall carry the signal of each qualified local noncommercial educational television station without material degradation.
 
 #### (3) Changes in carriage
 
@@ -82,7 +82,7 @@ Signals carried in fulfillment of the carriage obligations of a cable operator u
 
 #### (1) In general
 
-&emsp;A cable operator shall not accept monetary payment or other valuable consideration inexchange for carriage of the signal of any qualified local noncommercial educational television station carried in fulfillment of the requirements of this section, except that such a station may be required to bear the cost associated with delivering a good quality signal or a baseband video signal to the principal headend of the cable system.
+&emsp;A cable operator shall not accept monetary payment or other valuable consideration in exchange for carriage of the signal of any qualified local noncommercial educational television station carried in fulfillment of the requirements of this section, except that such a station may be required to bear the cost associated with delivering a good quality signal or a baseband video signal to the principal headend of the cable system.
 
 #### (2) Distant signal exception
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A)(i) under the rules and regulations of the Commission in effect on March 29, 1990, is licensed by the Commission as a noncommercial educational television broadcast station and which is owned and operated by a public agency, nonprofit foundation, corporation, or association; and
 
-&emsp;&emsp;(ii) has as its licensee an entity which is eligible to receive a community service grant, or any successor grant thereto, from the Corporation for Public Broadcasting, or any successor organization thereto, on the basis of the formula set forth in section 396(k)(6)(B) of this title; or
+&emsp;&emsp;(ii) has as its licensee an entity which is eligible to receive a community servicegrant, or any successor grant thereto, from the Corporation for Public Broadcasting, or any successor organization thereto, on the basis of the formula set forth in section 396(k)(6)(B) of this title; or
 
 &emsp;&emsp;(B) is owned and operated by a municipality and transmits predominantly noncommercial programs for educational purposes.
 

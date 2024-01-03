@@ -90,7 +90,7 @@ Pub. L. 100–297 added subsec. (c).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–227, §6(b), May 7, 2008, 122 Stat. 746, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[May 7, 2008\]."
+Pub. L. 110–227, §6(b), May 7, 2008, 122 Stat. 746, provided that: "The amendments made by subsection (a)\[amending this section\] shall take effect on the date of enactment of this Act \[May 7, 2008\]."
 
 #### Effective Date of 2006 Amendment
 
@@ -120,7 +120,7 @@ Special Rules.—(1) Any provision of this Act or any amendment made by this Act
 
 "(5) Amounts appropriated by the joint resolution entitled 'Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes', approved December 22, 1987 (Public Law 100–202), for the following programs shall be awarded in accordance with the applicable provisions of law in effect on the day before the date of the enactment of this Act \[Apr. 28, 1988\]:
 
-&emsp;"(A) Programs under subchapter D of chapter 2 of the Education Consolidation and Improvement Act of1981 \[formerly 20 U.S.C. 3851 et seq.\], except that projects under section 583(c) \[formerly 20 U.S.C. 3851(c)\] may not be reviewed by a program significance panel.
+&emsp;"(A) Programs under subchapter D of chapter 2 of the Education Consolidation and Improvement Act of 1981 \[formerly 20 U.S.C. 3851 et seq.\], except that projects under section 583(c) \[formerly 20 U.S.C. 3851(c)\] may not be reviewed by a program significance panel.
 
 &emsp;"(B) National programs under the Adult Education Act \[formerly 20 U.S.C. 1201 et seq.\].
 
@@ -168,7 +168,7 @@ New Borrowers.—For the purpose of this section, the term 'new borrower' means,
 
 #### Study of Role of Guaranty Agencies
 
-Pub. L. 102–325, title XIV, §1401, July 23, 1992, 106 Stat. 816, directed Secretary of Education to review role of guaranty agencies within Federal Family Education Loan Program by examining administrative and financial operations of such agencies and the relationships between guaranty agencies and State governments and report to Congress within 1 year of July 23, 1992, on the review, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
+Pub. L. 102–325, title XIV, §1401, July 23, 1992, 106 Stat. 816, directed Secretary of Education to reviewrole of guaranty agencies within Federal Family Education Loan Program by examining administrative and financial operations of such agencies and the relationships between guaranty agencies and State governments and report to Congress within 1 year of July 23, 1992, on the review, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 #### General Accounting Office Reports
 

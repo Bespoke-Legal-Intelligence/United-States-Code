@@ -60,7 +60,7 @@ Primary Next of Kin.—The individual who is primary next of kin of any person d
 
 (e)
 
-Termination of Applicability of Procedures When Missing Person Is Accounted for.—The provisions of this chapter relating to boards of inquiry and to the actions by the Secretary concerned on the reports of those boardsshall cease to apply in the case of a missing person upon the person becoming accounted for or otherwise being determined to be in a status other than missing.
+Termination of Applicability of Procedures When Missing Person Is Accounted for.—The provisions of this chapter relating to boards of inquiry and to the actions by the Secretary concerned on the reports of those boards shall cease to apply in the case of a missing person upon the person becoming accounted for or otherwise being determined to be in a status other than missing.
 
 (f)
 
@@ -148,6 +148,10 @@ Secretary Concerned.—In this chapter, the term 'Secretary concerned' includes,
 
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
 
+#### Authority To Enter Into Agreements
+
+Pub. L. 118–31, div. A, title X, §1063(b), Dec. 22, 2023, 137 Stat. 401, provided that: "The Director of the Defense POW/MIA Accounting Agency may enter into agreements with universities or research organizations under which such universities or research organizations agree to provide additional capabilities for specialized missions or research requirements relating to expanding accounting for persons missing from designated past conflicts."
+
 #### Recovery and Identification of Remains of Certain World War II Servicemen Lost in Pacific Theater of Operations
 
 Pub. L. 106–65, div. A, title V, §576, Oct. 5, 1999, 113 Stat. 624, as amended by Pub. L. 107–107, div. A, title X, §1048(g)(3), Dec. 28, 2001, 115 Stat. 1228, provided that:
@@ -170,7 +174,7 @@ Pub. L. 105–85, div. A, title IX, §934, Nov. 18, 1997, 111 Stat. 1866, as ame
 
 "(a)
 
-Intelligence Analysis.—The Director of Central Intelligence, in consultation with the Secretary of Defense, shall provide intelligence analysis on matters concerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) to all departments and agencies of the Federal Government involved in such matters.
+Intelligence Analysis.—The Director of Central Intelligence, in consultation with the Secretary of Defense, shall provide intelligence analysis on mattersconcerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) to all departments and agencies of the Federal Government involved in such matters.
 
 "(b)
 

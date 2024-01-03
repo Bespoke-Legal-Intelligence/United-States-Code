@@ -56,7 +56,7 @@ In this chapter:
 
 &emsp;&emsp;(A) land within the National Forest System, as defined in section 1609(a) of this title exclusive of the National Grasslands and land utilization projects designated as National Grasslands administered pursuant to the Act of July 22, 1937 (7 U.S.C. 1010–1012); and
 
-&emsp;&emsp;(B) such portions of the revested Oregon and California Railroad and reconveyed CoosBay Wagon Road grant land as are or may hereafter come under the jurisdiction of the Department of the Interior, which have heretofore or may hereafter be classified as timberlands, and power-site land valuable for timber, that shall be managed, except as provided in the former section 3 of the Act of August 28, 1937 (50 Stat. 875; 43 U.S.C. 1181c), for permanent forest production.
+&emsp;&emsp;(B) such portions of the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land as are or may hereafter come under the jurisdiction of the Department of the Interior, which have heretofore or may hereafter be classified as timberlands, and power-site land valuable for timber, that shall be managed, except as provided in the former section 3 of the Act of August 28, 1937 (50 Stat. 875; 43 U.S.C. 1181c), for permanent forest production.
 
 #### (8) 50-percent adjusted share
 

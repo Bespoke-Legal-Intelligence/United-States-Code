@@ -162,7 +162,7 @@ Pub. L. 106–65, div. A, title VI, §614(b), Oct. 5, 1999, 113 Stat. 651, provi
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title VI, §615(c), Nov. 18, 1997, 111 Stat. 1787, which provided that the amendments made by section 615(a) of Pub. L. 105–85 to this section were to take effect on Jan. 1, 1999, and were to applywith respect to months beginning on or after that date, was repealed by Pub. L. 105–261, div. A, title VI, §615(d), Oct. 17, 1998, 112 Stat. 2041.
+Pub. L. 105–85, div. A, title VI, §615(c), Nov. 18, 1997, 111 Stat. 1787, which provided that the amendments made by section 615(a) of Pub. L. 105–85 to this section were to take effect on Jan. 1, 1999, and were to apply with respect to months beginning on or after that date, was repealed by Pub. L. 105–261, div. A, title VI, §615(d), Oct. 17, 1998, 112 Stat. 2041.
 
 #### Effective Date of 1993 Amendment
 
@@ -226,7 +226,7 @@ Pub. L. 93–294, §6, May 31, 1974, 88 Stat. 180, provided that: "This Act \[en
 
 #### Monthly Incentive Pay for Certain Officers Entitled to Incentive Pay Under Section 301(a)(1) of This Title on May 31, 1973
 
-Pub. L. 93–294, §4, May 31, 1974, 88 Stat. 179, provided that: "Notwithstanding the amendments made by this Act \[enacting this section and amending section 301 of this title\], an officer who was entitled to incentive pay under section 301(a)(1) of title 37, United States Code, on May 31, 1973, or on the day before the effective dateof this Act \[June 1, 1974\], if otherwise qualified on the day before the effective date of this Act, is entitled to monthly incentive pay as prescribed in either clause (1) or (2) of this section, as follows:
+Pub. L. 93–294, §4, May 31, 1974, 88 Stat. 179, provided that: "Notwithstanding the amendments made by this Act \[enacting this section and amending section 301 of this title\], an officer who was entitled to incentive pay under section 301(a)(1) of title 37, United States Code, on May 31, 1973, or on the day before the effective date of this Act \[June 1, 1974\], if otherwise qualified on the day before the effective date of this Act, is entitled to monthly incentive pay as prescribed in either clause (1) or (2) of this section, as follows:
 
 &emsp;"(1) If he is credited with 6 or less years of aviation service as an officer, and with less than 12 years of service as an officer, he is entitled to monthly incentive pay either—
 
@@ -248,7 +248,7 @@ Pub. L. 93–294, §5, May 31, 1974, 88 Stat. 180, provided that: "A yearly repo
 
 #### Delegation of Functions
 
-For delegation of authority under this section to Secretaries of Defense, Commerce, Health and Human Services, and Homeland Security when Coast Guard not serving as part of Navy, see section 1 of Ex. Ord. No. 13294, Mar. 28, 2003, 68 F.R. 15919, set out as a note under section 301 of this title.
+For delegation of authority under this section to Secretaries of Defense, Commerce, Health and HumanServices, and Homeland Security when Coast Guard not serving as part of Navy, see section 1 of Ex. Ord. No. 13294, Mar. 28, 2003, 68 F.R. 15919, set out as a note under section 301 of this title.
 
 #### Executive Order No. 11800
 

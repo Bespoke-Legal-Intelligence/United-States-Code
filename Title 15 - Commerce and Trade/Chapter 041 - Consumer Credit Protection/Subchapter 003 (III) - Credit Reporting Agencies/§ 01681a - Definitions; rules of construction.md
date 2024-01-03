@@ -50,7 +50,7 @@ Restriction on sharing of medical information.—Except for information or any c
 
 (e) The term "investigative consumer report" means a consumer report or portion thereof in which information on a consumer's character, general reputation, personal characteristics, or mode of living is obtained through personal interviews with neighbors, friends, or associates of the consumer reported on or with others with whom he is acquainted or who may have knowledge concerning any such items of information. However, such information shall not include specific factual information on a consumer's credit record obtained directly from a creditor of the consumer or from a consumer reporting agency when such information was obtained directly from a creditor of the consumer or from the consumer.
 
-(f) The term "consumer reporting agency" means any person which, for monetary fees,dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of assembling or evaluating consumer credit information or other information on consumers for the purpose of furnishing consumer reports to third parties, and which uses any means or facility of interstate commerce for the purpose of preparing or furnishing consumer reports.
+(f) The term "consumer reporting agency" means any person which, for monetary fees, dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of assembling or evaluating consumer credit information or other information on consumers for the purpose of furnishing consumer reports to third parties, and which uses any means or facility of interstate commerce for the purpose of preparing or furnishing consumer reports.
 
 (g) The term "file", when used in connection with information on any consumer, means all of the information on that consumer recorded and retained by a consumer reporting agency regardless of how the information is stored.
 
@@ -170,7 +170,7 @@ Excluded Communications.—A communication is described in this subsection if it
 
 &emsp;&emsp;&emsp;(iii) in the case of consent under clause (i) or (ii) given orally, is provided written confirmation of that consent by the person making the communication, not later than 3 business days after the receipt of the consent by that person;
 
-&emsp;&emsp;(B) the person who makes the communication does not, for the purpose of making the communication, make any inquiry that if made by a prospective employer of the consumer who is the subject of the communication would violate any applicable Federal or State equal employment opportunity law or regulation; and
+&emsp;&emsp;(B) the person who makes the communication does not, for the purpose of making thecommunication, make any inquiry that if made by a prospective employer of the consumer who is the subject of the communication would violate any applicable Federal or State equal employment opportunity law or regulation; and
 
 &emsp;&emsp;(C) the person who makes the communication—
 

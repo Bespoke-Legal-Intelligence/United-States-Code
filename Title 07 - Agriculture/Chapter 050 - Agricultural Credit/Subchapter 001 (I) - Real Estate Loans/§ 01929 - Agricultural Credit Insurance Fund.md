@@ -18,13 +18,13 @@ Notes and security acquired by the Secretary in connection with loans insured un
 
 #### (e) Deposit in fund of portion of charge on outstanding principal obligations; availability of remainder of charge, and merger with appropriations, for administrative expenses
 
-The Secretary shall deposit in the fund all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan, of any charge collected in connection with the insurance of loans; and any remainder of any such charge shall be available for administrative expenses of the Farmers Home Administration and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency, to be transferred annually and become merged with any appropriation for administrative expenses for such agency.
+The Secretary shall deposit in the fund all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan, ofany charge collected in connection with the insurance of loans; and any remainder of any such charge shall be available for administrative expenses of the Farmers Home Administration and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency, to be transferred annually and become merged with any appropriation for administrative expenses for such agency.
 
 #### (f) Utilization of fund
 
 The Secretary may utilize the fund—
 
-&emsp;(1) to pay amounts to which the holder of the note is entitled on loans heretofore or hereafter insured accruing between the date ofany payments made by the borrower and the date of transmittal of any such payments to the lender. In the discretion of the Secretary, payments other than final payments need not be remitted to the holder until due or until the next agreed annual or semiannual remittance date;
+&emsp;(1) to pay amounts to which the holder of the note is entitled on loans heretofore or hereafter insured accruing between the date of any payments made by the borrower and the date of transmittal of any such payments to the lender. In the discretion of the Secretary, payments other than final payments need not be remitted to the holder until due or until the next agreed annual or semiannual remittance date;
 
 &emsp;(2) to pay to the holder of the notes any deferred or defaulted installment or, upon assignment of the note to the Secretary at the Secretary's request, the entire balance due on the loan;
 
@@ -142,7 +142,7 @@ Subsec. (i). Pub. L. 102–554, §5(a), added subsec. (i).
 
 Subsec. (f)(2). Pub. L. 92–419, §115(a)(2), substituted "amounts" for "the interest" and "payments" for "prepayments" in three places and inserted "or until the next agreed annual or semi-annual remittance date" after "until due".
 
-Subsec. (f)(5). Pub. L. 92–419, §115(a)(3), (4), substituted "connection with insured loans, including the difference between interest payable to borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance" for "section 1985(a) of thistitle in connection with insured loans," and provided payment for contract services.
+Subsec. (f)(5). Pub. L. 92–419, §115(a)(3), (4), substituted "connection with insured loans, including the difference between interest payable to borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance" for "section 1985(a) of this title in connection with insured loans," and provided payment for contract services.
 
 Subsecs. (g), (h). Pub. L. 92–419, §115(b), added subsecs. (g) and (h).
 

@@ -42,7 +42,7 @@ June 6, 1900, ch. 811, 31 Stat. 671.
 
 June 3, 1916, ch. 134, §66, 39 Stat. 199.
 
-In subsection (a), the word "appointed" is omitted, since the position is not filled by appointment in some cases. The Act of January 21, 1903, ch. 196, §12 (last 48words of 1st sentence) are not contained in 32:11. They are also omitted from the revised section as covered by subsection (d) of this section.
+In subsection (a), the word "appointed" is omitted, since the position is not filled by appointment in some cases. The Act of January 21, 1903, ch. 196, §12 (last 48 words of 1st sentence) are not contained in 32:11. They are also omitted from the revised section as covered by subsection (d) of this section.
 
 In subsection (b), the word "grade" is substituted for the word "rank". The words "To be eligible for appointment as \* \* \* a person must be" are substituted for the words "each \* \* \* shall be". The words "of that jurisdiction" are substituted for the words "of the Territory for which he is appointed".
 

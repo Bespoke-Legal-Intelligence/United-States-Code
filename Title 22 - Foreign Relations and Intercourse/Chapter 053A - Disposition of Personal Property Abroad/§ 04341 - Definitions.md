@@ -14,7 +14,7 @@ For purposes of this chapter, the following terms have the following meanings:
 
 &emsp;(2) The term "contractor" means—
 
-&emsp;&emsp;(A) an individual employed by personal services contract pursuant to section 2669(c) of this title, section 2396(a)(3) of this title, or pursuant to other similar authority, including, in the case of an organization performing services under such authority, anindividual involved in the performance of such services; and
+&emsp;&emsp;(A) an individual employed by personal services contract pursuant to section 2669(c) of this title, section 2396(a)(3) of this title, or pursuant to other similar authority, including, in the case of an organization performing services under such authority, an individual involved in the performance of such services; and
 
 &emsp;&emsp;(B) such other individuals or firms providing goods or services by contract as are designated by regulations issued pursuant to section 4343 of this title;
 

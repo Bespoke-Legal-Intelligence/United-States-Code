@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-A transfer of a franchise, trademark, or trade name shall not be treated as a sale or exchange of a capital asset if the transferor retains any significant power, right, or continuing interest with respect to the subject matter of the franchise, trademark, or trade name.
+A transfer of a franchise, trademark, or trade name shall not be treated as a sale or exchange of a capital asset if the transferor retains anysignificant power, right, or continuing interest with respect to the subject matter of the franchise, trademark, or trade name.
 
 #### (b) Definitions
 
@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (c) Treatment of contingent payments by transferor
 
-Amounts received or accrued on account of a transfer, sale, or other disposition of a franchise, trademark, or trade name which are contingent on the productivity, use, or disposition of the franchise, trademark, or trade nametransferred shall be treated as amounts received or accrued from the sale or other disposition of property which is not a capital asset.
+Amounts received or accrued on account of a transfer, sale, or other disposition of a franchise, trademark, or trade name which are contingent on the productivity, use, or disposition of the franchise, trademark, or trade name transferred shall be treated as amounts received or accrued from the sale or other disposition of property which is not a capital asset.
 
 #### (d) Treatment of payments by transferee
 

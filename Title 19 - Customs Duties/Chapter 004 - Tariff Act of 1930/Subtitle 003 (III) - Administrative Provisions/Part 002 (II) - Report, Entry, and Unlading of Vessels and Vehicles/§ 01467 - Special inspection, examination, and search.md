@@ -18,7 +18,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Effective Date
 
-This section effective on the thirtieth day following June 25, 1938, except as otherwise specifically provided,see section 37 of act June 25, 1938, set out as an Effective Date of 1938 Amendment note under section 1401 of this title.
+This section effective on the thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as an Effective Date of 1938 Amendment note under section 1401 of this title.
 
 #### Transfer of Functions
 

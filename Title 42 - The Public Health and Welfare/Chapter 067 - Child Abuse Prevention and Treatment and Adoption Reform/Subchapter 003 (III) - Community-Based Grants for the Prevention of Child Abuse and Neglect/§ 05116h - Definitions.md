@@ -38,7 +38,7 @@ Another prior section 208 of Pub. L. 93–247 was classified to section 5116g of
 
 Par. (2). Pub. L. 111–320, §139(2), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-Par. (3). Pub. L. 111–320, §139(2), (3)(A), redesignated par. (5) as (3) and inserted ", including the services of crisis nurseries," after "short term care services" in introductory provisions. Former par. (3) redesignated (2).
+Par. (3). Pub. L. 111–320, §139(2), (3)(A), redesignated par. (5) as (3) and inserted ", including the services ofcrisis nurseries," after "short term care services" in introductory provisions. Former par. (3) redesignated (2).
 
 Par. (3)(A), (B). Pub. L. 111–320, §139(3)(B), substituted "child abuse or neglect" for "abuse or neglect".
 

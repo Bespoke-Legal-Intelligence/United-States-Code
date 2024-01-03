@@ -18,7 +18,7 @@
 
 &emsp;(8) Subchapter V of chapter 75 of title 5.
 
-(b) Except as provided in subsection (c), and notwithstanding any other provision of law, no provision of title 5 or any other law pertaining to the civil service system which is inconsistent with any provision of section 7306 of this title or this chapter shall be considered to supersede, override, or otherwise modify such provision of that section or this chapter except to the extent that such provision of title 5 or of such other law specifically provides, by specific reference to a provision of this chapter, or such provision to be superseded, overridden, or otherwise modified.
+(b) Except as provided in subsection (c), and notwithstanding any other provision of law, no provision of title 5 or any other law pertainingto the civil service system which is inconsistent with any provision of section 7306 of this title or this chapter shall be considered to supersede, override, or otherwise modify such provision of that section or this chapter except to the extent that such provision of title 5 or of such other law specifically provides, by specific reference to a provision of this chapter, or such provision to be superseded, overridden, or otherwise modified.
 
 (c) Notwithstanding any other provision of this subchapter, the Administration shall provide to individuals appointed to any position described in section 7421(b) who are employed for compensation by the Administration, family and medical leave in the same manner and subject to the same limitations to the maximum extent practicable, as family and medical leave is provided under subchapter V of chapter 63 of title 5 to employees, as defined in section 6381(1) of such title.
 
@@ -45,4 +45,8 @@ Subsec. (c). Pub. L. 116–283, §1103(d)(1)(B), added subsec. (c).
 #### Effective Date of 2021 Amendment
 
 Pub. L. 116–283, div. A, title XI, §1103(d)(2), Jan. 1, 2021, 134 Stat. 3888, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to any event for which leave may be taken under subchapter V of chapter 63 of title 5, United States Code, occurring on or after October 1, 2020."
+
+#### Department of Veterans Affairs: Including Military Service in Determining Family and Medical Leave Eligibility
+
+Pub. L. 118–31, div. A, title XI, §1114(c), Dec. 22, 2023, 137 Stat. 432, provided that: "Not later than 6 months after the date of enactment of this Act \[Dec. 22, 2023\], the Secretary of Veterans Affairs shall modify the family and medical leave program provided by operation of section 7425(c) of title 38, United States Code, to conform with the requirements of the amendment made by subsection (a) \[amending section 6381 of Title 5, Government Organization and Employees\] with respect to military service in section 6381(1)(B)(ii) of title 5, United States Code, as added by such subsection."
 

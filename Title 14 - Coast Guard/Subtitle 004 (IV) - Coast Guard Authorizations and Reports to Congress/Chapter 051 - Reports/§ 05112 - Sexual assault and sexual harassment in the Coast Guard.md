@@ -30,7 +30,7 @@ Contents.—The report required under subsection (a) shall contain the following
 
 #### Codification
 
-Pub. L. 111–281, title II, §217, Oct. 15, 2010, 124 Stat. 2917, formerly set out as a note under section 504 of this title, was redesignated as this section, transferred to appear after section 5111 of this title, and amended so that the enumerator, section catchline, typeface, andtypestyle conformed to those appearing in other sections of this title by Pub. L. 116–283, §8501(a)(7)(A).
+Pub. L. 111–281, title II, §217, Oct. 15, 2010, 124 Stat. 2917, formerly set out as a note under section 504 of this title, was redesignated as this section, transferred to appear after section 5111 of this title, and amended so that the enumerator, section catchline, typeface, and typestyle conformed to those appearing in other sections of this title by Pub. L. 116–283, §8501(a)(7)(A).
 
 #### Amendments
 

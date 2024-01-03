@@ -146,7 +146,7 @@ Savings Clause.—Nothing in this section shall be construed to abridge the auth
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–254, §1109(d)(1), substituted "resulting in any loss of life, and for which theNational Transportation Safety Board will serve as the lead investigative agency" for "resulting in a major loss of life" in introductory provisions.
+<b>2018</b>—Subsec. (a). Pub. L. 115–254, §1109(d)(1), substituted "resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency" for "resulting in a major loss of life" in introductory provisions.
 
 Subsec. (h)(1). Pub. L. 115–254, §1109(d)(2), amended par. (1) generally. Prior to amendment, text read as follows: "The term 'rail passenger accident' means any rail passenger disaster resulting in a major loss of life occurring in the provision of—
 

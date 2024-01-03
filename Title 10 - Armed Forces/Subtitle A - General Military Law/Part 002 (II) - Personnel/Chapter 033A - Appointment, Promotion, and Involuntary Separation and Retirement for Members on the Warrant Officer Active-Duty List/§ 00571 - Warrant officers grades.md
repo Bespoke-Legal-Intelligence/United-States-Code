@@ -108,7 +108,7 @@ Certain Officers To Be Considered as Recommended for Promotion.—A regular warr
 
 "(b)
 
-Board Consideration for Officers Removed From Promotion List.—An officer referred to in paragraph (1) of subsection (a) who is not promoted to the grade to which he is considered under such subsection to have been recommended for promotion because his name is removed from a list of officers who are considered under such paragraph to have been recommended for promotion shall be considered by a board convened under section 573 of title 10, United States Code, asamended by this title, for promotion to the permanent grade equivalent to the temporary grade in which he was serving on the effective date of this title as if he were serving in his permanent grade.
+Board Consideration for Officers Removed From Promotion List.—An officer referred to in paragraph (1) of subsection (a) who is not promoted to the grade to which he is considered under such subsection to have been recommended for promotion because his name is removed from a list of officers who are considered under such paragraph to have been recommended for promotion shall be considered by a board convened under section 573 of title 10, United States Code, as amended by this title, for promotion to the permanent grade equivalent to the temporary grade in which he was serving on the effective date of this title as if he were serving in his permanent grade.
 
 "(c)
 
@@ -183,6 +183,8 @@ Pub. L. 102–190, div. A, title XI, §1111(a), Dec. 5, 1991, 105 Stat. 1491, pr
 #### <b>Executive Documents</b>
 
 #### Delegation of Functions
+
+Authority of President under subsec. (b) of this section to appoint by commission regular chief warrant officers and reserve chief warrant officers in the Coast Guard delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, §1(g), (h), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of Title 14, Coast Guard.
 
 Functions of President under second sentence of subsec. (b) of this section delegated to Secretary of Defense by section 1(b) of Ex. Ord. No. 13384, July 27, 2005, 70 F.R. 43739, set out as a note under section 531 of this title.
 

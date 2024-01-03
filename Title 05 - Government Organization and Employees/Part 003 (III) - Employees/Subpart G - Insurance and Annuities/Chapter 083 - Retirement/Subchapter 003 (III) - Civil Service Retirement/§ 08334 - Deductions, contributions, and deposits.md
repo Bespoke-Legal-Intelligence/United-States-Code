@@ -6,7 +6,7 @@
 
 (ii) In the case of an employee of the United States Postal Service, no amount shall be contributed under this subparagraph.
 
-(2) The amounts so deducted and withheld, together with the amounts so contributed, shall be deposited in the Treasury of the United States to the credit of the Fund under such procedures as the Secretary of the Treasury may prescribe. Deposits made by an employee or Member also shall be credited to the Fund.
+(2) The amounts so deducted and withheld, together with the amounts so contributed, shall be deposited in the Treasury of the United States to the credit of the Fund under such proceduresas the Secretary of the Treasury may prescribe. Deposits made by an employee or Member also shall be credited to the Fund.
 
 (b) Each employee or Member is deemed to consent and agree to these deductions from basic pay. Notwithstanding any law or regulation affecting the pay of an employee or Member, payment less these deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to the benefits to which the employee or Member is entitled under this subchapter.
 
@@ -302,7 +302,7 @@ The Social Security Act, referred to in subsec. (k)(2)(C)(ii), (4)(A)(ii), is ac
 
 The Economic Opportunity Act of 1964, referred to in subsec. (l)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, §603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (l)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§4951 et seq.) and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which was classified generally to part B (§4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (l)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat.394. Parts A and C of title I of the Act are classified generally to parts A (§4951 et seq.) and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which was classified generally to part B (§4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
 The Peace Corps Act, referred to in subsec. (l)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
@@ -430,7 +430,7 @@ Subsec. (k)(4). Pub. L. 100–238, §108(b)(1), added par. (4).
 
 Subsec. (c). Pub. L. 100–53, §2(b)(2), inserted table covering percentages of basic pay and service periods for United States magistrates.
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–335, §201(c), inserted provision that notwithstanding preceding provisions of this subsection and any provision of section 206(b)(3) of Federal Employees' Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in case of an individual described in section 8402(b)(2) of this title shall, with respect to any covered service performed afterDec. 31, 1983, and before Jan. 1, 1987, be equal to 1.3 percent.
+<b>1986</b>—Subsec. (c). Pub. L. 99–335, §201(c), inserted provision that notwithstanding preceding provisions of this subsection and any provision of section 206(b)(3) of Federal Employees' Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in case of an individual described in section 8402(b)(2) of this title shall, with respect to any covered service performed after Dec. 31, 1983, and before Jan. 1, 1987, be equal to 1.3 percent.
 
 Subsec. (e)(1), (2). Pub. L. 99–335, §201(a)(2)(A), substituted "(j), or (k)" for "or (j)".
 
@@ -508,7 +508,7 @@ Subsec. (g)(5). Pub. L. 91–93, §202, added par. (5).
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title XIX, §1902(b), Oct. 28, 2009, 123 Stat. 2615, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effectivewith respect to any annuity, entitlement to which is based on a separation from service occurring on or after the date of enactment of this Act \[Oct. 28, 2009\]."
+Pub. L. 111–84, div. A, title XIX, §1902(b), Oct. 28, 2009, 123 Stat. 2615, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective with respect to any annuity, entitlement to which is based on a separation from service occurring on or after the date of enactment of this Act \[Oct. 28, 2009\]."
 
 #### Effective Date of 2007 Amendment; Transition Rules
 
@@ -546,7 +546,7 @@ Amendment by Pub. L. 105–261 effective at the beginning of the first pay perio
 
 #### Effective Date of 1997 Amendments
 
-Pub. L. 105–61, title V, §516(b), Oct. 10, 1997, 111 Stat. 1307, provided that: "The amendments made by subsection (a) \[amending this section and sections 8337, 8339, 8341, 8343a, 8344, 8415, 8422, and 8468 of this title\] shall be applicable to any annuity commencing before, on, or after the date of enactment of this Act \[Oct. 10, 1997\], and shall be effective with regard to any payment made after the first month following the date of enactment."
+Pub. L. 105–61, title V, §516(b), Oct. 10, 1997, 111 Stat. 1307, provided that: "The amendments made by subsection (a) \[amending this section and sections 8337,8339, 8341, 8343a, 8344, 8415, 8422, and 8468 of this title\] shall be applicable to any annuity commencing before, on, or after the date of enactment of this Act \[Oct. 10, 1997\], and shall be effective with regard to any payment made after the first month following the date of enactment."
 
 Pub. L. 105–33, title VII, §7001(f), Aug. 5, 1997, 111 Stat. 662, provided that:
 
@@ -652,7 +652,7 @@ Pub. L. 115–352, §3(c), Dec. 21, 2018, 132 Stat. 5068, provided that: "All pa
 
 #### Contributions to Federal Civil Service Retirement System
 
-Pub. L. 106–346, §101(a) \[title V, §505(f)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: "Notwithstanding section 8334(a)(1) or (k)(1) of title 5, United States Code, during the period beginning on October 1,2002, through December 31, 2002, each employing agency (other than the United States Postal Service or the Metropolitan Washington Airports Authority) shall contribute—
+Pub. L. 106–346, §101(a) \[title V, §505(f)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: "Notwithstanding section 8334(a)(1) or (k)(1) of title 5, United States Code, during the period beginning on October 1, 2002, through December 31, 2002, each employing agency (other than the United States Postal Service or the Metropolitan Washington Airports Authority) shall contribute—
 
 &emsp;"(1) 7.5 percent of the basic pay of an employee;
 
@@ -696,7 +696,7 @@ No reduction in agency contributions by the postal service.—Contributions by t
 
 #### Offsets To Prevent Full Double Coverage for Employees of Park Police and Secret Service
 
-Section 103(e) of Pub. L. 100–238 provided that: "Notwithstanding any other provision of law, in the case of an employee of the United States Secret Service or the United States Park Police whose pay is simultaneously subject to a deposit requirement under the District of Columbia Police and Firefighters' Retirement and Disability System and the contribution requirement under section 3101(a) of the Internal Revenue Code of 1986 \[26 U.S.C. 3101(a)\]—
+Section 103(e) of Pub. L. 100–238 provided that: "Notwithstanding any other provision of law, in the case of an employee of the United States Secret Service or the United States Park Police whose pay is simultaneously subject to a deposit requirement under the District ofColumbia Police and Firefighters' Retirement and Disability System and the contribution requirement under section 3101(a) of the Internal Revenue Code of 1986 \[26 U.S.C. 3101(a)\]—
 
 &emsp;"(1) any deposits under the District of Columbia Police and Firefighters' Retirement and Disability System shall be adjusted in a manner consistent with section 8334(k) of title 5, United States Code (relating to offsets in deductions from pay to reflect OASDI contributions); and
 
@@ -740,7 +740,7 @@ Interest Computation.—A refund under this section shall be computed with inter
 
 #### National Guard Technicians
 
-Amendment by Pub. L. 90–486 not applicable to persons employed prior to Jan. 1, 1969, whose employment was covered by the civil service retirement provisionsof section 8331 et seq. of this title, see section 5(d) of Pub. L. 90–486, set out as a note under section 709 of Title 32, National Guard.
+Amendment by Pub. L. 90–486 not applicable to persons employed prior to Jan. 1, 1969, whose employment was covered by the civil service retirement provisions of section 8331 et seq. of this title, see section 5(d) of Pub. L. 90–486, set out as a note under section 709 of Title 32, National Guard.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "United States magistrate judge,".</i>
 

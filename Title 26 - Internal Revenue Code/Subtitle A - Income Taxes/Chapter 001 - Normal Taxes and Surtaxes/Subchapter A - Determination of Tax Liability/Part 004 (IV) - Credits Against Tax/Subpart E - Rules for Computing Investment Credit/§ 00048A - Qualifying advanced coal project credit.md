@@ -14,7 +14,7 @@ For purposes of section 46, the qualifying advanced coal project credit for any 
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a), the qualified investment for any taxable year is the basis ofeligible property placed in service by the taxpayer during such taxable year which is part of a qualifying advanced coal project—
+&emsp;For purposes of subsection (a), the qualified investment for any taxable year is the basis of eligible property placed in service by the taxpayer during such taxable year which is part of a qualifying advanced coal project—
 
 &emsp;&emsp;(A)(i) the construction, reconstruction, or erection of which is completed by the taxpayer, or
 
@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (7) Integrated gasification combined cycle
 
-&emsp;The term "integrated gasification combined cycle" means an electric generation unit which produces electricity by converting coal to synthesis gas which is used to fuel a combined-cycle plant which produces electricity from both a combustion turbine (including a combustion turbine/fuel cell hybrid) and a steam turbine.
+&emsp;The term "integrated gasification combined cycle" means an electric generation unitwhich produces electricity by converting coal to synthesis gas which is used to fuel a combined-cycle plant which produces electricity from both a combustion turbine (including a combustion turbine/fuel cell hybrid) and a steam turbine.
 
 #### (d) Qualifying advanced coal project program
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iv) other benefits, and
 
-&emsp;&emsp;(C) give highest priority to projects with the greatest separation and sequestrationpercentage of total carbon dioxide emissions.
+&emsp;&emsp;(C) give highest priority to projects with the greatest separation and sequestration percentage of total carbon dioxide emissions.
 
 #### (f) Advanced coal-based generation technology
 
@@ -245,7 +245,7 @@ For purposes of this section—
 
 #### (3) Existing units
 
-&emsp;In the case of any electric generation unit in existence on the date of the enactment of this section, such unit uses advanced coal-based generation technology if, in lieu of the requirements under paragraph (1)(A)(ii), such unit achieves a minimum efficiency of 35 percent and an overall thermal design efficiency improvement, compared to the efficiency of the unit as operated, of not less than—
+&emsp;In the case of any electric generation unit in existence on the date of the enactment of thissection, such unit uses advanced coal-based generation technology if, in lieu of the requirements under paragraph (1)(A)(ii), such unit achieves a minimum efficiency of 35 percent and an overall thermal design efficiency improvement, compared to the efficiency of the unit as operated, of not less than—
 
 &emsp;&emsp;(A) 7 percentage points for coal of more than 9,000 Btu,
 
@@ -279,7 +279,7 @@ In implementing this section or section 48B, the Secretary is directed to modify
 
 The Secretary shall provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any project which fails to attain or maintain the separation and sequestration requirements of subsection (e)(1)(G).
 
-(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 999; amended Pub. L. 109–432, div. A, title II, §203(a), Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(10), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15346(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), titleXV, §15346(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 110–343, div. B, title I, §111(a)–(d), Oct. 3, 2008, 122 Stat. 3822, 3823; Pub. L. 111–5, div. B, title I, §1103(b)(2)(C), Feb. 17, 2009, 123 Stat. 321.)
+(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 999; amended Pub. L. 109–432, div. A, title II, §203(a), Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(10), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15346(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15346(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 110–343, div. B, title I, §111(a)–(d), Oct. 3, 2008, 122 Stat. 3822, 3823; Pub. L. 111–5, div. B, title I, §1103(b)(2)(C), Feb. 17, 2009, 123 Stat. 321.)
 
 #### <b>Editorial Notes</b>
 

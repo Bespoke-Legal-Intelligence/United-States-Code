@@ -36,7 +36,7 @@ For purposes of this subchapter—
 
 #### (1) In general
 
-&emsp;The term "correction period" means, with respect to any taxable event, the period beginning on the date on which such event occurs and ending 90 days after the date of mailing under section 6212 of a notice of deficiency with respect to the second tier tax imposed on such taxable event, extended by—
+&emsp;The term "correction period" means, with respect to any taxable event, the period beginning on the date on which such event occursand ending 90 days after the date of mailing under section 6212 of a notice of deficiency with respect to the second tier tax imposed on such taxable event, extended by—
 
 &emsp;&emsp;(A) any period in which a deficiency cannot be assessed under section 6213(a) (determined without regard to the last sentence of section 4961(b)), and
 

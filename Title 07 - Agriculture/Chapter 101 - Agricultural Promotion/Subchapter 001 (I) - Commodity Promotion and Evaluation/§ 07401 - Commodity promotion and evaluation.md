@@ -190,7 +190,7 @@ Subsec. (e). Pub. L. 107–171, §10607(a), added subsec. (e).
 
 Pub. L. 104–127, title V, §511, Apr. 4, 1996, 110 Stat. 1032, provided that: "This subtitle \[subtitle B (§§511–526) of title V of Pub. L. 104–127, enacting subchapter II of this chapter\] may be cited as the 'Commodity Promotion, Research, and Information Act of 1996'."
 
-Pub. L. 104–127, title V, §531, Apr. 4, 1996, 110 Stat. 1048, provided that: "This subtitle \[subtitle C (§§531–543) of title V of Pub. L. 104–127, enacting subchapter III ofthis chapter\] may be cited as the 'Canola and Rapeseed Research, Promotion, and Consumer Information Act'."
+Pub. L. 104–127, title V, §531, Apr. 4, 1996, 110 Stat. 1048, provided that: "This subtitle \[subtitle C (§§531–543) of title V of Pub. L. 104–127, enacting subchapter III of this chapter\] may be cited as the 'Canola and Rapeseed Research, Promotion, and Consumer Information Act'."
 
 Pub. L. 104–127, title V, §551, Apr. 4, 1996, 110 Stat. 1064, provided that: "This subtitle \[subtitle D (§§551–564) of title V of Pub. L. 104–127, enacting subchapter IV of this chapter\] may be cited as the 'National Kiwifruit Research, Promotion, and Consumer Information Act'."
 

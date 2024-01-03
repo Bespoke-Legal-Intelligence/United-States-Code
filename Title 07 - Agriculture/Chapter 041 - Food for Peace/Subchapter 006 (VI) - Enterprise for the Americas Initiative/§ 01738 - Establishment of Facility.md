@@ -42,7 +42,7 @@ Sec. 2. <i>Functions to be Performed by the Secretary of State</i>. (a) The Secr
 
 (b) The Secretary of State shall consult, as appropriate, with the Secretary of the Treasury and the Administrator of USAID, in the performance of functions under the provisions listed in subsection 2(a) of this order.
 
-(c) The Secretary of State shall consult, as appropriate, in the performance of functions under section 607 of the ATDA Act, with the Secretary of Agriculture, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of such other executive departments and agencies as the Secretary of State determines appropriate.
+(c) The Secretary of State shall consult, as appropriate, in the performance of functions under section 607 of the ATDA Act, with the Secretary of Agriculture, the Secretary of Commerce, the Administrator of theEnvironmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of such other executive departments and agencies as the Secretary of State determines appropriate.
 
 (d) The Secretary of State is hereby designated to receive advice or supplemental views on the President's behalf consistent with the following provisions of law:
 
@@ -50,7 +50,7 @@ Sec. 2. <i>Functions to be Performed by the Secretary of State</i>. (a) The Secr
 
 (2) \[former\] section 813(b) of the Foreign Assistance Act (22 U.S.C. 2431k).
 
-Sec. 3. <i>Recommendation by USAID</i>. The Administrator of USAID shall make recommendations with respect to803(5)(B) of the Foreign Assistance Act (22 U.S.C. 2431a(5)(B)\[)\], in cooperation with the Secretary of Agriculture and the Secretary of State.
+Sec. 3. <i>Recommendation by USAID</i>. The Administrator of USAID shall make recommendations with respect to 803(5)(B) of the Foreign Assistance Act (22 U.S.C. 2431a(5)(B)\[)\], in cooperation with the Secretary of Agriculture and the Secretary of State.
 
 Sec. 4. <i>Government Appointees to the Enterprise for the Americas Board</i>. (a) Pursuant to section 610(b)(1)(A) of the ATDA Act (7 U.S.C. 1738i(b)(1)(A)\[)\] and section 811(b)(1)(A) and (b)(2) of the Foreign Assistance Act (22 U.S.C. 2431i(b)(1)(A) and (b)(2)), the following officers or employees of the United States are hereby designated to serve as representatives on the Enterprise for the Americas Board:
 

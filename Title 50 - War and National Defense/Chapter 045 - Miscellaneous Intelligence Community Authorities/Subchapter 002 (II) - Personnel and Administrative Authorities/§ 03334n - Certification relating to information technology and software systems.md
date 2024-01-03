@@ -12,7 +12,7 @@ Prior to the date on which the head of an element of the intelligence community 
 
 #### (b) Exemption
 
-The Director of National Intelligence may exempt elements of the intelligence community, as appropriate, from the requirements under (a) if meeting such requirements may pose security or operational risks.
+The Director of National Intelligence may exempt elements of the intelligence community, as appropriate, from the requirements under (a) <sup>1</sup> if meeting such requirements may pose security or operational risks.
 
 #### (c) Guidance
 
@@ -33,4 +33,6 @@ The Director shall issue to the heads of the elements of the intelligence commun
 For definitions of "intelligence community" and "congressional intelligence committees" as used in this section, see section 6002 of Pub. L. 117–263, set out as a note under section 3003 of this title.
 
 For definitions of "emerging technology" and "artificial intelligence" as used in this section, see section 6701 of Pub. L. 117–263, set out as a note under section 3024 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (a)".</i>
 

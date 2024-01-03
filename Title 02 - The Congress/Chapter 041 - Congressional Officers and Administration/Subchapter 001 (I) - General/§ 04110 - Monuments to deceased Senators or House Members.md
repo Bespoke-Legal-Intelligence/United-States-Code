@@ -30,7 +30,7 @@ Terms and Conditions of Agreement.—The terms and conditions described in this 
 
 &emsp;"(3) The Association shall use such distributions from the endowment and the match for the care and maintenance of Congressional Cemetery, except that the Association may not use such distributions for nonroutine restoration or capital projects.
 
-&emsp;"(4) The Association, or any successor thereto, shall maintain adequate records and accounts of all financial transactions and operations carried outwith such distributions, and such records shall be available at all times for audit and investigation by the Architect of the Capitol and the Comptroller General.
+&emsp;"(4) The Association, or any successor thereto, shall maintain adequate records and accounts of all financial transactions and operations carried out with such distributions, and such records shall be available at all times for audit and investigation by the Architect of the Capitol and the Comptroller General.
 
 "(c)
 
@@ -44,7 +44,7 @@ Pub. L. 97–245, Aug. 26, 1982, 96 Stat. 313, provided: "That the Congress find
 
 &emsp;"(2) the physical condition of these areas and related portions of the cemetery has deteriorated to the extent that restoration is necessary to protect and preserve the historical values of these areas.
 
-"Sec. 2. In order to assist in the restoration and preservation of the historic values of the Congressional Cemetery, the Architect of the Capitol is authorized and directed to make grants to the Association for the Preservation of Historic Congressional Cemetery, Washington, District of Columbia, to be used for a program of restoration and preservation (but not routine maintenance) of the cemetery to be carried out under terms and conditions to be prescribed by the Architect of the Capitol. The Association shall maintain adequate records and accounts of all financial transactions and operations carried out under such program, and such records shall be available at all times for audit and investigation by the Architect or the Comptroller General of the United States. Nothing in this Act shall be construed to vest title to the Congressional Cemetery in the United States.
+"Sec. 2. In order to assist in the restoration and preservation of the historic values of the CongressionalCemetery, the Architect of the Capitol is authorized and directed to make grants to the Association for the Preservation of Historic Congressional Cemetery, Washington, District of Columbia, to be used for a program of restoration and preservation (but not routine maintenance) of the cemetery to be carried out under terms and conditions to be prescribed by the Architect of the Capitol. The Association shall maintain adequate records and accounts of all financial transactions and operations carried out under such program, and such records shall be available at all times for audit and investigation by the Architect or the Comptroller General of the United States. Nothing in this Act shall be construed to vest title to the Congressional Cemetery in the United States.
 
 "
 

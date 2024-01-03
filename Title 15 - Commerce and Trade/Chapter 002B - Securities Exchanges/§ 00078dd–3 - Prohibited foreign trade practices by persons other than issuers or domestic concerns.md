@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-It shall be unlawful for any person other than an issuer that is subject to section 78dd–1 of this title or a domestic concern (as defined in section 78dd–2 of this title), or for any officer, director, employee, or agent of such person or any stockholder thereof acting on behalf of such person, while in the territory of the United States, corruptly to make use of the mails or any means orinstrumentality of interstate commerce or to do any other act in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to—
+It shall be unlawful for any person other than an issuer that is subject to section 78dd–1 of this title or a domestic concern (as defined in section 78dd–2 of this title), or for any officer, director, employee, or agent of such person or any stockholder thereof acting on behalf of such person, while in the territory of the United States, corruptly to make use of the mails or any means or instrumentality of interstate commerce or to do any other act in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to—
 
 &emsp;(1) any foreign official for purposes of—
 
@@ -94,7 +94,7 @@ For purposes of this section:
 
 &emsp;&emsp;(ii) processing governmental papers, such as visas and work orders;
 
-&emsp;&emsp;(iii) providing police protection, mail pick-up and delivery, or scheduling inspections associated with contract performance or inspections related to transit of goods across country;
+&emsp;&emsp;(iii) providing police protection, mail pick-up and delivery, or scheduling inspectionsassociated with contract performance or inspections related to transit of goods across country;
 
 &emsp;&emsp;(iv) providing phone service, power and water supply, loading and unloading cargo, or protecting perishable products or commodities from deterioration; or
 

@@ -44,7 +44,7 @@
 
 (4) Any reimbursement under paragraph (1) or (2) shall be deposited to a special account in the Treasury and shall be available to the Government Accountability Office for such purposes and in such amounts as are specified in annual appropriations Acts.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 961; Pub. L. 101–576, title III, §304(a), Nov. 15, 1990, 104 Stat. 2852; Pub. L. 103–356, title IV, §405(b), Oct. 13, 1994, 108 Stat. 3416; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §805(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392; Pub. L. 106–531, §4(b), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 110–323, §6(a), Sept. 22, 2008, 122 Stat. 3547; Pub. L. 117–286, §4(b)(55), Dec. 27, 2022, 136 Stat. 4349.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 961; Pub. L. 101–576, title III, §304(a), Nov. 15, 1990, 104Stat. 2852; Pub. L. 103–356, title IV, §405(b), Oct. 13, 1994, 108 Stat. 3416; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §805(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392; Pub. L. 106–531, §4(b), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 110–323, §6(a), Sept. 22, 2008, 122 Stat. 3547; Pub. L. 117–286, §4(b)(55), Dec. 27, 2022, 136 Stat. 4349.)
 
 Historical and Revision Notes
 
@@ -144,5 +144,5 @@ Pub. L. 101–576, title III, §304(b), Nov. 15, 1990, 104 Stat. 2853, provided 
 
 #### Time Limit for Resolving Pending and New Audits
 
-Pub. L. 96–304, title III, §305, July 8, 1980, 94 Stat. 928, provided that: "All unresolved audits currently pending within agencies and departments, for which appropriations are made under this Act, shall be resolved not later than September 30, 1981. Any new audits, involving questioned costs, arising after July 8, 1980, shall be resolved within 6 months."
+Pub. L. 96–304, title III, §305, July 8, 1980, 94 Stat. 928, provided that: "All unresolved audits currently pendingwithin agencies and departments, for which appropriations are made under this Act, shall be resolved not later than September 30, 1981. Any new audits, involving questioned costs, arising after July 8, 1980, shall be resolved within 6 months."
 

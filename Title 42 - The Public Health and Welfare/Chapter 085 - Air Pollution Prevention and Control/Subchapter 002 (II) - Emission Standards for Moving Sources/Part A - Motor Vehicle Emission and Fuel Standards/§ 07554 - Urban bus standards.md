@@ -30,7 +30,7 @@ Not later than January 1, 1992, the Administrator shall promulgate regulations u
 
 &emsp;(B) The Administrator shall promulgate a schedule phasing in any low-polluting fuel requirement established pursuant to this paragraph to an increasing percentage of new urban buses purchased or placed into service in each of the first 5 model years commencing 3 years after the determination under subparagraph (A). Under such schedule 100 percent of new urban buses placed into service in the fifth model year commencing 3 years after the determination under subparagraph (A) shall comply with the low-polluting fuel requirement established pursuant to this paragraph.
 
-&emsp;(C) The Administrator may extend the requirements of this paragraph to metropolitan statistical areas or consolidated metropolitan statistical areas with a 1980 population of less than 750,000, if the Administrator determines that a significant benefit to public health could be expected to result from such extension.
+&emsp;(C) The Administrator may extend the requirements of this paragraph to metropolitan statistical areas or consolidated metropolitan statistical areas with a 1980 population of less than 750,000, if the Administrator determines that a significant benefit to public healthcould be expected to result from such extension.
 
 #### (d) Retrofit requirements
 

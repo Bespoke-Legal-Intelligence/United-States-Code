@@ -140,7 +140,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) eligible for a free or reduced price school lunch under the Richard B. Russell National School Lunch Act;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) in families receiving assistance under the State program funded underpart A of title IV of the Social Security Act; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) in families receiving assistance under the State program funded under part A of title IV of the Social Security Act; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) eligible to receive medical assistance under the Medicaid program;
 
@@ -314,7 +314,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) are specific to academic subject matter; and
 
-&emsp;&emsp;&emsp;(iii) focus on the identification of students' specific learning needs, particularly students with disabilities, students whoare limited English proficient, students who are gifted and talented, and students with low literacy levels, and the tailoring of academic instruction to such needs;
+&emsp;&emsp;&emsp;(iii) focus on the identification of students' specific learning needs, particularly students with disabilities, students who are limited English proficient, students who are gifted and talented, and students with low literacy levels, and the tailoring of academic instruction to such needs;
 
 &emsp;&emsp;(E) conduct an ongoing assessment of student learning, which may include the use of formative assessments, performance-based assessments, project-based assessments, or portfolio assessments, that measures higher-order thinking skills (including application, analysis, synthesis, and evaluation);
 
@@ -350,7 +350,7 @@ Another prior section 1021, Pub. L. 89–329, title II, §201, Nov. 8, 1965, 79 
 
 #### Amendments
 
-<b>2015</b>—Par. (3). Pub. L. 114–95, §9215(oo)(2)(A), substituted "The term 'core academic subjects' means English, reading or language arts, mathematics, science, foreign languages, civics and government, economics, arts, history, and geography" for "The term 'core academic subjects' has the meaning given the term in section 7801 of this title".
+<b>2015</b>—Par. (3). Pub. L. 114–95, §9215(oo)(2)(A), substituted "The term 'core academic subjects' meansEnglish, reading or language arts, mathematics, science, foreign languages, civics and government, economics, arts, history, and geography" for "The term 'core academic subjects' has the meaning given the term in section 7801 of this title".
 
 Par. (5). Pub. L. 114–95, §9215(oo)(2)(B), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
 
@@ -374,7 +374,7 @@ Par. (17)(B)(ii). Pub. L. 114–95, §9214(c)(1)(B), substituted "who meets the 
 
 Par. (19). Pub. L. 114–95, §9215(oo)(2)(I), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
 
-Par. (22)(D)(i). Pub. L. 114–95, §9214(c)(1)(C), substituted ", with respect to special education teachers,meets the qualifications described in section 1412(a)(14)(C) of this title" for "becomes highly qualified".
+Par. (22)(D)(i). Pub. L. 114–95, §9214(c)(1)(C), substituted ", with respect to special education teachers, meets the qualifications described in section 1412(a)(14)(C) of this title" for "becomes highly qualified".
 
 <b>2009</b>—Par. (22)(D). Pub. L. 111–39 added subpar. (D) and struck out former subpar (D) which read as follows: "prior to completion of the program, earns a master's degree, attains full State teacher certification or licensure, and becomes highly qualified."
 

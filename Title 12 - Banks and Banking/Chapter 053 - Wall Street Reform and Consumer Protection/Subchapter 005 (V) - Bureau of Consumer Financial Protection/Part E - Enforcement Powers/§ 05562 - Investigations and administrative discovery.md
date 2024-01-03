@@ -140,7 +140,7 @@
 
 #### (iii) Transmission to custodian
 
-&emsp;&emsp;&emsp;After the testimony is fully transcribed, the officer investigator before whom thetestimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian.
+&emsp;&emsp;&emsp;After the testimony is fully transcribed, the officer investigator before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian.
 
 #### (B) Parties present
 
@@ -206,7 +206,7 @@
 
 #### (2) Disclosure to Congress
 
-&emsp;No rule established by the Bureau regarding the confidentiality of materials submitted to, or otherwise obtained by, the Bureau shall be intended to prevent disclosure to either House of Congress or to an appropriate committee of the Congress, except that the Bureau is permitted to adopt rules allowing prior notice to any party that owns or otherwise provided thematerial to the Bureau and had designated such material as confidential.
+&emsp;No rule established by the Bureau regarding the confidentiality of materials submitted to, or otherwise obtained by, the Bureau shall be intended to prevent disclosure to either House of Congress or to an appropriate committee of the Congress, except that the Bureau is permitted to adopt rules allowing prior notice to any party that owns or otherwise provided the material to the Bureau and had designated such material as confidential.
 
 #### (e) Petition for enforcement
 

@@ -14,7 +14,7 @@ The Congress finds that—
 
 #### (b) Activities of United Nations employees
 
-(1) The conduct of any activities, or the acquisition of any benefits (as defined in section 4301(a)(1) of this title), outside the United Nations Headquarters District by any individual employed by, or authorized by the United Nations to conduct official business in connection with, that organization or its agencies, or by any person or agency acting on behalf thereof, may be permitted or denied or subject to reasonable regulation, as determined to be in the best interests of the United States and pursuant to this chapter.
+(1) The conduct of any activities, or the acquisition of any benefits (as defined in section 4301(a)(1) of this title), outside the United Nations Headquarters District by any individual employed by, or authorized by the United Nations to conduct official business in connection with, that organization or its agencies, or by any person or agency acting on behalf thereof, may be permitted or denied or subject to reasonable regulation, as determined to be in the bestinterests of the United States and pursuant to this chapter.
 
 (2) Repealed. Pub. L. 103–236, title I, §139(26), Apr. 30, 1994, 108 Stat. 399.
 
@@ -44,5 +44,5 @@ Public Law 80–357, referred to in subsec. (a)(1), is act Aug. 4, 1947, ch. 482
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(2). Pub. L. 103–236 struck out par. (2) which read as follows: "The Secretary shall apply tothose employees of the United Nations Secretariat who are nationals of a foreign country or members of a foreign mission all terms, limitations, restrictions, and conditions which are applicable pursuant to this chapter to the members of that country's mission or of any other mission to the United Nations unless the Secretary determines and reports to the Congress that national security and foreign policy circumstances require that this paragraph be waived in specific circumstances."
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–236 struck out par. (2) which read as follows: "The Secretary shall apply to those employees of the United Nations Secretariat who are nationals of a foreign country or members of a foreign mission all terms, limitations, restrictions, and conditions which are applicable pursuant to this chapter to the members of that country's mission or of any other mission to the United Nations unless the Secretary determines and reports to the Congress that national security and foreign policy circumstances require that this paragraph be waived in specific circumstances."
 

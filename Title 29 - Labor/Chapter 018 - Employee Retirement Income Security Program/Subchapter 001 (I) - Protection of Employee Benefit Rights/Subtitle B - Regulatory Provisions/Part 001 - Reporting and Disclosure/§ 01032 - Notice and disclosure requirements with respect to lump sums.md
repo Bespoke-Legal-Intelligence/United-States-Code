@@ -14,7 +14,7 @@ A plan administrator of a pension plan that amends the plan to provide a period 
 
 &emsp;The notice required under subsection (a)(1) shall include the following:
 
-&emsp;&emsp;(A) Available benefit options, including the estimated monthly benefit that the participant or beneficiary would receive at normal retirement age, whether there is a subsidized early retirement option or qualified joint and survivor annuity that is fully subsidized (in accordance with section 417(a)(5) of title 26,<sup>1</sup> the monthly benefit amount ifpayments begin immediately, and the lump sum amount available if the participant or beneficiary takes the option.
+&emsp;&emsp;(A) Available benefit options, including the estimated monthly benefit that the participant or beneficiary would receive at normal retirement age, whether there is a subsidized early retirement option or qualified joint and survivor annuity that is fully subsidized (in accordance with section 417(a)(5) of title 26,<sup>1</sup> the monthly benefit amount if payments begin immediately, and the lump sum amount available if the participant or beneficiary takes the option.
 
 &emsp;&emsp;(B) An explanation of how the lump sum was calculated, including the interest rate, mortality assumptions, and whether any additional plan benefits were included in the lump sum, such as early retirement subsidies.
 
@@ -82,7 +82,7 @@ Section 342(e) of the SECURE 2.0 Act of 2022, referred to in subsec. (f), is sec
 
 #### Effective Date of 2022 Amendment
 
-Pub. L. 117–328, div. T, title III, §342(d), Dec. 29, 2022, 136 Stat. 5378, provided that: "The requirements of section 113 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1032\], as added by subsection (b) \[probably means subsec. (a) of section 342 of Pub. L. 117–328, which enacted this section\], shall apply beginning on the applicable effective date specified in thefinal regulations promulgated pursuant to subsection (e) \[set out below\]."
+Pub. L. 117–328, div. T, title III, §342(d), Dec. 29, 2022, 136 Stat. 5378, provided that: "The requirements of section 113 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1032\], as added by subsection (b) \[probably means subsec. (a) of section 342 of Pub. L. 117–328, which enacted this section\], shall apply beginning on the applicable effective date specified in the final regulations promulgated pursuant to subsection (e) \[set out below\]."
 
 #### Regulations
 

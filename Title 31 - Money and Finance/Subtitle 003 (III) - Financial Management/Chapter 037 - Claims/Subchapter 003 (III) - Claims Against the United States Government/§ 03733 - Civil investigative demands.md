@@ -52,7 +52,7 @@ Contents and deadlines.—
 
 &emsp;&emsp;&emsp;(v) describe the general purpose for which the demand is being issued and the general nature of the testimony, including the primary areas of inquiry, which will be taken pursuant to the demand.
 
-&emsp;&emsp;(E) Any civil investigative demand issued under this section which is an express demand for any product of discovery shall not be returned or returnable until 20 days after a copy of such demand has been served upon the person from whom the discovery was obtained.
+&emsp;&emsp;(E) Any civil investigative demand issued under this section which is an express demand for any product of discovery shall notbe returned or returnable until 20 days after a copy of such demand has been served upon the person from whom the discovery was obtained.
 
 &emsp;&emsp;(F) The date prescribed for the commencement of oral testimony pursuant to a civil investigative demand issued under this section shall be a date which is not less than seven days after the date on which demand is received, unless the Attorney General or an Assistant Attorney General designated by the Attorney General determines that exceptional circumstances are present which warrant the commencement of such testimony within a lesser period of time.
 
@@ -110,7 +110,7 @@ Natural persons.—Service of any such demand or petition may be made upon any n
 
 (e)
 
-Proof of Service.—A verified return by the individual serving any civil investigative demand issued under subsection (a) or any petition filed under subsection (j) setting forth the manner of such service shall be proof of such service. In the case of service by registered or certifiedmail, such return shall be accompanied by the return post office receipt of delivery of such demand.
+Proof of Service.—A verified return by the individual serving any civil investigative demand issued under subsection (a) or any petition filed under subsection (j) setting forth the manner of such service shall be proof of such service. In the case of service by registered or certified mail, such return shall be accompanied by the return post office receipt of delivery of such demand.
 
 (f)
 
@@ -124,7 +124,7 @@ Sworn certificates.—The production of documentary material in response to a ci
 
 &emsp;&emsp;(B) in the case of a person other than a natural person, a person having knowledge of the facts and circumstances relating to such production and authorized to act on behalf of such person.
 
-> &emsp;The certificate shall state that all of the documentary material required by the demand and in the possession, custody, or control of the person to whom the demand is directed has been produced and made available to the false claims law investigator identified in the demand.
+> &emsp;The certificate shall state that all of the documentary material required by the demand and in the possession, custody, or control of the person to whom the demand is directed hasbeen produced and made available to the false claims law investigator identified in the demand.
 
 &emsp;(2)
 
@@ -162,7 +162,7 @@ Transcript of testimony.—When the testimony is fully transcribed, the false cl
 
 &emsp;(5)
 
-Certification and delivery to custodian.—The officer before whom the testimony is taken shall certify on the transcript that the witness was sworn by the officer and that the transcript is a true record of the testimony given by the witness, and the officer or false claims law investigator shall promptly deliver the transcript, or send the transcriptby registered or certified mail, to the custodian.
+Certification and delivery to custodian.—The officer before whom the testimony is taken shall certify on the transcript that the witness was sworn by the officer and that the transcript is a true record of the testimony given by the witness, and the officer or false claims law investigator shall promptly deliver the transcript, or send the transcript by registered or certified mail, to the custodian.
 
 &emsp;(6)
 
@@ -170,7 +170,7 @@ Furnishing or inspection of transcript by witness.—Upon payment of reasonable 
 
 &emsp;(7)
 
-Conduct of oral testimony.—(A) Any person compelled to appear for oral testimony under a civil investigative demand issued under subsection (a) may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on the grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person may not otherwise object to or refuse to answer any question, and may not directly or through counsel otherwise interrupt the oral examination. If such person refuses to answer any question, a petition may be filed in the district court of the United States under subsection (j)(1) for an order compelling such person to answer such question.
+Conduct of oral testimony.—(A) Any person compelled to appear for oral testimony under a civil investigative demand issued under subsection (a) may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shallbriefly state for the record the reason for the objection. An objection may be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on the grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person may not otherwise object to or refuse to answer any question, and may not directly or through counsel otherwise interrupt the oral examination. If such person refuses to answer any question, a petition may be filed in the district court of the United States under subsection (j)(1) for an order compelling such person to answer such question.
 
 &emsp;(B) If such person refuses to answer any question on the grounds of the privilege against self-incrimination, the testimony of such person may be compelled in accordance with the provisions of part V of title 18.
 
@@ -254,11 +254,11 @@ Petition to modify or set aside demand for product of discovery.—(A) In the ca
 
 &emsp;(4)
 
-Petition to require performance by custodian of duties.—At any time during which any custodian is in custody or control of any documentary material or answers to interrogatories produced, or transcripts of oral testimony given, by any person in compliancewith any civil investigative demand issued under subsection (a), such person, and in the case of an express demand for any product of discovery, the person from whom such discovery was obtained, may file, in the district court of the United States for the judicial district within which the office of such custodian is situated, and serve upon such custodian, a petition for an order of such court to require the performance by the custodian of any duty imposed upon the custodian by this section.
+Petition to require performance by custodian of duties.—At any time during which any custodian is in custody or control of any documentary material or answers to interrogatories produced, or transcripts of oral testimony given, by any person in compliance with any civil investigative demand issued under subsection (a), such person, and in the case of an express demand for any product of discovery, the person from whom such discovery was obtained, may file, in the district court of the United States for the judicial district within which the office of such custodian is situated, and serve upon such custodian, a petition for an order of such court to require the performance by the custodian of any duty imposed upon the custodian by this section.
 
 &emsp;(5)
 
-Jurisdiction.—Whenever any petition is filed in any district court of the United States under this subsection, such court shall have jurisdiction to hear and determine the matter so presented, and to enter such order or orders as may be required to carry out the provisions of this section. Any final order so entered shall be subject to appeal under section 1291 of title 28. Any disobedience of any final order entered under this section by any court shall be punished as a contempt of the court.
+Jurisdiction.—Whenever any petition is filed in any district court of the United States under this subsection, such court shall have jurisdiction to hear and determine the matter so presented, and to enter such order or orders as may be required to carry out the provisions of this section. Any final order so entered shall be subject to appeal under section 1291 of title 28. Any disobedience of any final orderentered under this section by any court shall be punished as a contempt of the court.
 
 &emsp;(6)
 
@@ -310,7 +310,7 @@ The date of enactment of this section, referred to in subsec. (l)(1)(B), is the 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–21, §4(c)(1)(A), in introductory provisions, inserted ", or a designee (for purposes of this section)," after "Whenever the Attorney General" and substituted "the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b)," for "the Attorney General may, before commencing a civil proceeding under section 3730 or other false claims law," and, in concluding provisions, substituted "may delegate" for "may not delegate" and inserted at end "Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the AttorneyGeneral or designee determine it is necessary as part of any false claims act investigation."
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–21, §4(c)(1)(A), in introductory provisions, inserted ", or a designee (for purposes of this section)," after "Whenever the Attorney General" and substituted "the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b)," for "the Attorney General may, before commencing a civil proceeding under section 3730 or other false claims law," and, in concluding provisions, substituted "may delegate" for "may not delegate" and inserted at end "Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the Attorney General or designee determine it is necessary as part of any false claims act investigation."
 
 Subsec. (a)(2)(G). Pub. L. 111–21, §4(c)(1)(B), struck out at end "The Attorney General may not, notwithstanding section 510 of title 28, authorize the performance, by any other officer, employee, or agency, of any function vested in the Attorney General under this subparagraph."
 

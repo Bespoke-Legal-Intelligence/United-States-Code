@@ -30,7 +30,7 @@ Subject to the availability of funds pursuant to this section, the Secretary sha
 
 #### (2) Other programs
 
-&emsp;In carrying out this section, the Secretary shall work in conjunction with other Federal,State, and private prevention, control, or suppression efforts to protect rangeland.
+&emsp;In carrying out this section, the Secretary shall work in conjunction with other Federal, State, and private prevention, control, or suppression efforts to protect rangeland.
 
 #### (d) Federal cost share of treatment
 

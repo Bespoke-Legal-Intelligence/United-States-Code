@@ -28,7 +28,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) 90 percent or more of the expenditures of the organization for the taxable year are expenditures for the acquisition, construction, management, maintenance, and care of association property and, in the case of a timeshare association, for activities provided to or on behalf of members of the association,
 
-&emsp;&emsp;(D) no part of the net earnings of such organization inures (other than by acquiring, constructing, or providing management, maintenance, and care of association property, and other than by a rebate of excess membership dues, fees, or assessments) to the benefit of any private shareholder or individual, and
+&emsp;&emsp;(D) no part of the net earnings of such organization inures (other than by acquiring, constructing, or providing management,maintenance, and care of association property, and other than by a rebate of excess membership dues, fees, or assessments) to the benefit of any private shareholder or individual, and
 
 &emsp;&emsp;(E) such organization elects (at such time and in such manner as the Secretary by regulations prescribes) to have this section apply for the taxable year.
 

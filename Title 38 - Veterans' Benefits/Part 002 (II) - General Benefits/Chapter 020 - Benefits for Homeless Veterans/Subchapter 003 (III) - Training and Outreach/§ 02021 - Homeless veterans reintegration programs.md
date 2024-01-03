@@ -28,13 +28,13 @@ Grants.—(1) In awarding grants for purposes of conducting programs described i
 
 Training and Technical Assistance.—(1) The Secretary of Labor shall provide training and technical assistance to entities seeking a grant or contract under this section and recipients of a grant or contract under this section regarding the planning, development, and provision of services for which the grant or contract is awarded, including before and during the grant application or contract award period.
 
-(2) The training and technical assistance provided under paragraph (1) shall include outreach and assistance specifically designed for entities serving regions and populations underserved by the programs conducted under this section.
+(2) The training and technical assistance provided under paragraph (1) shall include outreachand assistance specifically designed for entities serving regions and populations underserved by the programs conducted under this section.
 
 (3) The Secretary of Labor may provide training and technical assistance under paragraph (1) directly or through grants or contracts with such public or nonprofit private entities as that Secretary considers appropriate.
 
 (d)
 
-Requirement to Monitor Expenditures of Funds.—(1) The Secretary of Labor shall collect such information as that Secretary considersappropriate to monitor and evaluate the distribution and expenditure of funds appropriated to carry out this section.
+Requirement to Monitor Expenditures of Funds.—(1) The Secretary of Labor shall collect such information as that Secretary considers appropriate to monitor and evaluate the distribution and expenditure of funds appropriated to carry out this section.
 
 (2) Information collected under paragraph (1) shall include data with respect to the results or outcomes of the services provided to each homeless veteran under this section.
 

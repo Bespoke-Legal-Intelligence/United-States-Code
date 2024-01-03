@@ -54,7 +54,7 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 #### (1) In general
 
-&emsp;For purposes of this section a dependent care assistance program is a separate written plan of an employer for the exclusive benefit of his employees to provide such employees with dependent care assistance which meets the requirements of paragraphs (2) through (8) of this subsection. If any plan would qualify as a dependent care assistance program but for a failure to meet the requirements of this subsection, then, notwithstanding such failure, such plan shall be treated as a dependent care assistance program in the case of employees who are not highly compensated employees.
+&emsp;For purposes of this section a dependent care assistance program is a separate writtenplan of an employer for the exclusive benefit of his employees to provide such employees with dependent care assistance which meets the requirements of paragraphs (2) through (8) of this subsection. If any plan would qualify as a dependent care assistance program but for a failure to meet the requirements of this subsection, then, notwithstanding such failure, such plan shall be treated as a dependent care assistance program in the case of employees who are not highly compensated employees.
 
 #### (2) Discrimination
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 #### (6) Utilization test not applicable
 
-&emsp;A dependent care assistance program shall not be held or considered to fail to meet any requirements of subsection (d) (other than paragraphs (4) and (8) thereof) merely because of utilization rates for the different types of assistance made available under the program.
+&emsp;A dependent care assistance program shall not be held or considered to fail to meet anyrequirements of subsection (d) (other than paragraphs (4) and (8) thereof) merely because of utilization rates for the different types of assistance made available under the program.
 
 #### (7) Disallowance of excluded amounts as credit or deduction
 
@@ -138,7 +138,7 @@ For purposes of this section—
 
 #### (8) Treatment of onsite facilities
 
-&emsp;In the case of an onsite facility maintained by an employer, except to the extent provided in regulations, the amount of dependent careassistance provided to an employee excluded with respect to any dependent shall be based on—
+&emsp;In the case of an onsite facility maintained by an employer, except to the extent provided in regulations, the amount of dependent care assistance provided to an employee excluded with respect to any dependent shall be based on—
 
 &emsp;&emsp;(A) utilization of the facility by a dependent of the employee, and
 

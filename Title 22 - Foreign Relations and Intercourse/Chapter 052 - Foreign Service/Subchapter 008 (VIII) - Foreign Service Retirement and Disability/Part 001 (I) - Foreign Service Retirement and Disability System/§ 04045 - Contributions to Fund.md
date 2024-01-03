@@ -58,7 +58,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### (e) Contribution for military or naval service
 
-(1) Subject to paragraph (5), each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this part is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basicpay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be based upon estimates of such basic pay provided to the Department under paragraph (4).
+(1) Subject to paragraph (5), each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this part is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be based upon estimates of such basic pay provided to the Department under paragraph (4).
 
 (2) Any deposit made under paragraph (1) of this subsection more than two years after the later of—
 
@@ -76,7 +76,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### (f) Exemption for certain military or naval service
 
-Contributions shall only be required to obtain credit for periods of military or naval service to the extent provided under subsection (e) and section 4056(a) of this title, except that credit shall be allowed in the absence of contributions to individuals of Japanese ancestry under section 4056 of this title for periods of internment during World War II.
+Contributions shall only be required to obtain credit for periods of military or naval service tothe extent provided under subsection (e) and section 4056(a) of this title, except that credit shall be allowed in the absence of contributions to individuals of Japanese ancestry under section 4056 of this title for periods of internment during World War II.
 
 #### (g) Time of payment; offset against initial annuity accruals
 
@@ -126,7 +126,7 @@ Subsec. (a)(3). Pub. L. 107–228, §322(a)(2)(D), which directed amendment of p
 
 <b>2000</b>—Subsec. (d)(1). Pub. L. 106–346, in table in concluding provisions, substituted item relating to service period after December 31, 2000, for items relating to service periods January 1, 2001, through December 31, 2002; and after December 31, 2002.
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–382, §2(b)(2), substituted "Except as otherwise provided in this section," for "Except as provided in subsection (h) of this section,".
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–382, §2(b)(2), substituted "Except as otherwise provided in this section,"for "Except as provided in subsection (h) of this section,".
 
 Subsec. (a)(3). Pub. L. 105–382, §2(b)(1), added par. (3).
 

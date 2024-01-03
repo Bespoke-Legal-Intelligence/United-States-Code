@@ -14,7 +14,7 @@ Except as provided in section 9228 of this title, the President shall designate 
 
 &emsp;(5) knowingly engages in, is responsible for, or facilitates serious human rights abuses by the Government of North Korea;
 
-&emsp;(6) knowingly, directly or indirectly, engages in money laundering, the counterfeiting of goods or currency, bulk cash smuggling, or narcotics trafficking that supports the Government of North Korea or any senior official or person acting for or on behalf of that Government;
+&emsp;(6) knowingly, directly or indirectly, engages in money laundering, the counterfeitingof goods or currency, bulk cash smuggling, or narcotics trafficking that supports the Government of North Korea or any senior official or person acting for or on behalf of that Government;
 
 &emsp;(7) knowingly engages in significant activities undermining cybersecurity through the use of computer networks or systems against foreign persons, governments, or other entities on behalf of the Government of North Korea;
 
@@ -68,7 +68,7 @@ Except as provided in section 9228 of this title, the President shall designate 
 
 &emsp;&emsp;(H) knowingly, directly or indirectly, sold, transferred, or otherwise provided significant amounts of crude oil, condensates, refined petroleum, other types of petroleum or petroleum byproducts, liquified natural gas, or other natural gas resources to the Government of North Korea (except for heavy fuel oil, gasoline, or diesel fuel for humanitarian use or as excepted under subsection (a)(11));
 
-&emsp;&emsp;(I) knowingly, directly or indirectly, engaged in, facilitated, or was responsible for the online commercial activities of the Government of North Korea, including online gambling;
+&emsp;&emsp;(I) knowingly, directly or indirectly, engaged in, facilitated, or was responsible forthe online commercial activities of the Government of North Korea, including online gambling;
 
 &emsp;&emsp;(J) knowingly, directly or indirectly, purchased or otherwise acquired fishing rights from the Government of North Korea;
 
@@ -140,7 +140,7 @@ The penalties provided for in subsections (b) and (c) of section 206 of the Inte
 
 &emsp;&emsp;(C) knowingly, directly or indirectly, engages in, facilitates, or is responsible for the exportation of workers from North Korea, or the employment of such workers, in a manner that generates significant revenue, directly or indirectly, for use by the Government of North Korea or by the Workers' Party of Korea;
 
-&emsp;&emsp;(D) knowingly, directly or indirectly, sells or transfers a significant number of vessels to North Korea, except as specifically approved by the United Nations Security Council;
+&emsp;&emsp;(D) knowingly, directly or indirectly, sells or transfers a significant number of vesselsto North Korea, except as specifically approved by the United Nations Security Council;
 
 &emsp;&emsp;(E) knowingly engages in a significant activity to charter, insure, register, facilitate the registration of, or maintain insurance or a registration for, a vessel owned, controlled, commanded, or crewed by a North Korean person; or
 

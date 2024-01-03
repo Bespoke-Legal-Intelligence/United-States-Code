@@ -8,7 +8,7 @@
 
 #### (2) Amendment to directive
 
-&emsp;The Director of National Intelligence, in consultation with the Comptroller General,may issue an amendment to the directive issued under paragraph (1) at any time the Director determines such an amendment is appropriate.
+&emsp;The Director of National Intelligence, in consultation with the Comptroller General, may issue an amendment to the directive issued under paragraph (1) at any time the Director determines such an amendment is appropriate.
 
 #### (3) Relationship to other laws
 

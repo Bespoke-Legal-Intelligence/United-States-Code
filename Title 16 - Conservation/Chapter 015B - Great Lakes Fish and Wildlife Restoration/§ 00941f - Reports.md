@@ -22,7 +22,7 @@ For each of fiscal years 2023 through 2028, the Director shall make available th
 
 &emsp;(4) the priorities proposed for funding in the annual budget process under this chapter; and
 
-&emsp;(5) actions taken in support of the Great Lakes Restoration Initiative Action Plan based on the recommendations of the Great Lakes Regional Collaboration authorized under Executive Order 13340 (69 Fed. Reg. 29043; relating to the Great Lakes Interagency Task Force).
+&emsp;(5) actions taken in support of the Great Lakes Restoration Initiative Action Planbased on the recommendations of the Great Lakes Regional Collaboration authorized under Executive Order 13340 (69 Fed. Reg. 29043; relating to the Great Lakes Interagency Task Force).
 
 #### (c) Continued monitoring and assessment of study findings and recommendations
 

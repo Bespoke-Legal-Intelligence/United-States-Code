@@ -56,7 +56,7 @@
 
 &emsp;(A) the accepting and retaining by an employee of a gift of minimal value tendered and received as a souvenir or mark of courtesy; and
 
-&emsp;(B) the accepting by an employee of a gift of more than minimal value when such gift is in the nature of an educational scholarship or medical treatment or when it appears that to refuse the gift would likely cause offense or embarrassment or otherwise adversely affect the foreign relations of the United States, except that—
+&emsp;(B) the accepting by an employee of a gift of more than minimal value when such gift is inthe nature of an educational scholarship or medical treatment or when it appears that to refuse the gift would likely cause offense or embarrassment or otherwise adversely affect the foreign relations of the United States, except that—
 
 &emsp;&emsp;(i) a tangible gift of more than minimal value is deemed to have been accepted on behalf of the United States and, upon acceptance, shall become the property of the United States; and
 
@@ -72,7 +72,7 @@
 
 (3) When an employee deposits a gift of more than minimal value for disposal or for official use pursuant to paragraph (2), or within 30 days after accepting travel or travel expenses as provided in paragraph (1)(B)(ii) unless such travel or travel expenses are accepted in accordance with specific instructions of his or her employing agency, the employee shall file a statement with his or her employing agency or its delegate containing the information prescribed in subsection (f) for that gift.
 
-(d) The Congress consents to the accepting, retaining, and wearing by an employee of a decoration tendered in recognition of active fieldservice in time of combat operations or awarded for other outstanding or unusually meritorious performance, subject to the approval of the employing agency of such employee. Without this approval, the decoration is deemed to have been accepted on behalf of the United States, shall become the property of the United States, and shall be deposited by the employee, within sixty days of acceptance, with the employing agency for official use, for forwarding to the Administrator of General Services for disposal in accordance with subsection (e)(1), or for disposal in accordance with subsection (e)(2).
+(d) The Congress consents to the accepting, retaining, and wearing by an employee of a decoration tendered in recognition of active field service in time of combat operations or awarded for other outstanding or unusually meritorious performance, subject to the approval of the employing agency of such employee. Without this approval, the decoration is deemed to have been accepted on behalf of the United States, shall become the property of the United States, and shall be deposited by the employee, within sixty days of acceptance, with the employing agency for official use, for forwarding to the Administrator of General Services for disposal in accordance with subsection (e)(1), or for disposal in accordance with subsection (e)(2).
 
 (e)(1) Except as provided in paragraph (2), gifts and decorations that have been deposited with an employing agency for disposal shall be (A) returned to the donor, or (B) forwarded to the Administrator of General Services for transfer, donation, or other disposal in accordance with the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41. However, no gift or decoration that has been deposited for disposal may be sold without the approval of the Secretary of State, upon a determination that the sale will not adversely affect the foreign relations of the United States. Gifts and decorations may be sold by negotiated sale.
 
@@ -102,7 +102,7 @@
 
 &emsp;(C) the identity, if known, of the foreign government and the name and position of the individual who presented the gift.
 
-(4)(A) In transmitting such listings for an element of the intelligence community, the head of such element may delete the information described in subparagraph (A) or (C) of paragraph (2) or in subparagraph (A) or (C) of paragraph (3) if the head of such element certifies in writing to the Secretary of State that the publication of such information could adversely affect United States intelligence sources or methods.
+(4)(A) In transmitting such listings for an element of the intelligence community, the head ofsuch element may delete the information described in subparagraph (A) or (C) of paragraph (2) or in subparagraph (A) or (C) of paragraph (3) if the head of such element certifies in writing to the Secretary of State that the publication of such information could adversely affect United States intelligence sources or methods.
 
 (B) Any information not provided to the Secretary of State pursuant to the authority in subparagraph (A) shall be transmitted to the Director of National Intelligence who shall keep a record of such information.
 
@@ -192,7 +192,7 @@ Section 108A of the Mutual Educational and Cultural Exchange Act of 1961, referr
 
 <b>2010</b>—Subsec. (f)(4). Pub. L. 111–259 amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
-"(A) In transmitting such listings for the Central Intelligence Agency, the Director of the Central Intelligence Agency may delete the information described in subparagraphs (A) and (C) of paragraphs (2) and (3) if the Director certifies in writing to the Secretary of State that the publication of such information could adversely affect United States intelligence sources.
+"(A) In transmitting such listings for the Central Intelligence Agency, the Director of the Central Intelligence Agency may delete the information described insubparagraphs (A) and (C) of paragraphs (2) and (3) if the Director certifies in writing to the Secretary of State that the publication of such information could adversely affect United States intelligence sources.
 
 "(B) In transmitting such listings for the Office of the Director of National Intelligence, the Director of National Intelligence may delete the information described in subparagraphs (A) and (C) of paragraphs (2) and (3) if the Director certifies in writing to the Secretary of State that the publication of such information could adversely affect United States intelligence sources."
 

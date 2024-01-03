@@ -10,7 +10,7 @@ Representatives.—In the event a Representative does not submit all nominations
 
 (c)
 
-Rule of Construction.—The nomination of a midshipman by a Member of Congress pursuant to this section shall not be construed topermanently reallocate nominations under section 8454 of this title.
+Rule of Construction.—The nomination of a midshipman by a Member of Congress pursuant to this section shall not be construed to permanently reallocate nominations under section 8454 of this title.
 
 (Added Pub. L. 117–81, div. A, title V, §553(b)(1), Dec. 27, 2021, 135 Stat. 1737.)
 

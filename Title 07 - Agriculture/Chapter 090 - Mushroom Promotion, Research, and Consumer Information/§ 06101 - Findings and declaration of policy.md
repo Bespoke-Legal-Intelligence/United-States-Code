@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(1) mushrooms are an important food that is a valuable part of the human diet;
 
-&emsp;(2) the production of mushrooms plays a significant role in the Nation's economy in thatmushrooms are produced by hundreds of mushroom producers, distributed through thousands of wholesale and retail outlets, and consumed by millions of people throughout the United States and foreign countries;
+&emsp;(2) the production of mushrooms plays a significant role in the Nation's economy in that mushrooms are produced by hundreds of mushroom producers, distributed through thousands of wholesale and retail outlets, and consumed by millions of people throughout the United States and foreign countries;
 
 &emsp;(3) mushroom production benefits the environment by efficiently using agricultural byproducts;
 

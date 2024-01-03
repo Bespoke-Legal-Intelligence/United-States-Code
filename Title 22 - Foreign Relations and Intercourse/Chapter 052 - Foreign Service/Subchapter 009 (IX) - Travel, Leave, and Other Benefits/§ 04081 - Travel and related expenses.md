@@ -34,7 +34,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;(9) roundtrip travel to or from an employee's post of assignment for purposes of family visitation in emergency situations involving personal hardship, except that payment for travel by family members to an employee's post of assignment may be authorized under this paragraph only where the family of the member is prevented by official order from residing at such post.<sup>1</sup>
 
-&emsp;(10) preparing and transporting to the designated home in the United States or to a place not more distant, the remains of a member of the Service, or of a family member of a member of the Service, who dies abroad or while in travel status or, if death occurs in the United States, transport of the remains to the designated home in the United States or to a place not more distant;
+&emsp;(10) preparing and transporting to the designated home in the United States or to a place not more distant, the remains of a member of the Service, or of a family member of a member of the Service, who dies abroad or while in travel status or, if death occurs in theUnited States, transport of the remains to the designated home in the United States or to a place not more distant;
 
 &emsp;(11) transporting the furniture and household and personal effects of a member of the Service (and of his or her family) to successive posts of duty and, on separation of a member from the Service, to the place where the member will reside (or if the member has died, to the place where his or her family will reside);
 
@@ -78,7 +78,7 @@ Par. (15)(A) to (C). Pub. L. 117–81, §5304(2)–(4), inserted "for each child
 
 <b>2008</b>—Par. (6)(B). Pub. L. 110–321 inserted "or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands" after "United States".
 
-<b>2006</b>—Par. (6). Pub. L. 109–234, which directed amendment of section 901(6) of the Foreign Service Act by striking out "unbroken by home leave" wherever appearing, was executed by striking out those words after "2-year tour" and "3-year tour" in concluding provisions of par. (6) of this section, which is section 901 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
+<b>2006</b>—Par. (6). Pub. L. 109–234, which directed amendment of section 901(6) of the Foreign Service Act bystriking out "unbroken by home leave" wherever appearing, was executed by striking out those words after "2-year tour" and "3-year tour" in concluding provisions of par. (6) of this section, which is section 901 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
 <b>2002</b>—Par. (8). Pub. L. 107–228, §315(a), substituted "Service, and members of his or her family," for "Service".
 

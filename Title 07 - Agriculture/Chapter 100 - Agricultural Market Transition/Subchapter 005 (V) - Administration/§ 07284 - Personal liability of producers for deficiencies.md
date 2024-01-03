@@ -34,7 +34,7 @@ The Farm Security and Rural Investment Act of 2002, referred to in subsecs. (a),
 
 The Food, Conservation, and Energy Act of 2008, referred to in subsecs. (a), (b)(3), and (c), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-The Agricultural Act of 2014, referred to in subsecs. (a), (b)(3), and (c), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§9001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
+The Agricultural Act of 2014, referred to in subsecs. (a), (b)(3), and (c), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§9001 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
 
 The Commodity Credit Corporation Charter Act, referred to in subsec. (c), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of title 15 and Tables.
 

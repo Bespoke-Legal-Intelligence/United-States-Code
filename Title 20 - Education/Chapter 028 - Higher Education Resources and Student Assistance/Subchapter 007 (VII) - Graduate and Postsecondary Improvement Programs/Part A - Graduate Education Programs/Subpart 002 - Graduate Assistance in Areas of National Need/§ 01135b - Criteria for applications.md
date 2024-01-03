@@ -56,7 +56,7 @@ Another prior section 713 of Pub. L. 89–329 was classified to section 1132b–
 
 A prior section 1135b–1, Pub. L. 89–329, title X, §1022, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1561, which related to grant recipient selection, was renumbered section 352 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067b of this title.
 
-Another prior section 1135b–1, Pub. L. 89–329, title X, §1052, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 316, set forth allotment and reallotment requirements for funds appropriated for programs, prior to repeal by Pub. L. 94–482, title I, §176(c), title II, §204(c)(2), Oct. 12, 1976, 90 Stat. 2165, 2215, eff. Sept. 30, 1977, Oct. 1, 1977.
+Another prior section 1135b–1, Pub. L. 89–329, title X, §1052, as added Pub. L. 92–318, title I, §186(a)(1), June 23,1972, 86 Stat. 316, set forth allotment and reallotment requirements for funds appropriated for programs, prior to repeal by Pub. L. 94–482, title I, §176(c), title II, §204(c)(2), Oct. 12, 1976, 90 Stat. 2165, 2215, eff. Sept. 30, 1977, Oct. 1, 1977.
 
 A prior section 1135b–2, Pub. L. 89–329, title X, §1023, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1562, which related to use of funds, was renumbered section 353 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067c of this title.
 

@@ -18,7 +18,7 @@
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 443 of this title as this chapter and items 4682 to 4690 as 7682 to 7690, respectively.
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter443 of this title as this chapter and items 4682 to 4690 as 7682 to 7690, respectively.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title XII, §1253(a)(2)(D), Dec. 23, 2016, 130 Stat. 2532, struck out item 4681 "Surplus war material: sale to States and foreign governments".
 

@@ -10,7 +10,7 @@ The amounts referred to in subsection (a) are any amounts made available in appr
 
 &emsp;(A) the failure of the State to submit an application under section 290cc–29 of this title;
 
-&emsp;(B) the failure of the State, in the determination of the Secretary, to prepare the application in accordance with such section or to submit the application within a reasonable period of time; or
+&emsp;(B) the failure of the State, in the determination of the Secretary, to prepare the application in accordance with such section or tosubmit the application within a reasonable period of time; or
 
 &emsp;(C) the State informing the Secretary that the State does not intend to expend the full amount of the allotment made to the State.
 

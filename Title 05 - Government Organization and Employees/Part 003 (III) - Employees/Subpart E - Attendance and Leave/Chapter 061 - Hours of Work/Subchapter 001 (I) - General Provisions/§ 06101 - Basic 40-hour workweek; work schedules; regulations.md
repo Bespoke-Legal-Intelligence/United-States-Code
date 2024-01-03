@@ -124,7 +124,7 @@ In subsection (b)(2), the words "head of an agency" are substituted for "head of
 
 #### Termination Date of 1982 Amendment
 
-Pub. L. 97–221, §5, July 23, 1982, 96 Stat. 234, as amended by Pub. L. 99–69, July 22, 1985, 99 Stat. 167; Pub. L. 99–109, Sept. 30, 1985, 99 Stat. 482; Pub. L. 99–140, Oct. 31,1985, 99 Stat. 563, which had provided that enactment of subchapter II of this chapter, amendment of sections 3401 and 6106 of this title, and enactment of provisions set out as notes under sections 6101 and 6106 of this title, should not be in effect after Dec. 31, 1985, was repealed by Pub. L. 99–190, §140, Dec. 19, 1985, 99 Stat. 1324, and also by Pub. L. 99–196, Dec. 23, 1985, 99 Stat. 1350.
+Pub. L. 97–221, §5, July 23, 1982, 96 Stat. 234, as amended by Pub. L. 99–69, July 22, 1985, 99 Stat. 167; Pub. L. 99–109, Sept. 30, 1985, 99 Stat. 482; Pub. L. 99–140, Oct. 31, 1985, 99 Stat. 563, which had provided that enactment of subchapter II of this chapter, amendment of sections 3401 and 6106 of this title, and enactment of provisions set out as notes under sections 6101 and 6106 of this title, should not be in effect after Dec. 31, 1985, was repealed by Pub. L. 99–190, §140, Dec. 19, 1985, 99 Stat. 1324, and also by Pub. L. 99–196, Dec. 23, 1985, 99 Stat. 1350.
 
 #### Effective Date of 1978 Amendment
 

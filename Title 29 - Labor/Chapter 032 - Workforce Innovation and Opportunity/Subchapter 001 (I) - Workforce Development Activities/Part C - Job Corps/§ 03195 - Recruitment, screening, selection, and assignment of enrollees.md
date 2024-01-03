@@ -76,7 +76,7 @@
 
 &emsp;In order to develop the plan described in paragraph (1), every 2 years the Secretary, in consultation with operators of Job Corps centers, shall analyze relevant factors relating to each Job Corps center, including—
 
-&emsp;&emsp;(A) the size of the population of individuals eligible to participate in Job <sup>1</sup> Corps in the State and region in which the Job Corps center is located, and in surrounding regions;
+&emsp;&emsp;(A) the size of the population of individuals eligible to participate in Job <sup>1</sup> Corps in the State and region in which the Job Corpscenter is located, and in surrounding regions;
 
 &emsp;&emsp;(B) the relative demand for participation in the Job Corps in the State and region, and in surrounding regions;
 

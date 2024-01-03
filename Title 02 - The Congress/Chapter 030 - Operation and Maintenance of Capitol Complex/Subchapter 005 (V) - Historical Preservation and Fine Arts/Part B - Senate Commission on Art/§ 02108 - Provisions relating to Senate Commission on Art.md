@@ -116,7 +116,7 @@
 
 #### (iii) Approval and oversight of conservation or restoration
 
-&emsp;&emsp;&emsp;Before authorizing transfers under clause (i), in whole or in part, the Commission, or the chairman and vice chairman acting jointly on behalf of the Commission and after giving notice to the Commission, shall review and approve a conservation or restoration project for which such amounts are intended (referred to in this section as the "Project"). The Commission may require updated reports on the Project before any additional amounts are transferred for the Project. No disbursements may be made from funds transferred under clause (i) that are inconsistent with the Project approved by the Commission upon which the relevant transfer is based.
+&emsp;&emsp;&emsp;Before authorizing transfers under clause (i), in whole or in part, the Commission, or the chairman and vice chairman acting jointly on behalf of the Commission and after giving notice to the Commission, shall review and approve a conservation orrestoration project for which such amounts are intended (referred to in this section as the "Project"). The Commission may require updated reports on the Project before any additional amounts are transferred for the Project. No disbursements may be made from funds transferred under clause (i) that are inconsistent with the Project approved by the Commission upon which the relevant transfer is based.
 
 #### (iv) Acceptance of donations
 

@@ -12,7 +12,7 @@ Subject to the other provisions of this part:
 
 &emsp;&emsp;(A) Except as provided in subparagraph (B), the survivor of that employee shall receive contractor employee compensation under this part in accordance with section 7385s–3 of this title.
 
-&emsp;&emsp;(B) In a case in which the employee's death occurred after the employee applied under this part and before compensation was paid under paragraph (1), and the employee's death occurred from a cause other than the covered illness of the employee, the survivor of that employee may elect to receive, inlieu of compensation under subparagraph (A), the amount of contractor employee compensation that the employee would have received in accordance with section 7385s–2 of this title if the employee's death had not occurred before compensation was paid under paragraph (1).
+&emsp;&emsp;(B) In a case in which the employee's death occurred after the employee applied under this part and before compensation was paid under paragraph (1), and the employee's death occurred from a cause other than the covered illness of the employee, the survivor of that employee may elect to receive, in lieu of compensation under subparagraph (A), the amount of contractor employee compensation that the employee would have received in accordance with section 7385s–2 of this title if the employee's death had not occurred before compensation was paid under paragraph (1).
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3672\], as added Pub. L. 108–375, div. C, title XXXI, §3161, Oct. 28, 2004, 118 Stat. 2178.)
 

@@ -6,7 +6,7 @@ The authority to promulgate regulations for the efficient enforcement of this ch
 
 #### (b) Joint regulations
 
-The Secretary of the Treasury and the Commission shall jointly prescribe regulations for the efficient enforcement of the provisions of section 1273 of this title, except as otherwise provided therein. Such regulations shall be promulgated in such manner and take effect at such time, after due notice, as the Commission shall determine.
+The Secretary of the Treasury and the Commission shall jointly prescribe regulations for the efficient enforcement of the provisions of section 1273 of this title, except as otherwise provided therein. Such regulations shall be promulgated in such manner and take effect atsuch time, after due notice, as the Commission shall determine.
 
 (Pub. L. 86–613, §10, July 12, 1960, 74 Stat. 378; Pub. L. 110–314, title II, §204(b)(4)(B), (E), Aug. 14, 2008, 122 Stat. 3041, 3042.)
 

@@ -106,7 +106,7 @@ In general.—Subject to paragraph (2), the President may accept the Protocol fo
 
 &emsp;"(2)
 
-Limitation on acceptance of protocol.—Paragraph (3) of section 2(b) of the Trade Agreements Act of 1979 (19 U.S.C. 2503(b)(3)) (relating to the limitation on acceptance of trade agreements concerning major industrial countries) applies to the Protocol and forsuch purpose the Protocol shall be treated as a trade agreement that is referred to in such paragraph (3).
+Limitation on acceptance of protocol.—Paragraph (3) of section 2(b) of the Trade Agreements Act of 1979 (19 U.S.C. 2503(b)(3)) (relating to the limitation on acceptance of trade agreements concerning major industrial countries) applies to the Protocol and for such purpose the Protocol shall be treated as a trade agreement that is referred to in such paragraph (3).
 
 "(c)
 
@@ -114,7 +114,7 @@ Application of Protocol.—Paragraph (2) of section 2(b) of such Act of 1979 (19
 
 "(d)
 
-Relationship of Protocol to United States Law.—Subsections (a), (b), (c), and (f) of section 3 of such Act of 1979 (19 U.S.C. 2504(a), (b), (c), and (f) \[19 U.S.C. 2504(a), (b), (c), and (d)\]) (relating to the priority of domestic law in case of conflict, implementing regulations, statutory changes to implement agreement amendments, and disclaimer regarding the creation of any private right of action or remedy) apply to the Protocol and for such purpose the Protocol shall be treated as a trade agreement approved by the Congress under section 2(a) of such Act of 1979, 19 U.S.C. 2503(a)."
+Relationship of Protocol to United States Law.—Subsections (a), (b), (c), and (f) of section 3 of such Act of 1979 (19 U.S.C. 2504(a), (b), (c), and (f) \[19 U.S.C. 2504(a), (b), (c), and (d)\]) (relating to the priority of domestic law in case of conflict, implementing regulations, statutory changes to implement agreement amendments, and disclaimer regarding the creation ofany private right of action or remedy) apply to the Protocol and for such purpose the Protocol shall be treated as a trade agreement approved by the Congress under section 2(a) of such Act of 1979, 19 U.S.C. 2503(a)."
 
 \[The Protocol was accepted for the United States on Dec. 30, 1980.\]
 
@@ -188,7 +188,7 @@ a. With respect to the Agreement on Interpretation and Application of Articles V
 
 &emsp;(i) in accordance with section 2(b)(1) and (3) of the Act (93 Stat. 147) \[19 U.S.C. 2503(b)(1), (3)\], each major industrial country (as defined in section 126(d) of the Trade Act of 1974 (19 U.S.C. 2136(d)) is also accepting the agreement with the exception of Japan;
 
-&emsp;(ii) in accordance with section 2(b)(3) of the Act (93 Stat. 147), the acceptance of these agreements by Japan is not essential to the effective operation ofthe agreements for that period of time during which Japan is completing its Constitutional procedures to accept the agreements and in light of the stated intention of the Government of Japan to act in the interim in line with the agreements within its existing powers; and
+&emsp;(ii) in accordance with section 2(b)(3) of the Act (93 Stat. 147), the acceptance of these agreements by Japan is not essential to the effective operation of the agreements for that period of time during which Japan is completing its Constitutional procedures to accept the agreements and in light of the stated intention of the Government of Japan to act in the interim in line with the agreements within its existing powers; and
 
 &emsp;(iii) in accordance with section 2(b)(3)(C) of the Act (93 Stat. 148), a significant portion of United States trade will benefit from these agreements, notwithstanding the anticipated short delay in acceptance by Japan, and it is in the national interest of the United States to accept these agreements.
 

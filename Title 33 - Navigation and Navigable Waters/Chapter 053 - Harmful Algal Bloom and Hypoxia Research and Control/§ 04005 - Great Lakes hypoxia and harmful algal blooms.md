@@ -78,7 +78,7 @@ A prior section 606 of Pub. L. 105–383 was renumbered section 607 and is class
 
 #### Amendments
 
-<b>2014</b>—Pub. L. 113–124 amended section generally. Prior to amendment, section authorized appropriations for research, education, and monitoring activities relatedto the prevention, reduction, and control of harmful algal blooms and hypoxia for fiscal years 1999 to 2010.
+<b>2014</b>—Pub. L. 113–124 amended section generally. Prior to amendment, section authorized appropriations for research, education, and monitoring activities related to the prevention, reduction, and control of harmful algal blooms and hypoxia for fiscal years 1999 to 2010.
 
 <b>2007</b>—Pub. L. 110–161, §528(1), substituted "$30,000,000 for each of fiscal years 2008 through 2010" for "$25,500,000 for fiscal year 2008" in introductory provisions.
 

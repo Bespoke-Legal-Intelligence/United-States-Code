@@ -68,7 +68,7 @@ In carrying out the initiative, the Commercial Director, in consultation with th
 
 &emsp;(5) develop training materials and courses for building professionals and trades on achieving cost-effective high-performance energy efficient buildings;
 
-&emsp;(6) develop and disseminate public education materials to share information on the benefits and cost-effectiveness of high-performance energy efficient buildings;
+&emsp;(6) develop and disseminate public education materials to share information on the benefitsand cost-effectiveness of high-performance energy efficient buildings;
 
 &emsp;(7) support code-setting organizations and State and local governments in developing minimum performance standards in building codes that recognize the ready availability of many technologies utilized in high-performance energy efficient buildings;
 

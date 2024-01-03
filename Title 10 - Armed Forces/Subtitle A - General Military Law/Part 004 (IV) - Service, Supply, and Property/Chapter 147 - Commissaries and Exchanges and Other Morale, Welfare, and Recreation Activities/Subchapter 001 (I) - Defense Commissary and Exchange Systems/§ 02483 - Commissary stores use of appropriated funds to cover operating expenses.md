@@ -120,7 +120,7 @@ Subsec. (b). Pub. L. 108–136, §654(a)(2), substituted "shall" for "may" in in
 
 Subsec. (c). Pub. L. 108–136, §654(b), added subsec. (c).
 
-<b>2000</b>—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (d) providing that funds available to the Department of Defense could be used to pay for certain costs in connection with the operation of commissary stores only on a reimbursable basis and allowed transportation and utilities to be furnished for the operation of those stores outside of the United States or in Alaska and Hawaii.
+<b>2000</b>—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, text consisted ofsubsecs. (a) to (d) providing that funds available to the Department of Defense could be used to pay for certain costs in connection with the operation of commissary stores only on a reimbursable basis and allowed transportation and utilities to be furnished for the operation of those stores outside of the United States or in Alaska and Hawaii.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

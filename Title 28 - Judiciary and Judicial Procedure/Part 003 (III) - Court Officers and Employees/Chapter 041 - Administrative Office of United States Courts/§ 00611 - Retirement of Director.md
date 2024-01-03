@@ -4,7 +4,7 @@
 
 (b) Upon the retirement of a Director who has elected coverage under this section and who has at least fifteen years of service and has attained the age of sixty-five years the Administrative Office of the United States Courts shall pay him an annuity for life equal to 80 per centum of the salary of the office at the time of his retirement.
 
-Upon the retirement of a Director who has elected coverage under this section and who has at least ten years of service, but who is not eligible to receive an annuity under the first paragraph of this subsection, the Administrative Office of the United States Courts shall pay him an annuity for life equal to that proportion of 80per centum of the salary of the office at the time of his retirement that the number of years of his service bears to fifteen, reduced by one-quarter of 1 per centum for each full month, if any, he is under the age of sixty-five at the time of separation from service.
+Upon the retirement of a Director who has elected coverage under this section and who has at least ten years of service, but who is not eligible to receive an annuity under the first paragraph of this subsection, the Administrative Office of the United States Courts shall pay him an annuity for life equal to that proportion of 80 per centum of the salary of the office at the time of his retirement that the number of years of his service bears to fifteen, reduced by one-quarter of 1 per centum for each full month, if any, he is under the age of sixty-five at the time of separation from service.
 
 (c) A Director who has elected coverage under this section and who becomes permanently disabled to perform the duties of his office shall be retired and shall receive an annuity for life equal to 80 per centum of the salary of the office at the time of his retirement if he has at least fifteen years of service, or equal to that proportion of 80 percentum of such salary that the aggregate number of years of his service bears to fifteen if he has less than fifteen years of service, but in no event less than 50 per centum of such salary.
 
@@ -18,7 +18,7 @@ Upon the retirement of a Director who has elected coverage under this section an
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–518, §301(a)(2), substituted "who has at least fifteen years of service and has" for "who has served at least fifteen years and" in first par. and "who has at least ten years of service," for "who has served at least ten years," in second par.
+<b>2000</b>—Subsec. (b). Pub. L. 106–518, §301(a)(2), substituted "who has at least fifteen years of service and has" for "who has served at least fifteen years and" infirst par. and "who has at least ten years of service," for "who has served at least ten years," in second par.
 
 Subsec. (c). Pub. L. 106–518, §301(a)(3), substituted "at least fifteen years of service," for "served at least fifteen years," and "less than fifteen years of service," for "served less than fifteen years,".
 

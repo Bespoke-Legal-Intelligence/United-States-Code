@@ -20,7 +20,7 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 #### (2) Applicable percentage
 
-&emsp;For purposes of paragraph (1), the term "applicable percentage" means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) bywhich the value of the qualified conservation easement is less than 30 percent of the value of the land (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5))). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
+&emsp;For purposes of paragraph (1), the term "applicable percentage" means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5))). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
 
 #### \[(3) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(96), Dec. 19, 2014, 128 Stat. 4051\]
 
@@ -98,7 +98,7 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 #### (B) Qualified conservation easement
 
-&emsp;&emsp;The term "qualified conservation easement" means a qualified conservation contribution (as defined in section 170(h)(1)) of a qualified real property interest (as defined in section 170(h)(2)(C)), except that clause (iv) of section 170(h)(4)(A) shall not apply, and the restriction on the use of such interest described in section 170(h)(2)(C) shall includea prohibition on more than a de minimis use for a commercial recreational activity.
+&emsp;&emsp;The term "qualified conservation easement" means a qualified conservation contribution (as defined in section 170(h)(1)) of a qualified real property interest (as defined in section 170(h)(2)(C)), except that clause (iv) of section 170(h)(4)(A) shall not apply, and the restriction on the use of such interest described in section 170(h)(2)(C) shall include a prohibition on more than a de minimis use for a commercial recreational activity.
 
 #### (C) Individual described
 
@@ -196,7 +196,7 @@ Pub. L. 87–834, §18(b), Oct. 16, 1962, 76 Stat. 1052, provided that:
 
 "(1) Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section and sections 2033, 2034, 2035, 2036, 2037, 2038, 2040, and 2041 of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Oct. 16, 1962\].
 
-"(2) In the case of a decedent dying after the date of the enactment of this Act \[Oct. 16, 1962\] and before July 1, 1964, the value of real property situated outside ofthe United States shall not be included in the gross estate (as defined in section 2031(a)) of the decedent—
+"(2) In the case of a decedent dying after the date of the enactment of this Act \[Oct. 16, 1962\] and before July 1, 1964, the value of real property situated outside of the United States shall not be included in the gross estate (as defined in section 2031(a)) of the decedent—
 
 &emsp;"(A) under section 2033, 2034, 2035(a), 2036(a), 2037(a), or 2038(a) to the extent the real property, or the decedent's interest in it, was acquired by the decedent before February 1, 1962;
 

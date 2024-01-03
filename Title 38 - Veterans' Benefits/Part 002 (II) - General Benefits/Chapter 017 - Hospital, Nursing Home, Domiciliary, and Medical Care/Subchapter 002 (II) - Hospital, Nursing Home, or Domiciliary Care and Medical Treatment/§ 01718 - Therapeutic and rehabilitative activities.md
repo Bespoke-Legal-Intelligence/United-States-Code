@@ -1,6 +1,6 @@
 ### §1718. Therapeutic and rehabilitative activities
 
-(a) In providing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may use the services of patients and members inDepartment health care facilities for therapeutic and rehabilitative purposes. Such patients and members shall not under these circumstances be held or considered as employees of the United States for any purpose. The Secretary shall prescribe the conditions for the use of such services.
+(a) In providing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may use the services of patients and members in Department health care facilities for therapeutic and rehabilitative purposes. Such patients and members shall not under these circumstances be held or considered as employees of the United States for any purpose. The Secretary shall prescribe the conditions for the use of such services.
 
 (b)(1) In furnishing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may enter into a contract or other arrangement with any appropriate source (whether or not an element of the Department of Veterans Affairs or of any other Federal entity) to provide for therapeutic work for patients and members in Department health care facilities.
 
@@ -44,7 +44,7 @@
 
 #### References in Text
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (c)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060,which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (c)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Amendments
 

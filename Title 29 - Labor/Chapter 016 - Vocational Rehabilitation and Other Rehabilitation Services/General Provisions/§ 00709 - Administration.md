@@ -4,7 +4,7 @@
 
 In carrying out the purposes of this chapter, the Commissioner may—
 
-&emsp;(1)(A) provide consultative services and technical assistance to public or nonprofit privateagencies and organizations, including assistance to enable such agencies and organizations to facilitate meaningful and effective participation by individuals with disabilities in workforce investment activities;
+&emsp;(1)(A) provide consultative services and technical assistance to public or nonprofit private agencies and organizations, including assistance to enable such agencies and organizations to facilitate meaningful and effective participation by individuals with disabilities in workforce investment activities;
 
 &emsp;(B) provide technical assistance to the designated State units on developing successful partnerships with local and multi-State businesses in an effort to increase the employment of individuals with disabilities;
 

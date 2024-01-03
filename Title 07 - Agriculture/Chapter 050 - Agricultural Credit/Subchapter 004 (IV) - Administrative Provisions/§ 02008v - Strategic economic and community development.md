@@ -8,7 +8,7 @@ In the case of any program under this chapter or administered by the Secretary, 
 
 &emsp;(2) will be carried out in a rural area; and
 
-&emsp;(3) supports the implementation of a strategic community investment plan described in subsection (d) on a multisectoral and multijurisdictional basis, to include considerations for improving and expanding broadband services as needed.
+&emsp;(3) supports the implementation of a strategic community investment plan described insubsection (d) on a multisectoral and multijurisdictional basis, to include considerations for improving and expanding broadband services as needed.
 
 #### (b) Reserve
 

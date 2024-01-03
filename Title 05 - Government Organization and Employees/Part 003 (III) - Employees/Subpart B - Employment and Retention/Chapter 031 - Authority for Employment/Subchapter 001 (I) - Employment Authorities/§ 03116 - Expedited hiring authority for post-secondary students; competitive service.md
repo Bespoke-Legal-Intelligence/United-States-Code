@@ -14,7 +14,7 @@ Institution of higher education.—The term "institution of higher education" ha
 
 &emsp;(3)
 
-Student.—The term "student" means an individual enrolled or accepted for enrollment in an institution of higher education who ispursuing a baccalaureate or graduate degree on at least a part-time basis as determined by the institution of higher education.
+Student.—The term "student" means an individual enrolled or accepted for enrollment in an institution of higher education who is pursuing a baccalaureate or graduate degree on at least a part-time basis as determined by the institution of higher education.
 
 (b)
 
@@ -126,7 +126,7 @@ GS–11, referred to in subsecs. (b)(1), (d)(1), and (h)(2)(C), is contained in 
 
 The date of enactment of this section, referred to in subsecs. (g) and (h)(1), is the date of enactment of Pub. L. 115–232, which was approved Aug. 13, 2018.
 
-Section 1106 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (i), issection 1106 of Pub. L. 114–328, which is set out as a note preceding section 1580 of Title 10, Armed Forces.
+Section 1106 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (i), is section 1106 of Pub. L. 114–328, which is set out as a note preceding section 1580 of Title 10, Armed Forces.
 
 #### Amendments
 

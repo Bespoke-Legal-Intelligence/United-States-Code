@@ -42,13 +42,13 @@ Definitions.—In this section:
 
 &emsp;(3) The term "corrective action" has the meaning given that term under section 3004(u) of the Solid Waste Disposal Act (42 U.S.C. 6924(u)).
 
-&emsp;(4) The term "polychlorinated biphenyls" has the meaning given that term under section6(e) of the Toxic Substances Control Act (15 U.S.C. 2605(e)).
+&emsp;(4) The term "polychlorinated biphenyls" has the meaning given that term under section 6(e) of the Toxic Substances Control Act (15 U.S.C. 2605(e)).
 
 (e)
 
 Effect on Liability.—Nothing in this section shall affect the liability of the Federal Government under any Federal or State law or under common law.
 
-(Added Pub. L. 102–190, div. A, title III, §331(a)(1), Dec. 5, 1991, 105 Stat. 1339; amended Pub. L. 102–484, div. A, title III, §321, title X, §1052(36), Oct. 23, 1992, 106 Stat. 2365, 2501; Pub. L. 103–160, div. A, title X, §1004, Nov. 30, 1993, 107 Stat. 1748.)
+(Added Pub. L. 102–190, div. A, title III, §331(a)(1), Dec. 5, 1991, 105 Stat. 1339; amended Pub. L. 102–484, div. A, title III, §321, title X, §1052(36), Oct. 23, 1992, 106 Stat. 2365, 2501; Pub.L. 103–160, div. A, title X, §1004, Nov. 30, 1993, 107 Stat. 1748.)
 
 #### <b>Editorial Notes</b>
 

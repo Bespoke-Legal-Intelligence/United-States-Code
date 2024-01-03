@@ -194,7 +194,7 @@ Notification Regarding Need for Mitigation.—If, as a result of testing describ
 
 #### Military Housing Privatization Initiative
 
-Pub. L. 115–232, div. A, title VI, §606, Aug. 13, 2018, 132 Stat. 1795, as amended by Pub. L. 116–92, div. B, title XXX, §§3036(a), 3037, Dec. 20, 2019, 133 Stat. 1938, 1939; Pub. L. 116–283, div. B, title XXVIII, §2811(i), Jan. 1, 2021, 134 Stat. 4326; Pub. L. 117–81, div. B, title XXVIII, §2811, Dec. 27, 2021, 135 Stat. 2191, provided that:
+Pub. L. 115–232, div. A, title VI, §606, Aug. 13, 2018, 132 Stat. 1795, as amended by Pub. L. 116–92, div. B, title XXX, §§3036(a), 3037, Dec. 20, 2019, 133 Stat. 1938, 1939; Pub. L. 116–283, div. B, title XXVIII, §2811(i), Jan. 1, 2021, 134 Stat. 4326; Pub. L. 117–81, div. B, title XXVIII, §2811, Dec. 27, 2021, 135 Stat. 2191; Pub. L. 118–31, div. B, title XXVIII, §§2822(c), 2839(d), Dec. 22, 2023, 137 Stat. 751, 761, provided that:
 
 "(a)
 
@@ -218,7 +218,7 @@ Additional payments to lessors responsible for underfunded projects.—
 
 &emsp;&emsp;"(A)
 
-Payment authority.—Each month beginning with the first month after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, each Secretary of a military department shall use funds, in an amount determined under subparagraph (B), to make additional monthly payments, under such terms and in such amounts as determined by the Secretary, to one of \[sic\] more lessors responsible for underfunded MHPI housing projects identified pursuant to subparagraph (C) under the jurisdiction of the Secretary for the purposes of future sustainment, recapitalization, and financial sustainability of the projects.
+Payment authority.—Except as provided in subparagraph (D), each month beginning with the first month after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, each Secretary of a military department shall use funds, in an amount determined under subparagraph (B), to make additional monthly payments, under such terms and in such amounts as determined by the Secretary, to one or more lessors responsible for underfunded MHPI housing projects identified pursuant to subparagraph (C) under the jurisdiction of the Secretary for the purposes of future sustainment, recapitalization, and financial sustainability of the projects.
 
 &emsp;&emsp;"(B)
 
@@ -227,6 +227,18 @@ Calculation of monthly payments.—For purposes of making payments under subpara
 &emsp;&emsp;"(C)
 
 Identification of underfunded projects.—The Chief Housing Officer of the Department of Defense, in conjunction with the Secretaries of the military departments, shall assess MHPI housing projects for the purpose of identifying all MHPI housing projects that are underfunded. Once identified, the Chief Housing Officer shall prioritize for payments under subparagraph (A) those MHPI housing projects most in need of funding to rectify such underfunding.
+
+&emsp;&emsp;"(D)
+
+Limitation on payment.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—Subject to clause (ii), the Secretary of a military department may not make a payment under subparagraph (A) to a lessor unless the Assistant Secretary of Defense for Energy, Installations, and Environment determines the lessor is in compliance with the Military Housing Privatization Initiative Tenant Bill of Rights developed under section 2890 of title 10, United States Code.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Application.—The limitation under clause (i) shall apply to any payment under a housing agreement entered into on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 \[Dec. 22, 2023\] by the Secretary of a military department with a lessor.
 
 &emsp;"(3)
 
@@ -242,7 +254,7 @@ Conditions.—Before the Secretary of a military department may allocate funds a
 
 &emsp;"(4)
 
-Briefing required.—Not later than March 1, 2020, and each year thereafter, the Secretary of Defense shall provide a briefing to the Committee on Armed Services of the Senate and the House of Representatives detailing the expenditure of funds under paragraphs (2) and (3), the MHPI housing projects receiving funds under such paragraphs, and any other information the Secretary considers relevant.
+Briefing required.—Not later than March 1, 2020, and each year thereafter, each Secretary of a military department shall provide a briefing to the Committee on Armed Services of the Senate and the House of Representatives detailing the expenditure of funds under paragraphs (2) and (3), the MHPI housing projects receiving funds under such paragraphs, and any other information the Secretary considers relevant.
 
 "(b)
 

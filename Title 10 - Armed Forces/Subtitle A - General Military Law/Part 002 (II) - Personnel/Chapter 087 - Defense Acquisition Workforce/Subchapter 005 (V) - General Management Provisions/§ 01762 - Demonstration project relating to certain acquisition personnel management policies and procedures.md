@@ -2,7 +2,7 @@
 
 (a)
 
-Commencement.—The Secretary of Defense is authorized to carry out a demonstration project, the purpose of which is to determine the feasibility or desirability of one or more proposals for improving the personnel management policies or procedures that apply with respect to the acquisition workforce of the Department of Defense and supporting personnel assigned to work directly with the acquisition workforce.
+Commencement.—The Secretary of Defense is authorized to carry out a demonstrationproject, the purpose of which is to determine the feasibility or desirability of one or more proposals for improving the personnel management policies or procedures that apply with respect to the acquisition workforce of the Department of Defense and supporting personnel assigned to work directly with the acquisition workforce.
 
 (b)
 
@@ -90,7 +90,7 @@ Termination of Authority.—The authority to conduct a demonstration project und
 
 Conversion.—Within 6 months after the authority to conduct a demonstration project under this section is terminated as provided in subsection (g), employees in the project shall convert to the civilian personnel system created pursuant to section 9902 of title 5.
 
-(Added Pub. L. 111–383, div. A, title VIII, §872(a)(1), Jan. 7, 2011, 124 Stat. 4300; amended Pub. L. 114–92, div. A, title VIII, §846, Nov. 25, 2015, 129 Stat. 916; Pub. L. 114–328, div. A, title VIII, §867(a), Dec. 23, 2016, 130 Stat. 2306; Pub. L. 115–91, div. A, title VIII, §844(a), (b), Dec. 12, 2017, 131 Stat. 1482; Pub. L. 116–92, div. A, title XVII, §1731(a)(27), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 117–81, div. A, title VIII, §812, Dec. 27, 2021, 135 Stat. 1823.)
+(Added Pub. L. 111–383, div. A, title VIII, §872(a)(1), Jan. 7, 2011, 124 Stat. 4300; amendedPub. L. 114–92, div. A, title VIII, §846, Nov. 25, 2015, 129 Stat. 916; Pub. L. 114–328, div. A, title VIII, §867(a), Dec. 23, 2016, 130 Stat. 2306; Pub. L. 115–91, div. A, title VIII, §844(a), (b), Dec. 12, 2017, 131 Stat. 1482; Pub. L. 116–92, div. A, title XVII, §1731(a)(27), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 117–81, div. A, title VIII, §812, Dec. 27, 2021, 135 Stat. 1823.)
 
 #### <b>Editorial Notes</b>
 
@@ -115,6 +115,10 @@ Subsec. (g). Pub. L. 115–91, §844(a), substituted "December 31, 2023" for "De
 <b>2015</b>—Subsec. (g). Pub. L. 114–92 substituted "demonstration project" for "demonstration program" and "December 31, 2020" for "September 30, 2017".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2016 Amendment
 

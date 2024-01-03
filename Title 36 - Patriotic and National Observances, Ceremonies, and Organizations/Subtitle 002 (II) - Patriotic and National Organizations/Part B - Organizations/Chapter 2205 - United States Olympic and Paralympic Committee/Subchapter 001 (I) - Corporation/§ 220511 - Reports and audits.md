@@ -6,7 +6,7 @@ Report.—
 
 &emsp;(1)
 
-Submission to president and congress.—Not less frequently than annually, thecorporation shall submit simultaneously to the President and to each House of Congress a detailed report on the operations of the corporation for the preceding calendar year.
+Submission to president and congress.—Not less frequently than annually, the corporation shall submit simultaneously to the President and to each House of Congress a detailed report on the operations of the corporation for the preceding calendar year.
 
 &emsp;(2)
 

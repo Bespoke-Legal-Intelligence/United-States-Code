@@ -98,11 +98,11 @@ Reorganization.—The Chief Executive Officer is authorized to allocate or reall
 
 "(5)
 
-Transfer and allocations of appropriations and personnel.—Except as otherwise provided in this subsection, the personnel employed in connection with, and the assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used,held, arising from, available to, or to be made available in connection with the functions transferred by this subsection, subject to section 1531 of title 31, United States Code, shall be transferred to the Corporation. Unexpended funds transferred pursuant to this paragraph shall be used only for the purposes for which the funds were originally authorized and appropriated.
+Transfer and allocations of appropriations and personnel.—Except as otherwise provided in this subsection, the personnel employed in connection with, and the assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred by this subsection, subject to section 1531 of title 31, United States Code, shall be transferred to the Corporation. Unexpended funds transferred pursuant to this paragraph shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
 "(6)
 
-Incidental transfer.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
+Incidental transfer.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property,records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
 
 "(7)
 
@@ -180,7 +180,7 @@ Planning Study.—The Corporation shall conduct a study to identify—
 
 "(b)
 
-Consultation.—The study shall be carried out in consultation with the Secretary of Labor, State laboragencies, and other individuals and entities the Corporation considers appropriate.
+Consultation.—The study shall be carried out in consultation with the Secretary of Labor, State labor agencies, and other individuals and entities the Corporation considers appropriate.
 
 "(c)
 
@@ -188,7 +188,7 @@ Report.—Not later than 1 year after the effective date of this Act \[for gener
 
 "(d)
 
-Pilot Program.—From amounts made available to carry out this section, the Corporation shall develop and carry out a pilot program based on the findings and plan in the report submitted under subsection (c).
+Pilot Program.—From amounts made available to carry out this section, the Corporation shall developand carry out a pilot program based on the findings and plan in the report submitted under subsection (c).
 
 "(e)
 
@@ -294,7 +294,7 @@ Duplication of functions.—The business plan shall include a description of the
 
 "(c)
 
-Definition.—The term 'transition period' means the period beginning on October 1, 1993 and ending onthe day before the effective date of section 203(c)(2) \[see Effective Date of 1993 Amendment note above\]."
+Definition.—The term 'transition period' means the period beginning on October 1, 1993 and ending on the day before the effective date of section 203(c)(2) \[see Effective Date of 1993 Amendment note above\]."
 
 #### <b>Executive Documents</b>
 
@@ -302,7 +302,7 @@ Definition.—The term 'transition period' means the period beginning on October
 
 Proc. No. 6662, Apr. 4, 1994, 59 F.R. 16507, provided:
 
-On September 21, 1993, I had the honor of signing into law the National and Community Service Trust Act of 1993 \[Pub. L. 103–82, see Tables for classification\], which created the Corporation for National and Community Service. The Corporation was designed to involve Americans of all ages and backgrounds in community projects to address many of our Nation's most important needs—from educating our children to ensuring public safety to protecting our environment. It was chartered to foster civic responsibility, strengthening the ties that bind us together as a people, while providing educational opportunity for those who make the commitment to serve.
+On September 21, 1993, I had the honor of signing into law the National and Community Service Trust Act of 1993 \[Pub. L. 103–82, see Tables for classification\], which created the Corporation for National and CommunityService. The Corporation was designed to involve Americans of all ages and backgrounds in community projects to address many of our Nation's most important needs—from educating our children to ensuring public safety to protecting our environment. It was chartered to foster civic responsibility, strengthening the ties that bind us together as a people, while providing educational opportunity for those who make the commitment to serve.
 
 In the few short months since the Corporation's establishment, enormous progress has been made toward the achievement of these invaluable goals. Final regulations have been published governing the Corporation's new grant programs, grant application packages have been developed, and a national recruitment effort has begun. As a result of intensive outreach efforts, most states have already established State Commissions on National and Community Service, and many local programs, national nonprofit organizations, institutions of higher education, and Federal agencies are eager to participate. Grant competitions have begun for a summer program that will focus on our Nation's public safety concerns, and all community service grant competitions will be completed by this summer. Finally, the Corporation has established the National Civilian Community Corps, which will take advantage of closed and down-sized military bases to launch environmental clean-up and preservation efforts.
 
@@ -356,7 +356,7 @@ Sec. 2. <i>Mission and Functions of the Council.</i>
 
 (iv) promote greater public access to information about existing volunteer opportunities, including via the Internet;
 
-(v) assist with the promotion of Federally administered volunteer programs and the link that they haveto increasing and strengthening community volunteer service; and
+(v) assist with the promotion of Federally administered volunteer programs and the link that they have to increasing and strengthening community volunteer service; and
 
 (vi) promote increased and sustained private sector sponsorship of and engagement in volunteer service.
 
@@ -366,7 +366,7 @@ Sec. 2. <i>Mission and Functions of the Council.</i>
 
 (ii) exchange information and ideas with interested individuals and organizations on ways to expand and improve volunteer service and civic participation;
 
-(iii) advise the Chief Executive Officer of the CNCS on broad dissemination, especially among schools and youth organizations, of information regarding recommended practices for the promotion of volunteer service and civic participation, and other relevant educational and promotional materials;
+(iii) advise the Chief Executive Officer of the CNCS on broad dissemination, especially among schools andyouth organizations, of information regarding recommended practices for the promotion of volunteer service and civic participation, and other relevant educational and promotional materials;
 
 (iv) monitor and advise the Chief Executive Officer of the CNCS on the need for the enhancement of materials disseminated pursuant to subsection 2(b)(iii) of this order; and
 

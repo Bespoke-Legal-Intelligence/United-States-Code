@@ -34,7 +34,7 @@ Allocation by president.—
 
 &emsp;&emsp;&emsp;(i)
 
-No alternate allocations.—If Congress has not enacted legislation establishing alternate allocations by the date on which the Act making full-year appropriations for the Department of the Interior, Environment, and Related Agencies for the applicable fiscal year is enacted into law, amounts made available under subsection (a) shall be allocated by the President.
+No alternate allocations.—If Congress has not enacted legislation establishing alternate allocations by the date on which the Act making full-year appropriations for the Department of the Interior, Environment, and Related Agencies for the applicable fiscal year is enacted into law, amounts made available undersubsection (a) shall be allocated by the President.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -88,7 +88,7 @@ The date of enactment of the Great American Outdoors Act, referred to in subsec.
 
 Pub. L. 117–328, div. G, title IV, §431(a)–(c), Dec. 29, 2022, 136 Stat. 4827, 4828, provided that:
 
-"(a)(1) Within 45 days of enactment of this Act \[Dec. 29, 2022\], the Secretary of the Interior shall allocate amounts made available from the National Parks and Public Land Legacy Restoration Fund for fiscal year 2023 pursuant to subsection (c) of section 200402 of title54, United States Code, and as provided in subsection (e) of such section of such title, to the agencies of the Department of the Interior and the Department of Agriculture specified, in the amounts specified, for the stations and unit names specified, and for the projects and activities specified in the table titled 'Allocation of Funds: National Parks and Public Land Legacy Restoration Fund Fiscal Year 2023' in the explanatory statement described in section 4 (in the matter preceding division A of this consolidated Act) \[136 Stat. 4462\].
+"(a)(1) Within 45 days of enactment of this Act \[Dec. 29, 2022\], the Secretary of the Interior shall allocate amounts made available from the National Parks and Public Land Legacy Restoration Fund for fiscal year 2023 pursuant to subsection (c) of section 200402 of title 54, United States Code, and as provided in subsection (e) of such section of such title, to the agencies of the Department of the Interior and the Department of Agriculture specified, in the amounts specified, for the stations and unit names specified, and for the projects and activities specified in the table titled 'Allocation of Funds: National Parks and Public Land Legacy Restoration Fund Fiscal Year 2023' in the explanatory statement described in section 4 (in the matter preceding division A of this consolidated Act) \[136 Stat. 4462\].
 
 "(2) Within 45 days of enactment of this Act, the Secretary of the Interior and the Secretary of Agriculture, as appropriate, shall allocate amounts made available for expenditure from the Land and Water Conservation Fund for fiscal year 2023 pursuant to subsection (a) of section 200303 of title 54, United States Code, to the agencies and accounts specified, in the amounts specified, and for the projects and activities specified in the table titled 'Allocation of Funds: Land and Water Conservation Fund Fiscal Year 2023' in the explanatory statement described in section 4 (in the matter preceding division A of this consolidated Act).
 

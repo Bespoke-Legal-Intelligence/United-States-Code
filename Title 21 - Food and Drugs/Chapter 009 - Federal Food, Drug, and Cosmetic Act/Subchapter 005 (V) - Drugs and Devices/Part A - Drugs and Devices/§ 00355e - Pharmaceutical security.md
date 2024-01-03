@@ -42,7 +42,7 @@ The Secretary shall develop standards and identify and validate effective techno
 
 #### (1) In general
 
-&emsp;The Secretary shall expand and enhance the resources and facilities of agency componentsof the Food and Drug Administration involved with regulatory and criminal enforcement of this chapter to secure the drug supply chain against counterfeit, diverted, subpotent, substandard, adulterated, misbranded, or expired drugs including biological products and active pharmaceutical ingredients from domestic and foreign sources.
+&emsp;The Secretary shall expand and enhance the resources and facilities of agency components of the Food and Drug Administration involved with regulatory and criminal enforcement of this chapter to secure the drug supply chain against counterfeit, diverted, subpotent, substandard, adulterated, misbranded, or expired drugs including biological products and active pharmaceutical ingredients from domestic and foreign sources.
 
 #### (2) Activities
 

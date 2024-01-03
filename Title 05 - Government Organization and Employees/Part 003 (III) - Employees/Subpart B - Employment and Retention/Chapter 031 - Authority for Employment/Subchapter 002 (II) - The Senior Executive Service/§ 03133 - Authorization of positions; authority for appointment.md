@@ -18,7 +18,7 @@
 
 (2) The total number of positions in the Senior Executive Service may not at any time during any fiscal year exceed 105 percent of the total number of positions authorized under subsection (c) of this section for such fiscal year.
 
-(e)(1) Not later than July 1, 1979, and from time to time thereafter as the Director of the Office of Personnel Management finds appropriate, the Director shall establish, by rule issued in accordance with section 1103(b) of this title, the number of positions out of the total number of positions in the Senior Executive Service, as authorized by this section or section 413 of the Civil Service Reform Act of 1978, which are to be career reserved positions. Except as provided in paragraph (2) of this subsection, the number of positions required by this subsection to be career reserved positions shall not be less than the number of the positions then in the Senior Executive Service which, before the date of such Act, were authorized to be filled only through competitive civil service examination.
+(e)(1) Not later than July 1, 1979, and from time to time thereafter as the Director of theOffice of Personnel Management finds appropriate, the Director shall establish, by rule issued in accordance with section 1103(b) of this title, the number of positions out of the total number of positions in the Senior Executive Service, as authorized by this section or section 413 of the Civil Service Reform Act of 1978, which are to be career reserved positions. Except as provided in paragraph (2) of this subsection, the number of positions required by this subsection to be career reserved positions shall not be less than the number of the positions then in the Senior Executive Service which, before the date of such Act, were authorized to be filled only through competitive civil service examination.
 
 (2) The Director may, by rule, designate a number of career reserved positions which is less than the number required by paragraph (1) of this subsection only if the Director determines such lesser number necessary in order to designate as general positions one or more positions (other than positions described in section 3132(b)(3) of this title) which—
 
@@ -54,7 +54,7 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 #### Limitation on Number of DOD SES Positions
 
-Pub. L. 114–328, div. A, title XI, §1109, Dec. 23, 2016, 130 Stat. 2449, provided that:
+Pub. L. 114–328, div. A, title XI, §1109, Dec. 23, 2016, 130 Stat. 2449, as amended by Pub. L. 118–31, div. A, title XI, §1115, Dec. 22, 2023, 137 Stat. 433, provided that:
 
 "(a)
 
@@ -67,6 +67,10 @@ In general.—Not later than December 31, 2022, the total number of Senior Execu
 &emsp;"(2)
 
 Highly qualified experts.—Of the total number of positions authorized under paragraph (1), not more than 200 of such positions may be occupied by an individual appointed under the authority provided in section 9903 of such title.
+
+&emsp;"(3)
+
+Exception.—The limitation under this subsection shall not apply to positions described in this subsection that are fully funded through amounts appropriated to an agency other than the Department of Defense.
 
 "(b)
 
@@ -134,7 +138,7 @@ Pub. L. 95–454, title IV, §413, Oct. 13, 1978, 92 Stat. 1175, provided that:
 
 > in a position which is designated as a Senior Executive Service position shall be appointed as a career appointee to such Senior Executive Service position without regard to section 3393(b)–(e) of title 5, United States Code (as added by this title).
 
-"(e) Each employee who has elected conversion to a Senior Executive Service position under subsection\(c)(1)(B) of this section and who is serving under an excepted appointment in a position which is not designated a career reserved position in the Senior Executive Service, but is—
+"(e) Each employee who has elected conversion to a Senior Executive Service position under subsection (c)(1)(B) of this section and who is serving under an excepted appointment in a position which is not designated a career reserved position in the Senior Executive Service, but is—
 
 &emsp;"(1) a position in Schedule C of subpart C of part 213 of title 5, Code of Federal Regulations;
 

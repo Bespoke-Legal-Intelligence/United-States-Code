@@ -14,7 +14,7 @@ Elements.—The guidance required by subsection (a) shall, at a minimum—
 
 &emsp;(3) require the military departments to update estimates of operating and support costs periodically throughout the life cycle of a major weapon system, to determine whether preliminary information and assumptions remain relevant and accurate, and identify and record reasons for variances;
 
-&emsp;(4) establish policies and procedures for the collection, organization, maintenance, and availability of standardized data on operating and support costs for major weapon systems in accordance with section 2222 of this title;
+&emsp;(4) establish policies and procedures for the collection, organization, maintenance, and availability of standardized data on operatingand support costs for major weapon systems in accordance with section 2222 of this title;
 
 &emsp;(5) establish standard requirements for the collection and reporting of data on operating and support costs for major weapon systems by contractors performing weapon system sustainment functions in an appropriate format, and develop contract clauses to ensure that contractors comply with such requirements;
 
@@ -94,7 +94,7 @@ Pilot Program Authorized.—The Secretary of Defense may carry out a pilot progr
 
 "(b)
 
-Purpose of Pilot Program.—The purpose of the pilot program authorized by subsection (a) is to assess the feasibility and advisability of utilizing time-certaindevelopment in the acquisition of major weapon systems in order to deliver new capabilities to the warfighter more rapidly through—
+Purpose of Pilot Program.—The purpose of the pilot program authorized by subsection (a) is to assess the feasibility and advisability of utilizing time-certain development in the acquisition of major weapon systems in order to deliver new capabilities to the warfighter more rapidly through—
 
 &emsp;"(1) disciplined decision-making;
 
@@ -222,7 +222,7 @@ Annual Report.—
 
 &emsp;"(1)
 
-In general.—Not later than one year after including the first major weapon system in the pilot program, and annually thereafter, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program, and the major weapon systems included in the pilot program, during the one-year period ending on the date of such report.
+In general.—Not later than one year after including the first major weapon system in the pilot program, and annually thereafter, the Secretary shallsubmit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program, and the major weapon systems included in the pilot program, during the one-year period ending on the date of such report.
 
 &emsp;"(2)
 

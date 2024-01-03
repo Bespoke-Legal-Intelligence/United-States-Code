@@ -24,7 +24,7 @@ Action by Secretary.—After review of the recommendation of the board of inquir
 
 Action in Cases Where Cause for Retention Is Established.—(1) If a board of inquiry determines that an officer has established that the officer should be retained in an active status or if the Secretary determines that the case be closed, the officer's case is closed.
 
-(2) An officer who is required to show cause for retention under section 14902(a) of this title and whose case is closed under paragraph (1) may not again be required to show cause for retention under such subsection during the one-yearperiod beginning on the date of that determination.
+(2) An officer who is required to show cause for retention under section 14902(a) of this title and whose case is closed under paragraph (1) may not again be required to show cause for retention under such subsection during the one-year period beginning on the date of that determination.
 
 (3)(A) Subject to subparagraph (B), an officer who is required to show cause for retention under section 14902(b) of this title and whose case is closed under paragraph (1) may again be required to show cause for retention at any time.
 

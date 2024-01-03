@@ -12,7 +12,7 @@
 
 #### (3) Nature of summons
 
-&emsp;Any summons to which this subsection applies (and any summons in aid of collection described in subsection (c)(2)(D)) shall identify the taxpayer to whom the summons relates or the other person to whom the records pertain and shall provide such other information aswill enable the person summoned to locate the records required under the summons.
+&emsp;Any summons to which this subsection applies (and any summons in aid of collection described in subsection (c)(2)(D)) shall identify the taxpayer to whom the summons relates or the other person to whom the records pertain and shall provide such other information as will enable the person summoned to locate the records required under the summons.
 
 #### (b) Right to intervene; right to proceeding to quash
 
@@ -32,7 +32,7 @@
 
 #### (C) Intervention; etc.
 
-&emsp;&emsp;Notwithstanding any other law or rule of law, the person summoned shall have the right to intervene in any proceeding under subparagraph (A). Such person shall be bound by the decision in such proceeding (whether or not the person intervenes in such proceeding).
+&emsp;&emsp;Notwithstanding any other law or rule of law, the person summoned shall have the right to intervene in any proceeding under subparagraph (A). Such person shall bebound by the decision in such proceeding (whether or not the person intervenes in such proceeding).
 
 #### (c) Summons to which section applies
 
@@ -110,7 +110,7 @@ A summons is described in this subsection if, upon petition by the Secretary, th
 
 #### (1) Jurisdiction
 
-&emsp;The United States district court for the district within which the person to be summoned resides or is found shall have jurisdiction to hear and determine any proceeding brought under subsection (b)(2), (f), or (g). An order denying the petition shall be deemed a final order which may be appealed.
+&emsp;The United States district court for the district within which the person to be summonedresides or is found shall have jurisdiction to hear and determine any proceeding brought under subsection (b)(2), (f), or (g). An order denying the petition shall be deemed a final order which may be appealed.
 
 #### (2) Special rule for proceedings under subsections (f) and (g)
 
@@ -244,7 +244,7 @@ Subsec. (h)(3). Pub. L. 98–620 struck out par. (3) which had provided that exc
 
 Subsec. (a)(3)(G). Pub. L. 97–248, §311(b), added subpar. (G).
 
-Subsec. (b). Pub. L. 97–248, §331(a), (d)(2), substituted "right to proceeding to quash" for "right to stay compliance" in heading, and in par. (2) substituted "Proceeding to quash" for "Right to stay compliance" as par. (2) heading, designated former undesignated matter as subpar. (A), in (A) as so designated substituted provisions giving persons entitled to notice 20 days to begin a proceeding to quash, for provisions giving persons entitled to notice the right to stay compliance if they complied with the provisions of former subpars. (A) and (B) within 14 days, and inserted provision that the Secretary may seek to compel compliance with thesummons, struck out former subpar. (A) which provided that notice to the person summoned not to comply with the summons be given in writing, in subpar. (B) substituted provisions that copies of the petition in the proceeding to quash the summons be mailed within the 20-day period, for provisions that copies of the notice not to comply with the summons be mailed, and added subpar. (C).
+Subsec. (b). Pub. L. 97–248, §331(a), (d)(2), substituted "right to proceeding to quash" for "right to stay compliance" in heading, and in par. (2) substituted "Proceeding to quash" for "Right to stay compliance" as par. (2) heading, designated former undesignated matter as subpar. (A), in (A) as so designated substituted provisions giving persons entitled to notice 20 days to begin a proceeding to quash, for provisions giving persons entitled to notice the right to stay compliance if they complied with the provisions of former subpars. (A) and (B) within 14 days, and inserted provision that the Secretary may seek to compel compliance with the summons, struck out former subpar. (A) which provided that notice to the person summoned not to comply with the summons be given in writing, in subpar. (B) substituted provisions that copies of the petition in the proceeding to quash the summons be mailed within the 20-day period, for provisions that copies of the notice not to comply with the summons be mailed, and added subpar. (C).
 
 Subsec. (d). Pub. L. 97–248, §331(b), substituted in par. (1) provision that, no examination of records be made before the close of the 23rd day after the notice of summons, for provision that the examination may not be made before the end of the former 14-day period allowed for notice to be given to the person summoned not to comply, and in par. (2) substituted "where a proceeding under subsection (b)(2)(A) was begun within the 20-day period referred to in such subsection and the requirements of subsection (b)(2)(B) have been met," for "when the requirements of subsection (b)(2) have been met," and "of the court having jurisdiction of such proceeding or with the consent of the person beginning the proceeding to quash" for "issued by a court of competent jurisdiction authorizing examination of such records or with the consent of the person staying compliance".
 

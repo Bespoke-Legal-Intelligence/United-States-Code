@@ -14,5 +14,5 @@ Section was formerly classified to section 27 of the former Appendix to this tit
 
 #### Transfer of Functions
 
-Functions vested by law in Alien Property Custodian and Office of Alien Property Custodian transferred toAttorney General by Reorg. Plan No. 1 of 1947, §101, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested by law in Alien Property Custodian and Office of Alien Property Custodian transferred to Attorney General by Reorg. Plan No. 1 of 1947, §101, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951, set out in the Appendix to Title 5, Government Organization and Employees.
 

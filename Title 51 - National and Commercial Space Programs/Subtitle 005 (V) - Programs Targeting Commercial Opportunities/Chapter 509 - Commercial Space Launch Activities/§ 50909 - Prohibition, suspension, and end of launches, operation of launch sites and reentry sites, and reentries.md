@@ -6,7 +6,7 @@ General Authority.—The Secretary of Transportation may prohibit, suspend, or e
 
 (b)
 
-Effective Periods of Orders.—An order under this section takes effect immediately andremains in effect during a review under section 50912 of this title.
+Effective Periods of Orders.—An order under this section takes effect immediately and remains in effect during a review under section 50912 of this title.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1334, §70108 of title 49; Pub. L. 105–303, title I, §102(a)(8), Oct. 28, 1998, 112 Stat. 2848; renumbered §70108 then §50909 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(I), (5)(L), Dec. 18, 2010, 124 Stat. 3440–3442.)
 

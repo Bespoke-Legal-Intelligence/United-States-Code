@@ -104,7 +104,7 @@
 
 #### (b) Estimate of amounts payable; installment payments
 
-(1) Prior to the beginning of each quarter, the Secretary shall estimate the amount to which a State will be entitled under subsection (a) for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, and (B) such other investigation as the Secretary may find necessary.
+(1) Prior to the beginning of each quarter, the Secretary shall estimate the amount to which a State will be entitled under subsection (a) for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in suchquarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, and (B) such other investigation as the Secretary may find necessary.
 
 (2) Subject to subsection (d), the Secretary shall then pay, in such installments as he may determine, to the State the amount so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
 
@@ -138,7 +138,7 @@ The Secretary may make direct payments under this part to an Indian tribe or tri
 
 #### References in Text
 
-The Family Support Act of 1988, referred to in subsec. (a)(3)(B)(iii), is Pub. L. 100–485, Oct. 13, 1988, 102 Stat. 2343. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 1305 of this title and Tables.
+The Family Support Act of 1988, referred to in subsec. (a)(3)(B)(iii), is Pub. L. 100–485, Oct. 13, 1988, 102 Stat.2343. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 1305 of this title and Tables.
 
 Section 658(b) of this title (as amended by section 5(a) of the Child Support Enforcement Amendments of 1984), referred to in subsec. (e)(4), was in the original a reference to "section 458(b)", meaning section 458(b) of act of Aug. 14, 1935, as amended by section 5(a) of Pub. L. 98–378, which was classified to section 658(b) of this title. Pub. L. 105–200, title II, §201(f)(1), (2)(A), July 16, 1998, 112 Stat. 657, 658, repealed section 458 and renumbered section 458A of the act of Aug. 14, 1935, as section 458, which is classified to section 658a of this title.
 
@@ -262,7 +262,7 @@ Amendment by section 6(b) of Pub. L. 98–378 applicable with respect to quarter
 
 Amendment by section 171(b)(2) of Pub. L. 97–248 effective on and after Aug. 13, 1981, see section 171(c) of Pub. L. 97–248, set out as a note under section 503 of this title.
 
-Pub. L. 97–248, title I, §174(d), Sept. 3, 1982, 96 Stat. 403, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to quarters beginning on or after October 1, 1982.Subsection (b) \[amending this section\] shall apply with respect to quarters beginning on or after October 1, 1983; and the amendment made by subsection (c) \[amending section 658 of this title\] shall apply with respect to amounts collected on or after October 1, 1983."
+Pub. L. 97–248, title I, §174(d), Sept. 3, 1982, 96 Stat. 403, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to quarters beginning on or after October 1, 1982. Subsection (b) \[amending this section\] shall apply with respect to quarters beginning on or after October 1, 1983; and the amendment made by subsection (c) \[amending section 658 of this title\] shall apply with respect to amounts collected on or after October 1, 1983."
 
 #### Effective Date of 1981 Amendment
 

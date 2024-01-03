@@ -190,7 +190,7 @@ Inclusion.—For purposes of this paragraph, regulations proposed under chapter 
 
 &emsp;(2)
 
-Advice, reports, and recommendations.—Each committee established under this chapter or to which this chapter applies shall submit, in writing, to the Secretary its advice, reports, and recommendations, in a form and at a frequency determined appropriate by the committee.
+Advice, reports, and recommendations.—Each committee established under this chapter or to which this chapter applies shallsubmit, in writing, to the Secretary its advice, reports, and recommendations, in a form and at a frequency determined appropriate by the committee.
 
 &emsp;(3)
 

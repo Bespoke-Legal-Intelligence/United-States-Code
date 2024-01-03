@@ -240,7 +240,7 @@ Pub. L. 115–232, div. A, title V, §552(b)(2), Aug. 13, 2018, 132 Stat. 1771, 
 
 #### Deadline for Implementation
 
-Pub. L. 114–328, div. A, title V, §564(b), Dec. 23, 2016, 130 Stat. 2138, provided that: "The program carried out under section 1144 of title 10, United States Code, shall satisfy the requirements of subsection (b)(11) of such section (as added by subsection (a) of this section) by not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\]."
+Pub. L. 114–328, div. A, title V, §564(b), Dec. 23, 2016, 130 Stat. 2138, provided that: "The program carried outunder section 1144 of title 10, United States Code, shall satisfy the requirements of subsection (b)(11) of such section (as added by subsection (a) of this section) by not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\]."
 
 #### Enhancement of Information Provided to Members of the Armed Forces and Veterans Regarding Use of Post-9/11 Educational Assistance and Federal Financial Aid Through Transition Assistance Program
 
@@ -262,7 +262,7 @@ Elements.—The additional information required by paragraph (1) shall include t
 
 &emsp;&emsp;&emsp;"(i) to the extent practicable, differences between types of institutions of higher learning in such matters as tuition and fees, admission requirements, accreditation, transferability of credits, credit for qualifying military training, time required to complete a degree, and retention and job placement rates; and
 
-&emsp;&emsp;&emsp;"(ii) how Federal educational assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) may be used in conjunction with educational assistance providedunder chapters 30 and 33 of title 38, United States Code.
+&emsp;&emsp;&emsp;"(ii) how Federal educational assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) may be used in conjunction with educational assistance provided under chapters 30 and 33 of title 38, United States Code.
 
 &emsp;&emsp;"(B) Information about the Postsecondary Education Complaint System of the Department of Defense, the Department of Veterans Affairs, the Department of Education, and the Consumer Financial Protection Bureau.
 

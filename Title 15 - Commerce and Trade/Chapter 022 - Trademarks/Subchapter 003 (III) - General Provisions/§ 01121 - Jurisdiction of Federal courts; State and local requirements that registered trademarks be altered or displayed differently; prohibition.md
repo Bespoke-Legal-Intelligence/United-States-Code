@@ -4,7 +4,7 @@
 
 (b) No State or other jurisdiction of the United States or any political subdivision or any agency thereof may require alteration of a registered mark, or require that additional trademarks, service marks, trade names, or corporate names that may be associated with or incorporated into the registered mark be displayed in the mark in a manner differing from the display of such additional trademarks, service marks, trade names, or corporate names contemplated by the registered mark as exhibited in the certificate of registration issued by the United States Patent and Trademark Office.
 
-(July 5, 1946, ch. 540, title VI, §39, formerly §§39 and 39a, 60 Stat. 440; Pub. L. 97–164, title I, §148,Apr. 2, 1982, 96 Stat. 46; Pub. L. 97–296, Oct. 12, 1982, 96 Stat. 1316; Pub. L. 100–667, title I, §131, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 105–330, title II, §201(a)(10), Oct. 30, 1998, 112 Stat. 3070.)
+(July 5, 1946, ch. 540, title VI, §39, formerly §§39 and 39a, 60 Stat. 440; Pub. L. 97–164, title I, §148, Apr. 2, 1982, 96 Stat. 46; Pub. L. 97–296, Oct. 12, 1982, 96 Stat. 1316; Pub. L. 100–667, title I, §131, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 105–330, title II, §201(a)(10), Oct. 30, 1998, 112 Stat. 3070.)
 
 #### <b>Editorial Notes</b>
 

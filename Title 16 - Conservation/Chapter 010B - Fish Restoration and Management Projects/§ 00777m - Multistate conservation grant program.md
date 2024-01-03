@@ -14,7 +14,7 @@
 
 #### (B) Apportionment
 
-&emsp;&emsp;At the end of the period of availability under subparagraph (A), the Secretary of the Interior shall apportion any amounts that remain available among the States in the manner specified in section 777c(c) of this title for use by the States in the same manner as funds apportioned under section 777c(c) of this title.
+&emsp;&emsp;At the end of the period of availability under subparagraph (A), the Secretary of the Interior shall apportion any amounts that remain available among the States in the manner specified in section 777c(c) of thistitle for use by the States in the same manner as funds apportioned under section 777c(c) of this title.
 
 #### (b) Selection of projects
 
@@ -134,7 +134,7 @@ Subsec. (e). Pub. L. 109–59, §10118(3), added introductory provisions and str
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2010 Amendment
 

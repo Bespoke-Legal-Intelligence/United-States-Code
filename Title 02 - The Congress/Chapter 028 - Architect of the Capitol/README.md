@@ -4,11 +4,13 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [1801\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001801%20-%20Appointment.md) | Appointment. |
+| [1801\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001801%20-%20Repealed.%20Pub.%20L.%20118%E2%80%9331%2C%20div.%20E%2C%20title%20LVII%2C%20%C2%A75702%28d%29%281%29%2C%20Dec.%2022%2C%202023%2C%20137%20Stat.%20960.md) | Repealed. |
+| [1801a.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001801a%20-%20Appointment%20and%20term%20of%20service%20of%20Architect%20of%20the%20Capitol.md) | Appointment and term of service of Architect of the Capitol. |
 | [1802\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001802%20-%20Compensation.md) | Compensation. |
 | [1803\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001803%20-%20Delegation%20of%20authority.md) | Delegation of authority. |
-| [1804\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001804%20-%20Deputy%20Architect%20of%20the%20Capitol%20to%20act%20in%20case%20of%20absence%2C%20disability%2C%20or%20vacancy.md) | Deputy Architect of the Capitol to act in case of absence, disability, or vacancy. |
+| [1804\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001804%20-%20Repealed.%20Pub.%20L.%20118%E2%80%9331%2C%20div.%20E%2C%20title%20LVII%2C%20%C2%A75704%28d%29%2C%20Dec.%2022%2C%202023%2C%20137%20Stat.%20962.md) | Repealed. |
 | [1805\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001805%20-%20Deputy%20Architect%20of%20the%20Capitol.md) | Deputy Architect of the Capitol. |
+| [1805a.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001805a%20-%20Deputy%20Architect%20of%20the%20Capitol%20to%20serve%20as%20acting%20in%20case%20of%20absence%2C%20disability%2C%20or%20vacancy.md) | Deputy Architect of the Capitol to serve as acting in case of absence, disability, or vacancy. |
 | 1806, 1807. Repealed. |  |
 | [1808\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001808%20-%20Inspector%20General%20of%20the%20Architect%20of%20the%20Capitol.md) | Inspector General of the Architect of the Capitol. |
 

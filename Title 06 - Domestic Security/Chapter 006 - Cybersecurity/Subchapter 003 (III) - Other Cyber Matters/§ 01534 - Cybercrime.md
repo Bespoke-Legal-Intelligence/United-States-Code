@@ -18,5 +18,5 @@ The General Schedule, referred to in text, is set out under section 5332 of Titl
 
 #### Codification
 
-Section was enacted as part of the Abolish Trafficking Reauthorization Act of 2022, and not as part ofthe Cybersecurity Act of 2015 which comprises this chapter.
+Section was enacted as part of the Abolish Trafficking Reauthorization Act of 2022, and not as part of the Cybersecurity Act of 2015 which comprises this chapter.
 

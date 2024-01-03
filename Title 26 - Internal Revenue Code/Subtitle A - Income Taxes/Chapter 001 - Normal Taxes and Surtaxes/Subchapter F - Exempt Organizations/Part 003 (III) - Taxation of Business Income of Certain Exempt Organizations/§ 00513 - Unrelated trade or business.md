@@ -174,7 +174,7 @@ In the case of a mutual or cooperative telephone or electric company, the term "
 
 #### (i) Contingent payments
 
-&emsp;&emsp;&emsp;The term "qualified sponsorship payment" does not include any payment if the amount of such payment is contingent upon the level of attendance at one or more events, broadcast ratings, or other factors indicating the degree of public exposure to one or more events.
+&emsp;&emsp;&emsp;The term "qualified sponsorship payment" does not include any payment if theamount of such payment is contingent upon the level of attendance at one or more events, broadcast ratings, or other factors indicating the degree of public exposure to one or more events.
 
 #### (ii) Safe harbor does not apply to periodicals and qualified convention and trade show activities
 

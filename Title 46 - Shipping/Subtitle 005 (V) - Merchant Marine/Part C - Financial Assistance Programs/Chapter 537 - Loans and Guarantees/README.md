@@ -6,12 +6,7 @@
 | :--- | ---: |
 | [53701\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053701%20-%20Definitions.md) | Definitions. |
 | [53702\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053702%20-%20General%20authority.md) | General authority. |
-| [53703\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053703%20-%20Application%20and%20administration.md) | Application procedures.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [53703\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053703%20-%20Application%20and%20administration.md) | Application and administration. |
 | [53704\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053704%20-%20Funding%20limits.md) | Funding limits. |
 | [53705\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053705%20-%20Pledge%20of%20United%20States%20Government.md) | Pledge of United States Government. |
 | [53706\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053706%20-%20Eligible%20purposes%20of%20obligations.md) | Eligible purposes of obligations. |
@@ -59,11 +54,11 @@
 
 #### Amendments
 
+<b>2023</b>—Pub. L. 118–31, div. C, title XXXV, §3514(g), Dec. 22, 2023, 137 Stat. 811, added item 53703 and struck out former item 53703 "Application procedures".
+
 <b>2019</b>—Pub. L. 116–92, div. C, title XXXV, §3506(l), Dec. 20, 2019, 133 Stat. 1974, added item 53719 and struck out item 53732 "Eligible export vessels".
 
 <b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(A), Jan. 28, 2008, 122 Stat. 598, inserted "or Administrator" after "Secretary" in items 53722 and 53723.
-
-<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 116–92 without corresponding amendment of analysis.</i>
 
 
 ---

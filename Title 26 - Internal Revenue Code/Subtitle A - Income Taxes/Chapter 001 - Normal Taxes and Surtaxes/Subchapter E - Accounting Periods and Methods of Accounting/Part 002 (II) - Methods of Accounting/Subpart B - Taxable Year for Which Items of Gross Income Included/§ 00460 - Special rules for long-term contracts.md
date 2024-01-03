@@ -8,7 +8,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (1) Requirements of percentage of completion method
 
-&emsp;Except as provided in paragraph (3), in the case of any long-term contract with respect to which the percentage of completion method is used—
+&emsp;Except as provided in paragraph (3), in the case of any long-term contract with respect towhich the percentage of completion method is used—
 
 &emsp;&emsp;(A) the percentage of completion shall be determined by comparing costs allocated to the contract under subsection (c) and incurred before the close of the taxable year with the estimated total contract costs, and
 
@@ -210,7 +210,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;&emsp;&emsp;(I) the contract commencement date, or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a taxpayer who uses an accrual method with respect to long-term contracts, the date by which at least 5 percent of the total estimated costs (including design and planningcosts) under the contract have been incurred, and
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a taxpayer who uses an accrual method with respect to long-term contracts, the date by which at least 5 percent of the total estimated costs (including design and planning costs) under the contract have been incurred, and
 
 &emsp;&emsp;&emsp;(ii) ending on the contract completion date.
 
@@ -388,7 +388,7 @@ Subsec. (c)(6)(B)(ii). Pub. L. 114–113, §143(a)(2), substituted "January 1, 2
 
 <b>2010</b>—Subsec. (c)(6). Pub. L. 111–240 added par. (6).
 
-<b>1997</b>—Subsec. (b)(2)(C). Pub. L. 105–34, §1211(b)(1), substituted "the adjusted overpayment rate (as defined inparagraph (7))" for "the overpayment rate established by section 6621".
+<b>1997</b>—Subsec. (b)(2)(C). Pub. L. 105–34, §1211(b)(1), substituted "the adjusted overpayment rate (as defined in paragraph (7))" for "the overpayment rate established by section 6621".
 
 Subsec. (b)(6). Pub. L. 105–34, §1211(a), added par. (6).
 

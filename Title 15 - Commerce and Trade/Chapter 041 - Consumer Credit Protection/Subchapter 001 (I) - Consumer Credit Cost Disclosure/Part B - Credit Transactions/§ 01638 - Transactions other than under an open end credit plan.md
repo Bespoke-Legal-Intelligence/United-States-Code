@@ -46,7 +46,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(13) In any residential mortgage transaction, a statement indicating whether a subsequent purchaser or assignee of the consumer may assume the debt obligation on its original terms and conditions.
 
-&emsp;(14) In the case of any variable interest rate residential mortgage transaction, in disclosures provided at application as prescribed by the Bureau for a variable rate transaction secured by the consumer's principal dwelling, at the option of the creditor, a statement that the periodic payments may increase or decrease substantially, and the maximum interest rate and payment for a $10,000 loan originated at a recent interest rate, as determinedby the Bureau, assuming the maximum periodic increases in rates and payments under the program, or a historical example illustrating the effects of interest rate changes implemented according to the loan program.
+&emsp;(14) In the case of any variable interest rate residential mortgage transaction, in disclosures provided at application as prescribed by the Bureau for a variable rate transaction secured by the consumer's principal dwelling, at the option of the creditor, a statement that the periodic payments may increase or decrease substantially, and the maximum interest rate and payment for a $10,000 loan originated at a recent interest rate, as determined by the Bureau, assuming the maximum periodic increases in rates and payments under the program, or a historical example illustrating the effects of interest rate changes implemented according to the loan program.
 
 &emsp;(15) In the case of a consumer credit transaction that is secured by the principal dwelling of the consumer, in which the extension of credit may exceed the fair market value of the dwelling, a clear and conspicuous statement that—
 
@@ -56,7 +56,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(16) In the case of a variable rate residential mortgage loan for which an escrow or impound account will be established for the payment of all applicable taxes, insurance, and assessments—
 
-&emsp;&emsp;(A) the amount of initial monthly payment due under the loan for the payment of principal and interest, and the amount of such initial monthly payment including the monthly payment deposited in the account for the payment of all applicable taxes, insurance, and assessments; and
+&emsp;&emsp;(A) the amount of initial monthly payment due under the loan for the payment of principal and interest, and the amount ofsuch initial monthly payment including the monthly payment deposited in the account for the payment of all applicable taxes, insurance, and assessments; and
 
 &emsp;&emsp;(B) the amount of the fully indexed monthly payment due under the loan for the payment of principal and interest, and the amount of such fully indexed monthly payment including the monthly payment deposited in the account for the payment of all applicable taxes, insurance, and assessments.
 
@@ -82,7 +82,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(i) Label the payment schedule as follows: "Payment Schedule: Payments Will Vary Based on Interest Rate Changes".
 
-&emsp;(ii) State in conspicuous type size and format examples of adjustments to the regular required payment on the extension of credit based on the change in the interest rates specified by the contract for such extension of credit. Among the examples required to be provided under this clause is an example that reflects the maximum payment amount of the regular required payments on the extension of credit, based on the maximum interest rate allowed under the contract, in accordance with the rules of the Bureau. Prior to issuing any rules pursuant to this clause, the Bureau shall conduct consumer testing to determine the appropriate format for providing the disclosures required under this subparagraph to consumers so that such disclosures can be easily understood, including the fact that the initial regular payments are for a specific time period that will end on a certain date, that payments will adjust afterwards potentially to a higher amount, and that there is no guarantee thatthe borrower will be able to refinance to a lower amount.
+&emsp;(ii) State in conspicuous type size and format examples of adjustments to the regular required payment on the extension of credit based on the change in the interest rates specified by the contract for such extension of credit. Among the examples required to be provided under this clause is an example that reflects the maximum payment amount of the regular required payments on the extension of credit, based on the maximum interest rate allowed under the contract, in accordance with the rules of the Bureau. Prior to issuing any rules pursuant to this clause, the Bureau shall conduct consumer testing to determine the appropriate format for providing the disclosures required under this subparagraph to consumers so that such disclosures can be easily understood, including the fact that the initial regular payments are for a specific time period that will end on a certain date, that payments will adjust afterwards potentially to a higher amount, and that there is no guarantee that the borrower will be able to refinance to a lower amount.
 
 (D) In any case in which the disclosure statement under subparagraph (A) contains an annual percentage rate of interest that is no longer accurate, as determined under section 1606(c) of this title, the creditor shall furnish an additional, corrected statement to the borrower, not later than 3 business days before the date of consummation of the transaction.
 
@@ -128,7 +128,7 @@ Assessment value.—The amount taken into account under subparagraph (A) for the
 
 #### (d) Timing of disclosure in cases of an addition of a deferred payment price to an existing outstanding balance
 
-If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or ratesand the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest price shall be deemed first paid for.
+If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or rates and the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest price shall be deemed first paid for.
 
 #### (e) Terms and disclosure with respect to private education loans
 
@@ -200,7 +200,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;(H) an estimate of the total amount for repayment, at both the interest rate in effect on the date of approval and at the maximum possible rate of interest offered by the private educational lender and applicable to the borrower, to the extent that such maximum rate may be determined, or if not, a good faith estimate thereof;
 
-&emsp;&emsp;(I) any principal and interest payments required while the student for whom the private education loan is intended is enrolledat a covered educational institution and unpaid interest that will accrue during such enrollment;
+&emsp;&emsp;(I) any principal and interest payments required while the student for whom the private education loan is intended is enrolled at a covered educational institution and unpaid interest that will accrue during such enrollment;
 
 &emsp;&emsp;(J) payment deferral options applicable to the borrower;
 
@@ -214,7 +214,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;(M) that the borrower—
 
-&emsp;&emsp;&emsp;(i) may qualify for Federal financial assistance through a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), in lieu of, or in addition to, a loan from a non-Federal source; and
+&emsp;&emsp;&emsp;(i) may qualify for Federal financial assistance through a program under title IVof the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), in lieu of, or in addition to, a loan from a non-Federal source; and
 
 &emsp;&emsp;&emsp;(ii) may obtain additional information concerning such assistance from their institution of higher education or the website of the Department of Education;
 

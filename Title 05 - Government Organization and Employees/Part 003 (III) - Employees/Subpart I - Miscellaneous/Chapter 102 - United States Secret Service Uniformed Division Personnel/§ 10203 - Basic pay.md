@@ -24,7 +24,7 @@ In General.—The annual rates of basic pay of members of the United States Secr
 
 Schedule Adjustment.—
 
-&emsp;(1)(A) Effective at the beginning of the first pay period commencing on or after the first day of the month in which an adjustment in the rates of basic pay under the General Schedule takes effect under section 5303 or other authority, the schedule of annual rates of basic pay of members (except the Deputy Chiefs, Assistant Chief and Chief) shall be adjusted by the Secretary by a percentage amount corresponding to the percentage adjustment made in the rates of pay under the General Schedule.
+&emsp;(1)(A) Effective at the beginning of the first pay period commencing on or after the first day of the month in which an adjustment in the rates of basic pay under the General Schedule takes effect under section 5303 or other authority, the schedule of annual rates of basic pay of members (except the DeputyChiefs, Assistant Chief and Chief) shall be adjusted by the Secretary by a percentage amount corresponding to the percentage adjustment made in the rates of pay under the General Schedule.
 
 &emsp;(B) The Secretary may establish a methodology of schedule adjustment that—
 

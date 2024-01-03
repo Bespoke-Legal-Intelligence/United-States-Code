@@ -120,7 +120,7 @@ The State board shall assist the Governor in—
 
 &emsp;&emsp;(D) ensure such technology is accessible to individuals with disabilities and individuals residing in remote areas;
 
-&emsp;(8) the development of strategies for aligning technology and data systems across one-stop partner programs to enhance service delivery and improve efficiencies in reporting on performance accountability measures (including the design and implementation of common intake, data collection, case management information, and performance accountability measurement and reporting processes and the incorporation of local input into such design andimplementation, to improve coordination of services across one-stop partner programs);
+&emsp;(8) the development of strategies for aligning technology and data systems across one-stop partner programs to enhance service delivery and improve efficiencies in reporting on performance accountability measures (including the design and implementation of common intake, data collection, case management information, and performance accountability measurement and reporting processes and the incorporation of local input into such design and implementation, to improve coordination of services across one-stop partner programs);
 
 &emsp;(9) the development of allocation formulas for the distribution of funds for employment and training activities for adults, and youth workforce investment activities, to local areas as permitted under sections 3163(b)(3) and 3173(b)(3) of this title;
 
@@ -134,7 +134,7 @@ The State board shall assist the Governor in—
 
 #### (1) In general
 
-&emsp;For the purposes of complying with subsections (a), (b), and (c), a State may use any State entity (including a State council, State workforce development board (within the meaning of the Workforce Investment Act of 1998, as in effect on the day before July 22, 2014), combination of regional workforce development boards, or similar entity) that—
+&emsp;For the purposes of complying with subsections (a), (b), and (c), a State may use anyState entity (including a State council, State workforce development board (within the meaning of the Workforce Investment Act of 1998, as in effect on the day before July 22, 2014), combination of regional workforce development boards, or similar entity) that—
 
 &emsp;&emsp;(A) was in existence on the day before August 7, 1998;
 

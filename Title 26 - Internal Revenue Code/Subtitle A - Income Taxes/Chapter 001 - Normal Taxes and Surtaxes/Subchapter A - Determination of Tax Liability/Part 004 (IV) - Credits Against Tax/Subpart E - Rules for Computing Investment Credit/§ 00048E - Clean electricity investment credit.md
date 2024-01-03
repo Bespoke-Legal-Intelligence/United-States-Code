@@ -18,7 +18,7 @@
 
 #### (i) Base rate
 
-&emsp;&emsp;&emsp;In the case of any qualified facility which is not described in subclause (I) or\(II) of clause (ii) and does not satisfy the requirements described in subclause (III) of such clause, the applicable percentage shall be 6 percent.
+&emsp;&emsp;&emsp;In the case of any qualified facility which is not described in subclause (I) or (II) of clause (ii) and does not satisfy the requirements described in subclause (III) of such clause, the applicable percentage shall be 6 percent.
 
 #### (ii) Alternative rate
 
@@ -182,7 +182,7 @@
 
 #### (1) Certain progress expenditure rules made applicable
 
-&emsp;Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).
+&emsp;Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on theday before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).
 
 #### (2) Special rule for property financed by subsidized energy financing or private activity bonds
 
@@ -274,7 +274,7 @@ For purposes of section 50, if the Secretary determines that the greenhouse gas 
 
 &emsp;&emsp;A facility shall be treated as part of a qualified low-income residential building project if—
 
-&emsp;&emsp;&emsp;(i) such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 (34 U.S.C. 12491(a)(3)),<sup>1</sup> a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(22))) or such other affordable housing programs as the Secretary may provide, and
+&emsp;&emsp;&emsp;(i) such facility is installed on a residential rental building which participates in acovered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 (34 U.S.C. 12491(a)(3)),<sup>1</sup> a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(22))) or such other affordable housing programs as the Secretary may provide, and
 
 &emsp;&emsp;&emsp;(ii) the financial benefits of the electricity produced by such facility are allocated equitably among the occupants of the dwelling units of such building.
 
@@ -306,7 +306,7 @@ For purposes of section 50, if the Secretary determines that the greenhouse gas 
 
 #### (C) Annual capacity limitation
 
-&emsp;&emsp;For purposes of this paragraph, the term "annual capacity limitation" means 1.8 gigawatts of direct current capacity for eachcalendar year during the period beginning on January 1, 2025, and ending on December 31 of the applicable year (as defined in section 45Y(d)(3)), and zero thereafter.
+&emsp;&emsp;For purposes of this paragraph, the term "annual capacity limitation" means 1.8 gigawatts of direct current capacity for each calendar year during the period beginning on January 1, 2025, and ending on December 31 of the applicable year (as defined in section 45Y(d)(3)), and zero thereafter.
 
 #### (D) Carryover of unused limitation
 
@@ -350,7 +350,7 @@ The Housing Act of 1949, referred to in subsec. (h)(2)(B)(i), is act July 15, 19
 
 #### Effective Date
 
-Pub. L. 117–169, title I, §13702(c), Aug. 16, 2022, 136 Stat. 1997, provided that: "The amendments made by this section \[enacting this section and amending sections 46, 49 and 50 of this title\] shall apply to property placed in service after December 31, 2024."
+Pub. L. 117–169, title I, §13702(c), Aug. 16, 2022, 136 Stat. 1997, provided that: "The amendments made by this section \[enacting this section and amending sections 46, 49, and 50 of this title\] shall apply to property placed in service after December 31, 2024."
 
 <i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In this subchapter, the terms "agent of a foreign power", "Attorney General", "contents", "electronic surveillance", "foreign intelligence information", "foreign power", "person", "United States", and "United States person" have the meanings given such terms in section 1801 of this title, except as specifically provided in this subchapter.
+In this subchapter, the terms "agent of a foreign power", "Attorney General", "contents","electronic surveillance", "foreign intelligence information", "foreign power", "person", "United States", and "United States person" have the meanings given such terms in section 1801 of this title, except as specifically provided in this subchapter.
 
 #### (b) Additional definitions
 
@@ -46,7 +46,7 @@ In this subchapter:
 
 #### Repeal of Section
 
-<i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Dec. 31, 2023, this section is repealed.</i>
+<i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Apr. 19, 2024, this section is repealed.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -70,7 +70,7 @@ Pub. L. 115–96, div. A, §1002, Dec. 22, 2017, 131 Stat. 2045, which temporari
 
 #### Effective Date of Repeal
 
-Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective Dec. 31, 2023.
+Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective Apr. 19, 2024.
 
 \[Pub. L. 115–118, title II, §201(c), Jan. 19, 2018, 132 Stat. 19, provided that: "The amendments made to the FISA Amendments Act of 2008 (Public Law 110–261) by this section \[amending sections 1881 to 1881g of this title and provisions set out as notes under section 1801 of this title and section 2511 of Title 18, Crimes and Criminal Procedure\] shall take effect on December 31, 2017."\]
 

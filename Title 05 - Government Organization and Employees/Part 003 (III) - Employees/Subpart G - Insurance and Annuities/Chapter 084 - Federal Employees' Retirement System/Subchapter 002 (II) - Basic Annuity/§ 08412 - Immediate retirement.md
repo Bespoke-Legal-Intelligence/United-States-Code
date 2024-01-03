@@ -2,7 +2,7 @@
 
 (a) An employee or Member who is separated from the service after attaining the applicable minimum retirement age under subsection (h) and completing 30 years of service is entitled to an annuity.
 
-(b) An employee or Member who is separated from the service after becoming 60 years of age and completing 20 years of service is entitled to an annuity.
+(b) An employee or Member who is separated from the service after becoming 60 years of ageand completing 20 years of service is entitled to an annuity.
 
 (c) An employee or Member who is separated from the service after becoming 62 years of age and completing 5 years of service is entitled to an annuity.
 
@@ -76,7 +76,7 @@
 
 &emsp;(C) for an individual whose date of birth is after December 31, 1952, and before January 1, 1965, 56 years of age;
 
-&emsp;(D) for an individual whose date of birth is after December 31, 1964, and before January 1, 1970, 56 years of age plus the number of months in the age increase factor determined under paragraph (2)(B); and
+&emsp;(D) for an individual whose date of birth is after December 31, 1964, and before January 1,1970, 56 years of age plus the number of months in the age increase factor determined under paragraph (2)(B); and
 
 &emsp;(E) for an individual whose date of birth is after December 31, 1969, 57 years of age.
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an indi
 
 #### Effective Date of 2007 Amendment; Transition Rules
 
-Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e)of Pub. L. 110–161, set out as a note under section 3307 of this title.
+Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
 
 #### Effective Date of 2000 Amendment
 

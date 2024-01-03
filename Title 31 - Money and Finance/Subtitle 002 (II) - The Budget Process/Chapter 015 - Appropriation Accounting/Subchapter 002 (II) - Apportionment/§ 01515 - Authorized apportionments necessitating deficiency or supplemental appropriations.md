@@ -6,7 +6,7 @@
 
 &emsp;(A) a law enacted after submission to Congress of the estimates for an appropriation that requires an expenditure beyond administrative control; or
 
-&emsp;(B) an emergency involving the safety of human life, the protection of property, or the immediate welfare of individuals when an appropriation that would allow the United States Government to pay, or contribute to, amounts required to be paid to individuals in specific amounts fixed by law or under formulas prescribed by law, is insufficient.
+&emsp;(B) an emergency involving the safety of human life, the protection of property, or theimmediate welfare of individuals when an appropriation that would allow the United States Government to pay, or contribute to, amounts required to be paid to individuals in specific amounts fixed by law or under formulas prescribed by law, is insufficient.
 
 (2) If an official making an apportionment decides that an apportionment would indicate a necessity for a deficiency or supplemental appropriation, the official shall submit immediately a detailed report of the facts to Congress. The report shall be referred to in submitting a proposed deficiency or supplemental appropriation.
 

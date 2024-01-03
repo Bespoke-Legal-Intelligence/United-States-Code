@@ -44,7 +44,7 @@ In this section:
 
 It is the policy of the United States—
 
-&emsp;(1) to support the continued downblending of highly enriched uranium of weapons origin in the Russian Federation in order to protect theessential security interests of the United States with respect to the nonproliferation of nuclear weapons;
+&emsp;(1) to support the continued downblending of highly enriched uranium of weapons origin in the Russian Federation in order to protect the essential security interests of the United States with respect to the nonproliferation of nuclear weapons;
 
 &emsp;(2) to reduce reliance on uranium imports in order to protect essential national security interests;
 
@@ -148,7 +148,7 @@ It is the policy of the United States—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In addition to the amount authorized to be imported under subparagraph (A) andexcept as provided in clause (ii), if the Russian Federation enters into a bilateral agreement with the United States under which the Russian Federation agrees to downblend an additional 300 metric tons of highly enriched uranium after the completion of the Russian HEU Agreement, 4 kilograms of low-enriched uranium, whether or not such low-enriched uranium is derived from highly enriched uranium of weapons origin and including low-enriched uranium obtained under contracts for separative work units, may be imported in a calendar year for every 1 kilogram of Russian highly enriched uranium of weapons origin that was downblended in the preceding calendar year, subject to the verification of the Secretary of Energy under paragraph (10).
+&emsp;&emsp;&emsp;In addition to the amount authorized to be imported under subparagraph (A) and except as provided in clause (ii), if the Russian Federation enters into a bilateral agreement with the United States under which the Russian Federation agrees to downblend an additional 300 metric tons of highly enriched uranium after the completion of the Russian HEU Agreement, 4 kilograms of low-enriched uranium, whether or not such low-enriched uranium is derived from highly enriched uranium of weapons origin and including low-enriched uranium obtained under contracts for separative work units, may be imported in a calendar year for every 1 kilogram of Russian highly enriched uranium of weapons origin that was downblended in the preceding calendar year, subject to the verification of the Secretary of Energy under paragraph (10).
 
 #### (ii) Maximum annual imports
 
@@ -242,7 +242,7 @@ It is the policy of the United States—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Energy shall verify the origin, quantity, and uranium-235 content of the highly enriched uranium downblended for purposes of paragraphs (2)(C) and (8).
+&emsp;&emsp;The Secretary of Energy shall verify the origin, quantity, and uranium-235 content ofthe highly enriched uranium downblended for purposes of paragraphs (2)(C) and (8).
 
 #### (B) Methods of verification
 
@@ -284,7 +284,7 @@ Subsec. (c)(2)(B), (C). Pub. L. 116–260, §2007(a)(3)(A)(ii), (iii), added sub
 
 Subsec. (c)(3)(C). Pub. L. 116–260, §2007(a)(3)(B), struck out subpar. (C) which read as follows: "to be added to the inventory of the Department of Energy".
 
-Subsec. (c)(5)(A). Pub. L. 116–260, §2007(a)(3)(C)(i), substituted "lower scenario data in the report of the WorldNuclear Association entitled 'The Nuclear Fuel Report: Global Scenarios for Demand and Supply Availability 2019–2040'. In each of calendar years 2023, 2029, and 2035" for "reference data in the 2005 Market Report on the Global Nuclear Fuel Market Supply and Demand 2005–2030 of the World Nuclear Association. In each of calendar years 2016 and 2019".
+Subsec. (c)(5)(A). Pub. L. 116–260, §2007(a)(3)(C)(i), substituted "lower scenario data in the report of the World Nuclear Association entitled 'The Nuclear Fuel Report: Global Scenarios for Demand and Supply Availability 2019–2040'. In each of calendar years 2023, 2029, and 2035" for "reference data in the 2005 Market Report on the Global Nuclear Fuel Market Supply and Demand 2005–2030 of the World Nuclear Association. In each of calendar years 2016 and 2019".
 
 Subsec. (c)(5)(B) to (D). Pub. L. 116–260, §2007(a)(3)(C)(ii)–(iv), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), respectively, and, in subpar. (D), as redesignated, substituted "subparagraph (C)" for "subparagraph (B)".
 

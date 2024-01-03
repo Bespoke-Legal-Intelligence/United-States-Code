@@ -106,7 +106,7 @@ Subsecs. (e), (f). Pub. L. 110–246, §7116(a)(6), added subsecs. (e) and (f).
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–98 substantially retained existing provisions of the subsection relating to expanded food and nutrition education programs and transferred remaining provisions relating to allocation of funds to States and the authority of the Secretary to develop educational materials and programs for persons in certain income ranges to a new subsec. (c).
 
-Subsec. (c). Pub. L. 97–98 added subsec. (c), and included therein provisions relating to allocation offunds to States and the authority of the Secretary to develop educational materials and programs for persons in certain income ranges formerly contained in subsec. (b).
+Subsec. (c). Pub. L. 97–98 added subsec. (c), and included therein provisions relating to allocation of funds to States and the authority of the Secretary to develop educational materials and programs for persons in certain income ranges formerly contained in subsec. (b).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

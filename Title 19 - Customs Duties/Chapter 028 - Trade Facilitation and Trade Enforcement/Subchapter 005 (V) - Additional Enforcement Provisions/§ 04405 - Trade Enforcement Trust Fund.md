@@ -38,7 +38,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;&emsp;(B) To monitor and ensure the full implementation by foreign countries of the provisions of and commitments and obligations under free trade agreements to which the United States is a party for purposes of systematically assessing, identifying, investigating, or initiating steps to address inconsistencies with those provisions, commitments, and obligations.
 
-&emsp;&emsp;(C) To thoroughly investigate and respond to petitions under section 2412 of this title requesting that action be taken under section 2411 of this title.
+&emsp;&emsp;(C) To thoroughly investigate and respond to petitions under section 2412 of this titlerequesting that action be taken under section 2411 of this title.
 
 &emsp;&emsp;(D) To support capacity-building efforts undertaken by the United States pursuant to any free trade agreement to which the United States is a party and to prioritize and give special attention to the timely, consistent, and robust implementation of the commitments and obligations of a party to that free trade agreement, including commitments and obligations related to trade in goods, trade in services, trade in agriculture, foreign investment, intellectual property, digital trade in goods and services and cross-border data flows, regulatory practices, state-owned and state-controlled enterprises, localization barriers to trade, labor and the environment, currency, foreign currency manipulation, anticorruption, trade remedy laws, textiles, and commercial partnerships.
 

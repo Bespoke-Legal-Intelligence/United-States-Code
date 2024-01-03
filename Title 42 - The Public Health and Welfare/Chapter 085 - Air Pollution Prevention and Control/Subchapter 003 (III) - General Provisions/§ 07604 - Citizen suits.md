@@ -86,7 +86,7 @@ A prior section 304 of act July 14, 1955, was renumbered section 311 by Pub. L. 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–549, §707(a), (f), in closing provisions, inserted before period at end ", and toapply any appropriate civil penalties (except for actions under paragraph (2))" and inserted sentences at end giving courts jurisdiction to compel agency action unreasonably delayed and requiring 180 days notice prior to commencement of action.
+<b>1990</b>—Subsec. (a). Pub. L. 101–549, §707(a), (f), in closing provisions, inserted before period at end ", and to apply any appropriate civil penalties (except for actions under paragraph (2))" and inserted sentences at end giving courts jurisdiction to compel agency action unreasonably delayed and requiring 180 days notice prior to commencement of action.
 
 Subsec. (a)(1), (3). Pub. L. 101–549, §707(g), inserted "to have violated (if there is evidence that the alleged violation has been repeated) or" before "to be in violation".
 

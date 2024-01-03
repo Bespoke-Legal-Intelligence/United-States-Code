@@ -18,7 +18,7 @@ In general.—Before granting Milestone B approval (or the equivalent), the mile
 
 &emsp;&emsp;(A) a comprehensive product support strategy;
 
-&emsp;&emsp;(B) performance goals, including key performance parameters for sustainment, keysystem attributes of the covered system, and other appropriate metrics;
+&emsp;&emsp;(B) performance goals, including key performance parameters for sustainment, key system attributes of the covered system, and other appropriate metrics;
 
 &emsp;&emsp;(C) an approved life-cycle cost estimate for the covered system;
 
@@ -120,7 +120,7 @@ Milestone c approval.—The term "Milestone C approval" has the meaning given th
 
 Milestone decision authority.—The term "milestone decision authority" has the meaning given in section 4211(e)(3) of this title.
 
-(Added Pub. L. 112–239, div. A, title VIII, §823(a)(1), Jan. 2, 2013, 126 Stat. 1830, §2337; amended Pub. L. 113–66, div. A, title VIII, §823, Dec. 26, 2013, 127 Stat. 809; renumbered §4324 and amended Pub. L. 116–283, div. A, title VIII, §802(a), title XVIII, §§1848(d)(1), (2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3731, 4258, 4294; Pub. L. 117–81, div. A, title XVII, §1701(b)(17), (d)(11), Dec. 27, 2021, 135 Stat. 2135, 2137; Pub. L. 117–263, div. A, title VIII, §806, Dec. 23, 2022, 136 Stat. 2702.)
+(Added Pub. L. 112–239, div. A, title VIII, §823(a)(1), Jan. 2, 2013, 126 Stat. 1830, §2337;amended Pub. L. 113–66, div. A, title VIII, §823, Dec. 26, 2013, 127 Stat. 809; renumbered §4324 and amended Pub. L. 116–283, div. A, title VIII, §802(a), title XVIII, §§1848(d)(1), (2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3731, 4258, 4294; Pub. L. 117–81, div. A, title XVII, §1701(b)(17), (d)(11), Dec. 27, 2021, 135 Stat. 2135, 2137; Pub. L. 117–263, div. A, title VIII, §806, Dec. 23, 2022, 136 Stat. 2702.)
 
 #### <b>Editorial Notes</b>
 

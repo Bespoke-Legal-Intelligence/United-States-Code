@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Commission shall establish a reimbursement program, to be known as the "Secure and Trusted Communications Networks Reimbursement Program", to make reimbursements to providers of advanced communications service to replace covered communications equipment or services.
+The Commission shall establish a reimbursement program, to be known as the "Secure andTrusted Communications Networks Reimbursement Program", to make reimbursements to providers of advanced communications service to replace covered communications equipment or services.
 
 #### (b) Eligibility
 
@@ -220,7 +220,7 @@ The Commission may not make a reimbursement under the Program to a provider of a
 
 &emsp;&emsp;&emsp;(iii) has permanently removed from the communications network of the recipient, replaced, and disposed of (or is in the process of permanently removing, replacing, and disposing of) all covered communications equipment or services that were in the network of the recipient as of the date of the submission of the application of the recipient for the reimbursement; and
 
-&emsp;&emsp;&emsp;(iv) has fully complied with (or is in the process of complying with) the timeline submitted by the recipient under subparagraph (A)(ii) of paragraph (4) of subsection (d) and the other requirements of such paragraph.
+&emsp;&emsp;&emsp;(iv) has fully complied with (or is in the process of complying with) the timelinesubmitted by the recipient under subparagraph (A)(ii) of paragraph (4) of subsection (d) and the other requirements of such paragraph.
 
 #### (B) Updated certification
 

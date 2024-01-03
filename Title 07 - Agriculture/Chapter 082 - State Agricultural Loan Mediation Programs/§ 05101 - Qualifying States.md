@@ -14,7 +14,7 @@ Within 15 days after the Secretary receives from the Governor of a State a descr
 
 #### (A) In general
 
-&emsp;&emsp;To be certified as a qualifying State, the mediation program of the State must provide mediation services to persons described in paragraph (2) that are involved in agricultural loans (regardless of whether the loansare made or guaranteed by the Secretary or made by a third party).
+&emsp;&emsp;To be certified as a qualifying State, the mediation program of the State must provide mediation services to persons described in paragraph (2) that are involved in agricultural loans (regardless of whether the loans are made or guaranteed by the Secretary or made by a third party).
 
 #### (B) Other issues
 

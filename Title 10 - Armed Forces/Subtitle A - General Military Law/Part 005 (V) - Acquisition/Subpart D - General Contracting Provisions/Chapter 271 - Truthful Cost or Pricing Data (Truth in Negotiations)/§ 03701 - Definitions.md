@@ -20,7 +20,7 @@ The text of subsec. (h) of section 2306a of this title, which was transferred to
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §1831(b), as amended by Pub. L. 117–81, §1701(b)(10)(A), transferred subsec. (h) of section2306a of this title to this section, struck out subsec. (h) designation and heading "Definitions" at beginning, and substituted "this chapter" for "this section" in introductory provisions and "section 3706(a)(2) of this title" for "subsection (e)(1)(B)" in par. (1).
+<b>2021</b>—Pub. L. 116–283, §1831(b), as amended by Pub. L. 117–81, §1701(b)(10)(A), transferred subsec. (h) of section 2306a of this title to this section, struck out subsec. (h) designation and heading "Definitions" at beginning, and substituted "this chapter" for "this section" in introductory provisions and "section 3706(a)(2) of this title" for "subsection (e)(1)(B)" in par. (1).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

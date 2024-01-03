@@ -108,7 +108,7 @@ Approval of application.—The Commission shall not consider or recommend a gran
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §393(d) (June 30, 1949, ch. 288, title V, §503(d), as added Sept. 5, 1950, ch. 849,§6(d), 64 Stat. 583, and amended July 28, 1964, Pub. L. 88–383, 78 Stat. 335).
+Based on 44 U.S. Code, 1964 ed., §393(d) (June 30, 1949, ch. 288, title V, §503(d), as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, and amended July 28, 1964, Pub. L. 88–383, 78 Stat. 335).
 
 #### <b>Editorial Notes</b>
 
@@ -158,7 +158,7 @@ Pub. L. 110–404, §8, Oct. 13, 2008, 122 Stat. 4285, provided that:
 
 "(a)
 
-In General.—The Executive Director of the National Historical Publications and Records Commission of the National Archives and Records Administration may make grants to States, colleges and universities, museums, libraries, and genealogical associations to preserve records and establish electronically searchable databases consisting of local records of servitude, emancipation, and post-Civil War reconstruction.
+In General.—The Executive Director of the National Historical Publications and Records Commissionof the National Archives and Records Administration may make grants to States, colleges and universities, museums, libraries, and genealogical associations to preserve records and establish electronically searchable databases consisting of local records of servitude, emancipation, and post-Civil War reconstruction.
 
 "(b)
 

@@ -52,7 +52,7 @@ In carrying out this section, the Secretary shall give highest priority to progr
 
 &emsp;(1) develop new information that—
 
-&emsp;&emsp;(A) improves the capability of schools to plan, conduct, and improve programs to identify and serve gifted and talented students; or
+&emsp;&emsp;(A) improves the capability of schools to plan, conduct, and improve programs toidentify and serve gifted and talented students; or
 
 &emsp;&emsp;(B) assists schools in the identification of, and provision of services to, gifted and talented students (including economically disadvantaged individuals, individuals who are English learners, and children with disabilities) who may not be identified and served through traditional assessment methods; or
 
@@ -90,7 +90,7 @@ The Secretary shall ensure that the programs under this section are administered
 
 #### Prior Provisions
 
-Prior sections 7301 to 7301b were repealed by Pub. L. 114–95, §5, title V, §5001(b)(1), Dec. 10, 2015, 129 Stat.1806, 2040, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+Prior sections 7301 to 7301b were repealed by Pub. L. 114–95, §5, title V, §5001(b)(1), Dec. 10, 2015, 129 Stat. 1806, 2040, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
 Section 7301, Pub. L. 89–10, title V, §6111, formerly title VI, §6111, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1873; renumbered title V, §6111, Pub. L. 114–95, title V, §5001(a), Dec. 10, 2015, 129 Stat. 2039, related to grants for State assessments and related activities.
 

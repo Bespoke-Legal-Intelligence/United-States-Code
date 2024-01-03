@@ -44,7 +44,7 @@ Subject to subsection (c), projects carried out under subsection (a) may be carr
 
 #### (A) In general
 
-&emsp;&emsp;Costs associated with construction of a project under this section or identified in a regional sediment management plan shall be limited solely to construction costs that are in excess of the costs necessary to carry out the dredging for construction, operation, or maintenance of an authorized Federal water resources project in the most cost-effective way, consistent with economic, engineering, and environmental criteria.
+&emsp;&emsp;Costs associated with construction of a project under this section or identified in aregional sediment management plan shall be limited solely to construction costs that are in excess of the costs necessary to carry out the dredging for construction, operation, or maintenance of an authorized Federal water resources project in the most cost-effective way, consistent with economic, engineering, and environmental criteria.
 
 #### (B) Cost sharing
 
@@ -84,7 +84,7 @@ Subject to subsection (c), projects carried out under subsection (a) may be carr
 
 #### (4) Disposal at non-Federal cost
 
-&emsp;The Secretary may accept funds from a non-Federal interest to dispose of dredged materialas provided under section 2213(d)(1) of this title.
+&emsp;The Secretary may accept funds from a non-Federal interest to dispose of dredged material as provided under section 2213(d)(1) of this title.
 
 #### (5) Selection of dredged material disposal method for certain purposes
 
@@ -308,7 +308,7 @@ Membership.â€”The membership of each regional beneficial use team shall includeâ
 
 &emsp;&emsp;&emsp;"(ii) representatives of relevant State and local agencies; and
 
-&emsp;&emsp;&emsp;"(iii) representatives of Federal agencies and such other entities as the Secretary determinesappropriate, consistent with the purposes of this section.
+&emsp;&emsp;&emsp;"(iii) representatives of Federal agencies and such other entities as the Secretary determines appropriate, consistent with the purposes of this section.
 
 "(d)
 

@@ -80,7 +80,7 @@ Subsec. (d)(4). Pub. L. 114–228 substituted "2017" for "2016".
 
 <b>2015</b>—Subsec. (d)(4). Pub. L. 114–58 substituted "2016" for "2015".
 
-<b>2013</b>—Subsec. (b)(4). Pub. L. 113–59, §4(b), substituted "cooperate with entities with significant experience in managing large-scale adaptive sports programs;" for "cooperate with the United States Olympic Committeeand its partners to promote the participation of disabled veterans and disabled members of the Armed Forces in sporting events sponsored by the United States Olympic Committee and its partners;".
+<b>2013</b>—Subsec. (b)(4). Pub. L. 113–59, §4(b), substituted "cooperate with entities with significant experience in managing large-scale adaptive sports programs;" for "cooperate with the United States Olympic Committee and its partners to promote the participation of disabled veterans and disabled members of the Armed Forces in sporting events sponsored by the United States Olympic Committee and its partners;".
 
 Pub. L. 113–37, §2(a)(2), substituted "United States Olympic Committee" for "United States Paralympics, Inc.," in two places.
 
@@ -124,7 +124,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(3) The Department of Veterans Affairs provides health care to veterans and administers recreational activities for patients including the Golden Age Games, the National Veterans Wheelchair Games, and the Winter Sports Clinic.
 
-&emsp;"(4) In 2005, the United States Olympic Committee \[now United States Olympic and Paralympic Committee\] entered into a memorandum of understanding with the Secretary of Veterans Affairs to increase interest in and access to Paralympic sports programs for veterans with physical disabilities by coordinating the activities of the United States Olympic Committee with the Department of Veterans Affairs.
+&emsp;"(4) In 2005, the United States Olympic Committee \[now United States Olympic and Paralympic Committee\] entered into a memorandum of understandingwith the Secretary of Veterans Affairs to increase interest in and access to Paralympic sports programs for veterans with physical disabilities by coordinating the activities of the United States Olympic Committee with the Department of Veterans Affairs.
 
 &emsp;"(5) The Paralympic Program has a significant positive effect on the quality of life of disabled veterans and disabled members of the Armed Forces who participate in the program, including helping to improve the mobility, vitality, and physical, psychological, and social well-being of such participants and reducing the incidence of secondary medical conditions in those participants.
 

@@ -2,13 +2,13 @@
 
 (a)
 
-Employment Skills Verification.—(1) The Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skills and experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
+Employment Skills Verification.—(1) The Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skillsand experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
 
 (2) In order to improve the accuracy and completeness of a certification or verification of job skills and experience required by paragraph (1), the Secretary of Defense shall—
 
 &emsp;(A) establish a database to record all training performed by members of the Army, Navy, Air Force, Marine Corps, and Space Force that may have application to employment in the civilian sector; and
 
-&emsp;(B) make unclassified information regarding such information available to States and otherpotential employers referred to in subsection (c) so that State and other entities may allow military training to satisfy licensing or certification requirements to engage in a civilian profession.
+&emsp;(B) make unclassified information regarding such information available to States and other potential employers referred to in subsection (c) so that State and other entities may allow military training to satisfy licensing or certification requirements to engage in a civilian profession.
 
 (3) The Secretary of Defense shall ensure that a certification or verification of job skills and experience required by paragraph (1) is rendered in such a way that States and other potential employers can confirm the accuracy and authenticity of the certification or verification.
 
@@ -34,7 +34,11 @@ Employment Preference by Nonappropriated Fund Instrumentalities.—The Secretary
 
 (e)
 
-Employment Skills Training; Skillbridge.—(1) The Secretary concerned may carry out one or more programs to provide eligible members of the armed forces under the jurisdiction of the Secretary with job training and employment skills training, including apprenticeship programs, to help prepare such members for employment in the civilian sector. Such a program shall be known as "Skillbridge".
+Employment Skills Training; Skillbridge.—(1)(
+
+a) <sup>1</sup> The Secretary concerned may carry out one or more programs to provide eligible members of the armed forces under the jurisdiction of the Secretary with job training and employment skills training, including apprenticeship programs, to help prepare such members for employment in the civilian sector. Such a program shall be known as "Skillbridge".
+
+(B) The Secretary of a military department shall carry out one or more programs under this subsection.
 
 (2) A member of the armed forces is an eligible member for purposes of a program under this subsection if the member—
 
@@ -42,15 +46,33 @@ Employment Skills Training; Skillbridge.—(1) The Secretary concerned may carry
 
 &emsp;(B) is expected to be discharged or released from active duty in the armed forces within 180 days of the date of commencement of participation in such a program.
 
-(3) Any program under this subsection may be carried out at, through, or in consultation with such other departments or agencies of the Federal Government as the Secretary concerned considers appropriate.
+(3) To carry out this subsection, the Secretary concerned shall—
 
-(4) Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary concerned.
+&emsp;(A) assign not fewer than two full-time equivalent positions; and
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, §551, Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title X, §1076(f)(13), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §542(a)–(c), Dec. 12, 2017, 131 Stat. 1394, 1395; Pub. L. 116–92, div. A, title V, §562, Dec. 20, 2019, 133 Stat. 1395; Pub. L. 116–283, div. A, title V, §572, title IX, §924(b)(1)(J), (3)(R), Jan. 1, 2021, 134 Stat. 3643, 3820, 3821; Pub. L. 117–263, div. A, title V, §561(a), Dec. 23, 2022, 136 Stat. 2598.)
+&emsp;(B) develop for each fiscal year a funding plan that includes funding lines across the future-years defense program under section 221 of this title.
+
+(4) For any program under this subsection, the Secretary concerned shall, on an annual basis—
+
+&emsp;(A) circulate, to members serving on active duty under the jurisdiction of such Secretary concerned, information about the program (including eligibility requirements and the application process); and
+
+&emsp;(B) conduct outreach to inform potential employers about Skillbridge, participating members, and how the program operates, and to increase the number of, and types of, employers that hire program participants.
+
+(5) Any program under this subsection may be carried out at, through, or in consultation with such other departments or agencies of the Federal Government as the Secretary concerned considers appropriate.
+
+(6) Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary concerned.
+
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, §551,Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title X, §1076(f)(13), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §542(a)–(c), Dec. 12, 2017, 131 Stat. 1394, 1395; Pub. L. 116–92, div. A, title V, §562, Dec. 20, 2019, 133 Stat. 1395; Pub. L. 116–283, div. A, title V, §572, title IX, §924(b)(1)(J), (3)(R), Jan. 1, 2021, 134 Stat. 3643, 3820, 3821; Pub. L. 117–263, div. A, title V, §561(a), Dec. 23, 2022, 136 Stat. 2598; Pub. L. 118–31, div. A, title V, §572(a), Dec. 22, 2023, 137 Stat. 275.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (e)(1). Pub. L. 118–31, §572(a)(1), designated existing provisions as subpar. "(
+
+a)" and added subpar. (B).
+
+Subsec. (e)(3) to (6). Pub. L. 118–31, §572(a)(2), (3), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
 
 <b>2022</b>—Subsec. (e). Pub. L. 117–263, §561(a)(1), inserted "; Skillbridge" after "Training" in heading.
 
@@ -158,7 +180,7 @@ Exclusion.—The program manager may not be a staffing agency.
 
 "(d)
 
-Eligible Civilian Employment Staffing Agencies.—In consultation with the program manager if utilized under subsection (c)(2), the Secretary of Defense shall establish the eligibility requirements to be used for the selection of civilian employment staffing agencies to participate in the program. In establishing the eligibility requirements for the selection of the civilian employment staffing agencies, the Secretary of Defense shall also take into account civilian employment staffing agencies that are willing to work and consult with State and county Veterans Affairs offices and State National Guard offices, when appropriate.
+Eligible Civilian Employment Staffing Agencies.—In consultation with the program manager if utilized under subsection (c)(2), the Secretary of Defense shall establish the eligibility requirements to be usedfor the selection of civilian employment staffing agencies to participate in the program. In establishing the eligibility requirements for the selection of the civilian employment staffing agencies, the Secretary of Defense shall also take into account civilian employment staffing agencies that are willing to work and consult with State and county Veterans Affairs offices and State National Guard offices, when appropriate.
 
 "(e)
 
@@ -330,7 +352,7 @@ Establishment.—Not later than 60 days after the date of enactment of this Act 
 
 "(b)
 
-State Agencies.—(1) The implementing official may enter into contracts or agreements with State approving agencies, as designated pursuant to section 3671(a) of title 38, United States Code, or other State agencies to carry out any duty of the implementing official under this subtitle. Payment may be made to such agencies pursuant to any such contract or agreement for reasonable and necessary expenses of salary and travel incurred by employees of such agencies in carrying out such duties. Each such payment may be made only from funds available to the implementing official pursuant to section 4495(a)(3).
+State Agencies.—(1) The implementing official may enter into contracts or agreements with State approving agencies, as designated pursuant to section3671(a) of title 38, United States Code, or other State agencies to carry out any duty of the implementing official under this subtitle. Payment may be made to such agencies pursuant to any such contract or agreement for reasonable and necessary expenses of salary and travel incurred by employees of such agencies in carrying out such duties. Each such payment may be made only from funds available to the implementing official pursuant to section 4495(a)(3).
 
 "(2) Each State approving agency or other State agency with which a contract or agreement is entered into under this section shall submit to the implementing official on a monthly or quarterly basis, as determined by the agency, a report containing a certification of such expenses for the period covered by the report. The report shall be submitted in the form and manner required by such official.
 
@@ -360,7 +382,7 @@ In General.—(1) To be eligible for participation in a program of job training 
 
 &emsp;"(ii) was discharged or released from active duty because of a service-connected disability.
 
-"(3) For purposes of paragraph (1), an eligible person shall be considered to be unemployed during any periodsuch person is without a job and wants and is available for work. In determining whether a person is unemployed for purposes of paragraph (1), the implementing official shall not take into consideration part-time or temporary employment, as defined by such official.
+"(3) For purposes of paragraph (1), an eligible person shall be considered to be unemployed during any period such person is without a job and wants and is available for work. In determining whether a person is unemployed for purposes of paragraph (1), the implementing official shall not take into consideration part-time or temporary employment, as defined by such official.
 
 "(b)
 
@@ -444,7 +466,7 @@ Certification.—An application under subsection (c) shall include a certificati
 
 &emsp;"(10) That the employer will keep records adequate to show the progress made by each eligible person participating in the program and otherwise to demonstrate compliance with the requirements established under this subtitle.
 
-&emsp;"(11) That the employer will furnish each participating eligible person, before the eligible person'sentry into training, with a copy of the employer's certification under this subsection and will obtain and retain the eligible person's signed acknowledgment of having received such certification.
+&emsp;"(11) That the employer will furnish each participating eligible person, before the eligible person's entry into training, with a copy of the employer's certification under this subsection and will obtain and retain the eligible person's signed acknowledgment of having received such certification.
 
 &emsp;"(12) That, as applicable, the employer will provide each participating eligible person with the full opportunity to participate in a personal interview pursuant to section 4493(b)(1)(B) during the eligible person's normal workday.
 
@@ -520,7 +542,7 @@ Overpayments.—(1)(A) Whenever the implementing official finds that an overpaym
 
 "(e)
 
-Limitations.—(1) Payment may not be made to an employer for a period of training under this subtitleon behalf of an eligible person until the implementing official has received—
+Limitations.—(1) Payment may not be made to an employer for a period of training under this subtitle on behalf of an eligible person until the implementing official has received—
 
 &emsp;"(A) from the eligible person, a certification that the eligible person was employed full time by the employer in a program of job training during such period; and
 
@@ -588,7 +610,7 @@ Department of Labor.—Functions may be administered under subsections (b) and (
 
 "(a)
 
-Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer on behalf of an eligible person for any period of time described in paragraph (2) and to such eligible personunder chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
+Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer on behalf of an eligible person for any period of time described in paragraph (2) and to such eligible person under chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
 
 "(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the eligible person enters into an approved program of job training of an employer for purposes of assistance under this subtitle and ending on the last date for which such assistance is payable.
 
@@ -642,7 +664,7 @@ Case Manager Required.—Before an eligible person who voluntarily terminates fr
 
 "(a)
 
-In General.—(1) The Secretary, the Secretary of Veterans Affairs, and the Secretary of Labor shall jointly provide for an outreach and public information program—
+In General.—(1) The Secretary, the Secretary of Veterans Affairs, and the Secretary of Labor shalljointly provide for an outreach and public information program—
 
 &emsp;"(A) to inform eligible persons about the employment and job training opportunities available under this subtitle and under other provisions of law; and
 
@@ -707,4 +729,6 @@ Publication in the Federal Register.—If the transfer described in subsection (
 \[Pub. L. 103–446, title VI, §610(a)(2)(B), Nov. 2, 1994, 108 Stat. 4673, provided that: "The amendment made by subparagraph (A) \[amending section 4486(d)(2) of Pub. L. 102–484, set out above\] shall apply with respect to programs of training under the Service Members Occupational Conversion and Training Act of 1992 \[subtitle G of title XLIV of Pub. L. 102–484, set out above\] beginning after the date of the enactment of this Act \[Nov. 2, 1994\]."\]
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
+<i><sup>1</sup></i><i> So in original. Probably should be "(A)".</i>
 

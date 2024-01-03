@@ -72,7 +72,7 @@ The Small Business Investment Act of 1958, referred to in subsec. (d)(2)(D), is 
 
 #### Prior Provisions
 
-Prior similar provisions were contained in section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, whichwas previously classified to section 638 of this title. The provisions of section 216 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[8\] of Pub. L. 85–536, which was classified to section 637(c) of this title prior to repeal by Pub. L. 102–191. See section 656 of this title.
+Prior similar provisions were contained in section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, which was previously classified to section 638 of this title. The provisions of section 216 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[8\] of Pub. L. 85–536, which was classified to section 637(c) of this title prior to repeal by Pub. L. 102–191. See section 656 of this title.
 
 #### Amendments
 

@@ -58,5 +58,5 @@ Limitation Pending Submission of Report.—The Secretary of Defense may not exer
 
 &emsp;"(3) Any legislative recommendations that the Secretary believes could improve the effectiveness of the program.
 
-&emsp;"(4) A determination made by the Secretary of Defense indicating which Defense Department agency, office, or other activity should administer, manage, and oversee the loan guarantee program to increase sales of United States defense articles, defense services, and design and construction services, such determination to be made based on the information and analysis provided in the report."
+&emsp;"(4) A determination made by the Secretary of Defense indicating which Defense Department agency,office, or other activity should administer, manage, and oversee the loan guarantee program to increase sales of United States defense articles, defense services, and design and construction services, such determination to be made based on the information and analysis provided in the report."
 

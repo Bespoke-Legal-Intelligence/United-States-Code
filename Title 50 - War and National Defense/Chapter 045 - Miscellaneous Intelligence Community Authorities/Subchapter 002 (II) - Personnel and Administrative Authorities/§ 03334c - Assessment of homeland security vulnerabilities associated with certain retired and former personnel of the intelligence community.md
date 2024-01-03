@@ -2,7 +2,7 @@
 
 #### (a) Assessment required
 
-Not later than the date that is 120 days after submission of the report required under section 5703, and annually thereafter, the Director of National Intelligence, in coordination with the Under Secretary of Homeland Security for Intelligence and Analysis, the Director of the FederalBureau of Investigation, the Director of the Central Intelligence Agency, and the Director of the Defense Counterintelligence and Security Agency, shall submit to the appropriate congressional committees an assessment of the homeland security vulnerabilities associated with retired and former personnel of the intelligence community providing covered intelligence assistance.
+Not later than the date that is 120 days after submission of the report required under section 5703,<sup>1</sup> and annually thereafter, the Director of National Intelligence, in coordination with the Under Secretary of Homeland Security for Intelligence and Analysis, the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, and the Director of the Defense Counterintelligence and Security Agency, shall submit to the appropriate congressional committees an assessment of the homeland security vulnerabilities associated with retired and former personnel of the intelligence community providing covered intelligence assistance.
 
 #### (b) Form
 
@@ -24,7 +24,7 @@ In this section:
 
 #### (2) Covered intelligence assistance
 
-&emsp;The term "covered intelligence assistance" has the meaning given that term in section 5703.
+&emsp;The term "covered intelligence assistance" has the meaning given that term in section 5703.<sup>1</sup>
 
 (Pub. L. 116–92, div. E, title LVII, §5717, Dec. 20, 2019, 133 Stat. 2174.)
 
@@ -52,7 +52,7 @@ Elements.—The study under subsection (a) shall include the following:
 
 &emsp;&emsp;"(A) without proper authorization; or
 
-&emsp;&emsp;"(B) in a manner that would violate legal or policy controls if the personnel performed such assistance while working for the United States Government; and
+&emsp;&emsp;"(B) in a manner that would violate legal or policy controls if the personnel performed such assistance while working for the United States Government; and \[sic\]
 
 &emsp;"(2) Make recommendations for such legislative, regulatory, policy, or other changes as may be necessary to ensure that the United States consistently meets the objectives described in paragraph (1).
 
@@ -87,4 +87,6 @@ Former intelligence personnel.—The term 'former intelligence personnel' means 
 #### Definitions
 
 For definitions of "intelligence community" and "congressional intelligence committees", referred to in text, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

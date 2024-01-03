@@ -18,7 +18,7 @@ Each order shall contain the terms and conditions specified in this section.
 
 #### (B) Appointment
 
-&emsp;&emsp;The Secretary shall appoint the members and any alternates of a board from among producers of the agricultural commodity and first handlers and others in the marketing chain as appropriate. If imports of the agricultural commodity covered by an order are subject to assessment under section 7415(f) of this title, the Secretary shall also appoint importers as members of the board and as alternates if alternates are included on the board. The Secretary may appoint 1 or more members of the general public to each board.
+&emsp;&emsp;The Secretary shall appoint the members and any alternates of a board from among producers of the agricultural commodity and first handlers and others in the marketingchain as appropriate. If imports of the agricultural commodity covered by an order are subject to assessment under section 7415(f) of this title, the Secretary shall also appoint importers as members of the board and as alternates if alternates are included on the board. The Secretary may appoint 1 or more members of the general public to each board.
 
 #### (C) Nominations
 
@@ -34,7 +34,7 @@ Each order shall contain the terms and conditions specified in this section.
 
 &emsp;&emsp;(A) review the geographical distribution in the United States of the production of the agricultural commodity covered by the order involved and the quantity or value of the agricultural commodity imported into the United States; and
 
-&emsp;&emsp;(B) if warranted, recommend to the Secretary the reapportionment of the boardmembership to reflect changes in the geographical distribution of the production of the agricultural commodity and the quantity or value of the imported agricultural commodity.
+&emsp;&emsp;(B) if warranted, recommend to the Secretary the reapportionment of the board membership to reflect changes in the geographical distribution of the production of the agricultural commodity and the quantity or value of the imported agricultural commodity.
 
 #### (4) Notice
 
@@ -186,7 +186,7 @@ A board may not engage in, and shall prohibit the employees and agents of the bo
 
 #### (h) Periodic evaluation
 
-In accordance with section 7401(c) of this title, each order shall require the board established under the order to provide for the independent evaluation of all generic promotion, research, and information activities undertaken under the order.
+In accordance with section 7401(c) of this title, each order shall require the board established under the order to provide for the independent evaluation of all generic promotion, research,and information activities undertaken under the order.
 
 #### (i) Books and records of persons covered by order
 
@@ -212,7 +212,7 @@ In accordance with section 7401(c) of this title, each order shall require the b
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained underparagraph (1) or as part of a referendum under section 7417 of this title shall be kept confidential by all officers, employees, and agents of the Department and of the board.
+&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained under paragraph (1) or as part of a referendum under section 7417 of this title shall be kept confidential by all officers, employees, and agents of the Department and of the board.
 
 #### (B) Disclosure
 

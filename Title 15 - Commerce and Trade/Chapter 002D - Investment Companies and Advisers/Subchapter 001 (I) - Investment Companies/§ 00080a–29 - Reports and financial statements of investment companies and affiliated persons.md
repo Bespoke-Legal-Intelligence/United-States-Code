@@ -56,7 +56,7 @@ The Commission may, by rule, require that semiannual reports containing the info
 
 #### (g) Certificate of independent public accountants
 
-Financial statements contained in annual reports required pursuant to subsections (a) and (e), if required by the rules and regulations of the Commission, shall be accompanied by a certificate of independent public accountants. The certificate of such independent public accountants shall be based upon an audit not less in scope or procedures followed than that which independent public accountants would ordinarily make for the purpose of presenting comprehensive and dependable financial statements, and shall contain such information as the Commission may prescribe, by rules and regulations in the public interest or for the protection of investors, as to the nature and scope of the audit and the findings and opinion of the accountants. Each such report shall state that such independent public accountants have verified securities owned, either by actual examination, or by receipt of a certificate from the custodian, as the Commission may prescribe by rules and regulations.
+Financial statements contained in annual reports required pursuant to subsections (a) and (e), if required by the rules and regulations of the Commission, shall be accompanied by a certificate of independent public accountants. The certificate of such independent public accountants shall be based upon an audit not less inscope or procedures followed than that which independent public accountants would ordinarily make for the purpose of presenting comprehensive and dependable financial statements, and shall contain such information as the Commission may prescribe, by rules and regulations in the public interest or for the protection of investors, as to the nature and scope of the audit and the findings and opinion of the accountants. Each such report shall state that such independent public accountants have verified securities owned, either by actual examination, or by receipt of a certificate from the custodian, as the Commission may prescribe by rules and regulations.
 
 #### (h) Duties and liabilities of affiliated persons
 
@@ -66,7 +66,7 @@ Every person who is directly or indirectly the beneficial owner of more than 10 
 
 A person that maintains a church plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title shall provide disclosure to plan participants, in writing, and not less frequently than annually, and for new participants joining such a plan after May 31, 1996, as soon as is practicable after joining such plan, that—
 
-&emsp;(1) the plan, or any company or account maintained to manage or hold plan assets and interests in such plan, company, or account,are not subject to registration, regulation, or reporting under this subchapter, the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or State securities laws; and
+&emsp;(1) the plan, or any company or account maintained to manage or hold plan assets and interests in such plan, company, or account, are not subject to registration, regulation, or reporting under this subchapter, the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or State securities laws; and
 
 &emsp;(2) plan participants and beneficiaries therefore will not be afforded the protections of those provisions.
 
@@ -122,7 +122,7 @@ Pub. L. 104–290, §206(2), redesignated subsec. (f), relating to duties and li
 
 #### Rule of Construction—No New Disclosure Requirements
 
-Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collectedor disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
 
 #### <b>Executive Documents</b>
 

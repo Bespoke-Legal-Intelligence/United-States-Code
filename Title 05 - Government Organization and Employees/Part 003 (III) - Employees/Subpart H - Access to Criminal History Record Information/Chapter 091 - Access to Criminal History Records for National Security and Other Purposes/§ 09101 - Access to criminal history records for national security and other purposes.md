@@ -92,7 +92,7 @@
 
 (f) The authority provided under this section with respect to the Department of State may be exercised only so long as the Department of State continues to extend to its employees and applicants for employment, at a minimum, those procedural safeguards provided for as part of the security clearance process that were made available, as of May 1, 1987, pursuant to section 163.4 of volume 3 of the Foreign Affairs Manual.
 
-(g) Upon request by a covered agency and in accordance with the applicable provisions of thissection, the Deputy Assistant Secretary of State for Overseas Citizens Services shall make available criminal history record information collected by the Deputy Assistant Secretary with respect to an individual who is under investigation by the covered agency regarding any interaction of the individual with a law enforcement agency or intelligence agency of a foreign country.
+(g) Upon request by a covered agency and in accordance with the applicable provisions of this section, the Deputy Assistant Secretary of State for Overseas Citizens Services shall make available criminal history record information collected by the Deputy Assistant Secretary with respect to an individual who is under investigation by the covered agency regarding any interaction of the individual with a law enforcement agency or intelligence agency of a foreign country.
 
 (h) If a contractor described in subsection (a)(6)(J) uses an automated information delivery system to request criminal history record information, the contractor shall comply with any necessary security requirements for access to that system.
 
@@ -172,7 +172,7 @@ Subsec. (e). Pub. L. 101–246, §114(2), added subsec. (e).
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 1986 Amendment
 

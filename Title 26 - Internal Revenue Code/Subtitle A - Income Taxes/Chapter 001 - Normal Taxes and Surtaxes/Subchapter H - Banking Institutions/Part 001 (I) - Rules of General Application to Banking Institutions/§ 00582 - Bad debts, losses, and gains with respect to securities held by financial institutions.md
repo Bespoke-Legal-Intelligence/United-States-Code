@@ -90,7 +90,7 @@ Subsec. (c). Pub. L. 91–172, §433(a), redesignated existing provisions as par
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 effective Jan. 1, 2005, with exception for any FASIT in existence on Oct. 22, 2004, to the extent that regular interests issued by the FASIT before such date continue to remain outstanding in accordance with the original terms of issuance, see section 835(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
+Amendment by Pub. L. 108–357 effective Jan. 1, 2005, with exception for any FASIT in existence on Oct. 22,2004, to the extent that regular interests issued by the FASIT before such date continue to remain outstanding in accordance with the original terms of issuance, see section 835(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -28,7 +28,7 @@
 
 (e) A person who is designated under subsection (a)(3) to receive payments under this section shall furnish satisfactory assurance that the amounts received by him will be applied to the use and benefit of the incompetent member, and, where the payments may reasonably be expected to be more than $25,000, shall provide a suitable bond to be paid for out of amounts due the incompetent member.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 483; Pub. L. 96–513, title V, §516(17), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 101–189, div. A, title XVI, §1621(b)(1), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 114–328, div. A, title VI, §645, Dec. 23, 2016, 130 Stat. 2167.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 483; Pub. L. 96–513, title V, §516(17), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 101–189, div. A, title XVI, §1621(b)(1), Nov. 29, 1989, 103 Stat. 1604; Pub. L.114–328, div. A, title VI, §645, Dec. 23, 2016, 130 Stat. 2167.)
 
 Historical and Revision Notes
 
@@ -68,7 +68,7 @@ June 21, 1950, ch. 342, §§2, 3 (less 1st 28 words), 64 Stat. 249; Aug. 7, 1959
 
 37:353 (less 1st 28 words).
 
-In subsection (a), the words "or persons" and "or officers" are omitted, since, under section 1 of title 1,"words importing the singular include and apply to several persons, parties, or things". The words "to whom he delegates his authority under this section" are substituted for the words "as the respective Secretaries may designate for such purposes" to obviate confusion between persons "designated to receive payments and those who perform the Secretary's functions under the section. The words "the necessity of" are omitted as surplusage.
+In subsection (a), the words "or persons" and "or officers" are omitted, since, under section 1 of title 1, "words importing the singular include and apply to several persons, parties, or things". The words "to whom he delegates his authority under this section" are substituted for the words "as the respective Secretaries may designate for such purposes" to obviate confusion between persons "designated to receive payments and those who perform the Secretary's functions under the section. The words "the necessity of" are omitted as surplusage.
 
 In subsection (c), the words "or persons" are omitted for the reasons given in the preceding paragraph. The words "discharges the obligation" are substituted for the words "shall constitute a complete discharge".
 

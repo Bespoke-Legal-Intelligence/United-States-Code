@@ -64,7 +64,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Director shall carry out under the Initiative a program to support, and discover fundamental knowledge relevant to, carbon materials and carbon ore processing research.
+&emsp;&emsp;The Director shall carry out under the Initiative a program to support, and discoverfundamental knowledge relevant to, carbon materials and carbon ore processing research.
 
 #### (B) Activities
 
@@ -124,7 +124,7 @@
 
 #### (D) Renewal
 
-&emsp;&emsp;On the expiration of any period of support of a Center, the Director may renew supportfor that Center, on a merit-reviewed basis, for a period of not more than 5 years.
+&emsp;&emsp;On the expiration of any period of support of a Center, the Director may renew support for that Center, on a merit-reviewed basis, for a period of not more than 5 years.
 
 #### (E) Existing facilities
 

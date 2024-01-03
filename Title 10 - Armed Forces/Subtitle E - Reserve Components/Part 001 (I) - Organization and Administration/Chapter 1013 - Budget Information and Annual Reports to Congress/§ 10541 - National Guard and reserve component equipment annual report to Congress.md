@@ -6,7 +6,7 @@
 
 &emsp;(1) Recommendations as to the type and quantity of each major item of equipment which should be in the inventory of the Selected Reserve of the Ready Reserve of each reserve component of the armed forces.
 
-&emsp;(2) A statement of the quantity and average age of each type of major item of equipment which is expected to be physically available in the inventory of the Selected Reserve of the Ready Reserve of each reserve component as of the beginning of each fiscal year covered by the report.
+&emsp;(2) A statement of the quantity and average age of each type of major item of equipment which is expected to be physically available in the inventory of the Selected Reserve of the Ready Reserve of each reserve component asof the beginning of each fiscal year covered by the report.
 
 &emsp;(3) A statement of the quantity and cost of each type of major item of equipment which is expected to be procured for the Selective Reserve of the Ready Reserve of each reserve component from commercial sources or to be transferred to each such Selected Reserve from the active-duty components of the armed forces.
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(C) which has not been received by a National Guard unit as of the close of that fiscal year.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1714, §115b; amended Pub. L. 102–484, div. A, title XI, §1134, Oct. 23, 1992, 106 Stat. 2541; renumbered §10541 and amended Pub. L. 103–337, div. A, title XVI, §1661(d)(2), Oct. 5, 1994, 108 Stat. 2982; Pub. L. 110–181, div. A, title III, §351(a), title XVIII, §1826, Jan. 28, 2008, 122 Stat. 70, 503; Pub. L. 112–81, div. A, title X, §1070, Dec. 31, 2011, 125 Stat. 1592; Pub. L. 115–232, div. A, title I, §111(a), title XII, §1204(b)(1)(B), Aug. 13, 2018, 132 Stat. 1660, 2017.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1714, §115b; amended Pub. L. 102–484, div. A, title XI, §1134, Oct. 23, 1992, 106 Stat. 2541; renumbered §10541 and amended Pub. L. 103–337, div. A, title XVI, §1661(d)(2), Oct. 5, 1994, 108 Stat. 2982; Pub. L. 110–181, div. A, title III, §351(a), title XVIII, §1826, Jan. 28, 2008, 122 Stat. 70, 503; Pub. L. 112–81, div. A, title X, §1070, Dec. 31, 2011, 125 Stat. 1592; Pub. L. 115–232, div. A, title I, §111(a),title XII, §1204(b)(1)(B), Aug. 13, 2018, 132 Stat. 1660, 2017.)
 
 #### <b>Editorial Notes</b>
 

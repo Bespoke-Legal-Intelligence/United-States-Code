@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(E) provide assurances that activities assisted under this division will not displace an employee or eliminate a position at a school assisted under this division, including a partial displacement such as a reduction in hours, wages, or employment benefits;
 
-&emsp;&emsp;(F) describe, in the case of an eligible entity described in section 1070a–21(c)(1) of this title that chooses to use a cohort approach, or an eligible entity described in section 1070a–21(c)(2) of this title, how the eligible entity will define the cohorts of the students served by the eligible entity pursuant to section 1070a–22(d) of this title, and how the eligible entity will serve the cohorts through grade 12, including—
+&emsp;&emsp;(F) describe, in the case of an eligible entity described in section 1070a–21(c)(1) of this title that chooses to use a cohort approach,or an eligible entity described in section 1070a–21(c)(2) of this title, how the eligible entity will define the cohorts of the students served by the eligible entity pursuant to section 1070a–22(d) of this title, and how the eligible entity will serve the cohorts through grade 12, including—
 
 &emsp;&emsp;&emsp;(i) how vacancies in the program under this division will be filled; and
 
@@ -48,7 +48,7 @@
 
 #### (2) Special rule
 
-&emsp;Notwithstanding the matching requirement described in paragraph (1)(A), the Secretary may by regulation modify the percentage requirement described in paragraph (1)(A) for eligible entities described in section 1070a–21(c)(2) of this title. The Secretary mayapprove an eligible entity's request for a reduced match percentage—
+&emsp;Notwithstanding the matching requirement described in paragraph (1)(A), the Secretary may by regulation modify the percentage requirement described in paragraph (1)(A) for eligible entities described in section 1070a–21(c)(2) of this title. The Secretary may approve an eligible entity's request for a reduced match percentage—
 
 &emsp;&emsp;(A) at the time of application—
 
@@ -92,7 +92,7 @@ A prior section 1070a–23, Pub. L. 89–329, title IV, §404C, as added Pub. L.
 
 Subsec. (a). Pub. L. 110–315, §404(c)(2)(A), substituted "Application" for "Plan" in heading.
 
-Subsec. (a)(1). Pub. L. 110–315, §404(c)(2)(B), substituted "an application" for "a plan" and struck out at end "Such plan shall provide for the conduct of a scholarship component if required or undertaken pursuant to section 1070a–25 of this title and an early intervention component required pursuant to section 1070a–24 of this title."
+Subsec. (a)(1). Pub. L. 110–315, §404(c)(2)(B), substituted "an application" for "a plan" and struck outat end "Such plan shall provide for the conduct of a scholarship component if required or undertaken pursuant to section 1070a–25 of this title and an early intervention component required pursuant to section 1070a–24 of this title."
 
 Subsec. (a)(2). Pub. L. 110–315, §404(c)(2)(C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Each plan submitted pursuant to paragraph (1) shall be in such form, contain or be accompanied by such information or assurances, and be submitted at such time as the Secretary may require by regulation. Each such plan shall—
 

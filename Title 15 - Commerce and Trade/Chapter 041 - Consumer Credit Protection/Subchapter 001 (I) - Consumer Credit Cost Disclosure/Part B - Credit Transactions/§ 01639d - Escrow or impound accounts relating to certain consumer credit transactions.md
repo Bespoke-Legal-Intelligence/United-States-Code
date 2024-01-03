@@ -46,7 +46,7 @@ No impound, trust, or other type of account for the payment of property taxes, i
 
 #### (d) Duration of mandatory escrow or impound account
 
-An escrow or impound account established pursuant to subsection (b) shall remain in existence for a minimum period of 5 years, beginning with the date of the consummation of the loan, unless and until—
+An escrow or impound account established pursuant to subsection (b) shall remain in existence for a minimum period of 5 years, beginningwith the date of the consummation of the loan, unless and until—
 
 &emsp;(1) such borrower has sufficient equity in the dwelling securing the consumer credit transaction so as to no longer be required to maintain private mortgage insurance;
 
@@ -192,7 +192,7 @@ Amendment by section 1462 of Pub. L. 111–203 effective on the date on which fi
 
 #### Effective Date
 
-Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of this title.
+Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as anEffective Date of 2010 Amendment note under section 1601 of this title.
 
 #### Exemptions and Modifications
 

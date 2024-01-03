@@ -66,7 +66,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(i) expenditures during fiscal year 1995 under subsection (g) or (i) of section 602 of this title (as in effect on September 30, 1995); or
 
-&emsp;&emsp;&emsp;(ii) any expenditures during fiscal year 1995 for which the territory (but for this section, as in effect on September 30, 1995) would have received reimbursement from the Federal Government.
+&emsp;&emsp;&emsp;(ii) any expenditures during fiscal year 1995 for which the territory (but for this section, as in effect on September 30, 1995)would have received reimbursement from the Federal Government.
 
 #### (d) Authority to transfer funds to certain programs
 
@@ -148,7 +148,7 @@ Subject to subsections (g) and (h) and section 1396u–5(e)(1)(B) of this title,
 
 &emsp;&emsp;&emsp;(iii) for fiscal year 2021, $85,550,000.
 
-> &emsp;For fiscal year 2022 (and, in the case of a territory other than Puerto Rico, for each subsequent fiscal year), the total amount certified for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa under subsection (f) and this subsection for the fiscal year shall be determined as if the preceding subparagraphs were applied to each of fiscal years 2020 through 2021 without regard to clause (ii) of each such subparagraph.
+> &emsp;For fiscal year 2022 (and, in the case of a territory other than Puerto Rico, for each subsequent fiscal year), the total amount certified for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa under subsection (f) and this subsection for the fiscal year shall be determinedas if the preceding subparagraphs were applied to each of fiscal years 2020 through 2021 without regard to clause (ii) of each such subparagraph.
 
 #### (3) Fiscal years 2006 and 2007 for certain insular areas
 
@@ -268,7 +268,7 @@ Subject to subsections (g) and (h) and section 1396u–5(e)(1)(B) of this title,
 
 #### (II) Duties
 
-&emsp;&emsp;&emsp;&emsp;Not later than 60 days after the end of each fiscal quarter (beginning with thefirst fiscal quarter beginning on or after the date that is 1 year after December 29, 2022), the officer designated pursuant to subclause (I) shall, with respect to each contract described in clause (iii) with an annual value exceeding $150,000 entered into during such quarter, certify to the Secretary either—
+&emsp;&emsp;&emsp;&emsp;Not later than 60 days after the end of each fiscal quarter (beginning with the first fiscal quarter beginning on or after the date that is 1 year after December 29,2022), the officer designated pursuant to subclause (I) shall, with respect to each contract described in clause (iii) with an annual value exceeding $150,000 entered into during such quarter, certify to the Secretary either—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) that such contract has met the procurement standards identified under any of sections 75.327, 75.328, and 75.329 of title 45, Code of Federal Regulations (or successor regulations); or
 
@@ -326,7 +326,7 @@ Subject to subsections (g) and (h) and section 1396u–5(e)(1)(B) of this title,
 
 #### (A) In general
 
-&emsp;&emsp;Not later than the date that is 30 days after the end of each fiscal year (beginning with fiscal year 2020 and ending with fiscal year 2021) and for fiscal year 2023 and each subsequent fiscal year (or, in the case of Puerto Rico, and for fiscal year 2023 and each subsequent fiscal year before fiscal year 2028), in the case that a specified territory receives a Medicaid cap increase, or an increase in the Federal medical assistance percentage for such territory under section 1396d(ff) of this title, for such fiscal year, such territory shall submit to the Chair and Ranking Member of the Committee on Energy and Commerce of the House of Representatives and the Chair and Ranking Member of the Committee on Finance of the Senate a report, employing the most up-to-date information available, that describes how such territory has used such Medicaidcap increase, or such increase in the Federal medical assistance percentage, as applicable, to increase access to health care under the State Medicaid plan of such territory under subchapter XIX (or a waiver of such plan). Such report may include—
+&emsp;&emsp;Not later than the date that is 30 days after the end of each fiscal year (beginning with fiscal year 2020 and ending with fiscal year 2021) and for fiscal year 2023 and each subsequent fiscal year (or, in the case of Puerto Rico, and for fiscal year 2023 and each subsequent fiscal year before fiscal year 2028), in the case that a specified territory receives a Medicaid cap increase, or an increase in the Federal medical assistance percentage for such territory under section 1396d(ff) of this title, for such fiscal year, such territory shall submit to the Chair and Ranking Member of the Committee on Energy and Commerce of the House of Representatives and the Chair and Ranking Member of the Committee on Finance of the Senate a report, employing the most up-to-date information available, that describes how such territory has used such Medicaid cap increase, or such increase in the Federal medical assistance percentage, as applicable,to increase access to health care under the State Medicaid plan of such territory under subchapter XIX (or a waiver of such plan). Such report may include—
 
 &emsp;&emsp;&emsp;(i) the extent to which such territory has, with respect to such plan (or waiver)—
 
@@ -394,7 +394,7 @@ Subject to subsections (g) and (h) and section 1396u–5(e)(1)(B) of this title,
 
 #### (A) In general
 
-&emsp;&emsp;For fiscal year 2023 and each subsequent fiscal year through fiscal year 2027, the amount specified in paragraph (11) for the fiscal year shall be equal to the amount specified for such fiscal year under such paragraph increased by $300,000,000 if the Secretary certifies that, with respect to such fiscal year, Puerto Rico's State plan under subchapter XIX (or waiver of such plan) establishes a reimbursement floor, implemented through a directed payment arrangement plan, for physician services that are covered under the Medicare part B fee schedule in the Puerto Rico locality established under section 1395w–4(b) of this title that is not less than 75 percent of the payment that would apply to such services if they were furnished under part B of subchapter XVIII during such fiscal year.
+&emsp;&emsp;For fiscal year 2023 and each subsequent fiscal year through fiscal year 2027, theamount specified in paragraph (11) for the fiscal year shall be equal to the amount specified for such fiscal year under such paragraph increased by $300,000,000 if the Secretary certifies that, with respect to such fiscal year, Puerto Rico's State plan under subchapter XIX (or waiver of such plan) establishes a reimbursement floor, implemented through a directed payment arrangement plan, for physician services that are covered under the Medicare part B fee schedule in the Puerto Rico locality established under section 1395w–4(b) of this title that is not less than 75 percent of the payment that would apply to such services if they were furnished under part B of subchapter XVIII during such fiscal year.
 
 #### (B) Application to managed care
 
@@ -530,7 +530,7 @@ Subsec. (h). Pub. L. 116–260, §208(d)(2), added subsec. (h).
 
 Pub. L. 116–94, §202(a)(1)(A), substituted "subject to section 18043(a)(2) of this title and paragraphs (3) and (5)" for "subject to and section 18043(a)(2) of this title paragraphs (3) and (5)" in introductory provisions.
 
-Subsec. (g)(2)(A). Pub. L. 116–94, §202(a)(1)(B), substituted "Puerto Rico shall not exceed—" for "PuertoRico shall not exceed the sum of", inserted "(i) except as provided in clause (ii), the sum of" before "the amount provided", and added cl. (ii).
+Subsec. (g)(2)(A). Pub. L. 116–94, §202(a)(1)(B), substituted "Puerto Rico shall not exceed—" for "Puerto Rico shall not exceed the sum of", inserted "(i) except as provided in clause (ii), the sum of" before "the amount provided", and added cl. (ii).
 
 Subsec. (g)(2)(B). Pub. L. 116–94, §202(a)(1)(C), substituted "the Virgin Islands shall not exceed—" for "the Virgin Islands shall not exceed the sum of", inserted "(i) except as provided in clause (ii), the sum of" before "the amount provided", and added cl. (ii).
 
@@ -606,7 +606,7 @@ Subsec. (f). Pub. L. 108–173 inserted "and section 1396u–5(e)(1)(B) of this 
 
 Subsec. (a)(2). Pub. L. 105–33, §5001(b), inserted "603(a)(5)," after "603(a)(4),".
 
-Subsec. (b)(1)(A). Pub. L. 105–33, §5512(b), inserted ", including any amount paid to the State under partA of subchapter IV that is transferred in accordance with section 604(d) of this title and expended under the program to which transferred" before semicolon.
+Subsec. (b)(1)(A). Pub. L. 105–33, §5512(b), inserted ", including any amount paid to the State under part A of subchapter IV that is transferred in accordance with section 604(d) of this title and expended under the program to which transferred" before semicolon.
 
 Subsec. (e). Pub. L. 105–33, §5512(c), struck out heading and text of subsec. (e). Text read as follows: "The ceiling amount with respect to a territory shall be reduced for a fiscal year by an amount equal to the amount (if any) by which—
 
@@ -756,9 +756,9 @@ Pub. L. 103–66, title XIII, §13641(b), Aug. 10, 1993, 107 Stat. 647, provided
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 202(c)(2), (3) of Pub. L. 100–485 effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary ofHealth and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485, at such earlier effective dates, see section 204 of Pub. L. 100–485, set out as a note under section 671 of this title.
+Amendment by section 202(c)(2), (3) of Pub. L. 100–485 effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485, at such earlier effective dates, see section 204 of Pub. L. 100–485, set out as a note under section 671 of this title.
 
-Amendment by section 601(b), (c)(2) of Pub. L. 100–485 effective Oct. 1, 1988, see section 601(d) of Pub. L. 100–485, set out as an Effective and Termination Dates of 1988 Amendment note under section 1301 of this title.
+Amendment by section 601(b), (c)(2) of Pub. L. 100–485 effective Oct. 1, 1988, see section 601(d) of Pub. L.100–485, set out as an Effective and Termination Dates of 1988 Amendment note under section 1301 of this title.
 
 Pub. L. 100–485, title VI, §602(b), Oct. 13, 1988, 102 Stat. 2408, provided that: "The amendments made by subsection (a) \[amending this section\] shall become effective on October 1, 1988."
 

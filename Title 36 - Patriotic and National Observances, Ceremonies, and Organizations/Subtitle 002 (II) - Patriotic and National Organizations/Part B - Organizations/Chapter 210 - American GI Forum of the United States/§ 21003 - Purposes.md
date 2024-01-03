@@ -16,7 +16,7 @@ General.—The purposes of the corporation are as provided in its bylaws and art
 
 &emsp;(6) combating all practices of a prejudicial or discriminatory nature in local, State, or national life which curtail, hinder, or deny to any United States citizen an equal opportunity to develop full potential as an individual; and
 
-&emsp;(7) fostering and promoting the broader knowledge and appreciation by all UnitedStates citizens of their cultural heritage and language.
+&emsp;(7) fostering and promoting the broader knowledge and appreciation by all United States citizens of their cultural heritage and language.
 
 (b)
 

@@ -16,7 +16,7 @@ Not later than 3 years after June 22, 2009, and not less than every 2 years ther
 
 Not later than 5 years after June 22, 2009, the Comptroller General of the United States shall conduct a study of, and submit to the Committees described in subsection (a) a report concerning—
 
-&emsp;(1) the adequacy of the authority and resources provided to the Secretary of Healthand Human Services for this division to carry out its goals and purposes; and
+&emsp;(1) the adequacy of the authority and resources provided to the Secretary of Health and Human Services for this division to carry out its goals and purposes; and
 
 &emsp;(2) any recommendations for strengthening that authority to more effectively protect the public health with respect to the manufacture, marketing, and distribution of tobacco products.
 

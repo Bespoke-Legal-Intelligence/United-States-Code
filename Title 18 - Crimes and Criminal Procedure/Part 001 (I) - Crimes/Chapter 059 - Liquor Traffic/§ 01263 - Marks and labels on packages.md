@@ -32,5 +32,5 @@ Pub. L. 90–518, §3, Sept. 26, 1968, 82 Stat. 872, provided that: "This Act \[
 
 #### Congressional Disclaimer of Intent To Preempt State Regulation of Shipments of Intoxicating Liquor
 
-Pub. L. 90–518, §2, Sept. 26, 1968, 82 Stat. 872, provided that: "Nothing contained in this Act \[amending this section\] shall be construed as indicating an intent on the part of Congress to deprive any State of the power to enact additional prohibitions with respect to the shipment of intoxicating liquors."
+Pub. L. 90–518, §2, Sept. 26, 1968, 82 Stat. 872, provided that: "Nothing contained in this Act \[amending thissection\] shall be construed as indicating an intent on the part of Congress to deprive any State of the power to enact additional prohibitions with respect to the shipment of intoxicating liquors."
 

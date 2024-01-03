@@ -28,7 +28,7 @@ Section was enacted as part of the Violence Against Women and Department of Just
 
 Prior sections 280b–4 to 280b–11 were repealed by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
-Section 280b–4, act July 1, 1944, ch. 373, title III, §393, formerly §394, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1062; amended Mar. 13, 1970, Pub. L. 91–212,§§2(b), 10(d)(2)(A), 84 Stat. 63, 67; June 18, 1973, Pub. L. 93–45, title I, §107(a), 87 Stat. 92; renumbered §393 and amended July 23, 1974, Pub. L. 93–353, title II, §§203(a), 204, 88 Stat. 372, 373, related to grants for training in medical library sciences.
+Section 280b–4, act July 1, 1944, ch. 373, title III, §393, formerly §394, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1062; amended Mar. 13, 1970, Pub. L. 91–212, §§2(b), 10(d)(2)(A), 84 Stat. 63, 67; June 18, 1973, Pub. L. 93–45, title I, §107(a), 87 Stat. 92; renumbered §393 and amended July 23, 1974, Pub. L. 93–353, title II, §§203(a), 204, 88 Stat. 372, 373, related to grants for training in medical library sciences.
 
 Section 280b–5, act July 1, 1944, ch. 373, title III, §394, formerly §395, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1062; amended Mar. 13, 1970, Pub. L. 91–212, §§2(c), (d), 4(a), 5(a), 10(c)(1)(A), (B), (2)(A)–(C), (d)(2)(A), 84 Stat. 63, 64, 66, 67; June 18, 1973, Pub. L. 93–45, title I, §107(b), (c), 87 Stat. 92; renumbered §394 and amended July 23, 1974, Pub. L. 93–353, title II, §§203(b), 204, 88 Stat. 372, 373, related to assistance for special scientific projects; research and development in medical library science and related fields.
 

@@ -1,6 +1,6 @@
 ### §670. Congressional declaration of purpose; authorization of appropriations
 
-For the purpose of enabling each State to provide, in appropriate cases, foster care and transitional independent living programs for children who otherwise would have been eligible for assistance under the State's plan approved under part A (as such plan was in effect on June 1, 1995), adoption assistance for children with special needs, kinship guardianship assistance, and prevention services or programs specified in section 671(e)(1) of this title, there are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the provisions of this part. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary, State plans under this part.
+For the purpose of enabling each State to provide, in appropriate cases, foster care and transitional independent living programs for children who otherwise would have been eligible for assistance under the State's plan approved under part A (as such plan was in effect on June 1, 1995), adoption assistance for children with special needs, kinship guardianship assistance, and prevention services or programs specified in section 671(e)(1) of this title, there are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the provisions of this part. The sums made availableunder this section shall be used for making payments to States which have submitted, and had approved by the Secretary, State plans under this part.
 
 (Aug. 14, 1935, ch. 531, title IV, §470, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 501; amended Pub. L. 99–272, title XII, §12307(d), Apr. 7, 1986, 100 Stat. 297; Pub. L. 99–514, title XVII, §1711(c)(1), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 104–193, title I, §108(d)(1), Aug. 22, 1996, 110 Stat. 2166; Pub. L. 115–123, div. E, title VII, §50733(b), Feb. 9, 2018, 132 Stat. 252.)
 
@@ -50,7 +50,7 @@ Pub. L. 106–314, Oct. 17, 2000, 114 Stat. 1266, provided that:
 
 &emsp;"(4) To avoid unnecessary and lengthy stays in the foster care system, the Adoption and Safe Families Act of 1997 specifically requires, among other things, that States move to terminate the parental rights of the parents of those children who have been in foster care for 15 of the last 22 months.
 
-&emsp;"(5) While essential to protect children and to carry out the general purposes of the Adoption and Safe Families Act of 1997, the accelerated timelines for the termination of parental rights and the other requirements imposed under that Act increase the pressureon the Nation's already overburdened abuse and neglect courts.
+&emsp;"(5) While essential to protect children and to carry out the general purposes of the Adoption and Safe Families Act of 1997, the accelerated timelines for the termination of parental rights and the other requirements imposed under that Act increase the pressure on the Nation's already overburdened abuse and neglect courts.
 
 &emsp;"(6) The administrative efficiency and effectiveness of the Nation's abuse and neglect courts would be substantially improved by the acquisition and implementation of computerized case-tracking systems to identify and eliminate existing backlogs, to move abuse and neglect caseloads forward in a timely manner, and to move children into safe and stable families. Such systems could also be used to evaluate the effectiveness of such courts in meeting the purposes of the amendments made by, and provisions of, the Adoption and Safe Families Act of 1997.
 
@@ -156,7 +156,7 @@ Information required.—An application for a grant authorized under this section
 
 &emsp;&emsp;"(H) An assurance that any contract entered into between the State court or local court and any other entity that is to provide services for the development, implementation, or maintenance of the system under the proposed plan will require the entity to agree to allow for replication of the services provided, the plan, and the system, and to refrain from asserting any proprietary interest in such services for purposes of allowing the plan and system to be replicated in another jurisdiction.
 
-&emsp;&emsp;"(I) An assurance that the system established under the plan will provide data that allows for evaluation (at least on an annual basis) of the following information:
+&emsp;&emsp;"(I) An assurance that the system established under the plan will provide data that allows forevaluation (at least on an annual basis) of the following information:
 
 &emsp;&emsp;&emsp;"(i) The total number of cases that are filed in the abuse and neglect court.
 
@@ -238,7 +238,7 @@ Considerations.—In evaluating an application for a grant under this section th
 
 &emsp;&emsp;"(A) The extent to which the system proposed in the application may be replicated in other jurisdictions.
 
-&emsp;&emsp;"(B) The extent to which the proposed system is consistent with the provisions of, and amendmentsmade by, the Adoption and Safe Families Act of 1997 (Public Law 105–89; 111 Stat. 2115), and parts B and E of title IV of the Social Security Act (42 U.S.C. 620 et seq.; 670 et seq.).
+&emsp;&emsp;"(B) The extent to which the proposed system is consistent with the provisions of, and amendments made by, the Adoption and Safe Families Act of 1997 (Public Law 105–89; 111 Stat. 2115), and parts B and E of title IV of the Social Security Act (42 U.S.C. 620 et seq.; 670 et seq.).
 
 &emsp;&emsp;"(C) The extent to which the proposed system is feasible and likely to achieve the purposes described in subsection (a)(1).
 
@@ -364,7 +364,7 @@ Limitation on Administrative Expenditures.—Not more than 5 percent of the gran
 
 "(c)
 
-Determination of Urban and Rural Areas.—For purposes of administering the grant authorizedunder this subsection, the Administrator of the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice shall determine whether an area is one of the 15 largest urban areas or a rural area in accordance with the practices of, and statistical information compiled by, the Bureau of the Census.
+Determination of Urban and Rural Areas.—For purposes of administering the grant authorized under this subsection, the Administrator of the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice shall determine whether an area is one of the 15 largest urban areas or a rural area in accordance with the practices of, and statistical information compiled by, the Bureau of the Census.
 
 "(d)
 
@@ -410,7 +410,7 @@ This order will help to empower families who answer the call to open their heart
 
 Sec. 2. <i>Encouraging Robust Partnerships Between State Agencies and Public, Private, Faith-based, and Community Organizations</i>. (a) In order to facilitate close partnerships between State agencies and nongovernmental organizations, including public, private, faith-based, and community groups, the Secretary of Health and Human Services (the "Secretary") shall provide increased public access to accurate, up-to-date information relevant to strengthening the child welfare system, including by:
 
-(i) Publishing data to aid in the recruitment of community support. Within 1 year of the date of this order \[June 24, 2020\] and each year thereafter, the Secretary shall submit to the President, through the Assistant to the President for Domestic Policy, a report that provides information about typical patterns of entry, recent available counts of children in foster care, andcounts of children waiting for adoption. To the extent appropriate and consistent with applicable law, including all privacy laws, this data will be disaggregated by county or other sub-State level, child age, placement type, and prior time in care.
+(i) Publishing data to aid in the recruitment of community support. Within 1 year of the date of this order \[June 24, 2020\] and each year thereafter, the Secretary shall submit to the President, through the Assistant to the President for Domestic Policy, a report that provides information about typical patterns of entry, recent available counts of children in foster care, and counts of children waiting for adoption. To the extent appropriate and consistent with applicable law, including all privacy laws, this data will be disaggregated by county or other sub-State level, child age, placement type, and prior time in care.
 
 (ii) Collecting needed data to preserve sibling connections.
 
@@ -432,7 +432,7 @@ Sec. 2. <i>Encouraging Robust Partnerships Between State Agencies and Public, Pr
 
 &emsp;&emsp;(5) the average length of time it takes to complete foster and adoptive home certification.
 
-&emsp;(B) The Secretary shall ensure, to the extent consistent with applicable law, that States report to the Secretary regarding strategies for coordinating with nongovernmental organizations, including faith-based and community organizations, to recruit and support foster and adoptive families.
+&emsp;(B) The Secretary shall ensure, to the extent consistent with applicable law, that States report to theSecretary regarding strategies for coordinating with nongovernmental organizations, including faith-based and community organizations, to recruit and support foster and adoptive families.
 
 (b) Within 1 year of the date of this order, the Secretary shall issue guidance to Federal, State, and local agencies on partnering with nongovernmental organizations. This guidance shall include best practices for information sharing, providing needed services to families to support prevention of children entering foster care, family preservation, foster and adoptive home recruitment and retention, respite care, post-placement family support, and support for older youth. This guidance shall also make clear that faith-based organizations are eligible for partnerships under title IV–E \[probably means part E of title IV\] of the Act (42 U.S.C. 670 <i>et seq</i>.), on an equal basis, consistent with the First Amendment to the Constitution.
 
@@ -470,7 +470,7 @@ Sec. 5. <i>Improving Processes to Prevent Unnecessary Removal and Secure Permane
 
 (iii) Within 2 years of the date of this order, the Secretary shall develop metrics to track permanency outcomes in each State and measure State performance over time.
 
-(iv) Within 6 months of the date of this order, the Secretary shall provide guidance to States regarding flexibility in the use of Federal funds to support and encourage high-quality legal representation for parents and children, including pre-petition representation, in their efforts to prevent the removal of children from their families, safely reunify children and parents, finalize permanency, and ensure that their voices areheard and their rights are protected. The Secretary shall also ensure collection of data regarding State use of Federal funds for this purpose.
+(iv) Within 6 months of the date of this order, the Secretary shall provide guidance to States regarding flexibility in the use of Federal funds to support and encourage high-quality legal representation for parents and children, including pre-petition representation, in their efforts to prevent the removal of children from their families, safely reunify children and parents, finalize permanency, and ensure that their voices are heard and their rights are protected. The Secretary shall also ensure collection of data regarding State use of Federal funds for this purpose.
 
 (b) Risk and Safety Assessments.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Needs of Dependents.—In carrying out this subchapter, the Secretary shall ensure that the needs of eligible dependents are fully addressed.
+Needs of Dependents.—In carrying out this subchapter, the Secretary shall ensure thatthe needs of eligible dependents are fully addressed.
 
 (b)
 

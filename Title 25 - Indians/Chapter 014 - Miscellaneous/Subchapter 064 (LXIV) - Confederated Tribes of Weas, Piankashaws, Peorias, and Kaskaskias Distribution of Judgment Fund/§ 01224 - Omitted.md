@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 91–364, §4, July 31, 1970, 84 Stat. 688, which related to disposition of subsequent judgment funds, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 91–364, §4, July 31, 1970, 84 Stat. 688, which related to disposition of subsequent judgmentfunds, was omitted from the Code as being of special and not general application.
 

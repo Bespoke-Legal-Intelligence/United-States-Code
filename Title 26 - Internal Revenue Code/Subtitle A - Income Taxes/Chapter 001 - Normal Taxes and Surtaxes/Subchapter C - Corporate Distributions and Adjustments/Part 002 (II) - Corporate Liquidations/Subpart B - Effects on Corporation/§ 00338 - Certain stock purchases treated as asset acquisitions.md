@@ -58,7 +58,7 @@ For purposes of this subtitle, if a purchasing corporation makes an election und
 
 #### (B) Nonrecently purchased stock
 
-&emsp;&emsp;The term "nonrecently purchased stock" means any stock in the target corporation which is held by the purchasing corporationon the acquisition date and which is not recently purchased stock.
+&emsp;&emsp;The term "nonrecently purchased stock" means any stock in the target corporation which is held by the purchasing corporation on the acquisition date and which is not recently purchased stock.
 
 #### \[(c) Repealed. Pub. L. 99–514, title VI, §631(b)(2), Oct. 22, 1986, 100 Stat. 2272\]
 
@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (3) Qualified stock purchase
 
-&emsp;The term "qualified stock purchase" means any transaction or series of transactions in which stock (meeting the requirements of section 1504(a)(2)) of 1 corporation is acquired by another corporation by purchase during the 12-month acquisition period.
+&emsp;The term "qualified stock purchase" means any transaction or series of transactions in which stock (meeting the requirements of section 1504(a)(2)) of 1 corporation is acquired byanother corporation by purchase during the 12-month acquisition period.
 
 #### (e) Deemed election where purchasing corporation acquires asset of target corporation
 
@@ -310,7 +310,7 @@ Subsec. (h)(16). Pub. L. 100–647, §1012(bb)(5)(A), added par. (16).
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §631(b)(1), struck out "to which section 337 applies" after "in a single transaction".
 
-Subsec. (c). Pub. L. 99–514, §631(b)(2), struck out subsec. (c) relating to special rules for coordination with section 337 where purchasing corporation holds lessthan 100 percent of stock, and in case of certain redemptions where an election is made under this section.
+Subsec. (c). Pub. L. 99–514, §631(b)(2), struck out subsec. (c) relating to special rules for coordination with section 337 where purchasing corporation holds less than 100 percent of stock, and in case of certain redemptions where an election is made under this section.
 
 Subsec. (d)(3). Pub. L. 99–514, §1804(e)(8)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The term 'qualified stock purchase' means any transaction or series of transactions in which stock of 1 corporation possessing—
 
@@ -396,7 +396,7 @@ Binding contract exception.—The amendments made by this section shall not appl
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1012(bb)(5)(B), Nov. 10, 1988, 102 Stat. 3535, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to qualified stock purchases (as defined in section 338(d)(3) of the 1986 Code) after March 31, 1988, except that, in the case of an election under section 338(h)(10) of the 1986 Code, such amendment shall apply to qualified stock purchases (as so defined) after June 10, 1987."
+Pub. L. 100–647, title I, §1012(bb)(5)(B), Nov. 10, 1988, 102 Stat. 3535, provided that: "The amendment made bysubparagraph (A) \[amending this section\] shall apply to qualified stock purchases (as defined in section 338(d)(3) of the 1986 Code) after March 31, 1988, except that, in the case of an election under section 338(h)(10) of the 1986 Code, such amendment shall apply to qualified stock purchases (as so defined) after June 10, 1987."
 
 Amendment by sections 1006(e)(20) and 1018(d)(9) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

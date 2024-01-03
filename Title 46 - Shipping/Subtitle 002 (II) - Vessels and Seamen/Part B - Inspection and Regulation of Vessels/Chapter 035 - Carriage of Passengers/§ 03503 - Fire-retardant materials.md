@@ -48,7 +48,7 @@
 
 &emsp;(A) conduct an annual audit and inspection of each exempted vessel described in subsection (a)(2);
 
-&emsp;(B) in implementing subparagraph (b)(1)(F), consider, to the extent practicable, the goal of preservation of the historic integrity of such vessel in areas carrying or accessible to passengers or generally visible to the public; and
+&emsp;(B) in implementing subparagraph (b)(1)(F), consider, to the extent practicable, the goal ofpreservation of the historic integrity of such vessel in areas carrying or accessible to passengers or generally visible to the public; and
 
 &emsp;(C) prescribe regulations to carry out this section, including to prescribe the manner in which prospective passengers are to be notified under paragraph (1)(A).
 

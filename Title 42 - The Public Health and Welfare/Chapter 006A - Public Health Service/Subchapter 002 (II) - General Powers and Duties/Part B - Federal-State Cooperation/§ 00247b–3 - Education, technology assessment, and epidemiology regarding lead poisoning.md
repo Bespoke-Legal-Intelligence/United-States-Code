@@ -4,7 +4,7 @@
 
 #### (1) Public education
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall carry out a program to educate health professionals and paraprofessionals and the general public on the prevention of lead poisoning in infants and children. In carrying out the program, the Secretary shall make available information concerning the healtheffects of low-level lead toxicity, the causes of lead poisoning, and the primary and secondary preventive measures that may be taken to prevent such poisoning.
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall carry out a program to educate health professionals and paraprofessionals and the general public on the prevention of lead poisoning in infants and children. In carrying out the program, the Secretary shall make available information concerning the health effects of low-level lead toxicity, the causes of lead poisoning, and the primary and secondary preventive measures that may be taken to prevent such poisoning.
 
 #### (2) Interagency Task Force
 

@@ -24,7 +24,7 @@ A qualified individual enrolled in any qualified health plan may pay any applica
 
 #### (1) Individual market
 
-&emsp;A health insurance issuer shall consider all enrollees in all health plans (other than grandfathered health plans) offered by such issuer in the individual market, including those enrollees who do not enroll in such plans through the Exchange, to be members of a single risk pool.
+&emsp;A health insurance issuer shall consider all enrollees in all health plans (other than grandfathered health plans) offered by such issuer in the individual market, including those enrollees who do not enroll in such plans throughthe Exchange, to be members of a single risk pool.
 
 #### (2) Small group market
 

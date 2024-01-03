@@ -15,13 +15,16 @@
 | [708\.](%C2%A7%2000708%20-%20Educational%20leave%20of%20absence.md) | Educational leave of absence. |
 | [709\.](%C2%A7%2000709%20-%20Emergency%20leave%20of%20absence.md) | Emergency leave of absence. |
 | [709a.](%C2%A7%2000709a%20-%20Expenses%20incurred%20in%20connection%20with%20leave%20canceled%20due%20to%20contingency%20operations%20reimbursement.md) | Expenses incurred in connection with leave canceled due to contingency operations: reimbursement. |
-| [710\.](%C2%A7%2000710%20-%20Career%20flexibility%20to%20enhance%20retention%20of%20members.md) | Career flexibility to enhance retention of members.<br> |
+| [710\.](%C2%A7%2000710%20-%20Career%20flexibility%20to%20enhance%20retention%20of%20members.md) | Career flexibility to enhance retention of members. |
+| 711\.<sup>1</sup> | Parental leave for members of the reserve component of the armed forces. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title VI, §601(a)(2), Dec. 22, 2023, 137 Stat. 288, added item 711.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title V, §551(b)(1), Aug. 13, 2018, 132 Stat. 1768, added item 710.
 
@@ -45,6 +48,8 @@
 
 Pub. L. 110–417, \[div. A\], title V, §533, Oct. 14, 2008, 122 Stat. 4449, as amended by Pub. L. 112–81, div. A, title V, §531, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1403, 1465; Pub. L. 112–239, div. A, title V, §522, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1722, 1948; Pub. L. 113–291, div. A, title V, §522, Dec. 19, 2014, 128 Stat. 3360; Pub. L. 114–92, div. A, title V, §523, Nov. 25, 2015, 129 Stat. 812, which related to pilot programs under which active members of the Armed Forces could be inactivated from active duty in order to meet personal or professional needs and returned to active duty at the end of such period of inactivation, was repealed by Pub. L. 115–232, div. A, title V, §551(b)(2), Aug. 13, 2018, 132 Stat. 1769. See section 710 of this title.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -64,3 +69,4 @@ Pub. L. 110–417, \[div. A\], title V, §533, Oct. 14, 2008, 122 Stat. 4449, as
 - [&sect; 00709 - Emergency leave of absence](%C2%A7%2000709%20-%20Emergency%20leave%20of%20absence.md)
 - [&sect; 00709a - Expenses incurred in connection with leave canceled due to contingency operations reimbursement](%C2%A7%2000709a%20-%20Expenses%20incurred%20in%20connection%20with%20leave%20canceled%20due%20to%20contingency%20operations%20reimbursement.md)
 - [&sect; 00710 - Career flexibility to enhance retention of members](%C2%A7%2000710%20-%20Career%20flexibility%20to%20enhance%20retention%20of%20members.md)
+- [&sect; 00711 - 1 Parental leave for members of certain reserve components of the armed forces](%C2%A7%2000711%20-%201%20Parental%20leave%20for%20members%20of%20certain%20reserve%20components%20of%20the%20armed%20forces.md)

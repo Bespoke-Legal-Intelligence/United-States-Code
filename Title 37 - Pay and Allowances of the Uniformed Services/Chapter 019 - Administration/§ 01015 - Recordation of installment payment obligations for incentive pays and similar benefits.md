@@ -6,7 +6,7 @@ In General.—In the case of any pay, allowance, bonus, or other benefit describ
 
 (b)
 
-Covered Pay and Benefits.—Subsection (a) applies to any incentive pay, special pay, orbonus, or similar periodic payment of pay or allowances, or of educational benefits or stipends, that is paid to a member of the uniformed services under this title or title 10.
+Covered Pay and Benefits.—Subsection (a) applies to any incentive pay, special pay, or bonus, or similar periodic payment of pay or allowances, or of educational benefits or stipends, that is paid to a member of the uniformed services under this title or title 10.
 
 (Added Pub. L. 114–92, div. A, title VI, §662(a), Nov. 25, 2015, 129 Stat. 859.)
 

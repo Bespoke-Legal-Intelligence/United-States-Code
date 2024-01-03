@@ -12,7 +12,7 @@
 
 &emsp;(B) a pro rata share of 50 percent, if such former spouse was not married to the participant throughout such creditable service.
 
-(3) A former spouse shall not be qualified for any benefit under this subsection if, before the commencement of any benefit, the former spouse remarries before becoming 55 years of age.
+(3) A former spouse shall not be qualified for any benefit under this subsection if, before the commencement of any benefit, the formerspouse remarries before becoming 55 years of age.
 
 (4)(A) For purposes of title 26, payments to a former spouse under this section shall be treated as income to the former spouse and not to the participant.
 
@@ -48,7 +48,7 @@
 
 #### (c) Diminution of entitlement of former spouse prohibited
 
-A participant or former participant may not make any election or modification of electionunder section 8417, 8418, or 8433 of title 5 or other section relating to the participant's account in the Thrift Savings Plan or annuity under the basic plan that would diminish the entitlement of a former spouse to any benefit granted to the former spouse by this section or in a current spousal agreement.
+A participant or former participant may not make any election or modification of election under section 8417, 8418, or 8433 of title 5 or other section relating to the participant's account in the Thrift Savings Plan or annuity under the basic plan that would diminish the entitlement of a former spouse to any benefit granted to the former spouse by this section or in a current spousal agreement.
 
 #### (d) Transfer of participant from Foreign Service Retirement and Disability System; determination of benefit share
 

@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 90–508, §5, Sept. 21, 1968, 82 Stat. 862, which exempted funds distributed under the provisionsof this subchapter from Federal and State income taxes, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 90–508, §5, Sept. 21, 1968, 82 Stat. 862, which exempted funds distributed under the provisions of this subchapter from Federal and State income taxes, was omitted from the Code as being of special and not general application.
 

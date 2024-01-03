@@ -4,7 +4,7 @@ Any person who embezzles, steals, or unlawfully and willfully abstracts or conve
 
 As used in this section, the term "any employee welfare benefit plan or employee pension benefit plan" means any employee benefit plan subject to any provision of title I of the Employee Retirement Income Security Act of 1974.
 
-(Added Pub. L. 87–420, §17(a), Mar. 20, 1962, 76 Stat. 41; amended Pub. L. 93–406, title I, §112(a)(2)(A), formerly §111(a)(2)(A), Sept. 2, 1974, 88 Stat. 851, renumbered §112(a)(2)(A), Pub. L. 117–328, div. T, title III, §320(a)(1), Dec. 29, 2022,136 Stat. 5354; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 87–420, §17(a), Mar. 20, 1962, 76 Stat. 41; amended Pub. L. 93–406, title I, §112(a)(2)(A), formerly §111(a)(2)(A), Sept. 2, 1974, 88 Stat. 851, renumbered §112(a)(2)(A), Pub. L. 117–328, div. T, title III, §320(a)(1), Dec. 29, 2022, 136 Stat. 5354; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### <b>Editorial Notes</b>
 

@@ -14,7 +14,7 @@ Offenses involving actual or perceived race, color, religion, or national origin
 
 &emsp;&emsp;&emsp;(i) death results from the offense; or
 
-&emsp;&emsp;&emsp;(ii) the offense includes kidnapping or an attempt to kidnap, aggravated sexualabuse or an attempt to commit aggravated sexual abuse, or an attempt to kill.
+&emsp;&emsp;&emsp;(ii) the offense includes kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill.
 
 &emsp;(2)
 

@@ -20,7 +20,7 @@ There are authorized to be appropriated to the American Institute in Taiwan—
 
 #### (b) Private sources
 
-The implementing partner selected to implement the Taiwan Fellowship Program may accept, use, and dispose of gifts or donations ofservices or property in carrying out such program, subject to the review and approval of the American Institute in Taiwan.
+The implementing partner selected to implement the Taiwan Fellowship Program may accept, use, and dispose of gifts or donations of services or property in carrying out such program, subject to the review and approval of the American Institute in Taiwan.
 
 (Pub. L. 117–263, div. E, title LV, §5533, Dec. 23, 2022, 136 Stat. 3332.)
 

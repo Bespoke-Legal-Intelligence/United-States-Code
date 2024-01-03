@@ -20,7 +20,7 @@ An individual eligible to participate in the program is any individual who—
 
 &emsp;&emsp;(A) is an employee of the intelligence community; or
 
-&emsp;&emsp;(B) meets criteria for eligibility for employment in the intelligence communitythat are established by the Director of National Intelligence;
+&emsp;&emsp;(B) meets criteria for eligibility for employment in the intelligence community that are established by the Director of National Intelligence;
 
 &emsp;(2) is accepted in a graduate degree program in a field of study in science or technology identified under subsection (a); and
 

@@ -22,7 +22,7 @@
 
 (1) For purposes of this subchapter, the term "eligible program" means a program of at least—
 
-&emsp;(A) 600 clock hours of instruction, 16 semester hours, or 24 quarter hours, offered during aminimum of 15 weeks, in the case of a program that—
+&emsp;(A) 600 clock hours of instruction, 16 semester hours, or 24 quarter hours, offered during a minimum of 15 weeks, in the case of a program that—
 
 &emsp;&emsp;(i) provides a program of training to prepare students for gainful employment in a recognized profession; and
 
@@ -90,7 +90,7 @@ For purposes of parts B, D, and E of this subchapter:
 
 #### (e) Consumer reporting agency
 
-For purposes of this subchapter, the term "consumer reporting agency" has the meaninggiven the term "consumer reporting agency that compiles and maintains files on consumers on a nationwide basis" in Section <sup>1</sup> 1681a(p) of title 15.
+For purposes of this subchapter, the term "consumer reporting agency" has the meaning given the term "consumer reporting agency that compiles and maintains files on consumers on a nationwide basis" in Section <sup>1</sup> 1681a(p) of title 15.
 
 #### (f) Definition of educational service agency
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 102–26 applicable to any grant, loan, or work assistance 
 
 #### Effective Date of 1990 Amendment
 
-Section 3005(c) of Pub. L. 101–508, which provided that the amendments made by section 3005 (amending this section and section 1091 of this title) were to apply toany grant, loan, or work assistance to cover the cost of instruction for periods of enrollment beginning on or after Jan. 1, 1991, was repealed by section 2(d)(2)(A) of Pub. L. 102–26. See Construction of 1991 Amendment note below.
+Section 3005(c) of Pub. L. 101–508, which provided that the amendments made by section 3005 (amending this section and section 1091 of this title) were to apply to any grant, loan, or work assistance to cover the cost of instruction for periods of enrollment beginning on or after Jan. 1, 1991, was repealed by section 2(d)(2)(A) of Pub. L. 102–26. See Construction of 1991 Amendment note below.
 
 #### Effective Date of 1987 Amendment
 
@@ -240,7 +240,7 @@ Pub. L. 102–26, §2(d)(2)(A), Apr. 9, 1991, 105 Stat. 124, provided that: "Sec
 
 #### Need-Based Aid
 
-Pub. L. 102–325, title XV, §1544, July 23, 1992, 106 Stat. 837, authorized institutions of higher education to voluntarily agree with other such institutions to award financial aid not awarded under this chapter to students attending such institutions only on basis of demonstrated financial need for such aid, and to discuss and adopt principles of professional judgment for determining student financial need for such aid, with exceptions for cases pending on July 23, 1992, and for discussions or agreements on prospective financial aid awards to specific common applicants, and provided that such authorization was to expire on Sept. 30, 1994, prior to repeal by Pub. L. 103–382, title V, §568(e)(2), Oct. 20, 1994, 108 Stat. 4061. See section 568(a)–(d) of Pub. L. 103–382, set out as a note under section 1 of Title 15, Commerce and Trade.
+Pub. L. 102–325, title XV, §1544, July 23, 1992, 106 Stat. 837, authorized institutions of higher education to voluntarily agree with other such institutions to award financial aid not awarded under this chapter to students attending such institutions only on basis of demonstrated financial need for such aid, and to discuss and adopt principles of professional judgment for determining student financial need for such aid, with exceptions for cases pending on July 23, 1992, and for discussions or agreements on prospective financial aid awardsto specific common applicants, and provided that such authorization was to expire on Sept. 30, 1994, prior to repeal by Pub. L. 103–382, title V, §568(e)(2), Oct. 20, 1994, 108 Stat. 4061. See section 568(a)–(d) of Pub. L. 103–382, set out as a note under section 1 of Title 15, Commerce and Trade.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

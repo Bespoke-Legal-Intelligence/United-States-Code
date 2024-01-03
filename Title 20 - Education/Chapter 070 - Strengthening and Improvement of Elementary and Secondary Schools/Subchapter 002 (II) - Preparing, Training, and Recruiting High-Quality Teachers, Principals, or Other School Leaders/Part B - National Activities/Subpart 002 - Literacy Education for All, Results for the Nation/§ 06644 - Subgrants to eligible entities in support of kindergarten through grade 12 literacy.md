@@ -48,7 +48,7 @@ An eligible entity that receives a subgrant under this section shall use the sub
 
 &emsp;(3) Training principals, specialized instructional support personnel, and other local educational agency personnel to support, develop, administer, and evaluate high-quality kindergarten through grade 5 literacy initiatives.
 
-&emsp;(4) Coordinating the involvement of early childhood education program staff, principals, other instructional leaders, teachers, teacher literacy teams, English as a second language specialists (as appropriate), special educators, school personnel, and specialized instructional support personnel (as appropriate) in the literacy development of children served under this subsection.
+&emsp;(4) Coordinating the involvement of early childhood education program staff, principals, other instructional leaders, teachers, teacher literacy teams, English as a second language specialists (as appropriate), special educators, school personnel, and specialized instructionalsupport personnel (as appropriate) in the literacy development of children served under this subsection.
 
 &emsp;(5) Engaging families and encouraging family literacy experiences and practices to support literacy development.
 

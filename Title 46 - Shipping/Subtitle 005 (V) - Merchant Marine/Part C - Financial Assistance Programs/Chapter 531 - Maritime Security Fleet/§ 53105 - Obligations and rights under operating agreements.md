@@ -10,7 +10,7 @@ Operation of Vessel.—An operating agreement under this chapter shall require t
 
 &emsp;&emsp;(B) shall not otherwise be operated in the coastwise trade;
 
-&emsp;(2) in the case of a vessel, other than a replacement vessel under subsection (f), first covered by an operating agreement after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, the vessel shall not be operated in the transportation of cargo between points in the United States and its territories either directly or via a foreign port; and
+&emsp;(2) in the case of a vessel, other than a replacement vessel under subsection (f), firstcovered by an operating agreement after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, the vessel shall not be operated in the transportation of cargo between points in the United States and its territories either directly or via a foreign port; and
 
 &emsp;(3) the vessel shall be documented under chapter 121 of this title.
 

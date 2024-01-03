@@ -60,7 +60,7 @@ If a foreign corporation owns (directly or indirectly) at least 25 percent (by v
 
 #### (B) Exception
 
-&emsp;&emsp;Subparagraph (A) shall not apply if such stock was, with respect to such shareholder, stock in a passive foreign investment company at any time before the qualified portion of the shareholder's holding period with respect to such stock and no election under section 1298(b)(1) is made.
+&emsp;&emsp;Subparagraph (A) shall not apply if such stock was, with respect to such shareholder, stock in a passive foreign investment company at any time before the qualified portion of the shareholder's holding period withrespect to such stock and no election under section 1298(b)(1) is made.
 
 #### (4) Treatment of holders of options
 
@@ -170,7 +170,7 @@ A prior section 1297 was renumbered section 1298 of this title.
 
 #### Amendments
 
-<b>2017</b>—Subsec. (b)(2)(B). Pub. L. 115–97, §14501(a), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: "derived in the active conduct of an insurance business by a corporation which is predominantly engaged in an insurance business and which would be subject to tax under subchapter L if it were a domestic corporation,".
+<b>2017</b>—Subsec. (b)(2)(B). Pub. L. 115–97, §14501(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "derived in the active conduct of an insurance business by a corporation which is predominantly engaged in an insurance business and which would be subject to tax under subchapter L if it were a domestic corporation,".
 
 Subsec. (f). Pub. L. 115–97, §14501(b), added subsec. (f).
 
@@ -236,7 +236,7 @@ Pub. L. 104–188, title I, §1704(r)(2), Aug. 20, 1996, 110 Stat. 1887, provide
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to taxable years of foreign corporations beginning after Sept. 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 13231(e) of Pub. L. 103–66, set out as a note under section 951 of this title.
+Amendment by Pub. L. 103–66 applicable to taxable years of foreign corporations beginning after Sept. 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of foreigncorporations end, see section 13231(e) of Pub. L. 103–66, set out as a note under section 951 of this title.
 
 #### Effective Date of 1988 Amendment
 

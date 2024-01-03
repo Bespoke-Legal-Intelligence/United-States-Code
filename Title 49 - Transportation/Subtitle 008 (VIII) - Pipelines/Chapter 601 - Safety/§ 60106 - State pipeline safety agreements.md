@@ -24,7 +24,7 @@ Determinations required.—The Secretary may not enter into an agreement under t
 
 &emsp;&emsp;(B) the interstate participation agreement would not adversely affect the oversight responsibilities of intrastate pipeline transportation by the State authority;
 
-&emsp;&emsp;(C) the State is carrying out a program demonstrated to promote preparedness and risk prevention activities that enable communities to live safely with pipelines;
+&emsp;&emsp;(C) the State is carrying out a program demonstrated to promote preparedness andrisk prevention activities that enable communities to live safely with pipelines;
 
 &emsp;&emsp;(D) the State meets the minimum standards for State one-call notification set forth in chapter 61; and
 
@@ -172,7 +172,7 @@ Subsec. (c). Pub. L. 107–355, §4(a)(2), (c), redesignated subsec. (b) as (c),
 
 Subsec. (d). Pub. L. 107–355, §4(a)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 107–355, §4(a)(2), (b), redesignated subsec. (d) as (e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Secretary may end an agreementmade under this section when the Secretary finds that the State authority has not complied with any provision of the agreement. The Secretary shall give the authority notice and an opportunity for a hearing before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication."
+Subsec. (e). Pub. L. 107–355, §4(a)(2), (b), redesignated subsec. (d) as (e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Secretary may end an agreement made under this section when the Secretary finds that the State authority has not complied with any provision of the agreement. The Secretary shall give the authority notice and an opportunity for a hearing before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication."
 
 <b>1996</b>—Pub. L. 104–304 substituted "State pipeline safety agreements" for "State agreements" in section catchline.
 

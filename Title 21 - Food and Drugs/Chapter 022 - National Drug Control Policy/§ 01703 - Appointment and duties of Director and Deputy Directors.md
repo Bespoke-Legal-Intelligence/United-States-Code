@@ -120,7 +120,7 @@ The Director—
 
 &emsp;(17) Repealed. Pub. L. 115–271, title VIII, §8221(b)(1)(A), Oct. 24, 2018, 132 Stat. 4142.
 
-&emsp;(18) shall monitor and evaluate the allocation of resources among Federal law enforcement agencies in response to significant local and regional drug trafficking and production threats;
+&emsp;(18) shall monitor and evaluate the allocation of resources among Federal law enforcement agencies in response to significant localand regional drug trafficking and production threats;
 
 &emsp;(19) shall submit an annual report to Congress detailing how the Office of National Drug Control Policy has consulted with and assisted State, local, and tribal governments with respect to the formulation and implementation of the National Drug Control Strategy and other relevant issues;
 
@@ -192,7 +192,7 @@ The Director—
 
 #### (ii) Adequate requests
 
-&emsp;&emsp;&emsp;If the Director concludes that a budget request submitted under paragraph (1) is adequate to implement the objectives of the National Drug Control Strategy with respect to the department, agency, or program at issue for the year for which the request is submitted, the Director shall submit to the head of the applicable National Drug Control Program agency a written statement confirming the adequacy of the request.
+&emsp;&emsp;&emsp;If the Director concludes that a budget request submitted under paragraph (1) is adequate to implement the objectives of the National Drug Control Strategy withrespect to the department, agency, or program at issue for the year for which the request is submitted, the Director shall submit to the head of the applicable National Drug Control Program agency a written statement confirming the adequacy of the request.
 
 #### (iii) Record
 
@@ -270,7 +270,7 @@ The Director—
 
 &emsp;&emsp;The Director shall designate or appoint a United States Performance-Budget Coordinator to—
 
-&emsp;&emsp;&emsp;(i) ensure the Director has sufficient information necessary to analyze the performance of each National Drug Control Program agency, the impact Federal funding has had on the goals in the Strategy, and the likely contributions to the goals of the Strategy based on funding levels of each National Drug Control Program agency, to make an independent assessment of the budget request of each agency under this subsection;
+&emsp;&emsp;&emsp;(i) ensure the Director has sufficient information necessary to analyze the performance of each National Drug ControlProgram agency, the impact Federal funding has had on the goals in the Strategy, and the likely contributions to the goals of the Strategy based on funding levels of each National Drug Control Program agency, to make an independent assessment of the budget request of each agency under this subsection;
 
 &emsp;&emsp;&emsp;(ii) advise the Director on agency budgets, performance measures and targets, and additional data and research needed to make informed policy decisions under this section and section 1705 of this title; and
 

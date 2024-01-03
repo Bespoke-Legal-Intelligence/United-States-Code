@@ -56,7 +56,7 @@ No tax shall be imposed by section 4051 on any of the following articles:
 
 &emsp;Any vehicle which consists of a chassis—
 
-&emsp;&emsp;(A) to which there has been permanently mounted (by welding, bolting, riveting, or other means) machinery or equipment to perform a construction, manufacturing, processing, farming, mining, drilling, timbering, or similar operation if the operation of the machinery or equipment is unrelated to transportation on or off the public highways,
+&emsp;&emsp;(A) to which there has been permanently mounted (by welding, bolting, riveting, orother means) machinery or equipment to perform a construction, manufacturing, processing, farming, mining, drilling, timbering, or similar operation if the operation of the machinery or equipment is unrelated to transportation on or off the public highways,
 
 &emsp;&emsp;(B) which has been specially designed to serve only as a mobile carriage and mount (and a power source, where applicable) for the particular machinery or equipment involved, whether or not such machinery or equipment is in operation, and
 

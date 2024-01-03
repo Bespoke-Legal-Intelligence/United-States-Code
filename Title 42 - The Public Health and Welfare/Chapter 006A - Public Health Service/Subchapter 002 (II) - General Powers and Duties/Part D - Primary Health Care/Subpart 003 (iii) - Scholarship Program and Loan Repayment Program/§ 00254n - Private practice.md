@@ -6,7 +6,7 @@ The Secretary shall, to the extent permitted by, and consistent with, the requir
 
 &emsp;(1) in the case of an individual who received a scholarship under the Scholarship Program or a loan repayment under the Loan Repayment Program and who is performing obligated service as a member of the Corps in a health professional shortage area on the date of his application for such a release, in the health professional shortage area in which such individual is serving on such date or in the case of an individual for whom a loan payment was made under the Loan Repayment Program and who is performing obligated service as a member of the Corps in a health professional shortage area on the date of the application of the individual for such a release, in the health professional shortage area selected by the Secretary; or
 
-&emsp;(2) in the case of any other individual, in a health professional shortage area (designated under section 254e of this title) selected by the Secretary.
+&emsp;(2) in the case of any other individual, in a health professional shortage area (designatedunder section 254e of this title) selected by the Secretary.
 
 #### (b) Written agreement; actions to ensure compliance
 
@@ -42,7 +42,7 @@ The Secretary may, out of appropriations authorized under section 254k of this t
 
 &emsp;(D) $2,500 in the fourth year of obligated service; or
 
-&emsp;(2) an amount determined by subtracting such individual's net income before taxes fromthe income the individual would have received as a member of the Corps for each such year of obligated service.
+&emsp;(2) an amount determined by subtracting such individual's net income before taxes from the income the individual would have received as a member of the Corps for each such year of obligated service.
 
 #### (g) Technical assistance
 

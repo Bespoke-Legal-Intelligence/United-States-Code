@@ -28,7 +28,7 @@ The notice required by subsection (a) shall be sent—
 
 #### (1) In general
 
-&emsp;Within 30 days after receipt of the notice specified in subsection (a), each prospective defendant shall send by certified mail with return receipt requested to each prospective plaintiff a written statement acknowledging receipt of the notice, and describing the actions it has taken or will take to address the problem identified by the prospective plaintiff.
+&emsp;Within 30 days after receipt of the notice specified in subsection (a), each prospectivedefendant shall send by certified mail with return receipt requested to each prospective plaintiff a written statement acknowledging receipt of the notice, and describing the actions it has taken or will take to address the problem identified by the prospective plaintiff.
 
 #### (2) Willingness to engage in ADR
 
@@ -60,7 +60,7 @@ If a prospective defendant—
 
 #### (1) In general
 
-&emsp;If the prospective defendant responds and proposes remedial action it will take, or offersto engage in alternative dispute resolution, then the prospective plaintiff shall allow the prospective defendant an additional 60 days from the end of the 30-day notice period to complete the proposed remedial action or alternative dispute resolution before commencing a legal action against that prospective defendant.
+&emsp;If the prospective defendant responds and proposes remedial action it will take, or offers to engage in alternative dispute resolution, then the prospective plaintiff shall allow the prospective defendant an additional 60 days from the end of the 30-day notice period to complete the proposed remedial action or alternative dispute resolution before commencing a legal action against that prospective defendant.
 
 #### (2) Extension by agreement
 

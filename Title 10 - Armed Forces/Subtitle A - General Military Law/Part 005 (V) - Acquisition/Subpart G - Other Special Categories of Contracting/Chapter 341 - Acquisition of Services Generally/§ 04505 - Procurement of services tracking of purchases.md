@@ -150,7 +150,7 @@ Staff augmentation contracts.—The term "staff augmentation contracts" means se
 
 &emsp;(7)
 
-Simplified acquisition threshold.—The term "simplified acquisition threshold" has the meaning given the term in section 134 of title 41.
+Simplified acquisition threshold.—The term "simplified acquisition threshold" hasthe meaning given the term in section 134 of title 41.
 
 &emsp;(8)
 
@@ -160,7 +160,7 @@ Small business act definitions.—
 
 &emsp;&emsp;(B) The terms "small business concern owned and controlled by socially and economically disadvantaged individuals" and "small business concern owned and controlled by women" have the meanings given such terms, respectively, in section 8(d)(3) of the Small Business Act (15 U.S.C. 637(d)(3)).
 
-(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176, §2330a; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, §321, Jan. 7, 2011, 124 Stat. 4183; Pub. L. 112–81, div. A, title IX, §936, Dec. 31, 2011, 125 Stat. 1545; Pub. L. 113–66, div. A, title IX, §951(a), Dec. 26, 2013, 127 Stat. 839; Pub. L. 114–328, div. A, title VIII, §§812, 833(b)(2)(C)(ii), Dec. 23, 2016, 130 Stat. 2269, 2284; Pub. L. 115–91, div. A, title X, §1081(a)(30), (d)(6)(A), Dec. 12, 2017, 131 Stat. 1595, 1600; Pub. L. 115–232, div. A,title VIII, §819, Aug. 13, 2018, 132 Stat. 1853; renumbered §4505 and amended Pub. L. 116–283, div. A, title XVIII, §§1856(g), (h), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4275, 4294; Pub. L. 117–81, div. A, title XVII, §1701(b)(19)(B), (d)(13), Dec. 27, 2021, 135 Stat. 2135, 2137.)
+(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176, §2330a; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, §321, Jan. 7, 2011, 124 Stat. 4183; Pub. L. 112–81, div. A, title IX, §936, Dec. 31, 2011, 125 Stat. 1545; Pub. L. 113–66, div. A, title IX, §951(a), Dec. 26, 2013, 127 Stat. 839; Pub. L. 114–328, div. A, title VIII, §§812, 833(b)(2)(C)(ii), Dec. 23, 2016, 130 Stat. 2269, 2284; Pub. L. 115–91, div. A, title X, §1081(a)(30), (d)(6)(A), Dec. 12, 2017, 131 Stat. 1595, 1600; Pub. L. 115–232, div. A, title VIII, §819, Aug. 13, 2018, 132 Stat. 1853; renumbered §4505 and amended Pub. L. 116–283, div. A, title XVIII, §§1856(g), (h), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4275, 4294; Pub. L. 117–81, div. A, title XVII, §1701(b)(19)(B), (d)(13), Dec. 27, 2021, 135 Stat. 2135, 2137.)
 
 #### <b>Editorial Notes</b>
 
@@ -232,7 +232,7 @@ Subsec. (f). Pub. L. 114–328, §812(f), added subsec. (f). Former subsec. (f) 
 
 Subsecs. (g), (h). Pub. L. 114–328, §812(d), redesignated subsecs. (i) and (j) as (g) and (h), respectively, and struck out former subsecs. (g) and (h) which related to Inspector General reports and Comptroller General reports, respectively.
 
-Subsec. (h)(2). Pub. L. 114–328, §833(b)(2)(C)(ii)(I), (II), as amended by Pub. L. 115–91, §1081(d)(6)(A), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, par. (2) read as follows: "The definitions set forth in section 2225(f) of this title for the terms 'simplified acquisition threshold', 'small business concern', 'small business concern owned and controlled by socially and economically disadvantaged individuals', and 'small business concern owned and controlled by women' shall apply."
+Subsec. (h)(2). Pub. L. 114–328, §833(b)(2)(C)(ii)(I), (II), as amended by Pub. L. 115–91, §1081(d)(6)(A), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, par. (2) read as follows: "The definitions set forth in section 2225(f) of this title for the terms 'simplified acquisition threshold', 'small business concern', 'small business concern owned and controlled bysocially and economically disadvantaged individuals', and 'small business concern owned and controlled by women' shall apply."
 
 Subsec. (h)(3), (4). Pub. L. 114–328, §833(b)(2)(C)(ii)(II), as amended by Pub. L. 115–91, §1081(d)(6)(A), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
@@ -248,7 +248,7 @@ Subsecs. (i), (j). Pub. L. 114–328, §812(d)(2), redesignated subsecs. (i) and
 
 <b>2013</b>—Subsecs. (g) to (j). Pub. L. 113–66 added subsecs. (g) and (h) and redesignated former subsecs. (g) and (h) as (i) and (j), respectively.
 
-<b>2011</b>—Subsec. (c). Pub. L. 111–383, §321(2) to (4), substituted "The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:" for "The entry for an activity on an inventory under this subsection shall include, for the fiscal yearcovered by such entry, the following:" in par. (1), added new subpars. (A) and (B) to par. (1), inserted par. (2) designation and introductory provisions before former subpars. (A) to (G) of par. (1) thereby making them part of par. (2), added subpar. (E), and struck out former subpar. (E) which read as follows: "The number of full-time contractor employees (or its equivalent) paid for the performance of the activity."
+<b>2011</b>—Subsec. (c). Pub. L. 111–383, §321(2) to (4), substituted "The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:" for "The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:" in par. (1), added new subpars. (A) and (B) to par. (1), inserted par. (2) designation and introductory provisions before former subpars. (A) to (G) of par. (1) thereby making them part of par. (2), added subpar. (E), and struck out former subpar. (E) which read as follows: "The number of full-time contractor employees (or its equivalent) paid for the performance of the activity."
 
 Subsec. (c)(1). Pub. L. 112–81, §936(a)(1), inserted "(and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract)" after "pursuant to contracts for services" in introductory provisions.
 

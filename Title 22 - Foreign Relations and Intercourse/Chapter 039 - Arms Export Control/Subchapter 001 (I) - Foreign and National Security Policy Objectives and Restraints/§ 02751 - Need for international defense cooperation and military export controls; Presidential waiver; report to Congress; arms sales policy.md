@@ -6,7 +6,7 @@ The Congress recognizes, however, that the United States and other free and inde
 
 Accordingly, it remains the policy of the United States to facilitate the common defense by entering into international arrangements with friendly countries which further the objective of applying agreed resources of each country to programs and projects of cooperative exchange of data, research, development, production, procurement, and logistics support to achieve specific national defense requirements and objectives of mutual concern. To this end, this chapter authorizes sales by the United States Government to friendly countries having sufficient wealth to maintain and equip their own military forces at adequate strength, or to assume progressively larger shares of the costs thereof, without undue burden to their economies, in accordance with the restraints and control measures specified herein and in furtherance of the security objectives of the United States and of the purposes and principles of the United Nations Charter.
 
-It is the sense of the Congress that all such sales be approved only when they are consistent with the foreign policy interests of the United States, the purposes of the foreign assistance program of the United States as embodied in the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2151 et seq.\], the extent and character of the military requirement, and the economic and financial capability of the recipient country,with particular regard being given, where appropriate, to proper balance among such sales, grant military assistance, and economic assistance as well as to the impact of the sales on programs of social and economic development and on existing or incipient arms races.
+It is the sense of the Congress that all such sales be approved only when they are consistent with the foreign policy interests of the United States, the purposes of the foreign assistance program of the United States as embodied in the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2151 et seq.\], the extent and character of the military requirement, and the economic and financial capability of the recipient country, with particular regard being given, where appropriate, to proper balance among such sales, grant military assistance, and economic assistance as well as to the impact of the sales on programs of social and economic development and on existing or incipient arms races.
 
 It shall be the policy of the United States to exert leadership in the world community to bring about arrangements for reducing the international trade in implements of war and to lessen the danger of outbreak of regional conflict and the burdens of armaments. United States programs for or procedures governing the export, sale, and grant of defense articles and defense services to foreign countries and international organizations shall be administered in a manner which will carry out this policy.
 
@@ -36,7 +36,7 @@ The Foreign Assistance Act of 1961, as amended, referred to in text, is Pub. L. 
 
 #### Amendments
 
-<b>1981</b>—Pub. L. 97–113 struck out paragraph which provided that it was the sense of Congress that sales and guaranties under sections 2761, 2762, 2763, and 2764 of this title not be approved where they would have had the effect of arming military dictators who were denying the growth of fundamental rights or social progress to their own people but allowing the President to waive this limitation when he determined it would be important to the security of the United States, and promptly so reported to the Speaker of the House of Representatives and the Committee on Foreign Relations in the Senate.
+<b>1981</b>—Pub. L. 97–113 struck out paragraph which provided that it was the sense of Congress that sales and guaranties under sections 2761, 2762, 2763, and 2764 of this title not be approved where they would have had the effect of arming military dictators who were denying the growth of fundamental rights or social progressto their own people but allowing the President to waive this limitation when he determined it would be important to the security of the United States, and promptly so reported to the Speaker of the House of Representatives and the Committee on Foreign Relations in the Senate.
 
 <b>1978</b>—Pub. L. 95–384, §15(a), inserted paragraph relating to adherence to a policy of restraint in conventional arms transfer.
 
@@ -54,7 +54,7 @@ Pub. L. 94–329, title II, §201(b), June 30, 1976, 90 Stat. 734, provided that
 
 #### References to Present Instead of Past Provisions; Specific Application of Other Provisions to This Chapter
 
-Pub. L. 90–629, ch. 4, §45(c), Oct. 22, 1968, 82 Stat. 1327, provided that: "References in law to the provisions of law repealed by subsection (a) of this section \[repealing sections 2341 to 2343, 2344(b)(3), 2345, 2394(g), and 2399a of this title\] shall hereafter \[on and after Oct. 22, 1968\] be deemed to be references to this Act \[this chapter\] or appropriate provisions of this Act. Except for the laws specified in section 44 \[section 2793 of this title\], no other provision of law shall be deemed to apply to thisAct unless it refers specifically to this Act or refers generally to sales of defense articles and defense services under any Act."
+Pub. L. 90–629, ch. 4, §45(c), Oct. 22, 1968, 82 Stat. 1327, provided that: "References in law to the provisions of law repealed by subsection (a) of this section \[repealing sections 2341 to 2343, 2344(b)(3), 2345, 2394(g), and 2399a of this title\] shall hereafter \[on and after Oct. 22, 1968\] be deemed to be references to this Act \[this chapter\] or appropriate provisions of this Act. Except for the laws specified in section 44 \[section 2793 of this title\], no other provision of law shall be deemed to apply to this Act unless it refers specifically to this Act or refers generally to sales of defense articles and defense services under any Act."
 
 #### Effective Date
 
@@ -148,7 +148,7 @@ In general.—The Secretary of Defense and Secretary of State should jointly tak
 
 &emsp;&emsp;"(D) strengthen the effectiveness of the U.S.-India Defense Trade and Technology Initiative and the durability of the Department of Defense's 'India Rapid Reaction Cell';
 
-&emsp;&emsp;"(E) collaborate with the Government of India to develop mutually agreeable mechanisms to verify the security of defense articles, defense services,and related technology, such as appropriate cyber security and end use monitoring arrangements, consistent with United States export control laws and policy, and to advance the Communications Interoperability and Security Memorandum of Agreement and The Basic Exchange and Cooperation Agreement for Geospatial Cooperation;
+&emsp;&emsp;"(E) collaborate with the Government of India to develop mutually agreeable mechanisms to verify the security of defense articles, defense services, and related technology, such as appropriate cyber security and end use monitoring arrangements, consistent with United States export control laws and policy, and to advance the Communications Interoperability and Security Memorandum of Agreement and The Basic Exchange and Cooperation Agreement for Geospatial Cooperation;
 
 &emsp;&emsp;"(F) promote policies that will encourage the efficient review and authorization of defense sales and exports to India;
 
@@ -342,7 +342,7 @@ Requirement to Implement Control System.—No defense articles may be provided t
 
 Registration and Monitoring System.—The registration and monitoring system required under this subsection shall include—
 
-&emsp;"(1) the registration of the serial numbers of all small arms to be provided to the Government of Iraq or to other groups, organizations, citizens, or residents of Iraq;
+&emsp;"(1) the registration of the serial numbers of all small arms to be provided to the Government of Iraqor to other groups, organizations, citizens, or residents of Iraq;
 
 &emsp;"(2) a program of end-use monitoring of all lethal defense articles provided to such entities or individuals; and
 
@@ -520,7 +520,7 @@ Airworthiness Certification of Missile Defense Systems for Commercial Aircraft.�
 
 &emsp;"(1)
 
-In general.—As soon as practicable, but not later than the date of completion of Phase II of the Department of Homeland Security's counter-man-portable air defense system (MANPADS) development and demonstration program, the Administrator of theFederal Aviation Administration shall establish a process for conducting airworthiness and safety certification of missile defense systems for commercial aircraft certified as effective and functional by the Department of Homeland Security. The process shall require a certification by the Administrator that such systems can be safely integrated into aircraft systems and ensure airworthiness and aircraft system integrity.
+In general.—As soon as practicable, but not later than the date of completion of Phase II of the Department of Homeland Security's counter-man-portable air defense system (MANPADS) development and demonstration program, the Administrator of the Federal Aviation Administration shall establish a process for conducting airworthiness and safety certification of missile defense systems for commercial aircraft certified as effective and functional by the Department of Homeland Security. The process shall require a certification by the Administrator that such systems can be safely integrated into aircraft systems and ensure airworthiness and aircraft system integrity.
 
 &emsp;"(2)
 
@@ -688,7 +688,7 @@ Termination of waiver.—The President may, at any time, terminate any waiver gr
 
 Definitions.—As used in this section—
 
-&emsp;"(1) the term 'appropriate congressional committees' means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives; and
+&emsp;"(1) the term 'appropriate congressional committees' means the Committee on Foreign Relations ofthe Senate and the Committee on Foreign Affairs of the House of Representatives; and
 
 "(2) the terms 'defense article' and 'defense service' have the meanings given to such terms by paragraphs (3) and (4), respectively, of section 47 of the Arms Export Control Act \[22 U.S.C. 2794(3), (4)\].
 
@@ -796,7 +796,7 @@ Duties.—The committee shall—
 
 &emsp;"(4) formulate near-term, mid-term, and long-term programmatic options for meeting requirements established by the committee and eliminating deficiencies identified by the committee; and
 
-&emsp;"(5) assess each fiscal year the effectiveness of the committee actions during the preceding fiscal year, including, particularly, the status of recommendations made during such preceding fiscal year that were reflected in the budget submitted to Congress pursuant to section 1105(a) of title 31, United States Code, for the fiscal year following the fiscal year in which the assessment is made.
+&emsp;"(5) assess each fiscal year the effectiveness of the committee actions during the preceding fiscal year, including, particularly, the status of recommendations made during such preceding fiscal year thatwere reflected in the budget submitted to Congress pursuant to section 1105(a) of title 31, United States Code, for the fiscal year following the fiscal year in which the assessment is made.
 
 "(d)
 
@@ -862,7 +862,7 @@ Pub. L. 95–384, §25, Sept. 26, 1978, 92 Stat. 746, directed President, within
 
 #### Report by President on Impact of Foreign Arms Sales and Transfers to Foreign Governments on Defense Readiness and National Security of United States
 
-Pub. L. 95–92, §23, Aug. 4, 1977, 91 Stat. 624, set forth provisions respecting Presidential report on impact of United States foreign arms sales and transfers on defense readiness and national security, prior to repeal by Pub. L. 95–384, §29(c)(2)(B), Sept. 26, 1978, 92 Stat. 747.
+Pub. L. 95–92, §23, Aug. 4, 1977, 91 Stat. 624, set forth provisions respecting Presidential report on impact ofUnited States foreign arms sales and transfers on defense readiness and national security, prior to repeal by Pub. L. 95–384, §29(c)(2)(B), Sept. 26, 1978, 92 Stat. 747.
 
 #### Study by President of National Security and Military Implications of International Transfers of Technology; Scope of Study; Utilization of Executive Departments and Agencies
 
@@ -922,7 +922,7 @@ Ex. Ord. No. 11501, Dec. 22, 1969, 34 F.R. 20169, as amended by Ex. Ord. No. 116
 
 #### Executive Order No. 11958
 
-Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, §7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No. 13030, §2, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §1, June 29, 1998, 63 F.R. 36153; Ex. Ord. No. 13118, §10(8), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, §13, Jan. 23, 2003, 68 F.R. 4076, which related to the administration of arms export controls, was revoked by Ex. Ord. No. 13637, §4, Mar. 8, 2013, 78 F.R. 16131, set out below.
+Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, §7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No.13030, §2, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §1, June 29, 1998, 63 F.R. 36153; Ex. Ord. No. 13118, §10(8), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, §13, Jan. 23, 2003, 68 F.R. 4076, which related to the administration of arms export controls, was revoked by Ex. Ord. No. 13637, §4, Mar. 8, 2013, 78 F.R. 16131, set out below.
 
 #### Ex. Ord. No. 13637. Administration of Reformed Export Controls
 

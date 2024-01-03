@@ -8,7 +8,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 #### (1) In general
 
-&emsp;In the case of an employee who is an eligible individual, amounts contributed by such employee's employer to any Archer MSA of such employee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent suchamounts do not exceed the limitation under section 220(b)(1) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
+&emsp;In the case of an employee who is an eligible individual, amounts contributed by such employee's employer to any Archer MSA of such employee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent such amounts do not exceed the limitation under section 220(b)(1) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
 
 #### (2) No constructive receipt
 
@@ -86,7 +86,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 &emsp;&emsp;If, at any time during the testing period, the employee is not an eligible individual, then the amount of the qualified HSA distribution—
 
-&emsp;&emsp;&emsp;(i) shall be includible in the gross income of the employee for the taxable year in which occurs the first month in the testing period for which such employee is not an eligible individual, and
+&emsp;&emsp;&emsp;(i) shall be includible in the gross income of the employee for the taxable year inwhich occurs the first month in the testing period for which such employee is not an eligible individual, and
 
 &emsp;&emsp;&emsp;(ii) the tax imposed by this chapter for such taxable year on the employee shall be increased by 10 percent of the amount which is so includible.
 
@@ -172,7 +172,7 @@ Subsec. (b)(6). Pub. L. 106–554 §1(a)(7) \[title II, §202(a)(2)\], substitut
 
 Subsec. (b)(7). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(2)(A)\], substituted "Archer MSAs" for "medical savings accounts".
 
-<b>1996</b>—Pub. L. 104–191, §301(c)(1), amended text generally. Prior to amendment, text read as follows: "Gross income of an employee does not include employer-provided coverage under an accident or health plan."
+<b>1996</b>—Pub. L. 104–191, §301(c)(1), amended text generally. Prior to amendment, text read as follows:"Gross income of an employee does not include employer-provided coverage under an accident or health plan."
 
 Subsec. (c). Pub. L. 104–191, §321(c)(2), added subsec. (c).
 
@@ -264,5 +264,5 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

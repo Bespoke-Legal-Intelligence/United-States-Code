@@ -256,7 +256,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (10) Property acquired in like-kind exchange
 
-&emsp;If a taxpayer acquires property in an exchange with respect to which gain is not recognized (in whole or in part) to the taxpayer under subsection (a) or (b) of section 1031, subsection (a) shall not apply to the sale or exchange of such property by such taxpayer (or by any person whose basis in such property is determined, in whole or in part, by reference to the basis in the hands of such taxpayer) during the 5-year period beginning with the date of such acquisition.
+&emsp;If a taxpayer acquires property in an exchange with respect to which gain is not recognized (in whole or in part) to the taxpayer under subsection (a) or (b) of section 1031, subsection (a) shall not apply to the sale or exchange of such property by such taxpayer (or by any person whose basis in such property isdetermined, in whole or in part, by reference to the basis in the hands of such taxpayer) during the 5-year period beginning with the date of such acquisition.
 
 #### \[(11) Repealed. Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300\]
 
@@ -422,7 +422,7 @@ Subsecs. (c), (d)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his del
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
+Amendment by Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in formersection 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
 
 #### Effective Date of 2014 Amendment
 

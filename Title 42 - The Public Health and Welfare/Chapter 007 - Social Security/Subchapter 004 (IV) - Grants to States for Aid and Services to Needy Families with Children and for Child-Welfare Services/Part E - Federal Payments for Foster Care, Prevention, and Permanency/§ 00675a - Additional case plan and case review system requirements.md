@@ -6,7 +6,7 @@ In the case of any child for whom another planned permanent living arrangement i
 
 #### (1) Documentation of intensive, ongoing, unsuccessful efforts for family placement
 
-&emsp;At each permanency hearing held with respect to the child, the State agency documents the intensive, ongoing, and, as of the date of the hearing, unsuccessful efforts madeby the State agency to return the child home or secure a placement for the child with a fit and willing relative (including adult siblings), a legal guardian, or an adoptive parent, including through efforts that utilize search technology (including social media) to find biological family members for the children.
+&emsp;At each permanency hearing held with respect to the child, the State agency documents the intensive, ongoing, and, as of the date of the hearing, unsuccessful efforts made by the State agency to return the child home or secure a placement for the child with a fit and willing relative (including adult siblings), a legal guardian, or an adoptive parent, including through efforts that utilize search technology (including social media) to find biological family members for the children.
 
 #### (2) Redetermination of appropriateness of placement at each permanency hearing
 
@@ -74,7 +74,7 @@ In the case of any child who is placed in a qualified residential treatment prog
 
 &emsp;(C) In the case of a child who the qualified individual conducting the assessment under subparagraph (A) determines should not be placed in a foster family home, the qualified individual shall specify in writing the reasons why the needs of the child cannot be met by the family of the child or in a foster family home. A shortage or lack of foster family homes shall not be an acceptable reason for determining that the needs of the child cannot be met in a foster family home. The qualified individual also shall specify in writing why the recommended placement in a qualified residential treatment program is the setting that will provide the child with the most effective and appropriate level of care in the least restrictive environment and how that placement is consistent with the short- and long-term goals for the child, as specified in the permanency plan for the child.
 
-&emsp;(D)(i) Subject to clause (ii), in this subsection, the term "qualified individual" means a trained professional or licensed clinician who is not an employee of the State agency and who is not connected to, or affiliated with, any placement setting in which children are placed by the State.
+&emsp;(D)(i) Subject to clause (ii), in this subsection, the term "qualified individual" meansa trained professional or licensed clinician who is not an employee of the State agency and who is not connected to, or affiliated with, any placement setting in which children are placed by the State.
 
 &emsp;(ii) The Secretary may approve a request of a State to waive any requirement in clause (i) upon a submission by the State, in accordance with criteria established by the Secretary, that certifies that the trained professionals or licensed clinicians with responsibility for performing the assessments described in subparagraph (A) shall maintain objectivity with respect to determining the most effective and appropriate placement for a child.
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 115–123 effective Oct. 1, 2019, with State option to dela
 
 #### Effective Date of 2014 Amendment
 
-Amendment by section 113(d) of Pub. L. 113–183 effective on the date that is 1 year after Sept. 29, 2014, withdelay permitted if State legislation is required, see section 113(f) of Pub. L. 113–183, set out as a note under section 675 of this title.
+Amendment by section 113(d) of Pub. L. 113–183 effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, see section 113(f) of Pub. L. 113–183, set out as a note under section 675 of this title.
 
 #### Effective Date
 

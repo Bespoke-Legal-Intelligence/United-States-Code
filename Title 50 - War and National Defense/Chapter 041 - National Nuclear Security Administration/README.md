@@ -15,6 +15,7 @@
 | [2409\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Organization/%C2%A7%2002409%20-%20Scope%20of%20authority%20of%20Secretary%20of%20Energy%20to%20modify%20organization%20of%20Administration.md) | Scope of authority of Secretary of Energy to modify organization of Administration. |
 | [2410\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Organization/%C2%A7%2002410%20-%20Status%20of%20Administration%20and%20contractor%20personnel%20within%20Department%20of%20Energy.md) | Status of Administration and contractor personnel within Department of Energy. |
 | [2411\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Organization/%C2%A7%2002411%20-%20Director%20for%20Cost%20Estimating%20and%20Program%20Evaluation.md) | Director for Cost Estimating and Program Evaluation. |
+| [2412\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Organization/%C2%A7%2002412%20-%20Cybersecurity%20Risk%20Inventory%2C%20Assessment%2C%20and%20Mitigation%20Working%20Group.md) | Cybersecurity Risk Inventory, Assessment, and Mitigation Working Group. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

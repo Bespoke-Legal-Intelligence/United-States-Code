@@ -30,7 +30,7 @@ Use of rent.—Notwithstanding section 571(a) of this title, the Administrator m
 
 (c)
 
-Amounts for Rent Available for Lease of Buildings on Government Land.—Amounts made available to the General Services Administration for the payment of rent may be used to lease space, for a period of not more than 30years, in buildings erected on land owned by the Government.
+Amounts for Rent Available for Lease of Buildings on Government Land.—Amounts made available to the General Services Administration for the payment of rent may be used to lease space, for a period of not more than 30 years, in buildings erected on land owned by the Government.
 
 (d) Any bargain-price option to purchase at less than fair market value contained in any lease agreement entered into on or after January 1, 2021, pursuant to this section may be exercised only to the extent specifically provided for in subsequent appropriation Acts or other Acts of Congress.
 
@@ -96,7 +96,7 @@ Findings.—Congress finds that—
 
 &emsp;"(1) the Government Accountability Office has reported that the Federal Government often leases high-security space from private sector landlords;
 
-&emsp;"(2) the General Services Administration collects highest-level and immediate ownership information through the System for Award Management, but it is not currently required to collect beneficial ownership information and lacks an adequate system for doing so;
+&emsp;"(2) the General Services Administration collects highest-level and immediate ownership informationthrough the System for Award Management, but it is not currently required to collect beneficial ownership information and lacks an adequate system for doing so;
 
 &emsp;"(3) the General Services Administration and Federal agencies with leasing authority may not know if foreign owners have a stake in the buildings leased by the agencies, either through foreign-incorporated legal entities or through ownership in United States-incorporated legal entities, even when the leased space is used for classified operations or to store sensitive data; and
 
@@ -300,7 +300,7 @@ Report and Implementation.—The General Services Administration shall—
 
 #### "SEC. 6. AGENCY NOTIFICATIONS.
 
-"Not later than 60 days after the date of enactment of this Act \[Dec. 31, 2020\], the Administrator of GeneralServices, in consultation with the Office of Management and Budget, shall provide notification to relevant Executive branch agencies with independent leasing authorities of the requirements of this Act.
+"Not later than 60 days after the date of enactment of this Act \[Dec. 31, 2020\], the Administrator of General Services, in consultation with the Office of Management and Budget, shall provide notification to relevant Executive branch agencies with independent leasing authorities of the requirements of this Act.
 
 #### "SEC. 7. APPLICABILITY.
 

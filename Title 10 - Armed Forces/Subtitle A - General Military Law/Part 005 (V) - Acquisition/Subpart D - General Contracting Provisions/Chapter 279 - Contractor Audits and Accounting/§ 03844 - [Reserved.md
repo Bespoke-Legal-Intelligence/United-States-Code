@@ -6,7 +6,7 @@
 
 #### Prior Provisions
 
-A prior section 3844, added Pub. L. 85–861, §1(94), Sept. 2, 1958, 72 Stat. 1484; amended Pub. L. 86–559, §1(24), June 30, 1960, 74 Stat. 271, related to transfer or discharge of certain reserve major generals and brigadier generals who are 62 years old, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1629(a)(3), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996. See section 14511 of this title.
+A prior section 3844, added Pub. L. 85–861, §1(94), Sept. 2, 1958, 72 Stat. 1484; amended Pub. L. 86–559, §1(24),June 30, 1960, 74 Stat. 271, related to transfer or discharge of certain reserve major generals and brigadier generals who are 62 years old, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1629(a)(3), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996. See section 14511 of this title.
 
 #### Amendments
 

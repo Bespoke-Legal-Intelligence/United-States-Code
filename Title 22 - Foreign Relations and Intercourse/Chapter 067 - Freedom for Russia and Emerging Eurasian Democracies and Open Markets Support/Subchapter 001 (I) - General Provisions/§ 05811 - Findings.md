@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;&emsp;(B) reciprocal commitments by the governments of the independent states to work toward the creation of democratic institutions and an environment hospitable to foreign investment based upon the rule of law, including negotiation of bilateral and multilateral agreements on open trade and investment, adoption of commercial codes, establishment of transparency in regulatory and other governmental decision making, and timely payment of obligations carried over from previous governmental entities; and
 
-&emsp;(7) trade and investment opportunities in the independent states of the former SovietUnion will generate employment and other economic benefits for the United States as the economies of the independent states of the former Soviet Union begin to realize their enormous potential as both customers and suppliers.
+&emsp;(7) trade and investment opportunities in the independent states of the former Soviet Union will generate employment and other economic benefits for the United States as the economies of the independent states of the former Soviet Union begin to realize their enormous potential as both customers and suppliers.
 
 (Pub. L. 102–511, title I, §101, Oct. 24, 1992, 106 Stat. 3321.)
 
@@ -74,7 +74,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(13) The second trial, verdict, and sentence against former Yukos executives Mikhail Khodorkovsky and Platon Lebedev evoke serious concerns about the right to a fair trial and the independence of the judiciary in the Russian Federation. The lack of credible charges, intimidation of witnesses, violations of due process and procedural norms, falsification or withholding of documents, denial of attorney-client privilege, and illegal detention in the Yukos case are highly troubling. The Council of Europe, Freedom House, and Amnesty International, among others, have concluded that they were charged and imprisoned in a process that did not follow the rule of law and was politically influenced. Furthermore, senior officials of the Government of the Russian Federation, including First Deputy Prime Minister Igor Shuvalov, have acknowledged that the arrest and imprisonment of Khodorkovsky were politically motivated.
 
-&emsp;"(14) According to Freedom House's 2011 report entitled 'The Perpetual Battle: Corruption in the Former Soviet Union and the New EU Members', '\[t\]he highly publicized cases of Sergei Magnitsky, a 37-year-old lawyer who died in pretrial detention in November 2009 after exposing a multimillion-dollar fraud against the Russian taxpayer, and Mikhail Khodorkovsky, the jailed business magnate and regime critic who was sentenced at the end of 2010 to remain in prison through 2017, put an international spotlight on the Russian state's contempt for the rule of law \* \* \*. By silencing influential and accomplished figures such as Khodorkovsky and Magnitsky, the Russian authorities have made it abundantly clear that anyone in Russia can be silenced.'.
+&emsp;"(14) According to Freedom House's 2011 report entitled 'The Perpetual Battle: Corruption in the Former Soviet Union and the New EU Members', '\[t\]he highly publicized cases of Sergei Magnitsky, a 37-year-old lawyer who died in pretrial detention in November 2009 after exposing a multimillion-dollar fraud against the Russian taxpayer, and Mikhail Khodorkovsky, the jailed business magnate and regime critic who was sentenced at the end of 2010 to remain in prison through 2017, put an internationalspotlight on the Russian state's contempt for the rule of law \* \* \*. By silencing influential and accomplished figures such as Khodorkovsky and Magnitsky, the Russian authorities have made it abundantly clear that anyone in Russia can be silenced.'.
 
 &emsp;"(15) The tragic and unresolved murders of Nustap Abdurakhmanov, Maksharip Aushev, Natalya Estemirova, Akhmed Hadjimagomedov, Umar Israilov, Paul Klebnikov, Anna Politkovskaya, Saihadji Saihadjiev, and Magomed Y. Yevloyev, the death in custody of Vera Trifonova, the disappearances of Mokhmadsalakh Masaev and Said-Saleh Ibragimov, the torture of Ali Israilov and Islam Umarpashaev, the near-fatal beatings of Mikhail Beketov, Oleg Kashin, Arkadiy Lander, and Mikhail Vinyukov, and the harsh and ongoing imprisonment of Mikhail Khodorkovsky, Alexei Kozlov, Platon Lebedev, and Fyodor Mikheev further illustrate the grave danger of exposing the wrongdoing of officials of the Government of the Russian Federation, including Chechen leader Ramzan Kadyrov, or of seeking to obtain, exercise, defend, or promote internationally recognized human rights and freedoms.
 
@@ -172,7 +172,7 @@ Requests by Chairperson and Ranking Member of Appropriate Congressional Committe
 
 &emsp;"(1)
 
-In general.—Not later than 120 days after receiving a written request from the chairperson and ranking member of one of the appropriate congressional committees with respect to whether a person meets the criteria for being added to the list required by subsection (a), the President shall submit a response to the chairperson and ranking member of the committee which made the request with respect to the status of the person.
+In general.—Not later than 120 days after receiving a written request from the chairperson and ranking member of one of the appropriate congressional committees with respect to whether a person meets the criteria for being added to the list requiredby subsection (a), the President shall submit a response to the chairperson and ranking member of the committee which made the request with respect to the status of the person.
 
 &emsp;"(2)
 
@@ -270,6 +270,64 @@ Regulatory Authority.—The Secretary of the Treasury shall issue such regulatio
 
 #### Belarus Democracy
 
+Pub. L. 118–31, div. F, title LXIV, §6406, Dec. 22, 2023, 137 Stat. 999, provided that:
+
+"(a)
+
+Special Envoy.—The President shall appoint a Special Envoy for Belarus within the Department \[of State\] (referred to in this section as the 'Special Envoy'). The Special Envoy should be a person of recognized distinction in the field of European security, geopolitics, democracy and human rights, and may be a career Foreign Service Officer.
+
+"(b)
+
+Central Objective.—The central objective of the Special Envoy is to coordinate and promote efforts—
+
+&emsp;"(1) to improve respect for the fundamental human rights of the people of Belarus;
+
+&emsp;"(2) to sustain focus on the national security implications of Belarus's political and military alignment for the United States; and
+
+&emsp;"(3) to respond to the political, economic, and security impacts of events in Belarus upon neighboring countries and the wider region.
+
+"(c)
+
+Duties and Responsibilities.—The Special Envoy shall—
+
+&emsp;"(1) engage in discussions with Belarusian officials regarding human rights, political, economic and security issues in Belarus;
+
+&emsp;"(2) support international efforts to promote human rights and political freedoms in Belarus, including coordination and dialogue between the United States and the United Nations, the Organization for Security and Cooperation in Europe, the European Union, Belarus, and the other countries in Eastern Europe;
+
+&emsp;"(3) consult with nongovernmental organizations that have attempted to address human rights and political and economic instability in Belarus;
+
+&emsp;"(4) make recommendations regarding the funding of activities promoting human rights, democracy, the rule of law, and the development of a market economy in Belarus;
+
+&emsp;"(5) review strategies for improving protection of human rights in Belarus, including technical training and exchange programs;
+
+&emsp;"(6) develop an action plan for holding to account the perpetrators of the human rights violations documented in the United Nations High Commissioner for Human Rights report on the situation of human rights in Belarus in the run-up to the 2020 presidential election and its aftermath (Human Rights Council Resolution 49/36 \[sic\]);
+
+&emsp;"(7) engage with member countries of the North Atlantic Treaty Organization, the Organization for Security and Cooperation in Europe and the European Union with respect to the implications of Belarus's political and security alignment for transatlantic security; and
+
+&emsp;"(8) work within the Department and among partnering countries to sustain focus on the political situation in Belarus.
+
+"(d)
+
+Role.—The position of Special Envoy—
+
+&emsp;"(1) shall be a full-time position;
+
+&emsp;"(2) may not be combined with any other position within the Department;
+
+&emsp;"(3) shall only exist as long as United States diplomatic operations in Belarus at the United States Embassy in Minsk, Belarus have been suspended;
+
+&emsp;"(4) shall oversee the operations and personnel of the Belarus Affairs Unit; and
+
+&emsp;"(5) shall have a duty station that is co-located with the Belarus Affairs Unit.
+
+"(e)
+
+Report on Activities.—Not later than 180 days after the date of the enactment of this division \[Dec. 22, 2023\], and annually thereafter for the following 5 years, the Secretary \[of State\], in consultation with the Special Envoy, shall submit a report to the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\] that describes the activities undertaken pursuant to subsection (c) during the reporting period.
+
+"(f)
+
+Sunset.—The position of Special Envoy for Belarus and the authorities provided by this section shall terminate 5 years after the date of the enactment of this division."
+
 Pub. L. 108–347, Oct. 20, 2004, 118 Stat. 1383, as amended by Pub. L. 109–480, §§2–4(c)(1), 5–8, Jan. 12, 2007, 120 Stat. 3666–3672; Pub. L. 112–82, §§2–6, Jan. 3, 2012, 125 Stat. 1863–1867; Pub. L. 116–260, div. FF, title III, §§322–329, Dec. 27, 2020, 134 Stat. 3101–3113, provided that:
 
 #### "SECTION 1. SHORT TITLE.
@@ -306,7 +364,7 @@ Pub. L. 108–347, Oct. 20, 2004, 118 Stat. 1383, as amended by Pub. L. 109–48
 
 &emsp;"(9) The Government of Belarus, led illegally by Alyaksandr Lukashenka, continues to subject thousands of pro-democracy political activists and peaceful protesters to harassment, beatings, and imprisonment, particularly as a result of their attempts to peacefully exercise their right to freedom of assembly and association.
 
-&emsp;"(10) The Government of Belarus, led illegally by Alyaksandr Lukashenka, continues to suppress independent media and journalists and to restrict access to the internet, including social media and other digital communication platforms, in violation of the right to freedom of speech and expression of those dissenting from the dictatorship of Alyaksandr Lukashenka.
+&emsp;"(10) The Government of Belarus, led illegally by Alyaksandr Lukashenka, continues to suppress independent media and journalists and to restrict access to the internet, including social media and other digital communication platforms, in violation of the right to freedom of speech and expression of thosedissenting from the dictatorship of Alyaksandr Lukashenka.
 
 &emsp;"(11) The Government of Belarus, led illegally by Alyaksandr Lukashenka, continues a systematic campaign of harassment, repression, and closure of nongovernmental organizations, including independent trade unions and entrepreneurs, creating a climate of fear that inhibits the development of civil society and social solidarity.
 
@@ -478,7 +536,7 @@ Pub. L. 108–347, Oct. 20, 2004, 118 Stat. 1383, as amended by Pub. L. 109–48
 
 &emsp;"(14) to encourage the United States Government—
 
-&emsp;&emsp;"(A) to continue working closely with the European Union, the United Kingdom, Canada, and other countries and international organizations to promote the principles of democracy, the rule of law, and human rights in Belarus; and
+&emsp;&emsp;"(A) to continue working closely with the European Union, the United Kingdom, Canada, andother countries and international organizations to promote the principles of democracy, the rule of law, and human rights in Belarus; and
 
 &emsp;&emsp;"(B) to impose targeted sanctions, in coordination with the European Union and other international partners, against officials in Belarus who are responsible for—
 
@@ -622,7 +680,7 @@ Application of Sanctions.—The sanctions described in subsections (c) through (
 
 Conditions.—The conditions referred to in subsection (a) are the following:
 
-&emsp;"(1) The release of individuals in Belarus who have been jailed based on political or religious beliefs or expression, including those individuals jailed basedon political beliefs or expression in connection with repression that attended the presidential election of August 9, 2020.
+&emsp;"(1) The release of individuals in Belarus who have been jailed based on political or religious beliefs or expression, including those individuals jailed based on political beliefs or expression in connection with repression that attended the presidential election of August 9, 2020.
 
 &emsp;"(2) The withdrawal of politically motivated legal charges against all opposition activists, peaceful protesters, and independent journalists in Belarus, including politically motivated legal charges made in connection with repression that attended the presidential election of August 9, 2020.
 
@@ -666,7 +724,7 @@ United states government financing.—It is the sense of Congress that no loan, 
 
 &emsp;"(2)
 
-Trade and development agency.—It is the sense of Congress that no funds available to the Trade and Development Agency should be available for activities of the Agency in or for Belarus.
+Trade and development agency.—It is the sense of Congress that no funds available to theTrade and Development Agency should be available for activities of the Agency in or for Belarus.
 
 "(e)
 
@@ -704,7 +762,7 @@ Payment of expenses.—All expenses incident to the blocking and maintenance of 
 
 &emsp;"(4)
 
-Rule of construction.—Nothing in this subsection shall be construed to prohibit any contract orother financial transaction with any private or nongovernmental organization or business in Belarus.
+Rule of construction.—Nothing in this subsection shall be construed to prohibit any contract or other financial transaction with any private or nongovernmental organization or business in Belarus.
 
 &emsp;"(5)
 
@@ -822,7 +880,9 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;&emsp;"(F) the Committee on Appropriations of the House of Representatives.
 
-&emsp;"(2) OSCE.—The term 'OSCE' means the Organization for Security and Cooperation in Europe.
+&emsp;"(2)
+
+OSCE.—The term 'OSCE' means the Organization for Security and Cooperation in Europe.
 
 &emsp;"(3)
 
@@ -834,7 +894,7 @@ Senior leadership of the government of belarus.—The term 'senior leadership of
 
 &emsp;&emsp;&emsp;"(i) is personally and substantially involved in the suppression of freedom in Belarus, including judges, prosecutors, members of the security and intelligence services, and heads of professional associations and educational institutions; or
 
-&emsp;&emsp;&emsp;"(ii) is otherwise engaged in public corruption, electoral fraud, online censorship, or restrictionson independent media and journalists in Belarus; and
+&emsp;&emsp;&emsp;"(ii) is otherwise engaged in public corruption, electoral fraud, online censorship, or restrictions on independent media and journalists in Belarus; and
 
 &emsp;&emsp;"(C) any other individual determined by the Secretary of State (or the Secretary's designee) to be personally and substantially involved in the formulation or execution of the policies of the Government of Belarus that are in contradiction of internationally recognized human rights standards."
 

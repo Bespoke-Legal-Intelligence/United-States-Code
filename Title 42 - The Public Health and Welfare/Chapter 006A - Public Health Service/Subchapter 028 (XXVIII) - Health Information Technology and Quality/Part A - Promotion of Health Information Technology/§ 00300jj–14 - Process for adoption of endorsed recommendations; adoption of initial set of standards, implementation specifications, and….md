@@ -26,7 +26,7 @@
 
 #### (2) Application of current standards, implementation specifications, and certification criteria
 
-&emsp;The standards, implementation specifications, and certification criteria adopted beforeFebruary 17, 2009, through the process existing through the Office of the National Coordinator for Health Information Technology may be applied towards meeting the requirement of paragraph (1).
+&emsp;The standards, implementation specifications, and certification criteria adopted before February 17, 2009, through the process existing through the Office of the National Coordinator for Health Information Technology may be applied towards meeting the requirement of paragraph (1).
 
 #### (3) Subsequent standards activity
 

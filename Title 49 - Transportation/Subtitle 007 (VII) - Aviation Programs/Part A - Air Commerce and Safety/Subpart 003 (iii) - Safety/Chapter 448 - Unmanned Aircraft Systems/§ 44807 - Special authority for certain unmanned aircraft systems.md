@@ -8,7 +8,7 @@ In General.—Notwithstanding any other requirement of this chapter, the Secreta
 
 Assessment of Unmanned Aircraft Systems.—In making the determination under subsection (a), the Secretary shall determine, at a minimum—
 
-&emsp;(1) which types of unmanned aircraft systems, if any, as a result of their size, weight, speed, operational capability, proximity to airports and populated areas, operation over people, and operation within or beyond the visual line of sight, or operation during the day or night, do not create a hazard to users of the national airspace system or the public; and
+&emsp;(1) which types of unmanned aircraft systems, if any, as a result of their size, weight, speed, operational capability, proximity to airports and populated areas, operation overpeople, and operation within or beyond the visual line of sight, or operation during the day or night, do not create a hazard to users of the national airspace system or the public; and
 
 &emsp;(2) whether a certificate under section 44703 or section 44704 of this title, or a certificate of waiver or certificate of authorization, is required for the operation of unmanned aircraft systems identified under paragraph (1) of this subsection.
 
@@ -18,13 +18,19 @@ Requirements for Safe Operation.—If the Secretary determines under this sectio
 
 (d)
 
-Sunset.—The authority under this section for the Secretary to determine if certain unmanned aircraft systems may operate safely in the national airspace system terminates effective September 30, 2023.
+Sunset.—The authority under this section for the Secretary to determine if certain unmanned aircraft systems may operate safely in the national airspace system terminates effective March 8, 2024.
 
-(Added Pub. L. 115–254, div. B, title III, §347(a), Oct. 5, 2018, 132 Stat. 3296.)
+(Added Pub. L. 115–254, div. B, title III, §347(a), Oct. 5, 2018, 132 Stat. 3296; amended Pub. L. 118–15, div. B, title II, §2202(c), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(c), Dec. 26, 2023, 137 Stat. 1113.)
 
 #### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 333 of Pub. L. 112–95, which was setout in a note under section 40101 of this title, prior to repeal by Pub. L. 115–254, div. B, title III, §347(b)(2), Oct. 5, 2018, 132 Stat. 3296. The remainder of the note comprised of subtitle B of title III of Pub. L. 112–95 was transferred and is set out under section 44802 of this title.
+Provisions similar to those in this section were contained in section 333 of Pub. L. 112–95, which was set out in a note under section 40101 of this title, prior to repeal by Pub. L. 115–254, div. B, title III, §347(b)(2), Oct. 5, 2018, 132 Stat. 3296. The remainder of the note comprised of subtitle B of title III of Pub. L. 112–95 was transferred and is set out under section 44802 of this title.
+
+#### Amendments
+
+<b>2023</b>—Subsec. (d). Pub. L. 118–34 substituted "March 8, 2024" for "December 31, 2023".
+
+Pub. L. 118–15 substituted "December 31, 2023" for "September 30, 2023".
 

@@ -6,7 +6,7 @@ Each local emergency planning committee shall complete preparation of an emergen
 
 #### (b) Resources
 
-Each local emergency planning committee shall evaluate the need for resources necessaryto develop, implement, and exercise the emergency plan, and shall make recommendations with respect to additional resources that may be required and the means for providing such additional resources.
+Each local emergency planning committee shall evaluate the need for resources necessary to develop, implement, and exercise the emergency plan, and shall make recommendations with respect to additional resources that may be required and the means for providing such additional resources.
 
 #### (c) Plan provisions
 

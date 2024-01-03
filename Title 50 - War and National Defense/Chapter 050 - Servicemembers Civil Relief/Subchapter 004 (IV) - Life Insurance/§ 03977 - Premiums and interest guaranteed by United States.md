@@ -8,7 +8,7 @@
 
 #### (2) Policy termination
 
-&emsp;If, at the expiration of insurance protection under this subchapter, the cash surrender value of a policy is less than the amount due to pay premiums and interest on premiums on the policy, the policy shall terminate. Upon such termination, the United States shall pay the insurer the difference between the amount due and the cash surrender value.
+&emsp;If, at the expiration of insurance protection under this subchapter, the cash surrender value of a policy is less than the amount due to pay premiums and interest on premiums on the policy, the policy shall terminate. Upon such termination, the United States shall paythe insurer the difference between the amount due and the cash surrender value.
 
 #### (b) Recovery from insured of amounts paid by the United States
 
@@ -30,7 +30,7 @@ Any amounts received by the United States as repayment of debts incurred by an i
 
 (Oct. 17, 1940, ch. 888, title IV, §407, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2853.)
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Editorial Notes</b>
 
 #### Codification
 

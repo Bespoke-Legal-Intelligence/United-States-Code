@@ -36,13 +36,13 @@ The Under Secretary shall prioritize providing assistance under subsection (a) f
 
 #### (d) Outreach
 
-The Under Secretary, in coordination with the Secretary, the Administrator of the Maritime Administration, and the Director of the United States Fish and Wildlife Service, as appropriate, shall conduct coordinated outreach to ports to provide information with respect to—
+The Under Secretary, in coordination with the Secretary, the Administrator of the Maritime Administration, and the Director of the United States Fish and Wildlife Service, as appropriate,shall conduct coordinated outreach to ports to provide information with respect to—
 
 &emsp;(1) how to apply for assistance under subsection (a);
 
 &emsp;(2) the benefits of such assistance; and
 
-&emsp;(3) facilitation of best practices and lessons, including the best practices and lessonslearned from activities carried out using such assistance.
+&emsp;(3) facilitation of best practices and lessons, including the best practices and lessons learned from activities carried out using such assistance.
 
 #### (e) Report required
 

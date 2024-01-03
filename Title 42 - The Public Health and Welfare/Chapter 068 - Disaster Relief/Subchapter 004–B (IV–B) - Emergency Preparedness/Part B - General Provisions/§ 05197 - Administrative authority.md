@@ -30,7 +30,7 @@ The Administrator may reimburse any Federal agency for any of its expenditures o
 
 #### (f) Printing
 
-The Administrator may purchase such printing, binding, and blank-book work from public, commercial, or private printing establishments or binderies as the Administrator considers necessary upon orders placed by the Director of theGovernment Publishing Office or upon waivers issued in accordance with section 504 of title 44.
+The Administrator may purchase such printing, binding, and blank-book work from public, commercial, or private printing establishments or binderies as the Administrator considers necessary upon orders placed by the Director of the Government Publishing Office or upon waivers issued in accordance with section 504 of title 44.
 
 #### (g) Rules and regulations
 

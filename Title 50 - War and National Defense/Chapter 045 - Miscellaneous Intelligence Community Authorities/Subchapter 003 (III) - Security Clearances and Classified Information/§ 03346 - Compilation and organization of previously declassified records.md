@@ -4,7 +4,7 @@
 
 #### (c) Compilation and organization of records
 
-The Department of Defense may not be required, when conducting a special search, tocompile or organize records that have already been declassified and placed into the public domain.
+The Department of Defense may not be required, when conducting a special search, to compile or organize records that have already been declassified and placed into the public domain.
 
 #### (d) Special searches
 

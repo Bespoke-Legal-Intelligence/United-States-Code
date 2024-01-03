@@ -22,7 +22,7 @@ In this part:
 
 &emsp;&emsp;(B) included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury (commonly known as the SDN list);
 
-&emsp;&emsp;(C) owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is a covered nation\(as such term is defined in section 4872 of title 10);
+&emsp;&emsp;(C) owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is a covered nation (as such term is defined in section 4872 of title 10);
 
 &emsp;&emsp;(D) alleged by the Attorney General to have been involved in activities for which a conviction was obtained under—
 
@@ -34,7 +34,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(iv) the Arms Export Control Act (22 U.S.C. 2751 et seq.);
 
-&emsp;&emsp;&emsp;(v) section 2274, 2275, 2276, 2277, or 2284 of title 42;
+&emsp;&emsp;&emsp;(v) section 2274, 2275, 2276, 2277, or 2284 of this title;
 
 &emsp;&emsp;&emsp;(vi) the Export Control Reform Act of 2018 (50 U.S.C. 4801 et seq.); or
 
@@ -82,7 +82,7 @@ In this part:
 
 The Arms Export Control Act, referred to in par. (3)(D)(iv), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-The Export Control Reform Act of 2018, referred to in par. (3)(D)(vi), is subtitle B (§§1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see ShortTitle note set out under section 4801 of Title 50 and Tables.
+The Export Control Reform Act of 2018, referred to in par. (3)(D)(vi), is subtitle B (§§1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 50 and Tables.
 
 The International Emergency Economic Powers Act, referred to in (3)(D)(vii), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 

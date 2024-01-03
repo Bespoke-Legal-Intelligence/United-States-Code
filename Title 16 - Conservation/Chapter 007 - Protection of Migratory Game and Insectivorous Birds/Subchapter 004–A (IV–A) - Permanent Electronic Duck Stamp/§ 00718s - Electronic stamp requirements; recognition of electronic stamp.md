@@ -10,7 +10,7 @@ The Secretary shall require an electronic stamp issued by a State under this sub
 
 #### (b) Recognition of electronic stamp
 
-Any electronic stamp issued by a State under this subchapter shall, during the effective period of the electronic stamp—
+Any electronic stamp issued by a State under this subchapter shall—
 
 &emsp;(1) bestow upon the licensee the same privileges as are bestowed by an actual stamp;
 
@@ -20,7 +20,15 @@ Any electronic stamp issued by a State under this subchapter shall, during the e
 
 #### (c) Duration
 
-An electronic stamp issued by a State shall be valid for a period agreed to by the State and the Secretary, which shall not exceed 45 days.
+An electronic stamp issued by a State shall be valid through the first June 30 that occurs after the date of issuance of the electronic stamp by the State.
 
-(Pub. L. 113–239, §6, Dec. 18, 2014, 128 Stat. 2849.)
+(Pub. L. 113–239, §6, Dec. 18, 2014, 128 Stat. 2849; Pub. L. 118–25, §2(c), Dec. 19, 2023, 137 Stat. 130.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2023</b>—Subsec. (b). Pub. L. 118–25, §2(c)(1), substituted "shall—" for "shall, during the effective period of the electronic stamp—" in introductory provisions.
+
+Subsec. (c). Pub. L. 118–25, §2(c)(2), substituted "through the first June 30 that occurs after the date of issuance of the electronic stamp by the State" for "for a period agreed to by the State and the Secretary, which shall not exceed 45 days".
 

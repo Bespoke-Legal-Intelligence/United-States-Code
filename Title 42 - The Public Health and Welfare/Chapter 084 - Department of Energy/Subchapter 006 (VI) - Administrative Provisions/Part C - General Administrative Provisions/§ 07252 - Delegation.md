@@ -8,7 +8,7 @@ Except as otherwise expressly prohibited by law, and except as otherwise provide
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy OrganizationAct, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

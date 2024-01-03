@@ -36,7 +36,7 @@ Subsec. (e)(2). Pub. L. 105–277, §101(h) \[title VI, §631(b)\], substituted 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. A, §101(h) \[title VI, §631(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523, provided that: "Theamendments made by this section \[amending this section\] shall take effect on October 1, 1998, or the date of enactment of this Act \[Oct. 21, 1998\], whichever is later."
+Pub. L. 105–277, div. A, §101(h) \[title VI, §631(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523, provided that: "The amendments made by this section \[amending this section\] shall take effect on October 1, 1998, or the date of enactment of this Act \[Oct. 21, 1998\], whichever is later."
 
 #### Effective Date
 

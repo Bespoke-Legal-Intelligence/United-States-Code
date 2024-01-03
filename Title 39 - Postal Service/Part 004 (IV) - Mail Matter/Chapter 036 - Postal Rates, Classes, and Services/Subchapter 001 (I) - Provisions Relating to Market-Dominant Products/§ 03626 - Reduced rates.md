@@ -4,7 +4,7 @@
 
 (2) For the purpose of this subsection, the term "regular-rate category" means any class of mail or kind of mailer, other than a class or kind referred to in section 2401(c).
 
-(3) Rates of postage for a class of mail or kind of mailer under former section 4358(a) through\(c) of this title shall be established so that postage on each mailing of such mail reflects its preferred status as compared to the postage for the most closely corresponding regular-rate category mailing.
+(3) Rates of postage for a class of mail or kind of mailer under former section 4358(a) through (c) of this title shall be established so that postage on each mailing of such mail reflects its preferred status as compared to the postage for the most closely corresponding regular-rate category mailing.
 
 (4)(A) Except as specified in subparagraph (B), rates of postage for a class of mail or kind of mailer under former section 4358 (d) or (e) of this title shall be established so that postage on each mailing of such mail shall be as nearly as practicable 5 percent lower than the postage for a corresponding regular-rate category mailing.
 
@@ -44,13 +44,13 @@
 
 &emsp;(C) the term "State committee" means the organization which, by virtue of the bylaws of a political party, is responsible for the day-to-day operation of such political party at the State level.
 
-(f) In the administration of this chapter, the rates for mail under former section 4358(g) of this title shall be established without regard to either the provisions of such former section 4358(g) or the provisions of this section.
+(f) In the administration of this chapter, the rates for mail under former section 4358(g) ofthis title shall be established without regard to either the provisions of such former section 4358(g) or the provisions of this section.
 
 (g)(1) In the administration of this section, the rates for mail under subsections (a), (b), and (c) of former section 4358 of this title shall not apply to an issue of a publication if the number of copies of such issue distributed within the county of publication is less than the number equal to the sum of 50 percent of the total paid circulation of such issue plus one.
 
 (2) Paragraph (1) of this subsection shall not apply to an issue of a publication if the total paid circulation of such issue is less than 10,000 copies.
 
-(3) For purposes of this section and former section 4358(a) through (c) of this title, those copies of an issue of a publication entered within thecounty in which it is published, but distributed outside such county on postal carrier routes originating in the county of publication, shall be treated as if they were distributed within the county of publication.
+(3) For purposes of this section and former section 4358(a) through (c) of this title, those copies of an issue of a publication entered within the county in which it is published, but distributed outside such county on postal carrier routes originating in the county of publication, shall be treated as if they were distributed within the county of publication.
 
 (4)(A) In the case of an issue of a publication, any number of copies of which are mailed at the rates of postage for a class of mail or kind of mailer under former section 4358(a) through (c) of this title, any copies of such issue which are distributed outside the county of publication (excluding any copies subject to paragraph (3)) shall be subject to rates of postage provided for under this paragraph.
 
@@ -138,7 +138,7 @@ Subsec. (n). Pub. L. 109–435, §1003(3), added subsec. (n).
 
 <b>2000</b>—Subsec. (a)(1). Pub. L. 106–384, §2(b), substituted "4554(b), or 4554(c)" for "4454(b), or 4454(c)".
 
-Subsec. (a)(3)(A). Pub. L. 106–384, §1(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Except as provided in paragraph (4) or (5), rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer shall be equal to the sum of—
+Subsec. (a)(3)(A). Pub. L. 106–384, §1(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Except as provided in paragraph (4) or (5), rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or4554(c) of this title shall be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer shall be equal to the sum of—
 
 &emsp;"(i) the estimated costs attributable to such class of mail or kind of mailer; and
 
@@ -216,7 +216,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Pub. L. 103–123, title VII, §704(c)(1), Oct. 28, 1993, 107 Stat. 1270, provided that: "The amendments made by subsection (a) \[enacting section 3642 of this title and amending this section and section 3627 of this title\] shall apply with respect to rates for mail sent after September 30, 1993."
 
-Pub. L. 103–123, title VII, §705(d), Oct. 28, 1993, 107 Stat. 1272, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to mail sent, and the rates for mail sent, after December 31, 1993."
+Pub. L. 103–123, title VII, §705(d), Oct. 28, 1993, 107 Stat. 1272, provided that: "The amendments made bythis section \[amending this section\] shall apply with respect to mail sent, and the rates for mail sent, after December 31, 1993."
 
 #### Effective Date of 1990 Amendment
 

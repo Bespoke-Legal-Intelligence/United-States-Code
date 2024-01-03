@@ -16,7 +16,7 @@ Consultation Between Secretary and Head of Executive Agency.—Upon notification
 
 &emsp;(1) respond promptly to the Secretary; and
 
-&emsp;(2) consistent with the urgency of the training or readiness activity involved and the provisions of law under which the administrativeaction or proposed administrative action is being taken, seek to reach an agreement with the Secretary on immediate actions to attain the objective of the administrative action or proposed administrative action in a manner which eliminates or mitigates the adverse effects of the administrative action or proposed administrative action upon the training or readiness activity.
+&emsp;(2) consistent with the urgency of the training or readiness activity involved and the provisions of law under which the administrative action or proposed administrative action is being taken, seek to reach an agreement with the Secretary on immediate actions to attain the objective of the administrative action or proposed administrative action in a manner which eliminates or mitigates the adverse effects of the administrative action or proposed administrative action upon the training or readiness activity.
 
 (d)
 

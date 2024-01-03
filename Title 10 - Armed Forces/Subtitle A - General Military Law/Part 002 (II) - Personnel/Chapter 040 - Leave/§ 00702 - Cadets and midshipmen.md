@@ -24,7 +24,7 @@ Inapplicable Leave Provisions.—Sections 701, 703, and 704 of this title and su
 
 (d)
 
-Regulations.—The Secretary concerned, or his designated representative, may prescriberegulations relating to leave for cadets and midshipmen.
+Regulations.—The Secretary concerned, or his designated representative, may prescribe regulations relating to leave for cadets and midshipmen.
 
 (e)
 
@@ -38,7 +38,7 @@ Definition.—In this section, the term "academy cadet or midshipman" means—
 
 &emsp;(4) a cadet of the United States Coast Guard Academy.
 
-(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–513, title V, §511(20), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 103–160, div. A, title V, §532, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 105–261, div. A, title V, §562, Oct. 17, 1998, 112 Stat. 2027; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
+(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–513, title V, §511(20), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 103–160, div. A, title V, §532, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 105–261, div. A, title V, §562, Oct. 17, 1998, 112Stat. 2027; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
 
 Historical and Revision Notes
 

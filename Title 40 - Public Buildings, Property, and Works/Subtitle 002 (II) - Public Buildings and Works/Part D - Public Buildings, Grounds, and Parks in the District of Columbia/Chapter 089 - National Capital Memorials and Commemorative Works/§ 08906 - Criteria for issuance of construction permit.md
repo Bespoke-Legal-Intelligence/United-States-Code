@@ -18,7 +18,7 @@ Donation for Perpetual Maintenance and Preservation.—
 
 &emsp;(1) In addition to the criteria described above in subsection (a), no construction permit shall be issued unless the sponsor authorized to construct the commemorative work has donated an amount equal to 10 percent of the total estimated cost of construction to offset the costs of perpetual maintenance and preservation of the commemorative work. All such amounts shall be available for those purposes pursuant to the provisions of this subsection. The provisions of this subsection shall not apply in instances when the commemorative work is constructed by a Department or agency of the Federal Government and less than 50 percent of the funding for such work is provided by private sources.
 
-&emsp;(2) Notwithstanding any other provision of law, money on deposit in the Treasury on thedate of enactment of the Commemorative Works Clarification and Revision Act of 2003 provided by a sponsor for maintenance pursuant to this subsection shall be credited to a separate account in the Treasury.
+&emsp;(2) Notwithstanding any other provision of law, money on deposit in the Treasury on the date of enactment of the Commemorative Works Clarification and Revision Act of 2003 provided by a sponsor for maintenance pursuant to this subsection shall be credited to a separate account in the Treasury.
 
 &emsp;(3) Money provided by a sponsor pursuant to the provisions of this subsection after the date of enactment of the Commemorative Works Clarification and Revision Act of 2003 shall be credited to a separate account with the National Park Foundation.
 

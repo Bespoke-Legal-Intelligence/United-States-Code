@@ -19,12 +19,15 @@
 | [2815\.](%C2%A7%2002815%20-%20Military%20installation%20resilience%20projects.md) | Military installation resilience projects. |
 | [2815a.](%C2%A7%2002815a%20-%20Stormwater%20management%20projects%20for%20installation%20and%20defense%20access%20road%20resilience%20and%20waterway%20and%20ecosystems%20conservation.md) | Stormwater management projects for installation and defense access road resilience and waterway and ecosystems conservation. |
 | [2816\.](%C2%A7%2002816%20-%20Consideration%20of%20energy%20security%20and%20energy%20resilience%20in%20life-cycle%20cost%20for%20military%20construction.md) | Consideration of energy security and energy resilience in life-cycle cost for military construction. |
+| [2817\.](%C2%A7%2002817%20-%20Authority%20for%20certain%20construction%20projects%20in%20friendly%20foreign%20countries.md) | Authority for certain construction projects in friendly foreign countries. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. B, title XXVIII, §2805, Dec. 22, 2023, 137 Stat. 744, added item 2817. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2022</b>—Pub. L. 117–263, div. B, title XXVIII, §2805(b), Dec. 23, 2022, 136 Stat. 2995, added item 2810.
 
@@ -84,3 +87,4 @@ Pub. L. 99–499, title II, §211(b)(2), Oct. 17, 1986, 100 Stat. 1726, added it
 - [&sect; 02815 - Military installation resilience projects](%C2%A7%2002815%20-%20Military%20installation%20resilience%20projects.md)
 - [&sect; 02815a - Stormwater management projects for installation and defense access road resilience and waterway and ecosystems conservation](%C2%A7%2002815a%20-%20Stormwater%20management%20projects%20for%20installation%20and%20defense%20access%20road%20resilience%20and%20waterway%20and%20ecosystems%20conservation.md)
 - [&sect; 02816 - Consideration of energy security and energy resilience in life-cycle cost for military construction](%C2%A7%2002816%20-%20Consideration%20of%20energy%20security%20and%20energy%20resilience%20in%20life-cycle%20cost%20for%20military%20construction.md)
+- [&sect; 02817 - Authority for certain construction projects in friendly foreign countries](%C2%A7%2002817%20-%20Authority%20for%20certain%20construction%20projects%20in%20friendly%20foreign%20countries.md)

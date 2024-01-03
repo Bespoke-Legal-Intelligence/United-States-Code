@@ -47,7 +47,7 @@
 
 (F) Notwithstanding any other provision of this paragraph, if a full TSP member (as defined in section 8440e(a)) has declined automatic enrollment into the Thrift Savings Plan for a year, the full TSP member shall be automatically reenrolled on January 1 of the succeeding year, with contributions under subsection (a) at the default percentage of basic pay.
 
-(c)(1)(A) At the time prescribed by the Executive Director, but no later than 12 days after the end of the pay period that includes the first date on which an employee or Member may make contributions under subsection (a) (without regard to whether the employee or Member has elected to make such contributions during such pay period), and within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period), the employing agency shall contribute to the ThriftSavings Fund for the benefit of such employee or Member the amount equal to 1 percent of the basic pay of such employee or Member for such pay period.
+(c)(1)(A) At the time prescribed by the Executive Director, but no later than 12 days after the end of the pay period that includes the first date on which an employee or Member may make contributions under subsection (a) (without regard to whether the employee or Member has elected to make such contributions during such pay period), and within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period), the employing agency shall contribute to the Thrift Savings Fund for the benefit of such employee or Member the amount equal to 1 percent of the basic pay of such employee or Member for such pay period.
 
 (B) In the case of each employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, the employing agency shall contribute to the Thrift Savings Fund for the benefit of such employee or Member the amount equal to 1 percent of the total basic pay paid to such employee or Member for that period of service.
 
@@ -133,7 +133,7 @@
 
 &emsp;&emsp;(ii) would be so eligible but for having either elected to terminate individual contributions to the Thrift Savings Fund within 2 months before commencing military service or separated in order to perform military service.
 
-(2) The Executive Director shall prescribe regulations to ensure that any employee to whom this subsection applies shall, within a reasonable time after being restored or reemployed (in the manner described in section 8432b(a)(2)), be afforded the opportunity to make, for purposes of this section, any election which would be allowable during a period described in subsection (b)(1)(A).
+(2) The Executive Director shall prescribe regulations to ensure that any employee to whom this subsection applies shall, within a reasonable time after being restored or reemployed (in the manner described in section 8432b(a)(2)), be afforded the opportunity to make, for purposesof this section, any election which would be allowable during a period described in subsection (b)(1)(A).
 
 (j)(1) For the purpose of this subsection—
 
@@ -233,7 +233,7 @@ Subsec. (g)(4). Pub. L. 100–238, §115(2), added par. (4).
 
 <b>1987</b>—Subsec. (b)(4)(A). Pub. L. 100–20 substituted "Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director" for "Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, continues as an employee or Member without a break in service through April 1, 1987, and has creditable service described in section 8411(b)(2) of this title may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director".
 
-<b>1986</b>—Subsec. (b)(4). Pub. L. 99–509, §6001(a)(1), designated existing provisions as subpar. (A), inserted "continues as an employee or Member without a breakin service through April 1, 1987," substituted "April 1, 1987" for "January 1, 1987", substituted "the date on which the employee or Member makes that election" for "the last day of that election period", and added subpar. (B).
+<b>1986</b>—Subsec. (b)(4). Pub. L. 99–509, §6001(a)(1), designated existing provisions as subpar. (A), inserted "continues as an employee or Member without a break in service through April 1, 1987," substituted "April 1, 1987" for "January 1, 1987", substituted "the date on which the employee or Member makes that election" for "the last day of that election period", and added subpar. (B).
 
 Subsec. (c)(1). Pub. L. 99–509, §6001(a)(2)(A), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
@@ -275,7 +275,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'appropriate committees of Congress' means—
 
-&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Energy and Commerce, the Committee on Natural Resources, the Committee on Oversight and Government Reform, and the Committee on Transportation and Infrastructure of the House of Representatives; and
+&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Energy and Commerce, the Committee on Natural Resources, the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\], and the Committee on Transportation and Infrastructure of the House of Representatives; and
 
 &emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, the Committee on Homeland Security and Governmental Affairs, and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
@@ -371,7 +371,7 @@ Exception.—The regulations prescribed under this section shall, with respect t
 
 #### Contributions to Thrift Savings Fund
 
-Pub. L. 99–509, title VI, §6001(a)(3), Oct. 21, 1986, 100 Stat. 1930, directed that contributions made to Thrift Savings Fund under 5 U.S.C. 8432(c)(1)(B), (C) and (3) be made as soon as practicable during the 15-day period which began on Apr. 1, 1987.
+Pub. L. 99–509, title VI, §6001(a)(3), Oct. 21, 1986, 100 Stat. 1930, directed that contributions made to ThriftSavings Fund under 5 U.S.C. 8432(c)(1)(B), (C) and (3) be made as soon as practicable during the 15-day period which began on Apr. 1, 1987.
 
 #### Inapplicability of Limitation on Number of Elections Within a Six-Month Period
 

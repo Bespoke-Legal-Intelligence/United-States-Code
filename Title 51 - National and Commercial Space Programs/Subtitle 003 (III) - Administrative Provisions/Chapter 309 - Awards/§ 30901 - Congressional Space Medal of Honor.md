@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Award.—The President may award, and present in the name of Congress, a medal of appropriate design, which shall be known as the Congressional Space Medal of Honor, to any astronaut who in the performance of the astronaut's duties has distinguished himself or herself by exceptionally meritorious efforts and contributions to the welfare of the Nation and of humankind.
+Authority To Award.—The President may award, and present in the name of Congress, amedal of appropriate design, which shall be known as the Congressional Space Medal of Honor, to any astronaut who in the performance of the astronaut's duties has distinguished himself or herself by exceptionally meritorious efforts and contributions to the welfare of the Nation and of humankind.
 
 (b)
 

@@ -30,7 +30,7 @@ Regulations.—The Secretary shall prescribe regulations for the administration 
 
 #### Prior Provisions
 
-A prior section 7521, act Aug. 10, 1956, ch. 1041, 70A Stat. 464, authorized Secretary of the Navy to make partial payments during progress of work done under contract, and directed that paramount lien on thing contracted for accrues to United States on account of payments so made, prior to repeal by Pub. L. 103–355, title II, §2001(j)(1), title X, §10001, Oct. 13, 1994, 108 Stat. 3303, 3404, subject to effective date and applicability provisions set out as a note under section 2302 of this title. See section 3808 of this title.
+A prior section 7521, act Aug. 10, 1956, ch. 1041, 70A Stat. 464, authorized Secretary of the Navy to makepartial payments during progress of work done under contract, and directed that paramount lien on thing contracted for accrues to United States on account of payments so made, prior to repeal by Pub. L. 103–355, title II, §2001(j)(1), title X, §10001, Oct. 13, 1994, 108 Stat. 3303, 3404, subject to effective date and applicability provisions set out as a note under section 2302 of this title. See section 3808 of this title.
 
 Prior sections 7522 to 7524 were renumbered sections 8752 to 8754 of this title, respectively.
 

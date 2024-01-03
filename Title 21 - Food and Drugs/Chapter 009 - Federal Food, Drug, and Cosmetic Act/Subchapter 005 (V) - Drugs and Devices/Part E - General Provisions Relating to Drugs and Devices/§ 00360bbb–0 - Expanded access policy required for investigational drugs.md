@@ -16,7 +16,7 @@ A policy described in subsection (a) shall include—
 
 &emsp;(2) procedures for making such requests;
 
-&emsp;(3) the general criteria the manufacturer or distributor will use to evaluate such requestsfor individual patients, and for responses to such requests;
+&emsp;(3) the general criteria the manufacturer or distributor will use to evaluate such requests for individual patients, and for responses to such requests;
 
 &emsp;(4) the length of time the manufacturer or distributor anticipates will be necessary to acknowledge receipt of such requests; and
 

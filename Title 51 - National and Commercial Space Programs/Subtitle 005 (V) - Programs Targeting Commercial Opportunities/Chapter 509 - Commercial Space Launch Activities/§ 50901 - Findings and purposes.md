@@ -16,7 +16,7 @@ Findings.—Congress finds that—
 
 &emsp;(6) providing launch services and reentry services by the private sector is consistent with the national security and foreign policy interests of the United States and would be facilitated by stable, minimal, and appropriate regulatory guidelines that are fairly and expeditiously applied;
 
-&emsp;(7) the United States should encourage private sector launches, reentries, and associated services and, only to the extent necessary, regulate those launches, reentries, and services to ensure compliance with international obligations of the United States and to protect the public health and safety, safety of property, and national security and foreign policy interests of the United States;
+&emsp;(7) the United States should encourage private sector launches, reentries, and associated services and, only to the extent necessary, regulate those launches, reentries, and services to ensure compliance with international obligations of the United States and to protectthe public health and safety, safety of property, and national security and foreign policy interests of the United States;
 
 &emsp;(8) space transportation, including the establishment and operation of launch sites, reentry sites, and complementary facilities, the providing of launch services and reentry services, the establishment of support facilities, and the providing of support services, is an important element of the transportation system of the United States, and in connection with the commerce of the United States there is a need to develop a strong space transportation infrastructure with significant private sector involvement;
 

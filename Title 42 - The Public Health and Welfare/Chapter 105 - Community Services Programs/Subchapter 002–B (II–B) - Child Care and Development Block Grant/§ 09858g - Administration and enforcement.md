@@ -90,7 +90,7 @@ The Secretary shall—
 
 #### (7) Renewal
 
-&emsp;The Secretary may approve or disapprove a request from a State for renewal of an existing waiver under this subchapter for a period no longer than one year. A State seeking to renew their waiver approval must inform the Secretary of this intent no later than 30 days prior to the expiration date of the waiver. The State shall re-certify in its extension request the provisions in paragraph (2) of this subchapter, and shall also explain the need for additional time of relief from such sanction(s) or provisions approved under this law as provided in this subchapter.
+&emsp;The Secretary may approve or disapprove a request from a State for renewal of an existing waiver under this subchapter for a period nolonger than one year. A State seeking to renew their waiver approval must inform the Secretary of this intent no later than 30 days prior to the expiration date of the waiver. The State shall re-certify in its extension request the provisions in paragraph (2) of this subchapter, and shall also explain the need for additional time of relief from such sanction(s) or provisions approved under this law as provided in this subchapter.
 
 #### (8) Restrictions
 
@@ -117,10 +117,6 @@ Subsec. (b)(2)(A). Pub. L. 104–193, §609(2), in closing provisions, substitut
 <b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1996 Amendment
 

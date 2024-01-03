@@ -72,7 +72,7 @@ The Agency for International Development shall ensure that development activitie
 
 &emsp;&emsp;(A) to promote democratization, good governance, and strong civil societies in sub-Saharan Africa; and
 
-&emsp;&emsp;(B) to strengthen conflict resolution capabilities of governmental, intergovernmental, and nongovernmental entities in sub-Saharan Africa.
+&emsp;&emsp;(B) to strengthen conflict resolution capabilities of governmental, intergovernmental,and nongovernmental entities in sub-Saharan Africa.
 
 #### (4) Other assistance
 

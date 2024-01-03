@@ -30,7 +30,7 @@
 
 &emsp;(B) the period of time over which the covered person wishes to make contributions under this subsection.
 
-(c) If a covered person who makes contributions under section 8432(a) makes contributions under subsection (b), the agency employing the person shall make those contributions to the Thrift Savings Fund on the person's behalf in the same manner as contributions are made for an employee described in section 8432b(a) under sections 8432b(c), 8432b(d), and 8432b(f). Amounts paid under this subsection shall be paid in the same manner as amounts are paid under section 8432b(g).
+(c) If a covered person who makes contributions under section 8432(a) makes contributions under subsection (b), the agency employing the person shall make those contributions to the Thrift Savings Fund on the person's behalf in the same manner as contributions are made for an employee described in section 8432b(a) under sections 8432b(c), 8432b(d), and 8432b(f). Amountspaid under this subsection shall be paid in the same manner as amounts are paid under section 8432b(g).
 
 (d) For purposes of any computation under this section, a covered person shall, with respect to the period described in subsection (b)(2)(A), be considered to have been paid at the rate which would have been payable over such period had the person remained continuously employed in the position that the person last held before transferring to the international organization.
 

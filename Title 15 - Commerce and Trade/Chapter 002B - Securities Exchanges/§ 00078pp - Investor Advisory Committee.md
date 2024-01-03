@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(i) represent the interests of individual equity and debt investors, including investors in mutual funds;
 
-&emsp;&emsp;&emsp;(ii) represent the interests of institutional investors, including the interests of pension funds and registered investment companies;
+&emsp;&emsp;&emsp;(ii) represent the interests of institutional investors, including the interests ofpension funds and registered investment companies;
 
 &emsp;&emsp;&emsp;(iii) are knowledgeable about investment issues and decisions; and
 

@@ -30,7 +30,7 @@
 
 #### (B) Additional research into high-risk critical domains
 
-&emsp;&emsp;Based on the identification and risk analysis of United States critical domains for economic security pursuant to paragraph (1) and subparagraph (A) of this paragraph, respectively, the Secretary may conduct additional research into those critical domains, or specific elements thereof, with respect to which there exists the highest degree of a present or future threat to homeland security in the event of disruption, corruption, exploitation, or dysfunction to such a domain. For each such high-risk domain, or element thereof, such research shall—
+&emsp;&emsp;Based on the identification and risk analysis of United States critical domains for economic security pursuant to paragraph (1)and subparagraph (A) of this paragraph, respectively, the Secretary may conduct additional research into those critical domains, or specific elements thereof, with respect to which there exists the highest degree of a present or future threat to homeland security in the event of disruption, corruption, exploitation, or dysfunction to such a domain. For each such high-risk domain, or element thereof, such research shall—
 
 &emsp;&emsp;&emsp;(i) describe the underlying infrastructure and processes;
 

@@ -2,7 +2,7 @@
 
 As used in this subchapter:
 
-&emsp;(1) The term "allocation" means an entry in the National Table of Frequency Allocations of a given frequency band for the purpose ofits use by one or more radiocommunication services.
+&emsp;(1) The term "allocation" means an entry in the National Table of Frequency Allocations of a given frequency band for the purpose of its use by one or more radiocommunication services.
 
 &emsp;(2) The term "assignment" means an authorization given to a station licensee to use specific frequencies or channels.
 
@@ -132,7 +132,7 @@ In general.—The Commission shall—
 
 &emsp;&emsp;"(A) revise the non-Federal allocation for the covered band to permit flexible-use services; and
 
-&emsp;&emsp;"(B) notwithstanding paragraph (15)(A) of section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)), not later than December 31, 2021, begin a system of competitive bidding under that section togrant new initial licenses for the use of a portion or all of the covered band, subject to flexible-use service rules.
+&emsp;&emsp;"(B) notwithstanding paragraph (15)(A) of section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)), not later than December 31, 2021, begin a system of competitive bidding under that section to grant new initial licenses for the use of a portion or all of the covered band, subject to flexible-use service rules.
 
 &emsp;"(2)
 
@@ -210,7 +210,7 @@ Rule of Construction.—Nothing in this section shall be construed to affect any
 
 #### Study and Report on Current and Future Spectrum Use
 
-Pub. L. 106–553, §1(a)(2) \[title II\], Dec. 21, 2000, 114 Stat. 2762, 2762A–73, provided in part that the Administrator would, after consultation with other appropriate agencies, complete and submit to Congress not later than twelve months after Dec. 21, 2000, a study of the current and future use of spectrum by these entities to protect and maintain the nation's critical infrastructure and also provided that within six months after the release of this study, the Chairman of the Federal Ccommunication Commission was to submit a report to Congress on actions that could be taken by the Commission to address any needs identified in the study.
+Pub. L. 106–553, §1(a)(2) \[title II\], Dec. 21, 2000, 114 Stat. 2762, 2762A–73, provided in part that the Administrator would, after consultation with other appropriate agencies, complete and submit to Congress not later than twelve months after Dec. 21, 2000, a study of the current and future use of spectrum by these entities to protect and maintain the nation's critical infrastructure and also provided that within six months after therelease of this study, the Chairman of the Federal Ccommunication Commission was to submit a report to Congress on actions that could be taken by the Commission to address any needs identified in the study.
 
 #### Report on Progress on Spectrum Sharing
 
@@ -230,7 +230,7 @@ In general.—If, in order to make available for other use a band of frequencies
 
 "(2)
 
-Exception.—Paragraph (1) shall not apply to a band of frequencies that has been identified for reallocation in accordance with title VI of the OmnibusBudget Reconciliation Act of 1993 (Public Law 103–66; 107 Stat. 379) \[enacting sections 159 and 921 to 927 of this title and amending sections 152, 153, 156, 158, 309, 332, and 903 of this title\] and title III of the Balanced Budget Act of 1997 (Public Law 105–33, 111 Stat. 258) \[enacting section 337 of this title, amending sections 153, 303, 309, and 923 to 925 of this title, and repealing provisions set out as a note under section 309 of this title\], other than a band of frequencies that is reclaimed pursuant to subsection (c) \[amending section 923 of this title and enacting provisions set out as a note below\]."
+Exception.—Paragraph (1) shall not apply to a band of frequencies that has been identified for reallocation in accordance with title VI of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 107 Stat. 379) \[enacting sections 159 and 921 to 927 of this title and amending sections 152, 153, 156, 158, 309, 332, and 903 of this title\] and title III of the Balanced Budget Act of 1997 (Public Law 105–33, 111 Stat. 258) \[enacting section 337 of this title, amending sections 153, 303, 309, and 923 to 925 of this title, and repealing provisions set out as a note under section 309 of this title\], other than a band of frequencies that is reclaimed pursuant to subsection (c) \[amending section 923 of this title and enacting provisions set out as a note below\]."
 
 \[Pub. L. 108–494, title II, §206, Dec. 23, 2004, 118 Stat. 3996, provided that: "Nothing in this title \[see Short Title of 2004 Amendment note set out under section 901 of this title\] is intended to modify section 1062(b) of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65) \[set out above\]."\]
 

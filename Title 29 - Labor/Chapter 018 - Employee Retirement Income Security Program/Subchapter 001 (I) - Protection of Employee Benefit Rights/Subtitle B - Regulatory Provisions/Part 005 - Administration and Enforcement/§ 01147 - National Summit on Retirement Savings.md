@@ -2,7 +2,7 @@
 
 #### (a) Authority to call Summit
 
-Not later than July 15, 1998, the President shall convene a National Summit on RetirementIncome Savings at the White House, to be co-hosted by the President and the Speaker and the Minority Leader of the House of Representatives and the Majority Leader and Minority Leader of the Senate. Such a National Summit shall be convened thereafter in 2001 and 2005 on or after September 1 of each year involved. Such a National Summit shall—
+Not later than July 15, 1998, the President shall convene a National Summit on Retirement Income Savings at the White House, to be co-hosted by the President and the Speaker and the Minority Leader of the House of Representatives and the Majority Leader and Minority Leader of the Senate. Such a National Summit shall be convened thereafter in 2001 and 2005 on or after September 1 of each year involved. Such a National Summit shall—
 
 &emsp;(1) advance the public's knowledge and understanding of retirement savings and its critical importance to the future well-being of American workers and their families;
 
@@ -82,7 +82,7 @@ The scope of the National Summit shall consist of issues relating to individual 
 
 &emsp;&emsp;There shall be not more than 200 additional participants. Of such additional participants—
 
-&emsp;&emsp;&emsp;(i) one-half shall be appointed by the President, in consultation with the elected leaders of the President's party in Congress (either the Speaker of the House of Representatives or the Minority Leader of the House of Representatives, and eitherthe Majority Leader or the Minority Leader of the Senate; <sup>1</sup> and
+&emsp;&emsp;&emsp;(i) one-half shall be appointed by the President, in consultation with the elected leaders of the President's party in Congress (either the Speaker of the House of Representatives or the Minority Leader of the House of Representatives, and either the Majority Leader or the Minority Leader of the Senate; <sup>1</sup> and
 
 &emsp;&emsp;&emsp;(ii) one-half shall be appointed by the elected leaders of Congress of the party to which the President does not belong (one-half of that allotment to be appointed by either the Speaker of the House of Representatives or the Minority Leader of the House of Representatives, and one-half of that allotment to be appointed by either the Majority Leader or the Minority Leader of the Senate).
 
@@ -136,7 +136,7 @@ The Secretary shall prepare a report describing the activities of the National S
 
 #### (h) "State" defined
 
-For purposes of this section, the term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
+For purposes of this section, the term "State" means a State, the District of Columbia, theCommonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
 
 #### (i) Authorization of appropriations
 

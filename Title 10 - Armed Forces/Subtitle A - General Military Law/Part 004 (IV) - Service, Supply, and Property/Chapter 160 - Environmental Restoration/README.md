@@ -18,12 +18,15 @@
 | [2713\.](%C2%A7%2002713%20-%20Native%20American%20lands%20environmental%20mitigation%20program.md) | Native American lands environmental mitigation program. |
 | [2714\.](%C2%A7%2002714%20-%20Perfluoroalkyl%20Substances%20and%20Polyfluoroalkyl%20Substances%20Task%20Force.md) | Perfluoroalkyl Substances and Polyfluoroalkyl Substances Task Force. |
 | [2715\.](%C2%A7%2002715%20-%20Testing%20for%20perfluoroalkyl%20substances%20and%20polyfluoroalkyl%20substances%20at%20military%20installations%20and%20facilities%20of%20the%20National%20Guard.md) | Testing for perfluoroalkyl substances and polyfluoroalkyl substances at military installations and facilities of the National Guard. |
+| [2716\.](%C2%A7%2002716%20-%20Budget%20justification%20document%20for%20funding%20relating%20to%20perfluoroalkyl%20substances%20and%20polyfluoroalkyl%20substances.md) | Budget justification document for funding relating to perfluoroalkyl substances and polyfluoroalkyl substances. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title III, §332, Dec. 22, 2023, 137 Stat. 222, added item 2716. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title III, §341(b), Dec. 27, 2021, 135 Stat. 1642, added items 2714 and 2715.
 
@@ -66,3 +69,4 @@ Pub. L. 102–25, title VII, §701(e)(6), Apr. 6, 1991, 105 Stat. 114, substitut
 - [&sect; 02713 - Native American lands environmental mitigation program](%C2%A7%2002713%20-%20Native%20American%20lands%20environmental%20mitigation%20program.md)
 - [&sect; 02714 - Perfluoroalkyl Substances and Polyfluoroalkyl Substances Task Force](%C2%A7%2002714%20-%20Perfluoroalkyl%20Substances%20and%20Polyfluoroalkyl%20Substances%20Task%20Force.md)
 - [&sect; 02715 - Testing for perfluoroalkyl substances and polyfluoroalkyl substances at military installations and facilities of the National Guard](%C2%A7%2002715%20-%20Testing%20for%20perfluoroalkyl%20substances%20and%20polyfluoroalkyl%20substances%20at%20military%20installations%20and%20facilities%20of%20the%20National%20Guard.md)
+- [&sect; 02716 - Budget justification document for funding relating to perfluoroalkyl substances and polyfluoroalkyl substances](%C2%A7%2002716%20-%20Budget%20justification%20document%20for%20funding%20relating%20to%20perfluoroalkyl%20substances%20and%20polyfluoroalkyl%20substances.md)

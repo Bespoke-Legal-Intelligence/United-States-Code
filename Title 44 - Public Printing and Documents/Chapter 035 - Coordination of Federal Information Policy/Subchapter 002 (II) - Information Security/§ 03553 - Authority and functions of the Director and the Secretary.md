@@ -26,9 +26,9 @@ Secretary.—The Secretary, in consultation with the Director, shall administer 
 
 &emsp;(1) assisting the Director in carrying out the authorities and functions under paragraphs (1), (2), (3), (5), and (6) of subsection (a);
 
-&emsp;(2) developing and overseeing the implementation of binding operational directives toagencies to implement the policies, principles, standards, and guidelines developed by the Director under subsection (a)(1) and the requirements of this subchapter, which may be revised or repealed by the Director if the operational directives issued on behalf of the Director are not in accordance with policies, principles, standards, and guidelines developed by the Director, including—
+&emsp;(2) developing and overseeing the implementation of binding operational directives to agencies to implement the policies, principles, standards, and guidelines developed by the Director under subsection (a)(1) and the requirements of this subchapter, which may be revised or repealed by the Director if the operational directives issued on behalf of the Director are not in accordance with policies, principles, standards, and guidelines developed by the Director, including—
 
-&emsp;&emsp;(A) requirements for reporting security incidents to the Federal information security incident center established under section 3556;
+&emsp;&emsp;(A) requirements for reporting security incidents to the Federal information securityincident center established under section 3556;
 
 &emsp;&emsp;(B) requirements for the contents of the annual reports required to be submitted under section 3554(c)(1);
 
@@ -188,7 +188,7 @@ Limitation on delegation.—The authority under this paragraph may not be delega
 
 &emsp;&emsp;(C)
 
-Advance procedures.—The Secretary shall, in coordination with the Director, and in consultation with the heads of Federalagencies, establish procedures governing the circumstances under which the Secretary may authorize the use of the intrusion detection and prevention capabilities under subparagraph (A). The Secretary shall submit the procedures to Congress.
+Advance procedures.—The Secretary shall, in coordination with the Director, and in consultation with the heads of Federal agencies, establish procedures governing the circumstances under which the Secretary may authorize the use of the intrusion detection and prevention capabilities under subparagraph (A). The Secretary shall submit the procedures to Congress.
 
 &emsp;(4)
 
@@ -262,7 +262,7 @@ Subsecs. (h) to (j). Pub. L. 114–113, §229(a), added subsecs. (h) to (j).
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2018 Amendment
 

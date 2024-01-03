@@ -20,7 +20,7 @@
 
 #### (B) Pass rates and scaled scores
 
-&emsp;&emsp;For the most recent year for which the information is available for those students who took the assessments used for teacher certification or licensure by the State in which the program is located and are enrolled in the traditional teacher preparation program or alternative routes to State certification or licensure program, and for those who have taken such assessments andhave completed the traditional teacher preparation program or alternative routes to State certification or licensure program during the two-year period preceding such year, for each of such assessments—
+&emsp;&emsp;For the most recent year for which the information is available for those students who took the assessments used for teacher certification or licensure by the State in which the program is located and are enrolled in the traditional teacher preparation program or alternative routes to State certification or licensure program, and for those who have taken such assessments and have completed the traditional teacher preparation program or alternative routes to State certification or licensure program during the two-year period preceding such year, for each of such assessments—
 
 &emsp;&emsp;&emsp;(i) the percentage of students who have completed 100 percent of the nonclinical coursework and taken the assessment who pass such assessment;
 
@@ -74,7 +74,7 @@
 
 #### (4) Special rule
 
-&emsp;In the case of an institution of higher education that conducts a traditional teacher preparation program or alternative routes to State certification or licensure program and has fewer than 10 scores reported on any single initial teacher certification or licensure assessment during an academic year, the institution shall collect and publish information, as required under paragraph (1)(B), with respect to an average pass rate and scaled score on each State certification or licensure assessment taken over a three-year period.
+&emsp;In the case of an institution of higher education that conducts a traditional teacher preparation program or alternative routes to State certification or licensure program and has fewer than 10 scores reported on any singleinitial teacher certification or licensure assessment during an academic year, the institution shall collect and publish information, as required under paragraph (1)(B), with respect to an average pass rate and scaled score on each State certification or licensure assessment taken over a three-year period.
 
 #### (b) State report card on the quality of teacher preparation
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(D) For each of the assessments used by the State for teacher certification or licensure—
 
-&emsp;&emsp;&emsp;(i) for each institution of higher education located in the State and each entitylocated in the State, including those that offer an alternative route for teacher certification or licensure, the percentage of students at such institution or entity who have completed 100 percent of the nonclinical coursework and taken the assessment who pass such assessment;
+&emsp;&emsp;&emsp;(i) for each institution of higher education located in the State and each entity located in the State, including those that offer an alternative route for teacher certification or licensure, the percentage of students at such institution or entity who have completed 100 percent of the nonclinical coursework and taken the assessment who pass such assessment;
 
 &emsp;&emsp;&emsp;(ii) the percentage of all such students at all such institutions and entities who have taken the assessment who pass such assessment;
 

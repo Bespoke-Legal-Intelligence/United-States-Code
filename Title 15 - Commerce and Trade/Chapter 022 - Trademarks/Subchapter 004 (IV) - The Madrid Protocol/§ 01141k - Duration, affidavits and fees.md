@@ -2,7 +2,7 @@
 
 #### (a) Time periods for required affidavits
 
-Each extension of protection for which a certificate has been issued under section 1141i of this title shall remain in force for the term of the international registration upon which it is based, except that the extension of protection of any mark shall be canceled by the Director unless the holder of the international registration files in the United States Patent and Trademark Office affidavits that meet the requirements of subsection (b), within the following time periods:
+Each extension of protection for which a certificate has been issued under section 1141i of this title shall remain in force for the term of the international registration upon which it is based, except that the extension of protection of any mark shall be canceled by the Director unless the holder of the international registrationfiles in the United States Patent and Trademark Office affidavits that meet the requirements of subsection (b), within the following time periods:
 
 &emsp;(1) Within the 1-year period immediately preceding the expiration of 6 years following the date of issuance of the certificate of extension of protection.
 

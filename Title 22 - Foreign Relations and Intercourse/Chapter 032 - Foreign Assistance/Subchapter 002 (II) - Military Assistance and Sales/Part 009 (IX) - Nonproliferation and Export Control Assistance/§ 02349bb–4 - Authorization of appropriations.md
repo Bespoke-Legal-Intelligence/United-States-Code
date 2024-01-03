@@ -10,7 +10,7 @@ Funds made available under subsection (a) may be used notwithstanding any other 
 
 #### (c) Treatment of appropriations
 
-Amounts made available by the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002, under "Nonproliferation, Antiterrorism, Demining, and Related Programs" and "Assistance for the Independent States of the Former Soviet Union" accounts for the activities described in subsection (d) shall be considered to be made available pursuant to this part.
+Amounts made available by the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002, under "Nonproliferation, Antiterrorism, Demining, and Related Programs" and "Assistance for the Independent States of the Former Soviet Union" accountsfor the activities described in subsection (d) shall be considered to be made available pursuant to this part.
 
 #### (d) Covered activities
 
@@ -24,7 +24,7 @@ The activities referred to in subsection (c) are—
 
 &emsp;(4) export control and border assistance under part XI of subchapter I of this chapter or the FREEDOM Support Act (22 U.S.C. 5801 et seq.).
 
-(Pub. L. 87–195, pt. II, §586, formerly §585, as added Pub. L. 106–280, title III, §301, Oct. 6, 2000,114 Stat. 852; renumbered §586 and amended Pub. L. 107–228, div. B, title XIII, §§1301(a), 1303(1), Sept. 30, 2002, 116 Stat. 1435, 1436.)
+(Pub. L. 87–195, pt. II, §586, formerly §585, as added Pub. L. 106–280, title III, §301, Oct. 6, 2000, 114 Stat. 852; renumbered §586 and amended Pub. L. 107–228, div. B, title XIII, §§1301(a), 1303(1), Sept. 30, 2002, 116 Stat. 1435, 1436.)
 
 #### <b>Editorial Notes</b>
 

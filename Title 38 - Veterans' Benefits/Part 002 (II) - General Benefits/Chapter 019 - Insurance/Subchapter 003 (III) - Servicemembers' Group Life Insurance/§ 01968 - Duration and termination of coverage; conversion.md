@@ -32,13 +32,13 @@
 
 &emsp;&emsp;&emsp;(ii)(I) in the case of a member of the Ready Reserve of a uniformed service who meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title, 120 days after separation or release from such assignment; or
 
-&emsp;&emsp;&emsp;(II) in the case of any other member of the uniformed services, 120 days after the date of the member's separation or release from the uniformed services; or
+&emsp;&emsp;&emsp;(II) in the case of any other member of the uniformed services, 120 days after thedate of the member's separation or release from the uniformed services; or
 
 &emsp;&emsp;&emsp;(iii) 120 days after the termination of the dependent's status as an insurable dependent of the member.
 
 (b)(1) Each policy purchased under this subchapter shall contain a provision, in terms approved by the Secretary, that, except as hereinafter provided, Servicemembers' Group Life Insurance which is continued in force after expiration of the period of duty or travel under section 1967(b) or 1968(a) of this title, effective the day after the date such insurance would cease—
 
-&emsp;(A) shall be automatically converted to Veterans' Group Life Insurance (to insure against death of the member only), subject to (i) the timely payment of the initial premium underterms prescribed by the Secretary, and (ii) the terms and conditions set forth in section 1977 of this title; or
+&emsp;(A) shall be automatically converted to Veterans' Group Life Insurance (to insure against death of the member only), subject to (i) the timely payment of the initial premium under terms prescribed by the Secretary, and (ii) the terms and conditions set forth in section 1977 of this title; or
 
 &emsp;(B) at the election of the member, shall be converted to an individual policy of insurance as described in section 1977(e) of this title upon written application for conversion made to the participating company selected by the member and payment of the required premiums.
 
@@ -78,7 +78,7 @@ Subsec. (a)(1)(B). Pub. L. 109–233, §301(a)(2)(B), substituted "At" for "at" 
 
 Subsec. (a)(4). Pub. L. 109–233, §301(b), substantially rewrote par. (4). Prior to amendment, par. (4) read as follows: "With respect to a member of the Ready Reserve of a uniformed service who meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title, insurance under this subchapter shall cease 120 days after separation or release from such assignment, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such assignment, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after separation or release from such assignment."
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–14, §4(c)(1)(A), (2)(A), in introductory provisions, inserted "and any insurance thereunder on any insurable dependent of such a member," after "any insurance thereunder on any member of the uniformed services," and substituted "and such insurance shall cease as follows:" for ", and such insurance shall cease—".
+<b>2001</b>—Subsec. (a). Pub. L. 107–14, §4(c)(1)(A), (2)(A), in introductory provisions, inserted "and any insurance thereunder on any insurable dependent of such a member," after "any insurance thereunder on any memberof the uniformed services," and substituted "and such insurance shall cease as follows:" for ", and such insurance shall cease—".
 
 Subsec. (a)(1). Pub. L. 107–14, §4(c)(2)(B), (C)(i), in introductory provisions, substituted "With respect" for "with respect" and "31 days, insurance under this subchapter shall cease—" for "thirty-one days—".
 
@@ -88,7 +88,7 @@ Subsec. (a)(1)(B). Pub. L. 107–14, §4(c)(2)(C)(iii), substituted a period for
 
 Subsec. (a)(2). Pub. L. 107–14, §4(c)(2)(B), (D), substituted "With respect" for "with respect", "31 days," for "thirty-one days", and a period for semicolon at end and substituted "120 days" for "one hundred and twenty days" in two places.
 
-Subsec. (a)(3). Pub. L. 107–14, §4(c)(2)(B), (E), substituted "With respect" for "with respect" and a periodfor "; and" at end, inserted a comma after "competent authority", and substituted "120 days" for "one hundred and twenty days" in two places.
+Subsec. (a)(3). Pub. L. 107–14, §4(c)(2)(B), (E), substituted "With respect" for "with respect" and a period for "; and" at end, inserted a comma after "competent authority", and substituted "120 days" for "one hundred and twenty days" in two places.
 
 Subsec. (a)(4). Pub. L. 107–14, §4(c)(2)(B), (F) substituted "With respect" for "with respect" and inserted "insurance under this subchapter shall cease" after "section 1965(5) of this title,".
 
@@ -160,7 +160,7 @@ Subsec. (b). Pub. L. 99–576, §701(38)(C), substituted "the" for "he" before "
 
 <b>1982</b>—Subsec. (a)(5). Pub. L. 97–295 substituted "the amendment made by section 5(a) of the Veterans' Insurance Act of 1974 (Public Law 93–289, 88 Stat. 166)" for "this amendment".
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–289, §5(a)(1)–(3), inserted in opening provisions "or while the member meets the qualifications set forth in section 765(5)(B) or (C) of this title,", substituted "one hundred and twenty days" for"ninety days" wherever appearing in pars. (2) and (3), and added pars. (4) and (5).
+<b>1974</b>—Subsec. (a). Pub. L. 93–289, §5(a)(1)–(3), inserted in opening provisions "or while the member meets the qualifications set forth in section 765(5)(B) or (C) of this title,", substituted "one hundred and twenty days" for "ninety days" wherever appearing in pars. (2) and (3), and added pars. (4) and (5).
 
 Subsec. (b). Pub. L. 93–289, §5(a)(4), substituted provisions requiring policies of Servicemen's Group Life Insurance to contain a provision automatically converting such policy to Veterans' Group Life Insurance, for provisions which required such policies to contain a provision for conversion to an individual policy of insurance, and inserted sentences providing for the effective date of automatic conversion, prohibiting conversion of Servicemen's Group Life Insurance continued in force under section 768(a)(4)(B) or (5) of this title, and authorizing conversion by a member whose insurance could be continued in force under section 768(a)(4)(B) of this title, but is not so continued.
 

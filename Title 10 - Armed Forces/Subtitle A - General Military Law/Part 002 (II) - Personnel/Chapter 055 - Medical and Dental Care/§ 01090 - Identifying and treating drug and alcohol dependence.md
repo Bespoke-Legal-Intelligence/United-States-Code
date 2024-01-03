@@ -2,7 +2,7 @@
 
 The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations, implement procedures using each practical and available method, and provide necessary facilities to identify, treat, and rehabilitate members of the armed forces who are dependent on drugs or alcohol.
 
-(Added Pub. L. 97–295, §1(15)(A), Oct. 12, 1982, 96 Stat. 1290; amended Pub. L. 98–94, title XII, §1268(7), Sept. 24, 1983, 97 Stat. 706; Pub. L. 101–510, div. A, title V, §553, Nov. 5, 1990, 104 Stat. 1567; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 97–295, §1(15)(A), Oct. 12, 1982, 96 Stat. 1290; amended Pub. L. 98–94, title XII,§1268(7), Sept. 24, 1983, 97 Stat. 706; Pub. L. 101–510, div. A, title V, §553, Nov. 5, 1990, 104 Stat. 1567; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 
@@ -35,6 +35,40 @@ The word "regulations" is added for consistency. The word "persons" is omitted a
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
+#### Naloxone and Fentanyl: Regulations; Briefing
+
+Pub. L. 118–31, div. A, title VII, §706, Dec. 22, 2023, 137 Stat. 301, provided that:
+
+"(a)
+
+Regulations.—Not later than January 1, 2025, the Secretary of Defense, in coordination with the Secretaries of the military departments shall prescribe regulations regarding naloxone and fentanyl on military installations. Such regulations shall—
+
+&emsp;"(1) ensure that naloxone is available for members of the Armed Forces—
+
+&emsp;&emsp;"(A) on all military installations; and
+
+&emsp;&emsp;"(B) in each operational environment; and
+
+&emsp;"(2) establish a standardized tracking system—
+
+&emsp;&emsp;"(A) for naloxone distributed under paragraph (1); and
+
+&emsp;&emsp;"(B) of the illegal use of fentanyl and other controlled substances in the military departments.
+
+"(b)
+
+Briefing.—Not later than June 1, 2025, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a briefing regarding naloxone and fentanyl. Such briefing shall include the following elements:
+
+&emsp;"(1) Progress in the implementation of regulations prescribed under subsection (a).
+
+&emsp;"(2) The prevalence and incidence of the illegal use of fentanyl and other controlled substances in the military departments during the five years preceding the briefing.
+
+&emsp;"(3) Processes of the military departments to mitigate substance abuse, particularly with regards to fentanyl.
+
+"(c)
+
+Naloxone Defined.—In this section, the term 'naloxone' means naloxone and any other medication used to reverse opioid overdose."
 
 #### Pilot Program on Opioid Management in the Military Health System
 

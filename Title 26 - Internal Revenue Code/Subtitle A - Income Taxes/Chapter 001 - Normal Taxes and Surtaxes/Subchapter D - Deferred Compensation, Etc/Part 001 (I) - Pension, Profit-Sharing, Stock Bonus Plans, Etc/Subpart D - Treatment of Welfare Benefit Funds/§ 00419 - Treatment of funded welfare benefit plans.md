@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (B) Time when benefits provided
 
-&emsp;&emsp;For purposes of subparagraph (A), a benefit shall be treated as provided when such benefit would be includible in the gross income of the employee if provided directly by theemployer (or would be so includible but for any provision of this chapter excluding such benefit from gross income).
+&emsp;&emsp;For purposes of subparagraph (A), a benefit shall be treated as provided when such benefit would be includible in the gross income of the employee if provided directly by the employer (or would be so includible but for any provision of this chapter excluding such benefit from gross income).
 
 #### (C) 60-month amortization of child care facilities
 
@@ -202,7 +202,7 @@ Pub. L. 98–369, div. A, title V, §511(e), July 18, 1984, 98 Stat. 862, as ame
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this subpart\] shall apply to contributions paid or accrued after December 31, 1985, in taxable years ending after such date.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section\[enacting this subpart\] shall apply to contributions paid or accrued after December 31, 1985, in taxable years ending after such date.
 
 "(2)
 
@@ -252,5 +252,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Effective Date of Regulations
 
-Pub. L. 99–514, title XVIII, §1851(a)(8)(B), Oct. 22, 1986, 100 Stat. 2860, provided that: "Except in the case of a reserve for post-retirement medical or life insurancebenefits and any other arrangement between an insurance company and an employer under which the employer has a contractual right to a refund or dividend based solely on the experience of such employer, any account held for an employer by any person and defined as a fund in regulations issued pursuant to section 419(e)(3)(C) of the Internal Revenue Code of 1954 \[now 1986\] shall be considered a 'fund' no earlier than 6 months following the date such regulations are published in final form."
+Pub. L. 99–514, title XVIII, §1851(a)(8)(B), Oct. 22, 1986, 100 Stat. 2860, provided that: "Except in the case of a reserve for post-retirement medical or life insurance benefits and any other arrangement between an insurance company and an employer under which the employer has a contractual right to a refund or dividend based solely on the experience of such employer, any account held for an employer by any person and defined as a fund in regulations issued pursuant to section 419(e)(3)(C) of the Internal Revenue Code of 1954 \[now 1986\] shall be considered a 'fund' no earlier than 6 months following the date such regulations are published in final form."
 

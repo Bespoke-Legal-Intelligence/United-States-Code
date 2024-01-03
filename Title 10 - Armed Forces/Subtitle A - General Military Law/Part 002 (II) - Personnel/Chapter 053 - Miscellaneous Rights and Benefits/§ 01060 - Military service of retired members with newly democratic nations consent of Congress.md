@@ -52,7 +52,7 @@ Pub. L. 103–160, div. A, title XIV, §1433(d), Nov. 30, 1993, 107 Stat. 1835, 
 
 #### Restoration of Withheld Benefits
 
-Pub. L. 103–236, title I, §182(a), Apr. 30, 1994, 108 Stat. 418, as amended by Pub. L. 103–337, div. A, title X, §1070(d)(7), Oct. 5, 1994, 108 Stat. 2858; Pub. L. 103–415, §1(j), Oct. 25, 1994, 108 Stat. 4301, provided that: "With respect to any person for which the Secretary of State and the Secretary concerned within the Department of Defense have approved the employment or the holdingof a position pursuant to the provisions of section 1060 of title 10, United States Code, before April 30, 1994, the consents, approvals and determinations under that section shall be deemed to be effective as of January 1, 1993."
+Pub. L. 103–236, title I, §182(a), Apr. 30, 1994, 108 Stat. 418, as amended by Pub. L. 103–337, div. A, title X, §1070(d)(7), Oct. 5, 1994, 108 Stat. 2858; Pub. L. 103–415, §1(j), Oct. 25, 1994, 108 Stat. 4301, provided that: "With respect to any person for which the Secretary of State and the Secretary concerned within the Department of Defense have approved the employment or the holding of a position pursuant to the provisions of section 1060 of title 10, United States Code, before April 30, 1994, the consents, approvals and determinations under that section shall be deemed to be effective as of January 1, 1993."
 
 #### Congressional Findings
 

@@ -24,13 +24,13 @@ In addition to other taxes, there is hereby imposed on the income of each employ
 
 Subsec. (b). Pub. L. 107–90, §204(b), added subsec. (b).
 
-Pub. L. 107–90, §203(a), struck out subsec. (b) which read as follows: "In addition to other taxes, there is hereby imposed on the income of each employee representative a tax at a rate equal to the rate of excise tax imposed on every employer, provided for in section 3221(c), for each man-hour for which compensation is paid to him for services rendered as an employee representative."
+Pub. L. 107–90, §203(a), struck out subsec. (b) which read as follows: "In addition to other taxes, there ishereby imposed on the income of each employee representative a tax at a rate equal to the rate of excise tax imposed on every employer, provided for in section 3221(c), for each man-hour for which compensation is paid to him for services rendered as an employee representative."
 
 Subsec. (c). Pub. L. 107–90, §204(b), added subsec. (c).
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508 substituted "applicable" for "following" before "percentage of the" and provision defining the term "applicable percentage" for provision specifying that in the case of compensation received during 1985 the rate of tax was 14.10 percent, for 1986 or 1987 the rate was 14.30 percent, for 1988 or 1989 the rate was 15.02 percent, and for 1990 or thereafter the rate was 15.30 percent.
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–76, §223, substituted provisions imposing a two tiered tax on each employee representative equal to the percentage of the compensation received during any calendar year by such employee representative for services rendered as is set out in accompanying tables, for provisions that had imposed on each employee representative a tax equal to 12.75 percent plus the sum of the rates of tax imposed with respect to wages by sections 3101(a), 3101(b), 3111(a), and 3111(b) of so much of the compensation paid in any calendar month to such employee representative for services rendered by him as was not in excess of anamount equal to one-twelfth of the current maximum annual taxable "wage" as defined in section 3121 for any month.
+<b>1983</b>—Subsec. (a). Pub. L. 98–76, §223, substituted provisions imposing a two tiered tax on each employee representative equal to the percentage of the compensation received during any calendar year by such employee representative for services rendered as is set out in accompanying tables, for provisions that had imposed on each employee representative a tax equal to 12.75 percent plus the sum of the rates of tax imposed with respect to wages by sections 3101(a), 3101(b), 3111(a), and 3111(b) of so much of the compensation paid in any calendar month to such employee representative for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable "wage" as defined in section 3121 for any month.
 
 Pub. L. 98–76, §211(c), substituted "12.75 percent" for "11.75 percent".
 
@@ -74,7 +74,7 @@ Amendment by section 204(b) of Pub. L. 107–90 applicable to calendar years beg
 
 #### Effective and Termination Dates of 1983 Amendment
 
-Amendment by section 211(c) of Pub. L. 98–76 applicable to compensation paid for services rendered after Dec. 31, 1983, and before Jan. 1, 1985, see section 212 of Pub. L. 98–76, set out as a note under section 3201 of this title.
+Amendment by section 211(c) of Pub. L. 98–76 applicable to compensation paid for services rendered afterDec. 31, 1983, and before Jan. 1, 1985, see section 212 of Pub. L. 98–76, set out as a note under section 3201 of this title.
 
 Amendment by section 223 of Pub. L. 98–76 applicable to remuneration paid after Dec. 31, 1984, see section 227(a) of Pub. L. 98–76, set out as a note under section 3201 of this title.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 94–455 applicable with respect to compensation paid for s
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–93 applicable for taxable years ending on or after Aug. 9, 1975, and for taxable years ending before Aug. 9, 1975, as to which the periodfor assessment and collection of tax or the filing of a claim for credit or refund has not expired on Aug. 9, 1975, see section 207 of Pub. L. 94–93, set out as a note under section 3201 of this title.
+Amendment by Pub. L. 94–93 applicable for taxable years ending on or after Aug. 9, 1975, and for taxable years ending before Aug. 9, 1975, as to which the period for assessment and collection of tax or the filing of a claim for credit or refund has not expired on Aug. 9, 1975, see section 207 of Pub. L. 94–93, set out as a note under section 3201 of this title.
 
 #### Effective Date of 1973 Amendment
 

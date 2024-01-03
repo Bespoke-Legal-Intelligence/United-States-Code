@@ -70,7 +70,7 @@
 
 #### Amendments
 
-<b>2023</b>—Pub. L. 117–340, §2(a)(2)(B), (b)(2)(B), Jan. 5, 2023, 136 Stat. 6176, 6177, which directed amendment of the analyses for subchapters I and II of this chapter by adding items 220514 and 220530A, respectively, was executed by adding items 220514 and 220530A to the analysis for this chapter to reflect the probable intent of Congress.
+<b>2023</b>—Pub. L. 117–340, §2(a)(2)(B), (b)(2)(B), Jan. 5, 2023, 136 Stat. 6176, 6177, which directed amendment of theanalyses for subchapters I and II of this chapter by adding items 220514 and 220530A, respectively, was executed by adding items 220514 and 220530A to the analysis for this chapter to reflect the probable intent of Congress.
 
 <b>2020</b>—Pub. L. 116–189, §§4(a)(1), 6(c)(2), (f)(2), (g)(2), 7(a)(2)(B), 8(a)(2)(B), Oct. 30, 2020, 134 Stat. 944, 949, 955, 957, 966, added item 220513 and substituted "Powers and duties" for "Powers" in item 220505, "Reports and audits" for "Report" in item 220511, "Certification of national governing bodies" for "Recognition of amateur sports organizations as national governing bodies" in item 220521, and "Designation of United States Center for SafeSport" for "Designation of United States Center for Safe Sport" in item 220541.
 

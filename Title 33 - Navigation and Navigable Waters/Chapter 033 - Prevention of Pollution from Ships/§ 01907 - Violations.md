@@ -6,7 +6,7 @@ It is unlawful to act in violation of the MARPOL Protocol, Annex IV to the Antar
 
 #### (b) Investigations; subpenas: issuance by Secretary, enforcement; action by Secretary; information to party
 
-Upon receipt of evidence that a violation has occurred, the Secretary shall cause the matter to be investigated. In any investigation under this section the Secretary may issue subpenas to require the attendance of any witness and the production of documents and other evidence. In case of refusal to obey a subpena issued to any person, the Secretary may request the Attorney General to invoke the aid of the appropriate district court of the United States to compel compliance. Upon completion of the investigation, the Secretary shall take the action required by the MARPOL Protocol or the Antarctic Protocol and whatever further action he considers appropriate under the circumstances. If the initial evidence was provided by a party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, acting through the Secretary of State, shall inform that party of the action taken or proposed.
+Upon receipt of evidence that a violation has occurred, the Secretary shall cause the matter to be investigated. In any investigation under this section the Secretary may issue subpenas to require the attendance of any witness and theproduction of documents and other evidence. In case of refusal to obey a subpena issued to any person, the Secretary may request the Attorney General to invoke the aid of the appropriate district court of the United States to compel compliance. Upon completion of the investigation, the Secretary shall take the action required by the MARPOL Protocol or the Antarctic Protocol and whatever further action he considers appropriate under the circumstances. If the initial evidence was provided by a party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, acting through the Secretary of State, shall inform that party of the action taken or proposed.
 
 #### (c) Ship inspections; reports to Secretary; additional action
 
@@ -34,7 +34,7 @@ Upon receipt of evidence that a violation has occurred, the Secretary shall caus
 
 #### (f) Inspections; enforcement
 
-(1) The Secretary may inspect a ship to which this chapter applies as provided under section1902(a)(5) of this title, to verify whether the ship is in compliance with Annex VI to the Convention and this chapter.
+(1) The Secretary may inspect a ship to which this chapter applies as provided under section 1902(a)(5) of this title, to verify whether the ship is in compliance with Annex VI to the Convention and this chapter.
 
 (2) If an inspection under this subsection or any other information indicates that a violation has occurred, the Secretary, or the Administrator in a matter referred by the Secretary, may undertake enforcement action under this section.
 

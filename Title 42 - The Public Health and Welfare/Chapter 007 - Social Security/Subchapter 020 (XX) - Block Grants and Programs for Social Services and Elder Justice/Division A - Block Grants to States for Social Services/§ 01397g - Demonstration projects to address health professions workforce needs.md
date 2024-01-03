@@ -46,7 +46,7 @@
 
 #### (A) Eligible entity
 
-&emsp;&emsp;The term "eligible entity" means a State, an Indian tribe or tribal organization, an institution of higher education, a local workforce development board established under section 3122 of title 29, a sponsor of an apprenticeship program registered under the National Apprenticeship Act \[29 U.S.C. 50 et seq.\] or a community-based organization.
+&emsp;&emsp;The term "eligible entity" means a State, an Indian tribe or tribal organization, an institution of higher education, a local workforce development board established undersection 3122 of title 29, a sponsor of an apprenticeship program registered under the National Apprenticeship Act \[29 U.S.C. 50 et seq.\] or a community-based organization.
 
 #### (B) Eligible individual
 

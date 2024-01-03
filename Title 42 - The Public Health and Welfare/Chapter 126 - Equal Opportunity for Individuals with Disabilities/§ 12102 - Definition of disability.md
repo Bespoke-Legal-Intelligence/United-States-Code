@@ -66,7 +66,7 @@ As used in this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 The ADA Amendments Act of 2008, referred to in par. (4)(B), is Pub. L. 110–325, Sept. 25, 2008, 122 Stat. 3553. Section 2 of the Act, relating to the findings and purposes of the Act, is set out as a note under section 12101 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note under section 12101 of this title and Tables.
 

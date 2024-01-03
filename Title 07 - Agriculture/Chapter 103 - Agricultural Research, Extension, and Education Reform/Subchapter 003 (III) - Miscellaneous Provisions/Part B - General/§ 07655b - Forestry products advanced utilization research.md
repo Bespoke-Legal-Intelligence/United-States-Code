@@ -58,7 +58,7 @@ The initiative described in subsection (a) shall include the following activitie
 
 #### (d) Coordination
 
-The Secretary shall ensure that any activities carried out under this section are carried out in coordination with the Forest Service, including the Forest Products Laboratory, and other appropriate agencies of the Department.
+The Secretary shall ensure that any activities carried out under this section are carried out incoordination with the Forest Service, including the Forest Products Laboratory, and other appropriate agencies of the Department.
 
 #### (e) Report
 

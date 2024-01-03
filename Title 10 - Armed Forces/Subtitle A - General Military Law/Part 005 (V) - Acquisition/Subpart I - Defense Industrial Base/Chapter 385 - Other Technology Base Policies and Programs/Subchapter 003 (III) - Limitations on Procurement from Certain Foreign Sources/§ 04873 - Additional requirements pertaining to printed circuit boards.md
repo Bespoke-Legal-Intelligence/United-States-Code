@@ -86,7 +86,7 @@ Specified type.—The term "specified type" means a printed circuit board that i
 
 Rulemaking.—
 
-&emsp;(1) The Secretary may issue rules providing that subsection (a) may not apply with respect to an acquisition of commercial products, commercial services, and commercially available off-the-shelf items if—
+&emsp;(1) The Secretary may issue rules providing that subsection (a) may not apply with respectto an acquisition of commercial products, commercial services, and commercially available off-the-shelf items if—
 
 &emsp;&emsp;(A) the contractor is capable of meeting minimum requirements that the Secretary deems necessary to provide for the security of national security networks and weapon systems; including, at a minimum, compliance with section 224 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2302 note); and
 

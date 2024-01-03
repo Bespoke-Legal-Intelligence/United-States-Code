@@ -24,7 +24,7 @@
 
 #### (4) Feasibility report defined
 
-&emsp;In this subsection, the term "feasibility report" means each feasibility report, and any associated environmental impact statementand mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a project implementation report prepared under title VI of the Water Resources Development Act of 2000 (114 Stat. 2680–2694), a general reevaluation report, and a limited reevaluation report.
+&emsp;In this subsection, the term "feasibility report" means each feasibility report, and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a project implementation report prepared under title VI of the Water Resources Development Act of 2000 (114 Stat. 2680–2694), a general reevaluation report, and a limited reevaluation report.
 
 #### (b) Federal interest determination
 
@@ -62,7 +62,7 @@
 
 #### (5) Report to non-Federal interest
 
-&emsp;If, based on a determination under paragraph (1), the Secretary determines that a study or project is not in the Federal interest because the project will not result, or is unlikely to result, in a recommended plan that will produce national economic development benefits greater than cost, but may result in a technically sound and environmentally acceptable plan that is otherwise consistent with section 2281 of this title, the Secretary shall issue a report to the non-Federal interest with recommendations on how the non-Federal interest might modify the proposal such that the project could be in the Federal interest and feasible.
+&emsp;If, based on a determination under paragraph (1), the Secretary determines that a study or project is not in the Federal interest because the project will not result, or is unlikely to result, in a recommended plan that will produce national economic development benefits greater than cost, but may result in a technically sound and environmentally acceptable plan that is otherwise consistent with section 2281 of this title, the Secretary shall issue a report to the non-Federal interest with recommendations on how the non-Federal interest might modify the proposal suchthat the project could be in the Federal interest and feasible.
 
 #### (c) Projects not specifically authorized by Congress
 
@@ -102,7 +102,7 @@ The Secretary shall undertake such measures as are necessary to ensure that stan
 
 #### (3) Non-Federal interest notification
 
-&emsp;Each District Engineer shall submit by certified mail the detailed project schedule underparagraph (2) to each relevant non-Federal interest—
+&emsp;Each District Engineer shall submit by certified mail the detailed project schedule under paragraph (2) to each relevant non-Federal interest—
 
 &emsp;&emsp;(A) for projects that have received funding from the General Investigations Account of the Corps of Engineers in the period beginning on October 1, 2009, and ending on June 10, 2014, not later than 180 days after the establishment of milestones under paragraph (1); and
 
@@ -138,7 +138,7 @@ This Act, referred to in subsec. (a)(3)(B), is Pub. L. 99–662, Nov. 17, 1986, 
 
 Section 903(b), referred to in subsec. (a)(3)(B), is section 903(b) of Pub. L. 99–662, title IX, Nov. 17, 1986, 100 Stat. 4184, which is not classified to the Code.
 
-The Water Resources Development Act of 2000, referred to in subsec. (a)(4), is Pub. L. 106–541, Dec. 11, 2000, 114 Stat. 2572. Title VI of the Act is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 2201 of this title and Tables.
+The Water Resources Development Act of 2000, referred to in subsec. (a)(4), is Pub. L. 106–541, Dec. 11,2000, 114 Stat. 2572. Title VI of the Act is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 2201 of this title and Tables.
 
 #### Amendments
 

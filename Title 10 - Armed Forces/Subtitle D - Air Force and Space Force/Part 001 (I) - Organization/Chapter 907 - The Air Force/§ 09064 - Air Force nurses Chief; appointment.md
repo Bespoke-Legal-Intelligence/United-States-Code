@@ -20,7 +20,7 @@ Subsec. (a). Pub. L. 116–92, §1731(a)(61), substituted "is" for "are". Amendm
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8069 of this title as section 9069 of this title.
 
-<b>2016</b>—Pub. L. 114–328, §502(nn)(2), amended section catchline generally, substituting "Air Force nurses: Chief; appointment" for "Air Force nurses: Chief and assistant chief; appointment; grade".
+<b>2016</b>—Pub. L. 114–328, §502(nn)(2), amended section catchline generally, substituting "Air Force nurses:Chief; appointment" for "Air Force nurses: Chief and assistant chief; appointment; grade".
 
 Subsec. (a). Pub. L. 114–328, §502(nn)(1)(A), substituted "Position of Chief" for "Positions of Chief and Assistant Chief" in heading and struck out "and assistant chief" after "There are a Chief" in text.
 

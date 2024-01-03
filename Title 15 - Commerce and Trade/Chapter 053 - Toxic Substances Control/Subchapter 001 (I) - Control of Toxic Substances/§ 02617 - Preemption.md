@@ -118,7 +118,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 #### (1) Discretionary exemptions
 
-&emsp;Upon application of a State or political subdivision of a State, the Administrator may, by rule, exempt from subsection (a), under such conditions as may be prescribed in the rule, a statute, criminal penalty, or administrative action of that State or political subdivision of the State that relates to the effects of exposure to a chemical substance under the conditions of use if the Administrator determines that—
+&emsp;Upon application of a State or political subdivision of a State, the Administrator may, by rule, exempt from subsection (a), under suchconditions as may be prescribed in the rule, a statute, criminal penalty, or administrative action of that State or political subdivision of the State that relates to the effects of exposure to a chemical substance under the conditions of use if the Administrator determines that—
 
 &emsp;&emsp;(A) compelling conditions warrant granting the waiver to protect health or the environment;
 
@@ -144,7 +144,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 &emsp;&emsp;(iii) the State or political subdivision of the State has a concern about the chemical substance or use of the chemical substance based in peer-reviewed science; or
 
-&emsp;&emsp;(B) no later than the date that is 18 months after the date on which the Administrator has initiated the prioritization process for a chemical substance under the rule promulgated pursuant to section 2605(b)(1)(A) of this title, or the date on which the Administrator publishes the scope of the risk evaluation for a chemical substance under section 2605(b)(4)(D) of this title, whichever is sooner, the State or political subdivision of the State has enacted a statute or proposed or finalized an administrative action intended to prohibit or otherwise restrict the manufacture, processing,distribution in commerce, or use of the chemical substance.
+&emsp;&emsp;(B) no later than the date that is 18 months after the date on which the Administrator has initiated the prioritization process for a chemical substance under the rule promulgated pursuant to section 2605(b)(1)(A) of this title, or the date on which the Administrator publishes the scope of the risk evaluation for a chemical substance under section 2605(b)(4)(D) of this title, whichever is sooner, the State or political subdivision of the State has enacted a statute or proposed or finalized an administrative action intended to prohibit or otherwise restrict the manufacture, processing, distribution in commerce, or use of the chemical substance.
 
 #### (3) Determination of a waiver request
 

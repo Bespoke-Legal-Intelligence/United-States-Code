@@ -98,7 +98,7 @@ In this section:
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;The Administrator of FEMA may waive the limitation in clause (i) with respect to a grant recipient if the Administrator of FEMA determines that such recipient has an extraordinary need for a grant in anamount that exceeds the limit under clause (i).
+&emsp;&emsp;&emsp;The Administrator of FEMA may waive the limitation in clause (i) with respect to a grant recipient if the Administrator of FEMA determines that such recipient has an extraordinary need for a grant in an amount that exceeds the limit under clause (i).
 
 #### (3) Use of grant funds
 
@@ -194,7 +194,7 @@ In this section:
 
 #### (4) Limitation
 
-&emsp;None of the funds made available under this subsection may be provided to the Associationof Community Organizations for Reform Now (ACORN) or any of its affiliates, subsidiaries, or allied organizations.
+&emsp;None of the funds made available under this subsection may be provided to the Association of Community Organizations for Reform Now (ACORN) or any of its affiliates, subsidiaries, or allied organizations.
 
 #### (e) Applications for grants
 
@@ -242,7 +242,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Administrator of FEMA shall, after consultation with national fire service and emergency medical services organizations, appoint fire service personnel to conduct peer reviews of applications received under subsection (e)(1).
+&emsp;The Administrator of FEMA shall, after consultation with national fire service and emergency medical services organizations, appoint fire service personnel to conduct peer reviewsof applications received under subsection (e)(1).
 
 #### (2) Applicability of chapter 10 of title 5
 

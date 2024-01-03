@@ -8,7 +8,7 @@
 
 (c) A member of the Capitol Police who is otherwise eligible for immediate retirement under section 8336(m) shall be separated from the service on the last day of the month in which such member becomes 57 years of age or completes 20 years of service if then over that age. The Capitol Police Board, when in its judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Board shall notify the member in writing of the date of separation at least 60 days in advance thereof. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
 
-(d) A member of the Supreme Court Police who is otherwise eligible for immediate retirement under section 8336(n) shall be separated from the service on the last day of the month in which such member becomes 57 years of age or completes 20 years of service if then over that age. The Marshal of the Supreme Court of the United States, when in his judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Marshal shall notify the member in writing of the date of separation at least 60 days in advance thereof. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
+(d) A member of the Supreme Court Police who is otherwise eligible for immediate retirement under section 8336(n) shall be separatedfrom the service on the last day of the month in which such member becomes 57 years of age or completes 20 years of service if then over that age. The Marshal of the Supreme Court of the United States, when in his judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Marshal shall notify the member in writing of the date of separation at least 60 days in advance thereof. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
 
 (f) <sup>2</sup> The President, by Executive order, may exempt an employee (other than a member of the Capitol Police or the Supreme Court Police) from automatic separation under this section when he determines the public interest so requires.
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the f
 
 #### Effective Date of 2003 Amendments
 
-Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to anyannuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
+Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
 
 Pub. L. 108–7, div. J, title VI, §648(b), Feb. 20, 2003, 117 Stat. 474, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as of January 1, 2003."
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 93–350 effective Jan. 1, 1978, see section 7 of Pub. L. 9
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, set out as an Effective Date note under section 3381 of this title.
+Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, setout as an Effective Date note under section 3381 of this title.
 
 #### Exemption Process To Delay Mandatory Retirement for Air Traffic Controllers
 

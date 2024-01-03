@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall require that, as part of an application for a grant under this subpart, each applicant shall maintain a file, with respect to each Indian child for whom the local educational agency provides a free public education, that contains a form that sets forth information establishing the status of the child as an Indian child eligible for assistance under this subpart, and that otherwise meets the requirements ofsubsection (b). All individual data collected shall be protected by the local educational agencies and only aggregated data shall be reported to the Secretary.
+The Secretary shall require that, as part of an application for a grant under this subpart, each applicant shall maintain a file, with respect to each Indian child for whom the local educational agency provides a free public education, that contains a form that sets forth information establishing the status of the child as an Indian child eligible for assistance under this subpart, and that otherwise meets the requirements of subsection (b). All individual data collected shall be protected by the local educational agencies and only aggregated data shall be reported to the Secretary.
 
 #### (b) Forms
 
@@ -80,7 +80,7 @@ Notwithstanding any other provision of this section, in calculating the amount o
 
 For purposes of determining the number of children to be counted in calculating the amount of a local educational agency's grant under this subpart (other than in the case described in subsection (f)(1)), the local educational agency shall—
 
-&emsp;(1) establish a date on, or a period not longer than 31 consecutive days during, which the agency counts those children, if that date or period occurs before the deadline establishedby the Secretary for submitting an application under section 7424 of this title; and
+&emsp;(1) establish a date on, or a period not longer than 31 consecutive days during, which the agency counts those children, if that date or period occurs before the deadline established by the Secretary for submitting an application under section 7424 of this title; and
 
 &emsp;(2) determine that each such child was enrolled, and receiving a free public education, in a school of the agency on that date or during that period, as the case may be.
 

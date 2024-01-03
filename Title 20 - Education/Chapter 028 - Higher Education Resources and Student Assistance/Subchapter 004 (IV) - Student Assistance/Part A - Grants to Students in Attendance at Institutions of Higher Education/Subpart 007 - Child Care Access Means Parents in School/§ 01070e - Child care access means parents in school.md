@@ -72,7 +72,7 @@ An institution of higher education desiring a grant under this section shall sub
 
 &emsp;(2) specify the amount of funds requested;
 
-&emsp;(3) demonstrate the need of low-income students at the institution for campus-basedchild care services by including in the application—
+&emsp;(3) demonstrate the need of low-income students at the institution for campus-based child care services by including in the application—
 
 &emsp;&emsp;(A) information regarding student demographics;
 
@@ -152,7 +152,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 A prior section 1070e, Pub. L. 89–329, title IV, §420, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1346, related to payments to institutions of higher education, prior to repeal by Pub. L. 102–325, title IV, §407, July 23, 1992, 106 Stat. 510.
 
-Another prior section 1070e, Pub. L. 89–329, title IV, §420, formerly §419, as added Pub. L. 92–318, title X,§1001(a), June 23, 1972, 86 Stat. 375; amended Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503; renumbered Pub. L. 98–558, title VIII, §801(b)(1), Oct. 30, 1984, 98 Stat. 2902, related to payments to institutions of higher education, prior to the general amendment of this part by Pub. L. 99–498.
+Another prior section 1070e, Pub. L. 89–329, title IV, §420, formerly §419, as added Pub. L. 92–318, title X, §1001(a), June 23, 1972, 86 Stat. 375; amended Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503; renumbered Pub. L. 98–558, title VIII, §801(b)(1), Oct. 30, 1984, 98 Stat. 2902, related to payments to institutions of higher education, prior to the general amendment of this part by Pub. L. 99–498.
 
 A prior section 1070e–1, Pub. L. 89–329, title IV, §420A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1348; amended Pub. L. 100–50, §8, June 3, 1987, 101 Stat. 341; Pub. L. 102–54, §13(g)(2), June 13, 1991, 105 Stat. 275; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, related to veterans education outreach program, prior to repeal by Pub. L. 102–325, title IV, §408, July 23, 1992, 106 Stat. 510.
 

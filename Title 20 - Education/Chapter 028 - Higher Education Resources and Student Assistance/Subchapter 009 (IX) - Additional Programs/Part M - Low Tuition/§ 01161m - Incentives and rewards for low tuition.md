@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) have an annual tuition and fee increase, expressed as a percentage change, for the most recent academic year for which satisfactory data is available, that is in the lowest 20 percent of such increases for each category described in subsection (b);
 
-&emsp;&emsp;(B) are public institutions of higher education that have tuition and fees that are inthe lowest quartile of institutions in each category described in subsection (b)(1), (b)(4), or (b)(7); or
+&emsp;&emsp;(B) are public institutions of higher education that have tuition and fees that are in the lowest quartile of institutions in each category described in subsection (b)(1), (b)(4), or (b)(7); or
 
 &emsp;&emsp;(C) are public institutions of higher education that have a tuition and fee increase of less than $600 for a first-time, full-time undergraduate student.
 
@@ -42,7 +42,7 @@ The categories of institutions described in subsection (a) shall be the followin
 
 #### (1) Bonus
 
-&emsp;For each institution of higher education that the Secretary determines complies with the requirements of paragraph (2) or (3) of this subsection, the Secretary shall provide to such institution a bonus amount. Such institution shall award the bonus amount in the form of need-based aid first to students who are eligible for Federal Pell Grants who were in attendance at the institution during the award year that such institution satisfied the eligibility criteria for maintaining low tuition and fees, then to students who are eligible for Federal Pell Grants who were not in attendance at the institution during such award year.
+&emsp;For each institution of higher education that the Secretary determines complies with the requirements of paragraph (2) or (3) of this subsection, the Secretary shall provide to such institution a bonus amount. Such institution shall award the bonus amount in the form ofneed-based aid first to students who are eligible for Federal Pell Grants who were in attendance at the institution during the award year that such institution satisfied the eligibility criteria for maintaining low tuition and fees, then to students who are eligible for Federal Pell Grants who were not in attendance at the institution during such award year.
 
 #### (2) Four-year institutions
 

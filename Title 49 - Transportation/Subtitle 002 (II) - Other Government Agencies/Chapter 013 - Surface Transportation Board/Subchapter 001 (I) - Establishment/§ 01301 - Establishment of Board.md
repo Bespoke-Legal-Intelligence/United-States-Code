@@ -50,7 +50,7 @@ Subsec. (a). Pub. L. 114–110, §3(b), added subsec. (a) and struck out former 
 
 Subsec. (b)(1). Pub. L. 114–110, §4(a)(1), substituted "5 members" for "3 members" and "3 members" for "2 members".
 
-Subsec. (b)(2). Pub. L. 114–110, §4(a)(2), added par. (2) and struck out former par. (2) which read as follows: "At any given time, at least 2 members of the Board shall be individuals with professional standing and demonstrated knowledge in the fields of transportation or transportation regulation, and at least one membershall be an individual with professional or business experience (including agriculture) in the private sector."
+Subsec. (b)(2). Pub. L. 114–110, §4(a)(2), added par. (2) and struck out former par. (2) which read as follows: "At any given time, at least 2 members of the Board shall be individuals with professional standing and demonstrated knowledge in the fields of transportation or transportation regulation, and at least one member shall be an individual with professional or business experience (including agriculture) in the private sector."
 
 Subsec. (b)(4). Pub. L. 114–110, §4(b)(3), struck out "who becomes a member of the Board pursuant to paragraph (4), or an individual" after "In the case of an individual".
 
@@ -128,7 +128,7 @@ Pub. L. 104–88, title II, §203, Dec. 29, 1995, 109 Stat. 941, provided that:
 
 "(a)
 
-To Board.—Except as otherwise provided in this Act \[see Tables for classification\] and the amendments made by this Act, those personnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Board \[Surface Transportation Board\] by this Act shall be transferred to the Board for use in connection with the functions transferred, and unexpended balances of appropriations, allocations, and other funds of the Interstate Commerce Commission shall also be transferred to the Board. Such unexpended balances, allocations, and other funds, together with any unobligated balances from user fees collected by the Commission during fiscal year 1996, may be used to pay for the closedown of the Commission and severance costs for Commission personnel, regardless of whether those costs are incurred at the Commission or at the Board.
+To Board.—Except as otherwise provided in this Act \[see Tables for classification\] and the amendments made by this Act, those personnel, property, andrecords employed, used, held, available, or to be made available in connection with a function transferred to the Board \[Surface Transportation Board\] by this Act shall be transferred to the Board for use in connection with the functions transferred, and unexpended balances of appropriations, allocations, and other funds of the Interstate Commerce Commission shall also be transferred to the Board. Such unexpended balances, allocations, and other funds, together with any unobligated balances from user fees collected by the Commission during fiscal year 1996, may be used to pay for the closedown of the Commission and severance costs for Commission personnel, regardless of whether those costs are incurred at the Commission or at the Board.
 
 "(b)
 

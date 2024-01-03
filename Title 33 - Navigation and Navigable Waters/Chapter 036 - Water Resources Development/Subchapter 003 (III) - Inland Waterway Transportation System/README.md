@@ -80,7 +80,7 @@ Non-federal interest.—The term 'non-Federal interest' means any public body de
 
 "(b)
 
-Authorization of Pilot Program.—The Secretary \[of the Army\] is authorized to carry out a pilot program for modernization activities on the inland waterways system.
+Authorization of Pilot Program.—The Secretary \[of the Army\] is authorized to carry out a pilotprogram for modernization activities on the inland waterways system.
 
 "(c)
 

@@ -144,6 +144,26 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of a beneficiary who receives a refund of any qualified higher education expenses from an eligible educational institution, subparagraph (A) shall not apply to that portion of any distribution for the taxable year which is recontributed to a qualified tuition program of which such individual is a beneficiary, but only to the extent such recontribution is made not later than 60 days after the date of such refund and does not exceed the refunded amount.
 
+#### (E) Special rollover to roth iras from long-term qualified tuition programs
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of a distribution from a qualified tuition program of a designated beneficiary which has been maintained for the 15-year period ending on the date of such distribution, subparagraph (A) shall not apply to so much the portion of such distribution which—
+
+&emsp;&emsp;&emsp;&emsp;(I) does not exceed the aggregate amount contributed to the program (and earnings attributable thereto) before the 5-year period ending on the date of the distribution, and
+
+&emsp;&emsp;&emsp;&emsp;(II) is paid in a direct trustee-to-trustee transfer to a Roth IRA maintained for the benefit of such designated beneficiary.
+
+#### (ii) Limitations
+
+#### (I) Annual limitation
+
+&emsp;&emsp;&emsp;Clause (i) shall only apply to so much of any distribution as does not exceed the amount applicable to the designated beneficiary under section 408A(c)(2) for the taxable year (reduced by the amount of aggregate contributions made during the taxable year to all individual retirement plans maintained for the benefit of the designated beneficiary).
+
+#### (II) Aggregate limitation
+
+&emsp;&emsp;&emsp;This subparagraph shall not apply to any distribution described in clause (i) to the extent that the aggregate amount of such distributions with respect to the designated beneficiary for such taxable year and all prior taxable years exceeds $35,000.
+
 #### (4) Estate tax treatment
 
 #### (A) In general
@@ -180,7 +200,7 @@ For purposes of this section—
 
 #### (7) Treatment of elementary and secondary tuition
 
-&emsp;Any reference in this subsection to the term "qualified higher education expense" shall include a reference to expenses for tuition in connection with enrollment or attendance at an elementary or secondary public, private, or religious school.
+&emsp;Any reference in this subsection to the term "qualified higher education expense" shall include a reference to expenses for tuition inconnection with enrollment or attendance at an elementary or secondary public, private, or religious school.
 
 #### (8) Treatment of certain expenses associated with registered apprenticeship programs
 
@@ -208,7 +228,13 @@ For purposes of this section—
 
 #### (d) Reports
 
-Each officer or employee having control of the qualified tuition program or their designee shall make such reports regarding such program to the Secretary and to designated beneficiaries with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
+#### (1) In general
+
+&emsp;Each officer or employee having control of the qualified tuition program or their designee shall make such reports regarding such program to the Secretary and to designated beneficiaries with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this paragraph shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
+
+#### (2) Rollover distributions
+
+&emsp;In the case of any distribution described in subsection (c)(3)(E), the officer or employee having control of the qualified tuition program (or their designee) shall provide a report to the trustee of the Roth IRA to which the distribution is made. Such report shall be filed at such time and in such manner as the Secretary may require and shall include information with respect to the contributions, distributions, and earnings of the qualified tuition program as of the date of the distribution described in subsection (c)(3)(A), together with such other matters as the Secretary may require.
 
 #### (e) Other definitions and special rules
 
@@ -248,7 +274,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) expenses for the purchase of computer or peripheral equipment (as defined in section 168(i)(2)(B)), computer software (as defined in section 197(e)(3)(B)), or Internet access and related services, if such equipment, software, or services are to be used primarily by the beneficiary during any of the years the beneficiary is enrolled at an eligible educational institution.
 
-> &emsp;&emsp;Clause (iii) shall not include expenses for computer software designed for sports, games, or hobbies unless the software is predominantly educational in nature. The amount of cash distributions from all qualified tuition programs described in subsection (b)(1)(A)(ii) with respect to a beneficiary during any taxable year shall, in the aggregate, include not more than $10,000 in expenses described in subsection (c)(7) incurred during the taxable year.
+> &emsp;&emsp;Clause (iii) shall not include expenses for computer software designed for sports, games, or hobbies unless the software is predominantly educational in nature. The amount of cash distributions from all qualified tuition programs described in subsection (b)(1)(A)(ii) with respect to a beneficiary during any taxable year shall, in theaggregate, include not more than $10,000 in expenses described in subsection (c)(7) incurred during the taxable year.
 
 #### (B) Room and board included for students who are at least half-time
 
@@ -281,50 +307,6 @@ For purposes of this section—
 Notwithstanding any other provision of this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section and to prevent abuse of such purposes, including regulations under chapters 11, 12, and 13 of this title.
 
 (Added Pub. L. 104–188, title I, §1806(a), Aug. 20, 1996, 110 Stat. 1895; amended Pub. L. 105–34, title II, §211(a), (b), (d), (e)(2)(A), title XVI, §1601(h)(1)(A), (B), Aug. 5, 1997, 111 Stat. 810, 812, 1092; Pub. L. 105–206, title VI, §6004(c)(2), (3), July 22, 1998, 112 Stat. 793; Pub. L. 106–554, §1(a)(7) \[title III, §319(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §402(a)(1)–(3), (4)(A), (C), (D), (b)(1), (c)–(g), June 7, 2001, 115 Stat. 60–63; Pub. L. 107–22, §1(b)(3)(C), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §417(11), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(21), title IV, §406(a), Oct. 4, 2004, 118 Stat. 1178, 1189; Pub. L. 109–135, title IV, §412(ee)(3), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XIII, §1304(b), Aug. 17, 2006, 120 Stat. 1110; Pub. L. 111–5, div. B, title I, §1005(a), Feb. 17, 2009, 123 Stat. 316; Pub. L. 113–295, div. B, title I, §105(a), Dec. 19, 2014, 128 Stat. 4064; Pub. L. 114–113, div. Q, title III, §302(a)(1), (b)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3086; Pub. L. 115–97, title I, §§11025(a), 11032(a), Dec. 22, 2017, 131 Stat. 2076, 2081; Pub. L. 115–141, div. U, title I, §101(l)(15), title IV, §401(a)(127), (128), Mar. 23, 2018, 132 Stat. 1165, 1190; Pub. L. 116–94, div. O, title III, §302(a), (b)(1), Dec. 20, 2019, 133 Stat. 3175; Pub. L. 117–328, div. T, title I, §126(a), (c), Dec. 29, 2022, 136 Stat. 5316, 5317.)
-
-#### Amendment of Section
-
-<i>Pub. L. 117–328, div. T, title I, §126(a), (c), (d), Dec. 29, 2022, 136 Stat. 5316, 5317, provided that, applicable with respect to distributions after Dec. 31, 2023, this section is amended as follows:</i>
-
-<i>(1) subsection (c)(3) is amended by adding at the end the following new subparagraph:</i>
-
-#### <i>"(E) Special rollover to roth iras from long-term qualified tuition programs</i>
-
-#### <i>"(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>"In the case of a distribution from a qualified tuition program of a designated beneficiary which has been maintained for the 15-year period ending on the date of such distribution, subparagraph (A) shall not apply to so much the portion of such distribution which—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) does not exceed the aggregate amount contributed to the program (and earnings attributable thereto) before the 5-year period ending on the date of the distribution, and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) is paid in a direct trustee-to-trustee transfer to a Roth IRA maintained for the benefit of such designated beneficiary.</i>
-
-#### <i>"(ii) Limitations</i>
-
-#### <i>"(I) Annual limitation</i>
-
-&emsp;&emsp;&emsp;<i>"Clause (i) shall only apply to so much of any distribution as does not exceed the</i><i>amount applicable to the designated beneficiary under section 408A(c)(2) for the taxable year (reduced by the amount of aggregate contributions made during the taxable year to all individual retirement plans maintained for the benefit of the designated beneficiary).</i>
-
-#### <i>"(II) Aggregate limitation</i>
-
-&emsp;&emsp;&emsp;<i>"This subparagraph shall not apply to any distribution described in clause (i) to the extent that the aggregate amount of such distributions with respect to the designated beneficiary for such taxable year and all prior taxable years exceeds $35,000."; and</i>
-
-<i>(2) subsection (d) is amended—</i>
-
-<i>(A) by striking "Each officer" and inserting the following:</i>
-
-#### <i>"(1) In general</i>
-
-&emsp;<i>"Each officer";</i>
-
-<i>(B) by striking "by this subsection" and inserting "by this paragraph"; and</i>
-
-<i>(C) by adding at the end the following new paragraph:</i>
-
-#### <i>"(2) Rollover distributions</i>
-
-&emsp;<i>"In the case of any distribution described in subsection (c)(3)(E), the officer or employee having control of the qualified tuition program (or their designee) shall provide a report to the trustee of the Roth IRA to which the distribution is made. Such report shall be filed at such time and in such manner as the Secretary may require and shall include information with respect to the contributions, distributions, and earnings of the qualified tuition program as of the date of the distribution described in subsection (c)(3)(A), together with such other matters as the Secretary may require.".</i>
-
-<i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 

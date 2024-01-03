@@ -12,7 +12,7 @@ Title 4 of the Revised Statutes, referred to in text, was entitled "Provisions A
 
 #### Codification
 
-Section was formerly classified to section 591 of Title 5 prior to the general revision and enactment of Title5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 591 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -28,7 +28,7 @@ Functions of all other officers of Department of Commerce and functions of all a
 
 #### Deputy Secretary of Commerce
 
-For provisions directing the President to appoint a Deputy Secretary of Commerce, by and with the advice and consent of the Senate, with the Deputy Secretary to receive compensation at the rate payable for Level II of the Executive Schedule and with the Deputy Secretary to perform such duties and exercise such powers as the Secretary may from time to time prescribe, see section 2(b)(1) of 1979 Reorg. Plan No. 3, set out in the Appendix to Title 5, Government Organization and Employees.
+For provisions directing the President to appoint a Deputy Secretary of Commerce, by and with the advice and consent of the Senate, with the Deputy Secretaryto receive compensation at the rate payable for Level II of the Executive Schedule and with the Deputy Secretary to perform such duties and exercise such powers as the Secretary may from time to time prescribe, see section 2(b)(1) of 1979 Reorg. Plan No. 3, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Creation of the Office of Deputy Secretary of Commerce by section 2(b)(1) of 1979 Reorg. Plan. No. 3 effective Dec. 7, 1979, see Ex. Ord. 12175, set out as a note under section 2171 of Title 19, Customs Duties.
 

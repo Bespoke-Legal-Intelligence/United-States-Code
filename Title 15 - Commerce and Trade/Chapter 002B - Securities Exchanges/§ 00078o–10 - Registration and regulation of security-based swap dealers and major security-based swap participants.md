@@ -74,7 +74,7 @@
 
 #### (A) Security-based swap dealers and major security-based swap participants that are banks
 
-&emsp;&emsp;Each registered security-based swap dealer and major security-based swap participant for which there is not a prudential regulator shall meet such minimum capital requirements and minimum initial and variation margin requirements as the prudential regulator shall by rule or regulation prescribe under paragraph (2)(A).
+&emsp;&emsp;Each registered security-based swap dealer and major security-based swap participantfor which there is not a prudential regulator shall meet such minimum capital requirements and minimum initial and variation margin requirements as the prudential regulator shall by rule or regulation prescribe under paragraph (2)(A).
 
 #### (B) Security-based swap dealers and major security-based swap participants that are not banks
 
@@ -100,7 +100,7 @@
 
 #### (C) Capital
 
-&emsp;&emsp;In setting capital requirements for a person that is designated as a security-based swap dealer or a major security-based swap participant for a single type or single classor category of security-based swap or activities, the prudential regulator and the Commission shall take into account the risks associated with other types of security-based swaps or classes of security-based swaps or categories of security-based swaps engaged in and the other activities conducted by that person that are not otherwise subject to regulation applicable to that person by virtue of the status of the person.
+&emsp;&emsp;In setting capital requirements for a person that is designated as a security-based swap dealer or a major security-based swap participant for a single type or single class or category of security-based swap or activities, the prudential regulator and the Commission shall take into account the risks associated with other types of security-based swaps or classes of security-based swaps or categories of security-based swaps engaged in and the other activities conducted by that person that are not otherwise subject to regulation applicable to that person by virtue of the status of the person.
 
 #### (3) Standards for capital and margin
 
@@ -174,7 +174,7 @@
 
 #### (1) In general
 
-&emsp;Each registered security-based swap dealer and major security-based swap participantshall maintain daily trading records of the security-based swaps of the registered security-based swap dealer and major security-based swap participant and all related records (including related cash or forward transactions) and recorded communications, including electronic mail, instant messages, and recordings of telephone calls, for such period as may be required by the Commission by rule or regulation.
+&emsp;Each registered security-based swap dealer and major security-based swap participant shall maintain daily trading records of the security-based swaps of the registered security-based swap dealer and major security-based swap participant and all related records (including related cash or forward transactions) and recorded communications, including electronic mail, instant messages, and recordings of telephone calls, for such period as may be required by the Commission by rule or regulation.
 
 #### (2) Information requirements
 
@@ -522,7 +522,7 @@ Subtitle B of the Wall Street Transparency and Accountability Act of 2010, refer
 
 #### Effective Date
 
-Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 77b of this title.
+Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision ofsubtitle B, see section 774 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 77b of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "a".</i>
 

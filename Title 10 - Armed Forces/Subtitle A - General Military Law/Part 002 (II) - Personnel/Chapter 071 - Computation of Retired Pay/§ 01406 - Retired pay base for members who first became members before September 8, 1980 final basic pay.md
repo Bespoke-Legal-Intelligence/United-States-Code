@@ -28,7 +28,7 @@ Disability, warrant officer, and dopma retirement.—In the case of a person who
 |  |  |
 | &nbsp;580126312931305 | Monthly basic pay to which member would have been entitled if he had served on active duty in his retired grade on day before retirement, or if the pay of that grade is less than the pay of any warrant grade satisfactorily held by him on active duty, the monthly basic pay of that warrant officer grade. |
 |  |  |
-|  633 634 635 636125112521253 | Monthly basic pay <sup>2</sup> of member's retired grade.<sup>3</sup> |
+| &nbsp;633 634 635 636125112521253 | Monthly basic pay <sup>2</sup> of member's retired grade.<sup>3</sup> |
 
 <sup>1</sup> Compute at rates applicable on date of retirement or date when member's name was placed on temporary disability retired list, as the case may be.
 
@@ -212,7 +212,7 @@ Subsec. (e)(1). Pub. L. 115–232 substituted "In the case of a member whose ret
 
 <b>2014</b>—Subsec. (i). Pub. L. 113–291, §603(d)(1), inserted "Chief of the National Guard Bureau," after "Chiefs of Service," in heading.
 
-Subsec. (i)(1). Pub. L. 113–291, §603(d)(2), inserted "as Chief of the National Guard Bureau," after "Chief of Service," and "or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau" after "of an armed force".
+Subsec. (i)(1). Pub. L. 113–291, §603(d)(2), inserted "as Chief of the National Guard Bureau," after "Chief ofService," and "or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau" after "of an armed force".
 
 Subsec. (i)(3)(B)(vi). Pub. L. 113–291, §603(d)(3), struck out cl. (vi) which read as follows: "Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff."
 
@@ -276,7 +276,7 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Grade on Transfer to Retired Reserve
 

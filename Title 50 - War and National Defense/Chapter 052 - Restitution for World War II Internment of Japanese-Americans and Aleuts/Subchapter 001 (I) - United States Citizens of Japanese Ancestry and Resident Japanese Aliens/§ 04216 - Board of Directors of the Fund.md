@@ -34,7 +34,7 @@ The Board may make disbursements from the Fund only—
 
 #### (3) Compensation
 
-&emsp;Members of the Board shall serve without pay, except that members of the Board shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out the functions of the Board, in the same manner as personsemployed intermittently in the United States Government are allowed expenses under section 5703 of title 5.
+&emsp;Members of the Board shall serve without pay, except that members of the Board shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out the functions of the Board, in the same manner as persons employed intermittently in the United States Government are allowed expenses under section 5703 of title 5.
 
 #### (4) Quorum
 

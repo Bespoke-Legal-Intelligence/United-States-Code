@@ -12,7 +12,7 @@ As used in this chapter, the term—
 
 &emsp;(5) "recipient" means any grantee, contractor, or recipient of financial assistance under this chapter;
 
-&emsp;(6) "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States;
+&emsp;(6) "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands,Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States;
 
 &emsp;(7) "Supreme Court" means the highest appellate court within a State unless, for the purposes of this chapter, a constitutionally or legislatively established judicial council acts in place of that court; and
 

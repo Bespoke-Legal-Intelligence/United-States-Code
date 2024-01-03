@@ -30,7 +30,7 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
 #### Amendments
 
-<b>2022</b>—Subsec. (b). Pub. L. 117–103 amended subsec. (b) generally. Prior to amendment, text read as follows: "hereafter, make publicly available via searchable database, in their entirety without redactions except signatures, the following records after enactment of this Act for a subsequent period of three years:
+<b>2022</b>—Subsec. (b). Pub. L. 117–103 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "hereafter, make publicly available via searchable database, in their entirety without redactions except signatures, the following records after enactment of this Act for a subsequent period of three years:
 
 &emsp;"(1) all final Animal Welfare Act inspection reports, including all reports documenting all Animal Welfare Act non-compliances observed by USDA officials and all animal inventories;
 

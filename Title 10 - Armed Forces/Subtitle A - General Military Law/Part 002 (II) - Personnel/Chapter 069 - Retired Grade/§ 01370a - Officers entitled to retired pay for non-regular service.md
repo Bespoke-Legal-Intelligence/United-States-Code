@@ -18,7 +18,7 @@ In general.—In order to be credited with satisfactory service in an officer gr
 
 &emsp;(2)
 
-Satisfaction of requirement by certain officers not completing three years.—A person covered by paragraph (1) who has completed at least six months of satisfactory service in grade may be credited with satisfactory service in the grade in which serving at the time of transfer or discharge, notwithstanding failure of the person to complete three years of service in that grade, if the person is transferred from an active status or discharged as a reserve commissioned officer—
+Satisfaction of requirement by certain officers not completing three years.—A person covered by paragraph (1) who has completed at least six months of satisfactory service in grade may be credited with satisfactory service in the grade in which serving at the time of transfer or discharge, notwithstandingfailure of the person to complete three years of service in that grade, if the person is transferred from an active status or discharged as a reserve commissioned officer—
 
 &emsp;&emsp;(A) solely due to the requirements of a nondiscretionary provision of law requiring that transfer or discharge due to the person's age or years of service; or
 
@@ -62,7 +62,7 @@ Officers qualified for federal recognition serving in certain grade before appoi
 
 &emsp;(8)
 
-Retirement in next lowest grade for officers not meeting service-in-grade requirements.—A person whose length of service in the highest grade held does not meet the service-in-grade requirements specified in this subsection shall be credited with satisfactory service in the next lower grade in which that person served satisfactorily (as determined by the Secretary of the military department concerned) for not less than six months.
+Retirement in next lowest grade for officers not meeting service-in-grade requirements.—A person whose length of service in the highest grade held does not meet theservice-in-grade requirements specified in this subsection shall be credited with satisfactory service in the next lower grade in which that person served satisfactorily (as determined by the Secretary of the military department concerned) for not less than six months.
 
 (d)
 
@@ -96,11 +96,11 @@ Construction with other notice.—In the case of an officer under paragraph (1) 
 
 (e)
 
-Conditional Retirement Grade and Retirement for Officers Under Investigation for Misconduct or Pending Adverse Personnel Action.—The retirement grade, and retirement, of a person covered by this section who is under investigation for alleged misconduct or pending the disposition of an adverse personnel action at the time of retirement is as provided for by section 1370(d) of this title. In the application of such section 1370(d) for purposes of this subsection, any reference <sup>1</sup> "active duty" shall be deemed not to apply, and any reference to a provision of section 1370 of this title shall be deemed to be a reference to the analogous provision of this section.
+Conditional Retirement Grade and Retirement for Officers Under Investigation for Misconduct or Pending Adverse Personnel Action.—The retirement grade, and retirement, of a person covered by this section who is under investigation for alleged misconduct or pending the disposition of an adverse personnel action at the time of retirement is as provided for by section 1370(d) of this title. In the application of such section 1370(d) for purposes of this subsection, any reference to "active duty" shall be deemed not to apply, and any reference to a provision of section 1370 of this title shall be deemed to be a reference to the analogous provision of this section.
 
 (f)
 
-Final Retirement Grade Following Resolution of Pending Investigation or Adverse Action.—The final retirement grade under this section of a person described in subsection (e) following resolution of the investigation or personnel action concerned is the final retirement grade provided for by section 1370(e) of this title. In the application of such section 1370(e) for purposes of this subsection, any reference to a provision of section 1370 of this title shall be deemed to be a reference to the analogous provision of this section. In the application of paragraph (3) of such section 1370e(e) <sup>2</sup> for purposes of this subsection, the reference to "chapter 71" of this title <sup>3</sup> shall be deemed to be a reference to "chapter 1223 of this title".
+Final Retirement Grade Following Resolution of Pending Investigation or Adverse Action.—The final retirement grade under this section of a person described in subsection (e) following resolution of the investigation or personnel action concerned is the final retirement grade provided for by section 1370(e) of this title. In the application of such section 1370(e) for purposes of this subsection, any reference to a provision of section 1370 of this title shall be deemed to be a reference to the analogous provision of this section. In the application of paragraph (3) of such section 1370(e) for purposes of this subsection, the reference to "chapter 71 of this title" shall be deemed to be a reference to "chapter 1223 of this title".
 
 (g)
 
@@ -112,17 +112,19 @@ In general.—Except for a conditional determination authorized by subsection (e
 
 &emsp;(2)
 
-Reopening.—A determination of the retired grade of a person may be reopened in accordance with applicable provisions of section 1370(f) of this title. In the application of such section 1370(f) for purposes of this subsection, any reference to a provision of section 1370 ofthis title shall be deemed to be a reference to the analogous provision of this section. In the application of paragraph (7) of such section 1370(f) for purposes of this paragraph, the reference to "chapter 71 of this title" shall be deemed to be a reference to "chapter 1223 of this title".
+Reopening.—A determination of the retired grade of a person may be reopened in accordance with applicable provisions of section 1370(f) of this title. In the application of such section 1370(f) for purposes of this subsection, any reference to a provision of section 1370 of this title shall be deemed to be a reference to the analogous provision of this section. In the application of paragraph (7) of such section 1370(f) for purposes of this paragraph, the reference to "chapter 71 of this title" shall be deemed to be a reference to "chapter 1223 of this title".
 
 (h)
 
 Highest Permanent Grade Defined.—In this section, the term "highest permanent grade" means a grade at or below the grade of major general in the Army, Air Force, or Marine Corps or rear admiral in the Navy.
 
-(Added Pub. L. 116–283, div. A, title V, §508(a)(1), Jan. 1, 2021, 134 Stat. 3580.)
+(Added Pub. L. 116–283, div. A, title V, §508(a)(1), Jan. 1, 2021, 134 Stat. 3580; amended Pub. L. 118–31, div. A, title XVIII, §1801(a)(16), Dec. 22, 2023, 137 Stat. 684.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "to".</i>
+#### <b>Editorial Notes</b>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "1370(e)".</i>
+#### Amendments
 
-<i><sup>3</sup></i><i> So in original. The closing quotation marks following "71" probably should follow "title".</i>
+<b>2023</b>—Subsec. (e). Pub. L. 118–31, §1801(a)(16)(A), inserted "to" before " 'active duty' ".
+
+Subsec. (f). Pub. L. 118–31, §1801(a)(16)(B), substituted "1370(e)" for "1370e(e)" and "reference to 'chapter 71 of this title' " for "reference to 'chapter 71' of this title".
 

@@ -8,7 +8,7 @@
 
 #### (2) Budgets
 
-&emsp;The Board shall prepare and submit to the Secretary a budget prior to the beginning ofthe fiscal year of the anticipated expenses and disbursements of the Board in the administration of the order, including probable costs of research, promotion, and consumer information. A budget shall become effective on a 2/3-vote of a quorum of the Board and approval by the Secretary.
+&emsp;The Board shall prepare and submit to the Secretary a budget prior to the beginning of the fiscal year of the anticipated expenses and disbursements of the Board in the administration of the order, including probable costs of research, promotion, and consumer information. A budget shall become effective on a 2/3-vote of a quorum of the Board and approval by the Secretary.
 
 #### (3) Plans
 

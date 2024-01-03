@@ -12,7 +12,7 @@ The Administrator shall, after consultation with appropriate Federal agencies, c
 
 #### (c) Supplemental criteria and reports
 
-The Administrator shall from time to time review and, as appropriate, revise or supplementany criteria or reports published under this section.
+The Administrator shall from time to time review and, as appropriate, revise or supplement any criteria or reports published under this section.
 
 #### (d) Publication in Federal Register
 

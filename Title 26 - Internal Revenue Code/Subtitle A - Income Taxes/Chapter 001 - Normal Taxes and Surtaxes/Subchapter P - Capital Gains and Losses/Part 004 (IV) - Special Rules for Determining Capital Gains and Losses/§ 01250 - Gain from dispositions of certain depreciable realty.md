@@ -68,7 +68,7 @@ Except as otherwise provided in this section—
 
 &emsp;&emsp;&emsp;(i) that portion of the additional depreciation attributable to periods before January 1, 1970, in respect of the property, or
 
-&emsp;&emsp;&emsp;(ii) the excess of the amount determined under paragraph (1)(A)(ii) over the sum of the amounts determined under paragraphs (1)(A)(i) and (2)(A)(i),
+&emsp;&emsp;&emsp;(ii) the excess of the amount determined under paragraph (1)(A)(ii) over the sum ofthe amounts determined under paragraphs (1)(A)(i) and (2)(A)(i),
 
 > &emsp;&emsp;shall also be treated as gain which is ordinary income. Such gain shall be recognized notwithstanding any other provision of this subtitle.
 
@@ -218,7 +218,7 @@ For purposes of determining the applicable percentage under this section, the pr
 
 #### (1) Amount treated as ordinary income
 
-&emsp;If, in the case of a disposition of section 1250 property, the property is treated as consistingof more than one element by reason of paragraph (3), then the amount taken into account under subsection (a) in respect of such section 1250 property as ordinary income shall be the sum of the amounts determined under paragraph (2).
+&emsp;If, in the case of a disposition of section 1250 property, the property is treated as consisting of more than one element by reason of paragraph (3), then the amount taken into account under subsection (a) in respect of such section 1250 property as ordinary income shall be the sum of the amounts determined under paragraph (2).
 
 #### (2) Ordinary income attributable to an element
 
@@ -412,7 +412,7 @@ Subsec. (d)(10). Pub. L. 94–455, §202(b), added par. (10).
 
 Subsec. (f)(1). Pub. L. 94–455, §1901(b)(3)(K), substituted "ordinary income" for "gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231".
 
-Subsec. (f)(2). Pub. L. 94–455, §202(c)(1), substituted introductory text "the sum of a series of amounts determined for the periods set forth in subsection (a), with the amount for any such period being determined by multiplying" for "the sum of—(A) the amount (if any) determined by multiplying"; substituted subpar. (A) as combined text for prior subpars. (A)(i) and (B)(i) reading "(i) the amount which bears the same ratio to the lower of the amounts specified in subparagraph (A) or (B) of subsection (a)(1) for the section 1250 property as the additional depreciation for such element attributable to periods after December 31, 1969, bears to the sum of the additional depreciation for all elements attributable to periods after December 31, 1969, by" and "(i) the amount which bears the same ratio to the lower of the amounts specified in subsection (a)(2)(A)(i) or (ii) for the section 1250 property as the additional depreciation for such element attributable to periods before January 1, 1970, bears to the sum of the additional depreciation for all elements attributable to periods before January 1, 1970, by"; and substituted subpar. (B) as combined text for prior subpars. (A)(ii) and (B)(ii), inserting therein "for such period" after "for such element".
+Subsec. (f)(2). Pub. L. 94–455, §202(c)(1), substituted introductory text "the sum of a series of amounts determined for the periods set forth in subsection (a), with the amount for any such period being determined by multiplying" for "the sum of—(A) the amount (if any) determined by multiplying"; substituted subpar. (A) as combined text for prior subpars. (A)(i) and (B)(i) reading "(i) the amount which bears the same ratio to the lower of the amounts specified in subparagraph (A) or (B) of subsection (a)(1) for the section 1250 property as the additional depreciation for such element attributable to periods after December 31, 1969, bears to the sum of the additional depreciation for all elements attributable to periods after December 31, 1969, by" and "(i) the amount which bears the same ratio to the lower of the amounts specified in subsection (a)(2)(A)(i) or (ii) for the section 1250 property as the additional depreciation for such element attributable to periods before January 1, 1970, bears to the sum of the additional depreciation for all elements attributable to periods before January 1, 1970, by"; and substituted subpar. (B) ascombined text for prior subpars. (A)(ii) and (B)(ii), inserting therein "for such period" after "for such element".
 
 Subsec. (g)(1). Pub. L. 94–455, §1901(b)(3)(K), substituted "ordinary income" for "gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231".
 
@@ -490,7 +490,7 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

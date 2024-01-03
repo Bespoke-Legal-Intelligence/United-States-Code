@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), on the date on which the President submits to Congress the budget for the following fiscal year under section 1105 of title 31, the President shall submitto Congress a comprehensive report on the national energy security of the United States.
+&emsp;Subject to paragraph (2), on the date on which the President submits to Congress the budget for the following fiscal year under section 1105 of title 31, the President shall submit to Congress a comprehensive report on the national energy security of the United States.
 
 #### (2) New Presidents
 

@@ -102,7 +102,7 @@ Pub. L. 101–429, §1(c), Oct. 15, 1990, 104 Stat. 931, provided that:
 
 "(1)
 
-In general.—Except as provided in paragraphs (2) and (3), the amendments made by this Act \[enacting sections 77h–1, 78q–2, 78u–2, and 78u–3 of this title, amending this section and sections 77t, 78c, 78o, 78o–3, 78o–4, 78q–1, 78u, 78u–1, 78w, 78cc, 80a–9, 80a–41, 80b–3, 80b–9, and 80b–14 of this title, and enacting provisions set out as notes under sections 78a, 78o, and 78s of this title\] shall be effective upon enactment \[Oct. 15, 1990\].
+In general.—Except as provided in paragraphs (2) and (3), the amendments made by this Act \[enacting sections 77h–1, 78q–2, 78u–2, and 78u–3 of this title,amending this section and sections 77t, 78c, 78o, 78o–3, 78o–4, 78q–1, 78u, 78u–1, 78w, 78cc, 80a–9, 80a–41, 80b–3, 80b–9, and 80b–14 of this title, and enacting provisions set out as notes under sections 78a, 78o, and 78s of this title\] shall be effective upon enactment \[Oct. 15, 1990\].
 
 "(2)
 
@@ -220,7 +220,7 @@ Sunset.—Beginning on the date that is 7 years after the date of enactment of t
 
 #### Forward Incorporation by Reference for Form S–1
 
-Pub. L. 114–94, div. G, title LXXXIV, §84001, Dec. 4, 2015, 129 Stat. 1797, provided that: "Not later than 45days after the date of the enactment of this Act \[Dec. 4, 2015\], the Securities and Exchange Commission shall revise Form S–1 so as to permit a smaller reporting company (as defined in section 230.405 of title 17, Code of Federal Regulations) to incorporate by reference in a registration statement filed on such form any documents that such company files with the Commission after the effective date of such registration statement."
+Pub. L. 114–94, div. G, title LXXXIV, §84001, Dec. 4, 2015, 129 Stat. 1797, provided that: "Not later than 45 days after the date of the enactment of this Act \[Dec. 4, 2015\], the Securities and Exchange Commission shall revise Form S–1 so as to permit a smaller reporting company (as defined in section 230.405 of title 17, Code of Federal Regulations) to incorporate by reference in a registration statement filed on such form any documents that such company files with the Commission after the effective date of such registration statement."
 
 #### Other Disclosures
 

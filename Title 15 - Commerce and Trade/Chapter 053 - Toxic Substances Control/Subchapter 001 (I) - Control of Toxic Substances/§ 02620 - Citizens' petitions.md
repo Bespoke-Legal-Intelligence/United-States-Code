@@ -26,7 +26,7 @@ Any person may petition the Administrator to initiate a proceeding for the issua
 
 > the court shall order the Administrator to initiate the action requested by the petitioner. If the court finds that the extent of the risk to health or the environment alleged by the petitioner is less than the extent of risks to health or the environment with respect to which the Administrator is taking action under this chapter and there are insufficient resources available to the Administrator to take the action requested by the petitioner, the court may permit the Administrator to defer initiating the action requested by the petitioner until such time as the court prescribes.
 
-(C) The court in issuing any final order in any action brought pursuant to subparagraph (A) may award costs of suit and reasonable fees for attorneys and expert witnesses if the court determines that such an award is appropriate. Any court, in issuing its decision in an action brought to review such an order, may award costs of suit and reasonable fees for attorneys if the court determines that such an award is appropriate.
+(C) The court in issuing any final order in any action brought pursuant to subparagraph (A) may award costs of suit and reasonable fees forattorneys and expert witnesses if the court determines that such an award is appropriate. Any court, in issuing its decision in an action brought to review such an order, may award costs of suit and reasonable fees for attorneys if the court determines that such an award is appropriate.
 
 (5) The remedies under this section shall be in addition to, and not in lieu of, other remedies provided by law.
 

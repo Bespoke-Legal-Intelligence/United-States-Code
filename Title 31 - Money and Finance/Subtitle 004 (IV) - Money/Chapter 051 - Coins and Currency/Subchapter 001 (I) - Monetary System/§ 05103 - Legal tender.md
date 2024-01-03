@@ -1,6 +1,6 @@
 ### §5103. Legal tender
 
-United States coins and currency (including Federal reserve notes and circulating notes of Federal reserve banks and national banks) are legal tender for all debts, public charges, taxes, and dues. Foreign gold or silver coins are not legal tender for debts.
+United States coins and currency (including Federal reserve notes and circulating notes ofFederal reserve banks and national banks) are legal tender for all debts, public charges, taxes, and dues. Foreign gold or silver coins are not legal tender for debts.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980; Pub. L. 97–452, §1(19), Jan. 12, 1983, 96 Stat. 2477.)
 

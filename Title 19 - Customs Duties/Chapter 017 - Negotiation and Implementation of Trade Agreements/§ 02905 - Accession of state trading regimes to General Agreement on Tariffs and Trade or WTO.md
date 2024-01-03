@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Before any major foreign country accedes, after August 23, 1988, to the GATT 1947, or to theWTO Agreement, the President shall determine—
+Before any major foreign country accedes, after August 23, 1988, to the GATT 1947, or to the WTO Agreement, the President shall determine—
 
 &emsp;(1) whether state trading enterprises account for a significant share of—
 

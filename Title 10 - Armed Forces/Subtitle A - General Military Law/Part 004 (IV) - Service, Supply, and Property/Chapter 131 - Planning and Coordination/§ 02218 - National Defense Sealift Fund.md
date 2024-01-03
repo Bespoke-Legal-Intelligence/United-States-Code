@@ -74,7 +74,7 @@ Limitations.—(1) A vessel built in a foreign ship yard may not be purchased wi
 
 &emsp;(ii) of such new vessels, the lead ship is anticipated to be delivered by not later than 2028.
 
-(F) Not later than 30 days before the purchase of any vessel using the authority under thisparagraph, the Secretary, in consultation with the Maritime Administrator, shall submit to the congressional defense committees a report that contains each of the following with respect to such purchase:
+(F) Not later than 30 days before the purchase of any vessel using the authority under this paragraph, the Secretary, in consultation with the Maritime Administrator, shall submit to the congressional defense committees a report that contains each of the following with respect to such purchase:
 
 &emsp;(i) The proposed date of the purchase.
 
@@ -216,7 +216,7 @@ Subsec. (f)(3)(F)(viii). Pub. L. 115–232, §1013(1)(D), added cl. (viii).
 
 Subsec. (f)(3)(G). Pub. L. 115–232, §1013(2), added subpar. (G).
 
-<b>2017</b>—Subsec. (c)(1)(D), (E). Pub. L. 115–91, §1021(a)(1)(A), redesignated subpar. (E) as (D) andstruck out former subpar. (D) which read as follows: "Research and development relating to national defense sealift."
+<b>2017</b>—Subsec. (c)(1)(D), (E). Pub. L. 115–91, §1021(a)(1)(A), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: "Research and development relating to national defense sealift."
 
 Subsec. (c)(3). Pub. L. 115–91, §1021(a)(1)(B), struck out "or (D)" after "subparagraph (B)".
 

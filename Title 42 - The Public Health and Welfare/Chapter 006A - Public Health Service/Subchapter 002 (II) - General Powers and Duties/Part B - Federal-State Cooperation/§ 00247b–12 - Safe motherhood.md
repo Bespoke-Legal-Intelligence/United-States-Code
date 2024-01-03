@@ -200,7 +200,7 @@ Subsec. (b)(2)(K). Pub. L. 115–344, §2(2)(D), (F), redesignated subpar. (J) a
 
 Subsec. (b)(2)(L), (M). Pub. L. 115–344, §2(2)(D), redesignated subpars. (K) and (L) as (L) and (M), respectively.
 
-Subsec. (c). Pub. L. 115–344, §2(3)(A), (B), struck out par. (1) designation and heading "In general" before "The Secretary" and redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively. Amendment was executed to reflect the probable intent of Congress notwithstanding minor error in quoted par. (1) heading in original text directed to be struck out.
+Subsec. (c). Pub. L. 115–344, §2(3)(A), (B), struck out par. (1) designation and heading "In general" before"The Secretary" and redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively. Amendment was executed to reflect the probable intent of Congress notwithstanding minor error in quoted par. (1) heading in original text directed to be struck out.
 
 Subsec. (c)(1). Pub. L. 115–344, §2(3)(C), struck out "and the building of partnerships with outside organizations concerned about safe motherhood" after "pregnancies".
 

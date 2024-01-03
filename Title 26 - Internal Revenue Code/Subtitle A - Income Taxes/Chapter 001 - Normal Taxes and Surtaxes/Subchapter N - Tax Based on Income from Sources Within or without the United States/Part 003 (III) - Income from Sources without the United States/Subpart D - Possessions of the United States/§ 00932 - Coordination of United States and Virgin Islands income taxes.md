@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(i) is a citizen or resident of the United States (other than a bona fide resident of the Virgin Islands during the entire taxable year), and
 
-&emsp;&emsp;&emsp;(ii) has income derived from sources within the Virgin Islands, or effectively connected with the conduct of a trade or business within such possession, for the taxable year, or
+&emsp;&emsp;&emsp;(ii) has income derived from sources within the Virgin Islands, or effectivelyconnected with the conduct of a trade or business within such possession, for the taxable year, or
 
 &emsp;&emsp;(B) such individual files a joint return for the taxable year with an individual described in subparagraph (A).
 
@@ -36,7 +36,7 @@
 
 #### (B) Virgin Islands adjusted gross income
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "Virgin Islands adjusted gross income"means adjusted gross income determined by taking into account only income derived from sources within the Virgin Islands and deductions properly apportioned or allocable thereto.
+&emsp;&emsp;For purposes of subparagraph (A), the term "Virgin Islands adjusted gross income" means adjusted gross income determined by taking into account only income derived from sources within the Virgin Islands and deductions properly apportioned or allocable thereto.
 
 #### (3) Amounts paid allowed as credit
 
@@ -118,5 +118,5 @@ Pub. L. 99–514, title XII, §1274(c), Oct. 22, 1986, 100 Stat. 2598, as amende
 
 #### Authority To Impose Nondiscriminatory Local Income Taxes
 
-Pub. L. 99–514, title XII, §1274(b), Oct. 22, 1986, 100 Stat. 2597, provided that: "Nothing in any provision ofFederal law shall prevent the Virgin Islands from imposing on any person nondiscriminatory local income taxes. Any taxes so imposed shall be treated in the same manner as State and local income taxes under section 164 of the Internal Revenue Code of 1954 \[now 1986\] and shall not be treated as taxes to which section 901 of such Code applies."
+Pub. L. 99–514, title XII, §1274(b), Oct. 22, 1986, 100 Stat. 2597, provided that: "Nothing in any provision of Federal law shall prevent the Virgin Islands from imposing on any person nondiscriminatory local income taxes. Any taxes so imposed shall be treated in the same manner as State and local income taxes under section 164 of the Internal Revenue Code of 1954 \[now 1986\] and shall not be treated as taxes to which section 901 of such Code applies."
 

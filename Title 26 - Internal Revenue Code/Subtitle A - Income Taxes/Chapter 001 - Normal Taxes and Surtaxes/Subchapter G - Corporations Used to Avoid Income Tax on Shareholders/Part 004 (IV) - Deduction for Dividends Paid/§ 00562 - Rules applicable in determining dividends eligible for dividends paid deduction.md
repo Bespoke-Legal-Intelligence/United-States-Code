@@ -20,7 +20,7 @@ For purposes of this part, the term "dividend" shall, except as otherwise provid
 
 #### (1) In general
 
-&emsp;Except in the case of a publicly offered regulated investment company (as defined in section 67(c)(2)(B)) or a publicly offered REIT, the amount of any distribution shall not be considered as a dividend for purposes of computing the dividends paid deduction, unless such distribution is pro rata, with no preference to any share of stock as compared with other shares of the same class, and with no preference to one class of stock as compared with another class except to the extent that the former is entitled (without reference to waivers of their rights by shareholders) to such preference. In the case of a distribution by a regulated investment company (other than a publicly offered regulated investment company (as so defined)) to a shareholder who made an initial investment of at least $10,000,000 in such company, such distribution shall not be treated as not being pro rata or as being preferential solely by reason of an increase in the distribution by reason of reductions in administrative expenses of the company.
+&emsp;Except in the case of a publicly offered regulated investment company (as defined in section 67(c)(2)(B)) or a publicly offered REIT, the amount of any distribution shall not be considered as a dividend for purposes of computing the dividends paid deduction, unless such distribution is pro rata, with no preference to any share of stock as compared with other shares of the same class, and with no preference to one class of stock as compared with another class except to the extent that the former is entitled (without reference to waivers of their rights by shareholders) to such preference. In the case of a distribution by a regulated investment company (other than a publicly offered regulated investment company (as so defined)) to a shareholder whomade an initial investment of at least $10,000,000 in such company, such distribution shall not be treated as not being pro rata or as being preferential solely by reason of an increase in the distribution by reason of reductions in administrative expenses of the company.
 
 #### (2) Publicly offered REIT
 
@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 99–514, §657(a), inserted at end "In the case of a distr
 
 Pub. L. 114–113, div. Q, title III, §314(c), Dec. 18, 2015, 129 Stat. 3093, provided that: "The amendments made by this section \[amending this section\] shall apply to distributions in taxable years beginning after December 31, 2014."
 
-Pub. L. 114–113, div. Q, title III, §315(b), Dec. 18, 2015, 129 Stat. 3093, provided that: "The amendments made by this section \[amending this section\] shall apply to distributions in taxable years beginning after December 31, 2015."
+Pub. L. 114–113, div. Q, title III, §315(b), Dec. 18, 2015, 129 Stat. 3093, provided that: "The amendments made by this section \[amending this section\] shall apply todistributions in taxable years beginning after December 31, 2015."
 
 Pub. L. 114–113, div. Q, title III, §320(c), Dec. 18, 2015, 129 Stat. 3097, provided that: "The amendments made by this section \[amending this section and section 857 of this title\] shall apply to taxable years beginning after December 31, 2015."
 

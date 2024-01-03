@@ -46,7 +46,7 @@ For purposes of administering this section, the Commission shall prescribe requi
 
 &emsp;&emsp;(A) to limit the redissemination of such information;
 
-&emsp;&emsp;(B) to ensure that such information is used solely for the purpose of determining whether an individual shall be permitted unescorted access to a utilization facility, radioactive material, or other property described in subsection (a)(1)(B) or shall be permitted access to safeguards information under section 2167 of this title;
+&emsp;&emsp;(B) to ensure that such information is used solely for the purpose of determining whether an individual shall be permittedunescorted access to a utilization facility, radioactive material, or other property described in subsection (a)(1)(B) or shall be permitted access to safeguards information under section 2167 of this title;
 
 &emsp;&emsp;(C) to ensure that no final determination may be made solely on the basis of information provided under this section involving—
 

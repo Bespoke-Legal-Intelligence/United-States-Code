@@ -52,7 +52,7 @@ Considerations.—In updating policies under paragraph (1)(B), the Secretary sha
 
 "(b)
 
-Monitoring of Subrecipients of Funding From the National Institutes of Health.—The Director of the National Institutes of Health (referred to in this section as the 'Director of National Institutes of Health') shall implement measures to reduce the administrative burdens related to monitoring of subrecipients of grants by primary awardees of funding from the National Institutes of Health, which may incorporate findings and recommendations from existing and ongoing activities. Such measures may include, as appropriate—
+Monitoring of Subrecipients of Funding From the National Institutes of Health.—The Director of the National Institutes of Health (referred to in this section as the 'Director of National Institutes ofHealth') shall implement measures to reduce the administrative burdens related to monitoring of subrecipients of grants by primary awardees of funding from the National Institutes of Health, which may incorporate findings and recommendations from existing and ongoing activities. Such measures may include, as appropriate—
 
 &emsp;"(1) an exemption from subrecipient monitoring requirements, upon request from the primary awardees, provided that—
 
@@ -250,7 +250,7 @@ There should be an unremitting effort to improve those health, education, and so
 
 But good intent and high purpose are not enough; all such programs depend for their success upon efficient, responsible administration. I have recently taken action to assure that the Federal Security Administrator's views are given proper consideration in executive councils by inviting her to attend meetings of the Cabinet. Now the establishment of the new Department provided for in Reorganization Plan No. 1 of 1953 will give the needed additional assurance that these matters will receive the full consideration they deserve in the whole operation of the Government.
 
-This need has long been recognized. In 1923, President Harding proposed a Department of Education and Welfare, which was also to include health functions. In 1924, the Joint Committee on Reorganization recommended a new department similar to that suggested by President Harding. In 1932, one of President Hoover's reorganization proposals called for the concentration of health, education, and recreational activities in a single executive department. The President's Committee on Administrative Management in 1937 recommended the placing of health, education, and social-security functions in a Department of Social Welfare. This recommendation was partially implemented in 1939 by the creation of the Federal Security Agency—by which action the Congress indicated its approval of the grouping of these functions in a single agency. A new department could not be proposed at that time because the Reorganization Act of 1939 prohibited the creation of additional executive departments. In 1949, the Commission on Organization of the Executive Branch of the Government proposed the creation of a department for social security and education.
+This need has long been recognized. In 1923, President Harding proposed a Department of Education and Welfare, which was also to include health functions. In 1924, the Joint Committee on Reorganization recommended a new department similar to that suggestedby President Harding. In 1932, one of President Hoover's reorganization proposals called for the concentration of health, education, and recreational activities in a single executive department. The President's Committee on Administrative Management in 1937 recommended the placing of health, education, and social-security functions in a Department of Social Welfare. This recommendation was partially implemented in 1939 by the creation of the Federal Security Agency—by which action the Congress indicated its approval of the grouping of these functions in a single agency. A new department could not be proposed at that time because the Reorganization Act of 1939 prohibited the creation of additional executive departments. In 1949, the Commission on Organization of the Executive Branch of the Government proposed the creation of a department for social security and education.
 
 The present plan will make it possible to give the officials directing the Department titles indicative of their responsibilities and salaries comparable to those received by their counterparts in other executive departments. As the Under Secretary of an executive department, the Secretary's principal assistant will be better equipped to give leadership in the Department's organization and management activities, for which he will be primarily responsible. The plan opens the way to further administrative improvement by authorizing the Secretary to centralize services and activities common to the several agencies of the Department. It also established a uniform method of appointment for the heads of the three major constituent agencies. At present, the Surgeon General and the Commissioner of Education are appointed by the President and confirmed by the Senate, while the Commissioner for Social Security is appointed by the Federal Security Administrator. Hereafter, all three will be Presidential appointees subject to Senate confirmation.
 
@@ -294,7 +294,7 @@ Sec. 2. <i>Powers and duties of the Director</i>. (a) The Director shall be resp
 
 (1) appoint one or more advisory committees composed of such private citizens and officials of the Federal, State, and local governments as he deems desirable to advise him with respect to his functions. Members of such committees (including the Consumer Advisory Council established in section 5 of this order) other than those regularly employed by the Federal Government, while attending meetings of such committees or otherwise serving at the request of the Director, shall be entitled to receive compensation and travel expenses as authorized by law for persons serving intermittently;
 
-(2) promulgate such rules, regulations, and procedures as may be necessary to carry out the functions vested in him or in the Office, and delegate authority for the performance of any function to any officer or employee under his direction and supervision;
+(2) promulgate such rules, regulations, and procedures as may be necessary to carry out the functionsvested in him or in the Office, and delegate authority for the performance of any function to any officer or employee under his direction and supervision;
 
 (3) utilize, with their consent, the services, personnel, and facilities of other Federal, State, local and private agencies and instrumentalities with or without reimbursement thereof except as reimbursement may be required by law; and
 
@@ -364,7 +364,7 @@ Under and by virtue of the authority vested in me by section 301 of title 3 of t
 
 Section 1. The Office of Consumer Affairs, established by Executive Order No. 11583 of February 24, 1971, as amended by Executive Order No. 11595 of May 26, 1971 \[set out above\], together with its functions, is hereby transferred from the Executive Office of the President to the Department of Health and Human Services. The Director of the Office of Consumer Affairs shall continue as the Special Assistant to the President for Consumer Affairs.
 
-Sec. 2. In view of the establishment of the Council on Economic Policy, the Cabinet Committee on Economic Policy, together with its functions, is hereby abolished and Executive Order No. 11453 of January 24, 1969, is hereby revoked.
+Sec. 2. In view of the establishment of the Council on Economic Policy, the Cabinet Committee on Economic Policy, together with its functions, is hereby abolishedand Executive Order No. 11453 of January 24, 1969, is hereby revoked.
 
 #### Ex. Ord. No. 12160. Enhancement and Coordination of Federal Consumer Programs
 
@@ -528,7 +528,7 @@ Ex. Ord. No. 13125, June 7, 1999, 64 F.R. 31105, as amended by Ex. Ord. No. 1321
 
 #### Ex. Ord. No. 14031. Advancing Equity, Justice, and Opportunity for Asian Americans, Native Hawaiians, and Pacific Islanders
 
-Ex. Ord. No. 14031, May 28, 2021, 86 F.R. 29675, provided:
+Ex. Ord. No. 14031, May 28, 2021, 86 F.R. 29675, as amended by Ex. Ord. No. 14109, §4, Sept. 29, 2023, 88 F.R. 68449, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -556,9 +556,11 @@ Sec. 2. <i>President's Advisory Commission on Asian Americans, Native Hawaiians,
 
 (v) policies and practices to improve research and equitable data disaggregation regarding AA and NHPI communities;
 
-(vi) policies and practices to improve language access services to ensure AA and NHPI communities can access Federal programs and services; and
+(vi) policies and practices to improve language access services to ensure AA and NHPI communities can access Federal programs and services;
 
-(vii) strategies to increase public- and private-sector collaboration, and community involvement in improving the safety and socioeconomic, health, educational, occupational, and environmental well-being of AA and NHPI communities.
+(vii) strategies to increase public- and private-sector collaboration, and community involvement in improving the safety and socioeconomic, health, educational, occupational, and environmental well-being of AA and NHPI communities; and
+
+(viii) ways to expand national awareness of and share information about efforts to advance equity, justice, and opportunity for AA and NHPI communities.
 
 (c) The Commission shall consist of 25 members appointed by the President. The Commission shall include members who:
 
@@ -572,7 +574,9 @@ Sec. 2. <i>President's Advisory Commission on Asian Americans, Native Hawaiians,
 
 (v) have such other experience as the President deems appropriate.
 
-(d) The Secretary of Health and Human Services shall designate an Executive Director of the Commission (Executive Director). The Executive Director shall report to the Secretary of Health and Human Services, in coordination with the other Co-Chair of the Commission and the Deputy Assistant to the President and Asian American, Native Hawaiian, and Pacific Islander Senior Liaison.
+(d) The members of the Commission shall function as liaisons and spokespersons on behalf of the Commission to relevant State, local, and private entities, and shall share information about the work of the Commission in order to advise the President regarding the development, monitoring, and coordination of executive branch efforts to advance equity, justice, and opportunity for AA and NHPI communities in the United States, including efforts to close gaps in health, socioeconomic, employment, and educational outcomes.
+
+(e) The Secretary of Health and Human Services shall designate an Executive Director of the Commission (Executive Director). The Executive Director shall report to the Secretary of Health and Human Services, in coordination with the other Co-Chair of the Commission and the Deputy Assistant to the President and Asian American, Native Hawaiian, and Pacific Islander Senior Liaison.
 
 (i) The Department of Health and Human Services shall provide funding and administrative support for the Commission to the extent permitted by law and within existing appropriations, and may, as necessary and appropriate under section 1535 of title 31, United States Code, enter into one or more agreements to obtain goods or services from one or more agencies in support of the Commission.
 
@@ -580,7 +584,7 @@ Sec. 2. <i>President's Advisory Commission on Asian Americans, Native Hawaiians,
 
 (iii) Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707). Insofar as the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] (the "Act") \[Pub. L. 92–463\], may apply to the administration of the Commission, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary of Health and Human Services, in accordance with the guidelines issued by the Administrator of General Services.
 
-(e) The Commission shall terminate 2 years from the date of this order \[May 28, 2021\], unless sooner renewed by the President.
+(f) The Commission shall terminate 2 years from the date of this order \[May 28, 2021\], unless sooner renewed by the President.
 
 Sec. 3. <i>White House Initiative on Asian Americans, Native Hawaiians, and Pacific Islanders</i>. (a) There is established the White House Initiative on Asian Americans, Native Hawaiians, and Pacific Islanders (Initiative), a Federal interagency working group. The Initiative shall be led by two Co-Chairs, one of whom shall be the Secretary of Health and Human Services, the other of whom shall be the head of an agency designated by the President. The Executive Director of the Commission established in section 2(d) of this order shall also serve as the Executive Director of the Initiative, reporting to the Secretary of Health and Human Services, in coordination with the other Co-Chair of the Initiative and the Deputy Assistant to the President and Asian American, Native Hawaiian, and Pacific Islander Senior Liaison.
 
@@ -698,7 +702,7 @@ At the direction of the Co-Chairs, the Initiative may establish subgroups consis
 
 (ii) On an annual basis, the Co-Chairs of the Initiative shall develop and submit to the President a report outlining a Government-wide interagency plan to advance equity, justice, and opportunity for AA and NHPI communities, and progress made in implementing the policy goals outlined in subsection (b) of this section.
 
-(f) The Initiative shall coordinate with and support the existing regional network of Federal officials who facilitate improved communication, engagement, and coordination between the Federal Government and AA and NHPI communities throughout the United States (Regional Network). Agencies identified as participants in the Initiative shall seek opportunities, consistent with applicable law and available resources, to provide support and resources to the Regional Network through each agency's respective regional offices. The Executive Director shall coordinate the efforts of the Regional Network, and may establish regular reporting and information-sharing activities between the Regional Network and the Initiative.
+(f) The Initiative shall coordinate with and support the existing regional network of Federal officials who facilitate improved communication, engagement, and coordination between the Federal Government and AA and NHPI communities throughout the United States (Regional Network). Agencies identified as participants in the Initiative shall designate regional agency employees to serve as representatives to the Regional Network and shall seek opportunities, consistent with applicable law and available resources, to provide support and resources to the Regional Network. The Executive Director shall coordinate the efforts of the Regional Network and may establish regular reporting and information-sharing activities between the Regional Network and the Initiative.
 
 Sec. 4. <i>General Provisions</i>. (a) This order supersedes Executive Order 13125 of June 7, 1999 (Increasing Participation of Asian Americans and Pacific Islanders in Federal Programs) \[formerly set out above\]; Executive Order 13339 of May 13, 2004 (Increasing Economic Opportunity and Business Participation of Asian Americans and Pacific Islanders) \[former 15 U.S.C. 1501 note\]; Executive Order 13515 of October 14, 2009 (Increasing Participation of Asian Americans and Pacific Islanders in Federal Programs) \[former 15 U.S.C. 1501 note\]; and Executive Order 13872 of May 13, 2019 (Economic Empowerment of Asian Americans and Pacific Islanders) \[former 15 U.S.C. 1501 note\].
 
@@ -718,5 +722,9 @@ J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Advisory Commission on Asian Americans, Native Hawaiians, and Pacific Islanders
 
-Term of President's Advisory Commission on Asian Americans, Native Hawaiians, and Pacific Islanders extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of President's Advisory Commission on Asian Americans, Native Hawaiians, and Pacific Islanders extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+
+Previous extension of term of President's Advisory Commission on Asian Americans, Native Hawaiians, and Pacific Islanders was contained in the following prior Executive Order:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 

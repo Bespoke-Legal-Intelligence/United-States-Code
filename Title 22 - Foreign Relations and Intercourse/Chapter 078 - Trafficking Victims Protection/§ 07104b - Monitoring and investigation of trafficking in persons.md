@@ -24,7 +24,7 @@ Upon completion of an investigation under subsection (a), the Inspector General 
 
 &emsp;Upon receipt of an Inspector General's report substantiating an allegation that the recipient of a contract, grant, or cooperative agreement; any subgrantee or subcontractor of the recipient; or any agent of the recipient or of a subgrantee or subcontractor, engaged in any of the activities described in section 7104(g) of this title, as amended by section 1702, or notification of an indictment, information, or criminal complaint for an offense under subsection (a)(3), the head of agency shall refer the matter to the agency suspension and debarment official and consider taking one or more of the following remedial actions:
 
-&emsp;&emsp;(A) Requiring the recipient to remove an employee from the performance of workunder the grant, contract, or cooperative agreement.
+&emsp;&emsp;(A) Requiring the recipient to remove an employee from the performance of work under the grant, contract, or cooperative agreement.
 
 &emsp;&emsp;(B) Requiring the recipient to terminate a subcontract or subgrant.
 

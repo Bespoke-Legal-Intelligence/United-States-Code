@@ -2,7 +2,7 @@
 
 #### (a) Compliance with standards and regulations; status after importation
 
-No slaughtered poultry, or parts or products thereof, of any kind shall be imported into the United States unless they are healthful, wholesome, fit for human food, not adulterated, and contain no dye, chemical, preservative, or ingredient which renders them unhealthful, unwholesome, adulterated, or unfit for human foodand unless they also comply with the rules and regulations made by the Secretary of Agriculture to assure that imported poultry or poultry products comply with the standards provided for in this chapter. All imported, slaughtered poultry, or parts or products thereof, shall after entry into the United States in compliance with such rules and regulations be deemed and treated as domestic slaughtered poultry, or parts or products thereof, within the meaning and subject to the provisions of this chapter and the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], and Acts amendatory of, supplemental to, or in substitution for such chapter and Act.
+No slaughtered poultry, or parts or products thereof, of any kind shall be imported into the United States unless they are healthful, wholesome, fit for human food, not adulterated, and contain no dye, chemical, preservative, or ingredient which renders them unhealthful, unwholesome, adulterated, or unfit for human food and unless they also comply with the rules and regulations made by the Secretary of Agriculture to assure that imported poultry or poultry products comply with the standards provided for in this chapter. All imported, slaughtered poultry, or parts or products thereof, shall after entry into the United States in compliance with such rules and regulations be deemed and treated as domestic slaughtered poultry, or parts or products thereof, within the meaning and subject to the provisions of this chapter and the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], and Acts amendatory of, supplemental to, or in substitution for such chapter and Act.
 
 #### (b) Rules and regulations; destruction and exportation of refused imports
 
@@ -36,7 +36,7 @@ All charges for storage, cartage, and labor with respect to any product which is
 
 &emsp;(B) random sampling and testing of internal organs and fat of carcasses for residues at the point of slaughter by the exporting country, in accordance with methods approved by the Secretary.
 
-(Pub. L. 85–172, §17, Aug. 28, 1957, 71 Stat. 448; Pub. L. 99–198, title XVII, §1701(a), Dec. 23, 1985, 99 Stat. 1633; Pub. L. 103–182, title III, §361(e), Dec. 8, 1993, 107 Stat. 2123; Pub. L. 103–465, title IV, §431(k), Dec. 8, 1994, 108 Stat. 4969.)
+(Pub. L. 85–172, §17, Aug. 28, 1957, 71 Stat. 448; Pub. L. 99–198, title XVII, §1701(a), Dec. 23, 1985, 99 Stat. 1633; Pub. L. 103–182, title III, §361(e),Dec. 8, 1993, 107 Stat. 2123; Pub. L. 103–465, title IV, §431(k), Dec. 8, 1994, 108 Stat. 4969.)
 
 #### <b>Editorial Notes</b>
 

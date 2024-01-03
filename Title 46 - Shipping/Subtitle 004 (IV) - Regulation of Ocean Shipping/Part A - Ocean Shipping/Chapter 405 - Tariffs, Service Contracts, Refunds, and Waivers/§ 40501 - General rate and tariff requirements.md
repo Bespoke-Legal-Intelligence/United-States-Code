@@ -62,7 +62,7 @@ In general.—The Commission shall by regulation prescribe the requirements for 
 
 &emsp;(2)
 
-Remote terminals.—The Commission may not require a common carrier to provide a remote terminal for electronic access under subsection (c).
+Remote terminals.—The Commission may not require a common carrier to providea remote terminal for electronic access under subsection (c).
 
 &emsp;(3)
 

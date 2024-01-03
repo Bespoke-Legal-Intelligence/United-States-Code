@@ -50,7 +50,7 @@ The permitting authority shall, upon request of an owner or operator of a unit s
 
 &emsp;(i) that permits the unit during the demonstration period referred to in subparagraph (2) above, to emit at a rate in excess of the applicable emission rate;
 
-&emsp;(ii) at the conclusion of the demonstration period to revise the operating permit to reflect the alternative emission rate demonstrated in paragraphs (2) and (3) above.
+&emsp;(ii) at the conclusion of the demonstration period to revise the operating permit to reflectthe alternative emission rate demonstrated in paragraphs (2) and (3) above.
 
 > Units subject to subsection (b)(1) for which an alternative emission limitation is established shall not be required to install any additional control technology beyond low NO<sub>x</sub> burners. Nothing in this section shall preclude an owner or operator from installing and operating an alternative NO<sub>x</sub> control technology capable of achieving the applicable emission limitation. If the owner or operator of a unit subject to the emissions limitation requirements of subsection (b)(1) demonstrates to the satisfaction of the Administrator that the technology necessary to meet such requirements is not in adequate supply to enable its installation and operation at the unit, consistent with system reliability, by January 1, 1995, then the Administrator shall extend the deadline for compliance for the unit by a period of 15 months. Any owner or operator may petition the Administrator to make a determination under the previous sentence. The Administrator shall grant or deny such petition within 3 months of submittal.
 

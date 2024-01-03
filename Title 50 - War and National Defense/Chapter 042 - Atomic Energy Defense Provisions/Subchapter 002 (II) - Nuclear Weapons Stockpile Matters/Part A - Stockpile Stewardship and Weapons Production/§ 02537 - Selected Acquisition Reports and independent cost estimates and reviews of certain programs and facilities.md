@@ -52,7 +52,7 @@ Upon the request of the Administrator, the Secretary of Defense, acting through 
 
 #### Amendments
 
-<b>2022</b>—Subsec. (a)(2). Pub. L. 117–263, §809(c)(1), inserted "or any successor system," before "expressed in terms".
+<b>2022</b>—Subsec. (a)(2). Pub. L. 117–263 inserted "or any successor system," before "expressed in terms".
 
 <b>2021</b>—Subsec. (a)(2). Pub. L. 117–81 substituted "section 4351" for "section 2432".
 

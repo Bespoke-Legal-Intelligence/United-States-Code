@@ -6,7 +6,7 @@ Whoever, being a farm credit examiner or any examiner, public or private, disclo
 
 #### Historical and Revision Notes
 
-Based on sections 983 and 1124 of title 12, U.S.C., 1940 ed., Banks and Banking (July 17, 1916, ch. 245, §31 \[thirdand fourth sentences of third paragraph\], 39 Stat. 383; July 17, 1916, ch. 245, §211(d) \[part of first sentence\], as added Mar. 4, 1923, ch. 252, §2, 42 Stat. 1460; June 16, 1933, ch. 98, §80(a), 48 Stat. 273).
+Based on sections 983 and 1124 of title 12, U.S.C., 1940 ed., Banks and Banking (July 17, 1916, ch. 245, §31 \[third and fourth sentences of third paragraph\], 39 Stat. 383; July 17, 1916, ch. 245, §211(d) \[part of first sentence\], as added Mar. 4, 1923, ch. 252, §2, 42 Stat. 1460; June 16, 1933, ch. 98, §80(a), 48 Stat. 273).
 
 Section 983 of title 12, U.S.C., 1940 ed., Banks and Banking, does not include the term "farm credit examiner," as used in this section, but it relates thereto as is indicated by sections 951 and 952 of said title.
 

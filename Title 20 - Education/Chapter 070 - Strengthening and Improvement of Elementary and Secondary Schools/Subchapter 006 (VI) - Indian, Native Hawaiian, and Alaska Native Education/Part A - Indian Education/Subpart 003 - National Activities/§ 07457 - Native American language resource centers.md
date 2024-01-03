@@ -42,7 +42,7 @@ The Native American language resource center established under subsection (b) ma
 
 &emsp;(3) to provide assistance to Native American language programs seeking Federal resources;
 
-&emsp;(4) to encourage and support teacher preparation programs that prepare teachers to teach Native American languages and to use Native American languages as a medium of instruction, including by disseminating promising practices and developing pedagogical programming and through appropriate alternative pathways to teacher certification;
+&emsp;(4) to encourage and support teacher preparation programs that prepare teachers to teach Native American languages and to useNative American languages as a medium of instruction, including by disseminating promising practices and developing pedagogical programming and through appropriate alternative pathways to teacher certification;
 
 &emsp;(5) to provide information and resources—
 

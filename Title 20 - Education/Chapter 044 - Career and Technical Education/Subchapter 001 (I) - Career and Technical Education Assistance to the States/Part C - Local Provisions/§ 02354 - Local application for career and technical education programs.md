@@ -16,7 +16,7 @@ The eligible agency shall determine the requirements for local applications, exc
 
 &emsp;&emsp;(B) a description of any new programs of study the eligible recipient will develop and submit to the State for approval; and
 
-&emsp;&emsp;(C) how students, including students who are members of special populations, willlearn about their school's career and technical education course offerings and whether each course is part of a career and technical education program of study;
+&emsp;&emsp;(C) how students, including students who are members of special populations, will learn about their school's career and technical education course offerings and whether each course is part of a career and technical education program of study;
 
 &emsp;(3) a description of how the eligible recipient, in collaboration with local workforce development boards and other local workforce agencies, one-stop delivery systems described in section 3151(e)(2) of title 29, and other partners, will provide—
 

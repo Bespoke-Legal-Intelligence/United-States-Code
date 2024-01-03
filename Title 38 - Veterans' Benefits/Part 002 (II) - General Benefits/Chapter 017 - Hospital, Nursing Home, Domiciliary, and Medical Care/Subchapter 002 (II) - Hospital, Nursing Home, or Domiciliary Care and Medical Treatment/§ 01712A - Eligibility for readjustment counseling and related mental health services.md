@@ -50,7 +50,7 @@
 
 &emsp;(i) Any individual who is a veteran or member of the Armed Forces, including a member of a reserve component of the Armed Forces, who served on active duty in a theater of combat operations or an area at a time during which hostilities occurred in that area.
 
-&emsp;(ii) Any individual who is a veteran or member of the Armed Forces, including a memberof a reserve component of the Armed Forces, who provided direct emergency medical or mental health care, or mortuary services to the causalities of combat operations or hostilities, but who at the time was located outside the theater of combat operations or area of hostilities.
+&emsp;(ii) Any individual who is a veteran or member of the Armed Forces, including a member of a reserve component of the Armed Forces, who provided direct emergency medical or mental health care, or mortuary services to the causalities of combat operations or hostilities, but who at the time was located outside the theater of combat operations or area of hostilities.
 
 &emsp;(iii) Any individual who is a veteran or member of the Armed Forces, including a member of a reserve component of the Armed Forces, who engaged in combat with an enemy of the United States or against an opposing military force in a theater of combat operations or an area at a time during which hostilities occurred in that area by remotely controlling an unmanned aerial vehicle, notwithstanding whether the physical location of such veteran or member during such combat was within such theater of combat operations or area.
 
@@ -94,7 +94,7 @@
 
 (d) The Under Secretary for Health may provide for such training of professional, paraprofessional, and lay personnel as is necessary to carry out this section effectively, and, in carrying out this section, may utilize the services of paraprofessionals, individuals who are volunteers working without compensation, and individuals who are veteran-students (as described in section 3485 of this title) in initial intake and screening activities.
 
-(e)(1) In furnishing counseling and related mental health services under subsections (a) and\(b) of this section, the Secretary shall have available the same authority to enter into contracts or agreements with private facilities that is available to the Secretary in furnishing medical services to veterans suffering from total service-connected disabilities.
+(e)(1) In furnishing counseling and related mental health services under subsections (a) and (b) of this section, the Secretary shall have available the same authority to enter into contracts or agreements with private facilities that is available to the Secretary in furnishing medical services to veterans suffering from total service-connected disabilities.
 
 (2) Before furnishing counseling or related mental health services described in subsections (a) and (b) of this section through a contract facility, as authorized by this subsection, the Secretary shall approve (in accordance with criteria which the Secretary shall prescribe by regulation) the quality and effectiveness of the program operated by such facility for the purpose for which the counseling or services are to be furnished.
 
@@ -166,7 +166,7 @@ Subsec. (a)(1)(C)(vii). Pub. L. 117–328, §402(a)(3)(B), added cl. (vii). Form
 
 Subsec. (a)(1)(C)(viii). Pub. L. 117–328, §402(a)(3)(A), redesignated cl. (vii) as (viii).
 
-Subsec. (a)(1)(C)(viii)(III). Pub. L. 117–328, §403(a)(3), which directed addition of subcl. (III) to cl. (vii), was executed by adding subcl. (III) to cl. (viii), to reflectthe probable intent of Congress and the intervening amendment by Pub. L. 117–328, §402(a)(3)(A). See above.
+Subsec. (a)(1)(C)(viii)(III). Pub. L. 117–328, §403(a)(3), which directed addition of subcl. (III) to cl. (vii), was executed by adding subcl. (III) to cl. (viii), to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–328, §402(a)(3)(A). See above.
 
 Subsec. (h)(6). Pub. L. 117–328, §402(a)(4), added par. (6).
 
@@ -336,7 +336,7 @@ Subsec. (g)(1). Pub. L. 98–160, §101(b)(1), substituted "September 30, 1988" 
 
 Subsec. (g)(1)(A). Pub. L. 98–160, §101(b)(1), substituted "October 1, 1988" for "October 1, 1984".
 
-Subsec. (g)(2). Pub. L. 98–160, §101(b)(2), amended par. (2) generally, designating existing provisions as subpar. (A), substituting "Not later than April 1, 1987, the Administrator shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the Administrator's evaluation of the effectiveness in helping to meet the readjustment needs of veterans who served on active duty during the Vietnam era of the readjustment counseling and mentalhealth services provided pursuant to this section (and of outreach efforts with respect to such counseling and services). Such report shall give particular attention, in light of the results of the study required by section 102 of the Veterans' Health Care Amendments of 1983, to the provision of such counseling and services to veterans with post-traumatic stress disorder and to the diagnosis and treatment of such disorder" for "Not later than April 1, 1984, the Administrator shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the plans made and actions taken to carry out this subsection", and adding subpar. (B).
+Subsec. (g)(2). Pub. L. 98–160, §101(b)(2), amended par. (2) generally, designating existing provisions as subpar. (A), substituting "Not later than April 1, 1987, the Administrator shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the Administrator's evaluation of the effectiveness in helping to meet the readjustment needs of veterans who served on active duty during the Vietnam era of the readjustment counseling and mental health services provided pursuant to this section (and of outreach efforts with respect to such counseling and services). Such report shall give particular attention, in light of the results of the study required by section 102 of the Veterans' Health Care Amendments of 1983, to the provision of such counseling and services to veterans with post-traumatic stress disorder and to the diagnosis and treatment of such disorder" for "Not later than April 1, 1984, the Administrator shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the plans made and actions taken to carry out this subsection", and adding subpar. (B).
 
 Subsec. (g)(3). Pub. L. 98–160, §101(b)(2), added par. (3).
 
@@ -570,7 +570,7 @@ In general.—Child care assistance under the pilot program may include the foll
 
 &emsp;"(B)
 
-Local area.—In providing child care assistance under the pilot program, the child care needs ofthe local area shall be considered and the head of each Vet Center may select the type of care that is most appropriate or feasible for such Vet Center.
+Local area.—In providing child care assistance under the pilot program, the child care needs of the local area shall be considered and the head of each Vet Center may select the type of care that is most appropriate or feasible for such Vet Center.
 
 &emsp;"(C)
 
@@ -854,7 +854,7 @@ De-identified data defined.—In this subsection, the term 'de-identified data' 
 
 &emsp;&emsp;"(A) alters, anonymizes, or aggregates the data so that there is a reasonable basis for expecting that the data could not be linked as a practical matter to a specific individual;
 
-&emsp;&emsp;"(B) publicly commits to refrain from attempting to re-identify the data with a specific individual, and adopts controls to prevent such identification; and
+&emsp;&emsp;"(B) publicly commits to refrain from attempting to re-identify the data with a specific individual,and adopts controls to prevent such identification; and
 
 &emsp;&emsp;"(C) causes the data to be covered by a contractual or other legally enforceable prohibition on each entity to which the Department discloses the data from attempting to use the data to identify a specific individual and requires the same of all onward disclosures.
 
@@ -1190,7 +1190,7 @@ Elements.—The report required by paragraph (1) shall include the following:
 
 #### Pilot Program on Counseling in Retreat Settings for Women Veterans Newly Separated From Service
 
-Pub. L. 111–163, title II, §203, May 5, 2010, 124 Stat. 1143, as amended by Pub. L. 113–175, title I, §102, Sept. 26, 2014, 128 Stat. 1902; Pub. L. 114–58, title I, §109, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title I, §107, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §108, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, §108, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, §5106, Oct. 1, 2020, 134 Stat. 748, provided that:
+Pub. L. 111–163, title II, §203, May 5, 2010, 124 Stat. 1143, as amended by Pub. L. 113–175, title I, §102, Sept.26, 2014, 128 Stat. 1902; Pub. L. 114–58, title I, §109, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title I, §107, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §108, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, §108, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, §5106, Oct. 1, 2020, 134 Stat. 748, provided that:
 
 "(a)
 
@@ -1384,7 +1384,7 @@ Participation in Program.—Each community mental health center, facility of the
 
 "(f)
 
-Compliance With Department Protocols.—Each community mental health center, facility of the Indian Health Service, or other entity participating inthe pilot program under subsection (b) shall comply with—
+Compliance With Department Protocols.—Each community mental health center, facility of the Indian Health Service, or other entity participating in the pilot program under subsection (b) shall comply with—
 
 &emsp;"(1) applicable protocols of the Department before incurring any liability on behalf of the Department for the provision of services as part of the pilot program; and
 
@@ -1408,7 +1408,7 @@ Training of clinicians.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary shall conduct a training program for clinicians of community mental health centers, Indian Health Service facilities, or other entities participating in the pilot program under subsection (b) to ensure that such clinicians can provide the services described in paragraphs (3) and (4) of subsection (a) in a manner that accounts for factors that are unique to the experiences of veterans who served on active duty in Operation Iraqi Freedom or Operation Enduring Freedom (including their combat and military training experiences).
+In general.—The Secretary shall conduct a training program for clinicians of community mental health centers, Indian Health Service facilities, or other entities participating in the pilot program under subsection (b) to ensure that such clinicianscan provide the services described in paragraphs (3) and (4) of subsection (a) in a manner that accounts for factors that are unique to the experiences of veterans who served on active duty in Operation Iraqi Freedom or Operation Enduring Freedom (including their combat and military training experiences).
 
 &emsp;&emsp;"(B)
 
@@ -1548,7 +1548,7 @@ Location of Pilot Program.—
 
 &emsp;"(1)
 
-In general.—The Secretary shall provide assistance under the pilot program in cooperation with 10 centers described in subsection (a) designated by the Secretary for purposes of the pilot program.
+In general.—The Secretary shall provide assistance under the pilot program in cooperation with10 centers described in subsection (a) designated by the Secretary for purposes of the pilot program.
 
 &emsp;"(2)
 
@@ -1690,7 +1690,7 @@ Construction With Current Outreach Program.—The veterans employed under subsec
 
 "(c)
 
-Assignment to Vet Centers.—The Secretary may assign any veteran employed under subsection (a) to any center for the provision of readjustment counseling and related mental health services under section 1712A of title 38, United States Code, that the Secretary considers appropriate in order to meet the purpose described in that subsection.
+Assignment to Vet Centers.—The Secretary may assign any veteran employed under subsection (a)to any center for the provision of readjustment counseling and related mental health services under section 1712A of title 38, United States Code, that the Secretary considers appropriate in order to meet the purpose described in that subsection.
 
 "(d)
 
@@ -1770,7 +1770,7 @@ Allocation of Funds to Department Facilities.—(1) In each of fiscal years 2004
 
 "(e)
 
-Report.—Not later than 12 months after the date of the enactment of this Act \[Nov. 30, 1999\], the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report describing the implementation of this section. The Secretary shall include in the report information onthe allocation of funds to facilities of the Department under the program and a description of the improvements made with those funds to specialized mental health services for veterans."
+Report.—Not later than 12 months after the date of the enactment of this Act \[Nov. 30, 1999\], the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report describing the implementation of this section. The Secretary shall include in the report information on the allocation of funds to facilities of the Department under the program and a description of the improvements made with those funds to specialized mental health services for veterans."
 
 #### Marriage and Family Counseling for Persian Gulf War Veterans
 
@@ -1932,7 +1932,7 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 "(a)(1) The Under Secretary for Health of the Department of Veterans Affairs may designate special programs within the Veterans Health Administration for the diagnosis and treatment of post-traumatic-stress disorder (hereinafter in this section referred to as 'PTSD').
 
-"(2) The Under Secretary for Health shall direct (A) that (in addition to providing diagnostic and treatment services for PTSD) Department programs designated under paragraph (1) (hereinafter in this section referred to as 'designated PTSD programs') carry out activitiesto promote the education and training of health-care personnel (including health-care personnel not working for the Department or the Federal Government) in the causes, diagnosis, and treatment of PTSD, and (B) that (when appropriate) the provision of treatment services under such program be coordinated with the provision of readjustment counseling services under section 1712A of title 38, United States Code.
+"(2) The Under Secretary for Health shall direct (A) that (in addition to providing diagnostic and treatment services for PTSD) Department programs designated under paragraph (1) (hereinafter in this section referred to as 'designated PTSD programs') carry out activities to promote the education and training of health-care personnel (including health-care personnel not working for the Department or the Federal Government) in the causes, diagnosis, and treatment of PTSD, and (B) that (when appropriate) the provision of treatment services under such program be coordinated with the provision of readjustment counseling services under section 1712A of title 38, United States Code.
 
 "(b)(1) The Under Secretary for Health shall establish in the Veterans Health Administration a Special Committee on Post-Traumatic-Stress Disorder (hereinafter in this section referred to as the 'Special Committee'). The Under Secretary for Health shall appoint qualified employees of the Veterans Health Administration to serve on the Special Committee.
 

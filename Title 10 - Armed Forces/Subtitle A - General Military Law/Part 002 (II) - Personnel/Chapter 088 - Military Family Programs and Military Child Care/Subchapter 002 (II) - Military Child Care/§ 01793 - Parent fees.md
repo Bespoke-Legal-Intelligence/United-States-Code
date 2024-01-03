@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense shall prescribe regulations establishing fees to be charged parents for the attendance of children at military child development centers. Those regulations shall be uniform for the military departments and shall require that, in the case of children who attend the centers on a regular basis, the fees shall be based on family income.
+In General.—The Secretary of Defense shall prescribe regulations establishing fees to be charged parents for the attendance of children at military child development centers. Those regulations shall be uniform for the military departments and shall require that, in thecase of children who attend the centers on a regular basis, the fees shall be based on family income.
 
 (b)
 

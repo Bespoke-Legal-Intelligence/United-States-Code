@@ -16,13 +16,13 @@
 
 &emsp;&emsp;(iii) in the case of damage to a facility rather than destruction, a certification that the replacement project is more cost-effective than repair or restoration; and
 
-&emsp;&emsp;(iv) a certification that deferral of the replacement project for inclusion in the next Military Construction Authorization Act would be inconsistent with national security or the protection of health, safety, or environmental quality, as the case may be.
+&emsp;&emsp;(iv) a certification that deferral of the replacement project for inclusion in the next Military Construction Authorization Act would be inconsistent with national securityor the protection of health, safety, or environmental quality, as the case may be.
 
 (2) A replacement project under this subsection may be carried out only after the end of the 7-day period beginning on the date on which a copy of the notification described in paragraph (1) is provided in an electronic medium pursuant to section 480 of this title.
 
 (3) The maximum aggregate amount that the Secretary concerned may obligate from appropriations available for operation and maintenance in any fiscal year for replacement projects under the authority of this subsection is $100,000,000.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 165; amended Pub. L. 102–190, div. B, titleXXVIII, §2870(7), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 108–136, div. A, title X, §1031(a)(45), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 115–91, div. B, title XXVIII, §§2801(c)(2), 2805, Dec. 12, 2017, 131 Stat. 1843, 1846; Pub. L. 116–92, div. B, title XXVIII, §2803, Dec. 20, 2019, 133 Stat. 1882.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 165; amended Pub. L. 102–190, div. B, title XXVIII, §2870(7), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 108–136, div. A, title X, §1031(a)(45), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 115–91, div. B, title XXVIII, §§2801(c)(2), 2805, Dec. 12, 2017, 131 Stat. 1843, 1846; Pub. L. 116–92, div. B, title XXVIII, §2803, Dec. 20, 2019, 133 Stat. 1882.)
 
 #### <b>Editorial Notes</b>
 

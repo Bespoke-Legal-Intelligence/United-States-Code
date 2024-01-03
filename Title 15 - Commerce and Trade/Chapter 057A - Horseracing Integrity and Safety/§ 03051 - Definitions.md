@@ -28,7 +28,7 @@ In this chapter the following definitions apply:
 
 #### (6) Covered persons
 
-&emsp;The term "covered persons" means all trainers, owners, breeders, jockeys, racetracks, veterinarians, persons (legal and natural) licensed by a State racing commission and the agents, assigns, and employees of such persons and other horse support personnel who are engaged in the care, training, or racing of covered horses.
+&emsp;The term "covered persons" means all trainers, owners, breeders, jockeys, racetracks, veterinarians, persons (legal and natural) licensedby a State racing commission and the agents, assigns, and employees of such persons and other horse support personnel who are engaged in the care, training, or racing of covered horses.
 
 #### (7) Equine constituencies
 

@@ -20,7 +20,7 @@ Congress finds that—
 
 &emsp;&emsp;(B) significant contributions to the development of renewable energy and energy efficiency through the established programs of the United States-Israel Binational Industrial Research and Development Foundation and the United States-Israel Binational Science Foundation;
 
-&emsp;(5) on February 1, 1996, the Secretary of Energy (referred to in this section as the "Secretary") and the Israeli Minister of Energy and Infrastructure signed an agreement to establish a framework for collaboration betweenthe United States and Israel in energy research and development activities;
+&emsp;(5) on February 1, 1996, the Secretary of Energy (referred to in this section as the "Secretary") and the Israeli Minister of Energy and Infrastructure signed an agreement to establish a framework for collaboration between the United States and Israel in energy research and development activities;
 
 &emsp;(6) Israeli scientists and engineers are at the forefront of research and development in the field of covered energy sources;
 
@@ -114,7 +114,7 @@ Congress finds that—
 
 &emsp;&emsp;(B) is a joint venture between—
 
-&emsp;&emsp;&emsp;(i)(I) a for-profit business entity, academic institution, National Laboratory (asdefined in section 15801 of this title), or nonprofit entity in the United States; and
+&emsp;&emsp;&emsp;(i)(I) a for-profit business entity, academic institution, National Laboratory (as defined in section 15801 of this title), or nonprofit entity in the United States; and
 
 &emsp;&emsp;&emsp;(II) a for-profit business entity, academic institution, or nonprofit entity in Israel; or
 

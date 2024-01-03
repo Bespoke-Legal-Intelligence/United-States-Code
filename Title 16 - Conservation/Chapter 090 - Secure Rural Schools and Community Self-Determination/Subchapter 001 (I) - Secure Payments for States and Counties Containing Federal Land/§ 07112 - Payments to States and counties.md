@@ -94,7 +94,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 &emsp;&emsp;&emsp;(i) Reserve any portion of the balance for projects in accordance with subchapter II.
 
-&emsp;&emsp;&emsp;(ii) Reserve not more than 7 percent of the total share for the eligible county of the State payment or the county payment for projects in accordance with subchapter III.
+&emsp;&emsp;&emsp;(ii) Reserve not more than 7 percent of the total share for the eligible county ofthe State payment or the county payment for projects in accordance with subchapter III.
 
 &emsp;&emsp;&emsp;(iii) Return the portion of the balance not reserved under clauses (i) and (ii) to the Treasury of the United States.
 
@@ -136,7 +136,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 &emsp;&emsp;&emsp;(i) the eligible county shall be considered to have elected to expend 80 percent of the funds in accordance with paragraph (1)(A); and
 
-&emsp;&emsp;&emsp;(ii) the remainder shall be available to the Secretary concerned to carry out projects in the eligible county to further the purposes described in section 7122(b) ofthis title, section 7123(c) of this title, or section 7124(a)(5) of this title.
+&emsp;&emsp;&emsp;(ii) the remainder shall be available to the Secretary concerned to carry out projects in the eligible county to further the purposes described in section 7122(b) of this title, section 7123(c) of this title, or section 7124(a)(5) of this title.
 
 #### (C) Effect of late payment for fiscal year 2014
 

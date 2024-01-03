@@ -84,7 +84,7 @@ A prior section 207 of act Oct. 17, 1940, ch. 888, art. II, as added Oct. 21, 19
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–232 amended par. (1) generally. Prior to amendment, text read as follows: "In order for an obligation or liability of a servicemember to be subject to the interest rate limitation in subsection (a), the servicemember shall provide to the creditor written notice and a copy of the military orders calling the servicemember to military service and any orders further extending military service, not later than 180 days after the date of the servicemember's termination or release from military service."
 
-<b>2010</b>—Subsec. (f). Pub. L. 111–275 struck out subsec. (f). Text read as follows: "The penalties provided undersubsection (e) are in addition to and do not preclude any other remedy available under law to a person claiming relief under this section, including any award for consequential or punitive damages."
+<b>2010</b>—Subsec. (f). Pub. L. 111–275 struck out subsec. (f). Text read as follows: "The penalties provided under subsection (e) are in addition to and do not preclude any other remedy available under law to a person claiming relief under this section, including any award for consequential or punitive damages."
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–289, §2203(b)(1), substituted "in excess of 6 percent—" for "in excess of 6 percent per year during the period of military service." and added subpars. (A) and (B).
 

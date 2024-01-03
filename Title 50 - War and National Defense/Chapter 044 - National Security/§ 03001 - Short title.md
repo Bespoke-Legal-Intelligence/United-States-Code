@@ -162,7 +162,7 @@ Pub. L. 102–496, title VII, §701, Oct. 24, 1992, 106 Stat. 3188, provided tha
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–477, §1, Oct. 15, 1984, 98 Stat. 2209, provided: "That this Act \[see Tables for classification\] may be cited as the 'Central Intelligence Agency Information Act'."
+Pub. L. 98–477, §1, Oct. 15, 1984, 98 Stat. 2209, provided: "That this Act \[see Tables for classification\] may becited as the 'Central Intelligence Agency Information Act'."
 
 #### Short Title of 1982 Amendment
 
@@ -247,7 +247,7 @@ Pub. L. 108–458, title I, §1103, Dec. 17, 2004, 118 Stat. 3700, provided that
 
 #### Construction of References to Director of Central Intelligence
 
-Pub. L. 108–487, title VIII, §802, Dec. 23, 2004, 118 Stat. 3962, provided that: "Except as otherwise specifically provided or otherwise provided by context, any reference in this Act \[see Effective Date of 2004 Amendments note set out under section 2656f of Title 22, Foreign Relations and Intercourse\], or in the classified annex to accompany this Act, to the Director of Central Intelligence shall be deemed to be a reference to the Director of Central Intelligence as head of the intelligence community."
+Pub. L. 108–487, title VIII, §802, Dec. 23, 2004, 118 Stat. 3962, provided that: "Except as otherwise specifically provided or otherwise provided by context, any reference in this Act \[see Effective Date of 2004 Amendments note set out under section 2656f of Title 22, Foreign Relations and Intercourse\], or in the classified annex to accompany this Act, to the Director of Central Intelligence shall be deemed to be a reference tothe Director of Central Intelligence as head of the intelligence community."
 
 #### Anomalous Health Incidents Interagency Coordinator
 
@@ -1633,7 +1633,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Purpose</i>. The United States collects signals intelligence so that its national security decisionmakers have access to the timely, accurate, and insightful information necessary to advance the national security interests of the United States and to protect its citizens and the citizens of its allies and partners from harm. Signals intelligence capabilities are a major reason we have been able to adapt to a dynamic and challenging security environment, and the United States must preserve and continue to develop robust and technologically advanced signals intelligence capabilities to protect our security and that of our allies and partners. At the same time, the United States recognizes that signals intelligence activities must take into account that all persons should be treated with dignity and respect, regardless of their nationality or wherever they might reside, and that all persons have legitimate privacy interests in the handling of their personal information. Therefore, this order establishes safeguards for such signals intelligence activities.
 
-Sec. 2. <i>Signals Intelligence Activities</i>.
+Sec. 2. <i>Signals Intelligence Activities.</i>
 
 (a) <i>Principles</i>. Signals intelligence activities shall be authorized and conducted consistent with the following principles:
 
@@ -1649,7 +1649,7 @@ Sec. 2. <i>Signals Intelligence Activities</i>.
 
 (b) <i>Objectives</i>. Signals intelligence collection activities shall be conducted in pursuit of legitimate objectives.
 
-(i) <i>Legitimate objectives</i>.
+(i) <i>Legitimate objectives.</i>
 
 &emsp;(A) Signals intelligence collection activities shall be conducted only in pursuit of one or more of the following objectives:
 
@@ -1679,7 +1679,7 @@ Sec. 2. <i>Signals Intelligence Activities</i>.
 
 &emsp;(B) The President may authorize updates to the list of objectives in light of new national security imperatives, such as new or heightened threats to the national security of the United States, for which the President determines that signals intelligence collection activities may be used. The Director of National Intelligence (Director) shall publicly release any updates to the list of objectives authorized by the President, unless the President determines that doing so would pose a risk to the national security of the United States.
 
-(ii) <i>Prohibited objectives</i>.
+(ii) <i>Prohibited objectives.</i>
 
 &emsp;(A) Signals intelligence collection activities shall not be conducted for the purpose of:
 
@@ -1693,7 +1693,7 @@ Sec. 2. <i>Signals Intelligence Activities</i>.
 
 &emsp;(B) It is not a legitimate objective to collect foreign private commercial information or trade secrets to afford a competitive advantage to United States companies and United States business sectors commercially. The collection of such information is authorized only to protect the national security of the United States or of its allies or partners.
 
-(iii) <i>Validation of signals intelligence collection priorities</i>.
+(iii) <i>Validation of signals intelligence collection priorities.</i>
 
 &emsp;(A) Under section 102A of the National Security Act of 1947, as amended (50 U.S.C. 3024), the Director must establish priorities for the Intelligence Community to ensure the timely and effective collection of national intelligence, including national intelligence collected through signals intelligence. The Director does this through the National Intelligence Priorities Framework (NIPF), which the Director maintains and presents to the President, through the Assistant to the President for National Security Affairs, on a regular basis. In order to ensure that signals intelligence collection activities are undertaken to advance legitimate objectives, before presenting the NIPF or any successor framework that identifies intelligence priorities to the President, the Director shall obtain from the Civil Liberties Protection Officer of the Office of the Director of National Intelligence (CLPO) an assessment as to whether, with regard to anticipated signals intelligence collection activities, each of the intelligence priorities identified in the NIPF or successor framework:
 
@@ -1707,7 +1707,7 @@ Sec. 2. <i>Signals Intelligence Activities</i>.
 
 (c) <i>Privacy and civil liberties safeguards</i>. The following safeguards shall fulfill the principles contained in subsections (a)(ii) and (a)(iii) of this section.
 
-(i) <i>Collection of signals intelligence</i>.
+(i) <i>Collection of signals intelligence.</i>
 
 &emsp;(A) The United States shall conduct signals intelligence collection activities only following a determination that a specific signals intelligence collection activity, based on a reasonable assessment of all relevant factors, is necessary to advance a validated intelligence priority, although signals intelligence does not have to be the sole means available or used for advancing aspects of the validated intelligence priority; it could be used, for example, to ensure alternative pathways for validation or for maintaining reliable access to the same information. In determining whether to collect signals intelligence consistent with this principle, the United States—through an element of the Intelligence Community or through an interagency committee consisting in whole or in part of the heads of elements of the Intelligence Community, the heads of departments containing such elements, or their designees—shall consider the availability, feasibility, and appropriateness of other less intrusive sources and methods for collecting the information necessary to advance a validated intelligence priority, including from diplomatic and public sources, and shall prioritize such available, feasible, and appropriate alternatives to signals intelligence.
 
@@ -1715,7 +1715,7 @@ Sec. 2. <i>Signals Intelligence Activities</i>.
 
 &emsp;(C) For purposes of subsection (c)(i) of this section, the scope of a specific signals intelligence collection activity may include, for example, a specific line of effort or target, as appropriate.
 
-(ii) <i>Bulk collection of signals intelligence</i>.
+(ii) <i>Bulk collection of signals intelligence.</i>
 
 &emsp;(A) Targeted collection shall be prioritized. The bulk collection of signals intelligence shall be authorized only based on a determination—by an element of the Intelligence Community or through an interagency committee consisting in whole or in part of the heads of elements of the Intelligence Community, the heads of departments containing such elements, or their designees—that the information necessary to advance a validated intelligence priority cannot reasonably be obtained by targeted collection. When it is determined to be necessary to engage in bulk collection in order to advance a validated intelligence priority, the element of the Intelligence Community shall apply reasonable methods and technical measures in order to limit the data collected to only what is necessary to advance a validated intelligence priority, while minimizing the collection of non-pertinent information.
 
@@ -1743,7 +1743,7 @@ Sec. 2. <i>Signals Intelligence Activities</i>.
 
 &emsp;&emsp;(3) thereafter deleted.
 
-(iii) <i>Handling of personal information collected through signals intelligence</i>.
+(iii) <i>Handling of personal information collected through signals intelligence.</i>
 
 &emsp;(A) <i>Minimization</i>. Each element of the Intelligence Community that handles personal information collected through signals intelligence shall establish and apply policies and procedures designed to minimize the dissemination and retention of personal information collected through signals intelligence.
 
@@ -1783,13 +1783,13 @@ Sec. 2. <i>Signals Intelligence Activities</i>.
 
 (iv) <i>Update and publication of policies and procedures</i>. The head of each element of the Intelligence Community:
 
-&emsp;(A) shall continue to use the policies and procedures issued pursuant to Presidential Policy Directive 28 of January 17, 2014 (Signals Intelligence Activities) (PPD-28), until they are updated pursuant to subsection (c)(iv)(B) of this section;
+&emsp;(A) shall continue to use the policies and procedures issued pursuant to Presidential Policy Directive 28 of January 17, 2014 (Signals Intelligence Activities) (PPD–28), until they are updated pursuant to subsection (c)(iv)(B) of this section;
 
 &emsp;(B) shall, within 1 year of the date of this order \[Oct. 7, 2022\], in consultation with the Attorney General, the CLPO, and the Privacy and Civil Liberties Oversight Board (PCLOB), update those policies and procedures as necessary to implement the privacy and civil liberties safeguards in this order; and
 
 &emsp;(C) shall, within 1 year of the date of this order, release these policies and procedures publicly to the maximum extent possible, consistent with the protection of intelligence sources and methods, in order to enhance the public's understanding of, and to promote public trust in, the safeguards pursuant to which the United States conducts signals intelligence activities.
 
-(v) <i>Review by the PCLOB</i>.
+(v) <i>Review by the PCLOB.</i>
 
 &emsp;(A) <i>Nature of review</i>. Consistent with applicable law, the PCLOB is encouraged to conduct a review of the updated policies and procedures described in subsection (c)(iv)(B) of this section once they have been issued to ensure that they are consistent with the enhanced safeguards contained in this order.
 
@@ -1807,21 +1807,21 @@ Sec. 2. <i>Signals Intelligence Activities</i>.
 
 (ii) <i>Training</i>. Each element of the Intelligence Community shall maintain appropriate training requirements to ensure that all employees with access to signals intelligence know and understand the requirements of this order and the policies and procedures for reporting and remediating incidents of non-compliance with applicable United States law.
 
-(iii) <i>Significant incidents of non-compliance</i>.
+(iii) <i>Significant incidents of non-compliance.</i>
 
 &emsp;(A) Each element of the Intelligence Community shall ensure that, if a legal, oversight, or compliance official, as described in subsection (d)(i) of this section, or any other employee, identifies a significant incident of non-compliance with applicable United States law, the incident is reported promptly to the head of the element of the Intelligence Community, the head of the executive department or agency (agency) containing the element of the Intelligence Community (to the extent relevant), and the Director.
 
 &emsp;(B) Upon receipt of such report, the head of the element of the Intelligence Community, the head of the agency containing the element of the Intelligence Community (to the extent relevant), and the Director shall ensure that any necessary actions are taken to remediate and prevent the recurrence of the significant incident of non-compliance.
 
-(e) <i>Savings clause</i>. Provided the signals intelligence collection is conducted consistent with and in the manner prescribed by this section of this order, this order does not limit any signals intelligence collection technique authorized under the National Security Act of 1947, as amended (50 U.S.C. 3001 et seq.), the Foreign Intelligence Surveillance Act of 1978, as amended (50 U.S.C. 1801 et seq.) (FISA), Executive Order 12333, or other applicable law or Presidential directive.
+(e) <i>Savings clause</i>. Provided the signals intelligence collection is conducted consistent with and in the manner prescribed by this section of this order, this order does not limit any signals intelligence collection technique authorized under the National Security Act of 1947, as amended (50 U.S.C. 3001 <i>et seq</i>.), the Foreign Intelligence Surveillance Act of 1978, as amended (50 U.S.C. 1801 <i>et seq</i>.) (FISA), Executive Order 12333, or other applicable law or Presidential directive.
 
-Sec. 3. <i>Signals Intelligence Redress Mechanism</i>.
+Sec. 3. <i>Signals Intelligence Redress Mechanism.</i>
 
 (a) <i>Purpose</i>. This section establishes a redress mechanism to review qualifying complaints transmitted by the appropriate public authority in a qualifying state concerning United States signals intelligence activities for any covered violation of United States law and, if necessary, appropriate remediation.
 
 (b) <i>Process for submission of qualifying complaints</i>. Within 60 days of the date of this order, the Director, in consultation with the Attorney General and the heads of elements of the Intelligence Community that collect or handle personal information collected through signals intelligence, shall establish a process for the submission of qualifying complaints transmitted by the appropriate public authority in a qualifying state.
 
-(c) <i>Initial investigation of qualifying complaints by the CLPO</i>.
+(c) <i>Initial investigation of qualifying complaints by the CLPO.</i>
 
 (i) <i>Establishment</i>. The Director, in consultation with the Attorney General, shall establish a process that authorizes the CLPO to investigate, review, and, as necessary, order appropriate remediation for qualifying complaints. This process shall govern how the CLPO will review qualifying complaints in a manner that protects classified or otherwise privileged or protected information and shall ensure, at a minimum, that for each qualifying complaint the CLPO shall:
 
@@ -1859,7 +1859,7 @@ Sec. 3. <i>Signals Intelligence Redress Mechanism</i>.
 
 (iv) <i>Independence</i>. The Director shall not interfere with a review by the CLPO of a qualifying complaint under subsection (c)(i) of this section; nor shall the Director remove the CLPO for any actions taken pursuant to this order, except for instances of misconduct, malfeasance, breach of security, neglect of duty, or incapacity.
 
-(d) <i>Data Protection Review Court</i>.
+(d) <i>Data Protection Review Court.</i>
 
 (i) <i>Establishment</i>. The Attorney General is authorized to and shall establish a process to review determinations made by the CLPO under subsection (c)(i) of this section. In exercising that authority, the Attorney General shall, within 60 days of the date of this order, promulgate regulations establishing a Data Protection Review Court to exercise the Attorney General's authority to review such determinations. These regulations shall, at a minimum, provide that:
 
@@ -1883,7 +1883,7 @@ Sec. 3. <i>Signals Intelligence Redress Mechanism</i>.
 
 (iii) <i>Assistance</i>. Each element of the Intelligence Community shall provide the CLPO with access to information necessary to conduct the review described in subsection (d)(i) of this section, consistent with the protection of intelligence sources and methods, that a Data Protection Review Court panel requests from the CLPO and shall not take any actions for the purpose of impeding or improperly influencing a panel's review.
 
-(iv) <i>Independence</i>. The Attorney General shall not interfere with a review by a Data Protection Review Court panel of a determination the CLPO made regarding a qualifying complaint under subsection (c)(i) of this section; nor shall the Attorney General remove any judges appointed as provided in subsection (d)(i)(A) of this section, or remove any judge from service on a Data Protection Review Court panel, except for instances of misconduct, malfeasance, breach of security, neglect of duty, or incapacity, after taking due account of the standards in the Rules for Judicial-Conduct and Judicial-Disability Proceedings promulgated by the Judicial Conference of the United States pursuant to the Judicial Conduct and Disability Act \[probably means the Judicial Improvements Act of 2002\] (28 U.S.C. 351 et seq.).
+(iv) <i>Independence</i>. The Attorney General shall not interfere with a review by a Data Protection Review Court panel of a determination the CLPO made regarding a qualifying complaint under subsection (c)(i) of this section; nor shall the Attorney General remove any judges appointed as provided in subsection (d)(i)(A) of this section, or remove any judge from service on a Data Protection Review Court panel, except for instances of misconduct, malfeasance, breach of security, neglect of duty, or incapacity, after taking due account of the standards in the Rules for Judicial-Conduct and Judicial-Disability Proceedings promulgated by the Judicial Conference of the United States pursuant to the Judicial Conduct and Disability Act \[probably means the Judicial Improvements Act of 2002\] (28 U.S.C. 351 <i>et seq</i>.).
 
 (v) <i>Record of determinations</i>. For each qualifying complaint transmitted by the appropriate public authority in a qualifying state, the Secretary of Commerce shall:
 
@@ -1893,7 +1893,7 @@ Sec. 3. <i>Signals Intelligence Redress Mechanism</i>.
 
 &emsp;(C) if informed that such information has been declassified, notify the complainant, through the appropriate public authority in a qualifying state, that information pertaining to the review of their complaint by the CLPO or to the review of any application for review submitted to the Data Protection Review Court may be available under applicable law.
 
-(e) <i>Annual review by PCLOB of redress process</i>.
+(e) <i>Annual review by PCLOB of redress process.</i>
 
 (i) <i>Nature of review</i>. Consistent with applicable law, the PCLOB is encouraged to conduct an annual review of the processing of qualifying complaints by the redress mechanism established by section 3 of this order, including whether the CLPO and the Data Protection Review Court processed qualifying complaints in a timely manner; whether the CLPO and the Data Protection Review Court are obtaining full access to necessary information; whether the CLPO and the Data Protection Review Court are operating consistent with this order; whether the safeguards established by section 2 of this order are properly considered in the processes of the CLPO and the Data Protection Review Court; and whether the elements of the Intelligence Community have fully complied with determinations made by the CLPO and the Data Protection Review Court.
 
@@ -1909,7 +1909,7 @@ Sec. 3. <i>Signals Intelligence Redress Mechanism</i>.
 
 (iv) <i>Consideration of review</i>. Within 180 days of receipt of any report by the PCLOB described in subsection (e)(iii)(A) of this section, the Attorney General, the Director, the heads of elements of the Intelligence Community, and the CLPO shall carefully consider and shall implement or otherwise address all recommendations contained in such report, consistent with applicable law.
 
-(f) <i>Designation of qualifying state</i>.
+(f) <i>Designation of qualifying state.</i>
 
 (i) To implement the redress mechanism established by section 3 of this order, the Attorney General is authorized to designate a country or regional economic integration organization as a qualifying state for purposes of the redress mechanism established pursuant to section 3 of this order, effective immediately or on a date specified by the Attorney General, if the Attorney General determines, in consultation with the Secretary of State, the Secretary of Commerce, and the Director, that:
 
@@ -2001,7 +2001,7 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (e) The collection, retention, and dissemination of information concerning United States persons is governed by multiple legal and policy requirements, such as those required by FISA and Executive Order 12333. This order is not intended to alter the rules applicable to United States persons adopted pursuant to FISA, Executive Order 12333, or other applicable law.
 
-(f) This order shall apply to signals intelligence activities consistent with the scope of PPD-28's application to such activities prior to PPD-28's partial revocation by the national security memorandum issued concurrently with this order. To implement this subsection, the head of each agency containing an element of the Intelligence Community, in consultation with the Attorney General and the Director, is hereby delegated the authority to issue guidance, which may be classified, as appropriate, as to the scope of application of this order with respect to the element or elements of the Intelligence Community within their agency. The CLPO and the Data Protection Review Court, in carrying out the functions assigned to it under this order, shall treat such guidance as authoritative and binding.
+(f) This order shall apply to signals intelligence activities consistent with the scope of PPD–28's application to such activities prior to PPD–28's partial revocation by the national security memorandum issued concurrently with this order. To implement this subsection, the head of each agency containing an element of the Intelligence Community, in consultation with the Attorney General and the Director, is hereby delegated the authority to issue guidance, which may be classified, as appropriate, as to the scope of application of this order with respect to the element or elements of the Intelligence Community within their agency. The CLPO and the Data Protection Review Court, in carrying out the functions assigned to it under this order, shall treat such guidance as authoritative and binding.
 
 (g) Nothing in this order confers authority to declassify or disclose classified national security information except as authorized pursuant to Executive Order 13526 or any successor order. Consistent with the requirements of Executive Order 13526, the CLPO, the Data Protection Review Court, and the special advocates shall not have authority to declassify classified national security information, nor shall they disclose any classified or otherwise privileged or protected information except to authorized and appropriately cleared individuals who have a need to know the information.
 

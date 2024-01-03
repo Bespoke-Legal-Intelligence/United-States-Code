@@ -46,7 +46,7 @@ No loan guarantee shall be made unless the Secretary determines that—
 
 #### (A) In general
 
-&emsp;&emsp;If a borrower defaults (as defined in regulations promulgated by the Secretary and specified in the loan guarantee) on the obligation, the holder of the loan guarantee shall have the right to demand payment of the unpaid amount from the Secretary.
+&emsp;&emsp;If a borrower defaults (as defined in regulations promulgated by the Secretary andspecified in the loan guarantee) on the obligation, the holder of the loan guarantee shall have the right to demand payment of the unpaid amount from the Secretary.
 
 #### (B) Payment required
 
@@ -90,7 +90,7 @@ In establishing the terms and conditions of a loan guarantee under this section,
 
 #### (1) In general
 
-&emsp;The Secretary shall charge and collect fees for loan guarantees in amounts the Secretarydetermines are sufficient to cover applicable administrative expenses.
+&emsp;The Secretary shall charge and collect fees for loan guarantees in amounts the Secretary determines are sufficient to cover applicable administrative expenses.
 
 #### (2) Availability
 
@@ -142,7 +142,7 @@ The Secretary shall issue final regulations before making any loan guarantees un
 
 #### (2) Report
 
-&emsp;The results of the independent audit under paragraph (1) shall be provided directly to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+&emsp;The results of the independent audit under paragraph (1) shall be provided directly to the Committee on Science and Technology of theHouse of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 #### (n) Report to Congress
 
@@ -186,7 +186,7 @@ In this section:
 
 #### (4) Loan guarantee
 
-&emsp;The term "loan guarantee" has the meaning given such term in section 661a of title 2. Theterm includes a loan guarantee commitment (as defined in section 661a of title 2).
+&emsp;The term "loan guarantee" has the meaning given such term in section 661a of title 2. The term includes a loan guarantee commitment (as defined in section 661a of title 2).
 
 #### (5) Obligation
 

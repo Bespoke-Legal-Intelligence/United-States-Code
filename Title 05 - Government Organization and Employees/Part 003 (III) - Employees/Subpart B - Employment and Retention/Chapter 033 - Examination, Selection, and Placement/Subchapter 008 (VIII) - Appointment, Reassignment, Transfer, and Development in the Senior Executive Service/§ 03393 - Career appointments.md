@@ -86,7 +86,7 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 #### Temporary Inapplicability of Certification of Executive Qualifications by Qualification Review Boards of Office of Personnel Management
 
-Pub. L. 115–232, div. A, title XI, §1109, Aug. 13, 2018, 132 Stat. 2010, as amended by Pub. L. 116–283, div. A, title XI, §1118, Jan. 1, 2021, 134 Stat. 3897, provided that:
+Pub. L. 115–232, div. A, title XI, §1109, Aug. 13, 2018, 132 Stat. 2010, as amended by Pub. L. 116–283, div. A, title XI, §1118, Jan. 1, 2021, 134 Stat. 3897; Pub. L. 118–31, div. A, title XI, §1118, Dec. 22, 2023, 137 Stat. 433, provided that:
 
 "(a)
 
@@ -106,7 +106,7 @@ Reports.—
 
 &emsp;"(1)
 
-Initial report.—Not later than one year after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary shall submit to the committees of Congress and official specified in paragraph (3) a report on the number and type of appointments made under this section as of the date of the report, including—
+Initial report.—Not later than one year after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary shall submit to the committees of Congress and official specified in paragraph (4) a report on the number and type of appointments made under this section as of the date of the report, including—
 
 &emsp;&emsp;"(A) a description of the qualifications of the individuals appointed; and
 
@@ -114,7 +114,7 @@ Initial report.—Not later than one year after the date of the enactment of thi
 
 &emsp;"(2)
 
-Final report.—Not later than two years after the date of the enactment of this Act, the Secretary shall submit to the committees of Congress and official specified in paragraph (3) a report on the use of the authority in this section. The report shall include the following:
+Final report.—Not later than two years after the date of the enactment of this Act, the Secretary shall submit to the committees of Congress and official specified in paragraph (4) a report on the use of the authority in this section. The report shall include the following:
 
 &emsp;&emsp;"(A) The number and type of appointments made under this section during the one-year period ending on the date of the report.
 
@@ -128,17 +128,31 @@ Final report.—Not later than two years after the date of the enactment of this
 
 &emsp;"(3)
 
+Additional report.—Not later than December 1, 2024, the Secretary shall submit to the committees of Congress specified in paragraph (4) and the Comptroller General of the United States a report on the use of the authority provided in this section. The report shall include the following:
+
+&emsp;&emsp;"(A) The number and type of appointments made under this section between August 13, 2018, and the date of the report.
+
+&emsp;&emsp;"(B) Data on and an assessment of whether appointments under the authority in this section reduced the time to hire when compared with the time to hire under the review system of the Office of Personnel Management in use as of the date of the report.
+
+&emsp;&emsp;"(C) An assessment of the utility of the appointment authority and process under this section.
+
+&emsp;&emsp;"(D) An assessment of whether the appointments made under this section resulted in higher quality new executives for the Senior Executive Service ofthe Department when compared with the executives produced in the Department under the review system in use between August 13, 2013, and August 13, 2018.
+
+&emsp;&emsp;"(E) Any recommendation for the improvement of the selection and qualification process for the Senior Executive Service of the Department that the Secretary considers necessary in order to attract and hire highly qualified candidates for service in that Senior Executive Service.
+
+&emsp;"(4)
+
 Committees of congress and official.—The committees of Congress and official specified in this paragraph are—
 
 &emsp;&emsp;"(A) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate;
 
-&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives; and
+&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives; and
 
 &emsp;&emsp;"(C) the Director of the Office of Personnel Management.
 
 "(e)
 
-Sunset.—Subsection (a) shall cease to be effective on August 13, 2023."
+Sunset.—Subsection (a) shall cease to be effective on September 30, 2025."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

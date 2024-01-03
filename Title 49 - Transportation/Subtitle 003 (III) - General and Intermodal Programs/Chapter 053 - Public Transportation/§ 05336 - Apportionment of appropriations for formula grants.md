@@ -84,7 +84,7 @@ Amounts Not Apportioned to Designated Recipients.—The Governor of a State may 
 
 Transfers of Apportionments.—(1) The Governor of a State may transfer any part of the State's apportionment under subsection (a)(1) of this section to supplement amounts apportioned to the State under section 5311(c)(3).<sup>1</sup> The Governor may make a transfer only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was apportioned under this section.
 
-(2) The Governor of a State may transfer any part of the State's apportionment under section 5311(c)(3)<sup>1</sup> to supplement amounts apportioned to the State under subsection (a)(1) of this section.
+(2) The Governor of a State may transfer any part of the State's apportionment under section5311(c)(3)<sup>1</sup> to supplement amounts apportioned to the State under subsection (a)(1) of this section.
 
 (3) The Governor of a State may use throughout the State amounts of a State's apportionment remaining available for obligation at the beginning of the 90-day period before the period of the availability of the amounts expires.
 
@@ -170,7 +170,7 @@ Apportionment Formula.—The amounts apportioned under subsection (h)(2) shall b
 
 &emsp;&emsp;(B) the number of eligible low-income individuals in all such urbanized areas.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 840; Pub. L. 104–287, §5(19), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §§3027(a), (b), 3029(b)(10), (11), June 9, 1998, 112 Stat. 366, 373; Pub. L. 109–59, title III, §§3002(b)(4), 3034, Aug. 10, 2005, 119 Stat. 1545, 1627; Pub. L. 110–244, title II, §201(l), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20026, July 6, 2012, 126 Stat. 719; Pub. L. 113–159, title I, §1202, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1202, May 29,2015, 129 Stat. 223; Pub. L. 114–41, title I, §1202, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1202, Oct. 29, 2015, 129 Stat. 573; Pub. L. 114–87, title I, §1202, Nov. 20, 2015, 129 Stat. 682; Pub. L. 114–94, div. A, title III, §3014, Dec. 4, 2015, 129 Stat. 1478; Pub. L. 117–58, div. C, §§30001(b)(3), 30015(a), (b)(1), Nov. 15, 2021, 135 Stat. 890, 910.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 840; Pub. L. 104–287, §5(19), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §§3027(a), (b), 3029(b)(10), (11), June 9, 1998, 112 Stat. 366, 373; Pub. L. 109–59, title III, §§3002(b)(4), 3034, Aug. 10, 2005, 119 Stat. 1545, 1627; Pub. L. 110–244, title II, §201(l), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20026, July 6, 2012, 126 Stat. 719; Pub. L. 113–159, title I, §1202, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1202, May 29, 2015, 129 Stat. 223; Pub. L. 114–41, title I, §1202, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1202, Oct. 29, 2015, 129 Stat. 573; Pub. L. 114–87, title I, §1202, Nov. 20, 2015, 129 Stat. 682; Pub. L. 114–94, div. A, title III, §3014, Dec. 4, 2015, 129 Stat. 1478; Pub. L. 117–58, div. C, §§30001(b)(3), 30015(a), (b)(1), Nov. 15, 2021, 135 Stat. 890, 910.)
 
 Historical and Revision Notes
 

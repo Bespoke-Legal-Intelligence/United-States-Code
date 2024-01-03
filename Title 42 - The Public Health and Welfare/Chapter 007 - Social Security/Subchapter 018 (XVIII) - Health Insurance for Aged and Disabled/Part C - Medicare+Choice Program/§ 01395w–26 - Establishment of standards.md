@@ -24,7 +24,7 @@
 
 #### (2) Publication of notice
 
-&emsp;In carrying out the rulemaking process under this subsection, the Secretary, afterconsultation with the National Association of Insurance Commissioners, the American Academy of Actuaries, organizations representative of medicare beneficiaries, and other interested parties, shall publish the notice provided for under section 564(a) of title 5 by not later than 45 days after August 5, 1997.
+&emsp;In carrying out the rulemaking process under this subsection, the Secretary, after consultation with the National Association of Insurance Commissioners, the American Academy of Actuaries, organizations representative of medicare beneficiaries, and other interested parties, shall publish the notice provided for under section 564(a) of title 5 by not later than 45 days after August 5, 1997.
 
 #### (3) Target date for publication of rule
 

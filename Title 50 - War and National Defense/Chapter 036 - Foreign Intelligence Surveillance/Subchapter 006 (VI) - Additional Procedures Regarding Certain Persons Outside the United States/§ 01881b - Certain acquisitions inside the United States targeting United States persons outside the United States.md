@@ -134,7 +134,7 @@
 
 #### (7) Compliance
 
-&emsp;At or prior to the end of the period of time for which an acquisition is approved by anorder or extension under this section, the judge may assess compliance with the minimization procedures referred to in paragraph (1)(C) by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
+&emsp;At or prior to the end of the period of time for which an acquisition is approved by an order or extension under this section, the judge may assess compliance with the minimization procedures referred to in paragraph (1)(C) by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
 
 #### (d) Emergency authorization
 
@@ -182,7 +182,7 @@ Except as provided in this section, nothing in this chapter shall be construed t
 
 #### Repeal of Section
 
-<i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Dec. 31, 2023, this section is repealed.</i>
+<i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Apr. 19, 2024, this section is repealed.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -194,5 +194,5 @@ This chapter, referred to in subsecs. (a), (d)(1), and (g), was in the original 
 
 #### Effective Date of Repeal
 
-Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective Dec. 31, 2023.
+Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective Apr. 19, 2024.
 

@@ -12,7 +12,7 @@ Congress finds the following:
 
 &emsp;(5) In order to combat sexual harassment and assault, it is essential that victims and survivors have the freedom to report and publicly disclose their abuse.
 
-&emsp;(6) Nondisclosure and nondisparagement provisions in agreements between employers and current, former, and prospective employees, and independent contractors, and between providers of goods and services and consumers, can perpetuate illegal conduct by silencingthose who are survivors of illegal sexual harassment and assault or illegal retaliation, or have knowledge of such conduct, while shielding perpetrators and enabling them to continue their abuse.
+&emsp;(6) Nondisclosure and nondisparagement provisions in agreements between employers and current, former, and prospective employees, and independent contractors, and between providers of goods and services and consumers, can perpetuate illegal conduct by silencing those who are survivors of illegal sexual harassment and assault or illegal retaliation, or have knowledge of such conduct, while shielding perpetrators and enabling them to continue their abuse.
 
 &emsp;(7) Prohibiting nondisclosure and nondisparagement clauses will empower survivors to come forward, hold perpetrators accountable for abuse, improve transparency around illegal conduct, enable the pursuit of justice, and make workplaces safer and more productive for everyone.
 

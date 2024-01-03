@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(iii) determine whether any other applicable requirement of law (other than a requirement relating to release from customs custody) is met.
 
-(2)(A) The documentation or information required under paragraph (1) with respect to any imported merchandise shall be filed or transmitted in such manner and within such time periods as the Secretary shall by regulation prescribe. Such regulations shall provide for the filing of import activity summary statements, and permit the filing of reconfigured entries, covering merchandise released under a special delivery permit pursuant to section 1448(b) of this title and entries or warehouse withdrawals made during a calendar month, within such time period as is prescribed in regulations but not to exceed the 20th day following such calendar month. Entries filed under paragraph (1)(A)shall not be liquidated if covered by an import activity summary statement, but instead each reconfigured entry in the import activity summary statement shall be subject to liquidation or reliquidation pursuant to section 1500, 1501, or 1504 of this title.
+(2)(A) The documentation or information required under paragraph (1) with respect to anyimported merchandise shall be filed or transmitted in such manner and within such time periods as the Secretary shall by regulation prescribe. Such regulations shall provide for the filing of import activity summary statements, and permit the filing of reconfigured entries, covering merchandise released under a special delivery permit pursuant to section 1448(b) of this title and entries or warehouse withdrawals made during a calendar month, within such time period as is prescribed in regulations but not to exceed the 20th day following such calendar month. Entries filed under paragraph (1)(A) shall not be liquidated if covered by an import activity summary statement, but instead each reconfigured entry in the import activity summary statement shall be subject to liquidation or reliquidation pursuant to section 1500, 1501, or 1504 of this title.
 
 (B) When an entry of merchandise is made under this section, the required documentation or information shall be filed or electronically transmitted either by the owner or purchaser of the merchandise or, when appropriately designated by the owner, purchaser, or consignee of the merchandise, a person holding a valid license under section 1641 of this title. When a consignee declares on entry that he is the owner or purchaser of merchandise the Customs Service may, without liability, accept the declaration. For the purposes of this chapter, the importer of record must be one of the parties who is eligible to file the documentation or information required by this section.
 
@@ -50,7 +50,7 @@ The Secretary, the Secretary of Commerce, and the United States International Tr
 
 #### (g) Statement of cost of production
 
-Under such regulations as the Secretary may prescribe, the Customs Service may require averified statement from the manufacturer or producer showing the cost of producing the imported merchandise, if the Customs Service considers such verification necessary for the appraisement of such merchandise.
+Under such regulations as the Secretary may prescribe, the Customs Service may require a verified statement from the manufacturer or producer showing the cost of producing the imported merchandise, if the Customs Service considers such verification necessary for the appraisement of such merchandise.
 
 #### (h) Admissibility of data electronically transmitted
 
@@ -106,9 +106,9 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 Provisions requiring entry of goods, and prescribing the manner of making it, the documents to be produced, etc., were contained in R.S. §2785. Provision for entry when the particulars of the merchandise were unknown was made by R.S. §2788. A special provision regarding entry of distilled spirits and wines was contained in R.S. §2794. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
-Provisions relating to the production of certified invoices were contained in act Oct. 3, 1913, ch. 16, §III, E, 38 Stat. 182, which reenacted the provisions of the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 92, which amended Customs Administrative Act of June 10, 1890, ch. 407, §4, 26 Stat. 131. Said section III, E, was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989. Earlier provisions were contained in R.S. §2860, and act June 22, 1874, ch. 391, §§9, 10, and 11, all repealed by act June 10, 1890, ch. 407, §29, 26 Stat. 141.
+Provisions relating to the production of certified invoices were contained in act Oct. 3, 1913, ch. 16, §III, E, 38 Stat. 182, which reenacted the provisions of the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 92, which amended Customs Administrative Actof June 10, 1890, ch. 407, §4, 26 Stat. 131. Said section III, E, was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989. Earlier provisions were contained in R.S. §2860, and act June 22, 1874, ch. 391, §§9, 10, and 11, all repealed by act June 10, 1890, ch. 407, §29, 26 Stat. 141.
 
-R.S. §2842 required bond for the production of an invoice duly certified by the oath of the owner or one of them, in the case of merchandise belonging to a resident of the United States absent from the place of entry. R.S. §2852, provided that when merchandise was admitted to entry on invoice, the collector should certify the same, and no other evidence of value should be admitted on the part of the owner, except in corroboration of the entry. R.S. §2859, made special provision for entry of merchandise from countries where there wasno United States consul, etc. These sections were all repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+R.S. §2842 required bond for the production of an invoice duly certified by the oath of the owner or one of them, in the case of merchandise belonging to a resident of the United States absent from the place of entry. R.S. §2852, provided that when merchandise was admitted to entry on invoice, the collector should certify the same, and no other evidence of value should be admitted on the part of the owner, except in corroboration of the entry. R.S. §2859, made special provision for entry of merchandise from countries where there was no United States consul, etc. These sections were all repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 R.S. §§2847 and 2848 authorized the Secretary of the Treasury to admit to entry in certain cases merchandise subject to ad valorem duty, belonging to a person not residing in the United States, not accompanied with an invoice verified and authenticated as required by preceding section. They became inoperative by the repeal of R.S. §§2843, 2845, by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, reenacted by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 104, and the enactment of provisions for entry of goods without invoice by section 4 of said Customs Administrative Act amended by the Payne-Aldrich Tariff Act, and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, E, and were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
@@ -154,7 +154,7 @@ Subsec. (c). Pub. L. 97–446, §201(d)(2), substituted "importer of record" for
 
 Subsec. (d). Pub. L. 97–446, §201(d)(2), substituted "importer of record" for "consignee" after "signed by the".
 
-Subsec. (h). Pub. L. 97–446, §201(d)(3), substituted provision relating to authority of carrier of merchandise bringing it into the port to certify any person to receive the merchandise if the carrier has actual knowledge of the accuracy of the certification, for provision that any person certified by the carrier bringing the merchandise to the port at which entry was to be made to be the owner or consignee of the merchandise, or an agent of such owner or consignee, might make entry thereof, either in person or by an authorized agent, in the manner and subject to the requirements prescribedin this section (or in regulations promulgated hereunder) in the case of a consignee within the meaning of paragraph (1) of section 1483 of this title.
+Subsec. (h). Pub. L. 97–446, §201(d)(3), substituted provision relating to authority of carrier of merchandise bringing it into the port to certify any person to receive the merchandise if the carrier has actual knowledge of the accuracy of the certification, for provision that any person certified by the carrier bringing the merchandise to the port at which entry was to be made to be the owner or consignee of the merchandise, or an agent of such owner or consignee, might make entry thereof, either in person or by an authorized agent, in the manner and subject to the requirements prescribed in this section (or in regulations promulgated hereunder) in the case of a consignee within the meaning of paragraph (1) of section 1483 of this title.
 
 Subsec. (i). Pub. L. 97–446, §201(d)(3), substituted provision authorizing appropriate customs officer to accept a duplicate bill of lading, for provision that any person might, upon the production of a duplicate bill of lading signed or certified to be genuine by the carrier bringing the merchandise to the port at which entry was to be made, make entry for the merchandise in respect to which such bill of lading was issued, in the manner and subject to the requirements prescribed in this section (or in regulations promulgated hereunder) in the case of a consignee within the meaning of paragraph (1) of section 1483 of this title, except that such person was to make such entry in his own name.
 
@@ -222,7 +222,7 @@ Amendment by act Aug. 8, 1953, effective on and after thirtieth day following Au
 
 #### Effective Date of 1938 Amendment
 
-Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under section 1401 of this title.
+Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwisespecifically provided, see section 37 of act June 25, 1938, set out as a note under section 1401 of this title.
 
 #### Regulations
 
@@ -330,7 +330,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;"(2)
 
-Commercial operations advisory committee.—The term 'Commercial Operations Advisory Committee' means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\] (\[former\] 19 U.S.C. 2071 note) or any successor committee \[see 19 U.S.C. 4316(a)\].
+Commercial operations advisory committee.—The term 'Commercial Operations AdvisoryCommittee' means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\] (\[former\] 19 U.S.C. 2071 note) or any successor committee \[see 19 U.S.C. 4316(a)\].
 
 &emsp;"(3)
 

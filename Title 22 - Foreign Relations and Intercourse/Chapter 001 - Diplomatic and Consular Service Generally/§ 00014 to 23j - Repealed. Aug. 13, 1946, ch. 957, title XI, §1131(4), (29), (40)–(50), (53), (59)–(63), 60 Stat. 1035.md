@@ -38,7 +38,7 @@ Section 23f, act May 24, 1924, ch. 182, §31, as added Feb. 23, 1931, ch. 276, �
 
 Section 23g, act May 24, 1924, ch. 182, §31, as added Feb. 23, 1931, ch. 276, §7, 46 Stat. 1214; amended May 3, 1945, ch. 105, §10, 59 Stat. 105, related to Chief of Division of Foreign Service personnel and Director of Office of Foreign Service.
 
-Section 23h, act May 24, 1924, ch. 182, §32, as added Feb. 23, 1931, ch. 276, §7, 46 Stat. 1214; amended July 3,1946, ch. 539, §5, 60 Stat. 427, related to Division of Foreign Service Personnel, efficiency ratings, etc.
+Section 23h, act May 24, 1924, ch. 182, §32, as added Feb. 23, 1931, ch. 276, §7, 46 Stat. 1214; amended July 3, 1946, ch. 539, §5, 60 Stat. 427, related to Division of Foreign Service Personnel, efficiency ratings, etc.
 
 Section 23i, act May 24, 1924, ch. 182, §33, as added Feb. 23, 1931, ch. 276, §7, 46 Stat. 1215; amended Apr. 24, 1939, ch. 84, §4, 53 Stat. 588, related to separation of officers from Service, retirement pay, and annuities.
 

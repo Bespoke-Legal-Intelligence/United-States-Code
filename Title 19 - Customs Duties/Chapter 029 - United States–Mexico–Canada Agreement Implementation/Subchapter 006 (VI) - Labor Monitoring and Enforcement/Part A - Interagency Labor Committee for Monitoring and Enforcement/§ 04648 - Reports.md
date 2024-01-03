@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 180 days after January 29, 2020, and every 180 days thereafter for 10 years exceptas provided in subsection (b), the Interagency Labor Committee shall submit to the appropriate congressional committees a report that includes—
+Not later than 180 days after January 29, 2020, and every 180 days thereafter for 10 years except as provided in subsection (b), the Interagency Labor Committee shall submit to the appropriate congressional committees a report that includes—
 
 &emsp;(1) a description of Committee staffing and capacity building activities with Mexico;
 

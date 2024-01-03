@@ -2,7 +2,7 @@
 
 (a)(1) The Welfare and Pension Plans Disclosure Act \[29 U.S.C. 301 et seq.\] is repealed except that such Act shall continue to apply to any conduct and events which occurred before the effective date of this part.
 
-(2)(A) Section 664 of title 18 is amended by striking out "any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act" and inserting in lieu thereof "any employee benefit plan subject to any provisions oftitle I of the Employee Retirement Income Security Act of 1974".
+(2)(A) Section 664 of title 18 is amended by striking out "any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act" and inserting in lieu thereof "any employee benefit plan subject to any provisions of title I of the Employee Retirement Income Security Act of 1974".
 
 (B)(i) Section 1027 of such title 18 is amended by striking out "Welfare and Pension Plans Disclosure Act" and inserting in lieu thereof "title I of the Employee Retirement Income Security Act of 1974", and by striking out "Act" each place it appears and inserting in lieu thereof "title".
 

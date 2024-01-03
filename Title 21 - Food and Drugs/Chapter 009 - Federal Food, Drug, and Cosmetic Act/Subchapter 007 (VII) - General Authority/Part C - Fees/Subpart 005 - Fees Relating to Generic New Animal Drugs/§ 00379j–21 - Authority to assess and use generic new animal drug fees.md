@@ -18,7 +18,7 @@ Beginning with respect to fiscal year 2009, the Secretary shall assess and colle
 
 #### (i) Previously filed application
 
-&emsp;&emsp;&emsp;If an abbreviated application was submitted by a person that paid the fee for such application, was accepted for filing, and was not approved or was withdrawn (without a waiver or refund), the submission of an abbreviated application for the same product by the same person (or the person's licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
+&emsp;&emsp;&emsp;If an abbreviated application was submitted by a person that paid the fee forsuch application, was accepted for filing, and was not approved or was withdrawn (without a waiver or refund), the submission of an abbreviated application for the same product by the same person (or the person's licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
 
 #### (ii) Certain abbreviated applications involving combination animal drugs
 
@@ -86,57 +86,97 @@ Beginning with respect to fiscal year 2009, the Secretary shall assess and colle
 
 &emsp;&emsp;&emsp;(iii) 50 percent of the amount of the generic new animal drug sponsor fee published for that fiscal year under subsection (c) for an applicant with 1 or fewer approved abbreviated applications.
 
+#### (4) Generic investigational new animal drug file fee
+
+#### (A) In general
+
+#### (i) New file request
+
+&emsp;&emsp;&emsp;Each person that submits a request to establish a generic investigational new animal drug file on or after October 1, 2023, shall be assessed a fee as established under subsection (c).
+
+#### (ii) New submission to established file
+
+&emsp;&emsp;&emsp;Each person that makes a submission to a generic investigational new animal drug file on or after October 1, 2023, where such file was established prior to October 1, 2023, shall be assessed a fee for the first submission on or after October 1, 2023, as established under subsection (c).
+
+#### (B) Payment
+
+#### (i) New file request
+
+&emsp;&emsp;&emsp;The fee required by subparagraph (A)(i) shall be due upon submission of the request to establish the generic investigational new animal drug file.
+
+#### (ii) New submission to established file
+
+&emsp;&emsp;&emsp;The fee required by subparagraph (A)(ii) shall be due upon the first submission to the generic investigational new animal drug file.
+
+#### (C) Exceptions
+
+#### (i) Terminating an existing generic investigational new animal drug file
+
+&emsp;&emsp;&emsp;If a person makes a submission to the generic investigational new animal drug file to terminate that file, the person shall not be subject to a fee under subparagraph (A)(ii) for that submission.
+
+#### (ii) Transferring an existing generic investigational new animal drug file
+
+&emsp;&emsp;&emsp;If a person makes a submission to the generic investigational new animal drug file to transfer that file to a different generic new animal drug sponsor, the person shall not be subject to a fee under subparagraph (A)(ii) for that submission.
+
 #### (b) Fee revenue amounts
 
 #### (1) In general
 
-&emsp;Subject to subsections (c), (d), (f), and (g), for each of fiscal years 2019 through 2023, the fees required under subsection (a) shall be established to generate a total revenue amount of $18,336,340.
+&emsp;Subject to subsections (c), (d), (f), and (g), for each of fiscal years 2024 through 2028, the fees required under subsection (a) shall be established to generate a total revenue amount of $25,000,000.
 
 #### (2) Types of fees
 
 &emsp;Of the total revenue amount established for a fiscal year under paragraph (1)—
 
-&emsp;&emsp;(A) 25 percent shall be derived from fees under subsection (a)(1) (relating to abbreviated applications for a generic new animal drug);
+&emsp;&emsp;(A) 20 percent shall be derived from fees under subsection (a)(1) (relating to abbreviated applications for a generic new animal drug) and fees under subsection (a)(4) (relating to generic investigational new animal drug files);
 
-&emsp;&emsp;(B) 37.5 percent shall be derived from fees under subsection (a)(2) (relating to generic new animal drug products); and
+&emsp;&emsp;(B) 40 percent shall be derived from fees under subsection (a)(2) (relating to generic new animal drug products); and
 
-&emsp;&emsp;(C) 37.5 percent shall be derived from fees under subsection (a)(3) (relating to generic new animal drug sponsors).
+&emsp;&emsp;(C) 40 percent shall be derived from fees under subsection (a)(3) (relating to generic new animal drug sponsors).
 
 #### (c) Annual fee setting; adjustments
 
 #### (1) Annual fee setting
 
-&emsp;The Secretary shall establish, 60 days before the start of each fiscal year beginning after September 30, 2008, for that fiscal year, abbreviated application fees, generic new animal drug sponsor fees, and generic new animal drug product fees, based on the revenue amounts established under subsection (b) and the adjustments provided under this subsection.
+&emsp;The Secretary shall establish, not later than 60 days before the start of each fiscal year beginning after September 30, 2023, for that fiscal year—
+
+&emsp;&emsp;(A) abbreviated application fees that are based on the revenue amounts established under subsection (b), the adjustments provided under this subsection, and the amount of fees anticipated to be collected under subsection (a)(4) during that fiscal year;
+
+&emsp;&emsp;(B) generic new animal drug sponsor fees, and generic new animal drug product fees, based on the revenue amounts established under subsection (b) and the adjustments provided under this subsection; and
+
+&emsp;&emsp;(C) a generic investigational new animal drug file fee of $50,000 for each request or submission described in subsection (a)(4)(A).
 
 #### (2) Inflation adjustment
 
 #### (A) In general
 
-&emsp;&emsp;For fiscal year 2020 and subsequent fiscal years, the revenue amounts established under subsection (b) shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year, by multiplying such revenue amounts by an amount equal to the sum of—
+&emsp;&emsp;For fiscal year 2025 and subsequent fiscal years, the revenue amounts established under subsection (b) shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year, by multiplying such revenue amounts by an amount equal to the sum of—
 
 &emsp;&emsp;&emsp;(i) one;
 
 &emsp;&emsp;&emsp;(ii) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 of the preceding 4 fiscal years for which data are available, multiplied by the average proportion of personnel compensation and benefits costs to total Food and Drug Administration costs for the first 3 of the preceding 4 fiscal years for which data are available; and
 
-&emsp;&emsp;&emsp;(iii) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; not seasonally adjusted; all items less food and energy; annual index) for the first 3 of the preceding 4 years for which data are available multiplied by the average proportion of all costs other than personnel compensation andbenefits costs to total Food and Drug Administration costs for the first 3 of the preceding 4 fiscal years for which data are available.
+&emsp;&emsp;&emsp;(iii) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Arlington-Alexandria, DC–MD–VA–WV; not seasonally adjusted; all items less food and energy; annual index) for the first 3 of the preceding 4 years for which data are available multiplied by the average proportion of all costs other than personnel compensation and benefits costs to total Food and Drug Administration costs for the first 3 of the preceding 4 fiscal years for which data are available.
 
 #### (B) Compounded basis
 
-&emsp;&emsp;The adjustment made each fiscal year after fiscal year 2020 under this paragraph shall be applied on a compounded basis to the revenue amount calculated under this paragraph for the most recent previous fiscal year.
+&emsp;&emsp;The adjustment made each fiscal year after fiscal year 2025 under this paragraph shall be applied on a compounded basis to the revenue amount calculated under this paragraph for the most recent previous fiscal year.
 
 #### (3) Workload adjustments
 
 #### (A) In general
 
-&emsp;&emsp;For fiscal year 2020 and subsequent fiscal years, after the fee revenue amounts established under subsection (b) are adjusted for inflation in accordance with paragraph (2), the fee revenue amounts shall be further adjusted for each such fiscal year to reflect changes in the workload of the Secretary for the process for the review of abbreviated applications for generic new animal drugs, subject to subparagraphs (B) and (C). With respect to such adjustment—
+&emsp;&emsp;For fiscal year 2025 and subsequent fiscal years, after the fee revenue amounts established under subsection (b) are adjusted for inflation in accordance with paragraph (2), the fee revenue amounts shall be further adjusted for each such fiscal year to reflect changes in the workload of the Secretary for the process for the review of abbreviated applications for generic new animal drugs, subject to subparagraphs (B) and (C). With respect to such adjustment—
 
-&emsp;&emsp;&emsp;(i) this adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of abbreviated applications for generic new animal drugs, manufacturing supplemental abbreviated applications for generic new animal drugs, investigational generic new animal drug study submissions, and investigational generic new animal drug protocol submissions submitted to the Secretary; and
+&emsp;&emsp;&emsp;(i) this adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of abbreviated applications for generic new animal drugs, manufacturing supplemental abbreviated applications for generic new animal drugs, investigational generic new animal drug study submissions, investigational generic new animal drug protocol submissions, requests to establish a generic investigational new animal drug file, and generic investigational new animal drug meeting requests submitted to the Secretary;
 
-&emsp;&emsp;&emsp;(ii) the Secretary shall publish in the Federal Register the fees resulting from this adjustment and the supporting methodologies.
+&emsp;&emsp;&emsp;(ii) if the workload adjustment calculated by the Secretary under clause (i) exceeds 25 percent, the Secretary shall use 25 percent for the adjustment; and
+
+&emsp;&emsp;&emsp;(iii) the Secretary shall publish in the Federal Register the fees resulting from this adjustment and the supporting methodologies.
 
 #### (B) Reduction of workload-based increase by amount of certain excess collections
 
-&emsp;&emsp;For each of fiscal years 2021 through 2023, if application of the workload adjustment under subparagraph (A) increases the fee revenue amounts otherwise established for the fiscal year under subsection (b), as adjusted for inflation under paragraph (2), such fee revenue increase shall be reduced by the amount of any excess collections, as described in subsection (g)(4), for the second preceding fiscal year, up to the amount of such fee revenue increase.
+&emsp;&emsp;For each of fiscal years 2026 through 2028, if application of the workload adjustment under subparagraph (A) increases the fee revenue amounts otherwise established for the fiscal year under subsection (b), as adjusted for inflation under paragraph (2), such fee revenue increase shall be reduced by the amount of any excess collections, as described in subsection (g)(4), for the second preceding fiscal year, up to the amount of such fee revenue increase.
 
 #### (C) Rule of application
 
@@ -144,39 +184,29 @@ Beginning with respect to fiscal year 2009, the Secretary shall assess and colle
 
 #### (4) Final year adjustment
 
-&emsp;For fiscal year 2023, the Secretary may, in addition to other adjustments under this subsection, further increase the fees under this section, if such an adjustment is necessary, to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of abbreviated applications for generic new animal drugs for the first 3 months of fiscal year 2024. If the Food and Drug Administration has carryover balances for the process for the review of abbreviated applications for generic new animal drugs in excess of 3 months of such operating reserves, then this adjustment shall not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2023.
+&emsp;For fiscal year 2028, the Secretary may, in addition to other adjustments under this subsection, further increase the fees under this section, if such an adjustment is necessary, to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of abbreviated applications for generic new animal drugs for the first 3 months of fiscal year 2029. If the Food and Drug Administration has carryover balances for the process for the review of abbreviated applications for generic new animal drugs in excess of 3 months of such operating reserves, then this adjustment shall not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2028.
 
 #### (5) Limit
 
 &emsp;The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of abbreviated applications for generic new animal drugs.
 
-#### (d) Fee waiver or reduction; exemption from fees
+#### (d) Fee waiver or reduction
 
-#### (1) Fee waiver or reduction
-
-&emsp;The Secretary shall grant a waiver from or a reduction of one or more fees assessed under subsection (a) where the Secretary finds that the generic new animal drug is intended solely to provide for a minor use or minor species indication.
-
-#### (2) Exemption from fees
-
-&emsp;Fees under this section shall not apply with respect to any person who—
-
-&emsp;&emsp;(A) not later than September 30, 2023, submits a supplemental abbreviated application for a generic new animal drug approved under section 360b of this title, solely to add the application number to the labeling of the drug in the manner specified in section 352(w)(3) of this title; and
-
-&emsp;&emsp;(B) otherwise would be subject to fees under this section solely on the basis of such supplemental abbreviated application.
+The Secretary shall grant a waiver from, or a reduction of, one or more fees assessed under subsection (a) where the Secretary finds that the generic new animal drug is intended solely to provide for a minor use or minor species indication.
 
 #### (e) Effect of failure to pay fees
 
-An abbreviated application for a generic new animal drug submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid. An investigational submission for a generic new animal drug that is submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for review by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue review of any abbreviated application for a generic new animal drug, supplemental abbreviated application for a generic new animal drug, or investigational submission for a generic new animal drug from a person if such person has not submitted for payment all fees owed under this section by 30 days after the date upon which they are due.
+An abbreviated application for a generic new animal drug submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid. An investigational submission for a generic new animal drug that is submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for review by the Secretary until all fees owed by such person have been paid. A request to establish a generic investigational new animal drug file that is submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for action by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue review of any abbreviated application for a generic new animal drug, supplemental abbreviated application for a generic new animal drug, or investigational submission for a generic new animal drug from a person if such person has not submitted for payment all fees owed under this section by 30 days after the date upon which they are due.
 
 #### (f) Assessment of fees
 
 #### (1) Limitation
 
-&emsp;Fees may not be assessed under subsection (a) for a fiscal year beginning after fiscal year 2008 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) areequal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 2003 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
+&emsp;Fees may not be assessed under subsection (a) for a fiscal year beginning after fiscal year 2008 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 2003 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
 
 #### (2) Authority
 
-&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate, for abbreviated applications, generic new animal drug sponsors, and generic new animal drug products at any time in such fiscal year notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
+&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate, for abbreviated applications, generic new animal drug products, generic new animal drug sponsors, and generic investigational new animal drug files at any time in such fiscal year notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
 
 #### (g) Crediting and availability of fees
 
@@ -210,15 +240,21 @@ An abbreviated application for a generic new animal drug submitted by a person s
 
 #### (3) Authorization of appropriations
 
-&emsp;For each of the fiscal years 2019 through 2023, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount established under subsection (b) for the fiscal year, as adjusted or otherwise affected under subsection (c).
+&emsp;For each of the fiscal years 2024 through 2028, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount established under subsection (b) for the fiscal year, as adjusted or otherwise affected under subsection (c).
 
-#### (4) <sup>1</sup> Excess collections
+#### (4) Excess collections
 
 &emsp;If the sum total of fees collected under this section for a fiscal year exceeds the amount of fees authorized to be appropriated for such year under paragraph (3), the excess collections shall be credited to the appropriations account of the Food and Drug Administration as provided in paragraph (1).
 
-#### (4) <sup>1</sup> Offset
+#### (5) Recovery of collection shortfalls
 
-&emsp;If the sum of the cumulative amount of fees collected under this section for the fiscal years 2014 through 2016 and the amount of fees estimated to be collected under this section for fiscal year 2017 exceeds the cumulative amount appropriated under paragraph (3) for the fiscal years 2014 through 2017, the excess amount shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2018.
+&emsp;The amount of fees otherwise authorized to be collected under this section shall be increased—
+
+&emsp;&emsp;(A) for fiscal year 2026, by the amount, if any, by which the amount collected under this section and appropriated for fiscal year 2024 falls below the amount of fees authorized for fiscal year 2024 under paragraph (3);
+
+&emsp;&emsp;(B) for fiscal year 2027, by the amount, if any, by which the amount collected under this section and appropriated for fiscal year 2025 falls below the amount of fees authorized for fiscal year 2025 under paragraph (3); and
+
+&emsp;&emsp;(C) for fiscal year 2028, by the amount, if any, by which the amount collected under this section and appropriated for fiscal years 2026 and 2027 (including estimated collections for fiscal year 2027) falls below the amount of fees authorized for such fiscal years under paragraph (3).
 
 #### (h) Collection of unpaid fees
 
@@ -276,7 +312,11 @@ In this section and section 379j–22 of this title:
 
 &emsp;The term "generic new animal drug sponsor" means either an applicant named in an abbreviated application for a generic new animal drug that has not been withdrawn by the applicant and for which approval has not been withdrawn by the Secretary, or a person who has submitted an investigational submission for a generic new animal drug that has not been terminated or otherwise rendered inactive by the Secretary.
 
-#### (8) Investigational submission for a generic new animal drug
+#### (8) Generic investigational new animal drug meeting request
+
+&emsp;The term "generic investigational new animal drug meeting request" means a request submitted by a generic new animal drug sponsor to meet with the Secretary to discuss an investigational submission for a generic new animal drug.
+
+#### (9) Investigational submission for a generic new animal drug
 
 &emsp;The terms "investigational submission for a generic new animal drug" and "investigational submission" mean—
 
@@ -284,17 +324,17 @@ In this section and section 379j–22 of this title:
 
 &emsp;&emsp;(B) the submission of information for the purpose of enabling the Secretary to evaluate the safety or effectiveness of a generic new animal drug in the event of the filing of an abbreviated application or supplemental abbreviated application for such drug.
 
-#### (9) Person
+#### (10) Person
 
 &emsp;The term "person" includes an affiliate thereof (as such term is defined in section 379g(11) of this title).
 
-#### (10) Process for the review of abbreviated applications for generic new animal drugs
+#### (11) Process for the review of abbreviated applications for generic new animal drugs
 
 &emsp;The term "process for the review of abbreviated applications for generic new animal drugs" means the following activities of the Secretary with respect to the review of abbreviated applications, supplemental abbreviated applications, and investigational submissions:
 
 &emsp;&emsp;(A) The activities necessary for the review of abbreviated applications, supplemental abbreviated applications, and investigational submissions.
 
-&emsp;&emsp;(B) The issuance of action letters which approve abbreviated applications or supplemental abbreviated applications or which set forth in detail the specific deficiencies in abbreviated applications, supplemental abbreviated applications, or investigationalsubmissions and, where appropriate, the actions necessary to place such applications, supplemental applications, or submissions in condition for approval.
+&emsp;&emsp;(B) The issuance of action letters which approve abbreviated applications or supplemental abbreviated applications or which set forth in detail the specific deficiencies in abbreviated applications, supplemental abbreviated applications, or investigational submissions and, where appropriate, the actions necessary to place such applications, supplemental applications, or submissions in condition for approval.
 
 &emsp;&emsp;(C) The inspection of generic new animal drug establishments and other facilities undertaken as part of the Secretary's review of pending abbreviated applications, supplemental abbreviated applications, and investigational submissions.
 
@@ -308,15 +348,21 @@ In this section and section 379j–22 of this title:
 
 &emsp;&emsp;(H) Review of advertising and labeling prior to approval of an abbreviated application or supplemental abbreviated application, but not after such application has been approved.
 
-#### (11) Supplemental abbreviated application for generic new animal drug
+&emsp;&emsp;(I) The activities necessary for exploration and implementation of the United Statesand European Union Mutual Recognition Agreement for Pharmaceutical Good Manufacturing Practice Inspections, and the United States and United Kingdom Mutual Recognition Agreement Sectoral Annex for Pharmaceutical Good Manufacturing Practices, and other mutual recognition agreements, with respect to generic new animal drug products subject to review, including implementation activities prior to and following product approval.
+
+#### (12) Request to establish a generic investigational new animal drug file
+
+&emsp;The term "request to establish a generic investigational new animal drug file" means the submission to the Secretary of a request to establish a generic investigational new animal drug file to contain investigational submissions for a generic new animal drug.
+
+#### (13) Supplemental abbreviated application for generic new animal drug
 
 &emsp;The terms "supplemental abbreviated application for a generic new animal drug" and "supplemental abbreviated application" mean a request to the Secretary to approve a change in an approved abbreviated application.
 
-(June 25, 1938, ch. 675, §741, as added Pub. L. 110–316, title II, §202(b), Aug. 14, 2008, 122 Stat. 3515; amended Pub. L. 113–14, title II, §202, June 13, 2013, 127 Stat. 465; Pub. L. 115–234, title II, §202, Aug. 14, 2018, 132 Stat. 2432.)
+(June 25, 1938, ch. 675, §741, as added Pub. L. 110–316, title II, §202(b), Aug. 14, 2008, 122 Stat. 3515; amended Pub. L. 113–14, title II, §202, June 13, 2013, 127 Stat. 465; Pub. L. 115–234, title II, §202, Aug. 14, 2018, 132 Stat. 2432; Pub. L. 118–15, div. B, title III, §2312, Sept. 30, 2023, 137 Stat. 90.)
 
 #### Termination of Section
 
-<i>For termination of section by section 206(a) of Pub. L. 115–234, see Termination Date note below.</i>
+<i>For termination of section by section 2316(a) of Pub. L. 118–15, see Termination Date note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -325,6 +371,50 @@ In this section and section 379j–22 of this title:
 A prior section 741 of act June 25, 1938, was renumbered section 745 and is classified to section 379k of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(4). Pub. L. 118–15, §2312(a), added par. (4).
+
+Subsec. (b)(1). Pub. L. 118–15, §2312(b)(1), substituted "2024 through 2028" for "2019 through 2023" and "$25,000,000" for "$18,336,340".
+
+Subsec. (b)(2)(A). Pub. L. 118–15, §2312(b)(2)(A), substituted "20 percent" for "25 percent" and inserted before semicolon at end "and fees under subsection (a)(4) (relating to generic investigational new animal drug files)".
+
+Subsec. (b)(2)(B), (C). Pub. L. 118–15, §2312(b)(2)(B), (C), substituted "40 percent" for "37.5 percent".
+
+Subsec. (c)(1). Pub. L. 118–15, §2312(c)(1), amended par. (1) generally. Prior to amendment, text read as follows: "The Secretary shall establish, 60 days before the start of each fiscal year beginning after September 30, 2008, for that fiscal year, abbreviated application fees, generic new animal drug sponsor fees, and generic new animal drug product fees, based on the revenue amounts established under subsection (b) and the adjustments provided under this subsection."
+
+Subsec. (c)(2)(A). Pub. L. 118–15, §2312(c)(2)(A), substituted "2025" for "2020" in introductory provisions.
+
+Subsec. (c)(2)(A)(iii). Pub. L. 118–15, §2312(c)(2)(A)(ii), substituted "Arlington-Alexandria" for "Baltimore".
+
+Subsec. (c)(2)(B). Pub. L. 118–15, §2312(c)(2)(B), substituted "2025" for "2020".
+
+Subsec. (c)(3)(A). Pub. L. 118–15, §2312(c)(3)(A)(i), substituted "2025" for "2020" in introductory provisions.
+
+Subsec. (c)(3)(A)(i). Pub. L. 118–15, §2312(c)(3)(A)(ii)(I), substituted "investigational generic new animal drug protocol submissions, requests to establish a generic investigational new animal drug file, and generic investigational new animal drug meeting requests" for "and investigational generic new animal drug protocol submissions".
+
+Subsec. (c)(3)(A)(ii), (iii). Pub. L. 118–15, §2312(c)(3)(A)(ii)(II)–(iv), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Subsec. (c)(3)(B). Pub. L. 118–15, §2312(c)(3)(B), substituted "2026 through 2028" for "2021 through 2023".
+
+Subsec. (c)(4). Pub. L. 118–15, §2312(c)(4), substituted "2028" for "2023" in two places and "2029" for "2024".
+
+Subsec. (d). Pub. L. 118–15, §2312(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to fee waiver or reduction and exemption from fees.
+
+Subsec. (e). Pub. L. 118–15, §2312(e), substituted "A request to establish a generic investigational new animal drug file that is submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for action by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue" for "The Secretary may discontinue".
+
+Subsec. (f)(2). Pub. L. 118–15, §2312(f), substituted "products, generic new animal drug sponsors, and generic investigational new animal drug files at any time" for "sponsors, and generic new animal drug products at any time".
+
+Subsec. (g)(3). Pub. L. 118–15, §2312(g)(1), substituted "2024 through 2028" for "2019 through 2023".
+
+Subsec. (g)(4). Pub. L. 118–15, §2312(g)(2), struck out par. (4) relating to offset. Text read as follows: "If the sum of the cumulative amount of fees collected under this section for the fiscal years 2014 through 2016 and the amount of fees estimated to be collected under this section for fiscal year 2017 exceeds the cumulative amount appropriated under paragraph (3) for the fiscal years 2014 through 2017, the excess amount shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2018."
+
+Subsec. (g)(5). Pub. L. 118–15, §2312(g)(3), added par. (5).
+
+Subsec. (k)(8) to (11). Pub. L. 118–15, §2312(h)(1), (2), added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively. Former par. (11) redesignated (13).
+
+Subsec. (k)(11)(I). Pub. L. 118–15, §2312(h)(3), added subpar. (I).
+
+Subsec. (k)(12), (13). Pub. L. 118–15, §2312(h)(1), (4), added par. (12) and redesignated par. (11) as (13).
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–234, §202(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to fee amounts for fiscal years 2014 to 2018.
 
@@ -350,6 +440,10 @@ Subsec. (g)(3), (4). Pub. L. 115–234, §202(d), added par. (3) and par. (4) re
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2023 Amendment
+
+Pub. L. 118–15, div. B, title III, §2315, Sept. 30, 2023, 137 Stat. 94, provided that: "The amendments made by this chapter \[chapter 2 (§§2311–2316) of subtitle A of title III of div. B of Pub. L. 118–15, amending this section and section 379j–22 of this title and repealing provisions set out as notes under this section and section 379j–22 of this title\] shall take effect on October 1, 2023, or the date of the enactment of this Act \[Sept. 30, 2023\], whichever is later, except that fees under part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21 et seq.), as amended by this chapter, shall be assessed for abbreviated applications for a generic new animal drug and supplemental abbreviated applications for a generic new animal drug received on or after October 1, 2023, regardless of the date of enactment of this Act."
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–234, title II, §205, Aug. 14, 2018, 132 Stat. 2435, provided that: "The amendments made by this title \[see section 201(a) of Pub. L. 115–234, set out as a Short Title of 2018 Amendment note under section 301 of this title\] shall take effect on October 1, 2018, or the date of the enactment of this Act \[Aug. 14, 2018\], whichever is later, except that fees under part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–21 et seq.\], as amended by this title, shall be assessed for abbreviated applications for a generic new animal drug and supplemental abbreviated applications for a generic new animal drug received on or after October 1, 2018, regardless of the date of enactment of this Act."
@@ -360,13 +454,17 @@ Pub. L. 113–14, title II, §205, June 13, 2013, 127 Stat. 474, provided that: 
 
 #### Termination Date
 
-Pub. L. 115–234, title II, §206(a), Aug. 14, 2018, 132 Stat. 2435, provided that: "Section 741 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21) shall cease to be effective October 1, 2023."
+Pub. L. 118–15, div. B, title III, §2316(a), Sept. 30, 2023, 137 Stat. 94, provided that: "Section 741 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21) shall cease to be effective October 1, 2028."
+
+Pub. L. 115–234, title II, §206(a), Aug. 14, 2018, 132 Stat. 2435, which provided that section 741 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21) would cease to be effective Oct. 1, 2023, was repealed by Pub. L. 118–15, div. B, title III, §2316(c), Sept. 30, 2023, 137 Stat. 94, effective Oct. 1, 2023.
 
 Pub. L. 113–14, title II, §206(a), June 13, 2013, 127 Stat. 474, which provided that section 741 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21) would cease to be effective Oct. 1, 2018, was repealed by Pub. L. 115–234, title II, §206(c), Aug. 14, 2018, 132 Stat. 2435, effective Oct. 1, 2018.
 
-Pub. L. 110–316, title II, §204(a), Aug. 14, 2008, 122 Stat. 3524, which provided that the amendments made by section 202 of Pub. L. 110–316 (enacting this section and amending sections 379k, 379l, and 379o of this title) would cease to be effective Oct. 1, 2013, was repealed byPub. L. 113–14, title II, §206(c)(1), June 13, 2013, 127 Stat. 474.
+Pub. L. 110–316, title II, §204(a), Aug. 14, 2008, 122 Stat. 3524, which provided that the amendments made by section 202 of Pub. L. 110–316 (enacting this section and amending sections 379k, 379l, and 379o of this title) would cease to be effective Oct. 1, 2013, was repealed by Pub. L. 113–14, title II, §206(c)(1), June 13, 2013, 127 Stat. 474.
 
 #### Savings Provisions
+
+Pub. L. 118–15, div. B, title III, §2314, Sept. 30, 2023, 137 Stat. 94, provided that: "Notwithstanding the amendments made by this chapter \[chapter 2 (§§2311–2316) of subtitle A of title III of div. B of Pub. L. 118–15, amending this section and section 379j–22 of this title and repealing provisions set out as notes under this section and section 379j–22 of this title\], part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21 et seq.), as in effect on the day before the date of enactment of this chapter \[Sept. 30, 2023\], shall continue to be in effect with respect to abbreviated applications for a generic new animal drug and supplemental abbreviated applications for a generic new animal drug (as defined in such part as of such day) that on or after October 1, 2018, but before October 1, 2023, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2024."
 
 Pub. L. 115–234, title II, §204, Aug. 14, 2018, 132 Stat. 2435, provided that: "Notwithstanding the amendments made by this title \[see section 201(a) of Pub. L. 115–234, set out as a Short Title of 2018 Amendment note under section 301 of this title\], part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21 et seq.), as in effect on the day before the date of enactment of this title \[Aug. 14, 2018\], shall continue to be in effect with respect to abbreviated applications for a generic new animal drug and supplemental abbreviated applications for a generic new animal drug (as defined in such part as of such day) that on or after October 1, 2013, but before October 1, 2018, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2019."
 
@@ -374,17 +472,13 @@ Pub. L. 113–14, title II, §204, June 13, 2013, 127 Stat. 474, provided that: 
 
 #### Findings
 
-Pub. L. 115–234, title II, §201(b), Aug. 14, 2018, 132 Stat. 2432, provided that: "Congress finds that the fees authorized by the amendments made in this title \[see section 201(a) of Pub. L. 115–234, set out as a Short Title of 2018 Amendment note under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified for purposes of part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–21 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor and Pensions of the Senate as set forth in the Congressional Record."
+Pub. L. 118–15, div. B, title III, §2311(b), Sept. 30, 2023, 137 Stat. 90, provided that: "Congress finds that the feesauthorized by the amendments made in this chapter \[chapter 2 (§§2311–2316) of subtitle A of title III of div. B of Pub. L. 118–15, amending this section and section 379j–22 of this title and repealing provisions set out as notes under this section and section 379j–22 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified for purposes of part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21 et seq.), in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
 
-Pub. L. 113–14, title II, §201(b), June 13, 2013, 127 Stat. 464, provided that: "The fees authorized by this title \[see Short Title of 2013 Amendment note set out under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
+Similar provisions were contained in the following prior acts:
 
-Pub. L. 110–316, title II, §201(b), Aug. 14, 2008, 122 Stat. 3515, provided that: "Congress finds as follows:
+Pub. L. 115–234, title II, §201(b), Aug. 14, 2018, 132 Stat. 2432.
 
-&emsp;"(1) Prompt approval of abbreviated applications for safe and effective generic new animal drugs will reduce animal healthcare costs and promote the well-being of animal health and the public health.
+Pub. L. 113–14, title II, §201(b), June 13, 2013, 127 Stat. 464.
 
-&emsp;"(2) Animal health and the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for the review of abbreviated applications for the approval of generic new animal drugs.
-
-&emsp;"(3) The fees authorized by this title \[see Short Title of 2008 Amendment note set out under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
-
-<i><sup>1</sup></i><i> So in original. Two pars. (4) have been enacted.</i>
+Pub. L. 110–316, title II, §201(b), Aug. 14, 2008, 122 Stat. 3515.
 

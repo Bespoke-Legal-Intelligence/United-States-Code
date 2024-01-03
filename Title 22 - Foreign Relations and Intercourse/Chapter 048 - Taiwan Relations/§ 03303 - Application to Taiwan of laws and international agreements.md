@@ -62,7 +62,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §704\], Nov. 29, 1
 
 "(a)
 
-Reports Required.—Not later than 60 days after the date of enactment of this Act \[Nov. 29, 1999\], and every 6 months thereafter for fiscal years 2000 and 2001, the Secretary of State shall submit to Congress a report in a classified and unclassified manner on the status of efforts by the United States Government to support—
+Reports Required.—Not later than 60 days after the date of enactment of this Act \[Nov. 29, 1999\], andevery 6 months thereafter for fiscal years 2000 and 2001, the Secretary of State shall submit to Congress a report in a classified and unclassified manner on the status of efforts by the United States Government to support—
 
 &emsp;"(1) the membership of Taiwan in international organizations that do not require statehood as a prerequisite to such membership; and
 

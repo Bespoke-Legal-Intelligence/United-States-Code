@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(4) the maintenance and expansion of existing markets and development of new markets for soybeans and soybean products are vital to the welfare of soybean producers and processors and those concerned with marketing soybeans and soybean products, as well as to the general economy of the United States, and are necessary to ensure the ready availability and efficient marketing of soybeans and soybean products;
 
-&emsp;(5) there exist established State and national organizations conducting soybean promotion,research, and consumer education programs that are valuable to the efforts of promoting the consumption of soybeans and soybean products;
+&emsp;(5) there exist established State and national organizations conducting soybean promotion, research, and consumer education programs that are valuable to the efforts of promoting the consumption of soybeans and soybean products;
 
 &emsp;(6) the cooperative development, financing, and implementation of a coordinated national program of soybean promotion, research, consumer information, and industry information are necessary to maintain and expand existing markets and develop new markets for soybeans and soybean products; and
 

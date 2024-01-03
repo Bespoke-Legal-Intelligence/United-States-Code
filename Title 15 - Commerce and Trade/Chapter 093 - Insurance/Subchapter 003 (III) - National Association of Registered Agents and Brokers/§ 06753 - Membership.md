@@ -114,7 +114,7 @@ The Association may establish membership criteria that bear a reasonable relatio
 
 #### (2) Business entities
 
-&emsp;The Association shall establish a class of membership and membership criteria for business entities. A business entity that applies for membership shall be required to designate an individual Association member responsible for the compliance of the business entity with Association standards and the insurance laws, standards, and regulations of any State in which the business entity seeks to do business on the basis of Association membership.
+&emsp;The Association shall establish a class of membership and membership criteria for business entities. A business entity that applies for membership shall be required to designate an individual Association member responsible for the compliance of the business entity with Association standards and the insurance laws, standards, and regulations of any State inwhich the business entity seeks to do business on the basis of Association membership.
 
 #### (3) Categories
 
@@ -134,7 +134,7 @@ The Association may establish membership criteria that bear a reasonable relatio
 
 #### (2) Qualifications
 
-&emsp;In establishing criteria under paragraph (1), the Association shall not adopt any qualification less protective to the public than that contained in the National Association of Insurance Commissioners (referred to in this subchapter as the "NAIC") Producer Licensing Model Act in effect as of January 12, 2015, andshall consider the highest levels of insurance producer qualifications established under the licensing laws of the States.
+&emsp;In establishing criteria under paragraph (1), the Association shall not adopt any qualification less protective to the public than that contained in the National Association of Insurance Commissioners (referred to in this subchapter as the "NAIC") Producer Licensing Model Act in effect as of January 12, 2015, and shall consider the highest levels of insurance producer qualifications established under the licensing laws of the States.
 
 #### (3) Assistance from States
 
@@ -186,7 +186,7 @@ The Association may establish membership criteria that bear a reasonable relatio
 
 #### (B) Ongoing disclosures required
 
-&emsp;&emsp;On an ongoing basis, the Association shall disclose to the States (including State insurance regulators) and the NAIC a list of the States in which each member is authorized to operate. The Association shall immediately notify the States (including State insurance regulators) and the NAIC when a member is newly authorized to operate in one or more States, or is no longer authorized to operate in one or more States on the basis of Association membership.
+&emsp;&emsp;On an ongoing basis, the Association shall disclose to the States (including State insurance regulators) and the NAIC a list of the States in which each member is authorized to operate. The Association shall immediately notify the States (including State insurance regulators) and the NAIC when a member is newly authorized to operate inone or more States, or is no longer authorized to operate in one or more States on the basis of Association membership.
 
 #### (5) Preservation of consumer protection and market conduct regulation
 
@@ -212,7 +212,7 @@ Membership in the Association shall be renewed on a biennial basis.
 
 #### (1) In general
 
-&emsp;The Association shall establish, as a condition of membership, continuing education requirements which shall be comparable to thecontinuing education requirements under the licensing laws of a majority of the States.
+&emsp;The Association shall establish, as a condition of membership, continuing education requirements which shall be comparable to the continuing education requirements under the licensing laws of a majority of the States.
 
 #### (2) State continuing education requirements
 
@@ -270,7 +270,7 @@ Membership in the Association shall be renewed on a biennial basis.
 
 The Association may—
 
-&emsp;(1) share documents, materials, or other information, including confidential and privileged documents, with a State, Federal, or international governmental entity or with the NAIC or other appropriate entity referred to <sup>1</sup> paragraphs (3) and (4), provided that the recipient has the authority and agrees to maintain the confidentiality or privileged status of the document, material, or other information;
+&emsp;(1) share documents, materials, or other information, including confidential and privileged documents, with a State, Federal, or international governmental entity or with the NAIC or other appropriate entity referred to <sup>1</sup>paragraphs (3) and (4), provided that the recipient has the authority and agrees to maintain the confidentiality or privileged status of the document, material, or other information;
 
 &emsp;(2) limit the sharing of information as required under this subchapter with the NAIC or any other non-governmental entity, in circumstances under which the Association determines that the sharing of such information is unnecessary to further the purposes of this subchapter;
 

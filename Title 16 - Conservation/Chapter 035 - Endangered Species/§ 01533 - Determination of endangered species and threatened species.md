@@ -58,7 +58,7 @@
 
 (2) The Secretary shall designate critical habitat, and make revisions thereto, under subsection (a)(3) on the basis of the best scientific data available and after taking into consideration the economic impact, the impact on national security, and any other relevant impact, of specifying any particular area as critical habitat. The Secretary may exclude any area from critical habitat if he determines that the benefits of such exclusion outweigh the benefits of specifying such area as part of the critical habitat, unless he determines, based on the best scientific and commercial data available, that the failure to designate such area as critical habitat will result in the extinction of the species concerned.
 
-(3)(A) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under section 553(e) of title 5, to add a species to, or to remove a species from, either of the lists published under subsection (c), the Secretary shall make a finding as to whether the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted. If such a petition is found to present such information, the Secretary shall promptly commence a review of the status of the species concerned. The Secretary shall promptly publish each finding made under this subparagraph in the Federal Register.
+(3)(A) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under section 553(e) of title 5, to add a species to, or to remove a species from,either of the lists published under subsection (c), the Secretary shall make a finding as to whether the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted. If such a petition is found to present such information, the Secretary shall promptly commence a review of the status of the species concerned. The Secretary shall promptly publish each finding made under this subparagraph in the Federal Register.
 
 (B) Within 12 months after receiving a petition that is found under subparagraph (A) to present substantial information indicating that the petitioned action may be warranted, the Secretary shall make one of the following findings:
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(III) notice that such one-year period is being extended under subparagraph (B)(i), or
 
-&emsp;&emsp;(IV) notice that the proposed regulation is being withdrawn under subparagraph (B)(ii),together with the finding on which such withdrawal is based; or
+&emsp;&emsp;(IV) notice that the proposed regulation is being withdrawn under subparagraph (B)(ii), together with the finding on which such withdrawal is based; or
 
 &emsp;(ii) subject to subparagraph (C), if a designation of critical habitat is involved, either—
 
@@ -218,7 +218,7 @@ The Secretary shall establish, and publish in the Federal Register, agency guide
 
 #### (i) Submission to State agency of justification for regulations inconsistent with State agency's comments or petition
 
-If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) files comments disagreeing with all or part ofthe proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3), the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency's comments or petition.
+If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3), the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency's comments or petition.
 
 (Pub. L. 93–205, §4, Dec. 28, 1973, 87 Stat. 886; Pub. L. 94–359, §1, July 12, 1976, 90 Stat. 911; Pub. L. 95–632, §§11, 13, Nov. 10, 1978, 92 Stat. 3764, 3766; Pub. L. 96–159, §3, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, §2(a), Oct. 13, 1982, 96 Stat. 1411; Pub. L. 100–478, title I, §§1002–1004, Oct. 7, 1988, 102 Stat. 2306, 2307; Pub. L. 108–136, div. A, title III, §318, Nov. 24, 2003, 117 Stat. 1433; Pub. L. 117–286, §4(a)(113), Dec. 27, 2022, 136 Stat. 4318.)
 

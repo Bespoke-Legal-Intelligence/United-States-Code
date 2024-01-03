@@ -58,7 +58,7 @@ From amounts available under section 1068h(a)(2) of this title for any fiscal ye
 
 (2) Not more than 50 percent of the allotment of any institution may be available for the purpose of constructing or maintaining a classroom, library, laboratory, or other instructional facility.
 
-(Pub. L. 89–329, title III, §323, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1295; amended Pub. L. 100–50, §2(a)(7), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(b), July 18, 1988, 102 Stat. 838; Pub. L. 102–325, title III, §303(a), (b), July 23, 1992, 106 Stat. 474, 475; Pub. L. 103–208, §2(a)(8), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §304(a), Oct. 7, 1998, 112 Stat. 1642; Pub. L. 110–315, title III, §309, Aug. 14, 2008, 122 Stat. 3177; Pub. L. 111–39, title III, §301(3), July 1, 2009, 123 Stat. 1937.)
+(Pub. L. 89–329, title III, §323, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1295; amended Pub. L. 100–50, §2(a)(7), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(b), July 18, 1988, 102 Stat. 838; Pub. L. 102–325, title III, §303(a), (b), July 23, 1992, 106 Stat. 474, 475; Pub.L. 103–208, §2(a)(8), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §304(a), Oct. 7, 1998, 112 Stat. 1642; Pub. L. 110–315, title III, §309, Aug. 14, 2008, 122 Stat. 3177; Pub. L. 111–39, title III, §301(3), July 1, 2009, 123 Stat. 1937.)
 
 #### <b>Editorial Notes</b>
 

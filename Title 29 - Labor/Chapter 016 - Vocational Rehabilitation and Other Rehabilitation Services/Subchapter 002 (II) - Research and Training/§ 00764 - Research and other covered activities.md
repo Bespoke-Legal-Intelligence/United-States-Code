@@ -50,7 +50,7 @@
 
 &emsp;(iv) providing training (including graduate, pre-service, and in-service training) for independent living and rehabilitation research personnel and other independent living and rehabilitation personnel;
 
-&emsp;(v) serving as an informational and technical assistance resource to individuals with disabilities, as well as to providers, educators, and researchers, by providing outreach and information that clarifies research implications for practice and identifies potential new areas of research; and
+&emsp;(v) serving as an informational and technical assistance resource to individuals with disabilities, as well as to providers, educators, and researchers, by providing outreach and information that clarifies research implications forpractice and identifies potential new areas of research; and
 
 &emsp;(vi) developing practical applications for the research findings of the Centers.
 
@@ -100,7 +100,7 @@
 
 (M) In conducting scientific peer review under section 762(f) of this title of an application for the renewal of a grant made under this paragraph, the peer review panel shall take into account the past performance of the applicant in carrying out the grant and input from individuals with disabilities and the individuals' representatives.
 
-(N) An institution or provider that receives a grant under this paragraph to establish such a Center may not collect more than 15 percent ofthe amount of the grant received by the Center in indirect cost charges.
+(N) An institution or provider that receives a grant under this paragraph to establish such a Center may not collect more than 15 percent of the amount of the grant received by the Center in indirect cost charges.
 
 (3)(A) Research grants may be used for the establishment and support of Rehabilitation Engineering Research Centers, operated by or in collaboration with institutions of higher education or nonprofit organizations, to conduct research or demonstration activities, and training activities, regarding independent living strategies and rehabilitation technology, including rehabilitation engineering, assistive technology devices, and assistive technology services, for the purposes of enhancing opportunities for better meeting the needs of, and addressing the barriers confronted by, individuals with disabilities in all aspects of their lives.
 
@@ -354,7 +354,7 @@ Subsec. (b)(2)(B)(iv). Pub. L. 113–128, §435(2)(B)(ii)(V), inserted "independ
 
 Pub. L. 113–128, §435(2)(B)(ii)(II), redesignated cl. (iii) as (iv). Former cl. (iv) redesignated (v).
 
-Subsec. (b)(2)(B)(v). Pub. L. 113–128, §435(2)(B)(ii)(VI), added cl. (v) and struck out former cl. (v) which read as follows: "serving as an informational and technical assistance resource to providers, individuals with disabilities, and the individuals' representatives, through conferences, workshops, public education programs, in-service training programs, and similar activities."
+Subsec. (b)(2)(B)(v). Pub. L. 113–128, §435(2)(B)(ii)(VI), added cl. (v) and struck out former cl. (v) which read asfollows: "serving as an informational and technical assistance resource to providers, individuals with disabilities, and the individuals' representatives, through conferences, workshops, public education programs, in-service training programs, and similar activities."
 
 Pub. L. 113–128, §435(2)(B)(ii)(II), redesignated cl. (iv) as (v).
 

@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 92–461, §5, Oct. 6, 1972, 86 Stat. 769, which related to exemption of funds distributed percapita under the provisions of this subchapter from Federal and State income taxes and payments to minors and persons under legal disability, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 92–461, §5, Oct. 6, 1972, 86 Stat. 769, which related to exemption of funds distributed per capita under the provisions of this subchapter from Federal and State income taxes and payments to minors and persons under legal disability, was omitted from the Code as being of special and not general application.
 

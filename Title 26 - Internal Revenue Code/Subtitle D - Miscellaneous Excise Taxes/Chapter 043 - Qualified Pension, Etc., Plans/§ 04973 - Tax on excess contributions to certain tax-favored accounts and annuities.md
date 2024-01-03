@@ -16,7 +16,7 @@ In the case of—
 
 &emsp;(6) an ABLE account (within the meaning of section 529A),
 
-> there is imposed for each taxable year a tax in an amount equal to 6 percent of the amount of the excess contributions to such individual's accounts or annuities (determined as of the closeof the taxable year). The amount of such tax for any taxable year shall not exceed 6 percent of the value of the account or annuity (determined as of the close of the taxable year). In the case of an endowment contract described in section 408(b), the tax imposed by this section does not apply to any amount allocable to life, health, accident, or other insurance under such contract. The tax imposed by this subsection shall be paid by such individual.
+> there is imposed for each taxable year a tax in an amount equal to 6 percent of the amount of the excess contributions to such individual's accounts or annuities (determined as of the close of the taxable year). The amount of such tax for any taxable year shall not exceed 6 percent of the value of the account or annuity (determined as of the close of the taxable year). In the case of an endowment contract described in section 408(b), the tax imposed by this section does not apply to any amount allocable to life, health, accident, or other insurance under such contract. The tax imposed by this subsection shall be paid by such individual.
 
 #### (b) Excess contributions
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the distributions out of the accounts for the taxable year (other than rollover distributions); and
 
-&emsp;&emsp;&emsp;(ii) the excess (if any) of the maximum amount which may be contributed to the accounts for the taxable year over theamount contributed to the accounts for the taxable year.
+&emsp;&emsp;&emsp;(ii) the excess (if any) of the maximum amount which may be contributed to the accounts for the taxable year over the amount contributed to the accounts for the taxable year.
 
 #### (2) Special rules
 
@@ -236,7 +236,7 @@ Subsec. (b)(1)(A). Pub. L. 98–369, §491(d)(42), which directed the amendment 
 
 Subsec. (c)(1). Pub. L. 98–369, §491(d)(44), substituted "or 408(d)(3)(A)(iii)" for ", 408(d)(3)(A)(iii), or 409(b)(3)(C)".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–34, §311(h)(9), substituted "The tax imposed by this subsection shall be paid by such individual" for "The tax imposed by this subsection shall be paid by the individual to whom a deduction is allowed for the taxable year under section 219 (determined without regard to subsection (b)(1)thereof) or section 220 (determined without regard to subsection (b)(1) thereof), whichever is appropriate".
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §311(h)(9), substituted "The tax imposed by this subsection shall be paid by such individual" for "The tax imposed by this subsection shall be paid by the individual to whom a deduction is allowed for the taxable year under section 219 (determined without regard to subsection (b)(1) thereof) or section 220 (determined without regard to subsection (b)(1) thereof), whichever is appropriate".
 
 Subsec. (b)(1)(A). Pub. L. 97–34, §313(b)(2), inserted "405(d)(3)," after "403(b)(8),".
 
@@ -272,7 +272,7 @@ Amendment by Pub. L. 117–328 effective as if included in the section of div. O
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–295 applicable to taxable years beginning after Dec. 31, 2014, see section 102(f)(1) of Pub. L. 113–295, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 113–295 applicable to taxable years beginning after Dec. 31, 2014, see section 102(f)(1)of Pub. L. 113–295, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2003 Amendment
 
@@ -318,7 +318,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 1102(b)(1) of Pub. L. 99–514 applicable to contributions and distributions for taxable years beginning after Dec. 31, 1986, see section 1102(g) of Pub. L. 99–514, set out as a note under section 219 of this title.
 
-Amendment by section 1848(f) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369,div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1848(f) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

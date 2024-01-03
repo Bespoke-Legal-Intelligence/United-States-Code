@@ -6,7 +6,7 @@ The responsibilities of an eligible agency under this subchapter shall includeâ€
 
 &emsp;(1) coordination of the development, submission, and implementation of the State plan, and the evaluation of the program, services, and activities assisted under this subchapter, including preparation for non-traditional fields;
 
-&emsp;(2) consultation with the Governor and appropriate agencies, groups, and individuals including teachers, faculty, specialized instructional support personnel, paraprofessionals,school leaders, authorized public chartering agencies and charter school leaders (consistent with State law), employers, representatives of business (including small businesses), labor organizations, eligible recipients, local program administrators, State and local officials, Indian Tribes or Tribal organizations present in the State, parents, students, and community organizations;
+&emsp;(2) consultation with the Governor and appropriate agencies, groups, and individuals including teachers, faculty, specialized instructional support personnel, paraprofessionals, school leaders, authorized public chartering agencies and charter school leaders (consistent with State law), employers, representatives of business (including small businesses), labor organizations, eligible recipients, local program administrators, State and local officials, Indian Tribes or Tribal organizations present in the State, parents, students, and community organizations;
 
 &emsp;(3) convening and meeting as an eligible agency (consistent with State law and procedure for the conduct of such meetings) at such time as the eligible agency determines necessary to carry out the eligible agency's responsibilities under this subchapter, but not less than 4 times annually; and
 

@@ -38,7 +38,7 @@ In any action brought under subsection (a), upon a finding of liability on the p
 
 #### (d) Period for bringing action
 
-Notwithstanding any other provision of law, an action to enforce any liability created underthis section may be brought, without regard to the amount in controversy, at any time within 2 years after the date of discovery by the plaintiff of the unauthorized inspection or disclosure.
+Notwithstanding any other provision of law, an action to enforce any liability created under this section may be brought, without regard to the amount in controversy, at any time within 2 years after the date of discovery by the plaintiff of the unauthorized inspection or disclosure.
 
 #### (e) Notification of unlawful inspection and disclosure
 
@@ -60,7 +60,7 @@ For purposes of this section, the terms "inspect", "inspection", "return", and "
 
 For purposes of this section—
 
-&emsp;(1) any information obtained under section 3406 (including information with respect to any payee certification failure under subsection (d) thereof) shall be treated as return information, and
+&emsp;(1) any information obtained under section 3406 (including information with respect toany payee certification failure under subsection (d) thereof) shall be treated as return information, and
 
 &emsp;(2) any inspection or use of such information other than for purposes of meeting any requirement under section 3406 or (subject to the safeguards set forth in section 6103) for purposes permitted under section 6103 shall be treated as a violation of section 6103.
 

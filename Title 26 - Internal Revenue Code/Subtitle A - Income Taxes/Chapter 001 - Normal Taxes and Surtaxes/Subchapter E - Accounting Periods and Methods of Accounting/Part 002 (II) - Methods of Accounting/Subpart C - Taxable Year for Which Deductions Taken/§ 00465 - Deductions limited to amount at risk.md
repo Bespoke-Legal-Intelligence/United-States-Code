@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) section 544(a)(2) shall be applied as if such section did not contain the phrase "or by or for his partner"; and
 
-&emsp;&emsp;(B) sections 544(a)(4)(A) and 544(b)(1) shall be applied by substituting "the corporationmeet the stock ownership requirements of section 542(a)(2)" for "the corporation a personal holding company".
+&emsp;&emsp;(B) sections 544(a)(4)(A) and 544(b)(1) shall be applied by substituting "the corporation meet the stock ownership requirements of section 542(a)(2)" for "the corporation a personal holding company".
 
 #### (b) Amounts considered at risk
 
@@ -204,7 +204,7 @@
 
 #### (D) Application of subsection (b)(3)
 
-&emsp;&emsp;In the case of an activity described in subparagraph (A), subsection (b)(3) shall apply only to the extent provided in regulations prescribed by the Secretary.
+&emsp;&emsp;In the case of an activity described in subparagraph (A), subsection (b)(3) shall applyonly to the extent provided in regulations prescribed by the Secretary.
 
 #### (4) Exclusion for certain equipment leasing by closely-held corporations
 
@@ -404,7 +404,7 @@
 
 #### (G) Loss of 1 member of affiliated group may not offset income of personal holding company or personal service corporation
 
-&emsp;&emsp;Nothing in this paragraph shall permit any loss of a member of an affiliated group to beused as an offset against the income of any other member of such group which is a personal holding company (as defined in section 542(a)) or a personal service corporation (as defined in section 269A(b) but determined by substituting "5 percent" for "10 percent" in section 269A(b)(2)).
+&emsp;&emsp;Nothing in this paragraph shall permit any loss of a member of an affiliated group to be used as an offset against the income of any other member of such group which is a personal holding company (as defined in section 542(a)) or a personal service corporation (as defined in section 269A(b) but determined by substituting "5 percent" for "10 percent" in section 269A(b)(2)).
 
 #### (d) Definition of loss
 
@@ -534,7 +534,7 @@ Special rule for losses of s corporation, partnership, or pass-thru entity.—In
 
 Special rule for athletic stadium.—The amendments made by this section shall not apply to any losses incurred by a taxpayer with respect to the holding of a multi-use athletic stadium in Pittsburgh, Pennsylvania, which the taxpayer acquired in a sale for which a letter of understanding was entered into before April 16, 1986."
 
-Amendment by section 1011(b)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1011(c)(1) of Pub. L. 99–514, set out as a note under section 453B of this title.
+Amendment by section 1011(b)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 1011(c)(1) of Pub. L. 99–514, set out as a note under section 453B of this title.
 
 #### Effective Date of 1984 Amendment
 

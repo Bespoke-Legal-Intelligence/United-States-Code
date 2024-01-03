@@ -38,11 +38,11 @@ In this chapter:
 
 &emsp;&emsp;(C) To build relationships that promote specific United States security interests.
 
-&emsp;(8) The term "small-scale construction" means construction at a cost not to exceed $1,500,000 for any project.
+&emsp;(8) The term "small-scale construction" means construction at a cost not to exceed $2,000,000 for any project.
 
 &emsp;(9) The term "training" has the meaning given the term "military education and training" in section 644 of the Foreign Assistance Act of 1961 (22 U.S.C. 2403).
 
-(Added Pub. L. 114–328, div. A, title XII, §1241(a)(3), Dec. 23, 2016, 130 Stat. 2498; amended Pub. L. 115–232, div. A, title XII, §1203(a), Aug. 13, 2018, 132 Stat. 2016.)
+(Added Pub. L. 114–328, div. A, title XII, §1241(a)(3), Dec. 23, 2016, 130 Stat. 2498; amended Pub. L. 115–232, div. A, title XII, §1203(a), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 118–31, div. A, title XII, §1203(a), Dec. 22, 2023, 137 Stat. 441.)
 
 #### <b>Editorial Notes</b>
 
@@ -52,13 +52,205 @@ Section 1241(n) of the National Defense Authorization Act for Fiscal Year 2017, 
 
 #### Amendments
 
+<b>2023</b>—Par. (8). Pub. L. 118–31 substituted "$2,000,000" for "$1,500,000".
+
 <b>2018</b>—Par. (8). Pub. L. 115–232 substituted "$1,500,000" for "$750,000".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Clause
 
-Pub. L. 114–328, div. A, title XII, §1253(b), Dec. 23, 2016, 130 Stat. 2532, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(14), Dec. 12, 2017, 131 Stat. 1600, provided that: "Any determination or other action made or taken before the date of the enactment of this Act \[Dec. 23, 2016\] under a provision of law transferred or repealed by this subtitle \[subtitle E (§§1241–1253) of title XII of Pub. L. 114–328, see Tables for classification\] that is in effect as of the date of the enactment of this Act and is necessary for the administration of a successor authority to such provision of law under chapter 16 of title 10, United States Code, by reason of the enactment of such chapter by this subtitle shall remain in effect, in accordance with the terms of such determination or action when made or taken, for purposes of the administration of such successor authority."
+Pub. L. 114–328, div. A, title XII, §1253(b), Dec. 23, 2016, 130 Stat. 2532, as amended by Pub. L. 115–91, div. A, titleX, §1081(d)(14), Dec. 12, 2017, 131 Stat. 1600, provided that: "Any determination or other action made or taken before the date of the enactment of this Act \[Dec. 23, 2016\] under a provision of law transferred or repealed by this subtitle \[subtitle E (§§1241–1253) of title XII of Pub. L. 114–328, see Tables for classification\] that is in effect as of the date of the enactment of this Act and is necessary for the administration of a successor authority to such provision of law under chapter 16 of title 10, United States Code, by reason of the enactment of such chapter by this subtitle shall remain in effect, in accordance with the terms of such determination or action when made or taken, for purposes of the administration of such successor authority."
+
+#### Program and Processes Relating to Foreign Acquisition
+
+Pub. L. 118–31, div. A, title VIII, §873, Dec. 22, 2023, 137 Stat. 350, provided that:
+
+"(a)
+
+Pilot Program for Combatant Command Use of Defense Acquisition Workforce Development Account.—Each commander of a geographic combatant command may use amounts from the Defense Acquisition Workforce Development Account established under section 1705 of title 10, United States Code, to hire not more than two members of the acquisition workforce (as defined in section 101 of such title) or contracting officers to advise the combatant command on the processes for foreign military sales authorized under chapter 2 of the Arms Export Control Act (22 U.S.C. 2761 et seq.) and the Department of Defense security cooperation processes under chapter 16 of title 10, United States Code, for the purpose of facilitating the effective implementation of such processes.
+
+"(b)
+
+Industry Day.—
+
+&emsp;"(1)
+
+In general.—Not later than March 1, 2024, and not less frequently than annually thereafter, the Secretary of Defense shall conduct an event to be known as the 'industry day'—
+
+&emsp;&emsp;"(A) to raise awareness and understanding among officials of foreign governments, covered embassy personnel, and representatives of the defense industrial base with respect to the role of the Department of Defense in implementing the foreign military sales process and the Department of Defense security cooperation process; and
+
+&emsp;&emsp;"(B) to raise awareness—
+
+&emsp;&emsp;&emsp;"(i) within the private sector of the United States with respect to—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;"(I) foreign demand for United States weapon systems; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;"(II) potential foreign industry partnering opportunities; and
+
+&emsp;&emsp;&emsp;"(ii) among officials of foreign governments and covered embassy personnel with respect to potential United States materiel solutions for capability needs.
+
+&emsp;"(2)
+
+Format.—In conducting each industry day under paragraph (1), the Secretary of Defense, to the extent practicable, shall seek to maximize participation by representatives of the defense industrial base and government officials while minimizing cost, by—
+
+&emsp;&emsp;"(A) ensuring that information provided at the industry day is unclassified;
+
+&emsp;&emsp;"(B) making the industry day publicly accessible through teleconference or other virtual means; and
+
+&emsp;&emsp;"(C) posting any supporting materials on a publicly accessible internet website.
+
+&emsp;"(3)
+
+Covered embassy personnel.—In this subsection, the term 'covered embassy personnel' means personnel at United States diplomatic and consular posts and personnel of foreign missions located in the United States.
+
+"(c)
+
+Senior-level Industry Advisory Group.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense, in coordination with representatives of the defense industrial base, shall establish or designate senior-level individuals working in the defense industrial base to serve on an advisory group for the purpose of focusing on the role of the Department of Defense in the foreign military sales process and the Department of Defense security cooperation process. Such advisory group shall terminate on the date specified in subsection (f).
+
+"(d)
+
+Department of Defense Points of Contact for Foreign Military Sales.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act, the Under Secretary of Defense for Acquisition and Sustainment and the Secretary of each military department shall each designate an individual to serve as a single point of contact—
+
+&emsp;&emsp;"(A) to coordinate information and outreach on Department of Defense implementation of the foreign military sales process; and
+
+&emsp;&emsp;"(B) to respond to inquiries from representatives of the defense industrial base and partner countries.
+
+&emsp;"(2)
+
+Points of contact.—The Under Secretary of Defense for Acquisition and Sustainment and the Secretary of each military department shall each ensure that the contact information for each individual designated under paragraph (1) is publicized at each industry day conducted under subsection (b) and disseminated among the members of the advisory group established under subsection (c).
+
+&emsp;"(3)
+
+Termination.—The responsibilities of each individual designated under paragraph (1) shall terminate on the date specified in subsection (f).
+
+"(e)
+
+Regional Theater Needs for Exportability.—Not later than July 1, 2024, and annually thereafter until the date specified in (f) \[sic; probably should be "subsection (f)"\], the Under Secretary of Defense for Acquisition and Sustainment, in consultation with the commander of each geographic combatant command, the Director of Strategy, Plans, and Policy on the Joint Staff, each Secretary of a military department, and the Secretary of State, shall provide to the Secretary of Defense a list of systems relating to research and development, procurement, or sustainment that would benefit from investment for exportability features in support of the security cooperation objectives of the regional theaters.
+
+"(f)
+
+Termination.—The requirements of and the authority under this section shall cease to have effect on December 31, 2028."
+
+#### Technology Release and Foreign Disclosure Reform Initiative
+
+Pub. L. 118–31, div. A, title IX, §918, Dec. 22, 2023, 137 Stat. 370, provided that:
+
+"(a)
+
+Initiative Required.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall carry out an initiative to reform and improve the policies, processes, and procedures applicable to technology release and foreign disclosure decisions by the Department of Defense.
+
+&emsp;"(2)
+
+Objectives.—The objectives of such initiative shall be—
+
+&emsp;&emsp;"(A) to develop recommendations for the continuous improvement of such policies, processes, and procedures within the Department and across other departments and agencies of the Federal Government involved in technology release and foreign disclosure decisions;
+
+&emsp;&emsp;"(B) to increase efficiency and reduce timelines for the processing of such decisions;
+
+&emsp;&emsp;"(C) to standardize, to the extent practicable, processes and information sharing systems applicable to such decisions; and
+
+&emsp;&emsp;"(D) to provide for the continuous exchange of timely and relevant information among—
+
+&emsp;&emsp;&emsp;"(i) the principal organizations involved in technology release and foreign disclosure decisions;
+
+&emsp;&emsp;&emsp;"(ii) the broader acquisition and program executive officer communities; and
+
+&emsp;&emsp;&emsp;"(iii) interagency partners of the Department.
+
+&emsp;"(3)
+
+Method of implementation.—For purposes of the initiative required under paragraph (1), the Secretary of Defense may—
+
+&emsp;&emsp;"(A) establish a new initiative;
+
+&emsp;&emsp;"(B) modify an existing initiative of the Department of Defense; or
+
+&emsp;&emsp;"(C) carry out the initiative through a combination of the approaches described in subparagraphs (A) and (B).
+
+"(b)
+
+Metrics.—
+
+&emsp;"(1)
+
+In general.—In conjunction with the initiative required under subsection (a), the Under Secretary of Defense for Policy shall develop metrics for the management of the technology release and foreign disclosure process to provide objective and subjective measures of performance and improve senior leader decision-making in the Department of Defense.
+
+&emsp;"(2)
+
+Elements.—The metrics developed under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) methods for tracking individual technology release and foreign disclosure decisions made by the Defense Technology Security Administration;
+
+&emsp;&emsp;"(B) objectives and deadlines related to the completion of such decisions; and
+
+&emsp;&emsp;"(C) a method of prioritizing among technology release and foreign disclosure requests that takes into account—
+
+&emsp;&emsp;&emsp;"(i) the importance of the request to the national security of the United States; and
+
+&emsp;&emsp;&emsp;"(ii) the risks associated with the release or disclosure.
+
+&emsp;"(3)
+
+Briefing required.—Not later than June 1, 2024, the Under Secretary of Defense for Policy shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the metrics developed under paragraph (1).
+
+"(c)
+
+Designation of Points of Contact.—Not later than 90 days after the date of the enactment of this Act \[Dec. 22, 2023\]—
+
+&emsp;"(1) the Under Secretary of Defense for Policy shall establish or designate—
+
+&emsp;&emsp;"(A) one position within the Office of the Under Secretary to lead the development and oversee the implementation of technology release and foreign disclosure policies for the Department of Defense; and
+
+&emsp;&emsp;"(B) one position within the Office to coordinate information and outreach to relevant stakeholders on relevant Department of Defense technology release and foreign disclosure policies and to respond to inquiries from representatives of the commercial defense industry and partner countries; and
+
+&emsp;"(2) each Secretary of a military department shall establish or designate—
+
+&emsp;&emsp;"(A) one position within the department under the jurisdiction of such Secretary to lead the development and oversee the implementation of technology release and foreign disclosure policies for that department; and
+
+&emsp;&emsp;"(B) one position within such department to coordinate information and outreach to relevant stakeholders on relevant Department of Defense technology release and foreign disclosure policies and to respond to inquiries from representatives of the commercial defense industry and partner countries.
+
+"(d)
+
+Report Required.—
+
+&emsp;"(1)
+
+In general.—Not later than December 31, 2024, the Secretary of Defense shall submit to the congressional defense committees a report that includes the following:
+
+&emsp;&emsp;"(A) An assessment of the staffing levels of the organizations specified in paragraph (2).
+
+&emsp;&emsp;"(B) An assessment of the feasibility and advisability of consolidating the functions and organizations of the Department of Defense involved in technology release and foreign disclosure decisions, including the organizations specified in paragraph (2).
+
+&emsp;&emsp;"(C) A review of any statutes and regulations applicable to technology release and foreign disclosure, together with recommendations for any changes to such statutes and regulations.
+
+&emsp;&emsp;"(D) A survey and description of the data and methodology used to assess operational risk, technology risk, and the effects of technology release and foreign disclosure decisions on the defense industrial base.
+
+&emsp;&emsp;"(E) An assessment of the benefits of developing and implementing anticipatory policies for technology release and foreign disclosure that include standardized capability thresholds for countries and geopolitical regions, especially for emerging capabilities for partners and allies of the United States.
+
+&emsp;&emsp;"(F) An assessment of the extent to which the lessons learned from technology release and foreign disclosure decisions made in support of the Ukraine conflict have been applied to broader processes.
+
+&emsp;"(2)
+
+Organizations specified.—The organizations specified in this paragraph are—
+
+&emsp;&emsp;"(A) the Defense Technology Security Administration;
+
+&emsp;&emsp;"(B) the Low Observable/Counter Low Observable Tri-Service Committee;
+
+&emsp;&emsp;"(C) the Executive Agent for Anti-Tamper;
+
+&emsp;&emsp;"(D) the Communications Security Review and Advisory Board; and
+
+&emsp;&emsp;"(E) the organizations responsible for technology release and foreign disclosure in each of the military departments."
 
 #### Security Cooperation Programs With Foreign Partners To Advance Women, Peace, and Security
 
@@ -254,7 +446,7 @@ Notice to congress.—Whenever the Secretary prescribes the meaning of the term 
 
 "(4)
 
-Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' has the meaning given that termin section 301(1) of title 10, United States Code, as so added."
+Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' has the meaning given that term in section 301(1) of title 10, United States Code, as so added."
 
 #### Quadrennial Review of Security Sector Assistance Programs and Authorities of the United States Government
 

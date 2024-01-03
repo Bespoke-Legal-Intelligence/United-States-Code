@@ -36,7 +36,7 @@ Not later than 180 days after December 23, 2022, the President shall establish a
 
 &emsp;&emsp;&emsp;(iii) forming policy recommendations for the implementation of relevant United States authorities to respond to instances of PRC coercive economic practices;
 
-&emsp;&emsp;(B) consult with United States allies and partners on the feasibility and desirability of collectively identifying, assessing, and responding to PRC coercive economic practices, as well as actions that could be takento expand coordination with the goal of ensuring a consistent, coherent, and collective response to such practices and establishing long-term deterrence of such practices;
+&emsp;&emsp;(B) consult with United States allies and partners on the feasibility and desirability of collectively identifying, assessing, and responding to PRC coercive economic practices, as well as actions that could be taken to expand coordination with the goal of ensuring a consistent, coherent, and collective response to such practices and establishing long-term deterrence of such practices;
 
 &emsp;&emsp;(C) effectively engage the United States private sector, particularly sectors, groups, or other entities that are susceptible to such PRC coercive economic practices, on concerns related to such practices; and
 
@@ -118,7 +118,7 @@ The President shall—
 
 &emsp;&emsp;(B) A description of areas of possible vulnerability for United States businesses and businesses of United States partners and allies.
 
-&emsp;&emsp;(C) Recommendations on how to continue the effort to counter PRC coercive economicpractices, including through further coordination with United States allies and partners.
+&emsp;&emsp;(C) Recommendations on how to continue the effort to counter PRC coercive economic practices, including through further coordination with United States allies and partners.
 
 &emsp;&emsp;(D) Illustrative examples.
 

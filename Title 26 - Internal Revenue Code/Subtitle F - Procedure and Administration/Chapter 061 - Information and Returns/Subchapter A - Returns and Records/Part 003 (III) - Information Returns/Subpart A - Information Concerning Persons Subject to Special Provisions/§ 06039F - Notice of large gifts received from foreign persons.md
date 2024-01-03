@@ -6,7 +6,7 @@ If the value of the aggregate foreign gifts received by a United States person (
 
 #### (b) Foreign gift
 
-For purposes of this section, the term "foreign gift" means any amount received from a person other than a United States person which the recipient treats as a gift or bequest. Such termshall not include any qualified transfer (within the meaning of section 2503(e)(2)) or any distribution properly disclosed in a return under section 6048(c).
+For purposes of this section, the term "foreign gift" means any amount received from a person other than a United States person which the recipient treats as a gift or bequest. Such term shall not include any qualified transfer (within the meaning of section 2503(e)(2)) or any distribution properly disclosed in a return under section 6048(c).
 
 #### (c) Penalty for failure to file information
 
@@ -54,5 +54,5 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date
 
-Pub. L. 104–188, title I, §1905(c), Aug. 20, 1996, 110 Stat. 1913, provided that: "The amendments made by this section \[enacting this section\] shall apply to amounts received after the date of the enactment of this Act \[Aug. 20, 1996\] in taxable years ending after such date."
+Pub. L. 104–188, title I, §1905(c), Aug. 20, 1996, 110 Stat. 1913, provided that: "The amendments made by thissection \[enacting this section\] shall apply to amounts received after the date of the enactment of this Act \[Aug. 20, 1996\] in taxable years ending after such date."
 

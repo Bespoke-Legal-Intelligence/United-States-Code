@@ -148,7 +148,7 @@ The Director shall carry out research activities on the nature of the primary co
 
 #### (E) Funding
 
-&emsp;&emsp;Out of funds authorized to be appropriated under subsection (k), there are authorized to be appropriated to the Secretary to carryout construction of the facility described in subparagraph (A)—
+&emsp;&emsp;Out of funds authorized to be appropriated under subsection (k), there are authorized to be appropriated to the Secretary to carry out construction of the facility described in subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) $10,000,000 for fiscal year 2023;
 
@@ -180,7 +180,7 @@ The Director shall—
 
 #### (k) Authorization of appropriations
 
-Out of funds authorized to be appropriated for the Office of Science in a fiscal year, there are authorized to be appropriated to the Secretary to carry out the activities described in this section—
+Out of funds authorized to be appropriated for the Office of Science in a fiscal year, there are authorized to be appropriated to the Secretaryto carry out the activities described in this section—
 
 &emsp;(1) $1,159,520,000 for fiscal year 2023;
 

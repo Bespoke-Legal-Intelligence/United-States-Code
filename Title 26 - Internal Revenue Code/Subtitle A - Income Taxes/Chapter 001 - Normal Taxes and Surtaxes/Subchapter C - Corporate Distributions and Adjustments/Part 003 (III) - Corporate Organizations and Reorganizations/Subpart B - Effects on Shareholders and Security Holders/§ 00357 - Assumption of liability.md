@@ -24,7 +24,7 @@ Except as provided in subsections (b) and (c), if—
 
 #### (2) Burden of proof
 
-&emsp;In any suit or proceeding where the burden is on the taxpayer to prove such assumption is not to be treated as money received by thetaxpayer, such burden shall not be considered as sustained unless the taxpayer sustains such burden by the clear preponderance of the evidence.
+&emsp;In any suit or proceeding where the burden is on the taxpayer to prove such assumption is not to be treated as money received by the taxpayer, such burden shall not be considered as sustained unless the taxpayer sustains such burden by the clear preponderance of the evidence.
 
 #### (c) Liabilities in excess of basis
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §898(c), Oct. 22, 2004, 118 Stat. 1649, provided that: "The amendments made by this section \[amending this section and section 361 of this title\] shall apply to transfers of money or other property, or liabilities assumed, in connection with a reorganization occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §898(c), Oct. 22, 2004, 118 Stat. 1649, provided that: "The amendments made bythis section \[amending this section and section 361 of this title\] shall apply to transfers of money or other property, or liabilities assumed, in connection with a reorganization occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 2000 Amendment
 

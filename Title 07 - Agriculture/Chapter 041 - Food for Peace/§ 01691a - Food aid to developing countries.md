@@ -8,7 +8,7 @@ In light of the Uruguay Round Agreement on Agriculture and the Ministerial Decis
 
 It is the sense of Congress that—
 
-&emsp;(1) in negotiations at the Food Aid Convention, the World Trade Organization, the United Nations Food and Agriculture Organization, and other appropriate venues, the President shall—
+&emsp;(1) in negotiations at the Food Aid Convention, the World Trade Organization, theUnited Nations Food and Agriculture Organization, and other appropriate venues, the President shall—
 
 &emsp;&emsp;(A) seek commitments of higher levels of food aid by donors in order to meet the legitimate needs of developing countries;
 

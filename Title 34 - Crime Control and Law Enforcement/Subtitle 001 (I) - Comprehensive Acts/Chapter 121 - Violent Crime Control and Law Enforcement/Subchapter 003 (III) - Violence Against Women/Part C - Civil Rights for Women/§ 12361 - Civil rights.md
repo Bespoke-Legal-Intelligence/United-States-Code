@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;(2) the term "crime of violence" means— <sup>1</sup>
 
-&emsp;&emsp;(A) an act or series of acts that would constitute a felony against the person or that would constitute a felony against property if the conduct presents a serious risk of physical injury to another, and that would come within the meaning of State or Federal offenses described in section 16 of title 18, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction and whether or not those acts were committed in the special maritime,territorial, or prison jurisdiction of the United States; and
+&emsp;&emsp;(A) an act or series of acts that would constitute a felony against the person or that would constitute a felony against property if the conduct presents a serious risk of physical injury to another, and that would come within the meaning of State or Federal offenses described in section 16 of title 18, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction and whether or not those acts were committed in the special maritime, territorial, or prison jurisdiction of the United States; and
 
 &emsp;&emsp;(B) includes an act or series of acts that would constitute a felony described in subparagraph (A) but for the relationship between the person who takes such action and the individual against whom such action is taken.
 
@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (4) Supplemental jurisdiction
 
-&emsp;Neither section 1367 of title 28 nor subsection (c) of this section shall be construed, by reason of a claim arising under such subsection, to confer on the courts of the United States jurisdiction over any State law claim seeking the establishment of a divorce, alimony, equitable distribution of marital property, or child custody decree.
+&emsp;Neither section 1367 of title 28 nor subsection (c) of this section shall be construed, by reason of a claim arising under such subsection, to confer on the courts of the United States jurisdiction over any State law claim seekingthe establishment of a divorce, alimony, equitable distribution of marital property, or child custody decree.
 
 (Pub. L. 103–322, title IV, §40302, Sept. 13, 1994, 108 Stat. 1941.)
 

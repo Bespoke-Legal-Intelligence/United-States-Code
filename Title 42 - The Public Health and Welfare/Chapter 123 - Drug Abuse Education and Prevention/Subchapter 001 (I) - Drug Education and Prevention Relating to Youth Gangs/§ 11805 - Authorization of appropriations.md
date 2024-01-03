@@ -8,7 +8,7 @@ To carry out this subchapter, there are authorized to be appropriated $16,000,00
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–132 substituted "$16,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993 and 1994" for "$15,000,000 for the fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990 and 1991".
+<b>1991</b>—Pub. L. 102–132 substituted "$16,000,000 for fiscal year 1992 and such sums as may be necessary for fiscalyears 1993 and 1994" for "$15,000,000 for the fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990 and 1991".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

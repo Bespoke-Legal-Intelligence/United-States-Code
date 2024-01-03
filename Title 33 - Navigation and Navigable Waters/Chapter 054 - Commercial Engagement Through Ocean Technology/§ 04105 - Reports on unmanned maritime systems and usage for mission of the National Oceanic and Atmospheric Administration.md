@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In carrying out this chapter, the Administrator shall, not later than one year after December 21, 2018, and every 4 years thereafter, submit to the appropriate committees of Congress a report on the usage of unmanned maritime systems for the mission of the Administration.
+In carrying out this chapter, the Administrator shall, not later than one year after December 21, 2018, and every 4 years thereafter,submit to the appropriate committees of Congress a report on the usage of unmanned maritime systems for the mission of the Administration.
 
 #### (b) Contents
 

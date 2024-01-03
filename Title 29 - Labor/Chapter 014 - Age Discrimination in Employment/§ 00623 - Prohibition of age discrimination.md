@@ -44,7 +44,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 &emsp;&emsp;(B) to observe the terms of a bona fide employee benefit plan—
 
-&emsp;&emsp;&emsp;(i) where, for each benefit or benefit package, the actual amount of paymentmade or cost incurred on behalf of an older worker is no less than that made or incurred on behalf of a younger worker, as permissible under section 1625.10, title 29, Code of Federal Regulations (as in effect on June 22, 1989); or
+&emsp;&emsp;&emsp;(i) where, for each benefit or benefit package, the actual amount of payment made or cost incurred on behalf of an older worker is no less than that made or incurred on behalf of a younger worker, as permissible under section 1625.10, title 29, Code of Federal Regulations (as in effect on June 22, 1989); or
 
 &emsp;&emsp;&emsp;(ii) that is a voluntary early retirement incentive plan consistent with the relevant purpose or purposes of this chapter.
 
@@ -164,7 +164,7 @@ Rate of benefit accrual.—Subject to clause (iv), the requirements of this clau
 
 &emsp;&emsp;(iv)
 
-Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>3</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under theplan for entitlement to such benefit or subsidy.
+Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>3</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
 
 &emsp;&emsp;(v)
 
@@ -320,7 +320,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B)—
 
 #### (m) Voluntary retirement incentive plans
 
-Notwithstanding subsection (f)(2)(B), it shall not be a violation of subsection (a), (b), (c), or (e) solely because a plan of an institution of higher education (as defined in section 1001 of title 20) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) supplemental benefits upon voluntary retirement that are reduced or eliminated on the basis of age, if—
+Notwithstanding subsection (f)(2)(B), it shall not be a violation of subsection (a), (b), (c), or (e) solely because a plan of an institution of higher education (as defined in section 1001 of title 20) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) supplemental benefits upon voluntary retirementthat are reduced or eliminated on the basis of age, if—
 
 &emsp;(1) such institution does not implement with respect to such employees any age-based reduction or cessation of benefits that are not such supplemental benefits, except as permitted by other provisions of this chapter;
 
@@ -362,7 +362,7 @@ Subsec. (j)(1). Pub. L. 104–208, §101(a) \[title I, §119\[1(b)(2)\]\], subst
 
 &emsp;"(A) the age of hiring or retirement, respectively, in effect under applicable State or local law on March 3, 1983; or
 
-&emsp;"(B)(i) if the individual was not hired, the age of hiring in effect on the date of such failure or refusalto hire under applicable State or local law enacted after September 30, 1996; or
+&emsp;"(B)(i) if the individual was not hired, the age of hiring in effect on the date of such failure or refusal to hire under applicable State or local law enacted after September 30, 1996; or
 
 &emsp;"(ii) if applicable State or local law was enacted after September 30, 1996, and the individual was discharged, the higher of—
 
@@ -556,7 +556,7 @@ Pub. L. 99–592, §7, Oct. 31, 1986, 100 Stat. 3344, provided that:
 
 "(a)
 
-In General.—Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section and sections 630 and 631 of thistitle and enacting provisions set out as notes under this section and sections 621, 622, 624, and 631 of this title\] shall take effect on January 1, 1987, except that with respect to any employee who is subject to a collective-bargaining agreement—
+In General.—Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section and sections 630 and 631 of this title and enacting provisions set out as notes under this section and sections 621, 622, 624, and 631 of this title\] shall take effect on January 1, 1987, except that with respect to any employee who is subject to a collective-bargaining agreement—
 
 &emsp;"(1) which is in effect on June 30, 1986,
 
@@ -640,7 +640,7 @@ Pub. L. 101–433, title I, §104, Oct. 16, 1990, 104 Stat. 981, provided that: 
 
 #### Construction of 1998 Amendment
 
-Pub. L. 105–244, title IX, §941(c), Oct. 7, 1998, 112 Stat. 1835, provided that: "Nothing in the amendment madeby subsection (a) \[amending this section\] shall affect the application of section 4 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 623) with respect to—
+Pub. L. 105–244, title IX, §941(c), Oct. 7, 1998, 112 Stat. 1835, provided that: "Nothing in the amendment made by subsection (a) \[amending this section\] shall affect the application of section 4 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 623) with respect to—
 
 &emsp;"(1) any plan described in subsection (m) of section 4 of such Act (as added by subsection (a)), for any period prior to enactment of such Act \[Dec. 15, 1967\];
 

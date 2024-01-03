@@ -156,7 +156,7 @@ Subsec. (a)(4)(F). Pub. L. 110–315, §602(1)(C)(iii), redesignated subpar. (E)
 
 Subsec. (b). Pub. L. 110–315, §602(2)(A), struck out "Graduate" before "fellowships" in heading.
 
-Subsec. (b)(2). Pub. L. 110–315, §602(2)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Students receiving stipends described in paragraph (1) shall be individuals who are engaged in an instructional program with stated performance goals for functional foreign language use or in a program developing such performance goals, in combination with area studies, international studies, or the international aspects of a professional studies program,including predissertation level studies, preparation for dissertation research, dissertation research abroad, and dissertation writing."
+Subsec. (b)(2). Pub. L. 110–315, §602(2)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Students receiving stipends described in paragraph (1) shall be individuals who are engaged in an instructional program with stated performance goals for functional foreign language use or in a program developing such performance goals, in combination with area studies, international studies, or the international aspects of a professional studies program, including predissertation level studies, preparation for dissertation research, dissertation research abroad, and dissertation writing."
 
 Subsecs. (d), (e). Pub. L. 110–315, §602(3), added subsecs. (d) and (e) and struck out former subsec. (d). Prior to amendment, text read as follows: "Stipends awarded to graduate level recipients may include allowances for dependents and for travel for research and study in the United States and abroad."
 

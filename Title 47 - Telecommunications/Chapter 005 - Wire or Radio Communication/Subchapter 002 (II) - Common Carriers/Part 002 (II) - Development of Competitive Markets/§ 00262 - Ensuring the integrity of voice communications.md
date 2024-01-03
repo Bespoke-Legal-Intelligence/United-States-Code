@@ -2,7 +2,7 @@
 
 #### (a) Registration and compliance by intermediate providers
 
-An intermediate provider that offers or holds itself out as offering the capability to transmit covered voice communications from one destination to another and that charges any rate to any other entity (including an affiliated entity) for the transmission shall—
+An intermediate provider that offers or holds itself out as offering the capability to transmitcovered voice communications from one destination to another and that charges any rate to any other entity (including an affiliated entity) for the transmission shall—
 
 &emsp;(1) register with the Commission; and
 
@@ -18,7 +18,7 @@ A covered provider may not use an intermediate provider to transmit covered voic
 
 #### (A) Registry
 
-&emsp;&emsp;Not later than 180 days after February 26, 2018, the Commission shall promulgate rulesto establish a registry to record registrations under subsection (a)(1).
+&emsp;&emsp;Not later than 180 days after February 26, 2018, the Commission shall promulgate rules to establish a registry to record registrations under subsection (a)(1).
 
 #### (B) Service quality standards
 

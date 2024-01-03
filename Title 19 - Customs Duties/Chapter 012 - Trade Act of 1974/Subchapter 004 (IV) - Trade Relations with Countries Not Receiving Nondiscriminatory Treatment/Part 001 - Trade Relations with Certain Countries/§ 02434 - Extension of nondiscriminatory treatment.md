@@ -38,7 +38,7 @@ Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L
 
 #### Suspending Normal Trade Relations with Russia and Belarus
 
-Pub. L. 117–110, §2–5, Apr. 8, 2022, 136 Stat. 1159–1165, provided that:
+Pub. L. 117–110, §§2–5, Apr. 8, 2022, 136 Stat. 1159–1165, provided that:
 
 #### "SEC. 2. FINDINGS.
 
@@ -52,7 +52,7 @@ Pub. L. 117–110, §2–5, Apr. 8, 2022, 136 Stat. 1159–1165, provided that:
 
 &emsp;"(4) Ukraine acceded to the Marrakesh Agreement Establishing the World Trade Organization (WTO Agreement) and has been a WTO member since 2008.
 
-&emsp;"(5) Ukraine's participation in the WTO Agreement creates both rights and obligations vis-a�AE2-vis other WTO members.
+&emsp;"(5) Ukraine's participation in the WTO Agreement creates both rights and obligations vis-à-vis other WTO members.
 
 &emsp;"(6) The Russian Federation acceded to the WTO on August 22, 2012, becoming the 156th WTO member, and the Republic of Belarus has applied to accede to the WTO.
 
@@ -268,7 +268,7 @@ Rules of the house of representatives and senate.—This subsection is enacted b
 
 #### Extension of Nondiscriminatory Treatment to Products of the Russian Federation; Trade Enforcement Measures
 
-Pub. L. 112–208, titles I, II, Dec. 14, 2012, 126 Stat. 1497, 1498, provided that:
+Pub. L. 112–208, titles I, II, Dec. 14, 2012, 126 Stat. 1497, 1498, as amended by Pub. L. 118–31, div. F, title LXVII, §6707(b)(2), Dec. 22, 2023, 137 Stat. 1018, provided that:
 
 #### "TITLE I—PERMANENT NORMAL TRADE RELATIONS FOR THE RUSSIAN FEDERATION
 
@@ -332,7 +332,7 @@ Plan for action by trade representative.—
 
 &emsp;&emsp;"(A)
 
-In general.—If, in preparing a report required by paragraph (1), the Trade Representativebelieves that the Russian Federation is not fully implementing an agreement specified in subparagraph (A) or (B) of that paragraph or that the Russian Federation is not making adequate progress in acceding to an agreement specified in subparagraph (B) of that paragraph, the Trade Representative shall, except as provided in subparagraph (B) of this paragraph, include in the report a description of the actions the Trade Representative plans to take to encourage the Russian Federation to improve its implementation of the agreement or increase its progress in acceding to the agreement, as the case may be.
+In general.—If, in preparing a report required by paragraph (1), the Trade Representative believes that the Russian Federation is not fully implementing an agreement specified in subparagraph (A) or (B) of that paragraph or that the Russian Federation is not making adequate progress in acceding to an agreement specified in subparagraph (B) of that paragraph, the Trade Representative shall, except as provided in subparagraph (B) of this paragraph, include in the report a description of the actions the Trade Representative plans to take to encourage the Russian Federation to improve its implementation of the agreement or increase its progress in acceding to the agreement, as the case may be.
 
 &emsp;&emsp;"(B)
 
@@ -360,23 +360,7 @@ Report on Enforcement Actions Taken by Trade Representative.—Not later than 18
 
 #### "SEC. 202. PROMOTION OF THE RULE OF LAW IN THE RUSSIAN FEDERATION TO SUPPORT UNITED STATES TRADE AND INVESTMENT.
 
-"(a)
-
-Reports on Promotion of Rule of Law.—Not later than one year after the effective date under section 102(b) of the extension of nondiscriminatory treatment to the products of the Russian Federation, and annually thereafter, the United States Trade Representative and the Secretary of State shall jointly submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report—
-
-&emsp;"(1) on the measures taken by the Trade Representative and the Secretary and the results achieved during the year preceding the submission of the report with respect to promoting the rule of law in the Russian Federation, including with respect to—
-
-&emsp;&emsp;"(A) strengthening formal protections for United States investors in the Russian Federation, including through the negotiation of a new bilateral investment treaty;
-
-&emsp;&emsp;"(B) advocating for United States investors in the Russian Federation, including by promoting the claims of United States investors in Yukos Oil Company;
-
-&emsp;&emsp;"(C) encouraging all countries that are parties to the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions of the Organisation for Economic Co-operation and Development, done at Paris December 17, 1997 (commonly referred to as the 'OECD Anti-Bribery Convention'), including the Russian Federation, to fully implement their commitments under the Convention to prevent overseas business bribery by the nationals of those countries;
-
-&emsp;&emsp;"(D) promoting a customs administration, tax administration, and judiciary in the Russia Federation that are free of corruption; and
-
-&emsp;&emsp;"(E) increasing cooperation between the United States and the Russian Federation to expand the capacity for civil society organizations to monitor, investigate, and report on suspected instances of corruption; and
-
-&emsp;"(2) that discloses the status of any pending petition for espousal filed with the Secretary by a United States investor in the Russian Federation.
+"\[(a) Repealed. Pub. L. 118–31, div. F, title LXVII, §6707(b)(2), Dec. 22, 2023, 137 Stat. 1018.\]
 
 "(b)
 
@@ -418,7 +402,7 @@ Confidentiality.—The Secretary shall not include in the report required by sub
 
 "The United States Trade Representative shall continue to pursue the reduction of barriers to trade imposed by the Russian Federation on articles exported from the United States to the Russian Federation through efforts—
 
-&emsp;"(1) to negotiate a bilateral agreement under which the Russian Federation will accept the sanitary andphytosanitary measures of the United States as equivalent to the sanitary and phytosanitary measures of the Russian Federation; and
+&emsp;"(1) to negotiate a bilateral agreement under which the Russian Federation will accept the sanitary and phytosanitary measures of the United States as equivalent to the sanitary and phytosanitary measures of the Russian Federation; and
 
 &emsp;"(2) to obtain the adoption by the Russian Federation of an action plan for providing greater protections for intellectual property rights than the protections required by the Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in section 101(d)(15) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(15)))."
 
@@ -440,7 +424,7 @@ Pub. L. 112–208, title III, Dec. 14, 2012, 126 Stat. 1501, provided that:
 
 "(a)
 
-Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding any provision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
+Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding anyprovision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
 
 &emsp;"(1) determine that such title should no longer apply to Moldova; and
 
@@ -510,7 +494,7 @@ Findings.—Congress makes the following findings:
 
 "(b)
 
-Presidential Determinations and Extensions of Nondiscriminatory Treatment.—Notwithstandingany provision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
+Presidential Determinations and Extensions of Nondiscriminatory Treatment.—Notwithstanding any provision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
 
 &emsp;"(1) determine that such title should no longer apply to Armenia; and
 
@@ -594,7 +578,7 @@ Pub. L. 106–476, title III, Nov. 9, 2000, 114 Stat. 2175, provided that:
 
 "(a)
 
-Presidential Determinations and Extensions of Nondiscriminatory Treatment.—Notwithstandingany provision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
+Presidential Determinations and Extensions of Nondiscriminatory Treatment.—Notwithstanding any provision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
 
 &emsp;"(1) determine that such title should no longer apply to Georgia; and
 
@@ -616,7 +600,7 @@ Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notw
 
 &emsp;"(1) determine that such chapter should no longer apply to the People's Republic of China; and
 
-&emsp;"(2) after making a determination under paragraph (1) with respect to the People's Republic of China, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
+&emsp;"(2) after making a determination under paragraph (1) with respect to the People's Republic of China,proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
 
 "(b)
 
@@ -918,7 +902,7 @@ Congressional Findings.—The Congress finds that Bulgaria—
 
 &emsp;"(2) has reversed many years of Communist dictatorship and instituted a constitutional republic ruled by a democratically elected government as well as basic market-oriented reforms, including privatization;
 
-&emsp;"(3) is in the process of acceding to the General Agreement on Tariffs and Trade (GATT) and the World Trade Organization (WTO), and extension of unconditional most-favored-nation treatment would enable the United States to avail itself of all rights under the GATT and the WTO with respect to Bulgaria; and
+&emsp;"(3) is in the process of acceding to the General Agreement on Tariffs and Trade (GATT) and theWorld Trade Organization (WTO), and extension of unconditional most-favored-nation treatment would enable the United States to avail itself of all rights under the GATT and the WTO with respect to Bulgaria; and
 
 &emsp;"(4) has demonstrated a strong desire to build friendly relationships and to cooperate fully with the United States on trade matters.
 

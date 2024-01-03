@@ -146,7 +146,7 @@
 
 &emsp;&emsp;(B) the nature and extent of management participation in any offense involved, whether corporate policies and practices encouraged the offense, including whether inadequate institutional controls contributed to the offense,
 
-&emsp;&emsp;(C) the nature and extent of voluntary steps to mitigate the impact on the public of any offense involved, including the recall or the discontinuation of the distribution of suspect drugs, full cooperation with any investigations (including the extent of disclosure to appropriate authorities of all wrongdoing), the relinquishing of profits on drug approvals fraudulently obtained, and any other actions taken to substantially limit potential or actual adverse effects on the public health,
+&emsp;&emsp;(C) the nature and extent of voluntary steps to mitigate the impact on the public of any offense involved, including the recall or the discontinuation of the distribution of suspect drugs, full cooperation with any investigations (including the extent of disclosure to appropriate authorities of all wrongdoing), the relinquishing of profits on drug approvals fraudulently obtained, and anyother actions taken to substantially limit potential or actual adverse effects on the public health,
 
 &emsp;&emsp;(D) whether the extent to which changes in ownership, management, or operations have corrected the causes of any offense involved and provide reasonable assurances that the offense will not occur in the future,
 
@@ -206,13 +206,13 @@
 
 &emsp;&emsp;&emsp;(ii) all individuals who were involved in the commission of the offense or who knew or should have known of the offense have been removed from employment involving the development or approval of any drug subject to sections <sup>1</sup> 355 of this title,
 
-&emsp;&emsp;&emsp;(iii) the person fully cooperated with all investigations and promptly disclosed allwrongdoing to the appropriate authorities, and
+&emsp;&emsp;&emsp;(iii) the person fully cooperated with all investigations and promptly disclosed all wrongdoing to the appropriate authorities, and
 
 &emsp;&emsp;&emsp;(iv) the person acted to mitigate any impact on the public of any offense involved, including the recall, or the discontinuation of the distribution, of any drug with respect to which the Secretary requested a recall or discontinuation of distribution due to concerns about the safety or efficacy of the drug.
 
 #### (C) Individuals
 
-&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if the Secretary, after an informal hearing, finds that such individual has provided substantial assistance in the investigations or prosecutions of offenses which are described in subsection (a) or (b) or which relate to any matter under the jurisdiction of the Food and Drug Administration.
+&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if theSecretary, after an informal hearing, finds that such individual has provided substantial assistance in the investigations or prosecutions of offenses which are described in subsection (a) or (b) or which relate to any matter under the jurisdiction of the Food and Drug Administration.
 
 #### (D) Secretarial action
 
@@ -282,7 +282,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 &emsp;&emsp;&emsp;(i) that a person has engaged in conduct described in subparagraph (B) of subsection (f)(1) in connection with 2 or more drugs under abbreviated drug applications, or
 
-&emsp;&emsp;&emsp;(ii) that a person has engaged in flagrant and repeated, material violations of good manufacturing practice or good laboratory practice in connection with the development, manufacturing, or distribution of one or more drugs approved under an abbreviated drug application during a 2-year period, and—
+&emsp;&emsp;&emsp;(ii) that a person has engaged in flagrant and repeated, material violations of good manufacturing practice or good laboratory practice in connection with the development, manufacturing, or distribution ofone or more drugs approved under an abbreviated drug application during a 2-year period, and—
 
 &emsp;&emsp;&emsp;&emsp;(I) such violations may undermine the safety and efficacy of such drugs, and
 
@@ -420,7 +420,7 @@ Subsec. (m). Pub. L. 107–250 added subsec. (m).
 
 #### Construction
 
-Pub. L. 102–282, §7, May 13, 1992, 106 Stat. 162, provided that: "No amendment made by this Act \[enacting thissection and sections 335b and 335c of this title and amending sections 321, 336, 337, and 355 of this title\] shall preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by this Act."
+Pub. L. 102–282, §7, May 13, 1992, 106 Stat. 162, provided that: "No amendment made by this Act \[enacting this section and sections 335b and 335c of this title and amending sections 321, 336, 337, and 355 of this title\] shall preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by this Act."
 
 #### Congressional Findings
 

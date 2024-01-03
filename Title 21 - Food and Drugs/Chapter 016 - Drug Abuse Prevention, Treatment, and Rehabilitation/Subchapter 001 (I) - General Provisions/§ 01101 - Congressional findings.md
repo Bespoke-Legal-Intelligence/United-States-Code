@@ -28,7 +28,7 @@ The Congress makes the following findings:
 
 &emsp;(13) Effective control of drug abuse requires high-level coordination of Federal international and domestic activities relating to both supply of, and demand for, commonly abused drugs.
 
-&emsp;(14) Local governments with high concentrations of drug abuse should be actively involvedin the planning and coordination of efforts to combat drug abuse.
+&emsp;(14) Local governments with high concentrations of drug abuse should be actively involved in the planning and coordination of efforts to combat drug abuse.
 
 (Pub. L. 92–255, title I, §101, Mar. 21, 1972, 86 Stat. 66; Pub. L. 94–237, §1, Mar. 19, 1976, 90 Stat. 241; Pub. L. 96–181, §2, Jan. 2, 1980, 93 Stat. 1309.)
 

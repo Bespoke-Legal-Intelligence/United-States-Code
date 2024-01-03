@@ -46,7 +46,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 #### (c) Community mental health plan
 
-(1) The governing body of any Indian tribe may, at its discretion, adopt a resolution for the establishment of a community mental health plan providing for the identification and coordination of available resources and programs to identify, prevent, or treat mental illness or dysfunctional and self-destructive behavior, including child abuse and family violence, among its members.
+(1) The governing body of any Indian tribe may, at its discretion, adopt a resolution for the establishment of a community mental health plan providing for the identification and coordination of available resources and programs toidentify, prevent, or treat mental illness or dysfunctional and self-destructive behavior, including child abuse and family violence, among its members.
 
 (2) In furtherance of a plan established pursuant to paragraph (1) and at the request of a tribe, the appropriate agency, service unit, or other officials of the Bureau of Indian Affairs and the Service shall cooperate with, and provide technical assistance to, the tribe in the development of such plan. Upon the establishment of such a plan and at the request of the tribe, such officials, as directed by the memorandum of agreement developed pursuant to subsection (c), shall cooperate with the tribe in the implementation of such plan.
 
@@ -82,7 +82,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 #### (A) In general
 
-&emsp;&emsp;The appropriate Secretary shall provide training criteria appropriate to each type of position identified in paragraphs (2)(A) and (2)(B) and ensure that appropriate training has been, or shall be provided to any individual in any such position. With respect to any such individual in a position identified pursuant to paragraph (2)(C), the respectiveSecretaries shall provide appropriate training to, or provide funds to, an Indian tribe or tribal organization for training of appropriate individuals. In the case of positions funded under a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> the appropriate Secretary shall ensure that such training costs are included in the contract or compact, as the Secretary determines necessary.
+&emsp;&emsp;The appropriate Secretary shall provide training criteria appropriate to each type of position identified in paragraphs (2)(A) and (2)(B) and ensure that appropriate training has been, or shall be provided to any individual in any such position. With respect to any such individual in a position identified pursuant to paragraph (2)(C), the respective Secretaries shall provide appropriate training to, or provide funds to, an Indian tribe or tribal organization for training of appropriate individuals. In the case of positions funded under a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> the appropriate Secretary shall ensure that such training costs are included in the contract or compact, as the Secretary determines necessary.
 
 #### (B) Position specific training criteria
 
@@ -104,7 +104,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 #### (f) Staff recruitment and retention
 
-(1) The Secretary shall provide for the recruitment of the additional personnel required by subsection (f) and the retention of all Service personnel providing mental health services. In carrying out this subsection, the Secretary shall give priority to practitioners providing mental health services to children and adolescents with mental health problems.
+(1) The Secretary shall provide for the recruitment of the additional personnel required by subsection (f) and the retention of all Service personnel providing mental health services. In carrying out this subsection, the Secretary shall give priority to practitioners providing mentalhealth services to children and adolescents with mental health problems.
 
 (2) In carrying out paragraph (1), the Secretary shall develop a program providing for—
 
@@ -170,7 +170,7 @@ The Service shall develop methods for analyzing and evaluating the overall statu
 
 (4) The Secretary may only award one grant under this subsection with respect to a service area until the Secretary has awarded grants for all service areas with respect to which the Secretary receives applications during the application period, as determined by the Secretary, which meet the criteria specified in paragraph (2).
 
-(5) Not later than 180 days after the close of the term of the last grant awarded pursuant to this subsection, the Secretary shall submit to the Congress a report evaluating the effectiveness of the innovative community-based projects demonstrated pursuant to this subsection. Such report shall include findings and recommendations, if any, relating to the reorganization of the programs of the Service for delivery of mental health services to Indians.
+(5) Not later than 180 days after the close of the term of the last grant awarded pursuant to this subsection, the Secretary shall submit tothe Congress a report evaluating the effectiveness of the innovative community-based projects demonstrated pursuant to this subsection. Such report shall include findings and recommendations, if any, relating to the reorganization of the programs of the Service for delivery of mental health services to Indians.
 
 (6) Grants made pursuant to this section may be expended over a period of three years and no grant may exceed $1,000,000 for the fiscal years involved.
 
@@ -208,7 +208,7 @@ Any person employed as a psychologist, social worker, or marriage and family the
 
 (3) Funds provided under this subsection may not be used for the purposes described in section 1621o(b)(1) of this title.
 
-(4) An Indian tribe or tribal organization receiving a grant under this subsection shall ensure that intermediate adolescent mental health services are coordinated with other tribal, Service, and Bureau of Indian Affairs mental health,alcohol and substance abuse, and social services programs on the reservation of such tribe or tribal organization.
+(4) An Indian tribe or tribal organization receiving a grant under this subsection shall ensure that intermediate adolescent mental health services are coordinated with other tribal, Service, and Bureau of Indian Affairs mental health, alcohol and substance abuse, and social services programs on the reservation of such tribe or tribal organization.
 
 (5) The Secretary shall establish criteria for the review and approval of applications for grants made pursuant to this subsection.
 
@@ -242,7 +242,7 @@ Subsec. (b). Pub. L. 102–573, §902(3)(B), redesignated subsec. (c) as (b). Pr
 
 Subsec. (c). Pub. L. 102–573, §§217(b)(4)(A), 902(3)(B), redesignated subsec. (d) as (c) and struck out par. (5) which authorized appropriations of $500,000 for fiscal year 1991 and $1,000,000 for fiscal year 1992 to carry out this subsec. Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 102–573, §§217(b)(4)(A), (D), 902(3)(B), redesignated subsec. (e) as (d), substituted "this section" for "this subsection" in par. (3)(B), and struck out par. (6) which authorized appropriations of $500,000 for fiscal year 1991 and $5,000,000 for fiscal year 1992 to carry out this subsec., with certain amounts to be allocated for community education. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 102–573, §§217(b)(4)(A), (D), 902(3)(B), redesignated subsec. (e) as (d), substituted "this section" for "this subsection" in par. (3)(B), and struck out par. (6) which authorized appropriations of $500,000 for fiscal year 1991 and $5,000,000 for fiscal year 1992 to carry out this subsec., with certain amounts tobe allocated for community education. Former subsec. (d) redesignated (c).
 
 Subsec. (e). Pub. L. 102–573, §902(3)(B), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 

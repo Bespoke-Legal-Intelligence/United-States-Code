@@ -18,7 +18,7 @@ Exceptions.—(1) Except as provided in paragraph (2), the additional compensati
 
 &emsp;(B) section 7511(a)(4).
 
-(3) The loss of the additional compensation authorized by subsection (a)(1) shall not constitute an adverse action for the purposes of section 7512.
+(3) The loss of the additional compensation authorized by subsection (a)(1) shall not constitutean adverse action for the purposes of section 7512.
 
 (Added Pub. L. 111–282, §2(a), Oct. 15, 2010, 124 Stat. 3037.)
 

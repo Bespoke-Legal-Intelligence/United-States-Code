@@ -162,5 +162,5 @@ Statement of Policy.—The Secretary of Defense, the Secretary of Education, and
 
 "(c)
 
-Report.—Not later than April 1, 2006, the Secretary of Defense, the Secretary of Education, and the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Health, Education, Labor and Pensions of the Senate, and the Committee on Education and the Workforce of the House of Representatives a report describing the joint statement of policy issued under subsection (b), with such findings and recommendations as the Secretaries consider appropriate."
+Report.—Not later than April 1, 2006, the Secretary of Defense, the Secretary of Education, and theChairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Health, Education, Labor and Pensions of the Senate, and the Committee on Education and the Workforce of the House of Representatives a report describing the joint statement of policy issued under subsection (b), with such findings and recommendations as the Secretaries consider appropriate."
 

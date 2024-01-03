@@ -2,17 +2,17 @@
 
 (a)
 
-Time-in-Grade Requirements.—(1) An officer who is on the active-duty list of the Army, Air Force, Marine Corps, or Space Force and holds a permanent appointment in the grade of second lieutenant or first lieutenant or is on the active-duty list of the Navy and holds a permanent appointment in the grade of ensign or lieutenant (junior grade) may not be promoted to the next higher permanent grade until he has completed the following period of service in the grade in which he holds a permanent appointment:
+Time-in-Grade Requirements.—(1) An officer who is on the active-duty list of the Army, Air Force, or Marine Corps and holds a permanent appointment in the grade of second lieutenant or first lieutenant or is on the active-duty list of the Navy and holds a permanent appointment in the grade of ensign or lieutenant (junior grade) may not be promoted to the next higher permanent grade until he has completed the following period of service in the grade in which he holds a permanent appointment:
 
 &emsp;(A) Eighteen months, in the case of an officer holding a permanent appointment in the grade of second lieutenant or ensign.
 
 &emsp;(B) Two years, in the case of an officer holding a permanent appointment in the grade of first lieutenant or lieutenant (junior grade), except that the minimum period of service in effect under this subparagraph before October 1, 2008, shall be eighteen months.
 
-(2) Subject to paragraph (5), an officer who is on the active-duty list of the Army, Air Force, Marine Corps, or Space Force and holds a permanent appointment in a grade above first lieutenant or is on the active-duty list of the Navy and holds a permanent appointment in a grade above lieutenant (junior grade) may not be considered for selection for promotion to the next higher permanent grade until he has completed the following period of service in the grade in which he holds a permanent appointment:
+(2) Subject to paragraph (5), an officer who is on the active-duty list of the Army, Air Force, or Marine Corps and holds a permanent appointment in a grade above first lieutenant or is on the active-duty list of the Navy and holds a permanent appointment in a grade above lieutenant (junior grade) may not be considered for selection for promotion to the next higher permanent grade until he has completed the following period of service in the grade in which he holds a permanent appointment:
 
-&emsp;(A) Three years, in the case of an officer of the Army, Air Force, Marine Corps, or Space Force holding a permanent appointment in the grade of captain, major, or lieutenant colonel or of an officer of the Navy holding a permanent appointment in the grade of lieutenant, lieutenant commander, or commander.
+&emsp;(A) Three years, in the case of an officer of the Army, Air Force, or Marine Corps holding a permanent appointment in the grade of captain, major, or lieutenant colonel or of an officer of the Navy holding a permanent appointment in the grade of lieutenant, lieutenant commander, or commander.
 
-&emsp;(B) One year, in the case of an officer of the Army, Air Force, Marine Corps, or Space Force holding a permanent appointment in the grade of colonel or brigadier general or of an officer of the Navy holding a permanent appointment in the grade of captain or rear admiral (lower half).
+&emsp;(B) One year, in the case of an officer of the Army, Air Force, or Marine Corps holding a permanent appointment in the grade of colonel or brigadier general or of an officer of the Navy holding a permanent appointment in the grade of captain or rear admiral (lower half).
 
 (3) When the needs of the service require, the Secretary of the military department concerned may prescribe a longer period of service in grade for eligibility for promotion, in the case of officers to whom paragraph (1) applies, or for eligibility for consideration for promotion, in the case of officers to whom paragraph (2) applies.
 
@@ -86,11 +86,13 @@ Authority To Allow Officers To Opt Out of Selection Board Consideration.—(1) T
 
 &emsp;(C) the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2854; amended Pub. L. 97–22, §4(c), July 10, 1981, 95 Stat. 126; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §§525(a), (b), 529(a), Oct. 19, 1984, 98 Stat. 2524, 2525, 2526; Pub. L. 99–145, title V,§514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §404, Oct. 1, 1986, 100 Stat. 1032; Pub. L. 100–180, div. A, title XIII, §§1305(a), 1314(b)(4), Dec. 4, 1987, 101 Stat. 1173, 1175; Pub. L. 100–456, div. A, title V, §515(a)(1), (b), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 102–190, div. A, title V, §504(d), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 103–160, div. A, title IX, §931(b), (c)(1), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(7), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–85, div. A, title V, §503(a), Nov. 18, 1997, 111 Stat. 1724; Pub. L. 107–107, div. A, title V, §§504, 505(c)(1)(A), Dec. 28, 2001, 115 Stat. 1085, 1087; Pub. L. 108–375, div. A, title V, §501(a)(3)(B), Oct. 28, 2004, 118 Stat. 1873; Pub. L. 109–364, div. A, title V, §506, Oct. 17, 2006, 120 Stat. 2179; Pub. L. 115–232, div. A, title V, §505(a), Aug. 13, 2018, 132 Stat. 1742; Pub. L. 116–283, div. A, title IX, §924(b)(3)(E), Jan. 1, 2021, 134 Stat. 3821; Pub. L. 117–81, div. A, title V, §502, Dec. 27, 2021, 135 Stat. 1680.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2854; amended Pub. L. 97–22, §4(c), July 10, 1981, 95 Stat. 126; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §§525(a), (b), 529(a), Oct. 19, 1984, 98 Stat. 2524, 2525, 2526; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §404, Oct. 1, 1986, 100 Stat. 1032; Pub. L. 100–180, div. A, title XIII, §§1305(a), 1314(b)(4), Dec. 4, 1987, 101 Stat. 1173, 1175; Pub. L. 100–456, div. A, title V, §515(a)(1), (b), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 102–190, div. A, title V, §504(d), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 103–160, div. A, title IX, §931(b), (c)(1), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(7), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–85, div. A, title V, §503(a), Nov. 18, 1997, 111 Stat. 1724; Pub. L. 107–107, div. A, title V, §§504, 505(c)(1)(A), Dec. 28, 2001, 115 Stat. 1085, 1087; Pub. L. 108–375, div. A, title V, §501(a)(3)(B), Oct. 28, 2004, 118 Stat. 1873; Pub. L. 109–364, div. A, title V, §506, Oct. 17, 2006, 120 Stat. 2179; Pub. L. 115–232, div. A, title V, §505(a), Aug. 13, 2018, 132 Stat. 1742; Pub. L. 116–283, div. A, title IX, §924(b)(3)(E), Jan. 1, 2021, 134 Stat. 3821; Pub. L. 117–81, div. A, title V, §502, Dec. 27, 2021, 135 Stat. 1680; Pub. L. 118–31, div. A, title XVII, §1722(b)(3), Dec. 22, 2023, 137 Stat. 668.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a). Pub. L. 118–31 substituted "or Marine Corps" for "Marine Corps, or Space Force" wherever appearing.
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps" wherever appearing.
 
@@ -188,7 +190,7 @@ Amendment by Pub. L. 108–375 effective on the first day of the first month beg
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title V, §503(d), Nov. 18, 1997, 111 Stat. 1725, provided that: "The amendments made by this section \[amending this section and section 14301 ofthis title\] shall take effect on the date of the enactment of this Act \[Nov. 18, 1997\] and shall apply with respect to selection boards that are convened under section 611(a), 14101(a), or 14502 of title 10, United States Code, on or after that date."
+Pub. L. 105–85, div. A, title V, §503(d), Nov. 18, 1997, 111 Stat. 1725, provided that: "The amendments made by this section \[amending this section and section 14301 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 18, 1997\] and shall apply with respect to selection boards that are convened under section 611(a), 14101(a), or 14502 of title 10, United States Code, on or after that date."
 
 #### Effective Date of 1994 Amendment
 
@@ -208,5 +210,5 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
-For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
+For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedingsthat existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
 

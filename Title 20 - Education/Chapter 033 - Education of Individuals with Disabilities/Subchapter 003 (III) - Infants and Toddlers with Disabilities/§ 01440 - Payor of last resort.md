@@ -24,7 +24,7 @@ Funds provided under section 1443 of this title may not be used to satisfy a fin
 
 #### (A) In general
 
-&emsp;&emsp;If a public agency other than an educational agency fails to provide or pay for the services pursuant to an agreement required under paragraph (1), the local educational agency or State agency (as determined by the Chief Executive Officer or designee) shall provide or pay for the provision of such services to the child.
+&emsp;&emsp;If a public agency other than an educational agency fails to provide or pay forthe services pursuant to an agreement required under paragraph (1), the local educational agency or State agency (as determined by the Chief Executive Officer or designee) shall provide or pay for the provision of such services to the child.
 
 #### (B) Reimbursement
 

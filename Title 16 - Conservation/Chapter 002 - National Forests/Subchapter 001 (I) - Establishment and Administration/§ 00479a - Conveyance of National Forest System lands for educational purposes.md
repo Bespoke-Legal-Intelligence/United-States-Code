@@ -2,7 +2,7 @@
 
 #### (a) Authority to convey
 
-Upon written application, the Secretary of Agriculture may convey National Forest System lands to a public school district for use for educational purposes if the Secretary determines that—
+Upon written application, the Secretary of Agriculture may convey National Forest Systemlands to a public school district for use for educational purposes if the Secretary determines that—
 
 &emsp;(1) the public school district seeking the conveyance will use the conveyed land for a public or publicly funded elementary or secondary school, to provide grounds or facilities related to such a school, or for both purposes;
 

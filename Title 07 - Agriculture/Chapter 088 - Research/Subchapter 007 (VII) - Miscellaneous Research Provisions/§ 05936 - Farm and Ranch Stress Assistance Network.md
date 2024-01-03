@@ -90,7 +90,7 @@ There is authorized to be appropriated to the Secretary to carry out this sectio
 
 For purposes of this section, the term "State" has the meaning given such term in section 3103 of this title.
 
-(Pub. L. 110–234, title VII, §7522, May 22, 2008, 122 Stat. 1272; Pub. L. 110–246, §4(a), title VII, §7522,June 18, 2008, 122 Stat. 1664, 2033; Pub. L. 115–334, title VII, §7412, Dec. 20, 2018, 132 Stat. 4817.)
+(Pub. L. 110–234, title VII, §7522, May 22, 2008, 122 Stat. 1272; Pub. L. 110–246, §4(a), title VII, §7522, June 18, 2008, 122 Stat. 1664, 2033; Pub. L. 115–334, title VII, §7412, Dec. 20, 2018, 132 Stat. 4817.)
 
 #### <b>Editorial Notes</b>
 

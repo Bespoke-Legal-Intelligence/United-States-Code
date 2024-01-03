@@ -156,7 +156,7 @@ The purpose of the Center shall be to support a comprehensive research and devel
 
 #### (h) Use of funds subject to appropriations
 
-The authority to award grants, enter into contracts, or otherwise expend funds under this section is subject to the availability of amounts deposited into the Center under subsection (c), oramounts otherwise appropriated for such purposes by an Act of Congress.
+The authority to award grants, enter into contracts, or otherwise expend funds under this section is subject to the availability of amounts deposited into the Center under subsection (c), or amounts otherwise appropriated for such purposes by an Act of Congress.
 
 #### (i) Definitions
 

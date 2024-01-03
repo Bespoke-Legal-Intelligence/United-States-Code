@@ -2,7 +2,7 @@
 
 #### (a) Annual reports to President and Congressional officers and committees
 
-The Administration shall, as soon as practicable each fiscal year make a comprehensive annual report to the President, the President of the Senate, the Senate Select Committee on Small Business, and the Speaker of the House of Representatives. Such report shall include a description of the state of small business in the Nation and the several States, and a description of the operations of the Administration under this chapter, including, but not limited to, the general lending, disaster relief, Government regulation relief, procurement and property disposal, research and development, technical assistance, dissemination of data and information, and other functions under the jurisdiction of the Administration during the previous fiscal year. Such report shall contain recommendations for strengthening or improving such programs, or, when necessary or desirable to implement more effectively congressional policies and proposals, for establishing new or alternative programs. In addition, such report shall include the names of the business concerns to whom contracts are let and for whom financing is arranged by the Administration, together with the amounts involved. With respect to minority small business concerns, the report shall include the proportion of loans and other assistance under this chapterprovided to such concerns, the goals of the Administration for the next fiscal year with respect to such concerns, and recommendations for improving assistance to minority small business concerns under this chapter.
+The Administration shall, as soon as practicable each fiscal year make a comprehensive annual report to the President, the President of the Senate, the Senate Select Committee on Small Business, and the Speaker of the House of Representatives. Such report shall include a description of the state of small business in the Nation and the several States, and a description of the operations of the Administration under this chapter, including, but not limited to, the general lending, disaster relief, Government regulation relief, procurement and property disposal, research and development, technical assistance, dissemination of data and information, and other functions under the jurisdiction of the Administration during the previous fiscal year. Such report shall contain recommendations for strengthening or improving such programs, or, when necessary or desirable to implement more effectively congressional policies and proposals, for establishing new or alternative programs. In addition, such report shall include the names of the business concerns to whom contracts are let and for whom financing is arranged by the Administration, together with the amounts involved. With respect to minority small business concerns, the report shall include the proportion of loans and other assistance under this chapter provided to such concerns, the goals of the Administration for the next fiscal year with respect to such concerns, and recommendations for improving assistance to minority small business concerns under this chapter.
 
 #### (b) Cybersecurity reports
 
@@ -56,7 +56,7 @@ The Administration shall, as soon as practicable each fiscal year make a compreh
 
 #### (d) Annual report of Department of Defense
 
-For the purpose of aiding in carrying out the national policy to insure that a fair proportion of the total purchases and contracts for property and services for the Government be placed with small-business enterprises, and to maintain and strengthen the overall economy of the Nation, the Department of Defense shall make an annual report to the Committees on Small Business of the Senate and the House of Representatives, showing the amount of funds appropriated to the Department of Defense which have been expended, obligated, or contracted to be spent with small business concerns and the amount of such funds expended, obligated, or contracted to be spent with firms other than small business in the same fields of operation; and such reports shall show separately the funds expended, obligated, or contracted to be spent for basic and applied scientific research and development.
+For the purpose of aiding in carrying out the national policy to insure that a fair proportion of the total purchases and contracts for property and services for the Government be placed withsmall-business enterprises, and to maintain and strengthen the overall economy of the Nation, the Department of Defense shall make an annual report to the Committees on Small Business of the Senate and the House of Representatives, showing the amount of funds appropriated to the Department of Defense which have been expended, obligated, or contracted to be spent with small business concerns and the amount of such funds expended, obligated, or contracted to be spent with firms other than small business in the same fields of operation; and such reports shall show separately the funds expended, obligated, or contracted to be spent for basic and applied scientific research and development.
 
 #### (e) Retention of records
 
@@ -86,7 +86,7 @@ The Administration shall transmit, not later than March 31 of each year, to the 
 
 #### Prior Provisions
 
-Prior similar provisions were contained in sections 211 and 215 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, 238, as amended by act Aug. 9, 1955, ch. 628, §§6, 10, 11, 69 Stat. 550, 551, which were previously classified to sections 640 and 644 of this title. The provisions of section 210 of act July 30, 1953, formerly classified to this section, were transferred to section 2 \[8\] of Pub. L. 85–536, and are classified to section 637(b)(2) of this title. See Codification note set out under section 631 of this title.
+Prior similar provisions were contained in sections 211 and 215 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, 238, as amended by act Aug. 9, 1955, ch. 628, §§6, 10, 11, 69 Stat. 550, 551, which were previously classified to sections 640 and 644 of this title. The provisions of section 210 of act July 30, 1953, formerly classified to this section, were transferred to section 2 \[8\] of Pub. L. 85–536, and are classified to section 637(b)(2) of thistitle. See Codification note set out under section 631 of this title.
 
 #### Amendments
 
@@ -139,6 +139,8 @@ Subsec. (c). Pub. L. 87–305, §5(a)(3), designated existing provisions of firs
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001. Previously, Select Committee on Small Business of Senate became Committee on Small Business of Senate. See Senate Resolution No. 101, Ninety-Seventh Congress, Mar. 25, 1981.
 

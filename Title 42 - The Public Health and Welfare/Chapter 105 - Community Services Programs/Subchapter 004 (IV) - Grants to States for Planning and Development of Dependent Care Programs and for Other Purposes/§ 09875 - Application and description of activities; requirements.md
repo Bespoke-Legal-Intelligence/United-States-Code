@@ -10,7 +10,7 @@
 
 As part of the annual application required by subsection (a), the chief executive officer of each State shall—
 
-&emsp;(1) certify that the State agrees to use the funds allotted to it under section 9872 of thistitle in accordance with the requirements of this subchapter; and
+&emsp;(1) certify that the State agrees to use the funds allotted to it under section 9872 of this title in accordance with the requirements of this subchapter; and
 
 &emsp;(2) certify that the State agrees that Federal funds made available under section 9873 of this title for any period will be so used as to supplement and increase the level of State, local, and other non-Federal funds that would in the absence of such Federal funds be made available for the programs and activities for which funds are provided under that section and will in no event supplant such State, local, and other non-Federal funds.
 
@@ -18,7 +18,7 @@ As part of the annual application required by subsection (a), the chief executiv
 
 #### (c) Description; intended use of payments; comments; revision
 
-(1) The chief executive officer of a State shall, as part of the application required by subsection (a), also prepare and furnish the Secretary (in accordance with such form as the Secretary shall provide) with a description of the intended use of the payments the State will receive under section 9873 of this title, including information on the programs and activities to be supported. The description shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during development of the description and after its transmittal. The description shall be revised (consistent with this section) until September 30, 1991, as may be necessary to reflect substantial changes in the programs and activities assisted by the State under this subchapter, and any revision shall be subject to the requirements of the preceding sentence.
+(1) The chief executive officer of a State shall, as part of the application required by subsection (a), also prepare and furnish the Secretary (in accordance with such form as the Secretary shall provide) with a description of the intended use of the payments the State will receive under section 9873 of this title, including information on the programs and activities to be supported.The description shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during development of the description and after its transmittal. The description shall be revised (consistent with this section) until September 30, 1991, as may be necessary to reflect substantial changes in the programs and activities assisted by the State under this subchapter, and any revision shall be subject to the requirements of the preceding sentence.
 
 (2) The chief executive officer of each State shall include in such a description of—
 

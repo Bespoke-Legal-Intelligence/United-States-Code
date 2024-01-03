@@ -126,7 +126,7 @@ The Secretary may prescribe regulations under which differently treated items sh
 
 #### (h) Coordination with certain limitations
 
-The limitations of sections 704(d), 465, and 1366(d) (and such other provisions as may be specified in regulations) shall be applied for purposes of computing the alternative minimumtaxable income of the taxpayer for the taxable year with the adjustments of sections 56, 57, and 58.
+The limitations of sections 704(d), 465, and 1366(d) (and such other provisions as may be specified in regulations) shall be applied for purposes of computing the alternative minimum taxable income of the taxpayer for the taxable year with the adjustments of sections 56, 57, and 58.
 
 #### (i) Special rule for amounts treated as tax preference
 
@@ -174,7 +174,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) in the case of a corporation described in paragraph (2), such corporation meets the average annual adjusted financial statement income test for a taxable year if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the corporation meets the requirements of clause (i) for such taxable year (determined after the application of paragraph (2)), and
+&emsp;&emsp;&emsp;&emsp;(I) the corporation meets the requirements of clause (i) for such taxable year\(determined after the application of paragraph (2)), and
 
 &emsp;&emsp;&emsp;&emsp;(II) the average annual adjusted financial statement income of such corporation (determined without regard to the application of paragraph (2) and without regard to section 56A(d)) for the 3-taxable-year-period ending with such taxable year is $100,000,000 or more.
 
@@ -282,7 +282,7 @@ For purposes of this part—
 
 &emsp;The Secretary shall provide for such regulations or other guidance as is necessary to carry out the purposes of this subsection.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2),11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824; Pub. L. 108–357, title IV, §421(a)(1), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 115–97, title I, §§11002(d)(4), 12001(b)(3)(C), (10), Dec. 22, 2017, 131 Stat. 2061, 2093; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(ii), Mar. 23, 2018, 132 Stat. 1206; Pub. L. 117–169, title I, §§10101(a)(2), (c), 13904(a), Aug. 16, 2022, 136 Stat. 1818, 1827, 2014.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824; Pub. L. 108–357, title IV, §421(a)(1), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 115–97, title I, §§11002(d)(4), 12001(b)(3)(C), (10), Dec. 22, 2017, 131 Stat. 2061, 2093; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(ii), Mar. 23, 2018, 132 Stat. 1206; Pub. L. 117–169, title I, §§10101(a)(2), (c), 13904(a), Aug. 16, 2022, 136 Stat. 1818, 1827, 2014.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -420,7 +420,7 @@ Amendment by section 10101(a)(2), (c) of Pub. L. 117–169 applicable to taxable
 
 Amendment by section 11002(d)(4) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
-Amendment by section 12001(b)(3)(C), (10) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under section 11 of this title.
+Amendment by section 12001(b)(3)(C), (10) of Pub. L. 115–97 applicable to taxable years beginning after Dec.31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -460,7 +460,7 @@ Amendment by section 11101(d)(3) of Pub. L. 101–508 applicable to taxable year
 
 Amendment by section 11531(b)(2) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1990, see section 11531(c) of Pub. L. 101–508, set out as a note under section 56 of this title.
 
-Pub. L. 101–508, title XI, §11702(j), Nov. 5, 1990, 104 Stat. 1388–516, provided that: "Any amendment made by this section \[amending this section and sections 135, 216, 355, 367, 447, 453B, 468B, 2056, 2056A, 2523, 4980B, and6114 of this title\] shall take effect as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988 \[Pub. L. 100–647\] to which such amendment relates."
+Pub. L. 101–508, title XI, §11702(j), Nov. 5, 1990, 104 Stat. 1388–516, provided that: "Any amendment made by this section \[amending this section and sections 135, 216, 355, 367, 447, 453B, 468B, 2056, 2056A, 2523, 4980B, and 6114 of this title\] shall take effect as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988 \[Pub. L. 100–647\] to which such amendment relates."
 
 #### Effective Date of 1989 Amendment
 
@@ -498,7 +498,7 @@ For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 b
 
 #### Consideration of Certain Taxes Treated as Paid or Accrued Under Section 904(c) in Determination of Alternative Minimum Tax Foreign Tax Credit
 
-Pub. L. 100–647, title I, §1007(f)(5), Nov. 10, 1988, 102 Stat. 3434, provided that: "In determining the amount of the alternative minimum tax foreign tax credit under section 59 of the 1986 Code, there shall not be taken into account any taxes paid or accrued in a taxable year beginning after December 31, 1986, which are treated under section 904(c) of the 1986 Code as paid or accrued in a taxable year beginning on or before December 31, 1986."
+Pub. L. 100–647, title I, §1007(f)(5), Nov. 10, 1988, 102 Stat. 3434, provided that: "In determining the amountof the alternative minimum tax foreign tax credit under section 59 of the 1986 Code, there shall not be taken into account any taxes paid or accrued in a taxable year beginning after December 31, 1986, which are treated under section 904(c) of the 1986 Code as paid or accrued in a taxable year beginning on or before December 31, 1986."
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

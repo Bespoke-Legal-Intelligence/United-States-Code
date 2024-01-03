@@ -28,7 +28,7 @@ the training of scientists, technicians, and other personnel for manning the con
 
 #### (g) Danger of war from accident, miscalculation, or surprise attack
 
-the reduction and elimination of the danger of war resulting from accident, miscalculation, orpossible surprise attack, including (but not limited to) improvements in the methods of communications between nations;
+the reduction and elimination of the danger of war resulting from accident, miscalculation, or possible surprise attack, including (but not limited to) improvements in the methods of communications between nations;
 
 #### (h) Economic and political consequences of disarmament
 

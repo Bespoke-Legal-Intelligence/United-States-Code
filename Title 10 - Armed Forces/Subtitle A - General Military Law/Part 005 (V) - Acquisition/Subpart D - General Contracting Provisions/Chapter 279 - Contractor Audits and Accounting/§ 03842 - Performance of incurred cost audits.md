@@ -48,7 +48,7 @@ Procedures for the Use of Qualified Private Auditors.—(1) Not later than Octob
 
 &emsp;(C) all other elements of an acquisition plan as required by the Federal Acquisition Regulation.
 
-(2) Not later than April 1, 2019, the Secretary of Defense or a Federal department or agency authorized by the Secretary shall award a contract or issue a task order under an existing contract to two or more qualified private auditors to perform incurred cost audits of costs associated with contracts of the Department of Defense. The Defense Contract Management Agency or a contract administration office of a military department shall use a contract or a task order awarded or issued pursuant to this paragraph for the performance of an incurred cost audit, if doing so will assist the Secretary in meeting the requirements in subsection (b).
+(2) Not later than April 1, 2019, the Secretary of Defense or a Federal department or agency authorized by the Secretary shall award a contract or issue a task order under an existing contract to two or more qualified private auditors to perform incurred cost audits of costs associated with contracts of the Department ofDefense. The Defense Contract Management Agency or a contract administration office of a military department shall use a contract or a task order awarded or issued pursuant to this paragraph for the performance of an incurred cost audit, if doing so will assist the Secretary in meeting the requirements in subsection (b).
 
 (3) To improve the quality of incurred cost audits and reduce duplication of performance of such audits, the Secretary of Defense may provide a qualified private auditor with information on past or ongoing audit results or other relevant information on the entities the qualified private auditor is auditing.
 
@@ -112,7 +112,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "incurred cost audit" means an audit of charges to the Government by a contractor under a flexibly priced contract.
 
-&emsp;(3) The term "flexibly priced contract" has the meaning given the term "flexibly-pricedcontracts and subcontracts" in part 30 of the Federal Acquisition Regulation (section 30.001 of title 48, Code of Federal Regulations).
+&emsp;(3) The term "flexibly priced contract" has the meaning given the term "flexibly-priced contracts and subcontracts" in part 30 of the Federal Acquisition Regulation (section 30.001 of title 48, Code of Federal Regulations).
 
 &emsp;(4) The term "generally accepted government auditing standards" means the generally accepted government auditing standards of the Comptroller General of the United States.
 

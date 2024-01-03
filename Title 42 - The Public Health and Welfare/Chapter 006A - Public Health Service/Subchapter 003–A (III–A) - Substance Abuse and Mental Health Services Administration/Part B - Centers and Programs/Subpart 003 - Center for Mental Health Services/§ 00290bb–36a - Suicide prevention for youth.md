@@ -84,7 +84,7 @@ In this section, the terms "early intervention", "educational institution", "ins
 
 For purposes of carrying out this section, there is authorized to be appropriated $75,000,000 for fiscal year 2001 and such sums as may be necessary for each of the fiscal years 2002 through 2003.
 
-(July 1, 1944, ch. 373, title V, §520E–1, formerly §520E, as added Pub. L. 106–310, div. B, titleXXXI, §3111, Oct. 17, 2000, 114 Stat. 1186; renumbered §520E–1 and amended Pub. L. 108–355, §3(b), Oct. 21, 2004, 118 Stat. 1407.)
+(July 1, 1944, ch. 373, title V, §520E–1, formerly §520E, as added Pub. L. 106–310, div. B, title XXXI, §3111, Oct. 17, 2000, 114 Stat. 1186; renumbered §520E–1 and amended Pub. L. 108–355, §3(b), Oct. 21, 2004, 118 Stat. 1407.)
 
 #### <b>Editorial Notes</b>
 

@@ -48,7 +48,7 @@
 
 #### (C) Responsibility for services for the blind
 
-&emsp;&emsp;If the State has designated only 1 State agency pursuant to subparagraph (A), theState may assign responsibility for the part of the plan under which vocational rehabilitation services are provided for individuals who are blind to an organizational unit of the designated State agency and assign responsibility for the rest of the plan to another organizational unit of the designated State agency, with the provisions of subparagraph (B) applying separately to each of the designated State units.
+&emsp;&emsp;If the State has designated only 1 State agency pursuant to subparagraph (A), the State may assign responsibility for the part of the plan under which vocational rehabilitation services are provided for individuals who are blind to an organizational unit of the designated State agency and assign responsibility for the rest of the plan to another organizational unit of the designated State agency, with the provisions of subparagraph (B) applying separately to each of the designated State units.
 
 #### (3) Non-Federal share
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;&emsp;(iv) a description of the development, updating, and implementation of a plan that—
 
-&emsp;&emsp;&emsp;&emsp;(I) will address the current and projected vocational rehabilitation services personnel training needs for the designated State unit; and
+&emsp;&emsp;&emsp;&emsp;(I) will address the current and projected vocational rehabilitation servicespersonnel training needs for the designated State unit; and
 
 &emsp;&emsp;&emsp;&emsp;(II) provides for the coordination and facilitation of efforts between the designated State unit, institutions of higher education, and professional associations to recruit, prepare, and retain qualified personnel, including personnel from minority backgrounds, and personnel who are individuals with disabilities; and
 
@@ -204,7 +204,7 @@
 
 #### (A) Development and implementation
 
-&emsp;&emsp;The State plan shall include an assurance that an individualized plan for employmentmeeting the requirements of section 722(b) of this title will be developed and implemented in a timely manner for an individual subsequent to the determination of the eligibility of the individual for services under this subchapter, except that in a State operating under an order of selection described in paragraph (5), the plan will be developed and implemented only for individuals meeting the order of selection criteria of the State.
+&emsp;&emsp;The State plan shall include an assurance that an individualized plan for employment meeting the requirements of section 722(b) of this title will be developed and implemented in a timely manner for an individual subsequent to the determination of the eligibility of the individual for services under this subchapter, except that in a State operating under an order of selection described in paragraph (5), the plan will be developed and implemented only for individuals meeting the order of selection criteria of the State.
 
 #### (B) Provision of services
 
@@ -256,7 +256,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the number who ended their participation in the program and who were employed 6 months and 12 months after securing or regaining employment, or, in the case of individuals whose employment outcome was to retain or advance in employment, who were employed 6 months and 12 months after achieving their employment outcome, including—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the number who earned the minimum wage rate specified in section6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) or another wage level set by the Commissioner, during such employment; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the number who earned the minimum wage rate specified in section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) or another wage level set by the Commissioner, during such employment; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the number who received employment benefits from an employer during such employment.
 
@@ -264,7 +264,7 @@
 
 &emsp;&emsp;The Commissioner shall also require that the designated State agency include in the reports information on—
 
-&emsp;&emsp;&emsp;(i) the costs under this subchapter of conducting administration, providing assessment services, counseling and guidance, and other direct services provided by designated State agency staff, providing services purchased under individualized plans for employment, supporting small business enterprises, establishing, developing, and improving community rehabilitation programs, providing other services to groups, and facilitating use of other programs under this chapter and title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] by eligible individuals; and
+&emsp;&emsp;&emsp;(i) the costs under this subchapter of conducting administration, providing assessment services, counseling and guidance, and other direct services provided by designated State agency staff, providing services purchased under individualized plans for employment, supporting small business enterprises, establishing, developing, and improving community rehabilitation programs, providing other servicesto groups, and facilitating use of other programs under this chapter and title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] by eligible individuals; and
 
 &emsp;&emsp;&emsp;(ii) the results of annual evaluation by the State of program effectiveness under paragraph (15)(E).
 
@@ -314,7 +314,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the promotion of equal, effective, and meaningful participation by individuals with disabilities in workforce development activities in the State through the promotion of program accessibility (including programmatic accessibility and physical accessibility), the use of nondiscriminatory policies and procedures, and the provision of reasonable accommodations, auxiliary aids and services, and rehabilitation technology, for individuals with disabilities;
 
-&emsp;&emsp;&emsp;(ii) use of information and financial management systems that link all components of the statewide workforce development system, that link the components to other electronic networks, including nonvisual electronic networks, and that relate to such subjects as employment statistics,and information on job vacancies, career planning, and workforce investment activities;
+&emsp;&emsp;&emsp;(ii) use of information and financial management systems that link all components of the statewide workforce development system, that link the components to other electronic networks, including nonvisual electronic networks, and that relate to such subjects as employment statistics, and information on job vacancies, career planning, and workforce investment activities;
 
 &emsp;&emsp;&emsp;(iii) use of customer service features such as common intake and referral procedures, customer databases, resource information, and human services hotlines;
 
@@ -366,13 +366,13 @@
 
 #### (H) Cooperative agreement with recipients of grants for services to American Indians
 
-&emsp;&emsp;In applicable cases, the State plan shall include an assurance that the State has entered into a formal cooperative agreementwith each grant recipient in the State that receives funds under part C. The agreement shall describe strategies for collaboration and coordination in providing vocational rehabilitation services to American Indians who are individuals with disabilities, including—
+&emsp;&emsp;In applicable cases, the State plan shall include an assurance that the State has entered into a formal cooperative agreement with each grant recipient in the State that receives funds under part C. The agreement shall describe strategies for collaboration and coordination in providing vocational rehabilitation services to American Indians who are individuals with disabilities, including—
 
 &emsp;&emsp;&emsp;(i) strategies for interagency referral and information sharing that will assist in eligibility determinations and the development of individualized plans for employment;
 
 &emsp;&emsp;&emsp;(ii) procedures for ensuring that American Indians who are individuals with disabilities and are living on or near a reservation or tribal service area are provided vocational rehabilitation services;
 
-&emsp;&emsp;&emsp;(iii) strategies for the provision of transition planning, by personnel of the designated State unit, the State educational agency, and the recipient of funds under part C, that will facilitate the development and approval of the individualized plans for employment under section 722 of this title; and
+&emsp;&emsp;&emsp;(iii) strategies for the provision of transition planning, by personnel of the designated State unit, the State educational agency, and the recipient of funds underpart C, that will facilitate the development and approval of the individualized plans for employment under section 722 of this title; and
 
 &emsp;&emsp;&emsp;(iv) provisions for sharing resources in cooperative studies and assessments, joint training activities, and other collaborative activities designed to improve the provision of services to American Indians who are individuals with disabilities.
 
@@ -424,7 +424,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) youth with disabilities, and students with disabilities, including their need for pre-employment transition services or other transition services;
 
-&emsp;&emsp;&emsp;(ii) include an assessment of the needs of individuals with disabilities for transition services and pre-employment transition services, and the extent to which such services provided under this chapter are coordinated with transition services provided under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) in order to meet the needs of individuals with disabilities.
+&emsp;&emsp;&emsp;(ii) include an assessment of the needs of individuals with disabilities for transition services and pre-employment transition services, and the extent to which such services provided under this chapter arecoordinated with transition services provided under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) in order to meet the needs of individuals with disabilities.
 
 &emsp;&emsp;&emsp;(iii) include an assessment of the need to establish, develop, or improve community rehabilitation programs within the State; and
 
@@ -602,7 +602,7 @@
 
 #### (B) More than one designated State agency
 
-&emsp;&emsp;In the case of a State that, under subsection (a)(2), designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and designates a separate State agency to administer the rest of the State plan, the State shall either establish a State Rehabilitation Council for each of the two agencies that does not meet the requirements in subparagraph (A)(i), or establish one State Rehabilitation Council for bothagencies if neither agency meets the requirements of subparagraph (A)(i).
+&emsp;&emsp;In the case of a State that, under subsection (a)(2), designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and designates a separate State agency to administer the rest of the State plan, the State shall either establish a State Rehabilitation Council for each of the two agencies that does not meet the requirements in subparagraph (A)(i), or establish one State Rehabilitation Council for both agencies if neither agency meets the requirements of subparagraph (A)(i).
 
 #### (22) Supported employment State plan supplement
 
@@ -672,7 +672,7 @@ Section 776 of this title, referred to in subsec. (a)(17)(B), was in the origina
 
 #### Prior Provisions
 
-A prior section 721, Pub. L. 93–112, title I, §101, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, §111(b)–(d), Dec. 7, 1974, 88 Stat. 1619, 1620; Pub. L. 93–651, title I, §111(b)–(d), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, §§102, 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, §104(a)(2), Feb. 22, 1984, 98 Stat. 18; Pub. L. 98–524, §4(f), Oct. 19, 1984, 98 Stat. 2489; Pub. L. 99–506, title I, §103(d)(2), title II, §202, title X, §1001(b)(1)–(4), Oct. 21, 1986, 100 Stat. 1810, 1814, 1841, 1842; Pub. L. 100–630, title II, §202(b), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–119, §26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, §§102(o), (p)(7), 122, Oct. 29, 1992, 106 Stat. 4355, 4356, 4367; Pub. L. 103–73, title I, §§102(2), 107(a), Aug. 11, 1993, 107 Stat. 718, 719; Pub. L. 104–106, div. D, title XLIII, §4321(i)(7), Feb. 10, 1996, 110 Stat. 676, related to State plans, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 721, Pub. L. 93–112, title I, §101, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, §111(b)–(d), Dec. 7, 1974, 88 Stat. 1619, 1620; Pub. L. 93–651, title I, §111(b)–(d), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602,title I, §§102, 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, §104(a)(2), Feb. 22, 1984, 98 Stat. 18; Pub. L. 98–524, §4(f), Oct. 19, 1984, 98 Stat. 2489; Pub. L. 99–506, title I, §103(d)(2), title II, §202, title X, §1001(b)(1)–(4), Oct. 21, 1986, 100 Stat. 1810, 1814, 1841, 1842; Pub. L. 100–630, title II, §202(b), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–119, §26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, §§102(o), (p)(7), 122, Oct. 29, 1992, 106 Stat. 4355, 4356, 4367; Pub. L. 103–73, title I, §§102(2), 107(a), Aug. 11, 1993, 107 Stat. 718, 719; Pub. L. 104–106, div. D, title XLIII, §4321(i)(7), Feb. 10, 1996, 110 Stat. 676, related to State plans, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
 
@@ -718,7 +718,7 @@ Subsec. (a)(10)(C)(ii)(I). Pub. L. 113–128, §412(a)(6)(B)(iii)(I), substitute
 
 Subsec. (a)(10)(C)(ii)(IV) to (VI). Pub. L. 113–128, §412(a)(6)(B)(iii)(II), (III), added subcls. (IV) to (VI).
 
-Subsec. (a)(10)(C)(iv)(I). Pub. L. 113–128, §412(a)(6)(B)(iv), inserted "and, for those who achievedemployment outcomes, the average length of time to obtain employment" before semicolon.
+Subsec. (a)(10)(C)(iv)(I). Pub. L. 113–128, §412(a)(6)(B)(iv), inserted "and, for those who achieved employment outcomes, the average length of time to obtain employment" before semicolon.
 
 Subsec. (a)(10)(D)(i). Pub. L. 113–128, §412(a)(6)(C), substituted "title I of the Workforce Innovation and Opportunity Act" for "title I of the Workforce Investment Act of 1998".
 
@@ -793,10 +793,6 @@ Subsec. (c). Pub. L. 113–128, §412(c), added subsec. (c).
 Subsec. (a)(21)(A)(i)(II)(bb). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(4)(B)\], substituted "commission" for "Commission".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Definitions of Terms in Pub. L. 113–128
 

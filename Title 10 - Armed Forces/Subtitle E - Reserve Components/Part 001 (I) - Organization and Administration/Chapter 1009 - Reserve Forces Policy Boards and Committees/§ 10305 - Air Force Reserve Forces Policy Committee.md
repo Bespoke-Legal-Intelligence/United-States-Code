@@ -2,15 +2,19 @@
 
 (a) There is in the Office of the Secretary of the Air Force an Air Reserve Forces Policy Committee on Air National Guard and Air Force Reserve Policy. The Committee shall review and comment upon major policy matters directly affecting the reserve components and the mobilization preparedness of the Air Force. The Committee's comments on such policy matters shall accompany the final report regarding any such matters submitted to the Secretary of the Air Force and the Chief of Staff.
 
-(b) The committee consists of officers in the grade of colonel or above, as follows:
+(b)(1) The committee shall have voting members, who shall be officers in the grade of colonel or above, as follows:
 
-&emsp;(1) five members of the Regular Air Force on duty with the Air Staff;
+&emsp;(A) five members of the Regular Air Force on duty with the Air Staff;
 
-&emsp;(2) five members of the Air National Guard of the United States not on active duty; and
+&emsp;(B) five members of the Air National Guard of the United States; and
 
-&emsp;(3) five members of the Air Force Reserve not on active duty.
+&emsp;(C) five members of the Air Force Reserve.
 
-(c) The members of the Committee shall select the Chairman from among the members on the Committee not on active duty.
+(2)(A) The committee shall have four nonvoting members, who shall be the Chief Master Sergeants of the Air Force, the Air Force Reserve, the Air National Guard, and the Space Force.
+
+(B) A nonvoting member who cannot attend a meeting of the committee may designate a member in the grade of E–8 or E–⁠9 to attend in their stead.
+
+(c) The members of the Committee shall select the Chairman from among the members of the reserve components on the Committee.
 
 (d) A majority of the members of the Committee shall act whenever matters affecting both the Air National Guard of the United States and Air Force Reserve are being considered. However, when any matter solely affecting one of the Air Force Reserve components is being considered, it shall be acted upon only by the Subcommittee on Air National Guard Policy or the Subcommittee on Air Force Reserve Policy, as appropriate.
 
@@ -18,11 +22,11 @@
 
 (f) The Subcommittee on Air Force Reserve Policy consists of the members of the Committee other than the Air National Guard members.
 
-(g) Membership on the Air Staff Committee is determined by the Secretary of the Air Force and is for a minimum period of three years. Except in the case of members of the Committee from the Regular Air Force, the Secretary of the Air Force, when appointing new members, shallinsure that among the officers of each component on the Committee there will at all times be two or more members with more than one year of continuous service on the Committee.
+(g) Membership on the Air Staff Committee is determined by the Secretary of the Air Force and is for a minimum period of three years. Except in the case of members of the Committee from the Regular Air Force, the Secretary of the Air Force, when appointing new members, shall insure that among the officers of each component on the Committee there will at all times be two or more members with more than one year of continuous service on the Committee.
 
 (h) There shall be not less than 10 officers of the Air National Guard of the United States and the Air Force Reserve on duty with the Air Staff, one-half of whom shall be from each of those components. These officers shall be considered as additional members of the Air Staff while on that duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 491, §8033; Pub. L. 85–861, §33(a)(17), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 90–168, §2(21), Dec. 1, 1967, 81 Stat. 525; renumbered §8021 and amended Pub. L. 99–433, title V, §521(a)(6), Oct. 1, 1986, 100 Stat. 1059; renumbered §10305, Pub. L. 103–337, div. A, title XVI, §1661(b)(2)(B), Oct. 5, 1994, 108 Stat. 2981.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 491, §8033; Pub. L. 85–861, §33(a)(17), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 90–168, §2(21), Dec. 1, 1967, 81 Stat. 525; renumbered §8021 and amended Pub. L. 99–433, title V, §521(a)(6), Oct. 1, 1986, 100 Stat. 1059; renumbered §10305, Pub. L. 103–337, div. A, title XVI, §1661(b)(2)(B), Oct. 5, 1994, 108 Stat. 2981; Pub. L. 118–31, div. A, title V, §511, title IX, §916, Dec. 22, 2023, 137 Stat. 244, 368.)
 
 Historical and Revision Notes<br>1956
 
@@ -84,7 +88,7 @@ In subsections (a) and (c), the words "of officers", after the word "committee",
 
 In subsection (e), the words "For the purpose specified herein" are omitted as surplusage. The words "on that duty" are substituted for the words "so serving".
 
-In subsection (g), the word "perform" is substituted for the words "be charged with". All of 5:626(f) except the first proviso of the first sentence is omitted as executed. The words "Territories, Puerto Rico, the Canal Zone, and the District of Columbia" are inserted to conform to other sections of this title which, in describing the National Guard, also include these jurisdictions.
+In subsection (g), the word "perform" is substituted for the words "be charged with". All of 5:626(f) exceptthe first proviso of the first sentence is omitted as executed. The words "Territories, Puerto Rico, the Canal Zone, and the District of Columbia" are inserted to conform to other sections of this title which, in describing the National Guard, also include these jurisdictions.
 
 #### 1958 Act
 
@@ -93,6 +97,16 @@ The change is necessary to make subsection (d) coextensive with subsection (c), 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b). Pub. L. 118–31, §916(2)–(4), inserted par. (1) designation before "The committee", redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), and added par. (2).
+
+Pub. L. 118–31, §916(1), substituted "shall have voting members, who shall be" for "consists of" in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 118–31, §511(1), struck out "not on active duty" after "Air National Guard of the United States".
+
+Subsec. (b)(3). Pub. L. 118–31, §511(1), struck out "not on active duty" before period at end.
+
+Subsec. (c). Pub. L. 118–31, §511(2), inserted "of the reserve components" after "among the members" and struck out "not on active duty" before period at end.
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 8021 of this title as this section.
 

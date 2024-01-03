@@ -46,27 +46,13 @@ The Secretary of Energy may carry out a program to undertake an accelerated, com
 
 (2) The Secretary of Energy shall, in coordination with the Secretary of State, carry out the program in consultation with, and with the assistance of, appropriate departments, agencies, and other entities of the United States Government.
 
-(3) The Secretary of Energy shall, with the concurrence of the Secretary of State, carry out activities under the program in collaboration with such foreign governments, non-governmental organizations, and other international entities as the Secretary of Energy considers appropriate for the program.
+(3) The Secretary of Energy shall, with the concurrence of the Secretary of State, carry out activities under the program in collaboration with such foreign governments, non-governmental organizations, and other internationalentities as the Secretary of Energy considers appropriate for the program.
 
-#### (d) Reports
-
-(1) Not later than March 15, 2005, the Secretary of Energy shall submit to Congress a classified interim report on the program under subsection (b).
-
-(2) Not later than January 1, 2006, the Secretary shall submit to Congress a classified final report on the program under subsection (b) that includes the following:
-
-&emsp;(A) A survey by the Secretary of the facilities and sites worldwide that contain proliferation-attractive fissile materials, radiological materials, or related equipment.
-
-&emsp;(B) A list of sites determined by the Secretary to be of the highest priority, taking into account risk of theft from such sites, for removal or security of proliferation-attractive fissile materials, radiological materials, or related equipment, organized by level of priority.
-
-&emsp;(C) A plan, including activities under the program under this section, for the removal, security, or both of proliferation-attractive fissile materials, radiological materials, or related equipment at vulnerable facilities and sites worldwide, including measurable milestones, metrics, and estimated costs for the implementation of the plan.
-
-(3) A summary of each report under this subsection shall also be submitted to Congress in unclassified form.
-
-#### (e) Funding
+#### (d) Funding
 
 Amounts authorized to be appropriated to the Secretary of Energy for defense nuclear nonproliferation activities shall be available for purposes of the program under this section.
 
-#### (f) Participation by other governments and organizations
+#### (e) Participation by other governments and organizations
 
 #### (1) In general
 
@@ -94,11 +80,7 @@ Amounts authorized to be appropriated to the Secretary of Energy for defense nuc
 
 &emsp;&emsp;(C) a statement of the amounts retained but not used under this subsection, including, for each such amount, the purposes (if known) for which the Secretary intends to use the amount.
 
-#### (6) Expiration
-
-&emsp;The authority to accept, retain, and use contributions under this subsection expires on December 31, 2028.
-
-#### (g) Definitions
+#### (f) Definitions
 
 In this section:
 
@@ -116,11 +98,19 @@ In this section:
 
 &emsp;(7) The term "alternative technologies" means technologies, such as accelerator-based equipment, that do not use radiological materials.
 
-(Pub. L. 107–314, div. D, title XLIII, §4306B, formerly Pub. L. 108–375, div. C, title XXXI, §3132, Oct. 28, 2004, 118 Stat. 2166; Pub. L. 109–364, div. C, title XXXI, §3113, Oct. 17, 2006, 120 Stat. 2504; Pub. L. 112–239, div. C, title XXXI, §3118, Jan. 2, 2013, 126 Stat. 2173; Pub. L. 115–232, div. C, title XXXI, §3114, Aug. 13, 2018, 132 Stat. 2290; renumbered Pub. L. 107–314, div. D, title XLIII, §4306B, and amended Pub. L. 117–81, div. C, title XXXI, §3118(a), Dec. 27, 2021, 135 Stat. 2228; Pub. L. 117–263, div. C, title XXXI, §3115, Dec. 23, 2022, 136 Stat. 3053.)
+(Pub. L. 107–314, div. D, title XLIII, §4306B, formerly Pub. L. 108–375, div. C, title XXXI, §3132, Oct. 28, 2004, 118 Stat. 2166; Pub. L. 109–364, div. C, title XXXI, §3113, Oct. 17, 2006, 120 Stat. 2504; Pub. L. 112–239, div. C, title XXXI, §3118, Jan. 2, 2013, 126 Stat. 2173; Pub. L. 115–232, div. C, title XXXI, §3114, Aug. 13, 2018, 132 Stat. 2290; renumbered Pub. L. 107–314, div. D, title XLIII, §4306B, and amended Pub. L. 117–81, div. C, title XXXI, §3118(a), Dec. 27, 2021, 135 Stat. 2228; Pub. L. 117–263, div. C, title XXXI, §3115, Dec. 23, 2022, 136 Stat. 3053; Pub. L. 118–31, div. C, title XXXI, §3118(a), (b), Dec. 22, 2023, 137 Stat. 791.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d). Pub. L. 118–31, §3118(a), redesignated subsec. (e) as (d) and struck out former subsec. (d) which required interim and final reports on the program under subsec. (b).
+
+Subsec. (e). Pub. L. 118–31, §3118(a)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (e)(6). Pub. L. 118–31, §3118(b), struck out par. (6). Text read as follows: "The authority to accept, retain, and use contributions under this subsection expires on December 31, 2028."
+
+Subsecs. (f), (g). Pub. L. 118–31, §3118(a)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively.
 
 <b>2022</b>—Subsec. (c)(1)(M)(ii). Pub. L. 117–263, §3115(1), inserted "(including through the use of alternative technologies)" after "convert".
 
@@ -128,7 +118,7 @@ Subsec. (g)(7). Pub. L. 117–263, §3115(2), added par. (7).
 
 <b>2021</b>—Subsec. (f)(6). Pub. L. 117–81, §3118(a)(4), substituted "December 31, 2028" for "December 31, 2023".
 
-<b>2018</b>—Subsec. (f)(5). Pub. L. 115–232, §3114(1), (2), redesignated par. (6) as (5) and struck out former par. (5). Prior to amendment text of par. (5) read as follows: "Not later than 30 days after the receipt of an amount contributed under paragraph (1), the Secretary of Energy shall submit to the congressional defense committees a notice specifying the purpose and value of the contribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted."
+<b>2018</b>—Subsec. (f)(5). Pub. L. 115–232, §3114(1), (2), redesignated par. (6) as (5) and struck out former par. (5). Prior to amendment text of par. (5) read as follows:"Not later than 30 days after the receipt of an amount contributed under paragraph (1), the Secretary of Energy shall submit to the congressional defense committees a notice specifying the purpose and value of the contribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted."
 
 Subsec. (f)(6), (7). Pub. L. 115–232, §3114(2), (3), redesignated par. (7) as (6) and substituted "December 31, 2023" for "December 31, 2018". Former par. (6) redesignated (5).
 

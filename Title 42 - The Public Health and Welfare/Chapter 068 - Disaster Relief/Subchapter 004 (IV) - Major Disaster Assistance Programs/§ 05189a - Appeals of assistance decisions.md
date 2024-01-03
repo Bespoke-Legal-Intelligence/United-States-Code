@@ -86,7 +86,7 @@ Procedures.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of enactment of this section \[Jan. 29, 2013\], and in order to facilitate an efficient recovery from major disasters, the Administrator shall establish procedures under which an applicant may request the use of alternative dispute resolution, including arbitration by an independent review panel, to resolve disputes relating to eligible assistance.
+In general.—Not later than 180 days after the date of enactment of this section \[Jan. 29, 2013\], andin order to facilitate an efficient recovery from major disasters, the Administrator shall establish procedures under which an applicant may request the use of alternative dispute resolution, including arbitration by an independent review panel, to resolve disputes relating to eligible assistance.
 
 &emsp;"(2)
 

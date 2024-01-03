@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(A) an assessment of the criteria and guidance issued by the Administrator of the Small Business Administration in accordance with paragraph (1);
 
-&emsp;&emsp;(B) an assessment of the implementation of the criteria and guidance issued by issuedby <sup>1</sup> the Administrator of the Small Business Administration in accordance with paragraph (1);
+&emsp;&emsp;(B) an assessment of the implementation of the criteria and guidance issued by issued by <sup>1</sup> the Administrator of the Small Business Administration in accordance with paragraph (1);
 
 &emsp;&emsp;(C) an assessment as to whether these measures have successfully ensured that only qualified HUBZone small business concerns are participating in the HUBZone program under section 657a of title 15;
 
@@ -32,7 +32,7 @@ Section 632(p)(5) of title 15, referred to in subsec. (b)(1), was redesignated a
 
 #### Codification
 
-Section is comprised of section 412 of Pub. L. 114–187. Subsec. (a)(1) of section 412 of Pub. L. 114–187 amended section 632 of Title 15, Commerce and Trade. Subsec. (a)(2) of section 412 of Pub. L. 114–187 enacted provisions set out as a note under section 632 of Title 15.
+Section is comprised of section 412 of Pub. L. 114–187. Subsec. (a)(1) of section 412 of Pub. L. 114–187 amendedsection 632 of Title 15, Commerce and Trade. Subsec. (a)(2) of section 412 of Pub. L. 114–187 enacted provisions set out as a note under section 632 of Title 15.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

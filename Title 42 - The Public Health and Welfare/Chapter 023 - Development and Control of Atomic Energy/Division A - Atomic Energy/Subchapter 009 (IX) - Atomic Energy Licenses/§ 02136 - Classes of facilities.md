@@ -2,7 +2,7 @@
 
 The Commission may—
 
-&emsp;(a) group the facilities licensed either under section 2133 or 2134 of this title into classes which may include either production or utilization facilities or both, upon the basis of thesimilarity of operating and technical characteristics of the facilities;
+&emsp;(a) group the facilities licensed either under section 2133 or 2134 of this title into classes which may include either production or utilization facilities or both, upon the basis of the similarity of operating and technical characteristics of the facilities;
 
 &emsp;(b) define the various activities to be carried on at each such class of facility; and
 

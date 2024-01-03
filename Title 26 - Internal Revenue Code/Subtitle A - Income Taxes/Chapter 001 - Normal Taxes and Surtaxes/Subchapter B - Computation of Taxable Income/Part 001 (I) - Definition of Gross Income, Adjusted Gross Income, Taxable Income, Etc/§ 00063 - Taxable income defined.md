@@ -120,7 +120,7 @@ For purposes of this subtitle, the term "itemized deductions" means the deductio
 
 #### (1) In general
 
-&emsp;Unless an individual makes an election under this subsection for the taxable year, noitemized deduction shall be allowed for the taxable year. For purposes of this subtitle, the determination of whether a deduction is allowable under this chapter shall be made without regard to the preceding sentence.
+&emsp;Unless an individual makes an election under this subsection for the taxable year, no itemized deduction shall be allowed for the taxable year. For purposes of this subtitle, the determination of whether a deduction is allowable under this chapter shall be made without regard to the preceding sentence.
 
 #### (2) Time and manner of election
 
@@ -158,7 +158,7 @@ For purposes of this subtitle, the term "itemized deductions" means the deductio
 
 #### (3) Higher amount for certain unmarried individuals
 
-&emsp;In the case of an individual who is not married and is not a surviving spouse, paragraphs (1) and (2) shall be applied by substituting "$750" for "$600".
+&emsp;In the case of an individual who is not married and is not a surviving spouse, paragraphs\(1) and (2) shall be applied by substituting "$750" for "$600".
 
 #### (4) Blindness defined
 
@@ -194,7 +194,7 @@ Subsec. (d)(2), (3). Pub. L. 116–260, §212(b)(2), added par. (2) and struck o
 
 <b>2017</b>—Subsec. (b)(3). Pub. L. 115–97, §11011(b)(2), added par. (3).
 
-Subsec. (c)(4)(B). Pub. L. 115–97, §11002(d)(1)(K), substituted "for 'calendar year 2016' in subparagraph\(A)(ii)" for "for 'calendar year 1992' in subparagraph (B)" in introductory provisions.
+Subsec. (c)(4)(B). Pub. L. 115–97, §11002(d)(1)(K), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)" in introductory provisions.
 
 Subsec. (c)(7). Pub. L. 115–97, §11021(a), added par. (7).
 
@@ -400,7 +400,7 @@ Pub. L. 110–289, div. C, title I, §3012(c), July 30, 2008, 122 Stat. 2892, pr
 
 Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2003, see section 101(e) of Pub. L. 108–311, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 108–311 subject to title IX of the Economic Growth and Tax Relief ReconciliationAct of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provisions of such Act to which such amendments relate, see section 105 of Pub. L. 108–311, set out as a note under section 1 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
+Amendment by Pub. L. 108–311 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provisions of such Act to which such amendments relate, see section 105 of Pub. L. 108–311, set out as a note under section 1 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
 #### Effective and Termination Dates of 2003 Amendment
 
@@ -440,7 +440,7 @@ Amendment by section 1272(d)(6) of Pub. L. 99–514 applicable to taxable years 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 104(b) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1984, see section 104(e) of Pub. L. 97–34, set out as a note under section 1 of this title.
+Amendment by section 104(b) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1984, seesection 104(e) of Pub. L. 97–34, set out as a note under section 1 of this title.
 
 Amendment by section 111(b)(4) of Pub. L. 97–34 applicable with respect to taxable years beginning after Dec. 31, 1981, see section 115 of Pub. L. 97–34, set out as a note under section 911 of this title.
 

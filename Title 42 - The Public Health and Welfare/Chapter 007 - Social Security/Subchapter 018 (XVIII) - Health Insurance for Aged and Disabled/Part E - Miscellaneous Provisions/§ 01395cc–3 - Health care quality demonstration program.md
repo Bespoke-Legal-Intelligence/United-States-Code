@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Beneficiary
 
-&emsp;The term "beneficiary" means an individual who is entitled to benefits under part A andenrolled under part B, including any individual who is enrolled in a Medicare Advantage plan under part C.
+&emsp;The term "beneficiary" means an individual who is entitled to benefits under part A and enrolled under part B, including any individual who is enrolled in a Medicare Advantage plan under part C.
 
 #### (2) Health care group
 
@@ -86,7 +86,7 @@ To be eligible to receive assistance under this section, an entity shall—
 
 #### (e) Waiver authority
 
-The Secretary may waive such requirements of this subchapter and subchapter XI as may benecessary to carry out the purposes of the demonstration program established under this section.
+The Secretary may waive such requirements of this subchapter and subchapter XI as may be necessary to carry out the purposes of the demonstration program established under this section.
 
 #### (f) Budget neutrality
 

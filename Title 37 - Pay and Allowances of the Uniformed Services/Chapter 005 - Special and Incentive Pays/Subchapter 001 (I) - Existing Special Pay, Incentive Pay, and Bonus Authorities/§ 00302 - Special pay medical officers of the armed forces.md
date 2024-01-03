@@ -132,7 +132,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §203(a), (b) (less applicability to veterinarians), 63 Stat. 809; June 25, 1952, ch. 459, §1, 66 Stat. 156; June 29, 1953, ch. 138, §8 (less applicability to veterinarians), 67 Stat. 89; June 30, 1955, ch. 250, §203, 69 Stat. 225; Apr. 30, 1956, ch. 223, §5, 70 Stat. 122; Mar. 23, 1959, Pub. L. 86–4, §5, 73 Stat. 13.
 
-In subsection (a), clause (1) is substituted for section 234(a)(1), (2), and (3) of existing title 37. The words "ofthe Regular Army or the Regular Navy" and "of the Regular Air Force" are inserted in clauses (1)(A) and (B), respectively, since, in contradistinction to section 234(a)(4) of existing title 37, their source was intended to apply only to regular officers. Clauses (2) (A) and (B) are substituted for the enumeration of categories in section 234(a)(4) of existing title 37 to reflect current usage and designation of those categories. Clause (3) is substituted for section 234(a)(5) and (6) of existing title 37.
+In subsection (a), clause (1) is substituted for section 234(a)(1), (2), and (3) of existing title 37. The words "of the Regular Army or the Regular Navy" and "of the Regular Air Force" are inserted in clauses (1)(A) and (B), respectively, since, in contradistinction to section 234(a)(4) of existing title 37, their source was intended to apply only to regular officers. Clauses (2) (A) and (B) are substituted for the enumeration of categories in section 234(a)(4) of existing title 37 to reflect current usage and designation of those categories. Clause (3) is substituted for section 234(a)(5) and (6) of existing title 37.
 
 In subsection (c), the words "disability retirement pay" are omitted as covered by the words "retired pay". Section 234(b) (2d proviso) of existing title 37 is omitted as obsolete.
 
@@ -156,7 +156,7 @@ Subsec. (f). Pub. L. 109–163, §687(b)(4)(B), added subsec. (f) and struck out
 
 Subsec. (a)(2). Pub. L. 101–189, §702(f)(9), struck out "of this subsection" after "paragraph (1)" in introductory provisions.
 
-Subsec. (a)(2)(C) to (I). Pub. L. 101–189, §702(a), in subpar. (C), substituted "$12,000" for "$10,000", in subpar. (D), substituted "$11,500" for "$9,500", in subpar. (E), substituted "$11,000" for "$9,000", in subpar. (F), substituted "$10,000" for "$8,000", in subpar. (G), substituted "$9,000" for "$7,000", in subpar. (H), substituted "$8,000" for "$6,000", and in subpar. (I), substituted "$7,000" for "$5,000".
+Subsec. (a)(2)(C) to (I). Pub. L. 101–189, §702(a), in subpar. (C), substituted "$12,000" for "$10,000", in subpar. (D), substituted "$11,500" for "$9,500", in subpar. (E),substituted "$11,000" for "$9,000", in subpar. (F), substituted "$10,000" for "$8,000", in subpar. (G), substituted "$9,000" for "$7,000", in subpar. (H), substituted "$8,000" for "$6,000", and in subpar. (I), substituted "$7,000" for "$5,000".
 
 Subsec. (a)(3). Pub. L. 101–189, §702(f)(9), struck out "of this subsection" after "paragraph (1)".
 
@@ -216,7 +216,7 @@ Pub. L. 101–189, §702(f)(8), inserted heading.
 
 <b>1987</b>—Subsec. (b)(1). Pub. L. 100–180, §716(a)(1), (2), struck out "in an amount not to exceed $8,000" after "incentive special pay" and inserted at end "No payment to an officer under this subsection may exceed $8,000 for any twelve-month period unless the Secretary concerned determines that the officer is qualified and serving in a health profession skill which has been designated by the Secretary concerned as a critically needed wartime skill."
 
-Subsec. (b)(3). Pub. L. 100–180, §716(a)(3), struck out par. (3) which read as follows: "The amount that maybe paid for incentive special pay under this subsection in any fiscal year may not exceed an amount equal to 6 percent of the total amount paid in such year for special pay under subsection (a) of this section and paragraph (1) of this subsection."
+Subsec. (b)(3). Pub. L. 100–180, §716(a)(3), struck out par. (3) which read as follows: "The amount that may be paid for incentive special pay under this subsection in any fiscal year may not exceed an amount equal to 6 percent of the total amount paid in such year for special pay under subsection (a) of this section and paragraph (1) of this subsection."
 
 <b>1986</b>—Subsec. (h)(1)(B). Pub. L. 99–661, §1342(d), amended subpar. (B) generally, substituting "period of less than one year" for "period of not less than one year".
 

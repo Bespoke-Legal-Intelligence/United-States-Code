@@ -2,7 +2,7 @@
 
 #### (a) Application to certain described dwellings
 
-Subject to the provisions of subsection (b) and section 3607 of this title, the prohibitionsagainst discrimination in the sale or rental of housing set forth in section 3604 of this title shall apply:
+Subject to the provisions of subsection (b) and section 3607 of this title, the prohibitions against discrimination in the sale or rental of housing set forth in section 3604 of this title shall apply:
 
 (1) Upon enactment of this subchapter, to—
 

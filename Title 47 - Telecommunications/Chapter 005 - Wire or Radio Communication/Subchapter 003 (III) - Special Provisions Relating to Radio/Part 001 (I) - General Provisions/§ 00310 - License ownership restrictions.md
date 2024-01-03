@@ -12,7 +12,7 @@ No broadcast or common carrier or aeronautical en route or aeronautical fixed ra
 
 &emsp;(2) any corporation organized under the laws of any foreign government;
 
-&emsp;(3) any corporation of which more than one-fifth of the capital stock is owned of record or voted by aliens or their representatives or by a foreign government or representative thereof or by any corporation organized under the laws of a foreign country;
+&emsp;(3) any corporation of which more than one-fifth of the capital stock is owned of record orvoted by aliens or their representatives or by a foreign government or representative thereof or by any corporation organized under the laws of a foreign country;
 
 &emsp;(4) any corporation directly or indirectly controlled by any other corporation of which more than one-fourth of the capital stock is owned of record or voted by aliens, their representatives, or by a foreign government or representative thereof, or by any corporation organized under the laws of a foreign country, if the Commission finds that the public interest will be served by the refusal or revocation of such license.
 
@@ -58,7 +58,7 @@ Subsecs. (b) to (d). Pub. L. 93–505 added subsecs. (b) and (c) and redesignate
 
 <b>1971</b>—Subsec. (a). Pub. L. 92–81 inserted provisions empowering the Commission to issue licenses to certain aliens admitted to the United States for permanent residence, provided that the Commission notify the appropriate agencies of the Government of applications received for license, and that such agencies furnish to the Commission information bearing on the request's compatibility with national security.
 
-<b>1964</b>—Subsec. (a). Pub. L. 88–313 empowered the Commission to issue authorizations to permit an alien licensed by his government as an amateur radio operator to operate his station, licensed by his government, in the United States, its possessions, and Puerto Rico, provided there is a bilateral agreement between the United States and the alien's government giving similar rights to United States amateur radio operators, and provided that the Commission notify appropriate agencies of our Government of any applications for authorization, and that such agencies furnish to the Commission information bearing on the request's compatibility with our national security.
+<b>1964</b>—Subsec. (a). Pub. L. 88–313 empowered the Commission to issue authorizations to permit an alien licensed by his government as an amateur radio operator to operate his station, licensed by his government, in the United States, its possessions, and Puerto Rico, provided there is a bilateral agreement between the United States and the alien's government giving similar rights to United States amateur radio operators, and provided that the Commission notify appropriateagencies of our Government of any applications for authorization, and that such agencies furnish to the Commission information bearing on the request's compatibility with our national security.
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–817 inserted paragraph authorizing the grant of licenses for radio stations on aircraft to aliens or representatives of aliens holding pilot certificates.
 

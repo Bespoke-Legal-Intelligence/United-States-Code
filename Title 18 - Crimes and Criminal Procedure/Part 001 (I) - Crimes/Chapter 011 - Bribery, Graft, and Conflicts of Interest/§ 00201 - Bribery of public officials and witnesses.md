@@ -4,9 +4,35 @@
 
 &emsp;(1) the term "public official" means Member of Congress, Delegate, or Resident Commissioner, either before or after such official has qualified, or an officer or employee or person acting for or on behalf of the United States, or any department, agency or branch of Government thereof, including the District of Columbia, in any official function, under or by authority of any such department, agency, or branch of Government, or a juror;
 
-&emsp;(2) the term "person who has been selected to be a public official" means any person who has been nominated or appointed to be a public official, or has been officially informedthat such person will be so nominated or appointed; and
+&emsp;(2) the term "person who has been selected to be a public official" means any person who has been nominated or appointed to be a public official, or has been officially informed that such person will be so nominated or appointed;
 
-&emsp;(3) the term "official act" means any decision or action on any question, matter, cause, suit, proceeding or controversy, which may at any time be pending, or which may by law be brought before any public official, in such official's official capacity, or in such official's place of trust or profit.
+&emsp;(3) the term "official act" means any decision or action on any question, matter, cause, suit, proceeding or controversy, which may at any time be pending, or which may by law be brought before any public official, in such official's official capacity, or in such official's place of trust or profit;
+
+&emsp;(4) the term "foreign official" means—
+
+&emsp;&emsp;(A)(i) any official or employee of a foreign government or any department, agency, or instrumentality thereof; or
+
+&emsp;&emsp;(ii) any senior foreign political figure, as defined in section 1010.605 of title 31, Code of Federal Regulations, or any successor regulation;
+
+&emsp;&emsp;(B) any official or employee of a public international organization;
+
+&emsp;&emsp;(C) any person acting in an official capacity for or on behalf of—
+
+&emsp;&emsp;&emsp;(i) a government, department, agency, or instrumentality described in subparagraph (A)(i); or
+
+&emsp;&emsp;&emsp;(ii) a public international organization; or
+
+&emsp;&emsp;(D) any person acting in an unofficial capacity for or on behalf of—
+
+&emsp;&emsp;&emsp;(i) a government, department, agency, or instrumentality described in subparagraph (A)(i); or
+
+&emsp;&emsp;&emsp;(ii) a public international organization; and
+
+&emsp;(5) the term "public international organization" means—
+
+&emsp;&emsp;(A) an organization that is designated by Executive order pursuant to section 1 of the International Organizations Immunities Act (22 U.S.C. 288); or
+
+&emsp;&emsp;(B) any other international organization that is designated by the President by Executive order for the purposes of this section, effective as of the date of publication of such order in the Federal Register.
 
 (b) Whoever—
 
@@ -50,15 +76,65 @@
 
 (e) The offenses and penalties prescribed in this section are separate from and in addition to those prescribed in sections 1503, 1504, and 1505 of this title.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1119; amended Pub. L. 91–405, title II, §204(d)(1), Sept. 22, 1970, 84 Stat. 853; Pub. L. 99–646, §46(a)–(l), Nov. 10, 1986, 100 Stat. 3601–3604; Pub. L. 103–322, title XXXIII, §§330011(b), 330016(2)(D), Sept. 13, 1994, 108 Stat. 2144, 2148.)
+(f)
+
+Prohibition of Demand for a Bribe.—
+
+&emsp;(1)
+
+Offense.—It shall be unlawful for any foreign official or person selected to be a foreign official to corruptly demand, seek, receive, accept, or agree to receive or accept, directly or indirectly, anything of value personally or for any other person or nongovernmental entity, by making use of the mails or any means or instrumentality of interstate commerce, from any person (as defined in section 104A of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–3), except that that definition shall be applied without regard to whether the person is an offender) while in the territory of the United States, from an issuer (as defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))), or from a domestic concern (as defined in section 104 of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–2)), in return for—
+
+&emsp;&emsp;(A) being influenced in the performance of any official act;
+
+&emsp;&emsp;(B) being induced to do or omit to do any act in violation of the official duty of such foreign official or person; or
+
+&emsp;&emsp;(C) conferring any improper advantage,
+
+> &emsp;in connection with obtaining or retaining business for or with, or directing business to, any person.
+
+&emsp;(2)
+
+Penalties.—Any person who violates paragraph (1) shall be fined not more than $250,000 or 3 times the monetary equivalent of the thing of value, imprisoned for not more than 15 years, or both.
+
+&emsp;(3)
+
+Jurisdiction.—An offense under paragraph (1) shall be subject to extraterritorial Federal jurisdiction.
+
+&emsp;(4)
+
+Report.—Not later than 1 year after the date of enactment of the Foreign Extortion Prevention Act,<sup>1</sup> and annually thereafter, the Attorney General, in consultation with the Secretary of State as relevant, shall submit to the Committee on the Judiciary and the Committee on Foreign Relations of the Senate and the Committee on the Judiciary and the Committee on Foreign Affairs of the House of Representatives, and post on the publicly available website of the Department of Justice, a report—
+
+&emsp;&emsp;(A) focusing, in part, on demands by foreign officials for bribes from entities domiciled or incorporated in the United States, and the efforts of foreign governments to prosecute such cases;
+
+&emsp;&emsp;(B) addressing United States diplomatic efforts to protect entities domiciled or incorporated in the United States from foreign bribery, and the effectiveness of those efforts in protecting such entities;
+
+&emsp;&emsp;(C) summarizing major actions taken under this section in the previous year, including enforcement actions taken and penalties imposed;
+
+&emsp;&emsp;(D) evaluating the effectiveness of the Department of Justice in enforcing this section; and
+
+&emsp;&emsp;(E) detailing what resources or legislative action the Department of Justice needs to ensure adequate enforcement of this section.
+
+&emsp;(5)
+
+Rule of construction.—This subsection shall not be construed as encompassing conduct that would violate section 30A of the Securities Exchange Act of 1934 (15 U.S.C. 78dd–1) or section 104 or 104A of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–2; 15 U.S.C. 78dd–3) whether pursuant to a theory of direct liability, conspiracy, complicity, or otherwise.
+
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1119; amended Pub. L. 91–405, title II, §204(d)(1), Sept. 22, 1970, 84 Stat. 853; Pub. L. 99–646,§46(a)–(l), Nov. 10, 1986, 100 Stat. 3601–3604; Pub. L. 103–322, title XXXIII, §§330011(b), 330016(2)(D), Sept. 13, 1994, 108 Stat. 2144, 2148; Pub. L. 118–31, div. E, title LI, §5101, Dec. 22, 2023, 137 Stat. 931.)
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+The date of enactment of the Foreign Extortion Prevention Act, referred to in subsec. (f)(4), probably means the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023. Prior versions of the bill that was enacted into law as section 5101 of Pub. L. 118–31 included such Short Title, but it was not enacted as part of Pub. L. 118–31.
 
 #### Prior Provisions
 
 A prior section 201, act June 25, 1948, ch. 645, 62 Stat. 691, prescribed penalties for anyone who offered or gave anything of value to an officer or other person to influence his decisions, prior to the general amendment of this chapter by Pub. L. 87–849, and is substantially covered by revised section 201.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(4), (5). Pub. L. 118–31, §5101(1), added pars. (4) and (5).
+
+Subsec. (f). Pub. L. 118–31, §5101(2), added subsec. (f).
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–322, §330016(2)(D), which directed the amendment of "section 201" by inserting "under this title or" after "be fined" and "whichever is greater," before "or imprisoned", was executed by making the insertions in text of last par. of subsec. (b), and not in last par. of subsec. (c), to reflect the probable intent of Congress.
 
@@ -118,7 +194,7 @@ Pub. L. 87–849, §4, Oct. 23, 1962, 76 Stat. 1126, provided that: "This Act \[
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–198, §1, Dec. 19, 2003, 117 Stat. 2899, provided that: "This Act \[enacting sections 212 and 213 ofthis title and repealing former sections 212 and 213 of this title\] may be cited as the 'Preserving Independence of Financial Institution Examinations Act of 2003'."
+Pub. L. 108–198, §1, Dec. 19, 2003, 117 Stat. 2899, provided that: "This Act \[enacting sections 212 and 213 of this title and repealing former sections 212 and 213 of this title\] may be cited as the 'Preserving Independence of Financial Institution Examinations Act of 2003'."
 
 #### Short Title of 1996 Amendment
 
@@ -164,7 +240,7 @@ In the main the prior conflict of interest laws imposed the same restrictions on
 
 In considering the application of present law in relation to the Government's utilization of temporary or intermittent consultants and advisers, it must be emphasized that most of the existing conflict-of-interest statutes were enacted in the 19th century—that is, at a time when persons outside the Government rarely served it in this way. The laws were therefore directed at activities of regular Government employees, and their present impact on the occasionally needed experts—those whose main work is performed outside the Government—is unduly severe. This harsh impact constitutes an appreciable deterrent to the Government's obtaining needed part-time services.
 
-The recruiting problem noted by the Committee generated a major part of the impetus for the enactment of Public Law 87–849. The Act dealt with the problem by creating a category of Government employees termed "special Government employees" and by excepting persons in this category from certain of the prohibitions imposed on ordinary employees. The new 18 U.S.C. 202(a) defines the term "special Government employee" to include, among others, officers and employees of the departments and agencies who are appointed or employed to serve, with or without compensation, for not more than 130 days during any period of 365 consecutive days either on a full-time or intermittent basis.
+The recruiting problem noted by the Committee generated a major part of the impetus for the enactment of Public Law 87–849. The Act dealt with the problem by creating a category of Government employees termed "special Government employees" and by excepting persons in this category from certain of theprohibitions imposed on ordinary employees. The new 18 U.S.C. 202(a) defines the term "special Government employee" to include, among others, officers and employees of the departments and agencies who are appointed or employed to serve, with or without compensation, for not more than 130 days during any period of 365 consecutive days either on a full-time or intermittent basis.
 
 #### Summary of the Main Conflict of Interest Provisions of Public Law 87–849
 
@@ -172,7 +248,7 @@ A regular officer or employee of the Government—that is, one appointed or empl
 
 1\. He may not, except in the discharge of his official duties, represent anyone else before a court or Government agency in a matter in which the United States is a party or has an interest. This prohibition applies both to paid and unpaid representation of another (18 U.S.C. 203 and 205).
 
-2\. He may not participate in his governmental capacity in any matter in which he, his spouse, minor child,outside business associate or person with whom he is negotiating for employment has a financial interest (18 U.S.C. 208).
+2\. He may not participate in his governmental capacity in any matter in which he, his spouse, minor child, outside business associate or person with whom he is negotiating for employment has a financial interest (18 U.S.C. 208).
 
 3\. He may not, after his Government employment has ended, represent anyone other than the United States in connection with a matter in which the United States is a party or has an interest and in which he participated personally and substantially for the Government (18 U.S.C. 207(a)).
 
@@ -248,11 +324,11 @@ Subsection (a) bars permanently a greater variety of actions than subsection (b)
 
 Comparing subsection (a) with the antecedent 18 U.S.C. 284 discloses that it follows the latter in limiting disqualification to cases where a former officer or employee actually participated in a matter for the Government. However, subsection (a) covers all matters in which the United States is a party or has a direct and substantial interest and not merely the "claims against the United States" covered by 18 U.S.C. 284. Subsection (a) also goes further than the latter in imposing a lifetime instead of a 2-year bar. Subsection (b) has no parallel in 18 U.S.C. 284 or any other provision of the former conflict of interest statutes.
 
-It will be seen that subsections (a) and (b) in combination are less restrictive in some respects, and more restrictive in others, than the combination of the prior 18 U.S.C. 284 and 5 U.S.C. 99. Thus, former officers or employees who were outside the Government when the Act came into force on January 21, 1963, will in certain situations be enabled to carry on activities before the Government which were previously barred. For example, the repeal of 5 U.S.C. 99 permits an attorney who left an executive department for private practice a year before to take certain cases against the Government immediately which would be subject to the bar of 5 U.S.C. 99 for another year. On the other hand, former officers or employees became precluded on and after January 21, 1963 from engaging or continuing to engage in certain activities which were permissible until that date. This result follows from the replacement of the 2-year bar of 18 U.S.C. 284 with a lifetime bar of subsection (a) in comparable situations, from the increase in the variety of matters covered by subsection (a) as compared with 18 U.S.C. 284 and from the introduction of the 1-year bar of subsection (b).
+It will be seen that subsections (a) and (b) in combination are less restrictive in some respects, and more restrictive in others, than the combination of the prior 18 U.S.C. 284 and 5 U.S.C. 99. Thus, former officers or employees who were outside the Government when the Act came into force on January 21, 1963, will in certain situations be enabled to carry on activities before the Government which were previously barred. For example, the repeal of 5 U.S.C. 99 permits an attorney who left an executive department for private practice a year before to take certain cases against the Government immediately which would be subject to the bar of 5 U.S.C. 99 for another year. On the other hand, former officers or employees became precluded on and after January 21, 1963 from engaging or continuing to engagein certain activities which were permissible until that date. This result follows from the replacement of the 2-year bar of 18 U.S.C. 284 with a lifetime bar of subsection (a) in comparable situations, from the increase in the variety of matters covered by subsection (a) as compared with 18 U.S.C. 284 and from the introduction of the 1-year bar of subsection (b).
 
 Subsection (c) of section 207 pertains to an individual outside the Government who is in a business or professional partnership with someone serving in the executive branch, an independent agency or the District of Columbia. The subsection prevents such individual from acting as attorney or agent for anyone other than the United States in any matter, including those in court, in which his partner in the Government is participating or has participated or which are the subject of his partner's official responsibility. Although included in a section dealing largely with post-employment activities, this provision is not directed to the postemployment situation.
 
-The paragraph at the end of section 207 also pertains to individuals in a partnership but sets forth no prohibition. This paragraph, which is of importance mainlyto lawyers in private practice, rules out the possibility that an individual will be deemed subject to section 203, 205, 207(a) or 207(b) solely because he has a partner who serves or has served in the Government either as a regular or a special Government employee.
+The paragraph at the end of section 207 also pertains to individuals in a partnership but sets forth no prohibition. This paragraph, which is of importance mainly to lawyers in private practice, rules out the possibility that an individual will be deemed subject to section 203, 205, 207(a) or 207(b) solely because he has a partner who serves or has served in the Government either as a regular or a special Government employee.
 
 <i>New 18 U.S.C. 208</i>. This section forbids certain actions by an officer or employee of the Government in his role as a servant or representative of the Government. Its thrust is therefore to be distinguished from that of sections 203 and 205 which forbid certain actions in his capacity as a representative of persons outside the Government.
 
@@ -316,7 +392,7 @@ Set forth below are the citations to the legislative history of Public Law 87–
 
 3\. 42 Op. A.G. No. 6, January 31, 1962.
 
-4\. Memorandum of December 10, 1956 for the Attorney General from the Office of Legal Counsel re conflict ofinterest statutes, Hearings before the Antitrust Subcommittee (Subcommittee No. 5) of House Judiciary Committee, 86th Cong., 2d sess., ser. 17, pt. 2, p. 619.
+4\. Memorandum of December 10, 1956 for the Attorney General from the Office of Legal Counsel re conflict of interest statutes, Hearings before the Antitrust Subcommittee (Subcommittee No. 5) of House Judiciary Committee, 86th Cong., 2d sess., ser. 17, pt. 2, p. 619.
 
 5\. Staff report of Antitrust Subcommittee (Subcommittee No. 5) of House Judiciary Committee, 85th Cong., 2d sess., <i>Federal Conflict of Interest Legislation</i> (Comm. Print 1958).
 
@@ -341,4 +417,6 @@ Set forth below are the citations to the legislative history of Public Law 87–
 <sup>7</sup> Neither section 203 nor section 205 prevents a special Government employee, during his period of affiliation with the Government, from representing another person before the Government in a particular matter only because it is within his official responsibility. Therefore the inclusion of a <i>former</i> special Government employee within the 1-year postemployment ban of subsection (b) may subject him to a temporary restraint from which he was free prior to the end of his Government service. However, since special Government employees usually do not have "official responsibility," as that term is defined in section 202(b), their inclusion within the 1-year ban will not have a widespread effect.
 
 <sup>8</sup> Subsection (a), as it first appeared in H.R. 8140, the bill which became Public Law 87–849, made it unlawful for a former officer or employee to act as agent or attorney for, <i>or aid or assist</i>, anyone in a matter in which he had participated. The House Judiciary Committee struck the underlined words, and the bill became law without them. It should be noted also that the repealed provisions of 18 U.S.C. 283 made the distinction between one's acting as agent or attorney for another and his aiding or assisting another.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

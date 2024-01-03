@@ -14,7 +14,7 @@ Except as provided in subsection (b), this subchapter applies to any plan (inclu
 
 > &emsp;which has, in practice, met the requirements of part I of subchapter D of chapter 1 of title 26 (as in effect for the preceding 5 plan years of the plan) applicable to the plans described in paragraph (2) for the preceding 5 plan years; or
 
-&emsp;(2) is, or has been determined by the Secretary of the Treasury to be, a plan described in section 401(a) of title 26, or which meets, or has been determined by the Secretary of the Treasury to meet, the requirements of section 404(a)(2) of title 26.
+&emsp;(2) is, or has been determined by the Secretary of the Treasury to be, a plan described in section 401(a) of title 26, or which meets, or has been determined by the Secretary of theTreasury to meet, the requirements of section 404(a)(2) of title 26.
 
 > For purposes of this subchapter, a successor plan is considered to be a continuation of a predecessor plan. For this purpose, unless otherwise specifically indicated in this subchapter, a successor plan is a plan which covers a group of employees which includes substantially the same employees as a previously established plan, and provides substantially the same benefits as that plan provided.
 
@@ -74,7 +74,7 @@ For purposes of subsection (b)(9), the term "substantial owner" means an individ
 
 > For purposes of paragraph (3), the constructive ownership rules of section 1563(e) of title 26 (other than paragraph (3)(C) thereof) shall apply, including the application of such rules under section 414(c) of title 26.
 
-(Pub. L. 93–406, title IV, §4021, Sept. 2, 1974, 88 Stat. 1014; Pub. L. 96–364, title IV, §402(a)(4), Sept. 26, 1980, 94 Stat. 1298; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(g)(3)(A), Dec. 19, 1989, 103 Stat. 2445, 2451; Pub. L. 109–280, title IV, §407(c)(1), title IX, §906(a)(2)(B), (b)(2), Aug. 17, 2006, 120 Stat. 930, 1051, 1052; Pub. L. 110–458, title I, §109(d)(2), Dec. 23, 2008, 122 Stat. 5112.)
+(Pub. L. 93–406, title IV, §4021, Sept. 2, 1974, 88 Stat. 1014; Pub. L. 96–364, title IV, §402(a)(4),Sept. 26, 1980, 94 Stat. 1298; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(g)(3)(A), Dec. 19, 1989, 103 Stat. 2445, 2451; Pub. L. 109–280, title IV, §407(c)(1), title IX, §906(a)(2)(B), (b)(2), Aug. 17, 2006, 120 Stat. 930, 1051, 1052; Pub. L. 110–458, title I, §109(d)(2), Dec. 23, 2008, 122 Stat. 5112.)
 
 #### <b>Editorial Notes</b>
 

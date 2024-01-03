@@ -40,9 +40,9 @@ No employer shall be deemed to have violated subsection (a) by employing any emp
 
 As used in this section the "regular rate" at which an employee is employed shall be deemed to include all remuneration for employment paid to, or on behalf of, the employee, but shall not be deemed to include—
 
-&emsp;(1) sums paid as gifts; payments in the nature of gifts made at Christmas time or onother special occasions, as a reward for service, the amounts of which are not measured by or dependent on hours worked, production, or efficiency;
+&emsp;(1) sums paid as gifts; payments in the nature of gifts made at Christmas time or on other special occasions, as a reward for service, the amounts of which are not measured by or dependent on hours worked, production, or efficiency;
 
-&emsp;(2) payments made for occasional periods when no work is performed due to vacation, holiday, illness, failure of the employer to provide sufficient work, or other similar cause; reasonable payments for traveling expenses, or other expenses, incurred by an employee in the furtherance of his employer's interests and properly reimbursable by the employer; and other similar payments to an employee which are not made as compensation for his hours of employment;
+&emsp;(2) payments made for occasional periods when no work is performed due to vacation, holiday, illness, failure of the employer to provide sufficient work, or other similar cause; reasonable payments for traveling expenses, or other expenses, incurred by an employee in the furtherance of his employer's interests and properly reimbursable by the employer; andother similar payments to an employee which are not made as compensation for his hours of employment;
 
 &emsp;(3) Sums <sup>1</sup> paid in recognition of services performed during a given period if either, (a) both the fact that payment is to be made and the amount of the payment are determined at the sole discretion of the employer at or near the end of the period and not pursuant to any prior contract, agreement, or promise causing the employee to expect such payments regularly; or (b) the payments are made pursuant to a bona fide profit-sharing plan or trust or bona fide thrift or savings plan, meeting the requirements of the Administrator set forth in appropriate regulations which he shall issue, having due regard among other relevant factors, to the extent to which the amounts paid to the employee are determined without regard to hours of work, production, or efficiency; or (c) the payments are talent fees (as such talent fees are defined and delimited by regulations of the Administrator) paid to performers, including announcers, on radio and television programs;
 
@@ -70,7 +70,7 @@ As used in this section the "regular rate" at which an employee is employed shal
 
 #### (f) Employment necessitating irregular hours of work
 
-No employer shall be deemed to have violated subsection (a) by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of payfor not more than sixty hours based on the rates so specified.
+No employer shall be deemed to have violated subsection (a) by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
 
 #### (g) Employment at piece rates
 
@@ -120,7 +120,7 @@ For a period or periods of not more than fourteen workweeks in the aggregate in 
 
 &emsp;&emsp;(A) to provide services (including stripping and grading) necessary and incidental to the sale at auction of green leaf tobacco of type 11, 12, 13, 14, 21, 22, 23, 24, 31, 35, 36, or 37 (as such types are defined by the Secretary of Agriculture), or in auction sale, buying, handling, stemming, redrying, packing, and storing of such tobacco,
 
-&emsp;&emsp;(B) in auction sale, buying, handling, sorting, grading, packing, or storing green leaf tobacco of type 32 (as such type is defined by the Secretary of Agriculture), or
+&emsp;&emsp;(B) in auction sale, buying, handling, sorting, grading, packing, or storing green leaftobacco of type 32 (as such type is defined by the Secretary of Agriculture), or
 
 &emsp;&emsp;(C) in auction sale, buying, handling, stripping, sorting, grading, sizing, packing, or stemming prior to packing, of perishable cigar leaf tobacco of type 41, 42, 43, 44, 45, 46, 51, 52, 53, 54, 55, 61, or 62 (as such types are defined by the Secretary of Agriculture); and
 
@@ -226,7 +226,7 @@ Any employer may employ any employee for a period or periods of not more than 10
 
 The Fair Labor Standards Amendments of 1966, referred to in subsec. (a)(2), is Pub. L. 89–601, Sept. 23, 1966, 80 Stat. 830. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 201 of this title and Tables.
 
-The effective date of the Fair Labor Standards Amendments of 1966, referred to in subsec. (a)(2)(A), means the effective date of Pub. L. 89–601, which is Feb. 1, 1967 except as otherwise provided, see section 602 ofPub. L. 89–601, set out as an Effective Date of 1966 Amendment note under section 203 of this title.
+The effective date of the Fair Labor Standards Amendments of 1966, referred to in subsec. (a)(2)(A), means the effective date of Pub. L. 89–601, which is Feb. 1, 1967 except as otherwise provided, see section 602 of Pub. L. 89–601, set out as an Effective Date of 1966 Amendment note under section 203 of this title.
 
 Section 6(c)(3) of the Fair Labor Standards Amendments of 1974, referred to in subsec. (k)(1), is Pub. L. 93–259, §6(c)(3), Apr. 8, 1974, 88 Stat. 61, which is set out as a note under section 213 of this title.
 
@@ -290,7 +290,7 @@ Subsec. (b)(2). Pub. L. 87–30, §6(b), substituted "in excess of the maximum w
 
 Subsec. (d)(5), (7). Pub. L. 87–30, §6(c), (d), substituted "in excess of the maximum workweek applicable to such employee under subsection (a)" for "forty in a workweek" in par. (5) and "the maximum workweek applicable to such employee under subsection (a)" for "forty hours" in par. (7).
 
-Subsec. (e). Pub. L. 87–30, §6(e), substituted "the maximum workweek applicable to such employee under subsection (a)", "subsection (a) or (b) of section 206 of this title (whichever may be applicable" and "suchmaximum" for "forty hours", "section 206(a) of this title" and "forty in any", respectively.
+Subsec. (e). Pub. L. 87–30, §6(e), substituted "the maximum workweek applicable to such employee under subsection (a)", "subsection (a) or (b) of section 206 of this title (whichever may be applicable" and "such maximum" for "forty hours", "section 206(a) of this title" and "forty in any", respectively.
 
 Subsec. (f). Pub. L. 87–30, §6(f), substituted "the maximum workweek applicable to such employee under subsection" for "forty hours" in two places.
 
@@ -300,7 +300,7 @@ Subsec. (h). Pub. L. 87–30, §6(g), added subsec. (h).
 
 Subsec. (b)(1). Act Oct. 26, 1949, increased employment period limitation from one thousand hours to one thousand and forty hours in semi-annual agreements.
 
-Subsec. (b)(2). Act Oct. 26, 1949, increased employment period limitation from two thousand and eighty hours to two thousand two hundred and forty hours in annual agreements, fixed minimum and maximum guaranteed employment periods, and provided for overtime rate for hours worked in excess of the guaranty.
+Subsec. (b)(2). Act Oct. 26, 1949, increased employment period limitation from two thousand and eightyhours to two thousand two hundred and forty hours in annual agreements, fixed minimum and maximum guaranteed employment periods, and provided for overtime rate for hours worked in excess of the guaranty.
 
 Subsec. (c). Act Oct. 26, 1949, added buttermilk to commodities listed for first processing.
 
@@ -400,11 +400,11 @@ Covered Employee Defined.—In this section, the term 'covered employee' means a
 
 #### Liability of Employers
 
-Pub. L. 106–202, §2(d), May 18, 2000, 114 Stat. 309, provided that: "No employer shall be liable under the FairLabor Standards Act of 1938 \[29 U.S.C. 201 et seq.\] for any failure to include in an employee's regular rate (as defined for purposes of such Act) any income or value derived from employer-provided grants or rights obtained pursuant to any stock option, stock appreciation right, or employee stock purchase program if—
+Pub. L. 106–202, §2(d), May 18, 2000, 114 Stat. 309, provided that: "No employer shall be liable under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\] for any failure to include in an employee's regular rate (as defined for purposes of such Act) any income or value derived from employer-provided grants or rights obtained pursuant to any stock option, stock appreciation right, or employee stock purchase program if—
 
 &emsp;"(1) the grants or rights were obtained before the effective date described in subsection (c) \[set out as an Effective Date of 2000 Amendment note above\];
 
-&emsp;"(2) the grants or rights were obtained within the 12-month period beginning on the effective date described in subsection (c), so long as such program was in existence on the date of enactment of this Act \[May 18, 2000\] and will require shareholder approval to modify such program to comply with section 7(e)(8) of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207(e)(8)\] (as added by the amendments made by subsection (a)); or
+&emsp;"(2) the grants or rights were obtained within the 12-month period beginning on the effective date described in subsection (c), so long as such program wasin existence on the date of enactment of this Act \[May 18, 2000\] and will require shareholder approval to modify such program to comply with section 7(e)(8) of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207(e)(8)\] (as added by the amendments made by subsection (a)); or
 
 &emsp;"(3) such program is provided under a collective bargaining agreement that is in effect on the effective date described in subsection (c)."
 

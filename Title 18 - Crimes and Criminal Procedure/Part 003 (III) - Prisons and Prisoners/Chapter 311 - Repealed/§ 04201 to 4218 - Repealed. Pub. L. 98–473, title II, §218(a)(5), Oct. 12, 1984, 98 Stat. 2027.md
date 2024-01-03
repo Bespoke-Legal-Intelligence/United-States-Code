@@ -2,9 +2,39 @@
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
-#### Effective Date of Repeal; Chapter To Remain in Effect for Twenty-Six Years After Nov. 1, 1987
+#### Effective Date of Repeal; Chapter To Remain in Effect After November 1, 1987
 
-Pub. L. 98–473, title II, §235(a)(1), Oct. 12, 1984, 98 Stat. 2031, set out as an Effective Date note under section 3551 of this title, provided that the repeal of this chapter is effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal. Pub. L. 98–473, title II, §235(b)(1)(A), Oct. 12, 1984, 98 Stat. 2032, provided that the provisions of this chapter in effect before Nov. 1, 1987, shall remain in effect for five years after Nov. 1, 1987, as to an individual who committed an offense or an act of juvenile delinquency before Nov. 1, 1987, and as to a term of imprisonment during the period described in section 235(a)(1)(B) of Pub. L. 98–473. Pub. L. 101–650, title III, §316, Dec. 1, 1990, 104 Stat. 5115, extended the period that this chapter remains in effect after Nov. 1, 1987, from five years to ten years. Pub. L. 104–232, §2(a), Oct. 2, 1996, 110 Stat. 3055, extended the period that this chapter remains in effect after Nov. 1, 1987, from ten years to fifteen years. Pub. L. 107–273, div. C, title I, §11017(a), Nov. 2, 2002, 116 Stat. 1824, extended the period that this chapter remains in effect after Nov. 1, 1987, from fifteen years to eighteen years. Pub. L. 109–76, §2, Sept. 29, 2005, 119 Stat. 2035, extended the period that this chapter remains in effect after Nov. 1, 1987, from eighteen years to twenty-one years. Pub. L. 110–312, §2, Aug. 12, 2008, 122 Stat. 3013, extended the period that this chapter remains in effect after Nov. 1, 1987, from twenty-one years to twenty-four years. Pub. L. 112–44, §2, Oct. 21, 2011, 125 Stat. 532, extended the period that this chapter remains in effect after Nov. 1, 1987, from twenty-four years to twenty-six years. The provisions of this chapter as in effect prior to repeal, and as amended subsequent to repeal, read as follows:
+Pub. L. 98–473, title II, §235(a)(1), Oct. 12, 1984, 98 Stat. 2031, set out in an Effective Date; Savings Provision note under section 3551 of this title, provided that the repeal of this chapter is effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal. Pub. L. 98–473, title II, §235(b)(1)(A), Oct. 12, 1984, 98 Stat. 2032, provided that the provisions of this chapter in effect before Nov. 1, 1987, would remain in effect for 5 years after Nov. 1, 1987, as to an individual who committed an offense or an act of juvenile delinquency before Nov. 1, 1987, and as to a term of imprisonment during the period described in section 235(a)(1)(B) of Pub. L. 98–473.
+
+Provisions further extending the period that this chapter would remain in effect after Nov. 1, 1987, were contained in the following:
+
+Pub. L. 118–15, div. A, §123, Sept. 30, 2023, 137 Stat. 78, as amended by Pub. L. 118–22, div. A, §101(5), Nov. 17, 2023, 137 Stat. 113, extended the period from 36 years to 36 years and 94 days.
+
+Pub. L. 117–328, div. O, title VIII, §801(b), Dec. 29, 2022, 136 Stat. 5232, extended the period from 35 years and 46 days to 36 years.
+
+Pub. L. 117–180, div. C, title I, §103(b), Sept. 30, 2022, 136 Stat. 2133, extended the period from 35 years to 35 years and 46 days.
+
+Pub. L. 116–159, div. D, title II, §4202, Oct. 1, 2020, 134 Stat. 741, extended the period from 33 years to 35 years.
+
+Pub. L. 115–274, §2, Oct. 31, 2018, 132 Stat. 4160, extended the period from 31 years to 33 years.
+
+Pub. L. 113–47, §2, Oct. 31, 2013, 127 Stat. 572, extended the period from 26 years to 31 years.
+
+Pub. L. 112–44, §2, Oct. 21, 2011, 125 Stat. 532, extended the period from 24 years to 26 years.
+
+Pub. L. 110–312, §2, Aug. 12, 2008, 122 Stat. 3013, extended the period from 21 years to 24 years.
+
+Pub. L. 109–76, §2, Sept. 29, 2005, 119 Stat. 2035, extended the period from 18 years to 21 years.
+
+Pub. L. 107–273, div. C, title I, §11017(a), Nov. 2, 2002, 116 Stat. 1824, extended the period from 15 years to 18 years.
+
+Pub. L. 104–232, §2(a), Oct. 2, 1996, 110 Stat. 3055, extended the period from 10 years to 15 years.
+
+Pub. L. 101–650, title III, §316, Dec. 1, 1990, 104 Stat. 5115, extended the period from 5 years to 10 years.
+
+#### Text of Chapter in Effect Prior to Repeal
+
+The provisions of this chapter as in effect prior to repeal, and as amended subsequent to repeal, read as follows:
 
 #### §4201. Definitions
 
@@ -110,7 +140,7 @@ Pub. L. 98–473, title II, §235(b)(2), Oct. 12, 1984, 98 Stat. 2032, which pro
 
 &emsp;(3) modify or revoke an order paroling any eligible prisoner; and
 
-&emsp;(4) request probation officers and other individuals, organizations, and public or private agencies to perform such duties with respect to any parolee as the Commission deems necessary for maintaining proper supervision of and assistance to such parolees; and so as to assure that no probation officers, individuals, organizations, or agencies shall bear excessive caseloads.
+&emsp;(4) request probation officers and other individuals, organizations, and public or private agencies to perform such duties with respect to any parolee as the Commission deems necessary for maintaining proper supervision of and assistance to such parolees; and so as to assure that no probation officers, individuals,organizations, or agencies shall bear excessive caseloads.
 
 (c) The Commission, by majority vote, and pursuant to rules and regulations—
 
@@ -122,7 +152,7 @@ Pub. L. 98–473, title II, §235(b)(2), Oct. 12, 1984, 98 Stat. 2032, which pro
 
 &emsp;(4) may review, or may delegate to the National Appeals Board the power to review, any decision made pursuant to subparagraph (1) of this subsection except that any such decision so reviewed must be reaffirmed, modified or reversed within thirty days of the date the decision is rendered, and, in case of such review, the individual to whom the decision applies shall be informed in writing of the Commission's actions with respect thereto and the reasons for such actions.
 
-(d) Except as otherwise provided by law, any action taken by the Commission pursuant to subsection (a) ofthis section shall be taken by a majority vote of all individuals currently holding office as members of the Commission which shall maintain and make available for public inspection a record of the final vote of each member on statements of policy and interpretations adopted by it. In so acting, each Commissioner shall have equal responsibility and authority, shall have full access to all information relating to the performance of such duties and responsibilities, and shall have one vote.
+(d) Except as otherwise provided by law, any action taken by the Commission pursuant to subsection (a) of this section shall be taken by a majority vote of all individuals currently holding office as members of the Commission which shall maintain and make available for public inspection a record of the final vote of each member on statements of policy and interpretations adopted by it. In so acting, each Commissioner shall have equal responsibility and authority, shall have full access to all information relating to the performance of such duties and responsibilities, and shall have one vote.
 
 (e)(1) The Commission shall, upon the request of the head of any law enforcement agency of a State or of a unit of local government in a State, make available as expeditiously as possible to such agency, with respect to individuals who are under the jurisdiction of the Commission, who have been convicted of felony offenses against the United States, and who reside, are employed, or are supervised in the geographical area in which such agency has jurisdiction, the following information maintained by the Commission (to the extent that the Commission maintains such information)—
 
@@ -198,7 +228,7 @@ Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a) Whenever confined and serving a definite term or terms of more than one year, a prisoner shall be eligible for release on parole after serving one-third of such term or terms or after serving ten years of a life sentence or of a sentence of over thirty years, except to the extent otherwise provided by law.
 
-(b) Upon entering a judgment of conviction, the court having jurisdiction to impose sentence, when in its opinion the ends of justice and best interest of the public require that the defendant be sentenced to imprisonment for a term exceeding one year, may (1) designate in the sentence of imprisonment imposed a minimum term at the expiration of which the prisoner shall become eligible for parole, which term may be less than but shall not be more than one-third of themaximum sentence imposed by the court, or (2) the court may fix the maximum sentence of imprisonment to be served in which event the court may specify that the prisoner may be released on parole at such time as the Commission may determine.
+(b) Upon entering a judgment of conviction, the court having jurisdiction to impose sentence, when in its opinion the ends of justice and best interest of the public require that the defendant be sentenced to imprisonment for a term exceeding one year, may (1) designate in the sentence of imprisonment imposed a minimum term at the expiration of which the prisoner shall become eligible for parole, which term may be less than but shall not be more than one-third of the maximum sentence imposed by the court, or (2) the court may fix the maximum sentence of imprisonment to be served in which event the court may specify that the prisoner may be released on parole at such time as the Commission may determine.
 
 (c) If the court desires more detailed information as a basis for determining the sentence to be imposed, the court may commit the defendant to the custody of the Attorney General, which commitment shall be deemed to be for the maximum sentence of imprisonment prescribed by law, for a study as described in subsection (d) of this section. The results of such study, together with any recommendations which the Director of the Bureau of Prisons believes would be helpful in determining the disposition of the case, shall be furnished to the court within three months unless the court grants time, not to exceed an additional three months, for further study. After receiving such reports and recommendations, the court may in its discretion: (1) place the offender on probation as authorized by section 3651; or (2) affirm the sentence of imprisonment originally imposed, or reduce the sentence of imprisonment, and commit the offender under any applicable provision of law. The term of the sentence shall run from the date of original commitment under this section.
 
@@ -356,7 +386,7 @@ Amendment by section 7303(c)(1), (2) of Pub. L. 100–690 applicable with respec
 
 (b) Two years after each parolee's release on parole, and at least annually thereafter, the Commission shall review the status of the parolee to determine the need for continued supervision. In calculating such two-year period there shall not be included any period of release on parole prior to the most recent such release, nor any period served in confinement on any other sentence.
 
-(c)(1) Five years after each parolee's release on parole, the Commission shall terminate supervision over such parolee unless it is determined, after a hearing conducted in accordance with the procedures prescribed in section 4214(a)(2), that such supervision should not be terminated because there is a likelihood that the parolee will engaged in conduct violating any criminal law.
+(c)(1) Five years after each parolee's release on parole, the Commission shall terminate supervision oversuch parolee unless it is determined, after a hearing conducted in accordance with the procedures prescribed in section 4214(a)(2), that such supervision should not be terminated because there is a likelihood that the parolee will engaged in conduct violating any criminal law.
 
 (2) If supervision is not terminated under subparagraph (1) of this subsection the parolee may request a hearing annually thereafter, and a hearing, with procedures as provided in subparagraph (1) of this subsection shall be conducted with respect to such termination of supervision not less frequently than biennially.
 
@@ -424,7 +454,7 @@ Such prisoner when his parole becomes effective, shall be delivered to the duly 
 
 (b)(1) Conviction for any criminal offense committed subsequent to release on parole shall constitute probable cause for purposes of subsection (a) of this section. In cases in which a parolee has been convicted of such an offense and is serving a new sentence in an institution, a parole revocation warrant or summons issued pursuant to section 4213 may be placed against him as a detainer. Such detainer shall be reviewed by the Commission within one hundred and eighty days of notification to the Commission of placement. The parolee shall receive notice of the pending review, have an opportunity to submit a written application containing information relative to the disposition of the detainer, and, unless waived, shall have counsel as provided in subsection (a)(2)(B) of this section to assist him in the preparation of such application.
 
-(2) If the Commission determines that additional information is needed to review a detainer, a dispositional hearing may be held at the institution where the parolee is confined. The parolee shall have notice of such hearing, be allowed to appear and testify on his own behalf, and, unless waived, shall have counsel as provided in subsection (a)(2)(B) of this section.
+(2) If the Commission determines that additional information is needed to review a detainer, a dispositional hearing may be held at the institution where the parolee is confined. The parolee shall have notice of such hearing, be allowed to appear and testifyon his own behalf, and, unless waived, shall have counsel as provided in subsection (a)(2)(B) of this section.
 
 (3) Following the disposition review, the Commission may:
 

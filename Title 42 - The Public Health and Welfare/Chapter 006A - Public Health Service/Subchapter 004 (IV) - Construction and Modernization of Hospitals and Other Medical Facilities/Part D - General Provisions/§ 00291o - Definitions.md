@@ -6,7 +6,7 @@ For the purposes of this subchapter—
 
 (b)(1) The term "Federal share" with respect to any project means the proportion of the cost of such project to be paid by the Federal Government under this subchapter.
 
-(2) With respect to any project in any State for which a grant is made from an allotment from an appropriation under section 291a of this title, the Federal share shall be the amount determined by the State agency designated in accordance with section 291d of this title, but not more than 662/3 per centum or the State's allotment percentage, whichever is the lower, except that,if the State's allotment percentage is lower than 50 per centum, such allotment percentage shall be deemed to be 50 per centum for purposes of this paragraph.
+(2) With respect to any project in any State for which a grant is made from an allotment from an appropriation under section 291a of this title, the Federal share shall be the amount determined by the State agency designated in accordance with section 291d of this title, but not more than 662/3 per centum or the State's allotment percentage, whichever is the lower, except that, if the State's allotment percentage is lower than 50 per centum, such allotment percentage shall be deemed to be 50 per centum for purposes of this paragraph.
 
 (3) Prior to the approval of the first project in a State during any fiscal year the State agency designated in accordance with section 291d of this title shall give the Secretary written notification of the maximum Federal share established pursuant to paragraph (2) of this subsection for projects in such State to be approved by the Secretary during such fiscal year and the method for determining the actual Federal share to be paid with respect to such projects; and such maximum Federal share and such method of determination for projects in such State approved during such fiscal year shall not be changed after such approval.
 
@@ -50,7 +50,7 @@ For the purposes of this subchapter—
 
 (k) The term "modernization" includes alteration, major repair (to the extent permitted by regulations), remodeling, replacement, and renovation of existing buildings (including initial equipment thereof), and replacement of obsolete, built-in (as determined in accordance with regulations) equipment of existing buildings.
 
-(l) The term "title", when used with reference to a site for a project, means a fee simple, orsuch other estate or interest (including a leasehold on which the rental does not exceed 4 per centum of the value of the land) as the Surgeon General finds sufficient to assure for a period of not less than fifty years' undisturbed use and possession for the purposes of construction and operation of the project.
+(l) The term "title", when used with reference to a site for a project, means a fee simple, or such other estate or interest (including a leasehold on which the rental does not exceed 4 per centum of the value of the land) as the Surgeon General finds sufficient to assure for a period of not less than fifty years' undisturbed use and possession for the purposes of construction and operation of the project.
 
 (July 1, 1944, ch. 373, title VI, §645, formerly §625, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 460; amended Pub. L. 88–581, §3(b), Sept. 4, 1964, 78 Stat. 919; renumbered §645 and amended Pub. L. 91–296, title I, §§113, 114(a), 116(f), 117, 118, 119(d), title II, §201, June 30, 1970, 84 Stat. 340, 341, 342, 343, 344.)
 

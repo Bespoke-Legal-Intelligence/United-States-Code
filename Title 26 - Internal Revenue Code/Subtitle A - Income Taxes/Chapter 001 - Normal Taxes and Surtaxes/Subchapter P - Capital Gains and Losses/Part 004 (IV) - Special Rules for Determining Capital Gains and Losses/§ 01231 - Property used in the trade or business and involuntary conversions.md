@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(ii) the section 1231 losses shall be included only if and to the extent taken into account in computing taxable income, except that section 1211 shall not apply.
 
-&emsp;&emsp;(B) Losses (including losses not compensated for by insurance or otherwise) onthe destruction, in whole or in part, theft or seizure, or requisition or condemnation of—
+&emsp;&emsp;(B) Losses (including losses not compensated for by insurance or otherwise) on the destruction, in whole or in part, theft or seizure, or requisition or condemnation of—
 
 &emsp;&emsp;&emsp;(i) property used in the trade or business, or
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The net section 1231 gain for any taxable year shall be treated as ordinary income to the extent such gain does not exceed the non-recaptured net section 1231 losses.
+&emsp;The net section 1231 gain for any taxable year shall be treated as ordinary income tothe extent such gain does not exceed the non-recaptured net section 1231 losses.
 
 #### (2) Non-recaptured net section 1231 losses
 

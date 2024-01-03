@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of section 412, the term "accumulated funding deficiency" for a CSEC plan meansthe excess of the total charges to the funding standard account for all plan years (beginning with the first plan year to which section 412 applies) over the total credits to such account for such years or, if less, the excess of the total charges to the alternative minimum funding standard account for such plan years over the total credits to such account for such years.
+For purposes of section 412, the term "accumulated funding deficiency" for a CSEC plan means the excess of the total charges to the funding standard account for all plan years (beginning with the first plan year to which section 412 applies) over the total credits to such account for such years or, if less, the excess of the total charges to the alternative minimum funding standard account for such plan years over the total credits to such account for such years.
 
 #### (b) Funding standard account
 
@@ -116,7 +116,7 @@ For purposes of section 412, the term "accumulated funding deficiency" for a CSE
 
 #### (A) Funding methods available
 
-&emsp;&emsp;All funding methods available to CSEC plans under section 412 (as in effect on the day before the enactment of the Pension Protection Act of 2006) shall continue to be available under this section.
+&emsp;&emsp;All funding methods available to CSEC plans under section 412 (as in effect on theday before the enactment of the Pension Protection Act of 2006) shall continue to be available under this section.
 
 #### (B) Changes
 
@@ -242,7 +242,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (3) Interest
 
-&emsp;The alternative minimum funding standard account (and items therein) shall be chargedor credited with interest in the manner provided under subsection (b)(5) with respect to the funding standard account.
+&emsp;The alternative minimum funding standard account (and items therein) shall be charged or credited with interest in the manner provided under subsection (b)(5) with respect to the funding standard account.
 
 #### (f) Quarterly contributions required
 
@@ -521,7 +521,7 @@ For purposes of this section—
 
 #### (D) Election
 
-&emsp;&emsp;An employer may elect not to have this subparagraph apply. Such an election, oncemade, may be revoked only with the consent of the Secretary.
+&emsp;&emsp;An employer may elect not to have this subparagraph apply. Such an election, once made, may be revoked only with the consent of the Secretary.
 
 #### (i) Funded current liability percentage
 
@@ -555,7 +555,7 @@ Notwithstanding any other provisions of this section—
 
 #### (3) Funding restoration plan
 
-&emsp;The sponsor of a CSEC plan shall establish a written funding restoration plan within 180 days of the receipt by the plan sponsor of a certification from the plan actuary that the plan is in funding restoration status for a plan year. Such funding restoration plan shall consist of actions that are calculated, based on reasonably anticipated experience and reasonable actuarial assumptions, to increase the plan's funded percentage to 100 percent over a period that is not longer than the greater of 7 years or the shortest amount of time practicable. Such funding restoration plan shall take into account contributions required under this section (without regard to this paragraph). If a plan remains in funding restoration status for 2 or more years, such funding restoration plan shall be updated each year after the 1st such year within 180 days of receipt by the plan sponsor of a certification from the plan actuary that the plan remains in funding restoration status for the plan year.
+&emsp;The sponsor of a CSEC plan shall establish a written funding restoration plan within 180 days of the receipt by the plan sponsor of a certification from the plan actuary that the plan is in funding restoration status for a plan year. Such funding restoration plan shall consist of actions that are calculated, based on reasonably anticipated experience and reasonable actuarial assumptions, to increase the plan's funded percentage to 100 percent over a period that is not longer than the greater of 7 years or the shortest amount of time practicable. Such funding restoration plan shalltake into account contributions required under this section (without regard to this paragraph). If a plan remains in funding restoration status for 2 or more years, such funding restoration plan shall be updated each year after the 1st such year within 180 days of receipt by the plan sponsor of a certification from the plan actuary that the plan remains in funding restoration status for the plan year.
 
 #### (4) Annual certification by plan actuary
 

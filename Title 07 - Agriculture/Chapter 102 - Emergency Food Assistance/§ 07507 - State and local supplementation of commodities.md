@@ -58,7 +58,7 @@ State and emergency feeding organizations shall continue, to the maximum extent 
 
 #### (5) Funding
 
-&emsp;Out of funds not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this subsection $4,000,000 for each of fiscal years 2019 through 2023, to remain available until the end of the subsequent fiscal year.
+&emsp;Out of funds not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this subsection $4,000,000 for each of fiscal years 2019 through 2024, to remain available until the end of the subsequent fiscal year.
 
 #### (e) Food waste
 
@@ -92,17 +92,23 @@ The Secretary shall issue guidance outlining best practices to minimize the food
 
 &emsp;&emsp;The Secretary shall encourage State agencies and emergency feeding organizations to share the guidance issued under subparagraph (A) with qualified direct donors.
 
-(Pub. L. 98–8, title II, §203D, as added Pub. L. 100–435, title I, §102, Sept. 19, 1988, 102 Stat. 1647; amended Pub. L. 115–334, title IV, §§4018(b), (c), 4104, Dec. 20, 2018, 132 Stat. 4648, 4649, 4655.)
+(Pub. L. 98–8, title II, §203D, as added Pub. L. 100–435, title I, §102, Sept. 19, 1988, 102 Stat. 1647; amended Pub. L. 115–334, title IV, §§4018(b), (c), 4104, Dec. 20, 2018, 132 Stat. 4648, 4649, 4655; Pub. L. 118–22, div. B, title I, §102(d)(3), Nov. 17, 2023, 137 Stat. 116.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d)(5). Pub. L. 118–22 substituted "2024" for "2023".
 
 <b>2018</b>—Subsecs. (d), (e). Pub. L. 115–334, §4018(b), (c), added subsecs. (d) and (e).
 
 Subsec. (f). Pub. L. 115–334, §4104, added subsec. (f).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2023 Amendment
+
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
 #### Effective Date
 

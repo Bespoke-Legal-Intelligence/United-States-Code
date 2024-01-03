@@ -22,7 +22,7 @@ Amounts in the Fund shall be available solely for the operation of the Retiremen
 
 #### (c) Investments
 
-The Secretary of the Treasury may invest in obligations issued or guaranteed by the United States any monies in the Fund that the Chief Operating Officer determines are not currently needed to pay for the operation of the Retirement Home.
+The Secretary of the Treasury may invest in obligations issued or guaranteed by the UnitedStates any monies in the Fund that the Chief Operating Officer determines are not currently needed to pay for the operation of the Retirement Home.
 
 #### (d) Reporting requirements
 

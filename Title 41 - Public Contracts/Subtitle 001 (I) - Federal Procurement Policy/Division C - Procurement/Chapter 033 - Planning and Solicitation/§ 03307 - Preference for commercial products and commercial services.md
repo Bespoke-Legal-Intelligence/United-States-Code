@@ -112,7 +112,7 @@ Clauses that may be used in a contract.—To the maximum extent practicable, onl
 
 &emsp;&emsp;(E)
 
-Waiver of contract clauses.—The Federal Acquisition Regulation shall providestandards and procedures for waiving the use of contract clauses required pursuant to subparagraph (B), other than those required by law, including standards for determining the cases in which a waiver is appropriate.
+Waiver of contract clauses.—The Federal Acquisition Regulation shall provide standards and procedures for waiving the use of contract clauses required pursuant to subparagraph (B), other than those required by law, including standards for determining the cases in which a waiver is appropriate.
 
 &emsp;(3)
 

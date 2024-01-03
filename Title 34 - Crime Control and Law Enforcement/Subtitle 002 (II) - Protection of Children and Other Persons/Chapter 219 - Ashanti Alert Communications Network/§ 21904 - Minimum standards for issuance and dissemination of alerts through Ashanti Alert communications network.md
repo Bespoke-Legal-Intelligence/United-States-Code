@@ -28,7 +28,7 @@ Subject to subsection (b), the Coordinator shall establish minimum standards for
 
 &emsp;The minimum standards established under subsection (a) shall require that, in order for an Ashanti Alert to be issued for a missing adult, the missing adult—
 
-&emsp;&emsp;(A) suffers from a proven mental or physical disability, as documented by a source determined credible by an appropriate law enforcement agency; or
+&emsp;&emsp;(A) suffers from a proven mental or physical disability, as documented by a sourcedetermined credible by an appropriate law enforcement agency; or
 
 &emsp;&emsp;(B) be missing under circumstances that indicate, as determined by an appropriate law enforcement agency—
 

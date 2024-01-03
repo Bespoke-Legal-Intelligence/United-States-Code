@@ -28,7 +28,7 @@
 
 &emsp;(A) alerting and locating equipment, including emergency position indicating radio beacons;
 
-&emsp;(B) subject to paragraph (3), a survival craft that ensures that no part of an individual isimmersed in water sufficient to accommodate all individuals on board;
+&emsp;(B) subject to paragraph (3), a survival craft that ensures that no part of an individual is immersed in water sufficient to accommodate all individuals on board;
 
 &emsp;(C) at least one readily accessible immersion suit for each individual on board that vessel when operating on the waters described in section 3102 of this title;
 

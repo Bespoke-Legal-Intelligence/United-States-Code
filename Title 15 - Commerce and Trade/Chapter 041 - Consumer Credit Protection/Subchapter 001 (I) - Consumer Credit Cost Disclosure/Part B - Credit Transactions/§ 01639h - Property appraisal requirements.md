@@ -36,7 +36,7 @@ A creditor may not extend credit in the form of a higher-risk mortgage to any co
 
 #### (B) Exemption
 
-&emsp;&emsp;The agencies listed in subparagraph (A) may jointly exempt, by rule, a class of loans from the requirements of this subsection orsubsection (a) if the agencies determine that the exemption is in the public interest and promotes the safety and soundness of creditors.
+&emsp;&emsp;The agencies listed in subparagraph (A) may jointly exempt, by rule, a class of loans from the requirements of this subsection or subsection (a) if the agencies determine that the exemption is in the public interest and promotes the safety and soundness of creditors.
 
 #### (c) Free copy of appraisal
 
@@ -58,7 +58,7 @@ For purposes of this section, the term "higher-risk mortgage" means a residentia
 
 &emsp;(2) with an annual percentage rate that exceeds the average prime offer rate for a comparable transaction, as defined in section 1639c of this title, as of the date the interest rate is set—
 
-&emsp;&emsp;(A) by 1.5 or more percentage points, in the case of a first lien residential mortgage loan having an original principal obligation amount that does not exceed the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of the date of such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12;
+&emsp;&emsp;(A) by 1.5 or more percentage points, in the case of a first lien residential mortgage loanhaving an original principal obligation amount that does not exceed the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of the date of such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12;
 
 &emsp;&emsp;(B) by 2.5 or more percentage points, in the case of a first lien residential mortgage loan having an original principal obligation amount that exceeds the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of the date of such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12; and
 

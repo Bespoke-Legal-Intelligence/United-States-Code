@@ -76,7 +76,7 @@ In this chapter:
 
 #### (15) Left-behind parent
 
-&emsp;The term "left-behind parent" means an individual or legal custodian who alleges that anabduction has occurred that is in breach of rights of custody attributed to such individual.
+&emsp;The term "left-behind parent" means an individual or legal custodian who alleges that an abduction has occurred that is in breach of rights of custody attributed to such individual.
 
 #### (16) Non-Convention country
 

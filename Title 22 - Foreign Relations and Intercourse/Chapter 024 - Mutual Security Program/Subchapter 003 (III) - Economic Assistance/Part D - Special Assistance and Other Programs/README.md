@@ -16,6 +16,7 @@ Part D—Special Assistance and Other Programs
 - [&sect; 01928c - Report to the Congress](%C2%A7%2001928c%20-%20Report%20to%20the%20Congress.md)
 - [&sect; 01928d - Auditing and accounting](%C2%A7%2001928d%20-%20Auditing%20and%20accounting.md)
 - [&sect; 01928e - North Atlantic Assembly; appropriations for expenses of annual meeting](%C2%A7%2001928e%20-%20North%20Atlantic%20Assembly%3B%20appropriations%20for%20expenses%20of%20annual%20meeting.md)
+- [&sect; 01928f - Limitation on withdrawal from the North Atlantic Treaty Organization](%C2%A7%2001928f%20-%20Limitation%20on%20withdrawal%20from%20the%20North%20Atlantic%20Treaty%20Organization.md)
 - [&sect; 01929 - Repealed. Pub. L. 87&#8211;195, pt. III, &sect;642(a)(2), Sept. 4, 1961, 75 Stat. 460](%C2%A7%2001929%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93195%2C%20pt.%20III%2C%20%C2%A7642%28a%29%282%29%2C%20Sept.%204%2C%201961%2C%2075%20Stat.%20460.md)
 - [&sect; 01930 - Repealed. Pub. L. 86&#8211;108, ch. II, &sect;205(j), July 24, 1959, 73 Stat. 250](%C2%A7%2001930%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93108%2C%20ch.%20II%2C%20%C2%A7205%28j%29%2C%20July%2024%2C%201959%2C%2073%20Stat.%20250.md)
 - [&sect; 01931 - Repealed. Pub. L. 87&#8211;195, pt. III, &sect;642(a)(2), Sept. 4, 1961, 75 Stat. 460](%C2%A7%2001931%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93195%2C%20pt.%20III%2C%20%C2%A7642%28a%29%282%29%2C%20Sept.%204%2C%201961%2C%2075%20Stat.%20460.md)

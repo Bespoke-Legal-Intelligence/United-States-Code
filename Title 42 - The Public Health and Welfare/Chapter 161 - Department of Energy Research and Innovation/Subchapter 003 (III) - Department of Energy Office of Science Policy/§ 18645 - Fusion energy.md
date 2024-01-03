@@ -20,7 +20,7 @@ As part of the activities authorized under section 7139 of this title and sectio
 
 #### (2) Authorization of appropriations
 
-&emsp;Out of funds authorized to be appropriated under subsection (q),<sup>1</sup> there is authorized to be appropriated to the Secretary to carry out activities described in paragraph (1) $50,000,000 for each of fiscal years 2023 through 2027.
+&emsp;Out of funds authorized to be appropriated under subsection (q),<sup>1</sup> there is authorized to beappropriated to the Secretary to carry out activities described in paragraph (1) $50,000,000 for each of fiscal years 2023 through 2027.
 
 #### (c) Tokamak research and development
 
@@ -190,7 +190,7 @@ The Director shall coordinate with the Director of the Advanced Research Project
 
 #### (9) Annual report
 
-&emsp;As part of the annual budget request submitted for each fiscal year, the Secretary shall provide the House Committee on Science, Space, and Technology and the Senate Committee on Energy and Natural Resources a report describing partnerships supported by the program established under paragraph (1) during the previous fiscal year.
+&emsp;As part of the annual budget request submitted for each fiscal year, the Secretary shallprovide the House Committee on Science, Space, and Technology and the Senate Committee on Energy and Natural Resources a report describing partnerships supported by the program established under paragraph (1) during the previous fiscal year.
 
 #### (10) Authorization of appropriations
 

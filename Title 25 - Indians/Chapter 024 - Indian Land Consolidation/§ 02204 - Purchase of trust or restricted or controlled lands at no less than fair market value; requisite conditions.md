@@ -52,7 +52,7 @@ Subsection (a) applies on the condition that—
 
 #### (B) Costs of serving notice and publication
 
-&emsp;&emsp;The costs of serving and publishing notice under subparagraph (F) shall be borne by the applicant. Upon receiving written notice from the Secretary, the applicant must pay to the Secretary an amount determined by the Secretary to be the estimated costs of such service of notice and publication, orfurnish a sufficient bond for such estimated costs within the time stated in the notice, failing which, unless an extension is granted by the Secretary, the Secretary shall not be required to commence the partition process under subparagraph (A) and may deny the application. The Secretary shall have the discretion and authority in any case to waive either the payment or the bond (or any portion of such payment or bond) otherwise required by this subparagraph, upon making a determination that such waiver will further the policies of this chapter.
+&emsp;&emsp;The costs of serving and publishing notice under subparagraph (F) shall be borne by the applicant. Upon receiving written notice from the Secretary, the applicant must pay to the Secretary an amount determined by the Secretary to be the estimated costs of such service of notice and publication, or furnish a sufficient bond for such estimated costs within the time stated in the notice, failing which, unless an extension is granted by the Secretary, the Secretary shall not be required to commence the partition process under subparagraph (A) and may deny the application. The Secretary shall have the discretion and authority in any case to waive either the payment or the bond (or any portion of such payment or bond) otherwise required by this subparagraph, upon making a determination that such waiver will further the policies of this chapter.
 
 #### (C) Determination
 
@@ -74,7 +74,7 @@ Subsection (a) applies on the condition that—
 
 &emsp;&emsp;&emsp;&emsp;(III) the owners (including parents of minor owners and legal guardians of incompetent owners) of at least 50 percent of the undivided interests in the parcel, but only in cases where the Secretary determines that, based on the final appraisal prepared pursuant to subparagraph (F), any 1 owner's total undivided interest in the parcel (not including the interest of an Indian tribe or that of the owner requesting the partition) has a value in excess of $1,500.
 
-&emsp;&emsp;&nbsp;Any consent required by this clause must be in writing and acknowledged before a notary public (or other official authorized to make acknowledgments), and shall be approved by the Secretary unless the Secretary has reason to believe that the consent was obtained as a result of fraud or undue influence.
+&emsp;&emsp;&nbsp;Any consent required by this clause must be in writing and acknowledged before anotary public (or other official authorized to make acknowledgments), and shall be approved by the Secretary unless the Secretary has reason to believe that the consent was obtained as a result of fraud or undue influence.
 
 #### (ii) Consent by the Secretary on behalf of certain individuals
 
@@ -130,7 +130,7 @@ Subsection (a) applies on the condition that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) publishing the notice described in clause (i) at least 2 times in a newspaper of general circulation in the county or counties where the subject parcel of land is located or, if there is an Indian tribe with jurisdiction over the parcel of land and that tribe publishes a tribal newspaper or newsletter at least once every month, 1 time in such newspaper of general circulation and 1 time in such tribal newspaper or newsletter;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) posting such notice in a conspicuous place in the tribal headquarters or administration building (or such other tribal building determined by the Secretary to be most appropriate for giving public notice) of the Indian tribe with jurisdiction over the parcel of land, if any; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) posting such notice in a conspicuous place in the tribal headquarters or administration building (or such other tribal building determined by the Secretary to be most appropriate for giving public notice) of theIndian tribe with jurisdiction over the parcel of land, if any; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) in addition to the foregoing, in the Secretary's discretion, publishing notice in any other place or means that the Secretary determines to be appropriate.
 
@@ -182,7 +182,7 @@ Subsection (a) applies on the condition that—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii) and the consent requirements of paragraph (2)(D), the Secretary shall, after providing noticeto owners under subparagraph (H), including the time and place of sale or for receiving sealed bids, at public auction or by sealed bid (whichever of such methods of sale the Secretary determines to be more appropriate under the circumstances) sell the parcel of land by competitive bid for not less than the final appraised fair market value to the highest bidder from among the following eligible bidders:
+&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii) and the consent requirements of paragraph (2)(D), the Secretary shall, after providing notice to owners under subparagraph (H), including the time and place of sale or for receiving sealed bids, at public auction or by sealed bid (whichever of such methods of sale the Secretary determines to be more appropriate under the circumstances) sell the parcel of land by competitive bid for not less than the final appraised fair market value to the highest bidder from among the following eligible bidders:
 
 &emsp;&emsp;&emsp;&emsp;(I) The Indian tribe, if any, with jurisdiction over the trust or restricted interests in the parcel being sold.
 
@@ -202,7 +202,7 @@ Subsection (a) applies on the condition that—
 
 #### (iii) Right to purchase
 
-&emsp;&emsp;&emsp;Any person who is a member, or eligible to be a member, of the Indian tribe with jurisdiction over the trust or restricted interests in the parcel being sold and is, as of the time of sale under this subparagraph, the owner of the largest undivided interest in the parcel shall have a right to purchase the parcel by tendering to the Secretary an amount equal to the highest sufficient bid submitted at the sale, less that amount of the bid attributable to such owner's share, but only if—
+&emsp;&emsp;&emsp;Any person who is a member, or eligible to be a member, of the Indian tribe withjurisdiction over the trust or restricted interests in the parcel being sold and is, as of the time of sale under this subparagraph, the owner of the largest undivided interest in the parcel shall have a right to purchase the parcel by tendering to the Secretary an amount equal to the highest sufficient bid submitted at the sale, less that amount of the bid attributable to such owner's share, but only if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the owner submitted a sufficient bid at the sale;
 
@@ -278,7 +278,7 @@ Subsection (a) applies on the condition that—
 
 #### (5) Regulations
 
-&emsp;The Secretary is authorized to adopt such regulations as may be necessary to implement the provisions of this subsection. Such regulations may include provisions for giving notice of sales to prospective purchasers eligible to submit bids at sales conducted under paragraph (2)(I).
+&emsp;The Secretary is authorized to adopt such regulations as may be necessary to implementthe provisions of this subsection. Such regulations may include provisions for giving notice of sales to prospective purchasers eligible to submit bids at sales conducted under paragraph (2)(I).
 
 (Pub. L. 97–459, title II, §205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, §1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, §103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§4, 6(a)(1), Oct. 27, 2004, 118 Stat. 1787, 1797; Pub. L. 109–157, §§2, 8(a)(1), Dec. 30, 2005, 119 Stat. 2949, 2952; Pub. L. 110–453, title II, §207(b), Dec. 2, 2008, 122 Stat. 5030.)
 
@@ -322,7 +322,7 @@ Pub. L. 106–462, §103(2)(A)(i), (ii), substituted subsec. (a) designation and
 
 Subsec. (b)(2). Pub. L. 106–462, §103(2)(B)(ii), inserted "and" at end.
 
-Pub. L. 106–462, §103(2)(B)(i), which directed substitution of "if" for "If,", was executed by making thesubstitution for "if," to reflect the probable intent of Congress.
+Pub. L. 106–462, §103(2)(B)(i), which directed substitution of "if" for "If,", was executed by making the substitution for "if," to reflect the probable intent of Congress.
 
 Subsec. (b)(3). Pub. L. 106–462, §103(2)(C), added par. (3) and struck out former par. (3) which read as follows: "all purchases and sales initiated under this section shall be subject to approval by the Secretary."
 

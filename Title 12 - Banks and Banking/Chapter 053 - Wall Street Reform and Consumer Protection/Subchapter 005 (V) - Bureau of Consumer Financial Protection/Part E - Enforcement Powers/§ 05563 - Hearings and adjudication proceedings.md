@@ -14,7 +14,7 @@ The Bureau is authorized to conduct hearings and adjudication proceedings with r
 
 #### (A) In general
 
-&emsp;&emsp;If, in the opinion of the Bureau, any covered person or service provider is engaging or has engaged in an activity that violates a law, rule, or any condition imposed in writing on the person by the Bureau, the Bureau may, subject to sections 5514, 5515, and 5516 of this title, issue and serve upon the covered person or service provider a notice of charges in respect thereof.
+&emsp;&emsp;If, in the opinion of the Bureau, any covered person or service provider is engagingor has engaged in an activity that violates a law, rule, or any condition imposed in writing on the person by the Bureau, the Bureau may, subject to sections 5514, 5515, and 5516 of this title, issue and serve upon the covered person or service provider a notice of charges in respect thereof.
 
 #### (B) Content of notice
 
@@ -48,7 +48,7 @@ The Bureau is authorized to conduct hearings and adjudication proceedings with r
 
 #### (1) In general
 
-&emsp;Whenever the Bureau determines that the violation specified in the notice of charges served upon a person, including a service provider, pursuant to subsection (b), or the continuation thereof, is likely to cause the person to be insolvent or otherwise prejudice the interests of consumers before the completion of the proceedings conducted pursuant to subsection (b), the Bureau may issue a temporary order requiring the person to cease and desist from any such violation or practice and to take affirmative action to prevent or remedy such insolvency or other condition pending completion of such proceedings. Such order may include any requirement authorized under this part. Such order shall become effective upon service upon the person and, unless set aside, limited, or suspended by a court in proceedings authorized by paragraph (2), shall remain effective and enforceable pending the completion of the administrative proceedings pursuant to such notice and until such time as the Bureau shall dismiss the charges specified in such notice, or if a cease-and-desist order isissued against the person, until the effective date of such order.
+&emsp;Whenever the Bureau determines that the violation specified in the notice of charges served upon a person, including a service provider, pursuant to subsection (b), or the continuation thereof, is likely to cause the person to be insolvent or otherwise prejudice the interests of consumers before the completion of the proceedings conducted pursuant to subsection (b), the Bureau may issue a temporary order requiring the person to cease and desist from any such violation or practice and to take affirmative action to prevent or remedy such insolvency or other condition pending completion of such proceedings. Such ordermay include any requirement authorized under this part. Such order shall become effective upon service upon the person and, unless set aside, limited, or suspended by a court in proceedings authorized by paragraph (2), shall remain effective and enforceable pending the completion of the administrative proceedings pursuant to such notice and until such time as the Bureau shall dismiss the charges specified in such notice, or if a cease-and-desist order is issued against the person, until the effective date of such order.
 
 #### (2) Appeal
 

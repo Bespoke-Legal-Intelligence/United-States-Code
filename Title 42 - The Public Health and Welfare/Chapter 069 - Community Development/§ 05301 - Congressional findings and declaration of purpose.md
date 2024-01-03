@@ -64,7 +64,7 @@ It is also the purpose of this chapter to further the development of a national 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c) and (d), was in the original "this title", meaning title I of Pub. L.93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (c) and (d), was in the original "this title", meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 #### Amendments
 
@@ -108,7 +108,7 @@ Amendment by section 913(a) of Pub. L. 101–625 applicable to amounts approved 
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–181 applicable only to funds available for fiscal year 1984 and thereafter, see section 110(b) of Pub. L. 98–181, as amended, set out as a note under section 5316 of this title.
+Amendment by Pub. L. 98–181 applicable only to funds available for fiscal year 1984 and thereafter, see section110(b) of Pub. L. 98–181, as amended, set out as a note under section 5316 of this title.
 
 #### Effective Date of 1977 Amendment
 
@@ -136,7 +136,7 @@ Pub. L. 98–479, §1, Oct. 17, 1984, 98 Stat. 2218, provided: "That this Act \[
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–35, title III, §300, Aug. 13, 1981, 95 Stat. 384, provided that: "This subtitle \[subtitle A (§§300–371) of title III of Pub. L. 97–35, enacting sections 1437j–1, 1437n, and 4028 of this title and sections 1701z–14, 1735f–9, 1735f–10, 2294a, and 3701 to 3717 of Title 12, Banks and Banking, amending sections 1436a, 1437 to 1437d, 1437f, 1437g, 1437i, 1437j, 1437l, 1439, 1452b, 1483, 1485, 1487, 1490a, 1490c, 4017, 4026, 4056, 4081, 4127, 4518, 5302 to 5313, 5316, 5318, 5320, and 8107 of this title and sections 1701s, 1701j–2, 1701q, 1701x, 1701z–1, 1701z–14, 1703, 1706e, 1709–1, 1713, 1715e, 1715h, 1715k, 1715l, 1715n, 1715v, 1715y, 1715z,1715z–1, 1715z–1a, 1715z–1b, 1715z–7, 1715z–9, 1715z–10, 1720, 1721, 1735c, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749bbb, and 1749bbb–3 of Title 12, repealing sections 8121 to 8124 of this title and section 461 of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under 1436a, 1437a, 1437f, 4028, 5304, 5305, 5306, 5318 of this title and sections 1703, 1720, and 3701 of Title 12, and repealing provisions set out as notes under section 8121 of this title and section 1701s of Title 12\] may be cited as the 'Housing and Community Development Amendments of 1981'."
+Pub. L. 97–35, title III, §300, Aug. 13, 1981, 95 Stat. 384, provided that: "This subtitle \[subtitle A (§§300–371) of title III of Pub. L. 97–35, enacting sections 1437j–1, 1437n, and 4028 of this title and sections 1701z–14, 1735f–9, 1735f–10, 2294a, and 3701 to 3717 of Title 12, Banks and Banking, amending sections 1436a, 1437 to 1437d, 1437f, 1437g, 1437i, 1437j, 1437l, 1439, 1452b, 1483, 1485, 1487, 1490a, 1490c, 4017, 4026, 4056, 4081, 4127, 4518, 5302 to 5313, 5316, 5318, 5320, and 8107 of this title and sections 1701s, 1701j–2, 1701q, 1701x, 1701z–1, 1701z–14, 1703, 1706e, 1709–1, 1713, 1715e, 1715h, 1715k, 1715l, 1715n, 1715v, 1715y, 1715z, 1715z–1, 1715z–1a, 1715z–1b, 1715z–7, 1715z–9, 1715z–10, 1720, 1721, 1735c, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749bbb, and 1749bbb–3 of Title 12, repealing sections 8121 to 8124 of this title and section 461 of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under 1436a, 1437a, 1437f, 4028, 5304, 5305, 5306, 5318 of this title and sections 1703, 1720, and 3701 of Title 12, and repealing provisions set out as notes under section 8121 of this title and section 1701s of Title 12\] may be cited as the 'Housing and Community Development Amendments of 1981'."
 
 #### Short Title of 1980 Amendment
 
@@ -160,7 +160,7 @@ Pub. L. 93–383, §1, Aug. 22, 1974, 88 Stat. 633, provided: "That this Act \[e
 
 #### Use of Funds for Unmet Recovery Needs in Overlapping Impacted and Distressed Areas Affected by Disasters
 
-Pub. L. 117–43, div. B, title VIII, Sept. 30, 2021, 135 Stat. 371, provided in part: "That the Secretary is authorized to approve the use of amounts made available under this heading \[Department of Housing and Urban Development—Community Planning and Development—Community Development Fund\] in this Act \[div. B of Pub. L. 117–43, see Tables for classification\] or a prior or future Act for activities authorized under title I of the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.) related to unmet recovery needs in the most impacted and distressed areas resulting from a major disaster in this Act or in a prior or future Act to be used interchangeably and without limitation for the same activities in the most impacted and distressed areas resulting from other major disasters assisted under this Act or a prior or future Actwhen such areas overlap and when the use of the funds will address unmet recovery needs of both disasters".
+Pub. L. 117–43, div. B, title VIII, Sept. 30, 2021, 135 Stat. 371, provided in part: "That the Secretary is authorized to approve the use of amounts made available under this heading \[Department of Housing and Urban Development—Community Planning and Development—Community Development Fund\] in this Act \[div. B of Pub. L. 117–43, see Tables for classification\] or a prior or future Act for activities authorized under title I of the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.) related to unmet recovery needs in the most impacted and distressed areas resulting from a major disaster in this Act or in a prior or future Act to be used interchangeably and without limitation for the same activities in the most impacted and distressed areas resulting from other major disasters assisted under this Act or a prior or future Act when such areas overlap and when the use of the funds will address unmet recovery needs of both disasters".
 
 #### Pilot Program To Help Individuals in Recovery From a Substance Use Disorder Become Stably Housed
 
@@ -330,11 +330,11 @@ Section 2301.—Section 2301(f)(3)(A)(ii) of the Housing and Economic Recovery A
 
 &emsp;"(2)
 
-Notice of foreclosure.—For any amounts made available under this section, under division B, title III of the Housing and Economic Recovery Act of 2008 (42 U.S.C. 5301 \[note\]), or under the heading 'Community Planning and Development—Community Development Fund' in title XII of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5; 123 Stat. 217), the date of a notice of foreclosure shall be deemed to be the date on which complete title to a property is transferred to a successor entity or person as a result of an order of a court or pursuant to provisions in a mortgage, deed of trust, or security deed."
+Notice of foreclosure.—For any amounts made available under this section, under division B, title III of the Housing and Economic Recovery Act of 2008 (42 U.S.C. 5301 \[note\]), or under the heading 'Community Planning and Development—Community Development Fund' in title XII of division A of the American Recovery and Reinvestment Act of 2009\(Public Law 111–5; 123 Stat. 217), the date of a notice of foreclosure shall be deemed to be the date on which complete title to a property is transferred to a successor entity or person as a result of an order of a court or pursuant to provisions in a mortgage, deed of trust, or security deed."
 
 #### Acquisition of Tenant-Occupied Foreclosed Dwelling or Residential Real Property
 
-Pub. L. 111–5, div. A, title XII, Feb. 17, 2009, 123 Stat. 218, provided in part: "That in the case of any acquisition of a foreclosed upon dwelling or residential real property acquired after the date of enactment \[probably means the date of enactment of Pub. L. 111–5, Feb. 17, 2009\] with any amounts made available under this heading \[Community Development Fund\] or under division B, title III of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) \[set out below\], the initial successor in interest in such property pursuant to the foreclosure shall assume such interest subject to: (1) the provision by such successor in interest of a notice to vacate to any bona fide tenant at least 90 days before the effective date of such notice; and (2) the rights of any bona fide tenant, as of the date of such notice of foreclosure: (A) under any bona fide lease entered into before the notice of foreclosure to occupy the premises until the end of the remaining term of the lease, except that a successor in interest may terminate a lease effective on the date of sale of the unit to a purchaser who will occupy the unit as a primary residence, subject to the receipt by the tenant of the 90-day notice under this paragraph; or (B) without a lease or with a lease terminable at will under State law, subject to the receipt by the tenant of the 90-day notice under this paragraph, except that nothing in this paragraph shall affect the requirements for termination of any Federal- or State-subsidized tenancy or of any State or local law that provides longer time periods or other additional protections for tenants: <i>Provided further</i>, That, for purposes of this paragraph, a lease or tenancy shall be considered bona fide only if: (1) the mortgagor under the contract is not the tenant; (2) the lease or tenancy was the result of an arms-length transaction; and (3) the lease or tenancy requires the receipt of rent that is not substantially less than fair market rent for the property: <i>Provided further</i>, That the recipient of any grant or loan from amounts made available under this heading or, after the date of enactment, under division B, title III of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) may not refuse to lease a dwelling unit in housing assisted with such loan or grant to a holder of a voucher or certificate of eligibility under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f) because of the status of the prospective tenant as such a holder: <i>Provided further</i>, That in the case of any qualified foreclosed housing for which funds made available under this heading or, after the date of enactment, under division B, title III of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) are used and in which a recipient of assistance under section 8(o) of the U.S. Housing Act of 1937 resides at the time of foreclosure, the initial successor in interest shall be subject to the lease and to the housing assistance payments contract for the occupied unit: <i>Provided further</i>, That vacating the property prior to sale shall not constitute good cause for termination of the tenancy unless the property is unmarketable while occupied or unless the owner or subsequent purchaser desires the unit for personal or family use: <i>Provided further</i>, That if a public housing agency is unable to make payments under the contract to the immediate successor in interest after foreclosures, due to (1) an action or inaction by the successor in interest, including the rejection of payments or the failure of the successor to maintain the unit in compliance with section 8(o)(8) of the United States Housing Act of 1937 (42 U.S.C.1437f) or (2) an inability to identify the successor, the agency may use funds that would have been used to pay the rental amount on behalf of the family—(i) to pay for utilities that are the responsibility of theowner under the lease or applicable law, after taking reasonable steps to notify the owner that it intends to make payments to a utility provider in lieu of payments to the owner, except prior notification shall not be required in any case in which the unit will be or has been rendered uninhabitable due to the termination or threat of termination of service, in which case the public housing agency shall notify the owner within a reasonable time after making such payment; or (ii) for the family's reasonable moving costs, including security deposit costs: <i>Provided further</i>, That this paragraph shall not preempt any Federal, State or local law that provides more protections for tenants".
+Pub. L. 111–5, div. A, title XII, Feb. 17, 2009, 123 Stat. 218, provided in part: "That in the case of any acquisition of a foreclosed upon dwelling or residential real property acquired after the date of enactment \[probably means the date of enactment of Pub. L. 111–5, Feb. 17, 2009\] with any amounts made available under this heading \[Community Development Fund\] or under division B, title III of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) \[set out below\], the initial successor in interest in such property pursuant to the foreclosure shall assume such interest subject to: (1) the provision by such successor in interest of a notice to vacate to any bona fide tenant at least 90 days before the effective date of such notice; and (2) the rights of any bona fide tenant, as of the date of such notice of foreclosure: (A) under any bona fide lease entered into before the notice of foreclosure to occupy the premises until the end of the remaining term of the lease, except that a successor in interest may terminate a lease effective on the date of sale of the unit to a purchaser who will occupy the unit as a primary residence, subject to the receipt by the tenant of the 90-day notice under this paragraph; or (B) without a lease or with a lease terminable at will under State law, subject to the receipt by the tenant of the 90-day notice under this paragraph, except that nothing in this paragraph shall affect the requirements for termination of any Federal- or State-subsidized tenancy or of any State or local law that provides longer time periods or other additional protections for tenants: <i>Provided further</i>, That, for purposes of this paragraph, a lease or tenancy shall be considered bona fide only if: (1) the mortgagor under the contract is not the tenant; (2) the lease or tenancy was the result of an arms-length transaction; and (3) the lease or tenancy requires the receipt of rent that is not substantially less than fair market rent for the property: <i>Provided further</i>, That the recipient of any grant or loan from amounts made available under this heading or, after the date of enactment, under division B, title III of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) may not refuse to lease a dwelling unit in housing assisted with such loan or grant to a holder of a voucher or certificate of eligibility under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f) because of the status of the prospective tenant as such a holder: <i>Provided further</i>, That in the case of any qualified foreclosed housing for which funds made available under this heading or, after the date of enactment, under division B, title III of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) are used and in which a recipient of assistance under section 8(o) of the U.S. Housing Act of 1937 resides at the time of foreclosure, the initial successor in interest shall be subject to the lease and to the housing assistance payments contract for the occupied unit: <i>Provided further</i>, That vacating the property prior to sale shall not constitute good cause for termination of the tenancy unless the property is unmarketable while occupied or unless the owner or subsequent purchaser desires the unit for personal or family use: <i>Provided further</i>, That if a public housing agency is unable to make payments under the contract to the immediate successor in interest after foreclosures, due to (1) an action or inaction by the successor in interest, including the rejection of payments or the failure of the successor to maintain the unit in compliance with section 8(o)(8) of the United States Housing Act of 1937 (42 U.S.C.1437f) or (2) an inability to identify the successor, the agency may use funds that would have been used to pay the rental amount on behalf of the family—(i) to pay for utilities that are the responsibility of the owner under the lease or applicable law, after taking reasonable steps to notify the owner that it intends to make payments to a utility provider in lieu of payments to the owner, except prior notification shall not be required in any case in which the unit will be or has been rendered uninhabitable due to the termination or threat of termination of service, in which case the public housing agency shall notify the owner within a reasonable time after making such payment; or (ii) for the family's reasonable moving costs, including security deposit costs: <i>Provided further</i>, That this paragraph shall not preempt any Federal, State or local law that provides more protections for tenants".
 
 #### Emergency Assistance for the Redevelopment of Abandoned and Foreclosed Homes
 
@@ -380,7 +380,7 @@ Use of Funds.—
 
 &emsp;"(1)
 
-In general.—Any State or unit of general local government that receives amounts pursuant to this section shall, not later than 18 months after the receipt of such amounts, use such amounts to purchase and redevelop abandoned and foreclosed homes and residential properties.
+In general.—Any State or unit of general local government that receives amounts pursuant to thissection shall, not later than 18 months after the receipt of such amounts, use such amounts to purchase and redevelop abandoned and foreclosed homes and residential properties.
 
 &emsp;"(2)
 
@@ -578,119 +578,7 @@ Pub. L. 93–383, title VIII, §817, Aug. 22, 1974, 88 Stat. 739, as amended by 
 
 #### <b>Executive Documents</b>
 
-#### Ex. Ord. No. 13853. Establishing the White House Opportunity and Revitalization Council
+#### Executive Order No. 13853
 
-Ex. Ord. No. 13853, Dec. 12, 2018, 83 F.R. 65071, provided:
-
-Section 1. <i>Purpose</i>. Fifty-two million Americans live in economically distressed communities. Despite the growing national economy, these communities are plagued by high poverty levels, failing schools, and a scarcity of jobs. In December 2017, I signed into law a bill originally introduced as the Tax Cuts and Jobs Act (Act) \[title I of Pub. L. 115–97, see Tables for classification\], which established a historic new Federal tax incentive that promotes long-term equity investments in low-income communities designated as "qualified opportunity zones" by the Governors of States or territories. In order to further facilitate such investment, my Administration will implement reforms that streamline existing regulations, protect taxpayers by optimizing use of Federal resources, stimulate economic opportunity and mobility, encourage entrepreneurship, expand quality educational opportunities, develop and rehabilitate quality housing stock, promote workforce development, and promote safety and prevent crime in urban and economically distressed communities.
-
-This order establishes a White House Council to carry out my Administration's plan to encourage public andprivate investment in urban and economically distressed areas, including qualified opportunity zones. The Council shall lead joint efforts across executive departments and agencies (agencies) to engage with State, local, and tribal governments to find ways to better use public funds to revitalize urban and economically distressed communities.
-
-Sec. 2. <i>Establishment</i>. There is established a White House Opportunity and Revitalization Council (Council). The Council shall be chaired by the Secretary of Housing and Urban Development (HUD), or the Secretary's designee. The Assistant to the President for Domestic Policy, or the designee of the Assistant to the President for Domestic Policy, shall serve as Vice Chair of the Council.
-
-(a)
-
-Membership. In addition to the Chair and Vice Chair, the Council shall consist of the following members, or their designees:
-
-(i) the Secretary of the Treasury;
-
-(ii) the Attorney General;
-
-(iii) the Secretary of the Interior;
-
-(iv) the Secretary of Agriculture;
-
-(v) the Secretary of Commerce;
-
-(vi) the Secretary of Labor;
-
-(vii) the Secretary of Health and Human Services;
-
-(viii) the Secretary of Transportation;
-
-(ix) the Secretary of Energy;
-
-(x) the Secretary of Education;
-
-(xi) the Administrator of the Environmental Protection Agency;
-
-(xii) the Director of the Office of Management and Budget;
-
-(xiii) the Administrator of the Small Business Administration;
-
-(xiv) the Assistant to the President for Economic Policy;
-
-(xv) the Chairman of the Council of Economic Advisers;
-
-(xvi) the Chairman of the Council on Environmental Quality; and
-
-(xvii) the heads of such other agencies, offices, or independent regulatory agencies as the Chair may, from time to time, designate or invite.
-
-(b)
-
-Administration. The Vice Chair shall convene regular meetings of the Council, determine its agenda, and direct its work, all under the guidance of the Chair. The Department of Housing and Urban Development shall provide funding and administrative support for the Council to the extent permitted by law and within existing appropriations. The Secretary of HUD shall designate a HUD officer or employee to serve as the Executive Director of the Council, who shall be responsible for coordinating the Council's work.
-
-Sec. 3. <i>Mission and Function of the Council</i>. The Council shall, to the extent permitted by law, work across agencies, giving consideration to existing agency initiatives, to:
-
-(a) assess the actions each agency can take under existing authorities to prioritize or focus Federal investments and programs on urban and economically distressed communities, including qualified opportunity zones;
-
-(b) assess the actions each agency can take under existing authorities to minimize all regulatory and administrative costs and burdens that discourage public and private investment in urban and economically distressed communities, including qualified opportunity zones;
-
-(c) regularly consult with officials from State, local, and tribal governments and individuals from the private sector to solicit feedback on how best to stimulate the economic development of urban and economically distressed areas, including qualified opportunity zones;
-
-(d) coordinate Federal interagency efforts to help ensure that private and public stakeholders—such as investors; business owners; institutions of higher education (including Historically Black Colleges and Universities, as defined by 50 U.S.C. 3224(g)(2), and tribally controlled colleges and universities, as defined by 25 U.S.C. 1801(a)(4)); K–12 education providers; early care and education providers; human services agencies; State, local, and tribal leaders; public housing agencies; non-profit organizations; and economic development organizations—can successfully develop strategies for economic growth and revitalization;
-
-(e) recommend policies that would:
-
-&emsp;(i) reduce and streamline regulatory and administrative burdens, including burdens on applicants applying for multiple Federal assistance awards;
-
-&emsp;(ii) help community-based applicants, including recipients of investments from qualified opportunity funds, identify and apply for relevant Federal resources; and
-
-&emsp;(iii) make it easier for recipients to receive and manage multiple types of public and private investments, including by aligning certain program requirements;
-
-(f) evaluate the following:
-
-&emsp;(i) whether and how agencies can prioritize support for urban and economically distressed areas, including qualified opportunity zones, in their grants, financing, and other assistance;
-
-&emsp;(ii) appropriate methods for Federal cooperation with and support for States, localities, and tribes that are innovatively and strategically facilitating economic growth and inclusion in urban and economically distressed communities, including qualified opportunity zones, consistent with preserving State, local, and tribal control;
-
-&emsp;(iii) whether and how to develop an integrated web-based tool through which entrepreneurs, investors, and other stakeholders can see the full range of applicable Federal financing programs and incentives available to projects located in urban and economically distressed areas, including qualified opportunity zones;
-
-&emsp;(iv) whether and how to consider urban and economically distressed areas, including qualified opportunity zones, as possible locations for Federal buildings, through consultation with the General Services Administration;
-
-&emsp;(v) whether and how Federal technical assistance, planning, financing tools, and implementation strategies can be coordinated across agencies to assist communities in addressing economic problems, engaging in comprehensive planning, and advancing regional collaboration; and
-
-&emsp;(vi) what data, metrics, and methodologies can be used to measure the effectiveness of public and private investments in urban and economically distressed communities, including qualified opportunity zones.
-
-Sec. 4. <i>Reports</i>. The Assistant to the President for Domestic Policy shall, on behalf of the Council, be responsible for submitting to the President:
-
-(a) Within 90 days of the date of this order \[Dec. 12, 2018\], a detailed work plan for how, and by when, the Council will accomplish the goals detailed in section 3 of this order;
-
-(b) Within 210 days of the date of this order, a list of recommended changes to Federal statutes, regulations, policies, and programs that would encourage public and private investment in urban and economically distressed communities, including qualified opportunity zones;
-
-(c) Within 1 year of the date of this order, a list of recommended changes to Federal statutes, regulations, policies, and programs that would help State, local, and tribal governments to better identify, use, and administer Federal resources in urban and economically distressed communities, including qualified opportunity zones;
-
-(d) Within 1 year of the date of this order, a list of best practices that could be integrated into public and private investments in urban and economically distressed communities, including qualified opportunity zones, in order to increase economic growth, encourage new business formation, and revitalize communities; and
-
-(e) Any subsequent reports that the President may request or that the Council may deem appropriate.
-
-Sec. 5. <i>Amendments to Executive Order 13845</i>. \[Amended Ex. Ord. No. 13845, formerly set out as a note under section 3101 of Title 29, Labor.\]
-
-Sec. 6. <i>General Provisions</i>. (a) The heads of agencies shall assist and provide information to the Council, consistent with applicable law, as may be necessary for the Council to carry out its functions.
-
-(b) The heads of agencies shall consider the reports and recommendations of the Council in carrying out their responsibilities related to urban and economically distressed communities.
-
-(c) The Council shall terminate on January 21, 2021, unless extended by the President.
-
-(d) Nothing in this order shall be construed to impair or otherwise affect:
-
-&emsp;(i) the authority granted by law to an executive department, agency, or the head thereof; or
-
-&emsp;(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(e) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(f) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13853, Dec. 12, 2018, 83 F.R. 65071, which established a White House Opportunity and Revitalization Council to encourage public and private investment in urban and economically distressed areas, was revoked by Ex. Ord. No. 14091, §6(c), Feb. 16, 2023, 88 F.R. 10830, set out in a note under section 601 of Title 5, Government Organization and Employees.
 

@@ -12,7 +12,7 @@
 
 #### (ii) Grants
 
-&emsp;&emsp;&emsp;The director of a designated State unit or the Administrator, as appropriate, shall award such grants, from the amount of funds so allotted for the initial fiscal year, to eligible agencies in the State for the planning, conduct, administration, and evaluation of centers for independent living that comply with the standards and assurances set forth in section 796f–4 of this title.
+&emsp;&emsp;&emsp;The director of a designated State unit or the Administrator, as appropriate, shall award such grants, from the amount of funds so allotted for the initial fiscal year, to eligible agencies in the State for the planning, conduct, administration, andevaluation of centers for independent living that comply with the standards and assurances set forth in section 796f–4 of this title.
 
 #### (iii) Regulation
 
@@ -142,7 +142,7 @@ Subsecs. (g)(2), (h), (i). Pub. L. 113–128, §482(b)(1), substituted "Administ
 
 #### Grants to Centers for Independent Living in States in Which State Funding Equals or Exceeds Federal Funding
 
-Pub. L. 111–213, §2(b), July 29, 2010, 124 Stat. 2344, provided that: "In awarding funds to existing centers for independent living (described in section 723(c) of the Rehabilitation Act of 1973 (29 U.S.C. 796f–2(c))) in a State, the director of the designated State unit that has approval to make such awards—
+Pub. L. 111–213, §2(b), July 29, 2010, 124 Stat. 2344, provided that: "In awarding funds to existing centers forindependent living (described in section 723(c) of the Rehabilitation Act of 1973 (29 U.S.C. 796f–2(c))) in a State, the director of the designated State unit that has approval to make such awards—
 
 &emsp;"(1) in fiscal year 2010—
 

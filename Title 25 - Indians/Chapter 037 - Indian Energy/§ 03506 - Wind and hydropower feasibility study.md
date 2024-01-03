@@ -8,11 +8,11 @@ The Secretary of Energy, in coordination with the Secretary of the Army and the 
 
 The study shall—
 
-&emsp;(1) determine the economic and engineering feasibility of blending wind energy and hydropower generated from the Missouri River dams operated by the Army Corps of Engineers, including an assessment of the costs and benefits of blending wind energy and hydropower compared to current sources used for firmingpower to the Western Area Power Administration;
+&emsp;(1) determine the economic and engineering feasibility of blending wind energy and hydropower generated from the Missouri River dams operated by the Army Corps of Engineers, including an assessment of the costs and benefits of blending wind energy and hydropower compared to current sources used for firming power to the Western Area Power Administration;
 
 &emsp;(2) review historical and projected requirements for, patterns of availability and use of, and reasons for historical patterns concerning the availability of firming power;
 
-&emsp;(3) assess the wind energy resource potential on tribal land and projected cost savings through a blend of wind and hydropower over a 30-year period;
+&emsp;(3) assess the wind energy resource potential on tribal land and projected cost savingsthrough a blend of wind and hydropower over a 30-year period;
 
 &emsp;(4) determine seasonal capacity needs and associated transmission upgrades for integration of tribal wind generation and identify costs associated with these activities;
 

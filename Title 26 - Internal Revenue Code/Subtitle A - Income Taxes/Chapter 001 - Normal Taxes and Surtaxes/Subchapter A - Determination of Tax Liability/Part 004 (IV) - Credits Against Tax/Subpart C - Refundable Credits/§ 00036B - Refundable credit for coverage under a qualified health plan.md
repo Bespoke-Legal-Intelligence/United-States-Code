@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the applicable percentage for any taxable year shall be the percentage such that the applicable percentage for any taxpayer whose household income is within an income tier specified in the following table shall increase, on a sliding scale in a linear manner, from the initial premium percentage to the final premium percentage specified in such table for such income tier:
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the applicable percentage for any taxable yearshall be the percentage such that the applicable percentage for any taxpayer whose household income is within an income tier specified in the following table shall increase, on a sliding scale in a linear manner, from the initial premium percentage to the final premium percentage specified in such table for such income tier:
 
 | In the case of household income (expressed as a percent of poverty line) within the following income tier: | The initial premium percentage is— | The final premium percentage is— |
 | :--- | :---: | ---: |
@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (C) Adjusted monthly premium
 
-&emsp;&emsp;The adjusted monthly premium for an applicable second lowest cost silver plan is the monthly premium which would have been charged (for the rating area with respect to which the premiums under paragraph (2)(A) were determined) for the plan if each individual covered under a qualified health plan taken into account under paragraph (2)(A) were covered by such silver plan and the premium was adjusted only for the age of each such individual in the manner allowed under section 2701 of the Public Health Service Act. In the case of a State participating in the wellness discount demonstration project under section 2705(d) of the Public Health Service Act, the adjusted monthly premium shall be determined without regard to any premium discount or rebate under such project.
+&emsp;&emsp;The adjusted monthly premium for an applicable second lowest cost silver plan is the monthly premium which would have been charged (for the rating area with respect to which the premiums under paragraph (2)(A) were determined) for the plan if each individual covered under a qualified health plan taken into account under paragraph (2)(A) were covered by such silver plan and the premium was adjusted only for the age of each such individual in the manner allowed under section 2701 of the Public Health Service Act. In the case of a State participating inthe wellness discount demonstration project under section 2705(d) of the Public Health Service Act, the adjusted monthly premium shall be determined without regard to any premium discount or rebate under such project.
 
 #### (D) Additional benefits
 
@@ -316,7 +316,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If the advance payments to a taxpayer under section 1412 of the Patient Protection and Affordable Care Act for a taxable yearexceed the credit allowed by this section (determined without regard to paragraph (1)), the tax imposed by this chapter for the taxable year shall be increased by the amount of such excess.
+&emsp;&emsp;If the advance payments to a taxpayer under section 1412 of the Patient Protection and Affordable Care Act for a taxable year exceed the credit allowed by this section (determined without regard to paragraph (1)), the tax imposed by this chapter for the taxable year shall be increased by the amount of such excess.
 
 #### (B) Limitation on increase
 
@@ -396,7 +396,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;(2) the application of subsection (f) where the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit.
 
-(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152,title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734; Pub. L. 114–255, div. C, title XVIII, §18001(a)(3), Dec. 13, 2016, 130 Stat. 1341; Pub. L. 115–97, title I, §11002(d)(1)(E), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 117–2, title IX, §§9661(a), (b), 9662(a), 9663(a), Mar. 11, 2021, 135 Stat. 182, 183; Pub. L. 117–169, title I, §12001(a), (b), Aug. 16, 2022, 136 Stat. 1905.)
+(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734; Pub. L. 114–255, div. C, title XVIII, §18001(a)(3), Dec. 13, 2016, 130 Stat. 1341; Pub. L. 115–97, title I, §11002(d)(1)(E), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 117–2, title IX, §§9661(a), (b), 9662(a), 9663(a), Mar. 11, 2021, 135 Stat. 182, 183; Pub. L. 117–169, title I, §12001(a), (b), Aug. 16, 2022, 136 Stat. 1905.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -410,7 +410,7 @@ Sections 1251, 1301, 1302, 1311, 1321, 1402, and 1412 of the Patient Protection 
 
 Section 1(c), referred to in subsecs. (b)(3)(B)(ii)(I)(aa) and (f)(2)(B)(i), to be treated, for purposes of the rate of tax, as a reference to the corresponding rate bracket under section 1(j)(2)(C) of this title, see section 1(j)(2)(F) of this title.
 
-Sections 2701 and 2705(d) of the Public Health Service Act, referred to in subsec. (b)(3)(C), are classified to sections 300gg and 300gg–4(d), respectively, of Title 42, The Public Health and Welfare. The reference to section 2705(d) probably should be a reference to section 2705(l), which relates to wellness program demonstration project and is classified to section 300gg–4(l) of Title 42.
+Sections 2701 and 2705(d) of the Public Health Service Act, referred to in subsec. (b)(3)(C), are classified to sections 300gg and 300gg–4(d), respectively, of Title 42, The Public Health and Welfare. The reference to section 2705(d) probably should be a reference to section2705(l), which relates to wellness program demonstration project and is classified to section 300gg–4(l) of Title 42.
 
 Section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(3)(E), probably means section 1311(d)(2)(B)(ii) of Pub. L. 111–148, which is classified to section 18031(d)(2)(B)(ii) of Title 42, The Public Health and Welfare, and which does not contain subclauses.
 
@@ -472,7 +472,7 @@ Subsec. (d)(2)(B). Pub. L. 111–152, §1004(a)(2)(A), amended subpar. (B) gener
 
 &emsp;"(iii) determined without regard to sections 911, 931, and 933."
 
-Subsec. (f)(2)(B). Pub. L. 111–309, §208(a), amended generally subpar. heading and cl. (i). Prior to amendment, text of cl. (i) read as follows: "In the case of an applicable taxpayer whose household income is lessthan 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed $400 ($250 in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year)."
+Subsec. (f)(2)(B). Pub. L. 111–309, §208(a), amended generally subpar. heading and cl. (i). Prior to amendment, text of cl. (i) read as follows: "In the case of an applicable taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed $400 ($250 in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year)."
 
 Subsec. (f)(2)(B)(ii). Pub. L. 111–309, §208(b), inserted "in the table contained" after "each of the dollar amounts" in introductory provisions.
 

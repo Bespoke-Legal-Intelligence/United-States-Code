@@ -56,7 +56,7 @@ Rule of construction.—The following activities are not space activities the Go
 
 &emsp;&emsp;(B) A government astronaut performing activities directly relating to the launch, reentry, or other operation of the launch vehicle or reentry vehicle under this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1342, §70117 of title 49; Pub. L. 104–287, §5(95), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(15), Oct. 28, 1998, 112 Stat. 2850; renumbered §70117 then §50919 of title 51 and amendedPub. L. 111–314, §4(d)(2), (3)(S), (5)(T), Dec. 18, 2010, 124 Stat. 3440–3442; Pub. L. 114–90, title I, §112(o), Nov. 25, 2015, 129 Stat. 713.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1342, §70117 of title 49; Pub. L. 104–287, §5(95), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(15), Oct. 28, 1998, 112 Stat. 2850; renumbered §70117 then §50919 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(S), (5)(T), Dec. 18, 2010, 124 Stat. 3440–3442; Pub. L. 114–90, title I, §112(o), Nov. 25, 2015, 129 Stat. 713.)
 
 Historical and Revision Notes
 

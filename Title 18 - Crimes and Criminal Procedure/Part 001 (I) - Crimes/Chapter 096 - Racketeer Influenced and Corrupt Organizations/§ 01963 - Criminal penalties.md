@@ -28,7 +28,7 @@
 
 (c) All right, title, and interest in property described in subsection (a) vests in the United States upon the commission of the act giving rise to forfeiture under this section. Any such property that is subsequently transferred to a person other than the defendant may be the subject of a special verdict of forfeiture and thereafter shall be ordered forfeited to the United States, unless the transferee establishes in a hearing pursuant to subsection (l) that he is a bona fide purchaser for value of such property who at the time of purchase was reasonably without cause to believe that the property was subject to forfeiture under this section.
 
-(d)(1) Upon application of the United States, the court may enter a restraining order or injunction, require the execution of a satisfactory performance bond, or take any other action to preserve the availability of property described in subsection (a) for forfeiture under this section—
+(d)(1) Upon application of the United States, the court may enter a restraining order or injunction, require the execution of a satisfactory performance bond, or take any other action topreserve the availability of property described in subsection (a) for forfeiture under this section—
 
 &emsp;(A) upon the filing of an indictment or information charging a violation of section 1962 of this chapter and alleging that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section; or
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(ii) the need to preserve the availability of the property through the entry of the requested order outweighs the hardship on any party against whom the order is to be entered:
 
-> <i>Provided, however</i>, That an order entered pursuant to subparagraph (B) shall be effective for not more than ninety days, unless extended by thecourt for good cause shown or unless an indictment or information described in subparagraph (A) has been filed.
+> <i>Provided, however</i>, That an order entered pursuant to subparagraph (B) shall be effective for not more than ninety days, unless extended by the court for good cause shown or unless an indictment or information described in subparagraph (A) has been filed.
 
 (2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than fourteen days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time, and prior to the expiration of the temporary order.
 

@@ -36,7 +36,7 @@ Study.—The Secretary of Commerce shall conduct a review of existing public and
 
 "(b)
 
-Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 17, 2000\], the Secretary of Commerce shall submit a report to Congress settingforth the findings of the study conducted under subsection (a)."
+Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 17, 2000\], the Secretary of Commerce shall submit a report to Congress setting forth the findings of the study conducted under subsection (a)."
 
 #### Report on Older Workers in Information Technology Field
 

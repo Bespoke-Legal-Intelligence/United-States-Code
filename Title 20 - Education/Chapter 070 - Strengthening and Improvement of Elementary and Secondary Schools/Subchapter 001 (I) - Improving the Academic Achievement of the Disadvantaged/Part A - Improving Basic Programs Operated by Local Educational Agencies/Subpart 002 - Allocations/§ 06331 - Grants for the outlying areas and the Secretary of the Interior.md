@@ -26,7 +26,7 @@ Subject to subsection (e), from the amount appropriated for payments to States f
 
 &emsp;For each fiscal year, the amount made available to each outlying area under this subsection shall be—
 
-&emsp;&emsp;(A) not less than 95 percent of the amount made available for the preceding fiscal year if the number of children counted under paragraph (2) is not less than 30 percent of the total number of children aged 5 to 17 years, inclusive, in the outlying area;
+&emsp;&emsp;(A) not less than 95 percent of the amount made available for the preceding fiscal year if the number of children counted under paragraph (2) is not less than 30 percent ofthe total number of children aged 5 to 17 years, inclusive, in the outlying area;
 
 &emsp;&emsp;(B) not less than 90 percent of the amount made available for the preceding fiscal year if the percentage described in subparagraph (A) is between 15 percent and 30 percent; and
 

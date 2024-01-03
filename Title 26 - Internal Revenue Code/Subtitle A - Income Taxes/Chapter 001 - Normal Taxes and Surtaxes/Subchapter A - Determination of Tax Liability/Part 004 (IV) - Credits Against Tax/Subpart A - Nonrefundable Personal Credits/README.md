@@ -12,7 +12,7 @@ Subpart A—Nonrefundable Personal Credits
 | [25C.](%C2%A7%2000025C%20-%20Energy%20efficient%20home%20improvement%20credit.md) | Energy efficient home improvement credit. |
 | [25D.](%C2%A7%2000025D%20-%20Residential%20clean%20energy%20credit.md) | Residential clean energy credit. |
 | [25E.](%C2%A7%2000025E%20-%20Previously-owned%20clean%20vehicles.md) | Previously-owned clean vehicles. |
-| [26\.](%C2%A7%2000026%20-%20Limitation%20based%20on%20tax%20liability%3B%20definition%20of%20tax%20liability.md) | Limitation based on tax liability; definition of tax liability.<br> |
+| [26\.](%C2%A7%2000026%20-%20Limitation%20based%20on%20tax%20liability%3B%20definition%20of%20tax%20liability.md) | Limitation based on tax liability; definition of tax liability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

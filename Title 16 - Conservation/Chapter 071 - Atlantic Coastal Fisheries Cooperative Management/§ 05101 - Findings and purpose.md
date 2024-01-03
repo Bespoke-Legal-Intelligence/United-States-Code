@@ -26,7 +26,7 @@ The purpose of this chapter is to support and encourage the development, impleme
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this title", meaning title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, which is classified principally to this chapter. For complete classification of title VIII to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (b), was in the original "this title", meaning title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, which is classified principally to this chapter. For complete classificationof title VIII to the Code, see Short Title note below and Tables.
 
 #### Amendments
 

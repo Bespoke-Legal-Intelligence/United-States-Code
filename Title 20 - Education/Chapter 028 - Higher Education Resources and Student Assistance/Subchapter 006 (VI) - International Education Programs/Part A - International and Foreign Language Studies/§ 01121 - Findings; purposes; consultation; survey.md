@@ -8,7 +8,7 @@ Congress finds as follows:
 
 &emsp;(2) Advances in communications technology and the growth of regional and global problems make knowledge of other countries and the ability to communicate in other languages more essential to the promotion of mutual understanding and cooperation among nations and their peoples.
 
-&emsp;(3) Dramatic changes in the world's geopolitical and economic landscapes are creating needs for American expertise and knowledge about a greater diversity of less commonly taught foreign languages and nations of the world.
+&emsp;(3) Dramatic changes in the world's geopolitical and economic landscapes are creatingneeds for American expertise and knowledge about a greater diversity of less commonly taught foreign languages and nations of the world.
 
 &emsp;(4) Systematic efforts are necessary to enhance the capacity of institutions of higher education in the United States for—
 

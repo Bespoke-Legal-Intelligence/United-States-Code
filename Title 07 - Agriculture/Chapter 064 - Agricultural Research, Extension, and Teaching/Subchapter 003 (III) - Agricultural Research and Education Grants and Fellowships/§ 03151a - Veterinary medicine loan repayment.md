@@ -88,7 +88,7 @@ Notwithstanding subchapter II of chapter 5 of title 5, not later than 270 days a
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated for carrying out this section such sums as may be necessary and such sums shall remain availableto the Secretary for the purposes of this section until expended.
+There are authorized to be appropriated for carrying out this section such sums as may be necessary and such sums shall remain available to the Secretary for the purposes of this section until expended.
 
 (Pub. L. 95–113, title XIV, §1415A, as added Pub. L. 108–161, §2, Dec. 6, 2003, 117 Stat. 2014; amended Pub. L. 110–234, title VII, §7105(a), May 22, 2008, 122 Stat. 1216; Pub. L. 110–246, §4(a), title VII, §7105(a), June 18, 2008, 122 Stat. 1664, 1977.)
 

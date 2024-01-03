@@ -50,7 +50,7 @@ The Secretary of Commerce, in consultation with the Federal Communications Commi
 
 #### (e) Proprietary information
 
-Nothing in this chapter shall reduce or remove any obligation the Commission has to protectproprietary information, nor shall this chapter be construed to compel the Commission to make publicly available any proprietary information.
+Nothing in this chapter shall reduce or remove any obligation the Commission has to protect proprietary information, nor shall this chapter be construed to compel the Commission to make publicly available any proprietary information.
 
 (Pub. L. 110–385, title I, §103, Oct. 10, 2008, 122 Stat. 4096; Pub. L. 115–141, div. P, title IV, §402(c), Mar. 23, 2018, 132 Stat. 1089.)
 

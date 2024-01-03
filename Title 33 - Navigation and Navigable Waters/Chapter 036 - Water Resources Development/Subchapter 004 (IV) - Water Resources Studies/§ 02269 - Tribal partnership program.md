@@ -70,7 +70,7 @@ In this section, the term "Indian tribe" has the meaning given the term in secti
 
 #### (1) In general
 
-&emsp;In recognition of the unique role of the Secretary of the Interior concerning trust responsibilities with Indian tribes and in recognition of mutual trust responsibilities, the Secretary shall consult with the Secretary of the Interior concerning an activity conducted under subsection (b).
+&emsp;In recognition of the unique role of the Secretary of the Interior concerning trust responsibilities with Indian tribes and in recognitionof mutual trust responsibilities, the Secretary shall consult with the Secretary of the Interior concerning an activity conducted under subsection (b).
 
 #### (2) Integration of activities
 

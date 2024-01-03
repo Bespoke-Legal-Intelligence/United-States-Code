@@ -38,7 +38,7 @@
 
 &emsp;(1) with respect to any agency (as defined in section 2302(a)(2)(C) of this title), the President shall, pursuant to the authority otherwise available under this title, take any action, including the issuance of rules, regulations, or directives; and
 
-&emsp;(2) with respect to any entity in the executive branch which is not such an agency orpart of such an agency, the head of such entity shall, pursuant to authority otherwise available, take any action, including the issuance of rules, regulations, or directives;
+&emsp;(2) with respect to any entity in the executive branch which is not such an agency or part of such an agency, the head of such entity shall, pursuant to authority otherwise available, take any action, including the issuance of rules, regulations, or directives;
 
 > which is consistent with the provisions of this title and which the President or the head, as the case may be, determines is necessary to ensure that personnel management is based on and embodies the merit system principles.
 
@@ -232,7 +232,7 @@ Contents.—A notification provided under paragraph (1) with respect to a findin
 
 "(a)
 
-Annual Report.—Subject to subsection (b), not later than 180 days after the end of each fiscal year, each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Reform of the House of Representatives, each committee of Congress with jurisdiction relating to the agency, the Equal Employment Opportunity Commission, and the Attorney General an annual report (in an electronic format prescribed by the Director of the Office of Personnel Management), which shall include, with respect to the fiscal year—
+Annual Report.—Subject to subsection (b), not later than 180 days after the end of each fiscal year, each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, each committee of Congress with jurisdiction relating to the agency, the Equal Employment OpportunityCommission, and the Attorney General an annual report (in an electronic format prescribed by the Director of the Office of Personnel Management), which shall include, with respect to the fiscal year—
 
 &emsp;"(1) the number of cases arising under each of the respective provisions of law covered by paragraphs (1) and (2) of section 201(a) in which discrimination on the part of such agency was alleged;
 
@@ -380,7 +380,7 @@ Contents.—Each study under paragraph (1) shall include, with respect to the ap
 
 &emsp;"(3)
 
-Reports.—Not later than 90 days after the completion of each study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on each study, respectively, to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, and the Attorney General.
+Reports.—Not later than 90 days after the completion of each study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on each study, respectively, to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, and the Attorney General.
 
 "(d)
 
@@ -396,7 +396,7 @@ In general.—Not later than 1 year after the date of enactment of this Act \[Ma
 
 &emsp;"(2)
 
-Report.—Not later than 90 days after the completion of the study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on the study to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, and the Attorney General.
+Report.—Not later than 90 days after the completion of the study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on the study to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, and the Attorney General.
 
 #### "SEC. 207. COMPLAINT TRACKING.
 
@@ -564,7 +564,7 @@ EEOC Findings of Discrimination.—
 
 &emsp;"(1)
 
-In general.—Not later than 30 days after the date on which the Equal Employment Opportunity Commission (referred to in this section as the 'Commission') receives, or should have received, a Federal agency report required under section 203(c), the Commission may refer the matter to which the report relates to the Office of Special Counsel if the Commission determines that the Federal agency did not take appropriate action with respect to the finding that is the subject of the report.
+In general.—Not later than 30 days after the date on which the Equal Employment OpportunityCommission (referred to in this section as the 'Commission') receives, or should have received, a Federal agency report required under section 203(c), the Commission may refer the matter to which the report relates to the Office of Special Counsel if the Commission determines that the Federal agency did not take appropriate action with respect to the finding that is the subject of the report.
 
 &emsp;"(2)
 

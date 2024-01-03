@@ -238,7 +238,7 @@ Subsec. (d)(3). Pub. L. 109–135, §403(g)(1)(D), amended par. (3) generally. P
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §413(b), Dec. 20, 2006, 120 Stat. 2963, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 205 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\]."
+Pub. L. 109–432, div. A, title IV, §413(b), Dec. 20, 2006, 120 Stat. 2963, provided that: "The amendment made bythis section \[amending this section\] shall take effect as if included in section 205 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\]."
 
 Pub. L. 109–432, div. A, title IV, §415(b), Dec. 20, 2006, 120 Stat. 2965, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 20, 2006\]."
 

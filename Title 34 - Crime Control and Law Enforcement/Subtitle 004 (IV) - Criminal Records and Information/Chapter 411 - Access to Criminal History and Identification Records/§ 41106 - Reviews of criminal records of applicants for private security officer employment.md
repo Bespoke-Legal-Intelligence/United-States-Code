@@ -140,7 +140,7 @@ In this section:
 
 &emsp;&emsp;Any fee collected under this subsection—
 
-&emsp;&emsp;&emsp;(i) shall, consistent with Public Law 101–515 and Public Law 104–99, be credited to the appropriation to be used for salaries and other expenses incurred through providing the services described in such Public Laws and in subparagraph (A);
+&emsp;&emsp;&emsp;(i) shall, consistent with Public Law 101–515 and Public Law 104–99, be creditedto the appropriation to be used for salaries and other expenses incurred through providing the services described in such Public Laws and in subparagraph (A);
 
 &emsp;&emsp;&emsp;(ii) shall be available for expenditure only to pay the costs of such activities and services; and
 

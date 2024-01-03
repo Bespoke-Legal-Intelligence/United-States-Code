@@ -86,7 +86,7 @@ The President shall remove the sanctions imposed with respect to a country pursu
 
 &emsp;(1) the government of that country has provided reliable assurances that it will not use chemical or biological weapons in violation of international law and will not use lethal chemical or biological weapons against its own nationals;
 
-&emsp;(2) that government is not making preparations to use chemical or biological weapons in violation of international law or to use lethal chemical or biological weapons against its own nationals;
+&emsp;(2) that government is not making preparations to use chemical or biological weapons in violation of international law or to use lethalchemical or biological weapons against its own nationals;
 
 &emsp;(3) that government is willing to allow on-site inspections by United Nations observers or other internationally recognized, impartial observers to verify that it is not making preparations to use chemical or biological weapons in violation of international law or to use lethal chemical or biological weapons against its own nationals, or other reliable means exist to verify that it is not making such preparations; and
 
@@ -128,7 +128,7 @@ The President shall remove the sanctions imposed with respect to a country pursu
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Arms Export Control Act, referred to in subsec. (a)(2)(A), (3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 

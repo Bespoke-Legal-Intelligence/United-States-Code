@@ -50,7 +50,7 @@ Peaceful purposes.—Any peaceful purpose related to an industrial, agricultural
 
 &emsp;&emsp;(B)
 
-Protective purposes.—Any purpose directly related to protection against toxicchemicals and to protection against chemical weapons.
+Protective purposes.—Any purpose directly related to protection against toxic chemicals and to protection against chemical weapons.
 
 &emsp;&emsp;(C)
 

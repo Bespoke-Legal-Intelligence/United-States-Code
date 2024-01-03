@@ -34,7 +34,7 @@ In awarding grants or contracts under this section, the Secretary shall give pri
 
 #### (f) Required activities
 
-An eligible partnership that receives a grant or contract under this section shall use thegrant or contract funds to carry out the following:
+An eligible partnership that receives a grant or contract under this section shall use the grant or contract funds to carry out the following:
 
 &emsp;(1) Supporting the development and implementation of the following:
 

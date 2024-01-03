@@ -6,7 +6,7 @@
 
 &emsp;(A) the name, address, and other additional pertinent background information on each person or entity (including individuals comprising such entity) having a direct financial interest in, or management responsibility for, such contract, and, in the case of a corporation, those individuals who serve on the board of directors of such corporation and each of its stockholders who hold (directly or indirectly) 10 percent or more of its issued and outstanding stock;
 
-&emsp;(B) a description of any previous experience that each person listed pursuant to subparagraph (A) has had with other gaming contracts with Indian tribes or with the gaming industry generally, including specifically the name and address of any licensing or regulatory agency with which such person has had a contract relating to gaming; and
+&emsp;(B) a description of any previous experience that each person listed pursuant to subparagraph (A) has had with other gaming contracts with Indian tribes or with the gaming industry generally, including specifically the name and address of any licensing or regulatory agencywith which such person has had a contract relating to gaming; and
 
 &emsp;(C) a complete financial statement of each person listed pursuant to subparagraph (A).
 
@@ -54,7 +54,7 @@ The Chairman shall not approve any contract if the Chairman determines that—
 
 &emsp;&emsp;(D) has been determined to be a person whose prior activities, criminal record if any, or reputation, habits, and associations pose a threat to the public interest or to the effective regulation and control of gaming, or create or enhance the dangers of unsuitable, unfair, or illegal practices, methods, and activities in the conduct of gaming or the carrying on of the business and financial arrangements incidental thereto;
 
-&emsp;(2) the management contractor has, or has attempted to, unduly interfere or influence forits gain or advantage any decision or process of tribal government relating to the gaming activity;
+&emsp;(2) the management contractor has, or has attempted to, unduly interfere or influence for its gain or advantage any decision or process of tribal government relating to the gaming activity;
 
 &emsp;(3) the management contractor has deliberately or substantially failed to comply with the terms of the management contract or the tribal gaming ordinance or resolution adopted and approved pursuant to this chapter; or
 

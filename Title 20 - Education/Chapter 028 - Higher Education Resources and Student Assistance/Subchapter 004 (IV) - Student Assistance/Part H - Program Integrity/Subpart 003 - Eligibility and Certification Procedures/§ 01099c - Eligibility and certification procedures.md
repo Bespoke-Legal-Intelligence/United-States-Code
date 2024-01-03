@@ -18,7 +18,7 @@ The Secretary shall prepare and prescribe a single application form which—
 
 &emsp;&emsp;(B) the institution to maintain a copy of any contract with a financial aid service provider or loan servicer, and provide a copy of any such contract to the Secretary upon request;
 
-&emsp;(4) requires such other information as the Secretary determines will ensure compliancewith the requirements of this subchapter with respect to eligibility, accreditation, administrative capability and financial responsibility; and
+&emsp;(4) requires such other information as the Secretary determines will ensure compliance with the requirements of this subchapter with respect to eligibility, accreditation, administrative capability and financial responsibility; and
 
 &emsp;(5) provides, at the option of the institution, for participation in one or more of the programs under part B or D.
 
@@ -32,7 +32,7 @@ The Secretary shall prepare and prescribe a single application form which—
 
 &emsp;(C) to meet all of its financial obligations, including (but not limited to) refunds of institutional charges and repayments to the Secretary for liabilities and debts incurred in programs administered by the Secretary.
 
-(2) Notwithstanding paragraph (1), if an institution fails to meet criteria prescribed by the Secretary regarding ratios that demonstrate financial responsibility, then the institution shall provide the Secretary with satisfactory evidence of its financial responsibility in accordance with paragraph (3). Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for-profit, public, and nonprofit institutions. The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required.
+(2) Notwithstanding paragraph (1), if an institution fails to meet criteria prescribed by theSecretary regarding ratios that demonstrate financial responsibility, then the institution shall provide the Secretary with satisfactory evidence of its financial responsibility in accordance with paragraph (3). Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for-profit, public, and nonprofit institutions. The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required.
 
 (3) The Secretary shall determine an institution to be financially responsible, notwithstanding the institution's failure to meet the criteria under paragraphs (1) and (2), if—
 
@@ -134,7 +134,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (1) General rule
 
-&emsp;After the expiration of the certification of any institution under the schedule prescribed under this section (as this section was in effect prior to October 7, 1998), or upon request for initial certification from an institution not previously certified, the Secretary may certify the eligibility for the purposes of any program authorized under this subchapter ofeach such institution for a period not to exceed 6 years.
+&emsp;After the expiration of the certification of any institution under the schedule prescribed under this section (as this section was in effect prior to October 7, 1998), or upon request for initial certification from an institution not previously certified, the Secretary may certify the eligibility for the purposes of any program authorized under this subchapter of each such institution for a period not to exceed 6 years.
 
 #### (2) Notification
 
@@ -210,7 +210,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 &emsp;&emsp;(B) to assume the liabilities of the closed institution.
 
-(Pub. L. 89–329, title IV, §498, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 647; amended Pub. L. 103–208, §2(i)(9)–(14), Dec. 20, 1993, 107 Stat. 2479, 2480; Pub. L. 105–244, title I, §102(a)(6)(B), (b)(6), (7), title IV, §493(a)–(c)(1), (d)–(h), Oct. 7, 1998, 112 Stat. 1618, 1622, 1761–1763; Pub. L. 110–315, title IV, §496, Aug. 14, 2008, 122 Stat. 3327; Pub. L. 111–39, title IV, §408(2), July 1, 2009, 123 Stat. 1953.)
+(Pub. L. 89–329, title IV, §498, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 647;amended Pub. L. 103–208, §2(i)(9)–(14), Dec. 20, 1993, 107 Stat. 2479, 2480; Pub. L. 105–244, title I, §102(a)(6)(B), (b)(6), (7), title IV, §493(a)–(c)(1), (d)–(h), Oct. 7, 1998, 112 Stat. 1618, 1622, 1761–1763; Pub. L. 110–315, title IV, §496, Aug. 14, 2008, 122 Stat. 3327; Pub. L. 111–39, title IV, §408(2), July 1, 2009, 123 Stat. 1953.)
 
 #### <b>Editorial Notes</b>
 

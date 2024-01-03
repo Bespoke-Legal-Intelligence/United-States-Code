@@ -22,7 +22,7 @@ In this section:
 
 #### (5) Project study
 
-&emsp;The term "project study" means a feasibility study for a project carried out pursuantto section 2282 of this title for which a categorical exclusion may apply, or an environmental assessment or an environmental impact statement is required, pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+&emsp;The term "project study" means a feasibility study for a project carried out pursuant to section 2282 of this title for which a categorical exclusion may apply, or an environmental assessment or an environmental impact statement is required, pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 #### (b) Reports
 
@@ -62,7 +62,7 @@ In this section:
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(5), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(5), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55\(§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Codification
 

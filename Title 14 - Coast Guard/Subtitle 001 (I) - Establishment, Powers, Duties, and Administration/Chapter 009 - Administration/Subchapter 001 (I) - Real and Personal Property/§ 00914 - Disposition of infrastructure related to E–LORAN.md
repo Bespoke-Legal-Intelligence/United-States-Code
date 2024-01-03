@@ -30,7 +30,7 @@ Exception.—The prohibition on actions in subsection (b) does not apply to acti
 
 #### Amendments
 
-<b>2022</b>—Pub. L. 117–263 amended section generally. Prior to amendment, section related to disposition of infrastructure related to E–LORAN, comprised of subsecs. (a) to (c).
+<b>2022</b>—Pub. L. 117–263 amended section generally. Prior to amendment, section related to disposition of infrastructure related to E–LORAN and comprised of subsecs. (a) to (c).
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §8216(1), substituted "later of the date of the conveyance of the properties directed under section 533(a) of the Coast Guard Authorization Act of 2016 (Public Law 114–120) or the date" for "date".
 

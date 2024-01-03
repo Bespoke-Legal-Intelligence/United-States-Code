@@ -658,7 +658,7 @@ In this title the following definitions shall apply:
 
 &emsp;(55) The term "United States", when used in a geographical sense, includes all locations where the judicial jurisdiction of the United States extends, including territories and possessions of the United States.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394; Pub. L. 109–8, title I, §102(b), (k), title II, §§211, 226(a), 231(b), title III, §306(c), title IV, §§401(a), 414, 432(a), title VIII, §802(b), title IX, §907(a)(1), (b), (c), title X, §§1004, 1005, 1007(a), title XI, §1101(a), (b), title XII, §1201, Apr. 20, 2005, 119 Stat. 32, 35, 50, 66, 73, 80, 104, 107, 110, 145, 170, 175, 186, 187, 189, 192; Pub. L. 109–390, §5(a)(1), Dec. 12, 2006, 120 Stat. 2695; Pub. L. 111–327, §2(a)(1), Dec. 22, 2010, 124 Stat. 3557; Pub. L. 116–51, §2, Aug. 23, 2019, 133 Stat. 1075; Pub. L. 116–52, §2, Aug. 23, 2019, 133 Stat. 1076; amended Pub. L. 116–54, §4(a)(1), Aug. 23, 2019, 133 Stat. 1085; Pub. L. 116–92, div. A, title XVII, §1736, Dec. 20, 2019, 133 Stat. 1819; Pub. L. 116–136, div. A, title I, §1113(a)(4)(A), (b)(1)(A), (2)(A)(i), Mar. 27, 2020, 134 Stat. 311, 312; Pub. L. 117–151, §2(a), June 21, 2022, 136 Stat. 1298.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394; Pub. L. 109–8, title I, §102(b), (k), title II, §§211, 226(a), 231(b), title III, §306(c), title IV, §§401(a), 414, 432(a), title VIII, §802(b), title IX, §907(a)(1), (b), (c), title X, §§1004, 1005, 1007(a), title XI, §1101(a), (b), title XII, §1201, Apr. 20, 2005, 119 Stat. 32, 35, 50, 66, 73, 80, 104, 107, 110, 145, 170, 175, 186, 187, 189, 192; Pub. L. 109–390, §5(a)(1), Dec. 12, 2006, 120 Stat. 2695; Pub. L. 111–327, §2(a)(1), Dec. 22, 2010, 124 Stat. 3557; Pub. L. 116–51, §2, Aug. 23, 2019, 133 Stat. 1075; Pub. L. 116–52, §2, Aug. 23, 2019, 133 Stat. 1076; Pub. L. 116–54, §4(a)(1), Aug. 23, 2019, 133 Stat. 1085; Pub. L. 116–92, div. A, title XVII, §1736, Dec. 20, 2019, 133 Stat. 1819; Pub. L. 116–136, div. A, title I, §1113(a)(4)(A), (b)(1)(A), (2)(A)(i), Mar. 27, 2020, 134 Stat. 311, 312; Pub. L. 117–151, §2(a), June 21, 2022, 136 Stat. 1298.)
 
 #### Historical and Revision Notes
 
@@ -1412,6 +1412,10 @@ Pub. L. 98–353, title III, §552, formerly §553, July 10, 1984, 98 Stat. 392,
 
 "(c) The amendments made by subtitle J \[enacting section 1113 of this title\], shall become effective as provided in section 541(c) \[set out as an Effective Date note under section 1113 of this title\]."
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 118–24, §1, Dec. 19, 2023, 137 Stat. 128, provided that: "This Act \[amending provisions set out as a note under section 707 of this title\] may be cited as the 'National Guard and Reservists Debt Relief Extension Act of 2023'."
+
 #### Short Title of 2022 Amendment
 
 Pub. L. 117–151, §1, June 21, 2022, 136 Stat. 1298, provided that: "This Act \[amending this section, sections 104, 109, 1182, 1183, and 1191 of this title, and section 589a of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section, sections 104 and 109 of this title, and section 589a of Title 28\] may be cited as the 'Bankruptcy Threshold Adjustment and Technical Corrections Act'."
@@ -1464,11 +1468,11 @@ Pub. L. 109–8, title III, §332(a), Apr. 20, 2005, 119 Stat. 103, provided tha
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–369, §1, Oct. 25, 2004, 118 Stat. 1749, provided that: "This Act \[amending sections 1201 to 1208 and 1221 to 1231 of this title and enacting and amending provisions set out as notes under section 1201 of this title\] may be cited as the 'Family Farmer Bankruptcy Relief Act of 2004'."
+Pub. L. 108–369, §1, Oct. 25, 2004, 118 Stat. 1749, provided that: "This Act \[amending sections 1201 to 1208and 1221 to 1231 of this title and enacting and amending provisions set out as notes under section 1201 of this title\] may be cited as the 'Family Farmer Bankruptcy Relief Act of 2004'."
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–73, §1, Aug. 15, 2003, 117 Stat. 891, provided that: "This Act \[amending sections 1201 to 1208 and 1221to 1231 of this title and enacting and amending provisions set out as notes under section 1201 of this title\] may be cited as the 'Family Farmer Bankruptcy Relief Act of 2003'."
+Pub. L. 108–73, §1, Aug. 15, 2003, 117 Stat. 891, provided that: "This Act \[amending sections 1201 to 1208 and 1221 to 1231 of this title and enacting and amending provisions set out as notes under section 1201 of this title\] may be cited as the 'Family Farmer Bankruptcy Relief Act of 2003'."
 
 #### Short Title of 2002 Amendment
 
@@ -1530,7 +1534,7 @@ By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in par. (3),
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in par. (3), dollar amount "186,825" was adjusted to "192,450"; in par. (18), dollar amount "4,031,575" was adjusted to "4,153,150" each time it appeared; in par. (19A), dollar amount "1,868,200" was adjusted to "1,924,550" each time it appeared; and, in par. (51D), dollar amount "2,490,925" was adjusted to "2,566,050" each time it appeared.
 
-By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in par. (3), dollar amount "175,750" was adjusted to "186,825"; in par. (18), dollar amount"3,792,650" was adjusted to "4,031,575" each time it appeared; in par. (19A), dollar amount "1,757,475" was adjusted to "1,868,200" each time it appeared; and, in par. (51D), dollar amount "2,343,300" was adjusted to "2,490,925" each time it appeared.
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in par. (3), dollar amount "175,750" was adjusted to "186,825"; in par. (18), dollar amount "3,792,650" was adjusted to "4,031,575" each time it appeared; in par. (19A), dollar amount "1,757,475" was adjusted to "1,868,200" each time it appeared; and, in par. (51D), dollar amount "2,343,300" was adjusted to "2,490,925" each time it appeared.
 
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in par. (3), dollar amount "164,250" was adjusted to "175,750"; in par. (18)(A), (B)(ii), dollar amount "3,544,525" was adjusted to "3,792,650" each time it appeared; in par. (19A)(A)(i), (B)(ii)(II), dollar amount "1,642,500" was adjusted to "1,757,475" each time it appeared; and, in par. (51D)(A), (B), dollar amount "2,190,000" was adjusted to "2,343,300" each time it appeared.
 

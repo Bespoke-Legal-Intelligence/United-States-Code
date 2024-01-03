@@ -8,7 +8,7 @@
 
 #### (2) Official bilateral and commercial debt service payment relief
 
-&emsp;The Secretary of the Treasury, working in coordination with the Secretary of State, shall commence immediate efforts with other governments and commercial creditor groups,through the Paris Club of Official Creditors and other bilateral and multilateral frameworks, both formal and informal, to pursue comprehensive debt payment relief for Ukraine.
+&emsp;The Secretary of the Treasury, working in coordination with the Secretary of State, shall commence immediate efforts with other governments and commercial creditor groups, through the Paris Club of Official Creditors and other bilateral and multilateral frameworks, both formal and informal, to pursue comprehensive debt payment relief for Ukraine.
 
 #### (3) Multilateral financial support for Ukraine
 

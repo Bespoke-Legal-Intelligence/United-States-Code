@@ -56,7 +56,7 @@ Section 4618 of title 50, referred to in subsec. (d)(2), was repealed by Pub. L.
 
 #### Delegation of Functions
 
-For delegation of functions of President under subsec. (b) of this section to the Secretary of State and the Secretary of the Treasury, see section 1(e)(iii) of Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50052, set out in a note under section 9403 of this title.
+For delegation of functions of President under subsec. (b) of this section to the Secretary of State and theSecretary of the Treasury, see section 1(e)(iii) of Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50052, set out in a note under section 9403 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

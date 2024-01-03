@@ -34,7 +34,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (ii) Special continuation and transition rule
 
-&emsp;&emsp;&emsp;If a State that applied for and received an allotment under this section for fiscal year 2010 pursuant to subsection (j) meets the specifications established in the State's application under subsection (c) for fiscal year 2011, then the Secretary shall make an allotment to such State for fiscal year 2011 that is not less than the allotment made pursuant to subsection (j) to such State for fiscal year 2010 under this section (as this section was in effect on the day before August 14, 2008).
+&emsp;&emsp;&emsp;If a State that applied for and received an allotment under this section for fiscalyear 2010 pursuant to subsection (j) meets the specifications established in the State's application under subsection (c) for fiscal year 2011, then the Secretary shall make an allotment to such State for fiscal year 2011 that is not less than the allotment made pursuant to subsection (j) to such State for fiscal year 2010 under this section (as this section was in effect on the day before August 14, 2008).
 
 #### (iii) Priority
 
@@ -108,7 +108,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;&emsp;(vi) A description of the steps the State will take to ensure that students who receive grants under this section persist to degree completion.
 
-&emsp;&emsp;&emsp;(vii) An assurance that the State has a method in place, such as acceptance of the automatic zero expected family contribution determination described in section 1087ss(c) of this title, to identify eligible low-income students and award State grant aid to such students.
+&emsp;&emsp;&emsp;(vii) An assurance that the State has a method in place, such as acceptance of the automatic zero expected family contribution determination described in section1087ss(c) of this title, to identify eligible low-income students and award State grant aid to such students.
 
 &emsp;&emsp;&emsp;(viii) An assurance that the State will provide notification to eligible low-income students that grants under this section are—
 
@@ -200,7 +200,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (ii) Out-of-State institutions
 
-&emsp;&emsp;&emsp;If a State provides grants through another program under this subpart to students attending institutions of higher education located in another State, grants awarded under this section may be used at institutions of higher education located in another State.
+&emsp;&emsp;&emsp;If a State provides grants through another program under this subpart to students attending institutions of higher education located in another State, grantsawarded under this section may be used at institutions of higher education located in another State.
 
 #### (2) Early notification
 
@@ -234,7 +234,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) with respect to which attendance is permitted under subsection (d)(1)(C)(ii);
 
-&emsp;&emsp;&emsp;&emsp;(VI) information on any additional requirements (such as a student pledge detailing student responsibilities) that theState may impose for receipt of a grant for access and persistence under this section; and
+&emsp;&emsp;&emsp;&emsp;(VI) information on any additional requirements (such as a student pledge detailing student responsibilities) that the State may impose for receipt of a grant for access and persistence under this section; and
 
 &emsp;&emsp;&emsp;&emsp;(VII) instructions on how to apply for a grant for access and persistence and an explanation that a student is required to file a Free Application for Federal Student Aid authorized under section 1090(a) of this title to be eligible for such grant and assistance from other Federal and State financial aid programs; and
 
@@ -346,5 +346,5 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date
 
-Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244,set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 

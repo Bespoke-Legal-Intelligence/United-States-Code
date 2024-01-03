@@ -36,7 +36,7 @@
 
 (f) The Comptroller General of the United States may audit the financial statement prepared under subsection (e) at the discretion of the Comptroller General or at the request of the Joint Committee on Printing. An audit by the Comptroller General shall be in lieu of the audit otherwise required by that subsection.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1241; Pub. L. 93–604, title VII, §707, Jan. 2, 1975, 88 Stat. 1965; Pub. L. 97–258, §3(m)(2), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 100–458, title III, §310, Oct. 1, 1988, 102 Stat. 2184; Pub. L. 101–163, title III, §309, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 101–520, title II, §207, Nov. 5, 1990, 104 Stat. 2274; Pub. L. 103–69, title II, §207(a), Aug. 11, 1993, 107 Stat. 707; Pub. L. 104–316, title I, §123(a), Oct. 19, 1996, 110 Stat. 3839; Pub. L. 113–235, div. H, title I, §1301(b), (c)(1), (i)(5), Dec. 16, 2014, 128 Stat. 2537, 2538.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1241; Pub. L. 93–604, title VII, §707, Jan. 2, 1975, 88 Stat. 1965; Pub. L. 97–258, §3(m)(2), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 100–458, title III, §310, Oct. 1, 1988, 102 Stat. 2184; Pub. L. 101–163, title III, §309,Nov. 21, 1989, 103 Stat. 1065; Pub. L. 101–520, title II, §207, Nov. 5, 1990, 104 Stat. 2274; Pub. L. 103–69, title II, §207(a), Aug. 11, 1993, 107 Stat. 707; Pub. L. 104–316, title I, §123(a), Oct. 19, 1996, 110 Stat. 3839; Pub. L. 113–235, div. H, title I, §1301(b), (c)(1), (i)(5), Dec. 16, 2014, 128 Stat. 2537, 2538.)
 
 #### Historical and Revision Notes
 

@@ -8,7 +8,7 @@ For the purposes of this chapter the term—
 
 &emsp;(3) "interstate off-track wager" means a legal wager placed or accepted in one State with respect to the outcome of a horserace taking place in another State and includes pari-mutuel wagers, where lawful in each State involved, placed or transmitted by an individual in one State via telephone or other electronic media and accepted by an off-track betting system in the same or another State, as well as the combination of any pari-mutuel wagering pools;
 
-&emsp;(4) "on-track wager" means a wager with respect to the outcome of a horserace which isplaced at the racetrack at which such horse- race takes place;
+&emsp;(4) "on-track wager" means a wager with respect to the outcome of a horserace which is placed at the racetrack at which such horse- race takes place;
 
 &emsp;(5) "host State" means the State in which the horserace subject to the interstate wager takes place;
 

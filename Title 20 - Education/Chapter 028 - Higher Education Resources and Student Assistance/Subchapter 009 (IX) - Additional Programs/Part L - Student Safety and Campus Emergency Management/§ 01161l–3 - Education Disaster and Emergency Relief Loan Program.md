@@ -6,7 +6,7 @@ The Secretary, in consultation with the Secretary of Homeland Security, is autho
 
 #### (b) Use of assistance
 
-The Secretary shall, subject to the availability of appropriations, provide loans under this section to institutions of higher education after the declaration of a major disaster or emergency by the President. Loan funds provided under this section may be used for construction, replacement, renovation, and operations costs resulting from a major disaster or emergency declared by the President.
+The Secretary shall, subject to the availability of appropriations, provide loans underthis section to institutions of higher education after the declaration of a major disaster or emergency by the President. Loan funds provided under this section may be used for construction, replacement, renovation, and operations costs resulting from a major disaster or emergency declared by the President.
 
 #### (c) Application requirements
 
@@ -62,7 +62,7 @@ In this section:
 
 #### (2) Area affected by a Gulf hurricane disaster; Gulf hurricane disaster
 
-&emsp;The terms "area affected by a Gulf hurricane disaster" and "Gulf hurricane disaster" have the meanings given such terms in section209 of the Higher Education Hurricane Relief Act of 2005 (Public Law 109–148, 119 Stat. 2808).
+&emsp;The terms "area affected by a Gulf hurricane disaster" and "Gulf hurricane disaster" have the meanings given such terms in section 209 of the Higher Education Hurricane Relief Act of 2005 (Public Law 109–148, 119 Stat. 2808).
 
 #### (3) Emergency
 

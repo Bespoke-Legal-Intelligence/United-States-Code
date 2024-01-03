@@ -2,7 +2,7 @@
 
 #### (a) Study
 
-The Federal Trade Commission shall undertake a study to examine the strength of competition in the sale of prescription contact lenses. The study shall include an examination of the following issues:
+The Federal Trade Commission shall undertake a study to examine the strength of competition in the sale of prescription contactlenses. The study shall include an examination of the following issues:
 
 &emsp;(1) Incidence of exclusive relationships between prescribers or sellers and contact lens manufacturers and the impact of such relationships on competition.
 

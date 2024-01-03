@@ -4,7 +4,7 @@
 
 The procedural safeguards required to be included in a statewide system under section 1435(a)(13) of this title shall provide, at a minimum, the following:
 
-&emsp;(1) The timely administrative resolution of complaints by parents. Any party aggrieved by the findings and decision regarding an administrative complaint shall have the right to bring a civil action with respect to the complaint in any State court of competent jurisdiction or in a district court of the United States without regard to the amount in controversy. In any action brought under this paragraph, the court shall receive the records of the administrative proceedings, shall hear additional evidence at the request of a party, and, basing its decision on the preponderance of the evidence, shall grant such relief as the court determines is appropriate.
+&emsp;(1) The timely administrative resolution of complaints by parents. Any party aggrieved by the findings and decision regarding an administrative complaint shall have the right to bring a civil action with respect to the complaint in any State court of competent jurisdiction or in a district court of the United States without regard to the amount in controversy. In any action brought under this paragraph, the court shall receive the records of the administrative proceedings, shall hear additional evidence at the request of a party,and, basing its decision on the preponderance of the evidence, shall grant such relief as the court determines is appropriate.
 
 &emsp;(2) The right to confidentiality of personally identifiable information, including the right of parents to written notice of and written consent to the exchange of such information among agencies consistent with Federal and State law.
 

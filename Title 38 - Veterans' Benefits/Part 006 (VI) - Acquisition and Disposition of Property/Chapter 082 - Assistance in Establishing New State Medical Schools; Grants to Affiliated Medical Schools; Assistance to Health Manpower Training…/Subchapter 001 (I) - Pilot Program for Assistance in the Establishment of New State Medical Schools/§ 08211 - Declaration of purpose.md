@@ -2,7 +2,7 @@
 
 The purpose of this subchapter is to authorize the Secretary to implement a pilot program under which the Secretary may provide assistance in the establishment of new State medical schools at colleges or universities which are primarily supported by the States in which they are located if such schools are located in proximity to, and operated in conjunction with, Department medical facilities.
 
-(Added Pub. L. 92–541, §2(a), Oct. 24, 1972, 86 Stat. 1102, §5071; amended Pub. L. 94–581, title II,§210(f)(2), Oct. 21, 1976, 90 Stat. 2865; renumbered §8211, Pub. L. 102–40, title IV, §402(b)(2)(B), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 92–541, §2(a), Oct. 24, 1972, 86 Stat. 1102, §5071; amended Pub. L. 94–581, title II, §210(f)(2), Oct. 21, 1976, 90 Stat. 2865; renumbered §8211, Pub. L. 102–40, title IV, §402(b)(2)(B), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 #### <b>Editorial Notes</b>
 

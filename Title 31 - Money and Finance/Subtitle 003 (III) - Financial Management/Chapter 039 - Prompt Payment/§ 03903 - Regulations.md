@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) except as provided in paragraphs (10) and (11), 30 days after a proper invoice for the amount due is received if a specific payment date is not established by contract;
 
-&emsp;(2) for the acquisition of meat or a meat food product (as defined in section 2(a)(3) of the Packers and Stockyards Act, 1921 (7 U.S.C. 182(3))), including any edible fresh or frozen poultry meat, any perishable poultry meat food product, fresh eggs, and any perishable egg product, or of fresh or frozen fish (as defined in section 204(3) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4003(3)), provide a required payment date of not later than 7 days after the meat, meat food product, or fish is delivered; and
+&emsp;(2) for the acquisition of meat or a meat food product (as defined in section 2(a)(3) of thePackers and Stockyards Act, 1921 (7 U.S.C. 182(3))), including any edible fresh or frozen poultry meat, any perishable poultry meat food product, fresh eggs, and any perishable egg product, or of fresh or frozen fish (as defined in section 204(3) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4003(3)), provide a required payment date of not later than 7 days after the meat, meat food product, or fish is delivered; and
 
 &emsp;(3) for the acquisition of a perishable agricultural commodity (as defined in section 1(4) <sup>1</sup> of the Perishable Agricultural Commodities Act, 1930 (7 U.S.C. 499a(4))), provide a required payment date consistent with that Act;
 

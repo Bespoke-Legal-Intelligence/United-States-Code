@@ -12,7 +12,7 @@ The Interagency Environment Committee shall carry out monitoring actions, which 
 
 &emsp;&emsp;(A) shall review the factual record; and
 
-&emsp;&emsp;(B) may, based on findings of the review under subparagraph (A) that the USMCA country is not in compliance with its environmental obligations, request enforcement actions under section 4714 of this title with respect to the USMCA country.
+&emsp;&emsp;(B) may, based on findings of the review under subparagraph (A) that the USMCAcountry is not in compliance with its environmental obligations, request enforcement actions under section 4714 of this title with respect to the USMCA country.
 
 #### (2) Written justification
 

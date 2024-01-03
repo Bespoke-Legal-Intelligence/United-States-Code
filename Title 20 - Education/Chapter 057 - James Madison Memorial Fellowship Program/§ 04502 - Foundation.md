@@ -18,7 +18,7 @@ In order to commemorate the bicentennial of the Constitution, there is establish
 
 &emsp;(E) The Secretary of Education or his designate shall serve ex officio as a member of the Board, but shall not be eligible to serve as Chairman.
 
-(2) The term of office of each member of the Board shall be six years; except that (A) the members first taking office shall serve as designated by the President, four for terms of two years, five for terms of four years, and four for terms of six years, and (B) any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed, and shall be appointed in thesame manner as the original appointment for that vacancy was made. This provision shall not apply to members ex officio.
+(2) The term of office of each member of the Board shall be six years; except that (A) the members first taking office shall serve as designated by the President, four for terms of two years, five for terms of four years, and four for terms of six years, and (B) any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed, and shall be appointed in the same manner as the original appointment for that vacancy was made. This provision shall not apply to members ex officio.
 
 (3) A member of the Board whose term has expired may continue to serve until the earlier of—
 
@@ -36,7 +36,7 @@ Members of the Board shall elect from the members of the Board a Chairman and su
 
 (2) Members of the Board and the President, Executive Secretary, and other personnel of the Foundation shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties at rates applicable to judges of the United States under section 456(a) of title 28.
 
-(Pub. L. 99–500, §101(b) \[title VIII, §803\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–76, and Pub. L. 99–591, §101(b) \[title VIII, §803\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–76; Pub. L. 101–208, §1, Dec. 7, 1989, 103 Stat. 1836; Pub. L. 102–221, §1(1), Dec. 11, 1991, 105 Stat. 1676.)
+(Pub. L. 99–500, §101(b) \[title VIII, §803\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–76, and Pub. L. 99–591,§101(b) \[title VIII, §803\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–76; Pub. L. 101–208, §1, Dec. 7, 1989, 103 Stat. 1836; Pub. L. 102–221, §1(1), Dec. 11, 1991, 105 Stat. 1676.)
 
 #### <b>Editorial Notes</b>
 

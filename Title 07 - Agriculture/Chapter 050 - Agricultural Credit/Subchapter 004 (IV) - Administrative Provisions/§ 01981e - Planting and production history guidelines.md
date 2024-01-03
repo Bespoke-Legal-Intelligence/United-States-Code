@@ -48,7 +48,7 @@ Pub. L. 102–237, title V, §501(d)(3), Dec. 13, 1991, 105 Stat. 1867, provided
 
 "(A)
 
-In general.—Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall become effective on thedate of publication of the interim regulations issued pursuant to paragraph (2)(A) \[set out below\].
+In general.—Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall become effective on the date of publication of the interim regulations issued pursuant to paragraph (2)(A) \[set out below\].
 
 "(B)
 

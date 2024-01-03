@@ -8,7 +8,7 @@ In General.—In order to ensure that unenhanced data from the Landsat system re
 
 Authority of Secretary.—Subject to subsection (d), the Secretary may impose any of the enforcement mechanisms described in subsection (c) against a person that—
 
-&emsp;(1) receives unenhanced data from the Landsat system under this chapter solely for noncommercial purposes (and at a different price than the price at which such data are made available for other purposes); and
+&emsp;(1) receives unenhanced data from the Landsat system under this chapter solely fornoncommercial purposes (and at a different price than the price at which such data are made available for other purposes); and
 
 &emsp;(2) uses such data for other than noncommercial purposes.
 

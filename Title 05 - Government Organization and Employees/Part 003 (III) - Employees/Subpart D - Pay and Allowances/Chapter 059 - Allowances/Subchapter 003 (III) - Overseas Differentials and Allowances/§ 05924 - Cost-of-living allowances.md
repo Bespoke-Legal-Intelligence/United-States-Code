@@ -6,9 +6,9 @@ The following cost-of-living allowances may be granted, when applicable, to an e
 
 &emsp;(2) A transfer allowance for extraordinary, necessary, and reasonable subsistence and other relocation expenses (including unavoidable lease penalties), not otherwise compensated for, incurred by an employee incident to establishing himself at a post of assignment in—
 
-&emsp;&emsp;(A) a foreign area (including costs incurred in the United States, its territories or possessions, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements prior to departure for a post of assignment in a foreign area); or
+&emsp;&emsp;(A) a foreign area (including costs incurred in the United States, its territories or possessions, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or the areas and installations in theRepublic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements prior to departure for a post of assignment in a foreign area); or
 
-&emsp;&emsp;(B) the United States after the employee agrees in writing to remain in Governmentservice for 12 months after transfer, unless separated for reasons beyond the control of the employee that are acceptable to the agency concerned.
+&emsp;&emsp;(B) the United States after the employee agrees in writing to remain in Government service for 12 months after transfer, unless separated for reasons beyond the control of the employee that are acceptable to the agency concerned.
 
 &emsp;(3) A separate maintenance allowance to assist an employee who is compelled or authorized, because of dangerous, notably unhealthful, or excessively adverse living conditions at the employee's post of assignment in a foreign area, or for the convenience of the Government, or who requests such an allowance because of special needs or hardship involving the employee or the employee's spouse or dependents, to meet the additional expenses of maintaining, elsewhere than at the post, the employee's spouse or dependents, or both.
 
@@ -52,7 +52,7 @@ The Individuals with Disabilities Education Act, referred to in par. (4)(A), is 
 
 <b>2007</b>—Par. (4)(A). Pub. L. 109–472, §3(1), inserted "United States" after "nearest" in first sentence.
 
-Par. (4)(B). Pub. L. 109–472, §3(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to educational travel expenses of dependents of an employee.
+Par. (4)(B). Pub. L. 109–472, §3(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) related toeducational travel expenses of dependents of an employee.
 
 Par. (4)(D). Pub. L. 109–472, §3(3), added subpar. (D).
 

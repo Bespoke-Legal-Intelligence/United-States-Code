@@ -76,7 +76,7 @@ The Secretary shall require the inspection of all intact and nonintact interior 
 
 #### (A) Abatement demonstration program
 
-&emsp;&emsp;In carrying out the requirements of this subsection with respect to single-family and multifamily properties owned by the Department of Housing and Urban Development and public housing, the Secretary shall utilize a sufficient variety of abatement methods in a sufficient number of areas and circumstances to demonstrate their relative cost-effectiveness and their applicability to various types of housing. For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c), including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437l <sup>1</sup> of this title.
+&emsp;&emsp;In carrying out the requirements of this subsection with respect to single-family and multifamily properties owned by the Department of Housing and Urban Development and public housing, the Secretary shall utilize a sufficient variety of abatement methods in a sufficient number of areas and circumstances to demonstrate their relative cost-effectiveness and their applicability to various types of housing. For purposes of the demonstration, a public housing agency mayelect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c), including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437l <sup>1</sup> of this title.
 
 #### (B) Report
 
@@ -108,7 +108,7 @@ The Secretary shall require the inspection of all intact and nonintact interior 
 
 #### (B) Schedule
 
-&emsp;&emsp;The Secretary shall require the inspection of all housing subject to this paragraph prior to the expiration of 5 years after the report is required to be transmitted under paragraph (2)(B). The Secretary may prioritize, within such 5-year period, inspections on the basis of vacancy, age of housing, or projected modernization or rehabilitation. TheSecretary shall require abatement and final inspection and certification of such housing in accordance with the last two sentences of paragraph (1).
+&emsp;&emsp;The Secretary shall require the inspection of all housing subject to this paragraph prior to the expiration of 5 years after the report is required to be transmitted under paragraph (2)(B). The Secretary may prioritize, within such 5-year period, inspections on the basis of vacancy, age of housing, or projected modernization or rehabilitation. The Secretary shall require abatement and final inspection and certification of such housing in accordance with the last two sentences of paragraph (1).
 
 #### (4) Report required
 
@@ -182,7 +182,7 @@ Subsec. (d)(1). Pub. L. 100–628, §1088(a), substituted "Transitional testing 
 
 Subsec. (d)(2). Pub. L. 100–628, §1088(b)(1), substituted "Abatement demonstration program" for "HUD-owned properties" in heading.
 
-Subsec. (d)(2)(A). Pub. L. 100–628, §1088(b)(2), inserted "and public housing" after "Urban Development", and inserted at end "For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c), including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437l of this title."
+Subsec. (d)(2)(A). Pub. L. 100–628, §1088(b)(2), inserted "and public housing" after "Urban Development", and inserted at end "For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c), including the abatement of lead-based paintand dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437l of this title."
 
 Subsec. (d)(2)(B). Pub. L. 100–628, §1088(b)(3), in introductory provisions, inserted after first sentence "Based on the demonstration, the Secretary shall prepare and include in the report a comprehensive and workable plan for the cost-effective inspection and abatement of public housing in accordance with paragraph (3), including an estimate of the total cost of abatement in accordance with paragraph (3)(B)."
 

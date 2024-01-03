@@ -76,7 +76,7 @@ Briefing on the Pilot Program.—Not later than 180 days after the date of the e
 
 "(f)
 
-Report on the Pilot Program.—Not later than 180 days before the last day of the period specified in subsection (b), the Assistant Secretary shall submit to the appropriate congressional committees, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Reform of the House of Representatives, and the Director of National Intelligence a report on the effectiveness of the pilot program required by subsection (a) and recommendations as to whether such pilot program should be extended, modified, or ended.
+Report on the Pilot Program.—Not later than 180 days before the last day of the period specified in subsection (b), the Assistant Secretary shall submit to the appropriate congressional committees, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, and the Director of National Intelligence a report on the effectiveness of the pilot program required by subsection (a) and recommendations as to whether such pilot program should be extended, modified, or ended.
 
 "(g)
 

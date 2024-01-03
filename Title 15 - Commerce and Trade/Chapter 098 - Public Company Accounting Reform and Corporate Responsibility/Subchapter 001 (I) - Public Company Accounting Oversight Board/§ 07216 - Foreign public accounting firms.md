@@ -48,7 +48,7 @@ A willful refusal to comply, in whole in or in part, with any request by the Com
 
 #### (f) Other means of satisfying production obligations
 
-Notwithstanding any other provisions of this section, the staff of the Commission or the Board may allow a foreign public accounting firm that is subject to this section to meet production obligations under this section through alternate means, such as through foreign counterparts of the Commission or the Board.
+Notwithstanding any other provisions of this section, the staff of the Commission or theBoard may allow a foreign public accounting firm that is subject to this section to meet production obligations under this section through alternate means, such as through foreign counterparts of the Commission or the Board.
 
 #### (g) Definition
 
@@ -60,7 +60,7 @@ In this section, the term "foreign public accounting firm" means a public accoun
 
 #### References in Text
 
-This Act, referred to in subsecs. (a), (c), and (e), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as theSarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a), (c), and (e), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

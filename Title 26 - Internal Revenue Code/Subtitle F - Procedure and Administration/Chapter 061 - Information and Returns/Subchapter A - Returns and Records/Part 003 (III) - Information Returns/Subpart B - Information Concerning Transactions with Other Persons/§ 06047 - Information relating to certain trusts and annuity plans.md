@@ -32,7 +32,7 @@ To the extent provided by regulations prescribed by the Secretary, the provision
 
 #### (2) Form, etc., of reports
 
-&emsp;Such reports shall be in such form, made at such time, and contain such information as the Secretary may prescribe by forms or regulations.
+&emsp;Such reports shall be in such form, made at such time, and contain such information asthe Secretary may prescribe by forms or regulations.
 
 #### (e) Employee stock ownership plans
 
@@ -46,7 +46,7 @@ The Secretary shall require—
 
 #### (f) Designated Roth contributions
 
-The Secretary shall require the plan administrator of each applicable retirement plan (as defined in section 402A) to make such returns andreports regarding designated Roth contributions (as defined in section 402A) to the Secretary, participants and beneficiaries of the plan, and such other persons as the Secretary may prescribe.
+The Secretary shall require the plan administrator of each applicable retirement plan (as defined in section 402A) to make such returns and reports regarding designated Roth contributions (as defined in section 402A) to the Secretary, participants and beneficiaries of the plan, and such other persons as the Secretary may prescribe.
 
 #### (g) Information relating to life insurance contract transactions
 

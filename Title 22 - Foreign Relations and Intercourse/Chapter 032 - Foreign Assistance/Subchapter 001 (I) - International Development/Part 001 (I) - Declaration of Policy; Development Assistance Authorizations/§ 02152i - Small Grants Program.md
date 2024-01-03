@@ -92,7 +92,7 @@ Pub. L. 114–113, div. K, title VII, §7034(q)(4), Dec. 18, 2015, 129 Stat. 276
 
 #### Definition of "USAID"
 
-Pub. L. 117–328, div. K, title VII, §7034(s)(6), Dec. 29, 2022, 136 Stat. 5036, provided that: "In this Act \[div. Kof Pub. L. 117–328, 136 Stat. 4974, see Tables for classification\], the term 'USAID' means the United States Agency for International Development."
+Pub. L. 117–328, div. K, title VII, §7034(s)(6), Dec. 29, 2022, 136 Stat. 5036, provided that: "In this Act \[div. K of Pub. L. 117–328, 136 Stat. 4974, see Tables for classification\], the term 'USAID' means the United States Agency for International Development."
 
 Similar provisions were contained in the following prior appropriations acts:
 

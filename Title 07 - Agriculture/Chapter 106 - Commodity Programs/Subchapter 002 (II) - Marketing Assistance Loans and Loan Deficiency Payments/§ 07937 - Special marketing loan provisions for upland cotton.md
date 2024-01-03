@@ -28,7 +28,7 @@
 
 #### (2) Quantity
 
-&emsp;The quota shall be equal to one week's consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the most recent three months for which data are available.
+&emsp;The quota shall be equal to one week's consumption of upland cotton by domestic millsat the seasonally adjusted average rate of the most recent three months for which data are available.
 
 #### (3) Application
 
@@ -70,7 +70,7 @@
 
 #### (B) Quantity if prior quota
 
-&emsp;&emsp;If a quota has been established under this subsection during the preceding 12 months, the quantity of the quota next establishedunder this subsection shall be the smaller of 21 days of domestic mill consumption calculated under subparagraph (A) or the quantity required to increase the supply to 130 percent of the demand.
+&emsp;&emsp;If a quota has been established under this subsection during the preceding 12 months, the quantity of the quota next established under this subsection shall be the smaller of 21 days of domestic mill consumption calculated under subparagraph (A) or the quantity required to increase the supply to 130 percent of the demand.
 
 #### (C) Preferential tariff treatment
 
@@ -128,7 +128,7 @@
 
 #### References in Text
 
-The Harmonized Tariff Schedule, referred to in subsecs. (b)(5)(D) and (c)(1)(C)(iv), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+The Harmonized Tariff Schedule, referred to in subsecs. (b)(5)(D) and (c)(1)(C)(iv), is not set out in theCode. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 #### Amendments
 

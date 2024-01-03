@@ -42,7 +42,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;&emsp;&emsp;(ii) not more than 10 percent of the students compensated through the institution's grant under this part during the academic year are employed in positions for which the Federal share exceeds 75 percent; and
 
-&emsp;&emsp;(B) the Federal share may exceed 75 percent if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;
+&emsp;&emsp;(B) the Federal share may exceed 75 percent if the Secretary determines, pursuantto regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;
 
 &emsp;(6) include provisions to make employment under such work-study program reasonably available (to the extent of available funds) to all eligible students in the institution in need thereof;
 
@@ -134,7 +134,7 @@ As part of its agreement agreement <sup>2</sup> described in subsection (b) of 
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(A)(ii), is Pub. L. 89–10,Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(A)(ii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Codification
 

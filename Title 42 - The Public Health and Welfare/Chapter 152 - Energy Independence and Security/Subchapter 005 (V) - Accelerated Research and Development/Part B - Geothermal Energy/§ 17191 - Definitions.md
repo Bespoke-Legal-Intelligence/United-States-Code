@@ -4,7 +4,7 @@ For purposes of this part:
 
 #### (1) Engineered
 
-&emsp;When referring to enhanced geothermal systems, the term "engineered" means designed to access subsurface heat, including stimulation and nonstimulation technologies to address one or more of the following issues:
+&emsp;When referring to enhanced geothermal systems, the term "engineered" means designedto access subsurface heat, including stimulation and nonstimulation technologies to address one or more of the following issues:
 
 &emsp;&emsp;(A) Lack of effective permeability, porosity or open fracture connectivity within the heat reservoir.
 

@@ -56,7 +56,7 @@ June 29, 1948, ch. 708, §§303 (less 1st 91 words, and less 1st proviso), 306 (
 
 The revised section consolidates provisions of 10:1036b and 1036e, and 34:440j and 440m, relating to the years of service that may be counted in determining retired pay for persons entitled to that pay under this chapter.
 
-Clause (1) is substituted for 10:1036b(i). In clause (3), the words "and proportionately for each fraction of a year" are inserted to make clear that parts of years must be counted. 10:1036e(d) and 34:440m(d) are omitted as covered by sections 101(22) and 101(24) of this title.
+Clause (1) is substituted for 10:1036b(i). In clause (3), the words "and proportionately for each fraction of ayear" are inserted to make clear that parts of years must be counted. 10:1036e(d) and 34:440m(d) are omitted as covered by sections 101(22) and 101(24) of this title.
 
 #### 1958 Act
 

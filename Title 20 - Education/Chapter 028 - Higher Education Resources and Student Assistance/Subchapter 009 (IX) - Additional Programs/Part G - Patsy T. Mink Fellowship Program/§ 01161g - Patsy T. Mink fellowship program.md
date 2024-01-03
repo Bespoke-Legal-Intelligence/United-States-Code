@@ -68,7 +68,7 @@ In this section, the term "eligible institution" means an institution of higher 
 
 #### (B) Special rule
 
-&emsp;&emsp;To the maximum extent practicable, the Secretary shall use not less than 30 percent of the amount appropriated pursuant to subsection (f) to award grants to eligible institutions that are eligible for assistance under subchapter III or subchapter V, or to consortia of eligible institutions that include at least one eligible institution that is eligible for assistance under subchapter III or subchapter V.
+&emsp;&emsp;To the maximum extent practicable, the Secretary shall use not less than 30 percentof the amount appropriated pursuant to subsection (f) to award grants to eligible institutions that are eligible for assistance under subchapter III or subchapter V, or to consortia of eligible institutions that include at least one eligible institution that is eligible for assistance under subchapter III or subchapter V.
 
 #### (C) Allocation
 

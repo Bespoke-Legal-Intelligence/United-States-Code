@@ -30,7 +30,7 @@ No Prospective Payment When Service in Navy.—No prospective payment shall be m
 
 Relationship to TRICARE.—This section shall not be construed to require a payment for, or the prospective payment of an amount that represents the value of, treatment or care provided under any TRICARE program.
 
-(Added Pub. L. 114–328, div. A, title VII, §722(a), Dec. 23, 2016, 130 Stat. 2228, §520; renumbered §506, Pub. L. 115–282, title I, §105(b), Dec. 4, 2018,132 Stat. 4200; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8513(a)(1), Jan. 1, 2021, 134 Stat. 4760.)
+(Added Pub. L. 114–328, div. A, title VII, §722(a), Dec. 23, 2016, 130 Stat. 2228, §520; renumbered §506, Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8513(a)(1), Jan. 1, 2021, 134 Stat. 4760.)
 
 #### <b>Editorial Notes</b>
 

@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;(2)(A) Any firm, or appropriate subdivision of a firm, that engages in exploration or drilling for oil or natural gas shall be considered to be a firm producing oil or natural gas.
 
-&emsp;(B) Any firm, or appropriate subdivision of a firm, that engages in exploration or drillingfor oil or natural gas, or otherwise produces oil or natural gas, shall be considered to be producing articles directly competitive with imports of oil and with imports of natural gas.
+&emsp;(B) Any firm, or appropriate subdivision of a firm, that engages in exploration or drilling for oil or natural gas, or otherwise produces oil or natural gas, shall be considered to be producing articles directly competitive with imports of oil and with imports of natural gas.
 
 &emsp;(3)
 
@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 112–40, §§211(a)(2), 233, temporarily redesignated subs
 
 Subsec. (c)(5). Pub. L. 112–40, §§211(a)(4), 233, temporarily struck out par. (5). Prior to amendment, text read as follows: "For purposes of subsection (a), the term 'firm' does not include a public agency." See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
-Subsec. (d). Pub. L. 112–40, §§211(a)(2), 233, temporarily redesignated subsec. (e) as (d). Former subsec. (d) temporarily redesignated (c). See Codification noteabove and Effective and Termination Dates of 2011 Revival note below.
+Subsec. (d). Pub. L. 112–40, §§211(a)(2), 233, temporarily redesignated subsec. (e) as (d). Former subsec. (d) temporarily redesignated (c). See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
 Subsec. (d)(2). Pub. L. 112–40, §§211(a)(5), 233, temporarily substituted "or (b)" for ", (b), or (c)" in introductory provisions. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
@@ -174,7 +174,7 @@ Subsec. (c)(3), (4). Pub. L. 107–210, §113(b)(2), added pars. (3) and (4).
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted "assistance under this subpart" for "assistance under this part".
 
-<b>1988</b>—Pub. L. 100–418, §1421(a)(1)(A), struck out last sentence which defined "contributed importantly" for purposes of par. (3), designated remaining provisions as subsec. (a), and added subsec. (b).
+<b>1988</b>—Pub. L. 100–418, §1421(a)(1)(A), struck out last sentence which defined "contributed importantly" forpurposes of par. (3), designated remaining provisions as subsec. (a), and added subsec. (b).
 
 Subsec. (a)(3). Pub. L. 100–418, §1421(b)(1), directed the general amendment of par. (3) adding provisions relating to provision of essential goods or services by such workers' firm, or appropriate subdivision thereof, which amendment did not become effective pursuant to section 1430(d) of Pub. L. 100–418, as amended, set out as an Effective Date note under section 2397 of this title.
 

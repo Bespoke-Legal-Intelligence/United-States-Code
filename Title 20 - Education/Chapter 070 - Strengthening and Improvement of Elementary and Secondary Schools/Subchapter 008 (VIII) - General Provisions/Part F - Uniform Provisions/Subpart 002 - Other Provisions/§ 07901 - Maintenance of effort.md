@@ -18,7 +18,7 @@ A local educational agency may receive funds under a covered program for any fis
 
 The Secretary may waive the requirements of this section if the Secretary determines that a waiver would be equitable due to—
 
-&emsp;(1) exceptional or uncontrollable circumstances, such as a natural disaster or a change in the organizational structure of the local educational agency; or
+&emsp;(1) exceptional or uncontrollable circumstances, such as a natural disaster or achange in the organizational structure of the local educational agency; or
 
 &emsp;(2) a precipitous decline in the financial resources of the local educational agency.
 

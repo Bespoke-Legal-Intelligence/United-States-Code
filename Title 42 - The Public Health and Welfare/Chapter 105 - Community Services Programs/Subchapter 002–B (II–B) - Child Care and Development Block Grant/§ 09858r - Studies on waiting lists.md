@@ -34,9 +34,3 @@ The Child Care and Development Block Grant Act of 1990, referred to in subsec. (
 
 Section was enacted as part of the Child Care and Development Block Grant Act of 2014, and not as part of the Child Care and Development Block Grant Act of 1990, which comprises this subchapter.
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Educationand Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-

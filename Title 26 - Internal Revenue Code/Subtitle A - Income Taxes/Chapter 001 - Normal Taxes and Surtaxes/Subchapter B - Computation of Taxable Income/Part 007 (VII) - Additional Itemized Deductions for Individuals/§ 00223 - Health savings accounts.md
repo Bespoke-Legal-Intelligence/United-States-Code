@@ -79,7 +79,7 @@ In the case of an individual who is an eligible individual for any month during 
 
 &emsp;&emsp;&emsp;(i) as having been an eligible individual during each of the months in such taxable year, and
 
-&emsp;&emsp;&emsp;(ii) as having been enrolled, during each of the months such individual is treated as an eligible individual solely by reason of clause (i), in the same high deductible health plan in which the individual was enrolled for the last month of such taxable year.
+&emsp;&emsp;&emsp;(ii) as having been enrolled, during each of the months such individual is treated as an eligible individual solely by reason of clause (i), in the same high deductible health plan in which the individual wasenrolled for the last month of such taxable year.
 
 #### (B) Failure to maintain high deductible health plan coverage
 
@@ -151,7 +151,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) twice the dollar amount in subclause (I) for family coverage, and
 
-&emsp;&emsp;&emsp;(ii) the sum of the annual deductible and the other annual out-of-pocket expenses required to be paid under the plan (otherthan for premiums) for covered benefits does not exceed—
+&emsp;&emsp;&emsp;(ii) the sum of the annual deductible and the other annual out-of-pocket expenses required to be paid under the plan (other than for premiums) for covered benefits does not exceed—
 
 &emsp;&emsp;&emsp;&emsp;(I) $5,000 for self-only coverage, and
 
@@ -349,7 +349,7 @@ For purposes of this section—
 
 #### (B) Exception for disability or death
 
-&emsp;&emsp;Subparagraph (A) shall not apply if the payment or distribution is made after the account beneficiary becomes disabled within the meaning of section 72(m)(7) or dies.
+&emsp;&emsp;Subparagraph (A) shall not apply if the payment or distribution is made after theaccount beneficiary becomes disabled within the meaning of section 72(m)(7) or dies.
 
 #### (C) Exception for distributions after medicare eligibility
 
@@ -425,7 +425,7 @@ For purposes of this section—
 
 The Secretary may require—
 
-&emsp;(1) the trustee of a health savings account to make such reports regarding such account to the Secretary and to the account beneficiary with respect to contributions, distributions, the return of excess contributions, and such other matters as the Secretary determines appropriate, and
+&emsp;(1) the trustee of a health savings account to make such reports regarding such account to the Secretary and to the account beneficiarywith respect to contributions, distributions, the return of excess contributions, and such other matters as the Secretary determines appropriate, and
 
 &emsp;(2) any person who provides an individual with a high deductible health plan to make such reports to the Secretary and to the account beneficiary with respect to such plan as the Secretary determines appropriate.
 

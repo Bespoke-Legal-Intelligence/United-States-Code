@@ -132,7 +132,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Beginning not later than October 1, 2018, for PAC providers described in clauses (ii), (iii), and (iv) of subsection (a)(2)(A) and January 1, 2019, for PAC providers described in clause (i) of such subsection, the Secretary shall require PAC providers to submit to the Secretary, under the applicable reporting provisions and through the use of PAC assessment instruments, the standardized patient assessment data described in subparagraph (B). The Secretary shall require such data be submitted with respect to admission and discharge of an individual (and may be submitted more frequently as the Secretary deems appropriate).
+&emsp;&emsp;Beginning not later than October 1, 2018, for PAC providers described in clauses (ii), (iii), and (iv) of subsection (a)(2)(A) and January 1, 2019, for PAC providers described inclause (i) of such subsection, the Secretary shall require PAC providers to submit to the Secretary, under the applicable reporting provisions and through the use of PAC assessment instruments, the standardized patient assessment data described in subparagraph (B). The Secretary shall require such data be submitted with respect to admission and discharge of an individual (and may be submitted more frequently as the Secretary deems appropriate).
 
 #### (B) Standardized patient assessment data described
 
@@ -166,7 +166,7 @@
 
 #### (1) Requirement for reporting quality measures
 
-&emsp;Not later than the specified application date, as applicable to measures and PAC providers, the Secretary shall specify quality measures on which PAC providers are required under the applicable reporting provisions to submit standardized patient assessment data described in subsection (b)(1) and other necessary data specified by the Secretary. Suchmeasures shall be with respect to at least the following domains:
+&emsp;Not later than the specified application date, as applicable to measures and PAC providers, the Secretary shall specify quality measures on which PAC providers are required under the applicable reporting provisions to submit standardized patient assessment data described in subsection (b)(1) and other necessary data specified by the Secretary. Such measures shall be with respect to at least the following domains:
 
 &emsp;&emsp;(A) Functional status, cognitive function, and changes in function and cognitive function.
 
@@ -248,7 +248,7 @@
 
 &emsp;&emsp;The initial implementation phase, with respect to such a measure, shall, in accordance with subsections (c) and (d), as applicable, consist of—
 
-&emsp;&emsp;&emsp;(i) measure specification, including informing the public of the measure's numerator, denominator, exclusions, and anyother aspects the Secretary determines necessary;
+&emsp;&emsp;&emsp;(i) measure specification, including informing the public of the measure's numerator, denominator, exclusions, and any other aspects the Secretary determines necessary;
 
 &emsp;&emsp;&emsp;(ii) data collection, including, in the case of quality measures, requiring PAC providers to report data elements needed to calculate such a measure; and
 
@@ -282,7 +282,7 @@
 
 #### (i) Expedited procedures
 
-&emsp;&emsp;&emsp;For purposes of satisfying subparagraph (A), the Secretary may use expedited procedures, such as ad-hoc reviews, as necessary, in the case of a quality measure specified under subsection (c) or a resource use or other measure specified in subsection (d) required with respect to data submissions under the applicable reporting provisions during the 1-year period before the specified application date applicable to such a measure and provider involved.
+&emsp;&emsp;&emsp;For purposes of satisfying subparagraph (A), the Secretary may use expedited procedures, such as ad-hoc reviews, as necessary, in the case of a quality measurespecified under subsection (c) or a resource use or other measure specified in subsection (d) required with respect to data submissions under the applicable reporting provisions during the 1-year period before the specified application date applicable to such a measure and provider involved.
 
 #### (ii) Option to waive provisions
 
@@ -384,7 +384,7 @@ Section 2(d) of the IMPACT Act of 2014, referred to in subsecs. (c)(3)(A) and (d
 
 #### Permitting Occupational Therapists To Conduct the Initial Assessment Visit and Complete the Comprehensive Assessment With Respect to Certain Rehabilitation Services for Home Health Agencies Under the Medicare Program
 
-Pub. L. 116–260, div. CC, title I, §115, Dec. 27, 2020, 134 Stat. 2948, provided that: "Not later than January 1, 2022, the Secretary of Health and Human Services shall revise subsections (a)(2) and (b)(3) of section 484.55 of title 42, Code of Federal Regulations, or a successor regulation, to permit an occupational therapist to conduct the initial assessment visit and to complete the comprehensive assessment (as such terms are describedin such subsections, respectively) for home health services for an individual under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) if the home health plan of care for such individual—
+Pub. L. 116–260, div. CC, title I, §115, Dec. 27, 2020, 134 Stat. 2948, provided that: "Not later than January 1, 2022, the Secretary of Health and Human Services shall revise subsections (a)(2) and (b)(3) of section 484.55 of title 42, Code of Federal Regulations, or a successor regulation, to permit an occupational therapist to conduct the initial assessment visit and to complete the comprehensive assessment (as such terms are described in such subsections, respectively) for home health services for an individual under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) if the home health plan of care for such individual—
 
 &emsp;"(1) does not initially include skilled nursing care;
 
@@ -426,7 +426,7 @@ Report.—Not later than 5 years after the date of the enactment of this Act, th
 
 &emsp;"(C)
 
-Examination of data in conducting studies.—In conducting the studies under subparagraphs (A) and (B), the Secretary shall examine what non-Medicare data sets, such as data from the American Community Survey (ACS), can be useful in conducting the types of studies under such paragraphs and how such data sets that are identified as useful can be coordinated with Medicare administrative data in order to improve the overall data set available to do such studies and for the administration of the Medicare program.
+Examination of data in conducting studies.—In conducting the studies under subparagraphs (A) and (B), the Secretary shall examine what non-Medicare data sets, such as data from the American Community Survey (ACS), can be useful in conducting the types of studies under such paragraphs and how suchdata sets that are identified as useful can be coordinated with Medicare administrative data in order to improve the overall data set available to do such studies and for the administration of the Medicare program.
 
 &emsp;"(D)
 

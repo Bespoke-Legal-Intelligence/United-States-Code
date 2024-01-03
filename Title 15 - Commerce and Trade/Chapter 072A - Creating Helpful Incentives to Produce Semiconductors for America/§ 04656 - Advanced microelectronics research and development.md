@@ -94,7 +94,7 @@
 
 #### (3) FACA exemption
 
-&emsp;Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) <sup>1</sup> shall not apply tothe advisory committee established under this subsection.
+&emsp;Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) <sup>1</sup> shall not apply to the advisory committee established under this subsection.
 
 #### (c) National semiconductor technology center
 

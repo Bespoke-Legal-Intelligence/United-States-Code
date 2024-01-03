@@ -4,7 +4,7 @@
 
 &emsp;(1) information on—
 
-&emsp;&emsp;(A) the total amount of loans and accounts receivable owed the agency and when amounts owed the agency are due to be repaid;
+&emsp;&emsp;(A) the total amount of loans and accounts receivable owed the agency and whenamounts owed the agency are due to be repaid;
 
 &emsp;&emsp;(B) the total amount of receivables and number of claims at least 30 days past due;
 

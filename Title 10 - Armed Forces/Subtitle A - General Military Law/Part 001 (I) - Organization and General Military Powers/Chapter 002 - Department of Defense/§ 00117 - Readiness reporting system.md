@@ -102,7 +102,7 @@ Subsec. (e). Pub. L. 115–91, §331(b)(2), substituted "semi-annually" for "eac
 
 <b>2013</b>—Subsec. (c)(8). Pub. L. 112–239 added par. (8).
 
-<b>2003</b>—Subsec. (e). Pub. L. 108–136 substituted "each quarter submit to the congressional defense committees a report in writing containing the results of the most recent joint readiness review under subsection (d)(1)(A)" for "each month submit to the Committee on Armed Services and the Committee on Appropriationsof the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report in writing containing the results of the most recent joint readiness review or monthly review conducted under subsection (d)".
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 substituted "each quarter submit to the congressional defense committees a report in writing containing the results of the most recent joint readiness review under subsection (d)(1)(A)" for "each month submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report in writing containing the results of the most recent joint readiness review or monthly review conducted under subsection (d)".
 
 <b>2000</b>—Subsec. (c)(7). Pub. L. 106–398 added par. (7).
 
@@ -188,7 +188,7 @@ Pub. L. 112–239, div. A, title XVI, §1601(a), Jan. 2, 2013, 126 Stat. 2062, p
 
 Pub. L. 112–239, div. A, title XVI, §1601(b), Jan. 2, 2013, 126 Stat. 2062, provided that: "The Department of Defense Strategic Readiness Fund established by section 872(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 117 note) \[formerly set out below\] is hereby closed."
 
-Pub. L. 110–181, div. A, title VIII, subtitle G, Jan. 28, 2008, 122 Stat. 260, which required Secretary of Defense to establish Defense Materiel Readiness Board to provide independent assessments of materiel readiness, materiel readiness shortfalls, and materiel readiness plans to Secretary of Defense and Congress; provided for designation of critical materiel readiness shortfalls; established Department of Defense Strategic Readiness Fund; and required Secretary of military departmentto notify Congress with respect to determination that use of a multiyear procurement contract would address a critical material readiness shortfall, was repealed by Pub. L. 112–239, div. A, title XVI, §1601(c), Jan. 2, 2013, 126 Stat. 2062.
+Pub. L. 110–181, div. A, title VIII, subtitle G, Jan. 28, 2008, 122 Stat. 260, which required Secretary of Defense to establish Defense Materiel Readiness Board to provide independent assessments of materiel readiness, materiel readiness shortfalls, and materiel readiness plans to Secretary of Defense and Congress; provided for designation of critical materiel readiness shortfalls; established Department of Defense Strategic Readiness Fund; and required Secretary of military department to notify Congress with respect to determination that use of a multiyear procurement contract would address a critical material readiness shortfall, was repealed by Pub. L. 112–239, div. A, title XVI, §1601(c), Jan. 2, 2013, 126 Stat. 2062.
 
 #### Implementation
 

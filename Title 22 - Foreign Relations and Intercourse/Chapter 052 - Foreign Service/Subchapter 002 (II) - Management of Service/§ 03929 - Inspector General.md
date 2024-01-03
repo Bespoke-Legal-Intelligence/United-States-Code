@@ -2,13 +2,13 @@
 
 #### (a) Appointment; supervision by Secretary of State; prohibition against interference by State Department with certain duties; inspections, audits, and other functions; removal from office
 
-(1) There shall be an Inspector General of the Department of State and the Foreign Service,who shall be appointed by the President, by and with the advice and consent of the Senate, without regard to political affiliation from among individuals exceptionally qualified for the position by virtue of their integrity and their demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations, or their knowledge and experience in the conduct of foreign affairs. The Inspector General shall report to and be under the general supervision of the Secretary of State. Neither the Secretary of State nor any other officer of the Department shall prevent or prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation, or from issuing any subpena during the course of any audit or investigation. The Inspector General shall periodically (at least every 5 years) inspect and audit the administration of activities and operations of each Foreign Service post and each bureau and other operating unit of the Department of State, and shall perform such other functions as the Secretary of State may prescribe, except that the Secretary of State shall not assign to the Inspector General any general program operating responsibilities.
+(1) There shall be an Inspector General of the Department of State and the Foreign Service, who shall be appointed by the President, by and with the advice and consent of the Senate, without regard to political affiliation from among individuals exceptionally qualified for the position by virtue of their integrity and their demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations, or their knowledge and experience in the conduct of foreign affairs. The Inspector General shall report to and be under the general supervision of the Secretary of State. Neither the Secretary of State nor any other officer of the Department shall prevent or prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation, or from issuing any subpena during the course of any audit or investigation. The Inspector General shall periodically (at least every 5 years) inspect and audit the administration of activities and operations of each Foreign Service post and each bureau and other operating unit of the Department of State, and shall perform such other functions as the Secretary of State may prescribe, except that the Secretary of State shall not assign to the Inspector General any general program operating responsibilities.
 
 (2) The Inspector General may be removed from office by the President. The President shall communicate the reasons for any such removal to both Houses of Congress.
 
 #### (b) Subject matter of inspections, investigations, and audits
 
-Inspections, investigations, and audits conducted by or under the direction of the Inspector General shall include the systematic review and evaluation of the administration of activities and operations of Foreign Service posts and bureaus and other operating units of the Department of State, including an examination of—
+Inspections, investigations, and audits conducted by or under the direction of the InspectorGeneral shall include the systematic review and evaluation of the administration of activities and operations of Foreign Service posts and bureaus and other operating units of the Department of State, including an examination of—
 
 &emsp;(1) whether financial transactions and accounts are properly conducted, maintained, and reported;
 
@@ -68,7 +68,7 @@ In general.—The head of a bureau, post, or other office of the Department of S
 
 &emsp;&emsp;(iii) criminal misconduct on the part of a Department employee; and
 
-&emsp;&emsp;(iv) serious, noncriminal misconduct on the part of any Department employee who isauthorized to carry a weapon, make arrests, or conduct searches, such as conduct that, if proved, would constitute perjury or material dishonesty, warrant suspension as discipline for a first offense, or result in loss of law enforcement authority.
+&emsp;&emsp;(iv) serious, noncriminal misconduct on the part of any Department employee who is authorized to carry a weapon, make arrests, or conduct searches, such as conduct that, if proved, would constitute perjury or material dishonesty, warrant suspension as discipline for a first offense, or result in loss of law enforcement authority.
 
 &emsp;(B)
 
@@ -112,7 +112,7 @@ Deadline.—The head of a Department entity shall submit to the Inspector Genera
 
 #### (f) Reception and investigation of complaints or information; disclosure of identity of informer
 
-(1) The Inspector General may receive and investigate complaints or information from a member of the Service or employee of the Department concerning the possible existence ofan activity constituting a violation of laws or regulations, constituting mismanagement, gross waste of funds, or abuse of authority, or constituting a substantial and specific danger to public health or safety.
+(1) The Inspector General may receive and investigate complaints or information from a member of the Service or employee of the Department concerning the possible existence of an activity constituting a violation of laws or regulations, constituting mismanagement, gross waste of funds, or abuse of authority, or constituting a substantial and specific danger to public health or safety.
 
 (2) The Inspector General shall not, after receipt of a complaint or information from a member of the Service or employee of the Department, disclose the identity of such individual without the consent of such individual, unless the Inspector General determines such disclosure is unavoidable during the course of the investigation.
 

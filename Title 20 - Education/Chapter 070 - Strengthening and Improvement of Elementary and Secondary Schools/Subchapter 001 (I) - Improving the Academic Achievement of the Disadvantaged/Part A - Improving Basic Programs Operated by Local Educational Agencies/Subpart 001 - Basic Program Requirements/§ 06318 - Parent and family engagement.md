@@ -32,7 +32,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each local educational agency shall reserve at least 1 percent of its allocation under subpart 2 to assist schools to carry out the activities described in this section, except that this subparagraph shall not apply if 1 percent of such agency's allocation under subpart 2 for the fiscal year for which the determination is made is $5,000 or less. Nothing in this subparagraph shall be construed to limit local educational agencies from reserving more than 1 percent of its allocation under subpart 2 to assist schools to carry out activities described in this section.
+&emsp;&emsp;Each local educational agency shall reserve at least 1 percent of its allocationunder subpart 2 to assist schools to carry out the activities described in this section, except that this subparagraph shall not apply if 1 percent of such agency's allocation under subpart 2 for the fiscal year for which the determination is made is $5,000 or less. Nothing in this subparagraph shall be construed to limit local educational agencies from reserving more than 1 percent of its allocation under subpart 2 to assist schools to carry out activities described in this section.
 
 #### (B) Parent and family member input
 
@@ -80,7 +80,7 @@ Each school served under this part shall—
 
 &emsp;(1) convene an annual meeting, at a convenient time, to which all parents of participating children shall be invited and encouraged to attend, to inform parents of their school's participation under this part and to explain the requirements of this part, and the right of the parents to be involved;
 
-&emsp;(2) offer a flexible number of meetings, such as meetings in the morning or evening, andmay provide, with funds provided under this part, transportation, child care, or home visits, as such services relate to parental involvement;
+&emsp;(2) offer a flexible number of meetings, such as meetings in the morning or evening, and may provide, with funds provided under this part, transportation, child care, or home visits, as such services relate to parental involvement;
 
 &emsp;(3) involve parents, in an organized, ongoing, and timely way, in the planning, review, and improvement of programs under this part, including the planning, review, and improvement of the school parent and family engagement policy and the joint development of the schoolwide program plan under section 6314(b) of this title, except that if a school has in place a process for involving parents in the joint planning and design of the school's programs, the school may use that process, if such process includes an adequate representation of parents of participating children;
 
@@ -212,7 +212,7 @@ Subsec. (e)(3). Pub. L. 114–95, §1010(6)(C), substituted "specialized instruc
 
 Subsec. (e)(4). Pub. L. 114–95, §1010(6)(D), substituted "other Federal, State, and local programs, including public preschool programs," for "Head Start, Reading First, Early Reading First, Even Start, the Home Instruction Programs for Preschool Youngsters, the Parents as Teachers Program, and public preschool and other programs,".
 
-Subsec. (f). Pub. L. 114–95, §1010(7), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: "In carrying out the parental involvement requirements of this part, local educational agencies and schools, to the extent practicable, shall provide full opportunities for the participation of parents with limited English proficiency, parents with disabilities, and parents of migratory children, including providing information and school reports required under section 6311 of this title in a format and, to the extent practicable, in a language such parents understand."
+Subsec. (f). Pub. L. 114–95, §1010(7), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: "In carrying out the parental involvement requirements of this part, local educational agencies and schools, to the extent practicable, shall provide full opportunities for the participation of parents with limited English proficiency, parents with disabilities, and parents of migratory children, includingproviding information and school reports required under section 6311 of this title in a format and, to the extent practicable, in a language such parents understand."
 
 Subsec. (g). Pub. L. 114–95, §1010(8), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "In a State where a parental information and resource center is established to provide training, information, and support to parents and individuals who work with local parents, local educational agencies, and schools receiving assistance under this part, each local educational agency or school that receives assistance under this part and is located in the State shall assist parents and parental organizations by informing such parents and organizations of the existence and purpose of such centers."
 

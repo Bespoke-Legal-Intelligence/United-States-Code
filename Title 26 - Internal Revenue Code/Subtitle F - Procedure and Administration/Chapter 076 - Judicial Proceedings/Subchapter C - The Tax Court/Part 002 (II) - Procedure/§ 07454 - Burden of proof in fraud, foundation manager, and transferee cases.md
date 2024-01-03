@@ -42,7 +42,7 @@ Subsecs (b), (c). Pub. L. 91–172 added subsec. (b) and redesignated former sub
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–168 applicable to excess benefit transactions occurring on or after Sept. 14, 1995,and not applicable to any benefit arising from a transaction pursuant to any written contract which was binding on Sept. 13, 1995, and at all times thereafter before such transaction occurred, see section 1311(d)(1), (2) of Pub. L. 104–168, set out as a note under section 4955 of this title.
+Amendment by Pub. L. 104–168 applicable to excess benefit transactions occurring on or after Sept. 14, 1995, and not applicable to any benefit arising from a transaction pursuant to any written contract which was binding on Sept. 13, 1995, and at all times thereafter before such transaction occurred, see section 1311(d)(1), (2) of Pub. L. 104–168, set out as a note under section 4955 of this title.
 
 #### Effective Date of 1987 Amendment
 

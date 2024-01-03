@@ -58,7 +58,7 @@ Notwithstanding section 2055(a)(3) of this title, the Commission may provide to 
 
 &emsp;&emsp;(A) any material obtained from a foreign government agency, if the foreign government agency has requested confidential treatment, or has precluded such disclosure under other use limitations, as a condition of providing the material;
 
-&emsp;&emsp;(B) any material reflecting a consumer complaint obtained from any other foreignsource, if that foreign source supplying the material has requested confidential treatment as a condition of providing the material; or
+&emsp;&emsp;(B) any material reflecting a consumer complaint obtained from any other foreign source, if that foreign source supplying the material has requested confidential treatment as a condition of providing the material; or
 
 &emsp;&emsp;(C) any material reflecting a consumer complaint submitted to a Commission reporting mechanism sponsored in part by foreign government agencies.
 

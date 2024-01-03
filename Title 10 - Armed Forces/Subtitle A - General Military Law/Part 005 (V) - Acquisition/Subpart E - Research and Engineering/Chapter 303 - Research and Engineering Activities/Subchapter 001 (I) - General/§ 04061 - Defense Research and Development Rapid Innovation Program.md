@@ -2,17 +2,17 @@
 
 (a)
 
-Program Established.—(1) The Secretary of Defense shall establish a competitive, merit-based program to accelerate the fielding of technologies developed pursuant to phase II Small Business Innovation Research Program projects, phase II Small Business Technology Transfer Program projects, technologies developed by the defense laboratories, and other innovative technologies (including dual use technologies).
+Program Established.—(1) The Secretary of Defense shall establish a competitive, merit-based program to enable and assist small businesses to accelerate the commercialization of various technologies, including critical technologies developed pursuant to phase II Small Business Innovation Research Program projects, phase II Small Business Technology Transfer Program projects, technologies developed by the defense laboratories, capabilities developed through competitively awarded prototype agreements and other innovative technologies (including dual use technologies).
 
-(2) The purpose of this program is to stimulate innovative technologies and reduce acquisition or lifecycle costs, address technical risks, improve the timeliness and thoroughness of test and evaluation outcomes, and rapidly insert such products directly in support of primarily major defense acquisition programs, but also other defense acquisition programs that meet critical national security needs.
+(2) The purpose of this program is to stimulate innovative technologies and reduce acquisition or lifecycle costs, address technical risks, improve the timeliness and thoroughness of test and evaluation outcomes, support the integration of such products, and rapidly insert such products directly in support of primarily major defense acquisition programs, but also other defense acquisition programs that meet critical national security needs.
 
 (b)
 
 Guidelines.—The Secretary shall issue guidelines for the operation of the program. At a minimum such guidance shall provide for the following:
 
-&emsp;(1) The issuance of one or more broad agency announcements or the use of any other competitive or merit-based processes by the Department of Defense for candidate proposals in support of defense acquisition programs as described in subsection (a).
+&emsp;(1) The issuance of one or more broad agency announcements or the use of any other competitive or merit-based processes by the Department of Defense for candidate proposals in support of primarily major defense acquisition programs, but also other defense acquisition programs as described in subsection (a).
 
-&emsp;(2) The review of candidate proposals by the Department of Defense and by each military department and the merit-based selection of the most promising cost-effective proposals for funding through contracts, cooperative agreements, and other transactions for the purposes of carrying out the program.
+&emsp;(2) The review of candidate proposals by the Department of Defense and by each Office of Small Business Programs of each military department and the merit-based selection of the most promising cost-effective proposals for funding through contracts, cooperative agreements, and other transactions for the purposes of carrying out the program.
 
 &emsp;(3) The total amount of funding provided to any project under the program from funding provided under subsection (d) shall not exceed $6,000,000.
 
@@ -32,7 +32,7 @@ Treatment Pursuant to Certain Congressional Rules.—Nothing in this section sha
 
 Funding.—(1) Subject to the availability of appropriations for such purpose and to the limitation under paragraph (2), the amounts authorized to be appropriated for research, development, test, and evaluation for a fiscal year may be used for such fiscal year for the program established under subsection (a).
 
-(2) During any fiscal year, the total amount of awards in an amount greater than $3,000,000 made under the program established under subsection (a) may not exceed 25 percent of the amount made available to carry out such program during such fiscal year.
+(2) During any fiscal year, the total amount of awards in an amount greater than $6,000,000 made under the program established under subsection (a) may not exceed 25 percent of the amount made available to carry out such program during such fiscal year.
 
 (e)
 
@@ -40,7 +40,7 @@ Transfer Authority.—(1) The Secretary may transfer funds available for the pro
 
 (2) The transfer authority provided in this subsection is in addition to any other transfer authority available to the Department of Defense.
 
-(Added Pub. L. 115–232, div. A, title II, §224(a)(1), Aug. 13, 2018, 132 Stat. 1683, §2359a; amended Pub. L. 116–92, div. A, title VIII, §878(a), Dec. 20, 2019, 133 Stat. 1530; renumbered §4061 and amended Pub. L. 116–283, div. A, title XVIII, §§1842(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4244, 4294; Pub. L. 117–81, div. A, title XVII, §1701(d)(8), (q)(1), (u)(3)(B), Dec. 27, 2021, 135 Stat. 2136, 2148, 2152.)
+(Added Pub. L. 115–232, div. A, title II, §224(a)(1), Aug. 13, 2018, 132 Stat. 1683, §2359a; amended Pub. L. 116–92, div. A, title VIII, §878(a), Dec. 20, 2019, 133 Stat. 1530; renumbered §4061 and amended Pub. L. 116–283, div. A, title XVIII, §§1842(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4244, 4294; Pub. L. 117–81, div. A, title XVII, §1701(d)(8), (q)(1), (u)(3)(B), Dec. 27, 2021, 135 Stat. 2136, 2148, 2152; Pub. L. 118–31, div. A, title VIII, §860, Dec. 22, 2023, 137 Stat. 346.)
 
 #### <b>Editorial Notes</b>
 
@@ -49,6 +49,16 @@ Transfer Authority.—(1) The Secretary may transfer funds available for the pro
 A prior section 4061 was renumbered section 7381 of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(1). Pub. L. 118–31, §860(1)(A), inserted "to enable and assist small businesses" after "merit-based program" and "capabilities developed through competitively awarded prototype agreements" after "defense laboratories," and substituted "commercialization of various technologies, including critical technologies" for "fielding of technologies".
+
+Subsec. (a)(2). Pub. L. 118–31, §860(1)(B), inserted "support the integration of such products," after "evaluation outcomes,".
+
+Subsec. (b)(1). Pub. L. 118–31, §860(2)(A), inserted "primarily major defense acquisition programs, but also other" after "candidate proposals in support of".
+
+Subsec. (b)(2). Pub. L. 118–31, §860(2)(B), substituted "by each Office of Small Business Programs of eachmilitary department" for "by each military department".
+
+Subsec. (d)(2). Pub. L. 118–31, §860(3), substituted "$6,000,000" for "$3,000,000".
 
 <b>2021</b>—Pub. L. 116–283, §1842(b), as amended by Pub. L. 117–81, §1701(q)(1), (u)(3)(B), renumbered section 2359a of this title as this section.
 

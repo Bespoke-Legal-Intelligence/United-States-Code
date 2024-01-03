@@ -28,7 +28,7 @@ The purpose of this section is to allow States to contract with religious organi
 
 #### (c) Nondiscrimination against religious organizations
 
-In the event a State exercises its authority under subsection (a), religious organizations are eligible, on the same basis as any other private organization, as contractors to provide assistance, or to accept certificates, vouchers, orother forms of disbursement, under any program described in subsection (a)(2) so long as the programs are implemented consistent with the Establishment Clause of the United States Constitution. Except as provided in subsection (k), neither the Federal Government nor a State receiving funds under such programs shall discriminate against an organization which is or applies to be a contractor to provide assistance, or which accepts certificates, vouchers, or other forms of disbursement, on the basis that the organization has a religious character.
+In the event a State exercises its authority under subsection (a), religious organizations are eligible, on the same basis as any other private organization, as contractors to provide assistance, or to accept certificates, vouchers, or other forms of disbursement, under any program described in subsection (a)(2) so long as the programs are implemented consistent with the Establishment Clause of the United States Constitution. Except as provided in subsection (k), neither the Federal Government nor a State receiving funds under such programs shall discriminate against an organization which is or applies to be a contractor to provide assistance, or which accepts certificates, vouchers, or other forms of disbursement, on the basis that the organization has a religious character.
 
 #### (d) Religious character and freedom
 
@@ -104,5 +104,5 @@ Section was enacted as part of the Personal Responsibility and Work Opportunity 
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modifiedprograms and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 

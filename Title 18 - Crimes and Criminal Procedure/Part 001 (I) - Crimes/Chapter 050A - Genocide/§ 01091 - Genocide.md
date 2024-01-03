@@ -2,7 +2,7 @@
 
 (a)
 
-Basic Offense.—Whoever, whether in time of peace or in time of war and with the specific intent to destroy, in whole or in substantialpart, a national, ethnic, racial, or religious group as such—
+Basic Offense.—Whoever, whether in time of peace or in time of war and with the specific intent to destroy, in whole or in substantial part, a national, ethnic, racial, or religious group as such—
 
 &emsp;(1) kills members of that group;
 

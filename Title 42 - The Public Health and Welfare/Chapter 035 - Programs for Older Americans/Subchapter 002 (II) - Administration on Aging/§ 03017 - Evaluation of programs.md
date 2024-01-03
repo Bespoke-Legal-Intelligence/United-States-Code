@@ -70,7 +70,7 @@ Subsecs. (g), (h). Pub. L. 102–375, §207(2), added subsecs. (g) and (h) and s
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–175 inserted "and older individuals with disabilities" before period at end.
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–459, §206(a), substituted "the Secretary develops and publishes general standards to be used by the Secretary in evaluating the programs and projects assisted under such subchapter" for "he has developed and published general standards tobe used by him in evaluating the programs and projects assisted under such section or subchapter".
+<b>1984</b>—Subsec. (b). Pub. L. 98–459, §206(a), substituted "the Secretary develops and publishes general standards to be used by the Secretary in evaluating the programs and projects assisted under such subchapter" for "he has developed and published general standards to be used by him in evaluating the programs and projects assisted under such section or subchapter".
 
 Subsec. (c). Pub. L. 98–459, §206(b), inserted provision requiring the Secretary to consult with organizations concerned with older individuals, including those representing minority individuals, in carrying out evaluations under this section.
 

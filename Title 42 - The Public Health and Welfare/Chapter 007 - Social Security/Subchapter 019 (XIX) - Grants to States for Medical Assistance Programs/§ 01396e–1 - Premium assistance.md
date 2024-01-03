@@ -92,7 +92,7 @@ Section effective Apr. 1, 2009, and applicable to child health assistance and me
 
 #### Effect of Certain Amendment by Pub. L. 111–148
 
-Pub. L. 111–148, title X, §10203(b)(2)(B), Mar. 23, 2010, 124 Stat. 927, provided that: "This Act shall be applied without regard to subparagraph (A) of section 2003(a)(1) of this Act \[amending this section\] and that subparagraph and the amendment made by that subparagraph are hereby deemed null, void, and of no effect."
+Pub. L. 111–148, title X, §10203(b)(2)(B), Mar. 23, 2010, 124 Stat. 927, provided that: "This Act shall be appliedwithout regard to subparagraph (A) of section 2003(a)(1) of this Act \[amending this section\] and that subparagraph and the amendment made by that subparagraph are hereby deemed null, void, and of no effect."
 
 <i><sup>1</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
 

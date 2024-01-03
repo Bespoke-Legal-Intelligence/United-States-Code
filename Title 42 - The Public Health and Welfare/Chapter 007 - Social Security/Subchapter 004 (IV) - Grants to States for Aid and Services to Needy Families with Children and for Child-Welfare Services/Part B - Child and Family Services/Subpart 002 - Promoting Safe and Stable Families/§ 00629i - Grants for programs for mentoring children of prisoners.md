@@ -10,7 +10,7 @@
 
 &emsp;(C) Nearly 90 percent of the children of incarcerated fathers live with their mothers, and 79 percent of the children of incarcerated mothers live with a grandparent or other relative.
 
-&emsp;(D) Parental arrest and confinement lead to stress, trauma, stigmatization, and separation problems for children. These problems are coupled with existing problems that include poverty, violence, parental substance abuse, high-crime environments, intrafamilial abuse, child abuse and neglect, multiple care givers, and/or prior separations. As a result, these children often exhibit a broad variety of behavioral, emotional, health, and educational problems that are often compounded by the pain of separation.
+&emsp;(D) Parental arrest and confinement lead to stress, trauma, stigmatization, and separation problems for children. These problems are coupled with existing problems that include poverty, violence, parental substance abuse, high-crime environments, intrafamilial abuse, child abuse and neglect, multiple care givers, and/or prior separations. As a result, these childrenoften exhibit a broad variety of behavioral, emotional, health, and educational problems that are often compounded by the pain of separation.
 
 &emsp;(E) Empirical research demonstrates that mentoring is a potent force for improving children's behavior across all risk behaviors affecting health. Quality, one-on-one relationships that provide young people with caring role models for future success have profound, life-changing potential. Done right, mentoring markedly advances youths' life prospects. A widely cited 1995 study by Public/Private Ventures measured the impact of one Big Brothers Big Sisters program and found significant effects in the lives of youth—cutting first-time drug use by almost half and first-time alcohol use by about a third, reducing school absenteeism by half, cutting assaultive behavior by a third, improving parental and peer relationships, giving youth greater confidence in their school work, and improving academic performance.
 
@@ -56,7 +56,7 @@ In order to be eligible for a grant under this section, the chief executive offi
 
 &emsp;&emsp;(C) the number of mentor-child matches proposed to be established and maintained annually under the program;
 
-&emsp;&emsp;(D) such information as the Secretary may require concerning the methods to be usedto recruit, screen support, and oversee individuals participating as mentors, (which methods shall include criminal background checks on the individuals), and to evaluate outcomes for participating children, including information necessary to demonstrate compliance with requirements established by the Secretary for the program; and
+&emsp;&emsp;(D) such information as the Secretary may require concerning the methods to be used to recruit, screen support, and oversee individuals participating as mentors, (which methods shall include criminal background checks on the individuals), and to evaluate outcomes for participating children, including information necessary to demonstrate compliance with requirements established by the Secretary for the program; and
 
 &emsp;&emsp;(E) such other information as the Secretary may require.
 
@@ -148,7 +148,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (B) Limitation
 
-&emsp;&emsp;An organization that provides mentoring services may not be an eligible entity forpurposes of being awarded a cooperative agreement under this subsection.
+&emsp;&emsp;An organization that provides mentoring services may not be an eligible entity for purposes of being awarded a cooperative agreement under this subsection.
 
 #### (3) Application requirements
 
@@ -232,7 +232,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (A) Total payment amount; 12-month service period
 
-&emsp;&emsp;The voucher shall specify the total amount to be paid a provider of mentoringservices for providing the child on whose behalf the voucher is issued with mentoring services for a 12-month period.
+&emsp;&emsp;The voucher shall specify the total amount to be paid a provider of mentoring services for providing the child on whose behalf the voucher is issued with mentoring services for a 12-month period.
 
 #### (B) Periodic payments as services provided
 
@@ -312,7 +312,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (A) Research, technical assistance, and evaluation
 
-&emsp;&emsp;The Secretary shall reserve 4 percent of the amount appropriated for each fiscal yearunder paragraph (1) for expenditure by the Secretary for research, technical assistance, and evaluation related to programs under this section.
+&emsp;&emsp;The Secretary shall reserve 4 percent of the amount appropriated for each fiscal year under paragraph (1) for expenditure by the Secretary for research, technical assistance, and evaluation related to programs under this section.
 
 #### (B) Service delivery demonstration project
 

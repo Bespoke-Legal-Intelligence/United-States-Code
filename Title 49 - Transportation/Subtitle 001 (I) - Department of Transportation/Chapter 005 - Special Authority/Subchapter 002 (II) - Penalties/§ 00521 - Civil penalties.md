@@ -40,7 +40,7 @@ Recordkeeping and reporting violations.—A person required to make a report to 
 
 &emsp;&emsp;(i) who does not make that report, does not specifically, completely, and truthfully answer that question in 30 days from the date the Secretary requires the question to be answered, or does not make, prepare, or preserve that record in the form and manner prescribed by the Secretary, shall be liable to the United States for a civil penalty in an amount not to exceed $1,000 for each offense, and each day of the violation shall constitute a separate offense, except that the total of all civil penalties assessed against any violator for all offenses related to any single violation shall not exceed $10,000; or
 
-&emsp;&emsp;(ii) who knowingly falsifies, destroys, mutilates, or changes a required report or record, knowingly files a false report with the Secretary, knowingly makes or causes or permits to be made a false or incomplete entry in that record about an operation or business fact or transaction, or knowinglymakes, prepares, or preserves a record in violation of a regulation or order of the Secretary, shall be liable to the United States for a civil penalty in an amount not to exceed $10,000 for each violation, if any such action can be shown to have misrepresented a fact that constitutes a violation other than a reporting or recordkeeping violation.
+&emsp;&emsp;(ii) who knowingly falsifies, destroys, mutilates, or changes a required report or record, knowingly files a false report with the Secretary, knowingly makes or causes or permits to be made a false or incomplete entry in that record about an operation or business fact or transaction, or knowingly makes, prepares, or preserves a record in violation of a regulation or order of the Secretary, shall be liable to the United States for a civil penalty in an amount not to exceed $10,000 for each violation, if any such action can be shown to have misrepresented a fact that constitutes a violation other than a reporting or recordkeeping violation.
 
 &emsp;(C)
 
@@ -48,7 +48,7 @@ Violations pertaining to cdls.—Any person who is determined by the Secretary, 
 
 &emsp;(D)
 
-Determination of amount.—The amount of any civil penalty, and a reasonable time for abatement of the violation, shall by written order be determined by the Secretary, taking into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, effect on ability to continue to do business, and such other matters as justice and public safety may require. In each case, the assessment shall be calculated to induce further compliance.
+Determination of amount.—The amount of any civil penalty, and a reasonable time forabatement of the violation, shall by written order be determined by the Secretary, taking into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, effect on ability to continue to do business, and such other matters as justice and public safety may require. In each case, the assessment shall be calculated to induce further compliance.
 
 &emsp;(E)(i)
 
@@ -96,7 +96,7 @@ Prohibition on operation in interstate commerce after nonpayment of penalties.�
 
 &emsp;(A)
 
-In general.—An owner or operator of a commercial motor vehicle against whom a civil penalty is assessed under this chapter or chapter 51, 149, or 311 of this title and who does not pay such penalty or fails to arrange and abide by an acceptable payment plan for such civil penalty may not operate in interstate commerce beginning on the 91st day after the date specified by order of the Secretary for payment of such penalty. This paragraph shall not apply to any person who is unable to pay a civil penalty because such person is a debtor in a case under chapter 11 of title 11, United States Code.
+In general.—An owner or operator of a commercial motor vehicle against whom a civil penalty is assessed under this chapter or chapter 51, 149, or 311 of this title and who does not pay such penalty or fails to arrange and abide by an acceptable payment plan for suchcivil penalty may not operate in interstate commerce beginning on the 91st day after the date specified by order of the Secretary for payment of such penalty. This paragraph shall not apply to any person who is unable to pay a civil penalty because such person is a debtor in a case under chapter 11 of title 11, United States Code.
 
 &emsp;(B)
 
@@ -136,7 +136,7 @@ Issuance of regulations.—The Secretary shall promulgate regulations on the use
 
 Definition.—In this paragraph, the term "impoundment" or "impounding" means the seizing and taking into custody of a commercial motor vehicle or the immobilizing of a commercial motor vehicle through the attachment of a locking device or other mechanical or electronic means.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2435; Pub. L. 98–554, title II, §213(b), Oct. 30, 1984, 98 Stat. 2842; Pub. L. 99–570, title XII, §12012, Oct. 27, 1986, 100 Stat. 3207–184; Pub. L. 101–500, §15(e)(2), Nov. 3, 1990, 104 Stat. 1220; Pub. L. 102–548, §2(b), Oct. 28, 1992, 106 Stat. 3648; Pub. L. 103–272, §§4(j)(11)(D), 5(m)(11), July 5, 1994, 108 Stat. 1368, 1376; Pub. L. 104–287, §5(4), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title IV, §4015(a), (b), June 9, 1998, 112 Stat. 411; Pub. L.106–159, title II, §§206(b), 208, Dec. 9, 1999, 113 Stat. 1763, 1764; Pub. L. 109–59, title IV, §§4102(a), 4103, Aug. 10, 2005, 119 Stat. 1715, 1716; Pub. L. 112–141, div. C, title II, §§32501(b), 32502–32504, 32506, July 6, 2012, 126 Stat. 803, 804.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2435; Pub. L. 98–554, title II, §213(b), Oct. 30, 1984, 98 Stat. 2842; Pub. L. 99–570, title XII, §12012, Oct. 27, 1986, 100 Stat. 3207–184; Pub. L. 101–500, §15(e)(2), Nov. 3, 1990, 104 Stat. 1220; Pub. L. 102–548, §2(b), Oct. 28, 1992, 106 Stat. 3648; Pub. L. 103–272, §§4(j)(11)(D), 5(m)(11), July 5, 1994, 108 Stat. 1368, 1376; Pub. L. 104–287, §5(4), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title IV, §4015(a), (b), June 9, 1998, 112 Stat. 411; Pub. L. 106–159, title II, §§206(b), 208, Dec. 9, 1999, 113 Stat. 1763, 1764; Pub. L. 109–59, title IV, §§4102(a), 4103, Aug. 10, 2005, 119 Stat. 1715, 1716; Pub. L. 112–141, div. C, title II, §§32501(b), 32502–32504, 32506, July 6, 2012, 126 Stat. 803, 804.)
 
 Historical and Revision Notes
 
@@ -154,7 +154,7 @@ Historical and Revision Notes
 
 Oct. 15, 1966, Pub. L. 89–670, §6(f)(2), 80 Stat. 940.
 
-The section is included because 49:1655(f)(2) gave the same administrative powers exercised by the Interstate Commerce Commission under certain sections of title 49 to the Secretary of Transportation to carry out duties transferred to the Secretary by 49:1655(e). See the revision notes for section 501 of the revised title for an explanation of the transfer under 49:1655(f)(2). The powers of the Commission have been codified in subtitle IV of the revised title. The comparable provisions of title 49 that are represented by the section may be found as follows:
+The section is included because 49:1655(f)(2) gave the same administrative powers exercised by the Interstate Commerce Commission under certain sections of title 49 to the Secretary of Transportation to carry out duties transferred to the Secretary by 49:1655(e). See the revision notes for section 501 of the revised title for anexplanation of the transfer under 49:1655(f)(2). The powers of the Commission have been codified in subtitle IV of the revised title. The comparable provisions of title 49 that are represented by the section may be found as follows:
 
 &nbsp;
 
@@ -219,7 +219,7 @@ Subsec. (b)(2)(B) to (D). Pub. L. 105–178, §4015(b)(2), (3), added subpar. (B
 
 <b>1994</b>—Subsec. (b)(1)(A). Pub. L. 103–272, §5(m)(11)(A), substituted "a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A), or 31502 of this title" for "section 3102 of this title or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986" and "any of those provisions" for "such sections or Act".
 
-Subsec. (b)(2)(A). Pub. L. 103–272, §5(m)(11)(B), substituted "under subchapter III of chapter 311 (exceptsections 31138 and 31139) or section 31502 of this title" for "pursuant to section 3102 of this title or the Motor Carrier Safety Act of 1984".
+Subsec. (b)(2)(A). Pub. L. 103–272, §5(m)(11)(B), substituted "under subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title" for "pursuant to section 3102 of this title or the Motor Carrier Safety Act of 1984".
 
 Pub. L. 103–272, §4(j)(11)(D), substituted "chapter 59 of this title" for "section 508 of this title".
 
@@ -305,7 +305,7 @@ Submission to congress.—The Secretary shall transmit the results of such study
 
 #### Report; Penalties; Effectiveness
 
-Section 213(d) of Pub. L. 98–554 directed Secretary of Transportation to conduct a study of effectiveness of civil and criminal penalties established by amendments made by section 213 of Pub. L. 98–554 in deterring violations of commercial motor vehicle safety regulationsissued under title II of Pub. L. 98–554 and in effectively prosecuting such violations when they occur, which study was to examine the effectiveness of penalties in effect before Oct. 30, 1984, in comparison to the penalties established by the amendments made by title II of Pub. L. 98–554, and was to further investigate the need for, and make recommendations concerning, increased fine levels for civil and criminal penalties, and the need for additional categories of civil and criminal penalties to deter further, and prosecute effectively, violations of such commercial motor vehicle safety regulations, and further directed Secretary to submit to Congress a report on the findings of this study, together with legislative recommendations, not later than 2 years after Oct. 30, 1984.
+Section 213(d) of Pub. L. 98–554 directed Secretary of Transportation to conduct a study of effectiveness of civil and criminal penalties established by amendments made by section 213 of Pub. L. 98–554 in deterring violations of commercial motor vehicle safety regulations issued under title II of Pub. L. 98–554 and in effectively prosecuting such violations when they occur, which study was to examine the effectiveness of penalties in effect before Oct. 30, 1984, in comparison to the penalties established by the amendments made by title II of Pub. L. 98–554, and was to further investigate the need for, and make recommendations concerning, increased fine levels for civil and criminal penalties, and the need for additional categories of civil and criminal penalties to deter further, and prosecute effectively, violations of such commercial motor vehicle safety regulations, and further directed Secretary to submit to Congress a report on the findings of this study, together with legislative recommendations, not later than 2 years after Oct. 30, 1984.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -38,5 +38,5 @@
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title X, §1048(f), Dec. 28, 2001, 115 Stat. 1228, provided that the amendment made by section 1048(f)(2) is effective as of Oct. 30, 2000, and as if included in the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, as enacted into law by Pub. L. 106–398.
+Pub. L. 107–107, div. A, title X, §1048(f), Dec. 28, 2001, 115 Stat. 1228, provided that the amendment made by section 1048(f)(2) is effective as of Oct. 30, 2000, and asif included in the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, as enacted into law by Pub. L. 106–398.
 

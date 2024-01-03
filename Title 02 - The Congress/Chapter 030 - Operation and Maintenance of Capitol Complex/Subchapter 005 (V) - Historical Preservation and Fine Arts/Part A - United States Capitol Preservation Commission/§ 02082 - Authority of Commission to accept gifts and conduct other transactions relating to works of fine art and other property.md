@@ -12,7 +12,7 @@ In carrying out the purposes referred to in section 2081(a) of this title the Co
 
 The Commission shall, with respect to works of fine art and other property received by the Commission—
 
-&emsp;(1) in consultation with the Joint Committee on the Library, the Senate Commission on Art, or the House of Representatives Fine Arts Board, as the case may be, transfer such property to the entity consulted;
+&emsp;(1) in consultation with the Joint Committee on the Library, the Senate Commission on Art, or the House of Representatives FineArts Board, as the case may be, transfer such property to the entity consulted;
 
 &emsp;(2) if a transfer described in paragraph (1) is not appropriate, dispose of the work of fine art by sale or other transaction; and
 

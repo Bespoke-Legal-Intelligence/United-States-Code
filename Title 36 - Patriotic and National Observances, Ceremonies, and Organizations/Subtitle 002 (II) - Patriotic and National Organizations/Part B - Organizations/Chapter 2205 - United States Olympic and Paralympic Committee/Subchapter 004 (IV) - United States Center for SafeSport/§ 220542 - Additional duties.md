@@ -56,7 +56,7 @@ In General.—The Center shall—
 
 (b)
 
-Rule of Construction.—Nothing in this section shall be construed to limit the ability of a national governing body to impose an interim measure to prevent an individual who is the subject of an allegation of sexual abuse from interacting with an amateur athlete prior to the Center exercising its jurisdiction over a matter.
+Rule of Construction.—Nothing in this section shall be construed to limit the ability ofa national governing body to impose an interim measure to prevent an individual who is the subject of an allegation of sexual abuse from interacting with an amateur athlete prior to the Center exercising its jurisdiction over a matter.
 
 (Added Pub. L. 115–126, title II, §202(a), Feb. 14, 2018, 132 Stat. 322; amended Pub. L. 116–189, §§7(a)(2)(A)(viii), 8(b), Oct. 30, 2020, 134 Stat. 957, 966.)
 
@@ -98,7 +98,7 @@ Pub. L. 116–189, §7(a)(2)(A)(viii)(I), struck out "or paralympic sports organ
 
 Subsec. (a)(2)(F)(i). Pub. L. 116–189, §7(a)(2)(A)(viii)(I), (II)(cc), substituted "a national governing body or an adult" for "a national governing body or paralympic sports organization, or an adult" and struck out ", paralympic sports organization," after "by a national governing body" and ", paralympic sports organizations," after "national governing bodies".
 
-Subsec. (a)(2)(G). Pub. L. 116–189, §8(b)(2)(B)(ii), (v), redesignated subpar. (D) as (G) and amended it generally. Prior to amendment, subpar. read as follows: "procedures to prohibit retaliation, by any national governing body or paralympic sports organization,against any individual who makes a report under subparagraph (A) or subparagraph (B);".
+Subsec. (a)(2)(G). Pub. L. 116–189, §8(b)(2)(B)(ii), (v), redesignated subpar. (D) as (G) and amended it generally. Prior to amendment, subpar. read as follows: "procedures to prohibit retaliation, by any national governing body or paralympic sports organization, against any individual who makes a report under subparagraph (A) or subparagraph (B);".
 
 Subsec. (a)(2)(H), (I). Pub. L. 116–189, §8(b)(2)(B)(ii), redesignated subpars. (E) and (F) as (H) and (I), respectively.
 

@@ -22,7 +22,7 @@ The Board shall meet at least once each year to select the individuals who will 
 
 Members of the Board shall receive no compensation on account of their service on the Board, but while away from their homes or regular places of business in the performance of their duties under this chapter, may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
-(Pub. L. 99–399, title X, §1003, Aug. 27, 1986, 100 Stat. 893; Pub. L. 101–454, §9(c)(1), Oct. 24, 1990,104 Stat. 1066; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(f), Oct. 21, 1998, 112 Stat. 2681–788.)
+(Pub. L. 99–399, title X, §1003, Aug. 27, 1986, 100 Stat. 893; Pub. L. 101–454, §9(c)(1), Oct. 24, 1990, 104 Stat. 1066; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(f), Oct. 21, 1998, 112 Stat. 2681–788.)
 
 #### <b>Editorial Notes</b>
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–454, §9(c)(2), Oct. 24, 1990, 104 Stat. 1066, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply only to appointments to the Fascell Fellowship Board after the date of the enactment of this section \[Oct. 24, 1990\] and shall not affect the service of members of such board on the date of the enactment of this section."
+Pub. L. 101–454, §9(c)(2), Oct. 24, 1990, 104 Stat. 1066, provided that: "The amendment made by paragraph (1)\[amending this section\] shall apply only to appointments to the Fascell Fellowship Board after the date of the enactment of this section \[Oct. 24, 1990\] and shall not affect the service of members of such board on the date of the enactment of this section."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "member".</i>
 

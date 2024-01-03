@@ -28,7 +28,7 @@ Notwithstanding the fact that a valid protest was not filed, the Customs Service
 
 &emsp;(3) such other documentation and information relating to the importation of the goods as the Customs Service may require.
 
-(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25, 1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; Pub. L. 91–271, title II, §210, June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title II, §210, Oct. 3, 1978, 92 Stat. 903; Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), Oct. 30, 1984, 98 Stat. 2977, 2984, renumbered Pub. L. 99–514, title XVIII, §1889(3), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, Dec. 8, 1993, 107 Stat. 2095, 2205, 2207;Pub. L. 106–36, title II, §2408(a), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §206, Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2105, Dec. 3, 2004, 118 Stat. 2598; Pub. L. 109–53, title II, §207, Aug. 2, 2005, 119 Stat. 485; Pub. L. 109–280, title XIV, §1635(b), Aug. 17, 2006, 120 Stat. 1170; Pub. L. 109–283, title II, §205, Sept. 26, 2006, 120 Stat. 1203; Pub. L. 110–138, title II, §206, Dec. 14, 2007, 121 Stat. 1476; Pub. L. 112–41, title II, §205, Oct. 21, 2011, 125 Stat. 449; Pub. L. 112–42, title II, §206, Oct. 21, 2011, 125 Stat. 484; Pub. L. 112–43, title II, §206, Oct. 21, 2011, 125 Stat. 520; Pub. L. 116–113, title II, §205(a), Jan. 29, 2020, 134 Stat. 46; Pub. L. 116–260, div. O, title VI, §601(e), Dec. 27, 2020, 134 Stat. 2151.)
+(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25,1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; Pub. L. 91–271, title II, §210, June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title II, §210, Oct. 3, 1978, 92 Stat. 903; Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), Oct. 30, 1984, 98 Stat. 2977, 2984, renumbered Pub. L. 99–514, title XVIII, §1889(3), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, Dec. 8, 1993, 107 Stat. 2095, 2205, 2207; Pub. L. 106–36, title II, §2408(a), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §206, Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2105, Dec. 3, 2004, 118 Stat. 2598; Pub. L. 109–53, title II, §207, Aug. 2, 2005, 119 Stat. 485; Pub. L. 109–280, title XIV, §1635(b), Aug. 17, 2006, 120 Stat. 1170; Pub. L. 109–283, title II, §205, Sept. 26, 2006, 120 Stat. 1203; Pub. L. 110–138, title II, §206, Dec. 14, 2007, 121 Stat. 1476; Pub. L. 112–41, title II, §205, Oct. 21, 2011, 125 Stat. 449; Pub. L. 112–42, title II, §206, Oct. 21, 2011, 125 Stat. 484; Pub. L. 112–43, title II, §206, Oct. 21, 2011, 125 Stat. 520; Pub. L. 116–113, title II, §205(a), Jan. 29, 2020, 134 Stat. 46; Pub. L. 116–260, div. O, title VI, §601(e), Dec. 27, 2020, 134 Stat. 2151.)
 
 #### Amendment of Section
 
@@ -166,7 +166,7 @@ Transition from nafta treatment.—In the case of a good entered for consumption
 
 #### Effective and Termination Dates of 2011 Amendment
 
-Amendment by Pub. L. 112–43 effective on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012) and to cease to beeffective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–43 effective on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012) and to cease to be effective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
 
 Amendment by Pub. L. 112–42 effective on the date the United States–Colombia Trade Promotion Agreement enters into force (May 15, 2012) and to cease to be effective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
 
@@ -238,5 +238,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Availability of Transportation and Storage Facilities for Military Purposes
 
-Act Sept. 29, 1942, ch. 567, 56 Stat. 761, authorized removal of merchandise in bond or customs custody fromtransportation and storage facilities needed for military purposes, prior to repeal by act July 25, 1947, ch. 327, §1, 61 Stat. 449.
+Act Sept. 29, 1942, ch. 567, 56 Stat. 761, authorized removal of merchandise in bond or customs custody from transportation and storage facilities needed for military purposes, prior to repeal by act July 25, 1947, ch. 327, §1, 61 Stat. 449.
 

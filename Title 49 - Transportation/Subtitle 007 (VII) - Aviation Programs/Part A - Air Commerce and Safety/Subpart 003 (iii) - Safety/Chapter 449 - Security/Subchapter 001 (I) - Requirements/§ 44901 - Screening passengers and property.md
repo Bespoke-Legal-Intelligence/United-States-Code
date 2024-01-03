@@ -20,7 +20,7 @@ Explosives Detection Systems.—
 
 In general.—The Administrator of the Transportation Security Administration shall take all necessary action to ensure that—
 
-&emsp;&emsp;(A) explosives detection systems are deployed as soon as possible to ensure that allUnited States airports described in section 44903(c) have sufficient explosives detection systems to screen all checked baggage, and that as soon as such systems are in place at an airport, all checked baggage at the airport is screened by those systems; and
+&emsp;&emsp;(A) explosives detection systems are deployed as soon as possible to ensure that all United States airports described in section 44903(c) have sufficient explosives detection systems to screen all checked baggage, and that as soon as such systems are in place at an airport, all checked baggage at the airport is screened by those systems; and
 
 &emsp;&emsp;(B) all systems deployed under subparagraph (A) are fully utilized; and
 
@@ -84,7 +84,7 @@ Regulations.—The Secretary of Homeland Security shall issue a final rule as a 
 
 &emsp;(4)
 
-Screening defined.—In this subsection the term "screening" means a physical examination or non-intrusive methods of assessing whether cargo poses a threat to transportation security. Methods of screening include x-ray systems, explosives detection systems, explosives trace detection, explosives detection canine teams certified by the Transportation Security Administration, or a physical search together with manifest verification. The Administrator may approve additional methods to ensure that the cargo does not pose a threat to transportation security and to assist in meeting the requirements of this subsection. Such additional cargo screening methods shallnot include solely performing a review of information about the contents of cargo or verifying the identity of a shipper of the cargo that is not performed in conjunction with other security methods authorized under this subsection, including whether a known shipper is registered in the known shipper database. Such additional cargo screening methods may include a program to certify the security methods used by shippers pursuant to paragraphs (1) and (2) and alternative screening methods pursuant to exemptions referred to in subsection (b) of section 1602 of the Implementing Recommendations of the 9/11 Commission Act of 2007.
+Screening defined.—In this subsection the term "screening" means a physical examination or non-intrusive methods of assessing whether cargo poses a threat to transportation security. Methods of screening include x-ray systems, explosives detection systems, explosives trace detection, explosives detection canine teams certified by the Transportation Security Administration, or a physical search together with manifest verification. The Administrator may approve additional methods to ensure that the cargo does not pose a threat to transportation security and to assist in meeting the requirements of this subsection. Such additional cargo screening methods shall not include solely performing a review of information about the contents of cargo or verifying the identity of a shipper of the cargo that is not performed in conjunction with other security methods authorized under this subsection, including whether a known shipper is registered in the known shipper database. Such additional cargo screening methods may include a program to certify the security methods used by shippers pursuant to paragraphs (1) and (2) and alternative screening methods pursuant to exemptions referred to in subsection (b) of section 1602 of the Implementing Recommendations of the 9/11 Commission Act of 2007.
 
 (h)
 
@@ -572,7 +572,7 @@ TSA.—The term 'TSA' means the Transportation Security Administration of the De
 
 "(b)
 
-Implementation.—Notwithstanding \[section\] 44901(a) of title 49, United States Code, the Administrator, in coordination with the Commissioner of U.S. Customs and Border Protection and the Secretary of State, may implement a pilot program at not more than six foreign last point of departure airports to permit passengers and their accessible property arriving on direct flights or flight segments originating at such participating foreign airports to continue on additionalflights or flight segments originating in the United States without additional security re-screening if—
+Implementation.—Notwithstanding \[section\] 44901(a) of title 49, United States Code, the Administrator, in coordination with the Commissioner of U.S. Customs and Border Protection and the Secretary of State, may implement a pilot program at not more than six foreign last point of departure airports to permit passengers and their accessible property arriving on direct flights or flight segments originating at such participating foreign airports to continue on additional flights or flight segments originating in the United States without additional security re-screening if—
 
 &emsp;"(1) the initial screening was conducted in accordance with an aviation security screening agreement described in subsection (e);
 
@@ -660,7 +660,7 @@ Certifications Relating to the Pilot Program for One-stop Security.—For each a
 
 &emsp;"(B) in the event that one or more of such requirements are not so satisfied, a description of the unsatisfied requirement and information on what actions the Administrator will take to ensure that such remaining requirements are satisfied before such agreement enters into force.
 
-&emsp;"(2) A certification that TSA and U.S. Customs and Border Protection have ensured that any necessary physical modifications or appropriate mitigations exist in the domestic one-stop security pilot program airport prior to receiving international passengersfrom a last point of departure airport under the aviation security screening agreement.
+&emsp;"(2) A certification that TSA and U.S. Customs and Border Protection have ensured that any necessary physical modifications or appropriate mitigations exist in the domestic one-stop security pilot program airport prior to receiving international passengers from a last point of departure airport under the aviation security screening agreement.
 
 &emsp;"(3) A certification that a foreign last point of departure airport covered by an aviation security screening agreement has an operation to screen all checked bags as required by law, regulation, or international agreement, including the full utilization of explosives detection systems to the extent applicable.
 
@@ -724,7 +724,7 @@ Submission.—Upon issuance of the plan required under subsection (a), the Admin
 
 "(f)
 
-Issuance and Implementation.—The Administrator shall not be required to issue or implement, as the case may be, the plan required under subsection (a) upon the termination of the COVID–19 national emergency except to the extent the Administrator determines such issuance or implementation, as the case may be, to be feasible and beneficial to security screening operations.
+Issuance and Implementation.—The Administrator shall not be required to issue or implement, asthe case may be, the plan required under subsection (a) upon the termination of the COVID–19 national emergency except to the extent the Administrator determines such issuance or implementation, as the case may be, to be feasible and beneficial to security screening operations.
 
 "(g)
 
@@ -926,7 +926,7 @@ Pub. L. 115–254, div. K, title I, §1925, Oct. 5, 2018, 132 Stat. 3563, provid
 
 "(a)
 
-In General.—Not later than 90 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\] shall carry out a pilot program to test the use of screening equipment using computed tomography technology to screen baggage at passenger screening checkpoints at airports.
+In General.—Not later than 90 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\] shall carry out a pilot program to test the use ofscreening equipment using computed tomography technology to screen baggage at passenger screening checkpoints at airports.
 
 "(b)
 
@@ -1056,7 +1056,7 @@ Reports to Congress.—Not later than September 30 of the first full fiscal year
 
 &emsp;"(2) The best practices recommended under subsection (b) to address the top areas of concern.
 
-&emsp;"(3) The estimated wait times for assist requests for passengers with disabilities, including disabled passengers who participate in the PreCheck program."
+&emsp;"(3) The estimated wait times for assist requests for passengers with disabilities, including disabledpassengers who participate in the PreCheck program."
 
 #### Air Cargo Advance Screening Program
 
@@ -1178,7 +1178,7 @@ Pub. L. 115–254, div. K, title I, §1962, Oct. 5, 2018, 132 Stat. 3601, provid
 
 "(a)
 
-Interpretive Rule.—Subject to subsections (b) and (c), the Administrator \[of the Transportation Security Administration\] shall periodically review and amend, as necessary, the interpretive rule (68 Fed. Reg. 7444) that provides guidance to the public on the types of property considered to be weapons, explosives, andincendiaries prohibited under section 1540.111 of title 49, Code of Federal Regulations.
+Interpretive Rule.—Subject to subsections (b) and (c), the Administrator \[of the Transportation Security Administration\] shall periodically review and amend, as necessary, the interpretive rule (68 Fed. Reg. 7444) that provides guidance to the public on the types of property considered to be weapons, explosives, and incendiaries prohibited under section 1540.111 of title 49, Code of Federal Regulations.
 
 "(b)
 
@@ -1736,7 +1736,7 @@ Administrator report.—Not later than 90 days after the date of the enactment o
 
 &emsp;"(2)
 
-Inspector general report.—Not later than 180 days after the date of the enactment of this Act, the Inspector General of the Department of Homeland Security shall submit to the appropriate congressional committees a report on the effectiveness of airport access controls to the SIDAs of airports based on red-team, covert testing under subsection (b).
+Inspector general report.—Not later than 180 days after the date of the enactment of this Act, the Inspector General of the Department of Homeland Security shall submit to the appropriate congressional committees a report on the effectiveness of airportaccess controls to the SIDAs of airports based on red-team, covert testing under subsection (b).
 
 #### "SEC. 3409. SECURITY DIRECTIVES.
 
@@ -1862,7 +1862,7 @@ Selection of Airports.—In selecting airports for the pilot program established
 
 #### "SEC. 3506. ACCEPTANCE AND PROVISION OF RESOURCES BY THE TRANSPORTATION SECURITY ADMINISTRATION.
 
-"The Administrator, in carrying out the functions of the pilot programs established under sections 3502 and 3503 of this subtitle, may accept services, supplies, equipment, personnel, or facilities, without reimbursement, from any other public or private entity."
+"The Administrator, in carrying out the functions of the pilot programs established under sections 3502 and 3503 of this subtitle, may accept services, supplies,equipment, personnel, or facilities, without reimbursement, from any other public or private entity."
 
 #### Protection of Passenger Planes From Explosives
 
@@ -1898,7 +1898,7 @@ Pub. L. 109–90, title V, §524, Oct. 18, 2005, 119 Stat. 2086.
 
 #### Use of Existing Equipment To Screen Passenger Cargo; Reports
 
-Pub. L. 109–90, title V, §525, Oct. 18, 2005, 119 Stat. 2086, as amended by Pub. L. 114–113, div. F, title V, §510(c), Dec. 18, 2015, 129 Stat. 2514, provided that: "The Transportation Security Administration (TSA) shall utilize existing checked baggage explosive detection equipment and screeners to screen cargo carried on passenger aircraft to the greatest extent practicable at each airport: <i>Provided</i>, That beginning with November 2005, TSA shall provide a monthly report to the Committees on Appropriations of the Senate and the Houseof Representatives detailing, by airport, the amount of cargo carried on passenger aircraft that was screened by TSA in August 2005 and each month."
+Pub. L. 109–90, title V, §525, Oct. 18, 2005, 119 Stat. 2086, as amended by Pub. L. 114–113, div. F, title V, §510(c), Dec. 18, 2015, 129 Stat. 2514, provided that: "The Transportation Security Administration (TSA) shall utilize existing checked baggage explosive detection equipment and screeners to screen cargo carried on passenger aircraft to the greatest extent practicable at each airport: <i>Provided</i>, That beginning with November 2005, TSA shall provide a monthly report to the Committees on Appropriations of the Senate and the House of Representatives detailing, by airport, the amount of cargo carried on passenger aircraft that was screened by TSA in August 2005 and each month."
 
 #### In-Line Checked Baggage Screening
 
@@ -1970,7 +1970,7 @@ In general.—The Secretary shall establish and carry out a program to issue com
 
 &emsp;"(2)
 
-Eligibility criteria, etc.—The Secretary shall establish such eligibility criteria, establish such application and administrative procedures, and provide for such matching funding requirements, if any, as may be necessary and appropriate to ensure that the technology is deployed as fully and rapidly as possible."
+Eligibility criteria, etc.—The Secretary shall establish such eligibility criteria, establish such application and administrative procedures, and providefor such matching funding requirements, if any, as may be necessary and appropriate to ensure that the technology is deployed as fully and rapidly as possible."
 
 #### Identification Standards
 
@@ -2086,7 +2086,7 @@ Motion to proceed.—A motion in the Senate to proceed to the consideration of a
 
 &emsp;&emsp;"(B)
 
-Debate on resolution.—Debate in the Senate on an approval resolution, and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be equally divided between, and controlled by, the Majority Leader and the Minority Leader, or their designees.
+Debate on resolution.—Debate in the Senate on an approval resolution, and appeals in connection therewith, shall be limited to not morethan 10 hours, which shall be equally divided between, and controlled by, the Majority Leader and the Minority Leader, or their designees.
 
 &emsp;&emsp;"(C)
 

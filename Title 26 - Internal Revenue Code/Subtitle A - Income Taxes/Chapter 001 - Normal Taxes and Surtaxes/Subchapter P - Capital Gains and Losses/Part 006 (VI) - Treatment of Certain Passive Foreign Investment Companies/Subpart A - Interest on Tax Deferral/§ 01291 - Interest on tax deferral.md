@@ -40,7 +40,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term "excess distribution" means any distribution in respect of stock received during any taxable year to the extent such distribution does not exceed its ratable portion of the total excess distribution (if any) for such taxable year.
+&emsp;For purposes of this section, the term "excess distribution" means any distribution inrespect of stock received during any taxable year to the extent such distribution does not exceed its ratable portion of the total excess distribution (if any) for such taxable year.
 
 #### (2) Total excess distribution
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(III) such company is a controlled foreign corporation (as defined in section 957(a)),
 
-&emsp;&emsp;&nbsp;the taxpayer may elect to include in gross income as a dividend received on such first day an amount equal to the portion of the post-1986 earnings and profits of such company attributable (under regulations prescribed by the Secretary) to the stock insuch company held by the taxpayer on such first day. The amount treated as a dividend under the preceding sentence shall be treated as an excess distribution and shall be allocated under subsection (a)(1)(A) only to days during periods taken into account in determining the post-1986 earnings and profits so attributable.
+&emsp;&emsp;&nbsp;the taxpayer may elect to include in gross income as a dividend received on such first day an amount equal to the portion of the post-1986 earnings and profits of such company attributable (under regulations prescribed by the Secretary) to the stock in such company held by the taxpayer on such first day. The amount treated as a dividend under the preceding sentence shall be treated as an excess distribution and shall be allocated under subsection (a)(1)(A) only to days during periods taken into account in determining the post-1986 earnings and profits so attributable.
 
 #### (ii) Post-1986 earnings and profits
 
@@ -298,7 +298,7 @@ Subsec. (e). Pub. L. 100–647, §1012(p)(6)(B), substituted "Except to the exte
 
 Subsec. (e)(2). Pub. L. 100–647, §1012(p)(9), struck out "not" before "a nonresident".
 
-Subsec. (f). Pub. L. 100–647, §1012(p)(6)(A), amended subsec. (f) generally. Prior to amendment, subsec. (f), "Nonrecognition provisions", read as follows: "To the extent provided in regulations, gain shall be recognized on any disposition of stock in a passive foreign investment company."
+Subsec. (f). Pub. L. 100–647, §1012(p)(6)(A), amended subsec. (f) generally. Prior to amendment, subsec. (f),"Nonrecognition provisions", read as follows: "To the extent provided in regulations, gain shall be recognized on any disposition of stock in a passive foreign investment company."
 
 Subsec. (g). Pub. L. 100–647, §1012(p)(7)(B), added subsec. (g).
 
@@ -316,7 +316,7 @@ Pub. L. 111–147, title V, §521(c), Mar. 18, 2010, 124 Stat. 112, provided tha
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 2001 Amendment
 

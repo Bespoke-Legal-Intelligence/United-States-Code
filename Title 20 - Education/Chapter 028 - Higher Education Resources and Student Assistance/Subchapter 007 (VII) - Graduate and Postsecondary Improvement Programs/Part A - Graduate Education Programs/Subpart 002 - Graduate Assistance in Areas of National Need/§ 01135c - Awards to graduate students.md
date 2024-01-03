@@ -16,7 +16,7 @@ The Secretary shall make payments to institutions of higher education for the pu
 
 #### (c) Treatment of institutional payments
 
-An institution of higher education that makes institutional payments for tuition and fees onbehalf of individuals supported by fellowships under this subpart in amounts that exceed the institutional payments made by the Secretary pursuant to section 1135d(a) of this title may count such excess toward the amounts the institution is required to provide pursuant to section 1135b(b)(2) of this title.
+An institution of higher education that makes institutional payments for tuition and fees on behalf of individuals supported by fellowships under this subpart in amounts that exceed the institutional payments made by the Secretary pursuant to section 1135d(a) of this title may count such excess toward the amounts the institution is required to provide pursuant to section 1135b(b)(2) of this title.
 
 #### (d) Academic progress required
 

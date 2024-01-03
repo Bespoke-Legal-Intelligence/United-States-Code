@@ -28,7 +28,7 @@ Appointment.—The Secretary of Transportation shall appoint as the Superintende
 
 &emsp;&emsp;(B) an individual who has—
 
-&emsp;&emsp;&emsp;(i)(I) served at sea in the merchant marine, Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; or
+&emsp;&emsp;&emsp;(i)(I) served at sea in the merchant marine, Navy, Army, Air Force, MarineCorps, Coast Guard, or National Oceanic and Atmospheric Administration; or
 
 &emsp;&emsp;&emsp;(II) held a valid Coast Guard merchant mariner credential; and
 
@@ -83,6 +83,120 @@ IN General" in heading.
 Pub. L. 111–383 inserted "as an institution of higher education" after "Academy" and substituted "States, to conduct research with respect to maritime-related matters, and to provide such other appropriate academic support, assistance, training, and activities in accordance with the provisions of this chapter as the Secretary may authorize." for "States."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Savings Clause
+
+Pub. L. 114–328, div. C, title XXXV, §3506(b), Dec. 23, 2016, 130 Stat. 2777, provided that: "Nothing in this section \[amending this section\] may be construed to require any change to the current leadership of the United States Merchant Marine Academy."
+
+#### United States Merchant Marine Academy and Coast Guard Academy Matters; Maritime Administration Requirements
+
+Pub. L. 118–31, div. C, title XXXV, §3533(a), Dec. 22, 2023, 137 Stat. 828, provided that:
+
+"(a)
+
+Training Course on Workings of Congress.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this section \[Dec. 22, 2023\], the Secretary of Transportation, in consultation with the Maritime Administrator, the Superintendent of the United States Merchant Marine Academy, and such other individuals and organizations as the Secretary of Transportation considers appropriate, shall develop a training course on the workings of Congress and offer that training course at least once each year. This course shall be similar in design to the training course required under section 315 of title 14, United States Code, as practicable.
+
+&emsp;"(2)
+
+Course subject matter.—The training course required by paragraph (1) shall provide an overview and introduction to Congress and the Federal legislative process, including—
+
+&emsp;&emsp;"(A) the history and structure of Congress and the committee systems of the Senate and the House of Representatives, including the functions and responsibilities of the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Armed Services of the House of Representatives;
+
+&emsp;&emsp;"(B) the documents produced by Congress, including bills, resolutions, committee reports, and conference reports, and the purposes and functions of those documents;
+
+&emsp;&emsp;"(C) the legislative processes and rules of the Senate and the House of Representatives, including similarities and differences between the processes and rules of each chamber, including—
+
+&emsp;&emsp;&emsp;"(i) the congressional budget process;
+
+&emsp;&emsp;&emsp;"(ii) the congressional authorization and appropriations processes;
+
+&emsp;&emsp;&emsp;"(iii) the Senate advice and consent process for Presidential nominees; and
+
+&emsp;&emsp;&emsp;"(iv) the Senate advice and consent process for treaty ratification;
+
+&emsp;&emsp;"(D) the roles of Members of Congress and congressional staff in the legislative process; and
+
+&emsp;&emsp;"(E) the concept and underlying purposes of congressional oversight within the governance framework of separation of powers of the United States.
+
+&emsp;"(3)
+
+Lecturers and panelists.—
+
+&emsp;&emsp;"(A)
+
+Outside experts.—The Secretary of Transportation shall ensure that not less than 60 percent of the lecturers, panelists, and other individuals providing education and instruction as part of the training course required by this subsection are bipartisan subject matter experts on Congress and the Federal legislative process who are not employed by the executive branch of the Federal Government.
+
+&emsp;&emsp;"(B)
+
+Authority to accept pro bono services.—In satisfying the requirement under subparagraph (A), the Secretary of Transportation shall seek, and may accept, educational and instructional services of lecturers, panelists, and other individuals and organizations provided to the Department of Transportation on a pro bono basis.
+
+&emsp;"(4)
+
+Completion of required training.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 60 days after the date on which the Secretary of Transportation completes the development of the training course described in this section, and annually thereafter while serving in applicable positions, the covered individuals described in subparagraph (B) shall complete the training course described in this subsection.
+
+&emsp;&emsp;"(B)
+
+Covered individuals.—The covered individuals in this subsection are the following:
+
+&emsp;&emsp;&emsp;"(i) The Administrator of the Maritime Administration and the Deputy Administrator of the Maritime Administration.
+
+&emsp;&emsp;&emsp;"(ii) Any official of the Maritime Administration whose appointment is subject to the advice and consent of the Senate and Maritime Administration employees that are serving in a Senior Executive Service position (as defined in section 3132(a) of title 5, United States Code).
+
+&emsp;&emsp;&emsp;"(iii) Any Maritime Administration employees whose duties consist of engagement with congressional, governmental, or public affairs, who are appointed or assigned to a billet in the National Capital Region on the date on which the Secretary of Transportation completes the development of the training course described in this section.
+
+&emsp;&emsp;&emsp;"(iv) The Superintendent, Deputy Superintendent, Provost, Commandant of Midshipmen, Counsel, and Director of Public Affairs of the United States Merchant Marine Academy.
+
+&emsp;&emsp;"(C)
+
+New officials and employees.—Any Maritime Administration official or employee or United States Merchant Marine Academy official or employee who is a covered individual described in subparagraph (B) who is newly appointed, newly employed in the National Capital Region, or newly employed by the United States Merchant Marine Academy after the date on which the Secretary of Transportation completes the development of the training course described in this subsection, shall complete a training course that meets the requirements of this subsection not later than 60 days after reporting for duty, and annually thereafter, while serving in applicable positions.
+
+"(b)
+
+Government Accountability Office Report on Maritime Administration Staffing Requirements.—
+
+&emsp;"(1)
+
+In general.—Not later than six months after the date of the enactment of this Act \[Dec. 22, 2023\], the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, a report that includes an analysis of the staffing requirements for effectively executing the mission of the Maritime Administration and an identification of any existing gaps that could impede its operations.
+
+&emsp;"(2)
+
+Contents.—The report under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) an evaluation of the personnel requirements for the successful execution of the mission of the Maritime Administration, including such requirements for—
+
+&emsp;&emsp;&emsp;"(i) those offices that deal with infrastructure, shipbuilding, or student safety;
+
+&emsp;&emsp;&emsp;"(ii) those offices that have significant delays in meeting constituent needs, including offices involved in the processing of permits and grants, or which preform a communication or outreach function to the public, constituents, or Congress (including the Office of Public Affairs of the Maritime Administration);
+
+&emsp;&emsp;&emsp;"(iii) the United States Merchant Marine Academy; and
+
+&emsp;&emsp;&emsp;"(iv) other activities carried out by the Maritime Administration;
+
+&emsp;&emsp;"(B) a thorough analysis of any deficiencies or inadequacies in staffing levels, at the time the report is submitted, that could hinder the efficient functioning of the Maritime Administration; and
+
+&emsp;&emsp;"(C) recommendations for integrating the findings of the report into the policies and planning processes of the Maritime Administration, with the aim of addressing the identified gaps and enhancing the overall effectiveness of the Maritime Administration.
+
+"(c)
+
+Coast Guard Academy Improvement Briefing.—Not later than 30 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Commandant of the Coast Guard shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a briefing on—
+
+&emsp;"(1) a plan, which shall include timelines and cost estimates, to—
+
+&emsp;&emsp;"(A) remediate asbestos, lead, and mold from the Chase Hall of the Coast Guard Academy;
+
+&emsp;&emsp;"(B) house not more than two students to a room in Chase Hall; and
+
+&emsp;&emsp;"(C) upgrade electric outlet availability and storage space in student rooms at Chase Hall; and
+
+&emsp;"(2) the increased student housing capacity necessary to allow the Coast Guard to put through sufficient officers to eliminate the current portion of the officer shortfall due to space constraints at the Coast Guard Academy, including the Officer Candidate School and direct Commission Officer Program housed at the Academy."
 
 #### Reports on Matters Relating to the United States Merchant Marine Academy
 
@@ -158,7 +272,7 @@ Recommendations specified.—The recommendations specified in this paragraph are
 
 "(b)
 
-Report on Implementation of Policy Relating to Sexual Harassment and Other Matters.—Notlater than one year after the date of the enactment of this Act, the Secretary of Transportation shall submit to the appropriate congressional committees a report on the status of the implementation of the policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking at the United States Merchant Marine Academy, as required under section 51318 of title 46, United States Code.
+Report on Implementation of Policy Relating to Sexual Harassment and Other Matters.—Not later than one year after the date of the enactment of this Act, the Secretary of Transportation shall submit to the appropriate congressional committees a report on the status of the implementation of the policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking at the United States Merchant Marine Academy, as required under section 51318 of title 46, United States Code.
 
 "(c)
 
@@ -267,10 +381,6 @@ Appropriate Congressional Committees.—In this section, the term 'appropriate c
 &emsp;"(4) the Subcommittee on Transportation, Housing and Urban Development, and Related Agencies of the Committee on Appropriations of the House of Representatives; and
 
 &emsp;"(5) the Committee on Armed Services of the House of Representatives."
-
-#### Savings Clause
-
-Pub. L. 114–328, div. C, title XXXV, §3506(b), Dec. 23, 2016, 130 Stat. 2777, provided that: "Nothing in this section \[amending this section\] may be construed to require any change to the current leadership of the United States Merchant Marine Academy."
 
 #### Concurrent Jurisdiction
 

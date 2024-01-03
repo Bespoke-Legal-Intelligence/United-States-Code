@@ -46,7 +46,7 @@ Pub. L. 103–355, title VIII, §8301(g), Oct. 13, 1994, 108 Stat. 3397, as amen
 
 #### Executive Order No. 11602
 
-Ex. Ord. No. 11602, June 29, 1971, 36 F.R. 12475, which related to the administration of the Clean Air Act withrespect to Federal contracts, grants, or loans, was superseded by Ex. Ord. No. 11738, Sept. 10, 1973, 38 F.R. 25161, set out below.
+Ex. Ord. No. 11602, June 29, 1971, 36 F.R. 12475, which related to the administration of the Clean Air Act with respect to Federal contracts, grants, or loans, was superseded by Ex. Ord. No. 11738, Sept. 10, 1973, 38 F.R. 25161, set out below.
 
 #### Ex. Ord. No. 11738. Administration of the Clean Air Act and the Federal Water Pollution Control Act With Respect to Federal Contracts, Grants, or Loans
 
@@ -58,7 +58,7 @@ Section 1. <i>Policy</i>. It is the policy of the Federal Government to improve 
 
 Sec. 2. <i>Designation of Facilities</i>. (a) The Administrator of the Environmental Protection Agency (hereinafter referred to as "the Administrator") shall be responsible for the attainment of the purposes and objectives of this Order.
 
-(b) In carrying out his responsibilities under this Order, the Administrator shall, in conformity with all applicable requirements of law, designate facilities which have given rise to a conviction for an offense under section 113(c)(1) of the Air Act \[42 U.S.C. 7413(c)(1)\] or section 309(c) of the Water Act \[33 U.S.C. 1319(c)\]. The Administrator shall, from time to time, publish and circulate to all Federal agencies lists of those facilities, together with the names and addresses of the persons who have been convicted of such offenses. Whenever the Administrator determines that the condition which gave rise to a conviction has been corrected, he shall promptly remove the facility and the name and address of the person concerned from the list.
+(b) In carrying out his responsibilities under this Order, the Administrator shall, in conformity with all applicable requirements of law, designate facilities which have given rise to a conviction for an offense under section 113(c)(1) of the Air Act \[42 U.S.C. 7413(c)(1)\] or section 309(c) of the Water Act \[33 U.S.C. 1319(c)\]. The Administrator shall, from time to time, publish and circulate to all Federal agencies lists ofthose facilities, together with the names and addresses of the persons who have been convicted of such offenses. Whenever the Administrator determines that the condition which gave rise to a conviction has been corrected, he shall promptly remove the facility and the name and address of the person concerned from the list.
 
 Sec. 3. <i>Contracts, Grants, or Loans</i>. (a) Except as provided in section 8 of this Order, no Federal agency shall enter into any contract for the procurement of goods, materials, or services which is to be performed in whole or in part in a facility then designated by the Administrator pursuant to section 2.
 

@@ -8,7 +8,7 @@ When the Secretary of Agriculture determines that a tract of National Forest Sys
 
 #### Codification
 
-Section, which is also set out as section 478a of Title 16, Conservation, was not enacted as part of the Bankhead-Jones Farm Tenant Act which constitutes a major part of this chapter.
+Section, which is also set out as section 478a of Title 16, Conservation, was not enacted as part of theBankhead-Jones Farm Tenant Act which constitutes a major part of this chapter.
 
 #### Amendments
 

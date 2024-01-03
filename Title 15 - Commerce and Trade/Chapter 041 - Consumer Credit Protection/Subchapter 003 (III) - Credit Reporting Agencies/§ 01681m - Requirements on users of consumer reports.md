@@ -14,7 +14,7 @@ If any person takes any adverse action with respect to any consumer that is base
 
 &emsp;(3) provide to the consumer orally, in writing, or electronically—
 
-&emsp;&emsp;(A) the name, address, and telephone number of the consumer reporting agency (including a toll-free telephone number established by the agency if the agency compilesand maintains files on consumers on a nationwide basis) that furnished the report to the person; and
+&emsp;&emsp;(A) the name, address, and telephone number of the consumer reporting agency (including a toll-free telephone number established by the agency if the agency compiles and maintains files on consumers on a nationwide basis) that furnished the report to the person; and
 
 &emsp;&emsp;(B) a statement that the consumer reporting agency did not make the decision to take the adverse action and is unable to provide the consumer the specific reasons why the adverse action was taken; and
 
@@ -78,7 +78,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;&emsp;(D) the consumer has a right to prohibit information contained in the consumer's file with any consumer reporting agency from being used in connection with any credit or insurance transaction that is not initiated by the consumer; and
 
-&emsp;&emsp;(E) the consumer may exercise the right referred to in subparagraph (D) by notifyinga notification system established under section 1681b(e) of this title.
+&emsp;&emsp;(E) the consumer may exercise the right referred to in subparagraph (D) by notifying a notification system established under section 1681b(e) of this title.
 
 #### (2) Disclosure of address and telephone number; format
 
@@ -100,7 +100,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (1) Guidelines
 
-&emsp;The Federal banking agencies, the National Credit Union Administration, the Federal Trade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title—
+&emsp;The Federal banking agencies, the National Credit Union Administration, the FederalTrade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title—
 
 &emsp;&emsp;(A) establish and maintain guidelines for use by each financial institution and each creditor regarding identity theft with respect to account holders at, or customers of, such entities, and update such guidelines as often as necessary;
 
@@ -140,7 +140,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;&emsp;&emsp;(iii) advances funds to or on behalf of a person, based on an obligation of the person to repay the funds or repayable from specific property pledged by or on behalf of the person;
 
-&emsp;&emsp;(B) does not include a creditor described in subparagraph (A)(iii) that advances funds onbehalf of a person for expenses incidental to a service provided by the creditor to that person; and
+&emsp;&emsp;(B) does not include a creditor described in subparagraph (A)(iii) that advances funds on behalf of a person for expenses incidental to a service provided by the creditor to that person; and
 
 &emsp;&emsp;(C) includes any other type of creditor, as defined in that section 1691a of this title, as the agency described in paragraph (1) having authority over that creditor may determine appropriate by rule promulgated by that agency, based on a determination that such creditor offers or maintains accounts that are subject to a reasonably foreseeable risk of identity theft.
 
@@ -246,7 +246,7 @@ If a person acting as a debt collector (as that term is defined in subchapter V)
 
 &emsp;&emsp;This section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials identified in that section.
 
-(Pub. L. 90–321, title VI, §615, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 104–208, div. A, title II, §2411, Sept. 30, 1996, 110 Stat. 3009–443; Pub. L. 108–159, title I, §§114, 154(b), 155, title II, §213(a), title III, §311(a), title VIII, §811(h), Dec. 4, 2003, 117 Stat. 1960, 1967, 1978, 1988, 2012; Pub. L. 111–203, title X, §§1088(a)(2)(C), (7)–(9), 1100F, July 21, 2010, 124 Stat. 2087, 2088, 2112; Pub. L. 111–319, §2(a), Dec. 18, 2010, 124 Stat. 3457.)
+(Pub. L. 90–321, title VI, §615, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 104–208, div. A, title II, §2411, Sept. 30, 1996, 110 Stat. 3009–443; Pub. L. 108–159, title I, §§114, 154(b), 155, title II, §213(a), title III, §311(a), title VIII, §811(h), Dec. 4, 2003, 117 Stat. 1960, 1967, 1978, 1988, 2012; Pub. L. 111–203, title X, §§1088(a)(2)(C), (7)–(9), 1100F, July 21, 2010, 124Stat. 2087, 2088, 2112; Pub. L. 111–319, §2(a), Dec. 18, 2010, 124 Stat. 3457.)
 
 #### <b>Editorial Notes</b>
 

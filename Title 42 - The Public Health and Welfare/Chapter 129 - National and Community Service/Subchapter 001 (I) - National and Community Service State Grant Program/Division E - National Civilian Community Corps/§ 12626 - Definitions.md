@@ -20,7 +20,7 @@ In this division:
 
 #### (5) Corps members
 
-&emsp;The term "Corps members" means persons receiving training and participating in projects under the National Civilian Community Corps Program.
+&emsp;The term "Corps members" means persons receiving training and participating inprojects under the National Civilian Community Corps Program.
 
 #### (6) Director
 

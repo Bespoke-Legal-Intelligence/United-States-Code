@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;&emsp;(A) is not a citizen or national of, or lawfully admitted for permanent residence in, the United States;
 
-&emsp;&emsp;(B) does not provide evidence from the Immigration and Naturalization Service that he or she is in the United States for other than temporary purposes with the intention of becoming a citizen of, or lawfully admitted for permanent residence in, the United States; and
+&emsp;&emsp;(B) does not provide evidence from the Immigration and Naturalization Service thathe or she is in the United States for other than temporary purposes with the intention of becoming a citizen of, or lawfully admitted for permanent residence in, the United States; and
 
 &emsp;&emsp;(C) is not lawfully admitted for permanent residence in American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, or the Virgin Islands.
 

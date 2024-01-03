@@ -118,7 +118,7 @@ Veterans preference.—The Administrator shall provide a preference for the hiri
 
 &emsp;(3)
 
-Exceptions.—An individual who has not completed the training required by this section may be deployed during the on-the-job portion of training to perform functions if that individual—
+Exceptions.—An individual who has not completed the training required by this section may be deployed during the on-the-jobportion of training to perform functions if that individual—
 
 &emsp;&emsp;(A) is closely supervised; and
 
@@ -226,7 +226,7 @@ Contents.—The training under subparagraph (A) shall include—
 
 (l) <sup>1</sup>
 
-Definition of Administrator.—In this section, the term "Administrator" means the Administrator of the Transportation Security Administration.
+Definition of Administrator.—In this section, the term "Administrator" means theAdministrator of the Transportation Security Administration.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1217; Pub. L. 106–528, §3, Nov. 22, 2000, 114 Stat. 2519; Pub. L. 107–71, title I, §§101(f)(7), (9), 111(a), Nov. 19, 2001, 115 Stat. 603, 616; Pub. L. 107–296, title XVI, §1603, Nov. 25, 2002, 116 Stat. 2313; Pub. L. 115–254, div. K, title I, §§1948(a), 1991(d)(26), Oct. 5, 2018, 132 Stat. 3587, 3638.)
 
@@ -266,7 +266,7 @@ In subsection (c)(1)(A), the words "individuals employed" are substituted for "p
 
 In subsection (c)(1)(B), the words "individuals eligible" are substituted for "personnel whose services are utilized to enforce any such transportation security program, including State, local, and private law enforcement personnel . . . for personnel eligible" for clarity and consistency in the revised title and with other titles of the Code.
 
-In subsection (c)(2), the words "under this section" are omitted as unnecessary. The words "United States"before "air carriers" are omitted because of the definition of "air carrier" in section 40102(a) of the revised title.
+In subsection (c)(2), the words "under this section" are omitted as unnecessary. The words "United States" before "air carriers" are omitted because of the definition of "air carrier" in section 40102(a) of the revised title.
 
 In subsection (d)(1), before clause (A), the words "Not later than 180 days after November 16, 1990" are omitted as obsolete.
 
@@ -342,7 +342,7 @@ Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see sectio
 
 #### Transition
 
-Pub. L. 107–71, title I, §111(c), Nov. 19, 2001, 115 Stat. 620, provided that: "The Under Secretary of Transportation for Security \[now Administrator of the Transportation Security Administration\] shall complete the full implementation of section 44935 (e), (f), (g), and (h) of title 49, United States Code, as amended by subsection (a), as soon as is practicable. The Under Secretary may make or continue such arrangements for the training of security screeners under that section as the Under Secretary determines necessary pending full implementation of that section as so amended."
+Pub. L. 107–71, title I, §111(c), Nov. 19, 2001, 115 Stat. 620, provided that: "The Under Secretary of Transportation for Security \[now Administrator of the Transportation Security Administration\] shall complete the full implementation of section 44935 (e), (f), (g), and (h)of title 49, United States Code, as amended by subsection (a), as soon as is practicable. The Under Secretary may make or continue such arrangements for the training of security screeners under that section as the Under Secretary determines necessary pending full implementation of that section as so amended."
 
 #### Improvement of Screener Job Performance
 

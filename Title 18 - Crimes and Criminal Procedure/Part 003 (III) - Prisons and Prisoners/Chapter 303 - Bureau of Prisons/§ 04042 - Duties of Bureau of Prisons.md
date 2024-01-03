@@ -66,7 +66,7 @@ Notice of Sex Offender Release.—(1) In the case of a person described in parag
 
 > The notice requirements under this subsection do not apply in relation to a person being protected under chapter 224.
 
-(2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall register as required by the Sex Offender Registration and Notification Act. For a person who is released from the custody of the Bureau of Prisons whose expected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (3) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by theprobation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
+(2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall register as required by the Sex Offender Registration and Notification Act. For a person who is released from the custody of the Bureau of Prisons whoseexpected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (3) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
 
 (3) The Director of the Bureau of Prisons shall inform a person who is released from prison and required to register under the Sex Offender Registration and Notification Act of the requirements of that Act as they apply to that person and the same information shall be provided to a person sentenced to probation by the probation officer responsible for supervision of that person.
 
@@ -248,7 +248,7 @@ Implementation Deadline.—Not later than 3 years after the date on which the pl
 
 "(d)
 
-Annual Progress Reports.—Beginning 1 year after the date on which the plan is submitted under subsection (a)(2), and each year thereafter until the end of the 3-year period described in subsection (c), the Director of the Bureau of Prisons shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report on the progress of the implementation of the submitted plan."
+Annual Progress Reports.—Beginning 1 year after the date on which the plan is submitted under subsection (a)(2), and each year thereafter until the end of the 3-year period described in subsection (c), the Director of the Bureau of Prisons shall submit to theCommittee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report on the progress of the implementation of the submitted plan."
 
 #### Health and Safety of Pregnant Women and Mothers
 
@@ -380,7 +380,7 @@ Final report.—Not later than 6 months after the termination of the Program, th
 
 #### De-Escalation Training
 
-Pub. L. 115–391, title VI, §606, Dec. 21, 2018, 132 Stat. 5244, provided that: "Beginning not later than 1 year after the date of enactment of this Act \[Dec. 21, 2018\],the Director of the Bureau of Prisons shall incorporate into training programs provided to officers and employees of the Bureau of Prisons (including officers and employees of an organization with which the Bureau of Prisons has a contract to provide services relating to imprisonment) specialized and comprehensive training in procedures to—
+Pub. L. 115–391, title VI, §606, Dec. 21, 2018, 132 Stat. 5244, provided that: "Beginning not later than 1 year after the date of enactment of this Act \[Dec. 21, 2018\], the Director of the Bureau of Prisons shall incorporate into training programs provided to officers and employees of the Bureau of Prisons (including officers and employees of an organization with which the Bureau of Prisons has a contract to provide services relating to imprisonment) specialized and comprehensive training in procedures to—
 
 &emsp;"(1) de-escalate encounters between a law enforcement officer or an officer or employee of the Bureau of Prisons, and a civilian or a prisoner (as such term is defined in section 3635 of title 18, United States Code, as added by section 101(a) of this Act); and
 
@@ -484,7 +484,7 @@ Pub. L. 105–314, title VIII, §801, Oct. 30, 1998, 112 Stat. 2990, provided th
 
 #### Application to Prisoners to Which Prior Law Applies
 
-Pub. L. 103–322, title II, §20404, Sept. 13, 1994, 108 Stat. 1825, provided that: "In the case of a prisoner convictedof an offense committed prior to November 1, 1987, the reference to supervised release in section 4042(b) of title 18, United States Code, shall be deemed to be a reference to probation or parole."
+Pub. L. 103–322, title II, §20404, Sept. 13, 1994, 108 Stat. 1825, provided that: "In the case of a prisoner convicted of an offense committed prior to November 1, 1987, the reference to supervised release in section 4042(b) of title 18, United States Code, shall be deemed to be a reference to probation or parole."
 
 #### Cost Savings Measures
 

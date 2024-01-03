@@ -120,7 +120,7 @@ Subsec. (j). Pub. L. 115–232, §1106(2), added subsec. (j).
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date
 
@@ -128,7 +128,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 #### Authority of Export-Import Bank To Conduct Demonstration Program
 
-Pub. L. 104–97, §2, Jan. 11, 1996, 109 Stat. 984, provided that: "Notwithstanding section 4701(a)(1)(A) of title 5,United States Code, the Export-Import Bank of the United States may conduct a demonstration project in accordance with section 4703 of such title."
+Pub. L. 104–97, §2, Jan. 11, 1996, 109 Stat. 984, provided that: "Notwithstanding section 4701(a)(1)(A) of title 5, United States Code, the Export-Import Bank of the United States may conduct a demonstration project in accordance with section 4703 of such title."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

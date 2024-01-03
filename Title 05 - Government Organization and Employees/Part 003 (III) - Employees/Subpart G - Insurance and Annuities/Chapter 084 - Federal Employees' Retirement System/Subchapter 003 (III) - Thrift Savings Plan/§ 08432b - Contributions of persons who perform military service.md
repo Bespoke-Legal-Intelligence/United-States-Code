@@ -50,7 +50,7 @@
 
 (e) For purposes of any computation under this section, an employee shall, with respect to the period referred to in subsection (b)(2)(B), be considered to have been paid at the rate which would have been payable over such period had such employee remained continuously employed in the position which such employee last held before separating or entering leave-without-pay status to perform military service.
 
-(f)(1) The employing agency may be required to pay lost earnings on contributions made pursuant to subsections (c) and (d). Such earnings,if required, shall be calculated retroactively to the date the contribution would have been made had the employee not separated or entered leave without pay status to perform military service.
+(f)(1) The employing agency may be required to pay lost earnings on contributions made pursuant to subsections (c) and (d). Such earnings, if required, shall be calculated retroactively to the date the contribution would have been made had the employee not separated or entered leave without pay status to perform military service.
 
 (2) Procedures for calculating and crediting the earnings payable pursuant to paragraph (1) shall be prescribed by the Executive Director.
 
@@ -92,7 +92,7 @@ Subsec. (c). Pub. L. 106–65, §661(a)(3)(C), designated existing provisions as
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–84, §2(g), Nov. 17, 2017, 131 Stat. 1273, provided that: "The amendments made by this section \[amending this section and section 8433 of this title\] shall take effect on the date on which the regulations prescribed under subsection (f) \[section 2(f) of Pub. L. 115–84, set out as a Regulations note under section 8433 of this title\] take effect \[Sept. 15, 2019; see 84 F.R. 46419\]."
+Pub. L. 115–84, §2(g), Nov. 17, 2017, 131 Stat. 1273, provided that: "The amendments made by this section \[amending this section and section 8433 of this title\] shall take effect on the date on which the regulations prescribed under subsection (f) \[section 2(f) of Pub. L. 115–84, set out as a Regulations note under section 8433of this title\] take effect \[Sept. 15, 2019; see 84 F.R. 46419\]."
 
 #### Effective Date of 2015 Amendment; Implementation
 

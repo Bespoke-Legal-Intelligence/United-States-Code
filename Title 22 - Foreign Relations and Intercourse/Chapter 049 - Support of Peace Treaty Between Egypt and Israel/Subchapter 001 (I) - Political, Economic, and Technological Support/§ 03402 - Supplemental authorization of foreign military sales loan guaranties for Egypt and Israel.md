@@ -32,5 +32,5 @@ That Act, referred to in subsec. (b), means the Arms Export Control Act, Pub. L.
 
 #### Amendments
 
-<b>1981</b>—Subsec. (e)(2). Pub. L. 97–113 struck out par. (2) which required annual reports respecting economic conditions in Israel and Egypt and their external debtburdens, covered in provisions respecting external debt burdens of Egypt, Israel, and Turkey in section 723 of Pub. L. 97–113, title VII, Dec. 29, 1981, 95 Stat. 1552, not classified to the Code.
+<b>1981</b>—Subsec. (e)(2). Pub. L. 97–113 struck out par. (2) which required annual reports respecting economic conditions in Israel and Egypt and their external debt burdens, covered in provisions respecting external debt burdens of Egypt, Israel, and Turkey in section 723 of Pub. L. 97–113, title VII, Dec. 29, 1981, 95 Stat. 1552, not classified to the Code.
 

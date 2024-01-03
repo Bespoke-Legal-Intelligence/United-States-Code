@@ -68,7 +68,7 @@ As used in this subchapter:
 
 &emsp;(F) Any compound, mixture, or preparation which contains any quantity of any of the substances referred to in subparagraphs (A) through (E).
 
-(18) The term "opiate" or "opioid" means any drug or other substance having an addiction-forming or addiction-sustaining liability similarto morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.
+(18) The term "opiate" or "opioid" means any drug or other substance having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.
 
 (19) The term "opium poppy" means the plant of the species Papaver somniferum L., except the seed thereof.
 
@@ -232,7 +232,7 @@ As used in this subchapter:
 
 &emsp;(B) a distribution, importation, or exportation of a tableting machine or encapsulating machine.
 
-(40) The term "chemical mixture" means a combination of two or more chemical substances, at least one of which is not a list I chemical or a list II chemical, except that suchterm does not include any combination of a list I chemical or a list II chemical with another chemical that is present solely as an impurity.
+(40) The term "chemical mixture" means a combination of two or more chemical substances, at least one of which is not a list I chemical or a list II chemical, except that such term does not include any combination of a list I chemical or a list II chemical with another chemical that is present solely as an impurity.
 
 (41)(A) The term "anabolic steroid" means any drug or hormonal substance, chemically and pharmacologically related to testosterone (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone), and includes—
 
@@ -472,7 +472,7 @@ As used in this subchapter:
 
 (46) The term "regulated seller" means a retail distributor (including a pharmacy or a mobile retail vendor), except that such term does not include an employee or agent of such distributor.
 
-(47) The term "mobile retail vendor" means a person or entity that makes sales at retail froma stand that is intended to be temporary, or is capable of being moved from one location to another, whether the stand is located within or on the premises of a fixed facility (such as a kiosk at a shopping center or an airport) or whether the stand is located on unimproved real estate (such as a lot or field leased for retail purposes).
+(47) The term "mobile retail vendor" means a person or entity that makes sales at retail from a stand that is intended to be temporary, or is capable of being moved from one location to another, whether the stand is located within or on the premises of a fixed facility (such as a kiosk at a shopping center or an airport) or whether the stand is located on unimproved real estate (such as a lot or field leased for retail purposes).
 
 (48) The term "at retail", with respect to the sale or purchase of a scheduled listed chemical product, means a sale or purchase for personal use, respectively.
 
@@ -538,7 +538,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;(bb) is—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(AA) an employee or contractor of the Department of Veterans Affairswho is acting in the scope of such employment or contract; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(BB) registered under section 823(g) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(g) of this title;
 
@@ -758,7 +758,7 @@ Par. (35). Pub. L. 103–200, §2(a)(4)(A), (C), substituted "list II chemical" 
 
 Pub. L. 103–200, §2(a)(4)(B), as amended by Pub. L. 103–322, §330024(d)(1), inserted "(other than a list I chemical)" before "specified" the first time appearing.
 
-Par. (37). Pub. L. 103–200, §9(a), amended par. (37) generally. Prior to amendment, par. (37) read as follows: "The term 'regular supplier' means, with respect to a regulated person, a supplier with whom the regulatedperson has an established business relationship that is reported to the Attorney General."
+Par. (37). Pub. L. 103–200, §9(a), amended par. (37) generally. Prior to amendment, par. (37) read as follows: "The term 'regular supplier' means, with respect to a regulated person, a supplier with whom the regulated person has an established business relationship that is reported to the Attorney General."
 
 Par. (38). Pub. L. 103–200, §2(a)(5), inserted before period at end "or who acts as a broker or trader for an international transaction involving a listed chemical, a tableting machine, or an encapsulating machine".
 
@@ -860,7 +860,7 @@ Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808,
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–310, div. B, title XXXVI, §3622(b), Oct. 17, 2000, 114 Stat. 1231, provided that: "The amendmentsmade by subsection (a) \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Oct. 17, 2000\]."
+Pub. L. 106–310, div. B, title XXXVI, §3622(b), Oct. 17, 2000, 114 Stat. 1231, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Oct. 17, 2000\]."
 
 #### Effective Date of 1997 Amendment
 
@@ -904,7 +904,7 @@ Pub. L. 110–425, §4, Oct. 15, 2008, 122 Stat. 4834, provided that: "Nothing i
 
 #### Preservation of State Authority To Regulate Scheduled Listed Chemicals
 
-Pub. L. 109–177, title VII, §711(g), Mar. 9, 2006, 120 Stat. 263, provided that: "This section \[amending this section and sections 830, 841, 842, and 844 of this title and enacting provisions set out as notes under sections 830 and 844 of this title\] and the amendments made by this section may not be construed as having any legal effect on section 708 of the Controlled Substances Act \[21 U.S.C. 903\] as applied to the regulation of scheduled listed chemicals (as defined in section 102(45) of such Act \[21 U.S.C. 802(45)\])."
+Pub. L. 109–177, title VII, §711(g), Mar. 9, 2006, 120 Stat. 263, provided that: "This section \[amending this section and sections 830, 841, 842, and 844 of this title and enacting provisions set out as notes under sections 830 and 844 of this title\] and the amendments made by this section may not be construed as having any legal effect on section 708 of the Controlled Substances Act \[21 U.S.C. 903\] as applied to the regulation of scheduledlisted chemicals (as defined in section 102(45) of such Act \[21 U.S.C. 802(45)\])."
 
 #### Report on Diversion of Ordinary, Over-the-Counter Pseudoephedrine and Phenylpropanolamine Products
 

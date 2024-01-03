@@ -168,7 +168,7 @@ Amendment by section 4002(b)(1)(B), (2)(FF) of Pub. L. 110–246 effective Oct. 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective as if included in the enactment of title VI of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5603 of Pub. L. 105–33, set out as a note under section 618 of this title.
+Amendment by Pub. L. 105–33 effective as if included in the enactment of title VI of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996,Pub. L. 104–193, see section 5603 of Pub. L. 105–33, set out as a note under section 618 of this title.
 
 #### Effective Date of 1996 Amendment
 

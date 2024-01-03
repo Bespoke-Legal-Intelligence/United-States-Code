@@ -28,7 +28,7 @@ In any case in which a single-employer plan is terminated in a distress terminat
 
 #### (B) Special rule
 
-&emsp;&emsp;Payment of so much of the liability under paragraph (1)(A) as exceeds 30 percent of the collective net worth of all persons described in subsection (a) (including interest) shall be made under commercially reasonable terms prescribed by the corporation. The parties involved shall make a reasonable effort to reach agreement on such commercially reasonable terms. Any such terms prescribed by the corporation shall provide for deferral of 50 percent of any amount of liability otherwise payable for any year under this subparagraph if a person subject to such liability demonstrates to the satisfaction of the corporation that no person subject to such liability has any individual pre-tax profits for such person's fiscal year ending during such year.
+&emsp;&emsp;Payment of so much of the liability under paragraph (1)(A) as exceeds 30 percent of the collective net worth of all persons described in subsection (a) (including interest) shall be made under commercially reasonable terms prescribed by the corporation. The parties involved shall make a reasonable effort to reach agreement on such commercially reasonable terms. Any such terms prescribed by the corporation shall provide for deferral of 50 percent of any amount of liability otherwise payable for any year under this subparagraph if a person subject to such liability demonstrates to the satisfaction of the corporation that no person subject to such liability has any individual pre-tax profitsfor such person's fiscal year ending during such year.
 
 #### (3) Alternative arrangements
 
@@ -252,7 +252,7 @@ A person described in subsection (a) shall be subject to liability under this su
 
 "(1) the outstanding balance of the accumulated funding deficiencies (within the meaning of section 1082(a)(2) of this title and section 412(a) of title 26) of the plan (if any) (which, for purposes of this subparagraph, shall include the amount of any increase in such accumulated funding deficiencies of the plan which would result if all pending applications for waivers of the minimum funding standard under section 1083 of this title or section 412(d) of title 26 and for extensions of the amortization period under section 1084 of this title or section 412(e) of title 26 with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year),
 
-"(2) the outstanding balance of the amount of waived funding deficiencies of the plan waived before such dateunder section 1083 of this title or section 412(d) of title 26 (if any), and
+"(2) the outstanding balance of the amount of waived funding deficiencies of the plan waived before such date under section 1083 of this title or section 412(d) of title 26 (if any), and
 
 "(3) the outstanding balance of the amount of decreases in the minimum funding standard allowed before such date under section 1084 of this title or section 412(e) of title 26 (if any),".
 

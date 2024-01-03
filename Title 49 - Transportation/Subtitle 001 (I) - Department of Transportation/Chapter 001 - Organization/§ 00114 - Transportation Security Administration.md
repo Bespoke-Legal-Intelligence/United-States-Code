@@ -82,7 +82,7 @@ Screening Operations.—The Administrator shall—
 
 &emsp;(3) train and test security screening personnel; and
 
-&emsp;(4) be responsible for hiring and training personnel to provide security screening at all airports in the United States where screening isrequired under section 44901, in consultation with the Secretary of Transportation and the heads of other appropriate Federal agencies and departments.
+&emsp;(4) be responsible for hiring and training personnel to provide security screening at all airports in the United States where screening is required under section 44901, in consultation with the Secretary of Transportation and the heads of other appropriate Federal agencies and departments.
 
 (f)
 
@@ -248,7 +248,7 @@ In general.—The personnel management system established by the Administrator o
 
 &emsp;(2)
 
-Meritorious executive or distinguished executive rank awards.—Notwithstanding section 40122(g)(2) of this title, the applicable sections of title 5 shall apply to the Transportation Security Administration personnel management system, except that—
+Meritorious executive or distinguished executive rank awards.—Notwithstanding section 40122(g)(2) of this title, the applicablesections of title 5 shall apply to the Transportation Security Administration personnel management system, except that—
 
 &emsp;&emsp;(A) for purposes of applying such provisions to the personnel management system—
 
@@ -350,7 +350,7 @@ In general.—The Secretary of Homeland Security shall develop, prepare, impleme
 
 &emsp;&emsp;(A) a National Strategy for Transportation Security; and
 
-&emsp;&emsp;(B) transportation modal security plans addressing security risks, including threats,vulnerabilities, and consequences, for aviation, railroad, ferry, highway, maritime, pipeline, public transportation, over-the-road bus, and other transportation infrastructure assets.
+&emsp;&emsp;(B) transportation modal security plans addressing security risks, including threats, vulnerabilities, and consequences, for aviation, railroad, ferry, highway, maritime, pipeline, public transportation, over-the-road bus, and other transportation infrastructure assets.
 
 &emsp;(2)
 
@@ -766,7 +766,7 @@ Contents of plan.—The plan developed under paragraph (1) shall include each of
 
 &emsp;&emsp;(D) Contingency plans for temporarily adjusting checkpoint operations to provide for passenger and employee safety while maintaining security during the communicable disease outbreak.
 
-&emsp;&emsp;(E) Provisions setting forth criteria for establishing an interagency task force or other standing engagement platform withother appropriate Federal departments and agencies, including the Department of Health and Human Services and the Department of Transportation, to address such communicable disease outbreak.
+&emsp;&emsp;(E) Provisions setting forth criteria for establishing an interagency task force or other standing engagement platform with other appropriate Federal departments and agencies, including the Department of Health and Human Services and the Department of Transportation, to address such communicable disease outbreak.
 
 &emsp;&emsp;(F) A description of scenarios in which the Administrator should consider exercising authorities provided under subsection (g) and for what purposes.
 

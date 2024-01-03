@@ -28,7 +28,7 @@
 
 #### (4) Designated elder justice working group or subcommittee to the Attorney General's Advisory Committee of United States Attorneys
 
-&emsp;Not later than 60 days after October 18, 2017, the Attorney General, in consultation with the Director of the Executive Office for United States Attorneys, shall establish a subcommittee or working group to the Attorney General's Advisory Committee of UnitedStates Attorneys, as established under section 0.10 of title 28, Code of Federal Regulations, or any successor thereto, for the purposes of advising the Attorney General on policies of the Department of Justice relating to elder abuse.
+&emsp;Not later than 60 days after October 18, 2017, the Attorney General, in consultation with the Director of the Executive Office for United States Attorneys, shall establish a subcommittee or working group to the Attorney General's Advisory Committee of United States Attorneys, as established under section 0.10 of title 28, Code of Federal Regulations, or any successor thereto, for the purposes of advising the Attorney General on policies of the Department of Justice relating to elder abuse.
 
 #### (b) Department of Justice Elder Justice Coordinator
 
@@ -144,5 +144,5 @@ Pub. L. 116–252, §3(b), Dec. 22, 2020, 134 Stat. 1134, provided that: "The am
 
 <i><sup>1</sup></i><i> See Applicability of Amendment note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Subpar. (B) added by Pub. L. 116–252 without conforming amendment to punctuation at end of subpar. (A)(iv);</i>
+<i><sup>2</sup></i><i> So in original. Subpar. (B) added by Pub. L. 116–252 without conforming amendment to punctuation at end of subpar. (A)(iv).</i>
 

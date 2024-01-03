@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Foreign instrumentality, etc.
 
-&emsp;The terms "foreign instrumentality", "foreign agent", and "trade secret" have themeanings given those terms in section 1839 of title 18.
+&emsp;The terms "foreign instrumentality", "foreign agent", and "trade secret" have the meanings given those terms in section 1839 of title 18.
 
 #### (3) State
 
@@ -18,7 +18,7 @@ In this section:
 
 #### (4) United States company
 
-&emsp;The term "United States company" means an organization organized under the laws of the United States or a State or political subdivision thereof.
+&emsp;The term "United States company" means an organization organized under the laws ofthe United States or a State or political subdivision thereof.
 
 #### (b) Reports
 

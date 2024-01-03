@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(VIII) for plan years beginning after December 31, 2018, $80.<sup>3</sup>
 
-&emsp;(ii) in the case of a multiemployer plan, for the plan year within which the date of enactment of the Multiemployer Pension PlanAmendments Act of 1980 falls, an amount for each individual who is a participant in such plan for such plan year equal to the sum of—
+&emsp;(ii) in the case of a multiemployer plan, for the plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, an amount for each individual who is a participant in such plan for such plan year equal to the sum of—
 
 &emsp;&emsp;(I) 50 cents, multiplied by a fraction the numerator of which is the number of months in such year ending on or before such date and the denominator of which is 12, and
 
@@ -78,7 +78,7 @@
 
 > is for any calendar year less than 2 times the amount of basic benefits guaranteed by the corporation under this subchapter for multiemployer plans which were paid out of any such fund or assets during the preceding calendar year, the annual premium rates under subparagraph (A) shall be increased to the next highest premium level necessary to insure that such sum will be at least 2 times greater than such amount during the following calendar year.
 
-(ii) If the board of directors of the corporation determines that an increase in the premium rates under subparagraph (A) is necessary to provide assistance to plans which are receiving assistance under section 1431 of this title and to plans the board finds are reasonably likely to require such assistance, the board may order such increase in the premium rates.
+(ii) If the board of directors of the corporation determines that an increase in the premiumrates under subparagraph (A) is necessary to provide assistance to plans which are receiving assistance under section 1431 of this title and to plans the board finds are reasonably likely to require such assistance, the board may order such increase in the premium rates.
 
 (iii) The maximum annual premium rate which may be established under this subparagraph is $2.60 for each participant.
 
@@ -212,7 +212,7 @@
 
 > &emsp;If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
 
-(4) The corporation may prescribe, subject to the enactment of a joint resolution in accordance with this section or section 1322a(f) of this title, alternative schedules of premium rates, and bases for the application of those rates, for basic benefits guaranteed by it under sections 1322 and 1322a of this title based, in whole or in part, on the risks insured by the corporation in each plan.
+(4) The corporation may prescribe, subject to the enactment of a joint resolution in accordance with this section or section 1322a(f) of this title, alternative schedules of premium rates,and bases for the application of those rates, for basic benefits guaranteed by it under sections 1322 and 1322a of this title based, in whole or in part, on the risks insured by the corporation in each plan.
 
 (5)(A) In carrying out its authority under paragraph (1) to establish schedules of premium rates, and bases for the application of those rates, for nonbasic benefits guaranteed under sections 1322 and 1322a of this title the premium rates charged by the corporation for any period for nonbasic benefits guaranteed shall—
 
@@ -238,7 +238,7 @@
 
 &emsp;(i) the number of participants in a plan, but such premium rates shall not exceed the rates described in paragraph (3),
 
-&emsp;(ii) unfunded basic benefits guaranteed under this subchapter, but such premium ratesshall not exceed the limitations applicable to charges referred to in subparagraph (B)(i), or
+&emsp;(ii) unfunded basic benefits guaranteed under this subchapter, but such premium rates shall not exceed the limitations applicable to charges referred to in subparagraph (B)(i), or
 
 &emsp;(iii) total guaranteed basic benefits, but such premium rates shall not exceed the rates for additional charges referred to in subparagraph (B)(ii).
 
@@ -598,6 +598,8 @@ Subsec. (c). Pub. L. 96–364, §105(c), added subsec. (c).
 
 #### Change of Name
 
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 2022 Amendment
@@ -610,7 +612,7 @@ Pub. L. 114–74, title V, §501(b)(3), Nov. 2, 2015, 129 Stat. 593, provided th
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–235, div. O, title I, §131(d), Dec. 16, 2014, 128 Stat. 2798, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to plan years beginning after December 31, 2014."
+Pub. L. 113–235, div. O, title I, §131(d), Dec. 16, 2014, 128 Stat. 2798, provided that: "The amendments made bysubsection (a) \[amending this section\] shall apply with respect to plan years beginning after December 31, 2014."
 
 #### Effective Date of 2013 Amendment
 
@@ -748,7 +750,7 @@ Enforcement.—For purposes of enforcement, the requirements of paragraphs (1) a
 
 #### Single-Employer Pension Plan Termination Insurance Premium Study
 
-Pub. L. 99–272, title XI, §11017(a), Apr. 7, 1986, 100 Stat. 276, directed Pension Benefit Guaranty Corporation to conduct a study of, and submit to an advisory council not later than one year after Apr. 7, 1986, a report on the premiums established under the single-employer pension plan termination insurance program under this subchapter, including (1) the long-term stability of theprogram, (2) alternatives with respect to proposals for changes in the premium levels under such program, (3) methods currently used in projecting future costs, (4) alternative methods of projecting such future costs, (5) methods currently used in determining premiums needed to allocate and adequately fund such future costs, along with any alternative methods of making such premium determinations, and (6) alternative premium bases upon which some or all of such projected future costs would be allocated on an exposure-related or risk-related computation; and further provided for submission of the advisory council's report to Congress 180 days after submission of the Corporation's report to the advisory council, as well as the cooperation and consultation with other Federal agencies in compilation of reports.
+Pub. L. 99–272, title XI, §11017(a), Apr. 7, 1986, 100 Stat. 276, directed Pension Benefit Guaranty Corporation to conduct a study of, and submit to an advisory council not later than one year after Apr. 7, 1986, a report on the premiums established under the single-employer pension plan termination insurance program under this subchapter, including (1) the long-term stability of the program, (2) alternatives with respect to proposals for changes in the premium levels under such program, (3) methods currently used in projecting future costs, (4) alternative methods of projecting such future costs, (5) methods currently used in determining premiums needed to allocate and adequately fund such future costs, along with any alternative methods of making such premium determinations, and (6) alternative premium bases upon which some or all of such projected future costs would be allocated on an exposure-related or risk-related computation; and further provided for submission of the advisory council's report to Congress 180 days after submission of the Corporation's report to the advisory council, as well as the cooperation and consultation with other Federal agencies in compilation of reports.
 
 #### Studies and Reports Respecting Graduated Premium Rate Schedules and Union Mandated Withdrawals From Multiemployer Pension Plans
 

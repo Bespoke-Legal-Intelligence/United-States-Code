@@ -100,7 +100,7 @@ Pub. L. 116–260, div. EE, title I, §149(b), Dec. 27, 2020, 134 Stat. 3056, pr
 
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–94, div. Q, title I, §105(b), Dec. 20, 2019, 133 Stat. 3228, provided that: "The amendment made by this section \[amending this section\] shall apply on and after the first day of the first calendar month beginning after the date of the enactment of this Act \[Dec. 20, 2019\]."
+Pub. L. 116–94, div. Q, title I, §105(b), Dec. 20, 2019, 133 Stat. 3228, provided that: "The amendment made bythis section \[amending this section\] shall apply on and after the first day of the first calendar month beginning after the date of the enactment of this Act \[Dec. 20, 2019\]."
 
 #### Effective Date of 1986 Amendments
 
@@ -140,7 +140,7 @@ Coal producers.—
 
 In general.—Notwithstanding subsections (a)(1) and (c) of section 6416 and section 6511 of the Internal Revenue Code of 1986, if—
 
-&emsp;&emsp;&emsp;"(i) a coal producer establishes that such coal producer, or a party related to such coal producer, exported coal produced by such coal producer to a foreign country or shipped coal produced by such coal producer to a possession of the United States, or caused such coal to be exported or shipped, the export or shipment of which wasother than through an exporter who meets the requirements of paragraph (2),
+&emsp;&emsp;&emsp;"(i) a coal producer establishes that such coal producer, or a party related to such coal producer, exported coal produced by such coal producer to a foreign country or shipped coal produced by such coal producer to a possession of the United States, or caused such coal to be exported or shipped, the export or shipment of which was other than through an exporter who meets the requirements of paragraph (2),
 
 &emsp;&emsp;&emsp;"(ii) such coal producer filed an excise tax return on or after October 1, 1990, and on or before the date of the enactment of this Act \[Oct. 3, 2008\], and
 

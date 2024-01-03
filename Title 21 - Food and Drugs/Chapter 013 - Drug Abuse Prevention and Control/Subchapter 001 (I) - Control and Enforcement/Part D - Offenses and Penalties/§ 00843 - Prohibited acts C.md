@@ -16,7 +16,7 @@ It shall be unlawful for any person knowingly or intentionally—
 
 &emsp;(6) to possess any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II;
 
-&emsp;(7) to manufacture, distribute, export, or import any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II or, in the case of an exportation, in violation of this subchapter or subchapter II or of the laws of the country to which it is exported;
+&emsp;(7) to manufacture, distribute, export, or import any three-neck round-bottom flask, tableting machine, encapsulating machine, orgelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II or, in the case of an exportation, in violation of this subchapter or subchapter II or of the laws of the country to which it is exported;
 
 &emsp;(8) to create a chemical mixture for the purpose of evading a requirement of section 830 of this title or to receive a chemical mixture created for that purpose; or
 
@@ -76,7 +76,7 @@ In addition to any other applicable penalty, any person convicted of a felony vi
 
 Schedules I and II, referred to in subsecs. (a)(1) and (c)(1), are set out in section 812(c) of this title.
 
-This subchapter, referred to in subsec. (c)(2)(A), (C)(i), was in the original "this title", meaning title II of Pub.L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in subsec. (c)(2)(A), (C)(i), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 The Controlled Substances Import and Export Act, referred to in subsec. (c)(2)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§951 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 

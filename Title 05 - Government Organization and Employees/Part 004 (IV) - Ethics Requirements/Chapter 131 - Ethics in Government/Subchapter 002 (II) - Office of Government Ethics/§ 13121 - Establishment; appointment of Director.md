@@ -14,7 +14,7 @@ Authority of Director.—The Director may—
 
 &emsp;(1) appoint officers and employees, including attorneys, in accordance with chapter 51 and subchapter III of chapter 53 of this title; and
 
-&emsp;(2) contract for financial and administrative services (including those related to budget and accounting, financial reporting, personnel, and procurement) with the General Services Administration, or such other Federal agency as the Director determines appropriate, for which payment shall be made in advance, or by reimbursement, from funds of the Office of Government Ethics in such amounts as may be agreedupon by the Director and the head of the agency providing such services.
+&emsp;(2) contract for financial and administrative services (including those related to budget and accounting, financial reporting, personnel, and procurement) with the General Services Administration, or such other Federal agency as the Director determines appropriate, for which payment shall be made in advance, or by reimbursement, from funds of the Office of Government Ethics in such amounts as may be agreed upon by the Director and the head of the agency providing such services.
 
 > &emsp;Contract authority under paragraph (2) shall be effective for any fiscal year only to the extent that appropriations are available for that purpose.
 

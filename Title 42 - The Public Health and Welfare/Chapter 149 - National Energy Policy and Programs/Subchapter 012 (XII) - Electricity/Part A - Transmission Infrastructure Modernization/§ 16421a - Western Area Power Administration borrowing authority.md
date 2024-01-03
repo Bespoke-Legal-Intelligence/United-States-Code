@@ -92,7 +92,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;If, at the end of the useful life of a project, there is a remaining balance owed to theTreasury under this section, the balance shall be forgiven.
+&emsp;&emsp;If, at the end of the useful life of a project, there is a remaining balance owed to the Treasury under this section, the balance shall be forgiven.
 
 #### (B) Unconstructed projects
 

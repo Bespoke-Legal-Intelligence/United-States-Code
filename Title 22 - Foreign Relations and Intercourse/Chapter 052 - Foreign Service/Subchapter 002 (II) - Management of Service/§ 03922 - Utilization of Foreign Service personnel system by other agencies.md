@@ -10,7 +10,7 @@
 
 (3) The Secretary of Commerce may utilize the Foreign Service personnel system in accordance with this chapter—
 
-&emsp;(A) with respect to the personnel performing functions transferred to the Department of Commerce from the Department of State by Reorganization Plan Numbered 3 of 1979, and
+&emsp;(A) with respect to the personnel performing functions transferred to the Department ofCommerce from the Department of State by Reorganization Plan Numbered 3 of 1979, and
 
 &emsp;(B) with respect to other personnel of the Department of Commerce to the extent the President determines to be necessary in order to enable the Department of Commerce to carry out functions which require service abroad.
 

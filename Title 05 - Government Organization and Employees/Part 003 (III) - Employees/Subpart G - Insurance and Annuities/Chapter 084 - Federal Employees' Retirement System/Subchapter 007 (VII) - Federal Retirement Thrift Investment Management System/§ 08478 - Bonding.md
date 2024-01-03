@@ -20,7 +20,7 @@
 
 &emsp;(iii) the deposits of the bank or financial institution are not insured by the Federal Deposit Insurance Corporation,
 
-> such exception shall apply to such bank or financial institution only if the bank or institution meets bonding requirements under State law which the Secretary of Labor determines are at least equivalent to those imposed on banks by Federal law.
+> such exception shall apply to such bank or financial institution only if the bank or institution meets bonding requirements under State law which the Secretary of Labor determinesare at least equivalent to those imposed on banks by Federal law.
 
 (b)(1) The Secretary of Labor shall prescribe the amount of a bond under this section at the beginning of each fiscal year. Except as otherwise provided in this paragraph, such amount shall not be less than 10 percent of the amount of funds handled. In no case shall such bond be less than $1,000 nor more than $500,000, except that the Secretary of Labor, after due notice and opportunity for hearing to all interested parties, and other consideration of the record, may prescribe an amount in excess of $500,000.
 

@@ -74,7 +74,7 @@ Subsec. (b)(5). Pub. L. 101–280 added par. (5).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §418(c), Dec. 20, 2006, 120 Stat. 2967, provided that: "The amendments made by this section \[amending this section\] shall apply to sales after the date of enactment of this Act \[Dec. 20, 2006\]."
+Pub. L. 109–432, div. A, title IV, §418(c), Dec. 20, 2006, 120 Stat. 2967, provided that: "The amendments madeby this section \[amending this section\] shall apply to sales after the date of enactment of this Act \[Dec. 20, 2006\]."
 
 #### Effective Date of 1990 Amendment
 

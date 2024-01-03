@@ -34,7 +34,7 @@ Pub. L. 86–249, §11, Sept. 9, 1959, 73 Stat. 481; Pub. L. 96–470, title II,
 
 40:610(b).
 
-In subsection (b), the words "United States Postal Service" are substituted for "Postmaster General" in section 11(b) of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 481) because of section 4(a) of the Postal Reorganization Act (Public Law 91–375, 84 Stat. 773). The words "Transportation and Infrastructure" are substituted for "Public Works and Transportation" in section 11(b) because of section 1(a)(9) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.).
+In subsection (b), the words "United States Postal Service" are substituted for "Postmaster General" in section 11(b) of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 481) because of section 4(a) of thePostal Reorganization Act (Public Law 91–375, 84 Stat. 773). The words "Transportation and Infrastructure" are substituted for "Public Works and Transportation" in section 11(b) because of section 1(a)(9) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.).
 
 #### <b>Editorial Notes</b>
 

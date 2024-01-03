@@ -74,7 +74,7 @@
 
 #### (3) Disclosures regarding relationship to providers
 
-&emsp;The Secretary shall consider any disclosures under subsection (b)(1)(E) by an entity and shall make public findings on whether the entity can fairly and accurately perform the patient safety activities of a patient safety organization. The Secretary shall take those findings into consideration in determining whether to accept the entity's initial certificationand any subsequent certification submitted under subsection (a) and, based on those findings, may deny, condition, or revoke acceptance of the entity's certification.
+&emsp;The Secretary shall consider any disclosures under subsection (b)(1)(E) by an entity and shall make public findings on whether the entity can fairly and accurately perform the patient safety activities of a patient safety organization. The Secretary shall take those findings into consideration in determining whether to accept the entity's initial certification and any subsequent certification submitted under subsection (a) and, based on those findings, may deny, condition, or revoke acceptance of the entity's certification.
 
 #### (d) Listing
 
@@ -112,7 +112,7 @@ The Secretary shall compile and maintain a listing of entities with respect to w
 
 If the Secretary removes a patient safety organization from the listing as provided for in subsection (e)(3)(A), with respect to the patient safety work product or data described in subsection (f)(1) that the patient safety organization received from another entity, such former patient safety organization shall—
 
-&emsp;(1) with the approval of the other entity and a patient safety organization, transfer such work product or data to such patient safety organization;
+&emsp;(1) with the approval of the other entity and a patient safety organization, transfer suchwork product or data to such patient safety organization;
 
 &emsp;(2) return such work product or data to the entity that submitted the work product or data; or
 

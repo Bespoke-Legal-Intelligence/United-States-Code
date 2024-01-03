@@ -54,7 +54,7 @@ As used in this chapter—
 
 &emsp;(ii) such services are not the same type of services which the individual is employed to perform for such public agency.
 
-(B) An employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency may volunteerto perform services for any other State, political subdivision, or interstate governmental agency, including a State, political subdivision or agency with which the employing State, political subdivision, or agency has a mutual aid agreement.
+(B) An employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency may volunteer to perform services for any other State, political subdivision, or interstate governmental agency, including a State, political subdivision or agency with which the employing State, political subdivision, or agency has a mutual aid agreement.
 
 (5) The term "employee" does not include individuals who volunteer their services solely for humanitarian purposes to private non-profit food banks and who receive from the food banks groceries.
 
@@ -82,11 +82,11 @@ As used in this chapter—
 
 > The additional amount on account of tips may not exceed the value of the tips actually received by an employee. The preceding 2 sentences shall not apply with respect to any tipped employee unless such employee has been informed by the employer of the provisions of this subsection, and all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips.
 
-(B) An employer may not keep tips received by its employees for any purposes, including allowing managers or supervisors to keep any portionof employees' tips, regardless of whether or not the employer takes a tip credit.
+(B) An employer may not keep tips received by its employees for any purposes, including allowing managers or supervisors to keep any portion of employees' tips, regardless of whether or not the employer takes a tip credit.
 
 (n) "Resale" shall not include the sale of goods to be used in residential or farm building construction, repair, or maintenance: <i>Provided</i>, That the sale is recognized as a bona fide retail sale in the industry.
 
-(o) Hours Worked.—In determining for the purposes of sections 206 and 207 of this title the hours for which an employee is employed, there shall be excluded any time spent in changing clothes or washing at the beginning or end of each workday which was excluded from measured working time during the week involved by the express terms of or by custom or practice under a bona fide collective-bargaining agreement applicable to the particular employee.
+(o) Hours Worked.—In determining for the purposes of sections 206 and 207 of this title the hours for which an employee is employed, there shall be excluded any time spent in changingclothes or washing at the beginning or end of each workday which was excluded from measured working time during the week involved by the express terms of or by custom or practice under a bona fide collective-bargaining agreement applicable to the particular employee.
 
 (p) "American vessel" includes any vessel which is documented or numbered under the laws of the United States.
 
@@ -132,7 +132,7 @@ As used in this chapter—
 
 &emsp;(2) is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk.
 
-(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–141, div. S, title XII, §1201(a), Mar. 23, 2018, 132 Stat. 1148.)
+(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–141, div. S, title XII, §1201(a), Mar. 23, 2018, 132 Stat. 1148.)
 
 #### <b>Editorial Notes</b>
 
@@ -186,7 +186,7 @@ Subsec. (e). Pub. L. 93–259, §6(a)(2), in revising definition of "employee", 
 
 Subsec. (h). Pub. L. 93–259, §6(a)(3), substituted "other activity, or branch or group thereof" for "branch thereof, or group of industries".
 
-Subsec. (m). Pub. L. 93–259, §13(e), substituted in provision respecting wage of tipped employee "the amount of the increase on account of tips determined by the employer may not exceed the value of tips actually received by the employee" for "in the case of an employee who (either himself or acting through his representative) shows to the satisfaction of the Secretary that the actual amount of tips received by him was less than the amount determined by the employer as the amount by which the wage paid him was deemed to be increased under this sentence, the amount paid such employee by his employer shall be deemed to have been increased by such lesser amount" and inserted "The previous sentence shall not apply with respect to any tipped employee unless (1) such employee has been informed by the employer of the provisions of this subsection, and (2) all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips."
+Subsec. (m). Pub. L. 93–259, §13(e), substituted in provision respecting wage of tipped employee "the amount of the increase on account of tips determined by the employer may not exceed the value of tips actually received by the employee" for "in the case of an employee who (either himself or acting through his representative) shows to the satisfaction of the Secretary that the actual amount of tips received by him was less than the amount determined by the employer as the amount by which the wage paid him was deemed to be increased under this sentence, the amount paid such employee by his employer shall be deemed to have been increased by such lesser amount" and inserted "The previous sentence shall not apply with respect to any tipped employee unless (1) such employee has been informed by the employer of the provisions of this subsection, and (2) all tips received by such employee havebeen retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips."
 
 Subsec. (r)(3). Pub. L. 93–259, §6(a)(4), added par. (3).
 
@@ -254,7 +254,7 @@ Pub. L. 95–151, §3(b)(2), Nov. 1, 1977, 91 Stat. 1249, provided that the amen
 
 Pub. L. 95–151, §15(a), (b), Nov. 1, 1977, 91 Stat. 1253, provided that:
 
-"(a) Except as provided in sections 3, 14, and subsection (b) of this section, the amendments made bythis Act \[amending sections 206, 208, 213, and 216 of this title and enacting provisions set out as a note under section 204 of this title\] shall take effect January 1, 1978.
+"(a) Except as provided in sections 3, 14, and subsection (b) of this section, the amendments made by this Act \[amending sections 206, 208, 213, and 216 of this title and enacting provisions set out as a note under section 204 of this title\] shall take effect January 1, 1978.
 
 "(b) The amendments made by sections 8, 9, 11, 12, and 13 \[amending this section and sections 213 and 214 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 1, 1977\]."
 
@@ -324,7 +324,7 @@ Pub. L. 89–601, title VI, §602, Sept. 23, 1966, 80 Stat. 844, provided in par
 
 #### Transfer of Functions
 
-In subsec. (l), "Secretary of Labor" substituted for "Chief of the Children's Bureau in the Department of Labor" and for "Chief of the Children's Bureau" pursuant to Reorg. Plan No. 2 of 1946, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, set out in the Appendix to Title 5, Government Organization and Employees,which transferred functions of Children's Bureau and its Chief under sections 201 to 216 and 217 to 219 of this title to Secretary of Labor to be performed under his direction and control by such officers and employees of Department of Labor as he designates.
+In subsec. (l), "Secretary of Labor" substituted for "Chief of the Children's Bureau in the Department of Labor" and for "Chief of the Children's Bureau" pursuant to Reorg. Plan No. 2 of 1946, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, set out in the Appendix to Title 5, Government Organization and Employees, which transferred functions of Children's Bureau and its Chief under sections 201 to 216 and 217 to 219 of this title to Secretary of Labor to be performed under his direction and control by such officers and employees of Department of Labor as he designates.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "in".</i>
 

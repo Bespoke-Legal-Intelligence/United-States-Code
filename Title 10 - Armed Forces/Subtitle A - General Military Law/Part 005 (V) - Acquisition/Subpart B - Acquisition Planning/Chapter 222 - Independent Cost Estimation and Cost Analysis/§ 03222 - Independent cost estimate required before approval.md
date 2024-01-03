@@ -32,7 +32,7 @@ A prior section 3222, act Aug. 10, 1956, ch. 1041, 70A Stat. 176; Pub. L. 96–5
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §1812(c)(1), (2)(A), (D), redesignated subsec. (b) of section 2334 of this title as subsec. (a) of this section, substituted "Requirement" for "Independent Cost Estimate Required Before Approval" in heading, struck out par. (1) designation before "A milestone", and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
-Subsec. (b). Pub. L. 116–283, §1812(c)(2)(B)–(D), redesignated subsec. (a)(2) as (b), inserted heading, substituted"section 3221 of this title" for "subsection (a)" in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+Subsec. (b). Pub. L. 116–283, §1812(c)(2)(B)–(D), redesignated subsec. (a)(2) as (b), inserted heading, substituted "section 3221 of this title" for "subsection (a)" in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

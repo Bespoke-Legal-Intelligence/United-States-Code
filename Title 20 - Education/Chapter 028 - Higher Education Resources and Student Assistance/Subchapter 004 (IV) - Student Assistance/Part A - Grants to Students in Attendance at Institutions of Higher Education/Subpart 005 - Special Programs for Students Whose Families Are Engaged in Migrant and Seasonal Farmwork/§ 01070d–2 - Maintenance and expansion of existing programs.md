@@ -46,7 +46,7 @@ The services authorized by this subpart for the high school equivalency program 
 
 (1) Services authorized by this subpart for the college assistance migrant program include—
 
-&emsp;(A) outreach and recruitment services to reach persons who themselves or whose immediate family have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork or who have participated or are eligible to participate, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6391 etseq.\] or section 3222 of title 29, and who meet the minimum qualifications for attendance at a college or university;
+&emsp;(A) outreach and recruitment services to reach persons who themselves or whose immediate family have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork or who have participated or are eligible to participate, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6391 et seq.\] or section 3222 of title 29, and who meet the minimum qualifications for attendance at a college or university;
 
 &emsp;(B) supportive and instructional services to improve placement, persistence, and retention in postsecondary education, which include:
 

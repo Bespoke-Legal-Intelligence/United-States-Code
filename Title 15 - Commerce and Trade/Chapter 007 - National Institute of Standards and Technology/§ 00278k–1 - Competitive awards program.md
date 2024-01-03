@@ -48,7 +48,7 @@ Applications for awards under this section shall be submitted in such manner, at
 
 &emsp;&emsp;(D) Recruit a diverse manufacturing workforce, including through outreach to underrepresented populations, including individuals identified in section 1885a or section 1885b of title 42.
 
-&emsp;&emsp;(E) Such other result as the Director determines will advance the objective set forth in section 278k(c) of this title or in section 278l of this title.
+&emsp;&emsp;(E) Such other result as the Director determines will advance the objective set forthin section 278k(c) of this title or in section 278l of this title.
 
 #### (f) Program Contribution
 

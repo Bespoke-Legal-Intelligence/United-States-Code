@@ -22,7 +22,7 @@
 | 44 | 1\.1&nbsp;&nbsp;&nbsp; |
 | 45 or over | 1\.0.&nbsp;&nbsp;&nbsp;&nbsp; |
 
-(b) An employee eligible for insurance is entitled to be insured for group accidental death and dismemberment insurance in accordance with this subsection. Subject to the conditions and limitations approved by the Office of Personnel Management which are contained in the policy purchased by the Office, the group accidental death and dismemberment insurance provides payment as follows:
+(b) An employee eligible for insurance is entitled to be insured for group accidental death and dismemberment insurance in accordance withthis subsection. Subject to the conditions and limitations approved by the Office of Personnel Management which are contained in the policy purchased by the Office, the group accidental death and dismemberment insurance provides payment as follows:
 
 &nbsp;
 
@@ -127,7 +127,7 @@ Subsec. (d)(1). Pub. L. 95–454, §801(a)(3)(E), substituted "subchapter VI of 
 
 <b>1972</b>—Subsec. (d)(2). Pub. L. 92–392 substituted "section 5344 or 5349 of this title" for "section 5343 of this title" and added the exception.
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–206, in material preceding the table, struck out reference to an approximate relationship between the amount of group life insurance and the eligible employee's annual pay and inserted reference to an automatic extension of the schedule correspondingly by the amounts of increases in the annual rate of basic pay for positions at level II of the Executive Schedule under section 5313 of this title, and raised the insurance coverages for both life and accidental death and dismemberment.
+<b>1967</b>—Subsec. (a). Pub. L. 90–206, in material preceding the table, struck out reference to an approximate relationship between the amount of group life insurance and the eligible employee's annual pay and inserted reference to an automatic extension of the schedule correspondingly by the amounts of increases in the annual rate of basic pay for positions at level II of the Executive Schedule under section 5313 of thistitle, and raised the insurance coverages for both life and accidental death and dismemberment.
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–737 inserted provision that, for the purpose of this chapter, "annual pay" includes premium pay under section 5545(c)(1) of this title.
 
@@ -169,7 +169,7 @@ Pub. L. 90–206, title IV, §405(c), Dec. 16, 1967, 81 Stat. 648, provided that
 
 Pub. L. 90–206, title II, §220(b), Dec. 16, 1967, 81 Stat. 639, provided that: "For the purposes of determining the amount of insurance for which an individual is eligible chapter 87 of title 5, United States Code, relating to group life insurance for Federal employees—
 
-&emsp;"(1) all changes in rates of pay which result from the enactment of this title \[see Short Title Noteunder section 5332 of this title\] except Postal Field Service Schedule II, Rural Carrier Schedule II, and sections 207, 212, 213(d) and (e), 215, 219, and 225) shall be held and considered to become effective as of the date of such enactment \[Dec. 16, 1967\]; and
+&emsp;"(1) all changes in rates of pay which result from the enactment of this title \[see Short Title Note under section 5332 of this title\] except Postal Field Service Schedule II, Rural Carrier Schedule II, and sections 207, 212, 213(d) and (e), 215, 219, and 225) shall be held and considered to become effective as of the date of such enactment \[Dec. 16, 1967\]; and
 
 &emsp;"(2) all changes in rates of pay which result from the enactment of section 212 of this title \[enacting provisions set out as a note under section 5303 of this title\] and which take effect retroactively from the date on which the adjustments thereof are actually ordered under such section, shall be held and considered to become effective on the date on which such adjustments are actually ordered."
 

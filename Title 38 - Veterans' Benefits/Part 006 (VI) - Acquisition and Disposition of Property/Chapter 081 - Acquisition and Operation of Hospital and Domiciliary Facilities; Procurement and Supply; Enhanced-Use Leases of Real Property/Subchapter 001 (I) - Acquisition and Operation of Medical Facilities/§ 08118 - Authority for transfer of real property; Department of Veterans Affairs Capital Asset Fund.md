@@ -32,7 +32,7 @@
 
 &emsp;(3) The deposits into, and expenditures from, the Fund that are incurred or projected for each of the preceding fiscal year, the current fiscal year, and the fiscal year covered by the budget.
 
-(Added Pub. L. 108–422, title IV, §411(a)(1), Nov. 30, 2004, 118 Stat. 2388; amended Pub. L. 112–37, §10(g), Oct. 5, 2011, 125 Stat. 397; Pub. L. 115–251, title I, §105, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, §5103, Oct. 1, 2020, 134 Stat.748; Pub. L. 117–180, div. E, title IV, §405, Sept. 30, 2022, 136 Stat. 2139.)
+(Added Pub. L. 108–422, title IV, §411(a)(1), Nov. 30, 2004, 118 Stat. 2388; amended Pub. L. 112–37, §10(g), Oct. 5, 2011, 125 Stat. 397; Pub. L. 115–251, title I, §105, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, §5103, Oct. 1, 2020, 134 Stat. 748; Pub. L. 117–180, div. E, title IV, §405, Sept. 30, 2022, 136 Stat. 2139.)
 
 #### <b>Editorial Notes</b>
 
@@ -50,7 +50,7 @@
 
 #### Transfer of Unobligated Balances to Capital Asset Fund
 
-Pub. L. 108–422, title IV, §411(d), Nov. 30, 2004, 118 Stat. 2389, provided that: "Any unobligated balances in the nursing home revolving fund under section 8116 of title 38, United States Code, as of the date of the enactment of this Act \[Nov. 30, 2004\] shall be deposited in the Department of Veterans Affairs Capital Asset Fund established under section 8118 of title 38, United States Code (as added by subsection (a))."
+Pub. L. 108–422, title IV, §411(d), Nov. 30, 2004, 118 Stat. 2389, provided that: "Any unobligated balances inthe nursing home revolving fund under section 8116 of title 38, United States Code, as of the date of the enactment of this Act \[Nov. 30, 2004\] shall be deposited in the Department of Veterans Affairs Capital Asset Fund established under section 8118 of title 38, United States Code (as added by subsection (a))."
 
 \[Section 411(d) of Pub. L. 108–422, set out above, is effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title, see section 411(f) of Pub. L. 108–422, set out as an Effective Date of 2004 Amendment note under section 1710B of this title.\]
 

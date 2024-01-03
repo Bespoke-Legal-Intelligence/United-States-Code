@@ -40,11 +40,11 @@
 
 #### (3) Effect of court order
 
-&emsp;The actions authorized by this subsection are intended to ensure the timely publication and implementation of new and amended Federal milk marketing orders. In the event that the Secretary is enjoined or otherwise restrained by a court order from publishing or implementing the consolidation and related reforms under subsection (a), the length of time for which that injunction or other restraining order is effective shall be added to the time limitations specified in paragraph (2) thereby extending those time limitations by a period of time equal to the period of time for which the injunction or other restraining order is effective.
+&emsp;The actions authorized by this subsection are intended to ensure the timely publicationand implementation of new and amended Federal milk marketing orders. In the event that the Secretary is enjoined or otherwise restrained by a court order from publishing or implementing the consolidation and related reforms under subsection (a), the length of time for which that injunction or other restraining order is effective shall be added to the time limitations specified in paragraph (2) thereby extending those time limitations by a period of time equal to the period of time for which the injunction or other restraining order is effective.
 
 #### (c) Failure to timely consolidate orders
 
-If the Secretary fails to implement the consolidation required under subsection (a)(1) within the time period required under subsection (b)(2)(B) (plus any additional period provided under subsection (b)(3)), the Secretary may not assess or collect assessments from milk producers or handlers under such section 608c of this title for marketing order administration and services provided under such section after the end of that period until the consolidation iscompleted. The Secretary may not reduce the level of services provided under the section on account of the prohibition against assessments, but shall rather cover the cost of marketing order administration and services through funds available for the Agricultural Marketing Service of the Department.
+If the Secretary fails to implement the consolidation required under subsection (a)(1) within the time period required under subsection (b)(2)(B) (plus any additional period provided under subsection (b)(3)), the Secretary may not assess or collect assessments from milk producers or handlers under such section 608c of this title for marketing order administration and services provided under such section after the end of that period until the consolidation is completed. The Secretary may not reduce the level of services provided under the section on account of the prohibition against assessments, but shall rather cover the cost of marketing order administration and services through funds available for the Agricultural Marketing Service of the Department.
 
 #### (d) Report regarding further reforms
 
@@ -118,7 +118,7 @@ Congressional Finding.—The Class III and Class IV milk pricing formulas includ
 
 "(b)
 
-Rulemaking Required.—The Secretary of Agriculture shall conduct rulemaking, on the record after an opportunity for an agency hearing, to reconsider the Class III and Class IV milk pricing formulas included in the final rule for the consolidation and reform of Federal milk marketing orders that was published in the Federal Register on September 1, 1999 (64 Fed. Reg. 47897–48021).
+Rulemaking Required.—The Secretary of Agriculture shall conduct rulemaking, on the record after an opportunity for an agency hearing, to reconsider the Class III and Class IV milk pricing formulas included in the final rule for the consolidation and reform of Federal milk marketing orders that was published in theFederal Register on September 1, 1999 (64 Fed. Reg. 47897–48021).
 
 "(c)
 
@@ -130,7 +130,7 @@ Effect of Court Order.—The actions authorized by subsections (b) and (c) are i
 
 "(e)
 
-Failure To Timely Complete Rulemaking.—If the Secretary of Agriculture fails to implement new Class III and Class IV milk pricing formulas within the time period required under subsection (c) (plus any additional period provided under subsection (d)), the Secretary may not assess or collect assessments from milkproducers or handlers under section 8c of the Agricultural Adjustment Act (7 U.S.C. 608c), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, for marketing order administration and services provided under such section after the end of that period until the pricing formulas are implemented. The Secretary may not reduce the level of services provided under that section on account of the prohibition against assessments, but shall rather cover the cost of marketing order administration and services through funds available for the Agricultural Marketing Service of the Department.
+Failure To Timely Complete Rulemaking.—If the Secretary of Agriculture fails to implement new Class III and Class IV milk pricing formulas within the time period required under subsection (c) (plus any additional period provided under subsection (d)), the Secretary may not assess or collect assessments from milk producers or handlers under section 8c of the Agricultural Adjustment Act (7 U.S.C. 608c), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, for marketing order administration and services provided under such section after the end of that period until the pricing formulas are implemented. The Secretary may not reduce the level of services provided under that section on account of the prohibition against assessments, but shall rather cover the cost of marketing order administration and services through funds available for the Agricultural Marketing Service of the Department.
 
 "(f)
 

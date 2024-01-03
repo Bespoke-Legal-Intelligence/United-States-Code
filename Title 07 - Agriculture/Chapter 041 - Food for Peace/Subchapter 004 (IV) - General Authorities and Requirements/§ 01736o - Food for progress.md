@@ -178,7 +178,7 @@ This section shall be effective during the period beginning October 1, 1985, and
 
 (2) To carry out this subsection, the Secretary may provide eligible commodities under agreements entered into under this section in a manner that uses the commodity transaction as a means of developing in the recipient countries a competitive private sector that can provide for the importation, transportation, storage, marketing and distribution of such eligible commodities.
 
-(3) The Secretary may use the assistance provided under this subsection and proceeds derived from the sale of eligible commodities under paragraph (2) to design, monitor, and administer activities undertaken with such assistance, for the purpose of strengthening or creating the capacity of recipient country private enterprises to undertake commercial transactions, with the overall goal of increasing potential markets for United States agricultural eligible commodities.
+(3) The Secretary may use the assistance provided under this subsection and proceeds derived from the sale of eligible commodities underparagraph (2) to design, monitor, and administer activities undertaken with such assistance, for the purpose of strengthening or creating the capacity of recipient country private enterprises to undertake commercial transactions, with the overall goal of increasing potential markets for United States agricultural eligible commodities.
 
 (4)
 
@@ -280,7 +280,7 @@ In entering into agreements described in subsection (c), the Secretary—
 
 #### (3) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out pilot agreements pursuant to thissubsection $10,000,000 for each of fiscal years 2019 through 2023.
+&emsp;There is authorized to be appropriated to carry out pilot agreements pursuant to this subsection $10,000,000 for each of fiscal years 2019 through 2023.
 
 (Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472; Pub. L. 100–418, title IV, §4303, Aug. 23, 1988, 102 Stat. 1397; Pub. L. 101–624, title XV, §§1516, 1572(1), Nov. 28, 1990, 104 Stat. 3663, 3702; Pub. L. 102–237, title III, §335, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §701, Oct. 24, 1992, 106 Stat. 3348; Pub. L. 104–127, title II, §§227, 265(b), Apr. 4, 1996, 110 Stat. 962, 974; Pub. L. 105–277, div. A, §101(a) \[title XI, §1125\], Oct. 21, 1998, 112 Stat. 2681, 2681–45; Pub. L. 107–171, title III, §§3009(b)(2), 3106, May 13, 2002, 116 Stat. 283, 291; Pub. L. 108–7, div. A, title VII, §745, Feb. 20, 2003, 117 Stat. 44; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(F), 3014(b)(2), 3105, June 18, 2008, 122 Stat. 1820, 1826, 1833; Pub. L. 113–79, title III, §3201, Feb. 7, 2014, 128 Stat. 779; Pub. L. 115–334, title III, §3302, Dec. 20, 2018, 132 Stat. 4617.)
 

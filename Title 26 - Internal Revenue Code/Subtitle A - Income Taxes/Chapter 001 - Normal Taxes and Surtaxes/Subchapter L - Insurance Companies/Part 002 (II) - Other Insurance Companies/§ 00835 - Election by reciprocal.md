@@ -36,7 +36,7 @@ If for any taxable year an attorney-in-fact is allowed a credit or refund for ta
 
 Nothing in this section shall increase or decrease the taxes imposed by this chapter on the income of the attorney-in-fact.
 
-(Added Pub. L. 87–834, §8(c), Oct. 16, 1962, 76 Stat. 996, §826; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §301(b)(10), Nov. 6, 1978, 92 Stat. 2822; renumbered §835 and amended Pub. L. 99–514, title X, §1024(a)(3), (c)(9), Oct. 22, 1986, 100Stat. 2405, 2407; Pub. L. 100–647, title I, §1010(f)(2), (3), Nov. 10, 1988, 102 Stat. 3454.)
+(Added Pub. L. 87–834, §8(c), Oct. 16, 1962, 76 Stat. 996, §826; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §301(b)(10), Nov. 6, 1978, 92 Stat. 2822; renumbered §835 and amended Pub. L. 99–514, title X, §1024(a)(3), (c)(9), Oct. 22, 1986, 100 Stat. 2405, 2407; Pub. L. 100–647, title I, §1010(f)(2), (3), Nov. 10, 1988, 102 Stat. 3454.)
 
 #### <b>Editorial Notes</b>
 

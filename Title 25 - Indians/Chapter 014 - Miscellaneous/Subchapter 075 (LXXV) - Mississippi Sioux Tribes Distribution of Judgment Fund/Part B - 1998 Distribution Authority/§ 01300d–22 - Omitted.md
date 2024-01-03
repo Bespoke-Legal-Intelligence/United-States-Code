@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 105–387, §3, Nov. 13, 1998, 112 Stat. 3471, which related to distribution to, and use of certain funds by, the Sisseton and Wahpeton Tribes of Sioux Indians, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 105–387, §3, Nov. 13, 1998, 112 Stat. 3471, which related to distribution to, and use of certainfunds by, the Sisseton and Wahpeton Tribes of Sioux Indians, was omitted from the Code as being of special and not general application.
 

@@ -2,7 +2,7 @@
 
 #### (a) Runaway and homeless youth center; project providing temporary shelter; counseling services
 
-To be eligible for assistance under section 11211(a) of this title, an applicant shall propose to establish, strengthen, or fund an existing or proposed runaway and homeless youth center, a locally controlled project (including a host family home) that provides temporary shelter, and counseling services to youth who have left home without permission of their parents or guardians or to other homeless youth.
+To be eligible for assistance under section 11211(a) of this title, an applicant shall proposeto establish, strengthen, or fund an existing or proposed runaway and homeless youth center, a locally controlled project (including a host family home) that provides temporary shelter, and counseling services to youth who have left home without permission of their parents or guardians or to other homeless youth.
 
 #### (b) Provisions of plan
 
@@ -68,7 +68,7 @@ To be eligible to use assistance under section 11211(a)(2)(C)(i) of this title t
 
 #### (d) Applicants providing home-based services
 
-To be eligible to use assistance under section 11211(a) of this title to provide home-based services described in section 11211(a)(2)(C)(ii) of this title, an applicant shall include in the plan required by subsection (b) assurances that in providing such services the applicant will—
+To be eligible to use assistance under section 11211(a) of this title to provide home-based services described in section 11211(a)(2)(C)(ii) of thistitle, an applicant shall include in the plan required by subsection (b) assurances that in providing such services the applicant will—
 
 &emsp;(1) provide counseling and information to youth and the families (including unrelated individuals in the family households) of such youth, including services relating to basic life skills, interpersonal skill building, educational advancement, job attainment skills, mental and physical health care, parenting skills, financial planning, and referral to sources of other needed services;
 
@@ -134,11 +134,11 @@ Subsec. (b)(3). Pub. L. 102–586, §3(c)(2)(B), substituted "parents or other r
 
 Subsec. (b)(4). Pub. L. 102–586, §3(c)(2)(C), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "shall develop an adequate plan for assuring proper relations with law enforcement personnel, social service personnel, school system personnel, and welfare personnel, and the return of runaway and homeless youth from correctional institutions;".
 
-Subsec. (b)(5). Pub. L. 102–586, §3(c)(2)(D), substituted "providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring" for "aftercare counseling involving runaway and homeless youth and their families within the State in whichthe runaway and homeless youth center is located and for assuring" and "youth" for "children" after "those".
+Subsec. (b)(5). Pub. L. 102–586, §3(c)(2)(D), substituted "providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring" for "aftercare counseling involving runaway and homeless youth and their families within the State in which the runaway and homeless youth center is located and for assuring" and "youth" for "children" after "those".
 
 Subsec. (b)(6). Pub. L. 102–586, §3(c)(2)(G), added par. (6). Former par. (6) redesignated (7).
 
-Subsec. (b)(7). Pub. L. 102–586, §2(c)(2)(E), (F), redesignated par. (6) as (7) and substituted "youth and family members whom it serves (including youth who are not referred to out-of-home shelter services)" for "children and family members which it serves".
+Subsec. (b)(7). Pub. L. 102–586, §2(c)(2)(E), (F), redesignated par. (6) as (7) and substituted "youth and family members whom it serves (including youth who are notreferred to out-of-home shelter services)" for "children and family members which it serves".
 
 Subsec. (b)(8) to (11). Pub. L. 102–586, §3(c)(2)(F), redesignated pars. (7) to (10) as (8) to (11), respectively.
 

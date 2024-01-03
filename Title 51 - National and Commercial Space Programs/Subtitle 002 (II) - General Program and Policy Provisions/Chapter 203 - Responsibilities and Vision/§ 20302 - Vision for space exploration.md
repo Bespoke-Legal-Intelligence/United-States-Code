@@ -18,7 +18,7 @@ Orion.—The term "Orion" means the multipurpose crew vehicle described under se
 
 &emsp;(2)
 
-Space launch system.—The term "Space Launch System" means has the meaning <sup>1</sup>given the term in section 3 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18302).
+Space launch system.—The term "Space Launch System" means has the meaning <sup>1</sup> given the term in section 3 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18302).
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3356; Pub. L. 115–10, title IV, §413, Mar. 21, 2017, 131 Stat. 33.)
 
@@ -108,7 +108,7 @@ Moon to mars program.—
 
 &emsp;&emsp;"(A)
 
-Establishment.—Not later than 120 days after the date of the enactment of this Act, the Administrator shall establish a Moon to Mars Program (referred to in this section as the 'Program') in accordance with sections 20302(b) and 70504 of title 51, United States Code, which shall include Artemis missions and activities, to achieve the goal of human exploration of Mars.
+Establishment.—Not later than 120 days after the date of the enactment of this Act, the Administrator shall establish a Moon to Mars Program (referred to in this section as the 'Program')in accordance with sections 20302(b) and 70504 of title 51, United States Code, which shall include Artemis missions and activities, to achieve the goal of human exploration of Mars.
 
 &emsp;&emsp;"(B)
 
@@ -144,7 +144,7 @@ Direction.—The Administrator shall ensure that—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) establish an outpost in orbit around the Moon that—
 
-&emsp;&emsp;&emsp;"(aa) demonstrates technologies, systems, and operational concepts directly applicableto the space vehicle that will be used to transport humans to Mars;
+&emsp;&emsp;&emsp;"(aa) demonstrates technologies, systems, and operational concepts directly applicable to the space vehicle that will be used to transport humans to Mars;
 
 &emsp;&emsp;&emsp;"(bb) has the capability for periodic human habitation; and
 
@@ -320,7 +320,7 @@ Scope.—The human exploration roadmap shall include—
 
 &emsp;&emsp;"(L) a process for partnering with nongovernmental entities using Space Act Agreements or other acquisition instruments for future human space exploration; and
 
-&emsp;&emsp;"(M) include \[sic\] information on the phasing of planned intermediate destinations, Mars mission risk areas and potential risk mitigation approaches, technology requirements and phasing of required technology development activities, the management strategy to be followed, related ISS activities, planned international collaborative activities, potential commercial contributions, and other activities relevant to the achievement of the goal established in this section.
+&emsp;&emsp;"(M) include \[sic\] information on the phasing of planned intermediate destinations, Mars mission risk areas and potential risk mitigation approaches, technology requirements and phasing ofrequired technology development activities, the management strategy to be followed, related ISS activities, planned international collaborative activities, potential commercial contributions, and other activities relevant to the achievement of the goal established in this section.
 
 &emsp;"(3)
 

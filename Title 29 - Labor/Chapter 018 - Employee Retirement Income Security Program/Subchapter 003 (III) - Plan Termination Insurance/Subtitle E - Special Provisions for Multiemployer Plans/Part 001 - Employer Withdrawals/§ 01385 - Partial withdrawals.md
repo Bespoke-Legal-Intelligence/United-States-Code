@@ -88,7 +88,7 @@ Pub. L. 96–364, title I, §108(c)(2), Sept. 26, 1980, 94 Stat. 1268, provided 
 
 #### Applicability to Specified Plan Year, Cessation of Contribution Obligations, and Contribution Base Units of Employer
 
-Pub. L. 96–364, title I, §108(d), Sept. 26, 1980, 94 Stat. 1269, as amended by Pub. L. 98–369, div. A, title V, §558(b)(2), July 18, 1984, 98 Stat. 899, provided that: "For purposes of section 4205 of the Employee Retirement Income Security Act of 1974 \[this section\]—
+Pub. L. 96–364, title I, §108(d), Sept. 26, 1980, 94 Stat. 1269, as amended by Pub. L. 98–369, div. A, title V,§558(b)(2), July 18, 1984, 98 Stat. 899, provided that: "For purposes of section 4205 of the Employee Retirement Income Security Act of 1974 \[this section\]—
 
 &emsp;"(1) subsection (a)(1) of such section shall not apply to any plan year beginning before September 26, 1982,
 

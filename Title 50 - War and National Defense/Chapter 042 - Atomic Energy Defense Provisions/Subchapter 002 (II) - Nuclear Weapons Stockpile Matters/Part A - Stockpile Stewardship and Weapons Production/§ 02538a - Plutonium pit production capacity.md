@@ -20,13 +20,13 @@ Not later than March 1, 2015, and each year thereafter through 2030, the Secreta
 
 #### (c) Plan
 
-If the Secretary of Energy does not make a certification under subsection (b) by March 1 of any year in which a certification is required under that subsection, by not later than May 1of such year, the Chairman of the Nuclear Weapons Council shall submit to the congressional defense committees a plan to enable the nuclear security enterprise to meet the requirements under subsection (a). Such plan shall include identification of the resources of the Department of Energy that the Chairman determines should be redirected to support the plan to meet such requirements.
+If the Secretary of Energy does not make a certification under subsection (b) by March 1 of any year in which a certification is required under that subsection, by not later than May 1 of such year, the Chairman of the Nuclear Weapons Council shall submit to the congressional defense committees a plan to enable the nuclear security enterprise to meet the requirements under subsection (a). Such plan shall include identification of the resources of the Department of Energy that the Chairman determines should be redirected to support the plan to meet such requirements.
 
 #### (d) Certifications on plutonium enterprise
 
 #### (1) Requirement
 
-&emsp;Not later than 30 days after the date on which a covered project achieves a critical decision milestone, the Assistant Secretary for Environmental Management and the Deputy Administrator for Defense Programs shall jointly certify to the congressional defense committees that the operations, infrastructure, and workforce of such project are adequate to carry out the delivery and disposal of planned waste shipments relating to the plutonium enterprise, as outlined in the critical decision memoranda of the Department of Energy with respect to such project.
+&emsp;Not later than 30 days after the date on which a covered project achieves a critical decision milestone, the Assistant Secretary for Environmental Management and the DeputyAdministrator for Defense Programs shall jointly certify to the congressional defense committees that the operations, infrastructure, and workforce of such project are adequate to carry out the delivery and disposal of planned waste shipments relating to the plutonium enterprise, as outlined in the critical decision memoranda of the Department of Energy with respect to such project.
 
 #### (2) Failure to certify
 
@@ -50,7 +50,35 @@ If the Secretary of Energy does not make a certification under subsection (b) by
 
 &emsp;&emsp;(D) an explanation of any changes to the production goals or requirements as compared to the report submitted during the previous year.
 
-#### (f) Covered project defined
+#### (f) Prohibition on ARIES expansion before achievement of 30 pit-per-year base capability
+
+#### (1) In general
+
+&emsp;Until the date on which the Administrator certifies to the congressional defense committees that the base capability to produce not less than 30 war reserve plutonium pits per year has been established at Los Alamos National Laboratory, the Administrator may not—
+
+&emsp;&emsp;(A) carry out a project to expand the pit disassembly and processing capability of the spaces at PF–4 occupied by ARIES as of December 22, 2023; or
+
+&emsp;&emsp;(B) otherwise expand such spaces.
+
+#### (2) Exceptions
+
+&emsp;Paragraph (1) shall not apply with respect to—
+
+&emsp;&emsp;(A) ongoing or planned small projects to sustain or improve the efficiency of plutonium oxide production, provided that such projects do not expand the spaces at PF–4 occupied by ARIES as of December 22, 2023;
+
+&emsp;&emsp;(B) the planning and design of an additional ARIES capability at a location other than PF–4; or
+
+&emsp;&emsp;(C) the transfer of the ARIES capability to a location other than PF–4.
+
+#### (3) Definitions
+
+&emsp;In this subsection:
+
+&emsp;&emsp;(A) The term "ARIES" means the Advanced Recovery and Integrated Extraction System method, developed and piloted at Los Alamos National Laboratory, Los Alamos, New Mexico, for disassembling surplus defense plutonium pits and converting the plutonium from such pits into plutonium oxide.
+
+&emsp;&emsp;(B) The term "PF–4" means the Plutonium Facility at Technical Area 55 located at Los Alamos National Laboratory, Los Alamos, New Mexico.
+
+#### (g) Covered project defined
 
 In this subsection, the term "covered project" means—
 
@@ -58,11 +86,23 @@ In this subsection, the term "covered project" means—
 
 &emsp;(2) the Plutonium Pit Production Project, Los Alamos National Laboratory, Los Alamos, New Mexico (Project 21–D–512).
 
-(Pub. L. 107–314, div. D, title XLII, §4219, as added Pub. L. 113–291, div. C, title XXXI, §3112(b)(1), Dec. 19, 2014, 128 Stat. 3886; amended Pub. L. 116–92, div. C, title XXXI, §3116(b), Dec. 20, 2019, 133 Stat. 1952; Pub. L. 117–81, div. C, title XXXI, §3111(a), Dec. 27, 2021, 135 Stat. 2219.)
+#### (h) Management of plutonium modernization program
+
+Not later than 570 days after December 22, 2023, the Administrator for Nuclear Security shall ensure that the plutonium modernization program established by the Office of Defense Programs of the National Nuclear Security Administration, or any subsequently developed program designed to meet the requirements under subsection (a), is managed in accordance with the best practices for schedule development and cost estimating of the Government Accountability Office.
+
+(Pub. L. 107–314, div. D, title XLII, §4219, as added Pub. L. 113–291, div. C, title XXXI, §3112(b)(1), Dec. 19, 2014, 128 Stat. 3886; amended Pub. L. 116–92, div. C, title XXXI, §3116(b), Dec. 20, 2019, 133 Stat. 1952; Pub. L. 117–81, div. C, title XXXI, §3111(a), Dec. 27, 2021, 135 Stat. 2219; Pub. L. 118–31, div. C, title XXXI, §§3116, 3117, Dec. 22, 2023, 137 Stat. 790, 791.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+December 22, 2023, referred to in subsec. (f)(1)(A), (2)(A), was in the original "the date of the enactment of this Act" and was translated as referring to the date of enactment of Pub. L. 118–31, which enacted subsec. (f).
+
 #### Amendments
+
+<b>2023</b>—Subsecs. (f), (g). Pub. L. 118–31, §3116, added subsec. (f) and redesignated former subsec. (f) as (g).
+
+Subsec. (h). Pub. L. 118–31, §3117, added subsec. (h).
 
 <b>2021</b>—Subsecs. (d) to (f). Pub. L. 117–81 added subsecs. (d) to (f).
 

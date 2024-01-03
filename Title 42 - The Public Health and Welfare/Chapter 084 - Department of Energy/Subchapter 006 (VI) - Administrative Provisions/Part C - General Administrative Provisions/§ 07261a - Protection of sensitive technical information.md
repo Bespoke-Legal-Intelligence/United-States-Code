@@ -14,7 +14,7 @@ In making a decision under this section, the Secretary shall consider, in additi
 
 &emsp;(1) whether national security will be compromised;
 
-&emsp;(2) whether sensitive technical information (whether classified or unclassified) under theNaval Nuclear Propulsion Program or the nuclear weapons programs or other atomic energy defense activities of the Department of Energy for which dissemination is controlled under Federal statutes and regulations will be released to unauthorized persons;
+&emsp;(2) whether sensitive technical information (whether classified or unclassified) under the Naval Nuclear Propulsion Program or the nuclear weapons programs or other atomic energy defense activities of the Department of Energy for which dissemination is controlled under Federal statutes and regulations will be released to unauthorized persons;
 
 &emsp;(3) whether an organizational conflict of interest contemplated by Federal statutes and regulations will result; and
 

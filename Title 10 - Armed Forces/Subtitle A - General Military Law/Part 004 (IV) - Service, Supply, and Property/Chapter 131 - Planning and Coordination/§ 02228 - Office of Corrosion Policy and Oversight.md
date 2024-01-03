@@ -42,7 +42,7 @@ Additional Authorities for Director.—The Director is authorized to—
 
 &emsp;(1) develop, update, and coordinate corrosion training with the Defense Acquisition University;
 
-&emsp;(2) participate in the process within the Department of Defense for the development of relevant directives and instructions;; <sup>1</sup>
+&emsp;(2) participate in the process within the Department of Defense for the development of relevant directives and instructions;
 
 &emsp;(3) interact directly with the corrosion prevention industry, trade associations, other government corrosion prevention agencies, academic research and educational institutions, and scientific organizations engaged in corrosion prevention, including the National Academy of Sciences; and
 
@@ -56,7 +56,7 @@ Long-Term Strategy.—(1) The Secretary of Defense shall develop and implement a
 
 &emsp;(A) Expansion of the emphasis on corrosion prevention and mitigation within the Department of Defense to include coverage of infrastructure.
 
-&emsp;(B) Application uniformly throughout the Department of Defense of requirements and criteria for the testing and certification of new corrosion-prevention technologies for equipment and infrastructure with similar characteristics, similar missions, or similar operating environments.
+&emsp;(B) Application uniformly throughout the Department of Defense of requirements and criteria for the testing and certification of new corrosion-prevention technologies for equipment and infrastructure with similarcharacteristics, similar missions, or similar operating environments.
 
 &emsp;(C) Implementation of programs, including supporting databases, to ensure that a focused and coordinated approach is taken throughout the Department of Defense to collect, review, validate, and distribute information on proven methods and products that are relevant to the prevention of corrosion of military equipment and infrastructure.
 
@@ -114,7 +114,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) an industrial coatings applicator training program registered under the Act of August 16, 1937 (popularly known as the "National Apprenticeship Act"; 29 U.S.C. 50 et seq.).
 
-(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, §331, Jan. 7, 2011, 124 Stat. 4185; Pub. L. 112–239, div. A, title III, §341, Jan. 2, 2013, 126 Stat. 1699; Pub. L. 114–328, div. A, title IX, §954(a), (b), Dec. 23, 2016, 130 Stat. 2376, 2377; Pub. L. 115–232, div. A, title VIII, §811(a), Aug. 13, 2018, 132 Stat. 1845; Pub. L. 116–92, div. A, title VIII, §861(j)(13), title XVII,§1731(a)(32), Dec. 20, 2019, 133 Stat. 1520, 1814; Pub. L. 117–81, div. A, title VIII, §813, Dec. 27, 2021, 135 Stat. 1823.)
+(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, §331, Jan. 7, 2011, 124 Stat. 4185; Pub. L. 112–239, div. A, title III, §341, Jan. 2, 2013, 126 Stat. 1699; Pub. L. 114–328, div. A, title IX, §954(a), (b), Dec. 23, 2016, 130 Stat. 2376, 2377; Pub. L. 115–232, div. A, title VIII, §811(a), Aug. 13, 2018, 132 Stat. 1845; Pub. L. 116–92, div. A, title VIII, §861(j)(13), title XVII, §1731(a)(32), Dec. 20, 2019, 133 Stat. 1520, 1814; Pub. L. 117–81, div. A, title VIII, §813, Dec. 27, 2021, 135 Stat. 1823; Pub. L. 118–31, div. A, title XVIII, §1801(a)(19), Dec. 22, 2023, 137 Stat. 684.)
 
 #### <b>Editorial Notes</b>
 
@@ -123,6 +123,8 @@ Definitions.—In this section:
 The Act of August 16, 1937, referred to in subsec. (f)(6)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c)(2). Pub. L. 118–31 substituted "instructions;" for "instructions;;".
 
 <b>2021</b>—Subsec. (b)(6). Pub. L. 117–81, §813(1), added par. (6).
 
@@ -202,7 +204,7 @@ Pub. L. 112–81, div. A, title III, §324, Dec. 31, 2011, 125 Stat. 1362, provi
 
 "(a)
 
-Implementation; Congressional Briefing.—Not later than January 31, 2012, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall implement the recommended actions described in subsection (b) and provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the actions taken by the Under Secretary to implement such recommended actions.
+Implementation; Congressional Briefing.—Not later than January 31, 2012, the Under Secretary of Defense for Acquisition, Technology, and Logistics shallimplement the recommended actions described in subsection (b) and provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the actions taken by the Under Secretary to implement such recommended actions.
 
 "(b)
 
@@ -293,6 +295,4 @@ Duties.—(1) The corrosion control and prevention executive of a military depar
 #### Deadline for Designation of Responsible Official or Organization; Interim Report; Deadline for Long-Term Strategy; GAO Review
 
 Pub. L. 107–314, div. A, title X, §1067(b)–(e), Dec. 2, 2002, 116 Stat. 2658, 2659, directed the Secretary of Defense to designate a responsible official or organization under subsec. (a) of this section not later than 90 days after Dec. 2, 2002, directed the Secretary to submit to Congress a report setting forth the long-term strategy required under subsec. (c) of this section not later than one year after Dec. 2, 2002, and required the Comptroller General to monitor the implementation of such long-term strategy and, not later than 18 months after Dec. 2, 2002, to submit to Congress an assessment of the extent to which that strategy had been implemented.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

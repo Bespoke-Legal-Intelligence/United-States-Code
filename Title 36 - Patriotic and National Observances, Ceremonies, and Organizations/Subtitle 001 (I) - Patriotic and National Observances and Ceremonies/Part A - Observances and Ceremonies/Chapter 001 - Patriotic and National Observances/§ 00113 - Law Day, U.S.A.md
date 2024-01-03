@@ -8,7 +8,7 @@ Designation.—May 1 is Law Day, U.S.A.
 
 Purpose.—Law Day, U.S.A., is a special day of celebration by the people of the United States—
 
-&emsp;(1) in appreciation of their liberties and the reaffirmation of their loyalty to the UnitedStates and of their rededication to the ideals of equality and justice under law in their relations with each other and with other countries; and
+&emsp;(1) in appreciation of their liberties and the reaffirmation of their loyalty to the United States and of their rededication to the idealsof equality and justice under law in their relations with each other and with other countries; and
 
 &emsp;(2) for the cultivation of the respect for law that is so vital to the democratic way of life.
 

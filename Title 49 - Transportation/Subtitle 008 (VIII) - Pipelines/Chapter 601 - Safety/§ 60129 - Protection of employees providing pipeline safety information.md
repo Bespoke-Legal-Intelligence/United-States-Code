@@ -18,7 +18,7 @@ In general.—No employer may discharge any employee or otherwise discriminate a
 
 &emsp;&emsp;(E) provided, caused to be provided, or is about to provide or cause to be provided, testimony in any proceeding described in subparagraph (D); or
 
-&emsp;&emsp;(F) assisted or participated or is about to assist or participate in any manner in such a proceeding or in any other manner in such a proceeding or in any other action to carryout the purposes of this chapter or any other Federal law relating to pipeline safety.
+&emsp;&emsp;(F) assisted or participated or is about to assist or participate in any manner in such a proceeding or in any other manner in such a proceeding or in any other action to carry out the purposes of this chapter or any other Federal law relating to pipeline safety.
 
 &emsp;(2)
 
@@ -54,7 +54,7 @@ Required showing by complainant.—The Secretary of Labor shall dismiss a compla
 
 &emsp;&emsp;&emsp;(ii)
 
-Showing by employer.—Notwithstanding a finding by the Secretary of Labor that the complainant has made the showing required under clause (i), no investigation otherwise required under subparagraph (A) shall be conducted if the employer demonstrates, by clear and convincing evidence, that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
+Showing by employer.—Notwithstanding a finding by the Secretary of Labor that the complainant has made the showing required under clause (i), no investigation otherwise required under subparagraph (A) shall be conducted if theemployer demonstrates, by clear and convincing evidence, that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
 
 &emsp;&emsp;&emsp;(iii)
 

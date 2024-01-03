@@ -26,7 +26,7 @@ Any member or agent of the Oversight Board may, if authorized by the Oversight B
 
 &emsp;(B) the nature and aggregate amount of claims or other economic interests held in relation to the issuer as of the later of—
 
-&emsp;&emsp;(i) the date the creditor acquired the claims or other economic interests or, in thecase of an organized group of creditors, the date the group was formed; or
+&emsp;&emsp;(i) the date the creditor acquired the claims or other economic interests or, in the case of an organized group of creditors, the date the group was formed; or
 
 &emsp;&emsp;(ii) the date the Oversight Board was formed.
 
@@ -46,7 +46,7 @@ The Oversight Board may accept, use, and dispose of gifts, bequests, or devises 
 
 #### (1) In general
 
-&emsp;The Oversight Board may issue subpoenas requiring the attendance and testimony of witnesses and the production of books, records, correspondence, memoranda, papers, documents, electronic files, metadata, tapes, and materials of any nature relating to any matter under investigation by the Oversight Board. Jurisdiction to compel the attendance of witnesses and the production of such materials shall be governed by the statute setting forth the scope of personal jurisdiction exercised by the covered territory, or in the case of Puerto Rico, 32 L.P.R.A. App. III. R. 4. 7., as amended.
+&emsp;The Oversight Board may issue subpoenas requiring the attendance and testimony ofwitnesses and the production of books, records, correspondence, memoranda, papers, documents, electronic files, metadata, tapes, and materials of any nature relating to any matter under investigation by the Oversight Board. Jurisdiction to compel the attendance of witnesses and the production of such materials shall be governed by the statute setting forth the scope of personal jurisdiction exercised by the covered territory, or in the case of Puerto Rico, 32 L.P.R.A. App. III. R. 4. 7., as amended.
 
 #### (2) Failure to obey a subpoena
 
@@ -82,7 +82,7 @@ The Oversight Board shall ensure the purposes of this chapter are met, including
 
 &emsp;&emsp;(A) the Oversight Board delivering the certification described in paragraph (1); and
 
-&emsp;&emsp;(B) the agreement of a majority in amount of the Bond Claims of a covered territory or a covered territorial instrumentality that are to be affected by such agreement, provided, however, that such agreement is solely for purposes of serving as a Qualifying Modification pursuant to subsection <sup>1</sup> 2231(g) of this title and shall not alter existing legal rights of holders of Bond Claims againstsuch covered territory or covered territorial instrumentality that have not assented to such agreement until an order approving the Qualifying Modification has been entered pursuant to section 2231(m)(1)(D) of this title.
+&emsp;&emsp;(B) the agreement of a majority in amount of the Bond Claims of a covered territory or a covered territorial instrumentality that are to be affected by such agreement, provided, however, that such agreement is solely for purposes of serving as a Qualifying Modification pursuant to subsection <sup>1</sup> 2231(g) of this title and shall not alter existing legal rights of holders of Bond Claims against such covered territory or covered territorial instrumentality that have not assented to such agreement until an order approving the Qualifying Modification has been entered pursuant to section 2231(m)(1)(D) of this title.
 
 #### (3) Preexisting voluntary agreements
 

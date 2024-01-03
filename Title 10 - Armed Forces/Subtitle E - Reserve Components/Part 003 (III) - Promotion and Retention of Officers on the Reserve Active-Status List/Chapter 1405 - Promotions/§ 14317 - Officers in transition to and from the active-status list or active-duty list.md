@@ -12,7 +12,7 @@ Effect of Transfer to Inactive Status or Retired Status.—If a reserve officer 
 
 (b)
 
-Effect of Placement on Active-Duty List.—A reserve officer who is on a promotionlist as a result of selection for promotion by a mandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502 of this title and who before being promoted is placed on the active-duty list of the same armed force and placed in the same competitive category shall, under regulations prescribed by the Secretary of Defense, be placed on an appropriate promotion list for officers on the active-duty list established under chapter 36 of this title.
+Effect of Placement on Active-Duty List.—A reserve officer who is on a promotion list as a result of selection for promotion by a mandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502 of this title and who before being promoted is placed on the active-duty list of the same armed force and placed in the same competitive category shall, under regulations prescribed by the Secretary of Defense, be placed on an appropriate promotion list for officers on the active-duty list established under chapter 36 of this title.
 
 (c)
 
@@ -42,7 +42,7 @@ Officers Ordered to Active Duty in Time of War or National Emergency.—(1) A re
 
 (4) Consideration of an officer for promotion under this subsection shall be under regulations prescribed by the Secretary of the military department concerned.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2945; amended Pub. L. 104–106, div. A, title XV, §1501(b)(26), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–85, div. A, title X, §1073(a)(68), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 108–136, div. A, title V, §512(a), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 110–417, \[div. A\], title V, §513, Oct. 14, 2008, 122 Stat. 4441.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2945; amended Pub. L. 104–106, div. A, title XV, §1501(b)(26), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–85, div. A, title X, §1073(a)(68), Nov. 18, 1997, 111 Stat. 1904; Pub. L.108–136, div. A, title V, §512(a), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 110–417, \[div. A\], title V, §513, Oct. 14, 2008, 122 Stat. 4441.)
 
 #### <b>Editorial Notes</b>
 

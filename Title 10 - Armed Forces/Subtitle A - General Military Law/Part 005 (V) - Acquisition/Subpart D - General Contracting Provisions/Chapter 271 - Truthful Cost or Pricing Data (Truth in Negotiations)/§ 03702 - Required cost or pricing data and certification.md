@@ -22,7 +22,7 @@ Offeror for subcontract.—An offeror for a subcontract (at any tier) of a contr
 
 &emsp;(4)
 
-Subcontractor.—The subcontractor for a subcontract covered by subparagraph (C) <sup>1</sup> shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if the price adjustment is expected to exceed $2,000,000.
+Subcontractor.—The subcontractor for a subcontract covered by paragraph (3) shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if the price adjustment is expected to exceed $2,000,000.
 
 (b)
 
@@ -46,25 +46,25 @@ Subcontracts Not Affected by Waiver.—A waiver of requirements for submission o
 
 (f)
 
-Modifications to Prior Contracts.—Under subsection (a), in connection with a prime contract entered into on or before June 30, 2018, the head of the agency that entered into such contract shall modify the contract as soon as practicable to reflect subparagraphs (B) and (C) of such paragraph,<sup>2</sup> without requiring consideration.
+Modifications to Prior Contracts.—Under subsection (a), in connection with a prime contract entered into on or before June 30, 2018, the head of the agency that entered into such contract shall modify the contract as soon as practicable to reflect paragraphs (1) and (2) of such subsection, without requiring consideration.
 
 (g)
 
 Adjustment of Amounts.—Effective on October 1 of each year that is divisible by 5, each amount set forth in subsection (a) shall be adjusted in accordance with section 1908 of title 41.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1831(a), (c), Jan. 1, 2021, 134 Stat. 4209; Pub. L. 117–81, div. A, title VIII, §804(b), title XVII, §1701(b)(10)(B)–(G), (c)(3), Dec. 27, 2021, 135 Stat. 1816, 2133, 2134, 2136.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1831(a), (c), Jan. 1, 2021, 134 Stat. 4209; Pub. L. 117–81, div. A, title VIII, §804(b), title XVII, §1701(b)(10)(B)–(G), (c)(3), Dec. 27, 2021, 135Stat. 1816, 2133, 2134, 2136; Pub. L. 118–31, div. A, title XVIII, §1801(a)(29), Dec. 22, 2023, 137 Stat. 684.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Subparagraphs (B) and (C) of such paragraph, referred to in subsec. (f), probably mean pars. (2) and (3) of subsec. (a) of this section, which were transferred and redesignated from subpars. (B) and (C) of par. (1) of subsec. (a) of section 2306a of this title by Pub. L. 116–283. See 2021 Amendment notes below.
-
 #### Codification
 
-The text of subsec. (a) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, §1831(c), was based on Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\],Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, §804(b)(1), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), Nov. 5, 1990, 104 Stat. 1589; Pub. L. 102–25, title VII, §701(b), Apr. 6, 1991, 105 Stat. 113; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), Dec. 5, 1991, 105 Stat. 1415, 1416; Pub. L. 103–355, title I, §§1201, 1202(b), Oct. 13, 1994, 108 Stat. 3273, 3274; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §805(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 114–328, div. A, title VIII, §822(1), Dec. 23, 2016, 130 Stat. 2276; Pub. L. 115–91, div. A, title VIII, §811(a)(1), Dec. 12, 2017, 131 Stat. 1459; Pub. L. 116–283, div. A, §814(a)(1), Jan. 1, 2021, 134 Stat. 3479; Pub. L. 117–81, div. A, title VIII, §804(a), Dec. 27, 2021, 135 Stat. 1816. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+The text of subsec. (a) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, §1831(c), was based on Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, §804(b)(1), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), Nov. 5, 1990, 104 Stat. 1589; Pub. L. 102–25, title VII, §701(b), Apr. 6, 1991, 105 Stat. 113; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), Dec. 5, 1991, 105 Stat. 1415, 1416; Pub. L. 103–355, title I, §§1201, 1202(b), Oct. 13, 1994, 108 Stat. 3273, 3274; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §805(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 114–328, div. A, title VIII, §822(1), Dec. 23, 2016, 130 Stat. 2276; Pub. L. 115–91, div. A, title VIII, §811(a)(1), Dec. 12, 2017, 131 Stat. 1459; Pub. L. 116–283, div. A, §814(a)(1), Jan. 1, 2021, 134 Stat. 3479; Pub. L. 117–81, div. A, title VIII, §804(a), Dec. 27, 2021, 135 Stat. 1816. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(4). Pub. L. 118–31, §1801(a)(29)(A), substituted "paragraph (3)" for "subparagraph (C)".
+
+Subsec. (f). Pub. L. 118–31, §1801(a)(29)(B), substituted "paragraphs (1) and (2) of such subsection" for "subparagraphs (B) and (C) of such paragraph".
 
 <b>2021</b>—Pub. L. 116–283, §1831(c)(1), (2)(A), transferred subsec. (a) of section 2306a of this title to this section and redesignated pars. (1) to (7) of such former subsec. (a) as subsecs. (a) to (g), respectively.
 
@@ -122,7 +122,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 #### Data Collection
 
-Pub. L. 117–81, div. A, title VIII, §862(b), Dec. 27, 2021, 135 Stat. 1852, provided that: "The Secretary of Defense shall develop and implement a plan to collect and analyze data on the use of authority under such section 873 \[of Pub. L. 114–92, set out below\] for the purposes of—
+Pub. L. 117–81, div. A, title VIII, §862(b), Dec. 27, 2021, 135 Stat. 1852, provided that: "The Secretary of Defenseshall develop and implement a plan to collect and analyze data on the use of authority under such section 873 \[of Pub. L. 114–92, set out below\] for the purposes of—
 
 &emsp;"(1) developing and sharing best practices; and
 
@@ -181,8 +181,4 @@ Small business.—The term 'small business' has the meaning given the term 'smal
 Nontraditional defense contractor.—The term 'nontraditional defense contractor' has the meaning given that term in section 2302(9) of title 10, United States Code \[now 10 U.S.C. 3014\]."
 
 \[Section 896(2)(B) of Pub. L. 114–328, which directed amendment of par. (2) of subsec. (b) of section 873 of Pub. L. 114–92, set out above, by inserting ", and if such performance audit is initiated within 18 months of the contract completion" before the period at the end, was executed by making the insertion before the period at the end of the concluding provisions of subsec. (b), to reflect the probable intent of Congress.\]
-
-<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (3)".</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

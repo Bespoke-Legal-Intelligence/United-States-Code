@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title12",
- "package": "USCODE-2022-title12",
+ "package": "USCODE-2023-title12",
  "pieces": [
   {
    "id": "12_",
@@ -7401,11 +7401,18 @@
   },
   {
    "id": "12_1020d_to_1020h",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 267]",
+     true
+    ]
+   ],
    "path": "Chapter 007 - Farm Credit Administration/Subchapter 002–A (II–A) - Federal Farm Mortgage Corporation/§ 01020d to 1020h - Repealed. Pub. L. 87–353, §3(a), Oct. 4, 1961, 75 Stat. 773.md",
    "printed_pages": [
     266,
-    266
+    267
    ]
   },
   {
@@ -7413,27 +7420,16 @@
    "marks": [],
    "path": "Chapter 007 - Farm Credit Administration/Subchapter 002–B (II–B) - Loans to Farmers by Governor of Farm Credit Administration/README.md",
    "printed_pages": [
-    266,
-    266
+    267,
+    267
    ]
   },
   {
    "id": "12_1020i_to_1020n",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       110,
-       "[Page 267]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Farm Credit Administration/Subchapter 002–B (II–B) - Loans to Farmers by Governor of Farm Credit Administration/§ 01020i to 1020n - Repealed. Aug. 14, 1946, ch. 964, §2(a)(2), 60 Stat. 1062.md",
    "printed_pages": [
-    266,
+    267,
     267
    ]
   },
@@ -7520,11 +7516,22 @@
   },
   {
    "id": "12_1034",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       119,
+       "[Page 268]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 007 - Farm Credit Administration/Subchapter 003 (III) - Federal Intermediate Credit Banks/Discounts and Loans/§ 01034 - Repealed. June 3, 1935, ch. 164, §5(c), 49 Stat. 315.md",
    "printed_pages": [
     267,
-    267
+    268
    ]
   },
   {
@@ -7532,27 +7539,16 @@
    "marks": [],
    "path": "Chapter 007 - Farm Credit Administration/Subchapter 003 (III) - Federal Intermediate Credit Banks/Issue of Debentures/README.md",
    "printed_pages": [
-    267,
-    267
+    268,
+    268
    ]
   },
   {
    "id": "12_1040_to_1045",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       108,
-       "[Page 268]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Farm Credit Administration/Subchapter 003 (III) - Federal Intermediate Credit Banks/Issue of Debentures/§ 01040 to 1045 - Repealed. Pub. L. 92–181, title V, §5.26(a), Dec. 10, 1971, 85 Stat. 624.md",
    "printed_pages": [
-    267,
+    268,
     268
    ]
   },
@@ -7639,11 +7635,18 @@
   },
   {
    "id": "12_1091_to_1095",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 269]",
+     true
+    ]
+   ],
    "path": "Chapter 007 - Farm Credit Administration/Subchapter 003 (III) - Federal Intermediate Credit Banks/Examinations and Reports/§ 01091 to 1095 - Repealed. Pub. L. 92–181, title V, §5.26(a), Dec. 10, 1971, 85 Stat. 624.md",
    "printed_pages": [
     268,
-    268
+    269
    ]
   },
   {
@@ -7651,23 +7654,16 @@
    "marks": [],
    "path": "Chapter 007 - Farm Credit Administration/Subchapter 003 (III) - Federal Intermediate Credit Banks/Rules and Regulations/README.md",
    "printed_pages": [
-    268,
-    268
+    269,
+    269
    ]
   },
   {
    "id": "12_1101",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 269]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Farm Credit Administration/Subchapter 003 (III) - Federal Intermediate Credit Banks/Rules and Regulations/§ 01101 - Repealed. Pub. L. 92–181, title V, §5.26(a), Dec. 10, 1971, 85 Stat. 624.md",
    "printed_pages": [
-    268,
+    269,
     269
    ]
   },
@@ -7783,10 +7779,14 @@
    "id": "12_1131d_to_1131g",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 270]",
-     true
+     "I",
+     6,
+     [
+      [
+       181,
+       "[Page 270]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 007 - Farm Credit Administration/Subchapter 004 (IV) - Production Credit Associations/Production Credit Associations/§ 01131d to 1131g - Repealed. Pub. L. 92–181, title V, §5.26(a), Dec. 10, 1971, 85 Stat. 624.md",
@@ -7878,11 +7878,22 @@
   },
   {
    "id": "12_1134f_to_1134m",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       171,
+       "[Page 271]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 007 - Farm Credit Administration/Subchapter 005 (V) - Regional Banks for Cooperatives and Central Bank for Cooperatives/Central Bank/§ 01134f to 1134m - Repealed. Pub. L. 92–181, title V, §5.26(a), Dec. 10, 1971, 85 Stat. 624.md",
    "printed_pages": [
     270,
-    270
+    271
    ]
   },
   {
@@ -7890,27 +7901,16 @@
    "marks": [],
    "path": "Chapter 007 - Farm Credit Administration/Subchapter 006 (VI) - Provisions Common to Production Credit Associations, and Regional and Central Banks for Cooperatives/README.md",
    "printed_pages": [
-    270,
-    270
+    271,
+    271
    ]
   },
   {
    "id": "12_1138_to_1138c",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       120,
-       "[Page 271]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Farm Credit Administration/Subchapter 006 (VI) - Provisions Common to Production Credit Associations, and Regional and Central Banks for Cooperatives/§ 01138 to 1138c - Repealed. Pub. L. 92–181, title V, §5.26(a), Dec. 10, 1971, 85 Stat. 624.md",
    "printed_pages": [
-    270,
+    271,
     271
    ]
   },
@@ -7955,7 +7955,7 @@
    "marks": [
     [
      "L",
-     24,
+     14,
      "[Page 272]",
      true
     ]
@@ -7997,10 +7997,14 @@
    "id": "12_1141h",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 273]",
-     true
+     "I",
+     10,
+     [
+      [
+       141,
+       "[Page 273]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 007A - Agricultural Marketing/§ 01141h - Avoidance of duplication; cooperation with other governmental establishments; obtaining information and data; cooperation with States….md",
@@ -8023,10 +8027,10 @@
    "marks": [
     [
      "I",
-     40,
+     32,
      [
       [
-       101,
+       283,
        "[Page 274]"
       ]
      ]
@@ -8069,14 +8073,10 @@
    "id": "12_1148a-1_to_1148a-3",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       780,
-       "[Page 275]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 275]",
+     true
     ]
    ],
    "path": "Chapter 007B - Regional Agricultural Credit Corporations/§ 01148a–1 to 1148a–3 - Repealed. Pub. L. 87–128, title III, §341(a), Aug. 8, 1961, 75 Stat. 318.md",
@@ -8105,11 +8105,18 @@
   },
   {
    "id": "12_1150",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 276]",
+     true
+    ]
+   ],
    "path": "Chapter 008 - Adjustment and Cancellation of Farm Loans/§ 01150 - Compromise, adjustment, and cancellation of farm loans; conditions; delegation of powers and duties by Secretary of Agriculture.md",
    "printed_pages": [
     275,
-    275
+    276
    ]
   },
   {
@@ -8117,20 +8124,10 @@
    "marks": [
     [
      "I",
-     2,
+     32,
      [
       [
-       495,
-       "[Page 276]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     36,
-     [
-      [
-       229,
+       171,
        "[Page 277]"
       ]
      ]
@@ -8138,36 +8135,32 @@
    ],
    "path": "Chapter 008 - Adjustment and Cancellation of Farm Loans/§ 01150a - Farm loans to which chapter is applicable.md",
    "printed_pages": [
-    275,
+    276,
     277
    ]
   },
   {
    "id": "12_1150b",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 278]",
+     true
+    ]
+   ],
    "path": "Chapter 008 - Adjustment and Cancellation of Farm Loans/§ 01150b - Authorization of appropriations.md",
    "printed_pages": [
     277,
-    277
+    278
    ]
   },
   {
    "id": "12_1150c",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       327,
-       "[Page 278]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - Adjustment and Cancellation of Farm Loans/§ 01150c - Self-hauling of hay or other roughages under hay transportation assistance program; liability for or refund of excess payments….md",
    "printed_pages": [
-    277,
+    278,
     278
    ]
   },
@@ -8344,24 +8337,6 @@
   },
   {
    "id": "12_1231,_1232",
-   "marks": [],
-   "path": "Chapter 009 - National Agricultural Credit Corporations/Permit to Begin Business/§ 01231, 1232 - Repealed. Pub. L. 86–230, §24, Sept. 8, 1959, 73 Stat. 466.md",
-   "printed_pages": [
-    278,
-    278
-   ]
-  },
-  {
-   "id": "12_-ch9-Miscellaneous_Administrative_Provisions",
-   "marks": [],
-   "path": "Chapter 009 - National Agricultural Credit Corporations/Miscellaneous Administrative Provisions/README.md",
-   "printed_pages": [
-    278,
-    278
-   ]
-  },
-  {
-   "id": "12_1241_to_1244",
    "marks": [
     [
      "L",
@@ -8370,9 +8345,27 @@
      true
     ]
    ],
-   "path": "Chapter 009 - National Agricultural Credit Corporations/Miscellaneous Administrative Provisions/§ 01241 to 1244 - Repealed. Pub. L. 86–230, §24, Sept. 8, 1959, 73 Stat. 466.md",
+   "path": "Chapter 009 - National Agricultural Credit Corporations/Permit to Begin Business/§ 01231, 1232 - Repealed. Pub. L. 86–230, §24, Sept. 8, 1959, 73 Stat. 466.md",
    "printed_pages": [
     278,
+    279
+   ]
+  },
+  {
+   "id": "12_-ch9-Miscellaneous_Administrative_Provisions",
+   "marks": [],
+   "path": "Chapter 009 - National Agricultural Credit Corporations/Miscellaneous Administrative Provisions/README.md",
+   "printed_pages": [
+    279,
+    279
+   ]
+  },
+  {
+   "id": "12_1241_to_1244",
+   "marks": [],
+   "path": "Chapter 009 - National Agricultural Credit Corporations/Miscellaneous Administrative Provisions/§ 01241 to 1244 - Repealed. Pub. L. 86–230, §24, Sept. 8, 1959, 73 Stat. 466.md",
+   "printed_pages": [
+    279,
     279
    ]
   },
@@ -8567,26 +8560,30 @@
   },
   {
    "id": "12_-ch10",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       27,
+       "[Page 280]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 010 - Local Agricultural-Credit Corporations, Livestock-Loan Companies and Like Organizations; Loans to Individuals to Aid in Formation or to…/README.md",
    "printed_pages": [
     279,
-    279
+    280
    ]
   },
   {
    "id": "12_1401_to_1404",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 280]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Local Agricultural-Credit Corporations, Livestock-Loan Companies and Like Organizations; Loans to Individuals to Aid in Formation or to…/§ 01401 to 1404 - Repealed. Pub. L. 115–334, title V, §5411(64), Dec. 20, 2018, 132 Stat. 4686.md",
    "printed_pages": [
-    279,
+    280,
     280
    ]
   },
@@ -8612,21 +8609,17 @@
    "id": "12_1422",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       130,
-       "[Page 281]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 281]",
+     true
     ],
     [
      "I",
-     98,
+     94,
      [
       [
-       109,
+       114,
        "[Page 282]"
       ]
      ]
@@ -8661,19 +8654,23 @@
    "marks": [
     [
      "I",
-     12,
+     10,
      [
       [
-       97,
+       229,
        "[Page 283]"
       ]
      ]
     ],
     [
-     "L",
-     74,
-     "[Page 284]",
-     true
+     "I",
+     72,
+     [
+      [
+       105,
+       "[Page 284]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Federal Home Loan Banks/§ 01424 - Eligibility for membership.md",
@@ -8696,13 +8693,13 @@
    "marks": [
     [
      "L",
-     28,
+     22,
      "[Page 285]",
      true
     ],
     [
      "L",
-     104,
+     98,
      "[Page 286]",
      true
     ],
@@ -8711,27 +8708,27 @@
      172,
      [
       [
-       452,
+       87,
        "[Page 287]"
       ]
      ]
     ],
     [
      "I",
-     246,
+     242,
      [
       [
-       88,
+       94,
        "[Page 288]"
       ]
      ]
     ],
     [
      "I",
-     308,
+     306,
      [
       [
-       111,
+       117,
        "[Page 289]"
       ]
      ]
@@ -8747,14 +8744,10 @@
    "id": "12_1426a",
    "marks": [
     [
-     "I",
-     66,
-     [
-      [
-       94,
-       "[Page 290]"
-      ]
-     ]
+     "L",
+     58,
+     "[Page 290]",
+     true
     ]
    ],
    "path": "Chapter 011 - Federal Home Loan Banks/§ 01426a - Exclusion from certain requirements.md",
@@ -8771,7 +8764,7 @@
      56,
      [
       [
-       762,
+       265,
        "[Page 291]"
       ]
      ]
@@ -8781,55 +8774,42 @@
      86,
      [
       [
-       637,
+       193,
        "[Page 292]"
       ]
      ]
     ],
     [
-     "I",
-     146,
-     [
-      [
-       163,
-       "[Page 293]"
-      ]
-     ]
+     "L",
+     142,
+     "[Page 293]",
+     true
     ],
     [
-     "I",
+     "L",
      208,
-     [
-      [
-       508,
-       "[Page 294]"
-      ]
-     ]
+     "[Page 294]",
+     true
+    ],
+    [
+     "L",
+     248,
+     "[Page 295]",
+     true
     ]
    ],
    "path": "Chapter 011 - Federal Home Loan Banks/§ 01427 - Directors.md",
    "printed_pages": [
     290,
-    294
+    295
    ]
   },
   {
    "id": "12_1428",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 295]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 011 - Federal Home Loan Banks/§ 01428 - Examination of State laws, regulations, and procedures; studies of values, etc.md",
    "printed_pages": [
-    294,
+    295,
     295
    ]
   },
@@ -8859,50 +8839,46 @@
      32,
      [
       [
-       318,
+       96,
        "[Page 296]"
       ]
      ]
     ],
     [
      "I",
-     90,
+     84,
      [
       [
-       89,
+       277,
        "[Page 297]"
       ]
      ]
     ],
     [
      "I",
-     160,
+     156,
      [
       [
-       100,
+       200,
        "[Page 298]"
       ]
      ]
     ],
     [
      "L",
-     230,
+     226,
      "[Page 299]",
      true
     ],
     [
-     "I",
+     "L",
      308,
-     [
-      [
-       323,
-       "[Page 300]"
-      ]
-     ]
+     "[Page 300]",
+     true
     ],
     [
      "L",
-     372,
+     368,
      "[Page 301]",
      true
     ]
@@ -8926,10 +8902,14 @@
    "id": "12_1430b",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 302]",
-     true
+     "I",
+     14,
+     [
+      [
+       104,
+       "[Page 302]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Federal Home Loan Banks/§ 01430b - Advances to nonmember mortgagee; terms and conditions.md",
@@ -8955,23 +8935,27 @@
      22,
      [
       [
-       187,
+       94,
        "[Page 303]"
       ]
      ]
     ],
     [
-     "L",
-     46,
-     "[Page 304]",
-     true
+     "I",
+     44,
+     [
+      [
+       185,
+       "[Page 304]"
+      ]
+     ]
     ],
     [
      "I",
      120,
      [
       [
-       177,
+       91,
        "[Page 305]"
       ]
      ]
@@ -10733,7 +10717,7 @@
      14,
      [
       [
-       170,
+       113,
        "[Page 434]"
       ]
      ]
@@ -10762,7 +10746,7 @@
      4,
      [
       [
-       1314,
+       1273,
        "[Page 435]"
       ]
      ]
@@ -13314,7 +13298,7 @@
      116,
      [
       [
-       336,
+       343,
        "[Page 629]"
       ]
      ]
@@ -13324,20 +13308,16 @@
      162,
      [
       [
-       205,
+       262,
        "[Page 630]"
       ]
      ]
     ],
     [
-     "I",
-     222,
-     [
-      [
-       166,
-       "[Page 631]"
-      ]
-     ]
+     "L",
+     224,
+     "[Page 631]",
+     true
     ],
     [
      "L",
@@ -16115,7 +16095,7 @@
      18,
      [
       [
-       532,
+       614,
        "[Page 820]"
       ]
      ]
@@ -16153,7 +16133,7 @@
      2,
      [
       [
-       699,
+       880,
        "[Page 821]"
       ]
      ]
@@ -16178,10 +16158,14 @@
    "id": "12_1747b",
    "marks": [
     [
-     "L",
+     "I",
      4,
-     "[Page 822]",
-     true
+     [
+      [
+       189,
+       "[Page 822]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - National Housing/Subchapter 007 (VII) - Insurance for Investments in Rental Housing for Families of Moderate Income/§ 01747b - Premium charges; fees for examination and inspection.md",
@@ -16225,7 +16209,7 @@
      2,
      [
       [
-       1161,
+       1347,
        "[Page 823]"
       ]
      ]
@@ -16245,7 +16229,7 @@
      28,
      [
       [
-       564,
+       748,
        "[Page 824]"
       ]
      ]
@@ -16292,7 +16276,7 @@
      2,
      [
       [
-       271,
+       457,
        "[Page 825]"
       ]
      ]
@@ -16312,7 +16296,7 @@
      20,
      [
       [
-       279,
+       465,
        "[Page 826]"
       ]
      ]
@@ -16614,7 +16598,7 @@
      4,
      [
       [
-       109,
+       223,
        "[Page 840]"
       ]
      ]
@@ -16643,7 +16627,7 @@
      8,
      [
       [
-       91,
+       139,
        "[Page 841]"
       ]
      ]
@@ -17177,7 +17161,7 @@
      16,
      [
       [
-       229,
+       189,
        "[Page 861]"
       ]
      ]
@@ -32832,16 +32816,24 @@
    "id": "12_4703a",
    "marks": [
     [
-     "L",
-     52,
-     "[Page 1731]",
-     true
+     "I",
+     50,
+     [
+      [
+       89,
+       "[Page 1731]"
+      ]
+     ]
     ],
     [
-     "L",
-     116,
-     "[Page 1732]",
-     true
+     "I",
+     114,
+     [
+      [
+       139,
+       "[Page 1732]"
+      ]
+     ]
     ],
     [
      "I",
@@ -34388,7 +34380,7 @@
      6,
      [
       [
-       243,
+       103,
        "[Page 1806]"
       ]
      ]
@@ -37314,17 +37306,17 @@
    "marks": [
     [
      "I",
-     10,
+     8,
      [
       [
-       92,
+       234,
        "[Page 1976]"
       ]
      ]
     ],
     [
      "L",
-     84,
+     78,
      "[Page 1977]",
      true
     ]
@@ -37339,21 +37331,17 @@
    "id": "12_5538",
    "marks": [
     [
-     "I",
+     "L",
      8,
-     [
-      [
-       326,
-       "[Page 1978]"
-      ]
-     ]
+     "[Page 1978]",
+     true
     ],
     [
      "I",
-     68,
+     66,
      [
       [
-       222,
+       155,
        "[Page 1979]"
       ]
      ]
@@ -37378,14 +37366,10 @@
    "id": "12_5551",
    "marks": [
     [
-     "I",
-     38,
-     [
-      [
-       227,
-       "[Page 1980]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 1980]",
+     true
     ]
    ],
    "path": "Chapter 053 - Wall Street Reform and Consumer Protection/Subchapter 005 (V) - Bureau of Consumer Financial Protection/Part D - Preservation of State Law/§ 05551 - Relation to State law.md",
@@ -37398,10 +37382,14 @@
    "id": "12_5552",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 1981]",
-     true
+     "I",
+     28,
+     [
+      [
+       272,
+       "[Page 1981]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 053 - Wall Street Reform and Consumer Protection/Subchapter 005 (V) - Bureau of Consumer Financial Protection/Part D - Preservation of State Law/§ 05552 - Preservation of enforcement powers of States.md",
@@ -37432,10 +37420,14 @@
    "id": "12_5561",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 1982]",
-     true
+     "I",
+     6,
+     [
+      [
+       90,
+       "[Page 1982]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 053 - Wall Street Reform and Consumer Protection/Subchapter 005 (V) - Bureau of Consumer Financial Protection/Part E - Enforcement Powers/§ 05561 - Definitions.md",
@@ -37449,26 +37441,26 @@
    "marks": [
     [
      "L",
-     72,
+     64,
      "[Page 1983]",
      true
     ],
     [
      "I",
-     142,
+     134,
      [
       [
-       100,
+       264,
        "[Page 1984]"
       ]
      ]
     ],
     [
      "I",
-     208,
+     204,
      [
       [
-       371,
+       96,
        "[Page 1985]"
       ]
      ]
@@ -37485,10 +37477,10 @@
    "marks": [
     [
      "I",
-     20,
+     16,
      [
       [
-       91,
+       96,
        "[Page 1986]"
       ]
      ]
@@ -37498,7 +37490,7 @@
      50,
      [
       [
-       1087,
+       628,
        "[Page 1987]"
       ]
      ]
@@ -37515,10 +37507,10 @@
    "marks": [
     [
      "I",
-     24,
+     18,
      [
       [
-       95,
+       92,
        "[Page 1988]"
       ]
      ]
@@ -37534,14 +37526,10 @@
    "id": "12_5565",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       91,
-       "[Page 1989]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 1989]",
+     true
     ]
    ],
    "path": "Chapter 053 - Wall Street Reform and Consumer Protection/Subchapter 005 (V) - Bureau of Consumer Financial Protection/Part E - Enforcement Powers/§ 05565 - Relief available.md",
@@ -37564,23 +37552,27 @@
    "marks": [
     [
      "I",
-     12,
+     8,
      [
       [
-       193,
+       98,
        "[Page 1990]"
       ]
      ]
     ],
     [
-     "L",
-     82,
-     "[Page 1991]",
-     true
+     "I",
+     74,
+     [
+      [
+       403,
+       "[Page 1991]"
+      ]
+     ]
     ],
     [
      "I",
-     142,
+     138,
      [
       [
        93,
@@ -37609,17 +37601,17 @@
    "marks": [
     [
      "I",
-     72,
+     66,
      [
       [
-       182,
+       314,
        "[Page 1993]"
       ]
      ]
     ],
     [
      "L",
-     130,
+     128,
      "[Page 1994]",
      true
     ]
@@ -37638,7 +37630,7 @@
      14,
      [
       [
-       396,
+       94,
        "[Page 1995]"
       ]
      ]
@@ -37655,10 +37647,10 @@
    "marks": [
     [
      "I",
-     44,
+     42,
      [
       [
-       136,
+       104,
        "[Page 1996]"
       ]
      ]
@@ -37668,7 +37660,7 @@
      98,
      [
       [
-       608,
+       322,
        "[Page 1997]"
       ]
      ]
@@ -37685,59 +37677,55 @@
    "marks": [
     [
      "I",
-     30,
+     28,
      [
       [
-       222,
+       178,
        "[Page 1998]"
       ]
      ]
     ],
     [
-     "I",
-     104,
-     [
-      [
-       227,
-       "[Page 1999]"
-      ]
-     ]
+     "L",
+     102,
+     "[Page 1999]",
+     true
     ],
     [
-     "L",
-     184,
-     "[Page 2000]",
-     true
+     "I",
+     178,
+     [
+      [
+       341,
+       "[Page 2000]"
+      ]
+     ]
     ],
     [
      "I",
      248,
      [
       [
-       1080,
+       741,
        "[Page 2001]"
       ]
      ]
     ],
     [
      "I",
-     298,
+     294,
      [
       [
-       96,
+       138,
        "[Page 2002]"
       ]
      ]
     ],
     [
-     "I",
-     358,
-     [
-      [
-       138,
-       "[Page 2003]"
-      ]
-     ]
+     "L",
+     354,
+     "[Page 2003]",
+     true
     ]
    ],
    "path": "Chapter 053 - Wall Street Reform and Consumer Protection/Subchapter 005 (V) - Bureau of Consumer Financial Protection/Part F - Transfer of Functions and Personnel; Transitional Provisions/§ 05584 - Transfer of certain personnel.md",
@@ -37759,10 +37747,14 @@
    "id": "12_5586",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 2004]",
-     true
+     "I",
+     4,
+     [
+      [
+       92,
+       "[Page 2004]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 053 - Wall Street Reform and Consumer Protection/Subchapter 005 (V) - Bureau of Consumer Financial Protection/Part F - Transfer of Functions and Personnel; Transitional Provisions/§ 05586 - Interim authority of the Secretary.md",
@@ -37797,7 +37789,7 @@
      24,
      [
       [
-       407,
+       97,
        "[Page 2005]"
       ]
      ]
@@ -37814,10 +37806,10 @@
    "marks": [
     [
      "I",
-     22,
+     18,
      [
       [
-       97,
+       194,
        "[Page 2006]"
       ]
      ]
@@ -37851,14 +37843,10 @@
    "id": "12_5611",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       363,
-       "[Page 2007]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 2007]",
+     true
     ]
    ],
    "path": "Chapter 053 - Wall Street Reform and Consumer Protection/Subchapter 006 (VI) - Federal Reserve System Provisions/§ 05611 - Liquidity event determination.md",
@@ -37871,16 +37859,24 @@
    "id": "12_5612",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 2008]",
-     true
+     "I",
+     36,
+     [
+      [
+       232,
+       "[Page 2008]"
+      ]
+     ]
     ],
     [
-     "L",
-     116,
-     "[Page 2009]",
-     true
+     "I",
+     110,
+     [
+      [
+       95,
+       "[Page 2009]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 053 - Wall Street Reform and Consumer Protection/Subchapter 006 (VI) - Federal Reserve System Provisions/§ 05612 - Emergency financial stabilization.md",
@@ -37893,10 +37889,14 @@
    "id": "12_5613",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 2010]",
-     true
+     "I",
+     4,
+     [
+      [
+       90,
+       "[Page 2010]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 053 - Wall Street Reform and Consumer Protection/Subchapter 006 (VI) - Federal Reserve System Provisions/§ 05613 - Additional related matters.md",
@@ -38336,6 +38336,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2022-title12 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2023-title12 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 12 - Banks and Banking"
 }

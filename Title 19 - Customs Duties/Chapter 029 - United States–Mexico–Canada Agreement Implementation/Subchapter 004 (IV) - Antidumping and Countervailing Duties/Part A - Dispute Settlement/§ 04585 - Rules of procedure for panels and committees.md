@@ -28,7 +28,7 @@ The rules prescribed under subsections (a), (b), and (c) shall be published in t
 
 As used in this section, the term "administering authority" has the meaning given such term in section 1677(1) of this title.
 
-(Pub. L. 116–113, title IV, §415, formerly Pub. L. 103–182, title IV, §405, Dec. 8, 1993, 107 Stat. 2137;renumbered §415 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, §504(f), Jan. 29, 2020, 134 Stat. 75.)
+(Pub. L. 116–113, title IV, §415, formerly Pub. L. 103–182, title IV, §405, Dec. 8, 1993, 107 Stat. 2137; renumbered §415 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, §504(f), Jan. 29, 2020, 134 Stat. 75.)
 
 #### <b>Editorial Notes</b>
 

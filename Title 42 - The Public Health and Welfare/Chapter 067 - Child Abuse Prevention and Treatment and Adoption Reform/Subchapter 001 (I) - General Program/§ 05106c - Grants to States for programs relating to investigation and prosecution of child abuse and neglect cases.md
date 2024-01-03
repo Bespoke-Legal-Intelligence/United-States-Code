@@ -2,7 +2,7 @@
 
 #### (a) Grants to States
 
-The Secretary, in consultation with the Attorney General, is authorized to make grants to theStates for the purpose of assisting States in developing, establishing, and operating programs designed to improve—
+The Secretary, in consultation with the Attorney General, is authorized to make grants to the States for the purpose of assisting States in developing, establishing, and operating programs designed to improve—
 
 &emsp;(1) the assessment and investigation of suspected child abuse and neglect cases, including cases of suspected child sexual abuse and exploitation, in a manner that limits additional trauma to the child and the child's family;
 
@@ -34,7 +34,7 @@ In order for a State to qualify for assistance under this section, such State sh
 
 #### (1) General rule
 
-&emsp;Except as provided in paragraph (2), a State requesting assistance under this section shall establish or designate, and maintain, a State multidisciplinary task force on children's justice (hereinafter referred to as "State task force") composed of professionals with knowledge and experience relating to the criminal justice system and issues of child physical abuse, child neglect, child sexual abuse and exploitation, and child maltreatment related fatalities. The State task force shall include—
+&emsp;Except as provided in paragraph (2), a State requesting assistance under this section shallestablish or designate, and maintain, a State multidisciplinary task force on children's justice (hereinafter referred to as "State task force") composed of professionals with knowledge and experience relating to the criminal justice system and issues of child physical abuse, child neglect, child sexual abuse and exploitation, and child maltreatment related fatalities. The State task force shall include—
 
 &emsp;&emsp;(A) individuals representing the law enforcement community;
 

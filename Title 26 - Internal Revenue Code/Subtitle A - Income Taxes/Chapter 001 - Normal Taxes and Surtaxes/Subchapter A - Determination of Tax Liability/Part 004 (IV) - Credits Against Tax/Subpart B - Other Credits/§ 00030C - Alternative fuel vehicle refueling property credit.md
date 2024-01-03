@@ -2,7 +2,7 @@
 
 #### (a) Credit allowed
 
-There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent (6 percent in the case of property of a character subject to depreciation) of the cost of any qualified alternative fuel vehicle refueling property placed in service by the taxpayer during the taxable year.
+There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent (6 percent in the case of property of a character subject to depreciation) of the cost of any qualified alternativefuel vehicle refueling property placed in service by the taxpayer during the taxable year.
 
 #### (b) Limitation
 
@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;The term "qualified alternative fuel vehicle refueling property" has the same meaning as the term "qualified clean-fuel vehicle refueling property" would have under section 179A if—
 
-&emsp;&emsp;(A) paragraph (1) of section 179A(d) did not apply to property installed on propertywhich is used as the principal residence (within the meaning of section 121) of the taxpayer, and
+&emsp;&emsp;(A) paragraph (1) of section 179A(d) did not apply to property installed on property which is used as the principal residence (within the meaning of section 121) of the taxpayer, and
 
 &emsp;&emsp;(B) only the following were treated as clean-burning fuels for purposes of section 179A(d):
 
@@ -298,7 +298,7 @@ Pub. L. 114–113, div. Q, title I, §182(b), Dec. 18, 2015, 129 Stat. 3072, pro
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §161(b), Dec. 19, 2014, 128 Stat. 4023, provided that: "The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2013."
+Pub. L. 113–295, div. A, title I, §161(b), Dec. 19, 2014, 128 Stat. 4023, provided that: "The amendment made bythis section \[amending this section\] shall apply to property placed in service after December 31, 2013."
 
 Amendment by section 218(b) of Pub. L. 113–295 effective as if included in the provision of the Energy Tax Incentives Act of 2005, Pub. L. 109–58, title XIII, to which such amendment relates, see section 218(c) of Pub. L. 113–295, set out as a note under section 30B of this title.
 
@@ -314,7 +314,7 @@ Pub. L. 111–312, title VII, §711(b), Dec. 17, 2010, 124 Stat. 3315, provided 
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–5, div. B, title I, §1123(b), Feb. 17, 2009, 123 Stat. 325, provided that: "The amendment made by thissection \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
+Pub. L. 111–5, div. B, title I, §1123(b), Feb. 17, 2009, 123 Stat. 325, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
 
 Amendment by section 1142(b)(3) of Pub. L. 111–5 applicable to vehicles acquired after Feb. 17, 2009, see section 1142(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 

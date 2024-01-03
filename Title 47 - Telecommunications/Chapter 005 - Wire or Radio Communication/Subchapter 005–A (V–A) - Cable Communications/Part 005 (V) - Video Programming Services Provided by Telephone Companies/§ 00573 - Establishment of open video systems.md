@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) except as required pursuant to section 531, 534, or 535 of this title, prohibit an operator of an open video system from discriminating among video programming providers with regard to carriage on its open video system, and ensure that the rates, terms, and conditions for such carriage are just and reasonable, and are not unjustly or unreasonably discriminatory;
 
-&emsp;&emsp;(B) if demand exceeds the channel capacity of the open video system, prohibit an operator of an open video system and its affiliates from selecting the video programming services for carriage on more than one-third of the activated channel capacity on suchsystem, but nothing in this subparagraph shall be construed to limit the number of channels that the carrier and its affiliates may offer to provide directly to subscribers;
+&emsp;&emsp;(B) if demand exceeds the channel capacity of the open video system, prohibit an operator of an open video system and its affiliates from selecting the video programming services for carriage on more than one-third of the activated channel capacity on such system, but nothing in this subparagraph shall be construed to limit the number of channels that the carrier and its affiliates may offer to provide directly to subscribers;
 
 &emsp;&emsp;(C) permit an operator of an open video system to carry on only one channel any video programming service that is offered by more than one video programming provider (including the local exchange carrier's video programming affiliate): <i>Provided</i>, That subscribers have ready and immediate access to any such video programming service;
 

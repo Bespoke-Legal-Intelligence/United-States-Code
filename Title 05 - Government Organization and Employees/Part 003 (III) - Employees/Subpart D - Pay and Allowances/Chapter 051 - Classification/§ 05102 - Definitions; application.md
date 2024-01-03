@@ -86,7 +86,7 @@
 
 &emsp;(9) employees of the Government Publishing Office whose pay is fixed under section 305 of title 44;
 
-&emsp;(10) civilian professors, instructors, and lecturers at a professional military education school (and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director) whose pay is fixed under section 1595, 7371, 8748, or 9371 of title 10; civilian professors, lecturers, and instructors at the Military Academy, the Naval Academy, and the Air Force Academy whose pay is fixed under sections 7438, 8452, and 9438, respectively, of title 10; senior professors, professors, associate and assistant professors, and instructors at the Naval Postgraduate School whose pay is fixed under section 8544 of title 10; the Provost and Academic Dean of the Naval Postgraduate School whose pay is fixed under section 8543 of title 10; civilian professors, instructors, and lecturers in the defense acquisition university structure (including the Defense Systems Management College) whose pay is fixed under section 1746(b) of title 10;
+&emsp;(10) civilian professors, instructors, and lecturers at a professional military education school (and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director) whose pay is fixed under section 1595, 7371, 8748, or 9371 of title 10; civilian professors, lecturers, and instructors at the Military Academy, the Naval Academy, and the Air Force Academy whose pay is fixed under sections 7438, 8452, and 9438, respectively, of title 10; senior professors, professors, associate and assistant professors, and instructors at the Naval Postgraduate School whose pay is fixed under section 8544 of title 10; the Provost and Academic Dean of the Naval Postgraduate School <sup>2</sup> whose pay is fixed under section 8543 of title 10; civilian professors, instructors, and lecturers in the defense acquisition university structure (including the Defense Systems Management College) whose pay is fixed under section 1746(b) of title 10;
 
 &emsp;(11) aliens or noncitizens of the United States who occupy positions outside the United States;
 
@@ -288,7 +288,7 @@ The General Schedule, referred to in subsec. (a)(5), is set out under section 53
 
 The Foreign Service Act of 1980, referred to in subsec. (c)(2), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
-Section 432 of title 14, referred to in subsec. (c)(6), was redesignated section 2531 of title 14 by Pub. L. 115–282, title I, §114(b), Dec. 4, 2018, 132 Stat. 4223, and references to section 432 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 432 of title 14, referred to in subsec. (c)(6), was redesignated section 2531 of title 14 by Pub. L. 115–282,title I, §114(b), Dec. 4, 2018, 132 Stat. 4223, and references to section 432 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 Level V of the Executive Schedule, referred to in subsec. (c)(25), is set out in section 5316 of this title.
 
@@ -398,6 +398,8 @@ Subsec. (c)(4). Pub. L. 91–358 expanded reference to include chief judges, sub
 
 #### Change of Name
 
+Position of Provost and Academic Dean of the Naval Postgraduate School now known as Provost and Chief Academic Officer. See section 8543 of Title 10, Armed Forces, as amended by Pub. L. 117–263, div. A, title V, §554(a)(1)(A), (2)(A), Dec. 23, 2022, 136 Stat. 2594.
+
 "Government Publishing Office" substituted for "Government Printing Office" in subsecs. (a)(1)(D) and (c)(9) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 2018 Amendment
@@ -458,9 +460,9 @@ Amendment by Pub. L. 93–176 effective not later than beginning of first pay pe
 
 #### Effective Date of 1970 Amendments
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor byBoard of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-Amendment by Pub. L. 91–358 effective first day of seventh calendar month which begins after July 29,1970, see section 199(a) of Pub. L. 91–358, set out as a note under section 1257 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 91–358 effective first day of seventh calendar month which begins after July 29, 1970, see section 199(a) of Pub. L. 91–358, set out as a note under section 1257 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1969 Amendment
 
@@ -511,4 +513,6 @@ Amendments by Pub. L. 92–392 not to decrease basic pay rate of subsec. (c)(7),
 Rate of basic pay not to be reduced by reason of the enactment of Pub. L. 91–34, which amended this section, see section 3(b) of Pub. L. 91–34, set out as a note under section 5365 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See Change of Name note below.</i>
 

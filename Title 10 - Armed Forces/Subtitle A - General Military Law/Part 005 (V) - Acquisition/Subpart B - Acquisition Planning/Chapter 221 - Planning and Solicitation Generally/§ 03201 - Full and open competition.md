@@ -98,7 +98,7 @@ Subsec. (c). Pub. L. 116–283, §1811(c)(3), redesignated subsec. (j) of sectio
 
 Subsec. (d). Pub. L. 116–283, §1811(c)(4), redesignated subsec. (h) of section 2304 of this title as subsec. (d) of this section and inserted heading.
 
-Subsec. (e). Pub. L. 116–283, §1811(c)(5), redesignated subsec. (k) of section 2304 of this title as subsec. (e) of this section, inserted subsec. and par. headings, switched order and designations of pars. (2) and (3), realigned margins of pars. (2) to (4), and substituted "section 3063" for "section 2303(a)" in pars. (1) and (4).
+Subsec. (e). Pub. L. 116–283, §1811(c)(5), redesignated subsec. (k) of section 2304 of this title as subsec. (e) ofthis section, inserted subsec. and par. headings, switched order and designations of pars. (2) and (3), realigned margins of pars. (2) to (4), and substituted "section 3063" for "section 2303(a)" in pars. (1) and (4).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -210,11 +210,11 @@ In this section:
 
 #### (2) Accelerating innovation
 
-&emsp;The Director of the National Science Foundation shall consider continuing to supportstartups that are in need of funding, would develop in and contribute to the economy of the United States, leverage distributed ledger technologies, have the potential to positively benefit society, and have the potential for commercial viability, through programs like the Small Business Innovation Research program, the Small Business Technology Transfer program, and, as appropriate, other programs that promote broad and diverse participation.
+&emsp;The Director of the National Science Foundation shall consider continuing to support startups that are in need of funding, would develop in and contribute to the economy of the United States, leverage distributed ledger technologies, have the potential to positively benefit society, and have the potential for commercial viability, through programs like the Small Business Innovation Research program, the Small Business Technology Transfer program, and, as appropriate, other programs that promote broad and diverse participation.
 
 #### (3) Consideration of national distributed ledger technology research and development strategy
 
-&emsp;In making awards under paragraph (1), the Director of the National Science Foundation shall take into account the national strategy, as described in subsection (b)(4).
+&emsp;In making awards under paragraph (1), the Director of the National Science Foundationshall take into account the national strategy, as described in subsection (b)(4).
 
 #### (4) Fundamental research
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(D) the number of devices approved in the year preceding the year in which the report is submitted, labeled for use in pediatric patients;
 
-&emsp;&emsp;(E) the number of pediatric devices approved in the year preceding the year inwhich the report is submitted, exempted from a fee pursuant to section 379j(a)(2)(B)(v) of this title;
+&emsp;&emsp;(E) the number of pediatric devices approved in the year preceding the year in which the report is submitted, exempted from a fee pursuant to section 379j(a)(2)(B)(v) of this title;
 
 &emsp;&emsp;(F) the review time for each device described in subparagraphs (A), (C), (D), and (E);
 

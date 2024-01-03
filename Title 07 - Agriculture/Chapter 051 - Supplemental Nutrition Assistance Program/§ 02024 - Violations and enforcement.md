@@ -20,7 +20,7 @@ Benefits issued pursuant to this chapter shall be deemed to be obligations of th
 
 #### (e) Forfeiture of property involved in illegal benefit transactions
 
-The Secretary may subject to forfeiture and denial of property rights any nonfood items, moneys, negotiable instruments, securities, orother things of value that are furnished by any person in exchange for benefits, or anything of value obtained by use of an access device, in any manner contrary to this chapter or the regulations issued under this chapter. Any forfeiture and disposal of property forfeited under this subsection shall be conducted in accordance with procedures contained in regulations issued by the Secretary.
+The Secretary may subject to forfeiture and denial of property rights any nonfood items, moneys, negotiable instruments, securities, or other things of value that are furnished by any person in exchange for benefits, or anything of value obtained by use of an access device, in any manner contrary to this chapter or the regulations issued under this chapter. Any forfeiture and disposal of property forfeited under this subsection shall be conducted in accordance with procedures contained in regulations issued by the Secretary.
 
 #### (f) Criminal forfeiture
 
@@ -78,7 +78,7 @@ Subsec. (e). Pub. L. 110–246, §4115(b)(10)(G), which directed amendment of su
 
 Pub. L. 110–246, §4115(b)(10)(E), (F), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: "Any coupon issuer or any officer, employee, or agent thereof convicted of failing to provide the report required under section 2016(d) of this title or of violating the regulations issued under section 2016(d) and (e) of this title shall be fined not more than $1,000 or imprisoned for not more than one year, or both."
 
-Subsecs. (f) to (h). Pub. L. 110–246, §4115(b)(10)(E), (F), redesignated subsecs. (g) and (h) as (e) and (f), respectively, and struck out former subsec. (f) which read as follows: "Any coupon issuer or any officer, employee, or agent thereof convicted of knowingly providing false information in the report required under section 2016(d) of this title shall be fined not more than $10,000 or imprisoned not more than five years, or both."
+Subsecs. (f) to (h). Pub. L. 110–246, §4115(b)(10)(E), (F), redesignated subsecs. (g) and (h) as (e) and (f), respectively, and struck out former subsec. (f) which read as follows: "Any coupon issuer or any officer, employee, or agent thereof convicted of knowingly providing falseinformation in the report required under section 2016(d) of this title shall be fined not more than $10,000 or imprisoned not more than five years, or both."
 
 <b>1996</b>—Subsec. (g). Pub. L. 104–193, §846(a), struck out "or intended to be furnished" after "that are furnished".
 

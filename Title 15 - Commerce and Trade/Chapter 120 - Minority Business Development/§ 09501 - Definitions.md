@@ -60,7 +60,7 @@ In this chapter:
 
 &emsp;&emsp;(B) provides technical business assistance to minority business enterprises consistent with the requirements of this chapter.
 
-#### (8) MBDA Business Center Agreement
+#### (8) MBDA Business Center agreement
 
 &emsp;The term "MBDA Business Center agreement" means a legal instrument—
 
@@ -76,7 +76,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) that is not less than 51 percent-owned by 1 or more socially or economically disadvantaged individuals; and
 
-&emsp;&emsp;&emsp;(ii) the management and daily business operations of which are controlled by 1 or more socially or economically disadvantaged individuals.
+&emsp;&emsp;&emsp;(ii) the management and daily business operations of which are controlled by 1 ormore socially or economically disadvantaged individuals.
 
 #### (B) Rule of construction
 

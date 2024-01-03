@@ -66,7 +66,7 @@
 
 &emsp;(1) reauthorization proposals for each program or activity that has not met performance goals;
 
-&emsp;(2) proposed statutory changes necessary for the program activities to achieve the proposed level of performance on each performance goal; and
+&emsp;(2) proposed statutory changes necessary for the program activities to achieve the proposedlevel of performance on each performance goal; and
 
 &emsp;(3) planned executive actions or identification of the program for termination or reduction in the President's budget.
 

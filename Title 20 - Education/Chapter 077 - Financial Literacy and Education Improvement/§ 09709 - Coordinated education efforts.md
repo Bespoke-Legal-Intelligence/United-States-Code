@@ -40,13 +40,17 @@ For purposes of this section, the Secretary, working in conjunction with the Sec
 
 #### References in Text
 
-The Financial Literacy and Education Improvement Act, referred to in subsec. (a), is title V of Pub. L.108–159, Dec. 4, 2003, 117 Stat. 2003, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9701 of this title and Tables.
+The Financial Literacy and Education Improvement Act, referred to in subsec. (a), is title V of Pub. L. 108–159, Dec. 4, 2003, 117 Stat. 2003, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9701 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the Higher Education Opportunity Act, and also as part of the Private Student Loan Transparency and Improvement Act of 2008, and not as part of the Financial Literacy and Education Improvement Act which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Definitions
 

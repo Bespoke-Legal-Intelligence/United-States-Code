@@ -8,7 +8,7 @@
 
 #### (2) Eligible local educational agencies
 
-&emsp;A local educational agency is eligible for assistance under this subsection for a fiscal yearif at least 20 percent (as rounded to the nearest whole percent) of the students in average daily attendance in the schools of the local educational agency during the preceding school year were military dependent students counted under section 7703(a)(1) of this title.
+&emsp;A local educational agency is eligible for assistance under this subsection for a fiscal year if at least 20 percent (as rounded to the nearest whole percent) of the students in average daily attendance in the schools of the local educational agency during the preceding school year were military dependent students counted under section 7703(a)(1) of this title.
 
 #### (b) Assistance to schools with enrollment changes due to base closures, force structure changes, or force relocations
 
@@ -48,7 +48,7 @@
 
 #### (B) Per-student rate
 
-&emsp;&emsp;For purposes of subparagraph (A)(i), the per-student rate for a fiscal year shall be equal to the dollar amount obtained by dividing—
+&emsp;&emsp;For purposes of subparagraph (A)(i), the per-student rate for a fiscal year shall beequal to the dollar amount obtained by dividing—
 
 &emsp;&emsp;&emsp;(i) the total amount of funds made available for that fiscal year to provide assistance under this subsection; by
 

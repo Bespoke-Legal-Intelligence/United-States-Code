@@ -180,7 +180,7 @@ All funds appropriated under section 13 of this title, for the planning, design,
 
 #### (f) Development of innovative approaches
 
-The Secretary shall consult and cooperate with Indian tribes and tribal organizations, andconfer with urban Indian organizations, in developing innovative approaches to address all or part of the total unmet need for construction of health facilities, that may include—
+The Secretary shall consult and cooperate with Indian tribes and tribal organizations, and confer with urban Indian organizations, in developing innovative approaches to address all or part of the total unmet need for construction of health facilities, that may include—
 
 &emsp;(1) the establishment of an area distribution fund in which a portion of health facility construction funding could be devoted to all Service areas;
 

@@ -10,7 +10,7 @@ The Office of Science and Technology Policy shall develop policies for the manag
 
 #### (b) Clearinghouse
 
-The Office of Science and Technology Policy, in consultation with relevant Federal agencies, shall ensure the development of an online clearinghouse for information on the contents of and access to Federal scientific collections.
+The Office of Science and Technology Policy, in consultation with relevant Federal agencies,shall ensure the development of an online clearinghouse for information on the contents of and access to Federal scientific collections.
 
 #### (c) Disposal of collections
 

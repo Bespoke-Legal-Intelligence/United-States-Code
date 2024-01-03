@@ -14,7 +14,7 @@ Section 290, act July 27, 1953, ch. 245, §101, 67 Stat. 197, prohibited encroac
 
 #### Effective Date of Repeal
 
-Repeal effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of Title 38, Veterans' Benefits.
+Repeal effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the FederalRegister, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of Title 38, Veterans' Benefits.
 
 #### Matured Rights and Duties, Incurred Penalties, Liabilities, and Forfeitures, and Commenced Proceedings Excepted in Repeal of National Cemeteries Provisions
 

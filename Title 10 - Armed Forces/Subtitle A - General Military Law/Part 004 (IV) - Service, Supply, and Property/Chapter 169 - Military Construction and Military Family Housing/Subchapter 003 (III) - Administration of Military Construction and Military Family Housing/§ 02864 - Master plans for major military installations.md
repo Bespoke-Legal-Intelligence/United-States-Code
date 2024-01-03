@@ -68,17 +68,23 @@ Definitions.—In this section:
 
 &emsp;(3) The term "energy and climate resiliency" means anticipation, preparation for, and adaptation to utility disruptions and changing environmental conditions and the ability to withstand, respond to, and recover rapidly from utility disruptions while ensuring the sustainment of mission-critical operations.
 
-&emsp;(6) <sup>1</sup> The term "military installation resilience" has the meaning given that term in section 101(e) of this title.
+&emsp;(4) The term "military installation resilience" has the meaning given that term in section 101(e) <sup>1</sup> of this title.
 
-(Added Pub. L. 112–239, div. B, title XXVIII, §2802(a), Jan. 2, 2013, 126 Stat. 2147; amended Pub. L. 113–66, div. B, title XXVIII, §2811, Dec. 26, 2013, 127 Stat. 1013; Pub. L. 115–232, div. B, title XXVIII, §2805(d), Aug. 13, 2018, 132 Stat. 2263; Pub. L. 116–92, div. B, title XXVIII, §2801(a), Dec. 20, 2019, 133 Stat. 1879; Pub. L. 117–81, div. B, title XXVIII, §§2831, 2832, Dec. 27, 2021, 135 Stat. 2198.)
+(Added Pub. L. 112–239, div. B, title XXVIII, §2802(a), Jan. 2, 2013, 126 Stat. 2147; amended Pub. L. 113–66, div. B, title XXVIII, §2811, Dec. 26, 2013, 127 Stat. 1013; Pub. L. 115–232, div. B, title XXVIII, §2805(d), Aug. 13, 2018, 132 Stat. 2263; Pub. L. 116–92, div. B, title XXVIII, §2801(a), Dec. 20, 2019, 133 Stat. 1879; Pub. L. 117–81, div. B, title XXVIII, §§2831, 2832, Dec. 27, 2021, 135 Stat. 2198; Pub. L. 118–31, div. A, title XVIII, §1801(a)(23), Dec. 22, 2023, 137 Stat. 684.)
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 101(e) of this title, referred to in subsec. (f)(4), was redesignated section 101(f) of this title, and a new subsec. (e) of section 101 was added, by Pub. L. 118–31, div. A, title XVII, §1713(a), Dec. 22, 2023, 137 Stat. 625.
 
 #### Prior Provisions
 
 A prior section 2864, added Pub. L. 101–189, div. B, title XXVIII, §2807(a), Nov. 29, 1989, 103 Stat. 1648; amended Pub. L. 104–106, div. A, title X, §1062(g), Feb. 10, 1996, 110 Stat. 444, related to military construction contracts on Guam, prior to repeal by Pub. L. 109–364, div. B, title XXVIII, §2810(a), Oct. 17, 2006, 120 Stat. 2470.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (f)(4), (6). Pub. L. 118–31 redesignated par. (6) as (4).
 
 <b>2021</b>—Subsec. (a)(2)(E). Pub. L. 117–81, §2832(a), inserted "and military installation resilience" before period at end.
 
@@ -150,9 +156,9 @@ Campaign Plans of Combatant Commands.—The Secretary of Defense shall ensure th
 
 "(j)
 
-Definitions.—In this section \[transferring section 118a of this title to section 118b of this title, amending sections 113, 153, and 2925 of this title, enacting provisions set out as notes under this section and section 2925 of this title, and amending provisions set out as a note under section 118b of this title\]:
+Definitions.—In this section \[transferring section 118a of this title to section 118b of this title, amending sections 113, 153, and 2925 of this title, enacting provisions set out as notes under this section andsection 2925 of this title, and amending provisions set out as a note under section 118b of this title\]:
 
-&emsp;"(1) The term 'military installation resilience' has the meaning given that term in section 101(e) of title 10, United States Code.
+&emsp;"(1) The term 'military installation resilience' has the meaning given that term in section 101(e) of title 10, United States Code \[now 10 U.S.C. 101(f)\].
 
 &emsp;"(2) The term 'National Defense Strategy' means the national defense strategy under section 113(g)(1) of such title.
 
@@ -202,7 +208,7 @@ In General.—The Secretary of Defense shall—
 
 "(b)
 
-Military Installation Resilience.—In this section, the term 'military installation resilience' has the meaning given such term in section 101(e)(8) of title 10, United States Code."
+Military Installation Resilience.—In this section, the term 'military installation resilience' has the meaning given such term in section 101(e)(8) of title 10, United States Code \[now 10 U.S.C. 101(f)(8)\]."
 
 #### Incorporation of Changing Environmental Condition Projections in Military Construction Designs and Modifications
 
@@ -242,5 +248,5 @@ Notification.—If the Secretary of Defense determines that a projection other t
 
 \[Section 1731(b)(4) of Pub. L. 116–92, which directed amendment of section 2805(c) of Pub. L. 115–232, set out above, by substituting "Unified Facilities Criteria" for "United Facilities Criteria", was not executed in light of the amendment by section 2804(c)(2) of Pub. L. 116–92, which substituted "Unified Facilities Criteria (UFC) 1-200-01 and UFC 1-200-02" for "United Facilities Criteria (UFC) 2–100–01 and UFC 2–100–02".\]
 
-<i><sup>1</sup></i><i> So in original. No pars. (4) and (5) have been enacted.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

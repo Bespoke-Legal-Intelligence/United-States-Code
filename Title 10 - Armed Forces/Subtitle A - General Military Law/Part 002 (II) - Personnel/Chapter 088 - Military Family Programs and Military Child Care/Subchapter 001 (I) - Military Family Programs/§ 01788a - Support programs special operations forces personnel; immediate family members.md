@@ -2,7 +2,7 @@
 
 (a)
 
-Programs Authorized.—Consistent with such regulations as the Secretary of Defense may prescribe to carry out this section, the Commander of the United States Special Operations Command may conduct programs to provide family support services. In selecting and conducting any program under this subsection, the Commander shall coordinate with the Under Secretary of Defense for Personnel and Readiness.
+Programs Authorized.—Consistent with such regulations as the Secretary of Defense may prescribe to carry out this section, the Commander of the United States Special Operations Command may conduct programs to provide family support services. In selecting andconducting any program under this subsection, the Commander shall coordinate with the Under Secretary of Defense for Personnel and Readiness.
 
 (b)
 
@@ -118,7 +118,7 @@ Pub. L. 115–91, §555(d)(1), substituted "armed forces" for "Armed Forces".
 
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–92, div. A, title XVII, §1702(c)(2), Dec. 20, 2019, 133 Stat. 1796, provided that: "The amendmentmade by paragraph (1) \[amending this section\] shall take effect on December 30, 2021."
+Pub. L. 116–92, div. A, title XVII, §1702(c)(2), Dec. 20, 2019, 133 Stat. 1796, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on December 30, 2021."
 
 #### Coordination of Amendments by Pub. L. 117–81
 

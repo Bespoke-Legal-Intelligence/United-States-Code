@@ -114,11 +114,11 @@ Limitation.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), the share of the totalamount apportioned under this subsection that is apportioned to an area under this subsection shall not decrease by more than 0.25 percentage points compared to the share apportioned to the area under this subsection in the previous fiscal year.
+In general.—Except as provided in subparagraph (B), the share of the total amount apportioned under this subsection that is apportioned to an area under this subsection shall not decrease by more than 0.25 percentage points compared to the share apportioned to the area under this subsection in the previous fiscal year.
 
 &emsp;&emsp;(B)
 
-Special rule for fiscal year 2013.—In fiscal year 2013, the share of the total amount apportioned under this subsection that is apportioned to an area under this subsection shall not decrease by more than 0.25 percentage points compared to the share that would have been apportioned to the area under this section, as in effect for fiscal year 2011, if the share had been calculated using the definition of the term "fixed guideway" under subsection (a) of this section, as in effect on the day after the date of enactment of the Federal Public Transportation Act of 2012.
+Special rule for fiscal year 2013.—In fiscal year 2013, the share of the total amount apportioned under this subsection that is apportioned to an area under this subsection shall not decrease by more than 0.25 percentage points compared to the sharethat would have been apportioned to the area under this section, as in effect for fiscal year 2011, if the share had been calculated using the definition of the term "fixed guideway" under subsection (a) of this section, as in effect on the day after the date of enactment of the Federal Public Transportation Act of 2012.
 
 &emsp;(5)
 
@@ -332,7 +332,7 @@ Subsec. (g). Pub. L. 112–141, §113005, struck out subsec. (g). Text read as f
 
 Pub. L. 112–140, §§1(c), 305, temporarily amended subsec. (g) generally, enacting similar provisions but directing the Secretary to apportion 76 percent of each dollar amount specified in subsec. (a) for the period beginning on Oct. 1, 2011, and ending on July 6, 2012. See Effective and Termination Dates of 2012 Amendment note below.
 
-Pub. L. 112–102 amended subsec. (g) generally. Prior to amendment, text read as follows: "The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for the period beginning on October 1, 2011, and ending on March 31, 2012, in accordance with subsection (a), except that the Secretary shall apportion 50 percent of each dollar amount specified in subsection (a)."
+Pub. L. 112–102 amended subsec. (g) generally. Prior to amendment, text read as follows: "The Secretaryshall apportion amounts made available for fixed guideway modernization under section 5309 for the period beginning on October 1, 2011, and ending on March 31, 2012, in accordance with subsection (a), except that the Secretary shall apportion 50 percent of each dollar amount specified in subsection (a)."
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–30, §135(1), substituted "2012" for "2011" in introductory provisions.
 

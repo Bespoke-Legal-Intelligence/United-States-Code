@@ -28,7 +28,7 @@ At the request of an entity that is representative of an industry identified und
 
 &emsp;(3) take actions described in both paragraphs (1) and (2).
 
-> The industry may request the Trade Representative to take appropriate action to update (as often as annually) any information obtained under paragraph (1) or (2), or both, as the case may be, until an agreement on more effectiverules and disciplines relating to government subsidies is reached between the United States and the USMCA countries.
+> The industry may request the Trade Representative to take appropriate action to update (as often as annually) any information obtained under paragraph (1) or (2), or both, as the case may be, until an agreement on more effective rules and disciplines relating to government subsidies is reached between the United States and the USMCA countries.
 
 #### (d) Initiation of action under other law
 
@@ -54,7 +54,7 @@ At the request of an entity that is representative of an industry identified und
 
 #### (3) Title III actions
 
-&emsp;In the event an investigation is initiated under section 2412(c) of this title as a result of a review under this subsection and the Trade Representative, following such investigation (including any applicable dispute settlement proceedings under the USMCA or any other trade agreement), determines to take action under section 2411(a) of this title, the Trade Representative shall give preference to actions that most directly affect the products that benefit from governmental subsidies and were the subject of the investigation, unless there are no significant imports of such products or the Trade Representative otherwise determines that application of the action to other products would be more effective.
+&emsp;In the event an investigation is initiated under section 2412(c) of this title as a result of a review under this subsection and the Trade Representative, following such investigation\(including any applicable dispute settlement proceedings under the USMCA or any other trade agreement), determines to take action under section 2411(a) of this title, the Trade Representative shall give preference to actions that most directly affect the products that benefit from governmental subsidies and were the subject of the investigation, unless there are no significant imports of such products or the Trade Representative otherwise determines that application of the action to other products would be more effective.
 
 #### (e) Effect of decisions
 

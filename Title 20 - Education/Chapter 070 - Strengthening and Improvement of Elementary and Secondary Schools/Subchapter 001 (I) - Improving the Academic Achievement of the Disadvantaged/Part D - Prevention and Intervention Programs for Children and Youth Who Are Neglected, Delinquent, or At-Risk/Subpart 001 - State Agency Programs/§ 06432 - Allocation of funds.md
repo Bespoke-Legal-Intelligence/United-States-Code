@@ -22,7 +22,7 @@
 
 &emsp;The number of neglected or delinquent children and youth determined under paragraph (1) shall—
 
-&emsp;&emsp;(A) be determined by the State agency by a deadline set by the Secretary, except thatno State agency shall be required to determine the number of such children and youth on a specific date set by the Secretary; and
+&emsp;&emsp;(A) be determined by the State agency by a deadline set by the Secretary, except that no State agency shall be required to determine the number of such children and youth on a specific date set by the Secretary; and
 
 &emsp;&emsp;(B) be adjusted, as the Secretary determines is appropriate, to reflect the relative length of such agency's annual programs.
 

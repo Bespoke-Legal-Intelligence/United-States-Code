@@ -178,7 +178,7 @@ For purposes of this part:
 
 &emsp;&emsp;(iii) Any rapid start lamp (commonly referred to as 8-foot high output lamps) with recessed double contact bases of nominal overall length of 96 inches and 0.800 nominal amperes, as defined in ANSI C78.1–1978 and related supplements.
 
-&emsp;&emsp;(iv) Any instant start lamp (commonly referred to as 8-foot slimline lamps) with single pin bases of nominal overall length of 96 inches and rated wattage of 52 or more, as defined in ANSI C78.3–1978 (R1984) and related supplement ANSI C78.3a–1985.
+&emsp;&emsp;(iv) Any instant start lamp (commonly referred to as 8-foot slimline lamps) with single pin bases of nominal overall length of 96 inches and rated wattage of 52 or more, asdefined in ANSI C78.3–1978 (R1984) and related supplement ANSI C78.3a–1985.
 
 &emsp;(B) The term "general service fluorescent lamp" means fluorescent lamps which can be used to satisfy the majority of fluorescent applications, but does not include any lamp designed and marketed for the following nongeneral lighting applications:
 
@@ -792,7 +792,7 @@ Pulse-start metal halide ballast.—
 
 &emsp;&emsp;(A)
 
-In general.—The term "pulse-start metal halide ballast" means an electronic orelectromagnetic ballast that starts a pulse-start metal halide lamp with high voltage pulses.
+In general.—The term "pulse-start metal halide ballast" means an electronic or electromagnetic ballast that starts a pulse-start metal halide lamp with high voltage pulses.
 
 &emsp;&emsp;(B)
 

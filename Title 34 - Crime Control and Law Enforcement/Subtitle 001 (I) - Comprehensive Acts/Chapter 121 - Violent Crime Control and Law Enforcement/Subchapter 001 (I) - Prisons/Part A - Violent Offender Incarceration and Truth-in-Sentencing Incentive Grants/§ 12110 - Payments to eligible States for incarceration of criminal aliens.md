@@ -10,7 +10,7 @@ Notwithstanding any other provision of this part, there are authorized to be app
 
 #### (c) Administration
 
-The amounts appropriated to carry out this section shall be reserved from the total amount appropriated for each fiscal year and shall be added to the other funds appropriated to carry out section 1252(j) <sup>1</sup> of title 8 and administered under such section.
+The amounts appropriated to carry out this section shall be reserved from the total amountappropriated for each fiscal year and shall be added to the other funds appropriated to carry out section 1252(j) <sup>1</sup> of title 8 and administered under such section.
 
 #### (d) Report to Congress
 

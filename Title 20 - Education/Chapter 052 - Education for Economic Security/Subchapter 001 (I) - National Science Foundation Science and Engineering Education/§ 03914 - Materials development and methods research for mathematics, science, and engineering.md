@@ -28,7 +28,7 @@ Funds awarded for such competitive grants shall be expended through a system req
 
 #### (d) Materials or methods research application requirements
 
-In making grant applications for materials or methods research for the purposes described in subsections (a)(1) and (a)(3), the Foundation shall assure the involvement of appropriate State or local education agencies in the case of applications submitted by other entities described in subsection (a), or that one or more of such other entities will be consulted in the case of applications submitted by State or local education agencies.
+In making grant applications for materials or methods research for the purposes described in subsections (a)(1) and (a)(3), the Foundation shall assure the involvement of appropriate State or local education agencies in the case of applications submitted by other entities described in subsection (a), or that one or more ofsuch other entities will be consulted in the case of applications submitted by State or local education agencies.
 
 (Pub. L. 98–377, title I, §104, as added Pub. L. 99–159, title II, §201, Nov. 22, 1985, 99 Stat. 895.)
 

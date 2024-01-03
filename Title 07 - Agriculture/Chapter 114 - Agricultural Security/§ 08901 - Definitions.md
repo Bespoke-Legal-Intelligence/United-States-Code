@@ -22,7 +22,7 @@ In this chapter:
 
 &emsp;&emsp;(A) means a product, practice, or technology that is intended to enhance or maintain the agricultural biosecurity of the United States; and
 
-&emsp;&emsp;(B) does not include a product, practice, or technology used solely in response to ahuman medical incident or public health emergency not related to agriculture.
+&emsp;&emsp;(B) does not include a product, practice, or technology used solely in response to a human medical incident or public health emergency not related to agriculture.
 
 #### (4) Agricultural disease
 

@@ -8,7 +8,7 @@ Except as otherwise provided therein, the amount of need of any student for fina
 
 &emsp;(3) estimated financial assistance not received under this subchapter (as defined in section 1087vv(j) of this title).
 
-(Pub. L. 89–329, title IV, §471, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 105–244, title IV, §480(a), Oct. 7, 1998, 112 Stat. 1732; Pub. L. 116–260, div. FF, title VII, §702(a)(1), Dec. 27, 2020, 134 Stat. 3138; Pub. L. 117–103, div. R, §102(b)(2), Mar. 15, 2022, 136 Stat. 819.)
+(Pub. L. 89–329, title IV, §471, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat.1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 105–244, title IV, §480(a), Oct. 7, 1998, 112 Stat. 1732; Pub. L. 116–260, div. FF, title VII, §702(a)(1), Dec. 27, 2020, 134 Stat. 3138; Pub. L. 117–103, div. R, §102(b)(2), Mar. 15, 2022, 136 Stat. 819.)
 
 #### Amendment of Section
 
@@ -76,7 +76,7 @@ Pub. L. 99–498, title IV, §406(b)(1)–(3), Oct. 17, 1986, 100 Stat. 1475, as
 
 &emsp;"(A) part F of title IV of the Act \[this part\] shall apply with respect to determinations of need under such title for academic years beginning with academic year 1988–1989 and succeeding academic years; and
 
-&emsp;"(B) for any preceding academic year, determinations of need shall be made in accordance with regulations prescribed by the Secretary of Education inaccordance with the Student Financial Assistance Technical Amendments Act of 1982 \[Pub. L. 97–301, see Short Title of 1982 Amendment note set out under section 1001 of this title\].
+&emsp;"(B) for any preceding academic year, determinations of need shall be made in accordance with regulations prescribed by the Secretary of Education in accordance with the Student Financial Assistance Technical Amendments Act of 1982 \[Pub. L. 97–301, see Short Title of 1982 Amendment note set out under section 1001 of this title\].
 
 "(2) With respect to an application filed after the date of enactment of this Act \[Oct. 17, 1986\] for a loan under part B of such title \[part B of this subchapter\] for any academic year preceding academic year 1988–1989, any determination of expected family contribution shall be made using the system of financial need analysis approved by the Secretary of Education for use under subpart 2 of part A and parts C and E of such title \[subpart 2 of part A of this subchapter and parts C and E of this subchapter\].
 
@@ -150,7 +150,7 @@ Interim report.—The Advisory Committee shall, not later than 6 months after th
 
 &emsp;"(2)
 
-Final report.—The Advisory Committee shall, not later than 1 year after the date of enactment of this Act, prepare and submit a full final report on the study, including recommendations for regulatory and administrative changes required by this section, to the Committee on Education and the Workforce ofthe House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Secretary of Education.
+Final report.—The Advisory Committee shall, not later than 1 year after the date of enactment of this Act, prepare and submit a full final report on the study, including recommendations for regulatory and administrative changes required by this section, to the Committee on Education and the Workforce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Secretary of Education.
 
 "(f)
 

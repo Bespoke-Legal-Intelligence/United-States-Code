@@ -18,7 +18,7 @@ The provisions of this section—
 
 &emsp;(1) may not be superseded, except by a provision of law which specifically repeals, modifies, or supersedes the provisions of this section; and
 
-&emsp;(2) shall not apply to, or affect in any manner, permanent appropriations, trust funds, and other similar accounts which are authorized by law and administered under or pursuant to this chapter.
+&emsp;(2) shall not apply to, or affect in any manner, permanent appropriations, trust funds,and other similar accounts which are authorized by law and administered under or pursuant to this chapter.
 
 (Pub. L. 103–236, title III, §313, Apr. 30, 1994, 108 Stat. 444; Pub. L. 107–228, div. A, title V, §507(2), Sept. 30, 2002, 116 Stat. 1394; Pub. L. 116–283, div. A, title XII, §1299Q(e)(9), Jan. 1, 2021, 134 Stat. 4025.)
 

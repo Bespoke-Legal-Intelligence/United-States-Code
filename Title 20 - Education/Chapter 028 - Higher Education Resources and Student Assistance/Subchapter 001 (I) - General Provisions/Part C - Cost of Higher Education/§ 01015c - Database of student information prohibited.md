@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-Except as described in subsection (b), nothing in this chapter shall be construed to authorize the development, implementation, or maintenance of a Federal database of personally identifiable information on individuals receiving assistance under this chapter, attending institutions receiving assistance under this chapter, or otherwise involved in any studies or other collections of data under this chapter, including a student unit record system, an education bar code system, or any other system that tracks individual students over time.
+Except as described in subsection (b), nothing in this chapter shall be construed to authorize the development, implementation, or maintenance of a Federal database of personally identifiable information on individuals receiving assistance under this chapter, attending institutions receiving assistance under this chapter, or otherwise involved in any studies or other collections of data under this chapter, including a student unit record system, an education barcode system, or any other system that tracks individual students over time.
 
 #### (b) Exception
 
@@ -24,5 +24,5 @@ Nothing in this chapter shall prohibit a State or a consortium of States from de
 
 A prior section 1015c, Pub. L. 89–329, title I, §134, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 466, defined "public broadcasting entity" for purposes of former part C of this subchapter, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
-Another prior section 1015c, Pub. L. 89–329, title I, §134, as added Pub. L. 94–482, title I, §101(g)(3), Oct. 12, 1976, 90 Stat. 2089, related to annual reports by Assistant Secretary and content of these reports, prior to thegeneral amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1015c, Pub. L. 89–329, title I, §134, as added Pub. L. 94–482, title I, §101(g)(3), Oct. 12, 1976, 90 Stat. 2089, related to annual reports by Assistant Secretary and content of these reports, prior to the general amendment of this subchapter by Pub. L. 96–374.
 

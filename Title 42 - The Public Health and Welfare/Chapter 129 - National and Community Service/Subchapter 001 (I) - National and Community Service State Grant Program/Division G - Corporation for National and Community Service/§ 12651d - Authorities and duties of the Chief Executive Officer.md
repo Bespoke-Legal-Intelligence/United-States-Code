@@ -14,7 +14,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;(B) after receiving and reviewing an approved proposal under section 12651b(g)(2) of this title, make such grants and allotments, enter into such contracts, award such other financial assistance, make such payments (in lump sum or installments, and in advance or by way of reimbursement, and in the case of financial assistance otherwise authorized under the national service laws, with necessary adjustments on account of overpayments and underpayments), and designate such positions as approved national service positions, approved summer of service positions, and approved silver scholar positions as are necessary or appropriate to carry out the national service laws;
 
-&emsp;(3)(A) prepare and submit to the Board a proposal regarding, the regulations established under section 12651f(b)(3)(A) of this title, and such other standards, policies, procedures, programs, and initiatives as are necessary orappropriate to carry out the national service laws; and
+&emsp;(3)(A) prepare and submit to the Board a proposal regarding, the regulations established under section 12651f(b)(3)(A) of this title, and such other standards, policies, procedures, programs, and initiatives as are necessary or appropriate to carry out the national service laws; and
 
 &emsp;(B) after receiving and reviewing an approved proposal under section 12651b(g)(3) of this title—
 
@@ -80,7 +80,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;&emsp;(B) the number, potential consolidation, and future organization of national service or domestic volunteer service programs that are authorized under Federal law, including VISTA, service corps assisted under division C and other programs authorized by this chapter, programs administered by the Public Health Service, the Department of Defense, or other Federal agencies, programs regarding teacher corps, and programs regarding work-study and higher education loan forgiveness or forbearance programs authorized by the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) related to community service;
 
-&emsp;(12) for purposes of section 12638(d)(6)(B) of this title, issue regulations to waive the disqualification of members of the Board and members of the State Commissions selectively in a random, nondiscretionary manner and only to the extent necessary to establish the quorum involved, including rules that forbid each member of the Board and each voting member of a State Commission to participate in any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity of which such member of the Board or such member of the State Commission is, or in the 1-year period before the submission of the application referred to in such section was, an officer, director, trustee, full-time volunteer, or employee;
+&emsp;(12) for purposes of section 12638(d)(6)(B) of this title, issue regulations to waive the disqualification of members of the Board and members of the State Commissions selectively in a random, nondiscretionary manner and only to the extent necessary to establish the quorum involved, including rules that forbid each member of the Board and each voting member of a State Commission to participate in any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or suchpositions, to any program or entity of which such member of the Board or such member of the State Commission is, or in the 1-year period before the submission of the application referred to in such section was, an officer, director, trustee, full-time volunteer, or employee;
 
 &emsp;(13) bolster the public awareness of and recruitment efforts for the wide range of service opportunities for citizens of all ages, regardless of socioeconomic status or geographic location, through a variety of methods, including—
 
@@ -140,7 +140,7 @@ In addition to the authority conferred on the Chief Executive Officer under any 
 
 &emsp;(5) disseminate, without regard to the provisions of section 3204 of title 39, data and information, in such form as the Chief Executive Officer shall determine to be appropriate to public agencies, private organizations, and the general public;
 
-&emsp;(6) collect or compromise all obligations to or held by the Chief Executive Officer and all legal or equitable rights accruing to the Chief Executive Officer in connection with the payment of obligations in accordance with chapter 37 of title 31 (commonly known as the "Federal Claims Collection Act of 1966");
+&emsp;(6) collect or compromise all obligations to or held by the Chief Executive Officer and alllegal or equitable rights accruing to the Chief Executive Officer in connection with the payment of obligations in accordance with chapter 37 of title 31 (commonly known as the "Federal Claims Collection Act of 1966");
 
 &emsp;(7) file a civil action in any court of record of a State having general jurisdiction or in any district court of the United States, with respect to a claim arising under this chapter;
 

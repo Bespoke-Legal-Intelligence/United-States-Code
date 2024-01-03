@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) the effectiveness of the performance accountability measures relating to such programs and activities;
 
-&emsp;&emsp;(C) the effectiveness of the structure and mechanisms for delivery of services throughsuch programs and activities, including the coordination and integration of services through such programs and activities;
+&emsp;&emsp;(C) the effectiveness of the structure and mechanisms for delivery of services through such programs and activities, including the coordination and integration of services through such programs and activities;
 
 &emsp;&emsp;(D) the impact of such programs and activities on the community, businesses, and participants involved;
 
@@ -56,7 +56,7 @@
 
 #### (8) Publication of reports
 
-&emsp;If an entity that enters into a contract or other arrangement with the Secretary to conduct an evaluation of a program or activity under this subsection requests permission from the Secretary to publish a report resulting from the evaluation, such entity may publish the report unless the Secretary denies the request during the 90-day period beginning on the date the Secretary receives such request.
+&emsp;If an entity that enters into a contract or other arrangement with the Secretary to conduct an evaluation of a program or activityunder this subsection requests permission from the Secretary to publish a report resulting from the evaluation, such entity may publish the report unless the Secretary denies the request during the 90-day period beginning on the date the Secretary receives such request.
 
 #### (9) Coordination
 
@@ -108,7 +108,7 @@
 
 #### (F) Study on job training for recipients of public housing assistance
 
-&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Housing and Urban Development, may conduct studies to assist public housing authorities to provide, to recipients of public housing assistance, job training programs that successfully upgrade job skills and employment in, and access to, jobs with opportunity for advancement and economic self-sufficiency for such recipients.
+&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Housing and Urban Development, may conduct studies to assist public housing authorities to provide, to recipients of public housing assistance, job training programs that successfully upgrade job skills and employment in, and access to,jobs with opportunity for advancement and economic self-sufficiency for such recipients.
 
 #### (G) Study on improving employment prospects for older individuals
 
@@ -170,7 +170,7 @@
 
 #### (c) Dislocated worker projects
 
-Of the amount made available pursuant to section 3172(a)(2)(A) of this title for any program year, the Secretary shall use not more than 10 percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (b)(6)(C). Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Such projects shall be administered by the Secretary, acting through the Assistant Secretary for Employment and Training.
+Of the amount made available pursuant to section 3172(a)(2)(A) of this title for any programyear, the Secretary shall use not more than 10 percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (b)(6)(C). Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Such projects shall be administered by the Secretary, acting through the Assistant Secretary for Employment and Training.
 
 (Pub. L. 113–128, title I, §169, July 22, 2014, 128 Stat. 1568.)
 
@@ -181,10 +181,6 @@ Of the amount made available pursuant to section 3172(a)(2)(A) of this title for
 This Act, referred to in subsec. (b)(4)(A), (J), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

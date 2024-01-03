@@ -16,7 +16,7 @@
 
 #### (3) Technical and scientific assistance
 
-&emsp;There is authorized to be appropriated for each of fiscal years 2021 through 2025 to carry out, and provide technical and scientific assistance under, section 8206 of this title—
+&emsp;There is authorized to be appropriated for each of fiscal years 2021 through 2025 to carryout, and provide technical and scientific assistance under, section 8206 of this title—
 
 &emsp;&emsp;(A) $400,000 to the Secretary for use by the United States Fish and Wildlife Service;
 
@@ -66,7 +66,7 @@ The Secretary may—
 
 #### References in Text
 
-The Federal Financial Assistance Management Improvement Act of 1999, referred to in subsec. (b)(1), isPub. L. 106–107, Nov. 20, 1999, 113 Stat. 1486, which was formerly set out as a note under section 6101 of Title 31, Money and Finance. Pursuant to section 11 of the Act, the Act ceased to be effective 8 years after Nov. 20, 1999.
+The Federal Financial Assistance Management Improvement Act of 1999, referred to in subsec. (b)(1), is Pub. L. 106–107, Nov. 20, 1999, 113 Stat. 1486, which was formerly set out as a note under section 6101 of Title 31, Money and Finance. Pursuant to section 11 of the Act, the Act ceased to be effective 8 years after Nov. 20, 1999.
 
 This Act, referred to in subsec. (b)(3), is Pub. L. 116–188, Oct. 30, 2020, 134 Stat. 905, known as America's Conservation Enhancement Act. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of this title and Tables.
 

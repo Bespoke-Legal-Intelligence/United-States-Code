@@ -10,7 +10,7 @@ The adjustments under the authority of this section shall, to the maximum extent
 
 #### (c) Adjustment on county basis
 
-The Secretary may establish loan rates for a crop for producers in individual counties in a manner that results in the lowest such rate being 95 percent of the national average loan rate, except that such action shall not result in an increase in outlays. Adjustments under this subsection shall not result in an increase in the national average loan rate for any year.
+The Secretary may establish loan rates for a crop for producers in individual counties in a manner that results in the lowest such rate being 95 percent of the national average loan rate, except that such action shall not result inan increase in outlays. Adjustments under this subsection shall not result in an increase in the national average loan rate for any year.
 
 (Pub. L. 104–127, title I, §162, Apr. 4, 1996, 110 Stat. 935; Pub. L. 107–171, title I, §1606, May 13, 2002, 116 Stat. 218.)
 

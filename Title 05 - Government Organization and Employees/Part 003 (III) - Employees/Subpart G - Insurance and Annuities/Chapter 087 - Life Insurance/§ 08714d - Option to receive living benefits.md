@@ -1,6 +1,6 @@
 ### §8714d. Option to receive "living benefits"
 
-(a) For the purpose of this section, an individual shall be considered to be "terminally ill"if such individual has a medical prognosis that such individual's life expectancy is 9 months or less.
+(a) For the purpose of this section, an individual shall be considered to be "terminally ill" if such individual has a medical prognosis that such individual's life expectancy is 9 months or less.
 
 (b) The Office of Personnel Management shall prescribe regulations under which any individual covered by group life insurance under section 8704(a) may, if such individual is terminally ill, elect to receive a lump-sum payment equal to—
 

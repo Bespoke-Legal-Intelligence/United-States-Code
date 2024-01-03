@@ -18,7 +18,7 @@
 
 #### (c) Commission monitoring of State implementation and enforcement
 
-The Commission shall, at least annually, review each State's implementation and enforcement of coastal fishery management plans for the purpose of determining whether such State is effectively implementing and enforcing each such plan. Upon completion of such reviews, the Commission shall report the results of the reviews to the Secretaries.
+The Commission shall, at least annually, review each State's implementation and enforcement of coastal fishery management plans forthe purpose of determining whether such State is effectively implementing and enforcing each such plan. Upon completion of such reviews, the Commission shall report the results of the reviews to the Secretaries.
 
 (Pub. L. 103–206, title VIII, §805, Dec. 20, 1993, 107 Stat. 2450.)
 

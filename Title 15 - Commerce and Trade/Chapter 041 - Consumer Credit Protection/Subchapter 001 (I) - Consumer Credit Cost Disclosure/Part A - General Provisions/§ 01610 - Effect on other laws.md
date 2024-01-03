@@ -12,7 +12,7 @@ Except as provided in section 1639 of this title, this subchapter does not other
 
 #### (c) Disclosure as evidence
 
-In any action or proceeding in any court involving a consumer credit sale, the disclosure of the annual percentage rate as required under this subchapter in connection with that salemay not be received as evidence that the sale was a loan or any type of transaction other than a credit sale.
+In any action or proceeding in any court involving a consumer credit sale, the disclosure of the annual percentage rate as required under this subchapter in connection with that sale may not be received as evidence that the sale was a loan or any type of transaction other than a credit sale.
 
 #### (d) Contract or other obligations under State or Federal law
 
@@ -28,7 +28,7 @@ The provisions of subsection (c) of section 1632 of this title and subsections (
 
 #### References in Text
 
-Section 1602(aa) of this title, referred to in subsec. (b), was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(aa) of this title, referred to in subsec. (b), was redesignated section 1602(bb) of this title byPub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 #### Amendments
 

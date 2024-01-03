@@ -14,7 +14,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 #### (A) Fiscal years 2017 through 2022
 
-&emsp;&emsp;For each of fiscal years 2017 through 2022, subject to paragraph (2) and subparagraph (C), from the funds appropriated under section 6603(a) of this title for a fiscal year that remain after the Secretary makes the reservations under subsection (a), the Secretary shall allot to each State an amount equal to the total amount that such State received for fiscal year 2001 under—
+&emsp;&emsp;For each of fiscal years 2017 through 2022, subject to paragraph (2) and subparagraph\(C), from the funds appropriated under section 6603(a) of this title for a fiscal year that remain after the Secretary makes the reservations under subsection (a), the Secretary shall allot to each State an amount equal to the total amount that such State received for fiscal year 2001 under—
 
 &emsp;&emsp;&emsp;(i) section 2202(b) of this Act (as in effect on the day before January 8, 2002); and
 
@@ -54,7 +54,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 &emsp;&emsp;&emsp;(iv) for fiscal year 2020 through fiscal year 2022—
 
-&emsp;&emsp;&emsp;&emsp;(I) an amount that bears the same relationship to 20 percent of the excessamount as the number of individuals aged 5 through 17 in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined; and
+&emsp;&emsp;&emsp;&emsp;(I) an amount that bears the same relationship to 20 percent of the excess amount as the number of individuals aged 5 through 17 in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined; and
 
 &emsp;&emsp;&emsp;&emsp;(II) an amount that bears the same relationship to 80 percent of the excess amount as the number of individuals aged 5 through 17 from families with incomes below the poverty line in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined.
 
@@ -134,7 +134,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 &emsp;&emsp;&emsp;&emsp;(II) providing training and support for teacher leaders and principals or other school leaders who are recruited as part of instructional leadership teams.
 
-&emsp;&emsp;&emsp;(vi) Fulfilling the State educational agency's responsibilities concerning proper and efficient administration and monitoring of the programs carried out under this part, including provision of technical assistance to local educational agencies.
+&emsp;&emsp;&emsp;(vi) Fulfilling the State educational agency's responsibilities concerning properand efficient administration and monitoring of the programs carried out under this part, including provision of technical assistance to local educational agencies.
 
 &emsp;&emsp;&emsp;(vii) Developing, or assisting local educational agencies in developing—
 
@@ -170,7 +170,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 &emsp;&emsp;&emsp;(xv) Providing training for all school personnel, including teachers, principals, other school leaders, specialized instructional support personnel, and paraprofessionals, regarding how to prevent and recognize child sexual abuse.
 
-&emsp;&emsp;&emsp;(xvi) Supporting opportunities for principals, other school leaders, teachers,paraprofessionals, early childhood education program directors, and other early childhood education program providers to participate in joint efforts to address the transition to elementary school, including issues related to school readiness.
+&emsp;&emsp;&emsp;(xvi) Supporting opportunities for principals, other school leaders, teachers, paraprofessionals, early childhood education program directors, and other early childhood education program providers to participate in joint efforts to address the transition to elementary school, including issues related to school readiness.
 
 &emsp;&emsp;&emsp;(xvii) Developing and providing professional development and other comprehensive systems of support for teachers, principals, or other school leaders to promote high-quality instruction and instructional leadership in science, technology, engineering, and mathematics subjects, including computer science.
 
@@ -178,7 +178,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 &emsp;&emsp;&emsp;(xix) Enabling States, as a consortium, to voluntarily develop a process that allows teachers who are licensed or certified in a participating State to teach in other participating States without completing additional licensure or certification requirements, except that nothing in this clause shall be construed to allow the Secretary to exercise any direction, supervision, or control over State teacher licensing or certification requirements.
 
-&emsp;&emsp;&emsp;(xx) Supporting and developing efforts to train teachers on the appropriate use of student data to ensure that individual student privacy is protected as required by section 1232g of this title (commonly known as the "Family Educational Rights and Privacy Act of 1974") and in accordance with State student privacy laws and local educational agency student privacy and technology use policies.
+&emsp;&emsp;&emsp;(xx) Supporting and developing efforts to train teachers on the appropriate use of student data to ensure that individual student privacy is protected as required bysection 1232g of this title (commonly known as the "Family Educational Rights and Privacy Act of 1974") and in accordance with State student privacy laws and local educational agency student privacy and technology use policies.
 
 &emsp;&emsp;&emsp;(xxi) Supporting other activities identified by the State that are, to the extent the State determines that such evidence is reasonably available, evidence-based and that meet the purpose of this subchapter.
 

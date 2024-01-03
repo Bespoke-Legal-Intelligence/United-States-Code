@@ -114,11 +114,15 @@ A trust shall not constitute a qualified trust under section 401(a) for any plan
 
 &emsp;&emsp;&emsp;(II) This subparagraph shall not apply to any plan required to be included in an aggregation group if such plan enables a defined benefit plan required to be included in such group to meet the requirements of section 401(a)(4) or 410.
 
+#### (C) Application to employees not meeting age and service requirements
+
+&emsp;&emsp;Any employees not meeting the age or service requirements of section 410(a)(1) (without regard to subparagraph (B) thereof) may be excluded from consideration in determining whether any plan of the employer meets the requirements of subparagraphs (A) and (B).
+
 #### \[(d) Repealed. Pub. L. 99–514, title XI, §1106(d)(3)(B)(i), Oct. 22, 1986, 100 Stat. 2424\]
 
 #### (e) Plan must meet requirements without taking into account social security and similar contributions and benefits
 
-A top-heavy plan shall not be treated as meeting the requirement of subsection (b) or (c) unless such plan meets such requirement without taking into account contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contributions Act), title II of the Social Security Act, or any other Federal or State law.
+A top-heavy plan shall not be treated as meeting the requirement of subsection (b) or (c) unless such plan meets such requirement withouttaking into account contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contributions Act), title II of the Social Security Act, or any other Federal or State law.
 
 #### (f) Coordination where employer has 2 or more plans
 
@@ -228,13 +232,13 @@ For purposes of this section—
 
 &emsp;&emsp;The term "top-heavy plan" shall not include a simple retirement account under section 408(p).
 
-#### (H) Cash or deferred arrangements using alternative methods of meeting nondiscrimination requirements
+#### (H) Cash or deferred arrangements or plans using alternative methods of meeting nondiscrimination requirements
 
 &emsp;&emsp;The term "top-heavy plan" shall not include a plan which consists solely of—
 
-&emsp;&emsp;&emsp;(i) a cash or deferred arrangement which meets the requirements of section 401(k)(12) or 401(k)(13), and
+&emsp;&emsp;&emsp;(i) a cash or deferred arrangement which meets the requirements of section 401(k)(12) or 401(k)(13) and matching contributions with respect to which the requirements of paragraph (11), (12), or (13) of section 401(m) are met, or
 
-&emsp;&emsp;&emsp;(ii) matching contributions with respect to which the requirements of section 401(m)(11) or 401(m)(12) are met.
+&emsp;&emsp;&emsp;(ii) a starter 401(k) deferral-only arrangement described in section 401(k)(16)(B) or a safe harbor deferral-only plan described in section 403(b)(16).
 
 > &emsp;&emsp;Such term shall not include a plan solely because such plan does not provide nonelective or matching contributions to employees described in section 401(k)(15)(B)(i). If, but for this subparagraph, a plan would be treated as a top-heavy plan because it is a member of an aggregation group which is a top-heavy group, contributions under the plan may be taken into account in determining whether any other plan in the group meets the requirements of subsection (c)(2).
 
@@ -270,7 +274,7 @@ For purposes of this section—
 
 #### (ii) 1-percent owner
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term "1-percent owner" means any person whowould be described in clause (i) if "1 percent" were substituted for "5 percent" each place it appears in clause (i).
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term "1-percent owner" means any person who would be described in clause (i) if "1 percent" were substituted for "5 percent" each place it appears in clause (i).
 
 #### (iii) Constructive ownership rules
 
@@ -323,28 +327,6 @@ For purposes of this section—
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
-
-#### Amendment of Section
-
-<i>Pub. L. 117–328, div. T, title I, §121(c), (d), title III, §310, Dec. 29, 2022, 136 Stat. 5311, 5346, provided that, applicable to plan years beginning after Dec. 31, 2023, this section is amended as follows:</i>
-
-<i>(1) in subsection (c)(2), by adding at the end the following new subparagraph:</i>
-
-#### <i>"(C) Application to employees not meeting age and service requirements</i>
-
-&emsp;&emsp;<i>"Any employees not meeting the age or service requirements of section 410(a)(1) (without regard to subparagraph (B) thereof) may be excluded from consideration in determining whether any plan of the employer meets the requirements of subparagraphs (A) and (B)."; and</i>
-
-<i>(2) in subsection (g)(4)—</i>
-
-<i>(A) by striking "arrangements" in the heading and inserting "arrangements or plans";</i>
-
-<i>(B) by striking ", and" at the end of clause (i) and inserting "and matching contributions with respect to which the requirements of paragraph (11), (12), or (13) of section 401(m) are met, or"; and</i>
-
-<i>(C) by striking clause (ii) and inserting after clause (i) the following new clause:</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) a starter 401(k) deferral-only arrangement described in section 401(k)(16)(B) or a safe harbor deferral-only plan described in section 403(b)(16)."</i>
-
-<i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -480,7 +462,7 @@ Amendment by section 1452(c)(7) of Pub. L. 104–188 applicable to limitation ye
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1011(j)(3)(B), Nov. 10, 1988, 102 Stat. 3468, provided that: "The amendment made by this paragraph \[amending this section\] shall apply to years beginning after December 31, 1988."
+Pub. L. 100–647, title I, §1011(j)(3)(B), Nov. 10, 1988, 102 Stat. 3468, provided that: "The amendment made bythis paragraph \[amending this section\] shall apply to years beginning after December 31, 1988."
 
 Amendment by section 1011(d)(8), (i)(4)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -520,5 +502,5 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

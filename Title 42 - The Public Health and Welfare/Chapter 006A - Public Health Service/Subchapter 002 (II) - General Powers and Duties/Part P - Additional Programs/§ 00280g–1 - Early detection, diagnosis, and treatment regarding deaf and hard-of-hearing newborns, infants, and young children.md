@@ -24,7 +24,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 &emsp;&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall make awards of grants or cooperative agreements to provide technical assistance to State agencies or designated entities of States—
 
-&emsp;&emsp;&emsp;(i) to develop, maintain, and improve data collection systems related to newborn, infant, and young child hearing screening, evaluation (including audiologic, medical, and language acquisition evaluations), diagnosis, and intervention services;
+&emsp;&emsp;&emsp;(i) to develop, maintain, and improve data collection systems related to newborn, infant, and young child hearingscreening, evaluation (including audiologic, medical, and language acquisition evaluations), diagnosis, and intervention services;
 
 &emsp;&emsp;&emsp;(ii) to conduct applied research related to newborn, infant, and young child hearing screening, evaluation, and intervention programs and outcomes;
 
@@ -40,7 +40,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 &emsp;&emsp;&emsp;(ii) to assess and report on the cost and program effectiveness of newborn, infant, and young child hearing screening, evaluation, and intervention programs and systems;
 
-&emsp;&emsp;&emsp;(iii) to collect data and report on newborn, infant, and young child hearingscreening, evaluation, diagnosis, and intervention programs and systems for applied research, program evaluation, and policy improvement;
+&emsp;&emsp;&emsp;(iii) to collect data and report on newborn, infant, and young child hearing screening, evaluation, diagnosis, and intervention programs and systems for applied research, program evaluation, and policy improvement;
 
 &emsp;&emsp;&emsp;(iv) to identify the causes and risk factors for congenital hearing loss;
 
@@ -214,7 +214,7 @@ Subsec. (e)(6). Pub. L. 115–71, §2(f)(3), redesignated par. (6) as (5).
 
 Subsec. (f)(1). Pub. L. 115–71, §2(g)(1), substituted "$17,818,000 for fiscal year 2018, $18,173,800 for fiscal year 2019, $18,628,145 for fiscal year 2020, $19,056,592 for fiscal year 2021, and $19,522,758 for fiscal year 2022." for "such sums as may be necessary for fiscal years 2011 through 2015."
 
-Subsec. (f)(2). Pub. L. 115–71, §2(g)(2), substituted "$10,800,000 for fiscal year 2018, $11,026,800 for fiscal year 2019, $11,302,470 for fiscal year 2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022." for "such sums as may be necessary for fiscal years 2011 through 2015."
+Subsec. (f)(2). Pub. L. 115–71, §2(g)(2), substituted "$10,800,000 for fiscal year 2018, $11,026,800 for fiscal year2019, $11,302,470 for fiscal year 2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022." for "such sums as may be necessary for fiscal years 2011 through 2015."
 
 <b>2010</b>—Pub. L. 111–337, §2(1), substituted "newborns and infants" for "infants" in section catchline.
 

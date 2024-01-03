@@ -158,7 +158,7 @@ Attorney Fees.—Notwithstanding any contract, the representative of a person ma
 
 "(h)
 
-Outreach.—The Secretary of the Navy shall take such actions as are necessary to ensure that the benefits and eligibility for benefits under this section are widely publicized by means designed to provide actual notice of the availability of the benefits in a timely manner to the maximum number of eligible persons practicable.
+Outreach.—The Secretary of the Navy shall take such actions as are necessary to ensure that the benefits and eligibility for benefits under this sectionare widely publicized by means designed to provide actual notice of the availability of the benefits in a timely manner to the maximum number of eligible persons practicable.
 
 "(i)
 
@@ -172,5 +172,5 @@ For payment for individuals in the uniformed services referred to in subsec. (c)
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense, see section 3 of Ex. Ord. No.12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
+Functions of President under this section delegated to Secretary of Defense, see section 3 of Ex. Ord. No. 12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
 

@@ -10,7 +10,7 @@ The Secretary of the Treasury and the Secretary of Labor shall consult with each
 
 #### (c) Transmission of information to Secretary of the Treasury
 
-Whenever the Secretary of Labor obtains information indicating that a party-in-interest ordisqualified person is violating section 1106 of this title, he shall transmit such information to the Secretary of the Treasury.
+Whenever the Secretary of Labor obtains information indicating that a party-in-interest or disqualified person is violating section 1106 of this title, he shall transmit such information to the Secretary of the Treasury.
 
 (Pub. L. 93–406, title III, §3003, Sept. 2, 1974, 88 Stat. 998; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
 

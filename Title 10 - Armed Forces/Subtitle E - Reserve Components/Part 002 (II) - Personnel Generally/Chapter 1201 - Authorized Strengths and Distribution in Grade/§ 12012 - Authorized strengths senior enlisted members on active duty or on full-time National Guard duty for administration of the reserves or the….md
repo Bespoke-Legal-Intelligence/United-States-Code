@@ -2,7 +2,7 @@
 
 (a)
 
-Limitations.—Of the total number of members of a reserve component who are serving on full-time reserve component duty at the end ofany fiscal year, the number of those members in each of pay grades of E–8 and E–⁠9 who may be serving on active duty under section 10211 or 12310, or on full-time National Guard duty under the authority of section 502(f) of title 32 (other than for training) in connection with organizing, administering, recruiting, instructing, or training the reserve components or the National Guard may not, as of the end of that fiscal year, exceed the number determined in accordance with the following table:
+Limitations.—Of the total number of members of a reserve component who are serving on full-time reserve component duty at the end of any fiscal year, the number of those members in each of pay grades of E–8 and E–⁠9 who may be serving on active duty under section 10211 or 12310, or on full-time National Guard duty under the authority of section 502(f) of title 32 (other than for training) in connection with organizing, administering, recruiting, instructing, or training the reserve components or the National Guard may not, as of the end of that fiscal year, exceed the number determined in accordance with the following table:
 
 &nbsp;
 
@@ -11,7 +11,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | E–8 | E–⁠9 |  |
 | Army Reserve: |  |  |
 | 10,000 | 1,052 | 154&nbsp;&nbsp; |
-| 11,000 | 1,126 | 168&nbsp;&nbsp; |
+| 11,000 | 1,126 | 168   |
 | 12,000 | 1,195 | 180&nbsp;&nbsp; |
 | 13,000 | 1,261 | 191&nbsp;&nbsp; |
 | 14,000 | 1,327 | 202&nbsp;&nbsp; |
@@ -121,9 +121,9 @@ Reallocations to Lower Grade.—Whenever the number of members serving in pay gr
 
 (d)
 
-Secretarial Waiver.—(1) Upon determining that it is in the national interest to doso, the Secretary of Defense may increase for a particular fiscal year the number of reserve enlisted members that may be on active duty or full-time National Guard duty as described in subsection (a) for a reserve component in a pay grade referred to in a table in subsection (a) by a number that does not exceed the number equal to 5 percent of the maximum number specified for that grade and reserve component in the table.
+Secretarial Waiver.—(1) Upon determining that it is in the national interest to do so, the Secretary of Defense may increase for a particular fiscal year the number of reserve enlisted members that may be on active duty or full-time National Guard duty as described in subsection (a) for a reserve component in a pay grade referred to in a table in subsection (a) by a number that does not exceed the number equal to 5 percent of the maximum number specified for that grade and reserve component in the table.
 
-(2) Whenever the Secretary exercises the authority provided in paragraph (1), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice in writing of the adjustment made.
+(2) Whenever the Secretary exercises the authority provided in paragraph (1), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on ArmedServices of the House of Representatives notice in writing of the adjustment made.
 
 (e)
 

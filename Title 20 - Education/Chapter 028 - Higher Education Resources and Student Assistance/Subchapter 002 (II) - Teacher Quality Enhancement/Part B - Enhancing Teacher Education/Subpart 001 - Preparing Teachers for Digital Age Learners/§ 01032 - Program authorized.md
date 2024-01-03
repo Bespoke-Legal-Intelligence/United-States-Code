@@ -12,7 +12,7 @@ The Secretary is authorized to award grants to, or enter into contracts or coope
 
 &emsp;(2) strengthen and develop partnerships among the stakeholders in teacher preparation to transform teacher education and ensure technology-rich teaching and learning environments throughout a teacher candidate's preservice education, including clinical experiences; and
 
-&emsp;(3) assess the effectiveness of departments, schools, and colleges of education at institutions of higher education in preparing teacher candidates for successful implementation of technology-rich teaching and learning environments, including environments consistent with the principles of universal design for learning, that enable kindergarten through grade 12 students to develop learning skills to succeed in higher education and to enter the workforce.
+&emsp;(3) assess the effectiveness of departments, schools, and colleges of education at institutions of higher education in preparing teacher candidates for successful implementation of technology-rich teaching and learning environments, including environments consistent with the principles of universal design for learning, that enable kindergarten through grade 12 students to develop learning skills tosucceed in higher education and to enter the workforce.
 
 #### (b) Amount and duration
 
@@ -48,7 +48,7 @@ In this subpart, the term "eligible consortium" means a consortium of members th
 
 #### Prior Provisions
 
-A prior section 1032, Pub. L. 89–329, title II, §222, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat.1385; amended Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 469, related to library education and human resource development, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
+A prior section 1032, Pub. L. 89–329, title II, §222, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1385; amended Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 469, related to library education and human resource development, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
 Another prior section 1032, Pub. L. 89–329, title II, §222, Nov. 8, 1965, 79 Stat. 1227, defined the term "librarianship", prior to repeal by Pub. L. 92–318, title I, §111(b)(3)(A), June 23, 1972, 86 Stat. 239.
 

@@ -34,7 +34,7 @@ Clarification of restrictions.—The restrictions contained in paragraphs (1) an
 
 &emsp;&emsp;(A) in the case of an officer or employee of the executive branch of the United States (including any independent agency), only with respect to communications to or appearances before any officer or employee of any department, agency, court, or court-martial of the United States on behalf of any other person (except the United States), and only with respect to a matter in which the United States is a party or has a direct and substantial interest; and
 
-&emsp;&emsp;(B) in the case of an officer or employee of the District of Columbia, only with respect to communications to or appearances before any officer or employee of any department, agency, or court of the District of Columbia on behalf of any other person (except the District of Columbia), and only with respect to a matter in which the District of Columbia is a party or has a direct and substantial interest.
+&emsp;&emsp;(B) in the case of an officer or employee of the District of Columbia, only with respect to communications to or appearances before any officer or employee of any department, agency, or court of the District of Columbia on behalf of any other person (except the District of Columbia), and only with respectto a matter in which the District of Columbia is a party or has a direct and substantial interest.
 
 (b)
 
@@ -42,7 +42,7 @@ One-Year Restrictions on Aiding or Advising.—
 
 &emsp;(1)
 
-In general.—Any person who is a former officer or employee of the executive branch of the United States (including any independent agency) and is subject to the restrictions contained in subsection (a)(1), or any person who is a former officer or employee of the legislative branch or a former Member of Congress, who personally and substantially participated in any ongoing trade or treaty negotiation on behalf of the United States within the 1-year period preceding the date on which his or her service or employment with the United States terminated, and who had access to information concerning such trade or treaty negotiation which is exempt from disclosure undersection 552 of title 5, which is so designated by the appropriate department or agency, and which the person knew or should have known was so designated, shall not, on the basis of that information, knowingly represent, aid, or advise any other person (except the United States) concerning such ongoing trade or treaty negotiation for a period of 1 year after his or her service or employment with the United States terminates. Any person who violates this subsection shall be punished as provided in section 216 of this title.
+In general.—Any person who is a former officer or employee of the executive branch of the United States (including any independent agency) and is subject to the restrictions contained in subsection (a)(1), or any person who is a former officer or employee of the legislative branch or a former Member of Congress, who personally and substantially participated in any ongoing trade or treaty negotiation on behalf of the United States within the 1-year period preceding the date on which his or her service or employment with the United States terminated, and who had access to information concerning such trade or treaty negotiation which is exempt from disclosure under section 552 of title 5, which is so designated by the appropriate department or agency, and which the person knew or should have known was so designated, shall not, on the basis of that information, knowingly represent, aid, or advise any other person (except the United States) concerning such ongoing trade or treaty negotiation for a period of 1 year after his or her service or employment with the United States terminates. Any person who violates this subsection shall be punished as provided in section 216 of this title.
 
 &emsp;(2)
 
@@ -202,7 +202,7 @@ Restrictions Relating to Foreign Entities.—
 
 &emsp;(1)
 
-Restrictions.—Any person who is subject to the restrictions contained in subsection (c), (d), or (e) and who knowingly, within 1 yearafter leaving the position, office, or employment referred to in such subsection—
+Restrictions.—Any person who is subject to the restrictions contained in subsection (c), (d), or (e) and who knowingly, within 1 year after leaving the position, office, or employment referred to in such subsection—
 
 &emsp;&emsp;(A) represents a foreign entity before any officer or employee of any department or agency of the United States with the intent to influence a decision of such officer or employee in carrying out his or her official duties, or
 
@@ -318,7 +318,7 @@ Political parties and campaign committees.—(A) Except as provided in subparagr
 
 &emsp;&emsp;(v) the term "State committee" means the organization which, by virtue of the bylaws of a political party, is responsible for the day-to-day operation of such political party at the State level;
 
-&emsp;&emsp;(vi) the term "political party" means an association, committee, or organization that nominates a candidate for election to any Federal or State elected office whose name appears on the election ballot as the candidate of such association, committee, or organization; and
+&emsp;&emsp;(vi) the term "political party" means an association, committee, or organization thatnominates a candidate for election to any Federal or State elected office whose name appears on the election ballot as the candidate of such association, committee, or organization; and
 
 &emsp;&emsp;(vii) the term "State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
@@ -516,7 +516,7 @@ Subsec. (i)(1). Pub. L. 101–280, §2(a)(9), amended subsec. (i)(1), as amended
 
 Subsec. (j)(1). Pub. L. 101–280, §2(a)(10)(A), amended subsec. (j)(1), as amended by Pub. L. 101–194, by substituting "this section" for "subsections (a), (c), (d), and (e)", "on behalf of" for "as an officer or employee of", and "or the District of Columbia" for "Government".
 
-Subsec. (j)(3). Pub. L. 101–280, §2(a)(10)(B), amended subsec. (j)(3), as amended by Pub. L. 101–194, by substituting "this section" for "subsections (c), (d), and (e)" and "in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States" for "of which the United States is a member".
+Subsec. (j)(3). Pub. L. 101–280, §2(a)(10)(B), amended subsec. (j)(3), as amended by Pub. L. 101–194, by substituting "this section" for "subsections (c), (d), and (e)" and "in which the United States participates, if the Secretary of State certifies in advance that suchactivity is in the interests of the United States" for "of which the United States is a member".
 
 Subsec. (j)(4). Pub. L. 101–280, §2(a)(10)(C), amended subsec. (j)(4), as amended by Pub. L. 101–194, by substituting "Special" for "Personal matters and special" in heading, substituting "prevent an individual" for "apply to appearances or communications by a former officer or employee concerning matters of a personal and individual nature, such as personal income taxes or pension benefits; nor shall the prohibitions of those subsections prevent a former officer or employee", substituting "individual's" for "former officer's or employee's", and striking out ", other than that regularly provided for by law or regulation for witnesses" after "if no compensation is thereby received".
 
@@ -598,7 +598,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 #### "§207. Disqualification of former officers and employees; disqualification of partners of current officers and employees
 
-"(a) Whoever, having been an officer or employee of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, including a special Government employee, after his employment has ceased, knowingly acts as agent or attorney for, or otherwise represents, any other person (except the United States), in any formal or informal appearance before, or, with the intent to influence, makes any oral orwritten communication on behalf of any other person (except the United States) to—
+"(a) Whoever, having been an officer or employee of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, including a special Government employee, after his employment has ceased, knowingly acts as agent or attorney for, or otherwise represents, any other person (except the United States), in any formal or informal appearance before, or, with the intent to influence, makes any oral or written communication on behalf of any other person (except the United States) to—
 
 &emsp;"(1) any department, agency, court, court-martial, or any civil, military, or naval commission of the United States or the District of Columbia, or any officer or employee thereof, and
 
@@ -642,7 +642,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 "(f) The prohibitions of subsections (a), (b), and (c) shall not apply with respect to the making of communications solely for the purpose of furnishing scientific or technological information under procedures acceptable to the department or agency concerned, or if the head of the department or agency concerned with the particular matter, in consultation with the Director of the Office of Government Ethics, makes a certification, published in the Federal Register, that the former officer or employee has outstanding qualifications in a scientific, technological, or other technical discipline, and is acting with respect to a particular matter which requires such qualifications, and that the national interest would be served by the participation of the former officer or employee.
 
-"(g) Whoever, being a partner of an officer or employee of the executive branch of the United StatesGovernment, of any independent agency of the United States, or of the District of Columbia, including a special Government employee, acts as agent or attorney for anyone other than the United States before any department, agency, court, court-martial, or any civil, military, or naval commission of the United States or the District of Columbia, or any officer or employee thereof, in connection with any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest, or other particular matter in which the United States or the District of Columbia is a party or has a direct and substantial interest and in which such officer or employee or special Government employee participates or has participated personally and substantially as an officer or employee through decision, approval, disapproval, recommendation, the rendering of advice, investigation, or otherwise, or which is the subject of his official responsibility, shall be fined not more than $5,000, or imprisoned for not more than one year, or both.
+"(g) Whoever, being a partner of an officer or employee of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, including a special Government employee, acts as agent or attorney for anyone other than the United States before any department, agency, court, court-martial, or any civil, military, or naval commission of the United States or the District of Columbia, or any officer or employee thereof, in connection with any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest, or other particular matter in which the United States or the District of Columbia is a party or has a direct and substantial interest and in which such officer or employee or special Government employee participates or has participated personally and substantially as an officer or employee through decision, approval, disapproval, recommendation, the rendering of advice, investigation, or otherwise, or which is the subject of his official responsibility, shall be fined not more than $5,000, or imprisoned for not more than one year, or both.
 
 "(h) Nothing in this section shall prevent a former officer or employee from giving testimony under oath, or from making statements required to be made under penalty of perjury.
 
@@ -678,7 +678,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–521, title V, §502, Oct. 26, 1978, 92 Stat. 1867, which provided that the amendments made by section 501 (amending this section) shall not apply to those individuals who left Government service prior to the effective date of such amendments (July 1, 1979) or, in the case of individuals who occupied positions designated pursuant to section 207(d) of title 18, United States Code, prior to the effective date of such designation; except that any such individual who returns to Government service on or after the effective date of such amendments or designation shall be thereafter covered by such amendments or designation, was amended generally by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5.
+Pub. L. 95–521, title V, §502, Oct. 26, 1978, 92 Stat. 1867, which provided that the amendments made by section501 (amending this section) shall not apply to those individuals who left Government service prior to the effective date of such amendments (July 1, 1979) or, in the case of individuals who occupied positions designated pursuant to section 207(d) of title 18, United States Code, prior to the effective date of such designation; except that any such individual who returns to Government service on or after the effective date of such amendments or designation shall be thereafter covered by such amendments or designation, was amended generally by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5.
 
 Pub. L. 95–521, title V, §503, Oct. 26, 1978, 92 Stat. 1867, which provided that the amendments made by section 501 (amending this section) shall become effective on July 1, 1979, was amended generally by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -692,7 +692,7 @@ Responsibility of Office of Government Ethics for promulgating regulations and i
 
 #### Construction of 2007 Amendment
 
-Pub. L. 110–81, title I, §104(c), Sept. 14, 2007, 121 Stat. 740, provided that: "Except as expressly identified in this section \[amending this section and section 5323 ofTitle 25, Indians\] and in the amendments made by this section, nothing in this section or the amendments made by this section affects any other provision of law."
+Pub. L. 110–81, title I, §104(c), Sept. 14, 2007, 121 Stat. 740, provided that: "Except as expressly identified in this section \[amending this section and section 5323 of Title 25, Indians\] and in the amendments made by this section, nothing in this section or the amendments made by this section affects any other provision of law."
 
 #### Transfer of Functions
 

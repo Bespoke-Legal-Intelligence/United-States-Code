@@ -50,7 +50,7 @@ In this section:
 
 #### (7) Veteran farmer or rancher
 
-&emsp;The term "veteran farmer or rancher" means a farmer or rancher who has served inthe Armed Forces (as defined in section 101(10) of title 38) and who—
+&emsp;The term "veteran farmer or rancher" means a farmer or rancher who has served in the Armed Forces (as defined in section 101(10) of title 38) and who—
 
 &emsp;&emsp;(A) has not operated a farm or ranch;
 
@@ -134,7 +134,7 @@ The Secretary shall carry out this section to encourage and assist socially disa
 
 &emsp;&emsp;&emsp;(ii) The activities undertaken and services provided.
 
-&emsp;&emsp;&emsp;(iii) The number of current and prospective socially disadvantaged farmers orranchers served and outcomes of such service.
+&emsp;&emsp;&emsp;(iii) The number of current and prospective socially disadvantaged farmers or ranchers served and outcomes of such service.
 
 &emsp;&emsp;&emsp;(iv) The problems and barriers identified by entities in trying to increase participation by current and prospective socially disadvantaged farmers or ranchers.
 
@@ -184,7 +184,7 @@ The Secretary shall carry out this section to encourage and assist socially disa
 
 #### (1) In general
 
-&emsp;Using funds made available under subsection (l), the Secretary, acting through the Director of the National Institute of Food and Agriculture, shall, for the period of fiscal years 2019 through 2023, make competitive grants or enter into cooperative agreements to support new and established local and regional training, education, outreach, and technical assistance initiatives to increase opportunities for beginning farmers and ranchers.
+&emsp;Using funds made available under subsection (l), the Secretary, acting through the Directorof the National Institute of Food and Agriculture, shall, for the period of fiscal years 2019 through 2023, make competitive grants or enter into cooperative agreements to support new and established local and regional training, education, outreach, and technical assistance initiatives to increase opportunities for beginning farmers and ranchers.
 
 #### (2) Included programs and services
 
@@ -296,7 +296,7 @@ The Secretary shall carry out this section to encourage and assist socially disa
 
 #### (10) Coordination permitted
 
-&emsp;A recipient of a grant or participant in a cooperative agreement under this subsection may coordinate with a recipient of a grant or cooperative agreement under section 5933 of this title in addressing the needs of veteran farmers and ranchers with disabilities.
+&emsp;A recipient of a grant or participant in a cooperative agreement under this subsection may coordinate with a recipient of a grant or cooperative agreement under section 5933 ofthis title in addressing the needs of veteran farmers and ranchers with disabilities.
 
 #### (11) Consecutive awards
 
@@ -328,7 +328,7 @@ The Secretary shall carry out this section to encourage and assist socially disa
 
 #### (B) Curriculum
 
-&emsp;&emsp;In promoting the development of curricula, educational programs and workshops,or training and technical assistance initiatives under subparagraph (A), the Secretary shall, to the maximum extent practicable, include content tailored to specific audiences of beginning farmers and ranchers, based on crop diversity or regional diversity.
+&emsp;&emsp;In promoting the development of curricula, educational programs and workshops, or training and technical assistance initiatives under subparagraph (A), the Secretary shall, to the maximum extent practicable, include content tailored to specific audiences of beginning farmers and ranchers, based on crop diversity or regional diversity.
 
 #### (C) Composition
 
@@ -590,7 +590,7 @@ Subsec. (c)(1)(A)(ii). Pub. L. 115–334, §12301(b)(7)(D)(ii), substituted "thi
 
 Subsec. (c)(1)(F). Pub. L. 115–334, §12301(b)(7)(D)(iii), made technical amendment to reference in original act which appears in text as reference to section 5304 of title 25.
 
-Subsec. (c)(2). Pub. L. 115–334, §12301(b)(7)(C), (E)(i), redesignated par. (1) as (2) and substituted "Using fundsmade available under subsection (l), the Secretary of Agriculture shall, for the period of fiscal years 2019 through 2023, carry out" for "The Secretary of Agriculture shall carry out" in introductory provisions. Former par. (2) redesignated (3).
+Subsec. (c)(2). Pub. L. 115–334, §12301(b)(7)(C), (E)(i), redesignated par. (1) as (2) and substituted "Using funds made available under subsection (l), the Secretary of Agriculture shall, for the period of fiscal years 2019 through 2023, carry out" for "The Secretary of Agriculture shall carry out" in introductory provisions. Former par. (2) redesignated (3).
 
 Subsec. (c)(2)(B). Pub. L. 115–334, §12301(b)(7)(E)(ii), (iii), substituted "agricultural, forestry, and related" for "agricultural".
 
@@ -782,7 +782,7 @@ Membership.—
 
 In general.—The Committee shall be composed of not more than 15 members, who shall be appointed by the Secretary, and shall include—
 
-&emsp;&emsp;"(A) not less than four socially disadvantaged farmers or ranchers (as defined in section 2501(e)(2) \[now 2501(a)(2)\] of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279(e)(2)) \[now 7 U.S.C. 2279(a)(2)\]);
+&emsp;&emsp;"(A) not less than four socially disadvantaged farmers or ranchers (as defined in section 2501(e)(2) \[now 2501(a)(2)\] of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279(e)(2)) \[now 7 U.S.C. 2279(a)(5)\]);
 
 &emsp;&emsp;"(B) not less than two representatives of nonprofit organizations with a history of working with minority farmers and ranchers;
 

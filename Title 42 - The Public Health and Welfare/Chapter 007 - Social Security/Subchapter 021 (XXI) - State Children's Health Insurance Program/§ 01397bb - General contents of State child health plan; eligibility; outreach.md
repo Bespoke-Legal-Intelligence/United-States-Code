@@ -88,7 +88,7 @@ A State child health plan shall include a description of the procedures to be us
 
 #### (2) Coordination with other health insurance programs
 
-&emsp;Coordination of the administration of the State program under this subchapter withother public and private health insurance programs.
+&emsp;Coordination of the administration of the State program under this subchapter with other public and private health insurance programs.
 
 #### (3) Premium assistance subsidies
 

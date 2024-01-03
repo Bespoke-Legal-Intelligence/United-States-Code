@@ -44,7 +44,7 @@ June 22, 1942, ch. 432, §1, 56 Stat. 375.
 
 June 22, 1942, ch. 432, §2, 56 Stat. 376; Pub. L. 97–31, §12(16), Aug. 6, 1981, 95 Stat. 154.
 
-In subsection (a), the words "Air Force" are added because of section 207(a) and (f) of the National Security Act of 1947 (ch. 343, 61 Stat. 502, 503). Section 207(a) and (f) was repealed by section 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 676). Section 1 of the Act of August 10, 1956 (70A Stat. 1) enacted Title 10, "Armed Forces" and under subtitle D of title 10 the Department of the Air Force remained an independent administrative entity in the Department of Defense.
+In subsection (a), the words "Air Force" are added because of section 207(a) and (f) of the National Security Act of 1947 (ch. 343, 61 Stat. 502, 503). Section 207(a) and (f) was repealed by section 53 of the Act of August 10,1956 (ch. 1041, 70A Stat. 676). Section 1 of the Act of August 10, 1956 (70A Stat. 1) enacted Title 10, "Armed Forces" and under subtitle D of title 10 the Department of the Air Force remained an independent administrative entity in the Department of Defense.
 
 Subsection (b)(2)(B) is set out as a separate provision to clarify that the certification applies only to contracts other than contracts with the Federal Government. If the certification were to be construed as applying to all contracts, then the words "under a contract with the United States or" in section 2 of the Act of June 22, 1942, would be rendered meaningless.
 

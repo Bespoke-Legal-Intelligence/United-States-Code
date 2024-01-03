@@ -10,7 +10,7 @@ Consistency With Executive Orders and Directives.—The Secretary shall carry ou
 
 (c)
 
-Performance of Industrial Security Functions for Other Agencies.—The Secretarymay perform industrial security functions for other agencies of the Federal government upon request or upon designation of the Department of Defense as executive agent for the National Industrial Security Program (or any successor to such program).
+Performance of Industrial Security Functions for Other Agencies.—The Secretary may perform industrial security functions for other agencies of the Federal government upon request or upon designation of the Department of Defense as executive agent for the National Industrial Security Program (or any successor to such program).
 
 (d)
 
@@ -58,7 +58,7 @@ Program Requirements.—The pilot program under subsection (a) shall have the fo
 
 &emsp;"(2) The use, in consultation with the Chief of Information Officer of the Department, of a capability or means for assessing industry compliance with Department cybersecurity standards.
 
-&emsp;"(3) A means of demonstrating whether and under what conditions the risk to national security posed by access to Department controlled unclassified information, including unclassified controlled technical information, by a company under foreign ownership, control, or influence company can be mitigated and how such mitigation could be enforced.
+&emsp;"(3) A means of demonstrating whether and under what conditions the risk to national security posed by access to Department controlled unclassified information, including unclassified controlled technical information, by a company under foreign ownership,control, or influence company can be mitigated and how such mitigation could be enforced.
 
 "(c)
 
@@ -106,5 +106,5 @@ Report.—Not later than 270 days after the date of the enactment of this Act \[
 
 #### Submission of First Biennial Report
 
-Pub. L. 110–417, \[div. A\], title VIII, §845(b), Oct. 14, 2008, 122 Stat. 4542, required the first biennial reportunder former subsec. (f) of this section to be submitted no later than Sept. 1, 2009.
+Pub. L. 110–417, \[div. A\], title VIII, §845(b), Oct. 14, 2008, 122 Stat. 4542, required the first biennial report under former subsec. (f) of this section to be submitted no later than Sept. 1, 2009.
 

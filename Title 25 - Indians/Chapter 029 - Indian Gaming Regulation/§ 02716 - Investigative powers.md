@@ -10,7 +10,7 @@ The Commission shall, when such information indicates a violation of Federal, St
 
 #### (c) Attorney General
 
-The Attorney General shall investigate activities associated with gaming authorized by this chapter which may be a violation of Federal law.
+The Attorney General shall investigate activities associated with gaming authorized by thischapter which may be a violation of Federal law.
 
 (Pub. L. 100–497, §17, Oct. 17, 1988, 102 Stat. 2484.)
 

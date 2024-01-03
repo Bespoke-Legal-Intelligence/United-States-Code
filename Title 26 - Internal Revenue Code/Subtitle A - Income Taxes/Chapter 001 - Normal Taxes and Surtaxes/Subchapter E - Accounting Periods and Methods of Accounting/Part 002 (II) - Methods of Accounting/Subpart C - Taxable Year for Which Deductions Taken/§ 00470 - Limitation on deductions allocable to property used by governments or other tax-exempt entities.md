@@ -60,7 +60,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 #### (B) Arrangements
 
-&emsp;&emsp;The arrangements referred to in this subparagraph include a defeasance arrangement, a loan by the lessee to the lessor or any lender, a deposit arrangement, a letter of credit collateralized with cash or cash equivalents, a payment undertaking agreement, prepaid rent (within the meaning of the regulations under section 467), a sinking fund arrangement, a guaranteed investment contract, financial guaranty insurance, andany similar arrangement (whether or not such arrangement provides credit support).
+&emsp;&emsp;The arrangements referred to in this subparagraph include a defeasance arrangement, a loan by the lessee to the lessor or any lender, a deposit arrangement, a letter of credit collateralized with cash or cash equivalents, a payment undertaking agreement, prepaid rent (within the meaning of the regulations under section 467), a sinking fund arrangement, a guaranteed investment contract, financial guaranty insurance, and any similar arrangement (whether or not such arrangement provides credit support).
 
 #### (C) Allowable amount
 
@@ -132,7 +132,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 &emsp;In the case of a lease—
 
-&emsp;&emsp;(A) of property with a class life (as defined in section 168(i)(1)) of more than 7 years, other than fixed-wing aircraft and vessels, and
+&emsp;&emsp;(A) of property with a class life (as defined in section 168(i)(1)) of more than 7 years,other than fixed-wing aircraft and vessels, and
 
 &emsp;&emsp;(B) under which the lessee has the option to purchase the property,
 
@@ -242,7 +242,7 @@ Subsec. (d)(1)(A). Pub. L. 110–172, §7(c)(2), in introductory provisions, sub
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–172 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 7(e) of Pub. L. 110–172, set out as a note under section 1092 of this title.
+Amendment by Pub. L. 110–172 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates,see section 7(e) of Pub. L. 110–172, set out as a note under section 1092 of this title.
 
 #### Effective Date
 
@@ -276,5 +276,5 @@ Exchanges and conversion of tax-exempt use property.—Section 470(e)(4) of the 
 
 &emsp;"(4)
 
-Intangibles and indian tribal governments.—The amendments made subsections (b)(2), (b)(3), and (e) of section 847 \[amending sections 167,168, and 197 of this title\], and the treatment of property described in clauses (ii) and (iii) of section 470(c)(2)(B) of the Internal Revenue Code of 1986 (as added by section 848) as tangible property, shall apply to leases entered into after October 3, 2004."
+Intangibles and indian tribal governments.—The amendments made subsections (b)(2), (b)(3), and (e) of section 847 \[amending sections 167, 168, and 197 of this title\], and the treatment of property described in clauses (ii) and (iii) of section 470(c)(2)(B) of the Internal Revenue Code of 1986 (as added by section 848) as tangible property, shall apply to leases entered into after October 3, 2004."
 

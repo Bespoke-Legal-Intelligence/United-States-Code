@@ -2,7 +2,7 @@
 
 (a)
 
-Certain "Hit-to-kill" Technology and Telemetry Data.—None of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be used to provide the Russian Federation with "hit-to-kill" technology and telemetry data for missile defense interceptors or target vehicles.
+Certain "Hit-to-kill" Technology and Telemetry Data.—None of the funds authorizedto be appropriated or otherwise made available for any fiscal year for the Department of Defense may be used to provide the Russian Federation with "hit-to-kill" technology and telemetry data for missile defense interceptors or target vehicles.
 
 (b)
 
@@ -50,7 +50,7 @@ Pub. L. 117–81, div. A, title XVI, §1667, Dec. 27, 2021, 135 Stat. 2106, prov
 
 "(a)
 
-Certification.—Before the Secretary of Defense makes a determination with respect to allowing a foreign national of Russia or China to tour a covered site,the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a certification that—
+Certification.—Before the Secretary of Defense makes a determination with respect to allowing a foreign national of Russia or China to tour a covered site, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a certification that—
 
 &emsp;"(1) the Secretary has determined that such tour is in the national security interest of the United States, including the justifications for such determination; and
 

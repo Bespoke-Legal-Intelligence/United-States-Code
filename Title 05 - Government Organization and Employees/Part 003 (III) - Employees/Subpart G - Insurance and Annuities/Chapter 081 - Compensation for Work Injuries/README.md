@@ -92,7 +92,7 @@
 
 #### Amendments
 
-<b>2022</b>—Pub. L. 117–263, div. E, title LIII, §5305(a)(1)(B), Dec. 23, 2022, 136 Stat. 3253, which directed amendment of the analysis for subchapter I of this chapter by adding item 8143b, was executed by adding item 8143b to the analysis for this chapter to reflect the probable intent of Congress.
+<b>2022</b>—Pub. L. 117–263, div. E, title LIII, §5305(a)(1)(B), Dec. 23, 2022, 136 Stat. 3253, which directed amendmentof the analysis for subchapter I of this chapter by adding item 8143b, was executed by adding item 8143b to the analysis for this chapter to reflect the probable intent of Congress.
 
 <b>2008</b>—Pub. L. 110–181, div. A, title XI, §1105(b), Jan. 28, 2008, 122 Stat. 349, added item 8102a.
 

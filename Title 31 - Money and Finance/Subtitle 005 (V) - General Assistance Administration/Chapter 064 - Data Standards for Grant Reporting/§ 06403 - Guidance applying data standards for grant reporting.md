@@ -44,3 +44,9 @@ The date of enactment of this chapter, referred to in subsec. (a), is the date o
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under section 5301 of Title 25 and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight andAccountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+

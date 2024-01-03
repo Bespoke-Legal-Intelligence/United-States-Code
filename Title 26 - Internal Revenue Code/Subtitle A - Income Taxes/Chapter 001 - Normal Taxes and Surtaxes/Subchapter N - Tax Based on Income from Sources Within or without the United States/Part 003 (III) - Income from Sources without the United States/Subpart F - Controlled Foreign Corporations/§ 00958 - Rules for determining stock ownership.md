@@ -64,7 +64,7 @@ Amendment by section 14301(c)(31) of Pub. L. 115–97 applicable to taxable year
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1703(i)(4) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) ofPub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by section 1703(i)(4) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 #### Effective Date of 1976 Amendment
 

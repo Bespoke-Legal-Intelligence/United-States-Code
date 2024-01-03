@@ -44,7 +44,7 @@ The Secretary shall—
 
 &emsp;&emsp;(D) support projects, conduct research, and disseminate information relating to preventive medicine, health promotion, and physical fitness and sports medicine.
 
-> The Secretary shall appoint a Director for the Office of Disease Prevention and Health Promotion established pursuant to paragraph (11) of this subsection. The Secretary shall administer this subchapter in cooperation with health care providers, educators, voluntary organizations, businesses, and State and local health agencies in order to encourage the dissemination of health information and health promotion activities.
+> The Secretary shall appoint a Director for the Office of Disease Prevention and Health Promotion established pursuant to paragraph (11) of this subsection. The Secretary shall administer this subchapter in cooperation with health careproviders, educators, voluntary organizations, businesses, and State and local health agencies in order to encourage the dissemination of health information and health promotion activities.
 
 #### (b) Authorization of appropriations
 
@@ -104,11 +104,11 @@ Section 312(b)(2) of Pub. L. 100–607 required Secretary of Health and Human Se
 
 #### Executive Order No. 12345
 
-Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539, Dec. 3, 1985, 50 F.R. 49829; Ex. Ord. No. 12694, Oct. 11, 1989, 54 F.R. 42285; Ex. Ord. No. 12709, Apr. 4, 1990, 55 F.R. 13097; Ex. Ord. No. 13138, §8, Sept. 30, 1999, 64 F.R. 53881, which provided for the Secretary of Health and Human Services to develop and coordinate a national program for physical fitness and sports, continued the President's Council on Physical Fitness and Sports, and provided for termination of the Council on Dec. 31, 1982, was revoked by Ex. Ord. No. 13265, §5(c), June 6, 2002, 67 F.R. 39842, set out below,prior to amendment by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283.
+Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539, Dec. 3, 1985, 50 F.R. 49829; Ex. Ord. No. 12694, Oct. 11, 1989, 54 F.R. 42285; Ex. Ord. No. 12709, Apr. 4, 1990, 55 F.R. 13097; Ex. Ord. No. 13138, §8, Sept. 30, 1999, 64 F.R. 53881, which provided for the Secretary of Health and Human Services to develop and coordinate a national program for physical fitness and sports, continued the President's Council on Physical Fitness and Sports, and provided for termination of the Council on Dec. 31, 1982, was revoked by Ex. Ord. No. 13265, §5(c), June 6, 2002, 67 F.R. 39842, set out below, prior to amendment by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283.
 
 #### Ex. Ord. No. 13265. President's Council on Sports, Fitness, and Nutrition
 
-Ex. Ord. No. 13265, June 6, 2002, 67 F.R. 39841, as amended by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283; Ex. Ord. No. 13824, Feb. 26, 2018, 83 F.R. 8923; Ex. Ord. No. 14048, §7, Sept. 30, 2021, 86 F.R. 55467, provided:
+Ex. Ord. No. 13265, June 6, 2002, 67 F.R. 39841, as amended by Ex. Ord. No. 13545, June 22, 2010, 75 F.R.37283; Ex. Ord. No. 13824, Feb. 26, 2018, 83 F.R. 8923; Ex. Ord. No. 14048, §7, Sept. 30, 2021, 86 F.R. 55467, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to expand the executive branch's program for physical fitness and sports and establish the President's Council on Sports, Fitness, and Nutrition (the "Council"), it is hereby ordered as follows:
 
@@ -176,9 +176,11 @@ Sec. 6. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee
 
 #### Extension of Term of President's Council on Fitness, Sports, and Nutrition
 
-Term of President's Council on Fitness, Sports, and Nutrition (renamed President's Council on Sports, Fitness, and Nutrition) extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of President's Council on Fitness, Sports, and Nutrition (renamed President's Council on Sports, Fitness, and Nutrition) extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Council on Fitness, Sports, and Nutrition, formerly President's Council on Physical Fitness and Sports, were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
@@ -318,7 +320,7 @@ Ex. Ord. No. 13410, Aug. 22, 2006, 71 F.R. 51089, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States, and in order to promote federally led efforts to implement more transparent and high-quality health care, it is hereby ordered as follows:
 
-Section 1. <i>Purpose</i>. It is the purpose of this order to ensure that health care programs administered or sponsored by the Federal Government promote quality and efficient delivery of health care through the use of health information technology, transparency regardinghealth care quality and price, and better incentives for program beneficiaries, enrollees, and providers. It is the further purpose of this order to make relevant information available to these beneficiaries, enrollees, and providers in a readily useable manner and in collaboration with similar initiatives in the private sector and non-Federal public sector. Consistent with the purpose of improving the quality and efficiency of health care, the actions and steps taken by Federal Government agencies should not incur additional costs for the Federal Government.
+Section 1. <i>Purpose</i>. It is the purpose of this order to ensure that health care programs administered or sponsored by the Federal Government promote quality and efficient delivery of health care through the use of health information technology, transparency regarding health care quality and price, and better incentives for program beneficiaries, enrollees, and providers. It is the further purpose of this order to make relevant information available to these beneficiaries, enrollees, and providers in a readily useable manner and in collaboration with similar initiatives in the private sector and non-Federal public sector. Consistent with the purpose of improving the quality and efficiency of healthcare, the actions and steps taken by Federal Government agencies should not incur additional costs for the Federal Government.
 
 Sec. 2. <i>Definitions</i>. For purposes of this order:
 

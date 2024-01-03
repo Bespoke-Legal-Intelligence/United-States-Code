@@ -48,7 +48,7 @@ In this section:
 
 &emsp;&emsp;(G) supporting cost and business model assessments to examine the economic viability of technologies and systems developed under the program;
 
-&emsp;&emsp;(H) providing information to the Environmental Protection Agency, States, local governments, Tribal governments, and other appropriate entities, to ensure the protection of human health and the environment; and
+&emsp;&emsp;(H) providing information to the Environmental Protection Agency, States, localgovernments, Tribal governments, and other appropriate entities, to ensure the protection of human health and the environment; and
 
 &emsp;&emsp;(I) evaluating the quantity, location, and timing of geologic carbon storage deployment that may be needed, and developing strategies and resources to enable the deployment.
 
@@ -102,7 +102,7 @@ In this section:
 
 &emsp;&emsp;(B) identifies the remaining challenges in achieving large-scale carbon sequestration that is reliable and safe for the environment and public health; and
 
-&emsp;&emsp;(C) creates a roadmap for carbon storage research and development activities of theDepartment through 2025, with the goal of reducing economic and policy barriers to commercial carbon sequestration.
+&emsp;&emsp;(C) creates a roadmap for carbon storage research and development activities of the Department through 2025, with the goal of reducing economic and policy barriers to commercial carbon sequestration.
 
 #### (d) Integrated storage
 
@@ -232,5 +232,5 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Wage Rate Requirements
 
-For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or anamendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 

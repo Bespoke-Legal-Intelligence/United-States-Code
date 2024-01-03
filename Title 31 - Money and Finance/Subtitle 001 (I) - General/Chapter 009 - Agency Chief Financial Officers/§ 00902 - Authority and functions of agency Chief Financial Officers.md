@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(C) the audit report transmitted to the head of the agency under section 3521(f) of this title;
 
-&emsp;&emsp;(D) a summary of the reports on internal accounting and administrative control systems submitted to the President and the Congress under the amendments made by the Federal Managers' Financial Integrity Act of 1982 (Public Law 97–255); and
+&emsp;&emsp;(D) a summary of the reports on internal accounting and administrative control systems submitted to the President and theCongress under the amendments made by the Federal Managers' Financial Integrity Act of 1982 (Public Law 97–255); and
 
 &emsp;&emsp;(E) other information the head of the agency considers appropriate to fully inform the President and the Congress concerning the financial management of the agency;
 
@@ -60,7 +60,7 @@
 
 (b)(1) In addition to the authority otherwise provided by this section, each agency Chief Financial Officer—
 
-&emsp;(A) subject to paragraph (2), shall have access to all records, reports, audits, reviews, documents, papers, recommendations, or othermaterial which are the property of the agency or which are available to the agency, and which relate to programs and operations with respect to which that agency Chief Financial Officer has responsibilities under this section;
+&emsp;(A) subject to paragraph (2), shall have access to all records, reports, audits, reviews, documents, papers, recommendations, or other material which are the property of the agency or which are available to the agency, and which relate to programs and operations with respect to which that agency Chief Financial Officer has responsibilities under this section;
 
 &emsp;(B) may request such information or assistance as may be necessary for carrying out the duties and responsibilities provided by this section from any Federal, State, or local governmental entity; and
 

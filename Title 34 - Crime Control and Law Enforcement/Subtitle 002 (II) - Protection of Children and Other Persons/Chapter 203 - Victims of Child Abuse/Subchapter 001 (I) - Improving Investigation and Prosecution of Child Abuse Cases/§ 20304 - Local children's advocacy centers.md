@@ -80,7 +80,7 @@ A prior section 214 of Pub. L. 101–647 was renumbered section 214B and is clas
 
 &emsp;"(1) develop and enhance multidisciplinary child abuse investigations, intervention, and prosecution; and
 
-&emsp;"(2) promote the effective delivery of the evidence-informed Children's Advocacy Model and the multidisciplinary response to child abuse, including bestpractices in programmatic evaluation and financial oversight of Federal funding."
+&emsp;"(2) promote the effective delivery of the evidence-informed Children's Advocacy Model and the multidisciplinary response to child abuse, including best practices in programmatic evaluation and financial oversight of Federal funding."
 
 Subsec. (b). Pub. L. 117–354, §3(4)(B), struck out ", in coordination with the Director of the Office of Victims of Crime," after "Administrator".
 

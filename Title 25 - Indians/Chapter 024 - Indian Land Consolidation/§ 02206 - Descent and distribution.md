@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(V) if the interest does not pass under subclause (I), (II), or (III), and there is no such Indian tribe to inherit the property under subclause (IV), the interest shall be divided equally among co-owners of trust or restricted interests in the parcel; and if there are no such co-owners, then to the United States, to be sold, and the proceeds from sale used, in the same manner provided in subparagraph (C).
 
-> &emsp;&emsp;The determination of which person is the oldest eligible heir for inheritance purposesunder this clause shall be made by the Secretary in the decedent's probate proceeding and shall be consistent with the provisions of this chapter.
+> &emsp;&emsp;The determination of which person is the oldest eligible heir for inheritance purposes under this clause shall be made by the Secretary in the decedent's probate proceeding and shall be consistent with the provisions of this chapter.
 
 #### (iv) Exceptions
 
@@ -230,7 +230,7 @@
 
 #### (D) Direct disbursement and distribution
 
-&emsp;&emsp;In the case of a devise of an interest in trust personalty to a person or Indian tribe not eligible to be a devisee under paragraph (1)(A), the Secretary shall directly disburseand distribute such personalty to the devisee.
+&emsp;&emsp;In the case of a devise of an interest in trust personalty to a person or Indian tribe not eligible to be a devisee under paragraph (1)(A), the Secretary shall directly disburse and distribute such personalty to the devisee.
 
 #### (4) Invalid devises and wills
 
@@ -476,7 +476,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), if the surviving spouse of a testator married the testator after the testator executed thewill of the testator, the surviving spouse shall receive the intestate share in the decedent's trust or restricted land and trust personalty that the spouse would have received if the testator had died intestate.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), if the surviving spouse of a testator married the testator after the testator executed the will of the testator, the surviving spouse shall receive the intestate share in the decedent's trust or restricted land and trust personalty that the spouse would have received if the testator had died intestate.
 
 #### (ii) Exception
 
@@ -770,7 +770,7 @@ Prior to holding a hearing to determine the heirs to trust or restricted propert
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the consent of a person who is an heir or survivingspouse otherwise required under paragraph (3)(A)(ii) shall not be required for the sale of an interest at probate under this subsection if—
+&emsp;&emsp;Subject to subparagraph (B), the consent of a person who is an heir or surviving spouse otherwise required under paragraph (3)(A)(ii) shall not be required for the sale of an interest at probate under this subsection if—
 
 &emsp;&emsp;&emsp;(i) the interest is passing by intestate succession;
 
@@ -920,7 +920,7 @@ Subsec. (f)(2)(B) to (D). Pub. L. 108–374, §6(e)(2), added subpars. (B) and (
 
 Subsec. (f)(3), (4). Pub. L. 108–374, §6(e)(3), added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: "In carrying out this section, the Secretary may enter into contracts with entities that have expertise in Indian estate planning and tribal probate codes."
 
-Subsec. (g). Pub. L. 108–374, §6(a)(4), struck out heading and text of subsec. (g) which related to notificationto Indian tribes and owners of trust or restricted lands of amendments made by the Indian Land Consolidation Act Amendments of 2000.
+Subsec. (g). Pub. L. 108–374, §6(a)(4), struck out heading and text of subsec. (g) which related to notification to Indian tribes and owners of trust or restricted lands of amendments made by the Indian Land Consolidation Act Amendments of 2000.
 
 Subsecs. (h) to (k). Pub. L. 108–374, §3(d), added subsecs. (h) to (k).
 

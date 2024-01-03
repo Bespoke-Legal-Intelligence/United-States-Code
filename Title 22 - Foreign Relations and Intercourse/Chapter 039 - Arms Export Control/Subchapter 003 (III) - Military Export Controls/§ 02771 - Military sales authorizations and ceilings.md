@@ -34,7 +34,7 @@ Subsec. (d). Pub. L. 104–164, §104(b)(2)(C), struck out subsec. (d) which rea
 
 Subsec. (b). Pub. L. 99–83, §101(b), amended subsec. (b) generally, substituting provisions relating to maximum amount of credits authorized for fiscal years 1986 and 1987 and maximum amounts of such credits available at concessional rates of interest for such years, for provisions relating to maximum amounts of credits (or participations in credits) and loans guaranteed for fiscal years 1982 and 1983, and credit, etc., programs with respect to specific countries.
 
-Subsec. (c). Pub. L. 99–83, §101(b), amended subsec. (c) generally, substituting provisions relating to extended repayment terms for credits provided for fiscal years 1986 and 1987, for provisions relating to funds made available for fiscal year 1984 to finance procurement of defense articles, etc., by Israel.
+Subsec. (c). Pub. L. 99–83, §101(b), amended subsec. (c) generally, substituting provisions relating to extendedrepayment terms for credits provided for fiscal years 1986 and 1987, for provisions relating to funds made available for fiscal year 1984 to finance procurement of defense articles, etc., by Israel.
 
 <b>1983</b>—Subsec. (b)(3). Pub. L. 98–151 amended par. (3) generally, substituting provisions authorizing not less than $1,700,000,000 for fiscal year 1984 as available to Israel, of which not less than $850,000,000 shall be available as credits under section 2763 of this title, and provisions relating to availability of funds part of the total aggregate credit ceiling made available to Israel, for provisions authorizing not less than $1,400,000,000 for the fiscal years 1982 and 1983 as available to Israel, of which not less than $550,000,000 for each year shall be available as credits.
 
@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 98–151 substituted provisions relating to applicability t
 
 Subsec. (b). Pub. L. 97–113, §105(b), prescribed in par. (1) $800,000,000 limit on credits for fiscal years 1982 and 1983, striking out $500,000,000 limit for fiscal year 1981, in par. (2) $3,269,525,000 limit on total principal amount of guaranteed loans for fiscal years 1982 and 1983, striking out $2,616,000,000 limit for fiscal year 1981, and in par. (3) $1,400,000,000 minimum for Israel in fiscal years 1982 and 1983, the same sum made available for fiscal year 1981, including requirement of $550,000,000 minimum of such funds for such fiscal years as credits under section 2763 of this title, striking out requirement for Israeli use of $200,000,000 of available funds only for relocation costs from the Sinai, and added pars. (4) to (7).
 
-Subsec. (c). Pub. L. 97–113, §105(c)(1)–(3), substituted "fiscal year 1982 and for the fiscal year 1983" for "fiscalyear 1981", "$550,000,000" for "$500,000,000", and "each such year" for "such year".
+Subsec. (c). Pub. L. 97–113, §105(c)(1)–(3), substituted "fiscal year 1982 and for the fiscal year 1983" for "fiscal year 1981", "$550,000,000" for "$500,000,000", and "each such year" for "such year".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–533, §§104(d), 106(a), placed a limit on extension of credits and loan guaranties not to exceed amount established in appropriation of funds to carry out this chapter and substituted "$500,000,000 for the fiscal year 1981" for "$673,500,000 for the fiscal year 1980".
 
@@ -92,7 +92,7 @@ Subsec. (b). Pub. L. 93–559, §45(a)(7), substituted "$872,500,000 for the fis
 
 Subsec. (b). Pub. L. 93–189, §25(6), substituted provisions setting out the foreign military sales credit ceiling of $730,000,000 for the fiscal year 1974, of which amount not less than $300,000,000 shall be made available to Israel, for provisions setting out such ceiling of $550,000,000 for the fiscal year 1972, of which amount not less than $300,000,000 shall be made available to Israel, and such amount to exclude credits covered by guaranties issued under section 2764(b) of this title.
 
-<b>1972</b>—Subsec. (a). Pub. L. 92–226, §401(a), substituted provision authorizing appropriation of not more than $400,000,000 for the fiscal year 1972, for provisions authorizing appropriation of not more than $250,000,000 for each of the fiscal years 1970 and 1971.
+<b>1972</b>—Subsec. (a). Pub. L. 92–226, §401(a), substituted provision authorizing appropriation of not more than$400,000,000 for the fiscal year 1972, for provisions authorizing appropriation of not more than $250,000,000 for each of the fiscal years 1970 and 1971.
 
 Subsec. (b). Pub. L. 92–226, §401(b), substituted provisions setting out the foreign military sales credit ceiling of $550,000,000 for the fiscal year 1972, of which amount not less than $300,000,000 shall be made available to Israel, for provisions setting out such ceiling of $340,000,000 for the fiscal years 1970 and 1971.
 

@@ -18,7 +18,7 @@ Notwithstanding subsection (b), a State or locality may enact statutes and promu
 
 #### References in Text
 
-The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (a), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of Title 21, Food and Drugs, and Tables.
+The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (a), is div. A of Pub. L.111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of Title 21, Food and Drugs, and Tables.
 
 The effective date of the Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (c), probably means the date of enactment of Pub. L. 111–31, which was approved June 22, 2009.
 

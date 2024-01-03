@@ -150,7 +150,7 @@ Elements of report.—Each report under this subsection shall include the follow
 
 &emsp;"(3)
 
-Specified congressional committees.—The congressional committees specified in this paragraph are the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives.
+Specified congressional committees.—The congressional committees specified in this paragraph are the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives.
 
 "(f)
 

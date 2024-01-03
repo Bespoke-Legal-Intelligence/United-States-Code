@@ -258,7 +258,7 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section10221(e)(2) of Pub. L. 100–203, as amended, set out as a note under section 243 of this title.
+Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section 10221(e)(2) of Pub. L. 100–203, as amended, set out as a note under section 243 of this title.
 
 #### Effective Date of 1986 Amendment
 

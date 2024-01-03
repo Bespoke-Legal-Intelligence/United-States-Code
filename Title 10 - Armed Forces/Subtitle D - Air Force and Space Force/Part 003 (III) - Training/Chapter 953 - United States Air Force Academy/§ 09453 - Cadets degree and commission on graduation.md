@@ -2,9 +2,9 @@
 
 (a) The Superintendent of the Academy may, under such conditions as the Secretary of the Air Force may prescribe, confer the degree of bachelor of science upon graduates of the Academy.
 
-(b) Notwithstanding any other provision of law, a cadet who completes the prescribed course of instruction may, upon graduation, be appointed a second lieutenant in the Regular Air Force or in the equivalent grade in the Regular Space Force under section 531 of this title.
+(b) Notwithstanding any other provision of law, a cadet who completes the prescribed course of instruction may, upon graduation, be appointed a second lieutenant in the Regular Air Force under section 531 of this title or a second lieutenant in the Space Force under section 531 or 20201 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 567, §9353; Pub. L. 85–861, §§1(201), 33(a)(43), Sept. 2, 1958, 72 Stat.1541, 1567; Pub. L. 96–513, title V, §504(25), Dec. 12, 1980, 94 Stat. 2917; Pub. L. 105–85, div. A, title V, §542(d), Nov. 18, 1997, 111 Stat. 1743; renumbered §9453, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–283, div. A, title IX, §923(d)(14), Jan. 1, 2021, 134 Stat. 3815.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 567, §9353; Pub. L. 85–861, §§1(201), 33(a)(43), Sept. 2, 1958, 72 Stat. 1541, 1567; Pub. L. 96–513, title V, §504(25), Dec. 12, 1980, 94 Stat. 2917; Pub. L. 105–85, div. A, title V, §542(d), Nov. 18, 1997, 111 Stat. 1743; renumbered §9453, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–283, div. A, title IX, §923(d)(14), Jan. 1, 2021, 134 Stat. 3815; Pub. L. 118–31, div. A, title XVII, §1721(c)(5), Dec. 22, 2023, 137 Stat. 667.)
 
 Historical and Revision Notes<br>1956
 
@@ -60,6 +60,8 @@ The change reflects the opinion of the Judge Advocate General of the Air Force (
 
 #### Amendments
 
+<b>2023</b>—Subsec. (b). Pub. L. 118–31 struck out "or in the equivalent grade in the Regular Space Force" after "Regular Air Force" and inserted before period at end "or a second lieutenant in the Space Force under section 531 or 20201 of this title".
+
 <b>2021</b>—Subsec. (b). Pub. L. 116–283 inserted "or in the equivalent grade in the Regular Space Force" after "Regular Air Force".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9353 of this title as this section.
@@ -76,7 +78,7 @@ Subsec. (b). Pub. L. 85–861, §1(201), struck out "except section 541 of this 
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1980 Amendment
 

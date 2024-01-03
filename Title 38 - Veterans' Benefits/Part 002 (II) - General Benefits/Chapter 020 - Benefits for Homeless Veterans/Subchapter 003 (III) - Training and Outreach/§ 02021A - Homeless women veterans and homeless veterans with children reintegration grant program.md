@@ -28,7 +28,7 @@ Authorization of Appropriations.—(1) In addition to any amount authorized to b
 
 (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
-(Added Pub. L. 111–275, title II, §202(a), Oct. 13, 2010, 124 Stat. 2873; amended Pub. L. 114–58, titleIII, §302, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, §302, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title III, §302, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, §142, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title III, §5302, Oct. 1, 2020, 134 Stat. 750; Pub. L. 117–180, div. E, title III, §302, Sept. 30, 2022, 136 Stat. 2138; Pub. L. 117–328, div. U, title III, §303(b), Dec. 29, 2022, 136 Stat. 5470.)
+(Added Pub. L. 111–275, title II, §202(a), Oct. 13, 2010, 124 Stat. 2873; amended Pub. L. 114–58, title III, §302, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, §302, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title III, §302, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, §142, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title III, §5302, Oct. 1, 2020, 134 Stat. 750; Pub. L. 117–180, div. E, title III, §302, Sept. 30, 2022, 136 Stat. 2138; Pub. L. 117–328, div. U, title III, §303(b), Dec. 29, 2022, 136 Stat. 5470.)
 
 #### <b>Editorial Notes</b>
 

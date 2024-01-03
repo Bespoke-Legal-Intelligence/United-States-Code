@@ -30,7 +30,7 @@ Not later than 1 year after October 13, 2006, the Secretary shall achieve a full
 
 #### (d) Report
 
-Not later than 180 days after achieving full-scale implementation under subsection (c), the Secretary, in consultation with the Secretary of State and, as appropriate, the Secretary of Energy, shall submit a report to the appropriate congressional committees, that includes—
+Not later than 180 days after achieving full-scale implementation under subsection (c), theSecretary, in consultation with the Secretary of State and, as appropriate, the Secretary of Energy, shall submit a report to the appropriate congressional committees, that includes—
 
 &emsp;(1) an evaluation of the lessons derived from the pilot system implemented under this subsection;
 

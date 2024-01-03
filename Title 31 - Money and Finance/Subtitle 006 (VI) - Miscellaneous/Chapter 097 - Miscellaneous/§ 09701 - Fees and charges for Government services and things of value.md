@@ -1,6 +1,6 @@
 ### §9701. Fees and charges for Government services and things of value
 
-(a) It is the sense of Congress that each service or thing of value provided by an agency (except a mixed-ownership Government corporation) to a person (except a person on official business of the United States Government) is to be self-sustaining to the extent possible.
+(a) It is the sense of Congress that each service or thing of value provided by an agency (except a mixed-ownership Government corporation) toa person (except a person on official business of the United States Government) is to be self-sustaining to the extent possible.
 
 (b) The head of each agency (except a mixed-ownership Government corporation) may prescribe regulations establishing the charge for a service or thing of value provided by the agency. Regulations prescribed by the heads of executive agencies are subject to policies prescribed by the President and shall be as uniform as practicable. Each charge shall be—
 

@@ -18,7 +18,7 @@
 
 (b) District courts exercising jurisdiction over any juvenile shall inform the juvenile, and his parent or guardian, in writing in clear and nontechnical language, of rights relating to his juvenile record.
 
-(c) During the course of any juvenile delinquency proceeding, all information and records relating to the proceeding, which are obtained or prepared in the discharge of an official duty by an employee of the court or an employee of any other governmental agency, shall not be disclosed directly or indirectly to anyone other than the judge, counsel for the juvenile and the Government, or others entitled under this section to receive juvenile records.
+(c) During the course of any juvenile delinquency proceeding, all information and records relating to the proceeding, which are obtained or prepared in the discharge of an official duty by an employee of the court or an employee of any other governmental agency, shall not bedisclosed directly or indirectly to anyone other than the judge, counsel for the juvenile and the Government, or others entitled under this section to receive juvenile records.
 
 (d) Whenever a juvenile is found guilty of committing an act which if committed by an adult would be a felony that is a crime of violence or an offense described in section 401 of the Controlled Substances Act or section 1001(a), 1005, or 1009 of the Controlled Substances Import and Export Act, such juvenile shall be fingerprinted and photographed. Except a juvenile described in subsection (f), fingerprints and photographs of a juvenile who is not prosecuted as an adult shall be made available only in accordance with the provisions of subsection (a) of this section. Fingerprints and photographs of a juvenile who is prosecuted as an adult shall be made available in the manner applicable to adult defendants.
 
@@ -26,7 +26,7 @@
 
 (f) Whenever a juvenile has on two separate occasions been found guilty of committing an act which if committed by an adult would be a felony crime of violence or an offense described in section 401 of the Controlled Substances Act or section 1001(a), 1005, or 1009 of the Controlled Substances Import and Export Act, or whenever a juvenile has been found guilty of committing an act after his 13th birthday which if committed by an adult would be an offense described in the second sentence of the fourth paragraph of section 5032 of this title, the court shall transmit to the Federal Bureau of Investigation the information concerning the adjudications, including name, date of adjudication, court, offenses, and sentence, along with the notation that the matters were juvenile adjudications.
 
-(Added Pub. L. 93–415, title V, §508, Sept. 7, 1974, 88 Stat. 1137; amended Pub. L. 95–115, §8(b), Oct.3, 1977, 91 Stat. 1060; Pub. L. 98–473, title II, §1202, Oct. 12, 1984, 98 Stat. 2150; Pub. L. 103–322, title XIV, §140005, Sept. 13, 1994, 108 Stat. 2032; Pub. L. 104–294, title VI, §601(f)(16), (o), Oct. 11, 1996, 110 Stat. 3500, 3502.)
+(Added Pub. L. 93–415, title V, §508, Sept. 7, 1974, 88 Stat. 1137; amended Pub. L. 95–115, §8(b), Oct. 3, 1977, 91 Stat. 1060; Pub. L. 98–473, title II, §1202, Oct. 12, 1984, 98 Stat. 2150; Pub. L. 103–322, title XIV, §140005, Sept. 13, 1994, 108 Stat. 2032; Pub. L. 104–294, title VI, §601(f)(16), (o), Oct. 11, 1996, 110 Stat. 3500, 3502.)
 
 #### <b>Editorial Notes</b>
 

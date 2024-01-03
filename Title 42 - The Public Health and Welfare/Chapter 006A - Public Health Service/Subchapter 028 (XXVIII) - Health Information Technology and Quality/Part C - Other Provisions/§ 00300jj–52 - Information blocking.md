@@ -44,7 +44,7 @@
 
 #### (7) Clarification
 
-&emsp;In carrying out this section, the Secretary shall ensure that health care providers are not penalized for the failure of developers of health information technology or other entities offering health information technology to such providers to ensure that such technology meets the requirements to be certified under this subchapter.
+&emsp;In carrying out this section, the Secretary shall ensure that health care providers are not penalized for the failure of developers of health information technology or other entities offering health information technology tosuch providers to ensure that such technology meets the requirements to be certified under this subchapter.
 
 #### (b) Inspector General authority
 
@@ -118,7 +118,7 @@
 
 #### (3) Referral
 
-&emsp;The National Coordinator and the Office for Civil Rights of the Department of Health and Human Services may refer to the Inspector General instances or patterns of refusal to exchange health information with an individual or entity using certified electronic health record technology that is technically capableof trusted exchange and under conditions when exchange is legally permissible.
+&emsp;The National Coordinator and the Office for Civil Rights of the Department of Health and Human Services may refer to the Inspector General instances or patterns of refusal to exchange health information with an individual or entity using certified electronic health record technology that is technically capable of trusted exchange and under conditions when exchange is legally permissible.
 
 #### (d) Additional provisions
 

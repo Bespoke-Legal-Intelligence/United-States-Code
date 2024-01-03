@@ -18,21 +18,19 @@ Coordination of Department of Defense Research, Development, and Technological D
 
 (b)
 
-Defense Research Facility Defined.—In this section, the term "Defense research facility" has the meaning given that term by section 4142(b) <sup>1</sup> of this title.
+Defense Research Facility Defined.—In this section, the term "Defense research facility" has the meaning given that term by section 4125(b) of this title.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1841(d), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title XVII, §1701(u)(2)(E), Dec. 27, 2021, 135 Stat. 2151.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1841(d), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title XVII, §1701(u)(2)(E), Dec. 27, 2021, 135 Stat. 2151; Pub. L. 118–31, div. A, title XVIII, §1801(a)(30), Dec. 22, 2023, 137 Stat. 685.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-Section 4142(b) of this title, referred to in subsec. (b), probably should be a reference to section 4125(b) of this title. Pub. L. 116–283, div. A, title XVIII, §1844(d)(2), Jan. 1, 2021, 134 Stat. 4246, originally transferred section 2364(c) of this title, defining "Defense research facility", to section 4142(b) of this title. However, Pub. L. 117–81, div. A, title XVII, §1701(u)(4)(A), (5)(B), Dec. 27,2021, 135 Stat. 2153, 2154, amended Pub. L. 116–283, effective as if included therein, so as to eliminate that transfer and instead transfer section 2364(c) to section 4125(b) of this title.
 
 #### Codification
 
 The section catchline and text of subsec. (a) of section 2364 of this title, which were transferred to this section by Pub. L. 116–283, §1841(d)(1), were based on Pub. L. 99–661, div. A, title II, §234(c)(1), Nov. 14, 1986, 100 Stat. 3848; Pub. L. 100–26, §3(1)(A), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title XII, §1231(10)(B), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 114–92, div. A, title II, §214(a)(1), (3), Nov. 25, 2015, 129 Stat. 767, 768; Pub. L. 115–91, div. A, title X, §1081(a)(34), Dec. 12, 2017, 131 Stat. 1596.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b). Pub. L. 118–31 substituted "section 4125(b) of this title" for "section 4142(b) of this title".
 
 <b>2021</b>—Pub. L. 116–283, §1841(d)(1), as amended by Pub. L. 117–81, §1701(u)(2)(E), transferred section catchline and subsec. (a) of section 2364 of this title to this section.
 
@@ -59,6 +57,4 @@ Collaboration.—The Secretary of Defense may carry out activities to prioritize
 "(b)
 
 Open Campus Program.—In carrying out subsection (a), the Secretary, acting through the Commander of the Air Force Research Laboratory, the Commander of the Army Research, Development and Engineering Command, and the Chief of Naval Research, or such other officials of the Department as the Secretary considers appropriate, may develop and implement an open campus program for the Department science and technology reinvention laboratories which shall be modeled after the open campus program of the Army Research Laboratory."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

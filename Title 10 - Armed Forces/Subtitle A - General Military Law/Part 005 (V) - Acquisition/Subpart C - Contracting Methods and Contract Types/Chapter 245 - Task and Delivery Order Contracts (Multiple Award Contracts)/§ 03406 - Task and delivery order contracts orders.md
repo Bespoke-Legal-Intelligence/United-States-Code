@@ -120,7 +120,7 @@ Subsec. (a). Pub. L. 116–283, §1820(e)(3), substituted "sections 3403 and 340
 
 Subsec. (b)(2). Pub. L. 116–283, §1820(e)(4), substituted "subsection (c)" for "subsection (b)" and "section 3204(e)" for "section 2304(f)".
 
-Subsec. (c). Pub. L. 116–283, §1820(e)(5)(A), which directed substitution of "section 3403(d)(1)(B) or 3405(f)" for "section 2304a(d)(1) or 2304b(c)", was executed by making the substitution for "section 2304a(d)(1)(B) or 2304b(e)" in introductory provisions, to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 116–283, §1820(e)(5)(A), which directed substitution of "section 3403(d)(1)(B) or 3405(f)" for "section 2304a(d)(1) or 2304b(c)", was executed bymaking the substitution for "section 2304a(d)(1)(B) or 2304b(e)" in introductory provisions, to reflect the probable intent of Congress.
 
 Subsec. (c)(5). Pub. L. 116–283, §1820(e)(5)(B), substituted "section 3204(a)" for "section 2304(c)".
 

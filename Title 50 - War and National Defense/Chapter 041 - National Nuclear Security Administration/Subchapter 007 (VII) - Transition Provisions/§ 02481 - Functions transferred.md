@@ -26,7 +26,7 @@ In the case of any environmental remediation and waste management activity of an
 
 #### (d) Transfer of funds
 
-(1) Any balance of appropriations that the Secretary of Energy determines is available and needed to finance or discharge a function, power, or duty or an activity that is transferred to the Administration shall be transferred to the Administration and used for any purpose for which those appropriations were originally available. Balances of appropriations so transferred shall—
+(1) Any balance of appropriations that the Secretary of Energy determines is available andneeded to finance or discharge a function, power, or duty or an activity that is transferred to the Administration shall be transferred to the Administration and used for any purpose for which those appropriations were originally available. Balances of appropriations so transferred shall—
 
 &emsp;(A) be credited to any applicable appropriation account of the Administration; or
 
@@ -42,7 +42,7 @@ In the case of any environmental remediation and waste management activity of an
 
 (2) The authorized strength in civilian employees of any element of the Department of Energy from which employees are transferred under this section is reduced by the number of employees so transferred.
 
-(Pub. L. 106–65, div. C, title XXXII, §3291, Oct. 5, 1999, 113 Stat. 968; Pub. L. 112–239, div. C, titleXXXI, §3132(b)(1), Jan. 2, 2013, 126 Stat. 2185; Pub. L. 113–66, div. C, title XXXI, §3145(j), Dec. 26, 2013, 127 Stat. 1072.)
+(Pub. L. 106–65, div. C, title XXXII, §3291, Oct. 5, 1999, 113 Stat. 968; Pub. L. 112–239, div. C, title XXXI, §3132(b)(1), Jan. 2, 2013, 126 Stat. 2185; Pub. L. 113–66, div. C, title XXXI, §3145(j), Dec. 26, 2013, 127 Stat. 1072.)
 
 #### <b>Editorial Notes</b>
 

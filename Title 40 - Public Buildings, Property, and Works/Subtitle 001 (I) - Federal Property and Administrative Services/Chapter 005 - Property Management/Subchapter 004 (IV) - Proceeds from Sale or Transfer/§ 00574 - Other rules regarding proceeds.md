@@ -10,7 +10,7 @@ Application.—This subsection applies to property acquired with amounts—
 
 &emsp;&emsp;(A) not appropriated from the general fund of the Treasury; or
 
-&emsp;&emsp;(B) appropriated from the general fund of the Treasury but by law reimbursable fromassessment, tax, or other revenue or receipts.
+&emsp;&emsp;(B) appropriated from the general fund of the Treasury but by law reimbursable from assessment, tax, or other revenue or receipts.
 
 &emsp;(2)
 
@@ -50,7 +50,7 @@ Credit to Cost of Contractor's Work.—If a contract made by an executive agency
 
 (d)
 
-Acceptance of Property Instead of Cash.—An executive agency entitled to receive cash under a contract for the lease, sale, or other disposition of surplus property may accept property instead of cash if the President determines that the property is strategic or critical material. The property is valued at the prevailing market price when the cash payment becomes due.
+Acceptance of Property Instead of Cash.—An executive agency entitled to receive cash under a contract for the lease, sale, or other disposition of surplus property may accept property instead of cash if the President determines that the property is strategic or criticalmaterial. The property is valued at the prevailing market price when the cash payment becomes due.
 
 (e)
 

@@ -78,7 +78,7 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 &emsp;&emsp;&emsp;(x) informational outreach to schools and students in support of access to higher education;
 
-&emsp;&emsp;(B) regarding the fees the Secretary shall pay, in lieu of revenues that the guaranty agency may otherwise receive under this part, to the guaranty agency under the agreement, and other funds that the guaranty agency may receive or retain under the agreement, except that in no case may the cost to the Secretary of the agreement, asreasonably projected by the Secretary, exceed the cost to the Secretary, as similarly projected, in the absence of the agreement;
+&emsp;&emsp;(B) regarding the fees the Secretary shall pay, in lieu of revenues that the guaranty agency may otherwise receive under this part, to the guaranty agency under the agreement, and other funds that the guaranty agency may receive or retain under the agreement, except that in no case may the cost to the Secretary of the agreement, as reasonably projected by the Secretary, exceed the cost to the Secretary, as similarly projected, in the absence of the agreement;
 
 &emsp;&emsp;(C) regarding the use of net revenues, as described in the agreement under this section, for such other activities in support of postsecondary education as may be agreed to by the Secretary and the guaranty agency;
 

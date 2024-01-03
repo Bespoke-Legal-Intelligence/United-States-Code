@@ -48,7 +48,7 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 (1) Whenever property is civilly or criminally forfeited under this subchapter the Attorney General may—
 
-&emsp;(A) retain the property for official use or, in the manner provided with respect to transfers under section 1616a of title 19, transfer the property to any Federal agency or to any State or local law enforcement agency which participated directly in the seizure or forfeiture of the property;
+&emsp;(A) retain the property for official use or, in the manner provided with respect to transfers under section 1616a of title 19, transfer the property to any Federal agency or to anyState or local law enforcement agency which participated directly in the seizure or forfeiture of the property;
 
 &emsp;(B) except as provided in paragraph (4), sell, by public sale or any other commercially feasible means, any forfeited property which is not required to be destroyed by law and which is not harmful to the public;
 
@@ -100,7 +100,7 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 (2) The failure, upon demand by the Attorney General or his duly authorized agent, of the person in occupancy or in control of land or premises upon which such species of plants are growing or being stored, to produce an appropriate registration, or proof that he is the holder thereof, shall constitute authority for the seizure and forfeiture.
 
-(3) The Attorney General, or his duly authorized agent, shall have authority to enter upon any lands, or into any dwelling pursuant to a search warrant, to cut, harvest, carry off, or destroy such plants.
+(3) The Attorney General, or his duly authorized agent, shall have authority to enter uponany lands, or into any dwelling pursuant to a search warrant, to cut, harvest, carry off, or destroy such plants.
 
 #### (h) Vesting of title in United States
 

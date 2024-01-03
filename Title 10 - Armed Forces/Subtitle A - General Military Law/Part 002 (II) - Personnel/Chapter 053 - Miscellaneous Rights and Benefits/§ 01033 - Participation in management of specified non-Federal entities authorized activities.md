@@ -36,7 +36,7 @@ Publication of Designated Entities and of Authorized Persons.—A designation of
 
 (d)
 
-Regulations.—The Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
+Regulations.—The Secretary of Defense, and the Secretary of Homeland Security in thecase of the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
 
 (Added Pub. L. 105–85, div. A, title V, §593(a)(1), Nov. 18, 1997, 111 Stat. 1762; amended Pub. L. 106–65, div. A, title V, §583, Oct. 5, 1999, 113 Stat. 634; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 

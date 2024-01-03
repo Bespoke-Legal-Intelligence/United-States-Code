@@ -10,7 +10,7 @@ In any case in which a servicemember or the spouse of a servicemember has a cove
 
 &emsp;&emsp;(A) the licensing authority that issued the covered license; and
 
-&emsp;&emsp;(B) every other licensing authority that has issued to the servicemember or the spouse of a servicemember a license valid at a similar scope of practice and in the discipline applied in the jurisdiction of such licensing authority;
+&emsp;&emsp;(B) every other licensing authority that has issued to the servicemember or the spouse of a servicemember a license valid at a similar scope of practice and in the discipline applied in the jurisdiction of such licensing authority; <sup>1</sup>
 
 &emsp;(3) submits to the authority of the licensing authority in the new jurisdiction for the purposes of standards of practice, discipline, and fulfillment of any continuing education requirements.
 
@@ -29,4 +29,6 @@ In this section, the term "covered license" means a professional license or cert
 &emsp;(3) that is not a license to practice law.
 
 (Oct. 17, 1940, ch. 888, title VII, §705A, as added Pub. L. 117–333, §19(a), Jan. 5, 2023, 136 Stat. 6137.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

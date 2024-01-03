@@ -36,7 +36,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the person who constructed the qualified new energy efficient home, or
 
-&emsp;&emsp;(B) in the case of a qualified new energy efficient home which is a manufactured home,the manufactured home producer of such home.
+&emsp;&emsp;(B) in the case of a qualified new energy efficient home which is a manufactured home, the manufactured home producer of such home.
 
 #### (2) Qualified new energy efficient home
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 &emsp;A dwelling unit meets the requirements of this paragraph if—
 
-&emsp;&emsp;(A) such dwelling unit meets the most recent Energy Star Multifamily New Construction National Program Requirements (as in effect on either January 1, 2023, or January 1 of three calendar years prior to the date the dwelling was acquired, whichever is later), and
+&emsp;&emsp;(A) such dwelling unit meets the most recent Energy Star Multifamily New Construction National Program Requirements (as in effect on either January 1, 2023, orJanuary 1 of three calendar years prior to the date the dwelling was acquired, whichever is later), and
 
 &emsp;&emsp;(B) such dwelling unit meets the most recent Energy Star Multifamily New Construction Regional Program Requirements applicable to the location of such dwelling unit (as in effect on either January 1, 2023, or January 1 of three calendar years prior to the date the dwelling was acquired, whichever is later).
 
@@ -122,7 +122,7 @@ For purposes of this section, expenditures taken into account under section 47 o
 
 #### (A) In general
 
-&emsp;&emsp;The requirements described in this subparagraph with respect to any qualified residence are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the construction of such residence shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such residence is located asmost recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.
+&emsp;&emsp;The requirements described in this subparagraph with respect to any qualified residence are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the construction of such residence shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such residence is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.
 
 #### (B) Correction and penalty related to failure to satisfy wage requirements
 
@@ -224,5 +224,5 @@ Pub. L. 111–312, title VII, §703(b), Dec. 17, 2010, 124 Stat. 3311, provided 
 
 #### Effective Date
 
-Section applicable to qualified new energy efficient homes acquired after Dec. 31, 2005, in taxable years ending after such date, see section 1332(f) of Pub. L. 109–58,set out as an Effective Date of 2005 Amendments note under section 38 of this title.
+Section applicable to qualified new energy efficient homes acquired after Dec. 31, 2005, in taxable years ending after such date, see section 1332(f) of Pub. L. 109–58, set out as an Effective Date of 2005 Amendments note under section 38 of this title.
 

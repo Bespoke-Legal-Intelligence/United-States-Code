@@ -128,7 +128,7 @@ Utilization of Recruitment and Retention Authorities.—The Administrator, in co
 
 #### Amendments Not Shown in Text
 
-<i>Subsec. (g) of this section was derived from Pub. L. 110–417, \[div. A\], title VIII, §869, Oct. 14, 2008, 122 Stat. 4553, which was set out as a note under section 433a of former Title 41, Public Contracts, prior to being repealed and reenacted as subsec. (g) of this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 869 of Pub. L. 110–417 was amended by Pub. L. 111–383, div. A, title X, §1075(e)(15), Jan. 7, 2011, 124 Stat. 4375. For ap</i><i>plicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 869 of Pub. L. 110–417 was amended as follows:</i>
+<i>Subsec. (g) of this section was derived from Pub. L. 110–417, \[div. A\], title VIII, §869, Oct. 14, 2008, 122 Stat. 4553, which was set out as a note under section 433a of former Title 41, Public Contracts, prior to being repealed and reenacted as subsec. (g) of this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 869 of Pub. L. 110–417 was amended by Pub. L. 111–383, div. A, title X, §1075(e)(15), Jan. 7, 2011, 124 Stat. 4375. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 869 of Pub. L. 110–417 was amended as follows:</i>
 
 <i>(1) in subsection (b), by striking "433(a)" and inserting "433a(a)"; and</i>
 
@@ -214,7 +214,7 @@ Strategic Planning.—
 
 &emsp;"(1)
 
-In general.—The Administrator for Federal Procurement Policy, in consultation with the Administrator for E-Government and Information Technology, shall work with Federal agencies, other than the Department of Defense, to update their acquisition human capital plans that were developed pursuant to the October 27, 2009, guidance issued by the Administrator for Federal Procurement Policy in furtherance of section 1704(g) of title 41, United States Code (originally enacted as section 869 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4553)), to address how the agencies are meeting their human capital requirements to support the timely and effective acquisition of information technology.
+In general.—The Administrator for Federal Procurement Policy, in consultation with the Administrator for E-Government and Information Technology, shall work with Federal agencies, other than the Department of Defense, to update their acquisition human capital plans that were developed pursuant to the October 27, 2009, guidance issued by the Administrator for Federal Procurement Policy in furtherance of section 1704(g) of title 41, United States Code (originally enacted as section 869 of the Duncan Hunter National Defense Authorization Act for FiscalYear 2009 (Public Law 110–417; 122 Stat. 4553)), to address how the agencies are meeting their human capital requirements to support the timely and effective acquisition of information technology.
 
 &emsp;"(2)
 

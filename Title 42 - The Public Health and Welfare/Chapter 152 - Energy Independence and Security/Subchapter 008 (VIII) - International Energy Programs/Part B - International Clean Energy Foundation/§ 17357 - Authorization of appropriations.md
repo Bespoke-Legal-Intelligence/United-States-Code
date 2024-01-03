@@ -8,7 +8,7 @@ To carry out this part, there are authorized to be appropriated $20,000,000 for 
 
 #### (1) In general
 
-&emsp;The Foundation may allocate or transfer to any agency of the United States Government any of the funds available for carrying out this part. Such funds shall be available for obligation and expenditure for the purposes for which the funds were authorized, in accordance with authority granted in this part or under authority governing the activities ofthe United States Government agency to which such funds are allocated or transferred.
+&emsp;The Foundation may allocate or transfer to any agency of the United States Government any of the funds available for carrying out this part. Such funds shall be available for obligation and expenditure for the purposes for which the funds were authorized, in accordance with authority granted in this part or under authority governing the activities of the United States Government agency to which such funds are allocated or transferred.
 
 #### (2) Notification
 

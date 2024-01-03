@@ -44,7 +44,7 @@
 
 #### (b) Small States
 
-In any State for which on January 8, 2002, the number of children counted under section 6333(c) of this title is less than 0.25 percent of the number of those children counted for all States, the State educational agency shall allocate funds under this section among the local educational agencies in the State either—
+In any State for which on January 8, 2002, the number of children counted under section 6333(c)of this title is less than 0.25 percent of the number of those children counted for all States, the State educational agency shall allocate funds under this section among the local educational agencies in the State either—
 
 &emsp;(1) in accordance with paragraphs (2) and (4) of subsection (a); or
 

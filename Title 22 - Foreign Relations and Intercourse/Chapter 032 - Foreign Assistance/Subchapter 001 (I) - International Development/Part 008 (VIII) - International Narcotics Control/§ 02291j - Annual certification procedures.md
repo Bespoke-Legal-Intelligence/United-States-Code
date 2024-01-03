@@ -114,7 +114,7 @@ Subsec. (c). Pub. L. 103–447, §101(g)(1)(D), substituted "that such country m
 
 Subsec. (d). Pub. L. 103–447, §101(g)(1)(E), substituted "30 calendar days" for "45 calendar days".
 
-Subsec. (g). Pub. L. 103–447, §101(g)(1)(F), substituted "Senate procedures" for "Congressional review procedures" in heading, struck out designation and heading of par. (1), and struck out heading and text of par. (2). Text read as follows: "For the purpose of expediting the consideration and enactment of joint resolutions under this section, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives."
+Subsec. (g). Pub. L. 103–447, §101(g)(1)(F), substituted "Senate procedures" for "Congressional review procedures" in heading, struck out designation and headingof par. (1), and struck out heading and text of par. (2). Text read as follows: "For the purpose of expediting the consideration and enactment of joint resolutions under this section, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives."
 
 Subsec. (h). Pub. L. 103–447, §101(g)(1)(G), struck out "for fiscal years 1993 and 1994" after "drug producing countries" in heading and substituted "November 1" for "January 1" in text.
 

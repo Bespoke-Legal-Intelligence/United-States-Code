@@ -10,7 +10,7 @@ The Secretary and the Secretary of Health and Human Services shall enter into a 
 
 #### (c) Center staffing
 
-Each Center established under subsection (a) shall be staffed by a multidisciplinary team of personnel with experience and training in prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect.
+Each Center established under subsection (a) shall be staffed by a multidisciplinary team ofpersonnel with experience and training in prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect.
 
 #### (d) Center responsibilities and functions
 
@@ -56,7 +56,7 @@ There are authorized to be appropriated to carry out the provisions of this sect
 
 #### References in Text
 
-This chapter, referred to in subsec. (f), was in the original "this Act" and was translated as reading "this title", meaning title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, known as the Indian Child Protection and Family Violence Prevention Act, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of titleIV to the Code, see Short Title note set out under section 3201 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original "this Act" and was translated as reading "this title", meaning title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, known as the Indian Child Protection and Family Violence Prevention Act, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title IV to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
 The Indian Self-Determination Act, referred to in subsec. (g), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

@@ -16,7 +16,7 @@ Requirement for Determination and Notification.—A major weapon system of the D
 
 Treatment of Subsystems as Commercial Products.—(1) A subsystem of a major weapon system (other than a commercially available off-the-shelf item as defined in section 104 of title 41) shall be treated as a commercial product and purchased under procedures established for the procurement of commercial products if either—
 
-&emsp;(A) the subsystem is intended for a major weapon system that is being purchased, or has been purchased, under procedures established for the procurement of commercial products in accordance with the requirements of subsection (a); or
+&emsp;(A) the subsystem is intended for a major weapon system that is being purchased, or hasbeen purchased, under procedures established for the procurement of commercial products in accordance with the requirements of subsection (a); or
 
 &emsp;(B) the contracting officer determines in writing that the subsystem is a commercial product.
 
@@ -80,7 +80,7 @@ Information Submitted for Procurements That Are Not Covered by the Exceptions in
 
 &emsp;(B) if the contracting officer determines that the offeror does not have access to and cannot provide sufficient information described in subparagraph (A) to determine the reasonableness of price, a representative sample, as determined by the contracting officer, of the prices paid for the same or similar commercial products sold under different terms and conditions, and the terms and conditions of such sales; and
 
-&emsp;(C) only if the contracting officer determines that the information submitted pursuant to subparagraphs (A) and (B) is not sufficient to determine the reasonableness of price because either the comparable commercial products provided by the offeror are not a valid basis for a price analysis or the contracting officer determines the proposed price is not reasonable after evaluating sales data, and the contracting officer receives the approval described in paragraph (5), other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
+&emsp;(C) only if the contracting officer determines that the information submitted pursuant to subparagraphs (A) and (B) is not sufficient todetermine the reasonableness of price because either the comparable commercial products provided by the offeror are not a valid basis for a price analysis or the contracting officer determines the proposed price is not reasonable after evaluating sales data, and the contracting officer receives the approval described in paragraph (5), other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
 
 (2) An offeror may submit information or analysis relating to the value of a commercial product to aid in the determination of the reasonableness of the price of such item. A contracting officer may consider such information or analysis in addition to the information submitted pursuant to paragraphs (1)(A) and (1)(B).
 
@@ -146,7 +146,7 @@ Submitted" in heading.
 
 Subsec. (d)(1). Pub. L. 117–263, §803(c)(2)(A), in introductory provisions, substituted "the offeror shall, in accordance with paragraph (4), submit to the contracting officer or provide the contracting officer access to—" for "the contracting officer shall require the offeror to submit—".
 
-Subsec. (d)(1)(A). Pub. L. 117–263, §803(c)(2)(B), inserted "a representative sample, as determined by the contracting officer, of the" before "prices paid" and", and the terms and conditions of such sales" before semicolon at end.
+Subsec. (d)(1)(A). Pub. L. 117–263, §803(c)(2)(B), inserted "a representative sample, as determined by the contracting officer, of the" before "prices paid" and ", and the terms and conditions of such sales" before semicolon at end.
 
 Subsec. (d)(1)(B). Pub. L. 117–263, §803(c)(2)(C), substituted "a representative sample, as determined by the contracting officer, of the prices paid for the same or similar commercial products sold under different terms and conditions, and the terms and conditions of such sales; and" for "information on—
 
@@ -226,7 +226,7 @@ Subsecs. (c) to (f). Pub. L. 110–181, §815(a)(1)(C), (D), added subsecs. (c) 
 
 Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) ofPub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2018 Amendment
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(aa) in an overseas location that, at the time such employee was performing such official duties, was within the area of responsibility of the Commander of the United States Central Command; and
 
-&emsp;&emsp;&emsp;&emsp;(bb) in direct support of or directly related to a military operation, including a contingency operation (as defined in section 101(13) of title 10) or an operation in response to an emergency declared by the President; and
+&emsp;&emsp;&emsp;&emsp;(bb) in direct support of or directly related to a military operation, including a contingency operation (as defined in section 101(13) <sup>1</sup> of title 10) or an operation in response to an emergency declared by the President; and
 
 &emsp;&emsp;&emsp;(II) the employee's dependents were residing either outside the continental United States or within the continental United States when the employee died; and
 
@@ -44,7 +44,7 @@
 
 (e) Employees covered by this section include an employee who has been reassigned away from the employee's home of record pursuant to a mandatory mobility agreement executed as a condition of employment.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 507; Pub. L. 101–510, div. A, title XII, §1206(d), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 105–277, div. A, §101(d) \[title V, §589(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–210;Pub. L. 110–181, div. A, title XI, §1103(a), Jan. 28, 2008, 122 Stat. 346.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 507; Pub. L. 101–510, div. A, title XII, §1206(d), Nov. 5, 1990, 104Stat. 1661; Pub. L. 105–277, div. A, §101(d) \[title V, §589(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–210; Pub. L. 110–181, div. A, title XI, §1103(a), Jan. 28, 2008, 122 Stat. 346.)
 
 Historical and Revision Notes
 
@@ -80,6 +80,10 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 101 of title 10, referred to in subsec. (b)(2)(B)(ii)(I)(bb), was subsequently amended, and the term "contingency operation" is now defined in section 101(a)(13) of title 10.
+
 #### Amendments
 
 <b>2008</b>—Subsec. (b)(2). Pub. L. 110–181 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the expense of transporting his dependents, including expenses of packing, crating, draying, and transporting household effects and other personal property to his former home or such other place as is determined by the head of the agency concerned, if death occurred while the employee was performing official duties outside the continental United States or in transit thereto or therefrom; and".
@@ -107,4 +111,6 @@ Pub. L. 110–161, div. D, title VII, §701, Dec. 26, 2007, 121 Stat. 2019, prov
 Authority of President under subsec. (b) of this section to prescribe regulations with respect to payment of expenses when an employee dies delegated to Administrator of General Services, see section 1(13) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
 Authority of President under subsec. (e) of this section delegated to Office of Personnel Management by section 6(b) of Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, eff. May 4, 1991, set out as a note under section 5301 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

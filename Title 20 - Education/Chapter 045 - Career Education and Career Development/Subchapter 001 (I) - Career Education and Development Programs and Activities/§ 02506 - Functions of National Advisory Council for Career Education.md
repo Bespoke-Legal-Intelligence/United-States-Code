@@ -1,6 +1,6 @@
 ### §2506. Functions of National Advisory Council for Career Education
 
-The National Advisory Council for Career Education established pursuant to section 2612a(g) of this title shall, in addition to its duties underthat section, advise the Secretary of Education with respect to the implementation of this subchapter.
+The National Advisory Council for Career Education established pursuant to section 2612a(g) of this title shall, in addition to its duties under that section, advise the Secretary of Education with respect to the implementation of this subchapter.
 
 (Pub. L. 94–482, title III, §336, Oct. 12, 1976, 90 Stat. 2224; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 

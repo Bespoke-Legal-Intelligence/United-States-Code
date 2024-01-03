@@ -46,7 +46,7 @@ In considering grant applications under this subchapter, the Administrator shall
 
 In order to receive assistance under this subchapter for a fiscal year, applicants shall give assurance that they will expend, to the greatest extent practicable, for such fiscal year an amount of funds (without regard to any funds received under any Federal law) that is not less than the amount of funds they received in the preceding fiscal year from State, local, and private sources.
 
-(Pub. L. 93–415, title IV, §405, formerly §406, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2128; renumbered §405 and amended Pub. L. 100–690, title VII, §§7287, 7290(a), Nov. 18, 1988, 102 Stat. 4460, 4461; Pub. L. 101–204, title X, §1004(3), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(d), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 113–38, §2(c), Sept. 30, 2013, 127 Stat. 528; Pub. L. 115–267, §2(d), Oct. 11, 2018, 132 Stat. 3759; Pub. L. 115–393, title II, §202(d), Dec. 21, 2018, 132 Stat. 5270.)
+(Pub. L. 93–415, title IV, §405, formerly §406, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2128; renumbered §405 and amended Pub. L. 100–690, title VII, §§7287, 7290(a), Nov. 18, 1988, 102 Stat. 4460, 4461; Pub. L. 101–204, title X,§1004(3), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(d), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 113–38, §2(c), Sept. 30, 2013, 127 Stat. 528; Pub. L. 115–267, §2(d), Oct. 11, 2018, 132 Stat. 3759; Pub. L. 115–393, title II, §202(d), Dec. 21, 2018, 132 Stat. 5270.)
 
 #### <b>Editorial Notes</b>
 

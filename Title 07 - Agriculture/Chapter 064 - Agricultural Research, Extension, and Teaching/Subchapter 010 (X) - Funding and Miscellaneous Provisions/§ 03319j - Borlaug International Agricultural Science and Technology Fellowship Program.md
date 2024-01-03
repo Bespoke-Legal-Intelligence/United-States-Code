@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) a graduate studies program in agriculture to assist individuals who participate in graduate agricultural degree training at a United States institution;
 
-&emsp;&emsp;(B) an individual career improvement program to assist agricultural scientists from developing countries in upgrading skills and understanding in agricultural science and technology; and
+&emsp;&emsp;(B) an individual career improvement program to assist agricultural scientists fromdeveloping countries in upgrading skills and understanding in agricultural science and technology; and
 
 &emsp;&emsp;(C) a Borlaug agricultural policy executive leadership course to assist senior agricultural policy makers from eligible countries, with an initial focus on individuals from sub-Saharan Africa and the independent states of the former Soviet Union.
 

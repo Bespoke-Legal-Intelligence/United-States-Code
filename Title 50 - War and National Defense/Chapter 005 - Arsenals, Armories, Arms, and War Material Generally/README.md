@@ -29,6 +29,7 @@
 | [98d.](Subchapter%20003%20%28III%29%20-%20Acquisition%20and%20Development%20of%20Strategic%20Raw%20Materials/%C2%A7%2000098d%20-%20Authority%20for%20stockpile%20operations.md) | Authority for stockpile operations. |
 | [98e.](Subchapter%20003%20%28III%29%20-%20Acquisition%20and%20Development%20of%20Strategic%20Raw%20Materials/%C2%A7%2000098e%20-%20Stockpile%20management.md) | Stockpile management. |
 | 98e–1. | Transferred. |
+| 98e–2. | Multiyear procurement authority for domestically processed critical minerals. |
 | [98f.](Subchapter%20003%20%28III%29%20-%20Acquisition%20and%20Development%20of%20Strategic%20Raw%20Materials/%C2%A7%2000098f%20-%20Special%20Presidential%20disposal%20authority.md) | Special Presidential disposal authority. |
 | [98g.](Subchapter%20003%20%28III%29%20-%20Acquisition%20and%20Development%20of%20Strategic%20Raw%20Materials/%C2%A7%2000098g%20-%20Materials%20development%20and%20research.md) | Materials development and research. |
 | [98h.](Subchapter%20003%20%28III%29%20-%20Acquisition%20and%20Development%20of%20Strategic%20Raw%20Materials/%C2%A7%2000098h%20-%20National%20Defense%20Stockpile%20Transaction%20Fund.md) | National Defense Stockpile Transaction Fund. |
@@ -37,7 +38,7 @@
 | 98h–3. | Definitions. |
 | 98h–4. | Importation of strategic and critical materials. |
 | 98h–5. | Biennial report on stockpile requirements. |
-| 98h–6. | Development of domestic sources. |
+| 98h–6. | Development and conservation of reliable sources. |
 | 98h–7. | National Defense Stockpile Manager. |
 | 98i, 99. | Repealed or Transferred. |
 | [100\.](Subchapter%20003%20%28III%29%20-%20Acquisition%20and%20Development%20of%20Strategic%20Raw%20Materials/%C2%A7%2000100%20-%20Nitrate%20plants.md) | Nitrate plants. |

@@ -42,7 +42,7 @@
 
 #### Historical and Revision Notes
 
-This section makes no material change in existing practice. Notwithstanding the opportunity open to litigants to abuse the writ, the courts have consistentlyrefused to entertain successive "nuisance" applications for habeas corpus. It is derived from H.R. 4232 introduced in the first session of the Seventy-ninth Congress by Chairman Hatton Sumners of the Committee on the Judiciary and referred to that Committee.
+This section makes no material change in existing practice. Notwithstanding the opportunity open to litigants to abuse the writ, the courts have consistently refused to entertain successive "nuisance" applications for habeas corpus. It is derived from H.R. 4232 introduced in the first session of the Seventy-ninth Congress by Chairman Hatton Sumners of the Committee on the Judiciary and referred to that Committee.
 
 The practice of suing out successive, repetitious, and unfounded writs of habeas corpus imposes an unnecessary burden on the courts. See <i>Dorsey v. Gill</i>, 1945, 148 F.2d 857, 862, in which Miller, J., notes that "petitions for the writ are used not only as they should be to protect unfortunate persons against miscarriages of justice, but also as a device for harassing court, custodial, and enforcement officers with a multiplicity of repetitious, meritless requests for relief. The most extreme example is that of a person who, between July 1, 1939, and April 1944 presented in the District Court 50 petitions for writs of habeas corpus; another person has presented 27 petitions; a third, 24; a fourth, 22; a fifth, 20. One hundred nineteen persons have presented 597 petitions—an average of 5."
 

@@ -20,7 +20,7 @@ Multiagency Technical Assistance Team.—(1) The Administrator, in consultation 
 
 (3) The technical assistance team shall not consider or evaluate proposals submitted in response to a solicitation for offers for a pending procurement or for a specific agency requirement.
 
-(4) After receiving proposals and assessments from the technical assistance team, the Administrator shall consider recommending appropriate proposals for funding under the E-Government Fund established under section 3604 or, if appropriate, forward the proposal and the assessment of it to the executive agency whosemission most coincides with the subject matter of the proposal.
+(4) After receiving proposals and assessments from the technical assistance team, the Administrator shall consider recommending appropriate proposals for funding under the E-Government Fund established under section 3604 or, if appropriate, forward the proposal and the assessment of it to the executive agency whose mission most coincides with the subject matter of the proposal.
 
 (Added Pub. L. 107–347, title I, §101(a), Dec. 17, 2002, 116 Stat. 2909.)
 

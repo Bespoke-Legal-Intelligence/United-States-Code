@@ -2,7 +2,7 @@
 
 (a) A vessel of the United States to which this chapter applies that has on board oil or hazardous material in bulk as cargo or cargo residue must have a certificate of inspection issued under this part, endorsed to indicate that the vessel complies with regulations prescribed under this chapter.
 
-(b) Each certificate endorsed under this section is valid for not more than 5 years and may be renewed as specified by the Secretary. In appropriate circumstances, the Secretary may issue a temporary certificate valid for not more than 30 days. A certificate shall be suspended or revoked if the Secretary finds that the vesseldoes not comply with the conditions under which the certificate was issued.
+(b) Each certificate endorsed under this section is valid for not more than 5 years and may be renewed as specified by the Secretary. In appropriate circumstances, the Secretary may issue a temporary certificate valid for not more than 30 days. A certificate shall be suspended or revoked if the Secretary finds that the vessel does not comply with the conditions under which the certificate was issued.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 524; Pub. L. 104–324, title VI, §605(b), Oct. 19, 1996, 110 Stat. 3931.)
 

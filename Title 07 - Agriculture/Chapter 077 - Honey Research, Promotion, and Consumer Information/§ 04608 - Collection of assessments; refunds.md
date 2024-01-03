@@ -22,7 +22,7 @@ Except as otherwise provided in this section, at the time of entry of honey and 
 
 #### (d) Loan and loan deficiency payments; deduction from disbursement of loan funds or loan deficiency payment made to producer
 
-In any case in which a loan, or a loan deficiency payment is made with respect to honey under the honey price support loan program established under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], or successor statute, the Secretary shall provide for the assessment to be deducted from the disbursement of any loan funds or from the loan deficiency payment made to the producer and for the amount of such assessment to be forwarded to the Honey Board. The Secretary shall provide for the producer to receive a statement of the amount of the assessment deducted from the loan funds or loan deficiency payment promptly after each occasion when an assessment is deducted from any such loan funds or payment under this subsection.
+In any case in which a loan, or a loan deficiency payment is made with respect to honeyunder the honey price support loan program established under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], or successor statute, the Secretary shall provide for the assessment to be deducted from the disbursement of any loan funds or from the loan deficiency payment made to the producer and for the amount of such assessment to be forwarded to the Honey Board. The Secretary shall provide for the producer to receive a statement of the amount of the assessment deducted from the loan funds or loan deficiency payment promptly after each occasion when an assessment is deducted from any such loan funds or payment under this subsection.
 
 #### (e) Producer-packers
 
@@ -70,7 +70,7 @@ Except as otherwise provided in this section, a producer-packer shall be respons
 
 &emsp;Nothing in this subsection prohibits—
 
-&emsp;&emsp;(A) the issuance of general statements based on the reports of a number of handlers subject to an order, if the statements do notidentify the information furnished by any person; or
+&emsp;&emsp;(A) the issuance of general statements based on the reports of a number of handlers subject to an order, if the statements do not identify the information furnished by any person; or
 
 &emsp;&emsp;(B) the publication, by direction of the Secretary, of the name of any person that violates any order issued under this chapter, together with a statement of the particular provisions of the order violated by the person.
 
@@ -100,7 +100,7 @@ Administration and remittance of the assessments under this chapter shall be con
 
 &emsp;If the United States Customs Service fails to collect an assessment from an importer or an importer fails to pay an assessment at the time of entry of honey and honey products into the United States under this section, the importer shall be responsible for the remission of the assessment to the Honey Board.
 
-(Pub. L. 98–590, §9, Oct. 30, 1984, 98 Stat. 3120; Pub. L. 101–624, title XIX, §1984(b), Nov. 28, 1990, 104 Stat. 3906; Pub. L. 102–237, title VIII, §807(1), Dec. 13, 1991, 105 Stat. 1883; Pub. L. 104–127, title V, §591, Apr. 4, 1996, 110 Stat. 1084; Pub. L. 105–185, title VI, §605(h), June 23, 1998, 112 Stat. 597.)
+(Pub. L. 98–590, §9, Oct. 30, 1984, 98 Stat. 3120; Pub. L. 101–624, title XIX, §1984(b), Nov. 28, 1990,104 Stat. 3906; Pub. L. 102–237, title VIII, §807(1), Dec. 13, 1991, 105 Stat. 1883; Pub. L. 104–127, title V, §591, Apr. 4, 1996, 110 Stat. 1084; Pub. L. 105–185, title VI, §605(h), June 23, 1998, 112 Stat. 597.)
 
 #### <b>Editorial Notes</b>
 

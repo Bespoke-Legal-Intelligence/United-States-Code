@@ -176,7 +176,7 @@ Humanitarian Nature of Payment.—This Act does not create or admit any claim of
 
 "(f)
 
-Administrative Costs Not Paid From Fund.—No costs incurred by the Secretary in carrying out this title may be paid from the Fund or set off against, orotherwise deducted from, any payment made under subsection (c)(1).
+Administrative Costs Not Paid From Fund.—No costs incurred by the Secretary in carrying out this title may be paid from the Fund or set off against, or otherwise deducted from, any payment made under subsection (c)(1).
 
 "(g)
 

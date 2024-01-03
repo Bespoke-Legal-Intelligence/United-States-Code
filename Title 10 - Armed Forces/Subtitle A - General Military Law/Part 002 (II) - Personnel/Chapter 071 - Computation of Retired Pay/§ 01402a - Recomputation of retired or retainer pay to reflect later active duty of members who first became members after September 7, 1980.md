@@ -68,7 +68,7 @@ Percent for Certain Enlisted Members Credited With Extraordinary Heroism.—(1) 
 
 (3) The determination of the Secretary concerned as to extraordinary heroism is conclusive for all purposes.
 
-(Added Pub. L. 96–342, title VIII, §813(b)(3)(A), Sept. 8, 1980, 94 Stat. 1102; amended Pub. L. 96–513, title V, §511(51)(A), (B), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §§922(a)(5), (6), 923(a)(1), (2)(D), (E), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 99–348, title II, §201(b)(1), (2), July 1, 1986, 100 Stat. 693; Pub. L. 102–484, div. A, title VI, §642(b), Oct. 23, 1992, 106 Stat. 2425; Pub. L. 111–383, div. A, title VI, §631(c), Jan. 7, 2011, 124Stat. 4239; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 96–342, title VIII, §813(b)(3)(A), Sept. 8, 1980, 94 Stat. 1102; amended Pub. L. 96–513, title V, §511(51)(A), (B), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §§922(a)(5), (6), 923(a)(1), (2)(D), (E), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 99–348, title II, §201(b)(1), (2), July 1, 1986, 100 Stat. 693; Pub. L. 102–484, div. A, title VI, §642(b), Oct. 23, 1992, 106 Stat. 2425; Pub. L. 111–383, div. A, title VI, §631(c), Jan. 7, 2011, 124 Stat. 4239; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 #### <b>Editorial Notes</b>
 
@@ -92,7 +92,7 @@ Subsec. (e). Pub. L. 99–348, §201(b)(2)(D), inserted heading.
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–94, §922(a)(5), substituted "according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1." for "as follows:".
 
-Pub. L. 98–94, §923(a)(1), (2)(D), in footnote 1 of table, substituted "Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month" for "Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months".
+Pub. L. 98–94, §923(a)(1), (2)(D), in footnote 1 of table, substituted "Before applying percentage factor, crediteach full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month" for "Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months".
 
 Subsec. (d). Pub. L. 98–94, §922(a)(6), substituted "according to the following table. The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1." for "as follows:".
 

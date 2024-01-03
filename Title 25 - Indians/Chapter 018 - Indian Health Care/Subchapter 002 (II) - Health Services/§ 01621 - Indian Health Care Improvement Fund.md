@@ -70,7 +70,7 @@ For the purposes of this section, the following definitions apply:
 
 #### (e) Eligibility for funds
 
-Tribal health programs shall be eligible for funds appropriated under the authority of thissection on an equal basis with programs that are administered directly by the Service.
+Tribal health programs shall be eligible for funds appropriated under the authority of this section on an equal basis with programs that are administered directly by the Service.
 
 #### (f) Report
 
@@ -108,7 +108,7 @@ Any funds appropriated under the authority of this section shall be designated a
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec.\(a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 This chapter, referred to in subsecs. (b) and (f)(4)(A), was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 

@@ -130,7 +130,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 #### (i) Contract to conduct assessments
 
-&emsp;&emsp;&emsp;Not later than 6 months after August 14, 2008, the Secretary shall enter into a contract with the National Academy of Public Administration to conduct periodic assessments of the program established under paragraph (1). The assessments shall be conducted once every 3 years during the 10-year period following August 14, 2008.
+&emsp;&emsp;&emsp;Not later than 6 months after August 14, 2008, the Secretary shall enter into a contract with the National Academy of PublicAdministration to conduct periodic assessments of the program established under paragraph (1). The assessments shall be conducted once every 3 years during the 10-year period following August 14, 2008.
 
 #### (ii) Evaluations and recommendations
 

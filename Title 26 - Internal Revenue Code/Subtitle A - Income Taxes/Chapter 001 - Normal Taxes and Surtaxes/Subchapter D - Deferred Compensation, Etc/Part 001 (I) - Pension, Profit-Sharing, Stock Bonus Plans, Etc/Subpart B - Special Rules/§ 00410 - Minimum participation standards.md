@@ -214,7 +214,7 @@
 
 #### (B) Requirements may be met separately with respect to excluded group
 
-&emsp;&emsp;If employees not meeting the minimum age or service requirements of subsection (a)(1) (without regard to subparagraph (B) thereof) are covered under a plan of the employer which meets the requirements of paragraph (1) separately with respect to suchemployees, such employees may be excluded from consideration in determining whether any plan of the employer meets the requirements of paragraph (1).
+&emsp;&emsp;If employees not meeting the minimum age or service requirements of subsection (a)(1) (without regard to subparagraph (B) thereof) are covered under a plan of the employer which meets the requirements of paragraph (1) separately with respect to such employees, such employees may be excluded from consideration in determining whether any plan of the employer meets the requirements of paragraph (1).
 
 #### (C) Requirements not treated as being met before entry date
 
@@ -300,7 +300,7 @@
 
 &emsp;&emsp;(D) a plan established and maintained by a society, order, or association described in section 501(c)(8) or (9) if no part of the contributions to or under such plan are made by employers of participants in such plan.
 
-&emsp;(2) A plan described in paragraph (1) shall be treated as meeting the requirements of thissection for purposes of section 401(a), except that in the case of a plan described in subparagraph (B), (C), or (D) of paragraph (1), this paragraph shall apply only if such plan meets the requirements of section 401(a)(3) (as in effect on September 1, 1974).
+&emsp;(2) A plan described in paragraph (1) shall be treated as meeting the requirements of this section for purposes of section 401(a), except that in the case of a plan described in subparagraph (B), (C), or (D) of paragraph (1), this paragraph shall apply only if such plan meets the requirements of section 401(a)(3) (as in effect on September 1, 1974).
 
 #### (d) Election by church to have participation, vesting, funding, etc., provisions apply
 
@@ -456,7 +456,7 @@ Determination by secretary of labor required.—Subparagraph (A) shall not apply
 
 &emsp;&emsp;"(D)
 
-Supplementary or special plan provisions.—For purposes of this paragraph, the term 'supplementary or special plan provision' means any plan provision which—
+Supplementary or special plan provisions.—For purposes of this paragraph, the term'supplementary or special plan provision' means any plan provision which—
 
 &emsp;&emsp;&emsp;"(i) provides supplementary benefits, not in excess of one-third of the basic benefit, in the form of an annuity for the life of the participant, or
 
@@ -472,7 +472,7 @@ In general.—In the case of a plan maintained on January 1, 1974, pursuant to o
 
 &emsp;&emsp;"(B)
 
-Waiver of underfunding.—In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary of Laborfinds to be collective bargaining agreements between employee representatives and one or more employers, if by reason of subparagraph (A) the requirements of section 401(a)(7) of the Internal Revenue Code of 1986 apply without regard to the amendment of such section 401(a)(7) by section 1016(a)(2)(C) of this Act \[Pub. L. 93–406\], the plan shall not be treated as not meeting such requirements solely by reason of the application of the amendments made by sections 1011 and 1012 of this Act \[enacting this section and section 411 of this title\] or related amendments made by this part.
+Waiver of underfunding.—In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary of Labor finds to be collective bargaining agreements between employee representatives and one or more employers, if by reason of subparagraph (A) the requirements of section 401(a)(7) of the Internal Revenue Code of 1986 apply without regard to the amendment of such section 401(a)(7) by section 1016(a)(2)(C) of this Act \[Pub. L. 93–406\], the plan shall not be treated as not meeting such requirements solely by reason of the application of the amendments made by sections 1011 and 1012 of this Act \[enacting this section and section 411 of this title\] or related amendments made by this part.
 
 &emsp;&emsp;"(C)
 
@@ -538,7 +538,7 @@ Plans.—Notwithstanding subsections (b) and (c)(2), in the case of a plan in ex
 
 #### Regulations
 
-Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1112 and 1113 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
+Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1112 and 1113 of Pub. L. 99–514,see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
 Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission shall each issue before Feb. 1, 1988, final regulations to carry out amendments made by section 9203 of Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as a note under section 623 of Title 29, Labor.
 

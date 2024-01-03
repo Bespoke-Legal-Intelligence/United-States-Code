@@ -2,7 +2,7 @@
 
 The President may present, but not in the name of Congress, a medal to be known as the Coast Guard medal, of appropriate design, with accompanying ribbon, together with a rosette or other device to be worn in lieu thereof, to any individual who, while serving in any capacity with the Coast Guard, displays heroism not involving actual conflict with an enemy.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 535, §493; renumbered §2739, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §§8505(a)(32), 8506(f), Jan. 1, 2021, 134 Stat. 4749, 4752.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 535, §493; renumbered §2739, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226; Pub. L. 116–283, div. G, titleLVXXXV \[LXXXV\], §§8505(a)(32), 8506(f), Jan. 1, 2021, 134 Stat. 4749, 4752.)
 
 #### Historical and Revision Notes
 

@@ -1,6 +1,6 @@
 ### §2504. Prerequisites for State participation
 
-Any State desiring to receive the amount for which it is eligible for any fiscal year pursuantto this subchapter shall agree to submit to the Secretary of Education by December 31, 1978, a report on any planning undertaken pursuant to this subchapter. Such report shall be in such form as the State may desire, and may include planning proposals for—
+Any State desiring to receive the amount for which it is eligible for any fiscal year pursuant to this subchapter shall agree to submit to the Secretary of Education by December 31, 1978, a report on any planning undertaken pursuant to this subchapter. Such report shall be in such form as the State may desire, and may include planning proposals for—
 
 &emsp;(1) extending career education and career development programs and services to all individuals in the State;
 
@@ -20,7 +20,7 @@ Any State desiring to receive the amount for which it is eligible for any fiscal
 
 #### Effective Date
 
-Section effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under section 1001 of this title.
+Section effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976,where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under section 1001 of this title.
 
 #### Transfer of Functions
 

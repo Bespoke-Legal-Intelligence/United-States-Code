@@ -28,7 +28,7 @@ The Secretary shall provide monthly briefings to the appropriate congressional c
 
 #### (2) Emergency circumstances
 
-&emsp;If the Secretary determines that the national security interests of the United States require the opening or reopening of a high risk, high threat post in fewer than 30 days, then as soon as possible, but not later than 48 hours before such opening or reopening, the Secretary shall transmit to the appropriate congressional committees a notification detailing the decision to open or reopen such post, the nature of the critical national security interests at stake, and the circumstances that prevented the normal 30-day notice under paragraph (1).
+&emsp;If the Secretary determines that the national security interests of the United States require the opening or reopening of a high risk, high threat post in fewer than 30 days, then as soon as possible, but not later than 48hours before such opening or reopening, the Secretary shall transmit to the appropriate congressional committees a notification detailing the decision to open or reopen such post, the nature of the critical national security interests at stake, and the circumstances that prevented the normal 30-day notice under paragraph (1).
 
 #### (c) Appropriate congressional committees
 

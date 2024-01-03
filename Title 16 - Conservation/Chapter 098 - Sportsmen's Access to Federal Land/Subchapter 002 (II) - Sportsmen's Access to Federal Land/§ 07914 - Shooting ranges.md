@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (b), the Secretary concerned may, in accordance with this section and other applicable law, lease or permit the use of Federal land for a shooting range.
+Except as provided in subsection (b), the Secretary concerned may, in accordance with thissection and other applicable law, lease or permit the use of Federal land for a shooting range.
 
 #### (b) Exception
 

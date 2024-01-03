@@ -86,13 +86,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2018</b>—Subsec. (h). Pub. L. 115–334 substituted "2023" for "2018".
 
-<b>2014</b>—Subsec. (c)(1). Pub. L. 113–79, §5002(a), substituted "limited liability companies, or such other legal entities as the Secretary considers appropriate" for "or limited liability companies".
+<b>2014</b>—Subsec. (c)(1). Pub. L. 113–79, §5002(a), substituted "limited liability companies, or such otherlegal entities as the Secretary considers appropriate" for "or limited liability companies".
 
 Subsec. (c)(2). Pub. L. 113–79, §5001(c)(1), substituted "subparagraphs (A) and (B) of section 1922(a)(1)" for "paragraphs (1) and (2) of section 1922(a)".
 
 Subsec. (e). Pub. L. 113–79, §5002(b), substituted "shall be—" for "shall be 75 percent of the principal amount of the loan." and added pars. (1) and (2).
 
-Subsec. (h). Pub. L. 113–79, §5002(c), added subsec. (h) and struck out former subsec. (h). Prior to amendment,text read as follows: "For each of fiscal years 2008 through 2012, there are authorized to be appropriated to the Secretary such funds as are necessary to carry out this section."
+Subsec. (h). Pub. L. 113–79, §5002(c), added subsec. (h) and struck out former subsec. (h). Prior to amendment, text read as follows: "For each of fiscal years 2008 through 2012, there are authorized to be appropriated to the Secretary such funds as are necessary to carry out this section."
 
 <b>2008</b>—Pub. L. 110–246, §5002, amended section generally, substituting provisions relating to conservation loans and loan guarantee programs for former provisions which related to, in subsec. (a), authority to make or insure loans for soil and water conservation and protection, in subsec. (b), priority of producers who would build conservation structures or establish conservation practices to comply with section 3812 of title 16, and in subsec. (c), maximum amount of a loan.
 

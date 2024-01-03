@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(ii) the working percentage.
 
-(2) After computing a composite retirement annuity under paragraph (1), the Director shall adjust the amount of the annuity for any applicable reductions for a survivor annuity.
+(2) After computing a composite retirement annuity under paragraph (1), the Director shalladjust the amount of the annuity for any applicable reductions for a survivor annuity.
 
 (3) A composite retirement annuity shall be adjusted in accordance with section 8462, except that subsection (c)(1) of that section shall not apply.
 

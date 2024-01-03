@@ -36,7 +36,7 @@ In general.—Any determination of the Secretary referred to in paragraph (2) sh
 
 &emsp;&emsp;(B)
 
-Other rights unaffected.—This paragraph does not alter or annul any right of review that arises under any provision of anylaw or regulation of the United States other than paragraph (2).
+Other rights unaffected.—This paragraph does not alter or annul any right of review that arises under any provision of any law or regulation of the United States other than paragraph (2).
 
 &emsp;(4) Nothing in paragraph (2) of this subsection in any way affects the procurement by the Secretary of gold and silver for the production of coins by the United States Mint.
 
@@ -148,7 +148,7 @@ In subsection (d)(1), the words "prohibit or limit" are substituted for "prohibi
 
 In subsection (d)(2), the word "person" is substituted for "Whoever" for consistency in the revised title.
 
-In subsection (d)(3), the words "and his delegates" are omitted as unnecessary because of the power of the Secretary to delegate under section 321(b) of the revised title. The word "remedies" is substituted for "judicial and other remedies available to the United States" to eliminate unnecessary words. The words "ofproperty subject to forfeiture pursuant to subsection (a) of this section" and "for the enforcement of forfeitures of property subject to forfeiture under any provision of title 26" are omitted as unnecessary because of the restatement.
+In subsection (d)(3), the words "and his delegates" are omitted as unnecessary because of the power of the Secretary to delegate under section 321(b) of the revised title. The word "remedies" is substituted for "judicial and other remedies available to the United States" to eliminate unnecessary words. The words "of property subject to forfeiture pursuant to subsection (a) of this section" and "for the enforcement of forfeitures of property subject to forfeiture under any provision of title 26" are omitted as unnecessary because of the restatement.
 
 #### <b>Editorial Notes</b>
 

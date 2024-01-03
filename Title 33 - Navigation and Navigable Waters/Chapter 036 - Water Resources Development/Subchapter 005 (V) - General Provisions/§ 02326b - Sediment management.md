@@ -8,7 +8,7 @@ The Secretary may enter into cooperation agreements with non-Federal interests w
 
 Each strategy developed under subsection (a) shall—
 
-&emsp;(1) include assessments of sediment rates and composition, sediment reduction options,dredging practices, long-term management of any dredged material disposal facilities, remediation of such facilities, and alternative disposal and reuse options;
+&emsp;(1) include assessments of sediment rates and composition, sediment reduction options, dredging practices, long-term management of any dredged material disposal facilities, remediation of such facilities, and alternative disposal and reuse options;
 
 &emsp;(2) include a timetable for implementation of the strategy; and
 
@@ -48,7 +48,7 @@ In this section, the term "Great Lakes States" means the States of Illinois, Ind
 
 #### (g) Coastal mapping
 
-The Secretary shall develop and carry out a plan for the recurring mapping of coastlines that are experiencing rapid change, including such coastlines in—
+The Secretary shall develop and carry out a plan for the recurring mapping of coastlinesthat are experiencing rapid change, including such coastlines in—
 
 &emsp;(1) Alaska;
 

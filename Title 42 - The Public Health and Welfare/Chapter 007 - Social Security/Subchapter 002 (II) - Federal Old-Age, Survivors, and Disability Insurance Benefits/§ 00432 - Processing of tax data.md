@@ -12,7 +12,7 @@ The Internal Revenue Code of 1986, referred to in text, is classified generally 
 
 #### Amendments
 
-<b>2019</b>—Pub. L. 116–25 inserted "For purposes of carrying out the return processing program described in the preceding sentence, the Commissioner of Social Security shall request, not less than annually, such information described in section 7529(b)(2) of the Internal Revenue Code of 1986 as may be necessary to ensure the accuracy of the records maintained by the Commissioner of Social Security related to the amounts of wages paid to, and the amounts of self-employment income derived by, individuals." after "such processing."
+<b>2019</b>—Pub. L. 116–25 inserted "For purposes of carrying out the return processing program described inthe preceding sentence, the Commissioner of Social Security shall request, not less than annually, such information described in section 7529(b)(2) of the Internal Revenue Code of 1986 as may be necessary to ensure the accuracy of the records maintained by the Commissioner of Social Security related to the amounts of wages paid to, and the amounts of self-employment income derived by, individuals." after "such processing."
 
 <b>1994</b>—Pub. L. 103–296, §321(c)(6)(L), substituted "1986" for "1954" after "Code of" wherever appearing.
 

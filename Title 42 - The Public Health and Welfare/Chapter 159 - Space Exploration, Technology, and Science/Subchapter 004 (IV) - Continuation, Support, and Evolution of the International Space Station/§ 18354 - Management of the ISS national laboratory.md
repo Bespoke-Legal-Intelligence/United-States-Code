@@ -26,7 +26,7 @@
 
 #### (c) Planning and coordination of ISS national laboratory research activities
 
-The Administrator shall provide initial financial assistance to the organization with which the Administrator enters into a cooperative agreement under subsection (a), in order for the organization to initiate the following:
+The Administrator shall provide initial financial assistance to the organization with whichthe Administrator enters into a cooperative agreement under subsection (a), in order for the organization to initiate the following:
 
 &emsp;(1) Planning and coordination of the ISS national laboratory research activities.
 
@@ -70,7 +70,7 @@ In subsec. (c)(3), "section 70906 of title 51" substituted for "section 602 of t
 
 #### Amendments
 
-<b>2022</b>—Subsec. (d)(1). Pub. L. 117–167, §10815(c)(1), substituted "The ISS" for "As soon as practicable after October 11, 2010, but not later than October 1, 2011, ISS" and "September 30, 2030" for "September 30, 2024".
+<b>2022</b>—Subsec. (d)(1). Pub. L. 117–167, §10815(c)(1), substituted "The ISS" for "As soon as practicable afterOctober 11, 2010, but not later than October 1, 2011, ISS" and "September 30, 2030" for "September 30, 2024".
 
 Subsec. (d)(2). Pub. L. 117–167, §10815(c)(2), substituted "September 30, 2030" for "September 30, 2024".
 

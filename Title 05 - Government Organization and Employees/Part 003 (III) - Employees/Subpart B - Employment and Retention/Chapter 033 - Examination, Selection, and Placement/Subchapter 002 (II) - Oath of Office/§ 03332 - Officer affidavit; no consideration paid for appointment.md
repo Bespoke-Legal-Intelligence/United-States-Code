@@ -1,6 +1,6 @@
 ### §3332. Officer affidavit; no consideration paid for appointment
 
-An officer, within 30 days after the effective date of his appointment, shall file with the oathof office required by section 3331 of this title an affidavit that neither he nor anyone acting in his behalf has given, transferred, promised, or paid any consideration for or in the expectation or hope of receiving assistance in securing the appointment.
+An officer, within 30 days after the effective date of his appointment, shall file with the oath of office required by section 3331 of this title an affidavit that neither he nor anyone acting in his behalf has given, transferred, promised, or paid any consideration for or in the expectation or hope of receiving assistance in securing the appointment.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 424.)
 

@@ -1,6 +1,6 @@
 ### §2014. Recruitment of Indian educators
 
-The Secretary shall institute a policy for the recruitment of qualified Indian educators and a detailed plan to promote employees from withinthe Bureau. Such plan shall include opportunities for acquiring work experience prior to actual work assignment.
+The Secretary shall institute a policy for the recruitment of qualified Indian educators and a detailed plan to promote employees from within the Bureau. Such plan shall include opportunities for acquiring work experience prior to actual work assignment.
 
 (Pub. L. 95–561, title XI, §1134, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2055.)
 

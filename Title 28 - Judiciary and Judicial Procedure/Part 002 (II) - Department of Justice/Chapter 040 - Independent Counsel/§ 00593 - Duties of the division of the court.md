@@ -18,7 +18,7 @@ Qualifications of independent counsel.—The division of the court shall appoint
 
 &emsp;(3)
 
-Scope of prosecutorial jurisdiction.—In defining the independent counsel's prosecutorial jurisdiction, the division of the court shall assure that the independent counsel has adequate authority to fully investigate and prosecute the subject matter with respect to which the Attorney General has requested the appointment of the independent counsel, and all matters related to that subject matter.Such jurisdiction shall also include the authority to investigate and prosecute Federal crimes, other than those classified as Class B or C misdemeanors or infractions, that may arise out of the investigation or prosecution of the matter with respect to which the Attorney General's request was made, including perjury, obstruction of justice, destruction of evidence, and intimidation of witnesses.
+Scope of prosecutorial jurisdiction.—In defining the independent counsel's prosecutorial jurisdiction, the division of the court shall assure that the independent counsel has adequate authority to fully investigate and prosecute the subject matter with respect to which the Attorney General has requested the appointment of the independent counsel, and all matters related to that subject matter. Such jurisdiction shall also include the authority to investigate and prosecute Federal crimes, other than those classified as Class B or C misdemeanors or infractions, that may arise out of the investigation or prosecution of the matter with respect to which the Attorney General's request was made, including perjury, obstruction of justice, destruction of evidence, and intimidation of witnesses.
 
 &emsp;(4)
 
@@ -82,7 +82,7 @@ Disclosure of Information.—The division of the court may, subject to section 5
 
 Amicus Curiae Briefs.—When presented with significant legal issues, the division of the court may disclose sufficient information about the issues to permit the filing of timely amicus curiae briefs.
 
-(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409,§§2(a)(1), 5, Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1297; Pub. L. 103–270, §3(n), June 30, 1994, 108 Stat. 736.)
+(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§2(a)(1), 5, Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1297; Pub. L. 103–270, §3(n), June 30, 1994, 108 Stat. 736.)
 
 #### <b>Editorial Notes</b>
 

@@ -56,7 +56,7 @@
 
 #### (b) Service agreement
 
-In awarding a scholarship or fellowship under the program, the Secretary or contract organization referred to in subsection (a)(4), as the case may be, shall require a recipient of any fellowship or any scholarship to enter into an agreement that, in return for such assistance, the recipient—
+In awarding a scholarship or fellowship under the program, the Secretary or contract organization referred to in subsection (a)(4), as thecase may be, shall require a recipient of any fellowship or any scholarship to enter into an agreement that, in return for such assistance, the recipient—
 
 &emsp;(1) will maintain satisfactory academic progress, as determined in accordance with regulations issued by the Secretary, and agrees that failure to maintain such progress shall constitute grounds upon which the Secretary or contract organization referred to in subsection (a)(4) may terminate such assistance;
 
@@ -96,7 +96,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 #### (g) Determination of agencies and offices of Federal Government having national security responsibilities
 
-(1) The Secretary, in consultation with the Board, shall annually determine and develop a list identifying each agency or office of the Federal Government having national security responsibilities at which a recipient of a fellowship or scholarship under this chapter will be able to make the recipient's foreign area and language skills available to such agency or office. The Secretary shall submit the first such list to the Congress and include each subsequent list in the annual report to the Congress, as required by section 1906(b)(6) of this title.
+(1) The Secretary, in consultation with the Board, shall annually determine and develop a list identifying each agency or office of the Federal Government having national security responsibilities at which a recipient of a fellowship or scholarship under this chapter will be able to make the recipient's foreign area and language skills available to such agency or office. The Secretary shall submit the first suchlist to the Congress and include each subsequent list in the annual report to the Congress, as required by section 1906(b)(6) of this title.
 
 (2) Notwithstanding section 1904 of this title, funds may not be made available from the Fund to carry out this chapter for fiscal year 1997 until 30 days after the date on which the Secretary of Defense submits to the Congress the first such list required by paragraph (1).
 
@@ -106,7 +106,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 &emsp;The Secretary of Defense may—
 
-&emsp;&emsp;(A) appoint or retain a person provided scholarship or fellowship assistance underthe program in a position in the Department of Defense on an interim basis during the period of the person's pursuit of a degree under the program and for a period not to exceed two years after completion of the degree, but only if, in the case of the period after completion of the degree, there is an active investigation to provide security clearance to the person for an appropriate permanent position in the Department of Defense under subsection (b)(2); and
+&emsp;&emsp;(A) appoint or retain a person provided scholarship or fellowship assistance under the program in a position in the Department of Defense on an interim basis during the period of the person's pursuit of a degree under the program and for a period not to exceed two years after completion of the degree, but only if, in the case of the period after completion of the degree, there is an active investigation to provide security clearance to the person for an appropriate permanent position in the Department of Defense under subsection (b)(2); and
 
 &emsp;&emsp;(B) if there is no appropriate permanent position available for the person after the end of the periods described in subparagraph (A), separate the person from employment with the Department without regard to any other provision of law, in which event the service agreement of the person under subsection (b) shall terminate.
 
@@ -148,11 +148,11 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 &emsp;(iii) if, before the completion by the employee of such training, the employment of the employee is terminated by such department or agency due to misconduct by the employee, or by the employee voluntarily, to reimburse the United States for the total cost of such training (excluding the employee's pay and allowances) provided to the employee; and
 
-&emsp;(iv) if, after the completion by the employee of such training but before the completion by the employee of the period of service required by clause (ii), the employment of the employee by such department or agency is terminated either by such department or agency due to misconduct by the employee, or by the employee voluntarily, to reimburse the United States in an amount that bears the same ratio to the total cost of such training (excluding the employee's pay and allowances) provided to the employee as the unserved portion of such period of service bears to the total period of service required by clause (ii).
+&emsp;(iv) if, after the completion by the employee of such training but before the completion by the employee of the period of service required by clause (ii), the employment of the employee by such department or agency is terminated either by such department or agency due to misconduct by the employee, or by the employee voluntarily, to reimburse the United States in an amount that bears the same ratioto the total cost of such training (excluding the employee's pay and allowances) provided to the employee as the unserved portion of such period of service bears to the total period of service required by clause (ii).
 
-(C) <sup>1</sup> Subject to subparagraph (D), the obligation to reimburse the United States under an agreement under subparagraph (A) is for all purposes a debt owing the United States.
+(B) Subject to subparagraph (C), the obligation to reimburse the United States under an agreement under subparagraph (A) is for all purposes a debt owing the United States.
 
-(D) The head of the element of the intelligence community concerned may release an employee, in whole or in part, from the obligation to reimburse the United States under an agreement under subparagraph (A) when, in the discretion of the head of the element, the head of the element determines that equity or the interests of the United States so require.
+(C) The head of the element of the intelligence community concerned may release an employee, in whole or in part, from the obligation to reimburse the United States under an agreement under subparagraph (A) when, in the discretion of the head of the element, the head of the element determines that equity or the interests of the United States so require.
 
 #### (k) Employment of program participants
 
@@ -196,7 +196,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 &emsp;&emsp;&emsp;(iii) is a former civilian employee of the Federal Government who has less than a one-year break in service from the last period of Federal employment of such individual in a non-permanent appointment in the excepted service with national security responsibilities.
 
-(Pub. L. 102–183, title VIII, §802, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(b), (c), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 103–178, title III, §311(b)(2), (d), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(b)–(d), (f)(2), Sept. 23, 1996, 110 Stat. 2664–2666; Pub. L. 105–272, title III, §305(a)(2), Oct. 20, 1998, 112 Stat. 2400; Pub. L. 107–296, title XIII, §1332(b), Nov. 25, 2002, 116 Stat. 2300; Pub. L. 107–306, title III, §§332, 333(a)(1)–(3), Nov. 27, 2002, 116 Stat. 2395, 2396; Pub. L. 108–136, div. A, title IX, §925(a), Nov. 24, 2003, 117 Stat. 1578; Pub. L. 108–487, title VI, §§601(b), 602(a)(1), 603(a)(1), (2), Dec. 23, 2004, 118 Stat. 3952–3954; Pub. L. 109–364, div. A, title IX, §945(a), (b), Oct. 17, 2006, 120 Stat. 2367; Pub. L. 110–181, div. A, title IX, §953, Jan. 28, 2008, 122 Stat. 292; Pub. L. 111–84, div. A, title XI, §1101, Oct. 28, 2009, 123 Stat. 2484; Pub. L. 112–239, div. A, title IX, §956, Jan. 2, 2013, 126 Stat. 1899; Pub. L. 115–91, div. A, title XVI, §1625, Dec. 12, 2017, 131 Stat. 1733.)
+(Pub. L. 102–183, title VIII, §802, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(b), (c), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 103–178, title III, §311(b)(2), (d), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(b)–(d), (f)(2), Sept. 23, 1996, 110 Stat. 2664–2666; Pub. L. 105–272, title III, §305(a)(2), Oct. 20, 1998, 112 Stat. 2400; Pub. L. 107–296, title XIII, §1332(b), Nov. 25, 2002, 116 Stat. 2300; Pub. L. 107–306, title III, §§332, 333(a)(1)–(3), Nov. 27, 2002, 116 Stat. 2395, 2396; Pub. L. 108–136, div. A, title IX, §925(a), Nov. 24, 2003, 117 Stat. 1578; Pub. L. 108–487, title VI, §§601(b), 602(a)(1), 603(a)(1), (2), Dec. 23, 2004, 118 Stat. 3952–3954; Pub. L. 109–364, div. A, title IX, §945(a), (b), Oct. 17, 2006, 120 Stat. 2367; Pub. L. 110–181, div. A, title IX, §953, Jan. 28, 2008, 122 Stat. 292; Pub. L. 111–84, div. A, title XI, §1101, Oct. 28, 2009, 123 Stat. 2484; Pub. L. 112–239, div. A, title IX, §956, Jan. 2, 2013, 126 Stat. 1899; Pub. L. 115–91, div. A, title XVI, §1625, Dec. 12, 2017, 131 Stat. 1733; Pub. L. 118–31, div. G, title IX, §7901(c)(1), Dec. 22, 2023, 137 Stat. 1106.)
 
 #### <b>Editorial Notes</b>
 
@@ -206,13 +206,15 @@ In subsec. (a)(4), "section 6101 of title 41" substituted for "section 3709 of t
 
 #### Amendments
 
+<b>2023</b>—Subsec. (j)(6)(B) to (D). Pub. L. 118–31 redesignated subpars. (C) and (D) as (B) and (C), respectively, and substituted "subparagraph (C)" for "subparagraph (D)" in subpar. (B), as redesignated.
+
 <b>2017</b>—Subsec. (k)(2). Pub. L. 115–91, §1625(2), substituted "paragraph (4)(C)" for "paragraph (3)(C)" in introductory provisions.
 
 Subsec. (k)(3), (4). Pub. L. 115–91, §1625(1), (3), added par. (3) and redesignated former par. (3) as (4).
 
 <b>2013</b>—Subsec. (k). Pub. L. 112–239 amended subsec. (k) generally. Prior to amendment, text read as follows: "The Secretary of Defense, the Secretary of Homeland Security, the Secretary of State, or the head of a Federal agency or office identified by the Secretary of Defense under subsection (g) as having national security responsibilities—
 
-&emsp;"(1) may, without regard to any provision of title 5 governing appointments in the competitive service, appoint to a position that is identified under subsection (b)(2)(A)(i) as having national security responsibilities, or to a position in such Federal agency or office, in the excepted service an individual who has successfully completed an academic program forwhich a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment owes a service commitment to such Department or such Federal agency or office; and
+&emsp;"(1) may, without regard to any provision of title 5 governing appointments in the competitive service, appoint to a position that is identified under subsection (b)(2)(A)(i) as having national security responsibilities, or to a position in such Federal agency or office, in the excepted service an individual who has successfully completed an academic program for which a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment owes a service commitment to such Department or such Federal agency or office; and
 
 &emsp;"(2) may, upon satisfactory completion of two years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment."
 
@@ -264,7 +266,7 @@ Subsec. (a)(1)(B)(ii). Pub. L. 104–201, §1078(b)(2)(B), substituted "subsecti
 
 Subsec. (b). Pub. L. 104–201, §1078(c)(1), in introductory provisions, substituted "or any scholarship" for ", or of scholarships that provide assistance for periods that aggregate 12 months or more,".
 
-Subsec. (b)(2). Pub. L. 104–201, §1078(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "will, upon completion of such recipient's baccalaureate degree or education under the program, as the case may be, and in accordance with regulations issued by the Secretary, work for the Federal Government or in the field of education in the area of study for which the scholarship or fellowship was awarded for a period specified by the Secretary, which period for the recipients of scholarships shall be no more than the same period for which scholarship assistance was provided and for the recipients of fellowships shall be not less than one and not more than three times the period for which the fellowship assistance was provided; and".
+Subsec. (b)(2). Pub. L. 104–201, §1078(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "will, upon completion of such recipient's baccalaureate degree or education under the program, as the case may be, and in accordance with regulations issued by the Secretary, work for the Federal Government or in the field of education in the area of study for which the scholarship or fellowship was awarded for a period specified by the Secretary, which period for the recipients of scholarships shall be no more than thesame period for which scholarship assistance was provided and for the recipients of fellowships shall be not less than one and not more than three times the period for which the fellowship assistance was provided; and".
 
 Subsecs. (c) to (f). Pub. L. 104–201, §1078(d), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
@@ -308,6 +310,10 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Pub. L. 107–306, title III, §333(d), Nov. 27, 2002, 116 Stat. 2397, provided that: "Nothing in this section \[enacting section 1911 of this title, amending this section and section 1903 of this title, and enacting provisions set out as notes under this section\] shall be construed as affecting any program or project carried out under the David L. Boren National Security Education Act of 1991 \[50 U.S.C. 1901 et seq.\] as in effect on the date that precedes the date of the enactment of this Act \[Nov. 27, 2002\]."
 
+#### Coordination With Other Amendments Made by Pub. L. 118–31
+
+Pub. L. 118–31, div. G, title IX, §7901(k), Dec. 22, 2023, 137 Stat. 1107, provided that: "For purposes of applying amendments made by provisions of this Act other than this section, the amendments made by this section \[amending this section and sections 1903, 1908, 2021, 2093, 2111, 2154, 3024, 3093, 3164, 3232a, 3334l, 3341, 3361, 3363, 3381, 3505, 3507, 3512, 3517, 3519, 3519a, and 3614 of this title and provisions set out as a note under section 3024 of this title\] shall be treated as having been enacted immediately before any such amendments by other provisions of this Act \[see Tables for classification\]."
+
 #### Increase in Number of Participating Educational Institutions
 
 Pub. L. 108–487, title VI, §602(c), Dec. 23, 2004, 118 Stat. 3953, provided that: "The Secretary of Defense shall take such actions as the Secretary considers appropriate to increase the number of qualified educational institutions that receive grants under the National Flagship Language Initiative under section 802(i) of the David L. Boren National Security Education Act of 1991 \[50 U.S.C. 1902(i)\] to establish, operate, or improve activities designed to train students in programs in a range of disciplines to achieve advanced levels of proficiency in those foreign languages that the Secretary identifies as being the most critical to the national security of the United States."
@@ -315,6 +321,4 @@ Pub. L. 108–487, title VI, §602(c), Dec. 23, 2004, 118 Stat. 3953, provided t
 #### Clarification of Authority To Support Studies Abroad
 
 Pub. L. 108–487, title VI, §602(d), Dec. 23, 2004, 118 Stat. 3953, provided that: "Educational institutions that receive grants under the National Flagship Language Initiative may support students who pursue total immersion foreign language studies overseas of foreign languages that are critical to the national security of the United States."
-
-<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

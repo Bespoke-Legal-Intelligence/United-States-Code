@@ -330,7 +330,7 @@ In General.—The Administrator of the Federal Aviation Administration shall dev
 
 "(b)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Administrator $500,000 for each of fiscal years 2012 through 2015 to carry out this section."
+Authorization of Appropriations.—There is authorized to be appropriated to the Administrator$500,000 for each of fiscal years 2012 through 2015 to carry out this section."
 
 #### Rotorcraft Research and Development Initiative
 
@@ -338,7 +338,7 @@ Pub. L. 108–176, title VII, §711, Dec. 12, 2003, 117 Stat. 2585, provided tha
 
 "(a)
 
-Objective.—The Administrator of the Federal Aviation Administration shall establish a rotorcraftinitiative with the objective of developing, and demonstrating in a relevant environment, within 10 years after the date of the enactment of this Act \[Dec. 12, 2003\], technologies to enable rotorcraft with the following improvements relative to rotorcraft existing as of the date of the enactment of this Act:
+Objective.—The Administrator of the Federal Aviation Administration shall establish a rotorcraft initiative with the objective of developing, and demonstrating in a relevant environment, within 10 years after the date of the enactment of this Act \[Dec. 12, 2003\], technologies to enable rotorcraft with the following improvements relative to rotorcraft existing as of the date of the enactment of this Act:
 
 &emsp;"(1) 80 percent reduction in noise levels on takeoff and on approach and landing as perceived by a human observer.
 

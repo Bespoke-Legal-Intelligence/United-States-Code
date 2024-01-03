@@ -46,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;If requested by the President, the Board shall review in a timely manner certain records or declinations to declassify specific records, the declassification of which has been the subject of specific congressional request described in section 3355a(b)(5) of this title.
+&emsp;If requested by the President, the Board shall review in a timely manner certainrecords or declinations to declassify specific records, the declassification of which has been the subject of specific congressional request described in section 3355a(b)(5) of this title.
 
 #### (2) Authority of board
 

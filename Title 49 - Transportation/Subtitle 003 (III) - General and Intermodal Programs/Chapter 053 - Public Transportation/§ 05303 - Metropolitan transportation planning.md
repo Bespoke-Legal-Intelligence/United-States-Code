@@ -6,7 +6,7 @@ Policy.—It is in the national interest—
 
 &emsp;(1) to encourage and promote the safe and efficient management, operation, and development of resilient surface transportation systems that will serve the mobility needs of people and freight and foster economic growth and development within and between States and urbanized areas and better connect housing and employment, while minimizing transportation-related fuel consumption and air pollution through metropolitan and statewide transportation planning processes identified in this chapter; and
 
-&emsp;(2) to encourage the continued improvement and evolution of the metropolitan and statewide transportation planning processes by metropolitan planning organizations, State departments of transportation, and public transit operators as guided by the planning factors identified in subsection (h) and section 5304(d).
+&emsp;(2) to encourage the continued improvement and evolution of the metropolitan and statewide transportation planning processes by metropolitan planning organizations, Statedepartments of transportation, and public transit operators as guided by the planning factors identified in subsection (h) and section 5304(d).
 
 (b)
 
@@ -206,7 +206,7 @@ Relationship with other planning officials.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall encourage each metropolitan planning organization to consult with officials responsible for other types of planning activities that are affected by transportation in the area (including State and local planned growth, economic development, housing, tourism, natural disaster risk reduction, environmental protection, airport operations, and freight movements) or to coordinate its planning process, to the maximum extent practicable, with such planning activities.
+In general.—The Secretary shall encourage each metropolitan planning organization to consult with officials responsiblefor other types of planning activities that are affected by transportation in the area (including State and local planned growth, economic development, housing, tourism, natural disaster risk reduction, environmental protection, airport operations, and freight movements) or to coordinate its planning process, to the maximum extent practicable, with such planning activities.
 
 &emsp;&emsp;(B)
 
@@ -302,7 +302,7 @@ Requirements.—
 
 &emsp;&emsp;(A)
 
-In general.—Each metropolitan planning organization shall prepare and update a transportation plan for its metropolitan planning area in accordance with the requirements of this subsection.
+In general.—Each metropolitan planning organization shall prepare and update atransportation plan for its metropolitan planning area in accordance with the requirements of this subsection.
 
 &emsp;&emsp;(B)
 
@@ -610,7 +610,7 @@ No required selection.—Notwithstanding paragraph (2)(B)(iv), a State or metrop
 
 &emsp;&emsp;(B)
 
-Required action by the secretary.—Action by the Secretary shall be required for a State or metropolitan planning organization to select any project from the illustrative list of additional projects included in the financial plan under paragraph (2)(B)(iv) for inclusion in an approved TIP.
+Required action by the secretary.—Action by the Secretary shall be required fora State or metropolitan planning organization to select any project from the illustrative list of additional projects included in the financial plan under paragraph (2)(B)(iv) for inclusion in an approved TIP.
 
 &emsp;(7)
 
@@ -704,7 +704,7 @@ Housing coordination plan.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A metropolitan planning organization serving a transportation management area may develop a housing coordination plan that includes projects and strategies that may be considered in the metropolitan transportation plan of the metropolitan planning organization.
+In general.—A metropolitan planning organization serving a transportation management area may develop a housing coordination plan that includes projectsand strategies that may be considered in the metropolitan transportation plan of the metropolitan planning organization.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -782,7 +782,7 @@ Report on Performance-based Planning Processes.—
 
 &emsp;(1)
 
-In general.—The Secretary shall submit to Congress a report on the effectiveness of the performance-based planning processes of metropolitan planning organizations underthis section, taking into consideration the requirements of this subsection.
+In general.—The Secretary shall submit to Congress a report on the effectiveness of the performance-based planning processes of metropolitan planning organizations under this section, taking into consideration the requirements of this subsection.
 
 &emsp;(2)
 
@@ -1082,7 +1082,7 @@ Subsec. (f)(1)(B)(iii). Pub. L. 105–178, §3004(e)(1)(B), added cl. (iii) and 
 
 Subsec. (f)(1)(C). Pub. L. 105–178, §3004(e)(1)(C), added subpar. (C) and struck out former subpar. (C) which read as follows: "assess capital investment and other measures necessary—
 
-&emsp;"(i) to ensure the preservation of the existing metropolitan transportation system, including requirements for operational improvements, resurfacing,restoration, and rehabilitation of existing and future major roadways, and operations, maintenance, modernization, and rehabilitation of existing and future mass transportation facilities; and
+&emsp;"(i) to ensure the preservation of the existing metropolitan transportation system, including requirements for operational improvements, resurfacing, restoration, and rehabilitation of existing and future major roadways, and operations, maintenance, modernization, and rehabilitation of existing and future mass transportation facilities; and
 
 &emsp;"(ii) to use existing transportation facilities most efficiently to relieve vehicular congestion and maximize the mobility of individuals and goods; and".
 
@@ -1188,7 +1188,7 @@ Pub. L. 112–141, div. B, §20013(d), July 6, 2012, 126 Stat. 694, as amended b
 
 #### Schedule for Implementation
 
-Pub. L. 109–59, title III, §3005(b), Aug. 10, 2005, 119 Stat. 1559, required the Secretary of Transportation toissue guidance on a schedule for implementation of the changes made to this section by section 3005(a) of Pub. L. 109–59 and required State or metropolitan planning organization plan or program updates to reflect such changes beginning July 1, 2007.
+Pub. L. 109–59, title III, §3005(b), Aug. 10, 2005, 119 Stat. 1559, required the Secretary of Transportation to issue guidance on a schedule for implementation of the changes made to this section by section 3005(a) of Pub. L. 109–59 and required State or metropolitan planning organization plan or program updates to reflect such changes beginning July 1, 2007.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

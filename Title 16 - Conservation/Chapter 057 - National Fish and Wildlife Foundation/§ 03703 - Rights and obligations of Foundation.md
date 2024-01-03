@@ -42,7 +42,7 @@ The Foundation shall have an official seal selected by the Board which shall be 
 
 &emsp;&emsp;(I) to sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the Directors of the Foundation shall not be personally liable, except for gross negligence;
 
-&emsp;&emsp;(J) to enter into contracts or other arrangements with public agencies and private organizations and persons and to make such payments as may be necessary to carry out its function; and
+&emsp;&emsp;(J) to enter into contracts or other arrangements with public agencies and private organizations and persons and to make such payments as may be necessary to carry out its function; and <sup>1</sup>
 
 &emsp;&emsp;(K) to receive and administer restitution and community service payments, amounts for mitigation of impacts to natural resources, and other amounts arising from legal, regulatory, or administrative proceedings, subject to the condition that the amounts are received or administered for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources; and
 
@@ -86,7 +86,7 @@ No lands or waters, or interests therein, that are owned by the Foundation and a
 
 &emsp;(i) the conveyance or provision is subject to terms and conditions that will ensure that the real property will be administered for the long-term conservation and management of fish and wildlife and in a manner that will provide for appropriate public access and use; and
 
-&emsp;(ii) the Foundation notifies the Federal agency that administers the Federal program under which the funds were provided of the proposed conveyance or provision of Federal funds, and the agency does not object in writing to the proposed conveyance or provision of Federal funds within 60 calendar days after the date of the notification.
+&emsp;(ii) the Foundation notifies the Federal agency that administers the Federal program under which the funds were provided of the proposed conveyance or provision of Federal funds, and the agency does not object in writing to the proposed conveyance or provision ofFederal funds within 60 calendar days after the date of the notification.
 
 (4) All real property acquired by the Foundation in whole or in part with Federal funds and held by it shall be administered for the conservation and management of fish and wildlife and in a manner that will provide for appropriate public access and use.
 
@@ -207,4 +207,6 @@ Pub. L. 105–277, div. A, §101(b) \[title IX, §902\], Oct. 21, 1998, 112 Stat
 #### Draw Down of Federal Funds; Exemption From Audit Requirements
 
 Pub. L. 102–440, title III, §304, Oct. 23, 1992, 106 Stat. 2235, which provided that the National Fish and Wildlife Foundation could continue to draw down Federal funds when matching requirements had been met, that interest earned on funds already drawn down was to be used to fund all activities as approved by the Board of Directors, and that Foundation subgrantees would be exempt from the audit reporting and compliance requirements of OMB Circular A–133, for all grants of $100,000 or less, was repealed by Pub. L. 106–408, title II, §204(d), Nov. 1, 2000, 114 Stat. 1779.
+
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

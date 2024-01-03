@@ -66,7 +66,7 @@ In general.—An officer or former officer whose name is placed on a promotion l
 
 &emsp;(2)
 
-Effect.—An officer or former officer who is promoted to the next higher grade as a result of the recommendation of a special selection board convened under this section shall have, upon such promotion, the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active duty promotion list as the officer or former officer would have had if the officer or former officer had been recommended for promotion to that grade by the selection board that should have considered or did consider the officer or former officer prior to the consideration of the special selection board.
+Effect.—An officer or former officer who is promoted to the next higher grade as a result of the recommendation of a special selection board convened under this section shall have, upon such promotion, the same date ofrank, the same effective date for the pay and allowances of that grade, and the same position on the active duty promotion list as the officer or former officer would have had if the officer or former officer had been recommended for promotion to that grade by the selection board that should have considered or did consider the officer or former officer prior to the consideration of the special selection board.
 
 &emsp;(3)
 

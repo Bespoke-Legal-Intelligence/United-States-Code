@@ -12,7 +12,7 @@ With respect to this chapter, the Administrator is authorized to—
 
 &emsp;(2) accept gifts and voluntary and uncompensated services, notwithstanding the provisions of section 1342 of title 31;
 
-&emsp;(3) purchase, lease, or otherwise acquire, own, hold, improve, use, or deal in and withany property (real, personal, or mixed, tangible or intangible), or interest in property, wherever situated; and sell, convey, mortgage, pledge, lease, exchange, or otherwise dispose of property and assets;
+&emsp;(3) purchase, lease, or otherwise acquire, own, hold, improve, use, or deal in and with any property (real, personal, or mixed, tangible or intangible), or interest in property, wherever situated; and sell, convey, mortgage, pledge, lease, exchange, or otherwise dispose of property and assets;
 
 &emsp;(4) procure temporary and intermittent services to the same extent as is authorized under section 3109 of title 5, but at rates not to exceed the daily equivalent of the maximum annual rate of basic pay then in effect for grade GS–15 of the General Schedule (5 U.S.C. 5332(a)) for qualified experts; and
 

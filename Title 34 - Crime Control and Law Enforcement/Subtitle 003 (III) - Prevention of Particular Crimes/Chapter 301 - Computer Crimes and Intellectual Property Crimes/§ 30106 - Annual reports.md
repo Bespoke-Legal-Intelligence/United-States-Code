@@ -82,7 +82,7 @@ The first report required to be submitted by the Attorney General under subsecti
 
 #### (c) Report of the FBI
 
-Not later than 1 year after October 13, 2008, and annually thereafter, the Director of the Federal Bureau of Investigation shall submit a report to Congress on actions taken to carry out sections 30103 to 30106 of this title. The initial report required under this subsection shall be submitted by May 1, 2009. All subsequent annualreports shall be submitted by May 1st of each fiscal year thereafter. The report required under this subsection may be submitted as part of the annual performance report of the Department of Justice, and shall include—
+Not later than 1 year after October 13, 2008, and annually thereafter, the Director of the Federal Bureau of Investigation shall submit a report to Congress on actions taken to carry out sections 30103 to 30106 of this title. The initial report required under this subsection shall be submitted by May 1, 2009. All subsequent annual reports shall be submitted by May 1st of each fiscal year thereafter. The report required under this subsection may be submitted as part of the annual performance report of the Department of Justice, and shall include—
 
 &emsp;(1) a review of the policies and efforts of the Bureau related to the prevention and investigation of intellectual property crimes;
 
@@ -126,7 +126,7 @@ The first report required to be submitted by the Director of the Federal Bureau 
 
 &emsp;&emsp;&emsp;(iii) the sentence and the statutory maximum for such crime, as well as the average sentence imposed for such crime; and
 
-&emsp;(4) a Bureau-wide assessment of the staff, financial resources, and other resources (such as time, technology, and training) devoted to the enforcement, investigation, and prosecution of intellectual property crimes, including the number of investigators, prosecutors, and forensic specialists dedicated to investigating and prosecuting intellectual property crimes.
+&emsp;(4) a Bureau-wide assessment of the staff, financial resources, and other resources (such as time, technology, and training) devoted to the enforcement, investigation, and prosecution ofintellectual property crimes, including the number of investigators, prosecutors, and forensic specialists dedicated to investigating and prosecuting intellectual property crimes.
 
 (Pub. L. 110–403, title IV, §404, Oct. 13, 2008, 122 Stat. 4274.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Contents
 
-Not later than 1 year after March 23, 2010, the Secretary, acting through the Service, and the Secretary of the Interior shall develop and enter into a memoranda <sup>1</sup> of agreement, or review andupdate any existing memoranda of agreement, as required by section 4205 of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 (25 U.S.C. 2411) under which the Secretaries address the following:
+Not later than 1 year after March 23, 2010, the Secretary, acting through the Service, and the Secretary of the Interior shall develop and enter into a memoranda <sup>1</sup> of agreement, or review and update any existing memoranda of agreement, as required by section 4205 of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 (25 U.S.C. 2411) under which the Secretaries address the following:
 
 &emsp;(1) The scope and nature of mental illness and dysfunctional and self-destructive behavior, including child abuse and family violence, among Indians.
 

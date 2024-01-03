@@ -8,7 +8,7 @@ There are authorized to be appropriated out of any moneys in the Treasury not ot
 
 #### References in Text
 
-Section 4336(d) of this title, referred to in text, authorized Attorney General to cover into the Treasurycertain sums for deposit into War Claims Fund, prior to repeal by Pub. L. 100–418, title II, §2501(a)(1), Aug. 23, 1988, 102 Stat. 1371. See section 4336(b) of this title.
+Section 4336(d) of this title, referred to in text, authorized Attorney General to cover into the Treasury certain sums for deposit into War Claims Fund, prior to repeal by Pub. L. 100–418, title II, §2501(a)(1), Aug. 23, 1988, 102 Stat. 1371. See section 4336(b) of this title.
 
 #### Codification
 

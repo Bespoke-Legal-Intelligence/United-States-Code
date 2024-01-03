@@ -76,7 +76,7 @@ The Secretary shall establish, in accordance with this section, a program to exp
 
 #### (2) Criteria
 
-&emsp;Criteria for a grant awarded under this subsection shall be based on the potential for increasing the number and academic quality ofgraduates in the nuclear sciences who enter into careers in nuclear-related fields.
+&emsp;Criteria for a grant awarded under this subsection shall be based on the potential for increasing the number and academic quality of graduates in the nuclear sciences who enter into careers in nuclear-related fields.
 
 #### (3) Duration and amount
 

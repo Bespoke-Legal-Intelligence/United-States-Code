@@ -6,7 +6,7 @@ As part of the Program described in subchapter I, the Secretary of Energy shall�
 
 &emsp;(2) provide computing and networking infrastructure support, including—
 
-&emsp;&emsp;(A) the provision of high-end computing systems that are among the most advanced in the world in terms of performance in solving scientific and engineering problems; and
+&emsp;&emsp;(A) the provision of high-end computing systems that are among the most advancedin the world in terms of performance in solving scientific and engineering problems; and
 
 &emsp;&emsp;(B) support for advanced software and applications development for science and engineering disciplines related to energy applications.
 
@@ -24,5 +24,5 @@ Par. (2)(A). Pub. L. 114–329, §105(l)(3), substituted "high-end" for "high-pe
 
 <b>2005</b>—Pub. L. 109–58 reenacted section catchline without change and amended text generally, substituting provisions relating to general responsibilities and authorization of appropriations for provisions relating to general responsibilities, establishment of High-Performance Computing Research and Development Collaborative Consortia, transfer of technology to private sector and others, reports on activities, and authorization of appropriations.
 
-<b>1995</b>—Subsec. (d). Pub. L. 104–66 amended heading and text of subsec. (d) generally. Prior to amendment, textread as follows: "Within one year after December 9, 1991, and every year thereafter, the Secretary of Energy shall transmit to the Congress a report on activities taken to carry out this chapter."
+<b>1995</b>—Subsec. (d). Pub. L. 104–66 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "Within one year after December 9, 1991, and every year thereafter, the Secretary of Energy shall transmit to the Congress a report on activities taken to carry out this chapter."
 

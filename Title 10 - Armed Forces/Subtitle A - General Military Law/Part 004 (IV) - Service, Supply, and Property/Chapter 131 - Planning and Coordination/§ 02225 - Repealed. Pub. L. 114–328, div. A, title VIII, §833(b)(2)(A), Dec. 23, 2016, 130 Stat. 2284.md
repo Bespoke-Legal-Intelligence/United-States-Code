@@ -6,7 +6,7 @@ Section, added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(1)\], O
 
 #### Time for Implementation; Applicability
 
-Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, which provided that the Secretary of Defense was to collect data as required under section 2225 of this title for all contractual actions covered by such section entered into on or after Oct. 30, 2000, was repealed by Pub. L. 114–328, div. A, title VIII, §833(b)(2)(C)(i), Dec. 23, 2016, 130 Stat. 2284.
+Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, which provided that the Secretary of Defense was to collect data as requiredunder section 2225 of this title for all contractual actions covered by such section entered into on or after Oct. 30, 2000, was repealed by Pub. L. 114–328, div. A, title VIII, §833(b)(2)(C)(i), Dec. 23, 2016, 130 Stat. 2284.
 
 #### GAO Report
 

@@ -32,7 +32,7 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;&emsp;&emsp;(ii) who does not have a legal guardian, conservator, or other legal representative, or for whom the legal guardian is the State; and
 
-&emsp;&emsp;&emsp;(iii) with respect to whom a complaint has been received by the system or withrespect to whom as a result of monitoring or other activities (either of which result from a complaint or other evidence) there is probable cause to believe that such individual has been subject to abuse or neglect; and
+&emsp;&emsp;&emsp;(iii) with respect to whom a complaint has been received by the system or with respect to whom as a result of monitoring or other activities (either of which result from a complaint or other evidence) there is probable cause to believe that such individual has been subject to abuse or neglect; and
 
 &emsp;&emsp;(C) any individual with a mental illness, who has a legal guardian, conservator, or other legal representative, with respect to whom a complaint has been received by the system or with respect to whom there is probable cause to believe the health or safety of the individual is in serious and immediate jeopardy, whenever—
 

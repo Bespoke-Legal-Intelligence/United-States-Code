@@ -48,7 +48,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
 #### Open Enrollment Season for Participants in the Central Intelligence Agency Retirement and Disability System
 
-The Director to provide an open enrollment period for employee participants in the Central IntelligenceAgency Retirement and Disability System to elect the Federal Employees' Retirement System, see Ex. Ord. No. 13105, §2, Nov. 2, 1998, 63 F.R. 60201, set out as a note under section 4067 of Title 22, Foreign Relations and Intercourse.
+The Director to provide an open enrollment period for employee participants in the Central Intelligence Agency Retirement and Disability System to elect the Federal Employees' Retirement System, see Ex. Ord. No. 13105, §2, Nov. 2, 1998, 63 F.R. 60201, set out as a note under section 4067 of Title 22, Foreign Relations and Intercourse.
 
 #### Ex. Ord. No. 13236. Waiver of Dual Compensation Provisions
 

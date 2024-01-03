@@ -2,7 +2,7 @@
 
 #### (a) Notification to financial institution of error
 
-If a financial institution, within sixty days after having transmitted to a consumer documentation pursuant to section 1693d(a), (c), or\(d) of this title or notification pursuant to section 1693d(b) of this title, receives oral or written notice in which the consumer—
+If a financial institution, within sixty days after having transmitted to a consumer documentation pursuant to section 1693d(a), (c), or (d) of this title or notification pursuant to section 1693d(b) of this title, receives oral or written notice in which the consumer—
 
 &emsp;(1) sets forth or otherwise enables the financial institution to identify the name and account number of the consumer;
 

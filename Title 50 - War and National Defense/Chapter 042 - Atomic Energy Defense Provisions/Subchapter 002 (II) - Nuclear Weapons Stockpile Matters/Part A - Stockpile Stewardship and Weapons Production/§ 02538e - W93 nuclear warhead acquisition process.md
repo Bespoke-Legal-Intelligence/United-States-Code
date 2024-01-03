@@ -62,7 +62,7 @@ Not later than 15 days after the date on which the Nuclear Weapons Council appro
 
 &emsp;&emsp;(B) the proposed design for the weapon can be carried out within estimated schedule and cost objectives; and
 
-&emsp;(2) the Commander of the United States Strategic Command shall submit to the congressional defense committees a report containing, or provide to such committees a briefing on, the requirements for weapon quantityand composition by type for the sub-surface ballistic nuclear (SSBN) force, including such requirements planned for the 15-year period following the date of the report or briefing, as the case may be, including any planned life extensions, retirements, or alterations.
+&emsp;(2) the Commander of the United States Strategic Command shall submit to the congressional defense committees a report containing, or provide to such committees a briefing on, the requirements for weapon quantity and composition by type for the sub-surface ballistic nuclear (SSBN) force, including such requirements planned for the 15-year period following the date of the report or briefing, as the case may be, including any planned life extensions, retirements, or alterations.
 
 #### (c) Waivers
 

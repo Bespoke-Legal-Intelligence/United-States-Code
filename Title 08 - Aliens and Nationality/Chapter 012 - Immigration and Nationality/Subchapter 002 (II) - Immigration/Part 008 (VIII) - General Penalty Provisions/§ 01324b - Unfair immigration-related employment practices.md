@@ -104,7 +104,7 @@
 
 #### (2) Authority of administrative law judges
 
-&emsp;In conducting investigations and hearings under this subsection <sup>1</sup> and in accordance with regulations of the Attorney General, the Special Counsel and administrative law judges shall have reasonable access to examine evidence of any person or entity being investigated. The administrative law judges by subpoena may compel the attendance of witnesses and the production of evidence at any designated place or hearing. In case of contumacy or refusal to obey a subpoena lawfully issued under this paragraph and upon application of the administrative law judge, an appropriate district court of the United States may issuean order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
+&emsp;In conducting investigations and hearings under this subsection <sup>1</sup> and in accordance with regulations of the Attorney General, the Special Counsel and administrative law judges shall have reasonable access to examine evidence of any person or entity being investigated. The administrative law judges by subpoena may compel the attendance of witnesses and the production of evidence at any designated place or hearing. In case of contumacy or refusal to obey a subpoena lawfully issued under this paragraph and upon application of the administrative law judge, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
 
 #### (g) Determinations
 
@@ -146,7 +146,7 @@
 
 #### (C) Limitation on back pay remedy
 
-&emsp;&emsp;In providing a remedy under subparagraph (B)(iii), back pay liability shall not accrue from a date more than two years prior to the date of the filing of a charge with the Special Counsel. Interim earnings or amounts earnable with reasonable diligence by the individual or individuals discriminated against shall operate to reduce the back pay otherwise allowable under such paragraph. No order shall require the hiring of an individual as an employee or the payment to an individual of any back pay, if the individual was refused employment for any reason other than discrimination on account of national origin or citizenship status.
+&emsp;&emsp;In providing a remedy under subparagraph (B)(iii), back pay liability shall not accrue from a date more than two years prior to the date of the filing of a charge with the Special Counsel. Interim earnings or amounts earnable with reasonable diligence by the individual or individuals discriminated against shall operate to reduce the back pay otherwise allowable under such paragraph. No order shall require the hiring of an individual as an employee or the payment to an individual of any back pay, if the individual was refused employment for any reasonother than discrimination on account of national origin or citizenship status.
 
 #### (D) Treatment of distinct entities
 
@@ -168,7 +168,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### (2) Further review
 
-&emsp;Upon the filing of the record with the court, the jurisdiction of the court shall be exclusive and its judgment shall be final, except thatthe same shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification as provided in section 1254 of title 28.
+&emsp;Upon the filing of the record with the court, the jurisdiction of the court shall be exclusive and its judgment shall be final, except that the same shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification as provided in section 1254 of title 28.
 
 #### (j) Court enforcement of administrative orders
 
@@ -324,7 +324,7 @@ Pub. L. 101–649, title V, §539(b), Nov. 29, 1990, 104 Stat. 5057, provided th
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Actof 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

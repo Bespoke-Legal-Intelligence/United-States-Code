@@ -54,7 +54,7 @@ Nothing in this section shall be construed to authorize any refunding of any can
 
 #### (f) List
 
-If the list of schools in which a teacher may perform service pursuant to subsection (b) is notavailable before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
+If the list of schools in which a teacher may perform service pursuant to subsection (b) is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
 
 #### (g) Additional eligibility provisions
 
@@ -78,7 +78,7 @@ If the list of schools in which a teacher may perform service pursuant to subsec
 
 #### (3) Private school teachers
 
-&emsp;An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 9101 <sup>1</sup> of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\], and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
+&emsp;An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highlyqualified teacher requirements under section 9101 <sup>1</sup> of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\], and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
 
 #### (h) "Year" defined
 

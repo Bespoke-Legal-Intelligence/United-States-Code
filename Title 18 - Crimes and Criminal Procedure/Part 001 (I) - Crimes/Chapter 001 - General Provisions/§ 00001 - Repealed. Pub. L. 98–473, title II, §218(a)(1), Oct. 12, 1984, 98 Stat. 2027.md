@@ -10,6 +10,8 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2023 Amendment
 
+Pub. L. 118–31, div. E, title LI, §5102(a), Dec. 22, 2023, 137 Stat. 933, provided that: "This section \[amending sections 2423 and 2427 of this title and enacting provisions set out as a note under section 2423 of this title\] may be cited as the 'Preventing Child Sex Abuse Act of 2023'."
+
 Pub. L. 117–351, §1, Jan. 5, 2023, 136 Stat. 6265, provided that: "This Act \[amending section 2441 of this title\] may be cited as the 'Justice for Victims of War Crimes Act'."
 
 #### Short Title of 2022 Amendment
@@ -46,7 +48,7 @@ Pub. L. 116–309, §1, Jan. 5, 2021, 134 Stat. 4922, provided that: "This Act \
 
 Pub. L. 116–260, div. O, title X, §1001, Dec. 27, 2020, 134 Stat. 2155, provided that: "This title \[repealing chapter 89 and sections 46, 511A, 707, 708, 711, 711a, 715, and 1921 of this title\] may be cited as the 'Clean Up the Code Act of 2019'."
 
-Pub. L. 116–249, §1, Dec. 22, 2020, 134 Stat. 1126, provided that: "This Act \[enacting section 2261B of thistitle and amending section 2261A of this title\] may be cited as the 'Combat Online Predators Act'."
+Pub. L. 116–249, §1, Dec. 22, 2020, 134 Stat. 1126, provided that: "This Act \[enacting section 2261B of this title and amending section 2261A of this title\] may be cited as the 'Combat Online Predators Act'."
 
 Pub. L. 116–179, §1, Oct. 20, 2020, 134 Stat. 855, provided that: "This Act \[amending section 1030 of this title\] may be cited as the 'Defending the Integrity of Voting Systems Act'."
 
@@ -112,7 +114,7 @@ Pub. L. 113–12, §1, June 3, 2013, 127 Stat. 448, provided that: "This Act \[a
 
 Pub. L. 112–269, §1, Jan. 14, 2013, 126 Stat. 2442, provided that: "This Act \[amending section 1831 of this title and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Foreign and Economic Espionage Penalty Enhancement Act of 2012'."
 
-Pub. L. 112–258, §1, Jan. 10, 2013, 126 Stat. 2414, provided that: "This Act \[amending section 2710 of this title\] may be cited as the 'Video Privacy Protection Act Amendments Act of 2012'."
+Pub. L. 112–258, §1, Jan. 10, 2013, 126 Stat. 2414, provided that: "This Act \[amending section 2710 of thistitle\] may be cited as the 'Video Privacy Protection Act Amendments Act of 2012'."
 
 Pub. L. 112–257, §1, Jan. 10, 2013, 126 Stat. 2413, provided that: "This Act \[amending section 3056 of this title\] may be cited as the 'Former Presidents Protection Act of 2012'."
 
@@ -176,7 +178,7 @@ Pub. L. 110–22, §1, May 3, 2007, 121 Stat. 88, provided that: "This Act \[ena
 
 Pub. L. 109–481, §1, Jan. 12, 2007, 120 Stat. 3673, provided that: "This Act \[enacting section 706a of this title\] may be cited as the 'Geneva Distinctive Emblems Protection Act of 2006'."
 
-Pub. L. 109–476, §1, Jan. 12, 2007, 120 Stat. 3568, provided that: "This Act \[enacting section 1039 of this titleand provisions set out as a note under section 1039 of this title and amending provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Telephone Records and Privacy Protection Act of 2006'."
+Pub. L. 109–476, §1, Jan. 12, 2007, 120 Stat. 3568, provided that: "This Act \[enacting section 1039 of this title and provisions set out as a note under section 1039 of this title and amending provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Telephone Records and Privacy Protection Act of 2006'."
 
 #### Short Title of 2006 Amendment
 
@@ -246,7 +248,7 @@ Pub. L. 100–690, title VII, §7011, Nov. 18, 1988, 102 Stat. 4395, provided th
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–185, §1, Dec. 11, 1987, 101 Stat. 1279, provided that: "This Act \[enacting section 19 of this title,amending sections 18, 3013, 3559, 3571, 3572, 3573, 3611, 3612, and 3663 of this title and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under section 3611 of this title\] may be cited as the 'Criminal Fine Improvements Act of 1987'."
+Pub. L. 100–185, §1, Dec. 11, 1987, 101 Stat. 1279, provided that: "This Act \[enacting section 19 of this title, amending sections 18, 3013, 3559, 3571, 3572, 3573, 3611, 3612, and 3663 of this title and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under section 3611 of this title\] may be cited as the 'Criminal Fine Improvements Act of 1987'."
 
 #### Short Title of 1986 Amendment
 

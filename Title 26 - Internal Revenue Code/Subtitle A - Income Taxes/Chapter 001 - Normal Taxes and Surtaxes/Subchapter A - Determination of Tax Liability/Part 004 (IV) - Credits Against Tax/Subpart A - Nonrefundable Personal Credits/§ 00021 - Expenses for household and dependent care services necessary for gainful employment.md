@@ -208,7 +208,7 @@ In the case of any taxable year beginning after December 31, 2020, and before Ja
 
 #### (2) Payments to other possessions
 
-&emsp;The Secretary shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of this section with respect to taxable years beginning inor with 2021 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary, under which such possession will promptly distribute such payments to its residents.
+&emsp;The Secretary shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of this section with respect to taxable years beginning in or with 2021 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary, under which such possession will promptly distribute such payments to its residents.
 
 #### (3) Coordination with credit allowed against United States income taxes
 
@@ -388,7 +388,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 "(2)
 
-Special rule for cafeteria plans.—For purposes of section 125 of the Internal Revenue Code of 1986, a plan shall not be treated as failing to be a cafeteria plan solely because under the plan a participant elected before January 1, 1988, to receive reimbursement under the plan for dependent care assistance forperiods after December 31, 1987, and such assistance included reimbursement for expenses at a camp where the dependent stays overnight."
+Special rule for cafeteria plans.—For purposes of section 125 of the Internal Revenue Code of 1986, a plan shall not be treated as failing to be a cafeteria plan solely because under the plan a participant elected before January 1, 1988, to receive reimbursement under the plan for dependent care assistance for periods after December 31, 1987, and such assistance included reimbursement for expenses at a camp where the dependent stays overnight."
 
 #### Effective Date of 1986 Amendment
 

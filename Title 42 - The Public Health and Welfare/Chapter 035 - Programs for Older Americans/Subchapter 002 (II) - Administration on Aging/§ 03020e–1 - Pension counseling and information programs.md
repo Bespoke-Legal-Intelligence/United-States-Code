@@ -168,3 +168,9 @@ Subsec. (f)(2). Pub. L. 109–365, §209(2), added par. (2) and struck out forme
 
 Subsec. (h)(2). Pub. L. 109–365, §209(3), inserted "(including individuals with limited English proficiency)" after "for individuals".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+

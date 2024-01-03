@@ -12,13 +12,13 @@ Denial of Funds for Preventing ROTC Access to Campus.—No funds described in su
 
 Denial of Funds for Preventing Military Recruiting on Campus.—No funds described in subsection (d)(1) may be provided by contract or by grant to an institution of higher education (including any subelement of such institution) if the Secretary of Defense determines that that institution (or any subelement of that institution) has a policy or practice (regardless of when implemented) that either prohibits, or in effect prevents—
 
-&emsp;(1) the Secretary of a military department or the Secretary of Homeland Security from gaining access to campuses, or access to students (who are 17 years of age or older) on campuses, for purposes of military recruiting in a manner that is at least equal in quality and scope to the access to campuses and to students that is provided to any other employer; or
+&emsp;(1) the Secretary of a military department or the Secretary of Homeland Security from gaining access to campuses, or access to students (who are 17 years of age or older) on campuses, for purposes of military recruiting in a manner that is at least equal in quality and scope to the access to campuses and to students that is provided to any other employer;
 
-&emsp;(2) access by military recruiters for purposes of military recruiting to the following information pertaining to students (who are 17 years of age or older) enrolled at that institution (or any subelement of that institution):
+&emsp;(2) access by military recruiters for purposes of military recruiting, with respect to students (who are 17 years of age or older) enrolled at that institution (or any subelement of that institution)—
 
-&emsp;&emsp;(A) Names, addresses, electronic mail addresses (which shall be the electronic mail addresses provided by the institution, if available), and telephone listings.
+&emsp;&emsp;(A) names, addresses, electronic mail addresses (which shall be the electronic mail addresses provided by the institution, if available), and telephone listings, which information shall be made available not later than the 60th day following the date of a request; and
 
-&emsp;&emsp;(B) Date and place of birth, levels of education, academic majors, degrees received, and the most recent educational institution enrolled in by the student.
+&emsp;&emsp;(B) date and place of birth, levels of education, academic majors, degrees received, and the most recent educational institution enrolled in by the student.
 
 (c)
 
@@ -54,7 +54,7 @@ Notice of Determinations.—Whenever the Secretary of Defense makes a determinat
 
 &emsp;(2) shall publish in the Federal Register a notice of the determination and the effect of the determination on the eligibility of the institution of higher education (and any subelement of that institution) for contracts and grants.
 
-(Added Pub. L. 104–106, div. A, title V, §541(a), Feb. 10, 1996, 110 Stat. 315; amended Pub. L. 106–65, div. A, title V, §549(a)(1), Oct. 5, 1999, 113 Stat. 609; Pub. L. 107–296, title XVII, §1704(b)(1), (3), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §552(a)–(d), Oct. 28, 2004, 118 Stat. 1911, 1912; Pub. L. 112–81, div. A, title X, §1061(11), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 112–239, div. A, title V, §586, title X, §1076(f)(10), Jan. 2, 2013, 126 Stat. 1768, 1952; Pub. L. 116–283, div. A, title V, §521(b), Jan. 1, 2021, 134 Stat. 3597.)
+(Added Pub. L. 104–106, div. A, title V, §541(a), Feb. 10, 1996, 110 Stat. 315; amended Pub. L. 106–65, div. A, title V, §549(a)(1), Oct. 5, 1999, 113 Stat. 609; Pub. L. 107–296, title XVII, §1704(b)(1), (3), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §552(a)–(d), Oct. 28, 2004, 118 Stat. 1911, 1912; Pub. L. 112–81, div. A, title X, §1061(11), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 112–239, div. A, title V, §586, title X, §1076(f)(10), Jan. 2, 2013, 126 Stat. 1768, 1952; Pub. L. 116–283, div. A, title V, §521(b), Jan. 1, 2021, 134 Stat. 3597; Pub. L. 118–31, div. A, title V, §543, Dec. 22, 2023, 137 Stat. 265.)
 
 #### <b>Editorial Notes</b>
 
@@ -64,9 +64,17 @@ Section 654 of this title, referred to in subsec. (a)(1), was repealed by Pub. L
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amended, and Pub. L. 104–208, div. A, title I, §101(e) \[title V, §514\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–270, which were set out as notes under section 503 of this title, prior to repeal by Pub. L. 106–65, §549(b).
+Provisions similar to those in this section were contained in Pub. L. 103–337, div. A, title V, §558, Oct. 5,1994, 108 Stat. 2776, as amended, and Pub. L. 104–208, div. A, title I, §101(e) \[title V, §514\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–270, which were set out as notes under section 503 of this title, prior to repeal by Pub. L. 106–65, §549(b).
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(1). Pub. L. 118–31, §543(1), substituted "employer;" for "employer; or".
+
+Subsec. (b)(2). Pub. L. 118–31, §543(2)(A), (B), in introductory provisions, substituted ", with respect" for "to the following information pertaining" and "institution)—" for "institution):".
+
+Subsec. (b)(2)(A). Pub. L. 118–31, §543(2)(C), substituted "names" for "Names" and "telephone listings, which information shall be made available not later than the 60th day following the date of a request; and" for "telephone listings.".
+
+Subsec. (b)(2)(B). Pub. L. 118–31, §543(2)(D), substituted "date" for "Date".
 
 <b>2021</b>—Subsec. (b)(2)(A). Pub. L. 116–283 substituted "electronic mail addresses (which shall be the electronic mail addresses provided by the institution, if available), and telephone listings" for "and telephone listings".
 
@@ -100,7 +108,7 @@ Subsec. (e)(1). Pub. L. 108–375, §552(b)(2)(B), inserted ", to the head of e
 
 Subsec. (d)(2)(B). Pub. L. 107–296, §1704(b)(3), substituted "Department of Homeland Security" for "Department of Transportation".
 
-<b>1999</b>—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to denial of Departmentof Defense grants and contracts to institutions of higher education that have anti-ROTC policies.
+<b>1999</b>—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to denial of Department of Defense grants and contracts to institutions of higher education that have anti-ROTC policies.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -32,7 +32,7 @@ Section was formerly classified to section 16 of the former Appendix to this tit
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–195 substituted "if a natural person, be imprisoned for not more than 20 years, or both." for "if a natural person, be fined not more than $100,000, or imprisoned for not more than ten years or both; and the officer, director, or agent of any corporation who knowingly participates in such violation shall, upon conviction, be fined not more than $100,000 or imprisoned for not more than ten years or both."
+<b>2010</b>—Subsec. (a). Pub. L. 111–195 substituted "if a natural person, be imprisoned for not more than 20 years, or both." for "if a natural person, be fined notmore than $100,000, or imprisoned for not more than ten years or both; and the officer, director, or agent of any corporation who knowingly participates in such violation shall, upon conviction, be fined not more than $100,000 or imprisoned for not more than ten years or both."
 
 <b>1996</b>—Pub. L. 104–114, §102(d)(3)(A), made technical amendment inserting section designation in original.
 

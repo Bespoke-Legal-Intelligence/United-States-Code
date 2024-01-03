@@ -38,7 +38,7 @@
 
 > &emsp;&emsp;and who is compensated in whole or in part, for the use of such common physical location or support services pertaining thereto, on a basis related to amounts charged or collected for the services rendered or ordered at such location or on any basis clearly unrelated to the value of the services provided by the person; and
 
-&emsp;&emsp;(D) at least one of such practitioners received payments on a fee-for-service basisunder subchapters XVIII and XIX in an amount exceeding $5,000 for any one month during the preceding 12 months or in an aggregate amount exceeding $40,000 during the preceding 12 months;
+&emsp;&emsp;(D) at least one of such practitioners received payments on a fee-for-service basis under subchapters XVIII and XIX in an amount exceeding $5,000 for any one month during the preceding 12 months or in an aggregate amount exceeding $40,000 during the preceding 12 months;
 
 > &emsp;except that such term does not include a provider of services (as defined in section 1395x(u) of this title), a health maintenance organization (as defined in section 300e(a) of this title), a hospital cooperative shared services organization meeting the requirements of section 501(e) of the Internal Revenue Code of 1986, or any public entity.
 
@@ -110,7 +110,7 @@ Subsec. (a)(8)(B). Pub. L. 94–273 substituted "October" for "July" in two plac
 
 Subsec. (a)(2). Pub. L. 87–543, §153(b), struck out ", the District of Columbia, and the Commonwealth of Puerto Rico" after "the States,".
 
-<b>1960</b>—Subsec. (a)(1). Pub. L. 86–778 substituted "The term 'State', except where otherwise provided, includes the District of Columbia and the Commonwealth of Puerto Rico" for "The term 'State' includes Hawaii, and the District of Columbia", and "includes the Virgin Islands and Guam" for "includes Puerto Rico, the Virgin Islands, and Guam".
+<b>1960</b>—Subsec. (a)(1). Pub. L. 86–778 substituted "The term 'State', except where otherwise provided, includes the District of Columbia and the Commonwealth of Puerto Rico" for "The term 'State' includes Hawaii, and the District of Columbia", and "includes the VirginIslands and Guam" for "includes Puerto Rico, the Virgin Islands, and Guam".
 
 Pub. L. 86–624, §30(d)(1), struck out "Hawaii, and" before "the District of Columbia".
 
@@ -204,7 +204,7 @@ For effective date, savings, and transitional provisions relating to amendment b
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–566 effective on the later of Oct. 1, 1976, or the day after the day on which the Secretary of Labor approves under section 3304(a) of Title 26, Internal Revenue Code, an unemployment compensation law submitted to him by the Virgin Islands for approval, see section 116(f)(1) of Pub. L. 94–566, set out as a note under section 3304 of Title 26.
+Amendment by Pub. L. 94–566 effective on the later of Oct. 1, 1976, or the day after the day on which the Secretary of Labor approves under section 3304(a) of Title26, Internal Revenue Code, an unemployment compensation law submitted to him by the Virgin Islands for approval, see section 116(f)(1) of Pub. L. 94–566, set out as a note under section 3304 of Title 26.
 
 #### Effective Date of 1973 Amendment
 
@@ -262,7 +262,7 @@ Provisions of the Internal Revenue Code of 1939 were generally repealed by secti
 
 #### Provisions Relating to Federal Security Administrator
 
-Pub. L. 98–369, div. B, title VI, §2663(l), July 18, 1984, 98 Stat. 1171, provided that: "Any reference to the Federal Security Administrator which may remain in the provisions of title II, IV, VII, or XI of the Social Security Act \[\[42 U.S.C. 401 et seq., 601 et seq., 901 et seq.,1301 et seq.\] (other than section 1101(a)(6) of such Act \[42 U.S.C. 1301(a)(6)\]) is amended—
+Pub. L. 98–369, div. B, title VI, §2663(l), July 18, 1984, 98 Stat. 1171, provided that: "Any reference to the Federal Security Administrator which may remain in the provisions of title II, IV, VII, or XI of the Social Security Act \[\[42 U.S.C. 401 et seq., 601 et seq., 901 et seq., 1301 et seq.\] (other than section 1101(a)(6) of such Act \[42 U.S.C. 1301(a)(6)\]) is amended—
 
 &emsp;"(1) by substituting 'Secretary' or 'Secretary's' for the term 'Administrator' or 'Administrator's', where the reference is to that term alone;
 
@@ -270,7 +270,7 @@ Pub. L. 98–369, div. B, title VI, §2663(l), July 18, 1984, 98 Stat. 1171, pro
 
 &emsp;"(3) by substituting 'Secretary of Health and Human Services' for the term 'Federal Security Administrator' in any other case where the reference is to that term;
 
-> and any reference to the Federal Security Agency which may remain in such provisions is amended by substituting 'Department of Health and Human Services' for the term 'Federal Security Agency'; but nothing in this subsection shall affect the exercise under section 402(a)(5) of such Act \[42 U.S.C. 602(a)(5)\] of the functions, powers, and duties relating to the prescription of personnel standards on a merit basis which were transferred from the Secretary of Health, Education, and Welfare by section 208(a)(3)(D) of Public Law 91–648 \[42 U.S.C. 4728(a)(3)(D)\]."
+> and any reference to the Federal Security Agency which may remain in such provisions is amended bysubstituting 'Department of Health and Human Services' for the term 'Federal Security Agency'; but nothing in this subsection shall affect the exercise under section 402(a)(5) of such Act \[42 U.S.C. 602(a)(5)\] of the functions, powers, and duties relating to the prescription of personnel standards on a merit basis which were transferred from the Secretary of Health, Education, and Welfare by section 208(a)(3)(D) of Public Law 91–648 \[42 U.S.C. 4728(a)(3)(D)\]."
 
 #### Definitions of "BIPA" and "Secretary"
 

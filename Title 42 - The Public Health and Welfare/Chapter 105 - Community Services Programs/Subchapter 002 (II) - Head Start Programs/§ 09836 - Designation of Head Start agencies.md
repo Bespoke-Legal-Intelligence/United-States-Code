@@ -368,6 +368,10 @@ Subsecs. (d) to (f). Pub. L. 98–558, §104(c), added subsecs. (d) and (e) and 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
@@ -378,7 +382,7 @@ Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Hea
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–401, §2(e)(2), Oct. 7, 1992, 106 Stat. 1957, provided that: "The amendment made by paragraph (1)\[amending this section\] shall apply only with respect to terminations of financial assistance, and denials of refunding, occurring after July 29, 1992."
+Pub. L. 102–401, §2(e)(2), Oct. 7, 1992, 106 Stat. 1957, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to terminations of financial assistance, and denials of refunding, occurring after July 29, 1992."
 
 Amendment by section 2(f)–(h) of Pub. L. 102–401 effective Oct. 7, 1992, but not applicable with respect to fiscal years beginning before Oct. 1, 1992, and amendment by section 2(e)(1) of Pub. L. 102–401 effective July 30, 1992, see section 4 of Pub. L. 102–401, set out as a note under section 9835 of this title.
 

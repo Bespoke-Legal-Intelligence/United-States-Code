@@ -20,7 +20,7 @@ An association of brokers and dealers shall not be registered as a national secu
 
 &emsp;(6) The rules of the association are designed to prevent fraudulent and manipulative acts and practices, to promote just and equitable principles of trade, to foster cooperation and coordination with persons engaged in regulating, clearing, settling, processing information with respect to, and facilitating transactions in securities, to remove impediments to and perfect the mechanism of a free and open market and a national market system, and, in general, to protect investors and the public interest; and are not designed to permit unfair discrimination between customers, issuers, brokers, or dealers, to fix minimum profits, to impose any schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members, or to regulate by virtue of any authority conferred by this chapter matters not related to the purposes of this chapter or the administration of the association.
 
-&emsp;(7) The rules of the association provide that (subject to any rule or order of the Commission pursuant to section 78q(d) or 78s(g)(2) of this title) its members and persons associated with its members shall be appropriately disciplined for violation of any provision of this chapter, the rules or regulations thereunder, the rules of the Municipal Securities Rulemaking Board, or the rules of the association,by expulsion, suspension, limitation of activities, functions, and operations, fine, censure, being suspended or barred from being associated with a member, or any other fitting sanction.
+&emsp;(7) The rules of the association provide that (subject to any rule or order of the Commission pursuant to section 78q(d) or 78s(g)(2) of this title) its members and persons associated with its members shall be appropriately disciplined for violation of any provision of this chapter, the rules or regulations thereunder, the rules of the Municipal Securities Rulemaking Board, or the rules of the association, by expulsion, suspension, limitation of activities, functions, and operations, fine, censure, being suspended or barred from being associated with a member, or any other fitting sanction.
 
 &emsp;(8) The rules of the association are in accordance with the provisions of subsection (h) of this section, and, in general, provide a fair procedure for the disciplining of members and persons associated with members, the denial of membership to any person seeking membership therein, the barring of any person from becoming associated with a member thereof, and the prohibition or limitation by the association of any person with respect to access to services offered by the association or a member thereof.
 
@@ -112,7 +112,7 @@ An applicant association shall not be registered as an affiliated securities ass
 
 (1) The rules of a registered securities association may provide that no member thereof shall deal with any nonmember professional (as defined in paragraph (2) of this subsection) except at the same prices, for the same commissions or fees, and on the same terms and conditions as are by such member accorded to the general public.
 
-(2) For the purposes of this subsection, the term "nonmember professional" shall include (A) with respect to transactions in securities other than municipal securities, any registered broker or dealer who is not a member of any registered securities association, except such a broker or dealer who deals exclusively in commercial paper, bankers' acceptances, and commercial bills, and (B) with respect to transactions in municipal securities, any municipal securities dealer (other than a bank or division or department of a bank) who is not a memberof any registered securities association and any municipal securities broker who is not a member of any such association.
+(2) For the purposes of this subsection, the term "nonmember professional" shall include (A) with respect to transactions in securities other than municipal securities, any registered broker or dealer who is not a member of any registered securities association, except such a broker or dealer who deals exclusively in commercial paper, bankers' acceptances, and commercial bills, and (B) with respect to transactions in municipal securities, any municipal securities dealer (other than a bank or division or department of a bank) who is not a member of any registered securities association and any municipal securities broker who is not a member of any such association.
 
 (3) Nothing in this subsection shall be so construed or applied as to prevent (A) any member of a registered securities association from granting to any other member of any registered securities association any dealer's discount, allowance, commission, or special terms, in connection with the purchase or sale of securities, or (B) any member of a registered securities association or any municipal securities dealer which is a bank or a division or department of a bank from granting to any member of any registered securities association or any such municipal securities dealer any dealer's discount, allowance, commission, or special terms in connection with the purchase or sale of municipal securities: <i>Provided, however</i>, That the granting of any such discount, allowance, commission, or special terms in connection with the purchase or sale of municipal securities shall be subject to rules of the Municipal Securities Rulemaking Board adopted pursuant to section 78o–4(b)(2)(K) of this title.
 
@@ -354,7 +354,7 @@ Subsec. (h). Pub. L. 88–467, §7(d), made the procedures and the Commission's 
 
 Subsec. (k)(2). Pub. L. 88–467, §7(e), inserted ", or with such modifications of such alteration or supplement as it deems necessary" after "in the manner theretofore requested", redesignated cls. (1) to (4) as (A) to (D), respectively, and inserted in cl. (A) "or the barring from being associated with a member" and "or persons associated with members, or the qualifications required for members or natural persons associated with members or any class thereof".
 
-Subsec. (l). Pub. L. 88–467, §7(f), substituted a period for a semicolon at end of par. (1) and inserted in par. (2)preceding cl. (A) ", or to suspend for a period not exceeding twelve months or to bar any person from being associated with a member thereof,".
+Subsec. (l). Pub. L. 88–467, §7(f), substituted a period for a semicolon at end of par. (1) and inserted in par. (2) preceding cl. (A) ", or to suspend for a period not exceeding twelve months or to bar any person from being associated with a member thereof,".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -386,12 +386,6 @@ Amendment by Pub. L. 94–29 effective 180 days after June 4, 1975, see section 
 
 Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L. 88–467, set out as a note under section 78c of this title.
 
-#### Construction of 1993 Amendment
-
-Amendment by section 106(b)(1) of Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78o–5 of this title.
-
-Amendment by section 303(a), (c) of Pub. L. 103–202 not to limit authority of Securities and Exchange Commission, a registered securities association or a national securities exchange under any provision of this chapter, or preclude the Commission or such association or exchange from imposing a remedy or procedure required to be imposed under such amendment, see section 304(b) of Pub. L. 103–202, set out in an Effective Date of 1993 Amendment note under section 78f of this title.
-
 #### Rulemaking
 
 Pub. L. 117–263, div. E, title LVIII, §5824(b), Dec. 23, 2022, 136 Stat. 3428, provided that:
@@ -411,6 +405,12 @@ Scaling of regulatory requirements; minimizing disruption.—In issuing the rule
 #### Rule of Construction—No New Disclosure Requirements
 
 Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
+
+#### Construction of 1993 Amendment
+
+Amendment by section 106(b)(1) of Pub. L. 103–202 not to be construed to govern initial issuance of any publicdebt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78o–5 of this title.
+
+Amendment by section 303(a), (c) of Pub. L. 103–202 not to limit authority of Securities and Exchange Commission, a registered securities association or a national securities exchange under any provision of this chapter, or preclude the Commission or such association or exchange from imposing a remedy or procedure required to be imposed under such amendment, see section 304(b) of Pub. L. 103–202, set out in an Effective Date of 1993 Amendment note under section 78f of this title.
 
 #### <b>Executive Documents</b>
 

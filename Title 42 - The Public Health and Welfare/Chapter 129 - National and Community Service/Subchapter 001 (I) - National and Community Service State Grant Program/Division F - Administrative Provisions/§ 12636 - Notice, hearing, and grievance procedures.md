@@ -16,7 +16,7 @@
 
 #### (b) Hearings
 
-Hearings or other meetings that may be necessary to fulfill the requirements of this section shall be held at locations convenient to the recipient of assistance under this subchapter.
+Hearings or other meetings that may be necessary to fulfill the requirements of this sectionshall be held at locations convenient to the recipient of assistance under this subchapter.
 
 #### (c) Transcript or recording
 
@@ -112,7 +112,7 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 #### (7) Enforcement
 
-&emsp;Suits to enforce arbitration awards under this section may be brought in any district court of the United States having jurisdiction of the parties, without regard to the amount in controversy and without regard to the citizenship of the parties.
+&emsp;Suits to enforce arbitration awards under this section may be brought in any districtcourt of the United States having jurisdiction of the parties, without regard to the amount in controversy and without regard to the citizenship of the parties.
 
 (Pub. L. 101–610, title I, §176, Nov. 16, 1990, 104 Stat. 3161; Pub. L. 103–82, title I, §116, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 863, 918; Pub. L. 111–13, title I, §1604, Apr. 21, 2009, 123 Stat. 1529.)
 

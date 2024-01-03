@@ -22,7 +22,7 @@ Regulations and Other Policies.—The Secretary of the Army shall prescribe such
 
 (e)
 
-Budgetary and Reporting Requirements.—The Secretary of the Army shall submit to the congressional defense committees and the Committees on Veterans' Affairs of the Senate and House of Representatives an annual budget request (and detailed justifications for theamount of the request) to fund administration, operation and maintenance, and construction related to the Cemeteries. The Secretary may include, as necessary, proposals for new or amended statutory authority related to the Cemeteries.
+Budgetary and Reporting Requirements.—The Secretary of the Army shall submit to the congressional defense committees and the Committees on Veterans' Affairs of the Senate and House of Representatives an annual budget request (and detailed justifications for the amount of the request) to fund administration, operation and maintenance, and construction related to the Cemeteries. The Secretary may include, as necessary, proposals for new or amended statutory authority related to the Cemeteries.
 
 (Added Pub. L. 112–81, div. A, title V, §591(a)(1), Dec. 31, 2011, 125 Stat. 1439, §4721; renumbered §7721, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
@@ -45,6 +45,36 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 #### Termination of Reporting Requirements
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this section relating to submitting annual budget request to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+
+#### Establishment of Caisson Platoon and Support for Military and State Funeral Services at Arlington National Cemetery
+
+Pub. L. 118–31, div. A, title III, §366, Dec. 22, 2023, 137 Stat. 234, provided that:
+
+"(a)
+
+Establishment.—There is established in the Department of the Army an equine unit, to be known as the 'Caisson Platoon', assigned to the 3rd Infantry Regiment of the Army. The duties of such unit shall include the provision of support for military and State funerals.
+
+"(b)
+
+Prohibitions on Elimination.—The Secretary of the Army may not eliminate the Caisson Platoon of the 3rd Infantry Regiment of the Army established under subsection (a).
+
+"(c)
+
+Briefings.—
+
+&emsp;"(1)
+
+Provision to congress.—Not later than 60 days after the date of the enactment of this Act \[Dec. 22, 2023\], and not less frequently than every 180 days thereafter until March 31, 2027, the Secretary of the Army shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the health, welfare, and sustainment of military working equids.
+
+&emsp;"(2)
+
+Elements.—Each briefing under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) An assessment of the ability of the Caisson Platoon of the 3rd Infantry Regiment of the Army to support military funeral operations within Arlington National Cemetery, including milestones associated with achieving full operational capability for such Caisson Platoon.
+
+&emsp;&emsp;"(B) An update on the plan of the task force known as the 'Task Force-Military Working Equids' established by the Office of the Surgeon General, as directed by the Director of the Army Staff, in May 2022 (or any successor task force), to promote, support, and sustain animal health and welfare.
+
+&emsp;&emsp;"(C) An update on the plan of such task force to ensure the Caisson Platoon of the 3rd Infantry Regiment of the Army has the ability to continuously support military and State funeral operations within Arlington National Cemetery."
 
 #### Digitization of Arlington National Cemetery Interment and Inurnment Records
 

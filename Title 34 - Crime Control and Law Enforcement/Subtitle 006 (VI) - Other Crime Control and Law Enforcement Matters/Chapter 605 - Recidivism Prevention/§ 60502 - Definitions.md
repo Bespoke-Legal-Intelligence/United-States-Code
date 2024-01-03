@@ -22,7 +22,7 @@ In this Act—
 
 &emsp;&emsp;(C) pays wages in accordance with applicable law, but in no event less than the higher of the rate specified in section 206(a)(1) of title 29 or the applicable State or local minimum wage law, which are subsidized, in whole or in part, by public funds;
 
-&emsp;&emsp;(D) combines time-limited employment with activities that promote skill development, remove barriers to employment, and lead to unsubsidized employment such as a thorough orientation and individual assessment, job readiness and life skills training, case management and supportive services, adult education and training, child support-related services, job retention support and incentives, and other similar activities;
+&emsp;&emsp;(D) combines time-limited employment with activities that promote skill development, remove barriers to employment, andlead to unsubsidized employment such as a thorough orientation and individual assessment, job readiness and life skills training, case management and supportive services, adult education and training, child support-related services, job retention support and incentives, and other similar activities;
 
 &emsp;&emsp;(E) places participants into unsubsidized employment; and
 

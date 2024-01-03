@@ -124,7 +124,7 @@ If—
 
 &emsp;&emsp;&emsp;&emsp;(I) it may be exercised only upon the death, disability, or mental incompetency of the holder, or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a right or obligation to redeem or purchase stock transferred in connection with the performance of services for the issuer or a related person\(and which represents reasonable compensation), it may be exercised only upon the holder's separation from service from the issuer or a related person.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a right or obligation to redeem or purchase stock transferred in connection with the performance of services for the issuer or a related person (and which represents reasonable compensation), it may be exercised only upon the holder's separation from service from the issuer or a related person.
 
 #### (ii) Exception
 
@@ -312,7 +312,7 @@ Binding contract.—The amendments made by this section shall not apply to any t
 
 "(3)
 
-Corporate transfers.—In the case of property transferred (directly or indirectly through a partnership or otherwise) by a C corporation, paragraphs (1)and (2) shall be applied by substituting 'July 11, 1989' for 'October 2, 1989'. The preceding sentence shall not apply where the corporation meets the requirements of section 1504(a)(2) of the Internal Revenue Code of 1986 with respect to the transferee corporation (and where the transfer is not part of a plan pursuant to which the transferor subsequently fails to meet such requirements)."
+Corporate transfers.—In the case of property transferred (directly or indirectly through a partnership or otherwise) by a C corporation, paragraphs (1) and (2) shall be applied by substituting 'July 11, 1989' for 'October 2, 1989'. The preceding sentence shall not apply where the corporation meets the requirements of section 1504(a)(2) of the Internal Revenue Code of 1986 with respect to the transferee corporation (and where the transfer is not part of a plan pursuant to which the transferor subsequently fails to meet such requirements)."
 
 #### Effective Date of 1988 Amendment
 

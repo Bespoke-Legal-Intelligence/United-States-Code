@@ -70,7 +70,7 @@ Annual Written Assessment.—(1) Not later than March 1 of each year, the Deputy
 
 &emsp;&emsp;(ii) outlines corrective action requests for critical defects and any actions planned or taken to address them;
 
-&emsp;&emsp;(iii) indicates waivers approved to support acceptance trials, combined trials, and Navyacceptance of ship delivery from the commercial entity described in subsection (d)(1), to include the conditions requiring the approval of each waiver; and
+&emsp;&emsp;(iii) indicates waivers approved to support acceptance trials, combined trials, and Navy acceptance of ship delivery from the commercial entity described in subsection (d)(1), to include the conditions requiring the approval of each waiver; and
 
 &emsp;&emsp;(iv) includes information on the extent to which letters of delegation are used for each shipbuilding program to provide for quality assurance oversight of subcontractors (at any tier) by the Defense Contract Management Agency.
 

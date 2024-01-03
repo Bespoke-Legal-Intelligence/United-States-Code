@@ -26,7 +26,11 @@ Necessary Expenses.—Amounts appropriated to the Department of Defense may be u
 
 Activities of the National Committee for Employer Support of the Guard and Reserve.—Amounts appropriated for operation and maintenance may, under regulations prescribed by the Secretary of Defense, be used by the Secretary for official reception, representation, and advertising activities and materials of the National Committee for Employer Support of the Guard and Reserve to further employer commitments to their employees who are members of a reserve component.
 
-(Added Pub. L. 100–370, §1(e)(1), July 19, 1988, 102 Stat. 844; amended Pub. L. 108–136, div. A, title V, §518, Nov. 24, 2003, 117 Stat. 1462.)
+(d)
+
+Implementation of Vienna Document 2011.—Amounts appropriated for operation and maintenance may be used by the Secretary of Defense for travel, transportation, and subsistence expenses for meetings and demonstrations hosted by the Department of Defense for the implementation of the Vienna Document 2011 on Confidence and Security-Building Measures.
+
+(Added Pub. L. 100–370, §1(e)(1), July 19, 1988, 102 Stat. 844; amended Pub. L. 108–136, div. A, title V, §518, Nov. 24, 2003, 117 Stat. 1462; Pub. L. 118–31, div. A, title X, §1043, Dec. 22, 2023, 137 Stat. 389.)
 
 #### Historical and Revision Notes
 
@@ -41,6 +45,8 @@ Section 705 of Public Law 98–212, to be codified as 10 U.S.C. 2241(b), provide
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d). Pub. L. 118–31 added subsec. (d).
 
 <b>2003</b>—Subsec. (c). Pub. L. 108–136 added subsec. (c).
 
@@ -76,17 +82,25 @@ Form.—The information described in paragraph (1) shall be submitted in an uncl
 
 #### Prohibition on Transporting Currency to the Taliban or the Islamic Emirate of Afghanistan
 
-Pub. L. 117–81, div. A, title XII, §1214, Dec. 27, 2021, 135 Stat. 1963, provided that: "None of the amounts authorized to be appropriated by this Act \[Pub. L. 117–81, see Tables for classification\] or otherwise made available to the Department of Defense may be made available for the operation of any aircraft of the Department of Defense to transport currency or other items of value to the Taliban, the Islamic Emirate of Afghanistan, or any subsidiary, agent, or instrumentality of either the Taliban or the Islamic Emirate of Afghanistan."
+Pub. L. 118–31, div. A, title XII, §1271, Dec. 22, 2023, 137 Stat. 486, provided that: "None of the amounts authorized to be appropriated by this Act \[Pub. L. 118–31, see Tables for classification\] or otherwise made available to the Department of Defense may be made available for the operation of any aircraft of the Department of Defense to transport currency or other items of value to the Taliban, the Islamic Emirate of Afghanistan, or any subsidiary, agent, or instrumentality of either the Taliban or the Islamic Emirate of Afghanistan."
+
+Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–263, div. A, title XII, §1223, Dec. 23, 2022, 136 Stat. 2836.
+
+Pub. L. 117–81, div. A, title XII, §1214, Dec. 27, 2021, 135 Stat. 1963.
 
 #### Restriction on Counter-ISIS Train and Equip Fund
 
 Pub. L. 117–81, div. A, title XII, §1223(e), Dec. 27, 2021, 135 Stat. 1971, provided that: "Amounts authorized to be appropriated by this Act \[Pub. L. 117–81, see Tables for classification\] or the amendments made by this Act or otherwise made available for any fiscal year to the Counter-Islamic State of Iraq and Syria Train and Equip Fund are authorized to be made available only in support of partner forces eligible to receive assistance under section 1209(a) of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3541) or subsection (a) of section 1236 of such Act \[128 Stat. 3558\], as amended by subsection (a) of this section."
 
-#### Prohibition on Transfers to Badr Organization
+#### Prohibition on Transfers to the Badr Organization
 
-Pub. L. 117–263, div. A, title XII, §1239, Dec. 23, 2022, 136 Stat. 2841, provided that: "None of the amounts authorized to be appropriated by this Act \[Pub. L. 117–263, see Tables for classification\] or otherwise made available to the Department of Defense may be made available, directly or indirectly, to the Badr Organization."
+Pub. L. 118–31, div. A, title XII, §1267, Dec. 22, 2023, 137 Stat. 483, provided that: "None of the amounts authorized to be appropriated by this Act \[Pub. L. 118–31, see Tables for classification\] or otherwise made available to the Department of Defense may be made available, directly or indirectly, to the Badr Organization."
 
-Similar provisions were contained in the following prior act:
+Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–263, div. A, title XII, §1239, Dec. 23, 2022, 136 Stat. 2841.
 
 Pub. L. 117–81, div. A, title XII, §1225, Dec. 27, 2021, 135 Stat. 1972.
 
@@ -100,7 +114,7 @@ Pub. L. 117–81, div. A, title XII, §1226, Dec. 27, 2021, 135 Stat. 1972.
 
 #### Limitation on Provision of Funds to Institutions of Higher Education Hosting Confucius Institutes
 
-Pub. L. 116–283, div. A, title X, §1062, Jan. 1, 2021, 134 Stat. 3859, provided that:
+Pub. L. 116–283, div. A, title X, §1062, Jan. 1, 2021, 134 Stat. 3859, as amended by Pub. L. 118–31, div. A, title X, §§1044(a), 1045, Dec. 22, 2023, 137 Stat. 389, 390, provided that:
 
 "(a)
 
@@ -118,6 +132,10 @@ In general.—The Secretary of Defense may waive the limitation under subsection
 
 Management process.—If the Secretary issues a waiver under paragraph (1), the academic liaison designated pursuant to subsection (g) of section 1286 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 \[Pub. L. 115–232\] (\[former\] 10 U.S.C. 2358 note) \[now 10 U.S.C. 4001 note\], as amended by section 1299C of this Act, shall manage the waiver process on behalf of the Secretary.
 
+&emsp;"(3)
+
+Termination of authority.—The authority to issue a waiver under paragraph (1) shall terminate on October 1, 2026, and any waiver issued under such paragraph shall not apply on or after such date.
+
 "(c)
 
 Effective Date.—The limitation under subsection (a) shall apply with respect to the first fiscal year that begins after the date that is 24 months after the date of the enactment of this Act \[Jan. 1, 2021\] and to any subsequent fiscal year.
@@ -126,7 +144,17 @@ Effective Date.—The limitation under subsection (a) shall apply with respect t
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'Confucius Institute' means a cultural institute directly or indirectly funded by the Government of the People's Republic of China.
+&emsp;"(1)
+
+Confucius institute.—The term 'Confucius Institute' means—
+
+&emsp;&emsp;"(A) any program that receives funding or support from—
+
+&emsp;&emsp;&emsp;"(i) the Chinese International Education Foundation; or
+
+&emsp;&emsp;&emsp;"(ii) the Center for Language Exchange Cooperation of the Ministry of Education of the People's Republic of China; or
+
+&emsp;&emsp;"(B) any cultural institute funded by the Government of the People's Republic of China.
 
 &emsp;"(2) The term 'institution of higher education' has the meaning given such term in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002)."
 
@@ -242,7 +270,7 @@ Rule of Construction Related to Intelligence Activities.—Nothing in this secti
 
 #### Funds Made Available for Transportation of Medical Supplies to American Samoa and Indian Health Service
 
-Pub. L. 110–329, div. C, title VIII, §8058, Sept. 30, 2008, 122 Stat. 3634, provided that: "Notwithstanding any other provision of law, funds available to the Department of Defense in this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to American Samoa, and funds available to the Department of Defense shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to the Indian Health Service when it is in conjunction with a civil-military project."
+Pub. L. 110–329, div. C, title VIII, §8058, Sept. 30, 2008, 122 Stat. 3634, provided that: "Notwithstanding any other provision of law, funds available to the Department of Defense in this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, shall bemade available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to American Samoa, and funds available to the Department of Defense shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to the Indian Health Service when it is in conjunction with a civil-military project."
 
 #### Obligation of Funds for Installation Support Functions
 
@@ -372,7 +400,7 @@ Pub. L. 105–262, title VIII, §8118, Oct. 17, 1998, 112 Stat. 2331, provided t
 
 #### Use of Funds for Modification of Retired Aircraft, Weapon, Ship or Other Item of Equipment
 
-Pub. L. 105–56, title VIII, §8053, Oct. 8, 1997, 111 Stat. 1232, which provided that none of the funds provided inthe Act and hereafter would be available for use by a military department to modify an aircraft, weapon, ship or other item of equipment, that the military department concerned planned to retire or otherwise dispose of within 5 years after completion of the modification, was repealed and restated in section 2244a of this title by Pub. L. 109–163, div. A, title III, §372(a), (c), 119 Stat. 3209, 3210.
+Pub. L. 105–56, title VIII, §8053, Oct. 8, 1997, 111 Stat. 1232, which provided that none of the funds provided in the Act and hereafter would be available for use by a military department to modify an aircraft, weapon, ship or other item of equipment, that the military department concerned planned to retire or otherwise dispose of within 5 years after completion of the modification, was repealed and restated in section 2244a of this title by Pub. L. 109–163, div. A, title III, §372(a), (c), 119 Stat. 3209, 3210.
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -412,7 +440,7 @@ Pub. L. 101–511, title VIII, §8019, Nov. 5, 1990, 104 Stat. 1879, provided th
 
 Pub. L. 101–511, title VIII, §8080, Nov. 5, 1990, 104 Stat. 1893, provided that:
 
-"(a) Upon the date of enactment of this Act \[Nov. 5, 1990\], the balances of any unobligated amount of an appropriation of the Department of Defense which has been withdrawn under the provisions of section 1552(a)(2) of title 31, United States Code, the obligated balance of which has not been transferred pursuant to the provisions of section 1552(a)(1) of title 31, United States Code, shall be restored to that appropriation. Thirty days following enactment of this Act all balances of unobligated funds withdrawn from any account of the Department of Defense under the provisions of section 1552(a)(2) of title 31, United States Code, prior to the enactment of this Act, (other than those restored pursuant to the provisions of this subsection) are cancelled.
+"(a) Upon the date of enactment of this Act \[Nov. 5, 1990\], the balances of any unobligated amount of an appropriation of the Department of Defense which has been withdrawn under the provisions of section 1552(a)(2) of title 31, United States Code, the obligated balance of which has not been transferred pursuant to the provisions of section 1552(a)(1) of title 31, United States Code, shall be restored to that appropriation.Thirty days following enactment of this Act all balances of unobligated funds withdrawn from any account of the Department of Defense under the provisions of section 1552(a)(2) of title 31, United States Code, prior to the enactment of this Act, (other than those restored pursuant to the provisions of this subsection) are cancelled.
 
 "(b) During the current fiscal year and thereafter—
 
@@ -422,7 +450,7 @@ Pub. L. 101–511, title VIII, §8080, Nov. 5, 1990, 104 Stat. 1893, provided th
 
 &emsp;"(3) with respect to any appropriation account made available to the Department of Defense for an indefinite period against which no obligations have been made for two consecutive years and upon a determination by the Secretary of Defense or the President that the purposes of such indefinite appropriation have been carried out,
 
-> any remaining obligated or unobligated balance of such accounts are closed and thereafter shall not be available for obligation or expenditure for any purpose: <i>Provided</i>, That collections authorized to be credited to an account which were not credited to the account before it was closed shall be deposited in the Treasury as miscellaneous receipts: <i>Provided further</i>, That, without prior action by the Comptroller General but without relieving the Comptroller General of the duty to make decisions under any law or to settle claims and accounts, when an account is closed (including accounts covered by subsection (a) of this section) and currently applicable appropriations of the Department of Defense are not chargeable, obligations and adjustments to obligations that would have been chargeable to an account prior to closing, may be chargeable to currently applicable appropriations of the Department of Defense available for the same purpose in amounts equal to one percent of the total appropriation for the current account or the amount of the original appropriation, whichever is less: <i>Provided further</i>, That after the end of the period of availability of an appropriation account available for a definite period and before closing of that account under this section such account shall be available for recording, adjusting, and liquidating obligations properly chargeable to such account in amounts not to exceed the unobligated expired balances of such appropriation: <i>Provided further</i>, That with respect to a change to a contract under which the contractor is required to perform additional work, other than adjustments to pay claims or increases under an escalation clause (hereinafter referred to as a contract change), if such a charge for such a contract change with respect to a program, project or activity would cause the total amount of such obligations to exceed $4,000,000 in any single fiscal year for a program, project, or activity,the obligation may only be made if the obligation is approved by the Secretary of Defense or, if such a change would cause the total amount of such obligations to exceed $25,000,000 in any single fiscal year for a program, project or activity, the obligation may be made only after 30 days have elapsed after the Secretary of Defense submits to the Committees on Appropriations and Armed Services of the Senate and the House of Representatives a notice of the intention to obligate such funds, together with the legal basis and the policy reasons for making such an obligation.
+> any remaining obligated or unobligated balance of such accounts are closed and thereafter shall not be available for obligation or expenditure for any purpose: <i>Provided</i>, That collections authorized to be credited to an account which were not credited to the account before it was closed shall be deposited in the Treasury as miscellaneous receipts: <i>Provided further</i>, That, without prior action by the Comptroller General but without relieving the Comptroller General of the duty to make decisions under any law or to settle claims and accounts, when an account is closed (including accounts covered by subsection (a) of this section) and currently applicable appropriations of the Department of Defense are not chargeable, obligations and adjustments to obligations that would have been chargeable to an account prior to closing, may be chargeable to currently applicable appropriations of the Department of Defense available for the same purpose in amounts equal to one percent of the total appropriation for the current account or the amount of the original appropriation, whichever is less: <i>Provided further</i>, That after the end of the period of availability of an appropriation account available for a definite period and before closing of that account under this section such account shall be available for recording, adjusting, and liquidating obligations properly chargeable to such account in amounts not to exceed the unobligated expired balances of such appropriation: <i>Provided further</i>, That with respect to a change to a contract under which the contractor is required to perform additional work, other than adjustments to pay claims or increases under an escalation clause (hereinafter referred to as a contract change), if such a charge for such a contract change with respect to a program, project or activity would cause the total amount of such obligations to exceed $4,000,000 in any single fiscal year for a program, project, or activity, the obligation may only be made if the obligation is approved by the Secretary of Defense or, if such a change would cause the total amount of such obligations to exceed $25,000,000 in any single fiscal year for a program, project or activity, the obligation may be made only after 30 days have elapsed after the Secretary of Defense submits to the Committees on Appropriations and Armed Services of the Senate and the House of Representatives a notice of the intention to obligate such funds, together with the legal basis and the policy reasons for making such an obligation.
 
 "(c) The provisions of this section shall apply to any appropriation account now or hereafter made unless the appropriation Act for that account specifically provides for an extension of the availability of such account and provides an exception to the five year period of availability for recording, adjusting and liquidating obligations properly chargeable to that account."
 

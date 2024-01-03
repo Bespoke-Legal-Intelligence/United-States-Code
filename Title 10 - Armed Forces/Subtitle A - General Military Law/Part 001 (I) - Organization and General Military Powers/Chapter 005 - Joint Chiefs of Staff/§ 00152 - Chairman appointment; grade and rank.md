@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment; Term of Office.—(1) There is a Chairman of the Joint Chiefs of Staff, appointed by the President, by and with the advice and consent of the Senate, from the officers of the regular components of the armed forces. The Chairman serves at the pleasure of the President for a term of four years, beginning on October 1of an odd-numbered year. The limitation does not apply in time of war.
+Appointment; Term of Office.—(1) There is a Chairman of the Joint Chiefs of Staff, appointed by the President, by and with the advice and consent of the Senate, from the officers of the regular components of the armed forces. The Chairman serves at the pleasure of the President for a term of four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war.
 
 (2) In the event of the death, retirement, resignation, or reassignment of the officer serving as Chairman before the end of the term for which the officer was appointed, an officer appointed to fill the vacancy shall serve as Chairman only for the remainder of the original term, but may be reappointed as provided in paragraph (1).
 

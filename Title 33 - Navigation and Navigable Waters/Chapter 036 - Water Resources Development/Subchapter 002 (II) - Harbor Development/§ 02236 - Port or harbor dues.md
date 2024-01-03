@@ -2,7 +2,7 @@
 
 #### (a) Consent of Congress
 
-Subject to the following conditions, a non-Federal interest may levy port or harbor dues (in the form of tonnage duties or fees) on a vessel engaged in trade entering or departing from a harbor and on cargo loaded on or unloaded from that vessel under clauses 2 and 3 of section 10, and under clause 3 of section 8, of Article 1 of the Constitution:
+Subject to the following conditions, a non-Federal interest may levy port or harbor dues\(in the form of tonnage duties or fees) on a vessel engaged in trade entering or departing from a harbor and on cargo loaded on or unloaded from that vessel under clauses 2 and 3 of section 10, and under clause 3 of section 8, of Article 1 of the Constitution:
 
 #### (1) Purposes
 
@@ -44,7 +44,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 &emsp;Port or harbor dues may be levied only on a vessel entering or departing from a harbor and its cargo on a fair and equitable basis. In formulating port and harbor dues, the non-Federal interest shall consider—
 
-&emsp;&emsp;(A) the direct and indirect cost of construction, operations, and maintenance, andproviding the facilities and services under paragraph (1) of this subsection;
+&emsp;&emsp;(A) the direct and indirect cost of construction, operations, and maintenance, and providing the facilities and services under paragraph (1) of this subsection;
 
 &emsp;&emsp;(B) the value of those facilities and services to the vessel and cargo;
 

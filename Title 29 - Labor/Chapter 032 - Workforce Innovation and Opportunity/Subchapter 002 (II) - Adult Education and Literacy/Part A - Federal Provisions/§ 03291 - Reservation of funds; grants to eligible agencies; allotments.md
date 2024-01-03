@@ -12,7 +12,7 @@ From the sum appropriated under section 3275 of this title for a fiscal year, th
 
 #### (1) In general
 
-&emsp;From the sum appropriated under section 3275 of this title and not reserved under subsection (a) for a fiscal year, the Secretary shall award a grant to each eligible agency having a unified State plan approved under section 3112 of this title or a combined State plan approved under section 3113 of this title in an amount equal to the sum of the initial allotment under subsection (c)(1) and the additional allotment under subsection (c)(2) for the eligible agency for the fiscal year, subject to subsections (f) and (g), to enable the eligibleagency to carry out the activities assisted under this subchapter.
+&emsp;From the sum appropriated under section 3275 of this title and not reserved under subsection (a) for a fiscal year, the Secretary shall award a grant to each eligible agency having a unified State plan approved under section 3112 of this title or a combined State plan approved under section 3113 of this title in an amount equal to the sum of the initial allotment under subsection (c)(1) and the additional allotment under subsection (c)(2) for the eligible agency for the fiscal year, subject to subsections (f) and (g), to enable the eligible agency to carry out the activities assisted under this subchapter.
 
 #### (2) Purpose of grants
 

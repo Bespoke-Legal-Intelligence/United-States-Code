@@ -12,7 +12,7 @@ Disclosure Authority.—An officer or employee of the Department of Defense may 
 
 &emsp;&emsp;(B) that the contractor will take all precautions necessary to prevent disclosure of the sensitive information provided to the contractor;
 
-&emsp;&emsp;(C) that such sensitive information provided to the contractor under the authority of this section shall not be used by the contractor to compete against a third party for Government or non-Government contracts; and
+&emsp;&emsp;(C) that such sensitive information provided to the contractor under the authorityof this section shall not be used by the contractor to compete against a third party for Government or non-Government contracts; and
 
 &emsp;&emsp;(D) that the violation of subparagraph (A), (B), or (C) is a basis for the Government to terminate the litigation support contract of the contractor.
 

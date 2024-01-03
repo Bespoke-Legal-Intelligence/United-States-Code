@@ -10,7 +10,7 @@ The Secretary may make grants to State or local governments (that have in effect
 
 #### (b) Relevant programs
 
-The program referred to in subsection (a) is an accredited program in health administration, hospital administration, or health policy analysis and planning, which program is accredited by a body or bodies approved for such purpose by the Secretary of Education and which meets such other quality standards as the Secretary of Health and Human Services by regulation may prescribe.
+The program referred to in subsection (a) is an accredited program in health administration, hospital administration, or health policy analysis and planning, which program is accredited by a body or bodies approved for such purpose by the Secretary of Education and which meets such other quality standards as the Secretary ofHealth and Human Services by regulation may prescribe.
 
 #### (c) Preference in making grants
 

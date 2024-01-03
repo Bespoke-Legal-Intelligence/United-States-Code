@@ -88,7 +88,7 @@ Pub. L. 115–91, div. A, title VIII, §881(b), Dec. 12, 2017, 131 Stat. 1504, p
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
+Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and toconstruction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
 
 #### Bulk Fuel Management in United States Indo-Pacific Command Area of Responsibility
 

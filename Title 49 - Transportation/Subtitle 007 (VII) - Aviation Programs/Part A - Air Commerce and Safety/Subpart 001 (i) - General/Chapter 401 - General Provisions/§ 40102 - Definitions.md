@@ -40,7 +40,7 @@ General Definitions.—In this part—
 
 &emsp;(9) "airport" means a landing area used regularly by aircraft for receiving or discharging passengers or cargo.
 
-&emsp;(10) "all-cargo air transportation" means the transportation by aircraft in interstate air transportation of only property or only mail, or both.
+&emsp;(10) "all-cargo air transportation" means the transportation by aircraft in interstate airtransportation of only property or only mail, or both.
 
 &emsp;(11) "appliance" means an instrument, equipment, apparatus, a part, an appurtenance, or an accessory used, capable of being used, or intended to be used, in operating or controlling aircraft in flight, including a parachute, communication equipment, and another mechanism installed in or attached to aircraft during flight, and not a part of an aircraft, aircraft engine, or propeller.
 
@@ -56,7 +56,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) a partnership each of whose partners is an individual who is a citizen of the United States; or
 
-&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or aState, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
+&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or a State, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
 
 &emsp;(16) "civil aircraft" means an aircraft except a public aircraft.
 
@@ -120,7 +120,7 @@ General Definitions.—In this part—
 
 &emsp;(27) "intrastate air transportation" means the transportation by a common carrier of passengers or property for compensation, entirely in the same State, by turbojet-powered aircraft capable of carrying at least 30 passengers.
 
-&emsp;(28) "landing area" means a place on land or water, including an airport or intermediate landing field, used, or intended to be used, for the takeoff and landing of aircraft, even when facilities are not provided for sheltering, servicing, or repairing aircraft, or for receiving or discharging passengers or cargo.
+&emsp;(28) "landing area" means a place on land or water, including an airport or intermediate landing field, used, or intended to be used, for the takeoff and landing of aircraft, even whenfacilities are not provided for sheltering, servicing, or repairing aircraft, or for receiving or discharging passengers or cargo.
 
 &emsp;(29) "large hub airport" means a commercial service airport (as defined in section 47102) that has at least 1.0 percent of the passenger boardings.
 
@@ -476,7 +476,7 @@ This makes a conforming amendment for consistency with the style of title 49.
 
 <b>2003</b>—Subsec. (a)(15)(C). Pub. L. 108–176, §807, inserted "which is under the actual control of citizens of the United States," before "and in which".
 
-Subsec. (a)(29) to (47). Pub. L. 108–176, §225(a), added pars. (29), (31), (34), (36), and (42) and redesignated former pars. (29), (30), (31), (32), (33), (34), (35), (36), (37), (38), (39), (40), (41), and (42) as (30), (32), (33), (35), (37), (38), (39), (40), (41), (43), (44), (45), (46), and (47), respectively.
+Subsec. (a)(29) to (47). Pub. L. 108–176, §225(a), added pars. (29), (31), (34), (36), and (42) and redesignated former pars. (29), (30), (31), (32), (33), (34), (35), (36), (37),\(38), (39), (40), (41), and (42) as (30), (32), (33), (35), (37), (38), (39), (40), (41), (43), (44), (45), (46), and (47), respectively.
 
 <b>2000</b>—Subsec. (a)(37). Pub. L. 106–181, §702(a), amended par. (37) generally, revising and restating provisions defining "public aircraft" to include references to qualifications found in section 40125(b) and (c).
 

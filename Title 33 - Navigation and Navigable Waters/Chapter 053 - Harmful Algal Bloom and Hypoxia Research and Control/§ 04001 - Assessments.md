@@ -52,7 +52,7 @@ The President, through the Committee on Environment and Natural Resources of the
 
 &emsp;(B) identify alternatives for preventing unnecessary duplication of effort among Federal agencies and departments with respect to hypoxia; and
 
-&emsp;(C) provide for Federal cooperation and coordination with and assistance to the States, Indian tribes, and local governments in theprevention, reduction, management, mitigation, and control of hypoxia and its environmental impacts.
+&emsp;(C) provide for Federal cooperation and coordination with and assistance to the States, Indian tribes, and local governments in the prevention, reduction, management, mitigation, and control of hypoxia and its environmental impacts.
 
 #### (d) Report to Congress on harmful algal bloom impacts
 

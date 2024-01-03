@@ -10,7 +10,7 @@ Coastwise qualified vessel.—The term "coastwise qualified vessel" means a vess
 
 &emsp;(2)
 
-Platform jacket.—The term "platform jacket" refers to a single physical component and includes any type of offshore exploration, development, or production structure or component thereof, including—
+Platform jacket.—The term "platform jacket" refers to a single physical componentand includes any type of offshore exploration, development, or production structure or component thereof, including—
 
 &emsp;&emsp;(A) platform jackets;
 
@@ -34,7 +34,7 @@ Authorized Transportation.—Section 55102 of this title does not apply to the t
 
 (c)
 
-Procedures To Maximize Use of Coastwise Qualified Vessels.—The Secretary of Transportation shall adopt procedures implementing this section that are reasonably designed to provide timely information so as tomaximize the use of coastwise qualified vessels. The procedures shall, among other things, establish that for purposes of this section, a coastwise qualified vessel shall be deemed to be not available only if—
+Procedures To Maximize Use of Coastwise Qualified Vessels.—The Secretary of Transportation shall adopt procedures implementing this section that are reasonably designed to provide timely information so as to maximize the use of coastwise qualified vessels. The procedures shall, among other things, establish that for purposes of this section, a coastwise qualified vessel shall be deemed to be not available only if—
 
 &emsp;(1) on application by an owner or operator for the use of a non-coastwise qualified launch barge for transportation of a platform jacket under this section (which application shall include all relevant information, including engineering details and timing requirements), the Secretary promptly publishes a notice in the Federal Register—
 

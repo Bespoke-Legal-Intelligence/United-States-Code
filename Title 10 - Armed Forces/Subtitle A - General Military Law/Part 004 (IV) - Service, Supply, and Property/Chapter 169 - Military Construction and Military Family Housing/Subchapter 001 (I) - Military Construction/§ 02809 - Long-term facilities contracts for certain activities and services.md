@@ -4,7 +4,7 @@
 
 Submission and Authorization of Proposed Projects.—The Secretary concerned may enter into a contract for the procurement of services in connection with the construction, management, and operation of a facility on or near a military installation for the provision of an activity or service described in subsection (b) if—
 
-&emsp;(1) the Secretary concerned has identified the proposed project for that facility in the budget material submitted to Congress by the Secretary of Defense in connection with the budget submitted pursuant to section 1105 of title 31 for the fiscal year in which the contract is proposed to be awarded;
+&emsp;(1) the Secretary concerned has identified the proposed project for that facility in the budget material submitted to Congress by the Secretary of Defense in connection with thebudget submitted pursuant to section 1105 of title 31 for the fiscal year in which the contract is proposed to be awarded;
 
 &emsp;(2) the Secretary concerned has determined that the services to be provided at that facility can be more economically provided through the use of a long-term contract than through the use of conventional means; and
 
@@ -34,7 +34,7 @@ Conditions on Obligation of Funds.—A contract entered into for a project pursu
 
 &emsp;(1) A statement that the obligation of the United States to make payments under the contract in any fiscal year is subject to appropriations being provided specifically for that fiscal year and specifically for that project.
 
-&emsp;(2) A commitment to obligate the necessary amount for each fiscal year covered by thecontract when and to the extent that funds are appropriated for that project for that fiscal year.
+&emsp;(2) A commitment to obligate the necessary amount for each fiscal year covered by the contract when and to the extent that funds are appropriated for that project for that fiscal year.
 
 &emsp;(3) A statement that such a commitment given under the authority of this section does not constitute an obligation of the United States.
 
@@ -56,7 +56,7 @@ Notice and Wait Requirements.—The Secretary concerned may enter into a contrac
 
 #### References in Text
 
-Chapter 137 of this title, referred to in subsec. (d), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+Chapter 137 of this title, referred to in subsec. (d), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of "chapter 137 legacy provisions", see section 3016 of this title.
 
 #### Amendments
 

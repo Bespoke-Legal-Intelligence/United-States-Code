@@ -18,7 +18,7 @@ It is the sense of Congress that improving computer programming language profici
 
 &emsp;The goals of the positions described in paragraph (1) shall be—
 
-&emsp;&emsp;(A) to fulfill the critical need of the Department to recruit and retain employees for cybersecurity, digital, and technology positions;
+&emsp;&emsp;(A) to fulfill the critical need of the Department to recruit and retain employeesfor cybersecurity, digital, and technology positions;
 
 &emsp;&emsp;(B) to actively recruit relevant candidates from academic institutions, the private sector, and related industries;
 
@@ -28,7 +28,7 @@ It is the sense of Congress that improving computer programming language profici
 
 #### (3) Implementation plan
 
-&emsp;Not later than 180 days after December 23, 2022, the Secretary shall submit a plan to theappropriate congressional committees that describes how the objectives and goals set forth in paragraphs (1) and (2) will be implemented.
+&emsp;Not later than 180 days after December 23, 2022, the Secretary shall submit a plan to the appropriate congressional committees that describes how the objectives and goals set forth in paragraphs (1) and (2) will be implemented.
 
 #### (4) Authorization of appropriations
 

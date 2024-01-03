@@ -14,7 +14,7 @@
 
 (f) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit and examination, to any books, documents, papers, and records of the recipient of any grant under this section which are pertinent to any such grant.
 
-(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1375, §5055; amended Pub. L. 92–69, Aug. 6, 1971, 85 Stat. 178; Pub. L. 94–424, §1(2), Sept. 28, 1976, 90 Stat. 1332; Pub. L. 94–581, title II, §§206(e), 210(e)(13), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 96–151, title I, §102(b), Dec. 20, 1979,93 Stat. 1092; renumbered §8155 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(d)(19), Nov. 2, 1994, 108 Stat. 4684.)
+(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1375, §5055; amended Pub. L. 92–69, Aug. 6, 1971, 85 Stat. 178; Pub. L. 94–424, §1(2), Sept. 28, 1976, 90 Stat. 1332; Pub. L. 94–581, title II, §§206(e), 210(e)(13), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 96–151, title I, §102(b), Dec. 20, 1979, 93 Stat. 1092; renumbered §8155 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(d)(19), Nov. 2, 1994, 108 Stat. 4684.)
 
 #### <b>Editorial Notes</b>
 

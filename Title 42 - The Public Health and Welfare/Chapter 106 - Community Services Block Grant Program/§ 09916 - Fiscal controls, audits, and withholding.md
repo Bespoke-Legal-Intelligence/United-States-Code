@@ -12,13 +12,13 @@
 
 &emsp;&emsp;(C) subject to paragraph (2), prepare, at least every year, an audit of the expenditures of the State of amounts received under this chapter and amounts transferred to carry out the purposes of this chapter; and
 
-&emsp;&emsp;(D) make appropriate books, documents, papers, and records available to the Secretary and the Comptroller General of theUnited States, or any of their duly authorized representatives, for examination, copying, or mechanical reproduction on or off the premises of the appropriate entity upon a reasonable request for the items.
+&emsp;&emsp;(D) make appropriate books, documents, papers, and records available to the Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, for examination, copying, or mechanical reproduction on or off the premises of the appropriate entity upon a reasonable request for the items.
 
 #### (2) Audits
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), each audit required by subsection (a)(1)(C) shall be conducted by an entity independent of any agency administering activities or services carried out under this chapter and shall be conducted in accordance with generally accepted accounting principles.
+&emsp;&emsp;Subject to subparagraph (B), each audit required by subsection (a)(1)(C) shall be conducted by an entity independent of anyagency administering activities or services carried out under this chapter and shall be conducted in accordance with generally accepted accounting principles.
 
 #### (B) Single audit requirements
 

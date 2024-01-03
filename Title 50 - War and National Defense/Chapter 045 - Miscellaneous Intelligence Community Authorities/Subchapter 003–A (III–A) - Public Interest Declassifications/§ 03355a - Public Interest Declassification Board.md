@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-(1) There is established within the executive branch of the United States a board to be known as the "Public Interest Declassification Board" (in this subchapter referred to as the "Board").
+(1) There is established within the executive branch of the United States a board to be knownas the "Public Interest Declassification Board" (in this subchapter referred to as the "Board").
 
 (2) The Board shall report directly to the President or, upon designation by the President, the Vice President, the Attorney General, or other designee of the President. The other designee of the President under this paragraph may not be an agency head or official authorized to classify information under Executive Order 13526, or any successor order.
 
@@ -60,6 +60,14 @@ The purposes of the Board are as follows:
 
 (4) A member of the Board may be appointed to a new term on the Board upon the expiration of the member's term on the Board, except that no member may serve more than three full terms on the Board.
 
+(5) A member of the Board whose term has expired may continue to serve until the earlier of—
+
+&emsp;(A) the date that a successor is appointed and sworn in; and
+
+&emsp;(B) the date that is 1 year after the date of the expiration of the term.
+
+(6) Not later than 30 days after the date on which the term of a member of the Board ends, the appointing authority of the member shall submit to Congress a plan to appoint a successor.
+
 #### (d) Chairperson; Executive Secretary
 
 (1)(A) The President shall designate one of the members of the Board as the Chairperson of the Board.
@@ -76,7 +84,9 @@ The Board shall meet as needed to accomplish its mission, consistent with the av
 
 #### (f) Staff
 
-Any employee of the Federal Government may be detailed to the Board, with the agreement of and without reimbursement to the detailing agency, and such detail shall be without interruption or loss of civil, military, or foreign service status or privilege.
+(1) Any employee of the Federal Government may be detailed to the Board, with the agreement of and without reimbursement to the detailing agency, and such detail shall be without interruption or loss of civil, military, or foreign service status or privilege.
+
+(2) In addition to any employees detailed to the Board under paragraph (1), the Board may, subject to the availability of funds, hire not more than 12 staff members.
 
 #### (g) Security
 
@@ -88,7 +98,7 @@ Any employee of the Federal Government may be detailed to the Board, with the ag
 
 &emsp;(B) hold an appropriate security clearance granted or recognized under the standard procedures and eligibility criteria of the agency, including any special access approval required for access to such records or materials.
 
-(3) The members of the Board, the Executive Secretary of the Board, and the members of the staff of the Board may not use any informationacquired in the course of their official activities on the Board for nonofficial purposes.
+(3) The members of the Board, the Executive Secretary of the Board, and the members of the staff of the Board may not use any information acquired in the course of their official activities on the Board for nonofficial purposes.
 
 (4) For purposes of any law or regulation governing access to classified information that pertains to the national security of the United States, and subject to any limitations on access arising under section 3355d(b) of this title, and to facilitate the advisory functions of the Board under this subchapter, a member of the Board seeking access to a record or material under this subchapter shall be deemed for purposes of this subsection to have a need to know the contents of the record or material.
 
@@ -118,7 +128,7 @@ The Information Security Oversight Office may support the activities of the Boar
 
 The provisions of chapter 10 of title 5 shall not apply to the activities of the Board under this subchapter. However, the records of the Board shall be governed by the provisions of the Federal Records Act of 1950.
 
-(Pub. L. 106–567, title VII, §703, Dec. 27, 2000, 114 Stat. 2856; Pub. L. 108–458, title I, §1102(a), (b), Dec. 17, 2004, 118 Stat. 3699; Pub. L. 111–259, title III, §365, Oct. 7, 2010, 124 Stat. 2702; Pub. L. 112–235, §2(a), (b), Dec. 28, 2012, 126 Stat. 1626; Pub. L. 116–92, div. E, title LXVII, §6741(a), Dec. 20, 2019, 133 Stat. 2239; Pub. L. 117–263, div. F, title LXVIII, §6824(d)(1), Dec. 23, 2022, 136 Stat. 3615; Pub. L. 117–286, §4(a)(318), Dec. 27, 2022, 136 Stat. 4341.)
+(Pub. L. 106–567, title VII, §703, Dec. 27, 2000, 114 Stat. 2856; Pub. L. 108–458, title I, §1102(a), (b), Dec. 17, 2004, 118 Stat. 3699; Pub. L. 111–259, title III, §365, Oct. 7, 2010, 124 Stat. 2702; Pub. L. 112–235, §2(a), (b), Dec. 28, 2012, 126 Stat. 1626; Pub. L. 116–92, div. E, title LXVII, §6741(a), Dec. 20, 2019, 133 Stat. 2239; Pub. L. 117–263, div. F, title LXVIII, §6824(d)(1), Dec. 23, 2022, 136 Stat. 3615; Pub. L. 117–286, §4(a)(318), Dec. 27, 2022, 136 Stat. 4341; Pub. L. 118–31, div. G, title VI, §7604, Dec. 22, 2023, 137 Stat. 1097.)
 
 #### <b>Editorial Notes</b>
 
@@ -126,13 +136,17 @@ The provisions of chapter 10 of title 5 shall not apply to the activities of the
 
 Executive Order 13526, referred to in subsec. (a)(2), is set out as a note under section 3161 of this title.
 
-The Federal Records Act of 1950, referred to in subsec. (l), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44. Title V of act June 30, 1949, was repealed by Pub. L. 107–217, §4, Aug. 21, 2002, 116 Stat. 1303.
+The Federal Records Act of 1950, referred to in subsec. (l), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Tableat the beginning of Title 44. Title V of act June 30, 1949, was repealed by Pub. L. 107–217, §4, Aug. 21, 2002, 116 Stat. 1303.
 
 #### Codification
 
 Section was formerly set out in a note under section 3161 of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c)(5), (6). Pub. L. 118–31, §7604(1), added pars. (5) and (6).
+
+Subsec. (f). Pub. L. 118–31, §7604(2), designated existing provisions as par. (1) and added par. (2).
 
 <b>2022</b>—Subsec. (a)(2). Pub. L. 117–263 substituted "Executive Order 13526" for "Executive Order 12958".
 

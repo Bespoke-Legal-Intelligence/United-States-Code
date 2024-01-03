@@ -106,7 +106,7 @@ Each Annual Report shall also include—
 
 #### (1) In general
 
-&emsp;The Secretary of State shall include, in a separate section of the Annual Report, the Secretary's determination, pursuant to the provisions under section 9122(b) of this title, of whether each country listed in the report has engaged in a pattern of noncompliance in cases of child abduction during the preceding 12 months.
+&emsp;The Secretary of State shall include, in a separate section of the Annual Report, the Secretary's determination, pursuant to theprovisions under section 9122(b) of this title, of whether each country listed in the report has engaged in a pattern of noncompliance in cases of child abduction during the preceding 12 months.
 
 #### (2) Contents
 

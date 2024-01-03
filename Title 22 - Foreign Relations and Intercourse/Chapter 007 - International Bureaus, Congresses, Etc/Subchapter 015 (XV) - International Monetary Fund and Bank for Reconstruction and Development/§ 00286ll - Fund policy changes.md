@@ -36,7 +36,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(ii) to evaluate the social and environmental impacts of the implementation of the policy prescriptions.
 
-&emsp;(C) Such audits would have access to all ongoing programs and activities of the Fund andthe ability to review the effects of Fund-supported programs, on a country-by-country basis, with respect to poverty, economic development, and environment.
+&emsp;(C) Such audits would have access to all ongoing programs and activities of the Fund and the ability to review the effects of Fund-supported programs, on a country-by-country basis, with respect to poverty, economic development, and environment.
 
 &emsp;(D) Such audits should be made public as appropriate with due respect to confidentiality.
 

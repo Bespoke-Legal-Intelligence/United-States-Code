@@ -2,7 +2,7 @@
 
 On and after August 21, 1959, the Architect of the Capitol is authorized, without regard to chapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of four positions under the appropriation "Salaries, Office of the Architect of the Capitol", of two positions under the appropriation "Capitol Buildings", and of one position under the appropriation "House Office Buildings" at a basic rate of $8,200 per annum each: <i>Provided</i>, That this provision shall not be applicable to the positions of Architect or Assistant Architect.
 
-On and after August 21, 1959, the Architect of the Capitol is authorized, without regard to chapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of one position under the appropriation "Senate Office Buildings", at a basic rate of $8,200 per annum.
+On and after August 21, 1959, the Architect of the Capitol is authorized, without regard tochapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of one position under the appropriation "Senate Office Buildings", at a basic rate of $8,200 per annum.
 
 (Pub. L. 86–176, Aug. 21, 1959, 73 Stat. 407; Pub. L. 89–309, ch. VII, Oct. 31, 1965, 79 Stat. 1147; Pub. L. 90–206, title II, §214(p), Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–239, ch. IV, Jan. 2, 1968, 81 Stat. 775; Pub. L. 94–157, title I, ch. IV, Dec. 18, 1975, 89 Stat. 835; Pub. L. 101–163, title I, §106(c), Nov. 21, 1989, 103 Stat. 1056.)
 

@@ -78,7 +78,7 @@ Pub. L. 85–155, title I, §104, Aug. 21, 1957, 71 Stat. 380, provided that:
 
 "(c) An officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, on the active list on the effective date of this Act \[Aug. 21, 1957\] does not lose any years of service creditable to her on that date for promotion, computation of basic pay, or other purposes, by the enactment of this Act.
 
-"(d) Notwithstanding any other provision of law, an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, who ison a recommended list for promotion to a higher regular grade on the effective date of this Act \[Aug. 21, 1957\] may, if nominated by the President and confirmed by the Senate, be promoted to that grade.
+"(d) Notwithstanding any other provision of law, an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, who is on a recommended list for promotion to a higher regular grade on the effective date of this Act \[Aug. 21, 1957\] may, if nominated by the President and confirmed by the Senate, be promoted to that grade.
 
 "(e) Notwithstanding any other provision of law, an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, who, on the effective date of this Act \[Aug. 21, 1957\], has been nominated by the President and confirmed by the Senate for appointment to any regular grade, may be appointed in that grade."
 

@@ -2,7 +2,7 @@
 
 #### (a) Construction
 
-The Architect of the Capitol may construct a fuel tank and pumping system for E–85 fuel at or within close proximity to the Capitol Grounds Fuel Station.
+The Architect of the Capitol may construct a fuel tank and pumping system for E–85 fuel at orwithin close proximity to the Capitol Grounds Fuel Station.
 
 #### (b) Use
 

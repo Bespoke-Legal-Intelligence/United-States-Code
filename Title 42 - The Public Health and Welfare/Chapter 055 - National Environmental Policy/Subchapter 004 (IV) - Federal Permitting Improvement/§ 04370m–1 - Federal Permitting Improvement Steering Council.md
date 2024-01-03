@@ -40,7 +40,7 @@ There is established the Federal Permitting Improvement Steering Council.
 
 #### (II) Reporting
 
-&emsp;&emsp;&emsp;&emsp;In carrying out the duties of the agency CERPO under this subchapter, anagency CERPO shall report directly to the applicable agency councilmember.
+&emsp;&emsp;&emsp;&emsp;In carrying out the duties of the agency CERPO under this subchapter, an agency CERPO shall report directly to the applicable agency councilmember.
 
 #### (B) Heads of agencies
 
@@ -136,7 +136,7 @@ There is established the Federal Permitting Improvement Steering Council.
 
 #### (cc) Completion date
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Each performance schedule shall specify that any decision by an agencyon an environmental review or authorization must be issued not later than 180 days after the date on which all information needed to complete the review or authorization (including any hearing that an agency holds on the matter) is in the possession of the agency.
+&emsp;&emsp;&emsp;&emsp;&emsp;Each performance schedule shall specify that any decision by an agency on an environmental review or authorization must be issued not later than 180 days after the date on which all information needed to complete the review or authorization (including any hearing that an agency holds on the matter) is in the possession of the agency.
 
 #### (iii) Review and revision
 
@@ -210,7 +210,7 @@ There is established the Federal Permitting Improvement Steering Council.
 
 &emsp;&emsp;(D) review and develop training programs for agency staff that support and conduct environmental reviews or authorizations.
 
-(Pub. L. 114–94, div. D, title XLI, §41002, Dec. 4, 2015, 129 Stat. 1743; Pub. L. 117–58, div. G, titleVIII, §70801(b), (i), Nov. 15, 2021, 135 Stat. 1288, 1294; Pub. L. 117–328, div. E, title VI, §635(a), Dec. 29, 2022, 136 Stat. 4703.)
+(Pub. L. 114–94, div. D, title XLI, §41002, Dec. 4, 2015, 129 Stat. 1743; Pub. L. 117–58, div. G, title VIII, §70801(b), (i), Nov. 15, 2021, 135 Stat. 1288, 1294; Pub. L. 117–328, div. E, title VI, §635(a), Dec. 29, 2022, 136 Stat. 4703.)
 
 #### <b>Editorial Notes</b>
 

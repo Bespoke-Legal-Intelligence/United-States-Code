@@ -18,7 +18,7 @@ Consolidation or Other Organizational Changes of Defense Retail Systems.—(1) T
 
 (c)
 
-Common Business Practices.—(1) Notwithstanding subsections (a) and (b), the Secretary of Defense may establish common business processes, practices, and systems—
+Common Business Practices.—(1) Notwithstanding subsections (a) and (b), the Secretaryof Defense may establish common business processes, practices, and systems—
 
 &emsp;(A) to exploit synergies between the defense commissary system and the exchange system; and
 

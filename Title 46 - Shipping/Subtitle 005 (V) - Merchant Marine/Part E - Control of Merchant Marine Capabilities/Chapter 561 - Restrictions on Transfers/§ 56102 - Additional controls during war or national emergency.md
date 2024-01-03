@@ -14,7 +14,7 @@ In General.—During war, or a national emergency declared by Presidential procl
 
 &emsp;&emsp;(C) a facility for building or repairing vessels, or an interest therein;
 
-&emsp;(3) issue, assign, or transfer to a person not a citizen of the United States an instrument ofindebtedness secured by a mortgage of a vessel to a trustee, by an assignment of an owner's interest in a vessel under construction to a trustee, or by a mortgage of a facility for building or repairing vessels to a trustee, unless the trustee or a substitute trustee is approved by the Secretary under subsection (b);
+&emsp;(3) issue, assign, or transfer to a person not a citizen of the United States an instrument of indebtedness secured by a mortgage of a vessel to a trustee, by an assignment of an owner's interest in a vessel under construction to a trustee, or by a mortgage of a facility for building or repairing vessels to a trustee, unless the trustee or a substitute trustee is approved by the Secretary under subsection (b);
 
 &emsp;(4) enter into an agreement or understanding to construct a vessel in the United States for, or to be delivered to, a person not a citizen of the United States without expressly stipulating that construction will not begin until after the war or national emergency has ended;
 
@@ -128,5 +128,5 @@ In subsection (b)(1), before subparagraph (A), the words "and only if" are added
 
 Subsections (c) and (d) are substituted for the source provisions to eliminate unnecessary words.
 
-In subsection (e)(1), the words "guilty of a misdemeanor" are omitted, and the words "fined under title 18" are substituted for "punishable by a fine of not more than $5000", because of chapter 227 of title 18.
+In subsection (e)(1), the words "guilty of a misdemeanor" are omitted, and the words "fined undertitle 18" are substituted for "punishable by a fine of not more than $5000", because of chapter 227 of title 18.
 

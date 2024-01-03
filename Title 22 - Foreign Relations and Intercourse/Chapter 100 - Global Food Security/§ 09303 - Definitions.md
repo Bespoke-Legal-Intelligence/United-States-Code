@@ -24,7 +24,7 @@ In this chapter:
 
 #### (3) Food and nutrition security
 
-&emsp;The term "food and nutrition security" means access to, and availability, utilization,and stability of, sufficient food to meet caloric and nutritional needs for an active and healthy life.
+&emsp;The term "food and nutrition security" means access to, and availability, utilization, and stability of, sufficient food to meet caloric and nutritional needs for an active and healthy life.
 
 #### (4) Food system
 
@@ -116,7 +116,7 @@ Par. (6)(H). Pub. L. 117–263, §5588(c)(4), amended subpar. (H) generally. Pri
 
 Par. (7). Pub. L. 117–263, §5588(c)(2), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Par. (8). Pub. L. 117–263, §5588(c)(5), which directed amendment of "paragraph (7), as redesignated" by inserting "the Inter-American Foundation," after "United States African Development Foundation," was executed by making the amendment in par. (8), as redesignated, to reflect the probable intent of Congress. Par. (7), as redesignated by Pub. L. 117–263, §5588(c)(2), does not contain the words "United States African Development Foundation,".
+Par. (8). Pub. L. 117–263, §5588(c)(5), which directed amendment of "paragraph (7), as redesignated" by inserting "the Inter-American Foundation," after "United States African Development Foundation," was executed by making the amendment in par. (8), as redesignated, to reflect the probable intent of Congress.Par. (7), as redesignated by Pub. L. 117–263, §5588(c)(2), does not contain the words "United States African Development Foundation,".
 
 Pub. L. 117–263, §5588(c)(2), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 

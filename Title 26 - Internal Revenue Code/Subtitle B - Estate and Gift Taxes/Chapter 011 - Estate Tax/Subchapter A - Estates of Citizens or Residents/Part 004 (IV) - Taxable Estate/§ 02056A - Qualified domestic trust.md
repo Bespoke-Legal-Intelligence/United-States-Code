@@ -74,7 +74,7 @@ For purposes of this section and section 2056(d), the term "qualified domestic t
 
 #### (4) Tax where trust ceases to qualify
 
-&emsp;If any qualified domestic trust ceases to meet the requirements of paragraphs (1) and (2) of subsection (a), the tax imposed by paragraph (1) shall apply as if the surviving spouse died on the date of such cessation.
+&emsp;If any qualified domestic trust ceases to meet the requirements of paragraphs (1) and\(2) of subsection (a), the tax imposed by paragraph (1) shall apply as if the surviving spouse died on the date of such cessation.
 
 #### (5) Due date
 
@@ -96,7 +96,7 @@ For purposes of this section and section 2056(d), the term "qualified domestic t
 
 #### (8) Lien for tax
 
-&emsp;For purposes of section 6324, any tax imposed by paragraph (1) shall be treated as an estate tax imposed under this chapter with respect to a decedent dying on the date of the taxable event (and the property involved shallbe treated as the gross estate of such decedent).
+&emsp;For purposes of section 6324, any tax imposed by paragraph (1) shall be treated as an estate tax imposed under this chapter with respect to a decedent dying on the date of the taxable event (and the property involved shall be treated as the gross estate of such decedent).
 
 #### (9) Taxable event
 
@@ -146,7 +146,7 @@ For purposes of this section and section 2056(d), the term "qualified domestic t
 
 #### (14) Coordination with terminable interest rules
 
-&emsp;Any interest in a qualified domestic trust shall not be treated as failing to meet the requirements of paragraph (5) or (7) of section 2056(b) merely by reason of any provision of the trust instrument permitting the withholding from any distribution of an amount to pay the tax imposed by paragraph (1) on such distribution.
+&emsp;Any interest in a qualified domestic trust shall not be treated as failing to meet the requirements of paragraph (5) or (7) of section 2056(b) merely by reason of any provision of the trust instrument permitting the withholding from any distribution of an amount topay the tax imposed by paragraph (1) on such distribution.
 
 #### (15) No tax on certain distributions
 
@@ -174,7 +174,7 @@ An election under this section with respect to any trust shall be made by the ex
 
 #### (e) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section, including regulations under which there may be treated as a qualified domestic trust any annuity or other payment which is includible in the decedent's gross estate and is by its terms payable for life or a term of years.
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations under which there may be treated as a qualified domestic trust any annuity or other payment which is includible in the decedent's gross estate and is by its terms payable for life or a term of years.
 
 (Added Pub. L. 100–647, title V, §5033(a)(2), Nov. 10, 1988, 102 Stat. 3670; amended Pub. L. 101–239, title VII, §7815(d)(7), (9)–(13), (15), Dec. 19, 1989, 103 Stat. 2415–2418; Pub. L. 101–508, title XI, §§11702(g)(2)(A), (B), (3)(A), (4), 11704(a)(15), Nov. 5, 1990, 104 Stat. 1388–515, 1388–516, 1388–518; Pub. L. 105–34, title XIII, §§1312(a), 1314(a), Aug. 5, 1997, 111 Stat. 1044, 1045; Pub. L. 107–16, title V, §532(c)(6), June 7, 2001, 115 Stat. 74.)
 
@@ -236,7 +236,7 @@ Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and gene
 
 Pub. L. 105–34, title XIII, §1312(b), Aug. 5, 1997, 111 Stat. 1045, provided that: "The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
-Pub. L. 105–34, title XIII, §1314(b), Aug. 5, 1997, 111 Stat. 1045, provided that: "The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\]."
+Pub. L. 105–34, title XIII, §1314(b), Aug. 5, 1997, 111 Stat. 1045, provided that: "The amendment made bythis section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1990 Amendment
 
@@ -262,7 +262,7 @@ General Rule.—In the case of any trust created under an instrument executed be
 
 "(b)
 
-Effective Date.—The provisions of subsection (a) shall take effect as if included in the provisions ofsection 11702(g) of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508\]."
+Effective Date.—The provisions of subsection (a) shall take effect as if included in the provisions of section 11702(g) of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508\]."
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 

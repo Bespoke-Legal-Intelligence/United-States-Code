@@ -72,3 +72,9 @@ On an annual basis for each of the first 5 years beginning one year after the es
 
 (Pub. L. 93–406, title I, §523, as added Pub. L. 117–328, div. T, title III, §303(a), Dec. 29, 2022, 136 Stat. 5339.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+

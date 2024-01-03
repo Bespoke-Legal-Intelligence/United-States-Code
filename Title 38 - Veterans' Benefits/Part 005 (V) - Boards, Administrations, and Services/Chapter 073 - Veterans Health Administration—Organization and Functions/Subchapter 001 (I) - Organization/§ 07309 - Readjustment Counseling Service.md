@@ -262,7 +262,7 @@ In general.—Not later than one year after the date of the enactment of this Ac
 
 &emsp;&emsp;"(B)
 
-Reporting requirement.—In each of the first two annual reports submitted under section 7309(e) of title 38, United States Code, after the date of the enactment of this Act, the Secretary shall include a description of the actions taken by the Secretary to carry out subparagraph (A).
+Reporting requirement.—In each of the first two annual reports submitted under section7309(e) of title 38, United States Code, after the date of the enactment of this Act, the Secretary shall include a description of the actions taken by the Secretary to carry out subparagraph (A).
 
 &emsp;"(2)
 

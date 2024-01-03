@@ -114,7 +114,7 @@ Information collected by the Energy Information Administration shall be cataloge
 
 Pursuant to section 52(a) of the Federal Energy Administration Act of 1974 (15 U.S.C. 790a(a)), the Administrator shall—
 
-&emsp;(1) conduct surveys of residential and commercial energy use at least once every four years, and make such information available to the public;
+&emsp;(1) conduct surveys of residential and commercial energy use at least once every fouryears, and make such information available to the public;
 
 &emsp;(2) when surveying electric utilities, collect information on demand-side management programs conducted by such utilities, including information regarding the types of demand-side management programs being operated, the quantity of measures installed, expenditures on demand-side management programs, estimates of energy savings resulting from such programs, and whether the savings estimates were verified; and
 
@@ -150,7 +150,7 @@ In order to improve the ability to evaluate the effectiveness of the Nation's en
 
 (3) This subsection does not affect the authority of the Administrator to collect data under section 52 of the Federal Energy Administration Act of 1974 (15 U.S.C. 790a).
 
-(Pub. L. 95–91, title II, §205, Aug. 4, 1977, 91 Stat. 572; Pub. L. 99–509, title III, §3101(a), Oct. 21, 1986, 100 Stat. 1888; Pub. L. 102–486, title I, §171, Oct. 24, 1992, 106 Stat. 2864; Pub. L. 109–58, title XV,§1508, Aug. 8, 2005, 119 Stat. 1083; Pub. L. 113–76, div. D, title III, §315, Jan. 17, 2014, 128 Stat. 177.)
+(Pub. L. 95–91, title II, §205, Aug. 4, 1977, 91 Stat. 572; Pub. L. 99–509, title III, §3101(a), Oct. 21, 1986, 100 Stat. 1888; Pub. L. 102–486, title I, §171, Oct. 24, 1992, 106 Stat. 2864; Pub. L. 109–58, title XV, §1508, Aug. 8, 2005, 119 Stat. 1083; Pub. L. 113–76, div. D, title III, §315, Jan. 17, 2014, 128 Stat. 177.)
 
 #### <b>Editorial Notes</b>
 

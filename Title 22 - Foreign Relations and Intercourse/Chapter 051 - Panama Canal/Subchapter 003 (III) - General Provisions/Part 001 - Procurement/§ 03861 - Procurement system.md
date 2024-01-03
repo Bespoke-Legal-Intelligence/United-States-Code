@@ -30,7 +30,7 @@ The Commission shall develop a Supplement to the Regulation (in this section ref
 
 #### (d) Consultation with Administrator for Federal Procurement Policy
 
-In establishing the Regulation and developing the Supplement, the Commission shall consultwith the Administrator for Federal Procurement Policy.
+In establishing the Regulation and developing the Supplement, the Commission shall consult with the Administrator for Federal Procurement Policy.
 
 #### (e) Effective date
 

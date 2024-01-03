@@ -4,7 +4,7 @@ In this subchapter—
 
 &emsp;(1) the term "Council" means the National Methamphetamine Advisory Council established under section 2012(b)(1) of this title;
 
-&emsp;(2) the term "drug endangered children" means children whose physical, mental, oremotional health are at risk because of the production, use, or other effects of methamphetamine production or use by another person;
+&emsp;(2) the term "drug endangered children" means children whose physical, mental, or emotional health are at risk because of the production, use, or other effects of methamphetamine production or use by another person;
 
 &emsp;(3) the term "National Methamphetamine Information Clearinghouse" or "NMIC" means the information clearinghouse established under section 2012(a) of this title; and
 

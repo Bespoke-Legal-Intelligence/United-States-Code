@@ -12,7 +12,7 @@ If a participant dies and no claim for an annuity is payable under this subchapt
 
 #### (2) Computation
 
-&emsp;The annuity payable under paragraph (1) shall be computed in accordance with section 2031(a) of this title, except that the computation of the annuity of the participant under such section shall be at least the smaller of (A) 40 percent of the participant's high-3 average pay, or (B) the sum obtained under such section after increasing the participant's length of service by the difference between the participant's age at the time of death and age 60.
+&emsp;The annuity payable under paragraph (1) shall be computed in accordance with section 2031(a) of this title, except that the computation of the annuity of the participant under such section shall be at least the smaller of\(A) 40 percent of the participant's high-3 average pay, or (B) the sum obtained under such section after increasing the participant's length of service by the difference between the participant's age at the time of death and age 60.
 
 #### (3) Limitation
 

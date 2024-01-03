@@ -26,7 +26,7 @@ No funds made available under this part to a local educational agency for an ele
 
 #### (1) In general
 
-&emsp;The local educational agency with responsibility for a school covered by subsection (a) shall certify the compliance of such schoolwith the requirements of subsection (a) as part of the application process for the next program funding year under this chapter following December 21, 2000, and for each subsequent program funding year thereafter.
+&emsp;The local educational agency with responsibility for a school covered by subsection (a) shall certify the compliance of such school with the requirements of subsection (a) as part of the application process for the next program funding year under this chapter following December 21, 2000, and for each subsequent program funding year thereafter.
 
 #### (2) Process
 

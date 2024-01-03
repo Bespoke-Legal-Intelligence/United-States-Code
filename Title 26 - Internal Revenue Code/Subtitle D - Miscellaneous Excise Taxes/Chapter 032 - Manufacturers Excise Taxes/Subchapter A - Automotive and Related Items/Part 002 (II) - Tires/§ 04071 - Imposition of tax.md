@@ -44,7 +44,7 @@ Pub. L. 112–102 substituted "July 1, 2012" for "April 1, 2012".
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–357, §869(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, subsec. (a) imposed tax and set forth table of rates providing for no tax if the tire weighed not more than 40 lbs., tax of 15 cents per lb. in excess of 40 lbs. if the tire weighed more than 40 lbs. but not more than 70 lbs., tax of $4.50 plus 30 cents per lb. in excess of 70 lbs. if the tire weighed more than 70 lbs. but not more than 90 lbs., and tax of $10.50 plus 50 cents per lb. in excess of 90 lbs. if the tire weighed more than 90 lbs.
 
-Subsec. (c). Pub. L. 108–357, §869(d)(1), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: "For purposes of this section, weight shall be based on total weight exclusive of metal rims or rim bases. Total weight of the articles shall be determined under regulations prescribed by the Secretary."
+Subsec. (c). Pub. L. 108–357, §869(d)(1), redesignated subsec. (e) as (c) and struck out heading and text offormer subsec. (c). Text read as follows: "For purposes of this section, weight shall be based on total weight exclusive of metal rims or rim bases. Total weight of the articles shall be determined under regulations prescribed by the Secretary."
 
 Subsec. (e). Pub. L. 108–357, §869(d)(1), redesignated subsec. (e) as (c).
 
@@ -74,7 +74,7 @@ Subsec. (f). Pub. L. 98–369, §735(c)(2)(D), struck out subsec. (f) which rela
 
 &emsp;"(4) Tread rubber, 5 cents a pound.
 
-&emsp;"(5) Laminated tires (not of the type used on highway vehicles) which consist wholly of scrap rubberfrom used tire casings with an internal metal fastening agent, 1 cent a pound."
+&emsp;"(5) Laminated tires (not of the type used on highway vehicles) which consist wholly of scrap rubber from used tire casings with an internal metal fastening agent, 1 cent a pound."
 
 Subsec. (d). Pub. L. 97–424, §516(a)(2), substituted provision that, on and after Oct. 1, 1988, the taxes imposed by subsec. (a) shall not apply, for provision that, on and after Oct. 1, 1984, the tax imposed by subsec. (a)(1) would be 4.875 cents a pound, that by subsec. (a)(3) would be 9 cents a pound, and that subsec. (a)(4) would not apply.
 
@@ -176,7 +176,7 @@ Pub. L. 92–178, title IV, §401(h), Dec. 10, 1971, 85 Stat. 534, provided that
 
 &emsp;"(D) a chattel mortgage arrangement wherein it is provided that the sale price shall be paid in installments,
 
-> entered into on or before the date of the enactment of this Act \[Dec. 10, 1971\], payments made after such date, with respect to the article leased or sold shall, for purposes of this subsection, be considered as payments made with respect to an article sold after such date, if the lessor or vendor establishes that the amount of payments payable after such date with respect to such article has been reduced by an amount equal to thatportion of the tax applicable with respect to the lease or sale of such article which is due and payable after such date. If the lessor or vendor does not establish that the payments have been so reduced, they shall be treated as payments made in respect of an article sold before the day after the date of the enactment of this Act."
+> entered into on or before the date of the enactment of this Act \[Dec. 10, 1971\], payments made after such date, with respect to the article leased or sold shall, for purposes of this subsection, be considered as payments made with respect to an article sold after such date, if the lessor or vendor establishes that the amount of payments payable after such date with respect to such article has been reduced by an amount equal to that portion of the tax applicable with respect to the lease or sale of such article which is due and payable after such date. If the lessor or vendor does not establish that the payments have been so reduced, they shall be treated as payments made in respect of an article sold before the day after the date of the enactment of this Act."
 
 #### Effective Date of 1966 Amendment
 

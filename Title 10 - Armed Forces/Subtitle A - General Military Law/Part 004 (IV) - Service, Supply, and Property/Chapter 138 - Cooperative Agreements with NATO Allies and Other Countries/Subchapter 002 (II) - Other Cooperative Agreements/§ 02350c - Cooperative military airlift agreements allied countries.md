@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) Australia, New Zealand, Japan, and the Republic of Korea.
 
-&emsp;&emsp;(C) Any other country designated as an allied country for the purposes of this sectionby the Secretary of Defense with the concurrence of the Secretary of State.
+&emsp;&emsp;(C) Any other country designated as an allied country for the purposes of this section by the Secretary of Defense with the concurrence of the Secretary of State.
 
 &emsp;(2) The term "North Atlantic Treaty Organization subsidiary bodies" has the meaning given to it by section 2350 of this title.
 

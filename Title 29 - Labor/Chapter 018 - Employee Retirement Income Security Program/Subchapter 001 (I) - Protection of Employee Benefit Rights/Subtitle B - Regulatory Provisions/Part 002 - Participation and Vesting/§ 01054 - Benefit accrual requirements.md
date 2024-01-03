@@ -16,9 +16,9 @@ Each pension plan shall satisfy the requirements of subsection (b)(3), and—
 
 &emsp;(ii) the number of years (not in excess of 331/3) of his participation in the plan.
 
-> In the case of a plan providing retirement benefits based on compensation during any period, the normal retirement benefit to which a participant would be entitled shall be determined as if he continued to earn annually the average rate of compensation which he earned during consecutive years of service, not in excess of 10, for which his compensation was the highest. For purposes of this subparagraph, social security benefits and all other relevant factors used to compute benefits shall be treated as remaining constant as of the current year for all years after such current year.
+> In the case of a plan providing retirement benefits based on compensation during any period, the normal retirement benefit to which a participant would be entitled shall be determined as if he continued to earn annually the average rate of compensation which he earned during consecutive years of service, not in excess of 10, for which his compensation was the highest. Forpurposes of this subparagraph, social security benefits and all other relevant factors used to compute benefits shall be treated as remaining constant as of the current year for all years after such current year.
 
-(B) A defined benefit plan satisfies the requirements of this paragraph of a particular plan year if under the plan the accrued benefit payable at the normal retirement age is equal to the normal retirement benefit and the annual rate at which any individual who is or could bea participant can accrue the retirement benefits payable at normal retirement age under the plan for any later plan year is not more than 1331/3 percent of the annual rate at which he can accrue benefits for any plan year beginning on or after such particular plan year and before such later plan year. For purposes of this subparagraph—
+(B) A defined benefit plan satisfies the requirements of this paragraph of a particular plan year if under the plan the accrued benefit payable at the normal retirement age is equal to the normal retirement benefit and the annual rate at which any individual who is or could be a participant can accrue the retirement benefits payable at normal retirement age under the plan for any later plan year is not more than 1331/3 percent of the annual rate at which he can accrue benefits for any plan year beginning on or after such particular plan year and before such later plan year. For purposes of this subparagraph—
 
 &emsp;(i) any amendment to the plan which is in effect for the current year shall be treated as in effect for all other plan years;
 
@@ -58,7 +58,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3), and—
 
 (iii) In the case of any employee who, as of the end of any plan year under a defined benefit plan, has attained normal retirement age under such plan—
 
-&emsp;(I) if distribution of benefits under such plan with respect to such employee has commenced as of the end of such plan year, then any requirement of this subparagraph for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of the actuarial equivalent of in-service distribution of benefits, and
+&emsp;(I) if distribution of benefits under such plan with respect to such employee has commenced as of the end of such plan year, then any requirement of this subparagraph for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent ofthe actuarial equivalent of in-service distribution of benefits, and
 
 &emsp;(II) if distribution of benefits under such plan with respect to such employee has not commenced as of the end of such year in accordance with section 1056(a)(3) of this title, and the payment of benefits under such plan with respect to such employee is not suspended during such plan year pursuant to section 1053(a)(3)(B) of this title, then any requirement of this subparagraph for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of any adjustment in the benefit payable under the plan during such plan year attributable to the delay in the distribution of benefits after the attainment of normal retirement age.
 
@@ -248,7 +248,7 @@ Defined benefit plans.—In the case of a defined benefit plan, the accrued bene
 
 (3) For purposes of this section, in the case of any defined benefit plan, if an employee's accrued benefit is to be determined as an amount other than an annual benefit commencing at normal retirement age, or if the accrued benefit derived from contributions made by an employee is to be determined with respect to a benefit other than an annual benefit in the form of a single life annuity (without ancillary benefits) commencing at normal retirement age, the employee's accrued benefit, or the accrued benefits derived from contributions made by an employee, as the case may be, shall be the actuarial equivalent of such benefit or amount determined under paragraph (1) or (2).
 
-(4) In the case of a defined benefit plan which permits voluntary employee contributions, the portion of an employee's accrued benefit derived from such contributions shall be treated as an accrued benefit derived from employee contributions under a plan other than a defined benefit plan.
+(4) In the case of a defined benefit plan which permits voluntary employee contributions, theportion of an employee's accrued benefit derived from such contributions shall be treated as an accrued benefit derived from employee contributions under a plan other than a defined benefit plan.
 
 #### (d) Employee service which may be disregarded in determining employee's accrued benefits under plan
 
@@ -380,7 +380,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 (2) Paragraph (1) shall not apply to any plan amendment that—
 
-&emsp;(A) the Secretary of the Treasury determines to be reasonable and that provides foronly de minimis increases in the liabilities of the plan with respect to employees of the debtor,
+&emsp;(A) the Secretary of the Treasury determines to be reasonable and that provides for only de minimis increases in the liabilities of the plan with respect to employees of the debtor,
 
 &emsp;(B) only repeals an amendment described in section 1082(d)(2) of this title,
 
@@ -632,7 +632,7 @@ Subsec. (h). Pub. L. 107–16, §659(b), amended subsec. (h) generally. Prior to
 
 Subsec. (b)(1)(E). Pub. L. 101–239, §7894(c)(5), substituted "term 'year of service' " for "term 'years of service' ".
 
-Subsec. (b)(2)(B). Pub. L. 101–239, §7871(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "Subparagraph (A) shall not apply with respect to any employee who is a highly compensated employee (within the meaning of section 414(q) of title 26) to the extent provided in regulations prescribed by the Secretary of the Treasury for purposes of precluding discrimination in favor of highly compensated employees within the meaning of subchapter D of chapter 1 of title 26."
+Subsec. (b)(2)(B). Pub. L. 101–239, §7871(a)(1), redesignated subpar. (C) as (B) and struck out former subpar.\(B) which read as follows: "Subparagraph (A) shall not apply with respect to any employee who is a highly compensated employee (within the meaning of section 414(q) of title 26) to the extent provided in regulations prescribed by the Secretary of the Treasury for purposes of precluding discrimination in favor of highly compensated employees within the meaning of subchapter D of chapter 1 of title 26."
 
 Subsec. (b)(2)(C). Pub. L. 101–239, §7871(a)(3), substituted "subparagraphs (B) and (C)" for "subparagraphs (C) and (D)".
 
@@ -714,7 +714,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 Amendment by section 108(a)(5) to (8) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
-Amendment by section 502(c)(1) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, seesection 502(d) of Pub. L. 109–280, set out as a note under section 4980F of Title 26, Internal Revenue Code.
+Amendment by section 502(c)(1) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, see section 502(d) of Pub. L. 109–280, set out as a note under section 4980F of Title 26, Internal Revenue Code.
 
 Amendment by section 701(a)(1) of Pub. L. 109–280 applicable to periods beginning on or after June 29, 2005, with provisions relating to vesting and interest credit requirements for plans in existence on June 29, 2005, special rule for collectively bargained plans, and provisions relating to conversions of plan amendments adopted after, and taking effect after, June 29, 2005, see section 701(e) of Pub. L. 109–280, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
@@ -786,7 +786,7 @@ Amendment by section 1898(a)(4)(B)(ii), (f)(1)(B), (2) of Pub. L. 99–514 effec
 
 Amendment by Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only to employees who have 1 hour of service in any plan year to which amendment applies, with special rule for collectively bargained plans, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of this title.
 
-Pub. L. 99–272, title XI, §11006(b), Apr. 7, 1986, 100 Stat. 243, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to plan amendments adopted on or after January 1, 1986, except that, in the case of plan amendments adopted on or after January 1, 1986, and on or before the date of the enactment of this Act \[Apr. 7, 1986\], the requirements of section 204(h) of the Employee Retirement Income Security Act of 1974 \[subsec. (h) of this section\] (as added by this section) shall be treated as met if the written notice required under such section204(h) is provided before 60 days after the date of the enactment of this Act."
+Pub. L. 99–272, title XI, §11006(b), Apr. 7, 1986, 100 Stat. 243, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to plan amendments adopted on or after January 1, 1986, except that, in the case of plan amendments adopted on or after January 1, 1986, and on or before the date of the enactment of this Act \[Apr. 7, 1986\], the requirements of section 204(h) of the Employee Retirement Income Security Act of 1974 \[subsec. (h) of this section\] (as added by this section) shall be treated as met if the written notice required under such section 204(h) is provided before 60 days after the date of the enactment of this Act."
 
 #### Effective Date of 1984 Amendment
 

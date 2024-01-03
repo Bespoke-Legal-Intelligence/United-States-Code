@@ -54,7 +54,7 @@ Chapter 52 of the Internal Revenue Code of 1986, referred to in pars. (2)(A) and
 
 #### Amendments
 
-<b>2006</b>—Par. (2). Pub. L. 109–177, §121(b)(6), which directed amendment of par. (2) by substituting "State or local cigarette taxes in the State or locality where such cigarettes are found, if the State or local government" for "State cigarette taxes in the State where such cigarettes are found, if the State" in introductory provisions, was executed by making the substitution for "State cigarette taxes in the State where such cigarettes are found, if such State", to reflect the probable intent of Congress.
+<b>2006</b>—Par. (2). Pub. L. 109–177, §121(b)(6), which directed amendment of par. (2) by substituting "State orlocal cigarette taxes in the State or locality where such cigarettes are found, if the State or local government" for "State cigarette taxes in the State where such cigarettes are found, if the State" in introductory provisions, was executed by making the substitution for "State cigarette taxes in the State where such cigarettes are found, if such State", to reflect the probable intent of Congress.
 
 Pub. L. 109–177, §121(a)(1), substituted "10,000 cigarettes" for "60,000 cigarettes" in introductory provisions.
 

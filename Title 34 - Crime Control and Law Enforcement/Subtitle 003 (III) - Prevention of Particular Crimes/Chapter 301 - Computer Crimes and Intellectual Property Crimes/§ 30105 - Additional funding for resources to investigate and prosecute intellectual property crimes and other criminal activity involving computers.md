@@ -24,7 +24,7 @@ Funds made available under subsection (a) shall be used by the Director of the F
 
 &emsp;&emsp;(B) assist in the prosecution of such crimes; and
 
-&emsp;(2) enable relevant units of the Department of Justice, including units responsible for investigating computer hacking or intellectual property crimes, to procure advanced tools of forensic science and expert computer forensic assistance, including from non-governmental entities, to investigate, prosecute, and study such crimes.
+&emsp;(2) enable relevant units of the Department of Justice, including units responsible for investigating computer hacking or intellectual property crimes, to procure advanced tools offorensic science and expert computer forensic assistance, including from non-governmental entities, to investigate, prosecute, and study such crimes.
 
 (Pub. L. 110–403, title IV, §403, Oct. 13, 2008, 122 Stat. 4273.)
 

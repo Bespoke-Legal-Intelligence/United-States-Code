@@ -22,7 +22,7 @@ The Secretary may issue regulations to implement subsection (a), including regul
 
 #### (d) Notice
 
-Not later than 1 year after June 20, 2000, the Secretary shall publish for public comment a notice describing the procedures and standards that govern the consideration of import requests. The notice shall—
+Not later than 1 year after June 20, 2000, the Secretary shall publish for public comment anotice describing the procedures and standards that govern the consideration of import requests. The notice shall—
 
 &emsp;(1) specify how public input will be sought in advance of and during the process of promulgating regulations necessitating a risk assessment in order to ensure a fully transparent and publicly accessible process; and
 

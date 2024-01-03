@@ -14,7 +14,7 @@ In general.—The Administrator shall develop a plan for the certification, perm
 
 &emsp;(2)
 
-Contents.—The plan shall provide for the development of policies, procedures, or protocols that will allow appropriate officials of the Federal Aviation Administration to utilize such technologies or systems to take steps to detect and mitigate potential airspace safety risks posed by unmanned aircraft system operations.
+Contents.—The plan shall provide for the development of policies, procedures, or protocols that will allow appropriate officials of theFederal Aviation Administration to utilize such technologies or systems to take steps to detect and mitigate potential airspace safety risks posed by unmanned aircraft system operations.
 
 &emsp;(3)
 
@@ -34,7 +34,7 @@ Authority.—Under the testing and evaluation in subsection (c), the Administrat
 
 (e)
 
-Aip Funding Eligibility.—Upon the certification, permitting, authorizing, or allowing ofsuch technologies and systems that have been successfully tested under this section, an airport sponsor may apply for a grant under subchapter I of chapter 471 to purchase an unmanned aircraft detection and mitigation system. For purposes of this subsection, purchasing an unmanned aircraft detection and mitigation system shall be considered airport development (as defined in section 47102).
+Aip Funding Eligibility.—Upon the certification, permitting, authorizing, or allowing of such technologies and systems that have been successfully tested under this section, an airport sponsor may apply for a grant under subchapter I of chapter 471 to purchase an unmanned aircraft detection and mitigation system. For purposes of this subsection, purchasing an unmanned aircraft detection and mitigation system shall be considered airport development (as defined in section 47102).
 
 (f)
 
@@ -46,13 +46,13 @@ Applicability of Other Laws.—Section 46502 of this title, section 32 of title 
 
 (h)
 
-Sunset.—This section ceases to be effective September 30, 2023.
+Sunset.—This section ceases to be effective March 8, 2024.
 
 (i)
 
 Non-delegation.—The Administrator shall not delegate any authority granted to the Administrator under this section to other Federal, State, local, territorial, or tribal agencies, or an airport sponsor, as defined in section 47102 of title 49, United States Code. The Administrator may partner with other Federal agencies under this section, subject to any restrictions contained in such agencies' authority to operate counter unmanned aircraft systems.
 
-(Added Pub. L. 115–254, div. B, title III, §383(a), Oct. 5, 2018, 132 Stat. 3321.)
+(Added Pub. L. 115–254, div. B, title III, §383(a), Oct. 5, 2018, 132 Stat. 3321; amended Pub. L. 118–15, div. B, title II, §2202(d), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(d), Dec. 26, 2023, 137 Stat. 1113.)
 
 #### <b>Editorial Notes</b>
 
@@ -64,6 +64,12 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92
 
 The Computer Fraud and Abuse Act of 1986, referred to in subsec. (g), is Pub. L. 99–474, §1, Oct. 16, 1986, 100 Stat. 1213, which amended section 1030 of Title 18, Crimes and Criminal Procedure. Section 1031 of Title 18 was enacted by Pub. L. 100–700, known as the Major Fraud Act of 1988.
 
+#### Amendments
+
+<b>2023</b>—Subsec. (h). Pub. L. 118–34 substituted "March 8, 2024" for "December 31, 2023".
+
+Pub. L. 118–15 substituted "December 31, 2023" for "September 30, 2023".
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Cooperation Related to Certain Counter-UAS Technology
@@ -72,7 +78,7 @@ Pub. L. 115–254, div. B, title III, §365, Oct. 5, 2018, 132 Stat. 3310, provi
 
 #### Enforcement
 
-Pub. L. 115–254, div. B, title III, §372, Oct. 5, 2018, 132 Stat. 3312, provided that:
+Pub. L. 115–254, div. B, title III, §372, Oct. 5, 2018, 132 Stat. 3312, as amended by Pub. L. 118–15, div. B, title II, §2202(q), Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §102(q), Dec. 26, 2023, 137 Stat. 1114, provided that:
 
 "(a)
 
@@ -96,7 +102,7 @@ Report to Congress.—Not later than 1 year after the date of enactment of the F
 
 "(d)
 
-Sunset.—The pilot program established in subsection (a) shall terminate on September 30, 2023.
+Sunset.—The pilot program established in subsection (a) shall terminate on March 8, 2024.
 
 "(e)
 

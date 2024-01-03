@@ -14,7 +14,7 @@ Removal After 18
 
 Months.—(1) If an officer whose name is on a list of officers approved for promotion under section 14308(a) of this title to a grade for which appointment is required by section 12203(a) of this title to be made by and with the advice and consent of the Senate is not appointed to that grade under such section during the officer's promotion eligibility period, the officer's name shall be removed from the list unless as of the end of such period the Senate has given its advice and consent to the appointment.
 
-(2) Before the end of the promotion eligibility period with respect to an officer under paragraph (1), the President may extend that periodfor purposes of paragraph (1) by an additional 12 months.
+(2) Before the end of the promotion eligibility period with respect to an officer under paragraph (1), the President may extend that period for purposes of paragraph (1) by an additional 12 months.
 
 (3) In this subsection, the term "promotion eligibility period" means, with respect to an officer whose name is on a list of officers approved for promotion under section 14308(a) of this title to a grade for which appointment is required by section 12203(a) of this title to be made by and with the advice and consent of the Senate, the period beginning on the date on which the list is so approved and ending on the first day of the eighteenth month following the month during which the list is so approved.
 
@@ -62,7 +62,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 #### Removals From Promotion List
 
-Pub. L. 103–337, div. A, title XVI, §1684(b), Oct. 5, 1994, 108 Stat. 3024, as amended by Pub. L. 104–106, div. A, title XV, §1501(a)(9), Feb. 10, 1996, 110 Stat. 495, provided that: "An action that was initiated before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\] under the laws and regulations in effect before that date to remove the name of an officer from a promotion list or from a list of officers recommended or approved for promotion shall continue on and after such date as if such action had been initiated under section 14111(c) or 14310, as appropriate, of title 10, United States Code, as added by this title."
+Pub. L. 103–337, div. A, title XVI, §1684(b), Oct. 5, 1994, 108 Stat. 3024, as amended by Pub. L. 104–106, div. A,title XV, §1501(a)(9), Feb. 10, 1996, 110 Stat. 495, provided that: "An action that was initiated before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\] under the laws and regulations in effect before that date to remove the name of an officer from a promotion list or from a list of officers recommended or approved for promotion shall continue on and after such date as if such action had been initiated under section 14111(c) or 14310, as appropriate, of title 10, United States Code, as added by this title."
 
 #### <b>Executive Documents</b>
 

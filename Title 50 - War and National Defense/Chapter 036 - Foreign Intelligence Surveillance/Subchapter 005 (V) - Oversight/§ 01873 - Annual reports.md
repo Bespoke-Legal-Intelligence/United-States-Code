@@ -86,7 +86,7 @@ The annual reports required by subsections (a) and (b) shall be made publicly av
 
 #### (A) Federal Bureau of Investigation
 
-&emsp;&emsp;Paragraphs (2)(B), (2)(C), and (6)(C) of subsection (b) shall not apply to information or records held by, or queries conducted by, the Federal Bureau of Investigation, except withrespect to information required under paragraph (2) relating to orders issued under section 1881a(f)(2) of this title.
+&emsp;&emsp;Paragraphs (2)(B), (2)(C), and (6)(C) of subsection (b) shall not apply to information or records held by, or queries conducted by, the Federal Bureau of Investigation, except with respect to information required under paragraph (2) relating to orders issued under section 1881a(f)(2) of this title.
 
 #### (B) Electronic mail address and telephone numbers
 
@@ -98,7 +98,7 @@ The annual reports required by subsections (a) and (b) shall be made publicly av
 
 &emsp;&emsp;If the Director of National Intelligence concludes that a good faith estimate required to be reported under subsection (b)(2)(C) cannot be determined accurately because some but not all of the relevant elements of the intelligence community are able to provide such good faith estimate, the Director shall—
 
-&emsp;&emsp;&emsp;(i) certify that conclusion in writing to the Select Committee on Intelligence and the Committee on the Judiciary of the Senate and the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives;
+&emsp;&emsp;&emsp;(i) certify that conclusion in writing to the Select Committee on Intelligence andthe Committee on the Judiciary of the Senate and the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives;
 
 &emsp;&emsp;&emsp;(ii) report the good faith estimate for those relevant elements able to provide such good faith estimate;
 

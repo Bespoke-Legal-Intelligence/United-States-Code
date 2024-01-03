@@ -26,7 +26,7 @@
 
 &emsp;(12) A $25 coin of an appropriate size and thickness, as determined by the Secretary, that weighs 1 troy ounce and contains .9995 fine palladium.
 
-(b) The half dollar, quarter dollar, and dime coins are clad coins with 3 layers of metal. The 2 identical outer layers are an alloy of 75 percent copper and 25 percent nickel. The inner layer is copper. The outer layers are metallurgically bonded to the inner layer and weigh at least 30 percent of the weight of the coin. The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997. The 5-cent coin is an alloy of 75 percent copper and 25 percent nickel. In minting 5-cent coins, the Secretary shall use bars that vary not more than 2.5 percent from the percent of nickel required. Except as provided under subsection (c) of this section, the one-cent coin is an alloy of 95 percent copper and 5 percent zinc. In minting gold coins, the Secretary shall use alloys that vary not more than 0.1 percent from the percent of gold required. The specifications for alloys are by weight.
+(b) The half dollar, quarter dollar, and dime coins are clad coins with 3 layers of metal. The 2 identical outer layers are an alloy of 75 percent copper and 25 percent nickel. The inner layer is copper. The outer layers are metallurgically bonded to the inner layer and weigh at least 30 percent of the weight of the coin. Thedollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997. The 5-cent coin is an alloy of 75 percent copper and 25 percent nickel. In minting 5-cent coins, the Secretary shall use bars that vary not more than 2.5 percent from the percent of nickel required. Except as provided under subsection (c) of this section, the one-cent coin is an alloy of 95 percent copper and 5 percent zinc. In minting gold coins, the Secretary shall use alloys that vary not more than 0.1 percent from the percent of gold required. The specifications for alloys are by weight.
 
 (c) The Secretary may prescribe the weight and the composition of copper and zinc in the alloy of the one-cent coin that the Secretary decides are appropriate when the Secretary decides that a different weight and alloy of copper and zinc are necessary to ensure an adequate supply of one-cent coins to meet the needs of the United States.
 
@@ -180,7 +180,7 @@ Standards.—Because it is important that the Nation's coinage and currency bear
 
 &emsp;&emsp;(E)
 
-Prohibition on certain representations.—No head and shoulders portrait or bust of any person, living or dead, and no portrait of a living person may be included in the design of any quarter dollar under this subsection.
+Prohibition on certain representations.—No head and shoulders portrait orbust of any person, living or dead, and no portrait of a living person may be included in the design of any quarter dollar under this subsection.
 
 &emsp;(5)
 
@@ -294,7 +294,7 @@ Inscriptions of "liberty".—Notwithstanding the second sentence of subsection (
 
 &emsp;&emsp;(E)
 
-Limitation in series to deceased presidents.—No coin issued under this subsection may bear the image of a living former or current President, or of any deceased former President during the 2-year period following the date of the death of that President.
+Limitation in series to deceased presidents.—No coin issued under this subsection may bear the image of a livingformer or current President, or of any deceased former President during the 2-year period following the date of the death of that President.
 
 &emsp;&emsp;(F)
 
@@ -818,7 +818,7 @@ Redesign beginning upon completion of prior program.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2), quarter dollars issued beginning in 2010 shall have designs on the reverseselected in accordance with this subsection which are emblematic of the national sites in the States, the District of Columbia and the territories of the United States.
+In general.—Notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2), quarter dollars issued beginning in 2010 shall have designs on the reverse selected in accordance with this subsection which are emblematic of the national sites in the States, the District of Columbia and the territories of the United States.
 
 &emsp;&emsp;(B)
 
@@ -1028,7 +1028,7 @@ Design.—Coins minted and issued under this subsection shall bear designs on th
 
 &emsp;&emsp;(B) the reverse shall bear a high-relief version of the reverse design of the 1907 American Institute of Architects medal; and
 
-&emsp;&emsp;(C) the coin shall bear such other inscriptions, including "Liberty", "In God We Trust", "United States of America", the denomination and weight of the coin and the fineness of the metal, as the Secretary determines to be appropriate and in keeping with the original design.
+&emsp;&emsp;(C) the coin shall bear such other inscriptions, including "Liberty", "In God We Trust", "United States of America", the denomination and weight of the coin and thefineness of the metal, as the Secretary determines to be appropriate and in keeping with the original design.
 
 &emsp;(7)
 
@@ -1128,7 +1128,7 @@ Order of issuance.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The coins issued under this subsection commemorating either an innovation, an individual innovator, or a group of innovators, from each State, theDistrict of Columbia, or a territory shall be issued in the following order:
+In general.—The coins issued under this subsection commemorating either an innovation, an individual innovator, or a group of innovators, from each State, the District of Columbia, or a territory shall be issued in the following order:
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
@@ -1224,7 +1224,7 @@ In general.—Effective beginning January 1, 2022, notwithstanding the fourth se
 
 Flexibility with regard to placement of inscriptions.—Notwithstanding subsection (d)(1), the Secretary may select a design for quarter dollars referred to in subparagraph (A) in which—
 
-&emsp;&emsp;&emsp;(i) the inscription described in the second sentence of subsection (d)(1) appearson the reverse side of any such quarter dollar; and
+&emsp;&emsp;&emsp;(i) the inscription described in the second sentence of subsection (d)(1) appears on the reverse side of any such quarter dollar; and
 
 &emsp;&emsp;&emsp;(ii) any of the inscriptions described in the third sentence of subsection (d)(1) or the designation of the value of the coin appear on the obverse side of any such quarter dollar.
 
@@ -1234,7 +1234,7 @@ Single prominent american woman on each quarter dollar.—The design on the reve
 
 &emsp;&emsp;(D)
 
-Issuance of quarter dollars emblematic of up to five prominent american women each year.—The designs for the quarter dollars issued during each year of the period of issuance described under paragraph (4) shall be emblematic of up to five prominent American women.
+Issuance of quarter dollars emblematic of up to five prominent american women each year.—The designs for the quarter dollars issued during each year ofthe period of issuance described under paragraph (4) shall be emblematic of up to five prominent American women.
 
 &emsp;&emsp;(E)
 
@@ -1328,7 +1328,7 @@ Redesign of quarter dollars beginning in 2027.—
 
 &emsp;&emsp;(A)
 
-In general.—Effective beginning January 1, 2027, notwithstanding the fourth sentence of subsection (d)(1) and subsection\(d)(2), the Secretary shall issue quarter dollars that have designs on the reverse selected in accordance with this subsection which are emblematic of sports played by American youth.
+In general.—Effective beginning January 1, 2027, notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2), the Secretary shall issue quarter dollars that have designs on the reverse selected in accordance with this subsection which are emblematic of sports played by American youth.
 
 &emsp;&emsp;(B)
 
@@ -1344,7 +1344,7 @@ Single sport on each quarter dollar.—The design on the reverse side of each qu
 
 &emsp;&emsp;(D)
 
-Issuance of quarter dollars emblematic of up to five sports each year.—The designs for the quarter dollars issued during each year of the period referred to in paragraph (5) shall be emblematic of up to five sports.
+Issuance of quarter dollars emblematic of up to five sports each year.—Thedesigns for the quarter dollars issued during each year of the period referred to in paragraph (5) shall be emblematic of up to five sports.
 
 &emsp;&emsp;(E)
 
@@ -1730,7 +1730,7 @@ Subsec. (p). Pub. L. 109–145, §104, added subsec. (p).
 
 Subsec. (q). Pub. L. 109–145, §201(2), added subsec. (q).
 
-<b>2003</b>—Subsec. (d)(1). Pub. L. 108–15, §102(a), inserted after fourth sentence "Subject to other provisions ofthis subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello."
+<b>2003</b>—Subsec. (d)(1). Pub. L. 108–15, §102(a), inserted after fourth sentence "Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello."
 
 Subsec. (d)(2). Pub. L. 108–15, §102(b), inserted ", after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts," after "The Secretary may" in second sentence.
 
@@ -1744,7 +1744,7 @@ Subsec. (l)(4)(A)(ii). Pub. L. 108–15, §103(d)(1), substituted "Citizens Coin
 
 Subsec. (b). Pub. L. 105–124, §4(c), struck out "dollar," before "half dollar" in first sentence and inserted after fourth sentence "The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997."
 
-Subsec. (d)(1). Pub. L. 105–124, §4(d), substituted "The Secretary of the Treasury, in consultation with the Congress, shall select appropriate designs for the obverse and reverse sides of the dollar coin." for "The eagle on the reverse side of the dollar is the symbolic eagle of Apollo 11 landing on the moon. The obverse side of the dollar has the likeness of Susan B. Anthony."
+Subsec. (d)(1). Pub. L. 105–124, §4(d), substituted "The Secretary of the Treasury, in consultation with theCongress, shall select appropriate designs for the obverse and reverse sides of the dollar coin." for "The eagle on the reverse side of the dollar is the symbolic eagle of Apollo 11 landing on the moon. The obverse side of the dollar has the likeness of Susan B. Anthony."
 
 Subsec. (l). Pub. L. 105–124, §3, added subsec. (l).
 
@@ -1812,7 +1812,7 @@ Pub. L. 105–124, §5, Dec. 1, 1997, 111 Stat. 2537, provided that: "Nothing in
 
 #### Cost specification under Circulating Collectible Coin Redesign Act of 2020
 
-Pub. L. 116–330, §8, Jan. 13, 2021, 134 Stat. 5108, provided that: "No coin or medal minted and issued underthis Act \[amending this section and enacting provisions set out as a note under section 5101 of this title\], or an amendment made by this Act, may be sold at a price such that would result in a net cost to the Federal Government."
+Pub. L. 116–330, §8, Jan. 13, 2021, 134 Stat. 5108, provided that: "No coin or medal minted and issued under this Act \[amending this section and enacting provisions set out as a note under section 5101 of this title\], or an amendment made by this Act, may be sold at a price such that would result in a net cost to the Federal Government."
 
 #### 1921 Silver Dollar Coins
 
@@ -1942,7 +1942,7 @@ Circulating $1 Coins Honoring President George H.W. Bush.—Notwithstanding subs
 
 "(b)
 
-Bullion Coins Honoring First Spouse Barbara Bush.—Notwithstanding paragraphs (1) and (5)(C) of section 5112(o) of title 31, United States Code, and in accordance with the other provisions of such section5112(o), the Secretary of the Treasury, beginning on January 1, 2020, shall mint and issue bullion coins that bear—
+Bullion Coins Honoring First Spouse Barbara Bush.—Notwithstanding paragraphs (1) and (5)(C) of section 5112(o) of title 31, United States Code, and in accordance with the other provisions of such section 5112(o), the Secretary of the Treasury, beginning on January 1, 2020, shall mint and issue bullion coins that bear—
 
 &emsp;"(1) the image of First Spouse Barbara Bush; and
 
@@ -2242,7 +2242,7 @@ Production of New Dollar Coins.—
 
 &emsp;"(1)
 
-In general.—Upon the depletion of the Government's supply (as of the date of enactment of this Act\[Dec. 1, 1997\]) of $1 coins bearing the likeness of Susan B. Anthony, the Secretary of the Treasury shall place into circulation $1 coins that comply with the requirements of subsections (b) and (d)(1) of section 5112 of title 31, United States Code, as amended by this section.
+In general.—Upon the depletion of the Government's supply (as of the date of enactment of this Act \[Dec. 1, 1997\]) of $1 coins bearing the likeness of Susan B. Anthony, the Secretary of the Treasury shall place into circulation $1 coins that comply with the requirements of subsections (b) and (d)(1) of section 5112 of title 31, United States Code, as amended by this section.
 
 &emsp;"(2)
 
@@ -2391,6 +2391,8 @@ Pub. L. 99–185, §2(g), Dec. 17, 1985, 99 Stat. 1178, provided that: "The Secr
 #### Commemorative Coins
 
 Provisions authorizing commemorative coins were contained in the following acts:
+
+Pub. L. 118–10, July 26, 2023, 137 Stat. 56.—United States Marine Corps 250th Anniversary.
 
 Pub. L. 117–163, Aug. 3, 2022, 136 Stat. 1353.—Harriet Tubman Bicentennial.
 

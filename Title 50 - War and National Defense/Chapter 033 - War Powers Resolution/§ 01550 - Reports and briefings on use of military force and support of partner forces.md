@@ -32,7 +32,7 @@ The information required under paragraphs (1) and (2) of subsection (b) shall be
 
 If United States Armed Forces are introduced into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, against any country, organization, or person pursuant to statutory or constitutional authorities other than Authorization for Use of Military Force, the President shall comply with the reporting requirements under—
 
-&emsp;(1) this section to the same extent and in the same manner as if such actions had beentaken under Authorization for Use of Military Force;
+&emsp;(1) this section to the same extent and in the same manner as if such actions had been taken under Authorization for Use of Military Force;
 
 &emsp;(2) the War Powers Resolution (50 U.S.C. 1541 et seq.); and
 
@@ -50,7 +50,7 @@ At least once during each 180-day period described in subsection (a), the Presid
 
 The Authorization for Use of Military Force, referred to in text, is Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, which is set out as a note under section 1541 of this title.
 
-The War Powers Resolution, referred to in subsec. (d)(2), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to this chapter. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of this title and Tables.
+The War Powers Resolution, referred to in subsec. (d)(2), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to this chapter. For complete classification of this Resolution to the Code, see ShortTitle note set out under section 1541 of this title and Tables.
 
 #### Codification
 

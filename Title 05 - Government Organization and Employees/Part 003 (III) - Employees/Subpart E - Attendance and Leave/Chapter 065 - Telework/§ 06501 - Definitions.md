@@ -34,7 +34,7 @@ Research by OPM on Telework.—The Director of the Office of Personnel Managemen
 
 "(b)
 
-Use of Contract To Carry Out Research.—The Director of the Office of Personnel Management may carry out subsection (a) under a contract entered into by the Director using competitive procedures under section 303 of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253) \[see 41 U.S.C. 3105, 3301, 3303 to 3305\].
+Use of Contract To Carry Out Research.—The Director of the Office of Personnel Management may carry out subsection (a) under a contract entered into by the Director using competitive procedures undersection 303 of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253) \[see 41 U.S.C. 3105, 3301, 3303 to 3305\].
 
 "(c)
 

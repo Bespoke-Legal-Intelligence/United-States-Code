@@ -1,6 +1,6 @@
 ### §5375. Appeals
 
-Except as provided in section 5366(d) of this title, in any administrative action, appeal, or civil action for judicial review of any decision made by the Secretary under this subchapter, the Secretary shall have the burden of proof of demonstrating by a preponderance of the evidence—
+Except as provided in section 5366(d) of this title, in any administrative action, appeal, orcivil action for judicial review of any decision made by the Secretary under this subchapter, the Secretary shall have the burden of proof of demonstrating by a preponderance of the evidence—
 
 &emsp;(1) the validity of the grounds for the decision; and
 

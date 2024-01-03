@@ -56,5 +56,5 @@ For effective date of amendment by Pub. L. 85–475, see section 4(c) of Pub. L.
 
 #### Savings Provision
 
-Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendmentof this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under section 171 of Title 21, Food and Drugs.
+Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under section 171 of Title 21, Food and Drugs.
 

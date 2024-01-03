@@ -40,7 +40,7 @@ For purposes of this subchapter, the term "private communication service" means�
 
 > except that such term does not include any communication service unless a separate charge is made for such service.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 503; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1290;Pub. L. 87–508, §4(a), June 28, 1962, 76 Stat. 115; Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 145.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 503; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1290; Pub. L. 87–508, §4(a), June 28, 1962, 76 Stat. 115; Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 145.)
 
 #### <b>Editorial Notes</b>
 

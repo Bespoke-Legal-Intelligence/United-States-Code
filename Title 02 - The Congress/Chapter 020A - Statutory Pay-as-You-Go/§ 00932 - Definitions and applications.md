@@ -8,7 +8,7 @@ As used in this chapter—
 
 &emsp;&emsp;(A) The term "outyear" means a fiscal year one or more years after the budget year.
 
-&emsp;&emsp;(B) In section 250(c)(8)(C) \[2 U.S.C. 900(c)(8)(C)\], the reference to the food stamp program shall be deemed to be a reference to the Supplemental Nutrition Assistance Program.
+&emsp;&emsp;(B) In section 250(c)(8)(C) \[2 U.S.C. 900(c)(8)(C)\], the reference to the food stampprogram shall be deemed to be a reference to the Supplemental Nutrition Assistance Program.
 
 &emsp;(3) The term "AMT" means the Alternative Minimum Tax for individuals under sections 55–59 of title 26, the term "EGTRRA" means the Economic Growth and Tax Relief Reconciliation Act of 2001 (Public Law 107–16), and the term "JGTRRA" means the Jobs and Growth Tax Relief and <sup>1</sup> Reconciliation Act of 2003 (Public Law 108–27).
 

@@ -24,7 +24,7 @@ Not later than 30 days after the date on which a change is made to the legal and
 
 #### (c) Form
 
-The report required by subsection (a) and each notice required by subsection (b) shall be submitted in unclassified form, but may contain a classified annex. The unclassified portion of each report shall, at a minimum, include each change made to the legal and policy frameworksduring the preceding year and the legal, factual, and policy justifications for such changes, and shall be made available to the public at the same time it is submitted to the appropriate congressional committees.
+The report required by subsection (a) and each notice required by subsection (b) shall be submitted in unclassified form, but may contain a classified annex. The unclassified portion of each report shall, at a minimum, include each change made to the legal and policy frameworks during the preceding year and the legal, factual, and policy justifications for such changes, and shall be made available to the public at the same time it is submitted to the appropriate congressional committees.
 
 #### (d) Appropriate congressional committees defined
 
@@ -40,7 +40,7 @@ In this section, the term "appropriate congressional committees" means—
 
 #### References in Text
 
-The Authorization for Use of Military Force, referred to in subsec. (a)(2)(A), is Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, which is set out as a note under section 1541 of this title.
+The Authorization for Use of Military Force, referred to in subsec. (a)(2)(A), is Pub. L. 107–40, Sept. 18, 2001,115 Stat. 224, which is set out as a note under section 1541 of this title.
 
 #### Codification
 

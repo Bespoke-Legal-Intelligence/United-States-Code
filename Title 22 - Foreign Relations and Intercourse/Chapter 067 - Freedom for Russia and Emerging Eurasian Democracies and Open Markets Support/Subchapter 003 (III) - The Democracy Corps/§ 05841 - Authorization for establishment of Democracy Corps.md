@@ -48,7 +48,7 @@ The Democracy Corps shall be required to—
 
 &emsp;(1) coordinate its activities pursuant to this section with the programs and activities of other entities operating in or providing assistance to the independent states of the former Soviet Union in support of the development of democratic institutions, a market-oriented economy, and a civil society; and
 
-&emsp;(2) ensure that its activities pursuant to this section are designed to avoid duplication with activities carried out under other United States Government foreign assistance and international information, educational, cultural, and exchange programs.
+&emsp;(2) ensure that its activities pursuant to this section are designed to avoid duplication with activities carried out under other United States Government foreign assistance andinternational information, educational, cultural, and exchange programs.
 
 #### (g) Prohibition on campaign financing
 
@@ -74,7 +74,7 @@ The Board shall be required to submit to the Administrator and the Congress, not
 
 #### (j) Authorization of appropriations
 
-Of the amount authorized to be appropriated to carry out chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\], up to $15,000,000 for fiscal year 1993 are authorized to be appropriated for grants to the DemocracyCorps under this section, in addition to amounts otherwise available for such purpose.
+Of the amount authorized to be appropriated to carry out chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\], up to $15,000,000 for fiscal year 1993 are authorized to be appropriated for grants to the Democracy Corps under this section, in addition to amounts otherwise available for such purpose.
 
 #### (k) Sunset provision
 

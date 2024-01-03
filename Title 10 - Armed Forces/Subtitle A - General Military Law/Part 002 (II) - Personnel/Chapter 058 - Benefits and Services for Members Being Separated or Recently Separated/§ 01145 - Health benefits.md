@@ -12,7 +12,7 @@ Transitional Health Care.—(1) For the time period described in paragraph (4), 
 
 &emsp;(A) A member who is involuntarily separated from active duty.
 
-&emsp;(B) A member of a reserve component who is separated from active duty to which called orordered under section 12304b of this title or a provision of law referred to in section 101(a)(13)(B) of this title if the active duty is active duty for a period of more than 30 days.
+&emsp;(B) A member of a reserve component who is separated from active duty to which called or ordered under section 12304b of this title or a provision of law referred to in section 101(a)(13)(B) of this title if the active duty is active duty for a period of more than 30 days.
 
 &emsp;(C) A member who is separated from active duty for which the member is involuntarily retained under section 12305 of this title in support of a contingency operation.
 
@@ -44,7 +44,7 @@ Transitional Health Care.—(1) For the time period described in paragraph (4), 
 
 (B) Assistance provided to a member under paragraph (1) shall include the following:
 
-&emsp;(i) Information regarding, and any appropriate referral for, the care, treatment, and other services that the Secretary of Veterans Affairs may provide to such member under any other provision of law, including—
+&emsp;(i) Information regarding, and any appropriate referral for, the care, treatment, andother services that the Secretary of Veterans Affairs may provide to such member under any other provision of law, including—
 
 &emsp;&emsp;(I) clinical services, including counseling and treatment for post-traumatic stress disorder and other mental health conditions; and
 
@@ -114,7 +114,7 @@ Definition.—In this section, the term "conversion health policy" means a healt
 
 Coast Guard.—The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents when the Coast Guard is not operating as a service in the Navy.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, §706(a)(1), (3), (b), Oct.28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §749, Jan. 6, 2006, 119 Stat. 3364; Pub. L. 110–181, div. A, title XVI, §1637, Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–317, §4, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 110–417, \[div. A\], title VII, §734(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 111–84, div. A, title VII, §703, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 112–81, div. A, title VII, §706, Dec. 31, 2011, 125 Stat. 1474; Pub. L. 112–239, div. A, title X, §1076(f)(15), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §511(b), title VII, §§705, 706(a), Dec. 12, 2017, 131 Stat. 1376, 1435, 1436; Pub. L. 116–92, div. A, title VII, §704(b), Dec. 20, 2019, 133 Stat. 1438; Pub. L. 117–81, div. A, title VII, §717, Dec. 27, 2021, 135 Stat. 1789; Pub. L. 117–263, div. A, title VII, §702, Dec. 23, 2022, 136 Stat. 2647.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, §706(a)(1), (3), (b), Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §749, Jan. 6, 2006, 119 Stat. 3364; Pub. L. 110–181, div. A, title XVI, §1637, Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–317, §4, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 110–417, \[div. A\], title VII, §734(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 111–84, div. A, title VII, §703, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 112–81, div. A, title VII, §706, Dec. 31, 2011, 125 Stat. 1474; Pub. L. 112–239, div. A, title X, §1076(f)(15), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §511(b), title VII, §§705, 706(a), Dec. 12, 2017, 131 Stat. 1376, 1435, 1436; Pub. L. 116–92, div. A, title VII, §704(b), Dec. 20, 2019, 133 Stat. 1438; Pub. L. 117–81, div. A, title VII, §717, Dec. 27, 2021, 135 Stat. 1789; Pub. L. 117–263, div. A, title VII, §702, Dec. 23, 2022, 136 Stat. 2647.)
 
 #### <b>Editorial Notes</b>
 

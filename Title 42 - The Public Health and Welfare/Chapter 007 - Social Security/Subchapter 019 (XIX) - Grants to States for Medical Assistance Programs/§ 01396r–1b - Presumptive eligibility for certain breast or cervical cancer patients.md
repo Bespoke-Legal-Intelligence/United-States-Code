@@ -80,7 +80,7 @@ Notwithstanding any other provision of this subchapter, medical assistance that�
 
 #### Effective Date
 
-Section applicable to medical assistance for items and services furnished on or after Oct. 1, 2000, without regard to whether final regulations to carry out such amendments have been promulgated by such date, see section 2(d) of Pub. L. 106–354, set out as an Effective Date of 2000 Amendment note under section 1396a of this title.
+Section applicable to medical assistance for items and services furnished on or after Oct. 1, 2000, withoutregard to whether final regulations to carry out such amendments have been promulgated by such date, see section 2(d) of Pub. L. 106–354, set out as an Effective Date of 2000 Amendment note under section 1396a of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 

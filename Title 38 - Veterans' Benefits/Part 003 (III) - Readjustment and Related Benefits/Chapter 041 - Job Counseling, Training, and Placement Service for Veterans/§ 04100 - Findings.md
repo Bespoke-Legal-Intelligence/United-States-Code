@@ -250,7 +250,7 @@ Reports.—Beginning not later than 2 years after the date of enactment of this 
 
 Committees.—The Secretary shall provide the reports required under subsection (a) to the Chairman and Ranking Member of—
 
-&emsp;"(1) the Committees on Education and the Workforce \[now Education and Labor\] and Veterans' Affairs of the House of Representatives; and
+&emsp;"(1) the Committees on Education and the Workforce and Veterans' Affairs of the House of Representatives; and
 
 &emsp;"(2) the Committees on Health, Education, Labor, and Pensions and Veterans' Affairs of the Senate.
 

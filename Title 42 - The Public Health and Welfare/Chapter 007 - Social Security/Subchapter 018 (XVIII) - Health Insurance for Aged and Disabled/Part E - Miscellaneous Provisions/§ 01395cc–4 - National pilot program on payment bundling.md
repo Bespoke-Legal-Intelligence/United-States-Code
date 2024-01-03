@@ -154,7 +154,7 @@
 
 #### (i) Establishment of payment methods
 
-&emsp;&emsp;&emsp;The Secretary shall develop payment methods for the pilot program for entitiesparticipating in the pilot program. Such payment methods may include bundled payments and bids from entities for episodes of care. The Secretary shall make payments to the entity for services covered under this section.
+&emsp;&emsp;&emsp;The Secretary shall develop payment methods for the pilot program for entities participating in the pilot program. Such payment methods may include bundled payments and bids from entities for episodes of care. The Secretary shall make payments to the entity for services covered under this section.
 
 #### (ii) No additional program expenditures
 

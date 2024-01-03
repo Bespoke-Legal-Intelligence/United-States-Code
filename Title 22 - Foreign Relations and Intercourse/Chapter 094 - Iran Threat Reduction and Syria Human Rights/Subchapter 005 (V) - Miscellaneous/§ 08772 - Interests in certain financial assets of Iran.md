@@ -28,7 +28,7 @@
 
 The financial assets described in this section are the financial assets that are—
 
-&emsp;(1) identified in and the subject of proceedings in the United States District Court for the Southern District of New York in Peterson et al. v. Islamic Republic of Iran et al., Case No. 10 Civ. 4518 (BSJ) (GWG), that were restrained by restraining notices and levies secured by the plaintiffs in those proceedings, as modified by court order dated June 27, 2008, and extended by court orders dated June 23, 2009, May 10, 2010, and June 11, 2010, so long assuch assets remain restrained by court order; and
+&emsp;(1) identified in and the subject of proceedings in the United States District Court for the Southern District of New York in Peterson et al. v. Islamic Republic of Iran et al., Case No. 10 Civ. 4518 (BSJ) (GWG), that were restrained by restraining notices and levies secured by the plaintiffs in those proceedings, as modified by court order dated June 27, 2008, and extended by court orders dated June 23, 2009, May 10, 2010, and June 11, 2010, so long as such assets remain restrained by court order; and
 
 &emsp;(2) identified in and the subject of proceedings in the United States District Court for the Southern District of New York in Peterson et al. v. Islamic Republic of Iran et al., Case No. 13 Civ. 9195 (LAP).
 

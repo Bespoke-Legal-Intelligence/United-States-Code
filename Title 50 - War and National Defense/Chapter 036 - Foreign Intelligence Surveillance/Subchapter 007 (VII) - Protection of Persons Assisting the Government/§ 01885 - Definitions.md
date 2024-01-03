@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Assistance
 
-&emsp;The term "assistance" means the provision of, or the provision of access to, information (including communication contents, communications records, or other information relating to a customer or communication), facilities, or another form of assistance.
+&emsp;The term "assistance" means the provision of, or the provision of access to, information\(including communication contents, communications records, or other information relating to a customer or communication), facilities, or another form of assistance.
 
 #### (2) Civil action
 

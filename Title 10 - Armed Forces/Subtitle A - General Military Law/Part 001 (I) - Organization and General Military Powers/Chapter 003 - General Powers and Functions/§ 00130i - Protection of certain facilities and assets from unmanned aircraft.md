@@ -84,9 +84,9 @@ Rule of Construction.—Nothing in this section may be construed to—
 
 (i)
 
-Partial Termination.—(1) Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C) shall terminate on December 31, 2023.
+Partial Termination.—(1) Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C) shall terminate on December 31, 2026.
 
-(2) The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2023, the President certifies to Congress that such extension is in the national security interests of the United States.
+(2) The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2026, the President certifies to Congress that such extension is in the national security interests of the United States.
 
 (j)
 
@@ -104,7 +104,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "covered facility or asset" means any facility or asset that—
 
-&emsp;&emsp;(A) is identified by the Secretary of Defense, in consultation with the Secretary of Transportation with respect to potentially impacted airspace, through a risk-based assessment for purposes of this section;
+&emsp;&emsp;(A) is identified by the Secretary of Defense, in consultation with the Secretary of Transportation with respect to potentiallyimpacted airspace, through a risk-based assessment for purposes of this section;
 
 &emsp;&emsp;(B) is located in the United States (including the territories and possessions of the United States); and
 
@@ -134,7 +134,7 @@ Definitions.—In this section:
 
 &emsp;(6) The terms "unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 44801 of title 49.
 
-(Added Pub. L. 114–328, div. A, title XVI, §1697(a), Dec. 23, 2016, 130 Stat. 2639; amended Pub. L. 115–91, div. A, title XVI, §1692, Dec. 12, 2017, 131 Stat. 1788; Pub. L. 116–92, div. A, title XVI, §1694, title XVII, §1731(a)(6), Dec. 20, 2019, 133 Stat. 1791, 1812; Pub. L. 116–283, div. A, title X, §1081(a)(8), title XVIII, §1845(c)(4), Jan. 1, 2021, 134 Stat. 3871, 4247.)
+(Added Pub. L. 114–328, div. A, title XVI, §1697(a), Dec. 23, 2016, 130 Stat. 2639; amended Pub. L. 115–91, div. A, title XVI, §1692, Dec. 12, 2017, 131 Stat. 1788; Pub. L. 116–92, div. A, title XVI, §1694, title XVII, §1731(a)(6), Dec. 20, 2019, 133 Stat. 1791, 1812; Pub. L. 116–283, div. A, title X, §1081(a)(8), title XVIII, §1845(c)(4), Jan. 1, 2021, 134 Stat. 3871, 4247; Pub. L. 118–31, div. A, title XVI, §1681, Dec. 22, 2023, 137 Stat. 611.)
 
 #### <b>Editorial Notes</b>
 
@@ -143,6 +143,8 @@ Definitions.—In this section:
 The Presidential Protection Assistance Act of 1976, referred to in subsec. (j)(3)(C)(iv), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (i). Pub. L. 118–31 substituted "2026" for "2023" in pars. (1) and (2).
 
 <b>2021</b>—Subsec. (i)(1). Pub. L. 116–283, §1081(a)(8)(A), substituted "of subsection (j)(3)(C) shall" for "of subsection (j)(3)(C) shall", resulting in no change in text. See 2019 Amendment notes and Coordination of Amendments by Pub. L. 116–92 note below.
 

@@ -6,7 +6,7 @@ The purposes of this chapter are—
 
 &emsp;(2) to protect and conserve the remaining populations of wild elephants, rhinoceroses, and other species threatened by poaching and the illegal wildlife trade;
 
-&emsp;(3) to disrupt regional and global transnational organized criminal networks and to prevent the illegal wildlife trade from being used as a source of financing for criminal groups that undermine United States and global security interests;
+&emsp;(3) to disrupt regional and global transnational organized criminal networks and to prevent the illegal wildlife trade frombeing used as a source of financing for criminal groups that undermine United States and global security interests;
 
 &emsp;(4) to prevent wildlife poaching and trafficking from being a means to make a living in focus countries;
 

@@ -14,7 +14,7 @@ Section consolidates sections 751 and 752 of title 18, U.S.C., 1940 ed., as subs
 
 "Federal Security Administrator" was substituted for "Federal Security Agency."
 
-Functions of the Secretary of the Treasury were transferred to the Federal Security Administrator by Reorg. Plan No. I, §205, 4 F.R. 2729, 53 Stat. 1425. (See note under section 133t of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees.)
+Functions of the Secretary of the Treasury were transferred to the Federal Security Administrator by Reorg. Plan No. I, §205, 4 F.R. 2729, 53 Stat. 1425. (Seenote under section 133t of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees.)
 
 The first part of said section 751, which read "Authorized medical relief under the Department of Justice in Federal penal and correctional institutions shall be supervised and furnished by personnel of the Public Health Service, and" was omitted as surplusage, considering the remainder of the text.
 

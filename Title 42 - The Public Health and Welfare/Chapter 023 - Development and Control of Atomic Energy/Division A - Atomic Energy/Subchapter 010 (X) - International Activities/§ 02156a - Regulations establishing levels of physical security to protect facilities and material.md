@@ -1,6 +1,6 @@
 ### §2156a. Regulations establishing levels of physical security to protect facilities and material
 
-Within sixty days of March 10, 1978, the Commission shall, in consultation with the Secretary of State, the Secretary of Energy, and the Secretary of Defense, promulgate (and may from time to time amend) regulations establishing the levels of physical security which in its judgement are no less strict than those established by any international guidelines to which the United States subscribes and which in its judgment will provide adequate protection for facilities and material referred to in paragraph (3) of section 2156 of this title taking into consideration variations in risks to security as appropriate.
+Within sixty days of March 10, 1978, the Commission shall, in consultation with the Secretary of State, the Secretary of Energy, and the Secretary of Defense, promulgate (and may from time to time amend) regulations establishing the levels of physical security which inits judgement are no less strict than those established by any international guidelines to which the United States subscribes and which in its judgment will provide adequate protection for facilities and material referred to in paragraph (3) of section 2156 of this title taking into consideration variations in risks to security as appropriate.
 
 (Pub. L. 95–242, title III, §304(d), Mar. 10, 1978, 92 Stat. 135; Pub. L. 105–277, div. G, title XII, §1225(e)(3), Oct. 21, 1998, 112 Stat. 2681–775.)
 
@@ -26,7 +26,7 @@ Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of 
 
 #### Effective Date
 
-Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for thepromulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
 
 #### <b>Executive Documents</b>
 

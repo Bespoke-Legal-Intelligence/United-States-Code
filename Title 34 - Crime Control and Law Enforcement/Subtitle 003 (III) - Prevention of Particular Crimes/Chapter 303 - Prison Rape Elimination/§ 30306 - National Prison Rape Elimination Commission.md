@@ -16,7 +16,7 @@ There is established a commission to be known as the National Prison Rape Elimin
 
 &emsp;&emsp;(C) 1 shall be appointed by the minority leader of the House of Representatives (in addition to any appointment made under subparagraph (B));
 
-&emsp;&emsp;(D) 2 shall be appointed by the majority leader of the Senate, unless the majority leader is of the same party as the President, in which case 1 shall be appointed by the majority leader of the Senate and 1 shall be appointed by the minority leader of the Senate; and
+&emsp;&emsp;(D) 2 shall be appointed by the majority leader of the Senate, unless the majority leader is of the same party as the President, in which case 1 shall be appointed by themajority leader of the Senate and 1 shall be appointed by the minority leader of the Senate; and
 
 &emsp;&emsp;(E) 1 member appointed by the minority leader of the Senate (in addition to any appointment made under subparagraph (D)).
 
@@ -198,7 +198,7 @@ In developing recommended national standards for enhancing the detection, preven
 
 #### (h) Information from Federal or State agencies
 
-The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out its duties under this section. The Commission may request the head of any State or local department or agency to furnish such information to the Commission.
+The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out its duties under this section. The Commission may request the head of any State or localdepartment or agency to furnish such information to the Commission.
 
 #### (i) Personnel matters
 

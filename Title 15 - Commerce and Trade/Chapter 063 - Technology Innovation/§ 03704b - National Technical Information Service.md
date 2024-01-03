@@ -2,7 +2,7 @@
 
 #### (a) Powers
 
-(1) The Secretary of Commerce, acting through the Director of the National TechnicalInformation Service (hereafter in this section referred to as the "Director") is authorized to do the following:
+(1) The Secretary of Commerce, acting through the Director of the National Technical Information Service (hereafter in this section referred to as the "Director") is authorized to do the following:
 
 &emsp;(A) Enter into such contracts, cooperative agreements, joint ventures, and other transactions, in accordance with all relevant provisions of Federal law applicable to such contracts and agreements, and under reasonable terms and conditions, as may be necessary in the conduct of the business of the National Technical Information Service (hereafter in this section referred to as the "Service").
 
@@ -66,7 +66,7 @@ The Secretary of Commerce, acting through the Service, shall—
 
 #### (f) Notification of Congress
 
-(1) The Secretary of Commerce and the Director shall keep the appropriate committees ofCongress fully and currently informed about all activities related to the carrying out of the functions of the Service, including changes in fee policies.
+(1) The Secretary of Commerce and the Director shall keep the appropriate committees of Congress fully and currently informed about all activities related to the carrying out of the functions of the Service, including changes in fee policies.
 
 (2) Within 90 days after October 24, 1988, the Secretary of Commerce shall submit to the Congress a report on the current fee structure of the Service, including an explanation of the basis for the fees, taking into consideration all applicable costs, and the adequacy of the fees, along with reasons for the declining sales at the Service of scientific, technical, and engineering publications. Such report shall explain any actions planned or taken to increase such sales at reasonable fees.
 
@@ -100,7 +100,7 @@ This section, referred to in subsec. (a)(1), was in the original "this subtitle"
 
 Section 13(a)(4) of the Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (a)(3), probably means section 14(a)(4) of the Act, which is classified to section 3710c(a)(4) of this title. Section 13 of the Act was renumbered section 14 by Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438.
 
-The Act entitled "An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes" enacted September 9, 1950, referred to in subsec. (e)(6), is act Sept. 9, 1950, ch. 936, 64 Stat. 823, as amended, which is classified generally to chapter 23 (§1151 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Act entitled "An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes" enacted September 9, 1950, referred to in subsec. (e)(6), is act Sept. 9, 1950, ch. 936, 64 Stat. 823, which is classified generally to chapter 23 (§1151 et seq.)of this title. For complete classification of this Act to the Code, see Tables.
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e)(6), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
 

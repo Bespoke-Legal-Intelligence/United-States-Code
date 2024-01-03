@@ -56,13 +56,13 @@
 
 #### (3) Exemption for conduct under approved agreement
 
-&emsp;It shall not be a violation of the antitrust laws for a person to engage in conduct in accordance with a written agreement to the extent that such agreement has been granted an exemption under paragraph (4), during the period for which the exemption is in effect.
+&emsp;It shall not be a violation of the antitrust laws for a person to engage in conduct in accordance with a written agreement to the extent that such agreement has been granted anexemption under paragraph (4), during the period for which the exemption is in effect.
 
 #### (4) Action on written agreements
 
 #### (A) In general
 
-&emsp;&emsp;The Attorney General, in consultation with the Chairman, shall grant, deny, grantin part and deny in part, or propose modifications to an exemption request regarding a written agreement submitted under paragraph (2), in a written statement to the Secretary, within 15 business days of the receipt of such request. An exemption granted under this paragraph shall take effect immediately.
+&emsp;&emsp;The Attorney General, in consultation with the Chairman, shall grant, deny, grant in part and deny in part, or propose modifications to an exemption request regarding a written agreement submitted under paragraph (2), in a written statement to the Secretary, within 15 business days of the receipt of such request. An exemption granted under this paragraph shall take effect immediately.
 
 #### (B) Extension
 
@@ -90,7 +90,7 @@
 
 #### (b) Sunset
 
-The applicability of this section shall expire at the end of the 17-year period that begins on the date of enactment of this Act.<sup>1</sup>
+The applicability of this section shall expire after January 19, 2024.
 
 #### (c) Definitions
 
@@ -132,15 +132,15 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) Entering into any agreement or engaging in any other conduct allocating a market with a competitor that is not expressly exempted from the antitrust laws under subsection (a)(4).
 
-&emsp;&emsp;&emsp;(iv) Exchanging information among competitors relating to production (other than production by such covered activities) of a product, process, or service if such information is not reasonably necessary to carry out such covered activities.
+&emsp;&emsp;&emsp;(iv) Exchanging information among competitors relating to production (other thanproduction by such covered activities) of a product, process, or service if such information is not reasonably necessary to carry out such covered activities.
 
-&emsp;&emsp;&emsp;(v) Entering into any agreement or engaging in any other conduct restricting,requiring, or otherwise involving the production of a product, process, or service that is not expressly exempted from the antitrust laws under subsection (a)(4).
+&emsp;&emsp;&emsp;(v) Entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production of a product, process, or service that is not expressly exempted from the antitrust laws under subsection (a)(4).
 
 &emsp;&emsp;&emsp;(vi) Except as otherwise provided in this subsection, entering into any agreement or engaging in any other conduct to restrict or require participation by any person participating in such covered activities, in any unilateral or joint activity that is not reasonably necessary to carry out such covered activities.
 
 &emsp;&emsp;&emsp;(vii) Entering into any agreement or engaging in any other conduct restricting or setting the price at which a countermeasure or product is offered for sale, whether by bid or otherwise.
 
-(July 1, 1944, ch. 373, title III, §319L–1, as added Pub. L. 116–22, title VII, §701(e)(1)(C), (D), June 24, 2019, 133 Stat. 961.)
+(July 1, 1944, ch. 373, title III, §319L–1, formerly Pub. L. 109–417, title IV, §405, Dec. 19, 2006, 120 Stat. 2875, as amended Pub. L. 113–5, §402(e)(1), Mar. 13, 2013, 127 Stat. 195; renumbered §319L–1 of act July 1, 1944, and amended Pub. L. 116–22, title VII, §701(e)(1), June 24, 2019, 133 Stat. 961; Pub. L. 118–22, div. B, title II, §203(c), Nov. 17, 2023, 137 Stat. 120.)
 
 #### <b>Editorial Notes</b>
 
@@ -148,11 +148,11 @@ In this section:
 
 The Antitrust Civil Process Act, referred to in subsec. (a)(6), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
 
-The date of enactment of this Act, referred to in subsecs. (a)(8) and (b), probably means the date of enactment of Pub. L. 109–417, which was approved Dec. 19, 2006. This section was originally enacted as section 405 of Pub. L. 109–417, prior to redesignation as section 319L–1 of act July 1, 1944, ch. 373. See Codification note below.
+The date of enactment of this Act, referred to in subsec. (a)(8), probably means the date of enactment of Pub. L. 109–417, which was approved Dec. 19, 2006. This section was originally enacted as section 405 of Pub. L. 109–417, prior to renumbering as section 319L–1 of act July 1, 1944, ch. 373.
 
 #### Codification
 
-Section 405 of Pub. L. 109–417, formerly set out as a note under section 247d–6a of this title, which was redesignated as section 319L–1 of act July 1, 1944, ch. 373 and editorially reclassified as this section, was based on Pub. L. 109–417, title IV, §405, Dec. 19, 2006, 120 Stat. 2875, as amended by Pub. L. 113–5, §402(e)(1), Mar. 13, 2013, 127 Stat. 195; Pub. L. 116–22, title VII, §701(e)(1)(A), (B), June 24, 2019, 133 Stat. 961.
+Section was formerly set out as a note under section 247d–6a of this title prior to renumbering by Pub. L. 116–22.
 
 #### Prior Provisions
 
@@ -160,7 +160,13 @@ A prior section 247d–7f, act July 1, 1944, ch. 373, title III, §319M, as adde
 
 #### Amendments
 
-<b>2019</b>—Pub. L. 116–22 redesignated section 405 of Pub. L. 109–417 as this section. See Codification note above.
+<b>2023</b>—Subsec. (b). Pub. L. 118–22 substituted "after January 19, 2024" for "at the end of the 17-year period that begins on the date of enactment of this Act".
+
+<b>2019</b>—Subsec. (a)(1)(A). Pub. L. 116–22, §701(e)(1)(A), substituted "The Secretary, in coordination" for "The Secretary of Health and Human Services (referred to in this subsection as the 'Secretary'), in coordination" and made technical amendments to references in original act which appear in text as references to sections 247d–6b, 247d–6a, and 247d–6d of this title.
+
+Subsec. (b). Pub. L. 116–22, §701(e)(1)(B), substituted "17-year" for "12-year".
+
+<b>2013</b>—Subsec. (b). Pub. L. 113–5 substituted "12-year" for "6-year".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

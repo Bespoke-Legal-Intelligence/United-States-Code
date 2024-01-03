@@ -52,7 +52,7 @@ Program components.—In carrying out the Cost-share Program, the Secretary shal
 
 Priority.—In selecting facilities to participate in the Cost-share Program, the Secretary shall give priority to the following facilities:
 
-&emsp;&emsp;&emsp;(i) Air traffic control towers that are participating in the Contract Tower Program but have been notified that they will be terminated from such program because the Secretary has determined that the benefit-to-cost ratio for their continuation in such program is less than 1.0.
+&emsp;&emsp;&emsp;(i) Air traffic control towers that are participating in the Contract Tower Program but have been notified that they willbe terminated from such program because the Secretary has determined that the benefit-to-cost ratio for their continuation in such program is less than 1.0.
 
 &emsp;&emsp;&emsp;(ii) Air traffic control towers that the Secretary determines have a benefit-to-cost ratio of at least .50.
 
@@ -100,7 +100,7 @@ Grants.—The Secretary may provide grants to a sponsor of—
 
 &emsp;&emsp;&emsp;(ii) a public-use airport that is not a primary airport—
 
-&emsp;&emsp;&emsp;&emsp;(I) from amounts made available under sections 47114(c)(2) and 47114(d) for theconstruction or improvement of a nonapproach control tower, as defined by the Secretary, and for the acquisition and installation of air traffic control, communications, and related equipment to be used in that tower;
+&emsp;&emsp;&emsp;&emsp;(I) from amounts made available under sections 47114(c)(2) and 47114(d) for the construction or improvement of a nonapproach control tower, as defined by the Secretary, and for the acquisition and installation of air traffic control, communications, and related equipment to be used in that tower;
 
 &emsp;&emsp;&emsp;&emsp;(II) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of construction or improvement of a nonapproach control tower, as defined by the Secretary, incurred after October 1, 1996, if the sponsor complied with the requirements of sections 47107(e), 47112(b), and 47112(c) in constructing or improving that tower; and
 
@@ -172,7 +172,7 @@ Other criteria to be considered.—In establishing a benefit-to-cost ratio under
 
 Review of cost-benefit determinations.—In issuing a benefit-to-cost ratio determination under this section with respect to an air traffic control tower located at an airport, the Secretary shall implement the following procedures:
 
-&emsp;&emsp;(A) The Secretary shall provide the airport (or the State or local government having jurisdiction over the airport) at least 90 daysfollowing the date of receipt of the determination to submit to the Secretary a request for an appeal of the determination, together with updated or additional data in support of the appeal.
+&emsp;&emsp;(A) The Secretary shall provide the airport (or the State or local government having jurisdiction over the airport) at least 90 days following the date of receipt of the determination to submit to the Secretary a request for an appeal of the determination, together with updated or additional data in support of the appeal.
 
 &emsp;&emsp;(B) Upon receipt of a request for an appeal submitted pursuant to subparagraph (A), the Secretary shall—
 
@@ -382,7 +382,7 @@ Study.—The Secretary of Transportation shall conduct a study of the feasibilit
 
 "(2)
 
-Report.—Not later than 1 year after the date of enactment of this Act \[Feb. 20, 2003\], the Secretary shall transmit to Congress a report on the results of the study."
+Report.—Not later than 1 year after the date of enactment of this Act \[Feb. 20, 2003\], the Secretaryshall transmit to Congress a report on the results of the study."
 
 #### Contract Tower Assistance
 

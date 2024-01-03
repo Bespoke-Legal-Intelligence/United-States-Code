@@ -14,7 +14,7 @@ The Director shall ensure all software released by the Institute is digitally si
 
 #### (d) Assistance to Inspectors General
 
-Subject to available funding, the Director shall provide technical assistance to improve the education and training of individual Federalagency Inspectors General and staff who are responsible for the annual independent evaluation they are required to perform of the information security program and practices of Federal agencies under section 3555 of title 44.
+Subject to available funding, the Director shall provide technical assistance to improve the education and training of individual Federal agency Inspectors General and staff who are responsible for the annual independent evaluation they are required to perform of the information security program and practices of Federal agencies under section 3555 of title 44.
 
 #### (e) Software supply chain security practices
 

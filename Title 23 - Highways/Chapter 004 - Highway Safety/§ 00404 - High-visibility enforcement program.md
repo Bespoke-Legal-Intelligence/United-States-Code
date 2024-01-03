@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary shall establish and administer a program under which not less than 3 campaigns will be carried out in each of fiscal years 2022 through 2026.
+In General.—The Secretary shall establish and administer a program under which not lessthan 3 campaigns will be carried out in each of fiscal years 2022 through 2026.
 
 (b)
 

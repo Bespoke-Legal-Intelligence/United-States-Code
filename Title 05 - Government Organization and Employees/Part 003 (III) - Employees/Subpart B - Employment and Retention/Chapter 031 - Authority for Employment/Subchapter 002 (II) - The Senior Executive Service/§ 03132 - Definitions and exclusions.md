@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) any agency or unit thereof excluded from coverage by the President under subsection (c) of this section; or
 
-&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Office of the Director of National Intelligence, the Defense Intelligence Agency, the NationalGeospatial-Intelligence Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10, and, as determined by the President, an Executive agency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
+&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Office of the Director of National Intelligence, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10, and, as determined by the President, an Executive agency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
 
 &emsp;&emsp;(C) the Federal Election Commission or the Election Assistance Commission;
 
@@ -150,7 +150,7 @@ Subsec. (a)(2). Pub. L. 101–509 substituted "classified above GS–15 pursuant
 
 <b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–325, §2(c)(1), inserted reference to Drug Enforcement Administration.
 
-Subsec. (a)(2)(iii). Pub. L. 100–235, §2(c)(2), struck out cl. (iii) which read as follows: "any position in the Drug Enforcement Administration which is excluded fromthe competitive service under section 201 of the Crime Control Act of 1976 (5 U.S.C. 5108 note; 90 Stat. 2425);".
+Subsec. (a)(2)(iii). Pub. L. 100–235, §2(c)(2), struck out cl. (iii) which read as follows: "any position in the Drug Enforcement Administration which is excluded from the competitive service under section 201 of the Crime Control Act of 1976 (5 U.S.C. 5108 note; 90 Stat. 2425);".
 
 <b>1980</b>—Subsec. (a)(1)(C). Pub. L. 96–187 added subpar. (C).
 

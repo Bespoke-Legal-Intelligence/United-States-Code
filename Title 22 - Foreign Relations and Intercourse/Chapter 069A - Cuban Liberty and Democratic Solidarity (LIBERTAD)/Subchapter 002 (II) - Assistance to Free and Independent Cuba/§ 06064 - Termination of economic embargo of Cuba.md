@@ -52,7 +52,7 @@ On the date on which the President submits a determination under section 6063(c)
 
 &emsp;(A) Any joint resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
-&emsp;(B) For the purpose of expediting the consideration and enactment of joint resolutions, a motion to proceed to the consideration of any joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
+&emsp;(B) For the purpose of expediting the consideration and enactment of joint resolutions, a motion to proceed to the consideration of any joint resolution after it has been reported bythe appropriate committee shall be treated as highly privileged in the House of Representatives.
 
 &emsp;(C) Not more than 1 joint resolution may be considered in the House of Representatives and the Senate in the 6-month period beginning on the date on which the President notifies the Congress under paragraph (1) of the action taken under subsection (a), and in each 6-month period thereafter.
 

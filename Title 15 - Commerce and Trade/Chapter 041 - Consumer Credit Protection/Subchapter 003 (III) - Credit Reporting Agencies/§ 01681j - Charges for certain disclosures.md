@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;All consumer reporting agencies described in subsections (p) and (w) <sup>1</sup> of section 1681a of this title shall make all disclosures pursuant to section 1681g of this title once during any 12-month period upon request of the consumer and without charge to the consumer.
+&emsp;&emsp;All consumer reporting agencies described in subsections (p) and (w) <sup>1</sup> of section 1681a of this title shall make all disclosures pursuant to section 1681g of this title once during any12-month period upon request of the consumer and without charge to the consumer.
 
 #### (B) Centralized source
 
@@ -78,7 +78,7 @@ A consumer reporting agency shall not impose any charge on a consumer for provid
 
 #### (1) In general
 
-&emsp;In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d), a consumer reporting agency may impose a reasonable charge on a consumer—
+&emsp;In the case of a request from a consumer other than a request that is covered by any ofsubsections (a) through (d), a consumer reporting agency may impose a reasonable charge on a consumer—
 
 &emsp;&emsp;(A) for making a disclosure to the consumer pursuant to section 1681g of this title, which charge—
 
@@ -132,7 +132,7 @@ Subsec. (d). Pub. L. 108–159, §211(a)(4), added subsec. (d). Former subsec. (
 
 Subsec. (e). Pub. L. 108–159, §211(a)(3), (5), redesignated subsec. (d) as (e) and substituted "subsection (f)" for "subsection (a)".
 
-Subsec. (f). Pub. L. 108–159, §211(a)(1), (6), redesignated subsec. (a) as (f) and substituted "In the case ofa request from a consumer other than a request that is covered by any of subsections (a) through (d), a" for "Except as provided in subsections (b), (c), and (d), a" in par. (1).
+Subsec. (f). Pub. L. 108–159, §211(a)(1), (6), redesignated subsec. (a) as (f) and substituted "In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d), a" for "Except as provided in subsections (b), (c), and (d), a" in par. (1).
 
 <b>1996</b>—Pub. L. 104–208 amended section generally. Prior to amendment, section read as follows: "A consumer reporting agency shall make all disclosures pursuant to section 1681g of this title and furnish all consumer reports pursuant to section 1681i(d) of this title without charge to the consumer if, within thirty days after receipt by such consumer of a notification pursuant to section 1681m of this title or notification from a debt collection agency affiliated with such consumer reporting agency stating that the consumer's credit rating may be or has been adversely affected, the consumer makes a request under section 1681g or 1681i(d) of this title. Otherwise, the consumer reporting agency may impose a reasonable charge on the consumer for making disclosure to such consumer pursuant to section 1681g of this title, the charge for which shall be indicated to the consumer prior to making disclosure; and for furnishing notifications, statements, summaries, or codifications to person designated by the consumer pursuant to section 1681i(d) of this title, the charge for which shall be indicated to the consumer prior to furnishing such information and shall not exceed the charge that the consumer reporting agency would impose on each designated recipient for a consumer report except that no charge may be made for notifying such persons of the deletion of information which is found to be inaccurate or which can no longer be verified."
 

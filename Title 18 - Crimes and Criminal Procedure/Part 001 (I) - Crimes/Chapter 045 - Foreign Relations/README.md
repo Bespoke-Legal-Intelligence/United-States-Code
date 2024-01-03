@@ -28,7 +28,7 @@
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–132, title VII, §704(b), Apr. 24, 1996, 110 Stat. 1295, substituted "Conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country" for "Conspiracy to injure property of foreign government" in item 956.
+<b>1996</b>—Pub. L. 104–132, title VII, §704(b), Apr. 24, 1996, 110 Stat. 1295, substituted "Conspiracy to kill, kidnap,maim, or injure persons or damage property in a foreign country" for "Conspiracy to injure property of foreign government" in item 956.
 
 <b>1990</b>—Pub. L. 101–647, title XII, §1207(a), title XXXV, §3530, Nov. 29, 1990, 104 Stat. 4832, 4924, struck out item 968 "Exportation of war materials to certain countries" and item 969 "Exportation of arms, liquors and narcotics to Pacific Islands".
 

@@ -8,7 +8,7 @@ The Secretary of Health and Human Services (referred to in this section as the "
 
 #### (1) In general
 
-&emsp;In carrying out this section, the Secretary shall, in collaboration with the Secretary of Homeland Security and the Postmaster General of the United States Postal Service, provide that import facilities in which the Food and Drug Administration operates or carries out activities related to drug imports within the international mail facilities include—
+&emsp;In carrying out this section, the Secretary shall, in collaboration with the Secretary ofHomeland Security and the Postmaster General of the United States Postal Service, provide that import facilities in which the Food and Drug Administration operates or carries out activities related to drug imports within the international mail facilities include—
 
 &emsp;&emsp;(A) facility upgrades and improved capacity in order to increase and improve inspection and detection capabilities, which may include, as the Secretary determines appropriate—
 
@@ -30,7 +30,7 @@ The Secretary of Health and Human Services (referred to in this section as the "
 
 #### (c) Report
 
-Not later than 6 months after October 24, 2018, the Secretary, in consultation with the Secretary of Homeland Security and the Postmaster General of the United States PostalService, shall report to the Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Homeland Security and Governmental Affairs of the Senate on the implementation of this section, including a summary of progress made toward near-real-time information sharing and the interoperability of such technologies.
+Not later than 6 months after October 24, 2018, the Secretary, in consultation with the Secretary of Homeland Security and the Postmaster General of the United States Postal Service, shall report to the Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Homeland Security and Governmental Affairs of the Senate on the implementation of this section, including a summary of progress made toward near-real-time information sharing and the interoperability of such technologies.
 
 (Pub. L. 115–271, title III, §3014, Oct. 24, 2018, 132 Stat. 3937.)
 

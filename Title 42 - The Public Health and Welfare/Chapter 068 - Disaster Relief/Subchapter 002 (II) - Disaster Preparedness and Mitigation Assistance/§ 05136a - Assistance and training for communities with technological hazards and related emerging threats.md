@@ -56,7 +56,7 @@ In carrying out activities under subsection (a), the Administrator shall ensure 
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1), isPub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 The Post-Katrina Emergency Management Reform Act of 2006, referred to in subsec. (b)(3), is title VI of Pub. L. 109–295, Oct. 4, 2006, 120 Stat. 1394. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 6, Domestic Security, and Tables.
 

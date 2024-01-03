@@ -104,7 +104,7 @@ Another prior section 2019, Pub. L. 95–561, title XI, §1139, Nov. 1, 1978, 92
 
 #### Amendments
 
-<b>2015</b>—Subsec. (e). Pub. L. 114–95 substituted "subpart 2 of part B of title II of the Elementary and Secondary Education Act of 1965" for "part B of title I of the Elementary and Secondary Education Act of 1965".
+<b>2015</b>—Subsec. (e). Pub. L. 114–95 substituted "subpart 2 of part B of title II of the Elementary and SecondaryEducation Act of 1965" for "part B of title I of the Elementary and Secondary Education Act of 1965".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

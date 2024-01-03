@@ -20,7 +20,7 @@ From the amounts appropriated under subsection (c), the Secretary shall award a 
 
 &emsp;&emsp;(F) strategies to mobilize student leaders to build a college-bound culture; and
 
-&emsp;(3) to provide comprehensive services to improve the schoolwide postsecondary education enrollment rates of each of not less than ten local educational agencies and States, with the federally funded portion of each projectdeclining by not less than 20 percent each year beginning in the second year of the comprehensive services, that—
+&emsp;(3) to provide comprehensive services to improve the schoolwide postsecondary education enrollment rates of each of not less than ten local educational agencies and States, with the federally funded portion of each project declining by not less than 20 percent each year beginning in the second year of the comprehensive services, that—
 
 &emsp;&emsp;(A) participated in the needs assessment described in paragraph (2); and
 

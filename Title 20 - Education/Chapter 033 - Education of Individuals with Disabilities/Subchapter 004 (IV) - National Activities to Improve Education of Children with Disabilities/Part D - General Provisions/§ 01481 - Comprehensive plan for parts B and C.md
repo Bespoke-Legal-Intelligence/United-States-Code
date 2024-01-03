@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;After receiving input from interested individuals with relevant expertise, the Secretary shall develop and implement a comprehensive plan for activities carried out under parts B and C in order to enhance the provision of early intervention services, educational services, related services, and transitional services to children with disabilities under subchapters II and III. To the extent practicable, the plan shall be coordinated with the plan developed pursuant to section 9567b(c) of this title <sup>1</sup> and shall include mechanisms to address early intervention, educational, related service and transitional needs identified by State educational agencies in applications submitted for State personnel development grants under part A and for grants under parts B and C.
+&emsp;After receiving input from interested individuals with relevant expertise, the Secretary shall develop and implement a comprehensiveplan for activities carried out under parts B and C in order to enhance the provision of early intervention services, educational services, related services, and transitional services to children with disabilities under subchapters II and III. To the extent practicable, the plan shall be coordinated with the plan developed pursuant to section 9567b(c) of this title <sup>1</sup> and shall include mechanisms to address early intervention, educational, related service and transitional needs identified by State educational agencies in applications submitted for State personnel development grants under part A and for grants under parts B and C.
 
 #### (2) Public comment
 

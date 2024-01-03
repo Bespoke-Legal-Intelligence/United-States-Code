@@ -42,7 +42,7 @@ Market Area Assessments.—(1) Not less frequently than every 4 years, the Secre
 
 (b)
 
-Strategic Plan To Meet Health Care Demand.—(1) Not later than 1 year after the date of the enactment of the Caring for Our Veterans Act of 2018 and not less frequently than once every 4 years thereafter, the Secretary shall submit to the appropriate committees of Congress a strategic plan that specifies a 4-year forecast of—
+Strategic Plan To Meet Health Care Demand.—(1) Not later than 1 year after the date of the enactment of the Caring for Our VeteransAct of 2018 and not less frequently than once every 4 years thereafter, the Secretary shall submit to the appropriate committees of Congress a strategic plan that specifies a 4-year forecast of—
 
 &emsp;(A) the demand for health care from the Department, disaggregated by geographic area as determined by the Secretary;
 

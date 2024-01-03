@@ -68,7 +68,7 @@ The purposes of this section are—
 
 #### (3) Authority to use grant for a pay for outcomes initiative
 
-&emsp;An eligible entity to which a grant is made under paragraph (1) may use up to 25 percent of the grant for outcomes or success payments related to a pay for outcomes initiative that will not result in a reduction of funding for services delivered by the entity under a childhood home visitation program under this section while the eligible entity develops or operates such an initiative.
+&emsp;An eligible entity to which a grant is made under paragraph (1) may use up to 25 percentof the grant for outcomes or success payments related to a pay for outcomes initiative that will not result in a reduction of funding for services delivered by the entity under a childhood home visitation program under this section while the eligible entity develops or operates such an initiative.
 
 #### (4) Grant amounts
 
@@ -82,7 +82,7 @@ The purposes of this section are—
 
 #### (II) Substitution of successor eligible entity for predecessor
 
-&emsp;&emsp;&emsp;&emsp;If the 1st fiscal year for which an eligible entity is awarded a base grant under this section for a program operated in aState is among fiscal years 2024 through 2027, the amount described by clause (ii) with respect to the eligible entity is the amount of the base grant for which a program operated in the State was eligible under this subparagraph for fiscal year 2023.
+&emsp;&emsp;&emsp;&emsp;If the 1st fiscal year for which an eligible entity is awarded a base grant under this section for a program operated in a State is among fiscal years 2024 through 2027, the amount described by clause (ii) with respect to the eligible entity is the amount of the base grant for which a program operated in the State was eligible under this subparagraph for fiscal year 2023.
 
 #### (ii) Amount described
 
@@ -130,7 +130,7 @@ The purposes of this section are—
 
 #### (III) Determination of obligations from non-Federal funds
 
-&emsp;&emsp;&emsp;&emsp;For purposes of this clause, the total amount obligated by an eligible entity from non-Federal funds is the total of the amounts that are obligated by the eligible entity from non-Federal sources, to the extent that—
+&emsp;&emsp;&emsp;&emsp;For purposes of this clause, the total amount obligated by an eligible entity from non-Federal funds is the total ofthe amounts that are obligated by the eligible entity from non-Federal sources, to the extent that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the services are delivered in compliance with subsections (d)(2) and (d)(3);
 
@@ -144,7 +144,7 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the minimum matching grant allocation amount for the fiscal year; plus
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb)(AA) the amount (if any) by which the amount made available under subsection (k) for matching grants for the fiscal year that remains after making the reservations required by subsection (k)(2) or any other reduction required by Federal law for the fiscal year exceeds the sum of the minimum matching grant allocationamounts for all eligible entities for the fiscal year; multiplied by
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb)(AA) the amount (if any) by which the amount made available under subsection (k) for matching grants for the fiscal year that remains after making the reservations required by subsection (k)(2) or any other reduction required by Federal law for the fiscal year exceeds the sum of the minimum matching grant allocation amounts for all eligible entities for the fiscal year; multiplied by
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(BB) the percentage of children in all States who have not attained 5 years of age and are members of families with income not exceeding the poverty line (as determined by the Secretary on the basis of the most recently available data) that is represented by the number of such children in the State (as so determined).
 
@@ -210,7 +210,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (A) In general
 
-&emsp;&emsp;The eligible entity establishes, subject to the approval of the Secretary, quantifiable,measurable 3- and 5-year benchmarks for demonstrating that the program results in improvements for the eligible families participating in the program in the following areas:
+&emsp;&emsp;The eligible entity establishes, subject to the approval of the Secretary, quantifiable, measurable 3- and 5-year benchmarks for demonstrating that the program results in improvements for the eligible families participating in the program in the following areas:
 
 &emsp;&emsp;&emsp;(i) Improved maternal and newborn health.
 
@@ -262,7 +262,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall provide an eligible entity required to develop and implement an improvement plan under clause (ii) with technical assistance to develop and implement the plan. The Secretary may provide the technical assistance directly or through grants, contracts, or cooperative agreements.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall provide an eligible entity required to develop and implement an improvement plan under clause\(ii) with technical assistance to develop and implement the plan. The Secretary may provide the technical assistance directly or through grants, contracts, or cooperative agreements.
 
 #### (II) Advisory panel
 
@@ -326,7 +326,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the program is conducted using 1 or more of the service delivery models described in item (aa) or (bb) of subclause (I) or in subclause (II) selected by the eligible entity:
+&emsp;&emsp;&emsp;Subject to clause (ii), the program is conducted using 1 or more of the servicedelivery models described in item (aa) or (bb) of subclause (I) or in subclause (II) selected by the eligible entity:
 
 &emsp;&emsp;&emsp;&emsp;(I) The model conforms to a clear consistent home visitation model that has been in existence for at least 3 years and is research-based, grounded in relevant empirically-based knowledge, linked to program determined outcomes, associated with a national organization or institution of higher education that has comprehensive home visitation program standards that ensure high quality service delivery and continuous program quality improvement, and has demonstrated significant,<sup>2</sup> (and in the case of the service delivery model described in item (aa), sustained) positive outcomes, as described in the benchmark areas specified in paragraph (1)(A) and the participant outcomes described in paragraph (2)(B), when evaluated using well-designed and rigorous—
 
@@ -334,7 +334,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) quasi-experimental research designs.
 
-&emsp;&emsp;&emsp;&emsp;(II) The model conforms to a promising and new approach to achieving thebenchmark areas specified in paragraph (1)(A) and the participant outcomes described in paragraph (2)(B), has been developed or identified by a national organization or institution of higher education, and will be evaluated through well-designed and rigorous process.
+&emsp;&emsp;&emsp;&emsp;(II) The model conforms to a promising and new approach to achieving the benchmark areas specified in paragraph (1)(A) and the participant outcomes described in paragraph (2)(B), has been developed or identified by a national organization or institution of higher education, and will be evaluated through well-designed and rigorous process.
 
 #### (ii) Majority of grant funds used for evidence-based models
 
@@ -346,7 +346,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (B) Use of grant to provide or support targeted, intensive home visiting services
 
-&emsp;&emsp;The program uses the grant to provide or support targeted, intensive home visiting services for the populations described in paragraph (5) <sup>3</sup>.
+&emsp;&emsp;The program uses the grant to provide or support targeted, intensive home visiting services for the populations described in paragraph (5).
 
 #### (C) Additional requirements
 
@@ -362,7 +362,31 @@ The requirements of this subsection for an early childhood home visitation progr
 
 &emsp;&emsp;(vi) The program monitors the fidelity of program implementation to ensure that services are delivered pursuant to the specified model.
 
-#### (4) Priority for serving high-risk populations
+&emsp;&emsp;(vii) If the application submitted by the eligible entity includes the assurance described in subsection (e)(10)(C) with respect to the program, the program provides in-person service consistent with the assurances.
+
+#### (4) Virtual home visits
+
+#### (A) In general
+
+&emsp;&emsp;A virtual home visit conducted under the program shall be considered a home visit for purposes of this section if the application for funding of the program submitted pursuant to this section most recently after the effective date of this paragraph includes the material described in subsection (e)(10).
+
+#### (B) Standards for training applicable to virtual service delivery
+
+&emsp;&emsp;The standards for training requirements applicable to virtual service delivery under a home visiting model shall be equivalent to those that apply to in-person service delivery under the model.
+
+#### (C) Reporting requirement
+
+&emsp;&emsp;A grant made under this section for the program may not be used for any virtual home visit during a year, unless the eligible entity to which the grant is made submits the report described in subsection (e)(8)(A) for the year.
+
+#### (D) Virtual home visit defined
+
+&emsp;&emsp;In this section, the term "virtual home visit" means a visit conducted solely by use of electronic information and telecommunications technologies.
+
+#### (E) Technical assistance
+
+&emsp;&emsp;If the Secretary finds that an eligible entity has not complied with the assurance described in subsection (e)(10)(C), the Secretary shall, directly or through grants, contracts, or cooperative agreements, provide the eligible entity with such technical assistance as is necessary to assist the eligible entity in doing so.
+
+#### (5) Priority for serving high-risk populations
 
 &emsp;The eligible entity gives priority to providing services under the program to the following:
 
@@ -384,7 +408,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 &emsp;&emsp;(I) Eligible families who, or that include individuals who, are serving or formerly served in the Armed Forces, including such families that have members of the Armed Forces who have had multiple deployments outside of the United States.
 
-#### (5) Limitation on use of funds for administrative costs
+#### (6) Limitation on use of funds for administrative costs
 
 #### (A) In general
 
@@ -430,13 +454,29 @@ An eligible entity desiring a grant under this section shall submit an applicati
 
 &emsp;(8) Assurances that the entity will—
 
-&emsp;&emsp;(A) submit annual reports to the Secretary regarding the program and activities carried out under the program that include such information and data as the Secretary shall require; and
+&emsp;&emsp;(A) submit annual reports to the Secretary regarding the program and activities carried out under the program that include such information and data as the Secretary shall require, including the number of virtual home visits conducted under the program in the year covered by the report, disaggregated with respect to each home visiting model under which the virtual home visits are conducted; and
 
 &emsp;&emsp;(B) participate in, and cooperate with, data and information collection necessary for the evaluation required under subsection (g)(2) and other research and evaluation activities carried out under subsection (h)(3).
 
 &emsp;(9) A description of other State programs that include home visitation services, including, if applicable to the State, other programs carried out under this subchapter with funds made available from allotments under section 702(c) of this title, programs funded under subchapter IV, title II of the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5116 et seq.\] (relating to community-based grants for the prevention of child abuse and neglect), and section 9840a of this title (relating to Early Head Start programs).
 
-&emsp;(10) Other information as required by the Secretary.
+&emsp;(10) At the option of the eligible entity—
+
+&emsp;&emsp;(A) a description of any limitations or constraints on virtual home visits under the program, including—
+
+&emsp;&emsp;&emsp;(i) a description of the plan of the eligible entity to encourage in-person home visits; and
+
+&emsp;&emsp;&emsp;(ii) a description of the considerations to be used in determining when a virtual home visit is appropriate, including client consent, client preference, geographic limitations, model fidelity, and hazardous conditions including public health emergencies, weather events, health concerns for home visitors and client families, and other local issues;
+
+&emsp;&emsp;(B) an assurance that—
+
+&emsp;&emsp;&emsp;(i) the virtual home visit is implemented as a model enhancement; or
+
+&emsp;&emsp;&emsp;(ii) the Secretary has identified the home visit as part of an effective model or model adaptation, based on an evidence of effectiveness review conducted using the criteria established under subsection (d)(3)(A)(iii); and
+
+&emsp;&emsp;(C) an assurance to the Secretary that at least 1 in-person home visit shall be conducted for each client family under the program during the 12-month period that begins with the entry of the client family into the program, and during each succeeding 12-month period, except that any such period in which a public health emergency declared under Federal law, or under the law of the State in which the program is conducted, is in effect shall be extended by the length of time in which the declaration is in effect.
+
+&emsp;(11) Other information as required by the Secretary.
 
 #### (f) Maintenance of effort
 
@@ -476,7 +516,7 @@ An eligible entity desiring a grant under this section shall submit an applicati
 
 &emsp;&emsp;&emsp;(ii) the effectiveness of such programs on different populations, including the extent to which the ability of programs to improve participant outcomes varies across programs and populations; and
 
-&emsp;&emsp;&emsp;(iii) the potential for the activities conducted under such programs, if scaled broadly, to improve health care practices,eliminate health disparities, and improve health care system quality, efficiencies, and reduce costs.
+&emsp;&emsp;&emsp;(iii) the potential for the activities conducted under such programs, if scaled broadly, to improve health care practices, eliminate health disparities, and improve health care system quality, efficiencies, and reduce costs.
 
 #### (3) Report
 
@@ -540,7 +580,7 @@ An eligible entity desiring a grant under this section shall submit an applicati
 
 #### (i) Designation
 
-&emsp;&emsp;&emsp;The head of the department or agency responsible for administering a programfunded under this section shall, in consultation with an interagency work group established by the Office of Management and Budget and considering State government perspectives, designate data exchange standards for necessary categories of information that a State agency operating the program is required to electronically exchange with another State agency under applicable Federal law.
+&emsp;&emsp;&emsp;The head of the department or agency responsible for administering a program funded under this section shall, in consultation with an interagency work group established by the Office of Management and Budget and considering State government perspectives, designate data exchange standards for necessary categories of information that a State agency operating the program is required to electronically exchange with another State agency under applicable Federal law.
 
 #### (ii) Data exchange standards must be nonproprietary and interoperable
 
@@ -616,7 +656,7 @@ An eligible entity desiring a grant under this section shall submit an applicati
 
 #### (2) Exceptions
 
-&emsp;The following provisions of this subchapter shall apply to a grant made under this sectionto the same extent and in the same manner as such provisions apply to allotments made under section 702(c) of this title:
+&emsp;The following provisions of this subchapter shall apply to a grant made under this section to the same extent and in the same manner as such provisions apply to allotments made under section 702(c) of this title:
 
 &emsp;&emsp;(A) Section 704(b)(6) of this title (relating to prohibition on payments to excluded individuals and entities).
 
@@ -744,67 +784,11 @@ In this section:
 
 (Aug. 14, 1935, ch. 531, title V, §511, as added Pub. L. 111–148, title II, §2951, Mar. 23, 2010, 124 Stat. 334; amended Pub. L. 113–93, title II, §209, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §218, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title VI, §§50601–50606(a), 50607, Feb. 9, 2018, 132 Stat. 228–231; Pub. L. 117–328, div. FF, title VI, §6101(b)–(c)(3)(A), (c)(4)–(f)(2)(A), (g), (h)(1), Dec. 29, 2022, 136 Stat. 5953–5962.)
 
-#### Amendment of Section
-
-<i>Pub. L. 117–328, div. FF, title VI, §6101(h)(1), (i)(2), Dec. 29, 2022, 136 Stat. 5962, 5964, provided that, effective Oct. 1, 2023, this section is amended:</i>
-
-<i>(1) in subsection (d)—</i>
-
-<i>(A) in paragraph (3)(C), by adding at the end the following:</i>
-
-&emsp;&emsp;<i>"(vii) If the application submitted by the eligible entity includes the assurance described in subsection (e)(10)(C) with respect to the program, the program provides in-person service consistent with the assurances."; and</i>
-
-<i>(B) by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively, and inserting after paragraph (3) the following:</i>
-
-#### <i>"(4) Virtual home visits</i>
-
-#### <i>"(A) In general</i>
-
-&emsp;&emsp;<i>A virtual home visit conducted under the program shall be considered a home visit for purposes of this section if the application for funding of the program submitted pursuant to this section most recently after the effective date of this paragraph includes the material described in subsection (e)(10).</i>
-
-#### <i>"(B) Standards for training applicable to virtual service delivery</i>
-
-&emsp;&emsp;<i>The standards for training requirements applicable to virtual service delivery under a home visiting model shall be equivalent to those that apply to in-person service delivery under the model.</i>
-
-#### <i>"(C) Reporting requirement</i>
-
-&emsp;&emsp;<i>A grant made under this section for the program may not be used for any virtual home visit during a year, unless the eligible entity to which the grant is made submits the report described in subsection (e)(8)(A) for the year.</i>
-
-#### <i>"(D) Virtual home visit defined</i>
-
-&emsp;&emsp;<i>In this section, the term 'virtual home visit' means a visit conducted solely by use of electronic information and telecommunications technologies.</i>
-
-#### <i>"(E) Technical assistance</i>
-
-&emsp;&emsp;<i>If the Secretary finds that an eligible entity has not complied with the assurance described</i><i>in subsection (e)(10)(C), the Secretary shall, directly or through grants, contracts, or cooperative agreements, provide the eligible entity with such technical assistance as is necessary to assist the eligible entity in doing so."; and</i>
-
-<i>(2) in subsection (e)—</i>
-
-<i>(A) in paragraph (8)(A), by inserting ", including the number of virtual home visits conducted under the program in the year covered by the report, disaggregated with respect to each home visiting model under which the virtual home visits are conducted" before the semicolon; and</i>
-
-<i>(B) by redesignating paragraph (10) as paragraph (11) and inserting after paragraph (9) the following:</i>
-
-&emsp;<i>(10) At the option of the eligible entity—</i>
-
-&emsp;&emsp;<i>(A) a description of any limitations or constraints on virtual home visits under the program, including—</i>
-
-&emsp;&emsp;&emsp;<i>(i) a description of the plan of the eligible entity to encourage in-person home visits; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) a description of the considerations to be used in determining when a virtual home visit is appropriate, including client consent, client preference, geographic limitations, model fidelity, and hazardous conditions including public health emergencies, weather events, health concerns for home visitors and client families, and other local issues;</i>
-
-&emsp;&emsp;<i>(B) an assurance that—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the virtual home visit is implemented as a model enhancement; or</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the Secretary has identified the home visit as part of an effective model or model adaptation, based on an evidence of effectiveness review conducted using the criteria established under subsection (d)(3)(A)(iii); and</i>
-
-&emsp;&emsp;<i>(C) an assurance to the Secretary that at least 1 in-person home visit shall be conducted for each client family under the program during the 12-month period that begins with the entry of the client family into the program, and during each succeeding 12-month period, except that any such period in which a public health emergency declared under Federal law, or under the law of the State in which the program is conducted, is in effect shall be extended by the length of time in which the declaration is in effect.</i>
-
-<i>See 2022 Amendment notes below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### References in Text
+
+The effective date of this paragraph, referred to in subsec. (d)(4)(A), is Oct. 1, 2023, see section 6101(i)(2) of Pub. L. 117–328, set out as an Effective Date of 2022 Amendment note below.
 
 The Child Abuse Prevention and Treatment Act, referred to in subsec. (e)(9), is Pub. L. 93–247, Jan. 31, 1974, 88 Stat. 4. Title II of the Act is classified generally to subchapter III (§5116 et seq.) of chapter 67 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
@@ -854,7 +838,7 @@ Subsec. (e)(8)(A). Pub. L. 117–328, §6101(h)(1)(D), inserted ", including th
 
 Subsec. (e)(10), (11). Pub. L. 117–328, §6101(h)(1)(A), added par. (10) and redesignated former par. (10) as (11).
 
-Subsec. (f). Pub. L. 117–328, §6101(c)(1)(B), amended subsec. (f) generally. Prior to amendment, text read asfollows: "Funds provided to an eligible entity receiving a grant under this section shall supplement, and not supplant, funds from other sources for early childhood home visitation programs or initiatives."
+Subsec. (f). Pub. L. 117–328, §6101(c)(1)(B), amended subsec. (f) generally. Prior to amendment, text read as follows: "Funds provided to an eligible entity receiving a grant under this section shall supplement, and not supplant, funds from other sources for early childhood home visitation programs or initiatives."
 
 Subsec. (h)(2)(B). Pub. L. 117–328, §6101(f)(2)(A)(ii), substituted "subsection (k)" for "subsection (j)" and "subsection (l)(1)(B)" for "subsection (k)(1)(B)" in introductory provisions.
 
@@ -968,7 +952,7 @@ In General.—For purposes of section 511 of the Social Security Act \[42 U.S.C.
 
 &emsp;&emsp;"(A) to train home visitors in conducting a virtual home visit and in emergency preparedness and response planning for families served, and may include training on how to safely conduct intimate partner violence screenings remotely, training on safety and planning for families served;
 
-&emsp;&emsp;"(B) for the acquisition by families enrolled in the program of such technological means as areneeded to conduct and support a virtual home visit; and
+&emsp;&emsp;"(B) for the acquisition by families enrolled in the program of such technological means as are needed to conduct and support a virtual home visit; and
 
 &emsp;&emsp;"(C) to provide emergency supplies to families served, regardless of whether the provision of such supplies is within the scope of the approved program, such as diapers, formula, non-perishable food, water, hand soap, and hand sanitizer.
 
@@ -1001,6 +985,4 @@ Timely Release of Title V Funds.—The authorities provided in this section shal
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be "paragraph (4)".</i>
 

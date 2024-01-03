@@ -28,7 +28,7 @@ Should the provisions of Schedule D of the Articles of Agreement of the Fund app
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–435 designated existing provisions as par. (1) and added pars. (2) and (3).
 
-<b>1976</b>—Subsec. (c). Pub. L. 94–564, §2(1), amended subsec. (c) generally to provide that the Governor serve as councillor and designate an alternate and associates. Former provisions relating to compensation were included in subsec. (d).
+<b>1976</b>—Subsec. (c). Pub. L. 94–564, §2(1), amended subsec. (c) generally to provide that the Governor serve ascouncillor and designate an alternate and associates. Former provisions relating to compensation were included in subsec. (d).
 
 Subsec. (d). Pub. L. 94–564, §2(2), added subsec. (d).
 
@@ -38,7 +38,7 @@ Subsec. (d). Pub. L. 94–564, §2(2), added subsec. (d).
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–564, §9, Oct. 19, 1976, 90 Stat. 2661, provided that: "The amendments made by sections 2, 3, 4, 5, 6,and 7 of this Act \[amending this section, sections 286c, 286e–2, 286o, 286q, and 286r of this title, and section 822a of former Title 31, Money and Finance\] shall become effective upon the entry into force of the amendments to the Articles of Agreement of the International Monetary Fund approved in Resolution Numbered 31–4 of the Board of Governors of the Fund." Such amendments entered into force Apr. 1, 1978.
+Pub. L. 94–564, §9, Oct. 19, 1976, 90 Stat. 2661, provided that: "The amendments made by sections 2, 3, 4, 5, 6, and 7 of this Act \[amending this section, sections 286c, 286e–2, 286o, 286q, and 286r of this title, and section 822a of former Title 31, Money and Finance\] shall become effective upon the entry into force of the amendments to the Articles of Agreement of the International Monetary Fund approved in Resolution Numbered 31–4 of the Board of Governors of the Fund." Such amendments entered into force Apr. 1, 1978.
 
 #### Levels of Fund Salaries and Minimization of Travel Costs
 

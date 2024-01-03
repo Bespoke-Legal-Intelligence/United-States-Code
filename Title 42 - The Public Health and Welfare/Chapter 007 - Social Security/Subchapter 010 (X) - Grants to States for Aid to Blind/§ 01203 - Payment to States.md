@@ -2,11 +2,11 @@
 
 #### (a) Authorization of payments
 
-From the sums appropriated therefor, the Secretary of the Treasury shall pay to each Statewhich has an approved plan for aid to the blind, for each quarter, beginning with the quarter commencing October 1, 1958—
+From the sums appropriated therefor, the Secretary of the Treasury shall pay to each State which has an approved plan for aid to the blind, for each quarter, beginning with the quarter commencing October 1, 1958—
 
 &emsp;(1) Repealed. Pub. L. 97–35, title XXI, §2184(c)(2)(A), Aug. 13, 1981, 95 Stat. 817.
 
-&emsp;(2) in the case of Puerto Rico, the Virgin Islands, and Guam, an amount equal to one-half of the total of the sums expended during such quarter as aid to the blind under the State plan, not counting so much of any expenditure with respect to any month as exceeds $37.50 multiplied by the total number of recipients of aid to the blind for such month; and
+&emsp;(2) in the case of Puerto Rico, the Virgin Islands, and Guam, an amount equal to one-half of the total of the sums expended during such quarter as aid to the blind under the Stateplan, not counting so much of any expenditure with respect to any month as exceeds $37.50 multiplied by the total number of recipients of aid to the blind for such month; and
 
 &emsp;(3) in the case of any State, an amount equal to 50 percent of the total amounts expended during such quarter as found necessary by the Secretary for the proper and efficient administration of the State plan.
 
@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 87–543, §101(b)(3)(C), added subsec. (c).
 
 Act Aug. 1, 1956, §313(c), struck out ", which shall be used exclusively as aid to the blind," after "the Virgin Islands, an amount" in cls. (1) and (2), and substituted "including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care" for "which amount shall be used for paying the costs of administering the State plan or for aid to the blind, or both, and for no other purpose" in cl. (3).
 
-Act Aug. 1, 1956, §343, substituted "October 1, 1956" for "October 1, 1952", struck out ", which shall be used exclusively as aid to the blind," after "the Virgin Islands, an amount" in cls. (1) and (2), substituted "$60" for "$55," "the product of $30" for "the product of $25", "Secretary of Health, Education, and Welfare" for "Secretary", and "including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care"for "which amount shall be used for paying the costs of administering the State plan or for aid to the blind, or both, and for no other purpose".
+Act Aug. 1, 1956, §343, substituted "October 1, 1956" for "October 1, 1952", struck out ", which shall be used exclusively as aid to the blind," after "the Virgin Islands, an amount" in cls. (1) and (2), substituted "$60" for "$55," "the product of $30" for "the product of $25", "Secretary of Health, Education, and Welfare" for "Secretary", and "including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care" for "which amount shall be used for paying the costs of administering the State plan or for aid to the blind, or both, and for no other purpose".
 
 <b>1954</b>—Subsec. (b)(1). Act Sept. 1, 1954, substituted "the State's proportionate share" for "one-half".
 
@@ -172,7 +172,7 @@ Amendment by act June 14, 1948, effective Oct. 1, 1948, see section 3(d) of act 
 
 #### Effective and Termination Date of 1946 Amendment
 
-Amendment by section 503 of act Aug. 10, 1946, effective only for period beginning Oct. 1, 1946, and ending with close of June 30, 1950, see section 504 of act Aug.10, 1946, as amended, set out as a note under section 303 of this title.
+Amendment by section 503 of act Aug. 10, 1946, effective only for period beginning Oct. 1, 1946, and ending with close of June 30, 1950, see section 504 of act Aug. 10, 1946, as amended, set out as a note under section 303 of this title.
 
 #### Effective Date of 1939 Amendment
 

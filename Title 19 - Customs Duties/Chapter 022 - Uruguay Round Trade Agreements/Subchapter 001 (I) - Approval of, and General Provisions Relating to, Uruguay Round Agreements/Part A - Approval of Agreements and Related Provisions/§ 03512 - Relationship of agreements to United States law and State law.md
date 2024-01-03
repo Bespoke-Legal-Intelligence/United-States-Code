@@ -82,7 +82,7 @@
 
 #### (C) Reports to congressional committees
 
-&emsp;&emsp;At least 30 days before the United States brings an action described in subparagraph\(A), the Trade Representative shall provide a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate—
+&emsp;&emsp;At least 30 days before the United States brings an action described in subparagraph (A), the Trade Representative shall provide a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate—
 
 &emsp;&emsp;&emsp;(i) describing the proposed action;
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;&emsp;(ii) any State law regulating or taxing the business of insurance; and
 
-&emsp;&emsp;(B) the terms "dispute settlement panel" and "Appellate Body" have the meanings given those terms in section 3531 of this title.
+&emsp;&emsp;(B) the terms "dispute settlement panel" and "Appellate Body" have the meaningsgiven those terms in section 3531 of this title.
 
 #### (c) Effect of agreement with respect to private remedies
 

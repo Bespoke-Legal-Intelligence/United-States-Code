@@ -40,7 +40,7 @@ The Attorney General may limit revocation or suspension of a registration to the
 
 #### (d) Suspension of registration in cases of imminent danger
 
-(1) The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in section 823(h)(1) <sup>1</sup> of this title may be treated under this subsection as grounds for immediate suspension of a registration granted under suchsection. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
+(1) The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in section 823(h)(1) <sup>1</sup> of this title may be treated under this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
 
 (2) In this subsection, the phrase "imminent danger to the public health or safety" means that, due to the failure of the registrant to maintain effective controls against diversion or otherwise comply with the obligations of a registrant under this subchapter or subchapter II, there is a substantial likelihood of an immediate threat that death, serious bodily harm, or abuse of a controlled substance will occur in the absence of an immediate suspension of the registration.
 
@@ -72,7 +72,7 @@ The Attorney General may issue an order to prohibit, conditionally or unconditio
 
 Section 823(h) of this title, referred to in subsecs. (a) and (d)(1), originally consisted of pars. (1) and (2). Par. (1) was redesignated as the entire subsec. (h), with its subpars. (A) to (C) redesignated pars. (1) to (3), and former par. (2) was struck out by Pub. L. 117–328, div. FF, title I, §1262(a), Dec. 29, 2022, 136 Stat. 5681.
 
-This subchapter, referred to in subsecs. (a)(1), (2), (c)(4), (d)(2), and (h), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in subsecs. (a)(1), (2), (c)(4), (d)(2), and (h), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II tothe Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 Subchapter II, referred to in subsecs. (a)(1), (2) and (d)(2), was in the original "title III", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
@@ -88,7 +88,7 @@ Pub. L. 117–215 substituted "823(h)(1)" for "823(g)(1)".
 
 <b>2021</b>—Subsec. (h). Pub. L. 117–36 added subsec. (h).
 
-<b>2016</b>—Subsec. (c). Pub. L. 114–145, §2(b), struck out "The order to show cause shall contain a statement ofthe basis thereof and shall call upon the applicant or registrant to appear before the Attorney General at a time and place stated in the order, but in no event less than thirty days after the date of receipt of the order. Proceedings to deny, revoke, or suspend shall be conducted pursuant to this section in accordance with subchapter II of chapter 5 of title 5. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or other proceedings under this subchapter or any other law of the United States." after "denied, revoked, or suspended.", designated existing provisions as par. (1), and added pars. (2) to (5).
+<b>2016</b>—Subsec. (c). Pub. L. 114–145, §2(b), struck out "The order to show cause shall contain a statement of the basis thereof and shall call upon the applicant or registrant to appear before the Attorney General at a time and place stated in the order, but in no event less than thirty days after the date of receipt of the order. Proceedings to deny, revoke, or suspend shall be conducted pursuant to this section in accordance with subchapter II of chapter 5 of title 5. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or other proceedings under this subchapter or any other law of the United States." after "denied, revoked, or suspended.", designated existing provisions as par. (1), and added pars. (2) to (5).
 
 Subsec. (d). Pub. L. 114–145, §2(a)(2), designated existing provisions as par. (1) and added par. (2).
 

@@ -94,7 +94,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall waive the requirement under subparagraph (A) for a public agency borrower that is financing ongoing capital programs and has outstanding senior bonds under a preexisting indenture, if—
+&emsp;&emsp;&emsp;The Secretary shall waive the requirement under subparagraph (A) for a public agency borrower that is financing ongoingcapital programs and has outstanding senior bonds under a preexisting indenture, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the secured loan is rated in the A category or higher; and
 

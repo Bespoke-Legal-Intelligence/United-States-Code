@@ -116,7 +116,7 @@ In general.—If a financial institution or any director, officer, employee, or 
 
 &emsp;&emsp;&emsp;(i) neither the financial institution, director, officer, employee, or agent of such institution (whether or not any such person is still employed by the institution), nor any other current or former director, officer, or employee of, or contractor for, the financial institution or other reporting person, may notify any person involved in the transaction that the transaction has been reported or otherwise reveal any information that would reveal that the transaction has been reported,; <sup>2</sup> and
 
-&emsp;&emsp;&emsp;(ii) no current or former officer or employee of or contractor for the Federal Government or of or for any State, local, tribal, or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, or otherwise reveal any information that would reveal that the transaction has been reported, other than as necessary to fulfillthe official duties of such officer or employee.
+&emsp;&emsp;&emsp;(ii) no current or former officer or employee of or contractor for the Federal Government or of or for any State, local, tribal, or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, or otherwise reveal any information that would reveal that the transaction has been reported, other than as necessary to fulfill the official duties of such officer or employee.
 
 &emsp;&emsp;(B)
 
@@ -128,7 +128,7 @@ Rule of construction.—Notwithstanding the application of subparagraph (A) in a
 
 &emsp;&emsp;&emsp;&emsp;(I) in a written employment reference that is provided in accordance with section 18(w) of the Federal Deposit Insurance Act in response to a request from another financial institution; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in a written termination notice or employment reference that is provided in accordance with the rules of a self-regulatory organization registered with the Securities and Exchange Commission or the Commodity Futures Trading Commission,
+&emsp;&emsp;&emsp;&emsp;(II) in a written termination notice or employment reference that is providedin accordance with the rules of a self-regulatory organization registered with the Securities and Exchange Commission or the Commodity Futures Trading Commission,
 
 &emsp;&emsp;&nbsp;except that such written reference or notice may not disclose that such information was also included in any such report, or that such report was made.
 
@@ -196,7 +196,7 @@ Streamlined data and real-time reporting.—
 
 &emsp;&emsp;&emsp;(i)
 
-Requirement to establish system.—In considering the means by or form in which the Secretary of the Treasury shallreceive reporting pursuant to subparagraph (B)(iii), the Secretary of the Treasury, acting through the Director of the Financial Crimes Enforcement Network, and in consultation with appropriate representatives of the State bank supervisors, State credit union supervisors, and Federal functional regulators, shall—
+Requirement to establish system.—In considering the means by or form in which the Secretary of the Treasury shall receive reporting pursuant to subparagraph (B)(iii), the Secretary of the Treasury, acting through the Director of the Financial Crimes Enforcement Network, and in consultation with appropriate representatives of the State bank supervisors, State credit union supervisors, and Federal functional regulators, shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) establish streamlined, including automated, processes to, as appropriate, permit the filing of noncomplex categories of reports that—
 
@@ -290,7 +290,7 @@ Pilot program described.—The pilot program described in this paragraph shall�
 
 &emsp;&emsp;&emsp;&emsp;(I) a certification that the extension is in the national interest of the United States, with a detailed explanation of the reasons that the extension is in the national interest of the United States;
 
-&emsp;&emsp;&emsp;&emsp;(II) after appropriate consultation by the Secretary with participants in the pilot program, an evaluation of the usefulness of the pilot program, including a detailed analysis of any illicit activity identified or prevented as a result of the program; and
+&emsp;&emsp;&emsp;&emsp;(II) after appropriate consultation by the Secretary with participants in the pilot program, an evaluation of the usefulness of the pilot program, including adetailed analysis of any illicit activity identified or prevented as a result of the program; and
 
 &emsp;&emsp;&emsp;&emsp;(III) a detailed legislative proposal providing for a long-term extension of activities under the pilot program, measures to ensure data security, and confidentiality of personally identifiable information, including expected budgetary resources for those activities, if the Secretary of the Treasury determines that a long-term extension is appropriate.
 
@@ -378,7 +378,7 @@ Factors.—In prescribing the minimum standards under subparagraph (A), and in s
 
 &emsp;&emsp;&emsp;(i) Financial institutions are spending private compliance funds for a public and private benefit, including protecting the United States financial system from illicit finance risks.
 
-&emsp;&emsp;&emsp;(ii) The extension of financial services to the underbanked and the facilitation of financial transactions, including remittances, coming from the United States and abroad in ways that simultaneously prevent criminal persons from abusing formal or informal financial services networks are key policy goals of the United States.
+&emsp;&emsp;&emsp;(ii) The extension of financial services to the underbanked and the facilitation of financial transactions, including remittances, coming from the United States andabroad in ways that simultaneously prevent criminal persons from abusing formal or informal financial services networks are key policy goals of the United States.
 
 &emsp;&emsp;&emsp;(iii) Effective anti-money laundering and countering the financing of terrorism programs safeguard national security and generate significant public benefits by preventing the flow of illicit funds in the financial system and by assisting law enforcement and national security agencies with the identification and prosecution of persons attempting to launder money and undertake other illicit activity through the financial system.
 
@@ -516,7 +516,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;&emsp;(i) is maintained by a foreign bank;
 
-&emsp;&emsp;&emsp;(ii) is located at a fixed address (other than solely an electronic address) in a country in which the foreign bank is authorized to conduct banking activities, at which location the foreign bank—
+&emsp;&emsp;&emsp;(ii) is located at a fixed address (other than solely an electronic address) in acountry in which the foreign bank is authorized to conduct banking activities, at which location the foreign bank—
 
 &emsp;&emsp;&emsp;&emsp;(I) employs 1 or more individuals on a full-time basis; and
 
@@ -800,7 +800,7 @@ In general.—Before prescribing the regulations required under paragraph (1), a
 
 &emsp;&emsp;&emsp;(i) identifies the information in cross-border electronic transmittals of funds that may be found in particular cases to be reasonably necessary to conduct the efforts of the Secretary to identify money laundering and terrorist financing, and outlines the criteria to be used by the Secretary to select the situations in which reporting under this subsection may be required;
 
-&emsp;&emsp;&emsp;(ii) outlines the appropriate form, manner, content, and frequency of filing of thereports that may be required under such regulations;
+&emsp;&emsp;&emsp;(ii) outlines the appropriate form, manner, content, and frequency of filing of the reports that may be required under such regulations;
 
 &emsp;&emsp;&emsp;(iii) identifies the technology necessary for the Financial Crimes Enforcement Network to receive, keep, exploit, protect the security of, and disseminate information from reports of cross-border electronic transmittals of funds to law enforcement and other entities engaged in efforts against money laundering and terrorist financing; and
 

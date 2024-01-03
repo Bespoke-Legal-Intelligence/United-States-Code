@@ -36,7 +36,7 @@
 
 <sup>1</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
 
-> If, while on active duty after retirement or after his name was placed on the temporary disability retired list, a member covered by this subsection was promoted to a higher grade in which he served satisfactorily, as determined by the Secretary concerned, he is entitled to retiredpay based on the monthly basic pay to which he would be entitled if he were on active duty in that higher grade.
+> If, while on active duty after retirement or after his name was placed on the temporary disability retired list, a member covered by this subsection was promoted to a higher grade in which he served satisfactorily, as determined by the Secretary concerned, he is entitled to retired pay based on the monthly basic pay to which he would be entitled if he were on active duty in that higher grade.
 
 (e) Notwithstanding subsection (a), a member covered by that subsection may elect, upon his release from active duty, to have his retired pay or retainer pay—
 
@@ -46,7 +46,7 @@
 
 (f)(1) In the case of a member who is entitled to recompute retired pay under this section upon release from active duty served after retiring under section 7314 or 9314 of this title, the member's retired pay as recomputed under another provision of this section shall be increased by 10 percent of the amount so recomputed if the member has been credited by the Secretary concerned with extraordinary heroism in the line of duty during any period of active duty service in the armed forces.
 
-(2) The amount of the retired pay as recomputed under another provision of this section and as increased under paragraph (1) may not exceed the amount equal to 75 percent of the monthly rate of basic pay upon which the recomputation of such retired pay is based.
+(2) The amount of the retired pay as recomputed under another provision of this section and as increased under paragraph (1) may not exceed the amount equal to 75 percent of themonthly rate of basic pay upon which the recomputation of such retired pay is based.
 
 (3) The determination of the Secretary concerned as to extraordinary heroism is conclusive for all purposes.
 
@@ -116,7 +116,7 @@ Subsec. (d). Pub. L. 98–94, §922(a)(4), substituted "according to the followi
 
 Pub. L. 98–94, §923(a)(1), (2)(C), in footnote 1 of table, substituted "Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month" for "Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months".
 
-<b>1980</b>—Subsecs. (a) to (c). Pub. L. 96–513 substituted "a uniformed service (as defined in section 1407(a)(2) of this title) before September 8, 1980" for "the armedforces before the date of the enactment of the Department of Defense Appropriation Act, 1981" wherever appearing.
+<b>1980</b>—Subsecs. (a) to (c). Pub. L. 96–513 substituted "a uniformed service (as defined in section 1407(a)(2) of this title) before September 8, 1980" for "the armed forces before the date of the enactment of the Department of Defense Appropriation Act, 1981" wherever appearing.
 
 Pub. L. 96–342 inserted "who first became a member of the armed forces before the date of the enactment of the Department of Defense Authorization Act, 1981, and" after "of an armed force" wherever appearing.
 
@@ -124,7 +124,7 @@ Pub. L. 96–342 inserted "who first became a member of the armed forces before 
 
 Subsec. (e). Pub. L. 90–207, §2(a)(2)(B), added subsec. (e).
 
-<b>1963</b>—Subsec. (a). Pub. L. 88–132 substituted in introductory clause "who has become entitled to retired pay or retainer pay" for "who has been retired or has become entitled to retainer pay" and "to recompute his retired pay or retainer pay upon his release from that duty" for ", upon release from that duty, to recompute his retired or retainer pay" and inserted in such clause "(other than for training)" after "active duty"; substituted in column 1 of table "Monthly basic pay" for "Monthly basic pay or base and longevity pay, as the case may be,", designated existing provisions as (1) and added (2); substituted in (1) of column 2 of the table "retired pay or retainer pay" for "retired or retainer pay" and in (2) of such column 2 "after becoming entitled to retired pay or retainer pay" for "after retirement or becoming entitled to retainer pay", struck out column 3 relating to addition and redesignated column 4 as 3; added footnote 1 to the table and redesignated former footnote 1 as 2; and inserted provisions for recomputation of retired pay upon release from active duty of officers ordered to active duty in a higher grade based upon special commendation for performance of duty in actual combat.
+<b>1963</b>—Subsec. (a). Pub. L. 88–132 substituted in introductory clause "who has become entitled to retired pay or retainer pay" for "who has been retired or has become entitled to retainer pay" and "to recompute his retired pay or retainer pay upon his release from that duty" for ", upon release from that duty, to recompute his retired or retainer pay" and inserted in such clause "(other than for training)" after "active duty"; substituted in column 1 of table "Monthly basic pay" for "Monthly basic pay or base and longevity pay, as the case may be,", designated existing provisions as (1) and added (2); substituted in (1) of column 2 of the table "retired pay or retainer pay" for "retired or retainer pay" and in (2) of such column 2 "after becoming entitled to retired pay or retainer pay" for "after retirement or becoming entitled to retainer pay", struck out column 3 relating to addition and redesignated column 4 as 3; added footnote 1 to the table and redesignated former footnote 1 as 2; and inserted provisions for recomputation of retired pay upon release from active duty of officers ordered to active duty in a higher gradebased upon special commendation for performance of duty in actual combat.
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–559 prohibited recomputation of retired pay under subsec. (a) on the basis of any period of active duty that was of less than six consecutive months' duration or on the basis of any active duty for training for a reserve officer who is or has been retired under section 3911, 6323, or 8911 of this title or under section 232 of title 14.
 
@@ -182,7 +182,7 @@ Pub. L. 98–525, title VI, §655, Oct. 19, 1984, 98 Stat. 2552, provided that:
 
 "(b) The retired or retainer pay of a member of the Armed Forces described in subsection (a) shall be the amount determined under section 1402(a) of title 10, United States Code (as modified with respect to such member by subsection (a)), and increased by the amount by which the member's retired or retainer pay would have been increased during the period beginning on the date of the member's release from active duty referred to in subsection (a)(4) and ending on the day before the day on which this section becomes effective had subsection (a) applied in the case of the member at the time of that release from active duty.
 
-"(c) This section shall apply only with respect to retired pay and retainer pay payable for months beginning after September 30, 1984, or on or after the date ofthe enactment of this Act \[Oct. 19, 1984\], whichever is later."
+"(c) This section shall apply only with respect to retired pay and retainer pay payable for months beginning after September 30, 1984, or on or after the date of the enactment of this Act \[Oct. 19, 1984\], whichever is later."
 
 #### Retired Pay and Retainer Pay; Prohibition Against Recomputation Under 1963 Pay Rates; Exceptions; Increments Based on the Greater of a 5 Percent Increase or Recomputation Under 1958 Pay Rates for Members Retired Prior to October 1949 for Reasons Other Than Physical Disability, Members Receiving Retired Pay Under Career Compensation Act of 1949 and Former Chiefs of Staff; Additional 5 Percent Increase for Other Retired Members; Exclusion From Increase of Officers Retired Under Certain Provisions
 
@@ -192,7 +192,7 @@ Pub. L. 88–132, §5(a)–(f), Oct. 2, 1963, 77 Stat. 212, provided that:
 
 &emsp;"(1) to have the retired pay or retainer pay to which he was entitled on the day before the effective date of this Act \[Oct. 1, 1963\] recomputed under the rates of basic pay prescribed by section 2 of this Act \[amending section 203 of Title 37\]; or
 
-&emsp;"(2) to continue to have that pay computed under the rates of basic pay that were in effect under section 203 of title 37, United States Code, on the day before the effective date of this Act \[Oct. 1, 1963\], plus the percentage increase provided by subsection (e) of this section;
+&emsp;"(2) to continue to have that pay computed under the rates of basic pay that were in effect under section 203 of title 37, United States Code, on the day before the effective date of this Act \[Oct. 1, 1963\], plusthe percentage increase provided by subsection (e) of this section;
 
 > whichever pay is the greater. For the purposes of the preceding sentence, a member or former member who became entitled to retired pay on April 1, 1963, by virtue of section 1 of the Act of April 23, 1930, ch. 209, as amended (5 U.S.C. 47a) \[section 8301 of Title 5\], shall be considered as having become entitled to that pay before April 1, 1963.
 

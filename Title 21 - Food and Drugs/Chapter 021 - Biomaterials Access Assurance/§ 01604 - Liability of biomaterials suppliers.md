@@ -30,7 +30,7 @@ Except as provided in section 1606 of this title, a biomaterials supplier shall 
 
 &emsp;&emsp;&emsp;(ii) include the implant on a list of devices filed with the Secretary pursuant to section 360(j) of this title and the regulations issued under such section, but failed to do so; or
 
-&emsp;&emsp;(C) is related by common ownership or control to a person meeting all the requirements described in subparagraph (A) or (B), if the court deciding a motion to dismiss inaccordance with section 1605(c)(3)(B)(i) of this title finds, on the basis of affidavits submitted in accordance with section 1605 of this title, that it is necessary to impose liability on the biomaterials supplier as a manufacturer because the related manufacturer meeting the requirements of subparagraph (A) or (B) lacks sufficient financial resources to satisfy any judgment that the court feels it is likely to enter should the claimant prevail.
+&emsp;&emsp;(C) is related by common ownership or control to a person meeting all the requirements described in subparagraph (A) or (B), if the court deciding a motion to dismiss in accordance with section 1605(c)(3)(B)(i) of this title finds, on the basis of affidavits submitted in accordance with section 1605 of this title, that it is necessary to impose liability on the biomaterials supplier as a manufacturer because the related manufacturer meeting the requirements of subparagraph (A) or (B) lacks sufficient financial resources to satisfy any judgment that the court feels it is likely to enter should the claimant prevail.
 
 #### (3) Administrative procedures
 

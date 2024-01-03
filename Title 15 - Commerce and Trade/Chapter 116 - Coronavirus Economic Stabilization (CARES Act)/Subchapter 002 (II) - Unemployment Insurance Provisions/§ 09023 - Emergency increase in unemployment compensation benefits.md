@@ -18,7 +18,7 @@ Any State which desires to do so may enter into and participate in an agreement 
 
 #### (2) Allowable methods of payment
 
-&emsp;Any Federal Pandemic Unemployment Compensation or Mixed Earner UnemploymentCompensation provided for in accordance with paragraph (1) shall be payable either—
+&emsp;Any Federal Pandemic Unemployment Compensation or Mixed Earner Unemployment Compensation provided for in accordance with paragraph (1) shall be payable either—
 
 &emsp;&emsp;(A) as an amount which is paid at the same time and in the same manner as any regular compensation otherwise payable for the week involved; or
 
@@ -148,7 +148,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchaptersXIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (i)(1), (2)(A), is section 205 of Pub. L. 91–373, which is set out in a note under section 3304 of Title 26, Internal Revenue Code.
 

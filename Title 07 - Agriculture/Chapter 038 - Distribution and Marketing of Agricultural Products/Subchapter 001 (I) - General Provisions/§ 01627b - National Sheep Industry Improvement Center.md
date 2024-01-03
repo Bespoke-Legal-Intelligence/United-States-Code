@@ -46,7 +46,7 @@ The purposes of the Center shall be to—
 
 &emsp;(3) provide assistance to meet the needs of the sheep or goat industry for infrastructure development, business development, production, resource development, and market and environmental research;
 
-&emsp;(4) advance activities that empower and build the capacity of the United States sheep or goat industry to design unique responses to the special needs of the sheep or goat industries on both a regional and national basis; and
+&emsp;(4) advance activities that empower and build the capacity of the United States sheepor goat industry to design unique responses to the special needs of the sheep or goat industries on both a regional and national basis; and
 
 &emsp;(5) adopt flexible and innovative approaches to solving the long-term needs of the United States sheep or goat industry.
 

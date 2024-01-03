@@ -6,7 +6,7 @@ Chapter 51, subchapter III of chapter 53, and chapter 63 of title 5, relating to
 
 #### (b) Regulations
 
-Not later than 60 days after January 8, 2002, the Secretary shall prescribe regulations tocarry out this section. Such regulations shall provide for—
+Not later than 60 days after January 8, 2002, the Secretary shall prescribe regulations to carry out this section. Such regulations shall provide for—
 
 &emsp;(1) the establishment of education positions;
 
@@ -118,7 +118,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (iv) Transmission of determination
 
-&emsp;&emsp;&emsp;The education line officer shall transmit the determination of such appeal in the form of a written opinion to such board and to such supervisor identifying the reasons for overturning such determination.
+&emsp;&emsp;&emsp;The education line officer shall transmit the determination of such appeal in the form of a written opinion to such boardand to such supervisor identifying the reasons for overturning such determination.
 
 #### (B) By education line officer
 
@@ -204,7 +204,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;(A) to recommend to the supervisor that an educator employed in the school be discharged; and
 
-&emsp;&emsp;(B) to recommend to the education line officer of the appropriate agency office of the Bureau and to the Director of the Office, that the supervisor of the school be discharged.
+&emsp;&emsp;(B) to recommend to the education line officer of the appropriate agency office of the Bureau and to the Director of the Office,that the supervisor of the school be discharged.
 
 #### (f) Applicability of Indian preference laws
 
@@ -260,7 +260,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall establish the rate of compensation, or annual salary rate, for the positions of teachers and counselors (including dormitory counselors and home-living counselors) at the rate of compensation applicable (on January 8, 2002, and thereafter) for comparable positions in theoverseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act \[20 U.S.C. 901 et seq.\].
+&emsp;&emsp;&emsp;The Secretary shall establish the rate of compensation, or annual salary rate, for the positions of teachers and counselors (including dormitory counselors and home-living counselors) at the rate of compensation applicable (on January 8, 2002, and thereafter) for comparable positions in the overseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act \[20 U.S.C. 901 et seq.\].
 
 #### (ii) Essential provisions
 
@@ -328,7 +328,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;&emsp;&emsp;(I) the local school board requests that such differential be discontinued or decreased; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the Secretary or the supervisor, respectively, determines for clear and convincing reasons (and advises the board in writing of those reasons) that there is nodisparity of compensation that would affect the recruitment or retention of employees at the school after the differential is discontinued or decreased.
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary or the supervisor, respectively, determines for clear and convincing reasons (and advises the board in writing of those reasons) that there is no disparity of compensation that would affect the recruitment or retention of employees at the school after the differential is discontinued or decreased.
 
 #### (v) Reports
 
@@ -456,7 +456,7 @@ In this section:
 
 #### (p) Covered individuals; election
 
-This section shall apply with respect to any educator hired after November 1, 1979 (and to any educator who elected for coverage under that provision after November 1, 1979) and to the position in which such individual is employed. The enactment of this section shall not affect the continued employment of an individual employed on October 31, 1979, in an education position, or such person's right to receive the compensation attached to such position.
+This section shall apply with respect to any educator hired after November 1, 1979 (and toany educator who elected for coverage under that provision after November 1, 1979) and to the position in which such individual is employed. The enactment of this section shall not affect the continued employment of an individual employed on October 31, 1979, in an education position, or such person's right to receive the compensation attached to such position.
 
 #### (q) Furlough without consent
 
@@ -506,7 +506,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 #### Adjustments to Rates of Basic Compensation or Annual Salary Rates for Education Positions
 
-Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–193, provided in part: "That in fiscal year 1997 and thereafter, notwithstanding the provisions of \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) \[see now 25 U.S.C. 2012(g)(1)(A), (B)\], upon the recommendation of either (i) a local school board and school supervisor for an education position in a Bureau of Indian Affairs operated school, or (ii) an Agency school board and education line officer for an Agency education position, the Secretary \[of the Interior\] shall establish adjustments to the rates of basic compensation or annual salary rates established under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) for education positions at the school or the Agency, at a level not less than that for comparable positions in the nearest public school district, and the adjustment shall be deemed to be a change to basic pay and shall not be subject to collective bargaining: <i>Provided further</i>, That any reduction to rates of basic compensation or annual salary rates below the rates established under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) shall apply only to educators appointed after June 30, 1997, and shall not affect the right of an individual employed on June 30, 1997, in an education position, to receive the compensation attached to such position under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) so long as the individual remains in the same position at the same school".
+Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–193, provided in part: "That in fiscal year 1997 and thereafter, notwithstanding the provisions of \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) \[see now 25 U.S.C. 2012(g)(1)(A), (B)\], upon the recommendation of either (i) a local school board and school supervisor for an education position in a Bureau of Indian Affairs operated school, or (ii) an Agency school board and education line officer for an Agency education position, the Secretary \[of the Interior\] shall establish adjustments to the rates of basic compensation or annual salary rates established under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) for education positions at the school or the Agency, at a levelnot less than that for comparable positions in the nearest public school district, and the adjustment shall be deemed to be a change to basic pay and shall not be subject to collective bargaining: <i>Provided further</i>, That any reduction to rates of basic compensation or annual salary rates below the rates established under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) shall apply only to educators appointed after June 30, 1997, and shall not affect the right of an individual employed on June 30, 1997, in an education position, to receive the compensation attached to such position under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) so long as the individual remains in the same position at the same school".
 
 Similar provisions were contained in the following prior appropriation act:
 

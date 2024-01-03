@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(ii) during a period in which the Secretary provides the veteran with temporary lodging at a facility of the Department to make such care more accessible to the veteran.
 
-(2) The Secretary may make payments provided for in this section to or for any person not covered by paragraph (1) of this subsection for travel by such person for examination, treatment, or care. Such payments shall be made inaccordance with regulations which the Secretary shall prescribe.
+(2) The Secretary may make payments provided for in this section to or for any person not covered by paragraph (1) of this subsection for travel by such person for examination, treatment, or care. Such payments shall be made in accordance with regulations which the Secretary shall prescribe.
 
 (3)(A) Except as provided in subparagraph (B) of this paragraph, the Secretary shall not make payments under this section for travel performed by a special mode of travel unless (i) the travel by such mode is medically required and is authorized by the Secretary before the travel begins, or (ii) the travel by such mode is in connection with a medical emergency of such a nature that the delay incident to obtaining authorization from the Secretary to use that mode of travel would have been hazardous to the person's life or health.
 
@@ -52,7 +52,7 @@
 
 (2)(A) Without regard to whether an eligible veteran entitled to mileage under this section for travel to a Department facility for the purpose of medical examination, treatment, or care requires an attendant in order to perform such travel, an attendant of such veteran described in subparagraph (B) may be allowed expenses of travel (including lodging and subsistence) upon the same basis as such veteran during—
 
-&emsp;(i) the period of time in which such veteran is traveling to and from a Department facility for the purpose of medical examination, treatment, or care; and
+&emsp;(i) the period of time in which such veteran is traveling to and from a Department facilityfor the purpose of medical examination, treatment, or care; and
 
 &emsp;(ii) the duration of the medical examination, treatment, or care episode for such veteran.
 
@@ -110,7 +110,7 @@ Subsec. (c)(5). Pub. L. 110–387, §401(a)(1)(A), struck out par. (5) which rea
 
 Subsec. (g)(1). Pub. L. 110–387, §401(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In carrying out the purposes of this section, the Secretary, in consultation with the Administrator of General Services, the Secretary of Transportation, the Comptroller General of the United States, and representatives of organizations of veterans, shall conduct periodic investigations of the actual cost of travel (including lodging and subsistence) to beneficiaries while traveling to or from a Department facility or other place pursuant to the provisions of this section, and the estimated cost of alternative modes of travel, including public transportation and the operation of privately owned vehicles. The Secretary shall conduct such investigations immediately following any alteration in the rates described in paragraph (3)(C) of this subsection, and, in any event, immediately following the enactment of this subsection and not less often than annually thereafter, and based thereon, shall determine rates of allowances or reimbursement to be paid under this section."
 
-Subsec. (g)(3). Pub. L. 110–387, §401(b)(2), (3), added par. (3) and struck out former par. (3) which related to the Secretary's review and analysis of factors in conducting investigations and determining rates of mileage allowance or reimbursement.
+Subsec. (g)(3). Pub. L. 110–387, §401(b)(2), (3), added par. (3) and struck out former par. (3) which related tothe Secretary's review and analysis of factors in conducting investigations and determining rates of mileage allowance or reimbursement.
 
 Subsec. (g)(4). Pub. L. 110–387, §401(b)(2), struck out par. (4) which read as follows: "Before determining rates or adjusting amounts under this section and not later than sixty days after any alteration in the rates described in paragraph (3)(C) of this subsection, the Secretary shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report containing the rates and amounts the Secretary proposes to establish or continue with a full justification therefor in terms of each of the limitations and factors set forth in this section."
 
@@ -358,7 +358,7 @@ Pub. L. 110–387, title IV, §401(a)(2), Oct. 10, 2008, 122 Stat. 4122, provide
 
 #### Interim Guidelines for Beneficiary Travel Between January 1, 1984, and the Promulgation of Regulations by Administrator of Veterans' Affairs
 
-Pub. L. 98–160, title I, §108, Nov. 21, 1983, 97 Stat. 999, provided that promulgation of guidelines pendingissuance of regulations covering the travel of beneficiaries during an interim period beginning Jan. 1, 1984, and directed that a report be made to Congress not later than Apr. 1, 1984, regarding travel payments.
+Pub. L. 98–160, title I, §108, Nov. 21, 1983, 97 Stat. 999, provided that promulgation of guidelines pending issuance of regulations covering the travel of beneficiaries during an interim period beginning Jan. 1, 1984, and directed that a report be made to Congress not later than Apr. 1, 1984, regarding travel payments.
 
 #### Availability of Funds for Travel of Eligible Veterans, Dependents, or Survivors
 

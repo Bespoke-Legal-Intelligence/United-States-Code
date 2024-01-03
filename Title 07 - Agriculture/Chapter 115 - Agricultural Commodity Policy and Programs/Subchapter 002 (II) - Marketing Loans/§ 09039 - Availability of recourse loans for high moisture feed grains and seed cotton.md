@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) certify that the producers on the farm were the owners of the feed grain at the time of delivery to, and that the quantity to be placed under loan under this subsection was in fact harvested on the farm and delivered to, a feedlot, feed mill, or commercial or on-farm high-moisture storage facility, or to a facility maintained by the users of corn and grain sorghum in a high moisture state; and
 
-&emsp;&emsp;(D) comply with deadlines established by the Secretary for harvesting the corn or grain sorghum and submit applications for loans under this subsection within deadlines established by the Secretary.
+&emsp;&emsp;(D) comply with deadlines established by the Secretary for harvesting the corn orgrain sorghum and submit applications for loans under this subsection within deadlines established by the Secretary.
 
 #### (3) Eligibility of acquired feed grains
 
@@ -49,6 +49,10 @@ Repayment of a recourse loan made under this section shall be at the loan rate e
 (Pub. L. 113–79, title I, §1209, Feb. 7, 2014, 128 Stat. 685; Pub. L. 115–334, title I, §1205, Dec. 20, 2018, 132 Stat. 4510.)
 
 #### <b>Editorial Notes</b>
+
+#### Codification
+
+Provisions of law applicable to a loan commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that loan commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
 #### Amendments
 

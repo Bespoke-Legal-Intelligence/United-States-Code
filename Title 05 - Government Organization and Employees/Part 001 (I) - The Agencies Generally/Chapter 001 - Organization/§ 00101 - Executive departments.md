@@ -110,6 +110,10 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 118–9, §1, July 25, 2023, 137 Stat. 55, provided that: "This Act \[amending section 553 of this title\] may be cited as the 'Providing Accountability Through Transparency Act of 2023'."
+
 #### Short Title of 2022 Amendment
 
 Pub. L. 117–328, div. Y, §101, Dec. 29, 2022, 136 Stat. 5523, provided that: "This division \[amending section 8421a of this title\] may be cited as the 'Continuity for Operators with Necessary Training Required for ATC Contract Towers Act of 2022' or the 'CONTRACT Act of 2022'."
@@ -160,11 +164,11 @@ Pub. L. 115–160, §1, Apr. 3, 2018, 132 Stat. 1246, provided that: "This Act \
 
 Pub. L. 115–84, §1, Nov. 17, 2017, 131 Stat. 1272, provided that: "This Act \[amending sections 8432b and 8433 of this title and enacting provisions set out as notes under sections 8432b and 8433 of this title\] may be cited as the 'TSP Modernization Act of 2017'."
 
-Pub. L. 115–73, §1(a), Oct. 26, 2017, 131 Stat. 1235, provided that: "This Act \[enacting sections 2307 and 7515 of this title, amending sections 1214, 1221, 2302, 4505a, and 5755 of this title and sections 3657 and 3673 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under sections 1212 and 2301 of this title and section 703 of Title 38, Veterans' Benefits, and amending provisions set out as a note under section 2302 of this title\] may be cited as the 'Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017'."
+Pub. L. 115–73, §1(a), Oct. 26, 2017, 131 Stat. 1235, provided that: "This Act \[enacting sections 2307 and 7515 of this title, amending sections 1214, 1221, 2302, 4505a, and 5755 of this title and sections 3657 and 3673 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under sections 1212 and 2301 of this titleand section 703 of Title 38, Veterans' Benefits, and amending provisions set out as a note under section 2302 of this title\] may be cited as the 'Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017'."
 
 Pub. L. 115–40, §1, June 14, 2017, 131 Stat. 861, provided that: "This Act \[amending section 2302 of this title\] may be cited as the 'Follow the Rules Act'."
 
-Pub. L. 115–34, §1, May 16, 2017, 131 Stat. 846, provided that: "This Act \[amending section 5707 of this title andenacting provisions set out as a note under section 5707 of this title\] may be cited as the 'Modernizing Government Travel Act'."
+Pub. L. 115–34, §1, May 16, 2017, 131 Stat. 846, provided that: "This Act \[amending section 5707 of this title and enacting provisions set out as a note under section 5707 of this title\] may be cited as the 'Modernizing Government Travel Act'."
 
 Pub. L. 115–1, §1, Jan. 20, 2017, 131 Stat. 3, provided that: "This Act \[enacting sections 3171 and 3172 of this title and provisions set out as a note under section 3171 of this title\] may be cited as the 'Tested Ability to Leverage Exceptional National Talent Act of 2017' or the 'TALENT Act of 2017'."
 
@@ -226,7 +230,7 @@ Pub. L. 111–31, div. B, title I, §101, June 22, 2009, 123 Stat. 1853, provide
 
 Pub. L. 110–372, §1, Oct. 8, 2008, 122 Stat. 4043, provided that: "This Act \[amending sections 3104, 3324, 3325, 5108, 5304, 5307 and 5376 of this title and enacting provisions set out as notes under sections 5307 and 5376 of this title\] may be cited as the 'Senior Professional Performance Act of 2008'."
 
-Pub. L. 110–290, §1, July 30, 2008, 122 Stat. 2914, provided that: "This Act \[amending section 596 of thistitle\] may be cited as the 'Regulatory Improvement Act of 2007'."
+Pub. L. 110–290, §1, July 30, 2008, 122 Stat. 2914, provided that: "This Act \[amending section 596 of this title\] may be cited as the 'Regulatory Improvement Act of 2007'."
 
 #### Short Title of 2007 Amendment
 

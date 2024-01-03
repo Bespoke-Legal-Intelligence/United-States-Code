@@ -26,7 +26,7 @@ Removal of Presumption.—(1)(A) The Secretary may—
 
 &emsp;(A) a veteran who was awarded compensation under chapter 11 of this title for such illness on the basis of the presumption provided under such regulations before the effective date of the removal or modification shall continue to be entitled to receive compensation on that basis;
 
-&emsp;(B) a survivor of a veteran who was awarded dependency and indemnity compensation under chapter 13 of this title for the death ofa veteran resulting from such illness on the basis of such presumption shall continue to be entitled to receive dependency and indemnity compensation on such basis; and
+&emsp;(B) a survivor of a veteran who was awarded dependency and indemnity compensation under chapter 13 of this title for the death of a veteran resulting from such illness on the basis of such presumption shall continue to be entitled to receive dependency and indemnity compensation on such basis; and
 
 &emsp;(C) no veteran or survivor covered under subparagraph (A) or (B) shall have their compensation reduced solely because of the removal of an illness pursuant to paragraph (1).
 

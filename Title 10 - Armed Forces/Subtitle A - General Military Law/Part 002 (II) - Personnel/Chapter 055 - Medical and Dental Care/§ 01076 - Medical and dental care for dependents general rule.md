@@ -262,7 +262,7 @@ Pub. L. 102–25, title III, §313, Apr. 6, 1991, 105 Stat. 85, provided that:
 
 "(a)
 
-Health Care Provided.—A member of the Armed Forces described in subsection (b), and the dependents of the member, shall be entitled to receive health care described in subsection (c) upon the releaseof the member from active duty in connection with Operation Desert Storm until the earlier of—
+Health Care Provided.—A member of the Armed Forces described in subsection (b), and the dependents of the member, shall be entitled to receive health care described in subsection (c) upon the release of the member from active duty in connection with Operation Desert Storm until the earlier of—
 
 &emsp;"(1) 30 days after the date of the release of the member from active duty; or
 

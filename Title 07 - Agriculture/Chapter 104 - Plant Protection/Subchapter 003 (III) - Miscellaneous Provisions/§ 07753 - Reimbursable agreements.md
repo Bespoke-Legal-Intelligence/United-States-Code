@@ -28,7 +28,7 @@ Funds collected for preclearance shall be credited to accounts which may be esta
 
 #### (1) Collection
 
-&emsp;Upon failure to reimburse the Secretary in accordance with this section, the Secretary may assess a late payment penalty, and the overdue funds shall accrue interest, as required by section 3717 of title 31.
+&emsp;Upon failure to reimburse the Secretary in accordance with this section, the Secretary may assess a late payment penalty, and theoverdue funds shall accrue interest, as required by section 3717 of title 31.
 
 #### (2) Use of funds
 

@@ -68,7 +68,7 @@ The purposes of this chapter are—
 
 &emsp;(5) to establish a program of research and technology development and assistance to States in the management and removal of zebra mussels.
 
-(Pub. L. 101–646, title I, §1002, Nov. 29, 1990, 104 Stat. 4761; Pub. L. 104–182, title III, §308(a), Aug. 6, 1996, 110 Stat. 1689; Pub. L. 104–332, §2(a)(1), (h)(1), Oct. 26, 1996, 110 Stat. 4073, 4091; Pub. L. 117–263, div. K, title CXIII, §11327(e)(1), Dec. 23, 2022, 136 Stat. 4098.)
+(Pub. L. 101–646, title I, §1002, Nov. 29, 1990, 104 Stat. 4761; Pub. L. 104–182, title III, §308(a), Aug. 6, 1996, 110 Stat. 1689; Pub. L. 104–332, §2(a)(1), (h)(1), Oct. 26, 1996, 110 Stat. 4073, 4091; Pub. L. 117–263, div. K, title CXIII, §11327(e)(1), Dec. 23, 2022, 136 Stat. 4097.)
 
 #### <b>Editorial Notes</b>
 
@@ -86,7 +86,7 @@ Subsec. (a)(2), (3). Pub. L. 104–332, §2(a)(1)(A), added pars. (2) and (3) an
 
 "(2) when environmental conditions are favorable, nonindigenous species, such as the zebra mussel (Dreissena polymorpha), become established and may disrupt the aquatic environment and economy of affected coastal areas;
 
-"(3) the zebra mussel was unintentionally introduced into the Great Lakes and, if left uncontrolled, is expected to infest over two-thirds of the continental United States through the unintentional transportation of larvae and adults by vessels operating in inland waters;".
+"(3) the zebra mussel was unintentionally introduced into the Great Lakes and, if left uncontrolled, is expected to infest over two-thirds of the continentalUnited States through the unintentional transportation of larvae and adults by vessels operating in inland waters;".
 
 Subsec. (a)(4). Pub. L. 104–332, §2(a)(1)(B)(i), inserted "by the zebra mussel and ruffe, round goby, and other nonindigenous species" after "other species".
 

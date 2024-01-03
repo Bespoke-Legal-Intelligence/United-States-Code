@@ -46,7 +46,7 @@
 
 &emsp;&emsp;The Chief Executive Officer shall establish written rules to ensure that the solicitation, acceptance, holding, administration, and use of property described in subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) will not reflect unfavorably upon the ability of the Corporation, or of any officer or employee of the Corporation, to carry out the responsibilities or official duties of the Corporation in a fair and objective manner; and
+&emsp;&emsp;&emsp;(i) will not reflect unfavorably upon the ability of the Corporation, or of any officer or employee of the Corporation, to carryout the responsibilities or official duties of the Corporation in a fair and objective manner; and
 
 &emsp;&emsp;&emsp;(ii) will not compromise the integrity of the programs of the Corporation or any official or employee of the Corporation involved in such programs.
 

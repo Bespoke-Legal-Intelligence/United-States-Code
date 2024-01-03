@@ -22,7 +22,7 @@
 
 (c) Each shipping agreement must be signed by the master or individual in charge or a representative of the owner, charterer, or managing operator, and by each seaman employed.
 
-(d) The owner, charterer, managing operator, master, or individual in charge shall maintain the shipping agreement and make the shipping agreement available to the seaman.
+(d) The owner, charterer, managing operator, master, or individual in charge shall maintainthe shipping agreement and make the shipping agreement available to the seaman.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 561; Pub. L. 103–206, title IV, §401, Dec. 20, 1993, 107 Stat. 2435.)
 

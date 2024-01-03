@@ -1,6 +1,6 @@
 ### §719m. Authorization of appropriations
 
-There is hereby authorized to be appropriated beginning in fiscal year 1978 and each fiscal year thereafter, such sums as may be necessary to carry out the functions of the Federal inspector appointed by the President with the advice and consent of the Senate under section 719e of this title.
+There is hereby authorized to be appropriated beginning in fiscal year 1978 and each fiscal yearthereafter, such sums as may be necessary to carry out the functions of the Federal inspector appointed by the President with the advice and consent of the Senate under section 719e of this title.
 
 (Pub. L. 94–586, §15, Oct. 22, 1976, 90 Stat. 2915.)
 

@@ -92,7 +92,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 &emsp;&emsp;(B) The Administration views on any recommendations for corrective action to eliminate those consequences as proposed by such Governors.
 
-&emsp;&emsp;(C) With regard to immigration, statistics concerning the number of persons availing themselves of the rights described in section 141(a) of the Compact during the year covered by each report.
+&emsp;&emsp;(C) With regard to immigration, statistics concerning the number of persons availingthemselves of the rights described in section 141(a) of the Compact during the year covered by each report.
 
 &emsp;&emsp;(D) With regard to trade, an analysis of the impact on the economy of American Samoa resulting from imports of canned tuna into the United States from the Federated States of Micronesia, and the Republic of the Marshall Islands.
 
@@ -106,7 +106,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 #### (i) Substantiation of impact costs
 
-&emsp;&emsp;&emsp;Not later than 120 days after December 17, 2003, the Governor of Guam and the Governor of the Commonwealth of the Northern Mariana Islands shall each submit to the Secretary of the Interior a report, prepared in consultation with an independent accounting firm, substantiating unreimbursed impact expenses claimed for the period from January 14, 1986, through September 30, 2003. Upon request of the Secretary of the Interior, theGovernor of Guam and the Governor of the Commonwealth of the Northern Mariana Islands shall submit to the Secretary of the Interior copies of all documents upon which the report submitted by that Governor under this clause was based.
+&emsp;&emsp;&emsp;Not later than 120 days after December 17, 2003, the Governor of Guam and the Governor of the Commonwealth of the Northern Mariana Islands shall each submit to the Secretary of the Interior a report, prepared in consultation with an independent accounting firm, substantiating unreimbursed impact expenses claimed for the period from January 14, 1986, through September 30, 2003. Upon request of the Secretary of the Interior, the Governor of Guam and the Governor of the Commonwealth of the Northern Mariana Islands shall submit to the Secretary of the Interior copies of all documents upon which the report submitted by that Governor under this clause was based.
 
 #### (ii) Congressional notification
 
@@ -146,7 +146,7 @@ It is the sense of Congress that not less than 30 percent of the United States a
 
 &emsp;&emsp;(D) the status of the efforts to increase investment including: the rate of infrastructure investment of U.S. financial assistance under the U.S.-FSM Compact and the U.S.-RMI Compact; non-U.S. contributions to the trust funds, and the level of private investment; and
 
-&emsp;&emsp;(E) recommendations on ways to increase the effectiveness of United States assistance and to meet overall economic performance objectives, including, if appropriate, recommendations to Congress to adjust the inflation rate or to adjust the contributions to the Trust Funds based on non-U.S. contributions.
+&emsp;&emsp;(E) recommendations on ways to increase the effectiveness of United States assistanceand to meet overall economic performance objectives, including, if appropriate, recommendations to Congress to adjust the inflation rate or to adjust the contributions to the Trust Funds based on non-U.S. contributions.
 
 #### (2) Review
 
@@ -154,7 +154,7 @@ It is the sense of Congress that not less than 30 percent of the United States a
 
 #### (i) Construction of section 141(f)
 
-Section 141(f)(2) of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Federated States of Micronesia andof the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, shall be construed as though, after "may by regulations prescribe", there were included the following: ", except that any such regulations that would have a significant effect on the admission, stay and employment privileges provided under this section shall not become effective until 90 days after the date of transmission of the regulations to the Committee on Energy and Natural Resources and the Committee on the Judiciary of the Senate and the Committee on Resources, the Committee on International Relations, and the Committee on the Judiciary of the House of Representatives".
+Section 141(f)(2) of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Federated States of Micronesia and of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, shall be construed as though, after "may by regulations prescribe", there were included the following: ", except that any such regulations that would have a significant effect on the admission, stay and employment privileges provided under this section shall not become effective until 90 days after the date of transmission of the regulations to the Committee on Energy and Natural Resources and the Committee on the Judiciary of the Senate and the Committee on Resources, the Committee on International Relations, and the Committee on the Judiciary of the House of Representatives".
 
 #### (j) Inflation adjustment
 
@@ -212,7 +212,7 @@ Memorandum of President of the United States, July 21, 2005, 70 F.R. 43249, prov
 
 Memorandum for the Secretary of the Interior
 
-By virtue of the authority vested in me by the Constitution and the laws of the United States, includingsection 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 104(h) of the Compact of Free Association Amendments Act of 2003 (Public Law 108–188) \[48 U.S.C. 1921c(h)\].
+By virtue of the authority vested in me by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 104(h) of the Compact of Free Association Amendments Act of 2003 (Public Law 108–188) \[48 U.S.C. 1921c(h)\].
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

@@ -68,7 +68,7 @@ The provisos of 46 App. U.S.C. 877 relating to the Philippine Islands are omitte
 
 #### References in Text
 
-Section 502(b) of the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, referred to in subsec. (b)(2), is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of Title 48, Territories and Insular Possessions.
+Section 502(b) of the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, referredto in subsec. (b)(2), is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of Title 48, Territories and Insular Possessions.
 
 #### Amendments
 

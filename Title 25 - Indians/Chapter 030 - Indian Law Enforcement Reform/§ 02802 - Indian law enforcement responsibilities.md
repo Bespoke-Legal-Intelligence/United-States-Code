@@ -64,7 +64,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 &emsp;&emsp;(ii) the amount of appropriations obligated for each category described in clause (i) for each fiscal year;
 
-&emsp;&emsp;(B) a list of amounts dedicated to law enforcement and corrections, vehicles, related transportation costs, equipment, inmatetransportation costs, inmate transfer costs, replacement, improvement, and repair of facilities, personnel transfers, detailees and costs related to their details, emergency events, public safety and justice communications and technology costs, and tribal court personnel, facilities, indigent defense, and related program costs;
+&emsp;&emsp;(B) a list of amounts dedicated to law enforcement and corrections, vehicles, related transportation costs, equipment, inmate transportation costs, inmate transfer costs, replacement, improvement, and repair of facilities, personnel transfers, detailees and costs related to their details, emergency events, public safety and justice communications and technology costs, and tribal court personnel, facilities, indigent defense, and related program costs;
 
 &emsp;&emsp;(C) a list of the unmet staffing needs of law enforcement, corrections, and court personnel (including indigent defense and prosecution staff) at tribal and Bureau of Indian Affairs justice agencies, the replacement and repair needs of tribal and Bureau corrections facilities, needs for tribal police and court facilities, and public safety and emergency communications and technology needs; and
 

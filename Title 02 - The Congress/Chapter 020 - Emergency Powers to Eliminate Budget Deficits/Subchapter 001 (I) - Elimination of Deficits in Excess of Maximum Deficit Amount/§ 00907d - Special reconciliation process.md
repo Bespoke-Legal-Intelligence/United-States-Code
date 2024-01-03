@@ -4,11 +4,11 @@
 
 #### (1) Committee alternatives to Presidential order
 
-&emsp;After the submission of an OMB sequestration update report under section 904 of this title that envisions a sequestration under section 902 or 903 of this title, each standing committee of the Senate may, not later than October 10, submit to the Committee on the Budget of the Senate information of the type described in section 632(d) of this title with respect to alternatives to the order envisioned by such report insofar as such order affects laws within the jurisdiction of the committee.
+&emsp;After the submission of an OMB sequestration update report under section 904 of thistitle that envisions a sequestration under section 902 or 903 of this title, each standing committee of the Senate may, not later than October 10, submit to the Committee on the Budget of the Senate information of the type described in section 632(d) of this title with respect to alternatives to the order envisioned by such report insofar as such order affects laws within the jurisdiction of the committee.
 
 #### (2) Initial Budget Committee action
 
-&emsp;After the submission of such a report, the Committee on the Budget of the Senate may, not later than October 15, report to the Senate a resolution. The resolution may affirm the impact of the order envisioned by such report, in whole or in part. To the extent that any part is not affirmed, the resolution shall state which parts are not affirmed and shall containinstructions to committees of the Senate of the type referred to in section 641(a) of this title, sufficient to achieve at least the total level of deficit reduction contained in those sections which are not affirmed.
+&emsp;After the submission of such a report, the Committee on the Budget of the Senate may, not later than October 15, report to the Senate a resolution. The resolution may affirm the impact of the order envisioned by such report, in whole or in part. To the extent that any part is not affirmed, the resolution shall state which parts are not affirmed and shall contain instructions to committees of the Senate of the type referred to in section 641(a) of this title, sufficient to achieve at least the total level of deficit reduction contained in those sections which are not affirmed.
 
 #### (3) Response of committees
 

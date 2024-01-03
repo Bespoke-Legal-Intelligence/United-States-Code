@@ -16,11 +16,11 @@ This section shall take effect at each public institution of higher education in
 
 In this section, the terms "armed forces" and "active duty for a period of more than 30 days" have the meanings given those terms in section 101 of title 10.
 
-(Pub. L. 89–329, title I, §135, as added Pub. L. 110–315, title I, §114, Aug. 14, 2008, 122 Stat. 3111; amended Pub. L. 117–81, div. F, title LXII, §6206(a), Dec. 27, 2021, 135 Stat. 2392.)
+(Pub. L. 89–329, title I, §135, as added Pub. L. 110–315, title I, §114, Aug. 14, 2008, 122 Stat. 3111; amended Pub. L. 117–81, div. F, title LXII, §6206(a), Dec. 27, 2021, 135 Stat. 2392; Pub. L. 118–31, div. G, title III, §7316(a), Dec. 22, 2023, 137 Stat. 1032.)
 
 #### Amendment of Section
 
-<i>Pub. L. 117–81, div. F, title LXII, §6206, Dec. 27, 2021, 135 Stat. 2392, provided that, effective at each public institution of higher education in a State that receives assistance under the Higher Education Act of 1965 for the first period of enrollment at such institution that begins after July 1, 2024, this section is amended as follows:</i>
+<i>Pub. L. 117–81, div. F, title LXII, §6206, Dec. 27, 2021, 135 Stat. 2392; Pub. L. 118–31, div. G, title III, §7316, Dec. 22, 2023, 137 Stat. 1032, provided that, effective at each public institution of higher education in a State that receives assistance under the Higher Education Act of 1965 for the first period of enrollment at such institution that begins after July 1, 2024, this section is amended as follows:</i>
 
 <i>(1) in the section heading, by striking "the armed forces on active duty, spouses, and dependent children" and inserting "qualifying Federal service";</i>
 
@@ -34,11 +34,13 @@ In this section, the terms "armed forces" and "active duty for a period of more 
 
 <i>In this section, the term "member of a qualifying Federal service" means—</i>
 
-&emsp;<i>(1) a member of the armed forces (as defined in section 101 of title 10, United States Code) who is on active duty for a period of more than 30 days (as defined in section 101 of title 10, United States Code); or</i>
+&emsp;<i>(1) a member of the armed forces (as defined in section 101 of title 10, United States Code) who is on active duty for a period of more than 30 days (as defined in section 101 of title 10, United States Code);</i>
 
-&emsp;<i>(2) a member of the Foreign Service (as defined in section 103 of the Foreign Service Act of 1980 (22 U.S.C. 3903)) who is on active duty for a period of more than 30 days.</i>
+&emsp;<i>(2) a member of the Foreign Service (as defined in section 103 of the Foreign Service Act of 1980 (22 U.S.C. 3903)) who is on active duty for a period of more than 30 days; or</i>
 
-<i>See 2021 Amendment notes below.</i>
+&emsp;<i>(3) an officer or employee of an element of the intelligence community (as such term is defined in section 3003 of title 50) who serves in a position of employment in such element for a period of more than 30 days.</i>
+
+<i>See 2021 and 2023 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -47,6 +49,8 @@ In this section, the terms "armed forces" and "active duty for a period of more 
 A prior section 1015d, Pub. L. 89–329, title I, §135, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 466, required grant recipients to submit reports, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d)(3). Pub. L. 118–31 added par. (3).
 
 <b>2021</b>—Pub. L. 117–81, §6206(a)(1), substituted "qualifying Federal service" for "the armed forces on active duty, spouses, and dependent children" in section catchline.
 
@@ -57,6 +61,10 @@ Subsec. (b). Pub. L. 117–81, §6206(a)(3), substituted "member of a qualifying
 Subsec. (d). Pub. L. 117–81, §6206(a)(4), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "In this section, the terms 'armed forces' and 'active duty for a period of more than 30 days' have the meanings given those terms in section 101 of title 10."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2023 Amendment
+
+Pub. L. 118–31, div. G, title III, §7316(b), Dec. 22, 2023, 137 Stat. 1033, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect at each public institution of higher education in a State that receives assistance under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) for the first period of enrollment at such institution that begins after July 1, 2024."
 
 #### Effective Date of 2021 Amendment
 

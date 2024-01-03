@@ -1,6 +1,6 @@
 ### §9326. Computation of years of service: voluntary retirement; regular and reserve commissioned officers
 
-(a) For the purpose of determining whether an officer of the Air Force or the Space Force may be retired under section 9311, 9318, or 9324 of this title, the officer's years of service are computed by adding—
+(a) For the purpose of determining whether an officer of the Air Force or the Space Force maybe retired under section 9311, 9318, or 9324 of this title, the officer's years of service are computed by adding—
 
 &emsp;(1) all active service performed as a member of the Army, the Air Force, or the Space Force; and
 

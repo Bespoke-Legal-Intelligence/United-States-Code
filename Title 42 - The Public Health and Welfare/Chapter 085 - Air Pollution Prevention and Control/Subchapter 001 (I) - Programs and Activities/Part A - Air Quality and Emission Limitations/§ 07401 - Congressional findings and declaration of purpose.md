@@ -6,7 +6,7 @@ The Congress finds—
 
 &emsp;(1) that the predominant part of the Nation's population is located in its rapidly expanding metropolitan and other urban areas, which generally cross the boundary lines of local jurisdictions and often extend into two or more States;
 
-&emsp;(2) that the growth in the amount and complexity of air pollution brought about by urbanization, industrial development, and the increasing use of motor vehicles, has resulted in mounting dangers to the public health and welfare, including injury to agricultural crops and livestock, damage to and the deterioration of property, and hazards to air and ground transportation;
+&emsp;(2) that the growth in the amount and complexity of air pollution brought about by urbanization, industrial development, and the increasing use of motor vehicles, has resultedin mounting dangers to the public health and welfare, including injury to agricultural crops and livestock, damage to and the deterioration of property, and hazards to air and ground transportation;
 
 &emsp;(3) that air pollution prevention (that is, the reduction or elimination, through any measures, of the amount of pollutants produced or created at the source) and air pollution control at its source is the primary responsibility of States and local governments; and
 
@@ -62,7 +62,7 @@ Pub. L. 101–549, title VII, §711(b), Nov. 15, 1990, 104 Stat. 2684, provided 
 
 "(2) The Administrator's authority to assess civil penalties under section 205(c) of the Clean Air Act \[42 U.S.C. 7524(c)\], as amended by this Act, shall apply to violations that occur or continue on or after the date of enactment of this Act. Civil penalties for violations that occur prior to such date and do not continue after such date shall be assessed in accordance with the provisions of the Clean Air Act \[42 U.S.C. 7401 et seq.\] in effect immediately prior to the date of enactment of this Act.
 
-"(3) The civil penalties prescribed under sections 205(a) and 211(d)(1) of the Clean Air Act \[42 U.S.C. 7524(a), 7545(d)(1)\], as amended by this Act, shall apply to violations that occur on or after the date of enactment of this Act. Violations that occur prior to such date shall be subject to the civil penalty provisions prescribed in sections 205(a) and 211(d) of the Clean Air Act in effect immediately prior to the enactment of thisAct. The injunctive authority prescribed under section 211(d)(2) of the Clean Air Act, as amended by this Act, shall apply to violations that occur or continue on or after the date of enactment of this Act.
+"(3) The civil penalties prescribed under sections 205(a) and 211(d)(1) of the Clean Air Act \[42 U.S.C. 7524(a), 7545(d)(1)\], as amended by this Act, shall apply to violations that occur on or after the date of enactment of this Act. Violations that occur prior to such date shall be subject to the civil penalty provisions prescribed in sections 205(a) and 211(d) of the Clean Air Act in effect immediately prior to the enactment of this Act. The injunctive authority prescribed under section 211(d)(2) of the Clean Air Act, as amended by this Act, shall apply to violations that occur or continue on or after the date of enactment of this Act.
 
 "(4) For purposes of paragraphs (2) and (3), where the date of a violation cannot be determined it will be assumed to be the date on which the violation is discovered."
 
@@ -126,7 +126,7 @@ Act July 14, 1955, ch. 360, title IV, §401, as added by Dec. 31, 1970, Pub. L. 
 
 #### Savings Provision
 
-Pub. L. 101–549, title VII, §711(a), Nov. 15, 1990, 104 Stat. 2684, provided that: "Except as otherwise expressly provided in this Act \[see Tables for classification\], no suit, action, or other proceeding lawfully commenced by the Administrator or any other officer oremployee of the United States in his official capacity or in relation to the discharge of his official duties under the Clean Air Act \[42 U.S.C. 7401 et seq.\], as in effect immediately prior to the date of enactment of this Act \[Nov. 15, 1990\], shall abate by reason of the taking effect of the amendments made by this Act."
+Pub. L. 101–549, title VII, §711(a), Nov. 15, 1990, 104 Stat. 2684, provided that: "Except as otherwise expressly provided in this Act \[see Tables for classification\], no suit, action, or other proceeding lawfully commenced by the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Clean Air Act \[42 U.S.C. 7401 et seq.\], as in effect immediately prior to the date of enactment of this Act \[Nov. 15, 1990\], shall abate by reason of the taking effect of the amendments made by this Act."
 
 #### Impact on Small Communities
 
@@ -302,7 +302,7 @@ Pub. L. 95–95, title IV, §405, Aug. 7, 1977, 91 Stat. 794, directed Administr
 
 #### Transfer of Functions
 
-Reorg. Plan No. 3 of 1970, §2(a)(3), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, transferred to Administrator of Environmental Protection Agency functions vested by law in Secretary of Health, Education, and Welfare or in Department of Health, Education, and Welfare whichare administered through Environmental Health Service, including functions exercised by National Air Pollution Control Administration, and Environmental Control Administration's Bureau of Solid Waste Management, Bureau of Water Hygiene, and Bureau of Radiological Health, except insofar as functions carried out by Bureau of Radiological Health pertain to regulation of radiation from consumer products, including electronic product radiation, radiation as used in healing arts, occupational exposure to radiation, and research, technical assistance, and training related to radiation from consumer products, radiation as used in healing arts, and occupational exposure to radiation.
+Reorg. Plan No. 3 of 1970, §2(a)(3), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, transferred to Administrator of Environmental Protection Agency functions vested by law in Secretary of Health, Education, and Welfare or in Department of Health, Education, and Welfare which are administered through Environmental Health Service, including functions exercised by National Air Pollution Control Administration, and Environmental Control Administration's Bureau of Solid Waste Management, Bureau of Water Hygiene, and Bureau of Radiological Health, except insofar as functions carried out by Bureau of Radiological Health pertain to regulation of radiation from consumer products, including electronic product radiation, radiation as used in healing arts, occupational exposure to radiation, and research, technical assistance, and training related to radiation from consumer products, radiation as used in healing arts, and occupational exposure to radiation.
 
 #### National Industrial Pollution Control Council
 

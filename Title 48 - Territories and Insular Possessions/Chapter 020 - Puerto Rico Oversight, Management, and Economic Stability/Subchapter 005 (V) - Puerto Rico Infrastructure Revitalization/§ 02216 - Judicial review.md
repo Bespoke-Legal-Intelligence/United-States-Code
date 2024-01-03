@@ -6,7 +6,7 @@ A claim arising under this subchapter must be brought no later than 30 days afte
 
 #### (b) Expedited consideration
 
-The District Court for the District of Puerto Rico shall set any action brought under this subchapter for expedited consideration, taking into account the interest of enhancing Puerto Rico's infrastructure for electricity, water and sewer services, roads and bridges, ports, and solid waste management to achieve compliance with local and Federal environmental laws, regulations, and policies while ensuring the continuity of adequate services to the people of Puerto Rico and Puerto Rico's sustainable economic development.
+The District Court for the District of Puerto Rico shall set any action brought under thissubchapter for expedited consideration, taking into account the interest of enhancing Puerto Rico's infrastructure for electricity, water and sewer services, roads and bridges, ports, and solid waste management to achieve compliance with local and Federal environmental laws, regulations, and policies while ensuring the continuity of adequate services to the people of Puerto Rico and Puerto Rico's sustainable economic development.
 
 (Pub. L. 114–187, title V, §506, June 30, 2016, 130 Stat. 602.)
 

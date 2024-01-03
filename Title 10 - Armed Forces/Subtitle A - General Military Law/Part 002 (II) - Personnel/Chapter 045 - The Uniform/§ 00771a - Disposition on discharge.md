@@ -6,7 +6,7 @@
 
 &emsp;(1) the exterior articles of uniform in his possession shall be retained for military use;
 
-&emsp;(2) under such regulations as the Secretary concerned prescribes, a suit of civilian clothing and an overcoat when necessary, both tocost not more than $30, may be issued to him; and
+&emsp;(2) under such regulations as the Secretary concerned prescribes, a suit of civilian clothing and an overcoat when necessary, both to cost not more than $30, may be issued to him; and
 
 &emsp;(3) if he would be otherwise without funds to meet his immediate needs, he may be paid an amount, fixed by the Secretary concerned, of not more than $25.
 

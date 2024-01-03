@@ -16,7 +16,7 @@ For purposes of the tax imposed by section 2101, the value of the taxable estate
 
 &emsp;&emsp;&emsp;(i) to or for the use of the United States, any State, any political subdivision thereof, or the District of Columbia, for exclusively public purposes;
 
-&emsp;&emsp;&emsp;(ii) to or for the use of any domestic corporation organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private stockholder or individual, which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation, and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office; or
+&emsp;&emsp;&emsp;(ii) to or for the use of any domestic corporation organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private stockholder or individual, which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation, and which does not participate in, or intervene in (including the publishing or distributing of statements), any politicalcampaign on behalf of (or in opposition to) any candidate for public office; or
 
 &emsp;&emsp;&emsp;(iii) to a trustee or trustees, or a fraternal society, order, or association operating under the lodge system, but only if such contributions or gifts are to be used within the United States by such trustee or trustees, or by such fraternal society, order, or association, exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals, such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation, and such trustee or trustees, or such fraternal society, order, or association, does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office;
 
@@ -30,7 +30,7 @@ For purposes of the tax imposed by section 2101, the value of the taxable estate
 
 #### (D) Limitation on deduction
 
-&emsp;&emsp;The amount of the deduction under this paragraph for any transfer shall not exceedthe value of the transferred property required to be included in the gross estate.
+&emsp;&emsp;The amount of the deduction under this paragraph for any transfer shall not exceed the value of the transferred property required to be included in the gross estate.
 
 #### (E) Disallowance of deductions in certain cases
 
@@ -82,7 +82,7 @@ No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in 
 
 Subsec. (a)(2)(A)(ii). Pub. L. 94–455, §1307(d)(1)(B)(iii), substituted "which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation" for "no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation" after "stockholder or individual".
 
-Subsec. (a)(2)(A)(iii). Pub. L. 94–455, §1307(d)(1)(C), substituted "such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation" for "no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, to influence legislation" after "children or animals".
+Subsec. (a)(2)(A)(iii). Pub. L. 94–455, §1307(d)(1)(C), substituted "such trust, fraternal society, order, or association would not be disqualified for tax exemptionunder section 501(c)(3) by reason of attempting to influence legislation" for "no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, to influence legislation" after "children or animals".
 
 Subsec. (a)(2)(F). Pub. L. 94–455, §1902(a)(5)(A), substituted "Cross references" for "Other cross references" after "(F)", in cl. (1) "purposes of deduction under this section" for "purpose of deduction under this paragraph" after "valuation for", in cl. (2) provision for exemption of certain bequests for benefit of United States and for rules of construction for certain bequests, for provisions of cls. (2) to (11) relating to bequests to; Library of Congress, Post Office Department, Office of Naval Records and Library, National Park Service, Department of State, Department of Justice, payment of tax on bequests of United States obligations, Naval Academy, Naval Academy Museum, and National Archives Trust Fund Board, respectively.
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers,after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1989 Amendment
 

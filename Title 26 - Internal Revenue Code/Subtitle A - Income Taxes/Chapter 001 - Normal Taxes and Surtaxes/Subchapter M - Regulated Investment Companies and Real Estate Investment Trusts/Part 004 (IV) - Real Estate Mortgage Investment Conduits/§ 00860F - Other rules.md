@@ -36,7 +36,7 @@
 
 #### (3) Determination of net income
 
-&emsp;For purposes of paragraph (1), the term "net income derived from prohibited transactions" means the excess of the gross income from prohibited transactions over the deductions allowed by this chapter which are directly connected with such transactions; except that there shall not be taken into account any item attributable to any prohibited transaction for which there was a loss.
+&emsp;For purposes of paragraph (1), the term "net income derived from prohibited transactions" means the excess of the gross income fromprohibited transactions over the deductions allowed by this chapter which are directly connected with such transactions; except that there shall not be taken into account any item attributable to any prohibited transaction for which there was a loss.
 
 #### (4) Qualified liquidation
 
@@ -78,7 +78,7 @@
 
 #### (B) Adjusted bases of interests
 
-&emsp;&emsp;The adjusted bases of the regular and residual interests received in a transfer described in subparagraph (A) shall be equal to the aggregate adjusted bases of the property transferred in such transfer. Such amountshall be allocated among such interests in proportion to their respective fair market values.
+&emsp;&emsp;The adjusted bases of the regular and residual interests received in a transfer described in subparagraph (A) shall be equal to the aggregate adjusted bases of the property transferred in such transfer. Such amount shall be allocated among such interests in proportion to their respective fair market values.
 
 #### (C) Treatment of nonrecognized gain
 
@@ -156,5 +156,5 @@ Subsec. (e). Pub. L. 100–647, §1006(t)(18)(A), inserted at end "Such return s
 
 Pub. L. 100–647, title I, §1006(t)(18)(B), Nov. 10, 1988, 102 Stat. 3426, provided that: "Unless the REMIC otherwise elects, the amendment made by subparagraph (A) \[amending this section\] shall not apply to any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) is before the date of the enactment of this Act."
 
-Amendment by section 1006(t)(3), (4), (14), (22)(B)–(E) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax ReformAct of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1006(t)(3), (4), (14), (22)(B)–(E) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

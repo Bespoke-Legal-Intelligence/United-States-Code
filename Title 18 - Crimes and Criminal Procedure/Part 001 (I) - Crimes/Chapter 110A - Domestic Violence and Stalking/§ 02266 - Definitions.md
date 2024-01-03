@@ -46,7 +46,7 @@ Spouse or intimate partner.—The term "spouse or intimate partner" includes—
 
 &emsp;&emsp;&emsp;&emsp;(I) a spouse or former spouse of the target of the stalking, a person who shares a child in common with the target of the stalking, and a person who cohabits or has cohabited as a spouse with the target of the stalking; or
 
-&emsp;&emsp;&emsp;&emsp;(II) a person who is or has been in a social relationship of a romantic or intimate nature with the target of the stalking, as determined by the length of the relationship, the type of the relationship, and the frequency of interaction between the persons involved in the relationship.<sup>1</sup>
+&emsp;&emsp;&emsp;&emsp;(II) a person who is or has been in a social relationship of a romantic or intimate nature with the target of the stalking, as determined by the length of the relationship, the type of the relationship, and the frequency of interactionbetween the persons involved in the relationship.<sup>1</sup>
 
 &emsp;&emsp;(B) any other person similarly situated to a spouse who is protected by the domestic or family violence laws of the State or tribal jurisdiction in which the injury occurred or where the victim resides.
 

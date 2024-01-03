@@ -8,7 +8,7 @@ Subject to subsection (e), members of the Senior Foreign Service who are serving
 
 &emsp;(2) under limited appointments with reemployment rights under section 3950 of this title as career appointees in the Senior Executive Service,
 
-> shall be eligible to compete for performance pay in accordance with this section. Performance pay shall be paid in a lump sum and shall be in addition to the basic salary prescribed under section 3962 of this title and any other award. The fact that a member of the Senior Foreign Service competing for performance pay would, as a result of the payment of such performance pay, receive compensation exceeding the compensation of any other member of the Service shall not preclude the award or its payment.
+> shall be eligible to compete for performance pay in accordance with this section. Performance pay shall be paid in a lump sum and shall be in addition to the basic salary prescribed under section 3962 of this title and any other award. The fact that a member of the Senior Foreign Service competing for performance pay would, as a result of the payment of such performancepay, receive compensation exceeding the compensation of any other member of the Service shall not preclude the award or its payment.
 
 #### (b) Criteria; limitations
 
@@ -30,7 +30,7 @@ The Secretary shall determine the amount of performance pay available under subs
 
 #### (d) Recommendations for meritorious or distinguished service awards
 
-The President may grant awards of performance pay under subsection (b)(3) on the basis ofannual recommendations by the Secretary of State of members of the Senior Foreign Service who are nominated by their agencies as having performed especially meritorious or distinguished service. Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section. Recommendations by the Secretary of State under this subsection shall be made on the basis of recommendations by special interagency selection boards established by the Secretary of State for the purpose of reviewing and evaluating the nominations of agencies.
+The President may grant awards of performance pay under subsection (b)(3) on the basis of annual recommendations by the Secretary of State of members of the Senior Foreign Service who are nominated by their agencies as having performed especially meritorious or distinguished service. Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section. Recommendations by the Secretary of State under this subsection shall be made on the basis of recommendations by special interagency selection boards established by the Secretary of State for the purpose of reviewing and evaluating the nominations of agencies.
 
 #### (e) Recognition in lieu of award
 
@@ -56,7 +56,7 @@ Subsec. (e). Pub. L. 105–277, §2311(a)(2), added subsec. (e).
 
 <b>1994</b>—Subsec. (b)(4). Pub. L. 103–236 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The total amount of basic salary plus performance pay received in any fiscal year by any member of the Senior Foreign Service may not exceed the salary payable for level I of the Executive Schedule under section 5312 of title 5 as in effect at the end of that fiscal year. Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year."
 
-<b>1987</b>—Subsec. (b)(4), (5). Pub. L. 100–204 inserted at end of par. (4) "Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year." and added par. (5).
+<b>1987</b>—Subsec. (b)(4), (5). Pub. L. 100–204 inserted at end of par. (4) "Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of thissubparagraph with respect to such fiscal year." and added par. (5).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -94,7 +94,7 @@ Suspension of awards during review.—During the period beginning on the date of
 
 Review by inspector general.—The Inspector General of the Department of State shall conduct a complete and thorough review of—
 
-&emsp;"(A) the procedures in the Department of State under which performance pay recipients are chosen todetermine whether the procedures and award determinations are free from bias and reflect fair standards; and
+&emsp;"(A) the procedures in the Department of State under which performance pay recipients are chosen to determine whether the procedures and award determinations are free from bias and reflect fair standards; and
 
 &emsp;"(B) the adequacy of the criteria and the equity of the criteria actually applied in making those awards.
 

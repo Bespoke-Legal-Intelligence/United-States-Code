@@ -4,7 +4,7 @@
 
 In General.—(1) If the Secretary determines that a person recommended by a promotion board for promotion to a grade at or below the grade of rear admiral is the subject of credible information of an adverse nature, including any substantiated adverse finding or conclusion described in section 2115(a)(3) of this title that was not furnished to the promotion board during its consideration of the person for promotion as otherwise required by such section, the Secretary shall convene a special selection review board under this section to review the person and recommend whether the recommendation for promotion of the person should be sustained.
 
-(2) If a person and the recommendation for promotion of the person is subject to review under this section by a special selection reviewboard convened under this section, the name of the person—
+(2) If a person and the recommendation for promotion of the person is subject to review under this section by a special selection review board convened under this section, the name of the person—
 
 &emsp;(A) shall not be disseminated or publicly released on the list of officers recommended for promotion by the promotion board recommending the promotion of the person; and
 
@@ -12,7 +12,7 @@ In General.—(1) If the Secretary determines that a person recommended by a pro
 
 (b)
 
-Convening.—(1) Any special selection review board convened under this section shall be convened in accordance with the provisions of section 2120(c) of this title.
+Convening.—(1) Any special selection review board convened under this section shall beconvened in accordance with the provisions of section 2120(c) of this title.
 
 (2) Any special selection review board convened under this section may review such number of persons, and recommendations for promotion of such persons, as the Secretary shall specify in convening such special selection review board.
 
@@ -70,7 +70,7 @@ Consideration.—(1) In considering the record and information on a person under
 
 Reports.—(1) Each special selection review board convened under this section shall submit to the Secretary a written report, signed by each member of the board, containing the name of each person whose recommendation for promotion it recommends for sustainment and certifying that the board has carefully considered the record and information of each person whose name was referred to it.
 
-(2) The provisions of sections 2117(a) of this title apply to the report and proceedings of a special selection review board convened under this section in the same manner as they apply tothe report and proceedings of a promotion board convened under section 2106 of this title.
+(2) The provisions of sections 2117(a) of this title apply to the report and proceedings of a special selection review board convened under this section in the same manner as they apply to the report and proceedings of a promotion board convened under section 2106 of this title.
 
 (f)
 

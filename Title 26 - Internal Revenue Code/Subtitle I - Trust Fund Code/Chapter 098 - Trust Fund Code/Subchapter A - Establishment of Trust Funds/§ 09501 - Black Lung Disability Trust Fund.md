@@ -144,7 +144,7 @@ Refinancing of outstanding principal of repayable advances and unpaid interest o
 
 Transfer to general fund.—On the refinancing date, the Trust Fund shall repay the market value of the outstanding repayable advances, plus accrued interest, by transferring into the general fund of the Treasury the following sums:
 
-&emsp;&emsp;"(i) The proceeds from obligations that the Trust Fund shall issue to the Secretary of the Treasury in such amounts as the Secretaries of Labor and the Treasury shall determine and bearing interest at the Treasury rate, and that shall be in such forms and denominations and be subject to such otherterms and conditions, including maturity, as the Secretary of the Treasury shall prescribe.
+&emsp;&emsp;"(i) The proceeds from obligations that the Trust Fund shall issue to the Secretary of the Treasury in such amounts as the Secretaries of Labor and the Treasury shall determine and bearing interest at the Treasury rate, and that shall be in such forms and denominations and be subject to such other terms and conditions, including maturity, as the Secretary of the Treasury shall prescribe.
 
 &emsp;&emsp;"(ii) All, or that portion, of the appropriation made to the Trust Fund pursuant to paragraph (3) that is needed to cover the difference defined in that paragraph.
 

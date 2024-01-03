@@ -12,7 +12,7 @@ Each institution receiving an award under this subchapter for the training of gr
 
 Each institution described in subsection (a) shall provide to each student submitting an application for a program of graduate study at such institution the information described in paragraphs (1) and (2) of such subsection with respect to the program or programs to which such student has applied.
 
-(July 1, 1944, ch. 373, title IV, §403C, as added Pub. L. 109–482, title I, §104(a)(3), Jan. 15, 2007, 120 Stat. 3692; amended Pub. L. 110–85, title XI, §1104(5), Sept. 27, 2007, 121 Stat. 975; Pub. L. 114–255, div. A, title II, §2042(c), Dec. 13, 2016, 130 Stat. 1073.)
+(July 1, 1944, ch. 373, title IV, §403C, as added Pub. L. 109–482, title I, §104(a)(3), Jan. 15, 2007, 120 Stat. 3692; amended Pub. L. 110–85, title XI, §1104(5), Sept. 27, 2007, 121 Stat. 975; Pub. L.114–255, div. A, title II, §2042(c), Dec. 13, 2016, 130 Stat. 1073.)
 
 #### <b>Editorial Notes</b>
 

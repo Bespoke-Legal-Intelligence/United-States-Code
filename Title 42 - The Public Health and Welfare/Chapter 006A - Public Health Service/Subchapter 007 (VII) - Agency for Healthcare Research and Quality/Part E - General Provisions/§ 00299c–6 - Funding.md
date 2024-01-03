@@ -18,7 +18,7 @@ For the purpose of carrying out the activities under section 299a–1 of this ti
 
 #### (e) Patient safety and quality improvement
 
-For the purpose of carrying out part C, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2006 through 2010.
+For the purpose of carrying out part C, there are authorized to be appropriated such sums asmay be necessary for each of the fiscal years 2006 through 2010.
 
 (July 1, 1944, ch. 373, title IX, §947, formerly §927, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1670; amended Pub. L. 106–525, title II, §201(b), Nov. 22, 2000, 114 Stat. 2507; renumbered §937 and amended Pub. L. 109–41, §2(a)(3), (b), July 29, 2005, 119 Stat. 424, 434; renumbered §947, Pub. L. 111–148, title III, §3013(a)(2), Mar. 23, 2010, 124 Stat. 381.)
 

@@ -4,7 +4,7 @@
 
 Pursuant to section 2903 of this title and section 2191 of this title, the Congress approves—
 
-&emsp;(1) the trade agreements described in subsection (d) resulting from the Uruguay Roundof multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade, entered into on April 15, 1994, and submitted to the Congress on September 27, 1994; and
+&emsp;(1) the trade agreements described in subsection (d) resulting from the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade, entered into on April 15, 1994, and submitted to the Congress on September 27, 1994; and
 
 &emsp;(2) the statement of administrative action proposed to implement the agreements that was submitted to the Congress on September 27, 1994.
 
@@ -88,7 +88,7 @@ Proc. No. 6763, Dec. 23, 1994, 60 F.R. 1007, as amended by Proc. No. 6780, Mar. 
 
 5\. (a) Section 22(f) of the Agricultural Adjustment Act ("the Adjustment Act") (7 U.S.C. 624(f)), as amended by section 401(a)(1) of the URAA, provides that, as of the date of entry into force of the Agreement Establishing the World Trade Organization ("the WTO Agreement"), no quantitative limitation or fee shall be imposed under that section with respect to any article that is the product of a World Trade Organization member, as defined in section 2(10) of the URAA \[19 U.S.C. 3501(10)\].
 
-(b) Section 401(a)(2) of the URAA \[7 U.S.C. 624 note\] further provides that, with respect to wheat, amended section 22(f) of the Adjustment Act (7 U.S.C. 624(f))shall be effective on the later of the date of entry into force of the WTO Agreement or September 12, 1995.
+(b) Section 401(a)(2) of the URAA \[7 U.S.C. 624 note\] further provides that, with respect to wheat, amended section 22(f) of the Adjustment Act (7 U.S.C. 624(f)) shall be effective on the later of the date of entry into force of the WTO Agreement or September 12, 1995.
 
 (c) Accordingly, I have decided that it is necessary to provide for the termination of all quantitative limitations and fees previously proclaimed under section 22 of the Adjustment Act (7 U.S.C. 624), other than those for wheat, as provided in the Annex to this proclamation.
 
@@ -124,7 +124,7 @@ NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America
 
 (d) The modifications to the HTS made by section D(7) of the Annex to this proclamation shall be effective with respect to goods entered, or withdrawn from warehouse for consumption, on and after the date announced by the USTR in a notice published in the Federal Register as the date on which other major countries have afforded adequate entity coverage under the Agreement on Government Procurement annexed to the WTO Agreement; and
 
-(e) Section K of the Annex to this proclamation, providing for a delay in implementation of the expansion of tariff-rate quotas of cheeses, applies during the period January 1, 1995, through June 30, 1995, unless the USTR determines that it is in the interest of the United States for any such delays to apply to a different period and publishes notice of the determination and applicable period in the Federal Register. The USTR also is authorized to prorate over the applicable period any of the quantities that may be imported.
+(e) Section K of the Annex to this proclamation, providing for a delay in implementation of the expansion of tariff-rate quotas of cheeses, applies during the period January 1, 1995, through June 30, 1995, unless the USTR determines that it is in the interest of the United States for any such delays to apply to a different period and publishes notice of the determination and applicable period in the Federal Register. TheUSTR also is authorized to prorate over the applicable period any of the quantities that may be imported.
 
 (3) The USTR is authorized to exercise my authority under section 404(d)(3) \[19 U.S.C. 3601(d)(3)\] of the URAA to allocate the in-quota quantity of a tariff-rate quota for any agricultural product among supplying countries or customs areas and to modify any allocation as the USTR determines appropriate.
 
@@ -174,7 +174,7 @@ Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15845, provided:
 
 (e) Accordingly, I have decided that it is necessary and appropriate, in order to implement the TRIPs Agreement and to ensure that section 514 of the URAA \[amending sections 104A and 109 of Title 17, Copyrights\] is appropriately implemented, to proclaim that the date on which the obligations of the TRIPs Agreement will take effect for the United States is January 1, 1996.
 
-6\. (a) Section 902(a)(2) of title 17, United States Code, authorizes the President to extend protection under chapter 9 of title 17, United States Code, to mask works of owners who are nationals, domiciliaries, or sovereign authorities of, and to mask works, which are first commercially exploited in, a foreign nation that grants United States mask work owners substantially the same protection that it grants its own nationals and domiciliaries, or that grants protection to such works on substantially the same basis as does chapter 9 of title 17, United States Code.
+6\. (a) Section 902(a)(2) of title 17, United States Code, authorizes the President to extend protection under chapter 9 of title 17, United States Code, to mask works of owners who are nationals, domiciliaries, or sovereign authorities of, and to mask works, which are first commercially exploited in, a foreign nation that grants United States mask work owners substantially the same protection that it grants its own nationals and domiciliaries, or that grants protection to such workson substantially the same basis as does chapter 9 of title 17, United States Code.
 
 (b) Australia, Canada, Japan, Switzerland, and the Member States of the European Community provide adequate and effective protection for mask works within the meaning of 17 U.S.C. 902(a)(2), and have been subject to interim protection under 17 U.S.C. 914. Consequently, I find that these countries satisfy the requirements of 17 U.S.C. 902(a)(2), and are to be extended full protection under chapter 9 of title 17, United States Code, effective on July 1, 1995.
 
@@ -216,7 +216,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Annex
 
-The Annex of Proclamation 6780, which amended the Harmonized Tariff Schedule of the United States, is not set out under this section because the Harmonized Tariff Schedule is not set out in the Code. See Publicationof Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Annex of Proclamation 6780, which amended the Harmonized Tariff Schedule of the United States, is not set out under this section because the Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Ex. Ord. No. 13042. Implementing for United States Article VIII of Agreement Establishing World Trade Organization Concerning Legal Capacity and Privileges and Immunities
 

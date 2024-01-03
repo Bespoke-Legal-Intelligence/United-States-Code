@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(ii) the distribution of resources, by grant and principal recipient, for prevention, care, treatment, drug and commodity purchases, and other purposes;
 
-&emsp;&emsp;(F) relevant national authorities in recipient countries should exempt from duties andtaxes all products financed by Global Fund grants and procured by any principal recipient or subrecipient for the purpose of carrying out such grants;
+&emsp;&emsp;(F) relevant national authorities in recipient countries should exempt from duties and taxes all products financed by Global Fund grants and procured by any principal recipient or subrecipient for the purpose of carrying out such grants;
 
 &emsp;&emsp;(G) the Global Fund, UNAIDS, and the Global AIDS Coordinator should work together to standardize program indicators wherever possible;
 
@@ -72,7 +72,7 @@
 
 #### (3) Statement of policy
 
-&emsp;The United States Government regards the imposition by recipient countries of taxes or tariffs on goods or services provided by the Global Fund, which are supported through public and private donations, including the substantial contribution of the American people, as inappropriate and inconsistent with standards of good governance. The Global AIDS Coordinator or other representatives of the United States Government shall work with the Global Fund to dissuade governments from imposing such duties, tariffs, or taxes.
+&emsp;The United States Government regards the imposition by recipient countries of taxes or tariffs on goods or services provided by the Global Fund, which are supported through public and private donations, including the substantial contribution of the American people, as inappropriate and inconsistent with standards of good governance. The Global AIDS Coordinator or other representatives of the United States Government shall work withthe Global Fund to dissuade governments from imposing such duties, tariffs, or taxes.
 
 #### (c) Reports to Congress
 
@@ -106,7 +106,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 &emsp;(iv) The President may waive the application of clause (iii) if the President determines that extraordinary circumstances warrant such a waiver. No waiver under this clause may be for any period that exceeds 1 year.
 
-&emsp;(v) If, at any time during any of the fiscal years 2004 through 2008, the President determines that the salary of any individual employed by the Global Fund exceeds the salary of the Vice President of the United States (as determined under section 104 of title 3) forthat fiscal year, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the aggregate amount by which the salary of each such individual exceeds the salary of the Vice President of the United States.
+&emsp;(v) If, at any time during any of the fiscal years 2004 through 2008, the President determines that the salary of any individual employed by the Global Fund exceeds the salary of the Vice President of the United States (as determined under section 104 of title 3) for that fiscal year, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the aggregate amount by which the salary of each such individual exceeds the salary of the Vice President of the United States.
 
 &emsp;(B)(i) Any amount made available that is withheld by reason of subparagraph (A)(i) shall be contributed to the Global Fund as soon as practicable, subject to subparagraph (A)(i), after additional contributions to the Global Fund are made from other sources.
 
@@ -256,7 +256,7 @@ It is the sense of the Congress that the President should—
 
 &emsp;&emsp;(B) making public service announcements on radio and television.
 
-(Pub. L. 108–25, title II, §202, May 27, 2003, 117 Stat. 724; Pub. L. 108–199, div. D, title V, §595(1),\(2), Jan. 23, 2004, 118 Stat. 209; Pub. L. 110–293, title II, §202, July 30, 2008, 122 Stat. 2936; Pub. L. 113–56, §4, Dec. 2, 2013, 127 Stat. 649; Pub. L. 115–305, §3, Dec. 11, 2018, 132 Stat. 4402.)
+(Pub. L. 108–25, title II, §202, May 27, 2003, 117 Stat. 724; Pub. L. 108–199, div. D, title V, §595(1), (2), Jan. 23, 2004, 118 Stat. 209; Pub. L. 110–293, title II, §202, July 30, 2008, 122 Stat. 2936; Pub. L. 113–56, §4, Dec. 2, 2013, 127 Stat. 649; Pub. L. 115–305, §3, Dec. 11, 2018, 132 Stat. 4402.)
 
 #### <b>Editorial Notes</b>
 
@@ -276,7 +276,7 @@ Subsec. (d)(4)(A)(ii). Pub. L. 115–305, §3(1)(A)(ii), substituted "2023" for 
 
 Subsec. (d)(4)(A)(vi). Pub. L. 115–305, §3(1)(A)(iii), struck out cl. (vi) which read as follows: "For the purposes of clause (i), 'funds contributed to the Global Fund from all sources' means funds contributed to the Global Fund at any time during fiscal years 2009 through 2018 that are not contributed to fulfill a commitment made for a fiscal year before fiscal year 2009."
 
-Subsec. (d)(4)(B)(ii). Pub. L. 115–305, §3(1)(B)(i)–(iii), redesignated cl. (iii) as (ii), inserted "or section 2151b–3 or 2151b–4 of this title" after "section 2151b–2 of this title", struck out "for HIV/AIDS assistance" after "section 7671 of this title", and struck out former cl. (ii) which read as follows: "Any amount made available that is withheld by reason of subparagraph (A)(iii) shall be transferred to the Activities to Combat HIV/AIDS Globally Fund and shall remain available under the same terms and conditions as funds appropriated to carry out section 2151b–2 of this title for HIV/AIDS assistance."
+Subsec. (d)(4)(B)(ii). Pub. L. 115–305, §3(1)(B)(i)–(iii), redesignated cl. (iii) as (ii), inserted "or section 2151b–3 or 2151b–4 of this title" after "section 2151b–2 of this title", struck out "for HIV/AIDS assistance" after "section 7671 of this title", and struck out former cl. (ii) which read as follows: "Any amount made available that is withheld by reason of subparagraph (A)(iii) shall be transferred to the Activities to Combat HIV/AIDS Globally Fund and shall remain available under the same terms and conditions as funds appropriated tocarry out section 2151b–2 of this title for HIV/AIDS assistance."
 
 Subsec. (d)(4)(B)(iii), (iv). Pub. L. 115–305, §3(1)(B)(ii), (iv), redesignated cl. (iv) as (iii) and substituted "2023" for "2018". Former cl. (iii) redesignated (ii).
 

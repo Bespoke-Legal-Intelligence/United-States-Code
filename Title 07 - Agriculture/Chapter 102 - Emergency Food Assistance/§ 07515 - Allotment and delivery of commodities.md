@@ -10,7 +10,7 @@ In each fiscal year, the Secretary shall allot—
 
 #### (b) Reallocation
 
-The Secretary shall notify each State of the amount of the additional commodities that such State is allotted to receive under subsection (a), and each State shall promptly notify the Secretary if such State determines that it will not accept any or all of the commodities made available under such allocation. On such a notification by a State, the Secretary shall reallocate and distribute the amount the State was allocated to receive under the formula prescribed in subsection (a) but declined to accept. The Secretary shall further establish procedures to permit States to decline to receive portions of such allocation during each fiscal year as the State determines is appropriate and the Secretary shall reallocate and distribute such allocation. In the event of any drought, flood, hurricane, or other natural disaster affecting substantial numbers of persons in a State, countyor parish, the Secretary may request that States unaffected by such a disaster consider assisting affected States by allowing the Secretary to reallocate commodities to which each such unaffected State is entitled to States containing areas adversely affected by the disaster.
+The Secretary shall notify each State of the amount of the additional commodities that such State is allotted to receive under subsection (a), and each State shall promptly notify the Secretary if such State determines that it will not accept any or all of the commodities made available under such allocation. On such a notification by a State, the Secretary shall reallocate and distribute the amount the State was allocated to receive under the formula prescribed in subsection (a) but declined to accept. The Secretary shall further establish procedures to permit States to decline to receive portions of such allocation during each fiscal year as the State determines is appropriate and the Secretary shall reallocate and distribute such allocation. In the event of any drought, flood, hurricane, or other natural disaster affecting substantial numbers of persons in a State, county or parish, the Secretary may request that States unaffected by such a disaster consider assisting affected States by allowing the Secretary to reallocate commodities to which each such unaffected State is entitled to States containing areas adversely affected by the disaster.
 
 #### (c) Administration
 
@@ -52,7 +52,7 @@ Pub. L. 104–127, §403(c)(2), substituted "2002" for "1995" in two places.
 
 Subsecs. (f) to (i). Pub. L. 104–193, §871(d)(2), redesignated subsecs. (f) to (i) as (a) to (d), respectively.
 
-Subsec. (j). Pub. L. 104–193, §871(d)(1), struck out subsec. (j) which authorized Secretary to promulgate new formula for allocation of additional commodities to States.
+Subsec. (j). Pub. L. 104–193, §871(d)(1), struck out subsec. (j) which authorized Secretary to promulgate newformula for allocation of additional commodities to States.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–624, §1772(g)(1), substituted "fiscal years 1991 through 1995" for "fiscal years 1989 and 1990".
 

@@ -36,7 +36,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (2) Determination of amount of non-Federal contribution
 
-&emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairlyevaluated, including equipment or services (and excluding indirect or overhead costs). Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
+&emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including equipment or services (and excluding indirect or overhead costs). Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 &emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of paragraph (1), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the applicant involved toward the purpose described in subsection (a) for the 2-year period preceding the fiscal year for which the applicant involved is applying to receive a grant under such subsection.
 
@@ -90,7 +90,7 @@ The Secretary may not make a grant under subsection (a) unless the applicant inv
 
 #### (6) Restrictions on use of grant
 
-&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involved agrees that the grant will not be expended to provide inpatient hospital services for any individual.
+&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involvedagrees that the grant will not be expended to provide inpatient hospital services for any individual.
 
 #### (7) Records and audits
 
@@ -102,7 +102,7 @@ The Secretary may not make a grant under subsection (a) unless the applicant inv
 
 #### (f) Reports to Secretary
 
-The Secretary may not make a grant under subsection (a) unless the applicant involvedagrees to submit to the Secretary such reports as the Secretary may require with respect to the grant.
+The Secretary may not make a grant under subsection (a) unless the applicant involved agrees to submit to the Secretary such reports as the Secretary may require with respect to the grant.
 
 #### (g) Description of intended uses of grant
 
@@ -160,7 +160,7 @@ The Social Security Act, referred to in subsec. (b)(2)(C), is act Aug. 14, 1935,
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–505, §602(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs—
+<b>2000</b>—Subsec. (a). Pub. L. 106–505, §602(a)(1), added subsec. (a) and struck out heading and text of formersubsec. (a). Text read as follows: "The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs—
 
 &emsp;"(1) to screen men for prostate cancer as a preventive health measure;
 

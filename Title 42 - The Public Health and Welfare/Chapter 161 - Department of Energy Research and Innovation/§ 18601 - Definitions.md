@@ -36,5 +36,5 @@ Pub. L. 115–246, title I, §101, Sept. 28, 2018, 132 Stat. 3131, provided that
 
 Pub. L. 115–246, title II, §201, Sept. 28, 2018, 132 Stat. 3134, provided that: "This title \[enacting subchapter II of this chapter and section 16358 of this title, amending sections 16357 and 16538 of this title, and repealing section 16358 of this title\] may be cited as the 'Department of Energy Research Coordination Act'."
 
-Pub. L. 115–246, title III, §301, Sept. 28, 2018, 132 Stat. 3140, provided that: "This title \[enacting subchapter III of this chapter and amending sections 2053, 7139, 16313, 16315, 16316, and 16321 of this title, sections 5541 and 5542 of Title 15, Commerce and Trade, and provisions set out as a note under section 5501 of Title 15\] may be cited as the 'Department of Energy Office of Science Policy Act'."
+Pub. L. 115–246, title III, §301, Sept. 28, 2018, 132 Stat. 3140, provided that: "This title \[enacting subchapter IIIof this chapter and amending sections 2053, 7139, 16313, 16315, 16316, and 16321 of this title, sections 5541 and 5542 of Title 15, Commerce and Trade, and provisions set out as a note under section 5501 of Title 15\] may be cited as the 'Department of Energy Office of Science Policy Act'."
 

@@ -26,7 +26,7 @@ Apportionment Among States.—Amounts appropriated and available for State purpo
 
 &emsp;(3) The total allocation to a State under paragraphs (1) and (2) shall not exceed 10 percent of the total amount allocated to all of the States in any one year.
 
-&emsp;(4) The Secretary shall notify each State of its apportionments. The amounts shall be available for payment to the State for planning, acquisition, or development projects as prescribed. Any amount of any apportionment that has not been paid or obligated by the Secretary during the fiscal year in which the notification is given and for 2 fiscal years thereafter shall be reapportioned by the Secretary in accordance with paragraph (2) without regard to the 10 percent limitation to an individual State specified in this subsection.
+&emsp;(4) The Secretary shall notify each State of its apportionments. The amounts shall be available for payment to the State for planning, acquisition, or development projects as prescribed. Any amount of any apportionment that has not been paid or obligated by the Secretary during the fiscal year in which the notification is given and for 2 fiscal years thereafter shall be reapportioned by the Secretaryin accordance with paragraph (2) without regard to the 10 percent limitation to an individual State specified in this subsection.
 
 (c)
 
@@ -94,7 +94,7 @@ Payments.—
 
 &emsp;(1)
 
-Criteria for making payments.—The Secretary may make a payment to a State only for a planning, acquisition, or development project that is approved by the Secretary. The Secretary shall not make a payment for or on account of any project with respect to which financial assistance has been given or promised under any other Federal program or activity, and no financial assistance shall be given under any other Federal program or activity for or on account of any project with respect to which the assistance has been given or promised under this chapter. The Secretary may make payments from time to time in keeping with the rate of progress toward the satisfactory completion of a project. The approval of all projects and all payments, or any commitments relating thereto, shall be withheld until the Secretary receives appropriate written assurance from the State that the State has the ability and intention to finance its share of the cost of all of the projects, and to operate and maintain by acceptable standards, at State expense, the properties or facilities acquired or developed for public outdoor recreation use.
+Criteria for making payments.—The Secretary may make a payment to a Stateonly for a planning, acquisition, or development project that is approved by the Secretary. The Secretary shall not make a payment for or on account of any project with respect to which financial assistance has been given or promised under any other Federal program or activity, and no financial assistance shall be given under any other Federal program or activity for or on account of any project with respect to which the assistance has been given or promised under this chapter. The Secretary may make payments from time to time in keeping with the rate of progress toward the satisfactory completion of a project. The approval of all projects and all payments, or any commitments relating thereto, shall be withheld until the Secretary receives appropriate written assurance from the State that the State has the ability and intention to finance its share of the cost of all of the projects, and to operate and maintain by acceptable standards, at State expense, the properties or facilities acquired or developed for public outdoor recreation use.
 
 &emsp;(2)
 
@@ -156,7 +156,7 @@ Availability and purpose of funds.—In addition to assistance for planning proj
 
 &emsp;(2)
 
-Eligibility.—In addition to the requirements for project approval imposed by this section, eligibility for assistance under this subsection shall depend on a showing of need. In providing funds under this subsection, the Secretary shall give priority to projects proposed for urban parks and recreation areas with the highest rates of crime and, in particular, to urban parks and recreation areas with the highest rates of sexual assault.
+Eligibility.—In addition to the requirements for project approval imposed by this section, eligibility for assistance under this subsection shall depend on a showing of need. In providing funds under this subsection, theSecretary shall give priority to projects proposed for urban parks and recreation areas with the highest rates of crime and, in particular, to urban parks and recreation areas with the highest rates of sexual assault.
 
 &emsp;(3)
 

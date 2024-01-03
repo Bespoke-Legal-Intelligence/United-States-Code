@@ -2,7 +2,7 @@
 
 #### (a) Renegotiation of 1974 agreement
 
-The arrangement initialed on July 5, 1974, with respect to the settlement of the claims of citizens and nationals of the United States against the Government of Czechoslovakia shall be renegotiated and shall be submitted to the Congress as part of any agreement entered into under this subchapter with Czechoslovakia.
+The arrangement initialed on July 5, 1974, with respect to the settlement of the claims of citizens and nationals of the United States against the Government of Czechoslovakia shallbe renegotiated and shall be submitted to the Congress as part of any agreement entered into under this subchapter with Czechoslovakia.
 
 #### (b) Provisional retention of gold
 

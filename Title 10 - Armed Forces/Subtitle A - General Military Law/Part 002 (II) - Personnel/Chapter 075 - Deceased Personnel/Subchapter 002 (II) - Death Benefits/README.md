@@ -30,7 +30,7 @@
 
 <b>2021</b>—Pub. L. 116–283, div. A, title XI, §1104(a)(2), Jan. 1, 2021, 134 Stat. 3890, added item 1492.
 
-<b>2001</b>—Pub. L. 107–107, div. A, title X, §1048(a)(14), Dec. 28, 2001, 115 Stat. 1223, transferred subchapter II headingso as to appear before the table of sections for that subchapter.
+<b>2001</b>—Pub. L. 107–107, div. A, title X, §1048(a)(14), Dec. 28, 2001, 115 Stat. 1223, transferred subchapter II heading so as to appear before the table of sections for that subchapter.
 
 <b>1999</b>—Pub. L. 106–65, div. A, title VII, §721(c)(1), Oct. 5, 1999, 113 Stat. 694, inserted "SUBCHAPTER II—DEATH BENEFITS" before section 1475 of this title.
 

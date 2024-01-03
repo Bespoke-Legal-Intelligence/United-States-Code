@@ -34,7 +34,7 @@ There shall be in the Department a Deputy Secretary, who shall be appointed by t
 
 #### (c) Under Secretary for Nuclear Security
 
-(1) There shall be in the Department an Under Secretary for Nuclear Security, who shall be appointed by the President, by and with the adviceand consent of the Senate. The Under Secretary shall be compensated at the rate provided for at level III of the Executive Schedule under section 5314 of title 5.
+(1) There shall be in the Department an Under Secretary for Nuclear Security, who shall be appointed by the President, by and with the advice and consent of the Senate. The Under Secretary shall be compensated at the rate provided for at level III of the Executive Schedule under section 5314 of title 5.
 
 (2) The Under Secretary for Nuclear Security shall be appointed from among persons who—
 

@@ -92,7 +92,7 @@ Eligible entities.—For purposes of the pilot program, an eligible entity is—
 
 &emsp;"(3)
 
-Locations.—The Secretary shall ensure that at least one grant is awarded under paragraph (1)(A) toat least one eligible entity in each State, if the Secretary determines that there is such an entity in a State that has applied for, and meets requirements for the award of, such a grant.
+Locations.—The Secretary shall ensure that at least one grant is awarded under paragraph (1)(A) to at least one eligible entity in each State, if the Secretary determines that there is such an entity in a State that has applied for, and meets requirements for the award of, such a grant.
 
 &emsp;"(4)
 
@@ -130,7 +130,7 @@ In general.—The Secretary of Veterans Affairs shall, in consultation with the 
 
 &emsp;"(2)
 
-Recommendations.—In conducting the review required by paragraph (1), the Secretary shall develop recommendations for such legislative or administrative action as the Secretary considers appropriate to facilitate greater participation by Federal employees in pro bono legal and other volunteer services for veterans.
+Recommendations.—In conducting the review required by paragraph (1), the Secretary shall develop recommendations for such legislative or administrative action as the Secretary considers appropriate tofacilitate greater participation by Federal employees in pro bono legal and other volunteer services for veterans.
 
 &emsp;"(3)
 

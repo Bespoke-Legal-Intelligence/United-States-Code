@@ -28,7 +28,7 @@ Clause (2) of former section 22a is omitted because of the repeal of R.S. §3683
 
 The word "agency" is substituted for "department" and defined to conform to the definition of "department" in section 18 of the Act of Aug. 2, 1946, ch. 744, 60 Stat. 811.
 
-In subsection (b), the words "In addition to the authority to delegate conferred by other law," are added for clarity and in recognition of the various reorganization plans which generally have transferred all functions of the departments and agencies to the heads thereof and have authorized them to delegate the functions to subordinates.
+In subsection (b), the words "In addition to the authority to delegate conferred by other law," are addedfor clarity and in recognition of the various reorganization plans which generally have transferred all functions of the departments and agencies to the heads thereof and have authorized them to delegate the functions to subordinates.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Provision of Continued Health Coverage.—The Secretary of Defense shall implement and carry out a program of continued health benefits coverage in accordance with this section to provide persons described in subsection (b) with temporary health benefits comparable to the health benefits provided for former civilian employees of the Federal Government and other persons under section 8905a of title 5.
+Provision of Continued Health Coverage.—The Secretary of Defense shall implement and carry out a program of continued health benefits coverage in accordance with this section to provide persons described in subsection (b) with temporary health benefits comparable to the health benefits provided forformer civilian employees of the Federal Government and other persons under section 8905a of title 5.
 
 (b)
 
@@ -74,7 +74,7 @@ Election of Coverage.—In order to obtain continued coverage under this section
 
 &emsp;&emsp;(B) the date the member receives the notification required pursuant to subsection (c).
 
-&emsp;(3)(A) In the case of a dependent of a member or former member who becomes eligible for continued coverage under subsection (b)(3), the written election shall be submitted to the Secretary concerned before the end of the 60-day period beginning on the later of—
+&emsp;(3)(A) In the case of a dependent of a member or former member who becomes eligible forcontinued coverage under subsection (b)(3), the written election shall be submitted to the Secretary concerned before the end of the 60-day period beginning on the later of—
 
 &emsp;&emsp;(i) the date on which the dependent first ceases to meet the requirements for being considered a dependent under subparagraph (D) or (I) of section 1072(2) of this title; or
 
@@ -120,7 +120,7 @@ Period of Continued Coverage.—(1) Continued coverage under this section may no
 
 &emsp;&emsp;(ii) if applicable, the date the one-year extension of dependency under section 1072(2)(H) of this title expires; and
 
-&emsp;(E) in the case of a person described in subsection (b)(5), the date that is 36 months afterthe date on which the person loses entitlement to health care services as described in that subsection.
+&emsp;(E) in the case of a person described in subsection (b)(5), the date that is 36 months after the date on which the person loses entitlement to health care services as described in that subsection.
 
 (2) Notwithstanding paragraph (1)(C), if a dependent of a member becomes eligible for continued coverage under subsection (b)(3) during a period of continued coverage of the member for self and dependents under this section, extended coverage of the dependent under this section may not extend beyond the date which is 36 months after the date the member became ineligible for medical and dental care under section 1074(a) of this title and any transitional health care under section 1145(a) of this title.
 

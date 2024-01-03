@@ -6,7 +6,7 @@
 
 (c) The Secretary may at any time recall to active status a member who is on an inactive status list under subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 104, §1335; renumbered §12735 and amended Pub. L. 103–337,div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3003.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 104, §1335; renumbered §12735 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3003.)
 
 Historical and Revision Notes
 

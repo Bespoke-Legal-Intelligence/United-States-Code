@@ -96,7 +96,7 @@ National Military Strategy.—
 
 National military strategy.—(A) The Chairman shall determine each even-numbered year whether to prepare a new National Military Strategy in accordance with this paragraph or to update a strategy previously prepared in accordance with this paragraph. The Chairman shall provide such National Military Strategy or update to the Secretary of Defense in time for transmittal to Congress pursuant to paragraph (3), including in time for inclusion in the report of the Secretary of Defense, if any, under paragraph (4).
 
-&emsp;(B) Each National Military Strategy (or update) under this paragraph shall be based on a comprehensive review conducted by the Chairman in conjunction with the other members of the Joint Chiefs of Staff and the commandersof the unified and specified combatant commands. Each update shall address only those parts of the most recent National Military Strategy for which the Chairman determines, on the basis of the review, that a modification is needed.
+&emsp;(B) Each National Military Strategy (or update) under this paragraph shall be based on a comprehensive review conducted by the Chairman in conjunction with the other members of the Joint Chiefs of Staff and the commanders of the unified and specified combatant commands. Each update shall address only those parts of the most recent National Military Strategy for which the Chairman determines, on the basis of the review, that a modification is needed.
 
 &emsp;(C) Each National Military Strategy (or update) submitted under this paragraph shall describe how the military will support the objectives of the United States as articulated in—
 
@@ -136,7 +136,7 @@ Risk assessment.—(A) The Chairman shall prepare each year an assessment of the
 
 &emsp;&emsp;(iii) Identify and define levels of risk, including an identification of what constitutes "significant" risk in the judgment of the Chairman.
 
-&emsp;&emsp;(iv)(I) Identify and assess risk in the National Military Strategy (or update) by category and level and the ways in which risk might manifest itself, including how risk is projected to increase, decrease, or remain stable over time; and
+&emsp;&emsp;(iv)(I) Identify and assess risk in the National Military Strategy (or update) by category and level and the ways in which riskmight manifest itself, including how risk is projected to increase, decrease, or remain stable over time; and
 
 &emsp;&emsp;(II) for each category of risk, assess the extent to which current or future risk increases, decreases, or is stable as a result of budgetary priorities, tradeoffs, or fiscal constraints or limitations as currently estimated and applied in the current future-years defense program under section 221 of this title.
 
@@ -158,7 +158,7 @@ Submittal of national military strategy and risk assessment to congress.—(A) N
 
 Secretary of defense reports to congress.—(A) In transmitting a National Military Strategy (or update) or Risk Assessment to Congress pursuant to paragraph (3), the Secretary of Defense shall include in the transmittal such comments of the Secretary thereon, if any, as the Secretary considers appropriate.
 
-&emsp;(B) If the Risk Assessment transmitted under paragraph (3) in a year includes an assessment that a risk or risks associated with the National Military Strategy (or update) aresignificant, or that critical deficiencies in force capabilities exist for a contingency plan described in paragraph (2)(B)(vi), the Secretary shall include in the transmittal of the Risk Assessment the plan of the Secretary for mitigating such risk or deficiency. A plan for mitigating risk of deficiency under this subparagraph shall—
+&emsp;(B) If the Risk Assessment transmitted under paragraph (3) in a year includes an assessment that a risk or risks associated with the National Military Strategy (or update) are significant, or that critical deficiencies in force capabilities exist for a contingency plan described in paragraph (2)(B)(vi), the Secretary shall include in the transmittal of the Risk Assessment the plan of the Secretary for mitigating such risk or deficiency. A plan for mitigating risk of deficiency under this subparagraph shall—
 
 &emsp;&emsp;(i) address the risk assumed in the National Military Strategy (or update) concerned, and the additional actions taken or planned to be taken to address such risk using only current technology and force structure capabilities; and
 
@@ -178,11 +178,25 @@ Annual Report on Combatant Command Requirements.—(1) Not later than 25 days af
 
 &emsp;(D) A description of the funding proposed in the President's budget for the next fiscal year, and for the subsequent fiscal years covered by the most recent future-years defense program, to address each deficiency in readiness identified during the joint readiness review conducted under section 117 of this title for the first quarter of the current fiscal year.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, §921(b), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title X, §1062(a)(1), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–136, div. A, title IX, §903, title X, §1043(b)(2), Nov. 24, 2003, 117 Stat. 1558, 1610; Pub. L. 112–81, div. A, title VIII, §820(b), title IX, §941, Dec. 31, 2011, 125 Stat. 1501, 1548; Pub. L. 112–239, div. A, title VIII, §845(b), title IX, §§951(a), 952, Jan. 2, 2013, 126 Stat. 1848, 1891, 1892; Pub. L. 113–66, div. A, title IX, §905, Dec. 26, 2013, 127 Stat. 817; Pub. L. 113–291, div. A, title X, §1071(c)(2), (g)(3), Dec. 19, 2014, 128 Stat. 3508, 3511; Pub. L. 114–92, div. A, title IX, §901, title X, §1081(a)(3), Nov. 25, 2015, 129 Stat. 956, 1000; Pub. L. 114–328, div. A, title IX, §§921(c), 943, title X, §1064(c), Dec. 23, 2016, 130 Stat. 2351, 2369, 2409; Pub. L. 115–91, div. A, title X, §1081(a)(8), (d)(10), Dec. 12, 2017, 131 Stat. 1594, 1600; Pub. L. 115–232, div. A, title IX, §§912, 913, Aug. 13, 2018, 132 Stat. 1923; Pub. L. 117–81, div. A, title III, §311(c), Dec. 27, 2021, 135 Stat. 1626.)
+(d)
+
+Briefing Requirement.—(1) Not later than 15 days after the submission of the risk assessment required under subsection (b)(2) or March 1 of each even-numbered year, whichever is earlier, the Chairman shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the activities of the Chairman under this section.
+
+(2) The briefing required under paragraph (1) shall include—
+
+&emsp;(A) a detailed review of the risk assessment required under paragraph (2) of subsection (b), including how such risk assessment addresses the elements required in subparagraph (B) of such paragraph;
+
+&emsp;(B) an analysis of how the risk assessment informs and supports other Joint Staff assessments, including joint capability development assessments, joint force development assessments, comprehensive joint readiness assessments, and global military integration assessments; and
+
+&emsp;(C) if the risk assessment is not delivered at or before the time of the briefing, a timeline for when the risk assessment will be submitted to the Committees on Armed Services of the Senate and the House of Representatives.
+
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, §921(b), Dec. 28, 2001, 115 Stat. 1198; Pub.L. 107–314, div. A, title X, §1062(a)(1), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–136, div. A, title IX, §903, title X, §1043(b)(2), Nov. 24, 2003, 117 Stat. 1558, 1610; Pub. L. 112–81, div. A, title VIII, §820(b), title IX, §941, Dec. 31, 2011, 125 Stat. 1501, 1548; Pub. L. 112–239, div. A, title VIII, §845(b), title IX, §§951(a), 952, Jan. 2, 2013, 126 Stat. 1848, 1891, 1892; Pub. L. 113–66, div. A, title IX, §905, Dec. 26, 2013, 127 Stat. 817; Pub. L. 113–291, div. A, title X, §1071(c)(2), (g)(3), Dec. 19, 2014, 128 Stat. 3508, 3511; Pub. L. 114–92, div. A, title IX, §901, title X, §1081(a)(3), Nov. 25, 2015, 129 Stat. 956, 1000; Pub. L. 114–328, div. A, title IX, §§921(c), 943, title X, §1064(c), Dec. 23, 2016, 130 Stat. 2351, 2369, 2409; Pub. L. 115–91, div. A, title X, §1081(a)(8), (d)(10), Dec. 12, 2017, 131 Stat. 1594, 1600; Pub. L. 115–232, div. A, title IX, §§912, 913, Aug. 13, 2018, 132 Stat. 1923; Pub. L. 117–81, div. A, title III, §311(c), Dec. 27, 2021, 135 Stat. 1626; Pub. L. 118–31, div. A, title X, §1041(c), Dec. 22, 2023, 137 Stat. 388.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d). Pub. L. 118–31 added subsec. (d).
 
 <b>2021</b>—Subsec. (b)(2)(B)(vii). Pub. L. 117–81 added cl. (vii).
 

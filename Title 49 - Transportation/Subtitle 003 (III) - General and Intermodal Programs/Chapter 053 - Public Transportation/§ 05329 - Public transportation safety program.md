@@ -192,7 +192,7 @@ Definition.—In this subsection, the term "eligible State" means a State that h
 
 &emsp;(3)
 
-In general.—In order to obligate funds apportioned under section 5338 to carry out this chapter, effective 3 years after the date on which a final rule under this subsection becomes effective, an eligible State shall have in effect a State safety oversight program approved by the Secretary under which the State—
+In general.—In order to obligate funds apportioned under section 5338 to carry out this chapter, effective 3 years after the date on which a final rule under this subsection becomes effective, an eligible State shall have ineffect a State safety oversight program approved by the Secretary under which the State—
 
 &emsp;&emsp;(A) assumes responsibility for overseeing rail fixed guideway public transportation safety;
 
@@ -452,7 +452,7 @@ Notice.—The notice of restriction or prohibition shall describe the condition 
 
 &emsp;(3)
 
-Continued authority.—Nothing in this subsection shall be construed as limiting the Secretary's authority to maintain a restriction or prohibition for as long as is necessary to ensure that the risk has been substantially addressed.
+Continued authority.—Nothing in this subsection shall be construed as limiting theSecretary's authority to maintain a restriction or prohibition for as long as is necessary to ensure that the risk has been substantially addressed.
 
 (i)
 
@@ -532,7 +532,7 @@ Special directive.—The Secretary shall issue a special directive to each State
 
 Enforcement.—The Secretary may use any authority under this section, including any enforcement action authorized under subsection (g), to ensure the compliance of a State safety oversight agency or State safety oversight program with this subsection.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 830; Pub. L. 109–59, title III, §3028(a), Aug. 10, 2005, 119 Stat. 1624; Pub. L. 112–141, div. B, §20021(a), July 6, 2012, 126 Stat. 709; Pub. L. 114–94, div. A, titleIII, §3013, Dec. 4, 2015, 129 Stat. 1476; Pub. L. 117–58, div. C, §30012(a), Nov. 15, 2021, 135 Stat. 904.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 830; Pub. L. 109–59, title III, §3028(a), Aug. 10, 2005, 119 Stat. 1624; Pub. L. 112–141, div. B, §20021(a), July 6, 2012, 126 Stat. 709; Pub. L. 114–94, div. A, title III, §3013, Dec. 4, 2015, 129 Stat. 1476; Pub. L. 117–58, div. C, §30012(a), Nov. 15, 2021, 135 Stat. 904.)
 
 #### Applicability of Amendment
 

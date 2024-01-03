@@ -8,7 +8,7 @@
 
 (d) If an agreement made under subsection (a) expires during a war or during a national emergency declared by Congress or the President after January 1, 1953, the Reserve concerned may be kept on active duty, without his consent, as otherwise prescribed by law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 30, §679; Pub. L. 96–513, title V, §511(19), Dec. 12, 1980, 94 Stat.2921; renumbered §12311, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 30, §679; Pub. L. 96–513, title V, §511(19), Dec. 12, 1980, 94 Stat. 2921; renumbered §12311, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 

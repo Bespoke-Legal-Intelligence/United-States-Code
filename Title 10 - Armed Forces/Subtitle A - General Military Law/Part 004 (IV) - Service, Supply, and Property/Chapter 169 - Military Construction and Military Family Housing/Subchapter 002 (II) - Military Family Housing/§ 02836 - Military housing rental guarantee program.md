@@ -68,7 +68,7 @@ Disputes.—The Secretary concerned may require that disputes arising under an a
 
 #### References in Text
 
-Chapter 137 of this title, referred to in subsec. (e), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+Chapter 137 of this title, referred to in subsec. (e), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of "chapter 137 legacy provisions", see section 3016 of this title.
 
 #### Prior Provisions
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date
 
-Pub. L. 102–190, div. B, title XXVII, §2809(c), Dec. 5. 1991, 105 Stat. 1543, provided that: "Section 2836 of title 10, United States Code, as added by subsection (a), shallapply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b) \[repealing provisions set out as a note under section 2821 of this title\] shall not affect the validity of any contract entered into before that date under section 802 of the Military Construction Authorization Act, 1984 (10 U.S.C. 2821 note), as in effect on the day before that date."
+Pub. L. 102–190, div. B, title XXVII, §2809(c), Dec. 5. 1991, 105 Stat. 1543, provided that: "Section 2836 of title10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b) \[repealing provisions set out as a note under section 2821 of this title\] shall not affect the validity of any contract entered into before that date under section 802 of the Military Construction Authorization Act, 1984 (10 U.S.C. 2821 note), as in effect on the day before that date."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

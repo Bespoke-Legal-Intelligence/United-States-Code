@@ -18,7 +18,7 @@ Authority of secretary of treasury over certain audits and investigations.—Not
 
 &emsp;&emsp;(E) intelligence or counterintelligence matters; or
 
-&emsp;&emsp;(F) other matters the disclosure of which would constitute a serious threat to nationalsecurity or to the protection of any person or property authorized protection by section 3056 of title 18, section 3056A of title 18, or any provision of the Presidential Protection Assistance Act of 1976 (Public Law 94–524, 18 U.S.C. 3056 note).
+&emsp;&emsp;(F) other matters the disclosure of which would constitute a serious threat to national security or to the protection of any person or property authorized protection by section 3056 of title 18, section 3056A of title 18, or any provision of the Presidential Protection Assistance Act of 1976 (Public Law 94–524, 18 U.S.C. 3056 note).
 
 &emsp;(2)
 
@@ -66,7 +66,7 @@ Treasury Inspector General for Tax Administration.—
 
 &emsp;(1)
 
-Access to returns and return information.—The Treasury Inspector General for Tax Administration shall have access to returns and return information, as defined in section 6103(b) of the Internal Revenue Code of 1986 (26 U.S.C. 6103(b)), only in accordance with the provisions of section 6103 of the Internal Revenue Code of 1986 (26 U.S.C. 6103) and this chapter.
+Access to returns and return information.—The Treasury Inspector General for Tax Administration shall have access to returns and return information, as defined in section6103(b) of the Internal Revenue Code of 1986 (26 U.S.C. 6103(b)), only in accordance with the provisions of section 6103 of the Internal Revenue Code of 1986 (26 U.S.C. 6103) and this chapter.
 
 &emsp;(2)
 
@@ -152,7 +152,7 @@ Request for Audit or Investigation Relating to Internal Revenue Service.—
 
 &emsp;(1)
 
-In general.—The Commissioner of Internal Revenue or the Internal Revenue Service Oversight Board may request, in writing, theTreasury Inspector General for Tax Administration to conduct an audit or investigation relating to the Internal Revenue Service. If the Treasury Inspector General for Tax Administration determines not to conduct such audit or investigation, the Inspector General shall timely provide a written explanation for such determination to the person making the request.
+In general.—The Commissioner of Internal Revenue or the Internal Revenue Service Oversight Board may request, in writing, the Treasury Inspector General for Tax Administration to conduct an audit or investigation relating to the Internal Revenue Service. If the Treasury Inspector General for Tax Administration determines not to conduct such audit or investigation, the Inspector General shall timely provide a written explanation for such determination to the person making the request.
 
 &emsp;(2)
 
@@ -210,7 +210,7 @@ Pub. L. 95–452, §8D, formerly §8C, as added Pub. L. 100–504, title I, §10
 
 In subsection (a)(3) and subsection (g)(1), the words "\[Committee\] on Homeland Security and Governmental Affairs \[of the Senate\]" are substituted for "\[Committee\] on Governmental Affairs of the Senate" on authority of Senate Resolution No. 445, 108th Congress, October 9, 2004 (effective January 4, 2005).
 
-In subsection (a)(3), the words "Committee on Oversight and Reform \[of the House of Representatives\]" are substituted for "\[Committee on\] Government Operations \[of the House of Representatives\]" on authority of section 1(a) of Public Law 104–14 (2 U.S.C. note prec. 21), House Resolution No. 5 (106th Congress, January 6, 1999), House Resolution No. 6 (110th Congress, January 5, 2007), and rule X(1)(n) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (116th Congress, January 9, 2019).
+In subsection (a)(3), the words "Committee on Oversight and Reform \[of the House of Representatives\]"are substituted for "\[Committee on\] Government Operations \[of the House of Representatives\]" on authority of section 1(a) of Public Law 104–14 (2 U.S.C. note prec. 21), House Resolution No. 5 (106th Congress, January 6, 1999), House Resolution No. 6 (110th Congress, January 5, 2007), and rule X(1)(n) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (116th Congress, January 9, 2019).
 
 In subsection (g)(1), the words "Committee on Oversight and Reform" are substituted for "\[Committee on\] Government Reform and Oversight" on authority of rule X(1)(n) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (116th Congress, January 9, 2019).
 
@@ -219,4 +219,10 @@ In subsection (g)(1), the words "Committee on Oversight and Reform" are substitu
 #### References in Text
 
 The Presidential Protection Assistance Act of 1976, referred to in subsec. (a)(1)(F), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 

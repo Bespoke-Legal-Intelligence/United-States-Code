@@ -142,7 +142,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) objectives and evaluation criteria of the solicitations are clearly stated and minimally prescriptive, with no areas of special interest;
 
-&emsp;&emsp;&emsp;(iv) the points of contact are funding proposals under this chapter that are selected on the basis of merit, as determinedby an independent panel of scientific and technical peers predominantly from outside the Departments of Agriculture and Energy; and
+&emsp;&emsp;&emsp;(iv) the points of contact are funding proposals under this chapter that are selected on the basis of merit, as determined by an independent panel of scientific and technical peers predominantly from outside the Departments of Agriculture and Energy; and
 
 &emsp;&emsp;&emsp;(v) activities under this chapter are carried out in accordance with this chapter.
 
@@ -172,7 +172,7 @@ In this section:
 
 &emsp;The objectives of the Initiative are to develop—
 
-&emsp;&emsp;(A) technologies and processes necessary for abundant commercial production of biofuels at prices competitive with fossil fuels;
+&emsp;&emsp;(A) technologies and processes necessary for abundant commercial production ofbiofuels at prices competitive with fossil fuels;
 
 &emsp;&emsp;(B) high-value biobased products—
 
@@ -334,7 +334,7 @@ For each fiscal year for which funds are made available to carry out this sectio
 
 &emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 107–171, title IX, §9008, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1318, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2079; amended Pub. L. 112–240, title VII, §701(f)(7), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9008, Feb. 7,2014, 128 Stat. 931; Pub. L. 115–334, title VII, §7507, Dec. 20, 2018, 132 Stat. 4823.)
+(Pub. L. 107–171, title IX, §9008, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1318, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2079; amended Pub. L. 112–240, title VII, §701(f)(7), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9008, Feb. 7, 2014, 128 Stat. 931; Pub. L. 115–334, title VII, §7507, Dec. 20, 2018, 132 Stat. 4823.)
 
 #### <b>Editorial Notes</b>
 
@@ -374,7 +374,7 @@ Subsec. (h)(2). Pub. L. 113–79, §9008(2), substituted "$20,000,000 for each o
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-YearExtension of Agricultural Programs note under section 8701 of this title.
 
 #### Effective Date
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) in one or more public, or nonprofit private, elementary schools or secondary schools or locations operated by an educational service agency that have been determined by the Secretary (pursuant to regulations of the Secretary and after consultation with the State educational agency of the State in which the educational service agency operates) to be a school or location at which the number of children taught who meet a measure of poverty under section 1113(a)(5) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6313(a)(5)\], exceeds 30 percent of the total number of children taught at such school or location;
 
-&emsp;(B) as a full-time staff member in a preschool program carried on under the Head Start Act \[42 U.S.C. 9831 et seq.\], or in a prekindergarten or child care program that is licensed or regulated by the State, that is operated for a period which is comparable to a full school year in the locality if the salary of such staff member is not more than the salary of acomparable employee of the local educational agency;
+&emsp;(B) as a full-time staff member in a preschool program carried on under the Head Start Act \[42 U.S.C. 9831 et seq.\], or in a prekindergarten or child care program that is licensed or regulated by the State, that is operated for a period which is comparable to a full school year in the locality if the salary of such staff member is not more than the salary of a comparable employee of the local educational agency;
 
 &emsp;(C) as a full-time special education teacher, including teachers of infants, toddlers, children, or youth with disabilities in a public or other nonprofit elementary or secondary school system, including a system administered by an educational service agency, or as a full-time qualified professional provider of early intervention services in a public or other nonprofit program under public supervision by the lead agency as authorized in section 1435(a)(10) of this title;
 
@@ -30,7 +30,7 @@
 
 &emsp;(H) as a full-time nurse or medical technician providing health care services;
 
-&emsp;(I) as a full-time employee of a public or private nonprofit child or family service agency who is providing, or supervising the provision of, services to high-risk children who are from low-income communities and the families of such children;
+&emsp;(I) as a full-time employee of a public or private nonprofit child or family service agency who is providing, or supervising the provisionof, services to high-risk children who are from low-income communities and the families of such children;
 
 &emsp;(J) as a full-time fire fighter for service to a local, State, or Federal fire department or fire district;
 
@@ -74,7 +74,7 @@ The Secretary shall pay to each institution for each fiscal year an amount equal
 
 #### (1) List
 
-&emsp;If the list of schools in which a teacher may perform service pursuant to subsection\(a)(2)(A) is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
+&emsp;If the list of schools in which a teacher may perform service pursuant to subsection (a)(2)(A) is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
 
 #### (2) Continuing eligibility
 
@@ -86,7 +86,7 @@ The Secretary shall pay to each institution for each fiscal year an amount equal
 
 > &emsp;may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) such <sup>2</sup> subsequent years.
 
-(Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 108–446, title III, §305(c)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IV, §465, Aug. 14, 2008, 122 Stat. 3267; Pub. L. 111–39, title IV, §405(5), July 1, 2009, 123 Stat. 1947; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160.)
+(Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 108–446, title III, §305(c)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IV, §465, Aug. 14, 2008, 122 Stat. 3267; Pub. L. 111–39, title IV, §405(5), July 1, 2009, 123 Stat. 1947; Pub. L.114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160.)
 
 #### <b>Editorial Notes</b>
 

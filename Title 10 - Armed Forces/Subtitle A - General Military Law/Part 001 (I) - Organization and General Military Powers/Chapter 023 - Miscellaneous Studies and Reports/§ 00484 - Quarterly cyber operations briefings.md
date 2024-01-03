@@ -52,7 +52,7 @@ A prior section 484, added Pub. L. 105–85, div. A, title III, §324(a)(1), Nov
 
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–92, div. A, title XVI, §1634(d), Dec. 20, 2019, 133 Stat. 1748, provided that: "The amendments madeby subsection (a) \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 20, 2019\]."
+Pub. L. 116–92, div. A, title XVI, §1634(d), Dec. 20, 2019, 133 Stat. 1748, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 20, 2019\]."
 
 #### Effective Date of 2017 Amendment
 

@@ -14,7 +14,7 @@ Program Requirement.—(1) The Administrator shall establish and carry out a pro
 
 (3) In carrying out the program established under this subsection, the Administrator shall review and consider the annual reports the Secretary of Transportation submits to Congress on transportation security and intelligence.
 
-(4)(A) In carrying out the program established under this subsection, the Administrator shalldesignate an individual to be responsible for engineering, research, and development with respect to security technology under the program.
+(4)(A) In carrying out the program established under this subsection, the Administrator shall designate an individual to be responsible for engineering, research, and development with respect to security technology under the program.
 
 (B) The individual designated under subparagraph (A) shall use appropriate systems engineering and risk management models in making decisions regarding the allocation of funds for engineering, research, and development with respect to security technology under the program.
 

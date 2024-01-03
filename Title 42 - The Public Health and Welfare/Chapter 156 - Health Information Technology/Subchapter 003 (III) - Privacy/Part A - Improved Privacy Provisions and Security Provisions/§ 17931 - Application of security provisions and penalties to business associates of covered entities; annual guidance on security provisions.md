@@ -2,7 +2,7 @@
 
 #### (a) Application of security provisions
 
-Sections 164.308, 164.310, 164.312, and 164.316 of title 45, Code of Federal Regulations, shall apply to a business associate of a covered entity in the same manner that such sections apply to the covered entity. The additional requirements of this title <sup>1</sup> that relate to security and that are made applicable with respect to covered entities shall also be applicable to such a business associate and shall be incorporated into the business associate agreement between the business associate and the covered entity.
+Sections 164.308, 164.310, 164.312, and 164.316 of title 45, Code of Federal Regulations, shall apply to a business associate of a covered entity in the same manner that such sections apply to the covered entity. The additional requirements of this title <sup>1</sup> that relate to security and that are made applicable with respect to covered entitiesshall also be applicable to such a business associate and shall be incorporated into the business associate agreement between the business associate and the covered entity.
 
 #### (b) Application of civil and criminal penalties
 

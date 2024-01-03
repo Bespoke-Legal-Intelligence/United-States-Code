@@ -116,7 +116,7 @@ For purposes of subsection (b)—
 
 #### (D) Secretary may extend period
 
-&emsp;&emsp;To the extent provided in regulations prescribed by the Secretary, subparagraph (B) shall be applied by substituting the 15-year period beginning 5 years before the loss of United States citizenship for the 10-year period referred to therein. In the case of any exchange occurring during such 5 years, any gain recognized under this subparagraphshall be recognized immediately after such loss of citizenship.
+&emsp;&emsp;To the extent provided in regulations prescribed by the Secretary, subparagraph (B) shall be applied by substituting the 15-year period beginning 5 years before the loss of United States citizenship for the 10-year period referred to therein. In the case of any exchange occurring during such 5 years, any gain recognized under this subparagraph shall be recognized immediately after such loss of citizenship.
 
 #### (E) Secretary may require recognition of gain in certain cases
 
@@ -192,7 +192,7 @@ For purposes of subsection (b)—
 
 #### (B) Step-up in basis
 
-&emsp;&emsp;Solely for purposes of determining any tax imposed by reason of this subsection, property which was held by the long-term resident on the date the individual first becamea resident of the United States shall be treated as having a basis on such date of not less than the fair market value of such property on such date. The preceding sentence shall not apply if the individual elects not to have such sentence apply. Such an election, once made, shall be irrevocable.
+&emsp;&emsp;Solely for purposes of determining any tax imposed by reason of this subsection, property which was held by the long-term resident on the date the individual first became a resident of the United States shall be treated as having a basis on such date of not less than the fair market value of such property on such date. The preceding sentence shall not apply if the individual elects not to have such sentence apply. Such an election, once made, shall be irrevocable.
 
 #### (4) Authority to exempt individuals
 
@@ -244,7 +244,7 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 #### (h) Termination
 
-This section shall not apply to any individual whose expatriation date (as defined in section 877A(g)(3)) is on or after the date of the enactment of this subsection.
+This section shall not apply to any individual whose expatriation date (as defined in section877A(g)(3)) is on or after the date of the enactment of this subsection.
 
 (Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c), Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 110–245, title III, §301(c)(2)(A), (d), June 17, 2008, 122 Stat. 1646; Pub. L. 113–295, div. A, title II, §213(c)(2), Dec. 19, 2014, 128 Stat. 4034; Pub. L. 115–141, div. U, title IV, §401(a)(153), Mar. 23, 2018, 132 Stat. 1191.)
 
@@ -364,7 +364,7 @@ Amendment by Pub. L. 110–245 applicable to any individual whose expatriation d
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -430,7 +430,7 @@ Section applicable with respect to taxable years beginning after Dec. 31, 1966, 
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 

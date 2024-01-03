@@ -34,7 +34,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;For purposes of determining whether an employee who is a flight attendant or flight crewmember (as such terms are defined in regulations of the Federal Aviation Administration) meets the hours of service requirement specified in subparagraph (A)(ii), the employee will be considered to meet the requirement if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the employee has worked or been paid for not less than 60 percent of the applicable total monthly guarantee, or the equivalent, for the previous 12-month period, for or by the employer with respect to whom leave is requested under section 2612 of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) the employee has worked or been paid for not less than 60 percent of the applicable total monthly guarantee, or the equivalent, for the previous 12-monthperiod, for or by the employer with respect to whom leave is requested under section 2612 of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the employee has worked or been paid for not less than 504 hours (not counting personal commute time or time spent on vacation leave or medical or sick leave) during the previous 12-month period, for or by that employer.
 
@@ -66,7 +66,7 @@ As used in this subchapter:
 
 &emsp;&emsp;The term "employer"—
 
-&emsp;&emsp;&emsp;(i) means any person engaged in commerce or in any industry or activity affecting commerce who employs 50 or moreemployees for each working day during each of 20 or more calendar workweeks in the current or preceding calendar year;
+&emsp;&emsp;&emsp;(i) means any person engaged in commerce or in any industry or activity affecting commerce who employs 50 or more employees for each working day during each of 20 or more calendar workweeks in the current or preceding calendar year;
 
 &emsp;&emsp;&emsp;(ii) includes—
 
@@ -134,7 +134,7 @@ As used in this subchapter:
 
 &emsp;The term "covered active duty" means—
 
-&emsp;&emsp;(A) in the case of a member of a regular component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country; and
+&emsp;&emsp;(A) in the case of a member of a regular component of the Armed Forces, duty duringthe deployment of the member with the Armed Forces to a foreign country; and
 
 &emsp;&emsp;(B) in the case of a member of a reserve component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10.
 
@@ -210,7 +210,7 @@ Pub. L. 116–92, div. F, title LXXVI, §7604(c), Dec. 20, 2019, 133 Stat. 2308,
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(f)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
+Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section1371 of Title 2, The Congress, see section 1312(f)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
 
 #### Effective Date
 
@@ -219,4 +219,28 @@ Section effective 6 months after Feb. 5, 1993, except that, in the case of colle
 #### Regulations
 
 Pub. L. 111–84, div. A, title V, §565(a)(5), Oct. 28, 2009, 123 Stat. 2311, provided that: "In prescribing regulations to carry out the amendments made by this subsection \[amending this section and sections 2612 and 2613 of this title\], the Secretary of Labor shall consult with the Secretary of Defense and the Secretary of Veterans Affairs, as applicable."
+
+#### FMLA: Including Military Service in Determining Eligibility
+
+Pub. L. 118–31, div. A, title XI, §1114(b), Dec. 22, 2023, 137 Stat. 432, provided that:
+
+"(1)
+
+In general.—A covered employee who has completed 12 months of service which qualifies as honorable active service in the Army, Navy, Air Force, Space Force, or Marine Corps of the United States shall be deemed to have met the service requirement in section 101(1)(A) \[probably should be 101(2)(A)\] of the Family and Medical Leave Act of 1993 \[29 U.S.C. 2611(2)(A)\], notwithstanding the requirements of such section 101(1)(A).
+
+"(2)
+
+Covered employee defined.—In this subsection, the term 'covered employee'—
+
+&emsp;"(A) includes—
+
+&emsp;&emsp;"(i) any Federal employee eligible for family and medical leave under the Family and Medical Leave Act of 1993 \[29 U.S.C. 2601 et seq.\] based on their status as such an employee;
+
+&emsp;&emsp;"(ii) any Federal employee covered by the Congressional Accountability Act of 1995 \[2 U.S.C. 1301 et seq.\] eligible for family and medical leave by operation of section 202 of such Act \[2 U.S.C. 1312\];
+
+&emsp;&emsp;"(iii) any Federal employee of the Executive Office of the President eligible for family and medical leave by operation of section 412 of title 3, United States Code; and
+
+&emsp;&emsp;"(iv) any non-judicial employee of the District of Columbia courts and any employee of the District of Columbia Public Defender Service; and
+
+&emsp;"(B) does not include any member of the Commissioned Corps of the Public Health Service or the Commissioned Corps of the National Oceanic and Atmospheric Administration, \[sic\]"
 

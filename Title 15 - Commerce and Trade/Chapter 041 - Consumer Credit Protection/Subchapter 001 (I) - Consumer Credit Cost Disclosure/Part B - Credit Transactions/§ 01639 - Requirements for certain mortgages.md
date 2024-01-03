@@ -44,7 +44,7 @@
 
 #### (3) No wait for lower rate
 
-&emsp;If a creditor extends to a consumer a second offer of credit with a lower annual percentagerate, the transaction may be consummated without regard to the period specified in paragraph (1) with respect to the second offer.
+&emsp;If a creditor extends to a consumer a second offer of credit with a lower annual percentage rate, the transaction may be consummated without regard to the period specified in paragraph (1) with respect to the second offer.
 
 #### (4) Modifications
 
@@ -118,7 +118,7 @@ No creditor shall recommend or encourage default on an existing loan or other de
 
 #### (l) Acceleration of debt
 
-No high-cost mortgage may contain a provision which permits the creditor to acceleratethe indebtedness, except when repayment of the loan has been accelerated by default in payment, or pursuant to a due-on-sale provision, or pursuant to a material violation of some other provision of the loan document unrelated to payment schedule.
+No high-cost mortgage may contain a provision which permits the creditor to accelerate the indebtedness, except when repayment of the loan has been accelerated by default in payment, or pursuant to a due-on-sale provision, or pursuant to a material violation of some other provision of the loan document unrelated to payment schedule.
 
 #### (m) Restriction on financing points and fees
 
@@ -202,7 +202,7 @@ A creditor, successor in interest, assignee, or any agent of any of the above, m
 
 #### (2) Disclosures required prior to counseling
 
-&emsp;No counselor may certify that a consumer has received counseling on the advisability of the high-cost mortgage unless the counselor can verify that the consumer has received each statement required (in connection withsuch loan) by this section or the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] with respect to the transaction.
+&emsp;No counselor may certify that a consumer has received counseling on the advisability of the high-cost mortgage unless the counselor can verify that the consumer has received each statement required (in connection with such loan) by this section or the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] with respect to the transaction.
 
 #### (3) Regulations
 

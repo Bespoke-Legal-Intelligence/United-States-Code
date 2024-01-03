@@ -54,13 +54,13 @@ Not later than 24 months after November 7, 2000, the Administrator shall develop
 
 &emsp;&emsp;(J) Neither the Commission nor the United States Government shall be liable for payment of any cancellation fees if the Commission cancels the contract.
 
-&emsp;&emsp;(K) The owner of the Mexican facility may purchase insurance or other financial instrument to cover the risk of cancellation of the contract by the Commission. Any such insurance or other financial instrument shall not be provided or guaranteed by the United States Government, and the Government may reserve the right to validate independently the reasonableness of the premium when negotiating the annual service fee with the owner.
+&emsp;&emsp;(K) The owner of the Mexican facility may purchase insurance or other financial instrument to cover the risk of cancellation of the contract by the Commission. Any such insurance or other financial instrument shall not be provided or guaranteed by the United States Government, and the Governmentmay reserve the right to validate independently the reasonableness of the premium when negotiating the annual service fee with the owner.
 
 &emsp;&emsp;(L) Transfer of ownership of the Mexican facility to an appropriate governmental entity, other than the United States, if the Commission cancels the contract.
 
 &emsp;&emsp;(M) Transfer of ownership of the Mexican facility to an appropriate governmental entity, other than the United States, if the owner of the Mexican facility fails to perform under the contract.
 
-&emsp;&emsp;(N) The use of competitive procedures under applicable law, consistent with division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, by the owner of the Mexican facility in the procurement of property or services forthe engineering, construction, and operation and maintenance of the Mexican facility.
+&emsp;&emsp;(N) The use of competitive procedures under applicable law, consistent with division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, by the owner of the Mexican facility in the procurement of property or services for the engineering, construction, and operation and maintenance of the Mexican facility.
 
 &emsp;&emsp;(O) An opportunity for the Commission to review and approve the selection of contractors providing engineering, construction, and operation and maintenance for the Mexican facility.
 

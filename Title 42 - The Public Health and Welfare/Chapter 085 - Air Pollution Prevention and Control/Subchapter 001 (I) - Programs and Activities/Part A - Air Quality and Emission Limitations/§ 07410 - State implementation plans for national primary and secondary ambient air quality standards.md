@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(ii) insuring compliance with the applicable requirements of sections 7426 and 7415 of this title (relating to interstate and international pollution abatement);
 
-&emsp;(E) provide (i) necessary assurances that the State (or, except where the Administrator deems inappropriate, the general purpose local government or governments, or a regional agency designated by the State or general purpose local governments for such purpose) willhave adequate personnel, funding, and authority under State (and, as appropriate, local) law to carry out such implementation plan (and is not prohibited by any provision of Federal or State law from carrying out such implementation plan or portion thereof), (ii) requirements that the State comply with the requirements respecting State boards under section 7428 of this title, and (iii) necessary assurances that, where the State has relied on a local or regional government, agency, or instrumentality for the implementation of any plan provision, the State has responsibility for ensuring adequate implementation of such plan provision;
+&emsp;(E) provide (i) necessary assurances that the State (or, except where the Administrator deems inappropriate, the general purpose local government or governments, or a regional agency designated by the State or general purpose local governments for such purpose) will have adequate personnel, funding, and authority under State (and, as appropriate, local) law to carry out such implementation plan (and is not prohibited by any provision of Federal or State law from carrying out such implementation plan or portion thereof), (ii) requirements that the State comply with the requirements respecting State boards under section 7428 of this title, and (iii) necessary assurances that, where the State has relied on a local or regional government, agency, or instrumentality for the implementation of any plan provision, the State has responsibility for ensuring adequate implementation of such plan provision;
 
 &emsp;(F) require, as may be prescribed by the Administrator—
 
@@ -72,7 +72,7 @@
 
 (4) Repealed. Pub. L. 101–549, title I, §101(d)(2), Nov. 15, 1990, 104 Stat. 2409.
 
-(5)(A)(i) Any State may include in a State implementation plan, but the Administrator maynot require as a condition of approval of such plan under this section, any indirect source review program. The Administrator may approve and enforce, as part of an applicable implementation plan, an indirect source review program which the State chooses to adopt and submit as part of its plan.
+(5)(A)(i) Any State may include in a State implementation plan, but the Administrator may not require as a condition of approval of such plan under this section, any indirect source review program. The Administrator may approve and enforce, as part of an applicable implementation plan, an indirect source review program which the State chooses to adopt and submit as part of its plan.
 
 (ii) Except as provided in subparagraph (B), no plan promulgated by the Administrator shall include any indirect source review program for any air quality control region, or portion thereof.
 
@@ -120,7 +120,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 &emsp;(iii) The term "preferential bus/carpool lane" shall include any requirement for the setting aside of one or more lanes of a street or highway on a permanent or temporary basis for the exclusive use of buses or carpools, or both.
 
-(E) No standard, plan, or requirement, relating to management of parking supply or preferential bus/carpool lanes shall be promulgated after June 22, 1974, by the Administrator pursuant to this section, unless such promulgation has been subjected to at least one public hearingwhich has been held in the area affected and for which reasonable notice has been given in such area. If substantial changes are made following public hearings, one or more additional hearings shall be held in such area after such notice.
+(E) No standard, plan, or requirement, relating to management of parking supply or preferential bus/carpool lanes shall be promulgated after June 22, 1974, by the Administrator pursuant to this section, unless such promulgation has been subjected to at least one public hearing which has been held in the area affected and for which reasonable notice has been given in such area. If substantial changes are made following public hearings, one or more additional hearings shall be held in such area after such notice.
 
 (3) Upon application of the chief executive officer of any general purpose unit of local government, if the Administrator determines that such unit has adequate authority under State or local law, the Administrator may delegate to such unit the authority to implement and enforce within the jurisdiction of such unit any part of a plan promulgated under this subsection. Nothing in this paragraph shall prevent the Administrator from implementing or enforcing any applicable provision of a plan promulgated under this subsection.
 
@@ -226,7 +226,7 @@ As a condition for issuance of any permit required under this subchapter, the ow
 
 #### (6) Corrections
 
-&emsp;Whenever the Administrator determines that the Administrator's action approving, disapproving, or promulgating any plan or plan revision (or part thereof), area designation, redesignation, classification, or reclassification was in error, the Administrator may in the same manner as the approval, disapproval, or promulgation revise such action as appropriate without requiring any further submission from the State. Such determination and the basis thereof shall be provided to the State and public.
+&emsp;Whenever the Administrator determines that the Administrator's action approving, disapproving, or promulgating any plan orplan revision (or part thereof), area designation, redesignation, classification, or reclassification was in error, the Administrator may in the same manner as the approval, disapproval, or promulgation revise such action as appropriate without requiring any further submission from the State. Such determination and the basis thereof shall be provided to the State and public.
 
 #### (l) Plan revisions
 
@@ -254,7 +254,7 @@ The Administrator may apply any of the sanctions listed in section 7509(b) of th
 
 #### (3) Retention of construction moratorium in certain areas
 
-&emsp;In the case of an area to which, immediately before November 15, 1990, the prohibition on construction or modification of major stationary sources prescribed in subsection (a)(2)(I) (as in effect immediately before November 15, 1990) applied by virtue of a findingof the Administrator that the State containing such area had not submitted an implementation plan meeting the requirements of section 7502(b)(6) of this title (relating to establishment of a permit program) (as in effect immediately before November 15, 1990) or 7502(a)(1) of this title (to the extent such requirements relate to provision for attainment of the primary national ambient air quality standard for sulfur oxides by December 31, 1982) as in effect immediately before November 15, 1990, no major stationary source of the relevant air pollutant or pollutants shall be constructed or modified in such area until the Administrator finds that the plan for such area meets the applicable requirements of section 7502(c)(5) of this title (relating to permit programs) or subpart 5 of part D (relating to attainment of the primary national ambient air quality standard for sulfur dioxide), respectively.
+&emsp;In the case of an area to which, immediately before November 15, 1990, the prohibition on construction or modification of major stationary sources prescribed in subsection (a)(2)(I) (as in effect immediately before November 15, 1990) applied by virtue of a finding of the Administrator that the State containing such area had not submitted an implementation plan meeting the requirements of section 7502(b)(6) of this title (relating to establishment of a permit program) (as in effect immediately before November 15, 1990) or 7502(a)(1) of this title (to the extent such requirements relate to provision for attainment of the primary national ambient air quality standard for sulfur oxides by December 31, 1982) as in effect immediately before November 15, 1990, no major stationary source of the relevant air pollutant or pollutants shall be constructed or modified in such area until the Administrator finds that the plan for such area meets the applicable requirements of section 7502(c)(5) of this title (relating to permit programs) or subpart 5 of part D (relating to attainment of the primary national ambient air quality standard for sulfur dioxide), respectively.
 
 #### (o) Indian tribes
 
@@ -264,7 +264,7 @@ If an Indian tribe submits an implementation plan to the Administrator pursuant 
 
 Any State shall submit, according to such schedule as the Administrator may prescribe, such reports as the Administrator may require relating to emission reductions, vehicle miles traveled, congestion levels, and any other information the Administrator may deem necessary to assess the development <sup>2</sup> effectiveness, need for revision, or implementation of any plan or plan revision required under this chapter.
 
-(July 14, 1955, ch. 360, title I, §110, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1680; amended Pub. L. 93–319, §4, June 22, 1974, 88 Stat. 256; Pub. L. 95–95, title I, §§107, 108, Aug. 7, 1977, 91 Stat. 691, 693; Pub. L. 95–190, §14(a)(1)–(6), Nov. 16, 1977, 91 Stat. 1399; Pub. L. 97–23, §3, July 17, 1981, 95 Stat. 142; Pub. L. 101–549, title I, §§101(b)–(d), 102(h), 107(c), 108(d), title IV, §412, Nov. 15, 1990, 104 Stat. 2404–2408, 2422, 2464, 2466, 2634.)
+(July 14, 1955, ch. 360, title I, §110, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1680; amended Pub. L. 93–319, §4, June 22, 1974, 88 Stat. 256; Pub. L. 95–95, title I, §§107, 108, Aug. 7, 1977, 91 Stat. 691, 693; Pub. L. 95–190, §14(a)(1)–(6), Nov. 16, 1977, 91 Stat. 1399; Pub. L. 97–23, §3, July 17, 1981, 95 Stat. 142; Pub. L. 101–549, title I,§§101(b)–(d), 102(h), 107(c), 108(d), title IV, §412, Nov. 15, 1990, 104 Stat. 2404–2408, 2422, 2464, 2466, 2634.)
 
 #### <b>Editorial Notes</b>
 
@@ -386,7 +386,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Pending Actions and Proceedings
 
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his officialduties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

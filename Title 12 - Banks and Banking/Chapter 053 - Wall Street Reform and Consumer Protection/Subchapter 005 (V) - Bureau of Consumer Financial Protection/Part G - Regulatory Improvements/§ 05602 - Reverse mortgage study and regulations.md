@@ -20,7 +20,7 @@ Not later than 1 year after the designated transfer date, the Bureau shall condu
 
 #### (c) Rule of construction
 
-This section shall not be construed as limiting the authority of the Bureau to issue regulations,orders, or guidance that apply to reverse mortgages prior to the completion of the study required under subsection (a).
+This section shall not be construed as limiting the authority of the Bureau to issue regulations, orders, or guidance that apply to reverse mortgages prior to the completion of the study required under subsection (a).
 
 (Pub. L. 111–203, title X, §1076, July 21, 2010, 124 Stat. 2075.)
 

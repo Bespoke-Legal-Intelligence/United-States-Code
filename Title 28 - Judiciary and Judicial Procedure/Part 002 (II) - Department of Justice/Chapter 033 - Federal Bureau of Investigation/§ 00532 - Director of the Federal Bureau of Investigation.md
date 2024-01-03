@@ -48,49 +48,7 @@ People's republic of china product or service.—The term 'People's Republic of 
 
 #### Counterintelligence Units at Non-Intelligence Community Federal Departments and Agencies
 
-Pub. L. 117–103, div. X, title IV, §415, Mar. 15, 2022, 136 Stat. 978, provided that:
-
-"(a)
-
-Establishment.—The Director of the Federal Bureau of Investigation shall establish counterintelligence units in the departments and agencies described in subsection (b). Such units shall be composed of officers of the Counterintelligence Division of the Federal Bureau of Investigation.
-
-"(b)
-
-Departments and Agencies Described.—The departments and agencies described in this subsection are the following departments and agencies of the United States Government:
-
-&emsp;"(1) The Department of Agriculture.
-
-&emsp;"(2) Any other department or agency that the Director, in coordination with the Director of National Intelligence, determines appropriate.
-
-"(c)
-
-Duties.—The Director of the Federal Bureau of Investigation shall ensure that each counterintelligence unit established under subsection (a) in a department or agency described in subsection (b) carries out the following duties:
-
-&emsp;"(1) Conducts assessments, in coordination with the leadership of the department or agency, to determine the counterintelligence posture of the department or agency, including any components thereof.
-
-&emsp;"(2) Informs and consults with the leadership of the department or agency, including any components thereof, and provides recommendations with respect to any counterintelligence threats identified by the intelligence community.
-
-&emsp;"(3) Provides such administrative and technical support as is necessary to develop, in coordination with the leadership of the department or agency, a plan to eliminate or reduce the threats described in paragraph (2).
-
-&emsp;"(4) Serves as the primary point of contact for the department or agency with respect to counterintelligence for the intelligence community.
-
-"(d)
-
-Intelligence Community Support.—The heads of the elements of the intelligence community shall ensure that relevant counterintelligence information is provided to counterintelligence units established under subsection (a) in a manner that is consistent with the need to protect sources and methods.
-
-"(e)
-
-Report.—Not later than 120 days after the date of the enactment of this Act \[Mar. 15, 2022\], the Director of National Intelligence, in consultation with the heads of such other departments and agencies of the Federal Government as the Director determines appropriate, shall submit to the appropriate congressional committees a report detailing options for the intelligence community to improve intelligence support to the Department of Agriculture and the Department of Commerce. The report shall be submitted in unclassified form, but may include a classified annex.
-
-"(f)
-
-Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
-
-&emsp;"(1) the congressional intelligence committees; and
-
-&emsp;"(2) the Subcommittees on Commerce, Justice, Science, and Related Agencies of the Committees on Appropriations of the House of Representatives and the Senate."
-
-\[For definitions of "congressional intelligence committees" and "intelligence community" as used in section 415 of div. X of Pub. L. 117–103, set out above, see section 2 of div. X of Pub. L. 117–103, set out as a note under section 3003 of Title 50, War and National Defense.\]
+Pub. L. 117–103, div. X, title IV, §415, Mar. 15, 2022, 136 Stat. 978, which related to the establishment of counterintelligence units at non-intelligence community Federal departments and agencies, was repealed by Pub. L. 118–31, div. G, title III, §7318(b), Dec. 22, 2023, 137 Stat. 1033.
 
 #### Findings
 
@@ -242,7 +200,7 @@ Appropriate Committees of Congress Defined.—In this section, the term 'appropr
 
 &emsp;"(1) the Committees on Appropriations, Homeland Security and Governmental Affairs, and the Judiciary and the Select Committee on Intelligence of the Senate; and
 
-&emsp;"(2) the Committees on Appropriations, Government Reform \[now Oversight and Reform\], and the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives."
+&emsp;"(2) the Committees on Appropriations, Government Reform \[now Committee on Oversight and Accountability\], and the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives."
 
 #### Webster Commission Implementation Report
 
@@ -296,7 +254,7 @@ Pub. L. 102–183, title V, §501, Dec. 4, 1991, 105 Stat. 1268, provided that:
 
 "(a)
 
-Study.—The Director of the Federal Bureau of Investigation shall conduct a study relative to the establishment of an undergraduate training program with respect to employees of the Federal Bureau of Investigation that is similar in purpose, conditions, content, and administration to undergraduate training programs administered by the Central Intelligence Agency (under section 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j) \[now 50 U.S.C. 3510\]), the National Security Agency (under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 402 (note)) \[now 50 U.S.C. 3614\]\[)\], and the Defense Intelligence Agency (under section 1608 \[now 1623\] of title 10, United States Code).
+Study.—The Director of the Federal Bureau of Investigation shall conduct a study relative to the establishment of an undergraduate training programwith respect to employees of the Federal Bureau of Investigation that is similar in purpose, conditions, content, and administration to undergraduate training programs administered by the Central Intelligence Agency (under section 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j) \[now 50 U.S.C. 3510\]), the National Security Agency (under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 402 (note)) \[now 50 U.S.C. 3614\]\[)\], and the Defense Intelligence Agency (under section 1608 \[now 1623\] of title 10, United States Code).
 
 "(b)
 

@@ -14,7 +14,7 @@ Any person, acting through a physician licensed in accordance with State law, ma
 
 &emsp;(3) the Secretary determines that provision of the investigational drug or investigational device will not interfere with the initiation, conduct, or completion of clinical investigations to support marketing approval; and
 
-&emsp;(4) the sponsor, or clinical investigator, of the investigational drug or investigational device submits to the Secretary a clinical protocol consistent with the provisions of section 355(i) or 360j(g) of this title, including any regulations promulgated under section 355(i) or 360j(g) of this title, describing the use of the investigational drug or investigational device in a single patient or a small group of patients.
+&emsp;(4) the sponsor, or clinical investigator, of the investigational drug or investigational device submits to the Secretary a clinical protocol consistent with the provisions of section 355(i) or 360j(g) of this title, including any regulations promulgated under section 355(i) or360j(g) of this title, describing the use of the investigational drug or investigational device in a single patient or a small group of patients.
 
 #### (c) Treatment investigational new drug applications and treatment investigational device exemptions
 
@@ -82,7 +82,7 @@ In general.—The Secretary of Health and Human Services (referred to in this se
 
 &emsp;&emsp;"(B)
 
-Topics.—The Secretary shall make available on the internet website of the Food and Drug Administration a report on the topics discussed at the meeting described in subparagraph (A) within 90 days of such meeting. Such topics shall include discussion of—
+Topics.—The Secretary shall make available on the internet website of the Food and Drug Administration a report on the topics discussed at themeeting described in subparagraph (A) within 90 days of such meeting. Such topics shall include discussion of—
 
 &emsp;&emsp;&emsp;"(i) the rationale for, and potential barriers for patients created by, research clinical trial inclusion and exclusion criteria;
 

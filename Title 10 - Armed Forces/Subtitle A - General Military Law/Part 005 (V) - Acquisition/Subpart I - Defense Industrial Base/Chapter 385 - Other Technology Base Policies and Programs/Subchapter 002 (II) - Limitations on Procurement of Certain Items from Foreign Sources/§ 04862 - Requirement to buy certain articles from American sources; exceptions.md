@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement.—Except as provided in subsections (c) through (h), funds appropriated or otherwise available to the Department of Defense may not be used for the procurement of an item described in subsection (b) if the item is not grown, reprocessed, reused, or produced in the United States.
+Requirement.—Except as provided in subsections (c) through (h), funds appropriated orotherwise available to the Department of Defense may not be used for the procurement of an item described in subsection (b) if the item is not grown, reprocessed, reused, or produced in the United States.
 
 (b)
 
@@ -22,9 +22,9 @@ Covered Items.—An item referred to in subsection (a) is any of the following:
 
 &emsp;(2) Hand or measuring tools.
 
-&emsp;(3) <sup>1</sup> Stainless steel flatware.
+&emsp;\[(3), (4) Repealed. Pub. L. 116–92, div. A, title VIII, §854(a)(3), Dec. 20, 2019, 133 Stat. 1512.\]
 
-&emsp;(4) <sup>1</sup> Dinnerware.
+&emsp;(5) A flag of the United States.
 
 (c)
 
@@ -68,9 +68,17 @@ Exception for Commissaries, Exchanges, and Other Nonappropriated Fund Instrument
 
 (h)
 
-Exception for Small Purchases.—(1) Subsection (a) does not apply to purchases for amounts not greater than $150,000. A proposed procurement of an item in an amount greater than $150,000 may not be divided into several purchases or contracts for lesser amounts in order to qualify for this exception.
+Exception for Small Purchases.—(1) Except with respect to purchases of flags of the United States, subsection (a) does not apply to purchases for amounts not greater than $150,000. A proposed procurement of an item in an amount greater than $150,000 may not be divided into several purchases or contracts for lesser amounts in order to qualify for this exception.
 
-(2) On October 1 of each year that is evenly divisible by five, the Secretary of Defense may adjust the dollar threshold in this subsection based on changes in the Consumer Price Index. Any such adjustment shall take effect on the date on which the Secretary publishes notice of such adjustment in the Federal Register.
+(2)(A)(i) Except as provided by subparagraph (B), subsection (a) does not apply to purchases of flags of the United States for amounts not greater than $10,000.
+
+(ii) A proposed procurement in an amount greater than $10,000 may not be divided into several purchases or contracts for lesser amounts in order to qualify for the exception under clause (i).
+
+(B) The Secretary of Defense may waive subsection (a) with respect to a purchase of flags of the United States in an amount greater than $10,000 if the Secretary of Defense determines such waiver appropriate.
+
+(C) This section is applicable to contracts and subcontracts for the procurement of flags of the United States.
+
+(3) On October 1 of each year that is evenly divisible by five, the Secretary of Defense may adjust the dollar threshold in this subsection based on changes in the Consumer Price Index. Any such adjustment shall take effect on the date on which the Secretary publishes notice of such adjustment in the Federal Register.
 
 (i)
 
@@ -86,15 +94,17 @@ Notification Required Within 7
 
 Days After Contract Award If Certain Exceptions Applied.—In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOpps.gov (or any successor site).
 
-(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189, §2533a; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337; Pub. L. 111–350, §5(b)(38), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title VIII, §847, title X, §1075(b)(38), Jan. 7, 2011, 124 Stat. 4286, 4371; Pub. L. 112–81, div. A, title VIII, §821, Dec. 31, 2011, 125 Stat. 1502; Pub. L. 112–239, div. A, title X, §1076(f)(29), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 115–232, div. A, title VIII, §837(b), Aug. 13, 2018, 132 Stat. 1875; Pub. L. 116–92, div. A, title VIII, §854(a)(1), (3), Dec. 20, 2019, 133 Stat. 1512; renumbered §4862 and amended Pub. L. 116–283, div. A, title VIII, §817, title XVIII, §§1870(c)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3751, 4285, 4294; Pub. L. 117–81, div. A, title XVII, §1701(d)(17), Dec. 27, 2021, 135 Stat. 2138.)
-
-#### Repeal of Subsection (b)(3) and (4)
-
-<i>Pub. L. 116–92, div. A, title VIII, §854(a)(3), Dec. 20, 2019, 133 Stat. 1512, provided that, effective Sept. 30, 2023, paragraphs (3) and (4) of subsection (b) of this section are repealed.</i>
+(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189, §2533a; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337; Pub. L. 111–350, §5(b)(38), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title VIII, §847, title X, §1075(b)(38), Jan. 7, 2011, 124 Stat. 4286, 4371; Pub. L. 112–81, div. A, title VIII, §821, Dec. 31, 2011, 125 Stat. 1502; Pub. L. 112–239, div. A, title X, §1076(f)(29), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 115–232, div. A, title VIII, §837(b), Aug. 13, 2018, 132 Stat. 1875; Pub. L. 116–92, div. A, title VIII, §854(a)(1), (3), Dec. 20, 2019, 133 Stat. 1512; renumbered §4862 and amended Pub. L. 116–283, div. A, title VIII, §817, title XVIII, §§1870(c)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3751, 4285, 4294; Pub. L. 117–81, div. A, title XVII, §1701(d)(17), Dec. 27, 2021, 135 Stat. 2138; Pub. L. 118–31, div. A, title VIII, §832(a), Dec. 22, 2023, 137 Stat. 336.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(5). Pub. L. 118–31, §832(a)(1), added par. (5).
+
+Subsec. (h)(1). Pub. L. 118–31, §832(a)(2)(A), substituted "Except with respect to purchases of flags of the United States, subsection (a)" for "Subsection (a)".
+
+Subsec. (h)(2), (3). Pub. L. 118–31, §832(a)(2)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
 <b>2021</b>—Pub. L. 116–283, §1870(c)(2), renumbered section 2533a of this title as this section.
 
@@ -150,6 +160,10 @@ Exception for Certain Foods.—Subsection (a) does not preclude the procurement 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2023 Amendment
+
+Pub. L. 118–31, div. A, title VIII, §832(b), Dec. 22, 2023, 137 Stat. 337, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply only with respect to agreements entered into on or after the date of the enactment of this Act \[Dec. 22, 2023\]."
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
@@ -164,7 +178,7 @@ Pub. L. 116–92, div. A, title VIII, §854(a)(3), Dec. 20, 2019, 133 Stat. 1512
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title VIII, §842(a)(4)(B), Oct. 17, 2006, 120 Stat. 2337, provided that: "The amendments made by paragraph (3) \[amending this section\] shall take effect on the date occurring 30 days after the date of the enactment of this Act \[Oct. 17, 2006\]."
+Pub. L. 109–364, div. A, title VIII, §842(a)(4)(B), Oct. 17, 2006, 120 Stat. 2337, provided that: "The amendmentsmade by paragraph (3) \[amending this section\] shall take effect on the date occurring 30 days after the date of the enactment of this Act \[Oct. 17, 2006\]."
 
 #### Short Title
 
@@ -241,6 +255,4 @@ Inclusion of Information in New Training Programs.—The Secretary shall ensure 
 #### Application of Exception to Seafood Products
 
 Pub. L. 108–287, title VIII, §8118, Aug. 5, 2004, 118 Stat. 998, as amended by Pub. L. 113–291, div. A, title X, §1071(b)(4), Dec. 19, 2014, 128 Stat. 3506; Pub. L. 116–283, div. A, title XVIII, §1870(c)(6)(B), Jan. 1, 2021, 134 Stat. 4285, provided that: "Notwithstanding any other provision of law, section 4862(f) of title 10, United States Code, shall hereafter not apply to any fish, shellfish, or seafood product. This section applies to contracts and subcontracts for the procurement of commercial items notwithstanding section 1906 of title 41, United States Code."
-
-<i><sup>1</sup></i><i> See Repeal of Subsection (b)(3) and (4) note below.</i>
 

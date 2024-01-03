@@ -68,7 +68,7 @@ Amounts in the Trust shall be available—
 
 #### (8) "Holder" defined
 
-&emsp;As used in this subsection, the term "holder" with respect to any eligible loan meansthe original lender or, if the loan is subsequently sold, transferred, or assigned to some other person, and such other person acquires a legally enforceable right to receive payments from the borrower, such other person.
+&emsp;As used in this subsection, the term "holder" with respect to any eligible loan means the original lender or, if the loan is subsequently sold, transferred, or assigned to some other person, and such other person acquires a legally enforceable right to receive payments from the borrower, such other person.
 
 #### (c) Use of educational awards to pay current educational expenses
 
@@ -116,7 +116,7 @@ Amounts in the Trust shall be available—
 
 #### (d) Use of educational award to participate in approved school-to-work programs
 
-The Corporation shall by regulation provide for the payment of national service educational awards, summer of service educational awards,and silver scholar educational awards to permit eligible individuals to participate in school-to-work programs approved by the Secretaries of Labor and Education.
+The Corporation shall by regulation provide for the payment of national service educational awards, summer of service educational awards, and silver scholar educational awards to permit eligible individuals to participate in school-to-work programs approved by the Secretaries of Labor and Education.
 
 #### (e) Interest payments during forbearance on loan repayment
 
@@ -188,7 +188,7 @@ Notwithstanding section 12511 of this title, for purposes of this section the te
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsecs. (b)(7)(A), (C)(ii) and (c)(2)(C)(ii), (6)(B), is Pub. L.89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. Parts A and D of title IV of the Act are classified generally to parts A (§1070 et seq.) and D (§1087a et seq.), respectively, of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (b)(7)(A), (C)(ii) and (c)(2)(C)(ii), (6)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. Parts A and D of title IV of the Act are classified generally to parts A (§1070 et seq.) and D (§1087a et seq.), respectively, of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Public Health Service Act, referred to in subsec. (b)(7)(B), is act July 1, 1944, ch. 373, 58 Stat. 682. Titles VII and VIII of the Act are classified generally to subchapters V (§292 et seq.) and VI (§296 et seq.), respectively, of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 

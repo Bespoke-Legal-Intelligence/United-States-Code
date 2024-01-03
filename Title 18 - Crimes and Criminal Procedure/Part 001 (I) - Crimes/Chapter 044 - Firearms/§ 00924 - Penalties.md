@@ -98,7 +98,7 @@
 
 (B) In any other action or proceeding under the provisions of this chapter, the court, when it finds that such action was without foundation, or was initiated vexatiously, frivolously, or in bad faith, shall allow the prevailing party, other than the United States, a reasonable attorney's fee, and the United States shall be liable therefor.
 
-(C) Only those firearms or quantities of ammunition particularly named and individually identified as involved in or used in any violation of the provisions of this chapter or any rule or regulation issued thereunder, or any other criminal law of the United States or as intended to be used in any offense referred to in paragraph (3) of this subsection, where such intent is demonstrated by clear and convincing evidence, shall be subject to seizure, forfeiture, and disposition.
+(C) Only those firearms or quantities of ammunition particularly named and individually identified as involved in or used in any violationof the provisions of this chapter or any rule or regulation issued thereunder, or any other criminal law of the United States or as intended to be used in any offense referred to in paragraph (3) of this subsection, where such intent is demonstrated by clear and convincing evidence, shall be subject to seizure, forfeiture, and disposition.
 
 (D) The United States shall be liable for attorneys' fees under this paragraph only to the extent provided in advance by appropriation Acts.
 
@@ -182,7 +182,7 @@
 
 (m) A person who steals any firearm from a licensed importer, licensed manufacturer, licensed dealer, or licensed collector shall be fined under this title, imprisoned not more than 10 years, or both.
 
-(n) A person who, with the intent to engage in conduct that constitutes a violation of section 922(a)(1)(A), travels from any State or foreign country into any other State and acquires, or attempts to acquire, a firearm in such otherState in furtherance of such purpose shall be imprisoned for not more than 10 years.
+(n) A person who, with the intent to engage in conduct that constitutes a violation of section 922(a)(1)(A), travels from any State or foreign country into any other State and acquires, or attempts to acquire, a firearm in such other State in furtherance of such purpose shall be imprisoned for not more than 10 years.
 
 (o) A person who conspires to commit an offense under subsection (c) shall be imprisoned for not more than 20 years, fined under this title, or both; and if the firearm is a machinegun or destructive device, or is equipped with a firearm silencer or muffler, shall be imprisoned for any term of years or life.
 
@@ -328,7 +328,7 @@ Subsec. (a)(3). Pub. L. 103–322, §330016(1)(H), substituted "fined under this
 
 Subsec. (a)(4). Pub. L. 103–322, §330016(1)(K), substituted "fined under this title" for "fined not more than $5,000".
 
-Subsec. (a)(5). Pub. L. 103–322, §330016(1)(H), substituted "fined under this title" for "fined not morethan $1,000" in par. (5) relating to knowing violations of subsec. (s) or (t) of section 922.
+Subsec. (a)(5). Pub. L. 103–322, §330016(1)(H), substituted "fined under this title" for "fined not more than $1,000" in par. (5) relating to knowing violations of subsec. (s) or (t) of section 922.
 
 Pub. L. 103–322, §110201(b)(2), added par. (5) relating to punishment for juveniles.
 
@@ -412,7 +412,7 @@ Subsec. (g). Pub. L. 100–690, §6211, added subsec. (g).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–308, §104(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Whoever violates any provision of this chapter or knowingly makes any false statement or representation with respect to the information required by the provisions of this chapter to be kept in the records of a person licensed under this chapter, or in applying for any license or exemption or relief from disability under the provisions of this chapter, shall be fined not more than $5,000, or imprisoned not more than five years, or both, and shall become eligible for parole as the Board of Parole shall determine."
 
-Subsec. (c)(1). Pub. L. 99–308, §104(a)(2)(C)–(E), designated existing provision as par. (1), and substituted "violence or drug trafficking crime," for "violence" in four places and inserted ", and if the firearm is a machinegun, or is equipped with a firearm silencer or firearm muffler, to imprisonment for ten years" after "fiveyears", ", and if the firearm is a machinegun, or is equipped with a firearm silencer or firearm muffler, to imprisonment for twenty years" after "ten years", and "or drug trafficking crime" before "in which the firearm was used or carried".
+Subsec. (c)(1). Pub. L. 99–308, §104(a)(2)(C)–(E), designated existing provision as par. (1), and substituted "violence or drug trafficking crime," for "violence" in four places and inserted ", and if the firearm is a machinegun, or is equipped with a firearm silencer or firearm muffler, to imprisonment for ten years" after "five years", ", and if the firearm is a machinegun, or is equipped with a firearm silencer or firearm muffler, to imprisonment for twenty years" after "ten years", and "or drug trafficking crime" before "in which the firearm was used or carried".
 
 Subsec. (c)(2), (3). Pub. L. 99–308, §104(a)(2)(F), added pars. (2) and (3).
 

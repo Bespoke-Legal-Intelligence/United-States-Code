@@ -14,7 +14,7 @@ This section shall apply only to a forward-looking statement made by—
 
 #### (b) Exclusions
 
-Except to the extent otherwise specifically provided by rule, regulation, or order of theCommission, this section shall not apply to a forward-looking statement—
+Except to the extent otherwise specifically provided by rule, regulation, or order of the Commission, this section shall not apply to a forward-looking statement—
 
 &emsp;(1) that is made with respect to the business or operations of the issuer, if the issuer—
 
@@ -110,7 +110,7 @@ On any motion to dismiss based upon subsection (c)(1), the court shall consider 
 
 #### (f) Stay pending decision on motion
 
-In any private action arising under this subchapter, the court shall stay discovery (otherthan discovery that is specifically directed to the applicability of the exemption provided for in this section) during the pendency of any motion by a defendant for summary judgment that is based on the grounds that—
+In any private action arising under this subchapter, the court shall stay discovery (other than discovery that is specifically directed to the applicability of the exemption provided for in this section) during the pendency of any motion by a defendant for summary judgment that is based on the grounds that—
 
 &emsp;(1) the statement or omission upon which the complaint is based is a forward-looking statement within the meaning of this section; and
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Effective Date
 
-Section not to affect or apply to any private action arising under this subchapter or title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as an Effective Date of 1995 Amendment note under section 77l of this title.
+Section not to affect or apply to any private action arising under this subchapter or title I of the SecuritiesExchange Act of 1934 (15 U.S.C. 78a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as an Effective Date of 1995 Amendment note under section 77l of this title.
 
 #### Construction
 

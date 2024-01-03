@@ -50,7 +50,7 @@ Bureau.—The term "Bureau" means the Bureau of Consumer Financial Protection.
 
 (x) The term "residential mortgage transaction" means a transaction in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against the consumer's dwelling to finance the acquisition or initial construction of such dwelling.
 
-(y) As used in this section and section 1666f of this title, the term "regular price" means the tag or posted price charged for the property or service if a single price is tagged or posted, or the price charged for the property or service when payment is made by use of an open-end credit plan or a credit card if either (1) no price is tagged or posted, or (2) two prices are tagged or posted, one of which is charged when payment is made by use of an open-end credit plan or a credit card and the other when payment is madeby use of cash, check, or similar means. For purposes of this definition, payment by check, draft, or other negotiable instrument which may result in the debiting of an open-end credit plan or a credit cardholder's open-end account shall not be considered payment made by use of the plan or the account.
+(y) As used in this section and section 1666f of this title, the term "regular price" means the tag or posted price charged for the property or service if a single price is tagged or posted, or the price charged for the property or service when payment is made by use of an open-end credit plan or a credit card if either (1) no price is tagged or posted, or (2) two prices are tagged or posted, one of which is charged when payment is made by use of an open-end credit plan or a credit card and the other when payment is made by use of cash, check, or similar means. For purposes of this definition, payment by check, draft, or other negotiable instrument which may result in the debiting of an open-end credit plan or a credit cardholder's open-end account shall not be considered payment made by use of the plan or the account.
 
 (z) Any reference to any requirement imposed under this subchapter or any provision thereof includes reference to the regulations of the Bureau under this subchapter or the provision thereof in question.
 
@@ -198,7 +198,7 @@ Mortgage originator.—The term "mortgage originator"—
 
 &emsp;&emsp;(D) does not include a person or entity that only performs real estate brokerage activities and is licensed or registered in accordance with applicable State law, unless such person or entity is compensated by a lender, a mortgage broker, or other mortgage originator or by any agent of such lender, mortgage broker, or other mortgage originator;
 
-&emsp;&emsp;(E) does not include, with respect to a residential mortgage loan, a person, estate, or trust that provides mortgage financing for the sale of 3 properties in any 12-month period to purchasers of such properties, each of which is owned by such person, estate, ortrust and serves as security for the loan, provided that such loan—
+&emsp;&emsp;(E) does not include, with respect to a residential mortgage loan, a person, estate, or trust that provides mortgage financing for the sale of 3 properties in any 12-month period to purchasers of such properties, each of which is owned by such person, estate, or trust and serves as security for the loan, provided that such loan—
 
 &emsp;&emsp;&emsp;(i) is not made by a person, estate, or trust that has constructed, or acted as a contractor for the construction of, a residence on the property in the ordinary course of business of such person, estate, or trust;
 
@@ -260,7 +260,7 @@ Bona Fide Discount Points and Prepayment Penalties.—For the purposes of determ
 
 #### References in Text
 
-The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec.\(bb)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the "Home Ownership and Equity Protection Act of 1994", see Short Title of 1994 Amendment note set out under section 1601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
+The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (bb)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the "Home Ownership and Equity Protection Act of 1994", see Short Title of 1994 Amendment note set out under section 1601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
 
 The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (dd)(3), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 12 and Tables.
 
@@ -324,7 +324,7 @@ Subsec. (bb). Pub. L. 103–325, §154(a), added subsec. (bb).
 
 <b>1981</b>—Subsecs. (x) to (z). Pub. L. 97–25 added subsec. (z) and, effective Apr. 10, 1982, redesignated subsecs. (x), (y), and (z) as (y), (z), and (x), respectively.
 
-<b>1980</b>—Subsec. (f). Pub. L. 96–221, §602(a), substituted provisions defining term "creditor" as referring only to a person who both regularly extends consumer credit, subject to specified conditions, and is the person to whom the debt arising is initially payable on the faceof the indebtedness or by agreement, and notwithstanding such provisions, also refers to a person regularly arranging for the extension of consumer credit, and a card issuer and any person honoring the credit card, subject to specified conditions, for provisions defining term "creditor" as referring only to creditors who regularly extend, or arrange for the extension of credit payable in more than four installments or where a finance charge is or may be required, and substituted "(a)(5)" for "(a)(6)", "(a)(6)" for "(a)(7)", "(a)(7)" for "(a)(8)", "(b)(8)" for "(b)(9)", and "(b)(10)" for "(b)(11)".
+<b>1980</b>—Subsec. (f). Pub. L. 96–221, §602(a), substituted provisions defining term "creditor" as referring only to a person who both regularly extends consumer credit, subject to specified conditions, and is the person to whom the debt arising is initially payable on the face of the indebtedness or by agreement, and notwithstanding such provisions, also refers to a person regularly arranging for the extension of consumer credit, and a card issuer and any person honoring the credit card, subject to specified conditions, for provisions defining term "creditor" as referring only to creditors who regularly extend, or arrange for the extension of credit payable in more than four installments or where a finance charge is or may be required, and substituted "(a)(5)" for "(a)(6)", "(a)(6)" for "(a)(7)", "(a)(7)" for "(a)(8)", "(b)(8)" for "(b)(9)", and "(b)(10)" for "(b)(11)".
 
 Subsec. (g). Pub. L. 96–221, §602(b), substituted "in which the seller is a creditor" for "with respect to which credit is extended or arranged by the seller".
 
@@ -350,7 +350,7 @@ Subsecs. (x), (y). Pub. L. 96–221, §603(b), redesignated former subsecs. (s) 
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 1100A(1), (2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by section 1100A(1), (2) of Pub. L. 111–203 effective on the designated transfer date, see section1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 Amendment by sections 1401 and 1431 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 

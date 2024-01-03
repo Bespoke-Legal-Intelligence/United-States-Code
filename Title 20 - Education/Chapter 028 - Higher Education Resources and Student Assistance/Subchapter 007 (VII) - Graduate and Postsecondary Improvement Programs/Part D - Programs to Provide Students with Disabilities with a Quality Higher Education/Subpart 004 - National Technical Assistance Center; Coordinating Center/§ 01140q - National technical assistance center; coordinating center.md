@@ -74,7 +74,7 @@
 
 #### (E) Review and report
 
-&emsp;&emsp;Not later than three years after the establishment of the National Center, and every two years thereafter, the National Center shall prepare and disseminate a report to the Secretary and the authorizing committees analyzing the condition of postsecondary success for students with disabilities. Such report shall include—
+&emsp;&emsp;Not later than three years after the establishment of the National Center, and every two years thereafter, the National Center shall prepare and disseminate a report to theSecretary and the authorizing committees analyzing the condition of postsecondary success for students with disabilities. Such report shall include—
 
 &emsp;&emsp;&emsp;(i) a review of the activities and the effectiveness of the programs authorized under this part;
 

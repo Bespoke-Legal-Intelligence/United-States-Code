@@ -12,7 +12,7 @@
 
 (3) The Secretary may designate additional fields of education or training as qualifying fields of education or training if the education or training leads to employment in a position which would qualify the individual for increased basic pay under subsection (a)(1) of section 7455 of this title for personnel described in subsection (a)(2)(B) of such section.
 
-(4) Before awarding the initial scholarship in a course of education or training other than medicine or nursing, the Secretary shall notify the Committees on Veterans' Affairs of the Senate and House of Representatives of the Secretary's intent to award a scholarship in such course of education or training. The notice shall include a statement of the reasons why the award of scholarships in that course of education or training is necessary to assist in providing the Department with an adequate supply of personnel in the health profession concerned. Any such notice shall be given not less than 60 days before the first such scholarship is awarded.
+(4) Before awarding the initial scholarship in a course of education or training other than medicine or nursing, the Secretary shall notify the Committees on Veterans' Affairs of the Senateand House of Representatives of the Secretary's intent to award a scholarship in such course of education or training. The notice shall include a statement of the reasons why the award of scholarships in that course of education or training is necessary to assist in providing the Department with an adequate supply of personnel in the health profession concerned. Any such notice shall be given not less than 60 days before the first such scholarship is awarded.
 
 (5) In selecting applicants for the Scholarship Program, the Secretary—
 
@@ -40,7 +40,7 @@
 
 &emsp;(A) The Secretary's agreement to provide the participant with a scholarship under this subchapter for a specified number (from one to four) of school years during which the participant is pursuing a course of education or training described in section 7602 of this title.
 
-&emsp;(B) The participant's agreement to serve as a full-time employee in the Veterans Health Administration for a period of time (hereinafter in this subchapter referred to as the "period of obligated service") of one calendar year for each school year or part thereof for which the participant was provided a scholarshipunder the Scholarship Program, but for not less than two years.
+&emsp;(B) The participant's agreement to serve as a full-time employee in the Veterans Health Administration for a period of time (hereinafter in this subchapter referred to as the "period of obligated service") of one calendar year for each school year or part thereof for which the participant was provided a scholarship under the Scholarship Program, but for not less than two years.
 
 (2) In a case in which an extension is granted under section 7614(3) of this title, the number of years for which a scholarship may be provided under this subchapter shall be the number of school years provided for as a result of the extension.
 

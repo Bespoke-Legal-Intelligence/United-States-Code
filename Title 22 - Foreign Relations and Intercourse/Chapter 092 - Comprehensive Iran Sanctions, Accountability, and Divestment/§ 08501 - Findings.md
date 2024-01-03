@@ -52,7 +52,7 @@ This Act, referred to in par. (10), is Pub. L. 111–195, July 1, 2010, 124 Stat
 
 The Iran Sanctions Act of 1996, as amended by this Act, referred to in par. (10), is Pub. L. 104–172, Aug. 5, 1996, 110 Stat. 1541, as amended by Pub. L. 111–195, which is set out as a note under section 1701 of Title 50, War and National Defense.
 
-The International Emergency Economic Powers Act, referred to in par. (10), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in par. (10), is title II of Pub. L. 95–223, Dec.28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -74,7 +74,7 @@ Memorandum for the Secretary of State\[,\] the Secretary of the Treasury\[,\] th
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby order as follows:
 
-I hereby delegate to the Secretary of State the functions vested in the President by sections 4(c), 5(a), 5(b), 5(c), 5(f), 6(a)(1), 6(a)(2), 6(b)(5), and 9(c) of the IranSanctions Act of 1996, as amended (Public Law 104–172, 50 U.S.C. 1701 note, as amended most recently by the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (CISADA) (Public Law 111–195)) (the "Iran Sanctions Act"), such functions to be exercised in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the President of the Export-Import Bank and the Chairman of the Board of the Federal Reserve System and other agencies as appropriate.
+I hereby delegate to the Secretary of State the functions vested in the President by sections 4(c), 5(a), 5(b), 5(c), 5(f), 6(a)(1), 6(a)(2), 6(b)(5), and 9(c) of the Iran Sanctions Act of 1996, as amended (Public Law 104–172, 50 U.S.C. 1701 note, as amended most recently by the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (CISADA) (Public Law 111–195)) (the "Iran Sanctions Act"), such functions to be exercised in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the President of the Export-Import Bank and the Chairman of the Board of the Federal Reserve System and other agencies as appropriate.
 
 I hereby delegate to the Secretary of State the functions vested in the President by sections 4(a), 4(b), 4(e), 5(d), 5(e), 9(a), 9(b), and 10 of the Iran Sanctions Act.
 

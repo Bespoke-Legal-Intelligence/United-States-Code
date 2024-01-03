@@ -22,7 +22,7 @@ In this section, the term "prize competition" means a prize competition conducte
 
 &emsp;In carrying out paragraph (1), the Secretary may—
 
-&emsp;&emsp;(A) enter into a grant, contract, cooperative agreement, or other agreement with a private sector for-profit or nonprofit entity to administer the prize competitions;
+&emsp;&emsp;(A) enter into a grant, contract, cooperative agreement, or other agreement with aprivate sector for-profit or nonprofit entity to administer the prize competitions;
 
 &emsp;&emsp;(B) invite the Defense Advanced Research Projects Agency, the Commission, the National Aeronautics and Space Administration, the National Science Foundation, or any other Federal agency to provide advice and assistance in the design or administration of the prize competitions; and
 

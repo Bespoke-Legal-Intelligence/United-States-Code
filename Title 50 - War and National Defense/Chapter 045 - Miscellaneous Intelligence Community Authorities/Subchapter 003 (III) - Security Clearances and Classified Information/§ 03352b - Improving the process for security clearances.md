@@ -4,7 +4,7 @@
 
 Not later than 180 days after December 20, 2019, the Security Executive Agent, in coordination with the members of the Council, shall submit to the appropriate congressional committees and make available to appropriate industry partners a report that includes the following:
 
-&emsp;(1) A review of whether the information requested on the Questionnaire for National Security Positions (Standard Form 86) and by the Federal Investigative Standards prescribed by the Suitability and Credentialing Executive Agent and the Security Executive Agentappropriately supports the adjudicative guidelines under Security Executive Agent Directive 4 (known as the "National Security Adjudicative Guidelines"). Such review shall include identification of whether any such information currently collected is unnecessary to support the adjudicative guidelines.
+&emsp;(1) A review of whether the information requested on the Questionnaire for National Security Positions (Standard Form 86) and by the Federal Investigative Standards prescribed by the Suitability and Credentialing Executive Agent and the Security Executive Agent appropriately supports the adjudicative guidelines under Security Executive Agent Directive 4 (known as the "National Security Adjudicative Guidelines"). Such review shall include identification of whether any such information currently collected is unnecessary to support the adjudicative guidelines.
 
 &emsp;(2) An assessment of whether such Questionnaire, Standards, and guidelines should be revised to account for the prospect of a holder of a security clearance becoming an insider threat.
 
@@ -54,7 +54,7 @@ Not later than 180 days after December 20, 2019, the Security Executive Agent sh
 
 &emsp;&emsp;(A) provides for periodic reinvestigations as part of a security clearance determination only on an as-needed, risk-based basis;
 
-&emsp;&emsp;(B) includes actions to assess the extent to which automated records checks and other continuous vetting methods may be used to expedite or focus reinvestigations; and
+&emsp;&emsp;(B) includes actions to assess the extent to which automated records checks and othercontinuous vetting methods may be used to expedite or focus reinvestigations; and
 
 &emsp;&emsp;(C) provides an exception to the requirement under subparagraph (A) for certain populations if the Security Executive Agent—
 
@@ -86,5 +86,5 @@ Policy Required.—Not later than 90 days after the date of the enactment of thi
 
 #### Definitions
 
-For definitions of "Security Executive Agent", "Council", "appropriate congressional committees","appropriate industry partners", "Suitability and Credentialing Executive Agent", "continuous vetting", and "reciprocity", referred to in text, see section 3352 of this title.
+For definitions of "Security Executive Agent", "Council", "appropriate congressional committees", "appropriate industry partners", "Suitability and Credentialing Executive Agent", "continuous vetting", and "reciprocity", referred to in text, see section 3352 of this title.
 

@@ -60,7 +60,7 @@ The Secretary shall take such actions as the Secretary considers necessary to ve
 
 #### (A) Enhanced electronic publishing
 
-&emsp;&emsp;The Secretary shall develop and implement an enhanced system of electronic publishing to disseminate information collected pursuant to this subchapter. Such system shall—
+&emsp;&emsp;The Secretary shall develop and implement an enhanced system of electronic publishing to disseminate information collectedpursuant to this subchapter. Such system shall—
 
 &emsp;&emsp;&emsp;(i) present information in a format that can be readily understood by producers, packers, and other market participants;
 
@@ -84,7 +84,7 @@ The Secretary shall take such actions as the Secretary considers necessary to ve
 
 #### (1) In general
 
-&emsp;Livestock committed to a packer, or purchased, sold, or slaughtered by a packer, on aweekend day or holiday shall be reported by the packer to the Secretary (to the extent required under this subchapter), and reported by the Secretary, on the immediately following reporting day.
+&emsp;Livestock committed to a packer, or purchased, sold, or slaughtered by a packer, on a weekend day or holiday shall be reported by the packer to the Secretary (to the extent required under this subchapter), and reported by the Secretary, on the immediately following reporting day.
 
 #### (2) Limitation on reporting by packers
 

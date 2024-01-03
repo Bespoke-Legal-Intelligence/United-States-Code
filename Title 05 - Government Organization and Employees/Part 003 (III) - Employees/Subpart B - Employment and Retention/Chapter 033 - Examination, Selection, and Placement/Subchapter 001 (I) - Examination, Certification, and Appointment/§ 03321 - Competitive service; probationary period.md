@@ -1,6 +1,6 @@
 ### §3321. Competitive service; probationary period
 
-(a) The President may take such action, including the issuance of rules, regulations, and directives, as shall provide as nearly as conditions of good administration warrant for a period of probation—
+(a) The President may take such action, including the issuance of rules, regulations, anddirectives, as shall provide as nearly as conditions of good administration warrant for a period of probation—
 
 &emsp;(1) before an appointment in the competitive service becomes final; and
 

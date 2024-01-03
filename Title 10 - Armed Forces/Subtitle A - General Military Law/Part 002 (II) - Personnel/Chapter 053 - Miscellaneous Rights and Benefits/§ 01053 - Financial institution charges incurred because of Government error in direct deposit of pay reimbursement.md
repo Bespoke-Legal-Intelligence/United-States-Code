@@ -46,5 +46,5 @@ Pub. L. 101–189, div. A, title VI, §664(c), Nov. 29, 1989, 103 Stat. 1467, pr
 
 #### Effective Date
 
-Pub. L. 99–661, div. A, title VI, §662(c), Nov. 14, 1986, 100 Stat. 3894, provided that: "Section 1053 of title 10, United States Code, as added by subsection (a), shall apply only with respect to charges levied as a result oferrors occurring on or after the date of the enactment of this Act \[Nov. 14, 1986\]."
+Pub. L. 99–661, div. A, title VI, §662(c), Nov. 14, 1986, 100 Stat. 3894, provided that: "Section 1053 of title 10, United States Code, as added by subsection (a), shall apply only with respect to charges levied as a result of errors occurring on or after the date of the enactment of this Act \[Nov. 14, 1986\]."
 

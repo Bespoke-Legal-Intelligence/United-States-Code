@@ -34,7 +34,7 @@ Required Provisions for Representation.—In its constitution and bylaws, the co
 
 (c)
 
-Conflict of Interest.—An athlete who represents athletes under subsection (b)(2) shallnot be employed by the Center, or serve in a capacity that exercises decision-making authority on behalf of the Center, during the 2-year period beginning on the date on which the athlete ceases such representation.
+Conflict of Interest.—An athlete who represents athletes under subsection (b)(2) shall not be employed by the Center, or serve in a capacity that exercises decision-making authority on behalf of the Center, during the 2-year period beginning on the date on which the athlete ceases such representation.
 
 (d)
 

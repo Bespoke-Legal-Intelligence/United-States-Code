@@ -44,7 +44,7 @@ In this section:
 
 #### (A) Development of mechanisms
 
-&emsp;&emsp;The Director shall be responsible for developing, in coordination with the Department of State and, as appropriate, the Department of Defense, the Department of Energy, and other Federal agencies, understandings and agreements to allow and to support international cooperative activity in support of homeland security.
+&emsp;&emsp;The Director shall be responsible for developing, in coordination with the Department of State and, as appropriate, the Departmentof Defense, the Department of Energy, and other Federal agencies, understandings and agreements to allow and to support international cooperative activity in support of homeland security.
 
 #### (B) Priorities
 
@@ -110,7 +110,7 @@ Not later than one year after August 3, 2007, and every 5 years thereafter, the 
 
 #### (f) Animal and zoonotic diseases
 
-As part of the international cooperative activities authorized in this section, the Under Secretary, in coordination with the Assistant Secretary for the Countering Weapons of Mass Destruction Office, the Department of State, and appropriate officials of the Department of Agriculture, the Department of Defense, and the Department of Health and Human Services, may enter into cooperative activities with foreign countries, including African nations, to strengthen American preparedness against foreign animal and zoonotic diseases overseas that could harm the Nation's agricultural and public health sectors if they were to reach the United States.
+As part of the international cooperative activities authorized in this section, the Under Secretary, in coordination with the Assistant Secretary for the Countering Weapons of Mass Destruction Office, the Department of State, and appropriate officials of the Department ofAgriculture, the Department of Defense, and the Department of Health and Human Services, may enter into cooperative activities with foreign countries, including African nations, to strengthen American preparedness against foreign animal and zoonotic diseases overseas that could harm the Nation's agricultural and public health sectors if they were to reach the United States.
 
 #### (g) Cybersecurity
 
@@ -122,7 +122,7 @@ Nothing in this section shall be construed to alter or affect the following prov
 
 &emsp;(1) Title V of the Foreign Relations Authorization Act, Fiscal Year 1979 (22 U.S.C. 2656a et seq.).
 
-&emsp;(2) Section 112b(c) of title 1.
+&emsp;(2) Section 112b(g) of title 1.
 
 &emsp;(3) Section 2651a(e)(2) of title 22.
 
@@ -135,10 +135,6 @@ Nothing in this section shall be construed to alter or affect the following prov
 There are authorized to be appropriated to carry out this section such sums as are necessary.
 
 (Pub. L. 107–296, title III, §317, as added Pub. L. 110–53, title XIX, §1901(b)(1), Aug. 3, 2007, 121 Stat. 505; amended Pub. L. 114–304, §2(a), Dec. 16, 2016, 130 Stat. 1519; Pub. L. 115–387, §2(f)(3), Dec. 21, 2018, 132 Stat. 5168; Pub. L. 117–263, div. E, title LIX, §5947(a)(3), Dec. 23, 2022, 136 Stat. 3481.)
-
-#### Amendment of Subsection (h)(2)
-
-<i>Pub. L. 117–263, div. E, title LIX, §5947(a)(3), (c), Dec. 23, 2022, 136 Stat. 3481, 3482, provided that, effective 270 days after Dec. 23, 2022, subsection (h)(2) of this section is amended by striking "Section 112b(c)" and inserting "Section 112b(g)". See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -176,7 +172,7 @@ Pub. L. 110–53, title XIX, §1901(a), Aug. 3, 2007, 121 Stat. 505, provided th
 
 &emsp;"(5) The United States and its allies in the global war on terrorism will mutually benefit from the sharing of technological expertise to combat domestic and international terrorism.
 
-&emsp;"(6) The establishment of an office to facilitate and support cooperative endeavors between and among government agencies, for-profit business entities, academic institutions, and nonprofit entities of theUnited States and its allies will safeguard lives and property worldwide against acts of terrorism and other high consequence events."
+&emsp;"(6) The establishment of an office to facilitate and support cooperative endeavors between and among government agencies, for-profit business entities, academic institutions, and nonprofit entities of the United States and its allies will safeguard lives and property worldwide against acts of terrorism and other high consequence events."
 
 #### Transparency of Funds
 

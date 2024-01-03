@@ -44,7 +44,7 @@ A drug or device—
 
 &emsp;(iv) Statutory or regulatory requirements that the labeling and promotion of drugs and devices must be in accordance with the approval of the drug or device.
 
-&emsp;(v) The valid marketing authorization system in such country or countries is equivalent to the systems in the countries described in clauses (i) and (ii) of subparagraph (A).
+&emsp;(v) The valid marketing authorization system in such country or countries is equivalentto the systems in the countries described in clauses (i) and (ii) of subparagraph (A).
 
 > The Secretary shall not delegate the authority granted under this subparagraph.
 

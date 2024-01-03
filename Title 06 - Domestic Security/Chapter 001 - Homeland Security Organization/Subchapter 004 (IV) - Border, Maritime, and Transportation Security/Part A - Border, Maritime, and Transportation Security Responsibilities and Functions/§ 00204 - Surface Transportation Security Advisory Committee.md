@@ -120,7 +120,7 @@ The Administrator of the Transportation Security Administration (referred to in 
 
 #### (ii) Classified information
 
-&emsp;&emsp;&emsp;Access to classified materials shall be managed in accordance with ExecutiveOrder 13526 of December 29, 2009 (75 Fed. Reg. 707), or any subsequent corresponding Executive order.
+&emsp;&emsp;&emsp;Access to classified materials shall be managed in accordance with Executive Order 13526 of December 29, 2009 (75 Fed. Reg. 707), or any subsequent corresponding Executive order.
 
 #### (C) Protections
 

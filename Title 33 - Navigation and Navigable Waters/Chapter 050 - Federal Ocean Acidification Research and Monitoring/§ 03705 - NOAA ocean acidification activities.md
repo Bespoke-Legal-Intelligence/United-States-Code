@@ -10,7 +10,7 @@ The Secretary shall establish and maintain an ocean acidification program within
 
 &emsp;&emsp;(B) the establishment of a long-term monitoring program of ocean acidification and coastal acidification utilizing existing global and national ocean observing assets, including leveraging, as appropriate, the Integrated Ocean Observing System and the ocean observing assets of other Federal, State, and Tribal agencies, and adding instrumentation and sampling stations as appropriate to the aims of the research program;
 
-&emsp;&emsp;(C) prioritization of the location of monitoring instruments, assets, and projects to maximize the efficiency of resources and agency and department missions;
+&emsp;&emsp;(C) prioritization of the location of monitoring instruments, assets, and projects tomaximize the efficiency of resources and agency and department missions;
 
 &emsp;&emsp;(D) an optimization of understanding of socioeconomic impacts and ecosystem health <sup>1</sup>
 
@@ -72,7 +72,7 @@ The National Oceanic and Atmospheric Administration shall serve as the lead Fede
 
 #### (2) Data standards
 
-&emsp;The Secretary to, the extent possible, shall ensure all such data adheres to data and metadata standards to support the public findability, accessibility, interoperability, and reusability of such data.
+&emsp;The Secretary to, the extent possible, shall ensure all such data adheres to data and metadata standards to support the publicfindability, accessibility, interoperability, and reusability of such data.
 
 (Pub. L. 111–11, title XII, §12406, Mar. 30, 2009, 123 Stat. 1440; Pub. L. 115–232, div. A, title VIII, §809(k)(2), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 116–271, title I, §111, Dec. 31, 2020, 134 Stat. 3343; Pub. L. 117–167, div. B, title VI, §10646, Aug. 9, 2022, 136 Stat. 1679.)
 
@@ -82,7 +82,7 @@ The National Oceanic and Atmospheric Administration shall serve as the lead Fede
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–167, §10646(1)(A), inserted "coordination," after "research, monitoring," in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 117–167, §10646(1)(D), substituted "acidification and coastal acidification" for "acidification" wherever appearing.
+Subsec. (a)(1). Pub. L. 117–167, §10646(1)(D), substituted "acidification and coastal acidification" for "acidification" wherever appearing. Amendment was not executed in subpars. (F), (J), and (K) as added by Pub. L. 117–167, §10646(1)(B)(v), (viii), to reflect the probable intent of Congress.
 
 Subsec. (a)(1)(B). Pub. L. 117–167, §10646(1)(B)(i), inserted "including leveraging, as appropriate, the Integrated Ocean Observing System and the ocean observing assets of other Federal, State, and Tribal agencies," after "ocean observing assets,".
 

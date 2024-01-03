@@ -20,11 +20,11 @@ No reduction of payments for net interest (all of major functional category 900)
 
 #### (1) Refundable income tax credits
 
-&emsp;Payments to individuals made pursuant to provisions of title 26 establishing refundable tax credits shall be exempt from reduction under any order issued under this part.
+&emsp;Payments to individuals made pursuant to provisions of title 26 establishing refundable tax credits shall be exempt from reduction under any order issued under this subchapter.
 
 #### (2) Certain elective payments
 
-&emsp;Payments made to taxpayers pursuant to elections under subsection (d) of section 48D of title 26, or amounts treated as payments which are made by taxpayers under paragraph (1) of such subsection, shall be exempt from reduction under any order issued under this part.
+&emsp;Payments made to taxpayers pursuant to elections under subsection (d) of section 48D of title 26, or amounts treated as payments which are made by taxpayers under paragraph (1) of such subsection, shall be exempt from reduction under any order issued under this subchapter.
 
 #### (e) Non-defense unobligated balances
 
@@ -356,7 +356,7 @@ The following programs shall be exempt from reduction under any order issued und
 
 #### (j) Split treatment programs
 
-Each of the following programs shall be exempt from any order under this subchapter tothe extent that the budgetary resources of such programs are subject to obligation limitations in appropriations bills:
+Each of the following programs shall be exempt from any order under this subchapter to the extent that the budgetary resources of such programs are subject to obligation limitations in appropriations bills:
 
 &emsp;Federal-Aid Highways (69–8083–0–7–401).
 
@@ -424,7 +424,7 @@ Pub. L. 111–139, §11(a), redesignated subsec. (i) as (j) relating to identifi
 
 <b>2006</b>—Subsec. (g)(1)(A). Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(10). See 1996 Amendment note below.
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–33, §10207(a), substituted "Veterans Insurance and Indemnities" for "Veterans Insurance and Indemnity", "Canteen Service Revolving Fund" for "Veterans' Canteen Service Revolving Fund", "(36–0120–0–1–701)" for "(36–0137–0–1–702)" initem relating to benefits under chapter 21 of title 38, "Compensation" for "Veterans' compensation", and "Pensions" for "Veterans' pensions" and inserted at end items relating to benefits under chapter 35 of title 38, assistance and services under chapter 31 of title 38, benefits under subchapters I, II, and III of chapter 37 of title 38, Loan Guaranty Program Account, and Direct Loan Program Account.
+<b>1997</b>—Subsec. (b). Pub. L. 105–33, §10207(a), substituted "Veterans Insurance and Indemnities" for "Veterans Insurance and Indemnity", "Canteen Service Revolving Fund" for "Veterans' Canteen Service Revolving Fund", "(36–0120–0–1–701)" for "(36–0137–0–1–702)" in item relating to benefits under chapter 21 of title 38, "Compensation" for "Veterans' compensation", and "Pensions" for "Veterans' pensions" and inserted at end items relating to benefits under chapter 35 of title 38, assistance and services under chapter 31 of title 38, benefits under subchapters I, II, and III of chapter 37 of title 38, Loan Guaranty Program Account, and Direct Loan Program Account.
 
 Subsec. (f). Pub. L. 105–33, §10207(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "Outlays for programs specified in paragraph (1) of section 907 of this title shall be subject to reduction only in accordance with the procedures established in section 901(a)(3)(C) and 906(b) of this title."
 
@@ -512,7 +512,7 @@ Pub. L. 105–33, §10207(c)(2)(B), substituted "Black Lung Disability Trust Fun
 
 Pub. L. 105–33, §10207(c)(2)(A), substituted "The following Federal retirement and disability accounts" for "The following budget accounts" in introductory provisions.
 
-Subsec. (g)(2). Pub. L. 105–33, §10207(c)(3)(E), struck out items "Credit union share insurance fund (25–4468–0–3–371);" and "Economic development revolving fund (13–4406–0–3–452);" after item relating to credit liquidating accounts, item "Export-Import Bank of the United States, Limitation of program activity (83–4027–0–3–155);" after item relating to energy security reserve (Synthetic Fuels Corporation), item "Federal Deposit Insurance Corporation (51–8419–0–8–371);" after item relating to Federal Crop Insurance Corporation fund, items "Federal Housing Administration fund (86–4070–0–3–371);", "Federal ship financing fund (69–4301–0–3–403);", and "Federal ship financing fund,fishing vessels (13–4417–0–3–376);" after item relating to Federal Emergency Management Agency National insurance development fund, items "Government National Mortgage Association, Guarantees of mortgage-backed securities (86–4238–0–3–371);" and "Health education loans (75–4307–0–3–553);" after item relating to geothermal resources development fund, item "Indian loan guarantee and insurance fund (14–4410–0–3–452);" after item relating to homeowners assistance fund, defense, and items "Railroad rehabilitation and improvement financing fund (69–4411–0–3–401);", "Rural development insurance fund (12–4155–0–3–452);", "Rural electric and telephone revolving fund (12–4230–8–3–271);", "Rural housing insurance fund (12–4141–0–3–371);", "Small Business Administration, Business loan and investment fund (73–4154–0–3–376);", "Small Business Administration, Lease guarantees revolving fund (73–4157–0–3–376);", "Small Business Administration, Pollution control equipment contract guarantee revolving fund (73–4147–0–3–376);", "Small Business Administration, Surety bond guarantees revolving fund (73–4156–0–3–376);", and "Department of Veterans Affairs, Loan guaranty revolving fund (36–4025–0–3–704);" after item relating to rail service assistance.
+Subsec. (g)(2). Pub. L. 105–33, §10207(c)(3)(E), struck out items "Credit union share insurance fund (25–4468–0–3–371);" and "Economic development revolving fund (13–4406–0–3–452);" after item relating to credit liquidating accounts, item "Export-Import Bank of the United States, Limitation of program activity (83–4027–0–3–155);" after item relating to energy security reserve (Synthetic Fuels Corporation), item "Federal Deposit Insurance Corporation (51–8419–0–8–371);" after item relating to Federal Crop Insurance Corporation fund, items "Federal Housing Administration fund (86–4070–0–3–371);", "Federal ship financing fund (69–4301–0–3–403);", and "Federal ship financing fund, fishing vessels (13–4417–0–3–376);" after item relating to Federal Emergency Management Agency National insurance development fund, items "Government National Mortgage Association, Guarantees of mortgage-backed securities (86–4238–0–3–371);" and "Health education loans (75–4307–0–3–553);" after item relating to geothermal resources development fund, item "Indian loan guarantee and insurance fund (14–4410–0–3–452);" after item relating to homeowners assistance fund, defense, and items "Railroad rehabilitation and improvement financing fund (69–4411–0–3–401);", "Rural development insurance fund (12–4155–0–3–452);", "Rural electric and telephone revolving fund (12–4230–8–3–271);", "Rural housing insurance fund (12–4141–0–3–371);", "Small Business Administration, Business loan and investment fund (73–4154–0–3–376);", "Small Business Administration, Lease guarantees revolving fund (73–4157–0–3–376);", "Small Business Administration, Pollution control equipment contract guarantee revolving fund (73–4147–0–3–376);", "Small Business Administration, Surety bond guarantees revolving fund (73–4156–0–3–376);", and "Department of Veterans Affairs, Loan guaranty revolving fund (36–4025–0–3–704);" after item relating to rail service assistance.
 
 Pub. L. 105–33, §10207(c)(3)(D), inserted item relating to credit liquidating accounts.
 
@@ -566,7 +566,7 @@ Pub. L. 101–73, §743(a)(1), inserted item relating to Director of the Office 
 
 Pub. L. 101–73, §743(a)(2), substituted items relating to Federal Deposit Insurance Corporation, Bank Insurance Fund; Federal Deposit Insurance Corporation, FSLIC Resolution Fund; and Federal Deposit Insurance Corporation, Savings Association Insurance Fund; for item relating to Federal Home Loan Bank Board.
 
-Pub. L. 101–73, §743(a)(3), substituted item relating to Federal Housing Finance Board for item relating to Federal Home Loan Bank Board, Federal Savings and Loan Insurance Corporation.
+Pub. L. 101–73, §743(a)(3), substituted item relating to Federal Housing Finance Board for item relating toFederal Home Loan Bank Board, Federal Savings and Loan Insurance Corporation.
 
 Pub. L. 101–73, §743(a)(4), inserted items relating to Resolution Funding Corporation and Resolution Trust Corporation after item relating to Postal service fund.
 
@@ -630,7 +630,7 @@ Pub. L. 99–509, title VII, §7002(b), Oct. 21, 1986, 100 Stat. 1949, provided 
 
 #### Soldiers' and Airmen's Home
 
-The Soldiers' and Airmen's Home, referred to in subsec. (g)(1)(A), was incorporated into the Armed Forces Retirement Home by section 411 of Title 24, Hospitals and Asylums.
+The Soldiers' and Airmen's Home, referred to in subsec. (g)(1)(A), was incorporated into the Armed ForcesRetirement Home by section 411 of Title 24, Hospitals and Asylums.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

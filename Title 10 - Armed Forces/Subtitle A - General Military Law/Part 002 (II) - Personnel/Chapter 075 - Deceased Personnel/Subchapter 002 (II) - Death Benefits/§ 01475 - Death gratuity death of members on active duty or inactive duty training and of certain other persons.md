@@ -60,7 +60,7 @@ In subsection (a), the word "receiving" is inserted for clarity. Clause (1) is s
 
 #### References in Text
 
-The Military Selective Service Act, referred to in subsec. (a)(5)(B), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
+The Military Selective Service Act, referred to in subsec. (a)(5)(B), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§3801 et seq.) of Title 50, War and National Defense.For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
 
 #### Amendments
 
@@ -146,7 +146,7 @@ Advocates for Gold Star Spouses and Other Dependents.—(1) Each Secretary of a 
 
 &emsp;"(B) Providing support to such spouses and dependents regarding such casualty assistance or receipt of such benefits.
 
-&emsp;"(C) Making reports to appropriate officers or officials in the Department of Defense or the military department concerned regarding resolution of such complaints, including recommendations regarding the settlement of claims with respect to such benefits, as appropriate.
+&emsp;"(C) Making reports to appropriate officers or officials in the Department of Defense or the military department concerned regarding resolution of suchcomplaints, including recommendations regarding the settlement of claims with respect to such benefits, as appropriate.
 
 &emsp;"(D) Performing such other actions as the Secretary of the military department concerned considers appropriate.
 
@@ -230,7 +230,7 @@ Elements of Policy.—The comprehensive policy developed under subsection (a) sh
 
 &emsp;"(4) The relief or transfer of casualty assistance officers, including notification to survivors and next of kin of the reassignment of such officers to other duties.
 
-&emsp;"(5) Centralized, short-term and long-term case-management procedures for casualty assistance byeach military department, including rapid access by survivors of military decedents and casualty assistance officers to expert case managers and counselors.
+&emsp;"(5) Centralized, short-term and long-term case-management procedures for casualty assistance by each military department, including rapid access by survivors of military decedents and casualty assistance officers to expert case managers and counselors.
 
 &emsp;"(6) The provision, through a computer accessible Internet website and other means and at no cost to survivors of military decedents, of personalized, integrated information on the benefits and financial assistance available to such survivors from the Federal Government.
 

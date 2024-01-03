@@ -18,7 +18,7 @@ Requirements.—Except as otherwise provided in this chapter or chapter 121 of t
 
 (c)
 
-Penalty.—Merchandise transported in violation of subsection (b) is liable to seizure by and forfeiture to the Government. Alternatively, an amount equal to the value of themerchandise (as determined by the Secretary of Homeland Security) or the actual cost of the transportation, whichever is greater, may be recovered from any person transporting the merchandise or causing the merchandise to be transported.
+Penalty.—Merchandise transported in violation of subsection (b) is liable to seizure by and forfeiture to the Government. Alternatively, an amount equal to the value of the merchandise (as determined by the Secretary of Homeland Security) or the actual cost of the transportation, whichever is greater, may be recovered from any person transporting the merchandise or causing the merchandise to be transported.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1632.)
 

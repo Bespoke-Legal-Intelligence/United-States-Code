@@ -1,6 +1,6 @@
 ### §57c–2. Reimbursement of expenses
 
-The Commission may accept payment or reimbursement, in cash or in kind, from a domesticor foreign law enforcement agency, or payment or reimbursement made on behalf of such agency, for expenses incurred by the Commission, its members, or employees in carrying out any activity pursuant to a statute administered by the Commission without regard to any other provision of law. Any such payments or reimbursements shall be considered a reimbursement to the appropriated funds of the Commission.
+The Commission may accept payment or reimbursement, in cash or in kind, from a domestic or foreign law enforcement agency, or payment or reimbursement made on behalf of such agency, for expenses incurred by the Commission, its members, or employees in carrying out any activity pursuant to a statute administered by the Commission without regard to any other provision of law. Any such payments or reimbursements shall be considered a reimbursement to the appropriated funds of the Commission.
 
 (Sept. 26, 1914, ch. 311, §26, as added Pub. L. 109–455, §11(2), Dec. 22, 2006, 120 Stat. 3381.)
 

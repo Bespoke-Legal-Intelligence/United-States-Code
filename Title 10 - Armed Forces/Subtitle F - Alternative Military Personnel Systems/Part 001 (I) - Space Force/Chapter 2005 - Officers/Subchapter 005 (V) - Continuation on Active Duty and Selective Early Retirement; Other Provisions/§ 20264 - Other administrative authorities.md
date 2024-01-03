@@ -1,0 +1,12 @@
+### §20264. Other administrative authorities
+
+The following provisions of this title shall apply to officers on the Space Force officer list in the same manner as to officers subject to those provisions:
+
+&emsp;(1) Section 14518, relating to continuation of officers to complete disciplinary action.
+
+&emsp;(2) Section 14519, relating to deferment of retirement or separation for medical reasons.
+
+&emsp;(3) Section 14704, relating to the selective early removal from the reserve active-status list.
+
+(Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 653.)
+

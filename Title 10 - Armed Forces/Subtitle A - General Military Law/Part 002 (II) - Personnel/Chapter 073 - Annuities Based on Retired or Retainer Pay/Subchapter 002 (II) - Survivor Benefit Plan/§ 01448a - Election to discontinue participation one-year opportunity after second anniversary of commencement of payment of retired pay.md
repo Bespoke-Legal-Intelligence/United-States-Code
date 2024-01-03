@@ -38,7 +38,7 @@ Notice to Affected Beneficiaries.—The Secretary concerned shall notify any for
 
 (g)
 
-Effective Date of Election.—An election under subsection (a) is effective as of the first day of the first calendar month following the month in which the election is received by the Secretary concerned.
+Effective Date of Election.—An election under subsection (a) is effective as of the first day of the first calendar month following themonth in which the election is received by the Secretary concerned.
 
 (h)
 

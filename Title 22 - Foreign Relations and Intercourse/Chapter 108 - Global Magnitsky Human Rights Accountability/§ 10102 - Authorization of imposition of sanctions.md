@@ -126,7 +126,7 @@ In this section, the term "appropriate congressional committees" means—
 
 #### References in Text
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(2)(A), (C)(ii), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(2)(A), (C)(ii), is title II of Pub.L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 Section 16 of the Export Administration Act of 1979, referred to in subsec. (b)(2)(C)(ii), is section 16 of Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 533, which was classified to section 4618 of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 

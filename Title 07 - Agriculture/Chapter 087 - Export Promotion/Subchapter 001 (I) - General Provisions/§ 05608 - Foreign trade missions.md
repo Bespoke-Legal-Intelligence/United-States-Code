@@ -42,7 +42,7 @@
 
 #### (2) Goals
 
-&emsp;Not later than 90 days after December 20, 2018, the Secretary shall establish goals formeasuring, in an objective and quantifiable format, the extent to which Indian Tribes and Tribal agricultural and food products are included in the trade-related activities of the Department of Agriculture.
+&emsp;Not later than 90 days after December 20, 2018, the Secretary shall establish goals for measuring, in an objective and quantifiable format, the extent to which Indian Tribes and Tribal agricultural and food products are included in the trade-related activities of the Department of Agriculture.
 
 (Pub. L. 115–334, title III, §3312, Dec. 20, 2018, 132 Stat. 4623.)
 

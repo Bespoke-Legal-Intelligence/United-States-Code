@@ -82,7 +82,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–113 redesignated pars. (2), (3), (4), (5), (6), (8), and (9) as pars. (1), (2), (3), (4), (5), (6), and (7), respectively, in par. (1)(A)(i) struck out references to beef and pork, in par. (1)(A)(ii) struck out references to ground beef and ground pork, and struck out former pars. (1) and (7), which defined "beef" and "pork", respectively .
+<b>2015</b>—Pub. L. 114–113 redesignated pars. (2), (3), (4), (5), (6), (8), and (9) as pars. (1), (2), (3), (4), (5), (6), and (7),respectively, in par. (1)(A)(i) struck out references to beef and pork, in par. (1)(A)(ii) struck out references to ground beef and ground pork, and struck out former pars. (1) and (7), which defined "beef" and "pork", respectively .
 
 <b>2014</b>—Par. (2)(A)(i). Pub. L. 113–79, §12104(b)(1)(A), substituted "pork, and venison" for "and pork".
 

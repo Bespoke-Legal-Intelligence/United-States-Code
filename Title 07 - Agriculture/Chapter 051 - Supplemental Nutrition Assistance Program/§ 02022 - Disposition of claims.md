@@ -120,7 +120,7 @@
 
 The amount of an overissuance of benefits, as determined under subsection (b)(1), that has not been recovered pursuant to such subsection may be recovered from Federal pay (including salaries and pensions) as authorized by section 5514 of title 5 or a Federal income tax refund as authorized by section 3720A of title 31.
 
-(Pub. L. 88–525, §13, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91Stat. 974; Pub. L. 97–35, title I, §113, Aug. 13, 1981, 95 Stat. 363; Pub. L. 97–253, title I, §§177, 178, Sept. 8, 1982, 96 Stat. 781, 782; Pub. L. 99–198, title XV, §§1533–1535(a), Dec. 23, 1985, 99 Stat. 1583; Pub. L. 100–435, title VI, §§601, 602, Sept. 19, 1988, 102 Stat. 1674; Pub. L. 101–624, title XVII, §1746, Nov. 28, 1990, 104 Stat. 3796; Pub. L. 102–237, title IX, §911, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §§13941(b), 13951(a), Aug. 10, 1993, 107 Stat. 676, 677; Pub. L. 104–193, title VIII, §844(a), Aug. 22, 1996, 110 Stat. 2332; Pub. L. 107–171, title IV, §4118(b), May 13, 2002, 116 Stat. 321; Pub. L. 110–234, title IV, §§4115(b)(9), 4133, May 22, 2008, 122 Stat. 1107, 1116; Pub. L. 110–246, §4(a), title IV, §§4115(b)(9), 4133, June 18, 2008, 122 Stat. 1664, 1869, 1877; Pub. L. 113–79, title IV, §4020(b)(1), Feb. 7, 2014, 128 Stat. 798.)
+(Pub. L. 88–525, §13, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–35, title I, §113, Aug. 13, 1981, 95 Stat. 363; Pub. L. 97–253, title I, §§177, 178, Sept. 8, 1982, 96 Stat. 781, 782; Pub. L. 99–198, title XV, §§1533–1535(a), Dec. 23, 1985, 99 Stat. 1583; Pub. L. 100–435, title VI, §§601, 602, Sept. 19, 1988, 102 Stat. 1674; Pub. L. 101–624, title XVII, §1746, Nov. 28, 1990, 104 Stat. 3796; Pub. L. 102–237, title IX, §911, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §§13941(b), 13951(a), Aug. 10, 1993, 107 Stat. 676, 677; Pub. L. 104–193, title VIII, §844(a), Aug. 22, 1996, 110 Stat. 2332; Pub. L. 107–171, title IV, §4118(b), May 13, 2002, 116 Stat. 321; Pub. L. 110–234, title IV, §§4115(b)(9), 4133, May 22, 2008, 122 Stat. 1107, 1116; Pub. L. 110–246, §4(a), title IV, §§4115(b)(9), 4133, June 18, 2008, 122 Stat. 1664, 1869, 1877; Pub. L. 113–79, title IV, §4020(b)(1), Feb. 7, 2014, 128 Stat. 798.)
 
 #### <b>Editorial Notes</b>
 
@@ -180,7 +180,7 @@ Amendment by sections 4115(b)(9) and 4133 of Pub. L. 110–246 effective Oct. 1,
 
 Pub. L. 107–171, title IV, §4118(e), May 13, 2002, 116 Stat. 321, provided that: "The amendments made by this section \[amending this section and sections 2025, 2027, and 2031 of this title\] shall not apply with respect to any sanction, appeal, new investment agreement, or other action by the Secretary of Agriculture or a State agency that is based on a payment error rate calculated for any fiscal year before fiscal year 2003."
 
-Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
+Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L.107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 102–237 effective Dec. 13, 1991, see section 1101(d)(4) o
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–435 effective Oct. 1, 1985, with respect to claims under section 2025(c) of this titlefor quality control review periods after such date, and provisions of this section that relate to claims against State agencies and that were in effect for any quality control review period or periods through fiscal year 1985 to remain in effect for claims arising with respect to such periods, see section 701(b)(5)(B), (D)(i) of Pub. L. 100–435, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 100–435 effective Oct. 1, 1985, with respect to claims under section 2025(c) of this title for quality control review periods after such date, and provisions of this section that relate to claims against State agencies and that were in effect for any quality control review period or periods through fiscal year 1985 to remain in effect for claims arising with respect to such periods, see section 701(b)(5)(B), (D)(i) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1982 Amendment
 

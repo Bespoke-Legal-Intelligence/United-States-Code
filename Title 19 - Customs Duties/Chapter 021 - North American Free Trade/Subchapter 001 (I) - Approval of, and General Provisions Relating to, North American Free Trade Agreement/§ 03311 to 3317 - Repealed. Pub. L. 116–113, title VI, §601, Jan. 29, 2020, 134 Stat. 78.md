@@ -44,7 +44,7 @@ Sec. 3. <i>Implementation of Safeguard Provisions for Textile and Apparel Goods<
 
 Sec. 4. <i>Publication of Proposed Rules regarding Technical Regulations and Sanitary and Phytosanitary Measures</i>. (a) In accordance with Articles 718 and 909 of the NAFTA, each agency subject to the provisions of the Administrative Procedure Act, as amended (5 U.S.C. 551 <i>et seq</i>.), shall, in applying section 553 of title 5, United States Code, with respect to any proposed Federal technical regulation or any Federal sanitary or phytosanitary measure of general application, other than a regulation issued pursuant to section 104(a) of the NAFTA Implementation Act \[former 19 U.S.C. 3314(a)\], publish or serve notice of such regulation or measure not less than 75 days before the comment due date, except:
 
-&emsp;(1) in the case of a technical regulation relating to perishable goods, in which case the agency shall, tothe greatest extent practicable, publish or serve notice at least 30 days prior to adoption of such regulation;
+&emsp;(1) in the case of a technical regulation relating to perishable goods, in which case the agency shall, to the greatest extent practicable, publish or serve notice at least 30 days prior to adoption of such regulation;
 
 &emsp;(2) in the case of a technical regulation, where the United States considers it necessary to address an urgent problem relating to safety or to protection of human, animal or plant life or health, the environment or consumers; or
 

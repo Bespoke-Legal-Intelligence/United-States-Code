@@ -6,7 +6,23 @@ Program Required.—
 
 &emsp;(1)
 
-In general.—Each State shall have a highway safety program, approved by the Secretary, that is designed to reduce traffic accidents and the resulting deaths, injuries, and property damage.
+In general.—Each State shall have in effect a highway safety program that—
+
+&emsp;&emsp;(i) is designed to reduce—
+
+&emsp;&emsp;&emsp;(I) traffic crashes; and
+
+&emsp;&emsp;&emsp;(II) deaths, injuries, and property damage resulting from those crashes;
+
+&emsp;&emsp;(ii) includes—
+
+&emsp;&emsp;&emsp;(I) an approved, current, triennial highway safety plan in accordance with subsection (k); and
+
+&emsp;&emsp;&emsp;(II) an approved grant application under subsection (l) for the fiscal year;
+
+&emsp;&emsp;(iii) demonstrates compliance with the applicable administrative requirements of subsection (b)(1); and
+
+&emsp;&emsp;(iv) is approved by the Secretary.
 
 &emsp;(2)
 
@@ -16,19 +32,31 @@ Uniform guidelines.—Programs required under paragraph (1) shall comply with un
 
 &emsp;&emsp;&emsp;(i) to reduce injuries and deaths resulting from motor vehicles being driven in excess of posted speed limits;
 
-&emsp;&emsp;&emsp;(ii) to encourage the proper use of occupant protection devices (including the use of safety belts and child restraint systems) by occupants of motor vehicles;
+&emsp;&emsp;&emsp;(ii) to encourage the proper use of safety belts by occupants of motor vehicles;
 
-&emsp;&emsp;&emsp;(iii) to reduce injuries and deaths resulting from persons driving motor vehicles while impaired by alcohol or a controlled substance;
+&emsp;&emsp;&emsp;(iii) to encourage more widespread and proper use of child restraints, with an emphasis on underserved populations;
 
-&emsp;&emsp;&emsp;(iv) to prevent accidents and reduce injuries and deaths resulting from accidents involving motor vehicles and motorcycles;
+&emsp;&emsp;&emsp;(iv) to reduce injuries and deaths resulting from persons driving motor vehicles while impaired by alcohol or a controlled substance;
 
-&emsp;&emsp;&emsp;(v) to reduce injuries and deaths resulting from accidents involving school buses;
+&emsp;&emsp;&emsp;(v) to prevent crashes and reduce injuries and deaths resulting from crashes involving motor vehicles and motorcycles;
 
-&emsp;&emsp;&emsp;(vi) to reduce accidents resulting from unsafe driving behavior (including aggressive or fatigued driving and distracted driving arising from the use of electronic devices in vehicles);
+&emsp;&emsp;&emsp;(vi) to reduce injuries and deaths resulting from crashes involving school buses;
 
-&emsp;&emsp;&emsp;(vii) to improve law enforcement services in motor vehicle accident prevention, traffic supervision, and post-accident procedures; and
+&emsp;&emsp;&emsp;(vii) to reduce crashes resulting from unsafe driving behavior (including aggressive or fatigued driving and distracted driving arising from the use of electronic devices in vehicles);
 
-&emsp;&emsp;&emsp;(viii) to increase driver awareness of commercial motor vehicles to prevent crashes and reduce injuries and fatalities;
+&emsp;&emsp;&emsp;(viii) to improve law enforcement services in motor vehicle crash prevention, traffic supervision, and post-crash procedures;
+
+&emsp;&emsp;&emsp;(ix) to increase driver awareness of commercial motor vehicles to prevent crashes and reduce injuries and fatalities;
+
+&emsp;&emsp;&emsp;(x) to reduce crashes caused by driver misuse or misunderstanding of new vehicle technology;
+
+&emsp;&emsp;&emsp;(xi) to increase vehicle recall awareness;
+
+&emsp;&emsp;&emsp;(xii) to provide to the public information relating to the risks of child heatstroke death when left unattended in a motor vehicle after the motor is deactivated by the operator;
+
+&emsp;&emsp;&emsp;(xiii) to reduce injuries and deaths resulting from the failure by drivers of motor vehicles to move to another traffic lane or reduce the speed of the vehicle when law enforcement, fire service, emergency medical services, or other emergency or first responder vehicles are stopped or parked on or next to a roadway with emergency lights activated; and
+
+&emsp;&emsp;&emsp;(xiv) to prevent crashes, injuries, and deaths caused by unsecured vehicle loads;
 
 &emsp;&emsp;(B) improve driver performance, including—
 
@@ -42,9 +70,9 @@ Uniform guidelines.—Programs required under paragraph (1) shall comply with un
 
 &emsp;&emsp;(D) include provisions for—
 
-&emsp;&emsp;&emsp;(i) an effective record system of accidents (including resulting injuries and deaths);
+&emsp;&emsp;&emsp;(i) an effective record system of crashes (including resulting injuries and deaths);
 
-&emsp;&emsp;&emsp;(ii) accident investigations to determine the probable causes of accidents, injuries, and deaths;
+&emsp;&emsp;&emsp;(ii) crash investigations to determine the probable causes of crashes, injuries, and deaths;
 
 &emsp;&emsp;&emsp;(iii) vehicle registration, operation, and inspection; and
 
@@ -52,35 +80,49 @@ Uniform guidelines.—Programs required under paragraph (1) shall comply with un
 
 &emsp;&emsp;(E) to the extent determined appropriate by the Secretary, are applicable to federally administered areas where a Federal department or agency controls the highways or supervises traffic operations.
 
+&emsp;(3)
+
+Additional considerations.—A State that has legalized medicinal or recreational marijuana shall take into consideration implementing programs in addition to the programs described in paragraph (2)(A)—
+
+&emsp;&emsp;(A) to educate drivers regarding the risks associated with marijuana-impaired driving; and
+
+&emsp;&emsp;(B) to reduce injuries and deaths resulting from individuals driving motor vehicles while impaired by marijuana.
+
 (b)
 
 Administration of State Programs.—
 
 &emsp;(1)
 
-Administrative requirements.—The Secretary may not approve a State highway safety program under this section which does not—
+Administrative requirements.—The Secretary shall not approve a State highway safety program under this section which does not—
 
 &emsp;&emsp;(A) provide that the Governor of the State shall be responsible for the administration of the program through a State highway safety agency which shall have adequate powers and be suitably equipped and organized to carry out, to the satisfaction of the Secretary, such program;
 
-&emsp;&emsp;(B) authorize political subdivisions of the State to carry out local highway safety programs within their jurisdictions as a part of the State highway safety program if such local highway safety programs are approved by the Governor and are in accordance with the minimum standards established by the Secretary under this section;
+&emsp;&emsp;(B) provide for a comprehensive, data-driven traffic safety program that results from meaningful public participation and engagement from affected communities, particularly those most significantly impacted by traffic crashes resulting in injuries and fatalities;
 
-&emsp;&emsp;(C) except as provided in paragraph (2), provide that at least 40 percent of all Federal funds apportioned under this section to the State for any fiscal year will be expended by the political subdivisions of the State, including Indian tribal governments, in carrying out local highway safety programs authorized in accordance with subparagraph (B);
+&emsp;&emsp;(C) except as provided in paragraph (2), provide that at least 40 percent of all Federal funds apportioned under this section to the State for any fiscal year will be expended by the political subdivisions of the State, including Indian tribal governments, in carrying out local highway safety programs;
 
-&emsp;&emsp;(D) provide adequate and reasonable access for the safe and convenient movement of individuals with disabilities, including those in wheelchairs, across curbs constructed or replaced on or after July 1, 1976, at all pedestrian crosswalks throughout the State;
+&emsp;&emsp;(D) provide adequate and reasonable access for the safe and convenient movement of individuals, including those with disabilities and those in wheelchairs, across curbs constructed or replaced on or after July 1, 1976, at all pedestrian crosswalks throughout the State;
 
-&emsp;&emsp;(E) beginning on the first day of the first fiscal year after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012 for which a State submits its highway safety plan under subsection (k), provide for a data-driven traffic safety enforcement program to prevent traffic violations, crashes, and crash fatalities and injuries in areas most at risk for such incidents, to the satisfaction of the Secretary;
+&emsp;&emsp;(E) as part of a comprehensive program, support—
 
-&emsp;&emsp;(F) provide satisfactory assurances that the State will implement activities in support of national highway safety goals to reduce motor vehicle related fatalities thatalso reflect the primary data-related crash factors within a State as identified by the State highway safety planning process, including—
+&emsp;&emsp;&emsp;(i) data-driven traffic safety enforcement programs that foster effective community collaboration to increase public safety; and
 
-&emsp;&emsp;&emsp;(i) national law enforcement mobilizations and high-visibility law enforcement mobilizations coordinated by the Secretary;
+&emsp;&emsp;&emsp;(ii) data collection and analysis to ensure transparency, identify disparities in traffic enforcement, and inform traffic enforcement policies, procedures, and activities; and
+
+&emsp;&emsp;(F) provide satisfactory assurances that the State will implement activities in support of national highway safety goals to reduce motor vehicle related fatalities that also reflect the primary data-related crash factors within a State as identified by the State highway safety planning process, including—
+
+&emsp;&emsp;&emsp;(i) national, high-visibility law enforcement mobilizations coordinated by the Secretary;
 
 &emsp;&emsp;&emsp;(ii) sustained enforcement of statutes addressing impaired driving, occupant protection, and driving in excess of posted speed limits;
 
 &emsp;&emsp;&emsp;(iii) an annual statewide safety belt use survey in accordance with criteria established by the Secretary for the measurement of State safety belt use rates to ensure that the measurements are accurate and representative;
 
-&emsp;&emsp;&emsp;(iv) development of statewide data systems to provide timely and effective data analysis to support allocation of highway safety resources; and
+&emsp;&emsp;&emsp;(iv) development of statewide data systems to provide timely and effective data analysis to support allocation of highway safety resources;
 
-&emsp;&emsp;&emsp;(v) ensuring that the State will coordinate its highway safety plan, data collection, and information systems with the State strategic highway safety plan (as defined in section 148(a)).
+&emsp;&emsp;&emsp;(v) ensuring that the State will coordinate its highway safety plan, data collection, and information systems with the State strategic highway safety plan (as defined in section 148(a)); and
+
+&emsp;&emsp;&emsp;(vi) unless the State highway safety program is developed by American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the United States Virgin Islands, participation in the Fatality Analysis Reporting System.
 
 &emsp;(2)
 
@@ -92,15 +134,107 @@ Use of Funds.—
 
 &emsp;(1)
 
-In general.—Funds authorized to be appropriated to carry out this section shall be used to aid the States to conduct the highway safety programs approved in accordance with subsection (a), including development and implementation of manpower training programs, and of demonstration programs that the Secretary determines will contribute directly to the reduction of accidents, and deaths and injuries resulting therefrom.
+Use for state activities.—
+
+&emsp;&emsp;(A)
+
+In general.—The funds authorized to be appropriated to carry out this section shall be used to aid the States to conduct the highway safety programs approved in accordance with subsection (a), including development and implementation of manpower training programs, and of demonstration programs that the Secretary determines will contribute directly to the reduction of crashes, and deaths and injuries resulting therefrom.
+
+&emsp;&emsp;(B)
+
+Neighboring states.—A State, acting in cooperation with any neighboring State, may use funds provided under this section for a highway safety program that may confer a benefit on the neighboring State.
 
 &emsp;(2)
 
-Apportionment.—Except for amounts identified in section 403(f), funds described in paragraph (1) shall be apportioned 75 per centum in the ratio which the population of each State bears to the total population of all the States, as shown by the latest available Federal census, and 25 per centum in the ratio which the public road mileage in each State bears to the total public road mileage in all States. For the purposes of this subsection, a "public road" means any road under the jurisdiction of and maintained by a public authority and open to public travel. Public road mileage as used in this subsection shall be determined as of the end of the calendar year preceding the year in which the funds are apportioned and shall be certified to by the Governor of the State and subject to approval by the Secretary. The annual apportionment to each State shall not be less than three-quarters of 1 percent of the total apportionment, except that the apportionment to the Secretary of the Interior shall not be less than 2 percent of the total apportionment and the apportionments to the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall not be less than one-quarter of 1 per centum of the total apportionment. A highway safety program approved by the Secretary shall not include any requirement that a State implement such a program by adopting or enforcing any law, rule, or regulation based on a guideline promulgated by the Secretary under this section requiring any motorcycle operator eighteen years of age or older or passenger eighteen years of age or older to wear a safety helmet when operating or riding a motorcycle on the streets and highways of that State. Implementation of a highway safety program under this section shall not be construed to require the Secretary to require compliance with every uniform guideline, or with every element of every uniform guideline, in every State. A State may use the funds apportioned under this section, in cooperation with neighboring States, for highway safety programs or related projects that may confer benefits on such neighboring States. Funds apportioned under this section to any State, that does not have a highway safety program approved by the Secretary or that is not implementing an approved program, shall be reduced by amounts equal to not less than 20 percent of the amounts that would otherwise be apportioned to the State under this section, until such time as the Secretary approves such program or determines that the State is implementing an approved program, as appropriate. The Secretary shall consider the gravity of the State's failure to have or implement an approved program in determining the amount of the reduction.
+Apportionment to states.—
+
+&emsp;&emsp;(A)
+
+Definition of public road.—In this paragraph, the term "public road" means any road that is—
+
+&emsp;&emsp;&emsp;(i) subject to the jurisdiction of, and maintained by, a public authority; and
+
+&emsp;&emsp;&emsp;(ii) held open to public travel.
+
+&emsp;&emsp;(B)
+
+Apportionment.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Except for the amounts identified in section 403(f) and the amounts subject to subparagraph (C), of the funds made available under this section—
+
+&emsp;&emsp;&emsp;&emsp;(I) 75 percent shall be apportioned to each State based on the ratio that, as determined by the most recent decennial census—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the population of the State; bears to
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the total population of all States; and
+
+&emsp;&emsp;&emsp;&emsp;(II) 25 percent shall be apportioned to each State based on the ratio that, subject to clause (ii)—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the public road mileage in each State; bears to
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the total public road mileage in all States.
+
+&emsp;&emsp;&emsp;(ii)
+
+Calculation.—For purposes of clause (i)(II), public road mileage shall be—
+
+&emsp;&emsp;&emsp;&emsp;(I) determined as of the end of the calendar year preceding the year during which the funds are apportioned;
+
+&emsp;&emsp;&emsp;&emsp;(II) certified by the Governor of the State; and
+
+&emsp;&emsp;&emsp;&emsp;(III) subject to approval by the Secretary.
+
+&emsp;&emsp;(C)
+
+Minimum apportionments.—The annual apportionment under this section to—
+
+&emsp;&emsp;&emsp;(i) each State shall be not less than ¾ of 1 percent of the total apportionment;
+
+&emsp;&emsp;&emsp;(ii) the Secretary of the Interior shall be not less than 2 percent of the total apportionment; and
+
+&emsp;&emsp;&emsp;(iii) the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than ¼ of 1 percent of the total apportionment.
+
+&emsp;&emsp;(D)
+
+Penalty.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The funds apportioned under this section to a State that does not have approved or in effect a highway safety program described in subsection (a)(1) shall be reduced by an amount equal to not less than 20 percent of the amount that would otherwise be apportioned to the State under this section, until the date on which the Secretary, as applicable—
+
+&emsp;&emsp;&emsp;&emsp;(I) approves such a highway safety program; or
+
+&emsp;&emsp;&emsp;&emsp;(II) determines that the State is implementing such a program.
+
+&emsp;&emsp;&emsp;(ii)
+
+Factor for consideration.—In determining the amount of the reduction in funds apportioned to a State under this subparagraph, the Secretary shall take into consideration the gravity of the failure by the State to secure approval, or to implement, a highway safety program described in subsection (a)(1).
+
+&emsp;&emsp;(E)
+
+Limitations.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—A highway safety program approved by the Secretary shall not include any requirement that a State shall implement such a program by adopting or enforcing any law, rule, or regulation based on a guideline promulgated by the Secretary under this section requiring any motorcycle operator aged 18 years or older, or a motorcycle passenger aged 18 years or older, to wear a safety helmet when operating or riding a motorcycle on the streets and highways of that State.
+
+&emsp;&emsp;&emsp;(ii)
+
+Effect of guidelines.—Nothing in this section requires a State highway safety program to require compliance with every uniform guideline, or with every element of every uniform guideline, in every State.
 
 &emsp;(3)
 
-Reapportionment.—The Secretary shall promptly apportion the funds withheld from a State's apportionment to the State if the Secretary approves the State's highway safety program or determines that the State has begun implementing an approved program, as appropriate, not later than July 31st of the fiscal year for which the funds were withheld. If the Secretary determines that the State did not correct its failure within such period, the Secretary shall reapportion the withheld funds to the other States in accordance with the formula specified in paragraph (2) not later than the last day of the fiscal year.
+Reapportionment.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall promptly apportion to a State any funds withheld from the State under paragraph (2)(D) if the Secretary makes an approval or determination, as applicable, described in that paragraph by not later than July 31 of the fiscal year for which the funds were withheld.
+
+&emsp;&emsp;(B)
+
+Continuing state failure.—If the Secretary determines that a State fails to correct a failure to have approved or in effect a highway safety program described in subsection (a)(1) by the date described in subparagraph (A), the Secretary shall reapportion the funds withheld from that State under paragraph (2)(D) for the fiscal year to the other States in accordance with the formula described in paragraph (2)(B) by not later than the last day of the fiscal year.
 
 &emsp;(4)
 
@@ -108,25 +242,19 @@ Automated traffic enforcement systems.—
 
 &emsp;&emsp;(A)
 
-Prohibition.—A State may not expend funds apportioned to that State under this section to carry out a program to purchase, operate, or maintain an automated traffic enforcement system.
+Automated traffic enforcement system defined.—In this paragraph, the term "automated traffic enforcement system" means any camera which captures an image of a vehicle for the purposes only of red light and speed enforcement, and does not include hand held radar and other devices operated by law enforcement officers to make an on-the-scene traffic stop, issue a traffic citation, or other enforcement action at the time of the violation.
 
 &emsp;&emsp;(B)
 
-Automated traffic enforcement system defined.—In this paragraph, the term "automated traffic enforcement system" means any camera which captures an image of a vehicle for the purposes only of red light and speed enforcement, and does not include hand held radar and other devices operated by law enforcement officers to make an on-the-scene traffic stop, issue a traffic citation, or other enforcement action at the time of the violation.
+Prohibition.—A State may not expend funds apportioned to that State under this section to carry out a program to purchase, operate, or maintain an automated traffic enforcement system.
 
 &emsp;&emsp;(C)
 
-Survey.—A State in which an automated traffic enforcement system is installed shall expend funds apportioned to that State under this section to conduct a biennial survey that the Secretary shall make publicly available through the Internet Web site of the Department of Transportation that includes—
+Special rule for school and work zones.—Notwithstanding subparagraph (B), a State may expend funds apportioned to the State under this section to carry out a program to purchase, operate, or maintain an automated traffic enforcement system in a work zone or school zone.
 
-&emsp;&emsp;&emsp;(i) a list of automated traffic enforcement systems in the State;
+&emsp;&emsp;(D)
 
-&emsp;&emsp;&emsp;(ii) adequate data to measure the transparency, accountability, and safety attributes of each automated traffic enforcement system; and
-
-&emsp;&emsp;&emsp;(iii) a comparison of each automated traffic enforcement system with—
-
-&emsp;&emsp;&emsp;&emsp;(I) Speed Enforcement Camera Systems Operational Guidelines (DOT HS 810 916, March 2008); and
-
-&emsp;&emsp;&emsp;&emsp;(II) Red Light Camera Systems Operational Guidelines (FHWA–SA–05–002, January 2005).
+Automated traffic enforcement system guidelines.—An automated traffic enforcement system installed pursuant to subparagraph (C) shall comply with such guidelines applicable to speed enforcement camera systems and red light camera systems as are established by the Secretary.
 
 (d) All provisions of chapter 1 of this title that are applicable to National Highway System highway funds other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the highway safety funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section, and except that the aggregate of all expenditures made during any fiscal year by a State and its political subdivisions (exclusive of Federal funds) for carrying out the State highway safety program (other than planning and administration) shall be available for the purpose of crediting such State during such fiscal year for the non-Federal share of the cost of any project under this section (other than one for planning or administration) without regard to whether such expenditures were actually made in connection with such project and except that, in the case of a local highway safety program carried out by an Indian tribe, if the Secretary is satisfied that an Indian tribe does not have sufficient funds available to meet the non-Federal share of the cost of such program, he may increase the Federal share of the cost thereof payable under this Act to the extent necessary. In applying such provisions of chapter 1 in carrying out this section the term "State transportation department" as used in such provisions shall mean the Governor of a State for the purposes of this section.
 
@@ -174,61 +302,79 @@ Law Enforcement Vehicular Pursuit Training.—A State shall actively encourage a
 
 (k)
 
-Highway Safety Plan and Reporting Requirements.—
+Triennial Highway Safety Plan.—
 
 &emsp;(1)
 
-In general.—With respect to fiscal year 2014, and each fiscal year thereafter, the Secretary shall require each State, as a condition of the approval of the State's highway safety program for that fiscal year, to develop and submit to the Secretary for approval a highway safety plan that complies with the requirements under this subsection.
+In general.—For fiscal year 2024, and not less frequently than once every 3 fiscal years thereafter, the Secretary shall require each State, as a condition of the approval of the State's highway safety program for the 3 fiscal years covered by the plan, to develop and submit to the Secretary for approval a triennial highway safety plan that complies with the requirements under this subsection.
 
 &emsp;(2)
 
-Timing.—Each State shall submit to the Secretary the highway safety plan not later than July 1st of the fiscal year preceding the fiscal year to which the plan applies.
+Timing.—Each State shall submit to the Secretary a triennial highway safety plan by not later than July 1 of the fiscal year preceding the first fiscal year covered by the plan.
 
 &emsp;(3)
 
-Electronic submission.—The Secretary, in coordination with the Governors Highway Safety Association, shall develop procedures to allow States to submit highway safety plans under this subsection, including any attachments to the plans, in electronic form.
+Electronic submission.—The Secretary, in coordination with the Governors Highway Safety Association, shall develop procedures to allow States to submit triennial highway safety plans under this subsection, including any attachments to the plans, in electronic form.
 
 &emsp;(4)
 
-Contents.—State highway safety plans submitted under paragraph (1) shall include—
+Contents.—Each State triennial highway safety plan submitted under paragraph (1) shall include, with respect to the 3 fiscal years covered by the plan, based on the information available on the date of submission under paragraph (2)—
 
 &emsp;&emsp;(A) performance measures required by the Secretary or otherwise necessary to support additional State safety goals, including—
 
 &emsp;&emsp;&emsp;(i) documentation of current safety levels for each performance measure;
 
-&emsp;&emsp;&emsp;(ii) quantifiable annual performance targets for each performance measure; and
+&emsp;&emsp;&emsp;(ii) quantifiable performance targets that demonstrate constant or improved performance for each performance measure; and
 
 &emsp;&emsp;&emsp;(iii) a justification for each performance target, that explains why each target is appropriate and evidence-based;
 
-&emsp;&emsp;(B) a strategy for programming funds apportioned to the State under this section on projects and activities that will allow the State to meet the performance targets described in subparagraph (A);
+&emsp;&emsp;(B) a countermeasure strategy for programming funds under this section for projects that will allow the State to meet the performance targets described in subparagraph (A), including a description—
+
+&emsp;&emsp;&emsp;(i) that demonstrates the link between the effectiveness of each proposed countermeasure strategy and those performance targets; and
+
+&emsp;&emsp;&emsp;(ii) of the manner in which each countermeasure strategy is informed by uniform guidelines issued by the Secretary;
 
 &emsp;&emsp;(C) data and data analysis supporting the effectiveness of proposed countermeasures;
 
-&emsp;&emsp;(D) a description of any Federal, State, local, or private funds that the State plans to use, in addition to funds apportioned to the State under this section, to carry out the strategy described in subparagraph (B);
+&emsp;&emsp;(D) a description of any Federal funds that the State plans to use, in addition to funds apportioned to the State under this section, to carry out the strategy described in subparagraph (B); and
 
-&emsp;&emsp;(E) for the fiscal year preceding the fiscal year to which the plan applies, a report on the State's success in meeting State safety goals and performance targets set forth in the previous year's highway safety plan; and
-
-&emsp;&emsp;(F) an application for any additional grants available to the State under this chapter.
+&emsp;&emsp;(E) a report on the State's success in meeting State safety goals and performance targets set forth in the most recently submitted highway safety plan.
 
 &emsp;(5)
 
-Performance measures.—For the first highway safety plan submitted under this subsection, the performance measures required by the Secretary under paragraph (3)(A) shall be limited to those developed by the National Highway Traffic Safety Administration and the Governor's Highway Safety Association and described in the report, "Traffic Safety Performance Measures for States and Federal Agencies" (DOT HS 811 025). For subsequent highway safety plans, the Secretary shall coordinate with the Governor's Highway Safety Association in making revisions to the set of required performance measures.
+Performance measures.—The Secretary shall develop minimum performance measures under paragraph (4)(A) in consultation with the Governors Highway Safety Association.
 
 &emsp;(6)
 
-Review of highway safety plans.—
+Review of triennial highway safety plans.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 45 days after the date on which a State's highway safety plan is received by the Secretary, the Secretary shall review and approve or disapprove the plan.
+In general.—Except as provided in subparagraph (B), the Secretary shall review and approve or disapprove a triennial highway safety plan of a State by not later than 60 days after the date on which the plan is received by the Secretary.
 
 &emsp;&emsp;(B)
+
+Additional information.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The Secretary may request a State to submit to the Secretary such additional information as the Secretary determines to be necessary for review of the triennial highway safety plan of the State.
+
+&emsp;&emsp;&emsp;(ii)
+
+Extension of deadline.—On providing to a State a request for additional information under clause (i), the Secretary may extend the deadline to approve or disapprove the triennial highway safety plan of the State under subparagraph (A) for not more than an additional 90 days, as the Secretary determines to be necessary to accommodate that request, subject to clause (iii).
+
+&emsp;&emsp;&emsp;(iii)
+
+Timing.—Any additional information requested under clause (i) shall be submitted to the Secretary by not later than 7 business days after the date of receipt by the State of the request.
+
+&emsp;&emsp;(C)
 
 Approvals and disapprovals.—
 
 &emsp;&emsp;&emsp;(i)
 
-Approvals.—The Secretary shall approve a State's highway safety plan if the Secretary determines that—
+Approvals.—The Secretary shall approve a State's triennial highway safety plan if the Secretary determines that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the plan and the performance targets contained in the plan are evidence-based and supported by data; and
 
@@ -236,29 +382,73 @@ Approvals.—The Secretary shall approve a State's highway safety plan if the Se
 
 &emsp;&emsp;&emsp;(ii)
 
-Disapprovals.—The Secretary shall disapprove a State's highway safety plan if the Secretary determines that—
+Disapprovals.—The Secretary shall disapprove a State's triennial highway safety plan if the Secretary determines that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the plan and the performance targets contained in the plan are not evidence-based or supported by data; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the plan does not provide for programming of funding in a manner sufficient to allow the State to meet the State's performance targets.
 
-&emsp;&emsp;(C)
+&emsp;&emsp;(D)
 
-Actions upon disapproval.—If the Secretary disapproves a State's highway safety plan, the Secretary shall—
+Actions upon disapproval.—If the Secretary disapproves a State's triennial highway safety plan, the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) inform the State of the reasons for such disapproval; and
 
 &emsp;&emsp;&emsp;(ii) require the State to resubmit the plan with any modifications that the Secretary determines to be necessary.
 
-&emsp;&emsp;(D)
-
-Review of resubmitted plans.—If the Secretary requires a State to resubmit a highway safety plan, with modifications, the Secretary shall review and approve or disapprove the modified plan not later than 30 days after the date on which the Secretary receives such plan.
-
 &emsp;&emsp;(E)
 
-Public notice.—A State shall make the State's highway safety plan, and decisions of the Secretary concerning approval or disapproval of a revised plan, available to the public.
+Review of resubmitted plans.—If the Secretary requires a State to resubmit a triennial highway safety plan, with modifications, the Secretary shall review and approve or disapprove the modified plan not later than 30 days after the date on which the Secretary receives such plan.
 
-\[(l) redesignated (j).\]
+&emsp;&emsp;(F)
+
+Public notice.—A State shall make the State's triennial highway safety plan, and decisions of the Secretary concerning approval or disapproval of a revised plan, available to the public.
+
+(l)
+
+Annual Grant Application and Reporting Requirements.—
+
+&emsp;(1)
+
+Annual grant application.—
+
+&emsp;&emsp;(A)
+
+In general.—To be eligible to receive grant funds under this chapter for a fiscal year, each State shall submit to the Secretary an annual grant application that, as determined by the Secretary—
+
+&emsp;&emsp;&emsp;(i) demonstrates alignment with the approved triennial highway safety plan of the State; and
+
+&emsp;&emsp;&emsp;(ii) complies with the requirements under this subsection.
+
+&emsp;&emsp;(B)
+
+Timing.—The deadline for submission of annual grant applications under this paragraph shall be determined by the Secretary in accordance with section 406(d)(2).
+
+&emsp;&emsp;(C)
+
+Contents.—An annual grant application under this paragraph shall include, at a minimum—
+
+&emsp;&emsp;&emsp;(i) such updates, as necessary, to any analysis included in the triennial highway safety plan of the State;
+
+&emsp;&emsp;&emsp;(ii) an identification of each project and subrecipient to be funded by the State using the grants during the upcoming grant year, subject to the condition that the State shall separately submit, on a date other than the date of submission of the annual grant application, a description of any projects or subrecipients to be funded, as that information becomes available;
+
+&emsp;&emsp;&emsp;(iii) a description of the means by which the strategy of the State to use grant funds was adjusted and informed by the previous report of the State under paragraph (2); and
+
+&emsp;&emsp;&emsp;(iv) an application for any additional grants available to the State under this chapter.
+
+&emsp;&emsp;(D)
+
+Review.—The Secretary shall review and approve or disapprove an annual grant application under this paragraph by not later than 60 days after the date of submission of the application.
+
+&emsp;(2)
+
+Reporting requirements.—Not later than 120 days after the end of each fiscal year for which a grant is provided to a State under this chapter, the State shall submit to the Secretary an annual report that includes—
+
+&emsp;&emsp;(A) an assessment of the progress made by the State in achieving the performance targets identified in the triennial highway safety plan of the State, based on the most currently available Fatality Analysis Reporting System data; and
+
+&emsp;&emsp;(B)(i) a description of the extent to which progress made in achieving those performance targets is aligned with the triennial highway safety plan of the State; and
+
+&emsp;&emsp;(ii) if applicable, any plans of the State to adjust a strategy for programming funds to achieve the performance targets.
 
 (m)
 
@@ -266,7 +456,7 @@ Teen Traffic Safety.—
 
 &emsp;(1)
 
-In general.—Subject to the requirements of a State's highway safety plan, as approved by the Secretary under subsection (k), a State may use a portion of the amounts received under this section to implement statewide efforts to improve traffic safety for teen drivers.
+In general.—Subject to the requirements of the applicable triennial highway safety plan of the State, as approved by the Secretaryunder subsection (k), a State may use a portion of the amounts received under this section to implement statewide efforts to improve traffic safety for teen drivers.
 
 &emsp;(2)
 
@@ -296,7 +486,7 @@ Use of funds.—Statewide efforts under paragraph (1)—
 
 &emsp;&emsp;&emsp;(v) conducting outreach and providing educational resources for parents;
 
-&emsp;&emsp;&emsp;(vi) establishing State or regional advisory councils comprised of teen drivers toprovide input and recommendations to the governor and the governor's safety representative on issues related to the safety of teen drivers;
+&emsp;&emsp;&emsp;(vi) establishing State or regional advisory councils comprised of teen drivers to provide input and recommendations to the governor and the governor's safety representative on issues related to the safety of teen drivers;
 
 &emsp;&emsp;&emsp;(vii) collaborating with law enforcement;
 
@@ -312,7 +502,41 @@ Use of funds.—Statewide efforts under paragraph (1)—
 
 (n)
 
-Public Transparency.—The Secretary shall publicly release on its website information that contains each State's performance with respect to the State's highway safety plan under subsection (k) and performance targets set by the States in such plans. Such information shall be posted on the website within 45 calendar days of approval of a State's highway safety plan.
+Public Transparency.—
+
+&emsp;(1)
+
+In general.—The Secretary shall publicly release on a Department of Transportation website, by not later than 45 calendar days after the applicable date of availability—
+
+&emsp;&emsp;(A) each triennial highway safety plan approved by the Secretary under subsection (k);
+
+&emsp;&emsp;(B) each State performance target under subsection (k); and
+
+&emsp;&emsp;(C) an evaluation of State achievement of applicable performance targets under subsection (k).
+
+&emsp;(2)
+
+State highway safety plan website.—
+
+&emsp;&emsp;(A)
+
+In general.—In carrying out paragraph (1), the Secretary shall establish a public website that is easily accessible, navigable, and searchable for the information required under that paragraph, in order to foster greater transparency in approved State highway safety programs.
+
+&emsp;&emsp;(B)
+
+Contents.—The website established under subparagraph (A) shall—
+
+&emsp;&emsp;&emsp;(i) include the applicable triennial highway safety plan, and the annual report, of each State submitted to, and approved by, the Secretary under subsection (k); and
+
+&emsp;&emsp;&emsp;(ii) provide a means for the public to search the website for State highway safety program content required under subsection (k), including—
+
+&emsp;&emsp;&emsp;&emsp;(I) performance measures required by the Secretary;
+
+&emsp;&emsp;&emsp;&emsp;(II) progress made toward meeting the applicable performance targets during the preceding program year;
+
+&emsp;&emsp;&emsp;&emsp;(III) program areas and expenditures; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) a description of any sources of funds, other than funds provided under this section, that the State proposes to use to carry out the triennial highway safety plan of the State.
 
 (o)
 
@@ -328,569 +552,9 @@ Program placement.—Nothing in this subsection requires a State to carry out a 
 
 (Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 731; amended Pub. L. 90–495, §13, Aug. 23, 1968, 82 Stat. 822; Pub. L. 91–605, title II, §§202(c), (d), (e), 203(a), Dec. 31, 1970, 84 Stat. 1740, 1741; Pub. L. 93–87, title II, §§207, 215–217, 219, 228, 229, 231, Aug. 13, 1973, 87 Stat. 285, 290, 293, 294; Pub. L. 94–280, title II, §§204, 208(a), 211, 212, May 5, 1976, 90 Stat. 453, 454, 455; Pub. L. 95–599, title II, §207(a), (b)(1), (c), (d), Nov. 6, 1978, 92 Stat. 2731, 2732; Pub. L. 97–35, title XI, §1107(c)–(e), Aug. 13, 1981, 95 Stat. 626; Pub. L. 97–424, title II, §208, Jan. 6, 1983, 96 Stat. 2140; Pub. L. 98–363, §§3(a), 5, July 17, 1984, 98 Stat. 436; Pub. L. 100–17, title I, §133(b)(20), title II, §206, Apr. 2, 1987, 101 Stat. 172, 221; Pub. L. 102–240, title II, §2002, Dec. 18, 1991, 105 Stat. 2070; Pub. L. 104–66, title I, §1121(d), Dec. 21, 1995, 109 Stat. 724; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), title II, §2001(a)–(e), June 9, 1998, 112 Stat. 193, 323, 324; Pub. L. 109–59, title II, §2002(a)–(d), Aug. 10, 2005, 119 Stat. 1521; Pub. L. 110–244, title III, §303(a)–(c)(1), June 6, 2008, 122 Stat. 1619; Pub. L. 112–141, div. C, title I, §31102, July 6, 2012, 126 Stat. 734; Pub. L. 114–94, div. A, title IV, §§4002, 4014(1), Dec. 4, 2015, 129 Stat. 1499, 1513; Pub. L. 115–420, §5(a), Jan. 3, 2019, 132 Stat. 5445; Pub. L. 117–58, div. B, title IV, §§24102(a), 24222(b), Nov. 15, 2021, 135 Stat. 785, 835.)
 
-#### Amendment of Section
-
-<i>Pub. L. 117–58, div. B, title IV, §24102, Nov. 15, 2021, 135 Stat. 785, made numerous amendments to this section, effective with respect to any grant application or State highway safety plan submitted under chapter 4 of title 23, United States Code, for fiscal year 2024 or thereafter. After such effective date, this section will read as follows:</i>
-
-#### §402. Highway safety programs
-
-<i>(a)</i>
-
-<i>Program Required.—</i>
-
-&emsp;<i>(1)</i>
-
-<i>In general.—Each State shall have in effect a highway safety program that—</i>
-
-&emsp;&emsp;<i>(i) is designed to reduce—</i>
-
-&emsp;&emsp;&emsp;<i>(I) traffic crashes; and</i>
-
-&emsp;&emsp;&emsp;<i>(II) deaths, injuries, and property damage resulting from those crashes;</i>
-
-&emsp;&emsp;<i>(ii) includes—</i>
-
-&emsp;&emsp;&emsp;<i>(I) an approved, current, triennial highway safety plan in accordance with subsection (k); and</i>
-
-&emsp;&emsp;&emsp;<i>(II) an approved grant application under subsection (l) for the fiscal year;</i>
-
-&emsp;&emsp;<i>(iii) demonstrates compliance with the applicable administrative requirements of subsection (b)(1); and</i>
-
-&emsp;&emsp;<i>(iv) is approved by the Secretary.</i>
-
-&emsp;<i>(2)</i>
-
-<i>Uniform guidelines.—Programs required under paragraph (1) shall comply with uniform guidelines, promulgated by the Secretary and expressed in terms of performance criteria, that—</i>
-
-&emsp;&emsp;<i>(A) include programs—</i>
-
-&emsp;&emsp;&emsp;<i>(i) to reduce injuries and deaths resulting from motor vehicles being driven in excess of posted speed limits;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) to encourage the proper use of safety belts by occupants of motor vehicles;</i>
-
-&emsp;&emsp;&emsp;<i>(iii) to encourage more widespread and proper use of child restraints, with an emphasis on underserved populations;</i>
-
-&emsp;&emsp;&emsp;<i>(iv) to reduce injuries and deaths resulting from persons driving motor vehicles while impaired by alcohol or a controlled substance;</i>
-
-&emsp;&emsp;&emsp;<i>(v) to prevent crashes and reduce injuries and deaths resulting from crashes involving motor vehicles and motorcycles;</i>
-
-&emsp;&emsp;&emsp;<i>(vi) to reduce injuries and deaths resulting from crashes involving school buses;</i>
-
-&emsp;&emsp;&emsp;<i>(vii) to reduce crashes resulting from unsafe driving behavior (including aggressive or fatigued driving and distracted driving arising from the use of electronic devices in vehicles);</i>
-
-&emsp;&emsp;&emsp;<i>(viii) to improve law enforcement services in motor vehicle crash prevention, traffic supervision, and post-crash procedures;</i>
-
-&emsp;&emsp;&emsp;<i>(ix) to increase driver awareness of commercial motor vehicles to prevent crashes and reduce injuries and fatalities;</i>
-
-&emsp;&emsp;&emsp;<i>(x) to reduce crashes caused by driver misuse or misunderstanding of new vehicle technology;</i>
-
-&emsp;&emsp;&emsp;<i>(xi) to increase vehicle recall awareness;</i>
-
-&emsp;&emsp;&emsp;<i>(xii) to provide to the public information relating to the risks of child heatstroke death when left unattended in a motor vehicle after the motor is deactivated by the operator;</i>
-
-&emsp;&emsp;&emsp;<i>(xiii) to reduce injuries and deaths resulting from the failure by drivers of motor vehicles to move to another traffic lane or reduce the speed of the vehicle when law enforcement, fire service, emergency medical services, or other emergency or first responder vehicles</i><i>are stopped or parked on or next to a roadway with emergency lights activated; and</i>
-
-&emsp;&emsp;&emsp;<i>(xiv) to prevent crashes, injuries, and deaths caused by unsecured vehicle loads;</i>
-
-&emsp;&emsp;<i>(B) improve driver performance, including—</i>
-
-&emsp;&emsp;&emsp;<i>(i) driver education;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) driver testing to determine proficiency to operate motor vehicles; and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) driver examinations (physical, mental, and driver licensing);</i>
-
-&emsp;&emsp;<i>(C) improve pedestrian performance and bicycle safety;</i>
-
-&emsp;&emsp;<i>(D) include provisions for—</i>
-
-&emsp;&emsp;&emsp;<i>(i) an effective record system of crashes (including resulting injuries and deaths);</i>
-
-&emsp;&emsp;&emsp;<i>(ii) crash investigations to determine the probable causes of crashes, injuries, and deaths;</i>
-
-&emsp;&emsp;&emsp;<i>(iii) vehicle registration, operation, and inspection; and</i>
-
-&emsp;&emsp;&emsp;<i>(iv) emergency services; and</i>
-
-&emsp;&emsp;<i>(E) to the extent determined appropriate by the Secretary, are applicable to federally administered areas where a Federal department or agency controls the highways or supervises traffic operations.</i>
-
-&emsp;<i>(3)</i>
-
-<i>Additional considerations.—A State that has legalized medicinal or recreational marijuana shall take into consideration implementing programs in addition to the programs described in paragraph (2)(A)—</i>
-
-&emsp;&emsp;<i>(A) to educate drivers regarding the risks associated with marijuana-impaired driving; and</i>
-
-&emsp;&emsp;<i>(B) to reduce injuries and deaths resulting from individuals driving motor vehicles while impaired by marijuana.</i>
-
-<i>(b)</i>
-
-<i>Administration of State Programs.—</i>
-
-&emsp;<i>(1)</i>
-
-<i>Administrative requirements.—The Secretary shall not approve a State highway safety program under this section which does not—</i>
-
-&emsp;&emsp;<i>(A) provide that the Governor of the State shall be responsible for the administration of the program through a State highway safety agency which shall have adequate powers and be suitably equipped and organized to carry out, to the satisfaction of the Secretary, such program;</i>
-
-&emsp;&emsp;<i>(B) provide for a comprehensive, data-driven traffic safety program that results from meaningful public participation and engagement from affected communities, particularly those most significantly impacted by traffic crashes resulting in injuries and fatalities;</i>
-
-&emsp;&emsp;<i>(C) except as provided in paragraph (2), provide that at least 40 percent of all Federal funds apportioned under this section to the State for any fiscal year will be expended by the political subdivisions of the State, including Indian tribal governments, in carrying out local highway safety programs;</i>
-
-&emsp;&emsp;<i>(D) provide adequate and reasonable access for the safe and convenient movement of individuals, including those with disabilities and those in wheelchairs, across curbs constructed or replaced on or after July 1, 1976, at all pedestrian crosswalks throughout the State;</i>
-
-&emsp;&emsp;<i>(E) as part of a comprehensive program, support—</i>
-
-&emsp;&emsp;&emsp;<i>(i) data-driven traffic safety enforcement programs that foster effective community collaboration to increase public safety; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) data collection and analysis to ensure transparency, identify disparities in traffic enforcement, and inform traffic enforcement policies, procedures, and activities; and</i>
-
-&emsp;&emsp;<i>(F) provide satisfactory assurances that the State will implement activities in support of national highway safety goals to reduce motor vehicle related fatalities that also reflect the primary data-related crash factors within a State as identified by the State highway safety planning process, including—</i>
-
-&emsp;&emsp;&emsp;<i>(i) national, high-visibility law enforcement mobilizations coordinated by the Secretary;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) sustained enforcement of statutes addressing impaired driving, occupant protection, and driving in excess of posted speed limits;</i>
-
-&emsp;&emsp;&emsp;<i>(iii) an annual statewide safety belt use survey in accordance with criteria established by the Secretary for the measurement of State safety belt use rates to ensure that the measurements are accurate and representative;</i>
-
-&emsp;&emsp;&emsp;<i>(iv) development of statewide data systems to provide timely and effective data analysis to support allocation of highway safety resources;</i>
-
-&emsp;&emsp;&emsp;<i>(v) ensuring that the State will coordinate its highway safety plan, data collection, and information systems with the State strategic highway safety plan (as defined in section 148(a)); and</i>
-
-&emsp;&emsp;&emsp;<i>(vi) unless the State highway safety program is developed by American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the United States Virgin Islands, participation in the Fatality Analysis Reporting System.</i>
-
-&emsp;<i>(2)</i>
-
-<i>Waiver.—The Secretary may waive the requirement of paragraph (1)(C), in whole or in part, for a fiscal year for any State whenever the Secretary determines that there is an insufficient number of local highway safety programs to justify the expenditure in the State of such percentage of Federal funds during the fiscal year.</i>
-
-<i>(c)</i>
-
-<i>Use of Funds.—</i>
-
-&emsp;<i>(1)</i>
-
-<i>Use for state activities.—</i>
-
-&emsp;&emsp;<i>(A)</i>
-
-<i>In general.—The funds authorized to be appropriated to carry out this section shall be used to aid the States to conduct the highway safety programs approved in accordance with subsection (a), including development and implementation of manpower training programs, and of demonstration programs that the Secretary determines will contribute directly to the reduction of crashes, and deaths and injuries resulting therefrom.</i>
-
-&emsp;&emsp;<i>(B)</i>
-
-<i>Neighboring states.—A State, acting in cooperation with any neighboring State, may use funds provided under this section for a highway safety program that may confer a benefit on the neighboring State.</i>
-
-&emsp;<i>(2)</i>
-
-<i>Apportionment to states.—</i>
-
-&emsp;&emsp;<i>(A)</i>
-
-<i>Definition of public road.—In this paragraph, the term "public road" means any road that is—</i>
-
-&emsp;&emsp;&emsp;<i>(i) subject to the jurisdiction of, and maintained by, a public authority; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) held open to public travel.</i>
-
-&emsp;&emsp;<i>(B)</i>
-
-<i>Apportionment.—</i>
-
-&emsp;&emsp;&emsp;<i>(i)</i>
-
-<i>In general.—Except for the amounts identified in section 403(f) and the amounts subject to subparagraph (C), of the funds made available under this section—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) 75 percent shall be apportioned to each State based on the ratio that, as determined by the most recent decennial census—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) the population of the State; bears to</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) the total population of all States; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) 25 percent shall be apportioned to each State based on the ratio that, subject to clause (ii)—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) the public road mileage in each State; bears to</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) the total public road mileage in all States.</i>
-
-&emsp;&emsp;&emsp;<i>(ii)</i>
-
-<i>Calculation.—For purposes of clause (i)(II), public road mileage shall be—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) determined as of the end of the calendar year preceding the year during which the funds are apportioned;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) certified by the Governor of the State; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(III) subject to approval by the Secretary.</i>
-
-&emsp;&emsp;<i>(C)</i>
-
-<i>Minimum apportionments.—The annual apportionment under this section to—</i>
-
-&emsp;&emsp;&emsp;<i>(i) each State shall be not less than ¾ of 1 percent of the total apportionment;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the Secretary of the Interior shall be not less than 2 percent of the total apportionment; and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than ¼ of 1 percent of the total apportionment.</i>
-
-&emsp;&emsp;<i>(D)</i>
-
-<i>Penalty.—</i>
-
-&emsp;&emsp;&emsp;<i>(i)</i>
-
-<i>In general.—The funds apportioned under this section to a State that does not have approved or in effect a highway safety program described in subsection (a)(1) shall be reduced by an amount equal to not less than 20 percent of the amount that would otherwise be apportioned to the State under this section, until the date on which the Secretary, as applicable—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) approves such a highway safety program; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) determines that the State is implementing such a program.</i>
-
-&emsp;&emsp;&emsp;<i>(ii)</i>
-
-<i>Factor for consideration.—In determining the amount of the reduction in funds apportioned to a State under this subparagraph, the Secretary shall take into consideration the gravity of the failure by the State to secure approval, or to implement, a highway safety program described in subsection (a)(1).</i>
-
-&emsp;&emsp;<i>(E)</i>
-
-<i>Limitations.—</i>
-
-&emsp;&emsp;&emsp;<i>(i)</i>
-
-<i>In general.—A highway safety program approved by the Secretary shall not include any requirement that a State shall implement such a program by adopting or enforcing any law, rule, or regulation based on a guideline promulgated by the Secretary under this section requiring any motorcycle operator aged 18 years or older, or a motorcycle passenger aged 18 years or older, to wear a safety helmet when operating or riding a motorcycle on the streets and highways of that State.</i>
-
-&emsp;&emsp;&emsp;<i>(ii)</i>
-
-<i>Effect of guidelines.—Nothing in this section requires a State highway safety program to require compliance with every uniform guideline, or with every element of every uniform guideline, in every State.</i>
-
-&emsp;<i>(3)</i>
-
-<i>Reapportionment.—</i>
-
-&emsp;&emsp;<i>(A)</i>
-
-<i>In general.—The Secretary shall promptly apportion to a State any funds withheld from the State under paragraph (2)(D) if the Secretary makes an approval or determination, as applicable, described in that paragraph by not later than July 31 of the fiscal year for which the funds were withheld.</i>
-
-&emsp;&emsp;<i>(B)</i>
-
-<i>Continuing state failure.—If the Secretary determines that a State fails to correct a failure to have approved or in effect a highway safety program described in subsection (a)(1) by the date described in subparagraph (A), the Secretary shall reapportion the funds withheld from that State under paragraph (2)(D) for the fiscal year to the other States in accordance with the formula described in paragraph (2)(B) by not later than the last day of the fiscal year.</i>
-
-&emsp;<i>(4)</i>
-
-<i>Automated traffic enforcement systems.—</i>
-
-&emsp;&emsp;<i>(A)</i>
-
-<i>Automated traffic enforcement system defined.—In this paragraph, the term "automated traffic enforcement system" means any camera which captures an image of a vehicle for the purposes only of red light and speed enforcement, and does not include hand held radar and other devices operated by law enforcement officers to make an on-the-scene traffic stop, issue a traffic citation, or other enforcement action at the time of the violation.</i>
-
-&emsp;&emsp;<i>(B)</i>
-
-<i>Prohibition.—A State may not expend funds apportioned to that State under this section to carry out a program to purchase, operate, or maintain an automated traffic enforcement system.</i>
-
-&emsp;&emsp;<i>(C)</i>
-
-<i>Special rule for school and work zones.—Notwithstanding subparagraph (B), a State may expend funds apportioned to the State under this section to carry out a program to purchase, operate, or maintain an automated traffic enforcement system in a work zone or school zone.</i>
-
-&emsp;&emsp;<i>(D)</i>
-
-<i>Automated traffic enforcement system guidelines.—An automated traffic enforcement system installed pursuant to subparagraph (C) shall comply with such guidelines applicable to speed enforcement camera systems and red light camera systems as are established by the Secretary.</i>
-
-<i>(d) All provisions of chapter 1 of this title that are applicable to National Highway System highway funds other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the highway safety funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section, and except that the aggregate of all expenditures made during any fiscal year by a State and its political subdivisions (exclusive of Federal funds) for carrying out the State highway safety program (other than planning and administration) shall be available for the purpose of cred</i><i>iting such State during such fiscal year for the non-Federal share of the cost of any project under this section (other than one for planning or administration) without regard to whether such expenditures were actually made in connection with such project and except that, in the case of a local highway safety program carried out by an Indian tribe, if the Secretary is satisfied that an Indian tribe does not have sufficient funds available to meet the non-Federal share of the cost of such program, he may increase the Federal share of the cost thereof payable under this Act to the extent necessary. In applying such provisions of chapter 1 in carrying out this section the term "State transportation department" as used in such provisions shall mean the Governor of a State for the purposes of this section.</i>
-
-<i>(e) Uniform guidelines promulgated by the Secretary to carry out this section shall be developed in cooperation with the States, their political subdivisions, appropriate Federal departments and agencies, and such other public and private organizations as the Secretary deems appropriate.</i>
-
-<i>(f) The Secretary may make arrangements with other Federal departments and agencies for assistance in the preparation of uniform guidelines for the highway safety programs contemplated by subsection (a) and in the administration of such programs. Such departments and agencies are directed to cooperate in such preparation and administration, on a reimbursable basis.</i>
-
-<i>(g)</i>
-
-<i>Restriction.—Nothing in this section may be construed to authorize the appropriation or expenditure of funds for highway construction, maintenance, or design (other than design of safety features of highways to be incorporated into guidelines).</i>
-
-<i>(h)</i>
-
-<i>Application in Indian Country.—</i>
-
-&emsp;<i>(1)</i>
-
-<i>Use of terms.—For the purpose of application of this section in Indian country, the terms "State" and "Governor of a State" include the Secretary of the Interior and the term "political subdivision of a State" includes an Indian tribe.</i>
-
-&emsp;<i>(2)</i>
-
-<i>Expenditures for local highway programs.—Notwithstanding subsection (b)(1)(C), 95 percent of the funds apportioned to the Secretary of the Interior under this section shall be expended by Indian tribes to carry out highway safety programs within their jurisdictions.</i>
-
-&emsp;<i>(3)</i>
-
-<i>Access for individuals with disabilities.—The requirements of subsection (b)(1)(D) shall be applicable to Indian tribes, except to those tribes with respect to which the Secretary determines that application of such provisions would not be practicable.</i>
-
-&emsp;<i>(4)</i>
-
-<i>Indian country defined.—In this subsection, the term "Indian country" means—</i>
-
-&emsp;&emsp;<i>(A) all land within the limits of any Indian reservation under the jurisdiction of the United States, notwithstanding the issuance of any patent and including rights-of-way running through the reservation;</i>
-
-&emsp;&emsp;<i>(B) all dependent Indian communities within the borders of the United States, whether within the original or subsequently acquired territory thereof and whether within or without the limits of a State; and</i>
-
-&emsp;&emsp;<i>(C) all Indian allotments, the Indian titles to which have not been extinguished, including rights-of-way running through such allotments.</i>
-
-<i>(i)</i>
-
-<i>Rulemaking Proceeding.—The Secretary may periodically conduct a rulemaking process to identify highway safety programs that are highly effective in reducing motor vehicle crashes, injuries, and deaths. Any such rulemaking shall take into account the major role of the States in implementing such programs. When a rule promulgated in accordance with this section takes effect, States shall consider these highly effective programs when developing their highway safety programs.</i>
-
-<i>(j)</i>
-
-<i>Law Enforcement Vehicular Pursuit Training.—A State shall actively encourage all relevant law enforcement agencies in such State to follow the guidelines established for vehicular pursuits issued by the International Association of Chiefs of Police that are in effect on the date of enactment of this subsection or as revised and in effect after such date as determined by the Secretary.</i>
-
-<i>(k)</i>
-
-<i>Triennial Highway Safety Plan.—</i>
-
-&emsp;<i>(1)</i>
-
-<i>In general.—For fiscal year 2024, and not less frequently than once every 3 fiscal years thereafter, the Secretary shall require each State, as a condition of the approval of the State's highway safety program for the 3 fiscal years covered by the plan, to develop and submit to the Secretary for approval a triennial highway safety plan that complies with the requirements under this subsection.</i>
-
-&emsp;<i>(2)</i>
-
-<i>Timing.—Each State shall submit to the Secretary a triennial highway safety plan by not later than July 1 of the fiscal year preceding the first fiscal year covered by the plan.</i>
-
-&emsp;<i>(3)</i>
-
-<i>Electronic submission.—The Secretary, in coordination with the Governors Highway Safety Association, shall develop procedures to allow States to submit triennial highway safety plans under this subsection, including any attachments to the plans, in electronic form.</i>
-
-&emsp;<i>(4)</i>
-
-<i>Contents.—Each State triennial highway safety plan submitted under paragraph (1) shall include, with respect to the 3 fiscal years covered by the plan, based on the information available on the date of submission under paragraph (2)—</i>
-
-&emsp;&emsp;<i>(A) performance measures required by the Secretary or otherwise necessary to support additional State safety goals, including—</i>
-
-&emsp;&emsp;&emsp;<i>(i) documentation of current safety levels for each performance measure;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) quantifiable performance targets that demonstrate constant or improved performance for each performance measure; and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) a justification for each performance target, that explains why each target is appropriate and evidence-based;</i>
-
-&emsp;&emsp;<i>(B) a countermeasure strategy for programming funds under this section for projects that will allow the State to meet the performance targets described in subparagraph (A), including a description—</i>
-
-&emsp;&emsp;&emsp;<i>(i) that demonstrates the link between the effectiveness of each proposed countermeasure strategy and those performance targets; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) of the manner in which each countermeasure strategy is informed by uniform guidelines issued by the Secretary;</i>
-
-&emsp;&emsp;<i>(C) data and data analysis supporting the effectiveness of proposed countermeasures;</i>
-
-&emsp;&emsp;<i>(D) a description of any Federal funds that the State plans to use, in addition to funds apportioned to the State under this section, to carry out the strategy described in subparagraph (B); and</i>
-
-&emsp;&emsp;<i>(E) a report on the State's success in meeting State safety goals and performance targets set forth in the most recently submitted highway safety plan.</i>
-
-&emsp;<i>(5)</i>
-
-<i>Performance measures.—The Secretary shall develop minimum performance measures under paragraph (4)(A) in consultation with the Governors Highway Safety Association.</i>
-
-&emsp;<i>(6)</i>
-
-<i>Review of triennial highway safety plans.—</i>
-
-&emsp;&emsp;<i>(A)</i>
-
-<i>In general.—Except as provided in subparagraph (B), the Secretary shall review and approve or disapprove a triennial highway safety plan of a State by not later than 60 days after the date on which the plan is received by the Secretary.</i>
-
-&emsp;&emsp;<i>(B)</i>
-
-<i>Additional information.—</i>
-
-&emsp;&emsp;&emsp;<i>(i)</i>
-
-<i>In general.—The Secretary may request a State to submit to the Secretary such additional information as the Secretary determines to be necessary for review of the triennial highway safety plan of the State.</i>
-
-&emsp;&emsp;&emsp;<i>(ii)</i>
-
-<i>Extension of deadline.—On providing to a State a request for additional information under clause (i), the Secretary may extend the deadline to approve or disapprove the triennial highway safety plan of the State under subparagraph (A) for not more than an additional 90 days, as the Secretary determines to be necessary to accommodate that request, subject to clause (iii).</i>
-
-&emsp;&emsp;&emsp;<i>(iii)</i>
-
-<i>Timing.—Any additional information requested under clause (i) shall be submitted to the Secretary by not later than 7 business days after the date of receipt by the State of the request.</i>
-
-&emsp;&emsp;<i>(C)</i>
-
-<i>Approvals and disapprovals.—</i>
-
-&emsp;&emsp;&emsp;<i>(i)</i>
-
-<i>Approvals.—The Secretary shall approve a State's triennial highway safety plan if the Secretary determines that—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) the plan and the performance targets contained in the plan are evidence-based and supported by data; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) the plan, once implemented, will allow the State to meet the State's performance targets.</i>
-
-&emsp;&emsp;&emsp;<i>(ii)</i>
-
-<i>Disapprovals.—The Secretary shall disapprove a State's triennial highway safety plan if the Secretary determines that—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) the plan and the performance targets contained in the plan are not evidence-based or supported by data; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) the plan does not provide for programming of funding in a manner sufficient to allow the State to meet the State's performance targets.</i>
-
-&emsp;&emsp;<i>(D)</i>
-
-<i>Actions upon disapproval.—If the Secretary disapproves a State's triennial highway safety plan, the Secretary shall—</i>
-
-&emsp;&emsp;&emsp;<i>(i) inform the State of the reasons for such disapproval; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) require the State to resubmit the plan with any modifications that the Secretary determines to be necessary.</i>
-
-&emsp;&emsp;<i>(E)</i>
-
-<i>Review of resubmitted plans.—If the Secretary requires a State to resubmit a triennial highway safety plan, with modifications, the Secretary shall review and approve or disapprove the modified plan not later than 30 days after the date on which the Secretary receives such plan.</i>
-
-&emsp;&emsp;<i>(F)</i>
-
-<i>Public notice.—A State shall make the State's triennial highway safety plan, and decisions of the Secretary concerning approval or disapproval of a revised plan, available to the public.</i>
-
-<i>(l)</i>
-
-<i>Annual Grant Application and Reporting Requirements.—</i>
-
-&emsp;<i>(1)</i>
-
-<i>Annual grant application.—</i>
-
-&emsp;&emsp;<i>(A)</i>
-
-<i>In general.—To be eligible to receive grant funds under this chapter for a fiscal year, each State shall submit to the Secretary an annual grant application that, as determined by the Secretary—</i>
-
-&emsp;&emsp;&emsp;<i>(i) demonstrates alignment with the approved triennial highway safety plan of the State; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) complies with the requirements under this subsection.</i>
-
-&emsp;&emsp;<i>(B)</i>
-
-<i>Timing.—The deadline for submission of annual grant applications under this paragraph shall be determined by the Secretary in accordance with section 406(d)(2).</i>
-
-&emsp;&emsp;<i>(C)</i>
-
-<i>Contents.—An annual grant application under this paragraph shall include, at a minimum—</i>
-
-&emsp;&emsp;&emsp;<i>(i) such updates, as necessary, to any analysis included in the triennial highway safety plan of the State;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) an identification of each project and subrecipient to be funded by the State using the grants during the upcoming grant year, subject to the condition that the State shall separately submit, on a date other than the date of submission of the annual grant application, a description of any projects or subrecipients to be funded, as that information becomes available;</i>
-
-&emsp;&emsp;&emsp;<i>(iii) a description of the means by which the strategy of the State to use grant funds was adjusted and informed by the previous report of the State under paragraph (2); and</i>
-
-&emsp;&emsp;&emsp;<i>(iv) an application for any additional grants available to the State under this chapter.</i>
-
-&emsp;&emsp;<i>(D)</i>
-
-<i>Review.—The Secretary shall review and approve or disapprove an annual grant application under this paragraph by not later than 60 days after the date of submission of the application.</i>
-
-&emsp;<i>(2)</i>
-
-<i>Reporting requirements.—Not later than 120 days after the end of each fiscal year for which a grant is provided to a State under this chapter, the State shall submit to the Secretary an annual report that includes—</i>
-
-&emsp;&emsp;<i>(A) an assessment of the progress made by the State in achieving the performance targets identified in the triennial highway safety plan of the State, based on the most currently available Fatality Analysis Reporting System data; and</i>
-
-&emsp;&emsp;<i>(B)(i) a description of the extent to which progress made in achieving those performance targets is aligned with the triennial highway safety plan of the State; and</i>
-
-&emsp;&emsp;<i>(ii) if applicable, any plans of the State to adjust a strategy for programming funds to achieve the performance targets.</i>
-
-<i>(m)</i>
-
-<i>Teen Traffic Safety.—</i>
-
-&emsp;<i>(1)</i>
-
-<i>In general.—Subject to the requirements of the applicable triennial highway safety plan of</i><i>the State, as approved by the Secretary under subsection (k), a State may use a portion of the amounts received under this section to implement statewide efforts to improve traffic safety for teen drivers.</i>
-
-&emsp;<i>(2)</i>
-
-<i>Use of funds.—Statewide efforts under paragraph (1)—</i>
-
-&emsp;&emsp;<i>(A) shall include peer-to-peer education and prevention strategies in schools and communities designed to—</i>
-
-&emsp;&emsp;&emsp;<i>(i) increase safety belt use;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) reduce speeding;</i>
-
-&emsp;&emsp;&emsp;<i>(iii) reduce impaired and distracted driving;</i>
-
-&emsp;&emsp;&emsp;<i>(iv) reduce underage drinking; and</i>
-
-&emsp;&emsp;&emsp;<i>(v) reduce other behaviors by teen drivers that lead to injuries and fatalities; and</i>
-
-&emsp;&emsp;<i>(B) may include—</i>
-
-&emsp;&emsp;&emsp;<i>(i) working with student-led groups and school advisors to plan and implement teen traffic safety programs;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) providing subgrants to schools throughout the State to support the establishment and expansion of student groups focused on teen traffic safety;</i>
-
-&emsp;&emsp;&emsp;<i>(iii) providing support, training, and technical assistance to establish and expand school and community safety programs for teen drivers;</i>
-
-&emsp;&emsp;&emsp;<i>(iv) creating statewide or regional websites to publicize and circulate information on teen safety programs;</i>
-
-&emsp;&emsp;&emsp;<i>(v) conducting outreach and providing educational resources for parents;</i>
-
-&emsp;&emsp;&emsp;<i>(vi) establishing State or regional advisory councils comprised of teen drivers to provide input and recommendations to the governor and the governor's safety representative on issues related to the safety of teen drivers;</i>
-
-&emsp;&emsp;&emsp;<i>(vii) collaborating with law enforcement;</i>
-
-&emsp;&emsp;&emsp;<i>(viii) establishing partnerships and promoting coordination among community stakeholders, including public, not-for-profit, and for profit entities;</i>
-
-&emsp;&emsp;&emsp;<i>(ix) increase driver awareness of commercial motor vehicles to prevent crashes and reduce injuries and fatalities; and</i>
-
-&emsp;&emsp;&emsp;<i>(x) support for school-based driver's education classes to improve teen knowledge about—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) safe driving practices; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) State graduated driving license requirements, including behind-the-wheel training required to meet those requirements.</i>
-
-<i>(n)</i>
-
-<i>Public Transparency.—</i>
-
-&emsp;<i>(1)</i>
-
-<i>In general.—The Secretary shall publicly release on a Department of Transportation website, by not later than 45 calendar days after the applicable date of availability—</i>
-
-&emsp;&emsp;<i>(A) each triennial highway safety plan approved by the Secretary under subsection (k);</i>
-
-&emsp;&emsp;<i>(B) each State performance target under subsection (k); and</i>
-
-&emsp;&emsp;<i>(C) an evaluation of State achievement of applicable performance targets under subsection (k).</i>
-
-&emsp;<i>(2)</i>
-
-<i>State highway safety plan website.—</i>
-
-&emsp;&emsp;<i>(A)</i>
-
-<i>In general.—In carrying out paragraph (1), the Secretary shall establish a public website that is easily accessible, navigable, and searchable for the information required under that paragraph, in order to foster greater transparency in approved State highway safety programs.</i>
-
-&emsp;&emsp;<i>(B)</i>
-
-<i>Contents.—The website established under subparagraph (A) shall—</i>
-
-&emsp;&emsp;&emsp;<i>(i) include the applicable triennial highway safety plan, and the annual report, of each State submitted to, and approved by, the Secretary under subsection (k); and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) provide a means for the public to search the website for State highway safety program content required under subsection (k), including—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) performance measures required by the Secretary;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) progress made toward meeting the applicable performance targets during the preceding program year;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(III) program areas and expenditures; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(IV) a description of any sources of funds, other than funds provided under this section, that the State proposes to use to carry out the triennial highway safety plan of the State.</i>
-
-<i>(o)</i>
-
-<i>Unattended Passengers.—</i>
-
-&emsp;<i>(1)</i>
-
-<i>In general.—Each State shall use a portion of the amounts received by the State under this section to carry out a program to educate the public regarding the risks of leaving a child or unattended passenger in a vehicle after the vehicle motor is deactivated by the operator.</i>
-
-&emsp;<i>(2)</i>
-
-<i>Program placement.—Nothing in this subsection requires a State to carry out a program described in paragraph (1) through the State transportation or highway safety office.</i>
-
-<i>See 2021 Amendment notes below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### References in Text
-
-The date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, referred to in subsec. (b)(1)(E), is the date of enactment of title I of div. C of Pub. L. 112–141, which was approved July 6, 2012.
 
 This Act, referred to in subsec. (d), probably means Pub. L. 93–87, Aug. 13, 1973, 87 Stat. 250. For complete classification of this Act to the Code, see Tables.
 
@@ -1090,7 +754,7 @@ Subsec. (j). Pub. L. 105–178, §2001(e), amended heading and text of subsec. (
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–66 struck out after fourth sentence "If the Secretary does not designate as priority programs those programs described in the preceding sentence, the Secretary shall submit to Congress a report describing the reasons for not prioritizing such programs."
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–240, §2002(a), inserted after third sentence "In addition, such uniform guidelines shall include programs (1) to reduce injuries and deaths resulting from motor vehicles being driven in excess of posted speed limits, (2) to encourage the proper use of occupant protection devices (including the use of safety belts and child restraint systems) by occupants of motor vehicles and to increase public awareness of the benefit of motor vehicles equipped with airbags, (3) to reduce deaths and injuries resulting from persons driving motor vehicles while impaired by alcohol or a controlled substance, (4) to reduce deaths and injuries resulting from accidents involving motor vehicles and motorcycles, (5) to reduce injuries and deaths resulting from accidents involving school buses, and (6) to improve law enforcement services in motor vehicle accident prevention, traffic supervision, and post-accident procedures. If the Secretary does not designate as priority programs those programs described in the preceding sentence, the Secretary shall submit to Congress a report describing the reasons for not prioritizing such programs. The Secretary shall establish a highway safety program for the collection and reporting of data on traffic-related deaths and injuries by the States. Under such program, the States shall collect and report such data as the Secretary may require. The purposes of the program are to ensure national uniform data on such deaths and injuries and to allow the Secretary to make determinations for use in developing programs to reduce such deaths and injuries and making recommendations to Congress concerning legislation necessary to implement such programs. The program shall include information obtained by the Secretary under section 4007 of the Intermodal Surface Transportation Efficiency Act of 1991 and provide for annual reports to the Secretary on the efforts being made by the States in reducing deaths and injuries occurring at highway construction sites and the effectiveness and results of such efforts. The Secretary shall establish minimum reporting criteria for the program. Such criteria shall include, but not be limited to, criteria on deaths and injuries resulting from police pursuits, school bus accidents, and speeding, on traffic-related deaths and injuries at highway construction sites and on the configuration of commercial motor vehicles involved in motor vehicle accidents."
+<b>1991</b>—Subsec. (a). Pub. L. 102–240, §2002(a), inserted after third sentence "In addition, such uniform guidelines shall include programs (1) to reduce injuries and deaths resulting from motor vehicles being driven in excess of posted speed limits, (2) to encourage the proper use of occupant protection devices (including the use of safety belts and child restraint systems) by occupants of motor vehicles and to increase public awareness of the benefit of motor vehicles equipped with airbags, (3) to reduce deaths and injuries resulting from persons driving motor vehicles while impaired by alcohol or a controlled substance, (4) to reduce deaths and injuries resulting from accidents involving motor vehicles and motorcycles, (5) to reduce injuries and deaths resulting from accidents involving school buses, and (6) to improve law enforcement services in motor vehicle accident prevention, traffic supervision, and post-accident procedures. If the Secretary does not designate as priority programs those programs described in the preceding sentence, the Secretary shall submit to Congress a report describing the reasons for not prioritizing such programs. The Secretary shall establish a highway safety program for the collection and reporting of data on traffic-related deaths and injuries by the States. Under such program, the States shall collect and report such data as the Secretary may require. The purposes of the program are to ensure national uniform data on such deaths and injuries and to allowthe Secretary to make determinations for use in developing programs to reduce such deaths and injuries and making recommendations to Congress concerning legislation necessary to implement such programs. The program shall include information obtained by the Secretary under section 4007 of the Intermodal Surface Transportation Efficiency Act of 1991 and provide for annual reports to the Secretary on the efforts being made by the States in reducing deaths and injuries occurring at highway construction sites and the effectiveness and results of such efforts. The Secretary shall establish minimum reporting criteria for the program. Such criteria shall include, but not be limited to, criteria on deaths and injuries resulting from police pursuits, school bus accidents, and speeding, on traffic-related deaths and injuries at highway construction sites and on the configuration of commercial motor vehicles involved in motor vehicle accidents."
 
 Subsec. (b)(3) to (5). Pub. L. 102–240, §2002(b), added pars. (3) to (5).
 
@@ -1130,7 +794,7 @@ Subsec. (d). Pub. L. 95–599, §207(d), inserted "(other than planning and admi
 
 <b>1976</b>—Subsec. (c), sixth sentence. Pub. L. 94–280, §211, inserted exception provision requirement that the apportionments to the Virgin Islands, Guam, and American Samoa be not less than one-third of 1 per centum of the total apportionment.
 
-Subsec. (c), eighth and ninth sentences. Pub. L. 94–280, §208(a), inserted eighth and ninth sentences: excluding from any highway safety program approved by the Secretary any requirement that a State implement a Federal safety helmet wearing standard for operators or passengers of motorcycles by adopting or enforcing any law, rule, or regulation based on the Federal standard, and authorizing State implementation of a highway safety program without compliance with every uniform standard in every State; and deleted prior eighth, ninth, and tenth sentences providing for: a 10 per centum reduction of funds apportioned to a State on or after January 1, 1970, for nonimplementation of a highway safety program approved by the Secretary during such a period; suspension of application of such provision during necessary periods when in the public interest; and reapportionment of withheld amounts to other States in accordance with applicable provisions of law, now covered in the tenth through thirteenth sentences.
+Subsec. (c), eighth and ninth sentences. Pub. L. 94–280, §208(a), inserted eighth and ninth sentences: excluding from any highway safety program approved by the Secretary any requirement that a State implement a Federal safety helmet wearing standard for operators or passengers of motorcycles by adopting or enforcing any law, rule, or regulation based on the Federal standard, and authorizing State implementation of a highway safety program without compliance with every uniform standard in every State; and deleted prior eighth, ninth, and tenth sentences providing for: a 10 per centum reduction of funds apportioned to a State on or after January 1, 1970, for nonimplementation of a highway safety program approved by the Secretary during such a period; suspension of application of such provision during necessary periods when in the public interest; and reapportionment of withheld amounts to other States in accordance with applicable provisionsof law, now covered in the tenth through thirteenth sentences.
 
 Subsec. (c), tenth through thirteenth sentences. Pub. L. 94–280, §212, inserted provisions for: a 50 per centum reduction of funds apportioned to a State during time of absence or nonimplementation of a highway safety program; gravity rule in determining amount of reduction of funds; apportionment to a State of withheld funds prior to the end of the fiscal year for which the funds were withheld in event of approval of or State implementation of a highway safety program; and for reapportionment of funds to other States in accordance with the prescribed formula not later than 30 days after determination of absence of correction by a State, similar provisions being formerly covered in prior eighth, ninth, and tenth sentences providing for: a 10 per centum reduction of funds apportioned to a State on or after January 1, 1970, for nonimplementation of a highway safety program approved by the Secretary during such a period; suspension of application of such provision during necessary periods when in the public interest; and reapportionment of withheld amounts to other States in accordance with applicable provisions of law.
 
@@ -1186,7 +850,7 @@ Pub. L. 110–244, title III, §303(a), June 6, 2008, 122 Stat. 1619, provided t
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title II, §2022, Aug. 10, 2005, 119 Stat. 1544, provided that: "Sections 2002 through 2007 of this title \[amending this section and sections 403, 405, 406, 408, and 410 of this title and enacting provisions set out as notes under sections 403 and 410 of this title\] (and the amendments and repeals made by such sections) shall take effect October 1, 2005."
+Pub. L. 109–59, title II, §2022, Aug. 10, 2005, 119 Stat. 1544, provided that: "Sections 2002 through 2007 of thistitle \[amending this section and sections 403, 405, 406, 408, and 410 of this title and enacting provisions set out as notes under sections 403 and 410 of this title\] (and the amendments and repeals made by such sections) shall take effect October 1, 2005."
 
 #### Effective Date of 1991 Amendment
 
@@ -1334,7 +998,7 @@ In general.—To be eligible to receive a grant under the program, an eligible e
 
 &emsp;&emsp;"(B)
 
-Requirement.—An application for a grant under this paragraph shall include mechanisms for evaluating the success of applicable eligible projects and strategies.
+Requirement.—An application for a grant under this paragraph shall include mechanisms forevaluating the success of applicable eligible projects and strategies.
 
 &emsp;"(3)
 
@@ -1476,7 +1140,7 @@ Pub. L. 112–141, div. C, title I, §31101(d)–(f), July 6, 2012, 126 Stat. 73
 
 #### Safe Routes to School Program
 
-Pub. L. 109–59, title I, §1404, Aug. 10, 2005, 119 Stat. 1228, as amended by Pub. L. 110–244, §101(s)(2), June 6,2008, 122 Stat. 1577, which required the Secretary of Transportation to establish and carry out a safe routes to school program for the benefit of children in primary and middle schools and apportioned funds to carry out such program to States, was repealed by Pub. L. 117–58, div. A, title I, §11119(b)(2), Nov. 15, 2021, 135 Stat. 497, effective Oct. 1, 2021. See section 208 of this title.
+Pub. L. 109–59, title I, §1404, Aug. 10, 2005, 119 Stat. 1228, as amended by Pub. L. 110–244, §101(s)(2), June 6, 2008, 122 Stat. 1577, which required the Secretary of Transportation to establish and carry out a safe routes to school program for the benefit of children in primary and middle schools and apportioned funds to carry out such program to States, was repealed by Pub. L. 117–58, div. A, title I, §11119(b)(2), Nov. 15, 2021, 135 Stat. 497, effective Oct. 1, 2021. See section 208 of this title.
 
 #### Roadway Safety
 
@@ -1578,7 +1242,7 @@ Other uses.—The Secretary may reallocate, before the last day of any fiscal ye
 
 #### High Visibility Enforcement Program
 
-Pub. L. 109–59, title II, §2009, Aug. 10, 2005, 119 Stat. 1535, as amended by Pub. L. 111–147, title IV, §421(h)(1), Mar. 18, 2010, 124 Stat. 85; Pub. L. 112–30, title I, §121(h)(1), Sept. 16, 2011, 125 Stat. 347; Pub. L. 112–141, div. C, title I, §31106, July 6, 2012, 126 Stat. 755; Pub. L. 113–159, title I, §1101(a)(5)(B), Aug. 8, 2014, 128 Stat. 1843; Pub. L. 114–21, title I, §1101(a)(5)(B), May 29, 2015, 129 Stat. 221; Pub. L. 114–41, title I, §1101(a)(5)(B), July 31, 2015, 129 Stat. 447; Pub. L. 114–73, title I, §1101(a)(5)(B), Oct. 29, 2015, 129 Stat. 571; Pub. L. 114–87, title I, §1101(a)(5)(B), Nov. 20, 2015, 129 Stat. 680, provided that:
+Pub. L. 109–59, title II, §2009, Aug. 10, 2005, 119 Stat. 1535, as amended by Pub. L. 111–147, title IV, §421(h)(1),Mar. 18, 2010, 124 Stat. 85; Pub. L. 112–30, title I, §121(h)(1), Sept. 16, 2011, 125 Stat. 347; Pub. L. 112–141, div. C, title I, §31106, July 6, 2012, 126 Stat. 755; Pub. L. 113–159, title I, §1101(a)(5)(B), Aug. 8, 2014, 128 Stat. 1843; Pub. L. 114–21, title I, §1101(a)(5)(B), May 29, 2015, 129 Stat. 221; Pub. L. 114–41, title I, §1101(a)(5)(B), July 31, 2015, 129 Stat. 447; Pub. L. 114–73, title I, §1101(a)(5)(B), Oct. 29, 2015, 129 Stat. 571; Pub. L. 114–87, title I, §1101(a)(5)(B), Nov. 20, 2015, 129 Stat. 680, provided that:
 
 "(a)
 
@@ -1680,7 +1344,7 @@ Study.—Based on information contained in the reports submitted under paragraph
 
 #### Evaluation of Handicapped Parking System
 
-Pub. L. 102–240, title I, §1088, Dec. 18, 1991, 105 Stat. 2022, directed Secretary to conduct a study on progress being made by States in adopting and implementing uniform system for handicapped parking established in regulations issued pursuant to Pub. L. 100–641 (102 Stat. 3335), set out below, and, not later than 2 years after Dec. 18, 1991, submit to Congress the results of the study.
+Pub. L. 102–240, title I, §1088, Dec. 18, 1991, 105 Stat. 2022, directed Secretary to conduct a study on progressbeing made by States in adopting and implementing uniform system for handicapped parking established in regulations issued pursuant to Pub. L. 100–641 (102 Stat. 3335), set out below, and, not later than 2 years after Dec. 18, 1991, submit to Congress the results of the study.
 
 #### Obligation Limitation
 
@@ -1706,7 +1370,7 @@ Definitions.—For purposes of this section—
 
 &emsp;"(1)
 
-Uniform system for handicapped parking.—A uniform system for handicapped parking designed toenhance the safety of handicapped individuals is a system which—
+Uniform system for handicapped parking.—A uniform system for handicapped parking designed to enhance the safety of handicapped individuals is a system which—
 
 &emsp;&emsp;"(A) adopts the International Symbol of Access (as adopted by Rehabilitation International in 1969 at its 11th World Congress on Rehabilitation of the Disabled) as the only recognized symbol for the identification of vehicles used for transporting individuals with handicaps which limit or impair the ability to walk;
 
@@ -1798,7 +1462,7 @@ Set-aside.—Before apportioning any funds made available to carry out section 4
 
 &emsp;"(2)
 
-Application.—Any State interested in receiving under this subsection a grant to implement schoolbus safety measures in fiscal year 1989, 1990, or1991 shall submit to the Secretary an application for such grant. Applications under this subsection shall be submitted at such time and in such form and contain such information as the Secretary may require by regulation.
+Application.—Any State interested in receiving under this subsection a grant to implement schoolbus safety measures in fiscal year 1989, 1990, or 1991 shall submit to the Secretary an application for such grant. Applications under this subsection shall be submitted at such time and in such form and contain such information as the Secretary may require by regulation.
 
 &emsp;"(3)
 

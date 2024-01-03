@@ -28,7 +28,7 @@
 
 &emsp;(iii) In the case of a member's child, $10,000.
 
-(B) A member may elect in writing to be insured or to insure the member's spouse in an amount less than the amount provided for under subparagraph (A). The member may not elect to insure the member's child in an amount less than $10,000. The amount of insurance so elected shall, in the case of a member, be evenly divisible by $50,000 and, in the case of a member's spouse, be evenly divisible by $10,000.
+(B) A member may elect in writing to be insured or to insure the member's spouse in an amount less than the amount provided for under subparagraph (A). The member may not elect toinsure the member's child in an amount less than $10,000. The amount of insurance so elected shall, in the case of a member, be evenly divisible by $50,000 and, in the case of a member's spouse, be evenly divisible by $10,000.
 
 (C) In no case may the amount of insurance coverage under this subsection of a member's spouse exceed the amount of insurance coverage of the member.
 
@@ -70,7 +70,7 @@
 
 (c) If a person eligible for insurance under this subchapter is not so insured, or is insured for less than the maximum amount provided for the person under subparagraph (A) of subsection (a)(3), by reason of an election made by a member under subparagraph (B) of that subsection, the person may thereafter be insured under this subchapter in the maximum amount or any lesser amount elected as provided in such subparagraph (B) upon written application by the member, proof of good health of each person (other than a child) to be so insured, and compliance with such other terms and conditions as may be prescribed by the Secretary. Any former member insured under Veterans' Group Life Insurance who again becomes eligible for Servicemembers' Group Life Insurance and declines such coverage solely for the purpose of maintaining such member's Veterans' Group Life Insurance in effect shall upon termination of coverage under Veterans' Group Life Insurance be automatically insured under Servicemembers' Group Life Insurance, if otherwise eligible therefor.
 
-(d) Whenever a member has the opportunity to make an election under subsection (a) not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount in effect under paragraph (3)(A)(i) of that subsection, and at such other times periodically thereafter as the Secretary concerned considers appropriate, the Secretary concerned shall furnish to the member general information concerning life insurance. Such information shall include—
+(d) Whenever a member has the opportunity to make an election under subsection (a) not to be insured under this subchapter, or to be insured under this subchapter in an amount less thanthe maximum amount in effect under paragraph (3)(A)(i) of that subsection, and at such other times periodically thereafter as the Secretary concerned considers appropriate, the Secretary concerned shall furnish to the member general information concerning life insurance. Such information shall include—
 
 &emsp;(1) the purpose and role of life insurance in financial planning;
 
@@ -82,7 +82,7 @@
 
 (e) The effective date and time for any change in benefits under the Servicemembers' Group Life Insurance Program shall be based on the date and time according to the time zone immediately west of the International Date Line.
 
-(f)(1) If a member who is married and who is eligible for insurance under this section makes an election under subsection (a)(2)(A) not to beinsured under this subchapter, the Secretary concerned shall notify the member's spouse, in writing, of that election.
+(f)(1) If a member who is married and who is eligible for insurance under this section makes an election under subsection (a)(2)(A) not to be insured under this subchapter, the Secretary concerned shall notify the member's spouse, in writing, of that election.
 
 (2) In the case of a member who is married and who is insured under this section and whose spouse is designated as a beneficiary of the member under this subchapter, whenever the member makes an election under subsection (a)(3)(B) for insurance of the member in an amount that is less than the maximum amount provided under subsection (a)(3)(A)(i), the Secretary concerned shall notify the member's spouse, in writing, of that election—
 
@@ -132,7 +132,7 @@ Pub. L. 109–13, §1012(a)(1), which directed the addition of cl. (i) and the s
 
 Subsec. (a)(3)(B). Pub. L. 109–80, §5(a), substituted "member, be evenly divisible by $50,000 and, in the case of a member's spouse," for "member or spouse".
 
-Pub. L. 109–13, §1012(b), which directed substitution of "member, be evenly divisible by $50,000 and, in the caseof a member's spouse" for "member or spouse", was repealed by Pub. L. 109–80, §2. See Effective and Termination Dates of 2005 Amendments note below.
+Pub. L. 109–13, §1012(b), which directed substitution of "member, be evenly divisible by $50,000 and, in the case of a member's spouse" for "member or spouse", was repealed by Pub. L. 109–80, §2. See Effective and Termination Dates of 2005 Amendments note below.
 
 Subsec. (a)(3)(D), (E). Pub. L. 109–13, §1012(f)(2)(B), which directed addition of subpars. (D) and (E), was repealed by Pub. L. 109–80, §2. See Effective and Termination Dates of 2005 Amendments note below. Subpars. (D) and (E) read as follows:
 
@@ -276,7 +276,7 @@ Subsec. (c). Pub. L. 91–291 redesignated former subsec. (b) as subsec. (c) and
 
 #### Effective Date of 2022 Amendment
 
-Pub. L. 117–209, §2(b), Oct. 17, 2022, 136 Stat. 2243, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the later of—
+Pub. L. 117–209, §2(b), Oct. 17, 2022, 136 Stat. 2243, provided that: "The amendment made by subsection (a)\[amending this section\] shall take effect on the later of—
 
 &emsp;"(1) the date that is 60 days after the date of the enactment of this Act \[Oct. 17, 2022\]; or
 
@@ -288,7 +288,7 @@ Pub. L. 117–209, §2(b), Oct. 17, 2022, 136 Stat. 2243, provided that: "The am
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–389, title IV, §403(e)(1), Oct. 10, 2008, 122 Stat. 4174, provided that: "The amendments made bysubsection (a) \[amending this section and section 1969 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 10, 2008\]."
+Pub. L. 110–389, title IV, §403(e)(1), Oct. 10, 2008, 122 Stat. 4174, provided that: "The amendments made by subsection (a) \[amending this section and section 1969 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 10, 2008\]."
 
 #### Effective and Termination Dates of 2005 Amendments
 
@@ -368,5 +368,5 @@ Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub.
 
 #### Payment of Death Gratuity to SGLI Beneficiaries
 
-Pub. L. 103–139, title VIII, §8134, Nov. 11, 1993, 107 Stat. 1471, required Secretary of Defense to pay deathgratuity to each beneficiary under Servicemen's Group Life Insurance policy in case of each deceased member of uniformed services who died on or after Oct. 29, 1992, and before Dec. 1, 1992, and whose death was in performance of duty.
+Pub. L. 103–139, title VIII, §8134, Nov. 11, 1993, 107 Stat. 1471, required Secretary of Defense to pay death gratuity to each beneficiary under Servicemen's Group Life Insurance policy in case of each deceased member of uniformed services who died on or after Oct. 29, 1992, and before Dec. 1, 1992, and whose death was in performance of duty.
 

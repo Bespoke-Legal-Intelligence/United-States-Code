@@ -10,7 +10,7 @@
 
 &emsp;(4) be responsible for all blank certificates of naturalization received by them from time to time from the Attorney General and shall account to the Attorney General for them whenever required to do so.
 
-> No certificate of naturalization received by any clerk of court which may be defaced or injured in such manner as to prevent its use as hereinprovided shall in any case be destroyed, but such certificates shall be returned to the Attorney General.
+> No certificate of naturalization received by any clerk of court which may be defaced or injured in such manner as to prevent its use as herein provided shall in any case be destroyed, but such certificates shall be returned to the Attorney General.
 
 (b) Each district office of the Service in the United States shall maintain, in chronological order, indexed, and consecutively numbered, as part of its permanent records, all declarations of intention and applications for naturalization filed with the office.
 

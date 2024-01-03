@@ -12,7 +12,7 @@ Congress finds the following:
 
 &emsp;(4) A coordinated commitment to mathematics and science instruction at all levels of education is a necessary component of successful efforts to produce technologically literate citizens.
 
-&emsp;(5) Professional development is a necessary component of efforts to produce system-wide improvements in mathematics, engineering, and science education in secondary, elementary, and postsecondary settings.
+&emsp;(5) Professional development is a necessary component of efforts to produce system-wideimprovements in mathematics, engineering, and science education in secondary, elementary, and postsecondary settings.
 
 &emsp;(6)(A) The mission of the National Science Foundation is to provide Federal support for basic scientific and engineering research, and to be a primary contributor to mathematics, science, and engineering education at academic institutions in the United States.
 

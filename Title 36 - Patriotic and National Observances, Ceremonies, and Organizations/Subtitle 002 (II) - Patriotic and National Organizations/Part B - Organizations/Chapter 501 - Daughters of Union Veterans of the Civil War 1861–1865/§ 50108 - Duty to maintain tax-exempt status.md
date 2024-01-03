@@ -1,6 +1,6 @@
 ### §50108. Duty to maintain tax-exempt status
 
-The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.). If the corporation does not maintain that status, the charter granted by this chapter expires.
+The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.). If the corporation does not maintain thatstatus, the charter granted by this chapter expires.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1343.)
 

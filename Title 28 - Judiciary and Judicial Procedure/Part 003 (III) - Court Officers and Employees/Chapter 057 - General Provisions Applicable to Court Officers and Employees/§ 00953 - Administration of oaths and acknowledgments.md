@@ -22,5 +22,5 @@ Changes in phraseology were made.
 
 #### Senate Revision Amendment
 
-Those provisions of this section which related to the Tax Court were eliminated by Senate amendment,therefore section 1114(a) of Title 26, U.S.C., Internal Revenue Code, was not a part of the source of this section upon final enactment. The Senate amendments also eliminated section 1114(a) of the Internal Revenue Code from the schedule of repeals. See 80th Congress Senate Report No. 1559.
+Those provisions of this section which related to the Tax Court were eliminated by Senate amendment, therefore section 1114(a) of Title 26, U.S.C., Internal Revenue Code, was not a part of the source of this section upon final enactment. The Senate amendments also eliminated section 1114(a) of the Internal Revenue Code from the schedule of repeals. See 80th Congress Senate Report No. 1559.
 

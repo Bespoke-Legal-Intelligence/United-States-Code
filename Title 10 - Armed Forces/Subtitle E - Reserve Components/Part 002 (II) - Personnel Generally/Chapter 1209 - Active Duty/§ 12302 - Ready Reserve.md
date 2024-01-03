@@ -74,7 +74,7 @@ The changes are necessary to reflect section 101(b) of the Armed Forces Reserve 
 
 <b>2004</b>—Subsecs. (a), (c). Pub. L. 108–375 struck out "(other than for training)" after "active duty".
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which read as follows: "Whenever one or more units of the Ready Reserve are ordered to active duty, the President shall, on the first day of the second fiscal year quarter immediately following the quarter in which the first unit or units are ordered to active duty and on the first day of each succeeding six-month period thereafter, so long as such unit is retained on active duty, submit a report to the Congress regarding the necessity for such unit or units being ordered to and retained on active duty. The President shall include in each such report a statement of the mission of each such unit ordered to active duty, an evaluation of such unit's performance of that mission, where each such unit is being deployed at the time of the report, and such other information regarding each unit as the President deems appropriate."
+<b>2003</b>—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which read as follows: "Whenever one or more units of the Ready Reserve are ordered to active duty, the President shall, on the first day of the second fiscal year quarter immediately following the quarter in which the first unit or units are ordered to active duty and on the first day of each succeeding six-month period thereafter, so long as such unit is retained on active duty, submit a report to the Congress regarding the necessity for such unit or units being ordered toand retained on active duty. The President shall include in each such report a statement of the mission of each such unit ordered to active duty, an evaluation of such unit's performance of that mission, where each such unit is being deployed at the time of the report, and such other information regarding each unit as the President deems appropriate."
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security" in concluding provisions.
 
@@ -122,7 +122,7 @@ Sec. 5. The Secretary of Homeland Security is hereby designated and empowered, w
 
 Sec. 6. The authority delegated by this order to the Secretary of Defense and the Secretary of Homeland Security may be redelegated and further subdelegated to civilian subordinates who are appointed to their offices by the President, by and with the advice and consent of the Senate.
 
-Sec. 7. Based upon my determination under 10 U.S.C. 2201(c) that it is necessary to increase (subject to limitsimposed by law) the number of members of the armed forces on active duty for the Department of Defense beyond the number for which funds are provided in the appropriation Act for the Department of Defense, which, by virtue of 14 U.S.C. 652 \[now 14 U.S.C. 104\], applies to the Department of Homeland Security with respect to the Coast Guard, the Secretary of Defense and the Secretary of Homeland Security may provide for the cost of such additional members under their respective jurisdictions as an excepted expense under \[former\] section 11(a) of title 41, United States Code \[see 41 U.S.C. 6301(a), (b)\].
+Sec. 7. Based upon my determination under 10 U.S.C. 2201(c) that it is necessary to increase (subject to limits imposed by law) the number of members of the armed forces on active duty for the Department of Defense beyond the number for which funds are provided in theappropriation Act for the Department of Defense, which, by virtue of 14 U.S.C. 652 \[now 14 U.S.C. 104\], applies to the Department of Homeland Security with respect to the Coast Guard, the Secretary of Defense and the Secretary of Homeland Security may provide for the cost of such additional members under their respective jurisdictions as an excepted expense under \[former\] section 11(a) of title 41, United States Code \[see 41 U.S.C. 6301(a), (b)\].
 
 Sec. 8. This order is intended only to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
@@ -147,4 +147,34 @@ Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 14097. Authority To Order the Ready Reserve of the Armed Forces to Active Duty To Address International Drug Trafficking
+
+Ex. Ord. No. 14097, Apr. 27, 2023, 88 F.R. 26471, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act (50 U.S.C. 1601 et seq.), and in furtherance of Executive Order 14059 of December 15, 2021 (Imposing Sanctions on Foreign Persons Involved in the Global Illicit Drug Trade) \[50 U.S.C. 1701 note\], which declared a national emergency to address the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States posed by international drug trafficking, it is hereby ordered as follows:
+
+Section 1. <i>Emergency Authority</i>. To provide additional authority to the Secretary of Defense and the Secretary of Homeland Security to respond to the national emergency declared in Executive Order 14059, the authority under section 12302 of title 10, United States Code, is invoked and made available, according to its terms, to the Secretary of Defense and the Secretary of Homeland Security. The Secretaries of the Army, Navy, and Air Force, at the direction of the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, are authorized to order to active duty such units and individual members of the Ready Reserve under the jurisdiction of the Secretary concerned as the Secretary concerned considers necessary, consistent with the terms of section 12302 of title 10, United States Code.
+
+Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 14102. Ordering the Selected Reserve and Certain Members of the Individual Ready Reserve of the Armed Forces to Active Duty
+
+Ex. Ord. No. 14102, July 13, 2023, 88 F.R. 45807, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active Armed Forces of the United States for the effective conduct of Operation Atlantic Resolve in and around the United States European Command's area of responsibility. In furtherance of this operation, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, under their respective jurisdictions, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit of the Selected Reserve, or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, not to exceed 3,000 total members at any one time, of whom not more than 450 may be members of the Individual Ready Reserve, as they deem necessary, and to terminate the service of those units and members ordered to active duty.
+
+This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

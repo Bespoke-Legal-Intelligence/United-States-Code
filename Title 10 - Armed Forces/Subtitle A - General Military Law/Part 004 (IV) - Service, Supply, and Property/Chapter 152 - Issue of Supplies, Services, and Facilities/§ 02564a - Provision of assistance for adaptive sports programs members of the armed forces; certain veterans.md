@@ -10,7 +10,7 @@ Program Authorized.—(1) The Secretary of Defense may establish a military adap
 
 &emsp;&emsp;(i) is on the Temporary Disability Retirement List or Permanently Disabled Retirement List;
 
-&emsp;&emsp;(ii) is eligible to participate in adaptive sports because of an injury, illness, or woundincurred in the line of duty in the armed forces; and
+&emsp;&emsp;(ii) is eligible to participate in adaptive sports because of an injury, illness, or wound incurred in the line of duty in the armed forces; and
 
 &emsp;&emsp;(iii) was enrolled in the program authorized under this section prior to the veteran's date of separation.
 

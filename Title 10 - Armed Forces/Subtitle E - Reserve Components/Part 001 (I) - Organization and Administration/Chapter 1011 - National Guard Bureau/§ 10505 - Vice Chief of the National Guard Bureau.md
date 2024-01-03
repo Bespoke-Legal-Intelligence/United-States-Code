@@ -24,11 +24,19 @@ Appointment.—(1) There is a Vice Chief of the National Guard Bureau, appointed
 
 Duties.—The Vice Chief of the National Guard Bureau performs such duties as may be prescribed by the Chief of the National Guard Bureau.
 
-(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2826; amended Pub. L. 108–375, div. A, title V, §§507(c), 508(a)–(b)(3), (c)(1), Oct. 28, 2004, 118 Stat. 1876, 1877; Pub. L. 112–81, div. A, title V, §511(b), (c)(1), (d)(1), Dec. 31, 2011, 125 Stat. 1392, 1393; Pub. L. 114–328, div. A, title V, §§502(rr), 511, Dec. 23, 2016, 130 Stat. 2106, 2112.)
+(c)
+
+Grade.—(1) The Vice Chief of the National Guard Bureau shall be appointed to serve in the grade of general.
+
+(2) The Secretary of Defense shall designate, pursuant to subsection (b) of section 526 of this title, the position of Vice Chief of the National Guard Bureau as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.
+
+(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2826; amended Pub. L. 108–375, div. A, title V, §§507(c), 508(a)–(b)(3), (c)(1), Oct. 28, 2004, 118 Stat. 1876, 1877; Pub. L. 112–81, div. A, title V, §511(b), (c)(1), (d)(1), Dec. 31, 2011, 125 Stat. 1392, 1393; Pub. L. 114–328, div. A, title V, §§502(rr), 511, Dec. 23, 2016, 130 Stat. 2106, 2112; Pub. L. 118–31, div. A, title V, §512, Dec. 22, 2023, 137 Stat. 244.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c). Pub. L. 118–31 added subsec. (c).
 
 <b>2016</b>—Subsec. (a)(1)(E). Pub. L. 114–328, §502(rr)(1), struck out subpar. (E) which read as follows: "are in a grade above the grade of brigadier general."
 
@@ -42,7 +50,7 @@ Subsec. (c). Pub. L. 114–328, §502(rr)(2), struck out subsec. (c). Text read 
 
 <b>2011</b>—Pub. L. 112–81, §511(d)(1), substituted "Vice Chief of the National Guard Bureau" for "Director of the Joint Staff of the National Guard Bureau" in section catchline.
 
-Subsec. (a)(1). Pub. L. 112–81, §511(b)(1), substituted "Vice Chief of the National Guard Bureau, appointed by the President, by and with the advice and consent ofthe Senate. The appointment shall be made from" for "Director of the Joint Staff of the National Guard Bureau, selected by the Secretary of Defense from" in introductory provisions.
+Subsec. (a)(1). Pub. L. 112–81, §511(b)(1), substituted "Vice Chief of the National Guard Bureau, appointed by the President, by and with the advice and consent of the Senate. The appointment shall be made from" for "Director of the Joint Staff of the National Guard Bureau, selected by the Secretary of Defense from" in introductory provisions.
 
 Subsec. (a)(1)(B) to (E). Pub. L. 112–81, §511(b)(2), added subpars. (B) and (C), redesignated former subpars. (B) and (C) as (D) and (E), respectively, and substituted "brigadier general" for "colonel" in subpar. (E).
 

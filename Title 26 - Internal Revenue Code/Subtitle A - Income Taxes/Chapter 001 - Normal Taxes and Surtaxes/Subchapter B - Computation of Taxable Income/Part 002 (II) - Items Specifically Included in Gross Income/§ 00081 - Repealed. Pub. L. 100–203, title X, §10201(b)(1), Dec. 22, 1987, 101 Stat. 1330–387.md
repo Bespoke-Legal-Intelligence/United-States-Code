@@ -6,5 +6,5 @@ Section, added Pub. L. 89–722, §1(b)(1), Nov. 2, 1966, 80 Stat. 1152; amended
 
 #### Effective Date of Repeal
 
-Repeal applicable to taxable years beginning after Dec. 31, 1987, see section 10201(c)(1) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 404 of this title.
+Repeal applicable to taxable years beginning after Dec. 31, 1987, see section 10201(c)(1) of Pub. L. 100–203,set out as an Effective Date of 1987 Amendment note under section 404 of this title.
 

@@ -24,7 +24,7 @@ In general.—A person who unlawfully and intentionally—
 
 &emsp;(2)
 
-Threat to safety.—A person who threatens to do anything prohibited under paragraph (1)(B) or (C), with apparent determination and will to carry the threat into execution, if the threatened act is likely to endanger the safety of the fixed platform, shall be fined under this title, imprisoned not more than 5 years, or both.
+Threat to safety.—A person who threatens to do anything prohibited under paragraph (1)(B) or (C), with apparent determination and will to carry the threat into execution, if the threatened act is likely to endanger the safety of the fixed platform, shall be fined under thistitle, imprisoned not more than 5 years, or both.
 
 (b)
 

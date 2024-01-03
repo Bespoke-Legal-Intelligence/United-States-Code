@@ -30,7 +30,7 @@ There are authorized to be appropriated to the Department of State, for each of 
 
 &emsp;&emsp;(C) to assist countries in meeting the minimum standards described in section 7106 of this title; and
 
-&emsp;&emsp;(D) for programs and activities on prevention, protection, and prosecution to combat all forms of trafficking in persons internationally, including training activities for law enforcement officers, prosecutors, andmembers of the judiciary with respect to trafficking in persons at the International Law Enforcement Academies.
+&emsp;&emsp;(D) for programs and activities on prevention, protection, and prosecution to combat all forms of trafficking in persons internationally, including training activities for law enforcement officers, prosecutors, and members of the judiciary with respect to trafficking in persons at the International Law Enforcement Academies.
 
 #### (2) Preparation of annual country reports on human rights
 
@@ -178,7 +178,7 @@ Subsec. (d). Pub. L. 113–4, §1251(2)(D), redesignated subpars. (A) to (C) as 
 
 Subsec. (e)(1). Pub. L. 113–4, §1251(2)(E)(i), substituted "$7,500,000 for each of the fiscal years 2014 through 2017" for "$15,000,000 for each of the fiscal years 2008 through 2011".
 
-Subsec. (e)(2). Pub. L. 113–4, §1251(2)(E)(ii), substituted "$7,500,000 for each of the fiscal years 2014through 2017" for "$15,000,000 for each of the fiscal years 2008 through 2011".
+Subsec. (e)(2). Pub. L. 113–4, §1251(2)(E)(ii), substituted "$7,500,000 for each of the fiscal years 2014 through 2017" for "$15,000,000 for each of the fiscal years 2008 through 2011".
 
 Subsec. (f). Pub. L. 113–4, §1251(2)(F), substituted "$5,000,000 for each of the fiscal years 2014 through 2017" for "$10,000,000 for each of the fiscal years 2008 through 2011".
 

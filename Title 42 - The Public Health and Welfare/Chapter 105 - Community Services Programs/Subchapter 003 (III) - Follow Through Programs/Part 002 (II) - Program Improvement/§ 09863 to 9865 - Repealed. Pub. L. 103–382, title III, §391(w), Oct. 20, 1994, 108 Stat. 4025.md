@@ -10,7 +10,7 @@ Section 9863b, Pub. L. 97–35, title VI, §664B, as added Pub. L. 101–501, ti
 
 Section 9863c, Pub. L. 97–35, title VI, §664C, as added Pub. L. 101–501, title II, §204(a), Nov. 3, 1990, 104 Stat. 1246, related to grant to establish national clearinghouse on Follow Through programs.
 
-Section 9864, Pub. L. 97–35, title VI, §665, Aug. 13, 1981, 95 Stat. 510; Pub. L. 101–501, title II, §205, Nov. 3, 1990, 104 Stat. 1246, related to announcement of research and evaluation contracts.
+Section 9864, Pub. L. 97–35, title VI, §665, Aug. 13, 1981, 95 Stat. 510; Pub. L. 101–501, title II, §205, Nov. 3, 1990,104 Stat. 1246, related to announcement of research and evaluation contracts.
 
 Section 9865, Pub. L. 97–35, title VI, §666, Aug. 13, 1981, 95 Stat. 510; Pub. L. 101–501, title II, §206, Nov. 3, 1990, 104 Stat. 1247, related to continuing evaluation of programs under this subchapter.
 

@@ -18,7 +18,7 @@ There is established the Federal Interagency Council on Social Impact Partnershi
 
 &emsp;(7) provide guidance to the executive branch on the future of social impact partnership projects in the United States;
 
-&emsp;(8) prior to approval by the Secretary, certify that each State and local government application for a social impact partnership contains rigorous, independent data and reliable, evidence-based research methodologies to support the conclusion that the project will yield savings to the State or local government or the Federal Government if the project outcomes are achieved;
+&emsp;(8) prior to approval by the Secretary, certify that each State and local government application for a social impact partnership contains rigorous, independent data and reliable, evidence-based research methodologies to support the conclusion that the project will yieldsavings to the State or local government or the Federal Government if the project outcomes are achieved;
 
 &emsp;(9) certify to the Secretary, in the case of each approved social impact partnership that is expected to yield savings to the Federal Government, that the project will yield a projected savings to the Federal Government if the project outcomes are achieved, and coordinate with the relevant Federal agency to produce an after-action accounting once the project is complete to determine the actual Federal savings realized, and the extent to which actual savings aligned with projected savings; and
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Effective for each of the 2014 through 2023 crop years, in the case of a producer that would be eligible for a loan deficiency payment under section 9035 of this title for wheat, barley, or oats, but that elects to use acreage planted to the wheat, barley, or oats for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement withthe Secretary to forgo any other harvesting of the wheat, barley, or oats on that acreage.
+&emsp;Effective for each of the 2014 through 2023 crop years, in the case of a producer that would be eligible for a loan deficiency payment under section 9035 of this title for wheat, barley, or oats, but that elects to use acreage planted to the wheat, barley, or oats for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of the wheat, barley, or oats on that acreage.
 
 #### (2) Grazing of triticale acreage
 
@@ -30,7 +30,7 @@
 
 #### (2) Grazing of triticale acreage
 
-&emsp;The amount of a payment made under this section to a producer on a farm described in subsection (a)(2) shall be equal to the amount determined by multiplying—
+&emsp;The amount of a payment made under this section to a producer on a farm described insubsection (a)(2) shall be equal to the amount determined by multiplying—
 
 &emsp;&emsp;(A) the loan deficiency payment rate determined under section 9035(c) of this title in effect for wheat, as of the date of the agreement, for the county in which the farm is located; by
 
@@ -73,6 +73,10 @@ A 2014 through 2023 crop of wheat, barley, oats, or triticale planted on acreage
 Subchapter I, referred to in subsec. (b)(2)(B)(ii)(I), was in the original "subtitle A", meaning subtitle A of title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 658, which is classified principally to subchapter I of this chapter. For complete classification of subtitle A to the Code, see Tables.
 
 The Federal Crop Insurance Act, referred to in subsec. (d), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+
+#### Codification
+
+Provisions of law applicable to a loan commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that loan commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
 #### Amendments
 

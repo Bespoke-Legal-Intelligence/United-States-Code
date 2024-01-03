@@ -130,5 +130,5 @@ Functions of President under subsec. (a)(1) to (3) of this section delegated to 
 
 #### Community Adjustment and Investment Program Finance Committee
 
-For provisions establishing the Community Adjustment and Investment Program Finance Committee to assist in carrying out the program pursuant to subsec. (a)(3) of this section and to provide to the President advice and conclusions of reviews by the Advisory Committee pursuant to subsec. (b)(3) of this section and summaries of public comments or conclusions of investigations and audits by the ombudsman pursuant to subsec. (c)(1) of this section, see Ex. Ord. No. 12916, §§7–9, May 13, 1994, 59 F.R. 25780, set out as a note under section 3473 of Title 19, Customs Duties.
+For provisions establishing the Community Adjustment and Investment Program Finance Committee toassist in carrying out the program pursuant to subsec. (a)(3) of this section and to provide to the President advice and conclusions of reviews by the Advisory Committee pursuant to subsec. (b)(3) of this section and summaries of public comments or conclusions of investigations and audits by the ombudsman pursuant to subsec. (c)(1) of this section, see Ex. Ord. No. 12916, §§7–9, May 13, 1994, 59 F.R. 25780, set out as a note under section 3473 of Title 19, Customs Duties.
 

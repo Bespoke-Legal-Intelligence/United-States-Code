@@ -18,7 +18,7 @@
 
 #### (2) Exceptions
 
-&emsp;Only in relation to health insurance coverage offered by a health insurance issuer, theprovisions of this part do not supersede any provision of State law to the extent that such provision—
+&emsp;Only in relation to health insurance coverage offered by a health insurance issuer, the provisions of this part do not supersede any provision of State law to the extent that such provision—
 
 &emsp;&emsp;(A) substitutes for the reference to "6-month period" in section 1181(a)(1) of this title a reference to any shorter period of time;
 

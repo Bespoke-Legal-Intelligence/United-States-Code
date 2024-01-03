@@ -26,7 +26,7 @@
 
 #### (3) Coordination of centers
 
-&emsp;The Director of NIH shall, as appropriate, provide for the coordination of informationamong centers under paragraph (1) and ensure regular communication and sharing of data between such centers.
+&emsp;The Director of NIH shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication and sharing of data between such centers.
 
 #### (4) Organization of centers
 

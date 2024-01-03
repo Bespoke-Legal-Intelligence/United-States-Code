@@ -40,7 +40,7 @@ In any fiscal year that the Secretary determines that Howard University or the U
 
 #### (1) Student requirements for allotment
 
-&emsp;Notwithstanding any other provision of this section, a part B institution that would otherwise be eligible for funds under this part shall not receive an allotment under this part for afiscal year, including the minimum allotment under subsection (d), if the part B institution, in the academic year preceding such fiscal year—
+&emsp;Notwithstanding any other provision of this section, a part B institution that would otherwise be eligible for funds under this part shall not receive an allotment under this part for a fiscal year, including the minimum allotment under subsection (d), if the part B institution, in the academic year preceding such fiscal year—
 
 &emsp;&emsp;(A) did not have any enrolled students who were Pell Grant recipients;
 
@@ -82,7 +82,7 @@ Another prior section 1063, Pub. L. 89–329, title IV, §403, Nov. 8, 1965, 79 
 
 "(1) Notwithstanding subsections (a), (b), and (c) of this section, the amount allotted to each part B institution under this section shall not be less than $500,000.
 
-"(2) If the amount appropriated pursuant to section 1069f(a)(2)(A) of this title for any fiscal year is not sufficient to pay the minimum allotment required by paragraph (1) of this subsection to all part B institutions, the amount of such minimum allotments shall be ratably reduced. If additional sums become available for such fiscal year, such reduced allocation shall be increased on the same basis as they were reduced (until the amount allotted equals the minimum allotment required by paragraph (1))."
+"(2) If the amount appropriated pursuant to section 1069f(a)(2)(A) of this title for any fiscal year is not sufficient to pay the minimum allotment required by paragraph (1) of this subsection to all part B institutions,the amount of such minimum allotments shall be ratably reduced. If additional sums become available for such fiscal year, such reduced allocation shall be increased on the same basis as they were reduced (until the amount allotted equals the minimum allotment required by paragraph (1))."
 
 Subsec. (h). Pub. L. 110–315, §310(b), added subsec. (h).
 

@@ -154,7 +154,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (I) First fiscal year
 
-&emsp;&emsp;&emsp;&emsp;During the first fiscal year of the Board, each unit shall be allotted one vote for each percent, or portion of a percent, of the total production of soybeans in the United States that was produced in the unit, on the average, during each of the 3 immediately preceding crop years.
+&emsp;&emsp;&emsp;&emsp;During the first fiscal year of the Board, each unit shall be allotted onevote for each percent, or portion of a percent, of the total production of soybeans in the United States that was produced in the unit, on the average, during each of the 3 immediately preceding crop years.
 
 #### (II) Second and third fiscal years
 
@@ -162,7 +162,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (iii) Division of votes within units
 
-&emsp;&emsp;&emsp;A unit's total votes under clause (i) or (ii) shall be divided equally among all the members present and voting representingthat unit. The procedures established by the order shall provide for the equitable disposition of fractional votes assigned to a member under such division of a unit's vote.
+&emsp;&emsp;&emsp;A unit's total votes under clause (i) or (ii) shall be divided equally among all the members present and voting representing that unit. The procedures established by the order shall provide for the equitable disposition of fractional votes assigned to a member under such division of a unit's vote.
 
 #### (3) Motions
 
@@ -394,7 +394,7 @@ The order shall require the Board to—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The order shall contain provisions relating to refunds after the approval of theorder in the initial referendum under section 6305(a) of this title as required in this subparagraph.
+&emsp;&emsp;&emsp;The order shall contain provisions relating to refunds after the approval of the order in the initial referendum under section 6305(a) of this title as required in this subparagraph.
 
 #### (ii) Availability
 
@@ -440,7 +440,7 @@ The order shall require the Board to—
 
 #### (VI) Surplus funds
 
-&emsp;&emsp;&emsp;&emsp;Any funds not refunded to producers in a State under this clause shall be dividedequally between the Board and the qualified State soybean board of such State. Such funds shall be used to carry out programs under this chapter.
+&emsp;&emsp;&emsp;&emsp;Any funds not refunded to producers in a State under this clause shall be divided equally between the Board and the qualified State soybean board of such State. Such funds shall be used to carry out programs under this chapter.
 
 #### (VII) Refund period
 

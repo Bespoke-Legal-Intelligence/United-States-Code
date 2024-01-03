@@ -65,7 +65,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 &emsp;"(1) as commercial enterprises and more countries acquire the ability to land on the Moon, it is necessary to encourage the development of best practices to respect the principle of due regard and to limit harmful interference to the Apollo landing site artifacts in acknowledgment of the human effort and innovation they represent, as well as their archaeological, anthropological, historical, scientific, and engineering significance and value; and
 
-&emsp;"(2) the Administrator of the National Aeronautics and Space Administration should continue to develop best practices to respect the principle of due regard and limit harmful interference with historic Apollo lunar landing site artifacts.
+&emsp;"(2) the Administrator of the National Aeronautics and Space Administration should continue to develop best practices to respect the principle of due regardand limit harmful interference with historic Apollo lunar landing site artifacts.
 
 #### "SEC. 3. BEST PRACTICES RELATED TO APOLLO HISTORIC LUNAR LANDING SITE ARTIFACTS.
 
@@ -197,7 +197,7 @@ Elements.—The revised regulations under subsection (a) shall, at a minimum—
 
 &emsp;"(1) address organizational conflicts of interest that could potentially arise as a result of—
 
-&emsp;&emsp;"(A) lead system integrator contracts on major acquisition programs and contracts that follow leadsystem integrator contracts on such programs, particularly contracts for production;
+&emsp;&emsp;"(A) lead system integrator contracts on major acquisition programs and contracts that follow lead system integrator contracts on such programs, particularly contracts for production;
 
 &emsp;&emsp;"(B) the ownership of business units performing systems engineering and technical assistance functions, professional services, or management support services in relation to major acquisition programs by contractors who simultaneously own business units competing to perform as either the prime contractor or the supplier of a major subsystem or component for such programs;
 

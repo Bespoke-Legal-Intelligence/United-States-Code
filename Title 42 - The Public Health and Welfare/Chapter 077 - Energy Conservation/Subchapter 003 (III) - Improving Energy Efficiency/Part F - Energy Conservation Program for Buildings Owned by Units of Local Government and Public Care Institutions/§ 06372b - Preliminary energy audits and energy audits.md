@@ -6,7 +6,7 @@ The Governor of any State may apply to the Secretary at such time as the Secreta
 
 #### (b) Grants for conduct of preliminary energy audits
 
-Upon application under subsection (a), the Secretary may make grants to States to assist in conducting preliminary energy audits under this part for buildings owned by units of local government and public care institutions. Such audits shall be conducted in accordance with the guidelines prescribed under section 6372a(a)(1) of this title.
+Upon application under subsection (a), the Secretary may make grants to States to assistin conducting preliminary energy audits under this part for buildings owned by units of local government and public care institutions. Such audits shall be conducted in accordance with the guidelines prescribed under section 6372a(a)(1) of this title.
 
 #### (c) Application by Governor, unit of local government or public care institution
 

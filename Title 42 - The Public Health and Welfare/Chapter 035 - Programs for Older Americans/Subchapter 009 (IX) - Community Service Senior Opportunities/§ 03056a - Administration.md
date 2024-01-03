@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;(v) eligible individuals who have been incarcerated within the last 5 years or are under supervision following release from prison or jail within the last 5 years;
 
-&emsp;&emsp;(D) the current and projected employment opportunities in the State (such as by providing information available under section 49l–2 of title 29 by occupation), and the type of skills possessed by local eligible individuals;
+&emsp;&emsp;(D) the current and projected employment opportunities in the State (such as by providing information available under section 49l–2 of title 29 by occupation), and the typeof skills possessed by local eligible individuals;
 
 &emsp;&emsp;(E) the localities and populations for which projects of the type authorized by this subchapter are most needed; and
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(B) any recommendations for redistribution of positions to underserved areas as vacancies occur in previously encumbered positions in other areas; and
 
-&emsp;&emsp;(C) in the case of any increase in funding that may be available for use in the Stateunder this subchapter for the fiscal year, any recommendations for distribution of newly available positions in excess of those available during the preceding year to underserved areas.
+&emsp;&emsp;(C) in the case of any increase in funding that may be available for use in the State under this subchapter for the fiscal year, any recommendations for distribution of newly available positions in excess of those available during the preceding year to underserved areas.
 
 #### (6) Combined State plan
 
@@ -162,7 +162,7 @@ The National and Community Service Act of 1990, referred to in subsec. (b)(2)(A)
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (b)(2)(A), (B)(i), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-The Age Discrimination in Employment Act of 1967, referred to in subsec. (b)(3), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
+The Age Discrimination in Employment Act of 1967, referred to in subsec. (b)(3), is Pub. L. 90–202, Dec. 15,1967, 81 Stat. 602, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -178,7 +178,7 @@ Another prior section 503 of Pub. L. 89–73 was classified to section 3041b of 
 
 <b>2016</b>—Subsec. (a)(3). Pub. L. 114–144, §6(b)(1)(B), substituted "paragraph (8)" for "paragraph (7)".
 
-Subsec. (a)(4)(F). Pub. L. 114–144, §6(b)(1)(C), added subpar. (F) and struck out former subpar. (F) whichread as follows: "plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act."
+Subsec. (a)(4)(F). Pub. L. 114–144, §6(b)(1)(C), added subpar. (F) and struck out former subpar. (F) which read as follows: "plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act."
 
 Subsec. (a)(6). Pub. L. 114–144, §6(b)(1)(D), added par. (6). Former par. (6) redesignated (7).
 

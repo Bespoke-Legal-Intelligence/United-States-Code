@@ -46,7 +46,7 @@ Research and evaluation conducted under this section designed to determine the e
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Secretary of Labor, shall develop a database (which shall be referred to as the "WhatWorks Clearinghouse of Proven and Promising Projects to Move Welfare Recipients into Work") of the projects that used a proven approach or a promising approach in moving welfare recipients into work, based on independent, rigorous evaluations of the projects. The database shall include a separate listing of projects that used a developmental approach in delivering services and a further separate listing of the projects with no or negative effects. The Secretary shall add to the What Works Clearinghouse of Proven and Promising Projects to Move Welfare Recipients into Work data about the projects that, based on an independent, well-conducted experimental evaluation of a program or project, using random assignment or other research methodologies that allow for the strongest possible causal inferences, have shown they are proven, promising, developmental, or ineffective approaches.
+&emsp;The Secretary, in consultation with the Secretary of Labor, shall develop a database (which shall be referred to as the "What Works Clearinghouse of Proven and Promising Projects to Move Welfare Recipients into Work") of the projects that used a proven approach or a promising approach in moving welfare recipients into work, based on independent, rigorous evaluations of the projects. The database shall include a separate listing of projects that used a developmental approach in delivering services and a further separate listing of the projects with no or negative effects. The Secretary shall add to the What Works Clearinghouse of Proven and Promising Projects to Move Welfare Recipients into Work data about the projects that, based on an independent, well-conducted experimental evaluation of a program or project, using random assignment or other research methodologies that allow for the strongest possible causal inferences, have shown they are proven, promising, developmental, or ineffective approaches.
 
 #### (2) Criteria for evidence of effectiveness of approach
 
@@ -124,7 +124,7 @@ Absolute out-of-wedlock ratios.—The ratio represented by—
 
 &emsp;"(ii)
 
-Net changes in the out-of-wedlock ratio.—The difference between the ratio described in subparagraph (A)(i) with respect to a State for the mostrecent fiscal year for which such information is available and the ratio with respect to the State for the immediately preceding year."
+Net changes in the out-of-wedlock ratio.—The difference between the ratio described in subparagraph (A)(i) with respect to a State for the most recent fiscal year for which such information is available and the ratio with respect to the State for the immediately preceding year."
 
 Subsec. (h)(1)(D). Pub. L. 105–33, §5509(c), substituted "August 22, 1996" for "September 30, 1995".
 

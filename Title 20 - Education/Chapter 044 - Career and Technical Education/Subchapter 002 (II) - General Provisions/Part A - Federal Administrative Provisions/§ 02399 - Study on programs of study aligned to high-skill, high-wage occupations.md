@@ -14,7 +14,7 @@ The Comptroller General of the United States shall conduct a study to evaluate�
 
 #### (b) Consultation
 
-In carrying out the study conducted under subsection (a), the Comptroller General of theUnited States shall consult with a geographically diverse (including urban, suburban, and rural) representation of—
+In carrying out the study conducted under subsection (a), the Comptroller General of the United States shall consult with a geographically diverse (including urban, suburban, and rural) representation of—
 
 &emsp;(1) students and parents;
 
@@ -46,13 +46,9 @@ Section 2402, Pub. L. 88–210, title IV, §402, as added Pub. L. 98–524, §1,
 
 Section 2403, Pub. L. 88–210, title IV, §403, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2467; amended Pub. L. 101–392, title IV, §404, Sept. 25, 1990, 104 Stat. 807, related to national assessment of vocational education programs.
 
-Section 2404, Pub. L. 88–210, title IV, §404, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2468; amended Pub. L. 101–392, title IV, §405, Sept. 25, 1990, 104 Stat. 809; Pub. L. 103–382, title III, §351(a)(2), Oct. 20, 1994, 108 Stat. 3966, related to National Center or Centers for Research in Vocational Education.
+Section 2404, Pub. L. 88–210, title IV, §404, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2468; amended Pub. L. 101–392, title IV, §405, Sept. 25, 1990, 104 Stat.809; Pub. L. 103–382, title III, §351(a)(2), Oct. 20, 1994, 108 Stat. 3966, related to National Center or Centers for Research in Vocational Education.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

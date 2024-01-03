@@ -28,7 +28,7 @@ Amendment by Pub. L. 105–330 effective Oct. 30, 1998, and applicable only to a
 
 #### Repeal and Effect on Existing Rights
 
-Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrationsand rights under prior acts, see notes set out under section 1051 of this title.
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
 #### <b>Executive Documents</b>
 

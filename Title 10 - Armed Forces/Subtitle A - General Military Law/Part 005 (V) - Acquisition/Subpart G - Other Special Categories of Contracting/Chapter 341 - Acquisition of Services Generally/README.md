@@ -24,6 +24,124 @@ Another prior chapter 341 was renumbered chapter 721 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Preventing Conflicts of Interest for Entities That Provide Certain Consulting Services to the Department of Defense
+
+Pub. L. 118–31, div. A, title VIII, §812, Dec. 22, 2023, 137 Stat. 323, provided that:
+
+"(a)
+
+In General.—
+
+&emsp;"(1)
+
+Certification.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense shall amend the Department of Defense Supplement to the Federal Acquisition Regulation to require any entity that provides consulting services and is assigned a North American Industry Classification System code beginning with 5416, after the effective date of such amendment and before entering into a covered contract, to certify that—
+
+&emsp;&emsp;"(A) neither the entity nor any subsidiaries or affiliates of the entity (as that term is defined in section 2.101 of the Federal Acquisition Regulation) hold a contract for consulting services with one or more covered foreign entities; or
+
+&emsp;&emsp;"(B) the entity maintains a Conflict of Interest Mitigation plan described under subsection (b) that is auditable by a contract oversight entity.
+
+&emsp;"(2)
+
+Prohibition.—The Secretary of Defense may not enter into a covered contract with an entity described in paragraph (1) that is unable to make the certification required under such paragraph.
+
+"(b)
+
+Conflict of Interest Mitigation Plan.—A Conflict of Interest Mitigation plan described under this subsection shall include—
+
+&emsp;"(1) an identification, where such identification is not otherwise prohibited by law or regulation, of any covered contracts of an entity described in subsection (a) with a covered foreign entity;
+
+&emsp;"(2) a written analysis, including a course of action for avoiding, neutralizing, or mitigating the actual or potential conflict of interest of such a covered contract with the Department of Defense;
+
+&emsp;"(3) a description of the procedures adopted by an entity to ensure that individuals who will be performing a covered contract will not, for the duration of such contract, also provide any consulting services to any covered foreign entity; and
+
+&emsp;"(4) a description of the procedures by which an entity will submit to the contract oversight entities a notice of an unmitigated conflict of interest with respect to a covered contract within 15 days of determining that such a conflict has arisen.
+
+"(c)
+
+Alternative Identification of Covered Foreign Entities.—If an entity is unable to identify covered foreign entities under subsection (b)(1) due to confidentiality obligations, the entity shall identify any such covered foreign entity as an entity described in subparagraphs (A) through (F) of subsection (f)(4) in the Conflict of Interest Mitigation plan.
+
+"(d)
+
+Notification.—Before determining to withhold an award of a covered contract based on a conflict of interest under this section that cannot be avoided or mitigated, the contracting officer for the contract shall notify the offeror of the reasons for such withholding and allow the offeror a reasonable opportunity to respond. If the contracting officer for the contract finds that it is in the best interests of the United States to award the contract notwithstanding such a conflict of interest, a request for waiver shall be submitted in accordance with section 9.503 of title 48, Code of Federal Regulations. The waiver request and decision shall be included in the contract file.
+
+"(e)
+
+Waiver.—
+
+&emsp;"(1)
+
+Authority.—The Secretary of Defense may issue a waiver with respect to the requirements of this section for the award of a covered contract on a case-by-case basis as may be necessary in the interest of national security. The Secretary of Defense may not delegate the authority under this subsection to an official who has not been Presidentially appointed and confirmed by the Senate.
+
+&emsp;"(2)
+
+Waiver notification.—Not later than 30 days after issuing a waiver under this subsection, the Secretary of Defense shall provide a written notification to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives regarding the use of such waiver authority. The notification shall include—
+
+&emsp;&emsp;"(A) the specific justification for providing the waiver;
+
+&emsp;&emsp;"(B) an identification of the covered foreign entity that is the subject of the waiver request;
+
+&emsp;&emsp;"(C) the number of bidders for the covered contract for which the waiver was granted;
+
+&emsp;&emsp;"(D) the number of bidders for the covered contract that did not request a waiver; and
+
+&emsp;&emsp;"(E) the total dollar value of the covered contract.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'consulting services' has the meaning given the term 'advisory and assistance services' in section 2.101 of the Federal Acquisition Regulation, except that the term does not include the provision of products or services related to—
+
+&emsp;&emsp;"(A) compliance with legal, audit, accounting, tax, reporting, or other requirements of the laws and standards of countries; or
+
+&emsp;&emsp;"(B) participation in a judicial, legal, or equitable dispute resolution proceeding.
+
+&emsp;"(2) The term 'contract oversight entity' means any of the following:
+
+&emsp;&emsp;"(A) The contracting officer.
+
+&emsp;&emsp;"(B) The contracting officer representative.
+
+&emsp;&emsp;"(C) The Defense Contract Management Agency.
+
+&emsp;&emsp;"(D) The Defense Contract Audit Agency.
+
+&emsp;&emsp;"(E) The Office of Inspector General of the Department of Defense or any subcomponent of such office.
+
+&emsp;&emsp;"(F) The Government Accountability Office.
+
+&emsp;"(3) The term 'covered contract' means a contract of the Department of Defense for consulting services.
+
+&emsp;"(4) The term 'covered foreign entity' means any of the following:
+
+&emsp;&emsp;"(A) The Government of the People's Republic of China, the Chinese Communist Party, the People's Liberation Army, the Ministry of State Security, or other security service or intelligence agency of the People's Republic of China.
+
+&emsp;&emsp;"(B) The Government of the Russian Federation or any entity sanctioned by the Secretary of the Treasury under Executive Order 13662 titled 'Blocking Property of Additional Persons Contributing to the Situation in Ukraine' (79 Fed. Reg. 16169) \[listed in a table under section 1701 of Title 50, War and National Defense\].
+
+&emsp;&emsp;"(C) The government of any country if the Secretary of State determines that such government has repeatedly provided support for acts of international terrorism pursuant to any of the following:
+
+&emsp;&emsp;&emsp;"(i) Section 1754(c)(1)(A) of the Export Control Reform Act of 2018 (50 U.S.C. 4318(c)(1)(A)) \[sic; probably should be "(50 U.S.C. 4813(c)(1)(A))"\].
+
+&emsp;&emsp;&emsp;"(ii) Section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371).
+
+&emsp;&emsp;&emsp;"(iii) Section 40 of the Arms Export Control Act (22 U.S.C. 2780).
+
+&emsp;&emsp;&emsp;"(iv) Any other provision of law.
+
+&emsp;&emsp;"(D) Any entity included on any of the following lists maintained by the Department of Commerce:
+
+&emsp;&emsp;&emsp;"(i) The Entity List set forth in Supplement No. 4 to part 744 of the Export Administration Regulations.
+
+&emsp;&emsp;&emsp;"(ii) The Denied Persons List as described in section 764.3(a)(2) of the Export Administration Regulations.
+
+&emsp;&emsp;&emsp;"(iii) The Unverified List set forth in Supplement No. 6 to part 744 of the Export Administration Regulations.
+
+&emsp;&emsp;&emsp;"(iv) The Military End User List set forth in Supplement No. 7 to part 744 of the Export Administration Regulations.
+
+&emsp;&emsp;"(E) Any entity identified by the Secretary of Defense pursuant to section 1237(b) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 50 U.S.C. 1701 note).
+
+&emsp;&emsp;"(F) Any entity on the Non-SDN Chinese Military-Industrial Complex Companies List (NS–CMIC List) maintained by the Office of Foreign Assets Control of the Department of the Treasury under Executive Order 14032 (86 Fed. Reg. 30145; relating to addressing the threat from securities investments that finance certain companies of the People's Republic of China), or any successor order."
+
 #### Contracts for Studies, Analysis, or Consulting Services Entered Into Without Competition on the Basis of an Unsolicited Proposal
 
 Pub. L. 114–113, div. C, title VIII, §8039, Dec. 18, 2015, 129 Stat. 2359, provided that:
@@ -128,7 +246,7 @@ Pub. L. 111–383, div. A, title VIII, §863(a)–(h), Jan. 7, 2011, 124 Stat. 4
 
 "(a)
 
-Establishment of Requirements Processes for the Acquisition of Services.—The Secretary of Defense shall ensure that the military departments and Defense Agencies each establish a process for identifying, assessing, reviewing, and validating requirements for the acquisition of services.
+Establishment of Requirements Processes for the Acquisition of Services.—The Secretary of Defense shall ensure that the military departments andDefense Agencies each establish a process for identifying, assessing, reviewing, and validating requirements for the acquisition of services.
 
 "(b)
 

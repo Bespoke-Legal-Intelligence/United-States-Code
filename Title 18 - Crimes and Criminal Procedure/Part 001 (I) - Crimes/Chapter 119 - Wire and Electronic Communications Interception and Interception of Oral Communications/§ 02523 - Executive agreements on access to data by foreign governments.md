@@ -180,7 +180,7 @@ Treatment of senate joint resolution in house.—In the House of Representatives
 
 &emsp;&emsp;&emsp;(i) The joint resolution shall be referred to the appropriate committees.
 
-&emsp;&emsp;&emsp;(ii) If a committee to which a joint resolution has been referred has not reported the joint resolution within 7 days after the date of referral, that committee shall bedischarged from further consideration of the joint resolution.
+&emsp;&emsp;&emsp;(ii) If a committee to which a joint resolution has been referred has not reported the joint resolution within 7 days after the date of referral, that committee shall be discharged from further consideration of the joint resolution.
 
 &emsp;&emsp;&emsp;(iii) Beginning on the third legislative day after each committee to which a joint resolution has been referred reports the joint resolution to the House or has been discharged from further consideration thereof, it shall be in order to move to proceed to consider the joint resolution in the House. All points of order against the motion are waived. Such a motion shall not be in order after the House has disposed of a motion to proceed on the joint resolution. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
 

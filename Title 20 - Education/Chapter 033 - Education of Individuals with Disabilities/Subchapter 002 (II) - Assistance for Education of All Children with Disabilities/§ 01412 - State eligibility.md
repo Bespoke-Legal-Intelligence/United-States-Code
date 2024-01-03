@@ -68,7 +68,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Additional procedural safeguards
 
-&emsp;&emsp;Procedures to ensure that testing and evaluation materials and procedures utilized for the purposes of evaluation and placementof children with disabilities for services under this chapter will be selected and administered so as not to be racially or culturally discriminatory. Such materials or procedures shall be provided and administered in the child's native language or mode of communication, unless it clearly is not feasible to do so, and no single procedure shall be the sole criterion for determining an appropriate educational program for a child.
+&emsp;&emsp;Procedures to ensure that testing and evaluation materials and procedures utilized for the purposes of evaluation and placement of children with disabilities for services under this chapter will be selected and administered so as not to be racially or culturally discriminatory. Such materials or procedures shall be provided and administered in the child's native language or mode of communication, unless it clearly is not feasible to do so, and no single procedure shall be the sole criterion for determining an appropriate educational program for a child.
 
 #### (7) Evaluation
 
@@ -126,7 +126,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;To ensure timely and meaningful consultation, a local educational agency, or where appropriate, a State educational agency, shall consult with private school representatives and representatives of parents of parentally placed private school children with disabilities during the design and development of special education and related services for the children, including regarding—
 
-&emsp;&emsp;&emsp;&emsp;(I) the child find process and how parentally placed private school childrensuspected of having a disability can participate equitably, including how parents, teachers, and private school officials will be informed of the process;
+&emsp;&emsp;&emsp;&emsp;(I) the child find process and how parentally placed private school children suspected of having a disability can participate equitably, including how parents, teachers, and private school officials will be informed of the process;
 
 &emsp;&emsp;&emsp;&emsp;(II) the determination of the proportionate amount of Federal funds available to serve parentally placed private school children with disabilities under this subparagraph, including the determination of how the amount was calculated;
 
@@ -134,7 +134,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;&emsp;(IV) how, where, and by whom special education and related services will be provided for parentally placed private school children with disabilities, including a discussion of types of services, including direct services and alternate service delivery mechanisms, how such services will be apportioned if funds are insufficient to serve all children, and how and when these decisions will be made; and
 
-&emsp;&emsp;&emsp;&emsp;(V) how, if the local educational agency disagrees with the views of the private school officials on the provision of services or the types of services, whether provided directly or through a contract, the local educational agency shall provide to the private school officials a written explanation of the reasons why the local educational agency chose not to provide services directly or through a contract.
+&emsp;&emsp;&emsp;&emsp;(V) how, if the local educational agency disagrees with the views of the private school officials on the provision of services or the types of services, whetherprovided directly or through a contract, the local educational agency shall provide to the private school officials a written explanation of the reasons why the local educational agency chose not to provide services directly or through a contract.
 
 #### (iv) Written affirmation
 
@@ -194,7 +194,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;&emsp;(I) if—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) at the most recent IEP meeting that the parents attended prior to removal of the child from the public school, the parents did not inform the IEP Team that they were rejecting the placement proposed by the public agency to provide a free appropriate public education to their child, including stating their concerns and their intent to enroll their child in a private school at public expense; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) at the most recent IEP meeting that the parents attended prior to removal of the child from the publicschool, the parents did not inform the IEP Team that they were rejecting the placement proposed by the public agency to provide a free appropriate public education to their child, including stating their concerns and their intent to enroll their child in a private school at public expense; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) 10 business days (including any holidays that occur on a business day) prior to the removal of the child from the public school, the parents did not give written notice to the public agency of the information described in item (aa);
 
@@ -248,7 +248,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (A) Establishing responsibility for services
 
-&emsp;&emsp;The Chief Executive Officer of a State or designee of the officer shall ensure that aninteragency agreement or other mechanism for interagency coordination is in effect between each public agency described in subparagraph (B) and the State educational agency, in order to ensure that all services described in subparagraph (B)(i) that are needed to ensure a free appropriate public education are provided, including the provision of such services during the pendency of any dispute under clause (iii). Such agreement or mechanism shall include the following:
+&emsp;&emsp;The Chief Executive Officer of a State or designee of the officer shall ensure that an interagency agreement or other mechanism for interagency coordination is in effect between each public agency described in subparagraph (B) and the State educational agency, in order to ensure that all services described in subparagraph (B)(i) that are needed to ensure a free appropriate public education are provided, including the provision of such services during the pendency of any dispute under clause (iii). Such agreement or mechanism shall include the following:
 
 #### (i) Agency financial responsibility
 
@@ -260,7 +260,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (iii) Interagency disputes
 
-&emsp;&emsp;&emsp;Procedures for resolving interagency disputes (including procedures under which local educational agencies may initiate proceedings) under the agreement or other mechanism to secure reimbursement from other agencies or otherwise implement the provisions of the agreement or mechanism.
+&emsp;&emsp;&emsp;Procedures for resolving interagency disputes (including procedures under which local educational agencies may initiate proceedings) under the agreement or other mechanism to secure reimbursement fromother agencies or otherwise implement the provisions of the agreement or mechanism.
 
 #### (iv) Coordination of services procedures
 
@@ -310,11 +310,11 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;The qualifications described in subparagraph (A) shall ensure that each person employed as a special education teacher in the State who teaches elementary school, middle school, or secondary school—
 
-&emsp;&emsp;&emsp;(i) has obtained full State certification as a special education teacher (including participating in an alternate route to certification as a special educator, if such alternate route meets minimum requirements described in section 2005.56(a)(2)(ii) of title 34, Code of Federal Regulations, as such section was in effect on November 28, 2008), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except with respect to any teacher teaching in a public charter school who shall meet the requirements set forth in the State's public charter school law;
+&emsp;&emsp;&emsp;(i) has obtained full State certification as a special education teacher (including participating in an alternate route to certification as a special educator, if such alternate route meets minimum requirements described in section 2005.56(a)(2)(ii) <sup>1</sup> of title 34, Code of Federal Regulations, as such section was in effect on November 28, 2008), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except with respect to any teacher teaching in a public charter school who shall meet the requirementsset forth in the State's public charter school law;
 
 &emsp;&emsp;&emsp;(ii) has not had special education certification or licensure requirements waived on an emergency, temporary, or provisional basis; and
 
-&emsp;&emsp;&emsp;(iii) holds at least a bachelor's degree..<sup>1</sup>
+&emsp;&emsp;&emsp;(iii) holds at least a bachelor's degree..<sup>2</sup>
 
 #### (D) Policy
 
@@ -380,7 +380,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;(iii) The number of children with disabilities participating in alternate assessments described in subparagraph (C)(ii)(II).
 
-&emsp;&emsp;&emsp;(iv) The performance of children with disabilities on regular assessments and on alternate assessments (if the number of children with disabilities participating in those assessments is sufficient to yield statistically reliable information and reporting that information will not reveal personally identifiable information about an individual student), compared with the achievement of all children, including children with disabilities, on those assessments.
+&emsp;&emsp;&emsp;(iv) The performance of children with disabilities on regular assessments and on alternate assessments (if the number of children with disabilities participating in those assessments is sufficient to yield statistically reliable information and reporting that information will not revealpersonally identifiable information about an individual student), compared with the achievement of all children, including children with disabilities, on those assessments.
 
 #### (E) Universal design
 
@@ -452,7 +452,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;(vi) administrators of programs for children with disabilities;
 
-&emsp;&emsp;&emsp;(vii) representatives of other State agencies involved in the financing or delivery of related services to children with disabilities;
+&emsp;&emsp;&emsp;(vii) representatives of other State agencies involved in the financing or deliveryof related services to children with disabilities;
 
 &emsp;&emsp;&emsp;(viii) representatives of private schools and public charter schools;
 
@@ -508,7 +508,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;If a State educational agency chooses to coordinate with the National Instructional Materials Access Center, not later than 2 years after December 3, 2004, the agency, as part of any print instructional materials adoption process, procurement contract, or other practice or instrument used for purchase of print instructional materials, shall enter into a written contract with the publisher of the print instructional materials to—
 
-&emsp;&emsp;&emsp;(i) require the publisher to prepare and, on or before delivery of the print instructional materials, provide to the National Instructional Materials Access Center electronic files containing the contents ofthe print instructional materials using the National Instructional Materials Accessibility Standard; or
+&emsp;&emsp;&emsp;(i) require the publisher to prepare and, on or before delivery of the print instructional materials, provide to the National Instructional Materials Access Center electronic files containing the contents of the print instructional materials using the National Instructional Materials Accessibility Standard; or
 
 &emsp;&emsp;&emsp;(ii) purchase instructional materials from the publisher that are produced in, or may be rendered in, specialized formats.
 
@@ -534,7 +534,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (24) Overidentification and disproportionality
 
-&emsp;The State has in effect, consistent with the purposes of this chapter and with section 1418(d) of this title, policies and procedures designed to prevent the inappropriate overidentification or disproportionate representation by race and ethnicity of children as children with disabilities, including children with disabilities with a particular impairment described in section 1401 of this title.
+&emsp;The State has in effect, consistent with the purposes of this chapter and with section1418(d) of this title, policies and procedures designed to prevent the inappropriate overidentification or disproportionate representation by race and ethnicity of children as children with disabilities, including children with disabilities with a particular impairment described in section 1401 of this title.
 
 #### (25) Prohibition on mandatory medication
 
@@ -644,7 +644,7 @@ The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 5
 
 #### Prior Provisions
 
-A prior section 1412, Pub. L. 91–230, title VI, §612, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat.60, related to State eligibility for assistance, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1412, Pub. L. 91–230, title VI, §612, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 60, related to State eligibility for assistance, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1412, Pub. L. 91–230, title VI, §612, Apr. 13, 1970, 84 Stat. 178; Pub. L. 92–318, title IV, §421(b)(1)(C), June 23, 1972, 86 Stat. 341; Pub. L. 93–380, title VI, §§614(b), (f)(1), 615(a), title VIII, §843(b), Aug. 21, 1974, 88 Stat. 581, 582, 611; Pub. L. 94–142, §§2(a)(4), (c), (d), 5(a), Nov. 29, 1975, 89 Stat. 773, 774, 780; Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 99–457, title II, §203(a), Oct. 8, 1986, 100 Stat. 1158; Pub. L. 100–630, title I, §102(b), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title IX, §901(b)(33)–(46), (c), Oct. 30, 1990, 104 Stat. 1143, 1144, 1151; Pub. L. 102–119, §25(a)(5), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to eligibility requirements, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
@@ -658,7 +658,7 @@ Subsec. (a)(14)(E). Pub. L. 114–95, §9214(d)(2)(C), substituted "staff person
 
 Subsec. (a)(15)(A)(ii). Pub. L. 114–95, §9215(ss)(3)(A)(i), added cl. (ii) and struck out former cl. (ii) which read as follows: "are the same as the State's definition of adequate yearly progress, including the State's objectives for progress by children with disabilities, under section 6311(b)(2)(C) of this title;".
 
-Subsec. (a)(15)(B). Pub. L. 114–95, §9215(ss)(3)(A)(ii), which directed substitution of "including measurements of interim progress for children with disabilities under section 6311(c)(4)(A)(i)" for "including measurable annual objectives for progress by children with disabilities under section 6311(b)(2)(C)(v)(II)", was executed by making the substitution for "including measurable annual objectives for progress by children with disabilities under section 6311(b)(2)(C)(v)(II)(cc)", to reflect the probable intent of Congress.
+Subsec. (a)(15)(B). Pub. L. 114–95, §9215(ss)(3)(A)(ii), which directed substitution of "including measurements of interim progress for children with disabilities under section 6311(c)(4)(A)(i)" for "including measurable annual objectives for progress by children with disabilities under section 6311(b)(2)(C)(v)(II)", was executed by making the substitution for "including measurable annual objectives for progress by children withdisabilities under section 6311(b)(2)(C)(v)(II)(cc)", to reflect the probable intent of Congress.
 
 Subsec. (a)(16)(C)(ii)(I). Pub. L. 114–95, §9215(ss)(3)(B)(i), substituted "challenging State academic content standards under section 6311(b)(1) of this title and alternate academic achievement standards under section 6311(b)(1)(E) of this title" for "State's challenging academic content standards and challenging student academic achievement standards".
 
@@ -670,5 +670,7 @@ Subsec. (a)(16)(C)(ii)(II). Pub. L. 114–95, §9215(ss)(3)(B)(ii), substituted 
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "200.56(a)(2)(ii)".</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

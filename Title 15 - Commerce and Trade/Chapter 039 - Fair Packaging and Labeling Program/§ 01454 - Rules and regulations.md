@@ -16,7 +16,7 @@ Whenever the promulgating authority determines that regulations containing prohi
 
 &emsp;(2) regulate the placement upon any package containing any commodity, or upon any label affixed to such commodity, of any printed matter stating or representing by implication that such commodity is offered for retail sale at a price lower than the ordinary and customary retail sale price or that a retail sale price advantage is accorded to purchasers thereof by reason of the size of that package or the quantity of its contents;
 
-&emsp;(3) require that the label on each package of a consumer commodity (other than one which is a food within the meaning of section 321(f) of title 21) bear (A) the common or usual name of such consumer commodity, if any, and (B) in case such consumer commodity consists of two or more ingredients, the common or usual name of each such ingredient listed in order of decreasing predominance, but nothing in thisparagraph shall be deemed to require that any trade secret be divulged; or
+&emsp;(3) require that the label on each package of a consumer commodity (other than one which is a food within the meaning of section 321(f) of title 21) bear (A) the common or usual name of such consumer commodity, if any, and (B) in case such consumer commodity consists of two or more ingredients, the common or usual name of each such ingredient listed in order of decreasing predominance, but nothing in this paragraph shall be deemed to require that any trade secret be divulged; or
 
 &emsp;(4) prevent the nonfunctional-slack-fill of packages containing consumer commodities.
 

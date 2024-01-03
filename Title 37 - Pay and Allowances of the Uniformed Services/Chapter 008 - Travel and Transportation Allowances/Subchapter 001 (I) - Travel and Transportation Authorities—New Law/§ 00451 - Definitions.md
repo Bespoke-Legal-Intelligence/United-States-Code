@@ -20,7 +20,7 @@ Definitions Relating to Persons.—In this subchapter and subchapter II:
 
 &emsp;&emsp;(B) A family member of a member of the uniformed services.
 
-&emsp;&emsp;(C) A person acting as an escort or attendant for a member or family member who is traveling on official travel or is traveling with the remains of a deceased member or as an escort or attendant for dependents of a member for necessary travel performed not later than one year after the member is unable to accompany the dependents who are incapable of traveling alone.
+&emsp;&emsp;(C) A person acting as an escort or attendant for a member or family member who is traveling on official travel or is traveling with the remains of a deceased member or asan escort or attendant for dependents of a member for necessary travel performed not later than one year after the member is unable to accompany the dependents who are incapable of traveling alone.
 
 &emsp;&emsp;(D) A person who participates in a military funeral honors detail.
 

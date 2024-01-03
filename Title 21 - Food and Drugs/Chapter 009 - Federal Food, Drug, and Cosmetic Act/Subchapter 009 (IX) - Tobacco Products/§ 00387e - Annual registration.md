@@ -14,7 +14,7 @@ In this section:
 
 #### (b) Registration by owners and operators
 
-On or before December 31 of each year, every person who owns or operates any establishmentin any State engaged in the manufacture, preparation, compounding, or processing of a tobacco product or tobacco products shall register with the Secretary the name, places of business, and all such establishments of that person. If enactment of the Family Smoking Prevention and Tobacco Control Act occurs in the second half of the calendar year, the Secretary shall designate a date no later than 6 months into the subsequent calendar year by which registration pursuant to this subsection shall occur.
+On or before December 31 of each year, every person who owns or operates any establishment in any State engaged in the manufacture, preparation, compounding, or processing of a tobacco product or tobacco products shall register with the Secretary the name, places of business, and all such establishments of that person. If enactment of the Family Smoking Prevention and Tobacco Control Act occurs in the second half of the calendar year, the Secretary shall designate a date no later than 6 months into the subsequent calendar year by which registration pursuant to this subsection shall occur.
 
 #### (c) Registration by new owners and operators
 
@@ -44,7 +44,7 @@ Any establishment within any foreign country engaged in the manufacture, prepara
 
 #### (1) Product list
 
-&emsp;Every person who registers with the Secretary under subsection (b), (c), (d), or (h) shall, at the time of registration under any such subsection, file with the Secretary a list of all tobacco products which are being manufactured, prepared, compounded, or processed by that person for commercial distribution and which have not been included in any list of tobacco products filed by that person with the Secretary under this paragraph or paragraph (2) before such time of registration. Such list shall be prepared in such form and manner as the Secretary may prescribe and shall be accompanied by—
+&emsp;Every person who registers with the Secretary under subsection (b), (c), (d), or (h) shall, at the time of registration under anysuch subsection, file with the Secretary a list of all tobacco products which are being manufactured, prepared, compounded, or processed by that person for commercial distribution and which have not been included in any list of tobacco products filed by that person with the Secretary under this paragraph or paragraph (2) before such time of registration. Such list shall be prepared in such form and manner as the Secretary may prescribe and shall be accompanied by—
 
 &emsp;&emsp;(A) in the case of a tobacco product contained in the applicable list with respect to which a tobacco product standard has been established under section 387g of this title or which is subject to section 387j of this title, a reference to the authority for the marketing of such tobacco product and a copy of all labeling for such tobacco product;
 

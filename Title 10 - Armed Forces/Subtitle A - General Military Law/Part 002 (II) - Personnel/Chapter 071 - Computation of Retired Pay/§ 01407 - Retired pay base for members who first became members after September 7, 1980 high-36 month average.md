@@ -2,7 +2,7 @@
 
 (a)
 
-Use of Retired Pay Base in Computing Retired Pay.—The retired pay or retainer pay of any person entitled to that pay who first became a member of a uniformed service after September 7, 1980, is computed using the retired pay base or retainer pay base determined under this section.
+Use of Retired Pay Base in Computing Retired Pay.—The retired pay or retainer pay of any person entitled to that pay who first became a member of a uniformed service after September 7, 1980, is computed using the retiredpay base or retainer pay base determined under this section.
 
 (b)
 
@@ -82,7 +82,7 @@ Computation based on pre-high-three rules.—In the case of a member or former m
 
 Affected members.—A member or former member referred to in paragraph (1) is a member or former member who by reason of conduct occurring after October 30, 2000—
 
-&emsp;&emsp;(A) in the case of a member retired in an enlisted grade or transferred to the Fleet Reserve or Fleet Marine Corps Reserve, was at any time reduced in grade as the result of a court-martial sentence, nonjudicial punishment, or an administrative action, unless the member was subsequently promoted to a higher enlisted grade or appointed to a commissioned or warrant grade; and
+&emsp;&emsp;(A) in the case of a member retired in an enlisted grade or transferred to the FleetReserve or Fleet Marine Corps Reserve, was at any time reduced in grade as the result of a court-martial sentence, nonjudicial punishment, or an administrative action, unless the member was subsequently promoted to a higher enlisted grade or appointed to a commissioned or warrant grade; and
 
 &emsp;&emsp;(B) in the case of an officer, is retired in a grade lower than the highest grade in which served pursuant to section 1370 or 1370a of this title that the officer served on active duty satisfactorily in that grade.
 

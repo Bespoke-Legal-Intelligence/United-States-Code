@@ -4,7 +4,7 @@ No Federal agency may engage in any standards-related activity that creates unne
 
 #### (1) Nondiscriminatory treatment
 
-&emsp;Each Federal agency shall ensure, in applying standards-related activities with respect to any imported product, that such product istreated no less favorably than are like domestic or imported products, including, but not limited to, when applying tests or test methods, no less favorable treatment with respect to—
+&emsp;Each Federal agency shall ensure, in applying standards-related activities with respect to any imported product, that such product is treated no less favorably than are like domestic or imported products, including, but not limited to, when applying tests or test methods, no less favorable treatment with respect to—
 
 &emsp;&emsp;(A) the acceptance of the product for testing in comparable situations;
 

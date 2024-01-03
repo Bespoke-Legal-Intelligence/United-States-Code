@@ -68,7 +68,7 @@ In this part:
 
 Par. (4). Pub. L. 115–123 redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text read as follows: "The term 'consecutive 2-month period' refers to the 2-month period consisting of the months of January and February, March and April, May and June, July and August, September and October, or November and December, respectively."
 
-Pars. (5), (6). Pub. L. 115–334, §1401(k)(2)(A), added pars. (5) and (6) and struck out former pars. (5) and (6) which defined the terms "margin protection program" and "margin protection program payment", respectively.
+Pars. (5), (6). Pub. L. 115–334, §1401(k)(2)(A), added pars. (5) and (6) and struck out former pars. (5) and (6)which defined the terms "margin protection program" and "margin protection program payment", respectively.
 
 Pub. L. 115–123, §60101(b)(1)(A)(ii), redesignated pars. (6) and (7) as (5) and (6), respectively. Former par. (5) redesignated (4).
 

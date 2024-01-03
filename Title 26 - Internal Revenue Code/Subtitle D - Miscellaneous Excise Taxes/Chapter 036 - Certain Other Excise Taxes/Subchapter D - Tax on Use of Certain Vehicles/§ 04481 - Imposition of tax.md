@@ -25,7 +25,7 @@ The tax imposed by this section shall be paid by the person in whose name the hi
 
 #### (A) In general
 
-&emsp;&emsp;If in any taxable period a highway motor vehicle is sold, destroyed, or stolen before the first day of the last month in such period and not subsequently used during such taxable period, the tax shall be reckoned proportionately from the first day of the month in such period in which the first use of such highway motor vehicle occurs to and including the last day of the month in which such highway motor vehicle was sold, destroyed, or stolen.
+&emsp;&emsp;If in any taxable period a highway motor vehicle is sold, destroyed, or stolen beforethe first day of the last month in such period and not subsequently used during such taxable period, the tax shall be reckoned proportionately from the first day of the month in such period in which the first use of such highway motor vehicle occurs to and including the last day of the month in which such highway motor vehicle was sold, destroyed, or stolen.
 
 #### (B) Destroyed
 
@@ -244,7 +244,7 @@ Taxable gross weight.—For purposes of this subsection, the term 'taxable gross
 
 #### Studies Relating to Heavy Vehicle Use Tax
 
-Pub. L. 98–369, div. A, title IX, subtitle D, part I, July 18, 1984, 98 Stat. 1010, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, would conduct a study of whether highway motor vehicles with taxable gross weights of 80,000 pounds or more bear their fair share of the costs of the highway system, a study to determine the significance of the tax imposed by this section (relating to tax on use of certain vehicles) on trans-border trucking operations, and a study to evaluate the feasibility and ability of weight-distance truck taxes to provide the greatest degree of equity among highway users, to easethe costs of compliance of such taxes, and to improve the efficiency by which such taxes might be administered, and submit to Congress a report of each study, together with any recommendations, by Oct. 1, 1987.
+Pub. L. 98–369, div. A, title IX, subtitle D, part I, July 18, 1984, 98 Stat. 1010, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, would conduct a study of whether highway motor vehicles with taxable gross weights of 80,000 pounds or more bear their fair share of the costs of the highway system, a study to determine the significance of the tax imposed by this section (relating to tax on use of certain vehicles) on trans-border trucking operations, and a study to evaluate the feasibility and ability of weight-distance truck taxes to provide the greatest degree of equity among highway users, to ease the costs of compliance of such taxes, and to improve the efficiency by which such taxes might be administered, and submit to Congress a report of each study, together with any recommendations, by Oct. 1, 1987.
 
 #### Study of Alternatives to Tax on Use of Heavy Trucks
 

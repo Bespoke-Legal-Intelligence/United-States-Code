@@ -96,7 +96,7 @@ Adverse impact on military operations and readiness.—The term "adverse impact 
 
 Unacceptable risk to the national security of the united states.—The term "unacceptable risk to the national security of the United States" has the meaning given the term in section 183a(h)(7) <sup>1</sup> of title 10.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1200; Pub. L. 104–264, title XII, §1220(a), Oct. 9, 1996, 110 Stat. 3286; Pub. L. 106–181, title V, §503(b), Apr. 5, 2000, 114 Stat. 133; Pub. L. 112–81, div. A, title III, §332, Dec. 31, 2011, 125 Stat. 1369; Pub. L. 114–248, §1(a), Nov. 28, 2016, 130 Stat. 998; Pub. L. 114–328, div. A, title III, §341(a)(1)–(4)(A), Dec. 23, 2016, 130 Stat. 2079–2081; Pub. L. 115–91, div. A, title III, §311(b)(2), (3), (e), Dec. 12, 2017, 131 Stat.1347, 1348; Pub. L. 115–232, div. A, title X, §1081(e)(2), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 115–254, div. B, title V, §539(h), Oct. 5, 2018, 132 Stat. 3371.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1200; Pub. L. 104–264, title XII, §1220(a), Oct. 9, 1996, 110 Stat. 3286; Pub. L. 106–181, title V, §503(b), Apr. 5, 2000, 114 Stat. 133; Pub. L. 112–81, div. A, title III, §332, Dec. 31, 2011, 125 Stat. 1369; Pub. L. 114–248, §1(a), Nov. 28, 2016, 130 Stat. 998; Pub. L. 114–328, div. A, title III, §341(a)(1)–(4)(A), Dec. 23, 2016, 130 Stat. 2079–2081; Pub. L. 115–91, div. A, title III, §311(b)(2), (3), (e), Dec. 12, 2017, 131 Stat. 1347, 1348; Pub. L. 115–232, div. A, title X, §1081(e)(2), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 115–254, div. B, title V, §539(h), Oct. 5, 2018, 132 Stat. 3371.)
 
 Historical and Revision Notes
 
@@ -132,7 +132,7 @@ In subsection (b)(1), before clause (A), the word "thoroughly" is omitted as sur
 
 The date of the enactment of this subsection, referred to in subsec. (d), probably means the date of enactment of Pub. L. 106–181, which amended subsec. (d) generally, and which was approved Apr. 5, 2000.
 
-Section 183a(h)(7) of title 10, referred to in subsec. (h)(2), was redesignated as section 183a(h)(9) of title 10 by Pub. L. 116–92, div. A, title III, §371(5)(A), Dec. 20, 2019, 133 Stat. 1329.
+Section 183a(h)(7) of title 10, referred to in subsec. (h)(2), was redesignated as section 183a(h)(9) of title 10 by Pub. L. 116–92, div. A, title III, §371(5)(A), Dec. 20, 2019, 133 Stat. 1329, and subsequently was redesignated as section 183a(h)(11) of title 10 by Pub. L. 118–31, div. A, title III, §362(b)(2), Dec. 22, 2023, 137 Stat. 232.
 
 #### Amendments
 
@@ -324,7 +324,7 @@ FCC Regulations.—The Federal Communications Commission shall amend section 17.
 
 #### Study of Effects of New Construction of Obstructions on Military Installations and Operations
 
-Pub. L. 111–383, div. A, title III, §358, Jan. 7, 2011, 124 Stat. 4198, as amended by Pub. L. 112–81, div. A, title III, §331, Dec. 31, 2011, 125 Stat. 1369; Pub. L. 112–239, div. A, title X, §1076(b)(1), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 114–92, div. A, title III, §314, Nov. 25, 2015, 129 Stat. 790, related to study of effects of new construction of obstructions on military installations and operations, prior to repeal by Pub. L. 115–91, div. A, title III, §311(b)(1), Dec. 12, 2017, 131 Stat. 1347. See section 183a of Title 10, Armed Forces.
+Pub. L. 111–383, div. A, title III, §358, Jan. 7, 2011, 124 Stat. 4198, as amended by Pub. L. 112–81, div. A, titleIII, §331, Dec. 31, 2011, 125 Stat. 1369; Pub. L. 112–239, div. A, title X, §1076(b)(1), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 114–92, div. A, title III, §314, Nov. 25, 2015, 129 Stat. 790, related to study of effects of new construction of obstructions on military installations and operations, prior to repeal by Pub. L. 115–91, div. A, title III, §311(b)(1), Dec. 12, 2017, 131 Stat. 1347. See section 183a of Title 10, Armed Forces.
 
 #### Landfills Interfering With Air Commerce
 

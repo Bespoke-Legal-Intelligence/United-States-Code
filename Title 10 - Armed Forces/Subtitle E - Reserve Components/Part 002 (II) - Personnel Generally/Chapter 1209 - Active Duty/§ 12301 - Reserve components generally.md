@@ -8,7 +8,7 @@
 
 (d) At any time, an authority designated by the Secretary concerned may order a member of a reserve component under his jurisdiction to active duty, or retain him on active duty, with the consent of that member. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor or other appropriate authority of the State concerned.
 
-(e) The period of time allowed between the date when a Reserve ordered to active duty asprovided in subsection (a) is alerted for that duty and the date when the Reserve is required to enter upon that duty shall be determined by the Secretary concerned based upon military requirements at that time.
+(e) The period of time allowed between the date when a Reserve ordered to active duty as provided in subsection (a) is alerted for that duty and the date when the Reserve is required to enter upon that duty shall be determined by the Secretary concerned based upon military requirements at that time.
 
 (f) The consent of a Governor described in subsections (b) and (d) may not be withheld (in whole or in part) with regard to active duty outside the United States, its territories, and its possessions, because of any objection to the location, purpose, type, or schedule of such active duty.
 

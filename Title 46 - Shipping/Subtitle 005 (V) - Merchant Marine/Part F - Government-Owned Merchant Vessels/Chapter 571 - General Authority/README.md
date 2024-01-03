@@ -4,15 +4,16 @@
 | :--- | ---: |
 | [57100\.](%C2%A7%2057100%20-%20National%20Defense%20Reserve%20Fleet.md) | National Defense Reserve Fleet. |
 | [57101\.](%C2%A7%2057101%20-%20Placement%20of%20vessels%20in%20National%20Defense%20Reserve%20Fleet.md) | Placement of vessels in National Defense Reserve Fleet. |
-| [57102\.](%C2%A7%2057102%20-%20Disposition%20of%20vessels%20not%20worth%20preserving.md) | Disposition of vessels not worth preserving. |
-| [57103\.](%C2%A7%2057103%20-%20Donation%20of%20nonretention%20vessels%20in%20the%20National%20Defense%20Reserve%20Fleet.md) | Donation of nonretention vessels in the National Defense Reserve Fleet. |
+| [57102\.](%C2%A7%2057102%20-%20Disposition%20of%20vessels.md) | Disposition of vessels. |
+| [57103\.](%C2%A7%2057103%20-%20Donation%20of%20vessels%20in%20the%20National%20Defense%20Reserve%20Fleet.md) | Donation of vessels in the National Defense Reserve Fleet. |
 | [57104\.](%C2%A7%2057104%20-%20Acquisition%20of%20vessels%20from%20sale%20of%20obsolete%20vessels.md) | Acquisition of vessels from sale of obsolete vessels. |
 | [57105\.](%C2%A7%2057105%20-%20Acquisition%20of%20vessels%20for%20essential%20services%2C%20routes%2C%20or%20lines.md) | Acquisition of vessels for essential services, routes, or lines. |
 | [57106\.](%C2%A7%2057106%20-%20Maintenance%2C%20improvement%2C%20and%20operation%20of%20vessels.md) | Maintenance, improvement, and operation of vessels. |
 | [57107\.](%C2%A7%2057107%20-%20Vessels%20for%20other%20agencies.md) | Vessels for other agencies. |
 | [57108\.](%C2%A7%2057108%20-%20Consideration%20of%20ballast%20and%20equipment%20in%20determining%20selling%20price.md) | Consideration of ballast and equipment in determining selling price. |
 | [57109\.](%C2%A7%2057109%20-%20Operation%20of%20vessels%20purchased%2C%20chartered%2C%20or%20leased%20from%20Secretary%20of%20Transportation.md) | Operation of vessels purchased, chartered, or leased from Secretary of Transportation. |
-| 57111\.<sup>1</sup> | Salvage recoveries for subrogated ownership of vessels and cargoes. |
+| [57110\.](%C2%A7%2057110%20-%20Salvage%20recoveries%20for%20subrogated%20ownership%20of%20vessels%20and%20cargoes.md) | Salvage recoveries for subrogated ownership of vessels and cargoes. |
+| [57111\.](%C2%A7%2057111%20-%20Definition%20of%20obsolete%20vessel.md) | Definition of obsolete vessel. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -20,13 +21,13 @@
 
 #### Amendments
 
+<b>2023</b>—Pub. L. 118–31, div. C, title XXXV, §3514(j)(6), Dec. 22, 2023, 137 Stat. 812, added items 57102, 57103, and 57111, struck out former items 57102 "Disposition of vessels not worth preserving" and 57103 "Donation of nonretention vessels in the National Defense Reserve Fleet", and renumbered former item 57111 as 57110.
+
 <b>2019</b>—Pub. L. 116–92, div. C, title XXXV, §3509(b), Dec. 20, 2019, 133 Stat. 1977, added item 57111.
 
 <b>2017</b>—Pub. L. 115–91, div. C, title XXXV, §3502(b)(9), Dec. 12, 2017, 131 Stat. 1911, added item 57100.
 
 <b>2012</b>—Pub. L. 112–213, title IV, §408(b), Dec. 20, 2012, 126 Stat. 1571, substituted "Donation of nonretention vessels in the National Defense Reserve Fleet" for "Sale of obsolete vessels in National Defense Reserve Fleet" in item 57103.
-
-<i><sup>1</sup></i><i> No section 57110 has been enacted.</i>
 
 
 ---
@@ -35,12 +36,13 @@
 
 - [&sect; 57100 - National Defense Reserve Fleet](%C2%A7%2057100%20-%20National%20Defense%20Reserve%20Fleet.md)
 - [&sect; 57101 - Placement of vessels in National Defense Reserve Fleet](%C2%A7%2057101%20-%20Placement%20of%20vessels%20in%20National%20Defense%20Reserve%20Fleet.md)
-- [&sect; 57102 - Disposition of vessels not worth preserving](%C2%A7%2057102%20-%20Disposition%20of%20vessels%20not%20worth%20preserving.md)
-- [&sect; 57103 - Donation of nonretention vessels in the National Defense Reserve Fleet](%C2%A7%2057103%20-%20Donation%20of%20nonretention%20vessels%20in%20the%20National%20Defense%20Reserve%20Fleet.md)
+- [&sect; 57102 - Disposition of vessels](%C2%A7%2057102%20-%20Disposition%20of%20vessels.md)
+- [&sect; 57103 - Donation of vessels in the National Defense Reserve Fleet](%C2%A7%2057103%20-%20Donation%20of%20vessels%20in%20the%20National%20Defense%20Reserve%20Fleet.md)
 - [&sect; 57104 - Acquisition of vessels from sale of obsolete vessels](%C2%A7%2057104%20-%20Acquisition%20of%20vessels%20from%20sale%20of%20obsolete%20vessels.md)
 - [&sect; 57105 - Acquisition of vessels for essential services, routes, or lines](%C2%A7%2057105%20-%20Acquisition%20of%20vessels%20for%20essential%20services%2C%20routes%2C%20or%20lines.md)
 - [&sect; 57106 - Maintenance, improvement, and operation of vessels](%C2%A7%2057106%20-%20Maintenance%2C%20improvement%2C%20and%20operation%20of%20vessels.md)
 - [&sect; 57107 - Vessels for other agencies](%C2%A7%2057107%20-%20Vessels%20for%20other%20agencies.md)
 - [&sect; 57108 - Consideration of ballast and equipment in determining selling price](%C2%A7%2057108%20-%20Consideration%20of%20ballast%20and%20equipment%20in%20determining%20selling%20price.md)
 - [&sect; 57109 - Operation of vessels purchased, chartered, or leased from Secretary of Transportation](%C2%A7%2057109%20-%20Operation%20of%20vessels%20purchased%2C%20chartered%2C%20or%20leased%20from%20Secretary%20of%20Transportation.md)
-- [&sect; 57111 - 1 Salvage recoveries for subrogated ownership of vessels and cargoes](%C2%A7%2057111%20-%201%20Salvage%20recoveries%20for%20subrogated%20ownership%20of%20vessels%20and%20cargoes.md)
+- [&sect; 57110 - Salvage recoveries for subrogated ownership of vessels and cargoes](%C2%A7%2057110%20-%20Salvage%20recoveries%20for%20subrogated%20ownership%20of%20vessels%20and%20cargoes.md)
+- [&sect; 57111 - Definition of obsolete vessel](%C2%A7%2057111%20-%20Definition%20of%20obsolete%20vessel.md)

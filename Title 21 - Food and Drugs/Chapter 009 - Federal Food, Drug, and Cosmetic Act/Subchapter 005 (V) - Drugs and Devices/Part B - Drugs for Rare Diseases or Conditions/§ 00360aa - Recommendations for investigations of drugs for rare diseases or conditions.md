@@ -134,7 +134,7 @@ Pub. L. 100–290, §3(d), Apr. 18, 1988, 102 Stat. 91, directed Secretary of He
 
 Pub. L. 97–414, §1(b), Jan. 4, 1983, 96 Stat. 2049, provided that: "The Congress finds that—
 
-&emsp;"(1) there are many diseases and conditions, such as Huntington's disease, myoclonus, ALS (Lou Gehrig'sdisease), Tourette syndrome, and muscular dystrophy which affect such small numbers of individuals residing in the United States that the diseases and conditions are considered rare in the United States;
+&emsp;"(1) there are many diseases and conditions, such as Huntington's disease, myoclonus, ALS (Lou Gehrig's disease), Tourette syndrome, and muscular dystrophy which affect such small numbers of individuals residing in the United States that the diseases and conditions are considered rare in the United States;
 
 &emsp;"(2) adequate drugs for many of such diseases and conditions have not been developed;
 

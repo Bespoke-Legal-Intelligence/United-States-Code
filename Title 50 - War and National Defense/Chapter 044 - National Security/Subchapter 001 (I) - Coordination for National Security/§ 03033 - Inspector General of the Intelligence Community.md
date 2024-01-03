@@ -24,7 +24,7 @@ The purpose of the Office of the Inspector General of the Intelligence Community
 
 &emsp;(4) in the manner prescribed by this section, to ensure that the congressional intelligence committees are kept similarly informed of—
 
-&emsp;&emsp;(A) significant problems and deficiencies relating to programs and activities within the responsibility and authority of the Director of National Intelligence; and
+&emsp;&emsp;(A) significant problems and deficiencies relating to programs and activities withinthe responsibility and authority of the Director of National Intelligence; and
 
 &emsp;&emsp;(B) the necessity for, and the progress of, corrective actions.
 
@@ -88,7 +88,7 @@ The purpose of the Office of the Inspector General of the Intelligence Community
 
 &emsp;&emsp;&emsp;(bb) for the purposes of this clause, performing the functions and duties of an Inspector General temporarily in an acting capacity does not qualify as service in a position in an Office of an Inspector General;
 
-&emsp;&emsp;(II) the rate of pay for the position of the officer or employee described in subclause (I) is equal to or greater than the minimum rate of pay payable for a position at GS–15 of the General Schedule;
+&emsp;&emsp;(II) the rate of pay for the position of the officer or employee described in subclause (I) is equal to or greater than the minimumrate of pay payable for a position at GS–15 of the General Schedule;
 
 &emsp;&emsp;(III) the officer or employee has demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations; and
 
@@ -142,7 +142,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (3) The Director shall advise the Inspector General at the time a statement under paragraph (2) is submitted, and, to the extent consistent with the protection of intelligence sources and methods, provide the Inspector General with a copy of such statement.
 
-(4) The Inspector General may submit to the congressional intelligence committees any comments on the statement of which the Inspector General has notice under paragraph (3) that the Inspector General considers appropriate.
+(4) The Inspector General may submit to the congressional intelligence committees any comments on the statement of which the InspectorGeneral has notice under paragraph (3) that the Inspector General considers appropriate.
 
 #### (g) Authorities
 
@@ -166,7 +166,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (4) The Inspector General shall have the authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of the duties of the Inspector General, which oath, affirmation, or affidavit when administered or taken by or before an employee of the Office of the Inspector General of the Intelligence Community designated by the Inspector General shall have the same force and effect as if administered or taken by, or before, an officer having a seal.
 
-(5)(A) Except as provided in subparagraph (B), the Inspector General is authorized to require by subpoena the production of all information, documents, reports, answers, records, accounts, papers, and other data in any medium (includingelectronically stored information, as well as any tangible thing) and documentary evidence necessary in the performance of the duties and responsibilities of the Inspector General.
+(5)(A) Except as provided in subparagraph (B), the Inspector General is authorized to require by subpoena the production of all information, documents, reports, answers, records, accounts, papers, and other data in any medium (including electronically stored information, as well as any tangible thing) and documentary evidence necessary in the performance of the duties and responsibilities of the Inspector General.
 
 (B) In the case of departments, agencies, and other elements of the United States Government, the Inspector General shall obtain information, documents, reports, answers, records, accounts, papers, and other data and evidence for the purpose specified in subparagraph (A) using procedures other than by subpoenas.
 
@@ -180,7 +180,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 #### (h) Coordination among Inspectors General
 
-(1)(A) In the event of a matter within the jurisdiction of the Inspector General of the Intelligence Community that may be subject to an investigation, inspection, audit, or review by both the Inspector General of the Intelligence Community and an inspector general with oversight responsibility for an element of the intelligence community, the Inspector General of the Intelligence Community and such other inspector general shall expeditiously resolve the question of which inspector general shall conduct such investigation, inspection, audit, or review to avoid unnecessary duplication of the activities of the inspectors general.
+(1)(A) In the event of a matter within the jurisdiction of the Inspector General of the Intelligence Community that may be subject to an investigation, inspection, audit, or review by both the Inspector General of the Intelligence Community and an inspector general with oversight responsibility for an element of the intelligence community, the Inspector General of the Intelligence Community and such other inspector general shall expeditiously resolve the question of which inspector general shall conduct such investigation, inspection, audit, or reviewto avoid unnecessary duplication of the activities of the inspectors general.
 
 (B) In attempting to resolve a question under subparagraph (A), the inspectors general concerned may request the assistance of the Intelligence Community Inspectors General Forum established under paragraph (2). In the event of a dispute between an inspector general within a department or agency of the United States Government and the Inspector General of the Intelligence Community that has not been resolved with the assistance of such Forum, the inspectors general shall submit the question to the Director of National Intelligence and the head of the affected department or agency for resolution.
 
@@ -210,7 +210,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (C) In meeting the requirements of this paragraph, the Inspector General shall create within the Office of the Inspector General of the Intelligence Community a career cadre of sufficient size to provide appropriate continuity and objectivity needed for the effective performance of the duties of the Inspector General.
 
-(3) Consistent with budgetary and personnel resources allocated by the Director of NationalIntelligence, the Inspector General has final approval of—
+(3) Consistent with budgetary and personnel resources allocated by the Director of National Intelligence, the Inspector General has final approval of—
 
 &emsp;(A) the selection of internal and external candidates for employment with the Office of the Inspector General; and
 
@@ -224,7 +224,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 #### (k) Reports
 
-(1)(A) The Inspector General of the Intelligence Community shall, not later than October 31 and April 30 of each year, prepare and submit to the Director of National Intelligence a classified, and, as appropriate, unclassified semiannual report summarizing the activities of the Office of the Inspector General of the Intelligence Community during the immediately preceding 6-month period ending September 30 and March 31, respectively. The Inspector General of the Intelligence Community shall provide any portion of the report involving a component of a department of the United States Government to the head of that department simultaneously with submission of the report to the Director of National Intelligence.
+(1)(A) The Inspector General of the Intelligence Community shall, not later than October 31 and April 30 of each year, prepare and submit to the Director of National Intelligence a classified, and, as appropriate, unclassified semiannual report summarizing the activities of theOffice of the Inspector General of the Intelligence Community during the immediately preceding 6-month period ending September 30 and March 31, respectively. The Inspector General of the Intelligence Community shall provide any portion of the report involving a component of a department of the United States Government to the head of that department simultaneously with submission of the report to the Director of National Intelligence.
 
 (B) Each report under this paragraph shall include, at a minimum, the following:
 
@@ -270,7 +270,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (B) The Inspector General shall submit to the committees of the Senate and of the House of Representatives with jurisdiction over a department of the United States Government any portion of each report under subparagraph (A) that involves an investigation, inspection, audit, or review carried out by the Inspector General focused on any current or former official of a component of such department simultaneously with submission of the report to the congressional intelligence committees.
 
-(4) The Director shall submit to the congressional intelligence committees any report or findings and recommendations of an investigation, inspection, audit, or review conducted by the office which has been requested by the Chairman or Vice Chairman or ranking minority member of either committee.
+(4) The Director shall submit to the congressional intelligence committees any report orfindings and recommendations of an investigation, inspection, audit, or review conducted by the office which has been requested by the Chairman or Vice Chairman or ranking minority member of either committee.
 
 (5)(A) An employee of an element of the intelligence community, an employee assigned or detailed to an element of the intelligence community, or an employee of a contractor to the intelligence community who intends to report to Congress a complaint or information with respect to an urgent concern may report such complaint or information to the Inspector General.
 
@@ -304,7 +304,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 &emsp;(III) An action, including a personnel action described in section 2302(a)(2)(A) of title 5, constituting reprisal or threat of reprisal prohibited under subsection (g)(3)(B) of this section in response to an employee's reporting an urgent concern in accordance with this paragraph.
 
-(ii) Within the executive branch, the Inspector General shall have sole authority to determinewhether any complaint or information reported to the Inspector General is a matter of urgent concern under this paragraph.
+(ii) Within the executive branch, the Inspector General shall have sole authority to determine whether any complaint or information reported to the Inspector General is a matter of urgent concern under this paragraph.
 
 (H) Nothing in this section shall be construed to limit the protections afforded to an employee under section 3517(d) of this title or section 416 of title 5.
 
@@ -318,7 +318,7 @@ Except as resolved pursuant to subsection (h), the performance by the Inspector 
 
 #### (m) Separate budget account
 
-The Director of National Intelligence shall, in accordance with procedures issued by the Director in consultation with the congressional intelligence committees, include in the National Intelligence Program budget a separate account for the Office of the Inspector General of the Intelligence Community.
+The Director of National Intelligence shall, in accordance with procedures issued by the Director in consultation with the congressional intelligence committees, include in the National Intelligence Program budget a separate accountfor the Office of the Inspector General of the Intelligence Community.
 
 #### (n) Budget
 
@@ -364,7 +364,7 @@ The Director of National Intelligence shall, in accordance with procedures issue
 
 #### References in Text
 
-Section 3 of the Inspector General Act of 1978, referred to in subsec. (c)(6)(A), is section 3 of Pub. L.95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 403 of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4208, 4361. For definition of "first assistant to the position of Inspector General", see Amendments Not Shown in Text note set out under section 403 of Title 5.
+Section 3 of the Inspector General Act of 1978, referred to in subsec. (c)(6)(A), is section 3 of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 403 of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4208, 4361. For definition of "first assistant to the position of Inspector General", see Amendments Not Shown in Text note set out under section 403 of Title 5.
 
 GS–15 of the General Schedule, referred to in subsec. (c)(6)(B)(iii)(II), is set out under section 5332 of Title 5, Government Organization and Employees.
 
@@ -414,11 +414,11 @@ Pub. L. 111–259, title IV, §405(c), Oct. 7, 2010, 124 Stat. 2719, provided th
 
 #### Oversight by Inspector General of the Intelligence Community Over Intelligence Community Whistleblower Matters
 
-Pub. L. 116–92, div. E, title LIII, §5334, Dec. 20, 2019, 133 Stat. 2141, provided that:
+Pub. L. 116–92, div. E, title LIII, §5334, Dec. 20, 2019, 133 Stat. 2141, as amended by Pub. L. 118–31, div. G, title III, §7327(a), Dec. 22, 2023, 137 Stat. 1044, provided that:
 
 "(a)
 
-System for Notification of Information Relating to Complaints by Whistleblowers Within the Intelligence Community.—Subject to subsection (b), not later than 1 year after the date of the enactment of this Act \[Dec. 20, 2019\], the Inspector General of the Intelligence Community, in consultation with the Intelligence Community Inspectors General Forum, shall establish a system whereby the Inspector General of the Intelligence Community is notified in near real time of the following:
+System for Notification of Information Relating to Complaints by Whistleblowers Within the Intelligence Community.—Subject to subsection (b), not later than 1 year after the date of the enactment of this Act \[Dec. 20, 2019\], the Inspector General of the Intelligence Community, in consultation with the Intelligence Community Inspectors General Forum, shall establish a system whereby the Inspector General of the Intelligence Community is notified monthly of the following:
 
 &emsp;"(1) Submission of complaints by whistleblowers to inspectors general of elements of the intelligence community relating to the programs and activities under the jurisdiction of the Director of National Intelligence, and information related to such complaints.
 
@@ -450,7 +450,7 @@ Requirements.—The policies required by paragraph (1) shall—
 
 #### Definitions
 
-Pub. L. 116–92, div. E, title LIII, §5331, Dec. 20, 2019, 133 Stat. 2137, provided that: "In this subtitle \[subtitleC (§§5331—5335) of title LIII of div. E of Pub. L. 116–92, enacting section 3236 of this title and provisions set out as a note above\]:
+Pub. L. 116–92, div. E, title LIII, §5331, Dec. 20, 2019, 133 Stat. 2137, provided that: "In this subtitle \[subtitle C (§§5331—5335) of title LIII of div. E of Pub. L. 116–92, enacting section 3236 of this title and provisions set out as a note above\]:
 
 &emsp;"(1)
 

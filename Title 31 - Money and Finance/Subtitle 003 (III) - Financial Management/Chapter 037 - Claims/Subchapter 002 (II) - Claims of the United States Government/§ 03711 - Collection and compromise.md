@@ -156,7 +156,7 @@
 
 (2) The obtaining of a consumer report under this subsection is deemed to be a circumstance or purpose authorized or listed under section 604 of the Fair Credit Reporting Act (15 U.S.C. 1681b).
 
-(i)(1) The head of an executive, judicial, or legislative agency may sell, subject to section 504(b) of the Federal Credit Reform Act of 1990 and using competitive procedures, any nontaxdebt owed to the United States that is delinquent for more than 90 days. Appropriate fees charged by a contractor to assist in the conduct of a sale under this subsection may be payable from the proceeds of the sale.
+(i)(1) The head of an executive, judicial, or legislative agency may sell, subject to section 504(b) of the Federal Credit Reform Act of 1990 and using competitive procedures, any nontax debt owed to the United States that is delinquent for more than 90 days. Appropriate fees charged by a contractor to assist in the conduct of a sale under this subsection may be payable from the proceeds of the sale.
 
 (2) After terminating collection action, the head of an executive, judicial, or legislative agency shall sell, using competitive procedures, any nontax debt or class of nontax debts owed to the United States, if the Secretary of the Treasury determines the sale is in the best interests of the United States.
 
@@ -234,7 +234,7 @@ In subsection (a), the word "Government" is added for consistency. In clause (2)
 
 In subsections (b) and (d), the word "official" is substituted for "officer" for consistency.
 
-In subsection (b), the words "Comptroller General" are substituted for "General Accounting Office" for consistency. The words "has the same authority that the head of the agency has" are substituted for "have the foregoing authority" for clarity. The words "by another agency" are omitted as surplus. The words "only. . . may compromise" are substituted for "nor shall the head of an agency, other than . . . have authority to compromise" to eliminate unnecessary words.
+In subsection (b), the words "Comptroller General" are substituted for "General Accounting Office" for consistency. The words "has the same authority that the head of the agency has" are substituted for "have the foregoing authority" for clarity. The words "by another agency" are omitted as surplus. The words "only . . . may compromise" are substituted for "nor shall the head of an agency, other than . . . have authority to compromise" to eliminate unnecessary words.
 
 In subsection (c)(1), the words "that appears to be fraudulent, false, or misrepresented by" are substituted for "as to which there is an indication of fraud, the presentation of a false claim, or misrepresentation on the part of" to eliminate unnecessary words. The words "the debtor or . . . other" and "in whole or in part" are omitted as surplus.
 
@@ -268,7 +268,7 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, §3(d)(1)–(3); added Oct. 25, 1
 
 31 App.:952(d)(3).
 
-In subsection (f)(1), before clause (A), the word "Government" is substituted for "United States" for consistency in the revised title and with other titles of the United States Code. The words "subsection (a) of this section, or under any other" are omitted as surplus. The word "law" is substituted for "statutory authority" to eliminate unnecessary words. In clause (A), the words "for the system of records" are omitted as surplus. In clause (C)(iii), the word "intended" is omitted as surplus. In clause (E)(ii), the words "as appropriate" and "any or all" are omitted as surplus. In clause (E)(iii), the words "all laws of the United States" are coextensive with and substituted for "the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) and any other Federal law".
+In subsection (f)(1), before clause (A), the word "Government" is substituted for "United States" for consistency in the revised title and with other titles of the United States Code. The words "subsection (a) of thissection, or under any other" are omitted as surplus. The word "law" is substituted for "statutory authority" to eliminate unnecessary words. In clause (A), the words "for the system of records" are omitted as surplus. In clause (C)(iii), the word "intended" is omitted as surplus. In clause (E)(ii), the words "as appropriate" and "any or all" are omitted as surplus. In clause (E)(iii), the words "all laws of the United States" are coextensive with and substituted for "the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) and any other Federal law".
 
 #### 1984 Act
 
@@ -326,7 +326,7 @@ Pub. L. 104–134, §31001(m)(1), added subsec. (g) relating to transfer of debt
 
 Pub. L. 104–106 added subsec. (g) relating to authority to suspend or terminate collection actions against deceased members.
 
-Subsec. (g)(1). Pub. L. 104–201, §1010(1), substituted "Marine Corps, or Coast Guard during a period whenthe Coast Guard is operating as a service in the Navy" for "or Marine Corps".
+Subsec. (g)(1). Pub. L. 104–201, §1010(1), substituted "Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy" for "or Marine Corps".
 
 Subsec. (g)(2), (3). Pub. L. 104–201, §1010(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
@@ -350,7 +350,7 @@ Subsec. (i). Pub. L. 104–134, §31001(p), added subsec. (i).
 
 #### Savings Provision
 
-Pub. L. 104–134, title III, §31001(n), Apr. 26, 1996, 110 Stat. 1321–369, provided that: "Effective October 1, 1995, section 11 of the Administrative Dispute Resolution Act (Public Law 101–552, \[former\] 5 U.S.C. 571 note) shall not apply to the amendment made by section 8(b) of such Act \[amending this section\]."
+Pub. L. 104–134, title III, §31001(n), Apr. 26, 1996, 110 Stat. 1321–369, provided that: "Effective October 1, 1995,section 11 of the Administrative Dispute Resolution Act (Public Law 101–552, \[former\] 5 U.S.C. 571 note) shall not apply to the amendment made by section 8(b) of such Act \[amending this section\]."
 
 #### Guidelines
 

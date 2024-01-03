@@ -98,7 +98,7 @@ Farmers.—
 
 &emsp;&emsp;" '(A)
 
-In general.—Except as provided in subparagraph (B), assistance may not be providedunder chapter 6 \[part 6 of this subchapter\] after June 30, 2022.
+In general.—Except as provided in subparagraph (B), assistance may not be provided under chapter 6 \[part 6 of this subchapter\] after June 30, 2022.
 
 &emsp;&emsp;" '(B)
 
@@ -184,7 +184,7 @@ In General.—Except as otherwise provided in sections 123(c) \[set out as a not
 
 "(b)
 
-Workers Certified as Eligible Before Effective Date.—Notwithstanding subsection (a), a workershall continue to receive (or be eligible to receive) trade adjustment assistance and other benefits under chapter 2 of title II of the Trade Act of 1974 \[this part\], as in effect on September 30, 2001, for any week for which the worker meets the eligibility requirements of such chapter 2 as in effect on such date, if on or before such date, the worker—
+Workers Certified as Eligible Before Effective Date.—Notwithstanding subsection (a), a worker shall continue to receive (or be eligible to receive) trade adjustment assistance and other benefits under chapter 2 of title II of the Trade Act of 1974 \[this part\], as in effect on September 30, 2001, for any week for which the worker meets the eligibility requirements of such chapter 2 as in effect on such date, if on or before such date, the worker—
 
 &emsp;"(1) was certified as eligible for trade adjustment assistance benefits under such chapter as in effect on such date; and
 
@@ -256,7 +256,7 @@ Exception.—Notwithstanding subparagraph (A), an agricultural commodity produce
 
 &emsp;&emsp;&emsp;"(ii) is \[sic\] otherwise eligible to receive adjustment assistance benefits under such chapter 6."
 
-\[Pub. L. 114–27, title IV, §406(a)(7), June 29, 2015, 129 Stat. 379, provided that, beginning July 1, 2021, subject to section 406(b), set out in an Effective and Termination Dates of 2015 Revival note above, section 285 of Pub. L. 93–618, set out above, as in effect on Jan. 1, 2014, shall be applied and administered—
+\[Pub. L. 114–27, title IV, §406(a)(7), June 29, 2015, 129 Stat. 380, provided that, beginning July 1, 2021, subject to section 406(b), set out in an Effective and Termination Dates of 2015 Revival note above, section 285 of Pub. L. 93–618, set out above, as in effect on Jan. 1, 2014, shall be applied and administered—
 
 \[(1) in subsec. (a), by substituting "June 30, 2022" for "December 31, 2007" wherever appearing; and
 
@@ -298,7 +298,7 @@ Exception.—Notwithstanding subparagraph (A), any assistance approved under cha
 
 &emsp;&emsp;&emsp;\["(ii) to the extent the recipient of the assistance is otherwise eligible to receive such assistance."\]
 
-\[Pub. L. 113–235, div. B, title V, §541(b), Dec. 16, 2014, 128 Stat. 2217, provided that, during the period beginning on Jan. 1, 2015, and ending on Dec. 31, 2015, section 285 of Pub. L. 93–618, as in effect on Dec. 31, 2014, shallapply, except that subsec. (b) of that section shall be applied and administered as if par. (1) read as follows:
+\[Pub. L. 113–235, div. B, title V, §541(b), Dec. 16, 2014, 128 Stat. 2217, provided that, during the period beginning on Jan. 1, 2015, and ending on Dec. 31, 2015, section 285 of Pub. L. 93–618, as in effect on Dec. 31, 2014, shall apply, except that subsec. (b) of that section shall be applied and administered as if par. (1) read as follows:
 
 \["(1)
 

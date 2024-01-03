@@ -22,6 +22,10 @@ A definition of "agency" is added to avoid having to repeat the substance of the
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 118–7, §1, June 30, 2023, 137 Stat. 52, provided that: "This Act \[amending section 51509 of this title\] may be cited as the 'Changing Age-Determined Eligibility To Student Incentive Payments Act' or the 'CADETS Act'."
+
 #### Short Title of 2022 Amendment
 
 Pub. L. 117–146, §1, June 16, 2022, 136 Stat. 1272, provided that: "This Act \[see Tables for classification\] may be cited as the 'Ocean Shipping Reform Act of 2022'."
@@ -108,9 +112,9 @@ Pub. L. 99–626, §1, Nov. 7, 1986, 100 Stat. 3504, provided that: "This act \[
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–498, title II, §210, Oct. 19, 1984, 98 Stat. 2303, provided that: "This subtitle \[subtitle A (§§210–214) of title II of Pub. L. 98–498, see Tables for classification\] may be cited as the 'Maritime Safety Act of 1984'."
+Pub. L. 98–498, title II, §210, Oct. 19, 1984, 98 Stat. 2303, provided that: "This subtitle \[subtitle A (§§210–214) oftitle II of Pub. L. 98–498, see Tables for classification\] may be cited as the 'Maritime Safety Act of 1984'."
 
-Pub. L. 98–364, title IV, §401, July 17, 1984, 98 Stat. 445, provided that: "This title \[see Tables for classification\]may be cited as the 'Commercial Fishing Industry Vessel Act'."
+Pub. L. 98–364, title IV, §401, July 17, 1984, 98 Stat. 445, provided that: "This title \[see Tables for classification\] may be cited as the 'Commercial Fishing Industry Vessel Act'."
 
 #### Short Title of 1981 Amendment
 

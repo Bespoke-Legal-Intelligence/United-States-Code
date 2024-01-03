@@ -46,7 +46,7 @@ Pub. L. 109–444, which inserted closing parenthesis before period at end, was 
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–315, title VII, §706, Dec. 16, 2016, 130 Stat. 1586, provided that: "This subtitle \[subtitle A (§§701–706) of title VII of Pub. L. 114–315, amending this section and sections 5303 and 5303A of this title and enacting provisions set out as notes under this section\] and the amendments made by this subtitle shall apply to individuals seeking benefits under chapter 20 of title 38, United States Code, before, on, and after the date of the enactment of this Act \[Dec. 16, 2016\]."
+Pub. L. 114–315, title VII, §706, Dec. 16, 2016, 130 Stat. 1586, provided that: "This subtitle \[subtitle A\(§§701–706) of title VII of Pub. L. 114–315, amending this section and sections 5303 and 5303A of this title and enacting provisions set out as notes under this section\] and the amendments made by this subtitle shall apply to individuals seeking benefits under chapter 20 of title 38, United States Code, before, on, and after the date of the enactment of this Act \[Dec. 16, 2016\]."
 
 #### Regulations
 

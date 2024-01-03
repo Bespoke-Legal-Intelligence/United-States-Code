@@ -8,7 +8,7 @@ To promote the development of effective State and local noise control programs, 
 
 &emsp;&emsp;(1) investigation of the psychological and physiological effects of noise on humans and the effects of noise on domestic animals, wildlife, and property, and the determination of dose/response relationships suitable for use in decisionmaking, with special emphasis on the nonauditory effects of noise;
 
-&emsp;&emsp;(2) investigation, development, and demonstration of noise control technology for products subject to possible regulation under sections 4905 and 4907 of this title and section 44715 of title 49;
+&emsp;&emsp;(2) investigation, development, and demonstration of noise control technology for products subject to possible regulationunder sections 4905 and 4907 of this title and section 44715 of title 49;
 
 &emsp;&emsp;(3) investigation, development, and demonstration of monitoring equipment and other technology especially suited for use by State and local noise control programs;
 
@@ -56,7 +56,7 @@ The Older Americans Act, referred to in subsec. (g), probably means the Older Am
 
 #### Codification
 
-In subsec. (b)(2), "section 44715 of title 49" substituted for reference to section 7 of this Act, meaning section 7 of Pub. L. 92–574, which generally amended section 611of the Federal Aviation Act of 1958 (49 App. U.S.C. 1431), on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (b)(2), "section 44715 of title 49" substituted for reference to section 7 of this Act, meaning section 7 of Pub. L. 92–574, which generally amended section 611 of the Federal Aviation Act of 1958 (49 App. U.S.C. 1431), on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
 

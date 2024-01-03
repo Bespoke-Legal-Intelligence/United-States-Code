@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule.—Two percent of the sums apportioned to a State for fiscal year 1998 and each fiscal year thereafter under paragraphs (1) through (5) of section 104(b) shall be available for expenditure by the State, in consultation with the Secretary, only for the following purposes:
+General Rule.—Two percent of the sums apportioned to a State for fiscal year 1998 and each fiscal year thereafter under paragraphs (1)through (5) of section 104(b) shall be available for expenditure by the State, in consultation with the Secretary, only for the following purposes:
 
 &emsp;(1) Engineering and economic surveys and investigations.
 
@@ -92,13 +92,13 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 Pub. L. 87–866, §13, Oct. 23, 1962, 76 Stat. 1149, as amended by Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, provided that:
 
-"(a) The Secretary of Transportation, in cooperation with the State of Alaska, is hereby authorized to make engineering studies and estimates and planning surveys relative to a highway construction program for the State of Alaska, and, in accordance with treaties or other agreements to be negotiated with Canada by the Secretary of State in consultation with the Secretary of Transportation, engineering studies, estimates, and planning surveys relative to connecting Alaskan roads with Canadian roads at the International boundary.
+"(a) The Secretary of Transportation, in cooperation with the State of Alaska, is hereby authorized to make engineering studies and estimates and planning surveys relative to a highway construction program for the State of Alaska, and, in accordance with treaties or other agreements to be negotiated with Canada by the Secretary of State in consultation with the Secretaryof Transportation, engineering studies, estimates, and planning surveys relative to connecting Alaskan roads with Canadian roads at the International boundary.
 
 "(b) On or before May 15, 1964, the Secretary of Transportation shall submit a report to the Congress which shall include—
 
 &emsp;"(1) an analysis of the adequacy of the Federal-aid highway program to provide for a satisfactory program in both the populated and the undeveloped areas in Alaska;
 
-&emsp;"(2) specific recommendations as to the construction of roads through undeveloped areas of Alaskaand connection of such roads with Canadian roads at the International boundary; and
+&emsp;"(2) specific recommendations as to the construction of roads through undeveloped areas of Alaska and connection of such roads with Canadian roads at the International boundary; and
 
 &emsp;"(3) a feasible program for implementing such specific recommendations, including cost estimates, recommendations as to the sharing of cost responsibilities, and other pertinent matters.
 

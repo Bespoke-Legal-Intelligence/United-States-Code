@@ -26,7 +26,7 @@ Nothing contained in this part shall be deemed (1) to amend any other provision 
 
 &emsp;(B) enters into a compliance agreement approved by the Secretary;
 
-> the Secretary shall direct the Corporation to reduce or suspend any further payments of funds under this part to the recipient and the Corporation shall comply with such directive. Resumption of payments shall take place only when the Secretary certifies to the Corporation that the recipient has entered into a compliance agreement approved by the Secretary. A recipientwhose funds have been reduced or suspended under this paragraph may apply at any time to the Secretary for such certification.
+> the Secretary shall direct the Corporation to reduce or suspend any further payments of funds under this part to the recipient and the Corporation shall comply with such directive. Resumption of payments shall take place only when the Secretary certifies to the Corporation that the recipient has entered into a compliance agreement approved by the Secretary. A recipient whose funds have been reduced or suspended under this paragraph may apply at any time to the Secretary for such certification.
 
 #### (c) Control over content or distribution of programs
 

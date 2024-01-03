@@ -12,7 +12,7 @@ A prior section 1132a, Pub. L. 89–329, title VII, §701, as added Pub. L. 99�
 
 Another prior section 1132a, Pub. L. 89–329, title VII, §701, as added Pub. L. 96–374, title VII, §701, Oct. 3, 1980, 94 Stat. 1472, related to purpose of programs of financial assistance to institutions of higher education and to higher education building agencies, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1132a, Pub. L. 89–329, title VII, §701, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 288; amended Pub. L. 94–482, title I,§§161(a), 162(a)(3), (b), Oct. 12, 1976, 90 Stat. 2156, 2157; Pub. L. 96–49, §8(a), Aug. 13, 1979, 93 Stat. 353, authorized appropriations for a program of grants for the construction, reconstruction, and renovation of undergraduate facilities, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1132a, Pub. L. 89–329, title VII, §701, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 288; amended Pub. L. 94–482, title I, §§161(a), 162(a)(3), (b), Oct. 12, 1976, 90 Stat. 2156, 2157; Pub. L. 96–49, §8(a), Aug. 13, 1979, 93 Stat. 353, authorized appropriations for a program of grants for the construction, reconstruction, and renovation of undergraduate facilities, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 1132a–1, Pub. L. 89–329, title VII, §702, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1521; amended Pub. L. 100–50, §19(2), June 3, 1987, 101 Stat. 360; Pub. L. 102–325, title VII, §702, July 23, 1992, 106 Stat. 738, related to prior rights and obligations prior to the general amendment of this subchapter by Pub. L. 105–244. For similar provisions, see section 1011j of this title.
 
@@ -24,7 +24,7 @@ Section 1132a–1, Pub. L. 89–329, title VII, §702, as added Pub. L. 92–318
 
 Section 1132a–2, Pub. L. 89–329, title VII, §703, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 290; amended Pub. L. 94–482, title I, §162(a)(3), Oct. 12, 1976, 90 Stat. 2156, related to allotments to institutions of higher education other than public community colleges and public technical institutes.
 
-Section 1132a–3, Pub. L. 89–329, title VII, §704, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 290; amended Pub. L. 94–482, title I, §162(a)(3), (c), Oct. 12, 1976, 90 Stat. 2156, 2157, set out the requirements of State plans.
+Section 1132a–3, Pub. L. 89–329, title VII, §704, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86Stat. 290; amended Pub. L. 94–482, title I, §162(a)(3), (c), Oct. 12, 1976, 90 Stat. 2156, 2157, set out the requirements of State plans.
 
 Section 1132a–4, Pub. L. 89–329, title VII, §705, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 291; amended Pub. L. 94–482, title I, §162(a)(3), (4), (d), Oct. 12, 1976, 90 Stat. 2156, 2157, related to the eligibility of institutions for grants.
 
@@ -70,7 +70,7 @@ Another prior section 1132c, Pub. L. 89–329, title VII, §721, as added Pub. L
 
 Another prior section 1132c, Pub. L. 89–329, title VII, §721, as added Pub. L. 96–374, title VII, §701, Oct. 3, 1980, 94 Stat. 1475, authorized grants to graduate institutions of higher education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1132c, Pub. L. 89–329, title VII, §741, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 295; amended Pub. L. 94–482, title I, §§161(c), 162(a)(3), Oct. 12, 1976, 90 Stat. 2156; Pub. L. 96–49, §8(c)(1), Aug. 13, 1979, 93 Stat. 353, set out grant of authority and authorization of appropriations forprogram of loans for construction, reconstruction, and renovation of academic facilities, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1132c, Pub. L. 89–329, title VII, §741, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 295; amended Pub. L. 94–482, title I, §§161(c), 162(a)(3), Oct. 12, 1976, 90 Stat. 2156; Pub. L. 96–49, §8(c)(1), Aug. 13, 1979, 93 Stat. 353, set out grant of authority and authorization of appropriations for program of loans for construction, reconstruction, and renovation of academic facilities, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 1132c–1, Pub. L. 89–329, title VII, §722, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 742, which defined terms, was renumbered section 342 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(3), (4), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1066a of this title.
 
@@ -80,7 +80,7 @@ A prior section 1132c–2, Pub. L. 89–329, title VII, §723, as added Pub. L. 
 
 Another prior section 1132c–2, Pub. L. 89–329, title VII, §743, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 296; amended Pub. L. 94–482, title I, §162(f), Oct. 12, 1976, 90 Stat. 2157, contained general provisions covering programs of loans for construction, reconstruction, and renovation of academic facilities, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-A prior section 1132c–3, Pub. L. 89–329, title VII, §724, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 745, which related to limitations on Federal insurance for bonds issued by designated bonding authority, was renumbered section 344 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(3), (4), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1066c of this title.
+A prior section 1132c–3, Pub. L. 89–329, title VII, §724, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 745, which related to limitations on Federal insurance for bonds issued by designated bonding authority, was renumbered section 344 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(3), (4), Oct. 7, 1998,112 Stat. 1636, and transferred to section 1066c of this title.
 
 Another prior section 1132c–3, Pub. L. 89–329, title VII, §744, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 296, provided for creation of Revolving Loan Fund and Insurance Fund, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
@@ -120,7 +120,7 @@ Another prior section 1132d–2, Pub. L. 89–329, title VII, §733, as added Pu
 
 Another prior section 1132d–2, Pub. L. 89–329, title VII, §763, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 300, related to grants for the purchase of equipment and supplies, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-A prior section 1132d–3, Pub. L. 89–329, title VII, §734, as added Pub. L. 102–325, title VII, §705, July 23, 1992, 106Stat. 751; amended Pub. L. 103–208, §2(j)(20), Dec. 20, 1993, 107 Stat. 2481, defined terms, prior to the general amendment of this subchapter by Pub. L. 105–244.
+A prior section 1132d–3, Pub. L. 89–329, title VII, §734, as added Pub. L. 102–325, title VII, §705, July 23, 1992, 106 Stat. 751; amended Pub. L. 103–208, §2(j)(20), Dec. 20, 1993, 107 Stat. 2481, defined terms, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 Another prior section 1132d–3, Pub. L. 89–329, title VII, §734, as added Pub. L. 96–374, title VII, §701, Oct. 3, 1980, 94 Stat. 1477, related to annual interest grants to assist institutions of higher education and higher education building agencies, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
@@ -184,7 +184,7 @@ Section 1132g–3, Pub. L. 89–329, title VII, §764, as added Pub. L. 99–498
 
 Section 1132h, Pub. L. 89–329, title VII, §771, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1539, provided for financial assistance to Eastern Michigan University in Ypsilanti, Michigan, for renovation and restoration of Welch Hall.
 
-Section 1132h–1, Pub. L. 89–329, title VII, §772, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100Stat. 1539, provided for financial assistance to Rochester Institute of Technology in Rochester, New York, for Federal share of construction and related costs of Academic Health Education Center facility.
+Section 1132h–1, Pub. L. 89–329, title VII, §772, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1539, provided for financial assistance to Rochester Institute of Technology in Rochester, New York, for Federal share of construction and related costs of Academic Health Education Center facility.
 
 Section 1132h–2, Pub. L. 89–329, title VII, §773, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1540, provided financial assistance to Shaw University of Raleigh, North Carolina, for renovation and restoration of Estey Hall.
 
@@ -198,7 +198,7 @@ Section 1132h–6, Pub. L. 89–329, title VII, §777, as added Pub. L. 99–498
 
 Prior sections 1132i to 1132i–2 were omitted in the general amendment of this subchapter by Pub. L. 105–244.
 
-Section 1132i, Pub. L. 89–329, title VII, §781, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1542; amended Pub. L. 102–325, title VII, §708(b), July 23, 1992, 106 Stat. 754; Pub. L. 103–208, §2(j)(21), Dec. 20, 1993, 107 Stat. 2481, related to recovery of payments upon cessation of public benefit. See section 1011k of this title.
+Section 1132i, Pub. L. 89–329, title VII, §781, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1542; amended Pub. L. 102–325, title VII, §708(b), July 23, 1992, 106 Stat. 754; Pub. L. 103–208, §2(j)(21), Dec. 20, 1993, 107 Stat. 2481, related to recovery of payments uponcessation of public benefit. See section 1011k of this title.
 
 Section 1132i–1, (Pub. L. 89–329, title VII, §782, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1542; amended Pub. L. 100–50, §19(6), June 3, 1987, 101 Stat. 360; Pub. L. 102–325, title VII, §708(c), July 23, 1992, 106 Stat. 754; Pub. L. 103–208, §2(j)(22), Dec. 20, 1993, 107 Stat. 2481, defined terms used in this subchapter.
 

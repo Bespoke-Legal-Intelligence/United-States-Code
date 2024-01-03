@@ -142,7 +142,7 @@ Vessel and Facility Security Plans.—(1) Within 6 months after the prescription
 
 (6) Notwithstanding paragraph (5), the Secretary may authorize a vessel or facility to operate without a security plan approved under this subsection, until not later than 1 year after the date of the submission to the Secretary of a plan for the vessel or facility, if the owner or operator of the vessel or facility certifies that the owner or operator has ensured by contract or other means approved by the Secretary to deter to the maximum extent practicable a transportation security incident or a substantial threat of such a security incident.
 
-(7) The Secretary shall require each owner or operator of a vessel or facility located within or adjacent to waters subject to the jurisdiction of the United States to implement any necessary interim security measures, including cargo security programs, to deter to the maximum extent practicable a transportation security incidentuntil the security plan for that vessel or facility operator is approved.
+(7) The Secretary shall require each owner or operator of a vessel or facility located within or adjacent to waters subject to the jurisdiction of the United States to implement any necessary interim security measures, including cargo security programs, to deter to the maximum extent practicable a transportation security incident until the security plan for that vessel or facility operator is approved.
 
 (8)(A) The Secretary shall require that the qualified individual having full authority to implement security actions for a facility described in paragraph (2) shall be a citizen of the United States.
 
@@ -154,7 +154,7 @@ Nondisclosure of Information.—
 
 &emsp;(1)
 
-In general.—Information developed under this section or sections 70102, 70104, and 70108 is not required to be disclosed to the public, including—
+In general.—Information developed under this section or sections 70102, 70104, and70108 is not required to be disclosed to the public, including—
 
 &emsp;&emsp;(A) facility security plans, vessel security plans, and port vulnerability assessments; and
 

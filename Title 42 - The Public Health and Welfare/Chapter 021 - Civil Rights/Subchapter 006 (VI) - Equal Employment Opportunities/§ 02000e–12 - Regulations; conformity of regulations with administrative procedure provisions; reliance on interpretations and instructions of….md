@@ -48,7 +48,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(9) properly drawn guidelines for the determination of religious harassment should provide appropriate guidance to employers and employees and assist in the continued preservation of religious liberty as guaranteed by the first amendment;
 
-&emsp;"(10) the Commission states in its proposed guidelines that it retains wholly separate guidelines for the determination of sexual harassment because the Commission believes that sexual harassment raises issues about human interaction that are to some extent unique; and
+&emsp;"(10) the Commission states in its proposed guidelines that it retains wholly separate guidelines forthe determination of sexual harassment because the Commission believes that sexual harassment raises issues about human interaction that are to some extent unique; and
 
 &emsp;"(11) the subject of religious harassment also raises issues about human interaction that are to some extent unique in comparison to other harassment.
 

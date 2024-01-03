@@ -10,7 +10,7 @@
 
 &emsp;(ii) 90 percent of the amount received and used under this subpart for the first year it participated in the program.
 
-(B) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the programunder this subpart after fiscal year 1999 and is a first or second time participant, an amount equal to the greatest of—
+(B) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this subpart after fiscal year 1999 and is a first or second time participant, an amount equal to the greatest of—
 
 &emsp;(i) $5,000;
 
@@ -46,7 +46,7 @@
 
 (2) For any eligible institution, the excess eligible amount is the amount, if any, by which—
 
-&emsp;(A)(i) the amount of that institution's need (as determined under subsection (c)), divided by (ii) the sum of the need of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1070b(b) of this title of the fiscal year; exceeds
+&emsp;(A)(i) the amount of that institution's need (as determined under subsection (c)), dividedby (ii) the sum of the need of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1070b(b) of this title of the fiscal year; exceeds
 
 &emsp;(B) the amount required to be allocated to that institution under subsection (a).
 

@@ -46,7 +46,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 1959 Amendment
 
-Pub. L. 86–174, §2, Aug. 18, 1959, 73 Stat. 395, provided that the amendment of this section and former section 5133 of this title and the repeal of sections 5136 and 5144 of this title shall be effective on July 1, 1960, or on any earlier date on which the Secretary of the Navy makes a formal finding that all the functions of the Bureau of Aeronautics and the Bureau of Ordnance have been transferred to the Bureau of Naval Weapons or elsewhere.
+Pub. L. 86–174, §2, Aug. 18, 1959, 73 Stat. 395, provided that the amendment of this section and former section 5133 of this title and the repeal of sections 5136 and 5144 of this title shall be effective on July 1, 1960, or on any earlier date on which the Secretary of the Navy makesa formal finding that all the functions of the Bureau of Aeronautics and the Bureau of Ordnance have been transferred to the Bureau of Naval Weapons or elsewhere.
 
 #### Bureau of Naval Weapons; Transfer of Funds
 

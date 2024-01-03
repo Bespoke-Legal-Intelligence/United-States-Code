@@ -24,7 +24,7 @@
 
 #### (B) Additional requirements
 
-&emsp;In addition to the requirements of subparagraph (A), each application submitted by aneligible entity under that subparagraph shall—
+&emsp;In addition to the requirements of subparagraph (A), each application submitted by an eligible entity under that subparagraph shall—
 
 &emsp;&emsp;(i) not include proposals for any activities that may compromise the safety of a domestic violence victim, including—
 
@@ -50,7 +50,7 @@ Grants awarded under this section may only be used for programs that provide—
 
 &emsp;(A) emergency and transitional shelter and housing assistance for domestic violence victims with pets, service animals, emotional support animals, or horses, including assistance with respect to any construction or operating expenses of newly developed or existing emergency and transitional pet, service animal, emotional support animal, or horse shelter and housing (regardless of whether such shelter and housing is co-located at a victim service provider or within the community);
 
-&emsp;(B) short-term shelter and housing assistance for domestic violence victims with pets, service animals, emotional support animals, or horses, including assistance with respect to expenses incurred for the temporary shelter, housing, boarding, or fostering of the pets, service animals, emotional support animals, or horses of domestic violence victims and other expenses that are incidental to securing the safety of such a pet, service animal, emotional support animal, or horse during the sheltering, housing, or relocation of such victims;
+&emsp;(B) short-term shelter and housing assistance for domestic violence victims with pets, service animals, emotional support animals, or horses, including assistance with respect to expenses incurred for the temporary shelter, housing, boarding, or fostering of the pets, service animals, emotional support animals, or horses of domestic violence victims and other expenses that are incidental to securing the safety of such a pet, service animal, emotional support animal, or horse during thesheltering, housing, or relocation of such victims;
 
 &emsp;(C) support services designed to enable a domestic violence victim who is fleeing a situation of domestic violence, dating violence, sexual assault, or stalking to—
 

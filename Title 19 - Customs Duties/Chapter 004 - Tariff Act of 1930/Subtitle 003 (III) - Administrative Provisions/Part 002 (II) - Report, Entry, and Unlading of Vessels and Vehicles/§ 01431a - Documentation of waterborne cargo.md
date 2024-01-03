@@ -36,7 +36,7 @@ This section shall apply to all cargo to be exported that is moved by a vessel c
 
 #### (3) Reassignment to another vessel
 
-&emsp;For purposes of this subsection and subsection (f), if merchandise has been tendered to a marine terminal operator and subsequently reassigned for carriage on another vessel, the merchandise shall be considered properly documented if the information provided reflects carriage on the previously assigned vessel and otherwise meets the requirements of subsection (b). Notwithstanding the preceding sentence, it shall be the responsibility of the vessel carrier to notify the Customs Service promptly of any reassignment of merchandise for carriage on a vessel other than the vessel on which the merchandise was originally assigned.
+&emsp;For purposes of this subsection and subsection (f), if merchandise has been tendered to a marine terminal operator and subsequently reassigned for carriage on another vessel, the merchandise shall be consideredproperly documented if the information provided reflects carriage on the previously assigned vessel and otherwise meets the requirements of subsection (b). Notwithstanding the preceding sentence, it shall be the responsibility of the vessel carrier to notify the Customs Service promptly of any reassignment of merchandise for carriage on a vessel other than the vessel on which the merchandise was originally assigned.
 
 #### (4) Multiple containers
 

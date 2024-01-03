@@ -4,7 +4,7 @@
 
 (b) The Under Secretary shall perform such duties and exercise such powers as the Secretary of the Air Force may prescribe.
 
-(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1058, §8015; renumbered §9015, Pub.L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833.)
+(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1058, §8015; renumbered §9015, Pub. L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833.)
 
 #### <b>Editorial Notes</b>
 

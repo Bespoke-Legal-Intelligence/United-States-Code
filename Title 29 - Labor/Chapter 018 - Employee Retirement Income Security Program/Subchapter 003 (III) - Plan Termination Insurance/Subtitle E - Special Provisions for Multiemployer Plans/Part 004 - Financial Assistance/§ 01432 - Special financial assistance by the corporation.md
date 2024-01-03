@@ -30,7 +30,7 @@
 
 #### (c) Applications for special financial assistance
 
-Within 120 days of March 11, 2021, the corporation shall issue regulations or guidance settingforth requirements for special financial assistance applications under this section. In such regulations or guidance, the corporation shall—
+Within 120 days of March 11, 2021, the corporation shall issue regulations or guidance setting forth requirements for special financial assistance applications under this section. In such regulations or guidance, the corporation shall—
 
 &emsp;(1) limit the materials required for a special financial assistance application to the minimum necessary to make a determination on the application;
 
@@ -68,7 +68,7 @@ Within 120 days of March 11, 2021, the corporation shall issue regulations or gu
 
 #### (3) Interest rate limit
 
-&emsp;The interest rate limit for purposes of this subsection is the rate specified in section 1083(h)(2)(C)(iii) of this title (disregarding modifications made under clause (iv) of such section) for the month in which the application for special financial assistance is filed by the eligible multiemployer plan or the 3 preceding months, with such specified rate increased by 200 basis points.
+&emsp;The interest rate limit for purposes of this subsection is the rate specified in section 1083(h)(2)(C)(iii) of this title (disregarding modifications made under clause (iv) of such section) for the month in which the application for special financial assistance is filed bythe eligible multiemployer plan or the 3 preceding months, with such specified rate increased by 200 basis points.
 
 #### (4) Changes in assumptions
 
@@ -120,7 +120,7 @@ The Secretary, in coordination with the Secretary of the Treasury, shall ensure 
 
 #### (l) Restrictions on the use of special financial assistance
 
-Special financial assistance received under this section and any earnings thereon may be used by an eligible multiemployer plan to make benefit payments and pay plan expenses. Special financial assistance and any earnings on such assistance shall be segregated from other plan assets. Special financial assistance shall be invested by plans in investment-grade bonds or other investments as permitted by the corporation.
+Special financial assistance received under this section and any earnings thereon may be used by an eligible multiemployer plan to make benefit payments and pay plan expenses. Specialfinancial assistance and any earnings on such assistance shall be segregated from other plan assets. Special financial assistance shall be invested by plans in investment-grade bonds or other investments as permitted by the corporation.
 
 #### (m) Conditions on plans receiving special financial assistance
 
@@ -148,7 +148,7 @@ Special financial assistance received under this section and any earnings thereo
 
 #### (5) Insolvent plans
 
-&emsp;An eligible multiemployer plan receiving special financial assistance under this section that subsequently becomes insolvent will besubject to the current rules and guarantee for insolvent plans.
+&emsp;An eligible multiemployer plan receiving special financial assistance under this section that subsequently becomes insolvent will be subject to the current rules and guarantee for insolvent plans.
 
 #### (6) Ineligibility for other assistance
 

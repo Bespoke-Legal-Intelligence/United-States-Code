@@ -24,7 +24,7 @@ For purposes of this subtitle, the term "life insurance company" means an insura
 
 &emsp;Except—
 
-&emsp;&emsp;(A) in the case of policies covering life, accident, and health insurance combined in one policy issued on the weekly premium payment plan, continuing for life and not subject to cancellation, and
+&emsp;&emsp;(A) in the case of policies covering life, accident, and health insurance combined in one policy issued on the weekly premiumpayment plan, continuing for life and not subject to cancellation, and
 
 &emsp;&emsp;(B) as provided in paragraph (3),
 
@@ -58,7 +58,7 @@ For purposes only of determining under subsection (a) whether or not an insuranc
 
 #### (e) Guaranteed renewable contracts
 
-For purposes of this part, guaranteed renewable life, accident, and health insurance shall betreated in the same manner as noncancellable life, accident, and health insurance.
+For purposes of this part, guaranteed renewable life, accident, and health insurance shall be treated in the same manner as noncancellable life, accident, and health insurance.
 
 #### (f) Amounts not involving life, accident, or health contingencies
 
@@ -112,7 +112,7 @@ Section applicable to taxable years beginning after Dec. 31, 1983, see section 2
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Special Election To Treat Individual Noncancellable Accident and Health Contracts as Cancellable
 

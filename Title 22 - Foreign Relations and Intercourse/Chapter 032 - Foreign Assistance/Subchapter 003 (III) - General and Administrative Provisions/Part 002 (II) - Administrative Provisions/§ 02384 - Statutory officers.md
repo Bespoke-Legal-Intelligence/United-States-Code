@@ -40,7 +40,7 @@ Section 642(a), referred to in subsec. (c), means section 642(a) of Pub. L. 87�
 
 <b>1977</b>—Subsec. (d). Pub. L. 95–88 struck out subsec. (d) which provided for an Inspector General, Foreign Assistance.
 
-Subsec. (f)(1). Pub. L. 95–105, §109(a)(1)(A), substituted references to the Assistant Secretary of State forHuman Rights and Humanitarian Affairs for references to the Coordinator for Human Rights and Humanitarian Affairs.
+Subsec. (f)(1). Pub. L. 95–105, §109(a)(1)(A), substituted references to the Assistant Secretary of State for Human Rights and Humanitarian Affairs for references to the Coordinator for Human Rights and Humanitarian Affairs.
 
 Subsec. (f)(2). Pub. L. 95–105, §109(a)(1)(B), substituted "Assistant Secretary of State" for "Coordinator".
 

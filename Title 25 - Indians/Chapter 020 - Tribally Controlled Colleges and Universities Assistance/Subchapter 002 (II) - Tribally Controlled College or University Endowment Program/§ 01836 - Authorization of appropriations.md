@@ -4,7 +4,7 @@
 
 (b) Any funds appropriated pursuant to subsection (a) are authorized to remain available until expended.
 
-(Pub. L. 95–471, title III, §306, as added Pub. L. 98–192, §13, Dec. 1, 1983, 97 Stat. 1343; amendedPub. L. 99–428, §2(b), Sept. 30, 1986, 100 Stat. 982; Pub. L. 101–477, §1(d)(1)(F), Oct. 30, 1990, 104 Stat. 1153; Pub. L. 102–325, title XIII, §1301(b), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, §901(a)(2)(B), Oct. 7, 1998, 112 Stat. 1827; Pub. L. 110–315, title IX, §941(h), Aug. 14, 2008, 122 Stat. 3462.)
+(Pub. L. 95–471, title III, §306, as added Pub. L. 98–192, §13, Dec. 1, 1983, 97 Stat. 1343; amended Pub. L. 99–428, §2(b), Sept. 30, 1986, 100 Stat. 982; Pub. L. 101–477, §1(d)(1)(F), Oct. 30, 1990, 104 Stat. 1153; Pub. L. 102–325, title XIII, §1301(b), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, §901(a)(2)(B), Oct. 7, 1998, 112 Stat. 1827; Pub. L. 110–315, title IX, §941(h), Aug. 14, 2008, 122 Stat. 3462.)
 
 #### <b>Editorial Notes</b>
 

@@ -16,7 +16,7 @@ As used in this chapter the term—
 
 &emsp;&emsp;(1) a violation of the laws of the United States or a State thereof or of a foreign country committed by a juvenile which would have been a crime if committed by an adult; or
 
-&emsp;&emsp;(2) noncriminal acts committed by a juvenile for which supervision or treatment by juvenile authorities of the United States, a State thereof, or of the foreign country concerned is authorized;
+&emsp;&emsp;(2) noncriminal acts committed by a juvenile for which supervision or treatment by juvenile authorities of the United States, aState thereof, or of the foreign country concerned is authorized;
 
 &emsp;(e) "offender" means a person who has been convicted of an offense or who has been adjudged to have committed an act of juvenile delinquency;
 

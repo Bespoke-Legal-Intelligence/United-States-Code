@@ -72,7 +72,7 @@ The National Technical Information Service shall—
 
 &emsp;(J) seek advice in each Federal laboratory consortium region from representatives of State and local governments, large and small business, universities, and other appropriate persons on the effectiveness of the program (and any such advice shall be provided at no expense to the Government); and
 
-&emsp;(K) work with the Director of the National Institute on Disability and Rehabilitation Research to compile a compendium of current and projected Federal Laboratory technologies and projects that have or will have an intended or recognized impact on the available range of assistive technology for individuals with disabilities (as defined in section 3002 of title 29), including technologies and projects that incorporate the principles of universal design (as defined in section 3002 of title 29), as appropriate.
+&emsp;(K) work with the Director of the National Institute on Disability and Rehabilitation Research to compile a compendium of current and projected Federal Laboratory technologiesand projects that have or will have an intended or recognized impact on the available range of assistive technology for individuals with disabilities (as defined in section 3002 of title 29), including technologies and projects that incorporate the principles of universal design (as defined in section 3002 of title 29), as appropriate.
 
 (2) The membership of the Consortium shall consist of the Federal laboratories described in clause (1) of subsection (b) and such other laboratories as may choose to join the Consortium. The representatives to the Consortium shall include a senior staff member of each Federal laboratory which is a member of the Consortium and a senior representative appointed from each Federal agency with one or more member laboratories.
 
@@ -124,7 +124,7 @@ The National Technical Information Service shall—
 
 #### (4) Public availability
 
-&emsp;Each Federal agency reporting under this subsection is also strongly encouraged to make the information contained in such report available to the public through Internet sites or other electronic means.
+&emsp;Each Federal agency reporting under this subsection is also strongly encouraged tomake the information contained in such report available to the public through Internet sites or other electronic means.
 
 #### (g) Functions of Secretary
 
@@ -196,7 +196,7 @@ Subsec. (e)(1). Pub. L. 106–404, §7(5), substituted "in cooperation with Fede
 
 Subsec. (f). Pub. L. 106–404, §10(a)(2), added subsec. (f).
 
-Subsec. (g)(2). Pub. L. 106–404, §10(a)(3), added par. (2) and struck out former par. (2) which read as follows: "Two years after October 20, 1986, and every two years thereafter, the Secretary shall submit a summary report to the President and the Congress on the use by the agencies and the Secretary of the authorities specified in this chapter. Other Federal agencies shall cooperate in the report's preparation."
+Subsec. (g)(2). Pub. L. 106–404, §10(a)(3), added par. (2) and struck out former par. (2) which read as follows:"Two years after October 20, 1986, and every two years thereafter, the Secretary shall submit a summary report to the President and the Congress on the use by the agencies and the Secretary of the authorities specified in this chapter. Other Federal agencies shall cooperate in the report's preparation."
 
 Subsec. (h). Pub. L. 106–404, §10(a)(4), added subsec. (h).
 
@@ -232,7 +232,7 @@ Subsec. (e)(8). Pub. L. 102–245, §301(d), struck out former par. (8) which re
 
 Subsec. (i). Pub. L. 102–245, §303, added subsec. (i).
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–189 struck out "after September 30, 1981," after "(2)", substituted "sufficient funding, either as a separate line item or from the agency's research and development budget," for "notless than 0.5 percent of the agency's research and development budget", struck out "agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the" after "transfer process. The", and substituted "agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry" for "reasons for the waiver and alternate plans for conducting the technology transfer function at the agency".
+<b>1989</b>—Subsec. (b). Pub. L. 101–189 struck out "after September 30, 1981," after "(2)", substituted "sufficient funding, either as a separate line item or from the agency's research and development budget," for "not less than 0.5 percent of the agency's research and development budget", struck out "agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the" after "transfer process. The", and substituted "agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry" for "reasons for the waiver and alternate plans for conducting the technology transfer function at the agency".
 
 <b>1988</b>—Subsec. (d)(6). Pub. L. 100–418, §5163(c)(3), added par. (6).
 
@@ -260,7 +260,7 @@ Subsec. (c)(4). Pub. L. 99–502, §4(b)(2)(C), substituted "to State and local 
 
 Subsec. (c)(5). Pub. L. 99–502, §4(b)(2)(D), added par. (5).
 
-Subsec. (d). Pub. L. 99–502, §4(c)(1), substituted "The National Technical Information Service shall" for "There is hereby established in the Department of Commerce a Center for the Utilization of Federal Technology. The Center for the Utilization of Federal Technology shall" in introductory par.
+Subsec. (d). Pub. L. 99–502, §4(c)(1), substituted "The National Technical Information Service shall" for"There is hereby established in the Department of Commerce a Center for the Utilization of Federal Technology. The Center for the Utilization of Federal Technology shall" in introductory par.
 
 Subsec. (d)(2). Pub. L. 99–502, §4(c)(2), (3), redesignated par. (3) as (2) and struck out "existing" before "Federal Laboratory". Former par. (2), which required the Center for the Utilization of Federal Technology to coordinate the activities of the Offices of Research and Technology Applications of the Federal laboratories, was struck out.
 
@@ -320,7 +320,7 @@ Sec. 2. <i>Establishment of the Technology Share Program</i>. The Secretaries of
 
 (c) Limit its participation in any consortium so established to the use of laboratory personnel and facilities. However, each laboratory may also provide financial support generally not to exceed 25 percent of the total budget for the activities of the consortium. Such financial support by any laboratory in all such consortia shall be limited to a maximum of $5 million per annum.
 
-Sec. 3. <i>Technology Exchange—Scientists and Engineers</i>. The Executive Director of the President's Commission on Executive Exchange shall assist Federal agencies, where appropriate, by developing and implementing an exchange program whereby scientists and engineers in the private sector may take temporary assignments in Federal laboratories, and scientists and engineers in Federal laboratories may take temporary assignments in the private sector.
+Sec. 3. <i>Technology Exchange—Scientists and Engineers</i>. The Executive Director of the President's Commissionon Executive Exchange shall assist Federal agencies, where appropriate, by developing and implementing an exchange program whereby scientists and engineers in the private sector may take temporary assignments in Federal laboratories, and scientists and engineers in Federal laboratories may take temporary assignments in the private sector.
 
 Sec. 4. <i>International Science and Technology</i>. In order to ensure that the United States benefits from and fully exploits scientific research and technology developed abroad,
 

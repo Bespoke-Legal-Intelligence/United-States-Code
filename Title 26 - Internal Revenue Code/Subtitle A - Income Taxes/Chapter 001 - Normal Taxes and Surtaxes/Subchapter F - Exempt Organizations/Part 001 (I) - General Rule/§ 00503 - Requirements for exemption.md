@@ -88,7 +88,7 @@ Subsec. (c). Pub. L. 113–295, §221(a)(63)(C), substituted "described in subse
 
 &emsp;"(1) If any part of the loan is repayable prior to December 31, 1955, the renewal of such part of the loan for a period not extending beyond December 31, 1955, on the same terms, shall not be considered a prohibited transaction.
 
-&emsp;"(2) If the loan is repayable on demand, the continuation of the loan without the receipt of adequatesecurity and a reasonable rate of interest beyond December 31, 1955, shall be considered a prohibited transaction."
+&emsp;"(2) If the loan is repayable on demand, the continuation of the loan without the receipt of adequate security and a reasonable rate of interest beyond December 31, 1955, shall be considered a prohibited transaction."
 
 <b>1976</b>—Subsecs. (a)(2), (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1960 Amendment
 
-Amendment by Pub. L. 86–667 applicable to taxable years beginning after Dec. 31, 1959, and in the case of loans, the amendments to this section made by Pub. L. 86–667 are applicable only to loans made, renewed, or continued after Dec. 31, 1959, see section 6 of Pub. L. 86–667, set out as a note under section 501 of this title.
+Amendment by Pub. L. 86–667 applicable to taxable years beginning after Dec. 31, 1959, and in the case of loans, the amendments to this section made by Pub. L.86–667 are applicable only to loans made, renewed, or continued after Dec. 31, 1959, see section 6 of Pub. L. 86–667, set out as a note under section 501 of this title.
 
 #### Effective Date of 1958 Amendment
 

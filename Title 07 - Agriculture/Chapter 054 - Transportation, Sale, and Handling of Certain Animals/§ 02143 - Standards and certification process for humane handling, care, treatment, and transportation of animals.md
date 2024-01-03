@@ -42,7 +42,7 @@
 
 (6)(A) Nothing in this chapter—
 
-&emsp;(i) except as provided in paragraphs <sup>1</sup> (7) of this subsection, shall be construed as authorizing the Secretary to promulgate rules, regulations, or orders with regard to the design, outlines, or guidelines of actual research or experimentation by a research facility as determined by such research facility;
+&emsp;(i) except as provided in paragraphs <sup>1</sup> (7) of this subsection, shall be construed as authorizing the Secretary to promulgate rules, regulations, or orders with regard to the design,outlines, or guidelines of actual research or experimentation by a research facility as determined by such research facility;
 
 &emsp;(ii) except as provided <sup>2</sup> subparagraphs (A) and (C)(ii) through (v) of paragraph (3) and paragraph (7) of this subsection, shall be construed as authorizing the Secretary to promulgate rules, regulations, or orders with regard to the performance of actual research or experimentation by a research facility as determined by such research facility; and
 
@@ -126,7 +126,7 @@ Each research facility shall provide for the training of scientists, animal tech
 
 #### (e) Establishment of information service at National Agricultural Library; service functions
 
-The Secretary shall establish an information service at the National Agricultural Library.Such service shall, in cooperation with the National Library of Medicine, provide information—
+The Secretary shall establish an information service at the National Agricultural Library. Such service shall, in cooperation with the National Library of Medicine, provide information—
 
 &emsp;(1) pertinent to employee training;
 

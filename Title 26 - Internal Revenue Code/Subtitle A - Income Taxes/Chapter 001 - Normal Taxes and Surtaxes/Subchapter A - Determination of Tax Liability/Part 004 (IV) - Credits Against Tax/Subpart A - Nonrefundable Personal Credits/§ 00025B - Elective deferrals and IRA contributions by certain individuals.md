@@ -68,7 +68,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any elective deferrals (as defined in section 402(g)(3)) of such individual, and
 
-&emsp;&emsp;&emsp;(ii) any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined insection 457(b)) of an eligible employer described in section 457(e)(1)(A),
+&emsp;&emsp;&emsp;(ii) any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A),
 
 &emsp;&emsp;(C) the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section 4974(c)), and
 
@@ -222,7 +222,7 @@ Pub. L. 109–280, title VIII, §833(d), Aug. 17, 2006, 120 Stat. 1004, provided
 
 Amendment by Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
-Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxableyears beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title IV, §411(x), Mar. 9, 2002, 116 Stat. 53, provided that: "Except as provided in subsection (c) \[amending sections 23 and 137 of this title and enacting provisions set out as a note under section 23 of this title\], the amendments made by this section \[amending this section, sections 23, 24, 38, 45E, 45F, 63, 137, 401 to 404, 408, 409, 412, 414 to 417, 457, 530, 2016, 2101, 2511, 4980F, and 6428 of this title, sections 1003, 1054, 1055, 1082, and 1104 of Title 29, Labor, and provisions set out as notes under sections 38, 415, and 4980F of this title\] shall takeeffect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate."
+Pub. L. 107–147, title IV, §411(x), Mar. 9, 2002, 116 Stat. 53, provided that: "Except as provided in subsection (c) \[amending sections 23 and 137 of this title and enacting provisions set out as a note under section 23 of this title\], the amendments made by this section \[amending this section, sections 23, 24, 38, 45E, 45F, 63, 137, 401 to 404, 408, 409, 412, 414 to 417, 457, 530, 2016, 2101, 2511, 4980F, and 6428 of this title, sections 1003, 1054, 1055, 1082, and 1104 of Title 29, Labor, and provisions set out as notes under sections 38, 415, and 4980F of this title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate."
 
 #### Effective Date
 

@@ -106,7 +106,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the consultation required under this section is with a local educational agency or educational service agency, a private school official shall have the right to file a complaint with the State educational agency that the consultation required under thissection was not meaningful and timely, did not give due consideration to the views of the private school official, or did not make a decision that treats the private school or its students equitably as required by this section.
+&emsp;&emsp;If the consultation required under this section is with a local educational agency or educational service agency, a private school official shall have the right to file a complaint with the State educational agency that the consultation required under this section was not meaningful and timely, did not give due consideration to the views of the private school official, or did not make a decision that treats the private school or its students equitably as required by this section.
 
 #### (B) Procedure
 
@@ -150,7 +150,7 @@
 
 #### Prior Provisions
 
-A prior section 7881, Pub. L. 89–10, title IX, §9161, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3793; amended Pub. L. 105–220, title II, §251(b)(2)(E), Aug. 7, 1998, 112 Stat. 1080, defined terms, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
+A prior section 7881, Pub. L. 89–10, title IX, §9161, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3793; amended Pub. L. 105–220, title II, §251(b)(2)(E), Aug. 7, 1998, 112 Stat. 1080, defined terms, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
 
 #### Amendments
 

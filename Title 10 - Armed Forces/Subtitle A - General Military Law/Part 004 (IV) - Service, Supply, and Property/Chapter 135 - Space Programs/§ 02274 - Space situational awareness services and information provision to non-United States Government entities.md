@@ -58,7 +58,7 @@ Immunity.—The United States, any agencies and instrumentalities thereof, and a
 
 Notice of Concerns of Disclosure of Information.—If the Secretary determines that a commercial or foreign entity has declined or is reluctant to provide data or information to the Secretary in accordance with this section due to the concerns of such entity about the potential disclosure of such data or information, the Secretary shall, not later than 60 days after the Secretary makes that determination, provide notice to the congressional defense committees of the declination or reluctance of such entity.
 
-(Added Pub. L. 108–136, div. A, title IX, §913(a), Nov. 24, 2003, 117 Stat. 1565; amended Pub. L. 109–364, div. A, title IX, §912, Oct. 17, 2006, 120 Stat. 2355; Pub. L. 110–417, \[div. A\], title IX, §911, Oct. 14, 2008, 122 Stat. 4571; Pub. L. 111–84, div. A, title IX, §912(a), Oct. 28, 2009, 123 Stat. 2429; Pub. L. 115–232, div. A, title XVI, §1604(a), Aug. 13, 2018, 132 Stat. 2106.)
+(Added Pub. L. 108–136, div. A, title IX, §913(a), Nov. 24, 2003, 117 Stat. 1565; amended Pub. L. 109–364, div. A, title IX, §912, Oct. 17, 2006, 120 Stat. 2355; Pub. L. 110–417, \[div. A\], title IX, §911, Oct. 14, 2008, 122 Stat. 4571; Pub. L. 111–84, div. A, title IX, §912(a), Oct. 28, 2009, 123 Stat. 2429; Pub.L. 115–232, div. A, title XVI, §1604(a), Aug. 13, 2018, 132 Stat. 2106.)
 
 #### <b>Editorial Notes</b>
 
@@ -81,6 +81,22 @@ A prior section 2274, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related 
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–84, div. A, title IX, §912(c), Oct. 28, 2009, 123 Stat. 2431, provided that: "The amendments made by this section \[amending this section\] shall take effect on October 1, 2009, or the date of the enactment of this Act \[Oct. 28, 2009\], whichever is later."
+
+#### Process and Plan for Space Force Space Situational Awareness
+
+Pub. L. 118–31, div. A, title XVI, §1609, Dec. 22, 2023, 137 Stat. 588, provided that:
+
+"(a)
+
+In General.—The Assistant Secretary of the Air Force for Space Acquisition and Integration, in consultation with Chief of Space Operations, shall—
+
+&emsp;"(1) establish a process to regularly identify and evaluate commercial space situational awareness capabilities, including the extent to which commercial space situational awareness data could meet needs of the Space Force with respect to maintaining situational awareness in space; and
+
+&emsp;"(2) develop and implement a plan to integrate the unified data library into the operational systems of the Space Force, including operational systems for space situational awareness and space command and control missions.
+
+"(b)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Assistant Secretary of the Air Force for Space Acquisition and Integration shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes a description of the process and plan developed under subsection (a)."
 
 #### Limitation on Availability of Funding for Joint Space Operations Center Mission System
 

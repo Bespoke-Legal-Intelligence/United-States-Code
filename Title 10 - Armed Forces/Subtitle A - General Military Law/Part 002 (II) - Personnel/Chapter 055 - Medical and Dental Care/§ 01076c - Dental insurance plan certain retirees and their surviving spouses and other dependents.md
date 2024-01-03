@@ -140,7 +140,7 @@ Amendment by Pub. L. 114–328 applicable with respect to the first contract yea
 
 #### Limitation on Implementation of Alternative Collection Procedures
 
-Pub. L. 105–85, div. A, title VII, §733(d), Nov. 18, 1997, 111 Stat. 1813, provided that: "The Secretary of Defensemay not implement procedures for collecting premiums under \[former\] section 1076b(b)(3) of title 10, United States Code, or section 1076c(c)(2) of such title other than by deductions and withholding from pay until 120 days after the date that the Secretary submits a report to Congress describing the justifications for implementing such alternative procedures."
+Pub. L. 105–85, div. A, title VII, §733(d), Nov. 18, 1997, 111 Stat. 1813, provided that: "The Secretary of Defense may not implement procedures for collecting premiums under \[former\] section 1076b(b)(3) of title 10, United States Code, or section 1076c(c)(2) of such title other than by deductions and withholding from pay until 120 days after the date that the Secretary submits a report to Congress describing the justifications for implementing such alternative procedures."
 
 #### Implementation of Dental Plan
 

@@ -42,7 +42,7 @@ A State desiring to receive a grant under section 1433 of this title shall submi
 
 &emsp;&emsp;&emsp;&emsp;(III) in the case of a child who may not be eligible for such preschool services, with the approval of the family, make reasonable efforts to convene a conference among the lead agency, the family, and providers of other appropriate services for children who are not eligible for preschool services under subchapter II, to discuss the appropriate services that the child may receive;
 
-&emsp;&emsp;(B) to review the child's program options for the period from the child's third birthdaythrough the remainder of the school year; and
+&emsp;&emsp;(B) to review the child's program options for the period from the child's third birthday through the remainder of the school year; and
 
 &emsp;&emsp;(C) to establish a transition plan, including, as appropriate, steps to exit from the program;
 
@@ -72,7 +72,7 @@ The application described in subsection (a)—
 
 &emsp;&emsp;(B) will be used so as to supplement the level of State and local funds expended for infants and toddlers with disabilities and their families and in no case to supplant those State and local funds;
 
-&emsp;(6) shall provide satisfactory assurance that such fiscal control and fund accounting procedures will be adopted as may be necessary to ensure proper disbursement of, and accounting for, Federal funds paid under section 1443 of this title to the State;
+&emsp;(6) shall provide satisfactory assurance that such fiscal control and fund accounting procedures will be adopted as may be necessary toensure proper disbursement of, and accounting for, Federal funds paid under section 1443 of this title to the State;
 
 &emsp;(7) shall provide satisfactory assurance that policies and procedures have been adopted to ensure meaningful involvement of underserved groups, including minority, low-income, homeless, and rural families and children with disabilities who are wards of the State, in the planning and implementation of all the requirements of this subchapter; and
 

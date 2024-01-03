@@ -42,7 +42,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (c)(1), is Pub. L. 87
 
 #### Codification
 
-Section was enacted as part of the Freedom Investment Act of 2002, and also as part of the Department ofState Authorization Act, Fiscal Year 2003 and the Foreign Relations Authorization Act, Fiscal Year 2003, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+Section was enacted as part of the Freedom Investment Act of 2002, and also as part of the Department of State Authorization Act, Fiscal Year 2003 and the Foreign Relations Authorization Act, Fiscal Year 2003, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

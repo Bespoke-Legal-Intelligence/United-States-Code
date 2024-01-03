@@ -62,11 +62,11 @@
 
 &emsp;(1) the larger of $30,000,000 or 0.15 percent of the non-Federal entity's total Federal expenditures, in the case of a non-Federal entity for which such total expenditures for all programs exceed $10,000,000,000;
 
-&emsp;(2) the larger of $3,000,000, or 0.30 percent of the non-Federal entity's total Federal expenditures, in the case of a non-Federal entity for which such total expenditures for all programs exceed $100,000,000 but are less than or equal to $10,000,000,000; or
+&emsp;(2) the larger of $3,000,000, or 0.30 percent of the non-Federal entity's total Federal expenditures, in the case of a non-Federal entity forwhich such total expenditures for all programs exceed $100,000,000 but are less than or equal to $10,000,000,000; or
 
 &emsp;(3) the larger of $300,000, or 3 percent of such total Federal expenditures for all programs, in the case of a non-Federal entity for which such total expenditures for all programs equal or exceed $300,000 but are less than or equal to $100,000,000.
 
-(c) When the total expenditures of a non-Federal entity's major programs are less than 50percent of the non-Federal entity's total expenditures of all Federal awards (or such lower percentage as specified by the Director), the auditor shall select and test additional programs as major programs as necessary to achieve audit coverage of at least 50 percent of Federal expenditures by the non-Federal entity (or such lower percentage as specified by the Director), in accordance with guidance issued by the Director.
+(c) When the total expenditures of a non-Federal entity's major programs are less than 50 percent of the non-Federal entity's total expenditures of all Federal awards (or such lower percentage as specified by the Director), the auditor shall select and test additional programs as major programs as necessary to achieve audit coverage of at least 50 percent of Federal expenditures by the non-Federal entity (or such lower percentage as specified by the Director), in accordance with guidance issued by the Director.
 
 (d) Loan or loan guarantee programs, as specified by the Director, shall not be subject to the application of subsection (b).
 

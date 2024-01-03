@@ -6,7 +6,7 @@ In all schools selected to receive funds under section 6313(c) of this title tha
 
 #### (b) Targeted assistance school program
 
-To assist targeted assistance schools and local educational agencies to meet their responsibility to provide for all their students served under this part the opportunity to meet the challenging State academic standards, each targeted assistance program under this section shall—
+To assist targeted assistance schools and local educational agencies to meet their responsibility to provide for all their students served under this part the opportunity to meet thechallenging State academic standards, each targeted assistance program under this section shall—
 
 &emsp;(1) determine which students will be served;
 
@@ -138,7 +138,7 @@ A prior section 6315, Pub. L. 89–10, title I, §1115, as added Pub. L. 103–3
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–95, §1009(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "In all schools selected to receive funds under section 6313(c) of this title that are ineligible for a schoolwide program under section 6314 of this title, or that choose not to operate such a schoolwide program, a local educational agency serving such school may use funds received under this part only for programs that provide services to eligible children under subsection (b) of this section identified as having the greatest need for special assistance."
 
-Subsec. (b). Pub. L. 114–95, §1009(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment,subsec. (b) consisted of pars. (1) and (2) relating to general components of a targeted assistance school program and coordination of resources and review and revision of program.
+Subsec. (b). Pub. L. 114–95, §1009(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, subsec. (b) consisted of pars. (1) and (2) relating to general components of a targeted assistance school program and coordination of resources and review and revision of program.
 
 Pub. L. 114–95, §1009(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (c).
 
@@ -154,7 +154,7 @@ Subsec. (c)(2)(C). Pub. L. 114–95, §1009(4)(B)(iii), substituted "Migrant chi
 
 Subsec. (e)(2)(B)(iii) to (v). Pub. L. 114–95, §1009(5)(A), added cls. (iii) and (iv), redesignated former cl. (iii) as (v), and, in cl. (v), substituted "specialized instructional support" for "pupil services".
 
-Subsec. (e)(3). Pub. L. 114–95, §1009(5)(B), struck out par. (3). Text read as follows: "Each school receiving funds under this part for any fiscal year shall devote sufficient resources to carry out effectively the professional development activities described in subparagraph (F) of subsection (c)(1) of this section in accordance with section 6319 of this title for such fiscal year, and a school may enter into a consortium with another school to carry out such activities."
+Subsec. (e)(3). Pub. L. 114–95, §1009(5)(B), struck out par. (3). Text read as follows: "Each school receivingfunds under this part for any fiscal year shall devote sufficient resources to carry out effectively the professional development activities described in subparagraph (F) of subsection (c)(1) of this section in accordance with section 6319 of this title for such fiscal year, and a school may enter into a consortium with another school to carry out such activities."
 
 Subsecs. (f) to (h). Pub. L. 114–95, §1009(6), added subsecs. (f) to (h).
 

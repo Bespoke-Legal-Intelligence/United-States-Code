@@ -2,7 +2,7 @@
 
 #### (a) Certain individuals prohibited from obtaining access
 
-No national of a country designated by the Secretary of State under section 2371 of this title as a government supporting acts of international terrorism shall be permitted access to the United States to carry out an inspection activity under the Additional Protocol or a related safeguards agreement.
+No national of a country designated by the Secretary of State under section 2371 of thistitle as a government supporting acts of international terrorism shall be permitted access to the United States to carry out an inspection activity under the Additional Protocol or a related safeguards agreement.
 
 #### (b) Presence of United States Government personnel
 

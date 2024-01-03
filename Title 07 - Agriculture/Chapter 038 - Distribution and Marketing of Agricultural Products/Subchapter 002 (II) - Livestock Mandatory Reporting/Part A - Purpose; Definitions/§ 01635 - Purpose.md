@@ -70,7 +70,7 @@ Content.—The published information shall include information reporting the yea
 
 "(a)
 
-In General.—Effective beginning not later than 90 days after the date of the enactment of this Act \[Oct. 22, 1999\], the Secretary of Agriculture shall publish on a monthly basis the Hogs and Pigs Inventory Report.
+In General.—Effective beginning not later than 90 days after the date of the enactment of this Act \[Oct.22, 1999\], the Secretary of Agriculture shall publish on a monthly basis the Hogs and Pigs Inventory Report.
 
 "(b)
 

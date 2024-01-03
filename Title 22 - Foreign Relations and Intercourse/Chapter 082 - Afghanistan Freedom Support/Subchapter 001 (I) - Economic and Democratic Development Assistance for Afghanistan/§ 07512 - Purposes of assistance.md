@@ -10,7 +10,7 @@ The purposes of assistance authorized by this subchapter are—
 
 &emsp;(4) to help achieve a broad-based, multi-ethnic, gender-sensitive, and fully representative government in Afghanistan that is freely chosen by the people of Afghanistan and that respects the human rights of all Afghans, particularly women, including authorizing assistance for the rehabilitation and reconstruction of Afghanistan with a particular emphasis on meeting the educational, health, and sustenance needs of women and children to better enable their full participation in Afghan society;
 
-&emsp;(5) to support the Government of Afghanistan in its development of the capacity to facilitate, organize, develop, and implementprojects and activities that meet the needs of the Afghan people;
+&emsp;(5) to support the Government of Afghanistan in its development of the capacity to facilitate, organize, develop, and implement projects and activities that meet the needs of the Afghan people;
 
 &emsp;(6) to foster the participation of civil society in the establishment of the new Afghan government in order to achieve a broad-based, multi-ethnic, gender-sensitive, fully representative government freely chosen by the Afghan people, without prejudice to any decisions which may be freely taken by the Afghan people about the precise form in which their government is to be organized in the future;
 

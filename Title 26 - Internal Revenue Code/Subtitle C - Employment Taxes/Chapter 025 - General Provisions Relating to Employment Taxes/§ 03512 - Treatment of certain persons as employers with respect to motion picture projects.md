@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) is contractually obligated to pay remuneration to the motion picture project workers without regard to payment or reimbursement by any other person,
 
-&emsp;&emsp;&emsp;(iii) controls the payment (within the meaning of section 3401(d)(1)) of remuneration to the motion picture project workersand pays such remuneration from its own account or accounts,
+&emsp;&emsp;&emsp;(iii) controls the payment (within the meaning of section 3401(d)(1)) of remuneration to the motion picture project workers and pays such remuneration from its own account or accounts,
 
 &emsp;&emsp;&emsp;(iv) is a signatory to one or more collective bargaining agreements with a labor organization (as defined in 29 U.S.C. 152(5)) that represents motion picture project workers, and
 

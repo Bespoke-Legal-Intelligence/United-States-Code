@@ -4,7 +4,7 @@
 
 Except as provided in section 1078–3 of this title, a loan by an eligible lender shall be insurable by the Secretary under the provisions of this part only if—
 
-&emsp;(1) made to a student who (A) is an eligible student under section 1091 of this title, (B) has agreed to notify promptly the holder of the loan concerning any change of address, and (C) is carrying at least one-half the normal full-time academic workload for the course of study the student is pursuing (as determined by the institution); and
+&emsp;(1) made to a student who (A) is an eligible student under section 1091 of this title, (B) has agreed to notify promptly the holder of theloan concerning any change of address, and (C) is carrying at least one-half the normal full-time academic workload for the course of study the student is pursuing (as determined by the institution); and
 
 &emsp;(2) evidenced by a note or other written agreement which—
 
@@ -26,7 +26,7 @@ Except as provided in section 1078–3 of this title, a loan by an eligible lend
 
 &emsp;&emsp;&emsp;&emsp;(II) is pursuing a course of study pursuant to a graduate fellowship program approved by the Secretary, or pursuant to a rehabilitation training program for individuals with disabilities approved by the Secretary,
 
-&emsp;&emsp;&nbsp;except that no borrower shall be eligible for a deferment under this clause, or a loanmade under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program;
+&emsp;&emsp;&nbsp;except that no borrower shall be eligible for a deferment under this clause, or a loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program;
 
 &emsp;&emsp;&emsp;(ii) not in excess of 3 years during which the borrower is seeking and unable to find full-time employment;
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made in subsec. (a)(2)(C), relating to deferments, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, and except that changes made in subsec. (a)(2)(H), relating to offeringgraduated or income sensitive repayment options, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
+Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made in subsec. (a)(2)(C), relating to deferments, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, and except that changes made in subsec. (a)(2)(H), relating to offering graduated or income sensitive repayment options, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
 
 #### Effective Date of 1989 Amendment
 

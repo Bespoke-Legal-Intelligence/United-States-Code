@@ -36,7 +36,7 @@ A procurement may not be made from a source on the basis of a preference provide
 
 #### (f) Database of veteran-owned businesses
 
-(1) Subject to paragraphs (2) through (6), the Administrator shall maintain a database ofsmall business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, and the veteran owners of such business concerns.
+(1) Subject to paragraphs (2) through (6), the Administrator shall maintain a database of small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, and the veteran owners of such business concerns.
 
 (2)(A) To be eligible for inclusion in the database, such a veteran shall submit to the Administrator such information as the Administrator may require with respect to the small business concern or the veteran. Application for inclusion in the database shall constitute permission under section 552a of title 5 (commonly referred to as the Privacy Act) for the Administrator to obtain from the Secretary of Veterans Affairs such personal information maintained by the Secretary as may be necessary to verify the information contained in the application.
 
@@ -98,7 +98,7 @@ Rules similar to the rules of paragraphs (5) and (6) of section 637(m) of this t
 
 Upon the request of the Administrator, the head of any Federal department or agency shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out subsection (b) or to be able to certify the status of the concern as a small business concern owned and controlled by veterans under section 657f–1 of this title.
 
-(Pub. L. 85–536, §2\[36\], as added Pub. L. 108–183, title III, §308, Dec. 16, 2003, 117 Stat. 2662; amended Pub. L. 116–283, div. A, title VIII, §§862(b)(2),\(d)(1), 864(3), Jan. 1, 2021, 134 Stat. 3778, 3779, 3785.)
+(Pub. L. 85–536, §2\[36\], as added Pub. L. 108–183, title III, §308, Dec. 16, 2003, 117 Stat. 2662; amended Pub. L. 116–283, div. A, title VIII, §§862(b)(2), (d)(1), 864(3), Jan. 1, 2021, 134 Stat. 3778, 3779, 3785.)
 
 #### <b>Editorial Notes</b>
 
@@ -206,11 +206,11 @@ Definition.—In this subsection, the term 'function'—
 
 &emsp;"(2)
 
-Abolishment.—The Center for Verification and Evaluation of the Department of Veterans Affairs, as defined under section 74.1 of title 38, Code of FederalRegulations, is abolished effective on the transfer date.
+Abolishment.—The Center for Verification and Evaluation of the Department of Veterans Affairs, as defined under section 74.1 of title 38, Code of Federal Regulations, is abolished effective on the transfer date.
 
 &emsp;"(3)
 
-Transfer of functions.—Effective on the transfer date, all functions that, immediately before the transfer date, were functions of the Center for Verification and Evaluation shall be functions of the Small Business Administration.
+Transfer of functions.—Effective on the transfer date, all functions that, immediately beforethe transfer date, were functions of the Center for Verification and Evaluation shall be functions of the Small Business Administration.
 
 &emsp;"(4)
 

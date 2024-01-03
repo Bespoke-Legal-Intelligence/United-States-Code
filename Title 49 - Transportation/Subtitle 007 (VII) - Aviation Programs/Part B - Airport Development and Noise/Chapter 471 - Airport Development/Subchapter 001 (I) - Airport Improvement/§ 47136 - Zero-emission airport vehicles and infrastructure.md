@@ -6,7 +6,7 @@ In General.—The Secretary of Transportation may establish a pilot program unde
 
 &emsp;(1) activities associated with the acquisition, by purchase or lease, and operation of eligible zero-emission vehicles and equipment, including removable power sources for such vehicles; and
 
-&emsp;(2) the construction or modification of infrastructure to facilitate the delivery of fuel, power or services necessary for the use of such vehicles.
+&emsp;(2) the construction or modification of infrastructure to facilitate the delivery of fuel,power or services necessary for the use of such vehicles.
 
 (b)
 
@@ -90,7 +90,7 @@ Eligible zero-emission vehicle and equipment.—The term "eligible zero-emission
 
 &emsp;(2)
 
-Removable power source.—The term "removable power source" means a powersource that is separately installed in, and removable from, a zero-emission vehicle and may include a battery, a fuel cell, an ultra-capacitor, or other power source used in a zero-emission vehicle.
+Removable power source.—The term "removable power source" means a power source that is separately installed in, and removable from, a zero-emission vehicle and may include a battery, a fuel cell, an ultra-capacitor, or other power source used in a zero-emission vehicle.
 
 &emsp;(3)
 

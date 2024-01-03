@@ -46,11 +46,11 @@ To be so designated, a Head Start agency shall, at a minimum, do all the followi
 
 &emsp;(9) Perform community outreach to encourage individuals previously unaffiliated with Head Start programs to participate in its Head Start program as volunteers.
 
-&emsp;(10)(A) Inform custodial parents in single-parent families that participate in programs, activities, or services carried out or provided under this subchapter about the availability of child support services for purposes of establishing paternity and acquiring child support.
+&emsp;(10)(A) Inform custodial parents in single-parent families that participate in programs,activities, or services carried out or provided under this subchapter about the availability of child support services for purposes of establishing paternity and acquiring child support.
 
 &emsp;(B) Refer eligible parents to the child support offices of State and local governments.
 
-&emsp;(11) Provide to parents of limited English proficient children outreach and information,in an understandable and uniform format and, to the extent practicable, in a language that the parents can understand.
+&emsp;(11) Provide to parents of limited English proficient children outreach and information, in an understandable and uniform format and, to the extent practicable, in a language that the parents can understand.
 
 &emsp;(12) Provide technical and other support needed to enable parents and community residents to secure, on their own behalf, available assistance from public and private sources.
 
@@ -284,7 +284,7 @@ To be so designated, a Head Start agency shall collaborate and coordinate with p
 
 &emsp;&emsp;(iii) ensure a smooth transition to school for such children.
 
-&emsp;(3) Coordinate activities and collaborate with programs under the Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9857 et seq.\], the agencies responsible for administering section 5106a of this title and parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\], programs under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.), programs under section 619 and part C of the Individuals with Disabilities EducationAct (20 U.S.C. 1419, 1431 et seq.), and other entities providing early childhood education and development programs or services, serving the children and families served by the Head Start agency.
+&emsp;(3) Coordinate activities and collaborate with programs under the Child Care and Development Block Grant Act of 1990 \[42 U.S.C.9857 et seq.\], the agencies responsible for administering section 5106a of this title and parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\], programs under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.), programs under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), and other entities providing early childhood education and development programs or services, serving the children and families served by the Head Start agency.
 
 &emsp;(4) Take steps to coordinate activities with the local educational agency serving the community involved and with schools in which children participating in the Head Start program will enroll following the program, including—
 
@@ -356,7 +356,7 @@ To be so designated, each Head Start agency shall—
 
 &emsp;(7) adopt, in consultation with experts in child development and with classroom teachers, an evaluation to assess whether classroom teachers have mastered the functions discussed in section 9843a(a)(1) of this title;
 
-&emsp;(8) use the information provided from the assessment conducted under section9836a(c)(2)(F) of this title to inform professional development plans, as appropriate, that lead to improved teacher effectiveness;
+&emsp;(8) use the information provided from the assessment conducted under section 9836a(c)(2)(F) of this title to inform professional development plans, as appropriate, that lead to improved teacher effectiveness;
 
 &emsp;(9) establish goals and measurable objectives for the provision of health, educational, nutritional, and social services provided under this subchapter and related to the program mission and to promote school readiness; and
 
@@ -418,9 +418,9 @@ Subsec. (b)(10). Pub. L. 105–285, §109(2)(D), redesignated par. (9) as (10).
 
 Subsec. (b)(11). Pub. L. 105–285, §109(2)(G), added par. (11).
 
-Subsec. (c). Pub. L. 105–285, §109(3), inserted "and collaborate" after "shall coordinate" and "and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419)" after "(20 U.S.C. 2741 et seq.)" and substituted "the State program carried out under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), and other early childhood education and development" for "section 602(g) of this title, and other".
+Subsec. (c). Pub. L. 105–285, §109(3), inserted "and collaborate" after "shall coordinate" and "and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419)" after "(20 U.S.C. 2741 et seq.)" and substituted "the State program carried out under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 etseq.), and other early childhood education and development" for "section 602(g) of this title, and other".
 
-Subsec. (d)(1). Pub. L. 105–285, §109(4)(A), substituted "take steps to ensure, to the maximum extent possible, that children maintain" for "carry out the actions specified in this subsection, to the extent feasible and appropriate in the circumstances (including the extent to which such agency is able to secure the cooperationof parents and schools) to enable children to maintain" and "build" for "to build" and inserted "and educational" after "developmental".
+Subsec. (d)(1). Pub. L. 105–285, §109(4)(A), substituted "take steps to ensure, to the maximum extent possible, that children maintain" for "carry out the actions specified in this subsection, to the extent feasible and appropriate in the circumstances (including the extent to which such agency is able to secure the cooperation of parents and schools) to enable children to maintain" and "build" for "to build" and inserted "and educational" after "developmental".
 
 Subsec. (d)(2), (3). Pub. L. 105–285, §109(4)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to coordination between Head Start agency and local education agency and schools.
 

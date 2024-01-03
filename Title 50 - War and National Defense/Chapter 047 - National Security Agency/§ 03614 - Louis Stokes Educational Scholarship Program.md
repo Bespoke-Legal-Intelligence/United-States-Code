@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The purpose of this section is to establish an undergraduate and graduate training program, which may lead to a baccalaureate or graduate degree, to facilitate the recruitment of individuals, particularly minority high school students, with a demonstrated capability to develop skills critical to the mission of the National Security Agency, including mathematics, computer science, engineering, and foreign languages.
+The purpose of this section is to establish an undergraduate and graduate training program,which may lead to a baccalaureate or graduate degree, to facilitate the recruitment of individuals, particularly minority high school students, with a demonstrated capability to develop skills critical to the mission of the National Security Agency, including mathematics, computer science, engineering, and foreign languages.
 
 #### (b) Assignment for training
 
@@ -14,7 +14,7 @@ The National Security Agency may pay, directly or by reimbursement to program pa
 
 #### (d) Eligibility
 
-(1) To be eligible for assignment under subsection (b), a program participant,<sup>1</sup> must agree in writing—
+(1) To be eligible for assignment under subsection (b), a program participant must agree in writing—
 
 &emsp;(A) to continue in the service of the Agency for the period of the assignment and to complete the educational course of training for which the program participant is assigned;
 
@@ -54,7 +54,7 @@ The Secretary of Defense may issue such regulations as may be necessary to imple
 
 The undergraduate and graduate training program established under this section shall be known as the Louis Stokes Educational Scholarship Program.
 
-(Pub. L. 86–36, §16, as added Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; amended Pub. L. 111–259, title III, §312(a)–(d), Oct. 7, 2010, 124 Stat. 2663, 2664.)
+(Pub. L. 86–36, §16, as added Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; amended Pub. L. 111–259, title III, §312(a)–(d), Oct. 7, 2010, 124 Stat. 2663, 2664; Pub. L. 118–31, div. G, title IX, §7901(i), Dec. 22, 2023, 137 Stat. 1107.)
 
 #### <b>Editorial Notes</b>
 
@@ -63,6 +63,8 @@ The undergraduate and graduate training program established under this section s
 Section was formerly classified in a note under section 402 of this title prior to editorial reclassification as this section.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d)(1). Pub. L. 118–31 substituted "program participant must" for "program participant, must".
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–259, §312(a)(1), inserted "and graduate" after "undergraduate" and substituted "a baccalaureate or graduate" for "the baccalaureate".
 

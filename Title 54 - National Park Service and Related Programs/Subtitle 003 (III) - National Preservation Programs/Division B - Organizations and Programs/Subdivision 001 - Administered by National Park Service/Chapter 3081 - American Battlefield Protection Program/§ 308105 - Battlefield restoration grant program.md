@@ -14,7 +14,7 @@ Federal Share.—The Federal share of the cost of a restoration project funded t
 
 (d)
 
-Restoration Standards.—All restoration work carried out through a grant awarded under the program shall be performed in accordance with the Secretary of the Interior's Standards for the Treatment of Historic Properties under part 68 of title 36, Code of Federal Regulations (or successor regulations).
+Restoration Standards.—All restoration work carried out through a grant awarded under the program shall be performed in accordancewith the Secretary of the Interior's Standards for the Treatment of Historic Properties under part 68 of title 36, Code of Federal Regulations (or successor regulations).
 
 (e)
 

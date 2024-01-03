@@ -242,7 +242,7 @@ In this section:
 
 &emsp;&emsp;(B) A funded flight hour effectiveness rate, which compares the number of funded flight hours appropriated to Air and Marine Operations to the number of actual flight hours flown by Air and Marine Operations.
 
-&emsp;&emsp;(C) A readiness rate, which compares the number of aviation missions flown by Airand Marine Operations to the number of aviation missions cancelled by Air and Marine Operations due to maintenance, operations, or other causes.
+&emsp;&emsp;(C) A readiness rate, which compares the number of aviation missions flown by Air and Marine Operations to the number of aviation missions cancelled by Air and Marine Operations due to maintenance, operations, or other causes.
 
 &emsp;&emsp;(D) The number of missions cancelled by Air and Marine Operations due to weather compared to the total planned missions.
 
@@ -264,7 +264,7 @@ In this section:
 
 #### (3) Manner of collection
 
-&emsp;The data collected to inform the metrics developed in accordance with paragraph (1) shall be collected and reported in a consistent and standardized manner by Air and Marine Operations, informed by situational awareness.
+&emsp;The data collected to inform the metrics developed in accordance with paragraph (1) shallbe collected and reported in a consistent and standardized manner by Air and Marine Operations, informed by situational awareness.
 
 #### (f) Data transparency
 

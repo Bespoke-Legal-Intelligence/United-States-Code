@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) administrative expenses incurred by the Office of Personnel Management in placing in effect each annuity adjustment granted under section 8340 or 8462 of this title, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title or subchapters II and IV of chapter 84 of this title, in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law), in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title, in administering fraud prevention under sections 8345, 8345a, 8466, and 8466a of this title, and in withholding taxes pursuant to section 3405 of title 26 or section 8345(k) or 8469 of this title;
 
-&emsp;(2) is made available, subject to such annual limitation as the Congress may prescribe, for any expenses incurred by the Office in connection with the administration of this chapter, chapter 84 of this title, and other retirement and annuity statutes; and
+&emsp;(2) is made available, subject to such annual limitation as the Congress may prescribe, forany expenses incurred by the Office in connection with the administration of this chapter, chapter 84 of this title, and other retirement and annuity statutes; and
 
 &emsp;(3) is made available, subject to such annual limitation as the Congress may prescribe, for any expenses incurred by the Merit Systems Protection Board in the administration of appeals authorized under sections 8347(d) and 8461(e) of this title.
 
@@ -90,7 +90,7 @@
 
 (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (c) of this section, the Secretary shall immediately notify Congress of the determination. The notification shall be made in writing.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 108–18, §2(c), (d)(1)(A), Apr. 23, 2003, 117 Stat. 625, 626; Pub. L. 109–435, title VIII, §802(a)(2), Dec. 20, 2006, 120 Stat. 3249; Pub. L. 116–126, §3(a), Mar. 18, 2020, 134 Stat. 176.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L.91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 108–18, §2(c), (d)(1)(A), Apr. 23, 2003, 117 Stat. 625, 626; Pub. L. 109–435, title VIII, §802(a)(2), Dec. 20, 2006, 120 Stat. 3249; Pub. L. 116–126, §3(a), Mar. 18, 2020, 134 Stat. 176.)
 
 Historical and Revision Notes<br>1966
 
@@ -158,7 +158,7 @@ Section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 19
 
 #### Amendments
 
-<b>2020</b>—Subsec. (a)(1)(B). Pub. L. 116–126 inserted "in administering fraud prevention under sections 8345, 8345a,8466, and 8466a of this title," after "8465(b) of this title,".
+<b>2020</b>—Subsec. (a)(1)(B). Pub. L. 116–126 inserted "in administering fraud prevention under sections 8345, 8345a, 8466, and 8466a of this title," after "8465(b) of this title,".
 
 <b>2006</b>—Subsec. (h). Pub. L. 109–435 amended subsec. (h) generally. Prior to amendment, subsec. (h) related to postal supplemental liability.
 
@@ -270,7 +270,7 @@ Amendment by Pub. L. 93–349 effective July 1, 1971, except that the Postal Ser
 
 #### Effective Date of 1969 Amendment
 
-Section 103(b)(1) of Pub. L. 91–93 provided that: "The provisions of subsection (g) of section 8348 of title 5, United States Code, as contained in the amendment made by subsection (a)(2) of this section, shall become effective at the beginning of the fiscal year which ends on June 30, 1971."
+Section 103(b)(1) of Pub. L. 91–93 provided that: "The provisions of subsection (g) of section 8348 of title 5, United States Code, as contained in the amendment made by subsection (a)(2) of this section, shall becomeeffective at the beginning of the fiscal year which ends on June 30, 1971."
 
 #### Review by Postal Regulatory Commission
 
@@ -310,7 +310,7 @@ Pub. L. 103–66, title XI, §11101(a), Aug. 10, 1993, 107 Stat. 413, required t
 
 Pub. L. 102–484, div. D, title XLIV, §4436(d), Oct. 23, 1992, 106 Stat. 2724, as amended by Pub. L. 103–337, div. A, title III, §341(b)(2), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 105–85, div. A, title XI, §1106(b)(2), Nov. 18, 1997, 111 Stat. 1924, provided that:
 
-"(1) In order to ensure the timely processing of applications for retirement benefits, under the Civil Service Retirement System or the Federal Employees' Retirement System, for civilian employees of the Department of Defense and other employees who retire when their agency is undergoing a major reorganization, a majorreduction in force, or a major transfer of function, the costs incurred by the Office of Personnel Management in processing any such application shall be deemed to be an administrative expense described in section 8348(a)(1)(B) of title 5, United States Code.
+"(1) In order to ensure the timely processing of applications for retirement benefits, under the Civil Service Retirement System or the Federal Employees' Retirement System, for civilian employees of the Department of Defense and other employees who retire when their agency is undergoing a major reorganization, a major reduction in force, or a major transfer of function, the costs incurred by the Office of Personnel Management in processing any such application shall be deemed to be an administrative expense described in section 8348(a)(1)(B) of title 5, United States Code.
 
 "(2) This subsection shall apply with respect to applications for retirement benefits based on separations occurring before January 1, 2002."
 

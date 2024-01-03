@@ -18,7 +18,7 @@ Each organization or consortium receiving assistance under this part shall demon
 
 #### (d) Technical assistance
 
-The Secretary shall reserve not more than 2 percent of the funds appropriated under section 7246 of this title to carry out this part to provide technical assistance, by competitive grant or contract, for the establishment, development, and coordination of statewide family engagement centers.
+The Secretary shall reserve not more than 2 percent of the funds appropriated under section7246 of this title to carry out this part to provide technical assistance, by competitive grant or contract, for the establishment, development, and coordination of statewide family engagement centers.
 
 (Pub. L. 89–10, title IV, §4502, as added Pub. L. 114–95, title IV, §4501, Dec. 10, 2015, 129 Stat. 2016.)
 

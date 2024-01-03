@@ -190,7 +190,7 @@ In carrying out the FAST program under this section, the Administrator shall coo
 
 #### (2) Annual reports
 
-&emsp;The Administrator shall submit an annual report to the Committee on Small Business of the Senate and the Committee on Science and the Committee on Small Business of the House of Representatives regarding—
+&emsp;The Administrator shall submit an annual report to the Committee on Small Business of the Senate and the Committee on Science andthe Committee on Small Business of the House of Representatives regarding—
 
 &emsp;&emsp;(A) the number and amount of awards provided and cooperative agreements entered into under the FAST program during the preceding year;
 

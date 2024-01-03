@@ -52,7 +52,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 &emsp;(B) To replace such product with a like or equivalent product which complies with the applicable rule, regulation, standard, or ban or which does not contain the defect.
 
-&emsp;(C) To refund the purchase price of such product (less a reasonable allowance for use, if such product has been in the possession of a consumer for one year or more (i) at the time of public notice under subsection (c), or (ii) at the time the consumer receives actual notice of the defect or noncompliance, whichever first occurs).
+&emsp;(C) To refund the purchase price of such product (less a reasonable allowance for use, if such product has been in the possession of a consumer for one year or more (i) at the time of public notice under subsection (c), or (ii) atthe time the consumer receives actual notice of the defect or noncompliance, whichever first occurs).
 
 (2) An order under this subsection shall also require the person to whom it applies to submit a plan, for approval by the Commission, for taking action under whichever of the preceding subparagraphs under which such person has been ordered to act. The Commission shall specify in the order the persons to whom refunds must be made if the Commission orders the action described in subparagraph (C).<sup>2</sup> An order under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, the product with respect to which the order was issued.
 
@@ -76,7 +76,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 #### (g) Preliminary injunction
 
-(1) If the Commission has initiated a proceeding under this section for the issuance of anorder under subsection (d) with respect to a product which the Commission has reason to believe presents a substantial product hazard, the Commission (without regard to section 2076(b)(7) of this title) or the Attorney General may, in accordance with 2061(d)(1) <sup>3</sup> of this title, apply to a district court of the United States for the issuance of a preliminary injunction to restrain the distribution in commerce of such product pending the completion of such proceeding. If such a preliminary injunction has been issued, the Commission (or the Attorney General if the preliminary injunction was issued upon an application of the Attorney General) may apply to the issuing court for extensions of such preliminary injunction.
+(1) If the Commission has initiated a proceeding under this section for the issuance of an order under subsection (d) with respect to a product which the Commission has reason to believe presents a substantial product hazard, the Commission (without regard to section 2076(b)(7) of this title) or the Attorney General may, in accordance with 2061(d)(1) <sup>3</sup> of this title, apply to a district court of the United States for the issuance of a preliminary injunction to restrain the distribution in commerce of such product pending the completion of such proceeding. If such a preliminary injunction has been issued, the Commission (or the Attorney General if the preliminary injunction was issued upon an application of the Attorney General) may apply to the issuing court for extensions of such preliminary injunction.
 
 (2) Any preliminary injunction, and any extension of a preliminary injunction, issued under this subsection with respect to a product shall be in effect for such period as the issuing court prescribes not to exceed a period which extends beyond the thirtieth day from the date of the issuance of the preliminary injunction (or, in the case of a preliminary injunction which has been extended, the date of its extension) or the date of the completion or termination of the proceeding under this section respecting such product, whichever date occurs first.
 
@@ -84,7 +84,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 #### (h) Cost-benefit analysis of notification or other action not required
 
-Nothing in this section shall be construed to require the Commission, in determining that a product distributed in commerce presents a substantial product hazard and that notification or other action under this section should be taken, to prepare a comparison of the costs that would be incurred in providing notification or taking other action under this section with the benefits from such notification or action.
+Nothing in this section shall be construed to require the Commission, in determining that a product distributed in commerce presents a substantial product hazard and that notification or other action under this section should be taken, to prepare a comparison of the costs that would be incurred in providing notification or takingother action under this section with the benefits from such notification or action.
 
 #### (i) Requirements for recall notices
 
@@ -168,7 +168,7 @@ Subsec. (c). Pub. L. 110–314, §214(a)(3)(A), (C), (D), designated existing pr
 
 Subsec. (c)(1). Pub. L. 110–314, §214(a)(3)(B), inserted "or if the Commission, after notifying the manufacturer, determines a product to be an imminently hazardous consumer product and has filed an action under section 2061 of this title," after "such substantial product hazard," in introductory provisions.
 
-Subsec. (c)(1)(D). Pub. L. 110–314, §214(a)(3)(E), substituted "comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internet website on which such manufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice." for "comply."
+Subsec. (c)(1)(D). Pub. L. 110–314, §214(a)(3)(E), substituted "comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internet website on which suchmanufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice." for "comply."
 
 Subsec. (c)(2), (3). Pub. L. 110–314, §214(a)(3)(F), added pars. (2) and (3).
 
@@ -230,7 +230,7 @@ Amendment by section 214(a)(2) of Pub. L. 110–314 effective on the date that i
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418,set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
 #### Effective Date of 1981 Amendment
 

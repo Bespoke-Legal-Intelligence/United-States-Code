@@ -18,7 +18,7 @@
 
 (b)(1) For the purposes of this subsection, the term "qualified public accountant" shall have the same meaning as provided in section 103(a)(3)(D) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1023(a)(3)(D)).
 
-(2) The Executive Director shall annually engage, on behalf of all individuals for whom an account is maintained, an independent qualifiedpublic accountant, who shall conduct an examination of all accounts and other books and records maintained in the administration of this subchapter and subchapter VII as the public accountant considers necessary to enable the public accountant to make the determination required by paragraph (3). The examination shall be conducted in accordance with generally accepted auditing standards and shall involve such tests of the accounts, books, and records as the public accountant considers necessary.
+(2) The Executive Director shall annually engage, on behalf of all individuals for whom an account is maintained, an independent qualified public accountant, who shall conduct an examination of all accounts and other books and records maintained in the administration of this subchapter and subchapter VII as the public accountant considers necessary to enable the public accountant to make the determination required by paragraph (3). The examination shall be conducted in accordance with generally accepted auditing standards and shall involve such tests of the accounts, books, and records as the public accountant considers necessary.
 
 (3) The public accountant conducting an examination under paragraph (2) shall determine whether the accounts, books, and records referred to in such paragraph have been maintained in conformity with generally accepted accounting principles applied on a basis consistent with the manner in which such principles were applied during the examination conducted under such paragraph during the preceding year. The public accountant shall transmit to the Board a report on his examination, including his determination under this paragraph.
 
@@ -36,7 +36,7 @@
 
 (2) Prior to enrollment in the Thrift Savings Fund, or as soon as practicable thereafter, an individual who is automatically enrolled pursuant to section 8432(b)(2) shall receive the risk acknowledgment information described under paragraph (1).
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §103\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, §661(a)(5), Oct. 5, 1999, 113 Stat. 672; Pub. L. 106–361, §2(b)(4), (5), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 108–469, §1(d)(3), Dec. 21, 2004, 118 Stat. 3892; Pub. L. 111–31, div. B, title I, §106(a), June 22, 2009, 123 Stat. 1855; Pub. L. 113–255, §2(b), Dec. 18, 2014, 128 Stat. 2920.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div.A, title I, §101(f) \[title VI, §659 \[title I, §103\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, §661(a)(5), Oct. 5, 1999, 113 Stat. 672; Pub. L. 106–361, §2(b)(4), (5), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 108–469, §1(d)(3), Dec. 21, 2004, 118 Stat. 3892; Pub. L. 111–31, div. B, title I, §106(a), June 22, 2009, 123 Stat. 1855; Pub. L. 113–255, §2(b), Dec. 18, 2014, 128 Stat. 2920.)
 
 #### <b>Editorial Notes</b>
 

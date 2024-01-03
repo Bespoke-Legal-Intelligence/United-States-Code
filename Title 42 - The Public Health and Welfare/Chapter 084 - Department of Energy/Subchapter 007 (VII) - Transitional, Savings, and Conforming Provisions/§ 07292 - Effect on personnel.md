@@ -30,7 +30,7 @@ Section 786 of title 15, referred to in subsec. (c), was repealed by Pub. L. 95â
 
 Ex. Ord. No. 12026, Dec. 5, 1977, 42 F.R. 61849, provided:
 
-By virtue of the authority vested in me by Sections 3301 and 3302 of Title 5 of the United States Code, and as President of the United States of America, the service of an employee of the Atomic Energy Commission or of the Energy Research and Development Administration pursuant to a Regular or Regular (Conditional) appointment, other than such service in an attorney position, who was transferred to the Department of Energy pursuant to the Department of Energy Organization Act (91 Stat. 565; 42 U.S.C. 7101 <i>et seq</i>.) shall be considered as Career or Career-Conditional service, respectively, for purposes of eligibility for reinstatement in the competitive Civil Service.
+By virtue of the authority vested in me by Sections 3301 and 3302 of Title 5 of the United States Code, andas President of the United States of America, the service of an employee of the Atomic Energy Commission or of the Energy Research and Development Administration pursuant to a Regular or Regular (Conditional) appointment, other than such service in an attorney position, who was transferred to the Department of Energy pursuant to the Department of Energy Organization Act (91 Stat. 565; 42 U.S.C. 7101 <i>et seq</i>.) shall be considered as Career or Career-Conditional service, respectively, for purposes of eligibility for reinstatement in the competitive Civil Service.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

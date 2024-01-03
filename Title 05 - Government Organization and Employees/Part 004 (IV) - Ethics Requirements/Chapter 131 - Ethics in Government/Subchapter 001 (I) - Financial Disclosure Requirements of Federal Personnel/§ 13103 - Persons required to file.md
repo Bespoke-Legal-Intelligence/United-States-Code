@@ -136,7 +136,7 @@ Pub. L. 112–105, §17, Apr. 4, 2012, 126 Stat. 303, as amended by Pub. L. 117�
 
 "(a)
 
-Restriction Extended to Executive and Judicial Branches.—Notwithstanding any other provision of law, an individual required to file a financial disclosure report under section 13103 of title 5, United States Code, may not directly negotiate or have any agreement of future employment or compensation unless such individual, within 3 business days after the commencement of such negotiation or agreement of futureemployment or compensation, files with the individual's supervising ethics office a statement, signed by such individual, regarding such negotiations or agreement, including the name of the private entity or entities involved in such negotiations or agreement, and the date such negotiations or agreement commenced.
+Restriction Extended to Executive and Judicial Branches.—Notwithstanding any other provision of law, an individual required to file a financial disclosure report under section 13103 of title 5, United States Code, may not directly negotiate or have any agreement of future employment or compensation unless such individual, within 3 business days after the commencement of such negotiation or agreement of future employment or compensation, files with the individual's supervising ethics office a statement, signed by such individual, regarding such negotiations or agreement, including the name of the private entity or entities involved in such negotiations or agreement, and the date such negotiations or agreement commenced.
 
 "(b)
 

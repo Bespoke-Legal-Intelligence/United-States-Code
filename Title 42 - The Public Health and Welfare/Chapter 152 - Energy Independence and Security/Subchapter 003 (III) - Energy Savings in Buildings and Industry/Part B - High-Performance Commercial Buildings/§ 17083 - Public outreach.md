@@ -6,7 +6,7 @@ The Commercial Director and Federal Director, in coordination with the Consortiu
 
 &emsp;&emsp;(A) identifies existing similar efforts and coordinates activities of common interest; and
 
-&emsp;&emsp;(B) provides information relating to high-performance green buildings, includinghyperlinks to Internet sites that describe the activities, information, and resources of—
+&emsp;&emsp;(B) provides information relating to high-performance green buildings, including hyperlinks to Internet sites that describe the activities, information, and resources of—
 
 &emsp;&emsp;&emsp;(i) the Federal Government;
 

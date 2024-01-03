@@ -20,7 +20,7 @@ Disposition of Complaint.—(1) If the corporation decides, as a result of the h
 
 &emsp;(B) revoke the recognition of the national governing body.
 
-(3) If the corporation places a national governing body on probation under paragraph (2) of this subsection, it may extend the probationary period if the national governing body has proven by clear and convincing evidence that, through no fault of its own, it needs additional time to comply with sections 220522, 220524, and 220525 of this title. If, at the end of the period allowed by the corporation, the national governing body has not complied with those sections, the corporation shall revoke the recognition of the national governing body.
+(3) If the corporation places a national governing body on probation under paragraph (2) of this subsection, it may extend the probationary period if the national governing body has proven by clear and convincing evidence that, through no fault of its own, it needs additional time to comply with sections 220522, 220524, and 220525 of this title. If, at the end of the period allowed bythe corporation, the national governing body has not complied with those sections, the corporation shall revoke the recognition of the national governing body.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1476; Pub. L. 116–189, §7(d), Oct. 30, 2020, 134 Stat. 960.)
 

@@ -120,7 +120,7 @@ The purposes of the Program established under subsection (b) are to—
 
 &emsp;&emsp;(C) a description of proposed activities that the regional clean energy innovation partnership plans to undertake and how the proposed activities will achieve the purposes described in subsection (c);
 
-&emsp;&emsp;(D) a plan for attracting additional funds and identification of funding sources from non-Federal sources to deliver the proposedoutcomes of the regional clean energy innovation partnership;
+&emsp;&emsp;(D) a plan for attracting additional funds and identification of funding sources from non-Federal sources to deliver the proposed outcomes of the regional clean energy innovation partnership;
 
 &emsp;&emsp;(E) a plan for partnering and collaborating with community development financial institutions and minority depository institutions, labor organizations and community groups, worker cooperative membership associations, local and state employee ownership and cooperative development centers, and other local institutions in order to promote employee, community, and public ownership in the clean energy sector, and advance models of local economic development that build and retain wealth in the region;
 
@@ -158,7 +158,7 @@ The purposes of the Program established under subsection (b) are to—
 
 #### (10) Administrative costs
 
-&emsp;The Secretary may allow a covered consortium that receives funds under this section to allocate a portion of the funding received to be used for administrative or indirect costs.
+&emsp;The Secretary may allow a covered consortium that receives funds under this section toallocate a portion of the funding received to be used for administrative or indirect costs.
 
 #### (11) Funding
 

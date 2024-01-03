@@ -28,7 +28,7 @@
 
 #### (ii) Requirement
 
-&emsp;&emsp;&emsp;As a condition of, and prior to, any election described in clause (i), the Secretarymay require such information or registration as the Secretary deems necessary for purposes of preventing duplication, fraud, or any improper or excessive amount determined under paragraph (1).
+&emsp;&emsp;&emsp;As a condition of, and prior to, any election described in clause (i), the Secretary may require such information or registration as the Secretary deems necessary for purposes of preventing duplication, fraud, or any improper or excessive amount determined under paragraph (1).
 
 #### (b) Credit amount
 
@@ -332,7 +332,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;The term "structural fastener" means a component which is used—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) to connect the mechanical and drive system components of a solar tracker to the foundation of such solar tracker,
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) to connect the mechanical and drive system components of a solartracker to the foundation of such solar tracker,
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) to connect torque tubes to drive assemblies, or
 

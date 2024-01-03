@@ -8,7 +8,7 @@ The National Archives Trust Fund Board shall consist of the Archivist of the Uni
 
 Based on 44 U.S. Code, 1964 ed., §§300bb, 391 (part) (July 9, 1941, ch. 284, §2, 55 Stat. 581; Aug. 2, 1946, ch. 753, title I, §§102, 121, 60 Stat. 814, 822; June 30, 1949, ch. 288, title I, §104, 63 Stat. 381).
 
-This section incorporates only the last sentence of paragraph (b) of former section 391. The balance of thatsection will be found in sections 1506, 2102, 2501, and 2902 of the revision.
+This section incorporates only the last sentence of paragraph (b) of former section 391. The balance of that section will be found in sections 1506, 2102, 2501, and 2902 of the revision.
 
 #### <b>Editorial Notes</b>
 

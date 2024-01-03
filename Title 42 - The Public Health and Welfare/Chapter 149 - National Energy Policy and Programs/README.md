@@ -426,6 +426,7 @@
 | [16279c.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016279c%20-%20Organization%20and%20administration%20of%20programs.md) | Organization and administration of programs. |
 | [16280\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016280%20-%20Advanced%20Nuclear%20Energy%20Licensing%20Cost-Share%20Grant%20Program.md) | Advanced Nuclear Energy Licensing Cost-Share Grant Program. |
 | [16281\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016281%20-%20Advanced%20nuclear%20fuel%20availability.md) | Advanced nuclear fuel availability. |
+| [16282\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016282%20-%20U.S.%20nuclear%20fuel%20security%20initiative.md) | U.S. nuclear fuel security initiative. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

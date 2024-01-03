@@ -90,7 +90,7 @@ In carrying out the grant program under subsection (b), the Secretary shall ente
 
 #### (B) Review requirements
 
-&emsp;&emsp;Not later than 90 days after the grantee receives funds to carry out this section for thefirst fiscal year in which funds become available to carry out this section after August 14, 2008, the independent auditor shall complete the review required by this paragraph.
+&emsp;&emsp;Not later than 90 days after the grantee receives funds to carry out this section for the first fiscal year in which funds become available to carry out this section after August 14, 2008, the independent auditor shall complete the review required by this paragraph.
 
 #### (C) Report
 

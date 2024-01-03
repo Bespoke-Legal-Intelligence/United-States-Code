@@ -20,7 +20,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(5) Such bank should assist countries in assessing and monitoring progress in achieving poverty alleviation goals and targets through measurement by appropriate social indicators.
 
-&emsp;(6) Such bank should adopt procedures and budgetary allocations for administrative purposes, and establish appropriate staffing levels, to ensure that adequate resources are available to implement the bank's program forenhancing the productive economic participation of the poor, in consultation with non-governmental groups.
+&emsp;(6) Such bank should adopt procedures and budgetary allocations for administrative purposes, and establish appropriate staffing levels, to ensure that adequate resources are available to implement the bank's program for enhancing the productive economic participation of the poor, in consultation with non-governmental groups.
 
 &emsp;(7) Such bank should adopt, as a separate and major criterion in the allocation of concessional financing resources, a preferential allocation to each country which undertakes significant efforts to enhance the productive economic participation of the poor.
 

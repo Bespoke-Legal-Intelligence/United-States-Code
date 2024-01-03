@@ -34,7 +34,7 @@
 
 #### (A) Reporting of covered cyber incident with ransom payment
 
-&emsp;&emsp;If a covered entity is the victim of a covered cyber incident and makes a ransom payment prior to the 72 hour requirementunder paragraph (1), such that the reporting requirements under paragraphs (1) and (2) both apply, the covered entity may submit a single report to satisfy the requirements of both paragraphs in accordance with procedures established in the final rule issued pursuant to subsection (b).
+&emsp;&emsp;If a covered entity is the victim of a covered cyber incident and makes a ransompayment prior to the 72 hour requirement under paragraph (1), such that the reporting requirements under paragraphs (1) and (2) both apply, the covered entity may submit a single report to satisfy the requirements of both paragraphs in accordance with procedures established in the final rule issued pursuant to subsection (b).
 
 #### (B) Substantially similar reported information
 

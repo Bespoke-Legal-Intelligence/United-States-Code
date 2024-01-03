@@ -38,7 +38,7 @@ Prior section 1502A, Pub. L. 87–591, §1, Aug. 16, 1962, 76 Stat. 393, which r
 
 &emsp;"(1) any disability which is sufficient to render it impossible for the average person to follow a substantially gainful occupation, but only if it is reasonably certain that such disability will continue throughout the life of the disabled person; or
 
-&emsp;"(2) any disease or disorder determined by the Secretary to be of such a nature or extent as to justifya determination that persons suffering therefrom are permanently and totally disabled."
+&emsp;"(2) any disease or disorder determined by the Secretary to be of such a nature or extent as to justify a determination that persons suffering therefrom are permanently and totally disabled."
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 502 of this title as this section.
 

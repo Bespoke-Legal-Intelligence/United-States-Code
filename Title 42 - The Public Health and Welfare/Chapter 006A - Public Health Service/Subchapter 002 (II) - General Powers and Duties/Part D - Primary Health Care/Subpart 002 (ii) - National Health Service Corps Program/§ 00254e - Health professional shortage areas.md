@@ -10,7 +10,7 @@
 
 &emsp;(B) such a facility of a State correctional institution or of the Indian Health Service, and a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\];
 
-&emsp;(C) such a facility used in connection with the delivery of health services under section 248 of this title (relating to hospitals), 249 of this title (relating to care and treatment of persons under quarantine and others), 250 of this title (relating to care and treatment of Federal prisoners), 251 of this title (relating to examination and treatment of certain Federal employees), 252 of this title (relating to examination of aliens), 253 of this title (relating to services to certain Federal employees), 247e of this title (relating to services for persons withHansen's disease), or 254b(h) of this title (relating to the provision of health services to homeless individuals); and
+&emsp;(C) such a facility used in connection with the delivery of health services under section 248 of this title (relating to hospitals), 249 of this title (relating to care and treatment of persons under quarantine and others), 250 of this title (relating to care and treatment of Federal prisoners), 251 of this title (relating to examination and treatment of certain Federal employees), 252 of this title (relating to examination of aliens), 253 of this title (relating to services to certain Federal employees), 247e of this title (relating to services for persons with Hansen's disease), or 254b(h) of this title (relating to the provision of health services to homeless individuals); and
 
 &emsp;(D) a Federal medical facility.
 
@@ -102,7 +102,7 @@ The Administrator of the Health Resources and Services Administration shall diss
 
 &emsp;(A) requiring the identification of a maternity care health professional target area in an area not otherwise already designated as a health professional shortage area; or
 
-&emsp;(B) affecting the types of health professionals, without application of this subsection, otherwise eligible for assistance, including a loan repayment or scholarship, pursuant to the application of this section.
+&emsp;(B) affecting the types of health professionals, without application of this subsection,otherwise eligible for assistance, including a loan repayment or scholarship, pursuant to the application of this section.
 
 (July 1, 1944, ch. 373, title III, §332, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2270; amended Pub. L. 95–142, §7(d), Oct. 25, 1977, 91 Stat. 1193; Pub. L. 96–32, §7(d), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title IX, §986(b)(4), title XXVII, §2702(a), (b), (c), Aug. 13, 1981, 95 Stat. 603, 903, 904; Pub. L. 100–77, title VI, §602, July 22, 1987, 101 Stat. 515; Pub. L. 100–177, title III, §302, Dec. 1, 1987, 101 Stat. 1003; Pub. L. 100–607, title VIII, §802(b)(2), Nov. 4, 1988, 102 Stat. 3169; Pub. L. 100–628, title VI, §602(b)(2), Nov. 7, 1988, 102 Stat. 3242; Pub. L. 101–597, title I, §102, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3014, 3035; Pub. L. 107–251, title III, §302(a), (d)(2), title VI, §601(a), Oct. 26, 2002, 116 Stat. 1643, 1645, 1664; Pub. L. 108–163, §2(f)(1), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 110–355, §3(b), Oct. 8, 2008, 122 Stat. 3993; Pub. L. 115–320, §2, Dec. 17, 2018, 132 Stat. 4437.)
 
@@ -180,7 +180,7 @@ Subsec. (f). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health
 
 Pub. L. 101–597, §102(c)(4), redesignated par. (3) as (2) and struck out former par. (2) which read as follows:
 
-"(A) each health systems agency (designated under section 300l–4 of this title) for a health service area which includes all or any part of the area, population group, medical facility, or other public facility so designated; or
+"(A) each health systems agency (designated under section 300l–4 of this title) for a health service area which includes all or any part of the area, populationgroup, medical facility, or other public facility so designated; or
 
 "(B) the State health planning and development agency of the State (designated under section 300m of this title) if there is a part of such area, population group, medical facility, or other public facility within a health service area for which no health systems agency has been designated; and".
 
@@ -224,7 +224,7 @@ Amendment by section 986(b)(4) of Pub. L. 97–35 effective Oct. 1, 1981, see se
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–142, §7(e)(1), Oct. 25, 1977, 91 Stat. 1194, provided that: "The amendment made by subsection (d)\[amending this section\] shall apply with respect to determinations and designations made on and after the date of the enactment of this Act \[Oct. 25, 1977\]."
+Pub. L. 95–142, §7(e)(1), Oct. 25, 1977, 91 Stat. 1194, provided that: "The amendment made by subsection (d) \[amending this section\] shall apply with respect to determinations and designations made on and after the date of the enactment of this Act \[Oct. 25, 1977\]."
 
 #### Regulations
 

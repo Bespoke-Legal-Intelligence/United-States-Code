@@ -168,6 +168,30 @@ Pub. L. 98–223, title I, §108, Mar. 2, 1984, 98 Stat. 40, provided that: "It 
 
 \[Section 108 of Pub. L. 98–223 effective Apr. 1, 1984, see section 107 of Pub. L. 98–223, set out as a note under section 1114 of this title.\]
 
+#### Improving Processing by Department of Veterans Affairs of Disability Claims for Post-Traumatic Stress Disorder Through Improved Training
+
+Pub. L. 118–31, div. E, title L, §5003, Dec. 22, 2023, 137 Stat. 931, provided that:
+
+"(a)
+
+Formal Process for Conduct of Annual Analysis of Training Needs Based on Trends.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Veterans Affairs, acting through the Under Secretary for Benefits, shall establish a formal process to analyze, on an annual basis, training needs of employees of the Department who review claims for disability compensation for post-traumatic stress disorder, based on identified processing error trends.
+
+"(b)
+
+Formal Process for Conduct of Annual Studies to Support Annual Analysis.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act, the Secretary, acting through the Under Secretary, shall establish a formal process to conduct, on an annual basis, studies to help guide the process established under subsection (a).
+
+&emsp;"(2)
+
+Elements.—Each study conducted under paragraph (1) shall cover the following:
+
+&emsp;&emsp;"(A) Military post-traumatic stress disorder stressors.
+
+&emsp;&emsp;"(B) Decision-making claims for claims processors."
+
 #### Veterans' Disability Benefits Commission
 
 Pub. L. 108–136, div. A, title XV, Nov. 24, 2003, 117 Stat. 1676, as amended by Pub. L. 109–163, div. A, title V, §590, Jan. 6, 2006, 119 Stat. 3279, provided that:
@@ -362,7 +386,7 @@ Pub. L. 97–37, §6, Aug. 14, 1981, 95 Stat. 937, provided that:
 
 "(2) Not later than ninety days after the end of the three-year period described in paragraph (1), the Administrator shall, after consulting with and receiving the views of the Advisory Committee on Former Prisoners of War required to be established pursuant to section 221 \[see 541\] of such title, submit a report on the results of the disposition of claims described in such paragraph, together with any comments or recommendations that the Administrator may have, to the appropriate committees of Congress. The Administrator may also submit to such committees interim reports on such results.
 
-"(c) For the purposes of this section, the term "former prisoner of war" has the meaning given suchterm in paragraph (32) of section 101 of title 38, United States Code (as added by section 3(a) of this Act)."
+"(c) For the purposes of this section, the term "former prisoner of war" has the meaning given such term in paragraph (32) of section 101 of title 38, United States Code (as added by section 3(a) of this Act)."
 
 #### Study on Disability Compensation and Health-Care Needs of Former Prisoners of War; Report to President and Congress
 

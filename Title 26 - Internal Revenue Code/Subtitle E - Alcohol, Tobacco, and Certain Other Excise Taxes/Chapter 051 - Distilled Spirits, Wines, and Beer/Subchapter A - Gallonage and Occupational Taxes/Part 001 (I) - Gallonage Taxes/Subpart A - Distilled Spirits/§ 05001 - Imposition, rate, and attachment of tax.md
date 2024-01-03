@@ -112,7 +112,7 @@ The tax shall attach to distilled spirits as soon as this substance is in existe
 
 &emsp;&emsp;&emsp;(i) paragraph (1) shall not apply, and
 
-&emsp;&emsp;&emsp;(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequentlythan quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
+&emsp;&emsp;&emsp;(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
 
 #### (B) Amount of refund
 
@@ -264,7 +264,7 @@ Amendment by Pub. L. 89–44 applicable on and after July 1, 1965, see section 7
 
 #### Effective Date
 
-Pub. L. 85–859, title II, §210(a)(1), Sept. 2, 1958, 72 Stat. 1435, provided that: "The amendments made by sections 201 and 205 \[amending this chapter and repealing acts Mar. 3, 1877, 114, 19 Stat. 393, and Oct. 18, 1888, ch. 1194, 25 Stat. 560\] shall take effect on July 1, 1959, except that any provision having the effect of a provision contained in such amendments may be made effective at an earlier date by the promulgation of regulations by the Secretary or his delegate to effectuate such provision, in which case the effective date shall be that prescribed in such regulations. The amendments made by paragraphs (17) and (18) of section 204 \[amending section 7652 of this title\] shall take effect on July 1, 1959. Except as provided in section 206(f), all other provisions of this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, and 7655 of this title, and repealing former section 5854 of this title\] shall take effect on the day following the date of the enactment of this Act \[Sept. 2, 1958\]."
+Pub. L. 85–859, title II, §210(a)(1), Sept. 2, 1958, 72 Stat. 1435, provided that: "The amendments made by sections201 and 205 \[amending this chapter and repealing acts Mar. 3, 1877, 114, 19 Stat. 393, and Oct. 18, 1888, ch. 1194, 25 Stat. 560\] shall take effect on July 1, 1959, except that any provision having the effect of a provision contained in such amendments may be made effective at an earlier date by the promulgation of regulations by the Secretary or his delegate to effectuate such provision, in which case the effective date shall be that prescribed in such regulations. The amendments made by paragraphs (17) and (18) of section 204 \[amending section 7652 of this title\] shall take effect on July 1, 1959. Except as provided in section 206(f), all other provisions of this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, and 7655 of this title, and repealing former section 5854 of this title\] shall take effect on the day following the date of the enactment of this Act \[Sept. 2, 1958\]."
 
 #### Short Title
 
@@ -276,7 +276,7 @@ Pub. L. 116–260, div. EE, title I, §107(f), Dec. 27, 2020, 134 Stat. 3048, pr
 
 #### Savings Provision
 
-Pub. L. 85–859, title II, §210(b), Sept. 2, 1958, 72 Stat. 1435, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "The amendment of any provision of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, 7652, and 7655 of this title, and enacting provisions set out as notes under this section and sections 5006, 5025, 5064, 5175, 5304, and 5601 of this title\] shall not affect any act done or any right accruing or accrued, or any suit or proceeding had or commenced in any civil cause before such amendment; but all rights and liabilities under such code prior to such amendment shall continue, and may be enforced in the same manner, as if such amendment had not been made."
+Pub. L. 85–859, title II, §210(b), Sept. 2, 1958, 72 Stat. 1435, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment of any provision of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, 7652, and 7655 of this title, and enacting provisions set out as notes under this section and sections 5006, 5025, 5064, 5175, 5304, and 5601 of this title\] shall not affect any act done or any right accruing or accrued, or any suit or proceeding had or commenced in any civil cause before such amendment; but all rights and liabilities under such code prior to such amendment shall continue, and may be enforced in the same manner, as if such amendment had not been made."
 
 #### References to Other Provisions of Law
 
@@ -394,7 +394,7 @@ Other laws applicable.—
 
 &emsp;"(A)
 
-In general.—All provisions of law, including penalties, applicable to the comparable excise tax with respect to any tax-increased article shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stockstaxes imposed by paragraph (1) to the same extent as if such taxes were imposed by the comparable excise tax.
+In general.—All provisions of law, including penalties, applicable to the comparable excise tax with respect to any tax-increased article shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by the comparable excise tax.
 
 &emsp;"(B)
 
@@ -488,7 +488,7 @@ Installment payment of tax in case of small or middle-sized dealers.—In the ca
 
 &emsp;&emsp;"(iii)
 
-Small or middle-sized dealer.—For purposes of clause (ii), the term 'small or middle-sized dealer' means any dealer if the aggregate gross sales receipts of such dealer for its most recent taxable year ending before October 1, 1985, does not exceed $500,000.
+Small or middle-sized dealer.—For purposes of clause (ii), the term 'small or middle-sized dealer' means any dealer if the aggregate grosssales receipts of such dealer for its most recent taxable year ending before October 1, 1985, does not exceed $500,000.
 
 "(5)
 

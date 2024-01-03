@@ -6,5 +6,5 @@ Section, Pub. L. 89–236, §21(e), Oct. 3, 1965, 79 Stat. 921, limited total nu
 
 #### Effective Date of Repeal
 
-Repeal effective on first day of first month which begins more than 60 days after Oct. 20, 1976, see section 10 of Pub. L. 94–571, set out as an Effective Date of 1976 Amendment note under section 1101 of this title.
+Repeal effective on first day of first month which begins more than 60 days after Oct. 20, 1976, see section 10of Pub. L. 94–571, set out as an Effective Date of 1976 Amendment note under section 1101 of this title.
 

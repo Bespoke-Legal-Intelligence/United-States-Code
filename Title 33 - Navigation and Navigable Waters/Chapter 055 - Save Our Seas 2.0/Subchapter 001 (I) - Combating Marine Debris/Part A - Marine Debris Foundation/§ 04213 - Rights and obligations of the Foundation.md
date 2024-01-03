@@ -12,7 +12,7 @@ The Foundation—
 
 #### (b) Service of process
 
-The serving of notice to, or service of process upon, the agent required under subsection (a)(3),or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
+The serving of notice to, or service of process upon, the agent required under subsection (a)(3), or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
 
 #### (c) Powers
 
@@ -48,7 +48,7 @@ The serving of notice to, or service of process upon, the agent required under s
 
 #### (d) Notice to Members of Congress
 
-The Foundation may not make a grant of Federal funds in an amount greater than $100,000 unless, by not later than 15 days before the grant is made, the Foundation provides notice of the grant to the Member of Congress for the congressional district in which the project to be funded with the grant will be carried out.
+The Foundation may not make a grant of Federal funds in an amount greater than $100,000 unless, by not later than 15 days before the grantis made, the Foundation provides notice of the grant to the Member of Congress for the congressional district in which the project to be funded with the grant will be carried out.
 
 #### (e) Coordination of international efforts
 

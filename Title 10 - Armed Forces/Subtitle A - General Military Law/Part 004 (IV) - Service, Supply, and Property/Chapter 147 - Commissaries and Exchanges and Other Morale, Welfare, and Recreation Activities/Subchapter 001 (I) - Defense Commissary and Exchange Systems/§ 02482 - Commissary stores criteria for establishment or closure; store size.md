@@ -10,7 +10,7 @@ Primary Consideration for Establishment.—The needs of members of the armed for
 
 (b)
 
-Store Size.—In determining the size of a commissary store, the Secretary of Defenseshall take into consideration the number of all authorized patrons of the defense commissary system who are likely to use the store.
+Store Size.—In determining the size of a commissary store, the Secretary of Defense shall take into consideration the number of all authorized patrons of the defense commissary system who are likely to use the store.
 
 (c)
 

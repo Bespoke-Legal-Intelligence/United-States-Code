@@ -54,7 +54,7 @@ Contents.—Each notice submitted under paragraph (1) shall include—
 
 &emsp;&emsp;(E) an explanation of the benefit to the performance of the military mission of the Department of Defense resulting from the award.
 
-(Added Pub. L. 106–65, div. A, title II, §244(a), Oct. 5, 1999, 113 Stat. 552, §2374a; amended Pub. L. 107–314, div. A, title II, §248(a), Dec. 2, 2002, 116 Stat. 2502; Pub. L. 108–136, div. A, title X, §1031(a)(20), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 109–163, div. A, title II, §257, Jan. 6, 2006, 119 Stat. 3184; Pub. L. 109–364, div. A, title II, §212, Oct. 17, 2006, 120 Stat. 2119; Pub. L. 111–84, div. A, title II, §253, Oct. 28, 2009, 123 Stat. 2243; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 113–66, div. A, title II, §263, Dec. 26, 2013, 127 Stat. 726; Pub. L. 113–291, div. A, title II, §211, Dec. 19, 2014, 128 Stat. 3324; Pub. L. 114–92, div. A, title X, §1079(a), Nov. 25, 2015, 129 Stat. 999; Pub. L. 114–328, div. A, title X, §1081(c)(6), Dec. 23, 2016, 130 Stat. 2420; Pub. L. 115–91, div. A, title II, §213, Dec. 12, 2017, 131 Stat. 1324; Pub. L. 115–232, div. A, title X, §1081(a)(21), Aug. 13, 2018, 132 Stat. 1984; Pub. L. 116–92, div. A, title II, §215, Dec. 20, 2019, 133 Stat. 1257; renumbered §4025 and amended Pub. L. 116–283, div. A, title XVIII, §§1841(b)(1), 1842(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4244, 4294; Pub. L. 117–81, div. A, title VIII, §822, title XVII, §1701(q)(1), (u)(2)(B), (3)(B), Dec. 27, 2021, 135 Stat. 1825, 2148, 2151, 2152; Pub. L. 117–263, div. A, title VIII, §844, Dec. 23, 2022, 136 Stat. 2719.)
+(Added Pub. L. 106–65, div. A, title II, §244(a), Oct. 5, 1999, 113 Stat. 552, §2374a; amended Pub. L. 107–314, div. A, title II, §248(a), Dec. 2, 2002, 116 Stat. 2502; Pub. L. 108–136, div. A, title X, §1031(a)(20), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 109–163, div. A, title II, §257, Jan. 6, 2006, 119 Stat. 3184; Pub. L. 109–364, div. A, title II, §212, Oct. 17, 2006, 120 Stat. 2119; Pub. L. 111–84, div. A, title II, §253, Oct. 28, 2009, 123 Stat. 2243; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 113–66, div. A, title II, §263, Dec. 26, 2013, 127 Stat. 726; Pub. L. 113–291, div. A, title II, §211, Dec. 19, 2014, 128 Stat. 3324; Pub. L. 114–92, div. A, title X, §1079(a), Nov. 25, 2015, 129 Stat. 999; Pub. L. 114–328, div. A, title X, §1081(c)(6), Dec. 23, 2016, 130 Stat. 2420; Pub. L. 115–91, div. A, title II, §213, Dec. 12, 2017, 131 Stat. 1324; Pub. L. 115–232, div. A, title X, §1081(a)(21), Aug. 13, 2018, 132 Stat. 1984; Pub. L. 116–92, div. A, title II, §215, Dec. 20, 2019, 133 Stat. 1257; renumbered §4025 and amended Pub.L. 116–283, div. A, title XVIII, §§1841(b)(1), 1842(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4244, 4294; Pub. L. 117–81, div. A, title VIII, §822, title XVII, §1701(q)(1), (u)(2)(B), (3)(B), Dec. 27, 2021, 135 Stat. 1825, 2148, 2151, 2152; Pub. L. 117–263, div. A, title VIII, §844, Dec. 23, 2022, 136 Stat. 2719.)
 
 #### <b>Editorial Notes</b>
 
@@ -169,6 +169,50 @@ Pub. L. 114–328, div. A, title X, §1081(c), Dec. 23, 2016, 130 Stat. 2419, pr
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
+
+#### Prize Competition for Technology That Detects and Watermarks Use of Generative Artificial Intelligence
+
+Pub. L. 118–31, div. A, title XV, §1543, Dec. 22, 2023, 137 Stat. 573, provided that:
+
+"(a)
+
+Establishment.—Not later than 270 days after the date of the enactment of this Act \[Dec. 22, 2023\], under the authority of section 4025 of title 10, United States Code, the Secretary of Defense shall establish a prize competition designed to evaluate technology (including applications, tools, and models) for generative artificial intelligence detection and generative artificial intelligence watermarking, for the purposes of—
+
+&emsp;"(1) facilitating the research, development, testing, evaluation, and competition of such technologies to support the Secretaries of the military departments and the commanders of combatant commands in warfighting requirements; and
+
+&emsp;"(2) transitioning such technologies, including technologies developed pursuant to pilot programs, prototype projects, or other research and development programs, from the prototyping phase to production.
+
+"(b)
+
+Participation.—The participants in the prize competition under subsection (a) may include federally funded research and development centers, entities within the private sector, entities within the defense industrial base, institutions of higher education, Federal departments and agencies, and such other categories of participants as the Secretary of Defense considers appropriate.
+
+"(c)
+
+Designation.—The prize competition under subsection (a) shall be known as the 'Generative AI Detection and Watermark Competition'.
+
+"(d)
+
+Administration.—The Under Secretary of Defense for Research and Engineering shall administer the prize competition under subsection (a).
+
+"(e)
+
+Framework.—Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the framework to be used in carrying out the prize competition under subsection (a).
+
+"(f)
+
+Annual Briefings.—Not later than October 1 of each year until the date of termination under subsection (g), the Secretary of Defense shall provide to the congressional defense committees a briefing on the results of the prize competition under subsection (a).
+
+"(g)
+
+Termination.—The authority to carry out the prize competition under subsection (a) shall terminate on December 31, 2025.
+
+"(h)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'generative artificial intelligence detection' means, with respect to digital content, the positive identification of the use of generative artificial intelligence in the generation of such content.
+
+&emsp;"(2) The term 'generative artificial intelligence watermarking' means, with respect to digital content, embedding within such content data conveying attribution of the generation of such content to generative artificial intelligence."
 
 #### Prize Competition To Identify Root Cause of Physiological Episodes on Navy, Marine Corps, and Air Force Training and Operational Aircraft
 

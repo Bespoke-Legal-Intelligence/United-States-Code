@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 &emsp;(A)(i) medical services rendered in the course of the hospitalization of any veteran, and (ii) travel and incidental expenses pursuant to the provisions of section 111 of this title;
 
-&emsp;(B) such mental health services, consultation, professional counseling, marriage andfamily counseling, and training for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as the Secretary considers appropriate for the effective treatment and rehabilitation of a veteran or dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title; and
+&emsp;(B) such mental health services, consultation, professional counseling, marriage and family counseling, and training for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as the Secretary considers appropriate for the effective treatment and rehabilitation of a veteran or dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title; and
 
 &emsp;(C)(i) medical services rendered in the course of the hospitalization of a dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title, and (ii) travel and incidental expenses for such dependent or survivor under the terms and conditions set forth in section 111 of this title.
 
@@ -120,7 +120,7 @@ Par. (10). Pub. L. 110–387, §801(1), struck out par. (10) which read as follo
 
 <b>2003</b>—Par. (8). Pub. L. 108–170, §104(a), struck out "(other than those types of vocational rehabilitation services provided under chapter 31 of this title)" after "programs".
 
-Par. (10)(A). Pub. L. 108–170, §106(a), substituted "November 30, 1999, and ending on December 31, 2008," for "the date of the enactment of the Veterans Millennium Health Care and Benefits Act and ending on December 31, 2003,".
+Par. (10)(A). Pub. L. 108–170, §106(a), substituted "November 30, 1999, and ending on December 31, 2008," for"the date of the enactment of the Veterans Millennium Health Care and Benefits Act and ending on December 31, 2003,".
 
 <b>2002</b>—Par. (5). Pub. L. 107–135, §208(e)(2), substituted "1781(b)" for "1713(b)" in subpars. (B) and (C)(i).
 
@@ -302,7 +302,7 @@ Establishment of Clinical Pathway.—
 
 &emsp;"(1)
 
-In general.—Not later than 365 days after the date of the enactment of this Act \[Dec. 29, 2022\], theSecretary of Veterans Affairs shall establish an interdisciplinary clinical pathway for all stages of prostate cancer, from early detection to end of life care. The clinical pathway shall be established in the National Surgery Office of the Department of Veterans Affairs in close collaboration with the National Program Office of Oncology, the Office of Research and Development, and other relevant entities of the Department, including Primary Care.
+In general.—Not later than 365 days after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Veterans Affairs shall establish an interdisciplinary clinical pathway for all stages of prostate cancer, from early detection to end of life care. The clinical pathway shall be established in the National Surgery Office of the Department of Veterans Affairs in close collaboration with the National Program Office of Oncology, the Office of Research and Development, and other relevant entities of the Department, including Primary Care.
 
 &emsp;"(2)
 
@@ -1274,7 +1274,7 @@ Comptroller General Report.—Not later than 2 years after the date of the enact
 
 &emsp;"(3) An explanation of the coordination of the Department with the medical licensing boards of States in implementing this section, the amount of involvement of such boards in such implementation, and efforts by the Department to address any concerns raised by such boards with respect to such implementation.
 
-&emsp;"(4) Such recommendations as the Comptroller General considers appropriate regarding harmonizing eligibility criteria between health care providers of the Department and health care providers eligible to provide non-Department health care services.
+&emsp;"(4) Such recommendations as the Comptroller General considers appropriate regarding harmonizingeligibility criteria between health care providers of the Department and health care providers eligible to provide non-Department health care services.
 
 "(f)
 
@@ -1516,7 +1516,7 @@ Pub. L. 115–182, title V, §506, June 6, 2018, 132 Stat. 1477, as amended by P
 
 "(a)
 
-Program Required.—The Secretary of Veterans Affairs shall carry out a program to establish not fewer than two peer specialists in patient aligned care teams at medical centers of the Department of Veterans Affairs to promote the use and integration of services for mental health, substance use disorder, and behavioral health in a primary care setting. Each such peer specialist shall be a full-time employee whose primary function is to serve as a peer specialist and shall be in addition to all other employees of such medical center.
+Program Required.—The Secretary of Veterans Affairs shall carry out a program to establish not fewer than two peer specialists in patient aligned care teams at medical centers of the Department of Veterans Affairs to promote the use and integration of services formental health, substance use disorder, and behavioral health in a primary care setting. Each such peer specialist shall be a full-time employee whose primary function is to serve as a peer specialist and shall be in addition to all other employees of such medical center.
 
 "(b)
 
@@ -1720,7 +1720,7 @@ In general.—Subject to coordination under paragraph (2), the Secretary shall d
 
 &emsp;"(2)
 
-Coordination.—Before entering into a contract under paragraph (1), the Director of a Veterans Integrated Service Network or the director of a medicalcenter, as the case may be, shall notify the Secretary of Veterans Affairs, the Inspector General of the Department of Veterans Affairs, and the Comptroller General of the United States for purposes of coordinating any investigation conducted pursuant to such contract with any other investigations that may be ongoing.
+Coordination.—Before entering into a contract under paragraph (1), the Director of a Veterans Integrated Service Network or the director of a medical center, as the case may be, shall notify the Secretary of Veterans Affairs, the Inspector General of the Department of Veterans Affairs, and the Comptroller General of the United States for purposes of coordinating any investigation conducted pursuant to such contract with any other investigations that may be ongoing.
 
 "(c)
 
@@ -1758,7 +1758,7 @@ Authority.—The Secretary shall seek to enter into a contract using competitive
 
 &emsp;"(2)
 
-Notice of competition.—Not later than 60 days after the date of the enactment of this Act, the Secretary shall issue a request for proposals for the contract described in paragraph (1). Such request shall be full and open to any contractor that has an existing commercially available, off-the-shelf online patient self-scheduling system that includes the capabilities specified in section 3(a).
+Notice of competition.—Not later than 60 days after the date of the enactment of this Act, the Secretary shall issue a request for proposals for the contract described in paragraph (1). Such request shall be full and open to any contractor that has an existingcommercially available, off-the-shelf online patient self-scheduling system that includes the capabilities specified in section 3(a).
 
 &emsp;"(3)
 
@@ -1840,7 +1840,7 @@ Capabilities included.—Not later than December 31, 2017, the Secretary shall c
 
 &emsp;"(2)
 
-New systems.—If the Secretary develops or begins using a new patient self-scheduling appointment system that is not covered by a certification madeunder paragraph (1), the Secretary shall certify to such committees that such new system includes the capabilities specified in subsection (a) by not later than 30 days after the date on which the Secretary determines to replace the previous patient self-scheduling appointment system.
+New systems.—If the Secretary develops or begins using a new patient self-scheduling appointment system that is not covered by a certification made under paragraph (1), the Secretary shall certify to such committees that such new system includes the capabilities specified in subsection (a) by not later than 30 days after the date on which the Secretary determines to replace the previous patient self-scheduling appointment system.
 
 &emsp;"(3)
 
@@ -2250,7 +2250,7 @@ Elements.—The report submitted under paragraph (1) shall include the following
 
 &emsp;&emsp;&emsp;"(i) deaths resulting from sentinel events involving veterans prescribed opioids by a health care provider;
 
-&emsp;&emsp;&emsp;"(ii) overall prescription rates and, if applicable, indications used by health care providers forprescribing chronic opioid therapy to treat non-cancer, non-palliative, and non-hospice care patients;
+&emsp;&emsp;&emsp;"(ii) overall prescription rates and, if applicable, indications used by health care providers for prescribing chronic opioid therapy to treat non-cancer, non-palliative, and non-hospice care patients;
 
 &emsp;&emsp;&emsp;"(iii) the prescription rates and indications used by health care providers for prescribing benzodiazepines and opioids concomitantly;
 
@@ -2266,7 +2266,7 @@ Elements.—The report submitted under paragraph (1) shall include the following
 
 "(b)
 
-Semi-annual Progress Report on Implementation of Comptroller General Recommendations.—Not later than 180 days after the date of the submittal of the report required under subsection (a), and not less frequently than annually thereafter until the Comptroller General of the United States determines that all recommended actions are closed, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a progress report detailing the actions by the Secretary to address any outstanding findings and recommendations by the Comptroller General of the United States under subsection (a) with respect to the Veterans Health Administration.
+Semi-annual Progress Report on Implementation of Comptroller General Recommendations.—Not later than 180 days after the date of the submittal of the report required under subsection (a), and not less frequently than annually thereafter until the Comptroller General of the United States determines that all recommended actions are closed, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a progress report detailing the actions by the Secretary to address any outstanding findings and recommendations by the Comptroller General of the United Statesunder subsection (a) with respect to the Veterans Health Administration.
 
 "(c)
 
@@ -2480,7 +2480,7 @@ Duties.—The Commission shall perform the following duties:
 
 &emsp;&emsp;"(D) the percentage of veterans who have completed counseling sessions offered by the Department; and
 
-&emsp;&emsp;"(E) the efforts of the Department to expand complementary and integrative health treatments viable to the recovery of veterans with mental health issues as determined by the Secretary to improve the effectiveness of treatments offered by the Department.
+&emsp;&emsp;"(E) the efforts of the Department to expand complementary and integrative health treatments viable to the recovery of veterans with mental health issues as determined by the Secretary to improvethe effectiveness of treatments offered by the Department.
 
 "(c)
 
@@ -2616,7 +2616,7 @@ Other reports.—In carrying out its duties, at times that the Commission determ
 
 &emsp;"(2)
 
-Final report.—Not later than 18 months after the first meeting of the Commission, the Commission shall submit to the Committee on Veterans' Affairs of the House of Representatives and the Senate, the President, and the Secretary of Veterans Affairs a final report on the findings of the Commission. Such report shall include the following:
+Final report.—Not later than 18 months after the first meeting of the Commission, the Commission shall submit to the Committee on Veterans' Affairsof the House of Representatives and the Senate, the President, and the Secretary of Veterans Affairs a final report on the findings of the Commission. Such report shall include the following:
 
 &emsp;&emsp;"(A) Recommendations to implement in a feasible, timely, and cost-efficient manner the solutions and remedies identified within the findings of the Commission pursuant to subsection (b).
 
@@ -2824,7 +2824,7 @@ Elements.—The report under paragraph (1) shall include the following:
 
 "Not later than 180 days after the date of the enactment of this Act \[July 22, 2016\], the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the compliance by the Department of Veterans Affairs with the policy of the Department—
 
-&emsp;"(1) to conduct a review of each health care provider of the Department who transfers to another medical facility of the Department, resigns, retires, or is terminated to determine whether there are any concerns, complaints, or allegations of violations relating to the medical practice of the health care provider; and
+&emsp;"(1) to conduct a review of each health care provider of the Department who transfers to anothermedical facility of the Department, resigns, retires, or is terminated to determine whether there are any concerns, complaints, or allegations of violations relating to the medical practice of the health care provider; and
 
 &emsp;"(2) to take appropriate action with respect to any such concern, complaint, or allegation.
 
@@ -2936,7 +2936,7 @@ Eligible Veterans.—A veteran is an eligible veteran for purposes of this secti
 
 &emsp;"(2) the veteran—
 
-&emsp;&emsp;"(A) attempts, or has attempted, to schedule an appointment for the receipt of hospital care or medical services under chapter 17 of title 38, United States Code, but is unable to schedule an appointment within—
+&emsp;&emsp;"(A) attempts, or has attempted, to schedule an appointment for the receipt of hospital care ormedical services under chapter 17 of title 38, United States Code, but is unable to schedule an appointment within—
 
 &emsp;&emsp;&emsp;"(i) the wait-time goals of the Veterans Health Administration for the furnishing of such care or services; or
 
@@ -3288,7 +3288,7 @@ Final report.—Not later than 30 days after the date on which the Secretary det
 
 &emsp;&emsp;"(E) An assessment of the effect of furnishing care and services under this section on wait times for appointments for the receipt of hospital care and medical services from the Department.
 
-&emsp;&emsp;"(F) An assessment of the feasibility and advisability of continuing furnishing care and services under this section after the termination date specified in subsection (p).
+&emsp;&emsp;"(F) An assessment of the feasibility and advisability of continuing furnishing care and servicesunder this section after the termination date specified in subsection (p).
 
 "(r)
 
@@ -3350,7 +3350,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act \[
 
 "(a)
 
-In General.—The Secretary of Veterans Affairs shall, in consultation with Papa Ola Lokahi and suchother organizations involved in the delivery of health care to Native Hawaiians as the Secretary considers appropriate, enter into contracts or agreements with Native Hawaiian health care systems that are in receipt of funds from the Secretary of Health and Human Services pursuant to grants awarded or contracts entered into under section 6(a) of the Native Hawaiian Health Care Improvement Act (42 U.S.C. 11705(a)) for the reimbursement of direct care services provided to eligible veterans as specified in such contracts or agreements.
+In General.—The Secretary of Veterans Affairs shall, in consultation with Papa Ola Lokahi and such other organizations involved in the delivery of health care to Native Hawaiians as the Secretary considers appropriate, enter into contracts or agreements with Native Hawaiian health care systems that are in receipt of funds from the Secretary of Health and Human Services pursuant to grants awarded or contracts entered into under section 6(a) of the Native Hawaiian Health Care Improvement Act (42 U.S.C. 11705(a)) for the reimbursement of direct care services provided to eligible veterans as specified in such contracts or agreements.
 
 "(b)
 
@@ -3674,7 +3674,7 @@ Duties of Commission.—
 
 &emsp;"(1)
 
-Evaluation and assessment.—The Commission shall undertake a comprehensive evaluation andassessment of access to health care at the Department of Veterans Affairs.
+Evaluation and assessment.—The Commission shall undertake a comprehensive evaluation and assessment of access to health care at the Department of Veterans Affairs.
 
 &emsp;"(2)
 
@@ -4002,7 +4002,7 @@ Availability through department of veterans affairs homepage.—A link to the 'O
 
 &emsp;"(2)
 
-Information on location of residency training.—The Internet website of the Department that isaccessible to the public shall include under the link to the 'Our Doctors' health care providers database of the Department, or any successor data set, the name of the facility at which each licensed physician of the Department underwent residency training.
+Information on location of residency training.—The Internet website of the Department that is accessible to the public shall include under the link to the 'Our Doctors' health care providers database of the Department, or any successor data set, the name of the facility at which each licensed physician of the Department underwent residency training.
 
 &emsp;"(3)
 

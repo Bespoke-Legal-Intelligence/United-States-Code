@@ -10,7 +10,7 @@
 
 (ii) Not later than 15 calendar days after the date an agency of the Department of Agriculture receives a request for information made pursuant to clause (i), the agency shall provide the Secretary with the requested information.
 
-(iii) If, not later than 20 calendar days after the date a request is made pursuant to clause (i) with respect to an application, the Secretary has not received the information requested, the Secretary shall notify the applicant and the district office of the Farmers Home Administration, in writing, of the outstanding information.
+(iii) If, not later than 20 calendar days after the date a request is made pursuant to clause (i) with respect to an application, the Secretary has not received the information requested, theSecretary shall notify the applicant and the district office of the Farmers Home Administration, in writing, of the outstanding information.
 
 (iv) A county office shall notify the district office of the Farmers Home Administration of each application for an operating loan or loan guarantee under subchapter II that is pending more than 45 days after receipt, and the reasons the application is pending.
 
@@ -136,7 +136,7 @@ This chapter, referred to in subsecs. (a), (b)(1), (c), (f)(1)(B), and (g)(1), w
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

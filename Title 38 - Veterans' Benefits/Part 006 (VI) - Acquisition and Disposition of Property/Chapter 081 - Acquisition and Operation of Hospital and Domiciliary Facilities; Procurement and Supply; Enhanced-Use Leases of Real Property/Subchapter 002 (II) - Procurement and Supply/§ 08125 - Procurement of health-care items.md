@@ -32,7 +32,7 @@
 
 &emsp;(3) The term "emergency procurement" means a procurement necessary to meet an emergency need, affecting the health or safety of a person being furnished health-care services by the Department, for an item.
 
-(Added Pub. L. 100–322, title IV, §403(a)(1), May 20, 1988, 102 Stat. 543, §5025; amended Pub. L.100–687, div. B, title XV, §1507(b), (c), Nov. 18, 1988, 102 Stat. 4136, 4137; renumbered §8125, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 107–14, §8(a)(15), June 5, 2001, 115 Stat. 35; Pub. L. 113–188, title XVII, §1701, Nov. 26, 2014, 128 Stat. 2026.)
+(Added Pub. L. 100–322, title IV, §403(a)(1), May 20, 1988, 102 Stat. 543, §5025; amended Pub. L. 100–687, div. B, title XV, §1507(b), (c), Nov. 18, 1988, 102 Stat. 4136, 4137; renumbered §8125, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 107–14, §8(a)(15), June 5, 2001, 115 Stat. 35; Pub. L. 113–188, title XVII, §1701, Nov. 26, 2014, 128 Stat. 2026.)
 
 #### <b>Editorial Notes</b>
 

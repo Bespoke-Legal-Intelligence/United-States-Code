@@ -6,7 +6,7 @@ Notwithstanding any other provision of this subchapter, the provisions of this s
 
 #### (b) Character of distributions
 
-Amounts distributed by a charitable remainder annuity trust or by a charitable remainder unitrust shall be considered as having the following characteristics in the hands of a beneficiary to whom is paid the annuity described in subsection (d)(1)(A) or the payment described in subsection (d)(2)(A):
+Amounts distributed by a charitable remainder annuity trust or by a charitable remainderunitrust shall be considered as having the following characteristics in the hands of a beneficiary to whom is paid the annuity described in subsection (d)(1)(A) or the payment described in subsection (d)(2)(A):
 
 &emsp;(1) First, as amounts of income (other than gains, and amounts treated as gains, from the sale or other disposition of capital assets) includible in gross income to the extent of such income of the trust for the year and such undistributed income of the trust for prior years;
 
@@ -98,7 +98,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 #### (3) Qualified contingency
 
-&emsp;For purposes of this subsection, the term "qualified contingency" means any provisionof a trust which provides that, upon the happening of a contingency, the payments described in paragraph (1)(A) or (2)(A) of subsection (d) (as the case may be) will terminate not later than such payments would otherwise terminate under the trust.
+&emsp;For purposes of this subsection, the term "qualified contingency" means any provision of a trust which provides that, upon the happening of a contingency, the payments described in paragraph (1)(A) or (2)(A) of subsection (d) (as the case may be) will terminate not later than such payments would otherwise terminate under the trust.
 
 #### (g) Qualified gratuitous transfer of qualified employer securities
 

@@ -46,7 +46,7 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–703 effective only with respect to programs applicable to the crops planted for harvest in the calendar year 1964 or any subsequent year and the marketing years beginning in the calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as a note under section 1301 of this title.
+Amendment by Pub. L. 87–703 effective only with respect to programs applicable to the crops planted forharvest in the calendar year 1964 or any subsequent year and the marketing years beginning in the calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as a note under section 1301 of this title.
 
 #### Savings Provision
 

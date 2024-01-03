@@ -244,7 +244,7 @@ Appropriate committees of congress.—The term 'appropriate committees of Congre
 
 &emsp;&emsp;"(A) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Oversight and Reform of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives.
 
 &emsp;"(2)
 
@@ -284,7 +284,7 @@ Evaluation; Updates.—Not later than 180 days after the date of the enactment o
 
 "(b)
 
-New Partnerships.—Upon completion of the evaluation under subsection (a), the Secretary, in consultation with the Department of Labor, shall seek to enter into agreements with entities described in paragraphs (1) through (4) of subsection (a) that are locatednear military installations (as that term is defined in section 2687 of title 10, United States Code).
+New Partnerships.—Upon completion of the evaluation under subsection (a), the Secretary, in consultation with the Department of Labor, shall seek to enter into agreements with entities described in paragraphs (1) through (4) of subsection (a) that are located near military installations (as that term is defined in section 2687 of title 10, United States Code).
 
 "(c)
 

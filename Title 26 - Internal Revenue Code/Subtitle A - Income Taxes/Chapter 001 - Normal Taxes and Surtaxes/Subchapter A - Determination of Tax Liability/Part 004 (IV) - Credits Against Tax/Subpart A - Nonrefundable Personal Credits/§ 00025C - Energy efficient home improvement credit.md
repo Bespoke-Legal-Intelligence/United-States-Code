@@ -180,7 +180,7 @@ For purposes of this section—
 
 #### (B) Limits applied separately
 
-&emsp;&emsp;In the case of any expenditure described in subparagraph (A), the amount of the credit allowable under subsection (a) shall (subject to paragraph (1)) be computed separately with respect to the amount of the expenditure made for each dwelling unit.
+&emsp;&emsp;In the case of any expenditure described in subparagraph (A), the amount of the creditallowable under subsection (a) shall (subject to paragraph (1)) be computed separately with respect to the amount of the expenditure made for each dwelling unit.
 
 #### (3) Property financed by subsidized energy financing
 
@@ -188,7 +188,7 @@ For purposes of this section—
 
 #### (g) Basis adjustments
 
-For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in thebasis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
+For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 
 #### (h) Termination
 
@@ -238,9 +238,13 @@ This section shall not apply with respect to any property placed in service—
 
 &emsp;<i>For purposes of this subsection, the term "specified property" means any qualified energy property and any property described in subparagraph (B) or (C) of subsection (c)(3).</i>
 
-<i>See 2022 Amendment note below.</i>
+<i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (e)(2), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
 #### Amendments
 
@@ -450,7 +454,7 @@ Pub. L. 116–94, div. Q, title I, §123(c), Dec. 20, 2019, 133 Stat. 3231, prov
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–123, div. D, title I, §40401(b), Feb. 9, 2018, 132 Stat. 148, provided that: "The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2016."
+Pub. L. 115–123, div. D, title I, §40401(b), Feb. 9, 2018, 132 Stat. 148, provided that: "The amendment made bythis section \[amending this section\] shall apply to property placed in service after December 31, 2016."
 
 #### Effective Date of 2015 Amendment
 

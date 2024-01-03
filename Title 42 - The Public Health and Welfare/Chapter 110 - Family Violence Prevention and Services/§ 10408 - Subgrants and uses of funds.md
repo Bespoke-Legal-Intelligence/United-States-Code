@@ -8,7 +8,7 @@ A State that receives a grant under section 10406(a) of this title shall use gra
 
 #### (1) In general
 
-&emsp;Funds awarded to eligible entities under subsection (a) shall be used to provide shelter, supportive services, or prevention services to adult and youth victims of family violence, domestic violence, or dating violence, and their dependents, which may include—
+&emsp;Funds awarded to eligible entities under subsection (a) shall be used to provide shelter,supportive services, or prevention services to adult and youth victims of family violence, domestic violence, or dating violence, and their dependents, which may include—
 
 &emsp;&emsp;(A) provision, on a regular basis, of immediate shelter and related supportive services to adult and youth victims of family violence, domestic violence, or dating violence, and their dependents, including paying for the operating and administrative expenses of the facilities for such shelter;
 
@@ -70,7 +70,7 @@ To be eligible to receive a subgrant from a State under this section, an entity 
 
 #### Prior Provisions
 
-A prior section 10408, Pub. L. 98–457, title III, §309, Oct. 9, 1984, 98 Stat. 1762; Pub. L. 102–295, title III,§311(b), May 28, 1992, 106 Stat. 203; Pub. L. 103–322, title IV, §40272(a), Sept. 13, 1994, 108 Stat. 1937; Pub. L. 108–36, title IV, §405, June 25, 2003, 117 Stat. 826, which related to definitions, was renumbered section 320 of Pub. L. 98–457 by Pub. L. 108–36, title IV, §415(5), June 25, 2003, 117 Stat. 830, and transferred to section 10421 of this title, prior to the general amendment of this chapter by Pub. L. 111–320.
+A prior section 10408, Pub. L. 98–457, title III, §309, Oct. 9, 1984, 98 Stat. 1762; Pub. L. 102–295, title III, §311(b), May 28, 1992, 106 Stat. 203; Pub. L. 103–322, title IV, §40272(a), Sept. 13, 1994, 108 Stat. 1937; Pub. L. 108–36, title IV, §405, June 25, 2003, 117 Stat. 826, which related to definitions, was renumbered section 320 of Pub. L. 98–457 by Pub. L. 108–36, title IV, §415(5), June 25, 2003, 117 Stat. 830, and transferred to section 10421 of this title, prior to the general amendment of this chapter by Pub. L. 111–320.
 
 A prior section 308 of Pub. L. 98–457 was classified to section 10407 of this title prior to the general amendment of this chapter by Pub. L. 111–320.
 

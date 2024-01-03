@@ -12,7 +12,7 @@
 
 #### (3) Limitation
 
-&emsp;The Attorney General shall not establish a national standard under this section that would impose substantial additional costs compared to the costs presently expended by Federal, State, and local prison authorities. The Attorney General may, however, provide a list of improvements for consideration by correctional facilities.
+&emsp;The Attorney General shall not establish a national standard under this section that would impose substantial additional costs compared to the costs presently expended by Federal, State, and local prison authorities. The Attorney General may, however, provide alist of improvements for consideration by correctional facilities.
 
 #### (4) Transmission to States
 
@@ -202,7 +202,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (6) Implementation
 
-&emsp;The Attorney General shall establish procedures to implement this subsection, includingprocedures for effectively applying this subsection to discretionary grant programs.
+&emsp;The Attorney General shall establish procedures to implement this subsection, including procedures for effectively applying this subsection to discretionary grant programs.
 
 #### (7) Effective date
 
@@ -238,7 +238,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (ii) Notification
 
-&emsp;&emsp;&emsp;In the case that an auditor is decertified, the PREA Management Office shall inform each facility or agency at which the auditor performed an audit during the relevant 3-year audit cycle, and may recommend that the agency repeat any affected audits, if appropriate.
+&emsp;&emsp;&emsp;In the case that an auditor is decertified, the PREA Management Office shall inform each facility or agency at which the auditor performed an audit during the relevant 3-year audit cycle, and may recommendthat the agency repeat any affected audits, if appropriate.
 
 #### (C) Audit assignments
 

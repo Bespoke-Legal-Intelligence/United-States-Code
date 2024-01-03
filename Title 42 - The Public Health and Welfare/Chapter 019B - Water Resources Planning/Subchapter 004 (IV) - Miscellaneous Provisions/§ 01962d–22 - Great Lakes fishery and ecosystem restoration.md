@@ -104,7 +104,7 @@ No activity under this section shall affect the date of completion of any other 
 
 #### (A) Credit for land, easements, and rights-of-way
 
-&emsp;&emsp;The Secretary shall credit the non-Federal interest for the value of any land, easement,right-of-way, dredged material disposal area, or relocation provided for carrying out a project under subsection (c)(3).
+&emsp;&emsp;The Secretary shall credit the non-Federal interest for the value of any land, easement, right-of-way, dredged material disposal area, or relocation provided for carrying out a project under subsection (c)(3).
 
 #### (B) Form
 
@@ -136,7 +136,7 @@ Section was enacted as part of the Water Resources Development Act of 2000, and 
 
 Subsec. (g). Pub. L. 114–322, §1123, struck out subsec. (g) which authorized appropriations for subsec. (c)(1) to (3).
 
-<b>2007</b>—Subsec. (c)(2) to (4). Pub. L. 110–114, §5011(a), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted "paragraph (3)" for "paragraph (2)" in subpar. (A) of par. (4).
+<b>2007</b>—Subsec. (c)(2) to (4). Pub. L. 110–114, §5011(a), added par. (2), redesignated former pars. (2) and (3) as\(3) and (4), respectively, and substituted "paragraph (3)" for "paragraph (2)" in subpar. (A) of par. (4).
 
 Subsec. (f)(2). Pub. L. 110–114, §5011(b)(1), substituted "Except for reconnaissance studies, the Federal share" for "The Federal share" and "(3) or (4)" for "(2) or (3)".
 

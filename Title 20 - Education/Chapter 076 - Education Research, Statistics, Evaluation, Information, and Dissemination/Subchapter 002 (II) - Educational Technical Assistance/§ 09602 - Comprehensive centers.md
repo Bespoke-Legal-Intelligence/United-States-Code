@@ -36,11 +36,11 @@
 
 #### (2) Plan
 
-&emsp;Each application submitted under paragraph (1) shall contain a 5-year plan for carrying outthe activities described in this section in a manner that addresses the priorities established under section 9606 of this title and addresses the needs of all States (and to the extent practicable, of local educational agencies) within the region to be served by the comprehensive center, on an ongoing basis.
+&emsp;Each application submitted under paragraph (1) shall contain a 5-year plan for carrying out the activities described in this section in a manner that addresses the priorities established under section 9606 of this title and addresses the needs of all States (and to the extent practicable, of local educational agencies) within the region to be served by the comprehensive center, on an ongoing basis.
 
 #### (d) Allocation
 
-Each comprehensive center established under this section shall allocate such center's resources to and within each State in a manner which reflects the need for assistance, taking into account such factors as the proportion of economically disadvantaged students, the increased cost burden of service delivery in areas of sparse populations, and any special initiatives being undertaken by State, intermediate, local educational agencies, or Bureau-funded schools, as appropriate, which may require special assistance from the center.
+Each comprehensive center established under this section shall allocate such center's resources to and within each State in a manner which reflects the need for assistance, taking into account such factors as the proportion of economically disadvantaged students, the increased cost burden of service delivery in areas of sparse populations, and any special initiatives being undertaken by State, intermediate, localeducational agencies, or Bureau-funded schools, as appropriate, which may require special assistance from the center.
 
 #### (e) Scope of work
 

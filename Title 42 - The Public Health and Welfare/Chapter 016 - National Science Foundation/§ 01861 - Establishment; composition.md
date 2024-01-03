@@ -38,7 +38,7 @@ Pub. L. 114–124, §1, Feb. 18, 2016, 130 Stat. 120, provided that: "This Act \
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–59, §1, Oct. 7, 2015, 129 Stat. 540, provided that: "This Act \[enacting section 1862q of this title,amending sections 1862n–1 and 1862n–1a of this title, and enacting provisions set out as a note under section 6621 of this title\] may be cited as the 'STEM Education Act of 2015'."
+Pub. L. 114–59, §1, Oct. 7, 2015, 129 Stat. 540, provided that: "This Act \[enacting section 1862q of this title, amending sections 1862n–1 and 1862n–1a of this title, and enacting provisions set out as a note under section 6621 of this title\] may be cited as the 'STEM Education Act of 2015'."
 
 #### Short Title of 2011 Amendment
 
@@ -60,7 +60,7 @@ Pub. L. 102–476, §1, Oct. 23, 1992, 106 Stat. 2297, provided that: "This Act 
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–570, §1, Oct. 31, 1988, 102 Stat. 2865, provided that: "This Act \[enacting sections 1862a to 1862g, 1870a, and 1881b of this title, amending sections 1863, 1873, 1874, and 1885c of this title and sections 3011 to 3013 of Title 20, Education, repealing former sections 1862a and 1862b of this title, enacting provisions set out as notes under sections 1861, 1875, and 7704 of this title and section 3911 of Title 20, and repealing provisions set out as a note under section 1861 of this title\] may be cited as the 'National Science Foundation Authorization Act of 1988'."
+Pub. L. 100–570, §1, Oct. 31, 1988, 102 Stat. 2865, provided that: "This Act \[enacting sections 1862a to 1862g,1870a, and 1881b of this title, amending sections 1863, 1873, 1874, and 1885c of this title and sections 3011 to 3013 of Title 20, Education, repealing former sections 1862a and 1862b of this title, enacting provisions set out as notes under sections 1861, 1875, and 7704 of this title and section 3911 of Title 20, and repealing provisions set out as a note under section 1861 of this title\] may be cited as the 'National Science Foundation Authorization Act of 1988'."
 
 Pub. L. 100–570, title II, §201, Oct. 31, 1988, 102 Stat. 2873, provided that: "This title \[enacting sections 1862a to 1862d of this title, repealing former sections 1862a and 1862b of this title, and repealing provisions set out as a note under section 1861 of this title\] may be cited as the 'Academic Research Facilities Modernization Act of 1988'."
 
@@ -100,7 +100,7 @@ Amendments by Pub. L. 90–407, July 18, 1868, 82 Stat. 360, intended to continu
 
 #### Transfer of Functions
 
-Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections1 and 2 of Reorg. Plan No. 2 of 1962, abolished and all functions vested by law in Office of Science and Technology or Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
+Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2 of 1962, abolished and all functions vested by law in Office of Science and Technology or Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1962</b>
 
@@ -124,7 +124,7 @@ Sec. 4. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472
 
 #### Section 21. Executive Committee
 
-(a) There is hereby established the Executive Committee of the National Science Board, hereafter in this Part referred to as the Executive Committee, which shall be composed of five voting members. Four of the members shall be elected as hereinafter provided. The Director provided for in section 22 of this reorganization plan, ex officio, shall be the fifth member and the chairman of the Executive Committee.
+(a) There is hereby established the Executive Committee of the National Science Board, hereafter in thisPart referred to as the Executive Committee, which shall be composed of five voting members. Four of the members shall be elected as hereinafter provided. The Director provided for in section 22 of this reorganization plan, ex officio, shall be the fifth member and the chairman of the Executive Committee.
 
 (b) At its annual meeting held in 1964 and at each of its succeeding annual meetings the National Science Board, hereafter in this Part referred to as the Board, shall elect two of its members as members of the Executive Committee, and the Executive Committee members so elected shall hold office for two years from the date of their election. Any person who has been a member of the Executive Committee (established by this reorganization plan) for six consecutive years shall thereafter be ineligible for service as a member thereof during the two-year period following the expiration of such sixth year. For the purposes of this subsection, the period between any two consecutive annual meetings of the Board shall be deemed to be one year.
 
@@ -156,7 +156,7 @@ Sec. 4. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472
 
 (2) The functions of the Director of the National Science Foundation provided for in sections 4(a) and 5(a) of the National Science Foundation Act of 1950 (42 U.S.C. 1863(a), 1864(a)) with respect to serving as a nonvoting member of the Board and his functions with respect to serving as a nonvoting member of the Executive Committee provided for in section 6(b) of that Act (42 U.S.C. 1865(b)).
 
-(3) So much of the functions conferred upon divisional committees by the provisions of section 8(d) ofthe National Science Foundation Act of 1950 (42 U.S.C. 1867(d)) as consists of making recommendations to, and advising and consulting with, the Board.
+(3) So much of the functions conferred upon divisional committees by the provisions of section 8(d) of the National Science Foundation Act of 1950 (42 U.S.C. 1867(d)) as consists of making recommendations to, and advising and consulting with, the Board.
 
 (c) The provisions of sections 23(a)(1) and 23(b)(1) hereof shall become effective on the date of the first meeting of the Board held after the effective date of the other provisions of this reorganization plan.
 
@@ -210,7 +210,7 @@ The ever-growing significance and complexity of Federal programs in science and 
 
 &emsp;(4) The Federal Council for Science and Technology, composed of policy officials of the principal agencies engaged in scientific and technical activities, was established in 1959.
 
-The National Science Foundation has proved to be an effective instrument for administering sizable programs in support of basic research and education in the sciences and has set an example for other agencies through the administration of its own programs. However, the Foundation, being at the same organizational level as other agencies, cannot satisfactorily coordinate Federal science policies or evaluate programs ofother agencies. Science policies, transcending agency lines, need to be coordinated and shaped at the level of the Executive Office of the President drawing upon many resources both within and outside of Government. Similarly, staff efforts at that higher level are required for the evaluation of Government programs in science and technology.
+The National Science Foundation has proved to be an effective instrument for administering sizable programs in support of basic research and education in the sciences and has set an example for other agencies through the administration of its own programs. However, the Foundation, being at the same organizational level as other agencies, cannot satisfactorily coordinate Federal science policies or evaluate programs of other agencies. Science policies, transcending agency lines, need to be coordinated and shaped at the level of the Executive Office of the President drawing upon many resources both within and outside of Government. Similarly, staff efforts at that higher level are required for the evaluation of Government programs in science and technology.
 
 Thus, the further steps contained in part I of the reorganization plan are now needed in order to meet most effectively new and expanding requirements brought about by the rapid and far-reaching growth of the Government's research and development programs. These requirements call for the further strengthening of science organization at the Presidential level and for the adjustment of the Foundation's role to reflect changed conditions. The Foundation will continue to originate policy proposals and recommendations concerning the support of basic research and education in the sciences, and the new Office will look to the Foundation to provide studies and information on which sound national policies in science and technology can be based.
 
@@ -224,7 +224,7 @@ Part II of the reorganization plan provides for certain reorganizations within t
 
 &emsp;(3) Committees advisory to each of the divisions of the Foundation will make their recommendations to the Director only rather than to both the Director and the National Science Board.
 
-After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 2 of 1962 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
+After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 2 of 1962 is necessary to accomplish one ormore of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
 
 I have found and hereby declare that it is necessary to include in the reorganization plan, by reason of reorganizations made thereby, provisions for the appointment and compensation of the Director and Deputy Director of the Office of Science and Technology and of the Director of the National Science Foundation. The rate of compensation fixed for each of these officers is that which I have found to prevail in respect of comparable officers in the executive branch of the Government.
 

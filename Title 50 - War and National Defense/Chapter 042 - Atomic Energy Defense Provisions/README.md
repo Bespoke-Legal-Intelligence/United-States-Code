@@ -285,6 +285,7 @@
 | [2793\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20B%20-%20Research%20and%20Development/%C2%A7%2002793%20-%20Report%20on%20use%20of%20funds%20for%20certain%20research%20and%20development%20purposes.md) | Report on use of funds for certain research and development purposes. |
 | [2794\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20B%20-%20Research%20and%20Development/%C2%A7%2002794%20-%20Critical%20technology%20partnerships%20and%20cooperative%20research%20and%20development%20centers.md) | Critical technology partnerships and cooperative research and development centers. |
 | [2795\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20B%20-%20Research%20and%20Development/%C2%A7%2002795%20-%20University-based%20research%20collaboration%20program.md) | University-based research collaboration program. |
+| [2796\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20B%20-%20Research%20and%20Development/%C2%A7%2002796%20-%20Limitation%20on%20establishing%20an%20enduring%20bioassurance%20program%20within%20the%20Administration.md) | Limitation on establishing an enduring bioassurance program within the Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

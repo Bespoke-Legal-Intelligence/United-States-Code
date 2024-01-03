@@ -42,7 +42,7 @@ For purposes of this section, the term "integrated entry and exit data system" m
 
 #### (1) Airports and seaports
 
-&emsp;Not later than December 31, 2003, the Attorney General shall implement the integrated entry and exit data system using available alien arrival and departure data described insubsection (b)(1) pertaining to aliens arriving in, or departing from, the United States at an airport or seaport. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at an airport or seaport, are entered into the system and can be accessed by immigration officers at other airports and seaports.
+&emsp;Not later than December 31, 2003, the Attorney General shall implement the integrated entry and exit data system using available alien arrival and departure data described in subsection (b)(1) pertaining to aliens arriving in, or departing from, the United States at an airport or seaport. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at an airport or seaport, are entered into the system and can be accessed by immigration officers at other airports and seaports.
 
 #### (2) High-traffic land border ports of entry
 
@@ -112,7 +112,7 @@ Section was enacted as part of the Illegal Immigration Reform and Immigrant Resp
 
 System.—Not later than October 15, 1998 (and not later than March 30, 2001, in the case of land border ports of entry and sea ports), the Attorney General shall develop an automated entry and exit control system that will—
 
-&emsp;"(1) collect a record of departure for every alien departing the United States and match the records ofdeparture with the record of the alien's arrival in the United States;
+&emsp;"(1) collect a record of departure for every alien departing the United States and match the records of departure with the record of the alien's arrival in the United States;
 
 &emsp;"(2) enable the Attorney General to identify, through on-line searching procedures, lawfully admitted nonimmigrants who remain in the United States beyond the period authorized by the Attorney General; and
 
@@ -174,7 +174,7 @@ Sense of congress.—In light of the terrorist attacks perpetrated against the U
 
 &emsp;"(2)
 
-Authorization of appropriations.—There is authorized to be appropriated such sums as may be necessary to fully implement the system described in paragraph (1)(A).
+Authorization of appropriations.—There is authorized to be appropriated such sums as may benecessary to fully implement the system described in paragraph (1)(A).
 
 "(b)
 

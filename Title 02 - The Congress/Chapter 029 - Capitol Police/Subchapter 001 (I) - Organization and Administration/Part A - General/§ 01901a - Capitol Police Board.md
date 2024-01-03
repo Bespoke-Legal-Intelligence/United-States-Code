@@ -4,7 +4,7 @@
 
 #### (1) Purpose
 
-&emsp;The purpose of the Capitol Police Board is to oversee and support the Capitol Police in itsmission and to advance coordination between the Capitol Police and the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate, in their law enforcement capacities, and the Congress. Consistent with this purpose, the Capitol Police Board shall establish general goals and objectives covering its major functions and operations to improve the efficiency and effectiveness of its operations.
+&emsp;The purpose of the Capitol Police Board is to oversee and support the Capitol Police in its mission and to advance coordination between the Capitol Police and the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate, in their law enforcement capacities, and the Congress. Consistent with this purpose, the Capitol Police Board shall establish general goals and objectives covering its major functions and operations to improve the efficiency and effectiveness of its operations.
 
 #### (2) Composition
 

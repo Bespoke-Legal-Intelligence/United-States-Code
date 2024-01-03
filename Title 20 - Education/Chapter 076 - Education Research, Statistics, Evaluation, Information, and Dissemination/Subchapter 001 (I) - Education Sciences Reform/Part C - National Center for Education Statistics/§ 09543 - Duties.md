@@ -2,7 +2,7 @@
 
 #### (a) General duties
 
-The Statistics Center shall collect, report, analyze, and disseminate statistical data relatedto education in the United States and in other nations, including—
+The Statistics Center shall collect, report, analyze, and disseminate statistical data related to education in the United States and in other nations, including—
 
 &emsp;(1) collecting, acquiring, compiling (where appropriate, on a State-by-State basis), and disseminating full and complete statistics (disaggregated by the population characteristics described in paragraph (3)) on the condition and progress of education, at the preschool, elementary, secondary, postsecondary, and adult levels in the United States, including data on—
 

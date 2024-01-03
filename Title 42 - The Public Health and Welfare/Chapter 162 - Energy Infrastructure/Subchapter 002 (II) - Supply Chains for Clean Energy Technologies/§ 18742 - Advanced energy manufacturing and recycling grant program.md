@@ -120,7 +120,7 @@ Not later than 180 days after November 15, 2021, the Secretary shall establish a
 
 &emsp;&emsp;&emsp;&emsp;(I) generated or stored energy; or
 
-&emsp;&emsp;&emsp;&emsp;(II) measured reduction in energy consumption or greenhouse gas emission (based on costs of the full supply chain); and
+&emsp;&emsp;&emsp;&emsp;(II) measured reduction in energy consumption or greenhouse gas emission\(based on costs of the full supply chain); and
 
 &emsp;&emsp;&emsp;(vi) have a shorter project time.
 
@@ -178,5 +178,5 @@ There is authorized to be appropriated to the Secretary to carry out the Program
 
 #### Wage Rate Requirements
 
-For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction,alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 

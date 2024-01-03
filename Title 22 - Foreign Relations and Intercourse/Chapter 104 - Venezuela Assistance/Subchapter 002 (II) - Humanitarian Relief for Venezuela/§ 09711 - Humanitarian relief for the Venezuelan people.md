@@ -48,11 +48,11 @@ It is the sense of Congress that—
 
 #### (c) Humanitarian assistance strategy update
 
-Not later than 180 days after December 20, 2019, the Secretary of State, in coordination with the Administrator of the United StatesAgency for International Development, shall submit, to the appropriate congressional committees, an update to the Venezuela humanitarian assistance strategy described in the conference report accompanying the Consolidated Appropriations Act (Public Law 116–6), to cover a 2-year period and include—
+Not later than 180 days after December 20, 2019, the Secretary of State, in coordination with the Administrator of the United States Agency for International Development, shall submit, to the appropriate congressional committees, an update to the Venezuela humanitarian assistance strategy described in the conference report accompanying the Consolidated Appropriations Act (Public Law 116–6), to cover a 2-year period and include—
 
 &emsp;(1) a description of the United States humanitarian assistance provided under this section;
 
-&emsp;(2) a description of United States diplomatic efforts to ensure support from international donors, including regional partners in Latin America and the Caribbean, for the provision of humanitarian assistance to the people of Venezuela;
+&emsp;(2) a description of United States diplomatic efforts to ensure support from international donors, including regional partners in Latin America and the Caribbean, for the provisionof humanitarian assistance to the people of Venezuela;
 
 &emsp;(3) the identification of governments that are willing to provide financial and technical assistance for the provision of such humanitarian assistance to the people of Venezuela and a description of such assistance; and
 

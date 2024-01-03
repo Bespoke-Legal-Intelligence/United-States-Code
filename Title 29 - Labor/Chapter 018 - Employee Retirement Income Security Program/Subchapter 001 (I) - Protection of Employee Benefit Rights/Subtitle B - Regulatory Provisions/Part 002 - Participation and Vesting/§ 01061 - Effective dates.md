@@ -40,7 +40,7 @@
 
 (f) The preceding provisions of this section shall not apply with respect to amendments made to this part in provisions enacted after September 2, 1974.
 
-(Pub. L. 93–406, title I, §211, Sept. 2, 1974, 88 Stat. 867; Pub. L. 99–272, title XI, §11015(a)(1)(B), Apr.7, 1986, 100 Stat. 265; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(h)(2), Dec. 19, 1989, 103 Stat. 2445, 2451.)
+(Pub. L. 93–406, title I, §211, Sept. 2, 1974, 88 Stat. 867; Pub. L. 99–272, title XI, §11015(a)(1)(B), Apr. 7, 1986, 100 Stat. 265; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(h)(2), Dec. 19, 1989, 103 Stat. 2445, 2451.)
 
 #### <b>Editorial Notes</b>
 

@@ -92,7 +92,7 @@ The Secretary may make guarantees for the following gasification projects:
 
 #### (2) Industrial gasification projects
 
-&emsp;Facilities that gasify coal, biomass, or petroleum coke in any combination to produce synthesis gas for use as a fuel or feedstock and for which electricity accounts for less than 65 percent of the useful energy output of the facility.
+&emsp;Facilities that gasify coal, biomass, or petroleum coke in any combination to producesynthesis gas for use as a fuel or feedstock and for which electricity accounts for less than 65 percent of the useful energy output of the facility.
 
 #### (3) Petroleum coke gasification projects
 
@@ -136,7 +136,7 @@ Subsec. (a)(2). Pub. L. 116–260, §9010(b)(1)(B), inserted ", including proje
 
 Subsec. (b)(4). Pub. L. 116–260, §9010(b)(2)(A), inserted ", including manufacturing of nuclear supply components for advanced nuclear reactors" after "facilities".
 
-Subsec. (b)(5). Pub. L. 116–260, §9010(b)(2)(B), amended par. (5) generally. Prior to amendment, par. (5) read asfollows: "Carbon capture and sequestration practices and technologies, including agricultural and forestry practices that store and sequester carbon."
+Subsec. (b)(5). Pub. L. 116–260, §9010(b)(2)(B), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "Carbon capture and sequestration practices and technologies, including agricultural and forestry practices that store and sequester carbon."
 
 Subsec. (b)(11), (12). Pub. L. 116–260, §9010(b)(2)(C), added pars. (11) and (12).
 

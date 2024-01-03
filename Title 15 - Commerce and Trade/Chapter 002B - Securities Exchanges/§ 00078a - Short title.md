@@ -26,7 +26,7 @@ Pub. L. 114–284, §1, Dec. 16, 2016, 130 Stat. 1447, provided that: "This Act 
 
 #### Short Title of 2012 Amendment
 
-Pub. L. 112–106, §1, Apr. 5, 2012, 126 Stat. 306, provided that: "This Act \[enacting section 77d–1 of this title, amending sections 77b, 77c, 77d, 77e to 77g, 77r, 78c, 78k–1, 78l, 78m, 78n, 78n–1, 78o, 78o–6, 7213, and 7262 of this title, enacting provisions set out as notes under sections 77a, 77b, 77d, 77g, 77r, 78c, 78d, 78l, and 78o–6 of this title, and amending provisions set out as a note under section 78l of this title\] may be cited as the 'Jumpstart Our Business Startups Act'."
+Pub. L. 112–106, §1, Apr. 5, 2012, 126 Stat. 306, provided that: "This Act \[enacting section 77d–1 of this title, amending sections 77b, 77c, 77d, 77e to 77g, 77r, 78c, 78k–1, 78l, 78m, 78n, 78n–1, 78o, 78o–6, 7213, and 7262 of this title, enacting provisions set out as notes under sections 77a, 77b, 77d, 77g, 77r, 78c, 78d, 78l, and 78o–6 ofthis title, and amending provisions set out as a note under section 78l of this title\] may be cited as the 'Jumpstart Our Business Startups Act'."
 
 #### Short Title of 2010 Amendment
 
@@ -84,7 +84,7 @@ Pub. L. 101–550, title I, §101, Nov. 15, 1990, 104 Stat. 2713, provided that:
 
 Pub. L. 101–550, title II, §201, Nov. 15, 1990, 104 Stat. 2714, provided that: "This title \[amending sections 78c, 78d, 78o, 78o–4, 78o–5, 78q–1, 78x, 80a–2, 80a–9, 80a–44, 80b–2, 80b–3, and 80b–10 of this title\] may be cited as the 'International Securities Enforcement Cooperation Act of 1990'."
 
-Pub. L. 101–550, title III, §301, Nov. 15, 1990, 104 Stat. 2721, provided that: "This title \[amending section 78n of this title and enacting provisions set out as a note under section 78n of this title\] may be cited as the 'Shareholder Communications Improvement Act of 1990'."
+Pub. L. 101–550, title III, §301, Nov. 15, 1990, 104 Stat. 2721, provided that: "This title \[amending section 78n of this title and enacting provisions set out as a noteunder section 78n of this title\] may be cited as the 'Shareholder Communications Improvement Act of 1990'."
 
 Pub. L. 101–432, §1, Oct. 16, 1990, 104 Stat. 963, provided that: "This Act \[enacting section 1831l of Title 12, Banks and Banking, amending sections 78i, 78l, 78m, 78o–5, 78q, 78q–1, and 78y of this title, and enacting provisions set out as notes under sections 78b and 78q–1 of this title\] may be cited as the 'Market Reform Act of 1990'."
 
@@ -96,7 +96,7 @@ Pub. L. 101–429, title V, §501, Oct. 15, 1990, 104 Stat. 951, provided that: 
 
 Pub. L. 100–704, §1, Nov. 19, 1988, 102 Stat. 4677, provided that: "This Act \[enacting sections 78t–1, 78u–1, and 80b–4a of this title, amending sections 78c, 78o, 78u, 78ff, and 78kk of this title, and enacting provisions set out as notes under sections 78b, 78o, and 78u–1 of this title\] may be cited as the 'Insider Trading and Securities Fraud Enforcement Act of 1988'."
 
-Pub. L. 100–418, title V, §5001, Aug. 23, 1988, 102 Stat. 1415, provided that: "This part \[part I (§§5001–5003) ofsubtitle A of title I of Pub. L. 100–418, amending sections 78m, 78dd–1, 78dd–2, and 78ff of this title and enacting provisions set out as a note under section 78dd–1 of this title\] may be cited as the 'Foreign Corrupt Practices Act Amendments of 1988'."
+Pub. L. 100–418, title V, §5001, Aug. 23, 1988, 102 Stat. 1415, provided that: "This part \[part I (§§5001–5003) of subtitle A of title I of Pub. L. 100–418, amending sections 78m, 78dd–1, 78dd–2, and 78ff of this title and enacting provisions set out as a note under section 78dd–1 of this title\] may be cited as the 'Foreign Corrupt Practices Act Amendments of 1988'."
 
 #### Short Title of 1987 Amendment
 

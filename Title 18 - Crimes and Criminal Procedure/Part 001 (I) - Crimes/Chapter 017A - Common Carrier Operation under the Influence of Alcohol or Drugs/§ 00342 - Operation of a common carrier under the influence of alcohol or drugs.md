@@ -1,6 +1,6 @@
 ### §342. Operation of a common carrier under the influence of alcohol or drugs
 
-Whoever operates or directs the operation of a common carrier while under the influence of alcohol or any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)), shall be imprisoned not more than fifteen years or fined under this title, or both.
+Whoever operates or directs the operation of a common carrier while under the influence of alcohol or any controlled substance (as defined in section 102 of the Controlled Substances Act (21U.S.C. 802)), shall be imprisoned not more than fifteen years or fined under this title, or both.
 
 (Added Pub. L. 99–570, title I, §1971(a), Oct. 27, 1986, 100 Stat. 3207–59; amended Pub. L. 100–690, title VI, §§6473(a), (b), 6482(b), Nov. 18, 1988, 102 Stat. 4379, 4382.)
 

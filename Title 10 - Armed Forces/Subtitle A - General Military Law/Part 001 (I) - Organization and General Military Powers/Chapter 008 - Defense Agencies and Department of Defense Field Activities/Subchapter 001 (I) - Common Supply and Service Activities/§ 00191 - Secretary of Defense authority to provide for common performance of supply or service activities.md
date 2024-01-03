@@ -28,7 +28,7 @@ A prior section 191 was renumbered section 202 of this title and subsequently re
 
 #### Mission Management Pilot Program
 
-Pub. L. 117–81, div. A, title VIII, §871, Dec. 27, 2021, 135 Stat. 1855, provided that:
+Pub. L. 117–81, div. A, title VIII, §871, Dec. 27, 2021, 135 Stat. 1855, as amended by Pub. L. 118–31, div. A, title VIII, §871, Dec. 22, 2023, 137 Stat. 349, provided that:
 
 "(a)
 
@@ -40,7 +40,15 @@ Missions Selection.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (3), the Deputy Secretary of Defense shall select missions with respect to which to carry out the pilot program.
+In general.—
+
+&emsp;&emsp;"(A)
+
+Selection.—Except as provided in paragraph (3), the Deputy Secretary of Defense shall select missions with respect to which to carry out the pilot program.
+
+&emsp;&emsp;"(B)
+
+Delegation of oversight and management.—The Deputy Secretary of Defense may delegate to one or more mission managers the responsibility to oversee the selected missions and provide mission management.
 
 &emsp;"(2)
 
@@ -70,6 +78,10 @@ Responsibility.—The mission selected under subparagraph (A) shall be establish
 
 Mission selection approval.—The mission selected by the Director of the Strategic Capabilities Office under subparagraph (A) shall be subject to the approval of the Technology Cross-Functional Team of the Strategic Capabilities Office that is chaired by the Under Secretary of Defense for Research and Engineering.
 
+&emsp;"(4)
+
+Identification of funding.—For each mission selected under paragraph (1), the Deputy Secretary of Defense shall identify funding sources in detail in defense budget materials submitted to Congress pursuant to section 1105 of title 31, United States Code, for the first year for which the selected mission is intended to be carried out. Such materials shall also include a description of each such selected mission and the proposed solution to achieve the goals of such mission.
+
 "(c)
 
 Mission Managers.—
@@ -94,9 +106,11 @@ Responsibilities.—With respect to each mission, the relevant mission manager s
 
 &emsp;&emsp;"(D) conduct research, development, test, evaluation, and transition support activities with respect to the delivery of the solutions described in subparagraph (B);
 
-&emsp;&emsp;"(E) seek to integrate existing, emerging, and new capabilities available to the Department of Defense in the development of the solutions described in subparagraph (B), including by incenting and working with program managers of a covered Armed Force; and
+&emsp;&emsp;"(E) seek to integrate existing, emerging, and new capabilities available to the Department of Defense in the development of the solutions described in subparagraph (B), including by incenting and working with program managers of a covered Armed Force;
 
-&emsp;&emsp;"(F) provide to the Deputy Secretary of Defense mission management activity updates and reporting on the use of funds under the pilot program with respect to such mission.
+&emsp;&emsp;"(F) assist the Deputy Secretary of Defense in the identification of funding that could contribute to the mission through existing authorized methods to realign, reprogram, or transfer funds; and
+
+&emsp;&emsp;"(G) provide to the Deputy Secretary of Defense mission management activity updates and reporting on the use of funds under the pilot program with respect to such mission.
 
 &emsp;"(3)
 
@@ -140,7 +154,7 @@ Semiannual briefing.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than July 1, 2022, and every six months thereafter until the date that is five years after the date of the enactment of this Act, the mission manager shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the progress of the pilot program with respect to each mission selected under subsection (b), the anticipated mission outcomes, and the funds used to carry out the pilot program with respect to such mission.
+In general.—Not later than July 1, 2022, and annually thereafter until September 30, 2028, the mission manager shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the progress of the pilot program with respect to each mission selected under subsection (b), the anticipated mission outcomes, and the funds used to carry out the pilot program with respect to such mission.
 
 &emsp;&emsp;"(B)
 
@@ -184,7 +198,7 @@ Transition.—Beginning in fiscal year 2025, the Deputy Secretary of Defense may
 
 "(h)
 
-Termination Date.—The pilot program shall terminate on the date that is five years after the date of the enactment of this Act.
+Termination Date.—The pilot program shall terminate on September 30, 2028.
 
 "(i)
 

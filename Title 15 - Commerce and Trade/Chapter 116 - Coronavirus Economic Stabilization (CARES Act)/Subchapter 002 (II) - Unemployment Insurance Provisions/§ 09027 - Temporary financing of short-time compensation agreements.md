@@ -20,11 +20,11 @@
 
 #### (A) General payment limitations
 
-&emsp;&emsp;A short-time compensation plan approved by a State shall not permit the payment of short-time compensation to an individual by the State during a benefit year in excess of 26 times the amount of regular compensation (including dependents' allowances) under the State law payable to such individual for a week of total unemployment.
+&emsp;&emsp;A short-time compensation plan approved by a State shall not permit the payment ofshort-time compensation to an individual by the State during a benefit year in excess of 26 times the amount of regular compensation (including dependents' allowances) under the State law payable to such individual for a week of total unemployment.
 
 #### (B) Employer limitations
 
-&emsp;&emsp;A short-time compensation plan approved by a State shall not provide payments to anindividual if such individual is employed by the participating employer on a seasonal, temporary, or intermittent basis.
+&emsp;&emsp;A short-time compensation plan approved by a State shall not provide payments to an individual if such individual is employed by the participating employer on a seasonal, temporary, or intermittent basis.
 
 #### (3) Employer payment of costs
 

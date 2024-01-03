@@ -1,6 +1,6 @@
 ### §551. Establishment of Department; Secretary; seal
 
-There shall be an executive department in the Government to be called the Department of Labor, with a Secretary of Labor, who shall be the head thereof, to be appointed by the President, by and with the advice and consent of the Senate, and whose tenure of office shall be like that of the heads of the other executive departments. The provisions of title 4 of the Revised Statutes, including all amendments thereto, shall be applicable to said department. The purpose of the Department of Labor shall be to foster, promote, and develop the welfare of the wage earners of the United States, to improve their working conditions, and to advance their opportunities for profitable employment. Thesaid Secretary shall cause a seal of office to be made for the said department of such device as the President shall approve and judicial notice shall be taken of the said seal.
+There shall be an executive department in the Government to be called the Department of Labor, with a Secretary of Labor, who shall be the head thereof, to be appointed by the President, by and with the advice and consent of the Senate, and whose tenure of office shall be like that of the heads of the other executive departments. The provisions of title 4 of the Revised Statutes, including all amendments thereto, shall be applicable to said department. The purpose of the Department of Labor shall be to foster, promote, and develop the welfare of the wage earners of the United States, to improve their working conditions, and to advance their opportunities for profitable employment. The said Secretary shall cause a seal of office to be made for the said department of such device as the President shall approve and judicial notice shall be taken of the said seal.
 
 (Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Mar. 4, 1925, ch. 549, §4, 43 Stat. 1301.)
 
@@ -12,7 +12,7 @@ Title 4 of the Revised Statutes, referred to in text, was entitled "Provisions A
 
 #### Codification
 
-Section was formerly classified to section 611 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
+Section was formerly classified to section 611 of Title 5 prior to the general revision and enactment of Title5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -70,7 +70,7 @@ Sec. 2. <i>Assignment of Responsibilities to the Secretary of Labor</i>.
 
 Sec. 3. <i>Revocation</i>. Executive Order 13509 of June 23, 2009, is hereby revoked.
 
-Sec. 4. <i>General Provisions</i>. (a) The heads of executive departments and agencies shall assist and provide information to the Secretary of Labor or the Secretary's designee, consistent with applicable law, as may benecessary to carry out the responsibilities assigned by this order.
+Sec. 4. <i>General Provisions</i>. (a) The heads of executive departments and agencies shall assist and provide information to the Secretary of Labor or the Secretary's designee, consistent with applicable law, as may be necessary to carry out the responsibilities assigned by this order.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 

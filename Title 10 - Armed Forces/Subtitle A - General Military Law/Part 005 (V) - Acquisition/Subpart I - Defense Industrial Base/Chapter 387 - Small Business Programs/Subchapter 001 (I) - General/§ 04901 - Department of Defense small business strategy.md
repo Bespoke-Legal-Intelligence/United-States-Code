@@ -58,7 +58,7 @@ Pub. L. 117–263, div. A, title VIII, §874, Dec. 23, 2022, 136 Stat. 2741, pro
 
 In General.—Not later than 60 days after the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall issue a charter to establish a small business integration working group that—
 
-&emsp;"(1) ensures the integration and synchronization of the activities of the military departments and other components of the Department of Defense with respect to small business concerns; and
+&emsp;"(1) ensures the integration and synchronization of the activities of the military departments and othercomponents of the Department of Defense with respect to small business concerns; and
 
 &emsp;"(2) convenes not fewer than four times per year.
 
@@ -258,7 +258,7 @@ Mechanisms to assess and support small businesses in national technology and ind
 
 &emsp;&emsp;"(A) establish policies, procedures, and information repositories to identify small businesses in the defense supply chain, including—
 
-&emsp;&emsp;&emsp;"(i) small businesses participating in an acquisition program of a military department or Defense Agency (as defined in section 101(11) of title 10, United States Code);
+&emsp;&emsp;&emsp;"(i) small businesses participating in an acquisition program of a military department or Defense Agency (as defined in section 101(11) of title 10, United States Code \[now 10 U.S.C. 101(a)(11)\]);
 
 &emsp;&emsp;&emsp;"(ii) small businesses contracting with the Defense Logistics Agency; and
 

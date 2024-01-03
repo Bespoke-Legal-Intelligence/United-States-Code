@@ -208,7 +208,7 @@ For purposes of this section—
 
 #### (3) Aggregation rules
 
-&emsp;All persons treated as a single employer under subsection (a) of section 52 shall be treated as 1 person for purposes of this subsection and subsection (c)(4), except that in applying section 1563 for purposes of section52, the exception for foreign corporations under section 1563(b)(2)(C) shall be disregarded.
+&emsp;All persons treated as a single employer under subsection (a) of section 52 shall be treated as 1 person for purposes of this subsection and subsection (c)(4), except that in applying section 1563 for purposes of section 52, the exception for foreign corporations under section 1563(b)(2)(C) shall be disregarded.
 
 #### (f) Foreign person
 

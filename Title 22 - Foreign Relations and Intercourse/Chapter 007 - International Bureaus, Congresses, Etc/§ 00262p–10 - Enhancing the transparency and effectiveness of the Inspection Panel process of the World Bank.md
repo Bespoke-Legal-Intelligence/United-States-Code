@@ -10,7 +10,7 @@ The Secretary of the Treasury shall direct the United States Executive Directors
 
 #### (c) Evaluation of country systems
 
-The Secretary of the Treasury shall direct the United States Executive Directors at the WorldBank to request an evaluation by the Independent Evaluation Group on the use of country environmental and social safeguard systems to determine the degree to which, in practice, the use of such systems provides the same level of protection at the project level as do the policies and procedures of the World Bank.
+The Secretary of the Treasury shall direct the United States Executive Directors at the World Bank to request an evaluation by the Independent Evaluation Group on the use of country environmental and social safeguard systems to determine the degree to which, in practice, the use of such systems provides the same level of protection at the project level as do the policies and procedures of the World Bank.
 
 #### (d) World Bank defined
 

@@ -10,7 +10,7 @@ Approved Programs of Education.—A program of education is an approved program 
 
 (c)
 
-Programs of Education Leading to a Degree Pursued at Institutions of HigherLearning on More Than Half-time Basis.—The amounts payable under this subsection for pursuit of an approved program of education leading to a degree at an institution of higher learning (as that term is defined in section 3452(f)) are amounts as follows:
+Programs of Education Leading to a Degree Pursued at Institutions of Higher Learning on More Than Half-time Basis.—The amounts payable under this subsection for pursuit of an approved program of education leading to a degree at an institution of higher learning (as that term is defined in section 3452(f)) are amounts as follows:
 
 &emsp;(1) In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), (8), (9), (10), or (11) of section 3311(b), amounts as follows:
 
@@ -60,7 +60,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of HigherLearn
 
 &emsp;&emsp;&emsp;(iii) In the case of an individual pursuing a program of education solely through distance learning on more than a half-time basis, a monthly housing stipend equal to 50 percent of the amount payable under clause (ii) if the individual were otherwise entitled to a monthly housing stipend under that clause for pursuit of the program of education.
 
-&emsp;&emsp;&emsp;(iv) For the first month of each quarter, semester, or term, as applicable, of the program of education pursued by the individual, a lump sum amount for books, supplies, equipment, and other educational costs with respect to such quarter, semester, or term in the amount equal to—
+&emsp;&emsp;&emsp;(iv) For the first month of each quarter, semester, or term, as applicable, of the program of education pursued by the individual, a lump sum amount for books, supplies, equipment, and other educationalcosts with respect to such quarter, semester, or term in the amount equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) $1,000, multiplied by
 
@@ -68,7 +68,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of HigherLearn
 
 &emsp;(2) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(3), amounts equal to 90 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
-&emsp;(3) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(4), amounts equal to 80 percent of the amounts that would be payable to the individual under paragraph (1) forthe program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
+&emsp;(3) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(4), amounts equal to 80 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
 &emsp;(4) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(5), amounts equal to 70 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
@@ -202,7 +202,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;(i) Subject to clause (iv), an amount equal to the lesser of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the actual net cost for in-State tuition and fees assessed by the institution concerned for the program of education after the application of—
+&emsp;&emsp;&emsp;&emsp;(I) the actual net cost for in-State tuition and fees assessed by the institutionconcerned for the program of education after the application of—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) any waiver of, or reduction in, tuition and fees; and
 
@@ -212,7 +212,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) for the academic year beginning on August 1, 2011, $17,500; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) for an academic year beginning on any subsequent August 1, the amount for the previous academic yearbeginning on August 1 under this subclause, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subclause, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
 
 &emsp;&emsp;&emsp;(ii) Except in the case of an individual pursuing a program of education on a half-time or less basis and subject to clause (iv), a monthly housing stipend equal to the product—
 
@@ -250,7 +250,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;(iii) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of sections <sup>2</sup> 3311(b), the amounts payable pursuant to clauses (i) and (ii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
 
-&emsp;&emsp;&emsp;(iv) In any month in which an individual pursuing a program of education consisting of a program of apprenticeship or other on-job training fails to complete 120 hours of training, the amount of monthly educational assistance allowance payable under clauses (i) and (iii) to the individual shall be limited to the same proportion of the applicable rate determined under this subparagraph as the number of hours worked during such month, rounded to the nearest eight hours, bears to 120 hours.
+&emsp;&emsp;&emsp;(iv) In any month in which an individual pursuing a program of education consisting of a program of apprenticeship or other on-job training fails to complete 120 hours of training, the amount of monthly educational assistance allowance payable under clauses (i) and (iii) to the individual shall be limited to the same proportion of the applicable rate determined under this subparagraph as the number of hoursworked during such month, rounded to the nearest eight hours, bears to 120 hours.
 
 &emsp;&emsp;(C) In the case of an individual enrolled in a program of education consisting of flight training (regardless of the institution providing such program of education), an amount equal to—
 
@@ -260,7 +260,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) any waiver of, or reduction in, tuition and fees; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965) that is provided directly tothe institution and specifically designated for the sole purpose of defraying tuition and fees; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount equal to—
 
@@ -334,7 +334,7 @@ In general.—In the case of amounts paid under paragraph (3)(A)(i) for pursuit 
 
 &emsp;&emsp;(B)
 
-Pro rata adjustment based on certain eligibility.—If the amount otherwise payable with respect to an individual under paragraph (3)(A)(i) is subject to a percentage adjustment under paragraph (3)(A)(iv), the amount applicable with respect to the individual under subparagraph (A)(ii) shall be the amount otherwise determined pursuant to such subparagraph subject to a percentage adjustment equal to the percentage adjustment applicable with respect to the individual under paragraph (3)(A)(iv).
+Pro rata adjustment based on certain eligibility.—If the amount otherwise payable with respect to an individual underparagraph (3)(A)(i) is subject to a percentage adjustment under paragraph (3)(A)(iv), the amount applicable with respect to the individual under subparagraph (A)(ii) shall be the amount otherwise determined pursuant to such subparagraph subject to a percentage adjustment equal to the percentage adjustment applicable with respect to the individual under paragraph (3)(A)(iv).
 
 (h)
 
@@ -492,7 +492,7 @@ Pub. L. 111–377, §103(a)(2)(B), redesignated subpar. (B) of par. (2) as cl. (
 
 Subsec. (e)(2)(B), (C). Pub. L. 111–377, §103(a)(2)(E), added subpars. (B) and (C). Former subpar. (B) redesignated (A)(iii).
 
-Subsec. (f)(1). Pub. L. 111–377, §104(a)(1), inserted "whether a program of education pursued on active duty, a program of education leading to a degree, or a program of education other than a program of education leading to a degree" before period at end.
+Subsec. (f)(1). Pub. L. 111–377, §104(a)(1), inserted "whether a program of education pursued on activeduty, a program of education leading to a degree, or a program of education other than a program of education leading to a degree" before period at end.
 
 Subsec. (f)(2). Pub. L. 111–377, §104(a)(2), inserted "covered by this subsection" after "program of education" in introductory provisions.
 
@@ -576,7 +576,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 #### Duration of Assistance
 
-Pub. L. 115–48, title I, §106(d), Aug. 16, 2017, 131 Stat. 977, provided that: "Notwithstanding section 3312 of title 38, United States Code, an individual who establishes eligibility for educational assistance under chapter 33 of such title by crediting towards such chapter service previously credited towards chapter 1607 of title 10, United States Code, is only entitled to a number of months of educational assistance under section 3313 of title 38, United States Code, equal to the number of months of entitlement remaining under chapter 1607 of title 10, United States Code, at the time of conversion to chapter 33 of title 38, United States Code."
+Pub. L. 115–48, title I, §106(d), Aug. 16, 2017, 131 Stat. 977, provided that: "Notwithstanding section 3312 of title 38, United States Code, an individual who establishes eligibility for educational assistance under chapter 33 of such title by crediting towards such chapter service previously credited towards chapter 1607 of title 10, United States Code, is only entitled to a number of months of educational assistance under section 3313 of title 38, United States Code, equal to the number of months of entitlement remaining under chapter 1607 oftitle 10, United States Code, at the time of conversion to chapter 33 of title 38, United States Code."
 
 #### Preservation of Higher Rates for Tuition and Fees for Programs of Education at Non-Public Institutions of Higher Learning Pursued by Individuals Enrolled in Such Programs Prior to Change in Maximum Amount
 
@@ -588,7 +588,7 @@ In General.—Notwithstanding paragraph (1)(A)(ii) of section 3313(c) of title 3
 
 &emsp;"(1) $17,500; or
 
-&emsp;"(2) the established charges payable for the program of education determined using the table of theDepartment of Veterans Affairs entitled 'Post-9/11 GI Bill 2010–2011 Tuition and Fee In-State Maximums', published October 27, 2010 (75 Fed. Reg. 66193), as if that table applied to the pursuit of the program of education by that individual during that period.
+&emsp;"(2) the established charges payable for the program of education determined using the table of the Department of Veterans Affairs entitled 'Post-9/11 GI Bill 2010–2011 Tuition and Fee In-State Maximums', published October 27, 2010 (75 Fed. Reg. 66193), as if that table applied to the pursuit of the program of education by that individual during that period.
 
 "(b)
 

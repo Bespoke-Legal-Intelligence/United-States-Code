@@ -30,7 +30,7 @@ The words "appointment or" are omitted as surplusage.
 
 <b>1996</b>—Pub. L. 104–106 struck out subsec. (a) heading "Waiver of employment restrictions for certain personnel", designated subsec. (a) as entire section, and struck out subsec. (b) which read as follows: "
 
-Notice to Congress of Certain Salary Increases.—The Secretary of Defense shall notify the Committees on Armed Services and the Committees on Appropriationsof the Senate and House of Representatives when any salary increase granted to direct and indirect hire foreign national employees of the Department of Defense overseas, stated as a percentage, is greater than the higher of the following percentages:
+Notice to Congress of Certain Salary Increases.—The Secretary of Defense shall notify the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives when any salary increase granted to direct and indirect hire foreign national employees of the Department of Defense overseas, stated as a percentage, is greater than the higher of the following percentages:
 
 &emsp;"(1) The percentage pay increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5.
 

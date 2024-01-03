@@ -22,7 +22,7 @@ The provisions of paragraph (2) of section 3372(a) of this title shall not apply
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L.94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Tuna Conventions Act of 1950, referred to in subsec. (b)(1), is act Sept. 7, 1950, ch. 907, 64 Stat. 777, which is classified generally to chapter 16 (§951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 

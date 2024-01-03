@@ -146,7 +146,7 @@ A written report of the findings of the Board for each inspection under this sec
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(1), (b), and (c), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as theSarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a)(1), (b), and (c), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

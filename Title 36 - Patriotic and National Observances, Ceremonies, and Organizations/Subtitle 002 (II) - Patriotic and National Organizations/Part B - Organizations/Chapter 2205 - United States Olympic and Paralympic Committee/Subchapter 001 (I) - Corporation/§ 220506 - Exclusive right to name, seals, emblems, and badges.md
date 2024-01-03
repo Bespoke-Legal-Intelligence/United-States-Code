@@ -14,7 +14,7 @@ Exclusive Right of Corporation.—Except as provided in subsection (d) of this s
 
 (b)
 
-Contributors and Suppliers.—The corporation may authorize contributors and suppliers of goods or services to use the trade name of the corporation or any trademark, symbol, insignia, or emblem of the International Olympic Committee, International Paralympic Committee, the Pan-American Sports Organization, or of the corporation to advertise that the contributions, goods, or services were donated orsupplied to, or approved, selected, or used by, the corporation, the United States Olympic team, the Paralympic team, the Pan-American team, the Parapan American team, or team members.
+Contributors and Suppliers.—The corporation may authorize contributors and suppliers of goods or services to use the trade name of the corporation or any trademark, symbol, insignia, or emblem of the International Olympic Committee, International Paralympic Committee, the Pan-American Sports Organization, or of the corporation to advertise that the contributions, goods, or services were donated or supplied to, or approved, selected, or used by, the corporation, the United States Olympic team, the Paralympic team, the Pan-American team, the Parapan American team, or team members.
 
 (c)
 
@@ -42,7 +42,7 @@ Pre-Existing and Geographic Reference Rights.—(1) A person who actually used t
 
 &emsp;(C) such business, goods, or services are operated, sold, and marketed in the State of Washington west of the Cascade Mountain range and operations, sales, and marketing outside of this area are not substantial.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1469; Pub. L. 105–277, div. C, title I, §142(g), Oct. 21, 1998, 112 Stat. 2681–604; Pub. L. 109–284, §5(16), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, §4(a)(6), Oct. 30, 2020, 134 Stat. 945.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1469; Pub. L. 105–277, div. C, title I, §142(g), Oct. 21, 1998, 112Stat. 2681–604; Pub. L. 109–284, §5(16), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, §4(a)(6), Oct. 30, 2020, 134 Stat. 945.)
 
 Historical and Revision Notes
 

@@ -4,7 +4,7 @@
 
 In this section, the term "security information" means information that—
 
-&emsp;(1) is sensitive with respect to the policing, protection, physical security, intelligence, counterterrorism actions, or emergency preparedness and response relating to Congress,any statutory protectee of the Capitol Police, and the Capitol buildings and grounds; and
+&emsp;(1) is sensitive with respect to the policing, protection, physical security, intelligence, counterterrorism actions, or emergency preparedness and response relating to Congress, any statutory protectee of the Capitol Police, and the Capitol buildings and grounds; and
 
 &emsp;(2) is obtained by, on behalf of, or concerning the Capitol Police Board, the Capitol Police, or any incident command relating to emergency response.
 

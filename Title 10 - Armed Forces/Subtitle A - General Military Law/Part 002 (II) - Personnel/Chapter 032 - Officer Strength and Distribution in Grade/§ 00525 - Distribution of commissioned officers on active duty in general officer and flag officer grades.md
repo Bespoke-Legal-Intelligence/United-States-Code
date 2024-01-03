@@ -56,7 +56,7 @@
 
 (2) For each appointment made under the authority of paragraph (1) in the Army, Air Force, Marine Corps, or Space Force in the grade of lieutenant general or general or in the Navy in the grade of vice admiral or admiral, the number of appointments that may be made in the equivalent grade in one of the other armed forces (other than the Coast Guard) shall be reduced by one. When such an appointment is made, the President shall specify the armed force in which the reduction required by this paragraph is to be made.
 
-(3)(A) The number of officers that may be serving on active duty in the grades of lieutenantgeneral and vice admiral by reason of appointments made under the authority of paragraph (1) may not exceed 15.
+(3)(A) The number of officers that may be serving on active duty in the grades of lieutenant general and vice admiral by reason of appointments made under the authority of paragraph (1) may not exceed 15.
 
 (B) The number of officers that may be serving on active duty in the grades of general and admiral by reason of appointments made under the authority of paragraph (1) may not exceed 5.
 
@@ -208,7 +208,7 @@ Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, pro
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title IV, §404(d), Dec. 2, 2002, 116 Stat. 2526, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effecton the date of the receipt by Congress of the report required by subsection (c) \[set out below\]."
+Pub. L. 107–314, div. A, title IV, §404(d), Dec. 2, 2002, 116 Stat. 2526, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the receipt by Congress of the report required by subsection (c) \[set out below\]."
 
 #### Effective Date of 1981 Amendment
 
@@ -224,7 +224,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §507(i)\], Oct. 30, 2000, 114 Sta
 
 "(1) An appointment or reappointment, in the case of the incumbent in a reserve component chief position, shall be made to each of the reserve component chief positions not later than 12 months after the date of the enactment of this Act \[Oct. 30, 2000\], in accordance with the amendments made by subsections (a) through (e) \[amending sections 3038, 5143, 5144, 8038, and 10506 of this title\].
 
-"(2) An officer serving in a reserve component chief position on the date of the enactment of this Act \[Oct. 30, 2000\] may be reappointed to that position under the amendments made by subsection (a) through (e), if eligible and otherwise qualified in accordance with those amendments. If such an officer is so reappointed, the appointment may be made for the remainder of the officer's original term or for a full new term, as specified at the time of the appointment.
+"(2) An officer serving in a reserve component chief position on the date of the enactment of this Act \[Oct.30, 2000\] may be reappointed to that position under the amendments made by subsection (a) through (e), if eligible and otherwise qualified in accordance with those amendments. If such an officer is so reappointed, the appointment may be made for the remainder of the officer's original term or for a full new term, as specified at the time of the appointment.
 
 "(3) An officer serving on the date of the enactment of this Act \[Oct. 30, 2000\] in a reserve component chief position may continue to serve in that position in accordance with the provisions of law in effect immediately before the amendments made by this section \[amending this section and sections 3038, 5143, 5144, 8038, and 10506 of this title and repealing section 12505 of this title\] until a successor is appointed under paragraph (1) (or that officer is reappointed under paragraph (1)).
 

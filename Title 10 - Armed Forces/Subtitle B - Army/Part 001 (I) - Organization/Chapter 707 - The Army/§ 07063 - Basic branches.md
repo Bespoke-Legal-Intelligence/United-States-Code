@@ -56,7 +56,7 @@ June 28, 1950, ch. 383, §306(a), 64 Stat. 269.
 
 10:1g(a) (words of 1st sentence after semicolon).
 
-In subsection (a), the words "The basic branches are" are substituted for the words "There shall be in theArmy certain branches, which shall be known as basic branches of the Army" and "The basic branches of the Army shall be".
+In subsection (a), the words "The basic branches are" are substituted for the words "There shall be in the Army certain branches, which shall be known as basic branches of the Army" and "The basic branches of the Army shall be".
 
 In subsection (b), the words "enumerated in this subsection" are omitted as surplusage. The word "hereafter" is omitted, since all wars and emergencies declared by Congress before June 29, 1950, have been terminated.
 

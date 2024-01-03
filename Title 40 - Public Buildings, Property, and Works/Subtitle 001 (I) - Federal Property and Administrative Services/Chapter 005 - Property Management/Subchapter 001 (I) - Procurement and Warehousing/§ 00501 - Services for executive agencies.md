@@ -92,7 +92,7 @@ June 30, 1949, ch. 288, title II, §201(a), 63 Stat. 383; Pub. L. 93–400, §15
 
 40:481(a)(2).
 
-In subsection (a)(2), the words "from time to time" are omitted as unnecessary. The words "Department of Defense" are substituted for "National Military Establishment" in section 201(a) (last proviso) of the Federal Property and Administrative Services Act of 1949, because the Department of Defense was deemed to succeed the National Military Establishment under section 12(a) and (g) of the National Security Act Amendments of 1949 (ch. 412, 63 Stat. 591). The words "or which may be taken" are omitted as unnecessary.
+In subsection (a)(2), the words "from time to time" are omitted as unnecessary. The words "Department ofDefense" are substituted for "National Military Establishment" in section 201(a) (last proviso) of the Federal Property and Administrative Services Act of 1949, because the Department of Defense was deemed to succeed the National Military Establishment under section 12(a) and (g) of the National Security Act Amendments of 1949 (ch. 412, 63 Stat. 591). The words "or which may be taken" are omitted as unnecessary.
 
 In subsection (b)(2)(B), the words "subject to regulations" are substituted for "subject to regulations and regulations" in section 201(a)(1) of the Federal Property and Administrative Services Act of 1949 to correct an error resulting from an inconsistency between section 8(d)(1) and section 9(a)(2) of the Office of Federal Procurement Policy Act Amendments of 1983 (Public Law 98–191, 97 Stat. 1331).
 

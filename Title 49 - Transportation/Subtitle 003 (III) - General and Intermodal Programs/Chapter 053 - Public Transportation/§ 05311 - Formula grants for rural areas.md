@@ -322,7 +322,7 @@ Low-income individuals.—For purposes of subparagraph (A)(iii), the term "low-i
 
 &emsp;&emsp;(E)
 
-Allocation between multiple indian tribes.—If more than 1 Indian tribe provides public transportation service on tribal lands in a single Tribal Statistical Area, and the Indian tribes do not determine how to allocate the funds apportioned under clause (iii) of subparagraph (A) between the Indian tribes, the Secretary shall allocate the funds so that each Indian tribe shall receive an amount equal to the total amount apportioned under such clause (iii) multiplied by the ratio of the number of annual unlinked passenger trips provided by each Indian tribe, as reported to the National Transit Database, to the total unlinked passenger trips provided by all Indian tribes in the Tribal Statistical Area.
+Allocation between multiple indian tribes.—If more than 1 Indian tribe provides public transportation service on tribal lands in a single Tribal Statistical Area, and the Indian tribes do not determine how to allocate the funds apportioned under clause (iii) of subparagraph (A) between the Indian tribes, the Secretary shall allocate the funds so that each Indian tribe shall receive an amount equal to the total amount apportioned under such clause (iii) multiplied by the ratio of the number of annual unlinked passenger trips provided by each Indian tribe, as reported to the National TransitDatabase, to the total unlinked passenger trips provided by all Indian tribes in the Tribal Statistical Area.
 
 &emsp;(2)
 

@@ -12,7 +12,7 @@
 
 &emsp;(3) provide a program evaluation carried out or commissioned by an executive agency.
 
-(c) In cooperation with the Director of the Congressional Budget Office, the Secretary, and the Director of the Office of Management and Budget, the Comptroller General shall—
+(c) In cooperation with the Director of the Congressional Budget Office, the Secretary, andthe Director of the Office of Management and Budget, the Comptroller General shall—
 
 &emsp;(1) establish and maintain a current directory of sources of, and information systems for, fiscal, budget, and program information and a brief description of the contents of each source and system;
 
@@ -136,7 +136,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, §201(k)(2); added Sept. 8, 1982, Pub. L. 97
 
 #### Termination of Reporting Requirements Contained in This Section
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (e)(2)(A), (E), (3) of this section are listed on pages 9, 6, and 149, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes below.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (e)(2)(A), (E), (3) of this section are listed on pages 9, 6, and 149, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes below.
 
 #### Oversight of Counterterrorism and Antiterrorism Activities; Report
 
@@ -572,7 +572,7 @@ Pub. L. 106–476, title I, §1463, Nov. 9, 2000, 114 Stat. 2173, provided that:
 
 &emsp;"(2) Section 181 of the Trade Act of 1974 (19 U.S.C. 2241)."
 
-Pub. L. 106–419, title IV, §403(a), Nov. 1, 2000, 114 Stat. 1863, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following: sections 503(c), 529, 541(c), 542(c), 3036, and 7312(d) of title 38, United States Code."
+Pub. L. 106–419, title IV, §403(a), Nov. 1, 2000, 114 Stat. 1863, provided that: "Section 3003(a)(1) of the FederalReports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following: sections 503(c), 529, 541(c), 542(c), 3036, and 7312(d) of title 38, United States Code."
 
 Pub. L. 106–197, §1, May 2, 2000, 114 Stat. 246, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 

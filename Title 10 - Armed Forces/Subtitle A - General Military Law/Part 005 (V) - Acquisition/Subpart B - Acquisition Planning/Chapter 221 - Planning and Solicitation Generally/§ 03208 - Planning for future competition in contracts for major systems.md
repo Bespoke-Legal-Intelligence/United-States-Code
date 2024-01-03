@@ -6,7 +6,7 @@ Development Contract.—
 
 &emsp;(1)
 
-Determining whether proposals are necessary.—The Secretary of Defense shall ensure that, in preparing a solicitation for the award of a development contract for a major system, the head of an agency consider requiring in the solicitation that an offeror include in its offer proposals described in paragraph (2). In determining whether to require such proposals, the head of the agency shall give due consideration to the purposes for which the system is being procured and the technology necessary to meet the system's required capabilities. If such proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
+Determining whether proposals are necessary.—The Secretary of Defense shall ensure that, in preparing a solicitation for theaward of a development contract for a major system, the head of an agency consider requiring in the solicitation that an offeror include in its offer proposals described in paragraph (2). In determining whether to require such proposals, the head of the agency shall give due consideration to the purposes for which the system is being procured and the technology necessary to meet the system's required capabilities. If such proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
 
 &emsp;(2)
 
@@ -68,7 +68,7 @@ A prior section 3210 was renumbered section 7110 of this title.
 
 A prior section 3211, acts Aug. 10, 1956, ch. 1041, 70A Stat. 175; Sept. 2, 1958, Pub. L. 85–861, §1(67), 72 Stat. 1463; Nov. 8, 1967, Pub. L. 90–130, §1(9)(F), 81 Stat. 375, prescribed authorized strength of Regular Army in officers in each regular grade on promotion lists set forth in section 3296 of this title, prior to repeal by Pub. L. 96–513, title II, §202, title VII, §701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981. See section 521 et seq. of this title.
 
-A prior section 3212, acts Aug. 10, 1956, ch. 1041, 70A Stat. 175; Sept. 2, 1958, Pub. L. 85–861, §1(68), 72 Stat. 1463; June 30, 1960, Pub. L. 86–559, §1(6), 74 Stat. 265; Nov. 8, 1967, Pub. L. 90–130, §1(9)(G), 81 Stat. 375; Dec. 12, 1980, Pub. L. 96–513, title V, §502(6), 94 Stat. 2909, related to temporary increases in authorized strength in grades of Army Reserve and Army National Guard of United States, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12009 of this title.
+A prior section 3212, acts Aug. 10, 1956, ch. 1041, 70A Stat. 175; Sept. 2, 1958, Pub. L. 85–861, §1(68), 72 Stat. 1463; June 30, 1960, Pub. L. 86–559, §1(6), 74 Stat. 265; Nov. 8, 1967, Pub. L. 90–130, §1(9)(G), 81 Stat. 375; Dec. 12, 1980, Pub. L. 96–513, title V, §502(6), 94 Stat. 2909, related to temporary increases in authorized strength in grades of Army Reserve and Army National Guard of UnitedStates, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12009 of this title.
 
 Prior sections 3213 and 3214 were repealed by Pub. L. 96–513, title II, §202, title VII, §701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 

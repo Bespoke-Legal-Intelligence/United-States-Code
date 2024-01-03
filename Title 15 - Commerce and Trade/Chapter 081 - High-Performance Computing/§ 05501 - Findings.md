@@ -18,7 +18,7 @@ The Congress finds the following:
 
 &emsp;(8) Research in new networking technologies holds the promise of easing the economic burdens of information access disproportionately borne by rural users of the Internet.
 
-&emsp;(9) Information security is an important part of computing, information, and communications systems and applications, and research into security architectures is a critical aspectof computing, information, and communications research programs.
+&emsp;(9) Information security is an important part of computing, information, and communications systems and applications, and research into security architectures is a critical aspect of computing, information, and communications research programs.
 
 (Pub. L. 102–194, §2, Dec. 9, 1991, 105 Stat. 1594; Pub. L. 105–305, §2(b), Oct. 28, 1998, 112 Stat. 2919; Pub. L. 114–329, title I, §105(b), Jan. 6, 2017, 130 Stat. 2976.)
 
@@ -50,7 +50,7 @@ Pub. L. 105–305, §1, Oct. 28, 1998, 112 Stat. 2919, provided that: "This Act 
 
 Pub. L. 102–194, §1, Dec. 9, 1991, 105 Stat. 1594, provided that: "This Act \[enacting this chapter\] may be cited as the 'High-Performance Computing Act of 1991'."
 
-Pub. L. 108–423, §1, Nov. 30, 2004, 118 Stat. 2400, as amended by Pub. L. 115–246, title III, §304(b)(1)(A); Pub. L. 117–167, div. B, title I, §10104(a)(1), Aug. 9, 2022, 136 Stat. 1433, Sept. 28, 2018, 132 Stat. 3145, provided that: "This Act \[enacting subchapter III of this chapter, amending sections 205l of this title and 1862n–9 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 1862n–9 of Title 42\] may be cited as the 'American Super Computing Leadership Act of 2017'."
+Pub. L. 108–423, §1, Nov. 30, 2004, 118 Stat. 2400, as amended by Pub. L. 115–246, title III, §304(b)(1)(A), formerly §304(a)(1)(A), Sept. 28, 2018, 132 Stat. 3145, renumbered §304(b)(1)(A) by Pub. L. 117–167, div. B, title I, §10104(a)(1), Aug. 9, 2022, 136 Stat. 1433, provided that: "This Act \[enacting subchapter III of this chapter, amending sections 205l of this title and 1862n–9 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 1862n–9 of Title 42\] may be cited as the 'American Super Computing Leadership Act of 2017'."
 
 #### Congressional Findings
 

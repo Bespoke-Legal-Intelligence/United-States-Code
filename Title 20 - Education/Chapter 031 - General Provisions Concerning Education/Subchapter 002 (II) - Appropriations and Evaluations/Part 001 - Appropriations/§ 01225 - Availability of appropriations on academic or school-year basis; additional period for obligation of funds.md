@@ -16,7 +16,7 @@ Appropriations for any fiscal year for grants, loans, contracts, or other paymen
 
 #### (c) Institution of judicial proceedings
 
-If any funds appropriated to carry out any applicable program are not obligated pursuant to a spending plan submitted in accordance with section 1341(a) of title 31 and become available for obligation after the institution of a judicial proceeding seeking the release of such funds, then such funds shall be available for obligation and expenditure until the end of the fiscal year which begins after the termination of such judicial proceeding.
+If any funds appropriated to carry out any applicable program are not obligated pursuant to a spending plan submitted in accordance with section 1341(a) of title 31 and become available forobligation after the institution of a judicial proceeding seeking the release of such funds, then such funds shall be available for obligation and expenditure until the end of the fiscal year which begins after the termination of such judicial proceeding.
 
 (Pub. L. 90–247, title IV, §421, formerly §405, Jan. 2, 1968, 81 Stat. 815; Pub. L. 91–230, title IV, §401(a)(5), (7), (8), Apr. 13, 1970, 84 Stat. 165; renumbered §414, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; renumbered §412, and amended Pub. L. 93–380, title V, §506(a)(1)(D), (E), Aug. 21, 1974, 88 Stat. 562; Pub. L. 94–273, §3(12), Apr. 21, 1976, 90 Stat. 376; Pub. L. 95–112, §5, Sept. 24, 1977, 91 Stat. 912; Pub. L. 95–561, title XII, §1245, Nov. 1, 1978, 92 Stat. 2354; renumbered §421 and amended Pub. L. 103–382, title II, §§212(b)(1), 232, Oct. 20, 1994, 108 Stat. 3913, 3914.)
 
@@ -60,7 +60,7 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, but the provisions of subs
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–380, title V, §506(b), Aug. 21, 1974, 88 Stat. 565, provided that: "The amendments made by subsection (a) of this section \[enacting sections 1226a to1226d of this title, amending this section and section 1227 of this title, and repealing sections 1222 and 1224 of this title\] shall become effective on the date of enactment of this Act \[Aug. 21, 1974\]."
+Pub. L. 93–380, title V, §506(b), Aug. 21, 1974, 88 Stat. 565, provided that: "The amendments made by subsection (a) of this section \[enacting sections 1226a to 1226d of this title, amending this section and section 1227 of this title, and repealing sections 1222 and 1224 of this title\] shall become effective on the date of enactment of this Act \[Aug. 21, 1974\]."
 
 #### Indochinese Refugee Children Education Assistance Programs; Applicability of Contingent Extension Provisions
 

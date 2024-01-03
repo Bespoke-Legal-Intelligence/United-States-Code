@@ -12,7 +12,7 @@ Based on sections 548 and 549 of title 18, and sections 212, 213, 215, 217, 218 
 
 This section consolidates numerous conflicting and inconsistent provisions of law into a concise statement of the applicable law.
 
-R.S. §§2145, 2146 (U.S.C., title 25, §§217, 218) extended to the Indian country with notable exceptions the criminal laws of the United States applicable to places within the exclusive jurisdiction of the United States.Crimes of Indians against Indians, and crimes punishable by tribal law were excluded.
+R.S. §§2145, 2146 (U.S.C., title 25, §§217, 218) extended to the Indian country with notable exceptions the criminal laws of the United States applicable to places within the exclusive jurisdiction of the United States. Crimes of Indians against Indians, and crimes punishable by tribal law were excluded.
 
 The confusion was not lessened by the cases of <i>U.S. v. McBratney</i>, 104 U.S. 622 and <i>Draper v. U.S</i>., 17 S.Ct. 107, holding that crimes in Indian country by persons not Indians are not cognizable by Federal courts in absence of reservation or cession of exclusive jurisdiction applicable to places within the exclusive jurisdiction of the United States. Because of numerous statutes applicable only to Indians and prescribing punishment for crimes committed by Indians against Indians, "Indian country" was defined but once. (See act June 30, 1834, ch. 161, §1, 4, Stat. 729, which was later repealed.)
 

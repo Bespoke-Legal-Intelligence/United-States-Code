@@ -40,7 +40,7 @@
 
 &emsp;(C) at least once each year thereafter, and at such other times as the Secretary considers appropriate, reexamine, based on information gathered under this chapter and other relevant sources and after notice and opportunity for public comment, the classification of commercial fisheries and other determinations required under subparagraph (A) and publish in the Federal Register any necessary changes.
 
-(2)(A) An authorization shall be granted by the Secretary in accordance with this section for a vessel engaged in a commercial fishery listed under paragraph (1)(A)(i) or (ii), upon receipt by the Secretary of a completed registration form providing the name of the vessel owner and operator, the name and description of the vessel, the fisheries in which it will be engaged, the approximate time, duration, and location of such fishery operations, and the general type and nature of use of the fishing gear and techniquesused. Such information shall be in a readily usable format that can be efficiently entered into and utilized by an automated or computerized data processing system. A decal or other physical evidence that the authorization is current and valid shall be issued by the Secretary at the time an authorization is granted, and so long as the authorization remains current and valid, shall be reissued annually thereafter.
+(2)(A) An authorization shall be granted by the Secretary in accordance with this section for avessel engaged in a commercial fishery listed under paragraph (1)(A)(i) or (ii), upon receipt by the Secretary of a completed registration form providing the name of the vessel owner and operator, the name and description of the vessel, the fisheries in which it will be engaged, the approximate time, duration, and location of such fishery operations, and the general type and nature of use of the fishing gear and techniques used. Such information shall be in a readily usable format that can be efficiently entered into and utilized by an automated or computerized data processing system. A decal or other physical evidence that the authorization is current and valid shall be issued by the Secretary at the time an authorization is granted, and so long as the authorization remains current and valid, shall be reissued annually thereafter.
 
 (B) No authorization may be granted under this section to the owner of a vessel unless such vessel—
 
@@ -90,7 +90,7 @@
 
 #### (d) Monitoring of incidental takes
 
-(1) The Secretary shall establish a program to monitor incidental mortality and serious injuryof marine mammals during the course of commercial fishing operations. The purposes of the monitoring program shall be to—
+(1) The Secretary shall establish a program to monitor incidental mortality and serious injury of marine mammals during the course of commercial fishing operations. The purposes of the monitoring program shall be to—
 
 &emsp;(A) obtain statistically reliable estimates of incidental mortality and serious injury;
 
@@ -158,7 +158,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(3) The name and description of the fishery.
 
-&emsp;(4) The species of each marine mammal incidentally killed or injured, and the date, time, and approximate geographic location of such occurrence.
+&emsp;(4) The species of each marine mammal incidentally killed or injured, and the date, time,and approximate geographic location of such occurrence.
 
 #### (f) Take reduction plans
 
@@ -196,9 +196,9 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (E) Members of take reduction teams shall serve without compensation, but may be reimbursed by the Secretary, upon request, for reasonable travel costs and expenses incurred in performing their duties as members of the team.
 
-(7) Where the human-caused mortality and serious injury from a strategic stock is estimated to be equal to or greater than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii), the following procedures shall apply in the development of the take reduction plan for the stock:
+(7) Where the human-caused mortality and serious injury from a strategic stock is estimatedto be equal to or greater than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii), the following procedures shall apply in the development of the take reduction plan for the stock:
 
-&emsp;(A)(i) Not later than 6 months after the date of establishment of a take reduction team for the stock, the team shall submit a draft take reduction plan for such stock to the Secretary,consistent with the other provisions of this section.
+&emsp;(A)(i) Not later than 6 months after the date of establishment of a take reduction team for the stock, the team shall submit a draft take reduction plan for such stock to the Secretary, consistent with the other provisions of this section.
 
 &emsp;(ii) Such draft take reduction plan shall be developed by consensus. In the event consensus cannot be reached, the team shall advise the Secretary in writing on the range of possibilities considered by the team, and the views of both the majority and minority.
 
@@ -234,7 +234,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (9) In implementing a take reduction plan developed pursuant to this subsection, the Secretary may, where necessary to implement a take reduction plan to protect or restore a marine mammal stock or species covered by such plan, promulgate regulations which include, but are not limited to, measures to—
 
-&emsp;(A) establish fishery-specific limits on incidental mortality and serious injury of marine mammals in commercial fisheries or restrict commercial fisheries by time or area;
+&emsp;(A) establish fishery-specific limits on incidental mortality and serious injury of marinemammals in commercial fisheries or restrict commercial fisheries by time or area;
 
 &emsp;(B) require the use of alternative commercial fishing gear or techniques and new technologies, encourage the development of such gear or technology, or convene expert skippers' panels;
 
@@ -292,7 +292,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 #### (h) Penalties
 
-Except as provided in subsection (c), any person who violates this section shall be subject tothe provisions of sections 1375 and 1377 of this title, and may be subject to section 1376 of this title as the Secretary shall establish by regulations.
+Except as provided in subsection (c), any person who violates this section shall be subject to the provisions of sections 1375 and 1377 of this title, and may be subject to section 1376 of this title as the Secretary shall establish by regulations.
 
 #### (i) Assistance
 

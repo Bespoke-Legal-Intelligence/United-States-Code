@@ -4,7 +4,7 @@ The Congress of the United States finds that—
 
 &emsp;(1) the United States faces an increasing shortage of nonrenewable energy resources;
 
-&emsp;(2) this energy shortage and our increasing dependence on foreign energy supplies present a serious threat to the national security of the United States and to the health, safety and welfare of its citizens;
+&emsp;(2) this energy shortage and our increasing dependence on foreign energy supplies presenta serious threat to the national security of the United States and to the health, safety and welfare of its citizens;
 
 &emsp;(3) a strong national energy program is needed to meet the present and future energy needs of the Nation consistent with overall national economic, environmental and social goals;
 

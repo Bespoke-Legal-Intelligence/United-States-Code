@@ -30,7 +30,7 @@ The Secretary, or the Secretary's designee, in coordination with the Director of
 
 &emsp;&emsp;(B) assist National Counterterrorism Center intelligence analysts in integrating, analyzing, and otherwise preparing versions of products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information that are unclassified or classified at the lowest possible level and suitable for dissemination to State, local, and tribal homeland security and law enforcement agencies in order to help deter and prevent terrorist attacks;
 
-&emsp;&emsp;(C) implement, in coordination with National Counterterrorism Center intelligence analysts, the policies, processes, procedures, standards, and guidelines developed by the ITACG Advisory Council;
+&emsp;&emsp;(C) implement, in coordination with National Counterterrorism Center intelligence analysts, the policies, processes, procedures,standards, and guidelines developed by the ITACG Advisory Council;
 
 &emsp;&emsp;(D) assist in the dissemination of products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, to State, local, and tribal jurisdictions only through appropriate channels identified by the ITACG Advisory Council;
 
@@ -90,7 +90,7 @@ The Secretary, in consultation with the Director of National Intelligence, the A
 
 #### (2) Management
 
-&emsp;Pursuant to section 3056(f)(E) <sup>1</sup> of title 50, the Director of the National Counterterrorism Center, acting through the senior intelligenceofficial from the Department of Homeland Security detailed pursuant to subsection (d)(6),<sup>2</sup> shall ensure that—
+&emsp;Pursuant to section 3056(f)(E) <sup>1</sup> of title 50, the Director of the National Counterterrorism Center, acting through the senior intelligence official from the Department of Homeland Security detailed pursuant to subsection (d)(6),<sup>2</sup> shall ensure that—
 
 &emsp;&emsp;(A) the products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, prepared by the National Counterterrorism Center and the ITACG Detail for distribution to State, local, and tribal homeland security and law enforcement agencies reflect the requirements of such agencies and are produced consistently with the policies, processes, procedures, standards, and guidelines established by the ITACG Advisory Council;
 

@@ -6,7 +6,7 @@ Subject to such amounts as are provided in advance in appropriation Acts, each S
 
 #### (b) Confirmation of immigration status required
 
-No payment shall be made under this section with respect to services furnished to an individual unless the immigration status of the individual has been verified through appropriate procedures established by the Secretary of Health and Human Services and the Attorney General.
+No payment shall be made under this section with respect to services furnished to an individual unless the immigration status of the individual has been verified through appropriateprocedures established by the Secretary of Health and Human Services and the Attorney General.
 
 #### (c) Administration
 

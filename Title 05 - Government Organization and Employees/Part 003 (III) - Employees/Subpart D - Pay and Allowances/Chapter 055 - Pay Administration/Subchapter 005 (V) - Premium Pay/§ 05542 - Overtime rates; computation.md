@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(C) in which operating requirements cannot be met without substantial overtime work;
 
-> &emsp;the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
+> &emsp;the overtime hourly rate of pay is an amount equal to one and one-half times the hourlyrate of basic pay of the employee, and all that amount is premium pay.
 
 &emsp;(4) Notwithstanding paragraph (2) of this subsection, for an employee who is a law enforcement officer, and whose basic pay is at a rate which exceeds the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law), the overtime hourly rate of pay is an amount equal to the greater of—
 
@@ -136,7 +136,7 @@
 
 &emsp;(B) the term "qualified trade-of-time arrangement" means an arrangement under which 2 firefighters who are subject to the supervision of the same fire chief agree, solely at their option and with the approval of the employing agency, to substitute for one another during scheduled work hours in the performance of work in the same capacity.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(24), Sept. 11, 1967, 81 Stat. 200; Pub. L.90–206, title II, §222(a), Dec. 16, 1967, 81 Stat. 641; Pub. L. 90–556, §1, Oct. 10, 1968, 82 Stat. 969; Pub. L. 92–194, Dec. 15, 1971, 85 Stat. 648; Pub. L. 98–473, title I, §101(c) \[title III, §322\], Oct. 12, 1984, 98 Stat. 1837, 1874; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(1), title IV, §410(a)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460, 1468; Pub. L. 102–378, §2(41), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(c), Sept. 30, 1994, 108 Stat. 2427; Pub. L. 104–52, title V, §531, Nov. 19, 1995, 109 Stat. 496; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(c)(2)\], (h) \[title VI, §628(a)(1)\], div. G, subdiv. B, title XXIII, §2316(c)(2), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–480, 2681–519, 2681–829; Pub. L. 106–558, §2(a), Dec. 21, 2000, 114 Stat. 2776; Pub. L. 108–136, div. A, title XI, §1121, Nov. 24, 2003, 117 Stat. 1636; Pub. L. 111–383, div. A, title XI, §1105(a), Jan. 7, 2011, 124 Stat. 4383; Pub. L. 113–277, §2(c)(1), Dec. 18, 2014, 128 Stat. 3002; Pub. L. 113–291, div. A, title XI, §1106(a), Dec. 19, 2014, 128 Stat. 3526; Pub. L. 114–92, div. A, title XI, §1103, Nov. 25, 2015, 129 Stat. 1022; Pub. L. 114–328, div. A, title XI, §1108, Dec. 23, 2016, 130 Stat. 2449; Pub. L. 115–91, div. A, title XI, §1109, Dec. 12, 2017, 131 Stat. 1631; Pub. L. 115–232, div. A, title XI, §1103, Aug. 13, 2018, 132 Stat. 2001; Pub. L. 116–283, div. A, title XI, §1113, Jan. 1, 2021, 134 Stat. 3894; Pub. L. 117–81, div. A, title XI, §§1108, 1110, Dec. 27, 2021, 135 Stat. 1951, 1952.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(24), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(a), Dec. 16, 1967, 81 Stat. 641; Pub. L. 90–556, §1, Oct. 10, 1968, 82 Stat. 969; Pub. L. 92–194, Dec. 15, 1971, 85 Stat. 648; Pub. L. 98–473, title I, §101(c) \[title III, §322\], Oct. 12, 1984, 98 Stat. 1837, 1874; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(1), title IV, §410(a)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460, 1468; Pub. L. 102–378, §2(41), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(c), Sept. 30, 1994, 108 Stat. 2427; Pub. L. 104–52, title V, §531, Nov. 19, 1995, 109 Stat. 496; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(c)(2)\], (h) \[title VI, §628(a)(1)\], div. G, subdiv. B, title XXIII, §2316(c)(2), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–480, 2681–519, 2681–829; Pub. L. 106–558, §2(a), Dec. 21, 2000, 114 Stat. 2776; Pub. L. 108–136, div. A, title XI, §1121, Nov. 24, 2003, 117 Stat. 1636; Pub. L. 111–383, div. A, title XI, §1105(a), Jan. 7, 2011, 124 Stat. 4383; Pub. L. 113–277, §2(c)(1), Dec. 18, 2014, 128 Stat. 3002; Pub. L. 113–291, div. A, title XI, §1106(a), Dec. 19, 2014, 128 Stat. 3526; Pub. L. 114–92, div. A, title XI, §1103, Nov. 25, 2015, 129 Stat. 1022; Pub. L. 114–328, div. A, title XI, §1108, Dec. 23, 2016, 130 Stat. 2449; Pub. L. 115–91, div. A, title XI, §1109, Dec. 12, 2017, 131 Stat. 1631; Pub. L. 115–232, div. A, title XI, §1103, Aug. 13, 2018, 132 Stat. 2001; Pub. L. 116–283, div. A, title XI, §1113, Jan. 1, 2021, 134 Stat. 3894; Pub. L. 117–81, div. A, title XI, §§1108, 1110, Dec. 27, 2021, 135 Stat. 1951, 1952.)
 
 Historical and Revision Notes<br>1966
 
@@ -238,7 +238,7 @@ Subsec. (f). Pub. L. 105–277, §101(h) \[title VI, §628(a)(1)\], added subsec
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–329 added subsec. (d).
 
-<b>1992</b>—Subsec. (a)(4). Pub. L. 102–378, §2(41)(A), substituted "officer," for "officer (within the meaning of section 8331(20) or 8401(17))," and realigned margin of closing provision.
+<b>1992</b>—Subsec. (a)(4). Pub. L. 102–378, §2(41)(A), substituted "officer," for "officer (within the meaning ofsection 8331(20) or 8401(17))," and realigned margin of closing provision.
 
 Subsec. (c). Pub. L. 102–378, §2(41)(B), amended second sentence generally. Prior to amendment, second sentence read as follows: "In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work."
 
@@ -248,7 +248,7 @@ Subsec. (a)(4). Pub. L. 101–509, §529 \[title IV, §410(a)\], added par. (4).
 
 Subsec. (c). Pub. L. 101–509, §529 \[title II, §210(1)\], added subsec. (c).
 
-<b>1984</b>—Subsec. (b)(2)(B)(iv). Pub. L. 98–473 inserted ", including travel by an employee to such an eventand the return of such employee from such event to his or her official-duty station".
+<b>1984</b>—Subsec. (b)(2)(B)(iv). Pub. L. 98–473 inserted ", including travel by an employee to such an event and the return of such employee from such event to his or her official-duty station".
 
 <b>1971</b>—Subsec. (a). Pub. L. 92–194 substituted "For full-time, part-time and intermittent tours of duty, hours" for "Hours".
 
@@ -314,7 +314,7 @@ Pub. L. 113–277, §2(f), Dec. 18, 2014, 128 Stat. 3004, provided that: "Nothin
 
 &emsp;"(2) require compensation of a border patrol agent other than for hours during which the border patrol agent is actually performing work or using approved paid leave or other paid time off; or
 
-&emsp;"(3) exempt a border patrol agent from any limitations on pay, earnings, or compensation, including the limitations under section 5547 of title 5, United States Code."
+&emsp;"(3) exempt a border patrol agent from any limitations on pay, earnings, or compensation, includingthe limitations under section 5547 of title 5, United States Code."
 
 #### Border Patrol Rate of Pay
 

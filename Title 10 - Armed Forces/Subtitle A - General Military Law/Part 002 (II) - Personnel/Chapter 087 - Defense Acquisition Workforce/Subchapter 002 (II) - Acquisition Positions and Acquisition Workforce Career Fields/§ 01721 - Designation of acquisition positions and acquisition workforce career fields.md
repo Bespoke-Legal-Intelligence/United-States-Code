@@ -46,7 +46,7 @@ Management Headquarters Activities.—The Secretary also shall designate as acqu
 
 <b>2019</b>—Pub. L. 116–92, §861(f)(2)(A), substituted "Designation of acquisition positions and acquisition workforce career fields" for "Designation of acquisition positions" in section catchline.
 
-Subsec. (a). Pub. L. 116–92, §861(f)(1), inserted at end "The Secretary shall also designate in regulations those career fields in the Department of Defense that are acquisition workforce career fields for purposes of this chapter."
+Subsec. (a). Pub. L. 116–92, §861(f)(1), inserted at end "The Secretary shall also designate in regulations those career fields in the Department of Defense thatare acquisition workforce career fields for purposes of this chapter."
 
 Subsec. (b)(11). Pub. L. 116–92, §861(d)(1), amended par. (11) generally. Prior to amendment, par. (11) read as follows: "Joint development and production with other government agencies and foreign countries."
 

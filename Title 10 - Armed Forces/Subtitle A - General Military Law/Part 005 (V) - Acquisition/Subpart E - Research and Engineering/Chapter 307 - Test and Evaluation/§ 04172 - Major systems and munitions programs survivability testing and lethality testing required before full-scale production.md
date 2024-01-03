@@ -16,7 +16,7 @@ Requirements.—(1) The Secretary of Defense shall provide that—
 
 (b)
 
-Test Guidelines.—(1) Survivability and lethality tests required under subsection (a) shall be carried out sufficiently early in the development phase of the system or program (including a covered product improvement program) to allow any design deficiency demonstrated by the testing to be corrected in the design of the system, munition, or missile (or in the product modification or upgrade to the system, munition, or missile) before proceeding beyond low-rate initial production.
+Test Guidelines.—(1) Survivability and lethality tests required under subsection (a) shall be carried out sufficiently early in the development phase of the system or program (including a covered product improvement program) to allow any design deficiency demonstrated by the testing to be corrected in the design of the system, munition, or missile (or inthe product modification or upgrade to the system, munition, or missile) before proceeding beyond low-rate initial production.
 
 (2) The costs of all tests required under that subsection shall be paid from funds available for the system being tested.
 
@@ -78,11 +78,11 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) a modification or upgrade will be made to a covered system which (as determined by the Secretary of Defense) is likely to affect significantly the survivability of such system; or
 
-&emsp;&emsp;(B) a modification or upgrade will be made to a major munitions program or a missileprogram which (as determined by the Secretary of Defense) is likely to affect significantly the lethality of the munition or missile produced under the program.
+&emsp;&emsp;(B) a modification or upgrade will be made to a major munitions program or a missile program which (as determined by the Secretary of Defense) is likely to affect significantly the lethality of the munition or missile produced under the program.
 
 &emsp;(7) The term "Milestone B approval" means a decision to enter into system development and demonstration pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
 
-&emsp;(8) The term "Milestone C approval" means a decision to enter into production and deployment pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
+&emsp;(8) The term "Milestone C approval" means a decision to enter into production and deployment pursuant to guidance prescribed by theSecretary of Defense for the management of Department of Defense acquisition programs.
 
 (Added Pub. L. 99–500, §101(c) \[title X, §910(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, and Pub. L. 99–591, §101(c) \[title X, §910(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143, §2366; Pub. L. 99–661, div. A, title IX, formerly title IV, §910(a)(1), Nov. 14, 1986, 100 Stat. 3923, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §802, title XII, §1231(11), Dec. 4, 1987, 101 Stat. 1123, 1160; Pub. L. 100–456, div. A, title XII, §1233(l)(3), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §§802(c)(1)–(4)(A), 804, Nov. 29, 1989, 103 Stat. 1486, 1488; Pub. L. 101–510, div. A, title XIV, §1484(h)(7), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VIII, §828(d)(2), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 103–355, title III, §3014, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title XV, §1502(a)(18), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181; Pub. L. 107–314, div. A, title VIII, §818, Dec. 2, 2002, 116 Stat. 2611; Pub. L. 108–136, div. A, title X, §1043(b)(13), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 110–417, \[div. A\], title II, §251(a), (b), Oct. 14, 2008, 122 Stat. 4400; renumbered §4172 and amended Pub. L. 116–283, div. A, title XVIII, §§1845(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4247, 4294; Pub. L. 117–81, div. A, title XVII, §1701(u)(6)(B), Dec. 27, 2021, 135 Stat. 2154.)
 
@@ -146,7 +146,7 @@ Subsec. (a)(1)(B). Pub. L. 101–189, §§802(c)(1)(B), 804(a), as amended by Pu
 
 Subsec. (a)(1)(C). Pub. L. 101–189, §802(c)(1)(C), struck out subpar. (C) which read as follows: "a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed in accordance with this section."
 
-Subsec. (b)(2), (3). Pub. L. 101–189, §802(c)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "In the case of a major defense acquisition program, no person employed by the contractor for the system being tested may be involved in the conduct of the operational test and evaluation required under subsection (a). The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance,and support of the system being tested when the system is deployed in combat."
+Subsec. (b)(2), (3). Pub. L. 101–189, §802(c)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "In the case of a major defense acquisition program, no person employed by the contractor for the system being tested may be involved in the conduct of the operational test and evaluation required under subsection (a). The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat."
 
 Subsec. (d). Pub. L. 101–189, §804(b), inserted at end "Each such report shall describe the results of the survivability or lethality testing and shall give the Secretary's overall assessment of the testing."
 
@@ -154,7 +154,7 @@ Subsec. (e)(3) to (8). Pub. L. 101–189, §802(c)(3), redesignated pars. (4), (
 
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–456 made technical correction to directory language of Pub. L. 100–180, §802(a)(1)(C). See 1987 Amendment note below.
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–180, §802(a)(1), as amended by Pub. L. 100–456, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), and added par. (2).
+<b>1987</b>—Subsec. (a). Pub. L. 100–180, §802(a)(1), as amended by Pub. L. 100–456, designated existing provisions aspar. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), and added par. (2).
 
 Subsec. (b)(1). Pub. L. 100–180, §802(a)(2), inserted "(including a covered product improvement program)" after "system or program" and "(or in the product modification or upgrade to the system, munition, or missile)" after "or missile".
 
@@ -193,6 +193,70 @@ Pub. L. 99–500, §101(c) \[title X, §910(b)\], Oct. 18, 1986, 100 Stat. 1783�
 &emsp;"(1) after May 31, 1987, in the case of a decision referred to in subsection (a)(1) or (a)(2) of such section; or
 
 &emsp;"(2) after the date of the enactment of this Act \[Oct. 18, 1986\], in the case of a decision referred to in subsection (a)(3) of such section."
+
+#### Consideration of Lethality in the Analysis of Alternatives for Munitions
+
+Pub. L. 118–31, div. A, title II, §242, Dec. 22, 2023, 137 Stat. 208, provided that:
+
+"(a)
+
+Analysis of Alternatives Review.—The Secretary of Defense shall ensure that lethality is considered in any analysis of alternatives conducted prior to issuing a capability development document for purposes of procuring any new munition or modifying an existing munition.
+
+"(b)
+
+Consideration of Energetic Materials.—In assessing the lethality of a munition for purposes of the analysis of alternatives described under subsection (a), the Secretary of Defense shall include the margin of effectiveness, increased system capacities, and cost implications afforded by the potential use of novel or alternative energetic materials in the munition to achieve increased explosive effects.
+
+"(c)
+
+Energetic Materials Defined.—In this section, the term 'energetic materials' means critical chemicals that—
+
+&emsp;"(1) release large amounts of energy in a short amount of time; and
+
+&emsp;"(2) are capable of being used in explosives that create lethal effects in warheads."
+
+#### Pilot Program on Incorporation of the CL20 Compound in Certain Weapon Systems
+
+Pub. L. 118–31, div. A, title II, §243, Dec. 22, 2023, 137 Stat. 209, provided that:
+
+"(a)
+
+Pilot Program Required.—The Secretary of Defense shall carry out a pilot program under which the Secretary incorporates the CL20 compound as the energetic material for the main fill in the warheads or propellants of three weapon systems under development by the Department of Defense for the purpose of determining cost, schedule, and lethality performance parameters for such systems.
+
+"(b)
+
+Selection of Weapon Systems.—Each of the three weapon systems selected under subsection (a) shall be a weapon system that does not, as of the date of the enactment of this Act \[Dec. 22, 2023\], already incorporate the CL20 compound as the energetic material for the main fill in the warhead or propellant of the system.
+
+"(c)
+
+Timeline for Integration.—The Secretary of Defense shall ensure that the CL20 energetic compound is integrated into each weapon system selected under subsection (a) by not later than three years after the date of the enactment of this Act.
+
+"(d)
+
+Briefing.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on progress of the Secretary in carrying out the pilot program under this section, including—
+
+&emsp;"(1) identification of the weapon systems selected by the Secretary under subsection (a);
+
+&emsp;"(2) with respect to each such weapon system, identification of—
+
+&emsp;&emsp;"(A) a timeline for incorporating the CL20 energetic compound into such weapon system;
+
+&emsp;&emsp;"(B) the organization within the Department of Defense responsible for carrying out activities under the pilot program for such weapon system; and
+
+&emsp;&emsp;"(C) any locations at which testing associated with such weapon system under the program is expected to be carried out; and
+
+&emsp;"(3) the baseline cost, schedule, and lethality objectives that will be used to evaluate the performance of weapon systems under the program.
+
+"(e)
+
+Definitions.—In this section, the term 'energetic material' means critical chemicals and formulations that—
+
+&emsp;"(1) release large amounts of stored chemical energy; and
+
+&emsp;"(2) are capable of being used as explosives, propellants, pyrotechnics, and reactive materials that—
+
+&emsp;&emsp;"(A) create lethal effects in warheads in kinetic weapons components and systems; or
+
+&emsp;&emsp;"(B) increase propellant performance in a weapon propulsion system as related to lethal effects, range, or speed."
 
 #### Development and Implementation of Digital Technologies for Survivability and Lethality Testing
 

@@ -56,7 +56,7 @@ It shall be an affirmative defense to actions under subsection (a) or (i) that�
 
 Not later than 6 months after August 23, 1988, the Attorney General, after consultation with the Securities and Exchange Commission, the Secretary of Commerce, the United States Trade Representative, the Secretary of State, and the Secretary of the Treasury, and after obtaining the views of all interested persons through public notice and comment procedures, shall determine to what extent compliance with this section would be enhanced and the business community would be assisted by further clarification of the preceding provisions of this section and may, based on such determination and to the extent necessary and appropriate, issue—
 
-&emsp;(1) guidelines describing specific types of conduct, associated with common types of export sales arrangements and business contracts, which for purposes of the Department of Justice's present enforcement policy, the Attorney General determines would be in conformance with the preceding provisions of this section; and
+&emsp;(1) guidelines describing specific types of conduct, associated with common types of export sales arrangements and business contracts, which for purposes of the Departmentof Justice's present enforcement policy, the Attorney General determines would be in conformance with the preceding provisions of this section; and
 
 &emsp;(2) general precautionary procedures which domestic concerns may use on a voluntary basis to conform their conduct to the Department of Justice's present enforcement policy regarding the preceding provisions of this section.
 
@@ -94,7 +94,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship which has its principal place of business in the United States, or which is organized under the laws of a State of the United States or a territory, possession, or commonwealth of the United States.
 
-&emsp;(2)(A) The term "foreign official" means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
+&emsp;(2)(A) The term "foreign official" means any officer or employee of a foreign government orany department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
 
 &emsp;(B) For purposes of subparagraph (A), the term "public international organization" means—
 
@@ -122,7 +122,7 @@ For purposes of this section:
 
 &emsp;&emsp;(v) actions of a similar nature.
 
-&emsp;(B) The term "routine governmental action" does not include any decision by a foreign official whether, or on what terms, to award newbusiness to or to continue business with a particular party, or any action taken by a foreign official involved in the decision-making process to encourage a decision to award new business to or continue business with a particular party.
+&emsp;(B) The term "routine governmental action" does not include any decision by a foreign official whether, or on what terms, to award new business to or to continue business with a particular party, or any action taken by a foreign official involved in the decision-making process to encourage a decision to award new business to or continue business with a particular party.
 
 &emsp;(5) The term "interstate commerce" means trade, commerce, transportation, or communication among the several States, or between any foreign country and any State or between any State and any place or ship outside thereof, and such term includes the intrastate use of—
 

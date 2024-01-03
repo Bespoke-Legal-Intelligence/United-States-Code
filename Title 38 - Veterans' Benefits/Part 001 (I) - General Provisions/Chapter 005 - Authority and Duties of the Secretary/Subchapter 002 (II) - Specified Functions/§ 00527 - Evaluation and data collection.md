@@ -86,7 +86,7 @@ Annual Report on Disability Claims.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act, \[Aug. 10, 2022\] andannually thereafter, the Secretary of Veterans Affairs shall submit to the appropriate congressional committees a report detailing the following:
+In general.—Not later than 180 days after the date of the enactment of this Act, \[Aug. 10, 2022\] and annually thereafter, the Secretary of Veterans Affairs shall submit to the appropriate congressional committees a report detailing the following:
 
 &emsp;&emsp;"(A) The total number of covered veterans.
 
@@ -230,7 +230,7 @@ Education Campaign.—Beginning not later than one year after the date of the en
 
 "(b)
 
-Airborne Hazards and Open Burn Pit Registry Defined.—In this section, the term 'Airborne Hazards and Open Burn Pit Registry' means the registry established by the Secretary of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note) \[set out below\]."
+Airborne Hazards and Open Burn Pit Registry Defined.—In this section, the term 'Airborne Hazards and Open Burn Pit Registry' means the registry established by the Secretary of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans'Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note) \[set out below\]."
 
 #### Coordination by Veterans Health Administration of Efforts To Understand Effects of Burn Pits
 
@@ -342,7 +342,7 @@ Pub. L. 102–585, title VII, Nov. 4, 1992, 106 Stat. 4975, as amended by Pub. L
 
 "(a)
 
-Establishment of Registry.—The Secretary of Veterans Affairs shall establish and maintain a special record to be known as the 'Persian Gulf War Veterans Health Registry' (in this section referred to as the 'Registry').
+Establishment of Registry.—The Secretary of Veterans Affairs shall establish and maintain a special record to be known as the 'Persian Gulf War VeteransHealth Registry' (in this section referred to as the 'Registry').
 
 "(b)
 

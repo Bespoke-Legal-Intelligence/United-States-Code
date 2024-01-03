@@ -88,7 +88,7 @@ Loans, loan guarantees, and other investments made pursuant to subsection (a) sh
 
 #### (B) Federal Reserve Act taxpayer protections and other requirements apply
 
-&emsp;&emsp;For the avoidance of doubt, any applicable requirements under section 343(3) of title 12, including requirements relating to loan collateralization, taxpayer protection, and borrower solvency, shall apply with respect to any program or facility described in subsection (b)(4).
+&emsp;&emsp;For the avoidance of doubt, any applicable requirements under section 13(3) of the Federal Reserve Act (12 U.S.C. 343(3)), including requirements relating to loan collateralization, taxpayer protection, and borrower solvency, shall apply with respect to any program or facility described in subsection (b)(4).
 
 #### (C) United States businesses
 
@@ -122,7 +122,7 @@ Loans, loan guarantees, and other investments made pursuant to subsection (a) sh
 
 #### (ii) Main street lending program
 
-&emsp;&emsp;&emsp;Nothing in this subparagraph shall limit the discretion of the Board of Governors of the Federal Reserve System to establish a Main Street Lending Program or other similar program or facility that supports lending to small and mid-sized businesses on such terms and conditions as the Board may set consistent with section 343(3) of title 12, including any such program in which the Secretary makes a loan, loan guarantee, or other investment under subsection (b)(4).
+&emsp;&emsp;&emsp;Nothing in this subparagraph shall limit the discretion of the Board of Governors of the Federal Reserve System to establish a Main Street Lending Program or other similar program or facility that supports lending to small and mid-sized businesses on such terms and conditions as the Board may set consistent with section 13(3) of the Federal Reserve Act (12 U.S.C. 343(3)), including any such program in which the Secretary makes a loan, loan guarantee, or other investment under subsection (b)(4).
 
 #### (E) Government participants
 
@@ -190,7 +190,7 @@ Notwithstanding any other provision of law, the Secretary may use not greater th
 
 #### (g) Financial agents
 
-The Secretary is authorized to designate financial institutions, including but not limitedto, depositories, brokers, dealers, and other institutions, as financial agents of the United States. Such institutions shall—
+The Secretary is authorized to designate financial institutions, including but not limited to, depositories, brokers, dealers, and other institutions, as financial agents of the United States. Such institutions shall—
 
 &emsp;(1) perform all reasonable duties the Secretary determines necessary to respond to the coronavirus; and
 

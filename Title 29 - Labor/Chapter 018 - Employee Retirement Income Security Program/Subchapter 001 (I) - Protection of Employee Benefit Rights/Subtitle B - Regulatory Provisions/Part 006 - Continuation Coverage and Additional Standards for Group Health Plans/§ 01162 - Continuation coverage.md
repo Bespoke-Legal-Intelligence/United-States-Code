@@ -30,7 +30,7 @@ For purposes of section 1161 of this title, the term "continuation coverage" mea
 
 #### (v) Special rule for PBGC recipients
 
-&emsp;&emsp;&emsp;In the case of a qualifying event described in section 1163(2) of this title withrespect to a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which is to be paid by the Pension Benefit Guaranty Corporation under subchapter III, notwithstanding clause (i) or (ii), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond January 1, 2014.
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 1163(2) of this title with respect to a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which is to be paid by the Pension Benefit Guaranty Corporation under subchapter III, notwithstanding clause (i) or (ii), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond January 1, 2014.
 
 #### (vi) Special rule for TAA-eligible individuals
 
@@ -80,7 +80,7 @@ For purposes of section 1161 of this title, the term "continuation coverage" mea
 
 #### (5) Conversion option
 
-&emsp;In the case of a qualified beneficiary whose period of continuation coverage expires underparagraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
+&emsp;In the case of a qualified beneficiary whose period of continuation coverage expires under paragraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
 
 (Pub. L. 93–406, title I, §602, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 228; amended Pub. L. 99–509, title IX, §9501(b)(1)(B), (2)(B), Oct. 21, 1986, 100 Stat. 2076, 2077; Pub. L. 99–514, title XVIII, §1895(d)(1)(B), (2)(B), (3)(B), (4)(B), Oct. 22, 1986, 100 Stat. 2936–2938; Pub. L. 101–239, title VI, §6703(a), (b), title VII, §§7862(c)(3)(B), (4)(A), (5)(B), 7871(c), Dec. 19, 1989, 103 Stat. 2296, 2432, 2433, 2435; Pub. L. 104–188, title I, §1704(g)(1)(B), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 104–191, title IV, §421(b)(1), Aug. 21, 1996, 110 Stat. 2088; Pub. L. 111–5, div. B, title I, §1899F(a), Feb. 17, 2009, 123 Stat. 428; Pub. L. 111–344, title I, §116(a), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §243(a)(1), (2), Oct. 21, 2011, 125 Stat. 420.)
 
@@ -122,7 +122,7 @@ Qualifying event involving medicare entitlement.—In the case of an event descr
 
 Par. (2)(D)(i). Pub. L. 104–191, §421(b)(1)(B), inserted "(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of this subtitle, or title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\])" before ", or" at end.
 
-Par. (2)(E). Pub. L. 104–191, §421(b)(1)(C), substituted "at any time during the first 60 days of continuation coverage under this part" for "at the time of a qualifying event described in section 1163(2) of this title".
+Par. (2)(E). Pub. L. 104–191, §421(b)(1)(C), substituted "at any time during the first 60 days of continuationcoverage under this part" for "at the time of a qualifying event described in section 1163(2) of this title".
 
 <b>1989</b>—Par. (2)(A). Pub. L. 101–239, §6703(a)(1), inserted after and below cl. (iv) "In the case of an individual who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 1163(2) of this title, any reference in clause (i) or (ii) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under section 1166(3) of this title before the end of such 18 months."
 

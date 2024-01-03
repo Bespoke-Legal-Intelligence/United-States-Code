@@ -76,7 +76,7 @@ Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XX, §2001(d)(2), Oct. 4, 1976, 90 Stat. 1854, provided that: "The amendments made by subsections (b) and (c)(2) \[enacting section 2505 of this title, amending this section and section 2504 of this title, and repealing section 2521 of this title\] shall apply to gifts made after December 31, 1976."
+Pub. L. 94–455, title XX, §2001(d)(2), Oct. 4, 1976, 90 Stat. 1854, provided that: "The amendments made bysubsections (b) and (c)(2) \[enacting section 2505 of this title, amending this section and section 2504 of this title, and repealing section 2521 of this title\] shall apply to gifts made after December 31, 1976."
 
 #### Effective Date of 1970 Amendment
 

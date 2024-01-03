@@ -4,7 +4,7 @@
 
 &emsp;(1) whether an obligation is to be issued on an interest-bearing basis, a discount basis, or an interest-bearing and discount basis;
 
-&emsp;(2) regulations on the conditions under which the obligation will be offered for sale, including whether it will be offered for sale on a competitive or other basis;
+&emsp;(2) regulations on the conditions under which the obligation will be offered for sale,including whether it will be offered for sale on a competitive or other basis;
 
 &emsp;(3) the offering price and interest rate;
 
@@ -20,7 +20,7 @@
 
 (2) An obligation of the Government issued after March 3, 1971, under law may not be redeemed before its maturity to pay a tax imposed by the Government in an amount more than the fair market value of the obligation at the time of its redemption. This paragraph does not apply to a Treasury bill issued under section 3104 of this title.
 
-(c) Under conditions prescribed by the Secretary, an obligation authorized by this chapter may be issued in exchange for an obligation ofan agency whose principal and interest are unconditionally guaranteed by the Government at or before maturity.
+(c) Under conditions prescribed by the Secretary, an obligation authorized by this chapter may be issued in exchange for an obligation of an agency whose principal and interest are unconditionally guaranteed by the Government at or before maturity.
 
 (d) Under conditions prescribed by the Secretary, the Secretary may issue registered bonds in exchange for and instead of coupon bonds that have been or may be issued. The registered bonds shall be similar in all respects to the registered bonds issued under a law authorizing the issue of coupon bonds offered for exchange.
 
@@ -212,7 +212,7 @@ Subsec. (g)(2) to (4). Pub. L. 111–147, §502(d)(1), redesignated pars. (3) an
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–147 applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, see section 502(f) of Pub. L. 111–147, set out as a note under section 149 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 111–147 applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, see section 502(f) of Pub. L. 111–147, set out asa note under section 149 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1986 Amendment; Promulgation of Regulations
 
@@ -226,7 +226,7 @@ Pub. L. 98–216, §4(a), (b), Feb. 14, 1984, 98 Stat. 6, 7, as amended by Pub. 
 
 "(2) The amendment made by section 1(9) of the Act of January 12, 1983 (Public Law 97–452, 96 Stat. 2468) \[amending this section\], applies to an obligation issued after June 30, 1983, if—
 
-&emsp;"(A) interest on the obligation is exempt from tax (decided without regard to the amendments made by section 310 of the Tax Equity and Fiscal Responsibility Act of 1982 (Public Law 97–248, 96 Stat. 595) \[enacting section 4701 of Title 26, Internal Revenue Code,section 757c–5 of former Title 31, Money and Finance, amending sections 103, 103A, 163, 165, 312, and 1232 of Title 26, and enacting a provision set out as a note under section 103 of Title 26\]) under law (without regard to the identity of the holder); and
+&emsp;"(A) interest on the obligation is exempt from tax (decided without regard to the amendments made by section 310 of the Tax Equity and Fiscal Responsibility Act of 1982 (Public Law 97–248, 96 Stat. 595) \[enacting section 4701 of Title 26, Internal Revenue Code, section 757c–5 of former Title 31, Money and Finance, amending sections 103, 103A, 163, 165, 312, and 1232 of Title 26, and enacting a provision set out as a note under section 103 of Title 26\]) under law (without regard to the identity of the holder); and
 
 &emsp;"(B) the obligation was not required to be in registered form under the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (26 U.S.C. 1 et seq.) as in effect on September 2, 1982.
 

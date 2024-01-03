@@ -30,7 +30,7 @@ Operational Flying Duty Requirements.—(1) An eligible career enlisted flyer mu
 
 (d)
 
-Monthly Maximum Rates.—The monthly rate of any career enlisted flyer incentive pay paid under this section to a member on active duty shall be prescribed by the Secretary concerned, but may not exceed the following:
+Monthly Maximum Rates.—The monthly rate of any career enlisted flyer incentive paypaid under this section to a member on active duty shall be prescribed by the Secretary concerned, but may not exceed the following:
 
 &nbsp;
 

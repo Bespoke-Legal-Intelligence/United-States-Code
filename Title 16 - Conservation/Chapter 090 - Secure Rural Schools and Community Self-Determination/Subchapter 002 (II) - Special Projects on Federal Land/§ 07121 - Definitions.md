@@ -32,5 +32,5 @@ In this subchapter:
 
 #### Prior Provisions
 
-A prior section 201 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 201 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal byPub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 

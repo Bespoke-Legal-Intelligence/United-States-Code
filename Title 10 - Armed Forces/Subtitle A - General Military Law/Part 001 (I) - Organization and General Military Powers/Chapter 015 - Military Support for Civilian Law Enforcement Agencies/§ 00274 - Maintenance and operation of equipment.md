@@ -20,7 +20,7 @@
 
 &emsp;(C) Aerial reconnaissance.
 
-&emsp;(D) Interception of vessels or aircraft detected outside the land area of the United States for the purposes of communicatingwith such vessels and aircraft to direct such vessels and aircraft to go to a location designated by appropriate civilian officials.
+&emsp;(D) Interception of vessels or aircraft detected outside the land area of the United States for the purposes of communicating with such vessels and aircraft to direct such vessels and aircraft to go to a location designated by appropriate civilian officials.
 
 &emsp;(E) Operation of equipment to facilitate communications in connection with law enforcement programs specified in paragraph (4)(A).
 
@@ -254,7 +254,7 @@ Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as ame
 
 #### Communications Network
 
-Pub. L. 100–456, div. A, title XI, §1103, Sept. 29, 1988, 102 Stat. 2042, related to integration of United States assets dedicated to interdiction of illegal drugs into an effective communications network, prior to repeal by Pub. L. 101–189, div. A, title XII, §1204(b), Nov. 29, 1989, 103 Stat. 1564. See section 1204(a) of Pub. L. 101–189 set out as a note under section 124 of this title.
+Pub. L. 100–456, div. A, title XI, §1103, Sept. 29, 1988, 102 Stat. 2042, related to integration of United Statesassets dedicated to interdiction of illegal drugs into an effective communications network, prior to repeal by Pub. L. 101–189, div. A, title XII, §1204(b), Nov. 29, 1989, 103 Stat. 1564. See section 1204(a) of Pub. L. 101–189 set out as a note under section 124 of this title.
 
 #### Enhanced Drug Interdiction and Enforcement Role for National Guard
 

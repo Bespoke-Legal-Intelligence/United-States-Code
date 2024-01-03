@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each State agency awarded a grant or cooperative agreement under section 300ii–1 of thistitle shall report such data, information, and metrics as the Secretary may require for purposes of—
+Each State agency awarded a grant or cooperative agreement under section 300ii–1 of this title shall report such data, information, and metrics as the Secretary may require for purposes of—
 
 &emsp;(1) evaluating State programs and activities funded pursuant to such grant or cooperative agreement, including any results pursuant to section 300ii–1(d)(2)(B)(xii) of this title; and
 

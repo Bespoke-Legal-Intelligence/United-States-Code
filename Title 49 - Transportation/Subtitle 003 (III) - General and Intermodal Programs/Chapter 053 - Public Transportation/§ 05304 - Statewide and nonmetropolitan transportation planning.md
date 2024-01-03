@@ -92,7 +92,7 @@ Public transportation performance targets.—In areas with a population of fewer
 
 &emsp;&emsp;(C)
 
-Integration of other performance-based plans.—A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other Statetransportation plans and transportation processes, as well as any plans developed pursuant to title 23 by providers of public transportation in areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, required as part of a performance-based program.
+Integration of other performance-based plans.—A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to title 23 by providers of public transportation in areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, required as part of a performance-based program.
 
 &emsp;&emsp;(D)
 
@@ -100,7 +100,7 @@ Use of performance measures and targets.—The performance measures and targets 
 
 &emsp;(3)
 
-Failure to consider factors.—The failure to take into consideration the factors specified in paragraphs (1) and (2) shall not be subject to review by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a statewide transportation plan, a statewide transportation improvement program, a project or strategy, or the certification of a planning process.
+Failure to consider factors.—The failure to take into consideration the factors specified in paragraphs (1) and (2) shall not be subject to review by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a statewide transportation plan, astatewide transportation improvement program, a project or strategy, or the certification of a planning process.
 
 (e)
 
@@ -386,7 +386,7 @@ Performance-based Planning Processes Evaluation.—
 
 &emsp;(1)
 
-In general.—The Secretary shall establish criteria to evaluate the effectiveness ofthe performance-based planning processes of States, taking into consideration the following:
+In general.—The Secretary shall establish criteria to evaluate the effectiveness of the performance-based planning processes of States, taking into consideration the following:
 
 &emsp;&emsp;(A) The extent to which the State is making progress toward achieving, the performance targets described in subsection (d)(2), taking into account whether the State developed appropriate performance targets.
 
@@ -576,7 +576,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Schedule for Implementation
 

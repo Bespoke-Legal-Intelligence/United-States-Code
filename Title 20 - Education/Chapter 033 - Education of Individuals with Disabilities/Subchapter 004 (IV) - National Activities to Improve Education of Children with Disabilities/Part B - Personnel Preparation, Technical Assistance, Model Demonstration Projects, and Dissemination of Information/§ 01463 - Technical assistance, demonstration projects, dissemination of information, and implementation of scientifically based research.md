@@ -40,7 +40,7 @@ Activities that may be carried out under this section include activities to impr
 
 &emsp;(7) promoting change through a multistate or regional framework that benefits States, local educational agencies, and other participants in partnerships that are in the process of achieving systemic-change outcomes;
 
-&emsp;(8) focusing on the needs and issues that are specific to a population of children with disabilities, such as providing single-State andmulti-State technical assistance and in-service training—
+&emsp;(8) focusing on the needs and issues that are specific to a population of children with disabilities, such as providing single-State and multi-State technical assistance and in-service training—
 
 &emsp;&emsp;(A) to schools and agencies serving deaf-blind children and their families;
 

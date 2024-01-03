@@ -10,7 +10,7 @@
 
 &emsp;(2) except as provided in subsection (f), service with respect to which deductions and withholdings under section 204(a)(1) of the Federal Employees' Retirement Contribution Temporary Adjustment Act of 1983 have been made;
 
-&emsp;(3) except as provided in subsection (f) or (h), any civilian service (performed before January 1, 1989, other than any service under paragraph (1) or (2)) which, but for the amendments made by subsections (a)(4) and (b) of section 202 of the Federal Employees' Retirement SystemAct of 1986, would be creditable under subchapter III of chapter 83 of this title (determined without regard to any deposit or redeposit requirement under such subchapter, any requirement that the individual become subject to such subchapter after performing the service involved, or any requirement that the individual give notice in writing to the official by whom such individual is paid of such individual's desire to become subject to such subchapter);
+&emsp;(3) except as provided in subsection (f) or (h), any civilian service (performed before January 1, 1989, other than any service under paragraph (1) or (2)) which, but for the amendments made by subsections (a)(4) and (b) of section 202 of the Federal Employees' Retirement System Act of 1986, would be creditable under subchapter III of chapter 83 of this title (determined without regard to any deposit or redeposit requirement under such subchapter, any requirement that the individual become subject to such subchapter after performing the service involved, or any requirement that the individual give notice in writing to the official by whom such individual is paid of such individual's desire to become subject to such subchapter);
 
 &emsp;(4) a period of service (other than any service under any other paragraph of this subsection and other than any military service) that was creditable under the Foreign Service Pension System described in subchapter II of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980, if the employee or Member waives credit for such service under the Foreign Service Pension System and makes a payment to the Fund equal to the amount that would have been deducted from pay under section 8422(a) had the employee been subject to this chapter during such period of service (together with interest on such amount computed under paragraphs (2) and (3) of section 8334(e));
 
@@ -66,7 +66,7 @@
 
 &emsp;(ii) this paragraph shall be carried out in any case which involves a former spouse.
 
-(5) If, after January 1, 1997, an employee or Member waives retired pay that is subject to a court order for which there has been effective service on the Secretary concerned for purposes of section 1408 of title 10, the military service on which the retired pay is based may be credited as service for purposes of this chapter only if the employee or Member authorizes the Director to deduct and withhold from the annuity payableto the employee or Member under this subchapter an amount equal to the amount that, if the annuity payment was instead a payment of the employee's or Member's retired pay, would have been deducted and withheld and paid to the former spouse covered by the court order under such section 1408. The amount deducted and withheld under this paragraph shall be paid to that former spouse. The period of civil service employment by the employee or Member shall not be taken into consideration in determining the amount of the deductions and withholding or the amount of the payment to the former spouse. The Director of the Office of Personnel Management shall prescribe regulations to carry out this paragraph.
+(5) If, after January 1, 1997, an employee or Member waives retired pay that is subject to a court order for which there has been effective service on the Secretary concerned for purposes of section 1408 of title 10, the military service on which the retired pay is based may be credited as service for purposes of this chapter only if the employee or Member authorizes the Director to deduct and withhold from the annuity payable to the employee or Member under this subchapter an amount equal to the amount that, if the annuity payment was instead a payment of the employee's or Member's retired pay, would have been deducted and withheld and paid to the former spouse covered by the court order under such section 1408. The amount deducted and withheld under this paragraph shall be paid to that former spouse. The period of civil service employment by the employee or Member shall not be taken into consideration in determining the amount of the deductions and withholding or the amount of the payment to the former spouse. The Director of the Office of Personnel Management shall prescribe regulations to carry out this paragraph.
 
 (d) Credit under this chapter shall be allowed for leaves of absence without pay granted an employee while performing military service, or while receiving benefits under subchapter I of chapter 81. An employee or former employee who returns to duty after a period of separation is deemed, for the purpose of this subsection, to have been on leave of absence without pay for that part of the period in which that individual was receiving benefits under subchapter I of chapter 81. Credit may not be allowed for so much of other leaves of absence without pay as exceeds 6 months in the aggregate in a calendar year.
 
@@ -180,7 +180,7 @@ Subsec. (k). Pub. L. 107–107, §1132(b)(1)(B), added subsec. (k).
 
 Subsec. (i). Pub. L. 106–168, §202(a)(2), added subsec. (i) defining "Bank Plan" for purposes of subsec. (b)(5).
 
-<b>1996</b>—Subsec. (c)(1). Pub. L. 104–201, §637(b)(2), in introductory provisions, substituted "Except as provided in paragraphs (2), (3), and (5)" for "Except as provided in paragraph (2) or (3)".
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–201, §637(b)(2), in introductory provisions, substituted "Except as providedin paragraphs (2), (3), and (5)" for "Except as provided in paragraph (2) or (3)".
 
 Subsec. (c)(5). Pub. L. 104–201, §637(b)(1), added par. (5).
 
@@ -232,7 +232,7 @@ Amendment by Pub. L. 102–242 applicable with respect to any individual who tra
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 502(b) of Pub. L. 99–556 applicable to a survivor of an employee or member who dieson or after the 180th day after Oct. 27, 1986, and to other survivors upon application, see section 502(c) of Pub. L. 99–556, set out as a note under section 8332 of this title.
+Amendment by section 502(b) of Pub. L. 99–556 applicable to a survivor of an employee or member who dies on or after the 180th day after Oct. 27, 1986, and to other survivors upon application, see section 502(c) of Pub. L. 99–556, set out as a note under section 8332 of this title.
 
 #### Transfer of Functions
 

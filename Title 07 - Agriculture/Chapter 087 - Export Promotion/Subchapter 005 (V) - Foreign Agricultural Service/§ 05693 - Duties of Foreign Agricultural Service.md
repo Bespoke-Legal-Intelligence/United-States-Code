@@ -40,7 +40,7 @@ In General.—Not later than 1 year after the date of enactment of this Act \[Ma
 
 "(b)
 
-Purpose of Program.—The purpose of a program described in subsection (a) would be to supplement andnot replace any services currently offered overseas by the Foreign Agricultural Service.
+Purpose of Program.—The purpose of a program described in subsection (a) would be to supplement and not replace any services currently offered overseas by the Foreign Agricultural Service.
 
 "(c)
 

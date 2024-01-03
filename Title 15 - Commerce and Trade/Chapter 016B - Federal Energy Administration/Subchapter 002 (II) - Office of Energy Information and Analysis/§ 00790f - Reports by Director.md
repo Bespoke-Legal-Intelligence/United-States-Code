@@ -28,7 +28,7 @@ Section effective 150 days after Aug. 14, 1976, see section 143 of Pub. L. 94–
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (a)(2) of this section relating to an annual report to Congress, see section 3003 of Pub. L. 104–66, asamended, set out as a note under section 1113 of Title 31, Money and Finance, and page 90 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (a)(2) of this section relating to an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 90 of House Document No. 103–7.
 
 #### Transfer of Functions
 

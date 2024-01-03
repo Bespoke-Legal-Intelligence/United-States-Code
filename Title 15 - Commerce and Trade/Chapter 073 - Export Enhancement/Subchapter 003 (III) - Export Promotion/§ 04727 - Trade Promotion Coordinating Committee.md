@@ -134,7 +134,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of Title22, Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
 #### Availability of State Resources Guides on Export.gov
 
@@ -404,7 +404,7 @@ Section 1. <i>Policy</i>. The United States recognizes that Africa is a region o
 
 Sec. 2. <i>Establishment</i>. Not later than 180 days after the date of this order, the Secretary of Commerce shall establish the President's Advisory Council on Doing Business in Africa (Advisory Council).
 
-Sec. 3. <i>Membership</i>. (a) The Advisory Council shall consist of not more than 26 private sector corporate members, including small businesses and representatives from infrastructure, agriculture, consumer goods, banking, services, and other industries. The Advisory Council shall be broadly representative of the key industries with business interests in the functions of the Advisory Council as set forth in section 4 of this order. Appointments to the Advisory Council shall be made without regard to political affiliation.
+Sec. 3. <i>Membership</i>. (a) The Advisory Council shall consist of not more than 26 private sector corporate members, including small businesses and representatives from infrastructure, agriculture, consumer goods,banking, services, and other industries. The Advisory Council shall be broadly representative of the key industries with business interests in the functions of the Advisory Council as set forth in section 4 of this order. Appointments to the Advisory Council shall be made without regard to political affiliation.
 
 (b) Members of the Advisory Council shall be appointed by the Secretary of Commerce, in consultation with the Trade Promotion Coordinating Committee (TPCC), which was authorized by statute in 1992 (15 U.S.C. 4727) and established by Executive Order 12870 of September 30, 1993.
 
@@ -458,9 +458,11 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Advisory Council on Doing Business in Africa
 
-Term of President's Advisory Council on Doing Business in Africa extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of President's Advisory Council on Doing Business in Africa extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Advisory Council on Doing Business in Africa were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 

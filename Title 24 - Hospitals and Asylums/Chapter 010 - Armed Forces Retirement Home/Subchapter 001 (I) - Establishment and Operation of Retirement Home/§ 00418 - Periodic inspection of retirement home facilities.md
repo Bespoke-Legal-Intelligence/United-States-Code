@@ -22,7 +22,7 @@ Not later than 60 days after receiving a report on an inspection from the civili
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors.
+<b>2021</b>—Pub. L. 116–283 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e)relating to periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors.
 
 <b>2018</b>—Subsecs. (c)(1), (e). Pub. L. 115–232, §1081(c)(3), made technical amendment to directory language of Pub. L. 115–91, §1051(d). See 2017 Amendment notes below.
 

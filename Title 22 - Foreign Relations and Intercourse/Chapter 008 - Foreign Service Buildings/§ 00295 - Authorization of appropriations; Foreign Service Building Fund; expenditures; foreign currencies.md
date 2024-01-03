@@ -84,7 +84,7 @@
 
 &emsp;(2) for use to carry out the other purposes of this chapter for fiscal years 1976 and 1977, $73,058,000, of which not to exceed $32,840,000 may be appropriated for fiscal year 1976.
 
-(i)(1) Sums appropriated under authority of this chapter shall remain available until expended. To the maximum extent feasible, expenditures under this chapter shall be made out of foreign currencies owned by or owed to the United States.
+(i)(1) Sums appropriated under authority of this chapter shall remain available until expended. To the maximum extent feasible, expenditures under this chapter shall be made outof foreign currencies owned by or owed to the United States.
 
 (2) Not to exceed 10 per centum of the funds authorized by any subparagraph under paragraph (1) of subsections (d), (f), (g), and (h) of this section may be used for any of the purposes for which funds are authorized under any other subparagraph of any of such paragraph (1).
 
@@ -148,7 +148,7 @@ Subsec. (g). Pub. L. 89–636, §1(3), redesignated second and third sentences o
 
 <b>1965</b>—Subsec. (e). Pub. L. 89–22 added subsec. (e).
 
-<b>1964</b>—Subsec. (d). Pub. L. 88–414 authorized appropriations of not more than $12,200,000 for fiscal year 1966, $12,400,000 for fiscal year 1967, and beginning with fiscal year 1966, permitted use of not more than 10 per centum of the funds authorized for any subparagraph under par. (1) of this subsection for the purposes of any other subparagraph of such par. (1).
+<b>1964</b>—Subsec. (d). Pub. L. 88–414 authorized appropriations of not more than $12,200,000 for fiscal year 1966, $12,400,000 for fiscal year 1967, and beginning with fiscal year 1966, permitted use of not more than 10 per centum of the funds authorized for any subparagraph under par.\(1) of this subsection for the purposes of any other subparagraph of such par. (1).
 
 <b>1963</b>—Subsec. (a). Pub. L. 88–94, §2(d), struck out ", subject to the direction of the commission," after "Secretary of State".
 

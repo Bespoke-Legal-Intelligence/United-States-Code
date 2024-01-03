@@ -1,6 +1,6 @@
 ### §2457. Reports by Board
 
-The Board shall submit annual reports to the Congress and such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs authorized by this chapter.
+The Board shall submit annual reports to the Congress and such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad todevelop a better understanding of and support for the programs authorized by this chapter.
 
 (Pub. L. 87–256, §107, Sept. 21, 1961, 75 Stat. 534; 1977 Reorg. Plan No. 2, §9(a)(3), (6), 42 F.R. 62461, 91 Stat. 1639.)
 

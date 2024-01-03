@@ -10,7 +10,7 @@ Responsibilities.—(1) Not later than 180 days after the date of the enactment 
 
 (2) The Secretary of Defense shall be responsible for prioritizing travel when requests exceed available executive airlift capability.
 
-(3) The Secretary of a military department shall maintain overall authority for schedulingthe required use travelers of that military department on executive aircraft controlled by the Secretary. When an executive aircraft controlled by the Secretary of a military department is not supporting required use travelers of that military department, the Secretary of the military department shall make such executive aircraft available for scheduling of other required use travelers.
+(3) The Secretary of a military department shall maintain overall authority for scheduling the required use travelers of that military department on executive aircraft controlled by the Secretary. When an executive aircraft controlled by the Secretary of a military department is not supporting required use travelers of that military department, the Secretary of the military department shall make such executive aircraft available for scheduling of other required use travelers.
 
 (c)
 

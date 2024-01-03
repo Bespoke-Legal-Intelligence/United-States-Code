@@ -12,7 +12,7 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;&emsp;(C) $27,500,000 for Human Factors and Aeromedical Research;
 
-&emsp;&emsp;(D) $30,000,000 for Environmental Research and Development, of which $20,000,000 shallbe for research activities related to reducing community exposure to civilian aircraft noise or emissions;
+&emsp;&emsp;(D) $30,000,000 for Environmental Research and Development, of which $20,000,000 shall be for research activities related to reducing community exposure to civilian aircraft noise or emissions;
 
 &emsp;&emsp;(E) $7,000,000 for Research Mission Support;
 
@@ -128,9 +128,11 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;(13) $204,000,000 for fiscal year 2021;
 
-&emsp;(14) $209,000,000 for fiscal year 2022; and
+&emsp;(14) $209,000,000 for fiscal year 2022;
 
-&emsp;(15) $214,000,000 for fiscal year 2023.
+&emsp;(15) $214,000,000 for fiscal year 2023; and
+
+&emsp;(16) $111,475,410 for the period beginning on October 1, 2023, and ending on March 8, 2024.
 
 (b)
 
@@ -146,7 +148,7 @@ Transfers Between Categories.—(1) Not more than 10 percent of the net amount a
 
 (2) The Secretary may transfer more than 10 percent of an authorized amount to or from a category only after—
 
-&emsp;(A) submitting a written explanation of the proposed transfer to the Committees on Science and Appropriations of the House ofRepresentatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate; and
+&emsp;(A) submitting a written explanation of the proposed transfer to the Committees on Science and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate; and
 
 &emsp;(B) 30 days have passed after the explanation is submitted or each Committee notifies the Secretary in writing that it does not object to the proposed transfer.
 
@@ -202,7 +204,7 @@ Principal criteria.—The principal criteria for the awarding of grants under th
 
 Competitive, merit-based evaluation.—Grants shall be awarded under this subsection on the basis of evaluation of proposals through a competitive, merit-based process.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194; Pub. L. 108–176, title VII, §§701, 707, Dec. 12, 2003, 117 Stat. 2574, 2582; Pub. L. 110–330, §8, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §8, Mar. 30, 2009, 123 Stat. 1459; Pub. L. 111–69, §8, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §8, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §8, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §8, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §8, July 2, 2010, 124 Stat. 1355; Pub. L. 111–216, title I, §107, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §208, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §8, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IX, §901(a), (b), Feb. 14, 2012, 126 Stat. 137; Pub. L. 114–55, title I, §105, Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–141, title I, §105, Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, §1105, July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §106, Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §106, Mar. 23, 2018, 132 Stat. 1047; Pub. L. 115–254, div. B, title VII, §703, Oct. 5, 2018, 132 Stat. 3409.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194; Pub. L. 108–176, title VII, §§701, 707, Dec. 12, 2003, 117 Stat. 2574, 2582; Pub. L. 110–330, §8, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §8, Mar. 30, 2009, 123 Stat. 1459; Pub. L. 111–69, §8, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §8, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §8, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §8, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §8, July 2, 2010, 124 Stat. 1355; Pub. L. 111–216, title I, §107, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §208, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §8, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IX, §901(a), (b), Feb. 14, 2012, 126 Stat. 137; Pub. L. 114–55, title I, §105, Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–141, title I, §105, Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, §1105, July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §106, Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §106, Mar. 23, 2018, 132 Stat. 1047; Pub. L. 115–254, div. B, title VII, §703, Oct. 5, 2018, 132 Stat. 3409; Pub. L. 118–15, div. B, title II, §2205, Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §105, Dec. 26, 2023, 137 Stat. 1115.)
 
 Historical and Revision Notes
 
@@ -267,6 +269,10 @@ In subsection (d)(2), the reference to fiscal years 1988–1992 and the words "b
 The date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, referred to in subsec. (h)(2), is the date of enactment of Pub. L. 105–155, which was approved Feb. 11, 1998.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(16). Pub. L. 118–34 added par. (16) and struck out former par. (16) which read as follows: "$64,098,360 for the period beginning on October 1, 2023, and ending on December 31, 2023."
+
+Pub. L. 118–15 added par. (16).
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §703(a)(1), struck out "and, for each of fiscal years 2012 through 2015, under subsection (g)" after "this title" in introductory provisions.
 

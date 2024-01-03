@@ -26,7 +26,7 @@ Each such application shall include—
 
 &emsp;(5) a description of how the State will determine the amount of any subgrants the State will award to local operating agencies, taking into account the numbers and needs of migratory children, the requirements of subsection (d), and the availability of funds from other Federal, State, and local programs; and
 
-&emsp;(6) a description of how the State will encourage programs and projects assisted under this part to offer family literacy services if the program or project serves a substantial number of migratory children whose parentsdo not have a high school diploma or its recognized equivalent or who have low levels of literacy.
+&emsp;(6) a description of how the State will encourage programs and projects assisted under this part to offer family literacy services if the program or project serves a substantial number of migratory children whose parents do not have a high school diploma or its recognized equivalent or who have low levels of literacy.
 
 #### (c) Assurances
 
@@ -40,7 +40,7 @@ Each such application shall also include assurances that—
 
 &emsp;(2) such programs and projects will be carried out in a manner consistent with the objectives of section 6314 of this title, subsections (b) and (d) of section 6315 of this title, subsections (b) and (c) of section 6321 of this title, and part F;
 
-&emsp;(3) in the planning and operation of programs and projects at both the State and local agency operating level, there is consultation with parents of migratory children, including parent advisory councils, for programs not less than 1 school year in duration, and that all such programs and projects are carried out—
+&emsp;(3) in the planning and operation of programs and projects at both the State and localagency operating level, there is consultation with parents of migratory children, including parent advisory councils, for programs not less than 1 school year in duration, and that all such programs and projects are carried out—
 
 &emsp;&emsp;(A) in a manner that provides for the same parental involvement as is required for programs and projects under section 6318 of this title, unless extraordinary circumstances make such provision impractical; and
 
@@ -118,7 +118,7 @@ Subsec. (c)(3)(A). Pub. L. 114–95, §1301(c)(2)(C)(ii), made technical amendme
 
 Subsec. (c)(4). Pub. L. 114–95, §1301(c)(2)(D), inserted "and migratory children who have dropped out of school" after "preschool migratory children".
 
-Subsec. (c)(6) to (8). Pub. L. 114–95, §1301(c)(2)(E)–(G), added pars. (6) and (7), redesignated former par. (7) as (8), in par. (8) substituted "section 6393(a)(1) of this title" for "paragraphs (1)(A) and (2)(B)(i) of section 6393(a) of this title, through such procedures as the Secretary may require", and struck out former par. (6) which related to assurances that, to the extent feasible, programs would provide for advocacy and outreach activities, professional development programs, family literacy programs, the integration of information technology into programs, and programs to facilitate the transition to postsecondary education or employment.
+Subsec. (c)(6) to (8). Pub. L. 114–95, §1301(c)(2)(E)–(G), added pars. (6) and (7), redesignated former par. (7) as (8), in par. (8) substituted "section 6393(a)(1) of this title" for "paragraphs (1)(A) and (2)(B)(i) of section6393(a) of this title, through such procedures as the Secretary may require", and struck out former par. (6) which related to assurances that, to the extent feasible, programs would provide for advocacy and outreach activities, professional development programs, family literacy programs, the integration of information technology into programs, and programs to facilitate the transition to postsecondary education or employment.
 
 Subsec. (d). Pub. L. 114–95, §1301(c)(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "In providing services with funds received under this part, each recipient of such funds shall give priority to migratory children who are failing, or most at risk of failing, to meet the State's challenging State academic content standards and challenging State student academic achievement standards, and whose education has been interrupted during the regular school year."
 

@@ -84,7 +84,7 @@ Definitions.—As used in this section, the term—
 
 &emsp;(4) "intergovernmental organization" includes international organization (as defined in section 1116(b)(5) of this title);
 
-&emsp;(5) "infrastructure facility" means any publicly or privately owned facility providing or distributing services for the benefit of the public, such as water, sewage, energy, fuel, or communications;
+&emsp;(5) "infrastructure facility" means any publicly or privately owned facility providing ordistributing services for the benefit of the public, such as water, sewage, energy, fuel, or communications;
 
 &emsp;(6) "place of public use" means those parts of any building, land, street, waterway, or other location that are accessible or open to members of the public, whether continuously, periodically, or occasionally, and encompasses any commercial, business, cultural, historical, educational, religious, governmental, entertainment, recreational, or similar place that is so accessible or open to the public;
 

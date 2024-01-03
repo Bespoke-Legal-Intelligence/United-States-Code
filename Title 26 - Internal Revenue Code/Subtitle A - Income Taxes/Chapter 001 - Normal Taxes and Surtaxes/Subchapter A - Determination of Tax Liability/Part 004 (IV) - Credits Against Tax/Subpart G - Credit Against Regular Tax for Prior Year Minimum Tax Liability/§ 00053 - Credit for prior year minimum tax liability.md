@@ -182,7 +182,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–5 applicable to vehicles acquired after Feb. 17, 2009, see section 1142(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
+Amendment by Pub. L. 111–5 applicable to vehicles acquired after Feb. 17, 2009, see section 1142(c) of Pub.L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -228,7 +228,7 @@ Pub. L. 103–66, title XIII, §13171(d), Aug. 10, 1993, 107 Stat. 455, provided
 
 Pub. L. 104–188, title I, §1702(e)(5), Aug. 20, 1996, 110 Stat. 1870, provided that: "The amendment made by section 1913(b)(2)(C)(i) of the Energy Policy Act of 1992 \[Pub. L. 102–486\] shall apply to taxable years beginning after December 31, 1990."
 
-Pub. L. 102–486, title XIX, §1913(c), Oct. 24, 1992, 106 Stat. 3020, provided that: "The amendments made bythis section \[enacting sections 30 and 179A of this title and amending this section and sections 55, 62, and 1016 of this title\] shall apply to property placed in service after June 30, 1993."
+Pub. L. 102–486, title XIX, §1913(c), Oct. 24, 1992, 106 Stat. 3020, provided that: "The amendments made by this section \[enacting sections 30 and 179A of this title and amending this section and sections 55, 62, and 1016 of this title\] shall apply to property placed in service after June 30, 1993."
 
 #### Effective Date of 1989 Amendment
 

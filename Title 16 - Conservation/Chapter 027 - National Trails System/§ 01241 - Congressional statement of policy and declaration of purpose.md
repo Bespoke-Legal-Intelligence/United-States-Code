@@ -120,7 +120,7 @@ Section 1. <i>Federal Agency Duties</i>. Federal agencies will, to the extent pe
 
 (g) Fostering volunteer programs and opportunities to engage volunteers in all aspects of trail planning, development, maintenance, management, and education as outlined in 16 U.S.C. 1250;
 
-(h) Encouraging participation of qualified youth conservation or service corps, as outlined in 41 \[42\] U.S.C.12572 and 42 U.S.C. 12656, to perform construction and maintenance of trails and trail-related projects, as encouraged in sections 1108(g) and 1112(e) of the Transportation Equity Act for the 21st Century \[23 U.S.C. 133 note, 206 note\], and also in trail planning protection, operations, and education;
+(h) Encouraging participation of qualified youth conservation or service corps, as outlined in 41 \[42\] U.S.C. 12572 and 42 U.S.C. 12656, to perform construction and maintenance of trails and trail-related projects, as encouraged in sections 1108(g) and 1112(e) of the Transportation Equity Act for the 21st Century \[23 U.S.C. 133 note, 206 note\], and also in trail planning protection, operations, and education;
 
 (i) Promoting trails for safe transportation and recreation within communities;
 

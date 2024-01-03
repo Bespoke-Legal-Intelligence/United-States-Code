@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(i) finds a motor vehicle emissions budget to be adequate in accordance with section 93.118(e)(4) of title 40, Code of Federal Regulations (as in effect on October 1, 2004);
 
-&emsp;&emsp;(ii) approves an implementation plan that establishes a motor vehicle emissions budget if that budget has not yet been determined to be adequate in accordance with clause (i); or
+&emsp;&emsp;(ii) approves an implementation plan that establishes a motor vehicle emissions budgetif that budget has not yet been determined to be adequate in accordance with clause (i); or
 
 &emsp;&emsp;(iii) promulgates an implementation plan that establishes or revises a motor vehicle emissions budget.
 
@@ -102,7 +102,7 @@ Applicability.—This subsection shall apply only with respect to—
 
 &emsp;(B) an area that was designated as a nonattainment area but that was later redesignated by the Administrator as an attainment area and that is required to develop a maintenance plan under section 7505a of this title with respect to the specific pollutant for which the area was designated nonattainment.
 
-(6) Notwithstanding paragraph 5,<sup>2</sup> this subsection shall not apply with respect to an area designated nonattainment under section 7407(d)(1) of this title until 1 year after that area is first designated nonattainment for a specific national ambient air quality standard. This paragraph only applies with respect to the national ambient air quality standard for which an area is newly designated nonattainment and does not affect the area's requirements with respect to all other national ambient air quality standards for which the area is designated nonattainment or has been redesignated from nonattainment to attainment with a maintenance plan pursuant to section 7505a <sup>1</sup> of this title (including any pre-existing national ambient air quality standard for a pollutant for which a new or revised standard has been issued).
+(6) Notwithstanding paragraph 5,<sup>2</sup> this subsection shall not apply with respect to an area designated nonattainment under section 7407(d)(1) of this title until 1 year after that area is first designated nonattainment for a specific national ambient air quality standard. This paragraph only applies with respect to the national ambient air quality standard for which an area is newly designated nonattainment anddoes not affect the area's requirements with respect to all other national ambient air quality standards for which the area is designated nonattainment or has been redesignated from nonattainment to attainment with a maintenance plan pursuant to section 7505a <sup>1</sup> of this title (including any pre-existing national ambient air quality standard for a pollutant for which a new or revised standard has been issued).
 
 (7)
 
@@ -146,7 +146,7 @@ In general.—Transportation control measures that are specified in an implement
 
 &emsp;&emsp;(ii) if the substitute control measures are implemented—
 
-&emsp;&emsp;&emsp;(I) in accordance with a schedule that is consistent with the schedule provided forcontrol measures in the implementation plan; or
+&emsp;&emsp;&emsp;(I) in accordance with a schedule that is consistent with the schedule provided for control measures in the implementation plan; or
 
 &emsp;&emsp;&emsp;(II) if the implementation plan date for implementation of the control measure to be replaced has passed, as soon as practicable after the implementation plan date but not later than the date on which emission reductions are necessary to achieve the purpose of the implementation plan;
 
@@ -168,7 +168,7 @@ Adoption.—(i) Concurrence by the metropolitan planning organization, State air
 
 &emsp;(ii) Once adopted, the substitute or additional control measures become, by operation of law, part of the State implementation plan and become federally enforceable.
 
-&emsp;(iii) Within 90 days of its concurrence under subparagraph (A)(v), the State air pollution control agency shall submit the substitute or additional control measure to the Administrator for incorporation in the codification of the applicable implementation plan. Nothwithstanding <sup>3</sup> any other provision of this chapter, no additional State process shall be necessary to support such revision to the applicable plan.
+&emsp;(iii) Within 90 days of its concurrence under subparagraph (A)(v), the State air pollution control agency shall submit the substitute or additional control measure to the Administrator for incorporation in the codification of the applicable implementation plan.Nothwithstanding <sup>3</sup> any other provision of this chapter, no additional State process shall be necessary to support such revision to the applicable plan.
 
 &emsp;(C)
 

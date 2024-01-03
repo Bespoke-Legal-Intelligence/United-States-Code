@@ -2,7 +2,7 @@
 
 #### (a) Consultations with major wine trading countries
 
-The President shall direct the Trade Representative to enter into consultations with each major wine trading country to seek a reduction or elimination of that country's tariff barriers and nontariff barriers to (or other distortions of) trade in United States wine.
+The President shall direct the Trade Representative to enter into consultations witheach major wine trading country to seek a reduction or elimination of that country's tariff barriers and nontariff barriers to (or other distortions of) trade in United States wine.
 
 #### (b) Reports to Congress on actions taken to expand export opportunities
 

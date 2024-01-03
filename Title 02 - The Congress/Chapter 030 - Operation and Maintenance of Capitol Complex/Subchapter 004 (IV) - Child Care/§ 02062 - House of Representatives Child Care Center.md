@@ -56,7 +56,7 @@ In carrying out subsection (a), the Chief Administrative Officer is authorized�
 
 &emsp;(A) 50 percent; or
 
-&emsp;(B) such percentage as may be necessary to ensure that the total amount of tuition paid by the employee with respect to all children of the employee who are furnished care at the center during the month does not exceed $1,000.
+&emsp;(B) such percentage as may be necessary to ensure that the total amount of tuition paid by the employee with respect to all children ofthe employee who are furnished care at the center during the month does not exceed $1,000.
 
 #### (e) Fund as category of allowances and expenses
 
@@ -138,7 +138,7 @@ Pub. L. 117–328, div. I, title I, §116(b), Dec. 29, 2022, 136 Stat. 4924, pro
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–136, div. B, title IX, §19002(b), Mar. 27, 2020, 134 Stat. 577, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2020 and each succeeding fiscal year."
+Pub. L. 116–136, div. B, title IX, §19002(b), Mar. 27, 2020, 134 Stat. 577, provided that: "The amendmentmade by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2020 and each succeeding fiscal year."
 
 #### Effective Date of 2019 Amendment
 

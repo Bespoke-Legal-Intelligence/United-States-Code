@@ -2,7 +2,7 @@
 
 #### (a) Designee
 
-Each department, agency, and independent establishment of the Federal Government shalldesignate a qualified individual to serve as liaison with the Center and to assist the Center in carrying out its functions pursuant to this chapter.
+Each department, agency, and independent establishment of the Federal Government shall designate a qualified individual to serve as liaison with the Center and to assist the Center in carrying out its functions pursuant to this chapter.
 
 #### (b) Consultation with departments, agencies, and independent establishments of Federal Government
 

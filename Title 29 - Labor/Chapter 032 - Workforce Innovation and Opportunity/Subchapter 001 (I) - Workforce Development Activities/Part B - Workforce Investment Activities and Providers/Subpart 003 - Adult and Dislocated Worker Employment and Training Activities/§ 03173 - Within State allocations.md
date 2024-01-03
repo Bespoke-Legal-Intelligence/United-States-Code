@@ -8,7 +8,7 @@
 
 #### (2) Statewide rapid response activities
 
-&emsp;The Governor shall reserve not more than 25 percent of the total amount allotted to theState under section 3172(b)(2)(B) of this title for a fiscal year for statewide rapid response activities described in section 3174(a)(2)(A) of this title.
+&emsp;The Governor shall reserve not more than 25 percent of the total amount allotted to the State under section 3172(b)(2)(B) of this title for a fiscal year for statewide rapid response activities described in section 3174(a)(2)(A) of this title.
 
 #### (b) Within State allocation
 
@@ -152,5 +152,5 @@ The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

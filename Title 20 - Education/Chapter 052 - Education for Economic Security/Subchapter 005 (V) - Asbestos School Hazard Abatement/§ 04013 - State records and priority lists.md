@@ -54,7 +54,7 @@ Subsec. (a)(3). Pub. L. 101–637, §5(a)(4), substituted "paragraph (2)" for "s
 
 Subsec. (b). Pub. L. 101–637, §14(b)(6)(A), inserted heading.
 
-Subsec. (b)(1). Pub. L. 101–637, §5(b)(1), substituted "Each year, in accordance with procedures established by the Administrator," for "Not later than six monthsafter August 11, 1984, and annually thereafter," in introductory provisions.
+Subsec. (b)(1). Pub. L. 101–637, §5(b)(1), substituted "Each year, in accordance with procedures established by the Administrator," for "Not later than six months after August 11, 1984, and annually thereafter," in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 101–637, §§5(b)(2), (3), 14(b)(6)(B), substituted "abatement activities and other response actions" for "abatement", struck out "and the Secretary of the Department of Education" after "submit to the Administrator", and inserted "and" after semicolon at end.
 

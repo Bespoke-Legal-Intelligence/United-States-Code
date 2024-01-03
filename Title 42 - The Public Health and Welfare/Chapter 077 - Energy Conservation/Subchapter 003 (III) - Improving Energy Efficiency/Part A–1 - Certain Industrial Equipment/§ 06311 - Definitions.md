@@ -34,7 +34,7 @@ For purposes of this part—
 
 &emsp;&emsp;(ii) which, to any significant extent, is distributed in commerce for industrial or commercial use; and
 
-&emsp;&emsp;(iii) which is not a "covered product" as defined in section 6291(a)(2) of this title, other than a component of a covered product with respect to which there is in effect a determination under section 6312(c) of this title;
+&emsp;&emsp;(iii) which is not a "covered product" as defined in section 6291(a)(2) of this title,other than a component of a covered product with respect to which there is in effect a determination under section 6312(c) of this title;
 
 > &emsp;without regard to whether such article is in fact distributed in commerce for industrial or commercial use.
 
@@ -158,7 +158,7 @@ General purpose electric motor (subtype ii).—The term "general purpose electri
 
 &emsp;&emsp;&emsp;(vii) A poly-phase motor with voltage of not more than 600 volts (other than 230 or 460 volts.<sup>1</sup>
 
-&emsp;(C) The term "definite purpose motor" means any motor designed in standard ratings with standard operating characteristics orstandard mechanical construction for use under service conditions other than usual or for use on a particular type of application and which cannot be used in most general purpose applications.
+&emsp;(C) The term "definite purpose motor" means any motor designed in standard ratings with standard operating characteristics or standard mechanical construction for use under service conditions other than usual or for use on a particular type of application and which cannot be used in most general purpose applications.
 
 &emsp;(D) The term "special purpose motor" means any motor, other than a general purpose motor or definite purpose motor, which has special operating characteristics or special mechanical construction, or both, designed for a particular application.
 
@@ -292,7 +292,7 @@ Pars. (8) to (18). Pub. L. 102–486, §122(a)(3), added pars. (8) to (18).
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Extended Product System Rebate Program
 

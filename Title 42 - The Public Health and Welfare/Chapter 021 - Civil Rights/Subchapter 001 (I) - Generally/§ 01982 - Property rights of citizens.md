@@ -32,7 +32,7 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 
 #### Part I—Prevention of Discrimination
 
-Section 101. I hereby direct all departments and agencies in the executive branch of the Federal Government, insofar as their functions relate to the provision, rehabilitation, or operation of housing and related facilities, to take all action necessary and appropriate to prevent discrimination because of race, color, religion (creed), sex, disability, familial status or national origin—
+Section 101. I hereby direct all departments and agencies in the executive branch of the Federal Government, insofar as their functions relate to the provision,rehabilitation, or operation of housing and related facilities, to take all action necessary and appropriate to prevent discrimination because of race, color, religion (creed), sex, disability, familial status or national origin—
 
 (a) in the sale, leasing, rental, or other disposition of residential property and related facilities (including land to be developed for residential use), or in the use or occupancy thereof, if such property and related facilities are—
 

@@ -10,7 +10,7 @@ The method of computing and making payments under this section shall be as follo
 
 &emsp;(1) The Secretary shall, prior to the beginning of each period for which a payment is to be made, estimate the amount to be paid to the State for such period under the provisions of this section.
 
-&emsp;(2) From the allotment available therefor, the Secretary shall pay the amount so estimated, reduced or increased, as the case maybe, by any sum (not previously adjusted under this section) by which he finds that his estimate of the amount to be paid the State for any prior period under this section was greater or less than the amount which should have been paid to the State for such prior period under this section.
+&emsp;(2) From the allotment available therefor, the Secretary shall pay the amount so estimated, reduced or increased, as the case may be, by any sum (not previously adjusted under this section) by which he finds that his estimate of the amount to be paid the State for any prior period under this section was greater or less than the amount which should have been paid to the State for such prior period under this section.
 
 #### (c) Limitation on use of Federal funds for child care, foster care maintenance payments, or adoption assistance payments
 
@@ -26,7 +26,7 @@ A payment may not be made to a State under this section with respect to expendit
 
 #### (f) Child visitation by caseworkers
 
-(1)(A) Each State shall take such steps as are necessary to ensure that the total number of visits made by caseworkers on a monthly basis to children in foster care under the responsibility of the State during a fiscal year is not less than 90 percent (or, in the case of fiscal year 2015 or thereafter, 95 percent) of the total number of such visits that would occur during the fiscal year if each such child were so visited once every month while in such care.
+(1)(A) Each State shall take such steps as are necessary to ensure that the total number ofvisits made by caseworkers on a monthly basis to children in foster care under the responsibility of the State during a fiscal year is not less than 90 percent (or, in the case of fiscal year 2015 or thereafter, 95 percent) of the total number of such visits that would occur during the fiscal year if each such child were so visited once every month while in such care.
 
 (B) If the Secretary determines that a State has failed to comply with subparagraph (A) for a fiscal year, then the percentage that would otherwise apply for purposes of subsection (a) for the fiscal year shall be reduced by—
 

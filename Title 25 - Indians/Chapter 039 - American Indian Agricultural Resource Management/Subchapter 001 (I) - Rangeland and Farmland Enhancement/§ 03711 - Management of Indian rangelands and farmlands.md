@@ -14,7 +14,7 @@ Consistent with the provisions of the Indian Self-Determination and Education As
 
 &emsp;(5) To develop Indian agricultural lands and associated value-added industries of Indians and Indian tribes to promote self-sustaining communities.
 
-&emsp;(6) To assist trust and restricted Indian landowners in leasing their agricultural lands for a reasonable annual return, consistent with prudent management and conservation practices, and community goals as expressed in the tribal management plans and appropriate tribal ordinances.
+&emsp;(6) To assist trust and restricted Indian landowners in leasing their agricultural lands for areasonable annual return, consistent with prudent management and conservation practices, and community goals as expressed in the tribal management plans and appropriate tribal ordinances.
 
 #### (b) Indian agricultural resource management planning program
 

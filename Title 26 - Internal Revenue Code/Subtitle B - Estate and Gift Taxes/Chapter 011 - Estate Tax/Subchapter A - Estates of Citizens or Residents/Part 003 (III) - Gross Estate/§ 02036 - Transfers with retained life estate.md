@@ -62,7 +62,7 @@ Subsecs. (b), (c). Pub. L. 95–600, §702(i)(1), added subsec. (b) and redesign
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XI, §11601(c), Nov. 5, 1990, 104 Stat. 1388–491, provided that: "The amendments madeby this section \[amending this section and sections 2207B and 2501 of this title\] shall apply in the case of property transferred after December 17, 1987."
+Pub. L. 101–508, title XI, §11601(c), Nov. 5, 1990, 104 Stat. 1388–491, provided that: "The amendments made by this section \[amending this section and sections 2207B and 2501 of this title\] shall apply in the case of property transferred after December 17, 1987."
 
 #### Effective Date of 1988 Amendment
 

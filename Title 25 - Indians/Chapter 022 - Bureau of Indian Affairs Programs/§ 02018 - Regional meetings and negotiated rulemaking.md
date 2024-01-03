@@ -36,7 +36,7 @@ Prior to publishing any proposed regulations under subsection (b)(1), and prior 
 
 #### (1) Supremacy of provisions
 
-&emsp;The provisions of this section shall supersede any conflicting regulations in effect on the day before the date of enactment of this chapter, and the Secretary may repeal anyregulation that is inconsistent with the provisions of this chapter.
+&emsp;The provisions of this section shall supersede any conflicting regulations in effect on the day before the date of enactment of this chapter, and the Secretary may repeal any regulation that is inconsistent with the provisions of this chapter.
 
 #### (2) Modifications
 

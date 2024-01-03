@@ -168,7 +168,7 @@ As used in this section:
 
 &emsp;The term "other approved educational institution" includes any air flight school, language training school, or vocational school, approved by the Attorney General, in consultation with the Secretary of Education and the Secretary of State, under subparagraph (F), (J), or (M) of section 1101(a)(15) of this title.
 
-(Pub. L. 104–208, div. C, title VI, §641, Sept. 30, 1996, 110 Stat. 3009–704; Pub. L. 106–396, title IV,§§404–406, Oct. 30, 2000, 114 Stat. 1649, 1650; Pub. L. 106–553, §1(a)(2) \[title I, §110\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 107–56, title IV, §416(c), Oct. 26, 2001, 115 Stat. 354; Pub. L. 107–173, title V, §501(a), May 14, 2002, 116 Stat. 560.)
+(Pub. L. 104–208, div. C, title VI, §641, Sept. 30, 1996, 110 Stat. 3009–704; Pub. L. 106–396, title IV, §§404–406, Oct. 30, 2000, 114 Stat. 1649, 1650; Pub. L. 106–553, §1(a)(2) \[title I, §110\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 107–56, title IV, §416(c), Oct. 26, 2001, 115 Stat. 354; Pub. L. 107–173, title V, §501(a), May 14, 2002, 116 Stat. 560.)
 
 #### <b>Editorial Notes</b>
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) the Executive Director;
 
-&emsp;&emsp;(C) any person who has or exercises discretionary authority or discretionary controlover the management or disposition of the assets of the Thrift Savings Fund; and
+&emsp;&emsp;(C) any person who has or exercises discretionary authority or discretionary control over the management or disposition of the assets of the Thrift Savings Fund; and
 
 &emsp;&emsp;(D) any person who, with respect to the Thrift Savings Fund, is described in section 3(21)(A) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(21)(A)); and
 
@@ -176,7 +176,7 @@
 
 (B) The Attorney General shall defend any civil action or proceeding brought in any court against any fiduciary referred to in paragraph (3)(C)(ii) (or the estate of such fiduciary) for any such injury. Any fiduciary against whom such a civil action or proceeding is brought shall deliver, within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such fiduciary (or an attested copy thereof) to the Executive Director of the Board, who shall promptly furnish copies of the pleading and process to the Attorney General and the United States Attorney for the district wherein the action or proceeding is brought.
 
-(C) Upon certification by the Attorney General that a fiduciary described in paragraph (3)(C)(ii) was acting in the scope of such fiduciary's duties or employment as a fiduciary at the time of the occurrence or omission out of which the action arose, any such civil action or proceeding commenced in a State court shall be—
+(C) Upon certification by the Attorney General that a fiduciary described in paragraph (3)(C)(ii) was acting in the scope of such fiduciary's duties or employment as a fiduciary atthe time of the occurrence or omission out of which the action arose, any such civil action or proceeding commenced in a State court shall be—
 
 &emsp;(i) removed without bond at any time before trial by the Attorney General to the district court of the United States for the district and division in which it is pending; and
 

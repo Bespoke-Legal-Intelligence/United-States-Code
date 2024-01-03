@@ -1,6 +1,6 @@
 ### §2107. Financial assistance program for specially selected members
 
-(a) The Secretary of the military department concerned may appoint as a cadet or midshipman, as appropriate, in the reserve of an armed force under his jurisdiction any eligible member of the program who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as an ensign in the Navy, as a second lieutenant in the Army, Air Force, Marine Corps, or as an officer in the equivalent grade in the Space Force, as the case may be.
+(a) The Secretary of the military department concerned may appoint as a cadet or midshipman, as appropriate, in the reserve of an armed force under his jurisdiction any eligible member of the program who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as an ensign in the Navy or as a second lieutenant in the Army, Air Force, Marine Corps,,<sup>1</sup> as the case may be.
 
 (b) To be eligible for appointment as a cadet or midshipman under this section a member must—
 
@@ -50,7 +50,7 @@
 
 (G) Any service obligation incurred by an officer under an agreement entered into under this paragraph shall be in addition to any service obligation incurred by that officer under any other provision of law or agreement.
 
-(d) Upon satisfactorily completing the academic and military requirements of the four-year program, a cadet or midshipman may be appointed as a regular or reserve officer in the appropriate armed force in the grade of second lieutenant, ensign, or an equivalent grade in theSpace Force, even though he is under 21 years of age.
+(d) Upon satisfactorily completing the academic and military requirements of the four-year program, a cadet or midshipman may be appointed as a regular or reserve officer in the appropriate armed force in the grade of second lieutenant, ensign, or an equivalent grade in the Space Force, even though he is under 21 years of age.
 
 (e) The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets or midshipmen from the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy, as the case may be in that year. The Secretary of the military department concerned shall establish the date of rank of all other officers appointed under this section.
 
@@ -60,7 +60,7 @@
 
 (h)(1) The Secretary of Defense shall determine the number of cadets and midshipmen appointed under this section who may be in the financial assistance programs at any one time in each military department.
 
-(2) Of the total number of cadets appointed in the financial assistance programs under this section in any year, not less than 100 shall be designated for placement in the program of the Army for service upon commissioning in the Army National Guard, of which one-half shall be for financial assistance awarded for a period of two years and the remainder shall be for financial assistance awarded for a period of four years. A cadet designated under this paragraph who, having initially contracted for service as provided in subsection (b)(5)(A) and having received financial assistance for two years under an award providing for four years of financial assistance under this section, modifies such contract with the consent of the Secretary of the Army to provide for service as described in subsection (b)(5)(B), may be counted, for the year in which the contract is modified, toward the number of appointments required under the preceding sentence for financial assistance awarded for a period of four years. A cadet who receives financial assistance under this paragraph and is commissioned in the Army National Guard shall perform service as provided in subsection (b)(5)(B) and may not be accepted for service on full-time active duty pursuant to the member's voluntary application until the completion of the period of service prescribed in that subsection. The Secretary of the Army shall prescribe regulations to ensure a geographical distribution of the cadets who receive financial assistance under this paragraph.
+(2) Of the total number of cadets appointed in the financial assistance programs under this section in any year, not less than 100 shall be designated for placement in the program of the Army for service upon commissioning in the Army National Guard, of which one-half shall befor financial assistance awarded for a period of two years and the remainder shall be for financial assistance awarded for a period of four years. A cadet designated under this paragraph who, having initially contracted for service as provided in subsection (b)(5)(A) and having received financial assistance for two years under an award providing for four years of financial assistance under this section, modifies such contract with the consent of the Secretary of the Army to provide for service as described in subsection (b)(5)(B), may be counted, for the year in which the contract is modified, toward the number of appointments required under the preceding sentence for financial assistance awarded for a period of four years. A cadet who receives financial assistance under this paragraph and is commissioned in the Army National Guard shall perform service as provided in subsection (b)(5)(B) and may not be accepted for service on full-time active duty pursuant to the member's voluntary application until the completion of the period of service prescribed in that subsection. The Secretary of the Army shall prescribe regulations to ensure a geographical distribution of the cadets who receive financial assistance under this paragraph.
 
 (i) The Secretary of each military department shall seek to achieve an increase in the number of agreements entered into under this section so as to achieve an increase, by the 2006–2007 academic year, of not less than 400 in the number of cadets or midshipmen, as the case may be, enrolled under this section, compared to such number enrolled for the 2002–2003 academic year. In the case of the Secretary of the Navy, the Secretary shall seek to ensure that not less than one-third of such increase in agreements under this section are with students enrolled (or seeking to enroll) in programs of study leading to a baccalaureate degree in nuclear engineering or another appropriate technical, scientific, or engineering field of study.
 
@@ -86,11 +86,21 @@
 
 &emsp;&emsp;(ii) the Secretary concerned to take into consideration the determinations made under clause (i) with respect to such condition in making a final decision regarding whether to suspend payment in the case of such cadet or midshipman on the basis of that condition, and the conditions under which such suspension may be lifted.
 
-(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1066; amended Pub. L. 92–166, §1,Nov. 24, 1971, 85 Stat. 487; Pub. L. 96–357, §1(a), (b), Sept. 24, 1980, 94 Stat. 1178; Pub. L. 96–513, title V, §511(62), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 97–60, title II, §201, Oct. 14, 1981, 95 Stat. 1005; Pub. L. 98–94, title X, §1003(a)(3), (c)(1), (2), Sept. 24, 1983, 97 Stat. 656, 657; Pub. L. 98–525, title V, §542(a), title XIV, §1405(33), Oct. 19, 1984, 98 Stat. 2529, 2624; Pub. L. 100–180, div. A, title V, §510, Dec. 4, 1987, 101 Stat. 1087; Pub. L. 102–484, div. A, title V, §§517(a)(2), 532(a), Oct. 23, 1992, 106 Stat. 2407, 2411; Pub. L. 104–106, div. A, title V, §542, Feb. 10, 1996, 110 Stat. 316; Pub. L. 104–201, div. A, title V, §§507(a)(2), 553(a), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2526, 2527; Pub. L. 106–65, div. A, title V, §545, Oct. 5, 1999, 113 Stat. 608; Pub. L. 107–107, div. A, title V, §534(a), Dec. 28, 2001, 115 Stat. 1106; Pub. L. 107–314, div. A, title V, §532(d), (e), Dec. 2, 2002, 116 Stat. 2547; Pub. L. 108–136, div. A, title V, §521(a), Nov. 24, 2003, 117 Stat. 1462; Pub. L. 108–375, div. A, title V, §524(a), Oct. 28, 2004, 118 Stat. 1888; Pub. L. 109–163, div. A, title V, §§531(a), 533(a), 534(a), Jan. 6, 2006, 119 Stat. 3247, 3248; Pub. L. 112–239, div. A, title V, §551, Jan. 2, 2013, 126 Stat. 1741; Pub. L. 116–283, div. A, title IX, §924(b)(3)(EE), (30), Jan. 1, 2021, 134 Stat. 3822, 3825; Pub. L. 117–81, div. A, title X, §1081(a)(26), Dec. 27, 2021, 135 Stat. 1921.)
+(k)
+
+Applicability to Space Force.—(1) Provisions of this section referring to a regular commission, regular officer, or a commission in a regular component shall be treated as also referring to the commission of an officer, or an officer, who is a commissioned officer in the Space Force serving on active duty pursuant to section 20105(b) of this title.
+
+(2) Provisions of this section referring to a reserve commission, reserve officer, or a commission in a reserve component shall be treated as also referring to the commission of an officer, or an officer, who is a commissioned officer in the Space Force not serving on active duty pursuant to section 20105(b) of this title.
+
+(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1066; amended Pub. L. 92–166, §1, Nov. 24, 1971, 85 Stat. 487; Pub. L. 96–357, §1(a), (b), Sept. 24, 1980, 94 Stat. 1178; Pub. L. 96–513, title V, §511(62), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 97–60, title II, §201, Oct. 14, 1981, 95 Stat. 1005; Pub. L. 98–94, title X, §1003(a)(3), (c)(1), (2), Sept. 24, 1983, 97 Stat. 656, 657; Pub. L. 98–525, title V, §542(a), title XIV, §1405(33), Oct. 19, 1984, 98 Stat. 2529, 2624; Pub. L. 100–180, div. A, title V, §510, Dec. 4, 1987, 101 Stat. 1087; Pub. L. 102–484, div. A, title V, §§517(a)(2), 532(a), Oct. 23, 1992, 106 Stat. 2407, 2411; Pub. L. 104–106, div. A, title V, §542, Feb. 10, 1996, 110 Stat. 316; Pub. L. 104–201, div. A, title V, §§507(a)(2), 553(a), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2526, 2527; Pub. L. 106–65, div. A, title V, §545, Oct. 5, 1999, 113 Stat. 608; Pub. L. 107–107, div. A, title V, §534(a), Dec. 28, 2001, 115 Stat. 1106; Pub. L. 107–314, div. A, title V, §532(d), (e), Dec. 2, 2002, 116 Stat. 2547; Pub. L. 108–136, div. A, title V, §521(a), Nov. 24, 2003, 117 Stat. 1462; Pub. L. 108–375, div. A, title V, §524(a), Oct. 28, 2004, 118 Stat. 1888; Pub. L. 109–163, div. A, title V, §§531(a), 533(a), 534(a), Jan. 6, 2006, 119 Stat. 3247, 3248; Pub. L. 112–239, div. A, title V, §551, Jan. 2, 2013, 126 Stat. 1741; Pub. L. 116–283,div. A, title IX, §924(b)(3)(EE), (30), Jan. 1, 2021, 134 Stat. 3822, 3825; Pub. L. 117–81, div. A, title X, §1081(a)(26), Dec. 27, 2021, 135 Stat. 1921; Pub. L. 118–31, div. A, title XVII, §1722(l)(2), Dec. 22, 2023, 137 Stat. 674.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a). Pub. L. 118–31, §1722(l)(2)(A), substituted "Navy or" for "Navy," and struck out "or as an officer in the equivalent grade in the Space Force" after "Marine Corps,".
+
+Subsec. (k). Pub. L. 118–31, §1722(l)(2)(B), added subsec. (k).
 
 <b>2021</b>—Pub. L. 116–283, §924(b)(3)(EE), substituted "Marine Corps, or Space Force" for "or Marine Corps" wherever appearing.
 
@@ -160,7 +170,7 @@ Subsec. (c). Pub. L. 98–94, §1003(a)(3), inserted provision relating to a stu
 
 <b>1981</b>—Subsec. (h). Pub. L. 97–60 substituted "8,000" for "6,000" in item covering the Navy program and "9,500" for "6,500" in item covering the Air Force program.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–357, §1(a), authorized cadet or midshipmen appointments in the reserve of an armed force for eligible members of the program with active duty service in the armed forces beyond the age limitation equal to period of active duty service not to exceed 29 years of age by June 30 of calendar year of appointment and deleted provision for appointment as cadets or midshipmen from persons in two-year Senior Reserve Officers' Training Corps course up to 20 percent of number of appointees.
+<b>1980</b>—Subsec. (a). Pub. L. 96–357, §1(a), authorized cadet or midshipmen appointments in the reserve of an armed force for eligible members of the program withactive duty service in the armed forces beyond the age limitation equal to period of active duty service not to exceed 29 years of age by June 30 of calendar year of appointment and deleted provision for appointment as cadets or midshipmen from persons in two-year Senior Reserve Officers' Training Corps course up to 20 percent of number of appointees.
 
 Subsec. (b)(5). Pub. L. 96–357, §1(b)(2), provided for exercise of discretion by the Secretary concerned, incorporated existing provisions in subcl. (A)(i), incorporated in subcl. (A)(ii) provision of former cl. (6), added subcl. (B) and defined the performance of service under such subcl. (B).
 
@@ -232,7 +242,7 @@ Number Designated.—The number of scholarships designated pursuant to subsectio
 
 "(c)
 
-Amount of Scholarship.—The Secretary may increase any scholarship designated pursuant to subsection (a) to an amount in excess of the amount of theSenior Reserve Officers' Training Corps program scholarship that would otherwise be offered at the minority-serving institution concerned if the Secretary considers that a scholarship of such increased amount is appropriate for the purpose of the scholarship.
+Amount of Scholarship.—The Secretary may increase any scholarship designated pursuant to subsection (a) to an amount in excess of the amount of the Senior Reserve Officers' Training Corps program scholarship that would otherwise be offered at the minority-serving institution concerned if the Secretary considers that a scholarship of such increased amount is appropriate for the purpose of the scholarship.
 
 "(d)
 
@@ -281,4 +291,6 @@ Pub. L. 104–201, div. A, title V, §553(c), Sept. 23, 1996, 110 Stat. 2526, di
 #### Application of ROTC Vitalization Act of 1964 to Appointees in Naval Reserve Before October 13, 1964
 
 Pub. L. 89–51, §1, June 28, 1965, 79 Stat. 173, provided: "That all provisions of law except sections 2107(b)(3) and (f) of title 10, United States Code \[subsecs. (b)(3) and (f) of this section\], that apply to midshipmen appointed under Public Law 88–647 \[see Short Title note set out under section 2031 of this title\], apply to midshipmen appointed in the Naval Reserve \[now Navy Reserve\] before October 13, 1964." Section 4 of Pub. L. 89–51, set out as Effective Date of 1965 Amendment note under section 2109 of this title, provided that section 1 of Pub. L. 89–51 was effective Oct. 13, 1964.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

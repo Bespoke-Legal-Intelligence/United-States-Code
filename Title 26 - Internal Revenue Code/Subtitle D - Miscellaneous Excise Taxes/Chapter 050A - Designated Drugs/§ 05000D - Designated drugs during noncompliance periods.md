@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (3) Other terms
 
-&emsp;The terms "initial price applicability year", "price applicability period", and "maximumfair price" have the meaning given such terms in section 1191 of the Social Security Act.
+&emsp;The terms "initial price applicability year", "price applicability period", and "maximum fair price" have the meaning given such terms in section 1191 of the Social Security Act.
 
 #### (f) Special rules
 

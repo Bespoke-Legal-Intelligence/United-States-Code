@@ -10,7 +10,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) shall apply to the extent that the effect is to treat stock of a passive foreign investment company as owned by a United States person, and
 
-&emsp;&emsp;(B) except to the extent provided in regulations, shall not apply to treat stock owned (or treated as owned under this subsection)by a United States person as owned by any other person.
+&emsp;&emsp;(B) except to the extent provided in regulations, shall not apply to treat stock owned (or treated as owned under this subsection) by a United States person as owned by any other person.
 
 #### (2) Corporations
 
@@ -84,7 +84,7 @@ For purposes of this part—
 
 #### (B) Amount treated in same manner as previously taxed income
 
-&emsp;&emsp;Rules similar to the rules of section 959(b) shall apply to any amount described in subparagraph (A) and to any amount included in gross income under section 1293(a) (or whichwould have been so included but for section 951(c)) in respect of stock which the taxpayer is treated as owning under subsection (a).
+&emsp;&emsp;Rules similar to the rules of section 959(b) shall apply to any amount described in subparagraph (A) and to any amount included in gross income under section 1293(a) (or which would have been so included but for section 951(c)) in respect of stock which the taxpayer is treated as owning under subsection (a).
 
 #### (6) Dispositions
 
@@ -244,7 +244,7 @@ Subsec. (b)(1). Pub. L. 100–647, §1012(p)(36), substituted "investment compan
 
 Subsec. (b)(3)(A). Pub. L. 100–647, §1012(p)(22), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "such corporation (and any predecessor) was not a passive foreign investment corporation for any prior taxable year,".
 
-Subsec. (b)(5). Pub. L. 100–647, §1012(p)(17), substituted "part where held" for "section where stock held" in heading, and amended text generally. Prior to amendment, text read as follows: "Under regulations, in any case in which a United States person is treated as holding stock in a passive foreign investment company by reason of subsection (a), any disposition by the United States person or the person holding such stock which results in the United States person being treated as no longer holding such stock, shall be treated as a disposition by the United States person with respect to stock in the passive foreign investment company."
+Subsec. (b)(5). Pub. L. 100–647, §1012(p)(17), substituted "part where held" for "section where stock held" in heading, and amended text generally. Prior to amendment, text read as follows: "Under regulations, in anycase in which a United States person is treated as holding stock in a passive foreign investment company by reason of subsection (a), any disposition by the United States person or the person holding such stock which results in the United States person being treated as no longer holding such stock, shall be treated as a disposition by the United States person with respect to stock in the passive foreign investment company."
 
 Subsec. (b)(6). Pub. L. 100–647, §1012(p)(20), substituted "Except as provided in regulations, if a" for "If a".
 
@@ -264,7 +264,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31,1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
+Amendment by Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -50,7 +50,7 @@ The Ted Stevens Olympic and Amateur Sports Act, referred to in subsec. (a)(1), i
 
 <b>2022</b>—Subsec. (b)(1). Pub. L. 117–103, §303(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "serve as the independent anti-doping organization for the amateur athletic competitions recognized by the United States Olympic Committee and be recognized worldwide as the independent national anti-doping organization for the United States;".
 
-Subsec. (b)(5). Pub. L. 117–103, §303(1)(B), added par. (5).
+Subsec. (b)(5). Pub. L. 117–103, §303(1)(B), (C), added par. (5).
 
 Subsec. (c). Pub. L. 117–103, §303(2), added subsec. (c).
 
@@ -74,7 +74,7 @@ References to the United States Olympic Committee deemed to refer to the United 
 
 #### Short Title of 2022 Amendment
 
-Pub. L. 117–103, div. Q, title III, §301, Mar. 15, 2022, 136 Stat. 816, provided that: "This title \[enacting section 2004 of this title, amending this section and section 2003of this title, and enacting provisions set out as a note below\] may be cited as the 'United States Anti-Doping Agency Reauthorization Act of 2022'."
+Pub. L. 117–103, div. Q, title III, §301, Mar. 15, 2022, 136 Stat. 816, provided that: "This title \[enacting section 2004 of this title, amending this section and section 2003 of this title, and enacting provisions set out as a note below\] may be cited as the 'United States Anti-Doping Agency Reauthorization Act of 2022'."
 
 #### Short Title of 2014 Amendment
 

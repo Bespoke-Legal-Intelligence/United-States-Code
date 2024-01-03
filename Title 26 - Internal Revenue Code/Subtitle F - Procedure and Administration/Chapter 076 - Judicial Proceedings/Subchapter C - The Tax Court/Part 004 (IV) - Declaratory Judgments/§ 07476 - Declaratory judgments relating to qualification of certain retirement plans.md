@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 94–455, §1306(b)(3), substituted "this section or sectio
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
+Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) ofPub. L. 98–369, set out as a note under section 62 of this title.
 
 #### Effective Date of 1978 Amendment
 

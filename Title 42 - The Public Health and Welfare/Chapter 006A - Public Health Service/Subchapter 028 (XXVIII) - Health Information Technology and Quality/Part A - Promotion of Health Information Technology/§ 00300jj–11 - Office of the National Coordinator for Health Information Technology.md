@@ -108,7 +108,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (ii) Specific medical specialties
 
-&emsp;&emsp;&emsp;The Secretary shall accept public comment on specific medical specialties and sites of service, in addition to those described in clause (i), for the purpose of selecting additional specialties and sites of service as necessary.
+&emsp;&emsp;&emsp;The Secretary shall accept public comment on specific medical specialties andsites of service, in addition to those described in clause (i), for the purpose of selecting additional specialties and sites of service as necessary.
 
 #### (iii) Health information technology for pediatrics
 
@@ -172,11 +172,11 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (C) Assessment of impact of HIT on communities with health disparities and uninsured, underinsured, and medically underserved areas
 
-&emsp;&emsp;The National Coordinator shall assess and publish the impact of health information technology in communities with health disparities and in areas with a high proportion of individuals who are uninsured, underinsured, and medically underserved individuals (including urban and rural areas) and identify practices to increase the adoption of such technology by health care providers in such communities, and the use of health information technology to reduce and better manage chronic diseases.
+&emsp;&emsp;The National Coordinator shall assess and publish the impact of health information technology in communities with health disparities and in areas with a high proportionof individuals who are uninsured, underinsured, and medically underserved individuals (including urban and rural areas) and identify practices to increase the adoption of such technology by health care providers in such communities, and the use of health information technology to reduce and better manage chronic diseases.
 
 #### (D) Evaluation of benefits and costs of the electronic use and exchange of health information
 
-&emsp;&emsp;The National Coordinator shall evaluate and publish evidence on the benefits andcosts of the electronic use and exchange of health information and assess to whom these benefits and costs accrue.
+&emsp;&emsp;The National Coordinator shall evaluate and publish evidence on the benefits and costs of the electronic use and exchange of health information and assess to whom these benefits and costs accrue.
 
 #### (E) Resource requirements
 
@@ -234,11 +234,11 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 2 years after convening stakeholders under subparagraph (A), and annually thereafter, the National Coordinator shall publish on its public Internet website a list of the health information networks that have adopted the common agreement and are capable of trusted exchange pursuant to the common agreement developed or supported under paragraph <sup>3</sup> (B).
+&emsp;&emsp;&emsp;Not later than 2 years after convening stakeholders under subparagraph (A), andannually thereafter, the National Coordinator shall publish on its public Internet website a list of the health information networks that have adopted the common agreement and are capable of trusted exchange pursuant to the common agreement developed or supported under paragraph <sup>3</sup> (B).
 
 #### (ii) Process
 
-&emsp;&emsp;&emsp;The Secretary shall, through notice and comment rulemaking, establish a process for health information networks that voluntarily elect to adopt the trusted exchange framework and common agreementto attest to such adoption of the framework and agreement.
+&emsp;&emsp;&emsp;The Secretary shall, through notice and comment rulemaking, establish a process for health information networks that voluntarily elect to adopt the trusted exchange framework and common agreement to attest to such adoption of the framework and agreement.
 
 #### (E) Application of the trusted exchange framework and common agreement
 

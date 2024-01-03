@@ -36,3 +36,9 @@ A prior section 15 of Pub. L. 102–477 was classified to section 3414 of this t
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted "Committee on Indian" for "Select Committee on Indian" and "Natural Resources" for "Interior and Insular Affairs".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+

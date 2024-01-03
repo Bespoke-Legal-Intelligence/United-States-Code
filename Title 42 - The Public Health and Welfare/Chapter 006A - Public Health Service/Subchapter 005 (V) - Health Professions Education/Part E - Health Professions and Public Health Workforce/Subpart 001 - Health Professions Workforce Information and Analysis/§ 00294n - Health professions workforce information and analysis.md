@@ -32,7 +32,7 @@ It is the purpose of this section to—
 
 #### (A) In general
 
-&emsp;&emsp;The National Center shall collaborate with Federal agencies and relevant professionaland educational organizations or societies for the purpose of linking data regarding grants awarded under this subchapter.
+&emsp;&emsp;The National Center shall collaborate with Federal agencies and relevant professional and educational organizations or societies for the purpose of linking data regarding grants awarded under this subchapter.
 
 #### (B) Contracts for health workforce analysis
 
@@ -118,7 +118,7 @@ Another prior section 761 of act July 1, 1944, was classified to section 294cc o
 
 Another prior section 761 of act July 1, 1944, was classified to section 295 of this title prior to repeal by Pub. L. 99–129.
 
-Another prior section 761 of act July 1, 1944, was classified to section 295 of this title prior to the generalamendment of part D of this subchapter by Pub. L. 91–696.
+Another prior section 761 of act July 1, 1944, was classified to section 295 of this title prior to the general amendment of part D of this subchapter by Pub. L. 91–696.
 
 #### Amendments
 

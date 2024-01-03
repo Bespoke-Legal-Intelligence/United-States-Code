@@ -6,7 +6,7 @@ Any person admitted to any hospital pursuant to section 322 or section 324 of th
 
 #### (b) Notice to legal guardian, etc.
 
-Whenever any person is admitted to a hospital pursuant to this chapter, his legal guardian, spouse, or next of kin shall, if known, be immediately notified.
+Whenever any person is admitted to a hospital pursuant to this chapter, his legal guardian,spouse, or next of kin shall, if known, be immediately notified.
 
 (Pub. L. 86–571, §5, July 5, 1960, 74 Stat. 309.)
 

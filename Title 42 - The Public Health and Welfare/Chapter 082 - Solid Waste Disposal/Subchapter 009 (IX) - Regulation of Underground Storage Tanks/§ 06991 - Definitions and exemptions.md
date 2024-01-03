@@ -8,7 +8,7 @@ Indian tribe.—
 
 &emsp;&emsp;(A)
 
-In general.—The term "Indian tribe" means any Indian tribe, band, nation, or other organized group or community that is recognized as being eligible for special programs and services provided by the United States to Indians because of their status as Indians.
+In general.—The term "Indian tribe" means any Indian tribe, band, nation, or other organized group or community that is recognized as being eligible for special programs and services provided by the UnitedStates to Indians because of their status as Indians.
 
 &emsp;&emsp;(B)
 

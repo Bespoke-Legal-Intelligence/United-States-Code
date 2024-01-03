@@ -14,7 +14,7 @@ Supplemental Allowance Required.—(1) The Secretary concerned shall increase th
 
 (b)
 
-Members Entitled to Allowance.—(1) Subject to subsection (d) and paragraph (4), a member of the armed forces with dependents is entitled to receive the supplemental subsistence allowance if the Secretary concerned determines that the member's income, together with the income of the rest of the member's household (if any), is within the highest income standard of eligibility, as then in effect under section 5(c) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(c)) and without regard to paragraph (1) of such section, for participation in the supplemental nutrition assistance program.
+Members Entitled to Allowance.—(1) Subject to subsection (d) and paragraph (4), a member of the armed forces with dependents is entitled to receive the supplemental subsistence allowance if the Secretary concerned determines that the member's income, together with the income of the rest of the member's household (ifany), is within the highest income standard of eligibility, as then in effect under section 5(c) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(c)) and without regard to paragraph (1) of such section, for participation in the supplemental nutrition assistance program.
 
 (2) In determining whether a member meets the eligibility criteria under paragraph (1), the Secretary concerned shall take into consideration the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
 
@@ -88,7 +88,7 @@ The Child Nutrition Act of 1966, referred to in subsec. (f)(2)(B), is Pub. L. 89
 
 The Head Start Act, referred to in subsec. (f)(2)(C), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (f)(2)(D), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. Forcomplete classification of this Act to the Code, see section 9857(a) of Title 42 and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (f)(2)(D), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 9857(a) of Title 42 and Tables.
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (f)(3), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, which is classified principally to subchapter II (§8621 et seq.) of chapter 94 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date
 
-Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–147, provided that: "Section 402a of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month that begins not less than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\]."
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–147, provided that: "Section402a of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month that begins not less than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

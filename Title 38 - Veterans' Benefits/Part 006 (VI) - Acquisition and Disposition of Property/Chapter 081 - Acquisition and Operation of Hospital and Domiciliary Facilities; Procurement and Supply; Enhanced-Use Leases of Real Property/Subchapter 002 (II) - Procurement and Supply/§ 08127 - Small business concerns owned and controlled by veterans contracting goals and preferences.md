@@ -156,13 +156,13 @@ Definitions.—In this section:
 
 &emsp;(4) The term "small business concern owned and controlled by veterans with service-connected disabilities" has the meaning given the term "small business concern owned and controlled by service-disabled veterans" under section 3(q)(2) of the Small Business Act (15 U.S.C. 632(q)(2)).
 
-(Added Pub. L. 109–461, title V, §502(a)(1), Dec. 22, 2006, 120 Stat. 3431; amended Pub. L. 110–389, title VIII, §806, Oct. 10, 2008, 122 Stat. 4189; Pub.L. 111–275, title I, §104(b)(1), Oct. 13, 2010, 124 Stat. 2867; Pub. L. 111–350, §5(j)(7), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112—154, title VII, §706, Aug. 6, 2012, 126 Stat. 1206; Pub. L. 114–315, title V, §501(a), Dec. 16, 2016, 130 Stat. 1566; Pub. L. 114–328, div. A, title XVIII, §1832(b), (d), (f)(1), Dec. 23, 2016, 130 Stat. 2659, 2660; Pub. L. 116–155, §2(a), (b), Aug. 8, 2020, 134 Stat. 698, 699; Pub. L. 116–183, §2(a), Oct. 30, 2020, 134 Stat. 895; Pub. L. 116–283, div. A, title VIII, §862(b)(1), (2), Jan. 1, 2021, 134 Stat. 3776, 3778; Pub. L. 116–315, title VII, §7009, Jan. 5, 2021, 134 Stat. 5061.)
+(Added Pub. L. 109–461, title V, §502(a)(1), Dec. 22, 2006, 120 Stat. 3431; amended Pub. L. 110–389, title VIII, §806, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–275, title I, §104(b)(1), Oct. 13, 2010, 124 Stat. 2867; Pub. L. 111–350, §5(j)(7), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112—154, title VII, §706, Aug. 6, 2012, 126 Stat. 1206; Pub. L. 114–315, title V, §501(a), Dec. 16, 2016, 130 Stat. 1566; Pub. L. 114–328, div. A, title XVIII, §1832(b), (d), (f)(1), Dec. 23, 2016, 130 Stat. 2659, 2660; Pub. L. 116–155, §2(a), (b), Aug. 8, 2020, 134 Stat. 698, 699; Pub. L. 116–183, §2(a), Oct. 30, 2020, 134 Stat. 895; Pub. L. 116–283, div. A, title VIII, §862(b)(1), (2), Jan. 1, 2021, 134 Stat. 3776, 3778; Pub. L. 116–315, title VII, §7009, Jan. 5, 2021, 134 Stat. 5061.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The date of the enactment of the Department of Veterans Affairs Contracting Preference Consistency Act of 2020, referred to in subsec. (d)(2)(B)(i)(II), is the date of enactment of Pub. L. 116–155, which was approved Aug. 8, 2020.
+The date of the enactment of the Department of Veterans Affairs Contracting Preference Consistency Actof 2020, referred to in subsec. (d)(2)(B)(i)(II), is the date of enactment of Pub. L. 116–155, which was approved Aug. 8, 2020.
 
 The Small Business Act, referred to in subsecs. (e) and (i)(2), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. Section 36 of the Act is classified to section 657f of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
@@ -236,7 +236,7 @@ Subsec. (f)(8). Pub. L. 114–328, §1832(f)(1), added par. (8).
 
 Subsec. (h). Pub. L. 114–328, §1832(b)(1)(A), redesignated subsec. (i) as (h) and struck out former subsec. (h) which related to treatment of businesses after death of veteran-owner.
 
-Subsec. (h)(2)(C). Pub. L. 114–315, §501(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "The date that is ten years after the date of the veteran's death."
+Subsec. (h)(2)(C). Pub. L. 114–315, §501(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: "The date that is ten years after the date of the veteran's death."
 
 Subsec. (h)(3). Pub. L. 114–315, §501(a)(1), substituted period at end for "rated as 100 percent disabling or who dies as a result of a service-connected disability."
 

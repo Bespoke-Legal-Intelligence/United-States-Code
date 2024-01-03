@@ -56,7 +56,7 @@ Receiving reports.—With respect to reports submitted under subsection (a), the
 
 &emsp;&emsp;(B)
 
-Collection of information.—After receipt of the report made under subsection\(a), the Coast Guard shall collect information related to the identity of each alleged victim, alleged perpetrator, and any witnesses identified in the report through means designed to protect, to the extent practicable, the personal identifiable information of such individuals.
+Collection of information.—After receipt of the report made under subsection (a), the Coast Guard shall collect information related to the identity of each alleged victim, alleged perpetrator, and any witnesses identified in the report through means designed to protect, to the extent practicable, the personal identifiable information of such individuals.
 
 (c)
 

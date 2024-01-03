@@ -4,7 +4,7 @@
 
 As used in this section:
 
-(1) The term "utility" means any person who is a local exchange carrier or an electric, gas, water, steam, or other public utility, and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for any wire communications. Such term does not include any railroad, any person who is cooperatively organized, or any person owned by the Federal Government or any State.
+(1) The term "utility" means any person who is a local exchange carrier or an electric, gas, water, steam, or other public utility, and whoowns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for any wire communications. Such term does not include any railroad, any person who is cooperatively organized, or any person owned by the Federal Government or any State.
 
 (2) The term "Federal Government" means the Government of the United States or any agency or instrumentality thereof.
 
@@ -56,7 +56,7 @@ As used in this section:
 
 (3) A utility shall apportion the cost of providing usable space among all entities according to the percentage of usable space required for each entity.
 
-(4) The regulations required under paragraph (1) shall become effective 5 years after February 8, 1996. Any increase in the rates for pole attachments that result from the adoption of the regulations required by this subsection shall be phased in equal annual increments over a period of 5 years beginning on the effective date of such regulations.
+(4) The regulations required under paragraph (1) shall become effective 5 years after February 8, 1996. Any increase in the rates for pole attachments that result from the adoption of the regulations required by this subsection shall be phased in equal annual increments over a periodof 5 years beginning on the effective date of such regulations.
 
 #### (f) Nondiscriminatory access
 

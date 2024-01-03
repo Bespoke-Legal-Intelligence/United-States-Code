@@ -4,7 +4,7 @@
 
 Duties.—The Commission shall—
 
-&emsp;(1) identify and publish a list of cemeteries, monuments, and historic buildings located abroad that are associated with the foreign heritage of United States citizens from eastern and central Europe, particularly cemeteries, monuments, and buildings that are in danger of deterioration or destruction;
+&emsp;(1) identify and publish a list of cemeteries, monuments, and historic buildings locatedabroad that are associated with the foreign heritage of United States citizens from eastern and central Europe, particularly cemeteries, monuments, and buildings that are in danger of deterioration or destruction;
 
 &emsp;(2) encourage the preservation and protection of those cemeteries, monuments, and historic buildings by obtaining, in cooperation with the Secretary of State, assurances from foreign governments that the cemeteries, monuments, and buildings will be preserved and protected; and
 

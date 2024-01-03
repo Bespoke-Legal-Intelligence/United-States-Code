@@ -180,7 +180,7 @@ Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set ou
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–589, §1, Nov. 10, 1992, 106 Stat. 5133, provided that: "This Act \[amending sections 3718 and 3720A of this title, enacting provisions set out as notes under section 3718 of this title, and amending provisions set out as notes under sections 3335, 3718, and 6503 of this title\] may be cited as the 'Cash Management Improvement Act Amendments of 1992'."
+Pub. L. 102–589, §1, Nov. 10, 1992, 106 Stat. 5133, provided that: "This Act \[amending sections 3718 and 3720A of this title, enacting provisions set out as notes undersection 3718 of this title, and amending provisions set out as notes under sections 3335, 3718, and 6503 of this title\] may be cited as the 'Cash Management Improvement Act Amendments of 1992'."
 
 #### Short Title of 1990 Amendment
 

@@ -10,7 +10,7 @@ Every member of any labor organization shall have the right to meet and assemble
 
 #### (3) Dues, initiation fees, and assessments
 
-Except in the case of a federation of national or international labor organizations, the rates of dues and initiation fees payable by members of any labor organization in effect on September 14, 1959 shall not be increased, and no general or special assessment shall be levied upon such members, except—
+Except in the case of a federation of national or international labor organizations, the ratesof dues and initiation fees payable by members of any labor organization in effect on September 14, 1959 shall not be increased, and no general or special assessment shall be levied upon such members, except—
 
 &emsp;(A) in the case of a local labor organization, (i) by majority vote by secret ballot of the members in good standing voting at a general or special membership meeting, after reasonable notice of the intention to vote upon such question, or (ii) by majority vote of the members in good standing voting in a membership referendum conducted by secret ballot; or
 

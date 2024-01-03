@@ -196,7 +196,7 @@ Sec. 3. <i>Initiation of Investigations</i>. Within 90 days of the submission of
 
 #### Part II: Identification of Discriminatory Government Procurement Practices
 
-Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the submission of the National Trade Estimate Report for 1999, 2000, and 2001, the Trade Representative shall submit to the Committees on Finance and on Governmental Affairs of the Senate and the Committees on Ways and Means and Government Reform and Oversight of the House of Representatives, and shall publish in the Federal Register, a report on the extent to which foreign countries discriminate against U.S. products or services in making government procurements.
+Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the submission of the National Trade Estimate Report for 1999, 2000, and 2001, the Trade Representative shall submit to the Committees on Finance and on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committees on Ways and Means and Government Reform and Oversight \[now Committee on Oversight and Accountability\] of the House of Representatives, and shall publish in the Federal Register, a report on the extent to which foreign countries discriminate against U.S. products or services in making government procurements.
 
 (b) In the report, the Trade Representative shall identify countries that:
 
@@ -206,7 +206,7 @@ Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the su
 
 Sec. 2. <i>Considerations in Making Identifications</i>. In making the identifications required by section 1 of this part, the Trade Representative shall: (a) consider the requirements of the GPA, NAFTA, or other procurement agreements, government procurement practices, and the effects of such practices on U.S. businesses as a basis for evaluating whether the procurement practices of foreign governments do not provide fair market opportunities for U.S. products or services;
 
-(b) take into account, among other factors, whether and to what extent countries that are parties to theGPA, NAFTA, or other procurement agreements, and other countries described in section 1 of this part:
+(b) take into account, among other factors, whether and to what extent countries that are parties to the GPA, NAFTA, or other procurement agreements, and other countries described in section 1 of this part:
 
 &emsp;(1) use sole-sourcing or otherwise noncompetitive procedures for procurement that could have been conducted using competitive procedures;
 

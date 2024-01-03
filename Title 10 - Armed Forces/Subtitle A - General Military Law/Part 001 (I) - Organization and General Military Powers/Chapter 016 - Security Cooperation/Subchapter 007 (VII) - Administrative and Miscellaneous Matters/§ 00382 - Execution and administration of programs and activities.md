@@ -26,7 +26,7 @@ In general.—Funds available to the Defense Security Cooperation Agency, and ot
 
 &emsp;(2)
 
-Budget justification.—Funds necessary for implementing security cooperation programs and activities of the Department of Defense under this chapter for a fiscal year shall be identified, with appropriate justification, in the consolidated budget for such fiscal year required by section 381 of this title.
+Budget justification.—Funds necessary for implementing security cooperation programs and activities of the Department of Defense under this chapter for a fiscal year shallbe identified, with appropriate justification, in the consolidated budget for such fiscal year required by section 381 of this title.
 
 (Added Pub. L. 114–328, div. A, title XII, §1241(m), Dec. 23, 2016, 130 Stat. 2509.)
 

@@ -24,7 +24,7 @@ Projects and programs for which grants and contracts are made under this section
 
 (B)(i) Except as provided in clause (ii), each application for a grant under this section shall be submitted by the Secretary to the National Advisory Council on Alcohol Abuse and Alcoholism for its review. The Secretary may approve an application for a grant under this section only if it is recommended for approval by such Council.
 
-(ii) Clause (i) shall not apply to an application for a grant under this section for a project orprogram for any period of 12 consecutive months for which period payments under such grant will be less than $250,000, if an application for a grant under this section for such project or program and for a period of time which includes such 12-month period has been submitted to, and approved by, the Secretary.
+(ii) Clause (i) shall not apply to an application for a grant under this section for a project or program for any period of 12 consecutive months for which period payments under such grant will be less than $250,000, if an application for a grant under this section for such project or program and for a period of time which includes such 12-month period has been submitted to, and approved by, the Secretary.
 
 (3) Approval of any application for a grant or contract by the Secretary, including the earmarking of financial assistance for a program or project, may be granted only if the application substantially meets a set of criteria established by the Secretary that—
 

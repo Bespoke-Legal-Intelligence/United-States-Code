@@ -62,7 +62,7 @@ For definition of Canal Zone, referred to in par. (15), see section 3602(b) of T
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–51, §1, Sept. 24, 2015, 129 Stat. 494, provided that: "This Act \[amending section 2302 of this title andenacting provisions set out as notes under section 2302 of this title\] may be cited as the 'E-Warranty Act of 2015'."
+Pub. L. 114–51, §1, Sept. 24, 2015, 129 Stat. 494, provided that: "This Act \[amending section 2302 of this title and enacting provisions set out as notes under section 2302 of this title\] may be cited as the 'E-Warranty Act of 2015'."
 
 #### Short Title
 

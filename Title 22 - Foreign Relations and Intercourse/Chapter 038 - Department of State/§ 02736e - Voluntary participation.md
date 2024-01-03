@@ -14,7 +14,7 @@ Any data collected under this title shall be subject to the relevant privacy pro
 
 #### References in Text
 
-This title, referred to in text, is title LIV (§§5401–5408) of div. E of Pub. L. 117–81, which enacted this section and sections 2736 to 2736d of this title, amended section3941 of this title, and enacted provisions set out as a note under section 2736 of this title. For complete classification of title LIV to the Code, see Tables.
+This title, referred to in text, is title LIV (§§5401–5408) of div. E of Pub. L. 117–81, which enacted this section and sections 2736 to 2736d of this title, amended section 3941 of this title, and enacted provisions set out as a note under section 2736 of this title. For complete classification of title LIV to the Code, see Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

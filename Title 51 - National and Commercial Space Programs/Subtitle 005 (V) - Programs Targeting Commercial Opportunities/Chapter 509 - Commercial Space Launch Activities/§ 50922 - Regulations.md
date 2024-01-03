@@ -36,7 +36,7 @@ Amendments.—(1) Not later than 12 months after the date of enactment of the Co
 
 Effective Date.—(1) Licenses for the launch or reentry of launch vehicles or reentry vehicles with human beings on board and permits may be issued by the Secretary prior to the issuance of the regulations described in subsection (c).
 
-(2) As soon as practicable after the date of enactment of the Commercial Space Launch Amendments Act of 2004, the Secretary shall issue guidelines or advisory circulars to guide the implementation of that Act until regulations are issued.
+(2) As soon as practicable after the date of enactment of the Commercial Space Launch Amendments Act of 2004, the Secretary shallissue guidelines or advisory circulars to guide the implementation of that Act until regulations are issued.
 
 (3) Notwithstanding paragraphs (1) and (2), no licenses for the launch or reentry of launch vehicles or reentry vehicles with human beings on board or permits may be issued starting three years after the date of enactment of the Commercial Space Launch Amendments Act of 2004 unless the final regulations described in subsection (c) have been issued.
 
@@ -48,7 +48,7 @@ Effective Date.—(1) Licenses for the launch or reentry of launch vehicles or r
 
 The date of the enactment of this section, referred to in subsecs. (a) and (b), is the date of enactment of Pub. L. 105–303, which was approved Oct. 28, 1998.
 
-The Commercial Space Launch Amendments Act of 2004, referred to in subsecs. (c) and (d), is Pub. L. 108–492, Dec. 23, 2004, 118 Stat. 3974, which was approvedDec. 23, 2004. For complete classification of this Act to the Code, see Short Title of 2004 Act note set out under section 10101 of this title and Tables.
+The Commercial Space Launch Amendments Act of 2004, referred to in subsecs. (c) and (d), is Pub. L. 108–492, Dec. 23, 2004, 118 Stat. 3974, which was approved Dec. 23, 2004. For complete classification of this Act to the Code, see Short Title of 2004 Act note set out under section 10101 of this title and Tables.
 
 #### Amendments
 

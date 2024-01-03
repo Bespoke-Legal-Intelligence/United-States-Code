@@ -8,7 +8,7 @@ Congress finds the following:
 
 &emsp;(2) The 192,000,0000 <sup>1</sup> acres of national forests and grasslands of the National Forest System managed for multiple uses by the Forest Service provides an ideal setting for such organizational camps.
 
-&emsp;(3) The Federal Government should charge land use fees for the occupancy and use of National Forest System lands by such organizational camps that, while based on the fair market value of the land in use, also recognize the benefits provided to society by such organizational camps, do not preclude the ability of such organizational camps from utilizing these lands, and permit capital investment in, and maintenance of, camp facilities by suchorganizational camps or their sponsoring organizations.
+&emsp;(3) The Federal Government should charge land use fees for the occupancy and use of National Forest System lands by such organizational camps that, while based on the fair market value of the land in use, also recognize the benefits provided to society by such organizational camps, do not preclude the ability of such organizational camps from utilizing these lands, and permit capital investment in, and maintenance of, camp facilities by such organizational camps or their sponsoring organizations.
 
 &emsp;(4) Organizational camps should—
 

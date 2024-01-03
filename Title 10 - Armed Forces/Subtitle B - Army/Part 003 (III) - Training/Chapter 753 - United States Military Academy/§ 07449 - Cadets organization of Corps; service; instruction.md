@@ -50,7 +50,7 @@ R.S. 1324.
 
 In subsection (a), the word "commissioned" is inserted for clarity; 10:1105 (2d sentence) is omitted as obsolete.
 
-In subsection (b), the word "perform" is substituted for the words "be subject at all times to do". The words"of such type" are substituted for the words "on such service".
+In subsection (b), the word "perform" is substituted for the words "be subject at all times to do". The words "of such type" are substituted for the words "on such service".
 
 In subsection (e), the words "members of the Army" are substituted for the words "private soldier, noncommissioned officer, and officer". The words "taught and" are omitted as surplusage.
 

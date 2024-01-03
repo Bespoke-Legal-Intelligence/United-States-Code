@@ -112,7 +112,7 @@ Pub. L. 100–690, title VII, §7207(d), (e), Nov. 18, 1988, 102 Stat. 4428, pro
 
 Report.—Not later than 180 days after the date of the enactment of this subtitle \[Nov. 18, 1988\] and annually thereafter during the 5-year period beginning on such 180th day, the Administrator shall prepare and transmit to Congress a report on the following:
 
-&emsp;"(1) The status of the rulemaking process, issuance of regulations, and implementation of regulations inaccordance with this section \[see subsec. (d) of this section\].
+&emsp;"(1) The status of the rulemaking process, issuance of regulations, and implementation of regulations in accordance with this section \[see subsec. (d) of this section\].
 
 &emsp;"(2) The progress being made in reducing the number of aircraft classified by the Federal Aviation Administration as being in 'sale-reported status'.
 

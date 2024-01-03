@@ -88,7 +88,7 @@ The Fund shall be available as follows:
 
 #### (e) Amounts awarded and unspent
 
-Any amount awarded as part of a grant under this subchapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General. Any remaining unobligated sums shall be returned to the Fund.
+Any amount awarded as part of a grant under this subchapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available fordeposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General. Any remaining unobligated sums shall be returned to the Fund.
 
 #### (f) "Offenses against the United States" as excluding
 
@@ -118,7 +118,7 @@ As used in this section, the term "offenses against the United States" does not 
 
 #### References in Text
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (b)(1)(B)(i), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11\(§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (b)(1)(B)(i), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
 Section 3613 of title 18, referred to in subsec. (b)(1)(B)(iv), was repealed effective on the first day of the first calendar month beginning 36 months after Oct. 12, 1984 (Nov. 1, 1987), by Pub. L. 98–473, title II, §§212(a)(2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended.
 
@@ -190,7 +190,7 @@ Subsec. (d)(5)(B). Pub. L. 106–386, §2003(c)(2), inserted ", to provide comp
 
 Subsec. (e). Pub. L. 106–386, §2003(b)(2), substituted "shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director. Any remaining unobligated sums" for "in excess of $500,000 shall be returned to the Treasury. Any remaining unobligated sums in an amount less than $500,000".
 
-<b>1999</b>—Subsec. (d)(3) to (5). Pub. L. 106–113 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (5) which read as follows: "The Director may set aside up to $500,000 of the reserve fund described in paragraph (4) to make supplemental grants to United States Attorneys Officesto provide necessary assistance to victims of the bombing of the Alfred P. Murrah Federal Building in Oklahoma City, to facilitate observation of and/or participation by such victims in trial proceedings arising therefrom, including, without limitation, provision of lodging and travel assistance, and to pay such other, related expenses determined to be necessary by the Director."
+<b>1999</b>—Subsec. (d)(3) to (5). Pub. L. 106–113 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (5) which read as follows: "The Director may set aside up to $500,000 of the reserve fund described in paragraph (4) to make supplemental grants to United States Attorneys Offices to provide necessary assistance to victims of the bombing of the Alfred P. Murrah Federal Building in Oklahoma City, to facilitate observation of and/or participation by such victims in trial proceedings arising therefrom, including, without limitation, provision of lodging and travel assistance, and to pay such other, related expenses determined to be necessary by the Director."
 
 <b>1997</b>—Subsec. (d)(1). Pub. L. 105–119, §109(a)(1), struck out par. (1) which read as follows: "The first $6,200,000 deposited in the Fund in each of the fiscal years 1992 through 1995 and the first $3,000,000 in each fiscal year thereafter shall be available to the judicial branch for administrative costs to carry out the functions of the judicial branch under sections 3611 and 3612 of title 18."
 
@@ -224,7 +224,7 @@ Pub. L. 104–132, §232(c)(1)(B), reenacted heading without change and amended 
 
 Subsec. (d)(3). Pub. L. 103–322, §330025(a), which directed amendment of par. (3) by substituting "section 10603a" for "section 10603(a)" was executed to subpar. (B).
 
-Pub. L. 103–322, §230201(a)(2), added par. (3) and struck out former par. (3) which read as follows: "The next $5,500,000 deposited in the Fund in a particular fiscal year shall be available for grants under section 10603a of this title."
+Pub. L. 103–322, §230201(a)(2), added par. (3) and struck out former par. (3) which read as follows: "The next$5,500,000 deposited in the Fund in a particular fiscal year shall be available for grants under section 10603a of this title."
 
 Subsec. (d)(4). Pub. L. 103–322, §230201(a)(3), added par. (4) and struck out former par. (4) which read as follows: "The next $4,500,000 deposited in the Fund in a particular fiscal year shall be available for grants under section 10603(a) of this title."
 
@@ -398,7 +398,7 @@ Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §620\], Nov. 29, 1999, 113 
 
 #### Interaction With Any Cap
 
-Pub. L. 106–177, title I, §104(b), Mar. 10, 2000, 114 Stat. 36, provided that: "Subsection (a) \[amending this section\] shall be implemented so that any increase infunding provided thereby shall operate notwithstanding any dollar limitation on the availability of the Crime Victims Fund established under the Victims of Crime Act of 1984 \[34 U.S.C. 20101 et seq.\]."
+Pub. L. 106–177, title I, §104(b), Mar. 10, 2000, 114 Stat. 36, provided that: "Subsection (a) \[amending this section\] shall be implemented so that any increase in funding provided thereby shall operate notwithstanding any dollar limitation on the availability of the Crime Victims Fund established under the Victims of Crime Act of 1984 \[34 U.S.C. 20101 et seq.\]."
 
 #### Transfer of Certain Unobligated Funds
 

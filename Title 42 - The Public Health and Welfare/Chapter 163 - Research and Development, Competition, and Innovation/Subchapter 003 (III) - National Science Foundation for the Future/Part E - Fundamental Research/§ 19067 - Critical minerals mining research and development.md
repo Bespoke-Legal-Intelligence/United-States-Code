@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) conducting detailed isotope studies of critical minerals and the development of more refined geologic models;
 
-&emsp;&emsp;(G) improved understanding of the geological and geochemical processes throughwhich critical minerals form and are concentrated into economically viable deposits; or
+&emsp;&emsp;(G) improved understanding of the geological and geochemical processes through which critical minerals form and are concentrated into economically viable deposits; or
 
 &emsp;&emsp;(H) providing training and research opportunities to undergraduate and graduate students to prepare the next generation of mining engineers and researchers.
 

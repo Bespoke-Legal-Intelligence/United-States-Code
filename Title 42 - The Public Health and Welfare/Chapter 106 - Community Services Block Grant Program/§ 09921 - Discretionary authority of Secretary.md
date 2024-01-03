@@ -32,13 +32,13 @@
 
 &emsp;The Secretary shall provide the assistance described in paragraph (1) for rural community development activities, which shall include providing—
 
-&emsp;&emsp;(A) grants to private, nonprofit corporations to enable the corporations to provideassistance concerning home repair to rural low-income families and concerning planning and developing low-income rural rental housing units; and
+&emsp;&emsp;(A) grants to private, nonprofit corporations to enable the corporations to provide assistance concerning home repair to rural low-income families and concerning planning and developing low-income rural rental housing units; and
 
 &emsp;&emsp;(B) grants to multistate, regional, private, nonprofit organizations to enable the organizations to provide training and technical assistance to small, rural communities concerning meeting their community facility needs.
 
 #### (4) Neighborhood innovation projects
 
-&emsp;The Secretary shall provide the assistance described in paragraph (1) for neighborhood innovation projects, which shall include providing grants to neighborhood-based private, nonprofit organizations to test or assist in the development of new approaches or methods that will aid in overcoming special problems identified by communities or neighborhoods or otherwise assist in furthering the purposes of this chapter, and which may include providing assistance for projects that are designed to serve low-income individuals and families who are not being effectively served by other programs.
+&emsp;The Secretary shall provide the assistance described in paragraph (1) for neighborhood innovation projects, which shall include providing grants to neighborhood-based private,nonprofit organizations to test or assist in the development of new approaches or methods that will aid in overcoming special problems identified by communities or neighborhoods or otherwise assist in furthering the purposes of this chapter, and which may include providing assistance for projects that are designed to serve low-income individuals and families who are not being effectively served by other programs.
 
 #### (b) Evaluation
 
@@ -59,8 +59,6 @@ A prior section 680 of Pub. L. 97–35 was classified to section 9909 of this ti
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

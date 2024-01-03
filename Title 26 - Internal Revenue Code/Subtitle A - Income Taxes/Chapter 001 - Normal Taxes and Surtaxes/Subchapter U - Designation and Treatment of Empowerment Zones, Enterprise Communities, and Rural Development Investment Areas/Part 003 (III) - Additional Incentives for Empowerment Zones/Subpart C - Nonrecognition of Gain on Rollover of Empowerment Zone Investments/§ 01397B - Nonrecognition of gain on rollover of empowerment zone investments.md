@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (5) Holding period
 
-&emsp;For purposes of determining whether the nonrecognition of gain under subsection (a) applies to any qualified empowerment zone asset which is sold, the taxpayer's holding period for such asset and the asset referred to in subsection (a)(1) shall be determined without regard to section 1223.
+&emsp;For purposes of determining whether the nonrecognition of gain under subsection (a) applies to any qualified empowerment zone asset which is sold, the taxpayer's holding period for such asset and the asset referred to insubsection (a)(1) shall be determined without regard to section 1223.
 
 #### (c) Termination
 

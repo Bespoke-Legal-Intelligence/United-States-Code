@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) acquire and ensure the dissemination to such personnel of any appropriate information on research and clinical practices relating to such services that are carried out by researchers, clinicians, and educators who are not affiliated with the Administration.
 
-&emsp;(4) Facilitate the optimal use of the unique resources of the Department for cooperative research into health outcomes by initiating recommendations, and responding to requests of the Under Secretary for Health and the Director of the Medical and Prosthetic Research Service, for such research into preventive health services.
+&emsp;(4) Facilitate the optimal use of the unique resources of the Department for cooperativeresearch into health outcomes by initiating recommendations, and responding to requests of the Under Secretary for Health and the Director of the Medical and Prosthetic Research Service, for such research into preventive health services.
 
 &emsp;(5) Provide advisory services to personnel of Department health-care facilities with respect to the planning or furnishing of preventive health services by such personnel.
 

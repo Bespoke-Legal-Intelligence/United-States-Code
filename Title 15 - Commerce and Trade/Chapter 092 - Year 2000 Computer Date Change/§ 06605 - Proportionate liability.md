@@ -110,7 +110,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 &emsp;&emsp;&emsp;(II) The term "consumer" means an individual who acquires a consumer product for purposes other than resale.
 
-&emsp;&emsp;&emsp;(III) The term "consumer product" means any personal property or service which is normally used for personal, family, or household purposes.
+&emsp;&emsp;&emsp;(III) The term "consumer product" means any personal property or servicewhich is normally used for personal, family, or household purposes.
 
 #### (2) Special right of contribution
 

@@ -20,7 +20,7 @@ The Secretary of State is authorized—
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277, §1223(9)(A)(v), (vi), made technical amendment to reference in original act which appears in text as reference to section 2567 of this title, and struck out "the" after "serve as" in second sentence.
 
-Pub. L. 105–277, §1223(9)(A)(iv), which directed amendment of subsec. (a) by striking "and shall have primary responsibility, whenever directed by the President, for the preparation, conduct, and management of the United States participation in international negotiations and implementation fora in the field of nonproliferation" before period at end of first sentence, was executed by striking language which did not include the word "the" before "United States" to reflect the probable intent of Congress.
+Pub. L. 105–277, §1223(9)(A)(iv), which directed amendment of subsec. (a) by striking "and shall have primary responsibility, whenever directed by the President, forthe preparation, conduct, and management of the United States participation in international negotiations and implementation fora in the field of nonproliferation" before period at end of first sentence, was executed by striking language which did not include the word "the" before "United States" to reflect the probable intent of Congress.
 
 Pub. L. 105–277, §1223(9)(A)(i), (ii), in first sentence, substituted "The Secretary of State" for "The Director" and struck out "and the Secretary of State" after "the President".
 

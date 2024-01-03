@@ -332,15 +332,11 @@ Termination.—The Directed Energy Working Group established under this subsecti
 
 Pub. L. 116–92, div. A, title XVI, §1681(b), Dec. 20, 2019, 133 Stat. 1781, provided that: "Not later than the date on which the President submits to Congress the annual budget request of the President for fiscal year 2021 pursuant to section 1105 of title 31, United States Code, the Secretary of Defense shall, as the Secretary considers appropriate, redesignate all strategies, policies, programs, and systems under the jurisdiction of the Secretary to reflect that missile defense programs of the United States defend against ballistic, cruise, and hypersonic missiles in all phases of flight."
 
-Pub. L. 114–328, div. A, title XVI, §1681(a), Dec. 23, 2016, 130 Stat. 2623, as amended by Pub. L. 116–92, div. A, title XVI, §1681(a), Dec. 20, 2019, 133 Stat. 1781, provided that: "It is the policy of the United States to—
+Pub. L. 114–328, div. A, title XVI, §1681(a), Dec. 23, 2016, 130 Stat. 2623, as amended by Pub. L. 116–92, div. A, title XVI, §1681(a), Dec. 20, 2019, 133 Stat. 1781; Pub. L. 118–31, div. A, title XVI, §1663, Dec. 22, 2023, 137 Stat. 603, provided that: "It is the policy of the United States—
 
-&emsp;"(1) maintain and improve, with funding subject to the annual authorization of appropriations and the annual appropriation of funds for National Missile Defense—
+&emsp;"(1) to research, develop, test, procure, deploy, and sustain, with funding subject to the annual authorization of appropriations for National Missile Defense, systems that provide effective, layered missile defense capabilities to defeat increasingly complex missile threats in all phases of flight; and
 
-&emsp;&emsp;"(A) an effective, layered missile defense system capable of defending the territory of the United States against the developing and increasingly complex missile threat posed by rogue states; and
-
-&emsp;&emsp;"(B) an effective regional missile defense system capable of defending the allies, partners, and deployed forces of the United States against increasingly complex missile threats; and
-
-&emsp;"(2) rely on nuclear deterrence to address more sophisticated and larger quantity near-peer intercontinental missile threats to the homeland of the United States."
+&emsp;"(2) to rely on nuclear deterrence to address more sophisticated and larger quantity near-peer intercontinental missile threats to the homeland of the United States."
 
 #### Designation of Certain Acquisition Authority
 
@@ -444,7 +440,7 @@ Certification.—Not later than 45 days after forgoing a test for a condition or
 
 "(e)
 
-Report.—Not later than 45 days after forgoing a test for any condition specified in subsection (c), the Director shall submit to the congressional defense committees a report setting forth the rationale for forgoing the test and a plan to restore an intercept flight test in the Integrated Master Test Plan of the Missile Defense Agency. In the case of a test forgone for a condition or conditions under subsection (c)(8), the report required by this subsection is in addition to the certification required by subsection (d)."
+Report.—Not later than 45 days after forgoing a test for any condition specified in subsection (c), theDirector shall submit to the congressional defense committees a report setting forth the rationale for forgoing the test and a plan to restore an intercept flight test in the Integrated Master Test Plan of the Missile Defense Agency. In the case of a test forgone for a condition or conditions under subsection (c)(8), the report required by this subsection is in addition to the certification required by subsection (d)."
 
 #### Pilot Program on Loss of Unclassified, Controlled Technical Information
 
@@ -464,7 +460,7 @@ Duration.—The Director shall carry out the pilot program under subsection (a) 
 
 "(d)
 
-Notification.—Not later than 30 days before the date on which the Director commences the pilot program under subsection (a), the Director shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate of—
+Notification.—Not later than 30 days before the date on which the Director commences the pilot program under subsection (a), the Director shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate of—
 
 &emsp;"(1) the data protection options that the Director is considering to implement under the pilot program and the potential costs of such options; and
 
@@ -654,7 +650,7 @@ Pub. L. 105–85, div. A, title II, §231, Nov. 18, 1997, 111 Stat. 1661, provid
 
 Pub. L. 106–398, §1 \[div. C, title XXXI, §3132\], Oct. 30, 2000, 114 Stat. 1654, 1654A–455, as amended by Pub. L. 107–314, div. A, title II, §225(b)(3), Dec. 2, 2002, 116 Stat. 2486, directed the Secretary of Energy and the Secretary of Defense to modify the memorandum of understanding entered into under section 3131 of the National Defense Authorization Act for Fiscal Year 1998 (Pub. L. 105–85, formerly set out as a note below) to provide for jointly funded projects.
 
-Pub. L. 105–85, div. C, title XXXI, §3131, Nov. 18, 1997, 111 Stat. 2034, directed the Secretary of Energy and the Secretary of Defense to enter into a memorandum of understanding to improve and facilitate the use of the expertise of the national laboratories for the ballistic missile defense programs of the Department of Defense.
+Pub. L. 105–85, div. C, title XXXI, §3131, Nov. 18, 1997, 111 Stat. 2034, directed the Secretary of Energy and theSecretary of Defense to enter into a memorandum of understanding to improve and facilitate the use of the expertise of the national laboratories for the ballistic missile defense programs of the Department of Defense.
 
 #### Ballistic Missile Defense Program
 

@@ -100,3 +100,9 @@ There is authorized to be appropriated to carry out this section $1,500,000 for 
 
 (Pub. L. 101–477, title I, §108, as added Pub. L. 117–337, §2(b), Jan. 5, 2023, 136 Stat. 6153.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+

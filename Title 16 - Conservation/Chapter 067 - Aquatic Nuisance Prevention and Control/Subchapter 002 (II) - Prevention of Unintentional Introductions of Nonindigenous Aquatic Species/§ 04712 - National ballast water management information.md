@@ -48,7 +48,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in cooperation with the Task Force, shall conduct surveys of ballast water discharge rates and practices in the waters referred to in paragraph (1)(A) on the basis of the criteria under clauses (i) and (ii) of such paragraph.
+&emsp;&emsp;The Secretary, in cooperation with the Task Force, shall conduct surveys of ballastwater discharge rates and practices in the waters referred to in paragraph (1)(A) on the basis of the criteria under clauses (i) and (ii) of such paragraph.
 
 #### (B) Requirements for surveys
 

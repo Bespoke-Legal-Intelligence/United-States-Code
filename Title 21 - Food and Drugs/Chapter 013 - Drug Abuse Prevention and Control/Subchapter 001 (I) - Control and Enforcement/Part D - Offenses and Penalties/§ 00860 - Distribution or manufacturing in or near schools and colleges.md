@@ -20,7 +20,7 @@ Notwithstanding any other law, any person at least 21 years of age who knowingly
 
 #### (d) Suspension of sentence; probation; parole
 
-In the case of any mandatory minimum sentence imposed under this section, imposition orexecution of such sentence shall not be suspended and probation shall not be granted. An individual convicted under this section shall not be eligible for parole until the individual has served the mandatory minimum term of imprisonment as provided by this section.
+In the case of any mandatory minimum sentence imposed under this section, imposition or execution of such sentence shall not be suspended and probation shall not be granted. An individual convicted under this section shall not be eligible for parole until the individual has served the mandatory minimum term of imprisonment as provided by this section.
 
 #### (e) Definitions
 
@@ -34,7 +34,7 @@ For the purposes of this section—
 
 &emsp;(4) The term "swimming pool" includes any parking lot appurtenant thereto.
 
-(Pub. L. 91–513, title II, §419, formerly §405A, as added Pub. L. 98–473, title II, §503(a), Oct. 12, 1984, 98 Stat. 2069; amended Pub. L. 99–570, title I, §§1004(a), 1104, 1105(c), 1841(b), 1866(b), (c), Oct. 27, 1986, 100 Stat. 3207–6, 3207–11, 3207–52, 3207–55; Pub. L. 99–646, §28, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 100–690, title VI, §§6452(b)(1), 6457, 6458, Nov. 18, 1988, 102 Stat. 4371, 4373; renumbered §419 and amended Pub. L. 101–647, title X, §§1002(b), 1003(b), title XII, §1214, title XV, §1502, title XXXV, §3599L, Nov. 29, 1990, 104 Stat. 4827, 4829, 4833, 4836, 4932; Pub. L. 103–322, title XIV, §140006, title XXXII, §320107, title XXXIII, §330009(a), Sept. 13, 1994, 108 Stat. 2032, 2111, 2143.)
+(Pub. L. 91–513, title II, §419, formerly §405A, as added Pub. L. 98–473, title II, §503(a), Oct. 12, 1984, 98 Stat. 2069; amended Pub. L. 99–570, title I, §§1004(a), 1104, 1105(c), 1841(b), 1866(b), (c), Oct.27, 1986, 100 Stat. 3207–6, 3207–11, 3207–52, 3207–55; Pub. L. 99–646, §28, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 100–690, title VI, §§6452(b)(1), 6457, 6458, Nov. 18, 1988, 102 Stat. 4371, 4373; renumbered §419 and amended Pub. L. 101–647, title X, §§1002(b), 1003(b), title XII, §1214, title XV, §1502, title XXXV, §3599L, Nov. 29, 1990, 104 Stat. 4827, 4829, 4833, 4836, 4932; Pub. L. 103–322, title XIV, §140006, title XXXII, §320107, title XXXIII, §330009(a), Sept. 13, 1994, 108 Stat. 2032, 2111, 2143.)
 
 #### <b>Editorial Notes</b>
 
@@ -78,7 +78,7 @@ Subsec. (b). Pub. L. 100–690, §§6452(b)(1), 6457, 6458(a), inserted ", poss
 
 Subsec. (d). Pub. L. 100–690, §6458(b), added subsec. (d).
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–570, §§1104(a), (b), 1105(c), 1841(b)(1), inserted "or section 856 of this title" and "or manufacturing", substituted "a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university" for "a public or private elementary or secondary school", struck out "involving the same controlled substanceand schedule" after "for a first offense", and inserted "Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a term of imprisonment under this subsection shall be not less than one year. The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana."
+<b>1986</b>—Subsec. (a). Pub. L. 99–570, §§1104(a), (b), 1105(c), 1841(b)(1), inserted "or section 856 of this title" and "or manufacturing", substituted "a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university" for "a public or private elementary or secondary school", struck out "involving the same controlled substance and schedule" after "for a first offense", and inserted "Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a term of imprisonment under this subsection shall be not less than one year. The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana."
 
 Pub. L. 99–570, §1004(a), substituted "term of supervised release" for "special parole term".
 
@@ -96,5 +96,5 @@ Subsec. (c). Pub. L. 99–570, §1866(c), substituted reference to chapter 311 o
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1004(a) of Pub. L. 99–570 effective on date of taking effect of section 3583 of Title 18, Crimes and Criminal Procedure (Nov. 1, 1987), see section 1004(b) of Pub. L. 99–570 set out as a note under section 841 of this title.
+Amendment by section 1004(a) of Pub. L. 99–570 effective on date of taking effect of section 3583 of Title 18,Crimes and Criminal Procedure (Nov. 1, 1987), see section 1004(b) of Pub. L. 99–570 set out as a note under section 841 of this title.
 

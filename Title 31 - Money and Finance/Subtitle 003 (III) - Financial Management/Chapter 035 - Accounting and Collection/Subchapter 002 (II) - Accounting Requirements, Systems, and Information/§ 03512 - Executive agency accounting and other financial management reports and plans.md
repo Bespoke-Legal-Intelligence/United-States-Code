@@ -42,7 +42,7 @@
 
 &emsp;(vii) identify financial management personnel needs and actions to ensure those needs are met;
 
-&emsp;(viii) include a plan for ensuring the annual audit of financial statements of executive agencies pursuant to section 3521(h) of this title; and
+&emsp;(viii) include a plan for ensuring the annual audit of financial statements of executiveagencies pursuant to section 3521(h) of this title; and
 
 &emsp;(ix) estimate the costs of implementing the governmentwide 5-year plan.
 
@@ -160,7 +160,7 @@ In subsections (c) and (d), the words "Comptroller General" are substituted for 
 
 In subsection (c), the text of 31:66a(b) is omitted as unnecessary. In clause (1), the words "the head of" are added for consistency with the revised title and other titles of the United States Code. In clause (2), the words "under section 3511 of this title" are substituted for "by him" in 31:66(b)(less Treasury Department) for clarity.
 
-In subsection (d), the word "concerned" is omitted as surplus. The word "President" is substituted for "Director of the Office of Management and Budget" because sections 101 and 102(a) of Reorganization Plan No.2 of 1970 redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
+In subsection (d), the word "concerned" is omitted as surplus. The word "President" is substituted for "Director of the Office of Management and Budget" because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
 1983
 
@@ -240,7 +240,7 @@ Subsecs. (d) to (f). Pub. L. 97–452 redesignated former subsecs. (b) to (d) as
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Short Title
 
@@ -368,7 +368,7 @@ Time period for compliance.—A remediation plan shall bring the agency's financ
 
 &emsp;&emsp;"(A) determines that the agency's financial management systems cannot comply with the requirements of subsection (a) within 3 years;
 
-&emsp;&emsp;"(B) specifies the most feasible date for bringing the agency's financial management systems intocompliance with the requirements of subsection (a); and
+&emsp;&emsp;"(B) specifies the most feasible date for bringing the agency's financial management systems into compliance with the requirements of subsection (a); and
 
 &emsp;&emsp;"(C) designates an official of the agency who shall be responsible for bringing the agency's financial management systems into compliance with the requirements of subsection (a) by the date specified under subparagraph (B).
 

@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;(viii) Services furnished to women who are receiving medical assistance by virtue of the application of sections 1396a(a)(10)(A)(ii)(XVIII) and 1396a(aa) of this title.
 
-&emsp;&emsp;&emsp;(ix) Services furnished to disabled children who are receiving medical assistance by virtue of the application of sections 1396a(a)(10)(A)(ii)(XIX) and 1396a(cc) of this title.
+&emsp;&emsp;&emsp;(ix) Services furnished to disabled children who are receiving medical assistanceby virtue of the application of sections 1396a(a)(10)(A)(ii)(XIX) and 1396a(cc) of this title.
 
 &emsp;&emsp;&emsp;(x) Items and services furnished to an Indian directly by the Indian Health Service, an Indian Tribe, Tribal Organization or Urban Indian Organization or through referral under contract health services.
 
@@ -99,6 +99,8 @@
 &emsp;&emsp;&emsp;(xii) During the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, a COVID–19 vaccine and the administration of such vaccine (for any individual eligible for medical assistance for such vaccine (and administration)).
 
 &emsp;&emsp;&emsp;(xiii) During the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan).
+
+&emsp;&emsp;&emsp;(xiv) Vaccines described in section 1396d(a)(13)(B) of this title and the administration of such vaccines.
 
 #### (C) Construction
 
@@ -204,7 +206,7 @@
 
 #### (C) Continued application of aggregate cap; relation to other cost sharing
 
-&emsp;&emsp;In addition to the limitations imposed under subparagraphs (A) and (B), any cost sharing under paragraph (1) is subject to the aggregate cap on cost sharing applied under subsection (a)(2)(B) or under paragraph (1) or (2) of subsection (b), as the case may be. Cost sharing imposed for services under this subsection shall be instead of any cost sharing that may be imposed for such services under subsection (a) or section 1396o of this title.
+&emsp;&emsp;In addition to the limitations imposed under subparagraphs (A) and (B), any cost sharing under paragraph (1) is subject to the aggregate cap on cost sharing applied under subsection (a)(2)(B) or under paragraph (1) or\(2) of subsection (b), as the case may be. Cost sharing imposed for services under this subsection shall be instead of any cost sharing that may be imposed for such services under subsection (a) or section 1396o of this title.
 
 #### (3) Construction
 
@@ -227,14 +229,6 @@
 &emsp;&emsp;The term "alternative non-emergency services provider" means, with respect to non-emergency services for the diagnosis or treatment of a condition, a health care provider, such as a physician's office, health care clinic, community health center, hospital outpatient department, or similar health care provider, that can provide clinically appropriate services for the diagnosis or treatment of a condition contemporaneously with the provision of the non-emergency services that would be provided in an emergency department of a hospital for the diagnosis or treatment of a condition, and that is participating in the program under this subchapter.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1916A, as added and amended Pub. L. 109–171, title VI, §§6041(a), 6042(a), 6043(a), Feb. 8, 2006, 120 Stat. 81, 85, 86; Pub. L. 109–432, div. B, title IV, §405(a)(1)–(5), Dec. 20, 2006, 120 Stat. 2996–2998; Pub. L. 111–5, div. B, title V, §5006(a)(2), Feb. 17, 2009, 123 Stat. 506; Pub. L. 111–148, title II, §2102(b), title IV, §4107(c)(2), Mar. 23, 2010, 124 Stat. 289, 561; Pub. L. 116–127, div. F, §6004(a)(2)(B), Mar. 18, 2020, 134 Stat. 205; Pub. L. 117–2, title IX, §9811(a)(3)(B), Mar. 11, 2021, 135 Stat. 210; Pub. L. 117–169, title I, §11405(a)(2)(B), Aug. 16, 2022, 136 Stat. 1900.)
-
-#### Amendment of Subsection (b)(3)(B)
-
-<i>Pub. L. 117–169, title I, §11405(a)(2)(B), (c), Aug. 16, 2022, 136 Stat. 1900, 1901, provided that, effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022, and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, subsection (b)(3)(B) of this section is amended by adding at the end the following new clause:</i>
-
-&emsp;&emsp;&emsp;<i>(xiv) Vaccines described in section 1396d(a)(13)(B) of this title and the administration of such vaccines.</i>
-
-<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -300,7 +294,7 @@ Subsec. (e)(4)(A). Pub. L. 109–432, §405(a)(5), struck out "the physician det
 
 #### Effective Date of 2022 Amendment
 
-Amendment by Pub. L. 117–169 effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022 and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, see section 11405(c) of Pub. L. 117–169, set out as a note under section 1396a of this title.
+Amendment by Pub. L. 117–169 effective on the 1st day of the 1st fiscal quarter that begins on or after thedate that is 1 year after Aug. 16, 2022 and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, see section 11405(c) of Pub. L. 117–169, set out as a note under section 1396a of this title.
 
 #### Effective Date of 2010 Amendment
 

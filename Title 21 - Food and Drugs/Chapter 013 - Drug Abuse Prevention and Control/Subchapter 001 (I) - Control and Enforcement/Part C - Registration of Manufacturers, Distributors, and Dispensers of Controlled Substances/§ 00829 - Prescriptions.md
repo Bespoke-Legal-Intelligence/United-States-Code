@@ -138,7 +138,7 @@ Materials Included.—In developing materials under subsection (a), the Secretar
 
 "(c)
 
-Stakeholder Input.—In developing the programs and materials required under subsection (a), the Secretary of Health and Human Services shall seekinput from relevant national, State, and local associations, boards of pharmacy, medical societies, licensing boards, health care practitioners, and patients, including individuals with chronic pain.
+Stakeholder Input.—In developing the programs and materials required under subsection (a), the Secretary of Health and Human Services shall seek input from relevant national, State, and local associations, boards of pharmacy, medical societies, licensing boards, health care practitioners, and patients, including individuals with chronic pain.
 
 "(d)
 

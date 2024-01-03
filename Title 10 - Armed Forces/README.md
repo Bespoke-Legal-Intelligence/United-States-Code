@@ -10,12 +10,15 @@
 | <b>C.</b> | <b>Navy and Marine Corps</b> | <b>8001</b> |
 | <b>D.</b> | <b>Air Force and Space Force</b> | <b>9011</b> |
 | <b>E.</b> | <b>Reserve Components</b> | <b>10001</b> |
+| <b>F.</b> | <b>Alternative Military Personnel Systems</b> | <b>20001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title XVII, §1711, Dec. 22, 2023, 137 Stat. 625, added item for subtitle F. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 116–283, div. A, title IX, §923(a)(2), Jan. 1, 2021, 134 Stat. 3807, substituted "Air Force and Space Force" for "Air Force" in item for subtitle D.
 
@@ -8669,7 +8672,7 @@ Pub. L. 103–337, div. A, title XVI, §1665, Oct. 5, 1994, 108 Stat. 3012, prov
 
 "(a)
 
-References to Transferred or Replaced Provisions.—A reference to a provision of title 10, United States Code, transferred or replaced by the provisions of sections 1661 through 1664 \[see Tables for classification\] (including a reference in a regulation, order, orother law) shall be treated as referring to that provision as transferred or to the corresponding provision as so enacted by this subtitle \[subtitle C (§§1661–1665) of title XVI of div. A of Pub. L. 103–337\].
+References to Transferred or Replaced Provisions.—A reference to a provision of title 10, UnitedStates Code, transferred or replaced by the provisions of sections 1661 through 1664 \[see Tables for classification\] (including a reference in a regulation, order, or other law) shall be treated as referring to that provision as transferred or to the corresponding provision as so enacted by this subtitle \[subtitle C (§§1661–1665) of title XVI of div. A of Pub. L. 103–337\].
 
 "(b)
 
@@ -8689,3 +8692,4 @@ General Savings Provision.—An action taken, or a right that matured, under a p
 - [Subtitle C - Navy and Marine Corps](Subtitle%20C%20-%20Navy%20and%20Marine%20Corps/README.md)
 - [Subtitle D - Air Force and Space Force](Subtitle%20D%20-%20Air%20Force%20and%20Space%20Force/README.md)
 - [Subtitle E - Reserve Components](Subtitle%20E%20-%20Reserve%20Components/README.md)
+- [Subtitle F - Alternative Military Personnel Systems](Subtitle%20F%20-%20Alternative%20Military%20Personnel%20Systems/README.md)

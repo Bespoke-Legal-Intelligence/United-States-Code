@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(ii) who—
 
-&emsp;&emsp;&emsp;&emsp;(I) is a spouse, parent, brother, sister, son, daughter, or other family memberof a principal alien described in clause (i); and
+&emsp;&emsp;&emsp;&emsp;(I) is a spouse, parent, brother, sister, son, daughter, or other family member of a principal alien described in clause (i); and
 
 &emsp;&emsp;&emsp;&emsp;(II) entered the United States accompanying, and with the same status as, such principal alien.
 

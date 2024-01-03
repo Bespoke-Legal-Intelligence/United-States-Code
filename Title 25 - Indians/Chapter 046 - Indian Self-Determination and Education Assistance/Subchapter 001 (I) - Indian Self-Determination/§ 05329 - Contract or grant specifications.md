@@ -110,7 +110,7 @@ Property.—
 
 &emsp;&emsp;"(A)
 
-In general.—As provided in section 105(f) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(f)),<sup>1</sup> at the request of the Contractor, the Secretary may make available, or transfer to the Contractor, all reasonably divisible real property, facilities, equipment, and personal property that the Secretary has used to provide or administer the programs, services, functions, and activities covered by this Contract. A mutually agreed upon list specifying the property, facilities, and equipment so furnished shall also be prepared by the Secretary, with the concurrence of the Contractor, and periodically revised by the Secretary, with the concurrence of the Contractor.
+In general.—As provided in section 105(f) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(f)),<sup>1</sup> at the request of the Contractor, the Secretary may make available, or transfer to the Contractor, all reasonably divisible real property, facilities, equipment, and personal property that the Secretary has used to provide or administer the programs, services,functions, and activities covered by this Contract. A mutually agreed upon list specifying the property, facilities, and equipment so furnished shall also be prepared by the Secretary, with the concurrence of the Contractor, and periodically revised by the Secretary, with the concurrence of the Contractor.
 
 &emsp;&emsp;"(B)
 
@@ -122,7 +122,7 @@ Joint use agreements.—Upon the request of the Contractor, the Secretary and th
 
 &emsp;&emsp;"(D)
 
-Acquisition of property.—The Contractor is granted the authority to acquire such excess property as the Contractor maydetermine to be appropriate in the judgment of the Contractor to support the programs, services, functions, and activities operated pursuant to this Contract.
+Acquisition of property.—The Contractor is granted the authority to acquire such excess property as the Contractor may determine to be appropriate in the judgment of the Contractor to support the programs, services, functions, and activities operated pursuant to this Contract.
 
 &emsp;&emsp;"(E)
 
@@ -300,7 +300,7 @@ Officials not to benefit.—No Member of Congress, or resident commissioner, sha
 
 &emsp;"(4)
 
-Covenant against contingent fees.—The parties warrant that no person or selling agency has been employed or retained to solicit or secure any contract executed pursuant to this Contract upon an agreement or understanding for a commission, percentage, brokerage, or contingent fee, excepting bona fide employees or bona fide established commercial or selling agencies maintained by the Contractor for the purpose of securing business.
+Covenant against contingent fees.—The parties warrant that no person or sellingagency has been employed or retained to solicit or secure any contract executed pursuant to this Contract upon an agreement or understanding for a commission, percentage, brokerage, or contingent fee, excepting bona fide employees or bona fide established commercial or selling agencies maintained by the Contractor for the purpose of securing business.
 
 "(f)
 
@@ -318,7 +318,7 @@ Annual funding agreement.—
 
 In general.—The annual funding agreement under this Contract shall only contain—
 
-&emsp;&emsp;&emsp;"(i) terms that identify the programs, services, functions, and activities to be performed or administered, the general budget category assigned, the funds to beprovided, and the time and method of payment; and
+&emsp;&emsp;&emsp;"(i) terms that identify the programs, services, functions, and activities to be performed or administered, the general budget category assigned, the funds to be provided, and the time and method of payment; and
 
 &emsp;&emsp;&emsp;"(ii) subject to subsections (a) and (b) of section 102 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5321), such other provisions, including a brief description of the programs, services, functions, and activities to be performed (including those supported by financial resources other than those provided by the Secretary), to which the parties agree.
 

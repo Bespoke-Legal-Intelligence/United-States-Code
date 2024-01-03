@@ -46,7 +46,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 &emsp;&emsp;&emsp;&emsp;(I) the outcome of the litigation may adversely affect the Administration's management of the loan program established under section 696 of this title; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the Administration is entitled to legal remedies not available to a qualified State or local development company and such remedies will benefit either theAdministration or the qualified State or local development company; or
+&emsp;&emsp;&emsp;&emsp;(II) the Administration is entitled to legal remedies not available to a qualified State or local development company and such remedies will benefit either the Administration or the qualified State or local development company; or
 
 &emsp;&emsp;&emsp;(ii) oversee the conduct of any such litigation; and
 
@@ -72,7 +72,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 #### (iii) Routine actions
 
-&emsp;&emsp;&emsp;In carrying out functions described in paragraph (1)(A), a qualified State or local development company may undertake routine actions not addressed in a liquidation plan without obtaining additional approval from the Administration.
+&emsp;&emsp;&emsp;In carrying out functions described in paragraph (1)(A), a qualified State or local development company may undertake routine actions not addressed in a liquidationplan without obtaining additional approval from the Administration.
 
 #### (B) Purchase of indebtedness
 

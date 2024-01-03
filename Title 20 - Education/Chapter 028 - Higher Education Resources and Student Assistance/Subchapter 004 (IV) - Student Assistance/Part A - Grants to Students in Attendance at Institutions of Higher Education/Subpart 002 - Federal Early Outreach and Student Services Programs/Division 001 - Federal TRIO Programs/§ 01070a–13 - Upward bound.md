@@ -102,7 +102,7 @@ Subsec. (e)(2). Pub. L. 110–315, §403(c)(5)(B), substituted "low-income indiv
 
 Subsec. (e)(5). Pub. L. 110–315, §403(c)(5)(C)–(E), added par. (5).
 
-Subsec. (f). Pub. L. 110–315, §403(c)(3), (6), redesignated subsec. (e) as (f) and substituted "during the summer school recess, for a period not to exceed three months" for "during June, July, and August" in two places, and "subsection (d)(5)" for "subsection (b)(10)". Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 110–315, §403(c)(3), (6), redesignated subsec. (e) as (f) and substituted "during the summer school recess, for a period not to exceed three months" for "during June, July, and August" in two places, and"subsection (d)(5)" for "subsection (b)(10)". Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 110–315, §403(c)(3), redesignated subsec. (f) as (g).
 

@@ -74,7 +74,7 @@ In this section:
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;For any metropolitan statistical area in the Commonwealth of Puerto Rico, the term "qualified census tract" has themeaning given that term in section 42(d)(5)(B)(ii) of title 26 as applied without regard to subclause (II) of such section and that is reflected in the online tool described under clause (i), except that this clause shall only apply—
+&emsp;&emsp;&emsp;For any metropolitan statistical area in the Commonwealth of Puerto Rico, the term "qualified census tract" has the meaning given that term in section 42(d)(5)(B)(ii) of title 26 as applied without regard to subclause (II) of such section and that is reflected in the online tool described under clause (i), except that this clause shall only apply—
 
 &emsp;&emsp;&emsp;&emsp;(I) 10 years after the date that the Administrator implements this clause, or
 
@@ -86,7 +86,7 @@ In this section:
 
 &emsp;&emsp;The term "qualified nonmetropolitan county" means any county that is reflected in the online tool described under subparagraph (A)(i) and—
 
-&emsp;&emsp;&emsp;(i) that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(B)(ii) of title 26; and
+&emsp;&emsp;&emsp;(i) that was not located in a metropolitan statistical area (as defined in section143(k)(2)(B) of title 26) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(B)(ii) of title 26; and
 
 &emsp;&emsp;&emsp;(ii) in which—
 
@@ -142,7 +142,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the term "qualified disaster area" means any census tract or nonmetropolitan county located in an area where a major disaster has occurred or an area in which a catastrophic incidenthas occurred if such census tract or nonmetropolitan county ceased to be qualified under subparagraph (A) or (B), as applicable, during the period beginning 5 years before the date on which the President declared the major disaster or the catastrophic incident occurred.
+&emsp;&emsp;&emsp;Subject to clause (ii), the term "qualified disaster area" means any census tract or nonmetropolitan county located in an area where a major disaster has occurred or an area in which a catastrophic incident has occurred if such census tract or nonmetropolitan county ceased to be qualified under subparagraph (A) or (B), as applicable, during the period beginning 5 years before the date on which the President declared the major disaster or the catastrophic incident occurred.
 
 #### (ii) Duration
 
@@ -234,7 +234,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) any lands that are located within a State in which a tribe did not exercise governmental jurisdiction on December 21, 2000, unless that tribe is recognized after December 21, 2000, by either an Act of Congress or pursuant to regulations of the Secretary of the Interior for the administrative recognition that an Indian group exists as an Indian tribe (part 83 of title 25, Code of Federal Regulations); and
 
-&emsp;&emsp;&emsp;&emsp;(II) lands taken into trust or acquired by an Indian tribe after December 21, 2000, if such lands are not located within the external boundaries of an Indian reservation or former reservation or are not contiguous to the lands held in trust or restricted status on December 21, 2000; and
+&emsp;&emsp;&emsp;&emsp;(II) lands taken into trust or acquired by an Indian tribe after December 21, 2000, if such lands are not located within the external boundaries of an Indian reservation or former reservation or are not contiguous to the lands held in trust orrestricted status on December 21, 2000; and
 
 &emsp;&emsp;&emsp;(ii) in the State of Oklahoma, means lands that—
 
@@ -298,7 +298,7 @@ In this section:
 
 #### (C) Procurement of commodities for international food aid export operations
 
-&emsp;&emsp;The price evaluation preference for purchases of agricultural commodities by the Secretary of Agriculture for export operations through international food aid programs administered by the Farm ServiceAgency shall be 5 percent on the first portion of a contract to be awarded that is not greater than 20 percent of the total volume of each commodity being procured in a single invitation.
+&emsp;&emsp;The price evaluation preference for purchases of agricultural commodities by the Secretary of Agriculture for export operations through international food aid programs administered by the Farm Service Agency shall be 5 percent on the first portion of a contract to be awarded that is not greater than 20 percent of the total volume of each commodity being procured in a single invitation.
 
 #### (D) Treatment of preference
 
@@ -376,7 +376,7 @@ In this section:
 
 #### (9) Provision of data
 
-&emsp;Upon the request of the Administrator, the Secretary of Labor, the Administrator of the Federal Emergency Management Agency, the Secretary of Housing and Urban Development, and the Secretary of the Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
+&emsp;Upon the request of the Administrator, the Secretary of Labor, the Administrator of the Federal Emergency Management Agency, the Secretary of Housing and Urban Development, and the Secretary of the Interior (or the Assistant Secretary for Indian Affairs), shallpromptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
 
 #### (10) Penalties
 
@@ -411,6 +411,10 @@ There is authorized to be appropriated to carry out the program established by t
 #### References in Text
 
 Section 636(m)(11) of this title, referred to in subsec. (a), no longer defines the term "economically distressed areas". See 1994 Amendment note for subsec. (m)(11)(D) under section 636 of this title.
+
+The Community Economic Development Act of 1981, referred to in subsec. (b)(2)(E)(i), is subchapter A (§§611–633) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 489. Part 1 of subchapter A of the Act is classified generally to part A (§9805 et seq.) of subchapter I of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+
+The Puerto Rico Oversight, Management, and Economic Stability Act, referred to in subsec. (b)(3)(A)(ii)(II), is Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to chapter 20 (§2101 et seq.) of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 48 and Tables.
 
 #### Codification
 
@@ -526,11 +530,11 @@ Section effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a
 
 #### Initial Limited Applicability
 
-Pub. L. 105–135, title VI, §602(b)(2), Dec. 2, 1997, 111 Stat. 2631, as amended by Pub. L. 106–113, div. B,§1000(a)(5) \[title II, §212\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, limited the applicability of 15 U.S.C. 657a to certain procurements beginning on Dec. 2, 1997, and ending on Sept. 30, 2000.
+Pub. L. 105–135, title VI, §602(b)(2), Dec. 2, 1997, 111 Stat. 2631, as amended by Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §212\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, limited the applicability of 15 U.S.C. 657a to certain procurements beginning on Dec. 2, 1997, and ending on Sept. 30, 2000.
 
 #### Construction of 2017 Amendment
 
-Pub. L. 115–91, div. A, title XVII, §1701(i), Dec. 12, 2017, 131 Stat. 1803, provided that: "A HUBZone small business concern that was qualified pursuant to section 3(p)(5) of the Small Business Act \[formerly 15 U.S.C. 632(p)(5), now 15 U.S.C. 657a(b)(4)\] on or before December 31, 2019, shall continue to be considered as a qualified HUBZone small business concern during the period beginning on January 1, 2020, and ending on the date that the Administrator of the Small Business Administration prepares the online tool depicting qualified areas described under section 31(d)(7) \[15 U.S.C. 657a(d)(7)\] (as added by subsection (h) of this section)."
+Pub. L. 115–91, div. A, title XVII, §1701(i), Dec. 12, 2017, 131 Stat. 1803, provided that: "A HUBZone smallbusiness concern that was qualified pursuant to section 3(p)(5) of the Small Business Act \[formerly 15 U.S.C. 632(p)(5), now 15 U.S.C. 657a(b)(4)\] on or before December 31, 2019, shall continue to be considered as a qualified HUBZone small business concern during the period beginning on January 1, 2020, and ending on the date that the Administrator of the Small Business Administration prepares the online tool depicting qualified areas described under section 31(d)(7) \[15 U.S.C. 657a(d)(7)\] (as added by subsection (h) of this section)."
 
 #### Report
 

@@ -138,7 +138,7 @@ Any establishment within Canada engaged in the distribution of a prescription dr
 
 #### (g) Suspension of importation
 
-The Secretary shall require that importations of a specific prescription drug or importations by a specific importer under subsection (b) be immediately suspended on discovery of a pattern of importation of that specific prescription drug or by that specific importer of drugs that are counterfeit or in violation of any requirement under this section, until an investigationis completed and the Secretary determines that the public is adequately protected from counterfeit and violative prescription drugs being imported under subsection (b).
+The Secretary shall require that importations of a specific prescription drug or importations by a specific importer under subsection (b) be immediately suspended on discovery of a pattern of importation of that specific prescription drug or by that specific importer of drugs that are counterfeit or in violation of any requirement under this section, until an investigation is completed and the Secretary determines that the public is adequately protected from counterfeit and violative prescription drugs being imported under subsection (b).
 
 #### (h) Approved labeling
 
@@ -222,7 +222,7 @@ Nothing in this section limits the authority of the Secretary relating to the im
 
 &emsp;&emsp;&emsp;(bb) if the Secretary determines that any measures described in item (aa) would require additional statutory authority, submits to Congress a report describing the legislation that would be required;
 
-&emsp;&emsp;&emsp;(ii) identifies specifically, in qualitative and quantitative terms, the benefits that would result from implementation of this section (including the benefit of reductionsin the cost of covered products to consumers in the United States, allowing consumers to procure needed medication that consumers might not otherwise be able to procure without foregoing other necessities of life); and
+&emsp;&emsp;&emsp;(ii) identifies specifically, in qualitative and quantitative terms, the benefits that would result from implementation of this section (including the benefit of reductions in the cost of covered products to consumers in the United States, allowing consumers to procure needed medication that consumers might not otherwise be able to procure without foregoing other necessities of life); and
 
 &emsp;&emsp;&emsp;(iii)(I) compares in specific terms the detriment identified under clause (i) with the benefits identified under clause (ii); and
 
@@ -268,7 +268,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Purpose</i>. Americans spend more per capita on pharmaceutical drugs than residents of any other developed country. Americans often pay more for the exact same drugs, even when they are produced and shipped from the exact same facilities.
 
-One way to minimize international disparities in price is to increase the trade of prescription drugs between nations with lower prices and those with persistently higher ones. Over time, reducing trade barriers and increasing the exchange of drugs will likely result in lower prices for the country that is paying more for drugs. For example, in the European Union, a market characterized by price controls and significant barriers to entry, the parallel trade of drugs has existed for decades and has been estimated to reduce the price of certain drugs by up to 20 percent. Accordingly, my Administration supports the goal of safe importation of prescription drugs.
+One way to minimize international disparities in price is to increase the trade of prescription drugs between nations with lower prices and those with persistently higher ones. Over time, reducing trade barriers and increasing the exchange of drugs will likely result in lower prices for the country that is paying more for drugs. For example, in the European Union, a marketcharacterized by price controls and significant barriers to entry, the parallel trade of drugs has existed for decades and has been estimated to reduce the price of certain drugs by up to 20 percent. Accordingly, my Administration supports the goal of safe importation of prescription drugs.
 
 Sec. 2. <i>Permitting the Importation of Safe Prescription Drugs from Other Countries</i>. The Secretary of Health and Human Services shall, as appropriate and consistent with applicable law, take action to expand safe access to lower-cost imported prescription drugs by:
 

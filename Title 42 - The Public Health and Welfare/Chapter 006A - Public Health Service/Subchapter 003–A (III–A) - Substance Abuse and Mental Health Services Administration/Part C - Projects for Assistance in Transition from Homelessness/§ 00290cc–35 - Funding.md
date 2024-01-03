@@ -26,7 +26,7 @@ A prior section 290cc–36, act July 1, 1944, ch. 373, title V, §536, as added 
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–328 substituted "2023 through 2027" for "2018 through 2022".
 
-<b>2016</b>—Subsec. (a). Pub. L. 114–255 substituted "$64,635,000 for each of fiscal years 2018 through 2022" for "$75,000,000 for each of the fiscal years 2001 through 2003".
+<b>2016</b>—Subsec. (a). Pub. L. 114–255 substituted "$64,635,000 for each of fiscal years 2018 through 2022"for "$75,000,000 for each of the fiscal years 2001 through 2003".
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–310 substituted "fiscal years 2001 through 2003" for "fiscal years 1991 through 1994".
 

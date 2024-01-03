@@ -82,7 +82,7 @@ Subsec. (h). Pub. L. 92–191 added subsec. (h).
 
 Second par. Pub. L. 91–375, §6(j)(25)(A), substituted "Postal Service" and "it shall prescribe" for "Postmaster General" and "he shall prescribe".
 
-Third par. Pub. L. 91–375, §6(j)(25)(A), substituted "Postal Service" for "Postmaster General" in twoplaces, "prescribed by it" for "prescribed by him", "antivenom" for "antivenin", "necessary or desirable" for "necessary or advisable", and "Postal Service personnel" for "Post Office Department personnel".
+Third par. Pub. L. 91–375, §6(j)(25)(A), substituted "Postal Service" for "Postmaster General" in two places, "prescribed by it" for "prescribed by him", "antivenom" for "antivenin", "necessary or desirable" for "necessary or advisable", and "Postal Service personnel" for "Post Office Department personnel".
 
 Fourth par. Pub. L. 91–375, §6(j)(25)(A), substituted "Postal Service" and "it shall prescribe" for "Postmaster General" and "he shall prescribe", respectively, and struck out the comma after "veterinarians".
 

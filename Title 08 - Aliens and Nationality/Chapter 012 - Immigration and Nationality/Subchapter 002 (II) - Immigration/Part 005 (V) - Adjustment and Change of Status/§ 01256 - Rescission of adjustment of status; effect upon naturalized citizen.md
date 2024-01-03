@@ -24,7 +24,7 @@ Pub. L. 104–208, §308(e)(1)(H), substituted "removal" for "deportation".
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(e)(1)(H) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(e)(1)(H) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Pub. L. 104–208, div. C, title III, §378(b), Sept. 30, 1996, 110 Stat. 3009–649, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the title III–A effective date (as defined in section 309(a) of this division \[set out as a note under section 1101 of this title\])."
 

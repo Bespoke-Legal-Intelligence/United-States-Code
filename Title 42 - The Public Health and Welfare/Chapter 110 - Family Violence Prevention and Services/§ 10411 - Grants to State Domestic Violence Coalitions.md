@@ -8,7 +8,7 @@ The Secretary shall award grants for the funding of State Domestic Violence Coal
 
 #### (1) In general
 
-&emsp;From the amount appropriated under section 10403(a)(2)(D) of this title for each fiscal year, the Secretary shall allot to each of the50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each of the covered territories an amount equal to 1/56 of the amount so appropriated for such fiscal year.
+&emsp;From the amount appropriated under section 10403(a)(2)(D) of this title for each fiscal year, the Secretary shall allot to each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each of the covered territories an amount equal to 1/56 of the amount so appropriated for such fiscal year.
 
 #### (2) Definition
 
@@ -16,7 +16,7 @@ The Secretary shall award grants for the funding of State Domestic Violence Coal
 
 #### (c) Application
 
-Each State Domestic Violence Coalition desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary determines to be essential to carry out the objectives of this section. The application submitted by the coalition for the grant shall provide documentation of the coalition's work, satisfactory to the Secretary, demonstrating that the coalition—
+Each State Domestic Violence Coalition desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary determines to be essential tocarry out the objectives of this section. The application submitted by the coalition for the grant shall provide documentation of the coalition's work, satisfactory to the Secretary, demonstrating that the coalition—
 
 &emsp;(1) meets all of the applicable requirements set forth in this chapter; and
 
@@ -68,7 +68,7 @@ No funds made available to entities under this section shall be used, directly o
 
 #### (g) Reports and evaluation
 
-Each entity receiving a grant under this section shall submit a performance report to theSecretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.
+Each entity receiving a grant under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.
 
 #### (h) Indian representatives
 
@@ -80,7 +80,7 @@ For purposes of this section, a State Domestic Violence Coalition may include re
 
 #### References in Text
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (e), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Section 2001 of the Act was classified to section 3796gg of this title, prior to editorial reclassification and renumbering as section 10441 of Title 34, Crime Control and Law Enforcement. Part T of title I of the Act was classified generally to subchapter XII–H (§3796gg et seq.) of chapter 46 of this title, prior to editorial reclassification and renumbering as subchapter XIX (§10441 et seq.) of chapter 101 of Title 34. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of Title 34 and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (e), is Pub. L. 90–351, June 19,1968, 82 Stat. 197. Section 2001 of the Act was classified to section 3796gg of this title, prior to editorial reclassification and renumbering as section 10441 of Title 34, Crime Control and Law Enforcement. Part T of title I of the Act was classified generally to subchapter XII–H (§3796gg et seq.) of chapter 46 of this title, prior to editorial reclassification and renumbering as subchapter XIX (§10441 et seq.) of chapter 101 of Title 34. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of Title 34 and Tables.
 
 #### Prior Provisions
 

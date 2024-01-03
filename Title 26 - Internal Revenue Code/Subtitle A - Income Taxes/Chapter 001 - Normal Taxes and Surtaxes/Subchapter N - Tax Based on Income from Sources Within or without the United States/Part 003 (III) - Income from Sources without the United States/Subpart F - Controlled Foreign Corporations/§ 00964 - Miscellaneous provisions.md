@@ -102,7 +102,7 @@ Subsec. (e)(4). Pub. L. 115–97, §14102(c)(1), added par. (4).
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–34 substituted "section 312(k)(4)" for "section 312(k)(3)".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1065(b), 1901(b)(32)(B)(ii), 1906(b)(13)(A), struck out "or his delegate" after "Secretary", inserted second sentence, andsubstituted "312(k)(3)" for "312(m)(3)" after "provided in section".
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1065(b), 1901(b)(32)(B)(ii), 1906(b)(13)(A), struck out "or his delegate" after "Secretary", inserted second sentence, and substituted "312(k)(3)" for "312(m)(3)" after "provided in section".
 
 Subsecs. (b), (c)(1), (2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" whenever appearing.
 

@@ -44,7 +44,7 @@ Notwithstanding subsection (a) or (b), an exempted operational file shall contin
 
 (2) The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
 
-(3) A complainant that alleges that the Director of National Intelligence has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court's review shall be limited to determining the following:
+(3) A complainant that alleges that the Director of National Intelligence has improperlywithheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court's review shall be limited to determining the following:
 
 &emsp;(A) Whether the Director has conducted the review required by paragraph (1) before the expiration of the 10-year period beginning on October 7, 2010, or before the expiration of the 10-year period beginning on the date of the most recent review.
 
@@ -70,7 +70,7 @@ The provisions of this section may not be superseded except by a provision of la
 
 &emsp;(D) In proceedings under subparagraph (C), a party may not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admissions may be made pursuant to rules 26 and 36 of the Federal Rules of Civil Procedure.
 
-&emsp;(E) If the court finds under this subsection that the Office has improperly withheld requested records because of failure to comply with any provision of this section, the court shall order the Office to search and review each appropriate exempted file for the requested records and make such records, or portions thereof, available in accordance with theprovisions of section 552 of title 5 (commonly referred to as the Freedom of Information Act), and such order shall be the exclusive remedy for failure to comply with this section.
+&emsp;(E) If the court finds under this subsection that the Office has improperly withheld requested records because of failure to comply with any provision of this section, the court shall order the Office to search and review each appropriate exempted file for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 (commonly referred to as the Freedom of Information Act), and such order shall be the exclusive remedy for failure to comply with this section.
 
 &emsp;(F) If at any time following the filing of a complaint pursuant to this paragraph the Office agrees to search each appropriate exempted file for the requested records, the court shall dismiss the claim based upon such complaint.
 

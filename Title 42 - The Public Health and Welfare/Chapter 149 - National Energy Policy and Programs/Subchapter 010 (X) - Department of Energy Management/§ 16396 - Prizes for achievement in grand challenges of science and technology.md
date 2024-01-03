@@ -18,7 +18,7 @@ The program under subsection (a) may be carried out in conjunction with or in ad
 
 #### (e) Coordination
 
-In carrying out subsection (a), and for any prize competitions under section 105 of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, the Secretary shall—
+In carrying out subsection (a), and for any prize competitions under section 105 of theAmerica Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, the Secretary shall—
 
 &emsp;(1) issue Department-wide guidance on the design, development, and implementation of prize competitions;
 
@@ -60,7 +60,7 @@ There are authorized to be appropriated—
 
 &emsp;&emsp;&emsp;(i) advertising prize competitions under this subsection and their results;
 
-&emsp;&emsp;&emsp;(ii) raising funds from private entities and individuals to pay for administrative costs and to contribute to cash prizes, including funds provided in exchange for theright to name a prize awarded under this subsection;
+&emsp;&emsp;&emsp;(ii) raising funds from private entities and individuals to pay for administrative costs and to contribute to cash prizes, including funds provided in exchange for the right to name a prize awarded under this subsection;
 
 &emsp;&emsp;&emsp;(iii) developing, in consultation with and subject to the final approval of the Secretary, the criteria for selecting winners in prize competitions under this subsection, based on goals provided by the Secretary;
 
@@ -118,7 +118,7 @@ There are authorized to be appropriated—
 
 #### (iii) Transformational technologies
 
-&emsp;&emsp;&emsp;To the extent permitted under paragraph (1)(E), the Secretary shall announce one prize competition authorized under subparagraph (A)(iii) as soon after December 19, 2007, as is practicable. A prize offered under this clause shall be not less than $10,000,000, paid to the winner in a lump sum, and an additional amount paid to thewinner as a match for each dollar of private funding raised by the winner for the hydrogen technology beginning on the date the winner was named. The match shall be provided for 3 years after the date the prize winner is named or until the full amount of the prize has been paid out, whichever occurs first. A prize winner may elect to have the match amount paid to another entity that is continuing the development of the winning technology. The Secretary shall announce the rules for receiving the match in the notice required by paragraph (1)(B)(ii). The Secretary shall award a prize under this clause only when a registered participant has met the objective criteria established for the prize pursuant to subparagraph (C) and announced pursuant to paragraph (1)(B)(ii). Not more than $10,000,000 in Federal funds may be used for the prize award under this clause. The administering entity shall seek to raise $40,000,000 toward the matching award under this clause.
+&emsp;&emsp;&emsp;To the extent permitted under paragraph (1)(E), the Secretary shall announce one prize competition authorized under subparagraph (A)(iii) as soon after December 19, 2007, as is practicable. A prize offered under this clause shall be not less than $10,000,000, paid to the winner in a lump sum, and an additional amount paid to the winner as a match for each dollar of private funding raised by the winner for the hydrogen technology beginning on the date the winner was named. The match shall be provided for 3 years after the date the prize winner is named or until the full amount of the prize has been paid out, whichever occurs first. A prize winner may elect to have the match amount paid to another entity that is continuing the development of the winning technology. The Secretary shall announce the rules for receiving the match in the notice required by paragraph (1)(B)(ii). The Secretary shall award a prize under this clause only when a registered participant has met the objective criteria established for the prize pursuant to subparagraph (C) and announced pursuant to paragraph (1)(B)(ii). Not more than $10,000,000 in Federal funds may be used for the prize award under this clause. The administering entity shall seek to raise $40,000,000 toward the matching award under this clause.
 
 #### (C) Criteria
 
@@ -142,7 +142,7 @@ There are authorized to be appropriated—
 
 &emsp;To be eligible to win a prize under this subsection, an individual or entity—
 
-&emsp;&emsp;(A) shall have complied with all the requirements in accordance with the Federal Register notice required under paragraph (1)(B)(ii);
+&emsp;&emsp;(A) shall have complied with all the requirements in accordance with the FederalRegister notice required under paragraph (1)(B)(ii);
 
 &emsp;&emsp;(B) in the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen of, or an alien lawfully admitted for permanent residence in, the United States; and
 

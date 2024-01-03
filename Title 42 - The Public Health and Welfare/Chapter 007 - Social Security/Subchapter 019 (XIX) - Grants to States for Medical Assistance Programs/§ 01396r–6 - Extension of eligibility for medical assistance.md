@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this subchapter but subject to subparagraph (B) and paragraph (5), each State plan approved under this subchapter must provide that each family which was receiving aid pursuant to a plan of the State approved under part A of subchapter IV in at least 3 of the 6 months immediately preceding the month in which such family becomes ineligible for such aid, because of hours of, or income from, employment of the caretaker relative (as defined in subsection (e)) or because of section 602(a)(8)(B)(ii)(II) <sup>1</sup> of this title (providing for a time-limited earned income disregard), shall, subject to paragraph (3) and without any reapplication for benefits under the plan, remain eligible for assistance under the plan approved under this subchapter during the immediately succeeding 6-month period in accordance with this subsection.
+&emsp;&emsp;Notwithstanding any other provision of this subchapter but subject to subparagraph (B) and paragraph (5), each State plan approved under this subchapter must provide that each family which was receiving aid pursuant to a plan of the State approved under part A of subchapter IV in at least 3 ofthe 6 months immediately preceding the month in which such family becomes ineligible for such aid, because of hours of, or income from, employment of the caretaker relative (as defined in subsection (e)) or because of section 602(a)(8)(B)(ii)(II) <sup>1</sup> of this title (providing for a time-limited earned income disregard), shall, subject to paragraph (3) and without any reapplication for benefits under the plan, remain eligible for assistance under the plan approved under this subchapter during the immediately succeeding 6-month period in accordance with this subsection.
 
 #### (B) State option to waive requirement for 3 months before receipt of medical assistance
 
@@ -162,7 +162,7 @@
 
 #### (iii) Enrollment in State uninsured plan
 
-&emsp;&emsp;&emsp;Enrollment of the caretaker relative and dependent children in a basic State health plan offered by the State to individuals in the State (or areas of the State) otherwiseunable to obtain health insurance coverage.
+&emsp;&emsp;&emsp;Enrollment of the caretaker relative and dependent children in a basic State health plan offered by the State to individuals in the State (or areas of the State) otherwise unable to obtain health insurance coverage.
 
 #### (iv) Enrollment in medicaid managed care organization
 
@@ -244,7 +244,7 @@ In this section, the term "caretaker relative" has the meaning of such term as u
 
 #### (2) Annual reports to Congress
 
-&emsp;Using the information submitted under paragraph (1), the Secretary shall submit to Congress annual reports concerning enrollment and participation rates described in such paragraph.
+&emsp;Using the information submitted under paragraph (1), the Secretary shall submit toCongress annual reports concerning enrollment and participation rates described in such paragraph.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §707(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577; Pub. L. 108–40, §7(a), June 30, 2003, 117 Stat. 837; Pub. L. 111–5, div. B, title V, §5004(a)(1), (b)–(d), Feb. 17, 2009, 123 Stat. 503, 504; Pub. L. 111–309, title I, §111, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–78, title III, §311, Dec. 23, 2011, 125 Stat. 1286; Pub. L. 112–96, title III, §3102, Feb. 22, 2012, 126 Stat. 191; Pub. L. 112–240, title VI, §622, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1202, Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §202, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §212(a), Apr. 16, 2015, 129 Stat. 152.)
 
@@ -310,7 +310,7 @@ Subsec. (b)(2)(B)(i). Pub. L. 101–508, §4716(a)(1), which directed amendment 
 
 Subsec. (b)(2)(B)(iii). Pub. L. 101–508, §4716(a)(2), which directed amendment of subsection (f) of this section in subsection (b)(2)(B) by adding cl. (iii) at the end, was executed by adding cl. (iii) at the end of subsec. (b)(2)(B) to reflect the probable intent of Congress.
 
-Subsec. (b)(3)(B). Pub. L. 101–508, §4716(a)(3), which directed amendment of subsection (f) of this section insubsection (b)(3)(B) by inserting at the end "No such termination shall be effective earlier than 10 days after the date of mailing of such notice.", was executed by making the insertion at the end of subsec. (b)(3)(B) to reflect the probable intent of Congress.
+Subsec. (b)(3)(B). Pub. L. 101–508, §4716(a)(3), which directed amendment of subsection (f) of this section in subsection (b)(3)(B) by inserting at the end "No such termination shall be effective earlier than 10 days after the date of mailing of such notice.", was executed by making the insertion at the end of subsec. (b)(3)(B) to reflect the probable intent of Congress.
 
 Subsec. (b)(3)(C)(i). Pub. L. 101–508, §4601(a)(3)(B), inserted "(i)(VII)," after "(i)(VI)".
 

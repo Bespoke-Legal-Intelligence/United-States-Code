@@ -40,7 +40,7 @@ This section amends section 8113(b) of title 5, United States Code, to conform t
 
 #### Amendments
 
-<b>1974</b>—Subsecs. (b), (c). Pub. L. 93–416 struck out subsec. (b) which authorized the Secretary to prospectively recompute compensation because of decreasedwage earning power after age 70, aside from injury, and redesignated subsec. (c) as (b).
+<b>1974</b>—Subsecs. (b), (c). Pub. L. 93–416 struck out subsec. (b) which authorized the Secretary to prospectively recompute compensation because of decreased wage earning power after age 70, aside from injury, and redesignated subsec. (c) as (b).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

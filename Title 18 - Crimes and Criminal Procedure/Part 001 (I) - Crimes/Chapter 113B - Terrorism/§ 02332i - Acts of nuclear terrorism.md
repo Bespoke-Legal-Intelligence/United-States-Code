@@ -40,7 +40,7 @@ Jurisdiction.—Conduct prohibited by subsection (a) is within the jurisdiction 
 
 &emsp;(2) the prohibited conduct takes place outside of the United States and—
 
-&emsp;&emsp;(A) is committed by a national of the United States, a United States corporation or legal entity or a stateless person whose habitual residence is in the United States;
+&emsp;&emsp;(A) is committed by a national of the United States, a United States corporationor legal entity or a stateless person whose habitual residence is in the United States;
 
 &emsp;&emsp;(B) is committed on board a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in section 70502 of title 46) or on board an aircraft that is registered under United States law, at the time the offense is committed; or
 

@@ -6,7 +6,7 @@ General Requirements.—(1) To the extent provided in advance in an appropriatio
 
 &emsp;(A) is more than the amount of insurance or demonstration of financial responsibility required under section 50914(a)(1)(A) of this title; and
 
-&emsp;(B) is not more than $1,500,000,000 (plus additional amounts necessary to reflect inflationoccurring after January 1, 1989) above that insurance or financial responsibility amount.
+&emsp;(B) is not more than $1,500,000,000 (plus additional amounts necessary to reflect inflation occurring after January 1, 1989) above that insurance or financial responsibility amount.
 
 (2) The Secretary may not provide for paying a part of a claim for which death, bodily injury, or property damage or loss results from willful misconduct by the licensee or transferee. To the extent insurance required under section 50914(a)(1)(A) of this title is not available to cover a successful third party liability claim because of an insurance policy exclusion the Secretary decides is usual for the type of insurance involved, the Secretary may provide for paying the excluded claims without regard to the limitation contained in section 50914(a)(1).
 
@@ -194,7 +194,7 @@ This amends 49:70113(e)(6)(D) to correct an error in the codification enacted by
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(1). Pub. L. 114–90, §103(a)(2)(A), in introductory provisions, substituted "a person described in paragraph (3)(A)" for "a licensee or transferee under this chapter, a contractor, subcontractor, or customer of the licensee or transferee, or a contractor or subcontractor of a customer, but not against a space flight participant,".
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–90, §103(a)(2)(A), in introductory provisions, substituted "a person described in paragraph (3)(A)" for "a licensee or transferee underthis chapter, a contractor, subcontractor, or customer of the licensee or transferee, or a contractor or subcontractor of a customer, but not against a space flight participant,".
 
 Subsec. (a)(3). Pub. L. 114–90, §103(a)(2)(B), added par. (3).
 

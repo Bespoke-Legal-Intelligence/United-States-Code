@@ -62,7 +62,7 @@
 
 #### (1) General rule
 
-&emsp;Except as provided in paragraph (2), the aggregate amount of the deductions allowed by section 243(a)(1), subsection <sup>2</sup> (a) and <sup>2</sup> (b) of section 245, and section 250 shall not exceed the percentage determined under paragraph (3) of the taxable income computed without regard to the deductions allowed by sections 172, 199A, 243(a)(1), subsection <sup>2</sup> (a) and <sup>2</sup> (b) of section 245, and 250, without regard to any adjustment under section 1059, and without regard to any capital loss carryback to the taxable year under section 1212(a)(1).
+&emsp;Except as provided in paragraph (2), the aggregate amount of the deductions allowed bysection 243(a)(1), subsection <sup>2</sup> (a) and <sup>2</sup> (b) of section 245, and section 250 shall not exceed the percentage determined under paragraph (3) of the taxable income computed without regard to the deductions allowed by sections 172, 199A, 243(a)(1), subsection <sup>2</sup> (a) and <sup>2</sup> (b) of section 245, and 250, without regard to any adjustment under section 1059, and without regard to any capital loss carryback to the taxable year under section 1212(a)(1).
 
 #### (2) Effect of net operating loss
 
@@ -130,7 +130,7 @@
 
 #### (B) Status must be maintained during holding period
 
-&emsp;&emsp;For purposes of applying paragraph (1) with respect to section 245A, the taxpayershall be treated as holding the stock referred to in paragraph (1) for any period only if—
+&emsp;&emsp;For purposes of applying paragraph (1) with respect to section 245A, the taxpayer shall be treated as holding the stock referred to in paragraph (1) for any period only if—
 
 &emsp;&emsp;&emsp;(i) the specified 10-percent owned foreign corporation referred to in section 245A(a) is a specified 10-percent owned foreign corporation at all times during such period, and
 
@@ -140,7 +140,7 @@
 
 No deduction shall be allowed under section 243 in respect of a dividend from a corporation which is a DISC or former DISC (as defined in section 992(a)) to the extent such dividend is paid out of the corporation's accumulated DISC income or previously taxed income, or is a deemed distribution pursuant to section 995(b)(1).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 74; Pub. L. 85–866, title I, §§18(a), 57(c)(2), Sept. 2, 1958, 72 Stat. 1614, 1646; Pub. L. 88–272, title II, §214(b)(2), Feb. 26, 1964, 78 Stat. 55; Pub. L. 91–172, title IV, §434(b)(1), title V, §512(f)(3), Dec. 30, 1969, 83 Stat. 625, 641; Pub. L. 92–178, title V, §502(a), Dec. 10, 1971, 85 Stat. 549; Pub. L. 94–455, title X, §1051(f)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1646, 1834; Pub. L. 97–248, title II, §213(c), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A, title I, §§53(b), (d)(2), 177(b), title VIII, §801(b)(2)(A), July 18, 1984, 98 Stat. 567, 568, 709, 995; Pub. L. 99–514, title VI, §611(a)(3), title XII, §1275(a)(2)(B), title XVIII, §§1804(b)(1)(A), (B), 1812(d)(1), Oct. 22, 1986, 100 Stat. 2249, 2598, 2798, 2835; Pub. L. 100–203, title X, §10221(c)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1018(u)(10), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 104–188, title I, §1616(b)(4), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title X, §1015(a), (b), Aug. 5, 1997, 111 Stat. 921, 922; Pub. L. 108–311, title IV, §406(f), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title I, §102(d)(4), title VIII, §888(d), Oct. 22, 2004, 118 Stat. 1429, 1643; Pub. L. 109–135, title IV, §402(a)(4), Dec. 21, 2005, 119 Stat. 2610; Pub. L. 113–295, div. A, title II, §221(a)(41)(E), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 115–97, title I, §§11011(d)(2), 13002(c), 13305(b)(1), 14101(b), (c)(1), 14202(b)(2), Dec. 22, 2017, 131 Stat. 2071, 2100, 2126, 2191, 2216; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(vi), Mar. 23, 2018, 132 Stat. 1207.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 74; Pub. L. 85–866, title I, §§18(a), 57(c)(2), Sept. 2, 1958, 72 Stat. 1614, 1646; Pub. L. 88–272, title II, §214(b)(2), Feb. 26, 1964, 78 Stat. 55; Pub. L. 91–172, title IV, §434(b)(1), title V, §512(f)(3), Dec. 30, 1969, 83 Stat. 625, 641; Pub. L. 92–178, title V, §502(a), Dec. 10,1971, 85 Stat. 549; Pub. L. 94–455, title X, §1051(f)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1646, 1834; Pub. L. 97–248, title II, §213(c), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A, title I, §§53(b), (d)(2), 177(b), title VIII, §801(b)(2)(A), July 18, 1984, 98 Stat. 567, 568, 709, 995; Pub. L. 99–514, title VI, §611(a)(3), title XII, §1275(a)(2)(B), title XVIII, §§1804(b)(1)(A), (B), 1812(d)(1), Oct. 22, 1986, 100 Stat. 2249, 2598, 2798, 2835; Pub. L. 100–203, title X, §10221(c)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1018(u)(10), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 104–188, title I, §1616(b)(4), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title X, §1015(a), (b), Aug. 5, 1997, 111 Stat. 921, 922; Pub. L. 108–311, title IV, §406(f), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title I, §102(d)(4), title VIII, §888(d), Oct. 22, 2004, 118 Stat. 1429, 1643; Pub. L. 109–135, title IV, §402(a)(4), Dec. 21, 2005, 119 Stat. 2610; Pub. L. 113–295, div. A, title II, §221(a)(41)(E), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 115–97, title I, §§11011(d)(2), 13002(c), 13305(b)(1), 14101(b), (c)(1), 14202(b)(2), Dec. 22, 2017, 131 Stat. 2071, 2100, 2126, 2191, 2216; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(vi), Mar. 23, 2018, 132 Stat. 1207.)
 
 #### <b>Editorial Notes</b>
 
@@ -298,7 +298,7 @@ Transitional rule.—The amendments made by this section shall not apply to divi
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) ofPub. L. 104–188, set out as a note under section 593 of this title.
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1988 Amendment
 

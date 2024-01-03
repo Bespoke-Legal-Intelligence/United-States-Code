@@ -62,7 +62,7 @@
 
 &emsp;(i) The amount of any special pay payable under section 310 or 351 of title 37, relating to duty subject to hostile fire or imminent danger.
 
-&emsp;(ii) The amount of basic allowance payable under section 403 of such title, including any such amount that is provided on behalf of the member for housing that is acquired or constructed under the alternative authority for the acquisition and improvement of militaryhousing under subchapter IV of chapter 169 of title 10 or any other related provision of law.
+&emsp;(ii) The amount of basic allowance payable under section 403 of such title, including any such amount that is provided on behalf of the member for housing that is acquired or constructed under the alternative authority for the acquisition and improvement of military housing under subchapter IV of chapter 169 of title 10 or any other related provision of law.
 
 (4) After demonstrating a need through a communitywide strategic planning and needs assessment, a Head Start agency may apply to the Secretary to convert part-day sessions, particularly consecutive part-day sessions, into full-working-day sessions.
 
@@ -112,9 +112,9 @@ Each Head Start program operated in a community shall be permitted to provide mo
 
 (2) The Indian tribe shall enroll the children in the Head Start program in accordance with such requirements as the Secretary may specify by regulation promulgated after consultation with Indian tribes.
 
-(3) Notwithstanding any other provision of this Act, an Indian tribe or tribes that operates both an Early Head Start program under section 9840a of this title and a Head Start program may, at its discretion, at any time during the grant period involved, reallocate funds between the Early Head Start program and the Head Start program in order to address fluctuations in client populations, including pregnant women and children from birth to compulsory school age. The reallocation of such funds between programs by an Indian tribe or tribes during a year shall not serve as the basis for the Secretary to reduce a base grant (as defined in section 9835(a)(7) of this title) for either program in succeeding years.
+(3) Notwithstanding any other provision of this Act, an Indian tribe or tribes that operates both an Early Head Start program under section 9840a of this title and a Head Start program may, at its discretion, at any time during the grant period involved, reallocate funds between the Early Head Start program and the Head Start program in order to address fluctuations in client populations, including pregnant women and children from birth to compulsory school age. The reallocation of such funds between programs by an Indian tribe or tribes during a year shall not serve as the basis for the Secretary toreduce a base grant (as defined in section 9835(a)(7) of this title) for either program in succeeding years.
 
-(Pub. L. 97–35, title VI, §645, Aug. 13, 1981, 95 Stat. 504; Pub. L. 98–558, title I, §105, Oct. 30,1984, 98 Stat. 2879; Pub. L. 99–425, title I, §104, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §§113, 114, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 101–597, title IV, §401(e), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–252, title I, §111, May 18, 1994, 108 Stat. 637; Pub. L. 105–285, title I, §112, Oct. 27, 1998, 112 Stat. 2718; Pub. L. 110–134, §14, Dec. 12, 2007, 121 Stat. 1415; Pub. L. 114–328, div. A, title VI, §618(j), Dec. 23, 2016, 130 Stat. 2161.)
+(Pub. L. 97–35, title VI, §645, Aug. 13, 1981, 95 Stat. 504; Pub. L. 98–558, title I, §105, Oct. 30, 1984, 98 Stat. 2879; Pub. L. 99–425, title I, §104, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §§113, 114, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 101–597, title IV, §401(e), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–252, title I, §111, May 18, 1994, 108 Stat. 637; Pub. L. 105–285, title I, §112, Oct. 27, 1998, 112 Stat. 2718; Pub. L. 110–134, §14, Dec. 12, 2007, 121 Stat. 1415; Pub. L. 114–328, div. A, title VI, §618(j), Dec. 23, 2016, 130 Stat. 2161.)
 
 #### <b>Editorial Notes</b>
 

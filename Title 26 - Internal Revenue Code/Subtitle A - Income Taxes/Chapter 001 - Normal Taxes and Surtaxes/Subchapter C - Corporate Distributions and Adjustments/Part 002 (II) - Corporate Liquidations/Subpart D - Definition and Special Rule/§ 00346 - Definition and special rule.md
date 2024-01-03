@@ -6,7 +6,7 @@ For purposes of this subchapter, a distribution shall be treated as in complete 
 
 #### (b) Transactions which might reach same result as partial liquidations
 
-The Secretary shall prescribe such regulations as may be necessary to ensure that the purposes of subsections (a) and (b) of section 222 of the Tax Equity and Fiscal Responsibility Act of 1982 (which repeal the special tax treatment for partial liquidations) may not be circumvented through the use of section 355, 351, or any otherprovision of law or regulations (including the consolidated return regulations).
+The Secretary shall prescribe such regulations as may be necessary to ensure that the purposes of subsections (a) and (b) of section 222 of the Tax Equity and Fiscal Responsibility Act of 1982 (which repeal the special tax treatment for partial liquidations) may not be circumvented through the use of section 355, 351, or any other provision of law or regulations (including the consolidated return regulations).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 110; Pub. L. 97–248, title II, §222(d), Sept. 3, 1982, 96 Stat. 479; Pub. L. 99–514, title VI, §631(e)(7), Oct. 22, 1986, 100 Stat. 2273.)
 

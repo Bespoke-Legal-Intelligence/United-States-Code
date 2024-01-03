@@ -18,7 +18,7 @@ Amount of Claim.—If a vessel is actually or constructively totally lost and th
 
 &emsp;(1) shall be paid, as a tentative advance only, 75 percent of the stated valuation; and
 
-&emsp;(2) may bring a civil action against the United States in a court having jurisdiction ofthe claim to recover a valuation equal to the just compensation the court determines would have been payable if the ownership of the vessel had been requisitioned under chapter 563 of this title at the time the insurance attached under the policy.
+&emsp;(2) may bring a civil action against the United States in a court having jurisdiction of the claim to recover a valuation equal to the just compensation the court determines would have been payable if the ownership of the vessel had been requisitioned under chapter 563 of this title at the time the insurance attached under the policy.
 
 (d)
 

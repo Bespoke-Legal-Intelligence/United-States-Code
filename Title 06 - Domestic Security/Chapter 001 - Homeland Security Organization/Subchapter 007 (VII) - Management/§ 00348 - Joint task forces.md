@@ -16,7 +16,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (1) Establishment
 
-&emsp;The Secretary may establish and operate departmental Joint Task Forces to conduct joint operations using personnel and capabilities ofthe Department for the purposes specified in paragraph (2).
+&emsp;The Secretary may establish and operate departmental Joint Task Forces to conduct joint operations using personnel and capabilities of the Department for the purposes specified in paragraph (2).
 
 #### (2) Purposes
 
@@ -94,7 +94,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (B) Cost neutrality
 
-&emsp;&emsp;A Joint Task Force may not require more resources than would have otherwise beenrequired by the Department to carry out the duties assigned to such Joint Task Force if such Joint Task Force had not been established.
+&emsp;&emsp;A Joint Task Force may not require more resources than would have otherwise been required by the Department to carry out the duties assigned to such Joint Task Force if such Joint Task Force had not been established.
 
 #### (C) Location of operations
 
@@ -272,7 +272,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-<b>2022</b>—Subsec. (b)(8). Pub. L. 117–263, §7111(b)(1), amended par. (8) generally. Prior to amendment, text read as follows: "Each Joint Task Force shall have a staff, composed of officials from relevant components and offices of the Department, to assist the Director of such Joint Task Force in carrying out the mission and responsibilities of such Joint Task Force."
+<b>2022</b>—Subsec. (b)(8). Pub. L. 117–263, §7111(b)(1), amended par. (8) generally. Prior to amendment, textread as follows: "Each Joint Task Force shall have a staff, composed of officials from relevant components and offices of the Department, to assist the Director of such Joint Task Force in carrying out the mission and responsibilities of such Joint Task Force."
 
 Subsec. (b)(9). Pub. L. 117–263, §7111(b)(2)(A), substituted "Mission; establishment" for "Establishment" in heading.
 

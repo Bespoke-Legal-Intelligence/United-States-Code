@@ -54,7 +54,7 @@ Each institution of higher education that offers a program described in subsecti
 
 &emsp;&emsp;&emsp;(ii) use 40 percent of such funds to award grants under this section to institutions of higher education for the purpose of expanding accredited registered nurse programs at the baccalaureate degree level; and
 
-&emsp;&emsp;&emsp;(iii) use 40 percent of such funds to award grants under this section to institutions ofhigher education for the purpose of expanding accredited registered nurse programs at the associate degree level.
+&emsp;&emsp;&emsp;(iii) use 40 percent of such funds to award grants under this section to institutions of higher education for the purpose of expanding accredited registered nurse programs at the associate degree level.
 
 #### (B) Optional uses of funds
 

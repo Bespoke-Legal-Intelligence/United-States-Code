@@ -12,13 +12,13 @@ Subject to the authority, direction, and control of the Administrator, the Deput
 
 &emsp;(2) Directing, managing, and overseeing the nuclear weapons production facilities and the national security laboratories.
 
-&emsp;(3) Directing, managing, and overseeing assets to respond to incidents involving nuclear weapons and materials.
-
-(Pub. L. 106–65, div. C, title XXXII, §3214, Oct. 5, 1999, 113 Stat. 959; Pub. L. 107–107, div. C, title XXXI, §3142, Dec. 28, 2001, 115 Stat. 1370.)
+(Pub. L. 106–65, div. C, title XXXII, §3214, Oct. 5, 1999, 113 Stat. 959; Pub. L. 107–107, div. C, title XXXI, §3142, Dec. 28, 2001, 115 Stat. 1370; Pub. L. 118–31, div. C, title XXXI, §3112(a), Dec. 22, 2023, 137 Stat. 788.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(3). Pub. L. 118–31 struck out par. (3) which read as follows: "Directing, managing, and overseeing assets to respond to incidents involving nuclear weapons and materials."
 
 <b>2001</b>—Subsec. (c). Pub. L. 107–107 struck out heading and text of subsec. (c). Text read as follows: "The head of each national security laboratory and nuclear weapons production facility shall, consistent with applicable contractual obligations, report to the Deputy Administrator for Defense Programs."
 

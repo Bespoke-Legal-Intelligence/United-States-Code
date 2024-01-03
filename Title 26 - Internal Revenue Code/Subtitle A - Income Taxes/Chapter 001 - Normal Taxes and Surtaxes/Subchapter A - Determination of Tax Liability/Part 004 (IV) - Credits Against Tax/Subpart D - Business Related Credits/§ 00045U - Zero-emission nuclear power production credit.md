@@ -92,13 +92,13 @@ For purposes of section 38, the zero-emission nuclear power production credit fo
 
 #### (3) Regulations and guidance
 
-&emsp;The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+&emsp;The Secretary shall issue such regulations or other guidance as the Secretary determinesnecessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 
 #### (e) Termination
 
 This section shall not apply to taxable years beginning after December 31, 2032.
 
-(Added and amended Pub. L. 117–169, title I, §§13105, 13204(b)(2), Aug. 16, 2022, 136 Stat. 1929, 1940.)
+(Added and amended Pub. L. 117–169, title I, §§13105(a), 13204(b)(2), Aug. 16, 2022, 136 Stat. 1929, 1940.)
 
 #### <b>Editorial Notes</b>
 

@@ -8,7 +8,7 @@
 
 (C) The elementary and secondary education programs described in subparagraph (A) shall include—
 
-&emsp;(i) the Kendall Demonstration Elementary School, to provide day facilities for elementary education for students who are deaf fromthe age of onset of deafness to age fifteen, inclusive, but not beyond the eighth grade or its equivalent, to provide such students with the vocational, transitional, independent living, and related services they need to function independently, and to prepare such students for high school and other secondary study; and
+&emsp;(i) the Kendall Demonstration Elementary School, to provide day facilities for elementary education for students who are deaf from the age of onset of deafness to age fifteen, inclusive, but not beyond the eighth grade or its equivalent, to provide such students with the vocational, transitional, independent living, and related services they need to function independently, and to prepare such students for high school and other secondary study; and
 
 &emsp;(ii) the Model Secondary School for the Deaf, to provide day and residential facilities for secondary education for students who are deaf from grades nine through twelve, inclusive, to provide such students with the vocational, transitional, independent living, and related services they need to function independently, and to prepare such students for college, other postsecondary opportunities, or the workplace.
 
@@ -24,7 +24,7 @@
 
 &emsp;(A) provide technical assistance and outreach throughout the Nation to meet the training and information needs of parents of infants, children, and youth who are deaf or hard of hearing; and
 
-&emsp;(B) provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a).
+&emsp;(B) provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) studentswho are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a).
 
 (2) To the extent possible, the Clerc Center shall provide the services required under paragraph (1)(B) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of section 618(a)(1) of the Individuals with Disabilities Education Act \[20 U.S.C. 1418(a)(1)\]. Such educational environments shall include—
 
@@ -74,7 +74,7 @@
 
 &emsp;(C) publicly report the results of the academic assessments implemented under subparagraph (A), except where such reporting would not yield statistically reliable information or would reveal personally identifiable information about an individual student, and the results of the annual evaluation of the programs at the Clerc Center, as determined under subparagraph (B).
 
-(Pub. L. 99–371, title I, §104, as added Pub. L. 102–421, title I, §112, Oct. 16, 1992, 106 Stat. 2152;amended Pub. L. 103–73, title II, §203(d), Aug. 11, 1993, 107 Stat. 733; Pub. L. 105–244, title IX, §912, Oct. 7, 1998, 112 Stat. 1829; Pub. L. 108–446, title III, §305(d), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IX, §901, Aug. 14, 2008, 122 Stat. 3450; Pub. L. 114–95, title IX, §9215(ee), Dec. 10, 2015, 129 Stat. 2173.)
+(Pub. L. 99–371, title I, §104, as added Pub. L. 102–421, title I, §112, Oct. 16, 1992, 106 Stat. 2152; amended Pub. L. 103–73, title II, §203(d), Aug. 11, 1993, 107 Stat. 733; Pub. L. 105–244, title IX, §912, Oct. 7, 1998, 112 Stat. 1829; Pub. L. 108–446, title III, §305(d), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IX, §901, Aug. 14, 2008, 122 Stat. 3450; Pub. L. 114–95, title IX, §9215(ee), Dec. 10, 2015, 129 Stat. 2173.)
 
 #### <b>Editorial Notes</b>
 
@@ -88,7 +88,7 @@ The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(
 
 Subsec. (b)(5)(A)(ii). Pub. L. 114–95, §9215(ee)(1)(B), substituted "2016–2017 academic year" for "2009–2010 academic year".
 
-Subsec. (b)(5)(B). Pub. L. 114–95, §9215(ee)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "annually determine whether such programs at the Clerc Center are making adequate yearly progress, as determined according to the definition of adequate yearly progress defined (pursuant to section 6311(b)(2)(C) of this title) by the State that has adopted and implemented the standards and assessments selected under subparagraph (A)(i); and".
+Subsec. (b)(5)(B). Pub. L. 114–95, §9215(ee)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "annually determine whether such programs at the Clerc Center are making adequate yearly progress, as determined according to the definition of adequate yearly progress defined (pursuant to section 6311(b)(2)(C) of this title) by the State that has adoptedand implemented the standards and assessments selected under subparagraph (A)(i); and".
 
 Subsec. (b)(5)(C). Pub. L. 114–95, §9215(ee)(3), substituted "the results of the annual evaluation of the programs at the Clerc Center" for "whether the programs at the Clerc Center are making adequate yearly progress".
 

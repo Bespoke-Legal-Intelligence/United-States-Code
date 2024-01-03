@@ -36,6 +36,14 @@ Cost-sharing Requirements.—The cost-sharing requirements under TRICARE Select 
 
 &emsp;(3) With respect to beneficiaries in the reserve and young adult category, the cost-sharing requirements shall be calculated pursuant to subsection (d)(1) as if the beneficiary were in the active-duty family member category or the retired category, as applicable, except that the premiums calculated pursuant to section 1076d, 1076e, or 1110b of this title, as the case may be, shall apply instead of any enrollment fee required under this section.
 
+&emsp;(4)(A) Consistent with other provisions of this chapter and subject to requirements to be prescribed by the Secretary, the Secretary may waive cost-sharing requirements for the first three outpatient mental health visits each year of any of the following beneficiaries:
+
+&emsp;&emsp;(i) Beneficiaries in the active-duty family member category.
+
+&emsp;&emsp;(ii) Beneficiaries covered by section 1110b of this title.
+
+&emsp;(B) This paragraph shall terminate on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024.
+
 (d)
 
 Cost-sharing Amounts for Certain Beneficiaries.—(1) Beneficiaries described in subsection (c)(1) enrolled in TRICARE Select shall be subject to cost-sharing requirements in accordance with the amounts and percentages under the following table during calendar year 2018 and as such amounts are adjusted under paragraph (2) for subsequent years:
@@ -84,9 +92,9 @@ Cost-sharing Amounts for Certain Beneficiaries.—(1) Beneficiaries described in
 
 Exceptions to Certain Cost-sharing Amounts for Certain Beneficiaries Eligible Prior to 2018.—(1) Subject to paragraph (4), and in accordance with subsection (d)(2), the Secretary shall establish an annual enrollment fee for beneficiaries described in subsection (c)(2)(B) in the retired category who enroll in TRICARE Select (other than such beneficiaries covered by paragraph (3)). Such enrollment fee shall be $150 for an individual and $300 for a family.
 
-(2) For the calendar year for which the Secretary first establishes the annual enrollment fee under paragraph (1), the Secretary shall adjust the catastrophic cap amount to be $3,500 for beneficiaries described in subsection (c)(2)(B) in the retired category who are enrolled in TRICARE Select (other than such beneficiaries covered by paragraph (3)).
+(2) For the calendar year for which the Secretary first establishes the annual enrollment fee under paragraph (1), the Secretary shall adjust the catastrophic cap amount to be $3,500 for beneficiaries described in subsection (c)(2)(B) in the retired category who are enrolled inTRICARE Select (other than such beneficiaries covered by paragraph (3)).
 
-(3) The enrollment fee established pursuant to paragraph (1) and the catastrophic cap adjustedunder paragraph (2) for beneficiaries described in subsection (c)(2)(B) in the retired category shall not apply with respect to the following beneficiaries:
+(3) The enrollment fee established pursuant to paragraph (1) and the catastrophic cap adjusted under paragraph (2) for beneficiaries described in subsection (c)(2)(B) in the retired category shall not apply with respect to the following beneficiaries:
 
 &emsp;(A) Retired members and the family members of such members covered by paragraph (1) of section 1086(c) of this title by reason of being retired under chapter 61 of this title or being a dependent of such a member.
 
@@ -136,9 +144,13 @@ Definitions.—In this section:
 
 &emsp;(3) The term "out-of-network" means, with respect to health care services, such services provided by TRICARE-authorized civilian providers who have not entered into a contract under this chapter with a contractor under the TRICARE program.
 
-(Added Pub. L. 114–328, div. A, title VII, §701(a)(1), Dec. 23, 2016, 130 Stat. 2180; amended Pub. L. 115–91, div. A, title VII, §739(b)(1), Dec. 12, 2017, 131 Stat. 1446; Pub. L. 116–92, div. A, title XVII, §1731(a)(23), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 117–81, div. A, title VII, §703(a), Dec. 27, 2021, 135 Stat. 1779.)
+(Added Pub. L. 114–328, div. A, title VII, §701(a)(1), Dec. 23, 2016, 130 Stat. 2180; amended Pub. L. 115–91, div. A, title VII, §739(b)(1), Dec. 12, 2017, 131 Stat. 1446; Pub. L. 116–92, div. A, title XVII, §1731(a)(23), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 117–81, div. A, title VII, §703(a), Dec. 27, 2021, 135 Stat. 1779; Pub. L. 118–31, div. A, title VII, §701(a), Dec. 22, 2023, 137 Stat. 299.)
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsec. (c)(4)(B), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
 
 #### Prior Provisions
 
@@ -147,6 +159,8 @@ A prior section 1075, added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat
 Another prior section 1075, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to post card requests for absentee ballots, and for printing and transmission thereof, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c)(4). Pub. L. 118–31 added par. (4).
 
 <b>2021</b>—Subsecs. (h), (i). Pub. L. 117–81 added subsec. (h) and redesignated former subsec. (h) as (i).
 

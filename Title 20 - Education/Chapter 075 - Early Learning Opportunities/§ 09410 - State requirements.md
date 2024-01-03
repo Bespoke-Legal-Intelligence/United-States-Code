@@ -44,7 +44,7 @@ In awarding grants under this chapter, Local Councils shall give preference to s
 
 #### (3) Requirement
 
-&emsp;The State shall award grants to Local Councils only for purposes that are consistent withthe performance goals established under paragraph (2).
+&emsp;The State shall award grants to Local Councils only for purposes that are consistent with the performance goals established under paragraph (2).
 
 #### (4) Report
 
@@ -52,7 +52,7 @@ In awarding grants under this chapter, Local Councils shall give preference to s
 
 #### (5) Improvement plans
 
-&emsp;If the Secretary determines, based on the State report submitted under paragraph (4), that the State is not making progress toward achieving the performance goals described in paragraph (2), then the State shall submit a performance improvement plan to the Secretary, and demonstrate reasonable progress in implementing such plan, in order to remain eligible for funding under this chapter.
+&emsp;If the Secretary determines, based on the State report submitted under paragraph (4), that the State is not making progress toward achieving the performance goals described in paragraph (2), then the State shall submit a performance improvement plan to the Secretary, and demonstrate reasonable progressin implementing such plan, in order to remain eligible for funding under this chapter.
 
 (Pub. L. 106–554, §1(a)(1) \[title VIII, §811\], Dec. 21, 2000, 114 Stat. 2763, 2763A–86.)
 

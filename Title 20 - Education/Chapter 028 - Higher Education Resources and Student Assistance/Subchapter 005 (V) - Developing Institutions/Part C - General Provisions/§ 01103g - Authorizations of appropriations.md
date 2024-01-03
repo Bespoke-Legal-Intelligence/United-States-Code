@@ -4,7 +4,7 @@
 
 #### (1) Parts A and C
 
-&emsp;There are authorized to be appropriated to carry out parts A and C $175,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
+&emsp;There are authorized to be appropriated to carry out parts A and C $175,000,000 for fiscalyear 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
 #### (2) Part B
 
@@ -78,7 +78,7 @@ A prior section 1105d, Pub. L. 89–329, title V, §525, as added Pub. L. 99–4
 
 Section 1105e, Pub. L. 89–329, title V, §536, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 686, related to fellowship repayment provisions.
 
-Section 1105f, Pub. L. 89–329, title V, §537, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 686; amended Pub. L. 103–208, §2(j)(5), Dec. 20, 1993, 107 Stat. 2481, related to Secretary's responsibilities.
+Section 1105f, Pub. L. 89–329, title V, §537, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat.686; amended Pub. L. 103–208, §2(j)(5), Dec. 20, 1993, 107 Stat. 2481, related to Secretary's responsibilities.
 
 Section 1105g, Pub. L. 89–329, title V, §538, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 686, related to State applications for grants.
 
@@ -320,7 +320,7 @@ Section 1119b–3, Pub. L. 89–329, title V, §544, as added Pub. L. 96–374, 
 
 Section 1119b–4, Pub. L. 89–329, title V, §545, as added Pub. L. 96–374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1463, defined "special education".
 
-Section 1119b–5, Pub. L. 89–329, title V, §546, as added Pub. L. 96–374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1463,authorized appropriations for fiscal years 1981 to 1985 to carry out grant program for training teachers for handicapped children.
+Section 1119b–5, Pub. L. 89–329, title V, §546, as added Pub. L. 96–374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1463, authorized appropriations for fiscal years 1981 to 1985 to carry out grant program for training teachers for handicapped children.
 
 Section 1119c, Pub. L. 89–329, title V, §551, as added Pub. L. 96–374, title V, §506, Oct. 3, 1980, 94 Stat. 1463, stated Congressional findings concerning Federal programs to train education professionals.
 

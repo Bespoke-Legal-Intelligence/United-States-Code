@@ -12,7 +12,7 @@ Requirements for Budget Display.—In the defense budget materials for any fisca
 
 (b)
 
-Additional Requirements.—For purposes of subsection (a)(2), the amounts requested fordevelopment, prototyping, and experimentation of weapon system components or other technologies shall be—
+Additional Requirements.—For purposes of subsection (a)(2), the amounts requested for development, prototyping, and experimentation of weapon system components or other technologies shall be—
 
 &emsp;(1) structured into either capability, weapon system component, or technology portfolios that reflect the priority areas for prototype projects; and
 

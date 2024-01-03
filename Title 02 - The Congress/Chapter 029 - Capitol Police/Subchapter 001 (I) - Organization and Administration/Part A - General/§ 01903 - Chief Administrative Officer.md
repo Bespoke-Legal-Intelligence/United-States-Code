@@ -122,7 +122,7 @@ Pub. L. 106–346, §101(a) \[title V, §507(b)\], Oct. 23, 2000, 114 Stat. 1356
 
 #### Construction of 2010 Amendment
 
-Pub. L. 111–145, §2(a)(6), Mar. 4, 2010, 124 Stat. 50, provided that: "Nothing in the amendments made by this subsection \[amending this section and sections 1301, 1904, and 1907 of this title and repealing sections 1928 and 1929 of this title\] may be construed to affect the status of any individual serving as an officer or employee of the United States Capitol Police as of the date of the enactment of this Act \[Mar. 4, 2010\]."
+Pub. L. 111–145, §2(a)(6), Mar. 4, 2010, 124 Stat. 50, provided that: "Nothing in the amendments made by this subsection \[amending this section and sections 1301, 1904, and 1907 of this title and repealing sections 1928and 1929 of this title\] may be construed to affect the status of any individual serving as an officer or employee of the United States Capitol Police as of the date of the enactment of this Act \[Mar. 4, 2010\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

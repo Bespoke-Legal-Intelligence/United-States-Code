@@ -12,7 +12,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 &emsp;(2) the information required to be shown on the return with respect to refunds, credits, and offsets to the individual.
 
-> The written statement required under the preceding sentence shall be furnished to the individual during January of the calendar year following the calendar year for which the return under subsection (a) was required to be made.No statement shall be required under this subsection with respect to any individual if it is determined (in the manner provided by regulations) that such individual did not claim itemized deductions under chapter 1 for the taxable year giving rise to the refund, credit, or offset.
+> The written statement required under the preceding sentence shall be furnished to the individual during January of the calendar year following the calendar year for which the return under subsection (a) was required to be made. No statement shall be required under this subsection with respect to any individual if it is determined (in the manner provided by regulations) that such individual did not claim itemized deductions under chapter 1 for the taxable year giving rise to the refund, credit, or offset.
 
 #### (c) Person defined
 

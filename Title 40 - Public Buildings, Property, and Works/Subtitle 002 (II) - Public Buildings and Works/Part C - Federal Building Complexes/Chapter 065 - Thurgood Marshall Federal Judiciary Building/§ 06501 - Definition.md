@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 100–480, §10, Oct. 7, 1988, 102 Stat. 2335.
 
-The text of 40:1208(1) and (3) is omitted as unnecessary because the complete names of the Architect ofthe Capitol and the Commission for the Judiciary Office Building are used the first times the terms appear in a section.
+The text of 40:1208(1) and (3) is omitted as unnecessary because the complete names of the Architect of the Capitol and the Commission for the Judiciary Office Building are used the first times the terms appear in a section.
 

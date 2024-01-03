@@ -10,7 +10,7 @@ Purpose.—The Committee shall serve as a Federal interagency coordinating commi
 
 &emsp;(1) assessing the adequacy of the marine transportation system (including ports, waterways, channels, and their intermodal connections);
 
-&emsp;(2) promoting the integration of the marine transportation system with other modes oftransportation and other uses of the marine environment; and
+&emsp;(2) promoting the integration of the marine transportation system with other modes of transportation and other uses of the marine environment; and
 
 &emsp;(3) coordinating, improving the coordination of, and making recommendations with regard to Federal policies that impact the marine transportation system.
 

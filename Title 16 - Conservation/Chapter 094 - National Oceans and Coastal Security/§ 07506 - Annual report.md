@@ -2,7 +2,7 @@
 
 #### (a) Requirement for annual report
 
-Subject to subsection (c),<sup>1</sup> beginning with fiscal year 2017, not later than 60 days after theend of each fiscal year, the Foundation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives a report on the operation of the Fund during that fiscal year.
+Subject to subsection (c),<sup>1</sup> beginning with fiscal year 2017, not later than 60 days after the end of each fiscal year, the Foundation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives a report on the operation of the Fund during that fiscal year.
 
 #### (b) Content
 

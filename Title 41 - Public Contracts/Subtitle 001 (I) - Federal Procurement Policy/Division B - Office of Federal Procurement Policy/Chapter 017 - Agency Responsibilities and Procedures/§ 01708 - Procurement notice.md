@@ -4,7 +4,7 @@
 
 Notice Requirement.—Except as provided in subsection (b)—
 
-&emsp;(1) an executive agency intending to solicit bids or proposals for a contract for property or services for a price expected to exceed $10,000, but not to exceed $25,000, shall post, for not less than 10 days, in a public place at the contracting office issuing the solicitation a notice of solicitation described in subsection (c);
+&emsp;(1) an executive agency intending to solicit bids or proposals for a contract for property orservices for a price expected to exceed $10,000, but not to exceed $25,000, shall post, for not less than 10 days, in a public place at the contracting office issuing the solicitation a notice of solicitation described in subsection (c);
 
 &emsp;(2) an executive agency shall publish a notice of solicitation described in subsection (c) if the agency intends to—
 
@@ -116,7 +116,7 @@ Establishing deadline when none provided by statute.—An executive agency shall
 
 &emsp;(3)
 
-Flexible deadlines.—The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (1) for the issuance ofsolicitations and the submission of bids or proposals for the procurement of commercial products or commercial services.
+Flexible deadlines.—The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (1) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial products or commercial services.
 
 (f)
 

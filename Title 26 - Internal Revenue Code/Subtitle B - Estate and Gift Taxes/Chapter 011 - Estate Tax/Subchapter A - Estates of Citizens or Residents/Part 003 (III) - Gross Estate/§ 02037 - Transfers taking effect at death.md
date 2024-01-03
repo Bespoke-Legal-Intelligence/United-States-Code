@@ -32,5 +32,5 @@ For purposes of this section, the term "reversionary interest" includes a possib
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–834 applicable to estates of decedents dying after Oct. 16, 1962, except as otherwiseprovided, see section 18(b) of Pub. L. 87–834, set out as a note under section 2031 of this title.
+Amendment by Pub. L. 87–834 applicable to estates of decedents dying after Oct. 16, 1962, except as otherwise provided, see section 18(b) of Pub. L. 87–834, set out as a note under section 2031 of this title.
 

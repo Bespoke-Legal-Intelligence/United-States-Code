@@ -16,7 +16,7 @@
 
 #### (3) Purpose
 
-&emsp;The purpose of the program under this section is to foster cost-shared collaborations among firms, educational institutions, research institutions, State agencies, and nonprofit organizations to encourage the development of innovative, multidisciplinary manufacturing technologies. Partnerships receivingawards under this section shall conduct applied research to develop new manufacturing processes, techniques, or materials that would contribute to improved performance, productivity, and competitiveness of United States manufacturing, and build lasting alliances among collaborators.
+&emsp;The purpose of the program under this section is to foster cost-shared collaborations among firms, educational institutions, research institutions, State agencies, and nonprofit organizations to encourage the development of innovative, multidisciplinary manufacturing technologies. Partnerships receiving awards under this section shall conduct applied research to develop new manufacturing processes, techniques, or materials that would contribute to improved performance, productivity, and competitiveness of United States manufacturing, and build lasting alliances among collaborators.
 
 #### (b) Program contribution
 

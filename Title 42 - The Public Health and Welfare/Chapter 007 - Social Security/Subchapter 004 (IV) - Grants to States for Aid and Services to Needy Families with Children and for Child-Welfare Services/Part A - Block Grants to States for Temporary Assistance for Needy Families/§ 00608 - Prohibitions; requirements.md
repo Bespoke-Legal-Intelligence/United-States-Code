@@ -4,7 +4,7 @@
 
 #### (1) No assistance for families without a minor child
 
-&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to a family, unless the family includes a minor child who resides with the family (consistent with paragraph (10)) or a pregnant individual.
+&emsp;A State to which a grant is made under section 603 of this title shall not use any part ofthe grant to provide assistance to a family, unless the family includes a minor child who resides with the family (consistent with paragraph (10)) or a pregnant individual.
 
 #### (2) Reduction or elimination of assistance for noncooperation in establishing paternity or obtaining child support
 
@@ -140,7 +140,7 @@
 
 #### (G) Inapplicability to welfare-to-work grants and assistance
 
-&emsp;&emsp;For purposes of subparagraph (A) of this paragraph, a grant made under section 603(a)(5) of this title shall not be considered a grant made under section 603 of this title, and noncash assistance from funds provided under section 603(a)(5) of this title shall not be considered assistance.
+&emsp;&emsp;For purposes of subparagraph (A) of this paragraph, a grant made under section 603(a)(5) of this title shall not be considered a grant made under section 603 of this title, and noncash assistance from funds providedunder section 603(a)(5) of this title shall not be considered assistance.
 
 #### (8) Denial of assistance for 10 years to a person found to have fraudulently misrepresented residence in order to obtain assistance in 2 or more States
 
@@ -188,7 +188,7 @@
 
 #### (A) Earnings from employment
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid because of hours of or income from employment of the caretaker relative (as defined under this part as in effect on such date) or because of section 602(a)(8)(B)(ii)(II) of this title (as so in effect), and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX for an extended period or periods as provided in section 1396r–6 or 1396a(e)(1) of this title (as applicable), and that the family will be appropriately notified of such extension as required by section 1396r–6(a)(2) of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid because of hours of or income from employment of the caretaker relative (as defined under this part as in effect on such date) or because of section 602(a)(8)(B)(ii)(II) of this title (as so in effect), and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX for an extended period or periods as provided in section 1396r–6 or 1396a(e)(1) of this title (as applicable), and that the family will beappropriately notified of such extension as required by section 1396r–6(a)(2) of this title.
 
 #### (B) Child support
 
@@ -240,7 +240,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;On the basis of the assessment made under subsection (a) with respect to an individual,the State agency, in consultation with the individual, may develop an individual responsibility plan for the individual, which—
+&emsp;&emsp;On the basis of the assessment made under subsection (a) with respect to an individual, the State agency, in consultation with the individual, may develop an individual responsibility plan for the individual, which—
 
 &emsp;&emsp;&emsp;(i) sets forth an employment goal for the individual and a plan for moving the individual immediately into private sector employment;
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;&emsp;(i) within 90 days (or, at the option of the State, 180 days) after the effective date of this part, in the case of an individual who, as of such effective date, is a recipient of aid under the State plan approved under part A (as in effect immediately before such effective date); or
 
-&emsp;&emsp;&emsp;(ii) within 30 days (or, at the option of the State, 90 days) after the individual is determined to be eligible for such assistance, in the case of any other individual.
+&emsp;&emsp;&emsp;(ii) within 30 days (or, at the option of the State, 90 days) after the individual isdetermined to be eligible for such assistance, in the case of any other individual.
 
 #### (3) Penalty for noncompliance by individual
 
@@ -460,7 +460,7 @@ State option to accelerate effective date.—Notwithstanding paragraph (1), a St
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–33, title V, §5001(h)(2), Aug. 5, 1997, 111 Stat. 593, provided that: "The amendments made byparagraph (1) \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
+Pub. L. 105–33, title V, §5001(h)(2), Aug. 5, 1997, 111 Stat. 593, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
 
 Amendment by section 5505 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 
@@ -482,7 +482,7 @@ Pub. L. 105–33, title V, §5581(a), Aug. 5, 1997, 111 Stat. 642, provided that
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modifiedprograms and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

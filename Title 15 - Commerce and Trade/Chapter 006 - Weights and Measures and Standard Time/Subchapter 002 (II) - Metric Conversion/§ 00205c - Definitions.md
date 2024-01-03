@@ -64,7 +64,7 @@ Effective Date.—This Act \[See Short Title of 1996 Amendment note set out unde
 
 "(b)
 
-Savings Provisions.—This Act shall not apply to contracts awarded and solicitations issued on or before the effective date of this Act, unless the head of a Federal agency makes a written determination in his or her sole discretion that it would be in the public interest to apply one or more provisions of this Act or itsamendments to these existing contracts or solicitations."
+Savings Provisions.—This Act shall not apply to contracts awarded and solicitations issued on or before the effective date of this Act, unless the head of a Federal agency makes a written determination in his or her sole discretion that it would be in the public interest to apply one or more provisions of this Act or its amendments to these existing contracts or solicitations."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

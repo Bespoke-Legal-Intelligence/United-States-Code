@@ -74,7 +74,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 &emsp;&emsp;&emsp;(i) issued by a United States district court under State or Federal law against a foreign state that was designated as a state sponsor of terrorism at the time the acts described in clause (ii) occurred or was so designated as a result of such acts; and
 
-&emsp;&emsp;&emsp;(ii) arising from acts of international terrorism, for which the foreign state wasdetermined not to be immune from the jurisdiction of the courts of the United States under section 1605A, or section 1605(a)(7) (as such section was in effect on January 27, 2008), of title 28;
+&emsp;&emsp;&emsp;(ii) arising from acts of international terrorism, for which the foreign state was determined not to be immune from the jurisdiction of the courts of the United States under section 1605A, or section 1605(a)(7) (as such section was in effect on January 27, 2008), of title 28;
 
 &emsp;&emsp;(B) the sum total of $10,000 per day for each day that a United States person was taken and held hostage from the United States embassy in Tehran, Iran, during the period beginning November 4, 1979, and ending January 20, 1981; or
 
@@ -100,7 +100,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 &emsp;&emsp;&emsp;&emsp;(I) the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from the date of enactment of such Act to submit an application for payment; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the final judgment was awarded to a 1983 Beirut barracks bombing victim or a 1996 Khobar Towers bombing victim before December 29, 2022, in which case such United States person shall have 180 days from December 29, 2022, to submit an application for payment.
+&emsp;&emsp;&emsp;&emsp;(II) the final judgment was awarded to a 1983 Beirut barracks bombing victim ora 1996 Khobar Towers bombing victim before December 29, 2022, in which case such United States person shall have 180 days from December 29, 2022, to submit an application for payment.
 
 #### (B) Good cause
 
@@ -140,7 +140,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 &emsp;&emsp;&emsp;&emsp;(III) In the event that a 9/11 victim, 9/11 spouse, or 9/11 dependent and the immediate family members of such person (who are also 9/11 victims, 9/11 spouses, or 9/11 dependents) have claims that if aggregated would exceed $35,000,000, the Special Master shall, for purposes of this section, reduce such claims on a pro rata basis such that in the aggregate such claims do not exceed $35,000,000.
 
-&emsp;&emsp;&emsp;&emsp;(IV) In the event that a 9/11 family member and the family members of suchperson (who are also 9/11 family members) have claims that if aggregated would exceed $20,000,000, the Special Master shall, for purposes of this section, reduce such claims on a pro rata basis such that in the aggregate such claims do not exceed $20,000,000.
+&emsp;&emsp;&emsp;&emsp;(IV) In the event that a 9/11 family member and the family members of such person (who are also 9/11 family members) have claims that if aggregated would exceed $20,000,000, the Special Master shall, for purposes of this section, reduce such claims on a pro rata basis such that in the aggregate such claims do not exceed $20,000,000.
 
 #### (B) Minimum payments
 
@@ -148,7 +148,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 &emsp;&emsp;(ii) To the extent that an applicant with an eligible claim has received less than 30 percent of the compensatory damages owed that applicant under a final judgment or claim described in subsection (c)(2) from any source other than this Fund, such applicant may apply to the Special Master for the difference between the percentage of compensatory damages the applicant has received from other sources and the percentage of compensatory damages to be awarded other eligible applicants from the Fund.
 
-&emsp;&emsp;(iii) For the purposes of clause (i), the calculation of the total compensatory damages received or entitled or scheduled to be received by an applicant who is a 1983 Beirut barracks bombing victim or a 1996 Khobar Towers bombing victim from any source other than the Fund shall include the total amount received by the applicant as a result of or in connection with the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Vic. 4518 (S.D.N.Y.), or the proceedings captioned In Re 650 Fifth Avenue \& Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), such that any such applicant who has received or is entitled or scheduled to receive 30 percent or more of such applicant's compensatory damages judgment as a result of or in connection with such proceedings shall not receive any payment from the Fund, except in accordance with the requirements of clause (i), or as part of a lump-sum catch-up payment in accordance with paragraph (4)(D).
+&emsp;&emsp;(iii) For the purposes of clause (i), the calculation of the total compensatory damages received or entitled or scheduled to be received by an applicant who is a 1983 Beirut barracks bombing victim or a 1996 Khobar Towers bombing victim from any source other than the Fund shall include the total amount received by the applicant as a result of or in connection with the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Vic. 4518 (S.D.N.Y.), or the proceedings captioned In Re 650 Fifth Avenue \& Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), such that any such applicant who has received or is entitled or scheduled to receive 30 percent or more of such applicant's compensatory damages judgment as a result of or in connection with such proceedings shall not receive any payment from the Fund, except in accordance with the requirements of clause (i), oras part of a lump-sum catch-up payment in accordance with paragraph (4)(D).
 
 #### (4) Additional payments
 
@@ -314,7 +314,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 &emsp;&emsp;&emsp;&emsp;(aa) In the event that an adverse final judgment is entered in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y), prior to a final judgment being entered in the proceedings captioned In Re 650 Fifth Avenue \& Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), the Special Master shall release a portion of an eligible claimant's conditional payment to such eligible claimant if the Special Master anticipates that such claimant will receive less than the amount of the conditional payment from any proceeds from a final judgment that is entered in favor of the plaintiffs in In Re 650 Fifth Avenue \& Related Properties. Such portion shall not exceed the difference between the amount of the conditional payment and the amount the Special Master anticipates such claimant will receive from the proceeds of In Re 650 Fifth Avenue \& Related Properties.
 
-&emsp;&emsp;&emsp;&emsp;(bb) In the event that a final judgment is entered in favor of the plaintiffs in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y) and funds are distributed, the payments allocated to claimants who applied for a conditional payment under this subparagraph shall be considered void, and any funds previously allocated to such conditional payments shall be made available and distributed to all other eligible claimants pursuant to subsection (d).
+&emsp;&emsp;&emsp;&emsp;(bb) In the event that a final judgment is entered in favor of the plaintiffs in theproceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y) and funds are distributed, the payments allocated to claimants who applied for a conditional payment under this subparagraph shall be considered void, and any funds previously allocated to such conditional payments shall be made available and distributed to all other eligible claimants pursuant to subsection (d).
 
 #### (v) Exception for 1983 Beirut barracks bombing victims and 1996 Khobar Towers bombing victims
 
@@ -360,7 +360,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (1) In general
 
-&emsp;Any United States person who holds a final judgment described in subsection (c)(2)(A) or a claim under subsection (c)(2)(B) or (c)(2)(C) and who meets the requirements set forth inparagraph (2) is entitled to receive an award of 10 percent of the funds deposited in the Fund under subsection (e)(2) attributable to information such person furnished to the Attorney General that leads to a forfeiture described in subsection (e)(2)(A), which is made after December 18, 2015, pursuant to a proceeding resulting in forfeiture that was initiated after December 18, 2015.
+&emsp;Any United States person who holds a final judgment described in subsection (c)(2)(A) or a claim under subsection (c)(2)(B) or (c)(2)(C) and who meets the requirements set forth in paragraph (2) is entitled to receive an award of 10 percent of the funds deposited in the Fund under subsection (e)(2) attributable to information such person furnished to the Attorney General that leads to a forfeiture described in subsection (e)(2)(A), which is made after December 18, 2015, pursuant to a proceeding resulting in forfeiture that was initiated after December 18, 2015.
 
 #### (2) Person described
 
@@ -498,7 +498,7 @@ The Fairness for 9/11 Families Act, referred to in subsec. (b)(2)(A), is Pub. L.
 
 Section 1605(a)(7) of title 28 (as such section was in effect on January 27, 2008), referred to in subsecs. (c)(2)(A)(ii) and (j)(8), refers to subsec. (a)(7) of section 1605 of title 28 as it existed prior to being struck out by Pub. L. 110–181, §1083(b)(1)(A). See 2008 Amendment note under that section.
 
-The International Emergency Economic Powers Act, referred to in subsec. (e)(2)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification ofthis Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (e)(2)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 The Trading with the Enemy Act, referred to in subsec. (e)(2)(A), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified generally to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 

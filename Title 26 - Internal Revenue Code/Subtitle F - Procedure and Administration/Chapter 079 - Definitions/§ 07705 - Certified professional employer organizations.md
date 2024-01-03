@@ -38,7 +38,7 @@ A person meets the requirements of this subsection if such person—
 
 #### (B) Amount of bond
 
-&emsp;&emsp;For the period April 1 of any calendar year through March 31 of the following calendaryear, the amount of the bond required is equal to the greater of—
+&emsp;&emsp;For the period April 1 of any calendar year through March 31 of the following calendar year, the amount of the bond required is equal to the greater of—
 
 &emsp;&emsp;&emsp;(i) 5 percent of the organization's liability under section 3511 for taxes imposed by subtitle C during the preceding calendar year (but not to exceed $1,000,000), or
 

@@ -30,7 +30,7 @@
 
 #### (5) Reports
 
-&emsp;To be eligible to receive a payment under paragraph (2), a tribe, tribal organization, orconsortium shall make a biennial report to the Secretary of the Interior of activities undertaken under this subsection, including the number of contracts and cooperative agreements entered into, the number of infants and toddlers contacted and receiving services for each year, and the estimated number of infants and toddlers needing services during the 2 years following the year in which the report is made. The Secretary of the Interior shall include a summary of this information on a biennial basis to the Secretary of Education along with such other information as required under section 1411(h)(3)(E) of this title. The Secretary of Education may require any additional information from the Secretary of the Interior.
+&emsp;To be eligible to receive a payment under paragraph (2), a tribe, tribal organization, or consortium shall make a biennial report to the Secretary of the Interior of activities undertaken under this subsection, including the number of contracts and cooperative agreements entered into, the number of infants and toddlers contacted and receiving services for each year, and the estimated number of infants and toddlers needing services during the 2 years following the year in which the report is made. The Secretary of the Interior shall include a summary of this information on a biennial basis to the Secretary of Education along with such other information as required under section 1411(h)(3)(E) of this title. The Secretary of Education may require any additional information from the Secretary of the Interior.
 
 #### (6) Prohibited uses of funds
 
@@ -54,7 +54,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the sums made available under this subchapter for any fiscal year are insufficient to pay the full amounts that all States are eligible to receive under this subsection for such year, the Secretary shall ratably reduce the allotments to such States for such year.
+&emsp;&emsp;If the sums made available under this subchapter for any fiscal year are insufficient to pay the full amounts that all States are eligible to receive under this subsection forsuch year, the Secretary shall ratably reduce the allotments to such States for such year.
 
 #### (B) Additional funds
 
@@ -108,7 +108,7 @@ Public Law 95–134, referred to in subsec. (a)(2), is Pub. L. 95–134, Oct. 15
 
 #### Prior Provisions
 
-A prior section 1443, Pub. L. 91–230, title VI, §643, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 118, related to allocation of funds, prior to the generalamendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1443, Pub. L. 91–230, title VI, §643, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 118, related to allocation of funds, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1443, Pub. L. 91–230, title VI, §643, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§3(b), 12, Dec. 2, 1983, 97 Stat. 1358, 1373; Pub. L. 99–457, title III, §313, Oct. 8, 1986, 100 Stat. 1170; Pub. L. 100–630, title I, §105(c), Nov. 7, 1988, 102 Stat. 3299; Pub. L. 101–476, title IX, §901(b)(145), (146), Oct. 30, 1990, 104 Stat. 1149; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to requirement of the Secretary to convene panels of experts to evaluate proposals for projects, prior to repeal by Pub. L. 101–476, title V, §§503, 1001, Oct. 30, 1990, 104 Stat. 1138, 1151, effective Oct. 1, 1990.
 

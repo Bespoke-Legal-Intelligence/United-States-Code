@@ -64,7 +64,7 @@ Requirements for Centers.—To be designated as a center under this section, a f
 
 (d)
 
-Additional Resources.—The Secretary shall provide each center designated under this section such resources as the Secretary determines to be required by such center to achieve adequate capability of managing individuals with complex multi-trauma, including—
+Additional Resources.—The Secretary shall provide each center designated under thissection such resources as the Secretary determines to be required by such center to achieve adequate capability of managing individuals with complex multi-trauma, including—
 
 &emsp;(1) the upgrading of blind rehabilitation services by employing or securing the services of blind rehabilitation specialists;
 

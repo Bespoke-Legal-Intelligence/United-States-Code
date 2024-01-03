@@ -8,7 +8,7 @@ In addition to any other authority that the Secretary may have to defer principa
 
 #### (1) In general
 
-&emsp;Subject to the other provisions of this subsection, effective beginning on the date of the enactment of this subsection, there shall be ineffect a moratorium, with respect to farmer program loans made under subchapter I, II, or III, on all acceleration and foreclosure proceedings instituted by the Department of Agriculture against any farmer or rancher who—
+&emsp;Subject to the other provisions of this subsection, effective beginning on the date of the enactment of this subsection, there shall be in effect a moratorium, with respect to farmer program loans made under subchapter I, II, or III, on all acceleration and foreclosure proceedings instituted by the Department of Agriculture against any farmer or rancher who—
 
 &emsp;&emsp;(A) has pending against the Department a claim of program discrimination that is accepted by the Department as valid; or
 

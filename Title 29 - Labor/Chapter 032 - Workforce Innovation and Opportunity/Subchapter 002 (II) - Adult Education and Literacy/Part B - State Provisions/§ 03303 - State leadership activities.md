@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(J) Developing and piloting of strategies for improving teacher quality and retention.
 
-&emsp;&emsp;(K) The development and implementation of programs and services to meet the needs of adult learners with learning disabilities or English language learners, which may include new and promising assessment tools and strategies that are based on scientifically valid research, where appropriate, and identify the needs and capture the gains ofsuch students at the lowest achievement levels.
+&emsp;&emsp;(K) The development and implementation of programs and services to meet the needs of adult learners with learning disabilities or English language learners, which may include new and promising assessment tools and strategies that are based on scientifically valid research, where appropriate, and identify the needs and capture the gains of such students at the lowest achievement levels.
 
 &emsp;&emsp;(L) Outreach to instructors, students, and employers.
 

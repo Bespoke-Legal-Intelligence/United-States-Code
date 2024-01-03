@@ -10,7 +10,7 @@ The provisions of section 5551 shall be applicable to the bonds required by or g
 
 &emsp;&emsp;<b>(2) For penalty and forfeiture for failure or refusal to give bond, or for giving false, forged, or fraudulent bond, or carrying on the business of a distiller without giving bond, see sections 5601(a)(4), 5601(a)(5), 5601(b), and 5615(3).</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1353; amended Pub. L. 94–455, title XIX, §1905(b)(6)(B), Oct. 4, 1976, 90 Stat. 1823; Pub. L. 96–39, title VIII, §807(a)(17), July 26, 1979, 93 Stat. 282; Pub. L. 97–258, §3(f)(3), Sept. 13, 1982, 96 Stat. 1064.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1353; amended Pub. L. 94–455, title XIX,§1905(b)(6)(B), Oct. 4, 1976, 90 Stat. 1823; Pub. L. 96–39, title VIII, §807(a)(17), July 26, 1979, 93 Stat. 282; Pub. L. 97–258, §3(f)(3), Sept. 13, 1982, 96 Stat. 1064.)
 
 #### <b>Editorial Notes</b>
 

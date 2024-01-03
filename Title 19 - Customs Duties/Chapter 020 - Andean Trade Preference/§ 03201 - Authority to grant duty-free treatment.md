@@ -48,7 +48,7 @@ Pub. L. 107–210, div. C, title XXXI, §3102, Aug. 6, 2002, 116 Stat. 1023, pro
 
 &emsp;"(6) Renewal and enhancement of the Andean Trade Preference Act will bolster the confidence of domestic private enterprise and foreign investors in the economic prospects of the region, ensuring that legitimate private enterprise can be the engine of economic development and political stability in the region.
 
-&emsp;"(7) Each of the Andean beneficiary countries is committed to conclude negotiation of a Free TradeArea of the Americas by the year 2005, as a means of enhancing the economic security of the region.
+&emsp;"(7) Each of the Andean beneficiary countries is committed to conclude negotiation of a Free Trade Area of the Americas by the year 2005, as a means of enhancing the economic security of the region.
 
 &emsp;"(8) Temporarily enhancing trade benefits for Andean beneficiary countries will promote the growth of free enterprise and economic opportunity in these countries and serve the security interests of the United States, the region, and the world."
 

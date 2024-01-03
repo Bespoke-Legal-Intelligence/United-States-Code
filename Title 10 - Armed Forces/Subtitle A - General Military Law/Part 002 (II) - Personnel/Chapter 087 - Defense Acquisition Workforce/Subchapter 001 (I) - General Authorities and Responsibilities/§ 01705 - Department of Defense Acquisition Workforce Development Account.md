@@ -248,7 +248,7 @@ Pub. L. 110–181, div. A, title VIII, §852(b), Jan. 28, 2008, 122 Stat. 250, p
 
 #### Guidance
 
-Pub. L. 115–91, div. A, title VIII, §843(a)(2), Dec. 12, 2017, 131 Stat. 1480, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec.12, 2017\], the Secretary of Defense shall issue, and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the policy guidance required by subparagraph (E) of section 1705(e)(3) of title 10, United States Code, as added by paragraph (1)."
+Pub. L. 115–91, div. A, title VIII, §843(a)(2), Dec. 12, 2017, 131 Stat. 1480, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall issue, and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the policy guidance required by subparagraph (E) of section 1705(e)(3) of title 10, United States Code, as added by paragraph (1)."
 
 #### Plan Required for Temporary Members of Defense Acquisition Workforce
 

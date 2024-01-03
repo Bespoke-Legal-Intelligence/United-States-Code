@@ -16,7 +16,7 @@ Notwithstanding any provision of chapter 83 of title 5, the annuity under subcha
 
 #### (c) Annuities deemed annuities under section 8339 of title 5
 
-For purposes of subsections (f) through (m) of section 8339 of title 5, an annuity computed under this section shall be deemed to be an annuity computed under subsections (a) and (o) <sup>1</sup> of section 8339 of title 5.
+For purposes of subsections (f) through (m) of section 8339 of title 5, an annuity computedunder this section shall be deemed to be an annuity computed under subsections (a) and (o) <sup>1</sup> of section 8339 of title 5.
 
 #### (d) Officers and employees entitled to greater annuities under section 8339 of title 5
 

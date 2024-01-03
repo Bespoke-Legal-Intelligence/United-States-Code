@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary to take action
 
-Notwithstanding any other provision of law, whenever the Secretary of Agriculture determines that an action authorized under subsection (c), (d), or (e) will reduce the total of the direct and indirect costs to the Federal Government of a commodity program administered by the Secretary without adversely affecting income to small- and medium-sized producers participating in such program, the Secretary shall take such action with respect to the commodity program involved.
+Notwithstanding any other provision of law, whenever the Secretary of Agriculture determines that an action authorized under subsection (c), (d), or (e) will reduce the total of the direct and indirect costs to the Federal Government of a commodity program administered by the Secretary without adversely affecting income to small- and medium-sized producers participating in such program, the Secretary shalltake such action with respect to the commodity program involved.
 
 #### (b) Reservation of Secretary's right to reopen or change contracts if producer agrees
 
@@ -14,7 +14,7 @@ When a nonrecourse loan program is in effect for a crop of a commodity, the Secr
 
 #### (d) Reduction in settlement price of nonrecourse loans
 
-When the domestic market price of a commodity for which a nonrecourse loan program (including the program authorized by section1445e of this title) is in effect is insufficient to cover the principal and accumulated interest on a loan made under such program, thereby encouraging default by a producer, the Secretary may provide for settlement of such loan and redemption by the producer of the commodity securing such loan for less than the total of the principal and all interest accumulated thereon if the Secretary determines that such reduction in the settlement price will yield benefits to the Federal Government due to—
+When the domestic market price of a commodity for which a nonrecourse loan program (including the program authorized by section 1445e of this title) is in effect is insufficient to cover the principal and accumulated interest on a loan made under such program, thereby encouraging default by a producer, the Secretary may provide for settlement of such loan and redemption by the producer of the commodity securing such loan for less than the total of the principal and all interest accumulated thereon if the Secretary determines that such reduction in the settlement price will yield benefits to the Federal Government due to—
 
 &emsp;(1) receipt by the Federal Government of a portion rather than none of the accumulated interest;
 

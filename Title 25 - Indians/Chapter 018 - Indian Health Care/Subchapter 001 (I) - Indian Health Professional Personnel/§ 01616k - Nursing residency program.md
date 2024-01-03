@@ -12,7 +12,7 @@ Such program shall include a combination of education and work study in an India
 
 An individual who participates in a program under subsection (a), where the educational costs are paid by the Service, shall incur an obligation to serve in an Indian health program for a period of obligated service equal to at least three times the period of time during which the individual participates in such program. In the event that the individual fails to complete such obligated service, the United States shall be entitled to recover from such individual an amount determined in accordance with the formula specified in subsection (l) of section 1616a of this title in the manner provided for in such subsection.
 
-(Pub. L. 94–437, title I, §118, as added Pub. L. 102–573, title I, §104(e), Oct. 29, 1992, 106 Stat.4534; amended Pub. L. 103–435, §16(b), Nov. 2, 1994, 108 Stat. 4573.)
+(Pub. L. 94–437, title I, §118, as added Pub. L. 102–573, title I, §104(e), Oct. 29, 1992, 106 Stat. 4534; amended Pub. L. 103–435, §16(b), Nov. 2, 1994, 108 Stat. 4573.)
 
 #### <b>Editorial Notes</b>
 

@@ -12,7 +12,7 @@
 
 #### (b) Limitations on authorization of appropriations
 
-For payment by the Secretary of the Treasury of the subscription of the United States for shares described in subsection (a), there are authorized to be appropriated $1,167,010,000 without fiscal year limitation.
+For payment by the Secretary of the Treasury of the subscription of the United States forshares described in subsection (a), there are authorized to be appropriated $1,167,010,000 without fiscal year limitation.
 
 #### (c) Disposition of net income distributions by Bank
 
@@ -24,7 +24,7 @@ Any payment made to the United States by the Bank as a distribution of net incom
 
 #### Codification
 
-Subsecs. (a) to (c) were in the original (A) to (C), respectively, and pars. (1) and (2) of subsec. (a) were inthe original (i) and (ii), respectively, and were editorially redesignated for purposes of codification.
+Subsecs. (a) to (c) were in the original (A) to (C), respectively, and pars. (1) and (2) of subsec. (a) were in the original (i) and (ii), respectively, and were editorially redesignated for purposes of codification.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

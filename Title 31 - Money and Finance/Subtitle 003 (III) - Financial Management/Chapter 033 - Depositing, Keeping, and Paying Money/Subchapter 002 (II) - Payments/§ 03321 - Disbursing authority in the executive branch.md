@@ -84,7 +84,7 @@ Pub. L. 115–91, div. A, title XVIII, Dec. 12, 2017, 131 Stat. 1814, provided t
 
 &emsp;"(1)
 
-Improper payment.—The term 'improper payment' has the meaning given the term in \[former\] section 2 of the Improper Payments Information Act of 2002 \[Pub. L. 107–300\] (\[former\] 31 U.S.C. 3321 note \[see 33 U.S.C. 3351\]).
+Improper payment.—The term 'improper payment' has the meaning given the term in \[former\]section 2 of the Improper Payments Information Act of 2002 \[Pub. L. 107–300\] (\[former\] 31 U.S.C. 3321 note \[see 33 U.S.C. 3351\]).
 
 &emsp;"(2)
 
@@ -108,7 +108,7 @@ Strategy.—Not later than 180 days after the date of the enactment of this Act 
 
 &emsp;"(2) identifying potential opportunities for agencies to further leverage administrative process streamlining and cost reduction from purchase and travel card use, including additional agency opportunities for card-based strategic sourcing;
 
-&emsp;"(3) developing a set of purchase and travel card metrics and benchmarks for high-risk activities, which shall assist agencies in identifying potential emphasis areas for their purchase and travel card management and oversight activities, including those required by the Government Charge Card Abuse Prevention Act of 2012 (Public Law 112–194) \[see ShortTitle of 2012 Amendment note set out under section 101 of Title 41, Public Contracts\]; and
+&emsp;"(3) developing a set of purchase and travel card metrics and benchmarks for high-risk activities, which shall assist agencies in identifying potential emphasis areas for their purchase and travel card management and oversight activities, including those required by the Government Charge Card Abuse Prevention Act of 2012 (Public Law 112–194) \[see Short Title of 2012 Amendment note set out under section 101 of Title 41, Public Contracts\]; and
 
 &emsp;"(4) developing a plan, which may be based on existing capabilities, to create a library of analytics tools and data sources for use by Federal agencies (including inspectors general of those agencies).
 
@@ -156,7 +156,7 @@ Membership.—The purchase and travel charge card data management group shall me
 
 "(a)
 
-General Services Administration Report.—Not later than one year after the date of the enactment of this Act \[Dec. 12, 2017\], the Administrator for General Services shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on the implementation of this title, including the metrics used in determining whether the analytic and benchmarking efforts have reduced, or contributed to the reduction of, questionable transactions or improper payments as well as improved utilization of card-based payment products.
+General Services Administration Report.—Not later than one year after the date of the enactment of this Act \[Dec. 12, 2017\], the Administrator for General Services shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives a report on the implementation of this title, including the metrics used in determining whether the analytic and benchmarking efforts have reduced, or contributed to the reduction of, questionable transactions or improper payments as well as improved utilization of card-based payment products.
 
 "(b)
 
@@ -164,11 +164,11 @@ Agency Reports and Consolidated Report to Congress.—Not later than one year af
 
 "(c)
 
-Office of Management and Budget Report to Congress.—The Director of the Office of Management and Budget shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a consolidated report of agency activities to implement this title, which may be included as part of another report submitted by the Director to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives.
+Office of Management and Budget Report to Congress.—The Director of the Office of Management and Budget shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives a consolidated report of agency activities to implement this title, which may be included as part of another report submitted by the Director to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives.
 
 "(d)
 
-Report on Additional Savings Opportunities.—Not later than one year after the date of the enactment of this Act, the Administrator of General Services shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report identifying and exploring further potential savings opportunities for government agencies under the Federal charge card programs. This report may be combined with the report required under subsection (a)."
+Report on Additional Savings Opportunities.—Not later than one year after the date of the enactment of this Act, the Administrator of General Services shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate andthe Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives a report identifying and exploring further potential savings opportunities for government agencies under the Federal charge card programs. This report may be combined with the report required under subsection (a)."
 
 #### Fraud Reduction and Data Analytics
 
@@ -188,7 +188,7 @@ Pub. L. 111–204, §2(h), July 22, 2010, 124 Stat. 2228, as amended by Pub. L. 
 
 #### Compliance
 
-Pub. L. 111–204, §3, July 22, 2010, 124 Stat. 2232, as amended by Pub. L. 112–248, §3(c)(2), Jan. 10, 2013, 126Stat. 2392, which provided for compliance procedures and standards related to the recovery of improper payments, was repealed by Pub. L. 116–117, §3(a)(2), Mar. 2, 2020, 134 Stat. 133.
+Pub. L. 111–204, §3, July 22, 2010, 124 Stat. 2232, as amended by Pub. L. 112–248, §3(c)(2), Jan. 10, 2013, 126 Stat. 2392, which provided for compliance procedures and standards related to the recovery of improper payments, was repealed by Pub. L. 116–117, §3(a)(2), Mar. 2, 2020, 134 Stat. 133.
 
 #### Improper Payments
 

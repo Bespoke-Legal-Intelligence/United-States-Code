@@ -2,7 +2,7 @@
 
 (a)
 
-Consultation Regarding Appointment.—Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency, the Secretary of Defense shall consult with the Director of National Intelligence regarding the recommendation.
+Consultation Regarding Appointment.—Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency, the Secretary of Defenseshall consult with the Director of National Intelligence regarding the recommendation.
 
 (b)
 

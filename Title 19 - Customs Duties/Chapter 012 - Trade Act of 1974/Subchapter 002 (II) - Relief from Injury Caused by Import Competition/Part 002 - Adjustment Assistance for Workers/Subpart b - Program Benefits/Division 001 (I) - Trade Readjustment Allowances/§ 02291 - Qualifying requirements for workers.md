@@ -228,7 +228,7 @@ Subsec. (c). Pub. L. 107–210, §115(a), inserted heading and amended text gene
 
 &emsp;"(B) has, after the date on which the worker became totally separated, or partially separated, from the adversely affected employment, completed a job search program approved by the Secretary under section 2297(c) of this title."
 
-Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, substituting provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in training program, and period of applicability, for provisions relating to mandatory training or job-search.
+Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, substituting provisions relating towithholding of trade readjustment allowance pending beginning or resumption of participation in training program, and period of applicability, for provisions relating to mandatory training or job-search.
 
 Subsec. (c). Pub. L. 100–418, §1423(a)(3), amended subsec. (c) generally, substituting provisions relating to approval of training programs, written certifications, revocation of certification, and annual report, for provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in job search program.
 
@@ -300,7 +300,7 @@ Pub. L. 97–35, title XXV, §2514, Aug. 13, 1981, 95 Stat. 889, as amended by P
 
 "(2)(A) The amendments made by section 2501 \[amending section 2272 of this title\] shall apply with respect to all petitions for certification filed under section 221 of the Trade Act of 1974 \[section 2271 of this title\] on or after October 1, 1983.
 
-"(B) The amendments made by sections 2503, 2504, 2505, and 2511 \[amending this section, sections 2292, 2293, and 2319 of this title, and provisions set out as a note under section 3304 of Title 26, Internal Revenue Code\] shall apply with respect to trade readjustment allowances payable for weeks of unemployment which begin after September 30, 1981.
+"(B) The amendments made by sections 2503, 2504, 2505, and 2511 \[amending this section, sections 2292, 2293, and 2319 of this title, and provisions set out as a note under section 3304 of Title 26, Internal Revenue Code\]shall apply with respect to trade readjustment allowances payable for weeks of unemployment which begin after September 30, 1981.
 
 "(C) The amendments made by sections 2506, 2507, and 2508 \[amending sections 2296, 2297, and 2298 of this title\] shall take effect with respect to determinations regarding training and applications for allowances under sections 236, 237, and 238 of the Trade Act of 1974 \[sections 2296, 2297, and 2298 of this title\] that are made or filed after September 30, 1981.
 

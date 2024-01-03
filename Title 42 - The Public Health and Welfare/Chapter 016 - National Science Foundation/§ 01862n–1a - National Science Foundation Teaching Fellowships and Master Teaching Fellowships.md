@@ -186,7 +186,7 @@ An individual awarded a fellowship under this section shall serve as a mathemati
 
 &emsp;If a circumstance described in subparagraph (D) or (E) of section 1862n–1(g)(1) of this title occurs after the completion of 1 year of a service obligation under this section—
 
-&emsp;&emsp;(A) for a National Science Foundation Teaching Fellow, the total amount of fellowship award received by the individual under this section while enrolled in the master's degree program, reduced by one-fourth of the total amount for each year of service completed, plus one-half of the total teaching fellowship salary supplements received by such individual under this section, shallbe repaid or such amount shall be treated as a loan to be repaid in accordance with section 1862n–1(g)(1)(C) of this title; and
+&emsp;&emsp;(A) for a National Science Foundation Teaching Fellow, the total amount of fellowship award received by the individual under this section while enrolled in the master's degree program, reduced by one-fourth of the total amount for each year of service completed, plus one-half of the total teaching fellowship salary supplements received by such individual under this section, shall be repaid or such amount shall be treated as a loan to be repaid in accordance with section 1862n–1(g)(1)(C) of this title; and
 
 &emsp;&emsp;(B) for a National Science Foundation Master Teaching Fellow, the total amount of teaching fellowship salary supplements received by the individual under this section, reduced by one-half, shall be repaid or such amount shall be treated as a loan to be repaid in accordance with section 1862n–1(g)(1)(C) of this title.
 

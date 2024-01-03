@@ -22,3 +22,9 @@ Not later than 90 days after December 20, 2019, the Security Executive Agent and
 
 (Pub. L. 116–92, div. E, title LIV, §5402, Dec. 20, 2019, 133 Stat. 2143.)
 
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Executive Order 12829, referred to in subsecs. (a)(2) and (b), is Ex. Ord. No. 12829, Jan. 6, 1993, 58 F.R. 3479, which is set out as a note under section 3161 of this title.
+

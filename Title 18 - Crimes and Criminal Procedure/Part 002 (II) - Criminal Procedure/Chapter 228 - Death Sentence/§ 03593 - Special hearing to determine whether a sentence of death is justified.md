@@ -8,7 +8,7 @@ Notice by the Government.—If, in a case involving an offense described in sect
 
 &emsp;(2) setting forth the aggravating factor or factors that the government, if the defendant is convicted, proposes to prove as justifying a sentence of death.
 
-> The factors for which notice is provided under this subsection may include factors concerning the effect of the offense on the victim and the victim's family, and may include oral testimony, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim and the victim's family, and any other relevant information. The court may permit the attorney for the government to amend the notice upon a showing of good cause.
+> The factors for which notice is provided under this subsection may include factors concerningthe effect of the offense on the victim and the victim's family, and may include oral testimony, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim and the victim's family, and any other relevant information. The court may permit the attorney for the government to amend the notice upon a showing of good cause.
 
 (b)
 

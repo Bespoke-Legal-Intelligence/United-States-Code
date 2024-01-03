@@ -10,7 +10,7 @@
 
 (b) With respect to acts of espionage involving or directed at the United States, the Attorney General may reward any individual who furnishes information—
 
-&emsp;(1) leading to the arrest or conviction, in any country, of any individual or individuals forcommission of an act of espionage against the United States;
+&emsp;(1) leading to the arrest or conviction, in any country, of any individual or individuals for commission of an act of espionage against the United States;
 
 &emsp;(2) leading to the arrest or conviction, in any country, of any individual or individuals for conspiring or attempting to commit an act of espionage against the United States; or
 

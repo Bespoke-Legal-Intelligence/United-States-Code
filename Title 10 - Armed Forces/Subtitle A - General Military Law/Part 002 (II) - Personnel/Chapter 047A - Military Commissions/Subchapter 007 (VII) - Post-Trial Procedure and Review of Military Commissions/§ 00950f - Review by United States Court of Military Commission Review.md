@@ -56,5 +56,5 @@ A prior section 950f, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–232, div. A, title V, §541(b), Aug. 13, 2018, 132 Stat. 1762, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to each judge of the United States Court of Military Commission Review serving on that court on the date of the enactment of this Act \[Aug. 13, 2018\] and each judge assigned or appointed to that court on or after such date."
+Pub. L. 115–232, div. A, title V, §541(b), Aug. 13, 2018, 132 Stat. 1762, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to each judge of the United States Court of Military Commission Review serving on that court on the date of theenactment of this Act \[Aug. 13, 2018\] and each judge assigned or appointed to that court on or after such date."
 

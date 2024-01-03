@@ -104,7 +104,7 @@ The Secretary of Health and Human Services (referred to in this section as the "
 
 &emsp;&emsp;(A) prevention of substance misuse and abuse by children, adolescents, and young adults, which may include primary prevention;
 
-&emsp;&emsp;(B) recovery support services for children, adolescents, and young adults, which mayinclude counseling, job training, linkages to community-based services, family support groups, peer mentoring, and recovery coaching; or
+&emsp;&emsp;(B) recovery support services for children, adolescents, and young adults, which may include counseling, job training, linkages to community-based services, family support groups, peer mentoring, and recovery coaching; or
 
 &emsp;&emsp;(C) treatment or referrals for treatment of substance use disorders, which may include the use of medication-assisted treatment, as appropriate.
 
@@ -161,10 +161,4 @@ The Secretary of Health and Human Services (referred to in this section as the "
 Section is comprised of section 7102 of Pub. L. 115–271. Subsec. (a) of section 7102 of Pub. L. 115–271 amended section 290bb–7 of this title.
 
 Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Public Health Service Act which comprises this chapter.
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

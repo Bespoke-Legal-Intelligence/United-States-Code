@@ -8,7 +8,7 @@
 
 #### (2) General assistance
 
-&emsp;In addition to amounts otherwise available, there is appropriated to the Administrator forfiscal year 2022, out of any money in the Treasury not otherwise appropriated, $11,970,000,000, to remain available until September 30, 2024, to make grants, on a competitive basis and beginning not later than 180 calendar days after August 16, 2022, to eligible recipients for the purposes of providing financial assistance and technical assistance in accordance with subsection (b).
+&emsp;In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $11,970,000,000, to remain available until September 30, 2024, to make grants, on a competitive basis and beginning not later than 180 calendar days after August 16, 2022, to eligible recipients for the purposes of providing financial assistance and technical assistance in accordance with subsection (b).
 
 #### (3) Low-income and disadvantaged communities
 
@@ -34,7 +34,7 @@ An eligible recipient that receives a grant pursuant to subsection (a) shall use
 
 #### (2) Indirect investment
 
-&emsp;The eligible recipient shall provide funding and technical assistance to establish new or support existing public, quasi-public, not-for-profit, or nonprofit entities that provide financial assistance to qualified projects at the State, local, territorial, or Tribal level or in the District of Columbia, including community- and low-income-focused lenders and capital providers.
+&emsp;The eligible recipient shall provide funding and technical assistance to establish new orsupport existing public, quasi-public, not-for-profit, or nonprofit entities that provide financial assistance to qualified projects at the State, local, territorial, or Tribal level or in the District of Columbia, including community- and low-income-focused lenders and capital providers.
 
 #### (c) Definitions
 

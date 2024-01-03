@@ -108,11 +108,5 @@ The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92
 
 Section was enacted as part of the Water and Waste Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Public Health Service Act which comprises this chapter.
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

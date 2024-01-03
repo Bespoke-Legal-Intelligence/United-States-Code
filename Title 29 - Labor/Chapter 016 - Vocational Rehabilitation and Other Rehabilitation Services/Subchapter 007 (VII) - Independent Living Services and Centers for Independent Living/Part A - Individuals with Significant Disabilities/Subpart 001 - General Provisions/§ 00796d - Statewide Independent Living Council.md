@@ -136,7 +136,7 @@ The Council is authorized to hold such hearings and forums as the Council may de
 
 #### (1) In general
 
-&emsp;The Council shall prepare, in conjunction with the designated State entity, a plan for the provision of such resources, including such staff and personnel, as may be necessary and sufficient to carry out the functions of the Council under this section, with funds made available under this part, and under section 730 of this title (consistent with section 721(a)(18) of this title), and from other public and private sources. The resource plan shall, to the maximum extent possible, rely on theuse of resources in existence during the period of implementation of the plan.
+&emsp;The Council shall prepare, in conjunction with the designated State entity, a plan for the provision of such resources, including such staff and personnel, as may be necessary and sufficient to carry out the functions of the Council under this section, with funds made available under this part, and under section 730 of this title (consistent with section 721(a)(18) of this title), and from other public and private sources. The resource plan shall, to the maximum extent possible, rely on the use of resources in existence during the period of implementation of the plan.
 
 #### (2) Supervision and evaluation
 

@@ -10,7 +10,7 @@ General Authority.—The Maritime Administrator may make grants to, and enter in
 
 &emsp;&emsp;(A) the one-year period beginning on the date of a declaration of an emergency referred to in subparagraph (A) or (B) of subsection (j)(4); and
 
-&emsp;&emsp;(B) an additional one-year period beginning one year after the date of an emergency referred to in subparagraph (A) or (B) of subsection (j)(4), if the Maritime Administrator, in consultation with the Administrator of the Federal Emergency Management Administration,<sup>1</sup> determines there is a compelling need arising out of the emergency for which the declaration is made.
+&emsp;&emsp;(B) an additional one-year period beginning one year after the date of an emergency referred to in subparagraph (A) or (B) of subsection (j)(4), if the Maritime Administrator, in consultation with the Administrator of the Federal Emergency Management Agency, determines there is a compelling need arising out of the emergency for which the declaration is made.
 
 (b)
 
@@ -22,7 +22,7 @@ In general.—The Maritime Administrator shall determine an appropriate method f
 
 &emsp;(2)
 
-Priority.—To the extent practicable, in allocating and distributing funds under this section, the Maritime Administrator shall give priority to applications submitted by eligible State or Tribal entities.
+Priority.—To the extent practicable, in allocating and distributing funds under thissection, the Maritime Administrator shall give priority to applications submitted by eligible State or Tribal entities.
 
 (c)
 
@@ -86,7 +86,7 @@ Eligible state or tribal entity.—The term "eligible State or Tribal entity" me
 
 &emsp;(2)
 
-Eligible entity.—The term "eligible entity" means a public or private entity that is created or organized in the United States or under the laws of the United States, with significant operations in and a majority of itsemployees based in the United States, that is engaged in—
+Eligible entity.—The term "eligible entity" means a public or private entity that is created or organized in the United States or under the laws of the United States, with significant operations in and a majority of its employees based in the United States, that is engaged in—
 
 &emsp;&emsp;(A) vessel construction, transportation by water, or support activities for transportation by water with an assigned North American Industry Classification System code beginning with 3366, 483, 4883, or 6113, or in the case of such construction, transportation, or support activities conducted by a fish processing vessel, such an assigned code beginning with 3117; or
 
@@ -128,7 +128,7 @@ Eligible operating costs.—The term "eligible operating costs" means costs rela
 
 Emergency.—The term "emergency" means a natural disaster affecting a wide area (such as a flood, hurricane, tidal wave, earthquake, severe storm, or landslide) or a catastrophic failure from any external cause, that impacts the United States maritime transportation system and as a result of which—
 
-&emsp;&emsp;(A) the Governor of a State has declared an emergency and the Maritime Administrator, in consultation with the Administrator of the Federal Emergency Management Administration,<sup>1</sup> has concurred in the declaration;
+&emsp;&emsp;(A) the Governor of a State has declared an emergency and the Maritime Administrator, in consultation with the Administrator of the Federal Emergency Management Agency, has concurred in the declaration;
 
 &emsp;&emsp;(B) the President has declared a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170);
 
@@ -136,7 +136,7 @@ Emergency.—The term "emergency" means a natural disaster affecting a wide area
 
 &emsp;&emsp;(D) a public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) is in effect.
 
-(Added Pub. L. 116–283, div. C, title XXXV, §3505(a), Jan. 1, 2021, 134 Stat. 4402.)
+(Added Pub. L. 116–283, div. C, title XXXV, §3505(a), Jan. 1, 2021, 134 Stat. 4402; amendedPub. L. 118–31, div. C, title XXXV, §3514(e), Dec. 22, 2023, 137 Stat. 811.)
 
 #### <b>Editorial Notes</b>
 
@@ -146,11 +146,15 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 The National Emergencies Act, referred to in subsec. (j)(4)(C), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
+#### Amendments
+
+<b>2023</b>—Subsec. (a)(2)(B). Pub. L. 118–31, §3514(e)(1), substituted "Federal Emergency Management Agency" for "Federal Emergency Management Administration".
+
+Subsec. (j)(4)(A). Pub. L. 118–31, §3514(e)(2), substituted "Federal Emergency Management Agency" for "Federal Emergency Management Administration".
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Inclusion of COVID–19 Pandemic Public Health Emergency
 
 Pub. L. 116–283, div. C, title XXXV, §3505(c), Jan. 1, 2021, 134 Stat. 4405, provided that: "For purposes of section 50308 of title 46, United States Code, as added by subsection (a), the public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) resulting from the COVID–19 pandemic shall be treated as an emergency."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "Agency,".</i>
 

@@ -10,7 +10,7 @@
 
 &emsp;(B) each period of military or naval service performed after December 31, 1956, and before the separation on which the entitlement to annuity under this part is based, only if a deposit (with interest if any is required) is made with respect to that period, as provided in section 4045(e) of this title.
 
-(3) The service of an individual who first became a participant on or after October 17, 1983,with credit under this section for civilian service performed prior to October 1982, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1956, to subsection (j).
+(3) The service of an individual who first became a participant on or after October 17, 1983, with credit under this section for civilian service performed prior to October 1982, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1956, to subsection (j).
 
 (4) The service of an individual who first became a participant before October 17, 1983, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1976, to subsection (j).
 
@@ -22,7 +22,7 @@ In computing any annuity under this part, the total service of a participant who
 
 (1) A participant who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of Government employees may, within 60 days after entering on that leave without pay, file with the employing agency an election to receive full retirement credit for such periods of leave without pay and arrange to pay concurrently into the Fund through the employing agency, amounts equal to the retirement deductions and agency contributions on the Foreign Service salary rate that would be applicable if the participant were in a pay status. If the election and all payments provided by this subsection are not made for the periods of such leave without pay occurring after November 7, 1976, the participant may not receive any credit for such periods of leave without pay occurring after such date.
 
-(2) A participant may make a special contribution for any period or periods of approved leave without pay while serving before November 7, 1976, as a full-time officer or employee of an organization composed primarily of Government employees. Any such contribution shall be based upon the suspended Foreign Service salary rate and shall be computed in accordance with section 4045 of this title. A participant who makes such contributions shall be allowed full retirement credit for the period or periods of leave without pay. If this contribution is not made, up to 6 months' retirement credit shall be allowed for such periods of leave without pay each calendar year.
+(2) A participant may make a special contribution for any period or periods of approved leave without pay while serving before November 7,1976, as a full-time officer or employee of an organization composed primarily of Government employees. Any such contribution shall be based upon the suspended Foreign Service salary rate and shall be computed in accordance with section 4045 of this title. A participant who makes such contributions shall be allowed full retirement credit for the period or periods of leave without pay. If this contribution is not made, up to 6 months' retirement credit shall be allowed for such periods of leave without pay each calendar year.
 
 #### (d) Special contribution in repayment of refund of retirement contributions
 
@@ -70,7 +70,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 (2) Section 8332(j) of title 5 shall not apply with respect to:
 
-&emsp;(A) the service of any individual who first became a participant on or after October 17, 1983, without any credit under this section for civilian service performed prior to October 1982; or
+&emsp;(A) the service of any individual who first became a participant on or after October 17, 1983, without any credit under this section forcivilian service performed prior to October 1982; or
 
 &emsp;(B) any military or naval service performed prior to 1957 by an individual who first became a participant on or after October 17, 1983, with credit under this section for civilian service performed prior to October 1982, or any period of military or naval service performed after 1956 with respect to which the participant has made a contribution (with interest if any is required) under section 4045(e) of this title; or
 
@@ -90,7 +90,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 &emsp;"(2) the denominator of which is the total of all wages deemed additional wages described in paragraph (1) of this subsection plus all other wages (within the meaning of section 209 of the Social Security Act \[42 U.S.C. 409\]) and all self-employment income (within the meaning of section 211(b) of such Act \[42 U.S.C. 411(b)\]) of such individual credited for years after 1936 and before the calendar year in which the determination month occurs, up to the contribution and benefit base (or such other amount referred to in such section 215(e)(1) of such Act \[42 U.S.C. 415(e)(1)\]) for each such year.
 
-"(c) Subsection (b) shall not reduce the annuity of any individual below the amount of the annuity which would be payable under chapter 8 of the Act\[this subchapter\] to the individual for the determination month if section 8332(j) of Title 5 of the United States Code applied to the individual for such month.
+"(c) Subsection (b) shall not reduce the annuity of any individual below the amount of the annuity which would be payable under chapter 8 of the Act \[this subchapter\] to the individual for the determination month if section 8332(j) of Title 5 of the United States Code applied to the individual for such month.
 
 "(d) For purposes of this section, the term 'determination month' means—
 

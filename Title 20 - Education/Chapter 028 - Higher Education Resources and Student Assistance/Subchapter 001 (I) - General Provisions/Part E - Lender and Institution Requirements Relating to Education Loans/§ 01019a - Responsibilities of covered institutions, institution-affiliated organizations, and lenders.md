@@ -60,7 +60,7 @@
 
 #### (i) Federal education loans
 
-&emsp;&emsp;&emsp;For each education loan that is made, insured, or guaranteed under part B or D of subchapter IV (other than a loan made under section 1078–3 of this title or a Federal Direct Consolidation Loan), at or prior to the time the lender disburses such loan, the lender shall provide the prospective borrower or borrower, in writing (including through electronic means), with the disclosures described in subsections (a) and (c) of section 1083 of this title.
+&emsp;&emsp;&emsp;For each education loan that is made, insured, or guaranteed under part B or D of subchapter IV (other than a loan made under section 1078–3 of this title or a Federal Direct Consolidation Loan), at or prior to the time the lender disburses such loan, the lender shall provide the prospective borrower or borrower, in writing (including through electronic means), withthe disclosures described in subsections (a) and (c) of section 1083 of this title.
 
 #### (ii) Private education loans
 

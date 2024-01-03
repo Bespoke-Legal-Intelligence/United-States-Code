@@ -42,7 +42,7 @@ Any vacancy occurring in the membership of the Council shall be filled in the sa
 
 #### (g) Detail of Federal employees
 
-On the request of the Council, the Secretary may detail, with or without reimbursement, anyof the personnel of the Department of Health and Human Services to the Council to assist the Council in carrying out its duties. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
+On the request of the Council, the Secretary may detail, with or without reimbursement, any of the personnel of the Department of Health and Human Services to the Council to assist the Council in carrying out its duties. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
 
 #### (h) Technical assistance
 
@@ -58,7 +58,7 @@ Section 1013 of title 5 shall not apply with respect to the Council.
 
 #### Prior Provisions
 
-A prior section 765, Pub. L. 93–112, title II, §205, as added Pub. L. 102–569, title II, §206(a), Oct. 29, 1992, 106 Stat. 4409, related to the Rehabilitation Research Advisory Council, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 765, Pub. L. 93–112, title II, §205, as added Pub. L. 102–569, title II, §206(a), Oct. 29, 1992, 106Stat. 4409, related to the Rehabilitation Research Advisory Council, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
 

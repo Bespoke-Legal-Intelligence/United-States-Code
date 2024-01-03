@@ -36,7 +36,7 @@ Because progress toward a Cyprus settlement is a high priority of United States 
 
 #### (d) Certification by President to Congress of assistance to Greece and Turkey
 
-In order to ensure that United States assistance is furnished consistent with the policies established in this section, the President shall, whenever requesting any funds for security assistance under this chapter or the Arms ExportControl Act \[22 U.S.C. 2751 et seq.\] for Greece and Turkey, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate his certification, with a full explanation thereof, that the furnishing of such assistance will be consistent with the principles set forth in subsection (b). The President shall also submit such a certification with any notification to the Congress, pursuant to section 36(b) of the Arms Export Control Act \[22 U.S.C. 2776(b)\], of a proposed sale of defense articles or services to Greece or Turkey.
+In order to ensure that United States assistance is furnished consistent with the policies established in this section, the President shall, whenever requesting any funds for security assistance under this chapter or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] for Greece and Turkey, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate his certification, with a full explanation thereof, that the furnishing of such assistance will be consistent with the principles set forth in subsection (b). The President shall also submit such a certification with any notification to the Congress, pursuant to section 36(b) of the Arms Export Control Act \[22 U.S.C. 2776(b)\], of a proposed sale of defense articles or services to Greece or Turkey.
 
 #### (e) Arms sales agreements to prohibit transfer to Cyprus
 
@@ -124,7 +124,7 @@ Pub. L. 116–94, div. J, title II, Dec. 20, 2019, 133 Stat. 3048, provided that
 
 &emsp;"(7) The United States, Israel, Greece, and Cyprus oppose any action in the Eastern Mediterranean and the Aegean Sea that could challenge stability, violate international law, or undermine good neighborly relations, and in a joint declaration on March 21, 2019, agreed to 'defend against external malign influences in the Eastern Mediterranean and the broader Middle East'.
 
-&emsp;"(8) The recent discovery of what may be the region's largest natural gas field off the Egyptian coastand the newest discoveries of natural gas off the coast of Cyprus could represent a significant and positive development for the Eastern Mediterranean and the Middle East, enhancing the region's strategic energy significance.
+&emsp;"(8) The recent discovery of what may be the region's largest natural gas field off the Egyptian coast and the newest discoveries of natural gas off the coast of Cyprus could represent a significant and positive development for the Eastern Mediterranean and the Middle East, enhancing the region's strategic energy significance.
 
 &emsp;"(9) It is in the national security interest of the United States to promote, achieve, and maintain energy security among, and through cooperation with, allies.
 
@@ -240,7 +240,7 @@ Exclusion of the Government of the Republic of Cyprus From Certain Related Regul
 
 &emsp;"(1)
 
-In general.—Subject to subsection (d) and except as provided in paragraph (2), beginning on the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of State shall not apply a policy of denial for exports, re-exports, or transfers of defense articles and defense services destined for or originating in the Republic of Cyprus if—
+In general.—Subject to subsection (d) and except as provided in paragraph (2), beginning on the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of State shall not apply a policy of denial for exports, re-exports, or transfers of defense articlesand defense services destined for or originating in the Republic of Cyprus if—
 
 &emsp;&emsp;"(A) the request is made by or on behalf of the Government of the Republic of Cyprus; and
 
@@ -356,7 +356,7 @@ Form.—The report required under subsection (a) shall be submitted in unclassif
 
 "(a)
 
-In General.—Not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of State, in consultation with the Secretary of Defense and the Secretary of Energy, shall submit to the appropriate congressional committees a report listing incidents since January 1, 2017, determined by the Secretary of State to interfere in efforts by the Republic of Cyprus to explore and exploit natural resources in its Exclusive Economic Zone.
+In General.—Not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of State, in consultation with the Secretaryof Defense and the Secretary of Energy, shall submit to the appropriate congressional committees a report listing incidents since January 1, 2017, determined by the Secretary of State to interfere in efforts by the Republic of Cyprus to explore and exploit natural resources in its Exclusive Economic Zone.
 
 "(b)
 

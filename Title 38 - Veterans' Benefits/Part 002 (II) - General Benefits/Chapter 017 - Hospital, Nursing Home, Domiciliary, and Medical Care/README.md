@@ -72,12 +72,7 @@
 | [1722\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001722%20-%20Determination%20of%20inability%20to%20defray%20necessary%20expenses%3B%20income%20thresholds.md) | Determination of inability to defray necessary expenses; income thresholds. |
 | [1722A.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001722A%20-%20Copayment%20for%20medications.md) | Copayment for medications. |
 | [1722B.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001722B%20-%20Copayments%20waiver%20of%20collection%20of%20copayments%20for%20telehealth%20and%20telemedicine%20visits%20of%20veterans.md) | Copayments: waiver of collection of copayments for telehealth and telemedicine visits of veterans. |
-| [1722C.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001722C%20-%20Copayments%20prohibition%20on%20collection%20of%20copayments%20for%20first%20three%20mental%20health%20care%20outpatient%20visits%20of%20veterans.md) | Copayments: prohibition on collection of copayments for first three mental health care outpatient visits of veterans<sup>2</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [1722C.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001722C%20-%20Copayments%20prohibition%20on%20collection%20of%20copayments%20for%20first%20three%20mental%20health%20care%20outpatient%20visits%20of%20veterans.md) | Copayments: prohibition on collection of copayments for first three mental health care outpatient visits of veterans. |
 | [1723\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001723%20-%20Furnishing%20of%20clothing.md) | Furnishing of clothing. |
 | [1724\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001724%20-%20Hospital%20care%2C%20medical%20services%2C%20and%20nursing%20home%20care%20abroad.md) | Hospital care, medical services, and nursing home care abroad. |
 | [1725\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001725%20-%20Reimbursement%20for%20emergency%20treatment.md) | Reimbursement for emergency treatment. |
@@ -162,7 +157,7 @@
 
 <b>2022</b>—Pub. L. 117–328, div. U, title I, §193A(a), Dec. 29, 2022, 136 Stat. 5439, added item 1722C.
 
-Pub. L. 117–328, div. U, title I, §§141(a)(2), 194(b), Dec. 29, 2022, 136 Stat. 5423, 5444, which directed amendment of the analysis for subchapter I of this chapter by adding items 1703F and 1704A, was executed by adding the items to the analysis for this chapter, to reflect the probable intent of Congress.
+Pub. L. 117–328, div. U, title I, §§141(a)(2), 194(b), Dec. 29, 2022, 136 Stat. 5423, 5444, which directed amendmentof the analysis for subchapter I of this chapter by adding items 1703F and 1704A, was executed by adding the items to the analysis for this chapter, to reflect the probable intent of Congress.
 
 <b>2021</b>—Pub. L. 116–315, title III, §3002(b), title V, §5107(a)(3), Jan. 5, 2021, 134 Stat. 4991, 5031, added item 1709C and substituted "Prohibition on collection of copayments from certain veterans" for "Prohibition on collection of copayments from catastrophically disabled veterans" in item 1730A.
 
@@ -238,7 +233,7 @@ Pub. L. 101–366, title II, §201(a)(2), Aug. 15, 1990, 104 Stat. 438, added it
 
 <b>1986</b>—Pub. L. 99–576, title II, §201(a)(2), 100 Stat. 3254, added item 620B.
 
-Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Stat. 378, 382, added item 603, and substituted "Determination" for "Evidence" and inserted "; income thresholds" in item 622.
+Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Stat. 378, 382, added item 603, and substituted"Determination" for "Evidence" and inserted "; income thresholds" in item 622.
 
 <b>1985</b>—Pub. L. 99–166, title I, §§101(b)(2), 107(b), Dec. 3, 1985, 99 Stat. 943, 946, added item 612B and struck out "; pilot program" after "disabilities" in item 620A.
 
@@ -273,8 +268,6 @@ Pub. L. 87–574, §2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
 <b>1959</b>—Pub. L. 86–211, §7(b), Aug. 29, 1959, 73 Stat. 436, added item 617.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

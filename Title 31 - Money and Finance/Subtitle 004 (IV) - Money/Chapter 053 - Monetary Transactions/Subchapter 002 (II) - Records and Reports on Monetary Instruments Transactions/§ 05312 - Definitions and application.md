@@ -218,7 +218,7 @@ Subsec. (a)(5). Pub. L. 99–570, §1362(b), inserted "the Virgin Islands, Guam,
 
 #### Effective Date of 2021 Amendment
 
-Pub. L. 116–283, div. F, title LXI, §6110(a)(2), Jan. 1, 2021, 134 Stat. 4562, provided that: "Section 5312(a)(2)(Y)of title 31, United States Code, as added by paragraph (1), shall take effect on the effective date of the final rules issued by the Secretary of the Treasury pursuant to subsection (b) \[see note below\]."
+Pub. L. 116–283, div. F, title LXI, §6110(a)(2), Jan. 1, 2021, 134 Stat. 4562, provided that: "Section 5312(a)(2)(Y) of title 31, United States Code, as added by paragraph (1), shall take effect on the effective date of the final rules issued by the Secretary of the Treasury pursuant to subsection (b) \[see note below\]."
 
 #### Effective Date of 2004 Amendment
 

@@ -1,6 +1,6 @@
 ### §3704b–1. Recovery of operating costs through fee collections
 
-Operating costs for the National Technical Information Service associated with the acquisition, processing, storage, bibliographic control, and archiving of information and documentsshall be recovered primarily through the collection of fees.
+Operating costs for the National Technical Information Service associated with the acquisition, processing, storage, bibliographic control, and archiving of information and documents shall be recovered primarily through the collection of fees.
 
 (Pub. L. 102–245, title I, §103(c), Feb. 14, 1992, 106 Stat. 8.)
 

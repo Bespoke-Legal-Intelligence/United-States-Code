@@ -118,7 +118,7 @@ Covered air transportation.—The term "covered air transportation" means schedu
 
 Tarmac delay.—The term "tarmac delay" means the period during which passengers are on board an aircraft on the tarmac—
 
-&emsp;&emsp;(A) awaiting takeoff after the aircraft doors have been closed or after passengershave been boarded if the passengers have not been advised they are free to deplane; or
+&emsp;&emsp;(A) awaiting takeoff after the aircraft doors have been closed or after passengers have been boarded if the passengers have not been advised they are free to deplane; or
 
 &emsp;&emsp;(B) awaiting deplaning after the aircraft has landed.
 

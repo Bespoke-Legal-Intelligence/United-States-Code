@@ -178,7 +178,7 @@ Pub. L. 117–328, div. U, title I, §163, Dec. 29, 2022, 136 Stat. 5430, provid
 
 "(a)
 
-In General.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], theSecretary of Veterans Affairs shall commence the conduct of a pilot program under which the Secretary shall provide geriatric psychiatry assistance to eligible veterans at State homes.
+In General.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Veterans Affairs shall commence the conduct of a pilot program under which the Secretary shall provide geriatric psychiatry assistance to eligible veterans at State homes.
 
 "(b)
 

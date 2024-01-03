@@ -20,7 +20,7 @@ Any permit issued under this section shall—
 
 &emsp;&emsp;(D) any other terms or conditions which the Secretary deems appropriate.
 
-> In any case in which an application for a permit cites as a reason for the proposed taking the overpopulation of a particular species or population stock, the Secretary shall first consider whether or not it would be more desirable to transplant a number of animals (but not to exceed the number requested for taking in the application) of that species or stock to a location not then inhabited by such species or stock but previously inhabited by such species or stock.
+> In any case in which an application for a permit cites as a reason for the proposed taking the overpopulation of a particular species or population stock, the Secretary shall first consider whether or not it would be more desirable totransplant a number of animals (but not to exceed the number requested for taking in the application) of that species or stock to a location not then inhabited by such species or stock but previously inhabited by such species or stock.
 
 #### (c) Importation for scientific research, public display, or enhancing survival or recovery of species or stock
 
@@ -174,7 +174,7 @@ Any permit issued under this section shall—
 
 (4) If within thirty days after the date of publication of notice pursuant to paragraph (2) of this subsection with respect to any application for a permit any interested party or parties request a hearing in connection therewith, the Secretary may, within sixty days following such date of publication, afford to such party or parties an opportunity for such a hearing.
 
-(5) As soon as practicable (but not later than thirty days) after the close of the hearing or, if no hearing is held, after the last day on which data, or views, may be submitted pursuant to paragraph (2) of this subsection, the Secretary shall (A) issue a permit containing such terms and conditions as he deems appropriate, or (B) shall deny issuance of a permit. Notice of the decision of the Secretary to issue or to deny any permit under this paragraph must be published in the Federal Register within ten days after the date of issuance or denial.
+(5) As soon as practicable (but not later than thirty days) after the close of the hearing or, ifno hearing is held, after the last day on which data, or views, may be submitted pursuant to paragraph (2) of this subsection, the Secretary shall (A) issue a permit containing such terms and conditions as he deems appropriate, or (B) shall deny issuance of a permit. Notice of the decision of the Secretary to issue or to deny any permit under this paragraph must be published in the Federal Register within ten days after the date of issuance or denial.
 
 (6) Any applicant for a permit, or any party opposed to such permit, may obtain judicial review of the terms and conditions of any permit issued by the Secretary under this section or of his refusal to issue such a permit. Such review, which shall be pursuant to chapter 7 of title 5, may be initiated by filing a petition for review in the United States district court for the district wherein the applicant for a permit resides, or has his principal place of business, or in the United States District Court for the District of Columbia, within sixty days after the date on which such permit is issued or denied.
 

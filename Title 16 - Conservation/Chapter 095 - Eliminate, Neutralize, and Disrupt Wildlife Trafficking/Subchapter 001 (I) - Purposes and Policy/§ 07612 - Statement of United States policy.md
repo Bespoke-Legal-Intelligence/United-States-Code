@@ -22,7 +22,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;(H) bilateral and multilateral agreements and cooperation;
 
-&emsp;(3) to employ appropriate assets and resources of the United States Government in a coordinated manner to curtail poaching and disrupt and dismantle illegal wildlife trade networks and the financing of those networksin a manner appropriate for each focus country;
+&emsp;(3) to employ appropriate assets and resources of the United States Government in a coordinated manner to curtail poaching and disrupt and dismantle illegal wildlife trade networks and the financing of those networks in a manner appropriate for each focus country;
 
 &emsp;(4) to build upon the National Strategy and Implementation Plan to further combat wildlife trafficking in a holistic manner and guide the response of the United States Government to ensure progress in the fight against wildlife trafficking; and
 

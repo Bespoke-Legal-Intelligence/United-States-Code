@@ -58,7 +58,7 @@ Classified information.—Notwithstanding section 552 of title 5 but subject to 
 
 &emsp;(6)
 
-Notice to congress.—The Administrator shall provide notice to the Committee onTransportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate after completing the analysis required by paragraph (3)(E).
+Notice to congress.—The Administrator shall provide notice to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate after completing the analysis required by paragraph (3)(E).
 
 &emsp;(7)
 
@@ -154,7 +154,7 @@ In general.—A pilot is qualified to be a Federal flight deck officer under thi
 
 &emsp;&emsp;(B)
 
-Consistency with requirements for certain medical certificates.—In establishing standards under subparagraph (A)(ii), the Administrator may not establish medical or physical standards for a pilot to become a Federal flight deck officer that are inconsistent with or more stringent than the requirements of the Federal Aviation Administration for the issuance of the required airman medical certificate under part 67 oftitle 14, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+Consistency with requirements for certain medical certificates.—In establishing standards under subparagraph (A)(ii), the Administrator may not establish medical or physical standards for a pilot to become a Federal flight deck officer that are inconsistent with or more stringent than the requirements of the Federal Aviation Administration for the issuance of the required airman medical certificate under part 67 of title 14, Code of Federal Regulations (or any corresponding similar regulation or ruling).
 
 &emsp;(3)
 
@@ -214,7 +214,7 @@ Liability of air carriers.—An air carrier shall not be liable for damages in a
 
 &emsp;(2)
 
-Liability of federal flight deck officers.—A Federal flight deck officer shall not be liable for damages in any action brought in a Federal or State court arising out of the acts or omissions of the officer in defending the flight deck of an aircraft against acts of criminal violence or air piracy unless the officer is guilty of gross negligence or willful misconduct.
+Liability of federal flight deck officers.—A Federal flight deck officer shall not be liable for damages in any action brought in a Federal or State court arising out of the actsor omissions of the officer in defending the flight deck of an aircraft against acts of criminal violence or air piracy unless the officer is guilty of gross negligence or willful misconduct.
 
 &emsp;(3)
 
@@ -238,7 +238,7 @@ Limitation on Authority of Air Carriers.—No air carrier shall prohibit or thre
 
 (k)
 
-Applicability.—This section shall not apply to air carriers operating under part 135 oftitle 14, Code of Federal Regulations, and to pilots employed by such carriers to the extent that such carriers and pilots are covered by section 135.119 of such title or any successor to such section.
+Applicability.—This section shall not apply to air carriers operating under part 135 of title 14, Code of Federal Regulations, and to pilots employed by such carriers to the extent that such carriers and pilots are covered by section 135.119 of such title or any successor to such section.
 
 (l)
 
@@ -336,7 +336,7 @@ Pub. L. 115–254, div. K, title I, §1963(j), Oct. 5, 2018, 132 Stat. 3604, pro
 
 #### Equitable Implementation of 2003 Amendments
 
-Pub. L. 108–176, title VI, §609(c), Dec. 12, 2003, 117 Stat. 2570, provided that: "In carrying out the amendmentsmade by subsection (d) \[probably means subsec. (b), which amended this section\], the Under Secretary for Border and Transportation Security of the Department of Homeland Security shall ensure that passenger and cargo pilots are treated equitably in receiving access to training as Federal flight deck officers."
+Pub. L. 108–176, title VI, §609(c), Dec. 12, 2003, 117 Stat. 2570, provided that: "In carrying out the amendments made by subsection (d) \[probably means subsec. (b), which amended this section\], the Under Secretary for Border and Transportation Security of the Department of Homeland Security shall ensure that passenger and cargo pilots are treated equitably in receiving access to training as Federal flight deck officers."
 
 #### Time for Implementation
 

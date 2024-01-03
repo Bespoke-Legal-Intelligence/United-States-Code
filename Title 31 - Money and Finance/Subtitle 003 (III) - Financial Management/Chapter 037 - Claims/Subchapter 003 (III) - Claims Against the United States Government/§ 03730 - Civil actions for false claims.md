@@ -18,7 +18,7 @@ Actions by Private Persons.—(1) A person may bring a civil action for a violat
 
 &emsp;(B) notify the court that it declines to take over the action, in which case the person bringing the action shall have the right to conduct the action.
 
-(5) When a person brings an action under this subsection, no person other than the Government may intervene or bring a related actionbased on the facts underlying the pending action.
+(5) When a person brings an action under this subsection, no person other than the Government may intervene or bring a related action based on the facts underlying the pending action.
 
 (c)
 

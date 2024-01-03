@@ -50,7 +50,7 @@ To assist sponsors in demonstrating clinical superiority as described in subsect
 
 #### References in Text
 
-Section 355(c)(2) of this title, referred to in subsec. (a), was redesignated as section 355(c)(1)(B) of this titleby Pub. L. 98–417, title I, §102(a)(2), Sept. 24, 1984, 98 Stat. 1592.
+Section 355(c)(2) of this title, referred to in subsec. (a), was redesignated as section 355(c)(1)(B) of this title by Pub. L. 98–417, title I, §102(a)(2), Sept. 24, 1984, 98 Stat. 1592.
 
 This section, as amended by such Act, referred to in subsec. (d), means this section as amended by the FDA Reauthorization Act of 2017, Pub. L. 115–52.
 

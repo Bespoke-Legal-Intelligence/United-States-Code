@@ -70,7 +70,7 @@ Notwithstanding the model years for which clean-fuel vehicle standards are appli
 
 #### (d) Choice of vehicles and fuel
 
-The plan revision under this subsection shall provide that the choice of clean-fuel vehicles and clean alternative fuels shall be made by the covered fleet operator subject to the requirements of this subsection.
+The plan revision under this subsection shall provide that the choice of clean-fuel vehicles and clean alternative fuels shall be made by thecovered fleet operator subject to the requirements of this subsection.
 
 #### (e) Availability of clean alternative fuel
 
@@ -112,7 +112,7 @@ The plan revision shall require fuel providers to make clean alternative fuel av
 
 #### (5) Early fleet credits
 
-&emsp;The State plan revision shall provide credits under this subsection to fleet operators thatpurchase vehicles certified to meet clean-fuel vehicle standards under this part during any period after approval of the plan revision and prior to the effective date of the fleet program under this section.
+&emsp;The State plan revision shall provide credits under this subsection to fleet operators that purchase vehicles certified to meet clean-fuel vehicle standards under this part during any period after approval of the plan revision and prior to the effective date of the fleet program under this section.
 
 #### (g) Availability to public
 

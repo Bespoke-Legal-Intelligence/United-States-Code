@@ -2,7 +2,7 @@
 
 #### (a) Overtime and holiday work costs; availability of funds
 
-The cost of inspection rendered under the requirements of this chapter, and other costs ofadministration of this chapter, shall be borne by the United States, except that the cost of overtime and holiday work performed in official plants subject to the provisions of this chapter at such rates as the Secretary may determine shall be borne by such official plants. Sums received by the Secretary from official plants under this section shall be available without fiscal year limitation to carry out the purposes of this chapter.
+The cost of inspection rendered under the requirements of this chapter, and other costs of administration of this chapter, shall be borne by the United States, except that the cost of overtime and holiday work performed in official plants subject to the provisions of this chapter at such rates as the Secretary may determine shall be borne by such official plants. Sums received by the Secretary from official plants under this section shall be available without fiscal year limitation to carry out the purposes of this chapter.
 
 #### (b) "Holiday" defined
 
@@ -18,7 +18,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 The Wholesome Poultry Products Act, referred to in subsec. (b), is Pub. L. 90–492, Aug. 18, 1968, 82 Stat. 791, which enacted sections 467a to 467f and 470 of this title, amended sections 451 to 461, 463 to 465, and 467 of this title, and enacted provisions set out as notes under section 451 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 451 of this title and Tables.
 
-The Wholesome Meat Act, referred to in subsec. (b), is Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, which enacted sections 601, 602, 624, 641 to 645, 661, 671 to 680, and 691 of this title, amended sections 603 to 623 of this title, repealed section 96 of this title and section 1306(b) of Title 19, Customs Duties, and enacted provisions set out as notes under section 601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
+The Wholesome Meat Act, referred to in subsec. (b), is Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, which enacted sections 601, 602, 624, 641 to 645, 661, 671 to 680, and 691 of this title, amended sections 603 to 623 of this title, repealed section 96 of this title and section 1306(b) of Title 19, Customs Duties, and enacted provisions setout as notes under section 601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

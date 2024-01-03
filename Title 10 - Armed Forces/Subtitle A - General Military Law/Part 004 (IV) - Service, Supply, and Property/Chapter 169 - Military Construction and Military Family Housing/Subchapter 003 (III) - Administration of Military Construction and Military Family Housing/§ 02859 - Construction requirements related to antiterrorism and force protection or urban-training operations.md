@@ -48,7 +48,7 @@ A prior section 2859, added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 16
 
 <b>2013</b>—Subsec. (a)(2). Pub. L. 113–66 substituted "develop construction standards that, taking into consideration other security or force-protection measures available for the facility or military installation concerned, are designed" for "develop construction standards designed".
 
-Subsec. (d)(2), (3). Pub. L. 112–239 redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "The Under Secretary of Defense for Personnel and Readiness shall conduct the evaluation required byparagraph (1)(B) in consultation with the Commander of the United States Joint Forces Command."
+Subsec. (d)(2), (3). Pub. L. 112–239 redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "The Under Secretary of Defense for Personnel and Readiness shall conduct the evaluation required by paragraph (1)(B) in consultation with the Commander of the United States Joint Forces Command."
 
 <b>2006</b>—Pub. L. 109–364, §2808(b)(1), inserted "or urban-training operations" after "force protection" in section catchline.
 

@@ -10,7 +10,7 @@ Title VIII of the Elementary and Secondary Education Act of 1965, comprising thi
 
 #### Prior Provisions
 
-A prior title VIII of the Elementary and Secondary Education Act of 1965, comprising former subchapter VIII (§7701 et seq.) of this chapter, was redesignated title VII of the Act by Pub. L. 114–95, title VII, §7001(c), Dec. 10, 2015, 129 Stat. 2074, and transferred to subchapter VII (§7701 et seq.) of this chapter.
+A prior title VIII of the Elementary and Secondary Education Act of 1965, comprising former subchapter VIII (§7701 et seq.) of this chapter, was redesignatedtitle VII of the Act by Pub. L. 114–95, title VII, §7001(c), Dec. 10, 2015, 129 Stat. 2074, and transferred to subchapter VII (§7701 et seq.) of this chapter.
 
 
 ---

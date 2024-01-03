@@ -60,7 +60,7 @@ Construction.—From amounts the Secretary distributes to an airport under secti
 
 &emsp;(2)
 
-Reimbursement.—Upon approval of the Secretary, the sponsor of a current or former military airport the Secretary designates under this section may use an amount apportioned under section 47114, or made available under section 47115 or 47117(e)(1)(B), to the airport for reimbursement of costs incurred bythe airport in fiscal years 2003 and 2004 for construction, improvement, or repair described in paragraph (1).
+Reimbursement.—Upon approval of the Secretary, the sponsor of a current or former military airport the Secretary designates under this section may use an amount apportioned under section 47114, or made available under section 47115 or 47117(e)(1)(B), to the airport for reimbursement of costs incurred by the airport in fiscal years 2003 and 2004 for construction, improvement, or repair described in paragraph (1).
 
 (g)
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority to pursue options for strengthening export control programs
 
-The Secretary of Energy, in coordination with the Secretary of State, may pursue in the region of the former Soviet Union and other regions of concern options for accelerating programs that assist the countries in such regions in improving their domestic export control programs for materials, technologies, and expertise relevant to the construction or use of a nuclear or radiological dispersal device.
+The Secretary of Energy, in coordination with the Secretary of State, may pursue in the region of the former Soviet Union and other regions of concern options for accelerating programs thatassist the countries in such regions in improving their domestic export control programs for materials, technologies, and expertise relevant to the construction or use of a nuclear or radiological dispersal device.
 
 #### (b) Amount for activities
 

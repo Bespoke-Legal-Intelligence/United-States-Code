@@ -6,7 +6,7 @@ It shall be unlawful for any of the following persons to serve or act in the cap
 
 &emsp;(1) any person who within 10 years has been convicted of any felony or misdemeanor involving the purchase or sale of any security or arising out of such person's conduct as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, bank, transfer agent, credit rating agency, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act;
 
-&emsp;(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, bank, transfer agent, credit rating agency, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or
+&emsp;(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, bank, transfer agent, credit rating agency, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C.1 et seq.\], or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or
 
 &emsp;(3) a company any affiliated person of which is ineligible, by reason of paragraph (1) or (2) of this subsection, to serve or act in the foregoing capacities.
 
@@ -50,7 +50,7 @@ Any person who is ineligible, by reason of subsection (a), to serve or act in th
 
 &emsp;&emsp;&emsp;(ii) has willfully aided, abetted, counseled, commanded, induced, or procured such a violation by any other person; or
 
-&emsp;&emsp;&emsp;(iii) has willfully made or caused to be made in any registration statement, application, or report required to be filed with the Commission under this subchapter, any statement which was, at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, or has omitted to state in any such registration statement, application, or report any material fact which was required to be stated therein; <sup>1</sup>
+&emsp;&emsp;&emsp;(iii) has willfully made or caused to be made in any registration statement, application, or report required to be filed with the Commission under this subchapter, any statement which was, at the time and in the light of the circumstances under which it was made, false or misleadingwith respect to any material fact, or has omitted to state in any such registration statement, application, or report any material fact which was required to be stated therein; <sup>1</sup>
 
 #### (B) Cease-and-desist proceedings
 
@@ -76,7 +76,7 @@ Any person who is ineligible, by reason of subsection (a), to serve or act in th
 
 &emsp;&emsp;&emsp;(i) the act or omission described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 
-&emsp;&emsp;&emsp;(ii) such act or omission directly or indirectly resulted in substantial losses or created a significant risk of substantial lossesto other persons or resulted in substantial pecuniary gain to the person who committed the act or omission.
+&emsp;&emsp;&emsp;(ii) such act or omission directly or indirectly resulted in substantial losses or created a significant risk of substantial losses to other persons or resulted in substantial pecuniary gain to the person who committed the act or omission.
 
 #### (3) Determination of public interest
 
@@ -106,7 +106,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (1) Authority of Commission
 
-&emsp;If the Commission finds, after notice and opportunity for hearing, that any person is violating, has violated, or is about to violate any provision of this subchapter, or any rule or regulation thereunder, the Commission may publish its findings and enter an order requiring such person, and any other person that is, was, or would be a cause of the violation, due to an act or omission the person knew or should have known would contribute to such violation, to cease and desist from committing or causing such violation and any future violation of the same provision, rule, or regulation. Such order may, in addition to requiring a person to cease and desist from committing or causing a violation, require such person to comply, or to take steps to effect compliance, with such provision, rule, or regulation, upon such terms and conditions and within such time as the Commission may specify in such order. Any such order may, as the Commission deems appropriate, require future compliance or steps to effect future compliance, either permanently or for such period of time as the Commission may specify, with such provision, rule, or regulation with respect to any security, any issuer, or any other person.
+&emsp;If the Commission finds, after notice and opportunity for hearing, that any person is violating, has violated, or is about to violate any provision of this subchapter, or any rule or regulation thereunder, the Commission may publish its findings and enter an order requiring such person, and any other person that is, was, or would be a cause of the violation, due to an act or omission the person knew or should have known would contribute to such violation, to cease and desist from committing or causing such violation and any future violation of the same provision, rule, or regulation. Such order may, in addition to requiring a person to cease and desist from committing or causing a violation, require such person to comply, or to take steps to effect compliance, with such provision, rule, or regulation, upon such terms and conditions and within such time as the Commission may specify in such order. Any such order may, as the Commission deems appropriate, require future compliance or steps to effect future compliance, either permanently or for such period of time as theCommission may specify, with such provision, rule, or regulation with respect to any security, any issuer, or any other person.
 
 #### (2) Hearing
 
@@ -120,7 +120,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (B) Applicability
 
-&emsp;&emsp;This paragraph shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company,municipal securities dealer, government securities broker, government securities dealer, or transfer agent, or is, or was at the time of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
+&emsp;&emsp;This paragraph shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, or transfer agent, or is, or was at the time of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
 
 #### (4) Review of temporary orders
 

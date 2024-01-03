@@ -32,7 +32,7 @@ Section 31302(1) makes all instruments filed for recording or recorded with the 
 
 Section 31302(2) requires the Secretary to provide the public with a certified copy of the material made available to the public under subsection (a). This subsection makes no substantive change to law.
 
-Section 31302(3) requires the Secretary, on request, to issue a certificate containing the information included in instruments on file, such as certificates of ownership.
+Section 31302(3) requires the Secretary, on request, to issue a certificate containing the information includedin instruments on file, such as certificates of ownership.
 
 #### <b>Editorial Notes</b>
 

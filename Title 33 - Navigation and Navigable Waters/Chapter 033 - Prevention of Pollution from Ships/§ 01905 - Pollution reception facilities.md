@@ -10,7 +10,7 @@
 
 #### (b) Traffic considerations
 
-In determining the adequacy of reception facilities required by the MARPOL Protocol or the Antarctic Protocol at a port or terminal, and in establishing regulations under subsection (a) of this section, the Secretary or the Administrator may consider, among other things, the number and types of ships or seagoing ships using the port or terminal, including their principal trades.
+In determining the adequacy of reception facilities required by the MARPOL Protocol orthe Antarctic Protocol at a port or terminal, and in establishing regulations under subsection (a) of this section, the Secretary or the Administrator may consider, among other things, the number and types of ships or seagoing ships using the port or terminal, including their principal trades.
 
 #### (c) Certificate; issuance; validity; inspection; review of suspension or revocation by Secretary
 
@@ -52,7 +52,7 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 (1) Except in the case of force majeure, the Secretary shall deny entry to a seagoing ship required by the Convention or the Antarctic Protocol to retain onboard while at sea, residues and mixtures containing oil or noxious liquid substances, if—
 
-&emsp;(A) the port or terminal is one required by Annexes I and II of the Convention or Article9 of Annex IV to the Antarctic Protocol or regulations hereunder to have adequate reception facilities; and
+&emsp;(A) the port or terminal is one required by Annexes I and II of the Convention or Article 9 of Annex IV to the Antarctic Protocol or regulations hereunder to have adequate reception facilities; and
 
 &emsp;(B) the port or terminal does not hold a valid certificate issued by the Secretary under this section.
 

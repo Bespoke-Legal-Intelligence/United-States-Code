@@ -78,7 +78,7 @@ For effective date of amendment by section 1601(d) of Pub. L. 94–455, see sect
 
 Pub. L. 88–272, title II, §225(l), Feb. 26, 1964, 78 Stat. 94, provided that:
 
-"(1) The amendments made by this section \[enacting section 1022, redesignating former section 1022 as 1023, amending this section and sections 331, 333, 381, 541, 542, 543, 544, 545, 551, 553, 554, 562, 856, 1016, 1361, 6501, and the analysis preceding section 1011, and enacting provisions set out as a note under section 333 of this title\] (other than by subsections (c)(1), (f), (g), and (j) \[enacting section 1022, redesignating former section 1022 as 1023, amending this section and sections 331, 333, 542, 551, 562, 1016, and the analysis preceding section 1011 of this title\]) shall apply to taxable years beginning after December 31, 1963.
+"(1) The amendments made by this section \[enacting section 1022, redesignating former section 1022 as 1023, amending this section and sections 331, 333, 381, 541, 542,543, 544, 545, 551, 553, 554, 562, 856, 1016, 1361, 6501, and the analysis preceding section 1011, and enacting provisions set out as a note under section 333 of this title\] (other than by subsections (c)(1), (f), (g), and (j) \[enacting section 1022, redesignating former section 1022 as 1023, amending this section and sections 331, 333, 542, 551, 562, 1016, and the analysis preceding section 1011 of this title\]) shall apply to taxable years beginning after December 31, 1963.
 
 "(2) The amendment made by subsection (c)(1) \[amending section 542 of this title\] shall apply to taxable years beginning after October 16, 1962.
 

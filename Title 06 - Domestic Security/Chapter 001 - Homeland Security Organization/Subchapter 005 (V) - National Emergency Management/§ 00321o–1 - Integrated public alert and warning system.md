@@ -114,7 +114,7 @@ On and after the date that is 60 days after the date on which the Administrator 
 
 #### (A) Authority
 
-&emsp;&emsp;On and after the date that is 120 days after December 20, 2019, the authority to originate an alert warning the public of a missilelaunch directed against a State using the public alert and warning system shall reside primarily with the Federal Government.
+&emsp;&emsp;On and after the date that is 120 days after December 20, 2019, the authority to originate an alert warning the public of a missile launch directed against a State using the public alert and warning system shall reside primarily with the Federal Government.
 
 #### (B) Delegation of authority
 
@@ -134,7 +134,7 @@ On and after the date that is 60 days after the date on which the Administrator 
 
 #### (2) Required processes
 
-&emsp;The Secretary, acting through the Administrator, shall establish a process to promptly notify a State warning point, and any State entities that the Administrator determines appropriate, following the issuance of an alert described in paragraph (1)(A) so the State may take appropriate action to protect the health, safety, and welfare of the residents of the State.
+&emsp;The Secretary, acting through the Administrator, shall establish a process to promptlynotify a State warning point, and any State entities that the Administrator determines appropriate, following the issuance of an alert described in paragraph (1)(A) so the State may take appropriate action to protect the health, safety, and welfare of the residents of the State.
 
 #### (3) Guidance
 
@@ -218,7 +218,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(4), is Pub. L. 92
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2020, and not as partof the Homeland Security Act of 2002 which comprises this chapter.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

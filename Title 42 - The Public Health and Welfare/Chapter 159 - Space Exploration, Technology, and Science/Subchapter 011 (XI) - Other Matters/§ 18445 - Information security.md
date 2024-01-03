@@ -14,7 +14,7 @@
 
 #### (2) Existing assessments
 
-&emsp;The assessments required of the Inspector General under section 3545 <sup>1</sup> of title 44 shallevaluate the effectiveness of the system described in this subsection.
+&emsp;The assessments required of the Inspector General under section 3545 <sup>1</sup> of title 44 shall evaluate the effectiveness of the system described in this subsection.
 
 #### (b) Information security awareness and education
 

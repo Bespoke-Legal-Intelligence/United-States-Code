@@ -1,6 +1,6 @@
 ### §415. Prohibition on restriction or elimination of services
 
-The Postal Service may not restrict, eliminate, or adversely affect any service provided bythe Postal Service as a result of the payment of any penalty imposed under the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.).
+The Postal Service may not restrict, eliminate, or adversely affect any service provided by the Postal Service as a result of the payment of any penalty imposed under the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.).
 
 (Added Pub. L. 105–241, §4(a), Sept. 28, 1998, 112 Stat. 1573.)
 

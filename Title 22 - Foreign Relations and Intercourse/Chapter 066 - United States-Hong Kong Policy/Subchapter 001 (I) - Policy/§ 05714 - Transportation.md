@@ -6,7 +6,7 @@ It is the sense of the Congress that the following, which are based in part on t
 
 &emsp;(2) The United States should continue to recognize ships registered by Hong Kong.
 
-&emsp;(3) United States commercial ships, in accordance with applicable United States and Hong Kong law, should remain free to port in Hong Kong.
+&emsp;(3) United States commercial ships, in accordance with applicable United States andHong Kong law, should remain free to port in Hong Kong.
 
 &emsp;(4) The United States should continue to recognize airplanes registered by Hong Kong in accordance with applicable laws of the People's Republic of China.
 

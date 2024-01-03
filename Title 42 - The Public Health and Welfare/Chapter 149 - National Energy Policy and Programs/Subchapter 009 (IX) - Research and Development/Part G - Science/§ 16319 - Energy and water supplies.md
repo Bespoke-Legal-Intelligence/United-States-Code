@@ -34,7 +34,7 @@ The Secretary shall establish or utilize an advisory committee to provide indepe
 
 #### (f) Reports
 
-Not later than 2 years after August 8, 2005, the Secretary shall submit to Congress a report on the assessment described in subsection (b) and recommendations for future actions.
+Not later than 2 years after August 8, 2005, the Secretary shall submit to Congress a report onthe assessment described in subsection (b) and recommendations for future actions.
 
 (Pub. L. 109–58, title IX, §979, Aug. 8, 2005, 119 Stat. 905.)
 

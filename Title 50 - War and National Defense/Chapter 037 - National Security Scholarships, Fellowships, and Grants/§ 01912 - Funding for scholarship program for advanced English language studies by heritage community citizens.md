@@ -6,7 +6,7 @@ In addition to amounts that may be made available to the Secretary under the Fun
 
 #### (b) Fiscal years beginning with fiscal year 2022
 
-In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, there is authorized to be appropriated to the Secretary for each fiscal year, beginning with fiscal year 2022, $2,000,000, to carry out the scholarship programs for English language studies by certain heritage community citizens under section 1902(a)(1)(E) of this title.
+In addition to amounts that may be made available to the Secretary under the Fund for afiscal year, there is authorized to be appropriated to the Secretary for each fiscal year, beginning with fiscal year 2022, $2,000,000, to carry out the scholarship programs for English language studies by certain heritage community citizens under section 1902(a)(1)(E) of this title.
 
 #### (c) Availability of funds
 

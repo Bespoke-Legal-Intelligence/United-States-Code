@@ -26,7 +26,7 @@ Each instance of complementary access to a location in the United States under t
 
 &emsp;&emsp;&emsp;(iii) the activities that will be carried out during the complementary access;
 
-&emsp;&emsp;&emsp;(iv) the time and date that the complementary access is expected to begin, and the anticipated period covered by the complementary access; and
+&emsp;&emsp;&emsp;(iv) the time and date that the complementary access is expected to begin,and the anticipated period covered by the complementary access; and
 
 &emsp;&emsp;&emsp;(v) the names and titles of the inspectors.
 

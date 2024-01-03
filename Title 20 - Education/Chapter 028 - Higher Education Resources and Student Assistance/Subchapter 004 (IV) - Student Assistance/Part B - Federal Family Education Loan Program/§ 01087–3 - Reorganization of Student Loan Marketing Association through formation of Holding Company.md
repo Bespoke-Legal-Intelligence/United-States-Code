@@ -44,7 +44,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (4) Dividends
 
-&emsp;The Association may pay dividends in the form of cash or noncash distributions so long as at the time of the declaration of such dividends, after giving effect to the payment of such dividends as of the date of such declaration by the Board of Directors of the Association, the Association's capital would be incompliance with the capital standards and requirements set forth in section 1087–2(r) of this title. If, at any time after the reorganization effective date, the Association fails to comply with such capital standards, the Holding Company shall transfer with due diligence to the Association additional capital in such amounts as are necessary to ensure that the Association again complies with the capital standards.
+&emsp;The Association may pay dividends in the form of cash or noncash distributions so long as at the time of the declaration of such dividends, after giving effect to the payment of such dividends as of the date of such declaration by the Board of Directors of the Association, the Association's capital would be in compliance with the capital standards and requirements set forth in section 1087–2(r) of this title. If, at any time after the reorganization effective date, the Association fails to comply with such capital standards, the Holding Company shall transfer with due diligence to the Association additional capital in such amounts as are necessary to ensure that the Association again complies with the capital standards.
 
 #### (5) Certification prior to dividend
 
@@ -144,7 +144,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 &emsp;&emsp;&emsp;(i) the conversion of Association common stock into Holding Company common stock as part of the plan of reorganization approved by the Association's shareholders; and
 
-&emsp;&emsp;&emsp;(ii) any issuance or sale of stock (including issuance or sale of treasury stock), stock split, recapitalization, reorganization, or other corporate event, if agreed to by the Secretary of the Treasury and the Association.
+&emsp;&emsp;&emsp;(ii) any issuance or sale of stock (including issuance or sale of treasury stock),stock split, recapitalization, reorganization, or other corporate event, if agreed to by the Secretary of the Treasury and the Association.
 
 #### (B) Authority to sell or exercise stock warrants; deposit of proceeds
 
@@ -192,7 +192,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (3) Use of Sallie Mae name
 
-&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the "Sallie Mae" name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the "Sallie Mae" name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>1</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the "Sallie Mae" name as a trademark or service mark.
+&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the "Sallie Mae" name as a trademark or servicemark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the "Sallie Mae" name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>1</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the "Sallie Mae" name as a trademark or service mark.
 
 #### (4) Disclosure required
 
@@ -264,7 +264,7 @@ For purposes of this section:
 
 #### Repeal of Section
 
-<i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reorganization occurs in accordance with this section, or date on which all obligations of trust established under section 1087–2(s)(3)(A) of this title have been extinguished, if reorganization does not occur in accordance with this section.</i>
+<i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233,</i><i>3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reorganization occurs in accordance with this section, or date on which all obligations of trust established under section 1087–2(s)(3)(A) of this title have been extinguished, if reorganization does not occur in accordance with this section.</i>
 
 #### <b>Editorial Notes</b>
 

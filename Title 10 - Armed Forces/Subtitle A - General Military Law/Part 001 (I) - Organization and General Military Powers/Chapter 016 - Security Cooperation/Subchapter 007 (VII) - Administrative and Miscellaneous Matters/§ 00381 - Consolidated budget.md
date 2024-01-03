@@ -6,9 +6,13 @@ Consolidated Budget.—The budget of the President for each fiscal year, as subm
 
 (b)
 
-Quarterly Report on Use of Funds.—Not later than 60 days after the end of each calendar quarter, the Secretary shall submit to the appropriate committees of Congress a report on the obligation and expenditure of funds for security cooperation programs and activities of the Department of Defense during such calendar quarter.
+Semiannual Report on Use of Funds.—The Secretary shall submit to the appropriate committees of Congress a report on the obligation and expenditure of funds for security cooperation programs and activities of the Department of Defense—.<sup>1</sup>
 
-(Added Pub. L. 114–328, div. A, title XII, §1249(a), Dec. 23, 2016, 130 Stat. 2526; amended Pub. L. 116–92, div. A, title XII, §1204, Dec. 20, 2019, 133 Stat. 1622.)
+&emsp;(1) by not later than August 31 of each year, for the first six-month period of that year; and
+
+&emsp;(2) by not later than February 28 of each year, for the second six-month period of the preceding year.
+
+(Added Pub. L. 114–328, div. A, title XII, §1249(a), Dec. 23, 2016, 130 Stat. 2526; amended Pub. L. 116–92, div. A, title XII, §1204, Dec. 20, 2019, 133 Stat. 1622; Pub. L. 118–31, div. A, title X, §1061(a), Dec. 22, 2023, 137 Stat. 398.)
 
 #### <b>Editorial Notes</b>
 
@@ -17,6 +21,8 @@ Quarterly Report on Use of Funds.—Not later than 60 days after the end of each
 A prior section 381 was renumbered section 281 of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b). Pub. L. 118–31, in heading, substituted "Semiannual Report" for "Quarterly Report", and, in text, substituted "The" for "Not later than 60 days after the end of each calendar quarter, the" and "Defense—" for "Defense during such calendar quarter" and added pars. (1) and (2).
 
 <b>2019</b>—Subsec. (b). Pub. L. 116–92 substituted "60 days" for "30 days".
 
@@ -29,4 +35,6 @@ Pub. L. 114–328, div. A, title XII, §1249(b), Dec. 23, 2016, 130 Stat. 2526, 
 &emsp;"(1) Subsection (a) of section 381 of title 10, United States Code, as added by subsection (a), shall apply to budgets submitted to Congress by the President pursuant to section 1105 of title 31, United States Code, for each fiscal year after fiscal year 2018.
 
 &emsp;"(2) Subsection (b) of such section 381, as so added, shall apply to calendar quarters beginning on or after the date of the enactment of this Act."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

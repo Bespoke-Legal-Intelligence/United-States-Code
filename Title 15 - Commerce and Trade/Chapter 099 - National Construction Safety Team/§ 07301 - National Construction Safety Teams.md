@@ -26,7 +26,7 @@ The Director of the National Institute of Standards and Technology (in this chap
 
 #### (1) Development
 
-&emsp;Not later than 3 months after October 1, 2002, the Director, in consultation with the United States Fire Administration and other appropriate Federal agencies, shall develop procedures for the establishment and deployment of Teams. The Director shall update such procedures as appropriate. Such procedures shall include provisions—
+&emsp;Not later than 3 months after October 1, 2002, the Director, in consultation with theUnited States Fire Administration and other appropriate Federal agencies, shall develop procedures for the establishment and deployment of Teams. The Director shall update such procedures as appropriate. Such procedures shall include provisions—
 
 &emsp;&emsp;(A) regarding conflicts of interest related to service on the Team;
 
@@ -36,7 +36,7 @@ The Director of the National Institute of Standards and Technology (in this chap
 
 &emsp;&emsp;(D) guiding the disclosure of information under section 7306 of this title;
 
-&emsp;&emsp;(E) guiding the conduct of investigations under this chapter, including procedures forproviding written notice of inspection authority under section 7303(a) of this title and for ensuring compliance with any other applicable law;
+&emsp;&emsp;(E) guiding the conduct of investigations under this chapter, including procedures for providing written notice of inspection authority under section 7303(a) of this title and for ensuring compliance with any other applicable law;
 
 &emsp;&emsp;(F) identifying and prescribing appropriate conditions for the provision by the Director of additional resources and services Teams may need;
 

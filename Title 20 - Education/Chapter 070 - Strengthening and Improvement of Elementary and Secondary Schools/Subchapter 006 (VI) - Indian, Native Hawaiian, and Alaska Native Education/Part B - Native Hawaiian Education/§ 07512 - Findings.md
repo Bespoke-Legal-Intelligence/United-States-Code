@@ -4,7 +4,7 @@ Congress finds the following:
 
 &emsp;(1) Native Hawaiians are a distinct and unique indigenous people with a historical continuity to the original inhabitants of the Hawaiian archipelago, whose society was organized as a nation and internationally recognized as a nation by the United States, Britain, France, and Japan, as evidenced by treaties governing friendship, commerce, and navigation.
 
-&emsp;(2) At the time of the arrival of the first nonindigenous people in Hawaii in 1778, the NativeHawaiian people lived in a highly organized, self-sufficient subsistence social system based on a communal land tenure system with a sophisticated language, culture, and religion.
+&emsp;(2) At the time of the arrival of the first nonindigenous people in Hawaii in 1778, the Native Hawaiian people lived in a highly organized, self-sufficient subsistence social system based on a communal land tenure system with a sophisticated language, culture, and religion.
 
 &emsp;(3) A unified monarchal government of the Hawaiian Islands was established in 1810 under Kamehameha I, the first King of Hawaii.
 
@@ -20,7 +20,7 @@ Congress finds the following:
 
 &emsp;(9) In 1938, Congress again acknowledged the unique status of the Hawaiian people by including in the Act of June 20, 1938 (52 Stat. 781, chapter 530; 16 U.S.C. 391b, 391b–1, 392b, 392c, 396, 396a), a provision to lease lands within the National Parks extension to Native Hawaiians and to permit fishing in the area "only by native Hawaiian residents of said area or of adjacent villages and by visitors under their guidance.".
 
-&emsp;(10) Under the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for the administration of the Hawaiian Home Lands to the State of Hawaii but reaffirmed the trust relationship between the United States and the Hawaiian people by retaining the exclusive power to enforce the trust, including the power to approve land exchanges and amendments to such Act affecting the rights of beneficiaries under such Act.
+&emsp;(10) Under the Act entitled "An Act to provide for the admission of the State of Hawaiiinto the Union", approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for the administration of the Hawaiian Home Lands to the State of Hawaii but reaffirmed the trust relationship between the United States and the Hawaiian people by retaining the exclusive power to enforce the trust, including the power to approve land exchanges and amendments to such Act affecting the rights of beneficiaries under such Act.
 
 &emsp;(11) In 1959, under the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", the United States also ceded to the State of Hawaii title to the public lands formerly held by the United States, but mandated that such lands be held by the State "in public trust" and reaffirmed the special relationship that existed between the United States and the Hawaiian people by retaining the legal responsibility to enforce the public trust responsibility of the State of Hawaii for the betterment of the conditions of Native Hawaiians, as defined in section 201(a) of the Hawaiian Homes Commission Act, 1920.
 
@@ -152,7 +152,7 @@ Another prior section 6202 of Pub. L. 89–10 was classified to section 3272 of 
 
 &emsp;"(A) reaffirms and protects the unique right of the Native Hawaiian people to practice and perpetuate their culture and religious customs, beliefs, practices, and language;
 
-&emsp;"(B) recognizes the traditional language of the Native Hawaiian people as an official language of the State of Hawaii, which may be used as the language of instruction for all subjects and grades in the public school system; and
+&emsp;"(B) recognizes the traditional language of the Native Hawaiian people as an official language of theState of Hawaii, which may be used as the language of instruction for all subjects and grades in the public school system; and
 
 &emsp;"(C) promotes the study of the Hawaiian culture, language, and history by providing a Hawaiian education program and using community expertise as a suitable and essential means to further the program."
 

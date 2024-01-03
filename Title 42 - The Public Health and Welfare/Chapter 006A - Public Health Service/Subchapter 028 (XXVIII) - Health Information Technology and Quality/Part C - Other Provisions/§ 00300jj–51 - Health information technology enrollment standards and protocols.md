@@ -56,7 +56,7 @@ With respect to any standard or protocol developed under subsection (a) that has
 
 &emsp;&emsp;&emsp;&emsp;(II) elimination or updating of legacy systems; and
 
-&emsp;&emsp;&emsp;&emsp;(III) demonstrated collaboration with other entities that may receive a grantunder this section that are located in the same State, political subdivision, or locality;
+&emsp;&emsp;&emsp;&emsp;(III) demonstrated collaboration with other entities that may receive a grant under this section that are located in the same State, political subdivision, or locality;
 
 &emsp;&emsp;&emsp;(ii) an assurance that the entity will share such appropriate enrollment technology in accordance with paragraph (4); and
 

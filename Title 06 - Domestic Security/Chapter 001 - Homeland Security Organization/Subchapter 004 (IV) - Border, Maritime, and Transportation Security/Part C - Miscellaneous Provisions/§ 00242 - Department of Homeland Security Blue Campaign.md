@@ -136,7 +136,7 @@ Authorization.—Not later than 180 days after the date of the enactment of this
 
 &emsp;"(2)
 
-Notification.—Not later than 30 days before executing any transfer authorized under paragraph\(1), the Secretary of Homeland Security shall notify the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives of such planned transfer."
+Notification.—Not later than 30 days before executing any transfer authorized under paragraph (1), the Secretary of Homeland Security shall notify the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives of such planned transfer."
 
 #### Information Technology Systems
 

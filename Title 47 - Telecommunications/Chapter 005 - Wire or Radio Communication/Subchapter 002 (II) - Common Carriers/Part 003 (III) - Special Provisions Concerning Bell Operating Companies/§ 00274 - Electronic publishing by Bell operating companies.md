@@ -14,7 +14,7 @@ A separated affiliate or electronic publishing joint venture shall be operated i
 
 &emsp;(3) carry out transactions (A) in a manner consistent with such independence, (B) pursuant to written contracts or tariffs that are filed with the Commission and made publicly available, and (C) in a manner that is auditable in accordance with generally accepted auditing standards;
 
-&emsp;(4) value any assets that are transferred directly or indirectly from the Bell operating company to a separated affiliate or joint venture, and record any transactions by which such assets are transferred, in accordance withsuch regulations as may be prescribed by the Commission or a State commission to prevent improper cross subsidies;
+&emsp;(4) value any assets that are transferred directly or indirectly from the Bell operating company to a separated affiliate or joint venture, and record any transactions by which such assets are transferred, in accordance with such regulations as may be prescribed by the Commission or a State commission to prevent improper cross subsidies;
 
 &emsp;(5) between a separated affiliate and a Bell operating company—
 
@@ -66,7 +66,7 @@ A separated affiliate or electronic publishing joint venture shall be operated i
 
 #### (d) Bell operating company requirement
 
-A Bell operating company under common ownership or control with a separated affiliate or electronic publishing joint venture shall provide network access and interconnections for basic telephone service to electronic publishers at just and reasonable rates that are tariffed (so long as rates for such services are subject to regulation) and that are not higher on a per-unit basis than those charged for such services to any other electronic publisher or any separated affiliate engaged in electronic publishing.
+A Bell operating company under common ownership or control with a separated affiliate or electronic publishing joint venture shall provide network access and interconnections for basic telephone service to electronic publishers at justand reasonable rates that are tariffed (so long as rates for such services are subject to regulation) and that are not higher on a per-unit basis than those charged for such services to any other electronic publisher or any separated affiliate engaged in electronic publishing.
 
 #### (e) Private right of action
 

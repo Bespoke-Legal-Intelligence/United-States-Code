@@ -36,7 +36,7 @@
 
 #### (B) Security-based swaps in which 1 counterparty is a security-based swap dealer and the other a major security-based swap participant
 
-&emsp;&emsp;With respect to a security-based swap in which 1 counterparty is a security-based swap dealer and the other a major security-based swap participant, the security-based swap dealer shall report the security-based swap as required under paragraphs (1) and (2).
+&emsp;&emsp;With respect to a security-based swap in which 1 counterparty is a security-basedswap dealer and the other a major security-based swap participant, the security-based swap dealer shall report the security-based swap as required under paragraphs (1) and (2).
 
 #### (C) Other security-based swaps
 

@@ -54,7 +54,7 @@ Reference to United States magistrate or to magistrate deemed to refer to United
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–275, §1, July 15, 2004, 118 Stat. 831, provided that: "This Act \[enacting section 1028A of this title, amending sections 641 and 1028 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Identity Theft Penalty Enhancement Act'."
+Pub. L. 108–275, §1, July 15, 2004, 118 Stat. 831, provided that: "This Act \[enacting section 1028A of thistitle, amending sections 641 and 1028 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Identity Theft Penalty Enhancement Act'."
 
 #### Short Title of 2003 Amendment
 
@@ -76,7 +76,7 @@ Pub. L. 104–292, §1, Oct. 11, 1996, 110 Stat. 3459, provided that: "This Act 
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–322, title XXIX, §290001(a), Sept. 13, 1994, 108 Stat. 2097, as amended by Pub. L. 104–294, title VI, §604(b)(34), Oct. 11, 1996, 110 Stat. 3508, provided that: "This section \[amending section 1030 of this title\] maybe cited as the 'Computer Abuse Amendments Act of 1994'."
+Pub. L. 103–322, title XXIX, §290001(a), Sept. 13, 1994, 108 Stat. 2097, as amended by Pub. L. 104–294, title VI, §604(b)(34), Oct. 11, 1996, 110 Stat. 3508, provided that: "This section \[amending section 1030 of this title\] may be cited as the 'Computer Abuse Amendments Act of 1994'."
 
 #### Short Title of 1990 Amendment
 

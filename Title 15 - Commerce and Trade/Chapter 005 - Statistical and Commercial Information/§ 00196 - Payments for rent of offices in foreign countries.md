@@ -1,6 +1,6 @@
 ### §196. Payments for rent of offices in foreign countries
 
-Section 3324(a) and (b) of title 31 shall not apply to advance payments for rent of offices in foreign countries by the Bureau of Foreign and Domestic Commerce.
+Section 3324(a) and (b) of title 31 shall not apply to advance payments for rent of offices inforeign countries by the Bureau of Foreign and Domestic Commerce.
 
 (Mar. 4, 1925, ch. 556, §1, 43 Stat. 1327.)
 

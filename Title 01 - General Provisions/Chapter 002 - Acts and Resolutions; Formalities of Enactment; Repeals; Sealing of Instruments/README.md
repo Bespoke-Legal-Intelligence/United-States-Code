@@ -17,7 +17,7 @@
 | [111\.](%C2%A7%2000111%20-%20Repeals%20as%20evidence%20of%20prior%20effectiveness.md) | Repeals as evidence of prior effectiveness. |
 | [112\.](%C2%A7%2000112%20-%20Statutes%20at%20Large%3B%20contents%3B%20admissibility%20in%20evidence.md) | Statutes at Large; contents; admissibility in evidence. |
 | [112a.](%C2%A7%2000112a%20-%20United%20States%20Treaties%20and%20Other%20International%20Agreements%3B%20contents%3B%20admissibility%20in%20evidence.md) | United States Treaties and Other International Agreements; contents; admissibility in evidence. |
-| [112b.](%C2%A7%2000112b%20-%20United%20States%20international%20agreements%3B%20transmission%20to%20Congress.md) | United States international agreements; transmission to Congress. |
+| [112b.](%C2%A7%2000112b%20-%20United%20States%20international%20agreements%20and%20non-binding%20instruments%3B%20transparency%20provisions.md) | United States international agreements and non-binding instruments; transparency provisions. |
 | [113\.](%C2%A7%2000113%20-%20Little%20and%20Brown%27s%20edition%20of%20laws%20and%20treaties%3B%20slip%20laws%3B%20Treaties%20and%20Other%20International%20Acts%20Series%3B%20admissibility%20in%20evidence.md) | "Little and Brown's" edition of laws and treaties; slip laws; Treaties and Other International Act <sup>1</sup> Series; admissibility in evidence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,10 +27,6 @@
 | [114\.](%C2%A7%2000114%20-%20Sealing%20of%20instruments.md) | Sealing of instruments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 117–263, div. E, title LIX, §5947(a)(2), (c), Dec. 23, 2022, 136 Stat. 3481, 3482, provided that, effective 270 days after Dec. 23, 2022, this analysis is amended by striking item 112b and inserting new item 112b "United States international agreements and non-binding instruments; transparency provisions." See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -68,6 +64,6 @@
 - [&sect; 00111 - Repeals as evidence of prior effectiveness](%C2%A7%2000111%20-%20Repeals%20as%20evidence%20of%20prior%20effectiveness.md)
 - [&sect; 00112 - Statutes at Large; contents; admissibility in evidence](%C2%A7%2000112%20-%20Statutes%20at%20Large%3B%20contents%3B%20admissibility%20in%20evidence.md)
 - [&sect; 00112a - United States Treaties and Other International Agreements; contents; admissibility in evidence](%C2%A7%2000112a%20-%20United%20States%20Treaties%20and%20Other%20International%20Agreements%3B%20contents%3B%20admissibility%20in%20evidence.md)
-- [&sect; 00112b - United States international agreements; transmission to Congress](%C2%A7%2000112b%20-%20United%20States%20international%20agreements%3B%20transmission%20to%20Congress.md)
+- [&sect; 00112b - United States international agreements and non-binding instruments; transparency provisions](%C2%A7%2000112b%20-%20United%20States%20international%20agreements%20and%20non-binding%20instruments%3B%20transparency%20provisions.md)
 - [&sect; 00113 - Little and Brown's edition of laws and treaties; slip laws; Treaties and Other International Acts Series; admissibility in evidence](%C2%A7%2000113%20-%20Little%20and%20Brown%27s%20edition%20of%20laws%20and%20treaties%3B%20slip%20laws%3B%20Treaties%20and%20Other%20International%20Acts%20Series%3B%20admissibility%20in%20evidence.md)
 - [&sect; 00114 - Sealing of instruments](%C2%A7%2000114%20-%20Sealing%20of%20instruments.md)

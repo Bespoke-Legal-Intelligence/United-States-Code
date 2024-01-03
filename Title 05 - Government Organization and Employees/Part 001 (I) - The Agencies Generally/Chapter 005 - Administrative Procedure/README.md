@@ -95,7 +95,7 @@
 
 <b>1996</b>—Pub. L. 104–320, §§4(b)(2), 10(b), 11(b)(2), (d)(2), Oct. 19, 1996, 110 Stat. 3871, 3873, 3874, in item 569 substituted "Encouraging negotiated rulemaking" for "Role of the Administrative Conference of the United States and other entities", added items 570a and 584, and struck out item 582 "Compilation of information".
 
-<b>1992</b>—Pub. L. 102–354, §4, Aug. 26, 1992, 106 Stat. 945, substituted headings of subchapters III, IV, and V and items 561 to 570, 571 to 583, and 591 to 596 for former heading of subchapter III and former items 571 to 576 relating to Administrative Conference of the United States, former heading of subchapter IV and former items 581 to 593 relating to alternative means of disputeresolution in the administrative process, and former heading of subchapter IV and former items 581 to 590 relating to negotiated rulemaking procedure.
+<b>1992</b>—Pub. L. 102–354, §4, Aug. 26, 1992, 106 Stat. 945, substituted headings of subchapters III, IV, and V and items 561 to 570, 571 to 583, and 591 to 596 for former heading of subchapter III and former items 571 to 576 relating to Administrative Conference of the United States, former heading of subchapter IV and former items 581 to 593 relating to alternative means of dispute resolution in the administrative process, and former heading of subchapter IV and former items 581 to 590 relating to negotiated rulemaking procedure.
 
 <b>1990</b>—Pub. L. 101–648, §3(b), Nov. 29, 1990, 104 Stat. 4976, added heading of subchapter IV and items 581 to 590 relating to negotiated rulemaking procedure.
 

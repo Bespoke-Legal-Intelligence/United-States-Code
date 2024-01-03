@@ -1,6 +1,6 @@
 ### §4971 to 4973. Repealed. Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584
 
-Section 4971, Pub. L. 93–113, title I, §111, Oct. 1, 1973, 87 Stat. 399; Pub. L. 98–288, §9, May 21, 1984, 98 Stat. 191; Pub. L. 99–551, §5, Oct. 27, 1986, 100 Stat. 3073; Pub. L. 101–204, title II, §201(2), Dec. 7, 1989, 103 Stat. 1813; Pub. L. 103–82, title III, §330(a)(2), (3), Sept. 21, 1993, 107 Stat. 902, set forth the congressional statement of purpose for the University Year for VISTA program of full-time volunteer service by students enrolled in institutions of higher education.
+Section 4971, Pub. L. 93–113, title I, §111, Oct. 1, 1973, 87 Stat. 399; Pub. L. 98–288, §9, May 21, 1984, 98 Stat. 191; Pub. L. 99–551, §5, Oct. 27, 1986, 100 Stat. 3073; Pub. L.101–204, title II, §201(2), Dec. 7, 1989, 103 Stat. 1813; Pub. L. 103–82, title III, §330(a)(2), (3), Sept. 21, 1993, 107 Stat. 902, set forth the congressional statement of purpose for the University Year for VISTA program of full-time volunteer service by students enrolled in institutions of higher education.
 
 Section 4972, Pub. L. 93–113, title I, §112, Oct. 1, 1973, 87 Stat. 399; Pub. L. 98–288, §30(b)(1), May 21, 1984, 98 Stat. 197; Pub. L. 99–551, §10(i)(2), Oct. 27, 1986, 100 Stat. 3078; Pub. L. 103–82, title III, §330(a)(4), Sept. 21, 1993, 107 Stat. 902, provided the Director with authority to operate University Year for VISTA program.
 

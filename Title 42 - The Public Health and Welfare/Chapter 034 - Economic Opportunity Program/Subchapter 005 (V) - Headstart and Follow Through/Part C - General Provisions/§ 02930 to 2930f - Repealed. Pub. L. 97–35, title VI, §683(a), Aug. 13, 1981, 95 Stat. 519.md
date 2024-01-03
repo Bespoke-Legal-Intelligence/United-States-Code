@@ -10,7 +10,7 @@ Section 2930c, Pub. L. 88–452, title V, §574, as added Pub. L. 93–644, §8(
 
 Section 2930d, Pub. L. 88–452, title V, §575, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2309, related to unlawful demonstrations, rioting, or civil disturbances.
 
-Section 2930e, Pub. L. 88–452, title V, §576, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2309; amended Pub. L. 94–341, §2(a)(22), July 6, 1976, 90 Stat. 805, related to political activities.
+Section 2930e, Pub. L. 88–452, title V, §576, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2309; amendedPub. L. 94–341, §2(a)(22), July 6, 1976, 90 Stat. 805, related to political activities.
 
 Section 2930f, Pub. L. 88–452, title V, §577, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2310; amended Pub. L. 94–341, §2(a)(22), July 6, 1976, 90 Stat. 805, provided for advance funding.
 

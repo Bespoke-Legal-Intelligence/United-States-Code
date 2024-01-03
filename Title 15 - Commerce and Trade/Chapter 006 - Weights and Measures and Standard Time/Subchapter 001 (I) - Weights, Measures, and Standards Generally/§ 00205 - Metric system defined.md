@@ -1,6 +1,6 @@
 ### §205. Metric system defined
 
-The metric system of measurement shall be defined as the International System of Units as established in 1960, and subsequently maintained, by the General Conference of Weights and Measures, and as interpreted or modified forthe United States by the Secretary of Commerce.
+The metric system of measurement shall be defined as the International System of Units as established in 1960, and subsequently maintained, by the General Conference of Weights and Measures, and as interpreted or modified for the United States by the Secretary of Commerce.
 
 (R.S. §3570; Pub. L. 110–69, title III, §3013(c)(1), Aug. 9, 2007, 121 Stat. 598.)
 

@@ -33,7 +33,7 @@ Limitations.—(1) Of the total number of members of a reserve component who are
 | 32,000 | 2,330 | 1,315 | 460&nbsp;&nbsp; |
 | 34,000 | 2,450 | 1,385 | 470&nbsp;&nbsp; |
 | 36,000 | 2,570 | 1,455 | 480&nbsp;&nbsp; |
-| 38,000 | 2,670 | 1,527 | 490   |
+| 38,000 | 2,670 | 1,527 | 490&nbsp;&nbsp; |
 | 40,000 | 2,770 | 1,590 | 500&nbsp;&nbsp; |
 | 42,000 | 2,837 | 1,655 | 505&nbsp;&nbsp; |
 | &nbsp; |  |  |  |
@@ -56,7 +56,7 @@ Limitations.—(1) Of the total number of members of a reserve component who are
 | 2,600 | 155 | 113 | 36&nbsp;&nbsp; |
 | 2,700 | 161 | 118 | 37&nbsp;&nbsp; |
 | 2,800 | 167 | 122 | 39&nbsp;&nbsp; |
-| 2,900 | 173 | 126 | 41&nbsp;&nbsp; |
+| 2,900 | 173 | 126 | 41   |
 | 3,000 | 179 | 130 | 42&nbsp;&nbsp; |
 | &nbsp; |  |  |  |
 | Air Force Reserve |  |  |  |
@@ -136,11 +136,11 @@ Full-Time Reserve Component Duty Defined.—In this section, the term "full-time
 
 &emsp;(1) Active duty described in sections 10211, 10302, 10303, 10304, 10305, 12310, or 12402 of this title.
 
-&emsp;(2) Full-time National Guard duty (other than for training) under section 502(f) of title32, except for duty under section 115(b)(1)(B) and (C) of this title and section 115(i)(9) of this title.
+&emsp;(2) Full-time National Guard duty (other than for training) under section 502(f) of title 32, except for duty under section 115(b)(1)(B) and (C) of this title and section 115(i)(9) of this title.
 
 &emsp;(3) Active duty described in section 708 of title 32.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844, §524; amended Pub. L. 97–86, title V, §503(b), Dec. 1, 1981, 95 Stat. 1108; Pub. L. 97–252, title V, §503(b), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(b), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(b), 414(a)(4)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2518, 2519; Pub. L. 99–145, title IV, §413(b), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(b), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(b), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(b), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(b), Nov. 30, 1993, 107 Stat. 1642; renumbered §12011 and amended Pub. L. 103–337, div. A, title XVI, §1662(a)(2), Oct. 5, 1994, 108 Stat. 2988; Pub. L. 104–106, div. A, title IV, §414(a), Feb. 10, 1996, 110 Stat. 288; Pub. L. 105–261, div. A, title IV, §414(a), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(a), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(a), 421(b), 424(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(a), Dec. 28, 2001, 115 Stat. 1070; Pub. L. 108–375, div. A, title IV, §416(h), Oct. 28, 2004, 118 Stat. 1869; Pub. L. 109–163, div. A, title V, §515(b)(1)(HH), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–417, \[div. A\], title V, §512(a), (b), Oct. 14, 2008, 122 Stat. 4439, 4440; Pub. L. 115–232, div. A, title V, §515(a), Aug. 13, 2018, 132 Stat. 1752; Pub. L. 116–92, div. A, title IV, §§415(a), 416(a), Dec. 20, 2019, 133 Stat. 1337, 1338.)
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844, §524; amended Pub. L. 97–86, title V, §503(b), Dec. 1, 1981, 95 Stat. 1108; Pub. L. 97–252, title V, §503(b), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(b), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(b), 414(a)(4)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2518, 2519; Pub. L. 99–145, title IV, §413(b), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(b), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(b), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(b), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(b), Nov. 30, 1993, 107 Stat. 1642; renumbered §12011 and amended Pub. L. 103–337, div. A, title XVI, §1662(a)(2), Oct. 5,1994, 108 Stat. 2988; Pub. L. 104–106, div. A, title IV, §414(a), Feb. 10, 1996, 110 Stat. 288; Pub. L. 105–261, div. A, title IV, §414(a), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(a), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(a), 421(b), 424(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(a), Dec. 28, 2001, 115 Stat. 1070; Pub. L. 108–375, div. A, title IV, §416(h), Oct. 28, 2004, 118 Stat. 1869; Pub. L. 109–163, div. A, title V, §515(b)(1)(HH), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–417, \[div. A\], title V, §512(a), (b), Oct. 14, 2008, 122 Stat. 4439, 4440; Pub. L. 115–232, div. A, title V, §515(a), Aug. 13, 2018, 132 Stat. 1752; Pub. L. 116–92, div. A, title IV, §§415(a), 416(a), Dec. 20, 2019, 133 Stat. 1337, 1338.)
 
 #### <b>Editorial Notes</b>
 
@@ -180,13 +180,13 @@ Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title IV, §424(a)\], added su
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 524 of this title as this section and amended section catchline generally striking out at end "in grades of major, lieutenant colonel, and colonel and Navy grades of lieutenant commander, commander, and captain".
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–160, in table, increased fiscal year limitation on number of reserve officers in the Air Force in grade of Lieutenant Colonel or Commander from 595 to 636 and in grade of Colonel or NavyCaptain from 227 to 274. Army, Navy, and Marine Corps figures remained unchanged.
+<b>1993</b>—Subsec. (a). Pub. L. 103–160, in table, increased fiscal year limitation on number of reserve officers in the Air Force in grade of Lieutenant Colonel or Commander from 595 to 636 and in grade of Colonel or Navy Captain from 227 to 274. Army, Navy, and Marine Corps figures remained unchanged.
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–190, in table, increased fiscal year limitation on number of reserve officers in the Army in grade of Colonel or Navy Captain from 364 to 372, and increased such limitation on number of reserve officers in the Air Force in grade of Lieutenant Colonel or Commander from 532 to 595 and in grade of Colonel or Navy Captain from 194 to 227. Navy and Marine Corps figures remained unchanged.
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–189, §413(b)(2), in table, increased fiscal year limitation on number of reserve officers in grade of Major or Lieutenant Commander, Lieutenant Colonel or Commander, and Colonel or Navy Captain who may be on active duty to, respectively: Army, to 3,219, 1,524, and 364 from 3,030, 1,448, and 351; Navy, to 1,071, 520, and 188 from 1,065, 520, and 188; Air Force, to 575, 532, and 194 from 575, 476, and 190. Marine Corps figures remained unchanged.
 
-Pub. L. 101–189, §413(b)(1), in table, increased fiscal year limitation on number of reserve officers in grade of Major or Lieutenant Commander, Lieutenant Colonel or Commander, and Colonel or Navy Captain who may be on active duty to, respectively: Army, to 3,030, 1,448, and 351 from 2,600, 1,250, and 348; Navy, to 1,065, 520, and 188 from 875, 520, and 185; Air Force, to 575, 476, and 190 from 575, 322, and 190. Marine Corps figures remained unchanged.
+Pub. L. 101–189, §413(b)(1), in table, increased fiscal year limitation on number of reserve officers in grade of Major or Lieutenant Commander, Lieutenant Colonel or Commander, and Colonel or Navy Captain who may be on active duty to, respectively: Army, to 3,030,1,448, and 351 from 2,600, 1,250, and 348; Navy, to 1,065, 520, and 188 from 875, 520, and 185; Air Force, to 575, 476, and 190 from 575, 322, and 190. Marine Corps figures remained unchanged.
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–180, §413(b)(2), in table, increased fiscal year limitation on number of reserve officers in grade of Major or Lieutenant Commander, Lieutenant Colonel or Commander, and Colonel or Navy Captain who may be on active duty to, respectively: Army, to 2,600, 1,250, and 348 from 2,550, 1,152, and 348; Navy, to 875, 520, and 185 from 850, 520, and 185; Air Force, to 575, 322, and 190 from 575, 322, and 184; and Marine Corps, to 110, 75, and 25 from 105, 70, and 25.
 

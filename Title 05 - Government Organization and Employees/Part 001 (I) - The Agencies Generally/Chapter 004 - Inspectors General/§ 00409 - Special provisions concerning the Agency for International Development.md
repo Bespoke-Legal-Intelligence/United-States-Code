@@ -10,7 +10,7 @@ Members of Foreign Service.—In addition to the officers and employees provided
 
 (c)
 
-Field Offices.—In establishing and staffing field offices pursuant to section 406(d) of this title, the Administrator of the Agency for International Development shall not be bound by overseas personnel ceilings.
+Field Offices.—In establishing and staffing field offices pursuant to section 406(d) of thistitle, the Administrator of the Agency for International Development shall not be bound by overseas personnel ceilings.
 
 (d)
 

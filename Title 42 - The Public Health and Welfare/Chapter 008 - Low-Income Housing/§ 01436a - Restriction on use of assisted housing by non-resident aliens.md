@@ -86,7 +86,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;&emsp;(ii) pending such verification or appeal, the applicable Secretary may not—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of any individual receiving assistance on September 30, 1996,delay, deny, reduce, or terminate the eligibility of that individual for financial assistance on the basis of the immigration status of that individual; and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of any individual receiving assistance on September 30, 1996, delay, deny, reduce, or terminate the eligibility of that individual for financial assistance on the basis of the immigration status of that individual; and
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of any individual applying for financial assistance on or after September 30, 1996, deny the application for such assistance on the basis of the immigration status of that individual; and
 
@@ -156,7 +156,7 @@ For purposes of this section, the term "applicable Secretary" means—
 
 &emsp;For purposes of this subsection, with respect to a family, the term "eligibility" means the eligibility of each family member.
 
-(Pub. L. 96–399, title II, §214, Oct. 8, 1980, 94 Stat. 1637; Pub. L. 97–35, title III, §329(a), Aug. 13, 1981, 95 Stat. 408; Pub. L. 99–603, title I, §121(a)(2), Nov. 6, 1986, 100 Stat. 3386; Pub. L. 100–242, title I, §164(a)–(f)(1), Feb. 5, 1988, 101 Stat. 1860–1863; Pub. L. 104–193, title IV, §441(a), Aug. 22, 1996, 110 Stat. 2276; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(ii), title V, §§572–576, Sept. 30, 1996, 110 Stat. 3009–624, 3009–684, 3009–685, 3009–687; Pub. L. 105–276, title V, §592(a), Oct. 21, 1998, 112 Stat. 2653; Pub. L. 106–504, §3(b), Nov. 13, 2000, 114 Stat. 2312; Pub. L. 114–201, title I, §113, July 29, 2016, 130 Stat. 804.)
+(Pub. L. 96–399, title II, §214, Oct. 8, 1980, 94 Stat. 1637; Pub. L. 97–35, title III, §329(a), Aug. 13, 1981, 95 Stat. 408; Pub. L. 99–603, title I, §121(a)(2), Nov. 6, 1986, 100 Stat. 3386; Pub. L. 100–242, title I, §164(a)–(f)(1), Feb. 5, 1988, 101 Stat. 1860–1863; Pub. L. 104–193, title IV, §441(a), Aug. 22, 1996, 110 Stat. 2276; Pub. L. 104–208, div. C, title III,§308(g)(7)(D)(ii), title V, §§572–576, Sept. 30, 1996, 110 Stat. 3009–624, 3009–684, 3009–685, 3009–687; Pub. L. 105–276, title V, §592(a), Oct. 21, 1998, 112 Stat. 2653; Pub. L. 106–504, §3(b), Nov. 13, 2000, 114 Stat. 2312; Pub. L. 114–201, title I, §113, July 29, 2016, 130 Stat. 804.)
 
 #### <b>Editorial Notes</b>
 
@@ -296,7 +296,7 @@ Subsec. (g). Pub. L. 100–242, §164(f)(1), added subsec. (g).
 
 <b>1986</b>—Subsecs. (d), (e). Pub. L. 99–603 added subsecs. (d) and (e).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted provisions relating to restrictions on use of assisted housing byresident aliens meeting further conditions for provisions relating to prohibition on financial assistance to nonimmigrant student-aliens.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted provisions relating to restrictions on use of assisted housing by resident aliens meeting further conditions for provisions relating to prohibition on financial assistance to nonimmigrant student-aliens.
 
 Subsec. (b). Pub. L. 97–35 struck out "(1)" after "(b)" and par. (2) which defined "nonimmigrant student-alien".
 
@@ -322,7 +322,7 @@ Pub. L. 100–242, title I, §164(h), Feb. 5, 1988, 101 Stat. 1863, provided tha
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–603 effective on Oct. 1, 1988, with certain exceptions and qualifications, see section 121(c)(3), (4) of Pub. L. 99–603, set out as a note under section 1320b–7 of this title.
+Amendment by Pub. L. 99–603 effective on Oct. 1, 1988, with certain exceptions and qualifications, see section121(c)(3), (4) of Pub. L. 99–603, set out as a note under section 1320b–7 of this title.
 
 #### Effective Date of 1981 Amendment
 

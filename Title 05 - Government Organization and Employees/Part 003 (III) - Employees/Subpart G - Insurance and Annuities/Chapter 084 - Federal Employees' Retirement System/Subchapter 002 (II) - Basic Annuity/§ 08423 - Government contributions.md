@@ -20,7 +20,7 @@
 
 (ii) Any contributions under this subsection in excess of the amounts which (but for clause (i)) would otherwise have been payable shall be applied toward reducing the unfunded liability of the Civil Service Retirement System.
 
-(iii) After the unfunded liability of the Civil Service Retirement System has been eliminated, as determined by the Office, Government contributions under this subsection shall be determined and made disregarding this subparagraph.
+(iii) After the unfunded liability of the Civil Service Retirement System has been eliminated, as determined by the Office, Governmentcontributions under this subsection shall be determined and made disregarding this subparagraph.
 
 (iv) The preceding provisions of this subparagraph shall be disregarded for purposes of determining the contributions payable by the United States Postal Service and the Postal Regulatory Commission.
 
@@ -52,7 +52,7 @@
 
 (4)(A) Before closing the accounts for a fiscal year, the Secretary of the Treasury shall credit to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated, the amount under paragraph (3)(A) for such year.
 
-(B) Upon receiving notification under paragraph (3)(B), the United States Postal Serviceshall pay the amount specified in such notification to the Fund.
+(B) Upon receiving notification under paragraph (3)(B), the United States Postal Service shall pay the amount specified in such notification to the Fund.
 
 (5) For the purpose of carrying out paragraph (1) with respect to any fiscal year, the Office may—
 

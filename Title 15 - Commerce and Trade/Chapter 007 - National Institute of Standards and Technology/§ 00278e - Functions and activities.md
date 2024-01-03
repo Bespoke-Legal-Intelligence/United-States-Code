@@ -8,7 +8,7 @@ In the performance of the functions of the Institute the Secretary of Commerce i
 
 #### Codification
 
-"Sections 5542 to 5546 of title 5" substituted in text for "titles II and III of the Federal Employees Pay Actof 1945" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+"Sections 5542 to 5546 of title 5" substituted in text for "titles II and III of the Federal Employees Pay Act of 1945" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

@@ -44,7 +44,7 @@ As used in this chapter—
 
 #### (11) Producer
 
-&emsp;The term "producer" means any person engaged in the production of mushrooms whoowns or who shares the ownership and risk of loss of such mushrooms and who produces, on average, over 500,000 pounds of mushrooms per year.
+&emsp;The term "producer" means any person engaged in the production of mushrooms who owns or who shares the ownership and risk of loss of such mushrooms and who produces, on average, over 500,000 pounds of mushrooms per year.
 
 #### (12) Promotion
 

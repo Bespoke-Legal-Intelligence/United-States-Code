@@ -38,7 +38,7 @@
 
 <b>2006</b>—Pub. L. 109–364, div. B, title XXVIII, §2803(b), Oct. 17, 2006, 120 Stat. 2467, struck out item 2823 "Determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing".
 
-<b>2000</b>—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2803(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, substituted "Military family housing: local comparability of room patterns and floor areas" for "Limitations on space by pay grade" in item 2826.
+<b>2000</b>—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2803(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, substituted "Military family housing: local comparabilityof room patterns and floor areas" for "Limitations on space by pay grade" in item 2826.
 
 <b>1994</b>—Pub. L. 103–337, div. B, title XXVIII, §2803(b), Oct. 5, 1994, 108 Stat. 3053, added item 2837.
 

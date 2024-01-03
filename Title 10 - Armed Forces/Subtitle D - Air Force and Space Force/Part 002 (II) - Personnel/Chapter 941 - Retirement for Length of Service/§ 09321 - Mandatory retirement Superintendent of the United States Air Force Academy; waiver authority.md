@@ -14,7 +14,7 @@ Waiver Authority.—The Secretary of Defense may waive the requirement in subsec
 
 #### Amendments
 
-<b>2022</b>—Subsec. (b). Pub. L. 117–263 inserted at end "In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to afurther assignment in lieu of retirement shall be subject to the advice and consent of the Senate."
+<b>2022</b>—Subsec. (b). Pub. L. 117–263 inserted at end "In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to a further assignment in lieu of retirement shall be subject to the advice and consent of the Senate."
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8921 of this title as this section.
 

@@ -32,7 +32,7 @@ Allowable Cost Standards.—A project cost is allowable—
 
 &emsp;&emsp;(ii) before a grant agreement is executed for the project; and
 
-&emsp;&emsp;(iii) in accordance with an airport layout plan approved by the Secretary and with all statutory and administrative requirements that would have been applicable to the project if the project had been carried out after the grant agreement had been executed; or
+&emsp;&emsp;(iii) in accordance with an airport layout plan approved by the Secretary and with all statutory and administrative requirementsthat would have been applicable to the project if the project had been carried out after the grant agreement had been executed; or
 
 &emsp;(D) if the cost is for airport development and is incurred before execution of the grant agreement, but in the same fiscal year as execution of the grant agreement, and if—
 
@@ -94,7 +94,7 @@ Letters of Intent.—(1) The Secretary may issue a letter of intent to the spons
 
 (3) A letter of intent issued under paragraph (1) of this subsection is not an obligation of the Government under section 1501 of title 31, and the letter is not deemed to be an administrative commitment for financing. An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriation laws.
 
-(4) The total estimated amount of future Government obligations covered by all outstanding letters of intent under paragraph (1) of this subsection may not be more than the amount authorized to carry out section 48103 of this title, less an amount reasonably estimated by the Secretary to be needed for grants under section 48103 that are not covered by a letter.
+(4) The total estimated amount of future Government obligations covered by all outstandingletters of intent under paragraph (1) of this subsection may not be more than the amount authorized to carry out section 48103 of this title, less an amount reasonably estimated by the Secretary to be needed for grants under section 48103 that are not covered by a letter.
 
 (5)
 
@@ -140,7 +140,7 @@ Bird-Detecting Radar Systems.—The Administrator of the Federal Aviation Admini
 
 &emsp;(2) within 180 days after such research is concluded, issue a final report on the use of avian radar systems in the national airspace system.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222; Pub. L. 106–181, title I, §127, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(2), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§145, 149(b), 159(c), Dec. 12, 2003, 117 Stat. 2504, 2505, 2511; Pub. L. 109–115, div. A, title I, §176(b), Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title I, §§111(c)(2)(A)(ii), 138, Feb. 14, 2012, 126 Stat. 18, 25; Pub. L. 115–254, div. B, title I, §184(b), title V, §539(n), Oct. 5, 2018, 132 Stat. 3234, 3371; Pub. L. 117–186, §2, Oct. 10, 2022, 136 Stat. 2199.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222; Pub. L. 106–181, title I, §127, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(2), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§145, 149(b), 159(c), Dec. 12, 2003, 117 Stat. 2504, 2505, 2511; Pub. L. 109–115, div. A, title I, §176(b), Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title I, §§111(c)(2)(A)(ii), 138, Feb. 14, 2012, 126 Stat. 18, 25; Pub. L. 115–254, div. B, title I, §184(b), title V, §539(n), Oct. 5, 2018, 132 Stat. 3234, 3371; Pub. L. 117–186, §2, Oct. 10, 2022, 136 Stat. 2199.)
 
 Historical and Revision Notes
 
@@ -196,7 +196,7 @@ Subsection (b)(3) is substituted for "in the opinion of the Secretary it is reas
 
 Subsection (b)(5) is substituted for "except that in no event may the Secretary allow project costs in excess of the definite amount stated in the grant agreement except to the extent authorized by section 2211(b) of this Appendix" for consistency in this section.
 
-In subsection (c), before clause (1), the words "The Secretary may decide that a project cost . . . is allowable" are substituted for "However, the allowable costs of a project . . . may include . . . and the allowable costs of a project . . . may include" for clarity and consistency in the revised title. The words "incurred after May 13, 1946, and before the date the grant agreement is executed" are substituted for "which were incurred prior to the execution of the grant agreement and subsequent to May 13, 1946" and "which were incurred subsequent to May 13, 1946" to eliminate unnecessary words. In clause (1), the words "preparation of", "acquisition of", "by the sponsor specifically in connection with the accomplishment of the project for airport development" are omitted as surplus. The words "property interests in land or airspace" are substituted for "land or interests therein or easements through or other interests in airspace" to eliminate unnecessary words.
+In subsection (c), before clause (1), the words "The Secretary may decide that a project cost . . . is allowable" are substituted for "However, the allowable costs of a project . . . may include . . . and the allowablecosts of a project . . . may include" for clarity and consistency in the revised title. The words "incurred after May 13, 1946, and before the date the grant agreement is executed" are substituted for "which were incurred prior to the execution of the grant agreement and subsequent to May 13, 1946" and "which were incurred subsequent to May 13, 1946" to eliminate unnecessary words. In clause (1), the words "preparation of", "acquisition of", "by the sponsor specifically in connection with the accomplishment of the project for airport development" are omitted as surplus. The words "property interests in land or airspace" are substituted for "land or interests therein or easements through or other interests in airspace" to eliminate unnecessary words.
 
 In subsection (d)(1), before clause (A), the words "The Secretary may decide that the cost . . . is allowable" are substituted for "the Secretary may approve, as allowable project costs" and "The Secretary shall approve project costs allowable under paragraph (1) of this subsection" for clarity and consistency in this section. In clause (B), the words "the boundaries of" are omitted as surplus. In clause (C), the words "and conditions" are omitted as being included in "terms".
 

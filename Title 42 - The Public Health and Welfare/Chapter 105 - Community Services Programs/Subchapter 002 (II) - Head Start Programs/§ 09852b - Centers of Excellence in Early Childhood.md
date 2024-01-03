@@ -116,7 +116,7 @@ A center of excellence that receives a bonus grant under subsection (b)—
 
 #### (3) Reports to the Secretary
 
-&emsp;Each center of excellence shall submit an annual report to the Secretary, at such time and in such manner as the Secretary may require, that contains a description of the activities the center carried out with funds received under this section, including a description of how such funds improved services for children and families.
+&emsp;Each center of excellence shall submit an annual report to the Secretary, at such timeand in such manner as the Secretary may require, that contains a description of the activities the center carried out with funds received under this section, including a description of how such funds improved services for children and families.
 
 #### (f) Authorization of appropriations
 

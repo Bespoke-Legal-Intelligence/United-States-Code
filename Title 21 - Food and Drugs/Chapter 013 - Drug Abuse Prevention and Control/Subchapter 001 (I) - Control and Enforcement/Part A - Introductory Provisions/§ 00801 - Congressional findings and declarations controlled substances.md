@@ -28,7 +28,7 @@ The Congress makes the following findings and declarations:
 
 #### References in Text
 
-This subchapter, referred to in par. (1), was in the original "this title", meaning title II of Pub. L. 91–513,Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out below and Tables.
+This subchapter, referred to in par. (1), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out below and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -82,7 +82,7 @@ Pub. L. 113–143, §1, Aug. 1, 2014, 128 Stat. 1750, provided that: "This Act \
 
 #### Short Title of 2012 Amendment
 
-Pub. L. 112–144, title XI, §1151, July 9, 2012, 126 Stat. 1130, provided that: "This subtitle \[subtitle D (§§1151–1153) of title XI of Pub. L. 112–144, amending sections 811 and 812 of this title\] may be cited as the 'Synthetic Drug Abuse Prevention Act of 2012'."
+Pub. L. 112–144, title XI, §1151, July 9, 2012, 126 Stat. 1130, provided that: "This subtitle \[subtitle D\(§§1151–1153) of title XI of Pub. L. 112–144, amending sections 811 and 812 of this title\] may be cited as the 'Synthetic Drug Abuse Prevention Act of 2012'."
 
 #### Short Title of 2010 Amendment
 
@@ -374,7 +374,7 @@ Funding.—Of the amounts made available to carry out the Controlled Substances 
 
 Reports.—After consultation with the Task Force, the Administrators shall—
 
-&emsp;"(1) transmit to the President and to each House of Congress not later than 270 days after the date of the enactment of this subtitle \[Nov. 18, 1988\] a report describing the program established by the Task Force under subsection (c) (including an analysis of the factors specified in paragraphs (1) through (5) of that subsection);
+&emsp;"(1) transmit to the President and to each House of Congress not later than 270 days after the date of theenactment of this subtitle \[Nov. 18, 1988\] a report describing the program established by the Task Force under subsection (c) (including an analysis of the factors specified in paragraphs (1) through (5) of that subsection);
 
 &emsp;"(2) periodically transmit to the President and to each House of Congress reports describing the implementation of the program established by the Task Force under subsection (c) (including an analysis of the factors specified in paragraphs (1) through (5) of that subsection) and the progress made in the cleanup and disposal of hazardous waste produced by illegal drug laboratories; and
 
@@ -392,7 +392,7 @@ Interagency Agreement.—The Secretary of Transportation and the Secretary of th
 
 Negotiations With Canada on Drug Enforcement Cooperation.—The Secretary of State is encouraged to enter into negotiations with appropriate officials of the Government of Canada for the purpose of establishing an agreement between the United States and Canada which provides for increased cooperation and sharing of information between United States and Canadian law enforcement officials with respect to law enforcement efforts conducted on the Great Lakes between the United States and Canada."
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.\]
 
@@ -522,7 +522,7 @@ Findings.—The Congress finds that—
 
 Sense of Congress.—It is the sense of Congress that—
 
-&emsp;"(1) all employers providing health insurance policies should ensure that the policies provide adequate coverage for treatment of drug and alcohol addiction in recognition that the health consequences and costs for individuals and society can be as formidable as those resulting from other diseases and illnesses for which insurance coverage is much more adequate; and
+&emsp;"(1) all employers providing health insurance policies should ensure that the policies provide adequate coverage for treatment of drug and alcohol addiction in recognition that the health consequences and costsfor individuals and society can be as formidable as those resulting from other diseases and illnesses for which insurance coverage is much more adequate; and
 
 &emsp;"(2) State insurance commissioners should encourage employers providing health benefits plans to ensure that the policies provide more adequate coverage for treatment of drug and alcohol addiction."
 
@@ -546,7 +546,7 @@ Pub. L. 91–513, title II, §601, Oct. 27, 1970, 84 Stat. 1280, as amended by P
 
 \[Chairman; Vice Chairman; compensation of members; meetings\] (1) The President shall designate one of the members of the Commission as Chairman and one as Vice Chairman. Seven members of the Commission shall constitute a quorum, but a lesser number may conduct hearings.
 
-"(2) Members of the Commission who are Members of Congress or full-time officers or employees of theUnited States shall serve without additional compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of the duties vested in the Commission. Members of the Commission from private life shall receive $100 per diem while engaged in the actual performance of the duties vested in the Commission, plus reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of such duties.
+"(2) Members of the Commission who are Members of Congress or full-time officers or employees of the United States shall serve without additional compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of the duties vested in the Commission. Members of the Commission from private life shall receive $100 per diem while engaged in the actual performance of the duties vested in the Commission, plus reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of such duties.
 
 "(3) The Commission shall meet at the call of the Chairman or at the call of a majority of the members thereof.
 

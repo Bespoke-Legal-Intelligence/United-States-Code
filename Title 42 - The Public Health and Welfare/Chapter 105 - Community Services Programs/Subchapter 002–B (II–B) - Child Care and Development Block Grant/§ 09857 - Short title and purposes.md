@@ -10,7 +10,7 @@ The purposes of this subchapter are—
 
 &emsp;(1) to allow each State maximum flexibility in developing child care programs and policies that best suit the needs of children and parents within that State;
 
-&emsp;(2) to promote parental choice to empower working parents to make their own decisions regarding the child care services that best suit their family's needs;
+&emsp;(2) to promote parental choice to empower working parents to make their own decisionsregarding the child care services that best suit their family's needs;
 
 &emsp;(3) to encourage States to provide consumer education information to help parents make informed choices about child care services and to promote involvement by parents and family members in the development of their children in child care settings;
 

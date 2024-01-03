@@ -1,6 +1,6 @@
 ### §211a. Authority to grant, issue, and verify passports
 
-The Secretary of State may grant and issue passports, and cause passports to be granted, issued, and verified in foreign countries by diplomatic and consular officers of the United States, and by such other employees of the Department of State who are citizens of the United States as the Secretary of State may designate, and by the chief or other executive officer of the insular possessions of the United States, under such rules as the President shall designate and prescribe for and on behalf of the United States, and no other person shall grant, issue, or verify such passports. Unless authorized by law, a passport may not be designated as restricted fortravel to or for use in any country other than a country with which the United States is at war, where armed hostilities are in progress, or where there is imminent danger to the public health or the physical safety of United States travellers.
+The Secretary of State may grant and issue passports, and cause passports to be granted, issued, and verified in foreign countries by diplomatic and consular officers of the United States, and by such other employees of the Department of State who are citizens of the United States as the Secretary of State may designate, and by the chief or other executive officer of theinsular possessions of the United States, under such rules as the President shall designate and prescribe for and on behalf of the United States, and no other person shall grant, issue, or verify such passports. Unless authorized by law, a passport may not be designated as restricted for travel to or for use in any country other than a country with which the United States is at war, where armed hostilities are in progress, or where there is imminent danger to the public health or the physical safety of United States travellers.
 
 (July 3, 1926, ch. 772, §1, 44 Stat. 887; Pub. L. 95–426, title I, §124, Oct. 7, 1978, 92 Stat. 971; Pub. L. 103–236, title I, §127(a), Apr. 30, 1994, 108 Stat. 394; Pub. L. 103–415, §1(b), Oct. 25, 1994, 108 Stat. 4299.)
 
@@ -18,9 +18,31 @@ Pub. L. 103–236 substituted "by diplomatic and consular officers of the United
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 118–31, div. F, title LXI, §6114(a), Dec. 22, 2023, 137 Stat. 968, provided that: "This section \[amending section 214 of this title\] may be cited as the 'First Responders Passport Act'."
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–167, §1, Jan. 10, 2006, 119 Stat. 3578, provided that: "This Act \[amending section 214 of this title\] may be cited as the 'Passport Services Enhancement Act of 2005'."
+
+#### Special Hiring Authority for Passport Services
+
+Pub. L. 118–31, div. F, title LXI, §6101, Dec. 22, 2023, 137 Stat. 965, provided that: "During the 3-year period beginning on the date of the enactment of this division \[Dec. 22, 2023\], the Secretary \[of State\], without regard to the provisions under sections 3309 through 3318 of title 5, United States Code, may directly appoint up to 80 candidates to positions in the competitive service (as defined in section 2102 of such title) at the Department \[of State\] in the Passport and Visa Examining Series 0967."
+
+#### Passport Travel Advisories
+
+Pub. L. 118–31, div. F, title LXI, §6103, Dec. 22, 2023, 137 Stat. 965, provided that: "Not later than 180 days after the date of the enactment of this division \[Dec. 22, 2023\], the Department \[of State\] should make prominent in United States regular passports, on the first three pages of the passport, the following information:
+
+&emsp;"(1) A prominent, clear advisory for all travelers to check travel.state.gov for updated travel warnings and advisories.
+
+&emsp;"(2) A prominent, clear notice urging all travelers to register with the Department prior to overseas travel.
+
+&emsp;"(3) A prominent, clear advisory—
+
+&emsp;&emsp;"(A) noting that many countries deny entry to travelers during the last 6 months of their passport validity period; and
+
+&emsp;&emsp;"(B) urging all travelers to renew their passport not later than 1 year prior to its expiration."
 
 #### Limitations on Use of Funds for Procurement of Paper for Passports
 

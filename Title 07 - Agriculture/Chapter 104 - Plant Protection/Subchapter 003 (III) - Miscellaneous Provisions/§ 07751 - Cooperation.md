@@ -8,7 +8,7 @@ The Secretary may cooperate with other Federal agencies or entities, States or p
 
 The individual or entity cooperating with the Secretary under subsection (a) shall be responsible for—
 
-&emsp;(1) the authority necessary to conduct the operations or take measures on all land andproperties within the foreign country or State, other than those owned or controlled by the United States; and
+&emsp;(1) the authority necessary to conduct the operations or take measures on all land and properties within the foreign country or State, other than those owned or controlled by the United States; and
 
 &emsp;(2) other facilities and means as the Secretary determines necessary.
 

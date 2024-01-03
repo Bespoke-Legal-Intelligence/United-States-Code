@@ -82,7 +82,7 @@ Pub. L. 116–283, §1844(b)(1), which directed the renumbering of section 2353 
 
 Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) ofPub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Limitations on Modifications of Certain Government-Furnished Equipment; One-Time Authority To Transfer a Certain Military Prototype
 
@@ -120,7 +120,7 @@ One-time Authority to Transfer.—The Secretary of the Navy may transfer, to Pia
 
 "(d)
 
-Applicable Law.—The transfer or use of military equipment is subject to all applicable Federal andState laws and regulations, including, but not limited to, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], the Export Administration Act of 1979 \[50 U.S.C. 4601 et seq.\], continued under Executive Order 12924 \[listed in a table under 50 U.S.C. 1701\], International Traffic in Arms Regulations (22 C.F.R. 120 et seq.), Export Administration Regulations (15 C.F.R. 730 et seq.), Foreign Assets Control Regulations (31 C.F.R. 500 et seq.), and the Espionage Act \[act June 15, 1917, ch. 30, 40 Stat. 217, see Tables for classification\].
+Applicable Law.—The transfer or use of military equipment is subject to all applicable Federal and State laws and regulations, including, but not limited to, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], the Export Administration Act of 1979 \[50 U.S.C. 4601 et seq.\], continued under Executive Order 12924 \[listed in a table under 50 U.S.C. 1701\], International Traffic in Arms Regulations (22 C.F.R. 120 et seq.), Export Administration Regulations (15 C.F.R. 730 et seq.), Foreign Assets Control Regulations (31 C.F.R. 500 et seq.), and the Espionage Act \[act June 15, 1917, ch. 30, 40 Stat. 217, see Tables for classification\].
 
 "(e)
 

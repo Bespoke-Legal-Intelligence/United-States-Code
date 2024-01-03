@@ -8,7 +8,7 @@ The Secretary, pursuant to the authority provided under provisions of the Federa
 
 Within 6 months after November 17, 1988, the Secretary shall publish an update of the management plan to expand the steel research and development initiative to include aluminum and to carry out the purposes of this chapter. The Secretary, from time to time, may further update the management plan. The management plan shall be subject to the following conditions:
 
-&emsp;(1) For newly initiated research and development proposals submitted under the revised management plan, the non-Federal financialshare shall equal at least 30 percent of the total cost of any project.
+&emsp;(1) For newly initiated research and development proposals submitted under the revised management plan, the non-Federal financial share shall equal at least 30 percent of the total cost of any project.
 
 &emsp;(2) Existing facilities, equipment, supplies, and other property may be included in the non-Federal share under this section only when they are directly relevant to the project.
 
@@ -78,7 +78,7 @@ The Secretary shall arrange for participation and review by representatives of e
 
 #### References in Text
 
-The Federal Nonnuclear Research and Development Act of 1974, referred to in subsec. (a), probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
+The Federal Nonnuclear Research and Development Act of 1974, referred to in subsec. (a), probably meansthe Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 
 #### Amendments
 

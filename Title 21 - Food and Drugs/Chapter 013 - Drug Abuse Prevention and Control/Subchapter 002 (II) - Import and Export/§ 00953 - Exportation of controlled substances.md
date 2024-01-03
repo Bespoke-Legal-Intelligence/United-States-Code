@@ -6,7 +6,7 @@ It shall be unlawful to export from the United States any narcotic drug in sched
 
 &emsp;(1) it is exported to a country which is a party to—
 
-&emsp;&emsp;(A) the International Opium Convention of 1912 for the Suppression of the Abuses ofOpium, Morphine, Cocaine, and Derivative Drugs, or to the International Opium Convention signed at Geneva on February 19, 1925; or
+&emsp;&emsp;(A) the International Opium Convention of 1912 for the Suppression of the Abuses of Opium, Morphine, Cocaine, and Derivative Drugs, or to the International Opium Convention signed at Geneva on February 19, 1925; or
 
 &emsp;&emsp;(B) the Convention for Limiting the Manufacture and Regulating the Distribution of Narcotic Drugs concluded at Geneva, July 13, 1931, as amended by the protocol signed at Lake Success on December 11, 1946, and the protocol bringing under international control drugs outside the scope of the convention of July 13, 1931, for limiting the manufacture and regulating the distribution of narcotic drugs (as amended by the protocol signed at Lake Success on December 11, 1946), signed at Paris, November 19, 1948; or
 
@@ -72,7 +72,7 @@ Notwithstanding subsections (a)(4) and (c)(3), the Attorney General may authoriz
 
 &emsp;&emsp;(i) the conditions applicable with respect to the first country under paragraphs (1), (2), (3), (4), (6), and (7) are met by each subsequent country from which the controlled substance is exported pursuant to this paragraph; and
 
-&emsp;&emsp;(ii) the conditions applicable with respect to the second country under paragraphs (1), (2), (3), (4), (6), and (7) are met by each subsequent country to which the controlled substance is exported pursuant to this paragraph.
+&emsp;&emsp;(ii) the conditions applicable with respect to the second country under paragraphs (1),\(2), (3), (4), (6), and (7) are met by each subsequent country to which the controlled substance is exported pursuant to this paragraph.
 
 &emsp;(6)(A) Within 30 days after the controlled substance is exported from the first country to the second country, the person who exported the controlled substance from the United States delivers to the Attorney General documentation certifying that such export from the first country has occurred.
 

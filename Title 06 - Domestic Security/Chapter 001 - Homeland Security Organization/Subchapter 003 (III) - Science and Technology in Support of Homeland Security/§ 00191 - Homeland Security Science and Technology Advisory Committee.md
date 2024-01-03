@@ -20,7 +20,7 @@ There is established within the Department a Homeland Security Science and Techn
 
 #### (2) National Research Council
 
-&emsp;The Under Secretary for Science and Technology may enter into an arrangement for theNational Research Council to select members of the Advisory Committee, but only if the panel used by the National Research Council reflects the representation described in paragraph (1).
+&emsp;The Under Secretary for Science and Technology may enter into an arrangement for the National Research Council to select members of the Advisory Committee, but only if the panel used by the National Research Council reflects the representation described in paragraph (1).
 
 #### (c) Terms of office
 
@@ -42,7 +42,7 @@ A person who has completed two consecutive full terms of service on the Advisory
 
 #### (e) Meetings
 
-The Advisory Committee shall meet at least quarterly at the call of the Chair or whenever one-third of the members so request in writing. Each member shall be given appropriate notice of the call of each meeting, whenever possible not less than 15 days before the meeting.
+The Advisory Committee shall meet at least quarterly at the call of the Chair or wheneverone-third of the members so request in writing. Each member shall be given appropriate notice of the call of each meeting, whenever possible not less than 15 days before the meeting.
 
 #### (f) Quorum
 

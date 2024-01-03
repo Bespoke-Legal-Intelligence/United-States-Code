@@ -20,7 +20,7 @@ Mandatory Loan Disclosures.—
 
 &emsp;(1)
 
-Information required.—With respect to any extension of consumer credit (including any consumer credit originated or extended through the internet) to a covered member or a dependent of a covered member, a creditor shall provide to the member or dependent the following information orally and in writing before the issuance of the credit:
+Information required.—With respect to any extension of consumer credit (including any consumer credit originated or extended through the internet) to a covered member or a dependent of a covered member, a creditor shall provide to the member or dependent thefollowing information orally and in writing before the issuance of the credit:
 
 &emsp;&emsp;(A) A statement of the annual percentage rate of interest applicable to the extension of credit.
 
@@ -272,7 +272,7 @@ Publication of earlier effective date.—If the Secretary of Defense prescribes 
 
 #### Meetings With Private Sector Users of Systems
 
-Pub. L. 114–92, div. A, title V, §594(b)(3), Nov. 25, 2015, 129 Stat. 834, provided that: "The Director of the Defense Manpower Data Center shall meet regularly with private sector users of Defense Manpower Data Centersystems used to identify covered borrowers and covered policyholders under military consumer protection laws to learn about issues facing such users and to develop ways of addressing such issues. The first meeting pursuant to this requirement shall take place with \[within\] three months after the date of the enactment of this Act \[Nov. 25, 2015\]."
+Pub. L. 114–92, div. A, title V, §594(b)(3), Nov. 25, 2015, 129 Stat. 834, provided that: "The Director of the Defense Manpower Data Center shall meet regularly with private sector users of Defense Manpower Data Center systems used to identify covered borrowers and covered policyholders under military consumer protection laws to learn about issues facing such users and to develop ways of addressing such issues. The first meeting pursuant to this requirement shall take place with \[within\] three months after the date of the enactment of this Act \[Nov. 25, 2015\]."
 
 #### Interim Regulations
 

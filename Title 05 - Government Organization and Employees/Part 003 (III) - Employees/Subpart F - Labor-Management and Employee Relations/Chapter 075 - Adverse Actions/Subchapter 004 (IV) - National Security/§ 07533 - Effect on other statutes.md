@@ -1,6 +1,6 @@
 ### §7533. Effect on other statutes
 
-This subchapter does not impair the powers vested in the Atomic Energy Commission bychapter 23 of title 42, or the requirement in section 2201(d) of title 42 that adequate provision be made for administrative review of a determination to dismiss an employee of the Atomic Energy Commission.
+This subchapter does not impair the powers vested in the Atomic Energy Commission by chapter 23 of title 42, or the requirement in section 2201(d) of title 42 that adequate provision be made for administrative review of a determination to dismiss an employee of the Atomic Energy Commission.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 529.)
 

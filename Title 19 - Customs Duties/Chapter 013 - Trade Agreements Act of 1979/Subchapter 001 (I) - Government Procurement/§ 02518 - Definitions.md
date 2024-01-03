@@ -32,7 +32,7 @@ As used in this subchapter—
 
 &emsp;&emsp;&emsp;(i) a party to the Agreement, a product or service of that country or instrumentality which is covered under the Agreement for procurement by the United States;
 
-&emsp;&emsp;&emsp;(ii) Mexico, as a party to the USMCA (as defined in section 4502 of this title), a product or service of that country or instrumentality which is covered under the USMCA for procurement by the United States;
+&emsp;&emsp;&emsp;(ii) Mexico, as a party to the USMCA (as defined in section 4502 of this title), a product or service of that country or instrumentality which is covered under theUSMCA for procurement by the United States;
 
 &emsp;&emsp;&emsp;(iii) a party to a free trade agreement that entered into force with respect to the United States after December 31, 2003, and before January 2, 2005, a product or service of that country or instrumentality which is covered under the free trade agreement for procurement by the United States;
 

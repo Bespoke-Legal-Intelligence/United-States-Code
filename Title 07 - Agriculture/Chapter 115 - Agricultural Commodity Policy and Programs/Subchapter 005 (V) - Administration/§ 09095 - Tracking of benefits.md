@@ -1,6 +1,6 @@
 ### §9095. Tracking of benefits
 
-As soon as practicable after February 7, 2014, the Secretary may track the benefits provided,directly or indirectly, to individuals and entities under titles I and II and the amendments made by those titles.
+As soon as practicable after February 7, 2014, the Secretary may track the benefits provided, directly or indirectly, to individuals and entities under titles I and II and the amendments made by those titles.
 
 (Pub. L. 113–79, title I, §1612, Feb. 7, 2014, 128 Stat. 710.)
 

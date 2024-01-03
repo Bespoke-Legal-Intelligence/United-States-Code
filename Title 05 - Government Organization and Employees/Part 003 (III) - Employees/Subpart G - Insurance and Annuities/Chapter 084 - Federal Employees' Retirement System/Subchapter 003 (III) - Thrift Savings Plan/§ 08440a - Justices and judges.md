@@ -48,7 +48,7 @@ Subsec. (b)(7), (8). Pub. L. 103–226, §9(e)(2), added par. (7) and struck out
 
 <b>1992</b>—Subsec. (b)(1). Pub. L. 102–378 substituted "this subchapter and subchapter VII" for "subchapters III and VII of chapter 84 of this title".
 
-<b>1990</b>—Subsec. (b)(6). Pub. L. 101–335, §3(b)(2), redesignated par. (7) as (6) and struck out former par. (6) whichread as follows: "Sums contributed under this section and earnings attributable to such sums may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title."
+<b>1990</b>—Subsec. (b)(6). Pub. L. 101–335, §3(b)(2), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: "Sums contributed under this section and earnings attributable to such sums may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title."
 
 Subsec. (b)(7), (8). Pub. L. 101–335, §6(b)(2), added pars. (7) and (8). Former par. (7) redesignated (6).
 

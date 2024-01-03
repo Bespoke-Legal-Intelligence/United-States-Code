@@ -34,7 +34,7 @@ The purpose of this section is to encourage the Secretary of Agriculture to cont
 
 #### (2) Composition
 
-&emsp;The task force shall be comprised of employees of the Department of Agriculture, industryrepresentatives, and other experts in the fields of agriculture and air quality.
+&emsp;The task force shall be comprised of employees of the Department of Agriculture, industry representatives, and other experts in the fields of agriculture and air quality.
 
 #### (3) Duties
 

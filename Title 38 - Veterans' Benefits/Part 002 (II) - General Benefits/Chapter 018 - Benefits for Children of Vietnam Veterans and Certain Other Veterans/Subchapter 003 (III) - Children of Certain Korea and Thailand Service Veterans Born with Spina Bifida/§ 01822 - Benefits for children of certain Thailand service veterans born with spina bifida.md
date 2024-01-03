@@ -78,5 +78,5 @@ Claims described.—A claim described in this subparagraph is a claim for benefi
 
 &emsp;&emsp;"(i) relating to the spina bifida and service covered by such section 1822; and
 
-&emsp;&emsp;"(ii) that is pending at the Veterans Benefits Administration or the Board of Veterans' Appeals on or after the date of the enactment of this Act and before the date on which the Secretary commences the implementation of such section 1822."
+&emsp;&emsp;"(ii) that is pending at the Veterans Benefits Administration or the Board of Veterans' Appeals on or after the date of the enactment of this Act andbefore the date on which the Secretary commences the implementation of such section 1822."
 

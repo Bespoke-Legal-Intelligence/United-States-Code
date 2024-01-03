@@ -18,7 +18,7 @@ Promotion of Competition Required.—When using simplified acquisition procedure
 
 (d)
 
-Consideration of Offers Timely Received.—The simplified acquisition procedures contained in the Federal Acquisition Regulation shall include a requirement that a contracting officer consider each responsive offer timely received from an eligible offeror.
+Consideration of Offers Timely Received.—The simplified acquisition procedures contained in the Federal Acquisition Regulation shall include a requirement that a contractingofficer consider each responsive offer timely received from an eligible offeror.
 
 (e)
 
@@ -106,7 +106,7 @@ Phase ii: market analysis and consultation.—Not later than one year after the 
 
 &emsp;"(3)
 
-Phase iii: program implementation guidance.—Not later than two years after the date of the submission of the implementation plan and schedule required under paragraph (1), guidance to implement and govern the use of the program established pursuant to subsection (a), including protocols for oversight of procurement through the program, and compliance with laws pertaining to supplier and product screening requirements, data security, and data analytics.
+Phase iii: program implementation guidance.—Not later than two years after the date of thesubmission of the implementation plan and schedule required under paragraph (1), guidance to implement and govern the use of the program established pursuant to subsection (a), including protocols for oversight of procurement through the program, and compliance with laws pertaining to supplier and product screening requirements, data security, and data analytics.
 
 &emsp;"(4)
 
@@ -118,7 +118,7 @@ Additional testing.—Not later than 180 days after the date of the enactment of
 
 &emsp;&emsp;"(A) begin testing commercial e-commerce portal models (other than any such model selected for the initial proof of concept) identified pursuant to paragraph (2); and
 
-&emsp;&emsp;"(B) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes—
+&emsp;&emsp;"(B) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes—
 
 &emsp;&emsp;&emsp;"(i) a summary of the assessments conducted under paragraph (2) with respect to a commercial e-commerce portal model identified pursuant to such paragraph;
 
@@ -130,7 +130,7 @@ Additional testing.—Not later than 180 days after the date of the enactment of
 
 &emsp;"(6)
 
-Report.—Upon completion of testing conducted under paragraph (5) and before taking any action with respect to the commercial e-commerce portal models tested, the Administrator of General Services shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Reform of the House of Representatives, and the Committee onHomeland Security and Governmental Affairs of the Senate, a report on the results of such testing that includes—
+Report.—Upon completion of testing conducted under paragraph (5) and before taking any action with respect to the commercial e-commerce portal models tested, the Administrator of General Services shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate, a report on the results of such testing that includes—
 
 &emsp;&emsp;"(A) an assessment and comparison of commercial e-commerce portal models with respect to—
 
@@ -236,7 +236,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;&emsp;"(A) The Committees on Armed Services of the Senate and House of Representatives.
 
-&emsp;&emsp;"(B) The Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives.
+&emsp;&emsp;"(B) The Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives.
 
 &emsp;&emsp;"(C) The Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives.
 

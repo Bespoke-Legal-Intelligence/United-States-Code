@@ -44,7 +44,7 @@ For the purposes of this section—
 
 &emsp;(5) the term "sexually explicit conduct" means actual or simulated—
 
-&emsp;&emsp;(A) sexual intercourse, including sexual contact in the manner of genital-genital, oral-genital, anal-genital, or oral-anal contact, whether between persons of the same or of opposite sex; sexual contact means the intentional touching, either directly or through clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify sexual desire of any person;
+&emsp;&emsp;(A) sexual intercourse, including sexual contact in the manner of genital-genital, oral-genital, anal-genital, or oral-anal contact, whether between persons of the sameor of opposite sex; sexual contact means the intentional touching, either directly or through clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify sexual desire of any person;
 
 &emsp;&emsp;(B) bestiality;
 
@@ -80,7 +80,7 @@ For all Federal lands and all federally operated (or contracted) facilities in w
 
 #### (1) Recipients of reports
 
-&emsp;In the case of an incident described in subsection (a) involving a child in the family or home of member of the Armed Forces (regardless of whether the incident occurred on or off a military installation), the report required by subsection (a) shall be made to the appropriate child welfare services agency or agencies of the State in which the child resides. The Attorney General, the Secretary of Defense, and the Secretary of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy) shall jointly, inconsultation with the chief executive officers of the States, designate the child welfare service agencies of the States that are appropriate recipients of reports pursuant to this subsection. Any report on an incident pursuant to this subsection is in addition to any other report on the incident pursuant to this section.
+&emsp;In the case of an incident described in subsection (a) involving a child in the family or home of member of the Armed Forces (regardless of whether the incident occurred on or off a military installation), the report required by subsection (a) shall be made to the appropriate child welfare services agency or agencies of the State in which the child resides. The Attorney General, the Secretary of Defense, and the Secretary of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy) shall jointly, in consultation with the chief executive officers of the States, designate the child welfare service agencies of the States that are appropriate recipients of reports pursuant to this subsection. Any report on an incident pursuant to this subsection is in addition to any other report on the incident pursuant to this section.
 
 #### (2) Makers of reports
 

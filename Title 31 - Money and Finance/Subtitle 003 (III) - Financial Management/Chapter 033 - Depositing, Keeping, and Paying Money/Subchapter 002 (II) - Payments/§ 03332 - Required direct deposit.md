@@ -48,7 +48,7 @@
 
 (j) For purposes of this section—
 
-&emsp;(1) The term "electronic funds transfer" means any transfer of funds, other than a transaction originated by cash, check, or similar paper instrument, that is initiated through an electronic terminal, telephone, computer, or magnetic tape, for the purpose of ordering, instructing, or authorizing a financial institution to debit or credit an account. The term includes Automated Clearing House transfers, Fed Wire transfers, transfers made at automatic teller machines, and point-of-sale terminals.
+&emsp;(1) The term "electronic funds transfer" means any transfer of funds, other than a transaction originated by cash, check, or similar paper instrument, that is initiated through an electronic terminal, telephone, computer, or magnetic tape, for the purpose of ordering, instructing, or authorizing a financial institution to debit or credit an account. The termincludes Automated Clearing House transfers, Fed Wire transfers, transfers made at automatic teller machines, and point-of-sale terminals.
 
 &emsp;(2) The term "Federal agency" means—
 

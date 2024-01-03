@@ -36,7 +36,7 @@ The Committee shall—
 
 &emsp;The strategic plan described in paragraph (2) shall—
 
-&emsp;&emsp;(A) specify and prioritize near-term and long-term objectives, including research and development objectives, the anticipated time frame for achieving the objectives, and the metrics for use in assessing progress toward the objectives;
+&emsp;&emsp;(A) specify and prioritize near-term and long-term objectives, including research anddevelopment objectives, the anticipated time frame for achieving the objectives, and the metrics for use in assessing progress toward the objectives;
 
 &emsp;&emsp;(B) describe the progress made in achieving the objectives from prior strategic plans, including a discussion of why specific objectives were not met;
 
@@ -74,7 +74,7 @@ The Committee shall—
 
 #### (5) Requirement to consider strategy in the budget
 
-&emsp;In preparing the budget for a fiscal year under section 1105(a) of title 31, the Presidentshall include information regarding the consistency of the budget with the goals and recommendations included in the strategic plan developed under this subsection applying to that fiscal year.
+&emsp;In preparing the budget for a fiscal year under section 1105(a) of title 31, the President shall include information regarding the consistency of the budget with the goals and recommendations included in the strategic plan developed under this subsection applying to that fiscal year.
 
 #### (6) AMP steering committee input
 

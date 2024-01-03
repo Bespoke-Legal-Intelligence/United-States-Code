@@ -30,7 +30,7 @@
 
 #### (2) Removal of sanctions
 
-&emsp;Upon suspending or terminating any action imposed under the authority of subsection (a),the President shall report to the committees described in paragraph (1) on such suspension or termination.
+&emsp;Upon suspending or terminating any action imposed under the authority of subsection (a), the President shall report to the committees described in paragraph (1) on such suspension or termination.
 
 #### (3) Submission of classified information
 
@@ -50,7 +50,7 @@ Nothing in this section prohibits or otherwise limits the authorized law enforce
 
 #### (2) Promulgation of rules and regulations
 
-&emsp;The head of any agency, including the Secretary of Treasury, is authorized to take such actions as may be necessary to carry out any authority delegated by the President pursuant to paragraph (1), including promulgating rules and regulations.
+&emsp;The head of any agency, including the Secretary of Treasury, is authorized to take such actions as may be necessary to carry out anyauthority delegated by the President pursuant to paragraph (1), including promulgating rules and regulations.
 
 #### (3) Opportunity for review
 

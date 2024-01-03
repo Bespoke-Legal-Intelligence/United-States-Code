@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the issuer of any qualified health plan to which the compact applies—
 
-&emsp;&emsp;&emsp;(i) would continue to be subject to market conduct, unfair trade practices, network adequacy, and consumer protection standards (including standards relating to rating), including addressing disputes as to the performance of the contract, of the State in which the purchaser resides;
+&emsp;&emsp;&emsp;(i) would continue to be subject to market conduct, unfair trade practices, network adequacy, and consumer protection standards (including standards relating to rating), including addressing disputes as tothe performance of the contract, of the State in which the purchaser resides;
 
 &emsp;&emsp;&emsp;(ii) would be required to be licensed in each State in which it offers the plan under the compact or to submit to the jurisdiction of each such State with regard to the standards described in clause (i) (including allowing access to records as if the insurer were licensed in the State); and
 

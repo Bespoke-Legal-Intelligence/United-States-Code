@@ -22,7 +22,7 @@ In Guam.—The Governor of Guam—
 
 In Northern Mariana Islands.—The Governor of the Northern Mariana Islands—
 
-&emsp;(1) or officers of the government of the Northern Mariana Islands designated by theGovernor shall carry out this chapter in the Northern Mariana Islands;
+&emsp;(1) or officers of the government of the Northern Mariana Islands designated by the Governor shall carry out this chapter in the Northern Mariana Islands;
 
 &emsp;(2) may carry out laws referred to in section 80306(b) of this title with modifications the Governor decides are necessary to meet conditions in the Northern Mariana Islands; and
 
@@ -94,7 +94,7 @@ Subsecs. (d), (e). Pub. L. 107–296, §1112(r)(2), (3), added subsec. (d) and r
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

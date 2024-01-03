@@ -14,7 +14,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 #### Short Title
 
-Pub. L. 87–256, §1, Sept. 21, 1961, 75 Stat. 527, provided: "That this Act \[enacting this chapter, amending sections 1101, 1182 and 1258 of Title 8, Aliens and Nationality, sections 117, 871, 872, 1441, 3121, 3306, 3401 and 3402 of Title 26, Internal Revenue Code, and section 410 of Title 42, The Public Health and Welfare, repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468 and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under this section and under sections 117, 1441, 3121 and 3401 of Title 26\] may be cited as the 'Mutual Educational and Cultural Exchange Act of 1961'."
+Pub. L. 87–256, §1, Sept. 21, 1961, 75 Stat. 527, provided: "That this Act \[enacting this chapter, amending sections 1101, 1182 and 1258 of Title 8, Aliens and Nationality, sections 117, 871, 872, 1441, 3121, 3306, 3401 and 3402 of Title 26, Internal Revenue Code, and section 410 of Title 42, The Public Health and Welfare, repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468 and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the formerAppendix to Title 50, War and National Defense, and enacting provisions set out as notes under this section and under sections 117, 1441, 3121 and 3401 of Title 26\] may be cited as the 'Mutual Educational and Cultural Exchange Act of 1961'."
 
 Pub. L. 87–256 is also popularly known as the "Fulbright-Hays Act".
 

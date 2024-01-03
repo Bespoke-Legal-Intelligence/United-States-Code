@@ -38,7 +38,7 @@
 
 #### (7) Administrative guidelines
 
-&emsp;The Secretaries shall issue guidelines on administration of the National Parks and Federal Recreational Lands Pass, which shall include agreement on price, the distribution of revenues between the Federal land management agencies, the sharing of costs, benefitsprovided, marketing and design, adequate documentation for discounts under subsection (b), and the issuance of that recreation pass to volunteers. The Secretaries shall take into consideration all relevant visitor and sales data available in establishing the guidelines.
+&emsp;The Secretaries shall issue guidelines on administration of the National Parks and Federal Recreational Lands Pass, which shall include agreement on price, the distribution of revenues between the Federal land management agencies, the sharing of costs, benefits provided, marketing and design, adequate documentation for discounts under subsection (b), and the issuance of that recreation pass to volunteers. The Secretaries shall take into consideration all relevant visitor and sales data available in establishing the guidelines.
 
 #### (8) Development and implementation agreements
 
@@ -64,7 +64,7 @@
 
 &emsp;The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge and for the lifetime of the passholder, to the following:
 
-&emsp;&emsp;(A) Any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled, within the meaning of the term "disability" under section 12102 of title 42, if the citizen or person provides adequate proof of the disability and such citizenship or residency.
+&emsp;&emsp;(A) Any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled, within the meaning of the term "disability" under section 12102 of title 42, if the citizen or person provides adequate proof ofthe disability and such citizenship or residency.
 
 &emsp;&emsp;(B) Any veteran who provides adequate proof of military service as determined by the Secretary.
 
@@ -102,7 +102,7 @@ The Secretary may provide for a discounted or free admission day or use of Feder
 
 &emsp;A permit issued under section 100904 of title 54 that was valid on the day before December 8, 2004, shall be valid and remain in effect until expired, revoked, or suspended.
 
-(Pub. L. 108–447, div. J, title VIII, §805, Dec. 8, 2004, 118 Stat. 3385; Pub. L. 113–287, §5(d)(36), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 114–289, title I, §102, Dec. 16, 2016, 130 Stat. 1484; Pub. L. 116–205, §2, Dec. 3, 2020, 134 Stat. 996; Pub. L. 116–283, div. A, title VI, §625, Jan. 1, 2021, 134 Stat. 3677; Pub.L. 117–81, div. A, title VI, §641, Dec. 27, 2021, 135 Stat. 1776.)
+(Pub. L. 108–447, div. J, title VIII, §805, Dec. 8, 2004, 118 Stat. 3385; Pub. L. 113–287, §5(d)(36), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 114–289, title I, §102, Dec. 16, 2016, 130 Stat. 1484; Pub. L. 116–205, §2, Dec. 3, 2020, 134 Stat. 996; Pub. L. 116–283, div. A, title VI, §625, Jan. 1, 2021, 134 Stat. 3677; Pub. L. 117–81, div. A, title VI, §641, Dec. 27, 2021, 135 Stat. 1776.)
 
 #### <b>Editorial Notes</b>
 
@@ -136,7 +136,7 @@ Subsec. (b)(3). Pub. L. 117–81, §641(2)(C), substituted "Annual passes" for "
 
 Pub. L. 116–283, §625(a), added par. (3).
 
-<b>2020</b>—Subsec. (b)(2). Pub. L. 116–205 added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge, to any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled for purposes of section 705(20)(B)(i) of title 29, if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder."
+<b>2020</b>—Subsec. (b)(2). Pub. L. 116–205 added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge, to any United States citizenor person domiciled in the United States who has been medically determined to be permanently disabled for purposes of section 705(20)(B)(i) of title 29, if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder."
 
 <b>2016</b>—Subsec. (b)(1). Pub. L. 114–289 designated existing provisions as subpar. (A), struck out ", at a cost of $10.00," before "to any United States citizen", substituted "shall be available—" and cls. (i) and (ii) for "shall be valid for the lifetime of the pass holder.", and added subpar. (B).
 

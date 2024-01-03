@@ -46,7 +46,7 @@ Reservation of funds.—Of the funds made available to carry out the TIFIA progr
 
 &emsp;(2)
 
-Release of funds.—Any funds not used under paragraph (1) in a fiscal year shall be made available on October 1 of the following fiscal year to provide credit assistance to any project under the TIFIA program.
+Release of funds.—Any funds not used under paragraph (1) in a fiscal year shall be made available on October 1 of the followingfiscal year to provide credit assistance to any project under the TIFIA program.
 
 (Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 249, §185; renumbered §605 and amended Pub. L. 109–59, title I, §§1601(f), 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1241, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 619; Pub. L. 114–94, div. A, title II, §2001(d), Dec. 4, 2015, 129 Stat. 1443; Pub. L. 117–58, div. A, title II, §12001(i)(2), Nov. 15, 2021, 135 Stat. 621.)
 

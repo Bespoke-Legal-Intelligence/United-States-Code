@@ -68,7 +68,7 @@ Report on Change in Classification or Declassification of Programs.—
 
 &emsp;(1)
 
-In general.—Whenever a change in the classification of a program being managed under alternative compensatory control measures in the Department is planned to be made, or whenever classified information concerning a program being managed under alternative compensatory control measures in the Department is to be declassified and made public, the Secretary shall submit to the congressionaldefense committees a report containing a description of the proposed change, the reasons for the proposed change, and notice of any public announcement planned to be made with respect to the proposed change.
+In general.—Whenever a change in the classification of a program being managed under alternative compensatory control measures in the Department is planned to be made, or whenever classified information concerning a program being managed under alternative compensatory control measures in the Department is to be declassified and made public, the Secretary shall submit to the congressional defense committees a report containing a description of the proposed change, the reasons for the proposed change, and notice of any public announcement planned to be made with respect to the proposed change.
 
 &emsp;(2)
 
@@ -100,7 +100,7 @@ Limitation on Initiation of Programs Under Accms.—
 
 &emsp;(1)
 
-Notice and wait.—Except as provided in paragraph (2), a program to be managed under alternative compensatory control measures in the Department may not be initiated until—
+Notice and wait.—Except as provided in paragraph (2), a program to be managed underalternative compensatory control measures in the Department may not be initiated until—
 
 &emsp;&emsp;(A) the congressional defense committees are notified of the program; and
 

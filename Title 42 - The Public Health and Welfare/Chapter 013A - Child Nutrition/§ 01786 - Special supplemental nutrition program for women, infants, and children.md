@@ -2,7 +2,7 @@
 
 #### (a) Congressional findings and declaration of purpose
 
-Congress finds that substantial numbers of pregnant, postpartum, and breastfeeding women, infants, and young children from families with inadequate income are at special risk with respect to their physical and mental health by reason of inadequate nutrition or health care, or both. It is, therefore, the purpose of the program authorized by this section to provide, up to the authorization levels set forth in subsection (g) of this section, supplemental foods and nutrition education, including breastfeeding promotion and support, through any eligible local agency that applies for participation in the program. The program shall serve as an adjunct to good health care, during critical times of growth and development, to prevent the occurrence of health problems, including drug abuse, and improve the health status of these persons.
+Congress finds that substantial numbers of pregnant, postpartum, and breastfeeding women, infants, and young children from families with inadequate income are at special risk with respect to their physical and mental health by reason of inadequate nutrition or health care, or both. It is, therefore, the purpose of the program authorized by this section to provide, up to the authorization levels set forth in subsection (g) of this section, supplemental foods and nutrition education, including breastfeeding promotion and support, through any eligiblelocal agency that applies for participation in the program. The program shall serve as an adjunct to good health care, during critical times of growth and development, to prevent the occurrence of health problems, including drug abuse, and improve the health status of these persons.
 
 #### (b) Definitions
 
@@ -58,7 +58,7 @@ Nutrition education.—The term "nutrition education" means individual and group
 
 &emsp;&emsp;(B) the referral of participants who are suspected drug abusers to drug abuse clinics, treatment programs, counselors, or other drug abuse professionals.
 
-&emsp;(17) "Competitive bidding" means a procurement process under which the Secretary or a State agency selects a single source (a single infant formula manufacturer) offering the lowest price, as determined by the submission of sealed bids, for a product for which bids are sought for use in the program authorized by this section.
+&emsp;(17) "Competitive bidding" means a procurement process under which the Secretary or a State agency selects a single source (a single infant formula manufacturer) offering the lowest price, as determined by the submission ofsealed bids, for a product for which bids are sought for use in the program authorized by this section.
 
 &emsp;(18) "Rebate" means the amount of money refunded under cost containment procedures to any State agency from the manufacturer or other supplier of the particular food product as the result of the purchase of the supplemental food with a voucher or other purchase instrument by a participant in each such agency's program established under this section.
 
@@ -172,7 +172,7 @@ Physical presence.—
 
 &emsp;(i)
 
-In general.—Except as provided in clause (ii) and subject to the requirements of the Americans with Disabilities Act of 1990 (42U.S.C. 12101 et seq.) and section 794 of title 29, each individual seeking certification or recertification for participation in the program shall be physically present at each certification or recertification determination in order to determine eligibility under the program.
+In general.—Except as provided in clause (ii) and subject to the requirements of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) and section 794 of title 29, each individual seeking certification or recertification for participation in the program shall be physically present at each certification or recertification determination in order to determine eligibility under the program.
 
 &emsp;(ii)
 
@@ -438,7 +438,7 @@ Advance appropriations; availability.—As authorized by section 1752 of this ti
 
 &emsp;(A) the allocation of funds required by paragraph (2)(A)(i)(I) shall include not less than 1/3 of the amounts appropriated by the legislation described in such paragraph;
 
-&emsp;(B) the allocations of funds required by paragraph (2)(A)(i)(II) to be made not later than the beginning of the second and third quartersof the fiscal year shall each include not less than ¼ of the amounts appropriated by the legislation described in such paragraph; and
+&emsp;(B) the allocations of funds required by paragraph (2)(A)(i)(II) to be made not later than the beginning of the second and third quarters of the fiscal year shall each include not less than ¼ of the amounts appropriated by the legislation described in such paragraph; and
 
 &emsp;(C) in the case of the enactment of legislation providing appropriations for a period of not more than 4 months, the allocation of funds required by paragraph (2)(A)(ii) shall include all amounts appropriated by such legislation except amounts reserved by the Secretary for purposes of carrying out paragraph (5).
 
@@ -522,7 +522,7 @@ Breast pumps.—A State agency may use amounts made available under clause (i) f
 
 (E) For each fiscal year, the national minimum breastfeeding promotion expenditure means an amount that is—
 
-&emsp;(i) equal to $21 multiplied by the number of pregnant women and breastfeeding women participating in the program nationwide, based on the average number of pregnant women and breastfeeding women so participating during the last 3 months for which the Secretary has final data; and
+&emsp;(i) equal to $21 multiplied by the number of pregnant women and breastfeeding womenparticipating in the program nationwide, based on the average number of pregnant women and breastfeeding women so participating during the last 3 months for which the Secretary has final data; and
 
 &emsp;(ii) adjusted for inflation on October 1, 1996, and each October 1 thereafter, in accordance with paragraph (1)(B)(ii).
 
@@ -612,7 +612,7 @@ Implementation.—The Secretary shall provide the first performance bonuses not 
 
 (B) If a State agency increases its participation level through measures that are not in the nutritional interests of participants or not otherwise allowable (such as reducing the quantities of foods provided for reasons not related to nutritional need), the Secretary may refuse to allow the State agency to convert amounts allocated for food benefits to defray costs of nutrition services and administration.
 
-(C) For the purposes of this paragraph, the term "acceptable measures" includes use of cost containment measures, curtailment of vendor abuse, and breastfeeding promotion activities.
+(C) For the purposes of this paragraph, the term "acceptable measures" includes use of costcontainment measures, curtailment of vendor abuse, and breastfeeding promotion activities.
 
 (D)
 
@@ -652,7 +652,7 @@ Remote indian or native villages.—For noncontiguous States containing a signif
 
 (iii)
 
-Competitive bidding system.—A State agency using a competitive bidding system for infant formula shall award contracts to bidders offering the lowest net price for a specific infant formula for which manufacturers submit a bid unless the State agency demonstrates to the satisfaction of the Secretary that the weightedaverage retail price for different brands of infant formula in the State does not vary by more than 5 percent.
+Competitive bidding system.—A State agency using a competitive bidding system for infant formula shall award contracts to bidders offering the lowest net price for a specific infant formula for which manufacturers submit a bid unless the State agency demonstrates to the satisfaction of the Secretary that the weighted average retail price for different brands of infant formula in the State does not vary by more than 5 percent.
 
 (iv)
 
@@ -724,7 +724,7 @@ Purchase requirement.—A vendor authorized to participate in the program under 
 
 (D) No State may enter into a cost containment contract (in this subparagraph referred to as the "original contract") that prescribes conditions that would void, reduce the savings under, or otherwise limit the original contract if the State solicited or secured bids for, or entered into, a subsequent cost containment contract to take effect after the expiration of the original contract.
 
-(E) The Secretary shall offer to solicit bids on behalf of State agencies regarding cost-containment contracts to be entered into by infant formula manufacturers and State agencies. The Secretary shall make the offer to State agencies once every 12 months. Each such bid solicitation shall only take place if two or more State agencies request the Secretary to perform the solicitation. For such State agencies, the Secretary shall solicit bids and select the winning bidderfor a cost containment contract to be entered into by State agencies and infant formula manufacturers or suppliers.
+(E) The Secretary shall offer to solicit bids on behalf of State agencies regarding cost-containment contracts to be entered into by infant formula manufacturers and State agencies. The Secretary shall make the offer to State agencies once every 12 months. Each such bid solicitation shall only take place if two or more State agencies request the Secretary to perform the solicitation. For such State agencies, the Secretary shall solicit bids and select the winning bidder for a cost containment contract to be entered into by State agencies and infant formula manufacturers or suppliers.
 
 (F) In soliciting bids for contracts for infant formula for the program authorized by this section, the Secretary shall solicit bids from infant formula manufacturers under procedures in which bids for rebates or discounts are solicited for milk-based and soy-based infant formula, separately, except where the Secretary determines that such solicitation procedures are not in the best interest of the program.
 
@@ -734,7 +734,7 @@ Purchase requirement.—A vendor authorized to participate in the program under 
 
 (ii) The Secretary shall determine the length of the disqualification, and the amount of the civil penalty referred to in clause (i) based on such factors as the Secretary by regulation determines appropriate.
 
-(iii) Any person, company, corporation, or other legal entity disqualified under clause (i) shall remain obligated to perform any requirements under any contract to supply infant formula existing at the time of the disqualification and until each such contract expires by its terms.
+(iii) Any person, company, corporation, or other legal entity disqualified under clause (i)shall remain obligated to perform any requirements under any contract to supply infant formula existing at the time of the disqualification and until each such contract expires by its terms.
 
 (I) Not later than the expiration of the 180-day period beginning on October 24, 1992, the Secretary shall prescribe regulations to carry out this paragraph.
 
@@ -794,7 +794,7 @@ Funds for infrastructure, management information systems, and special nutrition 
 
 &emsp;(A)
 
-In general.—For each of fiscal years 2010 through 2015, the Secretary shall use forthe purposes specified in subparagraph (B) $139,000,000 (as adjusted annually for inflation by the same factor used to determine the national average per participant grant for nutrition services and administration for the fiscal year under paragraph (1)(B)).
+In general.—For each of fiscal years 2010 through 2015, the Secretary shall use for the purposes specified in subparagraph (B) $139,000,000 (as adjusted annually for inflation by the same factor used to determine the national average per participant grant for nutrition services and administration for the fiscal year under paragraph (1)(B)).
 
 &emsp;(B)
 
@@ -886,7 +886,7 @@ Participant access.—In establishing competitive price criteria, the State agen
 
 &emsp;&emsp;(iii)
 
-Subsequent price increases.—The State agency shall establish procedures toensure that a retail store selected for participation in the program does not, subsequent to selection, increase prices to levels that would make the store ineligible for selection to participate in the program.
+Subsequent price increases.—The State agency shall establish procedures to ensure that a retail store selected for participation in the program does not, subsequent to selection, increase prices to levels that would make the store ineligible for selection to participate in the program.
 
 &emsp;(C)
 
@@ -1108,7 +1108,7 @@ Incentive items.—A State agency shall not authorize or make payments to a vend
 
 (6) Notwithstanding any other provision of this section, the Secretary may use a portion of a State agency's allocation to purchase supplemental foods for donation to the State agency under this section.
 
-(7) In addition to any amounts expended under paragraph (3)(A)(i), any State agency using cost containment measures as defined in subsection (h)(9) may temporarily use amounts made available to such agency for the first quarter of a fiscal year to defray expenses for costs incurred during the final quarter of the preceding fiscal year. In any fiscal year, any State agency that uses amounts made available for a succeeding fiscal year under the authority of the preceding sentence shall restore or reimburse such amounts when such agency receives payment as a result of its cost containment measures for such expenses.
+(7) In addition to any amounts expended under paragraph (3)(A)(i), any State agency using cost containment measures as defined in subsection (h)(9) may temporarily use amounts made available to such agency for the first quarter of a fiscal year to defray expenses for costs incurred during the final quarter of the preceding fiscal year. In any fiscal year, any State agency that uses amounts made available for a succeedingfiscal year under the authority of the preceding sentence shall restore or reimburse such amounts when such agency receives payment as a result of its cost containment measures for such expenses.
 
 (8)
 
@@ -1144,7 +1144,7 @@ Temporary spending authority.—During each of fiscal years 2012 and 2013, the S
 
 #### (k) National Advisory Council on Maternal, Infant, and Fetal Nutrition; establishment; membership; term; officers; meetings; quorum; technical assistance by Secretary
 
-(1) There is hereby established a National Advisory Council on Maternal, Infant, and Fetal Nutrition (referred to in this subsection as the "Council") composed of 24 members appointed by the Secretary. One member shall be a State director of a program under this section; one member shall be a State official responsible for a commodity supplemental food program under section 1304 of the Food and Agriculture Act of 1977; one member shall be a State fiscal officer of a program under this section (or the equivalent thereof); one member shall be a State health officer (or the equivalent thereof); one member shall be a local agency director of a program under this section in an urban area; one member shall be a local agency director of a program under this section in a rural area; one member shall be a project director of a commodity supplemental food program; one membershall be a State public health nutrition director (or the equivalent thereof); one member shall be a representative of an organization serving migrants; one member shall be an official from a State agency predominantly serving Indians; three members shall be parent participants of a program under this section or of a commodity supplemental food program; one member shall be a pediatrician; one member shall be an obstetrician; one member shall be a representative of a nonprofit public interest organization that has experience with and knowledge of the special supplemental nutrition program; one member shall be a person involved at the retail sales level of food in the special supplemental nutrition program; two members shall be officials of the Department of Health and Human Services appointed by the Secretary of Health and Human Services; two members shall be officials of the Department of Agriculture appointed by the Secretary; 1 member shall be an expert in the promotion of breast feeding; one member shall be an expert in drug abuse education and prevention; and one member shall be an expert in alcohol abuse education and prevention.
+(1) There is hereby established a National Advisory Council on Maternal, Infant, and Fetal Nutrition (referred to in this subsection as the "Council") composed of 24 members appointed by the Secretary. One member shall be a State director of a program under this section; one member shall be a State official responsible for a commodity supplemental food program under section 1304 of the Food and Agriculture Act of 1977; one member shall be a State fiscal officer of a program under this section (or the equivalent thereof); one member shall be a State health officer (or the equivalent thereof); one member shall be a local agency director of a program under this section in an urban area; one member shall be a local agency director of a program under this section in a rural area; one member shall be a project director of a commodity supplemental food program; one member shall be a State public health nutrition director (or the equivalent thereof); one member shall be a representative of an organization serving migrants; one member shall be an official from a State agency predominantly serving Indians; three members shall be parent participants of a program under this section or of a commodity supplemental food program; one member shall be a pediatrician; one member shall be an obstetrician; one member shall be a representative of a nonprofit public interest organization that has experience with and knowledge of the special supplemental nutrition program; one member shall be a person involved at the retail sales level of food in the special supplemental nutrition program; two members shall be officials of the Department of Health and Human Services appointed by the Secretary of Health and Human Services; two members shall be officials of the Department of Agriculture appointed by the Secretary; 1 member shall be an expert in the promotion of breast feeding; one member shall be an expert in drug abuse education and prevention; and one member shall be an expert in alcohol abuse education and prevention.
 
 (2) Members of the Council appointed from outside the Department of Agriculture and the Department of Health and Human Services shall be appointed for terms not exceeding three years. State and local officials shall serve only during their official tenure, and the tenure of parent participants shall not exceed two years. Persons appointed to complete an unexpired term shall serve only for the remainder of such term.
 
@@ -1152,7 +1152,7 @@ Temporary spending authority.—During each of fiscal years 2012 and 2013, the S
 
 (4) The Secretary shall provide the Council with such technical and other assistance, including secretarial and clerical assistance, as may be required to carry out its functions.
 
-(5) Members of the Council shall serve without compensation but shall be reimbursed for necessary travel and subsistence expenses incurred by them in the performance of the duties of the Council. Parent participant members of the Council, in addition to reimbursement for necessary travel and subsistence, shall, at the discretion of the Secretary, be compensated in advance for other personal expenses related to participation on the Council, such as child care expenses and lost wages during scheduled Council meetings.
+(5) Members of the Council shall serve without compensation but shall be reimbursed for necessary travel and subsistence expenses incurred by them in the performance of the duties of theCouncil. Parent participant members of the Council, in addition to reimbursement for necessary travel and subsistence, shall, at the discretion of the Secretary, be compensated in advance for other personal expenses related to participation on the Council, such as child care expenses and lost wages during scheduled Council meetings.
 
 #### (l) Donation of foods by Secretary
 
@@ -1206,7 +1206,7 @@ Foods available under section 1431 of title 7, including, but not limited to, dr
 
 &emsp;(ii) During any fiscal year for which a State receives assistance under this subsection, the Secretary shall permit the State to use not more than 2 percent of total program funds for market development or technical assistance to farmers' markets if the Secretary determines that the State intends to promote the development of farmers' markets in socially or economically disadvantaged areas, or remote rural areas, where individuals eligible for participation in the program have limited access to locally grown fruits and vegetables.
 
-&emsp;(iii) The provisions of clauses (i) and (ii) with respect to the use of program funds shall not apply to any funds that a State may contribute in excess of the funds used by the State to meet the requirements of paragraph (3).
+&emsp;(iii) The provisions of clauses (i) and (ii) with respect to the use of program funds shall not apply to any funds that a State may contribute in excess of the funds used by theState to meet the requirements of paragraph (3).
 
 &emsp;(G) The State shall ensure that no State or local taxes are collected within the State on purchases of food with coupons distributed under the program.
 
@@ -1246,7 +1246,7 @@ Foods available under section 1431 of title 7, including, but not limited to, dr
 
 (F)(i) An amount equal to 75 percent of the funds available after satisfying the requirements of subparagraph (B) shall be made available to States participating in the program whose State plan is approved by the Secretary. If this amount is greater than that necessary to satisfy the approved State plans, the unallocated amount shall be applied toward satisfying any unmet need of States that have not participated in the program in the prior fiscal year, and whose State plans have been approved.
 
-(ii) An amount equal to 25 percent of the funds available after satisfying the requirements ofsubparagraph (B) shall be made available to States that have not participated in the program in the prior fiscal year, and whose State plans have been approved by the Secretary. If this amount is greater than that necessary to satisfy the approved State plans for new States, the unallocated amount shall be applied toward satisfying any unmet need of States whose State plans have been approved.
+(ii) An amount equal to 25 percent of the funds available after satisfying the requirements of subparagraph (B) shall be made available to States that have not participated in the program in the prior fiscal year, and whose State plans have been approved by the Secretary. If this amount is greater than that necessary to satisfy the approved State plans for new States, the unallocated amount shall be applied toward satisfying any unmet need of States whose State plans have been approved.
 
 (iii) In any fiscal year, any funds that remain unallocated after satisfying the requirements of clauses (i) and (ii) shall be reallocated in the following fiscal year according to procedures established pursuant to paragraph (10)(B)(ii).
 
@@ -1412,7 +1412,7 @@ The Secretary of Agriculture shall provide technical assistance to the Secretary
 
 #### (2) Duration
 
-&emsp;A waiver established under this subsection may be available for a period of not greaterthan the emergency period and the 60 days after the end of such emergency period.
+&emsp;A waiver established under this subsection may be available for a period of not greater than the emergency period and the 60 days after the end of such emergency period.
 
 #### (3) Definitions
 
@@ -1490,13 +1490,13 @@ The Secretary of Agriculture shall provide technical assistance to the Secretary
 
 &emsp;For purposes of this subsection, the term "qualified administrative requirement" has the meaning given the term in subsection (r).
 
-(Pub. L. 89–642, §17, as added Pub. L. 92–433, §9, Sept. 26, 1972, 86 Stat. 729; amended Pub. L. 93–150, §6, Nov. 7, 1973, 87 Stat. 563; Pub. L. 93–326, §6, June 30, 1974, 88 Stat. 287; Pub. L. 94–28, May 28, 1975, 89 Stat. 96; Pub. L. 94–105, §14, Oct. 7, 1975, 89 Stat. 518; Pub. L. 95–166, §§18, 20(6), Nov. 10, 1977, 91 Stat. 1345, 1346; Pub. L. 95–627, §3, Nov. 10, 1978, 92 Stat. 3611; Pub. L. 96–108, title III, §301, Nov. 9, 1979, 93 Stat. 838; Pub. L. 96–499, title II, §203(d), Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §815, Aug. 13, 1981, 95 Stat. 531; Pub. L. 99–500, title III, §§314, 341, 342(a), 343, 344(a), 345–348(a), 349–353(a), 372(b)(1), Oct. 18, 1986, 100 Stat. 1783–360, 1783–364 to 1783–367, 1783–369, and Pub. L. 99–591, title III, §§314, 341, 342(a), 343, 344(a), 345–348(a), 349–353(a), 372(b)(1), Oct. 30, 1986, 100 Stat. 3341–363, 3341–367 to 3341–370, 3341–372; Pub. L. 99–661, div. D, title I, §4104, title III, §§4301, 4302(a), 4303, 4304(a), 4305–4308(a), 4309–4313(a), title V, §4502(b)(1), Nov. 14, 1986, 100 Stat. 4071, 4075–4078, 4080; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 425; Pub. L. 100–237, §§8(a), (b), 9, 11, 12, Jan. 8, 1988, 101 Stat. 1740, 1741; Pub. L. 100–356, §3, June 28, 1988, 102 Stat. 669; Pub. L. 100–435, title II, §212, title V, §501(b), Sept. 19, 1988, 102 Stat. 1657, 1668; Pub. L. 100–690, title III, §3201, Nov. 18, 1988, 102 Stat. 4246; Pub. L. 101–147, title I, §123(a), title II, §213(a), title III, §326, Nov. 10, 1989, 103 Stat. 894, 912, 917; Pub. L. 101–330, July 12, 1990, 104 Stat.311; Pub. L. 102–314, §3, July 2, 1992, 106 Stat. 280; Pub. L. 102–342, title II, §204, Aug. 14, 1992, 106 Stat. 913; Pub. L. 102–512, title II, §§203–207, Oct. 24, 1992, 106 Stat. 3364–3368; Pub. L. 103–448, title II, §204(a)–(o)(1), (p)–(v)(11), (w)(1), Nov. 2, 1994, 108 Stat. 4738–4745; Pub. L. 104–66, title I, §1011(l), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–193, title I, §109(h), title VII, §729(a)–(g)(1), (h)–(j), Aug. 22, 1996, 110 Stat. 2171, 2303–2305; Pub. L. 105–336, title II, §203(a)–(f)(1), (g)–(l), (m)–(p)(1), (q), Oct. 31, 1998, 112 Stat. 3158–3165; Pub. L. 105–362, title I, §101(i), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 106–65, div. A, title VI, §674(e), Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 106–224, title II, §§242(b)(1), (2), 244(a)–(e), June 20, 2000, 114 Stat. 411, 412, 421; Pub. L. 106–472, title III, §307(b), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 107–171, title IV, §§4306(a), 4307(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–265, title II, §203(a)–(c)(2)(A), (3), (4)(A), (5), (d), (e)(1)–(4)(A), (5), (6)(A), (7)(A), (B), (8)–(13), (f)–(i)(1), June 30, 2004, 118 Stat. 771–780; Pub. L. 108–447, div. A, title VII, §788(d), (e), Dec. 8, 2004, 118 Stat. 2851; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (E), (J), (2)(AA), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (E), (J), (2)(AA), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 111–80, title VII, §734(b), Oct. 21, 2009, 123 Stat. 2125; Pub. L. 111–296, title I, §131, title II, §§231, 232, title III, §§351, 352, title IV, §§423, 424, 441(b)(2), Dec. 13, 2010, 124 Stat. 3206, 3229, 3232, 3254, 3260, 3265; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–129, §2, May 21, 2022, 136 Stat. 1225; Pub. L. 117–263, div. A, title VI, §626(i), Dec. 23, 2022, 136 Stat. 2630.)
+(Pub. L. 89–642, §17, as added Pub. L. 92–433, §9, Sept. 26, 1972, 86 Stat. 729; amended Pub. L. 93–150, §6, Nov. 7, 1973, 87 Stat. 563; Pub. L. 93–326, §6, June 30, 1974, 88 Stat. 287; Pub. L. 94–28, May 28, 1975, 89 Stat. 96; Pub. L. 94–105, §14, Oct. 7, 1975, 89 Stat. 518; Pub. L. 95–166, §§18, 20(6), Nov. 10, 1977, 91 Stat. 1345, 1346; Pub. L. 95–627, §3, Nov. 10, 1978, 92 Stat. 3611; Pub. L. 96–108, title III, §301, Nov. 9, 1979, 93 Stat. 838; Pub. L. 96–499, title II, §203(d), Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §815, Aug. 13, 1981, 95 Stat. 531; Pub. L. 99–500, title III, §§314, 341, 342(a), 343, 344(a), 345–348(a), 349–353(a), 372(b)(1), Oct. 18, 1986, 100 Stat. 1783–360, 1783–364 to 1783–367, 1783–369, and Pub. L. 99–591, title III, §§314, 341, 342(a), 343, 344(a), 345–348(a), 349–353(a), 372(b)(1), Oct. 30, 1986, 100 Stat. 3341–363, 3341–367 to 3341–370, 3341–372; Pub. L. 99–661, div. D, title I, §4104, title III, §§4301, 4302(a), 4303, 4304(a), 4305–4308(a), 4309–4313(a), title V, §4502(b)(1), Nov. 14, 1986, 100 Stat. 4071, 4075–4078, 4080; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 425; Pub. L. 100–237, §§8(a), (b), 9, 11, 12, Jan. 8, 1988, 101 Stat. 1740, 1741; Pub. L. 100–356, §3, June 28, 1988, 102 Stat. 669; Pub. L. 100–435, title II, §212, title V, §501(b), Sept. 19, 1988, 102 Stat. 1657, 1668; Pub. L. 100–690, title III, §3201, Nov. 18, 1988, 102 Stat. 4246; Pub. L. 101–147, title I, §123(a), title II, §213(a), title III, §326, Nov. 10, 1989, 103 Stat. 894, 912, 917; Pub. L. 101–330, July 12, 1990, 104 Stat. 311; Pub. L. 102–314, §3, July 2, 1992, 106 Stat. 280; Pub. L. 102–342, title II, §204, Aug. 14, 1992, 106 Stat. 913; Pub. L. 102–512, title II, §§203–207, Oct. 24, 1992, 106 Stat. 3364–3368; Pub. L. 103–448, title II, §204(a)–(o)(1), (p)–(v)(11), (w)(1), Nov. 2, 1994, 108 Stat. 4738–4745; Pub. L. 104–66, title I, §1011(l), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–193, title I, §109(h), title VII, §729(a)–(g)(1), (h)–(j), Aug. 22, 1996, 110 Stat. 2171, 2303–2305; Pub. L. 105–336, title II, §203(a)–(f)(1), (g)–(l), (m)–(p)(1), (q), Oct. 31, 1998, 112 Stat. 3158–3165; Pub. L. 105–362, title I, §101(i), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 106–65, div. A, title VI, §674(e), Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 106–224, title II, §§242(b)(1), (2), 244(a)–(e), June 20, 2000, 114 Stat. 411, 412, 421; Pub. L. 106–472, title III, §307(b), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 107–171, title IV, §§4306(a), 4307(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–265, title II, §203(a)–(c)(2)(A), (3), (4)(A), (5), (d), (e)(1)–(4)(A), (5), (6)(A), (7)(A), (B), (8)–(13), (f)–(i)(1), June 30, 2004, 118 Stat. 771–780; Pub. L. 108–447, div. A, title VII, §788(d), (e), Dec. 8, 2004, 118 Stat. 2851; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (E), (J), (2)(AA), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (E), (J), (2)(AA), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 111–80, title VII, §734(b), Oct. 21, 2009, 123 Stat. 2125; Pub. L. 111–296, title I, §131, title II, §§231, 232, title III, §§351, 352, title IV, §§423, 424, 441(b)(2), Dec. 13, 2010, 124 Stat. 3206, 3229, 3232, 3254, 3260, 3265; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–129, §2, May 21, 2022, 136 Stat. 1225; Pub. L. 117–263, div. A, title VI, §626(i), Dec. 23, 2022, 136 Stat. 2630.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Sections 4 and 5 of the Agriculture and Consumer Protection Act of 1973, referred to in subsecs. (c)(3), (e)(3)(B)(i), and (f)(1)(D), are sections 4 and 5 of Pub. L. 93–86, which are set out as notes under section 612c of Title 7, Agriculture.
+Sections 4 and 5 of the Agriculture and Consumer Protection Act of 1973, referred to in subsecs. (c)(3),\(e)(3)(B)(i), and (f)(1)(D), are sections 4 and 5 of Pub. L. 93–86, which are set out as notes under section 612c of Title 7, Agriculture.
 
 The Food and Nutrition Act of 2008, referred to in subsecs. (d)(2)(A)(ii)(I), (m)(7)(B), and (n)(1), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
@@ -1546,7 +1546,7 @@ Subsec. (e)(3)(B). Pub. L. 111–296, §351, which directed the amendment of sec
 
 Subsec. (f)(6)(B). Pub. L. 111–296, §231(5), inserted "and breastfeeding" after "nutrition education" in first sentence.
 
-Subsec. (f)(11)(C). Pub. L. 111–296, §441(b)(2), redesignated subpar. (D) as (C) and struck out former subpar. (C). Prior to amendment, text read as follows: "Subject to the availability of funds, the Secretary shall awardgrants to not more than 10 local sites determined by the Secretary to be geographically and culturally representative of State, local, and Indian agencies, to evaluate the feasibility of including fresh, frozen, or canned fruits and vegetables (to be made available through private funds) as an addition to the supplemental foods prescribed under this section."
+Subsec. (f)(11)(C). Pub. L. 111–296, §441(b)(2), redesignated subpar. (D) as (C) and struck out former subpar. (C). Prior to amendment, text read as follows: "Subject to the availability of funds, the Secretary shall award grants to not more than 10 local sites determined by the Secretary to be geographically and culturally representative of State, local, and Indian agencies, to evaluate the feasibility of including fresh, frozen, or canned fruits and vegetables (to be made available through private funds) as an addition to the supplemental foods prescribed under this section."
 
 Subsec. (f)(11)(D). Pub. L. 111–296, §441(b)(2)(B), redesignated subpar. (D) as (C).
 
@@ -1858,7 +1858,7 @@ Pub. L. 104–193, §729(e)(5), struck out ", including standards that will ens
 
 Subsec. (f)(12). Pub. L. 104–193, §729(e)(10), redesignated par. (13) as (12). Former par. (12) redesignated (11).
 
-Pub. L. 104–193, §729(e)(6), struck out at end "Products specifically designed for pregnant, postpartum, and breastfeeding women, or infants shall be available at the discretion of the Secretary if the products are commercially available or are justified to and approved by the Secretary based on clinical tests performed inaccordance with standards prescribed by the Secretary."
+Pub. L. 104–193, §729(e)(6), struck out at end "Products specifically designed for pregnant, postpartum, and breastfeeding women, or infants shall be available at the discretion of the Secretary if the products are commercially available or are justified to and approved by the Secretary based on clinical tests performed in accordance with standards prescribed by the Secretary."
 
 Subsec. (f)(13). Pub. L. 104–193, §729(e)(10), redesignated par. (14) as (13). Former par. (13) redesignated (12).
 
@@ -1888,7 +1888,7 @@ Subsec. (f)(23), (24). Pub. L. 104–193, §729(e)(10), redesignated pars. (23) 
 
 Subsec. (g)(5). Pub. L. 104–193, §729(f)(1), substituted "reports on program participant characteristics" for "the report required under subsection (d)(4) of this section".
 
-Subsec. (g)(6). Pub. L. 104–193, §729(f)(2), struck out par. (6) which read as follows: "Upon the completion of the 1990 decennial census, the Secretary, in coordination with the Secretary of Commerce, shall make available an estimate, by State and county (or equivalent political subdivision) of the number of women, infants, and children who are members of families that have incomes below the maximum income limit for participation in the program under this section."
+Subsec. (g)(6). Pub. L. 104–193, §729(f)(2), struck out par. (6) which read as follows: "Upon the completion ofthe 1990 decennial census, the Secretary, in coordination with the Secretary of Commerce, shall make available an estimate, by State and county (or equivalent political subdivision) of the number of women, infants, and children who are members of families that have incomes below the maximum income limit for participation in the program under this section."
 
 Subsec. (h)(4)(E). Pub. L. 104–193, §729(g)(1)(A), struck out "and, on development of the uniform requirements, require each State agency to report the data for inclusion in the report to Congress described in subsection (d)(4) of this section" before period at end.
 
@@ -2014,7 +2014,7 @@ Subsec. (m)(5)(F)(ii). Pub. L. 103–448, §204(v)(2)(B), added cl. (ii) and str
 
 Subsec. (m)(5)(F)(iii). Pub. L. 103–448, §204(v)(2)(C), struck out "for the administration of the program" after "use of program funds".
 
-Subsec. (m)(6)(A). Pub. L. 103–448, §204(v)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: "Each State that received assistance under the demonstration program authorized by this subsection in a fiscal year ending before October 1, 1991, shall receive assistance under this subsection if the State complies with the requirements established by this subsection, as determined by the Secretary."
+Subsec. (m)(6)(A). Pub. L. 103–448, §204(v)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Each State that received assistance under the demonstration program authorized by this subsection in a fiscal year ending before October 1, 1991, shall receive assistance under this subsection if the State complies with the requirements established by this subsection, as determined by the Secretary."
 
 Subsec. (m)(6)(B)(ii). Pub. L. 103–448, §204(v)(4), substituted "$75,000" for "$50,000" in two places.
 
@@ -2094,7 +2094,7 @@ Subsec. (f)(10). Pub. L. 101–147, §326(b)(3)(B), substituted "an individual" 
 
 Subsec. (f)(14)(A). Pub. L. 101–147, §123(a)(4)(D), inserted ", breastfeeding promotion," after "nutrition education".
 
-Subsec. (f)(17). Pub. L. 101–147, §§123(a)(4)(E), 326(b)(3)(C), realigned margin of par. (17) and insertedbefore period at end "and to accommodate the special needs and problems of individuals who are incarcerated in prisons or juvenile detention facilities".
+Subsec. (f)(17). Pub. L. 101–147, §§123(a)(4)(E), 326(b)(3)(C), realigned margin of par. (17) and inserted before period at end "and to accommodate the special needs and problems of individuals who are incarcerated in prisons or juvenile detention facilities".
 
 Subsec. (f)(18) to (20). Pub. L. 101–147, §123(a)(4)(F), added pars. (18) to (20).
 
@@ -2192,7 +2192,7 @@ Subsec. (e)(2). Pub. L. 99–500 and Pub. L. 99–591, §372(b)(1), and Pub. L. 
 
 Subsec. (f)(1). Pub. L. 99–500 and Pub. L. 99–591, §344(a), and Pub. L. 99–661, §4304(a), generally amended par. (1) identically, substituting subpars. (A) to (E) for former subpars. (A) to (L) and concluding provisions.
 
-Subsec. (f)(2). Pub. L. 99–500 and Pub. L. 99–591, §345, and Pub. L. 99–661, §4305, generally amended par. (2)identically. Prior to amendment, par. (2) read as follows: "Not less than one month prior to the submission to the Governor of the plan of operation and administration required by this subsection, the State agency shall conduct hearings to enable the general public to participate in the development of the State agency plan."
+Subsec. (f)(2). Pub. L. 99–500 and Pub. L. 99–591, §345, and Pub. L. 99–661, §4305, generally amended par. (2) identically. Prior to amendment, par. (2) read as follows: "Not less than one month prior to the submission to the Governor of the plan of operation and administration required by this subsection, the State agency shall conduct hearings to enable the general public to participate in the development of the State agency plan."
 
 Subsec. (f)(8). Pub. L. 99–500 and Pub. L. 99–591, §346, and Pub. L. 99–661, §4306, generally amended par. (8) identically. Prior to amendment, par. (8) read as follows: "The State agency shall, in cooperation with participating local agencies, publicize the availability of program benefits, including the eligibility criteria for participation and the location of local agencies operating the program. Such information shall be publicly announced by the State agency and by local agencies at least annually. Such information shall also be distributed to offices and organizations that deal with significant numbers of potentially eligible persons, including health and medical organizations, hospitals and clinics, welfare and unemployment offices, social service agencies, farmworker organizations, Indian tribal organizations, and religious and community organizations in low income areas."
 
@@ -2202,7 +2202,7 @@ Subsec. (f)(15). Pub. L. 99–500 and Pub. L. 99–591, §347, and Pub. L. 99–
 
 Subsec. (g)(1). Pub. L. 99–661, §4104(2), designated existing provision authorizing appropriations of $550,000,000 for fiscal year ending Sept. 30, 1979, $750,000,000 for fiscal year ending Sept. 30, 1980, $900,000,000 for fiscal year ending Sept. 30, 1981, $1,017,000,000 for fiscal year ending Sept. 30, 1982, $1,060,000,000 for fiscal year ending Sept. 30, 1983, and $1,126,000,000 for fiscal year ending Sept. 30, 1984 as par. (1), and substituted provision authorizing appropriations of $1,570,000,000 for fiscal year ending Sept. 30, 1986, such sums as may be necessary for each of fiscal years ending Sept. 30, 1987, and Sept. 30, 1988, and $1,782,000,000 for fiscal year ending Sept. 30, 1989.
 
-Pub. L. 99–500 and Pub. L. 99–591, §314(2), designated existing provision authorizing appropriations of $550,000,000 for fiscal year ending Sept. 30, 1979, $750,000,000 for fiscal year ending Sept. 30, 1980, $900,000,000 for fiscal year ending Sept. 30, 1981, $1,017,000,000 for fiscal year ending Sept. 30, 1982, $1,060,000,000 for fiscal year ending Sept. 30, 1983, and $1,126,000,000 for fiscal year ending Sept. 30, 1984, as par. (1), and in par. (1) as so designated, substituted provision authorizing appropriations of $1,580,494,000 for fiscal year ending Sept. 30, 1986, such sums as may be necessary for each of fiscal years ending Sept. 30, 1987, and Sept. 30, 1988, and $1,782,000,000 for fiscal year ending Sept. 30, 1989.
+Pub. L. 99–500 and Pub. L. 99–591, §314(2), designated existing provision authorizing appropriations of $550,000,000 for fiscal year ending Sept. 30, 1979, $750,000,000 for fiscal year ending Sept. 30, 1980, $900,000,000 for fiscal year ending Sept. 30, 1981, $1,017,000,000 for fiscal year ending Sept. 30, 1982, $1,060,000,000 for fiscal year ending Sept. 30, 1983, and$1,126,000,000 for fiscal year ending Sept. 30, 1984, as par. (1), and in par. (1) as so designated, substituted provision authorizing appropriations of $1,580,494,000 for fiscal year ending Sept. 30, 1986, such sums as may be necessary for each of fiscal years ending Sept. 30, 1987, and Sept. 30, 1988, and $1,782,000,000 for fiscal year ending Sept. 30, 1989.
 
 Subsec. (g)(2). Pub. L. 99–500 and Pub. L. 99–591, §348(a), and Pub. L. 99–661, §4308(a), amended subsec. (g) identically, adding par. (2).
 
@@ -2242,7 +2242,7 @@ Subsec. (d). Pub. L. 95–627 substituted provisions specifying persons eligible
 
 Subsec. (e). Pub. L. 95–627 substituted provisions relating to nutrition education for program participants for provisions relating to persons eligible to participate in the program. See subsec. (d) of this section.
 
-Subsec. (f). Pub. L. 95–627 substituted provisions relating to submittal of State operational and administrative plans, participation in the program by eligible migrants, recordkeeping, certain types of notification, hearings, certification of eligibility, withholding of funds, issuance of regulations, and use of foreign languages for provisions relating to the maintenance of adequate medical records, the establishment of an advisory committee to study methods of evaluating thehealth benefits of the program, and the submittal of a report to Congress based upon such study no later than June 1, 1976.
+Subsec. (f). Pub. L. 95–627 substituted provisions relating to submittal of State operational and administrative plans, participation in the program by eligible migrants, recordkeeping, certain types of notification, hearings, certification of eligibility, withholding of funds, issuance of regulations, and use of foreign languages for provisions relating to the maintenance of adequate medical records, the establishment of an advisory committee to study methods of evaluating the health benefits of the program, and the submittal of a report to Congress based upon such study no later than June 1, 1976.
 
 Subsec. (g). Pub. L. 95–627 substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1979, 1980, 1981, and 1982 for provisions defining terms for purposes of this section. See subsec. (b) of this section.
 
@@ -2264,7 +2264,7 @@ Pub. L. 94–28, §1(b), inserted "and for the period July 1, 1975, through Sept
 
 Subsec. (c). Pub. L. 94–105 redesignated former subsec. (b) as (c), and in subsec. (c) as so redesignated, authorized the appropriation of $250,000,000 during each fiscal year during the period ending Sept. 30, 1977, authorized the amount of $250,000,000 which the Secretary can use out of the funds appropriated by section 612c of Title 7 in the event that less than $250,000,000 has been appropriated by the beginning of each fiscal year and authorized the appropriation of not to exceed $250,000,000 during the fiscal year ending Sept. 30, 1978. Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 94–105 redesignated former subsec. (c) as (d), and in subsec. (d) as so redesignated, increased from 10 to 20 per centum the amount of administrative costs the Secretary is authorized to pay except that in the first 3 months or until the projected caseload level has been reached the Secretary shall pay those administrative costs necessary to commence the program successfully, inserted provision relating to submission for approval of a description of the manner in which administrative funds shall be spent, and directed the Secretary to take affirmative action to insure that programs begin in the most needy areas. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 94–105 redesignated former subsec. (c) as (d), and in subsec. (d) as so redesignated, increased from 10 to 20 per centum the amount of administrative costs the Secretary is authorized to pay except that in the first 3 months or until the projected caseload level has been reached the Secretary shall pay those administrative costs necessary to commence theprogram successfully, inserted provision relating to submission for approval of a description of the manner in which administrative funds shall be spent, and directed the Secretary to take affirmative action to insure that programs begin in the most needy areas. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 94–105 redesignated former subsec. (d) as (e) and in subsec. (e) as so redesignated, substituted "under this section" for "under subsection (a) of this section" and inserted "or members of populations" after "residents of areas". Former subsec. (e) redesignated (f).
 
@@ -2286,7 +2286,7 @@ Subsec. (e). Pub. L. 93–150, §6(c), extended dates for submission of prelimin
 
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2013 Amendment
 
@@ -2678,7 +2678,7 @@ Pub. L. 103–448, title II, §204(v)(12), Nov. 2, 1994, 108 Stat. 4745, provide
 
 #### References to Special Supplemental Food Program
 
-Pub. L. 103–448, title II, §204(w)(3), Nov. 2, 1994, 108 Stat. 4746, provided that: "Any reference to the special supplemental food program established under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) in any provision of law, regulation, document, record, or other paper of the United States shall be considered to be a reference to the special supplemental nutrition program established under such section."
+Pub. L. 103–448, title II, §204(w)(3), Nov. 2, 1994, 108 Stat. 4746, provided that: "Any reference to the specialsupplemental food program established under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) in any provision of law, regulation, document, record, or other paper of the United States shall be considered to be a reference to the special supplemental nutrition program established under such section."
 
 #### WIC Infant Formula Protection; Findings and Purposes
 
@@ -2748,7 +2748,7 @@ Pub. L. 100–237, §10, Jan. 8, 1988, 101 Stat. 1741, directed Secretary of Agr
 
 #### Accountability for Migrant Services
 
-Pub. L. 99–500, title III, §348(b), Oct. 18, 1986, 100 Stat. 1783–366, Pub. L. 99–591, title III, §348(b), Oct. 30, 1986, 100 Stat. 3341–369, and Pub. L. 99–661, div. D, title III, §4308(b), Nov. 14, 1986, 100 Stat. 4078, provided that: "To the extent possible, accountability for migrant services under section 17(g)(2) of the Child Nutrition Act of 1966 \[subsec. (g)(2) of this section\] (as added by subsection (a)) shall be conducted under regulations in effect on the date of the enactment of this Act \[Oct. 18, 1986\]."
+Pub. L. 99–500, title III, §348(b), Oct. 18, 1986, 100 Stat. 1783–366, Pub. L. 99–591, title III, §348(b), Oct. 30, 1986, 100 Stat. 3341–369, and Pub. L. 99–661, div. D, title III, §4308(b), Nov. 14, 1986, 100 Stat. 4078, provided that: "To the extent possible, accountability for migrant services under section 17(g)(2) of the Child Nutrition Act of 1966\[subsec. (g)(2) of this section\] (as added by subsection (a)) shall be conducted under regulations in effect on the date of the enactment of this Act \[Oct. 18, 1986\]."
 
 <i><sup>1</sup></i><i> So in original. The "; and" probably should be a period.</i>
 

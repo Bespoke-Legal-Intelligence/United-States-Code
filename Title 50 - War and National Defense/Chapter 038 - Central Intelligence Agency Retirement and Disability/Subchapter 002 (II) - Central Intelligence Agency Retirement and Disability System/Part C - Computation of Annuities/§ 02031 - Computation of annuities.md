@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(i) the amount computed under paragraph (1), using the participant's length of service after that date and the participant's high-3 average pay, as determined by using the annual rate of basic pay that would be payable for full-time service; and
 
-&emsp;&emsp;&emsp;(ii) the ratio which the participant's actual service after April 6, 1986 (as determined by prorating the participant's total service after that date to reflect the service that was performed on a part-time basis) bears to the total service after that date that would be creditable for the participant if all the service had been performed on a full-time basis.
+&emsp;&emsp;&emsp;(ii) the ratio which the participant's actual service after April 6, 1986 (as determined by prorating the participant's total service after that date to reflect the service that was performed on a part-time basis) bears to the total service after thatdate that would be creditable for the participant if all the service had been performed on a full-time basis.
 
 #### (D) Treatment of employment on temporary or intermittent basis
 
@@ -50,7 +50,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;Except to the extent provided otherwise under a written election under subparagraph\(B) or (C), if at the time of retirement a participant or former participant is married (or has a former spouse who has not remarried before attaining age 55), the participant shall receive a reduced annuity and provide a survivor annuity for the participant's spouse under this subsection or former spouse under section 2032(b) of this title, or a combination of such annuities, as the case may be.
+&emsp;&emsp;Except to the extent provided otherwise under a written election under subparagraph (B) or (C), if at the time of retirement a participant or former participant is married (or has a former spouse who has not remarried before attaining age 55), the participant shall receive a reduced annuity and provide a survivor annuity for the participant's spouse under this subsection or former spouse under section 2032(b) of this title, or a combination of such annuities, as the case may be.
 
 #### (B) Joint election for waiver or reduction of spouse survivor annuity
 
@@ -180,7 +180,7 @@
 
 &emsp;(A) In the case of a child annuity payable under paragraph (1), upon the death of a surviving spouse or the termination of the annuity of a child, the annuities of any remaining children shall be recomputed and paid as though the spouse or child had not survived the retired participant.
 
-&emsp;(B) In the case of a child annuity payable under paragraph (2), upon the death of a surviving spouse or former spouse or termination of the annuity of a child, the annuities of any remaining children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the retired participant. If the annuity of a surviving child who has notbeen receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities of all currently eligible children were then being initiated.
+&emsp;(B) In the case of a child annuity payable under paragraph (2), upon the death of a surviving spouse or former spouse or termination of the annuity of a child, the annuities of any remaining children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the retired participant. If the annuity of a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities of all currently eligible children were then being initiated.
 
 #### (5) "Former spouse" defined
 
@@ -224,7 +224,7 @@
 
 #### (1) Recomputation of retired participant's annuity upon divorce
 
-&emsp;An annuity which is reduced under this section (or any similar prior provision of law) to provide a survivor annuity for a spouse shall, if the marriage of the retired participant to such spouse is dissolved, be recomputed and paid for each full month during which a retired participant is not married (or is remarried, if there is no election in effect under paragraph (2)) as if the annuity had not been so reduced, subject to any reduction required to provide a survivor annuity under subsection (b) or (c) of section 2032 of this title or under section 2036 of this title.
+&emsp;An annuity which is reduced under this section (or any similar prior provision of law) to provide a survivor annuity for a spouse shall, if the marriage of the retired participant to such spouse is dissolved, be recomputed and paid for each full month during which a retired participant is not married (or is remarried, if there is no election in effect under paragraph (2)) as if the annuity had not been so reduced, subject to any reduction requiredto provide a survivor annuity under subsection (b) or (c) of section 2032 of this title or under section 2036 of this title.
 
 #### (2) Election of survivor annuity upon subsequent remarriage
 
@@ -278,7 +278,7 @@
 
 #### (2) Former spouse
 
-&emsp;A surviving former spouse of a participant or retired participant shall not become entitled under section 2032(b) or 2034 of this title to a survivor annuity or to the restoration of a survivor annuity payable from the fund unless the surviving former spouse elects to receive it instead of any other survivor annuity to which the surviving former spouse may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
+&emsp;A surviving former spouse of a participant or retired participant shall not become entitled under section 2032(b) or 2034 of this title to a survivor annuity or to the restoration of a survivor annuity payable from the fund unless the surviving former spouse elects to receive it instead of any other survivor annuity towhich the surviving former spouse may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
 
 #### (3) Surviving spouse of post-retirement marriage
 
@@ -350,7 +350,7 @@ Subsecs. (h) to (m). Pub. L. 116–92, §6202(a)(1)(E), (F), added subsec. (h) a
 
 <b>1993</b>—Subsec. (a)(4). Pub. L. 103–178, §202(a)(4)(A), struck out "(or, in the case of an annuity computed under section 2052 of this title and based on less than 3 years, over the total service)" after "years of the participant's service".
 
-Subsec. (f)(1)(A). Pub. L. 103–178, §202(a)(4)(B), inserted "after the participant's death" after "under the system" and struck out "after the participant's death" after "participant's reduced annuity".
+Subsec. (f)(1)(A). Pub. L. 103–178, §202(a)(4)(B), inserted "after the participant's death" after "under thesystem" and struck out "after the participant's death" after "participant's reduced annuity".
 
 Subsec. (g)(1). Pub. L. 103–178, §202(a)(4)(C), substituted "(or is remarried, if" for "(or is remarried if".
 

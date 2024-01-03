@@ -16,7 +16,7 @@ The Commission and the Executive Director shall hire Commission staff on the bas
 
 #### (1) Department of State
 
-&emsp;The Secretary of State shall assist the Commission by providing on a reimbursable ornonreimbursable basis to the Commission such staff and administrative services as may be necessary and appropriate to perform its functions.
+&emsp;The Secretary of State shall assist the Commission by providing on a reimbursable or nonreimbursable basis to the Commission such staff and administrative services as may be necessary and appropriate to perform its functions.
 
 #### (2) Other Federal agencies
 

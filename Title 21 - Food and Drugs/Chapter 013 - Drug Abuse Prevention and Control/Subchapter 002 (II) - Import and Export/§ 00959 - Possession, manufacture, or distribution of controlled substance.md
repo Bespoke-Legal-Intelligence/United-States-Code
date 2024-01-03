@@ -50,7 +50,7 @@ Pub. L. 104–237, §102(a), inserted "or listed chemical" after "schedule I or 
 
 Subsec. (b). Pub. L. 104–237, §102(b), inserted "or listed chemical" after "controlled substance" in pars. (1) and (2).
 
-<b>1986</b>—Pub. L. 99–570 designated first sentence as subsec. (a) and inserted "or into waters within a distance of 12 miles of the coast of the United States" in pars. (1) and (2), added subsec. (b), and designated last two sentences as subsec. (c).
+<b>1986</b>—Pub. L. 99–570 designated first sentence as subsec. (a) and inserted "or into waters within a distanceof 12 miles of the coast of the United States" in pars. (1) and (2), added subsec. (b), and designated last two sentences as subsec. (c).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

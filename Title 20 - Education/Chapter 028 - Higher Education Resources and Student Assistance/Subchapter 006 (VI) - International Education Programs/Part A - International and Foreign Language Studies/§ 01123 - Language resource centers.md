@@ -14,7 +14,7 @@ The activities carried out by the centers described in subsection (a)—
 
 &emsp;&emsp;(A) the conduct and dissemination of research on new and improved teaching methods, including the use of advanced educational technology;
 
-&emsp;&emsp;(B) the development and dissemination of new teaching materials reflecting the use of such research in effective teaching strategies;
+&emsp;&emsp;(B) the development and dissemination of new teaching materials reflecting the use ofsuch research in effective teaching strategies;
 
 &emsp;&emsp;(C) the development, application, and dissemination of performance testing appropriate to an educational setting for use as a standard and comparable measurement of skill levels in all languages;
 

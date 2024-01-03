@@ -18,5 +18,5 @@ Pub. L. 110–234 and Pub. L. 110–246 repealed this subchapter. Pub. L. 110–
 
 #### Effective Date of Repeal
 
-Repeal of this subchapter and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Repeal of this subchapter and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

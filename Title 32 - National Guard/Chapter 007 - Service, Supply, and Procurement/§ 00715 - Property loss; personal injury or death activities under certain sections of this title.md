@@ -6,7 +6,7 @@
 
 &emsp;(2) damage to, or loss of, personal property, including property bailed to the United States or the National Guard and including registered or insured mail damaged, lost, or destroyed by a criminal act while in the possession of the National Guard; or
 
-&emsp;(3) personal injury or death; either caused by a member of the Army National Guard or the Air National Guard, as the case may be, while engaged in training or duty under section 316, 502, 503, 504, or 505 of this title or any other provision of law for which he is entitled to pay under section 206 of title 37, or for which he has waived that pay, and acting within the scope of his employment; or otherwise incident to noncombat activities of the Army National Guard or the Air National Guard, as the case may be, under one of those sections.
+&emsp;(3) personal injury or death; either caused by a member of the Army National Guard or theAir National Guard, as the case may be, while engaged in training or duty under section 316, 502, 503, 504, or 505 of this title or any other provision of law for which he is entitled to pay under section 206 of title 37, or for which he has waived that pay, and acting within the scope of his employment; or otherwise incident to noncombat activities of the Army National Guard or the Air National Guard, as the case may be, under one of those sections.
 
 (b) A claim may be allowed under subsection (a) only if—
 
@@ -16,7 +16,7 @@
 
 &emsp;(3) it is not for personal injury or death of such a member or a person employed under section 709 of this title, whose injury or death is incident to his service;
 
-&emsp;(4) the damage to, or loss of, property, or the personal injury or death, was not caused wholly or partly by a negligent or wrongful act of the claimant, his agent, or his employee, or, if so caused, allowed only to the extent that thelaw of the place where the act or omission complained of occurred would permit recovery from a private individual under like circumstances; and
+&emsp;(4) the damage to, or loss of, property, or the personal injury or death, was not caused wholly or partly by a negligent or wrongful act of the claimant, his agent, or his employee, or, if so caused, allowed only to the extent that the law of the place where the act or omission complained of occurred would permit recovery from a private individual under like circumstances; and
 
 &emsp;(5) it is substantiated as prescribed in regulations of the Secretary concerned.
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 90–486 effective Jan. 1, 1968, except that no deductions 
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an EffectiveDate note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Savings Provision for Claims Arising Before January 1, 1969
 

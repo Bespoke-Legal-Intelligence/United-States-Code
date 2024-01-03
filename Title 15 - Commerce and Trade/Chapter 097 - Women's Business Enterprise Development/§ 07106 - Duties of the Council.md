@@ -36,7 +36,7 @@ The Council shall—
 
 #### (e) Form of transmittal
 
-The information included in each report under subsection (d) that is described in subparagraphs (A) through (C) of subsection (d)(6), shall be reported verbatim, together with any separate additional, concurring, or dissenting views of the Administrator.
+The information included in each report under subsection (d) that is described in subparagraphs\(A) through (C) of subsection (d)(6), shall be reported verbatim, together with any separate additional, concurring, or dissenting views of the Administrator.
 
 (Pub. L. 100–533, title IV, §406, as added Pub. L. 103–403, title IV, §413, Oct. 22, 1994, 108 Stat. 4195; amended Pub. L. 105–135, title III, §303, Dec. 2, 1997, 111 Stat. 2609.)
 
@@ -58,7 +58,7 @@ Subsec. (e). Pub. L. 105–135, §303(2), added subsec. (e).
 
 #### Change of Name
 
-Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship ofSenate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
 
 #### Effective Date of 1997 Amendment
 

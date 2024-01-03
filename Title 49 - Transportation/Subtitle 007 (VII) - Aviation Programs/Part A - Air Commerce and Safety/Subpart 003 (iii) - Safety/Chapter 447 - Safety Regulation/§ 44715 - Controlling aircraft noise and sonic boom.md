@@ -54,7 +54,7 @@ Consultation and Reports.—(1) If the Administrator of the Environmental Protec
 
 &emsp;(A) be accompanied by a detailed statement of the findings of the Administrator of the Federal Aviation Administration and the reasons for the findings;
 
-&emsp;(B) identify any statement related to an action under subsection (c) of this section filed under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C));
+&emsp;(B) identify any statement related to an action under subsection (c) of this section filedunder section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C));
 
 &emsp;(C) specify whether and where that statement is available for public inspection; and
 
@@ -62,7 +62,7 @@ Consultation and Reports.—(1) If the Administrator of the Environmental Protec
 
 (e)
 
-Supplemental Reports.—The Administrator of the Environmental Protection Agency may request the Administrator of the Federal Aviation Administration to file a supplemental report if the report under subsection (d) of this section indicates that the proposed regulations under subsection (c) of this section, for which a statement under section 102(2)(C) of the Act (42 U.S.C. 4332(2)(C)) is not required, should not be prescribed. The supplemental report shall be published in the Federal Register within the time the Administrator of the Environmental Protection Agency specifies. However, the time specified must be at least 90 days after the dateof the request. The supplemental report shall contain a comparison of the environmental effects, including those that cannot be avoided, of the action of the Administrator of the Federal Aviation Administration and the proposed regulations of the Administrator of the Environmental Protection Agency.
+Supplemental Reports.—The Administrator of the Environmental Protection Agency may request the Administrator of the Federal Aviation Administration to file a supplemental report if the report under subsection (d) of this section indicates that the proposed regulations under subsection (c) of this section, for which a statement under section 102(2)(C) of the Act (42 U.S.C. 4332(2)(C)) is not required, should not be prescribed. The supplemental report shall be published in the Federal Register within the time the Administrator of the Environmental Protection Agency specifies. However, the time specified must be at least 90 days after the date of the request. The supplemental report shall contain a comparison of the environmental effects, including those that cannot be avoided, of the action of the Administrator of the Federal Aviation Administration and the proposed regulations of the Administrator of the Environmental Protection Agency.
 
 (f)
 
@@ -144,5 +144,5 @@ In subsection (f), the words "under any provision of this chapter" and "that . 
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 

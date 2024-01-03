@@ -22,7 +22,7 @@ For purposes of this subtitle—
 
 #### (A) In general
 
-&emsp;&emsp;The amount which would (but for this paragraph) be includible in the gross income of any individual by reason of paragraph (1)shall be reduced (but not below zero) by $600,000.
+&emsp;&emsp;The amount which would (but for this paragraph) be includible in the gross income of any individual by reason of paragraph (1) shall be reduced (but not below zero) by $600,000.
 
 #### (B) Adjustment for inflation
 
@@ -172,7 +172,7 @@ Subsection (a) shall not apply to—
 
 #### (2) Specified tax deferred account
 
-&emsp;For purposes of paragraph (1), the term "specified tax deferred account" means an individual retirement plan (as defined in section 7701(a)(37)) other than any arrangement described in subsection (k) or (p) of section 408, a qualified tuition program (as defined in section 529), a qualified ABLE program (as defined in section 529A), a Coverdell education savings account (as defined in section 530), a health savings account (as defined in section 223), and an Archer MSA (as defined in section 220).
+&emsp;For purposes of paragraph (1), the term "specified tax deferred account" means an individual retirement plan (as defined in section 7701(a)(37)) other than any arrangement described in subsection (k) or (p) of section 408, a qualified tuition program (as defined in section 529), a qualified ABLE program (as defined in section 529A), a Coverdell educationsavings account (as defined in section 530), a health savings account (as defined in section 223), and an Archer MSA (as defined in section 220).
 
 #### (f) Special rules for nongrantor trusts
 
@@ -198,7 +198,7 @@ Subsection (a) shall not apply to—
 
 &emsp;&emsp;(A) rules similar to the rules of subsection (d)(6) shall apply, and
 
-&emsp;&emsp;(B) the covered expatriate shall be treated as having waived any right to claim any reduction under any treaty with the United States in withholding on any distribution to which paragraph (1)(A) applies unless the covered expatriate agrees to such othertreatment as the Secretary determines appropriate.
+&emsp;&emsp;(B) the covered expatriate shall be treated as having waived any right to claim any reduction under any treaty with the United States in withholding on any distribution to which paragraph (1)(A) applies unless the covered expatriate agrees to such other treatment as the Secretary determines appropriate.
 
 #### (5) Application
 
@@ -282,7 +282,7 @@ For purposes of this section—
 
 #### (2) Step-up in basis
 
-&emsp;Solely for purposes of determining any tax imposed by reason of subsection (a), property which was held by an individual on the date the individual first became a resident of the United States (within the meaning of section 7701(b)) shall be treated as having a basis on such date of not less than the fair market value of such property on such date. The preceding sentence shall not apply if the individual elects not to have such sentence apply.Such an election, once made, shall be irrevocable.
+&emsp;Solely for purposes of determining any tax imposed by reason of subsection (a), property which was held by an individual on the date the individual first became a resident of the United States (within the meaning of section 7701(b)) shall be treated as having a basis on such date of not less than the fair market value of such property on such date. The preceding sentence shall not apply if the individual elects not to have such sentence apply. Such an election, once made, shall be irrevocable.
 
 #### (3) Coordination with section 684
 

@@ -6,7 +6,7 @@ Definition of Eligible State.—In this section, the term "eligible State" means
 
 (b)
 
-Competition.—Making use of the existing infrastructure established in eligible States bythe National Science Foundation, the Administrator shall conduct a merit grant competition among the eligible States in areas of research important to the mission of the Administration. With respect to a grant application by an eligible State, the Administrator shall consider—
+Competition.—Making use of the existing infrastructure established in eligible States by the National Science Foundation, the Administrator shall conduct a merit grant competition among the eligible States in areas of research important to the mission of the Administration. With respect to a grant application by an eligible State, the Administrator shall consider—
 
 &emsp;(1) the application's merit and relevance to the mission of the Administration;
 

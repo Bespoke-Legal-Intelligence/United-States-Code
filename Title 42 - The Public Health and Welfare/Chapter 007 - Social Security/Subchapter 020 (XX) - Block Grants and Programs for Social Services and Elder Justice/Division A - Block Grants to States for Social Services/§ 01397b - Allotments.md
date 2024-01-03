@@ -150,7 +150,7 @@ Pub. L. 98–473, title IV, §401, Oct. 12, 1984, 98 Stat. 2195, provided that:
 
 &emsp;"(ii) provisions of State law, enacted in accordance with the provisions of Public Law 92–544 (86 Stat. 115) \[86 Stat. 1115, 34 U.S.C. 41101\] requiring nationwide criminal record checks
 
-> for all operators, staff or employees, or prospective operators, staff or employees of child care facilities (including any facility or program having primary custody of children for 20 hours or more per week), juvenile detention, correction or treatment facilities, with the objective of protecting the children involved andpromoting such children's safety and welfare while receiving service through such facilities or programs.
+> for all operators, staff or employees, or prospective operators, staff or employees of child care facilities (including any facility or program having primary custody of children for 20 hours or more per week), juvenile detention, correction or treatment facilities, with the objective of protecting the children involved and promoting such children's safety and welfare while receiving service through such facilities or programs.
 
 "(B) In the case of any State not meeting the requirements of subparagraph (A) by September 30, 1985, such State's allotment for fiscal year 1986 or 1987 shall be reduced in the aggregate by an amount equal to one-half of the amount by which such State's allotment under such title was increased for fiscal year 1985 as a result of subsection (a).
 

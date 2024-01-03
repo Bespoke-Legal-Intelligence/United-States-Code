@@ -14,7 +14,7 @@ Section 5886, Pub. L. 103–227, title III, §306, Mar. 31, 1994, 108 Stat. 160;
 
 Section 5887, Pub. L. 103–227, title III, §307, Mar. 31, 1994, 108 Stat. 167; Pub. L. 104–134, title I, §101(d) \[title VII, §705(c)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–256; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to Secretary's review of applications and payments.
 
-Section 5888, Pub. L. 103–227, title III, §308, Mar. 31, 1994, 108 Stat. 168; Pub. L. 104–134, title I, §101(d) \[titleVII, §703(a)(10)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to State use of funds.
+Section 5888, Pub. L. 103–227, title III, §308, Mar. 31, 1994, 108 Stat. 168; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(10)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to State use of funds.
 
 Section 5889, Pub. L. 103–227, title III, §309, Mar. 31, 1994, 108 Stat. 169; Pub. L. 103–382, title III, §361(c), Oct. 20, 1994, 108 Stat. 3975; Pub. L. 104–134, title I, §101(d) \[title VII, §§702(b), 703(a)(11)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251, 1321–253; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to subgrants for local reform and professional development.
 

@@ -24,7 +24,7 @@ Pub. L. 104–132 inserted "and is not deportable under section 1251(a)(4)(B) of
 
 <b>1988</b>—Pub. L. 100–525 amended Pub. L. 99–603. See 1986 Amendment note below.
 
-<b>1986</b>—Pub. L. 99–603, as amended by Pub. L. 100–525, inserted "under section 1182(a)(33) of this title or" in introductory provisions and substituted "January 1, 1972" for "June 30, 1948" in section heading and in par. (a).
+<b>1986</b>—Pub. L. 99–603, as amended by Pub. L. 100–525, inserted "under section 1182(a)(33) of this title or" in introductory provisions and substituted "January 1,1972" for "June 30, 1948" in section heading and in par. (a).
 
 <b>1965</b>—Pub. L. 89–236 substituted "June 30, 1948" for "June 28, 1940".
 
@@ -52,7 +52,7 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Applicability of Numerical Limitations
 

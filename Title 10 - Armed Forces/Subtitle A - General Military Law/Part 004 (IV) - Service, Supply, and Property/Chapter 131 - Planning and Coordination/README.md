@@ -26,7 +26,7 @@
 | \[2217. | Renumbered.\] |
 | [2218\.](%C2%A7%2002218%20-%20National%20Defense%20Sealift%20Fund.md) | National Defense Sealift Fund. |
 | [2218a.](%C2%A7%2002218a%20-%20National%20Sea-Based%20Deterrence%20Fund.md) | National Sea-Based Deterrence Fund. |
-| \[2219. | Renumbered.\] |
+| [2219\.](%C2%A7%2002219%20-%20Grants%20for%20improvement%20of%20Navy%20ship%20repair%20or%20alterations%20capability.md) | Grants for improvement of Navy ship repair or alterations capability. |
 | [2220\.](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md) | Performance based management: acquisition programs. |
 | \[2221. | Repealed.\] |
 | [2222\.](%C2%A7%2002222%20-%20Defense%20business%20systems%20business%20process%20reengineering%3B%20enterprise%20architecture%3B%20management.md) | Defense business systems: business process reengineering; enterprise architecture; management. |
@@ -48,7 +48,9 @@
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. A, title XVIII, §§1807(b)(2)(B), (g)(2), 1809(f)(2), (g)(2), (i)(2), Jan. 1, 2021,134 Stat. 4157, 4159, 4161, 4162, substituted "Regulations on production, warehousing, and supply distribution functions" for "Regulations on procurement, production, warehousing, and supply distribution functions" in item 2202 and struck out items 2212 "Obligations for contract services: reporting in budget object classes", 2213 "Limitation on acquisition of excess supplies", 2216 "Defense Modernization Account", 2217 "Comparable budgeting for common procurement weapon systems", and 2229b "Comptroller General assessment of acquisition programs and initiatives".
+<b>2023</b>—Pub. L. 118–31, div. A, title X, §1017, Dec. 22, 2023, 137 Stat. 382, added item 2219. Amendment was made pursuant to operation of section 102 of this title.
+
+<b>2021</b>—Pub. L. 116–283, div. A, title XVIII, §§1807(b)(2)(B), (g)(2), 1809(f)(2), (g)(2), (i)(2), Jan. 1, 2021, 134 Stat. 4157, 4159, 4161, 4162, substituted "Regulations on production, warehousing, and supply distribution functions" for "Regulations on procurement, production, warehousing, and supply distribution functions" in item 2202 and struck out items 2212 "Obligations for contract services: reporting in budget object classes", 2213 "Limitation on acquisition of excess supplies", 2216 "Defense Modernization Account", 2217 "Comparable budgeting for common procurement weapon systems", and 2229b "Comptroller General assessment of acquisition programs and initiatives".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title XVII, §1731(a)(33), Dec. 20, 2019, 133 Stat. 1814, substituted "Comptroller General assessment of acquisition programs and initiatives" for "Comptroller General assessment of acquisition programs and related initiatives" in item 2229b.
 
@@ -142,7 +144,7 @@ Matters covered.—Such plan shall include, at a minimum, detailed descriptions 
 
 &emsp;&emsp;"(C) procedures to monitor the progress of the Department of Defense in meeting performance goals and measures under subparagraph (A);
 
-&emsp;&emsp;"(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibilityof such plans and budgets with the strategic management plan of the Department of Defense; and
+&emsp;&emsp;"(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibility of such plans and budgets with the strategic management plan of the Department of Defense; and
 
 &emsp;&emsp;"(E) procedures to oversee the development of, and review and approve, all budget requests for defense business systems.
 
@@ -177,7 +179,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act \[
 - [&sect; 02217 - Renumbered &sect;3135](%C2%A7%2002217%20-%20Renumbered%20%C2%A73135.md)
 - [&sect; 02218 - National Defense Sealift Fund](%C2%A7%2002218%20-%20National%20Defense%20Sealift%20Fund.md)
 - [&sect; 02218a - National Sea-Based Deterrence Fund](%C2%A7%2002218a%20-%20National%20Sea-Based%20Deterrence%20Fund.md)
-- [&sect; 02219 - Renumbered &sect;2491c](%C2%A7%2002219%20-%20Renumbered%20%C2%A72491c.md)
+- [&sect; 02219 - Grants for improvement of Navy ship repair or alterations capability](%C2%A7%2002219%20-%20Grants%20for%20improvement%20of%20Navy%20ship%20repair%20or%20alterations%20capability.md)
 - [&sect; 02220 - Performance based management acquisition programs](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md)
 - [&sect; 02221 - Repealed. Pub. L. 105&#8211;261, div. A, title IX, &sect;906(f)(1), Oct. 17, 1998, 112 Stat. 2096](%C2%A7%2002221%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93261%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7906%28f%29%281%29%2C%20Oct.%2017%2C%201998%2C%20112%20Stat.%202096.md)
 - [&sect; 02222 - Defense business systems business process reengineering; enterprise architecture; management](%C2%A7%2002222%20-%20Defense%20business%20systems%20business%20process%20reengineering%3B%20enterprise%20architecture%3B%20management.md)

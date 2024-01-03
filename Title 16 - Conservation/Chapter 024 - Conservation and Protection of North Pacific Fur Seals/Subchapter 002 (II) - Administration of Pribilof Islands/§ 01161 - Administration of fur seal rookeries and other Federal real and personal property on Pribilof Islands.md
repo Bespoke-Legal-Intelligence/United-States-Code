@@ -2,7 +2,7 @@
 
 The Secretary shall administer the fur seal rookeries and other Federal real and personal property on the Pribilof Islands, with the exception of lands purchased by the U.S. Fish and Wildlife Service under section 1417 of the Alaska National Interest Lands Conservation Act (Public Law 96–487) or acquired or purchased by any other authority after October 14, 1983, and, in consultation with the Secretary of the Interior, shall ensure that activities on such property are consistent with the purposes of conserving, managing, and protecting the North Pacific fur seals and other wildlife and for other purposes consistent with that primary purpose.
 
-(Pub. L. 89–702, title II, §201, Nov. 2, 1966, 80 Stat. 1093; Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 838; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(6)(B)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–248; Pub. L. 106–562, title I, §106(b), Dec. 23, 2000, 114 Stat. 2799.)
+(Pub. L. 89–702, title II, §201, Nov. 2, 1966, 80 Stat. 1093; Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 838;Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(6)(B)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–248; Pub. L. 106–562, title I, §106(b), Dec. 23, 2000, 114 Stat. 2799.)
 
 #### <b>Editorial Notes</b>
 
@@ -48,7 +48,7 @@ Savings.—This subsection shall not affect any cause of action under section 20
 
 Rule of construction.—Nothing in this title \[see Short Title of 2000 Amendments note set out under section 1151 of this title\] shall be construed to imply that—
 
-&emsp;&emsp;"(A) any obligation to promote or otherwise provide for the development in the Pribilof Islands of any form of an economy not dependent on sealing was or was not established by section 206 of the FurSeal Act of 1966 (16 U.S.C. 1166), section 3(c)(1)(A) of Public Law 104–91 (16 U.S.C. 1165 note), or any other provision of law; or
+&emsp;&emsp;"(A) any obligation to promote or otherwise provide for the development in the Pribilof Islands of any form of an economy not dependent on sealing was or was not established by section 206 of the Fur Seal Act of 1966 (16 U.S.C. 1166), section 3(c)(1)(A) of Public Law 104–91 (16 U.S.C. 1165 note), or any other provision of law; or
 
 &emsp;&emsp;"(B) any cause of action could or could not arise with respect to such an obligation.
 
@@ -94,7 +94,7 @@ Certain reserved rights not conditions.—For purposes of paragraph (2)(C), the 
 
 &emsp;&emsp;"(B) Any requirement that a potential transferee must allow the National Oceanic and Atmospheric Administration access to the property to continue the operation, and eventual closure, of treatment facilities.
 
-&emsp;&emsp;"(C) Any requirement that a potential transferee must comply with institutional controls to ensure that an environmental cleanup remains protective of human health or the environment that do not unreasonably affect the use of the property.
+&emsp;&emsp;"(C) Any requirement that a potential transferee must comply with institutional controls to ensurethat an environmental cleanup remains protective of human health or the environment that do not unreasonably affect the use of the property.
 
 &emsp;&emsp;"(D) Valid existing rights in the property, including rights granted by contract, permit, right-of-way, or easement.
 
@@ -156,7 +156,7 @@ Determination.—
 
 &emsp;"(1)
 
-In general.—Not later than 2 years after the date of the enactment of this subsection \[Feb. 8, 2016\]and not less than once every 5 years thereafter, the Secretary shall determine whether property located on St. Paul Island and not transferred to the Secretary of the department in which the Coast Guard is operating under section 524 of the Pribilof Island Transition Completion Act of 2016 \[130 Stat. 72, 2795\] or to the Natives of the Pribilof Islands is in excess of the smallest practicable tract enclosing land—
+In general.—Not later than 2 years after the date of the enactment of this subsection \[Feb. 8, 2016\] and not less than once every 5 years thereafter, the Secretary shall determine whether property located on St. Paul Island and not transferred to the Secretary of the department in which the Coast Guard is operating under section 524 of the Pribilof Island Transition Completion Act of 2016 \[130 Stat. 72, 2795\] or to the Natives of the Pribilof Islands is in excess of the smallest practicable tract enclosing land—
 
 &emsp;&emsp;"(A) needed by the Secretary for the purposes of carrying out the Fur Seal Act of 1966 (16 U.S.C. 1151 et seq.);
 

@@ -20,7 +20,7 @@ The value of the gross estate shall include the value of all property—
 
 #### (2) Powers created after October 21, 1942
 
-&emsp;To the extent of any property with respect to which the decedent has at the time of his death a general power of appointment created after October 21, 1942, or with respect to which the decedent has at any time exercised or released such a power of appointment by a disposition which is of such nature that if it were a transfer of property owned by the decedent, such property would be includible in the decedent's gross estate under sections 2035 to 2038, inclusive. For purposes of this paragraph (2), the power of appointment shall be considered to exist on the date of the decedent's death even though the exercise of the power is subject to a precedent giving of notice or even though the exercise of the power takes effect only on the expiration of a stated period after its exercise, whether or not on or before the date of the decedent's death notice has been given or the power has been exercised.
+&emsp;To the extent of any property with respect to which the decedent has at the time of his death a general power of appointment created after October 21, 1942, or with respect to which the decedent has at any time exercised or released such a power of appointment by a disposition which is of such nature that if it were a transfer of property owned by the decedent, such property would be includible in the decedent's gross estate under sections 2035 to 2038, inclusive. For purposes of this paragraph (2), the power of appointment shall be considered to exist on the date of the decedent's death even though the exercise of the power is subject to a precedent giving of notice or even though the exercise of the power takes effectonly on the expiration of a stated period after its exercise, whether or not on or before the date of the decedent's death notice has been given or the power has been exercised.
 
 #### (3) Creation of another power in certain cases
 
@@ -42,7 +42,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(A) A power to consume, invade, or appropriate property for the benefit of the decedent which is limited by an ascertainable standard relating to the health, education, support, or maintenance of the decedent shall not be deemed a general power of appointment.
 
-&emsp;&emsp;(B) A power of appointment created on or before October 21, 1942, which is exercisableby the decedent only in conjunction with another person shall not be deemed a general power of appointment.
+&emsp;&emsp;(B) A power of appointment created on or before October 21, 1942, which is exercisable by the decedent only in conjunction with another person shall not be deemed a general power of appointment.
 
 &emsp;&emsp;(C) In the case of a power of appointment created after October 21, 1942, which is exercisable by the decedent only in conjunction with another person—
 

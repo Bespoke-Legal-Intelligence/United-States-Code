@@ -28,7 +28,7 @@ The Oversight Board may at any time submit recommendations to the Governor or th
 
 #### (1) In general
 
-&emsp;In the case of any recommendations submitted under subsection (a) that are within the authority of the territorial government to adopt, not later than 90 days after receiving the recommendations, the Governor or the Legislature (whichever has the authority to adopt the recommendation) shall submit a statement to the Oversight Board that provides notice as to whether the territorial government will adopt the recommendations.
+&emsp;In the case of any recommendations submitted under subsection (a) that are within the authority of the territorial government to adopt, not later than 90 days after receiving the recommendations, the Governor or the Legislature (whichever has the authority to adopt the recommendation) shall submit astatement to the Oversight Board that provides notice as to whether the territorial government will adopt the recommendations.
 
 #### (2) Implementation plan required for adopted recommendations
 

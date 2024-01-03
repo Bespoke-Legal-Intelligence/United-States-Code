@@ -24,7 +24,7 @@ Requirements of specifications.—Each solicitation under chapter 137 legacy pro
 
 &emsp;(3)
 
-Types of specifications.—For the purposes of paragraphs (1) and (2), the type of specification included in a solicitation shall depend on the nature of the needs of the agency and the market available to satisfy such needs. Subject to such needs, specifications may be stated in terms of—
+Types of specifications.—For the purposes of paragraphs (1) and (2), the type of specification included in a solicitation shall depend on the nature of the needs of the agency and the market available to satisfy suchneeds. Subject to such needs, specifications may be stated in terms of—
 
 &emsp;&emsp;(A) function, so that a variety of products or services may qualify;
 
@@ -114,7 +114,7 @@ Additional Information in Solicitation.—Nothing in this section prohibits an a
 
 (e)
 
-Limitation on Evaluation of Purchase Options.—The head of an agency, in issuing a solicitation for a contract to be awarded using sealed bid procedures, may not include in such solicitation a clause providing for the evaluation of prices for options to purchase additional property or services under the contract unless the head of the agency has determined that there is a reasonable likelihood that the options will be exercised.
+Limitation on Evaluation of Purchase Options.—The head of an agency, in issuing a solicitation for a contract to be awarded using sealed bid procedures, may not include in such solicitation a clause providing for the evaluation of prices for options to purchase additional property or services under the contract unlessthe head of the agency has determined that there is a reasonable likelihood that the options will be exercised.
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1811(e), Jan. 1, 2021, 134 Stat. 4170; Pub. L. 117–81, div. A, title XVII, §1701(b)(4)(F), (d)(4), Dec. 27, 2021, 135 Stat. 2133, 2136.)
 

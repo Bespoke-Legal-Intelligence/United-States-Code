@@ -1,6 +1,6 @@
 ### §3703. Regulations
 
-(a) The Secretary shall prescribe regulations for the design, construction, alteration, repair, maintenance, operation, equipping, personnel qualification, and manning of vessels to which this chapter applies, that may be necessary for increased protection against hazards to life and property, for navigation and vessel safety, and for enhanced protection of the marine environment. The Secretary may prescribe different regulations applicable to vessels engaged in the domestic trade, and also may prescribe regulations that exceed standards set internationally. Regulations prescribed by the Secretary under this subsection are in addition to regulations prescribed under other laws that may apply to any of those vessels. Regulations prescribed under this subsection shall include requirements about—
+(a) The Secretary shall prescribe regulations for the design, construction, alteration, repair, maintenance, operation, equipping, personnel qualification, and manning of vessels to which this chapter applies, that may be necessary for increased protection against hazards to life and property, for navigation and vessel safety, and for enhanced protection of the marine environment. The Secretary may prescribe different regulations applicable to vessels engaged in the domestic trade, and also may prescribe regulations that exceed standards set internationally. Regulations prescribed by the Secretary under this subsection are in addition to regulationsprescribed under other laws that may apply to any of those vessels. Regulations prescribed under this subsection shall include requirements about—
 
 &emsp;(1) superstructures, hulls, cargo holds or tanks, fittings, equipment, appliances, propulsion machinery, auxiliary machinery, and boilers;
 
@@ -80,7 +80,7 @@ Interim period.—After the effective date of this Act \[Oct. 15, 2010\], prior 
 
 &emsp;"(B) authorize a master, mate, or engineer who possesses an ocean or near coastal license and endorsement under part 11 of subchapter B of title 46, Code of Federal Regulations, (or any successor regulation) that qualifies the licensed officer for service on offshore supply vessels of at least 3,000 gross tons but less than 6,000 gross tons, as measured under section 14302 of title 46, United States Code, to operate offshore supply vessels of at least 6,000 gross tons, as measured under such section; and
 
-&emsp;"(C) authorize any such master, mate, or engineer who also possesses an ocean or near coastal license and endorsement under such part that qualifies the licensed officer for service on non trade-restricted vessels of at least 1,600 gross tons but less than 3,000 gross tons, as measured under such section, to increase the tonnage limitation of such license and endorsement under section 11.402(c) of such part, using service on vessels certificated under both subchapters I and L of such title and measured only under such section, except that such tonnage limitation shall not exceed 10,000 gross tons as measured under such section."
+&emsp;"(C) authorize any such master, mate, or engineer who also possesses an ocean or near coastal licenseand endorsement under such part that qualifies the licensed officer for service on non trade-restricted vessels of at least 1,600 gross tons but less than 3,000 gross tons, as measured under such section, to increase the tonnage limitation of such license and endorsement under section 11.402(c) of such part, using service on vessels certificated under both subchapters I and L of such title and measured only under such section, except that such tonnage limitation shall not exceed 10,000 gross tons as measured under such section."
 
 #### Oil Transfers From Vessels
 
@@ -190,7 +190,7 @@ Definition.—In this subsection, the term 'group-5 fuel oil' means a petroleum-
 
 &emsp;"(2)
 
-Coordination of study.—The Secretary of Transportation shall coordinate with the Marine Board of the National Research Council to conduct a study of the relative environmental and public health risks posed by discharges of group-5 fuel oil.
+Coordination of study.—The Secretary of Transportation shall coordinate with the Marine Board of the National Research Council to conduct astudy of the relative environmental and public health risks posed by discharges of group-5 fuel oil.
 
 &emsp;"(3)
 
@@ -264,7 +264,7 @@ Pub. L. 103–206, title III, §310, Dec. 20, 1993, 107 Stat. 2425, provided tha
 
 #### Regulations Requiring Periodic Gauging of Plating Thickness for Oil Carrying Commercial Vessels
 
-Pub. L. 101–380, title IV, §4109, Aug. 18, 1990, 104 Stat. 515, provided that: "Not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1990\], the Secretary shall issue regulations for vessels constructed or adapted to carry, or that carry, oil in bulk as cargo or cargo residue—
+Pub. L. 101–380, title IV, §4109, Aug. 18, 1990, 104 Stat. 515, provided that: "Not later than 1 year after the dateof the enactment of this Act \[Aug. 18, 1990\], the Secretary shall issue regulations for vessels constructed or adapted to carry, or that carry, oil in bulk as cargo or cargo residue—
 
 &emsp;"(1) establishing minimum standards for plating thickness; and
 

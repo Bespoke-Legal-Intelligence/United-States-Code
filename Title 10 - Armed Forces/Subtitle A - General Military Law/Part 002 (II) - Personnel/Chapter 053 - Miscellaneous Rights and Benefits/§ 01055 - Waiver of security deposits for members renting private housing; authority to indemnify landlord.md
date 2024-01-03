@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense may carry out a program under which the Secretary of a military department agrees to indemnify a landlord who leases a rental unit to a member of the armed forces against a breach of the lease by the member or for damage to the rental unit caused by the member. In exchange for agreement for such indemnification by the Secretary, the landlord shall be required to waive any requirement for payment by the member of a security deposit that the landlord would otherwise require.
 
-(b)(1) For purposes of carrying out a program authorized by subsection (a), the Secretary of a military department, to the extent funds are provided in advance in appropriation Acts, may enter into an agreement with any landlord who agrees to waive the requirement for a security deposit in connection with the lease of a rental unit to a member of the armed forces under the jurisdiction of the Secretary. An agreement under this paragraph shall provide that—
+(b)(1) For purposes of carrying out a program authorized by subsection (a), the Secretary of a military department, to the extent funds are provided in advance in appropriation Acts, may enter into an agreement with any landlord who agrees to waive the requirement for a security deposit in connection with the lease of a rental unit to a member of the armed forces under thejurisdiction of the Secretary. An agreement under this paragraph shall provide that—
 
 &emsp;(A) the term of the agreement shall remain in effect during the term of the member's lease and during any lease renewal periods with the lessor;
 

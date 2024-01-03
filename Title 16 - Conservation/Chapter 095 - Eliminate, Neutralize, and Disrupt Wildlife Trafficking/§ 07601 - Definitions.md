@@ -52,7 +52,7 @@ In this chapter:
 
 #### (10) Security force
 
-&emsp;The term "security force" means a military, law enforcement, gendarmerie, park ranger, orany other security force with a responsibility for protecting wildlife and natural habitats.
+&emsp;The term "security force" means a military, law enforcement, gendarmerie, park ranger, or any other security force with a responsibility for protecting wildlife and natural habitats.
 
 #### (11) Task Force
 

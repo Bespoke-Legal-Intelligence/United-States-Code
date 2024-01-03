@@ -136,6 +136,7 @@
 | 276c–4. | Employment of United States citizens by certain international organizations. |
 | 276c–5. | Authorization for United States participation in the Coalition for Epidemic Preparedness Innovations. |
 | 276c–6. | Supporting the employment of United States citizens by international organizations. |
+| 276c–7. | Internships of United States nationals at international organizations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -892,7 +893,7 @@ Membership.—The Cyprus, Greece, Israel, and the United States 3+1 Interparliam
 
 "(c)
 
-Meetings.—Not less frequently than once each year, the United States group shall meet with membersof the 3+1 group to discuss issues on the agenda of the 3+1 deliberations of the Governments of Greece, Israel, Cyprus, and the United States to include maritime security, defense cooperation, energy initiatives, and countering malign influence efforts by the People's Republic of China and the Russian Federation.
+Meetings.—Not less frequently than once each year, the United States group shall meet with members of the 3+1 group to discuss issues on the agenda of the 3+1 deliberations of the Governments of Greece, Israel, Cyprus, and the United States to include maritime security, defense cooperation, energy initiatives, and countering malign influence efforts by the People's Republic of China and the Russian Federation.
 
 "(d)
 
@@ -954,7 +955,7 @@ United States Policy at the International Financial Institutions.—The Secretar
 
 "(b)
 
-Report Required.—The Chairman of the National Advisory Council on International Monetary and Financial Policies shall include in the annual report required by section 1701 of the International Financial Institutions Act \[22 U.S.C. 262r\]—
+Report Required.—The Chairman of the National Advisory Council on International Monetary andFinancial Policies shall include in the annual report required by section 1701 of the International Financial Institutions Act \[22 U.S.C. 262r\]—
 
 &emsp;"(1) a description of progress made toward advancing the policy described in subsection (a) of this section; and
 
@@ -1167,6 +1168,7 @@ Ensuring Debt Transparency With Respect to the Belt and Road Initiative.—Withi
 - [&sect; 00276c&#8211;4 - Employment of United States citizens by certain international organizations](%C2%A7%2000276c%E2%80%934%20-%20Employment%20of%20United%20States%20citizens%20by%20certain%20international%20organizations.md)
 - [&sect; 00276c&#8211;5 - Authorization for United States participation in the Coalition for Epidemic Preparedness Innovations](%C2%A7%2000276c%E2%80%935%20-%20Authorization%20for%20United%20States%20participation%20in%20the%20Coalition%20for%20Epidemic%20Preparedness%20Innovations.md)
 - [&sect; 00276c&#8211;6 - Supporting the employment of United States citizens by international organizations](%C2%A7%2000276c%E2%80%936%20-%20Supporting%20the%20employment%20of%20United%20States%20citizens%20by%20international%20organizations.md)
+- [&sect; 00276c&#8211;7 - Internships of United States nationals at international organizations](%C2%A7%2000276c%E2%80%937%20-%20Internships%20of%20United%20States%20nationals%20at%20international%20organizations.md)
 - [Subchapter 001 (I) - Canada-United States Interparliamentary Group](Subchapter%20001%20%28I%29%20-%20Canada-United%20States%20Interparliamentary%20Group/README.md)
 - [Subchapter 002 (II) - Mexico-United States Interparliamentary Group](Subchapter%20002%20%28II%29%20-%20Mexico-United%20States%20Interparliamentary%20Group/README.md)
 - [Subchapter 002&#8211;A (II&#8211;A) - British-American Interparliamentary Group](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20British-American%20Interparliamentary%20Group/README.md)

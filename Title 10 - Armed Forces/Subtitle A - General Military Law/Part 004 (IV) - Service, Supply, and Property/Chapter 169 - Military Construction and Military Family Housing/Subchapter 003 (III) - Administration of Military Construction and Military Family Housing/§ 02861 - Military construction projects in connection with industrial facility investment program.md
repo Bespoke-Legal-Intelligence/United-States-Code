@@ -6,23 +6,13 @@ Authority.—The Secretary of Defense may carry out a military construction proj
 
 (b)
 
-Crediting of Funds to Capital Budget.—Funds appropriated or otherwise made available in a fiscal year for the purpose of carrying out a military construction project with respect to a covered depot (as defined in subsection (e) of section 2476 of this title) may be credited to the amount required by subsection (a) of such section to be invested in the capital budgets of the covered depots in that fiscal year.
+Crediting of Funds to Capital Budget.—Funds appropriated or otherwise made available in a fiscal year for the purpose of carrying out a military construction project with respect to a covered depot (as defined in subsection (f) of section 2476 of this title) may be credited to the amount required by subsection (a)(1) of such section to be invested in the capital budgets of the covered depots in that fiscal year.
 
 (c)
 
 Notice and Wait Requirement.—When a decision is made to carry out a project under subsection (a), the Secretary of Defense shall notify the appropriate committees of Congress of that decision and the savings estimated to be realized from the project. The project may then be carried out only after the end of the 14-day period beginning on the date the notification is received by such committees in an electronic medium pursuant to section 480 of this title.
 
 (Added Pub. L. 109–364, div. B, title XXVIII, §2809(a), Oct. 17, 2006, 120 Stat. 2470; amended Pub. L. 115–91, div. A, title X, §1051(a)(23), div. B, title XXVIII, §2801(c)(4), Dec. 12, 2017, 131 Stat. 1562, 1844; Pub. L. 117–263, div. A, title III, §374(b)(2), Dec. 23, 2022, 136 Stat. 2542.)
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 117–263, div. A, title III, §374(b)(2), (c), Dec. 23, 2022, 136 Stat. 2542, provided that, applicable with respect to fiscal years beginning on or after Oct. 1, 2023, subsection (b) of this section is amended—</i>
-
-<i>(1) by striking "subsection (e) of section 2476" and inserting "subsection (f) of section 2476"; and</i>
-
-<i>(2) by striking "subsection (a) of such section" and inserting "subsection (a)(1) of such section".</i>
-
-<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -32,7 +22,7 @@ A prior section 2861, added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 16
 
 #### Amendments
 
-<b>2022</b>—Subsec. (b). Pub. L. 117–263 substituted "subsection (f) of section 2476" for "subsection (e) of section 2476" and "subsection (a)(1) of such section" for "subsection (a) of such section".
+<b>2022</b>—Subsec. (b). Pub. L. 117–263 substituted "subsection (f) of section 2476" for "subsection (e) of section2476" and "subsection (a)(1) of such section" for "subsection (a) of such section".
 
 <b>2017</b>—Subsec. (c). Pub. L. 115–91, §2801(c)(4), struck out "in writing" after "shall notify" and "or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided" after "received by such committees" and substituted "14-day period" for "21-day period".
 

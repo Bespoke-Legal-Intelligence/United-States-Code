@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "structured settlement factoring transaction" means a transfer of structured settlement payment rights (including portions of structured settlement payments)made for consideration by means of sale, assignment, pledge, or other form of encumbrance or alienation for consideration.
+&emsp;&emsp;The term "structured settlement factoring transaction" means a transfer of structured settlement payment rights (including portions of structured settlement payments) made for consideration by means of sale, assignment, pledge, or other form of encumbrance or alienation for consideration.
 
 #### (B) Exception
 

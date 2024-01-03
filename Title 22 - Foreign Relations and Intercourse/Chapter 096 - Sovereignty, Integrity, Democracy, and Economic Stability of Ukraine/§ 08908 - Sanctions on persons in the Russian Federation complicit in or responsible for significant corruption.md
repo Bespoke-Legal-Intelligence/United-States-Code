@@ -34,7 +34,7 @@ The President shall impose the sanctions described in subsection (b) with respec
 
 #### (B) Good defined
 
-&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 4618 <sup>1</sup> oftitle 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 4618 <sup>1</sup> of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
 #### (4) Exception to comply with United Nations headquarters agreement
 
@@ -50,7 +50,7 @@ except <sup>2</sup> as provided in subsection (d), the President may waive the 
 
 #### (d) Termination
 
-Subject to section 9511 of this title, the President may terminate the application of sanctions under subsection (b) with respect to a person if the President submits to the appropriate congressional committees a notice that—
+Subject to section 9511 of this title, the President may terminate the application of sanctionsunder subsection (b) with respect to a person if the President submits to the appropriate congressional committees a notice that—
 
 &emsp;(1) the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
 

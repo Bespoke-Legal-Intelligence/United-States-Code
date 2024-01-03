@@ -56,7 +56,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) referrals to providers of medical services (including specialty referral when medically indicated) and other health-related services (including substance use disorder and mental health services);
 
-&emsp;&emsp;&emsp;(iii) patient case management services (including counseling, referral, and follow-up services) and other services designed toassist health center patients in establishing eligibility for and gaining access to Federal, State, and local programs that provide or financially support the provision of medical, social, housing, educational, or other related services;
+&emsp;&emsp;&emsp;(iii) patient case management services (including counseling, referral, and follow-up services) and other services designed to assist health center patients in establishing eligibility for and gaining access to Federal, State, and local programs that provide or financially support the provision of medical, social, housing, educational, or other related services;
 
 &emsp;&emsp;&emsp;(iv) services that enable individuals to use the services of the health center (including outreach and transportation services and, if a substantial number of the individuals in the population served by a center are of limited English-speaking ability, the services of appropriate personnel fluent in the language spoken by a predominant number of such individuals); and
 
@@ -280,6 +280,10 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;If in carrying out clause (i) the applicant proposes to serve an area that is currently served by another health center funded under this section, the Secretary may consider whether the award of funding to an additional health center in the area can be justified based on the unmet need for additional services within the catchment area.
 
+#### (v) Mobile units
+
+&emsp;&emsp;&emsp;An existing health center may be awarded funds under clause (i) to establish a new delivery site that is a mobile unit, regardless of whether the applicant additionally proposes to establish a permanent, full-time site. In the case of a health center that is not currently receiving funds under this section, such health center may be awarded funds under clause (i) to establish a new delivery site that is a mobile unit only if such health center uses a portion of such funds to also establish a permanent, full-time site.
+
 #### (B) Approval of expanded service applications
 
 #### (i) In general
@@ -370,7 +374,7 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;The Secretary may award grants for the purposes described in subsections (c), (e), and (f) for the planning and delivery of services to a special medically underserved population comprised of homeless individuals, including grants for innovative programs that provide outreach and comprehensive primary health services to homeless children and youth, children and youth at risk of homelessness, homeless veterans, and veterans at risk of homelessness.
+&emsp;The Secretary may award grants for the purposes described in subsections (c), (e), and (f) for the planning and delivery of services to aspecial medically underserved population comprised of homeless individuals, including grants for innovative programs that provide outreach and comprehensive primary health services to homeless children and youth, children and youth at risk of homelessness, homeless veterans, and veterans at risk of homelessness.
 
 #### (2) Required services
 
@@ -502,13 +506,13 @@ For purposes of this section:
 
 &emsp;&emsp;(G) the center—
 
-&emsp;&emsp;&emsp;(i) has prepared a schedule of fees or payments for the provision of its services consistent with locally prevailing rates or charges and designed to cover its reasonable costs of operation and has prepared a corresponding schedule of discounts to be applied to the payment of such fees or payments, which discounts are adjusted on the basis of the patient's ability to pay;
+&emsp;&emsp;&emsp;(i) has prepared a schedule of fees or payments for the provision of its services consistent with locally prevailing rates or charges and designed to cover its reasonable costs of operation and has prepared acorresponding schedule of discounts to be applied to the payment of such fees or payments, which discounts are adjusted on the basis of the patient's ability to pay;
 
 &emsp;&emsp;&emsp;(ii) has made and will continue to make every reasonable effort—
 
 &emsp;&emsp;&emsp;&emsp;(I) to secure from patients payment for services in accordance with such schedules; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to collect reimbursement for health services to persons described in subparagraph (F) on the basis of the full amount of fees and payments for suchservices without application of any discount;
+&emsp;&emsp;&emsp;&emsp;(II) to collect reimbursement for health services to persons described in subparagraph (F) on the basis of the full amount of fees and payments for such services without application of any discount;
 
 &emsp;&emsp;&emsp;(iii)(I) will assure that no patient will be denied health care services due to an individual's inability to pay for such services; and
 
@@ -696,23 +700,13 @@ In making grants under this section, the Secretary shall give special considerat
 
 #### (5) Funding for participation of health centers in All of Us Research Program
 
-&emsp;In addition to any amounts made available pursuant to paragraph (1) of this subsection, section 282a of this title, or section 254b–2 of this title, there is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, to the Secretary $25,000,000 for fiscal year 2018 to support the participation of health centers in the All of Us Research Program under the Precision Medicine Initiative under section 289g–5 of this title.
+&emsp;In addition to any amounts made available pursuant to paragraph (1) of this subsection,section 282a of this title, or section 254b–2 of this title, there is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, to the Secretary $25,000,000 for fiscal year 2018 to support the participation of health centers in the All of Us Research Program under the Precision Medicine Initiative under section 289g–5 of this title.
 
 #### (6) Additional amounts for supplemental awards
 
 &emsp;In addition to any amounts made available pursuant to this subsection, section 282a of this title, or section 254b—2 of this title, there is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,320,000,000 for fiscal year 2020 for supplemental awards under subsection (d) for the detection of SARS–CoV–2 or the prevention, diagnosis, and treatment of COVID–19.
 
 (July 1, 1944, ch. 373, title III, §330, as added Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626; amended Pub. L. 107–251, title I, §101, Oct. 26, 2002, 116 Stat. 1622; Pub. L. 108–163, §2(a), Dec. 6, 2003, 117 Stat. 2020; Pub. L. 110–355, §2(a), (c)(1), Oct. 8, 2008, 122 Stat. 3988, 3992; Pub. L. 111–148, title IV, §4206, title V, §5601, Mar. 23, 2010, 124 Stat. 576, 676; Pub. L. 115–123, div. E, title IX, §50901(b), Feb. 9, 2018, 132 Stat. 283; Pub. L. 116–136, div. A, title III, §3211(a), Mar. 27, 2020, 134 Stat. 368; Pub. L. 116–260, div. BB, title III, §311(c), Dec. 27, 2020, 134 Stat. 2925; Pub. L. 117–204, §2(a), Oct. 17, 2022, 136 Stat. 2231.)
-
-#### Amendment of Subsection (e)(6)(A)
-
-<i>Pub. L. 117–204, §2, Oct. 17, 2022, 136 Stat. 2231, provided that, effective on Jan. 1, 2024, subsection (e)(6)(A) of this section is amended by adding at the end the following:</i>
-
-#### <i>(v) Mobile units</i>
-
-&emsp;&emsp;&emsp;<i>An existing health center may be awarded funds under clause (i) to establish a new delivery site that is a mobile unit, regardless of whether the applicant additionally proposes to establish a permanent, full-time site. In the case of a health center that is not currently receiving funds under this section, such health center may be awarded funds under clause (i) to establish a new delivery site that is a mobile unit only if such health center uses a portion of such funds to also establish a permanent, full-time site.</i>
-
-<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -752,7 +746,7 @@ Subsec. (e)(1)(B). Pub. L. 115–123, §50901(b)(5)(A), substituted "1 year" for
 
 Subsec. (e)(1)(C). Pub. L. 115–123, §50901(b)(5)(B), in heading, struck out "and plans" after "networks", and in text, struck out "or plan (as described in subparagraphs (B) and (C) of subsection (c)(1))" after "to a network", substituted "including—" for "or plan, including", inserted cl. (i) designation before "the purchase" and ", which may include data and information systems" after "of equipment", and added cls. (ii) and (iii).
 
-Subsec. (e)(5)(B). Pub. L. 115–123, §50901(b)(6), in heading, struck out "and plans" after "Networks" and intext, substituted "to a health center or to a network" for "and subparagraphs (B) and (C) of subsection (c)(1) to a health center or to a network or plan".
+Subsec. (e)(5)(B). Pub. L. 115–123, §50901(b)(6), in heading, struck out "and plans" after "Networks" and in text, substituted "to a health center or to a network" for "and subparagraphs (B) and (C) of subsection (c)(1) to a health center or to a network or plan".
 
 Subsec. (e)(6). Pub. L. 115–123, §50901(b)(7), added par. (6).
 
@@ -926,7 +920,7 @@ Subsec. (l). Pub. L. 107–251, §101(8)(A), redesignated subsec. (l) as (s).
 
 Subsec. (m). Pub. L. 107–251, §101(9), which directed striking subsec. (m) (as redesignated by paragraph (9)(B)) and adding a new subsec. (m), could not be executed. The new subsec. (m) to be added read as follows: "(m)
 
-Technical Assistance.—The Secretary shall establish a program through which the Secretary shall provide technical and other assistance to eligible entities to assist such entities to meet the requirements ofsubsection (l)(3). Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities."
+Technical Assistance.—The Secretary shall establish a program through which the Secretary shall provide technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (l)(3). Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities."
 
 Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (o), and (p) through (s), respectively, could not be executed.
 

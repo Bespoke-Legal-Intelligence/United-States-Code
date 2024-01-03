@@ -112,7 +112,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (ii) Authority not to charge interest
 
-&emsp;&emsp;&emsp;The Secretary may provide that a PDP sponsor is not charged interest underclause (i) in the case where there are exigent circumstances, including natural disasters and other unique and unexpected events, that prevent the timely processing of claims.
+&emsp;&emsp;&emsp;The Secretary may provide that a PDP sponsor is not charged interest under clause (i) in the case where there are exigent circumstances, including natural disasters and other unique and unexpected events, that prevent the timely processing of claims.
 
 #### (D) Procedures involving claims
 
@@ -176,7 +176,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (A) In general
 
-&emsp;&emsp;Section 1395y(o)(1) of this title shall apply with respect to a PDP sponsor with a contract under this part, a pharmacy, and payments to such pharmacy under this part in the same manner as such section applies with respect to the Secretary, a provider of services or supplier, and payments to such provider of services or supplier under this subchapter. A PDP sponsor shall notify the Secretary regarding the imposition of any payment suspension pursuant to the previous sentence, such as through the secure internet website portal (or other successortechnology) established under section 1395w–28(i) of this title.
+&emsp;&emsp;Section 1395y(o)(1) of this title shall apply with respect to a PDP sponsor with a contract under this part, a pharmacy, and payments to such pharmacy under this part in the same manner as such section applies with respect to the Secretary, a provider of services or supplier, and payments to such provider of services or supplier under this subchapter. A PDP sponsor shall notify the Secretary regarding the imposition of any payment suspension pursuant to the previous sentence, such as through the secure internet website portal (or other successor technology) established under section 1395w–28(i) of this title.
 
 #### (B) Rule of construction
 
@@ -254,7 +254,7 @@ The fact that a PDP sponsor is licensed in accordance with subsection (a)(1) or 
 
 #### (g) Prohibition of State imposition of premium taxes; relation to State laws
 
-The provisions of sections 1395w–24(g) and 1395w–26(b)(3) of this title shall apply with respect to PDP sponsors and prescription drugplans under this part in the same manner as such sections apply to MA organizations and MA plans under part C.
+The provisions of sections 1395w–24(g) and 1395w–26(b)(3) of this title shall apply with respect to PDP sponsors and prescription drug plans under this part in the same manner as such sections apply to MA organizations and MA plans under part C.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–12, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2099; amended Pub. L. 110–275, title I, §§171(a), 172(a)(1), 173(a), 181, July 15, 2008, 122 Stat. 2578, 2580–2582; Pub. L. 115–271, title II, §2008(a), Oct. 24, 2018, 132 Stat. 3931; Pub. L. 117–169, title I, §11001(b)(1)(F)(i), (H)(i), Aug. 16, 2022, 136 Stat. 1852, 1853.)
 

@@ -24,7 +24,7 @@
 
 &emsp;In this subsection, an "exempt individual" is an officer or employee of the United States Capitol Police—
 
-&emsp;&emsp;(A) who is classified under regulations issued pursuant to section 1313 of this title as exempt from the application of the rights and protections established by subsections (a)(1) and (d) of section 206, section 207, and section 212(c) of title 29; or
+&emsp;&emsp;(A) who is classified under regulations issued pursuant to section 1313 of this titleas exempt from the application of the rights and protections established by subsections (a)(1) and (d) of section 206, section 207, and section 212(c) of title 29; or
 
 &emsp;&emsp;(B) whose annual rate of pay is not established specifically under any law.
 

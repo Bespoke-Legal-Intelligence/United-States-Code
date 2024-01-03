@@ -22,7 +22,7 @@ The Director of the Office of Science and Technology Policy, acting through the 
 
 #### (1) In general
 
-&emsp;Not later than 90 days after August 9, 2022, the Director of the Office of Science and Technology Policy, in coordination with the Director of the National Science Foundation, the Director of the National Institutes of Health, the Secretary of Energy, and the Secretary of Defense, and in consultation with the heads of relevant Federal research agencies, shall enter into an agreement or contract with a qualifiedentity for the development of online research security training modules for the research community and participants in the United States research and development enterprise to ensure compliance with National Security Presidential Memorandum–33 or successor documents, including modules—
+&emsp;Not later than 90 days after August 9, 2022, the Director of the Office of Science and Technology Policy, in coordination with the Director of the National Science Foundation, the Director of the National Institutes of Health, the Secretary of Energy, and the Secretary of Defense, and in consultation with the heads of relevant Federal research agencies, shall enter into an agreement or contract with a qualified entity for the development of online research security training modules for the research community and participants in the United States research and development enterprise to ensure compliance with National Security Presidential Memorandum–33 or successor documents, including modules—
 
 &emsp;&emsp;(A) focused on cybersecurity, international collaboration and international travel, foreign interference, and rules for proper use of funds, disclosure, conflict of commitment, and conflict of interest; and
 

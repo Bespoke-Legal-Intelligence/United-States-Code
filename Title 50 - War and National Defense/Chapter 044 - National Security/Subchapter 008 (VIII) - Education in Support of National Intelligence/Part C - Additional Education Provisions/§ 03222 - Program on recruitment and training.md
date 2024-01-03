@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;The Director of National Intelligence, in consultation with the heads of the elements of the intelligence community, shall carry out a program to ensure that selected individuals are provided funds for academic training (including with respect to both undergraduate and postgraduate education), or to reimburse for academic training previously obtained—
+&emsp;The Director of National Intelligence, in consultation with the heads of the elements ofthe intelligence community, shall carry out a program to ensure that selected individuals are provided funds for academic training (including with respect to both undergraduate and postgraduate education), or to reimburse for academic training previously obtained—
 
 &emsp;&emsp;(A) in capabilities, missions, or skillsets, especially in the fields of science, technology, math, and engineering, to address workforce requirements in which the intelligence community is deficient or likely to be deficient in the future; or
 

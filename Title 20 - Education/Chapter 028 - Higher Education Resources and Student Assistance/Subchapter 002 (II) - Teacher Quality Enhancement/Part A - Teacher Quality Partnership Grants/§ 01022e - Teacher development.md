@@ -12,7 +12,7 @@ Each institution described in subsection (a) shall provide assurances to the Sec
 
 &emsp;(2) training provided to prospective teachers is closely linked with the needs of schools and the instructional decisions new teachers face in the classroom;
 
-&emsp;(3) prospective special education teachers receive course work in core academic subjects and receive training in providing instruction in core academic subjects;
+&emsp;(3) prospective special education teachers receive course work in core academic subjectsand receive training in providing instruction in core academic subjects;
 
 &emsp;(4) general education teachers receive training in providing instruction to diverse populations, including children with disabilities, limited English proficient students, and children from low-income families; and
 

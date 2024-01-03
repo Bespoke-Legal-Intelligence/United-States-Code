@@ -18,7 +18,7 @@
 
 #### (C) Effect of failure to provide notice
 
-&emsp;&emsp;The failure of the Secretary of Homeland Security to provide a notice under this paragraph shall not affect the enforcement of the provisions of this section with respect to such an investor, spouse, or child.
+&emsp;&emsp;The failure of the Secretary of Homeland Security to provide a notice under this paragraph shall not affect the enforcement of theprovisions of this section with respect to such an investor, spouse, or child.
 
 #### (b) Termination of status if finding that qualifying investment improper
 
@@ -44,7 +44,7 @@
 
 &emsp;Except as provided in paragraph (3)(D), in order for the conditional basis established under subsection (a) for an alien investor, alien spouse, or alien child to be removed—
 
-&emsp;&emsp;(A) the alien investor shall submit to the Secretary of Homeland Security, during theperiod described in subsection (d)(2), a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1);
+&emsp;&emsp;(A) the alien investor shall submit to the Secretary of Homeland Security, during the period described in subsection (d)(2), a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1);
 
 &emsp;&emsp;(B) in accordance with subsection (d)(3), the alien investor shall appear for a personal interview before an officer or employee of the Department of Homeland Security respecting the facts and information described in subsection (d)(1); and <sup>1</sup>
 
@@ -166,11 +166,11 @@ In this section:
 
 &emsp;(3) The term "commercial enterprise" includes any entity formed for the purpose of doing for-profit business.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §216A, as added Pub. L. 101–649, title I, §121(b)(1), Nov. 29, 1990, 104 Stat. 4990; amended Pub. L. 102–232, title III, §302(b)(3), Dec. 12, 1991, 105 Stat. 1743; Pub. L. 104–208, div. C, title III, §308(e)(8), Sept. 30, 1996, 110 Stat. 3009–620; Pub. L. 107–273, div. C, title I, §11036(b), Nov. 2, 2002, 116 Stat. 1847; Pub. L. 117–103, div. BB, §104(a), Mar. 15, 2022, 136 Stat. 1100.)
+(June 27, 1952, ch. 477, title II, ch. 2, §216A, as added Pub. L. 101–649, title I, §121(b)(1), Nov. 29,1990, 104 Stat. 4990; amended Pub. L. 102–232, title III, §302(b)(3), Dec. 12, 1991, 105 Stat. 1743; Pub. L. 104–208, div. C, title III, §308(e)(8), Sept. 30, 1996, 110 Stat. 3009–620; Pub. L. 107–273, div. C, title I, §11036(b), Nov. 2, 2002, 116 Stat. 1847; Pub. L. 117–103, div. BB, §104(a), Mar. 15, 2022, 136 Stat. 1100.)
 
 #### Enactment of Subsection (c)(1)(C)
 
-<i>Pub. L. 117–103, div. BB, §104(a)(5)(B)(iv), (b), provided that, effective 2 years after March 15, 2022, subsection (c)(1) of this section is amended by adding at the end the following:</i>
+<i>Pub. L. 117–103, div. BB, §104(a)(5)(B)(iv), (b), Mar. 15, 2022, 136 Stat. 1101, 1102, provided that, effective 2 years after March 15, 2022, subsection (c)(1) of this section is amended by adding at the end the following:</i>
 
 &emsp;&emsp;<i>"(C) the Secretary shall have performed a site visit to the relevant corporate office or business location described in section 1153(b)(5)(F)(iv) of this title."</i>
 
@@ -386,7 +386,7 @@ Requirements relating to adverse determinations.—
 
 &emsp;&emsp;&emsp;"(i)
 
-Notice.—If the Attorney General renders an adverse determination with respect to clause (i), (ii), or (iii) of subparagraph (A), the Attorney General shall so notify the alien involved. The notice shall be in writing and shall state the factual basis for any adverse determination. The Attorney General shall provide the alien with an opportunity to submit evidence to rebut any adverse determination. If the Attorney General reverses all adverse determinations pursuant to such rebuttal, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act\(8 U.S.C. 1186b)) effective as of the second anniversary of the alien's lawful admission for permanent residence.
+Notice.—If the Attorney General renders an adverse determination with respect to clause (i), (ii), or (iii) of subparagraph (A), the Attorney General shall so notify the alien involved. The notice shall be in writing and shall state the factual basis for any adverse determination. The Attorney General shall provide the alien with an opportunity to submit evidence to rebut any adverse determination. If the Attorney General reverses all adverse determinations pursuant to such rebuttal, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) effective as of the second anniversary of the alien's lawful admission for permanent residence.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -534,7 +534,7 @@ Removal of Conditional Basis.—
 
 &emsp;"(1)
 
-Petition.—In order for a conditional basis established under this section for an alien (and the alien's spouse and children) to be removed, the alien must satisfy the requirements of section 216A(c)(1) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)), including the submission of a petition in accordance with subparagraph (A) of such section. Such petition may include the facts and information described in subparagraphs (A) and (B) of section 216A(d)(1) of the Immigration and Nationality Act (8 U.S.C. 1186b(d)(1)) with respect to any commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation) inthe United States in which the alien has made a capital investment at any time.
+Petition.—In order for a conditional basis established under this section for an alien (and the alien's spouse and children) to be removed, the alien must satisfy the requirements of section 216A(c)(1) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)), including the submission of a petition in accordance with subparagraph (A) of such section. Such petition may include the facts and information described in subparagraphs (A) and (B) of section 216A(d)(1) of the Immigration and Nationality Act (8 U.S.C. 1186b(d)(1)) with respect to any commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation) in the United States in which the alien has made a capital investment at any time.
 
 &emsp;"(2)
 

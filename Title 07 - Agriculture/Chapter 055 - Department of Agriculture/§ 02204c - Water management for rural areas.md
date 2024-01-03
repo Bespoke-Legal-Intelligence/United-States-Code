@@ -28,7 +28,7 @@ In implementing this section, the Secretary—
 
 &emsp;&emsp;(A) cooperatives, public or private organizations, confederations, authorities, or other entities (including such entities that may be organized under multiple State agreements or compacts and entities created under State law) to carry out projects authorized under this section; and
 
-&emsp;&emsp;(B) water, watershed, and sewer authorities, rural electric cooperatives, Federalagencies, and other State or local governments or agencies.
+&emsp;&emsp;(B) water, watershed, and sewer authorities, rural electric cooperatives, Federal agencies, and other State or local governments or agencies.
 
 #### (d) Regulations
 

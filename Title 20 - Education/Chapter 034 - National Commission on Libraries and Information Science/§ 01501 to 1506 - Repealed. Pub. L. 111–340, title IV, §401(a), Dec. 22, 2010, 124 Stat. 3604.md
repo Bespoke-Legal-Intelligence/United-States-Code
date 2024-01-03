@@ -16,7 +16,7 @@ Section 1506, Pub. L. 91–345, §7, July 20, 1970, 84 Stat. 442; Pub. L. 102–
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–95, §1, Aug. 14, 1991, 105 Stat. 479, provided that: "This Act \[amending sections 1502 to 1506 of thistitle\] may be cited as the 'National Commission on Libraries and Information Science Act Amendments of 1991'."
+Pub. L. 102–95, §1, Aug. 14, 1991, 105 Stat. 479, provided that: "This Act \[amending sections 1502 to 1506 of this title\] may be cited as the 'National Commission on Libraries and Information Science Act Amendments of 1991'."
 
 #### Short Title
 

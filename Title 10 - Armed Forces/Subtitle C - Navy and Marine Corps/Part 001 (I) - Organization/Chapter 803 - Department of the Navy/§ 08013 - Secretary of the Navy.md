@@ -48,7 +48,7 @@
 
 (d) The Secretary of the Navy is also responsible for such other activities as may be prescribed by law or by the President or Secretary of Defense.
 
-(e) After first informing the Secretary of Defense, the Secretary of the Navy may make such recommendations to Congress relating to the Department of Defense as he considers appropriate.
+(e) After first informing the Secretary of Defense, the Secretary of the Navy may make such recommendations to Congress relating to theDepartment of Defense as he considers appropriate.
 
 (f) The Secretary of the Navy may assign such of his functions, powers, and duties as he considers appropriate to the Under Secretary of the Navy and to the Assistant Secretaries of the Navy. Officers of the Navy and the Marine Corps shall, as directed by the Secretary, report on any matter to the Secretary, the Under Secretary, or any Assistant Secretary.
 
@@ -96,6 +96,34 @@ Amendment by Pub. L. 117–81 applicable with respect to appointments made on or
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
+#### Strategy on Use of Automation and Artificial Intelligence for Shipyard Optimization
+
+Pub. L. 118–31, div. A, title III, §350(a), Dec. 22, 2023, 137 Stat. 228, provided that: "The Secretary of the Navy, in coordination with the Shipyard Infrastructure Optimization Program of the Department of the Navy, shall develop and implement a strategy to leverage commercial best practices used in shipyards to improve the efficiency of operations and to demonstrate a digital platform that uses artificial intelligence to analyze data on the maintenance and condition of shipboard assets of the Navy at shipyards, for the purpose of improving the readiness of the Armed Forces, predicting and diagnosing issues prior to the occurrence of such issues, and lowering maintenance costs."
+
+#### Digital Ambassador Program of the Navy: Cessation; Report; Restart
+
+Pub. L. 118–31, div. A, title V, §594, Dec. 22, 2023, 137 Stat. 286, provided that:
+
+"(a)
+
+Cessation.—The Secretary of the Navy shall cease all activities of the digital ambassador program of the Office of Information of the Department of the Navy. The Secretary shall notify each individual designated as a digital ambassador of such cessation and that the individual is not authorized to act as a digital ambassador of the Navy.
+
+"(b)
+
+Restart.—The Secretary may not restart such program until 60 days after the date on which the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report containing the following:
+
+&emsp;"(1) All policies and documents of the program.
+
+&emsp;"(2) The number of digital ambassadors designated.
+
+&emsp;"(3) The process and criteria for such designation.
+
+&emsp;"(4) The duties of a digital ambassador.
+
+&emsp;"(5) The online platforms (including social media) on which an individual is authorized under such program to perform duties of a digital ambassador.
+
+&emsp;"(6) The determination of the Secretary that such program complies with applicable laws, regulations, and guidance."
+
 #### Pilot Program To Support the Development of Patentable Inventions in the Department of the Navy
 
 Pub. L. 117–263, div. A, title II, §224, Dec. 23, 2022, 136 Stat. 2483, provided that:
@@ -104,7 +132,7 @@ Pub. L. 117–263, div. A, title II, §224, Dec. 23, 2022, 136 Stat. 2483, provi
 
 In General.—The Secretary of the Navy may carry out a pilot program to expand the support available to covered personnel who seek to engage in the development of patentable inventions that—
 
-&emsp;"(1) have applicablity to the job-related functions of such personnel; and
+&emsp;"(1) have applicablity \[sic\] to the job-related functions of such personnel; and
 
 &emsp;"(2) may have applicability in the civilian sector.
 
@@ -120,7 +148,7 @@ Activities.—As part of the pilot program under subsection (a), the Secretary o
 
 &emsp;&emsp;"(A) seek and receive support for the development of patentable inventions; and
 
-&emsp;&emsp;"(B) receive a portion of any royalty or other payment as an inventor or coinventor such as may be due under section 14(a)(1)(A)(i) of the Stevension-Wylder \[sic; probably should be "Stevenson-Wydler"\] Technology Innovation Act of 1980 (15 U.S.C. 3710c(a)(1)(A)(i)); and
+&emsp;&emsp;"(B) receive a portion of any royalty or other payment as an inventor or coinventor such as maybe due under section 14(a)(1)(A)(i) of the Stevension-Wylder \[sic; probably should be "Stevenson-Wydler"\] Technology Innovation Act of 1980 (15 U.S.C. 3710c(a)(1)(A)(i)); and
 
 &emsp;"(4) carry out other such activities as the Secretary determines appropriate in accordance with the purposes of the pilot program.
 
@@ -230,7 +258,7 @@ Leadership Qualifications.—The Secretary shall ensure that flag officers with 
 
 "(h)
 
-Determination by Cyber Command.—Not later than 60 days after the date on which the Secretary submits the report under subsection (f), the Commander of the United States Cyber Command shall submit to the Committees on Armed Services of the House of Representatives and Senate a determination with respect to whether the matters contained in the report satisfy the requirements of the United States Cyber Command."
+Determination by Cyber Command.—Not later than 60 days after the date on which the Secretary submits the report under subsection (f), the Commander of the United States Cyber Command shall submit to theCommittees on Armed Services of the House of Representatives and Senate a determination with respect to whether the matters contained in the report satisfy the requirements of the United States Cyber Command."
 
 #### Shipyard Infrastructure Optimization Program of the Navy
 
@@ -272,7 +300,7 @@ Briefing.—If the Secretary of the Navy is unable to implement the requirements
 
 &emsp;"(3) any additional resources necessary to implement those requirements."
 
-Pub. L. 117–81, div. A, title III, §355, Dec. 27, 2021, 135 Stat. 1657, provided that:
+Pub. L. 117–81, div. A, title III, §355, Dec. 27, 2021, 135 Stat. 1657, as amended by Pub. L. 118–31, div. A, title III, §344(a), Dec. 22, 2023, 137 Stat. 225, provided that:
 
 "(a)
 
@@ -307,6 +335,18 @@ Written information.—Before conducting a briefing under paragraph (1) with res
 &emsp;&emsp;"(B) A schedule for such project that is comprehensive, well-constructed, credible, and controlled pursuant to the Schedule Assessment Guide: Best Practices for Project Schedules (GAO–16–89G) set forth by the Comptroller General of the United States in December 2015, or successor guide.
 
 &emsp;&emsp;"(C) An estimate of the likelihood that programmed and planned funds for such project will be sufficient for the completion of the project.
+
+&emsp;&emsp;"(D) A risk analysis of how the schedule for such project affects the availability schedule for submarines and aircraft carriers, including the following:
+
+&emsp;&emsp;&emsp;"(i) A timeline for the completion of such project, including construction dates and dates of planned maintenance at each shipyard under such project.
+
+&emsp;&emsp;&emsp;"(ii) Contingency maintenance plans if such project is delayed, including any backup location for maintenance availabilities determined by the Chief Naval Officer and any resulting alteration in plans or schedules for maintenance.
+
+&emsp;&emsp;&emsp;"(iii) The effect on public shipyards should a delay to such project result in the implementation of a contingency plan pursuant to clause (ii), including the effect on the workforce and workload capacity at the public shipyard with respect to which such project is conducted.
+
+&emsp;&emsp;&emsp;"(iv) A cost-benefit analysis of the potential for private shipyards to assist with such workload should such project be delayed, including an identification of any gaps in the capability of private shipyards to conduct the maintenance described in clause (ii).
+
+&emsp;&emsp;&emsp;"(v) An assessment of whether greater flexibilities in authorities are necessary to better support fleet maintenance needs and the Shipyard Infrastructure Optimization Program.
 
 &emsp;"(3)
 
@@ -366,7 +406,7 @@ Initial briefing.—Not later than April 1, 2023, the Comptroller General shall 
 
 #### Improved Oversight of Certain Infrastructure Services Provided by Naval Facilities Engineering Systems Command Pacific
 
-Pub. L. 117–81, div. B, title XXVIII, §2871, Dec. 27, 2021, 135 Stat. 2214, provided that: "The Secretary of the Navy shall designate an administrative position within the Naval Facilities Engineering Systems Command Pacific for the purpose of improving the continuity ofmanagement and oversight of real property and infrastructure assets in the Pacific Area of Responsibility related to the training needs of the Armed Forces, particularly regarding leased property for which the lease will expire within 10 years after the date of the enactment of this Act \[Dec. 27, 2021\]."
+Pub. L. 117–81, div. B, title XXVIII, §2871, Dec. 27, 2021, 135 Stat. 2214, provided that: "The Secretary of the Navy shall designate an administrative position within the Naval Facilities Engineering Systems Command Pacific for the purpose of improving the continuity of management and oversight of real property and infrastructure assets in the Pacific Area of Responsibility related to the training needs of the Armed Forces, particularly regarding leased property for which the lease will expire within 10 years after the date of the enactment of this Act \[Dec. 27, 2021\]."
 
 #### Executive Agent for Autonomy
 
@@ -432,7 +472,7 @@ Current programs.—In the case of any shipboard system program of record that i
 
 &emsp;"(2)
 
-Future programs.—In the case of any shipboard system program of record that is first accepted by the Government after the date of the enactment of this Act, the Secretary shall ensure that formal training is established for such program by not later than 12 months after the date on which the shipboard system program of record is first accepted by the Government."
+Future programs.—In the case of any shipboard system program of record that is first accepted by the Government after the date of the enactment of this Act, the Secretary shall ensure that formal training is established for such program by not laterthan 12 months after the date on which the shipboard system program of record is first accepted by the Government."
 
 #### Limitation on Modifications to Navy Facilities Sustainment, Restoration, and Modernization Structure and Mechanism
 
@@ -512,7 +552,7 @@ Selection Requirements.—As a condition on eligibility for selection to partici
 
 Participating Workers.—(1) Actual worker participation in the demonstration project shall be determined through competitive selection. Not more than 15 percent of the wage grade journeyman at a demonstration project location may be selected to participate.
 
-"(2) Job descriptions and competency-based training plans must be developed for each worker while in training under the demonstration project and once certified as a multi-trade worker. A certified multi-trade worker who receives a pay grade promotion under the demonstration project must use each new skill during at least 25 percent of the worker's work year.
+"(2) Job descriptions and competency-based training plans must be developed for each worker while in training under the demonstration project and once certified as a multi-trade worker. A certified multi-trade workerwho receives a pay grade promotion under the demonstration project must use each new skill during at least 25 percent of the worker's work year.
 
 "(d)
 

@@ -50,7 +50,7 @@ By the authority vested in me as President of the United States of America by Se
 
 1–102. The head of an Executive agency responsible for the administration of any Federal Government pension plan within the meaning of Section 123(a) of the Budget and Accounting Procedures Act of 1950, as amended (31 U.S.C. 68c) \[31 U.S.C. 9502(1)\], except subsections (a)(9) and (b), shall ensure that the administrators of those plans comply with the form, manner, and time of filing as required by the Director of the Office of Management and Budget.
 
-1–103. Subject to the provisions of Section 1–101 of this Order, and in the absence of any contrary delegation or direction by the Director, the Secretary of the Treasury, with respect to the development of the form and content of the annual reports, shall perform the functions set forth in Section 121(a) of the Budget and Accounting Procedures Act of 1950, as amended (31 U.S.C. 68a) \[31 U.S.C. 9503\]. In performing this function, the Secretary shall also be responsible for consulting with the Comptroller General.
+1–103. Subject to the provisions of Section 1–101 of this Order, and in the absence of any contrary delegation or direction by the Director, the Secretary of the Treasury, with respect to the development of the formand content of the annual reports, shall perform the functions set forth in Section 121(a) of the Budget and Accounting Procedures Act of 1950, as amended (31 U.S.C. 68a) \[31 U.S.C. 9503\]. In performing this function, the Secretary shall also be responsible for consulting with the Comptroller General.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

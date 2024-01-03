@@ -50,7 +50,7 @@ In this chapter:
 
 #### (6) IUU fishing
 
-&emsp;The term "IUU fishing" means illegal fishing, unreported fishing, or unregulated fishing (as such terms are defined in paragraph 3 of the International Plan of Action to Prevent, Deter, and Eliminate Illegal, Unreported and Unregulated Fishing, adopted at the 24th Session of the Committee on Fisheries in Rome on March 2, 2001).
+&emsp;The term "IUU fishing" means illegal fishing, unreported fishing, or unregulated fishing (as such terms are defined in paragraph 3 ofthe International Plan of Action to Prevent, Deter, and Eliminate Illegal, Unreported and Unregulated Fishing, adopted at the 24th Session of the Committee on Fisheries in Rome on March 2, 2001).
 
 #### (7) Port State Measures Agreement
 

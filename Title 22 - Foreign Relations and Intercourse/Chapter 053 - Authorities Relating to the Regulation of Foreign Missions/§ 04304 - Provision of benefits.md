@@ -38,7 +38,7 @@ Nothing in this chapter shall be deemed to preclude or limit in any way the auth
 
 #### (f) In-kind exchange of properties with foreign government; transfer of funds; reciprocal agreement; regulations
 
-(1) Upon a determination in each specific case by the Secretary of State or the Secretary's designee that the purpose of the Foreign Service Buildings Act, 1926 \[22 U.S.C. 292 et seq.\], can best be met on the basis of an in-kind exchange of properties with a foreign country pursuant to subsection (b)(5), the Secretary of State may transfer funds made available under the heading "Acquisition and Maintenance of Buildings Abroad" (including funds held in the Foreign Service Buildings Fund) for such purpose to the Working Capital Fund, as provided in section4308(h)(1) of this title. Except for funds that may be provided by a foreign government for the purchase of property, only funds transferred under the preceding sentence may be used for the purposes of subsection (b)(5).
+(1) Upon a determination in each specific case by the Secretary of State or the Secretary's designee that the purpose of the Foreign Service Buildings Act, 1926 \[22 U.S.C. 292 et seq.\], can best be met on the basis of an in-kind exchange of properties with a foreign country pursuant to subsection (b)(5), the Secretary of State may transfer funds made available under the heading "Acquisition and Maintenance of Buildings Abroad" (including funds held in the Foreign Service Buildings Fund) for such purpose to the Working Capital Fund, as provided in section 4308(h)(1) of this title. Except for funds that may be provided by a foreign government for the purchase of property, only funds transferred under the preceding sentence may be used for the purposes of subsection (b)(5).
 
 (2) The Secretary of State may acquire property in the United States for the purposes of subsection (b)(5) only in the context of a specific reciprocal agreement with a specified foreign government. Property acquired by the United States in the foreign country through such an exchange shall benefit the United States at least to the same extent as the property acquired in the United States benefits the foreign government.
 
@@ -84,7 +84,7 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department ofState when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
 #### Effective Date of 1985 Amendment
 

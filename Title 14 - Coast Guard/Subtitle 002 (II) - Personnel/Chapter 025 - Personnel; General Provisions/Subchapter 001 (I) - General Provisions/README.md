@@ -76,7 +76,7 @@ Pub. L. 117–263, div. K, title CXII, §11273, Dec. 23, 2022, 136 Stat. 4068, p
 
 "(a)
 
-Interim Update.—Not later than 30 days after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant \[of the Coast Guard\], in consultation with the Director of the Health, Safety, and Work Life Directorate, shall issue an interim update to Coast Guard policy guidance to allow a member of the Coast Guard who has reported being the victim of a sexual assault, or any other offense covered by section 920, 920c, or 930 of title 10, United States Code (article 120, 120c, or 130 of the Uniform Code of Military Justice), to request an immediate change of station or an immediate unit transfer.
+Interim Update.—Not later than 30 days after the date of enactment of this Act \[Dec. 23, 2022\], theCommandant \[of the Coast Guard\], in consultation with the Director of the Health, Safety, and Work Life Directorate, shall issue an interim update to Coast Guard policy guidance to allow a member of the Coast Guard who has reported being the victim of a sexual assault, or any other offense covered by section 920, 920c, or 930 of title 10, United States Code (article 120, 120c, or 130 of the Uniform Code of Military Justice), to request an immediate change of station or an immediate unit transfer.
 
 "(b)
 
@@ -158,7 +158,7 @@ Annual Report on Costs.—
 
 &emsp;"(1)
 
-In general.—Not less frequently than annually, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that, for the preceding fiscal year—
+In general.—Not less frequently than annually, the Commandant shall submit to the Committeeon Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that, for the preceding fiscal year—
 
 &emsp;&emsp;"(A) details the total aggregate service-wide costs described in subsection (b)(7)(A)(ii) for members of the Coast Guard whose Physical Disability Evaluation System process has exceeded 90 days; and
 

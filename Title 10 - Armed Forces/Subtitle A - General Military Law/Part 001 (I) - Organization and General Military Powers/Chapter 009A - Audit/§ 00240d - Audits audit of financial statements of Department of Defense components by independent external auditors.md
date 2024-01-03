@@ -20,7 +20,7 @@ Reports on Audits.—
 
 In general.—The Inspector General shall require the independent external auditors conducting audits under subsection (a) to submit a report on their audits each year to—
 
-&emsp;&emsp;(A) the Under Secretary of Defense (Comptroller) as the Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31 and the Chief Management Officer of the Department of Defense; <sup>1</sup>
+&emsp;&emsp;(A) the Under Secretary of Defense (Comptroller) as the Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31;
 
 &emsp;&emsp;(B) the Controller of the Office of Federal Financial Management in the Office of Management and Budget;
 
@@ -44,7 +44,7 @@ Relationship to Existing Law.—The requirements of this section—
 
 &emsp;(2) shall not be construed to limit or alter the authorities of the Comptroller General of the United States under section 3521(g) of title 31.
 
-(Added and amended Pub. L. 115–91, div. A, title X, §1002(e)(1)–(3), Dec. 12, 2017, 131 Stat. 1541, §254; renumbered §240d, Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945.)
+(Added and amended Pub. L. 115–91, div. A, title X, §1002(e)(1)–(3), Dec. 12, 2017, 131 Stat. 1541, §254; renumbered §240d, Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945; Pub. L. 118–31, div. A, title IX, §901(d), Dec. 22, 2023, 137 Stat. 354.)
 
 #### <b>Editorial Notes</b>
 
@@ -53,6 +53,8 @@ Relationship to Existing Law.—The requirements of this section—
 Text of section, as added by Pub. L. 115–91, is based on text of section 1005 of Pub. L. 114–92, div. A, title X, Nov. 25, 2015, 129 Stat. 961, which was formerly set out as a note under section 2222 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, §1002(e)(4), Dec. 12, 2017, 131 Stat. 1541.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d)(1)(A). Pub. L. 118–31 struck out "and the Chief Management Officer of the Department of Defense" after "chapter 9 of title 31".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 254 of this title as this section.
 
@@ -78,11 +80,23 @@ Pub. L. 115–91, §1002(e)(2)(A), struck out ", United States Code" after "tit
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-#### Transfer of Functions
+#### Audit Requirement for Department of Defense Components
 
-Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
+Pub. L. 118–31, div. A, title X, §1004, Dec. 22, 2023, 137 Stat. 379, provided that:
+
+"(a)
+
+In General.—During fiscal year 2024, and during each of the nine fiscal years thereafter, each component of the Department of Defense shall be subject to an independent audit. Any such component that fails to be subject to such an audit during any fiscal year shall have 1.5 percent of unobligated amounts available for the component be cancelled and returned to the general fund of the Treasury for deficit reduction, except as provided in subsection (b).
+
+"(b)
+
+Exceptions.—The following accounts are excluded from any reductions:
+
+&emsp;"(1) Military personnel, reserve personnel, and National Guard personnel accounts of the Department of Defense.
+
+&emsp;"(2) The Defense Health Program account of the Department of Defense."
 
 #### Transparency of Accounting Firms Used To Support Department of Defense Audit
 
@@ -99,6 +113,4 @@ Treatment of Statement.—A statement setting forth the details of a disciplinar
 &emsp;"(1) treated as confidential to the extent required by the court or agency in which the proceeding has occurred; and
 
 &emsp;"(2) treated in a manner consistent with any protections or privileges established by any other provision of Federal law."
-
-<i><sup>1</sup></i><i> See Transfer of Functions note below.</i>
 

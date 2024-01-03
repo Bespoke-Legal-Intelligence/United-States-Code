@@ -10,7 +10,7 @@ Each pension plan shall provide that unless the participant otherwise elects, th
 
 &emsp;(3) the participant terminates his service with the employer.
 
-> In the case of a plan which provides for the payment of an early retirement benefit, such plan shall provide that a participant who satisfied the service requirements for such early retirement benefit, but separated from the service (with any nonforfeitable right to an accrued benefit) before satisfying the age requirement for such early retirement benefit, is entitled upon satisfaction of such age requirement to receive a benefit not less than the benefit to which he would be entitled at the normal retirement age, actuarially reduced under regulations prescribed by the Secretary of the Treasury.
+> In the case of a plan which provides for the payment of an early retirement benefit, such plan shall provide that a participant who satisfied the service requirements for such early retirement benefit, but separated from the service (with any nonforfeitable right to an accrued benefit) before satisfying the age requirement for such early retirement benefit, is entitled upon satisfaction of such age requirement to receive a benefit not less than the benefit to which he would be entitled at the normal retirementage, actuarially reduced under regulations prescribed by the Secretary of the Treasury.
 
 #### (b) Decrease in plan benefits by reason of increases in benefit levels under Social Security Act or Railroad Retirement Act of 1937
 
@@ -72,9 +72,9 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(I) in the case of any payment before a participant has separated from service, on or after the date on which the participant attains (or would have attained) the earliest retirement age,
 
-&emsp;(II) as if the participant had retired on the date on which such payment is to begin under such order (but taking into account only the present value of benefits actually accrued and not taking into account the present value of any employer subsidy for early retirement), and
+&emsp;(II) as if the participant had retired on the date on which such payment is to begin undersuch order (but taking into account only the present value of benefits actually accrued and not taking into account the present value of any employer subsidy for early retirement), and
 
-&emsp;(III) in any form in which such benefits may be paid under the plan to the participant\(other than in the form of a joint and survivor annuity with respect to the alternate payee and his or her subsequent spouse).
+&emsp;(III) in any form in which such benefits may be paid under the plan to the participant (other than in the form of a joint and survivor annuity with respect to the alternate payee and his or her subsequent spouse).
 
 > For purposes of subclause (II), the interest rate assumption used in determining the present value shall be the interest rate specified in the plan or, if no rate is specified, 5 percent.
 
@@ -212,7 +212,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (A) In general
 
-&emsp;&emsp;If a participant of a defined benefit plan which is a single-employer plan is entitled to an unpredictable contingent event benefit payable with respect to any event occurring during any plan year, the plan shall providethat such benefit may not be provided if the adjusted funding target attainment percentage for such plan year—
+&emsp;&emsp;If a participant of a defined benefit plan which is a single-employer plan is entitledto an unpredictable contingent event benefit payable with respect to any event occurring during any plan year, the plan shall provide that such benefit may not be provided if the adjusted funding target attainment percentage for such plan year—
 
 &emsp;&emsp;&emsp;(i) is less than 60 percent, or
 
@@ -280,11 +280,11 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The plan shall also provide that only 1 prohibited payment meeting the requirements of clause (i) may be made with respect to any participant during any period of consecutive plan years to which the limitations under either subparagraph (A) or (B) or this subparagraph applies.
+&emsp;&emsp;&emsp;&emsp;The plan shall also provide that only 1 prohibited payment meeting the requirements of clause (i) may be made with respect to any participant during any period of consecutive plan years to whichthe limitations under either subparagraph (A) or (B) or this subparagraph applies.
 
 #### (II) Treatment of beneficiaries
 
-&emsp;&emsp;&emsp;&emsp;For purposes of this clause, a participant and any beneficiary on his behalf\(including an alternate payee, as defined in subsection (d)(3)(K)) shall be treated as 1 participant. If the accrued benefit of a participant is allocated to such an alternate payee and 1 or more other persons, the amount under clause (i) shall be allocated among such persons in the same manner as the accrued benefit is allocated unless the qualified domestic relations order (as defined in subsection (d)(3)(B)(i)) provides otherwise.
+&emsp;&emsp;&emsp;&emsp;For purposes of this clause, a participant and any beneficiary on his behalf (including an alternate payee, as defined in subsection (d)(3)(K)) shall be treated as 1 participant. If the accrued benefit of a participant is allocated to such an alternate payee and 1 or more other persons, the amount under clause (i) shall be allocated among such persons in the same manner as the accrued benefit is allocated unless the qualified domestic relations order (as defined in subsection (d)(3)(B)(i)) provides otherwise.
 
 #### (D) Exception
 
@@ -352,7 +352,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (iii), in any case in which a benefit limitation under paragraph (1), (2), (3), or (4) would (but for this subparagraph and determined without regard to paragraph (1)(B), (2)(B), or (4)(B)) apply to such plan for the plan year, the plan sponsor of such plan shall be treated for purposes of this chapter as having made an election under section 1083(f) of this title to reduce the prefunding balance or funding standard carryover balance by such amount as is necessary for such benefit limitation to not apply to the plan for such plan year.
+&emsp;&emsp;&emsp;Subject to clause (iii), in any case in which a benefit limitation under paragraph (1), (2), (3), or (4) would (but for this subparagraph and determined without regard to paragraph (1)(B), (2)(B), or (4)(B))apply to such plan for the plan year, the plan sponsor of such plan shall be treated for purposes of this chapter as having made an election under section 1083(f) of this title to reduce the prefunding balance or funding standard carryover balance by such amount as is necessary for such benefit limitation to not apply to the plan for such plan year.
 
 #### (ii) Exception for insufficient funding balances
 
@@ -412,11 +412,11 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (C) Application to plans which are fully funded without regard to reductions for funding balances
 
-&emsp;&emsp;In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
+&emsp;&emsp;In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title), thefunding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
 
 #### (10) Secretarial authority for plans with alternate valuation date
 
-&emsp;In the case of a plan which has designated a valuation date other than the first day of theplan year, the Secretary of the Treasury may prescribe rules for the application of this subsection which are necessary to reflect the alternate valuation date.
+&emsp;In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary of the Treasury may prescribe rules for the application of this subsection which are necessary to reflect the alternate valuation date.
 
 #### \[(11) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(57)(G)(ii), Dec. 19, 2014, 128 Stat. 4047\]
 
@@ -626,7 +626,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Contributing sponsor.—The amendment made by subsection (a)(11) \[amending section 1301 of this title\] shall be effective as if included in the Pension Protection Act \[Pub. L. 100–203, title IX, subtitle D, part II, §§9302–9346\]."
 
-Pub. L. 103–465, title VII, §776(e), Dec. 8, 1994, 108 Stat. 5048, provided that: "The provisions of this section \[enacting section 1350 of this title and amending this section and sections 1303, 1305, and 1341 of this title andsection 401 of Title 26, Internal Revenue Code\] shall be effective with respect to distributions that occur in plan years commencing after final regulations implementing these provisions are prescribed by the Pension Benefit Guaranty Corporation." \[Final implementing regulations were issued Nov. 22, 1995, effective for distributions in plan years beginning on or after Jan. 1, 1996. See 60 F.R. 61740.\]
+Pub. L. 103–465, title VII, §776(e), Dec. 8, 1994, 108 Stat. 5048, provided that: "The provisions of this section \[enacting section 1350 of this title and amending this section and sections 1303, 1305, and 1341 of this title and section 401 of Title 26, Internal Revenue Code\] shall be effective with respect to distributions that occur in plan years commencing after final regulations implementing these provisions are prescribed by the Pension Benefit Guaranty Corporation." \[Final implementing regulations were issued Nov. 22, 1995, effective for distributions in plan years beginning on or after Jan. 1, 1996. See 60 F.R. 61740.\]
 
 #### Effective Date of 1989 Amendment
 

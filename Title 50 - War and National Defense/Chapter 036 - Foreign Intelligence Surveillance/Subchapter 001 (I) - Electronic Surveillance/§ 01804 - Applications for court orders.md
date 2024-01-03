@@ -18,7 +18,7 @@ Each application for an order approving electronic surveillance under this subch
 
 &emsp;(5) a description of the nature of the information sought and the type of communications or activities to be subjected to the surveillance;
 
-&emsp;(6) a certification or certifications by the Assistant to the President for National Security Affairs, an executive branch official or officials designated by the President fromamong those executive officers employed in the area of national security or defense and appointed by the President with the advice and consent of the Senate, or the Deputy Director of the Federal Bureau of Investigation, if designated by the President as a certifying official—
+&emsp;(6) a certification or certifications by the Assistant to the President for National Security Affairs, an executive branch official or officials designated by the President from among those executive officers employed in the area of national security or defense and appointed by the President with the advice and consent of the Senate, or the Deputy Director of the Federal Bureau of Investigation, if designated by the President as a certifying official—
 
 &emsp;&emsp;(A) that the certifying official deems the information sought to be foreign intelligence information;
 
@@ -80,7 +80,7 @@ Subsec. (a)(7). Pub. L. 110–261, §104(1)(B), (E), redesignated par. (8) as (7
 
 Subsec. (a)(8) to (11). Pub. L. 110–261, §104(1)(A), (B), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out par. (11) which read as follows: "whenever more than one electronic, mechanical or other surveillance device is to be used with respect to a particular proposed electronic surveillance, the coverage of the devices involved and what minimization procedures apply to information acquired by each device." Former par. (8) redesignated (7).
 
-Subsecs. (b) to (e). Pub. L. 110–261, §104(2)–(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively, in subsec. (d)(1)(A) substituted "the Director of National Intelligence, or the Director of the Central Intelligence Agency" for "or the Director of National Intelligence", and struck out former subsec. (b) which related to exclusion of certain information respecting foreign power targets.
+Subsecs. (b) to (e). Pub. L. 110–261, §104(2)–(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively, in subsec. (d)(1)(A) substituted "the Director of National Intelligence, or the Director of the Central Intelligence Agency" for "or the Director of National Intelligence",and struck out former subsec. (b) which related to exclusion of certain information respecting foreign power targets.
 
 <b>2006</b>—Subsec. (a)(3). Pub. L. 109–177 inserted "specific" before "target".
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) the request for orders has been approved;
 
-&emsp;&emsp;(iii) the orders are to be issued but have not been issued or the orders have beenissued but the member has not entered active duty; and
+&emsp;&emsp;(iii) the orders are to be issued but have not been issued or the orders have been issued but the member has not entered active duty; and
 
 &emsp;&emsp;(iv) the member does not have health care insurance and is not covered by any other health benefits plan.
 
@@ -22,7 +22,7 @@
 
 (c)(1) Funds appropriated to a military department, the Department of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Department of Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service) may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the uniformed services. If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
 
-(2)(A) Subject to such exceptions as the Secretary of Defense considers necessary, coverage for medical care for members of the uniformed services under this subsection, and standards with respect to timely access to such care, shall be comparable to coverage for medical care and standards for timely access to such care under the managed care option of the TRICARE program known as TRICARE Prime.
+(2)(A) Subject to such exceptions as the Secretary of Defense considers necessary, coverage for medical care for members of the uniformed services under this subsection, and standards with respect to timely access to such care, shall be comparable to coverage for medical care and standards for timely access to such care underthe managed care option of the TRICARE program known as TRICARE Prime.
 
 (B) The Secretary of Defense shall enter into arrangements with contractors under the TRICARE program or with other appropriate contractors for the timely and efficient processing of claims under this subsection.
 
@@ -62,7 +62,7 @@
 
 (2) In this subsection, the term "delayed-effective-date active-duty order" means an order to active duty for a period of more than 30 days under section 12304b of this title or a provision of law referred to in section 101(a)(13)(B) of this title that provides for active-duty service to begin under such order on a date after the date of the issuance of the order.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A,title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, §703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, §743(a), Jan. 6, 2006, 119 Stat. 3360; Pub. L. 110–181, div. A, title VI, §647(b), title XVI, §1633(a), Jan. 28, 2008, 122 Stat. 161, 459; Pub. L. 111–84, div. A, title VII, §702, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 115–91, div. A, title V, §511(a), Dec. 12, 2017, 131 Stat. 1376.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, §703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, §743(a), Jan. 6, 2006, 119 Stat. 3360; Pub. L. 110–181, div. A, title VI, §647(b), title XVI, §1633(a), Jan. 28, 2008, 122 Stat. 161, 459; Pub. L. 111–84, div. A, title VII, §702, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 115–91, div. A, title V, §511(a), Dec. 12, 2017, 131 Stat. 1376.)
 
 Historical and Revision Notes
 
@@ -156,7 +156,7 @@ Pub. L. 104–106 added subsec. (d).
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–189, §1621(a)(2), substituted "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs".
 
-Subsec. (c). Pub. L. 101–189, §729, inserted at end "If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modificationsconsidered appropriate by the Secretary) as apply under that program."
+Subsec. (c). Pub. L. 101–189, §729, inserted at end "If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program."
 
 <b>1984</b>—Subsecs. (a), (b). Pub. L. 98–557 substituted reference to administering Secretaries for reference to Secretary of Defense and Secretary of Health and Human Services wherever appearing.
 
@@ -188,7 +188,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(c)(1)\], Oct. 30, 2000, 11
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title VII, §731(a)(2), Nov. 18, 1997, 111 Stat. 1811, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to coverage of medical care for, and the provision of such care to, a member of the Armed Forces under section 1074(c) of title 10, United States Code, on and after the later of the following:
+Pub. L. 105–85, div. A, title VII, §731(a)(2), Nov. 18, 1997, 111 Stat. 1811, provided that: "The amendments made by paragraph (1) \[amending this section\] shallapply with respect to coverage of medical care for, and the provision of such care to, a member of the Armed Forces under section 1074(c) of title 10, United States Code, on and after the later of the following:
 
 &emsp;"(A) April 1, 1998.
 
@@ -205,6 +205,68 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date of 1966 Amendment
 
 For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
+
+#### Program of the Department of Defense To Study Treatment of Certain Conditions Using Certain Psychedelic Substances
+
+Pub. L. 118–31, div. A, title VII, §723, Dec. 22, 2023, 137 Stat. 306, provided that:
+
+"(a)
+
+Establishment.—Not later than 180 days after the date of enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense shall establish a process to fund eligible entities to conduct research on the treatment of eligible members of the Armed Forces with a covered condition using covered psychedelic substances. Not later than 180 days after the date of the enactment of this Act, the Secretary shall designate a lead administrator to carry out the program under this section.
+
+"(b)
+
+Eligible Entities.—The Secretary may enter into a partnership and award funding under this section to any of the following:
+
+&emsp;"(1) A department or agency of the Federal Government or a State government.
+
+&emsp;"(2) An academic institution.
+
+"(c)
+
+Participation in Clinical Trials.—The Secretary may authorize any member of the Armed Forces serving on active duty who is diagnosed with a covered condition to participate in a clinical trial that is conducted using funding awarded under this section and is authorized pursuant to section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), without regard to—
+
+&emsp;"(1) whether the clinical trial involves a substance included in the schedule under section 202 of the Controlled Substances Act (21 U.S.C. 812); or
+
+&emsp;"(2) section 912a of title 10, United States Code (article 112a of the Uniform Code of Military Justice).
+
+"(d)
+
+Report Required.—Not later than one year after the date of the enactment of this Act, and annually thereafter for three years, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on funding awarded under this section, including the following:
+
+&emsp;"(1) Identification of clinics designated to host activities under the program.
+
+&emsp;"(2) A description of entities to whom the Secretary has awarded such funding.
+
+&emsp;"(3) The number of members of the Armed Forces serving on active duty who participated in a clinical trial described in subsection (c), the covered conditions of such members treated, and whether such members returned to full duty.
+
+&emsp;"(4) Information on the findings of such clinical trials.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered condition' means any of the following:
+
+&emsp;&emsp;"(A) Post-traumatic stress.
+
+&emsp;&emsp;"(B) Traumatic brain injury.
+
+&emsp;"(2) The term 'covered psychedelic substances' means any of the following:
+
+&emsp;&emsp;"(A) 3,4-Methylenedioxy-methamphetamine (commonly known as 'MDMA').
+
+&emsp;&emsp;"(B) Psilocybin.
+
+&emsp;&emsp;"(C) Ibogaine.
+
+&emsp;&emsp;"(D) 5-Methoxy-N,N-dimethyltryptamine (commonly known as '5-MeO-DMT').
+
+&emsp;&emsp;"(E) Qualified plant-based alternative therapies.
+
+&emsp;"(3) The term 'Secretary' means the Secretary of Defense.
+
+&emsp;"(4) The term 'State' has the meaning given such term in section 901 of title 32, United States Code."
 
 #### Guidance for Addressing Healthy Relationships and Intimate Partner Violence Through TRICARE Program
 
@@ -482,7 +544,7 @@ Additional Restrictions Authorized.—The Secretary may establish additional res
 
 "(d)
 
-Data Collection and Availability.—The Secretary shall develop and maintain a database containing data from each patient case involving the use of a treatment under this section. The Secretary shall ensure that the database preserves confidentiality and that any use of the database or disclosures of such data are limited to such use and disclosures permitted by law and applicable regulations.
+Data Collection and Availability.—The Secretary shall develop and maintain a database containing data from each patient case involving the use of a treatment under this section. The Secretary shall ensure that the database preserves confidentiality and that any use of the database or disclosures of such dataare limited to such use and disclosures permitted by law and applicable regulations.
 
 "(e)
 
@@ -734,7 +796,7 @@ Use of existing materials.—In developing the curricula, the Traumatic Brain In
 
 &emsp;"(5)
 
-Deadline for development.—The Traumatic Brain Injury Family Caregiver Panel shall developthe curricula not later than one year after the date of the enactment of this Act \[Oct. 17, 2006\].
+Deadline for development.—The Traumatic Brain Injury Family Caregiver Panel shall develop the curricula not later than one year after the date of the enactment of this Act \[Oct. 17, 2006\].
 
 "(c)
 

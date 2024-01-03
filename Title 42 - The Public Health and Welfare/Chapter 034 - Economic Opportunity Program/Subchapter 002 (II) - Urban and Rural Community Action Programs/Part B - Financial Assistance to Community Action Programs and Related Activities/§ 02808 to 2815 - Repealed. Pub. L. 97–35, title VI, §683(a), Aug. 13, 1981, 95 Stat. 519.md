@@ -1,6 +1,6 @@
 ### §§2808 to 2815. Repealed. Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519
 
-Section 2808, Pub. L. 88–452, title II, §221, as added Pub. L. 90–222, title I, §104, Dec. 23, 1967, 81 Stat. 696;amended Pub. L. 95–568, §17(a)(6), Nov. 2, 1978, 92 Stat. 2439, set forth general provisions for financial assistance for programs and related activities.
+Section 2808, Pub. L. 88–452, title II, §221, as added Pub. L. 90–222, title I, §104, Dec. 23, 1967, 81 Stat. 696; amended Pub. L. 95–568, §17(a)(6), Nov. 2, 1978, 92 Stat. 2439, set forth general provisions for financial assistance for programs and related activities.
 
 A prior section 221 of Pub. L. 88–452 was classified to section 2831 of this title, prior to the general reorganization of Part D of this subchapter by section 104 of Pub. L. 90–222.
 

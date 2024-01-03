@@ -28,7 +28,7 @@
 
 &emsp;(B) is interested in a career with the Bureau of Indian Affairs, an Indian tribe or a tribal enterprise in the management of Indian forest land.
 
-(4) Financial need shall not be a requirement to receive assistance under the cooperative agreement program that is to be maintained under this subsection.
+(4) Financial need shall not be a requirement to receive assistance under the cooperativeagreement program that is to be maintained under this subsection.
 
 (5) A recipient of assistance under the cooperative education program that is to be maintained under this subsection shall be required to enter into an obligated service agreement to serve as a professional forester or other forestry-related professional with the Bureau of Indian Affairs, an Indian tribe, or a tribal forest-related enterprise for one year for each year for which the Secretary pays the recipient's educational costs pursuant to paragraph (3).
 

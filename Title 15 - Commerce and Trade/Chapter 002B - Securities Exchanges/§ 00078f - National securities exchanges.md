@@ -18,7 +18,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;(5) The rules of the exchange are designed to prevent fraudulent and manipulative acts and practices, to promote just and equitable principles of trade, to foster cooperation and coordination with persons engaged in regulating, clearing, settling, processing information with respect to, and facilitating transactions in securities, to remove impediments to and perfect the mechanism of a free and open market and a national market system, and, in general, to protect investors and the public interest; and are not designed to permit unfair discrimination between customers, issuers, brokers, or dealers, or to regulate by virtue of any authority conferred by this chapter matters not related to the purposes of this chapter or the administration of the exchange.
 
-&emsp;(6) The rules of the exchange provide that (subject to any rule or order of the Commission pursuant to section 78q(d) or 78s(g)(2) of this title) its members and persons associated with its members shall be appropriately disciplined for violation of the provisions of this chapter, the rules or regulations thereunder, or the rules of the exchange, by expulsion, suspension, limitation of activities, functions, and operations, fine, censure, being suspended or barred from being associated with a member, or any other fitting sanction.
+&emsp;(6) The rules of the exchange provide that (subject to any rule or order of the Commission pursuant to section 78q(d) or 78s(g)(2) of this title) its members and persons associated with its members shall be appropriately disciplined for violation of the provisions of this chapter, the rules or regulations thereunder, or the rules of the exchange, by expulsion, suspension, limitation of activities, functions,and operations, fine, censure, being suspended or barred from being associated with a member, or any other fitting sanction.
 
 &emsp;(7) The rules of the exchange are in accordance with the provisions of subsection (d) of this section, and in general, provide a fair procedure for the disciplining of members and persons associated with members, the denial of membership to any person seeking membership therein, the barring of any person from becoming associated with a member thereof, and the prohibition or limitation by the exchange of any person with respect to access to services offered by the exchange or a member thereof.
 
@@ -82,7 +82,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 #### (e) Commissions, allowances, discounts, and other fees
 
-(1) On and after June 4, 1975, no national securities exchange may impose any schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members: <i>Provided, however</i>, That until May 1, 1976, the preceding provisions of this paragraph shall not prohibit any such exchange from imposing or fixing any schedule of commissions, allowances, discounts, or other fees to be charged by its members for acting as broker on the floor of the exchange or as odd-lot dealer: <i>And provided further</i>, That the Commission, in accordance with the provisions of section 78s(b) of this title asmodified by the provisions of paragraph (3) of this subsection, may—
+(1) On and after June 4, 1975, no national securities exchange may impose any schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members: <i>Provided, however</i>, That until May 1, 1976, the preceding provisions of this paragraph shall not prohibit any such exchange from imposing or fixing any schedule of commissions, allowances, discounts, or other fees to be charged by its members for acting as broker on the floor of the exchange or as odd-lot dealer: <i>And provided further</i>, That the Commission, in accordance with the provisions of section 78s(b) of this title as modified by the provisions of paragraph (3) of this subsection, may—
 
 &emsp;(A) permit a national securities exchange, by rule, to impose a reasonable schedule or fix reasonable rates of commissions, allowances, discounts, or other fees to be charged by its members for effecting transactions on such exchange prior to November 1, 1976, if the Commission finds that such schedule or fixed rates of commissions, allowances, discounts, or other fees are in the public interest; and
 
@@ -104,7 +104,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;(1) a Commission determination under subparagraph (A) of this paragraph that an interested person is not entitled to conduct cross-examination or make rebuttal submissions, or
 
-&emsp;(2) a Commission rule or ruling under subparagraph (B) of this paragraph limiting the petitioner's cross-examination or rebuttal submissions,
+&emsp;(2) a Commission rule or ruling under subparagraph (B) of this paragraph limiting thepetitioner's cross-examination or rebuttal submissions,
 
 > has precluded full disclosure and proper resolution of disputed issues of material fact which were necessary for fair determination by the Commission.
 
@@ -174,7 +174,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 &emsp;&emsp;&emsp;(ii) such exchange shall file pursuant to sections 78s(b)(1) and 78s(b)(2) of this title proposed rule changes related to margin, except for changes resulting in higher margin levels; and
 
-&emsp;&emsp;&emsp;(iii) such exchange shall file pursuant to section 78s(b)(1) of this title proposed rule changes that have been abrogated by the Commission pursuant to section 78s(b)(7)(C) of this title.
+&emsp;&emsp;&emsp;(iii) such exchange shall file pursuant to section 78s(b)(1) of this title proposed rulechanges that have been abrogated by the Commission pursuant to section 78s(b)(7)(C) of this title.
 
 #### (5) Trading in security futures products
 
@@ -300,7 +300,7 @@ A national securities exchange registered pursuant to subsection (a) shall imple
 
 #### (l) Security-based swaps
 
-It shall be unlawful for any person to effect a transaction in a security-based swap with or fora person that is not an eligible contract participant, unless such transaction is effected on a national securities exchange registered pursuant to subsection (b).
+It shall be unlawful for any person to effect a transaction in a security-based swap with or for a person that is not an eligible contract participant, unless such transaction is effected on a national securities exchange registered pursuant to subsection (b).
 
 (June 6, 1934, ch. 404, title I, §6, 48 Stat. 885; Pub. L. 94–29, §4, June 4, 1975, 89 Stat. 104; Pub. L. 100–181, title III, §§309–312, Dec. 4, 1987, 101 Stat. 1255; Pub. L. 103–202, title III, §303(b), Dec. 17, 1993, 107 Stat. 2365; Pub. L. 106–554, §1(a)(5) \[title II, §§202(a), 206(a), (i), (k)(2), (l)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–416, 2763A–426, 2763A–433, 2763A–434; Pub. L. 111–203, title VII, §§721(e)(8), 734(b)(2), 763(e), title IX, §957, July 21, 2010, 124 Stat. 1671, 1718, 1777, 1906.)
 
@@ -352,7 +352,7 @@ Subsec. (e)(1). Pub. L. 100–181, §312(1), substituted "paragraph (3) of this 
 
 Subsec. (e)(3), (4). Pub. L. 100–181, §312(2), (3), redesignated par. (4) as (3) and, in subpar. (E), substituted "fixing" for "fixes" in introductory provisions, "subparagraph (A) of this paragraph" for "paragraph (4)(A) of this subsection" in cl. (1), and "subparagraph (B) of this paragraph" for "paragraph (4)(B) of this subsection" in cl. (2), and struck out former par. (3) which read as follows: "Until December 31, 1976, the Commission, on a regular basis, shall file with the Speaker of the House and the President of the Senate information concerning the effect on the public interest, protection of investors, and maintenance of fair and orderly markets of the absence of any schedule or fixed rates of commissions, allowances, discounts, or other fees to be charged by members of any national securities exchange for effecting transactions on such exchange."
 
-<b>1975</b>—Pub. L. 94–29 restructured the entire section and, in addition, authorized the Commission to require an exchange to file such documents and information as it deems necessary or appropriate in the public interest or for the protection of investors and to prescribe the form and substance of an exchange's application for registration, expanded to eight the number of explicit statutory requirements that must be satisfied before an exchange may be registered as a national securities exchange, set forth the authority of a national securities exchange to admit or deny persons membership or association with members, prescribed exchange procedures for instituting disciplinary actions, denying membership, and summarily suspending members or persons associated with members, specified the authority of national securities exchanges to impose schedules or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for transacting business on the exchange, and empowered the Commission to regulate any broker or dealer who effects transactions on an exchange on a regular basis but who is not a member of that exchange and any person who effects transactions on an exchange without the services of another person acting as broker.
+<b>1975</b>—Pub. L. 94–29 restructured the entire section and, in addition, authorized the Commission to require an exchange to file such documents and information as it deems necessary or appropriate in the public interest or for the protection of investors and to prescribe the form and substance of an exchange's application for registration, expanded to eight the number of explicit statutory requirements that must be satisfied before an exchange may be registered as a national securities exchange, set forth the authority of a national securities exchange to admit or deny persons membership or association with members, prescribed exchange procedures for instituting disciplinary actions, denying membership, and summarily suspending members or persons associated with members, specified the authority of national securities exchanges to impose schedules or fix rates of commissions, allowances, discounts, or otherfees to be charged by its members for transacting business on the exchange, and empowered the Commission to regulate any broker or dealer who effects transactions on an exchange on a regular basis but who is not a member of that exchange and any person who effects transactions on an exchange without the services of another person acting as broker.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

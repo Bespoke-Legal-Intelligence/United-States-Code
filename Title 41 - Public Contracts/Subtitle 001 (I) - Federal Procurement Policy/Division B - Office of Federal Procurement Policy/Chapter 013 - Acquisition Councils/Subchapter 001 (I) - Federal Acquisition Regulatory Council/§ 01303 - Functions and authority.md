@@ -114,7 +114,7 @@ The National Aeronautics and Space Act of 1958, referred to in subsec. (a)(1), i
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a)(1). Pub. L. 117–81 substituted "chapter 4 of title 10, chapter 137 legacy provisions (as such term is defined in section 3016 of title 10)" for "chapters 4 and 137 of title 10".
+<b>2021</b>—Subsec. (a)(1). Pub. L. 117–81 substituted "chapter 4 of title 10, chapter 137 legacy provisions (as suchterm is defined in section 3016 of title 10)" for "chapters 4 and 137 of title 10".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -46,7 +46,7 @@ Each eligible entity that receives an award under section 7174 of this title may
 
 &emsp;&emsp;(B) be based upon an established set of performance measures aimed at ensuring the availability of high-quality academic enrichment opportunities;
 
-&emsp;&emsp;(C) if appropriate, be based upon evidence-based research that the program or activity will help students meet the challenging State academic standards and any local academic standards;
+&emsp;&emsp;(C) if appropriate, be based upon evidence-based research that the program or activitywill help students meet the challenging State academic standards and any local academic standards;
 
 &emsp;&emsp;(D) ensure that measures of student success align with the regular academic program of the school and the academic needs of participating students and include performance indicators and measures described in section 7173(a)(14)(A) of this title; and
 

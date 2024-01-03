@@ -32,11 +32,41 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (7) Domestic source
 
-&emsp;The term "domestic source" means a business concern—
+#### (A) In general
 
-&emsp;&emsp;(A) that performs in the United States or Canada substantially all of the research and development, engineering, manufacturing, and production activities required of such business concern under a contract with the United States relating to a critical component or a critical technology item; and
+&emsp;&emsp;Except as provided in subparagraph (B), the term "domestic source" means a business concern—
 
-&emsp;&emsp;(B) that procures from business concerns described in subparagraph (A) substantially all of any components and assemblies required under a contract with the United States relating to a critical component or critical technology item.
+&emsp;&emsp;&emsp;(i) that performs in the United States or Canada substantially all of the research and development, engineering, manufacturing, and production activities required of such business concern under a contract with the United States relating to a critical component or a critical technology item; and
+
+&emsp;&emsp;&emsp;(ii) that procures from business concerns described in clause (i) substantially all of any components and assemblies required under a contract with the United States relating to a critical component or critical technology item.
+
+#### (B) Domestic source for subchapter II
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For purposes of subchapter II, the term "domestic source" means a business concern that—
+
+&emsp;&emsp;&emsp;&emsp;(I) performs substantially all of the research and development, engineering, manufacturing, and production activities required of such business concern under a contract with the United States relating to a critical component or a critical technology item in—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the United States or Canada; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) subject to clause (ii), Australia or the United Kingdom; and
+
+&emsp;&emsp;&emsp;&emsp;(II) procures from business concerns described in subclause (I) substantially all of any components or assemblies required under a contract with the United States relating to a critical component or critical technology item.
+
+#### (ii) Limitations on use of business concerns in Australia and United Kingdom
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;A business concern described in clause (i)(I)(bb) may be treated as a domestic source only for purposes of the exercise of authorities under subchapter II relating to national defense matters that cannot be fully addressed with business concerns described in clause (i)(I)(aa).
+
+#### (II) National defense matter defined
+
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the term "national defense matter" is a matter relating to the development or production of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a defense article, as defined in section 301 of title 10; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) materials critical to national security, as defined in section 98h–1(f) of this title.
 
 #### (8) Facilities
 
@@ -98,7 +128,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;The term "small business concern" means a business concern that meets the requirements of section 632(a) of title 15 and the regulations promulgated pursuant to that section, and includes such business concerns owned and controlled by socially and economically disadvantaged individuals or by women.
 
-(Sept. 8, 1950, ch. 932, title VII, §702, 64 Stat. 815; June 30, 1953, ch. 171, §8, 67 Stat. 130; Pub. L. 91–379, title I, §102, Aug. 15, 1970, 84 Stat. 796; Pub. L. 102–558, title I, §132, Oct. 28, 1992, 106 Stat. 4210; Pub. L. 103–337, div. C, title XXXIV, §3411(b), Oct. 5, 1994, 108 Stat. 3110; Pub. L. 108–195, §5, Dec. 19, 2003, 117 Stat. 2893; Pub. L. 111–67, §8, Sept. 30, 2009, 123 Stat. 2017.)
+(Sept. 8, 1950, ch. 932, title VII, §702, 64 Stat. 815; June 30, 1953, ch. 171, §8, 67 Stat. 130; Pub. L. 91–379, title I, §102, Aug. 15, 1970, 84 Stat. 796; Pub. L. 102–558, title I, §132, Oct. 28, 1992, 106 Stat. 4210; Pub. L. 103–337, div. C, title XXXIV, §3411(b), Oct. 5, 1994, 108 Stat. 3110; Pub. L. 108–195, §5, Dec. 19, 2003, 117 Stat. 2893; Pub. L. 111–67, §8, Sept. 30, 2009, 123 Stat. 2017; Pub. L. 118–31, div. A, title X, §1080(a), Dec. 22, 2023, 137 Stat. 415.)
 
 #### Termination of Section
 
@@ -118,9 +148,11 @@ Section was formerly classified to section 2152 of the former Appendix to this t
 
 #### Amendments
 
+<b>2023</b>—Par. (7). Pub. L. 118–31 designated existing provisions as subpar. (A), inserted heading, substituted "Except as provided in subparagraph (B), the term" for "The term" in introductory provisions, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, substituted "clause (i)" for "subparagraph (A)" in cl. (ii), and added subpar. (B).
+
 <b>2009</b>—Par. (1). Pub. L. 111–67, §8(1), substituted "equipment identified by the President" for "military equipment identified by the Secretary of Defense".
 
-Pars. (2), (3). Pub. L. 111–67, §8(2)–(4), added par. (3), redesignated former par. (3) as (2), and struck outformer par. (2). Prior to amendment, text of par. (2) read as follows: "The term 'critical industry for national security' means any industry (or industry sector) identified pursuant to section 2503(6) of title 10 and such other industries or industry sectors as may be designated by the President as essential to provide industrial resources required for the execution of the national security strategy of the United States."
+Pars. (2), (3). Pub. L. 111–67, §8(2)–(4), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2). Prior to amendment, text of par. (2)read as follows: "The term 'critical industry for national security' means any industry (or industry sector) identified pursuant to section 2503(6) of title 10 and such other industries or industry sectors as may be designated by the President as essential to provide industrial resources required for the execution of the national security strategy of the United States."
 
 Pars. (4), (5). Pub. L. 111–67, §8(2), (5), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "The term 'critical technology' includes any technology that is included in 1 or more of the plans submitted pursuant to section 6681 of title 42 or section 2508 of title 10 (unless subsequently deleted), or such other emerging or dual use technology as may be designated by the President."
 

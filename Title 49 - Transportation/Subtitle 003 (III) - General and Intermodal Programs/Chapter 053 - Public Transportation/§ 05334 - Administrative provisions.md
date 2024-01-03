@@ -32,7 +32,7 @@ Prohibitions Against Regulating Operations and Charges.—
 
 &emsp;(1)
 
-In general.—Except for purposes of national defense or in the event of a national or regional emergency, or for purposes of establishing and enforcing a program to improve the safety of public transportation systems in the United States as described in section 5329, the Secretary may not regulate the operation, routes, or schedules of a public transportation system for which a grant is made under this chapter. The Secretary may not regulate the rates, fares, tolls, rentals, or other charges prescribed by any provider of public transportation.
+In general.—Except for purposes of national defense or in the event of a national orregional emergency, or for purposes of establishing and enforcing a program to improve the safety of public transportation systems in the United States as described in section 5329, the Secretary may not regulate the operation, routes, or schedules of a public transportation system for which a grant is made under this chapter. The Secretary may not regulate the rates, fares, tolls, rentals, or other charges prescribed by any provider of public transportation.
 
 &emsp;(2)
 
@@ -168,7 +168,7 @@ Transfer of Amounts and Non-Government Share.—(1) Amounts made available for a
 
 (j)
 
-Notification of Pending Discretionary Grants.—Not less than 3 full business days before announcement of award by the Secretary of any discretionary grant, letter of intent, or full funding grant agreement totaling $1,000,000 ormore, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
+Notification of Pending Discretionary Grants.—Not less than 3 full business days before announcement of award by the Secretary of any discretionary grant, letter of intent, or full funding grant agreement totaling $1,000,000 or more, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
 
 (k)
 
@@ -266,7 +266,7 @@ In subsection (c), before clause (1), the words "In the performance of, and with
 
 Subsection (d) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(b) and last sentence) to eliminate unnecessary words.
 
-In subsection (e), the words "such . . . as the making of loans" are omitted as surplus. The words "under this chapter" are added for clarity. The word "related" is substituted for "in connection with such financial transactions" to eliminate unnecessary words. The words "approved by the Secretary" are omitted as surplus. The word "binding" is substituted for "final and conclusive" to eliminate unnecessary words. The words"and employees" are added for consistency in the revised title and with other titles of the United States Code.
+In subsection (e), the words "such . . . as the making of loans" are omitted as surplus. The words "under this chapter" are added for clarity. The word "related" is substituted for "in connection with such financial transactions" to eliminate unnecessary words. The words "approved by the Secretary" are omitted as surplus. The word "binding" is substituted for "final and conclusive" to eliminate unnecessary words. The words "and employees" are added for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (f), before clause (1), the words "in any way" are substituted for "complete, administer, remodel and convert, dispose of, lease and otherwise" to eliminate unnecessary words. In clause (1), the words "civil or criminal" are omitted as surplus. In clause (2), the words "political subdivision of a State" are substituted for "local" for consistency.
 
@@ -274,7 +274,7 @@ In subsection (g)(1), before clause (A), the words "facilities and equipment and
 
 In subsection (g)(3), the words "and not in lieu of" are omitted as surplus.
 
-Subsection (i) is substituted for section 1(a)(1) (related to authority and functions reserved to Secretary of Housing and Urban Development) of Reorganization Plan No. 2 of 1968 to eliminate unnecessary words. The reference to 49 App.:1602(c)(1) is translated as a reference to 49 App.:1602(e)(1) because section 2(1) of the Urban Mass Transportation Assistance Act of 1970 (Public Law 91–453, 84 Stat. 962) redesignated subsection (c) as subsection (e). The references to 49 App.:1603(a) (1st sentence), 1604, and 1607c(b) and former 49 App.:1607a are omitted as obsolete because of section 103(a) of the National Mass Transportation Act of 1974 (Public Law 93–503, 88 Stat. 1567) and sections 303(b), 305(a), and 307 of the Federal Public Transportation Act of 1978 (Public Law 95–599, 92 Stat. 2737, 2743, 2747). Reference to 49 App.:1607c(c) is omitted because it was enacted after the Reorganization Plan and was not intended to be within the scope of the Plan.
+Subsection (i) is substituted for section 1(a)(1) (related to authority and functions reserved to Secretary of Housing and Urban Development) of Reorganization Plan No. 2 of 1968 to eliminate unnecessary words. The reference to 49 App.:1602(c)(1) is translated as a reference to 49 App.:1602(e)(1) because section 2(1) of the Urban Mass Transportation Assistance Act of 1970 (Public Law 91–453, 84 Stat. 962) redesignated subsection (c) as subsection (e). The references to 49 App.:1603(a)\(1st sentence), 1604, and 1607c(b) and former 49 App.:1607a are omitted as obsolete because of section 103(a) of the National Mass Transportation Act of 1974 (Public Law 93–503, 88 Stat. 1567) and sections 303(b), 305(a), and 307 of the Federal Public Transportation Act of 1978 (Public Law 95–599, 92 Stat. 2737, 2743, 2747). Reference to 49 App.:1607c(c) is omitted because it was enacted after the Reorganization Plan and was not intended to be within the scope of the Plan.
 
 Subsection (j)(1) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(e)) to eliminate unnecessary words.
 
@@ -348,7 +348,7 @@ Subsec. (h). Pub. L. 109–59, §3032(3), redesignated subsec. (g) as (h). Forme
 
 Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation" in pars. (1) and (2).
 
-Subsec. (i). Pub. L. 109–59, §3032(2), (3), redesignated subsec. (h) as (i) and struck out heading and text offormer subsec. (i). Text read as follows: "The Secretary of Housing and Urban Development shall—
+Subsec. (i). Pub. L. 109–59, §3032(2), (3), redesignated subsec. (h) as (i) and struck out heading and text of former subsec. (i). Text read as follows: "The Secretary of Housing and Urban Development shall—
 
 &emsp;"(1) carry out section 5312(a) and (b)(1) of this title related to—
 

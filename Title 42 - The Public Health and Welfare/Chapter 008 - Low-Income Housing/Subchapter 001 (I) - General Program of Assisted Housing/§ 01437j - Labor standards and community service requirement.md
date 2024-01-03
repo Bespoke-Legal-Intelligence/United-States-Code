@@ -62,7 +62,7 @@ Subsection (a) and the provisions relating to wages (pursuant to subsection (a))
 
 &emsp;&emsp;&emsp;&emsp;(III) that, unless the resident enters into an agreement under clause (ii) of this subparagraph, the resident's lease will not be renewed; and
 
-&emsp;&emsp;&emsp;(ii) may not renew or extend the resident's lease upon expiration of the lease term and shall take such action as is necessary to terminate the tenancy of the household, unless the agency enters into an agreement, before the expiration of thelease term, with the resident providing for the resident to cure any noncompliance with the requirement under paragraph (1), by participating in an economic self-sufficiency program for or contributing to community service as many additional hours as the resident needs to comply in the aggregate with such requirement over the 12-month term of the lease.
+&emsp;&emsp;&emsp;(ii) may not renew or extend the resident's lease upon expiration of the lease term and shall take such action as is necessary to terminate the tenancy of the household, unless the agency enters intoan agreement, before the expiration of the lease term, with the resident providing for the resident to cure any noncompliance with the requirement under paragraph (1), by participating in an economic self-sufficiency program for or contributing to community service as many additional hours as the resident needs to comply in the aggregate with such requirement over the 12-month term of the lease.
 
 #### (4) Ineligibility for occupancy for noncompliance
 

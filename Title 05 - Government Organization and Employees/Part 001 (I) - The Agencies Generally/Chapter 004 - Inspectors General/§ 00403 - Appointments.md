@@ -192,7 +192,7 @@ Legal Advice.—Each Inspector General shall, in accordance with applicable laws
 
 &emsp;&emsp;<i>"(i) that direction satisfies the requirements under clauses (ii), (iii), and (iv) of paragraph (2)(C); and</i>
 
-&emsp;&emsp;<i>"(ii) that officer or employee served in a position in that Office of Inspector General for not</i><i>fewer than 90 of the 365 days preceding the date on which the President makes that direction.</i>
+&emsp;&emsp;<i>"(ii) that officer or employee served in a position in that Office of Inspector General for not fewer than 90 of the 365 days preceding the date on which the President makes that direction.</i>
 
 <i>"(4) An individual may perform the functions and duties of an Inspector General temporarily and in an acting capacity under subparagraph (B) or (C) of paragraph (2), or under paragraph (3), with respect to only 1 Inspector General position at any given time.</i>
 

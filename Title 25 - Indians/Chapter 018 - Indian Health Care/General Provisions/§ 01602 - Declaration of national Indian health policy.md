@@ -32,5 +32,5 @@ Amendment by Pub. L. 111–148 is based on section 103 of title I of S. 1790, On
 
 <b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to declaration of health objectives.
 
-<b>1992</b>—Pub. L. 102–573 amended section generally. Prior to amendment, section read as follows: "The Congress hereby declares that it is the policy of this Nation, infulfillment of its special responsibilities and legal obligation to the American Indian people, to meet the national goal of providing the highest possible health status to Indians and to provide existing Indian health services with all resources necessary to effect that policy."
+<b>1992</b>—Pub. L. 102–573 amended section generally. Prior to amendment, section read as follows: "The Congress hereby declares that it is the policy of this Nation, in fulfillment of its special responsibilities and legal obligation to the American Indian people, to meet the national goal of providing the highest possible health status to Indians and to provide existing Indian health services with all resources necessary to effect that policy."
 

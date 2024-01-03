@@ -14,7 +14,7 @@ Each plan developed pursuant to this section shall, consistent with section 7201
 
 #### Codification
 
-Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
+Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987, and notas part of the Foreign Service Act of 1980 which comprises this chapter.
 
 #### Amendments
 
@@ -52,7 +52,7 @@ Findings.—The Congress finds that the Department of State and other Foreign Se
 
 &emsp;"(1) to recruit and retain members of minority groups in order to increase significantly the number of members of minority groups in the Foreign Service; and
 
-&emsp;"(2) to provide adequate career advancement for women and members of minority groups in order to increase significantly the numbers of women andmembers of minority groups in the senior levels of the Foreign Service.
+&emsp;"(2) to provide adequate career advancement for women and members of minority groups in order to increase significantly the numbers of women and members of minority groups in the senior levels of the Foreign Service.
 
 "(b)
 

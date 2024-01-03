@@ -16,11 +16,11 @@
 
 #### (II) Provision of information
 
-&emsp;&emsp;&emsp;&emsp;The bank account or payee information required under subclause (I) may be provided by the seller in the following ways:
+&emsp;&emsp;&emsp;&emsp;The bank account or payee information required under subclause (I) may beprovided by the seller in the following ways:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) To the online marketplace.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) To a payment processor or other third party contracted by the online marketplace to maintain such information, provided that the online marketplace ensures that it can obtainsuch information within 3 business days from such payment processor or other third party.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) To a payment processor or other third party contracted by the online marketplace to maintain such information, provided that the online marketplace ensures that it can obtain such information within 3 business days from such payment processor or other third party.
 
 #### (ii) Contact information
 

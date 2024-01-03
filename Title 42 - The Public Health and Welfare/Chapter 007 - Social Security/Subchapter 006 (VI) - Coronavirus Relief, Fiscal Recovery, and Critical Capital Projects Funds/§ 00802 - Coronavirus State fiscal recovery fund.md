@@ -78,7 +78,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the amounts allocated under section 803 of this title to the State (for distribution by the State to nonentitlement units of local government in the State) and to metropolitan cities and counties in the State;
 
-&emsp;&emsp;&nbsp;&nbsp;shall not be less than the amount allocated to the State or District of Columbia for fiscal year 2020 under section 801 of this title, including any amount paid directly to a unit of local government in the State under such section.
+&emsp;&emsp;&nbsp;&nbsp;shall not be less than the amount allocated to the State or District of Columbia for fiscal year 2020 under section 801 of this title, including any amount paid directlyto a unit of local government in the State under such section.
 
 #### (II) Pro rata adjustment
 
@@ -134,7 +134,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 &emsp;&emsp;(C) for the provision of government services up to an amount equal to the greater of—
 
-&emsp;&emsp;&emsp;(i) the amount of the reduction in revenue of such State, territory, or Tribalgovernment due to the COVID–19 public health emergency relative to revenues collected in the most recent full fiscal year of the State, territory, or Tribal government prior to the emergency; or
+&emsp;&emsp;&emsp;(i) the amount of the reduction in revenue of such State, territory, or Tribal government due to the COVID–19 public health emergency relative to revenues collected in the most recent full fiscal year of the State, territory, or Tribal government prior to the emergency; or
 
 &emsp;&emsp;&emsp;(ii) $10,000,000;
 
@@ -386,7 +386,7 @@ Pub. L. 117–328, div. LL, §102(c), Dec. 29, 2022, 136 Stat. 6103, provided th
 
 "(1)
 
-Guidance or rule.—Within 60 days of the date of enactment of this Act \[Dec. 29, 2022\], the Secretary of the Treasury, in consultation with the Secretary of Transportation, shall issue guidance or promulgate a rule to carry out the amendments made by this section \[amending this section, section 803 of this title, and sections 9042 and 9072 of Title 15, Commerce and Trade\], including updating reporting requirements on the use of funds under this section.
+Guidance or rule.—Within 60 days of the date of enactment of this Act \[Dec. 29, 2022\], the Secretary of the Treasury, in consultation with the Secretary ofTransportation, shall issue guidance or promulgate a rule to carry out the amendments made by this section \[amending this section, section 803 of this title, and sections 9042 and 9072 of Title 15, Commerce and Trade\], including updating reporting requirements on the use of funds under this section.
 
 "(2)
 

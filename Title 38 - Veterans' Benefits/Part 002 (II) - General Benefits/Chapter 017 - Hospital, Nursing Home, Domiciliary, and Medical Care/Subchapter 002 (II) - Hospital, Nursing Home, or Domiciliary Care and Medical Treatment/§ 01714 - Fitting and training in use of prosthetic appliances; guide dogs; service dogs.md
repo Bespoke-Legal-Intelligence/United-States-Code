@@ -28,7 +28,7 @@
 
 &emsp;(C) meets such other requirements as the Secretary may prescribe.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §614; Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181; Pub. L. 94–581, title II, §210(a)(5), Oct. 21, 1976, 90 Stat. 2862; Pub. L. 96–151, title II, §201(c), Dec. 20, 1979, 93 Stat. 1093; renumbered §1714 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406;Pub. L. 107–135, title II, §201(a), (b)(1), Jan. 23, 2002, 115 Stat. 2456, 2457; Pub. L. 111–117, div. E, title II, §229, Dec. 16, 2009, 123 Stat. 3307; Pub. L. 116–315, title V, §5108(a), Jan. 5, 2021, 134 Stat. 5032; Pub. L. 117–37, §3(a), Aug. 25, 2021, 135 Stat. 331.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §614; Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181; Pub. L. 94–581, title II, §210(a)(5), Oct. 21, 1976, 90 Stat. 2862; Pub. L. 96–151, title II, §201(c), Dec. 20, 1979, 93 Stat. 1093; renumbered §1714 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–135, title II, §201(a), (b)(1), Jan. 23, 2002, 115 Stat. 2456, 2457; Pub. L. 111–117, div. E, title II, §229, Dec. 16, 2009, 123 Stat. 3307; Pub. L. 116–315, title V, §5108(a), Jan. 5, 2021, 134 Stat. 5032; Pub. L. 117–37, §3(a), Aug. 25, 2021, 135 Stat. 331.)
 
 #### <b>Editorial Notes</b>
 
@@ -48,7 +48,7 @@ Subsecs. (e), (f). Pub. L. 117–37 added subsecs. (e) and (f).
 
 <b>2002</b>—Pub. L. 107–135, §201(b)(1), substituted "guide dogs; service dogs" for "seeing-eye dogs" in section catchline.
 
-Subsec. (b). Pub. L. 107–135, §201(a)(1), struck out "seeing-eye or" after "may provide", substituted "who are enrolled under section 1705 of this title" for "who are entitled to disability compensation, and may pay travel and incidental expenses (under the terms and conditions set forth in section 111 of this title) to and from their homes and incurred in becoming adjusted to such seeing-eye or guide dogs", and substituted "disability" for "handicap".
+Subsec. (b). Pub. L. 107–135, §201(a)(1), struck out "seeing-eye or" after "may provide", substituted "who are enrolled under section 1705 of this title" for "who are entitled to disability compensation, and may pay travel and incidental expenses (under the terms and conditions set forth in section 111 of this title) to andfrom their homes and incurred in becoming adjusted to such seeing-eye or guide dogs", and substituted "disability" for "handicap".
 
 Subsecs. (c), (d). Pub. L. 107–135, §201(a)(2), added subsecs. (c) and (d).
 

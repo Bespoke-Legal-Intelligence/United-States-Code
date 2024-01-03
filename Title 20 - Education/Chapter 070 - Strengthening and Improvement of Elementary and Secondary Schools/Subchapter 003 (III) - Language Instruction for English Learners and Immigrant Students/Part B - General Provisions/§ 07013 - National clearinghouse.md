@@ -12,7 +12,7 @@ The Secretary shall establish and support the operation of a National Clearingho
 
 &emsp;(4) collect and disseminate information on—
 
-&emsp;&emsp;(A) educational research and processes related to the education of English learners,including English learners with a disability, that includes information on best practices on instructing and serving English learners; and
+&emsp;&emsp;(A) educational research and processes related to the education of English learners, including English learners with a disability, that includes information on best practices on instructing and serving English learners; and
 
 &emsp;&emsp;(B) accountability systems that monitor the academic progress of English learners in language instruction educational programs, including information on academic content and English proficiency assessments for language instruction educational programs; and
 
@@ -36,7 +36,7 @@ Another prior section 3202 of Pub. L. 89–10 was classified to section 6892 of 
 
 <b>2015</b>—Pub. L. 114–95, §3004(b)(1), designated existing provisions as subsec. (a) and substituted "English learners" for "limited English proficient children" in introductory provisions.
 
-Subsec. (a)(4)(A). Pub. L. 114–95, §3004(b)(2)(A), substituted "English learners, including English learners with a disability, that includes information on best practices on instructing and serving English learners" for "limited English proficient children".
+Subsec. (a)(4)(A). Pub. L. 114–95, §3004(b)(2)(A), substituted "English learners, including English learnerswith a disability, that includes information on best practices on instructing and serving English learners" for "limited English proficient children".
 
 Subsec. (a)(4)(B). Pub. L. 114–95, §3004(b)(2)(B), substituted "English learners" for "limited English proficient children".
 

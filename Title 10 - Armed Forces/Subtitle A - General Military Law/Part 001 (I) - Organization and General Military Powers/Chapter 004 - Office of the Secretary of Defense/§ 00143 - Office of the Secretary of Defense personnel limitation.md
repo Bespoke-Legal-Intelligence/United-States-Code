@@ -2,7 +2,7 @@
 
 (a)
 
-Permanent Limi tation on OSD Personnel.—The number of OSD personnel may not exceed 4,300.
+Permanent Limitation on OSD Personnel.—The number of OSD personnel may not exceed 4,300.
 
 (b) OSD
 

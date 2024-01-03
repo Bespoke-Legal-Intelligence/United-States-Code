@@ -76,7 +76,7 @@ In order to receive any grant, loan, or work assistance under this subchapter, a
 
 #### (1) Student eligibility
 
-&emsp;In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, D, and E of this subchapter, the student shall meet the requirements of one of the following subparagraphs:
+&emsp;In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognizedequivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, D, and E of this subchapter, the student shall meet the requirements of one of the following subparagraphs:
 
 &emsp;&emsp;(A) The student is enrolled in an eligible career pathway program and meets one of the following standards:
 
@@ -130,7 +130,7 @@ Each eligible institution may certify student eligibility for a loan by an eligi
 
 #### (2) Special rule
 
-&emsp;The documents collected and maintained by an eligible institution in the admission of a student to the institution may be used by the student in lieu of the documents used to establish both employment authorization and identity under section 1324a(b)(1)(B) of title 8 to verify eligibility to participate in work-study programs under part C of this subchapter.
+&emsp;The documents collected and maintained by an eligible institution in the admission of a student to the institution may be used by the student in lieu of the documents used to establish both employment authorization and identity under section 1324a(b)(1)(B) of title 8 toverify eligibility to participate in work-study programs under part C of this subchapter.
 
 #### (3) Verification mechanisms
 
@@ -202,7 +202,7 @@ A student shall not be eligible to receive grant, loan, or work assistance under
 
 #### (3) Special rule
 
-&emsp;For award years beginning prior to July 1, 2008, the Secretary shall not take any compliance, disallowance, penalty, or other action based on a violation of this subsection against a student or an eligible institution when such action arises out of such institution's prior award of student assistance under this subchapter if the institution demonstrates to the satisfaction of the Secretary that its course of instruction would have been in conformance with the requirements of this subsection.
+&emsp;For award years beginning prior to July 1, 2008, the Secretary shall not take any compliance, disallowance, penalty, or other action based on a violation of this subsection against a student or an eligible institution when such action arises out of such institution's prioraward of student assistance under this subchapter if the institution demonstrates to the satisfaction of the Secretary that its course of instruction would have been in conformance with the requirements of this subsection.
 
 #### (m) Students with a first baccalaureate or professional degree
 
@@ -313,7 +313,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;The Secretary shall prepare and submit to the authorizing committees, in each fiscal year, a report describing the results obtained by the establishment and operation of the data system authorized by this subsection.
 
-(Pub. L. 89–329, title IV, §484, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1479; amended Pub. L. 99–603, title I, §121(a)(3), Nov. 6, 1986, 100 Stat. 3388; Pub. L. 100–50, §15(7)–(9), June 3, 1987, 101 Stat. 356, 357; Pub. L. 100–369, §§1, 2, 6, July 18, 1988, 102 Stat. 835, 836; Pub. L. 100–525, §2(g), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–508, title III, §3005(a), Nov. 5, 1990, 104 Stat. 1388–27; Pub. L. 102–26, §2(b), (c)(2), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–73, title VIII, §801(a), July 25, 1991, 105 Stat. 359; Pub. L. 102–325, title IV, §484(a), (b)(1), (c)–(h), July 23, 1992, 106 Stat. 615–619; Pub. L. 103–208, §2(h)(13)–(25), Dec. 20, 1993, 107 Stat. 2476, 2477; Pub. L. 103–382, title III, §360A, Oct. 20, 1994, 108 Stat. 3969; Pub. L. 104–208, div. C, title V, §507(b), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–244, title IV, §483(a)–(f)(1), Oct. 7, 1998, 112 Stat. 1735, 1736; Pub. L. 109–171, title VIII, §§8020(c), 8021, Feb. 8, 2006, 120 Stat. 178; Pub. L. 109–270, §2(c)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title IV, §485(a), Aug. 14, 2008, 122Stat. 3287; Pub. L. 111–39, title IV, §407(b)(4), July 1, 2009, 123 Stat. 1950; Pub. L. 112–74, div. F, title III, §309(c)(1), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–235, div. G, title III, §309(a)(1), Dec. 16, 2014, 128 Stat. 2504; Pub. L. 114–113, div. H, title III, §313(1), Dec. 18, 2015, 129 Stat. 2638; Pub. L. 116–91, §6(b), Dec. 19, 2019, 133 Stat. 1196; Pub. L. 116–260, div. FF, title VII, §702(n)(1)(A), Dec. 27, 2020, 134 Stat. 3182.)
+(Pub. L. 89–329, title IV, §484, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1479; amended Pub. L. 99–603, title I, §121(a)(3), Nov. 6, 1986, 100 Stat. 3388; Pub. L. 100–50, §15(7)–(9), June 3, 1987, 101 Stat. 356, 357; Pub. L. 100–369, §§1, 2, 6, July 18, 1988, 102 Stat. 835, 836; Pub. L. 100–525, §2(g), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–508, title III, §3005(a), Nov. 5, 1990, 104 Stat. 1388–27; Pub. L. 102–26, §2(b), (c)(2), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–73, title VIII, §801(a), July 25, 1991, 105 Stat. 359; Pub. L. 102–325, title IV, §484(a), (b)(1), (c)–(h), July 23, 1992, 106 Stat. 615–619; Pub. L. 103–208, §2(h)(13)–(25), Dec. 20, 1993, 107 Stat. 2476, 2477; Pub. L. 103–382, title III, §360A, Oct. 20, 1994, 108 Stat. 3969; Pub. L. 104–208, div. C, title V, §507(b), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–244, title IV, §483(a)–(f)(1), Oct. 7, 1998, 112 Stat. 1735, 1736; Pub. L. 109–171, title VIII, §§8020(c), 8021, Feb. 8, 2006, 120 Stat. 178; Pub. L. 109–270, §2(c)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title IV, §485(a), Aug. 14, 2008, 122 Stat. 3287; Pub. L. 111–39, title IV, §407(b)(4), July 1, 2009, 123 Stat. 1950; Pub. L. 112–74, div. F, title III, §309(c)(1), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–235, div. G, title III, §309(a)(1), Dec. 16, 2014, 128 Stat. 2504; Pub. L. 114–113, div. H, title III, §313(1), Dec. 18, 2015, 129 Stat. 2638; Pub. L. 116–91, §6(b), Dec. 19, 2019, 133 Stat. 1196; Pub. L. 116–260, div. FF, title VII, §702(n)(1)(A), Dec. 27, 2020, 134 Stat. 3182.)
 
 #### Amendment of Section
 
@@ -383,7 +383,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;&emsp;&emsp;<i>"(vi) satisfies any applicable educational requirements for professional licensure or certification, including licensure or certification examinations needed to practice or find employment in the sectors or occupations for which the program prepares the individual, in the State in which the correctional facility is located or, in the case of a Federal correctional facility, in the State in which most of the individuals confined or incarcerated in such facility will reside upon release; and</i>
 
-&emsp;&emsp;&emsp;<i>"(vii) does not offer education that is designed to lead to licensure or employment for a specific job or occupation in the State if such job or occupation typically involves prohibitions on the licensure or employment of formerly incarcerated individuals in the State in which the correctional facility is located,</i><i>or, in the case of a Federal correctional facility, in the State in which most of the individuals confined or incarcerated in such facility will reside upon release.</i>
+&emsp;&emsp;&emsp;<i>"(vii) does not offer education that is designed to lead to licensure or employment for a specific job or occupation in the State if such job or occupation typically involves prohibitions on the licensure or employment of formerly incarcerated individuals in the State in which the correctional facility is located, or, in the case of a Federal correctional facility, in the State in which most of the individuals confined or incarcerated in such facility will reside upon release.</i>
 
 #### <i>"(2) Technical assistance</i>
 
@@ -397,7 +397,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 #### <i>"(A) In general</i>
 
-&emsp;&emsp;<i>"Not later than 1 year after December 27, 2020, in order to evaluate and improve the impact of activities supported under this subsection, the Secretary, in partnership with the Director of the Institute of Education Sciences, shall award 1 or more grants or contracts to, or enter into cooperative agreements with, experienced public and private institutions and organizations to enable the institutions and organizations to conduct an external evaluation that shall—</i>
+&emsp;&emsp;<i>"Not later than 1 year after December 27, 2020, in order to evaluate and improve the impact of activities supported under this subsection, the Secretary, in partnership with the Director of the Institute of Education Sciences,</i><i>shall award 1 or more grants or contracts to, or enter into cooperative agreements with, experienced public and private institutions and organizations to enable the institutions and organizations to conduct an external evaluation that shall—</i>
 
 &emsp;&emsp;&emsp;<i>"(i) assess the ability of confined or incarcerated individuals to access and complete the Free Application for Federal Student Aid;</i>
 
@@ -475,7 +475,7 @@ Subsection (h), referred to in subsec. (i), was redesignated subsec. (g) of this
 
 #### Prior Provisions
 
-A prior section 1091, Pub. L. 89–329, title IV, §484, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1448; Pub. L. 99–272, title XVI, §16032(a), (b), Apr. 7, 1986, 100 Stat. 354, related to student eligibility for assistance, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1091, Pub. L. 89–329, title IV, §484, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94Stat. 1448; Pub. L. 99–272, title XVI, §16032(a), (b), Apr. 7, 1986, 100 Stat. 354, related to student eligibility for assistance, prior to the general revision of this part by Pub. L. 99–498.
 
 Another prior section 1091, Pub. L. 89–329, title V, §501, Nov. 8, 1965, 79 Stat. 1254; Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 82; Pub. L. 92–318, title I, §141(b)(1), June 23, 1972, 86 Stat. 285, set forth statement of purpose and authorization of appropriations for education professions development program, prior to repeal effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
@@ -533,7 +533,7 @@ Subsec. (l)(1)(B). Pub. L. 109–171, §8020(c)(2), amended heading and text of 
 
 &emsp;"(i) that is not an institute or school described in section 2471(4)(C) of this title; and
 
-&emsp;"(ii) for which at least 50 percent of the programs of study offered by the institution lead to the awardof a recognized associate, baccalaureate, or graduate degree."
+&emsp;"(ii) for which at least 50 percent of the programs of study offered by the institution lead to the award of a recognized associate, baccalaureate, or graduate degree."
 
 Subsec. (l)(1)(B)(i). Pub. L. 109–270, which directed substitution of reference to section 2302(C) of this title for reference to section 2471(4)(C) of this title in cl. (i), could not be executed due to general amendment of subpar. (B) by Pub. L. 109–171. See above.
 
@@ -541,7 +541,7 @@ Subsec. (q)(1). Pub. L. 109–171, §8021(b), amended heading and text of par. (
 
 Subsec. (r)(1). Pub. L. 109–171, §8021(c), amended heading and text of introductory provisions generally. Prior to amendment, text of introductory provisions read as follows: "A student who has been convicted of any offense under any Federal or State law involving the possession or sale of a controlled substance shall not be eligible to receive any grant, loan, or work assistance under this subchapter during the period beginning on the date of such conviction and ending after the interval specified in the following table:".
 
-<b>1998</b>—Subsec. (a)(4). Pub. L. 105–244, §483(a)(1), substituted "the Secretary, as part of the original financial aid application process, a certification," for "the institution of higher education which the student intends to attend, or is attending (or in the case of a loan or loan guarantee with the lender), a document" in introductory provisions.
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–244, §483(a)(1), substituted "the Secretary, as part of the original financial aid application process, a certification," for "the institution of higher education which the student intends to attend, or is attending (or in the case of a loanor loan guarantee with the lender), a document" in introductory provisions.
 
 Subsec. (a)(5). Pub. L. 105–244, §483(a)(2), substituted "a citizen of any one of the Freely Associated States" for "or a permanent resident of the Trust Territory of the Pacific Islands, Guam, or the Northern Mariana Islands".
 
@@ -609,7 +609,7 @@ Subsec. (b)(4). Pub. L. 102–325, §484(b)(1)(A), substituted "part B, D, or E 
 
 Subsec. (b)(5). Pub. L. 102–325, §484(b)(1)(B), added par. (5).
 
-Subsec. (d). Pub. L. 102–325, §484(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 2, and 3 of part A and parts B, C, D, and E of this subchapter, the student shall pass an independently administered examination approved by the Secretary."
+Subsec. (d). Pub. L. 102–325, §484(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of suchcertificate, to be eligible for any assistance under subparts 1, 2, and 3 of part A and parts B, C, D, and E of this subchapter, the student shall pass an independently administered examination approved by the Secretary."
 
 Subsec. (f). Pub. L. 102–325, §484(d), inserted at end "Nothing in this subsection shall preclude the Secretary from verifying all applications for aid through the use of any means available, including through the exchange of information with any other Federal agency."
 
@@ -685,7 +685,7 @@ Pub. L. 113–235, div. G, title III, §309(a)(2), Dec. 16, 2014, 128 Stat. 2506
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–74, div. F, title III, §309(c)(2), Dec. 23, 2011, 125 Stat. 1100, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to students who first enroll in a program of study on or after July 1, 2012."
+Pub. L. 112–74, div. F, title III, §309(c)(2), Dec. 23, 2011, 125 Stat. 1100, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to students who first enroll in a program of study on or after July 1, 2012."
 
 Amendment by Pub. L. 112–74 effective July 1, 2012, see section 309(g) of Pub. L. 112–74, set out as a note under section 1001 of this title.
 

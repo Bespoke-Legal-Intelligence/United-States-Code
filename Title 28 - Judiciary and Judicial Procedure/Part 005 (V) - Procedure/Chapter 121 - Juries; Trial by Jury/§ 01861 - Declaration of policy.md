@@ -26,11 +26,11 @@ Pub. L. 85–315 substituted "and who has resided for a period of one year withi
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–274, §104, Mar. 27, 1968, 82 Stat. 63, provided that: "This Act \[amending this section and sections 1821, 1862 to 1869, and 1871 of this title, repealing section 867 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section\]shall become effective two hundred and seventy days after the date of enactment \[Mar. 27, 1968\]: <i>Provided</i>, That this Act shall not apply in any case in which an indictment has been returned or petit jury empaneled prior to such effective date."
+Pub. L. 90–274, §104, Mar. 27, 1968, 82 Stat. 63, provided that: "This Act \[amending this section and sections 1821, 1862 to 1869, and 1871 of this title, repealing section 867 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section\] shall become effective two hundred and seventy days after the date of enactment \[Mar. 27, 1968\]: <i>Provided</i>, That this Act shall not apply in any case in which an indictment has been returned or petit jury empaneled prior to such effective date."
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–572, §1, Nov. 2, 1978, 92 Stat. 2453, provided that: "This Act \[enacting sections 1363 and 1875 of this title, amending sections 1863, 1865, 1866, 1869, and 1871 of this title, renumbering section 1363 (relating to construction of references to laws of the United States or Acts of Congress) as section 1364 of this title, and enacting provisions set out as a note under section 1363 of this title\] may be cited as the 'Jury System Improvements Act of 1978'."
+Pub. L. 95–572, §1, Nov. 2, 1978, 92 Stat. 2453, provided that: "This Act \[enacting sections 1363 and 1875 of this title, amending sections 1863, 1865, 1866, 1869, and 1871 of this title, renumbering section 1363 (relating to construction of references to laws of the United States orActs of Congress) as section 1364 of this title, and enacting provisions set out as a note under section 1363 of this title\] may be cited as the 'Jury System Improvements Act of 1978'."
 
 #### Short Title
 

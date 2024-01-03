@@ -2,7 +2,7 @@
 
 (a)
 
-Program Elements Specified by President.—In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31), the amount requested for activities of the Missile Defense Agency shall be set forth in accordance with such program elements as the President may specify.
+Program Elements Specified by President.—In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year (as submitted with the budget of the President undersection 1105(a) of title 31), the amount requested for activities of the Missile Defense Agency shall be set forth in accordance with such program elements as the President may specify.
 
 (b)
 
@@ -124,7 +124,7 @@ Availability of RDT\&E Funds for Fiscal Year 2009.—Upon approval by the Secret
 
 &emsp;&emsp;"(A) military construction activities; or
 
-&emsp;&emsp;"(B) procurement or advance procurement of long lead items, including for Terminal High Altitude Area Defense firing units 3 and 4, and for Standard Missile-3 Block 1A interceptors.
+&emsp;&emsp;"(B) procurement or advance procurement of long lead items, including for Terminal High AltitudeArea Defense firing units 3 and 4, and for Standard Missile-3 Block 1A interceptors.
 
 "(d)
 

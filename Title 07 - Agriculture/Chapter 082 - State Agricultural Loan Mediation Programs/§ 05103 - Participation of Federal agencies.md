@@ -34,7 +34,7 @@ The Farm Credit Administration shall prescribe rules requiring the institutions 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–354, §282(b)(2), in introductory provisions inserted "or agency" after "each program" and struck out "that makes, guarantees, or insures agricultural loans" after "of the Secretary".
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–354, §282(b)(2), in introductory provisions inserted "or agency" after "eachprogram" and struck out "that makes, guarantees, or insures agricultural loans" after "of the Secretary".
 
 Subsec. (a)(1)(A). Pub. L. 103–354, §282(b)(1), (3), inserted "or agency" after "such program", struck out "agricultural loan" after "any State", and inserted "certified under section 5101 of this title" after "mediation program".
 

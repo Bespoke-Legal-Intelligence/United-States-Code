@@ -1,6 +1,6 @@
 ### §1011b. Territorial waiver authority
 
-The Secretary is required to waive the eligibility criteria of any postsecondary education program administered by the Department where such criteria do not take into account the unique circumstances in Guam, the United States Virgin Islands, American Samoa, theCommonwealth of the Northern Mariana Islands, and the Freely Associated States.
+The Secretary is required to waive the eligibility criteria of any postsecondary education program administered by the Department where such criteria do not take into account the unique circumstances in Guam, the United States Virgin Islands, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Freely Associated States.
 
 (Pub. L. 89–329, title I, §113, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1591; amended Pub. L. 110–315, title I, §105, Aug. 14, 2008, 122 Stat. 3090.)
 

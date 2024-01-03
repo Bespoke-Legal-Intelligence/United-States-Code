@@ -156,7 +156,7 @@ Other expenditures.—The Secretary shall, as part of the report required by par
 
 Annual reports.—Annually, beginning 1 year after transmittal of the report required by paragraph (1) until October 1, 2009, the Secretary shall transmit an unclassified annual report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure, on progress in achieving compliance with the correction of Coast Guard identified vulnerabilities in port security and compliance with Area Maritime Transportation Security Plans and facility security plans that—
 
-&emsp;&emsp;(A) identifies any modifications necessary in funding to ensure the correction of Coast Guard identified vulnerabilities and ensurecompliance with Area Maritime Transportation Security Plans and facility security plans;
+&emsp;&emsp;(A) identifies any modifications necessary in funding to ensure the correction of Coast Guard identified vulnerabilities and ensure compliance with Area Maritime Transportation Security Plans and facility security plans;
 
 &emsp;&emsp;(B) includes an assessment of progress in implementing the grant program established by subsection (a);
 

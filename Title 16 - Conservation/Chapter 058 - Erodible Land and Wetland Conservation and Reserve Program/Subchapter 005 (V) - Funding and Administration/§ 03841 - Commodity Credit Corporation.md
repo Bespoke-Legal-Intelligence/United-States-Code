@@ -8,7 +8,7 @@ For each of fiscal years 2014 through 2031, the Secretary shall use the funds, f
 
 &emsp;&emsp;(A) $12,000,000 for the period of fiscal years 2019 through 2023 to provide payments under section 3834(c) of this title; and
 
-&emsp;&emsp;(B) $50,000,000 for the period of fiscal years 2019 through 2023, including not more than $5,000,000 to provide outreach and technical assistance, to carry out section 3835(f) of this title to facilitate the transfer of land subject to contracts from contract holders to covered farmers or ranchers, as defined in section 3835(f)(1) of this title.
+&emsp;&emsp;(B) $50,000,000 for the period of fiscal years 2019 through 2023, including not more than$5,000,000 to provide outreach and technical assistance, to carry out section 3835(f) of this title to facilitate the transfer of land subject to contracts from contract holders to covered farmers or ranchers, as defined in section 3835(f)(1) of this title.
 
 &emsp;(2) The agricultural conservation easement program under subchapter VII using to the maximum extent practicable—
 
@@ -100,7 +100,7 @@ Amounts made available by subsection (a) for fiscal years 2014 through 2031 shal
 
 #### (d) Relationship to other law
 
-The use of Commodity Credit Corporation funds under subsection (c) to provide technical assistance shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by section 714i of title 15.
+The use of Commodity Credit Corporation funds under subsection (c) to provide technical assistance shall not be considered an allotmentor fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by section 714i of title 15.
 
 #### (e) Regional equity
 
@@ -112,7 +112,7 @@ The use of Commodity Credit Corporation funds under subsection (c) to provide te
 
 &emsp;In determining the specific funding allocations under paragraph (1), the Secretary shall—
 
-&emsp;&emsp;(A) ensure that during the first quarter of each fiscal year each State has the opportunity to establish that the State can use an aggregate allocation amount of at least 0.6percent of the funds made available for those conservation programs; and
+&emsp;&emsp;(A) ensure that during the first quarter of each fiscal year each State has the opportunity to establish that the State can use an aggregate allocation amount of at least 0.6 percent of the funds made available for those conservation programs; and
 
 &emsp;&emsp;(B) for each State that can so establish, provide an aggregate amount of at least 0.6 percent of the funds made available for those conservation programs.
 
@@ -342,7 +342,7 @@ The Soil Conservation and Domestic Allotment Act, referred to in subsec. (c)(2)(
 
 Public Law 117–169, referred to in subsec. (f)(4)(C), is Pub. L. 117–169, Aug. 16, 2022, 136 Stat. 1818, popularly known as the Inflation Reduction Act of 2022. For complete classification of this Act to the Code, see Tables.
 
-Subchapter IV (except for subpart B of such subchapter), referred to in subsec. (f)(9)(A), was in the original "subtitle D (except for subchapter B of such subtitle)". Subtitle D of title XII of Pub. L. 99–198 contains two chapters with a subchapter B. Subchapter B of chapter 1 of subtitle D is classified to subpart B (§3831 et seq.) of part I of subchapter IV of this chapter, and subchapter B of chapter 4 of subtitle D is classified to subpart B (§3839aa–21 et seq.) of part IV of subchapter IV of this chapter.
+Subchapter IV (except for subpart B of such subchapter), referred to in subsec. (f)(9)(A), was in theoriginal "subtitle D (except for subchapter B of such subtitle)". Subtitle D of title XII of Pub. L. 99–198 contains two chapters with a subchapter B. Subchapter B of chapter 1 of subtitle D is classified to subpart B (§3831 et seq.) of part I of subchapter IV of this chapter, and subchapter B of chapter 4 of subtitle D is classified to subpart B (§3839aa–21 et seq.) of part IV of subchapter IV of this chapter.
 
 The Healthy Forests Restoration Act of 2003, referred to in subsec. (f)(9)(C), is Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887. Title V of the Act is classified generally to subchapter V (§6571 et seq.) of chapter 84 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
@@ -352,7 +352,7 @@ Section 2279(e) of title 7, referred to in subsec. (h)(4), was redesignated sect
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section 2701 of Pub. L. 107–171, which directed that subtitle E of the Food Security Act of 1985 be amended by striking section 1241 and adding a new section 1241 (this section), was executed by striking section 1241 of subtitle E of title XII of the Food Security Act of 1985 and adding the new section 1241 in lieu thereof, to reflect the probable intent of Congress.
 
@@ -542,7 +542,7 @@ Subsec. (g). Pub. L. 110–246, §2704, added subsec. (g).
 
 Subsec. (h). Pub. L. 110–246, §2705, added subsec. (h).
 
-<b>2006</b>—Subsec. (a)(3). Pub. L. 109–171, §1202(b), substituted a dash for "$6,037,000,000 for the period of fiscal years 2005 through 2014." and added subpars. (A) and (B).
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–171, §1202(b), substituted a dash for "$6,037,000,000 for the period of fiscalyears 2005 through 2014." and added subpars. (A) and (B).
 
 Subsec. (a)(6)(E), (F). Pub. L. 109–171, §1203(c), added subpars. (E) and (F) and struck out former subpar. (E) which read as follows: "$1,300,000,000 in fiscal year 2007."
 
@@ -558,7 +558,7 @@ Subsec. (b). Pub. L. 108–11 added subsec. (b) and struck out heading and text 
 
 "(1)
 
-February 20, 2003, through september 30, 2003.—During the period beginning on February 20, 2003, and ending on September 30, 2003, Commodity Credit Corporation funds made available under paragraphs (4) through (7) of subsection (a) of this section shall beavailable for the provision of technical assistance (subject to section 3842 of this title) for the conservation programs specified in subsection (a) of this section.
+February 20, 2003, through september 30, 2003.—During the period beginning on February 20, 2003, and ending on September 30, 2003, Commodity Credit Corporation funds made available under paragraphs (4) through (7) of subsection (a) of this section shall be available for the provision of technical assistance (subject to section 3842 of this title) for the conservation programs specified in subsection (a) of this section.
 
 "(2)
 

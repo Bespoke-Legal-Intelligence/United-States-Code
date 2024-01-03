@@ -38,7 +38,7 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), any loss or deduction which is disallowed forany taxable year by reason of paragraph (1) shall be treated as incurred by the corporation in the succeeding taxable year with respect to that shareholder.
+&emsp;&emsp;Except as provided in subparagraph (B), any loss or deduction which is disallowed for any taxable year by reason of paragraph (1) shall be treated as incurred by the corporation in the succeeding taxable year with respect to that shareholder.
 
 #### (B) Transfers of stock between spouses or incident to divorce
 
@@ -82,7 +82,7 @@ If an individual who is a member of the family (within the meaning of section 70
 
 #### (2) Treatment of tax imposed on built-in gains
 
-&emsp;If any tax is imposed under section 1374 for any taxable year on an S corporation, for purposes of subsection (a), the amount so imposed shall be treated as a loss sustained by the S corporation during such taxable year. The character of such loss shall be determined by allocating the loss proportionately among the recognized built-in gains giving rise to such tax.
+&emsp;If any tax is imposed under section 1374 for any taxable year on an S corporation, for purposes of subsection (a), the amount so imposed shall be treated as a loss sustained by the S corporation during such taxable year. The character of such loss shall be determined by allocating the loss proportionately among therecognized built-in gains giving rise to such tax.
 
 #### (3) Reduction in pass-thru for tax imposed on excess net passive income
 

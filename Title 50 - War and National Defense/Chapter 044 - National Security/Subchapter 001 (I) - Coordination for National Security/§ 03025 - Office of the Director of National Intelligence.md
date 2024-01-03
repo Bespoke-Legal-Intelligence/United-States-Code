@@ -76,7 +76,7 @@ Section was formerly classified to section 403–3 of this title prior to editor
 
 #### Prior Provisions
 
-A prior section 103 of act July 26, 1947, ch. 343, title I, as added Pub. L. 102–496, title VII, §705(a)(3), Oct. 24, 1992, 106 Stat. 3190; amended Pub. L. 103–178, title V, §502, Dec. 3, 1993, 107 Stat. 2038; Pub. L. 104–293, title VIII, §§806, 807(a), Oct. 11, 1996, 110 Stat. 3479, 3480; Pub. L. 107–56, title IX, §901, Oct. 26, 2001, 115 Stat. 387, related to responsibilities of Director of Central Intelligence, prior to repeal by Pub. L. 108–458, title I, §§1011(a), 1097(a), Dec. 17, 2004, 118 Stat. 3643, 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See sections 3024 and 3036 of this title.
+A prior section 103 of act July 26, 1947, ch. 343, title I, as added Pub. L. 102–496, title VII, §705(a)(3), Oct. 24,1992, 106 Stat. 3190; amended Pub. L. 103–178, title V, §502, Dec. 3, 1993, 107 Stat. 2038; Pub. L. 104–293, title VIII, §§806, 807(a), Oct. 11, 1996, 110 Stat. 3479, 3480; Pub. L. 107–56, title IX, §901, Oct. 26, 2001, 115 Stat. 387, related to responsibilities of Director of Central Intelligence, prior to repeal by Pub. L. 108–458, title I, §§1011(a), 1097(a), Dec. 17, 2004, 118 Stat. 3643, 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See sections 3024 and 3036 of this title.
 
 Another prior section 103 of act July 26, 1947, was renumbered section 107 and is classified to former section 3042 of this title.
 
@@ -103,6 +103,132 @@ Reference to the National Counter Proliferation Center deemed to be a reference 
 For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+
+#### Required Staffing Document for Office of Director of National Intelligence
+
+Pub. L. 118–31, div. G, title III, §7307(b), Dec. 22, 2023, 137 Stat. 1027, provided that:
+
+"(1)
+
+Requirement.—Not later than 120 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Director of National Intelligence shall establish, and thereafter shall update as necessary, a single document setting forth each position within the Office of the Director of National Intelligence, including any directorate, center, or office within such Office.
+
+"(2)
+
+Elements.—The document under paragraph (1) shall include, with respect to each position set forth in the document, the following:
+
+&emsp;"(A) A description of the position.
+
+&emsp;"(B) The directorate, center, office, or other component of the Office of the Director of National Intelligence within which the position is.
+
+&emsp;"(C) The element of the intelligence community designated to fill the position, if applicable.
+
+&emsp;"(D) The requisite type and level of skills for the position, including any special skills or certifications required.
+
+&emsp;"(E) The requisite security clearance level for the position.
+
+&emsp;"(F) The pay grade for the position.
+
+&emsp;"(G) Any special pay or incentive pay payable for the position.
+
+"(3)
+
+Integrated representation.—In establishing and filling the positions specified in paragraph (1), the Director of National Intelligence shall take such steps as may be necessary to ensure the integrated representation of officers and employees from the other elements of the intelligence community with respect to such positions."
+
+\[For definition of "intelligence community" as used in section 7307(b) of Pub. L. 118–31, set out above, see section 7002 of Pub. L. 118–31, set out as a note under section 3003 of this title.\]
+
+#### Intelligence Community Coordinator for Accountability of Atrocities of the People's Republic of China
+
+Pub. L. 118–31, div. G, title IV, §7401, Dec. 22, 2023, 137 Stat. 1068, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the congressional intelligence committees;
+
+&emsp;&emsp;"(B) the Committee on Foreign Relations, the Committee on the Judiciary, the Committee on Armed Services, and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;"(C) the Committee on Foreign Affairs, the Committee on the Judiciary, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives.
+
+&emsp;"(2)
+
+Atrocity of the people's republic of china.—The term 'atrocity of the People's Republic of China' means a crime against humanity, genocide, or a war crime committed by a foreign person who is—
+
+&emsp;&emsp;"(A) a member, official, or employee of the government of the People's Republic of China;
+
+&emsp;&emsp;"(B) a member, official, or employee of the Chinese Communist Party;
+
+&emsp;&emsp;"(C) a member of the armed forces, security, or other defense services of the People's Republic of China; or
+
+&emsp;&emsp;"(D) an agent or contractor of a person specified in subparagraph (A), (B), or (C).
+
+&emsp;"(3)
+
+Commit.—The term 'commit', with respect to an atrocity of the People's Republic of China, includes the planning, committing, aiding, and abetting of such atrocity of the People's Republic of China.
+
+&emsp;"(4)
+
+Foreign person.—The term 'foreign person' means—
+
+&emsp;&emsp;"(A) any person or entity that is not a United States person; or
+
+&emsp;&emsp;"(B) any entity not organized under the laws of the United States or of any jurisdiction within the United States.
+
+&emsp;"(5)
+
+Government of the people's republic of china.—The term 'government of the People's Republic of China' includes the regional governments of Xinjiang, Tibet, and Hong Kong.
+
+&emsp;"(6)
+
+United states person.—The term 'United States person' has the meaning given that term in section 105A(c) of the National Security Act of 1947 (50 U.S.C. 3039(c)).
+
+"(b)
+
+Intelligence Community Coordinator for Accountability of Atrocities of the People's Republic of China.—
+
+&emsp;"(1)
+
+Designation.—Not later than 30 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Director of National Intelligence shall designate a senior official of the Office of the Director of National Intelligence to serve as the intelligence community coordinator for accountability of atrocities of the People's Republic of China (in this section referred to as the 'Coordinator').
+
+&emsp;"(2)
+
+Duties.—The Coordinator shall oversee the efforts of the intelligence community relating to the following:
+
+&emsp;&emsp;"(A) Identifying and, as appropriate, disseminating within the United States Government, intelligence relating to atrocities of the People's Republic of China.
+
+&emsp;&emsp;"(B) Identifying analytic and other intelligence needs and priorities of the United States Government with respect to the commitment of atrocities of the People's Republic of China.
+
+&emsp;&emsp;"(C) Collaborating with appropriate counterparts across the intelligence community to ensure appropriate coordination on, and integration of the analysis of, the commitment of atrocities of the People's Republic of China.
+
+&emsp;&emsp;"(D) Ensuring that relevant departments and agencies of the United States Government receive appropriate support from the intelligence community with respect to the collection, analysis, preservation, and, as appropriate, downgrade and dissemination of intelligence products relating to the commitment of atrocities of the People's Republic of China.
+
+&emsp;"(3)
+
+Plan required.—Not later than 90 days after the date of the enactment of this Act, the Director of National Intelligence shall submit to the appropriate committees of Congress—
+
+&emsp;&emsp;"(A) the name of the official designated as the Coordinator pursuant to paragraph (1);
+
+&emsp;&emsp;"(B) the strategy of the intelligence community for the prioritization and integration of intelligence relating to atrocities of the People's Republic of China, including a detailed description of how the Coordinator shall support the implementation of such strategy; and
+
+&emsp;&emsp;"(C) the plan of the intelligence community to conduct a review of classified and unclassified intelligence reporting regarding atrocities of the People's Republic of China for downgrading, dissemination, and, as appropriate, public release.
+
+&emsp;"(4)
+
+Briefings to congress.—Not later than 120 days after the date of enactment of this Act, and not less frequently than quarterly thereafter, the Director of National Intelligence, acting through the Coordinator, shall brief the appropriate committees of Congress on—
+
+&emsp;&emsp;"(A) the analytical findings, changes in collection, and other activities of the intelligence community with respect to atrocities of the People's Republic of China; and
+
+&emsp;&emsp;"(B) the recipients of intelligence reporting shared pursuant to this section in the prior quarter, including for the purposes of ensuring that the public is informed about atrocities of the People's Republic of China and to support efforts by the United States Government to seek accountability for the atrocities of the People's Republic of China, and the date of any such sharing.
+
+"(c)
+
+Sunset.—This section shall cease to have effect on September 30, 2027."
+
+\[For definitions of "intelligence community" and "congressional intelligence committees" as used in section 7401 of Pub. L. 118–31, set out above, see section 7002 of Pub. L. 118–31, set out as a note under section 3003 of this title.\]
 
 #### Intelligence Community Coordinator for Russian Atrocities Accountability
 

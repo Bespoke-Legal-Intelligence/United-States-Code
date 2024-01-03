@@ -70,7 +70,7 @@ The following terms shall apply to the amounts made available under this section
 
 #### (B) Distribution
 
-&emsp;&emsp;The amounts made available for each set-aside in this paragraph shall be distributed to the sponsor of each primary airport (as such term is defined in section 47102 of title 49) based on each such primary airport's passenger enplanements compared to the total passenger enplanements of all such primary airports in calendar year 2019.
+&emsp;&emsp;The amounts made available for each set-aside in this paragraph shall be distributedto the sponsor of each primary airport (as such term is defined in section 47102 of title 49) based on each such primary airport's passenger enplanements compared to the total passenger enplanements of all such primary airports in calendar year 2019.
 
 #### (C) Conditions
 

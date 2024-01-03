@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(C) subtitle IV of title 49, by the Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board;
 
-&emsp;&emsp;(D) part A of subtitle VII of title 49, by the Secretary of Transportation, with respect to any air carrier or foreign air carrier subject to that part;
+&emsp;&emsp;(D) part A of subtitle VII of title 49, by the Secretary of Transportation, with respect toany air carrier or foreign air carrier subject to that part;
 
 &emsp;&emsp;(E) the Packers and Stockyards Act, 1921 (7 U.S.C. 181 et seq.) (except as provided in section 406 of that Act \[7 U.S.C. 226, 227\]), by the Secretary of Agriculture, with respect to any activities subject to that Act;
 
@@ -136,7 +136,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of i
 
 If the Bureau determines that a person described in paragraph (9) of section 1681s–2(a) of this title has not met the requirements of such paragraph, the Bureau shall take action to ensure the person's compliance with such paragraph, which may include issuing model guidance or prescribing reasonable policies and procedures, as necessary to ensure that such person complies with such paragraph.
 
-(Pub. L. 90–321, title VI, §621, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(l), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452; Pub. L. 105–347, §6(6), Nov. 2, 1998, 112Stat. 3211; Pub. L. 106–102, title V, §506(a), (b), Nov. 12, 1999, 113 Stat. 1441, 1442; Pub. L. 108–159, title I, §153, title III, §312(e)(2), title IV, §412(e), title VIII, §811(f), Dec. 4, 2003, 117 Stat. 1966, 1993, 2003, 2012; Pub. L. 111–203, title X, §1088(a)(2)(A)–(C), (10), July 21, 2010, 124 Stat. 2087, 2088.)
+(Pub. L. 90–321, title VI, §621, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(l), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452; Pub. L. 105–347, §6(6), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 106–102, title V, §506(a), (b), Nov. 12, 1999, 113 Stat. 1441, 1442; Pub. L. 108–159, title I, §153, title III, §312(e)(2), title IV, §412(e), title VIII, §811(f), Dec. 4, 2003, 117 Stat. 1966, 1993, 2003, 2012; Pub. L. 111–203, title X, §1088(a)(2)(A)–(C), (10), July 21, 2010, 124 Stat. 2087, 2088.)
 
 #### <b>Editorial Notes</b>
 
@@ -156,7 +156,7 @@ The Commodity Exchange Act, referred to in subsec. (b)(1)(F), is act Sept. 21, 1
 
 #### Codification
 
-In subsec. (b)(1)(D), "part A of subtitle VII of title 49" substituted for "the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.)" and "that part" substituted for "that Act" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
+In subsec. (b)(1)(D), "part A of subtitle VII of title 49" substituted for "the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.)" and "that part" substituted for "that Act" on authority of Pub. L. 103–272, §6(b),July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
 #### Amendments
 
@@ -210,7 +210,7 @@ Subsec. (e). Pub. L. 106–102, §506(a)(2), added subsec. (e) and struck out he
 
 Pub. L. 104–208, §2416(a), inserted "(1)" after "(a)" and added pars. (2) to (4).
 
-Subsec. (b). Pub. L. 104–208, §2416(b)(2), inserted heading and in introductory provisions substituted "Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies, persons who use consumer reports from such agencies,persons who furnish information to such agencies, and users of information that are subject to subsection (d) or (e) of section 1681m of this title shall be enforced under—" for "Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies and persons who use consumer reports from such agencies shall be enforced under—".
+Subsec. (b). Pub. L. 104–208, §2416(b)(2), inserted heading and in introductory provisions substituted "Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies, persons who use consumer reports from such agencies, persons who furnish information to such agencies, and users of information that are subject to subsection (d) or (e) of section 1681m of this title shall be enforced under—" for "Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies and persons who use consumer reports from such agencies shall be enforced under—".
 
 Subsec. (c). Pub. L. 104–208, §2417(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -232,7 +232,7 @@ Pub. L. 102–242, §212(c)(1), added par. (1) and struck out former par. (1) wh
 
 &emsp;"(B) member banks of the Federal Reserve System (other than national banks), by the Federal Reserve Board; and
 
-&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation."
+&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the FederalReserve System), by the Board of Directors of the Federal Deposit Insurance Corporation."
 
 <b>1989</b>—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 5(d) of the Home Owners Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;".
 

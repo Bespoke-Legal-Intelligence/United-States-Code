@@ -31,6 +31,7 @@
 | [3034\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003034%20-%20Chief%20Financial%20Officer%20of%20the%20Intelligence%20Community.md) | Chief Financial Officer of the Intelligence Community. |
 | [3034a.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003034a%20-%20Functional%20Managers%20for%20the%20intelligence%20community.md) | Functional Managers for the intelligence community. |
 | [3034b.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003034b%20-%20Intelligence%20Community%20Chief%20Data%20Officer.md) | Intelligence Community Chief Data Officer. |
+| [3034c.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003034c%20-%20Intelligence%20Community%20Innovation%20Unit.md) | Intelligence Community Innovation Unit. |
 | [3035\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003035%20-%20Central%20Intelligence%20Agency.md) | Central Intelligence Agency. |
 | [3036\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003036%20-%20Director%20of%20the%20Central%20Intelligence%20Agency.md) | Director of the Central Intelligence Agency. |
 | [3037\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003037%20-%20Deputy%20Director%20of%20the%20Central%20Intelligence%20Agency.md) | Deputy Director of the Central Intelligence Agency. |
@@ -50,7 +51,7 @@
 | [3047\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003047%20-%20Restrictions%20on%20intelligence%20sharing%20with%20United%20Nations.md) | Restrictions on intelligence sharing with United Nations. |
 | [3048\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003048%20-%20Detail%20of%20intelligence%20community%20personnel%E2%80%94Intelligence%20Community%20Assignment%20Program.md) | Detail of intelligence community personnel—Intelligence Community Assignment Program. |
 | [3049\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003049%20-%20Non-reimbursable%20detail%20of%20other%20personnel.md) | Non-reimbursable detail of other personnel. |
-| [3049a.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003049a%20-%20Special%20pay%20authority%20for%20science%2C%20technology%2C%20engineering%2C%20or%20mathematics%20positions.md) | Special pay authority for science, technology, engineering, or mathematics positions. |
+| [3049a.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003049a%20-%20Special%20pay%20authority%20for%20science%2C%20technology%2C%20engineering%2C%20or%20mathematics%20positions%20and%20positions%20requiring%20banking%20or%20financial%E2%80%A6.md) | Special pay authority for science, technology, engineering, or mathematics positions and positions requiring banking or financial services expertise. |
 | [3050\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003050%20-%20Annual%20report%20on%20hiring%20and%20retention%20of%20minority%20employees.md) | Annual report on hiring and retention of minority employees. |
 | [3051\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003051%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93259%2C%20title%20III%2C%20%C2%A7347%28c%29%2C%20Oct.%207%2C%202010%2C%20124%20Stat.%202698.md) | Repealed. |
 | [3052\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003052%20-%20Limitation%20on%20establishment%20or%20operation%20of%20diplomatic%20intelligence%20support%20centers.md) | Limitation on establishment or operation of diplomatic intelligence support centers. |
@@ -63,6 +64,7 @@
 | [3059\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003059%20-%20Foreign%20Malign%20Influence%20Center.md) | Foreign Malign Influence Center. |
 | [3060\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003060%20-%20Climate%20Security%20Advisory%20Council.md) | Climate Security Advisory Council. |
 | [3061\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003061%20-%20Counterintelligence%20and%20national%20security%20protections%20for%20intelligence%20community%20grant%20funding.md) | Counterintelligence and national security protections for intelligence community grant funding. |
+| [3062\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003062%20-%20Office%20of%20Engagement.md) | Office of Engagement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -114,6 +116,7 @@
 | [3112\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2003112%20-%20Annual%20reports%20on%20the%20domestic%20activities%20of%20the%20intelligence%20community.md) | Annual reports on the domestic activities of the intelligence community. |
 | [3113\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2003113%20-%20Unfunded%20priorities%20of%20the%20intelligence%20community%20annual%20report.md) | Unfunded priorities of the intelligence community: annual report. |
 | [3114\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2003114%20-%20Submission%20of%20covered%20documents%20and%20classified%20annexes.md) | Submission of covered documents and classified annexes. |
+| [3115\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2003115%20-%20Submission%20of%20legislative%20proposals.md) | Submission of legislative proposals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -224,6 +227,7 @@
 | [3233\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003233%20-%20Misuse%20of%20the%20Office%20of%20the%20Director%20of%20National%20Intelligence%20name%2C%20initials%2C%20or%20seal.md) | Misuse of the Office of the Director of National Intelligence name, initials, or seal. |
 | [3234\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003234%20-%20Prohibited%20personnel%20practices%20in%20the%20intelligence%20community.md) | Prohibited personnel practices in the intelligence community. |
 | [3235\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003235%20-%20Semiannual%20reports%20on%20investigations%20of%20unauthorized%20disclosures%20of%20classified%20information.md) | Semiannual reports on investigations of unauthorized disclosures of classified information. |
+| [3235a.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003235a%20-%20Notice%20and%20damage%20assessment%20with%20respect%20to%20significant%20unauthorized%20disclosure%20or%20compromise%20of%20classified%20national%20intelligence.md) | Notice and damage assessment with respect to significant unauthorized disclosure or compromise of classified national intelligence. |
 | [3236\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003236%20-%20Inspector%20General%20external%20review%20panel.md) | Inspector General external review panel. |
 | [3237\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003237%20-%20Annual%20reports%20on%20influence%20operations%20and%20campaigns%20in%20the%20United%20States%20by%20the%20Chinese%20Communist%20Party.md) | Annual reports on influence operations and campaigns in the United States by the Chinese Communist Party. |
 | [3237a.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003237a%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93263%2C%20div.%20F%2C%20title%20LXVIII%2C%20%C2%A76811%28a%29%2C%20Dec.%2023%2C%202022%2C%20136%20Stat.%203600.md) | Repealed. |
@@ -233,6 +237,7 @@
 | [3241\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003241%20-%20Biennial%20reports%20on%20foreign%20biological%20threats.md) | Biennial reports on foreign biological threats. |
 | [3242\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003242%20-%20Annual%20reports%20on%20certain%20cyber%20vulnerabilities%20procured%20by%20intelligence%20community%20and%20foreign%20commercial%20providers%20of%20cyber%E2%80%A6.md) | Annual reports on certain cyber vulnerabilities procured by intelligence community and foreign commercial providers of cyber vulnerabilities. |
 | [3243\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003243%20-%20Periodic%20reports%20on%20technology%20strategy%20of%20intelligence%20community.md) | Periodic reports on technology strategy of intelligence community. |
+| [3244\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003244%20-%20Annual%20report%20on%20reporting%20requirements.md) | Annual report on reporting requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

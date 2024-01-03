@@ -14,7 +14,7 @@ Eligibility.—Surplus computer or technology equipment is eligible for transfer
 
 &emsp;&emsp;(A) the surplus computer or technology equipment is repairable; and
 
-&emsp;&emsp;(B) the surplus computer or technology equipment meets the Guidelines for Media Sanitization issued by the National Instituteof Standards and Technology (NIST Special Publication 800–88), or any successor thereto.
+&emsp;&emsp;(B) the surplus computer or technology equipment meets the Guidelines for Media Sanitization issued by the National Institute of Standards and Technology (NIST Special Publication 800–88), or any successor thereto.
 
 &emsp;(2)
 
@@ -56,7 +56,7 @@ Administrator reports.—Annually and consistent with reporting requirements for
 
 &emsp;&emsp;(B) a list of nongovernmental entities with which the Administrator had a partnership described in subsection (b)(2);
 
-&emsp;&emsp;(C) a list of nonprofit computer refurbishers that received, made repairs to, and distributed surplus computer and technology equipment, including disclosure of any foreign ownership interest in a nonprofit computer refurbisher; and
+&emsp;&emsp;(C) a list of nonprofit computer refurbishers that received, made repairs to, and distributed surplus computer and technologyequipment, including disclosure of any foreign ownership interest in a nonprofit computer refurbisher; and
 
 &emsp;&emsp;(D) a list of donated and subsequently repaired surplus computer or technology equipment identifying—
 
@@ -110,7 +110,7 @@ Disability.—The term "disability" has the meaning given that term in section 3
 
 Educational institution.—The term "educational institution" means—
 
-&emsp;&emsp;(A) any public or private child care center, preschool, elementary school, secondary school, accredited institution of vocationalor professional education, or institution of higher education;
+&emsp;&emsp;(A) any public or private child care center, preschool, elementary school, secondary school, accredited institution of vocational or professional education, or institution of higher education;
 
 &emsp;&emsp;(B) in the case of an accredited institution of vocational or professional education or an institution of higher education composed of more than 1 school, college, or department that is administratively a separate unit, each such school, college, or department; and
 

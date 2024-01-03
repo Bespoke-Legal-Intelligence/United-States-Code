@@ -78,7 +78,7 @@
 
 #### (1) Misuse of label
 
-&emsp;Any person who knowingly sells or labels a product as organic, except in accordance with this chapter, shall be subject to a civil penalty of not more than $10,000.
+&emsp;Any person who knowingly sells or labels a product as organic, except in accordance withthis chapter, shall be subject to a civil penalty of not more than $10,000.
 
 #### (2) False statement
 

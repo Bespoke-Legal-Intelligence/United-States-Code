@@ -18,7 +18,7 @@ The provisions of the Renegotiation Act of 1951 do not apply to procurement cont
 
 (2) Direct costs associated with meeting additional or unique requirements of the purchaser shall be allowable under contracts described in paragraph (1). Loadings applicable to such direct costs shall be permitted at the same rates applicable to procurement of like items purchased by the Department of Defense for its own use.
 
-(Pub. L. 90–629, ch. 2, §22, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 93–189, §25(3), Dec. 17, 1973, 87 Stat. 730; Pub. L. 94–329, title II, §207, June 30, 1976, 90 Stat. 738; Pub. L. 95–384, §17, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–533, title I, §105(b)(2), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 104–107, title V, §531A(a), Feb. 12, 1996, 110 Stat. 731; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1223\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498.)
+(Pub. L. 90–629, ch. 2, §22, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 93–189, §25(3), Dec. 17, 1973, 87 Stat. 730; Pub. L. 94–329, title II, §207, June 30, 1976, 90 Stat. 738; Pub. L. 95–384, §17, Sept. 26, 1978, 92Stat. 740; Pub. L. 96–533, title I, §105(b)(2), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 104–107, title V, §531A(a), Feb. 12, 1996, 110 Stat. 731; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1223\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498.)
 
 #### <b>Editorial Notes</b>
 

@@ -76,7 +76,9 @@ The Secretary shall publish a list on the website of the Department of Health an
 
 #### (1) to (4) Omitted
 
-#### (5) GuidanceNot later than 1 year after December 29, 2022, the Secretary shall issue guidance regarding information sponsors may consider including in submissions required under section 412(d) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350a(d)), including considerations for meeting each of the requirements of paragraphs (1), (2), and (3) of subsection (d).
+#### (5) Guidance
+
+&emsp;Not later than 1 year after December 29, 2022, the Secretary shall issue guidance regarding information sponsors may consider including in submissions required under section 412(d) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350a(d)), including considerations for meeting each of the requirements of paragraphs (1), (2), and (3) of subsection (d).
 
 #### (6) Omitted
 
@@ -144,7 +146,7 @@ The Secretary shall publish a list on the website of the Department of Health an
 
 #### (B) Response to manufacturer
 
-&emsp;&emsp;Not later than 7 days after receiving a written communication from a manufacturer of infant formula containing corrective actions to address manufacturing deficiencies identified during an inspection of a facility engaged in the manufacturing of an infant formula impacted by a recall, the Secretary, acting through the Commissioner of Food and Drugs, shall provide a substantive response to such communication concerning the sufficiency of the proposed corrective actions.
+&emsp;&emsp;Not later than 7 days after receiving a written communication from a manufacturer of infant formula containing corrective actions to address manufacturing deficiencies identified during an inspection of a facility engaged in the manufacturing of aninfant formula impacted by a recall, the Secretary, acting through the Commissioner of Food and Drugs, shall provide a substantive response to such communication concerning the sufficiency of the proposed corrective actions.
 
 #### (2) Inspections
 
@@ -220,7 +222,7 @@ The Secretary shall publish a list on the website of the Department of Health an
 
 #### (3) Reporting of adverse events
 
-&emsp;If a health care provider becomes aware of any adverse event which the health care provider reasonably suspects to be associated with infant formula imported pursuant to paragraph (1), the health care provider shall report such adverse event to the Commissioner of Food and Drugs.
+&emsp;If a health care provider becomes aware of any adverse event which the health care provider reasonably suspects to be associatedwith infant formula imported pursuant to paragraph (1), the health care provider shall report such adverse event to the Commissioner of Food and Drugs.
 
 #### (4) Public notice
 

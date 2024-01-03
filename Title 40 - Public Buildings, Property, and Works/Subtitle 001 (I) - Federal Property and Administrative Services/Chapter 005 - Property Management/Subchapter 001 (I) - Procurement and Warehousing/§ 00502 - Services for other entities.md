@@ -48,7 +48,7 @@ Voluntary use.—In any case of the use by a State or local government of a Fede
 
 Definitions.—In this subsection:
 
-&emsp;&emsp;(A) The term "State or local government" includes any State, local, regional, or tribalgovernment, or any instrumentality thereof (including any local educational agency or institution of higher education).
+&emsp;&emsp;(A) The term "State or local government" includes any State, local, regional, or tribal government, or any instrumentality thereof (including any local educational agency or institution of higher education).
 
 &emsp;&emsp;(B) The term "tribal government" means—
 
@@ -174,5 +174,5 @@ Pub. L. 109–364, div. A, title VIII, §833(b), Oct. 17, 2006, 120 Stat. 2332, 
 
 #### Public Land Management Agency Foundations
 
-Pub. L. 108–352, §9, Oct. 21, 2004, 118 Stat. 1396, provided that: "Employees of the foundations established by Acts of Congress to solicit private sector funds on behalf of Federal land management agencies shall qualify for General Service Administration contract airfares."
+Pub. L. 108–352, §9, Oct. 21, 2004, 118 Stat. 1396, provided that: "Employees of the foundations establishedby Acts of Congress to solicit private sector funds on behalf of Federal land management agencies shall qualify for General Service Administration contract airfares."
 

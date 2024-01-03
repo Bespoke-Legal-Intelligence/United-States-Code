@@ -12,7 +12,7 @@ In this chapter:
 
 #### (3) Indian
 
-&emsp;The term "Indian" means a member of an Indian tribe, and includes individuals who are eligible for membership in a tribe, and the child or grandchild of such an individual.
+&emsp;The term "Indian" means a member of an Indian tribe, and includes individuals who areeligible for membership in a tribe, and the child or grandchild of such an individual.
 
 #### (4) Indian tribe
 

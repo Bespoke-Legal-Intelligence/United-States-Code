@@ -30,7 +30,7 @@ The goals of this section are—
 
 The Secretary of Agriculture (referred to in this section as the "Secretary") shall conduct a research initiative, to be known as the "Agricultural Genome to Phenome Initiative", for the purpose of—
 
-&emsp;(1) studying agriculturally significant crops and animals in production environments toachieve sustainable and secure agricultural production;
+&emsp;(1) studying agriculturally significant crops and animals in production environments to achieve sustainable and secure agricultural production;
 
 &emsp;(2) ensuring that current gaps in existing knowledge of agricultural crop and animal genetics and phenomics are filled;
 
@@ -142,7 +142,7 @@ Subsec. (b)(7), (8). Pub. L. 107–171, §7208(a)(2)–(4), added par. (7) and r
 
 #### Effective Date of 2018 Amendment
 
-Amendment by section 7614(b)(2)(B) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
+Amendment by section 7614(b)(2)(B) of Pub. L. 115–334 applicable to grants, cooperative agreements, or otherawards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
 
 #### Effective Date of 2008 Amendment
 

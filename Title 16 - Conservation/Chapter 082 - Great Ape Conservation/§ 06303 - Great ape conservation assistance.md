@@ -118,7 +118,7 @@ Amounts provided as a grant under this chapter—
 
 #### (2) Composition
 
-&emsp;The Secretary shall ensure that the panel referred to in paragraph (1) includes, to the maximum extent practicable, 1 or more representatives—
+&emsp;The Secretary shall ensure that the panel referred to in paragraph (1) includes, to themaximum extent practicable, 1 or more representatives—
 
 &emsp;&emsp;(A) from each country that comprises the natural range of great apes; and
 

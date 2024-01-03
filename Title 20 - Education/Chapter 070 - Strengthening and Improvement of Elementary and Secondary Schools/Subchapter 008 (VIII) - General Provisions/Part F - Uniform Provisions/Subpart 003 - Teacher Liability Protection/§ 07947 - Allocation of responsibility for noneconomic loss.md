@@ -18,7 +18,7 @@ In any civil action against a teacher, based on an act or omission of a teacher 
 
 #### (2) Percentage of responsibility
 
-&emsp;For purposes of determining the amount of noneconomic loss allocated to a defendant who is a teacher under this section, the trier offact shall determine the percentage of responsibility of each person responsible for the claimant's harm, whether or not such person is a party to the action.
+&emsp;For purposes of determining the amount of noneconomic loss allocated to a defendant who is a teacher under this section, the trier of fact shall determine the percentage of responsibility of each person responsible for the claimant's harm, whether or not such person is a party to the action.
 
 #### (c) Rule of construction
 

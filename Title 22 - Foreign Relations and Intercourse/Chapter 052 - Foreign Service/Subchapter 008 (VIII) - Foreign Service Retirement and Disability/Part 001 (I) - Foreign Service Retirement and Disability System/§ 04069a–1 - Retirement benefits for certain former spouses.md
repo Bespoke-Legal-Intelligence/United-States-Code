@@ -38,7 +38,7 @@ A former spouse shall not be entitled to benefits under this section if—
 
 &emsp;(B) the amount of benefits of the former spouse shall be calculated on the basis of benefits for which the participant would otherwise so qualify.
 
-(3) Benefits under this section shall be treated the same as an annuity under section 4054(a)(7)of this title for purposes of section 4046(h) of this title or any comparable provision of law.
+(3) Benefits under this section shall be treated the same as an annuity under section 4054(a)(7) of this title for purposes of section 4046(h) of this title or any comparable provision of law.
 
 (4)(A) Benefits under this section shall not be payable unless appropriate written application is provided to the Secretary, complete with any supporting documentation which the Secretary may by regulation require, within 30 months after the effective date of this section. The Secretary may waive the 30-month application requirement under this subparagraph in any case in which the Secretary determines that the circumstances so warrant.
 

@@ -220,7 +220,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Foreign Service Retirement and Disability System</i>. (a) The following provisions of the Federal Physicians Comparability Allowance Amendments of 2000 (Public Law 106–571) \[see Tables for classification\] shall apply to the Foreign Service Retirement and Disability System, subchapter I of chapter 8 of the Foreign Service Act of 1980 \[22 U.S.C. 4041 et seq.\], as amended:
 
-(i) Section 3(a) of Public Law 106–571 \[amending section 8331 of Title 5, Government Organization and Employees\] to provide that any amount received undersection 5948 of title 5, United States Code (physicians comparability allowance), be included in the definition of basic pay; and
+(i) Section 3(a) of Public Law 106–571 \[amending section 8331 of Title 5, Government Organization and Employees\] to provide that any amount received under section 5948 of title 5, United States Code (physicians comparability allowance), be included in the definition of basic pay; and
 
 (ii) Section 3(b) of Public Law 106–571 \[amending sections 8331 and 8339 of Title 5\] to provide for the inclusion of the physicians comparability allowance in the computation of an annuity under the same rules that apply with respect to the Civil Service Retirement System.
 

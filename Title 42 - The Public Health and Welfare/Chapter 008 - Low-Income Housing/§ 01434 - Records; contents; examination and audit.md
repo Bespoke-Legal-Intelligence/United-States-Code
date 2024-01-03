@@ -12,7 +12,7 @@ The United States Housing Act of 1937, as amended, referred to in text, is act S
 
 The Housing Act of 1949, as amended, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 
-The first day after the first full calendar month following the date of approval of the Housing Act of 1961, referred to in text, probably means Aug. 1, 1961, which is the first day after the first full calendar month following approval of Pub. L. 87–70, which was approved on June 30, 1961.
+The first day after the first full calendar month following the date of approval of the Housing Act of 1961, referred to in text, probably means Aug. 1, 1961, whichis the first day after the first full calendar month following approval of Pub. L. 87–70, which was approved on June 30, 1961.
 
 #### Codification
 

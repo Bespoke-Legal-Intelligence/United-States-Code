@@ -32,7 +32,7 @@
 
 #### (B) Alternative allocation
 
-&emsp;&emsp;Notwithstanding 12291(b)(11) <sup>2</sup> of this title, the Director may allocate a portion of funds described in subparagraph (A) to enhanced technical assistance relating to non-intimate partner sexual assault if the Office on Violence Against Women does not receive sufficient qualified applications proposing toaddress non-intimate partner relationship sexual assault.
+&emsp;&emsp;Notwithstanding 12291(b)(11) <sup>2</sup> of this title, the Director may allocate a portion of funds described in subparagraph (A) to enhanced technical assistance relating to non-intimate partner sexual assault if the Office on Violence Against Women does not receive sufficient qualified applications proposing to address non-intimate partner relationship sexual assault.
 
 #### (b) Purpose of program and grants
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(D) enhancing traditional services to victims of domestic violence, dating violence, sexual assault, and stalking through the leadership of culturally specific programs offering services to victims of domestic violence, dating violence, sexual assault, and stalking;
 
-&emsp;&emsp;(E) working in cooperation with the community to develop education and prevention strategies highlighting culturally specific issues and resources regarding victims of domestic violence, dating violence, sexual assault, and stalking;
+&emsp;&emsp;(E) working in cooperation with the community to develop education and prevention strategies highlighting culturally specificissues and resources regarding victims of domestic violence, dating violence, sexual assault, and stalking;
 
 &emsp;&emsp;(F) providing culturally specific programs for children exposed to domestic violence, dating violence, sexual assault, and stalking;
 
@@ -92,7 +92,7 @@ Nothing in this Section <sup>3</sup> shall be interpreted to exclude culturally
 
 In this section the definitions and grant conditions in section 12291 of this title shall apply.
 
-(Pub. L. 109–162, title I, §121, Jan. 5, 2006, 119 Stat. 2991; Pub. L. 109–271, §§1(c)(3), 2(k), Aug. 12,2006, 120 Stat. 751, 753; Pub. L. 113–4, title I, §109, Mar. 7, 2013, 127 Stat. 80; Pub. L. 117–103, div. W, title I, §108, title IX, §901(e), Mar. 15, 2022, 136 Stat. 852, 911.)
+(Pub. L. 109–162, title I, §121, Jan. 5, 2006, 119 Stat. 2991; Pub. L. 109–271, §§1(c)(3), 2(k), Aug. 12, 2006, 120 Stat. 751, 753; Pub. L. 113–4, title I, §109, Mar. 7, 2013, 127 Stat. 80; Pub. L. 117–103, div. W, title I, §108, title IX, §901(e), Mar. 15, 2022, 136 Stat. 852, 911.)
 
 #### <b>Editorial Notes</b>
 
@@ -118,7 +118,7 @@ Pub. L. 117–103, §108(1)(A)(i), which directed substitution of "paragraph (2)
 
 Subsec. (a)(3), (4). Pub. L. 117–103, §108(1)(B), added pars. (3) and (4).
 
-Subsec. (b)(3). Pub. L. 117–103, §108(2), inserted at end "Not less than 1 such organization shall have demonstrated expertise primarily in domestic violence services, and not less than 1 such organization shall have demonstrated expertise primarily in non-intimate partner sexual assault services."
+Subsec. (b)(3). Pub. L. 117–103, §108(2), inserted at end "Not less than 1 such organization shall have demonstrated expertise primarily in domestic violence services, and not less than 1 such organization shallhave demonstrated expertise primarily in non-intimate partner sexual assault services."
 
 Subsecs. (e) to (h). Pub. L. 117–103, §108(3), (4), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: "The Director shall award grants for a 2-year period, with a possible extension of another 2 years to implement projects under the grant."
 

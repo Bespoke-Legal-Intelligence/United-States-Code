@@ -56,7 +56,17 @@ Protection of Certain Information From Disclosure.—(1) Disclosure of informati
 
 &emsp;(iii) Technical information submitted on a confidential basis.
 
-(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403, §2371; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, §832, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 105–261, div. A, title VIII, §817, Oct. 17, 1998, 112 Stat. 2089; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(19), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 113–291, div. A, title X, §1071(f)(20), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title VIII, §863, Dec. 12, 2017, 131 Stat. 1494; renumbered §4021 and amended Pub. L. 116–283, div. A, title XVIII, §1841(b)(1), (2)(B), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title VIII, §821(a), title XVII, §1701(u)(2)(B), (F)(i)(III), Dec. 27, 2021, 135 Stat. 1825, 2151.)
+(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403, §2371; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, §832, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 105–261, div. A, title VIII, §817, Oct. 17, 1998, 112 Stat. 2089; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(19), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 113–291, div. A, title X, §1071(f)(20), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title VIII, §863, Dec. 12, 2017, 131 Stat. 1494; renumbered §4021 and amended Pub. L. 116–283, div. A, title XVIII, §1841(b)(1), (2)(B), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title VIII, §821(a), title XVII, §1701(u)(2)(B), (F)(i)(III), Dec. 27, 2021, 135 Stat. 1825, 2151; Pub. L. 118–31, div. A, title IX, §913(a)(2), Dec. 22, 2023, 137 Stat. 367.)
+
+#### Amendment of Subsections (b) and (f)
+
+<i>Pub. L. 118–31, div. A, title IX, §913(a)(2), (b), Dec. 22, 2023, 137 Stat. 367, 368, provided that, effective 180 days after Dec. 22, 2023, with additional implementation requirements, this section is amended as follows:</i>
+
+<i>(1) in subsection (b), by inserting ", the Defense Innovation Unit," after "Defense Advanced Research Projects Agency"; and</i>
+
+<i>(2) in subsection (f), by striking "and the Defense Advanced Research Projects Agency" and inserting ", the Defense Innovation Unit, and the Defense Advanced Research Projects Agency".</i>
+
+<i>See 2023 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -67,6 +77,10 @@ A prior section 4021 was renumbered section 7371 of this title.
 Another prior section 4021, act Aug. 10, 1956, ch. 1041, 70A Stat. 233, related to appointments in professional and scientific service, prior to repeal by Pub. L. 85–861, §36B(11), Sept. 2, 1958, 72 Stat. 1570.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b). Pub. L. 118–31, §913(a)(2)(A), inserted ", the Defense Innovation Unit," after "Defense Advanced Research Projects Agency".
+
+Subsec. (f). Pub. L. 118–31, §913(a)(2)(B), substituted ", the Defense Innovation Unit, and the Defense Advanced Research Projects Agency" for "and the Defense Advanced Research Projects Agency".
 
 <b>2021</b>—Pub. L. 116–283, §1841(b)(2)(B), as amended by Pub. L. 117–81, §1701(u)(2)(F)(i)(III), substituted "section 4001" for "section 2358" wherever appearing.
 
@@ -94,7 +108,7 @@ Subsec. (e). Pub. L. 104–201, §267(a), inserted "(1)" before "The Secretary o
 
 Subsec. (f). Pub. L. 104–201, §1073(e)(1)(B), inserted "Defense" before "Advanced Research Projects Agency".
 
-Subsec. (h). Pub. L. 104–201, §267(b), reenacted heading without change and amended text generally. Prior toamendment, text read as follows: "Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on all cooperative agreements entered into under section 2358 of this title during such fiscal year that contain a clause authorized by subsection (d) and on all transactions entered into under subsection (a) during such fiscal year. The report shall contain, with respect to each such cooperative agreement and transaction, the following:
+Subsec. (h). Pub. L. 104–201, §267(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on all cooperative agreements entered into under section 2358 of this title during such fiscal year that contain a clause authorized by subsection (d) and on all transactions entered into under subsection (a) during such fiscal year. The report shall contain, with respect to each such cooperative agreement and transaction, the following:
 
 &emsp;"(1) A general description of the cooperative agreement or other transaction (as the case may be), including the technologies for which research is provided for under such agreement or transaction.
 
@@ -158,6 +172,10 @@ Subsec. (g). Pub. L. 102–190, §826(c), struck out subsec. (g) which read as f
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2023 Amendment; Implementation
+
+Amendment by Pub. L. 118–31 effective 180 days after Dec. 22, 2023, with additional implementation requirements, see section 913(b)(1), (2) of Pub. L. 118–31, set out as notes under section 1766 of this title.
+
 #### Effective Date of 2021 Amendment
 
 Amendment by section 1701(u)(2)(B), (F)(i)(III) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
@@ -216,7 +234,7 @@ Publication of Information.—Not later than one year after the date of enactmen
 
 #### Listing of Other Transaction Authority Consortia
 
-Pub. L. 116–283, div. A, title VIII, §833, Jan. 1, 2021, 134 Stat. 3753, provided that: "Not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall maintain on the single Government-wide point of entry described under section 1708 of title 41, United States Code, a list of the consortia used by the Secretary to announce or otherwise make available opportunities to enter into a transaction under the authority of section 2371 of title 10, United States Code \[now 10 U.S.C. 4021\], or a transaction for a prototype project under section 2371b of such title \[now 10 U.S.C. 4022\]."
+Pub. L. 116–283, div. A, title VIII, §833, Jan. 1, 2021, 134 Stat. 3753, provided that: "Not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall maintain on the single Government-wide point of entry described under section 1708 of title 41, United States Code, a list of the consortia used by the Secretary to announce or otherwise make available opportunities to enter into a transaction under the authority of section 2371 of title 10,United States Code \[now 10 U.S.C. 4021\], or a transaction for a prototype project under section 2371b of such title \[now 10 U.S.C. 4022\]."
 
 #### Data, Policy, and Reporting on the Use of Other Transactions
 

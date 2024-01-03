@@ -28,7 +28,7 @@ Whoever is guilty of murder in the second degree, shall be imprisoned for any te
 
 &emsp;(6) the term "torture" means conduct, whether or not committed under the color of law, that otherwise satisfies the definition set forth in section 2340(1).
 
-(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 98–473, title II, §1004, Oct. 12, 1984, 98 Stat. 2138; Pub. L. 99–646, §87(c)(4), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(a)(4), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–690, title VII, §7025, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title VI, §60003(a)(4), Sept. 13, 1994, 108 Stat. 1969; Pub. L. 108–21, title I, §102, Apr. 30, 2003, 117 Stat. 652.)
+(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 98–473, title II, §1004, Oct. 12, 1984, 98 Stat. 2138; Pub. L.99–646, §87(c)(4), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(a)(4), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–690, title VII, §7025, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title VI, §60003(a)(4), Sept. 13, 1994, 108 Stat. 1969; Pub. L. 108–21, title I, §102, Apr. 30, 2003, 117 Stat. 652.)
 
 #### Historical and Revision Notes
 

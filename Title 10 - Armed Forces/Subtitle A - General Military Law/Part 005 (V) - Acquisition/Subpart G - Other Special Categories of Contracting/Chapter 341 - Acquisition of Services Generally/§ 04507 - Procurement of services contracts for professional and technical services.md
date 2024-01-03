@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense shall prescribe regulations to ensure, to the maximum extent practicable, that professional and technical services are acquired on the basis of the task to be performed rather than on the basis of the number of hours of services provided.
+In General.—The Secretary of Defense shall prescribe regulations to ensure, to themaximum extent practicable, that professional and technical services are acquired on the basis of the task to be performed rather than on the basis of the number of hours of services provided.
 
 (b)
 

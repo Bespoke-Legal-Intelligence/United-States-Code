@@ -4,7 +4,7 @@
 
 Contracting Officers.—The Secretary of Defense shall require that, in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 3205 of this title, an employee of the Department of Defense or member of the armed forces (other than the Coast Guard) must, except as provided in subsections (c) and (d)—
 
-&emsp;(1) have completed all contracting courses required for a contracting officer (A) in the case of an employee, serving in the position within the grade of the General Schedule in which the employee is serving, and (B) in the case of a member of the armed forces, in the member's grade;
+&emsp;(1) have completed all contracting courses required for a contracting officer (A) in the case of an employee, serving in the position within the grade of the General Schedule in which the employee is serving, and (B) in thecase of a member of the armed forces, in the member's grade;
 
 &emsp;(2) have at least two years of experience in a contracting position;
 
@@ -50,7 +50,7 @@ Developmental Opportunities.—(1) The Secretary of Defense may—
 
 Contingency Contracting Force.—The Secretary shall establish qualification requirements for the contingency contracting force consisting of members of the armed forces whose mission is to deploy in support of contingency operations and other operations of the Department of Defense.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642; amended Pub. L. 103–35, title I, §101, May 31, 1993, 107 Stat. 97; Pub. L. 104–201, div. A, title X, §1074(a)(9)(B), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(a)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, §824(a), Dec. 28, 2001, 115 Stat. 1183; Pub. L. 108–136, div. A, title VIII, §831(b)(1), Nov. 24, 2003, 117 Stat. 1549; Pub. L. 108–375, div. A, title X,§1084(d)(14), (h)(1), Oct. 28, 2004, 118 Stat. 2062, 2064; Pub. L. 116–92, div. A, title VIII, §861(b)(1), Dec. 20, 2019, 133 Stat. 1516; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642; amended Pub. L. 103–35, title I, §101, May 31, 1993, 107 Stat. 97; Pub. L. 104–201, div. A, title X, §1074(a)(9)(B), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(a)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, §824(a), Dec. 28, 2001, 115 Stat. 1183; Pub. L. 108–136, div. A, title VIII, §831(b)(1), Nov. 24, 2003, 117 Stat. 1549; Pub. L. 108–375, div. A, title X, §1084(d)(14), (h)(1), Oct. 28, 2004, 118 Stat. 2062, 2064; Pub. L. 116–92, div. A, title VIII, §861(b)(1), Dec. 20, 2019, 133 Stat. 1516; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
 
 #### <b>Editorial Notes</b>
 
@@ -70,7 +70,7 @@ Subsec. (e)(1)(A). Pub. L. 116–92, §861(b)(1)(C)(i)(I), substituted "requirem
 
 Subsec. (e)(1)(C). Pub. L. 116–92, §861(b)(1)(C)(i)(II), substituted "requirement" for "requirements".
 
-Subsec. (e)(2). Pub. L. 116–92, §861(b)(1)(C)(ii), struck out dash after "shall have" and subpar. (A) designation before "been awarded", substituted period at end for "; or", and struck out subpar. (B) which read as follows: "completed at least 24 semester credit hours or the equivalent of study from an accredited institution of higher education in any of the disciplines of accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, or organization and management."
+Subsec. (e)(2). Pub. L. 116–92, §861(b)(1)(C)(ii), struck out dash after "shall have" and subpar. (A) designation before "been awarded", substituted period at end for "; or", and struck out subpar. (B) which read as follows: "completed at least 24 semester credit hours orthe equivalent of study from an accredited institution of higher education in any of the disciplines of accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, or organization and management."
 
 Subsec. (f). Pub. L. 116–92, §861(b)(1)(D), substituted "Department of Defense." for "Department of Defense, including—
 
@@ -138,7 +138,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(e)\], Oct. 30, 2000, 114 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Fulfillment Standards for Mandatory Training
 

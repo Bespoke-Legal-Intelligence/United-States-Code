@@ -16,15 +16,43 @@ Duties.—The Office—
 
 Staff.—The Office shall have not less than five professional staff members.
 
-(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 111–383, div. A, title IX, §901(h), Jan. 7, 2011, 124 Stat. 4323; Pub. L. 112–239, div. A, title X, §1076(f)(21), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 114–328, div. A, title IX, §933(a)(1), (4)(A), Dec. 23, 2016, 130 Stat. 2364.)
+(d)
+
+Non-medical Counseling Services.—(1) In carrying out its duties under subsection (b), the Office may coordinate programs and activities to provide non-medical counseling services to military families through the Department of Defense Military and Family Life Counseling Program.
+
+(2) A mental health care professional described in paragraph (3) may provide non-medical counseling services at any location in a State, the District of Columbia, or a territory or possession of the United States, without regard to where the professional or recipient of such services is located or delivery of such services is provided (including face-to-face and telehealth), if the provision of such services is within the scope of the authorized Federal duties of the professional.
+
+(3) A non-medical mental health professional described in this subsection is a person who is—
+
+&emsp;(A) a currently licensed mental health care provider who holds a license that is—
+
+&emsp;&emsp;(i) issued by a State, the District of Columbia, or a territory or possession of the United States; and
+
+&emsp;&emsp;(ii) recognized by the Secretary of Defense as an appropriate license for the provision of non-medical counseling services;
+
+&emsp;(B) a member of the armed forces, a civilian employee of the Department of Defense, or a contractor designated by the Secretary; and
+
+&emsp;(C) performing authorized duties for the Department of Defense under a program or activity referred to in paragraph (1).
+
+(4) The authority under this subsection shall terminate three years after the date of the enactment of this subsection.
+
+(5) In this subsection, the term "non-medical counseling services" means mental health care services that are non-clinical, short-term and solution focused, and address topics related to personal growth, development, and positive functioning.
+
+(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 111–383, div. A, title IX, §901(h), Jan. 7, 2011, 124 Stat. 4323; Pub. L. 112–239, div. A, title X, §1076(f)(21), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 114–328, div. A, title IX, §933(a)(1), (4)(A), Dec. 23, 2016, 130 Stat. 2364; Pub. L. 118–31, div. A, title V, §581, Dec. 22, 2023, 137 Stat. 279.)
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (d)(4), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
 
 #### Prior Provisions
 
 Provisions similar to those in this subchapter were contained in Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 104–106, §568(e)(1).
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d). Pub. L. 118–31 added subsec. (d).
 
 <b>2016</b>—Pub. L. 114–328, §933(a)(4)(A), substituted "Office of Military Family Readiness Policy" for "Office of Family Policy" in section catchline.
 
@@ -526,7 +554,7 @@ Implementation Report.—Not later than one year after the date of the enactment
 
 #### Education and Treatment Services for Military Dependent Children With Autism
 
-Pub. L. 110–181, div. A, title V, §587, Jan. 28, 2008, 122 Stat. 133, which related to comprehensive assessment of the availability of Federal, State, and local education and treatment services for military dependent children with autism, was repealed by Pub. L. 111–84, div. A, title V, §563(a)(3), Oct. 28, 2009, 123 Stat. 2307.
+Pub. L. 110–181, div. A, title V, §587, Jan. 28, 2008, 122 Stat. 133, which related to comprehensive assessment ofthe availability of Federal, State, and local education and treatment services for military dependent children with autism, was repealed by Pub. L. 111–84, div. A, title V, §563(a)(3), Oct. 28, 2009, 123 Stat. 2307.
 
 #### Joint Family Support Assistance Program
 
@@ -644,7 +672,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 My Administration has maintained a steadfast commitment to honor and serve the brave men and women who have served this country. Like all service members and veterans, foreign-born residents and naturalized citizens serving in the United States Armed Forces are shining examples of the American dream. These brave new Americans have taken the extraordinary step of answering the call to duty, to support and defend our country. Some have made the ultimate sacrifice for our country before becoming American citizens.
 
-New American service members are undoubtedly a critical element of our national security. They risk their lives all over the world in the name of the United States, securing shipping lanes, protecting bases and embassies, providing medical assistance, and conducting humanitarian missions. Tens of thousands of lawful permanent residents and naturalized U.S. citizens currently serve in our Armed Forces. Many more are veterans who have served previously in the Armed Forces. Additionally, many U.S.-born service members have immediate family members who were born abroad.
+New American service members are undoubtedly a critical element of our national security. They risk their lives all over the world in the name of the UnitedStates, securing shipping lanes, protecting bases and embassies, providing medical assistance, and conducting humanitarian missions. Tens of thousands of lawful permanent residents and naturalized U.S. citizens currently serve in our Armed Forces. Many more are veterans who have served previously in the Armed Forces. Additionally, many U.S.-born service members have immediate family members who were born abroad.
 
 Over the past decade, the Departments of Defense, Veterans Affairs, and Homeland Security have strengthened partnerships to provide services and opportunities to service members, veterans, and their families interacting with the U.S. immigration system. Indeed, since 2001, more than 110,000 service members have been naturalized and many were assisted in the process through partnerships such as the "Naturalization at Basic Training Initiative," which gives non-citizen enlistees the opportunity to naturalize during basic training. Despite these efforts, service members, veterans, and their families still face barriers to accessing immigration benefits and other assistance for which they may be eligible.
 

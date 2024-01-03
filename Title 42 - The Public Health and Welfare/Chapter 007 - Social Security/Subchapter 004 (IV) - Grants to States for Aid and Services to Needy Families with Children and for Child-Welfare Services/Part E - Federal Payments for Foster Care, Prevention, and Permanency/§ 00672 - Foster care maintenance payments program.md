@@ -44,7 +44,7 @@
 
 #### (B) Resources determination
 
-&emsp;&emsp;For purposes of subparagraph (A), in determining whether a child would have receivedaid under a State plan approved under section 602 of this title (as in effect on July 16, 1996), a child whose resources (determined pursuant to section 602(a)(7)(B) of this title, as so in effect) have a combined value of not more than $10,000 shall be considered a child whose resources have a combined value of not more than $1,000 (or such lower amount as the State may determine for purposes of section 602(a)(7)(B) of this title).
+&emsp;&emsp;For purposes of subparagraph (A), in determining whether a child would have received aid under a State plan approved under section 602 of this title (as in effect on July 16, 1996), a child whose resources (determined pursuant to section 602(a)(7)(B) of this title, as so in effect) have a combined value of not more than $10,000 shall be considered a child whose resources have a combined value of not more than $1,000 (or such lower amount as the State may determine for purposes of section 602(a)(7)(B) of this title).
 
 #### (4) Eligibility of certain alien children
 
@@ -132,7 +132,7 @@ In any case where—
 
 #### (h) Aid for dependent children; assistance for minor children in needy families
 
-(1) For purposes of subchapter XIX, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect). For purposes of division A <sup>1</sup> of subchapter XX, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and is deemed to be a recipient of assistance under such part.
+(1) For purposes of subchapter XIX, any child with respect to whom foster care maintenancepayments are made under this section is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect). For purposes of division A <sup>1</sup> of subchapter XX, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and is deemed to be a recipient of assistance under such part.
 
 (2) For purposes of paragraph (1), a child whose costs in a foster family home or child care institution are covered by the foster care maintenance payments being made with respect to the child's minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section.
 
@@ -162,7 +162,7 @@ Expenditures by a State that would be considered administrative expenditures for
 
 &emsp;&emsp;(B) the treatment facility provides, as part of the treatment for substance abuse, parenting skills training, parent education, and individual and family counseling; and
 
-&emsp;&emsp;(C) the substance abuse treatment, parenting skills training, parent education, and individual and family counseling is provided under an organizational structure and treatment framework that involves understanding, recognizing, and responding to the effects of all types of trauma and in accordance with recognized principles of a trauma-informed approach and trauma-specificinterventions to address the consequences of trauma and facilitate healing.
+&emsp;&emsp;(C) the substance abuse treatment, parenting skills training, parent education, and individual and family counseling is provided under an organizational structure and treatment framework that involves understanding, recognizing, and responding to the effects of all types of trauma and in accordance with recognized principles of a trauma-informed approach and trauma-specific interventions to address the consequences of trauma and facilitate healing.
 
 #### (2) Application
 
@@ -240,7 +240,7 @@ Expenditures by a State that would be considered administrative expenditures for
 
 &emsp;The requirements in paragraph (4)(B) shall not be construed as requiring a qualified residential treatment program to acquire nursing and behavioral health staff solely through means of a direct employer to employee relationship.
 
-(Aug. 14, 1935, ch. 531, title IV, §472, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(1), (2), June 17, 1980, 94 Stat. 503, 513, 514; Pub. L. 99–603, title II, §201(b)(2)(A), title III, §§302(b)(2), 303(e)(2), Nov. 6, 1986, 100 Stat. 3403, 3422, 3431; Pub. L. 100–203, title IX, §§9133(b)(2), 9139(a), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §202(d)(3), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 104–193, title I, §108(d)(3), (4), title V, §501, Aug. 22, 1996, 110 Stat. 2166, 2277; Pub. L. 105–33, title V, §§5513(b)(1), (2), 5592(b), Aug. 5, 1997, 111 Stat. 620, 644; Pub. L. 105–89, title I, §101(c), Nov. 19, 1997, 111 Stat. 2117; Pub. L. 106–169, title I, §111, Dec. 14, 1999, 113 Stat. 1829; Pub. L. 109–113, §2, Nov. 22, 2005, 119 Stat. 2371; Pub. L. 109–171, title VII, §§7403(a), 7404(a), Feb. 8, 2006, 120 Stat. 151; Pub. L. 109–288, §6(f)(6), Sept. 28, 2006, 120 Stat. 1247; Pub. L. 110–351, title II, §201(b), title III, §301(a)(2), Oct. 7, 2008, 122 Stat. 3958, 3967; Pub. L. 111–148, title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 803; Pub. L. 115–123, div. E, title VII, §§50712(a), 50741(a)(1), (b), Feb. 9, 2018, 132 Stat. 244, 253, 255.)
+(Aug. 14, 1935, ch. 531, title IV, §472, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(1), (2), June 17, 1980, 94 Stat. 503, 513, 514; Pub. L. 99–603, title II, §201(b)(2)(A), title III, §§302(b)(2), 303(e)(2), Nov. 6, 1986, 100 Stat. 3403, 3422, 3431; Pub. L. 100–203, title IX, §§9133(b)(2), 9139(a), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §202(d)(3), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 104–193, title I, §108(d)(3), (4), title V, §501, Aug. 22, 1996, 110 Stat. 2166, 2277; Pub. L. 105–33, title V, §§5513(b)(1), (2), 5592(b), Aug. 5, 1997, 111 Stat. 620, 644; Pub. L. 105–89, title I, §101(c), Nov. 19, 1997, 111 Stat. 2117; Pub. L. 106–169, title I, §111, Dec. 14, 1999, 113 Stat. 1829; Pub. L. 109–113, §2, Nov. 22, 2005, 119 Stat.2371; Pub. L. 109–171, title VII, §§7403(a), 7404(a), Feb. 8, 2006, 120 Stat. 151; Pub. L. 109–288, §6(f)(6), Sept. 28, 2006, 120 Stat. 1247; Pub. L. 110–351, title II, §201(b), title III, §301(a)(2), Oct. 7, 2008, 122 Stat. 3958, 3967; Pub. L. 111–148, title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 803; Pub. L. 115–123, div. E, title VII, §§50712(a), 50741(a)(1), (b), Feb. 9, 2018, 132 Stat. 244, 253, 255.)
 
 #### <b>Editorial Notes</b>
 
@@ -308,7 +308,7 @@ Subsec. (h). Pub. L. 100–203, §9133(b)(2), inserted sentence at end.
 
 Pub. L. 99–603, §302(b)(2), inserted in closing provisions reference to cases in which a child is an alien disqualified under section 1160(f) of title 8.
 
-Pub. L. 99–603, §201(b)(2)(A), inserted closing provisions: "In any case where the child is an alien disqualified under section 1255a(h) of title 8 from receiving aid under the State plan approved under section 602 of this title in or for the month in which such agreement was entered into or court proceedings leading to the removal of the child from the home were instituted, such child shall be considered to satisfy the requirements of paragraph (4) (and the corresponding requirements of section 673(a)(1)(B) of this title), with respect to that month, if he or she would have satisfied such requirements but for such disqualification."
+Pub. L. 99–603, §201(b)(2)(A), inserted closing provisions: "In any case where the child is an alien disqualified under section 1255a(h) of title 8 from receiving aid under the State plan approved under section 602 of this title in or for the month in which such agreement was entered into or court proceedings leading to the removal of the child from the home were instituted, such child shall be considered to satisfy the requirements of paragraph (4) (and the corresponding requirements of section 673(a)(1)(B) of this title), with respect to thatmonth, if he or she would have satisfied such requirements but for such disqualification."
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–272, §102(a)(1), inserted provisions relating to voluntary placement agreements entered into by a child's parent or legal guardian.
 
@@ -360,7 +360,7 @@ Pub. L. 100–203, title IX, §9133(c), Dec. 22, 1987, 101 Stat. 1330–315, pro
 
 Pub. L. 96–272, title I, §102(a)(1), June 17, 1980, 94 Stat. 513, as amended by Pub. L. 98–118, §3(a), Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–617, §4(c)(1), Nov. 8, 1984, 98 Stat. 3297; Pub. L. 99–272, title XII, 12306(c)(1), Apr. 7, 1986, 100 Stat. 294; Pub. L. 100–203, title IX, §9131(a)(1), Dec. 22, 1987, 101 Stat. 1330–313, provided that the amendment made by that section is effective with respect to expenditures made after Sept. 30, 1980.
 
-Pub. L. 96–272, title I, §102(c), June 17, 1980, 94 Stat. 515, as amended by Pub. L. 98–118, §3(b), Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–617, §4(c)(2), Nov. 8, 1984, 98 Stat. 3297; Pub. L. 99–272, title XII, §12306(c)(2), Apr. 7, 1986,100 Stat. 294; Pub. L. 100–203, title IX, §9131(a)(2), Dec. 22, 1987, 101 Stat. 1330–313, provided that: "The amendments made by subsections (a) and (b) \[amending this section and sections 608, 673, and 675 of this title\] shall be effective only with respect to expenditures made after September 30, 1979."
+Pub. L. 96–272, title I, §102(c), June 17, 1980, 94 Stat. 515, as amended by Pub. L. 98–118, §3(b), Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–617, §4(c)(2), Nov. 8, 1984, 98 Stat. 3297; Pub. L. 99–272, title XII, §12306(c)(2), Apr. 7, 1986, 100 Stat. 294; Pub. L. 100–203, title IX, §9131(a)(2), Dec. 22, 1987, 101 Stat. 1330–313, provided that: "The amendments made by subsections (a) and (b) \[amending this section and sections 608, 673, and 675 of this title\] shall be effective only with respect to expenditures made after September 30, 1979."
 
 \[Pub. L. 100–203, title IX, §9131(b), Dec. 22, 1987, 101 Stat. 1330–313, provided that: "The amendments made by subsection (a) \[amending section 102(a)(1), (c), and (e) of Pub. L. 96–272, set out as notes under this section\] shall become effective October 1, 1987."\]
 
@@ -374,7 +374,7 @@ Pub. L. 96–272, title I, §102(d)(1), June 17, 1980, 94 Stat. 515, provided th
 
 #### Annual Report to Congress of Number of Children Placed in Foster Care Pursuant to Voluntary Placement Agreements
 
-Pub. L. 96–272, title I, §102(e), June 17, 1980, 94 Stat. 515, as amended by Pub. L. 100–203, title IX, §9131(a)(3), Dec. 22, 1987, 101 Stat. 1330–313, which required the Secretary of Health, Education, and Welfare to submit to Congress a full and complete annual report on the placement of children in foster care pursuant to voluntary placement agreements under this section and section 608 of this title, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 12 on page 99 of House Document No. 103–7.
+Pub. L. 96–272, title I, §102(e), June 17, 1980, 94 Stat. 515, as amended by Pub. L. 100–203, title IX, §9131(a)(3),Dec. 22, 1987, 101 Stat. 1330–313, which required the Secretary of Health, Education, and Welfare to submit to Congress a full and complete annual report on the placement of children in foster care pursuant to voluntary placement agreements under this section and section 608 of this title, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 12 on page 99 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

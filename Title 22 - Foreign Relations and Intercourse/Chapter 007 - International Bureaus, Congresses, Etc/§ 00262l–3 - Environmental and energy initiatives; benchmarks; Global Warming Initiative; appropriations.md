@@ -42,7 +42,7 @@ The Secretary of the Treasury shall, not later than March 1, 1993, submit a repo
 
 &emsp;(D) In the area of procedures for environmental impact assessment (EIA)—
 
-&emsp;&emsp;(i) each MDB should require that draft and final EIA reports be made available to the public in borrowing and donor countries and that the public be offered timely opportunities for comment on the EIA process, including initial scoping sessions, review of EIA categories assigned to individual projects, and opportunities to comment on draft and final EIA reports;
+&emsp;&emsp;(i) each MDB should require that draft and final EIA reports be made available to the public in borrowing and donor countries and that the public be offered timely opportunities for comment on the EIA process, including initial scoping sessions, review of EIA categories assigned to individual projects,and opportunities to comment on draft and final EIA reports;
 
 &emsp;&emsp;(ii) each MDB should apply EIA requirements to all sector loans and develop and apply the methodology for environmental assessment of structural adjustment loans;
 
@@ -94,7 +94,7 @@ Of the funds appropriated by this Act to carry out the provisions of section 276
 
 Section 533 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991, referred to in subsecs. (a), (b), (c)(1), and (d), is section 533 of Pub. L. 101–513, which was formerly classified to section 262l of this title.
 
-Section 1308 of the International Development and Finance Act of 1989 (Public Law 101–240), referred to in subsec. (c)(1), probably means a reference to the section 1308 of Pub. L. 95–118, the International Financial Institutions Act, which was added by section 521 of Pub. L. 101–240, and subsequently renumbered section 1307 of Pub. L. 95–118 by section 541(f)(4) of Pub. L. 101–240, and is classified to section 262m–7 of this title. Pub. L. 101–240 does not contain a section 1308.
+Section 1308 of the International Development and Finance Act of 1989 (Public Law 101–240), referred to insubsec. (c)(1), probably means a reference to the section 1308 of Pub. L. 95–118, the International Financial Institutions Act, which was added by section 521 of Pub. L. 101–240, and subsequently renumbered section 1307 of Pub. L. 95–118 by section 541(f)(4) of Pub. L. 101–240, and is classified to section 262m–7 of this title. Pub. L. 101–240 does not contain a section 1308.
 
 This Act, referred to in subsecs. (e) to (h), is Pub. L. 102–391, Oct. 6, 1992, 106 Stat. 1633, known as the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1993. Provisions under the headings in title II of this Act under "Agency for International Development" appear at 106 Stat. 1638 et seq. and are not classified to the Code except for an undesignated par. that was formerly set out as a note under section 2151u of this title. Section 533 of the Act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 

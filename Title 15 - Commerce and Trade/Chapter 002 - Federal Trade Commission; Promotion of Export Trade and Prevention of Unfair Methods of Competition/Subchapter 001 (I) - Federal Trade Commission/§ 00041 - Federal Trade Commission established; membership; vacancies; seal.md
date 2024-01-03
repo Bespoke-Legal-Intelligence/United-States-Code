@@ -72,7 +72,7 @@ The functions of the Commission with respect to choosing a Chairman from among t
 
 I transmit herewith Reorganization Plan No. 8 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Federal Trade Commission. My reasons for transmitting this plan are stated in any accompanying general message.
 
-After investigation I have found and hereby declare that each reorganization included in ReorganizationPlan No. 8 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
+After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 8 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 
 The taking effect of the reorganizations included in this plan may not in itself result in substantial immediate savings. However, many benefits in improved operations are probable during the next years which will result in a reduction in expenditures as compared with those that would be otherwise necessary. An itemization of these reductions in advance of actual experience under this plan is not practicable.
 

@@ -174,5 +174,5 @@ Incorporation of Certain Provisions of Law.—The provisions of chapter 39 of ti
 
 "(d)
 
-Effective Date.—Subsection (a) shall take effect on December 15, 2000, and shall apply with respectto interim payments that are due on or after such date under contracts entered into before, on, or after that date. No interest shall accrue by reason of that subsection for any period before that date."
+Effective Date.—Subsection (a) shall take effect on December 15, 2000, and shall apply with respect to interim payments that are due on or after such date under contracts entered into before, on, or after that date. No interest shall accrue by reason of that subsection for any period before that date."
 

@@ -34,7 +34,7 @@ The Administrator shall promulgate within 12 months after November 15, 1990, reg
 
 &emsp;&emsp;(iii) In determining the amount under clause (i), the permitting authority is not required to include any amount of regulated pollutant emitted by any source in excess of 4,000 tons per year of that regulated pollutant.
 
-&emsp;&emsp;(iv) The requirements of clause (i) shall not apply if the permitting authority demonstrates that collecting an amount less than the amount specified under clause (i) will meet the requirements of subparagraph (A).
+&emsp;&emsp;(iv) The requirements of clause (i) shall not apply if the permitting authority demonstrates that collecting an amount lessthan the amount specified under clause (i) will meet the requirements of subparagraph (A).
 
 &emsp;&emsp;(v) The fee calculated under clause (i) shall be increased (consistent with the need to cover the reasonable costs authorized by subparagraph (A)) in each year beginning after 1990, by the percentage, if any, by which the Consumer Price Index for the most recent calendar year ending before the beginning of such year exceeds the Consumer Price Index for the calendar year 1989. For purposes of this clause—
 
@@ -68,7 +68,7 @@ The Administrator shall promulgate within 12 months after November 15, 1990, reg
 
 &emsp;(7) To ensure against unreasonable delay by the permitting authority, adequate authority and procedures to provide that a failure of such permitting authority to act on a permit application or permit renewal application (in accordance with the time periods specified in section 7661b of this title or, as appropriate, subchapter IV–A) shall be treated as a final permit action solely for purposes of obtaining judicial review in State court of an action brought by any person referred to in paragraph (6) to require that action be taken by the permitting authority on such application without additional delay.
 
-&emsp;(8) Authority, and reasonable procedures consistent with the need for expeditious action by the permitting authority on permit applications and related matters, to make available to the public any permit application, compliance plan, permit, and monitoring orcompliance report under section 7661b(e) of this title, subject to the provisions of section 7414(c) of this title.
+&emsp;(8) Authority, and reasonable procedures consistent with the need for expeditious action by the permitting authority on permit applications and related matters, to make available to the public any permit application, compliance plan, permit, and monitoring or compliance report under section 7661b(e) of this title, subject to the provisions of section 7414(c) of this title.
 
 &emsp;(9) A requirement that the permitting authority, in the case of permits with a term of 3 or more years for major sources, shall require revisions to the permit to incorporate applicable standards and regulations promulgated under this chapter after the issuance of such permit. Such revisions shall occur as expeditiously as practicable and consistent with the procedures established under paragraph (6) but not later than 18 months after the promulgation of such standards and regulations. No such revision shall be required if the effective date of the standards or regulations is a date after the expiration of the permit term. Such permit revision shall be treated as a permit renewal if it complies with the requirements of this subchapter regarding renewals.
 
@@ -112,7 +112,7 @@ If a program (including a partial permit program) submitted under this subchapte
 
 #### (h) Effective date
 
-The effective date of a permit program, or partial or interim program, approved under this subchapter, shall be the effective date of approval by the Administrator. The effective date of a permit program, or partial permit program, promulgated by the Administrator shall be the date of promulgation.
+The effective date of a permit program, or partial or interim program, approved under this subchapter, shall be the effective date of approval by the Administrator. The effective dateof a permit program, or partial permit program, promulgated by the Administrator shall be the date of promulgation.
 
 #### (i) Administration and enforcement
 

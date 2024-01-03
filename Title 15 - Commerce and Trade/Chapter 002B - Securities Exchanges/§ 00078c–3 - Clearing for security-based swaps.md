@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(B) within 30 days issue a public report containing the results of the investigation; and
 
-&emsp;&emsp;(C) take such actions as the Commission determines to be necessary and in the public interest, which may include requiring the retaining of adequate margin or capital by parties to the security-based swap or the group, category, type, or class of security-based swaps.
+&emsp;&emsp;(C) take such actions as the Commission determines to be necessary and in the publicinterest, which may include requiring the retaining of adequate margin or capital by parties to the security-based swap or the group, category, type, or class of security-based swaps.
 
 #### (3) Effect on authority
 
@@ -278,7 +278,7 @@ Rules adopted by the Commission under this section shall provide for the reporti
 
 #### (2) Exception
 
-&emsp;The requirements of subparagraphs (A) and (B) of paragraph (1) shall not apply if no exchange or security-based swap execution facility makes the security-based swap available to trade or for security-based swap transactions subject to the clearing exception under subsection (g).
+&emsp;The requirements of subparagraphs (A) and (B) of paragraph (1) shall not apply if no exchange or security-based swap execution facility makes the security-based swap available to trade or for security-based swap transactionssubject to the clearing exception under subsection (g).
 
 #### (i) Board approval
 

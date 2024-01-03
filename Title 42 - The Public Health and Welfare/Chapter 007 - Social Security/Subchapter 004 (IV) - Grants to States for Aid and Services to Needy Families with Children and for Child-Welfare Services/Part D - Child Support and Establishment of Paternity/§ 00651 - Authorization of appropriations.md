@@ -46,7 +46,7 @@ Pub. L. 105–200, title IV, §401(a), July 16, 1998, 112 Stat. 659, directed th
 
 #### Promulgation of National Medical Support Notice
 
-Pub. L. 105–200, title IV, §401(b), July 16, 1998, 112 Stat. 660, directed the Secretary of Health and Human Services and the Secretary of Labor to jointly develop and promulgate by regulation a National Medical Support Notice, to be issued by States as a means of enforcing the health care coverage provisions in a child support order; required interim regulations to be issued not later than 10 months after July 16, 1998 (such regulations were issued on Nov. 15, 1999; see 64 F.R. 62054); and required final regulations to be issued not later than 1 year after the issuance of the interim regulations (such regulations were issued on Dec. 27, 2000; see 65 F.R. 82128).
+Pub. L. 105–200, title IV, §401(b), July 16, 1998, 112 Stat. 660, directed the Secretary of Health and HumanServices and the Secretary of Labor to jointly develop and promulgate by regulation a National Medical Support Notice, to be issued by States as a means of enforcing the health care coverage provisions in a child support order; required interim regulations to be issued not later than 10 months after July 16, 1998 (such regulations were issued on Nov. 15, 1999; see 64 F.R. 62054); and required final regulations to be issued not later than 1 year after the issuance of the interim regulations (such regulations were issued on Dec. 27, 2000; see 65 F.R. 82128).
 
 #### Authorization of Appropriations
 

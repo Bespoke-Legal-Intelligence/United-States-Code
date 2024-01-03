@@ -6,7 +6,7 @@ The Secretary shall establish a National Training Program in Sustainable Agricul
 
 #### (b) Administration
 
-The National Training Program shall be organized and administered by the National Institute of Food and Agriculture, in coordination with other appropriate Federal agencies. The Secretary shall designate an individual from the Cooperative Extension Service in each State to coordinate the National Training Program within that State. The coordinators shall be responsible, in cooperation with appropriate Federal and State agencies, for developing and implementing a statewide training program for appropriate field office personnel.
+The National Training Program shall be organized and administered by the National Institute of Food and Agriculture, in coordination with other appropriate Federal agencies. The Secretary shall designate an individual from theCooperative Extension Service in each State to coordinate the National Training Program within that State. The coordinators shall be responsible, in cooperation with appropriate Federal and State agencies, for developing and implementing a statewide training program for appropriate field office personnel.
 
 #### (c) Required training
 
@@ -72,7 +72,7 @@ The Cooperative Extension Service within each State shall transfer information d
 
 &emsp;(7) develop information sources relating to crop diversification, alternative crops, on-farm food or commodity processing, and on-farm energy generation;
 
-&emsp;(8) establish a well-water testing program designed to provide those persons dependent upon underground drinking water supplies with an understanding of the need for regular water testing, information on sources of testing, and an understanding of how to interpret test results and provide for the protection of underground water supplies;
+&emsp;(8) establish a well-water testing program designed to provide those persons dependent upon underground drinking water supplies with an understanding of the need for regularwater testing, information on sources of testing, and an understanding of how to interpret test results and provide for the protection of underground water supplies;
 
 &emsp;(9) provide specific information on water quality practices developed through the research programs in chapter 86 of this title; <sup>1</sup>
 

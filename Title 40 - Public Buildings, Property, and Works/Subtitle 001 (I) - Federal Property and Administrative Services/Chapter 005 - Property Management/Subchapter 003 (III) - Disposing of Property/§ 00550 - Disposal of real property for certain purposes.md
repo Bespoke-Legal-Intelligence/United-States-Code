@@ -72,7 +72,7 @@ Sale or lease.—Subject to disapproval by the Administrator within 30 days afte
 
 &emsp;(3)
 
-Fixing value.—In fixing the sale or lease value of property disposed of under paragraph\(2), the Secretary of the Interior shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the State, political subdivision or instrumentality, or municipality.
+Fixing value.—In fixing the sale or lease value of property disposed of under paragraph (2), the Secretary of the Interior shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the State, political subdivision or instrumentality, or municipality.
 
 &emsp;(4)
 
@@ -256,5 +256,5 @@ The National and Community Service Act of 1990, referred to in subsec.(g)(2), is
 
 #### Amendments
 
-<b>2014</b>—Subsec. (h)(1)(B). Pub. L. 113–287, §5(j)(2), substituted "section 102303 of title 54" for "section 3 of theAct of August 21, 1935 (16 U.S.C. 463) (known as the Historic Sites, Buildings, and Antiquities Act)".
+<b>2014</b>—Subsec. (h)(1)(B). Pub. L. 113–287, §5(j)(2), substituted "section 102303 of title 54" for "section 3 of the Act of August 21, 1935 (16 U.S.C. 463) (known as the Historic Sites, Buildings, and Antiquities Act)".
 

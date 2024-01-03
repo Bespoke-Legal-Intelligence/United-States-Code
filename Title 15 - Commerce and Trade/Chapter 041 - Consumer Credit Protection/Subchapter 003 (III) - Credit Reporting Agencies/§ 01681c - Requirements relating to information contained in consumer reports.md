@@ -20,7 +20,7 @@ Except as authorized under subsection (b), no consumer reporting agency may make
 
 &emsp;(B) the report is being provided to an insurance company for a purpose relating to engaging in the business of insurance other than property and casualty insurance.
 
-(7) With respect to a consumer reporting agency described in section 1681a(p) of this title, anyinformation related to a veteran's medical debt if the date on which the hospital care, medical services, or extended care services was rendered relating to the debt antedates the report by less than 1 year if the consumer reporting agency has actual knowledge that the information is related to a veteran's medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.
+(7) With respect to a consumer reporting agency described in section 1681a(p) of this title, any information related to a veteran's medical debt if the date on which the hospital care, medical services, or extended care services was rendered relating to the debt antedates the report by less than 1 year if the consumer reporting agency has actual knowledge that the information is related to a veteran's medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.
 
 (8) With respect to a consumer reporting agency described in section 1681a(p) of this title, any information related to a fully paid or settled veteran's medical debt that had been characterized as delinquent, charged off, or in collection if the consumer reporting agency has actual knowledge that the information is related to a veteran's medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.
 
@@ -38,7 +38,7 @@ The provisions of paragraphs (1) through (5) of subsection (a) are not applicabl
 
 #### (1) In general
 
-&emsp;The 7-year period referred to in paragraphs (4) and (6) of subsection (a) shall begin, with respect to any delinquent account that is placed for collection (internally or by referral to a third party, whichever is earlier), charged to profit and loss, or subjected to any similar action, upon the expiration of the 180-day period beginning on the date of the commencement of the delinquency which immediately preceded the collection activity, charge to profit and loss, or similar action.
+&emsp;The 7-year period referred to in paragraphs (4) and (6) of subsection (a) shall begin, with respect to any delinquent account that isplaced for collection (internally or by referral to a third party, whichever is earlier), charged to profit and loss, or subjected to any similar action, upon the expiration of the 180-day period beginning on the date of the commencement of the delinquency which immediately preceded the collection activity, charge to profit and loss, or similar action.
 
 #### (2) Effective date
 
@@ -98,7 +98,7 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 &emsp;&emsp;&emsp;(i) to form a reasonable belief that the user knows the identity of the person to whom the consumer report pertains; and
 
-&emsp;&emsp;&emsp;(ii) if the user establishes a continuing relationship with the consumer, and the user regularly and in the ordinary course of business furnishes information to the consumer reporting agency from which the notice of discrepancy pertaining to the consumer was obtained, to reconcile the address of the consumer with the consumer reporting agency by furnishing such address to such consumer reporting agency as part of information regularly furnished by the user for the period in which the relationship is established.
+&emsp;&emsp;&emsp;(ii) if the user establishes a continuing relationship with the consumer, and the user regularly and in the ordinary course of business furnishes information to the consumer reporting agency from which the notice of discrepancy pertaining to the consumer was obtained, to reconcile the address of the consumer with the consumer reporting agency by furnishing suchaddress to such consumer reporting agency as part of information regularly furnished by the user for the period in which the relationship is established.
 
 (Pub. L. 90–321, title VI, §605, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 95–598, title III, §312(b), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 104–208, div. A, title II, §2406(a)–(e)(1), Sept. 30, 1996, 110 Stat. 3009–434, 3009–435; Pub. L. 105–347, §5, Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §113, title II, §212(d), title III, §315, title IV, §412(b), (c), title VIII, §811(c)(1), (2)(A), Dec. 4, 2003, 117 Stat. 1959, 1977, 1996, 2002, 2011; Pub. L. 111–203, title X, §1088(a)(2)(D), (5), July 21, 2010, 124 Stat. 2087; Pub. L. 115–174, title III, §302(b)(2), May 24, 2018, 132 Stat. 1333.)
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission,except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
 
 Amendment by section 412 of Pub. L. 108–159 effective at end of 15-month period beginning on Dec. 4, 2003, see section 412(g) of Pub. L. 108–159, set out as a note under section 1681b of this title.
 

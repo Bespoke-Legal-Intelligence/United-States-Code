@@ -14,7 +14,7 @@ For the purpose of carrying out the provisions of this chapter and the activitie
 
 #### Transfer of Functions
 
-Functions of Bureau of Dairy Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1,§301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952. See note set out under section 391 of this title.
+Functions of Bureau of Dairy Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, §301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952. See note set out under section 391 of this title.
 
 Bureau of Dairy Industry consolidated with other agencies into Agricultural Research Administration for duration of World War II by Ex. Ord. No. 9069, Feb. 23, 1942, 7 F.R. 1409.
 

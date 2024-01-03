@@ -4,7 +4,7 @@
 
 On the recommendation of the Honey Board, and with the approval of the Secretary, an order issued pursuant to this chapter may contain one or more of the following provisions:
 
-&emsp;(1) Providing authority to exempt from the provisions of the order honey used for exporting and providing authority for the HoneyBoard to require satisfactory safeguards against improper use of such exemption.
+&emsp;(1) Providing authority to exempt from the provisions of the order honey used for exporting and providing authority for the Honey Board to require satisfactory safeguards against improper use of such exemption.
 
 &emsp;(2) Providing that in a State with an existing marketing order with respect to honey, the objectives of which the Secretary determines are comparable to the program established under this chapter, there shall be paid to the Honey Board as provided in section 4608 of this title that portion of the national assessment which is above the State assessment, if any, actually paid on such honey.
 
@@ -18,7 +18,7 @@ On the recommendation of the Honey Board, and with the approval of the Secretary
 
 &emsp;(7) Providing for terms and conditions incidental to, and not inconsistent with, the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such an order.
 
-&emsp;(8) If approved in a referendum conducted under this chapter, providing authority for the development of programs and related rules and regulations that will, with the approval of the Secretary, establish minimum purity standards for honey and honey products that are designed to maintain a positive and wholesome marketing image for honey and honey products.
+&emsp;(8) If approved in a referendum conducted under this chapter, providing authority for thedevelopment of programs and related rules and regulations that will, with the approval of the Secretary, establish minimum purity standards for honey and honey products that are designed to maintain a positive and wholesome marketing image for honey and honey products.
 
 #### (b) Inspection and monitoring system
 

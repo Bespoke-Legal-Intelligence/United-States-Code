@@ -100,7 +100,7 @@ Not less than once every 5 years, the Secretary shall—
 
 #### (g) Guidance on reported disclosed financial interest or involvement
 
-The Secretary shall issue guidance that describes how the Secretary reviews the financial interests and involvement of advisory committee members that are disclosed under subsection (c) but that the Secretary determines not to meet the definition of a disqualifying interest under section 208 of title 18 for the purposes of participating in a particular matter.
+The Secretary shall issue guidance that describes how the Secretary reviews the financialinterests and involvement of advisory committee members that are disclosed under subsection (c) but that the Secretary determines not to meet the definition of a disqualifying interest under section 208 of title 18 for the purposes of participating in a particular matter.
 
 (June 25, 1938, ch. 675, §712, as added Pub. L. 110–85, title VII, §701(a), Sept. 27, 2007, 121 Stat. 900; amended Pub. L. 112–144, title XI, §1142(a), July 9, 2012, 126 Stat. 1127; Pub. L. 114–255, div. A, title III, §3101(a)(2)(U), Dec. 13, 2016, 130 Stat. 1155; Pub. L. 117–286, §4(a)(159), (c)(29), Dec. 27, 2022, 136 Stat. 4323, 4357.)
 

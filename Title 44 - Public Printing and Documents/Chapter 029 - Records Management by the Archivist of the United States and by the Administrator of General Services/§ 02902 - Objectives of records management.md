@@ -88,7 +88,7 @@ Consultation requirement.—In carrying out paragraphs (1) and (2), the Archivis
 
 Appropriate congressional committees defined.—In this subsection, the term 'appropriate congressional committees' means—
 
-&emsp;&emsp;"(A) the Committee on Oversight and Reform, the Committee on Veterans' Affairs, and the Committee on Appropriations of the House of Representatives; and
+&emsp;&emsp;"(A) the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\], the Committee on Veterans' Affairs, and the Committee on Appropriations of the House of Representatives; and
 
 &emsp;&emsp;"(B) the Committee on Homeland Security and Governmental Affairs, the Committee on Veterans' Affairs, and the Committee on Appropriations of the Senate.
 

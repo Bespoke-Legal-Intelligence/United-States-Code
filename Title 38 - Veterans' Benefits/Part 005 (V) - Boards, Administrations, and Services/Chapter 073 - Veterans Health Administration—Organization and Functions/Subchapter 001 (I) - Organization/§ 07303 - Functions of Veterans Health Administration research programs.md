@@ -22,7 +22,7 @@
 
 (2) In the case of a project of clinical research in which women or members of minority groups will under paragraph (1) be included as subjects of the research, the Secretary shall ensure that the project is designed and carried out so as to provide for a valid analysis of whether the variables being tested in the research affect women or members of minority groups, as the case may be, differently than other persons who are subjects of the research.
 
-(d)(1) The Secretary, in carrying out the Secretary's responsibilities under this section, shallfoster and encourage the initiation and expansion of research relating to the health of veterans who are women.
+(d)(1) The Secretary, in carrying out the Secretary's responsibilities under this section, shall foster and encourage the initiation and expansion of research relating to the health of veterans who are women.
 
 (2) In carrying out this subsection, the Secretary shall consult with the following to assist the Secretary in setting research priorities:
 
@@ -60,7 +60,7 @@ Pub. L. 117–328, div. V, title V, §506, Dec. 29, 2022, 136 Stat. 5516, provid
 
 "(a)
 
-Research on Moral Injury.—The Secretary of Veterans Affairs, acting through the Office of Research and Development of the Department of Veterans Affairs, shall conduct suicide prevention and mental health care improvement research on how moral injury relates to the mental health needs of veterans who served in the Armed Forces after September 11, 2001, and best practices for mental health treatment for such veterans.
+Research on Moral Injury.—The Secretary of Veterans Affairs, acting through the Office of Research and Development of the Department of Veterans Affairs, shall conduct suicide prevention and mental health care improvement research on how moral injuryrelates to the mental health needs of veterans who served in the Armed Forces after September 11, 2001, and best practices for mental health treatment for such veterans.
 
 "(b)
 

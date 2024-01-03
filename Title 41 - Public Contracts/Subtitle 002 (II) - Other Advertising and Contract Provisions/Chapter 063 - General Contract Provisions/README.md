@@ -18,7 +18,7 @@
 
 #### Federal Contractor Authority
 
-Pub. L. 116–136, div. A, title III, §3610, Mar. 27, 2020, 134 Stat. 414, as amended by Pub. L. 117–2, title IV, §4015, Mar. 11, 2021, 135 Stat. 80, provided that: "Notwithstanding any other provision of law, and subject to the availability of appropriations, funds made available to an agency by this Act \[div. A of Pub. L. 116–136, see Tables for classification\] or any other Act may be used by such agency to modify the terms and conditions of a contract, or other agreement, without consideration, to reimburse at the minimum applicable contract billing rates not to exceed an average of 40 hours per week any paid leave, including sick leave, a contractor provides to keep its employees or subcontractors in a ready state, including to protect the life and safety of Government and contractor personnel, but in no event beyond September 30, 2021. Such authority shall apply only to a contractor whose employees or subcontractors cannot perform work on a site that has been approved by the Federal Government, including a federally-owned or leased facility or site, due to facility closures or other restrictions, and who cannot telework because their job duties cannot be performed remotely during the public health emergency declared on January 31, 2020 for COVID–19: <i>Provided</i>, That the maximum reimbursement authorized by this section shall be reduced by the amount of credit a contractor is allowed pursuant to division G \[§§7001–7005\] of Public Law 116–127 \[set out as notes under sections 1401 and 3111 of Title 26, Internal Revenue Code\] and any applicable credits a contractor is allowed under this Act."
+Pub. L. 116–136, div. A, title III, §3610, Mar. 27, 2020, 134 Stat. 414, as amended by Pub. L. 117–2, title IV, §4015, Mar. 11, 2021, 135 Stat. 80, provided that: "Notwithstanding any other provision of law, and subject to the availability of appropriations, funds made available to an agency by this Act \[div. A of Pub. L. 116–136, see Tables for classification\] or any other Act may be used by such agency to modify the terms and conditions of a contract, or other agreement, without consideration, to reimburse at the minimum applicable contract billing rates not to exceed an average of 40 hours per week any paid leave, including sick leave, a contractor provides to keep its employees or subcontractors in a ready state, including to protect the life and safety of Government and contractor personnel, but in no event beyond September 30, 2021. Such authority shall apply only to a contractor whose employees or subcontractors cannot perform work on a site that has been approved by the Federal Government, including a federally-owned or leased facility or site, due to facility closures or other restrictions, and who cannot telework because their job duties cannot be performed remotely during the public health emergency declared on January 31, 2020 for COVID–19: <i>Provided</i>, That the maximum reimbursement authorized by this section shall be reduced by the amount of credit a contractor is allowed pursuant to division G \[§§7001–7005\] of Public Law116–127 \[set out as notes under sections 1401 and 3111 of Title 26, Internal Revenue Code\] and any applicable credits a contractor is allowed under this Act."
 
 \[Pub. L. 116–260, div. N, title X, §1002, Dec. 27, 2020, 134 Stat. 2145, provided that: "Section 3610 of division A of the CARES Act (Public Law 116–136) \[set out above\] shall be applied by substituting 'March 31, 2021' for 'September 30, 2020'."\]
 
@@ -84,7 +84,7 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-(d) This order shall apply only to a new contract or contract-like instrument, as defined by the Secretaryin the regulations issued pursuant to section 4(a) of this order, if:
+(d) This order shall apply only to a new contract or contract-like instrument, as defined by the Secretary in the regulations issued pursuant to section 4(a) of this order, if:
 
 (i)(A) it is a procurement contract for services or construction;
 
@@ -194,7 +194,7 @@ Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (e) For contracts or contract-like instruments covered by the Service Contract Act or the Davis-Bacon Act, this order shall apply only to contracts or contract-like instruments at the thresholds specified in those statutes. For procurement contracts in which employees' wages are governed by the Fair Labor Standards Act, this order shall apply only to contracts or contract-like instruments that exceed the micro-purchase threshold, as defined in 41 U.S.C. 1902(a), unless expressly made subject to this order pursuant to regulations or actions taken under section 3 of this order.
 
-(f) This order shall not apply to grants; contracts and agreements with and grants to Indian Tribes under the Indian Self-Determination and Education Assistance Act (Public Law 93–638), as amended; or any contracts or contract-like instruments expressly excluded by the regulations issued pursuant to section 3(a) of this order.
+(f) This order shall not apply to grants; contracts and agreements with and grants to Indian Tribes under the Indian Self-Determination and Education AssistanceAct (Public Law 93–638), as amended; or any contracts or contract-like instruments expressly excluded by the regulations issued pursuant to section 3(a) of this order.
 
 (g) Independent agencies are strongly encouraged to comply with the requirements of this order.
 
@@ -250,11 +250,11 @@ Sec. 4. <i>Regulations and Implementation</i>. (a) The Secretary shall, consiste
 
 (b) Within 60 days of the Secretary issuing regulations pursuant to subsection (a) of this section, agencies shall take steps, to the extent permitted by law, to exercise any applicable authority to ensure that contracts and contract-like instruments as described in sections 8(a)(i)(C) and (D) of this order, entered into on or after January 30, 2022, consistent with the effective date of such agency action, comply with the requirements set forth in sections 2 and 3 of this order.
 
-(c) Any regulations issued pursuant to this section should, to the extent practicable, incorporate existing definitions, principles, procedures, remedies, and enforcement processes under the Fair Labor Standards Act of 1938, 29 U.S.C. 201 <i>et seq</i>.; the Service Contract Act, 41 U.S.C. 6701 <i>et seq</i>.; the Davis-Bacon Act, \[see\] 40 U.S.C. 3141 <i>et seq</i>.; Executive Order 13658 of February 12, 2014 (Establishing a Minimum Wage for Contractors) \[41 U.S.C. 6301 note prec.\]; and regulations issued to implement that order.
+(c) Any regulations issued pursuant to this section should, to the extent practicable, incorporate existingdefinitions, principles, procedures, remedies, and enforcement processes under the Fair Labor Standards Act of 1938, 29 U.S.C. 201 <i>et seq</i>.; the Service Contract Act, 41 U.S.C. 6701 <i>et seq</i>.; the Davis-Bacon Act, \[see\] 40 U.S.C. 3141 <i>et seq</i>.; Executive Order 13658 of February 12, 2014 (Establishing a Minimum Wage for Contractors) \[41 U.S.C. 6301 note prec.\]; and regulations issued to implement that order.
 
 Sec. 5. <i>Enforcement</i>. (a) The Secretary shall have the authority for investigating potential violations of and obtaining compliance with this order.
 
-(b) This order creates no rights under the Contract Disputes Act \[of 1978\], \[see\] 41 U.S.C. 7101 <i>et seq</i>., anddisputes regarding whether a contractor has paid the wages prescribed by this order, as appropriate and consistent with applicable law, shall be disposed of only as provided by the Secretary in regulations issued pursuant to this order.
+(b) This order creates no rights under the Contract Disputes Act \[of 1978\], \[see\] 41 U.S.C. 7101 <i>et seq</i>., and disputes regarding whether a contractor has paid the wages prescribed by this order, as appropriate and consistent with applicable law, shall be disposed of only as provided by the Secretary in regulations issued pursuant to this order.
 
 Sec. 6. <i>Revocation of Certain Presidential Actions</i>. Executive Order 13838 of May 25, 2018 (Exemption From Executive Order 13658 for Recreational Services on Federal Lands) \[set out above\], is revoked as of January 30, 2022. Executive Order 13658 of February 12, 2014 (Establishing a Minimum Wage for Contractors) \[set out above\], is superseded, as of January 30, 2022, to the extent it is inconsistent with this order.
 
@@ -298,73 +298,9 @@ Sec. 10. <i>General Provisions</i>. (a) Nothing in this order shall be construed
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 14042. Ensuring Adequate COVID Safety Protocols for Federal Contractors
+#### Executive Order No. 14042
 
-Ex. Ord. No. 14042, Sept. 9, 2021, 86 F.R. 50985, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act, 40 U.S.C. 101 <i>et seq</i>., and section 301 of title 3, United States Code, and in order to promote economy and efficiency in procurement by contracting with sources that provide adequate COVID–19 safeguards for their workforce, it is hereby ordered as follows:
-
-Section 1. <i>Policy</i>. This order promotes economy and efficiency in Federal procurement by ensuring that the parties that contract with the Federal Government provide adequate COVID–19 safeguards to their workers performing on or in connection with a Federal Government contract or contract-like instrument as described in section 5(a) of this order. These safeguards will decrease the spread of COVID–19, which will decrease worker absence, reduce labor costs, and improve the efficiency of contractors and subcontractors at sites where they are performing work for the Federal Government. Accordingly, ensuring that Federal contractors and subcontractors are adequately protected from COVID–19 will bolster economy and efficiency in Federal procurement.
-
-Sec. 2. <i>Providing for Adequate COVID–19 Safety Protocols for Federal Contractors and Subcontractors</i>. (a) Executive departments and agencies, including independent establishments subject to the Federal Property and Administrative Services Act, 40 U.S.C. 102(4)(A) (agencies), shall, to the extent permitted by law, ensure that contracts and contract-like instruments (as described in section 5(a) of this order) include a clause that the contractor and any subcontractors (at any tier) shall incorporate into lower-tier subcontracts. This clause shall specify that the contractor or subcontractor shall, for the duration of the contract, comply with all guidance for contractor or subcontractor workplace locations published by the Safer Federal Workforce Task Force (Task Force Guidance or Guidance), provided that the Director of the Office of Management and Budget (Director) approves the Task Force Guidance and determines that the Guidance, if adhered to by contractors or subcontractors, will promote economy and efficiency in Federal contracting. This clause shall apply to any workplace locations (as specified by the Task Force Guidance) in which an individual is working on or in connection with a Federal Government contract or contract-like instrument (as described in section 5(a) of this order).
-
-(b) By September 24, 2021, the Safer Federal Workforce Task Force (Task Force) shall, as part of its issuance of Task Force Guidance, provide definitions of relevant terms for contractors and subcontractors, explanations of protocols required of contractors and subcontractors to comply with workplace safety guidance, and any exceptions to Task Force Guidance that apply to contractor and subcontractor workplace locations and individuals in those locations working on or in connection with a Federal Government contract or contract-like instrument (as described in section 5(a) of this order).
-
-(c) Prior to the Task Force publishing new Guidance related to COVID–19 for contractor or subcontractor workplace locations, including the Guidance developed pursuant to subsection (b) of this section, the Director shall, as an exercise of the delegation of my authority under the Federal Property and Administrative Services Act, see 3 U.S.C. 301, determine whether such Guidance will promote economy and efficiency in Federal contracting if adhered to by Government contractors and subcontractors. Upon an affirmative determination by the Director, the Director's approval of the Guidance, and subsequent issuance of such Guidance by the Task Force, contractors and subcontractors working on or in connection with a Federal Government contract or contract-like instrument (as described in section 5(a) of this order), shall adhere to the requirements of the newly published Guidance, in accordance with the clause described in subsection (a) of this section. The Director shall publish such determination in the Federal Register.
-
-(d) Nothing in this order shall excuse noncompliance with any applicable State law or municipal ordinance establishing more protective safety protocols than those established under this order or with any more protective Federal law, regulation, or agency instructions for contractor or subcontractor employees working at a Federal building or a federally controlled workplace.
-
-(e) For purposes of this order, the term "contract or contract-like instrument" shall have the meaning set forth in the Department of Labor's proposed rule, "Increasing the Minimum Wage for Federal Contractors," 86 FR 38816, 38887 (July 22, 2021). If the Department of Labor issues a final rule relating to that proposed rule, that term shall have the meaning set forth in that final rule.
-
-Sec. 3. <i>Regulations and Implementation</i>. (a) The Federal Acquisition Regulatory Council, to the extent permitted by law, shall amend the Federal Acquisition Regulation to provide for inclusion in Federal procurement solicitations and contracts subject to this order the clause described in section 2(a) of this order, and shall, by October 8, 2021, take initial steps to implement appropriate policy direction to acquisition offices for use of the clause by recommending that agencies exercise their authority under subpart 1.4 of the Federal Acquisition Regulation.
-
-(b) By October 8, 2021, agencies shall take steps, to the extent permitted by law, to exercise any applicable authority to ensure that contracts and contract-like instruments as described in section 5(a) of this order that are not subject to the Federal Acquisition Regulation and that are entered into on or after October 15, 2021, consistent with the effective date of such agency action, include the clause described in section 2(a) of this order.
-
-Sec. 4. <i>Severability</i>. If any provision of this order, or the application of any provision of this order to any person or circumstance, is held to be invalid, the remainder of this order and its application to any other person or circumstance shall not be affected thereby.
-
-Sec. 5. <i>Applicability</i>. (a) This order shall apply to any new contract; new contract-like instrument; new solicitation for a contract or contract-like instrument; extension or renewal of an existing contract or contract-like instrument; and exercise of an option on an existing contract or contract-like instrument, if:
-
-(i) it is a procurement contract or contract-like instrument for services, construction, or a leasehold interest in real property;
-
-(ii) it is a contract or contract-like instrument for services covered by the Service Contract Act, 41 U.S.C. 6701 <i>et seq</i>.;
-
-(iii) it is a contract or contract-like instrument for concessions, including any concessions contract excluded by Department of Labor regulations at 29 CFR 4.133(b); or
-
-(iv) it is a contract or contract-like instrument entered into with the Federal Government in connection with Federal property or lands and related to offering services for Federal employees, their dependents, or the general public;
-
-(b) This order shall not apply to:
-
-(i) grants;
-
-(ii) contracts, contract-like instruments, or agreements with Indian Tribes under the Indian Self-Determination and Education Assistance Act (Public Law 93–638) \[25 U.S.C. 5301 et seq.\], as amended;
-
-(iii) contracts or subcontracts whose value is equal to or less than the simplified acquisition threshold, as that term is defined in section 2.101 of the Federal Acquisition Regulation;
-
-(iv) employees who perform work outside the United States or its outlying areas, as those terms are defined in section 2.101 of the Federal Acquisition Regulation; or
-
-(v) subcontracts solely for the provision of products.
-
-Sec. 6. <i>Effective Date</i>. (a) Except as provided in subsection (b) of this section, this order is effective immediately and shall apply to new contracts; new contract-like instruments; new solicitations for contracts or contract-like instruments; extensions or renewals of existing contracts or contract-like instruments; and exercises of options on existing contracts or contract-like instruments, as described in section 5(a) of this order, where the relevant contract or contract-like instrument will be entered into, the relevant contract or contract-like instrument will be extended or renewed, or the relevant option will be exercised, on or after:
-
-(i) October 15, 2021, consistent with the effective date for the action taken by the Federal Acquisition Regulatory Council pursuant to section 3(a) of this order; or
-
-(ii) for contracts and contract-like instruments that are not subject to the Federal Acquisition Regulation and where an agency action is taken pursuant to section 3(b) of this order, October 15, 2021, consistent with the effective date for such action.
-
-(b) As an exception to subsection (a) of this section, where agencies have issued a solicitation before the effective date for the relevant action taken pursuant to section 3 of this order and entered into a new contract or contract-like instrument resulting from such solicitation within 30 days of such effective date, such agencies are strongly encouraged to ensure that the safety protocols specified in section 2 of this order are applied in the new contract or contract-like instrument. But if that contract or contract-like instrument term is subsequently extended or renewed, or an option is subsequently exercised under that contract or contract-like instrument, the safety protocols specified in section 2 of this order shall apply to that extension, renewal, or option.
-
-(c) For all existing contracts and contract-like instruments, solicitations issued between the date of this order \[Sept. 9, 2021\] and the effective dates set forth in this section, and contracts and contract-like instruments entered into between the date of this order and the effective dates set forth in this section, agencies are strongly encouraged, to the extent permitted by law, to ensure that the safety protocols required under those contracts and contract-like instruments are consistent with the requirements specified in section 2 of this order.
-
-Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 14042, Sept. 9, 2021, 86 F.R. 50985, which related to COVID safety protocols for Federal contractors, was revoked by Ex. Ord. No. 14099, §2, May 9, 2023, 88 F.R. 30891.
 
 #### Ex. Ord. No. 14069. Advancing Economy, Efficiency, and Effectiveness in Federal Contracting by Promoting Pay Equity and Transparency
 
@@ -374,7 +310,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. It is the policy of my Administration to eliminate discriminatory pay practices that inhibit the economy, efficiency, and effectiveness of the Federal workforce and the procurement of property and services by the Federal Government. The Office of Personnel Management anticipates issuing a proposed rule that will address the use of salary history in the hiring and pay-setting processes for Federal employees, consistent with Executive Order 14035 of June 25, 2021 (Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce) \[42 U.S.C. 2000e note\]. The purpose of this order is to direct the consideration of parallel efforts with respect to Federal procurement.
 
-Sec. 2. <i>Economy, Efficiency, and Effectiveness in Federal Procurement</i>. Consistent with applicable law and subject to the availability of appropriations, the Federal Acquisition Regulatory Council, in consultation with the Secretary of Labor and the heads of other executive departments and agencies as appropriate, shall consider issuing proposed rules to promote economy, efficiency, and effectiveness in Federal procurement by enhancing pay equity and transparency for job applicants and employees of Federal contractors and subcontractors. In doing so, the Federal Acquisition Regulatory Council shall specifically consider whether any such rules should limit or prohibit Federal contractors and subcontractors from seeking and considering information about job applicants' and employees' existing or past compensation when making employment decisions. The Federal Acquisition Regulatory Council shall also consider the inclusion of appropriate accountability measures in any such rules.
+Sec. 2. <i>Economy, Efficiency, and Effectiveness in Federal Procurement</i>. Consistent with applicable law and subjectto the availability of appropriations, the Federal Acquisition Regulatory Council, in consultation with the Secretary of Labor and the heads of other executive departments and agencies as appropriate, shall consider issuing proposed rules to promote economy, efficiency, and effectiveness in Federal procurement by enhancing pay equity and transparency for job applicants and employees of Federal contractors and subcontractors. In doing so, the Federal Acquisition Regulatory Council shall specifically consider whether any such rules should limit or prohibit Federal contractors and subcontractors from seeking and considering information about job applicants' and employees' existing or past compensation when making employment decisions. The Federal Acquisition Regulatory Council shall also consider the inclusion of appropriate accountability measures in any such rules.
 
 Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

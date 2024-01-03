@@ -16,7 +16,7 @@ Every investment adviser who makes use of the mails or of any means or instrumen
 
 #### (2) Treatment of records
 
-&emsp;The records and reports of any private fund to which an investment adviser registeredunder this subchapter provides investment advice shall be deemed to be the records and reports of the investment adviser.
+&emsp;The records and reports of any private fund to which an investment adviser registered under this subchapter provides investment advice shall be deemed to be the records and reports of the investment adviser.
 
 #### (3) Required information
 
@@ -90,7 +90,7 @@ Every investment adviser who makes use of the mails or of any means or instrumen
 
 #### (A) In general
 
-&emsp;&emsp;The Commission, the Council, and any other department, agency, or self-regulatory organization that receives information, reports, documents, records, or informationfrom the Commission under this subsection, shall be exempt from the provisions of section 552 of title 5 with respect to any such report, document, record, or information. Any proprietary information of an investment adviser ascertained by the Commission from any report required to be filed with the Commission pursuant to this subsection shall be subject to the same limitations on public disclosure as any facts ascertained during an examination, as provided by section 80b–10(b) of this title.
+&emsp;&emsp;The Commission, the Council, and any other department, agency, or self-regulatory organization that receives information, reports, documents, records, or information from the Commission under this subsection, shall be exempt from the provisions of section 552 of title 5 with respect to any such report, document, record, or information. Any proprietary information of an investment adviser ascertained by the Commission from any report required to be filed with the Commission pursuant to this subsection shall be subject to the same limitations on public disclosure as any facts ascertained during an examination, as provided by section 80b–10(b) of this title.
 
 #### (B) Proprietary information
 

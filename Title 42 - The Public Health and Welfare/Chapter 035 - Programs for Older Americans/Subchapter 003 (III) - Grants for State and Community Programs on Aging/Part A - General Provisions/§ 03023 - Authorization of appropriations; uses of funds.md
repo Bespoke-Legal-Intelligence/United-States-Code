@@ -18,7 +18,7 @@
 
 (e) There are authorized to be appropriated to carry out part E (relating to family caregiver support) $193,869,020 for fiscal year 2020, $205,501,161 for fiscal year 2021, $217,831,231 for fiscal year 2022, $230,901,105 for fiscal year 2023, and $244,755,171 for fiscal year 2024.
 
-(Pub. L. 89–73, title III, §303, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1518; amended Pub. L. 97–115, §3(c), (d), Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §303, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§122(a), (b), 129(c)(1), 140(a), 141(a), 143(a), 144(b), 145, 155(b), Nov. 29, 1987, 101 Stat. 933, 935, 944,946, 947, 949, 950, 952; Pub. L. 102–375, title III, §§303, 316(b), title VII, §708(c)(3), Sept. 30, 1992, 106 Stat. 1220, 1241, 1293; Pub. L. 106–501, title III, §302, Nov. 13, 2000, 114 Stat. 2238; Pub. L. 109–365, title III, §303, Oct. 17, 2006, 120 Stat. 2538; Pub. L. 114–144, §4(a), Apr. 19, 2016, 130 Stat. 337; Pub. L. 116–131, title II, §203(a), Mar. 25, 2020, 134 Stat. 254.)
+(Pub. L. 89–73, title III, §303, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1518; amended Pub. L. 97–115, §3(c), (d), Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §303, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§122(a), (b), 129(c)(1), 140(a), 141(a), 143(a), 144(b), 145, 155(b), Nov. 29, 1987, 101 Stat. 933, 935, 944, 946, 947, 949, 950, 952; Pub. L. 102–375, title III, §§303, 316(b), title VII, §708(c)(3), Sept. 30, 1992, 106 Stat. 1220, 1241, 1293; Pub. L. 106–501, title III, §302, Nov. 13, 2000, 114 Stat. 2238; Pub. L. 109–365, title III, §303, Oct. 17, 2006, 120 Stat. 2538; Pub. L. 114–144, §4(a), Apr. 19, 2016, 130 Stat. 337; Pub. L. 116–131, title II, §203(a), Mar. 25, 2020, 134 Stat. 254.)
 
 #### <b>Editorial Notes</b>
 
@@ -34,7 +34,7 @@ Another prior section 3023, Pub. L. 89–73, title III, §303, July 14, 1965, 79
 
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–144, §4(a)(1), substituted "$356,717,276 for fiscal year 2017, $364,456,847 for fiscal year 2018, and $372,196,069 for fiscal year 2019." for "such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011."
 
-Subsec. (b)(1). Pub. L. 114–144, §4(a)(2)(A), substituted "$459,937,586 for fiscal year 2017, $469,916,692 for fiscal year 2018, and $479,895,348 for fiscal year 2019." for "such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011."
+Subsec. (b)(1). Pub. L. 114–144, §4(a)(2)(A), substituted "$459,937,586 for fiscal year 2017, $469,916,692 for fiscalyear 2018, and $479,895,348 for fiscal year 2019." for "such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011."
 
 Subsec. (b)(2). Pub. L. 114–144, §4(a)(2)(B), substituted "$232,195,942 for fiscal year 2017, $237,233,817 for fiscal year 2018, and $242,271,465 for fiscal year 2019." for "such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011."
 
@@ -76,7 +76,7 @@ Pub. L. 102–375, §303(a)(1), substituted "$461,376,000 for fiscal year 1992 a
 
 Subsec. (a)(2). Pub. L. 102–375, §303(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Subject to subsection (h) of this section, there are authorized to be appropriated $20,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989, 1990, and 1991 to carry out section 3027(a)(12) of this title."
 
-Subsec. (a)(3). Pub. L. 102–375, §303(a)(3), struck out par. (3) which read as follows: "Subject to subsection (h) of this section, there are authorized to be appropriated $10,000,000 for fiscal year 1989, $10,000,000 for fiscal year 1990, and such sums as may be necessary for fiscal year 1991 to carry out section 3026(a)(6)(P) of thistitle. Amounts appropriated under this subsection shall remain available until expended."
+Subsec. (a)(3). Pub. L. 102–375, §303(a)(3), struck out par. (3) which read as follows: "Subject to subsection (h) of this section, there are authorized to be appropriated $10,000,000 for fiscal year 1989, $10,000,000 for fiscal year 1990, and such sums as may be necessary for fiscal year 1991 to carry out section 3026(a)(6)(P) of this title. Amounts appropriated under this subsection shall remain available until expended."
 
 Subsec. (b)(1). Pub. L. 102–375, §303(b)(1), substituted "$505,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995" for "$414,750,000 for the fiscal year 1988, $435,488,000 for the fiscal year 1989, $457,262,000 for the fiscal year 1990, and $480,125,000 for the fiscal year 1991".
 
@@ -94,7 +94,7 @@ Subsec. (e). Pub. L. 102–375, §303(d), substituted "There are authorized to b
 
 Subsec. (f). Pub. L. 102–375, §303(e), substituted "There are authorized to be appropriated $25,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995," for "Subject to subsection (h) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989, 1990, and 1991".
 
-Subsec. (g). Pub. L. 102–375, §303(f), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "Subject to subsection (h) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989, 1990, and 1991, to carry out part G of this subchapter (relating to abuse, neglect, and exploitation of older individuals)."
+Subsec. (g). Pub. L. 102–375, §303(f), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "Subject to subsection (h) of this section, thereare authorized to be appropriated $5,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989, 1990, and 1991, to carry out part G of this subchapter (relating to abuse, neglect, and exploitation of older individuals)."
 
 Subsec. (h). Pub. L. 102–375, §303(g), struck out subsec. (h) which read as follows: "No funds may be appropriated under subsection (a)(2), (a)(3), (e), (f), or (g) of this section for a fiscal year unless the aggregate amount appropriated for such fiscal year to carry out this subchapter (other than sections 3026(a)(6)(P), 3027(a)(12), and 3030a of this title, and parts E, F, and G of this subchapter), subchapter IV of this chapter (other than sections 3035f and 3035g of this title), subchapter IX of this chapter, and subchapter X of this chapter exceeds 105 percent of the aggregate amount appropriated for the preceding fiscal year to carry out such subchapters."
 

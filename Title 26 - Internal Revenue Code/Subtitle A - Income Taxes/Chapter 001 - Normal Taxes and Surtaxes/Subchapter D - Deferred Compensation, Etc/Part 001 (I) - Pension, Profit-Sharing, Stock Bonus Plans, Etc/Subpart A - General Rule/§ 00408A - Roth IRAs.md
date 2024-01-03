@@ -66,6 +66,14 @@ For purposes of this title, the term "Roth IRA" means an individual retirement p
 
 > &emsp;&emsp;Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
+#### (E) Special rule for certain transfers from qualified tuition programs
+
+&emsp;&emsp;The amount determined under subparagraph (A) shall be increased by the lesser of—
+
+&emsp;&emsp;&emsp;(i) the amount of contributions described in section 529(c)(3)(E) for the taxable year, or
+
+&emsp;&emsp;&emsp;(ii) the amount of the reduction determined under such subparagraph (determined without regard to this subparagraph).
+
 #### (4) Mandatory distribution rules not to apply before death
 
 &emsp;Notwithstanding subsections (a)(6) and (b)(3) of section 408 (relating to required distributions), the following provisions shall not apply to any Roth IRA:
@@ -82,7 +90,13 @@ For purposes of this title, the term "Roth IRA" means an individual retirement p
 
 #### (B) Coordination with limit
 
-&emsp;&emsp;A qualified rollover contribution shall not be taken into account for purposes of paragraph (2).
+#### (i) In general
+
+&emsp;&emsp;&emsp;A qualified rollover contribution shall not be taken into account for purposes of paragraph (2).
+
+#### (ii) Exception for rollovers from qualified tuition programs
+
+&emsp;&emsp;&emsp;Clause (i) shall not apply to any qualified rollover contribution described in subsection (e)(1)(C).
 
 #### (6) Time when contributions made
 
@@ -158,7 +172,7 @@ For purposes of this title—
 
 #### (II) Limitation on aggregate amount included
 
-&emsp;&emsp;&emsp;&emsp;The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceedthe aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 2-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.
+&emsp;&emsp;&emsp;&emsp;The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceed the aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 2-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.
 
 #### (ii) Death of distributee
 
@@ -248,9 +262,11 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) in the case of an individual retirement plan, such rollover contribution meets the requirements of section 408(d)(3), and
 
-&emsp;&emsp;&emsp;(ii) in the case of any eligible retirement plan (as defined in section 402(c)(8)(B) other than clauses (i) and (ii) thereof), such rollover contribution meets the requirements of section 402(c), 403(b)(8), or 457(e)(16), as applicable.
+&emsp;&emsp;&emsp;(ii) in the case of any eligible retirement plan (as defined in section 402(c)(8)(B) other than clauses (i) and (ii) thereof), such rollover contribution meets the requirements of section 402(c), 403(b)(8), or 457(e)(16), as applicable, and
 
-> &emsp;&emsp;For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.
+&emsp;&emsp;<i>"(C) from a qualified tuition program to the extent provided in section 529(c)(3)(E).</i>
+
+> &emsp;&emsp;For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA. The earnings and contributions of any qualified tuition program from which a qualified rollover contribution is made under subparagraph (C) shall be treated in the same manner as the earnings and contributions of a Roth IRA from which a qualified rollover contribution is made under subparagraph (A).
 
 #### (2) Military death gratuity
 
@@ -274,53 +290,11 @@ For purposes of this section—
 
 &emsp;In the case of any payment or distribution out of a simple retirement account (as defined in section 408(p)) with respect to which an election has been made under section 408(p)(12) and to which 72(t)(6) applies, the term "qualified rollover contribution" shall not include any payment or distribution paid into an account other than another simple retirement account (as so defined).
 
-(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b), May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 115–97, title I, §§11002(d)(1)(W), 13611(a), Dec. 22, 2017, 131 Stat. 2060, 2165; Pub. L. 115–141, div. U, title IV, §401(a)(77), (78), Mar. 23, 2018, 132 Stat. 1187; Pub. L. 116–94, div. O, title I, §107(c), Dec. 20, 2019, 133 Stat. 3149; Pub. L. 117–328, div. T, title I, §126(b), title IV, §401(b)(5), title VI, §601(a), (c)(2), (d), Dec. 29, 2022, 136 Stat. 5316, 5388, 5390.)
+(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b),May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 115–97, title I, §§11002(d)(1)(W), 13611(a), Dec. 22, 2017, 131 Stat. 2060, 2165; Pub. L. 115–141, div. U, title IV, §401(a)(77), (78), Mar. 23, 2018, 132 Stat. 1187; Pub. L. 116–94, div. O, title I, §107(c), Dec. 20, 2019, 133 Stat. 3149; Pub. L. 117–328, div. T, title I, §126(b), title IV, §401(b)(5), title VI, §601(a), (c)(2), (d), Dec. 29, 2022, 136 Stat. 5316, 5388, 5390.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Internal Revenue Notices listed in a table under section 401 of this title.</i>
-
-#### Amendment of Section
-
-<i>Pub. L. 117–328, div. T, title I, §126(b), (d), Dec. 29, 2022, 136 Stat. 5316, 5317, provided that, applicable with respect to distributions after Dec. 31, 2023, this section is amended as follows:</i>
-
-<i>(1) in subsection (c)—</i>
-
-<i>(A) in paragraph (3), by adding at the end the following new subparagraph:</i>
-
-#### <i>"(E) Special rule for certain transfers from qualified tuition programs</i>
-
-&emsp;&emsp;<i>"The amount determined under subparagraph (A) shall be increased by the lesser of—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) the amount of contributions described in section 529(c)(3)(E) for the taxable year, or</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) the amount of the reduction determined under such subparagraph (determined without regard to this subparagraph)."; and</i>
-
-<i>(B) in paragraph (5)(B)—</i>
-
-<i>(i) by striking "A qualified rollover contribution" and inserting the following:</i>
-
-#### <i>"(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>"A qualified rollover contribution"; and</i>
-
-<i>(ii) by adding at the end the following:</i>
-
-#### <i>"(ii) Exception for rollovers from qualified tuition programs</i>
-
-&emsp;&emsp;&emsp;<i>"Clause (i) shall not apply to any qualified rollover contribution described in subsection (e)(1)(C)."; and</i>
-
-<i>(2) in subsection (e)(1)—</i>
-
-<i>(A) by striking the period at the end of subparagraph (B) and inserting ", and";</i>
-
-<i>(B) by inserting after subparagraph (B) the following new subparagraph:</i>
-
-&emsp;&emsp;<i>"(C) from a qualified tuition program to the extent provided in section 529(c)(3)(E)."; and</i>
-
-<i>(C) by adding at the end the following new sentence: "The earnings and contributions of any qualified tuition program from which a qualified rollover contribution is made under subparagraph (C) shall be treated in the same manner as the earnings and contributions of a Roth IRA from which a qualified rollover contribution is made under subparagraph (A)."</i>
-
-<i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -400,7 +374,7 @@ Annual limit on number of rollovers not to apply.—Section 408(d)(3)(B) shall n
 
 Application of section 72.—For purposes of applying section 72 in the case of a distribution which is not a qualified distribution, the amount treated as a rollover by reason of subparagraph (A) shall be treated as investment in the contract." See 2006 Amendment note below.
 
-<b>2006</b>—Subsec. (c)(3)(B). Pub. L. 109–222, §512(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "A taxpayer shall not be allowed to make a qualified rollover contribution to a Roth IRA from an individual retirement plan other than a Roth IRA during any taxable year if, for the taxable year of the distribution to which such contribution relates—
+<b>2006</b>—Subsec. (c)(3)(B). Pub. L. 109–222, §512(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "Ataxpayer shall not be allowed to make a qualified rollover contribution to a Roth IRA from an individual retirement plan other than a Roth IRA during any taxable year if, for the taxable year of the distribution to which such contribution relates—
 
 &emsp;"(i) the taxpayer's adjusted gross income exceeds $100,000, or
 

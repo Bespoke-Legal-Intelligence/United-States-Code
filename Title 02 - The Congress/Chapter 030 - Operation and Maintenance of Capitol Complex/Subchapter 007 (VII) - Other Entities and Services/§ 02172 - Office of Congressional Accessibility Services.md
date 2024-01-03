@@ -32,7 +32,7 @@
 
 &emsp;&emsp;The Office of Congressional Accessibility Services shall—
 
-&emsp;&emsp;&emsp;(i) provide and coordinate accessibility services for individuals with disabilities, including Members of Congress, officers and employees of the House of Representatives and the Senate, and visitors, in the United States Capitol Complex; and
+&emsp;&emsp;&emsp;(i) provide and coordinate accessibility services for individuals with disabilities,including Members of Congress, officers and employees of the House of Representatives and the Senate, and visitors, in the United States Capitol Complex; and
 
 &emsp;&emsp;&emsp;(ii) provide information regarding accessibility for individuals with disabilities, as well as related training and staff development, to Members of Congress and employees of the Senate and the House of Representatives.
 
@@ -86,7 +86,7 @@ Section is from the Legislative Branch Appropriations Act, 1990.
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–437 amended section generally, substituting provisions relating to Office of CongressionalAccessibility Services for provisions relating to Special Services Office.
+<b>2008</b>—Pub. L. 110–437 amended section generally, substituting provisions relating to Office of Congressional Accessibility Services for provisions relating to Special Services Office.
 
 <b>1995</b>—Pub. L. 104–53 substituted "Sergeant at Arms" for "Clerk" after "comprised of the" and "Architect of the Capitol" for "Librarian of Congress".
 

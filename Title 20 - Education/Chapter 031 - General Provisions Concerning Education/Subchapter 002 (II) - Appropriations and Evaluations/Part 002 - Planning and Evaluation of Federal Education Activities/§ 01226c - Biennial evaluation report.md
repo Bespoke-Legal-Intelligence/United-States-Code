@@ -1,6 +1,6 @@
 ### §1226c. Biennial evaluation report
 
-Not later than March 31, 1995, and every two years after such date, the Secretary shall transmit to the Committee on Education and Laborof the House of Representatives and the Committee on Labor and Human Resources of the Senate an evaluation report on the effectiveness of applicable programs in achieving such programs' legislated intent and purposes during the two preceding fiscal years. Such report shall—
+Not later than March 31, 1995, and every two years after such date, the Secretary shall transmit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate an evaluation report on the effectiveness of applicable programs in achieving such programs' legislated intent and purposes during the two preceding fiscal years. Such report shall—
 
 &emsp;(1) contain program profiles that include legislative citations, multiyear funding histories, and legislated purposes;
 
@@ -47,6 +47,8 @@ Pub. L. 103–382, §235, amended section generally, substituting single undesig
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

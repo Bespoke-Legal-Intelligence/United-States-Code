@@ -120,7 +120,7 @@ Reports.—(1)(A) Not later than 60 days after completing an assessment pursuant
 
 (2) Not later than 30 days after receiving a report under paragraph (1), the Secretary shall publish such report in the Federal Register and on a publicly accessible internet website of the Department.
 
-(3) Not later than 90 days after receiving a report under paragraph (1), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report outlining the feasibility and advisability of implementing the recommendations made by the private sector entity or entities in such report received, including an identification of the timeline, cost, and any legislative authorities necessary for such implementation.
+(3) Not later than 90 days after receiving a report under paragraph (1), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report outlining the feasibility and advisability of implementing the recommendations made by the private sector entity or entities in such reportreceived, including an identification of the timeline, cost, and any legislative authorities necessary for such implementation.
 
 (g)
 

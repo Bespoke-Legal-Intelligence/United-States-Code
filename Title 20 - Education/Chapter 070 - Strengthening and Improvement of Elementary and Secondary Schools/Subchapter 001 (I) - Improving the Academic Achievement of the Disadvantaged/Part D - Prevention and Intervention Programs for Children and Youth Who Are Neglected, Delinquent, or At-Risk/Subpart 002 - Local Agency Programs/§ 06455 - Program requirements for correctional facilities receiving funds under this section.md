@@ -8,7 +8,7 @@ Each correctional facility entering into an agreement with a local educational a
 
 &emsp;(3) where feasible, provide transition assistance to help the child or youth stay in school, including coordination of services for the family, counseling, assistance in accessing drug and alcohol abuse prevention programs, tutoring, and family counseling;
 
-&emsp;(4) provide support programs that encourage children and youth who have dropped out of school to reenter school and attain a regular high school diploma once their term at the correctional facility has been completed, or provide such children and youth with the skills necessary to gain employment or seek a regular high school diploma or its recognized equivalent;
+&emsp;(4) provide support programs that encourage children and youth who have dropped out of school to reenter school and attain a regular high school diploma once their term at the correctional facility has been completed, or provide such children and youth with theskills necessary to gain employment or seek a regular high school diploma or its recognized equivalent;
 
 &emsp;(5) work to ensure that the correctional facility is staffed with teachers and other qualified staff who are trained to work with children and youth with disabilities taking into consideration the unique needs of such children and youth;
 
@@ -54,7 +54,7 @@ Par. (9). Pub. L. 114–95, §1401(12)(C), substituted "career" for "vocational"
 
 Pars. (12), (13). Pub. L. 114–95, §1401(12)(D)–(F), added pars. (12) and (13).
 
-<b>2014</b>—Par. (9). Pub. L. 113–128 substituted "coordinate funds received under this subpart with other local, State, and Federal funds available to provide servicesto participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act," for "coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of Public Law 105–220,".
+<b>2014</b>—Par. (9). Pub. L. 113–128 substituted "coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act," for "coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of Public Law 105–220,".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

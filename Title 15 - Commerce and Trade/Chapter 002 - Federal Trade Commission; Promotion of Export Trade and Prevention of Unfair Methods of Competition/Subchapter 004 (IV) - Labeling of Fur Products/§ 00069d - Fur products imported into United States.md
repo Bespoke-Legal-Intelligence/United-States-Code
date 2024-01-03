@@ -18,7 +18,7 @@ A verified statement from the manufacturer, producer of, or dealer in, imported 
 
 #### References in Text
 
-The Tariff Act of 1930, referred to in subsecs. (a) and (b), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. Title IV of the Tariff Act of 1930 is classified generally to subtitle III (§1401 et seq.) of chapter 4 of Title 19. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, referred to in subsecs. (a) and (b), is act June 17, 1930, ch. 497, 46 Stat. 590, which isclassified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. Title IV of the Tariff Act of 1930 is classified generally to subtitle III (§1401 et seq.) of chapter 4 of Title 19. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (b), is defined in section 69 of this title.
 
@@ -26,5 +26,5 @@ The Federal Trade Commission Act, referred to in subsec. (b), is defined in sect
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of suchCommission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 

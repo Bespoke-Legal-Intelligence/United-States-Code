@@ -6,7 +6,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(A) such research into problems of fish management and culture as may be necessary to efficient administration affecting fish resources;
 
-&emsp;&emsp;(B) the acquisition of such facts as are necessary to guide and direct the regulation offishing by law, including the extent of the fish population, the drain on the fish supply from fishing and/or natural causes, the necessity of legal regulation of fishing, and the effects of any measures of regulation that are applied;
+&emsp;&emsp;(B) the acquisition of such facts as are necessary to guide and direct the regulation of fishing by law, including the extent of the fish population, the drain on the fish supply from fishing and/or natural causes, the necessity of legal regulation of fishing, and the effects of any measures of regulation that are applied;
 
 &emsp;&emsp;(C) the formulation and adoption of plans of restocking waters with food and game fishes according to natural areas or districts to which such plans are applicable, together with the acquisition of such facts as are necessary to the formulation, execution, and testing the efficacy of such plans;
 

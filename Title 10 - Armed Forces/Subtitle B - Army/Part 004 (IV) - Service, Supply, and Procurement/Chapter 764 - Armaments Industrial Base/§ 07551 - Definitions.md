@@ -30,7 +30,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Guidance Regarding Use of Organic Industrial Base
 
-Pub. L. 115–91, div. A, title III, §323, Dec. 12, 2017, 131 Stat. 1353, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of the Army shall establish clear and prescriptive guidance on the process for conducting make-or-buy analyses for Army requirements, including the use of the organic industrial base."
+Pub. L. 115–91, div. A, title III, §323, Dec. 12, 2017, 131 Stat. 1353, provided that: "Not later than 90 days afterthe date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of the Army shall establish clear and prescriptive guidance on the process for conducting make-or-buy analyses for Army requirements, including the use of the organic industrial base."
 
 #### Inclusion of Certain Industrial Plants in the Armament Retooling and Manufacturing Support Initiative
 

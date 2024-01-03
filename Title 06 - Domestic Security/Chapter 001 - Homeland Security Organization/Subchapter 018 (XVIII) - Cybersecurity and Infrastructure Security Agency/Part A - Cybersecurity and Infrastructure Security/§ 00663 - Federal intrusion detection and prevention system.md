@@ -6,9 +6,9 @@ In this section—
 
 &emsp;(1) the term "agency" has the meaning given the term in section 3502 of title 44;
 
-&emsp;(2) the term "agency information" means information collected or maintained by or on behalf of an agency;
+&emsp;(2) the term "agency information" means information collected or maintained by or on behalf of an agency; <sup>1</sup>
 
-&emsp;(3) the term "agency information system" has the meaning given the term in section 660 of this title; and
+&emsp;(3) the term "agency information system" has the meaning given the term in section 660 of this title; and <sup>2</sup>
 
 #### (b) Requirement
 
@@ -28,7 +28,7 @@ In this section—
 
 In carrying out subsection (b), the Secretary—
 
-&emsp;(1) may access, and the head of an agency may disclose to the Secretary or a private entity providing assistance to the Secretary under paragraph (2), information transiting or traveling to or from an agency informationsystem, regardless of the location from which the Secretary or a private entity providing assistance to the Secretary under paragraph (2) accesses such information, notwithstanding any other provision of law that would otherwise restrict or prevent the head of an agency from disclosing such information to the Secretary or a private entity providing assistance to the Secretary under paragraph (2);
+&emsp;(1) may access, and the head of an agency may disclose to the Secretary or a private entity providing assistance to the Secretary under paragraph (2), information transiting or traveling to or from an agency information system, regardless of the location from which the Secretary or a private entity providing assistance to the Secretary under paragraph (2) accesses such information, notwithstanding any other provision of law that would otherwise restrict or prevent the head of an agency from disclosing such information to the Secretary or a private entity providing assistance to the Secretary under paragraph (2);
 
 &emsp;(2) may enter into contracts or other agreements with, or otherwise request and obtain the assistance of, private entities to deploy, operate, and maintain technologies in accordance with subsection (b);
 
@@ -98,7 +98,7 @@ Subsec. (a)(4). Pub. L. 115–278, §2(g)(9)(A)(vii)(II), substituted "section 6
 
 #### Competition Relating to Cybersecurity Vulnerabilities
 
-Pub. L. 117–81, div. A, title XV, §1544, Dec. 27, 2021, 135 Stat. 2057, provided that: "The Under Secretary forScience and Technology of the Department of Homeland Security, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency of the Department, may establish an incentive-based program that allows industry, individuals, academia, and others to compete in identifying remediation solutions for cybersecurity vulnerabilities (as such term is defined in section 2209 of the Homeland Security Act of 2002 \[6 U.S.C. 659\]) to information systems (as such term is defined in such section 2209) and industrial control systems, including supervisory control and data acquisition systems."
+Pub. L. 117–81, div. A, title XV, §1544, Dec. 27, 2021, 135 Stat. 2057, provided that: "The Under Secretary for Science and Technology of the Department of Homeland Security, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency of the Department, may establish an incentive-based program that allows industry, individuals, academia, and others to compete in identifying remediation solutions for cybersecurity vulnerabilities (as such term is defined in section 2209 of the Homeland Security Act of 2002 \[6 U.S.C. 659\]) to information systems (as such term is defined in such section 2209 \[see 6 U.S.C. 650\]) and industrial control systems, including supervisory control and data acquisition systems."
 
 #### Department of Homeland Security Disclosure of Security Vulnerabilities
 
@@ -212,7 +212,7 @@ Definitions.—In this section:
 
 &emsp;"(2) The term 'bug bounty program' means a program under which—
 
-&emsp;&emsp;"(A) individuals, organizations, and companies are temporarily authorized to identify and report vulnerabilities of appropriate information systems of the Department; and
+&emsp;&emsp;"(A) individuals, organizations, and companies are temporarily authorized to identify and reportvulnerabilities of appropriate information systems of the Department; and
 
 &emsp;&emsp;"(B) eligible individuals, organizations, and companies receive compensation in exchange for such reports.
 
@@ -309,4 +309,8 @@ Definition.—Notwithstanding section 222 \[6 U.S.C. 1521\], in this subsection,
 "(4)
 
 Rule of construction.—Nothing in this subsection shall be construed to limit an agency from applying the intrusion detection and prevention capabilities to an information system other than an agency information system under section 2213(b)(1) of the Homeland Security Act of 2002 \[6 U.S.C. 663(b)(1)\], at the discretion of the head of the agency or as provided in relevant policies, directives, and guidelines."
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
+
+<i><sup>2</sup></i><i> So in original. The "; and" probably should be a period.</i>
 

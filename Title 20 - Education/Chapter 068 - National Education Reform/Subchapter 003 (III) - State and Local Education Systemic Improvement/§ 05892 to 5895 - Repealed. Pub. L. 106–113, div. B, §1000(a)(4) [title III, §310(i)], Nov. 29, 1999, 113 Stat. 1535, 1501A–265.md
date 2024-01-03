@@ -4,7 +4,7 @@ Section 5892, Pub. L. 103–227, title III, §312, Mar. 31, 1994, 108 Stat. 178;
 
 Section 5893, Pub. L. 103–227, title III, §313, Mar. 31, 1994, 108 Stat. 179, related to technical and other assistance regarding school finance equity.
 
-Section 5894, Pub. L. 103–227, title III, §314, Mar. 31, 1994, 108 Stat. 180; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(13)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to national leadership.
+Section 5894, Pub. L. 103–227, title III, §314, Mar. 31, 1994, 108 Stat. 180; Pub. L. 104–134, title I, §101(d) \[titleVII, §703(a)(13)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to national leadership.
 
 Section 5895, Pub. L. 103–227, title III, §315, Mar. 31, 1994, 108 Stat. 181; Pub. L. 103–382, title III, §384, Oct. 20, 1994, 108 Stat. 4018; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(14)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to assistance to outlying areas and to Secretary of the Interior.
 

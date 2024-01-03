@@ -226,7 +226,7 @@ The purpose of this section is to establish and support State and local performa
 
 &emsp;&emsp;&emsp;&emsp;(III) disaggregate data by the career and technical education programs or programs of study of the CTE concentrators, except that in a case in which reporting by such program or program of study is impractical, the data may be disaggregated by the career clusters of the CTE concentrators, if appropriate; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) for CTE concentrators described in paragraph (2)(A)(iii) and paragraph (2)(B)(i), disaggregate data, to the extent such data is available, by each of the following:
+&emsp;&emsp;&emsp;&emsp;(IV) for CTE concentrators described in paragraph (2)(A)(iii) and paragraph\(2)(B)(i), disaggregate data, to the extent such data is available, by each of the following:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) Individuals enrolled in postsecondary education (disaggregated by postsecondary award level, including certificate, associate, or baccalaureate degree).
 
@@ -268,7 +268,7 @@ Another prior section 2323, Pub. L. 88–210, title I, §113, as added Pub. L. 9
 
 Subsec. (b)(1). Pub. L. 115–224, §112(1)(B)(i), inserted "State determined" before "performance" in introductory provisions.
 
-Subsec. (b)(1)(B), (C). Pub. L. 115–224, §112(1)(B)(ii)–(iv), redesignated subpar. (C) as (B), substituted "a State determined level of performance" for "a State adjusted level of performance" and struck out", and State levels of performance described in paragraph (3)(B) for each additional indicator of performance" before period at end, and struck out former subpar. (B) which read as follows: "any additional indicators of performance (if any) identified by the eligible agency under paragraph (2)(C); and".
+Subsec. (b)(1)(B), (C). Pub. L. 115–224, §112(1)(B)(ii)–(iv), redesignated subpar. (C) as (B), substituted "a State determined level of performance" for "a State adjusted level of performance" and struck out ", and State levels of performance described in paragraph (3)(B) for each additional indicator of performance" before period at end, and struck out former subpar. (B) which read as follows: "any additional indicators of performance (if any) identified by the eligible agency under paragraph (2)(C); and".
 
 Subsec. (b)(2). Pub. L. 115–224, §112(1)(C), added par. (2) and struck out former par. (2) which described various indicators of performance.
 
@@ -294,7 +294,7 @@ Subsec. (b)(4)(A)(ii). Pub. L. 115–224, §112(1)(E)(i)(IV)(aa), (cc), substitu
 
 Pub. L. 115–224, §112(1)(E)(i)(IV)(bb), which directed substitution of "application" for "plan", was executed by making the substitution both places it appeared to reflect the probable intent of Congress.
 
-Subsec. (b)(4)(A)(iii). Pub. L. 115–224, §112(1)(E)(i)(V), amended cl. (iii) generally. Prior to amendment, text read as follows: "Prior to the third and fifth program years covered by the local plan, the eligible agency and each eligible recipient shall reach agreement on the local adjusted levels of performance for each of the core indicators of performance for the corresponding subsequent program years covered by the local plan, taking into account the factors described in clause (v). The local adjusted levels of performance agreed to under this clause shall be considered to be the local adjusted levels of performance for the eligible recipient for such years and shall be incorporated into the local plan."
+Subsec. (b)(4)(A)(iii). Pub. L. 115–224, §112(1)(E)(i)(V), amended cl. (iii) generally. Prior to amendment, textread as follows: "Prior to the third and fifth program years covered by the local plan, the eligible agency and each eligible recipient shall reach agreement on the local adjusted levels of performance for each of the core indicators of performance for the corresponding subsequent program years covered by the local plan, taking into account the factors described in clause (v). The local adjusted levels of performance agreed to under this clause shall be considered to be the local adjusted levels of performance for the eligible recipient for such years and shall be incorporated into the local plan."
 
 Pub. L. 115–224, §112(1)(E)(i)(II), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text of cl. (iii) read as follows: "The eligible agency and each eligible recipient shall reach agreement, as described in clause (i), on the eligible recipient's levels of performance for each of the core indicators of performance for the first 2 program years covered by the local plan, taking into account the levels identified in the local plan under clause (ii) and the factors described in clause (v). The levels of performance agreed to under this clause shall be considered to be the local adjusted levels of performance for the eligible recipient for such years and shall be incorporated into the local plan prior to the approval of such plan."
 

@@ -38,7 +38,7 @@ In this section:
 
 #### (B) Acreage limitation
 
-&emsp;&emsp;The Secretary shall carry out subparagraph (A) subject to a regional limitation determined by the Secretary on the number of acres for which payments may be received that takes into account planting history and potential planting, but does not exceed a total of 2,900,000 acres or the equivalent volume of production based on a yield of 50 bushels per acre.
+&emsp;&emsp;The Secretary shall carry out subparagraph (A) subject to a regional limitationdetermined by the Secretary on the number of acres for which payments may be received that takes into account planting history and potential planting, but does not exceed a total of 2,900,000 acres or the equivalent volume of production based on a yield of 50 bushels per acre.
 
 #### (C) Payment limitations
 

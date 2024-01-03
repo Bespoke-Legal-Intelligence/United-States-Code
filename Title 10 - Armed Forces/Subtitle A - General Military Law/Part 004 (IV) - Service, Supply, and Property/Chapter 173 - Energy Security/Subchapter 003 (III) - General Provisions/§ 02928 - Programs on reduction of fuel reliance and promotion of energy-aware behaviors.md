@@ -24,7 +24,7 @@ Minimum Required Elements.—Under the program of a military department under su
 
 &emsp;&emsp;(A) the incorporation of energy conservation and resiliency principles into training curricula and other training materials of the military department, including by updating such materials to include information on the effect of energy-aware behaviors on improving readiness and combat capability; and
 
-&emsp;&emsp;(B) the review of standard operating procedures, and other operational manuals and procedures, of the military department, toidentify procedures that increase fuel consumption with no operational benefit.
+&emsp;&emsp;(B) the review of standard operating procedures, and other operational manuals and procedures, of the military department, to identify procedures that increase fuel consumption with no operational benefit.
 
 &emsp;(3) The integration of operational energy factors into the wargaming of the military department and related training activities that involve the modeling of scenarios, in accordance with subsection (d), to provide to participants in such activities realistic data on the risks and challenges relating to operational energy and fuel logistics.
 

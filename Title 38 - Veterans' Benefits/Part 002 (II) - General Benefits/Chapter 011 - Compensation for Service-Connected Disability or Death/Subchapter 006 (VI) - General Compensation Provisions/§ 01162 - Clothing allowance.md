@@ -24,7 +24,7 @@ Continuous Nature of Payments.—Payments made to a veteran under subsection (a)
 
 Reviews of Claims.—(1) The Secretary shall, in accordance with this subsection, conduct reviews of a claim on which a clothing allowance for a veteran under subsection (a) is based to determine the continued eligibility of the veteran for such allowance.
 
-(2) The Secretary shall prescribe standards for determining whether a claim for a clothing allowance is based on a veteran's wearing or use of a prosthetic, orthopedic appliance (including a wheelchair), or medication whose wear or tear or irreparable damage on a veteran's outergarments or clothing is as likely as notsubject to no change for the duration of such wearing or use.
+(2) The Secretary shall prescribe standards for determining whether a claim for a clothing allowance is based on a veteran's wearing or use of a prosthetic, orthopedic appliance (including a wheelchair), or medication whose wear or tear or irreparable damage on a veteran's outergarments or clothing is as likely as not subject to no change for the duration of such wearing or use.
 
 (3)(A) If the Secretary determines, pursuant to standards prescribed under paragraph (2), that a claim for a clothing allowance is based on wear or tear or irreparable damage that is as likely as not subject to no change, the veteran shall continue to be deemed eligible for receipt of a clothing allowance under this section until the Secretary—
 
@@ -38,7 +38,7 @@ Reviews of Claims.—(1) The Secretary shall, in accordance with this subsection
 
 (D) If a veteran who is receiving a clothing allowance under subsection (a), based on the wearing or use of a prosthetic, orthopedic appliance (including a wheelchair), or medication, has received such clothing allowance beyond the prescribed or intended lifespan of such prosthetic, orthopedic appliance, or medication, the Secretary may periodically request the veteran to attest to continued usage.
 
-(4) If the Secretary determines that a claim for a clothing allowance under subsection (a) does not meet the requirements of paragraph (3)(A), then the Secretary may require the veteran to recertify the veteran's continued eligibility for a clothing allowance under this section periodically, but not more frequently than once each year.
+(4) If the Secretary determines that a claim for a clothing allowance under subsection (a)does not meet the requirements of paragraph (3)(A), then the Secretary may require the veteran to recertify the veteran's continued eligibility for a clothing allowance under this section periodically, but not more frequently than once each year.
 
 (5) When reviewing a claim under this subsection, the Secretary shall evaluate the evidence presented by the veteran and such other relevant evidence as the Secretary determines appropriate.
 
@@ -56,7 +56,7 @@ Determination Regarding Continued Eligibility.—If the Secretary determines, as
 
 #### Amendments
 
-<b>2022</b>—Pub. L. 117–328, §201(b)(1), (3), designated existing provisions as subsec. (a) and inserted heading, inserted comma after "The Secretary" in introductory provisions, and added subsecs. (b) to (d).
+<b>2022</b>—Pub. L. 117–328 designated existing provisions as subsec. (a) and inserted heading, inserted comma after "The Secretary" in introductory provisions, and added subsecs. (b) to (d).
 
 Subsec. (a)(2). Pub. L. 117–328, §201(b)(2), substituted "which—
 

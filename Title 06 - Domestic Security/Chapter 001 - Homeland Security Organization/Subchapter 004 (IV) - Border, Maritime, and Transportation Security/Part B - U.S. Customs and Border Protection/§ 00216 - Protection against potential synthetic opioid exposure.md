@@ -44,7 +44,7 @@ A prior section 216 of this title, Pub. L. 107–296, title IV, §416, Nov. 25, 
 
 <b>2022</b>—Subsec. (b)(1)(C). Pub. L. 117–263, §7135(a), added subpar. (C).
 
-Subsec. (c). Pub. L. 117–263, §7135(b), inserted ", containment devices," after "equipment" in headingand substituted ", opioid receptor antagonists, including naloxone, and containment devices" for "and opioid receptor antagonists, including naloxone" in text.
+Subsec. (c). Pub. L. 117–263, §7135(b), inserted ", containment devices," after "equipment" in heading and substituted ", opioid receptor antagonists, including naloxone, and containment devices" for "and opioid receptor antagonists, including naloxone" in text.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

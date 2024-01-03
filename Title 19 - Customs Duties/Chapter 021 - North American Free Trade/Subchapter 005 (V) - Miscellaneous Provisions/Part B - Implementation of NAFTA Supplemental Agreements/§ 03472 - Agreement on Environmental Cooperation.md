@@ -16,7 +16,7 @@ As used in this section—
 
 &emsp;(1) the term "Commission for Environmental Cooperation" means the commission established by Part Three of the North American Agreement on Environmental Cooperation; and
 
-&emsp;(2) the term "North American Agreement on Environmental Cooperation" means the North American Agreement on Environmental Cooperation Between the Government of the United States of America, the Government of Canada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
+&emsp;(2) the term "North American Agreement on Environmental Cooperation" means the NorthAmerican Agreement on Environmental Cooperation Between the Government of the United States of America, the Government of Canada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
 
 (Pub. L. 103–182, title V, §532, Dec. 8, 1993, 107 Stat. 2164; Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78; Pub. L. 116–260, div. O, title VI, §601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149.)
 
@@ -120,9 +120,11 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation
 
-Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
@@ -132,9 +134,11 @@ Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30,
 
 #### Extension of Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation
 
-Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 

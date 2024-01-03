@@ -132,7 +132,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;(i) is compensated at a rate that—
 
-&emsp;&emsp;&emsp;&emsp;(I)(aa) shall be not less than the higher of the rate specified in section 206(a)(1) of this title or the rate specified in the applicable State or local minimum wage law; and
+&emsp;&emsp;&emsp;&emsp;(I)(aa) shall be not less than the higher of the rate specified in section 206(a)(1) of this title or the rate specified in theapplicable State or local minimum wage law; and
 
 &emsp;&emsp;&emsp;&emsp;(bb) is not less than the customary rate paid by the employer for the same or similar work performed by other employees who are not individuals with disabilities, and who are similarly situated in similar occupations by the same employer and who have similar training, experience, and skills; or
 
@@ -206,7 +206,7 @@ For the purposes of this chapter:
 
 #### (B) Illegal use of drugs
 
-&emsp;&emsp;The term "illegal use of drugs" means the use of drugs, the possession or distribution of which is unlawful under the Controlled Substances Act \[21 U.S.C. 801 et seq.\]. Suchterm does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provisions of Federal law.
+&emsp;&emsp;The term "illegal use of drugs" means the use of drugs, the possession or distribution of which is unlawful under the Controlled Substances Act \[21 U.S.C. 801 et seq.\]. Such term does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provisions of Federal law.
 
 #### (11) Employment outcome
 
@@ -384,7 +384,7 @@ For the purposes of this chapter:
 
 #### (iii) Exclusion for certain services
 
-&emsp;&emsp;&emsp;Notwithstanding clause (i), for purposes of programs and activities providing health services and services provided under subchapters I, II, and III, an individual shall not be excluded from the benefits of such programs or activities on the basis of his or her current illegal use of drugs if he or she is otherwise entitled to such services.
+&emsp;&emsp;&emsp;Notwithstanding clause (i), for purposes of programs and activities providing health services and services providedunder subchapters I, II, and III, an individual shall not be excluded from the benefits of such programs or activities on the basis of his or her current illegal use of drugs if he or she is otherwise entitled to such services.
 
 #### (iv) Disciplinary action
 
@@ -430,7 +430,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;(ii) whose vocational rehabilitation can be expected to require multiple vocational rehabilitation services over an extended period of time; and
 
-&emsp;&emsp;&emsp;(iii) who has one or more physical or mental disabilities resulting from amputation, arthritis, autism, blindness, burn injury, cancer, cerebral palsy, cystic fibrosis, deafness, head injury, heart disease, hemiplegia, hemophilia, respiratory or pulmonary dysfunction, intellectual disability, mental illness, multiple sclerosis, muscular dystrophy, musculo-skeletal disorders, neurological disorders (including stroke and epilepsy), paraplegia, quadriplegia, and other spinal cord conditions, sickle cell anemia, specific learning disability, end-stage renal disease, or another disability or combination of disabilitiesdetermined on the basis of an assessment for determining eligibility and vocational rehabilitation needs described in subparagraphs (A) and (B) of paragraph (2) to cause comparable substantial functional limitation.
+&emsp;&emsp;&emsp;(iii) who has one or more physical or mental disabilities resulting from amputation, arthritis, autism, blindness, burn injury, cancer, cerebral palsy, cystic fibrosis, deafness, head injury, heart disease, hemiplegia, hemophilia, respiratory or pulmonary dysfunction, intellectual disability, mental illness, multiple sclerosis, muscular dystrophy, musculo-skeletal disorders, neurological disorders (including stroke and epilepsy), paraplegia, quadriplegia, and other spinal cord conditions, sickle cell anemia, specific learning disability, end-stage renal disease, or another disability or combination of disabilities determined on the basis of an assessment for determining eligibility and vocational rehabilitation needs described in subparagraphs (A) and (B) of paragraph (2) to cause comparable substantial functional limitation.
 
 #### (B) Independent living services and centers for independent living
 
@@ -508,7 +508,7 @@ For the purposes of this chapter:
 
 #### (28) Personal assistance services
 
-&emsp;The term "personal assistance services" means a range of services, provided by one or more persons, designed to assist an individualwith a disability to perform daily living activities on or off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
+&emsp;The term "personal assistance services" means a range of services, provided by one or more persons, designed to assist an individual with a disability to perform daily living activities on or off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
 
 #### (30) <sup>2</sup> Pre-employment transition services
 
@@ -520,7 +520,7 @@ For the purposes of this chapter:
 
 #### (32) Rehabilitation technology
 
-&emsp;The term "rehabilitation technology" means the systematic application of technologies, engineering methodologies, or scientific principles to meet the needs of and address the barriers confronted by individuals with disabilities in areas which include education, rehabilitation, employment, transportation, independent living, and recreation. The term includes rehabilitation engineering, assistive technology devices, and assistive technology services.
+&emsp;The term "rehabilitation technology" means the systematic application of technologies, engineering methodologies, or scientific principles to meet the needs of and address the barriers confronted by individuals with disabilities in areas which include education, rehabilitation, employment, transportation, independent living, and recreation. Theterm includes rehabilitation engineering, assistive technology devices, and assistive technology services.
 
 #### (33) Secretary
 
@@ -606,7 +606,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;The term "youth with disabilities" means more than 1 youth with a disability.
 
-(Pub. L. 93–112, §7, formerly §6, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1097; amended Pub. L. 105–244, title I, §102(a)(9)(A), Oct. 7, 1998, 112 Stat. 1619; renumbered §7 and amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1), (b)(3), (c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L. 105–394, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 110–325, §7, Sept. 25, 2008, 122 Stat. 3558; Pub. L. 111–256, §2(d)(1), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title IV, §404, July 22, 2014, 128 Stat. 1632.)
+(Pub. L. 93–112, §7, formerly §6, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1097; amended Pub. L. 105–244, title I, §102(a)(9)(A), Oct. 7, 1998, 112 Stat. 1619; renumbered §7 and amended Pub. L. 105–277, div. A, §101(f) \[titleVIII, §402(a)(1), (b)(3), (c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L. 105–394, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 110–325, §7, Sept. 25, 2008, 122 Stat. 3558; Pub. L. 111–256, §2(d)(1), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title IV, §404, July 22, 2014, 128 Stat. 1632.)
 
 #### <b>Editorial Notes</b>
 

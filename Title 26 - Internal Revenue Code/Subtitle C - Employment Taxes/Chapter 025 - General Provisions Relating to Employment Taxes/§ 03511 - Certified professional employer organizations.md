@@ -12,7 +12,7 @@ For purposes of the taxes, and other obligations, imposed by this subtitle—
 
 For purposes of sections 3121(a)(1), 3231(e)(2)(C), and 3306(b)(1)—
 
-&emsp;(1) a certified professional employer organization entering into a service contract with a customer with respect to a work site employee shall be treated as a successor employer and the customer shall be treated as a predecessor employer during the term of such service contract, and
+&emsp;(1) a certified professional employer organization entering into a service contract with a customer with respect to a work site employee shall be treated as a successor employer andthe customer shall be treated as a predecessor employer during the term of such service contract, and
 
 &emsp;(2) a customer whose service contract with a certified professional employer organization is terminated with respect to a work site employee shall be treated as a successor employer and the certified professional employer organization shall be treated as a predecessor employer.
 
@@ -38,7 +38,7 @@ Solely for purposes of its liability for the taxes and other obligations imposed
 
 &emsp;&emsp;&emsp;(ii) for which the certified professional employer organization receives payment from the customer, and
 
-&emsp;&emsp;(C) the certified professional employer organization shall furnish the customer andthe Secretary with any information necessary for the customer to claim such credit.
+&emsp;&emsp;(C) the certified professional employer organization shall furnish the customer and the Secretary with any information necessary for the customer to claim such credit.
 
 #### (2) Credits specified
 

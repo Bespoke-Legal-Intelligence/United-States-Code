@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
 
-&emsp;&emsp;(ii) in the case of a student at an eligible institution who has successfully completedsuch first year but has not successfully completed the remainder of a program of undergraduate education—
+&emsp;&emsp;(ii) in the case of a student at an eligible institution who has successfully completed such first year but has not successfully completed the remainder of a program of undergraduate education—
 
 &emsp;&emsp;&emsp;(I) $4,500; or
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(ii) $65,500, in the case of any graduate or professional student (as defined by regulations of the Secretary) and (I) including any loans which are insured by the Secretary under this section, or by a guaranty agency, made to such student before the student became a graduate or professional student),<sup>2</sup> but (II) excluding loans made under section 1078–1 <sup>1</sup> or 1078–2 of this title,
 
-> &emsp;except that the Secretary may increase the limit applicable to students who are pursuing programs which the Secretary determines are exceptionally expensive.
+> &emsp;except that the Secretary may increase the limit applicable to students who are pursuingprograms which the Secretary determines are exceptionally expensive.
 
 &emsp;(B) The Secretary may increase the aggregate insurable limit applicable to students who are pursuing programs which the Secretary determines are exceptionally expensive.
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(i) the 90th day after the adjournment of the next regular session of the appropriate State legislature which convenes after October 12, 1976, or
 
-&emsp;&emsp;(ii) if the primary source of lending capital for such lender is derived from the sale of bonds, and the constitution of the appropriate State prohibits a pledge of such State's credit as security against suchbonds, the day which is one year after such 90th day.
+&emsp;&emsp;(ii) if the primary source of lending capital for such lender is derived from the sale of bonds, and the constitution of the appropriate State prohibits a pledge of such State's credit as security against such bonds, the day which is one year after such 90th day.
 
 #### (2) Computation of amounts in repayment
 

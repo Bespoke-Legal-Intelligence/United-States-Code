@@ -22,7 +22,7 @@
 
 (2) Subject to paragraph (1), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 in the rates of pay under the General Schedule, each rate of pay established under this section for positions within an agency shall be adjusted by such amount as the head of such agency considers appropriate.
 
-(3) In the case of an agency which has a performance appraisal system which, as designedand applied, is certified under section 5307(d) as making meaningful distinctions based on relative performance, paragraph (1)(B) shall apply as if the reference to "level III" were a reference to "level II".
+(3) In the case of an agency which has a performance appraisal system which, as designed and applied, is certified under section 5307(d) as making meaningful distinctions based on relative performance, paragraph (1)(B) shall apply as if the reference to "level III" were a reference to "level II".
 
 (4) No employee may suffer a reduction in pay by reason of transfer from an agency with an applicable maximum rate of pay prescribed under paragraph (3) to an agency with an applicable maximum rate of pay prescribed under paragraph (1)(B).
 
@@ -108,5 +108,5 @@ Other References.—Until otherwise provided by law—
 
 Regulations.—The Office of Personnel Management may prescribe regulations, consistent with subsection (c)(1)(B) and section 303 \[section 529 \[title III, §303\] of Pub. L. 101–509, set out as a note under section 5301 of this title\], governing the conversion or adjustment of rates of pay, where necessary because of the abolishment of grades GS–16, 17, and 18 of the General Schedule."
 
-\[For reference to maximum rate under section 5376 of this title, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under this section.\]
+\[For reference to maximum rate under section 5376 of this title, see section 2(d)(3) of Pub. L. 110–372, set outas an Effective Date of 2008 Amendment note under this section.\]
 

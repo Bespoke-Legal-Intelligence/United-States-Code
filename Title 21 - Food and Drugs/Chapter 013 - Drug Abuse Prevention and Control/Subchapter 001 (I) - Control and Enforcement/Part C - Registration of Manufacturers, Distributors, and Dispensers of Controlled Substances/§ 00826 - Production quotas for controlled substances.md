@@ -12,7 +12,7 @@ The Attorney General shall limit or reduce individual manufacturing quotas to th
 
 #### (c) Manufacturing quotas for registered manufacturers
 
-On or before December 1 of each year, upon application therefor by a registered manufacturer, the Attorney General shall fix a manufacturing quota for the basic classes of controlled substances in schedules I and II and for ephedrine, pseudoephedrine, and phenylpropanolamine that the manufacturer seeks to produce. The quota shall be subject to the provisions of subsections (a) and (b) of this section. In fixing such quotas, the Attorney General shall determine the manufacturer's estimated disposal, inventory, and other requirements for the calendar year; and, in making his determination, the Attorney General shall consider the manufacturer's current rate of disposal, the trend of the national disposal rate during the preceding calendar year, the manufacturer's production cycle and inventory position, the economic availability of raw materials, yield and stability problems, emergencies such as strikes and fires, and other factors.
+On or before December 1 of each year, upon application therefor by a registered manufacturer, the Attorney General shall fix a manufacturing quota for the basic classes of controlled substances in schedules I and II and for ephedrine, pseudoephedrine, and phenylpropanolamine that the manufacturer seeks to produce. The quota shall be subject to the provisions of subsections (a) and (b) of this section. In fixing such quotas, the Attorney General shall determine the manufacturer's estimated disposal, inventory, and other requirements for the calendar year; and, in making his determination, the Attorney General shall consider the manufacturer's currentrate of disposal, the trend of the national disposal rate during the preceding calendar year, the manufacturer's production cycle and inventory position, the economic availability of raw materials, yield and stability problems, emergencies such as strikes and fires, and other factors.
 
 #### (d) Quotas for registrants who have not manufactured controlled substance during one or more preceding years
 
@@ -62,7 +62,7 @@ Each reference in this section to ephedrine, pseudoephedrine, or phenylpropanola
 
 (C) After estimating the amount of diversion of a covered controlled substance, the Attorney General shall make appropriate quota reductions, as determined by the Attorney General, from the quota the Attorney General would have otherwise established had such diversion not been considered.
 
-(2)(A) For any year for which the approved aggregate production quota for a covered controlled substance is higher than the approved aggregate production quota for the covered controlled substance for the previous year, the Attorney General, in consultation with the Secretary of Health and Human Services, shall include in the final order an explanation of why the public health benefits of increasing the quota clearly outweigh the consequences of having an increased volume of the covered controlled substance available for sale, and potential diversion, in the United States.
+(2)(A) For any year for which the approved aggregate production quota for a covered controlled substance is higher than the approved aggregate production quota for the covered controlled substance for the previous year, the Attorney General, in consultation with the Secretary of Health and Human Services, shall include in the final order an explanation of why the public health benefits of increasing thequota clearly outweigh the consequences of having an increased volume of the covered controlled substance available for sale, and potential diversion, in the United States.
 
 (B) Not later than 1 year after October 24, 2018, and every year thereafter, the Attorney General shall submit to the Committee on the Judiciary, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate and the Committee on the Judiciary, the Committee on Energy and Commerce, and the Committee on Appropriations of the House of Representatives the following information with regard to each covered controlled substance:
 
@@ -70,7 +70,7 @@ Each reference in this section to ephedrine, pseudoephedrine, or phenylpropanola
 
 &emsp;(ii) An anonymized count of how many such manufacturers were issued an approved manufacturing quota that was higher than the quota issued to that manufacturer for the covered controlled substance in the previous year.
 
-(3) Not later than 1 year after October 24, 2018, the Attorney General shall submit to Congress a report on how the Attorney General, when fixingand adjusting production and manufacturing quotas under this section for covered controlled substances, will—
+(3) Not later than 1 year after October 24, 2018, the Attorney General shall submit to Congress a report on how the Attorney General, when fixing and adjusting production and manufacturing quotas under this section for covered controlled substances, will—
 
 &emsp;(A) take into consideration changes in the accepted medical use of the covered controlled substances; and
 

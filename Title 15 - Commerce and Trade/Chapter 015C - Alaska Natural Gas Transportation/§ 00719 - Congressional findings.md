@@ -20,7 +20,7 @@ Pub. L. 94–586, §20, Oct. 22, 1976, 90 Stat. 2916, provided that: "This Act \
 
 #### Short Title
 
-Pub. L. 94–586, §1, Oct. 22, 1976, 90 Stat. 2903, provided that: "This Act \[enacting this chapter and provisionsset out as notes under this section and section 1651 of Title 43, Public Lands\] may be cited as the 'Alaska Natural Gas Transportation Act of 1976'."
+Pub. L. 94–586, §1, Oct. 22, 1976, 90 Stat. 2903, provided that: "This Act \[enacting this chapter and provisions set out as notes under this section and section 1651 of Title 43, Public Lands\] may be cited as the 'Alaska Natural Gas Transportation Act of 1976'."
 
 #### Antitrust Study
 

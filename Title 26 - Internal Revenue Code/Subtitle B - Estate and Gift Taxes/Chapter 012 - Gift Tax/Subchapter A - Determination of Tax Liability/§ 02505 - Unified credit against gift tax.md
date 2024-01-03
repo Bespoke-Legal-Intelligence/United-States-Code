@@ -48,7 +48,7 @@ Pub. L. 107–16, §521(b)(1), inserted "(determined as if the applicable exclus
 
 Subsec. (a)(1). Pub. L. 97–34, §401(b)(1), substituted "$192,800" for "$47,000".
 
-Subsec. (b). Pub. L. 97–34, §401(b)(2), struck out from heading "$47,000" before "credit", substituted subsec. (a)(1) substitutions for "$192,800" of amounts of "$62,800", "$79,300", "$96,300", "$121,800", and "$155,800" in the case of gifts made in 1982, 1983, 1984, 1985, and 1986, respectively, for subsec. (a)(1) substitutions for "$47,000" of amounts of "$6,000", "$30,000", "$34,000", "$38,000", and "$42,500" in the case of gifts made after Dec. 31, 1976, and before July 1, 1977, after June 30, 1977, and before Jan. 1, 1978; after Dec. 31, 1977, and before Jan. 1, 1979, after Dec. 31, 1978, and before Jan. 1, 1980, and after Dec. 31, 1979, and before Jan. 1, 1981, respectively.
+Subsec. (b). Pub. L. 97–34, §401(b)(2), struck out from heading "$47,000" before "credit", substituted subsec. (a)(1) substitutions for "$192,800" of amounts of "$62,800", "$79,300", "$96,300", "$121,800", and "$155,800" in the case of gifts made in 1982, 1983, 1984, 1985, and 1986, respectively, for subsec. (a)(1) substitutions for"$47,000" of amounts of "$6,000", "$30,000", "$34,000", "$38,000", and "$42,500" in the case of gifts made after Dec. 31, 1976, and before July 1, 1977, after June 30, 1977, and before Jan. 1, 1978; after Dec. 31, 1977, and before Jan. 1, 1979, after Dec. 31, 1978, and before Jan. 1, 1980, and after Dec. 31, 1979, and before Jan. 1, 1981, respectively.
 
 Subsec. (d). Pub. L. 97–34, §442(a)(5)(B), substituted "year" for "quarter" in two places.
 

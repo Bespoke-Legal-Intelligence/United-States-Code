@@ -54,7 +54,7 @@ The Secretary may award grants to—
 
 #### (1) In general
 
-&emsp;Each eligible applicant desiring a grant under this section shall submit an application to the Secretary at such time and in suchmanner as the Secretary may reasonably prescribe.
+&emsp;Each eligible applicant desiring a grant under this section shall submit an application to the Secretary at such time and in such manner as the Secretary may reasonably prescribe.
 
 #### (2) Contents
 
@@ -104,7 +104,7 @@ Section was classified to section 7455 of this title prior to renumbering by Pub
 
 #### Prior Provisions
 
-A prior section 7452, Pub. L. 89–10, title VI, §6132, formerly title VII, §7132, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1924; renumbered title VI, §6132, Pub. L. 114–95, title VI, §6001(a), (b)(1), Dec. 10, 2015, 129 Stat. 2046, related to in-service training for teachers of Indian children, prior to repeal by Pub. L. 114–95, §5, title VI, §6002(n)(1), Dec. 10, 2015, 129 Stat. 1806, 2057, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+A prior section 7452, Pub. L. 89–10, title VI, §6132, formerly title VII, §7132, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1924; renumbered title VI, §6132, Pub. L. 114–95, title VI, §6001(a), (b)(1), Dec. 10, 2015, 129 Stat. 2046, related to in-service training for teachers of Indian children, prior to repeal by Pub. L.114–95, §5, title VI, §6002(n)(1), Dec. 10, 2015, 129 Stat. 1806, 2057, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
 Another prior section 7452, Pub. L. 89–10, title VII, §7132, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3729, related to research activities, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
 

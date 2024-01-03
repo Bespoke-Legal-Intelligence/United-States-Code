@@ -22,7 +22,7 @@
 
 &emsp;(i) If the Secretary determines that a longer period is necessary and likely to result in a substantial increase in the veteran's level of independence in daily living.
 
-&emsp;(ii) If the veteran served on active duty during the Post-9/11 Global Operations period and has a severe disability (as determined by the Secretary for purposes of this clause) incurred or aggravated in such service.
+&emsp;(ii) If the veteran served on active duty during the Post-9/11 Global Operations period and has a severe disability (as determined by theSecretary for purposes of this clause) incurred or aggravated in such service.
 
 (B) In this paragraph, the term "Post-9/11 Global Operations period" means the period of the Persian Gulf War beginning on September 11, 2001, and ending on the date thereafter prescribed by Presidential proclamation or by law.
 

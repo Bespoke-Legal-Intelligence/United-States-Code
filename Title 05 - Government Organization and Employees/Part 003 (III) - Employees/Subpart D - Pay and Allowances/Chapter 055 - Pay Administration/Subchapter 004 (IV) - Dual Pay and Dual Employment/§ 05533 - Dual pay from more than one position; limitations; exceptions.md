@@ -48,9 +48,9 @@
 
 (e)(1) This section does not apply to an individual employed under sections 174j–1 to 174j–7 or 174k <sup>2</sup> of title 40.
 
-(2) Subsection (c) of this section does not apply to pay received by a teacher of the public schools of the District of Columbia for employment in a position during the summer vacation period.
+(2) Subsection (c) of this section does not apply to pay received by a teacher of the publicschools of the District of Columbia for employment in a position during the summer vacation period.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 483; Pub. L. 90–57, §105(h), July 28, 1967, 81 Stat. 143; Pub. L.90–206, title II, §214(o), Dec. 16, 1967. 81 Stat. 637; Pub. L. 91–510, title IV, §477(d), Oct. 26, 1970, 84 Stat. 1195; Pub. L. 93–140, §23, Oct. 26, 1973, 87 Stat. 508; Pub. L. 93–145, §101, Nov. 1, 1973, 87 Stat. 532; Pub. L. 94–183, §2(21), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–440, title I, §103, Oct. 1, 1976, 90 Stat. 1443; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title III, §3302(e)(8), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–186, title II, §215(7), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 111–145, §7(b)(2), Mar. 4, 2010, 124 Stat. 55.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 483; Pub. L. 90–57, §105(h), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, §214(o), Dec. 16, 1967. 81 Stat. 637; Pub. L. 91–510, title IV, §477(d), Oct. 26, 1970, 84 Stat. 1195; Pub. L. 93–140, §23, Oct. 26, 1973, 87 Stat. 508; Pub. L. 93–145, §101, Nov. 1, 1973, 87 Stat. 532; Pub. L. 94–183, §2(21), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–440, title I, §103, Oct. 1, 1976, 90 Stat. 1443; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title III, §3302(e)(8), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–186, title II, §215(7), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 111–145, §7(b)(2), Mar. 4, 2010, 124 Stat. 55.)
 
 Historical and Revision Notes
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 197
 
 #### Effective Date of 1967 Amendments
 
-Amendment by Pub. L. 90–206 effective at beginning of first pay period which begins on or after Dec. 16, 1967, see section 220(a)(3) of Pub. L. 90–206, set out as a note under section 603 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 90–206 effective at beginning of first pay period which begins on or after Dec. 16, 1967,see section 220(a)(3) of Pub. L. 90–206, set out as a note under section 603 of Title 28, Judiciary and Judicial Procedure.
 
 Amendment by Pub. L. 90–57, effective Aug. 1, 1967, see section 105(k) of Pub. L. 90–57, set out as an Effective Date note under section 4575 of Title 2, The Congress.
 
@@ -150,13 +150,19 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Increase in Compensation of Individuals Whose Pay is Disbursed by Secretary of Senate
 
-<b>2020</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2020, to the figure "$38,061", see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 6, 2020, set out as a note under section 4571 of Title 2, The Congress.
+<b>2022</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2023, to the figure "$41,528", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 28, 2022, set out as a note under section 4571 of Title 2, The Congress.
 
-<b>2019</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2019, to the figure "$36,766", see section 9 of Salary Directive of President pro tempore of the Senate, Apr. 1, 2019, set out as a note under section 4571 of Title 2.
+The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2022, to the figure "$39,603", see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 15, 2022, formerly set out as a note under section 4571 of Title 2, The Congress.
 
-<b>2018</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2018, to the figure "$35,949", see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 23, 2018, set out as a note under section 4571 of Title 2.
+<b>2021</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2022, to the figure "$38,442", see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 5, 2021, formerly set out as a note under section 4571 of Title 2, The Congress.
 
-<b>2017</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2017, to the figure "$35,144", see section 9 of Salary Directive of President pro tempore of the Senate, May 5, 2017, set out as a note under section 4571 of Title 2.
+<b>2020</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2020, to the figure "$38,061", see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 6, 2020, formerly set out as a note under section 4571 of Title 2, The Congress.
+
+<b>2019</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2019, to the figure "$36,766", see section 9 of Salary Directive of President pro tempore of the Senate, Apr. 1, 2019, formerly set out as a note under section 4571 of Title 2.
+
+<b>2018</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2018, to the figure "$35,949", see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 23, 2018, formerly set out as a note under section 4571 of Title 2.
+
+<b>2017</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2017, to the figure "$35,144", see section 9 of Salary Directive of President pro tempore of the Senate, May 5, 2017, formerly set out as a note under section 4571 of Title 2.
 
 <b>2015</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2016, to the figure "$34,160", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 28, 2015, formerly set out as a note under section 4571 of Title 2.
 
@@ -206,7 +212,7 @@ The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, ef
 
 <b>1988</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1988, to the figure "$17,938", see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1988, formerly set out as a note under section 4571 of Title 2.
 
-<b>1987</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1987, to thefigure "$17,586", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1986, formerly set out as a note under section 4571 of Title 2.
+<b>1987</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1987, to the figure "$17,586", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1986, formerly set out as a note under section 4571 of Title 2.
 
 <b>1985</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1985, to the figure "$17,073", see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1985, formerly set out as a note under section 4571 of Title 2.
 

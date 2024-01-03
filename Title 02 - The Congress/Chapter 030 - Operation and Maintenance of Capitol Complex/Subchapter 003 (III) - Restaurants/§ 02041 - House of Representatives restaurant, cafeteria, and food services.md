@@ -68,7 +68,7 @@ Pub. L. 99–500, §111, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–5
 
 &emsp;"(3) becomes employed to provide such food services under contract, including a successor contract;
 
-> may, for purposes of the provisions of law specified in subsection (b), elect to be treated, for so long as such individual continues to be employed (without a break in service) as described in paragraph (3), as if such individual had not ceased to be an employee described in paragraph (1). Such election shall be made on or before the day referred to in paragraph (1) and shall be available only to an individual whose transition from the employment described in paragraph (1) to the employment described in paragraph (3) takes place without a break in service.
+> may, for purposes of the provisions of law specified in subsection (b), elect to be treated, for so long as such individual continues to be employed (without a breakin service) as described in paragraph (3), as if such individual had not ceased to be an employee described in paragraph (1). Such election shall be made on or before the day referred to in paragraph (1) and shall be available only to an individual whose transition from the employment described in paragraph (1) to the employment described in paragraph (3) takes place without a break in service.
 
 "(b) The provisions of law referred to in subsection (a) are—
 

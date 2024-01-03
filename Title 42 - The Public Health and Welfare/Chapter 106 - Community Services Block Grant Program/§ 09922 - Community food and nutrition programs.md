@@ -22,7 +22,7 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (B) Competitive grants
 
-&emsp;&emsp;From a portion equal to 40 percent of such amount (but not to exceed $2,400,000), the Secretary shall make grants on a competitive basis to eligible agencies for local and statewide programs.
+&emsp;&emsp;From a portion equal to 40 percent of such amount (but not to exceed $2,400,000), theSecretary shall make grants on a competitive basis to eligible agencies for local and statewide programs.
 
 #### (2) Greater available appropriations
 
@@ -89,8 +89,6 @@ A prior section 681 of Pub. L. 97–35 was classified to section 9910 of this ti
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

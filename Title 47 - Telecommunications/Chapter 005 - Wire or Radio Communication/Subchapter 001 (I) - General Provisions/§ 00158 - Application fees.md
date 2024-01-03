@@ -8,7 +8,7 @@ The Commission shall assess and collect application fees at such rates as the Co
 
 #### (1) In general
 
-&emsp;In every even-numbered year, the Commission shall review the schedule of application fees established under this section and, except as provided in paragraph (2), set a new amount for each fee in the schedule that is equal to the amount of the fee on the date when the fee was established or the date when the fee was last amended under subsection (c), whichever is later—
+&emsp;In every even-numbered year, the Commission shall review the schedule of application fees established under this section and, except as provided in paragraph (2), set a new amount for each fee in the schedule that is equal tothe amount of the fee on the date when the fee was established or the date when the fee was last amended under subsection (c), whichever is later—
 
 &emsp;&emsp;(A) increased or decreased by the percentage change in the Consumer Price Index during the period beginning on such date and ending on the date of the review; and
 
@@ -24,7 +24,7 @@ The Commission shall assess and collect application fees at such rates as the Co
 
 #### (3) Current amount defined
 
-&emsp;In paragraph (2), the term "current amount" means, with respect to a fee, the amount ofthe fee on the date when the fee was established, the date when the fee was last adjusted under paragraph (1), or the date when the fee was last amended under subsection (c), whichever is latest.
+&emsp;In paragraph (2), the term "current amount" means, with respect to a fee, the amount of the fee on the date when the fee was established, the date when the fee was last adjusted under paragraph (1), or the date when the fee was last amended under subsection (c), whichever is latest.
 
 #### (c) Amendments to schedule
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 115–141 effective Oct. 1, 2018, see section 103 of div. P
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title III, §3001(c), Dec. 19, 1989, 103 Stat. 2131, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 19, 1989\], and the Schedule of Charges required by the amendment made by subsection (a) of this section shall be implemented not later than 150 days after the date of enactment of this Act."
+Pub. L. 101–239, title III, §3001(c), Dec. 19, 1989, 103 Stat. 2131, provided that: "The amendments made by this section \[amending this section\] shall take effect onthe date of enactment of this Act \[Dec. 19, 1989\], and the Schedule of Charges required by the amendment made by subsection (a) of this section shall be implemented not later than 150 days after the date of enactment of this Act."
 
 #### Transitional Rules for Application Fees
 

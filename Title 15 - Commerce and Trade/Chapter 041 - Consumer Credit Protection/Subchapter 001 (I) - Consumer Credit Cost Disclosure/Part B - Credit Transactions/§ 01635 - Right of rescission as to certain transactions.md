@@ -10,7 +10,7 @@ When an obligor exercises his right to rescind under subsection (a), he is not l
 
 #### (c) Rebuttable presumption of delivery of required disclosures
 
-Notwithstanding any rule of evidence, written acknowledgment of receipt of any disclosures required under this subchapter by a person to whom information, forms, and a statement is required to be given pursuant to this section doesno more than create a rebuttable presumption of delivery thereof.
+Notwithstanding any rule of evidence, written acknowledgment of receipt of any disclosures required under this subchapter by a person to whom information, forms, and a statement is required to be given pursuant to this section does no more than create a rebuttable presumption of delivery thereof.
 
 #### (d) Modification and waiver of rights
 

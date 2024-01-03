@@ -46,7 +46,7 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 #### (4) Review of adjustments
 
-&emsp;The Secretary may review the operation of the upland cotton quality adjustments implemented pursuant to this subsection and may make further adjustments to the administration of the loan program for upland cotton, by revoking or revising any adjustment taken under paragraph (2).
+&emsp;The Secretary may review the operation of the upland cotton quality adjustments implemented pursuant to this subsection and maymake further adjustments to the administration of the loan program for upland cotton, by revoking or revising any adjustment taken under paragraph (2).
 
 #### (e) Rice
 

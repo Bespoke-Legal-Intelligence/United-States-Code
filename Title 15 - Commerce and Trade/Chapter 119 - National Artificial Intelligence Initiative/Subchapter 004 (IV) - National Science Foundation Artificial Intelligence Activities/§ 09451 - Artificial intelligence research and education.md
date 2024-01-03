@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-the <sup>1</sup> Director of the National Science Foundation shall fund research and education activities in artificial intelligence systems and related fields, including competitive awards or grants to institutions of higher education or eligible nonprofit organizations (or consortia thereof).
+the <sup>1</sup> Director of the National Science Foundation shall fund research and education activities in artificial intelligence systems and related fields, including competitive awards or grants toinstitutions of higher education or eligible nonprofit organizations (or consortia thereof).
 
 #### (b) Uses of funds
 
@@ -184,7 +184,7 @@ Section 5301 of this division, referred to in subsec. (b)(7), means section 5301
 
 #### Codification
 
-Section is comprised of section 5401 of Pub. L. 116–283. Subsec. (e)(2)(C) of section 5401 of Pub. L. 116–283amended section 1862n–1 of Title 42, The Public Health and Welfare. Subsec. (e)(3)(A) of section 5401 of Pub. L. 116–283 amended section 1862i of Title 42.
+Section is comprised of section 5401 of Pub. L. 116–283. Subsec. (e)(2)(C) of section 5401 of Pub. L. 116–283 amended section 1862n–1 of Title 42, The Public Health and Welfare. Subsec. (e)(3)(A) of section 5401 of Pub. L. 116–283 amended section 1862i of Title 42.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

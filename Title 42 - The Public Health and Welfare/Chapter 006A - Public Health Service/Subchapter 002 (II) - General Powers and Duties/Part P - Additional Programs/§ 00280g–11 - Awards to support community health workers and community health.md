@@ -14,7 +14,7 @@ Subject to any requirements for the scope of licensure, registration, or certifi
 
 &emsp;&emsp;(A) health conditions prevalent in—
 
-&emsp;&emsp;&emsp;(i) medically underserved communities (as defined in section 295p of this title),particularly racial and ethnic minority populations; and
+&emsp;&emsp;&emsp;(i) medically underserved communities (as defined in section 295p of this title), particularly racial and ethnic minority populations; and
 
 &emsp;&emsp;&emsp;(ii) other such at-risk populations or geographic areas that may require additional support during public health emergencies, which may include counties identified by the Secretary using applicable measures developed by the Centers for Disease Control and Prevention or other Federal agencies; and
 
@@ -62,7 +62,7 @@ In making awards under subsection (a), the Secretary shall give priority to appl
 
 #### (e) Collaboration with academic institutions and the one-stop delivery system
 
-The Secretary shall encourage eligible entities receiving funds under this section to collaborate with academic institutions, health professions schools, minority-serving institutions (defined, for purposes of this subsection, as institutions and programs described in section 1063b(e)(1) of title 20 and institutions described in section 1067q(a) of title 20), area health education centers under section 294a of this title, and one-stop delivery systems under section 3151 of title 29. Nothing in this section shall be construed to require such collaboration.
+The Secretary shall encourage eligible entities receiving funds under this section to collaborate with academic institutions, health professionsschools, minority-serving institutions (defined, for purposes of this subsection, as institutions and programs described in section 1063b(e)(1) of title 20 and institutions described in section 1067q(a) of title 20), area health education centers under section 294a of this title, and one-stop delivery systems under section 3151 of title 29. Nothing in this section shall be construed to require such collaboration.
 
 #### (f) Technical assistance
 
@@ -158,7 +158,7 @@ Evidence-based interventions.—The Secretary shall encourage community health w
 
 "(g)
 
-Quality assurance and cost effectiveness.—The Secretary shall establish guidelines for assuring the quality of the training and supervision of community health workers under the programs funded underthis section and for assuring the cost-effectiveness of such programs.
+Quality assurance and cost effectiveness.—The Secretary shall establish guidelines for assuring the quality of the training and supervision of community health workers under the programs funded under this section and for assuring the cost-effectiveness of such programs.
 
 "(h)
 

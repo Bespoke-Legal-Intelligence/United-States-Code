@@ -96,7 +96,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iv) Outreach and engagement with small and medium-sized manufacturing enterprises, including women, minority, and veteran owned manufacturing enterprises, in addition to large manufacturing enterprises.
 
-&emsp;&emsp;&emsp;(v) Development of roadmaps or leveraging of existing roadmaps with respect to technology areas being pursued by that Manufacturing USA institute that take into account the research and development undertaken at other Manufacturing USA institutes and Federal agencies with respect to such areas.
+&emsp;&emsp;&emsp;(v) Development of roadmaps or leveraging of existing roadmaps with respect to technology areas being pursued bythat Manufacturing USA institute that take into account the research and development undertaken at other Manufacturing USA institutes and Federal agencies with respect to such areas.
 
 #### (B) Permissible activities
 
@@ -118,7 +118,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i)(I) is, as of December 20, 2019, considered a Manufacturing USA institute under subparagraph (A) or recognized as a Manufacturing USA institute under subparagraph (B); and
 
-&emsp;&emsp;&emsp;(II) as of December 20, 2019, receives Federal financial assistance under subsection\(e) or otherwise consistent with the purposes of this section;
+&emsp;&emsp;&emsp;(II) as of December 20, 2019, receives Federal financial assistance under subsection (e) or otherwise consistent with the purposes of this section;
 
 &emsp;&emsp;&emsp;(ii) is under pending agency review for such recognition as of December 20, 2019; or
 
@@ -244,7 +244,7 @@ In this section:
 
 &emsp;&emsp;(B) establish standards for the performance of Manufacturing USA institutes that are based on the metrics developed under subparagraph (A); and
 
-&emsp;&emsp;(C) for each Manufacturing USA institute supported by the award, 5 years after the initial award and every 5 years thereafter until Federal financial assistance under this subsection is discontinued, conduct an assessment of the institute to confirm whether the performance of the institute is meeting the standards for performance established under subparagraph (B).
+&emsp;&emsp;(C) for each Manufacturing USA institute supported by the award, 5 years after the initial award and every 5 years thereafter until Federal financial assistance under this subsection is discontinued, conduct an assessment of the institute to confirm whether the performance of the institute is meeting thestandards for performance established under subparagraph (B).
 
 #### (6) Collaboration
 
@@ -480,7 +480,7 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 #### (5) Acceptance of resources
 
-&emsp;In addition to amounts appropriated to carry out the Program, the Secretary may accept funds, services, equipment, personnel, and facilities from any covered entity to carry out the Program, subject to the same conditions and constraints otherwise applicable to the Secretary under this section and such funds may only be obligated to the extent provided for in advance by appropriations Acts.
+&emsp;In addition to amounts appropriated to carry out the Program, the Secretary may accept funds, services, equipment, personnel, and facilities from any covered entity to carry out the Program, subject to the same conditions and constraints otherwise applicable to the Secretary under this section and such fundsmay only be obligated to the extent provided for in advance by appropriations Acts.
 
 #### (6) Covered entities
 
@@ -508,7 +508,7 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 &emsp;&emsp;(I) at the Department of Agriculture relating to outreach to rural communities;
 
-&emsp;&emsp;(J) additional programs that the Secretary determines are appropriate to support theactivities of existing Manufacturing USA institutes; and <sup>2</sup>
+&emsp;&emsp;(J) additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes; and <sup>2</sup>
 
 &emsp;&emsp;(K) additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes.<sup>2</sup>
 
@@ -552,7 +552,7 @@ Pub. L. 116–283, div. H, title XCIV, §9415, Jan. 1, 2021, 134 Stat. 4822, pro
 
 #### Expansion of Manufacturing USA Network
 
-Pub. L. 116–92, div. A, title XVII, §1741(b), Dec. 20, 2019, 133 Stat. 1837, provided that: "Subject to the availability of appropriations, the Secretary of Commerce shall take such actions as may be necessary to increase the number of Manufacturing USA institutes that participate in the Manufacturing USA Network."
+Pub. L. 116–92, div. A, title XVII, §1741(b), Dec. 20, 2019, 133 Stat. 1837, provided that: "Subject to the availability of appropriations, the Secretary of Commerce shall take such actions as may be necessary to increasethe number of Manufacturing USA institutes that participate in the Manufacturing USA Network."
 
 #### Findings
 

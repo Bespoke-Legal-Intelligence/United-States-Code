@@ -126,7 +126,7 @@ The Corporation shall—
 
 &emsp;(3) subject to the availability of appropriations and quality service opportunities, implement the plan described in paragraph (1).
 
-(Pub. L. 101–610, title I, §121, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 788; amended Pub. L. 111–13, title I, §1301, Apr. 21, 2009, 123 Stat. 1484.)
+(Pub. L. 101–610, title I, §121, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 788;amended Pub. L. 111–13, title I, §1301, Apr. 21, 2009, 123 Stat. 1484.)
 
 #### <b>Editorial Notes</b>
 

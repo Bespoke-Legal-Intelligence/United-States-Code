@@ -48,7 +48,7 @@ In general.—Except as provided in clause (ii), this paragraph shall not apply 
 
 Certain refundings.—This paragraph shall apply to any obligation (or series of obligations) issued to refund an obligation issued on or before December 31, 1986, if—
 
-&emsp;"(I) the average maturity date of the issue of which the refunding obligation is a part is not later thanthe average maturity date of the obligations to be refunded by such issue,
+&emsp;"(I) the average maturity date of the issue of which the refunding obligation is a part is not later than the average maturity date of the obligations to be refunded by such issue,
 
 &emsp;"(II) the amount of the refunding obligation does not exceed the outstanding amount of the refunded obligation, and
 
@@ -146,7 +146,7 @@ Subsec. (c)(6), (7). Pub. L. 98–369, §624(a), added par. (6) and redesignated
 
 Subsec. (h). Pub. L. 98–369, §622, amended subsec. (h) generally, in par. (1) substituting provisions that obligations are not included in the section if they are federally guaranteed for provisions which excluded obligations guaranteed, in whole or part, by the U.S. under a program to conserve energy, or under other Federal or State programs, in par. (2) substituting provisions defining "federally guaranteed" for provisions setting forth obligations to which this subsection applies, and adding pars. (3) to (5).
 
-Subsec. (m)(1). Pub. L. 98–369, §628(a)(1), inserted "In the case of an obligation issued after December 31, 1983,such obligation shall not be treated as described in this paragraph unless the appropriate requirements of subsections (b), (c), (h), (k), (l), and (n) of this section and section 103A are met with respect to such obligation. For purposes of applying such requirements, a possession of the United States shall be treated as a State; except that clause (ii) of subsection (n)(4)(A) shall not apply."
+Subsec. (m)(1). Pub. L. 98–369, §628(a)(1), inserted "In the case of an obligation issued after December 31, 1983, such obligation shall not be treated as described in this paragraph unless the appropriate requirements of subsections (b), (c), (h), (k), (l), and (n) of this section and section 103A are met with respect to such obligation. For purposes of applying such requirements, a possession of the United States shall be treated as a State; except that clause (ii) of subsection (n)(4)(A) shall not apply."
 
 Subsec. (m)(2)(B). Pub. L. 98–369, §628(a)(2), substituted "is exempt from tax under this title without regard to any provision of law which is not contained in this title and which is not contained in a revenue Act" for "is exempt from taxation under any provision of this title".
 
@@ -345,7 +345,7 @@ In general.—The amendments made by this section \[amending this section\] shal
 
 &emsp;"(B)
 
-Pennsylvania higher education assistance agency.—Subparagraph (A) shall apply to obligationsissued by the Pennsylvania Higher Education Assistance Agency only if such obligations are issued solely for the purpose of refunding student loan bonds outstanding on March 15, 1984.
+Pennsylvania higher education assistance agency.—Subparagraph (A) shall apply to obligations issued by the Pennsylvania Higher Education Assistance Agency only if such obligations are issued solely for the purpose of refunding student loan bonds outstanding on March 15, 1984.
 
 "(3)
 
@@ -453,7 +453,7 @@ Refunding.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Except as provided in clause (ii), in the case of property placed in service after December 31, 1983, which is financed by the proceeds of an obligation which is issued solely to refund another obligation which was issued before October 19, 1983, the amendments made by section 628(b) shall apply only with respect to an amountequal to the basis in such property which has not been recovered before the date such refunded obligation is issued.
+In general.—Except as provided in clause (ii), in the case of property placed in service after December 31, 1983, which is financed by the proceeds of an obligation which is issued solely to refund another obligation which was issued before October 19, 1983, the amendments made by section 628(b) shall apply only with respect to an amount equal to the basis in such property which has not been recovered before the date such refunded obligation is issued.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -533,7 +533,7 @@ Provisions of This Subtitle Not To Apply to Certain Property.—The amendments m
 
 &emsp;&emsp;"(B) such city government (or a public authority on its behalf) issues obligations for such facility before January 1, 1988, and
 
-&emsp;&emsp;"(C) expenditures have been made for the development of such facility before October 19, 1983. Notwithstanding the foregoing provisions of this subsection, the amendments made by section 624\[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] (relating to arbitrage) shall apply to obligations issued to finance property described in paragraph (5).
+&emsp;&emsp;"(C) expenditures have been made for the development of such facility before October 19, 1983. Notwithstanding the foregoing provisions of this subsection, the amendments made by section 624 \[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] (relating to arbitrage) shall apply to obligations issued to finance property described in paragraph (5).
 
 "(e)
 
@@ -637,7 +637,7 @@ Exception for certain warrants, etc.—The amendments made by subsection (b) \[e
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–34, title VIII, §811(c), Aug. 13, 1981, 95 Stat. 350, provided that: "The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Aug. 13, 1981\]."
+Pub. L. 97–34, title VIII, §811(c), Aug. 13, 1981, 95 Stat. 350, provided that: "The amendments made by this section \[amending this section\] shall apply to obligationsissued after the date of the enactment of this Act \[Aug. 13, 1981\]."
 
 Pub. L. 97–34, title VIII, §812(b)(1), Aug. 13, 1981, 95 Stat. 350, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after December 31, 1980."
 
@@ -645,7 +645,7 @@ Pub. L. 97–34, title VIII, §812(b)(1), Aug. 13, 1981, 95 Stat. 350, provided 
 
 For effective date of amendment by Pub. L. 96–499, see section 1104 of Pub. L. 96–499, set out as an Effective Date note under section 103A of this title.
 
-Pub. L. 96–223, title II, §241(d), Apr. 2, 1980, 94 Stat. 283, provided that: "The amendments made by subsection (a) \[amending this section\] and the provisionsof subsections (b) and (c) \[set out as notes under this section\] shall apply with respect to obligations issued after October 18, 1979."
+Pub. L. 96–223, title II, §241(d), Apr. 2, 1980, 94 Stat. 283, provided that: "The amendments made by subsection (a) \[amending this section\] and the provisions of subsections (b) and (c) \[set out as notes under this section\] shall apply with respect to obligations issued after October 18, 1979."
 
 Pub. L. 96–223, title II, §242(c), Apr. 2, 1980, 94 Stat. 285, provided that: "The amendments made by subsection (a) \[amending this section\] and the provisions of subsection (b) \[set out as a note under this section\] shall apply with respect to obligations issued after October 18, 1979."
 
@@ -815,7 +815,7 @@ Pub. L. 99–514, title XVIII, §1866, Oct. 22, 1986, 100 Stat. 2887, as amended
 
 #### Exception From 1984 Amendment for Downtown Muskogee Revitalization Project
 
-Pub. L. 99–514, title XVIII, §1867(b), Oct. 22, 1986, 100 Stat. 2888, provided that: "The amendment made by section 624 of the Tax Reform Act of 1984 \[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] shall not apply to obligations issued with respect to the Downtown Muskogee Revitalization Project for which a UDAG grant was preliminarily approved on May 5, 1981, if—
+Pub. L. 99–514, title XVIII, §1867(b), Oct. 22, 1986, 100 Stat. 2888, provided that: "The amendment made bysection 624 of the Tax Reform Act of 1984 \[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] shall not apply to obligations issued with respect to the Downtown Muskogee Revitalization Project for which a UDAG grant was preliminarily approved on May 5, 1981, if—
 
 &emsp;"(1) such obligation is issued before January 1, 1986, or
 
@@ -903,7 +903,7 @@ Certain Public Utilities.—For purposes of applying section 103(b)(3) of the In
 
 &emsp;"(2) any obligations issued after December 31, 1969, which were treated as obligations described in section 103(a) of such Code on the day on which such obligations were issued,
 
-> the term 'exempt person' shall include a regulated public utility having any customer service area within a State served by a public power authority which was required as a condition of a Federal Power Commission license specified by an Act of Congress enacted prior to the enactment of section 107 of the Revenue and Expenditure Control Act of 1968 (Public Law 90–364) \[June 28, 1968\] to contract to sell power to one such utility and which is authorized by State law to sell power to other such utilities, but only with respect to the purchase by any such utility and resale to its customers of any output of any electrical generation facility or any portion thereof or any use of any electrical transmission facility or any portion thereof financed by such power authority and owned by it or by such State, and provided that by agreement between such power authority and any such utility there shall be no markup in the resale price charged by such utility of that component of the resale price which represents the price paid by such utility for such output or use. The preceding sentence shall be applied by inserting 'and a rural electric cooperative utility' after 'regulated public utility' but only if not more than 1 percent of the load of the public power authority is sold to such rural electric cooperative utility.
+> the term 'exempt person' shall include a regulated public utility having any customer service area within a State served by a public power authority which was required as a condition of a Federal Power Commission license specified by an Act of Congress enacted prior to the enactment of section 107 of the Revenue and Expenditure Control Act of 1968 (Public Law 90–364) \[June 28, 1968\] to contract to sell power to one such utility and which is authorized by State law to sell power to other such utilities, but only with respect to the purchase by any such utility and resale to its customers of any output of any electrical generation facility or any portion thereof or any use of any electrical transmission facility or any portion thereof financed by such power authority and owned by it or by such State, andprovided that by agreement between such power authority and any such utility there shall be no markup in the resale price charged by such utility of that component of the resale price which represents the price paid by such utility for such output or use. The preceding sentence shall be applied by inserting 'and a rural electric cooperative utility' after 'regulated public utility' but only if not more than 1 percent of the load of the public power authority is sold to such rural electric cooperative utility.
 
 "(b)
 
@@ -1035,7 +1035,7 @@ Fulfillment of commitments.—Regulations prescribed by the Secretary under para
 
 "(b)
 
-Arbitrage Limitation on Student Loan Bonds Which Are Not Qualified Student Loan Bonds.—Under regulations prescribed by the Secretary of the Treasury or his delegate, any student loan bond (other than a qualified student loan bond) issued after December 31, 1985, shall be treated as an obligation not described in subsection (a)(1) or (2) of section 103 of the Internal Revenue Code of 1986 unless the issue of which such obligation is a part meets requirements similar to those of sections 103(c)(6) and 103A(i) of such Code.
+Arbitrage Limitation on Student Loan Bonds Which Are Not Qualified Student Loan Bonds.—Under regulations prescribed by the Secretary of theTreasury or his delegate, any student loan bond (other than a qualified student loan bond) issued after December 31, 1985, shall be treated as an obligation not described in subsection (a)(1) or (2) of section 103 of the Internal Revenue Code of 1986 unless the issue of which such obligation is a part meets requirements similar to those of sections 103(c)(6) and 103A(i) of such Code.
 
 "(c)
 
@@ -1047,7 +1047,7 @@ Issuance of Student Loan Bonds Which Are Not Tax-Exempt.—Any issuer who may is
 
 "(d)
 
-Federal Executive Branch Jurisdiction Over Tax-Exempt Status.—For purposes of Federal law, anydetermination by the executive branch of the Federal Government of whether interest on any obligation is exempt from taxation under the Internal Revenue Code of 1986 shall be exclusively within the jurisdiction of the Department of the Treasury.
+Federal Executive Branch Jurisdiction Over Tax-Exempt Status.—For purposes of Federal law, any determination by the executive branch of the Federal Government of whether interest on any obligation is exempt from taxation under the Internal Revenue Code of 1986 shall be exclusively within the jurisdiction of the Department of the Treasury.
 
 "(e)
 
@@ -1063,7 +1063,7 @@ In general.—The Comptroller General of the United States and the Director of t
 
 &emsp;"(2)
 
-Report.—The Comptroller General of the United States and the Director of the Congressional Budget Office, shall submit to the Committee on Finance and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives reports on the studies conducted under paragraph (1) by no later than 9 months after the date of enactment of this Act \[July 18, 1984\]."
+Report.—The Comptroller General of the United States and the Director of the Congressional Budget Office, shall submit to the Committee on Finance and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Ways and Means and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives reports on the studies conducted under paragraph (1) by no later than 9 months after the date of enactment of this Act \[July 18, 1984\]."
 
 #### Obligations Issued To Provide Solid Waste-Energy Producing Facilities
 
@@ -1239,5 +1239,5 @@ Pub. L. 90–364, title I, §107(b)(2), June 28, 1968, 82 Stat. 268, as amended 
 
 &emsp;"(C) any person (other than a governmental unit) who will use the proceeds to be derived from the sale of such obligation or the property to be acquired or improved with such proceeds has expended (or has entered into a binding contract to expend) for purposes which are related to the use of such proceeds or property, an amount equal to or in excess of 20 percent of such proceeds; or
 
-&emsp;"(D) in the case of an obligation issued in conjunction with a project where financial assistance will be provided by a governmental agency concerned with economic development, such agency has approved the project or an application for financial assistance is pending."
+&emsp;"(D) in the case of an obligation issued in conjunction with a project where financial assistance will beprovided by a governmental agency concerned with economic development, such agency has approved the project or an application for financial assistance is pending."
 

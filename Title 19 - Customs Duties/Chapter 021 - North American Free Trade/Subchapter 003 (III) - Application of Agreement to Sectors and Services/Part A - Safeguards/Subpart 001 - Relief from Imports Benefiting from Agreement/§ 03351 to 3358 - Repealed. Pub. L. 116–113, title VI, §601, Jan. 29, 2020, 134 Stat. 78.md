@@ -24,5 +24,5 @@ Repeal effective on the date on which the USMCA entered into force (July 1, 2020
 
 #### Effective Date
 
-Pub. L. 103–182, title III, §318, Dec. 8, 1993, 107 Stat. 2108, which provided that the provisions of subtitle A of title III of Pub. L. 103–182 would take effect on the date the North American Free Trade Agreement enteredinto force with respect to the United States, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, title III, §318, Dec. 8, 1993, 107 Stat. 2108, which provided that the provisions of subtitle A of title III of Pub. L. 103–182 would take effect on the date the North American Free Trade Agreement entered into force with respect to the United States, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(ii) employment as a law clerk trainee;
 
-&emsp;&emsp;&emsp;(iii) employment under a short-term temporary appointing authority while a student during periods of vacation from the educational institution at which the student is enrolled;
+&emsp;&emsp;&emsp;(iii) employment under a short-term temporary appointing authority while a student during periods of vacation fromthe educational institution at which the student is enrolled;
 
 &emsp;&emsp;&emsp;(iv) employment under a provisional appointment if the new appointment is permanent and immediately follows the provisional appointment; or
 

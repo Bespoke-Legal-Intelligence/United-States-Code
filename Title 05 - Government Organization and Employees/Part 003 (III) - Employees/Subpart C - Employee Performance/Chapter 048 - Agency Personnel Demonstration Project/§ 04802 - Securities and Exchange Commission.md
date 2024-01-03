@@ -42,7 +42,7 @@ Inclusion in annual performance plan and report.—The Securities and Exchange C
 
 &emsp;&emsp;"(i) the plan developed under this paragraph in the annual program performance plan submitted under section 1115 of title 31, United States Code; and
 
-&emsp;&emsp;"(ii) the effects of implementing the plan developed under this paragraph in the annual programperformance report submitted under section 1116 of title 31, United States Code.
+&emsp;&emsp;"(ii) the effects of implementing the plan developed under this paragraph in the annual program performance report submitted under section 1116 of title 31, United States Code.
 
 "(2)
 
@@ -50,7 +50,7 @@ Implementation report.—
 
 &emsp;"(A)
 
-In general.—Before implementing the plan developed under paragraph (1), the Securities and Exchange Commission shall submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] and the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Government Reform \[now Committee on Oversight and Reform\] and the Committee on Financial Services of the House of Representatives, and the Office of Personnel Management on the details of the plan.
+In general.—Before implementing the plan developed under paragraph (1), the Securities and Exchange Commission shall submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] and the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Government Reform \[now Committee on Oversight and Accountability\] and the Committee on Financial Services of the House of Representatives, and the Office of Personnel Management on the details of the plan.
 
 &emsp;"(B)
 

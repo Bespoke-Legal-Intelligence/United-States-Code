@@ -230,7 +230,7 @@ Amendment by Pub. L. 113–295 applicable with respect to cases commenced under 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–438, §4, Oct. 20, 2008, 122 Stat. 5002, as amended by Pub. L. 112–64, §2, Dec. 13, 2011, 125 Stat. 766; Pub. L. 114–107, §2, Dec. 18, 2015, 129 Stat. 2223; Pub. L. 116–53, §2, Aug. 23, 2019, 133 Stat. 1078, provided that:
+Pub. L. 110–438, §4, Oct. 20, 2008, 122 Stat. 5002, as amended by Pub. L. 112–64, §2, Dec. 13, 2011, 125 Stat. 766; Pub. L. 114–107, §2, Dec. 18, 2015, 129 Stat. 2223; Pub. L. 116–53, §2, Aug. 23, 2019, 133 Stat. 1078; Pub. L. 118–24, §2, Dec. 19, 2023, 137 Stat. 128, provided that:
 
 "(a)
 
@@ -238,7 +238,7 @@ Effective Date.—Except as provided in subsection (b), this Act \[amending this
 
 "(b)
 
-Application of Amendments.—The amendments made by this Act \[amending this section\] shall apply only with respect to cases commenced under title 11 of the United States Code in the 15-year period beginning on the effective date of this Act."
+Application of Amendments.—The amendments made by this Act \[amending this section\] shall apply only with respect to cases commenced under title 11 of the United States Code in the 19-year period beginning on the effective date of this Act."
 
 #### Effective Date of 2005 Amendment
 

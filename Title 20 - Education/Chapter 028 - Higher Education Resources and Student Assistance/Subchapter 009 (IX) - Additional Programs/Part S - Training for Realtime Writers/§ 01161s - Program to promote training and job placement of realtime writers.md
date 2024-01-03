@@ -94,7 +94,7 @@
 
 #### (3) Administrative costs
 
-&emsp;The recipient of a grant under this section may not use more than five percent of thegrant amount to pay administrative costs associated with activities funded by the grant. The Secretary shall use not more than five percent of the amount available for grants under this section in any fiscal year for administrative costs of the program.
+&emsp;The recipient of a grant under this section may not use more than five percent of the grant amount to pay administrative costs associated with activities funded by the grant. The Secretary shall use not more than five percent of the amount available for grants under this section in any fiscal year for administrative costs of the program.
 
 #### (4) Supplement not supplant
 

@@ -26,7 +26,7 @@
 
 (3) The Secretary of State shall establish an advisory committee (within the meaning of chapter 10 of title 5) to perform such functions as the Secretary considers appropriate in connection with carrying out subparagraphs (A) through (D) of paragraph (2).
 
-(c)(1) Before concluding any treaty, convention, or amendment that establishes a rate or classification for a product subject to subchapter I of chapter 36, the Secretary of State shall request the Postal Regulatory Commission to submit its views on whether such rate or classification is consistent with the standards andcriteria established by the Commission under section 3622.
+(c)(1) Before concluding any treaty, convention, or amendment that establishes a rate or classification for a product subject to subchapter I of chapter 36, the Secretary of State shall request the Postal Regulatory Commissionto submit its views on whether such rate or classification is consistent with the standards and criteria established by the Commission under section 3622.
 
 (2) The Secretary shall ensure that each treaty, convention, or amendment concluded under subsection (b) is consistent with the views submitted by the Commission pursuant to paragraph (1), except if, or to the extent, the Secretary determines, in writing, that it is not in the foreign policy or national security interest of the United States to ensure consistency with the Commission's views. Such written determination shall be provided to the Commission together with a full explanation of the reasons thereof, provided that the Secretary may designate which portions of the determination or explanation shall be kept confidential for reasons of foreign policy or national security.
 
@@ -70,6 +70,8 @@ The date of enactment of this subsection, referred to in subsec. (e)(4), is the 
 
 "Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (e)(3) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
 
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–435, title IV, §405(b), Dec. 20, 2006, 120 Stat. 3232, provided that: "Notwithstanding any provision of the amendment made by subsection (a) \[amending this section\], the authority of the United States Postal Service to establish the rates of postage or other charges on mail matter conveyed between the United States and other countries shall remain available to the Postal Service until—
@@ -84,7 +86,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 #### Transfer of Funds to State Department
 
-Pub. L. 105–277, §101(h) \[title VI, §633(d)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524, provided that: "In fiscalyear 1999 and each fiscal year hereafter, the Postal Service shall allocate to the Department of State from any funds available to the Postal Service such sums as may be reasonable, documented and auditable for the Department of State to carry out the activities of Section 407 of title 39 of the United States Code."
+Pub. L. 105–277, §101(h) \[title VI, §633(d)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524, provided that: "In fiscal year 1999 and each fiscal year hereafter, the Postal Service shall allocate to the Department of State from any funds available to the Postal Service such sums as may be reasonable, documented and auditable for the Department of State to carry out the activities of Section 407 of title 39 of the United States Code."
 
 #### <b>Executive Documents</b>
 
@@ -134,7 +136,7 @@ It is the policy of the United States to promote and encourage the development o
 
 (ii) The UPU has not done enough to reorient international mail to achieve a clear distinction between documents and goods. Without such a distinction, it is difficult to achieve essential pricing reforms or to ensure that customs requirements, including provision of electronic customs data for goods, are met. Under the current system, foreign postal operators do not uniformly furnish advance electronic customs data that are needed to enhance targeting and risk management for national security and to facilitate importation and customs clearance. My Administration's Initiative to Stop Opioids Abuse and Reduce Drug Supply and Demand, launched in March of this year \[2018\], requires accurate advance electronic customs data for 90 percent of all international mail shipments that contain goods and consignment shipments within 3 years, so that the Department of Homeland Security can better detect and flag high-risk shipments.
 
-(d) It shall be the policy of the executive branch to support efforts that further the policies in this memorandum, including supporting a system of unrestricted and undistorted competition between United States and foreign merchants. Such efforts include:
+(d) It shall be the policy of the executive branch to support efforts that further the policies in this memorandum, including supporting a system of unrestrictedand undistorted competition between United States and foreign merchants. Such efforts include:
 
 (i) ensuring that rates charged for delivery of foreign-origin mail containing goods do not favor foreign mailers over domestic mailers;
 

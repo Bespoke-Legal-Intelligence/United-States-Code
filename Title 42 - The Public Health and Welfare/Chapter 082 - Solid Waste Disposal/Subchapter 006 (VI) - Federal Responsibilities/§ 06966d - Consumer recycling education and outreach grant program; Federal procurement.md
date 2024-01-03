@@ -56,7 +56,7 @@ In this section, the term "Administrator" means the Administrator of the Environ
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An eligible entity may make a demonstration under subparagraph (A)through the submission to the Administrator of appropriate business plans and financial data.
+&emsp;&emsp;&emsp;An eligible entity may make a demonstration under subparagraph (A) through the submission to the Administrator of appropriate business plans and financial data.
 
 #### (ii) Confidentiality
 
@@ -106,7 +106,7 @@ In this section, the term "Administrator" means the Administrator of the Environ
 
 &emsp;&emsp;&emsp;(i) a standardized set of terms and examples that may be used to describe materials that are accepted by a residential recycling program;
 
-&emsp;&emsp;&emsp;(ii) information that the Administrator determines can be widely applied across residential recycling programs, taking into consideration the differences in recycled materials accepted by residential recycling programs;
+&emsp;&emsp;&emsp;(ii) information that the Administrator determines can be widely applied acrossresidential recycling programs, taking into consideration the differences in recycled materials accepted by residential recycling programs;
 
 &emsp;&emsp;&emsp;(iii) educational principles on best practices for the collection and processing of recycled materials;
 

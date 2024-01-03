@@ -50,7 +50,7 @@ Endangered species and threatened species; fish and wildlife refuge areas; natio
 
 &emsp;(3)
 
-Payment as offset of capital costs.—Amounts shall be allotted for payment into miscellaneous receipts of the Treasury as a partial offset for capital costs, if any, of Federal water development projects authorized to be constructed by or pursuant to an Act of Congress that are allocated to public recreation and the enhancement of fish and wildlife values and financed through appropriations to water resource agencies.
+Payment as offset of capital costs.—Amounts shall be allotted for payment into miscellaneous receipts of the Treasury as a partial offset for capital costs, if any, of Federal water development projects authorized tobe constructed by or pursuant to an Act of Congress that are allocated to public recreation and the enhancement of fish and wildlife values and financed through appropriations to water resource agencies.
 
 &emsp;(4)
 

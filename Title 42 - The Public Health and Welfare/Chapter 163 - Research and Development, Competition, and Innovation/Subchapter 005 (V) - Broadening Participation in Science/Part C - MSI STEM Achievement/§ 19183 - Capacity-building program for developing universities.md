@@ -110,7 +110,7 @@ There are authorized to be appropriated to the Director $200,000,000 for fiscal 
 
 #### (3) Information from Federal agencies
 
-&emsp;The National Science and Technology Council may secure directly from a Federal department or agency such information as the National Science and Technology Council considers necessary to prepare the report requiredunder paragraph (1). Upon a request from the National Science and Technology Council, the head of a Federal department or agency shall furnish such information as is requested to the National Science and Technology Council.
+&emsp;The National Science and Technology Council may secure directly from a Federal department or agency such information as the National Science and Technology Council considers necessary to prepare the report required under paragraph (1). Upon a request from the National Science and Technology Council, the head of a Federal department or agency shall furnish such information as is requested to the National Science and Technology Council.
 
 (Pub. L. 117–167, div. B, title V, §10524, Aug. 9, 2022, 136 Stat. 1623.)
 

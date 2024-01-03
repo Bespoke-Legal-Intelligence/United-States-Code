@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Homeland Security shall deposit all interest described in subsection (c) into the special account established under section 1675c(e) of this title (repealed by subtitle F of title VII of the Deficit Reduction Act of 2005 (Public Law 109–171; 120 Stat. 154)) for inclusion in distributions described in subsection (b) made on or after February 24, 2016.
+The Secretary of Homeland Security shall deposit all interest described in subsection (c) into the special account established under section1675c(e) of this title (repealed by subtitle F of title VII of the Deficit Reduction Act of 2005 (Public Law 109–171; 120 Stat. 154)) for inclusion in distributions described in subsection (b) made on or after February 24, 2016.
 
 #### (b) Distributions described
 

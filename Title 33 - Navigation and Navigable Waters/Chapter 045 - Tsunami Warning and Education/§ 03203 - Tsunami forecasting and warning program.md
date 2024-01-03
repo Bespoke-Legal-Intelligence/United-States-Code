@@ -50,7 +50,7 @@ The program under this section shall—
 
 The program under this section shall operate a tsunami warning system that—
 
-&emsp;(1) is capable of forecasting tsunami, including forecasting tsunami arrival time and inundation estimates, anywhere in the Pacific and Arctic Ocean regions and providing adequate warnings;
+&emsp;(1) is capable of forecasting tsunami, including forecasting tsunami arrival time and inundation estimates, anywhere in the Pacific andArctic Ocean regions and providing adequate warnings;
 
 &emsp;(2) is capable of forecasting and providing adequate warnings, including tsunami arrival time and inundation models where applicable, in areas of the Atlantic Ocean, including the Caribbean Sea and Gulf of Mexico, that are determined—
 
@@ -88,7 +88,7 @@ The program under this section shall operate a tsunami warning system that—
 
 &emsp;&emsp;(F) Disseminating forecasts and tsunami warning bulletins to Federal, State, tribal, and local government officials and the public.
 
-&emsp;&emsp;(G) Coordinating with the tsunami hazard mitigation program conducted under section3204 of this title to ensure ongoing sharing of information between forecasters and emergency management officials.
+&emsp;&emsp;(G) Coordinating with the tsunami hazard mitigation program conducted under section 3204 of this title to ensure ongoing sharing of information between forecasters and emergency management officials.
 
 &emsp;&emsp;(H) In coordination with the Commandant of the Coast Guard and the Administrator of the Federal Emergency Management Agency, evaluating and recommending procedures for ports and harbors at risk of tsunami inundation, including review of readiness, response, and communication strategies, and data sharing policies, to the maximum extent practicable.
 

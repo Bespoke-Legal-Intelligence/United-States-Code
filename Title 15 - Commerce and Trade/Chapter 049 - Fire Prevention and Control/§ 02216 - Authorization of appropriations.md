@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(B) $654,000 for the fiscal year ending September 30, 1982, and $732,480 for the fiscal year ending September 30, 1983, for executive direction by the Federal Emergency Management Agency of program activities for which appropriations are authorized by this subsection; and
 
-&emsp;(2) such further sums as may be necessary in each of the fiscal years ending September 30, 1982, and September 30, 1983, for adjustments required by law in salaries, pay, retirement, and employee benefits incurred in the conduct of activities for which funds are authorized by paragraph (1) of this subsection.
+&emsp;(2) such further sums as may be necessary in each of the fiscal years ending September 30,1982, and September 30, 1983, for adjustments required by law in salaries, pay, retirement, and employee benefits incurred in the conduct of activities for which funds are authorized by paragraph (1) of this subsection.
 
 > The funds authorized under section 278f of this title shall be in addition to funds authorized in any other law for research and development at the Fire Research Center of the National Institute of Standards and Technology.
 
@@ -148,7 +148,7 @@ Subsec. (b). Pub. L. 96–121 added subsec. (b).
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 

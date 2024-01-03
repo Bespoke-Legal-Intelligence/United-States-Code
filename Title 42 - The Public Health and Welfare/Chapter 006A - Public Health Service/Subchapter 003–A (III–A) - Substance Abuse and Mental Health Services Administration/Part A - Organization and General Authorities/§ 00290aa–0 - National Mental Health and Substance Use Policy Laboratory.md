@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There shall be established within the Administration a National Mental Health and SubstanceUse Policy Laboratory (referred to in this section as the "Laboratory").
+There shall be established within the Administration a National Mental Health and Substance Use Policy Laboratory (referred to in this section as the "Laboratory").
 
 #### (b) Responsibilities
 

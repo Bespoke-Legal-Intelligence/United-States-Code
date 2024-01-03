@@ -116,7 +116,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary shall distribute the remaining fundsappropriated for any fiscal year to each eligible institution as follows:
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary shall distribute the remaining funds appropriated for any fiscal year to each eligible institution as follows:
 
 &emsp;&emsp;&emsp;&emsp;(I) 60 percent of the remaining appropriated funds shall be distributed among the eligible Tribal Colleges and Universities on a pro rata basis, based on the respective Indian student counts (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a)) <sup>2</sup> of the Tribal Colleges and Universities.
 

@@ -66,7 +66,7 @@ Reports From Executive Agencies.—In carrying out subsection (b)(10), the Direc
 
 &emsp;&emsp;&emsp;(i) each official who was designated by the agency head to have primary responsibility for the administration, coordination, and management of the agency's ethics program during any portion of the period covered by the report; and
 
-&emsp;&emsp;&emsp;(ii) each officer or employee who was designated to serve as an alternate to the official having primary responsibility during any portion of such period; and
+&emsp;&emsp;&emsp;(ii) each officer or employee who was designated to serve as an alternate to theofficial having primary responsibility during any portion of such period; and
 
 &emsp;&emsp;(C) any other information that the Director may require in order to carry out the responsibilities of the Director under this subchapter; and
 
@@ -122,7 +122,7 @@ Investigations and findings concerning possible violations.—
 
 &emsp;&emsp;&emsp;(i)
 
-Authority of director.—In order to carry out the Director's duties and responsibilities under subparagraph (A)(iii) or (iv) with respect to individual officers and employees, the Director may conduct investigations and make findings concerningpossible violations of any rule, regulation, or Executive order relating to conflicts of interest or standards of conduct applicable to officers and employees of the executive branch.
+Authority of director.—In order to carry out the Director's duties and responsibilities under subparagraph (A)(iii) or (iv) with respect to individual officers and employees, the Director may conduct investigations and make findings concerning possible violations of any rule, regulation, or Executive order relating to conflicts of interest or standards of conduct applicable to officers and employees of the executive branch.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -134,7 +134,7 @@ Notification before a finding is made.—Subject to clause (iv) of this subparag
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Procedures.—The Director shall, in accordance with section 553 of this title, establish procedures for such notification and comment.
+Procedures.—The Director shall, in accordance with section 553 of thistitle, establish procedures for such notification and comment.
 
 &emsp;&emsp;&emsp;(iii)
 

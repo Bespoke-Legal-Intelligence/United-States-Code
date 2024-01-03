@@ -4,7 +4,7 @@
 
 Waiver Authority.—The Secretary of Defense may, for any purchase of a defined fuel source, waive the application of any provision of law prescribing procedures to be followed in the formation of contracts, prescribing terms and conditions to be included in contracts, or regulating the performance of contracts if the Secretary determines—
 
-&emsp;(1) that market conditions for the defined fuel source have adversely affected (or will in the near future adversely affect) the acquisition of that defined fuel source by the Department of Defense; and
+&emsp;(1) that market conditions for the defined fuel source have adversely affected (or will inthe near future adversely affect) the acquisition of that defined fuel source by the Department of Defense; and
 
 &emsp;(2) the waiver will expedite or facilitate the acquisition of that defined fuel source for Government needs.
 
@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 103–160, §826(c)(2), added subsec. (d). Former subsec. (
 
 Subsec. (e). Pub. L. 103–160, §826(c)(1), (d)(1)(C), redesignated subsec. (d) as (e) and inserted heading.
 
-<b>1990</b>—Subsecs. (d), (e). Pub. L. 101–510 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "The Secretary of Defense shallnotify the Congress within 10 days of the date on which any waiver is made under this section and of the reasons for the necessity of exercising such waiver."
+<b>1990</b>—Subsecs. (d), (e). Pub. L. 101–510 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "The Secretary of Defense shall notify the Congress within 10 days of the date on which any waiver is made under this section and of the reasons for the necessity of exercising such waiver."
 
 <b>1987</b>—Subsec. (e). Pub. L. 100–26 inserted "the term" after "In this section,".
 

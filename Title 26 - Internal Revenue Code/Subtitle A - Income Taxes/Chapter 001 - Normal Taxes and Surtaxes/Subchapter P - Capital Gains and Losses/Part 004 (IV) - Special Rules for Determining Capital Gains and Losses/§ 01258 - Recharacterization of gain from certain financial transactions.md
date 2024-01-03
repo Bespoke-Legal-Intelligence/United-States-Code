@@ -116,7 +116,7 @@ For purposes of this section—
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to positions established on or after Oct. 22, 2004, see section 888(e) of Pub. L. 108–357, set out as a note under section 246 of this title.
+Amendment by Pub. L. 108–357 applicable to positions established on or after Oct. 22, 2004, see section 888(e) ofPub. L. 108–357, set out as a note under section 246 of this title.
 
 #### Effective Date
 

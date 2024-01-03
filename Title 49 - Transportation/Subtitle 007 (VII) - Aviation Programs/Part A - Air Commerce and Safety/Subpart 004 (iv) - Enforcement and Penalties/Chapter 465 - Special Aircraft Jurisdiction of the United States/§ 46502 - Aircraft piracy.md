@@ -20,7 +20,7 @@ Outside Special Aircraft Jurisdiction.—(1) An individual committing or conspir
 
 &emsp;(A) shall be imprisoned for at least 20 years; or
 
-&emsp;(B) notwithstanding section 3559(b) of title 18, if the death of another individual results from the commission or attempt, shall be put to death or imprisoned for life.
+&emsp;(B) notwithstanding section 3559(b) of title 18, if the death of another individual resultsfrom the commission or attempt, shall be put to death or imprisoned for life.
 
 (2) There is jurisdiction over the offense in paragraph (1) if—
 

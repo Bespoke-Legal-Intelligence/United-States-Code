@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(iii) a supervisor or a management official;
 
-&emsp;&emsp;(iv) an officer or employee in the Foreign Service of the United States employed in theDepartment of State, the International Communication Agency, the Agency for International Development, the Department of Agriculture, or the Department of Commerce; or
+&emsp;&emsp;(iv) an officer or employee in the Foreign Service of the United States employed in the Department of State, the International Communication Agency, the Agency forInternational Development, the Department of Agriculture, or the Department of Commerce; or
 
 &emsp;&emsp;(v) any person who participates in a strike in violation of section 7311 of this title;
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(A) an employee engaged in the performance of work—
 
-&emsp;&emsp;&emsp;(i) requiring knowledge of an advanced type in a field of science or learning customarily acquired by a prolonged course of specialized intellectual instruction and study in an institution of higher learningor a hospital (as distinguished from knowledge acquired by a general academic education, or from an apprenticeship, or from training in the performance of routine mental, manual, mechanical, or physical activities);
+&emsp;&emsp;&emsp;(i) requiring knowledge of an advanced type in a field of science or learning customarily acquired by a prolonged course of specialized intellectual instruction and study in an institution of higher learning or a hospital (as distinguished from knowledge acquired by a general academic education, or from an apprenticeship, or from training in the performance of routine mental, manual, mechanical, or physical activities);
 
 &emsp;&emsp;&emsp;(ii) requiring the consistent exercise of discretion and judgment in its performance;
 

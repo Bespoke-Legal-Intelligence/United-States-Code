@@ -160,7 +160,7 @@ In subsection (a)(3)(B), before clause (i), the word "money" is substituted for 
 
 In subsection (a)(6), 31 App.:952(d)(4)(C) is omitted as unnecessary.
 
-In subsection (b), the words "all . . . from fees, duties, leases, rents, royalties, services, sales of real orpersonal property, overpayments, fines, penalties, damages, interest, taxes, forfeitures, and other sources" are omitted as surplus.
+In subsection (b), the words "all . . . from fees, duties, leases, rents, royalties, services, sales of real or personal property, overpayments, fines, penalties, damages, interest, taxes, forfeitures, and other sources" are omitted as surplus.
 
 In subsection (c), the words "unit of general" are added for consistency in the revised title.
 
@@ -236,7 +236,7 @@ Pub. L. 104–134, title III, §31001(b), Apr. 26, 1996, 110 Stat. 1321–358, p
 
 &emsp;"(2) To minimize the costs of debt collection by consolidating related functions and activities and utilizing interagency teams.
 
-&emsp;"(3) To reduce losses arising from debt management activities by requiring proper screening of potentialborrowers, aggressive monitoring of all accounts, and sharing of information within and among Federal agencies.
+&emsp;"(3) To reduce losses arising from debt management activities by requiring proper screening of potential borrowers, aggressive monitoring of all accounts, and sharing of information within and among Federal agencies.
 
 &emsp;"(4) To ensure that the public is fully informed of the Federal Government's debt collection policies and that debtors are cognizant of their financial obligations to repay amounts owed to the Federal Government.
 

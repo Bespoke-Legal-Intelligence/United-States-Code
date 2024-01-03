@@ -22,7 +22,7 @@
 
 #### (1) Required reduction
 
-&emsp;If the sum of the base acres for peanuts for a farm, together with the acreage described in paragraph (2), exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for peanuts for the farm or the base acres for 1 or more covered commodities for the farm so that the sum of the base acres for peanuts and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
+&emsp;If the sum of the base acres for peanuts for a farm, together with the acreage described inparagraph (2), exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for peanuts for the farm or the base acres for 1 or more covered commodities for the farm so that the sum of the base acres for peanuts and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
 
 #### (2) Other acreage
 
@@ -84,7 +84,7 @@
 
 #### (1) Prohibition on payments
 
-&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of this chapter, a producer on a farm may not receive direct payments, counter-cyclical payments, oraverage crop revenue election payments if the sum of the base acres of the farm is 10 acres or less, as determined by the Secretary.
+&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of this chapter, a producer on a farm may not receive direct payments, counter-cyclical payments, or average crop revenue election payments if the sum of the base acres of the farm is 10 acres or less, as determined by the Secretary.
 
 #### (2) Exceptions
 

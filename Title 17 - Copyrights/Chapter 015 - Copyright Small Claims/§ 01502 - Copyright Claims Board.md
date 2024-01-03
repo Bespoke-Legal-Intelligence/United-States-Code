@@ -120,7 +120,7 @@ Location of copyright claims board.—The offices and facilities of the Copyrigh
 
 #### References in Text
 
-The General Schedule, referred to in subsec. (b)(4)(B), is set out under section 5332 of Title 5, Government Organization and Employees.
+The General Schedule, referred to in subsec. (b)(4), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

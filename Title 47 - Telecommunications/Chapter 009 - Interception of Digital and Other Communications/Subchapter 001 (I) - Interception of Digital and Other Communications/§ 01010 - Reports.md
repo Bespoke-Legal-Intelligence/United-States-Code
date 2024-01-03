@@ -16,7 +16,7 @@
 
 #### (b) Reports by Comptroller General and Inspector General
 
-(1) On or before April 1, 1996, the Comptroller General of the United States, and every two years thereafter, the Inspector General of the Department of Justice, shall submit to the Congress a report, after consultation with the Attorney General and the telecommunications industry—
+(1) On or before April 1, 1996, the Comptroller General of the United States, and every two years thereafter, the Inspector General of theDepartment of Justice, shall submit to the Congress a report, after consultation with the Attorney General and the telecommunications industry—
 
 &emsp;(A) describing the type of equipment, facilities, and services that have been brought into compliance under this subchapter; and
 

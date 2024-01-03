@@ -48,7 +48,7 @@
 
 #### (B) Rule of construction regarding training of trainers
 
-&emsp;&emsp;With respect to individuals who under a grant under paragraph (1) provide training for the designated staff of eligible health centers (referred to in this subparagraph as "trainers"), subparagraph (A)(iii) may not be construed as establishing any limitation regarding the geographic area in which the trainers receive instruction in being such trainers. A trainer may receive such instruction in a different geographic area than the area in which the trainer trains (or will train) the designated staff of eligible health centers.
+&emsp;&emsp;With respect to individuals who under a grant under paragraph (1) provide training for the designated staff of eligible health centers (referred to in this subparagraph as "trainers"), subparagraph (A)(iii) may not be construed as establishing any limitation regarding the geographic area in which the trainers receive instruction in being such trainers. A trainer may receive such instruction in a different geographic area than the area in which the trainer trains (or willtrain) the designated staff of eligible health centers.
 
 #### (4) Adoption organizations; eligible health centers; other definitions
 

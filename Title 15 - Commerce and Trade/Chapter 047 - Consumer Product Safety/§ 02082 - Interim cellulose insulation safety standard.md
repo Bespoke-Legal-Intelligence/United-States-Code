@@ -6,7 +6,7 @@
 
 (2) The interim consumer product safety standard established in paragraph (1) shall provide that any cellulose insulation which is produced or distributed for sale or use as a consumer product shall have a flame spread rating of 0 to 25, as such rating is set forth in the General Services Administration's specification for cellulose insulation, HH–I–515C.
 
-(3) During the period for which the interim consumer product safety standard established in subsection (a) is in effect, in addition to complying with any labeling requirement established by the Commission under this chapter, each manufacturer or private labeler of cellulose insulation shall include the following statement on any container of such cellulose insulation: "ATTENTION: This material meets the applicable minimum Federal flammability standard. This standard is based upon laboratory tests only, which do not represent actual conditions which may occur in the home". Such statement shall be located in a conspicuous place on such container and shall appear in conspicuous and legible type in contrast by typography, layout, and color with other printed matter on such container.
+(3) During the period for which the interim consumer product safety standard established in subsection (a) is in effect, in addition to complying with any labeling requirement established by the Commission under this chapter, each manufacturer or private labeler of cellulose insulation shall include the followingstatement on any container of such cellulose insulation: "ATTENTION: This material meets the applicable minimum Federal flammability standard. This standard is based upon laboratory tests only, which do not represent actual conditions which may occur in the home". Such statement shall be located in a conspicuous place on such container and shall appear in conspicuous and legible type in contrast by typography, layout, and color with other printed matter on such container.
 
 #### (b) Scope of judicial review
 
@@ -70,7 +70,7 @@ Any Federal department, agency, or instrumentality, or any Federal independent r
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated, for each of the fiscal years 1978, 1979, 1980, and 1981,such sums as may be necessary to carry out the provisions of this section.
+There are authorized to be appropriated, for each of the fiscal years 1978, 1979, 1980, and 1981, such sums as may be necessary to carry out the provisions of this section.
 
 (Pub. L. 92–573, §35, as added Pub. L. 95–319, §3(a), July 11, 1978, 92 Stat. 386; amended Pub. L. 103–437, §5(c)(2), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 110–314, title II, §235(c)(3), (5), Aug. 14, 2008, 122 Stat. 3074, 3075.)
 

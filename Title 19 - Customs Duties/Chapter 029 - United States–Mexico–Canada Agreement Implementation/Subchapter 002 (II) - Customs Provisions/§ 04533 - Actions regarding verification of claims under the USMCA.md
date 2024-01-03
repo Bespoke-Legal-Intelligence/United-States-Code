@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the textile or apparel good that is the subject of a verification described in subparagraph (C)(i) if the Secretary determines that incorrect information has been provided to support the claim for preferential tariff treatment; or
 
-&emsp;&emsp;&emsp;&emsp;(II) any textile or apparel good exported or produced by a person that is the subject of a verification described insubparagraph (C)(ii) if the Secretary determines that the person has provided incorrect information to support the claim for preferential tariff treatment that has been made with respect to that good;
+&emsp;&emsp;&emsp;&emsp;(II) any textile or apparel good exported or produced by a person that is the subject of a verification described in subparagraph (C)(ii) if the Secretary determines that the person has provided incorrect information to support the claim for preferential tariff treatment that has been made with respect to that good;
 
 &emsp;&emsp;&emsp;(iv) detention of any textile or apparel good exported or produced by a person that is the subject of a verification described in subparagraph (C) if the Secretary determines that there is insufficient information to determine the country of origin of that good; and
 

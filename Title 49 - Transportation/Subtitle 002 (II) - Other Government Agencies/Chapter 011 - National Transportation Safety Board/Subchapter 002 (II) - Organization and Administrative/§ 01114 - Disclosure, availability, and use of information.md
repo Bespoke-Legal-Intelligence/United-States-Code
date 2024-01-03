@@ -54,7 +54,7 @@ Confidentiality of recordings.—Except as provided in paragraph (2), the Board 
 
 &emsp;(2)
 
-Exception.—Subject to subsections (b) and (g), the Board shall make public any part of a transcript, any written depiction of visual information obtained from a video recorder, or any still image obtained from a video recorder the Board decides is relevant to the accident—
+Exception.—Subject to subsections (b) and (g), the Board shall make public any part of a transcript, any written depiction of visualinformation obtained from a video recorder, or any still image obtained from a video recorder the Board decides is relevant to the accident—
 
 &emsp;&emsp;(A) if the Board holds a public hearing on the accident, at the time of the hearing; or
 
@@ -146,7 +146,7 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, §304(b)(11); added Nov. 28, 1990
 
 49 App.:1903(b) (11)(C).
 
-In subsection (a), the words "record, information, or investigation" are substituted for "communication,document, investigation, or other report, or information" to eliminate unnecessary words. The words "of the United States" are added for clarity.
+In subsection (a), the words "record, information, or investigation" are substituted for "communication, document, investigation, or other report, or information" to eliminate unnecessary words. The words "of the United States" are added for clarity.
 
 In subsection (c)(1), before clause (A), the words "Notwithstanding any other provision of law" are omitted as surplus. The word "relevant" is substituted for "relevant and pertinent" to eliminate unnecessary words.
 

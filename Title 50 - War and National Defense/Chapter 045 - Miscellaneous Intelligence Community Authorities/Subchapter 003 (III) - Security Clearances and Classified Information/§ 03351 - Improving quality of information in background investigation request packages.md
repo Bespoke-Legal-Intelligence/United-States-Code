@@ -26,3 +26,9 @@ Not later than 270 days after December 20, 2019, and not less frequently than on
 
 (Pub. L. 116–92, div. A, title XVII, §1757, Dec. 20, 2019, 133 Stat. 1860.)
 
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Executive Order 13467, referred to in subsecs. (a) and (c)(1), is Ex. Ord. No. 13467, June 30, 2008, 73 F.R. 38103, which is set out as a note under section 3161 of this title.
+

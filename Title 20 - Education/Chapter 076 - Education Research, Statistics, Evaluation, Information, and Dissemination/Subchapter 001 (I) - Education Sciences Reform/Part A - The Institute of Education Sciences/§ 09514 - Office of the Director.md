@@ -12,7 +12,7 @@ Except as provided in subsection (b)(2), the President, by and with the advice a
 
 #### (2) First Director
 
-&emsp;The President, without the advice and consent of the Senate, may appoint the AssistantSecretary for the Office of Educational Research and Improvement (as such office existed on the day before November 5, 2002) to serve as the first Director of the Institute.
+&emsp;The President, without the advice and consent of the Senate, may appoint the Assistant Secretary for the Office of Educational Research and Improvement (as such office existed on the day before November 5, 2002) to serve as the first Director of the Institute.
 
 #### (3) Subsequent Directors
 

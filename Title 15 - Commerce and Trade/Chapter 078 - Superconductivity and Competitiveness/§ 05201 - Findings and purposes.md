@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(4) the United States manufacturing industries confront strong competition in both domestic and world markets as other countries are increasingly taking advantage of modern technology and production techniques and innovative management focused on quality;
 
-&emsp;(5) whereas we have as a Nation been highly successful in the conduct of basic research in a variety of scientific areas, including superconductivity, other nations have been highly successful in the commercial and military application of the results of such fundamental research;
+&emsp;(5) whereas we have as a Nation been highly successful in the conduct of basic research ina variety of scientific areas, including superconductivity, other nations have been highly successful in the commercial and military application of the results of such fundamental research;
 
 &emsp;(6) if the United States is to begin its competitive advantage, it must commit sufficient long-term resources to solving processing and manufacturing problems in parallel with basic research and development;
 
@@ -22,7 +22,7 @@ The Congress finds that—
 
 &emsp;(9) a committed Federal program effort with appropriate long-term goals, priorities, and adequate resources is necessary for the rapid development and application of the new superconducting materials; and
 
-&emsp;(10) a national program should serve as a test of new agency authorities directed attechnological competitiveness such as those provided to the Department of Energy.
+&emsp;(10) a national program should serve as a test of new agency authorities directed at technological competitiveness such as those provided to the Department of Energy.
 
 #### (b) Purposes
 

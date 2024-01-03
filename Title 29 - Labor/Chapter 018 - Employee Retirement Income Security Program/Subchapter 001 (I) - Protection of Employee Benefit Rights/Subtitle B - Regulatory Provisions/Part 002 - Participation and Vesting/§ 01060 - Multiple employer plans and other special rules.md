@@ -30,7 +30,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (1) General rule
 
-&emsp;Except as provided in this subsection, this chapter shall be applied to any defined benefit plan or applicable individual account plan which are <sup>1</sup> part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.
+&emsp;Except as provided in this subsection, this chapter shall be applied to any defined benefit plan or applicable individual account plan which are <sup>1</sup> part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combinedplan, the plan administrator shall terminate each such plan separately.
 
 #### (2) Eligible combined plan
 
@@ -281,7 +281,7 @@ Amendment by Pub. L. 116–136 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 2014 Amendment
 
-Amendments by Pub. L. 113–235 effective as if included in the amendments made by the Cooperative and Small Employer Charity Pension Flexibility Act, Pub. L. 113–97, see section 3(c) of Pub. L. 113–235, set out as a note under section 414 of Title 26, Internal Revenue Code.
+Amendments by Pub. L. 113–235 effective as if included in the amendments made by the Cooperative and Small Employer Charity Pension Flexibility Act,Pub. L. 113–97, see section 3(c) of Pub. L. 113–235, set out as a note under section 414 of Title 26, Internal Revenue Code.
 
 Amendment by section 101 of Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

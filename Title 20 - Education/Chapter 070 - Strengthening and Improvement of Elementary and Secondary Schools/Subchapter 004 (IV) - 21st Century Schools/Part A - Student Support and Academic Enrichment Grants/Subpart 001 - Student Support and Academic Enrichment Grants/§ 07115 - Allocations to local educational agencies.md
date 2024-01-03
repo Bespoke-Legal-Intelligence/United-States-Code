@@ -20,7 +20,7 @@ If the amount reserved by the State under section 7114(a)(1) of this title is in
 
 #### (c) Administrative costs
 
-Of the amount received under subsection (a)(2), a local educational agency may reservenot more than 2 percent for the direct administrative costs of carrying out the local educational agency's responsibilities under this subpart.
+Of the amount received under subsection (a)(2), a local educational agency may reserve not more than 2 percent for the direct administrative costs of carrying out the local educational agency's responsibilities under this subpart.
 
 (Pub. L. 89–10, title IV, §4105, as added Pub. L. 114–95, title IV, §4101, Dec. 10, 2015, 129 Stat. 1974.)
 

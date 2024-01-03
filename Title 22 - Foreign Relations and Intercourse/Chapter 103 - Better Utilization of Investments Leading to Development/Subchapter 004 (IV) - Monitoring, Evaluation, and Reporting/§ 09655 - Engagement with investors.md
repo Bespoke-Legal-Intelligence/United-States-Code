@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Corporation, acting through the Chief Development Officer, shall, in cooperation with the Administrator of the United States Agency for International Development—
+The Corporation, acting through the Chief Development Officer, shall, in cooperation with theAdministrator of the United States Agency for International Development—
 
 &emsp;(1) develop a strategic relationship with private sector entities focused at the nexus of business opportunities and development priorities;
 

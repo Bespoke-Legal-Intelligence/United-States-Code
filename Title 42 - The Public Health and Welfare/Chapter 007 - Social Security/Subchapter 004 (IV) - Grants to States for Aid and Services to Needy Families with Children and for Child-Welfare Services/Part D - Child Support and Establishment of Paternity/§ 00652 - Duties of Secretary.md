@@ -32,7 +32,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;(7) provide technical assistance to the States to help them establish effective systems for collecting child and spousal support and establishing paternity, and specify the minimum requirements of an affidavit to be used for the voluntary acknowledgment of paternity which shall include the social security number of each parent and, after consultation with the States, other common elements as determined by such designee;
 
-&emsp;(8) receive applications from States for permission to utilize the courts of the United States to enforce court orders for support against noncustodial parents and, upon a finding that (A) another State has not undertaken to enforce the court order of the originating State against the noncustodial parent within areasonable time, and (B) that utilization of the Federal courts is the only reasonable method of enforcing such order, approve such applications;
+&emsp;(8) receive applications from States for permission to utilize the courts of the United States to enforce court orders for support against noncustodial parents and, upon a finding that (A) another State has not undertaken to enforce the court order of the originating State against the noncustodial parent within a reasonable time, and (B) that utilization of the Federal courts is the only reasonable method of enforcing such order, approve such applications;
 
 &emsp;(9) operate the Federal Parent Locator Service established by section 653 of this title;
 
@@ -150,7 +150,7 @@ The Secretary of the Treasury shall from time to time pay to each State for dist
 
 #### (e) Technical assistance to States
 
-The Secretary shall provide such technical assistance to States as he determines necessary toassist States to plan, design, develop, or install and provide for the security of, the management information systems referred to in section 654(16) of this title.
+The Secretary shall provide such technical assistance to States as he determines necessary to assist States to plan, design, develop, or install and provide for the security of, the management information systems referred to in section 654(16) of this title.
 
 #### (f) Regulations
 
@@ -208,7 +208,7 @@ The standards required by subsection (a)(1) shall include standards establishing
 
 #### (i) Prompt State distribution of amounts collected as child support
 
-The standards required by subsection (a)(1) shall include standards establishing time limits governing the period or periods within which a State must distribute, in accordance with section 657 of this title, amounts collected as child support pursuant to the State's plan approved under this part.
+The standards required by subsection (a)(1) shall include standards establishing time limitsgoverning the period or periods within which a State must distribute, in accordance with section 657 of this title, amounts collected as child support pursuant to the State's plan approved under this part.
 
 #### (j) Training of Federal and State staff, research and demonstration programs, and special projects of regional or national significance
 
@@ -268,7 +268,7 @@ The Secretary shall use the authorities otherwise provided by law to ensure the 
 
 &emsp;&emsp;(B) contain interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model;
 
-&emsp;&emsp;(C) incorporate interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance;
+&emsp;&emsp;(C) incorporate interoperable standards developed and maintained by Federal entitieswith authority over contracting and financial assistance;
 
 &emsp;&emsp;(D) be consistent with and implement applicable accounting principles;
 
@@ -388,7 +388,7 @@ Subsec. (g)(1)(A). Pub. L. 104–193, §341(b)(1), formerly §341(c)(1), as rede
 
 Subsec. (g)(1)(B) to (F). Pub. L. 104–193, §341(b)(2)(A), formerly §341(c)(2)(A), as redesignated by Pub. L. 105–200, §201(e)(1)(A), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
 
-Subsec. (g)(2). Pub. L. 104–193, §108(c)(8), as amended by Pub. L. 105–33, §5513(a)(2), in closing provisions, substituted "with respect to whom assistance is being provided under the State program funded under part A"for "who is a dependent child" and "found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title" for "found to have good cause for refusing to cooperate under section 602(a)(26) of this title or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so".
+Subsec. (g)(2). Pub. L. 104–193, §108(c)(8), as amended by Pub. L. 105–33, §5513(a)(2), in closing provisions, substituted "with respect to whom assistance is being provided under the State program funded under part A" for "who is a dependent child" and "found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title" for "found to have good cause for refusing to cooperate under section 602(a)(26) of this title or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so".
 
 Subsec. (g)(2)(A). Pub. L. 104–193, §341(b)(3)(A), formerly §341(c)(3)(A), as redesignated by Pub. L. 105–200, §201(e)(1)(A), in introductory provisions, substituted " 'IV–D paternity establishment percentage' " for " 'paternity establishment percentage' " and struck out "(or all States, as the case may be)" after "with respect to a State", and, in closing provisions, struck out "and" at end.
 
@@ -398,7 +398,7 @@ Pub. L. 104–193, §108(c)(7), in concluding provisions, substituted "assistanc
 
 Subsec. (g)(2)(A)(ii)(I). Pub. L. 104–193, §108(c)(6), substituted "assistance is being provided under the State program funded under part A" for "aid is being paid under the State's plan approved under part A or E".
 
-Subsec. (g)(2)(B), (C). Pub. L. 104–193, §341(b)(3)(B), formerly §341(c)(3)(B), as redesignated by Pub. L. 105–200, §201(e)(1)(A), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (g)(2)(B), (C). Pub. L. 104–193, §341(b)(3)(B), formerly §341(c)(3)(B), as redesignated by Pub. L.105–200, §201(e)(1)(A), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (g)(3)(A). Pub. L. 104–193, §341(b)(4)(B), formerly §341(c)(4)(B), as redesignated by Pub. L. 105–200, §201(e)(1)(A), substituted "the percentage of children in a State who are born out of wedlock or for whom support has not been established" for "the percentage of children born out-of-wedlock in a State".
 
@@ -462,7 +462,7 @@ Subsec. (i). Pub. L. 100–485, §122(a), added subsec. (i).
 
 "(1) There is hereby established in the Treasury a revolving fund which shall be available to the Secretary without fiscal year limitation, to enable him to pay to the States for distribution in accordance with the provisions of section 657 of this title such amounts as may be collected and paid (subject to paragraph (2)) into such fund under section 6305 of the Internal Revenue Code of 1986.
 
-"(2) There is hereby appropriated to the fund, out of any moneys in the Treasury not otherwise appropriated, amounts equal to the amounts collected under section 6305 the Internal Revenue Code of 1986, reducedby the amounts credited or refunded as overpayments of the amounts so collected. The amounts appropriated by the preceding sentence shall be transferred at least quarterly from the general fund of the Treasury to the fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred."
+"(2) There is hereby appropriated to the fund, out of any moneys in the Treasury not otherwise appropriated, amounts equal to the amounts collected under section 6305 the Internal Revenue Code of 1986, reduced by the amounts credited or refunded as overpayments of the amounts so collected. The amounts appropriated by the preceding sentence shall be transferred at least quarterly from the general fund of the Treasury to the fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred."
 
 <b>1986</b>—Subsecs. (b), (c). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing.
 
@@ -470,7 +470,7 @@ Subsec. (i). Pub. L. 100–485, §122(a), added subsec. (i).
 
 Subsec. (a)(4). Pub. L. 98–378, §9(a)(1), substituted "not less often than once every three years (or not less often than annually in the case of any State to which a reduction is being applied under section 603(h)(1) of this title, or which is operating under a corrective action plan in accordance with section 603(h)(2) of this title)" for "not less often than annually".
 
-Subsec. (a)(10)(C). Pub. L. 98–378, §13(a), amended subpar. (C) generally to include the reporting of additional aspects of child support enforcement. Prior to amendment, subpar. (C) read as follows: "the number of child support cases (with separate identification of the number in which collection of spousal support was involved) in each State during each quarter of the fiscal year last ending before the report is submitted and during each quarter of the preceding fiscal year (including the transitional period beginning July 1, 1976, and ending September 30, 1976, in the case of the first report to which this subparagraph applies), and the disposition of such cases;".
+Subsec. (a)(10)(C). Pub. L. 98–378, §13(a), amended subpar. (C) generally to include the reporting of additional aspects of child support enforcement. Prior to amendment, subpar. (C) read as follows: "the number of child support cases (with separate identification of the number in which collection of spousal support was involved) in each State during each quarter of the fiscal year lastending before the report is submitted and during each quarter of the preceding fiscal year (including the transitional period beginning July 1, 1976, and ending September 30, 1976, in the case of the first report to which this subparagraph applies), and the disposition of such cases;".
 
 Subsec. (a)(10)(I). Pub. L. 98–378, §13(b), added subpar. (I).
 
@@ -522,7 +522,7 @@ Pub. L. 105–200, title IV, §401(c)(3), July 16, 1998, 112 Stat. 662, as amend
 
 > but in no event later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date specified in subparagraph (A). For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature."
 
-\[Pub. L. 105–306, §4(b)(2), Oct. 28, 1998, 112 Stat. 2927, provided that: "The amendment made by paragraph (1) of this subsection \[amending section 401(c)(3) of Pub. L. 105–200, set out above\] shall take effect as if included inthe enactment of section 401(c)(3) of the Child Support Performance and Incentive Act of 1998 \[Pub. L. 105–200\]."\]
+\[Pub. L. 105–306, §4(b)(2), Oct. 28, 1998, 112 Stat. 2927, provided that: "The amendment made by paragraph (1) of this subsection \[amending section 401(c)(3) of Pub. L. 105–200, set out above\] shall take effect as if included in the enactment of section 401(c)(3) of the Child Support Performance and Incentive Act of 1998 \[Pub. L. 105–200\]."\]
 
 Pub. L. 105–200, title IV, §407(c), July 16, 1998, 112 Stat. 672, provided that: "The amendments made by this section \[amending this section and section 669 of this title\] shall apply to information maintained with respect to fiscal year 1995 or any succeeding fiscal year."
 
@@ -534,7 +534,7 @@ Amendment by sections 5540, 5541(a), and 5556(c) of Pub. L. 105–33 effective a
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255, as amended by Pub. L. 105–33, title V, §5556(c), Aug. 5, 1997, 111 Stat. 637, provided in part that: "Amounts available under such sections 452(j) \[42 U.S.C. 652(j)\] and 453(o) \[42 U.S.C. 653(o)\] shall be calculated as though the amendments made by this section were effective October 1, 1995."
+Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255, as amended by Pub. L. 105–33, title V, §5556(c), Aug. 5, 1997, 111 Stat. 637, provided in part that: "Amounts available under such sections 452(j) \[42 U.S.C. 652(j)\] and 453(o) \[42 U.S.C.653(o)\] shall be calculated as though the amendments made by this section were effective October 1, 1995."
 
 Amendment by section 108(c)(2)–(9) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
@@ -592,7 +592,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise specifi
 
 Pub. L. 96–265, title IV, §402(b), June 9, 1980, 94 Stat. 462, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect July 1, 1980."
 
-Pub. L. 96–265, title IV, §405(e), June 9, 1980, 94 Stat. 465, provided that: "The amendments made by this section \[amending this section and sections 654 and 655 of this title\] shall take effect on July 1, 1981, and shall be effective only with respect to expenditures, referred to in section 455(a)(3) of the Social Security Act \[42 U.S.C.655(a)(3)\] (as amended by this Act), made on or after such date."
+Pub. L. 96–265, title IV, §405(e), June 9, 1980, 94 Stat. 465, provided that: "The amendments made by this section \[amending this section and sections 654 and 655 of this title\] shall take effect on July 1, 1981, and shall be effective only with respect to expenditures, referred to in section 455(a)(3) of the Social Security Act \[42 U.S.C. 655(a)(3)\] (as amended by this Act), made on or after such date."
 
 #### Effective Date of 1977 Amendment
 

@@ -72,7 +72,7 @@ In subsection (b)(2), the words "Administrator of General Services" are substitu
 
 #### References in Text
 
-The Chief Financial Officers Act of 1990, referred to in subsec. (d)(1), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat.2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
+The Chief Financial Officers Act of 1990, referred to in subsec. (d)(1), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
 
 #### Amendments
 

@@ -8,7 +8,7 @@ There is hereby established in the Commission an Office of Nuclear Material Safe
 
 Subject to the provisions of this chapter, the Director of Nuclear Material Safety and Safeguards shall perform such functions as the Commission shall delegate including:
 
-&emsp;(1) Principal licensing and regulation involving all facilities and materials, licensed underthe Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], associated with the processing, transport, and handling of nuclear materials, including the provision and maintenance of safeguards against threats, thefts, and sabotage of such licensed facilities, and materials.
+&emsp;(1) Principal licensing and regulation involving all facilities and materials, licensed under the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], associated with the processing, transport, and handling of nuclear materials, including the provision and maintenance of safeguards against threats, thefts, and sabotage of such licensed facilities, and materials.
 
 &emsp;(2) Review safety and safeguards of all such facilities and materials licensed under the Atomic Energy Act of 1954, as amended, and such review shall include, but not be limited to—
 

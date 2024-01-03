@@ -52,7 +52,7 @@ Par. (2)(B). Pub. L. 115–425, §212(a)(2), substituted "clause" for "clauses".
 
 #### Effective Date
 
-Pub. L. 110–457, title IV, §407, Dec. 23, 2008, 122 Stat. 5091, provided that: "This title \[enacting this section and sections 2370c–1 and 2370c–2 of this title, amending section 4028 of this title, and enacting provisions set out as a note under section 2151 of this title\], and the amendments made by this title, shall take effect 180 days after the date of the enactment of this Act \[Dec. 23, 2008\]."
+Pub. L. 110–457, title IV, §407, Dec. 23, 2008, 122 Stat. 5091, provided that: "This title \[enacting this sectionand sections 2370c–1 and 2370c–2 of this title, amending section 4028 of this title, and enacting provisions set out as a note under section 2151 of this title\], and the amendments made by this title, shall take effect 180 days after the date of the enactment of this Act \[Dec. 23, 2008\]."
 
 #### Findings
 

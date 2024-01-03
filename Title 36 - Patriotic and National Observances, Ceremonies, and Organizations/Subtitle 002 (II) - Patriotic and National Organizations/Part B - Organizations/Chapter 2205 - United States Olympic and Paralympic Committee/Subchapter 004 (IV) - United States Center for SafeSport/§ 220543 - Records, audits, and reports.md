@@ -112,7 +112,7 @@ Definitions.—In this section—
 
 &emsp;(1) "audit report" means a report by an independent auditor that includes—
 
-&emsp;&emsp;(A) an opinion or a disclaimer of opinion that presents the assessment of the independent auditor with respect to the financial records of the Center, including whether such records are accurate and have beenmaintained in accordance with generally accepted accounting principles;
+&emsp;&emsp;(A) an opinion or a disclaimer of opinion that presents the assessment of the independent auditor with respect to the financial records of the Center, including whether such records are accurate and have been maintained in accordance with generally accepted accounting principles;
 
 &emsp;&emsp;(B) an assessment of the internal controls used by the Center that describes the scope of testing of the internal controls and the results of such testing; and
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Availability of Amounts.—Amounts equal to the amounts authorized under sections 48101–48105 of this title remain in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) until appropriated for the purposes of sections 48101–48105.
+Availability of Amounts.—Amounts equal to the amounts authorized under sections48101–48105 of this title remain in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) until appropriated for the purposes of sections 48101–48105.
 
 (b)
 
@@ -12,7 +12,7 @@ Limitations on Uses.—(1) Amounts in the Fund may be appropriated only to carry
 
 (c)
 
-Limitation on Obligating or Expending Amounts.—In a fiscal year beginning after September 30, 1998, the Secretary of Transportationmay obligate or expend an amount appropriated out of the Fund under section 48104 of this title only if a law expressly amends section 48104.
+Limitation on Obligating or Expending Amounts.—In a fiscal year beginning after September 30, 1998, the Secretary of Transportation may obligate or expend an amount appropriated out of the Fund under section 48104 of this title only if a law expressly amends section 48104.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1297; Pub. L. 103–305, title I, §102(c), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §103(c), Oct. 9, 1996, 110 Stat. 3216.)
 

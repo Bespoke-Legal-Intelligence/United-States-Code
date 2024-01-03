@@ -6,7 +6,7 @@ The Secretary, and the Secretary of Agriculture with respect to the National For
 
 &emsp;(1) shall utilize the land acquisition and other authority under the Fish and Wildlife Act of 1956, as amended \[16 U.S.C. 742a et seq.\], the Fish and Wildlife Coordination Act, as amended \[16 U.S.C. 661 et seq.\], and the Migratory Bird Conservation Act \[16 U.S.C. 715 et seq.\], as appropriate; and
 
-&emsp;(2) is authorized to acquire by purchase, donation, or otherwise, lands, waters, or interesttherein, and such authority shall be in addition to any other land acquisition authority vested in him.
+&emsp;(2) is authorized to acquire by purchase, donation, or otherwise, lands, waters, or interest therein, and such authority shall be in addition to any other land acquisition authority vested in him.
 
 #### (b) Availability of funds for acquisition of lands, waters, etc.
 

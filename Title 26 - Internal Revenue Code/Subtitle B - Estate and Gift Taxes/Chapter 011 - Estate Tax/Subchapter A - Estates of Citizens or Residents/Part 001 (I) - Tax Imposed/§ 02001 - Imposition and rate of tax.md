@@ -183,7 +183,7 @@ Pub. L. 112–240, title I, §101(c)(3), Jan. 2, 2013, 126 Stat. 2318, provided 
 
 "(A)
 
-In general.—Except as otherwise provided by in this paragraph, the amendments made by this subsection \[amending this section and section 2010 of this title\] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2012.
+In general.—Except as otherwise provided by in this paragraph, the amendments made by this subsection \[amending this section and section 2010 of thistitle\] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2012.
 
 "(B)
 
@@ -215,7 +215,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title V, §501(f), Aug. 5, 1997, 111 Stat. 847, as amended by Pub. L. 105–206, title VI, §6007(a)(2), July 22, 1998, 112 Stat. 807, provided that: "The amendments made by this section \[amending this section and sections 2010, 2032A, 2102, 2503, 2505, 2631, 6018, and 6601of this title\] (other than the amendment made by subsection (d) \[amending section 2631 of this title\]) shall apply to the estates of decedents dying, and gifts made, after December 31, 1997."
+Pub. L. 105–34, title V, §501(f), Aug. 5, 1997, 111 Stat. 847, as amended by Pub. L. 105–206, title VI, §6007(a)(2), July 22, 1998, 112 Stat. 807, provided that: "The amendments made by this section \[amending this section and sections 2010, 2032A, 2102, 2503, 2505, 2631, 6018, and 6601 of this title\] (other than the amendment made by subsection (d) \[amending section 2631 of this title\]) shall apply to the estates of decedents dying, and gifts made, after December 31, 1997."
 
 Pub. L. 105–34, title V, §506(e)(1), Aug. 5, 1997, 111 Stat. 856, as amended by Pub. L. 105–206, title VI, §6007(e)(1), July 22, 1998, 112 Stat. 809, provided that: "The amendments made by subsections (a), (c), and (d) \[enacting section 7477 of this title and amending this section and section 2504 of this title\] shall apply to gifts made after the date of the enactment of this Act \[Aug. 5, 1997\]."
 

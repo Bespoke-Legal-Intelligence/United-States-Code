@@ -108,13 +108,13 @@ The Associate Administrator shall promote sales opportunities for small business
 
 &emsp;&emsp;(F) participate, jointly with employees of the Office, in an annual training program that focuses on current small business needs for exporting; and
 
-&emsp;&emsp;(G) develop and conduct training programs for exporters and lenders, in cooperation with the Export Assistance Centers, the Department of Commerce, the Department ofAgriculture, small business development centers, women's business centers, the Export-Import Bank of the United States, the United States International Development Finance Corporation, and other relevant Federal agencies;
+&emsp;&emsp;(G) develop and conduct training programs for exporters and lenders, in cooperation with the Export Assistance Centers, the Department of Commerce, the Department of Agriculture, small business development centers, women's business centers, the Export-Import Bank of the United States, the United States International Development Finance Corporation, and other relevant Federal agencies;
 
 &emsp;(10) make available on the website of the Administration the name and contact information of each individual described in paragraph (9);
 
 &emsp;(11) carry out a nationwide marketing effort using technology, online resources, training, and other strategies to promote exporting as a business development opportunity for small business concerns;
 
-&emsp;(12) disseminate information to the small business community through regional and district offices of the Administration, the small business development center network, Export Assistance Centers, the network of women's business centers, chapters of the Service Corps of Retired Executives authorized by section 637(b)(1) of this title, State and local export promotion programs, and partners in the private sector regarding exporting trends, market-specific growth, industry trends, and prospects for exporting; and
+&emsp;(12) disseminate information to the small business community through regional and district offices of the Administration, the small business development center network, Export Assistance Centers, the network of women's business centers, chapters of the Service Corpsof Retired Executives authorized by section 637(b)(1) of this title, State and local export promotion programs, and partners in the private sector regarding exporting trends, market-specific growth, industry trends, and prospects for exporting; and
 
 &emsp;(13) establish and carry out training programs for the staff of the regional and district offices of the Administration and resource partners of the Administration on export promotion and providing assistance relating to exports.
 
@@ -156,7 +156,7 @@ The Associate Administrator shall submit an annual report to the Committee on Sm
 
 &emsp;(1) a description of the progress of the Office in implementing the requirements of this section;
 
-&emsp;(2) a detailed account of the results of export growth activities of the Administration, including the activities of each district and regional office of the Administration, based on the performance measures described in subsection (i); <sup>2</sup>
+&emsp;(2) a detailed account of the results of export growth activities of the Administration, including the activities of each district and regional office of the Administration, based on the performance measures described in subsection (i); <sup>1</sup>
 
 &emsp;(3) an estimate of the total number of jobs created or retained as a result of export assistance provided by the Administration and resource partners of the Administration;
 
@@ -630,7 +630,7 @@ Pub. L. 96–481, title I, §113(b), Oct. 21, 1980, 94 Stat. 2324, provided that
 
 #### Short Title
 
-For short title of part B of title I of Pub. L. 96–481 as the Small Business Export Expansion Act of 1980, seeShort Title of 1980 Amendment note set out under section 631 of this title.
+For short title of part B of title I of Pub. L. 96–481 as the Small Business Export Expansion Act of 1980, see Short Title of 1980 Amendment note set out under section 631 of this title.
 
 #### Implementation
 
@@ -714,5 +714,5 @@ Pub. L. 96–481, title I, §111, Oct. 21, 1980, 94 Stat. 2323, provided that:
 
 &emsp;"(3) promoting the competitive viability of such firms in export trade and encouraging increased tourism in the United States by creating a program to provide limited financial, technical, and management assistance as may be necessary."
 
-<i><sup>2</sup></i><i> So in original. Probably should be a reference to subsection (j).</i>
+<i><sup>1</sup></i><i> So in original. Probably should be a reference to subsection (j).</i>
 

@@ -18,7 +18,7 @@ Annual Briefings.—Not later than March 15 of each year, the Secretary of Defen
 
 (c)
 
-Reports on Nuclear Posture Review Implementation Study Decisions.—During each of fiscal years 2022 through 2031, not later than 60 days before the date on which the President carries out the results of the decisions made pursuant to the <sup>1</sup> a Nuclear Posture Review Implementation Study that would alter the nuclear weapons employment strategy, guidance, plans, or options of the United States, the President shall—
+Reports on Nuclear Posture Review Implementation Study Decisions.—During each of fiscal years 2022 through 2031, not later than 60 days before the date on which the President carries out the results of the decisions made pursuant to a Nuclear Posture Review Implementation Study that would alter the nuclear weapons employment strategy, guidance, plans, or options of the United States, the President shall—
 
 &emsp;(1) ensure that the report required by section 492a of this title is transmitted to Congress, if so required under such section;
 
@@ -26,7 +26,7 @@ Reports on Nuclear Posture Review Implementation Study Decisions.—During each 
 
 &emsp;(3) transmit to the congressional defense committees a report providing the high-, medium-, and low- confidence assessments of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))) as to whether the United States will have significant warning of a strategic surprise or breakout caused by foreign nuclear weapons developments.
 
-(Added Pub. L. 112–81, div. A, title X, §1046(b)(1), Dec. 31, 2011, 125 Stat. 1579; amended Pub. L. 112–239, div. A, title X, §§1031(a), 1032, Jan. 2, 2013, 126 Stat. 1917, 1919; Pub. L. 113–66, div. A, title X, §1052(b), Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 117–263, div. A, title XVI, §1637, Dec. 23, 2022, 136 Stat. 2940.)
+(Added Pub. L. 112–81, div. A, title X, §1046(b)(1), Dec. 31, 2011, 125 Stat. 1579; amended Pub. L. 112–239, div. A, title X, §§1031(a), 1032, Jan. 2, 2013, 126 Stat. 1917, 1919; Pub. L. 113–66, div. A, title X, §1052(b), Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 117–263, div. A, title XVI, §1637, Dec. 23, 2022, 136 Stat. 2940; Pub. L. 118–31, div. A, title XVIII, §1801(a)(8), Dec. 22, 2023, 137 Stat. 684.)
 
 #### <b>Editorial Notes</b>
 
@@ -35,6 +35,8 @@ Reports on Nuclear Posture Review Implementation Study Decisions.—During each 
 Section was formerly part of chapter 23 of this title, prior to being transferred to this chapter by Pub. L. 112–239, §1031(a)(1).
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c). Pub. L. 118–31 substituted "pursuant to a" for "pursuant to the a" in introductory provisions.
 
 <b>2022</b>—Subsec. (c). Pub. L. 117–263, §1637(1), (2), struck out "2010" after "Reports on" in heading and substituted "2022 through 2031" for "2012 through 2021" and "a" for "2010" in introductory provisions.
 
@@ -63,6 +65,14 @@ Subsec. (d). Pub. L. 113–66, §1052(b)(2), redesignated subsec. (d) as (c).
 Pub. L. 112–239, §1032(b), added subsec. (d).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Congressional Notification of Nuclear Cooperation Between Russia and China
+
+Pub. L. 118–31, div. A, title XVI, §1649, Dec. 22, 2023, 137 Stat. 601, provided that: "If the Commander of the United States Strategic Command determines, after consultation with the Director of the Defense Intelligence Agency, that militarily significant cooperation between the Russian Federation and the People's Republic of China related to nuclear or strategic capabilities is likely to occur or has likely occurred, the Commander shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a notification of such determination that includes—
+
+&emsp;"(1) a description of the military significant cooperation; and
+
+&emsp;"(2) an assessment of the implication of such cooperation for the United States with respect to nuclear deterrence, extended deterrence, assurance, and defense."
 
 #### Plan To Train Officers in Nuclear Command, Control, and Communications
 
@@ -120,7 +130,7 @@ Charter.—In establishing the fusion center under subsection (a), the Secretary
 
 "(c)
 
-Coordination.—In establishing the fusion center under subsection (a), the Secretary and the Directorshall coordinate with the elements of the Federal Government that the Secretary and Director determine appropriate.
+Coordination.—In establishing the fusion center under subsection (a), the Secretary and the Director shall coordinate with the elements of the Federal Government that the Secretary and Director determine appropriate.
 
 "(d)
 
@@ -276,7 +286,7 @@ Submission.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;"(3)
 
-Waiver.—The Secretary may waive, on a case-by-case basis with respect to a weapons system, a program, or a system of systems, of a covered program, either the requirement to conduct an evaluation under paragraph (1) or the deadline specified in such paragraph if the Secretary certifies to the congressional defense committees before such date that all known supply chain vulnerabilities of such weapons system, program, or system of systems have minimal consequences for the capability of such weapons system, program, or system of systems to meet operational requirements or otherwise satisfy mission requirements.
+Waiver.—The Secretary may waive, on a case-by-case basis with respect to a weapons system, a program, or a system of systems, of a covered program, either the requirement to conduct an evaluation under paragraph (1) or the deadline specified insuch paragraph if the Secretary certifies to the congressional defense committees before such date that all known supply chain vulnerabilities of such weapons system, program, or system of systems have minimal consequences for the capability of such weapons system, program, or system of systems to meet operational requirements or otherwise satisfy mission requirements.
 
 &emsp;"(4)
 
@@ -383,6 +393,4 @@ By the authority vested in me as President by the Constitution and the laws of t
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

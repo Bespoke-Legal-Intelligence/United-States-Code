@@ -24,7 +24,7 @@ A prior section 210 of act July 14, 1955, was renumbered section 211 by Pub. L. 
 
 #### Amendments
 
-<b>1977</b>—Pub. L. 95–95 inserted provision allowing grants to be made by way of reimbursement in any case inwhich amounts have been expended by States before the date on which the grants were made.
+<b>1977</b>—Pub. L. 95–95 inserted provision allowing grants to be made by way of reimbursement in any case in which amounts have been expended by States before the date on which the grants were made.
 
 <b>1970</b>—Pub. L. 91–604, §10(b), substituted provisions authorizing the Administrator to make grants to appropriate State agencies for the development and maintenance of effective vehicle emission devices and systems inspection and emission testing and control programs, for provisions authorizing the Secretary to make grants to appropriate State air pollution control agencies for the development of meaningful uniform motor vehicle emission device inspection and emission testing programs.
 

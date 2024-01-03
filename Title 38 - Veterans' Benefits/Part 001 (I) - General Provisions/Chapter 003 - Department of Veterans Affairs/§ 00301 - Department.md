@@ -78,7 +78,7 @@ Website required.—Subject to paragraph (2) and not later than 90 days after th
 
 &emsp;&emsp;&emsp;"(i) For employees appointed under paragraphs (1) and (3) of section 7401 of title 38, United States Code, the number of employees for which the duration of the process from validation of vacancy to receipt of official offer and notification of actual start date exceeds the metrics laid out in the Time to Hire Model of the Veterans Health Administration, or successor model.
 
-&emsp;&emsp;&emsp;"(ii) The percentage of employees who are described in clause (i) compared to all employees appointed under paragraphs (1) and (3) of section 7401 of such title during the same period.
+&emsp;&emsp;&emsp;"(ii) The percentage of employees who are described in clause (i) compared to all employeesappointed under paragraphs (1) and (3) of section 7401 of such title during the same period.
 
 &emsp;&emsp;&emsp;"(iii) The average number of days potential hires or new hires appointed under paragraphs (1) and (3) of section 7401 of such title spent in each phase of the Time to Hire Model, or successor model.
 
@@ -100,7 +100,7 @@ Inspector general review.—On a semi-annual basis, the Inspector General of the
 
 "(b)
 
-Report to Congress.—The Secretary of Veterans Affairs shall submit to Congress an annual report on the steps the Department is taking to achieve full staffing capacity and to improve the onboard timeline for facilities for which the duration of the onboardingprocess exceeds the metrics laid out in the Time to Hire Model of the Veterans Health Administration, or successor model. Each such report shall include the amount of additional funds necessary to enable the Department to reach full staffing capacity."
+Report to Congress.—The Secretary of Veterans Affairs shall submit to Congress an annual report on the steps the Department is taking to achieve full staffing capacity and to improve the onboard timeline for facilities for which the duration of the onboarding process exceeds the metrics laid out in the Time to Hire Model of the Veterans Health Administration, or successor model. Each such report shall include the amount of additional funds necessary to enable the Department to reach full staffing capacity."
 
 #### Department of Veterans Affairs Franchise Fund
 
@@ -182,7 +182,7 @@ Redesignation.—The Office of Inspector General of the Veterans' Administration
 
 "(a)
 
-Continuing Effect of Legal Documents.—All orders, determinations, rules, regulations, permits,grants, contracts, certificates, licenses, and privileges—
+Continuing Effect of Legal Documents.—All orders, determinations, rules, regulations, permits, grants, contracts, certificates, licenses, and privileges—
 
 &emsp;"(1) which have been issued, made, granted, or allowed to become effective by the President, by the Administrator of Veterans' Affairs, or by a court of competent jurisdiction, in the performance of functions of the Administrator or the Veterans' Administration; and
 
@@ -252,7 +252,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Purpose</i>. This order is intended to improve accountability and whistleblower protection at the Department of Veterans Affairs (VA) by directing the Secretary of Veterans Affairs (Secretary) to establish within the VA an Office of Accountability and Whistleblower Protection and to appoint a Special Assistant to serve as Executive Director of the Office.
 
-Sec. 2. <i>Establishing a VA Office of Accountability and Whistleblower Protection</i>. (a) Within 45 days of the date of this order, and to the extent permitted by law, the Secretary shall establish in the VA the Office of Accountability and Whistleblower Protection (Office), and shall appoint a Special Assistant, reporting directly to the Secretary, to serve as Executive Director of the Office. The VA shall provide funding and administrative support for the Office, consistent with applicable law and subject to the availability of appropriations.
+Sec. 2. <i>Establishing a VA Office of Accountability and Whistleblower Protection</i>. (a) Within 45 days of the date of this order, and to the extent permitted by law, the Secretary shall establish in the VA the Office of Accountability and Whistleblower Protection (Office), andshall appoint a Special Assistant, reporting directly to the Secretary, to serve as Executive Director of the Office. The VA shall provide funding and administrative support for the Office, consistent with applicable law and subject to the availability of appropriations.
 
 (b) To the extent permitted by law, the Office shall:
 

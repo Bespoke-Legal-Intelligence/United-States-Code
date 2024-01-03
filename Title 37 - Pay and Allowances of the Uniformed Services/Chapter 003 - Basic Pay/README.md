@@ -8,6 +8,7 @@
 | [204\.](%C2%A7%2000204%20-%20Entitlement.md) | Entitlement. |
 | [205\.](%C2%A7%2000205%20-%20Computation%20service%20creditable.md) | Computation: service creditable. |
 | [206\.](%C2%A7%2000206%20-%20Reserves%3B%20members%20of%20National%20Guard%20inactive-duty%20training.md) | Reserves; members of National Guard: inactive-duty training. |
+| [206a.](%C2%A7%2000206a%20-%20Pay%20of%20members%20of%20reserve%20components%20for%20inactive-duty%20training%20to%20obtain%20or%20maintain%20an%20aeronautical%20rating%20or%20designation.md) | Pay of members of reserve components for inactive-duty training to obtain or maintain an aeronautical rating or designation. |
 | [207\.](%C2%A7%2000207%20-%20Band%20leaders.md) | Band leaders. |
 | \[208. | Repealed.\] |
 | [209\.](%C2%A7%2000209%20-%20Members%20of%20precommissioning%20programs.md) | Members of precommissioning programs. |
@@ -20,6 +21,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title VI, §602(b), Dec. 22, 2023, 137 Stat. 289, added item 206a.
 
 <b>2004</b>—Pub. L. 108–375, div. A, title VI, §606(b), Oct. 28, 2004, 118 Stat. 1946, added item 212.
 
@@ -56,6 +59,7 @@
 - [&sect; 00204 - Entitlement](%C2%A7%2000204%20-%20Entitlement.md)
 - [&sect; 00205 - Computation service creditable](%C2%A7%2000205%20-%20Computation%20service%20creditable.md)
 - [&sect; 00206 - Reserves; members of National Guard inactive-duty training](%C2%A7%2000206%20-%20Reserves%3B%20members%20of%20National%20Guard%20inactive-duty%20training.md)
+- [&sect; 00206a - Pay of members of reserve components for inactive-duty training to obtain or maintain an aeronautical rating or designation](%C2%A7%2000206a%20-%20Pay%20of%20members%20of%20reserve%20components%20for%20inactive-duty%20training%20to%20obtain%20or%20maintain%20an%20aeronautical%20rating%20or%20designation.md)
 - [&sect; 00207 - Band leaders](%C2%A7%2000207%20-%20Band%20leaders.md)
 - [&sect; 00208 - Repealed. Pub. L. 91&#8211;482, &sect;1(b), Oct. 21, 1970, 84 Stat. 1082](%C2%A7%2000208%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93482%2C%20%C2%A71%28b%29%2C%20Oct.%2021%2C%201970%2C%2084%20Stat.%201082.md)
 - [&sect; 00209 - Members of precommissioning programs](%C2%A7%2000209%20-%20Members%20of%20precommissioning%20programs.md)

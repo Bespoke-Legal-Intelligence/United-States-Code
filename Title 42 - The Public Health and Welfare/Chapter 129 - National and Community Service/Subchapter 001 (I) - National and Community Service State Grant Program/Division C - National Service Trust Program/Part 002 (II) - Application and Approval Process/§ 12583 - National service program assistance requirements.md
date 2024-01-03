@@ -24,7 +24,7 @@ An application submitted under section 12582 of this title shall also include an
 
 #### (c) Consultation
 
-An application submitted under section 12582 of this title shall also include an assurance by the applicant that any national service program carried out by the applicant using assistance provided under section 12571 of this title and any national service program supported by a grant made by the applicant using such assistance will—
+An application submitted under section 12582 of this title shall also include an assurance by the applicant that any national service program carried out by the applicant using assistance provided under section 12571 of this title and anynational service program supported by a grant made by the applicant using such assistance will—
 
 &emsp;(1) provide in the design, recruitment, and operation of the program for broad-based input from—
 
@@ -88,7 +88,7 @@ A prior section 131 of Pub. L. 101–610 was renumbered section 199J and is clas
 
 #### Amendments
 
-<b>2009</b>—Subsec. (c)(1)(A). Pub. L. 111–13, §1309(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "the community served and potential participants in the program; and".
+<b>2009</b>—Subsec. (c)(1)(A). Pub. L. 111–13, §1309(1), added subpar. (A) and struck out former subpar. (A) whichread as follows: "the community served and potential participants in the program; and".
 
 Subsec. (c)(3). Pub. L. 111–13, §1309(2), added par. (3) and struck out former par. (3) which read as follows: "in the case of a program that is not funded through a State, consult with and coordinate activities with the State Commission for the State in which the program operates."
 

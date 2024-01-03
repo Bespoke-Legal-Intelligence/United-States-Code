@@ -36,7 +36,7 @@
 
 (B) Any charge under this subsection alleging an unfair labor practice violative of section 8 of the National Labor Relations Act (29 U.S.C. 158) shall be pursued in accordance with section 10 of the National Labor Relations Act (29 U.S.C. 160).
 
-(C) Any suit alleging a violation of any provision of this subsection, to the extent it does not allege a violation of the National Labor Relations Act \[29 U.S.C. 151 et seq.\], may be brought in any district court of the United States havingjurisdiction over the parties, without regard to the amount in controversy or the citizenship of the parties.
+(C) Any suit alleging a violation of any provision of this subsection, to the extent it does not allege a violation of the National Labor Relations Act \[29 U.S.C. 151 et seq.\], may be brought in any district court of the United States having jurisdiction over the parties, without regard to the amount in controversy or the citizenship of the parties.
 
 (8)
 

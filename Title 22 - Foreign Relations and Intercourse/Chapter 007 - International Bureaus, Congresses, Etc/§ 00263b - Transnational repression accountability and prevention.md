@@ -70,7 +70,7 @@ The Attorney General and the Secretary of State shall—
 
 #### (3) Form of report
 
-&emsp;Each report required under this subsection shall be submitted in unclassified form, but may include a classified annex, as appropriate.The unclassified portion of the report shall be posted on a publicly available website of the Department of State and of the Department of Justice.
+&emsp;Each report required under this subsection shall be submitted in unclassified form, but may include a classified annex, as appropriate. The unclassified portion of the report shall be posted on a publicly available website of the Department of State and of the Department of Justice.
 
 #### (4) Briefing
 

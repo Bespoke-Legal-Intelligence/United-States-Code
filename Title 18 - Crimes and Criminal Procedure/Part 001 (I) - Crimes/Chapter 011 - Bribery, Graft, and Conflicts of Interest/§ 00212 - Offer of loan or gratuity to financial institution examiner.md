@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as provided in subsection (b), whoever, being an officer, director,or employee of a financial institution, makes or grants any loan or gratuity, to any examiner or assistant examiner who examines or has authority to examine such bank, branch, agency, organization, corporation, association, or institution—
+In General.—Except as provided in subsection (b), whoever, being an officer, director, or employee of a financial institution, makes or grants any loan or gratuity, to any examiner or assistant examiner who examines or has authority to examine such bank, branch, agency, organization, corporation, association, or institution—
 
 &emsp;(1) shall be fined under this title, imprisoned not more than 1 year, or both; and
 

@@ -21,6 +21,48 @@
 
 <b>1999</b>—Pub. L. 106–65, div. A, title V, §584(a)(2), Oct. 5, 1999, 113 Stat. 636, added items 1798, 1799, and 1800 and struck out former item 1798 "Definitions".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Outreach Campaign Relating to Waiting Lists for Military Child Development Centers; Annual Briefing
+
+Pub. L. 118–31, div. A, title V, §585, Dec. 22, 2023, 137 Stat. 281, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop a campaign to conduct outreach, not less than once every six months, to inform individuals eligible for child care services under chapter 88 of title 10, United States Code, including child care employees—
+
+&emsp;"(1) how to—
+
+&emsp;&emsp;"(A) join a waiting list for child care services at a military child development center; and
+
+&emsp;&emsp;"(B) check the position of such an individual on such waiting list; and
+
+&emsp;"(2) of—
+
+&emsp;&emsp;"(A) what factors affect positions on such waiting list;
+
+&emsp;&emsp;"(B) the process to prioritize such individuals to receive child care services at a military child development center;
+
+&emsp;&emsp;"(C) the fee schedule for child care services at a military child development center; and
+
+&emsp;&emsp;"(D) options for child care services available to such individuals other than military child development centers, including pilot programs at the duty station of such member, if applicable.
+
+"(b)
+
+Annual Briefing.—Not later than 90 days after the date of the enactment of this Act \[Dec. 22, 2023\], and on an annual basis thereafter for five years, the Secretary of Defense, in coordination with the Secretaries of the military departments, shall submit to the Committees on Armed Services of the House of Representatives and the Senate a briefing that includes, for each military department—
+
+&emsp;"(1) a list of the five military installations with the longest waiting lists for child care services at military child development centers; and
+
+&emsp;"(2) the number of classrooms for child care services, disaggregated by military installation, closed during the period covered by the briefing due to—
+
+&emsp;&emsp;"(A) insufficient staffing; or
+
+&emsp;&emsp;"(B) issues relating to maintenance.
+
+"(c)
+
+Definitions.—In this section, the terms 'child care employee' and 'military child development center' have the meanings given such terms in section 1800 of title 10, United States Code."
+
 
 ---
 

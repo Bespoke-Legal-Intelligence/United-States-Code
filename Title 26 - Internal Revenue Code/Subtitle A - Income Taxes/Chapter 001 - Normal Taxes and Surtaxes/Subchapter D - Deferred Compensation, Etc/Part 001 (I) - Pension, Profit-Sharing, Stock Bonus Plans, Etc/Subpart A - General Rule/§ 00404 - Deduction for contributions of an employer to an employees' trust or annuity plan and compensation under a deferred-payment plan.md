@@ -30,7 +30,7 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 #### (C) Certain collectively-bargained plans
 
-&emsp;&emsp;In the case of a plan which the Secretary of Labor finds to be collectively bargained, established or maintained by an employer doing business in not less than 40 States andengaged in the trade or business of furnishing or selling services described in section 168(i)(10)(C), with respect to which the rates have been established or approved by a State or political subdivision thereof, by any agency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision thereof, and in the case of any employer which is a member of a controlled group with such employer, subparagraph (B) shall be applied by substituting for the words "plan amendment" the words "plan amendment or increase in benefits payable under title II of the Social Security Act". For the purposes of this subparagraph, the term "controlled group" has the meaning provided by section 1563(a), determined without regard to section 1563(a)(4) and (e)(3)(C).
+&emsp;&emsp;In the case of a plan which the Secretary of Labor finds to be collectively bargained, established or maintained by an employer doing business in not less than 40 States and engaged in the trade or business of furnishing or selling services described in section 168(i)(10)(C), with respect to which the rates have been established or approved by a State or political subdivision thereof, by anyagency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision thereof, and in the case of any employer which is a member of a controlled group with such employer, subparagraph (B) shall be applied by substituting for the words "plan amendment" the words "plan amendment or increase in benefits payable under title II of the Social Security Act". For the purposes of this subparagraph, the term "controlled group" has the meaning provided by section 1563(a), determined without regard to section 1563(a)(4) and (e)(3)(C).
 
 #### (D) Amount determined on basis of unfunded current liability
 
@@ -78,7 +78,7 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 #### (B) Profit-sharing plan of affiliated group
 
-&emsp;&emsp;In the case of a profit-sharing plan, or a stock bonus plan in which contributions are determined with reference to profits, of a group of corporations which is an affiliated group within the meaning of section 1504, if any member of such affiliated group is prevented from making a contribution which it would otherwise have made under the plan, by reason of having no current or accumulated earnings or profits or because such earnings or profits are less than the contributions which it would otherwise have made, then so much of the contribution which such member was so prevented from making may be made, for the benefit of the employees of such member, by the other members of the group, to the extent of current or accumulated earnings or profits, except that such contribution by each such other member shall be limited, where thegroup does not file a consolidated return, to that proportion of its total current and accumulated earnings or profits remaining after adjustment for its contribution deductible without regard to this subparagraph which the total prevented contribution bears to the total current and accumulated earnings or profits of all the members of the group remaining after adjustment for all contributions deductible without regard to this subparagraph. Contributions made under the preceding sentence shall be deductible under subparagraph (A) of this paragraph by the employer making such contribution, and, for the purpose of determining amounts which may be carried forward and deducted under the second sentence of subparagraph (A) of this paragraph in succeeding taxable years, shall be deemed to have been made by the employer on behalf of whose employees such contributions were made.
+&emsp;&emsp;In the case of a profit-sharing plan, or a stock bonus plan in which contributions are determined with reference to profits, of a group of corporations which is an affiliated group within the meaning of section 1504, if any member of such affiliated group is prevented from making a contribution which it would otherwise have made under the plan, by reason of having no current or accumulated earnings or profits or because such earnings or profits are less than the contributions which it would otherwise have made, then so much of the contribution which such member was so prevented from making may be made, for the benefit of the employees of such member, by the other members of the group, to the extent of current or accumulated earnings or profits, except that such contribution by each such other member shall be limited, where the group does not file a consolidated return, to that proportion of its total current and accumulated earnings or profits remaining after adjustment for its contribution deductible without regard to this subparagraph which the total prevented contribution bearsto the total current and accumulated earnings or profits of all the members of the group remaining after adjustment for all contributions deductible without regard to this subparagraph. Contributions made under the preceding sentence shall be deductible under subparagraph (A) of this paragraph by the employer making such contribution, and, for the purpose of determining amounts which may be carried forward and deducted under the second sentence of subparagraph (A) of this paragraph in succeeding taxable years, shall be deemed to have been made by the employer on behalf of whose employees such contributions were made.
 
 #### (4) Trusts created or organized outside the United States
 
@@ -122,7 +122,7 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 &emsp;&emsp;&emsp;In the case of employer contributions to 1 or more defined contribution plans—
 
-&emsp;&emsp;&emsp;&emsp;(I) if such contributions do not exceed 6 percent of the compensation otherwise paid or accrued during the taxable year to the beneficiaries under such plans, this paragraph shall not apply to such contributions or to employer contributions to the defined benefit plans to which this paragraph would otherwiseapply by reason of contributions to the defined contribution plans, and
+&emsp;&emsp;&emsp;&emsp;(I) if such contributions do not exceed 6 percent of the compensation otherwise paid or accrued during the taxable year to the beneficiaries under such plans, this paragraph shall not apply to such contributions or to employer contributions to the defined benefit plans to which this paragraph would otherwise apply by reason of contributions to the defined contribution plans, and
 
 &emsp;&emsp;&emsp;&emsp;(II) if such contributions exceed 6 percent of such compensation, this paragraph shall be applied by only taking into account such contributions to the extent of such excess.
 
@@ -320,7 +320,7 @@ In the case of a self-employed individual described in section 401(c)(1), contri
 
 #### (1) General rule
 
-&emsp;In the case of a C corporation, there shall be allowed as a deduction for a taxable year the amount of any applicable dividend paid in cash by such corporation with respect to applicable employer securities. Such deduction shall bein addition to the deductions allowed under subsection (a).
+&emsp;In the case of a C corporation, there shall be allowed as a deduction for a taxable year the amount of any applicable dividend paid in cash by such corporation with respect to applicable employer securities. Such deduction shall be in addition to the deductions allowed under subsection (a).
 
 #### (2) Applicable dividend
 
@@ -410,11 +410,11 @@ For purposes of applying the limitations of this section, the amount of annual c
 
 #### (A) Deduction
 
-&emsp;&emsp;Contributions described in paragraph (1) shall be deductible in the taxable year of theemployer with or within which the calendar year for which the contributions were made ends.
+&emsp;&emsp;Contributions described in paragraph (1) shall be deductible in the taxable year of the employer with or within which the calendar year for which the contributions were made ends.
 
 #### (B) Contributions after end of year
 
-&emsp;&emsp;For purposes of this subsection, contributions shall be treated as made for a taxable year if they are made on account of the taxable year and are made not later than the time prescribed by law for filing the return for the taxable year (including extensions thereof).
+&emsp;&emsp;For purposes of this subsection, contributions shall be treated as made for a taxableyear if they are made on account of the taxable year and are made not later than the time prescribed by law for filing the return for the taxable year (including extensions thereof).
 
 #### (n) Elective deferrals not taken into account for purposes of deduction limits
 
@@ -538,7 +538,7 @@ The date of the enactment of the Retirement Protection Act of 1994, referred to 
 
 Subsec. (a)(2). Pub. L. 110–245 substituted "(31), and (37)" for "and (31)".
 
-Subsec. (a)(7)(A). Pub. L. 110–458, §108(a)(2), in concluding provisions, substituted "the excess (if any) of the plan's funding target (as defined in section 430(d)(1)) over the value of the plan's assets (as determined under section 430(g)(3))" for "the plan's funding shortfall determined under section 430" in last sentence and struck out second sentence which read as follows: "For purposes of clause (ii), if paragraph (1)(D) applies to a defined benefit plan for any plan year, the amount necessary to satisfy the minimum funding standard provided by section 412 with respect to such plan forsuch plan year shall not be less than the unfunded current liability of such plan under section 412(l)."
+Subsec. (a)(7)(A). Pub. L. 110–458, §108(a)(2), in concluding provisions, substituted "the excess (if any) of the plan's funding target (as defined in section 430(d)(1)) over the value of the plan's assets (as determined under section 430(g)(3))" for "the plan's funding shortfall determined under section 430" in last sentence and struck out second sentence which read as follows: "For purposes of clause (ii), if paragraph (1)(D) applies to a defined benefit plan for any plan year, the amount necessary to satisfy the minimum funding standard provided by section 412 with respect to such plan for such plan year shall not be less than the unfunded current liability of such plan under section 412(l)."
 
 Subsec. (a)(7)(C)(iii). Pub. L. 110–458, §108(c), amended cl. (iii) generally. Prior to amendment, text read as follows: "In the case of employer contributions to 1 or more defined contribution plans, this paragraph shall only apply to the extent that such contributions exceed 6 percent of the compensation otherwise paid or accrued during the taxable year to the beneficiaries under such plans. For purposes of this clause, amounts carried over from preceding taxable years under subparagraph (B) shall be treated as employer contributions to 1 or more defined contributions to the extent attributable to employer contributions to such plans in such preceding taxable years."
 
@@ -618,7 +618,7 @@ Subsec. (a)(11). Pub. L. 105–206, §7001(a), added par. (11).
 
 <b>1997</b>—Subsec. (a)(3)(A)(i). Pub. L. 105–34, §1601(d)(2)(C)(i), substituted "not in excess of the greater of—" and subcls. (I) and (II) for "not in excess of 15 percent of the compensation otherwise paid or accrued during the taxable year to the beneficiaries under the stock bonus or profit-sharing plan."
 
-Subsec. (a)(3)(A)(ii). Pub. L. 105–34, §1601(d)(2)(C)(ii), substituted "the amount described in subclause (I) or (II) of clause (i), whichever is greater, with respect to such taxable year." for "15 percent of the compensation otherwise paid or accrued during such taxable year to the beneficiaries under the plan."
+Subsec. (a)(3)(A)(ii). Pub. L. 105–34, §1601(d)(2)(C)(ii), substituted "the amount described in subclause (I) or (II) of clause (i), whichever is greater, with respect to such taxable year." for "15 percent of the compensationotherwise paid or accrued during such taxable year to the beneficiaries under the plan."
 
 Subsec. (a)(9)(C). Pub. L. 105–34, §1530(c)(2), added subpar. (C) relating to qualified gratuitous transfers.
 
@@ -790,7 +790,7 @@ Subsec. (e)(4). Pub. L. 94–455, §1502(a)(2), inserted provisions following su
 
 <b>1974</b>—Subsec. (a)(1). Pub. L. 93–406, §1013(c)(1), expanded subpars. (A), (B), and (C) to accommodate the increased minimum funding standards required by section 412.
 
-Subsec. (a)(2). Pub. L. 93–406, §§1016(a)(3), 2001(g)(2)(E), 2004(c)(1), inserted references to the requirements of section 401(a)(11), (12), (13), (14), (15), (16), (17), (18), and (19), and, if applicable, the requirements of section 401(a)(17) and (18).
+Subsec. (a)(2). Pub. L. 93–406, §§1016(a)(3), 2001(g)(2)(E), 2004(c)(1), inserted references to the requirements of section 401(a)(11), (12), (13), (14), (15), (16), (17), (18), and\(19), and, if applicable, the requirements of section 401(a)(17) and (18).
 
 Subsec. (a)(3)(A). Pub. L. 93–406, §2004(b), inserted ", but the amount so deductible under this sentence in any one succeeding taxable year together with the amount so deductible under the first sentence of this subparagraph shall not exceed 25 percent of the compensation otherwise paid or accrued during such taxable year to the beneficiaries under the plan" after "If in any taxable year there is paid into the trust, or a similar trust then in effect, amounts less than the amounts deductible under the preceding sentence, the excess, or if no amount is paid, the amounts deductible, shall be carried forward and be deductible when paid in the succeeding taxable years in order of time, but the amount so deductible under this sentence in any such succeeding taxable year shall not exceed 15 percent of the compensation otherwise paid or accrued during such succeeding taxable year to the beneficiaries under the plan".
 
@@ -862,7 +862,7 @@ Opt out of existing elections.—If, on the date of the enactment of this Act \[
 
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
 
-Amendment by Pub. L. 110–245 applicable with respect to deaths and disabilities occurring on or after Jan. 1, 2007, see section 104(d)(1) of Pub. L. 110–245, set out as a note under section 401 of this title.
+Amendment by Pub. L. 110–245 applicable with respect to deaths and disabilities occurring on or afterJan. 1, 2007, see section 104(d)(1) of Pub. L. 110–245, set out as a note under section 401 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -950,11 +950,11 @@ Amendment by section 1431(b)(3) of Pub. L. 104–188 applicable to years beginni
 
 Pub. L. 104–188, title I, §1461(c), Aug. 20, 1996, 110 Stat. 1824, provided that: "The amendments made by this section \[amending this section and section 1414 of this title\] shall apply to years beginning after December 31, 1996."
 
-Pub. L. 104–188, title I, §1704(q)(2), Aug. 20, 1996, 110 Stat. 1887, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section713(d)(4)(A) of the Deficit Reduction Act of 1984 \[Pub. L. 98–369\]."
+Pub. L. 104–188, title I, §1704(q)(2), Aug. 20, 1996, 110 Stat. 1887, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 713(d)(4)(A) of the Deficit Reduction Act of 1984 \[Pub. L. 98–369\]."
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable, except as otherwise provided, to benefits accruing in plan years beginning after Dec. 31, 1993, see section 13212(d) of Pub. L. 103–66, set out as a note under section 401 of this title.
+Amendment by Pub. L. 103–66 applicable, except as otherwise provided, to benefits accruing in plan yearsbeginning after Dec. 31, 1993, see section 13212(d) of Pub. L. 103–66, set out as a note under section 401 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -1028,9 +1028,9 @@ Amendment by section 1171(b)(6) of Pub. L. 99–514 applicable to compensation p
 
 Pub. L. 99–514, title XI, §1173(c)(1), Oct. 22, 1986, 100 Stat. 2516, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to dividends paid in taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
-Amendment by sections 1848(c), 1851(b)(2)(A)–(C)(ii), and 1854(b)(3)–(5) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, towhich such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by sections 1848(c), 1851(b)(2)(A)–(C)(ii), and 1854(b)(3)–(5) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Amendment by section 1854(b)(2) of Pub. L. 99–514 not applicable to dividends paid before Jan. 1, 1986, if the taxpayer treated such dividends in a manner inconsistent with such amendment on a return filed with the Secretary before Oct. 22, 1986, see section 1854(b)(6) of Pub. L. 99–514, set out as a note under section 72 of this title.
+Amendment by section 1854(b)(2) of Pub. L. 99–514 not applicable to dividends paid before Jan. 1, 1986, if the taxpayer treated such dividends in a manner inconsistent with such amendment on a return filed with the Secretary before Oct. 22, 1986, see section 1854(b)(6) ofPub. L. 99–514, set out as a note under section 72 of this title.
 
 Pub. L. 99–514, title XVIII, §1875(c)(7)(B), Oct. 22, 1986, 100 Stat. 2895, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1984.
 
@@ -1122,11 +1122,11 @@ Amendment by section 1502(a)(2) of Pub. L. 94–455 effective for taxable years 
 
 Amendment by section 1901(a)(59) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Amendment by Pub. L. 94–267 applicable with respect to payments made to an employee on or after July 4,1974, see section 1(e) of Pub. L. 94–267, set out as a note under section 401 of this title.
+Amendment by Pub. L. 94–267 applicable with respect to payments made to an employee on or after July 4, 1974, see section 1(e) of Pub. L. 94–267, set out as a note under section 401 of this title.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by sections 1013(c) and 1016(a)(3) of Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by sections 1013(c) and 1016(a)(3) of Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Amendment by sections 1013(c) and 1016(a)(3) of Pub. L. 93–406 applicable, except as otherwise provided insection 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by sections 1013(c) and 1016(a)(3) of Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 Pub. L. 93–406, title II, §2001(i)(1), Sept. 2, 1974, 88 Stat. 957, provided that: "The amendments made by subsections (a) \[amending this section\] and (b) \[amending section 1379 of this title\] apply to taxable years beginning after December 31, 1973."
 

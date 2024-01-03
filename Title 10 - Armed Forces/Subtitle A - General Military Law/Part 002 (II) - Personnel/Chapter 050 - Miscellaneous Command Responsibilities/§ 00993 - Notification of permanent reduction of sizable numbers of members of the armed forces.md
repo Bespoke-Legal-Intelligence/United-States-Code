@@ -32,7 +32,7 @@ National security or emergency.—Subsections (a) and (b) do not apply if the Pr
 
 Definitions.—In this section:
 
-&emsp;(1) The term "indirect reduction" means subsequent planned reductions or relocationsin base operations support services and personnel able to occur due to the direct reductions.
+&emsp;(1) The term "indirect reduction" means subsequent planned reductions or relocations in base operations support services and personnel able to occur due to the direct reductions.
 
 &emsp;(2) The term "military installation" means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
 
@@ -55,6 +55,66 @@ Subsec. (b)(1) to (3). Pub. L. 112–239, §2851(b), added pars. (1) and (2) and
 Subsec. (d). Pub. L. 112–239, §2851(c), added subsec. (d).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Special Operations Force Structure
+
+Pub. L. 118–31, div. A, title X, §1075, Dec. 22, 2023, 137 Stat. 410, provided that:
+
+"(a)
+
+Report.—Not later than 90 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing an assessment of the optimal force structure for special operations forces. Such report shall include—
+
+&emsp;"(1) a description of the role of special operations forces in implementing the most recent national defense strategy under section 113(g) of title 10, United States Code;
+
+&emsp;"(2) a detailed accounting of the demand for special operations forces by the geographic combatant commands;
+
+&emsp;"(3) an assessment of current and projected capabilities and capacities of the general purpose forces of the United States Armed Forces, including forces that enable special operations, that could affect force structure capability and capacity requirements of special operations forces;
+
+&emsp;"(4) an assessment of the size, composition, and organizational structure of the special operations command headquarters of each of the Armed Forces and subordinate headquarters elements;
+
+&emsp;"(5) an assessment of the adequacy of special operations force structure for meeting the goals of the National Military Strategy under section 153(b) of title 10, United States Code;
+
+&emsp;"(6) a description of the role of special operations forces in supporting the Joint Concept for Competing; and
+
+&emsp;"(7) any other matters the Secretary of Defense determines relevant.
+
+"(b)
+
+Notification Required.—Except as provided in subsection (d), not later than 15 days before making any reduction in the number of special operations forces by more than 1,000 personnel and prior to implementing or announcing such reduction, the Secretary of Defense shall submit to the congressional defense committees written notification of the decision to make such reduction.
+
+"(c)
+
+Contents of Notification.—A notification required under subsection (b) shall include—
+
+&emsp;"(1) details of the planned changes to force structure and personnel requirements and a justification for the planned changes, including—
+
+&emsp;&emsp;"(A) which units or occupational skills are planned to be reduced or reallocated; and
+
+&emsp;&emsp;"(B) to which units or capabilities the force structure is planned to be transferred or reallocated;
+
+&emsp;"(2) an accounting of the personnel planned to be transferred under the force structure change, including which units such personnel are planned to be transferred to and from;
+
+&emsp;"(3) an analysis of the expected implications of the planned change on the ability of the Department of Defense to carry out operational and campaign plans of combatant commanders, support the Joint Concept for Competing, and meet the goals of the most recent national defense strategy under section 113(g) of title 10, United States Code; and
+
+&emsp;"(4) any other matters the Secretary of Defense determines relevant.
+
+"(d)
+
+Exception.—The notification requirement under subsection (b) shall not apply with respect to a reduction in the number of special operations forces if the Secretary of Defense submits to the congressional defense committees certification that such reduction needs to be implemented expeditiously for reasons of military urgency.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'special operations forces' means the forces described in section 167(j) of title 10, United States Code.
+
+&emsp;"(2) The term 'force structure', when used with respect to an organization, means—
+
+&emsp;&emsp;"(A) the mission of the organization;
+
+&emsp;&emsp;"(B) the personnel required to operate the organization; and
+
+&emsp;&emsp;"(C) the equipment required to execute the mission of the organization."
 
 #### Notification of Necessary Assessments or Studies
 

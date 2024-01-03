@@ -32,7 +32,7 @@ Modification of an Imposed Term of Imprisonment.—The court may not modify a te
 
 &emsp;&emsp;(B) the court may modify an imposed term of imprisonment to the extent otherwise expressly permitted by statute or by Rule 35 of the Federal Rules of Criminal Procedure; and
 
-&emsp;(2) in the case of a defendant who has been sentenced to a term of imprisonment based on a sentencing range that has subsequently been lowered by the Sentencing Commission pursuant to 28 U.S.C. 994(o), upon motion of the defendant or the Director of the Bureau of Prisons, or on its own motion, the court may reduce the term of imprisonment, after considering the factors set forth in section 3553(a) to the extent that they are applicable, if such a reduction is consistent with applicable policystatements issued by the Sentencing Commission.
+&emsp;(2) in the case of a defendant who has been sentenced to a term of imprisonment based on a sentencing range that has subsequently been lowered by the Sentencing Commission pursuant to 28 U.S.C. 994(o), upon motion of the defendant or the Director of the Bureau of Prisons, or on its own motion, the court may reduce the term of imprisonment, after considering the factors set forth in section 3553(a) to the extent that they are applicable, if such a reduction is consistent with applicable policy statements issued by the Sentencing Commission.
 
 (d)
 
@@ -90,13 +90,13 @@ Annual report.—Not later than 1 year after December 21, 2018, and once every y
 
 &emsp;&emsp;(G) for each request, the time elapsed between the date the request was received by the warden and the final decision, categorized by the criteria relied on as the grounds for a reduction in sentence;
 
-&emsp;&emsp;(H) for each request, the number of prisoners who died while their request was pending and, for each, the amount of time that had elapsed between the date the request was received by the Bureau of Prisons, categorized by the criteria relied on as the grounds for a reduction in sentence;
+&emsp;&emsp;(H) for each request, the number of prisoners who died while their request was pending and, for each, the amount of time thathad elapsed between the date the request was received by the Bureau of Prisons, categorized by the criteria relied on as the grounds for a reduction in sentence;
 
 &emsp;&emsp;(I) the number of Bureau of Prisons notifications to attorneys, partners, and family members of their right to visit a terminally ill defendant as required under paragraph (2)(A)(ii) and, for each, whether a visit occurred and how much time elapsed between the notification and the visit;
 
 &emsp;&emsp;(J) the number of visits to terminally ill prisoners that were denied by the Bureau of Prisons due to security or other concerns, and the reasons given for each denial; and
 
-&emsp;&emsp;(K) the number of motions filed by defendants with the court after all administrative rights to appeal a denial of a sentence reduction had been exhausted, the outcome of each motion, and the time that had elapsedbetween the date the request was first received by the Bureau of Prisons and the date the defendant filed the motion with the court.
+&emsp;&emsp;(K) the number of motions filed by defendants with the court after all administrative rights to appeal a denial of a sentence reduction had been exhausted, the outcome of each motion, and the time that had elapsed between the date the request was first received by the Bureau of Prisons and the date the defendant filed the motion with the court.
 
 (e)
 

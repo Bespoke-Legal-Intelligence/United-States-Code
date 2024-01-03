@@ -266,6 +266,10 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 118–4, §1, June 3, 2023, 137 Stat. 7, provided that: "This Act \[enacting provisions set out as a note under section 44701 of this title\] may be cited as the 'NOTAM Improvement Act of 2023'."
+
 #### Short Title of 2022 Amendment
 
 Pub. L. 117–328, div. Q, §102(a), Dec. 29, 2022, 136 Stat. 5250, provided that: "This section \[enacting and amending provisions set out as notes under this section\] may be cited as the 'Samya Rose Stumo National Air Grant Fellowship Program Act of 2022'."
@@ -274,11 +278,11 @@ Pub. L. 117–254, §1, Dec. 20, 2022, 136 Stat. 2361, provided that: "This Act 
 
 Pub. L. 117–203, §1, Oct. 17, 2022, 136 Stat. 2227, provided that: "This Act \[enacting provisions set out as a note below\] may be cited as the 'Advanced Air Mobility Coordination and Leadership Act'\[.\]"
 
-Pub. L. 117–186, §1, Oct. 10, 2022, 136 Stat. 2199, provided that: "This Act \[amending section 47110 of this title\] may be cited as the 'Expedited Delivery of Airport Infrastructure Act of 2021'."
+Pub. L. 117–186, §1, Oct. 10, 2022, 136 Stat. 2199, provided that: "This Act \[amending section 47110 of thistitle\] may be cited as the 'Expedited Delivery of Airport Infrastructure Act of 2021'."
 
 #### Short Title of 2020 Amendment
 
-Pub. L. 116–260, div. V, title I, §101(a), Dec. 27, 2020, 134 Stat. 2309, provided that: "This title \[see Tables forclassification\] may be cited as the 'Aircraft Certification, Safety, and Accountability Act'."
+Pub. L. 116–260, div. V, title I, §101(a), Dec. 27, 2020, 134 Stat. 2309, provided that: "This title \[see Tables for classification\] may be cited as the 'Aircraft Certification, Safety, and Accountability Act'."
 
 Pub. L. 116–190, §1, Oct. 30, 2020, 134 Stat. 974, provided that: "This Act \[amending section 47107 of this title\] may be cited as the 'Friendly Airports for Mothers Improvement Act'."
 
@@ -348,7 +352,7 @@ Pub. L. 108–297, §1, Aug. 9, 2004, 118 Stat. 1095, provided that: "This Act \
 
 Pub. L. 108–176, §1(a), Dec. 12, 2003, 117 Stat. 2490, provided that: "This Act \[see Tables for classification\] may be cited as the 'Vision 100—Century of Aviation Reauthorization Act'."
 
-Pub. L. 108–176, title III, §301, Dec. 12, 2003, 117 Stat. 2533, provided that: "This title \[enacting subchapter III of chapter 471 of this title, amending sections 40104, 40128, 47106, 47503, and 47504 of this title, and enacting provisions set out as notes under this section and sections 40128, 47171, 47503, and 47508 of this title\] may be cited as 'Aviation Streamlining Approval Process Act of 2003'."
+Pub. L. 108–176, title III, §301, Dec. 12, 2003, 117 Stat. 2533, provided that: "This title \[enacting subchapter IIIof chapter 471 of this title, amending sections 40104, 40128, 47106, 47503, and 47504 of this title, and enacting provisions set out as notes under this section and sections 40128, 47171, 47503, and 47508 of this title\] may be cited as 'Aviation Streamlining Approval Process Act of 2003'."
 
 #### Short Title of 2002 Amendment
 
@@ -426,7 +430,7 @@ In general.—Not later than 1 year after receiving a grant under this subsectio
 
 &emsp;&emsp;"(B)
 
-Plan contents.—The Secretary shall establish content requirements for comprehensive plans submitted under this subsection, which shall include as many of the following as possible:
+Plan contents.—The Secretary shall establish content requirements for comprehensive planssubmitted under this subsection, which shall include as many of the following as possible:
 
 &emsp;&emsp;&emsp;"(i) The identification of planned or potential public use and private-owned vertiport locations.
 
@@ -674,7 +678,7 @@ Report.—Not later than 30 days after the plan is developed under subsection (a
 
 "(e)
 
-Review of Plan.—Not later than 1 year after the date on which a report is submitted under subsection\(d), and again not later than 5 years thereafter, the Secretary shall review the plan included in such report and, after consultation with aviation industry and labor stakeholders, make changes by rule as the Secretary considers appropriate.
+Review of Plan.—Not later than 1 year after the date on which a report is submitted under subsection (d), and again not later than 5 years thereafter, the Secretary shall review the plan included in such report and, after consultation with aviation industry and labor stakeholders, make changes by rule as the Secretary considers appropriate.
 
 "(f)
 
@@ -814,7 +818,7 @@ Review and Examination.—Not later than 1 year after the working group is estab
 
 &emsp;"(3) current Federal programs and policies that could be leveraged to advance the maturation of the AAM industry;
 
-&emsp;"(4) infrastructure, including aviation, cybersecurity, telecommunication, multimodal, and utility infrastructure, necessary to accommodate and support expanded operations of AAM after initial implementation;
+&emsp;"(4) infrastructure, including aviation, cybersecurity, telecommunication, multimodal, andutility infrastructure, necessary to accommodate and support expanded operations of AAM after initial implementation;
 
 &emsp;"(5) steps needed to ensure a robust and secure domestic supply chain;
 
@@ -944,7 +948,7 @@ Fellowships.—
 
 &emsp;"(1)
 
-In general.—The Administrator shall support a program of fellowships for qualified individuals at the graduate and post-graduate level. The fellowships shall be in fields related to aerospace and awarded pursuant to guidelines established by the Administrator. The Administrator shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this paragraph.
+In general.—The Administrator shall support a program of fellowships for qualified individuals at the graduate and post-graduate level. The fellowships shall be in fields related to aerospace and awarded pursuant to guidelines established by the Administrator. The Administrator shall strive to ensureequal access for minority and economically disadvantaged students to the program carried out under this paragraph.
 
 &emsp;"(2)
 
@@ -1174,7 +1178,7 @@ Reporting of Incidents of Smoke or Fumes on Board Aircraft.—Not later than 180
 
 "(c)
 
-Research to Develop Techniques to Monitor Bleed Air Quality.—Not later than 180 days after the date of enactment of this Act, the Administrator shall commission a study by the Airliner Cabin Environment Research Center of Excellence—
+Research to Develop Techniques to Monitor Bleed Air Quality.—Not later than 180 days after thedate of enactment of this Act, the Administrator shall commission a study by the Airliner Cabin Environment Research Center of Excellence—
 
 &emsp;"(1) to identify and measure the constituents and levels of constituents resulting from bleed air in the cabins of a representative set of commercial aircraft in operation of the United States;
 
@@ -1520,7 +1524,7 @@ Pub. L. 115–254, div. B, title VI, §632, Oct. 5, 2018, 132 Stat. 3408, provid
 
 "(a)
 
-In General.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator of the Federal Aviation Administration shall establish a collegiate training initiative program relating to unmanned aircraft systems by making new agreements or continuing existing agreements with institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) under which the institutions prepare students for careers involving unmanned aircraft systems. The Administrator may establish standards for the entry ofsuch institutions into the program and for their continued participation in the program.
+In General.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator of the Federal Aviation Administration shall establish a collegiate training initiative program relating to unmanned aircraft systems by making new agreements or continuing existing agreements with institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) under which the institutions prepare students for careers involving unmanned aircraft systems. The Administrator may establish standards for the entry of such institutions into the program and for their continued participation in the program.
 
 "(b)
 
@@ -1818,7 +1822,7 @@ RNP operations for non-oep airports.—A list of required navigation performance
 
 &emsp;&emsp;"(B)
 
-Coordination and implementation activities for non-oep airports.—A description of the activities and operational changes and approvals required to coordinate and to utilize the procedures required by subparagraph (A) at each of the airports described in such subparagraph.
+Coordination and implementation activities for non-oep airports.—A description of theactivities and operational changes and approvals required to coordinate and to utilize the procedures required by subparagraph (A) at each of the airports described in such subparagraph.
 
 &emsp;&emsp;"(C)
 
@@ -1922,7 +1926,7 @@ Assessment of work being performed under nextgen implementation plan.—The Admi
 
 &emsp;"(2)
 
-Aircraft separation standards.—If the Administrator determines that the standards referred to in paragraph (1)(B) can be reduced safely, the Administrator shall include in the NextGen Implementation Plan a timetable for implementation of such reduced standards.
+Aircraft separation standards.—If the Administrator determines that the standards referred toin paragraph (1)(B) can be reduced safely, the Administrator shall include in the NextGen Implementation Plan a timetable for implementation of such reduced standards.
 
 "(f)
 
@@ -2170,7 +2174,7 @@ Pub. L. 112–95, title II, §225, Feb. 14, 2012, 126 Stat. 55, provided that:
 
 "(a)
 
-Initial Report.—Not later than 180 days after the date of the enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall submit to Congress a report on the strategy of the Administrator for implementing, on an accelerated basis, the NextGen operational capabilities produced by the Greener Skies project, as recommended in the final report of the RTCA NextGen Mid-Term Implementation Task Force that was issued on September 9, 2009.
+Initial Report.—Not later than 180 days after the date of the enactment of this Act \[Feb. 14, 2012\], theAdministrator of the Federal Aviation Administration shall submit to Congress a report on the strategy of the Administrator for implementing, on an accelerated basis, the NextGen operational capabilities produced by the Greener Skies project, as recommended in the final report of the RTCA NextGen Mid-Term Implementation Task Force that was issued on September 9, 2009.
 
 "(b)
 
@@ -2178,7 +2182,7 @@ Subsequent Reports.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the Administrator submits to Congress the report required by subsection (a) and annually thereafter until the pilot program terminates, the Administrator shall submit to the Committee on Commerce,Science, and Transportation of the Senate and to the Committee on Transportation and Infrastructure of the House of Representatives a report on the progress of the Administrator in carrying out the strategy described in the report submitted under subsection (a).
+In general.—Not later than 180 days after the Administrator submits to Congress the report required by subsection (a) and annually thereafter until the pilot program terminates, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Transportation and Infrastructure of the House of Representatives a report on the progress of the Administrator in carrying out the strategy described in the report submitted under subsection (a).
 
 &emsp;"(2)
 
@@ -2276,7 +2280,7 @@ Pub. L. 108–176, §4, Dec. 12, 2003, 117 Stat. 2493, provided that: "Congress 
 
 &emsp;"(3) The total impact of civil aviation on the United States economy exceeds $900,000,000,000 annually and accounts for 9 percent of the gross national product and 11,000,000 jobs in the national workforce. Civil aviation products and services generate a significant surplus for United States trade accounts, and amount to significant numbers of the Nation's highly skilled, technologically qualified work force.
 
-&emsp;"(4) Aerospace technologies, products, and services underpin the advanced capabilities of our men andwomen in uniform and those charged with homeland security.
+&emsp;"(4) Aerospace technologies, products, and services underpin the advanced capabilities of our men and women in uniform and those charged with homeland security.
 
 &emsp;"(5) Future growth in civil aviation increasingly will be constrained by concerns related to aviation system safety and security, aviation system capabilities, aircraft noise, emissions, and fuel consumption.
 
@@ -2436,7 +2440,7 @@ Integrated Plan.—The integrated plan shall be designed to ensure that the Next
 
 &emsp;&emsp;"(B) details on a year-by-year basis of specific accomplishments, activities, research requirements, rulemakings, policy decisions, and other milestones of progress for each Federal agency or entity conducting activities relating to the Next Generation Air Transportation System;
 
-&emsp;&emsp;"(C) for each element of the Next Generation Air Transportation System, an outline, on a year-by-year basis, of what is to be accomplished in that year toward meeting the Next Generation Air Transportation System's end-state architecture, asexpressed in the concept of operations and enterprise architecture documents, as well as identifying each Federal agency or other entity that will be responsible for each component of any research, development, or implementation program;
+&emsp;&emsp;"(C) for each element of the Next Generation Air Transportation System, an outline, on a year-by-year basis, of what is to be accomplished in that year toward meeting the Next Generation Air Transportation System's end-state architecture, as expressed in the concept of operations and enterprise architecture documents, as well as identifying each Federal agency or other entity that will be responsible for each component of any research, development, or implementation program;
 
 &emsp;&emsp;"(D) an estimate of all necessary expenditures on a year-by-year basis, including a statement of each Federal agency or entity's responsibility for costs and available resources, for each stage of development from the basic research stage through the demonstration and implementation phase;
 
@@ -2628,7 +2632,7 @@ Limitations.—The Secretary may impose reasonable limitations on any such waive
 
 #### Air Carriers Required To Honor Tickets for Suspended Service
 
-Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pub. L. 108–7, div. I, title III, §372, Feb. 20, 2003, 117 Stat. 427; Pub. L. 108–176, title IV, §428, Dec. 12, 2003, 117 Stat. 2556; Pub. L. 108–458, title VIII, §8404, Dec. 17, 2004, 118 Stat. 3872; Pub. L. 109–115, div. A, title I, §178, Nov. 30, 2005, 119 Stat. 2427, required each air carrier providing scheduled air transportation on a route to provide, to the extent practicable, air transportation to passengers ticketed for air transportation on that route by any other air carrier that suspended, interrupted, or discontinued air passenger service on the route by reason of insolvency or bankruptcy of the other air carrier occurring on or before Nov. 30, 2006.
+Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pub. L. 108–7, div. I, title III, §372, Feb. 20, 2003, 117 Stat. 427; Pub. L. 108–176, title IV, §428, Dec. 12, 2003, 117 Stat. 2556; Pub. L. 108–458, title VIII, §8404,Dec. 17, 2004, 118 Stat. 3872; Pub. L. 109–115, div. A, title I, §178, Nov. 30, 2005, 119 Stat. 2427, required each air carrier providing scheduled air transportation on a route to provide, to the extent practicable, air transportation to passengers ticketed for air transportation on that route by any other air carrier that suspended, interrupted, or discontinued air passenger service on the route by reason of insolvency or bankruptcy of the other air carrier occurring on or before Nov. 30, 2006.
 
 #### Relationship of Eligible Crime Victim Compensation Programs to September 11th Victim Compensation Fund
 
@@ -2862,7 +2866,7 @@ Collateral source.—The term 'collateral source' means all collateral sources, 
 
 &emsp;"(7)
 
-Contractor and subcontractor.—The term 'contractor and subcontractor' means any contractoror subcontractor (at any tier of a subcontracting relationship), including any general contractor, construction manager, prime contractor, consultant, or any parent, subsidiary, associated or allied company, affiliated company, corporation, firm, organization, or joint venture thereof that participated in debris removal at any 9/11 crash site. Such term shall not include any entity, including the Port Authority of New York and New Jersey, with a property interest in the World Trade Center, on September 11, 2001, whether fee simple, leasehold or easement, direct or indirect.
+Contractor and subcontractor.—The term 'contractor and subcontractor' means any contractor or subcontractor (at any tier of a subcontracting relationship), including any general contractor, construction manager, prime contractor, consultant, or any parent, subsidiary, associated or allied company, affiliated company, corporation, firm, organization, or joint venture thereof that participated in debris removal at any 9/11 crash site. Such term shall not include any entity, including the Port Authority of New York and New Jersey, with a property interest in the World Trade Center, on September 11, 2001, whether fee simple, leasehold or easement, direct or indirect.
 
 &emsp;"(8)
 
@@ -2968,7 +2972,7 @@ Contents.—The form developed under subparagraph (A) shall request—
 
 &emsp;&emsp;&emsp;"(i) information from the claimant concerning the physical harm that the claimant suffered, or in the case of a claim filed on behalf of a decedent information confirming the decedent's death, as a result of the terrorist-related aircraft crashes of September 11, 2001, or debris removal during the immediate aftermath;
 
-&emsp;&emsp;&emsp;"(ii) information from the claimant concerning any possible economic and noneconomic losses that the claimant suffered as a result of such crashes or debris removal during the immediate aftermath; and
+&emsp;&emsp;&emsp;"(ii) information from the claimant concerning any possible economic and noneconomic lossesthat the claimant suffered as a result of such crashes or debris removal during the immediate aftermath; and
 
 &emsp;&emsp;&emsp;"(iii) information regarding collateral sources of compensation the claimant has received or is entitled to receive as a result of such crashes or debris removal during the immediate aftermath.
 
@@ -3120,7 +3124,7 @@ Individuals.—A claimant is an individual described in this paragraph if the cl
 
 &emsp;&emsp;"(A) an individual who—
 
-&emsp;&emsp;&emsp;"(i) was present at the World Trade Center, (New York, New York), the Pentagon (Arlington,Virginia), the site of the aircraft crash at Shanksville, Pennsylvania, or any other 9/11 crash site at the time, or in the immediate aftermath, of the terrorist-related aircraft crashes of September 11, 2001; and
+&emsp;&emsp;&emsp;"(i) was present at the World Trade Center, (New York, New York), the Pentagon (Arlington, Virginia), the site of the aircraft crash at Shanksville, Pennsylvania, or any other 9/11 crash site at the time, or in the immediate aftermath, of the terrorist-related aircraft crashes of September 11, 2001; and
 
 &emsp;&emsp;&emsp;"(ii) suffered physical harm or death as a result of such an air crash or debris removal;
 
@@ -3196,7 +3200,7 @@ In General.—Subject to the limitations under subsection (d), not later than 20
 
 "(b)
 
-Payment Authority.—For the purpose of providing compensation for claims in Group A as described in section 405(a)(3)(C)(ii), this title constitutes budget authority in advance of appropriations Acts in the amounts provided under subsection (d)(1) and represents the obligation of the Federal Government to provide for the payment of amounts for compensation under this title subject to the limitations under subsection (d).
+Payment Authority.—For the purpose of providing compensation for claims in Group A as described in section 405(a)(3)(C)(ii), this title constitutes budgetauthority in advance of appropriations Acts in the amounts provided under subsection (d)(1) and represents the obligation of the Federal Government to provide for the payment of amounts for compensation under this title subject to the limitations under subsection (d).
 
 "(c)
 
@@ -3394,7 +3398,7 @@ Priority of claims payments.—Payments to plaintiffs who obtain a settlement or
 
 &emsp;&emsp;"(B) If there are no funds available as described in subparagraph (A) or (B) of paragraph (4), the funds described in subparagraph (C) of such paragraph.
 
-&emsp;&emsp;"(C) If there are no funds available as described in subparagraph (A), (B), or (C) of paragraph (4), the funds described in subparagraph (D) of such paragraph.
+&emsp;&emsp;"(C) If there are no funds available as described in subparagraph (A), (B), or (C) of paragraph (4), thefunds described in subparagraph (D) of such paragraph.
 
 &emsp;&emsp;"(D) If there are no funds available as described in subparagraph (A), (B), (C), or (D) of paragraph (4), the funds described in subparagraph (E) of such paragraph.
 
@@ -3520,7 +3524,7 @@ Use of funds.—For fiscal year 2017, and each fiscal year thereafter, amounts i
 
 #### "SEC. 601. SEPARABILITY.
 
-"If any provision of this Act (including any amendment made by this Act \[amending sections 44302 to44306 of this title\]) or the application thereof to any person or circumstance is held invalid, the remainder of this Act (including any amendment made by this Act) and the application thereof to other persons or circumstances shall not be affected thereby."
+"If any provision of this Act (including any amendment made by this Act \[amending sections 44302 to 44306 of this title\]) or the application thereof to any person or circumstance is held invalid, the remainder of this Act (including any amendment made by this Act) and the application thereof to other persons or circumstances shall not be affected thereby."
 
 \[Pub. L. 107–134, title I, §114(b), Jan. 23, 2002, 115 Stat. 2436, provided that: "The amendment made by this section \[amending Pub. L. 107–42, set out above\] shall take effect as if included in section 301 of the Air Transportation Safety and System Stabilization Act (Public Law 107–42)."\]
 
@@ -3734,7 +3738,7 @@ Hearings.—The Commission shall take such testimony and solicit and receive suc
 
 &emsp;&emsp;"(B)
 
-Consultation.—The Commission shall consult on a regular and frequent basis with the Secretary, the Secretary of the Treasury, the Committee on Commerce, Science, and Transportation and the Committee on Finance of the Senate, and the Committee on Transportation and Infrastructure and the Committee on Ways and Means of the House of Representatives.
+Consultation.—The Commission shall consult on a regular and frequent basis with the Secretary, the Secretary of the Treasury, the Committee on Commerce, Science, and Transportation and the Committee on Finance of the Senate, andthe Committee on Transportation and Infrastructure and the Committee on Ways and Means of the House of Representatives.
 
 &emsp;&emsp;"(C)
 
@@ -3754,7 +3758,7 @@ Report to secretary.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—The aviation funding task force established pursuant to paragraph (3) shall submit a report setting forth a comprehensive analysis of the Administration's budgetary requirements through fiscal year 2002, based upon the independent assessment under subsection (a), that analyzes alternative financing and funding means for meeting the needs of the aviation system through the year 2002. The task force shall submit a preliminary report of that analysis tothe Secretary not later than 6 months after the independent assessment is completed under subsection (a). The Secretary shall provide comments on the preliminary report to the task force within 30 days after receiving the report. The task force shall issue a final report of such comprehensive analysis within 30 days after receiving the Secretary's comments on its preliminary report.
+In general.—The aviation funding task force established pursuant to paragraph (3) shall submit a report setting forth a comprehensive analysis of the Administration's budgetary requirements through fiscal year 2002, based upon the independent assessment under subsection (a), that analyzes alternative financing and funding means for meeting the needs of the aviation system through the year 2002. The task force shall submit a preliminary report of that analysis to the Secretary not later than 6 months after the independent assessment is completed under subsection (a). The Secretary shall provide comments on the preliminary report to the task force within 30 days after receiving the report. The task force shall issue a final report of such comprehensive analysis within 30 days after receiving the Secretary's comments on its preliminary report.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -4076,7 +4080,7 @@ Pub. L. 103–305, title V, §507, Aug. 23, 1994, 108 Stat. 1595, provided that:
 
 "(a)
 
-Availability of Information.—In the interest of protecting the health of air travelers, the Secretary shall publish a list of the countries (as determined by the Secretary) that require disinsection of aircraft landing in such countries while passengers and crew are on board such aircraft.
+Availability of Information.—In the interest of protecting the health of air travelers, the Secretary shall publish a list of the countries (as determined by the Secretary) that require disinsection of aircraftlanding in such countries while passengers and crew are on board such aircraft.
 
 "(b)
 
@@ -4098,7 +4102,7 @@ Pub. L. 103–298, Aug. 17, 1994, 108 Stat. 1552, as amended by Pub. L. 105–10
 
 "(a)
 
-In General.—Except as provided in subsection (b), no civil action for damages for death or injury topersons or damage to property arising out of an accident involving a general aviation aircraft may be brought against the manufacturer of the aircraft or the manufacturer of any new component, system, subassembly, or other part of the aircraft, in its capacity as a manufacturer if the accident occurred—
+In General.—Except as provided in subsection (b), no civil action for damages for death or injury to persons or damage to property arising out of an accident involving a general aviation aircraft may be brought against the manufacturer of the aircraft or the manufacturer of any new component, system, subassembly, or other part of the aircraft, in its capacity as a manufacturer if the accident occurred—
 
 &emsp;"(1) after the applicable limitation period beginning on—
 

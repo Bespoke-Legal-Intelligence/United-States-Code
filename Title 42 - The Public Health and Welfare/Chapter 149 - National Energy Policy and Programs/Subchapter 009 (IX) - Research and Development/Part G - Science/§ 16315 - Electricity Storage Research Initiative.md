@@ -42,7 +42,7 @@
 
 #### (4) Additional activities
 
-&emsp;The Secretary may organize additional activities under this subsection through EnergyFrontier Research Centers, Energy Innovation Hubs, or other organizational structures.
+&emsp;The Secretary may organize additional activities under this subsection through Energy Frontier Research Centers, Energy Innovation Hubs, or other organizational structures.
 
 #### (b) Multivalent systems
 

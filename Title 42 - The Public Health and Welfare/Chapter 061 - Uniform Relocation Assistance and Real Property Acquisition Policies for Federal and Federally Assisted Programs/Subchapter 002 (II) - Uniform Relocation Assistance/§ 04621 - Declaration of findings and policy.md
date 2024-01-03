@@ -24,7 +24,7 @@ It is the intent of Congress that—
 
 &emsp;(1) Federal agencies shall carry out this subchapter in a manner which minimizes waste, fraud, and mismanagement and reduces unnecessary administrative costs borne by States and State agencies in providing relocation assistance;
 
-&emsp;(2) uniform procedures for the administration of relocation assistance shall, to the maximum extent feasible, assure that the uniquecircumstances of any displaced person are taken into account and that persons in essentially similar circumstances are accorded equal treatment under this chapter;
+&emsp;(2) uniform procedures for the administration of relocation assistance shall, to the maximum extent feasible, assure that the unique circumstances of any displaced person are taken into account and that persons in essentially similar circumstances are accorded equal treatment under this chapter;
 
 &emsp;(3) the improvement of housing conditions of economically disadvantaged persons under this subchapter shall be undertaken, to the maximum extent feasible, in coordination with existing Federal, State, and local governmental programs for accomplishing such goals; and
 
@@ -46,7 +46,7 @@ The Civil Rights Act of 1964, referred to in subsec. (c)(4), is Pub. L. 88–352
 
 #### Amendments
 
-<b>1987</b>—Pub. L. 100–17 substituted "Declaration of findings and policy" for "Declaration of policy" in section catchline and amended text generally. Prior to amendment, text read as follows: "The purpose of this subchapter is to establish a uniform policy for the fair and equitable treatment of persons displaced as a result of Federal and federally assisted programs in order that such persons shall not suffer disproportionate injuries as a result of programs designed for the benefit of the public as a whole."
+<b>1987</b>—Pub. L. 100–17 substituted "Declaration of findings and policy" for "Declaration of policy" in sectioncatchline and amended text generally. Prior to amendment, text read as follows: "The purpose of this subchapter is to establish a uniform policy for the fair and equitable treatment of persons displaced as a result of Federal and federally assisted programs in order that such persons shall not suffer disproportionate injuries as a result of programs designed for the benefit of the public as a whole."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

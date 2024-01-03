@@ -20,7 +20,7 @@ Amendment by Pub. L. 115–435 effective 180 days after Jan. 14, 2019, see secti
 
 #### Transitional and Savings Provisions
 
-For transitional and savings provisions related to the amendment of this section and other provisions of law by title III of Pub. L. 115–435, see section 302(d) of Pub. L. 115–435, set out as a note under section 3561 of Title 44, Public Printing and Documents.
+For transitional and savings provisions related to the amendment of this section and other provisions of lawby title III of Pub. L. 115–435, see section 302(d) of Pub. L. 115–435, set out as a note under section 3561 of Title 44, Public Printing and Documents.
 
 #### <b>Executive Documents</b>
 

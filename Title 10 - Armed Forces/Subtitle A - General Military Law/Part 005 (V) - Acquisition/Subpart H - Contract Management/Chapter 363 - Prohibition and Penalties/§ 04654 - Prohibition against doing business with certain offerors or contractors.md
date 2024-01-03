@@ -52,7 +52,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub.L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
 #### Effective Date of 1994 Amendment
 

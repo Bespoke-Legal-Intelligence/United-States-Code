@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 110–114, §2030(2), substituted "Department of State" for
 
 Subsec. (d). Pub. L. 110–114, §2030(3), substituted "$1,000,000 for fiscal year 2008" for "$250,000 for fiscal year 2001" and ", international organizations, or foreign governments" for "or international organizations".
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–541 substituted "There is authorized to be appropriated to carry out this section $250,000 for fiscal year 2001 and each fiscal year thereafter." for "There is authorized to be appropriated $1,000,000 to carry out this section." and inserted "out" after "carry" in second sentence.
+<b>2000</b>—Subsec. (d). Pub. L. 106–541 substituted "There is authorized to be appropriated to carry out this section $250,000 for fiscal year 2001 and each fiscal year thereafter." for "There is authorized to be appropriated$1,000,000 to carry out this section." and inserted "out" after "carry" in second sentence.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

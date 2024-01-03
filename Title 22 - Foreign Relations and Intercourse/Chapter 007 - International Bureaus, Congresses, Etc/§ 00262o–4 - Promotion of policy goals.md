@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Treasury shall instruct the United States Executive Director at each multilateral development bank to inform each such bank and the executive directors of each such bank of the policy of the United States asset out in this section and to actively promote this policy and the goals set forth in section 262o–3 of this title. It is the policy of the United States that each bank should—
+The Secretary of the Treasury shall instruct the United States Executive Director at each multilateral development bank to inform each such bank and the executive directors of each such bank of the policy of the United States as set out in this section and to actively promote this policy and the goals set forth in section 262o–3 of this title. It is the policy of the United States that each bank should—
 
 &emsp;(1) require the bank's employees, officers and consultants to make an annual disclosure of their financial interests and income and of any other potential source of conflict of interest;
 

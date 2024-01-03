@@ -6,11 +6,13 @@ Authority.—When the Secretary of a military department determines that it is n
 
 (b)
 
-Limitations.—(1) Units may be ordered to active duty under this section only if—
+Limitations.—(1)(A) Except as provided under subparagraph (B), units may be ordered to active duty under this section only if—
 
-&emsp;(A) the manpower and associated costs of such active duty are specifically included and identified in the defense budget materials for the fiscal year or years in which such units are anticipated to be ordered to active duty; and
+&emsp;(i) the manpower and associated costs of such active duty are specifically included and identified in the defense budget materials for the fiscal year or years in which such units are anticipated to be ordered to active duty; and
 
-&emsp;(B) the budget information on such costs includes a description of the mission for which such units are anticipated to be ordered to active duty and the anticipated length of time of the order of such units to active duty on an involuntary basis.
+&emsp;(ii) the budget information on such costs includes a description of the mission for which such units are anticipated to be ordered to active duty and the anticipated length of time of the order of such units to active duty on an involuntary basis.
+
+(B) In the event the President's budget is delivered later than April 1st in the year prior to the year of the mobilization of one or more units under this section, the Secretary concerned may submit to Congress the information required under subparagraph (A) in a separate notice.
 
 (2) Not more than 60,000 members of the reserve components of the armed forces may be on active duty under this section at any one time.
 
@@ -36,7 +38,7 @@ Relationship to War Powers Resolution.—Nothing contained in this section shall
 
 (g)
 
-Considerations for Involuntary Order to Active Duty.—In determining which units of the Selected Reserve will be ordered to duty without their consent under this section, appropriate consideration shall be given to—
+Considerations for Involuntary Order to Active Duty.—In determining which units ofthe Selected Reserve will be ordered to duty without their consent under this section, appropriate consideration shall be given to—
 
 &emsp;(1) the length and nature of previous service, to assure such sharing of exposure to hazards as national security and military requirements will reasonably allow;
 
@@ -54,7 +56,7 @@ Policies and Procedures.—The Secretaries of the military departments shall pre
 
 Defense Budget Materials Defined.—In this section, the term "defense budget materials" has the meaning given that term in section 231(f)(2) of this title.
 
-(Added Pub. L. 112–81, div. A, title V, §516(a)(1), Dec. 31, 2011, 125 Stat. 1395; amended Pub. L.112–239, div. A, title X, §1014(b), Jan. 2, 2013, 126 Stat. 1908.)
+(Added Pub. L. 112–81, div. A, title V, §516(a)(1), Dec. 31, 2011, 125 Stat. 1395; amended Pub. L. 112–239, div. A, title X, §1014(b), Jan. 2, 2013, 126 Stat. 1908; Pub. L. 118–31, div. A, title V, §513, Dec. 22, 2023, 137 Stat. 245.)
 
 #### <b>Editorial Notes</b>
 
@@ -63,6 +65,8 @@ Defense Budget Materials Defined.—In this section, the term "defense budget ma
 The War Powers Resolution, referred to in subsec. (f), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(1). Pub. L. 118–31 substituted "(A) Except as provided under subparagraph (B), units" for "Units", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
 <b>2013</b>—Subsec. (i). Pub. L. 112–239 substituted "section 231(f)(2)" for "section 231(g)(2)".
 

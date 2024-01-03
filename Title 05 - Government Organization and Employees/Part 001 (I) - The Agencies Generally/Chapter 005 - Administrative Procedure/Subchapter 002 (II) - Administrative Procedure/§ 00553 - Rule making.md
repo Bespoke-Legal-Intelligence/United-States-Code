@@ -10,9 +10,11 @@
 
 &emsp;(1) a statement of the time, place, and nature of public rule making proceedings;
 
-&emsp;(2) reference to the legal authority under which the rule is proposed; and
+&emsp;(2) reference to the legal authority under which the rule is proposed;
 
-&emsp;(3) either the terms or substance of the proposed rule or a description of the subjects and issues involved.
+&emsp;(3) either the terms or substance of the proposed rule or a description of the subjects and issues involved; and
+
+&emsp;(4) the Internet address of a summary of not more than 100 words in length of the proposed rule, in plain language, that shall be posted on the Internet website under section 206(d) of the E-Government Act of 2002 (44 U.S.C. 3501 note) (commonly known as regulations.gov).
 
 > Except when notice or hearing is required by statute, this subsection does not apply—
 
@@ -32,7 +34,7 @@
 
 (e) Each agency shall give an interested person the right to petition for the issuance, amendment, or repeal of a rule.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 118–9, §2, July 25, 2023, 137 Stat. 55.)
 
 Historical and Revision Notes
 
@@ -58,9 +60,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 206(d) of the E-Government Act of 2002, referred to in subsec. (b)(4), is section 206(d) of Pub. L. 107–347, which is set out in a note under section 3501 of Title 44, Public Printing and Documents.
+
 #### Codification
 
 Section 553 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2245 of Title 7, Agriculture.
+
+#### Amendments
+
+<b>2023</b>—Subsec. (b)(4). Pub. L. 118–9 added par. (4).
 
 #### <b>Executive Documents</b>
 

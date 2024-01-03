@@ -36,7 +36,7 @@ Pub. L. 102–587, title V, §5501(c), Nov. 4, 1992, 106 Stat. 5085, provided th
 
 &emsp;"(1) engaged in the transportation of valueless material or valueless dredged material; and
 
-&emsp;"(2) owned or chartered by a corporation that had on file with the Secretary of Transportation on August 1, 1989, the certificate specified in section 27A of the Merchant Marine Act, 1920 (46 App. U.S.C. 883–1) \[now 46 U.S.C. 12118\]."
+&emsp;"(2) owned or chartered by a corporation that had on file with the Secretary of Transportation on August 1, 1989, the certificate specified in section 27A ofthe Merchant Marine Act, 1920 (46 App. U.S.C. 883–1) \[now 46 U.S.C. 12118\]."
 
 #### Transportation of Municipal Sewage Sludge
 
@@ -52,7 +52,7 @@ Pub. L. 100–329, §4, June 7, 1988, 102 Stat. 589, provided that: "For purpose
 
 #### Certificate of Documentation to Vessel Transporting Valueless Material in Coastwise Trade, or Dredged Material, Whether or Not of Value; Issuance, Endorsement, Etc.
 
-Pub. L. 100–329, §5, June 7, 1988, 102 Stat. 589, provided that: "Notwithstanding the provisions of section 1 of this Act \[amending section 883 of the former Appendix to this title, from which this section was derived\], the Secretary of the department in which the Coast Guard is operating may issue a certificate of documentationunder section 12106 \[see section 12112\] of title 46, United States Code, to a vessel that—
+Pub. L. 100–329, §5, June 7, 1988, 102 Stat. 589, provided that: "Notwithstanding the provisions of section 1 of this Act \[amending section 883 of the former Appendix to this title, from which this section was derived\], the Secretary of the department in which the Coast Guard is operating may issue a certificate of documentation under section 12106 \[see section 12112\] of title 46, United States Code, to a vessel that—
 
 &emsp;"(1) is engaged in transporting only valueless material in the coastwise trade or transporting dredged material, whether or not of value, (A) from a point or place on the high seas within the Exclusive Economic Zone as defined in the Presidential Proclamation of March 10, 1983 \[16 U.S.C. 1453 note\], to a point or place in the United States or to another point or place on the high seas within such Exclusive Economic Zone or (B) from a point or place within the United States to a point or place on the high seas within such Exclusive Economic Zone;
 

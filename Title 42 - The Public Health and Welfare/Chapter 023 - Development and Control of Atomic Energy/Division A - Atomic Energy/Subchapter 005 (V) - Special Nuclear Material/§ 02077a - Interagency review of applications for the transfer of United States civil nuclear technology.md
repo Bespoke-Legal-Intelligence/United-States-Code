@@ -30,7 +30,7 @@ At the same time as the President submits to Congress the annual budget request 
 
 #### (B) Waiver of deadline
 
-&emsp;&emsp;The Secretary may waive the requirement under subparagraph (A) to submit the report required by that subparagraph not later than 14 days before making an authorization for the transfer of a technology covered by a determination under paragraph (1) to a covered foreign country if the Secretary—
+&emsp;&emsp;The Secretary may waive the requirement under subparagraph (A) to submit the reportrequired by that subparagraph not later than 14 days before making an authorization for the transfer of a technology covered by a determination under paragraph (1) to a covered foreign country if the Secretary—
 
 &emsp;&emsp;&emsp;(i) determines that an imminent radiological hazard exists; and
 

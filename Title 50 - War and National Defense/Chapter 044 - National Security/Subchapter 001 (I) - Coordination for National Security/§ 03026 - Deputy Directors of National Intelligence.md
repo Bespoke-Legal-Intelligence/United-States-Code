@@ -30,7 +30,7 @@
 
 &emsp;(B) The Principal Deputy Director of National Intelligence.
 
-(3) It is the sense of Congress that, under ordinary circumstances, it is desirable that one ofthe individuals serving in the positions specified in paragraph (2)—
+(3) It is the sense of Congress that, under ordinary circumstances, it is desirable that one of the individuals serving in the positions specified in paragraph (2)—
 
 &emsp;(A) be a commissioned officer of the Armed Forces, in active status; or
 
@@ -62,5 +62,5 @@ Section was formerly classified to section 403–3a of this title prior to edito
 
 For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
-Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an EffectiveDate of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 

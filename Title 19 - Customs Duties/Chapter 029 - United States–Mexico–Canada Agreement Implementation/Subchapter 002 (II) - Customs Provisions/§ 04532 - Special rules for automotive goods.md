@@ -90,7 +90,7 @@ In this section:
 
 #### (B) Confidentiality of information
 
-&emsp;&emsp;The interagency committee and any Federal agency represented on the interagency committee may not disclose to the publicany confidential documents or information received in the course of carrying out this section, except information aggregated to preserve confidentiality and used in the reports described in subsection (g).
+&emsp;&emsp;The interagency committee and any Federal agency represented on the interagency committee may not disclose to the public any confidential documents or information received in the course of carrying out this section, except information aggregated to preserve confidentiality and used in the reports described in subsection (g).
 
 #### (c) Certification requirements
 
@@ -114,7 +114,7 @@ In this section:
 
 #### (C) Regulations required
 
-&emsp;&emsp;The Secretary of the Treasury, in consultation with the Secretary of Labor, shall prescribe regulations to carry out this paragraph, including regulations setting forth the procedures and requirements for a producer of covered vehicles to establish that the producer meets the labor value content requirements for preferential tariff treatment.
+&emsp;&emsp;The Secretary of the Treasury, in consultation with the Secretary of Labor, shallprescribe regulations to carry out this paragraph, including regulations setting forth the procedures and requirements for a producer of covered vehicles to establish that the producer meets the labor value content requirements for preferential tariff treatment.
 
 #### (2) Certification relating to steel and aluminum purchase requirements
 
@@ -230,7 +230,7 @@ In this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;A producer that submits a notification under clause (i) with respect to a change described in that clause may submit to the Trade Representative and the interagency committee a request for modification of its plan.
+&emsp;&emsp;&emsp;&emsp;A producer that submits a notification under clause (i) with respect to a changedescribed in that clause may submit to the Trade Representative and the interagency committee a request for modification of its plan.
 
 #### (II) Determination regarding modification
 
@@ -290,7 +290,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In participating in a verification conducted under paragraph (1), the Secretary of Labor shall assist the Secretary of the Treasury to do the following:
+&emsp;&emsp;In participating in a verification conducted under paragraph (1), the Secretary ofLabor shall assist the Secretary of the Treasury to do the following:
 
 &emsp;&emsp;&emsp;(i) Examine, or cause to be examined, upon reasonable notice, any record (including any statement, declaration, document, or electronically generated or machine readable data) described in the notice with reasonable specificity.
 
@@ -370,7 +370,7 @@ The Secretary of Labor is authorized to establish or designate an office within 
 
 &emsp;&emsp;&emsp;(iii) aggregate employment and employment opportunities in the United States;
 
-&emsp;&emsp;&emsp;(iv) production, investment, use of productive facilities, and profit levels in the automotive industries and other pertinent industries in the United States affected by the automotive rules of origin;
+&emsp;&emsp;&emsp;(iv) production, investment, use of productive facilities, and profit levels in theautomotive industries and other pertinent industries in the United States affected by the automotive rules of origin;
 
 &emsp;&emsp;&emsp;(v) wages and employment of workers in the automotive sector in the United States; and
 
@@ -414,7 +414,7 @@ Ex. Ord. No. 13908, Feb. 28, 2020, 85 F.R. 12983, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and section 202A of the United States-Mexico-Canada Agreement Implementation Act (Act) (Public Law 116–113) \[19 U.S.C. 4532\], it is hereby ordered as follows:
 
-Section 1. <i>Establishment of Interagency Committee</i>. The Interagency Committee on Trade in Automotive Goods (Committee) is hereby established to provide advice, as appropriate, on the implementation, enforcement, and modification of provisions of the United States-Mexico-Canada Agreement (Agreement) that relate to automotive goods, including the automotive rules of origin and the alternative staging regime that are part of such rules. The Committee shall also review the operation of the Agreement with respect to trade in automotive goods, including the economic effects of theautomotive rules of origin on the United States economy, workers, and consumers, and the impact of new technology on such rules.
+Section 1. <i>Establishment of Interagency Committee</i>. The Interagency Committee on Trade in Automotive Goods (Committee) is hereby established to provide advice, as appropriate, on the implementation, enforcement, and modification of provisions of the United States-Mexico-Canada Agreement (Agreement) that relate to automotive goods, including the automotive rules of origin and the alternative staging regime that are part of such rules. The Committee shall also review the operation of the Agreement with respect to trade in automotive goods, including the economic effects of the automotive rules of origin on the United States economy, workers, and consumers, and the impact of new technology on such rules.
 
 Sec. 2. <i>Membership</i>. The Committee shall be composed of the Secretary of Commerce, the Secretary of Labor, the United States Trade Representative (USTR), the Chairman of the United States International Trade Commission, and the Commissioner of U.S. Customs and Border Protection in the Department of Homeland Security. Members of the Committee may designate an officer of the United States within their respective executive department, agency, or component to serve as their representative on the Committee. The USTR shall serve as Chair of the Committee. The USTR may invite representatives from other executive departments or agencies, as the USTR determines are necessary, to participate as members or observers, and shall include the Secretary of the Treasury as a member of the Committee. Each executive department, agency, and component represented on the Committee shall ensure that the necessary staff are available to assist in performing the responsibilities of the Committee.
 

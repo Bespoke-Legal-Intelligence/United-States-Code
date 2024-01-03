@@ -24,7 +24,7 @@
 
 (5) The Secretary of Defense shall ensure that all procurements of athletic footwear to which this subsection applies are made using firm fixed price contracts.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478; Pub. L. 104–106, div. A, title X, §1038(c), Feb. 10, 1996, 110 Stat. 432; Pub. L. 104–201, div. A, title VI, §654, Sept. 23, 1996, 110 Stat. 2583; Pub. L. 106–398, §1 \[\[div. A\], title VI, §611\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. A, title VIII, §817, Dec. 23, 2016, 130 Stat. 2272; Pub. L. 115–91, div. A, title VI, §633, Dec. 12, 2017, 131 Stat. 1431; Pub. L. 116–283, div. A, title IX, §925(e)(2), Jan. 1, 2021, 134 Stat. 3827; Pub. L. 117–81, div. A, title XVII, §1702(f)(2), Dec. 27, 2021, 135 Stat. 2157.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478; Pub. L. 104–106, div. A, title X, §1038(c), Feb. 10, 1996, 110 Stat. 432; Pub. L. 104–201, div. A, title VI, §654,Sept. 23, 1996, 110 Stat. 2583; Pub. L. 106–398, §1 \[\[div. A\], title VI, §611\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. A, title VIII, §817, Dec. 23, 2016, 130 Stat. 2272; Pub. L. 115–91, div. A, title VI, §633, Dec. 12, 2017, 131 Stat. 1431; Pub. L. 116–283, div. A, title IX, §925(e)(2), Jan. 1, 2021, 134 Stat. 3827; Pub. L. 117–81, div. A, title XVII, §1702(f)(2), Dec. 27, 2021, 135 Stat. 2157.)
 
 Historical and Revision Notes
 

@@ -28,7 +28,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 #### (2) Exception
 
-&emsp;The Secretary shall not extend the period referred to in paragraph (1)(A) or (1)(B) if thedetermination made under subsection (d)(4) is made later than 9 months prior to the expiration of such period.
+&emsp;The Secretary shall not extend the period referred to in paragraph (1)(A) or (1)(B) if the determination made under subsection (d)(4) is made later than 9 months prior to the expiration of such period.
 
 #### (c) Market exclusivity for already-marketed drugs
 
@@ -86,7 +86,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 #### (ii) Disagree with request
 
-&emsp;&emsp;&emsp;If, on or after September 27, 2007, the applicant or holder does not agree to the request on the grounds that it is not possible to develop the appropriate pediatric formulation, the applicant or holder shallsubmit to the Secretary the reasons such pediatric formulation cannot be developed.
+&emsp;&emsp;&emsp;If, on or after September 27, 2007, the applicant or holder does not agree to the request on the grounds that it is not possible to develop the appropriate pediatric formulation, the applicant or holder shall submit to the Secretary the reasons such pediatric formulation cannot be developed.
 
 #### (B) Adverse event reports
 
@@ -112,7 +112,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 #### (1) In general
 
-&emsp;The Secretary shall publish a notice of any determination, made on or after September 27, 2007, that the requirements of subsection (d) have been met and that submissions and approvals under subsection (b)(2) or (j) of section 355 of this title for a drug will be subject to the provisions of this section. Such notice shall be published not later than 30 days after the date of the Secretary's determination regarding market exclusivity and shall include a copy of the written request made under subsection (b) or (c).
+&emsp;The Secretary shall publish a notice of any determination, made on or after September 27, 2007, that the requirements of subsection (d) have been met and that submissions and approvals under subsection (b)(2) or (j) of section 355 of this title for a drug will be subject to the provisions of this section. Such notice shall be published not later than 30 days afterthe date of the Secretary's determination regarding market exclusivity and shall include a copy of the written request made under subsection (b) or (c).
 
 #### (2) Identification of certain drugs
 
@@ -254,7 +254,7 @@ If, on or after September 27, 2007, the Secretary determines that a pediatric st
 
 If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a 6-month exclusivity period under this section, so that the applicant for approval of a drug under section 355(j) of this title entitled to the 180-day period under that section loses a portion of the 180-day period to which the applicant is entitled for the drug, the 180-day period shall be extended from—
 
-&emsp;(1) the date on which the 180-day period would have expired by the number of days of the overlap, if the 180-day period would, but for the application of this subsection, expire after the 6-month exclusivity period; or
+&emsp;(1) the date on which the 180-day period would have expired by the number of days ofthe overlap, if the 180-day period would, but for the application of this subsection, expire after the 6-month exclusivity period; or
 
 &emsp;(2) the date on which the 6-month exclusivity period expires, by the number of days of the overlap if the 180-day period would, but for the application of this subsection, expire during the six-month exclusivity period.
 
@@ -320,7 +320,7 @@ If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a
 
 &emsp;&emsp;(D) except as expressly provided in paragraphs (1) and (2), the operation of section 355 of this title or section 360cc of this title.
 
-(June 25, 1938, ch. 675, §505A, as added Pub. L. 105–115, title I, §111, Nov. 21, 1997, 111 Stat. 2305; amended Pub. L. 107–109, §§2, 4, 5(b)(2), 7–11(a), 18(a), 19, Jan. 4, 2002, 115 Stat. 1408, 1411, 1413–1415, 1423, 1424; Pub. L. 108–155, §§2(b)(2), 3(a), (b)(1), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 108–173, title XI, §1104, Dec. 8, 2003, 117 Stat. 2461; Pub. L. 110–85, title V, §502(a)(1), Sept. 27, 2007, 121 Stat. 876; Pub. L. 111–148, title VII, §7002(g)(2)(B), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§501(a), 502(a)(1), (b), 509(a), July 9, 2012, 126 Stat. 1039, 1040, 1047; Pub. L. 113–5, title III, §307(a), Mar. 13, 2013, 127 Stat. 191; Pub. L. 114–255, div. A, title III, §3102(2), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title V, §505(a)–(b)(2)(A), title VI, §608, Aug. 18, 2017, 131 Stat. 1046, 1050; Pub. L. 117–9, §1(b)(2), Apr. 23, 2021, 135 Stat. 258.)
+(June 25, 1938, ch. 675, §505A, as added Pub. L. 105–115, title I, §111, Nov. 21, 1997, 111 Stat. 2305; amended Pub. L. 107–109, §§2, 4, 5(b)(2), 7–11(a),18(a), 19, Jan. 4, 2002, 115 Stat. 1408, 1411, 1413–1415, 1423, 1424; Pub. L. 108–155, §§2(b)(2), 3(a), (b)(1), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 108–173, title XI, §1104, Dec. 8, 2003, 117 Stat. 2461; Pub. L. 110–85, title V, §502(a)(1), Sept. 27, 2007, 121 Stat. 876; Pub. L. 111–148, title VII, §7002(g)(2)(B), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§501(a), 502(a)(1), (b), 509(a), July 9, 2012, 126 Stat. 1039, 1040, 1047; Pub. L. 113–5, title III, §307(a), Mar. 13, 2013, 127 Stat. 191; Pub. L. 114–255, div. A, title III, §3102(2), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title V, §505(a)–(b)(2)(A), title VI, §608, Aug. 18, 2017, 131 Stat. 1046, 1050; Pub. L. 117–9, §1(b)(2), Apr. 23, 2021, 135 Stat. 258.)
 
 #### <b>Editorial Notes</b>
 
@@ -504,7 +504,7 @@ In general.—The amendment made by this subsection \[amending this section\] sh
 
 "(B)
 
-Certain written requests.—A written request issued under section 505A of the Federal Food, Drug, and Cosmetic Act, as in effect on the day before the date of the enactment of this Act, which has been accepted and for which no determination under subsection (d)(2) of such section has been made before such date of enactment, shall be subject to such section 505A, except that such written requests shall be subject to subsections (d)(2)(A)(ii), (e)(1) and (2), (f), (i)(2)(A), (j), (k)(1), (l)(1), and (n) of section 505A of the Federal Food, Drug, and Cosmetic Act, as in effect on or after the date of the enactment of this Act."
+Certain written requests.—A written request issued under section 505A of the Federal Food, Drug,and Cosmetic Act, as in effect on the day before the date of the enactment of this Act, which has been accepted and for which no determination under subsection (d)(2) of such section has been made before such date of enactment, shall be subject to such section 505A, except that such written requests shall be subject to subsections (d)(2)(A)(ii), (e)(1) and (2), (f), (i)(2)(A), (j), (k)(1), (l)(1), and (n) of section 505A of the Federal Food, Drug, and Cosmetic Act, as in effect on or after the date of the enactment of this Act."
 
 #### Effective Date of 2003 Amendment
 
@@ -538,7 +538,7 @@ Pub. L. 112–144, title V, §503, July 9, 2012, 126 Stat. 1040, provided that: 
 
 #### Access to Data
 
-Pub. L. 112–144, title V, §504, July 9, 2012, 126 Stat. 1040, provided that: "Not later than 3 years after thedate of enactment of this Act \[July 9, 2012\], the Secretary \[of Health and Human Services\] shall make available to the public, including through posting on the Internet Web site of the Food and Drug Administration, the medical, statistical, and clinical pharmacology reviews of, and corresponding written requests issued to an applicant, sponsor, or holder for, pediatric studies submitted between January 4, 2002, and September 27, 2007, under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a) for which 6 months of market exclusivity was granted and that resulted in a labeling change. The Secretary shall make public the information described in the preceding sentence in a manner consistent with how the Secretary releases information under section 505A(k) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a(k))."
+Pub. L. 112–144, title V, §504, July 9, 2012, 126 Stat. 1040, provided that: "Not later than 3 years after the date of enactment of this Act \[July 9, 2012\], the Secretary \[of Health and Human Services\] shall make available to the public, including through posting on the Internet Web site of the Food and Drug Administration, the medical, statistical, and clinical pharmacology reviews of, and corresponding written requests issued to an applicant, sponsor, or holder for, pediatric studies submitted between January 4, 2002, and September 27, 2007, under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a) for which 6 months of market exclusivity was granted and that resulted in a labeling change. The Secretary shall make public the information described in the preceding sentence in a manner consistent with how the Secretary releases information under section 505A(k) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a(k))."
 
 #### Report on Pediatric Exclusivity Program
 

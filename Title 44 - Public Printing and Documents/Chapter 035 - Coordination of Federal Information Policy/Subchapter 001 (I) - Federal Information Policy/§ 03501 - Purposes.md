@@ -66,7 +66,7 @@ In General.—Except as otherwise provided in this section, this Act \[enacting 
 
 "(b)
 
-Authorization of Appropriations.—Section 3520 \[now 3521\] of title 44, United States Code, as amendedby this Act, shall take effect on the date of enactment of this Act \[May 22, 1995\].
+Authorization of Appropriations.—Section 3520 \[now 3521\] of title 44, United States Code, as amended by this Act, shall take effect on the date of enactment of this Act \[May 22, 1995\].
 
 "(c)
 
@@ -83,6 +83,26 @@ Delayed Application.—In the case of a collection of information for which ther
 #### Short Title
 
 This chapter is popularly known as the "Paperwork Reduction Act".
+
+#### Implementation of Technology for Classification and Declassification
+
+Pub. L. 118–31, div. G, title VI, §7605, Dec. 22, 2023, 137 Stat. 1098, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of the enactment of this Act \[Dec. 22, 2023\], the Administrator of the Office of Electronic Government (in this section referred to as the 'Administrator') shall, in consultation with the Secretary of Defense, the Director of the Central Intelligence Agency, the Director of National Intelligence, the Public Interest Declassification Board, the Director of the Information Security Oversight Office, and the head of the National Declassification Center of the National Archives and Records Administration—
+
+&emsp;"(1) research a technology-based solutions \[sic\]—
+
+&emsp;&emsp;"(A) to support efficient and effective systems for classification and declassification; and
+
+&emsp;&emsp;"(B) to be implemented on an interoperable and federated basis across the Federal Government; and
+
+&emsp;"(2) submit to the President and Congress, including the congressional intelligence committees \[Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives\], the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, the Committee on the Judiciary of the Senate, and the Committee on Armed Services, the Committee on Oversight and Accountability, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives, recommendations regarding a technology-based solutions \[sic\] described in paragraph (1).
+
+"(b)
+
+Report.—Not later than 540 days after the date of the enactment of this Act, the President shall submit to Congress a classified report describing actions taken to implement the recommendations under subsection (a)(2)."
 
 #### 21st Century Integrated Digital Experience
 
@@ -288,7 +308,7 @@ Avoiding Diminished Access.—When promulgating policies and implementing progra
 
 "(d)
 
-Accessibility to People With Disabilities.—All actions taken by Federal departments and agenciesunder this Act \[see Tables for classification\] shall be in compliance with section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d).
+Accessibility to People With Disabilities.—All actions taken by Federal departments and agencies under this Act \[see Tables for classification\] shall be in compliance with section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d).
 
 "(e)
 
@@ -424,7 +444,7 @@ Electronic Filings.—
 
 &emsp;"(1)
 
-In general.—Except as provided under paragraph (2) or in the rules prescribed under paragraph\(3), each court shall make any document that is filed electronically publicly available online. A court may convert any document that is filed in paper form to electronic form. To the extent such conversions are made, all such electronic versions of the document shall be made available online.
+In general.—Except as provided under paragraph (2) or in the rules prescribed under paragraph (3), each court shall make any document that is filed electronically publicly available online. A court may convert any document that is filed in paper form to electronic form. To the extent such conversions are made, all such electronic versions of the document shall be made available online.
 
 &emsp;"(2)
 
@@ -500,7 +520,7 @@ Exception.—To the extent that the Supreme Court, a court of appeals, district,
 
 &emsp;"(2)
 
-Report.—Not later than 1 year after the effective date of this title \[see Effective Date note set out under section 3601 of this title\], and every year thereafter, the Judicial Conference of the United States shall submit a report to the Committees on Governmental Affairs and the Judiciary of the Senate and the Committees on Government Reform \[now Oversight and Reform\] and the Judiciary of the House of Representatives that—
+Report.—Not later than 1 year after the effective date of this title \[see Effective Date note set out under section 3601 of this title\], and every year thereafter, the Judicial Conference of the United States shall submit a report to the Committees on Governmental Affairs and the Judiciary of the Senate and the Committees on Government Reform \[now Committee on Oversight and Accountability\] and the Judiciary of the House of Representatives that—
 
 &emsp;&emsp;"(A) contains all notifications submitted to the Administrative Office of the United States Courts under this subsection; and
 
@@ -720,7 +740,7 @@ Public domain directory of public federal government websites.—
 
 &emsp;&emsp;"(A)
 
-Establishment.—Not later than 2 years after the effective date of this title \[see Effective Date note set out under section 3601 of this title\], the Director and each agency shall—
+Establishment.—Not later than 2 years after the effective date of this title \[see EffectiveDate note set out under section 3601 of this title\], the Director and each agency shall—
 
 &emsp;&emsp;&emsp;"(i) develop and establish a public domain directory of public Federal Government websites; and
 
@@ -858,7 +878,7 @@ Agency activities.—To the extent required under subparagraph (A), each agency 
 
 &emsp;&emsp;&emsp;"(i) conduct a privacy impact assessment;
 
-&emsp;&emsp;&emsp;"(ii) ensure the review of the privacy impact assessment by the Chief Information Officer, or equivalent official, as determined by the head of the agency; and
+&emsp;&emsp;&emsp;"(ii) ensure the review of the privacy impact assessment by the Chief Information Officer, orequivalent official, as determined by the head of the agency; and
 
 &emsp;&emsp;&emsp;"(iii) if practicable, after completion of the review under clause (ii), make the privacy impact assessment publicly available through the website of the agency, publication in the Federal Register, or other means.
 
@@ -972,7 +992,7 @@ In general.—In consultation with the Director of the Office of Management and 
 
 &emsp;"(2)
 
-Information technology training programs.—The head of each Executive agency, afterconsultation with the Director of the Office of Personnel Management, the Chief Information Officers Council, and the Administrator of General Services, shall establish and operate information technology training programs consistent with the requirements of this subsection. Such programs shall—
+Information technology training programs.—The head of each Executive agency, after consultation with the Director of the Office of Personnel Management, the Chief Information Officers Council, and the Administrator of General Services, shall establish and operate information technology training programs consistent with the requirements of this subsection. Such programs shall—
 
 &emsp;&emsp;"(A) have curricula covering a broad range of information technology disciplines corresponding to the specific information technology and information resource management needs of the agency involved;
 
@@ -1022,7 +1042,7 @@ In general.—\[Enacted chapter 37 of Title 5, Government Organization and Emplo
 
 &emsp;"(2)
 
-Report.—Not later than 4 years after the date of the enactment of this Act \[Dec. 17, 2002\], the Government Accountability Office shall prepare and submit to the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report on the operation of chapter 37 of title 5, United States Code (as added by this subsection). Such report shall include—
+Report.—Not later than 4 years after the date of the enactment of this Act \[Dec. 17, 2002\], the Government Accountability Office shall prepare and submit to the Committee on Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report on the operation of chapter 37 of title 5, United States Code (as added by this subsection). Such report shall include—
 
 &emsp;&emsp;"(A) an evaluation of the effectiveness of the program established by such chapter; and
 
@@ -1068,7 +1088,7 @@ Exchange program defined.—For purposes of this subsection, the term 'exchange 
 
 &emsp;"(2)
 
-Reporting requirement.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 2002\], the Office of Personnel Management shall prepare and submit to the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report identifying all existing exchange programs.
+Reporting requirement.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 2002\], the Office of Personnel Management shall prepare and submit to the Committee on Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report identifying all existing exchange programs.
 
 &emsp;"(3)
 
@@ -1088,7 +1108,7 @@ Report on the Establishment of a Governmentwide Information Technology Training 
 
 &emsp;"(1)
 
-In general.—Not later January 1, 2003, the Office of Personnel Management, in consultation with the Chief Information Officers Council and the Administrator of General Services, shall review and submit to the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a written report on the following:
+In general.—Not later January 1, 2003, the Office of Personnel Management, in consultation with the Chief Information Officers Council and the Administrator of General Services, shall review and submit to the Committee on Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a written report on the following:
 
 &emsp;&emsp;"(A) The adequacy of any existing information technology training programs available to Federal employees on a Governmentwide basis.
 
@@ -1130,7 +1150,7 @@ Other Contracts.—\[Enacted section 266a of Title 41.\]
 
 "(c)
 
-Development of Incentives.—The Director of the Office of Management and Budget shall, in consultation with the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, and executive agencies, develop techniques to permit an executive agency to retain a portion of the savings (after payment of the contractor's share of the savings) derived from share-in-savings contracts as funds are appropriated to the agency in future fiscal years.
+Development of Incentives.—The Director of the Office of Management and Budget shall, in consultation with the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, and executive agencies, develop techniques to permit an executive agency to retain a portion of the savings (after payment of the contractor's share of the savings) derived from share-in-savings contracts as funds are appropriated to the agency in future fiscal years.
 
 "(d)
 
@@ -1210,7 +1230,7 @@ Procedures.—Not later than 30 days after the date of the enactment of this Act
 
 "(c)
 
-Report.—Not later than December 31, 2004, the Administrator shall submit to the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report on the implementation and effects of the amendment made by subsection (a).
+Report.—Not later than December 31, 2004, the Administrator shall submit to the Committee on Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report on the implementation and effects of the amendment made by subsection (a).
 
 #### "SEC. 212. INTEGRATED REPORTING STUDY AND PILOT PROJECTS.
 
@@ -1238,7 +1258,7 @@ Report.—
 
 &emsp;"(1)
 
-In general.—Not later than 3 years after the date of enactment of this Act \[Dec. 17, 2002\], the Director shall oversee a study, in consultation withagencies, the regulated community, public interest organizations, and the public, and submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives on progress toward integrating Federal information systems across agencies.
+In general.—Not later than 3 years after the date of enactment of this Act \[Dec. 17, 2002\], the Director shall oversee a study, in consultation with agencies, the regulated community, public interest organizations, and the public, and submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives on progress toward integrating Federal information systems across agencies.
 
 &emsp;"(2)
 
@@ -1322,7 +1342,7 @@ Study and Report.—Not later than 2 years after the effective date of this titl
 
 &emsp;&emsp;"(B) the Committee on Health, Education, Labor, and Pensions of the Senate;
 
-&emsp;&emsp;"(C) the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives; and
+&emsp;&emsp;"(C) the Committee on Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives; and
 
 &emsp;&emsp;"(D) the Committee on Education and the Workforce of the House of Representatives.
 
@@ -1442,7 +1462,7 @@ Report.—Not later than 2 years after the date on which a contract is entered i
 
 &emsp;&emsp;"(A) the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives.
 
 &emsp;"(4)
 
@@ -1468,7 +1488,7 @@ Study.—Not later than 90 days after the date of enactment of this Act \[Dec. 1
 
 &emsp;"(2)
 
-Report.—Not later than 2 years after the date of enactment of this Act, the Administrator of General Services shall submit to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives a final report of the study under this section, which shall set forth the findings, conclusions, and recommendations of the National Research Council.
+Report.—Not later than 2 years after the date of enactment of this Act, the Administrator of General Services shall submit to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives a final report of the study under this section, which shall set forth the findings, conclusions, and recommendations of the National Research Council.
 
 "(b)
 
@@ -1656,7 +1676,7 @@ Accordingly, we must make it easier for businesses to access the full range of G
 
 Businesses looking for assistance from the Federal Government should feel like they are interacting with one entity, rather than a number of separate, albeit linked, components. This means adopting a "No Wrong Door" policy that uses technology to quickly connect businesses to the services and information relevant to them, regardless of which agency's website, call center, or office they go to for help.
 
-In addition, a business's interactions with the Federal Government should be individualized and efficient.If the private sector can allow consumers to customize interactions so that they receive only the information they want, in the form they want it, so can the Federal Government.
+In addition, a business's interactions with the Federal Government should be individualized and efficient. If the private sector can allow consumers to customize interactions so that they receive only the information they want, in the form they want it, so can the Federal Government.
 
 Today, I am directing a first wave of changes focused on both small businesses and businesses of all sizes that want to begin or increase exporting (exporters), because those businesses help drive economic growth and have the most to gain from Federal assistance. We plan to use the resulting improvements as a model for future reforms so that, in time, all businesses and all citizens receive the highest level of customer service when they interact with the Federal Government.
 

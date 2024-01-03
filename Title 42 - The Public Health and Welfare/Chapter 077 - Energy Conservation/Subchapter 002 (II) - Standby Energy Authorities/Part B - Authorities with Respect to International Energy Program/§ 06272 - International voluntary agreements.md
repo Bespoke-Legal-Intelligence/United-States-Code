@@ -16,7 +16,7 @@ The Secretary, with the approval of the Attorney General, after each of them has
 
 The standards and procedures prescribed under subsection (b) shall include the following requirements:
 
-&emsp;(1)(A)(i) Except as provided in clause (ii) or (iii) of this subparagraph, meetings held to develop or carry out a voluntary agreement or plan of action under this subsection shall permit attendance by representatives of committees of Congress and interested persons, including all interested segments of the petroleum industry, consumers, and the public; shall be preceded by timely and adequate notice with identification of the agenda of such meeting to the Attorney General, the Federal Trade Commission, committees of Congress, and (except during an international energy supply emergency with respect to meetings to carry out a voluntary agreement or to develop or carry out a plan of action) the public; andshall be initiated and chaired by a regular full-time Federal employee.
+&emsp;(1)(A)(i) Except as provided in clause (ii) or (iii) of this subparagraph, meetings held to develop or carry out a voluntary agreement or plan of action under this subsection shall permit attendance by representatives of committees of Congress and interested persons, including all interested segments of the petroleum industry, consumers, and the public; shall be preceded by timely and adequate notice with identification of the agenda of such meeting to the Attorney General, the Federal Trade Commission, committees of Congress, and (except during an international energy supply emergency with respect to meetings to carry out a voluntary agreement or to develop or carry out a plan of action) the public; and shall be initiated and chaired by a regular full-time Federal employee.
 
 &emsp;(ii) Meetings of bodies created by the International Energy Agency established by the international energy program need not be open to interested persons and need not be initiated and chaired by a regular full-time Federal employee.
 
@@ -42,7 +42,7 @@ The standards and procedures prescribed under subsection (b) shall include the f
 
 (1) The Attorney General and the Federal Trade Commission shall monitor the development and carrying out of voluntary agreements and plans of action authorized under this section in order to promote competition and to prevent anticompetitive practices and effects, while achieving substantially the purposes of this part.
 
-(2) In addition to any requirement specified under subsections (b) and (c) of this section and in order to carry out the purposes of this section, the Attorney General, in consultation withthe Federal Trade Commission and the Secretary, may promulgate rules concerning the maintenance of necessary and appropriate records related to the development and carrying out of voluntary agreements and plans of action authorized pursuant to this section.
+(2) In addition to any requirement specified under subsections (b) and (c) of this section and in order to carry out the purposes of this section, the Attorney General, in consultation with the Federal Trade Commission and the Secretary, may promulgate rules concerning the maintenance of necessary and appropriate records related to the development and carrying out of voluntary agreements and plans of action authorized pursuant to this section.
 
 (3) Persons developing or carrying out voluntary agreements and plans of action authorized pursuant to this section shall maintain such records as are required by rules promulgated under paragraph (2). The Attorney General and the Federal Trade Commission shall have access to and the right to copy such records at reasonable times and upon reasonable notice.
 
@@ -66,7 +66,7 @@ The standards and procedures prescribed under subsection (b) shall include the f
 
 #### (g) Acts or practices occurring prior to date of enactment of chapter or subsequent to its expiration or repeal
 
-No provision of this section shall be construed as granting immunity for, or as limiting or in any way affecting any remedy or penalty which may result from any legal action or proceeding arising from, any act or practice which occurred prior to the date of enactment of this chapter or subsequent to its expiration or repeal.
+No provision of this section shall be construed as granting immunity for, or as limiting or in any way affecting any remedy or penalty which may result from any legal action or proceedingarising from, any act or practice which occurred prior to the date of enactment of this chapter or subsequent to its expiration or repeal.
 
 #### (h) Applicability of Defense Production Act of 1950
 
@@ -134,7 +134,7 @@ The antitrust defense under subsection (f) shall not extend to the international
 
 (2) This subsection is enacted by the Congress—
 
-&emsp;(A) as an exercise of the rulemaking power of the Senate and as such it is deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed in the Senate in the case of resolutions described by paragraph (3); it supersedes other rules only to the extent that is inconsistent therewith; and
+&emsp;(A) as an exercise of the rulemaking power of the Senate and as such it is deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed inthe Senate in the case of resolutions described by paragraph (3); it supersedes other rules only to the extent that is inconsistent therewith; and
 
 &emsp;(B) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
@@ -148,7 +148,7 @@ The antitrust defense under subsection (f) shall not extend to the international
 
 (5)(A) When the Committee on Energy and Natural Resources of the Senate has reported or has been discharged from further consideration of a joint resolution, it shall be in order at any time thereafter within the 90-day period following receipt by the Congress of the plan of action (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of such joint resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider a vote by which the motion was agreed to or disagreed to.
 
-(B) Debate on the joint resolution shall be limited to not more than 10 hours and final action on the joint resolution shall occur immediately following conclusion of such debate. A motion further to limit debate shall not be debatable. A motion to recommit such a joint resolution shall not be in order, and it shall not be in orderto move to reconsider the vote by which such a joint resolution was agreed to or disagreed to.
+(B) Debate on the joint resolution shall be limited to not more than 10 hours and final action on the joint resolution shall occur immediately following conclusion of such debate. A motion further to limit debate shall not be debatable. A motion to recommit such a joint resolution shall not be in order, and it shall not be in order to move to reconsider the vote by which such a joint resolution was agreed to or disagreed to.
 
 (6)(A) Motions to postpone made with respect to the discharge from committee or consideration of a joint resolution, shall be decided without debate.
 
@@ -178,7 +178,7 @@ Subsec. (e)(2). Pub. L. 105–177, §1(4)(C), substituted "may" for "shall".
 
 Subsec. (f)(2). Pub. L. 105–177, §1(4)(D), inserted "voluntary agreement or" after "approved".
 
-Subsec. (h). Pub. L. 105–177, §1(4)(E), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "Upon the expiration of the 90-day period which begins on December 22, 1975, the provisions of sections 708 and 708A (other than 708A(o)) of the Defense Production Act of 1950 shall not apply to any agreement or action undertaken for the purpose of developing or carrying out (1) the international energy program, or (2) any allocation, price control, or similar program with respect to petroleum products under this chapter or under the Emergency Petroleum Allocation Act of 1973. For purposes of section 708(A)(o) of the Defense Production Act of 1950, the effective date of the provisions of this chapter which relate to international voluntary agreements to carry out the International Energy Program shall be deemed to be 90 days after December 22, 1975."
+Subsec. (h). Pub. L. 105–177, §1(4)(E), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "Upon the expiration of the 90-day period which begins on December 22, 1975, the provisions of sections 708 and 708A (other than 708A(o)) of the Defense Production Act of 1950 shall not apply to any agreement or action undertaken for the purpose of developing or carrying out (1) the international energy program, or (2) any allocation, price control, or similar program with respect to petroleum products under this chapter or under the Emergency Petroleum Allocation Act of 1973. For purposes of section 708(A)(o) of the Defense Production Act of 1950, the effective date of the provisions of this chapter which relate to international voluntary agreements to carry out the InternationalEnergy Program shall be deemed to be 90 days after December 22, 1975."
 
 Subsec. (k)(2). Pub. L. 105–177, §1(4)(F), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'allocation and information provisions of the international energy program' means the provisions of the international energy program which relate to international allocation of petroleum products and to the information system provided in such program."
 

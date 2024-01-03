@@ -12,9 +12,9 @@ Section 3a, act May 24, 1924, ch. 182, §33, as added Feb. 23, 1931, ch. 276, §
 
 Section 4, act May 24, 1924, ch. 182, §11, formerly §4, 43 Stat. 140; renumbered §11 and amended Feb. 23, 1931, ch. 276, §7, 46 Stat. 1215; June 29, 1935, ch. 337, 49 Stat. 436, related to appointment and commission of officers.
 
-Section 5, act May 24, 1924, ch. 182, §12, formerly §5, 43 Stat. 141; renumbered §12 and amended Feb. 23, 1931, ch. 276, §7, 46 Stat. 1208, related to examination and appointment on probation of officers.
+Section 5, act May 24, 1924, ch. 182, §12, formerly §5, 43 Stat. 141; renumbered §12 and amended Feb. 23, 1931,ch. 276, §7, 46 Stat. 1208, related to examination and appointment on probation of officers.
 
-Section 6, act May 24, 1924, ch. 182, §12, formerly §5, 43 Stat. 141; renumbered §12 and amended Feb. 23, 1931,ch. 276, §7, 46 Stat. 1208, related to appointment to a class and not to a particular post.
+Section 6, act May 24, 1924, ch. 182, §12, formerly §5, 43 Stat. 141; renumbered §12 and amended Feb. 23, 1931, ch. 276, §7, 46 Stat. 1208, related to appointment to a class and not to a particular post.
 
 Section 7, act May 24, 1924, ch. 182, §14, as added Feb. 23, 1931, ch. 276, §7, 46 Stat. 1208; amended May 3, 1945, ch. 105, §6, 59 Stat. 103, related to reports and recommendations for promotions.
 

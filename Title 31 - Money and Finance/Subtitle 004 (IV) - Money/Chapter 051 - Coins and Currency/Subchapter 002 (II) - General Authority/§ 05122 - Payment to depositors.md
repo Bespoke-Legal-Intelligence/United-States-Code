@@ -12,9 +12,9 @@
 
 &emsp;(4) preparing bars.
 
-(c) The Secretary shall pay to the depositor or to a person designated by the depositor money or bars equivalent to the bullion deposited as soon as practicable after the value of the depositis determined. If demanded, the Secretary shall pay depositors in the order in which the bullion is deposited with the Secretary. However, when there is an unavoidable delay in determining the value of a deposit, the Secretary shall pay subsequent depositors. When practicable and convenient, the Secretary shall pay depositors in the denominations requested by the depositor. After the depositor is paid, the bullion is the property of the United States Government.
+(c) The Secretary shall pay to the depositor or to a person designated by the depositor money or bars equivalent to the bullion deposited as soon as practicable after the value of the deposit is determined. If demanded, the Secretary shall pay depositors in the order in which the bullion is deposited with the Secretary. However, when there is an unavoidable delay in determining the value of a deposit, the Secretary shall pay subsequent depositors. When practicable and convenient, the Secretary shall pay depositors in the denominations requested by the depositor. After the depositor is paid, the bullion is the property of the United States Government.
 
-(d) To allow the Secretary to pay depositors with as little delay as possible, the Secretary shall keep in the mints and assay offices, when possible, money and bullion the Secretary decides are convenient and necessary.
+(d) To allow the Secretary to pay depositors with as little delay as possible, the Secretaryshall keep in the mints and assay offices, when possible, money and bullion the Secretary decides are convenient and necessary.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 987.)
 

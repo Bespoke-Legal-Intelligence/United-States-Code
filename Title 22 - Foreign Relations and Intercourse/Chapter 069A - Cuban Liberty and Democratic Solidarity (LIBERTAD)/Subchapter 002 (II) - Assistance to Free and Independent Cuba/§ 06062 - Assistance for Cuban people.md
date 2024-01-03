@@ -100,7 +100,7 @@ Not later than 180 days after March 12, 1996, the President shall transmit to th
 
 &emsp;&emsp;(C) specific trade negotiating objectives of the United States with respect to Cuba, including the objectives described in section 108(b)(5) of the North American Free Trade Agreement Implementation Act (19 U.S.C. 3317(b)(5)); <sup>1</sup> and
 
-&emsp;&emsp;(D) actions proposed or anticipated to be undertaken, and any proposed legislation necessary or appropriate, to achieve any of such policy and negotiating objectives.
+&emsp;&emsp;(D) actions proposed or anticipated to be undertaken, and any proposed legislationnecessary or appropriate, to achieve any of such policy and negotiating objectives.
 
 #### (2) Consultation
 
@@ -120,7 +120,7 @@ This chapter, referred to in subsec. (e)(1), was in the original "this Act", mea
 
 The Trade Act of 1974, referred to in subsec. (h)(1)(B)(ii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title V of the Act is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
-The Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(1)(B)(ii), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§2701 et seq.) of Title 19. For complete classification of this Act to the Code, see ShortTitle note set out under section 2701 of Title 19 and Tables.
+The Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(1)(B)(ii), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§2701 et seq.) of Title 19. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 19 and Tables.
 
 Section 108(b)(5) of the North American Free Trade Agreement Implementation Act, referred to in subsec. (b)(5)(D)(ii), is section 108(b)(5) of Pub. L. 103–182, which was classified to section 3317(b)(5) of Title 19, Customs Duties, prior to repeal by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 

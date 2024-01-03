@@ -68,7 +68,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (2) Opportunity to respond
 
-&emsp;The Commission shall afford the satellite carrier against which a complaint is filed under paragraph (1) an opportunity to present data and arguments to establish that there has been no failure to meet its obligations under this section.
+&emsp;The Commission shall afford the satellite carrier against which a complaint is filed under paragraph (1) an opportunity to present data and arguments to establish that therehas been no failure to meet its obligations under this section.
 
 #### (3) Remedial actions; dismissal
 
@@ -138,7 +138,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 &emsp;&emsp;(D) the times and place at which the subscriber may have access to such information in accordance with paragraph (5); and
 
-&emsp;&emsp;(E) the limitations provided by this section with respect to the collection and disclosure of information by a satellite carrier and the right of the subscriber under paragraphs (7) and (9) to enforce such limitations.
+&emsp;&emsp;(E) the limitations provided by this section with respect to the collection and disclosure of information by a satellite carrierand the right of the subscriber under paragraphs (7) and (9) to enforce such limitations.
 
 > &emsp;In the case of subscribers who have entered into such an agreement before the effective date of this subsection, such notice shall be provided within 180 days of such date and at least once a year thereafter.
 
@@ -222,7 +222,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (9) Court orders
 
-&emsp;Except as provided in paragraph (4)(B)(iv), a governmental entity may obtain personally identifiable information concerning a satellite subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
+&emsp;Except as provided in paragraph (4)(B)(iv), a governmental entity may obtain personally identifiable information concerning a satellite subscriber pursuant to a court order only if, inthe court proceeding relevant to such court order—
 
 &emsp;&emsp;(A) such entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case; and
 
@@ -308,7 +308,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(iii) whether modifying the local market of the television station would promote consumers' access to television broadcast station signals that originate in their State of residence;
 
-&emsp;&emsp;&emsp;(iv) whether any other television station that is eligible to be carried by a satellite carrier in such community in fulfillment of the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
+&emsp;&emsp;&emsp;(iv) whether any other television station that is eligible to be carried by a satellite carrier in such community in fulfillmentof the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
 
 &emsp;&emsp;&emsp;(v) evidence of viewing patterns in households that subscribe and do not subscribe to the services offered by multichannel video programming distributors within the areas served by such multichannel video programming distributors in such community.
 
@@ -446,7 +446,7 @@ Termination.—The requirement under paragraph (1) shall cease after each satell
 
 Definitions.—In this section—
 
-&emsp;"(1) the terms 'local market' and 'satellite carrier' have the meaning given such terms in section 339(d)of the Communications Act of 1934 (47 U.S.C. 339(d)); and
+&emsp;"(1) the terms 'local market' and 'satellite carrier' have the meaning given such terms in section 339(d) of the Communications Act of 1934 (47 U.S.C. 339(d)); and
 
 &emsp;"(2) the term 'television broadcast station' has the meaning given such term in section 325(b)(7) of the Communications Act of 1934 (47 U.S.C. 325(b)(7))."
 
@@ -562,7 +562,7 @@ Limitation on commission.—Except as provided in paragraphs (1) and (2), the Co
 
 "(c)
 
-Report.—Not later than January 1, 2001, the Commission shall report to the Agriculture, Appropriations, and the Judiciary Committees of the Senate and the House of Representatives, the Senate Committee onCommerce, Science, and Transportation, and the House of Representatives Committee on Commerce \[now Committee on Energy and Commerce\], on the extent to which licenses and other authorizations under subsection (a) have facilitated the delivery of local signals to satellite television subscribers in unserved and underserved local television markets. The report shall include—
+Report.—Not later than January 1, 2001, the Commission shall report to the Agriculture, Appropriations, and the Judiciary Committees of the Senate and the House of Representatives, the Senate Committee on Commerce, Science, and Transportation, and the House of Representatives Committee on Commerce \[now Committee on Energy and Commerce\], on the extent to which licenses and other authorizations under subsection (a) have facilitated the delivery of local signals to satellite television subscribers in unserved and underserved local television markets. The report shall include—
 
 &emsp;"(1) an analysis of the extent to which local signals are being provided by direct-to-home satellite television providers and by other multichannel video program distributors;
 

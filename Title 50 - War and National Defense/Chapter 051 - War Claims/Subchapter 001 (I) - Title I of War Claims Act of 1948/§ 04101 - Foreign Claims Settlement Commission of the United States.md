@@ -18,7 +18,7 @@ The Commission may prescribe such rules and regulations as may be necessary to e
 
 (4) Any member of the Commission, and any employee of the Commission authorized by the Commission to do so, may administer to, or take from, any person an oath, affirmation, or affidavit when such action is necessary or appropriate in the performance of the functions or activities of the Commission.
 
-(July 3, 1948, ch. 826, title I, §2, 62 Stat. 1240; May 27, 1949, ch. 145, §1(1), 63 Stat. 112; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Aug. 16, 1950, ch. 718, 64 Stat. 449; Apr. 5, 1951, ch. 27, 65 Stat. 28; 1954 Reorg. Plan No. 1 §§2, 4, eff. July1, 1954, 19 F.R. 3985, 68 Stat. 1279; Aug. 21, 1954, ch. 784, §3, 68 Stat. 762; Pub. L. 87–846, title I, §§102, 104(a), Oct. 22, 1962, 76 Stat. 1107, 1113; Pub. L. 96–209, title I, §108, Mar. 14, 1980, 94 Stat. 97.)
+(July 3, 1948, ch. 826, title I, §2, 62 Stat. 1240; May 27, 1949, ch. 145, §1(1), 63 Stat. 112; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Aug. 16, 1950, ch. 718, 64 Stat. 449; Apr. 5, 1951, ch. 27, 65 Stat. 28; 1954 Reorg. Plan No. 1 §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279; Aug. 21, 1954, ch. 784, §3, 68 Stat. 762; Pub. L. 87–846, title I, §§102, 104(a), Oct. 22, 1962, 76 Stat. 1107, 1113; Pub. L. 96–209, title I, §108, Mar. 14, 1980, 94 Stat. 97.)
 
 #### <b>Editorial Notes</b>
 

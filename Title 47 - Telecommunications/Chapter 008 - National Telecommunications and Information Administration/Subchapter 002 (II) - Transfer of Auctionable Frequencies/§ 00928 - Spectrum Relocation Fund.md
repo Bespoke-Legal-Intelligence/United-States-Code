@@ -22,7 +22,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 &emsp;None of the funds provided under this subsection may be transferred to any eligible Federal entity—
 
-&emsp;&emsp;(A) unless the eligible Federal entity has submitted a transition plan to the NTIA as required by paragraph (1) of section 923(h) of this title, the Technical Panel has foundsuch plan sufficient under paragraph (4) of such section, and the NTIA has made available such plan on its website as required by paragraph (5) of such section;
+&emsp;&emsp;(A) unless the eligible Federal entity has submitted a transition plan to the NTIA as required by paragraph (1) of section 923(h) of this title, the Technical Panel has found such plan sufficient under paragraph (4) of such section, and the NTIA has made available such plan on its website as required by paragraph (5) of such section;
 
 &emsp;&emsp;(B) unless the Director of OMB has determined, in consultation with the NTIA, the appropriateness of such costs and the timeline for relocation or sharing; and
 
@@ -84,7 +84,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 &emsp;&emsp;(iii) such notice shall include, in addition to such plan, an explanation of need for such subsequent transfer or transfers.
 
-&emsp;(C) Such transferred amounts shall be credited to the appropriations account of the eligible Federal entity which has incurred, or willincur, such costs, and shall, subject to paragraph (2), remain available until expended.
+&emsp;(C) Such transferred amounts shall be credited to the appropriations account of the eligible Federal entity which has incurred, or will incur, such costs, and shall, subject to paragraph (2), remain available until expended.
 
 &emsp;(D) At the request of an eligible Federal entity, the Director of the Office of Management and Budget (in this subsection referred to as "OMB") may transfer the amount under subparagraph (A) immediately—
 
@@ -116,7 +116,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 &emsp;&emsp;&emsp;(i) such payment shall be based on the market value of the eligible frequencies, the timeliness with which the eligible Federal entity clears its use of such frequencies, and the need for such frequencies in order for the entity to conduct its essential missions;
 
-&emsp;&emsp;&emsp;(ii) the eligible Federal entity shall use such payment for the purposes specified in clauses (i) through (v) of section 923(g)(3)(A) of this title to achieve comparable capability of systems affected by the reallocation of eligible frequencies from Federal use to exclusive non-Federal use or to shared use;
+&emsp;&emsp;&emsp;(ii) the eligible Federal entity shall use such payment for the purposes specified inclauses (i) through (v) of section 923(g)(3)(A) of this title to achieve comparable capability of systems affected by the reallocation of eligible frequencies from Federal use to exclusive non-Federal use or to shared use;
 
 &emsp;&emsp;&emsp;(iii) such payment may not be made if the amount remaining in the Fund after such payment will be less than 10 percent of the winning bids in the auction of the spectrum with respect to which the Federal entity is incurring relocation or sharing costs; and
 

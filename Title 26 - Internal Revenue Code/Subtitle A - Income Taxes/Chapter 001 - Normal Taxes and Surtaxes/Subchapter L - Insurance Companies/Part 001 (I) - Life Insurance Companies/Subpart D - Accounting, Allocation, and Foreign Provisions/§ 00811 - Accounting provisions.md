@@ -32,7 +32,7 @@ All computations entering into the determination of the taxes imposed by this pa
 
 #### (3) Exception
 
-&emsp;No accrual of discount shall be required under paragraph (1) on any bond (as defined insection 171(d)), except in the case of discount which is—
+&emsp;No accrual of discount shall be required under paragraph (1) on any bond (as defined in section 171(d)), except in the case of discount which is—
 
 &emsp;&emsp;(A) interest to which section 103 applies, or
 

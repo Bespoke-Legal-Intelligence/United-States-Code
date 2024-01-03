@@ -62,7 +62,7 @@ Protection from disclosure.—
 
 &emsp;(A)
 
-In general.—The Secretary may protect from disclosure any information developed pursuant to a transaction under paragraph (1)that would be protected from disclosure under section 552(b)(4) of title 5, if obtained from a person other than a Federal agency—
+In general.—The Secretary may protect from disclosure any information developed pursuant to a transaction under paragraph (1) that would be protected from disclosure under section 552(b)(4) of title 5, if obtained from a person other than a Federal agency—
 
 &emsp;&emsp;(i) for up to 5 years after the date on which the information is developed; or
 
@@ -142,7 +142,7 @@ Pub. L. 109–13, div. A, title VI, §6022(a), (b), May 11, 2005, 119 Stat. 285,
 
 #### Pilot Program Relating to Use of Proceeds of Disposal or Utilization of Certain Department of Energy Assets
 
-Pub. L. 105–85, div. C, title XXXI, §3138, Nov. 18, 1997, 111 Stat. 2039, which was formerly set out as a note under this section, was renumbered section 4833 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(13)(A)–(C), Nov. 24, 2003, 117 Stat.1786, and is classified to section 2813 of Title 50, War and National Defense.
+Pub. L. 105–85, div. C, title XXXI, §3138, Nov. 18, 1997, 111 Stat. 2039, which was formerly set out as a note under this section, was renumbered section 4833 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(13)(A)–(C), Nov. 24, 2003, 117 Stat. 1786, and is classified to section 2813 of Title 50, War and National Defense.
 
 #### Contract Goal for Small Disadvantaged Businesses and Certain Institutions of Higher Education
 
@@ -180,7 +180,7 @@ Pub. L. 95–238, title II, §204, Feb. 25, 1978, 92 Stat. 59, as amended by Pub
 
 "(b) The Secretary of Energy shall submit annually to the appropriate committees of the House of Representatives and the Senate a full report on the actions taken in carrying out subsection (a) during the preceding year, including the extent to which small business concerns are participating in the programs involved and in projects and activities of various types and sizes within each such program, and indicating the steps currently taken to assure such participation in the future. Such report shall also contain such information as may be required by section 308 of the Act of December 31, 1975 (42 U.S.C. 5878a; 89 Stat. 1074)."
 
-\[For termination, effective May 15, 2000, of reporting provisions in section 204(b) of Pub. L. 95–238, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 21st item on page 89 of House Document No. 103–7.\]
+\[For termination, effective May 15, 2000, of reporting provisions in section 204(b) of Pub. L. 95–238, set outabove, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 21st item on page 89 of House Document No. 103–7.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

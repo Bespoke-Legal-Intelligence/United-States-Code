@@ -15,6 +15,46 @@
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Military Intelligence Collection and Analysis Partnerships
+
+Pub. L. 118–31, div. A, title XVI, §1621, Dec. 22, 2023, 137 Stat. 590, provided that:
+
+"(a)
+
+Use of Funds Other Than Appropriated Funds.—
+
+&emsp;"(1)
+
+In general.—Subject to paragraph (2), the Director of the Defense Intelligence Agency, in coordination with the Director of National Intelligence, may accept and expend funds from one or more foreign partners for the foreign partner (or partners, as the case may be) to share with the Defense Intelligence Agency the expenses of joint and combined military intelligence collection and analysis activities.
+
+&emsp;"(2)
+
+Limitations.—
+
+&emsp;&emsp;"(A)
+
+Previously denied funds.—Funds accepted under this section may not be expended, in whole or in part, by or for the benefit of the Defense Intelligence Agency for any purpose for which Congress has previously denied funds.
+
+&emsp;&emsp;"(B)
+
+Joint benefit.—The authority under paragraph (1) may not be used to acquire items or services for the sole benefit of the United States.
+
+"(b)
+
+Annual Report.—Not later than March 1, 2025, and annually thereafter for four years, the Director of the Defense Intelligence Agency shall submit to the appropriate congressional committees a report on any funds accepted or expended under this section during the preceding calendar year, including an identification of the foreign partner or partners involved and a description of the purpose of such funds.
+
+"(c)
+
+Termination.—The authority to accept and expend funds from a foreign partner pursuant to this section shall terminate on December 31, 2028.
+
+"(d)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and
+
+&emsp;"(2) the Committee on Armed Services, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives."
+
 #### Incorporation of Controlled Unclassified Information Guidance Into Program Classification Guides and Program Protection Plans
 
 Pub. L. 117–263, div. A, title VIII, §884, Dec. 23, 2022, 136 Stat. 2746, provided that:
@@ -25,7 +65,7 @@ Updates Required.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall, acting through the Under Secretary of Defense for Intelligence and Security and the Under Secretary of Defense for Research and Engineering, ensure that all program classification guides (for classified programs) and all program protection plans (for unclassified programs) include guidance for the proper marking for controlled unclassified information at their next regularly scheduled update.
+In general.—The Secretary of Defense shall, acting through the Under Secretary of Defense for Intelligence and Security and the Under Secretary of Defense for Research and Engineering, ensure that allprogram classification guides (for classified programs) and all program protection plans (for unclassified programs) include guidance for the proper marking for controlled unclassified information at their next regularly scheduled update.
 
 &emsp;"(2)
 
@@ -83,7 +123,7 @@ Designation.—The mission manager for the Program shall be known as the 'Progra
 
 "(c)
 
-Sources of Information and Analysis.—If the Director establishes the Program, the Program Manager shall ensure that the Program makes use of all available sources of information, from public, commercial, and classified sources across the intelligence community and the Department of Defense, and advanced analytics, including artificial intelligence, to establish a system capable of discerning deviations from normalpatterns of behavior and activity that may indicate preparations for military actions.
+Sources of Information and Analysis.—If the Director establishes the Program, the Program Manager shall ensure that the Program makes use of all available sources of information, from public, commercial, and classified sources across the intelligence community and the Department of Defense, and advanced analytics, including artificial intelligence, to establish a system capable of discerning deviations from normal patterns of behavior and activity that may indicate preparations for military actions.
 
 "(d)
 
@@ -193,7 +233,7 @@ Matters Included in Plan.—The plan under subsection (a) shall include the foll
 
 &emsp;&emsp;"(A) with respect to intelligence that has not been processed or analyzed, to separate out data from the sources and methods by which the data is obtained (commonly known as 'tearlining'); and
 
-&emsp;&emsp;"(B) with respect to finished intelligence products that relate to foreign malign influence, coercion, and subversion activities of a covered foreigncountry described in such subsection, to downgrade the classification level of the product.
+&emsp;&emsp;"(B) with respect to finished intelligence products that relate to foreign malign influence, coercion, and subversion activities of a covered foreign country described in such subsection, to downgrade the classification level of the product.
 
 &emsp;"(6) \[(5)\] An identification of any additional resources or legislative authority necessary to better meet the intelligence and information requirements described in such subsection.
 
@@ -303,7 +343,7 @@ Quarterly Briefings.—The Secretary of Defense shall quarterly provide to the c
 
 "(d)
 
-Covered Congressional Committees Defined.—In this section, the term 'covered congressional committees' means the congressional defense committees\[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate."
+Covered Congressional Committees Defined.—In this section, the term 'covered congressional committees' means the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate."
 
 
 ---

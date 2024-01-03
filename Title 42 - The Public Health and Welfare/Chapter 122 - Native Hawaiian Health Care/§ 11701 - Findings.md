@@ -24,7 +24,7 @@ The Congress finds that:
 
 &emsp;(9) In a message to Congress on December 18, 1893, then President Grover Cleveland reported fully and accurately on these illegal actions, and acknowledged that by these acts, described by the President as acts of war, the government of a peaceful and friendly people was overthrown, and the President concluded that a "substantial wrong has thus been done which a due regard for our national character as well as the rights of the injured people required that we should endeavor to repair".
 
-&emsp;(10) Queen Lili'uokalani, the lawful monarch of Hawaii, and the Hawaiian Patriotic League, representing the aboriginal citizens of Hawaii, promptly petitioned the United States for redress of these wrongs and for restoration of the indigenous government of the Hawaiian nation, but this petition was not acted upon.
+&emsp;(10) Queen Lili'uokalani, the lawful monarch of Hawaii, and the Hawaiian Patriotic League, representing the aboriginal citizens of Hawaii,promptly petitioned the United States for redress of these wrongs and for restoration of the indigenous government of the Hawaiian nation, but this petition was not acted upon.
 
 &emsp;(11) In 1898, the United States annexed Hawaii through the Newlands Resolution without the consent of or compensation to the indigenous people of Hawaii or their sovereign government who were thereby denied the mechanism for expression of their inherent sovereignty through self-government and self-determination, their lands and ocean resources.
 

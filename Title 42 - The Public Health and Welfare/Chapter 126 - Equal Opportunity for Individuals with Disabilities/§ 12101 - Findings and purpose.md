@@ -54,7 +54,7 @@ Amendment by Pub. L. 110–325 effective Jan. 1, 2009, see section 8 of Pub. L. 
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–325, §1, Sept. 25, 2008, 122 Stat. 3553, provided that: "This Act \[enacting sections 12103 and 12205a of this title, amending this section, sections 12102, 12111 to 12114, 12201, and 12206 to 12213 of this title, section 705 and former section 706 of Title 29, Labor, and enacting provisions set out as notes under this section and section 705 of Title 29\] may be cited as the 'ADA Amendments Act of 2008'."
+Pub. L. 110–325, §1, Sept. 25, 2008, 122 Stat. 3553, provided that: "This Act \[enacting sections 12103 and12205a of this title, amending this section, sections 12102, 12111 to 12114, 12201, and 12206 to 12213 of this title, section 705 and former section 706 of Title 29, Labor, and enacting provisions set out as notes under this section and section 705 of Title 29\] may be cited as the 'ADA Amendments Act of 2008'."
 
 #### Short Title
 

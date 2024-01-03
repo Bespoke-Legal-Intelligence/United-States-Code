@@ -30,7 +30,7 @@
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(1). Pub. L. 112–186 inserted at end "If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this subsection is greater."
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–186 inserted at end "If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offenseshall be the same as the punishment for an offense under section 670 unless the punishment under this subsection is greater."
 
 <b>2009</b>—Subsec. (f)(3). Pub. L. 111–21 added par. (3) and struck out former par. (3) which read as follows: "the term 'specified unlawful activity' has the meaning given that term in section 1956 of this title."
 
@@ -40,7 +40,7 @@
 
 <b>1992</b>—Subsec. (f)(1). Pub. L. 102–550 substituted "section 1956 of this title" for "section 5312 of title 31" and inserted ", including any transaction that would be a financial transaction under section 1956(c)(4)(B) of this title," before "but such term does not include".
 
-<b>1988</b>—Subsec. (e). Pub. L. 100–690, §6469(a)(2), substituted "and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General." for ". Such authorityof the Secretary of the Treasury shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General."
+<b>1988</b>—Subsec. (e). Pub. L. 100–690, §6469(a)(2), substituted "and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General." for ". Such authority of the Secretary of the Treasury shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General."
 
 Subsec. (f)(1). Pub. L. 100–690, §§6182, 6184, substituted "in section 1956(c)(5) of this title" for "for the purposes of subchapter II of chapter 53 of title 31" and inserted ", but such term does not include any transaction necessary to preserve a person's right to representation as guaranteed by the sixth amendment to the Constitution".
 

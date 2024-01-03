@@ -26,7 +26,7 @@ Covered Law.—A provision of law referred to in subsection (b)(2) is a provisio
 
 (d)
 
-Petition.—A person may petition the Administrator to take appropriate action when a provision of law described in subsection (c) is not included on the list of inapplicable provisions of law as required by subsection (b) and the Council has not made a written determination pursuant to subsection (b)(2). The Administrator shall revise the Federal Acquisition Regulation to include the provision on the list of inapplicable provisions of law unless the Council makes a determination pursuant to subsection (b)(2) within 60 days after the petition is received.
+Petition.—A person may petition the Administrator to take appropriate action when a provision of law described in subsection (c) is not included on the list of inapplicable provisions of law as required by subsection (b) andthe Council has not made a written determination pursuant to subsection (b)(2). The Administrator shall revise the Federal Acquisition Regulation to include the provision on the list of inapplicable provisions of law unless the Council makes a determination pursuant to subsection (b)(2) within 60 days after the petition is received.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3722.)
 

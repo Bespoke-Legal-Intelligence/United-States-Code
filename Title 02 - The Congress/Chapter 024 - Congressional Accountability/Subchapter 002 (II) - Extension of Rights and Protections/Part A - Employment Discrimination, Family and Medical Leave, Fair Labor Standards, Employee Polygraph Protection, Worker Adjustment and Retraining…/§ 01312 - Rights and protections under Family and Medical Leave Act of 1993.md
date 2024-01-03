@@ -100,7 +100,7 @@ Subsecs. (d) to (f). Pub. L. 116–92, §7603(a)(2), (3), added subsec. (d) and 
 
 #### Effective Date of 2021 Amendment
 
-Pub. L. 116–283, div. A, title XI, §1103(g)(2), Jan. 1, 2021, 134 Stat. 3889, provided that: "The amendment made by this subsection \[amending this section\] shallapply with respect to any event for which leave may be taken under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1995 \[probably means Family and Medical Leave Act of 1993\] (29 U.S.C. 2612(a)(1)) and occurring on or after October 1, 2020."
+Pub. L. 116–283, div. A, title XI, §1103(g)(2), Jan. 1, 2021, 134 Stat. 3889, provided that: "The amendment made by this subsection \[amending this section\] shall apply with respect to any event for which leave may be taken under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1995 \[probably means Family and Medical Leave Act of 1993\] (29 U.S.C. 2612(a)(1)) and occurring on or after October 1, 2020."
 
 #### Effective Date of 2019 Amendment
 

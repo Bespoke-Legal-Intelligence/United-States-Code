@@ -6,7 +6,7 @@
 
 (c) A witness complying with a subpoena issued under this section may be paid for actual travel and attendance at the rate provided for witnesses in the district courts of the United States.
 
-(d) An official designated to conduct an investigation under this part may issue subpoenas as provided in this section and administer oaths to witnesses.
+(d) An official designated to conduct an investigation under this part may issue subpoenas asprovided in this section and administer oaths to witnesses.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 538; Pub. L. 117–263, div. K, title CXVIII, §11807(a), Dec. 23, 2022, 136 Stat. 4165.)
 

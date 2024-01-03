@@ -38,7 +38,7 @@ Joint economic management committee.—
 
 &emsp;&emsp;(i)
 
-In general.—The three United States appointees (United States chair plus two members) to the Joint Economic Management Committee provided for in section 213 of the U.S.-FSM Compact and Article III of the U.S.-FSM Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-FSM Compact shall be United States Government officers or employees.
+In general.—The three United States appointees (United States chair plus two members) to the Joint Economic Management Committee provided for in section 213 of the U.S.-FSM Compact and Article III ofthe U.S.-FSM Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-FSM Compact shall be United States Government officers or employees.
 
 &emsp;&emsp;(ii)
 
@@ -58,7 +58,7 @@ In general.—The three United States appointees (United States chair plus two m
 
 &emsp;&emsp;(ii)
 
-Departments.—It is the sense of Congress that 2 of the 3 appointees should be designated from the Department of State and the Department of the Interior, and that U.S. officials of the Asian DevelopmentBank shall be consulted in order to properly coordinate U.S. and Asian Development Bank financial, program, and technical assistance.
+Departments.—It is the sense of Congress that 2 of the 3 appointees should be designated from the Department of State and the Department of the Interior, and that U.S. officials of the Asian Development Bank shall be consulted in order to properly coordinate U.S. and Asian Development Bank financial, program, and technical assistance.
 
 &emsp;&emsp;(iii)
 
@@ -122,7 +122,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 &emsp;&emsp;&emsp;In lieu of eligibility for appropriations under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.), titles I \[29 U.S.C. 3111 et seq.\] (other than subtitle C \[29 U.S.C. 3191 et seq.\]) and II \[29 U.S.C. 3271 et seq.\] of the Workforce Innovation and Opportunity Act, title I of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2321 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), and subpart 3 of part A, and part C, of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq., 42 U.S.C. 2751 et seq.),<sup>1</sup> there are authorized to be appropriated to the Secretary of Education to supplement the education grants under section 211(a)(1) of the U.S.-FSM Compact and section 211(a)(1) of the U.S.-RMI Compact, respectively, the following amounts:
 
-&emsp;&emsp;&emsp;&emsp;(I) $12,230,000 for the Federated States of Micronesia for fiscal year 2005 and an equivalent amount, as adjusted for inflation under section 217 of the U.S.-FSM Compact, for each of fiscal years 2005 through 2023; and
+&emsp;&emsp;&emsp;&emsp;(I) $12,230,000 for the Federated States of Micronesia for fiscal year 2005 and anequivalent amount, as adjusted for inflation under section 217 of the U.S.-FSM Compact, for each of fiscal years 2005 through 2023; and
 
 &emsp;&emsp;&emsp;&emsp;(II) $6,100,000 for the Republic of the Marshall Islands for fiscal year 2005 and an equivalent amount, as adjusted for inflation under section 218 of the U.S.-RMI Compact, for each of fiscal years 2005 through 2023,
 
@@ -130,7 +130,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (iv) Fiscal procedures
 
-&emsp;&emsp;&emsp;Appropriations made pursuant to clause (iii) shall be used and monitored in accordance with an agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior, and in accordance with the respective Fiscal Procedures Agreements referred to in section 462(b)(4) of the U.S.-FSM Compact and section 462(b)(4) of the U.S.-RMI Compact. The agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior shall provide for the transfer, not laterthan 60 days after the appropriations made pursuant to clause (iii) become available to the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, from the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, to the Secretary of the Interior for disbursement.
+&emsp;&emsp;&emsp;Appropriations made pursuant to clause (iii) shall be used and monitored in accordance with an agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior, and in accordance with the respective Fiscal Procedures Agreements referred to in section 462(b)(4) of the U.S.-FSM Compact and section 462(b)(4) of the U.S.-RMI Compact. The agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior shall provide for the transfer, not later than 60 days after the appropriations made pursuant to clause (iii) become available to the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, from the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, to the Secretary of the Interior for disbursement.
 
 #### (v) Formula education grants
 
@@ -160,7 +160,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (2) Tort claims
 
-&emsp;The provisions of section 178 of the U.S.-FSM Compact and the U.S.-RMI Compact regarding settlement and payment of tort claims shall apply to employees of any Federal agency of the Government of the United States (and to any other person employed on behalf of any Federal agency of the Government of the United States on the basis of a contractual, cooperative, or similar agreement) which provides any service or carries out any other function pursuant to or in furtherance of any provisions of the U.S.-FSM Compact or the U.S.-RMI Compact or this joint resolution, except for provisions of Title Three of the Compact and of the subsidiary agreements related to such Title, in such area to which such Agreement formerly applied.
+&emsp;The provisions of section 178 of the U.S.-FSM Compact and the U.S.-RMI Compact regarding settlement and payment of tort claims shall apply to employees of any Federal agency of the Government of the United States (and to any other person employed on behalf of any Federal agency of the Government of the United States on the basis of a contractual, cooperative, or similar agreement) which provides any service or carries out any other function pursuant to or in furtherance of any provisions of the U.S.-FSM Compact or the U.S.-RMI Compact or thisjoint resolution, except for provisions of Title Three of the Compact and of the subsidiary agreements related to such Title, in such area to which such Agreement formerly applied.
 
 #### (3) PCB cleanup
 
@@ -178,7 +178,7 @@ Neither the Government of the Federated States of Micronesia nor the Government 
 
 #### (1) In general
 
-&emsp;In addition to amounts provided under section 211(a)(4) of the U.S.-FSM Compact and theU.S.-RMI Compact, the Secretary of the Interior shall annually provide $300,000 for the training of judges and officials of the judiciary in the Federated States of Micronesia and the Republic of the Marshall Islands in cooperation with the Pacific Islands Committee of the Ninth Circuit Judicial Council and in accordance with and to the extent provided in the Federal Programs and Services Agreement and the Fiscal Procedure Agreement, as appropriate.
+&emsp;In addition to amounts provided under section 211(a)(4) of the U.S.-FSM Compact and the U.S.-RMI Compact, the Secretary of the Interior shall annually provide $300,000 for the training of judges and officials of the judiciary in the Federated States of Micronesia and the Republic of the Marshall Islands in cooperation with the Pacific Islands Committee of the Ninth Circuit Judicial Council and in accordance with and to the extent provided in the Federal Programs and Services Agreement and the Fiscal Procedure Agreement, as appropriate.
 
 #### (2) Authorization and continuing appropriation
 
@@ -202,7 +202,7 @@ There are authorized to be appropriated for grants to the Government of the Fede
 
 #### (n) User fees
 
-Any person in the Federated States of Micronesia or the Republic of the Marshall Islands shall be liable for user fees, if any, for services provided in the Federated States of Micronesia or the Republic of the Marshall Islands by the Government of the United States to the same extent as any person in the United States would be liable for fees, if any, for such services in the United States.
+Any person in the Federated States of Micronesia or the Republic of the Marshall Islands shall be liable for user fees, if any, for services provided in the Federated States of Micronesia or the Republic of the Marshall Islands by the Government of the United States to the sameextent as any person in the United States would be liable for fees, if any, for such services in the United States.
 
 #### (o) Treatment of judgments of courts of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau
 
@@ -220,7 +220,7 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 &emsp;&emsp;(A) creating a new legal entity to constitute the trust fund; or
 
-&emsp;&emsp;(B) assuming control of an existing legal entity including, without limitation, a trustfund or other legal entity that was established by or at the direction of the Government of the United States, the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands, or otherwise for the purpose of facilitating or expediting the establishment of the trust fund pursuant to the applicable Trust Fund Agreement.
+&emsp;&emsp;(B) assuming control of an existing legal entity including, without limitation, a trust fund or other legal entity that was established by or at the direction of the Government of the United States, the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands, or otherwise for the purpose of facilitating or expediting the establishment of the trust fund pursuant to the applicable Trust Fund Agreement.
 
 #### (3) Obligations
 

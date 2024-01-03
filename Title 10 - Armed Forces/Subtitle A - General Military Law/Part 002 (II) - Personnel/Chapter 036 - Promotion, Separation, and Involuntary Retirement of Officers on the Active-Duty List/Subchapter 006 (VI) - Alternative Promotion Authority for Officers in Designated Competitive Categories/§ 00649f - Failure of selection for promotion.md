@@ -10,7 +10,7 @@ Inapplicability of Failure of Selection for Promotion to Officers Above Promotio
 
 (c)
 
-Special Selection Board Matters.—The reference in section 628(a)(1) of this title to a person above the promotion zone shall not apply in the promotion of officers described in subsection (a).
+Special Selection Board Matters.—The reference in section 628(a)(1) of this title to aperson above the promotion zone shall not apply in the promotion of officers described in subsection (a).
 
 (d)
 

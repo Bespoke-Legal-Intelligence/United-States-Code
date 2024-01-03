@@ -22,7 +22,7 @@ In the case of a modified guaranteed contract, clause (ii) of section 807(e)(1)(
 
 #### (2) Segregated asset
 
-&emsp;For purposes of paragraph (1), the term "segregated asset" means any asset held as part ofa segregated account referred to in subsection (d)(1) under a modified guaranteed contract.
+&emsp;For purposes of paragraph (1), the term "segregated asset" means any asset held as part of a segregated account referred to in subsection (d)(1) under a modified guaranteed contract.
 
 #### (c) Special rule in computing life insurance reserves
 

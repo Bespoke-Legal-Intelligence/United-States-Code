@@ -18,7 +18,7 @@
 
 #### (2) Exclusion
 
-&emsp;The estimates under this subsection shall not apply to sugar imported for the production of polyhydric alcohol or to any sugar refinedand reexported in refined form or in products containing sugar.
+&emsp;The estimates under this subsection shall not apply to sugar imported for the production of polyhydric alcohol or to any sugar refined and reexported in refined form or in products containing sugar.
 
 #### (3) Reestimates
 
@@ -82,6 +82,8 @@
 
 #### Codification
 
+Provisions of law applicable to sugarcane or sugar beets for the 2023 crop year pursuant to title I of Pub. L. 113–79 and amendment made by section 1301 of Pub. L. 115–334 applicable to the 2024 crop year for sugarcane or sugar beets, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
@@ -94,7 +96,7 @@ A prior section 1359bb, act Feb. 16, 1938, ch. 30, title III, §359b, as added P
 
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–79 substituted "2018" for "2012".
 
-<b>2008</b>—Pub. L. 110–246, §1403(b), amended section generally, substituting provisions relating to sugar estimates for 2008 through 2012 crop years, establishment of allotments, coverage of allotments, and prohibition against marketing in excess of allotments, for provisions relating to sugar estimates for 2002 through 2007 crop years, establishment of allotments, and prohibition against marketing in excess of allotments.
+<b>2008</b>—Pub. L. 110–246, §1403(b), amended section generally, substituting provisions relating to sugar estimates for 2008 through 2012 crop years, establishment of allotments, coverage of allotments, and prohibitionagainst marketing in excess of allotments, for provisions relating to sugar estimates for 2002 through 2007 crop years, establishment of allotments, and prohibition against marketing in excess of allotments.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

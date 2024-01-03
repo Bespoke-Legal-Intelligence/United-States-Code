@@ -12,7 +12,7 @@
 
 (2) A certificate of appealability may issue under paragraph (1) only if the applicant has made a substantial showing of the denial of a constitutional right.
 
-(3) The certificate of appealability under paragraph (1) shall indicate which specific issue orissues satisfy the showing required by paragraph (2).
+(3) The certificate of appealability under paragraph (1) shall indicate which specific issue or issues satisfy the showing required by paragraph (2).
 
 (June 25, 1948, ch. 646, 62 Stat. 967; May 24, 1949, ch. 139, §113, 63 Stat. 105; Oct. 31, 1951, ch. 655, §52, 65 Stat. 727; Pub. L. 104–132, title I, §102, Apr. 24, 1996, 110 Stat. 1217.)
 

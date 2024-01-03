@@ -38,7 +38,7 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–445, §7, Oct. 10, 1978, 92 Stat. 1070, provided that: "The provisions of this Act \[see Short Title of 1978 Amendment note set out under section 601 of this title\] shall become effective one year after the date of enactment \[Oct. 10, 1978\]. However, such provisions shall not apply to a person, firm, or corporation forsuch additional period of time, not to exceed eighteen months, as may be determined by the Secretary, if the Secretary, upon application, finds that compliance with the provisions of this Act on its effective date would cause undue hardship on such person, firm, or corporation."
+Pub. L. 95–445, §7, Oct. 10, 1978, 92 Stat. 1070, provided that: "The provisions of this Act \[see Short Title of 1978 Amendment note set out under section 601 of this title\] shall become effective one year after the date of enactment \[Oct. 10, 1978\]. However, such provisions shall not apply to a person, firm, or corporation for such additional period of time, not to exceed eighteen months, as may be determined by the Secretary, if the Secretary, upon application, finds that compliance with the provisions of this Act on its effective date would cause undue hardship on such person, firm, or corporation."
 
 #### Effective Date of 1967 Amendment
 

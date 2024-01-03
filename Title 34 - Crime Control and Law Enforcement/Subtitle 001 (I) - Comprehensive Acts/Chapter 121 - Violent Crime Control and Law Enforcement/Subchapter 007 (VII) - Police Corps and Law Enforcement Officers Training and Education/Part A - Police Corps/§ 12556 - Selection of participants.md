@@ -18,7 +18,7 @@ Participants in State Police Corps programs shall be selected on a competitive b
 
 &emsp;(E) in the case of an undergraduate, agree in writing that the participant will complete an educational course of study leading to the award of a baccalaureate degree and will then accept an appointment and complete 4 years of service as an officer in the State police or in a local police department within the State;
 
-&emsp;(F) in the case of a participant desiring to undertake or continue graduate study, agree in writing that the participant will accept an appointment and complete 4 years of service as an officer in the State police or in a local police department within the State before undertaking or continuing graduate study;
+&emsp;(F) in the case of a participant desiring to undertake or continue graduate study, agree in writing that the participant will accept anappointment and complete 4 years of service as an officer in the State police or in a local police department within the State before undertaking or continuing graduate study;
 
 &emsp;(G) contract, with the consent of the participant's parent or guardian if the participant is a minor, to serve for 4 years as an officer in the State police or in a local police department, if an appointment is offered; and
 

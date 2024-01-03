@@ -4,7 +4,7 @@ Any specific action taken under this Act or any amendment made by this Act with 
 
 &emsp;(1) has resolved any unresolved abduction case that gave rise to such specific action; or
 
-&emsp;(2) has taken substantial and verifiable steps to correct such country's persistent pattern of noncompliance that gave rise to such specific action, as applicable.
+&emsp;(2) has taken substantial and verifiable steps to correct such country's persistent pattern ofnoncompliance that gave rise to such specific action, as applicable.
 
 (Pub. L. 113–150, title II, §205, Aug. 8, 2014, 128 Stat. 1821.)
 

@@ -30,7 +30,7 @@ Subsecs. (a) and (b) of this section comprise respectively subsecs. (b) and (c) 
 
 #### Amendments
 
-<b>1968</b>—Subsec. (b). Pub. L. 90–399 substituted "section 351 of Public Health Service Act (relating to viruses, serums, toxins, and analogous products applicable to man); the virus, serum, toxin, and analogous products provisions, applicable to domestic animals, of the Act of Congress approved March 4, 1913 (37 Stat. 832–833);"for "the virus, serum, and toxin Act of July 1, 1902 (U.S.C., 1934 ed., title 42, chap. 4);".
+<b>1968</b>—Subsec. (b). Pub. L. 90–399 substituted "section 351 of Public Health Service Act (relating to viruses, serums, toxins, and analogous products applicable to man); the virus, serum, toxin, and analogous products provisions, applicable to domestic animals, of the Act of Congress approved March 4, 1913 (37 Stat. 832–833);" for "the virus, serum, and toxin Act of July 1, 1902 (U.S.C., 1934 ed., title 42, chap. 4);".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

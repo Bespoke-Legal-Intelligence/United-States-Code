@@ -66,7 +66,7 @@ Whenever any person who has requested agency records under section 552 of title 
 
 (3) A complainant who alleges that the Central Intelligence Agency has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court's review shall be limited to determining the following:
 
-&emsp;(A) Whether the Central Intelligence Agency has conducted the review required by paragraph (1) before October 15, 1994, or before the expiration of the 10-year period beginning on the date of the most recent review.
+&emsp;(A) Whether the Central Intelligence Agency has conducted the review required by paragraph (1) before October 15, 1994, or before theexpiration of the 10-year period beginning on the date of the most recent review.
 
 &emsp;(B) Whether the Central Intelligence Agency, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
 

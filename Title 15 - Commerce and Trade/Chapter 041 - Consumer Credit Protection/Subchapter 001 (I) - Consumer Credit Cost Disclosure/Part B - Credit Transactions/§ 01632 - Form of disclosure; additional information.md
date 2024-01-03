@@ -6,7 +6,7 @@ Information required by this subchapter shall be disclosed clearly and conspicuo
 
 #### (b) Optional information by creditor or lessor
 
-Any creditor or lessor may supply additional information or explanation with any disclosuresrequired under parts D and E and, except as provided in sections 1637a(b)(3) and 1638(b)(1) of this title, under this part.
+Any creditor or lessor may supply additional information or explanation with any disclosures required under parts D and E and, except as provided in sections 1637a(b)(3) and 1638(b)(1) of this title, under this part.
 
 #### (c) Tabular format required for certain disclosures under section 1637(c)
 
@@ -114,7 +114,7 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
 
-For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–583, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–583, set out as a note under section 1637 of this title.
+For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–583, and effective date of such amendment in connection withthose regulations, see section 7 of Pub. L. 100–583, set out as a note under section 1637 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

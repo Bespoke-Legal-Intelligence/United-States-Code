@@ -1,6 +1,6 @@
 ### §752. Law clerks and secretaries
 
-District judges may appoint necessary law clerks and secretaries subject to any limitation on the aggregate salaries of such employeeswhich may be imposed by law. A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.
+District judges may appoint necessary law clerks and secretaries subject to any limitation on the aggregate salaries of such employees which may be imposed by law. A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.
 
 (June 25, 1948, ch. 646, 62 Stat. 921; Pub. L. 86–221, Sept. 1, 1959, 73 Stat. 452; Pub. L. 100–702, title X, §1003(a)(3), Nov. 19, 1988, 102 Stat. 4665.)
 
@@ -14,7 +14,7 @@ Words in section 128 of title 28, U.S.C., 1940 ed., "but there shall not be appo
 
 Provisions of section 128 of title 28, U.S.C., 1940 ed., relating to salary, or compensation of such clerks are incorporated in section 604 of this title. (See reviser's note under that section.)
 
-The provisions in section 5b of title 28, U.S.C., 1940 ed., that district judges shall not appoint more than three law clerks in any one circuit was not repeated in the Judiciary Appropriation Acts, 1944, 1945, and 1946, 57 Stat. 242, 58 Stat. 357, 59 Stat. 196, ch. 129. The Director of the Administrative Office for United States Courts advises that as a matter of fact, more than three law clerks are serving district judges in several of the circuits at the present time. Consequently the limitation is omitted from this section.
+The provisions in section 5b of title 28, U.S.C., 1940 ed., that district judges shall not appoint more thanthree law clerks in any one circuit was not repeated in the Judiciary Appropriation Acts, 1944, 1945, and 1946, 57 Stat. 242, 58 Stat. 357, 59 Stat. 196, ch. 129. The Director of the Administrative Office for United States Courts advises that as a matter of fact, more than three law clerks are serving district judges in several of the circuits at the present time. Consequently the limitation is omitted from this section.
 
 The provision for appointment of secretaries is new. Existing law fixes compensation of secretaries but makes no provision for their appointment. (See section 604 of this title and reviser's note thereunder.)
 

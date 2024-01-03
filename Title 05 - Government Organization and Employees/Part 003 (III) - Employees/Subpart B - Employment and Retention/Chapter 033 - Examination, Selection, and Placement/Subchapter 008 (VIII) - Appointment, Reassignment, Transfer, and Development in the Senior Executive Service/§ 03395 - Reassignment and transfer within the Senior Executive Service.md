@@ -20,7 +20,7 @@
 
 (2) Notwithstanding section 3394(b) of this title, a limited term appointee may be reassigned to another Senior Executive Service position in the same agency the duties of which will expire at the end of a term of 3 years or less, except that the appointee may not serve in one or more positions in the agency under such appointment in excess of 3 years.
 
-(c) A limited term appointee or a limited emergency appointee may not be appointed to, or continue to hold, a position under such an appointment if, within the preceding 48 months,the individual has served more than 36 months, in the aggregate, under any combination of such types of appointment.
+(c) A limited term appointee or a limited emergency appointee may not be appointed to, or continue to hold, a position under such an appointment if, within the preceding 48 months, the individual has served more than 36 months, in the aggregate, under any combination of such types of appointment.
 
 (d) A noncareer appointee in an agency—
 

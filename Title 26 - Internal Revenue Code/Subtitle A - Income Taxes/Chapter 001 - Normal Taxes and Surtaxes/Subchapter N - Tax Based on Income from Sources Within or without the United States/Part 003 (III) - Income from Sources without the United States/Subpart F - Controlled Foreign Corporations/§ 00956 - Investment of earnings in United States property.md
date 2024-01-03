@@ -38,7 +38,7 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;&emsp;(B) the average referred to in subsection (a)(1)(A) for such taxable year shall be determined by only taking into account quarters ending on or before such last day, and
 
-&emsp;&emsp;(C) in determining applicable earnings, the amount taken into account by reason of being described in paragraph (2) of section 316(a) shall be the portion of the amount so described which is allocable (on a pro rata basis) to the part of such year during whichthe corporation is a controlled foreign corporation.
+&emsp;&emsp;(C) in determining applicable earnings, the amount taken into account by reason of being described in paragraph (2) of section 316(a) shall be the portion of the amount so described which is allocable (on a pro rata basis) to the part of such year during which the corporation is a controlled foreign corporation.
 
 #### (c) United States property defined
 
@@ -86,7 +86,7 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;&emsp;(G) any movable property (other than a vessel or aircraft) which is used for the purpose of exploring for, developing, removing, or transporting resources from ocean waters or under such waters when used on the Continental Shelf of the United States;
 
-&emsp;&emsp;(H) an amount of assets of the controlled foreign corporation equal to the earnings and profits accumulated after December 31, 1962, and excluded from subpart F income under section 952(b);
+&emsp;&emsp;(H) an amount of assets of the controlled foreign corporation equal to the earningsand profits accumulated after December 31, 1962, and excluded from subpart F income under section 952(b);
 
 &emsp;&emsp;(I) deposits of cash or securities made or received on commercial terms in the ordinary course of a United States or foreign person's business as a dealer in securities or in commodities, but only to the extent such deposits are made or received as collateral or margin for (i) a securities loan, notional principal contract, options contract, forward contract, or futures contract, or (ii) any other financial transaction in which the Secretary determines that it is customary to post collateral or margin;
 

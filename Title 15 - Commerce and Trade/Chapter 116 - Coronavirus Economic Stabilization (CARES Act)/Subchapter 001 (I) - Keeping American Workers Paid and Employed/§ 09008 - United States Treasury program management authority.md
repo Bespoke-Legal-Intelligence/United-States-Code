@@ -166,7 +166,7 @@ Effective Dates.—
 
 &emsp;"(1)
 
-In general.—Except as otherwise provided in this subsection, subsections (a), (b), and (c) shall apply to taxable years ending after the date of the enactment of the CARES Act \[Pub. L. 116–136\].
+In general.—Except as otherwise provided in this subsection, subsections (a), (b), and (c) shall apply to taxable years ending after the date of the enactment of the CARES Act \[Pub. L. 116–136, approved Mar. 27, 2020\].
 
 &emsp;"(2)
 

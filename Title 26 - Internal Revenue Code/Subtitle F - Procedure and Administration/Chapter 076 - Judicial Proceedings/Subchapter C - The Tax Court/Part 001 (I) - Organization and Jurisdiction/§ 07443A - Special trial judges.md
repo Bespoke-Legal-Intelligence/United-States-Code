@@ -90,7 +90,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Salary.—Subsection (d) of section 7443A of the Internal Revenue Code of 1954 \[now 1986\] (as added bythis section) shall take effect on the 1st day of the 1st month beginning after the date of the enactment of this Act \[Oct. 22, 1986\].
+Salary.—Subsection (d) of section 7443A of the Internal Revenue Code of 1954 \[now 1986\] (as added by this section) shall take effect on the 1st day of the 1st month beginning after the date of the enactment of this Act \[Oct. 22, 1986\].
 
 "(3)
 

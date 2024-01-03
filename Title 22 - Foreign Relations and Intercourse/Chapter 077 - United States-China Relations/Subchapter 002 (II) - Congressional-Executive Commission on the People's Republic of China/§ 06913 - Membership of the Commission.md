@@ -4,7 +4,7 @@
 
 The Commission shall be composed of 23 members as follows:
 
-&emsp;(1) Nine Members of the House of Representatives appointed by the Speaker of the House of Representatives. Five members shall be selected from the majority party and four members shall be selected, after consultation with the minority leader of the House, from the minority party.
+&emsp;(1) Nine Members of the House of Representatives appointed by the Speaker of the House of Representatives. Five members shall be selected from the majority party and four members shall be selected, after consultation withthe minority leader of the House, from the minority party.
 
 &emsp;(2) Nine Members of the Senate appointed by the President of the Senate. Five members shall be selected, after consultation with the majority leader of the Senate, from the majority party, and four members shall be selected, after consultation with the minority leader of the Senate, from the minority party.
 

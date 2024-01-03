@@ -1,6 +1,6 @@
 ### §10307. Types of research and development
 
-The type of research and development to be undertaken under the authority of sections 10304and 10305 of this title and to be encouraged by the institutes established under section 10303 of this title shall include the following:
+The type of research and development to be undertaken under the authority of sections 10304 and 10305 of this title and to be encouraged by the institutes established under section 10303 of this title shall include the following:
 
 &emsp;(1) Aspects of the hydrologic cycle;
 

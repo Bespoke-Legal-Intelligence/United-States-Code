@@ -38,7 +38,7 @@ Implementation.—In carrying out any arrangement or agreement entered into unde
 
 &emsp;(1) pay the equitable share of the Department of Defense for the recurring and nonrecurring costs of the applicable program referred to in subsection (a)(1) from funds available to the Department for operation and maintenance; and
 
-&emsp;(2) assign members of the armed forces or Department of Defense civilian personnel to fulfill Department obligations under that arrangement or agreement.
+&emsp;(2) assign members of the armed forces or Department of Defense civilian personnel tofulfill Department obligations under that arrangement or agreement.
 
 (Added Pub. L. 116–283, div. A, title XII, §1203(a), Jan. 1, 2021, 134 Stat. 3910.)
 

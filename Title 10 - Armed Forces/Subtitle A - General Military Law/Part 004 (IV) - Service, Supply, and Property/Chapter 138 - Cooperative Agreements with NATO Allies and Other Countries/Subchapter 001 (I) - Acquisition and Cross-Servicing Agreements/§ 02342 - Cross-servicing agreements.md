@@ -112,7 +112,7 @@ Subsec. (h)(3). Pub. L. 116–92, §1203(d)(3), amended par. (3) generally. Prio
 
 Subsec. (h)(4). Pub. L. 116–92, §1203(d)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The total dollar amount and major categories of reciprocal provisions of logistic support, supplies, and services received under each such agreement."
 
-Subsec. (h)(5), (6). Pub. L. 116–92, §1203(d)(5), (6), added pars. (5) and (6) and struck out former par. (5) which read as follows: "With respect to the calendar year during which the report is submitted, an assessment of the following:
+Subsec. (h)(5), (6). Pub. L. 116–92, §1203(d)(5), (6), added pars. (5) and (6) and struck out former par. (5) whichread as follows: "With respect to the calendar year during which the report is submitted, an assessment of the following:
 
 &emsp;"(A) The anticipated logistic support, supplies, and services requirements of the United States.
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 #### Cross Servicing Agreements for Loan of Personnel Protection and Personnel Survivability Equipment in Coalition Operations
 
-Pub. L. 113–291, div. A, title XII, §1207, Dec. 19, 2014, 128 Stat. 3539, as amended by Pub. L. 115–91, div. A, title X, §1051(t)(4), Dec. 12, 2017, 131 Stat. 1566; Pub. L. 116–92, div. A, title XII, §1202, Dec. 20, 2019, 133 Stat. 1620, provided that:
+Pub. L. 113–291, div. A, title XII, §1207, Dec. 19, 2014, 128 Stat. 3539, as amended by Pub. L. 115–91, div. A, title X, §1051(t)(4), Dec. 12, 2017, 131 Stat. 1566; Pub. L. 116–92, div. A, title XII, §1202, Dec. 20, 2019, 133 Stat. 1620; Pub. L. 118–31, div. A, title XII, §1206, Dec. 22, 2023, 137 Stat. 448, provided that:
 
 "(a)
 
@@ -222,7 +222,7 @@ Waiver on a case-by-case basis.—Any waiver under this subsection may be made o
 
 "(d)
 
-Reports to Congress.—If the authority provided under this section is exercised during a fiscalyear, the Secretary of Defense shall, with the concurrence of the Secretary of State, submit to the appropriate committees of Congress a report on the exercise of such authority by not later than October 30 of the year in which such fiscal year ends. Each report on the exercise of such authority shall specify the recipient country of the equipment loaned, the type of equipment loaned, and the duration of the loan of such equipment.
+Reports to Congress.—If the authority provided under this section is exercised during a fiscal year, the Secretary of Defense shall, with the concurrence of the Secretary of State, submit to the appropriate committees of Congress a report on the exercise of such authority by not later than October 30 of the year in which such fiscal year ends. Each report on the exercise of such authority shall specify the recipient country of the equipment loaned, the type of equipment loaned, and the duration of the loan of such equipment.
 
 "(e)
 
@@ -238,5 +238,5 @@ Definitions.—In this section:
 
 "(f)
 
-Expiration of Authority.—The authority in subsection (a) shall expire on December 31, 2024."
+Expiration of Authority.—The authority in subsection (a) shall expire on December 31, 2029."
 

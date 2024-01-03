@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than February 1 of each year, the Secretary shall develop and submit to Congress an annual report, to be entitled "Report to Congress on Authorized Water Resources Development Projects and Studies", that identifies—
+Not later than February 1 of each year, the Secretary shall develop and submit to Congressan annual report, to be entitled "Report to Congress on Authorized Water Resources Development Projects and Studies", that identifies—
 
 &emsp;(1) ongoing or new feasibility studies, authorized within the previous 20 years, for which a Report of the Chief of Engineers has not been issued;
 

@@ -46,7 +46,7 @@ Methods of Sale.—(1) The Secretary shall permit a purchaser of articles or ser
 
 (e)
 
-Deposit of Proceeds.—Proceeds from sales of articles and services under this section shallbe credited to the funds, including working capital funds and operation and maintenance funds, incurring the costs of manufacture or performance.
+Deposit of Proceeds.—Proceeds from sales of articles and services under this section shall be credited to the funds, including working capital funds and operation and maintenance funds, incurring the costs of manufacture or performance.
 
 (f)
 

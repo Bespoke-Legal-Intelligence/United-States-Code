@@ -11,7 +11,7 @@
 | [8547\.](%C2%A7%2008547%20-%20Students%20at%20institutions%20of%20higher%20education%20admission.md) | Students at institutions of higher education: admission. |
 | [8548\.](%C2%A7%2008548%20-%20Degree%20granting%20authority%20for%20United%20States%20Naval%20Postgraduate%20School.md) | Degree granting authority for United States Naval Postgraduate School. |
 | [8549\.](%C2%A7%2008549%20-%20Defense%20industry%20civilians%20admission%20to%20defense%20product%20development%20program.md) | Defense industry civilians: admission to defense product development program. |
-| [8550\.](%C2%A7%2008550%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md) | Grants for faculty research for scientific, literary, and educational purposes: acceptance, authorized grantees.<br> |
+| [8550\.](%C2%A7%2008550%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md) | Grants for faculty research for scientific, literary, and educational purposes: acceptance, authorized grantees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

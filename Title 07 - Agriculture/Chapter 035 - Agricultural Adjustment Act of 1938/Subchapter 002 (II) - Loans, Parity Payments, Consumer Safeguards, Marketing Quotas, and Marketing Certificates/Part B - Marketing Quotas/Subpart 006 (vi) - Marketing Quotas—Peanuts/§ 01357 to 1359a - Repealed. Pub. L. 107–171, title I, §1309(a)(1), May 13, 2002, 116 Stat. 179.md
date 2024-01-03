@@ -20,5 +20,5 @@ Section 1359a, act Feb. 16, 1938, ch. 30, title III, §358e, formerly §359a, as
 
 #### Treatment of 2001 Crop
 
-For applicability of this subpart, as in effect on the day before May 13, 2002, with respect to the 2001 crop of peanuts notwithstanding repeal of this subpart by Pub. L. 107–171, see section 7959(a)(2) of this title.
+For applicability of this subpart, as in effect on the day before May 13, 2002, with respect to the 2001 crop ofpeanuts notwithstanding repeal of this subpart by Pub. L. 107–171, see section 7959(a)(2) of this title.
 

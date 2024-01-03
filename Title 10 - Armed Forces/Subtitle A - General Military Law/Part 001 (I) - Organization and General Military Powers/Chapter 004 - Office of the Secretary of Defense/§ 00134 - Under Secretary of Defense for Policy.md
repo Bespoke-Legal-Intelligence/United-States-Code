@@ -26,7 +26,7 @@
 
 &emsp;(B) develop specific objectives that the joint force should be ready to achieve, and conduct assessments of the capability (in terms of both capacity and readiness) of the joint force to achieve such objectives.
 
-(c) The Under Secretary takes precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, theUnder Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, and the Secretaries of the military departments.
+(c) The Under Secretary takes precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, and the Secretaries of the military departments.
 
 (Added Pub. L. 99–433, title I, §105(1), Oct. 1, 1986, 100 Stat. 997; amended Pub. L. 99–500, §101(c) \[title X, §903(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, §101(c) \[title X, §903(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–661, div. A, title IX, formerly title IV, §903(a), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 105–261, div. A, title XV, §1521(a), Oct. 17, 1998, 112 Stat. 2178; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §902(b), Dec. 2, 2002, 116 Stat. 2620; Pub. L. 110–181, div. A, title IX, §903(c), Jan. 28, 2008, 122 Stat. 273; Pub. L. 113–291, div. A, title IX, §901(j)(2)(B), Dec. 19, 2014, 128 Stat. 3467; Pub. L. 115–91, div. A, title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 115–232, div. A, title IX, §902, Aug. 13, 2018, 132 Stat. 1921; Pub. L. 116–92, div. A, title IX, §902(3), Dec. 20, 2019, 133 Stat. 1542.)
 
@@ -102,7 +102,7 @@ Pub. L. 115–232, div. A, title IX, §936, Aug. 13, 2018, 132 Stat. 1939, as am
 
 "(a)
 
-Designation of Senior Civilian Official.—Not later than 90 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Under Secretary of Defense for Policy shall designate a senior civilian official of the Department of Defense within the Office of the Secretary of Defense at or above the level of Assistant Secretary of Defense to develop, coordinate, and oversee compliance with the policy of the Department relating to civilian casualties resulting from United States military operations.
+Designation of Senior Civilian Official.—Not later than 90 days after the date of the enactment ofthis Act \[Aug. 13, 2018\], the Under Secretary of Defense for Policy shall designate a senior civilian official of the Department of Defense within the Office of the Secretary of Defense at or above the level of Assistant Secretary of Defense to develop, coordinate, and oversee compliance with the policy of the Department relating to civilian casualties resulting from United States military operations.
 
 "(b)
 

@@ -8,7 +8,7 @@ The Congress hereby finds and declares that, in keeping with the traditional Ame
 
 &emsp;(3) Obtaining and maintaining suitable housing, independently selected, designed and located with reference to special needs and available at costs which older citizens can afford.
 
-&emsp;(4) Full restoration services for those who require institutional care, and a comprehensive array of community-based, long-term care services adequate to appropriately sustain older people in their communities and in their homes, including support to family members and other persons providing voluntary care toolder individuals needing long-term care services.
+&emsp;(4) Full restoration services for those who require institutional care, and a comprehensive array of community-based, long-term care services adequate to appropriately sustain older people in their communities and in their homes, including support to family members and other persons providing voluntary care to older individuals needing long-term care services.
 
 &emsp;(5) Opportunity for employment with no discriminatory personnel practices because of age.
 
@@ -110,7 +110,7 @@ General Effective Date.—Except as provided in subsections (b) and (c), this Ac
 
 "(b)
 
-Application of Amendments.—The amendments made by title I of this Act \[enacting sections 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending sections 3001, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d of this title, enacting provisions set out asnotes under this section, sections 3026, 3027, and 3057b of this title, and section 2 of Title 29, and repealing provisions set out as a note under section 3058 of this title\] shall not apply with respect to—
+Application of Amendments.—The amendments made by title I of this Act \[enacting sections 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending sections 3001, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d of this title, enacting provisions set out as notes under this section, sections 3026, 3027, and 3057b of this title, and section 2 of Title 29, and repealing provisions set out as a note under section 3058 of this title\] shall not apply with respect to—
 
 &emsp;"(1) any area plan submitted under section 306(a) of the Older Americans Act of 1965 \[section 3026(a) of this title\], or
 
@@ -154,7 +154,7 @@ Pub. L. 110–19, §1, Apr. 23, 2007, 121 Stat. 84, provided that: "This Act \[a
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–365, §1(a), Oct. 17, 2006, 120 Stat. 2522, provided that: "This Act \[see Tables for classification\] may be cited as the 'Older Americans Act Amendments of 2006'."
+Pub. L. 109–365, §1(a), Oct. 17, 2006, 120 Stat. 2522, provided that: "This Act \[see Tables for classification\]may be cited as the 'Older Americans Act Amendments of 2006'."
 
 #### Short Title of 2000 Amendment
 
@@ -186,7 +186,7 @@ Pub. L. 97–115, §1(a), Dec. 29, 1981, 95 Stat. 1595, provided that: "This act
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–478, §1(a), Oct. 18, 1978, 92 Stat. 1513, provided that: "This Act \[enacting sections 3020b to 3020d, 3030 to 3030g, 3035b to 3035h, 3057 to 3057g and 6106a of this title, amending this section, sections 3002, 3011 to3017, 3020a, 3021 to 3029, 3031 to 3035, 3036 to 3037a, 3056 to 3056f, 5001, 5011, 5012, 5082, 6101, 6103 and 6104 of this title, repealing sections 3035a, 3041 to 3041f, 3042 and 3045 to 3045i of this title, enacting provisions set out as notes under this section and sections 1975c, 3021, and 3045 of this title, amending provisions set out as a note under this section, and repealing provision set out as a note under section 3056 of this title\] may be cited as the 'Comprehensive Older Americans Act Amendments of 1978'."
+Pub. L. 95–478, §1(a), Oct. 18, 1978, 92 Stat. 1513, provided that: "This Act \[enacting sections 3020b to 3020d, 3030 to 3030g, 3035b to 3035h, 3057 to 3057g and 6106a of this title, amending this section, sections 3002, 3011 to 3017, 3020a, 3021 to 3029, 3031 to 3035, 3036 to 3037a, 3056 to 3056f, 5001, 5011, 5012, 5082, 6101, 6103 and 6104 of this title, repealing sections 3035a, 3041 to 3041f, 3042 and 3045 to 3045i of this title, enacting provisions set out as notes under this section and sections 1975c, 3021, and 3045 of this title, amending provisions set out as a note under this section, and repealing provision set out as a note under section 3056 of this title\] may be cited as the 'Comprehensive Older Americans Act Amendments of 1978'."
 
 #### Short Title of 1975 Amendment
 
@@ -264,7 +264,7 @@ Pub. L. 114–144, §10, Apr. 19, 2016, 130 Stat. 352, provided that:
 
 "(a)
 
-In General.—Because the services under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.) are critical to meeting the urgent needs of Holocaust survivors to age in place with dignity, comfort, security, and quality of life, the Assistant Secretary for Aging shall issue guidance to States, that shall be applicable to States, area agencies on aging, and providers of services for older individuals, with respect to serving Holocaust survivors, including guidance on promising practices for conducting outreach to that population. In developing the guidance, the Assistant Secretary for Aging shall consult with experts and organizationsserving Holocaust survivors, and shall take into account the possibility that the needs of Holocaust survivors may differ based on geography.
+In General.—Because the services under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.) are critical to meeting the urgent needs of Holocaust survivors to age in place with dignity, comfort, security, and quality of life, the Assistant Secretary for Aging shall issue guidance to States, that shall be applicable to States, area agencies on aging, and providers of services for older individuals, with respect to serving Holocaust survivors, including guidance on promising practices for conducting outreach to that population. In developing the guidance, the Assistant Secretary for Aging shall consult with experts and organizations serving Holocaust survivors, and shall take into account the possibility that the needs of Holocaust survivors may differ based on geography.
 
 "(b)
 
@@ -600,7 +600,7 @@ Pub. L. 102–375, title IX, §901, Sept. 30, 1992, 106 Stat. 1305, provided tha
 
 #### White House Conference on Aging
 
-Pub. L. 100–175, title II, Nov. 29, 1987, 101 Stat. 967–971, as amended by Pub. L. 102–375, title VIII, §§831–836, 839(a), Sept. 30, 1992, 106 Stat. 1300–1305; Pub. L. 103–171, §6, Dec. 2, 1993, 107 Stat. 1992; Pub. L. 106–501, §211, Nov. 13, 2000, 114 Stat. 2235; Pub. L. 109–365, title IX, §901(a), Oct. 17, 2006, 120 Stat. 2598, provided that:
+Pub. L. 100–175, title II, Nov. 29, 1987, 101 Stat. 967–971, as amended by Pub. L. 102–375, title VIII, §§831–836, 839(a), Sept. 30, 1992, 106 Stat. 1300–1305; Pub. L. 103–171, §6, Dec. 2, 1993, 107 Stat. 1992; Pub. L. 106–501, §211, Nov.13, 2000, 114 Stat. 2235; Pub. L. 109–365, title IX, §901(a), Oct. 17, 2006, 120 Stat. 2598, provided that:
 
 #### "SEC. 201. AUTHORIZATION OF THE CONFERENCE.
 
@@ -650,7 +650,7 @@ Administration.—In administering this section, the Secretary shall—
 
 &emsp;"(2) request the cooperation and assistance of the heads of such other Federal departments and agencies as may be appropriate in the carrying out of this section,
 
-&emsp;"(3) make available for public comment a proposed agenda, prepared by the Policy Committee, for theConference which will reflect to the greatest extent possible the major issues facing older individuals consistent with the provisions of subsection (a),
+&emsp;"(3) make available for public comment a proposed agenda, prepared by the Policy Committee, for the Conference which will reflect to the greatest extent possible the major issues facing older individuals consistent with the provisions of subsection (a),
 
 &emsp;"(4) prepare and make available background materials for the use of delegates to the Conference which the Secretary deems necessary, and
 
@@ -758,7 +758,7 @@ Compensation.—Appointed members of any such committee (other than any officers
 
 "(a)
 
-Preliminary Report.—Not later than 100 days after the date on which the Conference adjourns, thePolicy Committee shall publish and deliver to the chief executive officers of the States a preliminary report on the Conference. Comments on the preliminary report of the Conference shall be accepted by the Policy Committee.
+Preliminary Report.—Not later than 100 days after the date on which the Conference adjourns, the Policy Committee shall publish and deliver to the chief executive officers of the States a preliminary report on the Conference. Comments on the preliminary report of the Conference shall be accepted by the Policy Committee.
 
 "(b)
 
@@ -816,7 +816,7 @@ Conference not convened.—If the Conference is not convened before December 31,
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
-\[Pub. L. 102–375, title VIII, §837, Sept. 30, 1992, 106 Stat. 1304, provided that: "All personnel assigned or engaged under \[former\] section 202(b) or section 203(a)(5) \[now section 202(a)(5)\] of the Older Americans Act Amendments of 1987 \[Pub. L. 100–175, set out above\] (42 U.S.C. 3001 note) as in effect immediately before the date of the enactment of this Act \[Sept. 30, 1992\] shall continue to be assigned or engaged under such section after such date notwithstanding the amendments made by this subtitle \[amending title II of Pub. L. 100–175, set out above\]."\]
+\[Pub. L. 102–375, title VIII, §837, Sept. 30, 1992, 106 Stat. 1304, provided that: "All personnel assigned or engaged under \[former\] section 202(b) or section 203(a)(5) \[now section 202(a)(5)\] of the Older Americans Act Amendments of 1987 \[Pub. L. 100–175, set out above\] (42 U.S.C. 3001 note) as in effect immediately before the date of the enactment of this Act \[Sept. 30, 1992\] shall continue to be assigned or engaged under such section after such date notwithstanding the amendments madeby this subtitle \[amending title II of Pub. L. 100–175, set out above\]."\]
 
 Pub. L. 95–478, title II, §§201–207, Oct. 18, 1978, 92 Stat. 1551–1554, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, authorized the President to call a White House Conference on Aging in 1981 to develop recommendations relating to economic well-being, health care, housing, social services, and employment of the aging.
 

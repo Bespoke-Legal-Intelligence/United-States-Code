@@ -50,7 +50,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the rules prescribed by the Bureau, and except as provided under subparagraph (B), the disclosures required regarding the amount of currency that will be received by the designated recipient shall be deemed to be accurate, so long as the disclosures provide a reasonably accurate estimate of the foreign currency to be received. This paragraph shall apply only to a remittance transfer provider who is an insured depository institution, as defined in section 1813 of title 12, or an insured credit union, as defined in section 1752 of title 12, and if—
+&emsp;&emsp;Subject to the rules prescribed by the Bureau, and except as provided under subparagraph (B), the disclosures required regardingthe amount of currency that will be received by the designated recipient shall be deemed to be accurate, so long as the disclosures provide a reasonably accurate estimate of the foreign currency to be received. This paragraph shall apply only to a remittance transfer provider who is an insured depository institution, as defined in section 1813 of title 12, or an insured credit union, as defined in section 1752 of title 12, and if—
 
 &emsp;&emsp;&emsp;(i) a remittance transfer is conducted through a demand deposit, savings deposit, or other asset account that the sender holds with such remittance transfer provider; and
 
@@ -178,7 +178,7 @@ As used in this section—
 
 &emsp;(2) the term "remittance transfer"—
 
-&emsp;&emsp;(A) means the electronic (as defined in section 106(2) of the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7006(2))) transfer of funds requested by a sender located in any State to a designated recipient that is initiated by a remittance transfer provider, whether or not the sender holds an account with the remittance transfer provider or whether or not the remittance transfer is also an electronic fund transfer, as defined in section 1693a of this title; and
+&emsp;&emsp;(A) means the electronic (as defined in section 106(2) of the Electronic Signatures inGlobal and National Commerce Act (15 U.S.C. 7006(2))) transfer of funds requested by a sender located in any State to a designated recipient that is initiated by a remittance transfer provider, whether or not the sender holds an account with the remittance transfer provider or whether or not the remittance transfer is also an electronic fund transfer, as defined in section 1693a of this title; and
 
 &emsp;&emsp;(B) does not include a transfer described in subparagraph (A) in an amount that is equal to or lesser than the amount of a small-value transaction determined, by rule, to be excluded from the requirements under section 1693d(a) of this title;
 

@@ -28,7 +28,7 @@ The Foundation shall—
 
 &emsp;&emsp;(A) action is taken as necessary to obtain patents for inventions developed by the Foundation or with funds from the Foundation;
 
-&emsp;&emsp;(B) action is taken as necessary to enable the licensing of inventions developed by theFoundation or with funds from the Foundation; and
+&emsp;&emsp;(B) action is taken as necessary to enable the licensing of inventions developed by the Foundation or with funds from the Foundation; and
 
 &emsp;&emsp;(C) executed licenses, memoranda of understanding, material transfer agreements, contracts, and other such instruments, promote, to the maximum extent practicable, the broadest conversion to commercial and noncommercial applications of licensed and patented inventions of the Foundation to further the goals and priorities established under paragraph (2);
 
@@ -62,7 +62,7 @@ The Foundation shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The ex officio members of the Board under subparagraph (B) shall, by majority vote, appoint to the Board 14 individuals, of which 9 shall be from a list of candidates to be provided by the National Academy of Sciences and 5 shall be from lists of candidates provided by patient and consumer advocacy groups, professional scientific and medical societies, and industry trade organizations. Of such appointed members—
+&emsp;&emsp;&emsp;The ex officio members of the Board under subparagraph (B) shall, by majority vote, appoint to the Board 14 individuals, of which 9 shall be from a list of candidates to be provided by the National Academy of Sciences and 5 shall be fromlists of candidates provided by patient and consumer advocacy groups, professional scientific and medical societies, and industry trade organizations. Of such appointed members—
 
 &emsp;&emsp;&emsp;&emsp;(I) 4 shall be representatives of the general pharmaceutical, device, food, cosmetic, and biotechnology industries;
 
@@ -108,7 +108,7 @@ The Foundation shall—
 
 #### (iii) Chair
 
-&emsp;&emsp;&emsp;The ex officio members of the Board under subparagraph (B) shall designate anappointed member of the Board to serve as the Chair of the Board.
+&emsp;&emsp;&emsp;The ex officio members of the Board under subparagraph (B) shall designate an appointed member of the Board to serve as the Chair of the Board.
 
 #### (2) Duties of Board
 
@@ -132,7 +132,7 @@ The Foundation shall—
 
 &emsp;&emsp;&emsp;(viii) establish policies for the execution of memoranda of understanding and cooperative agreements between the Foundation and other entities, including the Food and Drug Administration;
 
-&emsp;&emsp;&emsp;(ix) establish policies for funding training fellowships, whether at the Foundation, academic or scientific institutions, or the Food and Drug Administration, for scientists, doctors, and other professionals who are not employees of regulated industry, to foster greater understanding of and expertise in new scientific tools, diagnostics, manufacturing techniques, and potential barriers to translating basic research into clinical and regulatory practice;
+&emsp;&emsp;&emsp;(ix) establish policies for funding training fellowships, whether at the Foundation, academic or scientific institutions,or the Food and Drug Administration, for scientists, doctors, and other professionals who are not employees of regulated industry, to foster greater understanding of and expertise in new scientific tools, diagnostics, manufacturing techniques, and potential barriers to translating basic research into clinical and regulatory practice;
 
 &emsp;&emsp;&emsp;(x) specify a process for annual Board review of the operations of the Foundation; and
 
@@ -272,7 +272,7 @@ Federal Government employees may serve on committees advisory to the Foundation 
 
 #### (m) Separation of funds
 
-The Executive Director shall ensure that the funds received from the Treasury are managedas individual programmatic funds under subsection (i), according to best accounting practices.
+The Executive Director shall ensure that the funds received from the Treasury are managed as individual programmatic funds under subsection (i), according to best accounting practices.
 
 #### (n) Funding
 

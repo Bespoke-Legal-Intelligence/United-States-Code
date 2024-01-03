@@ -8,7 +8,7 @@
 
 &emsp;(2) the officer enters on that tour within two years after completing a period of active duty of more than 90 days' duration.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 477; Pub. L. 88–624, §1, Oct. 3, 1964, 78 Stat. 1002; Pub. L.88–647, title II, §202(3), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 96–513, title V, §516(13), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 101–189, div. A, title VI, §663(a), Nov. 29, 1989, 103 Stat. 1465; Pub. L. 106–398, §1 \[\[div. A\], title VI, §610(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–107, div. A, title VI, §606(a), Dec. 28, 2001, 115 Stat. 1134.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 477; Pub. L. 88–624, §1, Oct. 3, 1964, 78 Stat. 1002; Pub. L. 88–647, title II, §202(3), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 96–513, title V, §516(13), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 101–189, div. A, title VI, §663(a), Nov. 29, 1989, 103 Stat. 1465; Pub. L. 106–398, §1 \[\[div. A\], title VI, §610(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–107, div. A, title VI, §606(a), Dec. 28, 2001, 115 Stat. 1134.)
 
 Historical and Revision Notes
 
@@ -30,7 +30,7 @@ Oct. 12, 1949, ch. 681, §305(b), (c); added Aug. 10, 1956, ch. 1041, §20(d) (2
 
 In subsection (a), the words "In addition to the initial uniform allowance authorized by section 431 (a)–(d) of this title" are substituted for the word "additional". Section 255(b) (last proviso of 1st sentence) of existing title 37 is omitted as executed. The words "may not be included" are substituted for the words "shall be excluded". Section 255(b) (last sentence) of existing title 37 is omitted, since the categories named therein are excluded by the words "a reserve officer". (See revision note for section 415(a) of this revised title.)
 
-In subsection (b), the introductory clause is substituted for the word "further". The words "of an armed force" and "of the Army, or the Air Force, without specification of component" are inserted for the reasons stated in the revision note for section 415(a) of this revised title. Clauses (1) and (2) are substituted for section 255(c) (provisos) of existing title 37.
+In subsection (b), the introductory clause is substituted for the word "further". The words "of an armed force" and "of the Army, or the Air Force, without specification of component" are inserted for thereasons stated in the revision note for section 415(a) of this revised title. Clauses (1) and (2) are substituted for section 255(c) (provisos) of existing title 37.
 
 #### <b>Editorial Notes</b>
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### One-Time Uniform Allowance for Officers Who Transfer to the Space Force
 
-Pub. L. 116–283, div. A, title VI, §606, Jan. 1, 2021, 134 Stat. 3672, as amended by Pub. L. 117–263, div. A, title VI, §616, Dec. 23, 2022, 136 Stat. 2624, provided that:
+Pub. L. 116–283, div. A, title VI, §606, Jan. 1, 2021, 134 Stat. 3672, as amended by Pub. L. 117–263, div. A, title VI, §616, Dec. 23, 2022, 136 Stat. 2624; Pub. L. 118–31, div. A, title VI, §628, Dec. 22, 2023, 137 Stat. 295, provided that:
 
 "(a)
 
@@ -86,7 +86,7 @@ Source of Funds.—Funds for allowances provided under subsection (a) in a fisca
 
 Applicability.—The authority for an allowance under this section shall apply with respect to any officer described in subsection (a) who transfers to the Space Force—
 
-&emsp;"(1) during the period beginning on December 20, 2019, and ending on September 30, 2023; and
+&emsp;"(1) during the period beginning on December 20, 2019, and ending on September 30, 2025; and
 
 &emsp;"(2) on or after the date the Secretary of the Air Force prescribes the official uniform for the Space Force."
 

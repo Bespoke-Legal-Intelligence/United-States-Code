@@ -98,7 +98,7 @@ Process.—The Director of the Office of Management and Budget, in consultation 
 
 &emsp;(2)
 
-Metrics and performance indicators.—The Director of the Office of Management and Budget, in consultation with the Chief Information Officers of appropriate agencies, shall develop standardized cost savings and cost avoidance metrics and performance indicatorsfor use by agencies for the process implemented under paragraph (1).
+Metrics and performance indicators.—The Director of the Office of Management and Budget, in consultation with the Chief Information Officers of appropriate agencies, shall develop standardized cost savings and cost avoidance metrics and performance indicators for use by agencies for the process implemented under paragraph (1).
 
 &emsp;(3)
 
@@ -106,7 +106,7 @@ Annual review.—The Chief Information Officer of each covered agency, in conjun
 
 &emsp;(4)
 
-Applicability to the department of defense.—In the case of the Department of Defense, processes established pursuant to this subsection shall apply only to the business systems information technology portfolio of the Department of Defense and not to national security systems as defined by section 11103(a) of this title. The annual review required by paragraph (3) shall be carried out by the Chief Management Officer of the Department of Defense (or any successor to such Officer), in consultation with the Chief Information Officer, the Under Secretary of Defense for Acquisition and Sustainment, and other appropriate Department of Defense officials. The Secretary of Defense may designate an existing investment or management review process to fulfill the requirement for the annual review required by paragraph (3), in consultation with the Administrator of the Office of Electronic Government.
+Applicability to the department of defense.—In the case of the Department of Defense, processes established pursuant to this subsection shall apply only to the business systems information technology portfolio of the Department of Defense and not to national security systems as defined by section 11103(a) of this title. The annual review required by paragraph (3) shall be carried out by the Chief Information Officer of the Department of Defense, in consultation with the Under Secretary of Defense for Acquisition and Sustainment and other appropriate Department of Defense officials. The Secretary of Defense may designate an existing investment or management review process to fulfill the requirement for the annual review required by paragraph (3), in consultation with the Administrator of the Office of Electronic Government.
 
 &emsp;(5)
 
@@ -126,11 +126,13 @@ In general.—The Administrator of the Office of Electronic Government shall sub
 
 Inclusion in other reports.—The reports required under subparagraph (A) may be included as part of another report submitted to the committees of Congress described in clauses (i), (ii), and (iii) of subparagraph (A).
 
-(Added and amended Pub. L. 113–291, div. A, title VIII, §§831(a), 833, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3438, 3442, 3469; Pub. L. 115–88, §3, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, title VIII, §819(b), title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1464, 1597; Pub. L. 115–232, div. A, title X, §1081(f)(1)(A)(iii), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title IX, §902(87), Dec. 20, 2019, 133 Stat. 1554.)
+(Added and amended Pub. L. 113–291, div. A, title VIII, §§831(a), 833, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3438, 3442, 3469; Pub. L. 115–88, §3, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, title VIII, §819(b), title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1464, 1597; Pub. L. 115–232, div. A, title X, §1081(f)(1)(A)(iii), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title IX, §902(87), Dec. 20, 2019, 133 Stat. 1554; Pub. L. 118–31, div. A, title IX, §901(f), Dec. 22, 2023, 137 Stat. 355.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d)(4). Pub. L. 118–31 substituted "the Chief Information Officer of the Department of Defense, in consultation with the Under Secretary of Defense for Acquisition and Sustainment and" for "the Chief Management Officer of the Department of Defense (or any successor to such Officer), in consultation with the Chief Information Officer, the Under Secretary of Defense for Acquisition and Sustainment, and".
 
 <b>2019</b>—Subsec. (d)(4). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
@@ -146,5 +148,5 @@ Subsec. (d)(6). Pub. L. 115–88, §3(2), and Pub. L. 115–91, §819(b)(2), ame
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 

@@ -6,7 +6,7 @@ The Board shall appoint a qualified individual to serve as the Executive Directo
 
 #### (b) Executive Director; salary
 
-The Executive Director of the Board shall serve full time and be subject to the provisionsof chapter 51 and subchapter III of chapter 53 of title 5. The annual salary of the Executive Director shall not exceed level III of the Executive Schedule under section 5314 of such title.
+The Executive Director of the Board shall serve full time and be subject to the provisions of chapter 51 and subchapter III of chapter 53 of title 5. The annual salary of the Executive Director shall not exceed level III of the Executive Schedule under section 5314 of such title.
 
 #### (c) Staff personnel; appointment and compensation
 

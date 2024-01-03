@@ -2,7 +2,7 @@
 
 #### (a) Authority to conduct hearings or other inquiries
 
-The Commission may, by one or more of its members or by such agents or agency as it may designate, conduct any hearing or other inquirynecessary or appropriate to its functions anywhere in the United States. A Commissioner who participates in such a hearing or other inquiry shall not be disqualified solely by reason of such participation from subsequently participating in a decision of the Commission in the same manner. The Commission shall publish notice of any proposed hearing in the Federal Register and shall afford a reasonable opportunity for interested persons to present relevant testimony and data.
+The Commission may, by one or more of its members or by such agents or agency as it may designate, conduct any hearing or other inquiry necessary or appropriate to its functions anywhere in the United States. A Commissioner who participates in such a hearing or other inquiry shall not be disqualified solely by reason of such participation from subsequently participating in a decision of the Commission in the same manner. The Commission shall publish notice of any proposed hearing in the Federal Register and shall afford a reasonable opportunity for interested persons to present relevant testimony and data.
 
 #### (b) Commission powers; orders
 
@@ -22,7 +22,7 @@ The Commission shall also have the power—
 
 &emsp;(7) to—
 
-&emsp;&emsp;(A) initiate, prosecute, defend, or appeal (other than to the Supreme Court of the United States), through its own legal representative and in the name of the Commission, any civil action if the Commission makes a written request to the Attorney General for representation in such civil action and the Attorney General does not within the 45-day period beginning on the date such request was made notify the Commission in writing that the Attorney General will represent the Commission in such civil action, and
+&emsp;&emsp;(A) initiate, prosecute, defend, or appeal (other than to the Supreme Court of the United States), through its own legal representative and in the name of the Commission, any civil action if the Commission makes a written request to the Attorney General for representation in such civil action and the Attorney General does notwithin the 45-day period beginning on the date such request was made notify the Commission in writing that the Attorney General will represent the Commission in such civil action, and
 
 &emsp;&emsp;(B) initiate, prosecute, or appeal, through its own legal representative, with the concurrence of the Attorney General or through the Attorney General, any criminal action,
 
@@ -62,7 +62,7 @@ The Commission may plan, construct, and operate a facility or facilities suitabl
 
 #### (i) Recordkeeping; audit
 
-(1) Each recipient of assistance under this chapter pursuant to grants or contracts entered into under other than competitive bidding procedures shall keep such records as the Commission by rule shall prescribe, including records which fully disclose the amount and dispositionby such recipient of the proceeds of such assistance, the total cost of the project undertaken in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(1) Each recipient of assistance under this chapter pursuant to grants or contracts entered into under other than competitive bidding procedures shall keep such records as the Commission by rule shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project undertaken in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (2) The Commission and the Comptroller General of the United States, or their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients that are pertinent to the grants or contracts entered into under this chapter under other than competitive bidding procedures.
 
@@ -120,7 +120,7 @@ Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act o
 
 (2) Whenever the Commission submits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit a copy thereof to the Congress. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation, to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress.
 
-(Pub. L. 92–573, §27, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–273, §31, Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–284, §§8(b), 11(c), (d), 14, May 11, 1976, 90 Stat. 506–509; Pub. L. 95–631, §11, Nov. 10, 1978, 92 Stat. 3748; Pub. L. 97–35, title XII, §§1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, 95 Stat. 718, 720, 721; Pub. L. 110–314, title II, §209(a), Aug. 14,2008, 122 Stat. 3046; Pub. L. 112–28, §8, Aug. 12, 2011, 125 Stat. 282.)
+(Pub. L. 92–573, §27, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–273, §31, Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–284, §§8(b), 11(c), (d), 14, May 11, 1976, 90 Stat. 506–509; Pub. L. 95–631, §11, Nov. 10, 1978, 92 Stat. 3748; Pub. L. 97–35, title XII, §§1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, 95 Stat. 718, 720, 721; Pub. L. 110–314, title II, §209(a), Aug. 14, 2008, 122 Stat. 3046; Pub. L. 112–28, §8, Aug. 12, 2011, 125 Stat. 282.)
 
 #### <b>Editorial Notes</b>
 

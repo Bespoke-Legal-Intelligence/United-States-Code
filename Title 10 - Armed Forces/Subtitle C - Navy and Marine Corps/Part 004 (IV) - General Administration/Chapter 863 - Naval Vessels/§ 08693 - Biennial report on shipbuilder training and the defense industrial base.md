@@ -42,3 +42,9 @@ Pub. L. 117–81, §1015(b)(1), (3), designated existing provisions as subsec. (
 
 Subsec. (a)(7). Pub. L. 117–81, §1015(b)(2), added par. (7).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+

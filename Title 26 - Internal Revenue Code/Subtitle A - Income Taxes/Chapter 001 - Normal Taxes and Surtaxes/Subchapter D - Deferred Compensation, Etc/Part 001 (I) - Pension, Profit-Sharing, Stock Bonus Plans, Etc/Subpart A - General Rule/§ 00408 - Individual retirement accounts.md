@@ -52,7 +52,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, any amount paid or distributed out ofan individual retirement plan shall be included in gross income by the payee or distributee, as the case may be, in the manner provided under section 72.
+&emsp;Except as otherwise provided in this subsection, any amount paid or distributed out of an individual retirement plan shall be included in gross income by the payee or distributee, as the case may be, in the manner provided under section 72.
 
 #### (2) Special rules for applying section 72
 
@@ -122,7 +122,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (G) Simple retirement accounts
 
-&emsp;&emsp;In the case of any payment or distribution out of a simple retirement account (as defined in subsection (p)) to which section 72(t)(6) applies, this paragraph shall not apply unless such payment or distribution is paid into another simple retirement account.
+&emsp;&emsp;In the case of any payment or distribution out of a simple retirement account (as defined in subsection (p)) to which section 72(t)(6)(A) applies, this paragraph shall not apply unless such payment or distribution is paid into another simple retirement account.
 
 #### (H) Application of section 72
 
@@ -204,7 +204,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (A) In general
 
-&emsp;&emsp;So much of the aggregate amount of qualified charitable distributions with respect to a taxpayer made during any taxable year which does not exceed $100,000 shall not be includible in gross income of such taxpayer for such taxable year. The amount of distributions not includible in gross income by reason of the preceding sentence for a taxable year (determined without regard to this sentence) shall be reduced (but not below zero) by an amount equal to the excess of—
+&emsp;&emsp;So much of the aggregate amount of qualified charitable distributions with respect toa taxpayer made during any taxable year which does not exceed $100,000 shall not be includible in gross income of such taxpayer for such taxable year. The amount of distributions not includible in gross income by reason of the preceding sentence for a taxable year (determined without regard to this sentence) shall be reduced (but not below zero) by an amount equal to the excess of—
 
 &emsp;&emsp;&emsp;(i) the aggregate amount of deductions allowed to the taxpayer under section 219 for all taxable years ending on or after the date the taxpayer attains age 70½, over
 
@@ -260,13 +260,13 @@ A trust created or organized in the United States by an employer for the exclusi
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of a distribution to a charitable remainder annuity trust or a charitable remainder unitrust, a deduction for the entire value of the remainder interest in the distribution for the benefit of a specified charitable organization would be allowable under section 170 (determined without regard to subsection (b) thereof and this paragraph), and
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a charitable gift annuity, a deduction in an amount equal tothe amount of the distribution reduced by the value of the annuity described in section 501(m)(5)(B) would be allowable under section 170 (determined without regard to subsection (b) thereof and this paragraph).
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a charitable gift annuity, a deduction in an amount equal to the amount of the distribution reduced by the value of the annuity described in section 501(m)(5)(B) would be allowable under section 170 (determined without regard to subsection (b) thereof and this paragraph).
 
 #### (iv) Limitation on income interests
 
 &emsp;&emsp;&emsp;A distribution meets the requirements of this clause only if—
 
-&emsp;&emsp;&emsp;&emsp;(I) no person holds an income interest in the split-interest entity other than the individual for whose benefit such account is maintained, the spouse of such individual, or both, and
+&emsp;&emsp;&emsp;&emsp;(I) no person holds an income interest in the split-interest entity other thanthe individual for whose benefit such account is maintained, the spouse of such individual, or both, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the income interest in the split-interest entity is nonassignable.
 
@@ -340,11 +340,11 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (iii) Testing period
 
-&emsp;&emsp;&emsp;The term "testing period" means the period beginning with the month in whichthe qualified HSA funding distribution is contributed to a health savings account and ending on the last day of the 12th month following such month.
+&emsp;&emsp;&emsp;The term "testing period" means the period beginning with the month in which the qualified HSA funding distribution is contributed to a health savings account and ending on the last day of the 12th month following such month.
 
 #### (E) Application of section 72
 
-&emsp;&emsp;Notwithstanding section 72, in determining the extent to which an amount is treated as otherwise includible in gross income for purposes of subparagraph (A), the aggregate amount distributed from an individual retirement plan shall be treated as includible in gross income to the extent that such amount does not exceed the aggregate amount which would have been so includible if all amounts from all individual retirement plans were distributed. Proper adjustments shall be made in applying section 72 to other distributions in such taxable year and subsequent taxable years.
+&emsp;&emsp;Notwithstanding section 72, in determining the extent to which an amount is treated as otherwise includible in gross income for purposes of subparagraph (A), theaggregate amount distributed from an individual retirement plan shall be treated as includible in gross income to the extent that such amount does not exceed the aggregate amount which would have been so includible if all amounts from all individual retirement plans were distributed. Proper adjustments shall be made in applying section 72 to other distributions in such taxable year and subsequent taxable years.
 
 #### (e) Tax treatment of accounts and annuities
 
@@ -400,7 +400,7 @@ For purposes of this section, a custodial account shall be treated as a trust if
 
 #### (i) Reports
 
-The trustee of an individual retirement account and the issuer of an endowment contractdescribed in subsection (b) or an individual retirement annuity shall make such reports regarding such account, contract, or annuity to the Secretary and to the individuals for whom the account, contract, or annuity is, or is to be, maintained with respect to contributions (and the years to which they relate), distributions aggregating $10 or more in any calendar year, and such other matters as the Secretary may require. The reports required by this subsection—
+The trustee of an individual retirement account and the issuer of an endowment contract described in subsection (b) or an individual retirement annuity shall make such reports regarding such account, contract, or annuity to the Secretary and to the individuals for whom the account, contract, or annuity is, or is to be, maintained with respect to contributions (and the years to which they relate), distributions aggregating $10 or more in any calendar year, and such other matters as the Secretary may require. The reports required by this subsection—
 
 &emsp;(1) shall be filed at such time and in such manner as the Secretary prescribes, and
 
@@ -478,7 +478,7 @@ In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A simplified employee pension shall not fail to meet the requirements of this subsection for a year merely because, underthe terms of the pension, an employee may elect to have the employer make payments—
+&emsp;&emsp;&emsp;A simplified employee pension shall not fail to meet the requirements of this subsection for a year merely because, under the terms of the pension, an employee may elect to have the employer make payments—
 
 &emsp;&emsp;&emsp;&emsp;(I) as elective employer contributions to the simplified employee pension on behalf of the employee, or
 
@@ -572,7 +572,7 @@ In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of
 
 #### (9) Cost-of-living adjustment
 
-&emsp;The Secretary shall adjust the $450 amount in paragraph (2)(C) at the same time and in the same manner as under section 415(d) and shall adjust the $200,000 amount in paragraphs (3)(C) and (6)(D)(ii) at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B); except that any increase in the $450 amount which is not a multiple of $50 shall be rounded to the next lowest multiple of $50.
+&emsp;The Secretary shall adjust the $450 amount in paragraph (2)(C) at the same time and in the same manner as under section 415(d) and shall adjust the $200,000 amount in paragraphs (3)(C) and (6)(D)(ii) at the same time, and by the same amount, as any adjustment undersection 401(a)(17)(B); except that any increase in the $450 amount which is not a multiple of $50 shall be rounded to the next lowest multiple of $50.
 
 #### (10) Cross reference
 
@@ -768,9 +768,13 @@ For purposes of subsection (a)(2), the term "bank" means—
 
 &emsp;&emsp;&emsp;(ii) the amount which an employee may elect under clause (i) for any year is required to be expressed as a percentage of compensation and may not exceed a total of the applicable dollar amount for any year,
 
-&emsp;&emsp;&emsp;(iii) the employer is required to make a matching contribution to the simple retirement account for any year in an amount equal to so much of the amount the employee elects under clause (i)(I) as does not exceed the applicable percentage of compensation for the year, and
+&emsp;&emsp;&emsp;(iii) the employer is required to make a matching contribution to the simple retirement account for any year in an amount equal to so much of the amount the employee elects under clause (i)(I) as does not exceed the applicable percentage of compensation for the year,
 
-&emsp;&emsp;&emsp;(iv) no contributions may be made other than contributions described in clause (i) or (iii).
+&emsp;&emsp;&emsp;(iv) the employer may make nonelective contributions of a uniform percentage (up to 10 percent) of compensation for each employee who is eligible to participate in the arrangement, and who has at least $5,000 of compensation from the employer for the year, but such contributions with respect to any employee shall not exceed $5,000 for the year, and
+
+&emsp;&emsp;&emsp;(v) no contributions may be made other than contributions described in clause (i), (iii), or (iv).
+
+> &emsp;&emsp;The compensation taken into account under clause (iv) for any year shall not exceed the limitation in effect for such year under section 401(a)(17).
 
 #### (B) Employer may elect 2-percent nonelective contribution
 
@@ -781,6 +785,10 @@ For purposes of subsection (a)(2), the term "bank" means—
 #### (ii) Compensation limitation
 
 &emsp;&emsp;&emsp;The compensation taken into account under clause (i) for any year shall not exceed the limitation in effect for such year under section 401(a)(17).
+
+#### (iii) Special rule for electing larger employers
+
+&emsp;&emsp;&emsp;In the case of an employer which had more than 25 employees who received at least $5,000 of compensation from the employer for the preceding year, and which makes the election under subparagraph (E)(i)(II) for any year, clause (i) shall be applied for such year by substituting "3 percent" for "2 percent".
 
 #### (C) Definitions
 
@@ -800,15 +808,19 @@ For purposes of subsection (a)(2), the term "bank" means—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term "applicable percentage" means 3 percent.
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (IV), the term "applicable percentage" means 3 percent.
 
 #### (II) Election of lower percentage
 
-&emsp;&emsp;&emsp;&emsp;An employer may elect to apply a lower percentage (not less than 1 percent) for any year for all employees eligible to participate in the plan for such year if the employer notifies the employees of such lower percentage within a reasonable period of time before the 60-day election period for such year under paragraph (5)(C). An employer may not elect a lower percentage under this subclause for any year if that election would result in the applicable percentage being lower than 3 percent in more than 2 of the years in the 5-year period ending with such year.
+&emsp;&emsp;&emsp;&emsp;An employer may elect to apply a lower percentage (not less than 1 percent) for any year for all employees eligible to participate in the plan for such year if the employer notifies the employees of such lower percentage within a reasonable period of time before the 60-day election period for such year under paragraph (5)(C). An employer may not elect a lower percentage under this subclause for any year if that election would result in the applicable percentage being lower than the applicable percentage in more than 2 of the years in the 5-year period ending with such year.
 
 #### (III) Special rule for years arrangement not in effect
 
-&emsp;&emsp;&emsp;&emsp;If any year in the 5-year period described in subclause (II) is a year prior to the first year for which any qualified salary reduction arrangement is in effect with respect to the employer (or any predecessor), the employer shall be treated as if the level of the employer matching contribution was at 3 percent of compensation for such prior year.
+&emsp;&emsp;&emsp;&emsp;If any year in the 5-year period described in subclause (II) is a year prior to the first year for which any qualified salary reduction arrangement is in effect with respect to the employer (or any predecessor), the employer shall be treated as if the level of the employer matching contribution was at the applicable percentage of compensation for such prior year.
+
+#### (IV) Special rule for electing larger employers
+
+&emsp;&emsp;&emsp;&emsp;In the case of an employer which had more than 25 employees who received at least $5,000 of compensation from the employer for the preceding year, and which makes the election under subparagraph (E)(i)(II) for any year, subclause (I) shall be applied for such year by substituting "4 percent" for "3 percent".
 
 #### (D) Arrangement may be only plan of employer
 
@@ -824,11 +836,75 @@ For purposes of subsection (a)(2), the term "bank" means—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (A)(ii), the applicable amount is $10,000.
+&emsp;&emsp;&emsp;For purposes of subparagraph (A)(ii), the applicable dollar amount is—
 
-#### (ii) Cost-of-living adjustment
+&emsp;&emsp;&emsp;&emsp;(I) the adjusted dollar amount in the case of an eligible employer described in clause (iii) which had not more than 25 employees who received at least $5,000 of compensation from the employer for the preceding year,
 
-&emsp;&emsp;&emsp;In the case of a year beginning after December 31, 2005, the Secretary shall adjust the $10,000 amount under clause (i) at the same time and in the same manner as under section 415(d), except that the base period taken into account shall be the calendar quarter beginning July 1, 2004, and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
+&emsp;&emsp;&emsp;&emsp;(II) the adjusted dollar amount in the case of an eligible employer described in clause (iii) which is not described in subclause (I) and which elects, at such time and in such manner as prescribed by the Secretary, the application of this subclause for the year, and
+
+&emsp;&emsp;&emsp;&emsp;(III) $10,000 in any other case.
+
+#### (ii) Adjusted dollar amount
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the adjusted dollar amount is an amount equal to 110 percent of the dollar amount in effect under clause (i)(III) for calendar year 2024.
+
+#### (iii) Cost-of-living adjustment
+
+#### (I) Certain large employers
+
+&emsp;&emsp;&emsp;&emsp;In the case of a year beginning after December 31, 2005, the Secretary shall adjust the $10,000 amount under clause (i)(III) at the same time and in the same manner as under section 415(d), except that the base period taken into account shall be the calendar quarter beginning July 1, 2004, and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
+
+#### (II) Other employers
+
+&emsp;&emsp;&emsp;&emsp;In the case of a year beginning after December 31, 2024, the Secretary shall adjust annually the adjusted dollar amount under clause (ii) in the manner provided under subclause (I) of this clause, except that the base period taken into account shall be the calendar quarter beginning July 1, 2023.
+
+#### (iv) Employer has not had another plan within 3 years
+
+&emsp;&emsp;&emsp;An eligible employer is described in this clause only if, during the 3-taxable-year period immediately preceding the 1st year the employer maintains the qualified salary reduction arrangement under this paragraph, neither the employer nor any member of any controlled group including the employer (or any predecessor of either) established or maintained any plan described in clause (i), (ii), or (iv) of section 219(g)(5)(A) with respect to which contributions were made, or benefits were accrued, for substantially the same employees as are eligible to participate in such qualified salary reduction arrangement.
+
+#### (F) Matching contributions for qualified student loan payments
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to the rules of clause (iii), an arrangement shall not fail to be treated as meeting the requirements of subparagraph (A)(iii) solely because under the arrangement, solely for purposes of such subparagraph, qualified student loan payments are treated as amounts elected by the employee under subparagraph (A)(i)(I) to the extent such payments do not exceed—
+
+&emsp;&emsp;&emsp;&emsp;(I) the applicable dollar amount under subparagraph (E) (after application of section 414(v)) for the year (or, if lesser, the employee's compensation (as defined in section 415(c)(3)) for the year), reduced by
+
+&emsp;&emsp;&emsp;&emsp;(II) any other amounts elected by the employee under subparagraph (A)(i)(I) for the year.
+
+#### (ii) Qualified student loan payment
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph—
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The term "qualified student loan payment" means a payment made by an employee in repayment of a qualified education loan (as defined in section 221(d)(1)) incurred by the employee to pay qualified higher education expenses, but only if the employee certifies to the employer making the matching contribution that such payment has been made on such a loan.
+
+#### (II) Qualified higher education expenses
+
+&emsp;&emsp;&emsp;&emsp;The term "qualified higher education expenses" has the same meaning as when used in section 401(m)(4)(D).
+
+#### (iii) Applicable rules
+
+&emsp;&emsp;&emsp;Clause (i) shall apply to an arrangement only if, under the arrangement—
+
+&emsp;&emsp;&emsp;&emsp;(I) matching contributions on account of qualified student loan payments are provided only on behalf of employees otherwise eligible to elect contributions under subparagraph (A)(i)(I), and
+
+&emsp;&emsp;&emsp;&emsp;(II) all employees otherwise eligible to participate in the arrangement are eligible to receive matching contributions on account of qualified student loan payments.
+
+#### (G) Adjustment for inflation
+
+&emsp;&emsp;In the case of taxable years beginning after December 31, 2024, the $5,000 amount in subparagraph (A)(iv)(II) shall be increased by an amount equal to—
+
+&emsp;&emsp;&emsp;(i) such amount, multiplied by
+
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2023" for "2016" in subparagraph (A)(ii) thereof.
+
+> &emsp;&emsp;If any amount as adjusted under the preceding sentence is not a multiple of $100, such amount shall be rounded to the nearest multiple of $100.
+
+#### (H) 2-year grace period
+
+&emsp;&emsp;An eligible employer which had not more than 25 employees who received at least $5,000 of compensation from the employer for 1 or more years, and which has more than 25 such employees for any subsequent year, shall be treated for purposes of subparagraph (E)(i) as having 25 such employees for the 2 years following the last year the employer had not more than 25 such employees, and not as having made the election under subparagraph (E)(i)(II) for such 2 years. Rules similar to the second sentence of subparagraph (C)(i)(II) shall apply for purposes of this subparagraph.
 
 #### (3) Vesting requirements
 
@@ -890,9 +966,13 @@ For purposes of subsection (a)(2), the term "bank" means—
 
 &emsp;A plan shall not be treated as failing to satisfy the requirements of this subsection or any other provision of this title merely because the employer makes all contributions to the individual retirement accounts or annuities of a designated trustee or issuer. The preceding sentence shall not apply unless each plan participant is notified in writing (either separately or as part of the notice under subsection (l)(2)(C)) that the participant's balance may be transferred without cost or penalty to another individual account or annuity in accordance with subsection (d)(3)(G).
 
-#### (8) Coordination with maximum limitation under subsection (a)
+#### (8) Coordination with maximum limitation
 
-&emsp;In the case of any simple retirement account, subsections (a)(1) and (b)(2) shall be applied by substituting "the sum of the dollar amount in effect under paragraph (2)(A)(ii) of this subsection and the employer contribution required under subparagraph (A)(iii) or (B)(i) of paragraph (2) of this subsection, whichever is applicable" for "the dollar amount in effect under section 219(b)(1)(A)".
+&emsp;In the case of any simple retirement account—
+
+&emsp;&emsp;(A) subsection (a)(1) shall be applied by substituting for "the amount in effect for such taxable year under section 219(b)(1)(A)" the following: "the sum of the dollar amount in effect under subsection (p)(2)(A)(ii), the employer contribution required under subsection (p)(2)(A)(iii) or (p)(2)(B)(i), whichever is applicable, and a contribution which meets the requirement of subsection (p)(2)(A)(iv) with respect to the employee", and
+
+&emsp;&emsp;(B) subsection (b)(2)(B) shall be applied by substituting for "the dollar amount in effect under section 219(b)(1)(A)" the following: "the sum of the dollar amount in effect under subsection (p)(2)(A)(ii), the employercontribution required under subsection (p)(2)(A)(iii) or (p)(2)(B)(i), whichever is applicable, and a contribution which meets the requirement of subsection (p)(2)(A)(iv) with respect to the employee".
 
 #### (9) Matching contributions on behalf of self-employed individuals not treated as elective employer contributions
 
@@ -906,7 +986,7 @@ For purposes of subsection (a)(2), the term "bank" means—
 
 &emsp;&emsp;&emsp;(i) the employer satisfies requirements similar to the requirements of section 410(b)(6)(C)(i)(II); and
 
-&emsp;&emsp;&emsp;(ii) the qualified salary reduction arrangement maintained by the employerwould satisfy the requirements of this subsection after the transaction if the employer which maintained the arrangement before the transaction had remained a separate employer.
+&emsp;&emsp;&emsp;(ii) the qualified salary reduction arrangement maintained by the employer would satisfy the requirements of this subsection after the transaction if the employer which maintained the arrangement before the transaction had remained a separate employer.
 
 #### (B) Applicable requirement
 
@@ -922,7 +1002,29 @@ For purposes of subsection (a)(2), the term "bank" means—
 
 &emsp;&emsp;For purposes of this paragraph, the term "transition period" means the period beginning on the date of any transaction described in subparagraph (A) and ending on the last day of the second calendar year following the calendar year in which such transaction occurs.
 
-#### (12) <sup>2</sup> Roth contribution election
+#### (11) Replacement of simple retirement accounts with safe harbor plans during plan year
+
+#### (A) In general
+
+&emsp;&emsp;Subject to the requirements of this paragraph, an employer may elect (in such form and manner as the Secretary may prescribe) at any time during a year to terminate the qualified salary reduction arrangement under paragraph (2), but only if the employer establishes and maintains (as of the day after the termination date) a safe harbor plan to replace the terminated arrangement.
+
+#### (B) Combined limits on contributions
+
+&emsp;&emsp;The terminated arrangement and safe harbor plan shall both be treated as violating the requirements of paragraph (2)(A)(ii) or section 401(a)(30) (whichever is applicable) if the aggregate elective contributions of the employee under the terminated arrangement during its last plan year and under the safe harbor plan during its transition year exceed the sum of—
+
+&emsp;&emsp;&emsp;(i) the applicable dollar amount for such arrangement (determined on a full-year basis) under this subsection (after the application of section 414(v)) with respect to the employee for such last plan year multiplied by a fraction equal to the number of days in such plan year divided by 365, and
+
+&emsp;&emsp;&emsp;(ii) the applicable dollar amount (as so determined) under section 402(g)(1) for such safe harbor plan on such elective contributions during the transition year multiplied by a fraction equal to the number of days in such transition year divided by 365.
+
+#### (C) Transition year
+
+&emsp;&emsp;For purposes of this paragraph, the transition year is the period beginning after the termination date and ending on the last day of the calendar year during which the termination occurs.
+
+#### (D) Safe harbor plan
+
+&emsp;&emsp;For purposes of this paragraph, the term "safe harbor plan" means a qualified cash or deferred arrangement which meets the requirements of paragraph (11), (12), (13), or (16) of section 401(k).
+
+#### (12) Roth contribution election
 
 &emsp;An individual retirement plan which is designated as a Roth IRA shall not be treated as a simple retirement account under this subsection unless the employee elects for such plan to be so treated (at such time and in such manner as the Secretary may provide).
 
@@ -964,187 +1066,11 @@ For purposes of subsection (a)(2), the term "bank" means—
 
 &emsp;&emsp;<b>(2) For tax on certain accumulations in individual retirement accounts or annuities, see section 4974.</b>
 
-(Added Pub. L. 93–406, title II, §2002(b), Sept. 2, 1974, 88 Stat. 959; amended Pub. L. 94–455, title XV, §1501(b)(2), (5), (10), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1735–1737, 1834; Pub. L. 95–600, title I, §§152(a), (b), 156(c)(1), (3), 157(c)(1), (d)(1), (e)(1)(A), (g)(3), (h)(2), title VII, §703(c)(4), Nov. 6, 1978, 92 Stat. 2797, 2802, 2803, 2805, 2806, 2808, 2939; Pub. L. 96–222, title I, §101(a)(10)(A), (C), (F), (G), (J)(i), (14)(B), (E)(ii), Apr. 1, 1980, 94 Stat. 201–205; Pub. L. 96–605, title II, §225(b)(3), (4), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title III, §§311(g)(1)(A)–(C), (2), (h)(2), 312(b)(2), (c)(5), 313(b)(2), 314(b)(1), Aug. 13, 1981, 95 Stat. 281–284, 286; Pub. L. 97–248, title II, §§237(e)(3), 238(d)(3), (4), 243(a), (b)(1)(A), title III, §335(a)(1), Sept. 3, 1982, 96 Stat. 512, 513, 521, 522, 628; Pub. L. 97–448, title I, §103(d)(1), (e), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 98–369, div. A, title I, §147(a), title IV, §491(d)(19)–(24), title V, §§521(b), 522(d)(12), title VII, §713(c)(2)(B), (f)(2), (5)(B), (g)(2), (j), July 18, 1984, 98 Stat. 687, 850, 867, 871, 957, 959, 960; Pub. L. 99–514, title XI, §§1102(a), (b)(2), (c), (e)(2), 1108(a), (d)–(g)(1), (4), (6), 1121(c)(2), 1122(e)(2)(B), 1123(d)(2), 1144(a), title XVIII, §§1852(a)(1), (5)(C), (7)(A), 1875(c)(6)(A), (8), 1898(a)(5), Oct. 22, 1986, 100 Stat. 2414–2416, 2431, 2433, 2434, 2465, 2470, 2475, 2490, 2864–2866, 2895, 2944; Pub. L. 100–647, title I, §§1011(b)(1)–(3), (c)(7)(C), (f)(1)–(5), (10), (i)(5), 1011A(a)(2)(A), 1018(t)(3)(D), title VI, §6057(a), Nov. 10, 1988, 102 Stat. 3456, 3458, 3461–3463, 3468, 3472, 3588, 3698; Pub. L. 101–239, title VII, §§7811(m)(7), 7841(a)(1), Dec. 19, 1989, 103 Stat. 2412, 2427; Pub. L. 102–318, title V, §521(b)(16)–(19), July 3, 1992, 106 Stat. 311; Pub. L. 103–66, title XIII, §13212(b), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §732(d), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1421(a), (b)(3)(B), (5), (6), (c), 1427(b)(3), 1431(c)(1)(B), 1455(b)(1), Aug. 20, 1996, 110 Stat. 1792, 1796–1798, 1802, 1803, 1817; Pub. L. 105–34, title III, §§302(d), 304(a), title XV, §1501(b), title XVI, §1601(d)(1)(A)–(C)(i), (D)–(G), Aug. 5, 1997, 111 Stat. 829, 831, 1058, 1087, 1088; Pub. L. 105–206, title VI, §§6015(a), 6016(a)(1), 6018(b), July 22, 1998, 112 Stat. 820–822; Pub. L. 106–554, §1(a)(7) \[title III, §319(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §§601(b), 602(a),611(c)(1), (f)(1), (2), (g)(2), 641(e)(8), 642(a), (b)(2), (3), 643(c), 644(b), June 7, 2001, 115 Stat. 95, 97, 99, 121–123; Pub. L. 107–147, title IV, §411(i)(1), (j)(1), Mar. 9, 2002, 116 Stat. 46, 47; Pub. L. 108–311, title IV, §§404(d), 408(a)(12), (13), Oct. 4, 2004, 118 Stat. 1188, 1191; Pub. L. 109–280, title XII, §1201(a), Aug. 17, 2006, 120 Stat. 1063; Pub. L. 109–432, div. A, title III, §307(a), Dec. 20, 2006, 120 Stat. 2951; Pub. L. 110–172, §3(a), Dec. 29, 2007, 121 Stat. 2474; Pub. L. 110–343, div. C, title II, §205(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §725(a), Dec. 17, 2010, 124 Stat. 3316; Pub. L. 112–240, title II, §208(a), Jan. 2, 2013, 126 Stat. 2324; Pub. L. 113–295, div. A, title I, §108(a), title II, §221(a)(53), Dec. 19, 2014, 128 Stat. 4013, 4045; Pub. L. 114–113, div. Q, title I, §112(a), title III, §306(a), Dec. 18, 2015, 129 Stat. 3047, 3089; Pub. L. 115–97, title I, §11051(b)(3)(G), Dec. 22, 2017, 131 Stat. 2090; Pub. L. 115–141, div. U, title IV, §401(a)(75), (76), Mar. 23, 2018, 132 Stat. 1187; Pub. L. 116–94, div. O, title I, §§101(a)(3), 107(b), 114(c), 116(a)(1), Dec. 20, 2019, 133 Stat. 3141, 3149, 3156, 3161; Pub. L. 117–328, div. T, title I, §§107(d), 110(d), 116(a), (b)(1), 117(a), (c)–(f), title III, §§307(a), (b), 322(a), 332(a), (b)(2), title IV, §401(b)(4), title VI, §601(b)(3), (c)(1), Dec. 29, 2022, 136 Stat. 5289, 5292, 5298–5301, 5343, 5345, 5356, 5367, 5368, 5388, 5390.)
+(Added Pub. L. 93–406, title II, §2002(b), Sept. 2, 1974, 88 Stat. 959; amended Pub. L. 94–455, title XV, §1501(b)(2), (5), (10), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1735–1737, 1834; Pub. L. 95–600, title I, §§152(a), (b), 156(c)(1), (3), 157(c)(1), (d)(1), (e)(1)(A), (g)(3), (h)(2), title VII, §703(c)(4), Nov. 6, 1978, 92 Stat. 2797, 2802, 2803, 2805, 2806, 2808, 2939; Pub. L. 96–222, title I, §101(a)(10)(A), (C), (F), (G), (J)(i), (14)(B), (E)(ii), Apr. 1, 1980, 94 Stat. 201–205; Pub. L. 96–605, title II, §225(b)(3), (4), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title III, §§311(g)(1)(A)–(C), (2), (h)(2), 312(b)(2), (c)(5), 313(b)(2), 314(b)(1), Aug. 13, 1981, 95 Stat. 281–284, 286; Pub. L. 97–248, title II, §§237(e)(3), 238(d)(3), (4), 243(a), (b)(1)(A), title III, §335(a)(1), Sept. 3, 1982, 96 Stat. 512, 513, 521, 522, 628; Pub. L. 97–448, title I, §103(d)(1), (e), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 98–369, div. A, title I, §147(a), title IV, §491(d)(19)–(24), title V, §§521(b), 522(d)(12), title VII, §713(c)(2)(B), (f)(2), (5)(B), (g)(2), (j), July 18, 1984, 98 Stat. 687, 850, 867, 871, 957, 959, 960; Pub. L. 99–514, title XI, §§1102(a), (b)(2), (c), (e)(2), 1108(a), (d)–(g)(1), (4), (6), 1121(c)(2), 1122(e)(2)(B), 1123(d)(2), 1144(a), title XVIII, §§1852(a)(1), (5)(C), (7)(A), 1875(c)(6)(A), (8), 1898(a)(5), Oct. 22, 1986, 100 Stat. 2414–2416, 2431, 2433, 2434, 2465, 2470, 2475, 2490, 2864–2866, 2895, 2944; Pub. L. 100–647, title I, §§1011(b)(1)–(3), (c)(7)(C), (f)(1)–(5), (10), (i)(5), 1011A(a)(2)(A), 1018(t)(3)(D), title VI, §6057(a), Nov. 10, 1988, 102 Stat. 3456, 3458, 3461–3463, 3468, 3472, 3588, 3698; Pub. L. 101–239, title VII, §§7811(m)(7), 7841(a)(1), Dec. 19, 1989, 103 Stat. 2412, 2427; Pub. L. 102–318, title V, §521(b)(16)–(19), July 3, 1992, 106 Stat. 311; Pub. L. 103–66, title XIII, §13212(b), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §732(d), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1421(a), (b)(3)(B), (5), (6), (c), 1427(b)(3), 1431(c)(1)(B), 1455(b)(1), Aug. 20, 1996, 110 Stat. 1792, 1796–1798, 1802, 1803, 1817; Pub. L. 105–34, title III, §§302(d), 304(a), title XV, §1501(b), title XVI, §1601(d)(1)(A)–(C)(i), (D)–(G), Aug. 5, 1997, 111 Stat. 829, 831, 1058, 1087, 1088; Pub. L. 105–206, title VI, §§6015(a), 6016(a)(1), 6018(b), July 22, 1998, 112 Stat. 820–822; Pub. L. 106–554, §1(a)(7) \[title III, §319(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §§601(b), 602(a), 611(c)(1), (f)(1), (2), (g)(2), 641(e)(8), 642(a), (b)(2), (3), 643(c), 644(b), June 7, 2001, 115 Stat. 95, 97, 99, 121–123; Pub. L. 107–147, title IV, §411(i)(1), (j)(1), Mar. 9, 2002, 116 Stat. 46, 47; Pub. L. 108–311, title IV, §§404(d), 408(a)(12), (13), Oct. 4, 2004, 118 Stat. 1188, 1191; Pub. L. 109–280, title XII, §1201(a), Aug. 17, 2006, 120 Stat. 1063; Pub. L. 109–432, div. A, title III, §307(a), Dec. 20, 2006, 120 Stat. 2951; Pub. L. 110–172, §3(a), Dec. 29, 2007, 121 Stat. 2474; Pub. L. 110–343, div. C, title II, §205(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §725(a), Dec. 17, 2010, 124 Stat. 3316; Pub. L. 112–240, title II, §208(a), Jan. 2, 2013, 126 Stat. 2324; Pub. L. 113–295, div. A, title I, §108(a), title II, §221(a)(53), Dec. 19, 2014, 128 Stat. 4013, 4045; Pub. L. 114–113, div. Q, title I, §112(a), title III, §306(a), Dec. 18, 2015, 129 Stat. 3047, 3089; Pub. L. 115–97, title I, §11051(b)(3)(G), Dec. 22, 2017, 131 Stat. 2090; Pub. L. 115–141, div. U, title IV, §401(a)(75), (76), Mar. 23, 2018, 132 Stat. 1187; Pub. L. 116–94, div. O, title I, §§101(a)(3), 107(b), 114(c), 116(a)(1), Dec. 20, 2019, 133 Stat. 3141, 3149, 3156, 3161; Pub. L. 117–328, div. T, title I, §§107(d), 110(d), 116(a), (b)(1), 117(a), (c)–(f), title III, §§307(a), (b), 322(a), 332(a), (b)(2), title IV, §401(b)(4), title VI, §601(b)(3), (c)(1), Dec. 29, 2022, 136 Stat. 5289, 5292, 5298–5301, 5343, 5345, 5356, 5367, 5368, 5388, 5390.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
-
-#### Amendment of Section
-
-<i>Pub. L. 117–328, div. T, title I, §110(d), (h), Dec. 29, 2022, 136 Stat. 5292, 5293, provided that, applicable to contributions made for plan years beginning after Dec. 31, 2023, subsection (p)(2) of this section is amended by adding at the end the following new subparagraph:</i>
-
-#### <i>"(F) Matching contributions for qualified student loan payments</i>
-
-#### <i>"(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>"Subject to the rules of clause (iii), an arrangement shall not fail to be treated as meeting the requirements of subparagraph (A)(iii) solely because under the arrangement, solely for purposes of such subparagraph, qualified student loan payments are treated as amounts elected by the employee under subparagraph (A)(i)(I) to the extent such payments do not exceed—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) the applicable dollar amount under subparagraph (E) (after application of section 414(v)) for the year (or, if lesser, the employee's compensation (as defined in section 415(c)(3)) for the year), reduced by</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) any other amounts elected by the employee under subparagraph (A)(i)(I) for the year.</i>
-
-#### <i>"(ii) Qualified student loan payment</i>
-
-&emsp;&emsp;&emsp;<i>"For purposes of this subparagraph—</i>
-
-#### <i>"(I) In general</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"The term "qualified student loan payment" means a payment made by an employee in repayment of a qualified education loan (as defined in section 221(d)(1)) incurred by the employee to pay qualified higher education expenses, but only if the employee certifies to the employer making the matching contribution that such payment has been made on such a loan.</i>
-
-#### <i>"(II) Qualified higher education expenses</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"The term "qualified higher education expenses" has the same meaning as when used in section 401(m)(4)(D).</i>
-
-#### <i>"(iii) Applicable rules</i>
-
-&emsp;&emsp;&emsp;<i>"Clause (i) shall apply to an arrangement only if, under the arrangement—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) matching contributions on account of qualified student loan payments are provided only on behalf of employees otherwise eligible to elect contributions under subparagraph (A)(i)(I), and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) all employees otherwise eligible to participate in the arrangement are eligible to receive matching contributions on account of qualified student loan payments."</i>
-
-<i>See 2022 Amendment note below.</i>
-
-<i>Pub. L. 117–328, div. T, title I, §§116(a), (b)(1), (c), 117(a), (c)–(f), (h), Dec. 29, 2022, 136 Stat. 5298–5301, provided that, applicable to taxable years beginning after Dec. 31, 2023, subsection (p) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (2)—</i>
-
-<i>(A) in subparagraph (A)—</i>
-
-<i>(i) by striking "and" at the end of clause (iii), by redesignating clause (iv) as clause (v), and by inserting after clause (iii) the following new clause:</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) the employer may make nonelective contributions of a uniform percentage (up to 10 percent) of compensation for each employee who is eligible to participate in the arrangement, and who has at least $5,000 of compensation from the employer for the year, but such contributions with respect to any employee shall not exceed $5,000 for the year, and";</i>
-
-<i>(ii) in clause (v) as redesignated, by striking "or (iii)" and inserting ", (iii), or (iv)"; and</i>
-
-<i>(iii) by adding at the end the following:</i>
-
-> &emsp;&emsp;<i>"The compensation taken into account under clause (iv) for any year shall not exceed the limitation in effect for such year under section 401(a)(17).";</i>
-
-<i>(B) in subparagraph (B), by adding at the end the following new clause:</i>
-
-#### <i>"(iii) Special rule for electing larger employers</i>
-
-&emsp;&emsp;&emsp;<i>"In the case of an employer which had more than 25 employees who received at least $5,000 of compensation from the employer for the preceding year, and which makes the election under subparagraph (E)(i)(II) for any year, clause (i) shall be applied for such year by substituting '3 percent' for '2 percent'.";</i>
-
-<i>(C) in subparagraph (C)(ii)—</i>
-
-<i>(i) in subclause (I), by striking "The term" and inserting "Except as provided in subclause (IV), the term";</i>
-
-<i>(ii) in subclauses (II) and (III), by striking "3 percent" each place it appears and inserting "the applicable percentage"; and</i>
-
-<i>(iii) by adding at the end the following new subclause:</i>
-
-#### <i>"(IV) Special rule for electing larger employers</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"In the case of an employer which had more than 25 employees who received at least $5,000 of compensation from the employer for the preceding year, and which makes the election under subparagraph (E)(i)(II) for any year, subclause (I) shall be applied for such year by substituting '4 percent' for '3 percent'.";</i>
-
-<i>(D) in subparagraph (E)—</i>
-
-<i>(i) by striking "amount is" and all that follows in clause (i) and inserting the following: "dollar amount is—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) the adjusted dollar amount in the case of an eligible employer described in clause (iii) which had not more than 25 employees who received at least $5,000 of compensation from the employer for the preceding year,</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) the adjusted dollar amount in the case of an eligible employer described in clause (iii) which is not described in subclause (I) and which elects, at such time and in such manner as prescribed by the Secretary, the application of this subclause for the year, and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(III) $10,000 in any other case.";</i>
-
-<i>(ii) by redesignating clause (ii) as clause (iii) and by inserting after clause (i) the following new clause:</i>
-
-#### <i>"(ii) Adjusted dollar amount</i>
-
-&emsp;&emsp;&emsp;<i>"For purposes of clause (i), the adjusted dollar amount is an amount equal to 110 percent of the dollar amount in effect under clause (i)(III) for calendar year 2024."</i>
-
-<i>(iii) in clause (iii), as redesignated—</i>
-
-<i>(I) by striking</i>
-
-#### <i>"adjustment</i>
-
-&emsp;&emsp;&emsp;<i>"In the case of"</i>
-
-<i>and inserting the following:</i>
-
-#### <i>"adjustment</i>
-
-#### <i>"(I) Certain large employers</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"In the case of";</i>
-
-<i>(II) by striking "clause (i)" and inserting "clause (i)(III)"; and</i>
-
-<i>(III) by adding at the end the following new subclause:</i>
-
-#### <i>"(II) Other employers</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"In the case of a year beginning after December 31, 2024, the Secretary shall adjust annually the adjusted dollar amount under clause (ii) in the manner provided under subclause (I) of this clause, except that the base period taken into account shall be the calendar quarter beginning July 1, 2023."; and</i>
-
-<i>(iv) by adding at the end the following new clause:</i>
-
-#### <i>"(iv) Employer has not had another plan within 3 years</i>
-
-&emsp;&emsp;&emsp;<i>"An eligible employer is described in this clause only if, during the 3-taxable-year period immediately preceding the 1st year the employer maintains the qualified salary reduction arrangement under this paragraph, neither the employer nor any member of any controlled group including the employer (or any predecessor of either) established or maintained any plan described in clause (i), (ii), or (iv) of section 219(g)(5)(A) with respect to which contributions were made, or benefits were accrued, for substantially the same employees as are eligible to participate in such qualified salary reduction arrangement.";</i>
-
-<i>(E) by adding at the end the following new subparagraph (G):</i>
-
-#### <i>"(G) Adjustment for inflation</i>
-
-&emsp;&emsp;<i>"In the case of taxable years beginning after December 31, 2024, the $5,000 amount in subparagraph (A)(iv)(II) shall be increased by an amount equal to—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) such amount, multiplied by</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting '2023' for '2016' in subparagraph (A)(ii) thereof.</i>
-
-> &emsp;&emsp;<i>If any amount as adjusted under the preceding sentence is not a multiple of $100, such amount shall be rounded to the nearest multiple of $100."; and</i>
-
-<i>(F) by adding at the end the following new subparagraph (H):</i>
-
-#### <i>"(H) 2-year grace period</i>
-
-&emsp;&emsp;<i>"An eligible employer which had not more than 25 employees who received at least $5,000 of compensation from the employer for 1 or more years, and which has more than 25 such employees for any subsequent year, shall be treated for purposes of subparagraph (E)(i) as having 25 such employees for the 2 years following the last year the employer had not more than 25 such employees, and not as having made the election under subparagraph (E)(i)(II) for such 2 years. Rules similar to the second sentence of subparagraph (C)(i)(II) shall apply for purposes of this subparagraph."; and</i>
-
-<i>(2) by amending paragraph (8) to read as follows:</i>
-
-#### <i>"(8) Coordination with maximum limitation</i>
-
-&emsp;<i>"In the case of any simple retirement account—</i>
-
-&emsp;&emsp;<i>"(A) subsection (a)(1) shall be applied by substituting for 'the amount in effect for such taxable year under section 219(b)(1)(A)' the following: 'the sum of the dollar amount in effect under subsection (p)(2)(A)(ii), the employer contribution required under subsection (p)(2)(A)(iii) or (p)(2)(B)(i), whichever is applicable, and a contribution which meets the requirement of subsection (p)(2)(A)(iv) with respect to the employee', and</i>
-
-&emsp;&emsp;<i>"(B) subsection (b)(2)(B) shall be applied by substituting for 'the dollar amount in effect under section 219(b)(1)(A)' the following: 'the sum of the dollar amount in effect under subsection (p)(2)(A)(ii), the employer contribution required under subsection (p)(2)(A)(iii) or (p)(2)(B)(i), whichever is applicable, and a contribution which meets the requirement of subsection (p)(2)(A)(iv) with respect to the employee'."</i>
-
-<i>See 2022 Amendment notes below.</i>
-
-<i>Pub. L. 117–328, div. T, title III, §332(a), (b)(2), (c), Dec. 29, 2022, 136 Stat. 5367, 5368, provided that, applicable to plan years beginning after Dec. 31, 2023, this section is amended as follows:</i>
-
-<i>(1) in subsection (d)(3)(G), by striking "72(t)(6)" and inserting "72(t)(6)(A)"; and</i>
-
-<i>(2) in subsection (p), by adding at the end the following new paragraph:</i>
-
-#### <i>"(11) Replacement of simple retirement accounts with safe harbor plans during plan year</i>
-
-#### <i>"(A) In general</i>
-
-&emsp;&emsp;<i>"Subject to the requirements of this paragraph, an employer may elect (in such form and manner as the Secretary may prescribe) at any time during a year to terminate the qualified salary reduction arrangement under paragraph (2), but only if the employer establishes and maintains (as of the day after the termination date) a safe harbor plan to replace the terminated arrangement.</i>
-
-#### <i>"(B) Combined limits on contributions</i>
-
-&emsp;&emsp;<i>"The terminated arrangement and safe harbor plan shall both be treated as violating the requirements of paragraph (2)(A)(ii) or section 401(a)(30) (whichever is applicable) if the aggregate elective contributions of the employee under the terminated arrangement during its last plan year and under the safe harbor plan during its transition year exceed the sum of—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) the applicable dollar amount for such arrangement (determined on a full-year basis) under this subsection (after the application of section 414(v)) with respect to the employee for such last plan year multiplied by a fraction equal to the number of days in such plan year divided by 365, and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) the applicable dollar amount (as so determined) under section 402(g)(1) for such safe harbor plan on such elective contributions during the transition year multiplied by a fraction equal to the number of days in such transition year divided by 365.</i>
-
-#### <i>"(C) Transition year</i>
-
-&emsp;&emsp;<i>"For purposes of this paragraph, the transition year is the period beginning after the termination date and ending on the last day of the calendar year during which the termination occurs.</i>
-
-#### <i>"(D) Safe harbor plan</i>
-
-&emsp;&emsp;<i>"For purposes of this paragraph, the term 'safe harbor plan' means a qualified cash or deferred arrangement which meets the requirements of paragraph (11), (12), (13), or (16) of section 401(k)."</i>
-
-<i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -1356,7 +1282,7 @@ Subsec. (k)(8). Pub. L. 103–66, §13212(b)(2), amended heading and text of par
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–318, §521(b)(16), substituted "402(c)" for "402(a)(5), 402(a)(7)".
 
-Subsec. (d)(3)(A)(ii). Pub. L. 102–318, §521(b)(17), amended clause (ii) generally. Prior to amendment, clause (ii) read as follows: "the entire amount received (including money and any other property) represents the entire amount in the account or the entire value of the annuity and no amount in the account and no part of the value of the annuity is attributable to any source other than a rollover contribution of a qualified total distribution (as defined in section 402(a)(5)(E)(i)) from an employee's trust described in section 401(a) which is exempt from tax under section 501(a), or an annuity plan described in section 403(a) and any earnings on such sums and the entire amount thereof is paid into another such trust (for the benefit of such individual) or annuity plan not later than the 60th day on which he receives the payment or distribution; or".
+Subsec. (d)(3)(A)(ii). Pub. L. 102–318, §521(b)(17), amended clause (ii) generally. Prior to amendment, clause (ii) read as follows: "the entire amount received (including money and any other property) represents the entire amount in the account or the entire value of the annuity and no amount in the account and no part of the value of the annuity is attributable to any source other than a rollover contribution of a qualifiedtotal distribution (as defined in section 402(a)(5)(E)(i)) from an employee's trust described in section 401(a) which is exempt from tax under section 501(a), or an annuity plan described in section 403(a) and any earnings on such sums and the entire amount thereof is paid into another such trust (for the benefit of such individual) or annuity plan not later than the 60th day on which he receives the payment or distribution; or".
 
 Subsec. (d)(3)(B). Pub. L. 102–318, §521(b)(18), struck out at end "Clause (ii) of subparagraph (A) shall not apply to any amount paid or distributed out of an individual retirement account or an individual retirement annuity to which an amount was contributed which was treated as a rollover contribution by section 402(a)(7) (or in the case of an individual retirement annuity, such section as made applicable by section 403(a)(4)(B))."
 
@@ -1424,7 +1350,7 @@ Subsec. (d)(2). Pub. L. 99–514, §1102(c), substituted "Special rules for appl
 
 Subsec. (d)(3)(A). Pub. L. 99–514, §1875(c)(8)(C), inserted at end "Clause (ii) shall not apply during the 5-year period beginning on the date of the qualified total distribution referred to in such clause if the individual was treated as a 5-percent owner with respect to such distribution under section 402(a)(5)(F)(ii)."
 
-Subsec. (d)(3)(A)(ii). Pub. L. 99–514, §1875(c)(8)(A), (B), struck out "(other than a trust forming part of a plan under which the individual was an employee within the meaning of section 401(c)(1) at the time contributions were made on his behalf under the plan)" after "section 501(a)" and struck out "(other than a plan under which the individual was an employee within the meaning of section 401(c)(1) at the time contributions were made on his behalf under the plan)" after "section 403(a)".
+Subsec. (d)(3)(A)(ii). Pub. L. 99–514, §1875(c)(8)(A), (B), struck out "(other than a trust forming part of a plan under which the individual was an employee within the meaning of section 401(c)(1) at the time contributions were made on his behalf under the plan)" after "section501(a)" and struck out "(other than a plan under which the individual was an employee within the meaning of section 401(c)(1) at the time contributions were made on his behalf under the plan)" after "section 403(a)".
 
 Pub. L. 99–514, §1121(c)(2), made amendment identical to Pub. L. 99–514, §1875(c)(8)(A), (B), see above.
 
@@ -1492,7 +1418,7 @@ Subsec. (d)(3)(A)(i). Pub. L. 98–369, §491(d)(20), struck out "or retirement 
 
 Subsec. (d)(3)(A)(ii). Pub. L. 98–369, §522(d)(12), substituted "rollover contribution of a qualified total distribution (as defined in section 402(a)(5)(E)(i)) from an employee's trust" for "rollover contribution from an employee's trust".
 
-Subsec. (d)(3)(B). Pub. L. 98–369, §491(d)(21), substituted "or an individual retirement annuity" for ", individual retirement annuity, or a retirement bond".
+Subsec. (d)(3)(B). Pub. L. 98–369, §491(d)(21), substituted "or an individual retirement annuity" for", individual retirement annuity, or a retirement bond".
 
 Subsec. (d)(3)(C), (D). Pub. L. 98–369, §713(g)(2), designated the subpar. (C), as added by section 335(a)(1) of Pub. L. 97–248, relating to permitting partial rollovers, as subpar. (D).
 
@@ -1516,7 +1442,7 @@ Subsec. (k)(3)(E). Pub. L. 98–369, §491(d)(24), substituted "or 403(a)" for "
 
 Subsec. (k)(3)(C)(ii). Pub. L. 97–448, §103(d)(1)(A), inserted "(other than an employee within the meaning of section 401(c)(1))" after "a simplified employee pension on behalf of each employee".
 
-Subsecs. (m), (n). Pub. L. 97–448, §103(e)(1), amended directory language of Pub. L. 97–34, §314(b)(1), therebycorrecting subsec. designations. See 1981 Amendment note below for subsecs. (m) and (n).
+Subsecs. (m), (n). Pub. L. 97–448, §103(e)(1), amended directory language of Pub. L. 97–34, §314(b)(1), thereby correcting subsec. designations. See 1981 Amendment note below for subsecs. (m) and (n).
 
 <b>1982</b>—Subsec. (a)(2). Pub. L. 97–248, §237(e)(3)(A), substituted reference to subsection (n) of this section, for reference to section 401(d)(1).
 
@@ -1564,7 +1490,7 @@ Subsec. (d)(5). Pub. L. 96–222, §101(a)(10)(C), (14)(E)(ii), in subpar. (A) i
 
 Subsec. (j)(3). Pub. L. 96–222, §101(a)(10)(J)(i), struck out par. (3) which made reference to paragraph (5) of subsection (b).
 
-Subsec. (k). Pub. L. 96–222, §101(a)(10)(A), (F), (G), substituted in par. (1) "(5), and (6)" for "and (5)" and in par. (3)(D) "If the employer does not maintain an integrated plan at any time during the taxable year, taxes paid" for "Taxes paid", inserted in par. (2) provisions requiring that for purposes of this paragraph there be excluded from consideration employees described in subparagraph (A) or (C) of section 410(b)(2) and pars. (3)(E) and (6), and redesignated former par. (6) as (7).
+Subsec. (k). Pub. L. 96–222, §101(a)(10)(A), (F), (G), substituted in par. (1) "(5), and (6)" for "and (5)" and in par. (3)(D) "If the employer does not maintain an integrated plan at any time during the taxable year, taxes paid" for "Taxes paid", inserted in par. (2) provisions requiring that for purposes of this paragraph there be excluded from consideration employees described insubparagraph (A) or (C) of section 410(b)(2) and pars. (3)(E) and (6), and redesignated former par. (6) as (7).
 
 Subsec. (k)(2), (3)(B)(i). Pub. L. 96–605, §225(b)(3), (4), substituted "section 410(b)(3)" for "section 410(b)(2)".
 
@@ -1596,7 +1522,7 @@ Subsecs. (h), (i). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delega
 
 #### Effective Date of 2022 Amendment
 
-Amendment by section 107(d) of Pub. L. 117–328 applicable to distributions required to be made after Dec. 31, 2022, with respect to individuals who attain age 72 aftersuch date, see section 107(e) of Pub. L. 117–328, set out as a note under section 401 of this title.
+Amendment by section 107(d) of Pub. L. 117–328 applicable to distributions required to be made after Dec. 31, 2022, with respect to individuals who attain age 72 after such date, see section 107(e) of Pub. L. 117–328, set out as a note under section 401 of this title.
 
 Amendment by section 110(d) of Pub. L. 117–328 applicable to contributions made for plan years beginning after Dec. 31, 2023, see section 110(h) of Pub. L. 117–328, set out as a note under section 401 of this title.
 
@@ -1652,7 +1578,7 @@ Pub. L. 114–113, div. Q, title III, §306(b), Dec. 18, 2015, 129 Stat. 3089, p
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §108(b), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendment made by this section \[amending this section\] shall apply to distributions made in taxable years beginning after December 31, 2013."
+Pub. L. 113–295, div. A, title I, §108(b), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendment made bythis section \[amending this section\] shall apply to distributions made in taxable years beginning after December 31, 2013."
 
 Amendment by section 221(a)(53) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
@@ -1690,7 +1616,7 @@ Special rule.—For purposes of subsections (a)(6), (b)(3), and (d)(8) of sectio
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. C, title II, §205(b), Oct. 3, 2008, 122 Stat. 3865, provided that: "The amendment made bythis section \[amending this section\] shall apply to distributions made in taxable years beginning after December 31, 2007."
+Pub. L. 110–343, div. C, title II, §205(b), Oct. 3, 2008, 122 Stat. 3865, provided that: "The amendment made by this section \[amending this section\] shall apply to distributions made in taxable years beginning after December 31, 2007."
 
 #### Effective Date of 2007 Amendment
 
@@ -1746,7 +1672,7 @@ Amendment by section 302(d) of Pub. L. 105–34 applicable to taxable years begi
 
 Pub. L. 105–34, title III, §304(b), Aug. 5, 1997, 111 Stat. 831, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997."
 
-Pub. L. 105–34, title XV, §1501(c)(2), Aug. 5, 1997, 111 Stat. 1058, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply to years beginning after December 31, 1996."
+Pub. L. 105–34, title XV, §1501(c)(2), Aug. 5, 1997, 111 Stat. 1058, provided that: "The amendment made bysubsection (b) \[amending this section\] shall apply to years beginning after December 31, 1996."
 
 Amendment by section 1601(d)(1)(A)–(C)(i), (D)–(G) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
@@ -1814,7 +1740,7 @@ Amendment by section 147(a) of Pub. L. 98–369 applicable to contributions made
 
 Amendment by section 491(d)(19)–(24) of Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
-Amendment by section 521(b) of Pub. L. 98–369 applicable to years beginning after Dec. 31, 1984, see section 521(e) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by section 521(b) of Pub. L. 98–369 applicable to years beginning after Dec. 31, 1984, see section521(e) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 Amendment by section 522(d)(12) of Pub. L. 98–369 applicable to distributions made after July 18, 1984, in taxable years ending after that date, see section 522(e) of Pub. L. 98–369, set out as a note under section 402 of this title.
 
@@ -1990,7 +1916,7 @@ Roth ira.—The term 'Roth IRA' has the meaning given such term by section 408A(
 
 "(d)
 
-Surviving Spouse.—If a qualified airline employee died after receiving an airline payment amount, or if an airline payment amount was paid to the surviving spouse of a qualified airline employee in respect of the qualified airline employee, the surviving spouse of the qualified airline employee may take all actions permitted under section 125 of the Worker, Retiree and Employer Recovery Act of 2008 \[Pub. L. 110–458, 26 U.S.C. 408A note\], or under this section, to the same extent that the qualified airline employee could have done had the qualified airline employee survived.
+Surviving Spouse.—If a qualified airline employee died after receiving an airline payment amount,or if an airline payment amount was paid to the surviving spouse of a qualified airline employee in respect of the qualified airline employee, the surviving spouse of the qualified airline employee may take all actions permitted under section 125 of the Worker, Retiree and Employer Recovery Act of 2008 \[Pub. L. 110–458, 26 U.S.C. 408A note\], or under this section, to the same extent that the qualified airline employee could have done had the qualified airline employee survived.
 
 "(e)
 
@@ -2031,6 +1957,4 @@ Pub. L. 95–600, title I, §157(c)(2)(B), Nov. 6, 1978, 92 Stat. 2805, as amend
 Pub. L. 95–600, title I, §157(d)(3), Nov. 6, 1978, 92 Stat. 2806, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In the case of any annuity or endowment contract issued on or before the date of the enactment of this Act \[Nov. 6, 1978\] which would be an individual retirement annuity within the meaning of section 408(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by paragraph (1) \[amending subsec. (b)(2) of this section\]) but for the fact that the premiums under the contract are fixed, at the election of the taxpayer an exchange before January 1, 1981, of that contract for an individual retirement annuity within the meaning of such section 408(b) (as amended by paragraph (1)) shall be treated as a nontaxable exchange which does not constitute a distribution."
 
 <i><sup>1</sup></i><i> So in original. Concluding provisions probably should be part of subpar. (B).</i>
-
-<i><sup>2</sup></i><i> For enactment of paragraph (11) of subsection (p), see Amendment of Section note below.</i>
 

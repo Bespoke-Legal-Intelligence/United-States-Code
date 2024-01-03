@@ -52,7 +52,7 @@ Section 2353 of title 10, referred to in subsec. (a)(2), was renumbered section 
 
 #### Codification
 
-In subsec. (a)(2)(D), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41U.S.C. 5)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(2)(D), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was formerly classified to section 1857b–1 of this title.
 

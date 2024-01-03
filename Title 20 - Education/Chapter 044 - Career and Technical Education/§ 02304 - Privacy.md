@@ -14,5 +14,5 @@ Nothing in this chapter shall be construed to permit the development of a nation
 
 #### Prior Provisions
 
-A prior section 2304, Pub. L. 88–210, §5, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3082, related to privacy, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2304, Pub. L. 88–210, §5, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3082, related toprivacy, prior to the general amendment of this chapter by Pub. L. 109–270.
 

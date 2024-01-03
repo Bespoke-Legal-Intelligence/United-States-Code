@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Secretary of State is authorized, in consultation with other appropriate Government officials, to enter into an Americas Framework Agreement with any eligible country concerning the operation and use of the Americas Fund for that country. In the negotiation of such Agreements, the Secretary shall consult with the Enterprise for the Americas Board in accordance with section 2430h of this title.
+The Secretary of State is authorized, in consultation with other appropriate Government officials, to enter into an Americas FrameworkAgreement with any eligible country concerning the operation and use of the Americas Fund for that country. In the negotiation of such Agreements, the Secretary shall consult with the Enterprise for the Americas Board in accordance with section 2430h of this title.
 
 #### (b) Contents of Agreements
 
@@ -86,7 +86,7 @@ Any grant of more than $100,000 from an Americas Fund shall be subject to veto b
 
 #### (g) Eligibility criteria
 
-In the event that a country ceases to meet the eligibility requirements set forth in section2430b(a) of this title, as determined by the President pursuant to section 2430b(b) of this title, then grants from the Americas Fund for that country may only be made to nongovernmental organizations until such time as the President determines that such country meets the eligibility requirements set forth in section 2430b(a) of this title.
+In the event that a country ceases to meet the eligibility requirements set forth in section 2430b(a) of this title, as determined by the President pursuant to section 2430b(b) of this title, then grants from the Americas Fund for that country may only be made to nongovernmental organizations until such time as the President determines that such country meets the eligibility requirements set forth in section 2430b(a) of this title.
 
 (Pub. L. 87–195, pt. IV, §708, as added Pub. L. 102–549, title VI, §602(a), Oct. 28, 1992, 106 Stat. 3667; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

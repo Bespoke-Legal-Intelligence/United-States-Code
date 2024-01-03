@@ -2,7 +2,7 @@
 
 #### (a) Failure to pay assessment, etc.
 
-If a member of SIPC shall fail to file any report or information required pursuant to this chapter, or shall fail to pay when due all or any part of an assessment made upon such member pursuant to this chapter, and such failure shall not have been cured, by the filing of such report or information or by the making of such payment, together with interest and penalty thereon, within five days after receipt by such member of written notice of such failure given by or on behalf of SIPC, it shall be unlawful for such member, unless specifically authorized by the Commission, to engage in business as a broker or dealer. If such member denies that it owes all or any part of the amount specified in such notice, it may after payment of the full amount so specified commence an action against SIPC in the appropriate United States district court to recover the amount it denies owing.
+If a member of SIPC shall fail to file any report or information required pursuant to this chapter, or shall fail to pay when due all or any part of an assessment made upon such member pursuant to this chapter, and such failure shall not have been cured, by the filing of such report or information or by the making of such payment, together with interest and penalty thereon, within five days after receipt by such member of written notice of such failure given by or on behalf of SIPC, it shall be unlawful for such member, unless specifically authorized by theCommission, to engage in business as a broker or dealer. If such member denies that it owes all or any part of the amount specified in such notice, it may after payment of the full amount so specified commence an action against SIPC in the appropriate United States district court to recover the amount it denies owing.
 
 #### (b) Engaging in business after appointment of trustee or initiation of direct payment procedure
 
@@ -70,7 +70,7 @@ Subsec. (d). Pub. L. 111–203, §929V(c), added subsec. (d).
 
 Subsec. (b). Pub. L. 95–283, §13(b), in heading inserted "or initiation of direct payment procedure" after "trustee", and in text inserted references to initiation of direct payment procedure in two places.
 
-Subsec. (c). Pub. L. 95–283, §13(c), in heading substituted "Concealment of assets; false statements or claims" for "Embezzlement, etc., of assets of SIPC", added par. (1), and designated existing provisions as par. (2) and, as so designated, inserted references to direct or indirect acts, and provisions covering defrauding or attempts to defraud SIPC or a trustee, and substituted provisions covering activities constituting fraudulent, or with intent to defeat this chapter, abstracts or conversions, for provisions covering activities constituting unlawfully abstracting or unlawfully and willfully converting moneys, etc.
+Subsec. (c). Pub. L. 95–283, §13(c), in heading substituted "Concealment of assets; false statements orclaims" for "Embezzlement, etc., of assets of SIPC", added par. (1), and designated existing provisions as par. (2) and, as so designated, inserted references to direct or indirect acts, and provisions covering defrauding or attempts to defraud SIPC or a trustee, and substituted provisions covering activities constituting fraudulent, or with intent to defeat this chapter, abstracts or conversions, for provisions covering activities constituting unlawfully abstracting or unlawfully and willfully converting moneys, etc.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -56,7 +56,7 @@ In this subchapter:
 
 #### (10) Dissemination
 
-&emsp;The term "dissemination" means the communication and transfer of the results of scientifically valid research, statistics, and evaluations, in forms that are understandable, easily accessible, and usable, or adaptable for use in, the improvement of educational practice by teachers, administrators, librarians, other practitioners, researchers, parents, policymakers, and the public, through technical assistance, publications, electronic transfer, and other means.
+&emsp;The term "dissemination" means the communication and transfer of the results of scientifically valid research, statistics, and evaluations, in forms that are understandable, easily accessible, and usable, or adaptable for use in, the improvement of educational practice by teachers, administrators, librarians, otherpractitioners, researchers, parents, policymakers, and the public, through technical assistance, publications, electronic transfer, and other means.
 
 #### (11) Early childhood educator
 

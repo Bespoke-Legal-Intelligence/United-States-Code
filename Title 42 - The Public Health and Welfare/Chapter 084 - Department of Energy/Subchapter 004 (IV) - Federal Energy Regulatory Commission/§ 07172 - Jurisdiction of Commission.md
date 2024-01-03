@@ -36,7 +36,7 @@ The Commission shall have jurisdiction to hear and determine any other matter ar
 
 &emsp;(1) involving any agency determination required by law to be made on the record after an opportunity for an agency hearing; or
 
-&emsp;(2) involving any other agency determination which the Secretary determines shall bemade on the record after an opportunity for an agency hearing,
+&emsp;(2) involving any other agency determination which the Secretary determines shall be made on the record after an opportunity for an agency hearing,
 
 > except that nothing in this subsection shall require that functions under sections 6213 and 6214 <sup>1</sup> of this title shall be within the jurisdiction of the Commission unless the Secretary assigns such a function to the Commission.
 
@@ -72,7 +72,7 @@ Section 6214 of this title, referred to in subsec. (d), was repealed by Pub. L. 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–272 struck out subsec. (b) which read as follows: "There are transferred to, and vested in, the Commission all functions and authority of the Interstate Commerce Commission or any officer or component of such Commission where the regulatory function establishes rates or charges for the transportation of oil by pipeline or establishes the valuation of any such pipeline." See section 60502 of Title 49, Transportation.
+<b>1994</b>—Subsec. (b). Pub. L. 103–272 struck out subsec. (b) which read as follows: "There are transferred to,and vested in, the Commission all functions and authority of the Interstate Commerce Commission or any officer or component of such Commission where the regulatory function establishes rates or charges for the transportation of oil by pipeline or establishes the valuation of any such pipeline." See section 60502 of Title 49, Transportation.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

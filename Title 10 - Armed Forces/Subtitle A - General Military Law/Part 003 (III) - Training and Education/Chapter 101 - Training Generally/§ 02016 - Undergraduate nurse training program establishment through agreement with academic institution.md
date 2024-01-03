@@ -20,7 +20,7 @@ Elements.—An undergraduate nurse training program shall have the following ele
 
 (d)
 
-Location of Programs.—(1) An academic institution selected to operate an undergraduate nurse training program shall establish the program at or near a military installation that has a military treatment facility designated as a medical center with inpatient capability and multiple graduate medical education programs located on the installation or within reasonable proximity to the installation.
+Location of Programs.—(1) An academic institution selected to operate an undergraduate nurse training program shall establish the program at or near a military installation that has a military treatment facility designated as a medical center with inpatient capability andmultiple graduate medical education programs located on the installation or within reasonable proximity to the installation.
 
 (2) Before approving a location as the site of an undergraduate nurse training program, the Secretary of Defense shall conduct an assessment to ensure that the establishment of the program at that location will not adversely impact or displace existing nurse training programs, either conducted by the Department of Defense or by a civilian entity, at the location.
 
@@ -56,7 +56,7 @@ Pub. L. 111–84, div. A, title V, §525(c)–(f), Oct. 28, 2009, 123 Stat. 2287
 
 "(c)
 
-Undergraduate Nurse Training Program Plan.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a plan to establish an undergraduate nurse training program in the Department of Defense in accordance with the authority provided by section 2169 of title 10, United States Code, as added by subsection (a), section 2016 ofsuch title, as added by subsection (b), or any other authority available to the Secretary.
+Undergraduate Nurse Training Program Plan.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a plan to establish an undergraduate nurse training program in the Department of Defense in accordance with the authority provided by section 2169 of title 10, United States Code, as added by subsection (a), section 2016 of such title, as added by subsection (b), or any other authority available to the Secretary.
 
 "(d)
 

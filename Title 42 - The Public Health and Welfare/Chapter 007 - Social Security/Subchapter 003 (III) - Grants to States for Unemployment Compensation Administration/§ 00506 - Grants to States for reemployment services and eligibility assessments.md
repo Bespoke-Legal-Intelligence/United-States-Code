@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Labor (in this section referred to as the "Secretary") shall award grants under this section for a fiscal year to eligible States to conduct a program of reemployment services and eligibility assessments for individuals referred to reemployment services as described in section 503(j) of this title for weeks insuch fiscal year for which such individuals receive unemployment compensation.
+The Secretary of Labor (in this section referred to as the "Secretary") shall award grants under this section for a fiscal year to eligible States to conduct a program of reemployment services and eligibility assessments for individuals referred to reemployment services as described in section 503(j) of this title for weeks in such fiscal year for which such individuals receive unemployment compensation.
 
 #### (b) Purposes
 
@@ -40,7 +40,7 @@ The purposes of this section are to accomplish the following goals:
 
 #### (2) Funding limitation
 
-&emsp;A State shall use not more than 10 percent of grant funds awarded to the State under this section to conduct or cause to be conducted evaluations of interventions used in carrying out a program under this section (including evaluations conducted pursuant to paragraph (1)).
+&emsp;A State shall use not more than 10 percent of grant funds awarded to the State under thissection to conduct or cause to be conducted evaluations of interventions used in carrying out a program under this section (including evaluations conducted pursuant to paragraph (1)).
 
 #### (e) State plan
 

@@ -26,7 +26,7 @@ Congress makes the following findings:
 
 &emsp;(11) Institutionalizing ongoing robust, independent, and vigorous analysis of data related to foreign threat networks within and across social media platforms will help counter ongoing information warfare operations against the United States, its allies, and its partners.
 
-&emsp;(12) Archiving and disclosing to the public the results of these analyses by the socialmedia companies and trusted third-party experts in a transparent manner will serve to demonstrate that the social media companies are detecting and removing foreign malign activities from their platforms while protecting the privacy of the people of the United States and will build public understanding of the scale and scope of these foreign threats to our democracy, since exposure is one of the most effective means to build resilience.
+&emsp;(12) Archiving and disclosing to the public the results of these analyses by the social media companies and trusted third-party experts in a transparent manner will serve to demonstrate that the social media companies are detecting and removing foreign malign activities from their platforms while protecting the privacy of the people of the United States and will build public understanding of the scale and scope of these foreign threats to our democracy, since exposure is one of the most effective means to build resilience.
 
 #### (b) Sense of Congress
 
@@ -36,7 +36,7 @@ It is the sense of Congress that—
 
 &emsp;(2) information from law enforcement and the intelligence community is also important in assisting efforts by these social media companies to identify foreign information warfare operations;
 
-&emsp;(3) these analytic efforts should be organized in such a fashion as to meet the highest standards of ethics, confidentiality, and privacy protection of the people of the United States, while still allowing timely research access to relevant data;
+&emsp;(3) these analytic efforts should be organized in such a fashion as to meet the highest standards of ethics, confidentiality, and privacy protection of the people of the United States,while still allowing timely research access to relevant data;
 
 &emsp;(4) these analytic efforts should be undertaken as soon as possible to facilitate countering ongoing state or state-backed foreign information warfare operations and to aid in preparations for the United States Presidential and congressional elections in 2020 and beyond;
 
@@ -176,7 +176,7 @@ Of the amounts appropriated or otherwise made available to the National Intellig
 
 #### (3) Machine-manipulated media
 
-&emsp;The term "machine-manipulated media" has the meaning given that term in section 5724.
+&emsp;The term "machine-manipulated media" has the meaning given that term in section 5724.<sup>1</sup>
 
 (Pub. L. 116–92, div. E, title LIII, §5323, Dec. 20, 2019, 133 Stat. 2130; Pub. L. 116–283, div. H, title XCIII, §9301, Jan. 1, 2021, 134 Stat. 4801.)
 
@@ -213,4 +213,6 @@ Pub. L. 116–283, §9301(b)(1), redesignated subsec. (g) as (h).
 #### Definitions
 
 For definition of "intelligence community", referred to subsec. (b)(2), see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

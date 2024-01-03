@@ -62,7 +62,7 @@
 
 #### (d) Commensurate reduction
 
-In the case of a payment or benefit described in subsection (b)(2) made in a crop, program, or fiscal year, as appropriate, to an entity, general partnership, or joint venture, the amount of the payment or benefit shall be reduced by an amount that is commensurate with the direct and indirect ownership interest in the entity, general partnership, or joint venture of each person who has an average adjusted gross income in excess of the applicable limitation specified in subsection (b).
+In the case of a payment or benefit described in subsection (b)(2) made in a crop, program, orfiscal year, as appropriate, to an entity, general partnership, or joint venture, the amount of the payment or benefit shall be reduced by an amount that is commensurate with the direct and indirect ownership interest in the entity, general partnership, or joint venture of each person who has an average adjusted gross income in excess of the applicable limitation specified in subsection (b).
 
 (Pub. L. 99–198, title X, §1001D, as added Pub. L. 107–171, title I, §1604(2), May 13, 2002, 116 Stat. 215; amended Pub. L. 110–234, title I, §1604(a), May 22, 2008, 122 Stat. 1012; Pub. L. 110–246, §4(a), title I, §1604(a), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 113–79, title I, §1605(a)–(e), Feb. 7, 2014, 128 Stat. 707, 708; Pub. L. 115–334, title I, §1704(a), (b), Dec. 20, 2018, 132 Stat. 4526.)
 
@@ -72,7 +72,7 @@ In the case of a payment or benefit described in subsection (b)(2) made in a cro
 
 The Agricultural Act of 2014, referred to in subsec. (b)(2)(A) to (C), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Subtitles A, B, and E of title I of the Act are classified principally to subchapter I (§9011 et seq.) and generally to subchapters II (§9031 et seq.) and IV (§9081), respectively, of chapter 115 of this title. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in Title 16, Conservation, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
 
-The Agriculture Improvement Act of 2018, referred to in subsec. (b)(2)(C), is Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4490. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in this title, Title 16, Conservation, Title 33,Navigation and Navigable Waters, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 9001 of this title and Tables.
+The Agriculture Improvement Act of 2018, referred to in subsec. (b)(2)(C), is Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4490. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in this title, Title 16, Conservation, Title 33, Navigation and Navigable Waters, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 9001 of this title and Tables.
 
 The Farm Security and Rural Investment Act of 2002, referred to in subsec. (b)(2)(C), is Pub. L. 107–171, May 13, 2002, 116 Stat. 134. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in this title, Title 16, Conservation, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of this title and Tables.
 

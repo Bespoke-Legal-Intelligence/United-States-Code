@@ -140,7 +140,7 @@
 
 #### (E) Discontinuance of MA–PD election during first year of eligibility
 
-&emsp;&emsp;In the case of a part D eligible individual who discontinues enrollment in an MA–PDplan under the second sentence of section 1395w–21(e)(4) of this title at the time of the election of coverage under such sentence under the original medicare fee-for-service program.
+&emsp;&emsp;In the case of a part D eligible individual who discontinues enrollment in an MA–PD plan under the second sentence of section 1395w–21(e)(4) of this title at the time of the election of coverage under such sentence under the original medicare fee-for-service program.
 
 #### (4) Information to facilitate enrollment
 
@@ -246,7 +246,7 @@ Subsec. (b)(1)(D). Pub. L. 111–148, §3303(b)(2), added subpar. (D).
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–198, title VII, §704(g)(1), July 22, 2016, 130 Stat. 751, provided that: "The amendments made by this section \[amending this section and sections 1395w–104, 1395w–152, 1395ddd, and 1395iii of this title\] shall apply to prescription drug plans (and MA–PD plans) for plan years beginning on or after January 1, 2019."
+Pub. L. 114–198, title VII, §704(g)(1), July 22, 2016, 130 Stat. 751, provided that: "The amendments made by this section \[amending this section and sections1395w–104, 1395w–152, 1395ddd, and 1395iii of this title\] shall apply to prescription drug plans (and MA–PD plans) for plan years beginning on or after January 1, 2019."
 
 #### Effective Date of 2010 Amendment
 

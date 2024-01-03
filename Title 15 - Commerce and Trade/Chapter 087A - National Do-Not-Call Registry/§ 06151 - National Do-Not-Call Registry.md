@@ -6,7 +6,7 @@ The Federal Trade Commission is authorized under section 6102(a)(3)(A) of this t
 
 #### (b) Ratification
 
-The do-not-call registry provision of the Telemarketing Sales Rule (16 C.F.R. 310.4(b)(1)(iii)),which was promulgated by the Federal Trade Commission, effective March 31, 2003, is ratified.
+The do-not-call registry provision of the Telemarketing Sales Rule (16 C.F.R. 310.4(b)(1)(iii)), which was promulgated by the Federal Trade Commission, effective March 31, 2003, is ratified.
 
 (Pub. L. 108–82, §1, Sept. 29, 2003, 117 Stat. 1006.)
 

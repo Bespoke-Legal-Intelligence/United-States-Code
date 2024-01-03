@@ -68,7 +68,7 @@ Sec. 2. <i>Objectives</i>. The EOC shall monitor and coordinate United States Go
 
 Sec. 3. <i>Organization</i>. (a) The EOC shall be Chaired by a senior official from the National Security Council (NSC). The Chair shall coordinate the carrying out of the purposes and policy objectives of this order. The EOC shall meet as often as appropriate, but at least quarterly, and shall submit reports to the Assistant to the President for National Security Affairs semiannually, or more frequently as appropriate. The EOC shall prepare annually the report for the President's transmittal to the Congress pursuant to section 3112 of the USEC Privatization Act, Public Law 104–134, title III, 3112(b)(10), 110 Stat. 1321–344, 1321–346 (1996) \[42 U.S.C. 2297h–10(b)(10)\].
 
-(b) The EOC shall consist of representatives from the Departments of State, the Treasury, Defense, Justice, Commerce, Energy, and the Office of Management and Budget, the NSC, the National Economic Council, the Council of Economic Advisers, and the Intelligence Community. The EOC shall formulate internal guidelines for its operations, including guidelines for convening meetings.
+(b) The EOC shall consist of representatives from the Departments of State, the Treasury, Defense, Justice, Commerce, Energy, and the Office of Management and Budget, the NSC, the National Economic Council, theCouncil of Economic Advisers, and the Intelligence Community. The EOC shall formulate internal guidelines for its operations, including guidelines for convening meetings.
 
 (c) The EOC shall coordinate sharing of information and provide direction, while operational responsibilities resulting from the EOC's oversight activities will rest with EOC member agencies.
 
@@ -98,7 +98,7 @@ Sec. 5. <i>Foreign Ownership, Control, or Influence (FOCI)</i>. The EOC shall co
 
 (d) ensure coordination with the Committee on Foreign Investment in the United States.
 
-Sec. 6. <i>Domestic Enrichment Services</i>. The EOC shall collect and analyze information related to the maintenance of domestic uranium mining, enrichment, and conversion industries, provided that such activitiesshall be undertaken in a manner that provides appropriate protection for such information. In particular, the EOC shall:
+Sec. 6. <i>Domestic Enrichment Services</i>. The EOC shall collect and analyze information related to the maintenance of domestic uranium mining, enrichment, and conversion industries, provided that such activities shall be undertaken in a manner that provides appropriate protection for such information. In particular, the EOC shall:
 
 (a) collect and review all public filings made by or with respect to the USEC or any successor entities with the Securities and Exchange Commission;
 

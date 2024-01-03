@@ -38,7 +38,7 @@
 
 #### (c) Trained personnel
 
-Any consumer reporting agency shall provide trained personnel to explain to the consumer any information furnished to him pursuant to section 1681g of this title.
+Any consumer reporting agency shall provide trained personnel to explain to the consumerany information furnished to him pursuant to section 1681g of this title.
 
 #### (d) Persons accompanying consumer
 

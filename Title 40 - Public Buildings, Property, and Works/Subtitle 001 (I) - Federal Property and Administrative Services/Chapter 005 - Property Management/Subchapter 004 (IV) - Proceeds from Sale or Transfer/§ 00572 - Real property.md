@@ -18,7 +18,7 @@ Authority.—From the fund described in paragraph (1), the Administrator may obl
 
 &emsp;&emsp;&emsp;(i) Fees of appraisers, auctioneers, and realty brokers, in accordance with the scale customarily paid in similar commercial transactions.
 
-&emsp;&emsp;&emsp;(ii) Costs of environmental and historic preservation services, highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation.
+&emsp;&emsp;&emsp;(ii) Costs of environmental and historic preservation services, highest and best use of property studies, utilization of propertystudies, deed compliance inspection, and the expenses incurred in a relocation.
 
 &emsp;&emsp;&emsp;(iii) Advertising and surveying.
 
@@ -96,7 +96,7 @@ Deposit in special account.—For a transfer or disposition of property pursuant
 
 &emsp;&emsp;(B)
 
-Availability of amount deposited.—To the extent provided in an appropriationlaw, an amount deposited in a special account under subparagraph (A) is available for facility maintenance and repair or environmental restoration as follows:
+Availability of amount deposited.—To the extent provided in an appropriation law, an amount deposited in a special account under subparagraph (A) is available for facility maintenance and repair or environmental restoration as follows:
 
 &emsp;&emsp;&emsp;(i) In the case of property located at a military installation that is closed, the amount is available for facility maintenance and repair or environmental restoration by the military department that had jurisdiction over the property before the closure of the military installation.
 

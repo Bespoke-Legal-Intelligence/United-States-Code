@@ -24,7 +24,7 @@ In this section, the term "appropriate congressional committees" means the follo
 
 &emsp;(1) The Permanent Select Committee on Intelligence, the Committee on Appropriations, the Committee on Armed Services, and the Committee on Financial Services of the House of Representatives.
 
-&emsp;(2) The Select Committee on Intelligence, the Committee on Appropriations, the Committee on Armed Services, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+&emsp;(2) The Select Committee on Intelligence, the Committee on Appropriations, the Committee on Armed Services, and the Committeeon Banking, Housing, and Urban Affairs of the Senate.
 
 (July 26, 1947, ch. 343, title I, §118, as added Pub. L. 107–306, title III, §342(a)(1), Nov. 27, 2002, 116 Stat. 2398; amended Pub. L. 111–259, title III, §347(d), Oct. 7, 2010, 124 Stat. 2698; Pub. L. 117–263, div. F, title LXVIII, §6824(a)(3), Dec. 23, 2022, 136 Stat. 3615.)
 

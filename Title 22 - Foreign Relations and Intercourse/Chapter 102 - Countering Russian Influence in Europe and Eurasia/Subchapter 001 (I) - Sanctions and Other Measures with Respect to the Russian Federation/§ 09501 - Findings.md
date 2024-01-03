@@ -10,7 +10,7 @@ Congress makes the following findings:
 
 &emsp;(4) On July 26, 2016, President Obama approved a Presidential Policy Directive on United States Cyber Incident Coordination, which states, "certain cyber incidents that have significant impacts on an entity, our national security, or the broader economy require a unique approach to response efforts".
 
-&emsp;(5) On December 29, 2016, President Obama issued an annex to Executive Order No. 13694,<sup>1</sup>which authorized sanctions on the following entities and individuals:
+&emsp;(5) On December 29, 2016, President Obama issued an annex to Executive Order No. 13694,<sup>1</sup> which authorized sanctions on the following entities and individuals:
 
 &emsp;&emsp;(A) The Main Intelligence Directorate (also known as Glavnoe Razvedyvatel'noe Upravlenie or the GRU) in Moscow, Russian Federation.
 

@@ -10,7 +10,7 @@ A State statute, regulation, or other rule of law may modify, limit, or supersed
 
 &emsp;&emsp;(i) such alternative procedures or requirements are consistent with this subchapter and subchapter II; and
 
-&emsp;&emsp;(ii) such alternative procedures or requirements do not require, or accord greater legalstatus or effect to, the implementation or application of a specific technology or technical specification for performing the functions of creating, storing, generating, receiving, communicating, or authenticating electronic records or electronic signatures; and
+&emsp;&emsp;(ii) such alternative procedures or requirements do not require, or accord greater legal status or effect to, the implementation or application of a specific technology or technical specification for performing the functions of creating, storing, generating, receiving, communicating, or authenticating electronic records or electronic signatures; and
 
 &emsp;(B) if enacted or adopted after June 30, 2000, makes specific reference to this chapter.
 

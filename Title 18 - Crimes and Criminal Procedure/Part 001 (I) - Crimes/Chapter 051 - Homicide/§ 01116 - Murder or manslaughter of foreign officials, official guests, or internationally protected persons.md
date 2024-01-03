@@ -16,7 +16,7 @@
 
 &emsp;(4) "Internationally protected person" means—
 
-&emsp;&emsp;(A) a Chief of State or the political equivalent, head of government, or Foreign Minister whenever such person is in a countryother than his own and any member of his family accompanying him; or
+&emsp;&emsp;(A) a Chief of State or the political equivalent, head of government, or Foreign Minister whenever such person is in a country other than his own and any member of his family accompanying him; or
 
 &emsp;&emsp;(B) any other representative, officer, employee, or agent of the United States Government, a foreign government, or international organization who at the time and place concerned is entitled pursuant to international law to special protection against attack upon his person, freedom, or dignity, and any member of his family then forming part of his household.
 

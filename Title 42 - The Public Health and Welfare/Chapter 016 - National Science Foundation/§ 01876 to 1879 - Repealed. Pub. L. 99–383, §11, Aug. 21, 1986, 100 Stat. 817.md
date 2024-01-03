@@ -6,5 +6,5 @@ Section 1877, Pub. L. 85–864, title IX, §902, Sept. 2, 1958, 72 Stat. 1601; P
 
 Section 1878, Pub. L. 85–864, title IX, §903, Sept. 2, 1958, 72 Stat. 1601, provided National Science Foundation with same power and authority in carrying out its functions under sections 1876 to 1879 of this title as it had in carrying out its functions under this chapter.
 
-Section 1879, Pub. L. 85–864, title IX, §904, Sept. 2, 1958, 72 Stat. 1602, authorized appropriations to carryout programs of the Science Information Service and the Science Information Council.
+Section 1879, Pub. L. 85–864, title IX, §904, Sept. 2, 1958, 72 Stat. 1602, authorized appropriations to carry out programs of the Science Information Service and the Science Information Council.
 

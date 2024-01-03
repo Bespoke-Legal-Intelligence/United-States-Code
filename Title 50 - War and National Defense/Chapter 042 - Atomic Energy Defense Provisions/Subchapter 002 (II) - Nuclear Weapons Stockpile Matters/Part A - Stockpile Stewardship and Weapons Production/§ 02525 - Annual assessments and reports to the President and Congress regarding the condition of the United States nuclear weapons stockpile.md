@@ -36,7 +36,7 @@ The head of each national security laboratory shall establish and use one or mor
 
 #### (e) Report on assessments
 
-Not later than December 1 of each year, each official specified in subsection (b) shall submit to the Secretary concerned, and to the Nuclear Weapons Council, a report on the assessmentsthat such official was required by subsection (a) to complete. The report shall include the following:
+Not later than December 1 of each year, each official specified in subsection (b) shall submit to the Secretary concerned, and to the Nuclear Weapons Council, a report on the assessments that such official was required by subsection (a) to complete. The report shall include the following:
 
 &emsp;(1) The results of each such assessment.
 

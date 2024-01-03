@@ -2,11 +2,11 @@
 
 #### (a) Authority to enter into agreements
 
-For each State or local government awarded a social impact partnership project approved by the Secretary under this division, the head of the relevant agency, as recommended by the Federal Interagency Council on Social Impact Partnerships and determined by the Secretary, shall enter into an agreement with the State or local government to pay for all or part of the independent evaluation to determine whether the State or local government project has achieved a specific outcome as a result of theintervention in order for the State or local government to receive outcome payments under this division.
+For each State or local government awarded a social impact partnership project approved by the Secretary under this division, the head of the relevant agency, as recommended by the Federal Interagency Council on Social Impact Partnerships and determined by the Secretary, shall enter into an agreement with the State or local government to pay for all or part of the independent evaluation to determine whether the State or local government project has achieved a specific outcome as a result of the intervention in order for the State or local government to receive outcome payments under this division.
 
 #### (b) Evaluator qualifications
 
-The head of the relevant agency may not enter into an agreement with a State or local government unless the head determines that the evaluator is independent of the other parties to the agreement and has demonstrated substantial experience in conducting rigorous evaluations of program effectiveness including, where available and appropriate, well-implemented randomized controlled trials on the intervention or similar interventions.
+The head of the relevant agency may not enter into an agreement with a State or local government unless the head determines that the evaluator is independent of the other parties to theagreement and has demonstrated substantial experience in conducting rigorous evaluations of program effectiveness including, where available and appropriate, well-implemented randomized controlled trials on the intervention or similar interventions.
 
 #### (c) Methodologies to be used
 

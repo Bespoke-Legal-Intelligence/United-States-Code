@@ -12,7 +12,7 @@ Definition of Monetary Transaction.—In this section, the term the term "moneta
 
 (b)
 
-Prohibition.—No person shall knowingly conceal, falsify, or misrepresent, or attempt toconceal, falsify, or misrepresent, from or to a financial institution, a material fact concerning the ownership or control of assets involved in a monetary transaction if—
+Prohibition.—No person shall knowingly conceal, falsify, or misrepresent, or attempt to conceal, falsify, or misrepresent, from or to a financial institution, a material fact concerning the ownership or control of assets involved in a monetary transaction if—
 
 &emsp;(1) the person or entity who owns or controls the assets is a senior foreign political figure, or any immediate family member or close associate of a senior foreign political figure, as set forth in this title or the regulations promulgated under this title; and
 

@@ -1,6 +1,6 @@
 ### §2205. Public education
 
-The Administrator is authorized to take such steps as the Administrator considers appropriate to educate the public and overcome public indifference as to fire, fire prevention, and individual preparedness. Such steps may include, but are not limited to, publications, audiovisual presentations, and demonstrations. Such public education efforts shall include programs to provide specialized information for those groups of individuals who are particularly vulnerable to fire hazards, such as the young and the elderly. The Administrator shall sponsor and encourage research, testing, and experimentation to determine the most effective means of such public education.
+The Administrator is authorized to take such steps as the Administrator considers appropriate to educate the public and overcome public indifference as to fire, fire prevention, and individual preparedness. Such steps may include, but are not limited to, publications, audiovisual presentations, and demonstrations. Such public education efforts shall include programs to provide specialized information for those groups of individuals who are particularly vulnerable to fire hazards, such as the young and the elderly. The Administrator shall sponsor and encourageresearch, testing, and experimentation to determine the most effective means of such public education.
 
 (Pub. L. 93–498, §6, Oct. 29, 1974, 88 Stat. 1537; Pub. L. 112–239, div. A, title XVIII, §1813, Jan. 2, 2013, 126 Stat. 2117.)
 

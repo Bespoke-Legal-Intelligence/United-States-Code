@@ -16,7 +16,7 @@ Program Manager and Contracting Officer.—The program manager and contracting o
 
 Availability of Excess Funds.—
 
-&emsp;(1) Funds that are made available for a major defense acquisition program or major subprogram in accordance with a cost estimate conducted pursuant to section 3221(b)(6)of this title, but are excess to a cost analysis or target developed pursuant to subsection (b), shall remain available for obligation in accordance with the terms of applicable authorization and appropriations Acts.
+&emsp;(1) Funds that are made available for a major defense acquisition program or major subprogram in accordance with a cost estimate conducted pursuant to section 3221(b)(6) of this title, but are excess to a cost analysis or target developed pursuant to subsection (b), shall remain available for obligation in accordance with the terms of applicable authorization and appropriations Acts.
 
 &emsp;(2) Funds described in paragraph (1)—
 
@@ -50,7 +50,7 @@ Subsec. (d). Pub. L. 116–283, §1812(g)(2)(E)(i), (iii), redesignated subsec. 
 
 Subsec. (d)(1). Pub. L. 116–283, §1812(g)(2)(E)(ii), substituted "section 3221(b)(6) of this title" for "subsection (a)(6)" and "subsection (b)" for "paragraph (2)".
 
-Subsec. (d)(2). Pub. L. 116–283, §1812(g)(2)(E)(iv), substituted "paragraph (1)" for "paragraph (4)" in introductory provisions, "subsection (b)" for "paragraph (2)" in subpar. (A)(i), and "section 3069" for "section 2308" in subpar. (A)(ii).
+Subsec. (d)(2). Pub. L. 116–283, §1812(g)(2)(E)(iv), substituted "paragraph (1)" for "paragraph (4)" in introductory provisions, "subsection (b)" for "paragraph\(2)" in subpar. (A)(i), and "section 3069" for "section 2308" in subpar. (A)(ii).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

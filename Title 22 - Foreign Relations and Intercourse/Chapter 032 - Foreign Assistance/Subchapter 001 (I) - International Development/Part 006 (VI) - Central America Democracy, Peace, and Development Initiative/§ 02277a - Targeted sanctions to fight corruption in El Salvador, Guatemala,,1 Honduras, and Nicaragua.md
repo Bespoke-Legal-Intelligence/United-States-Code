@@ -24,7 +24,7 @@ Not later than 180 days after December 27, 2020, and not less frequently than an
 
 #### (c) Imposition of sanctions
 
-The President shall impose the sanctions described in subsection (d) with respect to each foreign person identified in the report required under subsection (b).
+The President shall impose the sanctions described in subsection (d) with respect to eachforeign person identified in the report required under subsection (b).
 
 #### (d) Sanctions described
 
@@ -58,7 +58,7 @@ The President shall impose the sanctions described in subsection (d) with respec
 
 #### (2) Exception to comply with international obligations
 
-&emsp;Sanctions under subparagraph (B) and (C) <sup>2</sup> of paragraph (1) shall not apply with respect toa foreign person if admitting or paroling such person into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
+&emsp;Sanctions under subparagraph (B) and (C) <sup>2</sup> of paragraph (1) shall not apply with respect to a foreign person if admitting or paroling such person into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
 
 #### (e) National security waiver
 

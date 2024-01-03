@@ -78,7 +78,7 @@ Requirements.—A vessel subject to this subsection is not eligible for a fisher
 
 &emsp;&emsp;&emsp;(i) the regional fishery management council of jurisdiction established under section 302(a)(1) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(1)) has recommended after October 21, 1998, and the Secretary of Commerce has approved, conservation and management measures in accordance with the American Fisheries Act (Public Law 105–277, div. C, title II) (16 U.S.C. 1851 note) <sup>1</sup> to allow the vessel to be used in fisheries under the council's authority; and
 
-&emsp;&emsp;&emsp;(ii) in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) ofthe American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–625 et seq.), the vessel is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2887));
+&emsp;&emsp;&emsp;(ii) in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–625 et seq.), the vessel is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2887));
 
 &emsp;&emsp;(C) the vessel—
 
@@ -286,7 +286,7 @@ Pub. L. 100–239, §4, Jan. 11, 1988, 101 Stat. 1779, as amended by Pub. L. 101
 
 "(c)(1) Any fishery license or registry issued to a vessel built in a foreign country under this section shall be endorsed to restrict the vessel from catching, taking, or harvesting.
 
-"(2) Before being issued a fishery license, any vessel described in subsection (a)(2) of this section must be documented under an application for documentation acceptable to the Secretary filed before July 28, 1987, except that an alternative vessel of no greater tonnagethan the vessel in the application may be substituted, if that substitution is made by the original applicant."
+"(2) Before being issued a fishery license, any vessel described in subsection (a)(2) of this section must be documented under an application for documentation acceptable to the Secretary filed before July 28, 1987, except that an alternative vessel of no greater tonnage than the vessel in the application may be substituted, if that substitution is made by the original applicant."
 
 #### Definitions
 

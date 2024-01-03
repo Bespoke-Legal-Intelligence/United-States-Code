@@ -118,7 +118,7 @@ An eligible entity that receives a grant under this section and a local governme
 
 &emsp;&emsp;&emsp;(xiii) implement an information technology and operational technology modernization cybersecurity review process that ensures alignment between information technology and operational technology cybersecurity objectives;
 
-&emsp;&emsp;&emsp;(xiv) develop and coordinate strategies to address cybersecurity risks andcybersecurity threats in consultation with—
+&emsp;&emsp;&emsp;(xiv) develop and coordinate strategies to address cybersecurity risks and cybersecurity threats in consultation with—
 
 &emsp;&emsp;&emsp;&emsp;(I) if the eligible entity is a State, local governments and associations of local governments within the jurisdiction of the eligible entity; and
 
@@ -308,7 +308,7 @@ With respect to any requirement under subsection (e) or (g), the Secretary, in c
 
 #### (2) Compliance oversight
 
-&emsp;In addition to any other remedy available, the Secretary may take such actions as are necessary to ensure that a recipient of a grantunder this section uses the grant for the purposes for which the grant is awarded.
+&emsp;In addition to any other remedy available, the Secretary may take such actions as are necessary to ensure that a recipient of a grant under this section uses the grant for the purposes for which the grant is awarded.
 
 #### (3) Rule of construction
 
@@ -412,7 +412,7 @@ For fiscal year 2022 and each fiscal year thereafter, the Secretary shall apport
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (C), not later than 45 days after the date on which an eligible entity or multi-entity group receives a grant under this section, the eligible entity or multi-entity group shall, without imposing unreasonable or unduly burdensome requirements as a condition of receipt, obligate or otherwise make available to local governments within the jurisdiction of the eligible entity or the eligible entities that comprise the multi-entity group, consistentwith the Cybersecurity Plan of the eligible entity or the Cybersecurity Plans of the eligible entities that comprise the multi-entity group—
+&emsp;&emsp;Subject to subparagraph (C), not later than 45 days after the date on which an eligible entity or multi-entity group receives a grant under this section, the eligible entity or multi-entity group shall, without imposing unreasonable or unduly burdensome requirements as a condition of receipt, obligate or otherwise make available to local governments within the jurisdiction of the eligible entity or the eligible entities that comprise the multi-entity group, consistent with the Cybersecurity Plan of the eligible entity or the Cybersecurity Plans of the eligible entities that comprise the multi-entity group—
 
 &emsp;&emsp;&emsp;(i) not less than 80 percent of funds available under the grant;
 
@@ -566,7 +566,7 @@ Not later than 3 business days before the date on which the Department announces
 
 &emsp;&emsp;(A) describes the cybersecurity needs of Tribal governments, which shall be determined in consultation with the Secretary of the Interior and Tribal governments; and
 
-&emsp;&emsp;(B) includes any recommendations for addressing the cybersecurity needs of Tribal governments, including any necessary modifications to the State and Local Cybersecurity Grant Program to better serve Tribal governments.
+&emsp;&emsp;(B) includes any recommendations for addressing the cybersecurity needs of Tribalgovernments, including any necessary modifications to the State and Local Cybersecurity Grant Program to better serve Tribal governments.
 
 #### (6) GAO review
 
@@ -620,7 +620,7 @@ The Food and Nutrition Act of 2008, referred to in subsec. (m)(2)(C)(ii), is Pub
 
 #### Amendments
 
-<b>2022</b>—Subsec. (a). Pub. L. 117–263, §7143(b)(2)(K)(i), redesignated pars. (3), (4), and (8) to (12) as pars. (1) to (7), respectively, and struck out former pars. (1), (2), and (5) to (7) which defined appropriate committees of Congress, cyber threat indicator, incident, information sharing and analysis organization, and information system, respectively.
+<b>2022</b>—Subsec. (a). Pub. L. 117–263, §7143(b)(2)(K)(i), redesignated pars. (3), (4), and (8) to (12) as (1) to (7), respectively, and struck out former pars. (1), (2), and (5) to (7) which defined appropriate committees of Congress, cyber threat indicator, incident, information sharing and analysis organization, and information system, respectively.
 
 Subsec. (e)(2)(B)(xiv)(II)(aa). Pub. L. 117–263, §7143(b)(2)(K)(ii), substituted "Information Sharing and Analysis Organization" for "information sharing and analysis organization".
 

@@ -182,7 +182,7 @@ In this section:
 
 &emsp;&emsp;Except as provided in subparagraphs (B) and (C), assistance under this section may be used to carry out a project in a proposed service territory only if, as of the date on which the application of the eligible entity is submitted—
 
-&emsp;&emsp;&emsp;(i) not less than 50 percent (in the case of loans or loan guarantees provided in accordance with subsection (g)(1)(A)) of the households in the proposed service territory are unserved or have service levels below the minimum acceptable level offixed broadband service, whether terrestrial or wireless, established under subsection (e); and
+&emsp;&emsp;&emsp;(i) not less than 50 percent (in the case of loans or loan guarantees provided in accordance with subsection (g)(1)(A)) of the households in the proposed service territory are unserved or have service levels below the minimum acceptable level of fixed broadband service, whether terrestrial or wireless, established under subsection (e); and
 
 &emsp;&emsp;&emsp;(ii) broadband service is not provided in any part of the proposed service territory by 3 or more incumbent service providers.
 
@@ -362,7 +362,7 @@ For purposes of determining whether to provide assistance for a project under th
 
 #### (3) Agreement on milestones and objectives
 
-&emsp;With respect to payment assistance provided under paragraph (2), before entering into the agreement under which the payment assistance will be provided, the applicant and the Secretary shall agree to milestones and objectives of the project.
+&emsp;With respect to payment assistance provided under paragraph (2), before entering into theagreement under which the payment assistance will be provided, the applicant and the Secretary shall agree to milestones and objectives of the project.
 
 #### (4) Amendment of milestones and objectives
 
@@ -421,6 +421,8 @@ No grant, or loan, or loan guarantee may be made under this section after Septem
 #### <b>Editorial Notes</b>
 
 #### Codification
+
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 

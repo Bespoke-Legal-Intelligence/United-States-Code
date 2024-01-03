@@ -2,7 +2,7 @@
 
 #### (a) Disclosure prohibited; exceptions
 
-(1) No disclosure of any return or portion of a return (including information returns and other written statements) filed with the Commissioner of Internal Revenue under title VIII of the Social Security Act or under subchapter E of chapter 1 or subchapter A of chapter 9 of the Internal Revenue Code \[of 1939\], or under regulations made under authority thereof, which has been transmitted to the head of the applicable agency by the Commissioner of Internal Revenue, or of any file, record, report, or other paper, or any information, obtained at any time by the head of the applicable agency or by any officer or employee of the applicable agency in the course of discharging the duties of the head of the applicable agency under this chapter, and no disclosure of any such file, record, report, or other paper, or information, obtained at any time by any person from the head of the applicable agency or from any officer or employee of the applicable agency, shall be made except as the head of the applicable agency may by regulations prescribe and except as otherwise provided by Federal law. Any person who shall violate any provision of this section shall be deemed guilty of a felony and, upon conviction thereof, shall be punished by a fine not exceeding $10,000 for each occurrence of a violation, or by imprisonment not exceeding 5 years, or both.
+(1) No disclosure of any return or portion of a return (including information returns and other written statements) filed with the Commissioner of Internal Revenue under title VIII of the Social Security Act or under subchapter E of chapter 1 or subchapter A of chapter 9 of the Internal Revenue Code \[of 1939\], or under regulations made under authority thereof, which hasbeen transmitted to the head of the applicable agency by the Commissioner of Internal Revenue, or of any file, record, report, or other paper, or any information, obtained at any time by the head of the applicable agency or by any officer or employee of the applicable agency in the course of discharging the duties of the head of the applicable agency under this chapter, and no disclosure of any such file, record, report, or other paper, or information, obtained at any time by any person from the head of the applicable agency or from any officer or employee of the applicable agency, shall be made except as the head of the applicable agency may by regulations prescribe and except as otherwise provided by Federal law. Any person who shall violate any provision of this section shall be deemed guilty of a felony and, upon conviction thereof, shall be punished by a fine not exceeding $10,000 for each occurrence of a violation, or by imprisonment not exceeding 5 years, or both.
 
 (2) For purposes of this subsection and subsection (b), the term "applicable agency" means—
 
@@ -32,7 +32,7 @@ Notwithstanding any other provision of this section, in any case in which—
 
 Notwithstanding any other provision of this section the Secretary shall make available to each State agency operating a program under subchapter XIX and shall, subject to the limitations contained in subsection (e),<sup>1</sup> make available for public inspection in readily accessible form and fashion, the following official reports (not including, however, references to any internal tolerance rules and practices that may be contained therein, internal working papers or other informal memoranda) dealing with the operation of the health programs established by subchapters XVIII and XIX—
 
-&emsp;(1) individual contractor performance reviews and other formal evaluations of the performance of carriers, intermediaries, andState agencies, including the reports of follow-up reviews;
+&emsp;(1) individual contractor performance reviews and other formal evaluations of the performance of carriers, intermediaries, and State agencies, including the reports of follow-up reviews;
 
 &emsp;(2) comparative evaluations of the performance of such contractors, including comparisons of either overall performance or of any particular aspect of contractor operation; and
 
@@ -80,13 +80,13 @@ Subsec. (c). Pub. L. 103–296, §108(b)(4), substituted "the Commissioner of So
 
 Subsec. (d). Pub. L. 103–296, §311(a)(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 103–296, §108(b)(5) in subsec. (d) as added by Pub. L. 103–296, §311(a)(3), in par. (1) substituted "Commissioner of Social Security" for "Secretary" after"records of the", "Commissioner" for "Secretary" after "from the", "Commissioner in consultation with the Secretary of Health and Human Services" for "Secretary" after "which the", and in par. (2) and closing provisions substituted "Commissioner" for "Secretary" wherever appearing.
+Pub. L. 103–296, §108(b)(5) in subsec. (d) as added by Pub. L. 103–296, §311(a)(3), in par. (1) substituted "Commissioner of Social Security" for "Secretary" after "records of the", "Commissioner" for "Secretary" after "from the", "Commissioner in consultation with the Secretary of Health and Human Services" for "Secretary" after "which the", and in par. (2) and closing provisions substituted "Commissioner" for "Secretary" wherever appearing.
 
 Subsec. (e). Pub. L. 103–296, §311(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 103–296, §311(a)(1), (2), redesignated subsec. (e) as (f) and substituted "subsection (e)" for "subsection (d)".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2663(l), substituted "Secretary" and "Department of Health and Human Services" for "Administrator" and "Federal Security Agency", respectively, wherever appearing.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2663(l), substituted "Secretary" and "Department of Health and HumanServices" for "Administrator" and "Federal Security Agency", respectively, wherever appearing.
 
 Subsec. (b). Pub. L. 98–369, §2663(j)(2)(D)(ii), substituted "Health and Human Services" for "Health, Education, and Welfare".
 

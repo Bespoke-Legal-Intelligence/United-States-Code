@@ -26,7 +26,7 @@ Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced 
 
 &emsp;&emsp;(i) determines in writing that—
 
-&emsp;&emsp;&emsp;(I) the requirements of subsection (d) will be met; and
+&emsp;&emsp;&emsp;(I) the requirements of subsection (d) were met for the prior transaction for the prototype project that provided for the award of the follow-on production contract or transaction, and the requirements of subsection (f) will be met; and
 
 &emsp;&emsp;&emsp;(II) the use of the authority of this section is essential to meet critical national security objectives; and
 
@@ -62,7 +62,7 @@ Appropriate Use of Authority.—(1) The Secretary of Defense shall ensure that n
 
 &emsp;(A) There is at least one nontraditional defense contractor or nonprofit research institution participating to a significant extent in the prototype project.
 
-&emsp;(B) All significant participants in the transaction other than the Federal Government are small businesses (including small businessesparticipating in a program described under section 9 of the Small Business Act (15 U.S.C. 638)) or nontraditional defense contractors.
+&emsp;(B) All significant participants in the transaction other than the Federal Government are small businesses (including small businesses participating in a program described under section 9 of the Small Business Act (15 U.S.C. 638)) or nontraditional defense contractors.
 
 &emsp;(C) At least one third of the total cost of the prototype project is to be paid out of funds provided by sources other than the Federal Government.
 
@@ -75,6 +75,8 @@ Appropriate Use of Authority.—(1) The Secretary of Defense shall ensure that n
 &emsp;(i) the party incurred the costs in anticipation of entering into the transaction; and
 
 &emsp;(ii) it was appropriate for the party to incur the costs before the transaction became effective in order to ensure the successful implementation of the transaction.
+
+(3) The requirements of this subsection do not apply to follow-on production contracts or transactions under subsection (f).
 
 (e)
 
@@ -148,11 +150,19 @@ In general.—The Secretary of Defense or the Secretary of a military department
 
 Limits.—In carrying out prototype projects under the pilot program established under paragraph (1)—
 
-&emsp;&emsp;(A) not more than two prototype projects may begin to be carried out per fiscal year under such pilot program; and
+&emsp;&emsp;(A) except for projects carried out for the purpose of repairing a facility, not more than two prototype projects may begin to be carried out per fiscal year under such pilot program; and
 
-&emsp;&emsp;(B) the aggregate value of all transactions entered into under such pilot program may not exceed $200,000,000.
+&emsp;&emsp;(B) the aggregate value of all transactions entered into under such pilot program may not exceed $300,000,000.
 
 &emsp;(3)
+
+Use of amounts.—The Secretary of Defense or the Secretary of a military department may carry out prototype projects under the pilot program established under paragraph (1) using amounts available to the Secretary of Defense or the Secretary of a military department (as applicable) for military construction, operation and maintenance, or research, development, test, and evaluation, notwithstanding—
+
+&emsp;&emsp;(A) subchapters I and III of chapter 169 of this title; and
+
+&emsp;&emsp;(B) chapters 221 and 223 of this title.
+
+&emsp;(4)
 
 Sunset.—
 
@@ -164,19 +174,55 @@ In general.—Except as provided in subparagraph (B), the authority to carry out
 
 Ongoing project exception.—Subparagraph (A) shall not apply with respect to prototype projects being carried out under the pilot program established under paragraph (1) on the date described in subparagraph (A).
 
-(Added Pub. L. 114–92, div. A, title VIII, §815(a)(1), Nov. 25, 2015, 129 Stat. 893, §2371b; amended Pub. L. 115–91, div. A, title II, §216, title VIII, §864, Dec. 12, 2017, 131 Stat. 1328, 1494; Pub. L. 115–232, div. A, title II, §211, Aug. 13, 2018, 132 Stat. 1674; Pub. L. 116–92, div. A, title XVII, §1731(a)(46), Dec. 20, 2019, 133 Stat. 1814; renumbered §4022 and amended Pub. L. 116–283, div. A, title XVIII, §§1841(b)(1), (2)(C), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4243, 4294; Pub. L. 117–81, div. A, title VIII, §821(b), title XVII, §1701(u)(2)(B), (F)(i)(IV), Dec. 27, 2021, 135 Stat. 1825, 2151; Pub. L. 117–263, div. A, title VIII, §§842, 843, Dec. 23, 2022, 136 Stat. 2717, 2718.)
+(Added Pub. L. 114–92, div. A, title VIII, §815(a)(1), Nov. 25, 2015, 129 Stat. 893, §2371b; amended Pub. L. 115–91, div. A, title II, §216, title VIII, §864, Dec. 12, 2017, 131 Stat. 1328, 1494; Pub. L. 115–232, div. A, title II, §211, Aug. 13, 2018, 132 Stat. 1674; Pub. L. 116–92, div. A, title XVII, §1731(a)(46), Dec. 20, 2019, 133 Stat. 1814; renumbered §4022 and amended Pub. L. 116–283, div. A, title XVIII, §§1841(b)(1), (2)(C), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4243, 4294; Pub. L. 117–81, div. A, title VIII, §821(b), title XVII, §1701(u)(2)(B), (F)(i)(IV), Dec. 27, 2021, 135 Stat. 1825, 2151; Pub. L. 117–263, div. A, title VIII, §§842, 843, Dec. 23, 2022, 136 Stat. 2717, 2718; Pub. L. 118–31, div. A, title VIII, §§821, 822(a), title IX, §913(a), Dec. 22, 2023, 137 Stat. 326, 327, 367.)
+
+#### Amendment of Subsections (a) and (e)(1)
+
+<i>Pub. L. 118–31, div. A, title IX, §913(a)(3), (b), Dec. 22, 2023, 137 Stat. 367, 368, provided that, effective 180 days after Dec. 22, 2023, with additional implementation requirements, this section is amended as follows:</i>
+
+<i>(1) in subsection (a):</i>
+
+<i>(A) in paragraph (1), by inserting "the Director of the Defense Innovation Unit," after "Defense Advanced Research Projects Agency,";</i>
+
+<i>(B) in paragraph (2)(A), by inserting ", the Defense Innovation Unit," after "Defense Advanced Research Projects Agency"; and</i>
+
+<i>(C) in paragraph (3), by inserting ", Defense Innovation Unit," after "Defense Advanced Research Projects Agency"; and</i>
+
+<i>(2) in subsection (e)(1), by redesignating subparagraphs (C) through (E) as (D) through (F), respectively, and by inserting after subparagraph (B) the following new subparagraph:</i>
+
+&emsp;&emsp;<i>"(C) the Director of the Defense Innovation Unit;".</i>
+
+<i>See 2023 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Chapter 137 of this title, referred to in subsec. (f)(5), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+Chapter 137 of this title, referred to in subsec. (f)(5), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of "chapter 137 legacy provisions", see section 3016 of this title.
 
 #### Prior Provisions
 
 A prior section 4022, act Aug. 10, 1956, ch. 1041, 70A Stat. 233, related to employment of contract surgeons in an emergency, prior to repeal by Pub. L. 98–94, title IX, §932(b)(1), (f) Sept. 24, 1983, 97 Stat. 650, effective Oct. 1, 1983, with continuation provision for existing contracts.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(1). Pub. L. 118–31, §913(a)(3)(A)(i), inserted "the Director of the Defense Innovation Unit," after "Defense Advanced Research Projects Agency,".
+
+Subsec. (a)(2)(A). Pub. L. 118–31, §913(a)(3)(A)(ii), inserted ", the Defense Innovation Unit," after "Defense Advanced Research Projects Agency" in introductory provisions.
+
+Subsec. (a)(2)(C)(i)(I). Pub. L. 118–31, §821(1), inserted "were met for the prior transaction for the prototype project that provided for the award of the follow-on production contract or transaction, and the requirements of subsection (f)" after "subsection (d)".
+
+Subsec. (a)(3). Pub. L. 118–31, §913(a)(3)(A)(iii), inserted ", Defense Innovation Unit," after "Defense Advanced Research Projects Agency".
+
+Subsec. (d)(3). Pub. L. 118–31, §821(2), added par. (3).
+
+Subsec. (e)(1)(C) to (F). Pub. L. 118–31, §913(a)(3)(B), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
+
+Subsec. (i)(2)(A). Pub. L. 118–31, §822(a)(1)(A), inserted "except for projects carried out for the purpose of repairing a facility," before "not more".
+
+Subsec. (i)(2)(B). Pub. L. 118–31, §822(a)(1)(B), substituted "$300,000,000" for "$200,000,000".
+
+Subsec. (i)(3), (4). Pub. L. 118–31, §822(a)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
 <b>2022</b>—Subsec. (a)(1). Pub. L. 117–263, §843(1), substituted "personnel of the Department of Defense or improving" for "military personnel and the supporting".
 
@@ -220,7 +266,7 @@ Subsec. (b)(2). Pub. L. 115–232, §211(2), inserted "the prototype" after "car
 
 Subsec. (f)(3) to (5). Pub. L. 115–232, §211(3), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-<b>2017</b>—Subsec. (a)(2)(A). Pub. L. 115–91, §864(a)(1), (2), in introductory provisions, substituted "for a transaction (for a prototype project)" for "for a prototype project", "$100,000,000" for "$50,000,000", and "$500,000,000" for "$250,000,000".
+<b>2017</b>—Subsec. (a)(2)(A). Pub. L. 115–91, §864(a)(1), (2), in introductory provisions, substituted "for a transaction (for a prototype project)" for "for a prototypeproject", "$100,000,000" for "$50,000,000", and "$500,000,000" for "$250,000,000".
 
 Subsec. (a)(2)(B). Pub. L. 115–91, §864(a)(1), (3), in introductory provisions, substituted "for a transaction (for a prototype project)" for "for a prototype project" and "$500,000,000" for "$250,000,000".
 
@@ -233,6 +279,12 @@ Subsec. (d)(1)(C). Pub. L. 115–91, §864(c), substituted "provided by sources 
 Subsec. (f)(1). Pub. L. 115–91, §864(d), inserted at end "A transaction includes all individual prototype subprojects awarded under the transaction to a consortium of United States industry and academic institutions."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2023 Amendment; Implementation
+
+Pub. L. 118–31, div. A, title VIII, §822(b), Dec. 22, 2023, 137 Stat. 327, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to transactions entered into on or after the date of the enactment of this Act \[Dec. 22, 2023\]."
+
+Amendment by section 913(a)(3) of Pub. L. 118–31 effective 180 days after Dec. 22, 2023, with additional implementation requirements, see section 913(b)(1), (2) of Pub. L. 118–31, set out as notes under section 1766 of this title.
 
 #### Effective Date of 2021 Amendment
 

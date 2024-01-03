@@ -58,6 +58,302 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 Pub. L. 103–345, §1, Oct. 6, 1994, 108 Stat. 3128, provided that: "This Act \[amending provisions set out as a note below\] may be cited as the 'President John F. Kennedy Assassination Records Collection Extension Act of 1994'."
 
+#### Unidentified Anomalous Phenomena
+
+Pub. L. 118–31, div. A, title XVIII, subtitle C, Dec. 22, 2023, 137 Stat. 699, provided that:
+
+#### "SEC. 1841. UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION AT THE NATIONAL ARCHIVES AND RECORDS ADMINISTRATION.
+
+"(a)
+
+Records Collection.—
+
+&emsp;"(1)
+
+Establishment of collection.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 60 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Archivist shall commence establishment of a collection of unidentified anomalous phenomena, as such term is defined in section 1673(n)(8) \[probably should be 1683(n)(8)\] of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 50 U.S.C. 3373), records in the National Archives, to be known as the 'Unidentified Anomalous Phenomena Records Collection'.
+
+&emsp;&emsp;"(B)
+
+Physical integrity.—In carrying out subparagraph (A), the Archivist shall ensure the physical integrity and original provenance (or if indeterminate, the earliest historical owner) of all records in the Collection.
+
+&emsp;&emsp;"(C)
+
+Record copies.—The Collection shall consist of record copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence (or equivalent subjects by any other name with the specific and sole exclusion of temporarily non-attributed objects), which shall be transmitted to the National Archives in accordance with section 2107 of title 44, United States Code.
+
+&emsp;&emsp;"(D)
+
+Subject guidebook.—The Archivist shall prepare and publish a subject guidebook and index to the Collection.
+
+&emsp;"(2)
+
+Contents.—The Collection shall include the following:
+
+&emsp;&emsp;"(A) Copies of all unidentified anomalous phenomena records, regardless of age or date of creation—
+
+&emsp;&emsp;&emsp;"(i) that have been transmitted to the National Archives or disclosed to the public in an unredacted form prior to the date of the enactment of this Act;
+
+&emsp;&emsp;&emsp;"(ii) that are otherwise required to have been transmitted to the National Archives after the date of the enactment of this Act; or
+
+&emsp;&emsp;&emsp;"(iii) the disclosure of which is postponed under this subtitle.
+
+&emsp;&emsp;"(B) A central directory comprised of identification aids created for each record transmitted to the Archivist under section 1842(e).
+
+"(b)
+
+Disclosure of Records.—Copies of all unidentified anomalous phenomena records transmitted to the National Archives for disclosure to the public shall—
+
+&emsp;"(1) be included in the Collection; and
+
+&emsp;"(2) be available to the public—
+
+&emsp;&emsp;"(A) for inspection and copying at the National Archives within 30 days after their transmission to the National Archives; and
+
+&emsp;&emsp;"(B) digitally via the National Archives online database within a reasonable amount of time not to exceed 180 days thereafter.
+
+"(c)
+
+Fees for Copying.—
+
+&emsp;"(1)
+
+In general.—The Archivist shall—
+
+&emsp;&emsp;"(A) charge fees for copying unidentified anomalous phenomena records; and
+
+&emsp;&emsp;"(B) grant waivers of such fees pursuant to the standards established by section 552(a)(4) of title 5, United States Code.
+
+&emsp;"(2)
+
+Amount of fees.—The amount of a fee charged by the Archivist pursuant to paragraph (1)(A) for the copying of an unidentified anomalous phenomena record shall be such amount as the Archivist determines appropriate to cover the costs incurred by the National Archives in making and providing such copy, except that in no case may the amount of the fee charged exceed the actual expenses incurred by the National Archives in making and providing such copy.
+
+"(d)
+
+Additional Requirements.—
+
+&emsp;"(1)
+
+Use of funds.—The Collection shall be preserved, protected, archived, digitized, and made available to the public at the National Archives and via the official National Archives online database using appropriations authorized, specified, and restricted for use under the terms of this subtitle.
+
+&emsp;"(2)
+
+Security of records.—The National Security Program Office at the National Archives, in consultation with the National Archives Information Security Oversight Office, shall establish a program to ensure the security of the postponed unidentified anomalous phenomena records in the protected, and yet-to-be disclosed or classified portion of the Collection.
+
+"(e)
+
+Oversight.—
+
+&emsp;"(1)
+
+Senate.—The Committee on Homeland Security and Governmental Affairs, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate shall have continuing legislative oversight jurisdiction in the Senate with respect to the Collection.
+
+&emsp;"(2)
+
+House of representatives.—The Committee on Oversight and Accountability, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives shall have continuing legislative oversight jurisdiction in the House of Representatives with respect to the Collection.
+
+#### "SEC. 1842. REVIEW, IDENTIFICATION, TRANSMISSION TO THE NATIONAL ARCHIVES, AND PUBLIC DISCLOSURE OF UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS BY GOVERNMENT OFFICES.
+
+"(a)
+
+Identification, Organization, and Preparation for Transmission.—
+
+&emsp;"(1)
+
+In general.—As soon as practicable after the date of the enactment of this Act \[Dec. 22, 2023\], each head of a Government office shall—
+
+&emsp;&emsp;"(A) identify and organize records in the possession of the Government office or under the control of the Government office relating to unidentified anomalous phenomena; and
+
+&emsp;&emsp;"(B) prepare such records for transmission to the Archivist for inclusion in the Collection.
+
+&emsp;"(2)
+
+Prohibitions.—
+
+&emsp;&emsp;"(A)
+
+Destruction; alteration; mutilation.—No unidentified anomalous phenomena record shall be destroyed, altered, or mutilated in any way.
+
+&emsp;&emsp;"(B)
+
+Withholding; redaction; postponement of disclosure; reclassification.—No unidentified anomalous phenomena record made available or disclosed to the public prior to the date of the enactment of this Act may be withheld, redacted, postponed for public disclosure, or reclassified.
+
+&emsp;&emsp;"(C)
+
+Records created by non-federal persons or entities.—No unidentified anomalous phenomena record created by a person or entity outside the Federal Government (excluding names or identities consistent with the requirements of section 1843) shall be withheld, redacted, postponed for public disclosure, or reclassified.
+
+"(b)
+
+Custody of Unidentified Anomalous Phenomena Records Pending Review.—During the review by the heads of Government offices under subsection (c), each head of a Government office shall retain custody of the unidentified anomalous phenomena records of the office for purposes of preservation, security, and efficiency, unless it is a third agency record described in subsection (c)(2)(C).
+
+"(c)
+
+Review by Heads of Government Offices.—
+
+&emsp;"(1)
+
+In general.—Not later than 300 days after the date of the enactment of this Act \[Dec. 22, 2023\], each head of a Government office shall review, identify, and organize each unidentified anomalous phenomena record in the custody or possession of the office for—
+
+&emsp;&emsp;"(A) disclosure to the public; and
+
+&emsp;&emsp;"(B) transmission to the Archivist.
+
+&emsp;"(2)
+
+Requirements.—In carrying out paragraph (1), the head of a Government office shall—
+
+&emsp;&emsp;"(A) determine which of the records of the office are unidentified anomalous phenomena records;
+
+&emsp;&emsp;"(B) determine which of the unidentified anomalous phenomena records of the office have been officially disclosed or made publicly available in a complete and unredacted form;
+
+&emsp;&emsp;"(C)(i) determine which of the unidentified anomalous phenomena records of the office, or particular information contained in such a record, was created by a third agency or by another Government office; and
+
+&emsp;&emsp;"(ii) transmit to a third agency or other Government office those records, or particular information contained in those records, or complete and accurate copies thereof;
+
+&emsp;&emsp;"(D)(i) determine whether the unidentified anomalous phenomena records of the office or particular information in unidentified anomalous phenomena records of the office are covered by the standards for postponement of public disclosure under this subtitle; and
+
+&emsp;&emsp;"(ii) specify on the identification aid required by subsection (d) the applicable postponement provision contained in section 1841;
+
+&emsp;&emsp;"(E) organize and make available, upon request, to heads of Government offices other than the Government office with custody, including the All-domain Anomaly Resolution Office, all relevant unidentified anomalous records identified under subparagraph (D);
+
+&emsp;&emsp;"(F) organize and make available to the heads of Government offices other than the Government office with custody, including the All-domain Anomalous Resolution Office, for assistance with any record concerning which the office has any uncertainty as to whether the record is an unidentified anomalous phenomena record governed by this subtitle; and
+
+&emsp;&emsp;"(G) give precedence of work to—
+
+&emsp;&emsp;&emsp;"(i) the identification, review, and transmission of unidentified anomalous phenomena records not already publicly available or disclosed as of the date of the enactment of this Act;
+
+&emsp;&emsp;&emsp;"(ii) the identification, review, and transmission of all records that most unambiguously and definitively pertain to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence;
+
+&emsp;&emsp;&emsp;"(iii) the identification, review, and transmission of unidentified anomalous phenomena records that on the date of the enactment of this Act are the subject of litigation under section 552 of title 5, United States Code; and
+
+&emsp;&emsp;&emsp;"(iv) the identification, review, and transmission of unidentified anomalous phenomena records with earliest provenance when not inconsistent with clauses (i) through (iii) and otherwise feasible.
+
+&emsp;"(3)
+
+Priority of expedited review for directors of certain archival depositories.—The Director of each archival depository established under section 2112 of title 44, United States Code, shall have as a priority the expedited review for public disclosure of unidentified anomalous phenomena records in the possession and custody of the depository, and shall make copies of such records available to the All-domain Anomaly Resolution Office.
+
+"(d)
+
+Identification Aids.—
+
+&emsp;"(1)
+
+In general.—
+
+&emsp;&emsp;"(A)
+
+Preparation and availability.—Not later than 45 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Archivist, in consultation with the heads of such Government offices as the Archivist considers appropriate, shall prepare and make available to all Government offices a standard form of identification, or finding aid, for use with each unidentified anomalous phenomena record subject to review under this subtitle whether in hardcopy (physical), softcopy (electronic), or digitized data format as may be appropriate.
+
+&emsp;&emsp;"(B)
+
+Uniform system.—The Archivist shall ensure that the identification aid program is established in such a manner as to result in the creation of a uniform system for cataloging and finding every unidentified anomalous phenomena record subject to review under this subtitle where ever and how ever stored in hardcopy (physical), softcopy (electronic), or digitized data format.
+
+&emsp;"(2)
+
+Requirements for government offices.—Upon completion of an identification aid using the standard form of identification prepared and made available under subparagraph (A) of paragraph (1) for the program established pursuant to subparagraph (B) of such paragraph, the head of a Government office shall—
+
+&emsp;&emsp;"(A) attach a printed copy to each physical unidentified anomalous phenomena record, and an electronic copy to each softcopy or digitized data unidentified anomalous phenomena record, the identification aid describes; and
+
+&emsp;&emsp;"(B) attach a printed copy to each physical unidentified anomalous phenomena record, and an electronic copy to each softcopy or digitized data unidentified anomalous phenomena record the identification aid describes, when transmitted to the Archivist.
+
+&emsp;"(3)
+
+Records of the national archives that are publicly available.—Unidentified anomalous phenomena records which are in the possession of the National Archives on the date of the enactment of this Act, and which have been publicly available in their entirety without redaction, shall be made available in the Collection without any additional review by another authorized office under this subtitle, and shall not be required to have such an identification aid unless required by the Archivist.
+
+"(e)
+
+Transmission to the National Archives.—Each head of a Government office shall—
+
+&emsp;"(1) transmit to the Archivist, and, as soon as possible, make available to the public, all unidentified anomalous phenomena records of the Government office that can be publicly disclosed, including those that are publicly available on the date of the enactment of this Act \[Dec. 22, 2023\], without any redaction, adjustment, or withholding under the standards of this subtitle; and
+
+&emsp;"(2) transmit to the Archivist upon approval for postponement by the original classification authority upon completion of other action authorized by this subtitle, all unidentified anomalous phenomena records of the Government office the public disclosure of which has been postponed, in whole or in part, under the standards of this subtitle, to become part of the protected, yet-to-be disclosed, or classified portion of the Collection.
+
+"(f)
+
+Custody of Postponed Unidentified Anomalous Phenomena Records.—An unidentified anomalous phenomena record the public disclosure of which has been postponed shall, pending transmission to the Archivist, be held for reasons of security and preservation by the originating body until such time as the information security program has been established at the National Archives as required in section 1841(d)(2).
+
+"(g)
+
+Periodic Review of Postponed Unidentified Anomalous Phenomena Records.—
+
+&emsp;"(1)
+
+In general.—All postponed or redacted records shall be reviewed periodically by the originating agency and the Archivist.
+
+&emsp;"(2)
+
+Requirements.—
+
+&emsp;&emsp;"(A)
+
+Public disclosure.—A periodic review under paragraph (1) shall address the public disclosure of additional unidentified anomalous phenomena records in the Collection under the standards of this subtitle.
+
+&emsp;&emsp;"(B)
+
+Unclassified written description of reason.—All postponed unidentified anomalous phenomena records determined to require continued postponement shall require an unclassified written description of the reason for such continued postponement relevant to these specific records. Such description shall be provided to the Archivist and published in the Federal Register upon determination.
+
+&emsp;&emsp;"(C)
+
+Periodic review; downgrading and desclassification \[sic\]
+
+of information.—The Archivist shall establish requirements for periodic review of postponed unidentified anomalous phenomena records that shall serve to downgrade and declassify information.
+
+&emsp;&emsp;"(D)
+
+Deadline for full disclosure.—Each unidentified anomalous phenomena record shall be publicly disclosed in full, and available in the Collection, not later than the date that is 25 years after the date of the first creation of the record by the originating body, unless the President certifies that—
+
+&emsp;&emsp;&emsp;"(i) continued postponement is made necessary by an identifiable harm to the military defense, intelligence operations, law enforcement, or conduct of foreign relations; and
+
+&emsp;&emsp;&emsp;"(ii) the identifiable harm is of such gravity that it outweighs the public interest in disclosure.
+
+"(h)
+
+Requirements for Executive Agencies.—
+
+&emsp;"(1)
+
+In general.—The heads of Executive agencies shall—
+
+&emsp;&emsp;"(A) transmit digital records electronically in accordance with section 2107 of title 44, United States Code;
+
+&emsp;&emsp;"(B) charge fees for copying unidentified anomalous phenomena records; and
+
+&emsp;&emsp;"(C) grant waivers of such fees pursuant to the standards established by section 552(a)(4) of title 5, United States Code.
+
+&emsp;"(2)
+
+Amount of fees.—The amount of a fee charged by the head of an Executive agency pursuant to paragraph (1)(B) for the copying of an unidentified anomalous phenomena record shall be such amount as the head determines appropriate to cover the costs incurred by the Executive agency in making and providing such copy, except that in no case may the amount of the fee charged exceed the actual expenses incurred by the Executive agency in making and providing such copy.
+
+#### "SEC. 1843. GROUNDS FOR POSTPONEMENT OF PUBLIC DISCLOSURE OF UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS.
+
+"(a)
+
+Postponement Determination.—In addition to the relevant authorities in Executive Order 13526 \[50 U.S.C. 3161 note\], disclosure of unidentified anomalous phenomena records or particular information in unidentified anomalous phenomena records to the public may be postponed subject to the limitations of this subtitle if the original classification authority makes a determination that there is clear and convincing evidence that—
+
+&emsp;"(1) the threat to the military defense, intelligence operations, or conduct of foreign relations of the United States posed by the public disclosure of the unidentified anomalous phenomena record is of such gravity that it outweighs the public interest in disclosure, and such public disclosure would reveal—
+
+&emsp;&emsp;"(A) an intelligence agent whose identity currently requires protection;
+
+&emsp;&emsp;"(B) an intelligence source or method which is currently utilized, or reasonably expected to be utilized, by the Federal Government and which has not been officially disclosed, the disclosure of which would interfere with the conduct of intelligence activities; or
+
+&emsp;&emsp;"(C) any other matter currently relating to the military defense, intelligence operations, or conduct of foreign relations of the United States, the disclosure of which would demonstrably and substantially impair the national security of the United States;
+
+&emsp;"(2) the public disclosure of the unidentified anomalous phenomena record would violate section 552a of title 5, United States Code (referred to as the 'Privacy Act of 1974');
+
+&emsp;"(3) the public disclosure of the unidentified anomalous phenomena record could reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy is so substantial that it outweighs the public interest; or
+
+&emsp;"(4) the public disclosure of the unidentified anomalous phenomena record would compromise the existence of an understanding of confidentiality currently requiring protection between a Federal Government agent and a cooperating individual or a foreign government, and public disclosure would be so harmful that it outweighs the public interest.
+
+"(b)
+
+Withdrawal of Records.—Senior Agency Officials designated in accordance with Executive Order 13526 \[50 U.S.C. 3161 note\] or any successor Orders may withdraw records in the Collection that are determined to be both not related to unidentified anomalous phenomena and properly classified. The Senior Agency Official must notify the congressional leadership and the oversight committees of Congress, as identified in section 1841(e), by not later than 60 days before each record is withdrawn.
+
+"(c)
+
+Congressional Notification of Postponement of Disclosure.—In the event that the disclosure of unidentified anomalous phenomena records or particular information in unidentified anomalous phenomena records to the public is postponed by an Executive agency, the head of the Executive agency shall notify congressional leadership and the oversight committees of Congress, as identified in section 1841(e), within 15 days of such decision with a reason for the postponement of disclosure."
+
 #### Civil Rights Cold Case Records Collection
 
 Pub. L. 115–426, Jan. 8, 2019, 132 Stat. 5489; as amended by Pub. L. 117–222, §2, Dec. 5, 2022, 136 Stat. 2279, provided that:
@@ -222,7 +518,7 @@ Transmission to the National Archives.—
 
 In general.—Subject to paragraph (2), each Government office shall, in accordance with the criteria established by the Archivist under subsection (a)(1)(C)—
 
-&emsp;&emsp;"(A) as soon as is reasonably practicable, and in any event not later than 2 years after the date of the enactment of this Act, transmit to the Archivist, for the Archivist to make available to the public in accordance with subsection (b), a copy of eachcivil rights cold case record that can be publicly disclosed, including any such record that is publicly available on the date of enactment of this Act, without any redaction, adjustment, or withholding under the standards of this Act; and
+&emsp;&emsp;"(A) as soon as is reasonably practicable, and in any event not later than 2 years after the date of the enactment of this Act, transmit to the Archivist, for the Archivist to make available to the public in accordance with subsection (b), a copy of each civil rights cold case record that can be publicly disclosed, including any such record that is publicly available on the date of enactment of this Act, without any redaction, adjustment, or withholding under the standards of this Act; and
 
 &emsp;&emsp;"(B) transmit to the Archivist upon approval for postponement by the Review Board or upon completion of other action authorized by this Act, a copy of each civil rights cold case record for which public disclosure has been postponed, in whole or in part, under the standards of this Act, to become part of the protected Collection.
 
@@ -252,7 +548,7 @@ Requirements of periodic review.—The periodic review under paragraph (1) shall
 
 &emsp;"(3)
 
-Unclassified written description.—Any civil rights cold case record for which postponement of public disclosure is continued shall include an unclassified written description of the reason for such continued postponement, which shall be provided to the Archivist and made available on a publicly accessible website upon the determination to continue the postponement.
+Unclassified written description.—Any civil rights cold case record for which postponement ofpublic disclosure is continued shall include an unclassified written description of the reason for such continued postponement, which shall be provided to the Archivist and made available on a publicly accessible website upon the determination to continue the postponement.
 
 &emsp;"(4)
 
@@ -334,7 +630,7 @@ Appointment.—
 
 &emsp;"(1)
 
-In general.—The President shall appoint, by and with the advice and consent of the Senate, 5 individuals to serve as members of the Review Board, to ensure and facilitate the review, transmission to theArchivist, and public disclosure of civil rights cold case records.
+In general.—The President shall appoint, by and with the advice and consent of the Senate, 5 individuals to serve as members of the Review Board, to ensure and facilitate the review, transmission to the Archivist, and public disclosure of civil rights cold case records.
 
 &emsp;"(2)
 
@@ -396,7 +692,7 @@ Report.—
 
 &emsp;&emsp;"(A)
 
-In general.—If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal, the President shall submit to the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report specifying the facts found and the grounds for the removal.
+In general.—If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal, the President shall submit to the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report specifying the facts found and the grounds for the removal.
 
 &emsp;&emsp;"(B)
 
@@ -476,7 +772,7 @@ Oversight.—
 
 &emsp;"(1)
 
-In general.—The Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
+In general.—The Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
 
 &emsp;"(2)
 
@@ -654,7 +950,7 @@ Presidential Authority Over Review Board Determination.—
 
 &emsp;"(1)
 
-Public disclosure or postponement of disclosure.—After the Review Board has made a formal determination concerning the public disclosure or postponement of disclosure of an executive branch civil rights cold case record or information contained in a civil rights cold case record, obtained or developed solely within the executive branch, the President shall have the sole and nondelegable authority to require the disclosure or postponement of such record or information under the standards set forth in section 4, and the President shall provide the Review Board with an unclassified written certification specifying the President's decision within 30 days after the Review Board's determination and notice to the executive agency as required under this Act, stating the justification for the President's decision, including the applicable grounds for postponement under section 4.
+Public disclosure or postponement of disclosure.—After the Review Board has made a formal determination concerning the public disclosure or postponement of disclosure of an executive branch civil rights cold case record or information containedin a civil rights cold case record, obtained or developed solely within the executive branch, the President shall have the sole and nondelegable authority to require the disclosure or postponement of such record or information under the standards set forth in section 4, and the President shall provide the Review Board with an unclassified written certification specifying the President's decision within 30 days after the Review Board's determination and notice to the executive agency as required under this Act, stating the justification for the President's decision, including the applicable grounds for postponement under section 4.
 
 &emsp;"(2)
 
@@ -674,7 +970,7 @@ Reports by the Review Board.—
 
 &emsp;"(1)
 
-In general.—The Review Board shall report its activities to the Speaker of the House of Representatives, the Minority Leader of the House of Representatives, the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, the Majority Leader of the Senate, the Minority Leader of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
+In general.—The Review Board shall report its activities to the Speaker of the House of Representatives, the Minority Leader of the House of Representatives, the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, the Majority Leader of the Senate, the Minority Leader of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
 
 &emsp;"(2)
 
@@ -852,7 +1148,7 @@ Purposes.—The purposes of this Act are—
 
 &emsp;&emsp;"(K) any other office of the Federal Government; and
 
-&emsp;&emsp;"(L) any State or local law enforcement office that provided support or assistance or performedwork in connection with a Federal inquiry into the assassination of President John F. Kennedy,
+&emsp;&emsp;"(L) any State or local law enforcement office that provided support or assistance or performed work in connection with a Federal inquiry into the assassination of President John F. Kennedy,
 
 > &emsp;but does not include the autopsy records donated by the Kennedy family to the National Archives pursuant to a deed of gift regulating access to those records, or copies and reproductions made from such records.
 
@@ -928,7 +1224,7 @@ Additional Requirements.—(1) The Collection shall be preserved, protected, arc
 
 "(e)
 
-Oversight.—The Committee on Government Operations \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the Collection.
+Oversight.—The Committee on Government Operations \[now Committee on Oversight and Accountability\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the Collection.
 
 #### "SEC. 5. REVIEW, IDENTIFICATION, TRANSMISSION TO THE NATIONAL ARCHIVES, AND PUBLIC DISCLOSURE OF ASSASSINATION RECORDS BY GOVERNMENT OFFICES.
 
@@ -1114,7 +1410,7 @@ Removal of Review Board Member.—(1) No member of the Review Board shall be rem
 
 &emsp;"(B) by the action of the President for inefficiency, neglect of duty, malfeasance in office, physical disability, mental incapacity, or any other condition that substantially impairs the performance of the member's duties.
 
-"(2)(A) If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal the President shall submit to the Committee on Government Operations \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report specifying the facts found and the grounds for the removal.
+"(2)(A) If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal the President shall submit to the Committee on Government Operations \[now Committee on Oversight and Accountability\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report specifying the facts found and the grounds for the removal.
 
 "(B) The President shall publish in the Federal Register a report submitted under paragraph (2)(A), except that the President may, if necessary to protect the rights of a person named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report until the completion of such pending cases or pursuant to privacy protection requirements in law.
 
@@ -1170,7 +1466,7 @@ Witness Immunity.—The Review Board shall be considered to be an agency of the 
 
 "(l)
 
-Oversight.—(1) The Committee on Government Operations \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
+Oversight.—(1) The Committee on Government Operations \[now Committee on Oversight and Accountability\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
 
 "(2) The Review Board shall have the duty to cooperate with the exercise of such oversight jurisdiction.
 
@@ -1312,11 +1608,11 @@ Record of presidential postponement.—The Review Board shall, upon its receipt,
 
 "(e)
 
-Notice to Public.—Every 30 calendar days, beginning on the date that is 60 calendar days after the date on which the Review Board first approves the postponement of disclosure of an assassination record, the Review Board shall publish in the Federal Registera notice that summarizes the postponements approved by the Review Board or initiated by the President, the House of Representatives, or the Senate, including a description of the subject, originating agency, length or other physical description, and each ground for postponement that is relied upon.
+Notice to Public.—Every 30 calendar days, beginning on the date that is 60 calendar days after the date on which the Review Board first approves the postponement of disclosure of an assassination record, the Review Board shall publish in the Federal Register a notice that summarizes the postponements approved by the Review Board or initiated by the President, the House of Representatives, or the Senate, including a description of the subject, originating agency, length or other physical description, and each ground for postponement that is relied upon.
 
 "(f)
 
-Reports by the Review Board.—(1) The Review Board shall report its activities to the leadership of the Congress, the Committee on Government Operations \[now Committee on Oversight and Reform\] of the House of Representatives, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
+Reports by the Review Board.—(1) The Review Board shall report its activities to the leadership of the Congress, the Committee on Government Operations \[now Committee on Oversight and Accountability\] of the House of Representatives, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
 
 "(2) The first report shall be issued on the date that is 1 year after the date of enactment of this Act \[Oct. 26, 1992\], and subsequent reports every 12 months thereafter until termination of the Review Board.
 
@@ -1408,7 +1704,7 @@ Interim Funding.—Until such time as funds are appropriated pursuant to subsect
 
 #### "SEC. 14. SEVERABILITY.
 
-"If any provision of this Act or the application thereof to any person or circumstance is held invalid, the remainder of this Act and the application of that provision to other persons not similarly situated or to othercircumstances shall not be affected by the invalidation."
+"If any provision of this Act or the application thereof to any person or circumstance is held invalid, the remainder of this Act and the application of that provision to other persons not similarly situated or to other circumstances shall not be affected by the invalidation."
 
 \[Postponement of records from full public disclosure under section 5(g)(2)(D) of Pub. L. 102–526, set out above, continued until Oct. 26, 2021, by Memorandum of President of the United States, Oct. 26, 2017, 82 F.R. 50307; Memorandum of President of the United States, Apr. 26, 2018, 83 F.R. 19157.\]
 
@@ -1448,7 +1744,7 @@ Sec. 5. <i>Intensive 1-Year Review</i>. (a) Over the next year, agencies proposi
 
 (ii) an unclassified index identifying for each such record the reasons for which the agency is proposing continued postponement of information in such record; and
 
-(iii) a specific proposed date identifying for each such record when the agency reasonably anticipates thatcontinued postponement of information in such record no longer would be necessary or, if that is not possible, a specific proposed date for each such record identifying when the agency would propose to next review again after December 15, 2022, whether the information proposed for continued postponement in such record still satisfies the statutory standard for postponement.
+(iii) a specific proposed date identifying for each such record when the agency reasonably anticipates that continued postponement of information in such record no longer would be necessary or, if that is not possible, a specific proposed date for each such record identifying when the agency would propose to next review again after December 15, 2022, whether the information proposed for continued postponement in such record still satisfies the statutory standard for postponement.
 
 (d) NARA shall review each proposed redaction, no later than September 1, 2022, in consultation with:
 
@@ -1470,7 +1766,7 @@ Sec. 5. <i>Intensive 1-Year Review</i>. (a) Over the next year, agencies proposi
 
 (g) If NARA agrees that a proposed redaction meets the asserted statutory standard for continued postponement, the Archivist shall recommend to the President, no later than October 1, 2022, that continued postponement from public disclosure of the information is warranted after December 15, 2022.
 
-(h) At the conclusion of the 1-year review, any information still withheld from public disclosure that agencies do not propose for continued postponement beyond December 15, 2022, shall be released to the public on that date.
+(h) At the conclusion of the 1-year review, any information still withheld from public disclosure that agencies do not propose for continued postponement beyondDecember 15, 2022, shall be released to the public on that date.
 
 (i) At the conclusion of the 1-year review, each unclassified letter described in subsection (c)(i) of this section and each unclassified index described in subsection (c)(ii) of this section shall be disclosed to the public on December 15, 2022, with any updates made to account for any information initially proposed for continued postponement that is not postponed from public disclosure beyond December 15, 2022.
 
@@ -1527,6 +1823,28 @@ Sec. 6. <i>Review</i>. (a) From the date of this memorandum \[Dec. 15, 2022\] un
 Sec. 7. <i>Transparency Plans</i>. As part of their review, each agency prepared a plan for the eventual release of information (Transparency Plan) to ensure that information would continue to be disclosed over time as the identified harm associated with release of the information dissipates. Each Transparency Plan details the event-based or circumstance-based conditions that will trigger the public disclosure of currently postponed information by the National Declassification Center (NDC) at NARA. These Transparency Plans have been reviewed by NARA, and the Acting Archivist has advised that use of the Transparency Plans by the NDC will ensure appropriate continued release of information covered by the Act. Accordingly, I direct that the Transparency Plans submitted by agencies be used by the NDC to conduct future reviews of any information that has been postponed from public disclosure, including information in the records described in sections 2(c) and 3 of this memorandum.
 
 Sec. 8. <i>Publication</i>. The Acting Archivist is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Certification Regarding Disclosure of Information in Certain Records Related to the Assassination of President John F. Kennedy
+
+Memorandum of President of the United States, June 30, 2023, 88 F.R. 43247, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Section 1. <i>Policy</i>. In the three decades since the President John F. Kennedy Assassination Records Collection Act of 1992 \[Pub. L. 102–526\] (44 U.S.C. 2107 note) (the "Act") was enacted, the United States Government has undertaken a comprehensive review of its records and has strived to make available to the public thousands of classified documents that provide a fuller understanding of the tragic assassination of President John F. Kennedy. As I have reiterated throughout my Presidency, I fully support the Act's aim to maximize transparency by disclosing all information in records concerning the assassination, except when the strongest possible reasons counsel otherwise. Executive departments and agencies (agencies) have worked meticulously over thousands of hours of review to ensure that the American people have access to every single word that is appropriate for release under the standards of the Act. With my final certification made in this memorandum—the last required under the Act—and definitive plans for future disclosures, my Administration is fulfilling the promise of transparency to the American people.
+
+Sec. 2. <i>Background</i>. (a) The Act permits the continued postponement of public disclosure of information in records concerning President Kennedy's assassination only when postponement remains necessary to protect against an identifiable harm to the military defense, intelligence operations, law enforcement, or the conduct of foreign relations that is of such gravity that it outweighs the public interest in disclosure. Agencies have applied this statutory standard when proposing the continued postponement of public disclosure of specific information, and the National Archives and Records Administration (NARA) has reviewed each of these redactions to determine whether NARA agrees that these redactions continue to meet the statutory standard. In the Presidential Memorandum of December 15, 2022 (Certifications Regarding Disclosure of Information in Certain Records Related to the Assassination of President John F. Kennedy) \[set out above\] (December 2022 Memorandum), I certified the temporary continued postponement of public disclosure of redacted information in a small number of records covered by the Act. At the time, the Acting Archivist of the United States (Acting Archivist) advised that a limited number of records that were the subject of agency proposals for temporary continued postponement warranted further review to ensure that information from these records is disclosed to the maximum extent possible, consistent with the standards of theAct. In the December 2022 Memorandum, consistent with that advice, I directed agencies to continue to work with NARA to review these records to determine if additional information proposed for redaction could be disclosed.
+
+(b) On May 1, 2023, the Acting Archivist informed me that the review process was complete and recommended that I postpone the public release of certain redacted information in the records certified for temporary postponement of public release in the December 2022 Memorandum.
+
+Sec. 3. <i>Certification</i>. In light of the recommendation for continued postponement of public release of information in the records identified in section 2(b) of this memorandum under the statutory standard, I hereby certify, by the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5(g)(2)(D) of the Act, that continued postponement of public disclosure of that information is necessary to protect against identifiable harms to the military defense, intelligence operations, law enforcement, and the conduct of foreign relations that are of such gravity that they outweigh the public interest in disclosure. All information within these records that has been proposed for continued postponement under section 5(g)(2)(D) of the Act shall accordingly be withheld from public disclosure. Future release of the information in these records shall occur in a manner consistent with the Transparency Plans described in section 5 of this memorandum.
+
+Sec. 4. <i>Release</i>. Any information currently withheld from public disclosure under section 4 of the December 2022 Memorandum that is not subject to the certification in section 3 of this memorandum shall be released to the public by June 30, 2023.
+
+Sec. 5. <i>Transparency Plans</i>. As part of their review, each agency prepared a plan for the eventual release of information (Transparency Plan) to ensure that information would continue to be disclosed over time as the identified harm associated with release of the information dissipates. Each Transparency Plan details the event-based or circumstance-based conditions that will trigger the public disclosure of currently postponed information by the National Declassification Center (NDC) at NARA. These Transparency Plans were reviewed by NARA, and the Acting Archivist previously advised me that use of the Transparency Plans by the NDC will ensure appropriate continued release of information covered by the Act. In the December 2022 Memorandum, I directed that the Transparency Plans submitted by agencies be used by the NDC to conduct future reviews of any information that has been postponed from public disclosure. On May 1, 2023, the Acting Archivist recommended continued use of agencies' Transparency Plans to release information covered by the Act. Therefore, I direct the NDC to continue to use the Transparency Plans to conduct future reviews of any information covered by the Act that has been postponed from public disclosure. The Transparency Plans will ensure that the public will have access to the maximum amount of information while continuing to protect against identifiable harms to the military defense, intelligence operations, law enforcement, and the conduct of foreign relations under the standards of the Act.
+
+Sec. 6. <i>Publication</i>. The Archivist of the United States is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

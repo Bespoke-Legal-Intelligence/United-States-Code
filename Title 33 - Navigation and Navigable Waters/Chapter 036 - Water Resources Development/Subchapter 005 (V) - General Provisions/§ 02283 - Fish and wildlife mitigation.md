@@ -112,7 +112,7 @@ In those cases when the Secretary, as part of any report to Congress, recommends
 
 &emsp;(3) such activities are located on lands managed as a national wildlife refuge.
 
-> When benefits of enhancement do not qualify under the preceding sentence, 25 percent of such first costs of enhancement shall be provided by non-Federal interests under a schedule of reimbursement determined by the Secretary. Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kindcontributions, including facilities, supplies, and services that are necessary to carry out the enhancement project. The non-Federal share of operation, maintenance, and rehabilitation of activities to enhance fish and wildlife resources shall be 25 percent.
+> When benefits of enhancement do not qualify under the preceding sentence, 25 percent of such first costs of enhancement shall be provided by non-Federal interests under a schedule of reimbursement determined by the Secretary. Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kind contributions, including facilities, supplies, and services that are necessary to carry out the enhancement project. The non-Federal share of operation, maintenance, and rehabilitation of activities to enhance fish and wildlife resources shall be 25 percent.
 
 #### (f) National benefits from enhancement measures for Atchafalaya Floodway System and Mississippi Delta Region projects
 
@@ -230,7 +230,7 @@ The provisions of subsections (a), (b), and (d) shall be deemed to supplement th
 
 &emsp;&emsp;(A) take place concurrent with, or in advance of, the commitment of funding to a project; and
 
-&emsp;&emsp;(B) occur in advance of project construction only if the efforts are consistent with all applicable requirements of Federal law (including regulations) and water resources development planning processes.
+&emsp;&emsp;(B) occur in advance of project construction only if the efforts are consistent withall applicable requirements of Federal law (including regulations) and water resources development planning processes.
 
 #### (4) Preference
 
@@ -258,7 +258,7 @@ The Secretary shall consult with interested members of the public, the Director 
 
 The Endangered Species Act, as amended, referred to in subsec. (e)(2), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
-Public Law 99–88, referred to in subsec. (f), is Pub. L. 99–88, Aug. 15, 1985, 99 Stat. 293, known as the Supplemental Appropriations Act, 1985. Provisions of Pub. L. 99–88 authorizing the project for the AtchafalayaFloodway System, Louisiana, are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+Public Law 99–88, referred to in subsec. (f), is Pub. L. 99–88, Aug. 15, 1985, 99 Stat. 293, known as the Supplemental Appropriations Act, 1985. Provisions of Pub. L. 99–88 authorizing the project for the Atchafalaya Floodway System, Louisiana, are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 The Flood Control Act of 1965, referred to in subsec. (f), is title II of Pub. L. 89–298, Oct. 27, 1965, 79 Stat. 1073. Provisions of that Act authorizing the project for Mississippi Delta Region, Louisiana, are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 

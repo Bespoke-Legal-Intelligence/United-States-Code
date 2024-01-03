@@ -16,7 +16,7 @@ Except as provided in subsection (b), no deduction shall be allowed under this c
 
 &emsp;&emsp;&emsp;(ii) $5,000, reduced (but not below zero) by the amount by which such organizational expenses exceed $50,000, and
 
-&emsp;&emsp;(B) the remainder of such organizational expenses shall be allowed as a deduction ratably over the 180-month period beginning with the month in which the partnership begins business.
+&emsp;&emsp;(B) the remainder of such organizational expenses shall be allowed as a deduction ratably over the 180-month period beginningwith the month in which the partnership begins business.
 
 #### (2) Dispositions before close of amortization period
 

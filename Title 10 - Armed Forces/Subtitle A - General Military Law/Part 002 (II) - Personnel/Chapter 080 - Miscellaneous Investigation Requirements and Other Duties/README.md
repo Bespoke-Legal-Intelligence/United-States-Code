@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [1561\.](%C2%A7%2001561%20-%20Complaints%20of%20sexual%20harassment%20investigation%20by%20commanding%20officers.md) | Complaints of sexual harassment: investigation by commanding officers. |
+| [1561\.](%C2%A7%2001561%20-%20Complaints%20of%20sexual%20harassment%20independent%20investigation.md) | Complaints of sexual harassment: independent investigation. |
 | [1561a.](%C2%A7%2001561a%20-%20Civilian%20orders%20of%20protection%20force%20and%20effect%20on%20military%20installations.md) | Civilian orders of protection: force and effect on military installations. |
 | [1561b.](%C2%A7%2001561b%20-%20Confidential%20reporting%20of%20sexual%20harassment.md) | Confidential reporting of sexual harassment. |
 | [1562\.](%C2%A7%2001562%20-%20Database%20on%20domestic%20violence%20incidents.md) | Database on domestic violence incidents. |
@@ -21,14 +21,6 @@
 | [1567a.](%C2%A7%2001567a%20-%20Mandatory%20notification%20of%20issuance%20of%20military%20protective%20order%20to%20civilian%20law%20enforcement.md) | Mandatory notification of issuance of military protective order to civilian law enforcement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 117–81, div. A, title V, §543(b), (c), Dec. 27, 2021, 135 Stat. 1710, provided that, effective on the date that is two years after Dec. 27, 2021, this analysis is amended by striking the item relating to section 1561 and inserting the following new item:</i>
-
-<i>"1561. Complaints of sexual harassment: independent investigation."</i>
-
-<i>See 2021 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -65,6 +57,60 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §542(b), title X, §1072(b)\], Oc
 <b>1999</b>—Pub. L. 106–65, div. A, title V, §594(b), Oct. 5, 1999, 113 Stat. 644, added item 1562.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Establishment of Procedure of the Department of Defense To Determine Certain Complaints or Requests Regarding Public Displays or Public Expressions of Religion on Property of the Department
+
+Pub. L. 118–31, div. A, title X, §1049, Dec. 22, 2023, 137 Stat. 393, provided that:
+
+"(a)
+
+Establishment.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense shall prescribe regulations that establish the procedure for the timely determination of a covered complaint or request regarding a public display or public expression of religion on property of theDepartment of Defense. Such regulations shall ensure that—
+
+&emsp;"(1) the officer or official of the Department who receives such complaint or request forwards the covered complaint or request—
+
+&emsp;&emsp;"(A) to the individual authorized to make a determination under subsection (b); and
+
+&emsp;&emsp;"(B) not later than 10 days after such receipt; and
+
+&emsp;"(2) such individual—
+
+&emsp;&emsp;"(A) makes such determination not later than 30 days after such individual receives such forwarded covered complaint or request; and
+
+&emsp;&emsp;"(B) timely notifies the individual or entity who made such covered complaint or request, and the officer or official of the Department who received such covered complaint or request, of such determination.
+
+"(b)
+
+Determinations.—A determination under regulations prescribed under subsection (a) shall be made—
+
+&emsp;"(1) by—
+
+&emsp;&emsp;"(A) the Secretary of the military department concerned; or
+
+&emsp;&emsp;"(B) the head of the Defense Agency or Department of Defense Field Activity concerned; and
+
+&emsp;"(2) after consultation with—
+
+&emsp;&emsp;"(A)(i) in the case of a determination made by the Secretary of the military department concerned, the Chief of Chaplains of the military department concerned; or
+
+&emsp;&emsp;"(ii) in the case of a determination made by the head of the Defense Agency or Department of Defense Field Activity concerned, the Armed Forces Chaplains Board; and
+
+&emsp;&emsp;"(B)(i) a civilian attorney under the jurisdiction the Secretary of the military department concerned or the head of the Defense Agency or Department of Defense Field Activity concerned; or
+
+&emsp;&emsp;"(ii) an officer of the Judge Advocate General's Corps.
+
+"(c)
+
+Covered Complaint or Request Defined.—In this section, the term 'covered complaint or request' means a complaint or request—
+
+&emsp;"(1) regarding a public display or public expression of religion on property of the Department of Defense; and
+
+&emsp;"(2) made by an individual or entity other than—
+
+&emsp;&emsp;"(A) a member of the Armed Forces;
+
+&emsp;&emsp;"(B) a civilian employee of the Department of Defense; or
+
+&emsp;&emsp;"(C) a contractor of the Department of Defense."
 
 #### Annual Primary Prevention Research Agenda
 
@@ -138,7 +184,7 @@ Progress Report.—Not later than 180 days after the date of the enactment of th
 
 "(d)
 
-Covered Armed Forces Defined.—In this section, the term 'covered Armed Forces' means the Army, Navy, Air Force, Marine Corps, and Space Force."
+Covered Armed Forces Defined.—In this section, the term 'covered Armed Forces' means theArmy, Navy, Air Force, Marine Corps, and Space Force."
 
 #### Increase in Number of Digital Forensic Examiners for Certain Military Criminal Investigative Organizations
 
@@ -180,7 +226,7 @@ Rule of Construction.—Nothing in this section shall be construed to create any
 
 #### Enhancing the Capability of Military Criminal Investigative Organizations To Prevent and Combat Child Sexual Exploitation
 
-Pub. L. 116–92, div. A, title V, §550D, Dec. 20, 2019, 133 Stat. 1383, provided that:
+Pub. L. 116–92, div. A, title V, §550D, Dec. 20, 2019, 133 Stat. 1383, as amended by Pub. L. 118–31, div. A, title V, §534, Dec. 22, 2023, 137 Stat. 262, provided that:
 
 "(a)
 
@@ -206,7 +252,23 @@ Activities.—In establishing and carrying out the initiative under subsection (
 
 &emsp;"(3) as appropriate, assist in educating the military community on the prevention and response to child sexual exploitation; and
 
-&emsp;"(4) carry out such other activities as the Secretary determines to be relevant."
+&emsp;"(4) carry out such other activities as the Secretary determines to be relevant.
+
+"(c)
+
+Additional Requirements.—As part of the initiative under subsection (a), the Secretary of Defense shall carry out the following activities:
+
+&emsp;"(1)
+
+Annual report.—Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 \[Dec. 22, 2023\], an on an annual basis thereafter through 2029, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the progress of the initiative, which shall include a description of specific actions that have been taken, or that are planned to be taken, to detect, combat, and stop the use of the Department of Defense information technology network to further online child sexual exploitation.
+
+&emsp;"(2)
+
+Partnerships.—The Secretary shall seek to enter into partnerships and execute collaborative agreements with functional experts, including highly qualified national child protection organizations or law enforcement training centers with demonstrated expertise in the delivery of law enforcement training, to identify, investigate, and prosecute individuals engaged in online child sexual exploitation.
+
+&emsp;"(3)
+
+Mandatory training.—The Secretary shall establish mandatory training for criminal investigative organizations of the Department of Defense and other appropriate personnel at military installations to ensure that the capability and capacity to investigate child sexual exploitation is continuously maintained regardless of staff turnover and relocations."
 
 #### Multidisciplinary Teams for Military Installations on Child Abuse and Other Domestic Violence
 
@@ -305,7 +367,7 @@ Usage with respect to multiple installations.—For purposes of this section, an
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01561 - Complaints of sexual harassment investigation by commanding officers](%C2%A7%2001561%20-%20Complaints%20of%20sexual%20harassment%20investigation%20by%20commanding%20officers.md)
+- [&sect; 01561 - Complaints of sexual harassment independent investigation](%C2%A7%2001561%20-%20Complaints%20of%20sexual%20harassment%20independent%20investigation.md)
 - [&sect; 01561a - Civilian orders of protection force and effect on military installations](%C2%A7%2001561a%20-%20Civilian%20orders%20of%20protection%20force%20and%20effect%20on%20military%20installations.md)
 - [&sect; 01561b - Confidential reporting of sexual harassment](%C2%A7%2001561b%20-%20Confidential%20reporting%20of%20sexual%20harassment.md)
 - [&sect; 01562 - Database on domestic violence incidents](%C2%A7%2001562%20-%20Database%20on%20domestic%20violence%20incidents.md)

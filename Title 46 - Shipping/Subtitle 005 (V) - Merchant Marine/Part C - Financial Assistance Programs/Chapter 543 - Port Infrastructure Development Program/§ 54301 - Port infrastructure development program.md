@@ -6,7 +6,7 @@ Port and Intermodal Improvement Program.—
 
 &emsp;(1)
 
-General authority.—Subject to the availability of appropriations, the Secretaryof Transportation shall make grants, on a competitive basis, to eligible applicants to assist in funding eligible projects for the purpose of improving the safety, efficiency, or reliability of the movement of goods through ports and intermodal connections to ports.
+General authority.—Subject to the availability of appropriations, the Secretary of Transportation shall make grants, on a competitive basis, to eligible applicants to assist in funding eligible projects for the purpose of improving the safety, efficiency, or reliability of the movement of goods through ports and intermodal connections to ports.
 
 &emsp;(2)
 
@@ -44,7 +44,7 @@ Eligible projects.—The Secretary may make a grant under this subsection—
 
 &emsp;&emsp;&emsp;&emsp;(II) the movement of goods into, out of, around, or within a port, such as for highway or rail infrastructure, intermodal facilities, freight intelligent transportation systems, and digital infrastructure systems;
 
-&emsp;&emsp;&emsp;&emsp;(III) operational improvements, including projects to improve port resilience; or
+&emsp;&emsp;&emsp;&emsp;(III) operational improvements, including projects to improve port resilience;
 
 &emsp;&emsp;&emsp;&emsp;(IV) environmental and emission mitigation measures; including projects for—
 
@@ -62,9 +62,11 @@ Eligible projects.—The Secretary may make a grant under this subsection—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(gg) installation of port bunkering facilities from oceangoing vessels for fuels;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(hh) electric vehicle charge or hydrogen refueling infrastructure for drayage and medium or heavy duty trucks and locomotives that service the port and related grid upgrades; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(hh) electric vehicle charge or hydrogen refueling infrastructure fordrayage and medium or heavy duty trucks and locomotives that service the port and related grid upgrades; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ii) other related port activities, including charging infrastructure, electric rubber-tired gantry cranes, and anti-idling technologies.
+&emsp;&emsp;&emsp;&emsp;&emsp;(ii) other related port activities, including charging infrastructure, electric rubber-tired gantry cranes, and anti-idling technologies; or
+
+&emsp;&emsp;&emsp;&emsp;(V) port and port-related infrastructure that supports seafood and seafood-related businesses, including the loading and unloading of commercially harvested fish and fish products, seafood processing, cold storage, and other related infrastructure.
 
 &emsp;&emsp;(B) notwithstanding paragraph (6)(A)(v), to provide financial assistance to 1 or more projects under subparagraph (A) for development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, permitting, and preliminary engineering and design work.
 
@@ -102,7 +104,7 @@ In general.—The Secretary may select a project described in paragraph (3) for 
 
 &emsp;&emsp;&emsp;(i) the project improves the safety, efficiency, or reliability of the movement of goods through a port or intermodal connection to a port;
 
-&emsp;&emsp;&emsp;(ii) the project is cost effective;
+&emsp;&emsp;&emsp;(ii) the project is cost effective (except in the case of a project described under subparagraph (C)); <sup>1</sup>
 
 &emsp;&emsp;&emsp;(iii) the eligible applicant has authority to carry out the project;
 
@@ -118,9 +120,17 @@ Additional considerations.—In selecting projects described in paragraph (3) fo
 
 &emsp;&emsp;&emsp;(i) the utilization of non-Federal contributions;
 
-&emsp;&emsp;&emsp;(ii) the net benefits of the funds awarded under this subsection, considering the cost-benefit analysis of the project, as applicable; and
+&emsp;&emsp;&emsp;(ii) the net benefits of the funds awarded under this subsection, considering the cost-benefit analysis of the project, as applicable (except in the case of a project described under subparagraph (C)); <sup>1</sup> and
 
 &emsp;&emsp;&emsp;(iii) a port's increased resilience as a result of the project.
+
+&emsp;&emsp;(C) <sup>2</sup>
+
+In general.—In selecting projects described in paragraph (3), the Maritime Administrator, in consultation with the Secretary of Defense, may give priority to providing funding to strategic seaports in support of national security requirements.
+
+&emsp;&emsp;(C) <sup>2</sup>
+
+Noncontiguous states and territories.—The requirements under subparagraphs (A)(ii) and (B)(ii) shall not apply in the case of a project described in paragraph (3) in a noncontiguous State or territory.
 
 &emsp;(7)
 
@@ -140,7 +150,7 @@ Development phase activities.—Of the amounts made available for grants under t
 
 &emsp;&emsp;&emsp;(i) not more than 10 percent may be used to make grants for development phase activities under paragraph (3)(B); and
 
-&emsp;&emsp;&emsp;(ii) not more than 10 percent may be used to make grants for development phase activities under subsection (b)(3)(A)(ii)(III).
+&emsp;&emsp;&emsp;(ii) not more than 10 percent may be used to make grants for development phase activities under subsection (b)(5)(A)(ii)(III).
 
 &emsp;(8)
 
@@ -192,7 +202,7 @@ Efficient use of non-federal funds.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Notwithstanding any other provision of law ans <sup>1</sup> subject to approval by the Secretary, in the case of any grant for a project under this section, during the period beginning on the date on which the grant recipient is selected and ending on the date on which the grant agreement is signed—
+In general.—Notwithstanding any other provision of law ans <sup>3</sup> subject to approval by the Secretary, in the case of any grant for a project under this section, during the period beginning on the date on which the grant recipient is selected and ending on the date on which the grant agreement is signed—
 
 &emsp;&emsp;&emsp;&emsp;(I) the grant recipient may obligate and expend non-Federal funds with respect to the project for which the grant is provided; and
 
@@ -228,7 +238,7 @@ Effect.—The obligation or expenditure of any non-Federal funds in accordance w
 
 &emsp;&emsp;&emsp;&emsp;(II) create an obligation on the part of the Federal Government to repay any non-Federal funds if the grant agreement is not signed; or
 
-&emsp;&emsp;&emsp;&emsp;(III) affect the ability of the recipient of the grant to obligate or expend non-Federal funds to meet the non-Federalcost share for the project for which the grant is provided after the period described in clause (i).
+&emsp;&emsp;&emsp;&emsp;(III) affect the ability of the recipient of the grant to obligate or expend non-Federal funds to meet the non-Federal cost share for the project for which the grant is provided after the period described in clause (i).
 
 &emsp;&emsp;(C)
 
@@ -282,15 +292,39 @@ Rural area.—The term "rural area" means an area that is outside an urbanized a
 
 Resilience.—The term "resilience" means the ability to anticipate, prepare for, adapt to, withstand, respond to, and recover from operational disruptions and sustain critical operations at ports, including disruptions caused by natural or manmade hazards, such as sea level rise, flooding, earthquakes, hurricanes, tsunami inundation or other extreme weather events.
 
+&emsp;&emsp;(E)
+
+Strategic seaport defined.—In this subsection the term "strategic seaport" means a military port or and <sup>4</sup> commercial port that is subject to a port planning order or Basic Ordering Agreement (or both) that is projected to be used for the deployment of forces and shipment of ammunition or sustainment supplies in support of military operations.
+
 (b)
 
 Assistance for Small Inland River and Coastal Ports and Terminals.—
 
 &emsp;(1)
 
-In general.—From amounts reserved under subsection (a)(7)(B), the Secretary, acting through the Administrator of the Maritime Administration, shall make grants under this subsection to eligible applicants for eligible projects at a port, to and from which the average annual tonnage of cargo for the immediately preceding 3 calendar years from the time an application is submitted is less than 8,000,000 short tons, as determined using United States Army Corps of Engineers data or data provided by an independent audit the findings of which are acceptable to the Secretary.
+In general.—From amounts reserved under subsection (a)(7)(B), the Secretary, acting through the Administrator of the Maritime Administration, shall make grants under this subsection to eligible applicants for eligible projects at a port, to and from which the average annual tonnage of cargo for the immediately preceding 3 calendar years from the time an application is submitted is less than 8,000,000 short tons, as determined using United States Army Corps of Engineers data or data provided by an independent audit.
 
 &emsp;(2)
+
+Independent audit.—
+
+&emsp;&emsp;(A)
+
+In general.—If an eligible applicant provides data by an independent audit for purposes of paragraph (1), the Secretary shall use such data to make a tonnage determination if the Secretary determines that it is acceptable to use such data instead of using Corps of Engineers data.
+
+&emsp;&emsp;(B)
+
+Acceptable use of data.—For purposes of subparagraph (A), an acceptable use of data means that the Secretary has determined such data is a reasonable substitute for Army Corps data.
+
+&emsp;&emsp;(C)
+
+Justification.—If the Secretary makes a determination pursuant to subparagraph (A) that it is not acceptable to use independent audit data provided by an eligible applicant, the Secretary shall provide the eligible applicant with notification of, and justification for, such determination.
+
+&emsp;(3)
+
+Tonnage determination.—In making a determination of the average annual tonnage of cargo using Corps of Engineers data for purposes of evaluating an application of an eligible applicant pursuant to paragraph (1), the Secretary shall use data that is specific to the eligible applicant.
+
+&emsp;(4)
 
 Awards.—In providing assistance under this subsection, the Secretary shall—
 
@@ -304,7 +338,7 @@ Awards.—In providing assistance under this subsection, the Secretary shall—
 
 &emsp;&emsp;(C) take into consideration the degree to which a project would promote the enhancement and efficiencies of a port.
 
-&emsp;(3)
+&emsp;(5)
 
 Use of funds.—
 
@@ -336,17 +370,17 @@ Acquisition methods.—The Secretary may not require as a condition of issuing a
 
 &emsp;&emsp;&emsp;(ii) that equipment procured using such funds be new.
 
-&emsp;(4)
+&emsp;(6)
 
 Prohibited uses.—Funds provided under this subsection may not be used for—
 
-&emsp;&emsp;(A) projects conducted on property outside the boundary of a port unless such propertyis directly related to port operations or to an intermodal connection to a port;
+&emsp;&emsp;(A) projects conducted on property outside the boundary of a port unless such property is directly related to port operations or to an intermodal connection to a port;
 
 &emsp;&emsp;(B) any single grant award more than 10 percent of total allocation of funds to carry out this subsection per fiscal year appropriation; or
 
 &emsp;&emsp;(C) activities, including channel improvements or harbor deepening that is part of a Federal channel or an access channel associated with a Federal channel, authorized, as of the date of the application for assistance under this subsection, to be carried out by of the United States Army Corps of Engineers.
 
-&emsp;(5)
+&emsp;(7)
 
 Matching requirements.—
 
@@ -360,7 +394,7 @@ In general.—Any costs of the project to be paid by the recipient's matching sh
 
 &emsp;&emsp;(B)
 
-Determination of effectiveness.—In determining whether a project meets the criteria under clauses (i), (iii), (iv), (v), and (vi) of subsection (c)(6)(A), the Secretary shall accept documentation used to obtain a commitment of the matching funds covered by this paragraph, including feasibility studies, business plans, investor prospectuses, loan applications, or similar documentation.
+Determination of effectiveness.—In determining whether a project meets the criteria under clauses (i), (iii), (iv), (v), and (vi) of subsection (a)(6)(A), the Secretary shall accept documentation used to obtain a commitment of the matching funds covered by this paragraph, including feasibility studies, business plans, investor prospectuses, loan applications, or similar documentation.
 
 (c)
 
@@ -372,7 +406,7 @@ Additional Authority of the Secretary.—In carrying out this section, the Secre
 
 &emsp;(3) in addition to any financial assistance provided under subsection (a) or subsection (b), provide such technical assistance to any eligible applicants as described in subsection (a)(2).
 
-(Added and amended Pub. L. 117–81, div. C, title XXXV, §3513(a), (b), Dec. 27, 2021, 135 Stat. 2240.)
+(Added and amended Pub. L. 117–81, div. C, title XXXV, §3513(a), (b), Dec. 27, 2021, 135 Stat. 2240; Pub. L. 118–31, div. C, title XXXV, §§3511, 3512, 3513(b), 3514(a), Dec. 22, 2023, 137 Stat. 808–810.)
 
 #### <b>Editorial Notes</b>
 
@@ -382,9 +416,35 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(1), is
 
 #### Codification
 
+Subsec. (a)(1) and (2) of section 3505 of Pub. L. 113–66, which were transferred to this section, redesignated as subsec. (a)(6)(C) and (12)(E), respectively, and amended by Pub. L. 118–31, div. C, title XXXV, §3514(a)(1)(A), (B), were based on Pub. L. 113–66, div. C, title XXXV, §3505(a), Dec. 26, 2013, 127 Stat. 1086, formerly set out as a note under section 50302 of this title.
+
 Subsecs. (c) to (e) of section 50302 of this title, which were transferred to this section, redesignated as subsecs. (a) to (c), repsectively, and amended by Pub. L. 117–81, §3513(a)(2), (b), were based on Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1564; Pub. L. 111–84, div. C, title XXXV, §3512, Oct. 28, 2009, 123 Stat. 2722; Pub. L. 113–66, div. C, title XXXV, §3505(b), Dec. 26, 2013, 127 Stat. 1086; Pub. L. 116–92, div. C, title XXXV, §3514(b), Dec. 20, 2019, 133 Stat. 1980; Pub. L. 116–283, div. C, title XXXV, §3504, Jan. 1, 2021, 134 Stat. 4399.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(3)(A)(ii)(V). Pub. L. 118–31, §3511, added subcl. (V).
+
+Subsec. (a)(6)(A)(ii). Pub. L. 118–31, §3513(b)(1), inserted "(except in the case of a project described under subparagraph (C))" after "effective".
+
+Subsec. (a)(6)(B)(ii). Pub. L. 118–31, §3513(b)(2), inserted "(except in the case of a project described under subparagraph (C))" after "as applicable".
+
+Subsec. (a)(6)(C). Pub. L. 118–31, §3514(a)(1)(A)(iii), which directed substitution of "In selecting projects described in paragraph (3)" for "Under the port infrastructure development grant program established under section 50302(c) of title 46, United States Code", was executed by making the substitution for "Under the port infrastructure development program established under section 50302(c) of title 46, United States Code" to reflect the probable intent of Congress.
+
+Pub. L. 118–31, §3514(a)(1)(A)(i), (ii), transferred the text of section 3505(a)(1) of Pub. L. 113–66 to this section and redesignated it as subsec. (a)(6)(C) relating to priority funding for strategic seaports. See Codification note above.
+
+Pub. L. 118–31, §3513(b)(3), added subpar. (C) relating to noncontiguous states and territories.
+
+Subsec. (a)(7)(C)(ii). Pub. L. 118–31, §3512(b), substituted "subsection (b)(5)(A)(ii)(III)" for "subsection (b)(3)(A)(ii)(III)".
+
+Subsec. (a)(12)(E). Pub. L. 118–31, §3514(a)(1)(B), transferred the text of section 3505(a)(2) of Pub. L. 113–66 to this section and redesignated it as subsec. (a)(12)(E). See Codification note above.
+
+Subsec. (b)(1). Pub. L. 118–31, §3512(a)(1), struck out "the findings of which are acceptable to the Secretary" before period at end.
+
+Subsec. (b)(2), (3). Pub. L. 118–31, §3512(a)(3), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (5), respectively.
+
+Subsec. (b)(4) to (7). Pub. L. 118–31, §3512(a)(2), redesignated pars. (2) to (5) as (4) to (7), respectively.
+
+Subsec. (b)(7)(B). Pub. L. 118–31, §3514(a)(2), which directed substitution of "subsection (a)(6)(A)" for "subsection (c)(6)(A)" in par. (5)(B), was executed to par. (7)(B) to reflect the probable intent of Congress and the intervening redesignation made by section 3512(a)(2) of Pub. L. 118–31. See Amendment note above.
 
 <b>2021</b>—Subsec. (a). Pub. L. 117–81, §3513(a)(2), redesignated subsec. (c) of section 50302 of this title as subsec. (a) of this section. See Codification note above.
 
@@ -428,5 +488,11 @@ Subsec. (c). Pub. L. 117–81, §3513(a)(2), redesignated subsec. (e) of section
 
 Subsec. (c)(3). Pub. L. 117–81, §3513(b)(3), substituted "subsection (a) or subsection (b)" for "subsection (c) or subsection (d)" and "subsection (a)(2)" for "subsection (c)(2)".
 
-<i><sup>1</sup></i><i> So in original. Probably should be "and".</i>
+<i><sup>1</sup></i><i> Probably means the subpar. (C) relating to noncontiguous states and territories.</i>
+
+<i><sup>2</sup></i><i> So in original. There are two subpars. (C).</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "and".</i>
+
+<i><sup>4</sup></i><i> So in original.</i>
 

@@ -8,7 +8,7 @@ From the sums appropriated to the Eunice Kennedy Shriver National Institute of C
 
 #### References in Text
 
-Subsection (b), referred to in text, was repealed by Pub. L. 109–482, title I, §104(b)(2)(B)(ii), Jan. 15, 2007, 120 Stat. 3693. Prior to repeal, subparagraphs (A) and (B) of subsection (b)(1) read as follows:
+Subsection (b), referred to in text, was repealed by Pub. L. 109–482, title I, §104(b)(2)(B)(ii), Jan. 15, 2007, 120Stat. 3693. Prior to repeal, subparagraphs (A) and (B) of subsection (b)(1) read as follows:
 
 "(A) the (i) number of applications approved by the Secretary in the fiscal year reported on for grants and contracts under this chapter for research which relates specifically to sudden infant death syndrome, (ii) total amount requested under such applications, (iii) number of such applications for which funds were provided in such fiscal year, and (iv) total amount of such funds; and
 

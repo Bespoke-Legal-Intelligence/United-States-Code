@@ -14,7 +14,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;&emsp;(D) interoperable video conferencing service; and
 
-&emsp;&emsp;(E) any audio or video communications service used by inmates for the purpose of communicating with individuals outside the correctional institution where the inmate is held, regardless of technology used.
+&emsp;&emsp;(E) any audio or video communications service used by inmates for the purpose of communicating with individuals outside thecorrectional institution where the inmate is held, regardless of technology used.
 
 #### (2) Affiliate
 
@@ -22,7 +22,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (3) Amateur station
 
-&emsp;The term "amateur station" means a radio station operated by a duly authorized personinterested in radio technique solely with a personal aim and without pecuniary interest.
+&emsp;The term "amateur station" means a radio station operated by a duly authorized person interested in radio technique solely with a personal aim and without pecuniary interest.
 
 #### (4) AT\&T Consent Decree
 
@@ -92,7 +92,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (19) Electronic messaging service
 
-&emsp;The term "electronic messaging service" means a service that provides real-time or near real-time non-voice messages in text form between individuals over communications networks.
+&emsp;The term "electronic messaging service" means a service that provides real-time ornear real-time non-voice messages in text form between individuals over communications networks.
 
 #### (20) Exchange access
 
@@ -100,7 +100,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (21) Foreign communication
 
-&emsp;The term "foreign communication" or "foreign transmission" means communication ortransmission from or to any place in the United States to or from a foreign country, or between a station in the United States and a mobile station located outside the United States.
+&emsp;The term "foreign communication" or "foreign transmission" means communication or transmission from or to any place in the United States to or from a foreign country, or between a station in the United States and a mobile station located outside the United States.
 
 #### (22) Great Lakes Agreement
 
@@ -160,7 +160,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (35) Network element
 
-&emsp;The term "network element" means a facility or equipment used in the provision of a telecommunications service. Such term also includes features, functions, and capabilities that are provided by means of such facility or equipment, including subscriber numbers, databases, signaling systems, and information sufficient for billing and collection or used inthe transmission, routing, or other provision of a telecommunications service.
+&emsp;The term "network element" means a facility or equipment used in the provision of a telecommunications service. Such term also includes features, functions, and capabilities that are provided by means of such facility or equipment, including subscriber numbers, databases, signaling systems, and information sufficient for billing and collection or used in the transmission, routing, or other provision of a telecommunications service.
 
 #### (36) Non-interconnected VoIP service
 
@@ -294,9 +294,9 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (59) Wire communication
 
-&emsp;The term "wire communication" or "communication by wire" means the transmission of writing, signs, signals, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus, and services (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.
+&emsp;The term "wire communication" or "communication by wire" means the transmissionof writing, signs, signals, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus, and services (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.
 
-(June 19, 1934, ch. 652, title I, §3, 48 Stat. 1065; May 20, 1937, ch. 229, §2, 50 Stat. 189; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; July 16, 1952, ch. 879, §2, 66 Stat. 711; Apr. 27, 1954, ch. 175, §§2, 3, 68 Stat. 64; Aug. 13, 1954, ch. 729, §3, 68 Stat. 707; Aug. 13, 1954, ch. 735, §1, 68 Stat. 729; Aug. 6, 1956, ch. 973, §3, 70 Stat. 1049; Pub. L. 89–121, §1, Aug. 13, 1965, 79 Stat. 511; Pub.L. 90–299, §2, May 3, 1968, 82 Stat. 112; Pub. L. 97–259, title I, §120(b), Sept. 13, 1982, 96 Stat. 1097; Pub. L. 103–66, title VI, §6002(b)(2)(B)(ii), Aug. 10, 1993, 107 Stat. 396; Pub. L. 104–104, §3(a), (c), Feb. 8, 1996, 110 Stat. 58, 61; Pub. L. 105–33, title III, §3001(b), Aug. 5, 1997, 111 Stat. 258; Pub. L. 111–260, title I, §101, Oct. 8, 2010, 124 Stat. 2752; Pub. L. 117–338, §2(b), Jan. 5, 2023, 136 Stat. 6156.)
+(June 19, 1934, ch. 652, title I, §3, 48 Stat. 1065; May 20, 1937, ch. 229, §2, 50 Stat. 189; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; July 16, 1952, ch. 879, §2, 66 Stat. 711; Apr. 27, 1954, ch. 175, §§2, 3, 68 Stat. 64; Aug. 13, 1954, ch. 729, §3, 68 Stat. 707; Aug. 13, 1954, ch. 735, §1, 68 Stat. 729; Aug. 6, 1956, ch. 973, §3, 70 Stat. 1049; Pub. L. 89–121, §1, Aug. 13, 1965, 79 Stat. 511; Pub. L. 90–299, §2, May 3, 1968, 82 Stat. 112; Pub. L. 97–259, title I, §120(b), Sept. 13, 1982, 96 Stat. 1097; Pub. L. 103–66, title VI, §6002(b)(2)(B)(ii), Aug. 10, 1993, 107 Stat. 396; Pub. L. 104–104, §3(a), (c), Feb. 8, 1996, 110 Stat. 58, 61; Pub. L. 105–33, title III, §3001(b), Aug. 5, 1997, 111 Stat. 258; Pub. L. 111–260, title I, §101, Oct. 8, 2010, 124 Stat. 2752; Pub. L. 117–338, §2(b), Jan. 5, 2023, 136 Stat. 6156.)
 
 #### <b>Editorial Notes</b>
 

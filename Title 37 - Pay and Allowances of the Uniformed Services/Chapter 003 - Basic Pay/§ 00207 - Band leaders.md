@@ -10,7 +10,7 @@
 
 (e) The director of the Coast Guard Band is entitled to the basic pay of an officer in the grade in which he is serving. However, his basic pay may not be less than that to which he was entitled at the time of his appointment as director.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 89–189, §2, Sept. 17, 1965, 79 Stat. 820; Pub. L. 95–551, §3(b)(1), Oct. 30, 1978, 92 Stat. 2069; Pub. L. 115–232, div. A, title VIII, §809(m)(1), Aug. 13, 2018, 132 Stat. 1843.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 89–189, §2, Sept. 17, 1965, 79 Stat. 820; Pub. L.95–551, §3(b)(1), Oct. 30, 1978, 92 Stat. 2069; Pub. L. 115–232, div. A, title VIII, §809(m)(1), Aug. 13, 2018, 132 Stat. 1843.)
 
 Historical and Revision Notes
 

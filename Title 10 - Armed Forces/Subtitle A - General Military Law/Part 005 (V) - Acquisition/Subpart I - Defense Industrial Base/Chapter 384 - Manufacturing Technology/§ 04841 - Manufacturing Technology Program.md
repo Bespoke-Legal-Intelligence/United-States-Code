@@ -188,9 +188,95 @@ Subsec. (d)(3), (4). Pub. L. 104–106, §276(a)(4)(B), added pars. (3) and (4).
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
+#### Consortium on Use of Additive Manufacturing for Defense Capability Development
+
+Pub. L. 118–31, div. A, title II, §223, Dec. 22, 2023, 137 Stat. 191, provided that:
+
+"(a)
+
+Establishment.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall establish a consortium to facilitate the use of additive manufacturing for the development of capabilities for the Department of Defense. The consortium shall be known as the 'Consortium on Additive Manufacturing for Defense Capability Development' (referred to in this section as the 'Consortium').
+
+"(b)
+
+Composition.—The Consortium shall be composed of qualified organizations, selected by the Secretary of Defense, that have functions and expertise relevant to additive manufacturing. At a minimum, the Consortium shall include the following:
+
+&emsp;"(1) Representation from one or more science and technology reinvention laboratories (as designated under section 4121 of title 10, United States Code) from each of the military departments, which may include—
+
+&emsp;&emsp;"(A) from the Department of the Army—
+
+&emsp;&emsp;&emsp;"(i) the Combat Capabilities Development Command, Army Research Laboratory;
+
+&emsp;&emsp;&emsp;"(ii) the Combat Capabilities Development Command, Aviation and Missile Center;
+
+&emsp;&emsp;&emsp;"(iii) the Combat Capabilities Development Command, Armaments Center;
+
+&emsp;&emsp;&emsp;"(iv) the Combat Capabilities Development Command, Ground Vehicle Systems Center;
+
+&emsp;&emsp;&emsp;"(v) the Combat Capabilities Development Command, Soldier Center;
+
+&emsp;&emsp;&emsp;"(vi) the Combat Capabilities Development Command, Chemical Biological Center;
+
+&emsp;&emsp;&emsp;"(vii) the Combat Capabilities Development Command, Command, Control, Communications, Computers, Cyber, Intelligence, Surveillance, and Reconnaissance Center; and \[sic\]
+
+&emsp;&emsp;&emsp;"(viii) the Space and Missile Defense Command, Technical Center;
+
+&emsp;&emsp;&emsp;"(ix) the Engineer Research and Development Center;
+
+&emsp;&emsp;&emsp;"(x) the Medical Research and Development Command; and
+
+&emsp;&emsp;&emsp;"(xi) the Army Research Institute for the Behavioral and Social Sciences;
+
+&emsp;&emsp;"(B) from the Department of the Navy—
+
+&emsp;&emsp;&emsp;"(i) the Naval Research Laboratory;
+
+&emsp;&emsp;&emsp;"(ii) the Office of Naval Research;
+
+&emsp;&emsp;&emsp;"(iii) the Naval Air Systems Command Warfare Centers;
+
+&emsp;&emsp;&emsp;"(iv) the Naval Sea Systems Command Warfare Centers;
+
+&emsp;&emsp;&emsp;"(v) the Naval Facilities Engineering Command, Engineering and Expeditionary Warfare Center;
+
+&emsp;&emsp;&emsp;"(vi) the Naval Medical Research Center; and
+
+&emsp;&emsp;&emsp;"(vii) the Naval Information Warfare Centers, Atlantic and Pacific; and
+
+&emsp;&emsp;"(C) from the Department of the Air Force—
+
+&emsp;&emsp;&emsp;"(i) the Air Force Research Laboratory; and
+
+&emsp;&emsp;&emsp;"(ii) the Joint Warfighting Analysis Center.
+
+&emsp;"(2) Representation from one or more maintenance, logistics, or sustainment organizations from each of the military departments.
+
+&emsp;"(3) One or more organizations from private sector industry.
+
+&emsp;"(4) One or more institutions of higher education or other research institutions.
+
+"(c)
+
+Activities.—The Consortium shall—
+
+&emsp;"(1) facilitate the use of additive manufacturing—
+
+&emsp;&emsp;"(A) to significantly reduce logistic footprints, material costs, and delivery lead-times; and
+
+&emsp;&emsp;"(B) to extended \[sic\] logistical supply chain dependencies that often challenge weapon system readiness for forward deployed warfighters;
+
+&emsp;"(2) develop standards and a certification process for the use of additive manufacturing in safety-critical applications, including additive material and part certification requirements for additive manufactured items intended for use in military vehicles;
+
+&emsp;"(3) evaluate, adapt, or apply the standards developed in the commercial sector, or new process approaches for additive manufacturing that may be of use to the Department of Defense;
+
+&emsp;"(4) as directed by an organization of the Department of Defense included in the Consortium, conduct reverse engineering (including testing and certification) for critical parts which may have limited sources of supply;
+
+&emsp;"(5) use data standards, common repositories, and information security to track, store, and secure technical data relating to additive manufacturing and ensure the interoperability of such data; and
+
+&emsp;"(6) conduct comparative cost analyses for new and emerging additive manufacturing approaches, including assessments of life-cycle costs for tooling, training, and intellectual property needed to sustain such approaches."
+
 #### Support for Research and Development of Bioindustrial Manufacturing Processes
 
-Pub. L. 117–263, div. A, title II, §215, Dec. 23, 2022, 136 Stat. 2472, provided that:
+Pub. L. 117–263, div. A, title II, §215, Dec. 23, 2022, 136 Stat. 2472, as amended by Pub. L. 118–31, div. A, title II, §216, Dec. 22, 2023, 137 Stat. 185, provided that:
 
 "(a)
 
@@ -214,11 +300,11 @@ Form of Support.—The support provided under subsection (a) may consist of—
 
 Activities.—A facility that receives support under subsection (a) shall carry out activities relating to the research, development, test, and evaluation of innovative bioindustrial manufacturing processes and the scaling of bioindustrial manufacturing products to higher levels of production, which may include—
 
-&emsp;"(1) research on the use of bioindustrial manufacturing to create materials such as polymers, coatings, resins, commodity chemicals, and other materials with fragile supply chains;
+&emsp;"(1) research on the use of bioindustrial manufacturing to create materials such as polymers, coatings, resins, commodity chemicals, pharmaceutical biologics and associated precursor materials, and other materials with fragile supply chains;
 
 &emsp;"(2) demonstration projects to evaluate bioindustrial manufacturing processes and technologies;
 
-&emsp;"(3) activities to scale bioindustrial manufacuring processes and products to higher levels of production;
+&emsp;"(3) activities to scale bioindustrial manufacuring \[sic\] processes and products to higher levels of production;
 
 &emsp;"(4) strategic planning for infrastructure and equipment investments for bioindustrial manufacturing of defense-related materials;
 
@@ -270,7 +356,7 @@ In general.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;&emsp;"(C) a general description of the focus of each facility, including the types of bioindustrial manufacturing equipment, if any, that are expected to be procured for each such facility;
 
-&emsp;&emsp;"(D) a general description of how the facilities will work as a network to maximize the diversity ofbioindustrial products available to be produced by the network;
+&emsp;&emsp;"(D) a general description of how the facilities will work as a network to maximize the diversity of bioindustrial products available to be produced by the network;
 
 &emsp;&emsp;"(E) an explanation of how the network will support the establishment and maintenance of the bioindustrial manufacturing industrial base; and
 
@@ -304,7 +390,7 @@ In General.—The Secretary of Defense shall make such changes to the administra
 
 &emsp;"(4) to encourage covered institutes to consider developing technologies that were previously funded by Federal Government investment for early-stage research and development and expand cross-government coordination and collaboration to achieve this goal;
 
-&emsp;"(5) to provide an opportunity for increased Department of Defense input and oversight from senior-level military and civilian personnel on future technology roadmaps produced by covered institutes;
+&emsp;"(5) to provide an opportunity for increased Department of Defense input and oversight from senior-levelmilitary and civilian personnel on future technology roadmaps produced by covered institutes;
 
 &emsp;"(6) to reduce the barriers to collaboration between and among multiple covered institutes;
 
@@ -418,7 +504,7 @@ Pub. L. 110–181, div. A, title II, §238(b), Jan. 28, 2008, 122 Stat. 48, prov
 
 "(1)
 
-Development.—The Secretary of Defense shall develop the strategic plan required by subsection (e) of section 2521 of title 10, United States Code \[now 10 U.S.C. 4841(e)\] (as added by subsection (a) of this section), so that the plan goes into effect at the beginning of fiscal year 2009.
+Development.—The Secretary of Defense shall develop the strategic plan required by subsection (e) ofsection 2521 of title 10, United States Code \[now 10 U.S.C. 4841(e)\] (as added by subsection (a) of this section), so that the plan goes into effect at the beginning of fiscal year 2009.
 
 "(2)
 

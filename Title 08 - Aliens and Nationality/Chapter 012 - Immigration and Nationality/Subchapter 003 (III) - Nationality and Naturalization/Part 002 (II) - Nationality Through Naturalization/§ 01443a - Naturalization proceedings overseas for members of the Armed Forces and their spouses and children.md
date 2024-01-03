@@ -16,7 +16,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–181 inserted "and their spouses and children" after "Armed Forces" in section catchline and ", and persons made eligible for naturalization bysection 319(e) or 322(d) of such Act," after "Armed Forces" in text.
+<b>2008</b>—Pub. L. 110–181 inserted "and their spouses and children" after "Armed Forces" in section catchline and ", and persons made eligible for naturalization by section 319(e) or 322(d) of such Act," after "Armed Forces" in text.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -10,7 +10,7 @@ Access to Evidence.—Any information admitted into evidence pursuant to any rul
 
 (c)
 
-Declassification.—Trial counsel shall work with the original classification authorities for evidence that may be used at trial to ensure that such evidence is declassified to the maximum extent possible, consistent with the requirements of national security. A decision not to declassify evidence under this section shall not be subject to review by a military commission or upon appeal.
+Declassification.—Trial counsel shall work with the original classification authorities for evidence that may be used at trial to ensurethat such evidence is declassified to the maximum extent possible, consistent with the requirements of national security. A decision not to declassify evidence under this section shall not be subject to review by a military commission or upon appeal.
 
 (d)
 

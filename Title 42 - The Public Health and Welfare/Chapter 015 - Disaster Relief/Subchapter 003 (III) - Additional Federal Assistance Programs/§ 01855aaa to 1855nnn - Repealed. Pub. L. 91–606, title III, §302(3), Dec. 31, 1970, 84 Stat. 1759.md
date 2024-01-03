@@ -18,7 +18,7 @@ Section 1855ggg, Pub. L. 91–79, §8, Oct. 1, 1969, 83 Stat. 128, provided for 
 
 Section 1855hhh, Pub. L. 91–79, §9, Oct. 1, 1969, 83 Stat. 128, made provision for appointment and duties of a Federal coordinating officer to operate under Office of Emergency Preparedness in any area designated a major disaster area.
 
-Section 1855iii, Pub. L. 91–79, §10, Oct. 1, 1969, 83 Stat. 128, authorized the President to provide on a temporary basis dwelling accommodations for individuals and families displaced by a major disaster.
+Section 1855iii, Pub. L. 91–79, §10, Oct. 1, 1969, 83 Stat. 128, authorized the President to provide on a temporarybasis dwelling accommodations for individuals and families displaced by a major disaster.
 
 Section 1855jjj, Pub. L. 91–79, §11, Oct. 1, 1969, 83 Stat. 129, authorized the President to set up a food stamp and surplus commodities program to distribute food to persons in low-income households unable to purchase food as result of a major disaster.
 

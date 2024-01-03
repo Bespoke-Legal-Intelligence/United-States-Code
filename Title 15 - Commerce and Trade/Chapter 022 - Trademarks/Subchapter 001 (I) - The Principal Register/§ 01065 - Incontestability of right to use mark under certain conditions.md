@@ -10,7 +10,7 @@ Except on a ground for which application to cancel may be filed at any time unde
 
 &emsp;(4) no incontestable right shall be acquired in a mark which is the generic name for the goods or services or a portion thereof, for which it is registered.
 
-Subject to the conditions above specified in this section, the incontestable right with reference to a mark registered under this chapter shall apply to a mark registered under the Act of March 3, 1881, or the Act of February 20, 1905, upon the filing of the required affidavit with the Director within one year after the expiration of any period of five consecutive years after the date of publication of a mark under the provisions of subsection (c) of section 1062 of this title.
+Subject to the conditions above specified in this section, the incontestable right with reference to a mark registered under this chaptershall apply to a mark registered under the Act of March 3, 1881, or the Act of February 20, 1905, upon the filing of the required affidavit with the Director within one year after the expiration of any period of five consecutive years after the date of publication of a mark under the provisions of subsection (c) of section 1062 of this title.
 
 The Director shall notify any registrant who files the above-prescribed affidavit of the filing thereof.
 

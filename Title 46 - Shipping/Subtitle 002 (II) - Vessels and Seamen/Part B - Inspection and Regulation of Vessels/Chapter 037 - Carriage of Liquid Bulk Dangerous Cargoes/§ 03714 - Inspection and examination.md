@@ -46,7 +46,7 @@ The Committee understands that the 10-year inspections of United States-flag and
 
 The Secretary is also authorized and directed to prescribe by regulation reasonable fees for certain inspections or examinations conducted pursuant to this section based on the cost incurred. The owner of any vessel inspected or examined by the Secretary or his designee shall be liable for the fee. Amounts received as fees under this section are to be deposited in the Treasury.
 
-Section 3714(b) requires each vessel subject to this chapter to have on board those documents the Secretary declares are necessary for inspection or enforcement, including, but not limited to documents indicating the kind, grade, and approximate quantities of any cargo on board; the shipper and consignee of the cargo; the points of origin and destination of the vessel; and the name of an agent in the United States authorized to accept legal process.
+Section 3714(b) requires each vessel subject to this chapter to have on board those documents the Secretary declares are necessary for inspection or enforcement, including, but not limited to documents indicating the kind, grade, and approximate quantities of any cargo on board; the shipper and consignee of thecargo; the points of origin and destination of the vessel; and the name of an agent in the United States authorized to accept legal process.
 
 Section 3714(c) requires each vessel subject to this chapter to have a person authorized to accept service of legal process for the vessel.
 

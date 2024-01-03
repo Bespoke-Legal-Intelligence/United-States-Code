@@ -62,5 +62,5 @@ Pub. L. 114–165, §1, June 3, 2016, 130 Stat. 415, provided that: "This Act \[
 
 #### Short Title
 
-Pub. L. 101–630, title IV, §401, Nov. 28, 1990, 104 Stat. 4544, provided that: "This title \[enacting this chapter and section 1169 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'Indian Child Protection and Family Violence Prevention Act'."
+Pub. L. 101–630, title IV, §401, Nov. 28, 1990, 104 Stat. 4544, provided that: "This title \[enacting this chapterand section 1169 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'Indian Child Protection and Family Violence Prevention Act'."
 

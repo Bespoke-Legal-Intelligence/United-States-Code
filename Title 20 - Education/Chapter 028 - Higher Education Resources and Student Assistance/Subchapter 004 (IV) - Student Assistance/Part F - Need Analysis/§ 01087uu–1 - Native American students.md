@@ -24,7 +24,7 @@ In determining family contributions for Native American students, computations p
 
 #### <i>(b) Guidance</i>
 
-<i>The Secretary shall develop guidance, in consultation with Tribal Colleges and Universities (as defined in section 1059c of this title) and the State higher education agency in Alaska and Maine, to implement the determination under subsection (a) without adding additional questions to the FAFSA, including through the use of the authority under section 1087tt of this title.</i>
+<i>The Secretary shall develop guidance, in consultation with Tribal Colleges and Universities (as defined in section 1059c of this title) and the State higher education agency in Alaska and Maine, to implement the determination under subsection (a) without adding additional questions to the FAFSA,</i><i>including through the use of the authority under section 1087tt of this title.</i>
 
 <i>See 2020 Amendment note below.</i>
 

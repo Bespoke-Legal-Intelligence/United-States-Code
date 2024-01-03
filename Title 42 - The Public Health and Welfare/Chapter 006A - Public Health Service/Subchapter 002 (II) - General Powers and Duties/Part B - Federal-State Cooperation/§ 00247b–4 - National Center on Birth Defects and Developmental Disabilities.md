@@ -104,7 +104,7 @@ Subsecs. (b), (c). Pub. L. 108–154, §2(2),(4), redesignated subsecs. (c) and 
 
 Subsec. (d). Pub. L. 108–154, §2(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (d)(1). Pub. L. 108–154, §2(3)(A), added par. (1) and struck out former par. (1) which read as follows: "contains information regarding the incidence and prevalence of birth defects and the extent to which birth defects have contributed to the incidence and prevalence of infant mortality;".
+Subsec. (d)(1). Pub. L. 108–154, §2(3)(A), added par. (1) and struck out former par. (1) which read as follows:"contains information regarding the incidence and prevalence of birth defects and the extent to which birth defects have contributed to the incidence and prevalence of infant mortality;".
 
 Subsec. (d)(3). Pub. L. 108–154, §2(3)(B), inserted ", developmental disabilities, and secondary health conditions among individuals with disabilities" after "defects".
 
@@ -120,7 +120,7 @@ Subsec. (a). Pub. L. 106–310, §611(2), added subsec. (a) and struck out headi
 
 Subsec. (b)(1). Pub. L. 106–310, §611(3), substituted "subsection (a)(2)(A) of this section" for "subsection (a)(1) of this section" in introductory provisions.
 
-<b>1998</b>—Pub. L. 105–168 amended section generally, substituting present provisions for provisions which directed Secretary to encourage and assist States in collection and analysis of epidemiological data on birthdefects and to establish and maintain National Information Clearinghouse on Birth Defects, required report not later than July 1, 1993, and biennially thereafter, and authorized appropriations for fiscal years 1993, 1994, and 1995.
+<b>1998</b>—Pub. L. 105–168 amended section generally, substituting present provisions for provisions which directed Secretary to encourage and assist States in collection and analysis of epidemiological data on birth defects and to establish and maintain National Information Clearinghouse on Birth Defects, required report not later than July 1, 1993, and biennially thereafter, and authorized appropriations for fiscal years 1993, 1994, and 1995.
 
 <b>1993</b>—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §306(a), which enacted this section.
 

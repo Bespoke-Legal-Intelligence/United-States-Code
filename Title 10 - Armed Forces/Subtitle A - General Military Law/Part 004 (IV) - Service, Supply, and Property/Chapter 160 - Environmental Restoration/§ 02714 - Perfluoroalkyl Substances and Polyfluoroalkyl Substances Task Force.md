@@ -44,7 +44,7 @@ Duties.—The duties of the PFAS Task Force are the following:
 
 (f)
 
-Report.—Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, and quarterly thereafter, the Chairman of the PFASTask Force shall submit to Congress a report on the activities of the task force.
+Report.—Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, and annually thereafter through 2029, the Chairman of the PFAS Task Force shall submit to Congress a report on the activities of the task force.
 
 (g)
 
@@ -52,9 +52,9 @@ Definitions.—In this section:
 
 &emsp;(1) The term "perfluoroalkyl substance" means a man-made chemical of which all of the carbon atoms are fully fluorinated carbon atoms.
 
-&emsp;(2) The term "polyfluoroalkyl substance" means a man-made chemical containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.
+&emsp;(2) The term "polyfluoroalkyl substance" means a man-made chemical containing a mixof fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.
 
-(Added Pub. L. 117–81, div. A, title III, §341(a), Dec. 27, 2021, 135 Stat. 1641; amended Pub. L. 117–263, div. A, title III, §341(b), Dec. 23, 2022, 136 Stat. 2529.)
+(Added Pub. L. 117–81, div. A, title III, §341(a), Dec. 27, 2021, 135 Stat. 1641; amended Pub. L. 117–263, div. A, title III, §341(b), Dec. 23, 2022, 136 Stat. 2529; Pub. L. 118–31, div. A, title III, §331, Dec. 22, 2023, 137 Stat. 221.)
 
 #### <b>Editorial Notes</b>
 
@@ -63,6 +63,8 @@ Definitions.—In this section:
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (f), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (f). Pub. L. 118–31 substituted "and annually thereafter through 2029," for "and quarterly thereafter,".
 
 <b>2022</b>—Subsec. (e)(5), (6). Pub. L. 117–263 added pars. (5) and (6).
 

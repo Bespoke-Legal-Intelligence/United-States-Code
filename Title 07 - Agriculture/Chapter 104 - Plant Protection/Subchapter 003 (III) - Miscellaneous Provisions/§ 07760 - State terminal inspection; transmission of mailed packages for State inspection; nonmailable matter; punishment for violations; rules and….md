@@ -28,7 +28,7 @@ This section is popularly known as the "Terminal Inspection Act."
 
 #### Transfer of Functions
 
-In first and third pars., "United States Postal Service" substituted for "Postmaster General" pursuant to Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
+In first and third pars., "United States Postal Service" substituted for "Postmaster General" pursuant to Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished office of Postmaster General of PostOffice Department and transferred its functions to United States Postal Service.
 
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 

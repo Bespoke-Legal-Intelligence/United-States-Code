@@ -30,7 +30,7 @@ The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–337, §1(1), designated existing provisions as subsec. (a).
 
-Pub. L. 97–337, §1(2), substituted provisions limiting the maximum amount of space to be programed as the greater of the amounts of space described in par. (1) or (2) for provisions limiting the amount of space to be programed to that amount needed to support teaching and training requirements, except that space may be programed in areas having large concentrations of retired members where there is a critical shortage of facilities.
+Pub. L. 97–337, §1(2), substituted provisions limiting the maximum amount of space to be programed as the greater of the amounts of space described in par. (1) or (2) for provisions limiting the amount of space to be programed to that amount needed to support teaching and training requirements, except that space may beprogramed in areas having large concentrations of retired members where there is a critical shortage of facilities.
 
 Subsec. (b). Pub. L. 97–337, §1(2), added subsec. (b).
 

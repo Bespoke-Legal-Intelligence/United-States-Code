@@ -14,7 +14,7 @@ Changes were made in phraseology.
 
 #### Prior Provisions
 
-A prior section 1745, act June 25, 1948, ch. 646, 62 Stat. 948, related to printed copies of patent specifications and drawings, prior to repeal by act May 24, 1949, ch. 139, §92(d), 63 Stat. 103.
+A prior section 1745, act June 25, 1948, ch. 646, 62 Stat. 948, related to printed copies of patent specificationsand drawings, prior to repeal by act May 24, 1949, ch. 139, §92(d), 63 Stat. 103.
 
 #### Amendments
 

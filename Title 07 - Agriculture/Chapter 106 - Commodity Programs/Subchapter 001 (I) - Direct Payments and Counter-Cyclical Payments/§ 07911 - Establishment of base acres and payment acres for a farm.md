@@ -78,7 +78,7 @@ The election made under subparagraph (A) or (B) of subsection (a)(1), or deemed 
 
 #### (2) Special payment rules
 
-&emsp;For the crop year in which a base acres adjustment under paragraph (1) is first made, the owner of the farm shall elect to receive either direct payments and counter-cyclical payments with respect to the acreage added to the farm under this subsection or a prorated payment under the conservation reserve contract, but not both.
+&emsp;For the crop year in which a base acres adjustment under paragraph (1) is first made, the owner of the farm shall elect to receive eitherdirect payments and counter-cyclical payments with respect to the acreage added to the farm under this subsection or a prorated payment under the conservation reserve contract, but not both.
 
 #### (f) Payment acres
 

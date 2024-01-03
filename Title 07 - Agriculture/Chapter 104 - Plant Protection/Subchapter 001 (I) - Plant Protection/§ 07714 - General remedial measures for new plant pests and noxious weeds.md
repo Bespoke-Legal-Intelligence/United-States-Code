@@ -36,7 +36,7 @@ If the Secretary considers it necessary in order to prevent the dissemination of
 
 #### (d) Application of least drastic action
 
-No plant, biological control organism, plant product, plant pest, noxious weed, article, ormeans of conveyance shall be destroyed, exported, or returned to the shipping point of origin, or ordered to be destroyed, exported, or returned to the shipping point of origin under this section unless, in the opinion of the Secretary, there is no less drastic action that is feasible and that would be adequate to prevent the dissemination of any plant pest or noxious weed new to or not known to be widely prevalent or distributed within and throughout the United States.
+No plant, biological control organism, plant product, plant pest, noxious weed, article, or means of conveyance shall be destroyed, exported, or returned to the shipping point of origin, or ordered to be destroyed, exported, or returned to the shipping point of origin under this section unless, in the opinion of the Secretary, there is no less drastic action that is feasible and that would be adequate to prevent the dissemination of any plant pest or noxious weed new to or not known to be widely prevalent or distributed within and throughout the United States.
 
 (Pub. L. 106–224, title IV, §414, June 20, 2000, 114 Stat. 444; Pub. L. 107–171, title X, §10418(b)(1), May 13, 2002, 116 Stat. 508.)
 

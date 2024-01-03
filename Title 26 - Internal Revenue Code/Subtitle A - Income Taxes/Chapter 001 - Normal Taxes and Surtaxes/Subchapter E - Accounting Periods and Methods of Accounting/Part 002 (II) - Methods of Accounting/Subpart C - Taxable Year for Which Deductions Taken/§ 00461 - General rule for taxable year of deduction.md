@@ -308,7 +308,7 @@ If—
 
 &emsp;&emsp;(E) any interest held by a member of the family (or a spouse of any such member) of a grandparent of an individual described in subparagraph (A), (B), (C), or (D) if the interest in the partnership or the enterprise is attributable to the active participation of the individual described in subparagraph (A), (B), (C), or (D).
 
-> &emsp;For purposes of subparagraph (A), where one farm is substituted for or added to another farm, both farms shall be treated as one farm. For purposes of subparagraph (E), the term "family" has the meaning given to such term by section 267(c)(4).
+> &emsp;For purposes of subparagraph (A), where one farm is substituted for or added to anotherfarm, both farms shall be treated as one farm. For purposes of subparagraph (E), the term "family" has the meaning given to such term by section 267(c)(4).
 
 #### (3) Farming
 
@@ -396,7 +396,7 @@ If—
 
 &emsp;This subsection shall be applied after the application of section 469.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 113–295, div. A, title II, §221(a)(58)(B), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §11012(a), Dec. 22, 2017, 131 Stat. 2071; Pub. L. 115–141, div. U, title IV, §401(a)(117), Mar. 23, 2018, 132 Stat. 1190; Pub. L. 116–136, div. A, title II, §2304(a), (b), Mar. 27, 2020, 134 Stat. 356; Pub. L. 117–2, title IX, §9041(a), Mar. 11, 2021, 135 Stat. 122; Pub. L. 117–169, title I, §13903(b)(1), Aug. 16, 2022, 136 Stat. 2014.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, titleVII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 113–295, div. A, title II, §221(a)(58)(B), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §11012(a), Dec. 22, 2017, 131 Stat. 2071; Pub. L. 115–141, div. U, title IV, §401(a)(117), Mar. 23, 2018, 132 Stat. 1190; Pub. L. 116–136, div. A, title II, §2304(a), (b), Mar. 27, 2020, 134 Stat. 356; Pub. L. 117–2, title IX, §9041(a), Mar. 11, 2021, 135 Stat. 122; Pub. L. 117–169, title I, §13903(b)(1), Aug. 16, 2022, 136 Stat. 2014.)
 
 #### Amendment of Subsection (l)(1)
 
@@ -504,7 +504,7 @@ Subsec. (i)(4). Pub. L. 99–514, §801(b)(2), amended par. (4) generally. Prior
 
 &emsp;"(C) in determining whether an entity is a tax shelter, the definition of farming syndicate in section 464(c) shall be substituted for subparagraphs (A) and (B) of paragraph (3)."
 
-Subsec. (i)(4)(A). Pub. L. 99–514, §1807(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: "section 464 shall be applied to any tax shelter described in paragraph (3)(C),".
+Subsec. (i)(4)(A). Pub. L. 99–514, §1807(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "section 464 shall be applied to any tax shelter described in paragraph (3)(C),".
 
 <b>1984</b>—Subsec. (f)(4). Pub. L. 98–369, §91(e), inserted "determined after application of subsection (h)".
 
@@ -610,7 +610,7 @@ In general.—In the case of amounts described in paragraph (1)(A), a taxpayer m
 
 &emsp;&emsp;&emsp;"(ii) are incurred after the date of the enactment of this Act (determined with regard to such amendments).
 
-&nbsp;&nbsp;The Secretary of the Treasury or his delegate may by regulations provide that (in lieu of an electionunder the preceding sentence) a taxpayer may (subject to such conditions as such regulations may provide) elect to have subsection (h) of section 461 of such Code apply to the taxpayer's entire taxable year in which occurs July 19, 1984.
+&nbsp;&nbsp;The Secretary of the Treasury or his delegate may by regulations provide that (in lieu of an election under the preceding sentence) a taxpayer may (subject to such conditions as such regulations may provide) elect to have subsection (h) of section 461 of such Code apply to the taxpayer's entire taxable year in which occurs July 19, 1984.
 
 &emsp;&emsp;"(B)
 
@@ -700,7 +700,7 @@ In general.—Except as provided in paragraph (2), the amendment made by subsect
 
 &emsp;"(2)
 
-Certain amounts paid before 1977.—The amendment made by subsection (a) \[amending this section\] shall not apply to amounts paid before January 1, 1977, pursuant to a binding contract or written loan commitment which existed on September 16, 1975 (and at all times thereafter), and which required prepayment of such amounts by the taxpayer."
+Certain amounts paid before 1977.—The amendment made by subsection (a) \[amending this section\] shall not apply to amounts paid before January 1, 1977, pursuant to a binding contract or writtenloan commitment which existed on September 16, 1975 (and at all times thereafter), and which required prepayment of such amounts by the taxpayer."
 
 #### Effective Date of 1964 Amendment
 

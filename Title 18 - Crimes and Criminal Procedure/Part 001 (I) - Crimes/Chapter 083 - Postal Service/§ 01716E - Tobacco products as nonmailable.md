@@ -58,7 +58,7 @@ Contents.—The final rule issued under clause (i) shall require—
 
 &emsp;&emsp;&emsp;&emsp;(III) that any mailing described in subparagraph (A) shall be sent through the systems of the United States Postal Service that provide for the tracking and confirmation of the delivery;
 
-&emsp;&emsp;&emsp;&emsp;(IV) that the identity of the business or government entity submitting the mailing containing otherwise nonmailable tobacco products for delivery and the identity of the business or government entity receiving the mailing are clearly set forth on the package;
+&emsp;&emsp;&emsp;&emsp;(IV) that the identity of the business or government entity submitting themailing containing otherwise nonmailable tobacco products for delivery and the identity of the business or government entity receiving the mailing are clearly set forth on the package;
 
 &emsp;&emsp;&emsp;&emsp;(V) the United States Postal Service to maintain identifying information described in subclause (IV) during the 3-year period beginning on the date of the mailing and make the information available to the Postal Service, the Attorney General of the United States, and to persons eligible to bring enforcement actions under section 3(d) <sup>1</sup> of the Prevent All Cigarette Trafficking Act of 2009;
 
@@ -194,7 +194,7 @@ Additional Penalties.—In addition to any other fines and penalties under this 
 
 (e)
 
-Criminal Penalty.—Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail, according to the direction thereon, or at any place at which it is directed to be delivered by the person to whom it is addressed, anything that is nonmailable matter under this section shall be fined under this title, imprisoned not more than 1 year, or both.
+Criminal Penalty.—Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail, according to the direction thereon, or at any place at which it isdirected to be delivered by the person to whom it is addressed, anything that is nonmailable matter under this section shall be fined under this title, imprisoned not more than 1 year, or both.
 
 (f)
 

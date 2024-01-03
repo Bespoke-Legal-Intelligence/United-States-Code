@@ -56,7 +56,7 @@ The Secretary shall require each recipient of a grant under this section to use 
 
 #### (3) Minimum core proficiencies
 
-&emsp;The Secretary shall not award a grant to an entity under this section unless such entity provides assurances that patient navigators recruited, assigned, trained, or employed using grant funds meet minimum core proficiencies, as defined by the entity that submits the application, that are tailored for the main focus or intervention of the navigator involved.
+&emsp;The Secretary shall not award a grant to an entity under this section unless such entityprovides assurances that patient navigators recruited, assigned, trained, or employed using grant funds meet minimum core proficiencies, as defined by the entity that submits the application, that are tailored for the main focus or intervention of the navigator involved.
 
 #### (f) Uniform baseline measures
 
@@ -140,7 +140,7 @@ Another prior section 256a, act July 1, 1944, ch. 373, title III, §340A, as add
 
 Subsec. (e)(3). Pub. L. 111–148, §3510(2), added par. (3).
 
-Subsec. (m)(1). Pub. L. 111–148, §3510(3)(A), substituted "$3,500,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2015" for "and $3,500,000 for fiscal year 2010".
+Subsec. (m)(1). Pub. L. 111–148, §3510(3)(A), substituted "$3,500,000 for fiscal year 2010, and such sumsas may be necessary for each of fiscal years 2011 through 2015" for "and $3,500,000 for fiscal year 2010".
 
 Subsec. (m)(2). Pub. L. 111–148, §3510(3)(B), substituted "2015" for "2010".
 

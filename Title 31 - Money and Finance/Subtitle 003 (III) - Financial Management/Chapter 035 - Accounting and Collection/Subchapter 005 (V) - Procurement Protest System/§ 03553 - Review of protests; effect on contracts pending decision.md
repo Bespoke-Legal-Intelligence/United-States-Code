@@ -4,7 +4,7 @@
 
 (b)(1) Within one day after the receipt of a protest, the Comptroller General shall notify the Federal agency involved of the protest.
 
-(2) Except as provided in paragraph (3) of this subsection, a Federal agency receiving a notice of a protested procurement under paragraph (1) of this subsection shall submit to the Comptroller General a complete report (including all relevant documents) on the protested procurement—
+(2) Except as provided in paragraph (3) of this subsection, a Federal agency receiving a noticeof a protested procurement under paragraph (1) of this subsection shall submit to the Comptroller General a complete report (including all relevant documents) on the protested procurement—
 
 &emsp;(A) within 30 days after the date of the agency's receipt of that notice;
 
@@ -132,5 +132,5 @@ Section applicable with respect to any protest filed after Jan. 14, 1985, see se
 
 #### Construction of 2004 Amendment
 
-Amendment by Pub. L. 108–375 not to be construed to authorize the use of a protest under this subchapterwith regard to a decision made by an agency tender official, see section 326(e) of Pub. L. 108–375, set out as a note under section 3551 of this title.
+Amendment by Pub. L. 108–375 not to be construed to authorize the use of a protest under this subchapter with regard to a decision made by an agency tender official, see section 326(e) of Pub. L. 108–375, set out as a note under section 3551 of this title.
 

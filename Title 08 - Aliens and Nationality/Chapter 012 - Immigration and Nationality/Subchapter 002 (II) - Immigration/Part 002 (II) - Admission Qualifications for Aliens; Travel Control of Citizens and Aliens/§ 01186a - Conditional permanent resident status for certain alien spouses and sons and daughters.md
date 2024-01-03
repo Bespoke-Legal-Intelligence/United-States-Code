@@ -4,7 +4,7 @@
 
 #### (1) Conditional basis for status
 
-&emsp;Notwithstanding any other provision of this chapter, an alien spouse (as defined in subsection (h)(1)) and an alien son or daughter (as defined in subsection (h)(2)) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
+&emsp;Notwithstanding any other provision of this chapter, an alien spouse (as defined in subsection (h)(1)) and an alien son or daughter (asdefined in subsection (h)(2)) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
 
 #### (2) Notice of requirements
 
@@ -80,7 +80,7 @@
 
 #### (B) Removal of conditional basis if favorable determination
 
-&emsp;&emsp;If the Secretary of Homeland Security determines that such facts and information are true, the Secretary of Homeland Security shall so notify the parties involved and shall remove the conditional basis of the parties effective as of the second anniversary of the alien's obtaining the status of lawful admission for permanent residence.
+&emsp;&emsp;If the Secretary of Homeland Security determines that such facts and information aretrue, the Secretary of Homeland Security shall so notify the parties involved and shall remove the conditional basis of the parties effective as of the second anniversary of the alien's obtaining the status of lawful admission for permanent residence.
 
 #### (C) Termination if adverse determination
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(B) the qualifying marriage was entered into in good faith by the alien spouse, but the qualifying marriage has been terminated (other than through the death of the spouse) and the alien was not at fault in failing to meet the requirements of paragraph (1); or
 
-&emsp;&emsp;(C) the qualifying marriage was entered into in good faith by the alien spouse and during the marriage the alien spouse orchild was battered by or was the subject of extreme cruelty perpetrated by his or her spouse or citizen or permanent resident parent and the alien was not at fault in failing to meet the requirements of paragraph (1); or
+&emsp;&emsp;(C) the qualifying marriage was entered into in good faith by the alien spouse and during the marriage the alien spouse or child was battered by or was the subject of extreme cruelty perpetrated by his or her spouse or citizen or permanent resident parent and the alien was not at fault in failing to meet the requirements of paragraph (1); or
 
 &emsp;&emsp;(D) the alien meets the requirements under section 1154(a)(1)(A)(iii)(II)(aa)(BB) of this title and following the marriage ceremony was battered by or subject to extreme cruelty perpetrated by the alien's intended spouse and was not at fault in failing to meet the requirements of paragraph (1).
 
@@ -144,7 +144,7 @@
 
 #### (C) Filing of petitions during removal
 
-&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Secretary of Homeland Security may stay such removal proceedings against an alien pending the filing of the petition under subparagraph (B).
+&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Secretary ofHomeland Security may stay such removal proceedings against an alien pending the filing of the petition under subparagraph (B).
 
 #### (3) Personal interview
 
@@ -242,7 +242,7 @@ Subsec. (f). Pub. L. 104–208, §308(d)(4)(E), substituted "inadmissibility" fo
 
 <b>1991</b>—Subsec. (g)(1). Pub. L. 102–232 substituted "section 1153(d)" for "section 1153(a)(8)" in closing provisions.
 
-<b>1990</b>—Subsec. (c)(4). Pub. L. 101–649 struck out "or" at end of subpar. (A), struck out "by the alien spouse forgood cause" after "death of the spouse)" and substituted ", or" for period at end of subpar. (B), added subpar. (C), and inserted at end "The Attorney General shall, by regulation, establish measures to protect the confidentiality of information concerning any abused alien spouse or child, including information regarding the whereabouts of such spouse or child."
+<b>1990</b>—Subsec. (c)(4). Pub. L. 101–649 struck out "or" at end of subpar. (A), struck out "by the alien spouse for good cause" after "death of the spouse)" and substituted ", or" for period at end of subpar. (B), added subpar. (C), and inserted at end "The Attorney General shall, by regulation, establish measures to protect the confidentiality of information concerning any abused alien spouse or child, including information regarding the whereabouts of such spouse or child."
 
 <b>1988</b>—Pub. L. 100–525, §7(a)(1), made technical amendment to directory language of Pub. L. 99–639, §2(a), which enacted this section.
 

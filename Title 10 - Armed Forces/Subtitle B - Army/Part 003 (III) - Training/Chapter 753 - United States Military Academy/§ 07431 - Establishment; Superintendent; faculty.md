@@ -16,7 +16,7 @@
 
 &emsp;(6) A director of admissions.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 238, §4331; Pub. L. 85–600, §1(8), Aug. 6, 1958, 72 Stat. 522; Pub. L. 85–723, Aug. 21, 1958, 72 Stat. 711; Pub. L. 95–551,§1, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title V, §512(12), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 102–484, div. A, title V, §523(a), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 103–160, div. A, title V, §533(a)(3), Nov. 30, 1993, 107 Stat. 1658; Pub. L. 110–181, div. A, title V, §507, Jan. 28, 2008, 122 Stat. 96; renumbered §7431, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 238, §4331; Pub. L. 85–600, §1(8), Aug. 6, 1958, 72 Stat. 522; Pub. L. 85–723, Aug. 21, 1958, 72 Stat. 711; Pub. L. 95–551, §1, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title V, §512(12), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 102–484, div. A, title V, §523(a), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 103–160, div. A, title V, §533(a)(3), Nov. 30, 1993, 107 Stat. 1658; Pub. L. 110–181, div. A, title V, §507, Jan. 28, 2008, 122 Stat. 96; renumbered §7431, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 Historical and Revision Notes
 
@@ -134,9 +134,9 @@ A prior section 7431 was renumbered section 8731 of this title.
 
 <b>1978</b>—Pub. L. 95–551 substituted "Establishment; Superintendent; faculty" for "Superintendent; faculty; adjutant; chaplain" in section catchline.
 
-Subsec. (a). Pub. L. 95–551 substituted provision establishing in the Department of the Army a Military Academy located at West Point, New York, for instruction and preparation of cadets for military service and providing that the organization of the Academy be prescribed by the Secretary of the Army for provision describing the faculty of the Academy as consisting of a Superintendent, a Dean of the Academic Board, a Commandant of Cadets, two permanent professors in each of nine enumerated academic fields, one permanent professor in each of the fields of Law, Ordnance, and Physical education, a professor of Military Hygiene, an adjutant, a registrar, a chaplain, and a director of music.
+Subsec. (a). Pub. L. 95–551 substituted provision establishing in the Department of the Army a Military Academy located at West Point, New York, for instruction and preparation of cadets for military service and providing that the organization of the Academy be prescribed by the Secretary of the Army for provision describing the faculty of the Academy as consisting of aSuperintendent, a Dean of the Academic Board, a Commandant of Cadets, two permanent professors in each of nine enumerated academic fields, one permanent professor in each of the fields of Law, Ordnance, and Physical education, a professor of Military Hygiene, an adjutant, a registrar, a chaplain, and a director of music.
 
-Subsec. (b). Pub. L. 95–551 substituted provision describing the faculty of the Academy as consisting of a Superintendent, a Dean of the Academic Board, a Commandant of Cadets, twenty-two permanent professors, a chaplain, and a director of admissions for provisionmaking an officer, upon becoming the senior commissioned officer of the Medical Corps on active duty at the Academy, the professor of Military Hygiene.
+Subsec. (b). Pub. L. 95–551 substituted provision describing the faculty of the Academy as consisting of a Superintendent, a Dean of the Academic Board, a Commandant of Cadets, twenty-two permanent professors, a chaplain, and a director of admissions for provision making an officer, upon becoming the senior commissioned officer of the Medical Corps on active duty at the Academy, the professor of Military Hygiene.
 
 <b>1958</b>—Subsec. (a)(5). Pub. L. 85–723 authorized a permanent professor of physical education.
 

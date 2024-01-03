@@ -24,12 +24,15 @@
 | [<b>22.</b>](Chapter%20022%20-%20National%20Geospatial-Intelligence%20Agency/README.md) | <b>National Geospatial  -  Intelligence Agency</b> | <b>441</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>480</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Nuclear%20Posture/README.md) | <b>Nuclear Posture</b> | <b>491</b> |
+| [<b>25.</b>](Chapter%20025%20-%20Electromagnetic%20Warfare/README.md) | <b>Electronic Warfare </b><b><sup>1</sup></b> | <b>500</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title XVI, §1682(b), Dec. 22, 2023, 137 Stat. 617, added item for chapter 25.
 
 <b>2022</b>—Pub. L. 117–263, div. A, title X, §1081(e)(2), Dec. 23, 2022, 136 Stat. 2798, substituted "Definitions, Rules of Construction, Cross References, and Related Matters" for "Definitions" in item for chapter 1. Amendment was made pursuant to operation of section 102 of this title.
 
@@ -83,6 +86,8 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 
 <b>1962</b>—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
+
 
 ---
 
@@ -110,3 +115,4 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 - [Chapter 022 - National Geospatial-Intelligence Agency](Chapter%20022%20-%20National%20Geospatial-Intelligence%20Agency/README.md)
 - [Chapter 023 - Miscellaneous Studies and Reports](Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md)
 - [Chapter 024 - Nuclear Posture](Chapter%20024%20-%20Nuclear%20Posture/README.md)
+- [Chapter 025 - Electromagnetic Warfare](Chapter%20025%20-%20Electromagnetic%20Warfare/README.md)

@@ -28,7 +28,7 @@ Pub. L. 116–283, div. A, title III, §316(b), div. B, title XXVIII, §2805(b),
 
 <b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(c)(6), Aug. 13, 2018, 132 Stat. 1985, made technical amendment to directory language of Pub. L. 115–91, §2831(b), effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted. See 2017 Amendment note below.
 
-<b>2017</b>—Pub. L. 115–91, div. B, title XXVIII, §2831(b), Dec. 12, 2017, 131 Stat. 1857, as amended by Pub. L. 115–232, div. A, title X, §1081(c)(6), Aug. 13, 2018, 132 Stat. 1985, which directed amendment of the analysis at the beginning of this chapter by adding item 2911 and striking out former item 2911 "Energy performance goals and master plan for the Department of Defense", was executed in the analysis for this subchapter to reflect the probable intent of Congress.
+<b>2017</b>—Pub. L. 115–91, div. B, title XXVIII, §2831(b), Dec. 12, 2017, 131 Stat. 1857, as amended by Pub. L.115–232, div. A, title X, §1081(c)(6), Aug. 13, 2018, 132 Stat. 1985, which directed amendment of the analysis at the beginning of this chapter by adding item 2911 and striking out former item 2911 "Energy performance goals and master plan for the Department of Defense", was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 
 <b>2016</b>—Pub. L. 114–328, div. B, title XXVIII, §2805(a)(2), Dec. 23, 2016, 130 Stat. 2714, which directed amendment of the analysis at the beginning of this chapter by adding item 2914 and striking out former item 2914 "Energy conservation construction projects", was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 

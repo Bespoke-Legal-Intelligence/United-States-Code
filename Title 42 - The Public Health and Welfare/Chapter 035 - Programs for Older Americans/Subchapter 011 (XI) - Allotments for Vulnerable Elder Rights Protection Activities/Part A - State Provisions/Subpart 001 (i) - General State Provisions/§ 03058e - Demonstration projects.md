@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-From amounts made available under section 3024(d)(1)(C) of this title after September 30, 1992, each State may provide for the establishment of at least one demonstration project, to be conducted by one or more area agencies on aging within the State, for outreach to older individuals with greatest economic need with respect to—
+From amounts made available under section 3024(d)(1)(C) of this title after September 30, 1992, each State may provide for the establishment ofat least one demonstration project, to be conducted by one or more area agencies on aging within the State, for outreach to older individuals with greatest economic need with respect to—
 
 &emsp;(1) benefits available under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.) (or assistance under a State program established in accordance with such title);
 
@@ -26,7 +26,7 @@ Each outreach project carried out under subsection (a) shall—
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(1), (2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIand XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(1), (2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (a)(3), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 

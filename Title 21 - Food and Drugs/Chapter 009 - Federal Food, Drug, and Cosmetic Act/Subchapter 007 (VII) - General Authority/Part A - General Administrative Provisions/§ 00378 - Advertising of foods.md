@@ -4,7 +4,7 @@
 
 (1) Except as provided in subsection (c), before the Secretary may initiate any action under subchapter III—
 
-&emsp;(A) with respect to any food which the Secretary determines is misbranded under section 343(a)(2) of this title because of its advertising, or
+&emsp;(A) with respect to any food which the Secretary determines is misbranded under section343(a)(2) of this title because of its advertising, or
 
 &emsp;(B) with respect to a food's advertising which the Secretary determines causes the food to be so misbranded,
 
@@ -54,5 +54,5 @@ For the purpose of avoiding unnecessary duplication, the Secretary shall coordin
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsecs. (b) and (d), is act Sept. 26, 1914, ch. 311, 38 Stat.717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (b) and (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 

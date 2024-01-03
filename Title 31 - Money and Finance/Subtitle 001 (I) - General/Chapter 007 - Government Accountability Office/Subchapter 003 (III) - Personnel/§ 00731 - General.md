@@ -36,7 +36,7 @@
 
 &emsp;(5) shall not allow any assignment under this subsection to commence after the end of the 5-year period beginning on the date of the enactment of this subsection.
 
-(i) An employee of a private sector organization assigned to the Office under the executiveexchange program shall be considered to be an employee of the Office for purposes of—
+(i) An employee of a private sector organization assigned to the Office under the executive exchange program shall be considered to be an employee of the Office for purposes of—
 
 &emsp;(1) chapter 73 of title 5;
 

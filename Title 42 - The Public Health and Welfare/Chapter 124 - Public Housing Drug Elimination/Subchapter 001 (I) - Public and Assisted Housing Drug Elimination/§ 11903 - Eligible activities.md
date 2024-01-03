@@ -18,7 +18,7 @@ Grants under this subchapter may be used in public housing or other federally as
 
 &emsp;(5) the provision of training, communications equipment, and other related equipment for use by voluntary tenant patrols acting in cooperation with local law enforcement officials;
 
-&emsp;(6) programs designed to reduce use of drugs in and around public or other federally assisted low-income housing projects, includingdrug-abuse prevention, intervention, referral, and treatment programs;
+&emsp;(6) programs designed to reduce use of drugs in and around public or other federally assisted low-income housing projects, including drug-abuse prevention, intervention, referral, and treatment programs;
 
 &emsp;(7) where a public housing agency, an Indian tribe, or recipient of assistance under the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4101 et seq.\] receives a grant, providing funding to nonprofit resident management corporations and resident councils to develop security and drug abuse prevention programs involving site residents; and
 
@@ -38,7 +38,7 @@ Notwithstanding any other provision of this subchapter, grants under this subcha
 
 #### References in Text
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a)(7), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a)(7),is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (b), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 

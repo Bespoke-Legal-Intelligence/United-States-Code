@@ -6,7 +6,7 @@ No medal of honor, Coast Guard cross, distinguished service medal, silver star m
 
 #### Historical and Revision Notes
 
-This section makes honorable service subsequent to the act for which award is made, a condition precedentto granting the award. The Navy has the same statutory condition (see title 34, U.S.C., 1946 ed., §362). 81st Congress, House Report No. 557.
+This section makes honorable service subsequent to the act for which award is made, a condition precedent to granting the award. The Navy has the same statutory condition (see title 34, U.S.C., 1946 ed., §362). 81st Congress, House Report No. 557.
 
 #### <b>Editorial Notes</b>
 

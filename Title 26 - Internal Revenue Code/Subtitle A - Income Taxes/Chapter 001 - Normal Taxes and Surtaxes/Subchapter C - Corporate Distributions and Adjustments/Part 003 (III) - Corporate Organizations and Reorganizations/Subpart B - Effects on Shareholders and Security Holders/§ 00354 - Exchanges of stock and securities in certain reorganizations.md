@@ -62,7 +62,7 @@
 
 #### (c) Certain railroad reorganizations
 
-Notwithstanding any other provision of this subchapter, subsection (a)(1) (and so much of section 356 as relates to this section) shall apply with respect to a plan of reorganization (whether or not a reorganization within the meaning of section 368(a)) for a railroad confirmed under section 1173 of title 11 of the United States Code, as being in the public interest.
+Notwithstanding any other provision of this subchapter, subsection (a)(1) (and so much ofsection 356 as relates to this section) shall apply with respect to a plan of reorganization (whether or not a reorganization within the meaning of section 368(a)) for a railroad confirmed under section 1173 of title 11 of the United States Code, as being in the public interest.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 112; Pub. L. 94–253, §1(c), Mar. 31, 1976, 90 Stat. 296; Pub. L. 95–473, §2(a)(2)(F), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 96–589, §§4(e)(1), (h)(1), 6(i)(2), Dec. 24, 1980, 94 Stat. 3403, 3404, 3410; Pub. L. 101–508, title XI, §11801(c)(8)(D), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 104–88, title III, §304(c), Dec. 29, 1995, 109 Stat. 944; Pub. L. 105–34, title X, §1014(b), (e)(1), (2), Aug. 5, 1997, 111 Stat. 920, 921; Pub. L. 105–206, title VI, §6010(e)(2), July 22, 1998, 112 Stat. 814.)
 

@@ -22,7 +22,7 @@ Grants awarded under this section may be used for programs that provide—
 
 &emsp;&emsp;(B) secure employment, including obtaining employment counseling, occupational training, job retention counseling, and counseling concerning re-entry in to <sup>2</sup> the workforce; and
 
-&emsp;&emsp;(C) integrate into a community by providing that minor, adult, or dependent with services, such as transportation, counseling, child care services, case management, and other assistance. Participation in the support services shall be voluntary. Receipt of the benefits of the housing assistance described in paragraph (2) shall not be conditioned upon the participation of the youth, adults, or their dependents in any or all of the support services offered them.
+&emsp;&emsp;(C) integrate into a community by providing that minor, adult, or dependent withservices, such as transportation, counseling, child care services, case management, and other assistance. Participation in the support services shall be voluntary. Receipt of the benefits of the housing assistance described in paragraph (2) shall not be conditioned upon the participation of the youth, adults, or their dependents in any or all of the support services offered them.
 
 #### (c) Duration
 
@@ -98,7 +98,7 @@ Grants awarded under this section may be used for programs that provide—
 
 #### (2) Availability of report
 
-&emsp;In order to coordinate efforts to assist the victims of domestic violence, the AttorneyGeneral, in coordination with the Director of the Violence Against Women Office, shall transmit a copy of the report submitted under paragraph (1) to—
+&emsp;In order to coordinate efforts to assist the victims of domestic violence, the Attorney General, in coordination with the Director of the Violence Against Women Office, shall transmit a copy of the report submitted under paragraph (1) to—
 
 &emsp;&emsp;(A) the Office of Community Planning and Development at the United States Department of Housing and Urban Development; and
 
@@ -206,7 +206,7 @@ Subsec. (e)(2)(E). Pub. L. 109–162, §602(a)(5)(B)–(D), added subpar. (E).
 
 Subsec. (f)(1). Pub. L. 109–162, §1135(e), which directed an amendment substantially identical to that made by Pub. L. 109–162, §3(b)(4), was repealed by Pub. L. 109–271, §§2(d) and 8(b).
 
-Pub. L. 109–162, §3(b)(4), substituted "shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that contains a compilation of the information contained in the report submitted under subsection (e) of this section not later than 1 month after the end of each even-numbered fiscal year." for "shall annually prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that contains a compilation of the information contained in the report submitted under subsection (e) of this section."
+Pub. L. 109–162, §3(b)(4), substituted "shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that contains a compilation of the information contained in the report submitted under subsection (e) of this section not later than 1 month after the end of each even-numbered fiscal year." for "shall annually prepare and submit tothe Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that contains a compilation of the information contained in the report submitted under subsection (e) of this section."
 
 Subsec. (g)(1). Pub. L. 109–162, §602(a)(6)(A)–(C), substituted "$40,000,000" for "$30,000,000", "2007" for "2004", and "2011" for "2008".
 

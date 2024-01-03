@@ -14,7 +14,7 @@ Except as provided in subsection (b) and section 2803 of this title, no franchis
 
 &emsp;(A) the notification requirements of section 2804 of this title are met; and
 
-&emsp;(B) such termination is based upon a ground described in paragraph (2) or such nonrenewal is based upon a ground described in paragraph (2) or (3).
+&emsp;(B) such termination is based upon a ground described in paragraph (2) or such nonrenewalis based upon a ground described in paragraph (2) or (3).
 
 (2) For purposes of this subsection, the following are grounds for termination of a franchise or nonrenewal of a franchise relationship:
 
@@ -130,7 +130,7 @@ As used in subsection (b)(2)(C), the term "an event which is relevant to the fra
 
 &emsp;&emsp;&emsp;(i) made a bona fide offer to sell, transfer, or assign to the franchisee the interest of the franchisor in any improvements or equipment located on the premises; or
 
-&emsp;&emsp;&emsp;(ii) if applicable, offered the franchisee a right of first refusal (for at least 45 days) of an offer, made by another person, to purchase the interest of the franchisor in the improvements and equipment.
+&emsp;&emsp;&emsp;(ii) if applicable, offered the franchisee a right of first refusal (for at least 45 days)of an offer, made by another person, to purchase the interest of the franchisor in the improvements and equipment.
 
 &emsp;(5) condemnation or other taking, in whole or in part, of the marketing premises pursuant to the power of eminent domain;
 

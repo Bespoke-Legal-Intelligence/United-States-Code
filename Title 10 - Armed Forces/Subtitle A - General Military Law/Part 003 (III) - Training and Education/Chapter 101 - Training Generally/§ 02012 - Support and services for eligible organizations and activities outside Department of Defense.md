@@ -48,7 +48,7 @@ Eligible Entities.—The following organizations and activities are eligible for
 
 &emsp;(2) Youth and charitable organizations specified in section 508 of title 32.
 
-&emsp;(3) Owners and operators of critical infrastructure (as such term is defined in section 1016(e) of Public Law 107–56 (42 U.S.C. 5195c(e))).
+&emsp;(3) Owners and operators of critical infrastructure (as such term is defined in section1016(e) of Public Law 107–56 (42 U.S.C. 5195c(e))).
 
 &emsp;(4) Any other entity as may be approved by the Secretary of Defense on a case-by-case basis.
 
@@ -86,11 +86,13 @@ Advisory Councils.—(1) The Secretary of Defense shall encourage the establishm
 
 (i)
 
-Construction of Provision.—Nothing in this section shall be construed as authorizing—
+Construction of Provision.—(1) Nothing in this section shall be construed as authorizing—
 
-&emsp;(1) the use of the armed forces for civilian law enforcement purposes or for response to natural or manmade disasters; or
+&emsp;(A) the use of the armed forces for civilian law enforcement purposes or, except as provided in paragraph (2), for response to natural or manmade disasters; or
 
-&emsp;(2) the use of Department of Defense personnel or resources for any program, project, or activity that is prohibited by law.
+&emsp;(B) the use of Department of Defense personnel or resources for any program, project, or activity that is prohibited by law.
+
+(2) Funds available to the Secretary of a military department for operation and maintenance for the Innovative Readiness Training program (as established pursuant to this section) may be expended under this section, upon approval by the Secretary concerned, to assist in demolition, clearing of roads, infrastructure improvements, and military construction to restore an area after a natural disaster.
 
 (j)
 
@@ -106,15 +108,17 @@ Oversight and Cost Accounting.—The Secretary of Defense shall establish a prog
 
 &emsp;(5) Provide for oversight of project execution to ensure that a training project under this section is carried out in accordance with the proposal for that project as approved.
 
-(Added Pub. L. 104–106, div. A, title V, §572(a)(1), Feb. 10, 1996, 110 Stat. 353; amended Pub. L. 105–85, div. A, title V, §594, Nov. 18, 1997, 111 Stat. 1764; Pub. L. 105–261, div. A, title V, §525(a), Oct. 17, 1998, 112 Stat. 2014; Pub. L. 117–81, div. A, title XV, §1512, Dec. 27, 2021, 135 Stat. 2039; Pub. L. 117–286, §4(a)(51), Dec. 27, 2022, 136 Stat. 4311.)
+(Added Pub. L. 104–106, div. A, title V, §572(a)(1), Feb. 10, 1996, 110 Stat. 353; amended Pub. L. 105–85, div. A, title V, §594, Nov. 18, 1997, 111 Stat. 1764; Pub. L. 105–261, div. A, title V, §525(a), Oct. 17, 1998, 112 Stat. 2014; Pub. L. 117–81, div. A, title XV, §1512, Dec. 27, 2021, 135 Stat. 2039; Pub. L. 117–286, §4(a)(51), Dec. 27, 2022, 136 Stat. 4311; Pub. L. 118–31, div. A, title III, §341, Dec. 22, 2023, 137 Stat. 223.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Homeland Security Act of 2002, referred to in subsec. (f)(5), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XXII of the Act is classified principally to subchapter XVIII (§651 et seq.) of chapter 1 of Title 6. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
+The Homeland Security Act of 2002, referred to in subsec. (f)(5), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat.2135. Title XXII of the Act is classified principally to subchapter XVIII (§651 et seq.) of chapter 1 of Title 6. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (i). Pub. L. 118–31 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted ", except as provided in paragraph (2)," before "for response" in subpar. (A), and added par. (2).
 
 <b>2022</b>—Subsec. (h)(3). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)".
 

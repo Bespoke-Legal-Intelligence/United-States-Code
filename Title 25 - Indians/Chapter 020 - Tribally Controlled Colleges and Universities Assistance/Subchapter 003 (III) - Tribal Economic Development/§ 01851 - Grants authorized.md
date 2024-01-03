@@ -12,7 +12,7 @@ The Secretary is authorized, subject to the availability of appropriations, to m
 
 &emsp;(4) Technical assistance and training to Federal, tribal and community officials and business managers and planners deemed necessary by the institution to enable full implementation of, and benefits to be derived from, the program developed under paragraph (1).
 
-&emsp;(5) Clearinghouse activities encouraging the coordination of, and providing a point for the coordination of, all vocational activities (and academically related training) serving all students of the Indian tribe involved in the grant.
+&emsp;(5) Clearinghouse activities encouraging the coordination of, and providing a point for thecoordination of, all vocational activities (and academically related training) serving all students of the Indian tribe involved in the grant.
 
 &emsp;(6) The evaluation of such grants and their effect on the needs developed under paragraph (1) and tribal economic self-sufficiency.
 

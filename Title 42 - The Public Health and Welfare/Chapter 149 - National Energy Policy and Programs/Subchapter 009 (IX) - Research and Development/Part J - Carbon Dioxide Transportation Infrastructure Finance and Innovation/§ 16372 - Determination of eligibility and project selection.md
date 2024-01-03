@@ -64,7 +64,7 @@ The Secretary shall establish and carry out a carbon dioxide transportation infr
 
 #### (6) Obligor will be identified later
 
-&emsp;A State, local government, agency, or instrumentality of a State or local government, or a public authority, may submit to the Secretary an application under paragraph (3),under which a private party to a public-private partnership will be—
+&emsp;A State, local government, agency, or instrumentality of a State or local government, or a public authority, may submit to the Secretary an application under paragraph (3), under which a private party to a public-private partnership will be—
 
 &emsp;&emsp;(A) the obligor; and
 

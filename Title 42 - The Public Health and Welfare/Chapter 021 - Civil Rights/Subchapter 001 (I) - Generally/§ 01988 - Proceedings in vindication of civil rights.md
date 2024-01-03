@@ -40,7 +40,7 @@ The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, J
 
 R.S. §722 derived from acts Apr. 9, 1866, ch. 31, §3, 14 Stat. 27; May 31, 1870, ch. 114, §18, 16 Stat. 144.
 
-Section was formerly classified to section 729 of Title 28 prior to the general revision and enactment of Title28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, §1, 62 Stat. 869.
+Section was formerly classified to section 729 of Title 28 prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, §1, 62 Stat. 869.
 
 #### Amendments
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 102–166 effective Nov. 21, 1991, except as otherwise prov
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–481 effective Oct. 1, 1981, and applicable to adversary adjudication as defined in section 504(b)(1)(C) of Title 5, Government Organization and Employees, and to civil actions and adversary adjudications described in section 2412 of Title 28, Judiciary and Judicial Procedure, which are pending on, or commenced on or after Oct. 1, 1981, see section 208 of Pub. L. 96–481, set out as an Effective Date note under section 2412 of Title 28.
+Amendment by Pub. L. 96–481 effective Oct. 1, 1981, and applicable to adversary adjudication as defined insection 504(b)(1)(C) of Title 5, Government Organization and Employees, and to civil actions and adversary adjudications described in section 2412 of Title 28, Judiciary and Judicial Procedure, which are pending on, or commenced on or after Oct. 1, 1981, see section 208 of Pub. L. 96–481, set out as an Effective Date note under section 2412 of Title 28.
 
 #### Short Title of 1976 Amendment
 

@@ -18,7 +18,7 @@
 
 The Office established under subsection (a)(1) shall—
 
-&emsp;(1) coordinate the activities of the Department relating to the National Capital Region,including cooperation with the Office for State and Local Government Coordination;
+&emsp;(1) coordinate the activities of the Department relating to the National Capital Region, including cooperation with the Office for State and Local Government Coordination;
 
 &emsp;(2) assess, and advocate for, the resources needed by State, local, and regional authorities in the National Capital Region to implement efforts to secure the homeland;
 

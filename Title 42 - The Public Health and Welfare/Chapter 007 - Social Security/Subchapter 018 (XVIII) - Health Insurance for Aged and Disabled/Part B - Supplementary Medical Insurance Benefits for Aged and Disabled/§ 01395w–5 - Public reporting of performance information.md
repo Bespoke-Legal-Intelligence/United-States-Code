@@ -8,7 +8,7 @@
 
 #### (2) Plan
 
-&emsp;Not later than January 1, 2013, and with respect to reporting periods that begin no earlier than January 1, 2012, the Secretary shall also implement a plan for making publicly available through Physician Compare, consistent with subsection (c), information on physician performance that provides comparable information for the public on qualityand patient experience measures with respect to physicians enrolled in the Medicare program under such section 1866(j). To the extent scientifically sound measures that are developed consistent with the requirements of this section are available, such information, to the extent practicable, shall include—
+&emsp;Not later than January 1, 2013, and with respect to reporting periods that begin no earlier than January 1, 2012, the Secretary shall also implement a plan for making publicly available through Physician Compare, consistent with subsection (c), information on physician performance that provides comparable information for the public on quality and patient experience measures with respect to physicians enrolled in the Medicare program under such section 1866(j). To the extent scientifically sound measures that are developed consistent with the requirements of this section are available, such information, to the extent practicable, shall include—
 
 &emsp;&emsp;(A) measures collected under the Physician Quality Reporting Initiative;
 
@@ -72,7 +72,7 @@ In this section:
 
 #### (1) Eligible professional
 
-&emsp;The term "eligible professional" has the meaning given that term for purposes of thePhysician Quality Reporting Initiative under section 1848 of the Social Security Act (42 U.S.C. 1395w–4).
+&emsp;The term "eligible professional" has the meaning given that term for purposes of the Physician Quality Reporting Initiative under section 1848 of the Social Security Act (42 U.S.C. 1395w–4).
 
 #### (2) Physician
 
@@ -94,7 +94,7 @@ In this section:
 
 Section 3014 of this Act, referred to in subsec. (d), is section 3014 of Pub. L. 111–148 which enacted section 1395aaa–1 of this title and amended section 1395aaa of this title.
 
-Section 131 of the Medicare Improvements for Patients and Providers Act of 2008, referred to in subsec. (e), is section 131 of Pub. L. 110–275, 122 Stat. 2520, which amended section 1395w–4 of this title, enacted provisions set out as notes under section 1395w–4 of this title, and redesignated provisions formerly set out as a note under section 1395w–4 of this title as section 1395w–4(m).
+Section 131 of the Medicare Improvements for Patients and Providers Act of 2008, referred to in subsec. (e), is section 131 of Pub. L. 110–275, 122 Stat. 2520, whichamended section 1395w–4 of this title, enacted provisions set out as notes under section 1395w–4 of this title, and redesignated provisions formerly set out as a note under section 1395w–4 of this title as section 1395w–4(m).
 
 The Social Security Act, referred to in subsecs. (g) and (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

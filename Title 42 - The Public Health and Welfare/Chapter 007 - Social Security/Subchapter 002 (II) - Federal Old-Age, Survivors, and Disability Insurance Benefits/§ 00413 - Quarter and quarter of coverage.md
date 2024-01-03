@@ -36,7 +36,7 @@ With respect to wages paid to an individual in the six-month periods commencing 
 
 #### (c) Alternative method for determining quarters of coverage with respect to wages in period from 1937 to 1950
 
-For purposes of sections 414(a) and 415(d) of this title, an individual shall be deemed to have one quarter of coverage for each $400 of his total wages prior to 1951 (as defined in section 415(d)(1)(C) of this title), except where such individual is not a fully insured individual on the basis of the number of quarters of coverage soderived plus the number of quarters of coverage derived from the wages and self-employment income credited to such individual for periods after 1950.
+For purposes of sections 414(a) and 415(d) of this title, an individual shall be deemed to have one quarter of coverage for each $400 of his total wages prior to 1951 (as defined in section 415(d)(1)(C) of this title), except where such individual is not a fully insured individual on the basis of the number of quarters of coverage so derived plus the number of quarters of coverage derived from the wages and self-employment income credited to such individual for periods after 1950.
 
 #### (d) Amount required for a quarter of coverage
 
@@ -88,7 +88,7 @@ Pub. L. 93–66 substituted "$12,600" for "$12,000", in cls. (ii) and (iii).
 
 <b>1972</b>—Subsec. (a)(2)(ii). Pub. L. 92–336, §203(a)(3)(A), inserted provisions for determining a quarter of coverage based on amounts earned as wages after 1971 and before 1975, and amounts equal to the contribution and benefit base in the case of any calendar year after 1974 with respect to which such contribution and benefit base is effective.
 
-Subsec. (a)(2)(iii). Pub. L. 92–336, §203(a)(3)(B), inserted provisions for determining a quarter of coverage based on amounts earned as wages after 1971 and before1975, and amounts equal to the contribution and benefit base which is effective for the calendar year in the case of any taxable year beginning in any calendar year after 1974.
+Subsec. (a)(2)(iii). Pub. L. 92–336, §203(a)(3)(B), inserted provisions for determining a quarter of coverage based on amounts earned as wages after 1971 and before 1975, and amounts equal to the contribution and benefit base which is effective for the calendar year in the case of any taxable year beginning in any calendar year after 1974.
 
 <b>1971</b>—Subsec. (a)(2)(ii). Pub. L. 92–5, §203(a)(3)(A), substituted "after 1967 and before 1972, or $9,000 in the case of a calendar year after 1971" for "after 1967".
 
@@ -168,7 +168,7 @@ Amendment by section 203(a)(3)(A) of Pub. L. 92–336 applicable only with respe
 
 #### Effective Date of 1971 Amendment
 
-Amendment by section 203(a)(3)(A) of Pub. L. 92–5 applicable only with respect to remuneration paid afterDecember 1971, and amendment by section 203(a)(3)(B) of Pub. L. 92–5 applicable only with respect to taxable years beginning after 1971, see section 203(c) of Pub. L. 92–5, set out as a note under section 409 of this title.
+Amendment by section 203(a)(3)(A) of Pub. L. 92–5 applicable only with respect to remuneration paid after December 1971, and amendment by section 203(a)(3)(B) of Pub. L. 92–5 applicable only with respect to taxable years beginning after 1971, see section 203(c) of Pub. L. 92–5, set out as a note under section 409 of this title.
 
 #### Effective Date of 1968 Amendment
 

@@ -17,6 +17,110 @@ Pub. L. 116–283, div. A, title XVIII, §1843(a), Jan. 1, 2021, 134 Stat. 4244,
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Support for Protection of Sensitive Research Performed on Behalf of the Department of Defense
+
+Pub. L. 118–31, div. A, title II, §221, Dec. 22, 2023, 137 Stat. 188, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, may enter into contracts or other agreements with one or more eligible entities to assist institutions of higher education in protecting sensitive research performed on behalf of the Department of Defense.
+
+"(b)
+
+Activities.—An eligible entity that enters into a contract or other agreement with the Secretary of Defense under subsection (a) shall carry out activities to assist institutions of higher education in protecting sensitive research performed on behalf of the Department of Defense. Such activities may include—
+
+&emsp;"(1) conducting effective due diligence in vetting visiting scholars;
+
+&emsp;"(2) assisting institutions in meeting applicable research security requirements, including through the use of common procedures and practices and shared infrastructure, as appropriate;
+
+&emsp;"(3) providing training to employees and offices of the institution that have responsibilities relating to research security; and
+
+&emsp;"(4) providing advice and assistance to institutions in establishing and maintaining research security programs.
+
+"(c)
+
+Considerations.—In selecting an entity to receive a contract or other agreement under subsection (a), the Secretary of Defense shall consider the following:
+
+&emsp;"(1) Geographic diversity and the extent to which the entity is able to maximize coverage of different regions of the United States.
+
+&emsp;"(2) Any ratings of the entity made by the Defense Counterintelligence and Security Agency as part of the Agency's annual security vulnerability assessment ratings.
+
+&emsp;"(3) Whether and to what extent the entity uses best practices for research security as outlined by the National Institute of Standards and Technology.
+
+&emsp;"(4) The entity's demonstrated excellence in security programs, including receipt of awards for excellence in counterintelligence and outstanding achievement in industrial security.
+
+"(d)
+
+Performance Metrics.—The Secretary of Defense shall establish metrics to measure the performance of each entity with which the Secretary enters into a contract or other agreement under subsection (a).
+
+"(e)
+
+Notification and Report.—For any year in which the Secretary of Defense exercises the authority provided under subsection (a), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that—
+
+&emsp;"(1) identifies each eligible entity with which the Secretary entered into a contract or other agreement under such subsection; and
+
+&emsp;"(2) evaluates the performance of the entity.
+
+"(f)
+
+Eligible Entity Defined.—In this section, the term 'eligible entity' means—
+
+&emsp;"(1) an entity the Secretary of Defense determines to be eligible to participate in the activities authorized under this section; or
+
+&emsp;"(2) a consortium composed of two or more such entities."
+
+#### Support to Covered Educational Institutions
+
+Pub. L. 118–31, div. A, title II, §227(f), (g), Dec. 22, 2023, 137 Stat. 198, provided that:
+
+"(f)
+
+Support to Covered Educational Institutions.—
+
+&emsp;"(1)
+
+In general.—The Under Secretary of Defense for Research and Engineering may establish a program to award contracts, grants, or other agreements on a competitive basis to a covered educational institution, and to perform other appropriate activities, for the purposes described in paragraph (2).
+
+&emsp;"(2)
+
+Purposes.—The purposes described in this paragraph are the following:
+
+&emsp;&emsp;"(A) Developing the capability, including workforce and research infrastructure capabilities, for covered educational institutions to more effectively compete for Federal engineering, applied research, commercialization, and workforce development funding opportunities.
+
+&emsp;&emsp;"(B) Improving the capability of covered educational institutions to—
+
+&emsp;&emsp;&emsp;"(i) recruit and retain research faculty;
+
+&emsp;&emsp;&emsp;"(ii) participate in appropriate personnel exchange programs; and
+
+&emsp;&emsp;&emsp;"(iii) participate in appropriate educational and career development activities.
+
+&emsp;&emsp;"(C) Any other purposes the Under Secretary determines appropriate for enhancing the engineering, applied research, commercialization, and development capabilities of covered educational institutions.
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered educational institution.—The term 'covered educational institution' means—
+
+&emsp;&emsp;"(A) a mining, metallurgical, geological, or mineral engineering program—
+
+&emsp;&emsp;&emsp;"(i) accredited by a non-governmental organization that accredits post-secondary education programs in applied and natural science, engineering technology, and computing; and
+
+&emsp;&emsp;&emsp;"(ii) located at an institution of higher education; or
+
+&emsp;&emsp;"(B) any other post-secondary educational institution with a geology or engineering program or department that has experience in mining research or work with the mining industry.
+
+&emsp;"(2)
+
+Critical materials.—The term 'critical materials' means materials designated as strategic and critical under section 3(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98b(a)).
+
+&emsp;"(3)
+
+Institution of higher education.—For purposes of paragraph (1), the term 'institution of higher education' has the meaning given in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)."
+
 #### Infrastructure To Support Research, Development, Test, and Evaluation Missions
 
 Pub. L. 116–92, div. A, title II, §252, Dec. 20, 2019, 133 Stat. 1285, as amended by Pub. L. 117–81, div. A, title II, §215(d)(9), Dec. 27, 2021, 135 Stat. 1594, provided that:
@@ -75,7 +179,7 @@ Elements.—The master plan required under subsection (a) shall include, with re
 
 &emsp;&emsp;"(F) methods that leverage funding from entities outside the Department, including public-private partnerships, enhanced use leases and real property exchanges;
 
-&emsp;&emsp;"(G) the authority to conduct commercial test and evaluation activities at a Major Range and Test Facility Installation, under section 2681 of title 10, United States Code \[now 10 U.S.C. 4175\]; and
+&emsp;&emsp;"(G) the authority to conduct commercial test and evaluation activities at a Major Range andTest Facility Installation, under section 2681 of title 10, United States Code \[now 10 U.S.C. 4175\]; and
 
 &emsp;&emsp;"(H) any other authorities and methods determined to be appropriate by the Secretary of Defense.
 
@@ -101,7 +205,7 @@ Research, Development, Test, and Evaluation Infrastructure Defined.—In this se
 
 &emsp;"(1) the science and technology reinvention laboratories (as designated under section 4121(b) of title 10, United States Code);
 
-&emsp;"(2) the Major Range and Test Facility Base (as defined in section 2358a(f)(3) of title 10, United States Code \[now 10 U.S.C. 4091(g)(3)\]); and
+&emsp;"(2) the Major Range and Test Facility Base (as defined in section 2358a(f)(3) of title 10, United States Code \[now 10 U.S.C. 4091(f)(3)\]); and
 
 &emsp;"(3) other facilities that support the research development, test, and evaluation activities of the Department."
 
@@ -185,7 +289,7 @@ In general.—Subject to paragraph (2), the head of each eligible center selecte
 
 &emsp;"(2)
 
-Implementation.—(A) The head of an eligible center described in subparagraph (A) or (B) of subsection (a)(2) shall implement each method proposed under paragraph (1) unless such method is disapproved in writing by the Assistant Secretary concerned within 60 days of receiving a proposal from aneligible center selected under subsection (b)(1) by such Assistant Secretary.
+Implementation.—(A) The head of an eligible center described in subparagraph (A) or (B) of subsection (a)(2) shall implement each method proposed under paragraph (1) unless such method is disapproved in writing by the Assistant Secretary concerned within 60 days of receiving a proposal from an eligible center selected under subsection (b)(1) by such Assistant Secretary.
 
 &emsp;"(B) The Director of the Defense Advanced Research Projects Agency shall implement each method proposed under paragraph (1) unless such method is disapproved in writing by the Deputy Secretary of Defense or a designee of the Deputy Secretary within 60 days of receiving a proposal from the Director.
 

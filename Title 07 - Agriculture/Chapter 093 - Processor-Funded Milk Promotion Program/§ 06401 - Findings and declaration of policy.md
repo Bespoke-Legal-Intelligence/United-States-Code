@@ -4,7 +4,7 @@
 
 Congress finds that—
 
-&emsp;(1) fluid milk products are basic foods and are a primary source of required nutrientssuch as calcium, and otherwise are a valuable part of the human diet;
+&emsp;(1) fluid milk products are basic foods and are a primary source of required nutrients such as calcium, and otherwise are a valuable part of the human diet;
 
 &emsp;(2) fluid milk products must be readily available and marketed efficiently to ensure that the people of the United States receive adequate nourishment;
 

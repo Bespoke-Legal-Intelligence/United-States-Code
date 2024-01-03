@@ -146,7 +146,7 @@
 
 #### (B) Definition
 
-&emsp;&emsp;In this paragraph, the term "used children's product" means a children's product (as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a)) <sup>1</sup> that was obtained by the seller for use and not for the purpose of resale or was obtained by the seller, either directly or indirectly, from a person who obtained such children's product for use and not for the purpose of resale. Such term also includes a children's product that was donated to the seller for charitable distribution or resale to support charitable purposes. Such term shall not include—
+&emsp;&emsp;In this paragraph, the term "used children's product" means a children's product\(as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a)) <sup>1</sup> that was obtained by the seller for use and not for the purpose of resale or was obtained by the seller, either directly or indirectly, from a person who obtained such children's product for use and not for the purpose of resale. Such term also includes a children's product that was donated to the seller for charitable distribution or resale to support charitable purposes. Such term shall not include—
 
 &emsp;&emsp;&emsp;(i) children's metal jewelry;
 
@@ -210,7 +210,7 @@ The pendency of a rulemaking proceeding to consider—
 
 #### (B) Rulemaking
 
-&emsp;&emsp;If the Commission determines, based on the study in subparagraph (A), that x-ray fluorescence technology or other alternative methods for measuring lead in paint are as effective, precise, and reliable as the methodology used by the Commission for compliance determinations prior to August 14, 2008, the Commission may promulgate regulations governing the use of such methods in determining the compliance of products with part 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection. Any regulations promulgated by the Commission shall ensure that such alternative methods are no less effective, precise, and reliable than the methodology used by the Commission prior to August 14, 2008.
+&emsp;&emsp;If the Commission determines, based on the study in subparagraph (A), that x-rayfluorescence technology or other alternative methods for measuring lead in paint are as effective, precise, and reliable as the methodology used by the Commission for compliance determinations prior to August 14, 2008, the Commission may promulgate regulations governing the use of such methods in determining the compliance of products with part 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection. Any regulations promulgated by the Commission shall ensure that such alternative methods are no less effective, precise, and reliable than the methodology used by the Commission prior to August 14, 2008.
 
 #### (5) Periodic review
 

@@ -1202,7 +1202,15 @@ Certificate-holder.—The term 'certificate-holder' means a person that holds a 
 
 FAA.—The term 'FAA' means the Federal Aviation Administration."
 
-#### Notices to Airmen
+#### Notices to Air Missions
+
+Pub. L. 118–4, §3, June 3, 2023, 137 Stat. 9, provided that: "Not later than September 30, 2024, the Administrator of the Federal Aviation Administration shall make the following improvements:
+
+&emsp;"(1) Complete implementation of a Federal NOTAM System (in this section referred to as a 'FNS').
+
+&emsp;"(2) Implement a back-up system to the FNS.
+
+&emsp;"(3) Brief the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on a plan to enhance the capability to deliver information through the FNS that is machine-readable, filterable, and in the format used by the International Civil Aviation Organization (ICAO) to promote further global harmonization among neighboring Air Navigation Service Providers (ANSPs) and provide users of the National Airspace System with one consistent format for domestic and international operations."
 
 Pub. L. 115–254, div. B, title III, §394(a), Oct. 5, 2018, 132 Stat. 3325, provided that: "Beginning on the date that is 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] may not take any enforcement action against any individual for a violation of a NOTAM (as defined in section 3 of the Pilot's Bill of Rights \[Pub. L. 112–153\] (49 U.S.C. 44701 note)) until the Administrator certifies to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] that the Administrator has complied with the requirements of section 3 of the Pilot's Bill of Rights, as amended by this section."
 
@@ -1280,7 +1288,7 @@ Pub. L. 112–95, title III, §313, Feb. 14, 2012, 126 Stat. 67, provided that:
 
 "(a)
 
-Establishment of Advisory Panel.—Not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall establish an advisory panel comprised of both Government and industry representatives to—
+Establishment of Advisory Panel.—Not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall establish an advisory panelcomprised of both Government and industry representatives to—
 
 &emsp;"(1) review the October 2010 report by the Government Accountability Office on certification and approval processes (GAO–11–14); and
 
@@ -1382,7 +1390,7 @@ Pub. L. 112–95, title VI, §606, Feb. 14, 2012, 126 Stat. 113, provided that:
 
 "(a)
 
-In General.—Not later than October 1, 2012, the Administrator of the Federal Aviation Administration shall implement, in as cost-effective a manner as possible, the staffing model for aviation safety inspectors developed pursuant to the National Academy of Sciences study entitled 'Staffing Standards for Aviation Safety Inspectors'. In doing so, the Administrator shall consult with interested persons, including the exclusive bargaining representative for aviation safety inspectors certified under section 7111 of title 5, United States Code.
+In General.—Not later than October 1, 2012, the Administrator of the Federal Aviation Administrationshall implement, in as cost-effective a manner as possible, the staffing model for aviation safety inspectors developed pursuant to the National Academy of Sciences study entitled 'Staffing Standards for Aviation Safety Inspectors'. In doing so, the Administrator shall consult with interested persons, including the exclusive bargaining representative for aviation safety inspectors certified under section 7111 of title 5, United States Code.
 
 "(b)
 
@@ -1612,7 +1620,7 @@ Cooperative efforts.—The cooperative efforts the Secretary shall carry out pur
 
 &emsp;&emsp;"(E) Providing information in brochures and on the internet in appropriate foreign languages and dialects that describes the actions required to comply with U.S. Hazardous Materials Regulations and ICAO Technical Instructions.
 
-&emsp;&emsp;"(F) Developing joint efforts with the international aviation community to promote a better understanding of the requirements of and methods of compliance with U.S. Hazardous Materials Regulations and ICAO Technical Instructions.
+&emsp;&emsp;"(F) Developing joint efforts with the international aviation community to promote a better understanding of the requirements of and methodsof compliance with U.S. Hazardous Materials Regulations and ICAO Technical Instructions.
 
 &emsp;"(3)
 
@@ -1982,7 +1990,7 @@ Report.—Not later than one year after the date of enactment of this Act, the A
 
 #### "SEC. 211. SAFETY INSPECTIONS OF REGIONAL AIR CARRIERS.
 
-"The Administrator of the Federal Aviation Administration shall perform, not less frequently than once each year, random, onsite inspections of air carriers that provide air transportation pursuant to a contract with a part 121 air carrier to ensure that such air carriers are complying with all applicable safety standards of the Administration.
+"The Administrator of the Federal Aviation Administration shall perform, not less frequently than once each year, random, onsite inspections of air carriers that provide air transportation pursuant to a contractwith a part 121 air carrier to ensure that such air carriers are complying with all applicable safety standards of the Administration.
 
 #### "SEC. 212. PILOT FATIGUE.
 
@@ -2294,7 +2302,7 @@ Numbers of flight hours.—The total flight hours required by the Administrator 
 
 &emsp;"(2)
 
-Flight hours in difficult operational conditions.—The total flight hours required by the Administrator under subsection (b)(1) shall include sufficient flight hours, as determined by the Administrator, in difficult operational conditions that maybe encountered by an air carrier to enable a pilot to operate safely in such conditions.
+Flight hours in difficult operational conditions.—The total flight hours required by the Administrator under subsection (b)(1) shall include sufficient flight hours, as determined by the Administrator, in difficult operational conditions that may be encountered by an air carrier to enable a pilot to operate safely in such conditions.
 
 "(d)
 
@@ -2524,7 +2532,7 @@ Liability of Air Carriers.—An air carrier shall not be liable for damages in a
 
 "(b)
 
-Liability of Individuals.—An individual shall not be liable for damages in any action brought in a Federal or State court arising out of the acts or omissions of the individual in providing or attempting to provide assistance in the case of an in-flight medical emergency unless the individual, while rendering such assistance, is guilty of gross negligence or willful misconduct.
+Liability of Individuals.—An individual shall not be liable for damages in any action brought in aFederal or State court arising out of the acts or omissions of the individual in providing or attempting to provide assistance in the case of an in-flight medical emergency unless the individual, while rendering such assistance, is guilty of gross negligence or willful misconduct.
 
 #### "SEC. 6. DEFINITIONS.
 

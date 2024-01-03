@@ -22,7 +22,7 @@ Notwithstanding any of the provisions of subsections (a) and (b) of this section
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning act Oct. 6, 1917, ch. 106, 40 Stat. 411, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4301 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act Oct. 6, 1917, ch. 106, 40 Stat.411, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4301 of this title and Tables.
 
 The Philippine Property Act of 1946, referred to in subsec. (a), is act July 3, 1946, ch. 536, 60 Stat. 418, which is classified generally to subchapter V (§1381 et seq.) of chapter 15 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 1381 of Title 22 and Tables.
 
@@ -40,7 +40,7 @@ Section was formerly classified to section 39 of the former Appendix to this tit
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–861 provided that nothing in this section shall be construed to repeal or otherwise affect the operation of section 4337, 4338, 4339, or 4340 of this title.
 
-Subsec. (b). Pub. L. 87–846, §204(c), required Attorney General to cover $500,000 into Treasury for deposit intoWar Claims Fund for payments to successor organizations receiving heirless property.
+Subsec. (b). Pub. L. 87–846, §204(c), required Attorney General to cover $500,000 into Treasury for deposit into War Claims Fund for payments to successor organizations receiving heirless property.
 
 Subsec. (d). Pub. L. 87–846, §202, added subsec. (d).
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish a system meeting the requirements of this section under whichresidents of each State may apply for enrollment in, receive a determination of eligibility for participation in, and continue participation in, applicable State health subsidy programs. Such system shall ensure that if an individual applying to an Exchange is found through screening to be eligible for medical assistance under the State medicaid plan under title XIX <sup>1</sup> \[42 U.S.C. 1396 et seq.\], or eligible for enrollment under a State children's health insurance program (CHIP) under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], the individual is enrolled for assistance under such plan or program.
+The Secretary shall establish a system meeting the requirements of this section under which residents of each State may apply for enrollment in, receive a determination of eligibility for participation in, and continue participation in, applicable State health subsidy programs. Such system shall ensure that if an individual applying to an Exchange is found through screening to be eligible for medical assistance under the State medicaid plan under title XIX <sup>1</sup> \[42 U.S.C. 1396 et seq.\], or eligible for enrollment under a State children's health insurance program (CHIP) under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], the individual is enrolled for assistance under such plan or program.
 
 #### (b) Requirements relating to forms and notice
 
@@ -72,7 +72,7 @@ The Secretary shall establish a system meeting the requirements of this section 
 
 #### (4) Secretarial standards
 
-&emsp;The Secretary shall, after consultation with persons in possession of the data to be matched and representatives of applicable State health subsidy programs, promulgate standards governing the timing, contents, and procedures for data matching described in this subsection. Such standards shall take into account administrative and other costs and thevalue of data matching to the establishment, verification, and updating of eligibility for applicable State health subsidy programs.
+&emsp;The Secretary shall, after consultation with persons in possession of the data to be matched and representatives of applicable State health subsidy programs, promulgate standards governing the timing, contents, and procedures for data matching described in this subsection. Such standards shall take into account administrative and other costs and the value of data matching to the establishment, verification, and updating of eligibility for applicable State health subsidy programs.
 
 #### (d) Administrative authority
 
@@ -108,7 +108,7 @@ In this section, the term "applicable State health subsidy program" means—
 
 The Social Security Act, referred to in subsecs. (a), (d)(2)(B), and (e)(2), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-This title, where footnoted in subsec. (e)(1), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
+This title, where footnoted in subsec. (e)(1), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code.For complete classification of title I to the Code, see Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "of the Social Security Act".</i>
 

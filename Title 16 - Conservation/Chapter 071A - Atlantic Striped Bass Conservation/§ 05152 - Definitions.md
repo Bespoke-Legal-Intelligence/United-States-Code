@@ -50,7 +50,7 @@ As used in this chapter—
 
 &emsp;(12) The term "Secretaries" means the Secretary of Commerce and the Secretary of the Interior or their designees.
 
-(Pub. L. 98–613, §3, Oct. 31, 1984, 98 Stat. 3187; Pub. L. 99–432, §1, Oct. 1, 1986, 100 Stat. 989; Pub. L. 100–589, §6(g)(1), Nov. 3, 1988, 102 Stat. 2987; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–146, §2, Dec. 16, 1997, 111 Stat. 2673.)
+(Pub. L. 98–613, §3, Oct. 31, 1984, 98 Stat. 3187; Pub. L. 99–432, §1, Oct. 1, 1986, 100 Stat. 989; Pub.L. 100–589, §6(g)(1), Nov. 3, 1988, 102 Stat. 2987; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–146, §2, Dec. 16, 1997, 111 Stat. 2673.)
 
 #### <b>Editorial Notes</b>
 

@@ -1,6 +1,6 @@
 ### §3102. Naming or designating buildings
 
-The Administrator of General Services may name or otherwise designate any building under the custody and control of the General ServicesAdministration, regardless of whether it was previously named by statute.
+The Administrator of General Services may name or otherwise designate any building under the custody and control of the General Services Administration, regardless of whether it was previously named by statute.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1143.)
 

@@ -12,7 +12,7 @@ Availability of Legal Assistance and Victim Advocate Services.—(1) A member of
 
 (2) A member of the armed forces or dependent who is the victim of sexual assault shall be informed of the availability of assistance under paragraph (1) as soon as the member or dependent seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, or a trial counsel. The member or dependent shall also be informed that the legal assistance and the services of a Sexual Assault Response Coordinator or a Sexual Assault Victim Advocate under paragraph (1) are optional and may be declined, in whole or in part, at any time.
 
-(3) Subject to such exceptions for exigent circumstances as the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating may prescribe, notice of the availability of a Special Victims' Counsel under section 1044e of this title shall be provided to a member of the armed forces or dependent who is the victim of sexual assault before any military criminal investigator or trial counsel interviews, or requests any statement from, the member or dependent regarding the alleged sexual assault.
+(3) Subject to such exceptions for exigent circumstances as the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating may prescribe, notice of the availability of a Special Victims' Counsel undersection 1044e of this title shall be provided to a member of the armed forces or dependent who is the victim of sexual assault before any military criminal investigator or trial counsel interviews, or requests any statement from, the member or dependent regarding the alleged sexual assault.
 
 (4) Legal assistance and the services of Sexual Assault Response Coordinators and Sexual Assault Victim Advocates under paragraph (1) shall be available to a member or dependent regardless of whether the member or dependent elects unrestricted or restricted (confidential) reporting of the sexual assault.
 
@@ -116,7 +116,7 @@ Initial report.—Upon implementation of the standard under subsection (a), the 
 
 &emsp;"(3)
 
-Progress reports.—Not later than 180 days after submitting the initial report under paragraph (2), and on December 1 of each subsequent year, the Secretaries of Defense and Veterans Affairs shall jointly submit to the appropriate committees of Congress a report on the progress of the Secretaries in implementing and improving the standard.
+Progress reports.—Not later than 180 days after submitting the initial report under paragraph (2), and on December 1 of each subsequent year, the Secretaries of Defense and Veterans Affairs shalljointly submit to the appropriate committees of Congress a report on the progress of the Secretaries in implementing and improving the standard.
 
 &emsp;"(4)
 

@@ -1,0 +1,22 @@
+### §20402. Enlisted members: standards and qualifications for retention
+
+(a)
+
+Standards and Qualifications for Retention.—The Secretary of the Air Force shall, by regulation, prescribe—
+
+&emsp;(1) standards and qualifications for the retention of enlisted members of the Space Force; and
+
+&emsp;(2) equitable procedures for the periodic determination of the compliance of each such member with those standards and qualifications.
+
+(b)
+
+Effect of Failure to Comply With Standards and Qualifications.—If an enlisted member serving in Space Force active status fails to comply with the standards and qualifications prescribed under subsection (a), the member shall—
+
+&emsp;(1) if qualified, be transferred to Space Force inactive status;
+
+&emsp;(2) if qualified, be retired in accordance with section 20603 of this title; or
+
+&emsp;(3) have the member's enlistment terminated.
+
+(Added Pub. L. 118–31, div. A, title XVII, §1718(a), Dec. 22, 2023, 137 Stat. 656.)
+

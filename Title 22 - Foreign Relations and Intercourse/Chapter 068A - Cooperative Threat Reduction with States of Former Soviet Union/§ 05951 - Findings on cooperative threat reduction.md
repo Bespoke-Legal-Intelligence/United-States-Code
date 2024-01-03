@@ -112,7 +112,7 @@ Transfer of Program.—There are hereby transferred to the Administrator for Nuc
 
 "(b)
 
-Transfer of Assets.—(1) Notwithstanding any restriction or limitation in law on the availability of Cooperative Threat Reduction funds specified in paragraph (2), so much of the property, records, and unexpended balances of appropriations, allocations, andother funds employed, used, held, available, or to be made available in connection with the program transferred by subsection (a) are transferred to the Administrator for use in connection with the program transferred.
+Transfer of Assets.—(1) Notwithstanding any restriction or limitation in law on the availability of Cooperative Threat Reduction funds specified in paragraph (2), so much of the property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the program transferred by subsection (a) are transferred to the Administrator for use in connection with the program transferred.
 
 "(2) The Cooperative Threat Reduction funds specified in this paragraph are the following:
 
@@ -252,7 +252,7 @@ Content of Plan.—The plan required by subsection (a) shall include the followi
 
 &emsp;"(2) Criteria for success for such programs, and a strategy for eventual termination of United States contributions to such programs and assumption of the ongoing support of those programs by others.
 
-&emsp;"(3) A description of any administrative and organizational changes necessary to improve the coordination and effectiveness of such programs. In particular, the plan shall include consideration of the creation of an interagency committee that would have primary responsibilities within the executive branch for—
+&emsp;"(3) A description of any administrative and organizational changes necessary to improve the coordination and effectiveness of such programs. In particular, the plan shall include consideration of the creation of an interagency committee that wouldhave primary responsibilities within the executive branch for—
 
 &emsp;&emsp;"(A) monitoring United States nonproliferation efforts in the states of the former Soviet Union;
 

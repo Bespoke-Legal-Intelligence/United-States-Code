@@ -64,7 +64,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(xiii) not less than 1 member of the Armed Forces; and
 
-&emsp;&emsp;(B) may include other individuals or representatives of other organizations, such asa school administrator, a faculty member at an institution of higher education, a member of a civic or community organization, a representative from a private institution of higher education, a dean or similar representative of a school of education at an institution of higher education or a similar teacher certification or licensure program, or the State official responsible for economic development.
+&emsp;&emsp;(B) may include other individuals or representatives of other organizations, such as a school administrator, a faculty member at an institution of higher education, a member of a civic or community organization, a representative from a private institution of higher education, a dean or similar representative of a school of education at an institution of higher education or a similarteacher certification or licensure program, or the State official responsible for economic development.
 
 #### (c) Grants authorized
 
@@ -276,7 +276,7 @@ There are authorized to be appropriated to carry out this section $120,000,000 f
 
 #### References in Text
 
-This Act, referred to in subsecs. (e)(2)(C)(ii)(II) and (i)(2), is Pub. L. 110–69, Aug. 9, 2007, 121 Stat. 572, knownas the America COMPETES Act, and also as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+This Act, referred to in subsecs. (e)(2)(C)(ii)(II) and (i)(2), is Pub. L. 110–69, Aug. 9, 2007, 121 Stat. 572, known as the America COMPETES Act, and also as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
 #### Prior Provisions
 

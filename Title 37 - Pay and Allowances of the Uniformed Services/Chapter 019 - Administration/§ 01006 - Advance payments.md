@@ -22,7 +22,7 @@
 
 (g) Under regulations prescribed by the Secretary concerned, the dislocation allowance authorized by section 452(c)(2) of this title for a member of a uniformed service whose dependents are covered by section 452(b)(11) of this title may be paid in advance of the evacuation of the dependents and to the dependents designated by the member.
 
-(h) Notwithstanding subsections (a) and (b) of section 3324 of title 31, the Secretary concerned may, when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, authorize the payment of pay and allowances to members of uniformed service under his jurisdiction on the preceding workday but not more than three days before the last day of that pay period. If a member dies after he has received an advance payment under this subsection, but before the last day of the pay period for which the payment is made, no part of the amount so advance is recoverable by the United States.
+(h) Notwithstanding subsections (a) and (b) of section 3324 of title 31, the Secretary concerned may, when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, authorizethe payment of pay and allowances to members of uniformed service under his jurisdiction on the preceding workday but not more than three days before the last day of that pay period. If a member dies after he has received an advance payment under this subsection, but before the last day of the pay period for which the payment is made, no part of the amount so advance is recoverable by the United States.
 
 (i) Under regulations prescribed by the Secretary concerned, not more than one month's pay may be paid in advance to a member of the Armed Forces Health Professions Scholarship program upon reporting for a period of active duty required by section 2121(c) of title 10.
 
@@ -76,7 +76,7 @@ In subsection (b), the words "may be paid in advance" are substituted for the wo
 
 In subsection (c), the words "Secretary concerned" are substituted for the words "heads of the departments concerned" to conform to the definition in section 101(5) of this revised title. The words "member of an armed force" are substituted for the words "members of the armed services". The words "who are" are substituted for the words "in the event such dependents are". The words "under subsection (a) or (b) of this section" are substituted for the words "in section 310c of this title" to reflect the section of this revised title which restates that section. The words "dependents of members of the armed forces" are substituted for the words "military dependents." The words "at a place" are omitted as surplusage.
 
-In subsection (d), the words "If a" are substituted for the words "In the event the". The words "credited tothe account" are substituted for the words "passed to credit in the account".
+In subsection (d), the words "If a" are substituted for the words "In the event the". The words "credited to the account" are substituted for the words "passed to credit in the account".
 
 #### <b>Editorial Notes</b>
 
@@ -172,7 +172,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Effective Date of 1965 Amendment
 
-Pub. L. 89–26, §2, May 22, 1965, 79 Stat. 117, as amended by Pub. L. 89–608, §1, Sept. 30, 1966, 80 Stat. 851; Pub.L. 92–176, Dec. 2, 1971, 85 Stat. 494, provided that: "This Act \[enacting section 475a of this title and amending this section and sections 407 and 411 of this title\] becomes effective on February 1, 1965."
+Pub. L. 89–26, §2, May 22, 1965, 79 Stat. 117, as amended by Pub. L. 89–608, §1, Sept. 30, 1966, 80 Stat. 851; Pub. L. 92–176, Dec. 2, 1971, 85 Stat. 494, provided that: "This Act \[enacting section 475a of this title and amending this section and sections 407 and 411 of this title\] becomes effective on February 1, 1965."
 
 #### Transfer of Functions
 

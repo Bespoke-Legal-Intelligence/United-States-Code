@@ -108,7 +108,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 2 years after December 3, 2004, a local educational agency that chooses to coordinate with the National Instructional Materials Access Center, when purchasing print instructional materials, shall acquire the print instructional materials in the same manner and subject to the sameconditions as a State educational agency acquires print instructional materials under section 1412(a)(23) of this title.
+&emsp;&emsp;Not later than 2 years after December 3, 2004, a local educational agency that chooses to coordinate with the National Instructional Materials Access Center, when purchasing print instructional materials, shall acquire the print instructional materials in the same manner and subject to the same conditions as a State educational agency acquires print instructional materials under section 1412(a)(23) of this title.
 
 #### (B) Rights of local educational agency
 
@@ -124,7 +124,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (9) Records regarding migratory children with disabilities
 
-&emsp;The local educational agency shall cooperate in the Secretary's efforts under section 1308 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6398\] to ensure the linkage of records pertaining to migratory children with a disability for the purpose of electronically exchanging, among the States, health and educational information regarding such children.
+&emsp;The local educational agency shall cooperate in the Secretary's efforts under section 1308 ofthe Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6398\] to ensure the linkage of records pertaining to migratory children with a disability for the purpose of electronically exchanging, among the States, health and educational information regarding such children.
 
 #### (b) Exception for prior local plans
 
@@ -164,7 +164,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (A) In general
 
-&emsp;&emsp;A State educational agency may require a local educational agency to establish its eligibility jointly with another local educational agency if the State educational agency determines that the local educational agency will be ineligible under thissection because the local educational agency will not be able to establish and maintain programs of sufficient size and scope to effectively meet the needs of children with disabilities.
+&emsp;&emsp;A State educational agency may require a local educational agency to establish its eligibility jointly with another local educational agency if the State educational agency determines that the local educational agency will be ineligible under this section because the local educational agency will not be able to establish and maintain programs of sufficient size and scope to effectively meet the needs of children with disabilities.
 
 #### (B) Charter school exception
 
@@ -186,7 +186,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (A) In general
 
-&emsp;&emsp;If an educational service agency is required by State law to carry out programs under this subchapter, the joint responsibilities given to local educational agencies under this subsection shall—
+&emsp;&emsp;If an educational service agency is required by State law to carry out programsunder this subchapter, the joint responsibilities given to local educational agencies under this subsection shall—
 
 &emsp;&emsp;&emsp;(i) not apply to the administration and disbursement of any payments received by that educational service agency; and
 
@@ -232,7 +232,7 @@ If the State educational agency determines that a local educational agency or St
 
 &emsp;A State educational agency shall use the payments that would otherwise have been available to a local educational agency or to a State agency to provide special education and related services directly to children with disabilities residing in the area served by that local educational agency, or for whom that State agency is responsible, if the State educational agency determines that the local educational agency or State agency, as the case may be—
 
-&emsp;&emsp;(A) has not provided the information needed to establish the eligibility of such localeducational agency or State agency under this section;
+&emsp;&emsp;(A) has not provided the information needed to establish the eligibility of such local educational agency or State agency under this section;
 
 &emsp;&emsp;(B) is unable to establish and maintain programs of free appropriate public education that meet the requirements of subsection (a);
 

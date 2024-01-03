@@ -20,7 +20,7 @@ For purposes of this section:
 
 (B) The custodian may prepare such copies of the documentary material, written reports or answers to questions, and transcripts of oral testimony, and may make tangible things available, as may be required for official use by any duly authorized officer or employee of the Commission under regulations which shall be promulgated by the Commission. Notwithstanding subparagraph (C), such material, things, and transcripts may be used by any such officer or employee in connection with the taking of oral testimony under this section.
 
-(C) Except as otherwise provided in this section, while in the possession of the custodian, no documentary material, tangible things, reports or answers to questions, and transcripts of oral testimony shall be available for examination by any individual other than a duly authorized officer or employee of the Commission without the consent of the person who produced the material, things, or transcripts. Nothing in this section is intended to prevent disclosure to either House of the Congress or to any committee or subcommittee of the Congress, except that the Commission immediately shall notify the owneror provider of any such information of a request for information designated as confidential by the owner or provider.
+(C) Except as otherwise provided in this section, while in the possession of the custodian, no documentary material, tangible things, reports or answers to questions, and transcripts of oral testimony shall be available for examination by any individual other than a duly authorized officer or employee of the Commission without the consent of the person who produced the material, things, or transcripts. Nothing in this section is intended to prevent disclosure to either House of the Congress or to any committee or subcommittee of the Congress, except that the Commission immediately shall notify the owner or provider of any such information of a request for information designated as confidential by the owner or provider.
 
 (D) While in the possession of the custodian and under such reasonable terms and conditions as the Commission shall prescribe—
 
@@ -102,7 +102,7 @@ Nothing in this section shall supersede any statutory provision which expressly 
 
 &emsp;&emsp;Except as provided in subparagraph (B) of this paragraph, the Commission shall not be required to disclose under section 552 of title 5 or any other provision of law—
 
-&emsp;&emsp;&emsp;(i) any material obtained from a foreign law enforcement agency or other foreign government agency, if the foreign law enforcement agency or other foreign government agency has requested confidential treatment, or has precluded such disclosure under other use limitations, as a condition of providing the material;
+&emsp;&emsp;&emsp;(i) any material obtained from a foreign law enforcement agency or other foreigngovernment agency, if the foreign law enforcement agency or other foreign government agency has requested confidential treatment, or has precluded such disclosure under other use limitations, as a condition of providing the material;
 
 &emsp;&emsp;&emsp;(ii) any material reflecting a consumer complaint obtained from any other foreign source, if that foreign source supplying the material has requested confidential treatment as a condition of providing the material; or
 

@@ -88,7 +88,7 @@ Conditions Under Which Care Is Required To Be Furnished Through Non-Department P
 
 &emsp;&emsp;(v) Such other considerations as the Secretary considers appropriate.
 
-(3) If the Secretary has determined that the Department does not offer the care or services the covered veteran requires under subparagraph (A) of paragraph (1), that the Department does not operate a full-service medical facility in the State in which the covered veteran resides under subparagraph (B) of such paragraph, that the covered veteran is described under subparagraph (C) of such paragraph, or that the Department is not able to furnish care or services in a manner that complies with designated access standards developed by the Secretary under section 1703B of this title under subparagraph (D) of such paragraph, the decision to receive hospital care, medical services, or extended care services under such subparagraphs from a health care provider specified in subsection (c) shall be at the election of the veteran.
+(3) If the Secretary has determined that the Department does not offer the care or servicesthe covered veteran requires under subparagraph (A) of paragraph (1), that the Department does not operate a full-service medical facility in the State in which the covered veteran resides under subparagraph (B) of such paragraph, that the covered veteran is described under subparagraph (C) of such paragraph, or that the Department is not able to furnish care or services in a manner that complies with designated access standards developed by the Secretary under section 1703B of this title under subparagraph (D) of such paragraph, the decision to receive hospital care, medical services, or extended care services under such subparagraphs from a health care provider specified in subsection (c) shall be at the election of the veteran.
 
 (4) In determining under paragraph (1)(D) whether the Department is able to furnish care or services in a manner that complies with designated access standards developed by the Secretary under section 1703B of this title, for purposes of calculating a wait time for a veteran to schedule an appointment at a medical facility of the Department, the Secretary shall measure from the date of request for the appointment, unless a later date has been agreed to by the veteran in consultation with a health care provider of the Department, to the first next available appointment date relevant to the requested medical service.
 
@@ -180,7 +180,7 @@ Contracts To Establish Networks of Health Care Providers.—(1)(A) The Secretary
 
 (i)
 
-Payment Rates for Care and Services.—(1) Except as provided in paragraph (2), and to the extent practicable, the rate paid for hospital care, medical services, or extended care services under any provision in this title may not exceed the rate paid by the United States to a provider of services (as defined in section 1861(u) of theSocial Security Act (42 U.S.C. 1395x(u))) or a supplier (as defined in section 1861(d) of such Act (42 U.S.C. 1395x(d))) under the Medicare program under title XI or title XVIII of the Social Security Act (42 U.S.C. 1301 et seq.), including section 1834 of such Act (42 U.S.C. 1395m), for the same care or services.
+Payment Rates for Care and Services.—(1) Except as provided in paragraph (2), and to the extent practicable, the rate paid for hospital care, medical services, or extended care services under any provision in this title may not exceed the rate paid by the United States to a provider of services (as defined in section 1861(u) of the Social Security Act (42 U.S.C. 1395x(u))) or a supplier (as defined in section 1861(d) of such Act (42 U.S.C. 1395x(d))) under the Medicare program under title XI or title XVIII of the Social Security Act (42 U.S.C. 1301 et seq.), including section 1834 of such Act (42 U.S.C. 1395m), for the same care or services.
 
 (2)(A) A higher rate than the rate paid by the United States as described in paragraph (1) may be negotiated with respect to the furnishing of care or services to a covered veteran who resides in a highly rural area.
 
@@ -192,7 +192,7 @@ Payment Rates for Care and Services.—(1) Except as provided in paragraph (2), 
 
 (5) Notwithstanding paragraph (1), the Secretary may incorporate, to the extent practicable, the use of value-based reimbursement models to promote the provision of high-quality care.
 
-(6) With respect to hospital care, medical services, or extended care services for which there is not a rate paid under the Medicare program as described in paragraph (1), the rate paid for such care or services shall be determined by the Secretary.
+(6) With respect to hospital care, medical services, or extended care services for which there is not a rate paid under the Medicare program as described in paragraph (1), the rate paid for suchcare or services shall be determined by the Secretary.
 
 (j)
 
@@ -248,7 +248,7 @@ Monitoring of Care Provided.—(1)(A) Not later than 540 days after the date of 
 
 &emsp;&emsp;&emsp;(II) scheduling and completing appointments.
 
-&emsp;(B) Report the number of medical service lines the Secretary has determined under subsection (e)(1) not to be providing hospital care, medical services, or extended care servicesthat comply with the standards for quality established by the Secretary.
+&emsp;(B) Report the number of medical service lines the Secretary has determined under subsection (e)(1) not to be providing hospital care, medical services, or extended care services that comply with the standards for quality established by the Secretary.
 
 &emsp;(C) Assess the use of academic affiliates and centers of excellence of the Department to furnish hospital care, medical services, and extended care services to covered veterans under this section.
 
@@ -324,7 +324,7 @@ Subsec. (a)(7). Pub. L. 104–262, §104(b)(3), substituted "1712(a)(1)(F)" for 
 
 Pub. L. 102–83, §4(a)(5), substituted "non-Department" for "non-Veterans' Administration" in section catchline.
 
-Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted "1710 or 1712" for "610 or 612" in introductory provisions, "1712(a)(1)(B)" for "612(a)(1)(B)" in par. (2)(A), "1712(a)"for "612(a)" and "1712(a)(5)(B)" for "612(a)(5)(B)" in par. (2)(B), "1712(a)(3)" for "612(a)(3)" in par. (2)(C), "1720" for "620" in par. (3), and "1712(b)(1)(F)" for "612(b)(1)(F)" in par. (7).
+Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted "1710 or 1712" for "610 or 612" in introductory provisions, "1712(a)(1)(B)" for "612(a)(1)(B)" in par. (2)(A), "1712(a)" for "612(a)" and "1712(a)(5)(B)" for "612(a)(5)(B)" in par. (2)(B), "1712(a)(3)" for "612(a)(3)" in par. (2)(C), "1720" for "620" in par. (3), and "1712(b)(1)(F)" for "612(b)(1)(F)" in par. (7).
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" in introductory provisions and in par. (2)(C).
 
@@ -576,7 +576,7 @@ Third Party Administrator Defined.—In this section, the term 'Third Party Admi
 
 #### "SEC. 134. REPORT.
 
-"Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter, the Secretary of Veterans Affairs shall submit to the appropriate congressional committees a report that includes—
+"Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter, theSecretary of Veterans Affairs shall submit to the appropriate congressional committees a report that includes—
 
 &emsp;"(1) an assessment by the Secretary of the pilot program during the 180-day period preceding the date of the report, including—
 
@@ -836,7 +836,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 
 #### Pilot Program of Enhanced Contract Care Authority for Health Care Needs of Veterans in Highly Rural Areas
 
-Pub. L. 110–387, title IV, §403, Oct. 10, 2008, 122 Stat. 4124, as amended by Pub. L. 111–163, title III, §308, May 5, 2010, 124 Stat. 1155; Pub. L. 113–146, title I, §104, Aug. 7, 2014, 128 Stat. 1766; Pub. L. 113–175, title IV, §409(h), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–223, div. A, title II, §242, Sept. 29, 2016, 130 Stat. 884, provided that:
+Pub. L. 110–387, title IV, §403, Oct. 10, 2008, 122 Stat. 4124, as amended by Pub. L. 111–163, title III, §308, May5, 2010, 124 Stat. 1155; Pub. L. 113–146, title I, §104, Aug. 7, 2014, 128 Stat. 1766; Pub. L. 113–175, title IV, §409(h), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–223, div. A, title II, §242, Sept. 29, 2016, 130 Stat. 884, provided that:
 
 "(a)
 

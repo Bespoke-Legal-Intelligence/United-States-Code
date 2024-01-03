@@ -18,6 +18,100 @@ The Secretary of Commerce shall have charge of the forecasting of weather, the i
 
 Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI, §1107(k), 52 Stat. 1029, cited to the credit of this section.
 
+#### Conduct of Weather Reconnaissance in the United States
+
+Pub. L. 118–31, div. A, title X, §1090, Dec. 22, 2023, 137 Stat. 420, provided that:
+
+"(a)
+
+Conduct of Reconnaissance.—
+
+&emsp;"(1)
+
+In general.—Subject to the availability of appropriations, the 53rd Weather Reconnaissance Squadron of the Air Force Reserve Command and the Administrator of the National Oceanic and Atmospheric Administration may use aircraft, personnel, and equipment necessary to meet the mission requirements of—
+
+&emsp;&emsp;"(A) the National Hurricane Operations Plan; and
+
+&emsp;&emsp;"(B) the National Winter Seasons Operation plan, as long as aircraft are able to fully meet needs for hurricane monitoring response.
+
+&emsp;"(2)
+
+Activities.—If the 53rd Weather Reconnaissance Squadron of the Air Force Reserve Command exercises the authority under paragraph (1), such Squadron, in consultation with the Administrator of the National Oceanic and Atmospheric Administration and appropriate line offices of the National Oceanic and Atmospheric Administration, shall use such authority to—
+
+&emsp;&emsp;"(A) improve the accuracy and timeliness of observations of storms that result in large amounts of precipitation, such as tropical cyclones and atmospheric rivers, to support the forecast and warning services of the National Weather Service of the United States;
+
+&emsp;&emsp;"(B) collect data in data-sparse regions where conventional observations are lacking;
+
+&emsp;&emsp;"(C) support water management decision-making and flood forecasting through the execution of targeted in-situ measurements, airborne dropsondes, buoys, autonomous platform observations, satellite observations, remote sensing observations, and other observation platforms as appropriate, including enhanced assimilation of the data from those observations over the eastern, central, and western north Pacific Ocean, the Gulf of Mexico, and the western Atlantic Ocean to improve forecasts of large storms for civil authorities and military decision makers;
+
+&emsp;&emsp;"(D) participate in the research and operations partnership that guides flight planning and uses research methods to improve and expand the capabilities and effectiveness of weather reconnaissance over time; and
+
+&emsp;&emsp;"(E) undertake such other additional activities as the Administrator of the National Oceanic and Atmospheric Administration, in collaboration with the 53rd Weather Reconnaissance Squadron, considers appropriate to further prediction of dangerous weather events.
+
+"(b)
+
+Reports.—
+
+&emsp;"(1)
+
+Air force.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of the Air Force, in consultation with the Administrator of the National Oceanic and Atmospheric Administration, shall perform a resources review of mission capabilities needed for observation to carry out the activities described in subsection (a)(2) and submit to the appropriate committees of Congress a comprehensive report, for the period beginning on the date of the enactment of this Act and ending on December 31, 2035, on—
+
+&emsp;&emsp;&emsp;"(i) the resources necessary for the 53rd Weather Reconnaissance Squadron of the Air Force Reserve Command to continue to support—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the National Hurricane Operations Plan;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the National Winter Season Operations Plan;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) emerging technologies that offer new, improved, or innovative ways to collect data for improved forecasts of strength and landfall for hurricanes, atmospheric rivers, and winter storms; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) any other operational requirements relating to weather reconnaissance;
+
+&emsp;&emsp;&emsp;"(ii) the resources expended by the National Oceanic and Atmospheric Administration to cover taskings that the 53rd Weather Reconnaissance Squadron of the Air Force Reserve Command is unable to accomplish; and
+
+&emsp;&emsp;&emsp;"(iii) the resources expended by the 53rd Weather Reconnaissance Squadron of the Air Force Reserve Command to cover taskings that the National Oceanic and Atmospheric Administration is unable to accomplish.
+
+&emsp;&emsp;"(B)
+
+Appropriate committees of congress.—In this paragraph, the term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;&emsp;"(i) the Committee on Armed Services of the Senate;
+
+&emsp;&emsp;&emsp;"(ii) the Subcommittee on Defense of the Committee on Appropriations of the Senate;
+
+&emsp;&emsp;&emsp;"(iii) the Committee on Commerce, Science, and Transportation of the Senate;
+
+&emsp;&emsp;&emsp;"(iv) the Committee on Science, Space, and Technology of the House of Representatives;
+
+&emsp;&emsp;&emsp;"(v) the Committee on Armed Services of the House of Representatives; and
+
+&emsp;&emsp;&emsp;"(vi) the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives.
+
+&emsp;"(2)
+
+Commerce.—Not later than 90 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a comprehensive report, for the period beginning on the date of the enactment of this Act and ending on December 31, 2035, on—
+
+&emsp;&emsp;"(A) the resources necessary for the National Oceanic and Atmospheric Administration to continue to support—
+
+&emsp;&emsp;&emsp;"(i) the National Hurricane Operations Plan;
+
+&emsp;&emsp;&emsp;"(ii) the National Winter Season Operations Plan;
+
+&emsp;&emsp;&emsp;"(iii) emerging technologies that offer new, improved, and innovative ways to collect data for improved forecasts of strength and landfall for hurricanes, atmospheric rivers, and winter storms; and
+
+&emsp;&emsp;&emsp;"(iv) any other operational requirements relating to weather reconnaissance;
+
+&emsp;&emsp;"(B) how taskings that the 53rd Weather Reconnaissance Squadron of the Air Force Reserve Command is unable to accomplish could affect the ability of the National Oceanic and Atmospheric Administration to fulfill its mission; and
+
+&emsp;&emsp;"(C) how taskings that the National Oceanic and Atmospheric Administration is unable to accomplish could affect the ability of the 53rd Weather Reconnaissance Squadron of the Air Force Reserve Command to fulfill its mission.
+
+"(c)
+
+Transfer of Funds.—The Secretary of the Air Force may transfer funds to the National Oceanic and Atmospheric Administration for additional hurricane monitoring and response activities that fulfill the mission of the Air Force, including transfers of funds for the compensation of personnel and for the provision of other such services, funds, facilities, and other support services as necessary."
+
 #### Use of Funds for Hurricane Reconnaissance Program
 
 Pub. L. 108–199, div. B, title II, §203, Jan. 23, 2004, 118 Stat. 72, provided in part that: "Hereafter, none of the funds made available by this or any other Act for the National Oceanic and Atmospheric Administration may be used to support the hurricane reconnaissance aircraft and activities that are under the control of the United States Air Force or the United States Air Force Reserve."
@@ -68,11 +162,11 @@ Responsibilities.—(1) The Secretary of Defense shall have the responsibility f
 
 "(c)
 
-Management Plans.—(1) The Secretary of Defense and the Secretary of Commerce shall jointly develop and, within 120 days after the date of enactment of this Act \[Oct. 29, 1992\], submit to the Congress a management plan for the program established under this section, which shall include organizational structure, goals, major tasks, and funding profiles for the 5-year duration of the program.
+Management Plans.—(1) The Secretary of Defense and the Secretary of Commerce shall jointly develop and, within 120 days after the date of enactment of this Act \[Oct. 29, 1992\], submit to the Congress amanagement plan for the program established under this section, which shall include organizational structure, goals, major tasks, and funding profiles for the 5-year duration of the program.
 
 "(2) The Secretary of Defense and the Secretary of Commerce, in consultation with the Tropical Cyclone Research Advisory Committee established by section 107(a)(2), shall jointly develop and, within 4 years after the date of enactment of this Act, submit to the Congress a management plan providing for continued tropical cyclone surveillance and reconnaissance which will adequately protect the citizens of the coastal areas of the United States.
 
-"(3) The management plans and programs required by this section shall in every sense provide for at least the same degree and quality of protection (such as early warning capability and accuracy of fixing a storm's location) as currently exists with a combination of satellite technology and manned reconnaissance flights. Additionally, such plans and programs shall in no way allow any reduction in the level, quality, timeliness,sustainability, or area served (including the State of Hawaii) of both the existing principal and back-up tropical cyclone reconnaissance and tracking systems."
+"(3) The management plans and programs required by this section shall in every sense provide for at least the same degree and quality of protection (such as early warning capability and accuracy of fixing a storm's location) as currently exists with a combination of satellite technology and manned reconnaissance flights. Additionally, such plans and programs shall in no way allow any reduction in the level, quality, timeliness, sustainability, or area served (including the State of Hawaii) of both the existing principal and back-up tropical cyclone reconnaissance and tracking systems."
 
 #### United States Weather Research Program
 
@@ -164,7 +258,7 @@ Notification.—The Secretary shall not change operations at a field office purs
 
 "(b)
 
-Weather Radar Decommissioning.—The Secretary shall not remove or permanently decommission any National Weather Service radar until the Secretary has prepared radar commissioning and decommissioning reports documenting that such action would be consistent with the modernization criteria established under section 704(b)(1). The commissioning report shall document that the radar system performs reliably, satisfactory maintenance support is in place, sufficient staff with adequate training are present to operate the system, technical coordination with weather service users has been completed, and the radarbeing commissioned satisfactorily supports field office operations. The decommissioning report shall document that the replacement radar has been commissioned, technical coordination with service users has been completed, and the radar being decommissioned is no longer needed to support field office operations.
+Weather Radar Decommissioning.—The Secretary shall not remove or permanently decommission any National Weather Service radar until the Secretary has prepared radar commissioning and decommissioning reports documenting that such action would be consistent with the modernization criteria established under section 704(b)(1). The commissioning report shall document that the radar system performs reliably, satisfactory maintenance support is in place, sufficient staff with adequate training are present to operate the system, technical coordination with weather service users has been completed, and the radar being commissioned satisfactorily supports field office operations. The decommissioning report shall document that the replacement radar has been commissioned, technical coordination with service users has been completed, and the radar being decommissioned is no longer needed to support field office operations.
 
 "(c)
 

@@ -24,7 +24,7 @@ No funds made available under this chapter shall be used for the purchase in bul
 
 #### (c) Agricultural commodities or products thereof available for disposition under Food for Peace Act
 
-In providing for the procurement of any agricultural commodity or product thereof available for disposition under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\], for transfer by grant under this chapter to any recipient country in accordance with its requirements, the President shall, insofar as practicable and whenin furtherance of the purposes of this chapter, authorize the procurement of such agricultural commodity only within the United States except to the extent that such agricultural commodity is not available in the United States in sufficient quantities to supply emergency requirements of recipients under this chapter.
+In providing for the procurement of any agricultural commodity or product thereof available for disposition under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\], for transfer by grant under this chapter to any recipient country in accordance with its requirements, the President shall, insofar as practicable and when in furtherance of the purposes of this chapter, authorize the procurement of such agricultural commodity only within the United States except to the extent that such agricultural commodity is not available in the United States in sufficient quantities to supply emergency requirements of recipients under this chapter.
 
 #### (d) Marine insurance
 
@@ -80,7 +80,7 @@ Subsec. (e). Pub. L. 89–583, §301(b)(2), added subsec. (e).
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter,and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### References to Part I Deemed To Include Section 2293
 

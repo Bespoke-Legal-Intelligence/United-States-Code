@@ -70,7 +70,7 @@ Neither this section, actions taken pursuant to this section, nor any other tran
 
 &emsp;This subsection does not—
 
-&emsp;&emsp;(A) suspend, or exempt any Federal utility from, any provision of Federal law in effect on August 8, 2005, including any requirementor direction relating to the use of the transmission system of the Federal utility, environmental protection, fish and wildlife protection, flood control, navigation, water delivery, or recreation; or
+&emsp;&emsp;(A) suspend, or exempt any Federal utility from, any provision of Federal law in effect on August 8, 2005, including any requirement or direction relating to the use of the transmission system of the Federal utility, environmental protection, fish and wildlife protection, flood control, navigation, water delivery, or recreation; or
 
 &emsp;&emsp;(B) authorize abrogation of any contract or treaty obligation.
 

@@ -16,11 +16,11 @@ Another prior section 715, acts Aug. 14, 1935, ch. 531, title V, §515, 49 Stat.
 
 Section 716, act Aug. 14, 1935, ch. 531, title V, §516, as added July 1, 1973, Pub. L. 93–53, §4(b), 87 Stat. 136, related to supplemental allotments.
 
-Another prior section 716, act Aug. 14, 1935, ch. 531, title V, §516, as added July 30, 1965, Pub. L. 89–97, title II, §203(a), 79 Stat. 353, authorized appropriations for training of professional personnel for health and related care of crippled and mentally retarded children of $5,000,000, $10,000,000, and $17,500,000 for fiscal years ending June 30, 1967, 1968, 1969, and thereafter, respectively,and was omitted in the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301, and was covered by former sections 702 and 711 of this title.
+Another prior section 716, act Aug. 14, 1935, ch. 531, title V, §516, as added July 30, 1965, Pub. L. 89–97, title II, §203(a), 79 Stat. 353, authorized appropriations for training of professional personnel for health and related care of crippled and mentally retarded children of $5,000,000, $10,000,000, and $17,500,000 for fiscal years ending June 30, 1967, 1968, 1969, and thereafter, respectively, and was omitted in the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301, and was covered by former sections 702 and 711 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Supplemental Allotments for Fiscal Year Ending June 30, 1974
 
-Pub. L. 93–53, §4(c), July 1, 1973, 87 Stat. 136, authorized a State, for fiscal year ending June 30, 1974, to receive an additional supplemental allotment to match excess of amount of allotments which such State would have received under sections 703 and 704 of this title for such year if section 4(a) of Pub. L. 93–53 had not been enacted over aggregate of allotments which such State actually received under such sections plus aggregate of grants received under sections 708, 709, and 710 of this title for fiscal year ending June 30, 1973, and authorized appropriations necessary for supplemental allotments.
+Pub. L. 93–53, §4(c), July 1, 1973, 87 Stat. 136, authorized a State, for fiscal year ending June 30, 1974, to receive an additional supplemental allotment to match excess of amount of allotments which such State would have received under sections 703 and 704 of this title for such year if section 4(a) of Pub. L. 93–53 had not beenenacted over aggregate of allotments which such State actually received under such sections plus aggregate of grants received under sections 708, 709, and 710 of this title for fiscal year ending June 30, 1973, and authorized appropriations necessary for supplemental allotments.
 

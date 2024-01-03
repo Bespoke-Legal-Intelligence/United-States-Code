@@ -90,7 +90,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs and the Committee on Small Business and Entrepreneurship of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Homeland Security, the Committee on Oversight and Reform, and the Committee on Small Business of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Homeland Security, the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\], and the Committee on Small Business of the House of Representatives.
 
 &emsp;"(3)
 

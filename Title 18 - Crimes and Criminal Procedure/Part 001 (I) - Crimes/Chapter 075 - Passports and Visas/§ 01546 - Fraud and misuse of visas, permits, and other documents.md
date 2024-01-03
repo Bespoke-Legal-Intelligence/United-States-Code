@@ -72,7 +72,7 @@ Subsec. (b). Pub. L. 103–322, §130009(a)(5), in concluding provisions, substi
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 211(a)(2) of Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
+Amendment by section 211(a)(2) of Pub. L. 104–208 applicable with respect to offenses occurring on or afterSept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -80,7 +80,7 @@ Pub. L. 103–322, title XXXIII, §330011(p), Sept. 13, 1994, 108 Stat. 2145, pr
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Actof 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of Title 8, Aliens and Nationality.
+Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

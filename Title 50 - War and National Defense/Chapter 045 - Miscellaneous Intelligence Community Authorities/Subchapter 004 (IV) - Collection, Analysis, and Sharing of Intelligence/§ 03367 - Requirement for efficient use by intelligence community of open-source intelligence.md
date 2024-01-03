@@ -12,6 +12,46 @@ Section was formerly classified as a note under section 403–1 of this title pr
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Intelligence Community Directive With Respect to Open-Source Intelligence
+
+Pub. L. 118–31, div. G, title III, §7321(d), (e), Dec. 22, 2023, 137 Stat. 1038, provided that:
+
+"(d)
+
+Intelligence Community Directive With Respect to Open-source Intelligence.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Director of National Intelligence shall update Intelligence Community Directive 208, Maximizing the Utility of Analytic Products (or any successor directive) to specifically address—
+
+&emsp;"(1) the production and dissemination of unclassified intelligence products derived entirely from open-source intelligence, including from unclassified publicly available information, unclassified commercially available information, or any other type of unclassified information; and
+
+&emsp;"(2) the needs and requirements of covered individuals who do not hold a security clearance or have access to the classified systems on which such unclassified intelligence products reside.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the congressional intelligence committees;
+
+&emsp;&emsp;"(B) the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;"(C) the Committee on Oversight and Accountability, the Committee on the Judiciary, and the Committee on Appropriations of the House of Representatives.
+
+&emsp;"(2)
+
+Covered individual.—The term 'covered individual' means an employee of the Federal Government—
+
+&emsp;&emsp;"(A) who is not an employee or contractor of an element of the intelligence community; and
+
+&emsp;&emsp;"(B) who would derive value from a covered open-source intelligence product.
+
+&emsp;"(3)
+
+Covered open-source intelligence product.—The term 'covered open-source intelligence product' means an unclassified product derived from open-source intelligence that is produced by the intelligence community."
+
+\[For definitions of "intelligence community" and "congressional intelligence committees" as used in section 7321(d), (e) of Pub. L. 118–31, set out above, see section 7002 of Pub. L. 118–31, set out as a note under section 3003 of this title.\]
+
 #### Assessing Intelligence Community Open-Source Support for Export Controls and Foreign Investment Screening
 
 Pub. L. 117–263, div. F, title LXIII, §6311, Dec. 23, 2022, 136 Stat. 3508, provided that:
@@ -70,7 +110,7 @@ In general.—Not later than 90 days after the date of the enactment of this Act
 
 Contents.—The plan submitted under subparagraph (A) shall include the following:
 
-&emsp;&emsp;&emsp;"(i) A list, developed in consultation with the Secretary of Commerce and the Secretary ofHomeland Security, of the activities of the Department of Commerce and the Department of Homeland Security that will be supported by the pilot program.
+&emsp;&emsp;&emsp;"(i) A list, developed in consultation with the Secretary of Commerce and the Secretary of Homeland Security, of the activities of the Department of Commerce and the Department of Homeland Security that will be supported by the pilot program.
 
 &emsp;&emsp;&emsp;"(ii) A plan for measuring the effectiveness of the pilot program and the value of open source, publicly and commercially available information to the export control and investment screening missions.
 

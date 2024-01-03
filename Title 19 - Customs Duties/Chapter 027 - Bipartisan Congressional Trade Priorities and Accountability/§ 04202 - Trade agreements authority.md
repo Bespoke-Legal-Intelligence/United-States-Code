@@ -32,7 +32,7 @@
 
 &emsp;No proclamation may be made under paragraph (1) that—
 
-&emsp;&emsp;(A) reduces any rate of duty (other than a rate of duty that does not exceed 5 percent ad valorem on June 29, 2015) to a rate of dutywhich is less than 50 percent of the rate of such duty that applies on June 29, 2015;
+&emsp;&emsp;(A) reduces any rate of duty (other than a rate of duty that does not exceed 5 percent ad valorem on June 29, 2015) to a rate of duty which is less than 50 percent of the rate of such duty that applies on June 29, 2015;
 
 &emsp;&emsp;(B) reduces the rate of duty below that applicable under the Uruguay Round Agreements or a successor agreement, on any import sensitive agricultural product; or
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;Except as provided in subparagraph (B), the aggregate reduction in the rate of duty on any article which is in effect on any day pursuant to a trade agreement entered into under paragraph (1) shall not exceed the aggregate reduction which would have been in effect on such day if—
 
-&emsp;&emsp;&emsp;(i) a reduction of 3 percent ad valorem or a reduction of 1/10 of the total reduction, whichever is greater, had taken effect on the effective date of the first reduction proclaimed under paragraph (1) to carry out such agreement with respect to such article; and
+&emsp;&emsp;&emsp;(i) a reduction of 3 percent ad valorem or a reduction of 1/10 of the total reduction, whichever is greater, had taken effect onthe effective date of the first reduction proclaimed under paragraph (1) to carry out such agreement with respect to such article; and
 
 &emsp;&emsp;&emsp;(ii) a reduction equal to the amount applicable under clause (i) had taken effect at 1-year intervals after the effective date of such first reduction.
 
@@ -104,7 +104,7 @@
 
 #### (3) Bills qualifying for trade authorities procedures
 
-&emsp;(A) The provisions of section 2191 of this title (in this chapter referred to as "trade authorities procedures") apply to a bill of either House of Congress which contains provisions described in subparagraph (B) to the same extent as such section 2191 applies to implementing bills under that section. A bill to which this paragraph applies shall hereafter inthis chapter be referred to as an "implementing bill".
+&emsp;(A) The provisions of section 2191 of this title (in this chapter referred to as "trade authorities procedures") apply to a bill of either House of Congress which contains provisions described in subparagraph (B) to the same extent as such section 2191 applies to implementing bills under that section. A bill to which this paragraph applies shall hereafter in this chapter be referred to as an "implementing bill".
 
 &emsp;(B) The provisions referred to in subparagraph (A) are—
 

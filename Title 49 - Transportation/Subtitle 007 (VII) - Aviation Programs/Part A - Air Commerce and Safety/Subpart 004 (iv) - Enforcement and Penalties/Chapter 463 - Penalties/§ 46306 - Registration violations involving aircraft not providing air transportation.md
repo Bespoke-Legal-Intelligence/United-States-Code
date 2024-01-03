@@ -82,7 +82,7 @@ Relationship to State Laws.—This part does not prevent a State from establishi
 
 &emsp;(2) knowingly sells, uses, attempts to use, or possesses with the intent to use, a fraudulent aircraft certificate of registration;
 
-&emsp;(3) knowingly and willfully displays or causes to be displayed on an aircraft a mark that is false or misleading about the nationality or registration of the aircraft; or
+&emsp;(3) knowingly and willfully displays or causes to be displayed on an aircraft a markthat is false or misleading about the nationality or registration of the aircraft; or
 
 &emsp;(4) obtains an aircraft certificate of registration from the Administrator of the Federal Aviation Administration by—
 

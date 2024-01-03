@@ -62,7 +62,7 @@ The Secretary through the Commissioner of Food and Drugs may, without regard to 
 
 #### (2) Objectives of agency plan
 
-&emsp;The plan required by paragraph (1) shall establish objectives and mechanisms to achievesuch objectives, including objectives related to—
+&emsp;The plan required by paragraph (1) shall establish objectives and mechanisms to achieve such objectives, including objectives related to—
 
 &emsp;&emsp;(A) maximizing the availability and clarity of information about the process for review of applications and submissions (including petitions, notifications, and any other similar forms of request) made under this chapter;
 
@@ -244,7 +244,7 @@ Evaluation of progress.—Each Food and Drug Administration Strategic Informatio
 
 &emsp;&emsp;"(A) the progress the Secretary has made, based on the metrics, benchmarks, and other milestones that measure successful development and implementation of information technology systems; and
 
-&emsp;&emsp;"(B) whether actions taken in response to the previous Plan improved the capacity of the Foodand Drug Administration to achieve the strategic goals and priorities set forth in such previous Plans."
+&emsp;&emsp;"(B) whether actions taken in response to the previous Plan improved the capacity of the Food and Drug Administration to achieve the strategic goals and priorities set forth in such previous Plans."
 
 #### Office of Minor Use and Minor Species Animal Drug Development
 
@@ -312,7 +312,7 @@ HHS Report.—Not later than 1 year after the date of enactment of this Act \[Ju
 
 &emsp;&emsp;"(B) efforts to finalize and approve a comprehensive inventory of the information technology systems of the Food and Drug Administration that includes information describing each system, such as costs, system function or purpose, and status information, and incorporate use of the system portfolio into the information investment management process of the Food and Drug Administration;
 
-&emsp;&emsp;"(C) the ways in which the Food and Drug Administration uses the plan described in subparagraph\(A) to guide and coordinate the modernization projects and activities of the Food and Drug Administration, including the interdependencies among projects and activities; and
+&emsp;&emsp;"(C) the ways in which the Food and Drug Administration uses the plan described in subparagraph (A) to guide and coordinate the modernization projects and activities of the Food and Drug Administration, including the interdependencies among projects and activities; and
 
 &emsp;&emsp;"(D) the extent to which the Food and Drug Administration has fulfilled or is implementing recommendations of the Government Accountability Office with respect to the Food and Drug Administration and information technology; and
 

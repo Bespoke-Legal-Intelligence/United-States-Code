@@ -18,7 +18,7 @@ In the case of any withholdable payment to a foreign financial institution which
 
 &emsp;&emsp;(D) to deduct and withhold a tax equal to 30 percent of—
 
-&emsp;&emsp;&emsp;(i) any passthru payment which is made by such institution to a recalcitrant account holder or another foreign financial institution which does not meet the requirements of this subsection, and
+&emsp;&emsp;&emsp;(i) any passthru payment which is made by such institution to a recalcitrant account holder or another foreign financialinstitution which does not meet the requirements of this subsection, and
 
 &emsp;&emsp;&emsp;(ii) in the case of any passthru payment which is made by such institution to a foreign financial institution which has in effect an election under paragraph (3) with respect to such payment, so much of such payment as is allocable to accounts held by recalcitrant account holders or foreign financial institutions which do not meet the requirements of this subsection,
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) with respect to each holder of such account, the aggregate value of all depository accounts held (in whole or in part) by such holder and maintained by the same financial institution which maintains such account does not exceed $50,000.
 
-> &emsp;&emsp;To the extent provided by the Secretary, financial institutions which are members ofthe same expanded affiliated group shall be treated for purposes of clause (ii) as a single financial institution.
+> &emsp;&emsp;To the extent provided by the Secretary, financial institutions which are members of the same expanded affiliated group shall be treated for purposes of clause (ii) as a single financial institution.
 
 #### (C) Elimination of duplicative reporting requirements
 
@@ -174,7 +174,7 @@ For purposes of this section—
 
 #### (2) Expanded affiliated group
 
-&emsp;For purposes of this section, the term "expanded affiliated group" means an affiliated group as defined in section 1504(a), determined—
+&emsp;For purposes of this section, the term "expanded affiliated group" means an affiliatedgroup as defined in section 1504(a), determined—
 
 &emsp;&emsp;(A) by substituting "more than 50 percent" for "at least 80 percent" each place it appears, and
 

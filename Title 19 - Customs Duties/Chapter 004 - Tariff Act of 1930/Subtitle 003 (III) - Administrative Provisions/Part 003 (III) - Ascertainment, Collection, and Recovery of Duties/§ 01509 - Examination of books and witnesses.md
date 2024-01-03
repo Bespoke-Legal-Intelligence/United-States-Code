@@ -76,7 +76,7 @@ A summons issued pursuant to this section may be served by any person designated
 
 &emsp;(A) any summons is served on any person who is a third-party recordkeeper; and
 
-&emsp;(B) the summons requires the production of, or the giving of testimony relating to, anyportion of records made or kept of the transactions described in section 1508 of this title of any person (other than the person summoned) who is identified in the description of the records contained in such summons;
+&emsp;(B) the summons requires the production of, or the giving of testimony relating to, any portion of records made or kept of the transactions described in section 1508 of this title of any person (other than the person summoned) who is identified in the description of the records contained in such summons;
 
 > then notice of such summons shall be given to any persons so identified within a reasonable time before the day fixed in the summons as the day upon which such records are to be examined or testimony given. Such notice shall be accompanied by a copy of the summons which has been served and shall contain directions for staying compliance with the summons under paragraph (5)(B) of this subsection.
 
@@ -136,7 +136,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 #### (1) "Information" defined
 
-&emsp;For purposes of this subsection, the term "information" means any record, statement,declaration, document, or electronically stored or transmitted information or data referred to in subsection (a)(1)(A).
+&emsp;For purposes of this subsection, the term "information" means any record, statement, declaration, document, or electronically stored or transmitted information or data referred to in subsection (a)(1)(A).
 
 #### (2) Effects of failure to comply with demand
 
@@ -208,9 +208,9 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 #### (D) Regulations
 
-&emsp;&emsp;The Secretary shall promulgate regulations to implement this paragraph. Such regulations may specify the time periods for compliance with a demand for information and provide guidelines which define repeated violations for purposes of this paragraph. Any penalty issued for a recordkeeping violation shall take into account the degree of compliance compared to the total number of importations, the nature of the demanded records and the recordkeeper's cooperation.
+&emsp;&emsp;The Secretary shall promulgate regulations to implement this paragraph. Such regulations may specify the time periods for compliance with a demand for information and provide guidelines which define repeatedviolations for purposes of this paragraph. Any penalty issued for a recordkeeping violation shall take into account the degree of compliance compared to the total number of importations, the nature of the demanded records and the recordkeeper's cooperation.
 
-(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; Pub. L. 91–271, title III, §301(n), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title I, §105, Oct. 3, 1978, 92 Stat. 889; Pub. L. 99–570, title III, §3117, Oct. 27, 1986, 100 Stat. 3207–84; Pub. L. 103–182, title II, §205(b), title VI, §615, Dec. 8, 1993, 107 Stat. 2094, 2175;Pub. L. 104–295, §3(a)(1), (10), Oct. 11, 1996, 110 Stat. 3515, 3516; Pub. L. 107–210, div. A, title III, §382, Aug. 6, 2002, 116 Stat. 992; Pub. L. 116–113, title II, §209(b), Jan. 29, 2020, 134 Stat. 52.)
+(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; Pub. L. 91–271, title III, §301(n), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title I, §105, Oct. 3, 1978, 92 Stat. 889; Pub. L. 99–570, title III, §3117, Oct. 27, 1986, 100 Stat. 3207–84; Pub. L. 103–182, title II, §205(b), title VI, §615, Dec. 8, 1993, 107 Stat. 2094, 2175; Pub. L. 104–295, §3(a)(1), (10), Oct. 11, 1996, 110 Stat. 3515, 3516; Pub. L. 107–210, div. A, title III, §382, Aug. 6, 2002, 116 Stat. 992; Pub. L. 116–113, title II, §209(b), Jan. 29, 2020, 134 Stat. 52.)
 
 #### <b>Editorial Notes</b>
 

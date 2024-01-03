@@ -4,7 +4,7 @@
 
 (b) Applications under this subchapter shall be in such form as the Office prescribes. Agencies shall support the applications by such certificates as the Office considers necessary to the determination of the rights of applicants. The Office shall adjudicate all claims under this subchapter.
 
-(c) The Office shall determine questions of disability and dependency arising under this subchapter. Except to the extent provided under subsection (d) of this section, the decisions of the Office concerning these matters are final and conclusive and are not subject to review. The Office may direct at any time such medical or other examinations as it considers necessary to determine the facts concerning disability or dependency of an individual receiving or applying for annuity under this subchapter. The Office may suspend or deny annuity for failure to submit to examination.
+(c) The Office shall determine questions of disability and dependency arising under this subchapter. Except to the extent provided under subsection (d) of this section, the decisions of the Office concerning these matters are final and conclusive and are not subject to review. The Office may direct at any time such medical or other examinations as it considers necessary to determine the facts concerning disability ordependency of an individual receiving or applying for annuity under this subchapter. The Office may suspend or deny annuity for failure to submit to examination.
 
 (d)(1) Subject to paragraph (2) of this subsection, an administrative action or order affecting the rights or interests of an individual or of the United States under this subchapter may be appealed to the Merit Systems Protection Board under procedures prescribed by the Board.
 
@@ -26,7 +26,7 @@
 
 (l) The Director or Acting Director of the Botanic Garden may exclude from the operation of this subchapter an employee under the Botanic Garden whose employment is temporary or of uncertain duration.
 
-(m) Notwithstanding any other provision of law, for the purpose of ensuring the accuracy ofinformation used in the administration of this chapter, at the request of the Director of the Office of Personnel Management—
+(m) Notwithstanding any other provision of law, for the purpose of ensuring the accuracy of information used in the administration of this chapter, at the request of the Director of the Office of Personnel Management—
 
 &emsp;(1) the Secretary of Defense or the Secretary's designee shall provide information on retired or retainer pay provided under title 10;
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22,1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
 
 #### Regulations; Effective Date of 1996 Amendment
 
@@ -294,7 +294,7 @@ Transfers of contributions.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—If an individual makes an election under this paragraph to be transferred back to a retirement system in which such individual previously participated (in this section referred to as the 'previous system'), all individualcontributions (including interest) and Government contributions to the retirement system in which such individual is then currently participating (in this section referred to as the 'current system'), excluding those made to the Thrift Savings Plan or any other defined contribution plan, which are attributable to periods of service performed since the move on which the election is based, shall be paid to the fund, account, or other repository for contributions made under the previous system. For purposes of this section, the term 'current system' shall be considered also to include any retirement system (besides the one in which the individual is participating at the time of making the election) in which such individual previously participated since the move on which the election is based.
+In general.—If an individual makes an election under this paragraph to be transferred back to a retirement system in which such individual previously participated (in this section referred to as the 'previous system'), all individual contributions (including interest) and Government contributions to the retirement system in which such individual is then currently participating (in this section referred to as the 'current system'), excluding those made to the Thrift Savings Plan or any other defined contribution plan, which are attributable to periods of service performed since the move on which the election is based, shall be paid to the fund, account, or other repository for contributions made under the previous system. For purposes of this section, the term 'current system' shall be considered also to include any retirement system (besides the one in which the individual is participating at the time of making the election) in which such individual previously participated since the move on which the election is based.
 
 &emsp;&emsp;&emsp;"(ii)
 

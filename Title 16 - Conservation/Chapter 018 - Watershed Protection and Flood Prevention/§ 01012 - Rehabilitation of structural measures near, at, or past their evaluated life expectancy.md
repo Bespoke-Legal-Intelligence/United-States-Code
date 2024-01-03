@@ -114,7 +114,7 @@ The Secretary, in concert with the responsible State agencies, shall conduct an 
 
 #### (1) Secretary
 
-&emsp;The Secretary shall maintain a data base to track the benefits derived from rehabilitation projects supported under this section and the expenditures made under this section. On the basis of such data and the reports submittedunder paragraph (2), the Secretary shall prepare and submit to Congress an annual report providing the status of activities conducted under this section.
+&emsp;The Secretary shall maintain a data base to track the benefits derived from rehabilitation projects supported under this section and the expenditures made under this section. On the basis of such data and the reports submitted under paragraph (2), the Secretary shall prepare and submit to Congress an annual report providing the status of activities conducted under this section.
 
 #### (2) Grant recipients
 
@@ -166,5 +166,5 @@ Subsec. (h)(2)(E). Pub. L. 110–246, §2803(b), substituted "each of fiscal yea
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

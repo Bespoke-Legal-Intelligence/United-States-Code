@@ -52,11 +52,11 @@ Commission Defined.—For purposes of this section, the term "Commission" means 
 
 #### Change of Name
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 

@@ -48,7 +48,7 @@ Certification.—A person required, as an offeror, contractor, or subcontractor,
 
 To Whom Submitted.—Cost or pricing data required to be submitted under subsection (a) (or under section 3504 of this title), and a certification required to be submitted under subsection (b), shall be submitted—
 
-&emsp;(1) in the case of a submission by a prime contractor (or an offeror for a prime contract), to the contracting officer for the contract (or a designated representative of the contracting officer); or
+&emsp;(1) in the case of a submission by a prime contractor (or an offeror for a prime contract),to the contracting officer for the contract (or a designated representative of the contracting officer); or
 
 &emsp;(2) in the case of a submission by a subcontractor (or an offeror for a subcontract), to the prime contractor.
 
@@ -100,5 +100,5 @@ Subsec. (a)(3)(A), (B), (4)(A). Pub. L. 115–91, §811(a)(2)(A)(iii), substitut
 
 Subsec. (f). Pub. L. 115–91, §811(a)(2)(B), substituted "June 30, 2018" for "October 13, 1994".
 
-Subsec. (g). Pub. L. 115–91, §811(a)(2)(C), substituted "in accordance with section 1908." for "to the amount that is equal to the fiscal year 1994 constant dollar value of the amount set forth. Any amount, as so adjusted, that is not evenly divisible by $50,000 shall berounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000."
+Subsec. (g). Pub. L. 115–91, §811(a)(2)(C), substituted "in accordance with section 1908." for "to the amount that is equal to the fiscal year 1994 constant dollar value of the amount set forth. Any amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000."
 

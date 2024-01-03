@@ -30,7 +30,7 @@ The sanctions described in this subsection are the following:
 
 #### (2) Exclusion from United States
 
-&emsp;The Secretary of State shall deny a visa to, and the Secretary of Homeland Security shall exclude from the United States, any person subject to subsection (b) that is an alien.
+&emsp;The Secretary of State shall deny a visa to, and the Secretary of Homeland Security shallexclude from the United States, any person subject to subsection (b) that is an alien.
 
 #### (d) Penalties
 
@@ -122,7 +122,7 @@ Section 1. (a) I hereby delegate to the Secretary of State the functions and aut
 
 (e) I hereby delegate to the Secretary of State and the Secretary of the Treasury the functions and authorities vested in the President by the following sections of the Act:
 
-&emsp;(i) section 105(b) \[22 U.S.C. 9404(b)\], to be exercised in consultation with each other and commensuratewith their respective areas of responsibility set forth in previous Presidential actions under the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.), including Executive Order 13224 of September 23, 2001 (Blocking Property and Prohibiting Transactions With Persons Who Commit, Threaten To Commit, or Support Terrorism);
+&emsp;(i) section 105(b) \[22 U.S.C. 9404(b)\], to be exercised in consultation with each other and commensurate with their respective areas of responsibility set forth in previous Presidential actions under the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.), including Executive Order 13224 of September 23, 2001 (Blocking Property and Prohibiting Transactions With Persons Who Commit, Threaten To Commit, or Support Terrorism);
 
 &emsp;(ii) section 108(a)(2) \[22 U.S.C. 9407(a)(2)\], to be exercised in consultation with each other and commensurate with their respective areas of responsibility set forth in Executive Order 13382 of June 28, 2005 (Blocking Property of Weapons of Mass Destruction Proliferators and Their Supporters) and Executive Order 13224; and
 

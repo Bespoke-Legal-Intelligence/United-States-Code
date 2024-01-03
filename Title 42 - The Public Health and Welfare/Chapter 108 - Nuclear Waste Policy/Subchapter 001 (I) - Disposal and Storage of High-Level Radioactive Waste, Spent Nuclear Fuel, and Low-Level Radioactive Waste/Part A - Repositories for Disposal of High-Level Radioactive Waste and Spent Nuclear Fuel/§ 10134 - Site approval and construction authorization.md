@@ -30,7 +30,7 @@
 
 #### (b) Submission of application
 
-If the President recommends to the Congress the Yucca Mountain site under subsection (a) and the site designation is permitted to take effect under section 10135 of this title, the Secretary shall submit to the Commission an application for a construction authorization for a repository at such site not later than 90 days after the date on which the recommendation of the site designation is effective under such sectionand shall provide to the Governor and legislature of the State of Nevada a copy of such application.
+If the President recommends to the Congress the Yucca Mountain site under subsection (a) and the site designation is permitted to take effect under section 10135 of this title, the Secretary shall submit to the Commission an application for a construction authorization for a repository at such site not later than 90 days after the date on which the recommendation of the site designation is effective under such section and shall provide to the Governor and legislature of the State of Nevada a copy of such application.
 
 #### (c) Status report on application
 
@@ -62,7 +62,7 @@ The Commission shall consider an application for a construction authorization fo
 
 (4) Any environmental impact statement prepared in connection with a repository proposed to be constructed by the Secretary under this part shall, to the extent practicable, be adopted by the Commission in connection with the issuance by the Commission of a construction authorization and license for such repository. To the extent such statement is adopted by the Commission, such adoption shall be deemed to also satisfy the responsibilities of the Commission under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and no further consideration shall be required, except that nothing in this subsection shall affect any independent responsibilities of the Commission to protect the public health and safety under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).
 
-(5) Nothing in this chapter shall be construed to amend or otherwise detract from the licensing requirements of the Nuclear Regulatory Commission established in title II of the EnergyReorganization Act of 1974 (42 U.S.C. 5841 et seq.).
+(5) Nothing in this chapter shall be construed to amend or otherwise detract from the licensing requirements of the Nuclear Regulatory Commission established in title II of the Energy Reorganization Act of 1974 (42 U.S.C. 5841 et seq.).
 
 (6) In any such statement prepared with respect to the repository to be constructed under this part, the Nuclear Regulatory Commission need not consider the need for a repository, the time of initial availability of a repository, alternate sites to the Yucca Mountain site, or nongeologic alternatives to such site.
 
@@ -110,7 +110,7 @@ Pub. L. 104–206, title III, Sept. 30, 1996, 110 Stat. 2995, provided in part: 
 
 &emsp;"(1) the preliminary design concept for the critical elements for the repository and waste package;
 
-&emsp;"(2) a total system performance assessment, based upon the design concept and the scientific data and analysis available by September 30, 1998, describing the probable behavior of the repository in the YuccaMountain geological setting relative to the overall system performance standards;
+&emsp;"(2) a total system performance assessment, based upon the design concept and the scientific data and analysis available by September 30, 1998, describing the probable behavior of the repository in the Yucca Mountain geological setting relative to the overall system performance standards;
 
 &emsp;"(3) a plan and cost estimate for the remaining work required to complete a license application; and
 

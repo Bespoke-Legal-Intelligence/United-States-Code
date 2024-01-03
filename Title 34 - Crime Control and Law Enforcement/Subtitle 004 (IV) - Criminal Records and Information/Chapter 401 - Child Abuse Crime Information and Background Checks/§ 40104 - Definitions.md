@@ -12,7 +12,7 @@ For the purposes of this chapter—
 
 &emsp;(5) the term "care" means the provision of care, treatment, education, training, instruction, supervision, or recreation to children, the elderly, or individuals with disabilities;
 
-&emsp;(6) the term "identifiable child abuse crime case" means a case that can be identified bythe authorized criminal justice agency of the State as involving a child abuse crime by reference to the statutory citation or descriptive label of the crime as it appears in the criminal history record;
+&emsp;(6) the term "identifiable child abuse crime case" means a case that can be identified by the authorized criminal justice agency of the State as involving a child abuse crime by reference to the statutory citation or descriptive label of the crime as it appears in the criminal history record;
 
 &emsp;(7) the term "individuals with disabilities" means persons with a mental or physical impairment who require assistance to perform one or more daily living tasks;
 

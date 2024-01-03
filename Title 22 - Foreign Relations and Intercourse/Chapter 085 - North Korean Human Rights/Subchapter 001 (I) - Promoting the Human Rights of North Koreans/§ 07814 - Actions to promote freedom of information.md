@@ -24,7 +24,7 @@
 
 #### (6) Religious minorities
 
-&emsp;Efforts to improve information access under this subsection should include religious communities and should be coordinated with theOffice of International Religious Freedom to ensure maximum impact in improving the rights of religious persons in North Korea.
+&emsp;Efforts to improve information access under this subsection should include religious communities and should be coordinated with the Office of International Religious Freedom to ensure maximum impact in improving the rights of religious persons in North Korea.
 
 #### (7) Broadcasting report
 

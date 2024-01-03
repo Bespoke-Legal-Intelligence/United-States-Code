@@ -10,7 +10,7 @@ Local currencies deposited in an Americas Fund shall not be considered assistanc
 
 #### (c) Investment
 
-Deposits made in an Americas Fund shall be invested until disbursed. Any return on such investment may be retained by the Americas Fund, without deposit in the Treasury of theUnited States and without further appropriation by the Congress.
+Deposits made in an Americas Fund shall be invested until disbursed. Any return on such investment may be retained by the Americas Fund, without deposit in the Treasury of the United States and without further appropriation by the Congress.
 
 #### (d) Disbursements
 

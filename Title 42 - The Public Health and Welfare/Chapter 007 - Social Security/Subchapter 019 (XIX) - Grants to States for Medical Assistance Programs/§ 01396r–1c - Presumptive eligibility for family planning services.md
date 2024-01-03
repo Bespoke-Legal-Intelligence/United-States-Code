@@ -54,7 +54,7 @@ For purposes of this section:
 
 #### (3) Application for medical assistance
 
-&emsp;In the case of an individual described in subsection (a) who is determined by a qualifiedentity to be presumptively eligible for medical assistance under a State plan, the individual shall apply for medical assistance by not later than the last day of the month following the month during which the determination is made.
+&emsp;In the case of an individual described in subsection (a) who is determined by a qualified entity to be presumptively eligible for medical assistance under a State plan, the individual shall apply for medical assistance by not later than the last day of the month following the month during which the determination is made.
 
 #### (d) Payment
 

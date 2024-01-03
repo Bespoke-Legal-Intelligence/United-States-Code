@@ -14,7 +14,7 @@ In general.—The Secretary of Defense shall designate the operations for which 
 
 &emsp;(2)
 
-Notice to congress.—The Secretary shall notify the appropriate committees ofCongress of the designation of any operation pursuant to this subsection.
+Notice to congress.—The Secretary shall notify the appropriate committees of Congress of the designation of any operation pursuant to this subsection.
 
 &emsp;(3)
 
@@ -94,7 +94,7 @@ Limitations on Value.—
 
 Logistic Support, Supplies, and Services Defined.—In this section, the term "logistic support, supplies, and services" has the meaning given that term in section 2350(1) of this title.
 
-(Added Pub. L. 109–364, div. A, title XII, §1201(a), Oct. 17, 2006, 120 Stat. 2410, §127c; renumbered §127d, Pub. L. 110–181, div. A, title X, §1063(a)(1)(A), Jan. 28, 2008, 122 Stat. 321; Pub. L.111–383, div. A, title X, §1075(b)(3), title XII, §1202, Jan. 7, 2011, 124 Stat. 4369, 4385; renumbered §331 and amended Pub. L. 114–328, div. A, title XII, §1245(a), Dec. 23, 2016, 130 Stat. 2518; Pub. L. 115–232, div. A, title XII, §1203(b), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 117–263, div. A, title XII, §1202(a), Dec. 23, 2022, 136 Stat. 2823.)
+(Added Pub. L. 109–364, div. A, title XII, §1201(a), Oct. 17, 2006, 120 Stat. 2410, §127c; renumbered §127d, Pub. L. 110–181, div. A, title X, §1063(a)(1)(A), Jan. 28, 2008, 122 Stat. 321; Pub. L. 111–383, div. A, title X, §1075(b)(3), title XII, §1202, Jan. 7, 2011, 124 Stat. 4369, 4385; renumbered §331 and amended Pub. L. 114–328, div. A, title XII, §1245(a), Dec. 23, 2016, 130 Stat. 2518; Pub. L. 115–232, div. A, title XII, §1203(b), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 117–263, div. A, title XII, §1202(a), Dec. 23, 2022, 136 Stat. 2823.)
 
 #### <b>Editorial Notes</b>
 
@@ -121,4 +121,34 @@ Subsec. (c)(2). Pub. L. 111–383, §1202(b)(2)(B), substituted "The value of th
 Subsec. (d)(1). Pub. L. 111–383, §1075(b)(3), substituted "Committee on Foreign Affairs" for "Committee on International Relations".
 
 <b>2008</b>—Pub. L. 110–181 renumbered section 127c of this title, relating to allied forces participating in combined operations, as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Support for Execution of Bilateral Agreements Concerning Illicit Transnational Maritime Activity in Africa
+
+Pub. L. 118–31, div. A, title XVIII, §1808, Dec. 22, 2023, 137 Stat. 688, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense, in coordination with the Commandant of the Coast Guard, and in consultation with the Secretary of State, may provide assistance to the Coast Guard for the execution of existing maritime law enforcement agreements between the United States and friendly African countries that were established to combat transnational organized illegal maritime activity, including illegal, unreported, and unregulated fishing.
+
+"(b)
+
+Effect on Military Training and Readiness.—The Secretary of Defense shall ensure that the provision of assistance under this section does not negatively affect military training, operations, readiness, or other military requirements.
+
+"(c)
+
+Funds.—If the Secretary of Defense provides assistance under subsection (a) during any fiscal year, the Secretary shall provide such assistance using amounts available for that fiscal year for the Department of Defense for operation and maintenance.
+
+"(d)
+
+Assistance Defined.—In this section, the term 'assistance' means any of the following:
+
+&emsp;"(1) The use of surface and air assets as bases of operations and information collection platforms.
+
+&emsp;"(2) Communication infrastructure.
+
+&emsp;"(3) Information sharing.
+
+&emsp;"(4) The provision of logistic support, supplies, and services (as such term is defined in section 2350 of title 10, United States Code)."
 

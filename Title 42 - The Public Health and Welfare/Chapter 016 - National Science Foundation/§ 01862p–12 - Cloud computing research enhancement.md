@@ -36,7 +36,7 @@ The Director may support a national research agenda in key areas affected by the
 
 #### (c) Report
 
-The Director shall provide an annual report for not less than 5 consecutive years to Congress on the outcomes of National Science Foundation investments in cloud computing research, recommendations for research focus and program improvements, or other related recommendations. The reports, including any interim findings or recommendations, shall be made publiclyavailable on the website of the National Science Foundation.
+The Director shall provide an annual report for not less than 5 consecutive years to Congress on the outcomes of National Science Foundation investments in cloud computing research, recommendations for research focus and program improvements, or other related recommendations. The reports, including any interim findings or recommendations, shall be made publicly available on the website of the National Science Foundation.
 
 #### (d) NIST support
 

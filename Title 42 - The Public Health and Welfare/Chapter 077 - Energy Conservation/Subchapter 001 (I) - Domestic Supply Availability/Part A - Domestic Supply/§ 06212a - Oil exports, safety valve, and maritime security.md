@@ -4,7 +4,7 @@
 
 #### (b) National policy on oil export restriction
 
-Notwithstanding any other provision of law, except as provided in subsections (c) and (d), to promote the efficient exploration, production, storage, supply, marketing, pricing, and regulation of energy resources, including fossil fuels, no official of the Federal Government shall impose or enforce any restriction on the export of crude oil.
+Notwithstanding any other provision of law, except as provided in subsections (c) and (d), topromote the efficient exploration, production, storage, supply, marketing, pricing, and regulation of energy resources, including fossil fuels, no official of the Federal Government shall impose or enforce any restriction on the export of crude oil.
 
 #### (c) Savings clause
 
@@ -28,7 +28,7 @@ Nothing in this section limits the authority of the President under the Constitu
 
 #### (2) Renewal
 
-&emsp;Any requirement or restriction imposed pursuant to subparagraph (A) of paragraph (1)may be renewed for 1 or more additional periods of not more than 1 year each.
+&emsp;Any requirement or restriction imposed pursuant to subparagraph (A) of paragraph (1) may be renewed for 1 or more additional periods of not more than 1 year each.
 
 (Pub. L. 114–113, div. O, title I, §101, Dec. 18, 2015, 129 Stat. 2987.)
 

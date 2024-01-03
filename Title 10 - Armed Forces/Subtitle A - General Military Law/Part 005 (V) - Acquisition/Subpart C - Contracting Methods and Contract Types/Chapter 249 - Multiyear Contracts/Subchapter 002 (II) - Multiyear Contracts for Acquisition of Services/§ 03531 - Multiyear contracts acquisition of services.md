@@ -48,7 +48,7 @@ Restrictions Applicable Generally.—(1) The head of an agency may not initiate 
 
 (3) The head of an agency may not terminate a multiyear procurement contract for services until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
 
-(4) Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the congressional defense committees, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
+(4) Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the congressional defense committees, and such contract may not then beawarded until the end of a period of 30 days beginning on the date of such notification.
 
 (5) In the case of a contract described in subsection (a) with a cancellation ceiling described in paragraph (4), if the budget for the contract does not include proposed funding for the costs of contract cancellation up to the cancellation ceiling established in the contract, the head of the agency concerned shall give written notification to the congressional defense committees of—
 

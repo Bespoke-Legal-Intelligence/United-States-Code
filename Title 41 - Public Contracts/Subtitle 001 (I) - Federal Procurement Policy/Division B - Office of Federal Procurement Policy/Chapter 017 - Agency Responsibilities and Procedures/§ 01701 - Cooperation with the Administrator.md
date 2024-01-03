@@ -44,7 +44,7 @@ Procurements in Labor Surplus Areas
 
 Administrator of General Services
 
-1–201. The Administrator shall coordinate with and advise State and local officials with regard to Federal efforts to encourage procurements in labor surplus areas with the aim of fostering economic development in labor surplus areas.
+1–201. The Administrator shall coordinate with and advise State and local officials with regard to Federalefforts to encourage procurements in labor surplus areas with the aim of fostering economic development in labor surplus areas.
 
 1–202. The Administrator shall establish specific labor surplus area procurement targets for Executive agencies in consultation with the heads of those agencies.
 

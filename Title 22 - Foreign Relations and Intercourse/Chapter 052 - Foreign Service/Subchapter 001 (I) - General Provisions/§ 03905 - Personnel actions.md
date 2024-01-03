@@ -60,7 +60,7 @@ This section shall not be construed to extinguish or lessen any effort to achiev
 
 &emsp;(5) any provision of law, rule, or regulation prohibiting discrimination on the basis of marital status or political affiliation.
 
-(Pub. L. 96–465, title I, §105, Oct. 17, 1980, 94 Stat. 2077; Pub. L. 100–204, title I, §185(a), Dec. 22, 1987,101 Stat. 1365; Pub. L. 101–246, title I, §153(d), Feb. 16, 1990, 104 Stat. 43; Pub. L. 117–263, div. I, title XCII, §9219(2), Dec. 23, 2022, 136 Stat. 3879.)
+(Pub. L. 96–465, title I, §105, Oct. 17, 1980, 94 Stat. 2077; Pub. L. 100–204, title I, §185(a), Dec. 22, 1987, 101 Stat. 1365; Pub. L. 101–246, title I, §153(d), Feb. 16, 1990, 104 Stat. 43; Pub. L. 117–263, div. I, title XCII, §9219(2), Dec. 23, 2022, 136 Stat. 3879.)
 
 #### <b>Editorial Notes</b>
 

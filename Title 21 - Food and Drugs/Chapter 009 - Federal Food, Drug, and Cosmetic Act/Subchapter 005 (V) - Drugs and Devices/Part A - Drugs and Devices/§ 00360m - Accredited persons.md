@@ -38,11 +38,11 @@
 
 &emsp;&emsp;The Secretary shall—
 
-&emsp;&emsp;&emsp;(i) issue draft guidance on the factors the Secretary will use in determining whethera class I or class II device type, or subset of such device types, is eligible for review by an accredited person, including—
+&emsp;&emsp;&emsp;(i) issue draft guidance on the factors the Secretary will use in determining whether a class I or class II device type, or subset of such device types, is eligible for review by an accredited person, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) the risk of the device type, or subset of such device type; and
 
-&emsp;&emsp;&emsp;&emsp;(II) whether the device type, or subset of such device type, is permanently implantable, life sustaining, or life supporting, and whether there is a detailed public health justification for permitting the review by an accredited person of such device type or subset;
+&emsp;&emsp;&emsp;&emsp;(II) whether the device type, or subset of such device type, is permanently implantable, life sustaining, or life supporting, and whether there is a detailedpublic health justification for permitting the review by an accredited person of such device type or subset;
 
 &emsp;&emsp;&emsp;(ii) not later than 24 months after the date on which the Secretary issues such draft guidance, finalize such guidance; and
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;(iv) promptly respond and attempt to resolve complaints regarding its activities for which it is accredited; and
 
-&emsp;&emsp;&emsp;(v) protect against the use, in carrying out subsection (a) with respect to a device, of any officer or employee of the person who has a financial conflict of interest regarding the device, and annually make available to the public disclosures of the extent to which the person, and the officers and employees of the person, have maintained compliance with requirementsunder this clause relating to financial conflicts of interest.
+&emsp;&emsp;&emsp;(v) protect against the use, in carrying out subsection (a) with respect to a device, of any officer or employee of the person who has a financial conflict of interest regarding the device, and annually make available to the public disclosures of the extent to which the person, and the officers and employees of the person, have maintained compliance with requirements under this clause relating to financial conflicts of interest.
 
 #### (4) Selection of accredited persons
 
@@ -206,7 +206,7 @@ Comptroller general.—
 
 &emsp;"(A)
 
-Implementation of program.—Not later than 5 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Comptroller General of the United States shall submit to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate a report describing the extent to which the program of accreditation required by the amendment made by subsection (a) \[enacting this section\] has been implemented.
+Implementation of program.—Not later than 5 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Comptroller General of the UnitedStates shall submit to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate a report describing the extent to which the program of accreditation required by the amendment made by subsection (a) \[enacting this section\] has been implemented.
 
 &emsp;"(B)
 

@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;Any foreign vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) imported or possessed in connection with or as <sup>2</sup> result of the commission of any act prohibited by section 7406 of thistitle shall be subject to forfeiture under section 1860 of this title.
+&emsp;Any foreign vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) imported or possessed in connection with or as <sup>2</sup> result of the commission of any act prohibited by section 7406 of this title shall be subject to forfeiture under section 1860 of this title.
 
 #### (2) Application of the customs laws
 

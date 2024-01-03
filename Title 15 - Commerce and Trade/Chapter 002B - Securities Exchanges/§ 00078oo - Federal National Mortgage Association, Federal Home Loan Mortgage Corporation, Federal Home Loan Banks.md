@@ -24,7 +24,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Federal National Mortgage Association
 
-&emsp;The term "Federal National Mortgage Association" means the corporation created by theFederal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\].
+&emsp;The term "Federal National Mortgage Association" means the corporation created by the Federal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\].
 
 #### (3) Federal Home Loan Mortgage Corporation
 

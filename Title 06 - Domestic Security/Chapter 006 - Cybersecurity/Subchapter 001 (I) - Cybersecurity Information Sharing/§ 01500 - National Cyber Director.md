@@ -8,7 +8,7 @@ There is established, within the Executive Office of the President, the Office o
 
 #### (1) In general
 
-&emsp;The Office shall be headed by the National Cyber Director (in this section referred to as the "Director") who shall be appointed by the President, by and with the advice and consent of the Senate.
+&emsp;The Office shall be headed by the National Cyber Director (in this section referred to asthe "Director") who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (2) Position
 
@@ -138,7 +138,7 @@ Nothing in this section may be construed as—
 
 &emsp;(1) modifying any authority or responsibility, including any operational authority or responsibility of any head of a Federal department or agency;
 
-&emsp;(2) authorizing the Director or any person acting under the authority of the Director to interfere with or to direct a criminal or national security investigation, arrest, search, seizure, or disruption operation;
+&emsp;(2) authorizing the Director or any person acting under the authority of the Director tointerfere with or to direct a criminal or national security investigation, arrest, search, seizure, or disruption operation;
 
 &emsp;(3) amending a legal restriction that was in effect on the day before January 1, 2021 that requires a law enforcement agency to keep confidential information learned in the course of a criminal or national security investigation;
 

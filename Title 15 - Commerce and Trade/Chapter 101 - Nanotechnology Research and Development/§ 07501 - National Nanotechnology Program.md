@@ -2,7 +2,7 @@
 
 #### (a) National Nanotechnology Program
 
-The President shall implement a National Nanotechnology Program. Through appropriateagencies, councils, and the National Nanotechnology Coordination Office established in section 7502 of this title, the Program shall—
+The President shall implement a National Nanotechnology Program. Through appropriate agencies, councils, and the National Nanotechnology Coordination Office established in section 7502 of this title, the Program shall—
 
 &emsp;(1) establish the goals, priorities, and metrics for evaluation for Federal nanotechnology research, development, and other activities;
 
@@ -130,7 +130,7 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 #### Short Title
 
-Pub. L. 108–153, §1, Dec. 3, 2003, 117 Stat. 1923, provided that: "This Act \[enacting this chapter\] may be cited as the '21st Century Nanotechnology Research and Development Act'."
+Pub. L. 108–153, §1, Dec. 3, 2003, 117 Stat. 1923, provided that: "This Act \[enacting this chapter\] may be cited asthe '21st Century Nanotechnology Research and Development Act'."
 
 <i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

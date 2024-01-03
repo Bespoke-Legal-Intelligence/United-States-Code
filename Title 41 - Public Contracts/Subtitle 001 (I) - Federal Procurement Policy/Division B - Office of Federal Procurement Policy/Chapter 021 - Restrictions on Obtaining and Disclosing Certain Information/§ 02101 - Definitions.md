@@ -56,7 +56,7 @@ Source selection information.—The term "source selection information" means an
 
 &emsp;&emsp;(F) Cost or price evaluations of proposals.
 
-&emsp;&emsp;(G) Competitive range determinations that identify proposals that have a reasonable chance of being selected for award of a contract.
+&emsp;&emsp;(G) Competitive range determinations that identify proposals that have a reasonablechance of being selected for award of a contract.
 
 &emsp;&emsp;(H) Rankings of bids, proposals, or competitors.
 

@@ -22,7 +22,7 @@ The General Counsel shall be appointed by the Chief of the Capitol Police in acc
 
 #### (5) No effect on current General Counsel
 
-Nothing in this section or the amendments made by this section may be construed to affectthe status of the individual serving as the General Counsel to the Chief of Police and the United States Capitol Police as of March 4, 2010.
+Nothing in this section or the amendments made by this section may be construed to affect the status of the individual serving as the General Counsel to the Chief of Police and the United States Capitol Police as of March 4, 2010.
 
 (Pub. L. 111–145, §3(a), Mar. 4, 2010, 124 Stat. 51.)
 
@@ -36,7 +36,7 @@ For the amendments made by this section, referred to in par. (5), see Codificati
 
 #### Codification
 
-Section is comprised of subsec. (a) of section 3 of Pub. L. 111–145. Subsec. (a)(4) of section 3 of Pub. L. 111–145 repealed section 84–2 of this title, now section 5521 of this title, and provisions set out as a note under section 1901 of this title.
+Section is comprised of subsec. (a) of section 3 of Pub. L. 111–145. Subsec. (a)(4) of section 3 of Pub. L. 111–145 repealed section 84–2 of this title, now section 5521 ofthis title, and provisions set out as a note under section 1901 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

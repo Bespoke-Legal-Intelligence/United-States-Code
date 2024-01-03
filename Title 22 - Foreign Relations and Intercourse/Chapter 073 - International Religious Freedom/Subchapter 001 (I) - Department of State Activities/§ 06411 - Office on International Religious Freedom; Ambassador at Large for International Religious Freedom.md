@@ -6,7 +6,7 @@ There is established within the Department of State an Office on International R
 
 #### (b) Appointment
 
-The Ambassador at Large shall be appointed by the President, by and with the advice and consent of the Senate, and shall report directly to the Secretary of State.
+The Ambassador at Large shall be appointed by the President, by and with the advice andconsent of the Senate, and shall report directly to the Secretary of State.
 
 #### (c) Duties
 
@@ -24,7 +24,7 @@ The Ambassador at Large shall have the following responsibilities:
 
 &emsp;The Ambassador at Large shall be a principal adviser to the President and the principal adviser to the Secretary of State regarding matters affecting religious freedom abroad and, with advice from the Commission on International Religious Freedom, shall make recommendations regarding—
 
-&emsp;&emsp;(A) the policies of the United States Government toward governments that violatefreedom of religion or that fail to ensure the individual's right to religious belief and practice; and
+&emsp;&emsp;(A) the policies of the United States Government toward governments that violate freedom of religion or that fail to ensure the individual's right to religious belief and practice; and
 
 &emsp;&emsp;(B) policies to advance the right to religious freedom abroad.
 

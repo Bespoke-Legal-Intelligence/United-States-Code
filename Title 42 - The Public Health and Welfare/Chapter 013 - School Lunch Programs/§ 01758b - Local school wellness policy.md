@@ -70,7 +70,7 @@ The local educational agency shall use the guidelines promulgated by the Secreta
 
 #### (C) Report
 
-&emsp;&emsp;Not later than January 1, 2014, the Secretary shall submit to the Committee onEducation and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the findings of the study.
+&emsp;&emsp;Not later than January 1, 2014, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the findings of the study.
 
 #### (D) Authorization of appropriations
 
@@ -85,6 +85,10 @@ The local educational agency shall use the guidelines promulgated by the Secreta
 The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date
 

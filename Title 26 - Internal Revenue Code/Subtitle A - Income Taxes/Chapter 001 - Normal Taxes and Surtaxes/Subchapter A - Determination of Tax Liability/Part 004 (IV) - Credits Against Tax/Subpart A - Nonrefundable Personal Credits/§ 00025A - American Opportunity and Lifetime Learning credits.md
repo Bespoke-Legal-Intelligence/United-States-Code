@@ -34,7 +34,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 #### (D) Denial of credit if student convicted of a felony drug offense
 
-&emsp;&emsp;The American Opportunity Tax Credit under subsection (a)(1) shall not be allowed for qualified tuition and related expenses for the enrollment or attendance of a student for any academic period if such student has been convicted of a Federal or State felony offense consisting of the possession or distribution of a controlled substance before the end of the taxable year with or within which such period ends.
+&emsp;&emsp;The American Opportunity Tax Credit under subsection (a)(1) shall not be allowed for qualified tuition and related expenses for the enrollment or attendance of a studentfor any academic period if such student has been convicted of a Federal or State felony offense consisting of the possession or distribution of a controlled substance before the end of the taxable year with or within which such period ends.
 
 #### (3) Eligible student
 
@@ -206,7 +206,7 @@ For purposes of this section—
 
 #### (i) Portion of American Opportunity Tax Credit made refundable
 
-Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph <sup>2</sup> and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer isa child to whom subsection (g) of section 1 applies for such taxable year.
+Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph <sup>2</sup> and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
 
 #### (j) Regulations
 
@@ -294,7 +294,7 @@ Subsec. (i)(5)(B). Pub. L. 111–148, §10909(b)(2)(C), (c), as amended by Pub. 
 
 "(1)
 
-In general.—No credit shall be allowed under subsection (a) for a taxable year with respect to thequalified tuition and related expenses of an individual unless the taxpayer elects to have this section apply with respect to such individual for such year.
+In general.—No credit shall be allowed under subsection (a) for a taxable year with respect to the qualified tuition and related expenses of an individual unless the taxpayer elects to have this section apply with respect to such individual for such year.
 
 "(2)
 
@@ -374,7 +374,7 @@ Lifetime learning credit.—Section 25A(a)(2) of the Internal Revenue Code of 19
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 401(b)(1) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by section 401(b)(1) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credittaken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Treatment of Possessions
 
@@ -386,7 +386,7 @@ Payments to possessions.—
 
 &emsp;"(A)
 
-Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) \[now 25A(i)\] of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning after 2008.Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
+Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) \[now 25A(i)\] of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning after 2008. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
 
 &emsp;"(B)
 

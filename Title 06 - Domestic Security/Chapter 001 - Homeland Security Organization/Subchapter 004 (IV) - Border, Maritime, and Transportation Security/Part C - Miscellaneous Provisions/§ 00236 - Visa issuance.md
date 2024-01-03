@@ -118,7 +118,7 @@ Notwithstanding section 104(a) of the Immigration and Nationality Act (8 U.S.C. 
 
 &emsp;This subsection shall take effect on the earlier of—
 
-&emsp;&emsp;(A) the date on which the President publishes notice in the Federal Register thatthe President has submitted a report to Congress setting forth a memorandum of understanding between the Secretary and the Secretary of State governing the implementation of this section; or
+&emsp;&emsp;(A) the date on which the President publishes notice in the Federal Register that the President has submitted a report to Congress setting forth a memorandum of understanding between the Secretary and the Secretary of State governing the implementation of this section; or
 
 &emsp;&emsp;(B) the date occurring 1 year after November 25, 2002.
 
@@ -172,7 +172,7 @@ References to National Foreign Affairs Training Center considered to refer to Ge
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

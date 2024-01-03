@@ -8,7 +8,7 @@
 
 #### (A) Mutual assistance in law enforcement
 
-&emsp;&emsp;The law enforcement agencies of the United States and the Marshall Islands shall assist one another, as mutually agreed, in the prevention and investigation of crimes and the enforcement of the laws of the United States and the Marshall Islands specified in subparagraph (C) of this paragraph. The United States and the Marshall Islands will authorize mutual assistance with respect to investigations, inquiries, audits and related activities by the law enforcement agencies of both Governments in the United States and the Marshall Islands. In conducting activities authorized in accordance with this section, the United States and the Marshall Islands will act in accordance with the constitution and laws of the jurisdiction in which such activities are conducted.
+&emsp;&emsp;The law enforcement agencies of the United States and the Marshall Islands shall assist one another, as mutually agreed, in the prevention and investigation of crimes and the enforcement of the laws of the United States and the Marshall Islands specified in subparagraph (C) of this paragraph. The United States and the Marshall Islands will authorize mutual assistance with respect to investigations, inquiries, audits and related activities by the law enforcement agencies of both Governments in the United States and the Marshall Islands. In conducting activities authorized in accordancewith this section, the United States and the Marshall Islands will act in accordance with the constitution and laws of the jurisdiction in which such activities are conducted.
 
 #### (B) Narcotics and control of illegal substances
 
@@ -56,7 +56,7 @@
 
 (1) The President of the United States shall negotiate with the Government of the Marshall Islands an agreement whereby, without prejudice as to any claims which have been or may be asserted by any party as to rightful title and ownership of any lands on Ejit, the Government of the Marshall Islands shall assure that lands on Ejit used as of January 1, 1985, by the people of Bikini, will continue to be available without charge for their use, until such time as Bikini is restored and inhabitable and the continued use of Ejit is no longer necessary, unless a Marshall Islands court of competent jurisdiction finally determines that there are legal impediments to continued use of Ejit by the people of Bikini.
 
-(2) If the impediments described in paragraph (1) do arise, the United States will cooperate with the Government of the Marshall Islands in assisting any person adversely affected by such judicial determination to remain on Ejit, or in locating suitable and acceptable alternative lands for such person's use.
+(2) If the impediments described in paragraph (1) do arise, the United States will cooperatewith the Government of the Marshall Islands in assisting any person adversely affected by such judicial determination to remain on Ejit, or in locating suitable and acceptable alternative lands for such person's use.
 
 (3) Paragraph (1) shall not be applied in a manner which would prevent the Government of the Marshall Islands from acting in accordance with its constitutional processes to resolve title and ownership claims with respect to such lands or from taking substitute or additional measures to meet the needs of the people of Bikini with their democratically expressed consent and approval.
 
@@ -88,11 +88,11 @@
 
 #### (f) Nuclear test effects
 
-In approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weapons testing program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak),<sup>2</sup> $37,500,000 (Rongelap); and $22,500,000 (Utrik), respectively, which amounts shall be paid out of proceeds from the fund established under Article I, section 1 of the subsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
+In approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weapons testing program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak),<sup>2</sup> $37,500,000 (Rongelap); and $22,500,000 (Utrik), respectively, which amounts shall be paid out of proceeds from the fund established under Article I, section 1 of thesubsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
 
 #### (g) Espousal provisions
 
-(1) It is the intention of the Congress of the United States that the provisions of section 177 of the Compact of Free Association and the Agreement between the Government of the United States and the Government of the Marshall Islands for the Implementation of Section177 of the Compact (hereafter in this subsection referred to as the "Section 177 Agreement") constitute a full and final settlement of all claims described in Articles X and XI of the Section 177 Agreement, and that any such claims be terminated and barred except insofar as provided for in the Section 177 Agreement.
+(1) It is the intention of the Congress of the United States that the provisions of section 177 of the Compact of Free Association and the Agreement between the Government of the United States and the Government of the Marshall Islands for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the "Section 177 Agreement") constitute a full and final settlement of all claims described in Articles X and XI of the Section 177 Agreement, and that any such claims be terminated and barred except insofar as provided for in the Section 177 Agreement.
 
 (2) In furtherance of the intention of Congress as stated in paragraph (1) of this subsection, the Section 177 Agreement is hereby ratified and approved. It is the explicit understanding and intent of Congress that the jurisdictional limitations set forth in Article XII of such Agreement are enacted solely and exclusively to accomplish the objective of Article X of such Agreement and only as a clarification of the effect of Article X, and are not to be construed or implemented separately from Article X.
 
@@ -152,7 +152,7 @@ Notwithstanding any other provision of law, the Secretary of the Treasury shall 
 
 #### (4) Resettlement of other location
 
-&emsp;In the event that the United States determines that within 25 years of January 14, 1986, the people of Enjebi cannot resettle Enjebi without exceeding the radiation standards set forth in paragraph (2) of this subsection, then the fund manager shall be directed by the trust instrument to distribute the Fund to the people of Enjebi for their resettlement at some other location in accordance with a plan, developed by the Enewetak Local Government Council and the people of Enjebi and concurred with by the Government of the Marshall Islands, to assure consistency with the government's overall economic development plan.
+&emsp;In the event that the United States determines that within 25 years of January 14, 1986,the people of Enjebi cannot resettle Enjebi without exceeding the radiation standards set forth in paragraph (2) of this subsection, then the fund manager shall be directed by the trust instrument to distribute the Fund to the people of Enjebi for their resettlement at some other location in accordance with a plan, developed by the Enewetak Local Government Council and the people of Enjebi and concurred with by the Government of the Marshall Islands, to assure consistency with the government's overall economic development plan.
 
 #### (5) Interest from Fund
 
@@ -216,7 +216,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 #### (6) Cooperation by Marshall Islands
 
-&emsp;The Government of the Marshall Islands will cooperate fully with the Comptroller Generalof the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
+&emsp;The Government of the Marshall Islands will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
 (Pub. L. 99–239, title I, §103, Jan. 14, 1986, 99 Stat. 1778; Pub. L. 100–446, title I, §115, Sept. 27, 1988, 102 Stat. 1802; Pub. L. 102–247, title III, §304, Feb. 24, 1992, 106 Stat. 39; Pub. L. 105–209, §2, July 29, 1998, 112 Stat. 880.)
 
@@ -276,7 +276,7 @@ Pub. L. 95–134, title I, §106, as added by Pub. L. 96–205, title I, §102, 
 
 &emsp;"(1) an integrated, comprehensive health care program including primary, secondary, and tertiary care with special emphasis upon the biological effects of ionizing radiation;
 
-&emsp;"(2) a schedule for the periodic comprehensive survey and analysis of the radiological status of the atolls to and at appropriate intervals, but not less frequently than once every five years, the development of an updated radiation dose assessment, together with an estimate of the risks associated with the predicted human exposure, for each such atoll; and
+&emsp;"(2) a schedule for the periodic comprehensive survey and analysis of the radiological status of theatolls to and at appropriate intervals, but not less frequently than once every five years, the development of an updated radiation dose assessment, together with an estimate of the risks associated with the predicted human exposure, for each such atoll; and
 
 &emsp;"(3) an education and information program to enable the people of such atolls to more fully understand nuclear radiation and its effects;
 

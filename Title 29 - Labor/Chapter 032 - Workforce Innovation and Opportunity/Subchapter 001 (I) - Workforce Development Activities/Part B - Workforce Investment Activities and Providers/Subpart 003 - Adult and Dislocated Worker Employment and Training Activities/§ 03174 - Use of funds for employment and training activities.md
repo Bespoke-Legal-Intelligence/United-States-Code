@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(V) performance information and information on the cost of attendance (including tuition and fees) for participants in applicable programs, as described in subsections (d) and (h) of section 3152 of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(VI) information on physical and programmatic accessibility, in accordance with section 3248 of this title, if applicable, and the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), for individuals with disabilities; and
+&emsp;&emsp;&emsp;&emsp;(VI) information on physical and programmatic accessibility, in accordance with section 3248 of this title, if applicable, and the Americans with DisabilitiesAct of 1990 (42 U.S.C. 12101 et seq.), for individuals with disabilities; and
 
 &emsp;&emsp;&emsp;(vi) conducting evaluations under section 3141(e) of this title of activities authorized under this subpart and subpart 2 in coordination with evaluations carried out by the Secretary under section 3224(a) of this title.
 
@@ -190,7 +190,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;&emsp;(II) appropriate recruitment and other business services on behalf of employers, including small employers, in the local area, which services may include services described in this subsection, such as providing information and referral to specialized business services not traditionally offered through the one-stop delivery system;
 
-&emsp;&emsp;&emsp;(v) provision of referrals to and coordination of activities with other programs and services, including programs and services within the one-stop delivery system and, in appropriate cases, other workforce development programs;
+&emsp;&emsp;&emsp;(v) provision of referrals to and coordination of activities with other programs andservices, including programs and services within the one-stop delivery system and, in appropriate cases, other workforce development programs;
 
 &emsp;&emsp;&emsp;(vi) provision of workforce and labor market employment statistics information, including the provision of accurate information relating to local, regional, and national labor market areas, including—
 
@@ -396,7 +396,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (i) Reimbursement level
 
-&emsp;&emsp;&emsp;For purposes of the provision of on-the-job training under this paragraph, the Governor or local board involved may increase the amount of the reimbursement described in section 3102(44) of this title to an amount of up to 75 percent of the wage rate of a participant for a program carried out under subpart 2 or this subpart, if, respectively—
+&emsp;&emsp;&emsp;For purposes of the provision of on-the-job training under this paragraph, the Governor or local board involved may increase the amount of the reimbursement described in section 3102(44) of this title to an amount of up to 75 percent of the wagerate of a participant for a program carried out under subpart 2 or this subpart, if, respectively—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Governor approves the increase with respect to a program carried out with funds reserved by the State under that subpart, taking into account the factors described in clause (ii); or
 
@@ -580,7 +580,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 This Act, referred to in subsecs. (a)(2)(B)(i)(I) and (c)(2)(A)(xi), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(2)(B)(v)(VI), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(2)(B)(v)(VI), is Pub. L. 101–336, July 26,1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsecs. (a)(3)(A)(viii)(II)(aa), (c)(2)(A)(ix)(I), and (d)(1)(A)(vi)(I), (II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A and D of title IV of the Act are classified generally to parts A (§601 et seq.) and D (§651 et seq.), respectively, of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

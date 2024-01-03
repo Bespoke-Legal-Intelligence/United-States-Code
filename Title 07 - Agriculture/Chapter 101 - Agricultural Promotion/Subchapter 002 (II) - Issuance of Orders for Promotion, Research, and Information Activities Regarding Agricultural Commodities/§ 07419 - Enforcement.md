@@ -50,7 +50,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (3) Standard of review
 
-&emsp;A finding of the Secretary under this section shall be set aside only if the finding is foundto be unsupported by substantial evidence on the record.
+&emsp;A finding of the Secretary under this section shall be set aside only if the finding is found to be unsupported by substantial evidence on the record.
 
 #### (e) Failure to obey cease-and-desist orders
 

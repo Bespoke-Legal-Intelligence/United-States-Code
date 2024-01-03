@@ -6,7 +6,7 @@
 
 &emsp;(2) Examine the state of the dockets of the courts; secure information as to the courts' need of assistance; prepare and transmit semiannually to the chief judges of the circuits, statistical data and reports as to the business of the courts;
 
-&emsp;(3) Submit to the annual meeting of the Judicial Conference of the United States, at leasttwo weeks prior thereto, a report of the activities of the Administrative Office and the state of the business of the courts, together with the statistical data submitted to the chief judges of the circuits under paragraph (a)(2) of this section, and the Director's recommendations, which report, data and recommendations shall be public documents.
+&emsp;(3) Submit to the annual meeting of the Judicial Conference of the United States, at least two weeks prior thereto, a report of the activities of the Administrative Office and the state of the business of the courts, together with the statistical data submitted to the chief judges of the circuits under paragraph (a)(2) of this section, and the Director's recommendations, which report, data and recommendations shall be public documents.
 
 &emsp;(4) Submit to Congress and the Attorney General copies of the report, data and recommendations required by paragraph (a)(3) of this section;
 
@@ -38,7 +38,7 @@
 
 &emsp;(18) Establish procedures and mechanisms within the judicial branch for processing fines, restitution, forfeitures of bail bonds or collateral, and assessments;
 
-&emsp;(19) Regulate and pay annuities to bankruptcy judges and United States magistratejudges in accordance with section 377 of this title and paragraphs (1)(B) and (2) of section 2(c) of the Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988;
+&emsp;(19) Regulate and pay annuities to bankruptcy judges and United States magistrate judges in accordance with section 377 of this title and paragraphs (1)(B) and (2) of section 2(c) of the Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988;
 
 &emsp;(20) Periodically compile—
 
@@ -92,7 +92,7 @@
 
 &emsp;(A) to enter into contracts for the acquisition of severable services for a period that begins in one fiscal year and ends in the next fiscal year to the same extent as the head of an executive agency under the authority of section 253l <sup>2</sup> of title 41, United States Code;
 
-&emsp;(B) to enter into contracts for multiple years for the acquisition of property and services to the same extent as executive agenciesunder the authority of section 254c <sup>2</sup> of title 41, United States Code; and
+&emsp;(B) to enter into contracts for multiple years for the acquisition of property and services to the same extent as executive agencies under the authority of section 254c <sup>2</sup> of title 41, United States Code; and
 
 &emsp;(C) to make advance, partial, progress or other payments under contracts for property or services to the same extent as executive agencies under the authority of section 255 <sup>2</sup> of title 41, United States Code.
 
@@ -210,7 +210,7 @@ As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 304, 3
 
 Section 2(c) of the Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988, referred to in subsec. (a)(19), is section 2(c) of Pub. L. 100–659, Nov. 15, 1988, 102 Stat. 3916, which is set out as a note under section 377 of this title.
 
-Section 253l of title 41, United States Code, referred to in subsec. (g)(4)(A), probably means section 303L of act June 30, 1949, ch. 288, which was classified to section 253l of former Title 41, Public Contracts, and was repealed and restated as section 3902 of Title 41, PublicContracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
+Section 253l of title 41, United States Code, referred to in subsec. (g)(4)(A), probably means section 303L of act June 30, 1949, ch. 288, which was classified to section 253l of former Title 41, Public Contracts, and was repealed and restated as section 3902 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
 Section 254c of title 41, United States Code, referred to in subsec. (g)(4)(B), probably means section 304B of act June 30, 1949, ch. 288, which was classified to section 254c of former Title 41, Public Contracts, and was repealed and restated as section 3903 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
@@ -504,7 +504,7 @@ Provision effective first day of first pay period which begins on or after July 
 
 <b>1965</b>—Pub. L. 89–301, §12(b), Oct. 29, 1965, 79 Stat. 1122, provided that: "The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by section 2(a) of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\]."
 
-<b>1964</b>—Pub. L. 88–426, title IV, §402(b), Aug. 14, 1964, 78 Stat. 433, provided that: "The limitation provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by the title I of this Act incorresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\]."
+<b>1964</b>—Pub. L. 88–426, title IV, §402(b), Aug. 14, 1964, 78 Stat. 433, provided that: "The limitation provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by the title I of this Act in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\]."
 
 <b>1962</b>—Pub. L. 87–793, title VI, §1004(b), Oct. 11, 1962, 76 Stat. 866, provided that: "The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by two amounts, the first amount to be effective for the period beginning as of the first day of the first pay period which begins on or after the date of enactment of this Act \[Oct. 11, 1962\], and ending immediately prior to the first day of the first pay period which begins on or after January 1, 1964, and the second amount to be effective on the first day of the first pay period which begins on or after January 1, 1964, and thereafter, which reflect the respective applicable increases provided by title II of this part in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\]."
 
@@ -514,7 +514,7 @@ Words "this part", referred to above, means Part B of Pub. L. 86–568, which en
 
 <b>1958</b>—Pub. L. 85–462, §3(b), June 20, 1958, 72 Stat. 207, provided that: "The limitations of $13,485 and $18,010 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the paragraph designated "Salaries of supporting personnel" in the Judiciary Appropriation Act, 1958 (71 Stat. 65; Public Law 85–49), or any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act."
 
-<b>1955</b>—Act June 28, 1955, ch. 189, §3(b), 69 Stat. 175, provided that: "The limitations of $10,560 and $14,355 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the paragraph under the heading '
+<b>1955</b>—Act June 28, 1955, ch. 189, §3(b), 69 Stat. 175, provided that: "The limitations of $10,560 and $14,355 withrespect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the paragraph under the heading '
 
 salaries of supporting personnel' in the Judiciary Appropriation Act, 1955 (Public Law 470, Eighty-third Congress), or in any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act."
 

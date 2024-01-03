@@ -26,7 +26,7 @@
 
 &emsp;(i) A cadet under this section at a military junior college.
 
-&emsp;(ii) A cadet or former cadet under this section who is selected under section 2114 of this title to be a medical student at the Uniformed Services University of the Health Sciences.
+&emsp;(ii) A cadet or former cadet under this section who is selected under section 2114 of thistitle to be a medical student at the Uniformed Services University of the Health Sciences.
 
 &emsp;(iii) A cadet or former cadet under this section who signs an agreement under section 2122 of this title for participation in the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
@@ -138,5 +138,5 @@ Paragraph (3) of subsec. (c) of this section, as in effect on the day before Jan
 
 #### Benefits Not To Accrue for Periods Prior to September 23, 1996
 
-No increase in pay or retired or retainer pay to accrue for periods before Sept. 23, 1996, by reason of amendments made by section 507 of Pub. L. 104–201, seesection 507(c) of Pub. L. 104–201, set out as a note under section 2106 of this title.
+No increase in pay or retired or retainer pay to accrue for periods before Sept. 23, 1996, by reason of amendments made by section 507 of Pub. L. 104–201, see section 507(c) of Pub. L. 104–201, set out as a note under section 2106 of this title.
 

@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 108–203, §211(a)(3), added subsec. (c). See Codification
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–778 changed provisions which required an individual to have one quarter of coverage for each two quarters to provide that an individual is fully insured if he has not less than one quarter of coverage for each three quarters elapsing after Dec. 31, 1950, or, if later, December 31 of the year in which he attained the age of 21 years, and inserted provisions defining fully insured in the case of an individual who died prior to 1951 as one who had six quarters of coverage.
 
-<b>1958</b>—Subsec. (b). Pub. L. 85–840 included within definition of "currently insured individual" an individualentitled to disability insurance benefits who has not less than six quarters of coverage during the thirteen-quarter period ending with the quarter in which he most recently became entitled to disability insurance benefits.
+<b>1958</b>—Subsec. (b). Pub. L. 85–840 included within definition of "currently insured individual" an individual entitled to disability insurance benefits who has not less than six quarters of coverage during the thirteen-quarter period ending with the quarter in which he most recently became entitled to disability insurance benefits.
 
 <b>1956</b>—Subsec. (a)(3). Act Aug. 1, 1956, provided that an individual who had at least six quarters of coverage after 1954 would be fully insured if all but four of the quarters elapsing after 1954 and prior to July 1, 1957, or if later, the quarter in which he attained retirement age or died, whichever first occurred, are quarters of coverage.
 
@@ -84,7 +84,7 @@ Pub. L. 92–603, title I, §104(j), Oct. 30, 1972, 86 Stat. 1341, provided that
 
 "(3)(A) In the case of a man who attains or will attain age 62 in 1973, the figure '65' in sections 214(a)(1), 223(c)(1)(A), and 216(i)(3)(A) of the Social Security Act \[42 U.S.C. 414(a)(1), 423(c)(1)(A), 416(i)(3)(A)\] shall be deemed to read '64'.
 
-"(B) In the case of a man who attains or will attain age 62 in 1974, the figure '65' in sections 214(a)(1), 223(c)(1)(A), and 216(i)(3)(A) of the Social Security Act shall be deemed to read '63'."
+"(B) In the case of a man who attains or will attain age 62 in 1974, the figure '65' in sections 214(a)(1),223(c)(1)(A), and 216(i)(3)(A) of the Social Security Act shall be deemed to read '63'."
 
 #### Effective Date of 1961 Amendment
 
@@ -118,7 +118,7 @@ Pub. L. 98–21, title I, §102(e), Apr. 20, 1983, 97 Stat. 71, as amended by Pu
 
 "(1) If any individual—
 
-&emsp;"(A) on January 1, 1984, is age 55 or over, and is an employee of an organization described in section 210(a)(8)(B) of the Social Security Act \[42 U.S.C. 410(a)(8)(B)\] (A) which does not have in effect (on that date) a waiver certificate under section 3121(k) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[26 U.S.C. 3121(k)\] and (B) to the employees of which social security coverage is extended on January 1,1984, solely by reason of the enactment of this section \[amending section 410 of this title and section 3121 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 3121 of Title 26\], and
+&emsp;"(A) on January 1, 1984, is age 55 or over, and is an employee of an organization described in section 210(a)(8)(B) of the Social Security Act \[42 U.S.C. 410(a)(8)(B)\] (A) which does not have in effect (on that date) a waiver certificate under section 3121(k) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[26 U.S.C. 3121(k)\] and (B) to the employees of which social security coverage is extended on January 1, 1984, solely by reason of the enactment of this section \[amending section 410 of this title and section 3121 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 3121 of Title 26\], and
 
 &emsp;"(B) after December 31, 1983, acquires the number of quarters of coverage (within the meaning of section 213 of the Social Security Act \[42 U.S.C. 413\]) which is required for purposes of this subparagraph under paragraph (2),
 

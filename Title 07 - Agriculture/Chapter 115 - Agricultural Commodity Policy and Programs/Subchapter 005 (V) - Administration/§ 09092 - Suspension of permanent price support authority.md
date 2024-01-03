@@ -60,3 +60,17 @@ The joint resolution relating to corn and wheat marketing quotas under the Agric
 
 <b>2018</b>—Pub. L. 115–334 substituted "2023" for "2018" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Suspension of Permanent Price Support Authorities
+
+Pub. L. 118–22, div. B, title I, §102(c)(4), Nov. 17, 2023, 137 Stat. 116, provided that: "The provisions of law specified in—
+
+&emsp;"(A) subsections (a) and (b) of section 1602 of the Agricultural Act of 2014 (7 U.S.C. 9092)—
+
+&emsp;&emsp;"(i) shall not be applicable to the 2024 crops of covered commodities (as defined in section 1111 of that Act (7 U.S.C. 9011)), cotton, and sugar; and
+
+&emsp;&emsp;"(ii) shall not be applicable to milk through December 31, 2024; and
+
+&emsp;"(B) section 1602(c) of that Act (7 U.S.C. 9092(c)) shall not be applicable to the crops of wheat planted for harvest in calendar year 2024."
+

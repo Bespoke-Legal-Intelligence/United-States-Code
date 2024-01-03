@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) Middle East terrorism accounted for 60 percent of total international terrorism in 1985;
 
-&emsp;(2) the Palestine Liberation Organization (hereafter in this chapter referred to as the "PLO") was directly responsible for the murder of an American citizen on the Achille Lauro cruise liner in 1985, and a member of the PLO's Executive Committee is under indictment in the United States for the murder of that American citizen;
+&emsp;(2) the Palestine Liberation Organization (hereafter in this chapter referred to as the "PLO") was directly responsible for the murder of an American citizen on the AchilleLauro cruise liner in 1985, and a member of the PLO's Executive Committee is under indictment in the United States for the murder of that American citizen;
 
 &emsp;(3) the head of the PLO has been implicated in the murder of a United States Ambassador overseas;
 

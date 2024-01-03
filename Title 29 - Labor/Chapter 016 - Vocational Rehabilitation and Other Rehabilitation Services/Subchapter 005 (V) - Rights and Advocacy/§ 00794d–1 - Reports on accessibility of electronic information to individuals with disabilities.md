@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(ii) be accessible to and usable by individuals with disabilities as determined from consultation with individuals with disabilities, including those with visual, auditory, tactile, and cognitive disabilities, or members of any disability organization; and
 
-&emsp;(B) provide guidance to agencies regarding the types and format of data and informationto be submitted to the Director and the Administrator pursuant to paragraph (3), including how to submit such data and information, the metrics by which compliance will be assessed in the reports required in subsection (b), and any other directions necessary for agencies to demonstrate compliance with accessibility standards for electronic and information technology procured and in use within an agency, as required by such section 794d of this title.
+&emsp;(B) provide guidance to agencies regarding the types and format of data and information to be submitted to the Director and the Administrator pursuant to paragraph (3), including how to submit such data and information, the metrics by which compliance will be assessed in the reports required in subsection (b), and any other directions necessary for agencies to demonstrate compliance with accessibility standards for electronic and information technology procured and in use within an agency, as required by such section 794d of this title.
 
 (3) Not later than 225 days after December 29, 2022, the head of each agency shall—
 
@@ -37,4 +37,10 @@
 #### Codification
 
 Section was enacted as part of the Financial Services and General Government Appropriations Act, 2023, and also as part of the Consolidated Appropriations Act, 2023, and not as part of the Rehabilitation Act of 1973 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 

@@ -1,6 +1,6 @@
 ### §3003. \[Reserved\]
 
-(Added Pub. L. 116–283, div. A, title XVIII, §1806(a)(1), Jan. 1, 2021, 134 Stat. 4152; amended Pub. L. 117–81, div. A, title XVII, §1701(i)(1)(B), Dec. 27, 2021, 135 Stat. 2140.)
+(Added Pub. L. 116–283, div. A, title XVIII, §1806(a)(1), Jan. 1, 2021, 134 Stat. 4152; amendedPub. L. 117–81, div. A, title XVII, §1701(i)(1)(B), Dec. 27, 2021, 135 Stat. 2140.)
 
 #### <b>Editorial Notes</b>
 

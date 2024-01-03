@@ -58,7 +58,7 @@ Allocation and Transfer of Property.—
 
 &emsp;(1)
 
-In general.—The Administrator shall allocate and transfer property under this section in accordance with criteria that are based on need and use and that are established afterconsultation with state agencies to the extent feasible. The Administrator shall give fair consideration, consistent with the established criteria, to an expression of need and interest from a public agency or other eligible institution within a State. The Administrator shall give special consideration to an eligible recipient's request, transmitted through the state agency, for a specific item of property.
+In general.—The Administrator shall allocate and transfer property under this section in accordance with criteria that are based on need and use and that are established after consultation with state agencies to the extent feasible. The Administrator shall give fair consideration, consistent with the established criteria, to an expression of need and interest from a public agency or other eligible institution within a State. The Administrator shall give special consideration to an eligible recipient's request, transmitted through the state agency, for a specific item of property.
 
 &emsp;(2)
 
@@ -182,7 +182,7 @@ In general.—The state plan of operation shall provide that the state agency—
 
 &emsp;&emsp;&emsp;&emsp;(I) may impose reasonable terms, conditions, reservations, and restrictions on the use of property to be donated under subsection (c); and
 
-&emsp;&emsp;&emsp;&emsp;(II) shall impose reasonable terms, conditions, reservations, and restrictions on the use of a passenger motor vehicle and any item of property having a unit acquisition cost of $5,000 or more.
+&emsp;&emsp;&emsp;&emsp;(II) shall impose reasonable terms, conditions, reservations, and restrictionson the use of a passenger motor vehicle and any item of property having a unit acquisition cost of $5,000 or more.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -238,7 +238,7 @@ Surplus property transferred to state agency.—
 
 &emsp;&emsp;(A)
 
-In general.—Under the cooperative agreement, surplus property transferred to a state agency for distribution pursuant to subsection (c) may be retained by the state agency for use in performing its functions.Unless otherwise directed by the Administrator, title to the retained property vests in the state agency.
+In general.—Under the cooperative agreement, surplus property transferred to a state agency for distribution pursuant to subsection (c) may be retained by the state agency for use in performing its functions. Unless otherwise directed by the Administrator, title to the retained property vests in the state agency.
 
 &emsp;&emsp;(B)
 
@@ -294,7 +294,7 @@ In subsection (a)(2), the words "the Northern Mariana Islands" are added because
 
 In subsection (d), the words "Secretary of Defense" are substituted for "National Military Establishment" \[subsequently changed to "Department of Defense" because of section 12(a) of the National Security Act Amendments of 1949 (ch. 412, 63 Stat. 591)\] because of 10:113(a).
 
-In subsection (e)(2)(B), the words "In the event that a State legislature has not developed, according to State law, a State plan within two hundred and seventy calendar days after October 17, 1976, the chief executive officer of the State shall approve, and submit to the Administrator, a temporary State plan" are omitted as obsolete.
+In subsection (e)(2)(B), the words "In the event that a State legislature has not developed, according to State law, a State plan within two hundred and seventy calendar days after October 17, 1976, the chief executive officer of the State shall approve, and submit to theAdministrator, a temporary State plan" are omitted as obsolete.
 
 In subsection (f)(1)(B)–(D) and (4)(B), the words "Secretary of Education" and "Secretary of Health and Human Services" are substituted for "Secretary of Health, Education, and Welfare" because of sections 301(a)(2)(P) and (b), 507, and 509(b) of the Department of Education Organization Act (20:3441(a)(2)(P) and (b), 3507, and 3508(b)).
 
@@ -336,7 +336,7 @@ Ex. Ord. No. 12999, Apr. 17, 1996, 61 F.R. 17227, provided:
 
 In order to ensure that American children have the skills they need to succeed in the information-intensive 21st century, the Federal Government is committed to working with the private sector to promote four major developments in American education: making modern computer technology an integral part of every classroom; providing teachers with the professional development they need to use new technologies effectively; connecting classrooms to the National Information Infrastructure; and encouraging the creation of excellent educational software. This Executive order streamlines the transfer of excess and surplus Federal computer equipment to our Nation's classrooms and encourages Federal employees to volunteer their time and expertise to assist teachers and to connect classrooms.
 
-Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the provisions of the Stevenson-Wydler Technology Innovation Act of 1980, as amended (15 U.S.C. 3701 <i>et seq.</i>), the Federal Property and Administrative Services Act of 1949, ch. 288, 63 Stat. 377 \[now chapters 1 to 11 of this title and divisionC (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], and the National Defense Authorization Act for Fiscal Year 1996, Public Law 104–106 \[see Tables for classification\], it is hereby ordered as follows:
+Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the provisions of the Stevenson-Wydler Technology Innovation Act of 1980, as amended (15 U.S.C. 3701 <i>et seq.</i>), the Federal Property and Administrative Services Act of 1949, ch. 288, 63 Stat. 377 \[now chapters 1 to 11 of this title and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], and the National Defense Authorization Act for Fiscal Year 1996, Public Law 104–106 \[see Tables for classification\], it is hereby ordered as follows:
 
 Section 1. <i>Protection of Educationally Useful Federal Equipment</i>. (a) Educationally useful Federal equipment is a vital national resource. To the extent such equipment can be used as is, separated into parts for other computers, or upgraded—either by professional technicians, students, or other recycling efforts—educationally useful Federal equipment is a valuable tool for computer education. Therefore, to the extent possible, all executive departments and agencies (hereinafter referred to as "agencies") shall protect and safeguard such equipment, particularly when declared excess or surplus, so that it may be recycled and transferred, if appropriate, pursuant to this order.
 
@@ -358,7 +358,7 @@ Sec. 2. <i>Efficient Transfer of Educationally Useful Federal Equipment to Schoo
 
 (g) The regional Federal Executive Boards shall help facilitate the transfer of educationally useful Federal equipment from the agencies they represent to recipients eligible under this order.
 
-Sec. 3. <i>Assisting Teachers' Professional Development: Connecting Classrooms</i>. (a) Each agency that has employees who have computer expertise shall, to the extent permitted by law and in accordance with the guidelines of the Office of Personnel Management, encourage those employees to:
+Sec. 3. <i>Assisting Teachers' Professional Development: Connecting Classrooms</i>. (a) Each agency that has employees who have computer expertise shall, to the extent permitted by law and in accordance with theguidelines of the Office of Personnel Management, encourage those employees to:
 
 (1) help connect America's classrooms to the National Information Infrastructure;
 

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Foreign country of concern
 
-&emsp;The term "foreign country of concern" means the People's Republic of China, the Democratic People's Republic of Korea, the Russian Federation, the Islamic Republic of Iran, or any other country determined to be a country of concern by the Department of State.
+&emsp;The term "foreign country of concern" means the People's Republic of China, theDemocratic People's Republic of Korea, the Russian Federation, the Islamic Republic of Iran, or any other country determined to be a country of concern by the Department of State.
 
 #### (2) Foreign entity of concern
 
@@ -148,11 +148,11 @@ In this section:
 
 &emsp;&emsp;&emsp;(ix) A plan—
 
-&emsp;&emsp;&emsp;&emsp;(I) to further incentivize industry participation in public-private partnerships for the purposes of accelerating technology research and commercializationin support of national security, including alternate ways of accounting for in-kind contributions and valuing partially manufactured products;
+&emsp;&emsp;&emsp;&emsp;(I) to further incentivize industry participation in public-private partnerships for the purposes of accelerating technology research and commercialization in support of national security, including alternate ways of accounting for in-kind contributions and valuing partially manufactured products;
 
 &emsp;&emsp;&emsp;&emsp;(II) to ensure that intellectual property developed with Federal funding is commercialized in the United States; and
 
-&emsp;&emsp;&emsp;&emsp;(III) to ensure, to the maximum appropriate extent, that intellectual property developed with Federal funding is not being used by foreign business entities that are majority owned or controlled (as such term is defined in section 800.208 of title 31, Code of Federal Regulations, or a successor regulation), or minority owned greater than 25 percent by—
+&emsp;&emsp;&emsp;&emsp;(III) to ensure, to the maximum appropriate extent, that intellectual property developed with Federal funding is not being used by foreign business entities that are majority owned or controlled\(as such term is defined in section 800.208 of title 31, Code of Federal Regulations, or a successor regulation), or minority owned greater than 25 percent by—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) any governmental organization of a foreign country of concern; or
 

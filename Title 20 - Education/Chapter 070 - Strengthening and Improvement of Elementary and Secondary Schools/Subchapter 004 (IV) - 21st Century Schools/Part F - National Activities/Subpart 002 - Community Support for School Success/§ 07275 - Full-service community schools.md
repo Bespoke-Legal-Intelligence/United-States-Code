@@ -8,7 +8,7 @@ An eligible entity that desires a grant under this subpart for activities descri
 
 &emsp;(2) A memorandum of understanding among all partner entities in the eligible entity that will assist the eligible entity to coordinate and provide pipeline services and that describes the roles the partner entities will assume.
 
-&emsp;(3) A description of the capacity of the eligible entity to coordinate and provide pipeline services at 2 or more full-service community schools.
+&emsp;(3) A description of the capacity of the eligible entity to coordinate and provide pipelineservices at 2 or more full-service community schools.
 
 &emsp;(4) A comprehensive plan that includes descriptions of the following:
 
@@ -90,7 +90,7 @@ The Secretary shall require each eligible entity receiving a grant under this su
 
 #### (h) Construction clause
 
-Nothing in this section shall be construed to alter or otherwise affect the rights, remedies, and procedures afforded school or local educational agency employees under Federal, State, or local laws (including applicable regulations or court orders) or under the terms of collective bargaining agreements, memoranda of understanding, or other agreements between such employees and their employers.
+Nothing in this section shall be construed to alter or otherwise affect the rights, remedies, and procedures afforded school or local educational agency employees under Federal, State,or local laws (including applicable regulations or court orders) or under the terms of collective bargaining agreements, memoranda of understanding, or other agreements between such employees and their employers.
 
 #### (i) Supplement, not supplant
 

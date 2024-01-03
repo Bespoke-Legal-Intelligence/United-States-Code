@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) the number of investigational device exemption applications submitted under section 360j(g) of this title per fiscal year, including for each review division; and
 
-&emsp;&emsp;&emsp;&emsp;(V) the number of expedited development and priority review requests anddesignations under section 360e–3 of this title per fiscal year, including for each review division.
+&emsp;&emsp;&emsp;&emsp;(V) the number of expedited development and priority review requests and designations under section 360e–3 of this title per fiscal year, including for each review division.
 
 &emsp;&emsp;&nbsp;Nothing in this clause shall be construed to authorize the disclosure of information that is prohibited from disclosure under section 331(j) of this title or section 1905 of title 18 or that is subject to withholding under section 552(b)(4) of title 5.
 
@@ -30,7 +30,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Not later than 30 calendar days after the end of the second quarter of fiscal year 2023, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subclause (II) on the internet website of the Food and Drug Administration for such quarter and on a cumulative basis for such fiscal year, and may remove duplicative data from the annual report under this subparagraph.
+&emsp;&emsp;&emsp;&emsp;Not later than 30 calendar days after the end of the second quarter of fiscal year 2023, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subclause (II) on the internet website of the Food and Drug Administration for such quarter and on a cumulative basisfor such fiscal year, and may remove duplicative data from the annual report under this subparagraph.
 
 #### (II) Data
 
@@ -72,7 +72,7 @@
 
 #### (B) Publication
 
-&emsp;&emsp;With regard to information to be reported by the Food and Drug Administration to industry on a quarterly and annual basis pursuant to the letters described in section 201(b) <sup>1</sup> of the Medical Device User Fee Amendments of 2022, the Secretary shall make such information publicly available on the Internet Web site of the Food and Drug Administration not later than 60 days afterthe end of each quarter or 120 days after the end of each fiscal year, respectively, to which such information applies. This information shall include the status of the independent assessment identified in the letters described in such section 201(b).
+&emsp;&emsp;With regard to information to be reported by the Food and Drug Administration to industry on a quarterly and annual basis pursuant to the letters described in section 201(b) <sup>1</sup> of the Medical Device User Fee Amendments of 2022, the Secretary shall make such information publicly available on the Internet Web site of the Food and Drug Administration not later than 60 days after the end of each quarter or 120 days after the end of each fiscal year, respectively, to which such information applies. This information shall include the status of the independent assessment identified in the letters described in such section 201(b).
 
 #### (C) Updates
 
@@ -278,7 +278,7 @@ Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subp
 
 Pub. L. 117–180, div. F, title II, §2007(b), Sept. 30, 2022, 136 Stat. 2154, provided that: "Section 738A of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–1) shall cease to be effective January 31, 2028."
 
-Pub. L. 115–52, title II, §210(b), Aug. 18, 2017, 131 Stat. 1020, which provided that this section would cease to be effective January 31, 2023, was repealed by Pub. L. 117–180, div. F, title II, §2007(c), Sept. 30, 2022, 136 Stat. 2154.
+Pub. L. 115–52, title II, §210(b), Aug. 18, 2017, 131 Stat. 1020, which provided that this section would cease to be effective Jan. 31, 2023, was repealed by Pub. L. 117–180, div. F, title II, §2007(c), Sept. 30, 2022, 136 Stat. 2154.
 
 \[Pub. L. 117–180, div. F, title II, §2007(c), Sept. 30, 2022, 136 Stat. 2154, provided that the repeal of section 210(b) of Pub. L. 115–52, formerly set out above, is effective Oct. 1, 2022.\]
 

@@ -46,7 +46,7 @@ The Secretary shall use funds appropriated under section 2027 of this title to r
 
 &emsp;(1) the State agency shall submit to the Secretary not later than 60 days after December 29, 2022, for prior approval a plan for the replacement of stolen benefits that—
 
-&emsp;&emsp;(A) includes appropriate procedures, as determined by the Secretary, for the timely submission of claims to, timely validation of claims by, and replacement issuance by the State agency that includes—
+&emsp;&emsp;(A) includes appropriate procedures, as determined by the Secretary, for the timelysubmission of claims to, timely validation of claims by, and replacement issuance by the State agency that includes—
 
 &emsp;&emsp;&emsp;(i) a signed statement by the affected household on the benefit theft, consistent with the signature requirements and options provided by section 2020(e)(2)(C) of this title;
 

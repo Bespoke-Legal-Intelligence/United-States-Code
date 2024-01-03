@@ -54,7 +54,7 @@ Another prior section 2007, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1220; Pub.
 
 Prior section 2008 was renumbered section 4108 of this title.
 
-Another prior section 2008, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1220, enumerated provisions which forbade duplication of benefits, prior to repeal by Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558.
+Another prior section 2008, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1220, enumerated provisions which forbadeduplication of benefits, prior to repeal by Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558.
 
 Prior section 2009 was renumbered section 4109 of this title.
 

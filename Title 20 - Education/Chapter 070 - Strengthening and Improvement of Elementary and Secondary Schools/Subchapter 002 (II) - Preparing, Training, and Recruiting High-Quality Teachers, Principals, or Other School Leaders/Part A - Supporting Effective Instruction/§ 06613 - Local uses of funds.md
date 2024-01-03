@@ -24,7 +24,7 @@ The programs and activities described in this subsection—
 
 &emsp;&emsp;&emsp;(ii) shall include multiple measures of educator performance and provide clear, timely, and useful feedback to teachers, principals, or other school leaders;
 
-&emsp;&emsp;(B) developing and implementing initiatives to assist in recruiting, hiring, and retaining effective teachers, particularly in low-income schools with high percentages ofineffective teachers and high percentages of students who do not meet the challenging State academic standards, to improve within-district equity in the distribution of teachers, consistent with section 6311(g)(1)(B) of this title, such as initiatives that provide—
+&emsp;&emsp;(B) developing and implementing initiatives to assist in recruiting, hiring, and retaining effective teachers, particularly in low-income schools with high percentages of ineffective teachers and high percentages of students who do not meet the challenging State academic standards, to improve within-district equity in the distribution of teachers, consistent with section 6311(g)(1)(B) of this title, such as initiatives that provide—
 
 &emsp;&emsp;&emsp;(i) expert help in screening candidates and enabling early hiring;
 
@@ -78,7 +78,7 @@ The programs and activities described in this subsection—
 
 &emsp;&emsp;&emsp;(iii) forming partnerships between school-based mental health programs and public or private mental health organizations; and
 
-&emsp;&emsp;&emsp;(iv) addressing issues related to school conditions for student learning, such assafety, peer interaction, drug and alcohol abuse, and chronic absenteeism;
+&emsp;&emsp;&emsp;(iv) addressing issues related to school conditions for student learning, such as safety, peer interaction, drug and alcohol abuse, and chronic absenteeism;
 
 &emsp;&emsp;(J) providing training to support the identification of students who are gifted and talented, including high-ability students who have not been formally identified for gifted education services, and implementing instructional practices that support the education of such students, such as—
 

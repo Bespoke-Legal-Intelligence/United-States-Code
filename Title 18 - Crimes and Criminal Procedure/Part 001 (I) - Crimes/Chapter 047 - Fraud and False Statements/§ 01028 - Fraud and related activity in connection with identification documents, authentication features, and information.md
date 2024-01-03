@@ -128,7 +128,7 @@ Attempt and Conspiracy.—Any person who attempts or conspires to commit any off
 
 (g)
 
-Forfeiture Procedures.—The forfeiture of property under this section, including any seizure and disposition of the property and any related judicial or administrative proceeding,shall be governed by the provisions of section 413 (other than subsection (d) of that section) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853).
+Forfeiture Procedures.—The forfeiture of property under this section, including any seizure and disposition of the property and any related judicial or administrative proceeding, shall be governed by the provisions of section 413 (other than subsection (d) of that section) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853).
 
 (h)
 

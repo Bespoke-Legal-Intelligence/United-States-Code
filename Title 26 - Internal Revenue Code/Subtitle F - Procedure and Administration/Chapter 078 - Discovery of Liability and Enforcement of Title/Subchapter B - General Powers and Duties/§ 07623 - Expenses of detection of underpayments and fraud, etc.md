@@ -24,7 +24,7 @@ The Secretary, under regulations prescribed by the Secretary, is authorized to p
 
 #### (B) Nonapplication of paragraph where individual is original source of information
 
-&emsp;&emsp;Subparagraph (A) shall not apply if the information resulting in the initiation of the action described in paragraph (1) was originally provided by the individual described in paragraph (1).
+&emsp;&emsp;Subparagraph (A) shall not apply if the information resulting in the initiation of theaction described in paragraph (1) was originally provided by the individual described in paragraph (1).
 
 #### (3) Reduction in or denial of award
 
@@ -168,7 +168,7 @@ Subsec. (c). Pub. L. 115–123, §41108(a)(1), added subsec. (c).
 
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–25, title I, §1405(c)(2), July 1, 2019, 133 Stat. 1000, provided that: "The amendment made bysubsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 1, 2019\]."
+Pub. L. 116–25, title I, §1405(c)(2), July 1, 2019, 133 Stat. 1000, provided that: "The amendment made by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 1, 2019\]."
 
 #### Effective Date of 2018 Amendment
 

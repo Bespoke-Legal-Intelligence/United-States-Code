@@ -2,7 +2,7 @@
 
 (a) An audit conducted in accordance with this chapter shall be in lieu of any financial audit of Federal awards which a non-Federal entity is required to undergo under any other Federal law or regulation. To the extent that such audit provides a Federal agency with the information it requires to carry out its responsibilities under Federal law or regulation, a Federal agency shall rely upon and use that information.
 
-(b) Notwithstanding subsection (a), a Federal agency may conduct or arrange for additional audits which are necessary to carry out its responsibilities under Federal law or regulation. The provisions of this chapter do not authorize any non-Federal entity (or subrecipient thereof) to constrain, in any manner, such agency from carrying out or arranging for such additional audits, except that the Federal agency shall plan such audits to not be duplicative of other audits of Federal awards.
+(b) Notwithstanding subsection (a), a Federal agency may conduct or arrange for additional audits which are necessary to carry out its responsibilities under Federal law or regulation. The provisions of this chapter do not authorizeany non-Federal entity (or subrecipient thereof) to constrain, in any manner, such agency from carrying out or arranging for such additional audits, except that the Federal agency shall plan such audits to not be duplicative of other audits of Federal awards.
 
 (c) The provisions of this chapter do not limit the authority of Federal agencies to conduct, or arrange for the conduct of, audits and evaluations of Federal awards, nor limit the authority of any Federal agency Inspector General or other Federal official.
 

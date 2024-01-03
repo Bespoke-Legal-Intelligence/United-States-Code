@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 92–309, §7, June 2, 1972, 86 Stat. 200, which related to payment of shares of deceased enrollees and minors or persons under legal disability, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 92–309, §7, June 2, 1972, 86 Stat. 200, which related to payment of shares of deceased enrollees and minors or persons under legal disability, wasomitted from the Code as being of special and not general application.
 

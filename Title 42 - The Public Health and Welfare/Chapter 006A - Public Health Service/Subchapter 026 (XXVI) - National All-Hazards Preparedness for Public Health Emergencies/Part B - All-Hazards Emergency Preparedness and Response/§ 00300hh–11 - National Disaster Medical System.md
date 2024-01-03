@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall provide for the operation in accordance with this section of a system to be known as the National Disaster Medical System. The Secretary shall designate the Assistant Secretary for Preparedness and Response as the head of the NationalDisaster Medical System, subject to the authority of the Secretary.
+&emsp;The Secretary shall provide for the operation in accordance with this section of a system to be known as the National Disaster Medical System. The Secretary shall designate the Assistant Secretary for Preparedness and Response as the head of the National Disaster Medical System, subject to the authority of the Secretary.
 
 #### (2) Federal and State collaborative System
 
@@ -72,7 +72,7 @@
 
 &emsp;In carrying out paragraph (1), the Secretary shall establish criteria regarding the participation of States and private entities in the National Disaster Medical System, including criteria regarding agreements for such participation. The criteria shall include the following:
 
-&emsp;&emsp;(A) Provisions relating to the custody and use of Federal personal property by such entities, which may in the discretion of the Secretary include authorizing the custody and use of such property to respond to emergency situations for which the National Disaster Medical System has not been activated by the Secretary pursuant to subsection\(a)(3)(A). Any such custody and use of Federal personal property shall be on a reimbursable basis.
+&emsp;&emsp;(A) Provisions relating to the custody and use of Federal personal property by such entities, which may in the discretion of the Secretary include authorizing the custody and use of such property to respond to emergency situations for which the National Disaster Medical System has not been activated by the Secretary pursuant to subsection (a)(3)(A). Any such custody and use of Federal personal property shall be on a reimbursable basis.
 
 &emsp;&emsp;(B) Provisions relating to circumstances in which an individual or entity has agreements with both the National Disaster Medical System and another entity regarding the provision of emergency services by the individual. Such provisions shall address the issue of priorities among the agreements involved.
 
@@ -102,7 +102,7 @@
 
 #### (B) Sunset
 
-&emsp;&emsp;The authority under this paragraph shall expire on September 30, 2023.
+&emsp;&emsp;The authority under this paragraph shall expire on January 19, 2024.
 
 #### (5) Omitted
 
@@ -124,7 +124,7 @@
 
 #### (C) Responsibility of Labor Secretary
 
-&emsp;&emsp;In the event of an injury to such an intermittent disaster-response appointee, the Secretary of Labor shall be responsible for making determinations as to whether the claimant is entitled to compensation or other benefits in accordance with chapter 81 of title 5.
+&emsp;&emsp;In the event of an injury to such an intermittent disaster-response appointee, theSecretary of Labor shall be responsible for making determinations as to whether the claimant is entitled to compensation or other benefits in accordance with chapter 81 of title 5.
 
 #### (D) Computation of pay
 
@@ -138,7 +138,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Service as an intermittent disaster-response appointee when the Secretary activates the National Disaster Medical Systemor when the individual participates in a training program authorized by the Assistant Secretary for Preparedness and Response or a comparable official of any Federal agency specified in subsection (a)(2)(B) shall be deemed "service in the uniformed services" for purposes of chapter 43 of title 38 pertaining to employment and reemployment rights of individuals who have performed service in the uniformed services (regardless of whether the individual receives compensation for such participation). All rights and obligations of such persons and procedures for assistance, enforcement, and investigation shall be as provided for in chapter 43 of title 38.
+&emsp;&emsp;Service as an intermittent disaster-response appointee when the Secretary activates the National Disaster Medical System or when the individual participates in a training program authorized by the Assistant Secretary for Preparedness and Response or a comparable official of any Federal agency specified in subsection (a)(2)(B) shall be deemed "service in the uniformed services" for purposes of chapter 43 of title 38 pertaining to employment and reemployment rights of individuals who have performed service in the uniformed services (regardless of whether the individual receives compensation for such participation). All rights and obligations of such persons and procedures for assistance, enforcement, and investigation shall be as provided for in chapter 43 of title 38.
 
 #### (B) Notice of absence from position of employment
 
@@ -160,19 +160,19 @@ For purposes of this section, the term "auxiliary services" includes mortuary se
 
 For the purpose of providing for the Assistant Secretary for Preparedness and Response and the operations of the National Disaster Medical System, other than purposes for which amounts in the Public Health Emergency Fund under section 247d of this title are available, there are authorized to be appropriated $57,400,000 for each of fiscal years 2019 through 2023.
 
-(July 1, 1944, ch. 373, title XXVIII, §2812, formerly §2811, as added Pub. L. 107–188, title I, §102(a), June 12, 2002, 116 Stat. 599; renumbered §2812 and amended Pub. L. 109–417, title I, §102(a)(2), (4), title III, §301(a), Dec. 19, 2006, 120 Stat. 2832, 2834, 2853; Pub. L. 113–5, title I, §104, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–113, div. H, title V, §527, Dec. 18, 2015, 129 Stat. 2653; Pub. L. 116–22, title III, §301(a), (d)(1), June 24, 2019, 133 Stat. 931, 933; Pub. L. 117–43, div. D, title I, §3101, Sept. 30, 2021, 135 Stat. 379; Pub. L. 117–70, div. C, title I, §2101, Dec. 3, 2021, 135 Stat. 1504; Pub. L. 117–86, div. B, title I, §1101, Feb. 18, 2022, 136 Stat. 17; Pub. L. 117–103, div. P, title I, §101, Mar. 15, 2022, 136 Stat. 789.)
+(July 1, 1944, ch. 373, title XXVIII, §2812, formerly §2811, as added Pub. L. 107–188, title I, §102(a), June 12, 2002, 116 Stat. 599; renumbered §2812 and amended Pub. L. 109–417, title I, §102(a)(2), (4), title III, §301(a), Dec. 19, 2006, 120 Stat. 2832, 2834, 2853; Pub. L. 113–5, title I, §104, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–113, div. H, title V, §527, Dec. 18, 2015, 129 Stat. 2653; Pub. L. 116–22, title III, §301(a), (d)(1), June 24, 2019, 133 Stat. 931, 933; Pub. L. 117–43, div. D, title I, §3101, Sept. 30, 2021, 135 Stat. 379; Pub. L. 117–70, div. C, title I, §2101, Dec. 3, 2021, 135 Stat. 1504; Pub. L. 117–86, div. B, title I, §1101, Feb. 18, 2022, 136 Stat. 17; Pub. L. 117–103, div. P, title I, §101, Mar. 15, 2022, 136 Stat. 789; Pub. L. 118–15, div. B, title III, §2331, Sept. 30, 2023, 137 Stat. 95; Pub. L. 118–22, div. B, title II, §203(e), Nov. 17, 2023, 137 Stat. 121.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(5), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part L of title I of the Act is classified generally to subchapter XI (§10281 et seq.) of chapter 101 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of Title 34 and Tables.
 
 #### Codification
 
 Subsec. (c)(5) of this section was omitted in light of section 301(d)(3) of Pub. L. 116–22, which provided that the amendment adding subsec. (c)(5) would cease to have force or effect on Oct. 1, 2021. See 2019 Amendment and Termination Date of 2019 Amendment notes below.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c)(4)(B). Pub. L. 118–22 substituted "January 19, 2024" for "November 17, 2023".
+
+Pub. L. 118–15 substituted "November 17, 2023" for "September 30, 2023".
 
 <b>2022</b>—Subsec. (c)(4)(B). Pub. L. 117–103 substituted "September 30, 2023" for "March 11, 2022".
 
@@ -184,13 +184,13 @@ Pub. L. 117–43 substituted "December 3, 2021" for "September 30, 2021".
 
 <b>2019</b>—Subsec. (a)(3)(A)(ii). Pub. L. 116–22, §301(a)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "be present at locations, and for limited periods of time, specified by the Secretary on the basis that the Secretary has determined that a location is at risk of a public health emergency during the time specified."
 
-Subsec. (b)(2). Pub. L. 116–22, §301(a)(2), amended par. (2) generally. Prior to amendment, text read as follows: "Not later than 180 days after December 19, 2006, the Secretary, in coordination with the Secretary of Homeland Security, the Secretary of Defense, and the Secretary of Veterans Affairs, shall conduct a joint review of the National Disaster Medical System. Such review shall include an evaluation of medical surge capacity, as described by section 300hh–2(a) of this title. As part of the National Health Security Strategy under section 300hh–1 of this title, the Secretary shall update the findings from such review and further modify the policies of the National Disaster Medical System as necessary."
+Subsec. (b)(2). Pub. L. 116–22, §301(a)(2), amended par. (2) generally. Prior to amendment, text read as follows: "Not later than 180 days after December 19, 2006, theSecretary, in coordination with the Secretary of Homeland Security, the Secretary of Defense, and the Secretary of Veterans Affairs, shall conduct a joint review of the National Disaster Medical System. Such review shall include an evaluation of medical surge capacity, as described by section 300hh–2(a) of this title. As part of the National Health Security Strategy under section 300hh–1 of this title, the Secretary shall update the findings from such review and further modify the policies of the National Disaster Medical System as necessary."
 
 Subsec. (c)(3), (4). Pub. L. 116–22, §301(a)(3), added pars. (3) and (4).
 
 Subsec. (c)(5). Pub. L. 116–22, §301(d)(1), added par. (5), which ceased to have force or effect on Oct. 1, 2021. Text read as follows: "Individuals appointed to serve under this subsection shall be considered eligible for benefits under part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968. The Secretary shall provide notification to any eligible individual of any effect such designation may have on other benefits for which such individual is eligible, including benefits from private entities." See Termination Date of 2019 Amendment note below.
 
-Subsec. (g). Pub. L. 116–22, §301(a)(4), substituted "$57,400,000 for each of fiscal years 2019 through 2023"for "$52,700,000 for each of fiscal years 2014 through 2018".
+Subsec. (g). Pub. L. 116–22, §301(a)(4), substituted "$57,400,000 for each of fiscal years 2019 through 2023" for "$52,700,000 for each of fiscal years 2014 through 2018".
 
 <b>2015</b>—Subsec. (d)(2). Pub. L. 114–113 designated first, second, and third sentences of existing provisions as subpars. (A), (B), and (C), respectively, realigned margins, inserted subpar. headings, and added subpars. (D) and (E).
 

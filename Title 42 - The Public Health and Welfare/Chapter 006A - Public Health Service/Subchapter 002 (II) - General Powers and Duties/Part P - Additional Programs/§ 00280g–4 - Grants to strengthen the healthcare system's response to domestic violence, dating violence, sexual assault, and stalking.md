@@ -126,7 +126,7 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;&emsp;&emsp;(III) a government or nonprofit entity, including a culturally specific organization or community-based organization working to address the social determinants of health, with a history of effective work in the fields of domestic violence, dating violence, sexual assault, or stalking; and
 
-&emsp;&emsp;&emsp;(ii) strategies for the dissemination and sharing of curricula and other educationalmaterials developed under the grant, if any, with other interested health professions schools and national resource repositories for materials on domestic violence, dating violence, sexual assault, and stalking.
+&emsp;&emsp;&emsp;(ii) strategies for the dissemination and sharing of curricula and other educational materials developed under the grant, if any, with other interested health professions schools and national resource repositories for materials on domestic violence, dating violence, sexual assault, and stalking.
 
 #### (C) Subsection (a)(3) grantees
 
@@ -166,7 +166,7 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;(A) a State department (or other division) of health (including mental health or substance abuse agencies), a State, tribal, or territorial domestic violence or sexual assault coalition or victim service provider, or any other nonprofit, nongovernmental organization with a history of effective work in the fields of domestic violence, dating violence, sexual assault, or stalking, and health care, including physical or behavioral health care and substance use disorder prevention and treatment; or
 
-&emsp;&emsp;(B) a local victim service provider, a local department (or other division) of health, a local health clinic, hospital, behavioral health treatment system, or health system, a community-based organization with a history of effective work in the field of domestic violence, dating violence, sexual assault, or stalking and health care, including physical or mental health care or substance use disorder prevention and treatment, or a community-based organization with a history of partnership with programs in the field of domestic violence, dating violence, sexual assault, or stalking and health care, including physical or mental health care or substance use disorder prevention and treatment.
+&emsp;&emsp;(B) a local victim service provider, a local department (or other division) of health, a local health clinic, hospital, behavioral health treatment system, or health system, a community-based organization with a history of effective work in the field of domestic violence, dating violence, sexual assault,or stalking and health care, including physical or mental health care or substance use disorder prevention and treatment, or a community-based organization with a history of partnership with programs in the field of domestic violence, dating violence, sexual assault, or stalking and health care, including physical or mental health care or substance use disorder prevention and treatment.
 
 #### (e) Technical assistance
 
@@ -316,7 +316,7 @@ Pub. L. 109–162, title V, §501, Jan. 5, 2006, 119 Stat. 3023, provided that: 
 
 &emsp;"(9) Currently, only about 10 percent of primary care physicians routinely screen for intimate partner abuse during new patient visits and 9 percent routinely screen for intimate partner abuse during periodic checkups.
 
-&emsp;"(10) Recent clinical studies have proven the effectiveness of a 2-minute screening for early detection of abuse of pregnant women. Additional longitudinal studies have tested a 10-minute intervention that was proven highly effective in increasing the safety of pregnant abused women. Comparable research does not yet exist to support the effectiveness of screening men.
+&emsp;"(10) Recent clinical studies have proven the effectiveness of a 2-minute screening for early detection of abuse of pregnant women. Additional longitudinal studies have tested a 10-minute intervention that wasproven highly effective in increasing the safety of pregnant abused women. Comparable research does not yet exist to support the effectiveness of screening men.
 
 &emsp;"(11) Seventy to 81 percent of the patients studied reported that they would like their healthcare providers to ask them privately about intimate partner violence."
 

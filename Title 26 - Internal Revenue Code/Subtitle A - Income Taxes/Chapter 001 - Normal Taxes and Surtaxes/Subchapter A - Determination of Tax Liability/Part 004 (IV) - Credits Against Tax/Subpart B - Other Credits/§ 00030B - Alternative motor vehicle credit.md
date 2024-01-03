@@ -116,7 +116,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a), the new advanced lean burn technology motor vehicle credit determined under this subsection for the taxable year is the credit amount determined under paragraph (2) with respect to a new advanced lean burn technology motor vehicle placed in service by the taxpayer during the taxable year.
+&emsp;For purposes of subsection (a), the new advanced lean burn technology motor vehiclecredit determined under this subsection for the taxable year is the credit amount determined under paragraph (2) with respect to a new advanced lean burn technology motor vehicle placed in service by the taxpayer during the taxable year.
 
 #### (2) Credit amount
 
@@ -132,7 +132,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 | :--- | ---: |
 | At least 125 percent but less than 150 percent | $400&nbsp;&nbsp; |
 | At least 150 percent but less than 175 percent | $800&nbsp;&nbsp; |
-| At least 175 percent but less than 200 percent | $1,200   |
+| At least 175 percent but less than 200 percent | $1,200&nbsp;&nbsp; |
 | At least 200 percent but less than 225 percent | $1,600&nbsp;&nbsp; |
 | At least 225 percent but less than 250 percent | $2,000&nbsp;&nbsp; |
 | At least 250 percent | $2,400.&nbsp;&nbsp; |
@@ -224,7 +224,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (iii) Qualified incremental hybrid cost
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the qualified incremental hybrid cost of any vehicle is equal to the amount of the excess of the manufacturer's suggested retailprice for such vehicle over such price for a comparable vehicle, to the extent such amount does not exceed—
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the qualified incremental hybrid cost of any vehicle is equal to the amount of the excess of the manufacturer's suggested retail price for such vehicle over such price for a comparable vehicle, to the extent such amount does not exceed—
 
 &emsp;&emsp;&emsp;&emsp;(I) $7,500, if such vehicle has a gross vehicle weight rating of not more than 14,000 pounds,
 
@@ -290,7 +290,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (ii) Other motor vehicles
 
-&emsp;&emsp;&emsp;In the case of a vehicle to which paragraph (2)(B) applies, the term "maximum available power" means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by the vehicle's total traction power. For purposes of the preceding sentence, the term "total traction power" means the sum of the peak power from the rechargeable energy storage system and the heat engine peak power of the vehicle, except that if such storage system is the sole means by which the vehicle can be driven, the total traction power is the peak power of such storage system.
+&emsp;&emsp;&emsp;In the case of a vehicle to which paragraph (2)(B) applies, the term "maximum available power" means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by the vehicle's total traction power. For purposes of the preceding sentence,the term "total traction power" means the sum of the peak power from the rechargeable energy storage system and the heat engine peak power of the vehicle, except that if such storage system is the sole means by which the vehicle can be driven, the total traction power is the peak power of such storage system.
 
 #### (D) Exclusion of plug-in vehicles
 
@@ -300,7 +300,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (1) Allowance of credit
 
-&emsp;Except as provided in paragraph (5), the new qualified alternative fuel motor vehicle creditdetermined under this subsection is an amount equal to the applicable percentage of the incremental cost of any new qualified alternative fuel motor vehicle placed in service by the taxpayer during the taxable year.
+&emsp;Except as provided in paragraph (5), the new qualified alternative fuel motor vehicle credit determined under this subsection is an amount equal to the applicable percentage of the incremental cost of any new qualified alternative fuel motor vehicle placed in service by the taxpayer during the taxable year.
 
 #### (2) Applicable percentage
 
@@ -458,7 +458,7 @@ For purposes of this section—
 
 #### (6) Property used by tax-exempt entity
 
-&emsp;In the case of a vehicle whose use is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (g)). For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.
+&emsp;In the case of a vehicle whose use is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to suchperson or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (g)). For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.
 
 #### (7) Property used outside United States, etc., not qualified
 

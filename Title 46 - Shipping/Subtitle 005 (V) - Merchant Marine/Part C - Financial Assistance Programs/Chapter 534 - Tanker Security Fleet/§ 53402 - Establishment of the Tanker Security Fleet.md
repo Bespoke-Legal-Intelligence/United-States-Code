@@ -86,7 +86,7 @@ Vessels owned by documentation citizens and chartered to section 50501 citizens.
 
 (d)
 
-Request by Secretary of Defense.—The Secretary of Defense shall request that the Secretary of Homeland Security issue any waiverunder section 501 of this title that the Secretary of Defense determines is necessary for purposes of this chapter.
+Request by Secretary of Defense.—The Secretary of Defense shall request that the Secretary of Homeland Security issue any waiver under section 501 of this title that the Secretary of Defense determines is necessary for purposes of this chapter.
 
 (e)
 

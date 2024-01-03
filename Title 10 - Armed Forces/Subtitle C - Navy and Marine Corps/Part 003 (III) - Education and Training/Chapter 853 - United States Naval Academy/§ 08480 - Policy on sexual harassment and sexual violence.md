@@ -60,7 +60,7 @@ Annual Report.—(1) The Secretary of the Navy shall direct the Superintendent o
 
 &emsp;(A) The number of sexual assaults, rapes, and other sexual offenses involving midshipmen or other Academy personnel that have been reported to Naval Academy officials during the program year and, of those reported cases, the number that have been substantiated.
 
-&emsp;(B) The policies, procedures, and processes implemented by the Secretary of the Navy andthe leadership of the Naval Academy in response to sexual harassment and sexual violence involving midshipmen or other Academy personnel during the program year.
+&emsp;(B) The policies, procedures, and processes implemented by the Secretary of the Navy and the leadership of the Naval Academy in response to sexual harassment and sexual violence involving midshipmen or other Academy personnel during the program year.
 
 &emsp;(C) A plan for the actions that are to be taken in the following Academy program year regarding prevention of and response to sexual harassment and sexual violence involving midshipmen or other Academy personnel.
 
@@ -94,7 +94,7 @@ Consideration of Request for Transfer of a Midshipman Who Is the Victim of a Sex
 
 &emsp;&emsp;(iii) to take all necessary and appropriate action to effectuate the midshipman's enrollment in the institution of higher education to which the midshipman wishes to transfer and to process the midshipman for participation in the relevant Senior Reserve Officers' Training Corps program as expeditiously as possible.
 
-(3) If the Superintendent of the United States Naval Academy denies a request for transfer under this subsection, the midshipman may request review of the denial by the Secretary of the Navy, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
+(3) If the Superintendent of the United States Naval Academy denies a request for transfer under this subsection, the midshipman may request review of the denial by the Secretary ofthe Navy, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
 
 (4) The Secretary concerned shall ensure that all records of any request, determination, transfer, or other action under this subsection remain confidential, consistent with applicable law and regulation.
 
@@ -116,7 +116,7 @@ Consideration of Request for Transfer of a Midshipman Who Is the Victim of a Sex
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Termination of Reporting Requirements
 

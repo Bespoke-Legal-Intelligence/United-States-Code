@@ -58,7 +58,7 @@ The amount of the credit allowable under subsection (a) shall be reduced by an a
 
 #### (A) Election required
 
-&emsp;&emsp;A deceased spousal unused exclusion amount may not be taken into account by a surviving spouse under paragraph (2) unless the executor of the estate of the deceased spouse files an estate tax return on which such amount is computed and makes an election on such return that such amount may be so taken into account. Such election, once made, shall be irrevocable. Noelection may be made under this subparagraph if such return is filed after the time prescribed by law (including extensions) for filing such return.
+&emsp;&emsp;A deceased spousal unused exclusion amount may not be taken into account by a surviving spouse under paragraph (2) unless the executor of the estate of the deceased spouse files an estate tax return on which such amount is computed and makes an election on such return that such amount may be so taken into account. Such election, once made, shall be irrevocable. No election may be made under this subparagraph if such return is filed after the time prescribed by law (including extensions) for filing such return.
 
 #### (B) Examination of prior returns after expiration of period of limitations with respect to deceased spousal unused exclusion amount
 

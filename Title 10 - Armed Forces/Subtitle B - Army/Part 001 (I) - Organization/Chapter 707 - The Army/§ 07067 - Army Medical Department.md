@@ -18,7 +18,7 @@ There is an Army Medical Department in the Army. The Army Medical Department con
 
 &emsp;(8) the Army Medical Specialist Corps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 168, §3067; Pub. L. 85–861, §1(60), Sept. 2, 1958, 72 Stat. 1462; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; renumbered§7067, Pub. L. 115–232, div. A, title VIII, §808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 168, §3067; Pub. L. 85–861, §1(60), Sept. 2, 1958, 72 Stat. 1462; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; renumbered §7067, Pub. L. 115–232, div. A, title VIII, §808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 Historical and Revision Notes<br>1956
 

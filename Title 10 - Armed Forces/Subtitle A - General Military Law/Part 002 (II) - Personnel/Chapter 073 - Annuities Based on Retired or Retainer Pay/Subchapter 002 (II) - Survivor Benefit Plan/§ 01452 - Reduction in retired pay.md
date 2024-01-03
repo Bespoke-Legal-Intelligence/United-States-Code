@@ -82,7 +82,7 @@ Child-Only Annuities.—
 
 &emsp;(1)
 
-Required reduction in retired pay.—The retired pay, other than retired pay received as a lump sum under section 1415(b)(1)(A) of this title, of a participant in the Plan who is providing child-only coverage (as described in paragraph (4)) shall be reduced by an amount prescribed under regulations by the Secretary of Defense.
+Required reduction in retired pay.—The retired pay, other than retired pay received as a lump sum under section 1415(b)(1)(A) of this title, of a participant in the Plan who is providing child-only coverage (as described in paragraph (4)) shall be reducedby an amount prescribed under regulations by the Secretary of Defense.
 
 &emsp;(2)
 
@@ -136,7 +136,7 @@ Rule for designation of new insurable interest beneficiary following death of or
 
 &emsp;&emsp;(B) Interest on the amounts by which the retired pay of the participant would have been so reduced, computed from the dates on which the retired pay would have been so reduced at such rate or rates and according to such methodology as the Secretary of Defense determines reasonable.
 
-&emsp;&emsp;(C) Any additional amount that the Secretary determines necessary to protect theactuarial soundness of the Department of Defense Military Retirement Fund against any increased risk for the fund that is associated with the election.
+&emsp;&emsp;(C) Any additional amount that the Secretary determines necessary to protect the actuarial soundness of the Department of Defense Military Retirement Fund against any increased risk for the fund that is associated with the election.
 
 (d)
 
@@ -156,7 +156,7 @@ Deposits not required when participant on active duty.—Paragraphs (1) and (2) 
 
 (e)
 
-Deposits Not Required for Certain Participants in CSRS and FERS.—When a person who has elected to participate in the Plan waives that person's retired pay for the purposes of subchapter III of chapter 83 of title 5 or chapter 84 of such title, that person shall not be required to make the deposit otherwise required by subsection (d) as long as that waiver is in effect unless, in accordance with section 8339(j) or 8416(a) of title 5, that person has notified the Office of Personnel Management that he does not desire a spouse surviving him to receive an annuity under section 8341(b) or 8442(a) of title 5.
+Deposits Not Required for Certain Participants in CSRS and FERS.—When a person who has elected to participate in the Plan waives that person's retired pay for the purposes of subchapter III of chapter 83 of title 5 or chapter 84 of such title, that person shall not be required to make the deposit otherwise required by subsection (d) as long as that waiver is in effect unless, in accordance with section 8339(j) or8416(a) of title 5, that person has notified the Office of Personnel Management that he does not desire a spouse surviving him to receive an annuity under section 8341(b) or 8442(a) of title 5.
 
 (f)
 
@@ -224,7 +224,7 @@ Conditions for resumption.—A person described in paragraph (1) who discontinue
 
 &emsp;&emsp;&emsp;(i) after having discontinued participation in the Plan the Secretary of Veterans Affairs reduces that person's service-connected disability rating to a rating of less than total; and
 
-&emsp;&emsp;&emsp;(ii) that person applies to the Secretary concerned, within such period of time afterthe reduction in such person's service-connected disability rating has been made as the Secretary concerned may prescribe, to again participate in the Plan and includes in such application such information as the Secretary concerned may require.
+&emsp;&emsp;&emsp;(ii) that person applies to the Secretary concerned, within such period of time after the reduction in such person's service-connected disability rating has been made as the Secretary concerned may prescribe, to again participate in the Plan and includes in such application such information as the Secretary concerned may require.
 
 &emsp;&emsp;(B)
 
@@ -248,7 +248,7 @@ Coordination when payment of increase in retired pay is delayed by law.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding paragraph (1), when the initial payment of an increase in retired pay under section 1401a of this title (or any other provision of law) to a person is for a month that begins later than the effective date of that increase by reason of the application of subsection (b)(2)(B) of such section (or section 631(b) of Public Law 104–106 (110 Stat. 364)), then the amount of the reduction in the person's retired pay shall be effective on the date of that initial payment of the increase in retired pay rather than the effective date of the increase in retired pay.
+In general.—Notwithstanding paragraph (1), when the initial payment of an increase in retired pay under section 1401a of this title (or any other provision of law) to a person is for a month that begins later than the effective date of that increase by reason of the application of subsection (b)(2)(B) of such section (or section 631(b) of Public Law 104–106 (110 Stat. 364)), then theamount of the reduction in the person's retired pay shall be effective on the date of that initial payment of the increase in retired pay rather than the effective date of the increase in retired pay.
 
 &emsp;&emsp;(B)
 
@@ -376,7 +376,7 @@ Subsec. (g)(4). Pub. L. 97–22, §11(a)(5), substituted "this section" for "sec
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–397, §205(a), substituted pars. (1) and (2) for "by an amount equal to 2½ percent of the first $300 of the base amount plus 10 percent of the remainder of the base amount" after "shall be reduced each month".
 
-Subsec. (c). Pub. L. 95–397, §205(b), substituted pars. (1) and (2) for "by 10 percent plus 5 percent for each full 5 years the individual designated is younger than that person. However, the total reduction may not exceed 40 percent. The reduction in retired or retainer pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person receiving retired or retainer pay changes his election under section 1450(f)", and inserted provision following par. (2) that the total reduction under clause (1) may not exceed 40percent, and that the reduction in retired or retainer pay shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person changes his election under section 1450(f) of this title.
+Subsec. (c). Pub. L. 95–397, §205(b), substituted pars. (1) and (2) for "by 10 percent plus 5 percent for each full 5 years the individual designated is younger than that person. However, the total reduction may not exceed 40 percent. The reduction in retired or retainer pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person receiving retired or retainer pay changes his election under section 1450(f)", and inserted provision following par. (2) that the total reduction under clause (1) may not exceed 40 percent, and that the reduction in retired or retainer pay shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person changes his election under section 1450(f) of this title.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–496, §1(4), (5)(A), substituted "Except as provided in subsection (b), the retired or retainer pay" for "The retired or retainer pay", "(a)(4)" for "(a)(3)", and inserted provision prohibiting a reduction in retired or retainer pay during any month in which there is no eligible spouse beneficiary.
 

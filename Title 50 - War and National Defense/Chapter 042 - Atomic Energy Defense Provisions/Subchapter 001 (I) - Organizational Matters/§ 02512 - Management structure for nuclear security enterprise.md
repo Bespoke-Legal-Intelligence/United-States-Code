@@ -6,7 +6,7 @@ The Administrator shall establish a management structure for the nuclear securit
 
 #### (b) National Nuclear Security Administration Council
 
-(1) The Administrator shall establish a council to be known as the "National Nuclear SecurityAdministration Council". The Council may advise the Administrator on—
+(1) The Administrator shall establish a council to be known as the "National Nuclear Security Administration Council". The Council may advise the Administrator on—
 
 &emsp;(A) scientific and technical issues relating to policy matters;
 
@@ -160,83 +160,7 @@ Nuclear Security Enterprise Defined.—In this section, the term 'nuclear securi
 
 #### Industry Best Practices in Operations at National Nuclear Security Administration Facilities and Sites
 
-Pub. L. 114–328, div. C, title XXXI, §3118, Dec. 23, 2016, 130 Stat. 2762, provided that:
-
-"(a)
-
-Committee on Industry Best Practices in Operations.—The Administrator for Nuclear Security shall establish within the National Nuclear Security Administration a committee (in this section referred to as the 'committee') to identify and oversee the implementation of best practices of industry in the operations of the facilities and sites of the Administration for the purposes of—
-
-&emsp;"(1) improving mission performance and effectiveness;
-
-&emsp;"(2) lowering costs and administrative burdens; and
-
-&emsp;"(3) also both—
-
-&emsp;&emsp;"(A) maintaining or reducing risks; and
-
-&emsp;&emsp;"(B) preserving and protecting health, safety, and security.
-
-"(b)
-
-Membership.—The committee shall be composed of personnel of the Administration assigned by the Administrator to the committee as follows:
-
-&emsp;"(1) The Principal Deputy Administrator for Nuclear Security, who shall serve as chair of the committee.
-
-&emsp;"(2) Government personnel representing the headquarters of the Administration.
-
-&emsp;"(3) Government personnel representing offices of facilities and sites of the Administration.
-
-&emsp;"(4) Contractor personnel representing the national security laboratories and the nuclear weapons production facilities (as those terms are defined in section 4002 of the Atomic Energy Defense Act (50 U.S.C. 2501)).
-
-&emsp;"(5) Such other personnel as the Administrator considers appropriate.
-
-"(c)
-
-Duties.—The duties of the committee shall include the following:
-
-&emsp;"(1) To identify and oversee the implementation of best practices of industry in the operations of the facilities and sites of the Administration for the purposes described in subsection (a).
-
-&emsp;"(2) To conduct surveys of the facilities and sites of the Administration in order to assess the adoption, implementation, and use by such facilities and sites of best practices of industry described in subsection (a).
-
-&emsp;"(3) To carry out such other activities consistent with the duties of the committee under this subsection as the Administrator may specify for purposes of this section.
-
-"(d)
-
-Annual Report.—
-
-&emsp;"(1)
-
-In general.—Not later than 60 days after the date on which the budget of the President for a fiscal year after fiscal year 2017 is submitted to Congress pursuant to section 1105(a) of title 31, United States Code, the Administrator shall submit to the appropriate congressional committees a report on the activities of the committee under this section during the preceding calendar year.
-
-&emsp;"(2)
-
-Elements.—Each report under this subsection shall include, for the calendar year covered by such report, the following:
-
-&emsp;&emsp;"(A) A description of the activities of the committee.
-
-&emsp;&emsp;"(B) The results of the surveys undertaken pursuant to subsection (c)(2).
-
-&emsp;&emsp;"(C) As a result of the surveys, recommendations for modifications to the scope or applicability of regulations and orders of the Department of Energy to particular facilities and sites of the Administration in order to implement best practices of industry in the operation of such facilities and sites, including—
-
-&emsp;&emsp;&emsp;"(i) a list of the facilities and sites at which such regulations and orders could be so modified; and
-
-&emsp;&emsp;&emsp;"(ii) for each such facility and site, the manner in which the scope or applicability of such regulations and orders could be so modified.
-
-&emsp;&emsp;"(D) An assessment of the progress of the Administration in implementing best practices of industry in the operations of the facilities and sites of the Administration.
-
-&emsp;&emsp;"(E) An estimate of the costs to be saved as a result of the best practices of industry implementedby the Administration at the facilities and sites of the Administration, set forth by fiscal year.
-
-&emsp;"(3)
-
-Appropriate congressional committees defined.—In this subsection, the term 'appropriate congressional committees' means—
-
-&emsp;&emsp;"(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
-
-&emsp;&emsp;"(B) the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives.
-
-"(e)
-
-Termination.—The committee shall terminate after the submittal under subsection (d) of the report required by that subsection that covers 2021."
+Pub. L. 114–328, div. C, title XXXI, §3118, Dec. 23, 2016, 130 Stat. 2762, authorized the Administrator for Nuclear Security to establish within the National Nuclear Security Administration a committee to identify and oversee the implementation of best practices of industry in the operations of the facilities and sites of the Administration. The Administrator would submit to the appropriate congressional committees an annual report on the activities of the committee during the preceding calendar year not later than 60 days after the date on which the budget of the President for a fiscal year after fiscal year 2017 was submitted to Congress pursuant to section 1105(a) of title 31. The committee would terminate after the submittal of the annual report that covered 2021.
 
 #### Governance and Management of Nuclear Security Enterprise
 
@@ -246,7 +170,7 @@ Pub. L. 114–92, div. C, title XXXI, §3137, Nov. 25, 2015, 129 Stat. 1213, pro
 
 Sense of Congress.—It is the sense of Congress that—
 
-&emsp;"(1) correcting the longstanding problems with the governance and management of the nuclear security enterprise will require robust, personal, and long-term engagement by the President, the Secretary of Energy, the Administrator for Nuclear Security, and leaders from the appropriate congressional committees;
+&emsp;"(1) correcting the longstanding problems with the governance and management of the nuclear security enterprise will require robust, personal, and long-term engagement by the President, the Secretary of Energy, the Administrator for Nuclear Security, andleaders from the appropriate congressional committees;
 
 &emsp;"(2) recent and past studies of the governance and management of the nuclear security enterprise have provided a list of reasonable, practical, and actionable steps that the Secretary and the Administrator should take to make the nuclear security enterprise more efficient and more effective; and
 

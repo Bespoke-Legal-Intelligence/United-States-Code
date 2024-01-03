@@ -2,7 +2,7 @@
 
 #### (a) Time of response
 
-The Service shall respond to a notification of a claim by a provider of a contract care service with either an individual purchase order or a denial of the claim within 5 working days after the receipt of such notification.
+The Service shall respond to a notification of a claim by a provider of a contract care servicewith either an individual purchase order or a denial of the claim within 5 working days after the receipt of such notification.
 
 #### (b) Failure to timely respond
 

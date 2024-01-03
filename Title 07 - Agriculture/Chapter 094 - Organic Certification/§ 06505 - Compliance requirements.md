@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) a person may sell or label an agricultural product as organically produced only if such product is produced and handled in accordance with this chapter; and
 
-&emsp;&emsp;(B) no person may affix a label to, or provide other market information concerning, an agricultural product if such label or information implies, directly or indirectly, that such product is produced and handledusing organic methods, except in accordance with this chapter.
+&emsp;&emsp;(B) no person may affix a label to, or provide other market information concerning, an agricultural product if such label or information implies, directly or indirectly, that such product is produced and handled using organic methods, except in accordance with this chapter.
 
 #### (2) USDA standards and seal
 

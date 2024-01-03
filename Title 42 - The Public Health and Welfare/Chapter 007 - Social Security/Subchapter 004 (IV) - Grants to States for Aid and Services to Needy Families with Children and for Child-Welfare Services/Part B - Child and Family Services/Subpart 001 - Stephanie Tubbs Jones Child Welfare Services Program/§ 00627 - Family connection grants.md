@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services may make matching grants to State, local, or tribal child welfare agencies, private nonprofitorganizations that have experience in working with foster children or children in kinship care arrangements, and institutions of higher education (as defined under section 1001 of title 20), for the purpose of helping children who are in, or at risk of entering, foster care reconnect with family members through the implementation of—
+The Secretary of Health and Human Services may make matching grants to State, local, or tribal child welfare agencies, private nonprofit organizations that have experience in working with foster children or children in kinship care arrangements, and institutions of higher education (as defined under section 1001 of title 20), for the purpose of helping children who are in, or at risk of entering, foster care reconnect with family members through the implementation of—
 
 &emsp;(1) a kinship navigator program to assist kinship caregivers in learning about, finding, and using programs and services to meet the needs of the children they are raising and their own needs, and to promote effective partnerships among public and private agencies to ensure kinship caregiver families are served, which program—
 
@@ -20,7 +20,7 @@ The Secretary of Health and Human Services may make matching grants to State, lo
 
 &emsp;&emsp;&emsp;(iv) relevant legal assistance and help in obtaining legal services;
 
-&emsp;&emsp;(D) shall provide outreach to kinship care families, including by establishing, distributing, and updating a kinship care website, or other relevant guides or outreach materials;
+&emsp;&emsp;(D) shall provide outreach to kinship care families, including by establishing, distributing, and updating a kinship care website,or other relevant guides or outreach materials;
 
 &emsp;&emsp;(E) shall promote partnerships between public and private agencies, including schools, community based or faith-based organizations, and relevant government agencies, to increase their knowledge of the needs of kinship care families and other individuals who are willing and able to be foster parents for children in foster care under the responsibility of the State who are themselves parents to promote better services for those families;
 
@@ -104,7 +104,7 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 #### Prior Provisions
 
-A prior section 627, act Aug. 14, 1935, ch. 531, title IV, §427, as added June 17, 1980, Pub. L. 96–272, title I, §103(b), 94 Stat. 519; amended Dec. 19, 1989, Pub. L. 101–239, title X, §10401(a), 103 Stat. 2487, related to foster care protection required for additional payments, prior to repeal by Pub. L. 103–432, title II, §202(c), (e), Oct. 31, 1994, 108 Stat. 4454, effective with respect to fiscal years beginning on or after Apr. 1, 1996.
+A prior section 627, act Aug. 14, 1935, ch. 531, title IV, §427, as added June 17, 1980, Pub. L. 96–272, title I,§103(b), 94 Stat. 519; amended Dec. 19, 1989, Pub. L. 101–239, title X, §10401(a), 103 Stat. 2487, related to foster care protection required for additional payments, prior to repeal by Pub. L. 103–432, title II, §202(c), (e), Oct. 31, 1994, 108 Stat. 4454, effective with respect to fiscal years beginning on or after Apr. 1, 1996.
 
 #### Amendments
 

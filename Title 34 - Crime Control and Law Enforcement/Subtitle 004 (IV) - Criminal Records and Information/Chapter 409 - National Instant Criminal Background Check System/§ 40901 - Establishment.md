@@ -50,7 +50,7 @@ The Attorney General shall expedite—
 
 #### (d) Notification of licensees
 
-On establishment of the system under this section, the Attorney General shall notify each licensee and the chief law enforcement officer ofeach State of the existence and purpose of the system and the means to be used to contact the system.
+On establishment of the system under this section, the Attorney General shall notify each licensee and the chief law enforcement officer of each State of the existence and purpose of the system and the means to be used to contact the system.
 
 #### (e) Administrative provisions
 
@@ -66,7 +66,7 @@ On establishment of the system under this section, the Attorney General shall no
 
 #### (C) Quarterly submission to Attorney General
 
-&emsp;&emsp;If a Federal department or agency under subparagraph (A) has any record of any person demonstrating that the person falls within one of the categories described in subsection (g) or (n) of section 922 of title 18, the head of such department or agency shall, not less frequently than quarterly, provide the pertinent information contained in such record to the Attorney General.
+&emsp;&emsp;If a Federal department or agency under subparagraph (A) has any record of any person demonstrating that the person falls within one of the categories described in subsection (g) or (n) of section 922 of title 18, the head of such department or agency shall, not less frequently than quarterly, providethe pertinent information contained in such record to the Attorney General.
 
 #### (D) Information updates
 
@@ -176,7 +176,7 @@ If the national instant criminal background check system determines that an indi
 
 #### (g) Correction of erroneous system information
 
-If the system established under this section informs an individual contacting the system that receipt of a firearm by a prospective transferee would violate subsection (g) or (n) of section 922 of title 18 or State law, the prospective transferee may request the Attorney General to provide the prospective transferee with the reasons therefor. Upon receipt of such a request, the Attorney General shall immediately comply with the request. The prospective transferee may submit to the Attorney General information to correct, clarify, or supplement records of the system with respect to the prospective transferee. After receipt of such information, the Attorney General shall immediately consider the information, investigate the matter further, and correct all erroneous Federal records relating to the prospective transferee and give notice of the error to any Federal department or agency or any State that was the source of such erroneous records. For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee is the subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expensesof the Federal Bureau of Investigation to comply with this subsection.
+If the system established under this section informs an individual contacting the system that receipt of a firearm by a prospective transferee would violate subsection (g) or (n) of section 922 of title 18 or State law, the prospective transferee may request the Attorney General to provide the prospective transferee with the reasons therefor. Upon receipt of such a request, the Attorney General shall immediately comply with the request. The prospective transferee may submit to the Attorney General information to correct, clarify, or supplement records of the system with respect to the prospective transferee. After receipt of such information, the Attorney General shall immediately consider the information, investigate the matter further, and correct all erroneous Federal records relating to the prospective transferee and give notice of the error to any Federal department or agency or any State that was the source of such erroneous records. For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee is the subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expenses of the Federal Bureau of Investigation to comply with this subsection.
 
 #### (h) Regulations
 
@@ -196,7 +196,7 @@ As used in this section:
 
 #### (1) Licensee
 
-&emsp;The term "licensee" means a licensed importer (as defined in section 921(a)(9) of title 18), a licensed manufacturer (as defined in section 921(a)(10) of that title), or a licensed dealer (as defined in section 921(a)(11) of that title).
+&emsp;The term "licensee" means a licensed importer (as defined in section 921(a)(9) of title18), a licensed manufacturer (as defined in section 921(a)(10) of that title), or a licensed dealer (as defined in section 921(a)(11) of that title).
 
 #### (2) Other terms
 
@@ -252,7 +252,7 @@ Subsec. (l). Pub. L. 117–159, §12001(a)(2), (3), temporarily added subsec. (l
 
 <b>2018</b>—Subsec. (e)(1)(F) to (K). Pub. L. 115–141, §602(1), added subpars. (F) to (K).
 
-Subsec. (g). Pub. L. 115–141, §602(2), inserted at end "For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee isthe subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expenses of the Federal Bureau of Investigation to comply with this subsection."
+Subsec. (g). Pub. L. 115–141, §602(2), inserted at end "For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee is the subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expenses of the Federal Bureau of Investigation to comply with this subsection."
 
 <b>2008</b>—Subsec. (e)(1). Pub. L. 110–180 designated first and second sentences as subpars. (A) and (B), respectively, inserted subpar. headings, substituted "furnish electronic versions of the information described under subparagraph (A)" for "furnish such information" in subpar. (B), and added subpar. (C).
 
@@ -268,7 +268,7 @@ Subsec. (k). Pub. L. 104–294, §603(i)(1), amended directory language of Pub. 
 
 #### Termination Date of 2022 Amendment
 
-Amendment by section 12001(a)(2) of Pub. L. 117–159 repealed effective Sept. 30, 2032, and section restored as if such amendment had not been enacted, see section 12001(a)(3) of Pub. L. 117–159, set out as an Effective and Termination Dates of 2022 Amendment note under section 922 of Title 18, Crimes and Criminal Procedure.
+Amendment by section 12001(a)(2) of Pub. L. 117–159 repealed effective Sept. 30, 2032, and section restored as if such amendment had not been enacted, see section 12001(a)(3) of Pub. L. 117–159, set out as an Effective andTermination Dates of 2022 Amendment note under section 922 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1996 Amendment
 
@@ -326,7 +326,7 @@ Identification of Felons Ineligible To Purchase Handguns.—The Attorney General
 
 "(b)
 
-Report to Congress.—Not later than 1 year after the date of the enactment of this Act \[Nov. 18,1988\], the Attorney General shall report to the Congress a description of the system referred to in subsection (a) and a plan (including a cost analysis of the proposed system) for implementation of the system. Such report may include, if appropriate, recommendations for modifications of the system and legislation necessary in order to fully implement such system.
+Report to Congress.—Not later than 1 year after the date of the enactment of this Act \[Nov. 18, 1988\], the Attorney General shall report to the Congress a description of the system referred to in subsection (a) and a plan (including a cost analysis of the proposed system) for implementation of the system. Such report may include, if appropriate, recommendations for modifications of the system and legislation necessary in order to fully implement such system.
 
 "(c)
 
@@ -344,7 +344,7 @@ Memorandum of President of the United States, Jan. 16, 2013, 78 F.R. 4301, provi
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Reducing violent crime, and gun-related crime in particular, is a top priority of my Administration. A key component of this effort is ensuring that law enforcement agencies at all levels—Federal, State, and local—utilize those tools that have proven most effective. One such tool is firearms tracing, which significantly assists law enforcement in reconstructing the transfer and movement of seized or recovered firearms. Responsibility for conducting firearms tracing rests with the Department of Justice's Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF). Over the years, firearms tracing has significantly assisted law enforcement in solving violent crimes and generating thousands of leads that may otherwise not have been available.
+Reducing violent crime, and gun-related crime in particular, is a top priority of my Administration. A keycomponent of this effort is ensuring that law enforcement agencies at all levels—Federal, State, and local—utilize those tools that have proven most effective. One such tool is firearms tracing, which significantly assists law enforcement in reconstructing the transfer and movement of seized or recovered firearms. Responsibility for conducting firearms tracing rests with the Department of Justice's Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF). Over the years, firearms tracing has significantly assisted law enforcement in solving violent crimes and generating thousands of leads that may otherwise not have been available.
 
 Firearms tracing provides two principal benefits. First, tracing is an important investigative tool in individual cases, providing law enforcement agents with critical information that may lead to the apprehension of suspects, the recovery of other guns used in the commission of crimes, and the identification of potential witnesses, among other things. Second, analysis of tracing data in the aggregate provides valuable intelligence about local, regional, and national patterns relating to the movement and sources of guns used in the commission of crimes, which is useful for the effective deployment of law enforcement resources and development of enforcement strategies. Firearms tracing is a particularly valuable tool in detecting and investigating firearms trafficking, and has been deployed to help combat the pernicious problem of firearms trafficking across the Southwest border.
 

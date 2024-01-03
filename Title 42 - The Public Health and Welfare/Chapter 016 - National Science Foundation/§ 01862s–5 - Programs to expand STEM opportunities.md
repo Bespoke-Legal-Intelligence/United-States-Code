@@ -52,7 +52,7 @@ The Director of the Foundation shall continue to support programs designed to br
 
 #### (3) Research
 
-&emsp;As a component of improving participation of women in STEM fields, research funded bya grant under this subsection may include research on—
+&emsp;As a component of improving participation of women in STEM fields, research funded by a grant under this subsection may include research on—
 
 &emsp;&emsp;(A) the role of teacher training and professional development, including effective incentive structures to encourage teachers to participate in such training and professional development, in encouraging or discouraging female students in prekindergarten through elementary school from participating in STEM activities;
 
@@ -60,7 +60,7 @@ The Director of the Foundation shall continue to support programs designed to br
 
 &emsp;&emsp;(C) the role of other facets of the learning environment on the willingness of female students in prekindergarten through elementary school to participate in STEM activities, including learning materials and textbooks, seating arrangements, use of media and technology, classroom culture, and composition of students during group work;
 
-&emsp;&emsp;(D) the role of parents and other caregivers in encouraging or discouraging female students in prekindergarten through elementary school from participating in STEM activities;
+&emsp;&emsp;(D) the role of parents and other caregivers in encouraging or discouraging femalestudents in prekindergarten through elementary school from participating in STEM activities;
 
 &emsp;&emsp;(E) the types of STEM activities that encourage greater participation by female students in prekindergarten through elementary school;
 
@@ -184,7 +184,7 @@ The Director of the Foundation shall continue to support programs designed to br
 
 #### (A) In general
 
-&emsp;&emsp;All awards made under this subsection shall include an education research component that will support the design and implementation of a system for data collection and evaluation of proposed reform efforts in order to build the knowledge base on promising models for increasing recruitment and retention of students from underrepresented minority groups in STEM education at the undergraduate level across a diverse set of institutions.
+&emsp;&emsp;All awards made under this subsection shall include an education research component that will support the design and implementation of a system for data collection and evaluation of proposed reform efforts inorder to build the knowledge base on promising models for increasing recruitment and retention of students from underrepresented minority groups in STEM education at the undergraduate level across a diverse set of institutions.
 
 #### (B) Dissemination
 

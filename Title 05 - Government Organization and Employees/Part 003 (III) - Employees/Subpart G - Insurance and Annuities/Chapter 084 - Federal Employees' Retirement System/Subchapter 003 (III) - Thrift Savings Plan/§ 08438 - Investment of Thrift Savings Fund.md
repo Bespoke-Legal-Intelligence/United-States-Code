@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) a broker or dealer registered under section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o) that has, on the last day of the broker's or dealer's latest fiscal year ending before the date of a determination for the purpose of this clause, net worth in excess of $750,000;
 
-&emsp;(9) the term "shareholder's or partner's equity", as used in paragraph (8)(D) with respect to an investment adviser or a person (as defined in section 8471(4) of this title) who is affiliated with the investment adviser in a manner described in clause (ii)(I) of such paragraph (8)(D), means the equity shown in themost recent balance sheet prepared for such investment adviser or affiliated person, in accordance with generally accepted accounting principles, within 2 years before the date on which the investment adviser's status as a qualified professional asset manager is determined for the purposes of this section; and
+&emsp;(9) the term "shareholder's or partner's equity", as used in paragraph (8)(D) with respect to an investment adviser or a person (as defined in section 8471(4) of this title) who is affiliated with the investment adviser in a manner described in clause (ii)(I) of such paragraph (8)(D), means the equity shown in the most recent balance sheet prepared for such investment adviser or affiliated person, in accordance with generally accepted accounting principles, within 2 years before the date on which the investment adviser's status as a qualified professional asset manager is determined for the purposes of this section; and
 
 &emsp;(10) the term "Small Capitalization Stock Index Investment Fund" means the Small Capitalization Stock Index Investment Fund established under subsection (b)(1)(D).
 
@@ -106,7 +106,7 @@
 
 (e)(1) The Secretary of the Treasury is authorized to issue special interest-bearing obligations of the United States for purchase by the Thrift Savings Fund for the Government Securities Investment Fund.
 
-(2)(A) Obligations issued for the purpose of this subsection shall have maturities fixed with due regard to the needs of such Fund as determined by the Executive Director, and shall bear interest at a rate equal to the average market yield (computed by the Secretary of the Treasury on the basis of market quotations as of theend of the calendar month next preceding the date of issue of such obligations) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable earlier than 4 years after the end of such calendar month.
+(2)(A) Obligations issued for the purpose of this subsection shall have maturities fixed with due regard to the needs of such Fund as determined by the Executive Director, and shall bear interest at a rate equal to the average market yield (computed by the Secretary of the Treasury on the basis of market quotations as of the end of the calendar month next preceding the date of issue of such obligations) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable earlier than 4 years after the end of such calendar month.
 
 (B) Any average market yield computed under subparagraph (A) which is not a multiple of one-eighth of 1 percent, shall be rounded to the nearest multiple of one-eighth of 1 percent.
 
@@ -124,7 +124,7 @@
 
 &emsp;(B) the net amount of interest actually earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period.
 
-(5) On each business day during the debt limit suspension period, the Executive Director shall notify the Secretary of the Treasury of the amounts, by maturity, that would have been invested or redeemed each day had the debt issuance suspension period not occurred.
+(5) On each business day during the debt limit suspension period, the Executive Director shall notify the Secretary of the Treasury of theamounts, by maturity, that would have been invested or redeemed each day had the debt issuance suspension period not occurred.
 
 (6) For purposes of this subsection and subsection (h) of this section—
 
@@ -152,7 +152,7 @@ Subsec. (b)(5). Pub. L. 111–31, §104(b), added par. (5).
 
 Subsec. (d)(1). Pub. L. 111–31, §104(c), inserted "and options" after "investment funds".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §659 \[title I, §102(1)\]\], added par. (5), redesignated formerpars. (5) to (8) as (6) to (9), respectively, in par. (9) substituted "paragraph (8)(D)" for "paragraph (7)(D)" in two places, and added par. (10).
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §659 \[title I, §102(1)\]\], added par. (5), redesignated former pars. (5) to (8) as (6) to (9), respectively, in par. (9) substituted "paragraph (8)(D)" for "paragraph (7)(D)" in two places, and added par. (10).
 
 Subsec. (b). Pub. L. 104–208, §101(f) \[title VI, §659 \[title I, §102(2)\]\], in par. (1) added subpars. (D) and (E) and added pars. (3) and (4).
 
@@ -198,7 +198,7 @@ Section 101(f) \[title VI, §659 \[title I, §104\]\] provided that: "This title
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or as of such earlier date as Executive Director may by regulation prescribe, see section 3(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
+Amendment by Pub. L. 101–335 effective as of second election period described in section 8432(b) of this titlebeginning after July 17, 1990, or as of such earlier date as Executive Director may by regulation prescribe, see section 3(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
 
 #### Effective Date of 1988 Amendment
 

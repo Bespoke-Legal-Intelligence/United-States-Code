@@ -14,7 +14,7 @@
 
 &emsp;(iii) may review any grant, contract, or cooperative agreement proposed to be made or entered into by the institute;
 
-&emsp;(B) may collect, by correspondence or by personal investigation, information as to studies which are being carried on in the United States or any other country as to the diseases,disorders, or other aspect of human health with respect to which the institute was established and with the approval of the Director of the institute make available such information through appropriate publications for the benefit of public and private health entities and health professions personnel and scientists and for the information of the general public; and
+&emsp;(B) may collect, by correspondence or by personal investigation, information as to studies which are being carried on in the United States or any other country as to the diseases, disorders, or other aspect of human health with respect to which the institute was established and with the approval of the Director of the institute make available such information through appropriate publications for the benefit of public and private health entities and health professions personnel and scientists and for the information of the general public; and
 
 &emsp;(C) may appoint subcommittees and convene workshops and conferences.
 

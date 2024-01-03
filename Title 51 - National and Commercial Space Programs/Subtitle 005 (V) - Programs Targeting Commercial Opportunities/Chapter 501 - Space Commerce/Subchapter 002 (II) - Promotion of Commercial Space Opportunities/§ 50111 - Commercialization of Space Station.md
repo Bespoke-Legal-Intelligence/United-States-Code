@@ -42,7 +42,7 @@ In general.—The Administrator, in coordination with the ISS management entity 
 
 &emsp;(2)
 
-Reports.—Not later than December 1, 2017, and biennially thereafter until 2028, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that includes—
+Reports.—Not later than December 1, 2017, and biennially thereafter until 2028, the Administrator shall submit to the Committeeon Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that includes—
 
 &emsp;&emsp;(A) a description of the progress in achieving the Administration's deep space human exploration objectives on ISS and prospects for accomplishing future mission requirements, space exploration objectives, and other research objectives on future commercially supplied low-Earth orbit platforms or migration of those objectives to cis-lunar space;
 
@@ -118,7 +118,7 @@ Pub. L. 105–303, title I, §101(a), Oct. 28, 1998, 112 Stat. 2845.
 
 Pub. L. 110–422, title IX, §902, Oct. 15, 2008, 122 Stat. 4805.
 
-In subsection (b)(1)(D), the date "October 15, 2008" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008 (Public Law 110–422, 122 Stat. 4779).
+In subsection (b)(1)(D), the date "October 15, 2008" is substituted for "the date of enactment of this Act" toreflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008 (Public Law 110–422, 122 Stat. 4779).
 
 #### <b>Editorial Notes</b>
 

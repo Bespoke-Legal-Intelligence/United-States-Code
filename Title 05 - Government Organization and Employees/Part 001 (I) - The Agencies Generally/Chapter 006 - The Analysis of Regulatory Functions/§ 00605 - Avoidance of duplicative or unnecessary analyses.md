@@ -1,6 +1,6 @@
 ### §605. Avoidance of duplicative or unnecessary analyses
 
-(a) Any Federal agency may perform the analyses required by sections 602, 603, and 604 of thistitle in conjunction with or as a part of any other agenda or analysis required by any other law if such other analysis satisfies the provisions of such sections.
+(a) Any Federal agency may perform the analyses required by sections 602, 603, and 604 of this title in conjunction with or as a part of any other agenda or analysis required by any other law if such other analysis satisfies the provisions of such sections.
 
 (b) Sections 603 and 604 of this title shall not apply to any proposed or final rule if the head of the agency certifies that the rule will not, if promulgated, have a significant economic impact on a substantial number of small entities. If the head of the agency makes a certification under the preceding sentence, the agency shall publish such certification in the Federal Register at the time of publication of general notice of proposed rulemaking for the rule or at the time of publication of the final rule, along with a statement providing the factual basis for such certification. The agency shall provide such certification and statement to the Chief Counsel for Advocacy of the Small Business Administration.
 
@@ -18,7 +18,7 @@
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section 245 of Pub. L. 104–121, set out as a note under section 601 of this title.
+Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section245 of Pub. L. 104–121, set out as a note under section 601 of this title.
 
 #### Effective Date
 

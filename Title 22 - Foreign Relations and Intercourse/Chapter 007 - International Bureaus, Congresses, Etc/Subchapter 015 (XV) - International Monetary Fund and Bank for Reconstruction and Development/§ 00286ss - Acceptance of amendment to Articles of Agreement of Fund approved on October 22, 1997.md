@@ -14,5 +14,5 @@ The United States Governor of the Fund may agree to and accept the amendment to 
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–117, div. F, title VII, §7034(q)(1)(B), Dec. 16, 2009, 123 Stat. 3363, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 1402 of Public Law 111–32."
+Pub. L. 111–117, div. F, title VII, §7034(q)(1)(B), Dec. 16, 2009, 123 Stat. 3363, provided that: "The amendmentmade by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 1402 of Public Law 111–32."
 

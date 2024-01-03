@@ -98,11 +98,35 @@ Definitions.—In this section:
 
 &emsp;&emsp;(O) A propulsor.
 
-(Added Pub. L. 113–291, div. A, title X, §1022(a)(1), Dec. 19, 2014, 128 Stat. 3486; amended Pub. L. 114–92, div. A, title X, §1022(a), Nov. 25, 2015, 129 Stat. 965; Pub. L. 114–328, div. A, title X, §1023, Dec. 23, 2016, 130 Stat. 2388; Pub. L. 115–91, div. A, title X, §1022, Dec. 12, 2017, 131 Stat. 1548; Pub. L. 116–283, div. A, title X, §1023(a), Jan. 1, 2021, 134 Stat. 3840.)
+&emsp;&emsp;(P) Major bulkheads and tanks.
+
+&emsp;&emsp;(Q) All major pumps and motors.
+
+&emsp;&emsp;(R) Large vertical array.
+
+&emsp;&emsp;(S) Atmosphere control equipment.
+
+&emsp;&emsp;(T) Diesel systems and components.
+
+&emsp;&emsp;(U) Hydraulic valves and components.
+
+&emsp;&emsp;(V) Bearings.
+
+&emsp;&emsp;(W) Major air and blow valves and components.
+
+&emsp;&emsp;(X) Decks and superstructure.
+
+&emsp;&emsp;(Y) Castings, forgings, and tank structure.
+
+&emsp;&emsp;(Z) Hatches and hull penetrators.
+
+(Added Pub. L. 113–291, div. A, title X, §1022(a)(1), Dec. 19, 2014, 128 Stat. 3486; amended Pub. L. 114–92, div. A, title X, §1022(a), Nov. 25, 2015, 129 Stat. 965; Pub. L. 114–328, div. A, title X, §1023, Dec. 23, 2016, 130 Stat. 2388; Pub. L. 115–91, div. A, title X, §1022, Dec. 12, 2017, 131 Stat. 1548; Pub. L. 116–283, div. A, title X, §1023(a), Jan. 1, 2021, 134 Stat. 3840; Pub. L. 118–31, div. A, title X, §1016, Dec. 22, 2023, 137 Stat. 382.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (k)(3)(P) to (Z). Pub. L. 118–31 added subpars. (P) to (Z).
 
 <b>2021</b>—Subsec. (h)(1). Pub. L. 116–283 substituted "incrementally funded contracts for—" for "incrementally funded contracts for advance procurement of high value, long lead time items for nuclear powered vessels to better support construction schedules and achieve cost savings through schedule reductions and properly phased installment payments." and added subpars. (A) and (B).
 

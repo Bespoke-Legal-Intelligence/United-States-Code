@@ -54,7 +54,7 @@ Grants awarded to eligible entities under subsection (a) shall be for a term of 
 
 #### (1) Use of funds
 
-&emsp;Each eligible entity that receives a grant under subsection (a)(2) shall use the grant funds to establish a Congressional Academy that offers a seminar or institute for outstanding students of American history and civics, which—
+&emsp;Each eligible entity that receives a grant under subsection (a)(2) shall use the grantfunds to establish a Congressional Academy that offers a seminar or institute for outstanding students of American history and civics, which—
 
 &emsp;&emsp;(A) broadens and deepens such students' understanding of American history and civics;
 
@@ -124,7 +124,7 @@ Pub. L. 108–474, Dec. 21, 2004, 118 Stat. 3898, as amended by Pub. L. 114–95
 
 Establishment.—The Secretary of Education (referred to in this Act as the 'Secretary') may award not more than 12 grants, on a competitive basis—
 
-&emsp;"(1) to entities to establish Presidential Academies for Teaching of American History and Civics thatmay offer workshops for both veteran and new teachers of American history and civics; and
+&emsp;"(1) to entities to establish Presidential Academies for Teaching of American History and Civics that may offer workshops for both veteran and new teachers of American history and civics; and
 
 &emsp;"(2) to entities to establish Congressional Academies for Students of American History and Civics.
 

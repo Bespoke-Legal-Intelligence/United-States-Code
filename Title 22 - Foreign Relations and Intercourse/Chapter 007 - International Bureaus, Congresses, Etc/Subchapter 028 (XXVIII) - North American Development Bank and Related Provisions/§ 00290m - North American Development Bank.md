@@ -24,7 +24,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### (A) Funding
 
-&emsp;&emsp;For fiscal year 1995, the Secretary of the Treasury shall pay to the Bank out of any sums in the Treasury not otherwise appropriated the sum of $56,250,000 for the paid-in portion of the United States share of the capital stock of the Bank, 10 percent of which may be transferred by the Bank to the President pursuant to section 290m–2 of this title to pay for the cost of direct and guaranteed Federal loans.
+&emsp;&emsp;For fiscal year 1995, the Secretary of the Treasury shall pay to the Bank out of anysums in the Treasury not otherwise appropriated the sum of $56,250,000 for the paid-in portion of the United States share of the capital stock of the Bank, 10 percent of which may be transferred by the Bank to the President pursuant to section 290m–2 of this title to pay for the cost of direct and guaranteed Federal loans.
 
 #### (B) Limitation on callable capital subscriptions
 
@@ -88,7 +88,7 @@ Section is comprised of section 541 of Pub. L. 103–182. Subsec. (h)(1) of sect
 
 <b>2020</b>—Pub. L. 116–260, §601(a)(1), (2), provided that section 601 of Pub. L. 116–113 does not apply to this section and revived the provisions of this section as if such section 601 had not been enacted. See below.
 
-Pub. L. 116–113, §601, which repealed this section effective on the date the USMCA entered into force (July1, 2020), was made inapplicable to this section by section 601(a)(1), (2) of Pub. L. 116–260.
+Pub. L. 116–113, §601, which repealed this section effective on the date the USMCA entered into force (July 1, 2020), was made inapplicable to this section by section 601(a)(1), (2) of Pub. L. 116–260.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

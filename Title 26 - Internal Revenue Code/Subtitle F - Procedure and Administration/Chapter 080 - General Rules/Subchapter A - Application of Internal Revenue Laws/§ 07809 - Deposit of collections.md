@@ -18,7 +18,7 @@ In accordance with instructions of the Secretary, there shall be deposited with 
 
 #### (3) Surplus proceeds in sales under levy
 
-&emsp;Surplus proceeds in any sale under levy, after making allowance for the amount of thetax, interest, penalties, and additions thereto, and for costs and charges of the levy and sale; and
+&emsp;Surplus proceeds in any sale under levy, after making allowance for the amount of the tax, interest, penalties, and additions thereto, and for costs and charges of the levy and sale; and
 
 #### (4) Surplus proceeds in sales of redeemed property
 

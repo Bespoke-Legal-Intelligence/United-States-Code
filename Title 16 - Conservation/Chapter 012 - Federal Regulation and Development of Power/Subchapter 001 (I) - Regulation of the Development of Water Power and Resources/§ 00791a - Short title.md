@@ -26,5 +26,5 @@ Pub. L. 100–473, §1, Oct. 6, 1988, 102 Stat. 2299, provided that: "This Act \
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–495, §1(a), Oct. 16, 1986, 100 Stat. 1243, provided that: "This Act \[enacting sections 797b and 823b of this title, amending sections 797, 800, 802, 803, 807, 808, 817, 823a, 824a–3, and 824j of this title, and enacting provisions set out as notes under sections 797, 803, 823a, 824a–3, and 825h of this title\] may be cited as the 'Electric Consumers Protection Act of 1986'."
+Pub. L. 99–495, §1(a), Oct. 16, 1986, 100 Stat. 1243, provided that: "This Act \[enacting sections 797b and 823b of this title, amending sections 797, 800, 802, 803, 807, 808, 817, 823a, 824a–3, and 824j of this title, and enacting provisions set out as notes under sections 797, 803, 823a,824a–3, and 825h of this title\] may be cited as the 'Electric Consumers Protection Act of 1986'."
 

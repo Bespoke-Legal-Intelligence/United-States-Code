@@ -10,7 +10,7 @@ In the case of an enterprise zone business, for purposes of section 179—
 
 &emsp;&emsp;(B) the cost of section 179 property which is qualified zone property placed in service during the taxable year, and
 
-&emsp;(2) the amount taken into account under section 179(b)(2) with respect to any section 179 property which is qualified zone property shall be 50 percent of the cost thereof.
+&emsp;(2) the amount taken into account under section 179(b)(2) with respect to any section 179property which is qualified zone property shall be 50 percent of the cost thereof.
 
 #### (b) Recapture
 

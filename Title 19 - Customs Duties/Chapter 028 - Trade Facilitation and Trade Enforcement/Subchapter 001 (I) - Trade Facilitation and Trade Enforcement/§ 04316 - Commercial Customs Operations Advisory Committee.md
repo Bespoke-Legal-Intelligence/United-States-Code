@@ -72,7 +72,7 @@ Section 1013(a) of title 5 shall not apply to the Advisory Committee.
 
 #### (2) Reference
 
-&emsp;Any reference in law to the Advisory Committee on Commercial Operations of the United States Customs Service established under section 9503(c) of the Omnibus BudgetReconciliation Act of 1987 (19 U.S.C. 2071 note) made on or after the date on which the Advisory Committee is established under subsection (a), shall be deemed a reference to the Commercial Customs Operations Advisory Committee established under subsection (a).
+&emsp;Any reference in law to the Advisory Committee on Commercial Operations of the United States Customs Service established under section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (19 U.S.C. 2071 note) made on or after the date on which the Advisory Committee is established under subsection (a), shall be deemed a reference to the Commercial Customs Operations Advisory Committee established under subsection (a).
 
 (Pub. L. 114–125, title I, §109, Feb. 24, 2016, 130 Stat. 136; Pub. L. 117–286, §4(a)(143), Dec. 27, 2022, 136 Stat. 4321.)
 

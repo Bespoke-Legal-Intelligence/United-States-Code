@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—Whenever space is unavailable on commercial lines and is available on vessels, vehicles, or aircraft operated by the Department of Defense, civilian passengers and commercial cargo may, in the discretion of the Secretary of Defense, be transported on those vessels, vehicles, or aircraft. Rates for transportation under this section may not be less than those charged by commercial lines for the same kinds of service, except that in the case of transportation provided in response to an emergency, a disaster, or a request for humanitarian assistance, any amount charged for such transportation may not exceed the cost of providing the transportation.
+Authority.—Whenever space is unavailable on commercial lines and is available on vessels, vehicles, or aircraft operated by the Department of Defense, civilian passengers and commercial cargo may, in the discretion of the Secretary of Defense, be transported on those vessels, vehicles, or aircraft. Rates for transportation under this section may not be less than those charged by commercial lines for the same kinds of service, except that in the case of transportationprovided in response to an emergency, a disaster, or a request for humanitarian assistance, any amount charged for such transportation may not exceed the cost of providing the transportation.
 
 (b)
 
@@ -82,7 +82,7 @@ Subsec. (a). Pub. L. 108–375, §1072(b)(2)(B)–(D), struck out "(1) on vessel
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1980 Amendment
 

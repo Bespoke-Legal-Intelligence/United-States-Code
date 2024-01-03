@@ -4,7 +4,7 @@
 
 The Secretary is authorized, subject to the requirements of section 3412(f) of this title, to allocate or reallocate functions among the officers of the Department, and to establish, consolidate, alter, or discontinue such organizational entities within the Department as may be necessary or appropriate, but the authority of the Secretary under this subsection does not extend to—
 
-&emsp;(1) any office, bureau, unit, or other entity transferred to the Department and establishedby statute or any function vested by statute in such an entity or officer of such an entity, except as provided in subsection (b);
+&emsp;(1) any office, bureau, unit, or other entity transferred to the Department and established by statute or any function vested by statute in such an entity or officer of such an entity, except as provided in subsection (b);
 
 &emsp;(2) the abolition of organizational entities established by this chapter; or
 
@@ -55,6 +55,8 @@ The Secretary is authorized, subject to the requirements of section 3412(f) of t
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

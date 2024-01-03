@@ -120,7 +120,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (A) In general
 
-&emsp;&emsp;With respect to irrevocable trusts and estates, the Secretary shall administer this section through section 1308–5 of this title in such manner as the Secretary determines will ensure the fair and equitable treatment of the beneficiaries of the trusts and estates.
+&emsp;&emsp;With respect to irrevocable trusts and estates, the Secretary shall administer thissection through section 1308–5 of this title in such manner as the Secretary determines will ensure the fair and equitable treatment of the beneficiaries of the trusts and estates.
 
 #### (B) Irrevocable trust
 
@@ -208,7 +208,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (f)(6)(A), a State or local government, or political subdivision or agency of the government, shall be eligible, subject to the limitation in paragraph (2), to receive a payment described in subsection (b) or (c) for land owned by the State or local government, or political subdivision or agency of the government, that is used to maintain a public school.
+&emsp;Notwithstanding subsection (f)(6)(A), a State or local government, or political subdivision or agency of the government, shall be eligible, subject to the limitation in paragraph (2), to receive a payment described in subsection (b) or (c) for land owned by the State or local government, or political subdivision or agency ofthe government, that is used to maintain a public school.
 
 #### (2) Limitation
 
@@ -224,7 +224,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or section 1308–1 of this title, to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
 
-(Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986,100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, §1603(a), (b), May 13, 2002, 116 Stat. 213, 214; Pub. L. 110–234, title I, §1603(a), (b), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, §4(a), title I, §1603(a), (b), June 18, 2008, 122 Stat. 1664, 1730; Pub. L. 113–79, title I, §§1603(a)–(b)(2), 1605(f), Feb. 7, 2014, 128 Stat. 705, 706, 708; Pub. L. 115–334, title I, §1703(a), Dec. 20, 2018, 132 Stat. 4525.)
+(Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, §1603(a), (b), May 13, 2002, 116 Stat. 213, 214; Pub. L. 110–234, title I, §1603(a), (b), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, §4(a), title I, §1603(a), (b), June 18, 2008, 122 Stat. 1664, 1730; Pub. L. 113–79, title I, §§1603(a)–(b)(2), 1605(f), Feb. 7, 2014, 128 Stat. 705, 706, 708; Pub. L. 115–334, title I, §1703(a), Dec. 20, 2018, 132 Stat. 4525.)
 
 #### <b>Editorial Notes</b>
 
@@ -410,7 +410,7 @@ Pub. L. 100–203, title I, §1304(a), Dec. 22, 1987, 101 Stat. 1330–17, provi
 
 "(1)
 
-In general.—The Secretary of Agriculture shall implement a payment provisions education program for appropriate personnel of the Department of Agriculture and members and other personnel of local, county, and State committees established under section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)), for the purpose of fostering more effective and uniform application of the payment limitations and restrictions under sections 1001 through 1001C of the Food Security Act of 1985 \[sections 1808 to 1308–3 of this title\].
+In general.—The Secretary of Agriculture shall implement a payment provisions education program for appropriate personnel of the Department of Agriculture and members and other personnel of local, county, andState committees established under section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)), for the purpose of fostering more effective and uniform application of the payment limitations and restrictions under sections 1001 through 1001C of the Food Security Act of 1985 \[sections 1808 to 1308–3 of this title\].
 
 "(2)
 

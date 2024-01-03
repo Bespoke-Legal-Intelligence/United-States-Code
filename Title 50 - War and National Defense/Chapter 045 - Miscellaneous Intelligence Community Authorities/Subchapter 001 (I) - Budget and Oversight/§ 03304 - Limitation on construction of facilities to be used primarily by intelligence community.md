@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (b), no project for the construction of any facility tobe used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $6,000,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President's annual fiscal year budget request and is specifically authorized by the Congress.
+&emsp;Except as provided in subsection (b), no project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $6,000,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President's annual fiscal year budget request and is specifically authorized by the Congress.
 
 #### (2) Notification
 

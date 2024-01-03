@@ -8,7 +8,7 @@ The Secretary shall develop and update, as necessary, protocols for the resumpti
 
 &emsp;(2) a plan to redeploy resources and personnel, as necessary, to reestablish the flow of trade;
 
-&emsp;(3) a plan to provide training for the periodic instruction of personnel of the United States Customs and Border Protection, the Coast Guard, and the Transportation Security Administration in trade resumption functions and responsibilities; and
+&emsp;(3) a plan to provide training for the periodic instruction of personnel of the United States Customs and Border Protection, the CoastGuard, and the Transportation Security Administration in trade resumption functions and responsibilities; and
 
 &emsp;(4) appropriate factors for establishing prioritization of vessels and cargo determined by the President to be critical for response and recovery, including factors relating to public health, national security, and economic need.
 

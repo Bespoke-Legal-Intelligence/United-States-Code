@@ -14,5 +14,5 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 #### Transfer of Functions
 
-"Secretary or the Federal Energy Regulatory Commission" substituted for "Federal Power Commission" pursuant to sections 301(a), 402, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7172, 7293, and 7297 of this title and which terminated the Federal Power Commission and transferred its functions to the Federal Energy Regulatory Commission and the Secretary of Energy.
+"Secretary or the Federal Energy Regulatory Commission" substituted for "Federal Power Commission" pursuant to sections 301(a), 402, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7172, 7293,and 7297 of this title and which terminated the Federal Power Commission and transferred its functions to the Federal Energy Regulatory Commission and the Secretary of Energy.
 

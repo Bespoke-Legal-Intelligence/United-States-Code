@@ -24,7 +24,7 @@ In making a determination of independence under section 1087vv(d)(8) of this tit
 
 #### (b) Documentation process for foster care youth
 
-If an institution requires that a student provide documentation that the student was in foster care when the student was age 13 or older, a financial aid administrator shall consider any of the following as adequate documentation, in the absence of documented conflicting information:
+If an institution requires that a student provide documentation that the student was in foster care when the student was age 13 or older, afinancial aid administrator shall consider any of the following as adequate documentation, in the absence of documented conflicting information:
 
 &emsp;(1) Submission of a court order or official State documentation that the student received Federal or State support in foster care.
 

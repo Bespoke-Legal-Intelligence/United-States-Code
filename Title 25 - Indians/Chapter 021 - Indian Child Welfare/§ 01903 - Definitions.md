@@ -34,7 +34,7 @@ For the purposes of this chapter, except as may be specifically provided otherwi
 
 &emsp;(11) "Secretary" means the Secretary of the Interior; and
 
-&emsp;(12) "tribal court" means a court with jurisdiction over child custody proceedings and which is either a Court of Indian Offenses, acourt established and operated under the code or custom of an Indian tribe, or any other administrative body of a tribe which is vested with authority over child custody proceedings.
+&emsp;(12) "tribal court" means a court with jurisdiction over child custody proceedings and which is either a Court of Indian Offenses, a court established and operated under the code or custom of an Indian tribe, or any other administrative body of a tribe which is vested with authority over child custody proceedings.
 
 (Pub. L. 95–608, §4, Nov. 8, 1978, 92 Stat. 3069.)
 

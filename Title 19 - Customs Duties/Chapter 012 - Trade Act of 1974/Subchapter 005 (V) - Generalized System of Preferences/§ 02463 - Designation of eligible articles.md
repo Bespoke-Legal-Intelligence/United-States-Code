@@ -54,7 +54,7 @@
 
 &emsp;The President may not designate any article as an eligible article under subsection (a) if such article is within one of the following categories of import-sensitive articles:
 
-&emsp;&emsp;(A) Except as provided in paragraphs (4) and (5),<sup>1</sup> textile and apparel articles which were not eligible articles for purposes of thissubchapter on January 1, 1994, as this subchapter was in effect on such date.
+&emsp;&emsp;(A) Except as provided in paragraphs (4) and (5),<sup>1</sup> textile and apparel articles which were not eligible articles for purposes of this subchapter on January 1, 1994, as this subchapter was in effect on such date.
 
 &emsp;&emsp;(B) Watches, except those watches entered after June 30, 1989, that the President specifically determines, after public notice and comment, will not cause material injury to watch or watch band, strap, or bracelet manufacturing and assembly operations in the United States or the United States insular possessions.
 
@@ -126,7 +126,7 @@
 
 #### (C) Redesignations
 
-&emsp;&emsp;A country which is no longer treated as a beneficiary developing country with respectto an eligible article by reason of subparagraph (A) may, subject to the considerations set forth in sections 2461 and 2462 of this title, be redesignated a beneficiary developing country with respect to such article if imports of such article from such country did not exceed the limitations in subparagraph (A) during the preceding calendar year.
+&emsp;&emsp;A country which is no longer treated as a beneficiary developing country with respect to an eligible article by reason of subparagraph (A) may, subject to the considerations set forth in sections 2461 and 2462 of this title, be redesignated a beneficiary developing country with respect to such article if imports of such article from such country did not exceed the limitations in subparagraph (A) during the preceding calendar year.
 
 #### (D) Least-developed beneficiary developing countries and beneficiary sub-Saharan African countries
 
@@ -204,7 +204,7 @@
 
 #### (C) Calculation of limitations
 
-&emsp;&emsp;There shall be counted against the limitations imposed under subparagraphs (A) and (B) for any calendar year only that value of any eligible article of any country that—
+&emsp;&emsp;There shall be counted against the limitations imposed under subparagraphs (A) and\(B) for any calendar year only that value of any eligible article of any country that—
 
 &emsp;&emsp;&emsp;(i) entered duty-free under this subchapter during such calendar year; and
 

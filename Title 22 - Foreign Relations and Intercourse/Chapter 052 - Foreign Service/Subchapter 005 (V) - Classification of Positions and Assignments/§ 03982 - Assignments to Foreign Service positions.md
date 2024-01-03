@@ -40,9 +40,67 @@ Section 3902(a)(3) of this title, referred to in subsec. (c), was redesignated s
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Supporting Tandem Spouses in the Foreign Service
+
+Pub. L. 118–31, div. F, title LXII, §6227, Dec. 22, 2023, 137 Stat. 980, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) challenges finding and maintaining spousal employment and family dissatisfaction are one of the leading reasons employees cite for leaving the Department \[of State\];
+
+&emsp;"(2) tandem Foreign Service personnel represent important members of the Foreign Service community, who act as force multipliers for our diplomacy;
+
+&emsp;"(3) the Department can and should do more to keep tandem spouses posted together and consider family member employment needs when assigning tandem officers; and
+
+&emsp;"(4) common sense steps providing more flexibility in the assignments process would improve outcomes for tandem officers without disadvantaging other Foreign Service Officers.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Family togetherness.—The term 'family togetherness' means facilitating the placement of Foreign Service personnel at the same United States diplomatic post when both spouses are members of a tandem couple of Foreign Service personnel.
+
+&emsp;"(2)
+
+Tandem foreign service personnel; tandem.—The terms 'tandem Foreign Service personnel' and 'tandem' mean a member of a couple of which one spouse is a career or career candidate employee of the Foreign Service and the other spouse is a career or career candidate employee of the Foreign Service or an employee of one of the agencies authorized to use the Foreign Service Personnel System under section 202 of the Foreign Service Act of 1980 (22 U.S.C. 3922).
+
+"(c)
+
+Family Togetherness in Assignments.—Not later than 90 days after the date of enactment of this division \[Dec. 22, 2023\], the Department shall amend and update its policies to further promote the principle of family togetherness in the Foreign Service, which shall include the following:
+
+&emsp;"(1)
+
+Entry-level foreign service personnel.—The Secretary \[of State\] shall adopt policies and procedures to facilitate the assignment of entry-level tandem Foreign Service personnel on directed assignments to the same diplomatic post or country as their tandem spouse if they request to be assigned to the same post or country. The Secretary shall also provide a written justification to the requesting personnel explaining any denial of a request that would result in tandem spouses not serving together at the same post or country.
+
+&emsp;"(2)
+
+Tenured foreign service personnel.—The Secretary shall add family togetherness to the criteria when making a needs of the Service determination, as defined by the Foreign Affairs Manual, for the placement of tenured tandem Foreign Service personnel at United States diplomatic posts.
+
+&emsp;"(3)
+
+Updates to antinepotism policy.—The Secretary shall update antinepotism policies so that nepotism rules only apply when an employee and a relative are placed into positions wherein they jointly and exclusively control government resources, property, or money or establish government policy.
+
+&emsp;"(4)
+
+Temporary supervision of tandem spouse.—The Secretary shall update policies to allow for a tandem spouse to temporarily supervise another tandem spouse for up to 90 days in a calendar year, including at a United States diplomatic mission.
+
+"(d)
+
+Report.—Not later than 90 days after the date of enactment of this division, and annually thereafter for two years, the Secretary shall submit to the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\] a report that includes—
+
+&emsp;"(1) the number of Foreign Service tandem spouses currently serving;
+
+&emsp;"(2) the number of Foreign Service tandems currently serving in separate locations, or, to the extent possible, that are on leave without pay (LWOP); and
+
+&emsp;"(3) an estimate of the cost savings that would result if all Foreign Service tandem spouses were placed at a single post."
+
 #### Report Respecting Policies and Procedures Adopted To Improve Competitive Ability of Personnel
 
-Pub. L. 98–164, title I, §130(c), Nov. 22, 1983, 97 Stat. 1028, directed Secretary of State, not later than one year after Nov. 22, 1983, to submit a report to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate describing policies and procedures adopted pursuant to the amendment made by section 130(b) of Pub. L. 98–164, adding subsec. (d) of this section, prior to repeal by Pub. L. 103–236, title I, §139(10), Apr. 30, 1994, 108 Stat. 398.
+Pub. L. 98–164, title I, §130(c), Nov. 22, 1983, 97 Stat. 1028, directed Secretary of State, not later than oneyear after Nov. 22, 1983, to submit a report to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate describing policies and procedures adopted pursuant to the amendment made by section 130(b) of Pub. L. 98–164, adding subsec. (d) of this section, prior to repeal by Pub. L. 103–236, title I, §139(10), Apr. 30, 1994, 108 Stat. 398.
 
 #### <b>Executive Documents</b>
 

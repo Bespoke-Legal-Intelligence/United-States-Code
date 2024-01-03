@@ -24,7 +24,7 @@ Within 18 months after February 8, 1996, the Commission shall prescribe such reg
 
 #### (B) Schedule
 
-&emsp;&emsp;The regulations prescribed under this paragraph shall include an appropriate schedule of deadlines for the provision of closed captioning, taking into account whether such programming is prerecorded and edited for Internet distribution, or whether such programming is live or near-live and not edited for Internet distribution.
+&emsp;&emsp;The regulations prescribed under this paragraph shall include an appropriateschedule of deadlines for the provision of closed captioning, taking into account whether such programming is prerecorded and edited for Internet distribution, or whether such programming is live or near-live and not edited for Internet distribution.
 
 #### (C) Cost
 

@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Child with a disability; infant or toddler with a disability
 
-&emsp;The terms "child with a disability" and "infant or toddler with a disability" have the meanings given the terms in sections 1401 and 1431 of title 20.
+&emsp;The terms "child with a disability" and "infant or toddler with a disability" have themeanings given the terms in sections 1401 and 1431 of title 20.
 
 #### (2) Eligible child care provider
 

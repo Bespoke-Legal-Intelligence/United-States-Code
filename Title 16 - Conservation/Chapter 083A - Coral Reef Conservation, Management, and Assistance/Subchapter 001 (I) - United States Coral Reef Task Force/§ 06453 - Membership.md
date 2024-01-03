@@ -22,7 +22,7 @@ The Task Force shall have the following nonvoting members:
 
 &emsp;&emsp;(A) For the period beginning on December 23, 2022, and ending on December 31 of the calendar year during which such date occurs, the member shall be selected jointly by the Governors of Hawaii, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
 
-&emsp;&emsp;(B) For each calendar year thereafter, the Governors of Hawaii, American Samoa,Guam, and the Commonwealth of the Northern Mariana Islands shall, on a rotating basis, take turns selecting the member.
+&emsp;&emsp;(B) For each calendar year thereafter, the Governors of Hawaii, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands shall, on a rotating basis, take turns selecting the member.
 
 &emsp;(4) A member of the Caribbean Fishery Management Council who is designated under such section and selected as follows:
 

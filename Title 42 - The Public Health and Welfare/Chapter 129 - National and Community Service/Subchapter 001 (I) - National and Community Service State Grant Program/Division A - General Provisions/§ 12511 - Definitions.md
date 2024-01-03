@@ -258,7 +258,7 @@ For purposes of this subchapter:
 
 #### (41) Service-learning coordinator
 
-&emsp;The term "service-learning coordinator" means an individual who provides services asdescribed in subsection (a)(3) or (b) of section 12523 of this title.
+&emsp;The term "service-learning coordinator" means an individual who provides services as described in subsection (a)(3) or (b) of section 12523 of this title.
 
 #### (42) Service sponsor
 
@@ -282,7 +282,7 @@ For purposes of this subchapter:
 
 #### (47) Territory
 
-&emsp;The term "territory" means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "territory" means the United States Virgin Islands, Guam, AmericanSamoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (48) Tribally controlled college or university
 
@@ -373,6 +373,10 @@ Pars. (25) to (29). Pub. L. 102–10, §3(2), redesignated pars. (24) to (28) as
 Par. (30). Pub. L. 102–10, §3(2), (7), redesignated par. (29) as (30) and inserted "corps" after "youth service".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2015 Amendment
 

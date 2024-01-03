@@ -110,11 +110,11 @@ Pub. L. 93–43, §6, June 18, 1973, 87 Stat. 81, provided that:
 
 #### Interim Implementation of 2013 Amendment
 
-Pub. L. 112–260, title I, §102(b), Jan. 10, 2013, 126 Stat. 2419, provided that: "The Secretary may carry outparagraphs (1) through (3) of section 2404(h) of such title \[38 U.S.C. 2404(h)\], as added by subsection (a), before the Secretary prescribes regulations pursuant to paragraph (4) of such section, as so added."
+Pub. L. 112–260, title I, §102(b), Jan. 10, 2013, 126 Stat. 2419, provided that: "The Secretary may carry out paragraphs (1) through (3) of section 2404(h) of such title \[38 U.S.C. 2404(h)\], as added by subsection (a), before the Secretary prescribes regulations pursuant to paragraph (4) of such section, as so added."
 
 #### Use of Flat Grave Markers at Santa Fe National Cemetery, New Mexico
 
-Pub. L. 106–117, title VI, §612, Nov. 30, 1999, 113 Stat. 1580, provided that: "Notwithstanding section 2404(c)(2) of title 38, United States Code, the Secretary \[of Veterans Affairs\] may provide for flat grave markers at the Santa Fe National Cemetery, New Mexico."
+Pub. L. 106–117, title VI, §612, Nov. 30, 1999, 113 Stat. 1580, authorized the Secretary of Veterans Affairs to provide for flat grave markers at the Santa Fe National Cemetery, New Mexico, prior to repeal by Pub. L. 118–31, div. E, title L, §5002(a), Dec. 22, 2023, 137 Stat. 931.
 
 #### Independent Study on Improvements to Veterans' Cemeteries
 

@@ -26,7 +26,7 @@ The President shall coordinate the development and implementation of a United St
 
 &emsp;(11) harness science, technology, and innovation, including the research and extension activities supported by the private sector, relevant Federal departments and agencies, Feed the Future Innovation Labs or any successor entities, and international and local researchers and innovators, recognizing that significant investments in research and technological advances will be necessary to reduce global poverty, hunger, and malnutrition;
 
-&emsp;(12) use evidenced-based best practices, including scientific and forecasting data, andimproved planning and coordination by, with, and among key partners and relevant Federal departments and agencies to identify, analyze, measure, and mitigate risks, and strengthen resilience capacities;
+&emsp;(12) use evidenced-based best practices, including scientific and forecasting data, and improved planning and coordination by, with, and among key partners and relevant Federal departments and agencies to identify, analyze, measure, and mitigate risks, and strengthen resilience capacities;
 
 &emsp;(13) ensure scientific and forecasting data is accessible and usable by affected communities and facilitate communication and collaboration among local stakeholders in support of adaptation planning and implementation, including scenario planning and preparedness using seasonal forecasting and scientific and local knowledge;
 

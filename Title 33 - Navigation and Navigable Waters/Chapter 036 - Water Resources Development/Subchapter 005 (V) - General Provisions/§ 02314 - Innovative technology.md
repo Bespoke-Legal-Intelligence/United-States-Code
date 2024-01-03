@@ -50,7 +50,7 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (d). Pub. L. 113–121 substituted "methods, or materials, including roller compacted concrete,geosynthetic materials, and advanced composites, that the Secretary determines are appropriate to carry out this section." for "materials, or methods which the Secretary determines are previously undemonstrated or are too new to be considered standard practice."
+<b>2014</b>—Subsec. (d). Pub. L. 113–121 substituted "methods, or materials, including roller compacted concrete, geosynthetic materials, and advanced composites, that the Secretary determines are appropriate to carry out this section." for "materials, or methods which the Secretary determines are previously undemonstrated or are too new to be considered standard practice."
 
 <b>1999</b>—Subsecs. (b) to (d). Pub. L. 106–53 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 

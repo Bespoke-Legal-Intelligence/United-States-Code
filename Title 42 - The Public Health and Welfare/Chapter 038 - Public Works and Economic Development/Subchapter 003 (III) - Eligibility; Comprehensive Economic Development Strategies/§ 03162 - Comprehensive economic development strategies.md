@@ -32,7 +32,7 @@ The Secretary shall approve a comprehensive economic development strategy that m
 
 #### Prior Provisions
 
-A prior section 3162, Pub. L. 89–136, title IV, §402, Aug. 26, 1965, 79 Stat. 561; Pub. L. 92–65, title I, §107, Aug. 5,1971, 85 Stat. 167, required annual review of area eligibility, prior to repeal by Pub. L. 105–393, §102(a).
+A prior section 3162, Pub. L. 89–136, title IV, §402, Aug. 26, 1965, 79 Stat. 561; Pub. L. 92–65, title I, §107, Aug. 5, 1971, 85 Stat. 167, required annual review of area eligibility, prior to repeal by Pub. L. 105–393, §102(a).
 
 A prior section 302 of Pub. L. 89–136 was classified to section 3151a of this title prior to repeal by Pub. L. 105–393, §102(a).
 

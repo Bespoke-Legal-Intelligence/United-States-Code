@@ -1,26 +1,44 @@
 ### §1501. Congressional declaration of policy
 
-(a) It is declared to be the purposes of the Congress in this chapter to—
+(a)
 
-&emsp;(1) authorize and regulate the location, ownership, construction, and operation of deepwater ports in waters beyond the territorial limits of the United States;
+Purposes.—The purposes of this chapter are—
 
-&emsp;(2) provide for the protection of the marine and coastal environment to prevent or minimize any adverse impact which might occur as a consequence of the development of such ports;
+&emsp;(1) to authorize and regulate the location, ownership, construction, and operation of deepwater ports in waters beyond the territorial limits of the United States;
 
-&emsp;(3) protect the interests of the United States and those of adjacent coastal States in the location, construction, and operation of deepwater ports;
+&emsp;(2) to provide for the protection of the marine and coastal environment to prevent or minimize any adverse impact which might occur as a consequence of the development of deepwater ports;
 
-&emsp;(4) protect the rights and responsibilities of States and communities to regulate growth, determine land use, and otherwise protect the environment in accordance with law;
+&emsp;(3) to protect the interests of the United States and those of adjacent coastal States in the location, construction, and operation of deepwater ports;
 
-&emsp;(5) promote the construction and operation of deepwater ports as a safe and effective means of importing oil or natural gas into the United States and transporting oil or natural gas from the outer continental shelf <sup>1</sup> while minimizing tanker traffic and the risks attendant thereto; and
+&emsp;(4) to protect the rights and responsibilities of States and communities to regulate growth, determine land use, and otherwise protect the environment in accordance with law;
 
-&emsp;(6) promote oil or natural gas production on the outer continental shelf <sup>1</sup> by affording an economic and safe means of transportation of outer continental shelf <sup>1</sup> oil or natural gas to the United States mainland.
+&emsp;(5) to promote the construction and operation of deepwater ports as a safe and effective means of importing oil or natural gas into the United States and transporting oil or natural gas from the outer Continental Shelf while minimizing tanker traffic and the risks associated with that traffic; and
 
-(b) The Congress declares that nothing in this chapter shall be construed to affect the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.
+&emsp;(6) to promote oil or natural gas production on the outer Continental Shelf by affording an economic and safe means of transportation of outer Continental Shelf oil or natural gas to the United States mainland.
 
-(Pub. L. 93–627, §2, Jan. 3, 1975, 88 Stat. 2126; Pub. L. 104–324, title V, §502(b), Oct. 19, 1996, 110 Stat. 3925; Pub. L. 107–295, title I, §106(a)(1), Nov. 25, 2002, 116 Stat. 2086.)
+(b)
+
+Effect of chapter.—Nothing in this chapter affects the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.
+
+(Pub. L. 93–627, §2, Jan. 3, 1975, 88 Stat. 2126; Pub. L. 104–324, title V, §502(b), Oct. 19, 1996, 110 Stat. 3925; Pub. L. 107–295, title I, §106(a)(1), Nov. 25, 2002, 116 Stat. 2086; Pub. L. 118–31, div. C, title XXXV, §3514(k)(1), Dec. 22, 2023, 137 Stat. 812.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a). Pub. L. 118–31, §3514(k)(1)(A)(i), inserted heading and substituted "The purposes of this chapter are—" for "It is declared to be the purposes of the Congress in this chapter to—" in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 118–31, §3514(k)(1)(A)(ii), inserted "to" after par. designation and realigned margins.
+
+Subsec. (a)(2). Pub. L. 118–31, §3514(k)(1)(A)(ii), (iii), inserted "to" after par. designation, substituted "deepwater ports" for "such ports", and realigned margins.
+
+Subsec. (a)(3), (4). Pub. L. 118–31, §3514(k)(1)(A)(ii), inserted "to" after par. designation and realigned margins.
+
+Subsec. (a)(5). Pub. L. 118–31, §3514(k)(1)(A)(ii), (iv), inserted "to" after par. designation, substituted "Continental Shelf" for "continental shelf" and "associated with that traffic" for "attendant thereto", and realigned margins.
+
+Subsec. (a)(6). Pub. L. 118–31, §3514(k)(1)(A)(ii), (v), inserted "to" after par. designation, substituted "Continental Shelf" for "continental shelf" in two places, and realigned margins.
+
+Subsec. (b). Pub. L. 118–31, §3514(k)(1)(B), inserted heading and substituted "Nothing in this chapter affects" for "The Congress declares that nothing in this chapter shall be construed to affect" in text.
 
 <b>2002</b>—Subsec. (a)(5), (6). Pub. L. 107–295 inserted "or natural gas" after "oil" wherever appearing.
 
@@ -38,7 +56,7 @@ Pub. L. 98–419, §1, Sept. 25, 1984, 98 Stat. 1607, provided: "That this Act \
 
 #### Short Title
 
-Pub. L. 93–627, §1, Jan. 3, 1975, 88 Stat. 2126, provided: "That this Act \[enacting this chapter and amendingsection 1333 of Title 43, Public Lands\] may be cited as the 'Deepwater Port Act of 1974'."
+Pub. L. 93–627, §1, Jan. 3, 1975, 88 Stat. 2126, provided: "That this Act \[enacting this chapter and amending section 1333 of Title 43, Public Lands\] may be cited as the 'Deepwater Port Act of 1974'."
 
 #### Congressional Purposes for 1996 Amendments
 
@@ -61,6 +79,4 @@ Penalties paid pursuant to this chapter and sections 1319(c) and 1321 of this ti
 #### Environmental Effects Abroad of Major Federal Actions
 
 For provisions relating to environmental effects abroad of major Federal actions, see Ex. Ord. No. 12114, Jan. 4, 1979, 44 F.R. 1957, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

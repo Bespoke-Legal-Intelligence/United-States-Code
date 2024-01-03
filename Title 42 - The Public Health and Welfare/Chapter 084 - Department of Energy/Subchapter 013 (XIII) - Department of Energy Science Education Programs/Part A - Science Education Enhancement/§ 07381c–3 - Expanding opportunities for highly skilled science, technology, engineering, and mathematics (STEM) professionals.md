@@ -112,3 +112,9 @@ In this section:
 
 (Pub. L. 101–510, div. C, title XXXI, §3167B, as added Pub. L. 117–167, div. B, title I, §10111(c)(1), Aug. 9, 2022, 136 Stat. 1457.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+

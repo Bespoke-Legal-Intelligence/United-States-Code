@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;The term "operator"—
 
-&emsp;&emsp;(A) means any person who operates a website located on the Internet or an online service and who collects or maintains personal information from or about the users ofor visitors to such website or online service, or on whose behalf such information is collected or maintained, where such website or online service is operated for commercial purposes, including any person offering products or services for sale through that website or online service, involving commerce—
+&emsp;&emsp;(A) means any person who operates a website located on the Internet or an online service and who collects or maintains personal information from or about the users of or visitors to such website or online service, or on whose behalf such information is collected or maintained, where such website or online service is operated for commercial purposes, including any person offering products or services for sale through that website or online service, involving commerce—
 
 &emsp;&emsp;&emsp;(i) among the several States or with 1 or more foreign nations;
 

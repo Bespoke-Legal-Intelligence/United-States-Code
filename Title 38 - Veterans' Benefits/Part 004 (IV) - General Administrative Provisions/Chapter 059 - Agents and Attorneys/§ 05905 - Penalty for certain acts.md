@@ -1,6 +1,6 @@
 ### §5905. Penalty for certain acts
 
-Whoever wrongfully withholds from any claimant or beneficiary any part of a benefit orclaim allowed and due to the claimant or beneficiary, shall be fined as provided in title 18, or imprisoned not more than one year, or both.
+Whoever wrongfully withholds from any claimant or beneficiary any part of a benefit or claim allowed and due to the claimant or beneficiary, shall be fined as provided in title 18, or imprisoned not more than one year, or both.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1239, §3405; Pub. L. 99–576, title VII, §701(81), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title I, §104(b), Nov. 18, 1988, 102 Stat. 4109; renumbered §5905 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §5(c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 109–461, title I, §101(g), Dec. 22, 2006, 120 Stat. 3408.)
 

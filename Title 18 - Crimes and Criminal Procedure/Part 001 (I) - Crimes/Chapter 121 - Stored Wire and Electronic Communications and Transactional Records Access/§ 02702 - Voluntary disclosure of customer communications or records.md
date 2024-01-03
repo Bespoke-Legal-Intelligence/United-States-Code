@@ -52,7 +52,7 @@ Exceptions for Disclosure of Customer Records.—A provider described in subsect
 
 &emsp;(2) with the lawful consent of the customer or subscriber;
 
-&emsp;(3) as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service;
+&emsp;(3) as may be necessarily incident to the rendition of the service or to the protection of therights or property of the provider of that service;
 
 &emsp;(4) to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of information relating to the emergency;
 
@@ -142,5 +142,5 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date
 
-Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202of Pub. L. 99–508, set out as a note under section 2701 of this title.
+Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
 

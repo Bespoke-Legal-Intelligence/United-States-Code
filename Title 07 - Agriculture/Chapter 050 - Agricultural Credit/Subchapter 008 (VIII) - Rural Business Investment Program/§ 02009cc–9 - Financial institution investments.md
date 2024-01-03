@@ -20,7 +20,7 @@ No bank, association, or institution described in subsection (a) may make invest
 
 #### (c) Limitation on rural business investment companies controlled by Farm Credit System institutions
 
-If a Farm Credit System institution described in section 1.2(a) of the Farm Credit Act of 1971\(12 U.S.C. 2002(a)) holds more than 50 percent of the shares of a rural business investment company, either alone or in conjunction with other System institutions (or affiliates), the rural business investment company shall not provide equity investments in, or provide other financial assistance to, entities that are not otherwise eligible to receive financing from the Farm Credit System under that Act (12 U.S.C. 2001 et seq.).
+If a Farm Credit System institution described in section 1.2(a) of the Farm Credit Act of 1971 (12 U.S.C. 2002(a)) holds more than 50 percent of the shares of a rural business investment company, either alone or in conjunction with other System institutions (or affiliates), the rural business investment company shall not provide equity investments in, or provide other financial assistance to, entities that are not otherwise eligible to receive financing from the Farm Credit System under that Act (12 U.S.C. 2001 et seq.).
 
 (Pub. L. 87–128, title III, §384J, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 397; amended Pub. L. 110–234, title VI, §6027(d), May 22, 2008, 122 Stat. 1182; Pub. L. 110–246, §4(a), title VI, §6027(d), June 18, 2008, 122 Stat. 1664, 1944; Pub. L. 115–334, title VI, §6426(e), (f), Dec. 20, 2018, 132 Stat. 4771.)
 

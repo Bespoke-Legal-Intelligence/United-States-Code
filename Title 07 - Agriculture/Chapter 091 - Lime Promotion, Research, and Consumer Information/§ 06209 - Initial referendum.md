@@ -42,7 +42,7 @@ The ballots and other information or reports that reveal, or tend to reveal, the
 
 &emsp;&emsp;A producer, producer-handler, or importer shall be eligible to receive a refund—
 
-&emsp;&emsp;&emsp;(i) if demand is made personally, in accordance with regulations and on a formand within a time period prescribed by the Board, but in no event less than 90 days after the date of publication of the results of the referendum; and
+&emsp;&emsp;&emsp;(i) if demand is made personally, in accordance with regulations and on a form and within a time period prescribed by the Board, but in no event less than 90 days after the date of publication of the results of the referendum; and
 
 &emsp;&emsp;&emsp;(ii) on submission of proof satisfactory to the Board that the person paid the assessment for which refund is sought and did not collect the assessment from another person.
 

@@ -30,7 +30,7 @@
 
 #### (2) Process
 
-&emsp;Service of process in a proceeding under paragraph (1) may be made on the Secretaryby delivering a copy of the complaint to the Secretary.
+&emsp;Service of process in a proceeding under paragraph (1) may be made on the Secretary by delivering a copy of the complaint to the Secretary.
 
 #### (3) Remands
 

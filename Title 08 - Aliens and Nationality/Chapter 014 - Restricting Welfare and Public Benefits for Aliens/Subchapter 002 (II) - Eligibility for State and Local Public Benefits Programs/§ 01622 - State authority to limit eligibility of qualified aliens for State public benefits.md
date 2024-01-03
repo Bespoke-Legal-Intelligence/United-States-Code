@@ -78,7 +78,7 @@ Subsec. (b)(3)(C). Pub. L. 105–33, §5563(b), inserted before period at end "o
 
 #### Effective Date of 1997 Amendment
 
-Amendment by sections 5302(c)(2) and 5306(d) of Pub. L. 105–33 effective, except as otherwise provided, as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity ReconciliationAct of 1996, Pub. L. 104–193, see section 5308 of Pub. L. 105–33, set out as a note under section 1612 of this title.
+Amendment by sections 5302(c)(2) and 5306(d) of Pub. L. 105–33 effective, except as otherwise provided, as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5308 of Pub. L. 105–33, set out as a note under section 1612 of this title.
 
 Amendment by sections 5562, 5563, and 5581(b)(3) of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 

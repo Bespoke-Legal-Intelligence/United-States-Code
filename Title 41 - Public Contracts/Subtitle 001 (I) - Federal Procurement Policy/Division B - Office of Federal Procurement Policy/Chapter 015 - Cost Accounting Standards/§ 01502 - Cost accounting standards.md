@@ -210,7 +210,7 @@ Pub. L. 106–65, div. A, title VIII, §802(c)–(e), (g)–(i), Oct. 5, 1999, 1
 
 "(c)
 
-Regulation on Types of CAS Coverage.—(1) The Administrator for Federal Procurement Policy shall revise the rules and procedures prescribed pursuant to section 26(f) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 422(f)) \[now 41 U.S.C. 1502(a), (b)\] to the extent necessary to increase the thresholds established in section 9903.201–2 of title 48 of the Code of Federal Regulations from $25,000,000 to $50,000,000.
+Regulation on Types of CAS Coverage.—(1) The Administrator for Federal Procurement Policyshall revise the rules and procedures prescribed pursuant to section 26(f) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 422(f)) \[now 41 U.S.C. 1502(a), (b)\] to the extent necessary to increase the thresholds established in section 9903.201–2 of title 48 of the Code of Federal Regulations from $25,000,000 to $50,000,000.
 
 "(2) Paragraph (1) requires only a change of the statement of a threshold condition in the regulation referred to by section number in that paragraph, and shall not be construed as—
 

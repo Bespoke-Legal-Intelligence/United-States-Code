@@ -1,6 +1,6 @@
 ### §345. Regulations making exemptions
 
-The Secretary shall promulgate regulations exempting from any labeling requirement of this chapter (1) small open containers of fresh fruits and fresh vegetables and (2) food which is, in accordance with the practice of the trade, to be processed, labeled, or repacked in substantial quantities at establishments other than those where originally processed or packed, on condition that such food is not adulterated or misbranded under the provisions of this chapter upon removal from such processing, labeling, or repacking establishment. This section does not apply to the labeling requirements of sections 343(q) and 343(r) of this title.
+The Secretary shall promulgate regulations exempting from any labeling requirement of this chapter (1) small open containers of fresh fruits and fresh vegetables and (2) food which is, in accordance with the practice of the trade, to be processed, labeled, or repacked in substantial quantities at establishments other than those where originally processed or packed, on condition that such food is not adulterated or misbranded under the provisions of this chapter upon removal from such processing, labeling, or repacking establishment. This section does notapply to the labeling requirements of sections 343(q) and 343(r) of this title.
 
 (June 25, 1938, ch. 675, §405, 52 Stat. 1049; Pub. L. 101–535, §5(a), Nov. 8, 1990, 104 Stat. 2362.)
 

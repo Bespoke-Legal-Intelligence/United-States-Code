@@ -54,7 +54,7 @@ No license, permit, lease, right-of-way, authorization, or other approval requir
 
 #### (1) In general
 
-&emsp;An application for additional or expanded pipeline facilities that may be required to transport Alaska natural gas from Canada to markets in the contiguous United States may be made in accordance with the Natural Gas Act \[15 U.S.C. 717 et seq.\].
+&emsp;An application for additional or expanded pipeline facilities that may be required totransport Alaska natural gas from Canada to markets in the contiguous United States may be made in accordance with the Natural Gas Act \[15 U.S.C. 717 et seq.\].
 
 #### (2) Expansion
 

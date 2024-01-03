@@ -50,7 +50,7 @@ A prior section 501 of act July 26, 1947, ch. 343, title V, as added Pub. L. 96�
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–306, §353(b)(3)(A), substituted "congressional intelligence committees" for "intelligence committees" wherever appearing.
 
-Subsec. (a)(2), (3). Pub. L. 107–306, §353(b)(7), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "As used in this subchapter, the term 'congressional intelligence committees' means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives."
+Subsec. (a)(2), (3). Pub. L. 107–306, §353(b)(7), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "As used in this subchapter, the term'congressional intelligence committees' means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives."
 
 Subsecs. (b) to (e). Pub. L. 107–306, §353(b)(3)(A), substituted "congressional intelligence committees" for "intelligence committees" wherever appearing.
 

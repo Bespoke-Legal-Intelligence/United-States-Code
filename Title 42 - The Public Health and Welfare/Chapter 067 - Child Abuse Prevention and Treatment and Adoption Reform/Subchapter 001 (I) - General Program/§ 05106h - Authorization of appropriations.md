@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Of the amounts appropriated for a fiscal year under paragraph (1), the Secretary shallmake available 30 percent of such amounts to fund discretionary activities under this subchapter.
+&emsp;&emsp;Of the amounts appropriated for a fiscal year under paragraph (1), the Secretary shall make available 30 percent of such amounts to fund discretionary activities under this subchapter.
 
 #### (B) Demonstration projects
 

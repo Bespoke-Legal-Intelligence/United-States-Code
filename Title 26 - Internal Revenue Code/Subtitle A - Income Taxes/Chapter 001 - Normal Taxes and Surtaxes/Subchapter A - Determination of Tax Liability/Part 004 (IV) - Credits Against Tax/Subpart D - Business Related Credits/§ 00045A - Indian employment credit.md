@@ -2,7 +2,7 @@
 
 #### (a) Amount of credit
 
-For purposes of section 38, the amount of the Indian employment credit determined under thissection with respect to any employer for any taxable year is an amount equal to 20 percent of the excess (if any) of—
+For purposes of section 38, the amount of the Indian employment credit determined under this section with respect to any employer for any taxable year is an amount equal to 20 percent of the excess (if any) of—
 
 &emsp;(1) the sum of—
 
@@ -166,7 +166,7 @@ This section shall not apply to taxable years beginning after December 31, 2021.
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33\(§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The date of the enactment of this paragraph, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
 
@@ -222,7 +222,7 @@ Pub. L. 114–113, div. Q, title I, §161(b), Dec. 18, 2015, 129 Stat. 3066, pro
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §114(b), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013."
+Pub. L. 113–295, div. A, title I, §114(b), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendment made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2013."
 
 Pub. L. 113–295, div. A, title II, §216(b), Dec. 19, 2014, 128 Stat. 4034, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the provision of the Tax Relief and Health Care Act of 2006 \[Pub. L. 109–432\] to which it relates."
 

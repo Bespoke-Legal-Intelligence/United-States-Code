@@ -54,7 +54,7 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 #### (C) Notice after action
 
-&emsp;&emsp;If it is not practicable to publish in the Federal Register the information required under subparagraph (B)(iii) before taking action under subparagraph (A), the Secretary shall publish the information as soon as practicable, but not later than 10 business days, after commencement of the action.
+&emsp;&emsp;If it is not practicable to publish in the Federal Register the information requiredunder subparagraph (B)(iii) before taking action under subparagraph (A), the Secretary shall publish the information as soon as practicable, but not later than 10 business days, after commencement of the action.
 
 #### (c) Quarantine, disposal, or other remedial action
 
@@ -112,7 +112,7 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (d)(3), was in the original "this subtitle", meaning subtitle E\(§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (d)(3), was in the original "this subtitle", meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Codification
 

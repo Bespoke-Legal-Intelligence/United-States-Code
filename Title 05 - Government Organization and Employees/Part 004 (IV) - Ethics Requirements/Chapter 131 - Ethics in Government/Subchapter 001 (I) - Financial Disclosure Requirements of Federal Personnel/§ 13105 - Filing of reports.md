@@ -6,7 +6,7 @@ Reports Filed With Designated Agency Ethics Official.—Except as otherwise prov
 
 (b)
 
-Reports Filed With Director of Office of Government Ethics.—The President, theVice President, and independent counsel and persons appointed by independent counsel under chapter 40 of title 28, shall file reports required under this subchapter with the Director of the Office of Government Ethics.
+Reports Filed With Director of Office of Government Ethics.—The President, the Vice President, and independent counsel and persons appointed by independent counsel under chapter 40 of title 28, shall file reports required under this subchapter with the Director of the Office of Government Ethics.
 
 (c)
 
@@ -14,7 +14,7 @@ Copies of Reports Transmitted to the Office of Government Ethics.—Copies of th
 
 (d)
 
-Availability to Public.—Reports required to be filed under this subchapter by the Director of the Office of Government Ethics shall be filed in the Office of Government Ethics and, immediately after being filed, shall be made available to the public in accordance with this subchapter.
+Availability to Public.—Reports required to be filed under this subchapter by the Directorof the Office of Government Ethics shall be filed in the Office of Government Ethics and, immediately after being filed, shall be made available to the public in accordance with this subchapter.
 
 (e)
 
@@ -74,7 +74,7 @@ Copies of Reports to State Officers.—
 
 &emsp;(1)
 
-In general.—A copy of each report filed under this subchapter by a Member or an individual who is a candidate for the office of Member shall be sent by the Clerk of theHouse of Representatives or Secretary of the Senate, as the case may be, to the appropriate State officer designated under section 312(a) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30113(a)) of the State represented by the Member or in which the individual is a candidate, as the case may be, within the 30-day period beginning on the day the report is filed with the Clerk or Secretary.
+In general.—A copy of each report filed under this subchapter by a Member or an individual who is a candidate for the office of Member shall be sent by the Clerk of the House of Representatives or Secretary of the Senate, as the case may be, to the appropriate State officer designated under section 312(a) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30113(a)) of the State represented by the Member or in which the individual is a candidate, as the case may be, within the 30-day period beginning on the day the report is filed with the Clerk or Secretary.
 
 &emsp;(2)
 
@@ -90,7 +90,7 @@ House of representatives.—A copy of each report filed under this subchapter wi
 
 &emsp;(2)
 
-Senate.—A copy of each report filed under this subchapter with the Secretary of the Senate shall be sent by the Secretary to the Select Committee on Ethics of the Senate within the 7-day period beginning on the day the report is filed.
+Senate.—A copy of each report filed under this subchapter with the Secretary ofthe Senate shall be sent by the Secretary to the Select Committee on Ethics of the Senate within the 7-day period beginning on the day the report is filed.
 
 (k)
 

@@ -50,13 +50,13 @@ An individual entitled to an annuity from the fund may decline to accept all or 
 
 #### (2) Application within 30 years
 
-&emsp;Notwithstanding paragraph (1), after the death of a participant or retired participant, no benefit based on that participant's servicemay be paid from the fund unless an application for the benefit is received by the Director within 30 years after the death or other event which gives rise to eligibility for the benefit.
+&emsp;Notwithstanding paragraph (1), after the death of a participant or retired participant, no benefit based on that participant's service may be paid from the fund unless an application for the benefit is received by the Director within 30 years after the death or other event which gives rise to eligibility for the benefit.
 
 #### (g) Withholding of State income tax from annuities
 
 #### (1) Agreements with States
 
-&emsp;The Director shall, in accordance with this subsection, enter into an agreement with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Director shall withhold State income tax in the case of the monthly annuity of any annuitant who voluntarily requests, in writing, such withholding. The amounts withheld during any calendar quarter shall be held in the Fund <sup>1</sup> and disbursed to the States during the month following that calendar quarter.
+&emsp;The Director shall, in accordance with this subsection, enter into an agreement with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Director shall withhold State income tax in the case of the monthly annuity of any annuitant who voluntarily requests, in writing, such withholding. The amounts withheld during any calendar quarter shall be held in the fund and disbursed to the States during the month following that calendar quarter.
 
 #### (2) Limitation on multiple requests
 
@@ -74,7 +74,7 @@ An individual entitled to an annuity from the fund may decline to accept all or 
 
 &emsp;For the purpose of this subsection, the term "State" includes the District of Columbia and any territory or possession of the United States.
 
-(Pub. L. 88–643, title II, §263, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3235.)
+(Pub. L. 88–643, title II, §263, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3235; amended Pub. L. 118–31, div. G, title IX, §7901(d)(2), Dec. 22, 2023, 137 Stat. 1106.)
 
 #### <b>Editorial Notes</b>
 
@@ -82,11 +82,13 @@ An individual entitled to an annuity from the fund may decline to accept all or 
 
 A prior section 263 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052; Pub. L. 97–269, title VI, §609, Sept. 27, 1982, 96 Stat. 1153; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to attachment of moneys and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
+#### Amendments
+
+<b>2023</b>—Subsec. (g)(1). Pub. L. 118–31 substituted "fund" for "Fund".
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
 Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

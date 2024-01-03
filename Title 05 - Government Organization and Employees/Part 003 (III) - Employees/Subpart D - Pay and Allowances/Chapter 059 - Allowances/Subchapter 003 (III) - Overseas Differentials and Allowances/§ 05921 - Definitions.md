@@ -16,7 +16,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(A) the Trust Territory of the Pacific Islands; and
 
-&emsp;&emsp;(B) any other area outside the United States, the Commonwealth of Puerto Rico,the Canal Zone, and territories and possessions of the United States.
+&emsp;&emsp;(B) any other area outside the United States, the Commonwealth of Puerto Rico, the Canal Zone, and territories and possessions of the United States.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 510.)
 
@@ -90,7 +90,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 Ex. Ord. No. 10903, Jan. 11, 1961, 26 F.R. 217, as amended by Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739; Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8447; Ex. Ord. No. 11380, Nov. 8, 1967, 32 F.R. 15627; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
-By virtue of the authority vested in me by section 301 of title 3 of the United States Code, and various provisions of law cited in the body of this order, and as President of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me by section 301 of title 3 of the United States Code, and various provisions of law cited in the body of this order, and asPresident of the United States, it is hereby ordered as follows:
 
 Section 1. The Secretary of State is hereby designated and empowered to perform the following-described functions without the approval, ratification, or other action of the President:
 
@@ -170,7 +170,7 @@ By virtue of the authority vested in me by section 301 of title 3 of the United 
 
 Section 101. The term "employee", as defined in 5 U.S.C. 5921(3), is hereby further defined as including civilian employees, compensated from non-appropriated funds, of the instrumentalities of the United States under the jurisdiction of the armed forces covered by 5 U.S.C. 2105(c).
 
-Sec. 102. The Secretary of each military department with respect to his department, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, are hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by 5 U.S.C. 5922(c) to prescribe regulations governing payments of allowances and differentials in foreign areas to the extent that the said authority is in respect of employees referred to in section 101 of this order whose rates of basic compensation from nonappropriated funds are fixed in accordance with regulations prescribed by the Secretary concerned.
+Sec. 102. The Secretary of each military department with respect to his department, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, are hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by 5 U.S.C. 5922(c) to prescribe regulations governing payments of allowances and differentials in foreign areas to the extent that the said authority is in respect of employees referred to in section 101 of this order whose rates ofbasic compensation from nonappropriated funds are fixed in accordance with regulations prescribed by the Secretary concerned.
 
 Sec. 103. Regulations prescribed under authority delegated by the provisions of Section 102 hereof:
 

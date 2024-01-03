@@ -16,7 +16,7 @@ Congress finds that—
 
 &emsp;(7) the unregulated movement of plant pests, noxious weeds, plants, certain biological control organisms, plant products, and articles capable of harboring plant pests or noxious weeds could present an unacceptable risk of introducing or spreading plant pests or noxious weeds;
 
-&emsp;(8) the existence on any premises in the United States of a plant pest or noxious weed new to or not known to be widely prevalent in or distributed within and throughout the United States could constitute a threat to crops and other plants or plant products of the United States and burden interstate commerce or foreign commerce; and
+&emsp;(8) the existence on any premises in the United States of a plant pest or noxious weednew to or not known to be widely prevalent in or distributed within and throughout the United States could constitute a threat to crops and other plants or plant products of the United States and burden interstate commerce or foreign commerce; and
 
 &emsp;(9) all plant pests, noxious weeds, plants, plant products, articles capable of harboring plant pests or noxious weeds regulated under this chapter are in or affect interstate commerce or foreign commerce.
 

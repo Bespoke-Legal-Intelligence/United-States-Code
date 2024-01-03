@@ -58,7 +58,7 @@ In this section:
 
 #### (2) Historically Black colleges and universities
 
-&emsp;The term "historically Black colleges and universities" has the meaning given the term "part B institution" in section 1061(2) of title 20.
+&emsp;The term "historically Black colleges and universities" has the meaning given the term"part B institution" in section 1061(2) of title 20.
 
 #### (3) Institution of higher education
 

@@ -10,7 +10,7 @@
 
 &emsp;(B) by first class mail or by certified mail to subsequent purchasers if known to the manufacturer.
 
-&emsp;(C) by first class mail or by certified mail or other more expeditious means to the dealers and distributors of the recreational vessels or associated equipment.
+&emsp;(C) by first class mail or by certified mail or other more expeditious means to the dealersand distributors of the recreational vessels or associated equipment.
 
 (2) The notification required by subsection (b) of this section is required to be given only for a defect or failure of compliance discovered by the recreational vessel manufacturer within a reasonable time after the manufacturer has discovered the defect or failure, except that the manufacturer's duty of notification under paragraph (1)(A) and (B) of this subsection applies only to a defect or failure of compliance discovered by the manufacturer within one of the following appropriate periods:
 
@@ -18,7 +18,7 @@
 
 &emsp;(B) if a recreational vessel or associated equipment not required by regulation to have a date of certification affixed, 10 years from the date of manufacture.
 
-(d) The notification required by subsection (b) of this section shall contain a clear description of the defect or failure to comply, an evaluation of the hazard reasonably related to the defect orfailure, a statement of the measures to correct the defect or failure, and an undertaking by the recreational vessel manufacturer to take those measures only at the manufacturer's cost and expense.
+(d) The notification required by subsection (b) of this section shall contain a clear description of the defect or failure to comply, an evaluation of the hazard reasonably related to the defect or failure, a statement of the measures to correct the defect or failure, and an undertaking by the recreational vessel manufacturer to take those measures only at the manufacturer's cost and expense.
 
 (e) Each recreational vessel manufacturer shall provide the Secretary with a copy of all notices, bulletins, and other communications to dealers and distributors of that manufacturer, and to purchasers of recreational vessels or associated equipment of that manufacturer, about a defect related to safety in the recreational vessels or associated equipment, and any failure to comply with the regulation or order applicable to the recreational vessels or associated equipment. The Secretary may publish or otherwise disclose to the public information in the notices or other information the Secretary has that the Secretary considers will assist in carrying out this chapter. However, the Secretary may disclose any information that contains or relates to a trade secret only if the Secretary decides that the information is necessary to carry out this chapter.
 

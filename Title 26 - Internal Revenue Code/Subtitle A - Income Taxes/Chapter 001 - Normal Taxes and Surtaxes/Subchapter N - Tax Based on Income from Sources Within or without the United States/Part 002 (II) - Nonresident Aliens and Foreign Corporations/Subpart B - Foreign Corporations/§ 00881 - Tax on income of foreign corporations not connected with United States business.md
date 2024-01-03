@@ -130,7 +130,7 @@ No tax shall be imposed under paragraph (1) or (3) of subsection (a) on any amou
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), no tax shall be imposed under paragraph (1) ofsubsection (a) on any interest-related dividend (as defined in section 871(k)(1)) received from a regulated investment company.
+&emsp;&emsp;Except as provided in subparagraph (B), no tax shall be imposed under paragraph (1) of subsection (a) on any interest-related dividend (as defined in section 871(k)(1)) received from a regulated investment company.
 
 #### (B) Exception
 
@@ -244,7 +244,7 @@ Subsec. (d). Pub. L. 98–369, §127(b)(1), as amended by Pub. L. 99–514, §18
 
 Subsec. (a)(3). Pub. L. 92–178, §313(c), designated existing provisions as subpar. (A), inserted "and before April 1, 1972," after "September 28, 1965,", substituted "section 1232(a)(2)(B)" for "section 1232", and inserted ", in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact that the obligations were issued after May 27, 1969,", and added subpars. (B) and (C).
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–809 substantially revised the income tax treatment of foreign corporations, substituted the concept of amounts received from sources within the United States by foreign corporations but not effectively connected with the conduct of a trade or business within the United States for the concept of amounts received from sources within the United States by foreign corporations not engaged in trade or business within the United States as the amount upon which the existing 30 percent levy should be imposed, and added contingent income received from the sale of patents and other intangibles and amounts of original issue discount which are treated as ordinary income received on retirement or sale or exchange of bonds or other evidences of indebtedness issued after Sept. 28, 1965, to the specified types of fixed or determinable income.
+<b>1966</b>—Subsec. (a). Pub. L. 89–809 substantially revised the income tax treatment of foreign corporations, substituted the concept of amounts received from sources within the United States by foreign corporations but not effectively connected with the conduct of a trade or business within the United States for the concept of amounts received from sources within the United States by foreign corporations not engaged in trade or business within the United States as the amount upon which the existing 30 percent levy should be imposed, and added contingent income received from the sale ofpatents and other intangibles and amounts of original issue discount which are treated as ordinary income received on retirement or sale or exchange of bonds or other evidences of indebtedness issued after Sept. 28, 1965, to the specified types of fixed or determinable income.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -272,7 +272,7 @@ Amendment by section 1211(b)(6) of Pub. L. 99–514 applicable to taxable years 
 
 Amendment by section 1214(c)(2) of Pub. L. 99–514 applicable to payments made in taxable year of payor beginning after Dec. 31, 1986, except as otherwise provided, see section 1214(d) of Pub. L. 99–514, as amended, set out as a note under section 861 of this title.
 
-Amendment by section 1223(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 1223(c) of Pub. L. 99–514, set out as a note under section 864 of this title.
+Amendment by section 1223(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1223(c) of Pub. L. 99–514, set out as a note under section 864 of this title.
 
 Amendment by section 1273(b)(1), (2)(A) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 

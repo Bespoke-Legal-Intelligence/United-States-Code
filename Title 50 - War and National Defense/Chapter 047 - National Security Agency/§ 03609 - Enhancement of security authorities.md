@@ -2,7 +2,7 @@
 
 #### (a) Law enforcement authority
 
-(1) The Director of the National Security Agency may authorize agency personnel within the United States to perform the same functions as officers and agents of the Department of Homeland Security, as provided in section 1315(b)(2) of title 40, with the powers set forth in that section, except that such personnel shall perform such functions and exercise such powers—
+(1) The Director of the National Security Agency may authorize agency personnel within the United States to perform the same functions as officers and agents of the Department of Homeland Security, as provided in section1315(b)(2) of title 40, with the powers set forth in that section, except that such personnel shall perform such functions and exercise such powers—
 
 &emsp;(A) at the National Security Agency Headquarters complex and at any facilities and protected property which are solely under the administration and control of, or are used exclusively by, the National Security Agency; and
 
@@ -62,5 +62,5 @@ Subsec. (d). Pub. L. 108–177, §501, added subsec. (d).
 
 <b>2002</b>—Subsec. (a)(5). Pub. L. 107–306 inserted "through 2004" after "Not later than July 1 each year".
 
-<b>2001</b>—Pub. L. 107–108 amended section generally. Prior to amendment, section read as follows: "The Administrator of General Services, upon the application of the Director of the National Security Agency, may provide for the protection in accordance with section 318b of title 40, of certain facilities (as designated by the Director of such Agency) which are under the administration and control of, or are used by, the National Security Agency in the same manner as if such facilities were property of the United States over which the United States has acquired exclusive or concurrent criminal jurisdiction."
+<b>2001</b>—Pub. L. 107–108 amended section generally. Prior to amendment, section read as follows: "The Administrator of General Services, upon the application of the Director of the National Security Agency, may provide for the protection in accordance with section 318b of title 40, of certain facilities (as designated by the Director of such Agency) which are under the administration and control of, or are used by, the National Security Agency in the same manner as if such facilitieswere property of the United States over which the United States has acquired exclusive or concurrent criminal jurisdiction."
 

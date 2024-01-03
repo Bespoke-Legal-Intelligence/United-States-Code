@@ -1,6 +1,6 @@
 ### §1103f. Penalties
 
-Whoever, being an officer, director, agent, or employee of, or connected in any capacity with, any recipient of Federal financial assistance or grant pursuant to this subchapter embezzles, willfully misapplies, steals, or obtains by fraudany of the funds that are the subject of such grant or assistance, shall be fined not more than $10,000 or imprisoned for not more than 2 years, or both.
+Whoever, being an officer, director, agent, or employee of, or connected in any capacity with, any recipient of Federal financial assistance or grant pursuant to this subchapter embezzles, willfully misapplies, steals, or obtains by fraud any of the funds that are the subject of such grant or assistance, shall be fined not more than $10,000 or imprisoned for not more than 2 years, or both.
 
 (Pub. L. 89–329, title V, §527, formerly §517, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1774; renumbered §527, Pub. L. 110–315, title V, §502(a)(2), Aug. 14, 2008, 122 Stat. 3331.)
 

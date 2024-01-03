@@ -31,7 +31,7 @@
 
 <b>1976</b>—Pub. L. 94–455, title XXI, §2128(d)(2), Oct. 4, 1976, 90 Stat. 1921, substituted "manufacturers and importers" for "manufacturers" in item for subchapter D.
 
-<b>1965</b>—Pub. L. 89–44, title V, §502(b)(1), (2), June 21, 1965, 79 Stat. 150, struck out "TOBACCO," from chapter heading, reference to dealers in tobacco materials from heading of subchapter B, heading of subchapter D andredesignated subchapters E, F and G as D, E and F respectively, and struck out in heading of subchapter D (as redesignated) a reference to dealers in tobacco materials.
+<b>1965</b>—Pub. L. 89–44, title V, §502(b)(1), (2), June 21, 1965, 79 Stat. 150, struck out "TOBACCO," from chapter heading, reference to dealers in tobacco materials from heading of subchapter B, heading of subchapter D and redesignated subchapters E, F and G as D, E and F respectively, and struck out in heading of subchapter D (as redesignated) a reference to dealers in tobacco materials.
 
 <b>1958</b>—Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1414, substituted "manufacturers of tobacco products and cigarette papers and tubes, export warehouse proprietors, and" for "manufacturers of articles and" in heading of subchapters B and E, "manufacturers and importers of tobacco products and cigarette papers and tubes and export warehouse proprietors" for "manufacturers of articles" in heading of subchapter C, and "Penalties and forfeitures" for "Fines, penalties and forfeitures" in heading of subchapter G.
 

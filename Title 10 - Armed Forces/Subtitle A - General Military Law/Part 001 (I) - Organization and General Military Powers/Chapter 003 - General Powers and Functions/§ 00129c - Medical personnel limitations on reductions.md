@@ -64,7 +64,7 @@ Exception.—The limitation under paragraph (1) shall not apply with respect to 
 
 &emsp;&emsp;"(A) Administrative billets of a military department that have remained unfilled since at least October 1, 2018.
 
-&emsp;&emsp;"(B) Billets identified as non-clinical in the budget of the President for fiscal year 2020 submitted to Congress pursuant to section 1105(a) of title 31, United States Code, except that the number of such billets may not exceed 1,700.
+&emsp;&emsp;"(B) Billets identified as non-clinical in the budget of the President for fiscal year 2020 submitted to Congress pursuant to section 1105(a) of title 31,United States Code, except that the number of such billets may not exceed 1,700.
 
 &emsp;&emsp;"(C) Medical headquarters billets of the military departments not assigned to, or providing direct support to, operational commands.
 
@@ -154,7 +154,7 @@ Definitions.—In this section:
 
 #### Prohibition on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions
 
-Pub. L. 110–181, div. A, title VII, §721(a)–(d), Jan. 28, 2008, 122 Stat. 198, 199, as amended by Pub. L. 111–84, div. A, title VII, §701, Oct. 28, 2009, 123 Stat. 2372, prohibited the Secretary of a military department from converting any military medical or dental position to a civilian medical or dental position on or after Oct. 1, 2007, and required restoration of certain converted positions to military positions, prior to repeal by Pub. L. 114–328, div. A, title VII, §721(c), Dec. 23, 2016, 130 Stat. 2228.
+Pub. L. 110–181, div. A, title VII, §721(a)–(d), Jan. 28, 2008, 122 Stat. 198, 199, as amended by Pub. L. 111–84, div. A, title VII, §701, Oct. 28, 2009, 123 Stat. 2372, prohibited the Secretary of a military department from converting any military medical or dental position to a civilian medical or dental position on or after Oct. 1,2007, and required restoration of certain converted positions to military positions, prior to repeal by Pub. L. 114–328, div. A, title VII, §721(c), Dec. 23, 2016, 130 Stat. 2228.
 
 #### Requirement To Certify and Report on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions
 

@@ -22,7 +22,7 @@
 
 #### (c) Applicable criminal histories
 
-Any conviction for a sex crime, an offense involving a child victim, or a drug felony, may be ground for denying employment or for dismissal of an employee in any of the positions listed in subsection (a)(2). In the case of an incident in which an individual has been charged with one of those offenses, when the charge has not yet been disposed of, an employer may suspend an employee from having any contact with children while on the job until the case is resolved. Conviction of a crime other than a sex crime may be considered if it bears on an individual's fitness to have responsibility for the safety and well-being of children.
+Any conviction for a sex crime, an offense involving a child victim, or a drug felony, may be ground for denying employment or for dismissalof an employee in any of the positions listed in subsection (a)(2). In the case of an incident in which an individual has been charged with one of those offenses, when the charge has not yet been disposed of, an employer may suspend an employee from having any contact with children while on the job until the case is resolved. Conviction of a crime other than a sex crime may be considered if it bears on an individual's fitness to have responsibility for the safety and well-being of children.
 
 #### (d) Employment applications
 

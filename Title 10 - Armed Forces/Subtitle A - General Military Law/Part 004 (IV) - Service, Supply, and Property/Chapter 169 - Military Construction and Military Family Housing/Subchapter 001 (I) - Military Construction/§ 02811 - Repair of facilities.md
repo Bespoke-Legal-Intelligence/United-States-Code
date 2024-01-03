@@ -14,7 +14,7 @@ Prohibition on New Construction or Additions.—Construction of new facilities o
 
 (d)
 
-Congressional Notification.—When a decision is made to carry out a repair project under this section with an estimated cost in excess of $7,500,000, the Secretary concerned shallsubmit, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a report containing—
+Congressional Notification.—When a decision is made to carry out a repair project under this section with an estimated cost in excess of $7,500,000, the Secretary concerned shall submit, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a report containing—
 
 &emsp;(1) the justification for the repair project and the current estimate of the cost of the project, including, in the case of a multi-year repair project to a single facility, the total cost of all phases of the project;
 

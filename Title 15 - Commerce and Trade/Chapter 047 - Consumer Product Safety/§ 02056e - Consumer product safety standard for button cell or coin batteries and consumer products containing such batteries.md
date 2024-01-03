@@ -74,7 +74,7 @@ A consumer product safety standard promulgated under subsection (a) shall be tre
 
 #### (g) Future rulemaking
 
-At any time after the promulgation of a final consumer product safety standard under subsection (a), a voluntary standard is treated as a consumer product safety rule under subsection (e), or a revised voluntary standard becomes enforceable as a consumer product safety rule under subsection (f), the Commission may initiate a rulemaking in accordance with section 553 of title 5 to modify the requirements of the standard or revised standard. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under section 2058 of this title.
+At any time after the promulgation of a final consumer product safety standard under subsection (a), a voluntary standard is treated as a consumer product safety rule under subsection\(e), or a revised voluntary standard becomes enforceable as a consumer product safety rule under subsection (f), the Commission may initiate a rulemaking in accordance with section 553 of title 5 to modify the requirements of the standard or revised standard. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under section 2058 of this title.
 
 (Pub. L. 117–171, §2, Aug. 16, 2022, 136 Stat. 2094.)
 

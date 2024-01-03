@@ -4,7 +4,7 @@
 
 Allowance for Family Members and Certain Others.—(1) Under uniform regulations prescribed by the heads of agencies, travel and transportation described in subsection (d) may be provided for not more than 3 family members of an employee described in subsection (b).
 
-(2) In addition to the family members authorized to be provided travel and transportation under paragraph (1), the head of an agency mayprovide travel and transportation described in subsection (d) to an attendant to accompany a family member described in subsection (b) if the head of an agency determines—
+(2) In addition to the family members authorized to be provided travel and transportation under paragraph (1), the head of an agency may provide travel and transportation described in subsection (d) to an attendant to accompany a family member described in subsection (b) if the head of an agency determines—
 
 &emsp;(A) the family member to be accompanied is unable to travel unattended because of age, physical condition, or other reason determined by the head of the agency; and
 

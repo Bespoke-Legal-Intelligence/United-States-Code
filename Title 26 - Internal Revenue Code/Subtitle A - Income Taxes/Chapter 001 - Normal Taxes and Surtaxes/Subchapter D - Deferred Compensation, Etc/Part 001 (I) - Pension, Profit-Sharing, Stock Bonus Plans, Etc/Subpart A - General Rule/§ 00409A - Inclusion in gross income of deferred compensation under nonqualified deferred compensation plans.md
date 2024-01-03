@@ -18,7 +18,7 @@
 
 #### (ii) Application only to affected participants
 
-&emsp;&emsp;&emsp;Clause (i) shall only apply with respect to all compensation deferred under the plan for participants with respect to whom the failure relates.
+&emsp;&emsp;&emsp;Clause (i) shall only apply with respect to all compensation deferred under theplan for participants with respect to whom the failure relates.
 
 #### (B) Interest and additional tax payable with respect to previously deferred compensation
 
@@ -92,7 +92,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The requirements of this subparagraph are met if the plan provides that compensation for services performed during a taxable year may be deferred at the participant's election only if the election to defer such compensation is made not later than the close of the preceding taxable year or at such other time as provided in regulations.
+&emsp;&emsp;&emsp;The requirements of this subparagraph are met if the plan provides that compensation for services performed during a taxable year may be deferred at the participant's election only if the election todefer such compensation is made not later than the close of the preceding taxable year or at such other time as provided in regulations.
 
 #### (ii) First year of eligibility
 
@@ -158,7 +158,7 @@
 
 #### (C) Special rule for payment of taxes on deferred compensation included in income
 
-&emsp;&emsp;If an employer provides directly or indirectly for the payment of any Federal, State, or local income taxes with respect to any compensation required to be included in gross income by reason of this paragraph—
+&emsp;&emsp;If an employer provides directly or indirectly for the payment of any Federal, State, or local income taxes with respect toany compensation required to be included in gross income by reason of this paragraph—
 
 &emsp;&emsp;&emsp;(i) interest shall be imposed under subsection (a)(1)(B)(i)(I) on the amount of such payment in the same manner as if such payment was part of the deferred compensation to which it relates,
 
@@ -250,7 +250,7 @@ For purposes of this section:
 
 #### (e) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations—
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section, including regulations—
 
 &emsp;(1) providing for the determination of amounts of deferral in the case of a nonqualified deferred compensation plan which is a defined benefit plan,
 
@@ -262,7 +262,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) disregarding a substantial risk of forfeiture in cases where necessary to carry out the purposes of this section.
 
-(Added Pub. L. 108–357, title VIII, §885(a), Oct. 22, 2004, 118 Stat. 1634; amended Pub. L. 109–135, titleIV, §403(hh)(2), Dec. 21, 2005, 119 Stat. 2631; Pub. L. 109–280, title I, §116(a), (b), Aug. 17, 2006, 120 Stat. 856, 858; Pub. L. 110–458, title I, §101(e), Dec. 23, 2008, 122 Stat. 5100; Pub. L. 115–97, title I, §13603(c)(2), Dec. 22, 2017, 131 Stat. 2164; Pub. L. 115–141, div. U, title IV, §401(a)(80), Mar. 23, 2018, 132 Stat. 1187.)
+(Added Pub. L. 108–357, title VIII, §885(a), Oct. 22, 2004, 118 Stat. 1634; amended Pub. L. 109–135, title IV, §403(hh)(2), Dec. 21, 2005, 119 Stat. 2631; Pub. L. 109–280, title I, §116(a), (b), Aug. 17, 2006, 120 Stat. 856, 858; Pub. L. 110–458, title I, §101(e), Dec. 23, 2008, 122 Stat. 5100; Pub. L. 115–97, title I, §13603(c)(2), Dec. 22, 2017, 131 Stat. 2164; Pub. L. 115–141, div. U, title IV, §401(a)(80), Mar. 23, 2018, 132 Stat. 1187.)
 
 #### <b>Editorial Notes</b>
 
@@ -356,7 +356,7 @@ Pub. L. 108–357, title VIII, §885(e), Oct. 22, 2004, 118 Stat. 1640, provided
 
 #### Guidance Relating to Termination of Certain Existing Arrangements
 
-Pub. L. 108–357, title VIII, §885(f), Oct. 22, 2004, 118 Stat. 1641, as amended by Pub. L. 109–135, title IV, §403(hh)(4), Dec. 21, 2005, 119 Stat. 2632, provided that: "Not later than 60 days after the date of the enactment of this Act \[Oct. 22, 2004\], the Secretary of the Treasury shall issue guidance providing a limited period during which a nonqualified deferred compensation planadopted before January 1, 2005, may, without violating the requirements of paragraphs (2), (3), and (4) of section 409A(a) of the Internal Revenue Code of 1986 (as added by this section), be amended—
+Pub. L. 108–357, title VIII, §885(f), Oct. 22, 2004, 118 Stat. 1641, as amended by Pub. L. 109–135, title IV, §403(hh)(4), Dec. 21, 2005, 119 Stat. 2632, provided that: "Not later than 60 days after the date of the enactment of this Act \[Oct. 22, 2004\], the Secretary of the Treasury shall issue guidance providing a limited period during which a nonqualified deferred compensation plan adopted before January 1, 2005, may, without violating the requirements of paragraphs (2), (3), and (4) of section 409A(a) of the Internal Revenue Code of 1986 (as added by this section), be amended—
 
 &emsp;"(1) to provide that a participant may terminate participation in the plan, or cancel an outstanding deferral election with regard to amounts deferred after December 31, 2004, but only if amounts subject to the termination or cancellation are includible in income of the participant as earned (or, if later, when no longer subject to substantial risk of forfeiture), and
 

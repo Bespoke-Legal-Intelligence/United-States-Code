@@ -130,7 +130,7 @@ The duties of the Office shall be to ensure small farms and ranches, beginning f
 
 &emsp;&emsp;(B) Serving as a liaison to community-based nonprofit organizations that represent and have demonstrated experience serving low-income migrant and seasonal farmworkers.
 
-&emsp;&emsp;(C) Coordinating with the Department, other Federal agencies, and State and local governments to ensure that farmworker needs are assessed and met during declared disasters and other emergencies.
+&emsp;&emsp;(C) Coordinating with the Department, other Federal agencies, and State and local governments to ensure that farmworkerneeds are assessed and met during declared disasters and other emergencies.
 
 &emsp;&emsp;(D) Consulting within the Office and with other entities to better integrate farmworker perspectives, concerns, and interests into the ongoing programs of the Department.
 

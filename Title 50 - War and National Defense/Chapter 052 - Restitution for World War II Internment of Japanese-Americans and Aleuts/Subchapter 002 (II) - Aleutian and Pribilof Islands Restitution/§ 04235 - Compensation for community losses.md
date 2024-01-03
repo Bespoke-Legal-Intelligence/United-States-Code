@@ -50,7 +50,7 @@ Subject to the availability of funds appropriated to the Fund, the Secretary sha
 
 #### (1) Inventory and assessment of property
 
-&emsp;The Administrator shall make an inventory and assessment of real and personal church property of affected Aleut villages which was damaged or destroyed during World War II. In making such inventory and assessment, the Administrator shall consult with the trusteesof the trust established under subsection (b), residents of affected Aleut villages, affected church members and leaders, and the clergy of the churches involved. Within 1 year after August 10, 1988, the Administrator shall submit such inventory and assessment, together with an estimate of the present replacement value of lost or destroyed furnishings and artifacts, to the Secretary.
+&emsp;The Administrator shall make an inventory and assessment of real and personal church property of affected Aleut villages which was damaged or destroyed during World War II. In making such inventory and assessment, the Administrator shall consult with the trustees of the trust established under subsection (b), residents of affected Aleut villages, affected church members and leaders, and the clergy of the churches involved. Within 1 year after August 10, 1988, the Administrator shall submit such inventory and assessment, together with an estimate of the present replacement value of lost or destroyed furnishings and artifacts, to the Secretary.
 
 #### (2) Review by the Secretary; deposit in the trust
 

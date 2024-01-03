@@ -14,7 +14,7 @@ The Secretary of the Interior, in consultation with the Governor of the Commonwe
 
 In providing such technical assistance under paragraph (1), the Secretaries shall—
 
-&emsp;(A) consult with the Government of the Commonwealth, local businesses, regionalbanks, educational institutions, and other experts in the economy of the Commonwealth; and
+&emsp;(A) consult with the Government of the Commonwealth, local businesses, regional banks, educational institutions, and other experts in the economy of the Commonwealth; and
 
 &emsp;(B) assist in the development and implementation of a process to identify opportunities for and encourage diversification and growth of the economy of the Commonwealth and to identify and encourage opportunities to meet the labor needs of the Commonwealth.
 

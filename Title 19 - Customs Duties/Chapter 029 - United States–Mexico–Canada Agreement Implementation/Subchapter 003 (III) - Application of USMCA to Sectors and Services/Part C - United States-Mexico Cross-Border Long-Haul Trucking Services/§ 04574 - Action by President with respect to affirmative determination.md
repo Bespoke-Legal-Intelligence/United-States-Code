@@ -66,7 +66,7 @@ The President is not required to provide relief under this section if the Presid
 
 #### (C) Period of relief
 
-&emsp;&emsp;Any relief provided under this section, including any extension thereof, may not, in the aggregate, be in effect for more than 6 years.
+&emsp;&emsp;Any relief provided under this section, including any extension thereof, may not, inthe aggregate, be in effect for more than 6 years.
 
 #### (D) Limitation
 

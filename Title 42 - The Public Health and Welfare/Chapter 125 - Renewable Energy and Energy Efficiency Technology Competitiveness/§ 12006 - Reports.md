@@ -2,7 +2,7 @@
 
 #### (a) Report by Secretary
 
-One year after December 11, 1989, and annually thereafter, the Secretary shall report to Congress on the programs and projects supported under this chapter and the progress being madetoward accomplishing the goals and purposes set forth in this chapter.
+One year after December 11, 1989, and annually thereafter, the Secretary shall report to Congress on the programs and projects supported under this chapter and the progress being made toward accomplishing the goals and purposes set forth in this chapter.
 
 #### (b) National renewable energy and energy efficiency management plan
 

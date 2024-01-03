@@ -5,7 +5,7 @@
 | [11301\.](%C2%A7%2011301%20-%20Logbook%20and%20entry%20requirements.md) | Logbook and entry requirements. |
 | [11302\.](%C2%A7%2011302%20-%20Manner%20of%20making%20entries.md) | Manner of making entries. |
 | [11303\.](%C2%A7%2011303%20-%20Penalties.md) | Penalties. |
-| [11304\.](%C2%A7%2011304%20-%20Additional%20logbook%20and%20entry%20requirements.md) | Additional logbook and entry requirements. |
+| [11304\.](%C2%A7%2011304%20-%20Additional%20logbook%20and%20entry%20requirements.md) | Additional logbook and entry requirements.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

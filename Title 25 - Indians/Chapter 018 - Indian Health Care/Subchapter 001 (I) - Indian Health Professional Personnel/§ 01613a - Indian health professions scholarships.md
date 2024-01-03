@@ -6,7 +6,7 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 #### (b) Recipients; active duty service obligation
 
-(1) The Secretary, acting through the Service, shall determine who shall receive scholarshipsunder subsection (a) and shall determine the distribution of such scholarships among such health professions on the basis of the relative needs of Indians for additional service in such health professions.
+(1) The Secretary, acting through the Service, shall determine who shall receive scholarships under subsection (a) and shall determine the distribution of such scholarships among such health professions on the basis of the relative needs of Indians for additional service in such health professions.
 
 (2) An individual shall be eligible for a scholarship under subsection (a) in any year in which such individual is enrolled full or part time in a course of study referred to in subsection (a) of this section.
 
@@ -98,7 +98,7 @@ A prior section 104 of Pub. L. 94–437, title I, Sept. 30, 1976, 90 Stat. 1403,
 
 Subsec. (b)(3)(B). Pub. L. 104–313, §2(b)(1)(C), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (b)(3)(C). Pub. L. 104–313, §2(b)(1)(D), substituted "described in subparagraph (A) by service in a program specified in that subparagraph" for "prescribed under section 254m of title 42 by service in a program specified in subparagraph (A)".
+Subsec. (b)(3)(C). Pub. L. 104–313, §2(b)(1)(D), substituted "described in subparagraph (A) by service in aprogram specified in that subparagraph" for "prescribed under section 254m of title 42 by service in a program specified in subparagraph (A)".
 
 Pub. L. 104–313, §2(b)(1)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 

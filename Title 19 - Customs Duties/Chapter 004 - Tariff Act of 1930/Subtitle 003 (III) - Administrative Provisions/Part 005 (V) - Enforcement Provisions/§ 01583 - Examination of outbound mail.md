@@ -30,7 +30,7 @@ Mail not sealed against inspection under the postal laws and regulations of the 
 
 #### (1) In general
 
-&emsp;Mail weighing in excess of 16 ounces sealed against inspection under the postal laws andregulations of the United States may be searched by a Customs officer, subject to paragraph (2), if there is reasonable cause to suspect that such mail contains one or more of the following:
+&emsp;Mail weighing in excess of 16 ounces sealed against inspection under the postal laws and regulations of the United States may be searched by a Customs officer, subject to paragraph (2), if there is reasonable cause to suspect that such mail contains one or more of the following:
 
 &emsp;&emsp;(A) Monetary instruments, as defined in section 1956 of title 18.
 
@@ -106,11 +106,11 @@ Certification with respect to foreign mail.—The provisions of section 583 of t
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Certification by Secretary
 
-Pub. L. 107–210, div. A, title III, §344(b), Aug. 6, 2002, 116 Stat. 987, provided that: "Not later than 3 months after the date of enactment of this section \[Aug. 6, 2002\], the Secretary of State shall determine whether the application of section 583 of the Tariff Act of 1930 \[this section\] to foreign mail transiting the UnitedStates that is imported or exported by the United States Postal Service is being handled in a manner consistent with international law and any international obligation of the United States. Section 583 of such Act shall not apply to such foreign mail unless the Secretary certifies to Congress that the application of such section 583 is consistent with international law and any international obligation of the United States."
+Pub. L. 107–210, div. A, title III, §344(b), Aug. 6, 2002, 116 Stat. 987, provided that: "Not later than 3 months after the date of enactment of this section \[Aug. 6, 2002\], the Secretary of State shall determine whether the application of section 583 of the Tariff Act of 1930 \[this section\] to foreign mail transiting the United States that is imported or exported by the United States Postal Service is being handled in a manner consistent with international law and any international obligation of the United States. Section 583 of such Act shall not apply to such foreign mail unless the Secretary certifies to Congress that the application of such section 583 is consistent with international law and any international obligation of the United States."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

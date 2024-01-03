@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title41",
- "package": "USCODE-2022-title41",
+ "package": "USCODE-2023-title41",
  "pieces": [
   {
    "id": "41_",
@@ -427,18 +427,14 @@
    "id": "41_1101",
    "marks": [
     [
-     "I",
-     132,
-     [
-      [
-       96,
-       "[Page 13]"
-      ]
-     ]
+     "L",
+     128,
+     "[Page 13]",
+     true
     ],
     [
      "L",
-     258,
+     254,
      "[Page 14]",
      true
     ]
@@ -471,10 +467,14 @@
    "id": "41_1121",
    "marks": [
     [
-     "L",
-     96,
-     "[Page 15]",
-     true
+     "I",
+     88,
+     [
+      [
+       277,
+       "[Page 15]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 011 - Establishment of Office and Authority and Functions of Administrator/Subchapter 002 (II) - Authority and Functions of the Administrator/§ 01121 - General authority.md",
@@ -487,17 +487,21 @@
    "id": "41_1122",
    "marks": [
     [
-     "L",
-     38,
-     "[Page 16]",
-     true
+     "I",
+     30,
+     [
+      [
+       353,
+       "[Page 16]"
+      ]
+     ]
     ],
     [
      "I",
-     142,
+     138,
      [
       [
-       104,
+       102,
        "[Page 17]"
       ]
      ]
@@ -511,26 +515,26 @@
   },
   {
    "id": "41_1123",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 011 - Establishment of Office and Authority and Functions of Administrator/Subchapter 002 (II) - Authority and Functions of the Administrator/§ 01123 - Small business concerns.md",
-   "printed_pages": [
-    17,
-    17
-   ]
-  },
-  {
-   "id": "41_1124",
    "marks": [
     [
      "L",
-     6,
+     26,
      "[Page 18]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 011 - Establishment of Office and Authority and Functions of Administrator/Subchapter 002 (II) - Authority and Functions of the Administrator/§ 01124 - Tests of innovative procurement methods and procedures.md",
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 011 - Establishment of Office and Authority and Functions of Administrator/Subchapter 002 (II) - Authority and Functions of the Administrator/§ 01123 - Small business concerns.md",
    "printed_pages": [
     17,
+    18
+   ]
+  },
+  {
+   "id": "41_1124",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 011 - Establishment of Office and Authority and Functions of Administrator/Subchapter 002 (II) - Authority and Functions of the Administrator/§ 01124 - Tests of innovative procurement methods and procedures.md",
+   "printed_pages": [
+    18,
     18
    ]
   },
@@ -547,55 +551,50 @@
    "id": "41_1126",
    "marks": [
     [
+     "I",
+     4,
+     [
+      [
+       132,
+       "[Page 19]"
+      ]
+     ]
+    ],
+    [
      "L",
-     12,
-     "[Page 19]",
+     112,
+     "[Page 20]",
      true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 011 - Establishment of Office and Authority and Functions of Administrator/Subchapter 002 (II) - Authority and Functions of the Administrator/§ 01126 - Policy regarding consideration of contractor past performance.md",
    "printed_pages": [
     18,
-    19
+    20
    ]
   },
   {
    "id": "41_1127",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       76,
-       "[Page 20]"
-      ]
-     ]
+     "L",
+     112,
+     "[Page 21]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 011 - Establishment of Office and Authority and Functions of Administrator/Subchapter 002 (II) - Authority and Functions of the Administrator/§ 01127 - Determining benchmark compensation amount.md",
    "printed_pages": [
-    19,
-    20
+    20,
+    21
    ]
   },
   {
    "id": "41_1128",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       268,
-       "[Page 21]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 011 - Establishment of Office and Authority and Functions of Administrator/Subchapter 002 (II) - Authority and Functions of the Administrator/§ 01128 - Maintaining necessary capability with respect to acquisition of architectural and engineering services.md",
    "printed_pages": [
-    20,
+    21,
     21
    ]
   },
@@ -639,14 +638,10 @@
    "id": "41_1201",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       81,
-       "[Page 22]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 22]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 012 - Federal Acquisition Institute/§ 01201 - Federal Acquisition Institute.md",
@@ -675,30 +670,26 @@
   },
   {
    "id": "41_1301",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 23]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 013 - Acquisition Councils/Subchapter 001 (I) - Federal Acquisition Regulatory Council/§ 01301 - Definition.md",
    "printed_pages": [
     22,
-    22
+    23
    ]
   },
   {
    "id": "41_1302",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       174,
-       "[Page 23]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 013 - Acquisition Councils/Subchapter 001 (I) - Federal Acquisition Regulatory Council/§ 01302 - Establishment and membership.md",
    "printed_pages": [
-    22,
+    23,
     23
    ]
   },
@@ -707,11 +698,21 @@
    "marks": [
     [
      "I",
-     32,
+     20,
      [
       [
-       255,
+       209,
        "[Page 24]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     116,
+     [
+      [
+       117,
+       "[Page 25]"
       ]
      ]
     ]
@@ -719,7 +720,7 @@
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 013 - Acquisition Councils/Subchapter 001 (I) - Federal Acquisition Regulatory Council/§ 01303 - Functions and authority.md",
    "printed_pages": [
     23,
-    24
+    25
    ]
   },
   {
@@ -727,24 +728,18 @@
    "marks": [
     [
      "I",
-     8,
+     102,
      [
       [
-       96,
-       "[Page 25]"
+       106,
+       "[Page 26]"
       ]
      ]
-    ],
-    [
-     "L",
-     106,
-     "[Page 26]",
-     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 013 - Acquisition Councils/Subchapter 001 (I) - Federal Acquisition Regulatory Council/§ 01304 - Contract clauses and certifications.md",
    "printed_pages": [
-    24,
+    25,
     26
    ]
   },
@@ -789,7 +784,7 @@
    "marks": [
     [
      "L",
-     12,
+     8,
      "[Page 27]",
      true
     ]
@@ -805,10 +800,10 @@
    "marks": [
     [
      "I",
-     66,
+     48,
      [
       [
-       90,
+       122,
        "[Page 28]"
       ]
      ]
@@ -825,19 +820,23 @@
    "marks": [
     [
      "I",
-     56,
+     50,
      [
       [
-       268,
+       138,
        "[Page 29]"
       ]
      ]
     ],
     [
-     "L",
-     136,
-     "[Page 30]",
-     true
+     "I",
+     120,
+     [
+      [
+       75,
+       "[Page 30]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 013 - Acquisition Councils/Subchapter 003 (III) - Federal Acquisition Supply Chain Security/§ 01323 - Functions and authorities.md",
@@ -848,26 +847,26 @@
   },
   {
    "id": "41_1324",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 013 - Acquisition Councils/Subchapter 003 (III) - Federal Acquisition Supply Chain Security/§ 01324 - Strategic plan.md",
-   "printed_pages": [
-    30,
-    30
-   ]
-  },
-  {
-   "id": "41_1325",
    "marks": [
     [
      "L",
-     14,
+     48,
      "[Page 31]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 013 - Acquisition Councils/Subchapter 003 (III) - Federal Acquisition Supply Chain Security/§ 01325 - Annual report.md",
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 013 - Acquisition Councils/Subchapter 003 (III) - Federal Acquisition Supply Chain Security/§ 01324 - Strategic plan.md",
    "printed_pages": [
     30,
+    31
+   ]
+  },
+  {
+   "id": "41_1325",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 013 - Acquisition Councils/Subchapter 003 (III) - Federal Acquisition Supply Chain Security/§ 01325 - Annual report.md",
+   "printed_pages": [
+    31,
     31
    ]
   },
@@ -885,7 +884,7 @@
    "marks": [
     [
      "L",
-     36,
+     24,
      "[Page 32]",
      true
     ]
@@ -901,7 +900,7 @@
    "marks": [
     [
      "L",
-     18,
+     4,
      "[Page 33]",
      true
     ]
@@ -926,19 +925,25 @@
    "marks": [
     [
      "I",
-     94,
+     78,
      [
       [
-       213,
+       84,
        "[Page 34]"
       ]
      ]
+    ],
+    [
+     "L",
+     198,
+     "[Page 35]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 015 - Cost Accounting Standards/§ 01501 - Cost Accounting Standards Board.md",
    "printed_pages": [
     33,
-    34
+    35
    ]
   },
   {
@@ -946,26 +951,24 @@
    "marks": [
     [
      "L",
-     22,
-     "[Page 35]",
-     true
-    ],
-    [
-     "L",
-     108,
+     100,
      "[Page 36]",
      true
     ],
     [
-     "L",
-     238,
-     "[Page 37]",
-     true
+     "I",
+     212,
+     [
+      [
+       89,
+       "[Page 37]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 015 - Cost Accounting Standards/§ 01502 - Cost accounting standards.md",
    "printed_pages": [
-    34,
+    35,
     37
    ]
   },
@@ -980,30 +983,26 @@
   },
   {
    "id": "41_1504",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 38]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 015 - Cost Accounting Standards/§ 01504 - Effect on other standards and regulations.md",
    "printed_pages": [
     37,
-    37
+    38
    ]
   },
   {
    "id": "41_1505",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       321,
-       "[Page 38]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 015 - Cost Accounting Standards/§ 01505 - Examinations.md",
    "printed_pages": [
-    37,
+    38,
     38
    ]
   },
@@ -1029,10 +1028,14 @@
    "id": "41_1701",
    "marks": [
     [
-     "L",
-     72,
-     "[Page 39]",
-     true
+     "I",
+     46,
+     [
+      [
+       106,
+       "[Page 39]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 017 - Agency Responsibilities and Procedures/§ 01701 - Cooperation with the Administrator.md",
@@ -1046,10 +1049,10 @@
    "marks": [
     [
      "I",
-     36,
+     22,
      [
       [
-       135,
+       220,
        "[Page 40]"
       ]
      ]
@@ -1066,37 +1069,41 @@
    "marks": [
     [
      "L",
-     54,
+     30,
      "[Page 41]",
      true
     ],
     [
      "L",
-     146,
+     112,
      "[Page 42]",
      true
     ],
     [
-     "L",
-     230,
-     "[Page 43]",
-     true
-    ],
-    [
-     "L",
-     410,
-     "[Page 44]",
-     true
+     "I",
+     202,
+     [
+      [
+       387,
+       "[Page 43]"
+      ]
+     ]
     ],
     [
      "I",
-     552,
+     348,
      [
       [
-       111,
-       "[Page 45]"
+       148,
+       "[Page 44]"
       ]
      ]
+    ],
+    [
+     "L",
+     506,
+     "[Page 45]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 017 - Agency Responsibilities and Procedures/§ 01703 - Acquisition workforce.md",
@@ -1109,22 +1116,24 @@
    "id": "41_1704",
    "marks": [
     [
-     "I",
-     54,
-     [
-      [
-       124,
-       "[Page 46]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 46]",
+     true
+    ],
+    [
+     "L",
+     108,
+     "[Page 47]",
+     true
     ],
     [
      "I",
-     130,
+     216,
      [
       [
-       481,
-       "[Page 47]"
+       555,
+       "[Page 48]"
       ]
      ]
     ]
@@ -1132,55 +1141,44 @@
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 017 - Agency Responsibilities and Procedures/§ 01704 - Planning and policy-making for acquisition workforce.md",
    "printed_pages": [
     45,
-    47
+    48
    ]
   },
   {
    "id": "41_1705",
-   "marks": [
-    [
-     "I",
-     18,
-     [
-      [
-       307,
-       "[Page 48]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 017 - Agency Responsibilities and Procedures/§ 01705 - Advocates for competition.md",
    "printed_pages": [
-    47,
+    48,
     48
    ]
   },
   {
    "id": "41_1706",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 017 - Agency Responsibilities and Procedures/§ 01706 - Personnel evaluation.md",
-   "printed_pages": [
-    48,
-    48
-   ]
-  },
-  {
-   "id": "41_1707",
    "marks": [
     [
      "I",
-     8,
+     2,
      [
       [
-       168,
+       92,
        "[Page 49]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 017 - Agency Responsibilities and Procedures/§ 01707 - Publication of proposed regulations.md",
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 017 - Agency Responsibilities and Procedures/§ 01706 - Personnel evaluation.md",
    "printed_pages": [
     48,
+    49
+   ]
+  },
+  {
+   "id": "41_1707",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 017 - Agency Responsibilities and Procedures/§ 01707 - Publication of proposed regulations.md",
+   "printed_pages": [
+    49,
     49
    ]
   },
@@ -1188,45 +1186,40 @@
    "id": "41_1708",
    "marks": [
     [
+     "I",
+     6,
+     [
+      [
+       99,
+       "[Page 50]"
+      ]
+     ]
+    ],
+    [
      "L",
-     36,
-     "[Page 50]",
+     90,
+     "[Page 51]",
      true
     ],
     [
-     "I",
-     118,
-     [
-      [
-       176,
-       "[Page 51]"
-      ]
-     ]
+     "L",
+     182,
+     "[Page 52]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 017 - Agency Responsibilities and Procedures/§ 01708 - Procurement notice.md",
    "printed_pages": [
     49,
-    51
+    52
    ]
   },
   {
    "id": "41_1709",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       413,
-       "[Page 52]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 017 - Agency Responsibilities and Procedures/§ 01709 - Contracting functions performed by Federal personnel.md",
    "printed_pages": [
-    51,
+    52,
     52
    ]
   },
@@ -1235,17 +1228,17 @@
    "marks": [
     [
      "I",
-     52,
+     18,
      [
       [
-       81,
+       267,
        "[Page 53]"
       ]
      ]
     ],
     [
      "L",
-     154,
+     116,
      "[Page 54]",
      true
     ]
@@ -1267,30 +1260,26 @@
   },
   {
    "id": "41_1712",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     58,
+     "[Page 55]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 017 - Agency Responsibilities and Procedures/§ 01712 - Record requirements.md",
    "printed_pages": [
     54,
-    54
+    55
    ]
   },
   {
    "id": "41_1713",
-   "marks": [
-    [
-     "I",
-     38,
-     [
-      [
-       131,
-       "[Page 55]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 017 - Agency Responsibilities and Procedures/§ 01713 - Procurement data.md",
    "printed_pages": [
-    54,
+    55,
     55
    ]
   },
@@ -1307,26 +1296,34 @@
    "id": "41_1901",
    "marks": [
     [
-     "L",
-     54,
-     "[Page 56]",
-     true
+     "I",
+     20,
+     [
+      [
+       173,
+       "[Page 56]"
+      ]
+     ]
     ],
     [
      "I",
-     132,
+     108,
      [
       [
-       440,
+       90,
        "[Page 57]"
       ]
      ]
     ],
     [
-     "L",
-     222,
-     "[Page 58]",
-     true
+     "I",
+     194,
+     [
+      [
+       157,
+       "[Page 58]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 019 - Simplified Acquisition Procedures/§ 01901 - Simplified acquisition procedures.md",
@@ -1340,7 +1337,7 @@
    "marks": [
     [
      "L",
-     82,
+     42,
      "[Page 59]",
      true
     ]
@@ -1356,7 +1353,7 @@
    "marks": [
     [
      "L",
-     50,
+     26,
      "[Page 60]",
      true
     ]
@@ -1371,14 +1368,10 @@
    "id": "41_1904",
    "marks": [
     [
-     "I",
-     64,
-     [
-      [
-       221,
-       "[Page 61]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 61]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 019 - Simplified Acquisition Procedures/§ 01904 - Certain transactions for defense against attack.md",
@@ -1389,50 +1382,46 @@
   },
   {
    "id": "41_1905",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 019 - Simplified Acquisition Procedures/§ 01905 - List of laws inapplicable to contracts or subcontracts not greater than simplified acquisition threshold.md",
-   "printed_pages": [
-    61,
-    61
-   ]
-  },
-  {
-   "id": "41_1906",
    "marks": [
     [
      "I",
-     16,
+     28,
      [
       [
-       315,
+       224,
        "[Page 62]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 019 - Simplified Acquisition Procedures/§ 01906 - List of laws inapplicable to procurements of commercial products and commercial services.md",
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 019 - Simplified Acquisition Procedures/§ 01905 - List of laws inapplicable to contracts or subcontracts not greater than simplified acquisition threshold.md",
    "printed_pages": [
     61,
     62
    ]
   },
   {
-   "id": "41_1907",
+   "id": "41_1906",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       81,
-       "[Page 63]"
-      ]
-     ]
+     "L",
+     78,
+     "[Page 63]",
+     true
     ]
    ],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 019 - Simplified Acquisition Procedures/§ 01907 - List of laws inapplicable to procurements of commercially available off-the-shelf items.md",
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 019 - Simplified Acquisition Procedures/§ 01906 - List of laws inapplicable to procurements of commercial products and commercial services.md",
    "printed_pages": [
     62,
+    63
+   ]
+  },
+  {
+   "id": "41_1907",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 019 - Simplified Acquisition Procedures/§ 01907 - List of laws inapplicable to procurements of commercially available off-the-shelf items.md",
+   "printed_pages": [
+    63,
     63
    ]
   },
@@ -1440,10 +1429,14 @@
    "id": "41_1908",
    "marks": [
     [
-     "L",
-     84,
-     "[Page 64]",
-     true
+     "I",
+     44,
+     [
+      [
+       179,
+       "[Page 64]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 019 - Simplified Acquisition Procedures/§ 01908 - Inflation adjustment of acquisition-related dollar thresholds.md",
@@ -1457,17 +1450,17 @@
    "marks": [
     [
      "I",
-     20,
+     4,
      [
       [
-       92,
+       81,
        "[Page 65]"
       ]
      ]
     ],
     [
      "L",
-     94,
+     70,
      "[Page 66]",
      true
     ]
@@ -1491,10 +1484,14 @@
    "id": "41_2101",
    "marks": [
     [
-     "L",
-     114,
-     "[Page 67]",
-     true
+     "I",
+     58,
+     [
+      [
+       95,
+       "[Page 67]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 021 - Restrictions on Obtaining and Disclosing Certain Information/§ 02101 - Definitions.md",
@@ -1514,30 +1511,30 @@
   },
   {
    "id": "41_2103",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 021 - Restrictions on Obtaining and Disclosing Certain Information/§ 02103 - Actions required of procurement officers when contacted regarding non-Federal employment.md",
-   "printed_pages": [
-    67,
-    67
-   ]
-  },
-  {
-   "id": "41_2104",
    "marks": [
     [
      "I",
-     6,
+     18,
      [
       [
-       183,
+       327,
        "[Page 68]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 021 - Restrictions on Obtaining and Disclosing Certain Information/§ 02104 - Prohibition on former official's acceptance of compensation from contractor.md",
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 021 - Restrictions on Obtaining and Disclosing Certain Information/§ 02103 - Actions required of procurement officers when contacted regarding non-Federal employment.md",
    "printed_pages": [
     67,
+    68
+   ]
+  },
+  {
+   "id": "41_2104",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 021 - Restrictions on Obtaining and Disclosing Certain Information/§ 02104 - Prohibition on former official's acceptance of compensation from contractor.md",
+   "printed_pages": [
+    68,
     68
    ]
   },
@@ -1545,10 +1542,14 @@
    "id": "41_2105",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 69]",
-     true
+     "I",
+     20,
+     [
+      [
+       79,
+       "[Page 69]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 021 - Restrictions on Obtaining and Disclosing Certain Information/§ 02105 - Penalties and administrative actions.md",
@@ -1568,11 +1569,18 @@
   },
   {
    "id": "41_2107",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 70]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 021 - Restrictions on Obtaining and Disclosing Certain Information/§ 02107 - Savings provisions.md",
    "printed_pages": [
     69,
-    69
+    70
    ]
   },
   {
@@ -1580,33 +1588,23 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 023 - Miscellaneous/README.md",
    "printed_pages": [
-    69,
-    69
+    70,
+    70
    ]
   },
   {
    "id": "41_2301",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       174,
-       "[Page 70]"
-      ]
-     ]
-    ],
-    [
      "L",
-     108,
+     80,
      "[Page 71]",
      true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 023 - Miscellaneous/§ 02301 - Use of electronic commerce in Federal procurement.md",
    "printed_pages": [
-    69,
+    70,
     71
    ]
   },
@@ -1614,14 +1612,10 @@
    "id": "41_2302",
    "marks": [
     [
-     "I",
-     56,
-     [
-      [
-       179,
-       "[Page 72]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 72]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 023 - Miscellaneous/§ 02302 - Rights in technical data.md",
@@ -1635,16 +1629,16 @@
    "marks": [
     [
      "L",
-     52,
+     20,
      "[Page 73]",
      true
     ],
     [
      "I",
-     164,
+     132,
      [
       [
-       95,
+       110,
        "[Page 74]"
       ]
      ]
@@ -1658,11 +1652,22 @@
   },
   {
    "id": "41_2304",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     72,
+     [
+      [
+       423,
+       "[Page 75]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 023 - Miscellaneous/§ 02304 - Conflict of interest standards for consultants.md",
    "printed_pages": [
     74,
-    74
+    75
    ]
   },
   {
@@ -1670,23 +1675,16 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 023 - Miscellaneous/§ 02305 - Authority of Director of Office of Management and Budget not affected.md",
    "printed_pages": [
-    74,
-    74
+    75,
+    75
    ]
   },
   {
    "id": "41_2306",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 75]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 023 - Miscellaneous/§ 02306 - Openness of meetings.md",
    "printed_pages": [
-    74,
+    75,
     75
    ]
   },
@@ -1701,26 +1699,26 @@
   },
   {
    "id": "41_2308",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 023 - Miscellaneous/§ 02308 - Modular contracting for information technology.md",
-   "printed_pages": [
-    75,
-    75
-   ]
-  },
-  {
-   "id": "41_2309",
    "marks": [
     [
      "L",
-     36,
+     46,
      "[Page 76]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 023 - Miscellaneous/§ 02309 - Protection of constitutional rights of contractors.md",
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 023 - Miscellaneous/§ 02308 - Modular contracting for information technology.md",
    "printed_pages": [
     75,
+    76
+   ]
+  },
+  {
+   "id": "41_2309",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 023 - Miscellaneous/§ 02309 - Protection of constitutional rights of contractors.md",
+   "printed_pages": [
+    76,
     76
    ]
   },
@@ -1735,31 +1733,34 @@
   },
   {
    "id": "41_2311",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 77]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 023 - Miscellaneous/§ 02311 - Enhanced transparency on interagency contracting and other transactions.md",
    "printed_pages": [
     76,
-    76
+    77
    ]
   },
   {
    "id": "41_2312",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       85,
-       "[Page 77]"
-      ]
-     ]
+     "L",
+     90,
+     "[Page 78]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 023 - Miscellaneous/§ 02312 - Contingency Contracting Corps.md",
    "printed_pages": [
-    76,
-    77
+    77,
+    78
    ]
   },
   {
@@ -1767,29 +1768,25 @@
    "marks": [
     [
      "I",
-     30,
+     82,
      [
       [
-       223,
-       "[Page 78]"
+       403,
+       "[Page 79]"
       ]
      ]
     ],
     [
-     "I",
-     120,
-     [
-      [
-       139,
-       "[Page 79]"
-      ]
-     ]
+     "L",
+     178,
+     "[Page 80]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division B - Office of Federal Procurement Policy/Chapter 023 - Miscellaneous/§ 02313 - Database for Federal agency contract and grant officers and suspension and debarment officials.md",
    "printed_pages": [
-    77,
-    79
+    78,
+    80
    ]
   },
   {
@@ -1797,8 +1794,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/README.md",
    "printed_pages": [
-    79,
-    79
+    80,
+    80
    ]
   },
   {
@@ -1806,24 +1803,18 @@
    "marks": [
     [
      "I",
-     29,
+     99,
      [
       [
-       247,
-       "[Page 80]"
+       103,
+       "[Page 81]"
       ]
      ]
-    ],
-    [
-     "L",
-     139,
-     "[Page 81]",
-     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 031 - General/README.md",
    "printed_pages": [
-    79,
+    80,
     81
    ]
   },
@@ -1831,36 +1822,36 @@
    "id": "41_3101",
    "marks": [
     [
-     "L",
-     104,
-     "[Page 82]",
-     true
-    ],
-    [
      "I",
-     172,
+     78,
      [
       [
-       108,
-       "[Page 83]"
+       36,
+       "[Page 82]"
       ]
      ]
     ],
     [
      "L",
-     222,
-     "[Page 84]",
+     152,
+     "[Page 83]",
      true
     ],
     [
      "I",
-     292,
+     198,
      [
       [
-       105,
-       "[Page 85]"
+       164,
+       "[Page 84]"
       ]
      ]
+    ],
+    [
+     "L",
+     276,
+     "[Page 85]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 031 - General/§ 03101 - Applicability.md",
@@ -1871,26 +1862,26 @@
   },
   {
    "id": "41_3102",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 031 - General/§ 03102 - Delegation and assignment of powers, functions, and responsibilities.md",
-   "printed_pages": [
-    85,
-    85
-   ]
-  },
-  {
-   "id": "41_3103",
    "marks": [
     [
      "L",
-     28,
+     10,
      "[Page 86]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 031 - General/§ 03103 - Acquisition programs.md",
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 031 - General/§ 03102 - Delegation and assignment of powers, functions, and responsibilities.md",
    "printed_pages": [
     85,
+    86
+   ]
+  },
+  {
+   "id": "41_3103",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 031 - General/§ 03103 - Acquisition programs.md",
+   "printed_pages": [
+    86,
     86
    ]
   },
@@ -1905,11 +1896,18 @@
   },
   {
    "id": "41_3105",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     38,
+     "[Page 87]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 031 - General/§ 03105 - New contracts and grants and merit-based selection procedures.md",
    "printed_pages": [
     86,
-    86
+    87
    ]
   },
   {
@@ -1917,27 +1915,16 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 031 - General/§ 03106 - Erection, repair, or furnishing of public buildings and improvements not authorized, and certain contracts not permitted, by this division.md",
    "printed_pages": [
-    86,
-    86
+    87,
+    87
    ]
   },
   {
    "id": "41_-Subtitle_I-Division_C-ch33",
-   "marks": [
-    [
-     "I",
-     5,
-     [
-      [
-       99,
-       "[Page 87]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 033 - Planning and Solicitation/README.md",
    "printed_pages": [
-    86,
+    87,
     87
    ]
   },
@@ -1946,7 +1933,7 @@
    "marks": [
     [
      "L",
-     112,
+     40,
      "[Page 88]",
      true
     ]
@@ -1961,21 +1948,17 @@
    "id": "41_3302",
    "marks": [
     [
-     "I",
-     62,
-     [
-      [
-       116,
-       "[Page 89]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 89]",
+     true
     ],
     [
      "I",
-     152,
+     100,
      [
       [
-       113,
+       155,
        "[Page 90]"
       ]
      ]
@@ -1989,58 +1972,58 @@
   },
   {
    "id": "41_3303",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 91]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 033 - Planning and Solicitation/§ 03303 - Exclusion of particular source or restriction of solicitation to small business concerns.md",
    "printed_pages": [
     90,
-    90
+    91
    ]
   },
   {
    "id": "41_3304",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 91]",
-     true
-    ],
-    [
-     "L",
-     112,
-     "[Page 92]",
-     true
-    ],
-    [
      "I",
-     238,
+     66,
      [
       [
-       113,
-       "[Page 93]"
+       176,
+       "[Page 92]"
       ]
      ]
-    ]
-   ],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 033 - Planning and Solicitation/§ 03304 - Use of noncompetitive procedures.md",
-   "printed_pages": [
-    90,
-    93
-   ]
-  },
-  {
-   "id": "41_3305",
-   "marks": [
+    ],
     [
      "L",
-     44,
+     162,
+     "[Page 93]",
+     true
+    ],
+    [
+     "L",
+     296,
      "[Page 94]",
      true
     ]
    ],
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 033 - Planning and Solicitation/§ 03304 - Use of noncompetitive procedures.md",
+   "printed_pages": [
+    91,
+    94
+   ]
+  },
+  {
+   "id": "41_3305",
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 033 - Planning and Solicitation/§ 03305 - Simplified procedures for small purchases.md",
    "printed_pages": [
-    93,
+    94,
     94
    ]
   },
@@ -2049,15 +2032,25 @@
    "marks": [
     [
      "L",
-     86,
+     42,
      "[Page 95]",
      true
+    ],
+    [
+     "I",
+     130,
+     [
+      [
+       277,
+       "[Page 96]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 033 - Planning and Solicitation/§ 03306 - Planning and solicitation requirements.md",
    "printed_pages": [
     94,
-    95
+    96
    ]
   },
   {
@@ -2065,50 +2058,43 @@
    "marks": [
     [
      "L",
-     26,
-     "[Page 96]",
+     64,
+     "[Page 97]",
      true
     ],
     [
      "I",
-     114,
+     162,
      [
       [
-       76,
-       "[Page 97]"
+       182,
+       "[Page 98]"
       ]
      ]
     ],
     [
-     "L",
-     224,
-     "[Page 98]",
-     true
-    ]
-   ],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 033 - Planning and Solicitation/§ 03307 - Preference for commercial products and commercial services.md",
-   "printed_pages": [
-    95,
-    98
-   ]
-  },
-  {
-   "id": "41_3308",
-   "marks": [
-    [
      "I",
-     24,
+     262,
      [
       [
-       397,
+       111,
        "[Page 99]"
       ]
      ]
     ]
    ],
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 033 - Planning and Solicitation/§ 03307 - Preference for commercial products and commercial services.md",
+   "printed_pages": [
+    96,
+    99
+   ]
+  },
+  {
+   "id": "41_3308",
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 033 - Planning and Solicitation/§ 03308 - Planning for future competition in contracts for major systems.md",
    "printed_pages": [
-    98,
+    99,
     99
    ]
   },
@@ -2116,35 +2102,30 @@
    "id": "41_3309",
    "marks": [
     [
-     "I",
-     64,
-     [
-      [
-       251,
-       "[Page 100]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 100]",
+     true
+    ],
+    [
+     "L",
+     114,
+     "[Page 101]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 033 - Planning and Solicitation/§ 03309 - Design-build selection procedures.md",
    "printed_pages": [
     99,
-    100
+    101
    ]
   },
   {
    "id": "41_3310",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 101]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 033 - Planning and Solicitation/§ 03310 - Quantities to order.md",
    "printed_pages": [
-    100,
+    101,
     101
    ]
   },
@@ -2153,34 +2134,29 @@
    "marks": [
     [
      "L",
-     72,
+     28,
      "[Page 102]",
+     true
+    ],
+    [
+     "L",
+     104,
+     "[Page 103]",
      true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 033 - Planning and Solicitation/§ 03311 - Qualification requirement.md",
    "printed_pages": [
     101,
-    102
+    103
    ]
   },
   {
    "id": "41_3312",
-   "marks": [
-    [
-     "I",
-     28,
-     [
-      [
-       446,
-       "[Page 103]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 033 - Planning and Solicitation/§ 03312 - Database on price trends of items and services under Federal contracts.md",
    "printed_pages": [
-    102,
+    103,
     103
    ]
   },
@@ -2195,28 +2171,33 @@
   },
   {
    "id": "41_3501",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       95,
+       "[Page 104]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 035 - Truthful Cost or Pricing Data/§ 03501 - General.md",
    "printed_pages": [
     103,
-    103
+    104
    ]
   },
   {
    "id": "41_3502",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 104]",
-     true
-    ],
-    [
      "I",
-     102,
+     50,
      [
       [
-       271,
+       97,
        "[Page 105]"
       ]
      ]
@@ -2224,17 +2205,24 @@
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 035 - Truthful Cost or Pricing Data/§ 03502 - Required cost or pricing data and certification.md",
    "printed_pages": [
-    103,
+    104,
     105
    ]
   },
   {
    "id": "41_3503",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     52,
+     "[Page 106]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 035 - Truthful Cost or Pricing Data/§ 03503 - Exceptions.md",
    "printed_pages": [
     105,
-    105
+    106
    ]
   },
   {
@@ -2242,27 +2230,16 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 035 - Truthful Cost or Pricing Data/§ 03504 - Cost or pricing data on below-threshold contracts.md",
    "printed_pages": [
-    105,
-    105
+    106,
+    106
    ]
   },
   {
    "id": "41_3505",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       82,
-       "[Page 106]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 035 - Truthful Cost or Pricing Data/§ 03505 - Submission of other information.md",
    "printed_pages": [
-    105,
+    106,
     106
    ]
   },
@@ -2270,10 +2247,14 @@
    "id": "41_3506",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 107]",
-     true
+     "I",
+     12,
+     [
+      [
+       125,
+       "[Page 107]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 035 - Truthful Cost or Pricing Data/§ 03506 - Price reductions for defective cost or pricing data.md",
@@ -2293,11 +2274,22 @@
   },
   {
    "id": "41_3508",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       89,
+       "[Page 108]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 035 - Truthful Cost or Pricing Data/§ 03508 - Right to examine contractor records.md",
    "printed_pages": [
     107,
-    107
+    108
    ]
   },
   {
@@ -2305,27 +2297,16 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 035 - Truthful Cost or Pricing Data/§ 03509 - Notification of violations of Federal criminal law or overpayments.md",
    "printed_pages": [
-    107,
-    107
+    108,
+    108
    ]
   },
   {
    "id": "41_-Subtitle_I-Division_C-ch37",
-   "marks": [
-    [
-     "I",
-     9,
-     [
-      [
-       59,
-       "[Page 108]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 037 - Awarding of Contracts/README.md",
    "printed_pages": [
-    107,
+    108,
     108
    ]
   },
@@ -2334,7 +2315,7 @@
    "marks": [
     [
      "L",
-     110,
+     62,
      "[Page 109]",
      true
     ]
@@ -2356,42 +2337,50 @@
   },
   {
    "id": "41_3703",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 037 - Awarding of Contracts/§ 03703 - Competitive proposals.md",
-   "printed_pages": [
-    109,
-    109
-   ]
-  },
-  {
-   "id": "41_3704",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 110]",
-     true
+     "I",
+     6,
+     [
+      [
+       93,
+       "[Page 110]"
+      ]
+     ]
     ]
    ],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 037 - Awarding of Contracts/§ 03704 - Post-award debriefings.md",
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 037 - Awarding of Contracts/§ 03703 - Competitive proposals.md",
    "printed_pages": [
     109,
     110
    ]
   },
   {
-   "id": "41_3705",
+   "id": "41_3704",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 111]",
-     true
+     "I",
+     82,
+     [
+      [
+       14,
+       "[Page 111]"
+      ]
+     ]
     ]
    ],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 037 - Awarding of Contracts/§ 03705 - Pre-award debriefings.md",
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 037 - Awarding of Contracts/§ 03704 - Post-award debriefings.md",
    "printed_pages": [
     110,
+    111
+   ]
+  },
+  {
+   "id": "41_3705",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 037 - Awarding of Contracts/§ 03705 - Pre-award debriefings.md",
+   "printed_pages": [
+    111,
     111
    ]
   },
@@ -2415,11 +2404,22 @@
   },
   {
    "id": "41_3708",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       83,
+       "[Page 112]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 037 - Awarding of Contracts/§ 03708 - Protests.md",
    "printed_pages": [
     111,
-    111
+    112
    ]
   },
   {
@@ -2427,82 +2427,121 @@
    "marks": [
     [
      "I",
-     27,
+     71,
      [
       [
-       105,
-       "[Page 112]"
+       357,
+       "[Page 113]"
       ]
      ]
     ],
     [
-     "L",
-     117,
-     "[Page 113]",
-     true
-    ],
-    [
      "I",
-     197,
+     167,
      [
       [
-       271,
+       203,
        "[Page 114]"
       ]
      ]
     ],
     [
      "I",
-     237,
+     265,
      [
       [
-       101,
+       159,
        "[Page 115]"
       ]
      ]
     ],
     [
-     "L",
-     301,
-     "[Page 116]",
-     true
+     "I",
+     367,
+     [
+      [
+       95,
+       "[Page 116]"
+      ]
+     ]
     ],
     [
      "I",
-     363,
+     451,
      [
       [
-       600,
+       105,
        "[Page 117]"
       ]
      ]
     ],
     [
      "L",
-     427,
+     531,
      "[Page 118]",
      true
     ],
     [
-     "L",
-     491,
-     "[Page 119]",
-     true
+     "I",
+     573,
+     [
+      [
+       267,
+       "[Page 119]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     639,
+     [
+      [
+       108,
+       "[Page 120]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     701,
+     [
+      [
+       102,
+       "[Page 121]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     761,
+     [
+      [
+       217,
+       "[Page 122]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 039 - Specific Types of Contracts/README.md",
    "printed_pages": [
-    111,
-    119
+    112,
+    122
    ]
   },
   {
    "id": "41_3901",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 123]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 039 - Specific Types of Contracts/§ 03901 - Contracts awarded using procedures other than sealed-bid procedures.md",
    "printed_pages": [
-    119,
-    119
+    122,
+    123
    ]
   },
   {
@@ -2510,40 +2549,48 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 039 - Specific Types of Contracts/§ 03902 - Severable services contracts for periods crossing fiscal years.md",
    "printed_pages": [
-    119,
-    119
+    123,
+    123
    ]
   },
   {
    "id": "41_3903",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 120]",
-     true
+     "I",
+     24,
+     [
+      [
+       363,
+       "[Page 124]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 039 - Specific Types of Contracts/§ 03903 - Multiyear contracts.md",
    "printed_pages": [
-    119,
-    120
+    123,
+    124
    ]
   },
   {
    "id": "41_3904",
    "marks": [
     [
-     "L",
-     56,
-     "[Page 121]",
-     true
+     "I",
+     108,
+     [
+      [
+       108,
+       "[Page 125]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 039 - Specific Types of Contracts/§ 03904 - Contract authority for severable services contracts and multiyear contracts.md",
    "printed_pages": [
-    120,
-    121
+    124,
+    125
    ]
   },
   {
@@ -2551,8 +2598,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 039 - Specific Types of Contracts/§ 03905 - Cost contracts.md",
    "printed_pages": [
-    121,
-    121
+    125,
+    125
    ]
   },
   {
@@ -2560,15 +2607,15 @@
    "marks": [
     [
      "L",
-     54,
-     "[Page 122]",
+     64,
+     "[Page 126]",
      true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 039 - Specific Types of Contracts/§ 03906 - Cost-reimbursement contracts.md",
    "printed_pages": [
-    121,
-    122
+    125,
+    126
    ]
   },
   {
@@ -2576,8 +2623,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 041 - Task and Delivery Order Contracts/README.md",
    "printed_pages": [
-    122,
-    122
+    126,
+    126
    ]
   },
   {
@@ -2585,8 +2632,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 041 - Task and Delivery Order Contracts/§ 04101 - Definitions.md",
    "printed_pages": [
-    122,
-    122
+    126,
+    126
    ]
   },
   {
@@ -2594,8 +2641,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 041 - Task and Delivery Order Contracts/§ 04102 - Authorities or responsibilities not affected.md",
    "printed_pages": [
-    122,
-    122
+    126,
+    126
    ]
   },
   {
@@ -2603,19 +2650,19 @@
    "marks": [
     [
      "I",
-     34,
+     42,
      [
       [
-       83,
-       "[Page 123]"
+       160,
+       "[Page 127]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 041 - Task and Delivery Order Contracts/§ 04103 - General authority.md",
    "printed_pages": [
-    122,
-    123
+    126,
+    127
    ]
   },
   {
@@ -2623,51 +2670,51 @@
    "marks": [
     [
      "L",
-     46,
-     "[Page 124]",
+     52,
+     "[Page 128]",
      true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 041 - Task and Delivery Order Contracts/§ 04104 - Guidance on use of task and delivery order contracts.md",
    "printed_pages": [
-    123,
-    124
+    127,
+    128
    ]
   },
   {
    "id": "41_4105",
    "marks": [
     [
-     "I",
-     92,
-     [
-      [
-       137,
-       "[Page 125]"
-      ]
-     ]
+     "L",
+     96,
+     "[Page 129]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 041 - Task and Delivery Order Contracts/§ 04105 - Advisory and assistance services.md",
    "printed_pages": [
-    124,
-    125
+    128,
+    129
    ]
   },
   {
    "id": "41_4106",
    "marks": [
     [
-     "L",
-     72,
-     "[Page 126]",
-     true
+     "I",
+     76,
+     [
+      [
+       264,
+       "[Page 130]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 041 - Task and Delivery Order Contracts/§ 04106 - Orders.md",
    "printed_pages": [
-    125,
-    126
+    129,
+    130
    ]
   },
   {
@@ -2675,28 +2722,24 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 043 - Allowable Costs/README.md",
    "printed_pages": [
-    126,
-    126
+    130,
+    130
    ]
   },
   {
    "id": "41_4301",
    "marks": [
     [
-     "I",
-     46,
-     [
-      [
-       13,
-       "[Page 127]"
-      ]
-     ]
+     "L",
+     58,
+     "[Page 131]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 043 - Allowable Costs/§ 04301 - Definitions.md",
    "printed_pages": [
-    126,
-    127
+    130,
+    131
    ]
   },
   {
@@ -2704,8 +2747,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 043 - Allowable Costs/§ 04302 - Adjustment of threshold amount of covered contract.md",
    "printed_pages": [
-    127,
-    127
+    131,
+    131
    ]
   },
   {
@@ -2713,60 +2756,60 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 043 - Allowable Costs/§ 04303 - Effect of submission of unallowable costs.md",
    "printed_pages": [
-    127,
-    127
+    131,
+    131
    ]
   },
   {
    "id": "41_4304",
    "marks": [
     [
+     "I",
+     10,
+     [
+      [
+       92,
+       "[Page 132]"
+      ]
+     ]
+    ],
+    [
      "L",
-     6,
-     "[Page 128]",
+     62,
+     "[Page 133]",
      true
     ],
     [
-     "I",
-     56,
-     [
-      [
-       90,
-       "[Page 129]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     148,
-     [
-      [
-       109,
-       "[Page 130]"
-      ]
-     ]
+     "L",
+     160,
+     "[Page 134]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 043 - Allowable Costs/§ 04304 - Specific costs not allowable.md",
    "printed_pages": [
-    127,
-    130
+    131,
+    134
    ]
   },
   {
    "id": "41_4305",
    "marks": [
     [
-     "L",
-     56,
-     "[Page 131]",
-     true
+     "I",
+     62,
+     [
+      [
+       122,
+       "[Page 135]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 043 - Allowable Costs/§ 04305 - Required regulations.md",
    "printed_pages": [
-    130,
-    131
+    134,
+    135
    ]
   },
   {
@@ -2774,8 +2817,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 043 - Allowable Costs/§ 04306 - Applicability of regulations to subcontractors.md",
    "printed_pages": [
-    131,
-    131
+    135,
+    135
    ]
   },
   {
@@ -2783,8 +2826,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 043 - Allowable Costs/§ 04307 - Contractor certification.md",
    "printed_pages": [
-    131,
-    131
+    135,
+    135
    ]
   },
   {
@@ -2792,8 +2835,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 043 - Allowable Costs/§ 04308 - Penalties for submission of cost known to be unallowable.md",
    "printed_pages": [
-    131,
-    131
+    135,
+    135
    ]
   },
   {
@@ -2801,34 +2844,34 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 043 - Allowable Costs/§ 04309 - Burden of proof on contractor.md",
    "printed_pages": [
-    131,
-    131
+    135,
+    135
    ]
   },
   {
    "id": "41_4310",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       98,
-       "[Page 132]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 136]",
+     true
     ],
     [
-     "L",
-     96,
-     "[Page 133]",
-     true
+     "I",
+     118,
+     [
+      [
+       13,
+       "[Page 137]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 043 - Allowable Costs/§ 04310 - Proceeding costs not allowable.md",
    "printed_pages": [
-    131,
-    133
+    135,
+    137
    ]
   },
   {
@@ -2836,8 +2879,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 045 - Contract Financing/README.md",
    "printed_pages": [
-    133,
-    133
+    137,
+    137
    ]
   },
   {
@@ -2845,8 +2888,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 045 - Contract Financing/§ 04501 - Authority of executive agency.md",
    "printed_pages": [
-    133,
-    133
+    137,
+    137
    ]
   },
   {
@@ -2854,33 +2897,37 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 045 - Contract Financing/§ 04502 - Payment.md",
    "printed_pages": [
-    133,
-    133
+    137,
+    137
    ]
   },
   {
    "id": "41_4503",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 134]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 045 - Contract Financing/§ 04503 - Security for advance payments.md",
    "printed_pages": [
-    133,
-    134
+    137,
+    137
    ]
   },
   {
    "id": "41_4504",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       176,
+       "[Page 138]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 045 - Contract Financing/§ 04504 - Conditions for progress payments.md",
    "printed_pages": [
-    134,
-    134
+    137,
+    138
    ]
   },
   {
@@ -2888,8 +2935,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 045 - Contract Financing/§ 04505 - Payments for commercial products and commercial services.md",
    "printed_pages": [
-    134,
-    134
+    138,
+    138
    ]
   },
   {
@@ -2901,15 +2948,15 @@
      [
       [
        220,
-       "[Page 135]"
+       "[Page 139]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 045 - Contract Financing/§ 04506 - Action in case of fraud.md",
    "printed_pages": [
-    134,
-    135
+    138,
+    139
    ]
   },
   {
@@ -2917,8 +2964,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/README.md",
    "printed_pages": [
-    135,
-    135
+    139,
+    139
    ]
   },
   {
@@ -2930,15 +2977,15 @@
      [
       [
        221,
-       "[Page 136]"
+       "[Page 140]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/§ 04701 - Determinations and decisions.md",
    "printed_pages": [
-    135,
-    136
+    139,
+    140
    ]
   },
   {
@@ -2946,8 +2993,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/§ 04702 - Prohibition on release of contractor proposals.md",
    "printed_pages": [
-    136,
-    136
+    140,
+    140
    ]
   },
   {
@@ -2959,15 +3006,15 @@
      [
       [
        102,
-       "[Page 137]"
+       "[Page 141]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/§ 04703 - Validation of proprietary data restrictions.md",
    "printed_pages": [
-    136,
-    137
+    140,
+    141
    ]
   },
   {
@@ -2975,8 +3022,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/§ 04704 - Prohibition of contractors limiting subcontractor sales directly to Federal Government.md",
    "printed_pages": [
-    137,
-    137
+    141,
+    141
    ]
   },
   {
@@ -2988,15 +3035,15 @@
      [
       [
        277,
-       "[Page 138]"
+       "[Page 142]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/§ 04705 - Protection of contractor employees from reprisal for disclosure of certain information.md",
    "printed_pages": [
-    137,
-    138
+    141,
+    142
    ]
   },
   {
@@ -3008,7 +3055,7 @@
      [
       [
        176,
-       "[Page 139]"
+       "[Page 143]"
       ]
      ]
     ],
@@ -3018,15 +3065,15 @@
      [
       [
        79,
-       "[Page 140]"
+       "[Page 144]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/§ 04706 - Examination of facilities and records of contractor.md",
    "printed_pages": [
-    138,
-    140
+    142,
+    144
    ]
   },
   {
@@ -3034,8 +3081,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/§ 04707 - Remission of liquidated damages.md",
    "printed_pages": [
-    140,
-    140
+    144,
+    144
    ]
   },
   {
@@ -3043,8 +3090,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/§ 04708 - Payment of reimbursable indirect costs in cost-type research and development contracts with educational institutions.md",
    "printed_pages": [
-    140,
-    140
+    144,
+    144
    ]
   },
   {
@@ -3052,28 +3099,24 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/§ 04709 - Implementation of electronic commerce capability.md",
    "printed_pages": [
-    140,
-    140
+    144,
+    144
    ]
   },
   {
    "id": "41_4710",
    "marks": [
     [
-     "I",
-     10,
-     [
-      [
-       93,
-       "[Page 141]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 145]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/§ 04710 - Limitations on tiering of subcontractors.md",
    "printed_pages": [
-    140,
-    141
+    144,
+    145
    ]
   },
   {
@@ -3081,118 +3124,122 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/§ 04711 - Linking of award and incentive fees to acquisition outcomes.md",
    "printed_pages": [
-    141,
-    141
+    145,
+    145
    ]
   },
   {
    "id": "41_4712",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 142]",
-     true
-    ],
-    [
      "I",
-     88,
+     8,
      [
       [
-       362,
-       "[Page 143]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     158,
-     "[Page 144]",
-     true
-    ]
-   ],
-   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/§ 04712 - Enhancement of contractor protection from reprisal for disclosure of certain information.md",
-   "printed_pages": [
-    141,
-    144
-   ]
-  },
-  {
-   "id": "41_4713",
-   "marks": [
-    [
-     "L",
-     36,
-     "[Page 145]",
-     true
-    ],
-    [
-     "I",
-     120,
-     [
-      [
-       137,
+       393,
        "[Page 146]"
       ]
      ]
     ],
     [
      "I",
-     214,
+     88,
      [
       [
-       92,
+       82,
        "[Page 147]"
       ]
      ]
     ],
     [
      "L",
-     314,
+     152,
      "[Page 148]",
      true
-    ],
+    ]
+   ],
+   "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/§ 04712 - Enhancement of contractor protection from reprisal for disclosure of certain information.md",
+   "printed_pages": [
+    145,
+    148
+   ]
+  },
+  {
+   "id": "41_4713",
+   "marks": [
     [
      "I",
-     408,
+     30,
      [
       [
-       409,
+       92,
        "[Page 149]"
       ]
      ]
+    ],
+    [
+     "I",
+     118,
+     [
+      [
+       326,
+       "[Page 150]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     208,
+     [
+      [
+       114,
+       "[Page 151]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     308,
+     "[Page 152]",
+     true
+    ],
+    [
+     "L",
+     404,
+     "[Page 153]",
+     true
+    ],
+    [
+     "L",
+     502,
+     "[Page 154]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/§ 04713 - Authorities relating to mitigating supply chain risks in the procurement of covered articles.md",
    "printed_pages": [
-    144,
-    149
+    148,
+    154
    ]
   },
   {
    "id": "41_4714",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 150]",
-     true
-    ],
-    [
      "I",
-     100,
+     94,
      [
       [
-       224,
-       "[Page 151]"
+       117,
+       "[Page 155]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Procurement Policy/Division C - Procurement/Chapter 047 - Miscellaneous/§ 04714 - Prohibition on criminal history inquiries by contractors prior to conditional offer.md",
    "printed_pages": [
-    149,
-    151
+    154,
+    155
    ]
   },
   {
@@ -3200,8 +3247,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/README.md",
    "printed_pages": [
-    151,
-    151
+    155,
+    155
    ]
   },
   {
@@ -3209,8 +3256,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 061 - Advertising/README.md",
    "printed_pages": [
-    151,
-    151
+    155,
+    155
    ]
   },
   {
@@ -3218,24 +3265,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 061 - Advertising/§ 06101 - Advertising requirement for Federal Government purchases and sales.md",
    "printed_pages": [
-    151,
-    151
+    155,
+    155
    ]
   },
   {
    "id": "41_6102",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 152]",
-     true
+     "I",
+     16,
+     [
+      [
+       124,
+       "[Page 156]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 061 - Advertising/§ 06102 - Exceptions from advertising requirement.md",
    "printed_pages": [
-    151,
-    152
+    155,
+    156
    ]
   },
   {
@@ -3243,101 +3294,99 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 061 - Advertising/§ 06103 - Opening of bids.md",
    "printed_pages": [
-    152,
-    152
+    156,
+    156
    ]
   },
   {
    "id": "41_-Subtitle_II-ch63",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 153]",
-     true
-    ],
-    [
      "I",
-     86,
+     20,
      [
       [
-       106,
-       "[Page 154]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     146,
-     "[Page 155]",
-     true
-    ],
-    [
-     "L",
-     204,
-     "[Page 156]",
-     true
-    ],
-    [
-     "I",
-     256,
-     [
-      [
-       120,
+       1467,
        "[Page 157]"
       ]
      ]
     ],
     [
+     "L",
+     82,
+     "[Page 158]",
+     true
+    ],
+    [
      "I",
-     308,
+     142,
      [
       [
-       713,
-       "[Page 158]"
+       220,
+       "[Page 159]"
       ]
      ]
     ],
     [
      "I",
-     354,
+     196,
      [
       [
-       221,
-       "[Page 159]"
+       160,
+       "[Page 160]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     252,
+     [
+      [
+       107,
+       "[Page 161]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     312,
+     [
+      [
+       120,
+       "[Page 162]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 063 - General Contract Provisions/README.md",
    "printed_pages": [
-    152,
-    159
+    156,
+    162
    ]
   },
   {
    "id": "41_6301",
-   "marks": [
-    [
-     "L",
-     66,
-     "[Page 160]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 063 - General Contract Provisions/§ 06301 - Authorization requirement.md",
    "printed_pages": [
-    159,
-    160
+    162,
+    162
    ]
   },
   {
    "id": "41_6302",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 163]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 063 - General Contract Provisions/§ 06302 - Contracts for fuel made by Secretary of the Army.md",
    "printed_pages": [
-    160,
-    160
+    162,
+    163
    ]
   },
   {
@@ -3345,8 +3394,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 063 - General Contract Provisions/§ 06303 - Certain contracts limited to appropriated amounts.md",
    "printed_pages": [
-    160,
-    160
+    163,
+    163
    ]
   },
   {
@@ -3354,43 +3403,40 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 063 - General Contract Provisions/§ 06304 - Certain contracts limited to one-year term.md",
    "printed_pages": [
-    160,
-    160
+    163,
+    163
    ]
   },
   {
    "id": "41_6305",
    "marks": [
     [
-     "I",
-     54,
-     [
-      [
-       199,
-       "[Page 161]"
-      ]
-     ]
-    ],
-    [
      "L",
-     164,
-     "[Page 162]",
+     76,
+     "[Page 164]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 063 - General Contract Provisions/§ 06305 - Prohibition on transfer of contract and certain allowable assignments.md",
    "printed_pages": [
-    160,
-    162
+    163,
+    164
    ]
   },
   {
    "id": "41_6306",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 165]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 063 - General Contract Provisions/§ 06306 - Prohibition on Members of Congress making contracts with Federal Government.md",
    "printed_pages": [
-    162,
-    162
+    164,
+    165
    ]
   },
   {
@@ -3398,8 +3444,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 063 - General Contract Provisions/§ 06307 - Contracts with Federal Government-owned establishments and availability of appropriations.md",
    "printed_pages": [
-    162,
-    162
+    165,
+    165
    ]
   },
   {
@@ -3407,24 +3453,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 063 - General Contract Provisions/§ 06308 - Contracts for transportation of Federal Government securities.md",
    "printed_pages": [
-    162,
-    162
+    165,
+    165
    ]
   },
   {
    "id": "41_6309",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 163]",
-     true
+     "I",
+     46,
+     [
+      [
+       226,
+       "[Page 166]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 063 - General Contract Provisions/§ 06309 - Honorable discharge certificate in lieu of birth certificate.md",
    "printed_pages": [
-    162,
-    163
+    165,
+    166
    ]
   },
   {
@@ -3432,24 +3482,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 065 - Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000/README.md",
    "printed_pages": [
-    163,
-    163
+    166,
+    166
    ]
   },
   {
    "id": "41_6501",
    "marks": [
     [
-     "L",
-     58,
-     "[Page 164]",
-     true
+     "I",
+     64,
+     [
+      [
+       275,
+       "[Page 167]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 065 - Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000/§ 06501 - Definitions.md",
    "printed_pages": [
-    163,
-    164
+    166,
+    167
    ]
   },
   {
@@ -3457,15 +3511,15 @@
    "marks": [
     [
      "L",
-     12,
-     "[Page 165]",
+     20,
+     "[Page 168]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 065 - Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000/§ 06502 - Required contract terms.md",
    "printed_pages": [
-    164,
-    165
+    167,
+    168
    ]
   },
   {
@@ -3473,15 +3527,15 @@
    "marks": [
     [
      "L",
-     28,
-     "[Page 166]",
+     52,
+     "[Page 169]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 065 - Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000/§ 06503 - Breach or violation of required contract terms.md",
    "printed_pages": [
-    165,
-    166
+    168,
+    169
    ]
   },
   {
@@ -3489,8 +3543,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 065 - Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000/§ 06504 - Three-year prohibition on new contracts in case of breach or violation.md",
    "printed_pages": [
-    166,
-    166
+    169,
+    169
    ]
   },
   {
@@ -3498,8 +3552,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 065 - Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000/§ 06505 - Exclusions.md",
    "printed_pages": [
-    166,
-    166
+    169,
+    169
    ]
   },
   {
@@ -3507,15 +3561,15 @@
    "marks": [
     [
      "L",
-     24,
-     "[Page 167]",
+     46,
+     "[Page 170]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 065 - Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000/§ 06506 - Administrative provisions.md",
    "printed_pages": [
-    166,
-    167
+    169,
+    170
    ]
   },
   {
@@ -3523,28 +3577,24 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 065 - Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000/§ 06507 - Hearing authority and procedures.md",
    "printed_pages": [
-    167,
-    167
+    170,
+    170
    ]
   },
   {
    "id": "41_6508",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       354,
-       "[Page 168]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 171]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 065 - Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000/§ 06508 - Authority to make exceptions.md",
    "printed_pages": [
-    167,
-    168
+    170,
+    171
    ]
   },
   {
@@ -3552,33 +3602,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 065 - Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000/§ 06509 - Other procedures.md",
    "printed_pages": [
-    168,
-    168
+    171,
+    171
    ]
   },
   {
    "id": "41_6510",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 169]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 065 - Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000/§ 06510 - Manufacturers and regular dealers.md",
    "printed_pages": [
-    168,
-    169
+    171,
+    171
    ]
   },
   {
    "id": "41_6511",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 172]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 065 - Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000/§ 06511 - Effect on other law.md",
    "printed_pages": [
-    169,
-    169
+    171,
+    172
    ]
   },
   {
@@ -3586,37 +3636,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 067 - Service Contract Labor Standards/README.md",
    "printed_pages": [
-    169,
-    169
+    172,
+    172
    ]
   },
   {
    "id": "41_6701",
-   "marks": [
-    [
-     "I",
-     48,
-     [
-      [
-       268,
-       "[Page 170]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 067 - Service Contract Labor Standards/§ 06701 - Definitions.md",
    "printed_pages": [
-    169,
-    170
+    172,
+    172
    ]
   },
   {
    "id": "41_6702",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 173]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 067 - Service Contract Labor Standards/§ 06702 - Contracts to which this chapter applies.md",
    "printed_pages": [
-    170,
-    170
+    172,
+    173
    ]
   },
   {
@@ -3624,35 +3670,35 @@
    "marks": [
     [
      "I",
-     10,
+     22,
      [
       [
-       1207,
-       "[Page 171]"
+       123,
+       "[Page 174]"
       ]
      ]
     ],
     [
      "I",
-     74,
+     78,
      [
       [
-       218,
-       "[Page 172]"
+       429,
+       "[Page 175]"
       ]
      ]
     ],
     [
      "L",
-     122,
-     "[Page 173]",
+     136,
+     "[Page 176]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 067 - Service Contract Labor Standards/§ 06703 - Required contract terms.md",
    "printed_pages": [
-    170,
-    173
+    173,
+    176
    ]
   },
   {
@@ -3660,8 +3706,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 067 - Service Contract Labor Standards/§ 06704 - Limitation on minimum wage.md",
    "printed_pages": [
-    173,
-    173
+    176,
+    176
    ]
   },
   {
@@ -3669,37 +3715,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 067 - Service Contract Labor Standards/§ 06705 - Violations.md",
    "printed_pages": [
-    173,
-    173
+    176,
+    176
    ]
   },
   {
    "id": "41_6706",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       596,
-       "[Page 174]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 067 - Service Contract Labor Standards/§ 06706 - Three-year prohibition on new contracts in case of violation.md",
    "printed_pages": [
-    173,
-    174
+    176,
+    176
    ]
   },
   {
    "id": "41_6707",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       86,
+       "[Page 177]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Other Advertising and Contract Provisions/Chapter 067 - Service Contract Labor Standards/§ 06707 - Enforcement and administration of chapter.md",
    "printed_pages": [
-    174,
-    174
+    176,
+    177
    ]
   },
   {
@@ -3707,57 +3753,46 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Contract Disputes/README.md",
    "printed_pages": [
-    174,
-    174
+    177,
+    177
    ]
   },
   {
    "id": "41_-Subtitle_III-ch71",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       23,
-       "[Page 175]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Contract Disputes/Chapter 071 - Contract Disputes/README.md",
    "printed_pages": [
-    174,
-    175
+    177,
+    177
    ]
   },
   {
    "id": "41_7101",
-   "marks": [],
-   "path": "Subtitle 003 (III) - Contract Disputes/Chapter 071 - Contract Disputes/§ 07101 - Definitions.md",
-   "printed_pages": [
-    175,
-    175
-   ]
-  },
-  {
-   "id": "41_7102",
    "marks": [
     [
      "I",
-     50,
+     22,
      [
       [
-       52,
-       "[Page 176]"
+       79,
+       "[Page 178]"
       ]
      ]
     ]
    ],
+   "path": "Subtitle 003 (III) - Contract Disputes/Chapter 071 - Contract Disputes/§ 07101 - Definitions.md",
+   "printed_pages": [
+    177,
+    178
+   ]
+  },
+  {
+   "id": "41_7102",
+   "marks": [],
    "path": "Subtitle 003 (III) - Contract Disputes/Chapter 071 - Contract Disputes/§ 07102 - Applicability of chapter.md",
    "printed_pages": [
-    175,
-    176
+    178,
+    178
    ]
   },
   {
@@ -3765,38 +3800,49 @@
    "marks": [
     [
      "I",
-     100,
+     16,
      [
       [
-       220,
-       "[Page 177]"
+       76,
+       "[Page 179]"
       ]
      ]
     ],
     [
      "I",
-     262,
+     116,
      [
       [
-       211,
-       "[Page 178]"
+       83,
+       "[Page 180]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 003 (III) - Contract Disputes/Chapter 071 - Contract Disputes/§ 07103 - Decision by contracting officer.md",
    "printed_pages": [
-    176,
-    178
+    178,
+    180
    ]
   },
   {
    "id": "41_7104",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       129,
+       "[Page 181]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 003 (III) - Contract Disputes/Chapter 071 - Contract Disputes/§ 07104 - Contractor's right of appeal from decision by contracting officer.md",
    "printed_pages": [
-    178,
-    178
+    180,
+    181
    ]
   },
   {
@@ -3804,37 +3850,30 @@
    "marks": [
     [
      "L",
-     62,
-     "[Page 179]",
+     90,
+     "[Page 182]",
      true
     ],
     [
      "L",
-     130,
-     "[Page 180]",
+     196,
+     "[Page 183]",
      true
     ]
    ],
    "path": "Subtitle 003 (III) - Contract Disputes/Chapter 071 - Contract Disputes/§ 07105 - Agency boards.md",
    "printed_pages": [
-    178,
-    180
+    181,
+    183
    ]
   },
   {
    "id": "41_7106",
-   "marks": [
-    [
-     "L",
-     72,
-     "[Page 181]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Contract Disputes/Chapter 071 - Contract Disputes/§ 07106 - Agency board procedures for accelerated and small claims.md",
    "printed_pages": [
-    180,
-    181
+    183,
+    183
    ]
   },
   {
@@ -3842,28 +3881,39 @@
    "marks": [
     [
      "I",
-     124,
+     24,
      [
       [
-       159,
-       "[Page 182]"
+       133,
+       "[Page 184]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 003 (III) - Contract Disputes/Chapter 071 - Contract Disputes/§ 07107 - Judicial review of agency board decisions.md",
    "printed_pages": [
-    181,
-    182
+    183,
+    184
    ]
   },
   {
    "id": "41_7108",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     24,
+     [
+      [
+       211,
+       "[Page 185]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 003 (III) - Contract Disputes/Chapter 071 - Contract Disputes/§ 07108 - Payment of claims.md",
    "printed_pages": [
-    182,
-    182
+    184,
+    185
    ]
   },
   {
@@ -3871,8 +3921,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Contract Disputes/Chapter 071 - Contract Disputes/§ 07109 - Interest.md",
    "printed_pages": [
-    182,
-    182
+    185,
+    185
    ]
   },
   {
@@ -3880,8 +3930,8 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/README.md",
    "printed_pages": [
-    182,
-    182
+    185,
+    185
    ]
   },
   {
@@ -3889,28 +3939,24 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 081 - Drug-Free Workplace/README.md",
    "printed_pages": [
-    182,
-    182
+    185,
+    185
    ]
   },
   {
    "id": "41_8101",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       76,
-       "[Page 183]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 186]",
+     true
     ]
    ],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 081 - Drug-Free Workplace/§ 08101 - Definitions and construction.md",
    "printed_pages": [
-    182,
-    183
+    185,
+    186
    ]
   },
   {
@@ -3918,44 +3964,40 @@
    "marks": [
     [
      "L",
-     50,
-     "[Page 184]",
+     62,
+     "[Page 187]",
      true
     ]
    ],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 081 - Drug-Free Workplace/§ 08102 - Drug-free workplace requirements for Federal contractors.md",
    "printed_pages": [
-    183,
-    184
+    186,
+    187
    ]
   },
   {
    "id": "41_8103",
-   "marks": [
-    [
-     "I",
-     50,
-     [
-      [
-       179,
-       "[Page 185]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 081 - Drug-Free Workplace/§ 08103 - Drug-free workplace requirements for Federal grant recipients.md",
    "printed_pages": [
-    184,
-    185
+    187,
+    187
    ]
   },
   {
    "id": "41_8104",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 188]",
+     true
+    ]
+   ],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 081 - Drug-Free Workplace/§ 08104 - Employee sanctions and remedies.md",
    "printed_pages": [
-    185,
-    185
+    187,
+    188
    ]
   },
   {
@@ -3963,8 +4005,8 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 081 - Drug-Free Workplace/§ 08105 - Waiver.md",
    "printed_pages": [
-    185,
-    185
+    188,
+    188
    ]
   },
   {
@@ -3972,8 +4014,8 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 081 - Drug-Free Workplace/§ 08106 - Regulations.md",
    "printed_pages": [
-    185,
-    185
+    188,
+    188
    ]
   },
   {
@@ -3981,134 +4023,150 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 083 - Buy American/README.md",
    "printed_pages": [
-    185,
-    185
+    188,
+    188
    ]
   },
   {
    "id": "41_8301",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 186]",
-     true
-    ],
-    [
-     "L",
-     136,
-     "[Page 187]",
-     true
-    ],
-    [
      "I",
-     274,
+     66,
      [
       [
-       200,
-       "[Page 188]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     388,
-     [
-      [
-       158,
+       108,
        "[Page 189]"
       ]
      ]
     ],
     [
      "L",
-     506,
+     180,
      "[Page 190]",
      true
     ],
     [
-     "I",
-     610,
-     [
-      [
-       161,
-       "[Page 191]"
-      ]
-     ]
+     "L",
+     310,
+     "[Page 191]",
+     true
     ],
     [
      "L",
-     736,
+     406,
      "[Page 192]",
      true
     ],
     [
      "I",
-     840,
+     528,
      [
       [
-       353,
+       108,
        "[Page 193]"
       ]
      ]
     ],
     [
-     "I",
-     948,
-     [
-      [
-       374,
-       "[Page 194]"
-      ]
-     ]
+     "L",
+     658,
+     "[Page 194]",
+     true
     ],
     [
      "I",
-     998,
+     758,
      [
       [
-       211,
+       163,
        "[Page 195]"
       ]
      ]
     ],
     [
+     "I",
+     876,
+     [
+      [
+       100,
+       "[Page 196]"
+      ]
+     ]
+    ],
+    [
      "L",
-     1052,
-     "[Page 196]",
+     962,
+     "[Page 197]",
+     true
+    ],
+    [
+     "L",
+     1010,
+     "[Page 198]",
      true
     ],
     [
      "I",
-     1102,
+     1062,
      [
       [
-       115,
-       "[Page 197]"
+       440,
+       "[Page 199]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     1122,
+     "[Page 200]",
+     true
+    ],
+    [
+     "I",
+     1156,
+     [
+      [
+       706,
+       "[Page 201]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1194,
+     [
+      [
+       105,
+       "[Page 202]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 083 - Buy American/§ 08301 - Definitions.md",
    "printed_pages": [
-    185,
-    197
+    188,
+    202
    ]
   },
   {
    "id": "41_8302",
    "marks": [
     [
-     "L",
-     66,
-     "[Page 198]",
-     true
+     "I",
+     26,
+     [
+      [
+       340,
+       "[Page 203]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 083 - Buy American/§ 08302 - American materials required for public use.md",
    "printed_pages": [
-    197,
-    198
+    202,
+    203
    ]
   },
   {
@@ -4116,54 +4174,54 @@
    "marks": [
     [
      "I",
-     72,
+     30,
      [
       [
-       20,
-       "[Page 199]"
+       131,
+       "[Page 204]"
       ]
      ]
     ],
     [
      "I",
-     136,
+     118,
      [
       [
-       596,
-       "[Page 200]"
+       101,
+       "[Page 205]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 083 - Buy American/§ 08303 - Contracts for public works.md",
    "printed_pages": [
-    198,
-    200
+    203,
+    205
    ]
   },
   {
    "id": "41_8304",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     78,
+     "[Page 206]",
+     true
+    ]
+   ],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 083 - Buy American/§ 08304 - Waiver rescission.md",
    "printed_pages": [
-    200,
-    200
+    205,
+    206
    ]
   },
   {
    "id": "41_8305",
-   "marks": [
-    [
-     "L",
-     28,
-     "[Page 201]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 083 - Buy American/§ 08305 - Annual report.md",
    "printed_pages": [
-    200,
-    201
+    206,
+    206
    ]
   },
   {
@@ -4171,8 +4229,8 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 085 - Committee for Purchase from People Who Are Blind or Severely Disabled/README.md",
    "printed_pages": [
-    201,
-    201
+    206,
+    206
    ]
   },
   {
@@ -4180,15 +4238,25 @@
    "marks": [
     [
      "L",
-     118,
-     "[Page 202]",
+     48,
+     "[Page 207]",
      true
+    ],
+    [
+     "I",
+     164,
+     [
+      [
+       99,
+       "[Page 208]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 085 - Committee for Purchase from People Who Are Blind or Severely Disabled/§ 08501 - Definitions.md",
    "printed_pages": [
-    201,
-    202
+    206,
+    208
    ]
   },
   {
@@ -4196,34 +4264,35 @@
    "marks": [
     [
      "L",
-     46,
-     "[Page 203]",
+     100,
+     "[Page 209]",
      true
-    ],
-    [
-     "I",
-     160,
-     [
-      [
-       110,
-       "[Page 204]"
-      ]
-     ]
     ]
    ],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 085 - Committee for Purchase from People Who Are Blind or Severely Disabled/§ 08502 - Committee for Purchase From People Who Are Blind or Severely Disabled.md",
    "printed_pages": [
-    202,
-    204
+    208,
+    209
    ]
   },
   {
    "id": "41_8503",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     36,
+     [
+      [
+       176,
+       "[Page 210]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 085 - Committee for Purchase from People Who Are Blind or Severely Disabled/§ 08503 - Duties and powers of the Committee.md",
    "printed_pages": [
-    204,
-    204
+    209,
+    210
    ]
   },
   {
@@ -4231,24 +4300,17 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 085 - Committee for Purchase from People Who Are Blind or Severely Disabled/§ 08504 - Procurement requirements for the Federal Government.md",
    "printed_pages": [
-    204,
-    204
+    210,
+    210
    ]
   },
   {
    "id": "41_8505",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 205]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 085 - Committee for Purchase from People Who Are Blind or Severely Disabled/§ 08505 - Audit.md",
    "printed_pages": [
-    204,
-    205
+    210,
+    210
    ]
   },
   {
@@ -4256,8 +4318,8 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 085 - Committee for Purchase from People Who Are Blind or Severely Disabled/§ 08506 - Authorization of appropriations.md",
    "printed_pages": [
-    205,
-    205
+    210,
+    210
    ]
   },
   {
@@ -4265,58 +4327,62 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 087 - Kickbacks/README.md",
    "printed_pages": [
-    205,
-    205
+    210,
+    210
    ]
   },
   {
    "id": "41_8701",
-   "marks": [],
-   "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 087 - Kickbacks/§ 08701 - Definitions.md",
-   "printed_pages": [
-    205,
-    205
-   ]
-  },
-  {
-   "id": "41_8702",
    "marks": [
     [
      "L",
      16,
-     "[Page 206]",
+     "[Page 211]",
      true
     ]
    ],
+   "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 087 - Kickbacks/§ 08701 - Definitions.md",
+   "printed_pages": [
+    210,
+    211
+   ]
+  },
+  {
+   "id": "41_8702",
+   "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 087 - Kickbacks/§ 08702 - Prohibited conduct.md",
    "printed_pages": [
-    205,
-    206
+    211,
+    211
    ]
   },
   {
    "id": "41_8703",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     50,
+     [
+      [
+       313,
+       "[Page 212]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 087 - Kickbacks/§ 08703 - Contractor responsibilities.md",
    "printed_pages": [
-    206,
-    206
+    211,
+    212
    ]
   },
   {
    "id": "41_8704",
-   "marks": [
-    [
-     "L",
-     36,
-     "[Page 207]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 087 - Kickbacks/§ 08704 - Inspection authority.md",
    "printed_pages": [
-    206,
-    207
+    212,
+    212
    ]
   },
   {
@@ -4324,17 +4390,28 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 087 - Kickbacks/§ 08705 - Administrative offsets.md",
    "printed_pages": [
-    207,
-    207
+    212,
+    212
    ]
   },
   {
    "id": "41_8706",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       91,
+       "[Page 213]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 087 - Kickbacks/§ 08706 - Civil actions.md",
    "printed_pages": [
-    207,
-    207
+    212,
+    213
    ]
   },
   {
@@ -4342,11 +4419,11 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Miscellaneous/Chapter 087 - Kickbacks/§ 08707 - Criminal penalties.md",
    "printed_pages": [
-    207,
-    207
+    213,
+    213
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2022-title41 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2023-title41 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 41 - Public Contracts"
 }

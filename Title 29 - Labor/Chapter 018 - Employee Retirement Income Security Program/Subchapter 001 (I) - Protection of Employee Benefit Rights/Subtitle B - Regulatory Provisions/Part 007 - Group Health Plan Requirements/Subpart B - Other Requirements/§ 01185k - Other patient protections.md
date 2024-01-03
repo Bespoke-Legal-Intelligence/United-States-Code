@@ -38,7 +38,7 @@ If a group health plan, or a health insurance issuer offering group health insur
 
 &emsp;Nothing in paragraph (1) shall be construed to—
 
-&emsp;&emsp;(A) waive any exclusions of coverage under the terms and conditions of the plan or health insurance coverage with respect to coverage of obstetrical or gynecological care; or
+&emsp;&emsp;(A) waive any exclusions of coverage under the terms and conditions of the plan orhealth insurance coverage with respect to coverage of obstetrical or gynecological care; or
 
 &emsp;&emsp;(B) preclude the group health plan or health insurance issuer involved from requiring that the obstetrical or gynecological provider notify the primary care health care professional or the plan or issuer of treatment decisions.
 

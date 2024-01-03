@@ -22,7 +22,7 @@ In the event that the Internet website described in subsection (b)(2) contains i
 
 #### (d) Rule of construction
 
-Nothing in this section shall be construed to prevent the Assistant Secretary from using any unobligated amounts otherwise made availableto the Administration to maintain the Routing Service.
+Nothing in this section shall be construed to prevent the Assistant Secretary from using any unobligated amounts otherwise made available to the Administration to maintain the Routing Service.
 
 (July 1, 1944, ch. 373, title V, §520E–4, as added Pub. L. 114–255, div. B, title IX, §9006, Dec. 13, 2016, 130 Stat. 1239; amended Pub. L. 117–215, title I, §103(b)(3)(A), Dec. 2, 2022, 136 Stat. 2263; Pub. L. 117–328, div. FF, title I, §1262(b)(3), Dec. 29, 2022, 136 Stat. 5682.)
 

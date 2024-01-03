@@ -4,7 +4,7 @@ Not later than 1 year after December 29, 2022, and annually thereafter, the Secr
 
 &emsp;(1) to address cases of noncompliance with disclosure requirements or research misconduct related to foreign influence, including—
 
-&emsp;&emsp;(A) the number of potential noncompliance cases investigated by the National Institutes of Health or reported to the National Institutes of Health by a research institution, including relating to undisclosed research support, undisclosed conflicts of interest orother conflicts of commitment, and peer review violations;
+&emsp;&emsp;(A) the number of potential noncompliance cases investigated by the National Institutes of Health or reported to the National Institutes of Health by a research institution, including relating to undisclosed research support, undisclosed conflicts of interest or other conflicts of commitment, and peer review violations;
 
 &emsp;&emsp;(B) the number of cases referred to the Office of Inspector General of the Department of Health and Human Services, the Office of National Security of the Department of Health and Human Services, the Federal Bureau of Investigation, or other law enforcement agencies;
 

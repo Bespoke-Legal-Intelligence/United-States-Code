@@ -38,7 +38,7 @@ The following property shall be forfeited to the United States:
 
 #### (5) False or omitted entries in records, returns, and reports
 
-&emsp;Whenever any person required by section 5207 to keep or file any record, return, report,summary, transcript, or other document, shall, with intent to defraud the United States—
+&emsp;Whenever any person required by section 5207 to keep or file any record, return, report, summary, transcript, or other document, shall, with intent to defraud the United States—
 
 &emsp;&emsp;(A) fail to keep any such document or to make required entries therein; or
 
@@ -86,7 +86,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 683 to 690, 692, 693, 695.
 
-A prior section 5616, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to penalty for obstructing or refusing to admit officer to distillery premises, prior to the general revision of this chapter by Pub. L. 85–859. See section 5687 of this title.
+A prior section 5616, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to penalty for obstructing or refusingto admit officer to distillery premises, prior to the general revision of this chapter by Pub. L. 85–859. See section 5687 of this title.
 
 A prior section 5617, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to penalty for failure to keep distillery accessible, prior to the general revision of this chapter by Pub. L. 85–859. See section 5687 of this title.
 
@@ -120,7 +120,7 @@ A prior section 5631, act Aug. 16, 1954, ch. 736, 68A Stat. 689, related to pena
 
 A prior section 5632, act Aug. 16, 1954, ch. 736, 68A Stat. 690, related to penalty or forfeiture for unlawful removal or concealment of spirits, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5601 and 5615 of this title.
 
-A prior section 5633, act Aug. 16, 1954, ch. 736, 68A Stat. 690, related to penalty of officer in charge ofwarehouse for unlawful removal of spirits, prior to the general revision of this chapter by Pub. L. 85–859. See section 7214 of this title.
+A prior section 5633, act Aug. 16, 1954, ch. 736, 68A Stat. 690, related to penalty of officer in charge of warehouse for unlawful removal of spirits, prior to the general revision of this chapter by Pub. L. 85–859. See section 7214 of this title.
 
 A prior section 5634, act Aug. 16, 1954, ch. 736, 68A Stat. 690, related to penalty and forfeiture for creation of fictitious proof, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5601 and 5615 of this title.
 

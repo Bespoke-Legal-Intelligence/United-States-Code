@@ -14,7 +14,7 @@
 
 (2)(A) The Assistant Secretary shall designate an officer or employee who shall serve on a full-time basis and who shall be responsible for the administration of the nutrition services described in subparts I and II of part C of subchapter III and shall have duties that include—
 
-&emsp;(i) designing, implementing, and evaluating evidence-based programs to support improvednutrition and regular physical activity for older individuals;
+&emsp;(i) designing, implementing, and evaluating evidence-based programs to support improved nutrition and regular physical activity for older individuals;
 
 &emsp;(ii) developing guidelines for nutrition providers concerning safety, sanitary handling of food, equipment, preparation, and food storage;
 
@@ -82,7 +82,7 @@ Subsec. (a)(2)(A)(i). Pub. L. 109–365, §204(1)(B)(i)(I), amended cl. (i) gene
 
 Subsec. (a)(2)(A)(iii). Pub. L. 109–365, §204(1)(B)(i)(II), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "disseminating information to nutrition service providers about nutrition advancements and developments;".
 
-Subsec. (a)(2)(A)(viii) to (x). Pub. L. 109–365, §204(1)(B)(i)(III), (IV), added cls. (viii) to (x) and struckout former cl. (viii) which read as follows: "providing technical assistance to the regional offices of the Administration with respect to each duty described in clauses (i) through (vii)."
+Subsec. (a)(2)(A)(viii) to (x). Pub. L. 109–365, §204(1)(B)(i)(III), (IV), added cls. (viii) to (x) and struck out former cl. (viii) which read as follows: "providing technical assistance to the regional offices of the Administration with respect to each duty described in clauses (i) through (vii)."
 
 Subsec. (a)(2)(C)(i). Pub. L. 109–365, §204(1)(B)(ii), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "have expertise in nutrition and dietary services and planning; and".
 

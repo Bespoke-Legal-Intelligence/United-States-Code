@@ -1,6 +1,6 @@
 ### §544. Oath of office
 
-Each United States attorney, assistant United States attorney, and attorney appointed undersection 543 of this title, before taking office, shall take an oath to execute faithfully his duties.
+Each United States attorney, assistant United States attorney, and attorney appointed under section 543 of this title, before taking office, shall take an oath to execute faithfully his duties.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 618.)
 
@@ -34,7 +34,7 @@ The provision as to the tenure of the assistant United States attorneys and spec
 
 Said section 315 contained a provision that special attorneys appointed to assist United States attorneys should take the same oath required of the latter. This section was extended to assistant United States attorneys, respecting whom no provision existed as to oaths.
 
-A portion of section 863 of title 48, U.S.C., 1940 ed., is retained in said title 48. For remainder of said section 863, see Distribution Table. Other provisions of section 643 of such title are incorporated in sections 133, 501 \[now 541\], and 541 \[see 561\] of this title.
+A portion of section 863 of title 48, U.S.C., 1940 ed., is retained in said title 48. For remainder of said section863, see Distribution Table. Other provisions of section 643 of such title are incorporated in sections 133, 501 \[now 541\], and 541 \[see 561\] of this title.
 
 Other changes were made in phraseology.
 

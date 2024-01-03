@@ -2,7 +2,7 @@
 
 Any authority provided by this chapter to enter into contracts shall be effective only—
 
-&emsp;(1) to the extent that the budget authority for the obligation to make outlays, which iscreated by the contract, has been provided in advance by an appropriation Act; or
+&emsp;(1) to the extent that the budget authority for the obligation to make outlays, which is created by the contract, has been provided in advance by an appropriation Act; or
 
 &emsp;(2) to the extent or in such amounts as are provided in advance in appropriation Acts.
 

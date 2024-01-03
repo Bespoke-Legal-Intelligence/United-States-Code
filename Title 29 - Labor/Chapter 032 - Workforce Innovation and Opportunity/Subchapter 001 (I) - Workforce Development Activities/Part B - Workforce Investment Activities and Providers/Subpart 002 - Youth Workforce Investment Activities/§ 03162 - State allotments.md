@@ -98,7 +98,7 @@ The Secretary shall—
 
 #### (A) Allotment percentage
 
-&emsp;&emsp;The term "allotment percentage", used with respect to fiscal year 2015 or a subsequent fiscal year, means a percentage of the remainder described in paragraph (1)(C)(i) that is received through an allotment made under paragraph (1)(C) for the fiscal year. The term, used with respect to fiscal year 2014, means the percentage of the amount allotted to States under section 127(b)(1)(C) ofthe Workforce Investment Act of 1998 \[29 U.S.C. 2852(b)(1)(C)\] (as in effect on the day before July 22, 2014) that is received under such section by the State involved for fiscal year 2014.
+&emsp;&emsp;The term "allotment percentage", used with respect to fiscal year 2015 or a subsequent fiscal year, means a percentage of the remainder described in paragraph (1)(C)(i) that is received through an allotment made under paragraph (1)(C) for the fiscal year. The term, used with respect to fiscal year 2014, means the percentage of the amount allotted to States under section 127(b)(1)(C) of the Workforce Investment Act of 1998 \[29 U.S.C. 2852(b)(1)(C)\] (as in effect on the day before July 22, 2014) that is received under such section by the State involved for fiscal year 2014.
 
 #### (B) Area of substantial unemployment
 
@@ -118,7 +118,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;(i) the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in the State; or
 
-&emsp;&emsp;&emsp;(ii) the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in areas of substantial unemployment in such State.
+&emsp;&emsp;&emsp;(ii) the number that represents the number of unemployed individuals in excess of4.5 percent of the civilian labor force in areas of substantial unemployment in such State.
 
 #### (E) Low-income level
 

@@ -80,7 +80,7 @@ Section was enacted as part of the TSA Modernization Act and also as part of the
 
 #### Definitions
 
-For definitions of "Administrator", "appropriate committees of Congress", "Department", "Secretary", and "TSA" as used in this section, see section 1902 of Pub. L. 115–254, set out as a note under section 101 of Title 49, Transportation.
+For definitions of "Administrator", "appropriate committees of Congress", "Department", "Secretary",and "TSA" as used in this section, see section 1902 of Pub. L. 115–254, set out as a note under section 101 of Title 49, Transportation.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

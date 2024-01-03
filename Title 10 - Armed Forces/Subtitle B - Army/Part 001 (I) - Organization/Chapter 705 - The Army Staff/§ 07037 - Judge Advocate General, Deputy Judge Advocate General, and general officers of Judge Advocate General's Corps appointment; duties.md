@@ -12,7 +12,7 @@
 
 &emsp;(3) shall receive, revise, and have recorded the proceedings of courts of inquiry and military commissions.
 
-(d) Under regulations prescribed by the Secretary of Defense, the Secretary of the Army, in selecting an officer for recommendation to the President under subsection (a) for appointment as the Judge Advocate General or Deputy Judge Advocate General, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
+(d) Under regulations prescribed by the Secretary of Defense, the Secretary of the Army, inselecting an officer for recommendation to the President under subsection (a) for appointment as the Judge Advocate General or Deputy Judge Advocate General, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
 (e) No officer or employee of the Department of Defense may interfere with—
 

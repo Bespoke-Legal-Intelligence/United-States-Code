@@ -98,7 +98,7 @@ State Allotment Amount.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Health and Human Services shall compute an allotment for each fiscal year beginning with fiscal year 1998 and ending with fiscal year 2001 for each of the 12 States with the highest number of undocumented aliens. The amount of such allotment for each such State for a fiscal year shall bear the same ratio to the total amount available for allotments under subsection (a) for the fiscal year as the ratio of the number of undocumented aliens in the State in the fiscal year bears to the total of such numbers for all such States for such fiscal year. The amount of allotment to a State provided under this paragraph for a fiscal year that is not paid out under subsection (c) shall be available for payment during the subsequent fiscal year.
+In general.—The Secretary of Health and Human Services shall compute an allotment for each fiscal year beginning with fiscal year 1998 and endingwith fiscal year 2001 for each of the 12 States with the highest number of undocumented aliens. The amount of such allotment for each such State for a fiscal year shall bear the same ratio to the total amount available for allotments under subsection (a) for the fiscal year as the ratio of the number of undocumented aliens in the State in the fiscal year bears to the total of such numbers for all such States for such fiscal year. The amount of allotment to a State provided under this paragraph for a fiscal year that is not paid out under subsection (c) shall be available for payment during the subsequent fiscal year.
 
 &emsp;"(2)
 

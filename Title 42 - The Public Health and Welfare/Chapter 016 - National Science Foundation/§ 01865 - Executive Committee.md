@@ -24,7 +24,7 @@ The Executive Committee shall render an annual report to the Board, and such oth
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–407, §5, made mandatory the organization of the Executive Committee, struck out prohibition that the Board may not assign to the Executive Committee the function of establishing policies, and inserted provisions setting forth the number of members, their manner of election, and the status of the Director.
 
-Subsec. (b). Pub. L. 90–407, §5, substituted provisions that Board elect two members as members of Executive Committee at its annual meeting, with period between any two consecutive annual meetings to be deemed one year, for provisions covering composition of ExecutiveCommittee, setting forth a special one year term of office for four members first elected after May 10, 1950, and directing that membership of Committee represent diverse interests and areas. Provisions of former subsecs. (b)(2)(A) and (b)(5) were redesignated as subsecs. (c) and (d), respectively.
+Subsec. (b). Pub. L. 90–407, §5, substituted provisions that Board elect two members as members of Executive Committee at its annual meeting, with period between any two consecutive annual meetings to be deemed one year, for provisions covering composition of Executive Committee, setting forth a special one year term of office for four members first elected after May 10, 1950, and directing that membership of Committee represent diverse interests and areas. Provisions of former subsecs. (b)(2)(A) and (b)(5) were redesignated as subsecs. (c) and (d), respectively.
 
 Subsec. (c). Pub. L. 90–407, §5, redesignated former subsec. (b)(2)(A) as (c) and substituted "Any person elected as a member of the Executive Committee" for "any member elected". Former subsec. (c), authorizing the Board to appoint such additional committees as it deems necessary, and to delegate to such committees survey and advisory functions as it deems appropriate, was struck out.
 
@@ -38,7 +38,7 @@ Subsec. (b)(1). Pub. L. 86–232 authorized Board to have an Executive Committee
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
-Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
+Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organizationof the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
 
 #### <b>Executive Documents</b>
 

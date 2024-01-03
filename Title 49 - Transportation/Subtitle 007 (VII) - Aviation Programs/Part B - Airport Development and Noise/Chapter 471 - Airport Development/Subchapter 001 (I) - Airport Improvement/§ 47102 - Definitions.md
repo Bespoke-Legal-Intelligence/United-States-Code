@@ -36,7 +36,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(i) a navigation aid or another aid (including a precision approach system) used by aircraft for landing at or taking off from the airport, including preparing the site as required by the acquisition or installation;
 
-&emsp;&emsp;&emsp;(ii) safety or security equipment, including explosive detection devices, universal access systems, and emergency call boxes,the Secretary requires by regulation for, or approves as contributing significantly to, the safety or security of individuals and property at the airport and integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices;
+&emsp;&emsp;&emsp;(ii) safety or security equipment, including explosive detection devices, universal access systems, and emergency call boxes, the Secretary requires by regulation for, or approves as contributing significantly to, the safety or security of individuals and property at the airport and integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices;
 
 &emsp;&emsp;&emsp;(iii) equipment to remove snow, to measure runway surface friction, or for aviation-related weather reporting, including closed circuit weather surveillance equipment if the airport is located in Alaska;
 
@@ -68,7 +68,7 @@ In this subchapter—
 
 &emsp;&emsp;(G) acquiring land for, or work necessary to construct, a pad suitable for deicing aircraft before takeoff at a commercial service airport, including constructing or reconstructing paved areas, drainage collection structures, treatment and discharge systems, appropriate lighting, paved access for deicing vehicles and aircraft, and including acquiring glycol recovery vehicles, but not including acquiring aircraft deicing fluids or constructing or reconstructing storage facilities for aircraft deicing equipment or fluids.
 
-&emsp;&emsp;(H) routine work to preserve and extend the useful life of runways, taxiways, and aprons at nonhub airports and airports that are not primary airports, under guidelines issued by the Administrator of the Federal Aviation Administration.
+&emsp;&emsp;(H) routine work to preserve and extend the useful life of runways, taxiways, and aprons at nonhub airports and airports thatare not primary airports, under guidelines issued by the Administrator of the Federal Aviation Administration.
 
 &emsp;&emsp;(I) constructing, reconstructing, or improving an airport, or purchasing nonrevenue generating capital equipment to be owned by an airport, for the purpose of transferring passengers, cargo, or baggage between the aeronautical and ground transportation modes on airport property.
 
@@ -124,7 +124,7 @@ In this subchapter—
 
 &emsp;&emsp;(D) standards prescribed by a State, except standards for safety of approaches, for airport development at nonprimary public-use airports.
 
-&emsp;(10) "landed weight" means the weight of aircraft transporting only cargo in intrastate, interstate, and foreign air transportation, as the Secretary determines under regulations the Secretary prescribes.
+&emsp;(10) "landed weight" means the weight of aircraft transporting only cargo in intrastate, interstate, and foreign air transportation, asthe Secretary determines under regulations the Secretary prescribes.
 
 &emsp;(11) "large hub airport" means a commercial service airport that has at least 1.0 percent of the passenger boardings.
 
@@ -310,7 +310,7 @@ Sept. 3, 1982, Pub. L. 97–248, §503(a)(12), 96 Stat. 673; Dec. 30, 1987, Pub.
 
 In this section, before clause (1), the words "In this subchapter" are substituted for "As used in this chapter" and "Whenever in this chapter reference is made to . . . such reference shall mean" for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
 
-Clause (1) restates the definition of "air carrier airport" that was contained in section 11(1) of the Airport and Airway Development Act of 1970 as in effect both on February 18, 1980, and immediately before September 3, 1982. The clause is added to this section to eliminate the cross-references to definitions in section 11 of the Airport and Airway Development Act of 1970 that are contained in the source provisions restated in sections 47106(d) and 47119(a) of the revised title. Because some of the terms used in the definition of "air carrier airport" were themselves defined in section 11, the definitions of those terms are incorporated in the definition added in clause (1) to the extent they differ from the definitions of those terms restated in this section. The words "Secretary of Transportation" and "Secretary" are substituted for "Civil AeronauticsBoard" because of the transfer of authority under 49 App.:1551(b)(1)(E).
+Clause (1) restates the definition of "air carrier airport" that was contained in section 11(1) of the Airport and Airway Development Act of 1970 as in effect both on February 18, 1980, and immediately before September 3, 1982. The clause is added to this section to eliminate the cross-references to definitions in section 11 of the Airport and Airway Development Act of 1970 that are contained in the source provisions restated in sections 47106(d) and 47119(a) of the revised title. Because some of the terms used in the definition of "air carrier airport" were themselves defined in section 11, the definitions of those terms are incorporated in the definition added in clause (1) to the extent they differ from the definitions of those terms restated in this section. The words "Secretary of Transportation" and "Secretary" are substituted for "Civil Aeronautics Board" because of the transfer of authority under 49 App.:1551(b)(1)(E).
 
 In clause (2), before subclause (A), the text of 49 App.:2202(a)(21) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section. In subclause (A)(iii), the words "those areas" are substituted for "thereon" for clarity.
 
@@ -458,7 +458,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Airport Access Roads in Remote Locations
 
-Pub. L. 115–254, div. B, title I, §162, Oct. 5, 2018, 132 Stat. 3223, provided that: "Notwithstanding section 47102 of title 49, United States Code, for fiscal years 2018 through 2023—
+Pub. L. 115–254, div. B, title I, §162, Oct. 5, 2018, 132 Stat. 3223, as amended by Pub. L. 118–15, div. B, title II, §2202(p), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(p), Dec. 26, 2023, 137 Stat. 1114, provided that: "Notwithstanding section 47102 of title 49, United States Code, for fiscal years 2018 through 2023 and for the period beginning on October 1, 2023, and ending on March 8, 2024—
 
 &emsp;"(1) the definition of the term 'airport development' under that section includes the construction of a storage facility to shelter snow removal equipment or aircraft rescue and firefighting equipment that is owned by an airport sponsor and used exclusively to maintain safe airfield operations, up to the facility size necessary to accommodate the types and quantities of equipment prescribed by the FAA, regardless of whether Federal funding was used to acquire the equipment;
 
@@ -474,7 +474,7 @@ Pub. L. 115–254, div. B, title I, §162, Oct. 5, 2018, 132 Stat. 3223, provide
 
 &emsp;&emsp;"(E) The airport master record (Form 5010–1) effective on September 14, 2017 for the airport indicates 45 based aircraft consisting of single engine, multiple engine, and jet engine aircraft.
 
-&emsp;&emsp;"(F) No funding under this section will be used for any portion of the storage facility designed toshelter maintenance and operations equipment that are not required for clearing airfield pavement of snow and ice.
+&emsp;&emsp;"(F) No funding under this section will be used for any portion of the storage facility designed to shelter maintenance and operations equipment that are not required for clearing airfield pavement of snow and ice.
 
 &emsp;&emsp;"(G) The airport sponsor will complete design of the storage building not later than September 30, 2019, and will initiate construction of the storage building not later than September 30, 2020.
 

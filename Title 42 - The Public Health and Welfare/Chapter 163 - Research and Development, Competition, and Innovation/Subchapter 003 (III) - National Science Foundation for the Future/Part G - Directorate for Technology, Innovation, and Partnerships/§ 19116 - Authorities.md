@@ -122,7 +122,7 @@ In addition to existing authorities available to the Foundation, the Director ma
 
 &emsp;&emsp;&emsp;&emsp;(II) the period to which the employee's service is limited under subparagraph (C), including any extension made under this paragraph before the termination of the program; and
 
-&emsp;&emsp;&emsp;(ii) the rate of basic pay prescribed for the position under this paragraph may notbe reduced as long as the employee continues to serve at an acceptable level of performance in the position without a break in service.
+&emsp;&emsp;&emsp;(ii) the rate of basic pay prescribed for the position under this paragraph may not be reduced as long as the employee continues to serve at an acceptable level of performance in the position without a break in service.
 
 #### (5) Additional hiring authority
 

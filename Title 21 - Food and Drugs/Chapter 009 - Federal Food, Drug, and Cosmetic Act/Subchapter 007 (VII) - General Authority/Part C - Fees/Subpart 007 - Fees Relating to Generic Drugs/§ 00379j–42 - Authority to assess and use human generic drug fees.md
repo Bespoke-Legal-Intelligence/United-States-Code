@@ -102,7 +102,7 @@ Beginning in fiscal year 2023, the Secretary shall assess and collect fees in ac
 
 #### (E) Fee for an application the Secretary considers not to have been received, or that has been withdrawn
 
-&emsp;&emsp;An abbreviated new drug application that was submitted on or after October 1, 2012, and that the Secretary considers not to have been received, or that has been withdrawn, shall, upon resubmission of the application or a subsequent new submission following the applicant's withdrawal of the application, be subject to a full fee under subparagraph (A).
+&emsp;&emsp;An abbreviated new drug application that was submitted on or after October 1, 2012, and that the Secretary considers not to have been received, or that has been withdrawn,shall, upon resubmission of the application or a subsequent new submission following the applicant's withdrawal of the application, be subject to a full fee under subparagraph (A).
 
 #### (F) Additional fee for active pharmaceutical ingredient information not included by reference to Type II active pharmaceutical ingredient drug master file
 
@@ -158,7 +158,7 @@ Beginning in fiscal year 2023, the Secretary shall assess and collect fees in ac
 
 #### (C) Notice
 
-&emsp;&emsp;Within the timeframe specified in subsection (d)(1), the Secretary shall publish inthe Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
+&emsp;&emsp;Within the timeframe specified in subsection (d)(1), the Secretary shall publish in the Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
 
 #### (D) Fee due date
 
@@ -182,7 +182,7 @@ Beginning in fiscal year 2023, the Secretary shall assess and collect fees in ac
 
 #### (A) Fiscal year 2023
 
-&emsp;&emsp;For fiscal year 2023, fees under subsection (a) shall be established to generate a total estimated revenue amount under such subsection of $582,500,000.
+&emsp;&emsp;For fiscal year 2023, fees under subsection (a) shall be established to generate a totalestimated revenue amount under such subsection of $582,500,000.
 
 #### (B) Fiscal years 2024 through 2027
 
@@ -220,7 +220,7 @@ Beginning in fiscal year 2023, the Secretary shall assess and collect fees in ac
 
 #### (1) Inflation adjustment
 
-&emsp;For fiscal year 2024 and subsequent fiscal years, the revenues established in subsection\(b) shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year, to equal the base revenue amount for the fiscal year (as specified in subsection (b)(1)(B)(ii)) multiplied by an amount equal to the sum of—
+&emsp;For fiscal year 2024 and subsequent fiscal years, the revenues established in subsection (b) shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year, to equal the base revenue amount for the fiscal year (as specified in subsection (b)(1)(B)(ii)) multiplied by an amount equal to the sum of—
 
 &emsp;&emsp;(A) one;
 
@@ -284,7 +284,7 @@ Beginning in fiscal year 2023, the Secretary shall assess and collect fees in ac
 
 #### (A) In general
 
-&emsp;&emsp;For fiscal year 2024 and each subsequent fiscal year, the Secretary may, in addition to adjustments under paragraphs (1) and (2),further increase the fee revenue and fees under this section for such fiscal year if such an adjustment is necessary to provide operating reserves of carryover user fees for human generic drug activities for not more than the number of weeks specified in subparagraph (B) with respect to that fiscal year.
+&emsp;&emsp;For fiscal year 2024 and each subsequent fiscal year, the Secretary may, in addition to adjustments under paragraphs (1) and (2), further increase the fee revenue and fees under this section for such fiscal year if such an adjustment is necessary to provide operating reserves of carryover user fees for human generic drug activities for not more than the number of weeks specified in subparagraph (B) with respect to that fiscal year.
 
 #### (B) Number of weeks
 
@@ -308,7 +308,7 @@ Beginning in fiscal year 2023, the Secretary shall assess and collect fees in ac
 
 #### (1) Fiscal years 2023 through 2027
 
-&emsp;Not later than 60 days before the first day of each of fiscal years 2023 through 2027, the Secretary shall establish the fees described in paragraphs (2) through (5) of subsection (a), based on the revenue amounts established under subsection (b) and the adjustments provided under subsection (c).
+&emsp;Not later than 60 days before the first day of each of fiscal years 2023 through 2027, the Secretary shall establish the fees described in paragraphs (2) through (5) of subsection (a),based on the revenue amounts established under subsection (b) and the adjustments provided under subsection (c).
 
 #### (2) Fee for active pharmaceutical ingredient information not included by reference to Type II active pharmaceutical ingredient drug master file
 
@@ -394,7 +394,7 @@ Beginning in fiscal year 2023, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;(ii) The condition specified in this clause is that the fee established under subsection (a)(2) has been paid within 20 calendar days of the Secretary providing the notification to the sponsor of the abbreviated new drug application or supplement of the failure of the owner of the Type II active pharmaceutical ingredient drug master file to pay the drug master file fee as specified in subparagraph (C).
 
-&emsp;&emsp;(C)(i) If an abbreviated new drug application or supplement to an abbreviated new drug application references a Type II active pharmaceutical ingredient drug master file for which a fee under subsection (a)(2)(A) has not been paid by the applicable date under subsection (a)(2)(E), the Secretary shall notify the sponsor of the abbreviated new drug application or supplement of the failure of the owner of the Type II active pharmaceutical ingredient drug master file to pay the applicable fee.
+&emsp;&emsp;(C)(i) If an abbreviated new drug application or supplement to an abbreviated new drug application references a Type II activepharmaceutical ingredient drug master file for which a fee under subsection (a)(2)(A) has not been paid by the applicable date under subsection (a)(2)(E), the Secretary shall notify the sponsor of the abbreviated new drug application or supplement of the failure of the owner of the Type II active pharmaceutical ingredient drug master file to pay the applicable fee.
 
 &emsp;&emsp;(ii) If such fee is not paid within 20 calendar days of the Secretary providing the notification, the abbreviated new drug application or supplement to an abbreviated new drug application shall not be received within the meaning of section 355(j)(5)(A) of this title.
 
@@ -438,7 +438,7 @@ Beginning in fiscal year 2023, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(ii) Any abbreviated new drug application submitted by the generic drug applicant or an affiliate of such applicant shall not be received, within the meaning of section 355(j)(5)(A) of this title.
 
-&emsp;&emsp;&emsp;(iii) All drugs marketed pursuant to any abbreviated new drug application held bysuch applicant or an affiliate of such applicant shall be deemed misbranded under section 352(aa) of this title.
+&emsp;&emsp;&emsp;(iii) All drugs marketed pursuant to any abbreviated new drug application held by such applicant or an affiliate of such applicant shall be deemed misbranded under section 352(aa) of this title.
 
 #### (B) Application of penalties
 
@@ -458,7 +458,7 @@ Beginning in fiscal year 2023, the Secretary shall assess and collect fees in ac
 
 #### (1) In general
 
-&emsp;Fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts, subject to paragraph (2). Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for human generic drug activities.
+&emsp;Fees authorized under subsection (a) shall be collected and available for obligation only tothe extent and in the amount provided in advance in appropriations Acts, subject to paragraph (2). Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for human generic drug activities.
 
 #### (2) Collections and appropriation Acts
 

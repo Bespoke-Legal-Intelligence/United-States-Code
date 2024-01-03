@@ -38,7 +38,7 @@ The Secretary of Defense may permit Armed Forces recruiters to inform potential 
 
 #### References in Text
 
-Section 12611 of this title, referred to in subsec. (b)(1), was amended generally by Pub. L. 111–13, title I, §1501, Apr. 21, 2009, 123 Stat. 1521, and section 12611(3) no longer relates to members and former members of the Armed Forces.
+Section 12611 of this title, referred to in subsec. (b)(1), was amended generally by Pub. L. 111–13, title I, §1501,Apr. 21, 2009, 123 Stat. 1521, and section 12611(3) no longer relates to members and former members of the Armed Forces.
 
 #### Codification
 

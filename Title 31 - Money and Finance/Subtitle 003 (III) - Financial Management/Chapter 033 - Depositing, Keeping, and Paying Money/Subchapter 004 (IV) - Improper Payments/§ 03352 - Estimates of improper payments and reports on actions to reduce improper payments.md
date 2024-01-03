@@ -148,7 +148,7 @@ In general.—For the purpose of producing an estimate under paragraph (1), when
 
 &emsp;&emsp;(B)
 
-Separate report.—The head of an executive agency may report separately on what portion of the improper payments estimate for a program or activity of the executive agency under paragraph (1) is attributable to lacking or insufficient documentation.
+Separate report.—The head of an executive agency may report separately onwhat portion of the improper payments estimate for a program or activity of the executive agency under paragraph (1) is attributable to lacking or insufficient documentation.
 
 (d)
 
@@ -276,7 +276,7 @@ Procedures.—In conducting a recovery audit under this subsection, the head of 
 
 Recovery audit contracts.—With respect to a recovery audit procured by an executive agency by contract—
 
-&emsp;&emsp;&emsp;(i) subject to subparagraph (B)(iii), and except to the extent such actions are outside the authority of the executive agency under section 7103 of title 41, the head ofthe executive agency may authorize the contractor to—
+&emsp;&emsp;&emsp;(i) subject to subparagraph (B)(iii), and except to the extent such actions are outside the authority of the executive agency under section 7103 of title 41, the head of the executive agency may authorize the contractor to—
 
 &emsp;&emsp;&emsp;&emsp;(I) notify entities, including individuals, of potential overpayments made to those entities;
 
@@ -338,7 +338,7 @@ Use for financial management improvement program.—Not more than 25 percent of 
 
 Use for original purpose.—Not more than 25 percent of the amounts collected by an executive agency through recovery audits—
 
-&emsp;&emsp;&emsp;(i) shall be credited to the appropriation or fund, if any, available for obligation at the time of collection for the same general purposes as the appropriation or fund from which the overpayment was made;
+&emsp;&emsp;&emsp;(i) shall be credited to the appropriation or fund, if any, available for obligation atthe time of collection for the same general purposes as the appropriation or fund from which the overpayment was made;
 
 &emsp;&emsp;&emsp;(ii) shall remain available for the same period and purposes as the appropriation or fund to which credited; and
 
@@ -413,4 +413,10 @@ Section 2(g) of the Improper Payments Elimination and Recovery Act of 2010, refe
 This Act, referred to in subsec. (i)(2)(E)(i)(I), probably means Pub. L. 116–117, which enacted this subchapter, amended section 3562 of this title, section 612 of Title 6, Domestic Security, and section 1397ee of Title 42, The Public Health and Welfare, amended provisions set out as a note under 5701 of Title 5, Government Organization and Employees, and repealed provisions set out as notes under sections 3301 and 3321 of this title. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 3301 of this title and Tables.
 
 The date of enactment of the Improper Payments Elimination and Recovery Act of 2010, referred to subsec. (i)(2)(G), is the date of enactment of Pub. L. 111–204, which was approved July 22, 2010.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 

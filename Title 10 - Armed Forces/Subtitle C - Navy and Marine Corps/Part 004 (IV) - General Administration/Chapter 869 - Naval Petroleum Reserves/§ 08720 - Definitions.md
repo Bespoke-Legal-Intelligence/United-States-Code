@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1) The term "national defense" includes the needs of, and the planning and preparedness to meet, essential defense, industrial, and military emergency energy requirements relative to the national safety, welfare, and economy, particularly resulting from foreign military or economic actions.
 
-&emsp;(2) The term "naval petroleum reserves" means the naval petroleum and oil shale reserves established by this chapter, including Naval Petroleum Reserve Numbered 1 (Elk Hills), located in Kern County, California, established by Executive order of the President, dated September 2, 1912; Naval Petroleum Reserve Numbered 2 (Buena Vista), located in Kern County, California, established by Executive order of the President, dated December 13,1912; Naval Petroleum Reserve Numbered 3 (Teapot Dome), located in Wyoming, established by Executive order of the President, dated April 30, 1915; Oil Shale Reserve Numbered 1, located in Colorado, established by Executive order of the President, dated December 6, 1916, as amended by Executive order dated June 12, 1919; Oil Shale Reserve Numbered 2, located in Utah, established by Executive order of the President, dated December 6, 1916; and Oil Shale Reserve Numbered 3, located in Colorado, established by Executive order of the President, dated September 27, 1924.
+&emsp;(2) The term "naval petroleum reserves" means the naval petroleum and oil shale reserves established by this chapter, includingNaval Petroleum Reserve Numbered 1 (Elk Hills), located in Kern County, California, established by Executive order of the President, dated September 2, 1912; Naval Petroleum Reserve Numbered 2 (Buena Vista), located in Kern County, California, established by Executive order of the President, dated December 13, 1912; Naval Petroleum Reserve Numbered 3 (Teapot Dome), located in Wyoming, established by Executive order of the President, dated April 30, 1915; Oil Shale Reserve Numbered 1, located in Colorado, established by Executive order of the President, dated December 6, 1916, as amended by Executive order dated June 12, 1919; Oil Shale Reserve Numbered 2, located in Utah, established by Executive order of the President, dated December 6, 1916; and Oil Shale Reserve Numbered 3, located in Colorado, established by Executive order of the President, dated September 27, 1924.
 
 &emsp;(3) The term "petroleum" includes crude oil, gases (including natural gas), natural gasoline, and other related hydrocarbons, oil shale, and the products of any of such resources.
 
@@ -176,7 +176,7 @@ Amount.—There are hereby authorized to be appropriated to the Secretary of Ene
 
 &emsp;"(2) closeout activities at Naval Petroleum Reserve Numbered 1 upon the sale of that reserve under subtitle B of title XXXIV of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 10 U.S.C. 7420 note \[now 10 U.S.C. 8720 note\]); and
 
-&emsp;"(3) activities under this title relating to the disposition of Naval Petroleum Reserve Numbered 2,Naval Petroleum Reserve Numbered 3, and Oil Shale Reserve Numbered 2.
+&emsp;"(3) activities under this title relating to the disposition of Naval Petroleum Reserve Numbered 2, Naval Petroleum Reserve Numbered 3, and Oil Shale Reserve Numbered 2.
 
 "(b)
 
@@ -264,7 +264,7 @@ Conditions on Conveyance.—(1) The conveyance under subsection (b) is subject t
 
 "(5) Each withdrawal that applies to NOSR–2 and that is in effect on the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\] is revoked to the extent that the withdrawal applies to NOSR–2.
 
-"(6) Notwithstanding that the land conveyed to the Tribe under subsection (b) shall not be part of the reservation of the Tribe, such land shall be deemed to be part of the reservation of the Tribe for the purposes of criminal and civil jurisdiction.
+"(6) Notwithstanding that the land conveyed to the Tribe under subsection (b) shall not be part of the reservation of the Tribe, such land shall be deemed to bepart of the reservation of the Tribe for the purposes of criminal and civil jurisdiction.
 
 "(d)
 
@@ -422,7 +422,7 @@ Notice of Sale.—Not later than two months after the effective date, the Secret
 
 "(d)
 
-Establishment of Minimum Sale Price.—(1) Not later than seven months after the effective date, the Secretary shall retain the services of five independent experts in the valuation of oil and gas fields to conduct separate assessments, in a manner consistent with commercial practices, of the value of the interest of the United States in Naval Petroleum Reserve Numbered 1. The independent experts shall complete their assessments within 11 months after the effective date. In making their assessments, the independent experts shall consider (among other factors)—
+Establishment of Minimum Sale Price.—(1) Not later than seven months after the effective date, theSecretary shall retain the services of five independent experts in the valuation of oil and gas fields to conduct separate assessments, in a manner consistent with commercial practices, of the value of the interest of the United States in Naval Petroleum Reserve Numbered 1. The independent experts shall complete their assessments within 11 months after the effective date. In making their assessments, the independent experts shall consider (among other factors)—
 
 &emsp;"(A) all equipment and facilities to be included in the sale;
 
@@ -500,7 +500,7 @@ Preservation of Private Right, Title, and Interest.—Nothing in this subtitle s
 
 "(d)
 
-Transfer of Otherwise Nontransferable Permit.—The Secretary may transfer to the purchaser orpurchasers (as the case may be) of Naval Petroleum Reserve Numbered 1 the incidental take permit regarding the reserve issued to the Secretary by the United States Fish and Wildlife Service and in effect on the effective date if the Secretary determines that transfer of the permit is necessary to expedite the sale of the reserve in a manner that maximizes the value of the sale to the United States. The transferred permit shall cover the identical activities, and shall be subject to the same terms and conditions, as apply to the permit at the time of the transfer.
+Transfer of Otherwise Nontransferable Permit.—The Secretary may transfer to the purchaser or purchasers (as the case may be) of Naval Petroleum Reserve Numbered 1 the incidental take permit regarding the reserve issued to the Secretary by the United States Fish and Wildlife Service and in effect on the effective date if the Secretary determines that transfer of the permit is necessary to expedite the sale of the reserve in a manner that maximizes the value of the sale to the United States. The transferred permit shall cover the identical activities, and shall be subject to the same terms and conditions, as apply to the permit at the time of the transfer.
 
 #### "SEC. 3414. CONDITIONS ON SALE PROCESS.
 

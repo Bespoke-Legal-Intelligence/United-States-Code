@@ -78,7 +78,7 @@ In addition to the broadcast signals that subscribers may receive under sectionÂ
 
 &emsp;Upon complaint, the Commission shall issue a cease and desist order to any satellite carrier found to have violated this section in carrying any television broadcast station. Such order may, if a complaining station requests damagesâ€”
 
-&emsp;&emsp;(A) provide for the award of damages to a complaining station that establishes that the violation was committed in bad faith, in an amount up to $50 per subscriber, per station, per day of the violation; and
+&emsp;&emsp;(A) provide for the award of damages to a complaining station that establishes thatthe violation was committed in bad faith, in an amount up to $50 per subscriber, per station, per day of the violation; and
 
 &emsp;&emsp;(B) provide for the award of damages to a prevailing satellite carrier if the Commission determines that the complaint was frivolous, in an amount up to $50 per subscriber alleged to be in violation, per station alleged, per day of the alleged violation.
 
@@ -100,7 +100,7 @@ Each satellite carrier that proposes to commence the retransmission of a station
 
 &emsp;(1) not less than 60 days before commencing such retransmission, provide a written notice to any television broadcast station in such local market of such proposal; and
 
-&emsp;(2) designate on such carrier's website all significantly viewed signals carried pursuantto section 340 of this title and the communities in which the signals are carried.
+&emsp;(2) designate on such carrier's website all significantly viewed signals carried pursuant to section 340 of this title and the communities in which the signals are carried.
 
 #### (h) Additional corresponding changes in regulations
 

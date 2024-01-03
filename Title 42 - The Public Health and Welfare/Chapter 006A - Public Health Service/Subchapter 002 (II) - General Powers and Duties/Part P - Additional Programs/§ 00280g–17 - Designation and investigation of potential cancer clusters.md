@@ -94,7 +94,7 @@ Pub. L. 114–182, title I, §21(a), June 22, 2016, 130 Stat. 510, provided that
 
 &emsp;"(1) to provide the appropriate Federal agencies with the authority to help conduct investigations into potential cancer clusters;
 
-&emsp;"(2) to ensure that Federal agencies have the authority to undertake actions to help address cancerclusters and factors that may contribute to the creation of potential cancer clusters; and
+&emsp;"(2) to ensure that Federal agencies have the authority to undertake actions to help address cancer clusters and factors that may contribute to the creation of potential cancer clusters; and
 
 &emsp;"(3) to enable Federal agencies to coordinate with other Federal, State, and local agencies, institutes of higher education, and the public in investigating and addressing cancer clusters."
 

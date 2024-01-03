@@ -18,7 +18,7 @@ For purposes of this part:
 
 &emsp;&emsp;&emsp;(ii) contaminated with residual byproduct material;
 
-&emsp;(2) The term "byproduct material" has the meaning given such term in section 11 e. (2) ofthe Atomic Energy Act of 1954,<sup>1</sup> (42 U.S.C. 2014(e)(2)); and
+&emsp;(2) The term "byproduct material" has the meaning given such term in section 11 e. (2) of the Atomic Energy Act of 1954,<sup>1</sup> (42 U.S.C. 2014(e)(2)); and
 
 &emsp;(3) The term "decontamination, decommissioning, reclamation, and other remedial action" means work performed prior to or subsequent to October 24, 1992, which is necessary to comply with all applicable requirements of the Uranium Mill Tailings Radiation Control Act of 1978 (42 U.S.C. 7901 et seq.), or where appropriate, with requirements established by a State that is a party to a discontinuance agreement under section 274 of the Atomic Energy Act of 1954 (42 U.S.C. 2021).
 

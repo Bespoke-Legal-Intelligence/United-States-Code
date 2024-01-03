@@ -38,7 +38,7 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 #### (2) Review of sanctions
 
-&emsp;The provisions of sections 78s(d)(2) and 78s(e)(1) of this title shall govern the review by the Commission of final disciplinary sanctions imposed by the Board (including sanctions imposed under section 7215(b)(3) of this title for noncooperation in an investigation of the Board), as fully as if the Board were a self-regulatory organization and the Commission were the appropriate regulatory agency for such organization for purposes of those sections 78s(d)(2) and 78s(e)(1), except that, for purposes of this paragraph—
+&emsp;The provisions of sections 78s(d)(2) and 78s(e)(1) of this title shall govern the review by the Commission of final disciplinary sanctions imposed by the Board (including sanctions imposed under section 7215(b)(3) of this title for noncooperation in an investigation of the Board), as fully as if the Board were a self-regulatory organization and the Commission were the appropriate regulatory agency for such organization for purposes of those sections78s(d)(2) and 78s(e)(1), except that, for purposes of this paragraph—
 
 &emsp;&emsp;(A) section 7215(e) of this title (rather than that section 78s(d)(2)) shall govern the extent to which application for, or institution by the Commission on its own motion of, review of any disciplinary action of the Board operates as a stay of such action;
 

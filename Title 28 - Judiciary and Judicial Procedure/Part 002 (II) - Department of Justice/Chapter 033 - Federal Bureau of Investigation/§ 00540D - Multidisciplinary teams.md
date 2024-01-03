@@ -170,7 +170,7 @@ In general.—The Federal Bureau of Investigation may provide security clearance
 
 &emsp;&emsp;(B)
 
-Authorization of appropriations.—There is authorized to be appropriated suchsums as are necessary to carry out subparagraph (A).
+Authorization of appropriations.—There is authorized to be appropriated such sums as are necessary to carry out subparagraph (A).
 
 (f)
 

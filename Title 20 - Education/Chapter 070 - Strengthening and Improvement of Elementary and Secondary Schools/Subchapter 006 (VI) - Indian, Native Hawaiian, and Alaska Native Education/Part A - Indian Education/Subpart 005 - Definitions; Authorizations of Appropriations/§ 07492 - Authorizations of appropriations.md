@@ -22,7 +22,7 @@ A prior section 6152 of Pub. L. 89–10 was classified to section 7321a of this 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–95, §6002(t)(1), substituted "$100,381,000 for fiscal year 2017, $102,388,620 for fiscal year 2018, $104,436,392 for fiscal year 2019, and $106,525,120 for fiscal year 2020" for "$96,400,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years".
+<b>2015</b>—Subsec. (a). Pub. L. 114–95, §6002(t)(1), substituted "$100,381,000 for fiscal year 2017, $102,388,620 forfiscal year 2018, $104,436,392 for fiscal year 2019, and $106,525,120 for fiscal year 2020" for "$96,400,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years".
 
 Subsec. (b). Pub. L. 114–95, §6002(t)(2), in heading, substituted "Subpart 2" for "Subparts 2 and 3", and in text, substituted "subpart 2" for "subparts 2 and 3" and "$17,993,000 for each of fiscal years 2017 through 2020" for "$24,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years".
 

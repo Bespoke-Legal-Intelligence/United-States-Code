@@ -1,6 +1,6 @@
 ### §3066. Assignment and delegation of procurement functions and responsibilities: procurements for or with other agencies
 
-Subject to section 3065 of this title, to facilitate the procurement of property and services covered by any provision of this part that is a chapter 137 legacy provision by each agency named in section 3063 of this title for any other agency, and to facilitate joint procurement by those agencies—
+Subject to section 3065 of this title, to facilitate the procurement of property and services covered by any provision of this part that is a chapter 137 legacy provision by each agencynamed in section 3063 of this title for any other agency, and to facilitate joint procurement by those agencies—
 
 &emsp;(1) the head of an agency may delegate functions and assign responsibilities relating to procurement to any officer or employee within such agency;
 

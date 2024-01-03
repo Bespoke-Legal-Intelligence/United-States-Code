@@ -16,7 +16,7 @@ Upon request of the Chief Executive Officer, the head of an agency may detail an
 
 #### (2) Specific rights
 
-&emsp;An employee who satisfies paragraph (1) is entitled to be reemployed (in accordance withsuch paragraph) within 30 days after applying for reemployment and, on reemployment, is entitled to at least the rate of basic pay to which such employee would have been entitled had such employee never transferred.
+&emsp;An employee who satisfies paragraph (1) is entitled to be reemployed (in accordance with such paragraph) within 30 days after applying for reemployment and, on reemployment, is entitled to at least the rate of basic pay to which such employee would have been entitled had such employee never transferred.
 
 #### (c) Hiring authority
 

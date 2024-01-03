@@ -70,7 +70,7 @@
 
 (c) The term "standards development activity" excludes the following activities:
 
-&emsp;(1) Exchanging information among competitors relating to cost, sales, profitability,prices, marketing, or distribution of any product, process, or service that is not reasonably required for the purpose of developing or promulgating a voluntary consensus standard, or using such standard in conformity assessment activities.
+&emsp;(1) Exchanging information among competitors relating to cost, sales, profitability, prices, marketing, or distribution of any product, process, or service that is not reasonably required for the purpose of developing or promulgating a voluntary consensus standard, or using such standard in conformity assessment activities.
 
 &emsp;(2) Entering into any agreement or engaging in any other conduct that would allocate a market with a competitor.
 
@@ -110,7 +110,7 @@ Pub. L. 108–237, title I, §101, June 22, 2004, 118 Stat. 661, provided that: 
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–42, §1, June 10, 1993, 107 Stat. 117, provided that: "This Act \[enacting section 4306 of this title, amending this section and sections 4302 to 4305 of this title, enacting provisions set out as notes under this section and section 4305 of this title, and amending a provision set out as a note under this section\] may be cited as the 'National Cooperative Production Amendments of 1993'."
+Pub. L. 103–42, §1, June 10, 1993, 107 Stat. 117, provided that: "This Act \[enacting section 4306 of this title,amending this section and sections 4302 to 4305 of this title, enacting provisions set out as notes under this section and section 4305 of this title, and amending a provision set out as a note under this section\] may be cited as the 'National Cooperative Production Amendments of 1993'."
 
 #### Short Title
 
@@ -136,7 +136,7 @@ Pub. L. 108–237, title I, §102, June 22, 2004, 118 Stat. 661, provided that: 
 
 &emsp;"(4) Having the same technical standards used by Federal agencies and by the private sector permits the Government to avoid the cost of developing duplicative Government standards and to more readily use products and components designed for the commercial marketplace, thereby enhancing quality and safety and reducing costs.
 
-&emsp;"(5) Technical standards are written by hundreds of nonprofit voluntary consensus standards bodies in a nonexclusionary fashion, using thousands of volunteers from the private and public sectors, and are developed under the standards development principlesset out in Circular Number A–119, as revised February 18, 1998, of the Office of Management and Budget, including principles that require openness, balance, transparency, consensus, and due process. Such principles provide for—
+&emsp;"(5) Technical standards are written by hundreds of nonprofit voluntary consensus standards bodies in a nonexclusionary fashion, using thousands of volunteers from the private and public sectors, and are developed under the standards development principles set out in Circular Number A–119, as revised February 18, 1998, of the Office of Management and Budget, including principles that require openness, balance, transparency, consensus, and due process. Such principles provide for—
 
 &emsp;&emsp;"(A) notice to all parties known to be affected by the particular standards development activity,
 

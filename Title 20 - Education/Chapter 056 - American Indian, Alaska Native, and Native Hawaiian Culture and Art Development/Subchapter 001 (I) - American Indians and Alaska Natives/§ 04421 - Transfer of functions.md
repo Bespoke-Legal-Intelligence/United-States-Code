@@ -12,7 +12,7 @@ There are hereby transferred to the Institute of American Indian and Alaska Nati
 
 #### (c) References in other laws
 
-All laws and regulations relating to the Institute of American Indian Arts established by the Secretary in 1962 shall, insofar as such laws and regulations are appropriate, and not inconsistent with the provisions of this chapter, remain in full force and effect and apply with respect to the Institute. All references in any other Federal law to the Institute of American Indian Arts, or any officer transferred to the Institute of American Indian and Alaska NativeCulture and Arts Development under subsection (b), shall be deemed to refer to the Institute of American Indian and Alaska Native Culture and Arts Development or an officer of the Institute of American Indian and Alaska Native Culture and Arts Development.
+All laws and regulations relating to the Institute of American Indian Arts established by the Secretary in 1962 shall, insofar as such laws and regulations are appropriate, and not inconsistent with the provisions of this chapter, remain in full force and effect and apply with respect to the Institute. All references in any other Federal law to the Institute of American Indian Arts, or any officer transferred to the Institute of American Indian and Alaska Native Culture and Arts Development under subsection (b), shall be deemed to refer to the Institute of American Indian and Alaska Native Culture and Arts Development or an officer of the Institute of American Indian and Alaska Native Culture and Arts Development.
 
 #### (d) Forgiveness of amounts owed; hold harmless
 
@@ -22,7 +22,7 @@ All laws and regulations relating to the Institute of American Indian Arts estab
 
 &emsp;(B) the Secretary shall be responsible for all obligations of the Institute incurred on or before June 2, 1988, including those which accrued by reason of any statutory, contractual, or other reason prior to June 2, 1988, which became payable within two years of June 2, 1988.
 
-(2) With respect to all programs of the Federal Government, in whatever form or from whatever source derived, the Institute shall only be held responsible for actions and requirements, either administrative, regulatory, or statutory in nature, for events which occurred after July 1, 1988, including the submission of reports, audits, and other required information. The United States may not seek any monetary damages or repayment for the commission of events, or omission to comply with either administrative or regulatory requirements, for any action which occurred prior to June 2, 1988.
+(2) With respect to all programs of the Federal Government, in whatever form or from whatever source derived, the Institute shall only be held responsible for actions and requirements, either administrative, regulatory, or statutory in nature, for events which occurred after July 1, 1988, including the submission of reports, audits, and other required information. The United States may not seek any monetary damages or repayment for the commission of events, oromission to comply with either administrative or regulatory requirements, for any action which occurred prior to June 2, 1988.
 
 (Pub. L. 99–498, title XV, §1514, Oct. 17, 1986, 100 Stat. 1608; Pub. L. 100–153, §8, Nov. 5, 1987, 101 Stat. 887; Pub. L. 100–297, title V, §5406(d), Apr. 28, 1988, 102 Stat. 418; Pub. L. 101–644, title V, §503, Nov. 29, 1990, 104 Stat. 4669; Pub. L. 102–325, title XIII, §1331(f), July 23, 1992, 106 Stat. 807.)
 

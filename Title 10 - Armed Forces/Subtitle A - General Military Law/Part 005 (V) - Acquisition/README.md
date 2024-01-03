@@ -159,7 +159,7 @@ Pub. L. 116–283, div. A, title XVIII, §§1811(a), 1816(a), 1824(b), 1825(l), 
 
 #### Redesignations by Pub. L. 115–232 of Chapters and Sections in Former Subtitles B to D
 
-Chapters 301 to 953 and sections 3001 to 9448 of this title, which formerly comprised subtitles B to D, were significantly redesignated by Pub. L. 115–232, div. A, title VIII, §§806–808, Aug. 13, 2018, 132 Stat. 1832–1839. The chapter and section redesignations made by Pub. L. 115–232 throughout subtitles B to D of this title are shown in the following table:
+Chapters 301 to 953 and sections 3001 to 9448 of this title, which formerly comprised subtitles B to D, were significantly redesignated by Pub. L. 115–232, div. A, title VIII, §§806–808, Aug. 13, 2018, 132 Stat. 1832–1839. The chapter and section redesignations made by Pub.L. 115–232 throughout subtitles B to D of this title are shown in the following table:
 
 Table Showing Redesignations Made by Pub. L. 115–232
 

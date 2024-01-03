@@ -7,7 +7,7 @@
 | [3103\.](%C2%A7%2003103%20-%20Civilian%20management%20of%20the%20defense%20acquisition%20system.md) | Civilian management of the defense acquisition system. |
 | [3104\.](%C2%A7%2003104%20-%20Acquisition-related%20functions%20of%20chiefs%20of%20the%20armed%20forces.md) | Acquisition-related functions of chiefs of the armed forces. |
 | [3105\.](%C2%A7%2003105%20-%20Elements%20of%20the%20defense%20acquisition%20system%20performance%20assessments.md) | Elements of the defense acquisition system: performance assessments. |
-| [3106\.](%C2%A7%2003106%20-%20Elements%20of%20the%20defense%20acquisition%20system%20performance%20goals.md) | Elements of the defense acquisition system: performance goals <sup>1</sup> |
+| [3106\.](%C2%A7%2003106%20-%20Elements%20of%20the%20defense%20acquisition%20system%20performance%20goals.md) | Elements of the defense acquisition system: performance goals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -19,9 +19,67 @@ A prior chapter 205 "DEFENSE ACQUISITION SYSTEM", as added by Pub. L. 115–232,
 
 #### Amendments
 
+<b>2023</b>—Pub. L. 118–31, div. A, title XVIII, §1801(a)(25), Dec. 22, 2023, 137 Stat. 684, inserted period at end of item 3106.
+
 <b>2021</b>—Pub. L. 116–283, div. A, title XVIII, §§1808(a)(1), (3)(B), (c)(3), Jan. 1, 2021, 134 Stat. 4159, 4160, transferred chapter 149 of this title to this chapter, renumbered items 2545, 2546, 2546a, 2547, and 2548 as 3101, 3103, 3102, 3104, and 3105, respectively, moved item 3102 so as to follow item 3101, added items 3105 and 3106, and struck out former item 3105 (as renumbered from 2548) "Performance assessments of the defense acquisition system".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Modernizing the Department of Defense Requirements Process
+
+Pub. L. 118–31, div. A, title VIII, §811, Dec. 22, 2023, 137 Stat. 321, provided that:
+
+"(a)
+
+Modernizing the Department of Defense Requirements Process.—Not later than October 1, 2025, the Secretary of Defense, acting through the Vice Chairman of the Joint Chiefs of Staff, in coordination with the Secretaries of the military departments and the commanders of the combatant commands, and in consultation with the Under Secretary of Defense for Acquisition and Sustainment, shall develop and implement a streamlined requirements development process for the Department of Defense, to include revising the Joint Capabilities Integration and Development System, in order to improve alignment between modern warfare concepts, technologies, and system development and reduce the time to deliver needed capabilities to warfighters.
+
+"(b)
+
+Reform Elements.—The process required by subsection (a) shall—
+
+&emsp;"(1) streamline requirements documents, reviews, and approval processes, focusing on programs below the major defense acquisition program threshold described in section 4201 of title 10, United States Code;
+
+&emsp;"(2) revise requirements management practices using a clean-sheet approach that avoids prescriptive language, is based on mission outcomes and assessed threats, enables a more iterative and collaborative approach with the Armed Forces, maximizes the use of commercial products or commercial services in accordance with section 3453 of title 10, United States Code, and allows for a broader range of new or alternative technological opportunities to be incorporated without the requirement being validated again;
+
+&emsp;"(3) develop a capability needs and requirements framework and pathways that are aligned to the pathways of the adaptive acquisition framework (as described in Department of Defense Instruction 5000.02, 'Operation of the Adaptive Acquisition Framework'), and better aligned and integrated with the science and technology development processes of the Department;
+
+&emsp;"(4) provide continuity to the acquisition and research programs of the military departments by enabling the military departments to develop, with respect to collections of capabilities grouped by function by the Department of Defense, sets of requirements that are designed to remain applicable to programs and systems relating to such capabilities over substantial periods of time;
+
+&emsp;"(5) require the military departments to—
+
+&emsp;&emsp;"(A) articulate in a concise model and document with a set of mission impact measures the sets of requirements developed under paragraph (4); and
+
+&emsp;&emsp;"(B) seek to continuously improve the capabilities subject to such sets of requirements the acquisition of additional capabilities;
+
+&emsp;"(6) establish a process to rapidly validate the ability of commercial products and services to meet capability needs or opportunities;
+
+&emsp;"(7) retire and replace the Department of Defense Architecture Framework with a new structure focused on enabling interoperability through application program interfaces, enterprise architectures and platforms, and government and commercial standards; and
+
+&emsp;"(8) ensure that requirements processes for software, artificial intelligence, data, and related capability areas enable a more rapid, dynamic, and iterative approach than the requirements processes for traditional hardware systems.
+
+"(c)
+
+Elements.—With respect to the implementation of the process required by subsection (a), the Vice Chairman of the Joint Chiefs of Staff shall—
+
+&emsp;"(1) collaborate with industry partners, contractors of the Department and nontraditional defense contractors (as defined in section 3014 of title 10, United States Code), and Department of Defense science and technology reinvention laboratories (as designated under section 4121(b) of title 10, United States Code) regarding the development of the streamlined requirements development process under subsection (a) to ensure such process effectively uses the innovation ecosystem (as defined in section 236(g) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 \[Pub. L. 117–263\] (10 U.S.C. 4001 note));
+
+&emsp;"(2) develop a formal career path, training, and structure for requirements managers; and
+
+&emsp;"(3) publish new policies, guidance, and templates for the operational, requirements, and acquisition workforces online in digital formats.
+
+"(d)
+
+Interim Report.—Not later than October 1, 2024, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the development and implementation of the process required by subsection (a), including—
+
+&emsp;"(1) a description of the efforts to develop and implement the streamlined requirements development process under subsection (a);
+
+&emsp;"(2) the plans of the Department of Defense to implement, communicate, and continuously improve the requirements development process required by subsection (a); and
+
+&emsp;"(3) any additional recommendations for legislation that the Secretary determines appropriate.
+
+"(e)
+
+Final Report.—Not later than October 1, 2025, the Secretary of Defense shall submit to the congressional defense committees a report describing activities carried out pursuant to this section."
 
 #### Digital Modernization of Analytical and Decision-Support Processes for Managing and Overseeing Department of Defense Acquisition Programs
 
@@ -480,8 +538,6 @@ Time-based Requirements Process.—The Secretary of Defense and the Chairman of 
 "(b)
 
 Budgeting and Acquisition Systems.—The Secretary of Defense shall review and ensure that the acquisition and budgeting systems are structured to meet time-based or phased requirements in a manner that is predictable, cost effective, and efficient and takes advantage of emerging technological developments."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

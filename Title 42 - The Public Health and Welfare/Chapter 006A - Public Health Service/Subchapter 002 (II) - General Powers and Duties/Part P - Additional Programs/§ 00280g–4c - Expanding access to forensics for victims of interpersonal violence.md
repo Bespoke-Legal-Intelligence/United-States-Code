@@ -92,7 +92,7 @@ Not later than 1 year after March 15, 2022, and annually thereafter, the Office 
 
 &emsp;(1) access to generalist medical forensic services, evidence collection, and documentation that aids in meeting the needs of health care patients and improves future law enforcement investigation and prosecution; and
 
-&emsp;(2) data for research to support the response to and prevention of interpersonal violence, improved ability of health care providers to adequately respond to patients who exhibit signs of victimization, and address the unique needs of Tribal communities.
+&emsp;(2) data for research to support the response to and prevention of interpersonal violence, improved ability of health care providers toadequately respond to patients who exhibit signs of victimization, and address the unique needs of Tribal communities.
 
 (Pub. L. 117–103, div. W, title V, §507, Mar. 15, 2022, 136 Stat. 879.)
 

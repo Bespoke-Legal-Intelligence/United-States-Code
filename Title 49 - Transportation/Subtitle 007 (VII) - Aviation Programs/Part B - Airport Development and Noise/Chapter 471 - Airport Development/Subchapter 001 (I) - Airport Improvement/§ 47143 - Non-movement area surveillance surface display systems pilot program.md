@@ -22,7 +22,7 @@ Data exchange processes.—As part of the pilot program carried out under this s
 
 (c)
 
-Sunset.—This section shall cease to be effective on October 1, 2023.
+Sunset.—This section shall cease to be effective on March 9, 2024.
 
 (d)
 
@@ -38,7 +38,7 @@ Non-movement area surveillance surface display systems and sensors.—The term "
 
 &emsp;(3)
 
-Qualifying non-movement area surveillance surface display system and sensors.—The term "qualifying non-movement area surveillance surface display system andsensors" means a non-movement area surveillance surface display system that—
+Qualifying non-movement area surveillance surface display system and sensors.—The term "qualifying non-movement area surveillance surface display system and sensors" means a non-movement area surveillance surface display system that—
 
 &emsp;&emsp;(A) provides the required transmit and receive data formats consistent with the National Airspace System architecture at the appropriate service delivery point;
 
@@ -46,5 +46,13 @@ Qualifying non-movement area surveillance surface display system and sensors.—
 
 &emsp;&emsp;(C) is airport operated.
 
-(Added Pub. L. 115–254, div. B, title I, §140(a), Oct. 5, 2018, 132 Stat. 3210.)
+(Added Pub. L. 115–254, div. B, title I, §140(a), Oct. 5, 2018, 132 Stat. 3210; amended Pub. L. 118–15, div. B, title II, §2202(i), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(i), Dec. 26, 2023, 137 Stat. 1113.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2023</b>—Subsec. (c). Pub. L. 118–34 substituted "March 9, 2024" for "January 1, 2024".
+
+Pub. L. 118–15 substituted "January 1, 2024" for "October 1, 2023".
 

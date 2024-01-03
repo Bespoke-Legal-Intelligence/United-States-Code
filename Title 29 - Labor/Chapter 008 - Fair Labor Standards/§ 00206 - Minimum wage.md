@@ -30,7 +30,7 @@ Every employer shall pay to each of his employees (other than an employee to who
 
 (2) No labor organization, or its agents, representing employees of an employer having employees subject to any provisions of this section shall cause or attempt to cause such an employer to discriminate against an employee in violation of paragraph (1) of this subsection.
 
-(3) For purposes of administration and enforcement, any amounts owing to any employeewhich have been withheld in violation of this subsection shall be deemed to be unpaid minimum wages or unpaid overtime compensation under this chapter.
+(3) For purposes of administration and enforcement, any amounts owing to any employee which have been withheld in violation of this subsection shall be deemed to be unpaid minimum wages or unpaid overtime compensation under this chapter.
 
 (4) As used in this subsection, the term "labor organization" means any organization of any kind, or any agency or employee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.
 
@@ -80,7 +80,7 @@ The Education Amendments of 1972, referred to in subsec. (b), is Pub. L. 92–31
 
 The Fair Labor Standards Amendments of 1974, referred to in subsec. (b), is Pub. L. 93–259, Apr. 8, 1974, 88 Stat. 55. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 201 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of suchAct is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of such Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Codification
 
@@ -134,7 +134,7 @@ Subsec. (c)(5), (6). Pub. L. 95–151, §2(d)(2)(B), redesignated pars. (5) and 
 
 <b>1974</b>—Subsec. (a)(1). Pub. L. 93–259, §2, substituted "not less than $2 an hour during the period ending December 31, 1974, not less than $2.10 an hour during the year beginning January 1, 1975, and not less than $2.30 an hour after December 31, 1975" for "not less than $1.40 an hour during the first year from the effective date of the Fair Labor Standards Amendments of 1966 and not less than $1.60 an hour thereafter".
 
-Subsec. (a)(5). Pub. L. 93–259, §4, substituted provisions for a minimum wage rate not less than: $1.60 an hour during period ending Dec. 31, 1974; $1.80, $2, and $2.20 an hour during years beginning Jan. 1, 1975, 1976, and 1977, respectively; and $2.30 an hour after Dec. 31, 1977 for former provisions for a minimum wage rate not less than $1 an hour during first year from the effective date of the Fair Labor Standards Amendments of 1966,not less than $1.15 an hour during second year from such date, and not less than $1.30 an hour thereafter.
+Subsec. (a)(5). Pub. L. 93–259, §4, substituted provisions for a minimum wage rate not less than: $1.60 an hour during period ending Dec. 31, 1974; $1.80, $2, and $2.20 an hour during years beginning Jan. 1, 1975, 1976, and 1977, respectively; and $2.30 an hour after Dec. 31, 1977 for former provisions for a minimum wage rate not less than $1 an hour during first year from the effective date of the Fair Labor Standards Amendments of 1966, not less than $1.15 an hour during second year from such date, and not less than $1.30 an hour thereafter.
 
 Subsec. (b). Pub. L. 93–259, §3, inserted references to "title II of the Education Amendments of 1972" and "Fair Labor Standards Amendments of 1974" and substituted provisions for a minimum wage rate not less than $1.90 an hour during period ending Dec. 31, 1974; $2 and $2.20 an hour during years beginning Jan. 1, 1975, and 1976, respectively; and $2.30 an hour after Dec. 31, 1976 for former provisions for a minimum wage rate not less than: $1 an hour during first year from effective date of Fair Labor Standards Amendments of 1966; $1.15, $1.30, and $1.45 an hour during second, third, and fourth years from such date; and $1.60 an hour thereafter.
 
@@ -164,7 +164,7 @@ Subsec. (a)(4). Pub. L. 89–601, §301(b), added par. (4).
 
 Subsec. (a)(5). Pub. L. 89–601, §302, added par. (5).
 
-Subsec. (b). Pub. L. 89–601, §303, substituted provisions for a minimum wage for employees covered for first time by the Fair Labor Standards Amendments of 1966 (other than newly covered agricultural employees) at not less than $1 an hour during first year from the effective date of the 1966 amendments, not less than $1.15 an hour during second year from such date, not less than $1.30 an hour during third year from such date, not less than $1.45 an hour during fourth year from such date, and not less than $1.60 an hour thereafter, for provisions setting a timetable for increases inthe minimum wage of employees first covered by the Fair Labor Standards Amendments of 1961.
+Subsec. (b). Pub. L. 89–601, §303, substituted provisions for a minimum wage for employees covered for first time by the Fair Labor Standards Amendments of 1966 (other than newly covered agricultural employees) at not less than $1 an hour during first year from the effective date of the 1966 amendments, not less than $1.15 an hour during second year from such date, not less than $1.30 an hour during third year from such date, not less than $1.45 an hour during fourth year from such date, and not less than $1.60 an hour thereafter, for provisions setting a timetable for increases in the minimum wage of employees first covered by the Fair Labor Standards Amendments of 1961.
 
 Subsec. (c). Pub. L. 89–601, §304, provided for a percentage minimum wage increase for employees in Puerto Rico and the Virgin Islands who are covered by wage orders already in effect as the equivalent of the percentage increase on the mainland, provided for minimum wages for employees brought within coverage of this chapter for the first time by the Fair Labor Standards Amendments of 1966 at rates to be set by special industry committees so as to reach as rapidly as is economically feasible without substantially curtailing employment the objectives of the minimum wage prescribed for mainland employees, and eliminated the review committees that has been established by the Fair Labor Standards Amendments of 1961.
 
@@ -370,7 +370,7 @@ Duration.—
 
 &emsp;&emsp;&emsp;"(i) An employee shall initially be eligible to be paid the wage authorized by subsection (a) until the employee has been employed a cumulative total of 90 days at such wage.
 
-&emsp;&emsp;&emsp;"(ii) An employee who has been employed by an employer at the wage authorized by subsection (a) for the period authorized by clause (i) may be employed by any other employer for an additional 90 days if the employer meets the requirements of subsection (h).
+&emsp;&emsp;&emsp;"(ii) An employee who has been employed by an employer at the wage authorized by subsection (a) for the period authorized by clause (i) may be employed by any other employer for an additional90 days if the employer meets the requirements of subsection (h).
 
 &emsp;&emsp;&emsp;"(iii) The total period, as authorized by clauses (i) and (ii), that an employee may be paid the wage authorized by subsection (a) may not exceed 180 days.
 
@@ -398,7 +398,7 @@ Employer Requirements.—An employer who wants to employ employees at the wage a
 
 &emsp;"(1) notify the Secretary annually of the positions at which such employees are to be employed at such wage,
 
-&emsp;"(2) provide on-the-job training to such employees which meets general criteria of the Secretary issued by regulation after consultation with the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Education and Labor of the House of Representatives and other interested persons,
+&emsp;"(2) provide on-the-job training to such employees which meets general criteria of the Secretary issued by regulation after consultation with the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives and other interested persons,
 
 &emsp;"(3) keep on file a copy of the training program which the employer will provide such employees,
 
@@ -464,7 +464,7 @@ The term "Administrator" as meaning the Administrator of the Wage and Hour Divis
 
 #### Transfer of Functions
 
-Functions relating to enforcement and administration of equal pay provisions vested by this section inSecretary of Labor and Administrator of Wage and Hour Division of Department of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+Functions relating to enforcement and administration of equal pay provisions vested by this section in Secretary of Labor and Administrator of Wage and Hour Division of Department of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 

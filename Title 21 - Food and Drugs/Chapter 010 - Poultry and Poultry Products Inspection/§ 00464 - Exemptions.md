@@ -12,7 +12,7 @@ The Secretary shall, by regulation and under such conditions as to sanitary stan
 
 #### (b) Territorial exemption
 
-The Secretary may, under such sanitary conditions as he may by regulations prescribe, exempt from the inspection requirements of this chapter the slaughter of poultry, and the processing of poultry products, by any person in anyTerritory not organized with a legislative body, solely for distribution within such Territory, when the Secretary determines that it is impracticable to provide such inspection within the limits of funds appropriated for administration of this chapter and that such exemption will aid in the effective administration of this chapter.
+The Secretary may, under such sanitary conditions as he may by regulations prescribe, exempt from the inspection requirements of this chapter the slaughter of poultry, and the processing of poultry products, by any person in any Territory not organized with a legislative body, solely for distribution within such Territory, when the Secretary determines that it is impracticable to provide such inspection within the limits of funds appropriated for administration of this chapter and that such exemption will aid in the effective administration of this chapter.
 
 #### (c) Personal slaughtering; custom slaughtering; name and address of the poultry producer or processor in lieu of other labeling requirements; small enterprises; slaughterers or processors of specified number of turkeys; poultry producers raising poultry on own farms
 
@@ -48,7 +48,7 @@ The Secretary may, under such sanitary conditions as he may by regulations presc
 
 &emsp;(B) the pizzas are to be served in public or private nonprofit institutions.
 
-(2) The Secretary may withdraw or modify any exemption under this subsection whenever the Secretary determines such action is necessary to ensure food safety and to protect publichealth. The Secretary may reinstate or further modify any exemption withdrawn or modified under this subsection.
+(2) The Secretary may withdraw or modify any exemption under this subsection whenever the Secretary determines such action is necessary to ensure food safety and to protect public health. The Secretary may reinstate or further modify any exemption withdrawn or modified under this subsection.
 
 #### (e) Applicability of adulteration and misbranding provisions to articles exempted from inspection
 
@@ -86,5 +86,5 @@ Pub. L. 102–237, title X, §1016(c), Dec. 13, 1991, 105 Stat. 1903, provided t
 
 #### Studies Concerning Grant of Future Exemptions for Poultry and Meat Food Products
 
-Pub. L. 102–237, title X, §1016(d), Dec. 13, 1991, 105 Stat. 1903, directed Secretary of Agriculture in consultation with National Academy of Sciences to conduct a study on meat food and poultry products inspection exemptions under Federal Meat Inspection Act and Poultry Products Inspection Act and a study on an exemption from requirements of such Acts for certain wholesale meat outlets selling to hotels and other similar institutional users not later than 24 months after Dec. 13, 1991, and on completion of each study to provide the results to Committee on Agriculture of House of Representatives and Committee on Agriculture, Nutrition, and Forestry of Senate.
+Pub. L. 102–237, title X, §1016(d), Dec. 13, 1991, 105 Stat. 1903, directed Secretary of Agriculture in consultation with National Academy of Sciences to conduct a study on meat food and poultry products inspection exemptions under Federal Meat Inspection Act andPoultry Products Inspection Act and a study on an exemption from requirements of such Acts for certain wholesale meat outlets selling to hotels and other similar institutional users not later than 24 months after Dec. 13, 1991, and on completion of each study to provide the results to Committee on Agriculture of House of Representatives and Committee on Agriculture, Nutrition, and Forestry of Senate.
 

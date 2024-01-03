@@ -52,7 +52,7 @@ The following shall apply with respect to leave under section 2612(a)(1)(F) of t
 
 &emsp;&emsp;(A) to exclude certain health care providers and emergency responders from the definition of eligible employee under subsection (a)(1)(A);
 
-&emsp;&emsp;(B) to exempt small businesses with fewer than 50 employees from the requirements of section 2612(a)(1)(F) of this title when the imposition of such requirements would jeopardize the viability of the business as a going concern; and
+&emsp;&emsp;(B) to exempt small businesses with fewer than 50 employees from the requirements ofsection 2612(a)(1)(F) of this title when the imposition of such requirements would jeopardize the viability of the business as a going concern; and
 
 &emsp;&emsp;(C) as necessary to carry out the purposes of this Act, including to ensure consistency between this Act and Division E and Division G of the Families First Coronavirus Response Act.
 
@@ -138,7 +138,7 @@ In any case where the necessity for leave under section 2612(a)(1)(F) of this ti
 
 #### References in Text
 
-The Congressional Accountability Act of 1995, referred to in subsec. (a)(1)(A)(ii), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to chapter 24 (§1301 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note under section 1301 of Title 2 and Tables.
+The Congressional Accountability Act of 1995, referred to in subsec. (a)(1)(A)(ii), is Pub. L. 104–1, Jan. 23,1995, 109 Stat. 3, which is classified principally to chapter 24 (§1301 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note under section 1301 of Title 2 and Tables.
 
 This Act, referred to in subsec. (a)(3)(C), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, known as the Family and Medical Leave Act of 1993, which enacted this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
@@ -186,7 +186,7 @@ Pub. L. 116–127, div. C, §3104, Mar. 18, 2020, 134 Stat. 192, as amended by P
 
 #### Special Rule for Health Care Providers and Emergency Responders
 
-Pub. L. 116–127, div. C, §3105, Mar. 18, 2020, 134 Stat. 192, provided that: "An employer of an employee who isa health care provider or an emergency responder may elect to exclude such employee from the application of the provisions in the amendments made under of \[sic\] section 3102 of this Act \[div. C of Pub. L. 116–127, enacting this section and amending section 2612 of this title\]."
+Pub. L. 116–127, div. C, §3105, Mar. 18, 2020, 134 Stat. 192, provided that: "An employer of an employee who is a health care provider or an emergency responder may elect to exclude such employee from the application of the provisions in the amendments made under of \[sic\] section 3102 of this Act \[div. C of Pub. L. 116–127, enacting this section and amending section 2612 of this title\]."
 
 <i><sup>1</sup></i><i> So in original. Two cls. (ii) have been enacted.</i>
 

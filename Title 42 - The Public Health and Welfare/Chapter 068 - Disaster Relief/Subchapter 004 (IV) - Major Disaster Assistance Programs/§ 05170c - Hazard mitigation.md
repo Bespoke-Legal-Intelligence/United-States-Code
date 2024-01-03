@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster, or any area affected by a fire for which assistance was provided under section 5187 of this title. Such measures shall be identified following the evaluation of natural hazards under section 5165 of this title and shall be subject to approval by the President. Subject to section 5165 of this title, the total of contributions under this section for a major disaster or event under section 5187 of this title shall not exceed15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000 of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster or event under section 5187 of this title.
+The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster, or any area affected by a fire for which assistance was provided under section 5187 of this title. Such measures shall be identified following the evaluation of natural hazards under section 5165 of this title and shall be subject to approval by the President. Subject to section 5165 of this title, the total of contributions under this section for a major disaster or event under section 5187 of this title shall not exceed 15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000 of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster or event under section 5187 of this title.
 
 #### (b) Property acquisition and relocation assistance
 
@@ -130,7 +130,7 @@ Recipients of hazard mitigation assistance provided under this section and secti
 
 &emsp;(3) improvements to seismometers, Global Positioning System receivers, and associated infrastructure in support of building a capability for earthquake early warning.
 
-(Pub. L. 93–288, title IV, §404, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4698; amended Pub. L. 103–181, §§2(a), 3, Dec. 3, 1993, 107 Stat. 2054; Pub. L. 106–390, title I, §104(c)(1), title II, §204, Oct. 30, 2000, 114 Stat. 1559, 1561; Pub. L. 108–7, div. K, title IV, §417, Feb. 20, 2003, 117 Stat. 525; Pub. L. 109–295, title VI, §684, Oct. 4, 2006, 120 Stat. 1447; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 113–2, div. B, §1104(a), (b), Jan. 29, 2013, 127 Stat. 43; Pub. L. 115–254, div. D, §§1204(b)(1), 1205, 1233, 1235(a), Oct. 5, 2018, 132 Stat. 3439, 3460, 3463; Pub. L. 117–58, div. D, title I, §40102, Nov. 15, 2021, 135 Stat. 928.)
+(Pub. L. 93–288, title IV, §404, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4698; amended Pub. L. 103–181, §§2(a), 3, Dec. 3,1993, 107 Stat. 2054; Pub. L. 106–390, title I, §104(c)(1), title II, §204, Oct. 30, 2000, 114 Stat. 1559, 1561; Pub. L. 108–7, div. K, title IV, §417, Feb. 20, 2003, 117 Stat. 525; Pub. L. 109–295, title VI, §684, Oct. 4, 2006, 120 Stat. 1447; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 113–2, div. B, §1104(a), (b), Jan. 29, 2013, 127 Stat. 43; Pub. L. 115–254, div. D, §§1204(b)(1), 1205, 1233, 1235(a), Oct. 5, 2018, 132 Stat. 3439, 3460, 3463; Pub. L. 117–58, div. D, title I, §40102, Nov. 15, 2021, 135 Stat. 928.)
 
 #### <b>Editorial Notes</b>
 
@@ -196,7 +196,7 @@ Pub. L. 103–181, §2(b), Dec. 3, 1993, 107 Stat. 2054, provided that: "The ame
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto,to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Hazard Eligibility and Local Projects
 
@@ -258,7 +258,7 @@ In general.—An entity seeking assistance under a hazard mitigation assistance 
 
 &emsp;"(2)
 
-Costs incurred.—An entity seeking assistance under a hazard mitigation assistance program shallbe responsible for any project costs incurred by the entity for a covered project if the covered project is not awarded, or is determined to be ineligible for, assistance.
+Costs incurred.—An entity seeking assistance under a hazard mitigation assistance program shall be responsible for any project costs incurred by the entity for a covered project if the covered project is not awarded, or is determined to be ineligible for, assistance.
 
 "(c)
 

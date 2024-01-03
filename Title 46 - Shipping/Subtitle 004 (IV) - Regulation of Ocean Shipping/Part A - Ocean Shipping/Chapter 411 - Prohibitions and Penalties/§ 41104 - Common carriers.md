@@ -162,7 +162,7 @@ Pub. L. 117–146, §7(c), (d), June 16, 2022, 136 Stat. 1276, provided that:
 
 "(c)
 
-Rulemaking on Unfair or Unjustly Discriminatory Methods.—Not later than 60 days after the date of enactment of this Act \[June 16, 2022\], the Federal Maritime Commission shall initiate a rulemaking defining unfair or unjustly discriminatory methods undersection 41104(a)(3) of title 46, United States Code, as amended by this section. The Federal Maritime Commission shall issue a final rule not later than 1 year after the date of enactment of this Act.
+Rulemaking on Unfair or Unjustly Discriminatory Methods.—Not later than 60 days after the date of enactment of this Act \[June 16, 2022\], the Federal Maritime Commission shall initiate a rulemaking defining unfair or unjustly discriminatory methods under section 41104(a)(3) of title 46, United States Code, as amended by this section. The Federal Maritime Commission shall issue a final rule not later than 1 year after the date of enactment of this Act.
 
 "(d)
 

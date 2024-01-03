@@ -44,7 +44,7 @@ Sept. 27, 1950, ch. 1053, §2, 64 Stat. 1067; July 12, 1955, ch. 337, §§2, 4, 
 
 In subsections (a) and (b), the words "retirement pay" are omitted as covered by the words "retired pay".
 
-In subsection (a), the words "Except as provided by subsection (b)" are inserted for clarity. The words "who performs duty for which he is entitled to compensation, may elect to receive for that duty" are substituted for the words "may elect, with reference to periods of active duty, active duty for training, drill, training, instruction, or other duty for which they may be entitled to receive compensation pursuant to any provisions of law". The words "Notwithstanding the provisions of any other law", in 10 App.:369b, and "or relinquish" are omitted as surplusage.
+In subsection (a), the words "Except as provided by subsection (b)" are inserted for clarity. The words "who performs duty for which he is entitled to compensation, may elect to receive for that duty" are substituted for the words "may elect, with reference to periods of active duty, active duty for training, drill, training, instruction, or other duty for which they may be entitled to receive compensation pursuant to any provisions of law". The words "Notwithstanding theprovisions of any other law", in 10 App.:369b, and "or relinquish" are omitted as surplusage.
 
 Subsection (a)(1) is substituted for clause (2) of 10 App.:369b, and clause (2) of 34 App.:853e–1.
 
@@ -66,7 +66,7 @@ Subsec. (a)(1), (2). Pub. L. 116–283, §621(a)(2), added pars. (1) and (2) and
 
 Subsec. (b). Pub. L. 116–283, §621(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 116–283, §621(b)(1), (c), redesignated subsec. (b) as (c) and substituted "(a)(1) or (b)(2),as applicable," for "(a)(2)" in two places, "a Reserve's earlier military service are greater" for "his earlier military service are greater", "the Reserve's earlier military service" for "his earlier military service" in two places, "the Reserve is entitled" for "he is entitled", and "the Reserve or the Reserve's dependents" for "the member or his dependents".
+Subsec. (c). Pub. L. 116–283, §621(b)(1), (c), redesignated subsec. (b) as (c) and substituted "(a)(1) or (b)(2), as applicable," for "(a)(2)" in two places, "a Reserve's earlier military service are greater" for "his earlier military service are greater", "the Reserve's earlier military service" for "his earlier military service" in two places, "the Reserve is entitled" for "he is entitled", and "the Reserve or the Reserve's dependents" for "the member or his dependents".
 
 Subsec. (d). Pub. L. 116–283, §621(d), added subsec. (d).
 

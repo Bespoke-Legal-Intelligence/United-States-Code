@@ -18,7 +18,7 @@ Commingled Items Purchased by Contractors.—Notwithstanding section 3451(1) of 
 
 #### Codification
 
-Section 1821(a)(1), (2) of Pub. L. 116–260 transferred chapter 140 of this title (§§2375 to 2380b) to this chapter and renumbered all the sections within it, except for final section 2380b. At that point, the last two sections of this chapter were this section (renumbered from section 2380a) followed by section 2380b. Section 1821(b)(7)(A) subsequently struck out "the heading of the final section of" this chapter, which was executed by incorporating the text of former section 2380b at the end of this section. The text of section 2380b of this title was based on Pub. L. 114–328, div. A, title VIII, §877(a), Dec. 23, 2016, 130 Stat. 2311; Pub. L. 115–232, div. A, title VIII, §836(d)(7), (8)(G), Aug. 13, 2018, 132 Stat. 1868, 1869; Pub. L. 116–92, div. A, title XVII, §1731(a)(47), Dec. 20, 2019, 133 Stat. 1815.
+Section 1821(a)(1), (2) of Pub. L. 116–260 transferred chapter 140 of this title (§§2375 to 2380b) to this chapterand renumbered all the sections within it, except for final section 2380b. At that point, the last two sections of this chapter were this section (renumbered from section 2380a) followed by section 2380b. Section 1821(b)(7)(A) subsequently struck out "the heading of the final section of" this chapter, which was executed by incorporating the text of former section 2380b at the end of this section. The text of section 2380b of this title was based on Pub. L. 114–328, div. A, title VIII, §877(a), Dec. 23, 2016, 130 Stat. 2311; Pub. L. 115–232, div. A, title VIII, §836(d)(7), (8)(G), Aug. 13, 2018, 132 Stat. 1868, 1869; Pub. L. 116–92, div. A, title XVII, §1731(a)(47), Dec. 20, 2019, 133 Stat. 1815.
 
 #### Prior Provisions
 

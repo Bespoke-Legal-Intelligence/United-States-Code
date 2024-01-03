@@ -32,5 +32,5 @@ Each report submitted under subsection (b) shall include information related to�
 
 #### Definitions
 
-For definition of "congressional intelligence committees", referred to in text, see section 2 of div. N of Pub.L. 115–31, set out as a note under section 3003 of this title.
+For definition of "congressional intelligence committees", referred to in text, see section 2 of div. N of Pub. L. 115–31, set out as a note under section 3003 of this title.
 

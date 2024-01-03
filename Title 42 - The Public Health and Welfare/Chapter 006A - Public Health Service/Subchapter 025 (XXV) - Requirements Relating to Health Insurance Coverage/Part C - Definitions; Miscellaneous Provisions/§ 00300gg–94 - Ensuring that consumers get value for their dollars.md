@@ -64,7 +64,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Beginning during the first fiscal year that begins after December 29, 2022, the Secretary shall, out of funds made available pursuant to subparagraph (C), award grants to eligible States to enforce and ensure compliance with the mental health and substance use disorder parity provisions of section 300gg–26 of this title.
+&emsp;&emsp;Beginning during the first fiscal year that begins after December 29, 2022, the Secretary shall, out of funds made available pursuant to subparagraph (C), award grants to eligible States to enforce and ensure compliance with the mental health and substance use disorder parity provisions of section 300gg––26 of this title.
 
 #### (B) Eligible State
 

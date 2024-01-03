@@ -86,7 +86,7 @@ Participation by person marrying after retirement, etc.—
 
 &emsp;&emsp;(A)
 
-Election to participate in plan.—A person who is not married and has no dependent child upon becoming eligible to participate in the Plan but who later marries oracquires a dependent child may elect to participate in the Plan.
+Election to participate in plan.—A person who is not married and has no dependent child upon becoming eligible to participate in the Plan but who later marries or acquires a dependent child may elect to participate in the Plan.
 
 &emsp;&emsp;(B)
 
@@ -408,7 +408,7 @@ Surviving spouse annuity.—The Secretary concerned shall pay an annuity under t
 
 &emsp;&emsp;&emsp;(ii) during the 90-day period beginning on the date he receives notification under section 12731(d) of this title that he has completed the years of service required for eligibility for reserve-component retired pay if he had not made an election under subsection (a)(2)(B) to participate in the Plan; or
 
-&emsp;&emsp;(B) is a member of a reserve component not described in subparagraph (A) and dies from an injury or illness incurred or aggravated in the line of duty during inactive-duty training.
+&emsp;&emsp;(B) is a member of a reserve component not described in subparagraph (A) and diesfrom an injury or illness incurred or aggravated in the line of duty during inactive-duty training.
 
 &emsp;(2)
 
@@ -470,7 +470,7 @@ Manner of making election.—An election under paragraph (1) shall be made in su
 
 &emsp;(5)
 
-Disposition of payments.—A payment received under this subsection by the Secretary of Defense shall be deposited into the Department of Defense Military RetirementFund. Any other payment received under this subsection shall be deposited in the Treasury as miscellaneous receipts.
+Disposition of payments.—A payment received under this subsection by the Secretary of Defense shall be deposited into the Department of Defense Military Retirement Fund. Any other payment received under this subsection shall be deposited in the Treasury as miscellaneous receipts.
 
 (Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 707; amended Pub. L. 94–496, §1(2), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §202, Sept. 30, 1978, 92 Stat. 844; Pub. L. 97–252, title X, §1003(b), Sept. 8, 1982, 96 Stat. 735; Pub. L. 97–295, §1(18), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title IX, §941(a)(1), (2), (c)(2), Sept. 24, 1983, 97 Stat. 652, 653; Pub. L. 99–145, title V, §513(b), title VII, §§712(a), 713(a), 715, 716(a), 719(3), (8)(A), 721(a), Nov. 8, 1985, 99 Stat. 628, 670, 671, 673–676; Pub. L. 99–661, div. A, title VI, §§641(b)(1), 642(a), title XIII, §1343(a)(8)(B), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 101–189, div. A, title XIV, §1407(a)(2), (3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 103–337, div. A, title VI, §638, title XVI, §1671(d)(2), Oct. 5, 1994, 108 Stat. 2791, 3015; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2553; Pub. L. 105–85, div. A, title X, §1073(a)(27), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §643(a), Oct. 17, 1998, 112 Stat. 2047; Pub. L. 106–65, div. A, title X, §1066(a)(12), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(a)–(c)(3), title X, §1087(a)(10)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, 1654A–166, 1654A–290; Pub. L. 107–107, div. A, title VI, §642(a), (c)(1), Dec. 28, 2001, 115 Stat. 1151, 1152; Pub. L. 108–136, div. A, title VI, §§644(a), (b), 645(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1517–1519; Pub. L. 108–375, div. A, title X, §1084(d)(10), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 109–364, div. A, title VI, §§643(a), 644(a), title X, §1071(a)(8), Oct. 17, 2006, 120 Stat. 2260, 2261, 2398; Pub. L. 113–291, div. A, title VI, §624(a)(2)(B), Dec. 19, 2014, 128 Stat. 3403; Pub. L. 114–92, div. A, title VI, §641(a), Nov. 25, 2015, 129 Stat. 852; Pub. L. 114–328, div. A, title VI, §642(b), (c), Dec. 23, 2016, 130 Stat. 2165; Pub. L. 116–92, div. A, title VI, §622(d), Dec. 20, 2019, 133 Stat. 1427.)
 
@@ -626,7 +626,7 @@ Subsec. (b). Pub. L. 98–94, §941(a)(2), amended subsec. (b) generally. Prior 
 
 "(1) A person who is not married and does not have a dependent child when he becomes eligible to participate in the Plan may elect to provide an annuity to a natural person with an insurable interest in that person or to provide an annuity to a former spouse.
 
-"(2) A person who is married, or has a dependent child may elect to provide an annuity to a former spouse instead of providing an annuity to a spouse or dependent child if the election is made in order tocarry out the terms of a written agreement entered into voluntarily with the former spouse (without regard to whether such agreement is included in or approved by a court order).
+"(2) A person who is married, or has a dependent child may elect to provide an annuity to a former spouse instead of providing an annuity to a spouse or dependent child if the election is made in order to carry out the terms of a written agreement entered into voluntarily with the former spouse (without regard to whether such agreement is included in or approved by a court order).
 
 "(3) In the case of a person electing to provide an annuity under paragraph (1) or (2) of this subsection by virtue of eligibility under subsection (a)(1)(B), the election shall include a designation under subsection (e).
 
@@ -650,7 +650,7 @@ Subsec. (e). Pub. L. 95–397, §202(c), added subsec. (e).
 
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–92, div. A, title VI, §622(f), Dec. 20, 2019, 133 Stat. 1428, provided that: "This section \[amending this section and sections 1450 and 1451 of this title and enacting provisions set out as notes under this section and section 1450 of this title\] and the amendments made by this section shall take effect on the first day of the first month that begins after the date of the enactment of this Act \[Dec. 20, 2019\], except subsections (d) and (e) of this section \[amending this section and enacting provisions set out as a note below\] and the amendments made thereby shall take effect on January 1, 2023."
+Pub. L. 116–92, div. A, title VI, §622(f), Dec. 20, 2019, 133 Stat. 1428, provided that: "This section \[amendingthis section and sections 1450 and 1451 of this title and enacting provisions set out as notes under this section and section 1450 of this title\] and the amendments made by this section shall take effect on the first day of the first month that begins after the date of the enactment of this Act \[Dec. 20, 2019\], except subsections (d) and (e) of this section \[amending this section and enacting provisions set out as a note below\] and the amendments made thereby shall take effect on January 1, 2023."
 
 #### Effective Date of 2016 Amendment
 
@@ -914,7 +914,7 @@ Persons Not Currently Participating in Survivor Benefit Plan.—
 
 &emsp;"(1)
 
-Election of sbp coverage.—An eligible retired or former member may elect to participate in theSurvivor Benefit Plan during the open enrollment period specified in subsection (f).
+Election of sbp coverage.—An eligible retired or former member may elect to participate in the Survivor Benefit Plan during the open enrollment period specified in subsection (f).
 
 &emsp;"(2)
 
@@ -1050,7 +1050,7 @@ Amount of Annuity.—(1) An annuity under this section shall be paid at the rate
 
 "(c)
 
-Application Required.—No benefit shall be paid to any person under this section unless an application for such benefit is filed with the Secretary concerned by or on behalf of such person.
+Application Required.—No benefit shall be paid to any person under this section unless an applicationfor such benefit is filed with the Secretary concerned by or on behalf of such person.
 
 "(d)
 
@@ -1108,7 +1108,7 @@ Annuity.—(1) The Secretary concerned shall pay an annuity to the qualified sur
 
 Amount of Annuity.—(1) An annuity payable under this section shall be paid at the rate of $165 per month, as adjusted from time to time under subsection (c).
 
-"(2) An annuity paid to a surviving spouse under this section shall be reduced by the amount of dependencyand indemnity compensation (DIC) to which the surviving spouse is entitled under section 1311(a) of title 38, United States Code.
+"(2) An annuity paid to a surviving spouse under this section shall be reduced by the amount of dependency and indemnity compensation (DIC) to which the surviving spouse is entitled under section 1311(a) of title 38, United States Code.
 
 "(c)
 
@@ -1200,7 +1200,7 @@ Pub. L. 96–402, §5, Oct. 9, 1980, 94 Stat. 1707, provided that:
 
 &emsp;"(C) was at the time of his death entitled to retired or retainer pay or would have been entitled to that pay except that he had not applied for or been granted that pay.
 
-"(2) An annuity under paragraph (1) shall be paid under the provisions of subchapter II of chapter 73 of title 10, United States Code, in the same manner as if such member had died on or after September 21, 1972.
+"(2) An annuity under paragraph (1) shall be paid under the provisions of subchapter II of chapter 73 oftitle 10, United States Code, in the same manner as if such member had died on or after September 21, 1972.
 
 "(b)(1) The amount of retired or retainer pay to be used as the basis for the computation of an annuity under subsection (a) is the amount of the retired or retainer pay to which the member would have been entitled if the member had been entitled to that pay based upon his years of active service when he died, adjusted by the overall percentage increase in retired and retainer pay under section 1401a of title 10, United States Code (or any prior comparable provision of law), during the period beginning on the date of the member's death and ending on the day before the effective date of this section.
 
@@ -1214,7 +1214,7 @@ Pub. L. 96–402, §5, Oct. 9, 1980, 94 Stat. 1707, provided that:
 
 &emsp;"(2) The term 'surviving spouse' has the meaning given the terms 'widow' and 'widower' in section 1447 of title 10, United States Code.
 
-&emsp;"(3) The term 'Secretary concerned' has the meaning given such term in section 101(8) of title 10, United States Code, and includes the Secretary of Commerce, with respect to matters concerning the National Oceanic and Atmospheric Administration, and the Secretary of Health and Human Services, with respect to matters concerning the Public Health Service."
+&emsp;"(3) The term 'Secretary concerned' has the meaning given such term in section 101(8) of title 10, United States Code \[now 10 U.S.C. 101(a)(9)\], and includes the Secretary of Commerce, with respect to matters concerning the National Oceanic and Atmospheric Administration, and the Secretary of Health and Human Services, with respect to matters concerning the Public Health Service."
 
 Provision effective Dec. 1, 1980, applicable to annuities payable for months beginning on or after such date, and prohibiting accrual of benefits for any period before Oct. 9, 1980, see section 7 of Pub. L. 96–402, set out as a note under section 1447 of this title.
 
@@ -1236,7 +1236,7 @@ Pub. L. 92–425, §3, Sept. 21, 1972, 86 Stat. 711, as amended by Pub. L. 93–
 
 > A person who elects under clause (2) of this subsection is not entitled to a refund of amounts previously deducted from his retired or retainer pay under chapter 73 of title 10, United States Code \[this chapter\], as in effect on the day before the effective date of this Act \[Sept. 21, 1972\], or any payments made thereunder on his behalf. A person who is not married or does not have a dependent child on the first anniversary of the effective date of this Act \[Sept. 21, 1972\], but who later marries or acquires a dependent child, may elect to participate in the Plan under the fourth sentence of section 1448(a) of that title \[former subsec. (a) of this section\].
 
-"(c) Notwithstanding the provisions of the Survivor Benefit Plan established pursuant to clause (3) of the first section of this Act \[this subchapter\], and except as otherwise provided in this section, subchapter I of chapter 73 of title 10, United States Code \[subchapter I of this chapter\] (other than the last two sentences ofsection 1436(a), section 1443, and section 1444(b)), as in effect on the day before the effective date of this Act \[Sept. 21, 1972\], shall continue to apply in the case of persons, and their beneficiaries, who have elected annuities under section 1431 or 1432 of that title and who have not elected under subsection (b)(2) of this section to participate in that Plan.
+"(c) Notwithstanding the provisions of the Survivor Benefit Plan established pursuant to clause (3) of the first section of this Act \[this subchapter\], and except as otherwise provided in this section, subchapter I of chapter 73 of title 10, United States Code \[subchapter I of this chapter\] (other than the last two sentences of section 1436(a), section 1443, and section 1444(b)), as in effect on the day before the effective date of this Act \[Sept. 21, 1972\], shall continue to apply in the case of persons, and their beneficiaries, who have elected annuities under section 1431 or 1432 of that title and who have not elected under subsection (b)(2) of this section to participate in that Plan.
 
 "(d) In this section, 'base amount' means—
 
@@ -1260,7 +1260,7 @@ Pub. L. 92–425, §4, Sept. 21, 1972, 86 Stat. 712, as amended by Pub. L. 94–
 
 "(a) A person—
 
-&emsp;"(1) who, on September 21, 1972, was, or during the period beginning on September 22, 1972, and ending on March 20, 1974, became, a widow of a person who was entitled to retired or retainer pay when he died;
+&emsp;"(1) who, on September 21, 1972, was, or during the period beginning on September 22, 1972, and ending onMarch 20, 1974, became, a widow of a person who was entitled to retired or retainer pay when he died;
 
 &emsp;"(2) who is eligible for a pension under subchapter III of chapter 15 of title 38, United States Code, or section 306 of the Veterans' and Survivors' Pension Improvement Act of 1978 \[set out as note under section 1521 of Title 38\]; and
 

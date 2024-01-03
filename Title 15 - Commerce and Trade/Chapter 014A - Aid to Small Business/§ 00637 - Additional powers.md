@@ -574,7 +574,7 @@ Notice.—
 
 &emsp;&emsp;(i)
 
-In general.—A prime contractor for a covered contract shall notify in writing the contracting officer for the covered contract if the prime contractor pays a reduced price to a subcontractor for goods and services upon completion of the responsibilities of the subcontractor or the payment to a subcontractor is more than 90 days past due for goods or services provided for the covered contract for which the Federal agency has paid the prime contractor.
+In general.—A prime contractor for a covered contract shall notify in writing the contracting officer for the covered contract if the prime contractor pays a reduced price to a subcontractor for goods and services upon completion of the responsibilities of the subcontractor or the payment to a subcontractor is more than 30 days past due for goods or services provided for the covered contract for which the Federal agency has paid the prime contractor.
 
 &emsp;&emsp;(ii)
 
@@ -582,13 +582,31 @@ Contents.—A prime contractor shall include the reason for the reduction in a p
 
 &emsp;(C)
 
-Performance.—A contracting officer for a covered contract shall consider the unjustified failure by a prime contractor to make a full or timely payment to a subcontractor in evaluating the performance of the prime contractor.
+Performance.—A contracting officer for a covered contract—
+
+&emsp;&emsp;(i) shall consider the unjustified failure by a prime contractor to make a full or timely payment to a subcontractor in evaluating the performance of the prime contractor; and
+
+&emsp;&emsp;(ii) may enter or modify past performance information of the prime contractor in connection with the unjustified failure to make a full or timely payment to a subcontractor subject to this paragraph before or after close-out of the covered contract.
 
 &emsp;(D)
 
-Control of funds.—If the contracting officer for a covered contract determines that a prime contractor has a history of unjustified, untimely payments to contractors, the contracting officer shall record the identity of the contractor in accordance with the regulations promulgated under subparagraph (E).
+Control of funds.—If the contracting officer for a covered contract determines that a prime contractor has a history of unjustified, untimely payments to contractors, thecontracting officer shall record the identity of the contractor in accordance with the regulations promulgated under subparagraph (F).
 
-&emsp;(E) Regulations.—Not later than 1 year after September 27, 2010, the Federal Acquisition Regulatory Council established under section 1302(a) of title 41 shall amend the Federal Acquisition Regulation issued under section 1303(a) of title 41 to—
+&emsp;(E)
+
+Cooperation.—
+
+&emsp;&emsp;(i)
+
+In general.—Once a contracting officer determines, with respect to the past performance of a prime contractor, that there was an unjustified failure by the prime contractor on a covered contract to make a full or timely payment to a subcontractor covered by subparagraph (B) or (C), the prime contractor is required to cooperate with the contracting officer, who shall consult with the Director of Small Business Programs or the Director of Small and Disadvantaged Business Utilization acting pursuant to section 644(k)(6) of this title and other representatives of the Government, regarding correcting and mitigating the unjustified failure to make a full or timely payment to a subcontractor.
+
+&emsp;&emsp;(ii)
+
+Duration.—The duty of cooperation under this subparagraph for a prime contractor described in clause (i) continues until the subcontractor is made whole or the determination of the contracting officer determination is no longer effective, and regardless of performance or close-out status of the covered contract.
+
+&emsp;(F)
+
+Regulations.—Not later than 1 year after September 27, 2010, the Federal Acquisition Regulatory Council established under section 1302(a) of title 41 shall amend the Federal Acquisition Regulation issued under section 1303(a) of title 41 to—
 
 &emsp;&emsp;(i) describe the circumstances under which a contractor may be determined to have a history of unjustified, untimely payments to subcontractors;
 
@@ -810,7 +828,7 @@ For purposes of this section, the term "executive agency" has the meaning provid
 
 #### (3) Waiver
 
-&emsp;With respect to a small business concern owned and controlled by women, the Administrator may waive subparagraph (2)(A) if theAdministrator determines that the concern is in an industry in which small business concerns owned and controlled by women are substantially underrepresented.
+&emsp;With respect to a small business concern owned and controlled by women, the Administrator may waive subparagraph (2)(A) if the Administrator determines that the concern is in an industry in which small business concerns owned and controlled by women are substantially underrepresented.
 
 #### (4) Identification of industries
 
@@ -886,9 +904,9 @@ For purposes of this section, the term "executive agency" has the meaning provid
 
 #### (3) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out this subsection $6,600,000, to remainavailable until expended, for each of fiscal years 2001 through 2006.
+&emsp;There is authorized to be appropriated to carry out this subsection $6,600,000, to remain available until expended, for each of fiscal years 2001 through 2006.
 
-(Pub. L. 85–536, §2\[8\], July 18, 1958, 72 Stat. 389; Pub. L. 87–305, §§7, 8, Sept. 26, 1961, 75 Stat. 667, 668; Pub. L. 88–560, title III, §305(c), Sept. 2, 1964, 78 Stat. 786; Pub. L. 89–754, title X, §1017, Nov. 3, 1966, 80 Stat. 1295; Pub. L. 90–104, title I, §§105–107, Oct. 11, 1967, 81 Stat. 268, 269; Pub. L. 91–375, §6(g), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–89, title V, §501, Aug. 4, 1977, 91 Stat. 561; Pub. L. 95–507, title II, §§202(a), 211, Oct. 24, 1978, 92 Stat. 1761, 1767; Pub. L. 95–510, §101, Oct. 24, 1978, 92 Stat. 1780; Pub. L. 96–302, title I, §118(b), July 2, 1980, 94 Stat. 840; Pub. L. 96–481, title I, §§101, 105, Oct. 21, 1980, 94 Stat. 2321, 2322; Pub. L. 98–47, §§1(a), 2, 3, July 13, 1983, 97 Stat. 243; Pub. L. 98–72, §1(a), Aug. 11, 1983, 97 Stat. 403; Pub. L. 98–362, §5(a), July 16, 1984, 98 Stat. 433; Pub. L. 98–577, title IV, §§401, 402, 404(a), Oct. 30, 1984, 98 Stat. 3079, 3082; Pub. L. 99–272, title XVIII, §18015(b)–(d), Apr. 7, 1986, 100 Stat. 370, 371; Pub. L. 99–500, §101(c) \[title X, §§921(b)(2), (c)(1), 922(a), (d)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–147, 1783–151, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §§921(b)(2), (c)(1), 922(a), (d)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–147, 3341–151, 3341–152; Pub. L. 99–567, §§1(a), 2, 3, Oct. 27, 1986, 100 Stat. 3188; Pub. L. 99–661, div. A, title IX, formerly title IV, §§921(b)(2), (c)(1), 922(a), (d)(1), Nov. 14, 1986, 100 Stat. 3927, 3930, 3932, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(3), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–533, title II, §§201, 202, Oct. 25, 1988, 102 Stat. 2690, 2692; Pub. L. 100–590, title I, §§127(a), (b), 131(b), Nov. 3, 1988, 102 Stat. 3001, 3003, 3004; Pub. L. 100–656, title II, §§201(b), 207(a), (c), 209, title III, §§303(b)–(e), (g), (h), 304(a), title IV, §§402–404, 407, 409, title V, §501, Nov. 15, 1988, 102 Stat. 3858, 3861, 3863, 3869, 3870, 3872–3874, 3876, 3878, 3880; Pub. L. 101–37, §§6(b), (d), 7(b), 10(c), (e), 12–14, 16, 17, June 15, 1989, 103 Stat. 72–74; Pub. L. 101–162, title V, (3), Nov. 21, 1989, 103 Stat. 1025; Pub. L. 101–510, div. A, title VIII, §806(e)(2), Nov. 5, 1990, 104 Stat. 1593; Pub. L. 101–574, title II, §§204(b), 207, 210, 244, Nov. 15, 1990, 104 Stat. 2819–2821, 2827; Pub. L. 102–190, div. A, title VIII, §814(c), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–191, §3, Dec. 5, 1991, 105 Stat. 1591; Pub. L. 102–366, title II, §232(a), Sept. 4, 1992, 106 Stat. 1001; Pub. L. 102–564, title III, §§303(a), 304, Oct. 28, 1992, 106 Stat. 4262; Pub. L. 103–355, title I, §1055(b)(2), title IV, §§4202(d), 4404(b), title VII, §7106(b), Oct. 13, 1994, 108 Stat. 3265, 3345, 3349, 3375; Pub. L. 103–403, title IV, §§401(a)(1), 407, 415, Oct. 22, 1994, 108 Stat. 4190, 4192, 4198; Pub. L. 104–106, div. D, title XLIII, §4321(c)(1), (2), Feb. 10, 1996, 110 Stat. 674; Pub. L. 105–85, div. A, title VIII, §850(e)(1), Nov. 18, 1997, 111 Stat. 1848; Pub. L. 105–135, title IV, §§415, 416(a), (c), title VI, §603(a), title VII, §708, Dec. 2, 1997, 111 Stat. 2619, 2620, 2631, 2637; Pub. L. 106–50, title III, §303(a), title V, §501, Aug. 17, 1999, 113 Stat. 243, 247; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–209; Pub. L. 106–554, §1(a)(8) \[§2\], §1(a)(9) \[title V, §504(a), title VI, §615(b), title VIII, §§803, 807, 809, 811\], Dec. 21, 2000, 114 Stat. 2763, 2763A–666, 2763A–695, 2763A–701, 2763A–702, 2763A–706, 2763A–708; Pub. L. 108–447, div. K, title I, §§132(b), (c), 141(a), 144, Dec. 8, 2004, 118 Stat. 3453, 3455; Pub. L. 111–240, title I, §§1322, 1334, Sept. 27, 2010, 124 Stat. 2540, 2542; Pub. L. 112–239, div. A, title XVI, §§1653(a), 1654, 1696(b)(2), 1697(a), Jan. 2, 2013, 126 Stat. 2081, 2083, 2091; Pub. L. 113–66, div. A, title XVI, §1614(a), Dec. 26, 2013, 127 Stat. 948; Pub. L. 113–291, div. A, title VIII, §825(a), Dec. 19, 2014, 128 Stat. 3437; Pub. L. 114–92, div. A, title VIII, §864(a), Nov. 25, 2015, 129 Stat. 927; Pub. L. 114–328, div. A, title XVIII, §§1821(a), 1822, 1832(c), Dec. 23, 2016, 130 Stat. 2654, 2660; Pub. L. 115–91, div. A, title XVII, §§1701(a)(4)(C), 1706, Dec. 12, 2017, 131 Stat. 1796, 1808; Pub. L. 116–92, div. A, title VIII, §§870, 877(d), Dec. 20, 2019, 133 Stat. 1524, 1530; Pub. L. 116–283, div. A, title VIII, §§864(1), 868(b), Jan. 1, 2021, 134 Stat. 3784, 3787; Pub. L. 117–81, div. A, title XVII, §1702(e)(2), Dec. 27, 2021, 135 Stat. 2156; Pub. L. 117–263, div. A, title VIII, §856(e)(2), Dec. 23, 2022, 136 Stat. 2726.)
+(Pub. L. 85–536, §2\[8\], July 18, 1958, 72 Stat. 389; Pub. L. 87–305, §§7, 8, Sept. 26, 1961, 75 Stat. 667, 668; Pub. L. 88–560, title III, §305(c), Sept. 2, 1964, 78 Stat. 786; Pub. L. 89–754, title X, §1017, Nov. 3, 1966, 80 Stat. 1295; Pub. L. 90–104, title I, §§105–107, Oct. 11, 1967, 81 Stat. 268, 269; Pub. L. 91–375, §6(g), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–89, title V, §501, Aug. 4, 1977, 91 Stat. 561; Pub. L. 95–507, title II, §§202(a), 211, Oct. 24, 1978, 92 Stat. 1761, 1767; Pub. L. 95–510, §101, Oct. 24, 1978, 92 Stat. 1780; Pub. L. 96–302, title I, §118(b), July 2, 1980, 94 Stat. 840; Pub. L. 96–481, title I, §§101, 105, Oct. 21, 1980, 94 Stat. 2321, 2322; Pub. L. 98–47, §§1(a), 2, 3, July 13, 1983, 97 Stat. 243; Pub. L. 98–72, §1(a), Aug. 11, 1983, 97 Stat. 403; Pub. L. 98–362, §5(a), July 16, 1984, 98 Stat. 433; Pub. L. 98–577, title IV, §§401, 402, 404(a), Oct. 30, 1984, 98 Stat. 3079, 3082; Pub. L. 99–272, title XVIII, §18015(b)–(d), Apr. 7, 1986, 100 Stat. 370, 371; Pub. L. 99–500, §101(c) \[title X, §§921(b)(2), (c)(1), 922(a), (d)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–147, 1783–151, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §§921(b)(2), (c)(1), 922(a), (d)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–147, 3341–151, 3341–152; Pub. L. 99–567, §§1(a), 2, 3, Oct. 27, 1986, 100 Stat. 3188; Pub. L. 99–661, div. A, title IX, formerly title IV, §§921(b)(2), (c)(1), 922(a), (d)(1), Nov. 14, 1986, 100 Stat. 3927, 3930, 3932, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(3), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–533, title II, §§201, 202, Oct. 25, 1988, 102 Stat. 2690, 2692; Pub. L. 100–590, title I, §§127(a), (b), 131(b), Nov. 3, 1988, 102 Stat. 3001, 3003, 3004; Pub. L. 100–656, title II, §§201(b), 207(a), (c), 209, title III, §§303(b)–(e), (g), (h), 304(a), title IV, §§402–404, 407, 409, title V, §501, Nov. 15, 1988, 102 Stat. 3858, 3861, 3863, 3869, 3870, 3872–3874, 3876, 3878, 3880; Pub. L. 101–37, §§6(b), (d), 7(b), 10(c), (e), 12–14, 16, 17, June 15, 1989, 103 Stat. 72–74; Pub. L. 101–162, title V, (3), Nov. 21, 1989, 103 Stat. 1025; Pub. L. 101–510, div. A, title VIII, §806(e)(2), Nov. 5, 1990, 104 Stat. 1593; Pub. L. 101–574, title II, §§204(b), 207, 210, 244, Nov. 15, 1990, 104 Stat. 2819–2821, 2827; Pub. L. 102–190, div. A, title VIII, §814(c), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–191, §3, Dec. 5, 1991, 105 Stat. 1591; Pub. L. 102–366, title II, §232(a), Sept. 4, 1992, 106 Stat. 1001; Pub. L. 102–564, title III, §§303(a), 304, Oct. 28, 1992, 106 Stat. 4262; Pub. L. 103–355, title I, §1055(b)(2), title IV, §§4202(d), 4404(b), title VII, §7106(b), Oct. 13, 1994, 108 Stat. 3265, 3345, 3349, 3375; Pub. L. 103–403, title IV, §§401(a)(1), 407, 415, Oct. 22, 1994, 108 Stat. 4190, 4192, 4198; Pub. L. 104–106, div. D, title XLIII, §4321(c)(1), (2), Feb. 10, 1996, 110 Stat. 674; Pub. L. 105–85, div. A, title VIII, §850(e)(1), Nov. 18, 1997, 111 Stat. 1848; Pub. L. 105–135, title IV, §§415, 416(a), (c), title VI, §603(a), title VII, §708, Dec. 2, 1997, 111 Stat. 2619, 2620, 2631, 2637; Pub. L. 106–50, title III, §303(a), title V, §501, Aug. 17, 1999, 113 Stat. 243, 247; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–209; Pub. L. 106–554, §1(a)(8) \[§2\], §1(a)(9) \[title V, §504(a), title VI, §615(b), title VIII, §§803, 807, 809, 811\], Dec. 21, 2000, 114 Stat. 2763, 2763A–666, 2763A–695, 2763A–701, 2763A–702, 2763A–706, 2763A–708; Pub. L. 108–447, div. K, title I, §§132(b), (c), 141(a), 144, Dec. 8, 2004, 118 Stat. 3453, 3455; Pub. L. 111–240, title I, §§1322, 1334, Sept. 27, 2010, 124 Stat. 2540, 2542; Pub. L. 112–239, div. A, title XVI, §§1653(a), 1654, 1696(b)(2), 1697(a), Jan. 2, 2013, 126 Stat. 2081, 2083, 2091; Pub. L. 113–66, div. A, title XVI, §1614(a), Dec. 26, 2013, 127 Stat. 948; Pub. L. 113–291, div. A, title VIII, §825(a), Dec. 19, 2014, 128 Stat. 3437; Pub. L. 114–92, div. A, title VIII, §864(a), Nov. 25, 2015, 129 Stat. 927; Pub. L. 114–328, div. A, title XVIII, §§1821(a), 1822, 1832(c), Dec. 23, 2016, 130 Stat. 2654, 2660; Pub. L. 115–91, div. A, title XVII, §§1701(a)(4)(C), 1706, Dec. 12, 2017, 131 Stat. 1796, 1808; Pub. L. 116–92, div. A, title VIII, §§870, 877(d), Dec. 20, 2019, 133 Stat. 1524, 1530; Pub. L. 116–283, div. A, title VIII, §§864(1), 868(b), Jan. 1, 2021, 134 Stat. 3784, 3787; Pub. L. 117–81, div. A, title XVII, §1702(e)(2), Dec. 27, 2021, 135 Stat. 2156; Pub. L. 117–263, div. A, title VIII, §856(e)(2), Dec. 23, 2022, 136 Stat. 2726; Pub. L. 118–31, div. A, title VIII, §862(a), Dec. 22, 2023, 137 Stat. 346.)
 
 #### <b>Editorial Notes</b>
 
@@ -896,7 +914,7 @@ For purposes of this section, the term "executive agency" has the meaning provid
 
 The Small Business Investment Act of 1958, referred to in subsecs. (a)(2)(C), (21)(D), and (b)(13), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of this title. Title IV of the Small Business Investment Act of 1958 is classified generally to subchapter IV–A (§692 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (a)(13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (a)(13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33\(§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 Section 35(a) of title 41, referred to in subsecs. (a)(17)(B)(iii) and (b)(7)(B), was struck out and former section 35(b) of Title 41, Public Contracts, redesignated section 35(a) by Pub. L. 103–355, title VII, §7201(1), Oct. 13, 1994, 108 Stat. 3378. Section 35 of title 41 was subsequently repealed and restated as sections 6501(1) and 6502 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 6510 of Title 41 now provides for determination of "regular dealer" by Secretary of Labor. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
@@ -910,7 +928,7 @@ Sections 3, 8, and 31 of the Small Business Act, referred to in subsec. (d)(3)(C
 
 The General Schedule, referred to in subsec. (h)(1)(A)(ii), is set out under section 5332 of Title 5.
 
-Section 414 of title 41, referred to in subsec. (h)(1)(A)(iii), was amended generally by Pub. L. 108–136,div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, the substance of par. (3) was restated in subsec. (c)(1) of section 414. Section 414(c) of title 41 was subsequently repealed and restated as section 1702(c) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+Section 414 of title 41, referred to in subsec. (h)(1)(A)(iii), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, the substance of par. (3) was restated in subsec. (c)(1) of section 414. Section 414(c) of title 41 was subsequently repealed and restated as section 1702(c) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 #### Codification
 
@@ -940,6 +958,14 @@ Prior similar provisions were contained in sections 207(b)(2), (b)(4), 208, 210,
 
 #### Amendments
 
+<b>2023</b>—Subsec. (d)(13)(B)(i). Pub. L. 118–31, §862(a)(1), substituted "30 days" for "90 days".
+
+Subsec. (d)(13)(C). Pub. L. 118–31, §862(a)(2), inserted dash after "contract" and cl. (i) designation before "shall" and added cl. (ii).
+
+Subsec. (d)(13)(D). Pub. L. 118–31, §862(a)(3), substituted "subparagraph (F)" for "subparagraph (E)".
+
+Subsec. (d)(13)(E), (F). Pub. L. 118–31, §862(a)(4), (5), added subpar. (E) and redesignated former subpar. (E) as (F).
+
 <b>2022</b>—Subsec. (d)(12). Pub. L. 117–263 substituted "the Mentor-Protege Program established under section 4902 of title 10" for "the pilot Mentor-Protege Program established pursuant to section 831 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 2301 note)" and "subsection (f)" for "subsection (g)".
 
 <b>2021</b>—Subsec. (a)(1)(D)(i)(II). Pub. L. 116–283, §864(1)(A), substituted "$7,000,000" for "$5,000,000".
@@ -950,7 +976,7 @@ Subsec. (g)(2). Pub. L. 117–81, §1702(e)(2)(A), substituted "section 3204(a)"
 
 Subsec. (h)(1)(B). Pub. L. 117–81, §1702(e)(2)(B)(i), substituted "sections 3201 through 3205" for "chapter 137".
 
-Subsec. (h)(2). Pub. L. 117–81, §1702(e)(2)(B)(ii), substituted "paragraphs (3) and (4) of section 3204(e)" for "section 2304(f)(2)" and "section 3204(e)(1)" for "section 2304(f)(1)".
+Subsec. (h)(2). Pub. L. 117–81, §1702(e)(2)(B)(ii), substituted "paragraphs (3) and (4) of section 3204(e)" for"section 2304(f)(2)" and "section 3204(e)(1)" for "section 2304(f)(1)".
 
 Subsec. (m)(7)(B)(i). Pub. L. 116–283, §864(1)(B)(i), substituted "$7,000,000" for "$6,500,000".
 
@@ -1278,7 +1304,7 @@ Subsec. (b)(16). Pub. L. 100–533, §202, and Pub. L. 100–590, §127(b), made
 
 Subsec. (c). Pub. L. 100–590, §127(a), amended subsec. (c) generally, inserting provisions substantially identical to provisions contained in prior general amendment by Pub. L. 100–533, §201.
 
-Pub. L. 100–533, §201, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Administration shall from time to time make studiesof matters materially affecting the competitive strength of small business, and of the effect on small business of Federal laws, programs, and regulations, and shall make recommendations to the appropriate Federal agency or agencies for the adjustment of such programs and regulations to the needs of small business."
+Pub. L. 100–533, §201, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Administration shall from time to time make studies of matters materially affecting the competitive strength of small business, and of the effect on small business of Federal laws, programs, and regulations, and shall make recommendations to the appropriate Federal agency or agencies for the adjustment of such programs and regulations to the needs of small business."
 
 Subsec. (d)(4)(F). Pub. L. 100–656, §304(a), added subpar. (F).
 
@@ -1336,7 +1362,7 @@ Subsec. (b)(1). Pub. L. 95–510 substituted in subpar. (B) provisions relating 
 
 Subsec. (d). Pub. L. 95–507, §211, substituted provisions relating to the performance of contracts by small business concerns, requiring, among other things, the inclusion of a specific contract clause in most Federal prime contracts, requiring as a condition of the solicitation of any offer of a Federal contract in excess of $500,000, the submission of a summary contract plan, and relating to incentives for small business subcontracting, contract eligibility, breach of contract or subcontract, administrative review of contract solicitation and subcontract planning, and relating to submission to congressional committees of a report on subcontracting plans for provisions relating generally to the small business subcontract program and regulations issued thereunder.
 
-<b>1977</b>—Subsec. (b)(7). Pub. L. 95–89, in revising par. (7), incorporated existing introductory text in provisions designated subpar. (A) and substituted "with respect to all elements of responsibility, including, but not limited to, capability, competency, capacity, credit, integrity, perseverance, and tenacity, of any small business concern or group of such concerns to receive and perform a specific Government contract" for "with respect to the competency, as to capacity and credit, of any small-business concern or group of such concerns to perform a specific Government contract"; added subpar. (B); and incorporated existing end text in provisions designated subpar. (C), substituting therein "certified by the Administration pursuant to (A) or (B) to be a responsible or eligible Government contractor as to a specific Government contract" for "certified by or under the authority of the Administration to be a competent Government contractor with respect to capacity and credit as to a specific Government contract" and "shall let" and "other requirement of responsibility or eligibility" for "are authorized to let" and "other requirement with respect to capacity and credit".
+<b>1977</b>—Subsec. (b)(7). Pub. L. 95–89, in revising par. (7), incorporated existing introductory text in provisions designated subpar. (A) and substituted "with respect to all elements of responsibility, including, but not limited to, capability, competency, capacity, credit, integrity, perseverance, and tenacity, of any small business concern or group of such concerns to receive and perform a specific Government contract" for "with respect to the competency, as to capacity and credit, of any small-business concern or group of such concerns to perform a specific Government contract"; added subpar. (B); and incorporated existing end text in provisions designated subpar. (C), substituting therein "certified by the Administration pursuant to (A) or (B) to be a responsible or eligible Government contractor as to a specific Government contract" for "certified by orunder the authority of the Administration to be a competent Government contractor with respect to capacity and credit as to a specific Government contract" and "shall let" and "other requirement of responsibility or eligibility" for "are authorized to let" and "other requirement with respect to capacity and credit".
 
 <b>1970</b>—Subsec. (b)(15). Pub. L. 91–375 substituted "section 3204 of title 39" for "section 4154 of title 39".
 
@@ -1370,7 +1396,7 @@ Amendment by section 132(b) of Pub. L. 108–447 repealed Oct. 1, 2006, see sect
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–210, provided that: "The amendments made by this section \[amending this section and sections 416 and 426 of Title 41, Public Contracts\] shall take effect on October 1, 2000. The amendments made by subsections (a), (b), and (c) \[amendingthis section and section 416 of Title 41\] shall apply with respect to solicitations issued on or after that date."
+Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–210, provided that: "The amendments made by this section \[amending this section and sections 416 and 426 of Title 41, Public Contracts\] shall take effect on October 1, 2000. The amendments made by subsections (a), (b), and (c) \[amending this section and section 416 of Title 41\] shall apply with respect to solicitations issued on or after that date."
 
 #### Effective Date of 1997 Amendments
 
@@ -1426,7 +1452,7 @@ Effective date.—Paragraph (1) shall take effect on September 30, 2003."
 
 \[Repeal by section 401(a) of Pub. L. 103–403, set out as a note above, effective Sept. 30, 1997, was not executed to reflect the probable intent of Congress and subsequent amendment by Pub. L. 105–135, changing the effective date to Sept. 30, 2000. Similarly, repeal effective Sept. 30, 2000, was not executed because of subsequent amendment by Pub. L. 106–554, changing the effective date to Sept. 30, 2003.\]
 
-Amendment by section 5(a)(1), (2) of Pub. L. 98–362 effective Oct. 1, 1984, and amendment by section 5(a)(2) of Pub. L. 98–362 repealed Oct. 1, 1994, see section 7 of Pub. L. 98–362, as amended, set out as a note under section 633 of this title.
+Amendment by section 5(a)(1), (2) of Pub. L. 98–362 effective Oct. 1, 1984, and amendment by section 5(a)(2) of Pub. L. 98–362 repealed Oct. 1, 1994, see section 7 of Pub.L. 98–362, as amended, set out as a note under section 633 of this title.
 
 Pub. L. 98–577, title IV, §404(b), Oct. 30, 1984, 98 Stat. 3084, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect with respect to any solicitation for bids or proposals issued after March 31, 1985."
 
@@ -1454,9 +1480,11 @@ For effective date of amendment by Pub. L. 91–375, see section 15(a) of Pub. L
 
 #### Regulations
 
+Pub. L. 118–31, div. A, title VIII, §862(b), Dec. 22, 2023, 137 Stat. 347, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Administrator shall submit to the Federal Acquisition Regulatory Council proposed revisions to regulations that the Administrator determines necessary to carry out the amendments made by this section \[amending this section\]."
+
 Pub. L. 116–283, div. A, title VIII, §868(c), Jan. 1, 2021, 134 Stat. 3787, provided that: "Not later than 120 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Administrator of the Small Business Administration shall issue rules to carry out this section \[amending this section and section 644 of this title\] and the amendments made by this section."
 
-Pub. L. 108–447, div. K, title I, §141(b), Dec. 8, 2004, 118 Stat. 3454, provided that: "The Administration shall, not later than 180 days after the date of enactment ofthis Act \[Dec. 8, 2004\], promulgate regulations to carry out the amendments made by subsection (a) \[amending this section\]."
+Pub. L. 108–447, div. K, title I, §141(b), Dec. 8, 2004, 118 Stat. 3454, provided that: "The Administration shall, not later than 180 days after the date of enactment of this Act \[Dec. 8, 2004\], promulgate regulations to carry out the amendments made by subsection (a) \[amending this section\]."
 
 Pub. L. 106–50, §303(c), Aug. 17, 1999, 113 Stat. 243, provided that: "Not later than 30 days after the date of the enactment of this section \[Aug. 17, 1999\], the Administrator of the Small Business Administration shall issue such guidelines as the Administrator determines to be necessary to carry out this section \[amending this section and enacting provisions set out as a note under this section\] and the amendment made by this section."
 
@@ -1494,7 +1522,7 @@ Pub. L. 114–328, div. A, title XVIII, §1821(c), Dec. 23, 2016, 130 Stat. 2654
 
 #### Subcontracting Misrepresentations
 
-Pub. L. 111–240, title I, §1321, Sept. 27, 2010, 124 Stat. 2540, provided that: "Not later than 1 year after the date of enactment of this Act \[Sept. 27, 2010\], the Administrator, in consultation with the Administrator for Federal Procurement Policy, shall promulgate regulations relating to, and the Federal Acquisition Regulatory Council established under section 25(a) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 421(a)) \[now 41 U.S.C. 1302(a)\] shall amend the Federal Acquisition Regulation issued under section 25 of such Act \[see 41 U.S.C. 1303(a)\] to establish a policy on, subcontracting compliance relating to small business concerns, including assignment of compliance responsibilities between contracting offices, small business offices, and program offices and periodic oversight and review activities."
+Pub. L. 111–240, title I, §1321, Sept. 27, 2010, 124 Stat. 2540, provided that: "Not later than 1 year after the date of enactment of this Act \[Sept. 27, 2010\], the Administrator, in consultation with the Administrator for Federal Procurement Policy, shall promulgate regulations relating to, and the Federal Acquisition Regulatory Council established under section 25(a) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 421(a)) \[now 41 U.S.C. 1302(a)\] shall amend theFederal Acquisition Regulation issued under section 25 of such Act \[see 41 U.S.C. 1303(a)\] to establish a policy on, subcontracting compliance relating to small business concerns, including assignment of compliance responsibilities between contracting offices, small business offices, and program offices and periodic oversight and review activities."
 
 \[For definitions of "Administrator" and "small business concern" as used in section 1321 of Pub. L. 111–240, set out above, see section 1001 of Pub. L. 111–240, set out as a note under section 632 of this title.\]
 
@@ -1544,7 +1572,7 @@ Limitation.—Subsection (a)(1) shall apply in a fiscal year if, for that fiscal
 
 #### Enhanced Publicity During Operation Allied Force
 
-Pub. L. 106–50, §303(b), Aug. 17, 1999, 113 Stat. 243, provided that: "For the duration of Operation Allied Forceand for 120 days thereafter, the Administration shall enhance its publicity of the availability of assistance provided pursuant to the amendment made by this section \[amending this section\], including information regarding the appropriate local office at which affected small businesses may seek such assistance."
+Pub. L. 106–50, §303(b), Aug. 17, 1999, 113 Stat. 243, provided that: "For the duration of Operation Allied Force and for 120 days thereafter, the Administration shall enhance its publicity of the availability of assistance provided pursuant to the amendment made by this section \[amending this section\], including information regarding the appropriate local office at which affected small businesses may seek such assistance."
 
 #### Federal Acquisition Regulation
 
@@ -1612,7 +1640,7 @@ Test Program.—(1) The Secretary of Defense shall establish a test program unde
 
 "(b)
 
-Comprehensive Small Business Subcontracting Plan.—(1) In a demonstration project underthe test program, the Secretary of a military department or head of a Defense Agency shall negotiate, monitor, and enforce compliance with a comprehensive subcontracting plan with a Department of Defense contractor described in paragraph (4).
+Comprehensive Small Business Subcontracting Plan.—(1) In a demonstration project under the test program, the Secretary of a military department or head of a Defense Agency shall negotiate, monitor, and enforce compliance with a comprehensive subcontracting plan with a Department of Defense contractor described in paragraph (4).
 
 "(2) The comprehensive subcontracting plan of a contractor—
 
@@ -1772,7 +1800,7 @@ Pub. L. 99–567, §1(b), Oct. 27, 1986, 100 Stat. 3188, provided that: "The des
 
 #### Report to Congress Respecting Assistance Furnished by Profitmaking Concerns to Small Business Concerns; Contents
 
-Pub. L. 98–362, §5(b), July 16, 1984, 98 Stat. 434, directed Small Business Administration, not later thanDec. 1, 1987, to report to Committees on Small Business of Senate and House of Representatives on impact of assistance provided in cooperation with profitmaking concerns pursuant to amendment made by section 5(a)(2) of the Small Business Computer Security and Education Act of 1984 \[amending this section\], including information on benefits provided to small business concerns assisted by Administration's cooperation with profitmaking concerns and any negative impact upon small businesses resulting from such cooperation with profitmaking concerns.
+Pub. L. 98–362, §5(b), July 16, 1984, 98 Stat. 434, directed Small Business Administration, not later than Dec. 1, 1987, to report to Committees on Small Business of Senate and House of Representatives on impact of assistance provided in cooperation with profitmaking concerns pursuant to amendment made by section 5(a)(2) of the Small Business Computer Security and Education Act of 1984 \[amending this section\], including information on benefits provided to small business concerns assisted by Administration's cooperation with profitmaking concerns and any negative impact upon small businesses resulting from such cooperation with profitmaking concerns.
 
 #### Tennessee Valley Authority; Procurement Procedures Under 1983 and 1984 Amendments Applicable Only to Procurements Paid From Appropriated Funds
 
@@ -1798,7 +1826,7 @@ Advisory boards and committees in existence on Jan. 5, 1973, to terminate not la
 
 #### Definition
 
-Pub. L. 100–590, title I, §127(d), Nov. 3, 1988, 102 Stat. 3003, provided that: "For the purposes of this section \[amending this section and enacting provisions set out as notes under this section\], the term 'small business concern owned and controlled by women' means any small business concern—
+Pub. L. 100–590, title I, §127(d), Nov. 3, 1988, 102 Stat. 3003, provided that: "For the purposes of this section\[amending this section and enacting provisions set out as notes under this section\], the term 'small business concern owned and controlled by women' means any small business concern—
 
 &emsp;"(1) that is at least 51 per centum owned by one or more women; and
 

@@ -24,7 +24,7 @@
 
 (3)(A) Except as provided in subparagraph (B), the aggregate reduction in the rate of duty on any article which is in effect on any day pursuant to a trade agreement entered into under paragraph (1) shall not exceed the aggregate reduction which would have been in effect on such day if a reduction of 3 percent ad valorem or a reduction of one-tenth of the total reduction, whichever is greater, had taken effect on the effective date of the first reduction proclaimed in paragraph (1) to carry out such agreement with respect to such article.
 
-(B) No staging under subparagraph (A) is required with respect to a rate reduction that is proclaimed under paragraph (1) for an article of a kind that is not produced in the United States.The United States International Trade Commission shall advise the President of the identity of articles that may be exempted from staging under this subparagraph.
+(B) No staging under subparagraph (A) is required with respect to a rate reduction that is proclaimed under paragraph (1) for an article of a kind that is not produced in the United States. The United States International Trade Commission shall advise the President of the identity of articles that may be exempted from staging under this subparagraph.
 
 (4) If the President determines that such action will simplify the computation of reductions under paragraph (3), the President may round an annual reduction by the lesser of—
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;(A) in applying subsection (a)(1)(A) of section 2903 of this title to any such agreement, the phrase "at least 120 calendar days before the day on which he enters into the trade agreement (but not later than December 15, 1993)," shall be substituted for the phrase "at least 90 calendar days before the day on which he enters into the trade agreement,"; and
 
-&emsp;&emsp;(B) no provision of subsection (b) of section 2903 of this title other than paragraph (1)(A) applies to any such agreement and in applying such paragraph, "April 16, 1994;" shall be substituted for "June 1, 1991;".
+&emsp;&emsp;(B) no provision of subsection (b) of section 2903 of this title other than paragraph (1)(A) applies to any such agreement and inapplying such paragraph, "April 16, 1994;" shall be substituted for "June 1, 1991;".
 
 #### (4) Advisory committee reports
 

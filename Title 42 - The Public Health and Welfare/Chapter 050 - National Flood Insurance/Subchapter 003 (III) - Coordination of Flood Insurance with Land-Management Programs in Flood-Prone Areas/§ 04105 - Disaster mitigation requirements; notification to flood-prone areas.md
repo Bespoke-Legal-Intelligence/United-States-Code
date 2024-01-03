@@ -14,7 +14,7 @@ As information becomes available to the Administrator concerning the existence o
 
 #### (d) Provisions of section 4106 applicable to flood-prone communities disqualified for flood insurance program
 
-Formally identified flood-prone communities that do not qualify for the national flood insurance program within one year after such notification or by the date specified in section 4106 of this title, whichever is later, shall thereafter be subject to the provisions of that section relating to flood-prone communities which are not participating in the program.
+Formally identified flood-prone communities that do not qualify for the national flood insurance program within one year after such notification or by the date specified in section 4106 of this title, whichever is later, shall thereafter be subject to the provisions of that section relatingto flood-prone communities which are not participating in the program.
 
 #### (e) Administrative procedures; establishment; reimbursement of certain expenses; appropriation authorization
 

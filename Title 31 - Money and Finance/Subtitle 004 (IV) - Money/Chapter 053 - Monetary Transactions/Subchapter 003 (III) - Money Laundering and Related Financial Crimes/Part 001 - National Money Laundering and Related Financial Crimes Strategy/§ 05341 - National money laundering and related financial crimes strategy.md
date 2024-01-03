@@ -28,7 +28,7 @@ Goals, objectives, and priorities.—Comprehensive, research-based goals, object
 
 Prevention.—Coordination of regulatory and other efforts to prevent the exploitation of financial systems in the United States for money laundering and related financial crimes, including a requirement that the Secretary shall—
 
-&emsp;&emsp;(A) regularly review enforcement efforts under this subchapter and other provisionsof law and, when appropriate, modify existing regulations or prescribe new regulations for purposes of preventing such criminal activity; and
+&emsp;&emsp;(A) regularly review enforcement efforts under this subchapter and other provisions of law and, when appropriate, modify existing regulations or prescribe new regulations for purposes of preventing such criminal activity; and
 
 &emsp;&emsp;(B) coordinate prevention efforts and other enforcement action with the Board of Governors of the Federal Reserve System, the Securities and Exchange Commission, the Federal Trade Commission, other Federal banking agencies, the National Credit Union Administration Board, and such other Federal agencies as the Secretary, in consultation with the Attorney General, determines to be appropriate.
 

@@ -18,6 +18,36 @@ Another prior chapter 361, consisting of sections 3811 to 3820 relating to separ
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Modification of Contracts and Options To Provide Economic Price Adjustments
+
+Pub. L. 118–31, div. A, title VIII, §826, Dec. 22, 2023, 137 Stat. 335, provided that:
+
+"(a)
+
+Authority.—Amounts authorized to be appropriated by this Act \[see Tables for classification\] for the Department of Defense may be used to modify the terms and conditions of a contract or option to provide an economic price adjustment consistent with sections 16.203–1 and 16.203–2 of the Federal Acquisition Regulation during the relevant period of performance for that contract or option and as specified in section 16.203–3 of the Federal Acquisition Regulation, to the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes of this section.
+
+"(b)
+
+Guidance.—Not later than 30 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Under Secretary of Defense for Acquisition and Sustainment shall issue guidance implementing the authority under this section."
+
+#### Modifications to Earned Value Management System Requirements
+
+Pub. L. 118–31, div. A, title VIII, §827, Dec. 22, 2023, 137 Stat. 335, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Department of Defense Supplement to the Federal Acquisition Regulation shall be revised to—
+
+&emsp;"(1) exempt all software contracts and subcontracts of the Department of Defense from earned value management system requirements;
+
+&emsp;"(2) impose earned value management system requirements for cost contracts or incentive contracts with a value greater than or equal to $20,000,000 and less than $50,000,000; and
+
+&emsp;"(3) require a defense contractor to use an earned value management system for contracts awarded with a value greater than or equal to $50,000,000 and less than $100,000,000.
+
+"(b)
+
+Implementation.—If the Department of Defense Supplement to the Federal Acquisition Regulation is not revised as described in subsection (a) before the deadline specified in such subsection, the Under Secretary of Defense for Acquisition and Sustainment shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the timeline for such revisions."
+
 #### Contract Closeout Authority
 
 Pub. L. 114–328, div. A, title VIII, §836, Dec. 23, 2016, 130 Stat. 2285, as amended by Pub. L. 115–91, div. A, title VIII, §824, Dec. 12, 2017, 131 Stat. 1465; Pub. L. 116–283, div. A, title VIII, §820, Jan. 1, 2021, 134 Stat. 3752, provided that:
@@ -46,7 +76,7 @@ Covered Contracts.—This section covers any contract or group of contracts betw
 
 &emsp;&emsp;"(A) the records have been destroyed or lost; or
 
-&emsp;&emsp;"(B) the records are available but the Secretary of Defense has determined that the time or effortrequired to determine the exact amount owed to the United States Government or amount owed to the contractor is disproportionate to the amount at issue.
+&emsp;&emsp;"(B) the records are available but the Secretary of Defense has determined that the time or effort required to determine the exact amount owed to the United States Government or amount owed to the contractor is disproportionate to the amount at issue.
 
 "(c)
 
@@ -116,7 +146,7 @@ Pub. L. 111–84, div. A, title VIII, §823, Oct. 28, 2009, 123 Stat. 2412, as a
 
 "(a)
 
-Authority To Reduce or Deny Award Fees.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall revise the guidance issued pursuant to section 814 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 129 \[120\] Stat. 2321) \[set out below\] to ensure that all covered contracts using award fees—
+Authority To Reduce or Deny Award Fees.—Not later than 180 days after the date of the enactmentof this Act \[Oct. 28, 2009\], the Secretary of Defense shall revise the guidance issued pursuant to section 814 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 129 \[120\] Stat. 2321) \[set out below\] to ensure that all covered contracts using award fees—
 
 &emsp;"(1) provide for the consideration of any incident described in subsection (b) in evaluations of contractor performance for the relevant award fee period; and
 
@@ -144,7 +174,7 @@ List of Dispositions in Criminal, Civil, or Administrative Proceedings.—For pu
 
 &emsp;&emsp;"(B) the payment of a reimbursement, restitution, or damages in excess of $100,000.
 
-&emsp;"(4) To the maximum extent practicable and consistent with applicable laws and regulations, in acriminal, civil, or administrative proceeding, a disposition of the matter by consent or compromise with an acknowledgment of fault by the person if the proceeding could have led to any of the outcomes specified in paragraph (1), (2), or (3).
+&emsp;"(4) To the maximum extent practicable and consistent with applicable laws and regulations, in a criminal, civil, or administrative proceeding, a disposition of the matter by consent or compromise with an acknowledgment of fault by the person if the proceeding could have led to any of the outcomes specified in paragraph (1), (2), or (3).
 
 &emsp;"(5) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to subsection (d).
 
@@ -250,7 +280,7 @@ Report.—The Secretary shall submit to the congressional defense committees \[C
 
 #### Payment Protections for Subcontractors and Suppliers
 
-Pub. L. 102–190, div. A, title VIII, §806, Dec. 5, 1991, 105 Stat. 1417, as amended by Pub. L. 102–484, div. A, title X, §1053(5), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–355, title II, §2091, title VIII, §8105(k), Oct. 13, 1994, 108 Stat. 3306, 3393; Pub. L. 113–291, div. A, title X, §1071(b)(15), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–232, div. A, titleVIII, §836(f)(1), Aug. 13, 2018, 132 Stat. 1870, provided that:
+Pub. L. 102–190, div. A, title VIII, §806, Dec. 5, 1991, 105 Stat. 1417, as amended by Pub. L. 102–484, div. A, title X, §1053(5), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–355, title II, §2091, title VIII, §8105(k), Oct. 13, 1994, 108 Stat. 3306, 3393; Pub. L. 113–291, div. A, title X, §1071(b)(15), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–232, div. A, title VIII, §836(f)(1), Aug. 13, 2018, 132 Stat. 1870, provided that:
 
 "(a)
 
@@ -386,7 +416,7 @@ GAO Report.—(1) The Comptroller General of the United States shall conduct an 
 
 "(f)
 
-Inspector General Report.—(1) The Inspector General of the Department of Defense shall submit to the Secretary of Defense a report on payment protections for subcontractors and suppliers under contracts entered into with the Department of Defense. The report shall include an assessment of the extent to which available judicial and administrative remedies, as well as suspension and debarment procedures, have been used (or recommended for use) by officials of the Department to deter false statements relating to (A) payment bonds provided by individuals pursuant to the Miller Act, and (B) certifications pertaining to payment requests by construction contractors pursuant to section 3903(b) of title 31, United States Code. The assessment shall cover actions taken during the period beginning on October 1, 1989, and ending on September 30, 1992.
+Inspector General Report.—(1) The Inspector General of the Department of Defense shall submit to the Secretary of Defense a report on payment protections for subcontractors and suppliers under contracts entered into with the Department of Defense. The report shall include an assessment of the extent to whichavailable judicial and administrative remedies, as well as suspension and debarment procedures, have been used (or recommended for use) by officials of the Department to deter false statements relating to (A) payment bonds provided by individuals pursuant to the Miller Act, and (B) certifications pertaining to payment requests by construction contractors pursuant to section 3903(b) of title 31, United States Code. The assessment shall cover actions taken during the period beginning on October 1, 1989, and ending on September 30, 1992.
 
 "(2) The report required by paragraph (1) shall be submitted to the Secretary of Defense not later than March 1, 1993. The report may include recommendations by the Inspector General on ways to improve the effectiveness of existing methods of preventing false statements.
 

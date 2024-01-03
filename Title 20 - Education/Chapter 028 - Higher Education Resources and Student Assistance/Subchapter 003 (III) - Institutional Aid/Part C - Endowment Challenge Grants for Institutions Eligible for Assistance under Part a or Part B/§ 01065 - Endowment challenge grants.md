@@ -98,7 +98,7 @@ Any institution which is eligible for assistance under this section may submit t
 
 #### (h) Termination and recovery provisions
 
-(1) After notice and an opportunity for a hearing, the Secretary may terminate and recover a grant awarded under this section if the grantee institution—
+(1) After notice and an opportunity for a hearing, the Secretary may terminate and recover agrant awarded under this section if the grantee institution—
 
 &emsp;(A) expends portions of the endowment fund corpus or expends more than the permissible amount of the endowment funds income as prescribed in subsection (c)(3);
 

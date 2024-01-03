@@ -54,7 +54,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–334 substituted "2023" for "2018".
 
-<b>2014</b>—Subsec. (d). Pub. L. 113–79 amended subsec. (d) generally. Prior to amendment, text read as follows:"There are authorized to be appropriated for each fiscal year $20,000,000 to carry out this section through the National Institute of Food and Agriculture."
+<b>2014</b>—Subsec. (d). Pub. L. 113–79 amended subsec. (d) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated for each fiscal year $20,000,000 to carry out this section through the National Institute of Food and Agriculture."
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–246, §7511(c)(16), substituted "National Institute of Food and Agriculture" for "Extension Service".
 

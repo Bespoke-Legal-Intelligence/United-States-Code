@@ -102,7 +102,7 @@ Under regulations prescribed by the Secretary—
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Such term shall not include a transaction which primarily involves the expansion of manufacturing capacity for legacy semiconductors (as defined in section 9902(a)(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021).
+&emsp;&emsp;&emsp;Such term shall not include a transaction which primarily involves the expansion of manufacturing capacity for legacysemiconductors (as defined in section 9902(a)(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021).
 
 #### (E) Applicable taxpayer
 
@@ -136,7 +136,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (3) Property used by certain tax-exempt organization
 
-&emsp;No credit shall be determined under this subpart with respect to any property used by an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter unless such property is used predominantly in an unrelated trade or business the income of which is subject to tax under section 511. If the property is debt-financed property (as defined in section 514(b)), the amount taken into account for purposes of determining the amount of the credit under this subpart with respect to such property shall be that percentage of the amount (which but for this paragraph would be so taken into account) which is the same percentage as is used under section 514(a), for the year the property is placed in service, in computing the amount of gross income to be taken into account during such taxable year with respect to such property. If any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, thisparagraph shall not apply for purposes of determining the amount of the rehabilitation credit.
+&emsp;No credit shall be determined under this subpart with respect to any property used by an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter unless such property is used predominantly in an unrelated trade or business the income of which is subject to tax under section 511. If the property is debt-financed property (as defined in section 514(b)), the amount taken into account for purposes of determining the amount of the credit under this subpart with respect to such property shall be that percentage of the amount (which but for this paragraph would be so taken into account) which is the same percentage as is used under section 514(a), for the year the property is placed in service, in computing the amount of gross income to be taken into account during such taxable year with respect to such property. If any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, this paragraph shall not apply for purposes of determining the amount of the rehabilitation credit.
 
 #### (4) Property used by governmental units or foreign persons or entities
 
@@ -312,7 +312,7 @@ Amendment by section 13702(b)(3), (4) of Pub. L. 117–169 applicable to propert
 
 Amendment by section 13801(c) of Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 13801(g) of Pub. L. 117–169, set out as an Effective Date note under section 6417 of this title.
 
-Amendment by Pub. L. 117–167 applicable to property placed in service after Dec. 31, 2022, and, for any property the construction of which begins prior to Jan. 1, 2023, only to the extent of the basis thereof attributableto the construction, reconstruction, or erection after Aug. 9, 2022, see section 107(f) of Pub. L. 117–167, set out as a note under section 905 of Title 2, The Congress.
+Amendment by Pub. L. 117–167 applicable to property placed in service after Dec. 31, 2022, and, for any property the construction of which begins prior to Jan. 1, 2023, only to the extent of the basis thereof attributable to the construction, reconstruction, or erection after Aug. 9, 2022, see section 107(f) of Pub. L. 117–167, set out as a note under section 905 of Title 2, The Congress.
 
 #### Effective Date of 2004 Amendment
 

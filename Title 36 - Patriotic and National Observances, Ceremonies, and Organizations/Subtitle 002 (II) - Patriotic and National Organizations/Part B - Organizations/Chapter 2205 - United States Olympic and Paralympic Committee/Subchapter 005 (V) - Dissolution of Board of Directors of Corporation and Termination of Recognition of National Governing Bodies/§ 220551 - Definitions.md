@@ -12,7 +12,7 @@ In this subchapter, the term "joint resolution" means a joint resolution—
 
 &emsp;&emsp;&emsp;(I) is as follows: "That Congress finds that dissolving the board of directors of the United States Olympic and Paralympic Committee would not unduly interfere with the operations of chapter 2205 of title 36, United States Code"; and
 
-&emsp;&emsp;&emsp;(II) prescribes adequate procedures for forming a board of directors of the corporation as expeditiously as possible and in a manner that safeguards the membership and voting power of the representatives of amateur athletes at all times, consistent with the membership and voting power of amateur athletes under section 220504(b)(2); or
+&emsp;&emsp;&emsp;(II) prescribes adequate procedures for forming a board of directors of the corporation as expeditiously as possible and in a manner that safeguards the membership and voting power of the representatives of amateur athletes at all times, consistent with the membership and votingpower of amateur athletes under section 220504(b)(2); or
 
 &emsp;&emsp;(B)(i) the title is only as follows: "A joint resolution relating to terminating the recognition of a national governing body"; and
 

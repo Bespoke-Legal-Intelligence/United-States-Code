@@ -28,7 +28,7 @@ In consultation with the Commercial Operations Advisory Committee, the Secretary
 
 The Secretary, acting through the Commissioner, shall—
 
-&emsp;(1) develop a staffing plan to recruit and train staff (including a formalized trainingprogram) to meet the objectives identified in the strategic plan of the C–TPAT program; and
+&emsp;(1) develop a staffing plan to recruit and train staff (including a formalized training program) to meet the objectives identified in the strategic plan of the C–TPAT program; and
 
 &emsp;(2) provide cross-training in postincident trade resumption for personnel who administer the C–TPAT program.
 

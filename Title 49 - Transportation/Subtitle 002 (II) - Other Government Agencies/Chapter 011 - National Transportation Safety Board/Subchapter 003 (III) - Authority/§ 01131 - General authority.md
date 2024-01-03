@@ -48,7 +48,7 @@ Accidents Not Involving Government Misfeasance or Nonfeasance.—(1) When asked 
 
 (d)
 
-Accidents Involving Public Aircraft.—The Board, in furtherance of its investigative duties with respect to public aircraft accidentsunder subsection (a)(1)(A) of this section, shall have the same duties and powers as are specified for civil aircraft accidents under sections 1132(a), 1132(b), and 1134(a), (b), (d), and (f) of this title.
+Accidents Involving Public Aircraft.—The Board, in furtherance of its investigative duties with respect to public aircraft accidents under subsection (a)(1)(A) of this section, shall have the same duties and powers as are specified for civil aircraft accidents under sections 1132(a), 1132(b), and 1134(a), (b), (d), and (f) of this title.
 
 (e)
 
@@ -178,7 +178,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Revision of 1977 Agreement
 
-Pub. L. 108–168, §3(b), Dec. 6, 2003, 117 Stat. 2033, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 6, 2003\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account theamendments made by this section \[amending section 1136 of this title\] and shall submit a copy of the revised agreement to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate."
+Pub. L. 108–168, §3(b), Dec. 6, 2003, 117 Stat. 2033, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 6, 2003\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account the amendments made by this section \[amending section 1136 of this title\] and shall submit a copy of the revised agreement to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate."
 
 Pub. L. 106–424, §6(b), Nov. 1, 2000, 114 Stat. 1886, provided that: "Not later than 1 year after the date of the enactment of this Act \[Nov. 1, 2000\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account the amendments made by this Act \[see Short Title of 2000 Amendment note set out under section 1101 of this title\]."
 

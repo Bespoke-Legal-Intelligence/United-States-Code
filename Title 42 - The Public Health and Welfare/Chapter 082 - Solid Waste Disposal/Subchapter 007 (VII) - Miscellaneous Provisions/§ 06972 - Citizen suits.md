@@ -52,7 +52,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 > In the case of an administrative order referred to in clause (iv), actions under subsection (a)(1)(B) are prohibited only as to the scope and duration of the administrative order referred to in clause (iv).
 
-(C) No action may be commenced under subsection (a)(1)(B) of this section if the State, in order to restrain or abate acts or conditions which may have contributed or are contributing to the activities which may present the alleged endangerment—
+(C) No action may be commenced under subsection (a)(1)(B) of this section if the State, inorder to restrain or abate acts or conditions which may have contributed or are contributing to the activities which may present the alleged endangerment—
 
 &emsp;(i) has commenced and is diligently prosecuting an action under subsection (a)(1)(B);
 

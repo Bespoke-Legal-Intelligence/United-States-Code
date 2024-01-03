@@ -22,9 +22,9 @@ In general.—There shall be available from the Mass Transit Account of the High
 
 Allocation of funds.—Of the amounts made available under paragraph (1)—
 
-&emsp;&emsp;(A) $184,647,343 for fiscal year 2022, $188,504,820 for fiscal year 2023, $193,426,906 forfiscal year 2024, $197,422,644 for fiscal year 2025, and $202,441,512 for fiscal year 2026 shall be available to carry out section 5305;
+&emsp;&emsp;(A) $184,647,343 for fiscal year 2022, $188,504,820 for fiscal year 2023, $193,426,906 for fiscal year 2024, $197,422,644 for fiscal year 2025, and $202,441,512 for fiscal year 2026 shall be available to carry out section 5305;
 
-&emsp;&emsp;(B) $13,157,184 for fiscal year 2022, $13,432,051 for fiscal year 2023, $13,782,778 for fiscal year 2024, $14,067,497 for fiscal year 2025, and $14,425,121 for fiscal year 2026 shall be available to carry out section 20005(b) of the Federal Public Transportation Act of 2012 (49 U.S.C. 5303 note; Public Law 112–141);
+&emsp;&emsp;(B) $13,157,184 for fiscal year 2022, $13,432,051 for fiscal year 2023, $13,782,778 for fiscal year 2024, $14,067,497 for fiscal year2025, and $14,425,121 for fiscal year 2026 shall be available to carry out section 20005(b) of the Federal Public Transportation Act of 2012 (49 U.S.C. 5303 note; Public Law 112–141);
 
 &emsp;&emsp;(C) $6,408,288,249 for fiscal year 2022, $6,542,164,133 for fiscal year 2023, $6,712,987,840 for fiscal year 2024, $6,851,662,142 for fiscal year 2025, and $7,025,844,743 for fiscal year 2026 shall be allocated in accordance with section 5336 to provide financial assistance for urbanized areas under section 5307;
 
@@ -78,7 +78,7 @@ In general.—Of the amounts made available to carry out this chapter for a fisc
 
 &emsp;&emsp;(C) 1 percent of amounts made available to carry out section 5309.
 
-&emsp;&emsp;(D) 1 percent of amounts made available to carry out section 601 of the Passenger Rail Investment and Improvement Act of 2008 (Public Law 110–432; 126 Stat. 4968).<sup>1</sup>
+&emsp;&emsp;(D) 1 percent of amounts made available to carry out section 601 of the Passenger RailInvestment and Improvement Act of 2008 (Public Law 110–432; 126 Stat. 4968).<sup>1</sup>
 
 &emsp;&emsp;(E) 0.5 percent of amounts made available to carry out section 5310.
 

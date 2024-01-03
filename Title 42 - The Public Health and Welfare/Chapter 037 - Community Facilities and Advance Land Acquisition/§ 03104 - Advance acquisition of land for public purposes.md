@@ -14,7 +14,7 @@ No grant shall be made under this section unless the Secretary determines that t
 
 #### (d) Diversion of land; repayment; interim use
 
-No land acquired with assistance under this section shall, without approval of the Secretary, be diverted from the purpose originally approved. The Secretary shall approve no such diversion unless he finds that the diversion is in accord with the then applicable comprehensive plan for the area. In cases of a diversion of land to other than a public purpose, the Secretary may require repayment of the grant, or substitution of land of approximately equal fair market value, whichever he deems appropriate. An interim use of the land for a public or private purpose in accordance with standards prescribed by the Secretary, or approved by him, shall not constitute a diversion within the meaning of this subsection.
+No land acquired with assistance under this section shall, without approval of the Secretary, be diverted from the purpose originally approved. The Secretary shall approve no such diversion unless he finds that the diversion is in accord with the then applicable comprehensiveplan for the area. In cases of a diversion of land to other than a public purpose, the Secretary may require repayment of the grant, or substitution of land of approximately equal fair market value, whichever he deems appropriate. An interim use of the land for a public or private purpose in accordance with standards prescribed by the Secretary, or approved by him, shall not constitute a diversion within the meaning of this subsection.
 
 #### (e) Eligibility for other Federal loans or grant programs
 
@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, no project for which land is acquire
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–470 substituted "unless the Secretary determines that due to unusual circumstances a longer period of time is necessary and in the public interest" for "unless the Secretary (1) determines that due to unusual circumstances a longer period of time is necessary and in the public interest, and (2) reports such determination promptly to the Committees on Banking and Currency of the Senate and House of Representatives".
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–448 substituted "to be utilized in the future for public purposes" for "to beutilized in connection with the future construction of public works or facilities".
+<b>1968</b>—Subsec. (a). Pub. L. 90–448 substituted "to be utilized in the future for public purposes" for "to be utilized in connection with the future construction of public works or facilities".
 
 Subsec. (b). Pub. L. 90–448 changed the period from not more than the lesser of (1) five years from the date such loan was made or such financial obligation was incurred, or (2) the period of time between the date such loan was made or such financial obligation was incurred and the date construction is begun on the public work or facility, to not more than the lesser of (1) five years from the date of acquisition of such land, or (2) the period of time between the date on which the land was acquired and the date its use began for the purpose for which it was acquired, and inserted proviso requiring the amount of the grant, where all or any portion of the cost of land is not financed through borrowings, to be computed on the basis of the aggregate amount of reasonable interest charges that the Secretary determines would have been required.
 

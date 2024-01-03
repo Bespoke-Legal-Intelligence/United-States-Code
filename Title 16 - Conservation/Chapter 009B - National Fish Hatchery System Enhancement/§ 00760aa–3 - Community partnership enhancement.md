@@ -16,7 +16,7 @@ Subject to the requirements of the Fish and Wildlife Coordination Act (16 U.S.C.
 
 #### (b) Treasury account
 
-Amounts received by the Secretary of the Interior as a result of projects and programs under subsection (a) shall be deposited in a separate account in the Treasury. Amounts in the account that are attributable to activities at a particular facility of the System shall be available to the Secretary of the Interior, without further appropriation, to pay the costs of incidental expenses related to volunteer activities, and to carry out cooperative agreements for the hatchery facility.
+Amounts received by the Secretary of the Interior as a result of projects and programs under subsection (a) shall be deposited in a separate account in the Treasury. Amounts in the account that are attributable to activities at aparticular facility of the System shall be available to the Secretary of the Interior, without further appropriation, to pay the costs of incidental expenses related to volunteer activities, and to carry out cooperative agreements for the hatchery facility.
 
 (Pub. L. 109–360, §5, Oct. 16, 2006, 120 Stat. 2060.)
 

@@ -124,7 +124,7 @@ The Board shall select each fish habitat conservation project recommended to the
 
 #### (1) In general
 
-&emsp;Not later than 90 days after the date of receipt of the recommended priority list of fishhabitat conservation projects under subsection (b), and subject to subsection (d) and based, to the maximum extent practicable, on the criteria described in subsection (c), the Secretary, after consulting with the Secretary of Commerce on marine or estuarine projects, shall approve or reject any fish habitat conservation project recommended by the Board.
+&emsp;Not later than 90 days after the date of receipt of the recommended priority list of fish habitat conservation projects under subsection (b), and subject to subsection (d) and based, to the maximum extent practicable, on the criteria described in subsection (c), the Secretary, after consulting with the Secretary of Commerce on marine or estuarine projects, shall approve or reject any fish habitat conservation project recommended by the Board.
 
 #### (2) Funding
 

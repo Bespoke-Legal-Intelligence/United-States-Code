@@ -100,7 +100,7 @@ The words "lawful", "at all times and in all places", "except as hereinafter lim
 
 &emsp;&emsp;"(B) is incapable of self-support because of a mental or physical incapacity, and in fact dependent on the member for over one-half of his support; and
 
-&emsp;"(3) his parent (including a stepparent or parent by adoption, and any person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least five years before the member became 21 years of age) who is in fact dependent on the member for over one-half of his support; however, the dependency of such a parent is determined on the basis of an affidavit submitted by the parent, and any other evidence required under regulations prescribed by the Secretary concerned, and he is not considered a dependent of the member claiming the dependence unless—
+&emsp;"(3) his parent (including a stepparent or parent by adoption, and any person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least five years before the member became 21 years of age) who is in fact dependent on the member for over one-halfof his support; however, the dependency of such a parent is determined on the basis of an affidavit submitted by the parent, and any other evidence required under regulations prescribed by the Secretary concerned, and he is not considered a dependent of the member claiming the dependence unless—
 
 &emsp;&emsp;"(A) the member has provided over one-half of his support for the period prescribed by the Secretary concerned; or
 
@@ -114,7 +114,7 @@ The words "lawful", "at all times and in all places", "except as hereinafter lim
 
 Cl. (3). Pub. L. 93–64, §104, in revising cl. (3) of first sentence, substituted "five years before the member became 21 years" for "five years before he became 21 years", struck out requirement of actual residence of parent in the member's household, and inserted provision respecting determination of dependency of parent, including items (A) and (B), formerly contained in former section 2201 of Appendix to Title 50, War and National Defense.
 
-Closing text. Pub. L. 93–64, §103(2), struck out second sentence, following cl. (3) of first sentence, stating that a person is not a dependent of a female member unlesshe is in fact dependent on her for over one-half of his support.
+Closing text. Pub. L. 93–64, §103(2), struck out second sentence, following cl. (3) of first sentence, stating that a person is not a dependent of a female member unless he is in fact dependent on her for over one-half of his support.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

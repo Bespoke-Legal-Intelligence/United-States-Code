@@ -112,7 +112,7 @@ The Secretary shall establish a program of live cattle price information reporti
 
 #### (1) In general
 
-&emsp;The Secretary shall determine whether adequate data can be obtained on a regional basis for fed Holsteins and other fed dairy steers andheifers, cows, and bulls based on the number of packers required to report under this section.
+&emsp;The Secretary shall determine whether adequate data can be obtained on a regional basis for fed Holsteins and other fed dairy steers and heifers, cows, and bulls based on the number of packers required to report under this section.
 
 #### (2) Report
 

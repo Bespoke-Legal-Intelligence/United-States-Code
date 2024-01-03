@@ -68,7 +68,7 @@ On the request of the owner or operator of a source or site included in the Regi
 
 &emsp;&emsp;The Administrator shall—
 
-&emsp;&emsp;&emsp;(i) calculate the total quantities of potentially recoverable waste energy from sources at the sites, nationally and by State; and
+&emsp;&emsp;&emsp;(i) calculate the total quantities of potentially recoverable waste energy fromsources at the sites, nationally and by State; and
 
 &emsp;&emsp;&emsp;(ii) make public—
 

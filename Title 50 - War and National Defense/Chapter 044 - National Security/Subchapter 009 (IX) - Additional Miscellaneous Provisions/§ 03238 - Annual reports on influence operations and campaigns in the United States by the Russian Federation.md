@@ -20,7 +20,7 @@ Each report under subsection (a) shall include the following:
 
 #### (c) Coordination
 
-In carrying out subsection (a), the Director shall coordinate with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of theNational Security Agency, and any other relevant head of an element of the intelligence community.
+In carrying out subsection (a), the Director shall coordinate with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of the National Security Agency, and any other relevant head of an element of the intelligence community.
 
 #### (d) Form
 

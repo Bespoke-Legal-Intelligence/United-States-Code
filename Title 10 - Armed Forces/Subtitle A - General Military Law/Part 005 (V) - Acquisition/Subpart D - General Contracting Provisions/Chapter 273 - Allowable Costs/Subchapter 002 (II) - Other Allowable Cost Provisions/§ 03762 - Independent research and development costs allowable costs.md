@@ -62,7 +62,7 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–190, div. A, title VIII, §802(e), Dec. 5, 1991, 105 Stat. 1414, provided that: "The amendments made by this section \[amending this section and section 4501of this title\] shall take effect on October 1, 1992, and shall apply to independent research and development and bid and proposal costs incurred by a contractor during fiscal years of that contractor that begin on or after that date."
+Pub. L. 102–190, div. A, title VIII, §802(e), Dec. 5, 1991, 105 Stat. 1414, provided that: "The amendments made by this section \[amending this section and section 4501 of this title\] shall take effect on October 1, 1992, and shall apply to independent research and development and bid and proposal costs incurred by a contractor during fiscal years of that contractor that begin on or after that date."
 
 #### Regulations
 

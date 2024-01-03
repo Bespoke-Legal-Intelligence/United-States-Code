@@ -122,7 +122,7 @@ A State desiring to receive a grant under this section shall submit an applicati
 
 &emsp;&emsp;(C) improve assessment delivery systems and schedules, including by increasing access to technology and assessment proctors, where appropriate;
 
-&emsp;&emsp;(D) hire instructional coaches, or promote teachers who may receive increased compensation to serve as instructional coaches, to support teachers in the development of classroom-based assessments, interpreting assessment data, and designing instruction;
+&emsp;&emsp;(D) hire instructional coaches, or promote teachers who may receive increased compensation to serve as instructional coaches, to support teachers in the development ofclassroom-based assessments, interpreting assessment data, and designing instruction;
 
 &emsp;&emsp;(E) provide for appropriate accommodations to maximize inclusion of children with disabilities and English learners participating in assessments; and
 

@@ -8,7 +8,7 @@
 
 #### (2) Priority for occupancy
 
-&emsp;In determining priority for admission to public housing projects (or portions of projects) that are designated for occupancy as provided in paragraph (1), the public housing agency may make units in such projects (or portions) available only to the types of families for whom the project is designated.
+&emsp;In determining priority for admission to public housing projects (or portions ofprojects) that are designated for occupancy as provided in paragraph (1), the public housing agency may make units in such projects (or portions) available only to the types of families for whom the project is designated.
 
 #### (3) Eligibility of near-elderly families
 
@@ -92,7 +92,7 @@ A plan under this subsection for designating a project (or portion of a project)
 
 No tenant of a public housing project shall be considered to be displaced for purposes of the Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970 \[42 U.S.C. 4601 et seq.\] because of the designation of any existing project or building, or portion thereof, for occupancy as provided under subsection (a) of this section.
 
-(Sept. 1, 1937, ch. 896, title I, §7, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 662; amended Pub. L. 95–557, title IV, §412, Oct. 31, 1978, 92 Stat. 2110; Pub. L. 100–242, title I, §112(b)(3), Feb. 5, 1988, 101 Stat. 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; amended Pub. L. 102–550, title VI, §622(a), Oct. 28, 1992, 106 Stat. 3813; Pub. L. 104–99, title IV, §402(d)(6)(A)(ii), Jan. 26, 1996, 110 Stat. 42;Pub. L. 104–120, §10(a), Mar. 28, 1996, 110 Stat. 838; Pub. L. 104–330, title V, §501(b)(4), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §595(d), Oct. 21, 1998, 112 Stat. 2656.)
+(Sept. 1, 1937, ch. 896, title I, §7, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 662; amended Pub. L. 95–557, title IV, §412, Oct. 31, 1978, 92 Stat. 2110; Pub. L. 100–242, title I, §112(b)(3), Feb. 5, 1988, 101 Stat. 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; amended Pub. L. 102–550, title VI, §622(a), Oct. 28, 1992, 106 Stat. 3813; Pub. L. 104–99, title IV, §402(d)(6)(A)(ii), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §10(a), Mar. 28, 1996, 110 Stat. 838; Pub. L. 104–330, title V, §501(b)(4), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §595(d), Oct. 21, 1998, 112 Stat. 2656.)
 
 #### <b>Editorial Notes</b>
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 199
 
 #### Effective Date of 1992 Amendment
 
-Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expiration of 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
+Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expirationof 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
 
 #### Inapplicability of Certain 1992 Amendments to Indian Public Housing
 

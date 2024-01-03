@@ -56,7 +56,7 @@ To receive a payment under this section, an eligible producer shall meet any oth
 
 &emsp;&emsp;(E) $15,000,000 for each of fiscal years 2014 through 2018; and
 
-&emsp;&emsp;(F) $7,000,000 for each of fiscal years 2019 through 2023.
+&emsp;&emsp;(F) $7,000,000 for each of fiscal years 2019 through 2024.
 
 #### (2) Discretionary funding
 
@@ -66,7 +66,7 @@ To receive a payment under this section, an eligible producer shall meet any oth
 
 &emsp;Of the funds provided for each fiscal year, not more than 5 percent of the funds shall be made available to eligible producers for production at facilities with a total refining capacity exceeding 150,000,000 gallons per year.
 
-(Pub. L. 107–171, title IX, §9005, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1314, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, §701(f)(4), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9005, Feb. 7, 2014, 128 Stat. 930; Pub. L. 115–334, title IX, §9005, Dec. 20, 2018, 132 Stat. 4885.)
+(Pub. L. 107–171, title IX, §9005, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1314, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, §701(f)(4), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9005, Feb. 7, 2014, 128 Stat. 930; Pub. L. 115–334, title IX, §9005, Dec. 20, 2018, 132 Stat. 4885; Pub. L. 118–22, div. B, title I, §102(d)(6)(B), Nov. 17, 2023, 137 Stat. 117.)
 
 #### <b>Editorial Notes</b>
 
@@ -79,6 +79,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8105, Pub. L. 107–171, title IX, §9005, May 13, 2002, 116 Stat. 480, related to an energy audit and renewable energy development program, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (g)(1)(F). Pub. L. 118–22 substituted "2024" for "2023".
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–334, §9005(1), designated existing provisions as par. (1), inserted heading, substituted "The Secretary shall" for "The Secretary may" and added par. (2).
 
@@ -93,6 +95,10 @@ Subsec. (g)(2). Pub. L. 113–79, §9005(2), substituted "$20,000,000 for each o
 <b>2013</b>—Subsec. (g)(2). Pub. L. 112–240 substituted "2013" for "2012".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2023 Amendment
+
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
 #### Effective Date of 2013 Amendment
 

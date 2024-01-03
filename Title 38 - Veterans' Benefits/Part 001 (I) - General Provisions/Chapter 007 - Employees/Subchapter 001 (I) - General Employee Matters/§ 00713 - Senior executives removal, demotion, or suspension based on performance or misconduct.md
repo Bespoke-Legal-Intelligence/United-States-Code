@@ -38,7 +38,7 @@ Rights and Procedures.—(1) A covered individual who is the subject of an actio
 
 (c)
 
-Relation to Other Provisions of Law.—Section 3592(b)(1) of title 5 and the proceduresunder section 7543(b) of such title do not apply to an action under subsection (a).
+Relation to Other Provisions of Law.—Section 3592(b)(1) of title 5 and the procedures under section 7543(b) of such title do not apply to an action under subsection (a).
 
 (d)
 

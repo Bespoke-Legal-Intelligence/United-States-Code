@@ -136,7 +136,7 @@ Subject to subsection (g), of the amount appropriated to carry out this section 
 
 &emsp;&emsp;(B) The number of students enrolled in the qualified masters degree program at the eligible institution in the previous academic year.
 
-&emsp;&emsp;(C) The average cost of attendance per student, for all full-time students enrolled in the qualified masters degree program at such institution.
+&emsp;&emsp;(C) The average cost of attendance per student, for all full-time students enrolled inthe qualified masters degree program at such institution.
 
 &emsp;&emsp;(D) The number of students in the previous year who received a degree in the qualified masters degree program at such institution.
 

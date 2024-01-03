@@ -24,7 +24,7 @@
 
 #### (3) Improving existing data systems
 
-&emsp;The Secretary shall seek to incorporate the electronic system required under paragraph (1)into existing systems and databases of the Corps of Engineers to the maximum extent practicable.
+&emsp;The Secretary shall seek to incorporate the electronic system required under paragraph (1) into existing systems and databases of the Corps of Engineers to the maximum extent practicable.
 
 #### (4) Protection of information
 

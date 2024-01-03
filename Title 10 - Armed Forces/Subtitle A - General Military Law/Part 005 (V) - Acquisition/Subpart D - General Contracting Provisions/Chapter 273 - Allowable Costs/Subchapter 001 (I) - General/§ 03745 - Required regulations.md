@@ -68,7 +68,7 @@ Settlement to reflect amount of individual questioned costs.—The Federal Acqui
 
 #### Codification
 
-The text of subsec. (f) of section 2324 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1832(e), was based on Pub. L. 99–145,title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 683; Pub. L. 100–456, div. A, title VIII, §826(a), Sept. 29, 1988, 102 Stat. 1952; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 102–484, div. A, title X, §1052(26)(A), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2101(a)(6), (c), Oct. 13, 1994, 108 Stat. 3307, 3308, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), Feb. 10, 1996, 110 Stat. 671.
+The text of subsec. (f) of section 2324 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1832(e), was based on Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 683; Pub. L. 100–456, div. A, title VIII, §826(a), Sept. 29, 1988, 102 Stat. 1952; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 102–484, div. A, title X, §1052(26)(A), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2101(a)(6), (c), Oct. 13, 1994, 108 Stat. 3307, 3308, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), Feb. 10, 1996, 110 Stat. 671.
 
 Another section 1832(e) of Pub. L. 116–283 amended section 3746 of this title.
 

@@ -6,7 +6,7 @@ In General.—The President, the Vice President, or a covered employee may not c
 
 &emsp;(1) copies an official electronic messaging account of the President, Vice President, or covered employee in the original creation or transmission of the Presidential record or Vice Presidential record; or
 
-&emsp;(2) forwards a complete copy of the Presidential or Vice Presidential record to an official electronic messaging account of the President, Vice President, or covered employee not later than 20 days after the original creation or transmission of the Presidential or Vice Presidential record.
+&emsp;(2) forwards a complete copy of the Presidential or Vice Presidential record to an official electronic messaging account of the President, Vice President, or covered employee notlater than 20 days after the original creation or transmission of the Presidential or Vice Presidential record.
 
 (b)
 

@@ -96,7 +96,7 @@ Costs and expenses.—
 
 &emsp;&emsp;(A)
 
-No pay and allowances.—A student from a military academy of a foreign country is not entitled to the pay, allowances, and emoluments of a cadet or midshipman by reason of attendance at a Service Academy under the exchange program, and the Department of Defense may not incur anycost of international travel required for transportation of such a student to and from the sponsoring foreign country.
+No pay and allowances.—A student from a military academy of a foreign country is not entitled to the pay, allowances, and emoluments of a cadet or midshipman by reason of attendance at a Service Academy under the exchange program, and the Department of Defense may not incur any cost of international travel required for transportation of such a student to and from the sponsoring foreign country.
 
 &emsp;&emsp;(B)
 
@@ -144,7 +144,7 @@ Source of funds.—Each Service Academy shall bear the costs of the attendance o
 
 &emsp;&emsp;(C)
 
-Limitation on expenditures.—Expenditures from appropriated funds in support of activities under this subsection for any Service Academy may not exceed $40,000 during any fiscal year.
+Limitation on expenditures.—Expenditures from appropriated funds in support ofactivities under this subsection for any Service Academy may not exceed $40,000 during any fiscal year.
 
 (d)
 

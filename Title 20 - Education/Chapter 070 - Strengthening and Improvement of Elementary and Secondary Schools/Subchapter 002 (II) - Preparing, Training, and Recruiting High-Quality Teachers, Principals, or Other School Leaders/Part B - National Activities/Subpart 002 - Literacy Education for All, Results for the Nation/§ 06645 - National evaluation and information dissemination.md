@@ -14,7 +14,7 @@ The Secretary shall—
 
 &emsp;(3) submit such findings to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives; and
 
-&emsp;(4) make publicly available, in a manner consistent with paragraph (2), best practicesfor implementing evidence-based activities under this subpart, including evidence-based activities, defined for the purpose of this paragraph as activities meeting the requirements of section 7801(21)(A)(i) of this title.
+&emsp;(4) make publicly available, in a manner consistent with paragraph (2), best practices for implementing evidence-based activities under this subpart, including evidence-based activities, defined for the purpose of this paragraph as activities meeting the requirements of section 7801(21)(A)(i) of this title.
 
 (Pub. L. 89–10, title II, §2225, as added Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1943.)
 
@@ -25,10 +25,6 @@ The Secretary shall—
 A prior section 6645, Pub. L. 89–10, title II, §2205, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3622; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(b)(3)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313, related to State applications, prior to its omission in the general amendment of this subchapter by Pub. L. 107–110.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

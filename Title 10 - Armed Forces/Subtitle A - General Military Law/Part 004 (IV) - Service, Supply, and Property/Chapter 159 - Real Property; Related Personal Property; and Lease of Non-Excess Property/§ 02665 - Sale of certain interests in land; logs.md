@@ -88,7 +88,7 @@ Subsec. (f)(2), (3). Pub. L. 99–561, §4(3)(C), amended pars. (2) and (3) gene
 
 "(2) Subject to paragraph (3), there shall be deposited into the reserve account not later than December 31 of each year, for credit to the preceding fiscal year, an amount equal to one-half of the amount (if any) remaining of the total amount received by the United States during that fiscal year as proceeds from the sale of forest products after (A) the reimbursement of appropriations of the Department of Defense under subsection (d) for expenses of production of forest products during that fiscal year, and (B) the payment to States under subsection (e) for that fiscal year.
 
-"(3) The balance in the reserve account may not exceed $4,000,000. If a deposit under paragraph (2) would cause the balance in the account to exceed that amount, the deposit shall be made only to the extent the amount of the deposit would not cause the balance in the account to exceed $4,000,000."
+"(3) The balance in the reserve account may not exceed $4,000,000. If a deposit under paragraph (2) wouldcause the balance in the account to exceed that amount, the deposit shall be made only to the extent the amount of the deposit would not cause the balance in the account to exceed $4,000,000."
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–407, §809(a)(1), substituted "forest products produced on land owned or leased by a military department or the" for "logs wholly or partly manufactured by, or otherwise procured for, the Army, Navy, or Air Force, or".
 

@@ -16,11 +16,11 @@ A grant may be made or contract entered into under section 300 or 300a of this t
 
 &emsp;(2) no charge will be made in such project or program for services provided to any person from a low-income family except to the extent that payment will be made by a third party (including a government agency) which is authorized or is under legal obligation to pay such charge.
 
-> For purposes of this subsection, the term "low-income family" shall be defined by the Secretary in accordance with such criteria as hemay prescribe so as to insure that economic status shall not be a deterrent to participation in the programs assisted under this subchapter.
+> For purposes of this subsection, the term "low-income family" shall be defined by the Secretary in accordance with such criteria as he may prescribe so as to insure that economic status shall not be a deterrent to participation in the programs assisted under this subchapter.
 
 #### (d) Suitability of informational or educational materials
 
-(1) A grant may be made or a contract entered into under section 300 or 300a–3 of this title only upon assurances satisfactory to the Secretary that informational or educational materials developed or made available under the grant or contract will be suitable for the purposes of this subchapter and for the population or community to which they are to be made available, taking into account the educational and cultural background of the individuals to whom such materials are addressed and the standards of such population or community with respect to such materials.
+(1) A grant may be made or a contract entered into under section 300 or 300a–3 of this title only upon assurances satisfactory to the Secretary that informational or educational materials developed or made available under the grant orcontract will be suitable for the purposes of this subchapter and for the population or community to which they are to be made available, taking into account the educational and cultural background of the individuals to whom such materials are addressed and the standards of such population or community with respect to such materials.
 
 (2) In the case of any grant or contract under section 300 of this title, such assurances shall provide for the review and approval of the suitability of such materials, prior to their distribution, by an advisory committee established by the grantee or contractor in accordance with the Secretary's regulations. Such a committee shall include individuals broadly representative of the population or community to which the materials are to be made available.
 

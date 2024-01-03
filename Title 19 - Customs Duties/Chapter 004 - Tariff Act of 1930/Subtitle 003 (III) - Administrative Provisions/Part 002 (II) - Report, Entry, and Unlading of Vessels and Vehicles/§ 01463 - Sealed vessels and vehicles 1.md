@@ -14,7 +14,7 @@ As enacted by act June 17, 1930, the catchline for this section was "Same—seal
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §463, 42 Stat. 957. That section was superseded by section 463 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Provisions somewhat similar to those in this section, and further provisions requiring the vessel, car, or vehicle sealed to proceed without unnecessary delay to the port of destination and be there inspected, and providing that nothing contained therein should exempt the vessel, car, or vehicle from examinations to prevent frauds, were contained in R.S. §3102, and provisions authorizing and requiring the Secretary of the Treasury to make regulations for sealing vessels, cars, etc., were contained in section 3103, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Provisions somewhat similar to those in this section, and further provisions requiring the vessel, car, or vehicle sealed to proceed without unnecessary delay to the port of destination and be there inspected, and providing that nothing contained therein should exempt the vessel, car, or vehicle from examinations to preventfrauds, were contained in R.S. §3102, and provisions authorizing and requiring the Secretary of the Treasury to make regulations for sealing vessels, cars, etc., were contained in section 3103, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

@@ -40,7 +40,7 @@ The financial transactions of the Endowment for each fiscal year shall be audite
 
 #### (h) Recordkeeping requirements; audit and examination of books, etc.
 
-(1) The Endowment shall ensure that each recipient of assistance provided through the Endowment under this subchapter keeps separate bank accounts or separate self-balancing ledger accounts with respect to such assistance and such records as may be reasonably necessary to fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(1) The Endowment shall ensure that each recipient of assistance provided through the Endowment under this subchapter keeps separate bank accounts or separate self-balancing ledger accounts with respect to such assistance and such records as may be reasonably necessary to fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistanceis given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (2) The Endowment shall ensure that it, or any of its duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance provided through the Endowment under this subchapter. The Comptroller General of the United States or any of his duly authorized representatives shall also have access thereto for such purpose.
 
@@ -52,7 +52,7 @@ Not later than February 1 of each year, the Endowment shall submit an annual rep
 
 After January 31, 1993, no member of the Board of the Endowment may be a member of the board of directors or an officer of any grantee of the National Endowment for Democracy which receives more than 5 percent of the funds of the Endowment for any fiscal year.
 
-(Pub. L. 98–164, title V, §504, Nov. 22, 1983, 97 Stat. 1040; Pub. L. 99–93, title II, §210(b), (d), Aug. 16, 1985, 99 Stat. 432; Pub. L. 100–204, title II, §211, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 102–138,title II, §§211(d), 215, Oct. 28, 1991, 105 Stat. 695, 697; Pub. L. 103–236, title II, §228, Apr. 30, 1994, 108 Stat. 423; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 98–164, title V, §504, Nov. 22, 1983, 97 Stat. 1040; Pub. L. 99–93, title II, §210(b), (d), Aug. 16, 1985, 99 Stat. 432; Pub. L. 100–204, title II, §211, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 102–138, title II, §§211(d), 215, Oct. 28, 1991, 105 Stat. 695, 697; Pub. L. 103–236, title II, §228, Apr. 30, 1994, 108 Stat. 423; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### <b>Editorial Notes</b>
 

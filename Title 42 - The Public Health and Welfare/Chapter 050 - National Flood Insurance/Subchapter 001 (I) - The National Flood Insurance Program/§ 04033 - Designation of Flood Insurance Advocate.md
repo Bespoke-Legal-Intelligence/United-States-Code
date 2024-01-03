@@ -22,7 +22,7 @@ The duties and responsibilities of the Flood Insurance Advocate designated under
 
 &emsp;(2) assist policy holders under the National Flood Insurance Program and property owners to understand the procedural requirements related to appealing preliminary flood insurance rate maps and implementing measures to mitigate evolving flood risks;
 
-&emsp;(3) assist in the development of regional capacity to respond to individual constituent concerns about flood insurance rate map amendments and revisions;
+&emsp;(3) assist in the development of regional capacity to respond to individual constituentconcerns about flood insurance rate map amendments and revisions;
 
 &emsp;(4) coordinate outreach and education with local officials and community leaders in areas impacted by proposed flood insurance rate map amendments and revisions; and
 

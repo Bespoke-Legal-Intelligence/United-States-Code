@@ -86,7 +86,7 @@ Subsec. (d). Pub. L. 104–132, §441(a), added subsec. (d).
 
 Amendment by sections 305(b) and 308(d)(4)(J), (e)(1)(K), (14)(A) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Pub. L. 104–208, div. C, title III, §324(c), Sept. 30, 1996, 110 Stat. 3009–629, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to departures that occurred before, on, or afterthe date of the enactment of this Act \[Sept. 30, 1996\], but only with respect to entries (and attempted entries) occurring on or after such date."
+Pub. L. 104–208, div. C, title III, §324(c), Sept. 30, 1996, 110 Stat. 3009–629, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to departures that occurred before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\], but only with respect to entries (and attempted entries) occurring on or after such date."
 
 Pub. L. 104–132, title IV, §401(f), Apr. 24, 1996, 110 Stat. 1268, provided that: "The amendments made by this section \[enacting sections 1531 to 1537 of this title and amending this section and section 1105a of this title\] shall take effect on the date of enactment of this Act \[Apr. 24, 1996\] and shall apply to all aliens without regard to the date of entry or attempted entry into the United States."
 

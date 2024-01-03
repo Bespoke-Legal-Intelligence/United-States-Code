@@ -8,7 +8,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 #### (A) In general
 
-&emsp;&emsp;The recipient may carry out national service programs through an Education Corps that identifies and meets unmet educational needs within communities through activities such as those described in subparagraph (B) and improves performance on the indicators described in subparagraph (C).
+&emsp;&emsp;The recipient may carry out national service programs through an Education Corpsthat identifies and meets unmet educational needs within communities through activities such as those described in subparagraph (B) and improves performance on the indicators described in subparagraph (C).
 
 #### (B) Activities
 
@@ -82,7 +82,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(vi) providing services designed to meet the health needs of rural communities, including the recruitment of youth to work in health professions in such communities;
 
-&emsp;&emsp;&emsp;(vii) assisting in health promotion interventions that improve health status, and helping people adopt and maintain healthy lifestyles and habits to improve health status;
+&emsp;&emsp;&emsp;(vii) assisting in health promotion interventions that improve health status, andhelping people adopt and maintain healthy lifestyles and habits to improve health status;
 
 &emsp;&emsp;&emsp;(viii) addressing childhood obesity through in-school and after-school physical activities, and providing nutrition education to students, in elementary schools and secondary schools; or
 
@@ -130,7 +130,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(viii) cleaning and improving rivers maintained by the Federal Government or a State;
 
-&emsp;&emsp;&emsp;(ix) carrying out projects in partnership with the National Park Service, designed to renew and rehabilitate national park resources and enhance services and learningopportunities for national park visitors, and nearby communities and schools;
+&emsp;&emsp;&emsp;(ix) carrying out projects in partnership with the National Park Service, designed to renew and rehabilitate national park resources and enhance services and learning opportunities for national park visitors, and nearby communities and schools;
 
 &emsp;&emsp;&emsp;(x) providing service through a full-time, year-round youth corps program or full-time summer youth corps program, such as a conservation corps or youth service corps program that—
 
@@ -208,7 +208,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(viii) any additional indicator that relates to education or skill attainment that assists in providing veterans with the skills to address identifiable public needs, or that relates to improving the lives of veterans, of members of the Armed Forces on active duty, and of families of the veterans and the members on active duty, and that the Corporation, in consultation (as appropriate) with the Secretary of Veterans Affairs, establishes; or
 
-&emsp;&emsp;&emsp;(ix) any additional local indicator (applicable to a particular recipient and on which an improvement in performance is needed) relating to the education or skill attainment, or the improvement, described in clause (viii), that is approved by the Corporation or a State Commission.
+&emsp;&emsp;&emsp;(ix) any additional local indicator (applicable to a particular recipient and on which an improvement in performance isneeded) relating to the education or skill attainment, or the improvement, described in clause (viii), that is approved by the Corporation or a State Commission.
 
 #### (5) Opportunity Corps
 
@@ -338,7 +338,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 #### (3) Indicators
 
-&emsp;The indicators for a program described in this subsection are the indicators described in subparagraph (C) of paragraphs <sup>3</sup> (1), (2), (3), (4), or (5) of subsection (a) or any additional local indicator (applicable to a participant or recipient and on which an improvement in performance is needed) relating to meeting unmetcommunity needs, that is approved by the Corporation or a State Commission.
+&emsp;The indicators for a program described in this subsection are the indicators described in subparagraph (C) of paragraphs <sup>3</sup> (1), (2), (3), (4), or (5) of subsection (a) or any additional local indicator (applicable to a participant or recipient and on which an improvement in performance is needed) relating to meeting unmet community needs, that is approved by the Corporation or a State Commission.
 
 #### (c) Program models for service corps
 
@@ -350,7 +350,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;(B) A service program that—
 
-&emsp;&emsp;&emsp;(i) recruits individuals with special skills or provides specialized preservice training to enable participants to be placed individually or in teams in positions in which the participants can meet such unmet needs; and
+&emsp;&emsp;&emsp;(i) recruits individuals with special skills or provides specialized preservice training to enable participants to be placed individually or in teams in positions in which theparticipants can meet such unmet needs; and
 
 &emsp;&emsp;&emsp;(ii) if consistent with the purposes of the program, brings participants together for additional training and other activities designed to foster civic responsibility, increase the skills of participants, and improve the quality of the service provided.
 

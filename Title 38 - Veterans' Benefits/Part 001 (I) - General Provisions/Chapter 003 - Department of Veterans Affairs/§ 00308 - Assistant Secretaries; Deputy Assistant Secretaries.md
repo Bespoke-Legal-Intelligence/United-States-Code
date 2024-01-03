@@ -76,5 +76,5 @@ Subsec. (d)(1). Pub. L. 107–287, §5(c), substituted "19" for "18".
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made onand after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 

@@ -328,7 +328,7 @@ Amendment by Pub. L. 101–508 applicable to property placed in service after De
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1012(d)(5), Nov. 10, 1988, 102 Stat. 3497, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1987.
+Pub. L. 100–647, title I, §1012(d)(5), Nov. 10, 1988, 102 Stat. 3497, provided that the amendment made by thatsection is effective with respect to taxable years beginning after Dec. 31, 1987.
 
 Amendment by section 1012(d)(1)–(4), (6), (8), (9), (11), (12) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -356,5 +356,5 @@ For nonapplication of amendment by section 1211(a) of Pub. L. 99–514 (enacting
 
 #### Study of Source Rules for Sales of Inventory Property
 
-Pub. L. 99–514, title XII, §1211(d), Oct. 22, 1986, 100 Stat. 2536, directed Secretary of the Treasury or hisdelegate to conduct a study of source rules for sales of inventory property and, not later than Sept. 30, 1987 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559), to submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate a report of such study (together with recommendations he deemed advisable).
+Pub. L. 99–514, title XII, §1211(d), Oct. 22, 1986, 100 Stat. 2536, directed Secretary of the Treasury or his delegate to conduct a study of source rules for sales of inventory property and, not later than Sept. 30, 1987 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559), to submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate a report of such study (together with recommendations he deemed advisable).
 

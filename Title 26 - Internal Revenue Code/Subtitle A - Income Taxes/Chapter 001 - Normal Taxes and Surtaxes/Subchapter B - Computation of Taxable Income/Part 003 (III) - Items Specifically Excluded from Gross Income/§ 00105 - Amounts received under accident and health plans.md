@@ -34,7 +34,7 @@ For purposes of section 213(a) (relating to medical, dental, etc., expenses) amo
 
 #### (g) Self-employed individual not considered an employee
 
-For purposes of this section, the term "employee" does not include an individual who is anemployee within the meaning of section 401(c)(1) (relating to self-employed individuals).
+For purposes of this section, the term "employee" does not include an individual who is an employee within the meaning of section 401(c)(1) (relating to self-employed individuals).
 
 #### (h) Amount paid to highly compensated individuals under a discriminatory self-insured medical expense reimbursement plan
 
@@ -116,7 +116,7 @@ For purposes of this section, the term "employee" does not include an individual
 
 #### (10) Time of inclusion
 
-&emsp;Any amount paid for a plan year that is included in income by reason of this subsectionshall be treated as received or accrued in the taxable year of the participant in which the plan year ends.
+&emsp;Any amount paid for a plan year that is included in income by reason of this subsection shall be treated as received or accrued in the taxable year of the participant in which the plan year ends.
 
 #### (i) Sick pay under Railroad Unemployment Insurance Act
 
@@ -192,7 +192,7 @@ Subsec. (h)(3)(B)(v). Pub. L. 97–34, §111(b)(4), substituted "section 911(d)(
 
 <b>1980</b>—Subsec. (h)(3)(A). Pub. L. 96–222, §103(a)(13)(B), substituted "highly compensated individuals" for "highly compensated participants".
 
-Subsec. (h)(7)(A). Pub. L. 96–222, §103(a)(13)(C), substituted "highly compensated individuals but not to allother participants (or which otherwise fails to satisfy the requirements of paragraph (2)(B))" for "a highly compensated individual but not to a broad cross-section of employees".
+Subsec. (h)(7)(A). Pub. L. 96–222, §103(a)(13)(C), substituted "highly compensated individuals but not to all other participants (or which otherwise fails to satisfy the requirements of paragraph (2)(B))" for "a highly compensated individual but not to a broad cross-section of employees".
 
 Subsec. (h)(8). Pub. L. 96–613 and Pub. L. 96–605 made identical amendments by substituting in heading "controlled groups, etc." for "controlled groups", and by substituting in text "subsection (b), (c), or (m) of section 414" for "subsection (b) or (c) of section 414".
 
@@ -270,7 +270,7 @@ Pub. L. 95–600, title III, §366(b), Nov. 6, 1978, 92 Stat. 2857, as amended b
 
 Pub. L. 95–600, title VII, §701(c)(3), Nov. 6, 1978, 92 Stat. 2900, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(A) The amendments made by paragraphs (1) and (2)(A) \[amending this section and provisions set out as a note under this section\] shall take effect as if included in section 105(d) of the Internal Revenue Code of1986 \[formerly I.R.C. 1954\] as such section was amended by section 505(a) of the Tax Reform Act of 1976.
+"(A) The amendments made by paragraphs (1) and (2)(A) \[amending this section and provisions set out as a note under this section\] shall take effect as if included in section 105(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as such section was amended by section 505(a) of the Tax Reform Act of 1976.
 
 "(B) The amendments made by paragraph (2)(B) \[amending provisions set out as notes under this section\] shall take effect as if included in section 301 of the Tax Reduction and Simplification Act of 1977 \[Pub. L. 95–30, title III, §301, May 23, 1977, 91 Stat. 152\]."
 

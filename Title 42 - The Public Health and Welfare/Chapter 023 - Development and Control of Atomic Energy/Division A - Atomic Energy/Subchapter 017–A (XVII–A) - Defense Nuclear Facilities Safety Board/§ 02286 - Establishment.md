@@ -160,7 +160,7 @@ Pub. L. 116–92, §3202(a)(2)(B), (C), redesignated par. (7) as (6) and struck 
 
 Subsec. (c)(7). Pub. L. 116–92, §3202(a)(2)(C), redesignated par. (7) as (6).
 
-Subsec. (d)(1). Pub. L. 116–92, §3203(b)(1)(A), substituted "A member may be reappointed for a second term only if the member was confirmed by the Senate more than two years into the member's first term. Amember may not be reappointed for a third term." for "Members of the Board may be reappointed."
+Subsec. (d)(1). Pub. L. 116–92, §3203(b)(1)(A), substituted "A member may be reappointed for a second term only if the member was confirmed by the Senate more than two years into the member's first term. A member may not be reappointed for a third term." for "Members of the Board may be reappointed."
 
 Subsec. (d)(3). Pub. L. 116–92, §3203(b)(1)(B), designated existing provisions as subpar. (A), struck out at end "A member may serve after the expiration of that member's term until a successor has taken office.", and added subpar. (B).
 
@@ -242,7 +242,7 @@ Comments on Report.—Before submission of the report to Congress under subsecti
 
 "(c)
 
-Submission to Congress.—Not later than six months after the date of the enactment of this Act \[Nov. 18, 1997\], the Board shall provide to Congress an interim report on the status of the implementation ofthis section. Not later than one year after the date of the enactment of this Act, and not earlier than 30 days after receipt of comments from the Secretary of Energy and the Nuclear Regulatory Commission under subsection (b), the Board shall submit to Congress the report required under subsection (a).
+Submission to Congress.—Not later than six months after the date of the enactment of this Act \[Nov. 18, 1997\], the Board shall provide to Congress an interim report on the status of the implementation of this section. Not later than one year after the date of the enactment of this Act, and not earlier than 30 days after receipt of comments from the Secretary of Energy and the Nuclear Regulatory Commission under subsection (b), the Board shall submit to Congress the report required under subsection (a).
 
 "(d)
 

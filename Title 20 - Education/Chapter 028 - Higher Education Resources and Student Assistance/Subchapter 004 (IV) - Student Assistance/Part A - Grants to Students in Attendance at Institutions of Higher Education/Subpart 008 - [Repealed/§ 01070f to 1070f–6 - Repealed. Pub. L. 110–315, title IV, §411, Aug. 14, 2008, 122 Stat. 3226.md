@@ -2,7 +2,7 @@
 
 Section 1070f, Pub. L. 89–329, title IV, §420D, as added Pub. L. 105–244, title IV, §411, Oct. 7, 1998, 112 Stat. 1671, set out congressional findings.
 
-A prior section 1070f, Pub. L. 89–329, title IV, §420B, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1352; amended Pub. L. 100–50, §9, June 3, 1987, 101 Stat. 341; Pub. L. 102–325, title IV, §409, July 23, 1992, 106 Stat. 510, related to special child care services for disadvantaged college students, prior to the general amendment of this subpart by Pub. L. 105–244.
+A prior section 1070f, Pub. L. 89–329, title IV, §420B, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1352; amended Pub. L. 100–50, §9, June 3, 1987, 101Stat. 341; Pub. L. 102–325, title IV, §409, July 23, 1992, 106 Stat. 510, related to special child care services for disadvantaged college students, prior to the general amendment of this subpart by Pub. L. 105–244.
 
 Section 1070f–1, Pub. L. 89–329, title IV, §420E, as added Pub. L. 105–244, title IV, §411, Oct. 7, 1998, 112 Stat. 1672, related to the purpose of this subpart and the program authorized.
 

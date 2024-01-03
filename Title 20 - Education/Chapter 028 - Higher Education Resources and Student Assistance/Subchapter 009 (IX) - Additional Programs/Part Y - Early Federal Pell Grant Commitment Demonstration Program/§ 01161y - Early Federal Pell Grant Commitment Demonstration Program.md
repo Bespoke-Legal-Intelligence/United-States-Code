@@ -114,7 +114,7 @@ Each of the four demonstration projects assisted under this section shall meet t
 
 #### (1) In general
 
-&emsp;From amounts appropriated under subsection (h) for a fiscal year, the Secretary shall reserve not more than $1,000,000 to award a grant or contract to an organization outside the Department for an independent evaluation of the impact of the demonstration program assisted under this section.
+&emsp;From amounts appropriated under subsection (h) for a fiscal year, the Secretaryshall reserve not more than $1,000,000 to award a grant or contract to an organization outside the Department for an independent evaluation of the impact of the demonstration program assisted under this section.
 
 #### (2) Competitive basis
 
@@ -170,7 +170,7 @@ Each of the four demonstration projects assisted under this section shall meet t
 
 #### (C) Information
 
-&emsp;&emsp;The annual provision by the State educational agency to all students and familiesparticipating in the demonstration project of information regarding—
+&emsp;&emsp;The annual provision by the State educational agency to all students and families participating in the demonstration project of information regarding—
 
 &emsp;&emsp;&emsp;(i) the estimated statewide average cost of attendance for an institution of higher education for each academic year, which cost data shall be disaggregated by—
 

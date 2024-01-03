@@ -2,7 +2,7 @@
 
 (a)
 
-Payment on Accelerated Basis.—The educational assistance allowance payable under section 16162 of this title with respect to an eligible member described in subsection (b) may, upon the election of such eligible member, be paid on an accelerated basis in accordance with this section.
+Payment on Accelerated Basis.—The educational assistance allowance payable under section 16162 of this title with respect to an eligible member described in subsection (b) may, uponthe election of such eligible member, be paid on an accelerated basis in accordance with this section.
 
 (b)
 

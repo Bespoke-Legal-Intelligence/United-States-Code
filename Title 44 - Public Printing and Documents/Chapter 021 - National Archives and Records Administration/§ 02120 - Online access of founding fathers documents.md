@@ -30,5 +30,5 @@ In general.—The Archivist of the United States, in the role as chairman of the
 
 "(2)
 
-Report.—Not later than December 31st of each year, the Archivist of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives a report on the provisions, amount, and duration of each cooperative agreement entered into as authorized by paragraph (1) during the preceding fiscal year."
+Report.—Not later than December 31st of each year, the Archivist of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives a report on the provisions, amount, and duration of each cooperative agreement entered into as authorized by paragraph (1) during the preceding fiscal year."
 

@@ -60,7 +60,7 @@ Written Agreement.—
 
 &emsp;(1)
 
-Discretionary for skill incentive pay.—The Secretary concerned may require a member to enter into a written agreement with the Secretary in order to qualify for the payment of skill incentive pay under subsection (a). The written agreement shall specify the period for which the skill incentive pay will be paid to the member and the monthly rate of the pay.
+Discretionary for skill incentive pay.—The Secretary concerned may require amember to enter into a written agreement with the Secretary in order to qualify for the payment of skill incentive pay under subsection (a). The written agreement shall specify the period for which the skill incentive pay will be paid to the member and the monthly rate of the pay.
 
 &emsp;(2)
 
@@ -92,9 +92,9 @@ Relationship to Other Pays and Allowances.—A member may not be paid more than 
 
 (i)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2023.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2024.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 175; amended Pub. L. 110–417, \[div. A\], title VI, §619(a), Oct. 14, 2008, 122 Stat. 4487; Pub. L. 111–84, div. A, title VI, §§614(8), 618(d), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(8), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(8), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(8), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(8), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(9), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(9), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(9), Dec. 23, 2016, 130 Stat. 2159; Pub. L. 115–91, div. A, title VI, §614(9), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(d)(8), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, §611(d)(8), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, §611(d)(8), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, §611(d)(8), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, §§601(d)(8), 602(d), Dec. 23, 2022, 136 Stat. 2620.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 175; amended Pub. L. 110–417, \[div. A\], title VI, §619(a), Oct. 14, 2008, 122 Stat. 4487; Pub. L. 111–84, div. A, title VI, §§614(8), 618(d), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(8), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(8), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(8), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(8), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(9), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(9), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(9), Dec. 23, 2016, 130 Stat. 2159; Pub. L. 115–91, div. A, title VI, §614(9), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(d)(8), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, §611(d)(8), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, §611(d)(8), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, §611(d)(8), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, §§601(d)(8), 602(d), Dec. 23, 2022, 136 Stat. 2620; Pub. L. 118–31, div. A, title VI, §613(d)(8), Dec. 22, 2023, 137 Stat. 292.)
 
 #### <b>Editorial Notes</b>
 
@@ -103,6 +103,8 @@ Termination of Authority.—No agreement may be entered into under this section 
 Subsection (g)(2), referred to in subsec. (b)(2), was redesignated subsec. (f)(2) by Pub. L. 111–84, div. A, title VI, §618(d)(1), Oct. 28, 2009, 123 Stat. 2356.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (i). Pub. L. 118–31 substituted "December 31, 2024" for "December 31, 2023".
 
 <b>2022</b>—Subsec. (c)(1)(A). Pub. L. 117–263, §602(d), substituted "$1,750" for "$1,000".
 
@@ -134,7 +136,7 @@ Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
 <b>2009</b>—Subsec. (c)(1). Pub. L. 111–84, §618(d)(2), added par. (1) and struck out former par. (1) which provided that skill incentive pay was not to exceed $1,000 per month.
 
-Subsecs. (f) to (i). Pub. L. 111–84, §618(d)(1), redesignated subsecs. (g) to (j) as (f) to (i), respectively, and struck out former subsec. (f) which related to reserve component members performing inactive duty training.
+Subsecs. (f) to (i). Pub. L. 111–84, §618(d)(1), redesignated subsecs. (g) to (j) as (f) to (i), respectively, andstruck out former subsec. (f) which related to reserve component members performing inactive duty training.
 
 Subsec. (j). Pub. L. 111–84, §618(d)(1), redesignated subsec. (j) as (i).
 

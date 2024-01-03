@@ -26,7 +26,7 @@ For each State that does not use content assessments as a means of ensuring that
 
 &emsp;The information described in paragraph (1)—
 
-&emsp;&emsp;(A) shall include an identification of specific individuals who graduated from theteacher preparation program to enable the teacher preparation program to evaluate the information provided to the program from the State with the program's own data about the specific courses taken by, and field experiences of, the individual graduates; and
+&emsp;&emsp;(A) shall include an identification of specific individuals who graduated from the teacher preparation program to enable the teacher preparation program to evaluate the information provided to the program from the State with the program's own data about the specific courses taken by, and field experiences of, the individual graduates; and
 
 &emsp;&emsp;(B) may include—
 

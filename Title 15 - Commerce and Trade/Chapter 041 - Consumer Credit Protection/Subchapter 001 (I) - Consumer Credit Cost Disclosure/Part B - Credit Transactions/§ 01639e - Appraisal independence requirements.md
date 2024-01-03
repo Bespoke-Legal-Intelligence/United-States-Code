@@ -36,7 +36,7 @@ Any mortgage lender, mortgage broker, mortgage banker, real estate broker, appra
 
 #### (f) No extension of credit
 
-In connection with a consumer credit transaction secured by a consumer's principal dwelling, a creditor who knows, at or before loan consummation, of a violation of the appraisal independence standards established in subsections <sup>1</sup>\(b) or (d) shall not extend credit based on such appraisal unless the creditor documents that the creditor has acted with reasonable diligence to determine that the appraisal does not materially misstate or misrepresent the value of such dwelling.
+In connection with a consumer credit transaction secured by a consumer's principal dwelling, a creditor who knows, at or before loan consummation, of a violation of the appraisal independence standards established in subsections <sup>1</sup> (b) or (d) shall not extend credit based on such appraisal unless the creditor documents that the creditor has acted with reasonable diligence to determine that the appraisal does not materially misstate or misrepresent the value of such dwelling.
 
 #### (g) Rules and interpretive guidelines
 
@@ -46,7 +46,7 @@ In connection with a consumer credit transaction secured by a consumer's princip
 
 #### (2) Interim final regulations
 
-&emsp;The Board shall, for purposes of this section, prescribe interim final regulations no later than 90 days after July 21, 2010, defining with specificity acts or practices that violate appraisal independence in the provision of mortgage lending services for a consumer credit transaction secured by the principal dwelling of the consumer or mortgage brokerage services for such a transaction and defining any terms in this section or such regulations. Rules prescribed by the Board under this paragraph shall be deemed to be rules prescribed by the agencies jointly under paragraph (1).
+&emsp;The Board shall, for purposes of this section, prescribe interim final regulations no later than 90 days after July 21, 2010, defining with specificity acts or practices that violate appraisal independence in the provision of mortgage lending services for a consumer credit transaction secured by the principal dwelling of the consumer or mortgage brokerage services for such a transaction and defining any terms in this section or such regulations.Rules prescribed by the Board under this paragraph shall be deemed to be rules prescribed by the agencies jointly under paragraph (1).
 
 #### (h) Appraisal report portability
 

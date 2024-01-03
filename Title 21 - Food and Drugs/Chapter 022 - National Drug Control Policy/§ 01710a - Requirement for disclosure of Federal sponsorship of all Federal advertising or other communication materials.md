@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-Each advertisement or other communication paid for by the Office, either directly or througha contract awarded by the Office, shall include a prominent notice informing the target audience that the advertisement or other communication is paid for by the Office.
+Each advertisement or other communication paid for by the Office, either directly or through a contract awarded by the Office, shall include a prominent notice informing the target audience that the advertisement or other communication is paid for by the Office.
 
 #### (b) Advertisement or other communication
 

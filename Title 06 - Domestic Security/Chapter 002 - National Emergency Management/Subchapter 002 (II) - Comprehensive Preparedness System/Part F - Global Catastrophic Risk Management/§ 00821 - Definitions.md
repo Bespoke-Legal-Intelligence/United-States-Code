@@ -78,5 +78,5 @@ In this part:
 
 #### References in Text
 
-Section 5195c(e) of title 42, referred to in par. (4), was in the original "section 1016(e) of the Critical Infrastructure Protection Act of 2001 and was translated as reading "section 1016(e) of the Critical Infrastructures Protection Act of 2001", to reflect the probable intent of Congress.
+Section 5195c(e) of title 42, referred to in par. (4), was in the original "section 1016(e) of the Critical Infrastructure Protection Act of 2001" and was translated as reading "section 1016(e) of the Critical Infrastructures Protection Act of 2001", to reflect the probable intent of Congress.
 

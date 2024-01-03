@@ -114,7 +114,7 @@ The Director of the Central Intelligence Agency may pay a designated employee sa
 
 &emsp;&emsp;&emsp;(ii) any requirement of prior enrollment in a health benefits plan under chapter 89 of that title for continuation of coverage purposes shall not apply;
 
-&emsp;&emsp;&emsp;(iii) the employee shall be deemed to have had coverage under chapter 89 of that title from the first opportunity to enroll for purposes of continuing coverage as an annuitant; and
+&emsp;&emsp;&emsp;(iii) the employee shall be deemed to have had coverage under chapter 89 of thattitle from the first opportunity to enroll for purposes of continuing coverage as an annuitant; and
 
 &emsp;&emsp;&emsp;(iv) the Director of the Central Intelligence Agency shall transmit an amount for deposit in the Employees' Health Benefits Fund that is necessary to cover any costs of such conversion.
 
@@ -194,11 +194,11 @@ The Director of the Central Intelligence Agency may exempt a designated employee
 
 #### (i) Regulations
 
-The Director of the Central Intelligence Agency shall prescribe regulations to carry out this section. The regulations shall ensure that the combination of salary, allowances, and benefits that an employee designated under this section may retain does not significantly exceed, except to the extent determined by the Director of the Central Intelligence Agency to be necessary toexercise the authority in subsection (b), the combination of salary, allowances, and benefits otherwise received by Federal employees not designated under this section.
+The Director of the Central Intelligence Agency shall prescribe regulations to carry out this section. The regulations shall ensure that the combination of salary, allowances, and benefits that an employee designated under this section may retain does not significantly exceed, except to the extent determined by the Director of the Central Intelligence Agency to be necessary to exercise the authority in subsection (b), the combination of salary, allowances, and benefits otherwise received by Federal employees not designated under this section.
 
 #### (j) Finality of decisions
 
-Any determinations authorized by this section to be made by the Director of the Central Intelligence Agency or the Director's designee shall be final and conclusive and shall not be subject to review by any court.
+Any determinations authorized by this section to be made by the Director of the Central Intelligence Agency or the Director's designee shallbe final and conclusive and shall not be subject to review by any court.
 
 #### (k) Subsequently enacted laws
 

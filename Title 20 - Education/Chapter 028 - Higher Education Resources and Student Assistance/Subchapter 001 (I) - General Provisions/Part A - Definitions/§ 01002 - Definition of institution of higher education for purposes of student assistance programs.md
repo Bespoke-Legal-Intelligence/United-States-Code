@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) not earlier than 180 days after the submission of the report described in subclause (I), issue proposed regulations establishing criteria for the eligibility of graduate medical schools described in such subclause to participate in the loan programs under part D of subchapter IV based on the recommendations of such report; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) not earlier than one year after the issuance of proposed regulationsunder item (aa), issue final regulations establishing such criteria for eligibility.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) not earlier than one year after the issuance of proposed regulations under item (aa), issue final regulations establishing such criteria for eligibility.
 
 #### (C) Failure to release information
 

@@ -16,7 +16,7 @@ The Commission may revoke any station license or construction permit—
 
 &emsp;(6) for violation of section 1304, 1343, or 1464 of title 18; or
 
-&emsp;(7) for willful or repeated failure to allow reasonable access to or to permit purchase ofreasonable amounts of time for the use of a broadcasting station, other than a non-commercial educational broadcast station, by a legally qualified candidate for Federal elective office on behalf of his candidacy.
+&emsp;(7) for willful or repeated failure to allow reasonable access to or to permit purchase of reasonable amounts of time for the use of a broadcasting station, other than a non-commercial educational broadcast station, by a legally qualified candidate for Federal elective office on behalf of his candidacy.
 
 #### (b) Cease and desist orders
 
@@ -46,7 +46,7 @@ For purposes of this section:
 
 If a broadcasting station fails to transmit broadcast signals for any consecutive 12-month period, then the station license granted for the operation of that broadcast station expires at the end of that period, notwithstanding any provision, term, or condition of the license to the contrary, except that the Commission may extend or reinstate such station license if the holder of the station license prevails in an administrative or judicial appeal, the applicable law changes, or for any other reason to promote equity and fairness. Any broadcast license revoked or terminated in Alaska in a proceeding related to broadcasting via translator, microwave, or other alternative signal delivery is reinstated.
 
-(June 19, 1934, ch. 652, title III, §312, 48 Stat. 1086; July 16, 1952, ch. 879, §10, 66 Stat. 716; Pub. L. 86–752, §6, Sept. 13, 1960, 74 Stat. 893; Pub. L. 92–225, title I, §103(a)(2)(A), Feb. 7, 1972, 86 Stat. 4; Pub. L. 97–259, title I, §117, Sept. 13, 1982, 96 Stat. 1095; Pub. L. 104–104, title IV, §403(l), Feb. 8, 1996, 110 Stat. 132; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §148(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–251; Pub. L. 108–447, div. J, title IX \[title II, §213(3)\], Dec. 8, 2004, 118 Stat. 3431.)
+(June 19, 1934, ch. 652, title III, §312, 48 Stat. 1086; July 16, 1952, ch. 879, §10, 66 Stat. 716; Pub. L. 86–752, §6, Sept. 13, 1960, 74 Stat. 893; Pub. L. 92–225, title I, §103(a)(2)(A), Feb. 7, 1972, 86 Stat. 4; Pub. L. 97–259, title I, §117, Sept. 13, 1982, 96Stat. 1095; Pub. L. 104–104, title IV, §403(l), Feb. 8, 1996, 110 Stat. 132; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §148(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–251; Pub. L. 108–447, div. J, title IX \[title II, §213(3)\], Dec. 8, 2004, 118 Stat. 3431.)
 
 #### <b>Editorial Notes</b>
 

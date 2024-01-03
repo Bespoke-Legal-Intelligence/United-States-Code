@@ -126,7 +126,7 @@ Section 5338, referred to in subsecs. (c) and (d)(1), was amended generally by P
 
 #### Amendments
 
-<b>2015</b>—Subsec. (c). Pub. L. 114–94, §3012(1), which directed substitution of section "5338(f)" for "section 5338(i)", was executed by substituting "section 5338(f)" for "section 5338(i)", to reflect the probable intent of Congress.
+<b>2015</b>—Subsec. (c). Pub. L. 114–94, §3012(1), which directed substitution of section "5338(f)" for "section 5338(i)", was executed by substituting "section 5338(f)"for "section 5338(i)", to reflect the probable intent of Congress.
 
 Subsec. (d)(1). Pub. L. 114–94, §3012(2)(A)(i), which directed substitution of section 5338(f) for "section 5338(i)" without placing quotation marks around the language to be substituted, was executed by substituting "section 5338(f)" for "section 5338(i)", to reflect the probable intent of Congress.
 

@@ -30,7 +30,7 @@
 
 #### (c) Status updates
 
-The Office of Victim Advocacy shall provide to volunteers who are victims regular updates onthe status of their cases if such volunteers have opted to pursue prosecution.
+The Office of Victim Advocacy shall provide to volunteers who are victims regular updates on the status of their cases if such volunteers have opted to pursue prosecution.
 
 #### (d) Transition
 

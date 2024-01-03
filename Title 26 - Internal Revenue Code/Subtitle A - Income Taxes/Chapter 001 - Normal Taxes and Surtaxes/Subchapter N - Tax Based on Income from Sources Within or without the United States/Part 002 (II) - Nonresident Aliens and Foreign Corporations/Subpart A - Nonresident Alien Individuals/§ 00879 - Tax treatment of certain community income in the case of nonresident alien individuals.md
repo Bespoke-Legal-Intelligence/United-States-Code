@@ -4,7 +4,7 @@
 
 In the case of a married couple 1 or both of whom are nonresident alien individuals and who have community income for the taxable year, such community income shall be treated as follows:
 
-&emsp;(1) Earned income (within the meaning of section 911(d)(2)), other than trade or business income and a partner's distributive share of partnership income, shall be treated as the income of the spouse who rendered the personal services,
+&emsp;(1) Earned income (within the meaning of section 911(d)(2)), other than trade or businessincome and a partner's distributive share of partnership income, shall be treated as the income of the spouse who rendered the personal services,
 
 &emsp;(2) Trade or business income, and a partner's distributive share of partnership income, shall be treated as provided in section 1402(a)(5),
 

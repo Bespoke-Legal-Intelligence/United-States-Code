@@ -6,7 +6,7 @@ Agency Identification of Unnecessary Reports.—Annually, based on guidance prov
 
 &emsp;(1) compile a list that identifies all plans and reports the agency produces for Congress, in accordance with statutory requirements or as directed in congressional reports;
 
-&emsp;(2) analyze the list compiled under paragraph (1), identify which plans and reports are outdated or duplicative of other required plansand reports, and refine the list to include only the plans and reports identified to be outdated or duplicative;
+&emsp;(2) analyze the list compiled under paragraph (1), identify which plans and reports are outdated or duplicative of other required plans and reports, and refine the list to include only the plans and reports identified to be outdated or duplicative;
 
 &emsp;(3) consult with the congressional committees that receive the plans and reports identified under paragraph (2) to determine whether those plans and reports are no longer useful to the committees and could be eliminated or consolidated with other plans and reports; and
 

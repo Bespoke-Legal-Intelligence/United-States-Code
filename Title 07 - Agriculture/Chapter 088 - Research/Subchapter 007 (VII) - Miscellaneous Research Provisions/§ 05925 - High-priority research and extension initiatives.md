@@ -170,7 +170,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (15) Laying hen and turkey research program
 
-&emsp;Research grants may be made under this section for the purpose of improving the efficiency and sustainability of laying hen and turkey production through integrated, collaborative research and technology transfer. Emphasis may be placed on laying hen and turkey disease prevention, antimicrobial resistance, nutrition, gut health, and alternative housing systems under extreme seasonal weather conditions.
+&emsp;Research grants may be made under this section for the purpose of improving the efficiency and sustainability of laying hen and turkey production through integrated, collaborative research and technology transfer. Emphasis may be placed on laying hen and turkey disease prevention, antimicrobial resistance, nutrition, gut health, and alternativehousing systems under extreme seasonal weather conditions.
 
 #### (16) Chronic wasting disease
 
@@ -356,7 +356,7 @@ Following the completion of a peer review process for grant proposals received u
 
 &emsp;&emsp;&emsp;(i) assign an individual to serve in the Office of the Chief Scientist as a Honeybee and Pollinator Research Coordinator who shall be responsible for leading the efforts of the Chief Scientist in carrying out such subparagraph;
 
-&emsp;&emsp;&emsp;(ii) implement and coordinate pollinator health research efforts of the Department, as recommended by the Pollinator Health Task Force;
+&emsp;&emsp;&emsp;(ii) implement and coordinate pollinator health research efforts of the Department,as recommended by the Pollinator Health Task Force;
 
 &emsp;&emsp;&emsp;(iii) establish annual strategic priorities and goals for the Department for native and managed pollinator research;
 
@@ -436,7 +436,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (5) Consultation
 
-&emsp;The Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, shallpublish guidance on enhancing pollinator health and the long-term viability of populations of pollinators, including recommendations related to—
+&emsp;The Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, shall publish guidance on enhancing pollinator health and the long-term viability of populations of pollinators, including recommendations related to—
 
 &emsp;&emsp;(A) allowing for managed honey bees to forage on National Forest System lands where compatible with other natural resource management priorities; and
 
@@ -700,7 +700,7 @@ Sec. 2. <i>Mission and Function of the Task Force</i>. Within 180 days of the da
 
 Sec. 3. <i>Increasing and Improving Pollinator Habitat</i>. Unless otherwise specified, within 180 days of the date of this memorandum:
 
-(a) Task Force member agencies shall develop and provide to the Task Force plans to enhance pollinator habitat, and subsequently implement, as appropriate, such plans on their managed lands and facilities, consistent with their missions and public safety. These plans may include: facility landscaping, including easements; land management; policies with respect to roadand other rights-of-way; educational gardens; use of integrated vegetation and pest management; increased native vegetation; and application of pollinator-friendly best management practices and seed mixes. Task Force member agencies shall also review any new or renewing land management contracts and grants for the opportunity to include requirements for enhancing pollinator habitat.
+(a) Task Force member agencies shall develop and provide to the Task Force plans to enhance pollinator habitat, and subsequently implement, as appropriate, such plans on their managed lands and facilities, consistent with their missions and public safety. These plans may include: facility landscaping, including easements; land management; policies with respect to road and other rights-of-way; educational gardens; use of integrated vegetation and pest management; increased native vegetation; and application of pollinator-friendly best management practices and seed mixes. Task Force member agencies shall also review any new or renewing land management contracts and grants for the opportunity to include requirements for enhancing pollinator habitat.
 
 (b) Task Force member agencies shall evaluate permit and management practices on power line, pipeline, utility, and other rights-of-way and easements, and, consistent with applicable law, make any necessary and appropriate changes to enhance pollinator habitat on Federal lands through the use of integrated vegetation and pest management and pollinator-friendly best management practices, and by supplementing existing agreements and memoranda of understanding with rights-of-way holders, where appropriate, to establish and improve pollinator habitat.
 

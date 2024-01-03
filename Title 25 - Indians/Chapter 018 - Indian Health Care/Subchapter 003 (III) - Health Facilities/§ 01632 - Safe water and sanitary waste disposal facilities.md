@@ -12,7 +12,7 @@ The Congress hereby finds and declares that—
 
 &emsp;(4) many Indian homes and communities still lack safe water supply systems and sanitary sewage and solid waste disposal systems; and
 
-&emsp;(5) it is in the interest of the United States, and it is the policy of the United States, thatall Indian communities and Indian homes, new and existing, be provided with safe and adequate water supply systems and sanitary sewage waste disposal systems as soon as possible.
+&emsp;(5) it is in the interest of the United States, and it is the policy of the United States, that all Indian communities and Indian homes, new and existing, be provided with safe and adequate water supply systems and sanitary sewage waste disposal systems as soon as possible.
 
 #### (b) Authority; assistance; transfer of funds
 
@@ -46,7 +46,7 @@ The financial and technical capability of an Indian tribe or community to safely
 
 (2) For the purposes of paragraph (1), the term "Federal share" means 80 percent of the costs described in paragraph (1).
 
-(3) With respect to Indian tribes with fewer than 1,000 enrolled members, the non-Federal portion of the costs of operating, managing, and maintaining such facilities may be provided, in part, through cash donations or in kind property, fairly evaluated.
+(3) With respect to Indian tribes with fewer than 1,000 enrolled members, the non-Federal portion of the costs of operating, managing, andmaintaining such facilities may be provided, in part, through cash donations or in kind property, fairly evaluated.
 
 #### (f) Eligibility of programs administered by Indian tribes
 

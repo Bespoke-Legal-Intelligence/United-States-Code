@@ -6,7 +6,7 @@ Priority in Reducing Headquarters Use.—The heads of executive agencies shall g
 
 (b)
 
-Regulations, Standards, and Definitions.—The President shall require the Administrator of General Services, in cooperation with the Director of the Office of Management and Budget, to prescribe appropriate regulations, standards, and definitions to ensure that executive agencies meet the goals established undersection 17507(a) of this title in the manner prescribed by subsection (a).
+Regulations, Standards, and Definitions.—The President shall require the Administrator of General Services, in cooperation with the Director of the Office of Management and Budget, to prescribe appropriate regulations, standards, and definitions to ensure that executive agencies meet the goals established under section 17507(a) of this title in the manner prescribed by subsection (a).
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1285.)
 

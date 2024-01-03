@@ -22,7 +22,7 @@ Subject to section 9409 of this title, Lead State Agencies and Local Councils sh
 
 &emsp;(7) Improving the quality of early learning programs through professional development and training activities, increased compensation, and recruitment and retention incentives, for early learning providers.
 
-&emsp;(8) Removing ancillary barriers to early learning, including transportation difficultiesand absence of programs during nontraditional work times.
+&emsp;(8) Removing ancillary barriers to early learning, including transportation difficulties and absence of programs during nontraditional work times.
 
 #### (c) Requirements
 

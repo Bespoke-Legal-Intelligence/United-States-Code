@@ -10,7 +10,7 @@
 
 #### (b) Designation of additional members
 
-Subject to the provisions of section 7384l(14)(C) of this title, the members of a class of employees at a Department of Energy facility, or at an atomic weapons employer facility, may be treated as members of the Special Exposure Cohortfor purposes of the compensation program if the President, upon recommendation of the Advisory Board on Radiation and Worker Health, determines that—
+Subject to the provisions of section 7384l(14)(C) of this title, the members of a class of employees at a Department of Energy facility, or at an atomic weapons employer facility, may be treated as members of the Special Exposure Cohort for purposes of the compensation program if the President, upon recommendation of the Advisory Board on Radiation and Worker Health, determines that—
 
 &emsp;(1) it is not feasible to estimate with sufficient accuracy the radiation dose that the class received; and
 
@@ -28,7 +28,7 @@ Subject to the provisions of section 7384l(14)(C) of this title, the members of 
 
 #### (d) Access to information
 
-The Secretary of Energy shall provide, in accordance with law, the Secretary of Health and Human Services and the members and staff of the Advisory Board on Radiation and Worker Health access to relevant information on worker exposures, including access to Restricted Data (as defined in section 2014(y) of this title.<sup>1</sup>
+The Secretary of Energy shall provide, in accordance with law, the Secretary of Health andHuman Services and the members and staff of the Advisory Board on Radiation and Worker Health access to relevant information on worker exposures, including access to Restricted Data (as defined in section 2014(y) of this title.<sup>1</sup>
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3626\], Oct. 30, 2000, 114 Stat. 1654, 1654A–504; Pub. L. 107–107, div. C, title XXXI, §3151(a)(2), Dec. 28, 2001, 115 Stat. 1372; Pub. L. 108–375, div. C, title XXXI, §3166(b)(1), Oct. 28, 2004, 118 Stat. 2188.)
 

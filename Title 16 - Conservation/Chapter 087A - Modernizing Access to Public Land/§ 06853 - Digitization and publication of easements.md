@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 4 years after April 29, 2022, each of the Secretaries, to the maximum extent practicable, shall digitize and publish on the applicable agency website geographic information system mapping data that specifies, with respect to the relevant Secretary, all Federal interests in private land, including easements (other thanflowage easements), reservations, and rights-of-way—
+Not later than 4 years after April 29, 2022, each of the Secretaries, to the maximum extent practicable, shall digitize and publish on the applicable agency website geographic information system mapping data that specifies, with respect to the relevant Secretary, all Federal interests in private land, including easements (other than flowage easements), reservations, and rights-of-way—
 
 &emsp;(1) to which the Federal Government does not have a fee title interest; and
 

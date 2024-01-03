@@ -32,7 +32,7 @@ Matching Funds Required.—(1) The amount of assistance provided by the Secretar
 
 (e)
 
-Persons Eligible To Participate in Program.—A school dropout from secondary schoolshall be eligible to participate in the Program. The Secretary of Defense shall prescribe the standards and procedures for selecting participants from among school dropouts.
+Persons Eligible To Participate in Program.—A school dropout from secondary school shall be eligible to participate in the Program. The Secretary of Defense shall prescribe thestandards and procedures for selecting participants from among school dropouts.
 
 (f)
 

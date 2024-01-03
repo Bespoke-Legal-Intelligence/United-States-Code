@@ -14,7 +14,7 @@ The Administrator and the Secretary shall promptly initiate and carry out a prog
 
 > taking into account in each instance climatic variations existing between different geographic areas.
 
-(2) As soon as possible after the publication of the performance criteria prescribed under paragraph (1), the Secretary, in consultation with the Director of the National Institute of Standards and Technology and the Administrator,will select on the basis of open competition a number of designs for various types of residential dwellings suitable for and adapted to the installation of solar heating systems meeting the performance criteria prescribed under paragraph (1)(A).
+(2) As soon as possible after the publication of the performance criteria prescribed under paragraph (1), the Secretary, in consultation with the Director of the National Institute of Standards and Technology and the Administrator, will select on the basis of open competition a number of designs for various types of residential dwellings suitable for and adapted to the installation of solar heating systems meeting the performance criteria prescribed under paragraph (1)(A).
 
 #### (c) Contracts and grants for development of heating systems for commercial production and residential use; contracts for procurement of heating systems and components
 
@@ -52,5 +52,5 @@ In subsec. (c), "subchapter II of chapter 201 of title 51" substituted for "titl
 
 #### Transfer of Functions
 
-"Secretary of Energy" substituted for "Director", meaning Director of National Science Foundation, in subsec. (b)(1) pursuant to sections 104(f) and 301(h) of Pub. L. 93–438, which are classified to sections 5814(f) and 5871(h) of this title and which transferred functions of National Science Foundation relating to or utilized in connection with solar heating and cooling development to Administrator of Energy Research and Development Administration, and pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+"Secretary of Energy" substituted for "Director", meaning Director of National Science Foundation, in subsec. (b)(1) pursuant to sections 104(f) and 301(h) of Pub. L. 93–438, which are classified to sections 5814(f) and 5871(h) of this title and which transferred functions of National Science Foundation relating to or utilized in connection with solar heating and cooling development to Administrator of Energy Research and Development Administration, and pursuant to sections301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 

@@ -24,7 +24,7 @@
 
 #### (B) Reportable policy sale
 
-&emsp;&emsp;For purposes of this paragraph, the term "reportable policy sale" means the acquisition of an interest in a life insurance contract, directly or indirectly, if the acquirer has no substantial family, business, or financial relationship with the insured apart from the acquirer's interest in such life insurancecontract. For purposes of the preceding sentence, the term "indirectly" applies to the acquisition of an interest in a partnership, trust, or other entity that holds an interest in the life insurance contract.
+&emsp;&emsp;For purposes of this paragraph, the term "reportable policy sale" means the acquisition of an interest in a life insurance contract, directly or indirectly, if the acquirer has no substantial family, business, or financial relationship with the insured apart from the acquirer's interest in such life insurance contract. For purposes of the preceding sentence, the term "indirectly" applies to the acquisition of an interest in a partnership, trust, or other entity that holds an interest in the life insurance contract.
 
 #### \[(b) Repealed. Pub. L. 104–188, title I, §1402(a), Aug. 20, 1996, 110 Stat. 1789\]
 
@@ -200,7 +200,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "viatical settlement provider" means any person regularly engaged in thetrade or business of purchasing, or taking assignments of, life insurance contracts on the lives of insureds described in paragraph (1) if—
+&emsp;&emsp;&emsp;The term "viatical settlement provider" means any person regularly engaged in the trade or business of purchasing, or taking assignments of, life insurance contracts on the lives of insureds described in paragraph (1) if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such person is licensed for such purposes (with respect to insureds described in the same subparagraph of paragraph (1) as the insured) in the State in which the insured resides, or
 
@@ -286,7 +286,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (1) In general
 
-&emsp;Gross income shall not include any amount paid as a survivor annuity on account of thedeath of a public safety officer (as such term is defined in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968, as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013) killed in the line of duty—
+&emsp;Gross income shall not include any amount paid as a survivor annuity on account of the death of a public safety officer (as such term is defined in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968, as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013) killed in the line of duty—
 
 &emsp;&emsp;(A) if such annuity is provided, under a governmental plan which meets the requirements of section 401(a), to the spouse (or a former spouse) of the public safety officer or to a child of such officer; and
 
@@ -450,7 +450,7 @@ Subsec. (c). Pub. L. 104–188, §1402(b)(1), substituted "subsection (a)" for "
 
 Subsec. (g). Pub. L. 104–191 added subsec. (g).
 
-<b>1986</b>—Subsec. (d)(1). Pub. L. 99–514, §1001(a), amended second sentence generally, which prior to amendment read as follows: "There shall be excluded from the gross income of such beneficiary in the taxable year received—
+<b>1986</b>—Subsec. (d)(1). Pub. L. 99–514, §1001(a), amended second sentence generally, which prior to amendmentread as follows: "There shall be excluded from the gross income of such beneficiary in the taxable year received—
 
 &emsp;"(A) any amount determined by such proration, and
 
@@ -458,7 +458,7 @@ Subsec. (g). Pub. L. 104–191 added subsec. (g).
 
 Subsec. (d)(2)(B). Pub. L. 99–514, §1001(c)(2), substituted "equal" for "is equal" in introductory provisions.
 
-Subsec. (d)(2)(B)(ii). Pub. L. 99–514, §1001(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read asfollows: "as discounted on the basis of the interest rate and mortality tables used by the insurer in calculating payments under the agreement."
+Subsec. (d)(2)(B)(ii). Pub. L. 99–514, §1001(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "as discounted on the basis of the interest rate and mortality tables used by the insurer in calculating payments under the agreement."
 
 Subsec. (d)(3), (4). Pub. L. 99–514, §1001(c)(1), redesignated par. (4) as (3), and struck out former par. (3), "Surviving spouse", which read as follows: "For purposes of this subsection, the term 'surviving spouse' means the spouse of the insured as of the date of death, including a spouse legally separated but not under a decree of absolute divorce."
 
@@ -526,7 +526,7 @@ Waiver of limitations.—If refund or credit of any overpayment of tax resulting
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title X, §1084(d), Aug. 5, 1997, 111 Stat. 955, as amended by Pub. L. 105–206, title VI, §6010(o)(3)(B), July 22, 1998, 112 Stat. 816, provided that: "The amendments made by this section \[amending this section and sections 264, 265, 805, 807, 812, and 832 of this title\] shall apply to contracts issued after June 8, 1997, in taxable years ending after such date. For purposes of the preceding sentence, any material increase in the death benefit or other material change in the contract shall be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of the Internal Revenue Code of 1986), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives. For purposes of this subsection, an increase in the death benefit under a policy or contract issued in connection with a lapse described in section 501(d)(2) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, set out as a note under section 264 of this title\] shall not be treated as a new contract."
+Pub. L. 105–34, title X, §1084(d), Aug. 5, 1997, 111 Stat. 955, as amended by Pub. L. 105–206, title VI, §6010(o)(3)(B), July 22, 1998, 112 Stat. 816, provided that: "The amendments made by this section \[amending thissection and sections 264, 265, 805, 807, 812, and 832 of this title\] shall apply to contracts issued after June 8, 1997, in taxable years ending after such date. For purposes of the preceding sentence, any material increase in the death benefit or other material change in the contract shall be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of the Internal Revenue Code of 1986), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives. For purposes of this subsection, an increase in the death benefit under a policy or contract issued in connection with a lapse described in section 501(d)(2) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, set out as a note under section 264 of this title\] shall not be treated as a new contract."
 
 Pub. L. 105–34, title XV, §1528(b), Aug. 5, 1997, 111 Stat. 1075, as amended by Pub. L. 107–15, §2, June 5, 2001, 115 Stat. 37, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts received in taxable years beginning after December 31, 1996, with respect to individuals dying after such date, and to amounts received in taxable years beginning after December 31, 2001, with respect to individuals dying on or before December 31, 1996."
 

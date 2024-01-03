@@ -6,7 +6,7 @@ All proceeds from any Indian reservation shall be placed to the credit of the In
 
 #### (b) Delinquent payments
 
-In case of delinquency on the part of any licensee in the payment of annual charges a penalty of 5 per centum of the total amount so delinquent may be added to the total charges which shall apply for the first month or part ofmonth so delinquent with an additional penalty of 3 per centum for each subsequent month until the total of the charges and penalties are paid or until the license is canceled and the charges and penalties satisfied in accordance with law.
+In case of delinquency on the part of any licensee in the payment of annual charges a penalty of 5 per centum of the total amount so delinquent may be added to the total charges which shall apply for the first month or part of month so delinquent with an additional penalty of 3 per centum for each subsequent month until the total of the charges and penalties are paid or until the license is canceled and the charges and penalties satisfied in accordance with law.
 
 (June 10, 1920, ch. 285, pt. I, §17, 41 Stat. 1072; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§208, 212, 49 Stat. 845, 847; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

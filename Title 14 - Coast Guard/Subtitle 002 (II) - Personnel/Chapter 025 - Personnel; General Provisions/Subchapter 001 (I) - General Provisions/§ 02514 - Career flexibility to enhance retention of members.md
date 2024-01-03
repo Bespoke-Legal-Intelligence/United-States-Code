@@ -84,7 +84,7 @@ In general.—Subparagraph (A) shall not apply to any special or incentive pay o
 
 &emsp;&emsp;&emsp;&emsp;(I) such pay or bonus is no longer authorized by law; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the member does not satisfy eligibility criteria for such pay or bonus as in effect at the time of the return of the member to active duty.
+&emsp;&emsp;&emsp;&emsp;(II) the member does not satisfy eligibility criteria for such pay or bonus as ineffect at the time of the return of the member to active duty.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -92,7 +92,7 @@ Pay or bonus ceases being authorized.—Subparagraph (A) shall cease to apply to
 
 &emsp;&emsp;(C)
 
-Repayment.—A member who is ineligible for payment of a special or incentive pay or bonus otherwise covered by this paragraph by reason of subparagraph (B)(i)(II)shall be subject to the requirements for repayment of such pay or bonus in accordance with the terms of the applicable agreement of the member under chapter 5 of title 37.
+Repayment.—A member who is ineligible for payment of a special or incentive pay or bonus otherwise covered by this paragraph by reason of subparagraph (B)(i)(II) shall be subject to the requirements for repayment of such pay or bonus in accordance with the terms of the applicable agreement of the member under chapter 5 of title 37.
 
 &emsp;&emsp;(D)
 

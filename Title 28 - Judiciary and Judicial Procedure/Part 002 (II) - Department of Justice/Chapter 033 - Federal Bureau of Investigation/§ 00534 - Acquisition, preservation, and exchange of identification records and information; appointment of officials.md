@@ -68,7 +68,7 @@ Information sharing.—To the extent otherwise permitted by law, any report issu
 
 &emsp;&emsp;(ii) any support, child custody or visitation provisions, orders, remedies, or relief issued as part of a protection order, restraining order, or stay away injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, dating violence, sexual assault, or stalking.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, §204(c), div. B, title IV, §4003(b)(4), div. C, title I, §11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816; Pub. L. 109–162, title I, §118, title IX, §905(a), Jan. 5, 2006, 119 Stat. 2989, 3079; Pub. L. 109–248, title I, §153(i), July 27, 2006, 120 Stat. 611; Pub. L. 111–211, title II, §233(a), July 29, 2010, 124 Stat. 2279; Pub. L. 111–369, §2, Jan. 4, 2011, 124 Stat. 4068; Pub. L. 117–103, div. W, title VIII, §802(b), Mar. 15, 2022, 136 Stat. 898; Pub. L. 117–159, div. A, title II, §12004(h)(2), June 25, 2022, 136 Stat. 1331.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322,title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, §204(c), div. B, title IV, §4003(b)(4), div. C, title I, §11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816; Pub. L. 109–162, title I, §118, title IX, §905(a), Jan. 5, 2006, 119 Stat. 2989, 3079; Pub. L. 109–248, title I, §153(i), July 27, 2006, 120 Stat. 611; Pub. L. 111–211, title II, §233(a), July 29, 2010, 124 Stat. 2279; Pub. L. 111–369, §2, Jan. 4, 2011, 124 Stat. 4068; Pub. L. 117–103, div. W, title VIII, §802(b), Mar. 15, 2022, 136 Stat. 898; Pub. L. 117–159, div. A, title II, §12004(h)(2), June 25, 2022, 136 Stat. 1331.)
 
 Historical and Revision Notes
 
@@ -156,7 +156,7 @@ Pub. L. 117–159, div. A, title II, §12004(h)(4), June 25, 2022, 136 Stat. 133
 
 Statutory construction.—Nothing in this subsection \[amending this section and section 40901 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as a note preceding section 41101 of Title 34\] or the amendments made by this subsection shall be construed—
 
-&emsp;"(i) to create a cause of action against any person licensed as an importer, manufacturer, or dealer of firearms under chapter 44 of title 18, United States Code, or any other person for any civil liability; or
+&emsp;"(i) to create a cause of action against any person licensed as an importer, manufacturer, or dealer offirearms under chapter 44 of title 18, United States Code, or any other person for any civil liability; or
 
 &emsp;"(ii) to establish any standard of care.
 
@@ -196,7 +196,7 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat.
 
 #### Compilation of Statistics Relating to Intimidation of Government Employees
 
-Pub. L. 104–132, title VIII, §808, Apr. 24, 1996, 110 Stat. 1310, which required Attorney General to collect data for the calendar year 1990 and each succeeding calendar year, relating to crimes and incidents of threats of violence and acts of violence against Federal, State, and local government employees and their families in the performance of their lawful duties, and to annuallypublish a summary of the data collected to be used only for research and statistical purposes, was repealed by Pub. L. 107–273, div. A, title III, §311(a), Nov. 2, 2002, 116 Stat. 1786.
+Pub. L. 104–132, title VIII, §808, Apr. 24, 1996, 110 Stat. 1310, which required Attorney General to collect data for the calendar year 1990 and each succeeding calendar year, relating to crimes and incidents of threats of violence and acts of violence against Federal, State, and local government employees and their families in the performance of their lawful duties, and to annually publish a summary of the data collected to be used only for research and statistical purposes, was repealed by Pub. L. 107–273, div. A, title III, §311(a), Nov. 2, 2002, 116 Stat. 1786.
 
 #### National Crime Information Center Project 2000
 
@@ -238,7 +238,7 @@ Pub. L. 101–647, title VI, subtitle B, Nov. 29, 1990, 104 Stat. 4823, provided
 
 #### FBI Fees To Process Fingerprint Identification Records and Name Checks
 
-Pub. L. 101–515, title II, Nov. 5, 1990, 104 Stat. 2112, as amended by section 113 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37, which authorized the FBI Director to establish and collect fees to process fingerprint identification records and name checks for non-criminal justice, non-law enforcement employment and licensing purposes and for certain employees of private sector contractors with classified Government contracts, was editorially reclassified as section 41104 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 101–515, title II, Nov. 5, 1990, 104 Stat. 2112, as amended by section 113 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, §211, Jan. 26, 1996,110 Stat. 37, which authorized the FBI Director to establish and collect fees to process fingerprint identification records and name checks for non-criminal justice, non-law enforcement employment and licensing purposes and for certain employees of private sector contractors with classified Government contracts, was editorially reclassified as section 41104 of Title 34, Crime Control and Law Enforcement.
 
 #### Hate Crime Statistics
 

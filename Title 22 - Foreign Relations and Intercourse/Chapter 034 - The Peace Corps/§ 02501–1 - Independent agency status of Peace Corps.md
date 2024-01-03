@@ -2,7 +2,7 @@
 
 Effective on December 29, 1981, the Peace Corps shall be an independent agency within the executive branch and shall not be an agency within the ACTION Agency, the successor to the ACTION Agency, or any other department or agency of the United States.
 
-(Pub. L. 87–293, title I, §2A, as added Pub. L. 97–113, title VI, §601(a), Dec. 29, 1981, 95 Stat. 1540; amended Pub. L. 103–82, title IV, §405(e), Sept. 21, 1993, 107 Stat. 921.)
+(Pub. L. 87–293, title I, §2A, as added Pub. L. 97–113, title VI, §601(a), Dec. 29, 1981, 95 Stat.1540; amended Pub. L. 103–82, title IV, §405(e), Sept. 21, 1993, 107 Stat. 921.)
 
 #### <b>Editorial Notes</b>
 

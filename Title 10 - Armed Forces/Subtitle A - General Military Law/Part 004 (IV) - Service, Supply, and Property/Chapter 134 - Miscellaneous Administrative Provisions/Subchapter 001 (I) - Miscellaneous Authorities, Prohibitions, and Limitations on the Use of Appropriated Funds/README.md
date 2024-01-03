@@ -12,14 +12,7 @@
 | [2245\.](%C2%A7%2002245%20-%20Use%20of%20aircraft%20for%20proficiency%20flying%20limitation.md) | Use of aircraft for proficiency flying: limitation. |
 | \[2245a. | Repealed.\] |
 | [2246\.](%C2%A7%2002246%20-%20Authorization%20of%20certain%20support%20for%20military%20service%20academy%20foundations.md) | Authorization of certain support for military service academy foundations. |
-| \[2247, 2248. Renumbered or Repealed.\] |  |
-| [2249\.](%C2%A7%2002249%20-%20Renumbered%20%C2%A74652.md) | Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| \[2249a. | Renumbered.\] |
+| \[2247 to 2249a. Renumbered or Repealed.\] |  |
 | [2249b.](%C2%A7%2002249b%20-%20Display%20of%20State%2C%20District%20of%20Columbia%2C%20commonwealth%2C%20and%20territorial%20flags%20by%20the%20armed%20forces.md) | Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces. |
 | \[2249c to 2249e. Renumbered.\] |  |
 
@@ -28,6 +21,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title XVIII, §1801(a)(20), Dec. 22, 2023, 137 Stat. 684, which directed amendment of the analysis for this chapter by striking item 2249 "Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs", was executed to the analysis for this subchapter to reflect the probable intent of Congress.
 
 <b>2022</b>—Pub. L. 117–263, div. A, title V, §551(b), Dec. 23, 2022, 136 Stat. 2592, added item 2246.
 
@@ -65,13 +60,11 @@ Pub. L. 103–337, div. A, title III, §372(b), title X, §1063(b), Oct. 5, 1994
 
 <b>1991</b>—Pub. L. 102–190, div. A, title X, §1062(a)(3), Dec. 5, 1991, 105 Stat. 1475, made technical correction to directory language of Pub. L. 101–510, div. A, title XIV, §1481(e)(2), Nov. 5, 1990, 104 Stat. 1706. See 1990 amendment note below.
 
-<b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1481(e)(2), Nov. 5, 1990, 104 Stat. 1706, as amended by Pub. L. 102–190, div. A, title X, §1062(a)(3), Dec. 5, 1991, 105 Stat. 1475, added item 2245.
+<b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1481(e)(2), Nov. 5, 1990, 104 Stat. 1706, as amended by Pub. L.102–190, div. A, title X, §1062(a)(3), Dec. 5, 1991, 105 Stat. 1475, added item 2245.
 
 Pub. L. 101–510, div. A, title IX, §904(b), Nov. 5, 1990, 104 Stat. 1621, added item 2244.
 
 <b>1989</b>—Pub. L. 101–189, div. A, title III, §326(b), Nov. 29, 1989, 103 Stat. 1416, added item 2243.
-
-<i><sup>1</sup></i><i> So in original. Section 2249 was renumbered by Pub. L. 116–283 without corresponding amendment of chapter analysis.</i>
 
 
 ---

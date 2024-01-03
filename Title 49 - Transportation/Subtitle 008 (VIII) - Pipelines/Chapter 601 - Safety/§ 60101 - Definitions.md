@@ -556,7 +556,7 @@ Program Plan.—
 
 &emsp;"(1)
 
-In general.—Not later than 1 year after the date of enactment of this section \[Dec. 17, 2002\], the Secretary of Transportation, in coordination with theSecretary of Energy and the Director of the National Institute of Standards and Technology, shall prepare and transmit to Congress a 5-year program plan to guide activities under this section. Such program plan shall be submitted to the Technical Pipeline Safety Standards Committee and the Technical Hazardous Liquid Pipeline Safety Standards Committee for review, and the report to Congress shall include the comments of the committees. The 5-year program plan shall be based on the memorandum of understanding under subsection (b) and take into account related activities of other Federal agencies.
+In general.—Not later than 1 year after the date of enactment of this section \[Dec. 17, 2002\], the Secretary of Transportation, in coordination with the Secretary of Energy and the Director of the National Institute of Standards and Technology, shall prepare and transmit to Congress a 5-year program plan to guide activities under this section. Such program plan shall be submitted to the Technical Pipeline Safety Standards Committee and the Technical Hazardous Liquid Pipeline Safety Standards Committee for review, and the report to Congress shall include the comments of the committees. The 5-year program plan shall be based on the memorandum of understanding under subsection (b) and take into account related activities of other Federal agencies.
 
 &emsp;"(2)
 

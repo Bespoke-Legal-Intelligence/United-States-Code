@@ -38,7 +38,7 @@ Not later than 60 days after completing development of a final plan for a site l
 
 (2) Nothing in this section may be construed to affect statutory requirements for a defense environmental cleanup activity or project or to modify or otherwise affect applicable statutory or regulatory defense environmental cleanup requirements, including substantive standards intended to protect public health and the environment, nor shall anything in this section be construed to preempt or impair any local land use planning or zoning authority or State authority.
 
-(Pub. L. 107–314, div. D, title XLIV, §4402, formerly Pub. L. 104–201, div. C, title XXXI, §3153, Sept. 23, 1996, 110 Stat. 2839; renumbered Pub. L. 107–314, div. D, title XLIV, §4402, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(3),Nov. 24, 2003, 117 Stat. 1764; Pub. L. 113–66, div. C, title XXXI, §3146(e)(2), Dec. 26, 2013, 127 Stat. 1076.)
+(Pub. L. 107–314, div. D, title XLIV, §4402, formerly Pub. L. 104–201, div. C, title XXXI, §3153, Sept. 23, 1996, 110 Stat. 2839; renumbered Pub. L. 107–314, div. D, title XLIV, §4402, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(3), Nov. 24, 2003, 117 Stat. 1764; Pub. L. 113–66, div. C, title XXXI, §3146(e)(2), Dec. 26, 2013, 127 Stat. 1076.)
 
 #### <b>Editorial Notes</b>
 

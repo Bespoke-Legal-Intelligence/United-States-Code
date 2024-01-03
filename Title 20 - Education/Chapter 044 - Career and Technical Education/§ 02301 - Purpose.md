@@ -30,7 +30,7 @@ The purpose of this chapter is to develop more fully the academic knowledge and 
 
 A prior section 2301, Pub. L. 88–210, §2, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3077, stated purpose of this chapter, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2301, Pub. L. 88–210, §2, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2437; amendedPub. L. 101–392, §2, Sept. 25, 1990, 104 Stat. 756, stated purpose of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2301, Pub. L. 88–210, §2, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 101–392, §2, Sept. 25, 1990, 104 Stat. 756, stated purpose of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 #### Amendments
 
@@ -64,7 +64,7 @@ Pub. L. 105–332, §1(a), Oct. 31, 1998, 112 Stat. 3076, provided that: "This A
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–392, §1(a), Sept. 25, 1990, 104 Stat. 753, provided that: "This Act \[see Tables for classification\] may be cited as the 'Carl D. Perkins Vocational and Applied Technology Education Act Amendments of 1990'."
+Pub. L. 101–392, §1(a), Sept. 25, 1990, 104 Stat. 753, provided that: "This Act \[see Tables for classification\]may be cited as the 'Carl D. Perkins Vocational and Applied Technology Education Act Amendments of 1990'."
 
 #### Short Title of 1968 Amendment
 

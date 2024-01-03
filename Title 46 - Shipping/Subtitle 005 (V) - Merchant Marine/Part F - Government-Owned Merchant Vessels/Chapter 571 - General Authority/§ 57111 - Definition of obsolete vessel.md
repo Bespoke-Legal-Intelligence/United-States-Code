@@ -1,0 +1,20 @@
+### §57111. Definition of obsolete vessel
+
+In this chapter, the term "obsolete vessel" means a vessel that—
+
+&emsp;(1) is or will be in the custody and control of the Maritime Administration for purposes of disposing of the vessel; and
+
+&emsp;(2) has been determined by the Secretary of Transportation to be of insufficient value, with respect to the programs of the Maritime Administration, to warrant—
+
+&emsp;&emsp;(A) preserving for future use or spare parts harvesting; or
+
+&emsp;&emsp;(B) retaining in the National Defense Reserve Fleet.
+
+(Added Pub. L. 118–31, div. C, title XXXV, §3514(j)(1)(B), Dec. 22, 2023, 137 Stat. 811.)
+
+#### <b>Editorial Notes</b>
+
+#### Prior Provisions
+
+A prior section 57111 was renumbered section 57110 of this title.
+

@@ -270,7 +270,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (vi) Exceptions granted by Secretary
 
-&emsp;&emsp;&emsp;The Secretary may waive the tax otherwise imposed by subparagraph (A) if the trust establishes to the satisfaction of the Secretary that rents charged to tenants were established on an arms' length basis even though a taxable REIT subsidiary of the trust provided services to such tenants.
+&emsp;&emsp;&emsp;The Secretary may waive the tax otherwise imposed by subparagraph (A) if thetrust establishes to the satisfaction of the Secretary that rents charged to tenants were established on an arms' length basis even though a taxable REIT subsidiary of the trust provided services to such tenants.
 
 #### (C) Redetermined deductions
 
@@ -384,7 +384,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (2) Coordination with tax on undistributed income
 
-&emsp;A real estate investment trust shall be treated as having sufficient earnings and profits to treat as a dividend any distribution (other than in a redemption to which section 302(a) applies) which is treated as a dividendby such trust. The preceding sentence shall not apply to the extent that the amount distributed during any calendar year by the trust exceeds the required distribution for such calendar year (as determined under section 4981).
+&emsp;A real estate investment trust shall be treated as having sufficient earnings and profits to treat as a dividend any distribution (other than in a redemption to which section 302(a) applies) which is treated as a dividend by such trust. The preceding sentence shall not apply to the extent that the amount distributed during any calendar year by the trust exceeds the required distribution for such calendar year (as determined under section 4981).
 
 #### (3) Distributions to meet requirements of subsection (a)(2)(B)
 
@@ -494,7 +494,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (b)(3)(C). Pub. L. 115–97, §13001(b)(2)(K)(i), redesignated subpar. (D) as (C). Former subpar. (C) redesignated (B).
 
-Subsec. (b)(3)(C)(i), (ii), (iv). Pub. L. 115–97, §13001(b)(2)(K)(ii), substituted "paragraph (1)" for "subparagraph (A)(ii)" in cl. (i) and "the tax imposed by paragraph (1) on undistributed capital gain" for "the tax imposed by subparagraph (A)(ii)" in cls. (ii) and (iv).
+Subsec. (b)(3)(C)(i), (ii), (iv). Pub. L. 115–97, §13001(b)(2)(K)(ii), substituted "paragraph (1)" for "subparagraph (A)(ii)" in cl. (i) and "the tax imposed byparagraph (1) on undistributed capital gain" for "the tax imposed by subparagraph (A)(ii)" in cls. (ii) and (iv).
 
 Subsec. (b)(3)(D). Pub. L. 115–97, §13001(b)(2)(K)(i), redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
 
@@ -620,7 +620,7 @@ Subsec. (b)(6)(B)(iii). Pub. L. 106–170, §532(c)(2)(M), substituted "section 
 
 Subsec. (b)(7) to (9). Pub. L. 106–170, §545(a), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
-Subsec. (d)(3)(A). Pub. L. 106–170, §566(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "shall be treated for purposes of this subsection and subsection (a)(2)(B) as made from theearliest earnings and profits accumulated in any taxable year to which the provisions of this part did not apply rather than the most recently accumulated earnings and profits, and".
+Subsec. (d)(3)(A). Pub. L. 106–170, §566(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "shall be treated for purposes of this subsection and subsection (a)(2)(B) as made from the earliest earnings and profits accumulated in any taxable year to which the provisions of this part did not apply rather than the most recently accumulated earnings and profits, and".
 
 Subsec. (d)(3)(B). Pub. L. 106–170, §566(b), inserted "and section 858" before period at end.
 
@@ -670,7 +670,7 @@ Subsec. (a)(1)(B). Pub. L. 99–514, §664(a), amended subpar. (B) generally. Pr
 
 Subsec. (b)(2)(F). Pub. L. 99–514, §666(b)(2), struck out "and there shall be included an amount equal to any net loss derived from prohibited transactions" after "prohibited transactions".
 
-Subsec. (b)(3)(C). Pub. L. 99–514, §668(b)(3), inserted at end "For purposes of this subparagraph, the amount of the net capital gain for any taxable year which is not a calendar year shall be determined without regard to any net capital loss attributable to transactions after December 31 of such year, and any such net capital loss such be treated as arising on the 1st day of the next taxable year. To the extent provided in regulations, the preceding sentence shall apply also for purposes of computing real estate investment trust taxable income."
+Subsec. (b)(3)(C). Pub. L. 99–514, §668(b)(3), inserted at end "For purposes of this subparagraph, the amount of the net capital gain for any taxable year which is not a calendar year shall be determined without regard toany net capital loss attributable to transactions after December 31 of such year, and any such net capital loss such be treated as arising on the 1st day of the next taxable year. To the extent provided in regulations, the preceding sentence shall apply also for purposes of computing real estate investment trust taxable income."
 
 Pub. L. 99–514, §665(a)(2), (b)(1), inserted "(or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year)", struck out last sentence which read as follows: "For purposes of this subparagraph, the net capital gain shall be deemed not to exceed the real estate investment trust taxable income (determined without regard to the deduction for dividends paid (as defined in section 561) for the taxable year)."
 
@@ -722,7 +722,7 @@ Subsec. (b)(1). Pub. L. 94–455, §1901(b)(1)(V), struck out provision that, fo
 
 Subsec. (b)(2). Pub. L. 94–455, §§1602(b)(2), 1603(c)(5), 1606(a), (d), 1607(b)(1)(A), (2), struck out subpar. (A) which provided for the exclusion of the excess, if any, of the net long-term capital gain over the net short-term capital loss, and subpar. (E) which prohibited the allowance of the net operating loss deduction provided in section 172, redesignated subpars. (B), (C), (D), and (F) as subpars. (A), (B), (C), and (D), respectively, added subpars. (E) and (F), and in subpar. (B) as redesignated substituted "subparagraph (D)" for "paragraph (F)" and struck out "shall be computed without regard to capital gains dividends and" after "shall be allowed, but".
 
-Subsec. (b)(3)(A). Pub. L. 94–455, §1607(a), substituted provisions setting an alternative tax in case of capital gains under which, if for any taxable year, a real estate investment trust has a net capital gain, then, in lieu of the tax imposed by subsection (b)(1), there is imposed a tax (if such tax is less than the tax imposed by such subsection) to consist of the sum of a tax, computed as provided in subsection (b)(1), on the real estate investment trust taxable income (determined by excluding such net capital gain and by computing the deduction for dividends paid without regard to capital gain dividends), and a tax of 30 percent of the excess of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only, for provisions posing a tax for each taxable year determined as provided in section 1201(a), on the excess, if any, of the net long-term capital gain over the sum of the net short-term capital loss and the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only.
+Subsec. (b)(3)(A). Pub. L. 94–455, §1607(a), substituted provisions setting an alternative tax in case of capital gains under which, if for any taxable year, a real estate investment trust has a net capital gain, then, in lieu of the tax imposed by subsection (b)(1), there is imposeda tax (if such tax is less than the tax imposed by such subsection) to consist of the sum of a tax, computed as provided in subsection (b)(1), on the real estate investment trust taxable income (determined by excluding such net capital gain and by computing the deduction for dividends paid without regard to capital gain dividends), and a tax of 30 percent of the excess of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only, for provisions posing a tax for each taxable year determined as provided in section 1201(a), on the excess, if any, of the net long-term capital gain over the sum of the net short-term capital loss and the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only.
 
 Subsec. (b)(3)(B). Pub. L. 94–455, §1402(b)(2), provided that "9 months" would be changed to "1 year".
 
@@ -808,7 +808,7 @@ Amendment by sections 3051 and 3052 of Pub. L. 110–289 applicable to sales mad
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Amendment by section 15311(c) of Pub. L. 110–246 applicable to taxable years ending after June 18, 2008, see section 15311(d) of Pub. L. 110–246, set out as a note under section 55 of this title.
+Amendment by section 15311(c) of Pub. L. 110–246 applicable to taxable years ending after June 18, 2008, seesection 15311(d) of Pub. L. 110–246, set out as a note under section 55 of this title.
 
 Pub. L. 110–234, title XV, §15315(e), May 22, 2008, 122 Stat. 1505, and Pub. L. 110–246, §4(a), title XV, §15315(e), June 18, 2008, 122 Stat. 1664, 2267, provided that: "The amendments made by this section \[amending this section\] shall apply to dispositions in taxable years beginning after the date of the enactment of this Act \[June 18, 2008\]."
 
@@ -916,7 +916,7 @@ Pub. L. 94–455, title XVI, §1608(a), Oct. 4, 1976, 90 Stat. 1757, as amended 
 
 For effective date of amendment by section 1602(b)(1), (2) of Pub. L. 94–455, see section 1608(b) of Pub. L. 94–455, set out as a Trust Not Disqualified in Certain Cases Where Income Tests Not Met note under section 856 of this title.
 
-For effective date of amendment by sections 1603, 1604, and 1605 of Pub. L. 94–455, see section 1608(d) ofPub. L. 94–455, set out as a note under section 856 of this title.
+For effective date of amendment by sections 1603, 1604, and 1605 of Pub. L. 94–455, see section 1608(d) of Pub. L. 94–455, set out as a note under section 856 of this title.
 
 Pub. L. 94–455, title XVI, §1608(c), Oct. 4, 1976, 90 Stat. 1757, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by sections 1606 and 1607 \[amending this section and sections 46, 172, and 443 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 4, 1976\]; except that in the case of a taxpayer which has a net operating loss (as defined in section 172(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) for any taxable year ending after the date of enactment of this Act \[Oct. 4, 1976\] for which the provisions of part II of subchapter M of chapter 1 of subtitle A of such Code apply to such taxpayer, such loss shall not be a net operating loss carryback under section 172 of such Code to any taxable year ending on or before the date of enactment of this Act \[Oct. 4, 1976\]."
 

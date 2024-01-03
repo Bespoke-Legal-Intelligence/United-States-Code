@@ -28,7 +28,7 @@ For purposes of subsection (a), discrimination includes—
 
 &emsp;(6) the purchase or lease by such entity of a new rail passenger car that is to be used to provide specified public transportation, and for which a solicitation is made later than 30 days after the effective date of this paragraph, that is not readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs; and
 
-&emsp;(7) the remanufacture by such entity of a rail passenger car that is to be used to providespecified public transportation so as to extend its usable life for 10 years or more, or the purchase or lease by such entity of such a rail car, unless the rail car, to the maximum extent feasible, is made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.
+&emsp;(7) the remanufacture by such entity of a rail passenger car that is to be used to provide specified public transportation so as to extend its usable life for 10 years or more, or the purchase or lease by such entity of such a rail car, unless the rail car, to the maximum extent feasible, is made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.
 
 #### (c) Historical or antiquated cars
 

@@ -48,7 +48,7 @@ Funds received from sales under subsection (e) shall be deposited in the Treasur
 
 #### (1) In general
 
-&emsp;The Director may enter into agreement with, and receive funds from any State, andother political subdivision, organization, business, or individual for the purpose of conducting activities to carry out this section.
+&emsp;The Director may enter into agreement with, and receive funds from any State, and other political subdivision, organization, business, or individual for the purpose of conducting activities to carry out this section.
 
 #### (2) Funds
 

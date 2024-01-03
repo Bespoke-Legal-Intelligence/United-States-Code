@@ -48,7 +48,7 @@ The report under subsection (a)(1) shall—
 
 #### (3) Publication
 
-&emsp;The lists under subsection (b)(5) and targets under paragraph (2) shall be published in the Federal Register and made available to any Indian Tribe participating in self-governance.
+&emsp;The lists under subsection (b)(5) and targets under paragraph (2) shall be published in theFederal Register and made available to any Indian Tribe participating in self-governance.
 
 #### (4) Annual review
 

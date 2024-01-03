@@ -1,6 +1,6 @@
 ### §2732. Payment of claims: availability of appropriations
 
-Appropriations available to the Department of Defense for operation and maintenance may beused for payment of claims authorized by law to be paid by the Department of Defense (except for civil functions), including—
+Appropriations available to the Department of Defense for operation and maintenance may be used for payment of claims authorized by law to be paid by the Department of Defense (except for civil functions), including—
 
 &emsp;(1) claims for damages arising under training contracts with carriers; and
 

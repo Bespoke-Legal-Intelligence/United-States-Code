@@ -1,6 +1,6 @@
 ### §1052. Minimum participation standards
 
-(a)(1)(A) No pension plan may require, as a condition of participation in the plan, that an employee complete a period of service with the employer or employers maintaining the plan extending beyond the later of the following dates—
+(a)(1)(A) No pension plan may require, as a condition of participation in the plan, that anemployee complete a period of service with the employer or employers maintaining the plan extending beyond the later of the following dates—
 
 &emsp;(i) the date on which the employee attains the age of 21; or
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 117–328 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7861(a)(2) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set out as a note under section 106 of Title 26, Internal Revenue Code.
+Amendment by section 7861(a)(2) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set outas a note under section 106 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

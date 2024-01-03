@@ -52,7 +52,7 @@
 
 &emsp;If the taxpayer has eligible gain for the taxable year from 1 or more dispositions of stock issued by any corporation, the aggregate amount of such gain from dispositions of stock issued by such corporation which may be taken into account under subsection (a) for the taxable year shall not exceed the greater of—
 
-&emsp;&emsp;(A) $10,000,000 reduced by the aggregate amount of eligible gain taken into account by the taxpayer under subsection (a) for prior taxable years and attributable to dispositions of stock issued by such corporation, or
+&emsp;&emsp;(A) $10,000,000 reduced by the aggregate amount of eligible gain taken into account by the taxpayer under subsection (a) forprior taxable years and attributable to dispositions of stock issued by such corporation, or
 
 &emsp;&emsp;(B) 10 times the aggregate adjusted bases of qualified small business stock issued by such corporation and disposed of by the taxpayer during the taxable year.
 
@@ -228,7 +228,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) are held for investment and are reasonably expected to be used within 2 years to finance research and experimentation in a qualified trade or business or increases in working capital needs of a qualified trade or business,
 
-> &emsp;shall be treated as used in the active conduct of a qualified trade or business. For periods after the corporation has been in existence for at least 2 years, in no event may more than 50 percent of the assets of the corporation qualify as used in the active conduct of a qualified trade or business by reason of this paragraph.
+> &emsp;shall be treated as used in the active conduct of a qualified trade or business. For periodsafter the corporation has been in existence for at least 2 years, in no event may more than 50 percent of the assets of the corporation qualify as used in the active conduct of a qualified trade or business by reason of this paragraph.
 
 #### (7) Maximum real estate holdings
 
@@ -314,7 +314,7 @@ For purposes of this section—
 
 #### (B) Limitation
 
-&emsp;&emsp;This section shall apply to gain from the sale or exchange of stock treated as qualified small business stock by reason of subparagraph (A) only to the extent of the gain which would have been recognized at the time of the transfer described in subparagraph (A) if section 351 or 368 had not applied at such time. The preceding sentence shall not apply if the stock which is treated as qualified small business stock by reason of subparagraph (A) is issued by a corporation which (as of the time of the transfer described in subparagraph (A)) is a qualified small business.
+&emsp;&emsp;This section shall apply to gain from the sale or exchange of stock treated as qualified small business stock by reason of subparagraph (A) only to the extent of the gain which would have been recognized at the time of the transfer described in subparagraph (A) if section 351 or 368 had not applied at such time. The preceding sentence shall not apply if the stock which is treated asqualified small business stock by reason of subparagraph (A) is issued by a corporation which (as of the time of the transfer described in subparagraph (A)) is a qualified small business.
 
 #### (C) Successive application
 
@@ -420,7 +420,7 @@ Pub. L. 111–240, §2011(a), added par. (4).
 
 <b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title I, §117(b)(2)\], substituted "Partial" for "50-percent" in section catchline.
 
-Subsec. (a). Pub. L. 106–554, §1(a)(7) \[title I, §117(a)\], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "In the caseof a taxpayer other than a corporation, gross income shall not include 50 percent of any gain from the sale or exchange of qualified small business stock held for more than 5 years."
+Subsec. (a). Pub. L. 106–554, §1(a)(7) \[title I, §117(a)\], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "In the case of a taxpayer other than a corporation, gross income shall not include 50 percent of any gain from the sale or exchange of qualified small business stock held for more than 5 years."
 
 <b>1996</b>—Subsec. (e)(4)(C). Pub. L. 104–188 substituted "REMIC, or FASIT" for "or REMIC".
 

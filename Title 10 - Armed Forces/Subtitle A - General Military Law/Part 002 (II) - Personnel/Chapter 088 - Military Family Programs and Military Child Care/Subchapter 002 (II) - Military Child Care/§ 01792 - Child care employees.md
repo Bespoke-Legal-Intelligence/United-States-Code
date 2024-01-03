@@ -18,7 +18,7 @@ Required Training.—(1) The Secretary of Defense shall prescribe regulations im
 
 (b)
 
-Training and Curriculum Specialists.—(1) The Secretary of Defense shall require that at least one employee at each military child development center be a specialist in training andcurriculum development. The Secretary shall ensure that such employees have appropriate credentials and experience.
+Training and Curriculum Specialists.—(1) The Secretary of Defense shall require that at least one employee at each military child development center be a specialist in training and curriculum development. The Secretary shall ensure that such employees have appropriate credentials and experience.
 
 (2) The duties of such employees shall include the following:
 
@@ -68,7 +68,7 @@ Subsec. (d)(2). Pub. L. 105–85, §1073(a)(34)(B), substituted "section 1784" f
 
 #### Pilot Program on Hiring of Special Needs Inclusion Coordinators for Department of Defense Child Development Centers
 
-Pub. L. 117–263, div. A, title V, §576, Dec. 23, 2022, 136 Stat. 2605, provided that:
+Pub. L. 117–263, div. A, title V, §576, Dec. 23, 2022, 136 Stat. 2605, as amended by Pub. L. 118–31, div. A, title V, §586, Dec. 22, 2023, 137 Stat. 282, provided that:
 
 "(a)
 
@@ -103,6 +103,16 @@ Briefings Required.—
 Briefing on anticipated costs.—Not later than March 1, 2023, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the anticipated costs for the pilot program required by subsection (a).
 
 &emsp;"(2)
+
+Briefings on implementation.—Beginning on January 31, 2024, until the termination of the pilot program, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a biannual briefing on the implementation of the pilot program. Each such briefing shall include the following:
+
+&emsp;&emsp;"(A) The process for selecting child development centers under subsection (b).
+
+&emsp;&emsp;"(B) How a special needs inclusion coordinator hired under the pilot program coordinates with the head of the child development center concerned and the commander of the military installation concerned.
+
+&emsp;&emsp;"(C) How many special needs inclusion coordinators have been hired under the pilot program.
+
+&emsp;"(3)
 
 Briefing on effectiveness of program.—Not later than September 30, 2025, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the pilot program required by subsection (a) that includes—
 

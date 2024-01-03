@@ -52,7 +52,7 @@
 
 #### (A) Release and disclosure for enforcement
 
-&emsp;&emsp;The Secretary may release or disclose to the Attorney General information covered by paragraph (1) to the extent necessary to enforce the natural resources conservation programs referred to in paragraph (1)(B)(i).
+&emsp;&emsp;The Secretary may release or disclose to the Attorney General information coveredby paragraph (1) to the extent necessary to enforce the natural resources conservation programs referred to in paragraph (1)(B)(i).
 
 #### (B) Disclosure to cooperating persons and agencies
 
@@ -148,7 +148,7 @@ In the preparation and application of a conservation compliance plan under subch
 
 #### (A) Shelterbelts and windbreaks
 
-&emsp;&emsp;The limitations established under paragraph (1) shall not apply to cropland that is subject to an easement under subpart B of part I of subchapter IV that is used for the establishment of shelterbelts and windbreaks.
+&emsp;&emsp;The limitations established under paragraph (1) shall not apply to cropland that issubject to an easement under subpart B of part I of subchapter IV that is used for the establishment of shelterbelts and windbreaks.
 
 #### (B) Wet and saturated soils
 
@@ -262,7 +262,7 @@ In carrying out the conservation stewardship program under subpart B of part IV 
 
 &emsp;(1) the goals and objectives of the programs will be met by such arrangements;
 
-&emsp;(2) a sufficient number of eligible participants will be aggregated under the alternativefunding arrangement to accomplish the underlying purposes and objectives of the applicable program; and
+&emsp;(2) a sufficient number of eligible participants will be aggregated under the alternative funding arrangement to accomplish the underlying purposes and objectives of the applicable program; and
 
 &emsp;(3) statutory limitations regarding contracts with individual producers will not be exceeded by any tribal member, except that the Secretary may approve a waiver if the Secretary is authorized to approve a waiver under the statutory authority of the applicable program.
 
@@ -330,7 +330,7 @@ The Secretary may not prohibit, through a contract, easement, or agreement under
 
 &emsp;The Secretary shall—
 
-&emsp;&emsp;(A) continue collaboration with Federal agencies, States, Indian tribes, or local unitsof government on existing regulatory certainty, regulatory predictability, safe harbor protection, or other similar regulatory assurances in accordance with paragraph (2); and
+&emsp;&emsp;(A) continue collaboration with Federal agencies, States, Indian tribes, or local units of government on existing regulatory certainty, regulatory predictability, safe harbor protection, or other similar regulatory assurances in accordance with paragraph (2); and
 
 &emsp;&emsp;(B) continue collaboration with the Secretary of the Interior on consultation under section 1536(a)(2) of this title or conference under section 1536(a)(4) of this title, as applicable, for wildlife conservation efforts, including the Working Lands for Wildlife model of conservation on working landscapes, as implemented on the day before December 20, 2018, in accordance with—
 
@@ -400,7 +400,7 @@ Subsec. (l). Pub. L. 115–334, §2503(b)(2), redesignated subsec. (k) as (l). F
 
 Pub. L. 115–334, §2301(d)(1)(L), substituted "subpart B of part IV of subchapter IV" for "subpart B of part II of subchapter IV" and "subpart A of part IV of subchapter IV" for "part IV of subchapter IV".
 
-Subsec. (m). Pub. L. 115–334, §2503(c), designated existing provisions as introductory provisions and pars. (1) and (3) and added par. (2), substituted "shall" for "may" in introductory provisions and "arrangements;" for "arrangements, and that" in par. (1), and inserted ", except that the Secretary may approve a waiver if the Secretary is authorized to approve a waiver underthe statutory authority of the applicable program" before period at end of par. (3).
+Subsec. (m). Pub. L. 115–334, §2503(c), designated existing provisions as introductory provisions and pars. (1) and (3) and added par. (2), substituted "shall" for "may" in introductory provisions and "arrangements;" for "arrangements, and that" in par. (1), and inserted ", except that the Secretary may approve a waiver if the Secretary is authorized to approve a waiver under the statutory authority of the applicable program" before period at end of par. (3).
 
 Pub. L. 115–334, §2503(b)(2), redesignated subsec. (l) as (m).
 

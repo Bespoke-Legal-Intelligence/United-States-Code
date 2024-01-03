@@ -46,7 +46,7 @@ The Secretary shall—
 
 #### (2) Hearing
 
-&emsp;The hearing shall be held within 30 days of the designation of a hearing examiner andshall be open to the public. A record of the proceedings shall be established and maintained.
+&emsp;The hearing shall be held within 30 days of the designation of a hearing examiner and shall be open to the public. A record of the proceedings shall be established and maintained.
 
 #### (3) Evidence; recommendations; cost
 

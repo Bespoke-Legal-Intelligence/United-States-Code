@@ -10,7 +10,7 @@ To carry out the policy of this subchapter, the Secretary (in consultation with 
 
 &emsp;&emsp;(B) conducting with the institutions or persons joint or coordinated research, extension, and teaching activities that address problems of significance to food and agriculture in the United States; and
 
-&emsp;&emsp;(C) giving priority to those institutions with existing memoranda of understanding, agreements, or other formal ties to UnitedStates institutions, or Federal or State agencies;
+&emsp;&emsp;(C) giving priority to those institutions with existing memoranda of understanding, agreements, or other formal ties to United States institutions, or Federal or State agencies;
 
 &emsp;(2) enter into cooperative arrangements with Departments and Ministries of Agriculture in other nations to conduct research, extension, and teaching activities in support of the development of a viable and sustainable global agricultural system, including efforts to establish a global system for plant genetic resources conservation;
 
@@ -66,7 +66,7 @@ The Secretary may provide specialized or technical services, on an advance of fu
 
 #### (d) Reports
 
-The Secretary shall provide biennial reports to the Committee on Agriculture of the House ofRepresentatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on efforts of the Federal Government—
+The Secretary shall provide biennial reports to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on efforts of the Federal Government—
 
 &emsp;(1) to coordinate international agricultural research within the Federal Government; and
 
@@ -86,7 +86,7 @@ The Secretary shall provide biennial reports to the Committee on Agriculture of 
 
 &emsp;&emsp;(B) encourage research carried out by governmental, nongovernmental, and private entities, including through collaboration with colleges and universities, research institutions, and the private sector.
 
-(Pub. L. 95–113, title XIV, §1458, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, §1436, Dec. 22, 1981, 95 Stat. 1313; Pub. L. 99–198, title XIV, §1418, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 101–624, title XVI, §1613(a), (b), (d)(1), Nov. 28, 1990, 104 Stat. 3724, 3726; Pub. L. 102–237, title IV, §402(11), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §816, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title II, §227(a)–(d), June 23, 1998, 112 Stat. 543–545; Pub. L. 107–171, title VII, §7209(c), May 13, 2002, 116 Stat. 445; Pub. L. 110–234, title VII, §§7130, 7511(c)(10)(B), May 22, 2008, 122 Stat. 1227, 1268; Pub. L. 110–246, §4(a), title VII, §§7130, 7511(c)(10)(B), June 18, 2008, 122 Stat. 1664, 1988, 2029; Pub. L. 115–334, title VII, §7122, Dec. 20, 2018, 132 Stat. 4792.)
+(Pub. L. 95–113, title XIV, §1458, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, §1436, Dec. 22, 1981, 95 Stat. 1313; Pub. L. 99–198, title XIV, §1418, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 101–624, title XVI, §1613(a), (b), (d)(1), Nov. 28, 1990, 104 Stat. 3724, 3726; Pub. L. 102–237, title IV, §402(11), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §816, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title II, §227(a)–(d), June 23, 1998, 112 Stat. 543–545; Pub. L. 107–171, title VII, §7209(c),May 13, 2002, 116 Stat. 445; Pub. L. 110–234, title VII, §§7130, 7511(c)(10)(B), May 22, 2008, 122 Stat. 1227, 1268; Pub. L. 110–246, §4(a), title VII, §§7130, 7511(c)(10)(B), June 18, 2008, 122 Stat. 1664, 1988, 2029; Pub. L. 115–334, title VII, §7122, Dec. 20, 2018, 132 Stat. 4792.)
 
 #### <b>Editorial Notes</b>
 
@@ -146,7 +146,7 @@ Subsec. (e). Pub. L. 105–185, §227(d), added subsec. (e).
 
 Subsec. (a). Pub. L. 101–624, §1613(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary, subject to such coordination with other Federal officials, departments, and agencies as the President may direct, is authorized to—
 
-&emsp;"(1) expand the operational coordination of the Department of Agriculture with institutions and other persons throughout the world performing agricultural and related research and extension activities by exchanging research materials and results with such institutions or persons and by conducting with such institutions or persons joint or coordinated researchand extension on problems of significance to food and agriculture in the United States;
+&emsp;"(1) expand the operational coordination of the Department of Agriculture with institutions and other persons throughout the world performing agricultural and related research and extension activities by exchanging research materials and results with such institutions or persons and by conducting with such institutions or persons joint or coordinated research and extension on problems of significance to food and agriculture in the United States;
 
 &emsp;"(2) assist the Agency for International Development with food, agricultural, research and extension programs in developing countries;
 

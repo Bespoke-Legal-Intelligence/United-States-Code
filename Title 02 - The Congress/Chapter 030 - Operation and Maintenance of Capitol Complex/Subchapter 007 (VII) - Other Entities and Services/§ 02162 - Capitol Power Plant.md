@@ -56,7 +56,7 @@ There is authorized to be appropriated to carry out the feasibility study and de
 
 #### References in Text
 
-Act approved April 28, 1904, referred to in subsec. (a), is act Apr. 28, 1904, ch. 1762, 33 Stat. 452, which provided,at 33 Stat. 479, an appropriation for the construction of a heating, lighting and power plant in connection with the office building for the House of Representatives to furnish the necessary heat, light, and power for the office building for the House of Representatives, the Capitol building, the Congressional Library building, and for such other public buildings erected after Apr. 28, 1904, on grounds adjacent to the Capitol grounds at the east of the Capitol building and facing the same.
+Act approved April 28, 1904, referred to in subsec. (a), is act Apr. 28, 1904, ch. 1762, 33 Stat. 452, which provided, at 33 Stat. 479, an appropriation for the construction of a heating, lighting and power plant in connection with the office building for the House of Representatives to furnish the necessary heat, light, and power for the office building for the House of Representatives, the Capitol building, the Congressional Library building, and for such other public buildings erected after Apr. 28, 1904, on grounds adjacent to the Capitol grounds at the east of the Capitol building and facing the same.
 
 #### Codification
 
@@ -72,7 +72,7 @@ Section is based on act Mar. 4, 1911, popularly known as the "Sundry Civil Appro
 
 #### Change of Name
 
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under section 1801 of this title.
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former section 1801 of this title.
 
 #### Effective Date of 2007 Amendment
 

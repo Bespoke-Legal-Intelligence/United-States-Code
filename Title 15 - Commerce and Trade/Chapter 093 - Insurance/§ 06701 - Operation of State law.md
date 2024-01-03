@@ -20,7 +20,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;(A) any State from—
 
-&emsp;&emsp;&emsp;(i) collecting, reviewing, and taking actions (including approval and disapproval) on applications and other documents or reports concerning any proposed acquisition of, or a change or continuation of control of, an insurer domiciled in that State; and
+&emsp;&emsp;&emsp;(i) collecting, reviewing, and taking actions (including approval and disapproval) on applications and other documents or reports concerning any proposed acquisitionof, or a change or continuation of control of, an insurer domiciled in that State; and
 
 &emsp;&emsp;&emsp;(ii) exercising authority granted under applicable State law to collect information concerning any proposed acquisition of, or a change or continuation of control of, an insurer engaged in the business of insurance in, and regulated as an insurer by, such State;
 
@@ -100,7 +100,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 #### (ii) Nondiscrimination
 
-&emsp;&emsp;&emsp;Subsection (e) does not apply with respect to any State statute, regulation, order, interpretation, or other action regarding insurance sales, solicitation, or cross marketing activities described in subparagraph (A) that was issued, adopted, or enacted before September 3, 1998, and that is not described in subparagraph (B).
+&emsp;&emsp;&emsp;Subsection (e) does not apply with respect to any State statute, regulation, order, interpretation, or other action regarding insurance sales, solicitation, or cross marketing activities described in subparagraph (A) that was issued, adopted,or enacted before September 3, 1998, and that is not described in subparagraph (B).
 
 #### (iii) Construction
 
@@ -192,7 +192,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (5) State
 
-&emsp;The term "State" means any State of the United States, the District of Columbia, anyterritory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
+&emsp;The term "State" means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
 
 (Pub. L. 106–102, title I, §104, Nov. 12, 1999, 113 Stat. 1352.)
 
@@ -256,7 +256,7 @@ Establishment.—The Secretary of the Treasury shall establish and appoint an ad
 
 &emsp;"(2)
 
-Duties.—The Advisory Committee shall provide advice, recommendations, and encouragement with respect to the creation and development of the nongovernmental risk-sharing mechanisms described under subsection (a).
+Duties.—The Advisory Committee shall provide advice, recommendations, and encouragementwith respect to the creation and development of the nongovernmental risk-sharing mechanisms described under subsection (a).
 
 &emsp;"(3)
 
@@ -280,7 +280,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(4) widespread financial market uncertainties have arisen following the terrorist attacks of September 11, 2001, including the absence of information from which financial institutions can make statistically valid estimates of the probability and cost of future terrorist events, and therefore the size, funding, and allocation of the risk of loss caused by such acts of terrorism;
 
-&emsp;"(5) a decision by property and casualty insurers to deal with such uncertainties, either by terminatingproperty and casualty coverage for losses arising from terrorist events, or by radically escalating premium coverage to compensate for risks of loss that are not readily predictable, could seriously hamper ongoing and planned construction, property acquisition, and other business projects, generate a dramatic increase in rents, and otherwise suppress economic activity; and
+&emsp;"(5) a decision by property and casualty insurers to deal with such uncertainties, either by terminating property and casualty coverage for losses arising from terrorist events, or by radically escalating premium coverage to compensate for risks of loss that are not readily predictable, could seriously hamper ongoing and planned construction, property acquisition, and other business projects, generate a dramatic increase in rents, and otherwise suppress economic activity; and
 
 &emsp;"(6) the United States Government should provide temporary financial compensation to insured parties, contributing to the stabilization of the United States economy in a time of national crisis, while the financial services industry develops the systems, mechanisms, products, and programs necessary to create a viable financial services market for private terrorism risk insurance.
 
@@ -358,7 +358,7 @@ In general.—An entity has 'control' over another entity, if—
 
 &emsp;&emsp;&emsp;"(ii) the entity controls in any manner the election of a majority of the directors or trustees of the other entity; or
 
-&emsp;&emsp;&emsp;"(iii) the Secretary determines, after notice and opportunity for hearing, that the entity directly or indirectly exercises a controlling influence over the management or policies of the other entity.
+&emsp;&emsp;&emsp;"(iii) the Secretary determines, after notice and opportunity for hearing, that the entity directly or indirectly exercises a controlling influenceover the management or policies of the other entity.
 
 &emsp;&emsp;"(B)
 
@@ -742,7 +742,7 @@ Recoupment of adjustments.—Any mandatory recoupment amounts not collected by t
 
 &emsp;&emsp;"(E)
 
-Timing of premiums.—The Secretary may adjust the timing of terrorism loss risk-spreading premiums to provide for equivalent application of the provisions of this title to policies that are not based on a calendar year, or to apply such provisions on a daily, monthly, or quarterly basis, as appropriate.
+Timing of premiums.—The Secretary may adjust the timing of terrorism loss risk-spreadingpremiums to provide for equivalent application of the provisions of this title to policies that are not based on a calendar year, or to apply such provisions on a daily, monthly, or quarterly basis, as appropriate.
 
 "(f)
 
@@ -978,7 +978,7 @@ State Law.—Nothing in this title shall affect the jurisdiction or regulatory a
 
 &emsp;"(2) except that—
 
-&emsp;&emsp;"(A) the definition of the term 'act of terrorism' in section 102 shall be the exclusive definition of that term for purposes of compensation for insured losses under this title, and shall preempt any provision of State law that is inconsistent with that definition, to the extent that such provision of law would otherwise apply to any type of insurance covered by this title;
+&emsp;&emsp;"(A) the definition of the term 'act of terrorism' in section 102 shall be the exclusive definition of that term for purposes of compensation for insuredlosses under this title, and shall preempt any provision of State law that is inconsistent with that definition, to the extent that such provision of law would otherwise apply to any type of insurance covered by this title;
 
 &emsp;&emsp;"(B) during the period beginning on the date of enactment of this Act \[Nov. 26, 2002\] and ending on December 31, 2003, rates and forms for terrorism risk insurance covered by this title and filed with any State shall not be subject to prior approval or a waiting period under any law of a State that would otherwise be applicable, except that nothing in this title affects the ability of any State to invalidate a rate as excessive, inadequate, or unfairly discriminatory, and, with respect to forms, where a State has prior approval authority, it shall apply to allow subsequent review of such forms; and
 
@@ -1004,7 +1004,7 @@ Preemption of state actions.—All State causes of action of any kind for proper
 
 &emsp;"(3)
 
-Substantive law.—The substantive law for decision in any such action described in paragraph (1) shall be derived from the law, including choice of law principles, of the State in which such act of terrorismoccurred, unless such law is otherwise inconsistent with or preempted by Federal law.
+Substantive law.—The substantive law for decision in any such action described in paragraph (1) shall be derived from the law, including choice of law principles, of the State in which such act of terrorism occurred, unless such law is otherwise inconsistent with or preempted by Federal law.
 
 &emsp;"(4)
 
@@ -1118,7 +1118,7 @@ Elements of study.—The study required by paragraph (1) shall contain—
 
 &emsp;"(3)
 
-Report.—Not later than 180 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Comptroller General shall submit a report on thestudy required by paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+Report.—Not later than 180 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Comptroller General shall submit a report on the study required by paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 
 "(h)
 

@@ -4,7 +4,7 @@
 
 General.—With the approval of the President, a department, agency, or instrumentality of the United States Government may obtain—
 
-&emsp;(1) insurance under this chapter, including insurance for risks from operating an aircraft in intrastate or interstate air commerce, but not including insurance on valuables subject to sections 17302 and 17303 of title 40; and
+&emsp;(1) insurance under this chapter, including insurance for risks from operating an aircraft in intrastate or interstate air commerce, butnot including insurance on valuables subject to sections 17302 and 17303 of title 40; and
 
 &emsp;(2) insurance for risks arising from providing goods or services directly related to and necessary for operating an aircraft covered by insurance obtained under clause (1) of this subsection if the aircraft is operated—
 

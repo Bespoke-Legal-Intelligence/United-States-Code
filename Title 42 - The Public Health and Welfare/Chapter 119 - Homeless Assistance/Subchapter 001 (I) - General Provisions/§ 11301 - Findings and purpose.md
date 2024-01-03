@@ -50,7 +50,7 @@ Pub. L. 107–110, title X, §1031, Jan. 8, 2002, 115 Stat. 1989, provided that:
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–421, §1, Oct. 25, 1994, 108 Stat. 4346, provided that: "This Act \[amending section 11411 of thistitle and enacting and amending provisions set out as notes under section 2687 of Title 10, Armed Forces\] may cited as the 'Base Closure Community Redevelopment and Homeless Assistance Act of 1994'."
+Pub. L. 103–421, §1, Oct. 25, 1994, 108 Stat. 4346, provided that: "This Act \[amending section 11411 of this title and enacting and amending provisions set out as notes under section 2687 of Title 10, Armed Forces\] may cited as the 'Base Closure Community Redevelopment and Homeless Assistance Act of 1994'."
 
 #### Short Title of 1993 Amendment
 
@@ -58,7 +58,7 @@ Pub. L. 103–120, §1, Oct. 27, 1993, 107 Stat. 1144, provided that: "This Act 
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–550, title XIV, §1401, Oct. 28, 1992, 106 Stat. 4012, provided that: "This title \[enacting sections 11381 to 11389, 11391 to 11399, 11403e–4, 11404, 11405 to 11405b, 11406 to 11406b, 11407 to 11407b, 11408, and 11408a of this title, transferring sections 11404c to 11404e of this title to sections 11403e–1 to 11403e–3 of this title, respectively, amending sections 11318, 11319, 11346, 11352, 11374, 11375, 11377, 11401, 11403a, 11403c to 11403e, 11403g, 11403h, 11404a, and 11404b of this title, repealing sections 11381 to 11388, 11391 to 11394, 11404, 11405 to 11405c, and 11406 to 11406c of this title, enacting provisions set out as notes preceding section 11361 and under sections 11361, 11381, and 11411 of this title, amending provisions set out as a note under this section, and repealing provisions set out as notes under sections 11361, 11391, and 11399 of this title\] may be cited as the 'Stewart B. McKinney Homeless Housing Assistance Amendments Act of 1992'."
+Pub. L. 102–550, title XIV, §1401, Oct. 28, 1992, 106 Stat. 4012, provided that: "This title \[enacting sections 11381 to 11389, 11391 to 11399, 11403e–4, 11404, 11405 to 11405b, 11406 to 11406b, 11407 to 11407b, 11408, and 11408a of this title, transferring sections 11404c to 11404e of this titleto sections 11403e–1 to 11403e–3 of this title, respectively, amending sections 11318, 11319, 11346, 11352, 11374, 11375, 11377, 11401, 11403a, 11403c to 11403e, 11403g, 11403h, 11404a, and 11404b of this title, repealing sections 11381 to 11388, 11391 to 11394, 11404, 11405 to 11405c, and 11406 to 11406c of this title, enacting provisions set out as notes preceding section 11361 and under sections 11361, 11381, and 11411 of this title, amending provisions set out as a note under this section, and repealing provisions set out as notes under sections 11361, 11391, and 11399 of this title\] may be cited as the 'Stewart B. McKinney Homeless Housing Assistance Amendments Act of 1992'."
 
 #### Short Title of 1990 Amendment
 
@@ -108,7 +108,7 @@ Findings.—The Congress finds that—
 
 Purposes.—The purposes of this division \[see Short Title of 2009 Amendment note above\] are—
 
-&emsp;"(1) to consolidate the separate homeless assistance programs carried out under title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 etseq.\] (consisting of the supportive housing program and related innovative programs, the safe havens program, the section 8 \[42 U.S.C. 1437f\] assistance program for single-room occupancy dwellings, and the shelter plus care program) into a single program with specific eligible activities;
+&emsp;"(1) to consolidate the separate homeless assistance programs carried out under title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\] (consisting of the supportive housing program and related innovative programs, the safe havens program, the section 8 \[42 U.S.C. 1437f\] assistance program for single-room occupancy dwellings, and the shelter plus care program) into a single program with specific eligible activities;
 
 &emsp;"(2) to codify in Federal law the continuum of care planning process as a required and integral local function necessary to generate the local strategies for ending homelessness; and
 

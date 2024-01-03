@@ -68,7 +68,7 @@ Nothing in this section shall be construed to prohibit the inclusion in the futu
 
 Subsec. (b)(3). Pub. L. 112–239, §3132(d)(2), substituted "section 2522(a) of this title" for "section 3158 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (42 U.S.C. 2121 note)".
 
-Subsec. (b)(5), (6). Pub. L. 113–66, §3145(f)(2), (3), redesignated par. (6) as (5), struck out "National Nuclear Security" before "Administration" in subpar. (B), and struck out former par. (5) which read as follows: "A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support the programs required to implement the plan to transform the nuclear security enterprise under section 2534 of this title, together with a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during thatfive-fiscal-year period will help ensure that those programs are implemented. The statement shall assume year-to-year funding profiles that account for increases only for projected inflation."
+Subsec. (b)(5), (6). Pub. L. 113–66, §3145(f)(2), (3), redesignated par. (6) as (5), struck out "National Nuclear Security" before "Administration" in subpar. (B), and struck out former par. (5) which read as follows: "A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support the programs required to implement the plan to transform the nuclear security enterprise under section 2534 of this title, together with a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help ensure that those programs are implemented. The statement shall assume year-to-year funding profiles that account for increases only for projected inflation."
 
 Pub. L. 112–239, §3132(a)(1), substituted "nuclear security enterprise" for "nuclear weapons complex" wherever appearing.
 
@@ -89,6 +89,30 @@ Subsec. (e). Pub. L. 106–398, §1 \[div. C, title XXXI, §3154(b)(2)\], redesi
 #### Effective Date
 
 Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under section 2401 of this title.
+
+#### Integrated Schedule for Future-Years Nuclear Security Program
+
+Pub. L. 118–31, div. C, title XXXI, §3128, Dec. 22, 2023, 137 Stat. 795, provided that:
+
+"(a)
+
+In General.—The Administrator for Nuclear Security shall—
+
+&emsp;"(1) develop and maintain a high-level milestone schedule document for all covered construction projects that includes production infrastructure modernization schedules with weapons modernization programs; and
+
+&emsp;"(2) for each covered construction project included in the high-level milestone schedule document under paragraph (1), include in such document an identification and explanation of the status of any associated integrated master schedule.
+
+"(b)
+
+Inclusion in Future-years Nuclear Security Program.—The milestone schedule document required under subsection (a) shall be included in the future-years nuclear security program for fiscal year 2025 and each subsequent fiscal year.
+
+"(c)
+
+Covered Construction Project.—In this section, the term 'covered construction project' means—
+
+&emsp;"(1) a construction project that is subject to Department of Energy Order 413.3B, or a successor order; or
+
+&emsp;"(2) a program designated as Enhanced Management A or B under the Program Execution Instruction of the Office of Defense Programs of the National Nuclear Security Administration."
 
 #### Technical Base and Facilities Maintenance and Recapitalization Activities
 

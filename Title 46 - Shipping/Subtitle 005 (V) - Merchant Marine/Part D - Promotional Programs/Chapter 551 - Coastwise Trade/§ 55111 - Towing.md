@@ -54,7 +54,7 @@ Subsection (a)(2) is substituted for "having in force a certificate of documenta
 
 In subsection (b)(1), the words "in the United States to which the coastwise laws apply" are substituted for "in the United States, its Territories or possessions, embraced within the coastwise laws of the United States" because of the definition of "United States" in chapter 1 of the revised title and because of section 55101 of the revised title.
 
-In subsection (b)(3), the words "or place" are omitted as surplus. The words "as defined in the Presidential Proclamation of March 10, 1983" are omitted because "exclusive economic zone" is defined in chapter 1 of the revised title.
+In subsection (b)(3), the words "or place" are omitted as surplus. The words "as defined in the PresidentialProclamation of March 10, 1983" are omitted because "exclusive economic zone" is defined in chapter 1 of the revised title.
 
 In subsection (c), the penalty amounts reflect the adjustment for inflation pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990 (28 U.S.C. 2461 note). See 19 C.F.R. §4.92 (2004). In paragraph (2), the words "which sum may be recovered by way of libel or suit" are omitted as surplus.
 

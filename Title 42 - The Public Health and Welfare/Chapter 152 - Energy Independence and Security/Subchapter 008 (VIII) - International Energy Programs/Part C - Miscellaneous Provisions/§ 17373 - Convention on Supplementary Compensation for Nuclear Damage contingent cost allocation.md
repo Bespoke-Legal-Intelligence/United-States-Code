@@ -40,7 +40,7 @@
 
 #### (2) Purpose
 
-&emsp;The purpose of this section is to allocate the contingent costs associated with participationby the United States in the international nuclear liability compensation system established by the Convention on Supplementary Compensation for Nuclear Damage, done at Vienna on September 12, 1997—
+&emsp;The purpose of this section is to allocate the contingent costs associated with participation by the United States in the international nuclear liability compensation system established by the Convention on Supplementary Compensation for Nuclear Damage, done at Vienna on September 12, 1997—
 
 &emsp;&emsp;(A) with respect to a Price-Anderson incident, by using funds made available under section 2210 of this title to cover the contingent costs in a manner that neither increases the burdens nor decreases the benefits under section 2210 of this title; and
 
@@ -152,7 +152,7 @@ In this section:
 
 #### (2) Amount
 
-&emsp;The amount of public liability allowable under section 2210 of this title relating to a Price-Anderson incident under paragraph (1)shall be increased by an amount equal to the difference between—
+&emsp;The amount of public liability allowable under section 2210 of this title relating to a Price-Anderson incident under paragraph (1) shall be increased by an amount equal to the difference between—
 
 &emsp;&emsp;(A) the amount of funds made available for the Price-Anderson incident under Article VII of the Convention; and
 
@@ -288,7 +288,7 @@ Nothing in any other law (including regulations) limits liability for a covered 
 
 #### (A) In general
 
-&emsp;&emsp;In any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts of the United States, any appeal or review by writ of mandamus or otherwise with respect to a nuclear incident that is not a Price-Anderson incident shall be in accordance with chapter 83 of title 28, except that the appeal or review shall occur in the United States Court of Appeals for the District of Columbia Circuit.
+&emsp;&emsp;In any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts ofthe United States, any appeal or review by writ of mandamus or otherwise with respect to a nuclear incident that is not a Price-Anderson incident shall be in accordance with chapter 83 of title 28, except that the appeal or review shall occur in the United States Court of Appeals for the District of Columbia Circuit.
 
 #### (B) Supreme Court jurisdiction
 

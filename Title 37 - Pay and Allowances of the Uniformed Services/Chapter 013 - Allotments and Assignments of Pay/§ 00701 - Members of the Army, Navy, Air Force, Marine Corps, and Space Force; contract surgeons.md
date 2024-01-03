@@ -104,7 +104,7 @@ Subsec. (d)(1). Pub. L. 99–145, §683(a)(1)(A), inserted reference to Navy and
 
 Subsec. (d)(2). Pub. L. 99–145, §683(a)(1)(B), inserted reference to Navy.
 
-<b>1966</b>—Subsec. (d). Pub. L. 89–718 substituted "Secretary concerned" for "Chief of Finance (in cases involving the Army) or by the Secretary of the AirForce" in provision for collection erroneously paid allotments.
+<b>1966</b>—Subsec. (d). Pub. L. 89–718 substituted "Secretary concerned" for "Chief of Finance (in cases involving the Army) or by the Secretary of the Air Force" in provision for collection erroneously paid allotments.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

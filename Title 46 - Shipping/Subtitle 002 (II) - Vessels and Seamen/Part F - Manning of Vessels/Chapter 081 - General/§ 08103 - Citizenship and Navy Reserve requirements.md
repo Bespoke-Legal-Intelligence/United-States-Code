@@ -34,7 +34,7 @@
 
 (d)(1) On each departure of a passenger vessel for which a construction differential subsidy has been granted, at least 90 percent of the entire complement (including licensed individuals) must be citizens of the United States.
 
-(2) An individual not required by this subsection to be a citizen of the United States may be engaged only if the individual has a declaration of intention to become a citizen of the United States or other evidence of admission to the United States for permanent residence. Analien may be employed only in the steward's department of the passenger vessel.
+(2) An individual not required by this subsection to be a citizen of the United States may be engaged only if the individual has a declaration of intention to become a citizen of the United States or other evidence of admission to the United States for permanent residence. An alien may be employed only in the steward's department of the passenger vessel.
 
 (e) If a documented vessel is deprived for any reason of the services of an individual (except the master and the radio officer) when on a foreign voyage and a vacancy consequently occurs, until the vessel's return to a port at which in the most expeditious manner a replacement who is a citizen of the United States can be obtained, an individual not a citizen of the United States may serve in—
 
@@ -156,7 +156,7 @@ Steward's department.—The term "steward's department" means the department tha
 
 Large passenger vessel.—The term "large passenger vessel" means a vessel of more than 70,000 gross tons, as measured under section 14302 of this title, with capacity for at least 2,000 passengers and documented with a coastwise endorsement under chapter 121 of this title.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 548; Pub. L. 100–239, §§5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, 101 Stat. 1780; Pub. L. 100–255, Mar. 4, 1988, 102 Stat. 23; Pub. L. 101–595, title VI, §603(6), title VII, §711, Nov. 16, 1990, 104 Stat. 2993, 2997; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title VII, §727, title XI, §1123, Oct. 19, 1996, 110 Stat. 3939, 3980; Pub. L. 108–293, title IV, §412, Aug. 9, 2004, 118 Stat. 1046; Pub. L. 109–163, div. A, title V, §515(f)(3)(A), (B), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–241, title III, §312(c)(1), July 11, 2006, 120 Stat. 533; Pub. L. 109–304, §15(22), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 109–364, div. C, title XXXV, §3509, Oct. 17, 2006, 120 Stat. 2518; Pub. L. 110–181, div. C, title XXXV, §3529(d), Jan. 28, 2008, 122 Stat. 604; Pub. L. 114–120, title III, §§306(a)(6), 313(d), Feb. 8, 2016, 130 Stat. 54, 59; Pub. L. 116–260, div. AA, title V, §512(c)(6)(B), Dec. 27, 2020, 134 Stat. 2757; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(b)(8), Jan. 1, 2021, 134 Stat. 4751.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 548; Pub. L. 100–239, §§5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, 101 Stat. 1780; Pub. L. 100–255, Mar. 4, 1988, 102 Stat. 23; Pub. L. 101–595, title VI, §603(6), title VII, §711, Nov. 16, 1990, 104 Stat. 2993, 2997; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title VII, §727, title XI, §1123, Oct. 19, 1996, 110 Stat. 3939, 3980; Pub. L. 108–293, title IV, §412, Aug. 9, 2004, 118 Stat. 1046; Pub. L. 109–163, div. A, title V, §515(f)(3)(A), (B), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–241, title III, §312(c)(1), July 11, 2006, 120 Stat. 533; Pub. L. 109–304, §15(22), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 109–364, div. C, title XXXV, §3509, Oct. 17, 2006,120 Stat. 2518; Pub. L. 110–181, div. C, title XXXV, §3529(d), Jan. 28, 2008, 122 Stat. 604; Pub. L. 114–120, title III, §§306(a)(6), 313(d), Feb. 8, 2016, 130 Stat. 54, 59; Pub. L. 116–260, div. AA, title V, §512(c)(6)(B), Dec. 27, 2020, 134 Stat. 2757; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(b)(8), Jan. 1, 2021, 134 Stat. 4751.)
 
 Historical and Revision Notes
 
@@ -242,7 +242,7 @@ Pub. L. 100–239, §5(a)(2), amended subsec. (b) generally. Prior to amendment,
 
 Subsecs. (c), (d)(1). Pub. L. 100–239, §5(b), struck out "from the United States" after "On each departure".
 
-Subsec. (e). Pub. L. 100–239, §5(c), inserted "and the radio officer" after "the master" and substituted "until the vessel's return to a port at which in the most expeditious manner" for "until the vessel's first return to a United States port at which".
+Subsec. (e). Pub. L. 100–239, §5(c), inserted "and the radio officer" after "the master" and substituted "until the vessel's return to a port at which in themost expeditious manner" for "until the vessel's first return to a United States port at which".
 
 Subsec. (i). Pub. L. 100–239, §5(d)(1), added subsec. (i).
 

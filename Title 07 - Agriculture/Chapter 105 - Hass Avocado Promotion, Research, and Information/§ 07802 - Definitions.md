@@ -44,7 +44,7 @@ As used in this chapter:
 
 #### (A) First handler
 
-&emsp;&emsp;The term "first handler" means a person operating in the Hass avocados marketing system that sells domestic or imported Hass avocados for United States domestic consumption, and who is responsible for remitting assessments to the Board. The term includes an importer or producer who sells directly to consumers Hass avocados that the importer or producer has imported into the United States or produced, respectively.
+&emsp;&emsp;The term "first handler" means a person operating in the Hass avocados marketingsystem that sells domestic or imported Hass avocados for United States domestic consumption, and who is responsible for remitting assessments to the Board. The term includes an importer or producer who sells directly to consumers Hass avocados that the importer or producer has imported into the United States or produced, respectively.
 
 #### (B) Exempt handler
 

@@ -60,7 +60,7 @@ Apr. 16, 1947, ch. 38, §207(h), 61 Stat. 50; redesignated (g), Aug. 7, 1947, ch
 
 June 12, 1948, ch. 449, §213(a), 62 Stat. 369.
 
-The words "and a part of a year that is less than six months is disregarded" are added for clarity. The legislative history of the Career Compensation Act of 1949,which contains a provision identical to those codified in this section, indicates that all of these provisions are construed as requiring a fractional year of less than six months to be disregarded (hearing before the Committee on Armed Services of the Senate on H.R. 5007, 81st Cong., 1st sess., p. 313, July 6, 1949).
+The words "and a part of a year that is less than six months is disregarded" are added for clarity. The legislative history of the Career Compensation Act of 1949, which contains a provision identical to those codified in this section, indicates that all of these provisions are construed as requiring a fractional year of less than six months to be disregarded (hearing before the Committee on Armed Services of the Senate on H.R. 5007, 81st Cong., 1st sess., p. 313, July 6, 1949).
 
 #### <b>Editorial Notes</b>
 

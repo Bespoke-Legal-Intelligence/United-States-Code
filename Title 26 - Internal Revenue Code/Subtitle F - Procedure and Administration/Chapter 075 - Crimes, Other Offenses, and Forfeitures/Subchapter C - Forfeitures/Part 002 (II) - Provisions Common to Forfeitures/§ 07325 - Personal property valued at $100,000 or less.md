@@ -4,7 +4,7 @@ In all cases of seizure of any goods, wares, or merchandise as being subject to 
 
 #### (1) List and appraisement
 
-&emsp;The Secretary shall cause a list containing a particular description of the goods, wares, or merchandise seized to be prepared in duplicate, and an appraisement thereof to be made by three sworn appraisers, to be selected bythe Secretary who shall be respectable and disinterested citizens of the United States residing within the internal revenue district wherein the seizure was made. Such list and appraisement shall be properly attested by the Secretary and such appraisers. Each appraiser shall be allowed for his services such compensation as the Secretary shall by regulations prescribe, to be paid in the manner similar to that provided for other necessary charges incurred in collecting internal revenue.
+&emsp;The Secretary shall cause a list containing a particular description of the goods, wares, or merchandise seized to be prepared in duplicate, and an appraisement thereof to be made by three sworn appraisers, to be selected by the Secretary who shall be respectable and disinterested citizens of the United States residing within the internal revenue district wherein the seizure was made. Such list and appraisement shall be properly attested by the Secretary and such appraisers. Each appraiser shall be allowed for his services such compensation as the Secretary shall by regulations prescribe, to be paid in the manner similar to that provided for other necessary charges incurred in collecting internal revenue.
 
 #### (2) Notice of seizure
 
@@ -12,7 +12,7 @@ In all cases of seizure of any goods, wares, or merchandise as being subject to 
 
 #### (3) Execution of bond by claimant
 
-&emsp;Any person claiming the goods, wares, or merchandise so seized, within the time specified in the notice, may file with the Secretary a claim, stating his interest in the articles seized, and may execute a bond to the United States in the penal sum of $2,500, conditioned that, in case of condemnation of the articles so seized, the obligors shall pay all the costs and expenses of the proceedings to obtain such condemnation; and upon the delivery of such bond to the Secretary, he shall transmit the same, with the duplicate list or description of the goods seized, to the United States attorney for the district, and such attorney shall proceed thereon in the ordinary manner prescribed by law.
+&emsp;Any person claiming the goods, wares, or merchandise so seized, within the time specified in the notice, may file with the Secretary a claim, stating his interest in the articles seized, and may execute a bond to the United States in the penal sum of $2,500, conditioned that, in case of condemnation of the articles so seized, the obligors shall pay all the costsand expenses of the proceedings to obtain such condemnation; and upon the delivery of such bond to the Secretary, he shall transmit the same, with the duplicate list or description of the goods seized, to the United States attorney for the district, and such attorney shall proceed thereon in the ordinary manner prescribed by law.
 
 #### (4) Sale in absence of bond
 

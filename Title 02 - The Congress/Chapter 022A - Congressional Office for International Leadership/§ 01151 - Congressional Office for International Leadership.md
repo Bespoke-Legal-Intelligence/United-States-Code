@@ -30,7 +30,7 @@
 
 #### (2) Grant program
 
-&emsp;Subject to the provisions of paragraphs (3) and (4), the Office shall establish a program under which the Office annually awards grants to government or community organizations in the United States that seek to establish programs under which those organizations will host nationals of eligible foreign states who are emerging political and civic leaders at any level of government.
+&emsp;Subject to the provisions of paragraphs (3) and (4), the Office shall establish a program under which the Office annually awards grantsto government or community organizations in the United States that seek to establish programs under which those organizations will host nationals of eligible foreign states who are emerging political and civic leaders at any level of government.
 
 #### (3) Restrictions
 
@@ -132,7 +132,7 @@ In this section, the term "eligible foreign state" means—
 
 &emsp;(3) any other country that is designated by the Board, except that the Board shall notify the Committees on Appropriations of the Senate and the House of Representatives of the designation at least 90 days before the designation is to take effect.
 
-(Pub. L. 106–554, §1(a)(2) \[title III, §313\], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 108–7, div. H, title I, §1401(a), Feb. 20, 2003, 117 Stat. 382; Pub. L. 108–447, div. G, title I, §§1501, 1502, Dec. 8, 2004, 118 Stat. 3192; Pub. L. 109–13, div. A, title III, §3402(b), May 11, 2005, 119 Stat. 272; Pub. L.109–289, div. B, title II, §20703(d)(6), as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 39; Pub. L. 111–68, div. A, title I, §1601(a), (b), Oct. 1, 2009, 123 Stat. 2041; Pub. L. 117–103, div. I, title I, §150(a), (b), Mar. 15, 2022, 136 Stat. 522, 523.)
+(Pub. L. 106–554, §1(a)(2) \[title III, §313\], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 108–7, div. H, title I, §1401(a), Feb. 20, 2003, 117 Stat. 382; Pub. L. 108–447, div. G, title I, §§1501, 1502, Dec. 8, 2004, 118 Stat. 3192; Pub. L. 109–13, div. A, title III, §3402(b), May 11, 2005, 119 Stat. 272; Pub. L. 109–289, div. B, title II, §20703(d)(6), as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 39; Pub. L. 111–68, div. A, title I, §1601(a), (b), Oct. 1, 2009, 123 Stat. 2041; Pub. L. 117–103, div. I, title I, §150(a), (b), Mar. 15, 2022, 136 Stat. 522, 523.)
 
 #### <b>Editorial Notes</b>
 
@@ -222,7 +222,7 @@ Pub. L. 117–103, div. I, title I, §150(d), Mar. 15, 2022, 136 Stat. 523, prov
 
 "(1)
 
-Effective date.—This section \[amending this section and enacting provisions set out as a note under this section\] and the amendments made by this section shall take effect on or after the later of October 1, 2021, or the date of the enactment of this Act \[Mar. 15, 2022\].
+Effective date.—This section \[amending this section and enacting provisions set out as a note underthis section\] and the amendments made by this section shall take effect on or after the later of October 1, 2021, or the date of the enactment of this Act \[Mar. 15, 2022\].
 
 "(2)
 
@@ -364,7 +364,7 @@ Fiscal year 1999.—
 
 &emsp;&emsp;"(A)
 
-In general.—Of funds made available under the heading 'SENATE' under title I of the Legislative \[Branch\] Appropriations Act, 1999 (Public Law 105–275; 112 Stat. 2430 et seq.) \[see Tables for classification\], $10,000,000 shall be made available, subjectto the approval of the Committee on Appropriations of the Senate, to the administering agency to carry out the program.
+In general.—Of funds made available under the heading 'SENATE' under title I of the Legislative \[Branch\] Appropriations Act, 1999 (Public Law 105–275; 112 Stat. 2430 et seq.) \[see Tables for classification\], $10,000,000 shall be made available, subject to the approval of the Committee on Appropriations of the Senate, to the administering agency to carry out the program.
 
 &emsp;&emsp;"(B)
 

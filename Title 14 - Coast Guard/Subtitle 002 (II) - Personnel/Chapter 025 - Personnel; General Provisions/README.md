@@ -47,7 +47,7 @@ A prior analysis for chapter 25 "GENERAL PROVISIONS FOR COAST GUARD RESERVE AND 
 
 #### Amendments
 
-<b>2022</b>—Pub. L. 117–263, div. K, title CXIV, §11410(b), title CXVIII, §11808(a)(18), Dec. 23, 2022, 136 Stat. 4117, 4166, added item 2516 and struck out item for subchapter III "LIGHTHOUSE SERVICE" and items 2531 "Personnel of former Lighthouse Service", 2532 "Retirement of employees", 2533 "Surviving spouses", and 2534 "Application for benefits".
+<b>2022</b>—Pub. L. 117–263, div. K, title CXIV, §11410(b), title CXVIII, §11808(a)(18), Dec. 23, 2022, 136 Stat. 4117,4166, added item 2516 and struck out item for subchapter III "LIGHTHOUSE SERVICE" and items 2531 "Personnel of former Lighthouse Service", 2532 "Retirement of employees", 2533 "Surviving spouses", and 2534 "Application for benefits".
 
 Pub. L. 117–263, div. K, title CXII, §11242(b), Dec. 23, 2022, 136 Stat. 4040, which directed amendment of the analysis for this chapter by adding item 2515 "after the item relating to section 2515", was executed by adding item 2515 after item 2514 to reflect the probable intent of Congress.
 

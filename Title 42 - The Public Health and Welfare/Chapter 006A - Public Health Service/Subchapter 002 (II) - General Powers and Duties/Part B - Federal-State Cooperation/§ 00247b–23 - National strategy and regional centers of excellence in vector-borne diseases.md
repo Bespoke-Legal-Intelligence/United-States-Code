@@ -48,7 +48,7 @@ To be eligible to receive a grant, contract, or cooperative agreement under subs
 
 #### (1) Program summary
 
-&emsp;An entity receiving an award under subsection (c) shall, not later than one year afterreceiving such award, and annually thereafter, submit to the Secretary a summary of programs and activities funded under the award.
+&emsp;An entity receiving an award under subsection (c) shall, not later than one year after receiving such award, and annually thereafter, submit to the Secretary a summary of programs and activities funded under the award.
 
 #### (2) Progress report
 

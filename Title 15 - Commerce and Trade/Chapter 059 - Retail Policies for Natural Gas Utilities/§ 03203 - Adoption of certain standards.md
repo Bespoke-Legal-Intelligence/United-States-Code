@@ -24,7 +24,7 @@ The following Federal standards are hereby established:
 
 #### (3) Integrated resource planning
 
-&emsp;Each gas utility shall employ, in order to provide adequate and reliable service to its gascustomers at the lowest system cost. All plans or filings of a State regulated gas utility before a State regulatory authority to meet the requirements of this paragraph shall (A) be updated on a regular basis, (B) provide the opportunity for public participation and comment, (C) provide for methods of validating predicted performance, and (D) contain a requirement that the plan be implemented after approval of the State regulatory authority. Subsection (c) shall not apply to this paragraph to the extent that it could be construed to require the State regulatory authority to extend the record of a State proceeding in submitting reports to the Federal Government.
+&emsp;Each gas utility shall employ, in order to provide adequate and reliable service to its gas customers at the lowest system cost. All plans or filings of a State regulated gas utility before a State regulatory authority to meet the requirements of this paragraph shall (A) be updated on a regular basis, (B) provide the opportunity for public participation and comment, (C) provide for methods of validating predicted performance, and (D) contain a requirement that the plan be implemented after approval of the State regulatory authority. Subsection (c) shall not apply to this paragraph to the extent that it could be construed to require the State regulatory authority to extend the record of a State proceeding in submitting reports to the Federal Government.
 
 #### (4) Investments in conservation and demand management
 
@@ -52,7 +52,7 @@ The following Federal standards are hereby established:
 
 &emsp;&emsp;&emsp;(ii) providing to utilities incentives for the successful management of energy efficiency programs, such as allowing utilities to retain a portion of the cost-reducing benefits accruing from the programs;
 
-&emsp;&emsp;&emsp;(iii) promoting the impact on adoption of energy efficiency as 1 of the goals of retail rate design, recognizing that energy efficiency must be balanced with other objectives; and
+&emsp;&emsp;&emsp;(iii) promoting the impact on adoption of energy efficiency as 1 of the goals of retailrate design, recognizing that energy efficiency must be balanced with other objectives; and
 
 &emsp;&emsp;&emsp;(iv) adopting rate designs that encourage energy efficiency for each customer class.
 
@@ -88,7 +88,7 @@ This chapter, referred to in subsec. (b)(6), was in the original "this subtitle"
 
 Subsec. (b)(5), (6). Pub. L. 110–140, §532(b), added pars. (5) and (6).
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–486, §115(d), in introductory provisions inserted "(or after October 24, 1992, in the case of standards under paragraphs (3), and (4) of subsection (b))" and in par. (2) substituted "standardsestablished by paragraphs (2), (3) and (4) of subsection (b)" for "standard established by subsection (b)(2)".
+<b>1992</b>—Subsec. (a). Pub. L. 102–486, §115(d), in introductory provisions inserted "(or after October 24, 1992, in the case of standards under paragraphs (3), and (4) of subsection (b))" and in par. (2) substituted "standards established by paragraphs (2), (3) and (4) of subsection (b)" for "standard established by subsection (b)(2)".
 
 Subsec. (b)(3), (4). Pub. L. 102–486, §115(b), added pars. (3) and (4).
 

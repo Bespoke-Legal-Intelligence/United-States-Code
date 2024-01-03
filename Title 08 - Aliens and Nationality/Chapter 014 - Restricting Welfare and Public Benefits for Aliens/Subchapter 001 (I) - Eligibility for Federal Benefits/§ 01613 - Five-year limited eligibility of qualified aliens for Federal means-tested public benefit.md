@@ -54,7 +54,7 @@ The limitation under subsection (a) shall not apply to the following aliens:
 
 &emsp;(G) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (i) deliver in-kind services at the community level, including through public or private nonprofit agencies; (ii) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (iii) are necessary for the protection of life or safety.
 
-&emsp;(H) Programs of student assistance under titles IV, V, IX, and X of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 1101 et seq., 1134 et seq., 1135 et seq.\], and titles III, VII, and VIII of the Public Health Service Act \[42 U.S.C. 241 et seq., 292 et seq., 296 et seq.\].
+&emsp;(H) Programs of student assistance under titles IV, V, IX, and X of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 1101 et seq.,1134 et seq., 1135 et seq.\], and titles III, VII, and VIII of the Public Health Service Act \[42 U.S.C. 241 et seq., 292 et seq., 296 et seq.\].
 
 &emsp;(I) Means-tested programs under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 

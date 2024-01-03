@@ -46,5 +46,5 @@ Covered General or Flag Officer Defined.—In this section, the term "covered ge
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–291, div. A, title VI, §622(b), Dec. 19, 2014, 128 Stat. 3403, provided that: "Section 1407a of title 10, United States Code, as amended by subsection (a), shallbe effective for retired pay that commences after December 31, 2014."
+Pub. L. 113–291, div. A, title VI, §622(b), Dec. 19, 2014, 128 Stat. 3403, provided that: "Section 1407a of title 10, United States Code, as amended by subsection (a), shall be effective for retired pay that commences after December 31, 2014."
 

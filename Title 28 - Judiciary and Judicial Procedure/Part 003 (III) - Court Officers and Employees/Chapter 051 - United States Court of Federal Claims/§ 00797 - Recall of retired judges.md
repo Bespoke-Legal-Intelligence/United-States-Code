@@ -8,7 +8,7 @@
 
 (c) Any senior judge performing duties pursuant to this section shall not be counted as a judge for purposes of the number of judgeships authorized by section 171 of this title.
 
-(d) Any senior judge, while performing duties pursuant to this section, shall be paid the same allowances for travel and other expenses as a judge in active service. Such senior judge shall also receive from the Court of Federal Claims supplemental pay in an amount sufficient, whenadded to his retirement annuity, to equal the salary of a judge in active service for the same period or periods of time. Such supplemental pay shall be paid in the same manner as the salary of a judge.
+(d) Any senior judge, while performing duties pursuant to this section, shall be paid the same allowances for travel and other expenses as a judge in active service. Such senior judge shall also receive from the Court of Federal Claims supplemental pay in an amount sufficient, when added to his retirement annuity, to equal the salary of a judge in active service for the same period or periods of time. Such supplemental pay shall be paid in the same manner as the salary of a judge.
 
 (Added Pub. L. 92–375, §2, Aug. 10, 1972, 86 Stat. 529; amended Pub. L. 97–164, title I, §121(f)(1), Apr. 2, 1982, 96 Stat. 35; Pub. L. 99–651, title II, §202(c), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 102–572, title IX, §§902(a), 904(b), Oct. 29, 1992, 106 Stat. 4516, 4517; Pub. L. 106–518, title III, §308, Nov. 13, 2000, 114 Stat. 2419.)
 

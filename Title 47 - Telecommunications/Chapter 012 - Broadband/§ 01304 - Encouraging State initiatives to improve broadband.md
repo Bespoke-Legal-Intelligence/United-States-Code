@@ -82,7 +82,7 @@ A grant awarded to an eligible entity under subsection (b) shall be used—
 
 &emsp;&emsp;&emsp;(iii) develop a tactical business plan for achieving its goals, with specific recommendations for online application development and demand creation;
 
-&emsp;(6) to work collaboratively with broadband service providers and information technology companies to encourage deployment and use,especially in unserved areas and areas in which broadband penetration is significantly below the national average, through the use of local demand aggregation, mapping analysis, and the creation of market intelligence to improve the business case for providers to deploy;
+&emsp;(6) to work collaboratively with broadband service providers and information technology companies to encourage deployment and use, especially in unserved areas and areas in which broadband penetration is significantly below the national average, through the use of local demand aggregation, mapping analysis, and the creation of market intelligence to improve the business case for providers to deploy;
 
 &emsp;(7) to establish programs to improve computer ownership and Internet access for unserved areas and areas in which broadband penetration is significantly below the national average;
 

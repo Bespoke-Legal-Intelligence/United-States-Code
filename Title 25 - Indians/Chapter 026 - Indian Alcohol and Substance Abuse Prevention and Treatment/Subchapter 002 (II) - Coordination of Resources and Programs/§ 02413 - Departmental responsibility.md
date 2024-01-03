@@ -26,7 +26,7 @@ The Secretary of the Interior, acting through the Bureau of Indian Affairs, the 
 
 &emsp;&emsp;(A) coordinating with other agencies to monitor the performance and compliance of the relevant Federal programs in achieving the goals and purposes of this chapter and the Memorandum of Agreement entered into under section 2411 of this title;
 
-&emsp;&emsp;(B) serving as a point of contact for Indian tribes and the Tribal Coordinating Committees regarding the implementation of this chapter, the Memorandum of Agreement,and any Tribal Action Plan established under section 2412 of this title; and
+&emsp;&emsp;(B) serving as a point of contact for Indian tribes and the Tribal Coordinating Committees regarding the implementation of this chapter, the Memorandum of Agreement, and any Tribal Action Plan established under section 2412 of this title; and
 
 &emsp;&emsp;(C) not later than 1 year after July 29, 2010, developing, in coordination and consultation with tribal governments, a framework for interagency and tribal coordination that—
 

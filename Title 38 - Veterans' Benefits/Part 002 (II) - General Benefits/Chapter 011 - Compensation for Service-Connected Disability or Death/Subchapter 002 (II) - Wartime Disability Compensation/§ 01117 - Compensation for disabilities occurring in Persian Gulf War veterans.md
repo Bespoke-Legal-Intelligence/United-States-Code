@@ -290,7 +290,7 @@ Review of Potential Treatment Models for Certain Illnesses.—Under the agreemen
 
 "(g)
 
-Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with service described in subsection (c)(1)(A).
+Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartimehazards, or preventive medicines or vaccines associated with service described in subsection (c)(1)(A).
 
 "(2) In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
 
@@ -370,7 +370,7 @@ Definitions.—In this section:
 
 #### Persian Gulf War Veterans' Benefits
 
-Pub. L. 103–446, title I, §§102–105, 107, 109, 110, Nov. 2, 1994, 108 Stat. 4647–4650, 4652–4654, as amended by Pub.L. 104–262, title III, §352(a), Oct. 9, 1996, 110 Stat. 3210; Pub. L. 105–368, title I, §107, Nov. 11, 1998, 112 Stat. 3325; Pub. L. 106–117, title II, §205(b), (c), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 115–182, title I, §144(a)(3), June 6, 2018, 132 Stat. 1430, provided that:
+Pub. L. 103–446, title I, §§102–105, 107, 109, 110, Nov. 2, 1994, 108 Stat. 4647–4650, 4652–4654, as amended by Pub. L. 104–262, title III, §352(a), Oct. 9, 1996, 110 Stat. 3210; Pub. L. 105–368, title I, §107, Nov. 11, 1998, 112 Stat. 3325; Pub. L. 106–117, title II, §205(b), (c), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 115–182, title I, §144(a)(3), June 6, 2018, 132 Stat. 1430, provided that:
 
 #### "SEC. 102. FINDINGS.
 
@@ -380,7 +380,7 @@ Pub. L. 103–446, title I, §§102–105, 107, 109, 110, Nov. 2, 1994, 108 Stat
 
 &emsp;"(2) Significant numbers of veterans of the Persian Gulf War are suffering from illnesses, or are exhibiting symptoms of illness, that cannot now be diagnosed or clearly defined. As a result, many of these conditions or illnesses are not considered to be service connected under current law for purposes of benefits administered by the Department of Veterans Affairs.
 
-&emsp;"(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
+&emsp;"(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it maybe that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
 
 &emsp;"(4) That workshop concluded that the information concerning the range and intensity of exposure to toxic substances by military personnel in the Southwest Asia theater of operations is very limited and that such information was collected only after a considerable delay.
 
@@ -414,7 +414,7 @@ Uniform Medical Evaluation Protocol.—(1) The Secretary of Veterans Affairs sha
 
 "(B) The Secretary may enter into contracts with non-Department medical facilities for the provision of the evaluation under the protocol.
 
-"(C) In the case of a veteran whose residence is distant from a medical center described in subparagraph (A), the Secretary may provide the evaluation througha Department medical center described in that subparagraph and, in such a case, may provide the veteran the travel and incidental expenses therefor pursuant to the provisions of section 111 of title 38, United States Code.
+"(C) In the case of a veteran whose residence is distant from a medical center described in subparagraph (A), the Secretary may provide the evaluation through a Department medical center described in that subparagraph and, in such a case, may provide the veteran the travel and incidental expenses therefor pursuant to the provisions of section 111 of title 38, United States Code.
 
 "(4)(A) If the Secretary is unable to diagnose the symptoms or illness of a veteran provided an evaluation, or if the symptoms or illness of a veteran do not respond to treatment provided by the Secretary, the Secretary may use the authority in sections 1703A, 8111, and 8153 of title 38, United States Code, in order to provide for the veteran to receive diagnostic tests or treatment at a non-Department medical facility that may have the capability of diagnosing or treating the symptoms or illness of the veteran. The Secretary may provide the veteran the travel and incidental expenses therefor pursuant to the provisions of section 111 of title 38, United States Code.
 
@@ -526,7 +526,7 @@ Study of Health Consequences of Persian Gulf Service.—If the National Academy 
 
 Oversight.—(1) The Secretary shall seek to enter into an agreement with the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the National Academy of Sciences for (A) the review of proposals to conduct the research referred to in subsection (a), (B) oversight of such research, and (C) review of the research findings.
 
-"(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into an agreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
+"(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into anagreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
 
 "(c)
 

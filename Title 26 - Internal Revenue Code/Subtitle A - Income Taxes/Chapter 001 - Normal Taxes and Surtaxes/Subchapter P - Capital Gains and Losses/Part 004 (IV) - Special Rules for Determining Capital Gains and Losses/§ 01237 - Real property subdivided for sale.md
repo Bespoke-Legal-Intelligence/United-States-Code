@@ -20,7 +20,7 @@ Any lot or parcel which is part of a tract of real property in the hands of a ta
 
 #### (1) Gains
 
-&emsp;If more than 5 lots or parcels contained in the same tract of real property are sold or exchanged, gain from any sale or exchange (which occurs in or after the taxable year in which the sixth lot or parcel is sold or exchanged) of any lot or parcel which comes within the provisions of paragraphs (1), (2) and (3) of subsection (a) of this section shall be deemed to be gain from the sale of propertyheld primarily for sale to customers in the ordinary course of the trade or business to the extent of 5 percent of the selling price.
+&emsp;If more than 5 lots or parcels contained in the same tract of real property are sold or exchanged, gain from any sale or exchange (which occurs in or after the taxable year in which the sixth lot or parcel is sold or exchanged) of any lot or parcel which comes within the provisions of paragraphs (1), (2) and (3) of subsection (a) of this section shall be deemed to be gain from the sale of property held primarily for sale to customers in the ordinary course of the trade or business to the extent of 5 percent of the selling price.
 
 #### (2) Expenditures of sale
 
@@ -56,7 +56,7 @@ Subsec. (d). Pub. L. 94–455, §1901(a)(138), struck out effective date provisi
 
 <b>1971</b>—Subsec. (a). Pub. L. 91–686, §2(a)(1), substituted "other than a corporation" for "(including corporations only if no shareholder directly or indirectly holds real property for sale to customers in the ordinary course of trade or business and only in the case of property described in the last sentence of subsection (b)(3))".
 
-Subsec. (b). Pub. L. 91–686, §2(a)(2), struck out sentence which made subpars. (B) and (C) inapplicable in the case of property acquired through the foreclosure of a lien thereon which secured the payment of an indebtedness to the taxpayer or (in the case of a corporation) to a creditor who has transferred the foreclosure bid to the taxpayer in exchange for all of its stock and other consideration and in the case of property adjacent to such property if 80 percent of the real property owned by the taxpayer was property described in the first part of the sentence.
+Subsec. (b). Pub. L. 91–686, §2(a)(2), struck out sentence which made subpars. (B) and (C) inapplicable in the case of property acquired through the foreclosure ofa lien thereon which secured the payment of an indebtedness to the taxpayer or (in the case of a corporation) to a creditor who has transferred the foreclosure bid to the taxpayer in exchange for all of its stock and other consideration and in the case of property adjacent to such property if 80 percent of the real property owned by the taxpayer was property described in the first part of the sentence.
 
 <b>1958</b>—Subsec. (a)(1). Pub. L. 85–866 substituted "and, in the same taxable year" for "or, in the same taxable year".
 
@@ -80,7 +80,7 @@ Pub. L. 91–686, §2(b), Jan. 12, 1971, 84 Stat. 2071, provided that: "The amen
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending afterAug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
+Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
 #### Effective Date of 1956 Amendment
 

@@ -14,7 +14,7 @@ Vessels Under Jurisdiction of the Secretary of the Navy With Homeport in United 
 
 (B)(i)(I) Corrective and preventive maintenance or repair may be performed on a vessel as described in subparagraph (A) if the work is performed by United States Government personnel or United States contractor personnel.
 
-(II) Notwithstanding subclause (I), foreign workers may be used to perform corrective and preventive maintenance or repair on a vessel as described in subparagraph (A) only if the Secretary of the Navy determines that travel by United States Government personnel or United States contractor personnel to perform the corrective or preventive maintenance or repair is not advisable for health or safety reasons. The Secretary of the Navy may not delegate the authority to make a determination under this subclause.
+(II) Notwithstanding subclause (I), foreign workers may be used to perform corrective andpreventive maintenance or repair on a vessel as described in subparagraph (A) only if the Secretary of the Navy determines that travel by United States Government personnel or United States contractor personnel to perform the corrective or preventive maintenance or repair is not advisable for health or safety reasons. The Secretary of the Navy may not delegate the authority to make a determination under this subclause.
 
 (III) Not later than 30 days after making a determination under subclause (II), the Secretary of the Navy shall submit to the congressional defense committees written notification of the determination. The notification shall include the reasons why travel by United States personnel is not advisable for health or safety reasons, the location where the corrective and preventive maintenance or repair will be performed, and the approximate duration of the corrective and preventive maintenance or repair.
 
@@ -54,6 +54,28 @@ Vessel Changing Homeports.—(1) In the case of a naval vessel the homeport of w
 
 (c)
 
+Repair and Refurbishment of Certain Submarines.—(1) Notwithstanding any other provision of this section, and subject to paragraph (2), the President shall determine the appropriate public or private shipyard in the United States, Australia, or the United Kingdom to perform any repair or refurbishment of a United States submarine involved in submarine security activities between the United States, Australia, and the United Kingdom.
+
+(2)(A) The President may determine under paragraph (1) that repair or refurbishment described in such paragraph may be performed in Australia or the United Kingdom only if—
+
+&emsp;(i) such repair or refurbishment will facilitate the development of repair or refurbishment capabilities in the United Kingdom or Australia;
+
+&emsp;(ii) such repair or refurbishment will be for a United States submarine that is operating forward outside of the United States; or
+
+&emsp;(iii) the Secretary of Defense certifies to Congress that performing such repair or refurbishment at a shipyard in Australia or the United Kingdom is required due to an exigent threat to the national security interests of the United States.
+
+(B) In making a determination under subparagraph (A), the President shall consider any effects of such determination on the capacity and capability of shipyards in the United States.
+
+(C) Not later than 15 days after the date on which the Secretary of Defense makes a certification under subparagraph (A)(iii), the Secretary shall brief the congressional defense committees on—
+
+&emsp;(i) the threat that requires the use of a shipyard in Australia or the United Kingdom; and
+
+&emsp;(ii) opportunities to mitigate the future potential need to leverage foreign shipyards.
+
+(3) Repair or refurbishment described in paragraph (1) may be carried out by personnel and contractors of the United States, the United Kingdom, or Australia in accordance with the international arrangements governing the submarine security activities described in such paragraph.
+
+(d)
+
 Report.—(1) The Secretary of the Navy shall submit to Congress each year, at the time that the President's budget is submitted to Congress that year under section 1105(a) of title 31, a report listing all repairs and maintenance performed on any covered naval vessel that has undergone work for the repair of the vessel in any shipyard outside the United States or Guam (in this section referred to as a "foreign shipyard") during the fiscal year preceding the fiscal year in which the report is submitted.
 
 (2) The report shall include the percentage of the annual ship repair budget of the Navy that was spent on repair of covered naval vessels in foreign shipyards during the fiscal year covered by the report.
@@ -88,11 +110,13 @@ Report.—(1) The Secretary of the Navy shall submit to Congress each year, at t
 
 &emsp;(C) A vessel not described in subparagraph (A) or (B) that is operated pursuant to a contract entered into by the Secretary of the Navy and the Maritime Administration or the United States Transportation Command in support of Department of Defense operations.
 
-(Added and amended Pub. L. 103–160, div. A, title III, §367, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1632, 1710, §7310; Pub. L. 104–106, div. A, title X, §1017, Feb. 10, 1996, 110 Stat. 425; Pub. L. 109–364, div. A, title X, §1014, Oct. 17, 2006, 120 Stat. 2376; Pub. L. 110–417, \[div. A\], title X, §1012, Oct. 14, 2008, 122 Stat. 4584; Pub. L. 112–239, div. A, title III, §344, Jan. 2, 2013, 126 Stat. 1700; Pub. L. 115–91, div. A, title X, §1023, Dec. 12, 2017, 131 Stat. 1548; renumbered §8680, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–92, div. A, title X, §1035, Dec. 20, 2019, 133 Stat. 1583; Pub. L. 116–283, div. A, title X, §§1025, 1081(a)(45), Jan. 1, 2021, 134 Stat. 3843, 3873.)
+(Added and amended Pub. L. 103–160, div. A, title III, §367, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1632, 1710, §7310; Pub. L. 104–106, div. A, title X, §1017, Feb. 10, 1996, 110 Stat. 425; Pub. L. 109–364, div. A, title X, §1014, Oct. 17, 2006, 120 Stat. 2376; Pub. L. 110–417, \[div. A\], title X, §1012, Oct. 14, 2008, 122 Stat. 4584; Pub. L. 112–239, div. A, title III, §344, Jan. 2, 2013, 126 Stat. 1700; Pub. L. 115–91, div. A, title X, §1023, Dec. 12, 2017, 131 Stat. 1548; renumbered §8680, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–92, div. A, title X, §1035, Dec. 20, 2019, 133 Stat. 1583; Pub. L. 116–283, div. A, title X, §§1025, 1081(a)(45), Jan. 1, 2021, 134 Stat. 3843, 3873; Pub. L. 118–31, div. A, title XIII, §1352(g), Dec. 22, 2023, 137 Stat. 517.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsecs. (c), (d). Pub. L. 118–31 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 <b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §1025(a)(1), struck out ", other than in the case of voyage repairs" after "outside the United States or Guam".
 
@@ -132,7 +156,7 @@ Subsec. (c)(5)(C). Pub. L. 112–239, §344(4), added subpar. (C).
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Termination of Reporting Requirements
 

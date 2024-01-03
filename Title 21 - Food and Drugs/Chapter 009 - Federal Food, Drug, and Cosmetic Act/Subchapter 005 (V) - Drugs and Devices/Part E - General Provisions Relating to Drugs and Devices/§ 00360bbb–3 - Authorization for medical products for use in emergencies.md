@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(ii) an agent or agents that may cause, or are otherwise associated with, an imminently life-threatening and specific risk to United States military forces;
 
-&emsp;&emsp;(C) a determination by the Secretary that there is a public health emergency, or a significant potential for a public health emergency, that affects, or has a significant potential to affect, national security or the health and security of United States citizens living abroad, and that involves a biological,chemical, radiological, or nuclear agent or agents, or a disease or condition that may be attributable to such agent or agents; or
+&emsp;&emsp;(C) a determination by the Secretary that there is a public health emergency, or a significant potential for a public health emergency, that affects, or has a significant potential to affect, national security or the health and security of United States citizens living abroad, and that involves a biological, chemical, radiological, or nuclear agent or agents, or a disease or condition that may be attributable to such agent or agents; or
 
 &emsp;&emsp;(D) the identification of a material threat pursuant to section 319F–2 of the Public Health Service Act \[42 U.S.C. 247d–6b\] sufficient to affect national security or the health and security of United States citizens living abroad.
 
@@ -236,9 +236,9 @@ The following applies with respect to this section:
 
 &emsp;(1) Nothing in this section impairs the authority of the President as Commander in Chief of the Armed Forces of the United States under article II, section 2 of the United States Constitution.
 
-&emsp;(2) Nothing in this section impairs the authority of the Secretary of Defense with respect to the Department of Defense, includingthe armed forces, under other provisions of Federal law.
+&emsp;(2) Nothing in this section impairs the authority of the Secretary of Defense with respect to the Department of Defense, including the armed forces, under other provisions of Federal law.
 
-&emsp;(3) Nothing in this section (including any exercise of authority by a manufacturer under subsection (e)(2)) impairs the authority of the United States to use or manage quantities of a product that are owned or controlled by the United States (including quantities in the stockpile maintained under section 319F–2 of the Public Health Service Act \[42 U.S.C. 247d–6b\]).
+&emsp;(3) Nothing in this section (including any exercise of authority by a manufacturer under subsection (e)(2)) impairs the authority of the United States to use or manage quantities of a product that are owned or controlled by theUnited States (including quantities in the stockpile maintained under section 319F–2 of the Public Health Service Act \[42 U.S.C. 247d–6b\]).
 
 &emsp;(4) Nothing in this section shall be construed as authorizing a delay in the review or other consideration by the Secretary of any application or submission pending before the Food and Drug Administration for a product for which an authorization under this section is issued.
 
@@ -360,7 +360,7 @@ Subsec. (j)(4). Pub. L. 113–5, §302(a)(8), added par. (4).
 
 Subsec. (m). Pub. L. 113–5, §302(a)(9), added subsec. (m).
 
-<b>2004</b>—Pub. L. 108–276 amended section generally, substituting provisions of subsecs. (a) to (l) for similar former provisions, except for additional provisions insubsec. (b)(1) allowing Secretary to authorize use of medical products in actual or potential domestic and public health emergencies in addition to actual or potential military emergencies.
+<b>2004</b>—Pub. L. 108–276 amended section generally, substituting provisions of subsecs. (a) to (l) for similar former provisions, except for additional provisions in subsec. (b)(1) allowing Secretary to authorize use of medical products in actual or potential domestic and public health emergencies in addition to actual or potential military emergencies.
 
 #### <b>Executive Documents</b>
 

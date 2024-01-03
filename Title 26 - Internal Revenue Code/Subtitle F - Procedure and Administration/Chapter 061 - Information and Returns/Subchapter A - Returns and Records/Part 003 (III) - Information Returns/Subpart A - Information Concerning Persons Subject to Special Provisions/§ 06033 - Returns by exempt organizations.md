@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(ii) an educational organization described in section 170(b)(1)(A)(ii);
 
-&emsp;&emsp;&emsp;(iii) a charitable organization, or an organization for the prevention of cruelty to children or animals, described in section 501(c)(3), if such organization is supported, in whole or in part, by funds contributed by the United States or any State or political subdivision thereof, or is primarily supported by contributions of the general public;
+&emsp;&emsp;&emsp;(iii) a charitable organization, or an organization for the prevention of cruelty to children or animals, described in section 501(c)(3), if such organization is supported, in whole or in part, by funds contributedby the United States or any State or political subdivision thereof, or is primarily supported by contributions of the general public;
 
 &emsp;&emsp;&emsp;(iv) an organization described in section 501(c)(3), if such organization is operated, supervised, or controlled by or in connection with a religious organization described in clause (i);
 
@@ -196,7 +196,7 @@ The following organizations shall comply with the requirements of this section i
 
 #### (3) Exception where dues generally nondeductible
 
-&emsp;Paragraph (1)(A) shall not apply to an organization which establishes to the satisfaction of the Secretary that substantially all of the dues or other similar amounts paid by persons to such organization are not deductible without regard to section 162(e).
+&emsp;Paragraph (1)(A) shall not apply to an organization which establishes to the satisfactionof the Secretary that substantially all of the dues or other similar amounts paid by persons to such organization are not deductible without regard to section 162(e).
 
 #### (f) Certain organizations described in section 501(c)(4)
 
@@ -284,7 +284,7 @@ Any organization the gross receipts of which in any taxable year result in such 
 
 &emsp;&emsp;&emsp;(ii) about the revocation that will occur under subparagraph (B) if the organization fails to file such a return or notice by the due date for the next such return or notice required to be filed.
 
-> &emsp;&emsp;The notification under the preceding sentence shall include information about how to comply with the filing requirements under subsections (a)(1) and (i).
+> &emsp;&emsp;The notification under the preceding sentence shall include information about howto comply with the filing requirements under subsections (a)(1) and (i).
 
 #### (B) Revocation
 
@@ -452,7 +452,7 @@ Subsec. (b). Pub. L. 94–455, §§1307(a)(4), 1906(b)(13)(A), struck out in pro
 
 Subsec. (b)(3). Pub. L. 91–172, §101(d)(2)(A), struck out "out of income" after "its disbursements".
 
-Subsec. (b)(4). Pub. L. 91–172, §101(d)(2)(B), (j)(30), redesignated par. (7) as (4) and struck out "and" at end. Former par. (4), making accumulation of income within year as an item of information to be furnished, was struck out.
+Subsec. (b)(4). Pub. L. 91–172, §101(d)(2)(B), (j)(30), redesignated par. (7) as (4) and struck out "and" at end.Former par. (4), making accumulation of income within year as an item of information to be furnished, was struck out.
 
 Subsec. (b)(5). Pub. L. 91–172, §101(d)(2)(B), (C), substituted total of contributions and gifts received during year and contributors' names and addresses for aggregate accumulation of income at beginning of year as item of information to be furnished.
 
@@ -496,7 +496,7 @@ Pub. L. 109–280, title XII, §1205(c)(2), Aug. 17, 2006, 120 Stat. 1068, provi
 
 Pub. L. 109–280, title XII, §1223(f), Aug. 17, 2006, 120 Stat. 1091, provided that: "The amendments made by this section \[amending this section and sections 6652 and 7428 of this title\] shall apply to notices and returns with respect to annual periods beginning after 2006."
 
-Pub. L. 109–280, title XII, §1235(a)(2), Aug. 17, 2006, 120 Stat. 1101, provided that: "The amendments made bythis subsection \[amending this section\] shall apply to returns filed for taxable years ending after the date of the enactment of this Act \[Aug. 17, 2006\]."
+Pub. L. 109–280, title XII, §1235(a)(2), Aug. 17, 2006, 120 Stat. 1101, provided that: "The amendments made by this subsection \[amending this section\] shall apply to returns filed for taxable years ending after the date of the enactment of this Act \[Aug. 17, 2006\]."
 
 Pub. L. 109–280, title XII, §1245(c), Aug. 17, 2006, 120 Stat. 1108, provided that: "The amendments made by this section \[amending this section\] shall apply to returns filed for taxable years ending after the date of the enactment of this Act \[Aug. 17, 2006\]."
 

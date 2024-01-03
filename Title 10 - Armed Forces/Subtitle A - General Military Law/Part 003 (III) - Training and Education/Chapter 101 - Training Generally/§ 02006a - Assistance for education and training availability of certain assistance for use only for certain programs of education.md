@@ -28,7 +28,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "Department of Defense educational assistance programs and authorities covered by this section" means the programs and authorities as follows:
 
-&emsp;&emsp;(A) The programs to assist military spouses in achieving education and training to expand employment and portable career opportunities under section 1784a of this title.
+&emsp;&emsp;(A) The programs to assist military spouses in achieving education and trainingto expand employment and portable career opportunities under section 1784a of this title.
 
 &emsp;&emsp;(B) The authority to pay tuition for off-duty training or education of members of the armed forces under section 2007 of this title.
 

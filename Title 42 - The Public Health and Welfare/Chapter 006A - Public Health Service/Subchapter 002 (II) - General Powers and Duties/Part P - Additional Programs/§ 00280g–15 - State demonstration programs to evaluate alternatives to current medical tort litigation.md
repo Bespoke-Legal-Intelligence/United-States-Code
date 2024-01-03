@@ -150,7 +150,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 &emsp;&emsp;(A) an analysis of the effects of the grants awarded under subsection (a) with regard to the measures described in paragraph (3);
 
-&emsp;&emsp;(B) for each State, an analysis of the extent to which the alternative developedunder subsection (c)(1) is effective in meeting the elements described in subsection (c)(2);
+&emsp;&emsp;(B) for each State, an analysis of the extent to which the alternative developed under subsection (c)(1) is effective in meeting the elements described in subsection (c)(2);
 
 &emsp;&emsp;(C) a comparison among the States receiving grants under subsection (a) of the effectiveness of the various alternatives developed by such States under subsection (c)(1);
 
@@ -204,7 +204,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (i) Option to provide for initial planning grants
 
-Of the funds appropriated pursuant to subsection (k), the Secretary may use a portion not to exceed $500,000 per State to provide planning grants to such States for the development of demonstration project applications meeting the criteria described in subsection (c). In selecting States to receive such planning grants, the Secretary shall give preference to those States in which State law at the time of the application would not prohibit the adoption of an alternative to current tort litigation.
+Of the funds appropriated pursuant to subsection (k), the Secretary may use a portion not to exceed $500,000 per State to provide planning grants to such States for the development of demonstration project applications meeting thecriteria described in subsection (c). In selecting States to receive such planning grants, the Secretary shall give preference to those States in which State law at the time of the application would not prohibit the adoption of an alternative to current tort litigation.
 
 #### (j) Definitions
 

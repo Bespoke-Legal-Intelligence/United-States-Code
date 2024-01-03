@@ -82,7 +82,7 @@ An MBDA Rural Business Center shall—
 
 #### (1) In general
 
-&emsp;Not later than 90 days after November 15, 2021, the Under Secretary shall issue a Noticeof Funding Opportunity requesting applications from eligible entities that desire to enter into MBDA Rural Business Center agreements.
+&emsp;Not later than 90 days after November 15, 2021, the Under Secretary shall issue a Notice of Funding Opportunity requesting applications from eligible entities that desire to enter into MBDA Rural Business Center agreements.
 
 #### (2) Criteria and priority
 
@@ -132,5 +132,5 @@ An MBDA Rural Business Center shall—
 
 The Act of July 2, 1862, referred to in subsec. (d)(2)(B)(iii)(I), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the Morrill Act and also as the First Morrill Act, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
 
-Act of August 30, 1890, referred to in subsec. (d)(2)(B)(iii)(II), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
+The Act of August 30, 1890, referred to in subsec. (d)(2)(B)(iii)(II), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
 

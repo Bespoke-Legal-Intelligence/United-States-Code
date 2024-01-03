@@ -50,7 +50,7 @@ The Secretary may award grants to and enter into contracts with eligible entitie
 
 #### (C) Continuation of an award
 
-&emsp;&emsp;The Secretary shall make continuation of any award under this paragraph beyond the second year of such award contingent on the recipient of such award having demonstrated to the Secretary measurable and substantive improvement in nurse retention or patient care.
+&emsp;&emsp;The Secretary shall make continuation of any award under this paragraph beyond the second year of such award contingent on the recipient of such award having demonstrated to the Secretary measurable and substantiveimprovement in nurse retention or patient care.
 
 #### (d) Other priority areas
 
@@ -86,7 +86,7 @@ Subsec. (c)(1)(A)(ii). Pub. L. 116–136, §3404(a)(6)(C)(i)(III), added cl. (ii
 
 Subsec. (c)(1)(C). Pub. L. 116–136, §3404(a)(6)(C)(ii), (iii), added subpar. (C).
 
-Subsec. (e). Pub. L. 116–136, §3404(a)(6)(F), substituted "As part of the report on nursing workforce programsdescribed in section 296e(i) of this title, the Secretary shall include" for "The Secretary shall submit to the Congress before the end of each fiscal year".
+Subsec. (e). Pub. L. 116–136, §3404(a)(6)(F), substituted "As part of the report on nursing workforce programs described in section 296e(i) of this title, the Secretary shall include" for "The Secretary shall submit to the Congress before the end of each fiscal year".
 
 Pub. L. 116–136, §3404(a)(6)(D), (E), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: "For purposes of any amount of funds appropriated to carry out this section for fiscal year 2003, 2004, or 2005 that is in excess of the amount of funds appropriated to carry out this section for fiscal year 2002, the Secretary shall give preference to awarding grants or entering into contracts under subsections (a)(2) and (c)."
 

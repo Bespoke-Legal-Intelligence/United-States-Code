@@ -66,7 +66,7 @@ The Advisory Committee may—
 
 #### (d) Chair
 
-The Secretary shall select a member of the advisory committee to serve as the Chair of the committee. The Secretary may so select an individual from among the appointed members. The term of office of the chair shall be 2 years.
+The Secretary shall select a member of the advisory committee to serve as the Chair of thecommittee. The Secretary may so select an individual from among the appointed members. The term of office of the chair shall be 2 years.
 
 #### (e) Meetings
 

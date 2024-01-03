@@ -12,7 +12,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (1) In general
 
-&emsp;For fiscal year 2000 and each fiscal year thereafter, the Secretary shall allocate amounts in the Capital Fund and Operating Funds <sup>1</sup> for assistance for public housing agencies eligible for such assistance. The Secretary shall determine the amount of the allocation for each eligible agency, which shall be, for any fiscal year beginning after the effective date of the formulas described in subsections (d)(2) and (e)(2)—
+&emsp;For fiscal year 2000 and each fiscal year thereafter, the Secretary shall allocate amounts in the Capital Fund and Operating Funds <sup>1</sup> for assistance for public housing agencies eligible for such assistance. The Secretaryshall determine the amount of the allocation for each eligible agency, which shall be, for any fiscal year beginning after the effective date of the formulas described in subsections (d)(2) and (e)(2)—
 
 &emsp;&emsp;(A) for assistance from the Capital Fund, the amount determined for the agency under the formula under subsection (d)(2); and
 
@@ -150,7 +150,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (ii) Third party contracts
 
-&emsp;&emsp;&emsp;Contracts described in clause (i) may include contracts for equipment conversions to less costly utility sources, projects with resident-paid utilities, and adjustments to frozen base year consumption, including systems repaired to meet applicable building and safety codes and adjustments for occupancy rates increased by rehabilitation.
+&emsp;&emsp;&emsp;Contracts described in clause (i) may include contracts for equipment conversionsto less costly utility sources, projects with resident-paid utilities, and adjustments to frozen base year consumption, including systems repaired to meet applicable building and safety codes and adjustments for occupancy rates increased by rehabilitation.
 
 #### (iii) Term of contract
 
@@ -218,7 +218,7 @@ The formulas under subsections (d)(2) and (e)(2) shall be developed according to
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), a public housing agency may not use any of the amounts allocated for the agency from the Capital Fund or Operating Fund for the purpose of constructing any public housing unit, if such construction would result in a net increase from the number of public housing units owned, assisted, or operated by the public housing agency on October 1, 1999, including any public housing units demolished as part of any revitalization effort.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), a public housing agency may not useany of the amounts allocated for the agency from the Capital Fund or Operating Fund for the purpose of constructing any public housing unit, if such construction would result in a net increase from the number of public housing units owned, assisted, or operated by the public housing agency on October 1, 1999, including any public housing units demolished as part of any revitalization effort.
 
 #### (B) Exception regarding use of assistance
 
@@ -298,7 +298,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 &emsp;&emsp;&emsp;(ii) the complexity of capital program of the public housing agency;
 
-&emsp;&emsp;&emsp;(iii) any limitation on the ability of the public housing agency to obligate theamounts allocated for the agency from the Capital Fund in a timely manner as a result of State or local law; or
+&emsp;&emsp;&emsp;(iii) any limitation on the ability of the public housing agency to obligate the amounts allocated for the agency from the Capital Fund in a timely manner as a result of State or local law; or
 
 &emsp;&emsp;&emsp;(iv) such other factors as the Secretary determines to be relevant.
 
@@ -364,11 +364,11 @@ A public housing agency that receives income from nonrental sources (as determin
 
 #### (2) Reduction of asthma incidence
 
-&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding <sup>3</sup> $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources of funding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
+&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding <sup>3</sup> $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources offunding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
 
 #### (3) Services for elderly residents
 
-&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housingbefore the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one or more developments. The model project may provide for contracting with private parties for the delivery of services.
+&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one or more developments. The model project may provide for contracting with private parties for the delivery of services.
 
 #### (4) Effective date
 
@@ -422,7 +422,7 @@ Section 1437u(d)(2) of this title, referred to in subsec. (e)(2)(A)(vi), was red
 
 #### Prior Provisions
 
-A prior section 9 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, authorized loans for low-rent housing and slum clearance projects and was classified to section 1409 of this title, prior to the general revision of this chapter by Pub. L. 93–383. Similar provisions are contained in section 1437b of this title.
+A prior section 9 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, authorized loans for low-rent housingand slum clearance projects and was classified to section 1409 of this title, prior to the general revision of this chapter by Pub. L. 93–383. Similar provisions are contained in section 1437b of this title.
 
 #### Amendments
 
@@ -488,11 +488,11 @@ Subsec. (d). Pub. L. 101–625, §572(2), substituted "low-income housing" for "
 
 Pub. L. 100–242, §118(d), inserted at end "If the Secretary determines that a public housing agency has failed to take the actions required to submit an acceptable audit on a timely basis in accordance with chapter 75 of title 31, the Secretary may arrange for, and pay the costs of, the audit. In such circumstances, the Secretary may withhold, from assistance otherwise payable to the agency under this section, amounts sufficient to pay for the reasonable costs of conducting an acceptable audit, including, when appropriate, the reasonable costs of accounting services necessary to place the agency's books and records in auditable condition."
 
-Subsec. (a)(2). Pub. L. 100–242, §112(b)(4), substituted "one developed pursuant to a contributions contract authorized by section 1437c" for "being assisted by an annual contributions contract authorized by section 1437c(c)" and "any such" for "any such annual".
+Subsec. (a)(2). Pub. L. 100–242, §112(b)(4), substituted "one developed pursuant to a contributions contractauthorized by section 1437c" for "being assisted by an annual contributions contract authorized by section 1437c(c)" and "any such" for "any such annual".
 
 Subsec. (a)(3). Pub. L. 100–242, §118(a)(2), added par. (3).
 
-Subsec. (c). Pub. L. 100–242, §118(b), amended subsec. (c) generally, substituting provisions authorizing appropriations under this section for fiscal years 1988 and1989 for provisions authorizing appropriations for the period beginning on or after July 1, 1975, through the period beginning on or after Oct. 1, 1985.
+Subsec. (c). Pub. L. 100–242, §118(b), amended subsec. (c) generally, substituting provisions authorizing appropriations under this section for fiscal years 1988 and 1989 for provisions authorizing appropriations for the period beginning on or after July 1, 1975, through the period beginning on or after Oct. 1, 1985.
 
 Subsec. (e). Pub. L. 100–242, §118(c), added subsec. (e).
 
@@ -572,7 +572,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 #### Effective Date of 1992 Amendment
 
-Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expirationof 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
+Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expiration of 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -656,7 +656,7 @@ Pub. L. 108–7, div. K, title II, §207, Feb. 20, 2003, 117 Stat. 502, provided
 
 Pub. L. 107–73, title II, Nov. 26, 2001, 115 Stat. 660, provided in part: "That, hereafter, notwithstanding any other provision of law or any failure of the Secretary of Housing and Urban Development to issue regulations to carry out section 9(j) of the United States Housing Act of 1937 (42 U.S.C. 1437g(j)), such section is deemed to have taken effect on October 1, 1998, and, except as otherwise provided in this heading \["
 
-public housing capital fund (including transfer of funds)"\], shall apply to all assistance made available under this same heading on or after such date".
+public housingcapital fund (including transfer of funds)"\], shall apply to all assistance made available under this same heading on or after such date".
 
 #### Cooling Degree Day Adjustment Under Performance Funding System
 

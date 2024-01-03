@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 Mar. 3, 1903, ch. 1007, \[§\] 1 (4th complete par. on p. 1112), 32 Stat. 1112; Oct. 31, 1951, ch. 654, §4(8), 65 Stat. 709.
 
-The words "and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)" are added to provide an accurate literal translation of the word "this Act", meaning the FederalProperty and Administrative Services Act of 1949. See the revision note under section 111 of this title. The words "as have been or may hereafter be" are omitted as unnecessary.
+The words "and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)" are added to provide an accurate literal translation of the word "this Act", meaning the Federal Property and Administrative Services Act of 1949. See the revision note under section 111 of this title. The words "as have been or may hereafter be" are omitted as unnecessary.
 
 #### <b>Editorial Notes</b>
 

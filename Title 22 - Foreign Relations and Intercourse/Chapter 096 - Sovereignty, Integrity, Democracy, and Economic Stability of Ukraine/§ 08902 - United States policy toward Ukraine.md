@@ -122,6 +122,8 @@ Atrocities.—The term 'atrocities' has the meaning given that term in section 6
 
 War crime.—The term 'war crime' has the meaning given that term in section 2441(c) of title 18, United States Code."
 
+\[Memorandum of President of the United States, Apr. 25, 2023, 88 F.R. 26469, delegated to the Secretary of State the authority to submit to Congress the report required by subsec. (d) of section 5948 of Pub. L. 117–263, set out above.\]
+
 #### Russia and Belarus Special Drawing Rights Exchange Prohibition
 
 Pub. L. 117–185, Oct. 4, 2022, 136 Stat. 2197, provided that:
@@ -142,7 +144,7 @@ Advocacy.—The Secretary of the Treasury shall—
 
 &emsp;"(1) vigorously advocate that the governments of the member countries of the International Monetary Fund, to the extent that the member countries issue freely usable currencies, prohibit transactions involving the exchange of Special Drawing Rights held by the Russian Federation or Belarus\[;\] and
 
-&emsp;"(2) direct the United States Executive Director at each international financial institution (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]) to use the voice and vote of the United States to oppose the provision of financial assistance to the Russian Federation and Belarus, except to address basic human needs of the civilian population.
+&emsp;"(2) direct the United States Executive Director at each international financial institution (as defined insection 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]) to use the voice and vote of the United States to oppose the provision of financial assistance to the Russian Federation and Belarus, except to address basic human needs of the civilian population.
 
 "(c)
 

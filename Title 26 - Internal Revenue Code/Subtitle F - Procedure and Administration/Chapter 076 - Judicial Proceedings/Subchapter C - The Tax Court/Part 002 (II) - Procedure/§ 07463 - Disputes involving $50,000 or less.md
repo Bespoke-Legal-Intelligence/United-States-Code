@@ -20,7 +20,7 @@ A decision entered in any case in which the proceedings are conducted under this
 
 #### (c) Limitation of jurisdiction
 
-In any case in which the proceedings are conducted under this section, notwithstanding the provisions of sections 6214(a) and 6512(b), no decision shall be entered redetermining theamount of a deficiency, or determining an overpayment, except with respect to amounts placed in dispute within the limits described in subsection (a) and with respect to amounts conceded by the parties.
+In any case in which the proceedings are conducted under this section, notwithstanding the provisions of sections 6214(a) and 6512(b), no decision shall be entered redetermining the amount of a deficiency, or determining an overpayment, except with respect to amounts placed in dispute within the limits described in subsection (a) and with respect to amounts conceded by the parties.
 
 #### (d) Discontinuance of proceedings
 
@@ -140,7 +140,7 @@ or Less.—The amendments made by paragraphs (2) and (3) of section 203(b) of th
 
 #### Effective Date
 
-Pub. L. 91–172, title IX, §962(e), Dec. 30, 1969, 83 Stat. 736, provided that: "The amendments made by sections 957 \[enacting this section\] and 960(a), (b), (f), and (i) \[amending sections 6214, 6512, 7453, 7456, 7481, 7487, of this title\] shall take effect one year after the date of enactment of this Act \[Dec. 30, 1969\]."
+Pub. L. 91–172, title IX, §962(e), Dec. 30, 1969, 83 Stat. 736, provided that: "The amendments made by sections957 \[enacting this section\] and 960(a), (b), (f), and (i) \[amending sections 6214, 6512, 7453, 7456, 7481, 7487, of this title\] shall take effect one year after the date of enactment of this Act \[Dec. 30, 1969\]."
 
 #### Savings Provision
 

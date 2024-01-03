@@ -21,6 +21,54 @@ A prior chapter 221 "PLANNING AND SOLICITATION GENERALLY", as added by Pub. L. 1
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Prohibition on Solicitation of Proprietary Armor for Certain Tactical Vehicles
+
+Pub. L. 118–31, div. A, title I, §153, Dec. 22, 2023, 137 Stat. 180, provided that:
+
+"(a)
+
+Prohibition.—The Secretary of Defense may not include in a solicitation for a tactical tracked vehicle or tactical wheeled vehicle a requirement that such vehicle use proprietary armor.
+
+"(b)
+
+Applicability.—Subsection (a) shall not apply to a contract for the procurement of a tactical tracked vehicle or tactical wheeled vehicle entered into before the date of the enactment of this Act \[Dec. 22, 2023\]."
+
+#### Defense Industrial Base Munition Surge Capacity Critical Reserve
+
+Pub. L. 118–31, div. A, title II, §245, Dec. 22, 2023, 137 Stat. 210, provided that:
+
+"(a)
+
+In General.—The Under Secretary of Defense for Acquisition and Sustainment, in coordination with the service acquisition executive of each military department, may establish a reserve of long-lead items and components to accelerate the delivery of munitions described in section 222c(c) of title 10, United States Code.
+
+"(b)
+
+Quantity.—The quantity of long-lead items and components reserved pursuant to subsection (a) should be in amounts commensurate to fulfill the requirements identified as Out-Year Unconstrained Total Munitions Requirement and Out-Year inventory numbers under section 222c(a) of title 10, United States Code.
+
+"(c)
+
+Authority for Advance Procurement.—The Under Secretary of Defense for Acquisition and Sustainment may enter into one or more contracts, beginning in fiscal year 2024, for the advance procurement of long-lead items and components, or economic order quantities of such items and components when cost savings are achievable, associated with munitions identified in subsection (a). Advance procurement authority may include the cost of shipping, storage, tracking, maintenance, and obsolescence management of long-lead items and components while held in the reserve described in subsection (a).
+
+"(d)
+
+Limitations.—No long-lead item or component may be procured under this section if the anticipated life cycle of such item or component requires disposal due to lack of military utility less than 8 years after such item or component is procured.
+
+"(e)
+
+Report.—Not later than February 1, 2025, and annually thereafter until February 1, 2030, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that describes the use of the authority under this section, including—
+
+&emsp;"(1) the type, number, and value of long-lead items and components procured under each contractual action; and
+
+&emsp;"(2) information about the location of storage of such items and components.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'long-lead item or component' means a material, component, or subsystem of a munition that must be procured well in advance of the need for such munition.
+
+&emsp;"(2) The terms 'service acquisition executive' and 'military department' have the meanings given, respectively, in section 101 of title 10, United States Code."
+
 #### Restriction on Procurement or Purchasing by Department of Defense of Turnout Gear for Firefighters Containing Perfluoroalkyl Substances or Polyfluoroalkyl Substances
 
 Pub. L. 117–263, div. A, title III, §345, Dec. 23, 2022, 136 Stat. 2530, provided that:
@@ -227,7 +275,7 @@ Pub. L. 114–92, div. A, title VIII, §805, Nov. 25, 2015, 129 Stat. 885, as am
 
 #### Review and Justification of Pass-Through Contracts
 
-Pub. L. 112–239, div. A, title VIII, §802, Jan. 2, 2013, 126 Stat. 1824, provided that: "Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense, the Secretary of State, and the Administrator of the United States Agency for International Development shall issue such guidance and regulations as may be necessary to ensure that in any case in which an offeror for a contract or a task or delivery order informs the agency pursuant to section 52.215-22 of the Federal Acquisition Regulation that the offeror intends to award subcontracts for more than 70 percent of the total cost of work to be performed under the contract, task order, or delivery order, the contracting officer for the contract is required to—
+Pub. L. 112–239, div. A, title VIII, §802, Jan. 2, 2013, 126 Stat. 1824, provided that: "Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense, the Secretary of State, and the Administrator of the United States Agency for International Development shall issue such guidance and regulations as may be necessary to ensure that in any case in which an offeror for a contract or a task or delivery order informs the agency pursuant to section 52.215-22 of the Federal Acquisition Regulation that the offeror intends to award subcontracts for more than 70percent of the total cost of work to be performed under the contract, task order, or delivery order, the contracting officer for the contract is required to—
 
 &emsp;"(1) consider the availability of alternative contract vehicles and the feasibility of contracting directly with a subcontractor or subcontractors that will perform the bulk of the work;
 
@@ -431,7 +479,7 @@ Acquisition official.—The term 'acquisition official', with respect to the Dep
 
 &emsp;"(7)
 
-Direct acquisition.—The term 'direct acquisition', with respect to the Department of Defense, means the type of interagency contracting through which the Department of Defense orders an item or service from a government-wide acquisition contract maintained by a non-defense agency.
+Direct acquisition.—The term 'direct acquisition', with respect to the Department of Defense, means the type of interagency contracting through which the Department of Defense orders an item orservice from a government-wide acquisition contract maintained by a non-defense agency.
 
 &emsp;"(8)
 
@@ -529,7 +577,7 @@ Identification of Procurements Made During a Particular Fiscal Year.—For the p
 
 "(h)
 
-Resolution of Disagreements.—If the Inspector General of the Department of Defense and the Inspector General of a covered non-defense agency are unable to agree on a joint determination under subsection (a) or (f), a determination by the Inspector General of the Department of Defense under such subsection shall be conclusive for the purposes of this section.
+Resolution of Disagreements.—If the Inspector General of the Department of Defense and the InspectorGeneral of a covered non-defense agency are unable to agree on a joint determination under subsection (a) or (f), a determination by the Inspector General of the Department of Defense under such subsection shall be conclusive for the purposes of this section.
 
 "(i)
 
@@ -663,7 +711,7 @@ Pub. L. 107–314, div. A, title VIII, §806, Dec. 2, 2002, 116 Stat. 2607, as a
 
 #### Requirements Relating to Micro-Purchases
 
-Pub. L. 105–85, div. A, title VIII, §848, Nov. 18, 1997, 111 Stat. 1846, as amended by Pub. L. 113–291, div. A, titleX, §1071(b)(10), Dec. 19, 2014, 128 Stat. 3507, provided that:
+Pub. L. 105–85, div. A, title VIII, §848, Nov. 18, 1997, 111 Stat. 1846, as amended by Pub. L. 113–291, div. A, title X, §1071(b)(10), Dec. 19, 2014, 128 Stat. 3507, provided that:
 
 "(a)
 
@@ -727,7 +775,7 @@ Criteria for Designation of Participating Facilities.—The Secretary shall esta
 
 &emsp;"(1) The number of existing and anticipated contracts and subcontracts performed at the facility—
 
-&emsp;&emsp;"(A) for which contractors are required to provide certified cost or pricing data pursuant to \[former\] section 2306a of title 10, United States Code \[see 10 U.S.C. 3701 et seq.\]; and
+&emsp;&emsp;"(A) for which contractors are required to provide certified cost or pricing data pursuant to \[former\]section 2306a of title 10, United States Code \[see 10 U.S.C. 3701 et seq.\]; and
 
 &emsp;&emsp;"(B) which are administered with the application of cost accounting standards under section 26(f) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 422(f)) \[now 41 U.S.C. 1502(a), (b)\].
 
@@ -825,7 +873,7 @@ Pub. L. 102–484, div. A, title III, §326, Oct. 23, 1992, 106 Stat. 2368, as a
 
 "(a)
 
-Elimination of Use of Class I Ozone-Depleting Substances.—(1) No Department of Defense contract awarded after June 1, 1993, may include a specification or standard that requires the use of a class I ozone-depleting substance or that can be met only through the use of such a substance unless the inclusion of the specification or standard in the contract is approved by the senior acquisition official for the procurement covered by the contract. The senior acquisition official may grant the approval only if the senior acquisition official determines (based upon the certification of an appropriate technical representative of the official) that a suitable substitute for the class I ozone-depleting substance is not currently available.
+Elimination of Use of Class I Ozone-Depleting Substances.—(1) No Department of Defense contractawarded after June 1, 1993, may include a specification or standard that requires the use of a class I ozone-depleting substance or that can be met only through the use of such a substance unless the inclusion of the specification or standard in the contract is approved by the senior acquisition official for the procurement covered by the contract. The senior acquisition official may grant the approval only if the senior acquisition official determines (based upon the certification of an appropriate technical representative of the official) that a suitable substitute for the class I ozone-depleting substance is not currently available.
 
 "(2)(A)(i) Not later than 60 days after the completion of the first modification, amendment, or extension after June 1, 1993, of a contract referred to in clause (ii), the senior acquisition official (or the designee of that official) shall carry out an evaluation of the contract in order to determine—
 

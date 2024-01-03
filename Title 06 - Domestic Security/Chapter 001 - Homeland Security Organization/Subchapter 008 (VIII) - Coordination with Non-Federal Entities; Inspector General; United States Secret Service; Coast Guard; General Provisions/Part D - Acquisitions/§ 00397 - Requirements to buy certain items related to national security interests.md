@@ -82,7 +82,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) or a major disaster declared by the President under section 5170 of title 42, the Secretary may waive a requirement in subparagraph (A), (B) or (C) of paragraph (1) if the Secretary determines there is an insufficient supply of a covered item that meets such requirement.
+&emsp;&emsp;In the case of a national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) or a major disaster declared by the Presidentunder section 5170 of title 42, the Secretary may waive a requirement in subparagraph (A), (B) or (C) of paragraph (1) if the Secretary determines there is an insufficient supply of a covered item that meets such requirement.
 
 #### (B) Notice
 
@@ -113,4 +113,10 @@ This section applies with respect to a contract entered into by the Department o
 #### References in Text
 
 The National Emergencies Act, referred to in subsec. (b)(2)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 

@@ -22,7 +22,7 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 &emsp;(9) insurance of official motor vehicles or aircraft acquired for use in foreign countries;
 
-&emsp;(10) rent or lease outside the United States for not to exceed ten years of offices, buildings, grounds, and quarters, including living quarters to house personnel, and payments therefor in advance; maintenance, furnishings, necessary repairs, improvements, and alterations to properties owned or rented by the United States Government or made available for use to the United States Government outside the United States; and costs of fuel, water, and utilities for such properties;
+&emsp;(10) rent or lease outside the United States for not to exceed ten years of offices, buildings, grounds, and quarters, including living quarters to house personnel, and payments therefor in advance; maintenance, furnishings, necessary repairs, improvements, and alterations to properties owned or rented by the United States Government or made availablefor use to the United States Government outside the United States; and costs of fuel, water, and utilities for such properties;
 
 &emsp;(11) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in any program under subchapter I of this chapter, to their former homes or places of burial, and of care and disposition of, the remains of persons or members of the families of persons who may die while such persons are away from their homes participating in activities carried out with funds covered by this subsection;
 
@@ -50,7 +50,7 @@ Not to exceed $2,500,000 of the funds available for assistance under this chapte
 
 #### (e) Training costs
 
-Funds available under this chapter may be used to pay costs of training United States citizen personnel employed or assigned pursuant to section 2385(d)(2) <sup>1</sup> of this title (through interchange or otherwise) at any State or local unitof government, public or private nonprofit institution, trade, labor, agricultural, or scientific association or organization, or commercial firm; and the provisions of sections 1881 to 1888 <sup>1</sup> of title 7 may be used to carry out the foregoing authority notwithstanding that interchange of personnel may not be involved or that the training may not take place at the institutions specified in sections 1881 to 1888 <sup>1</sup> of title 7. Such training shall not be considered employment or holding of office under section 5533 of title 5, and any payments or contributions in connection therewith may, as deemed appropriate by the head of the agency of the United States Government authorizing such training, be made by private or public sources and be accepted by any trainee, or may be accepted by and credited to the current applicable appropriation of such agency: <i>Provided, however</i>, That any such payments to any employee in the nature of compensation shall be in lieu, or in reduction, of compensation received from the United States Government.
+Funds available under this chapter may be used to pay costs of training United States citizen personnel employed or assigned pursuant to section 2385(d)(2) <sup>1</sup> of this title (through interchange or otherwise) at any State or local unit of government, public or private nonprofit institution, trade, labor, agricultural, or scientific association or organization, or commercial firm; and the provisions of sections 1881 to 1888 <sup>1</sup> of title 7 may be used to carry out the foregoing authority notwithstanding that interchange of personnel may not be involved or that the training may not take place at the institutions specified in sections 1881 to 1888 <sup>1</sup> of title 7. Such training shall not be considered employment or holding of office under section 5533 of title 5, and any payments or contributions in connection therewith may, as deemed appropriate by the head of the agency of the United States Government authorizing such training, be made by private or public sources and be accepted by any trainee, or may be accepted by and credited to the current applicable appropriation of such agency: <i>Provided, however</i>, That any such payments to any employee in the nature of compensation shall be in lieu, or in reduction, of compensation received from the United States Government.
 
 #### (f) Assistance in carrying out functions under certain laws
 
@@ -88,7 +88,7 @@ The Foreign Service Act of 1980, referred to in subsec. (a)(14), is Pub. L. 96�
 
 Section 2385(d) of this title, referred to in subsec. (e), was amended by Pub. L. 96–465, title II, §2203(a), Oct. 17, 1980, 94 Stat. 2158, and as so amended does not contain a par. (2).
 
-Sections 1881 to 1888 of title 7, referred to in subsec. (e), which related to the interchange of Department ofAgriculture and State employees, were repealed by Pub. L. 91–648, title IV, §403, Jan. 5, 1971, 84 Stat. 1925. See section 3371 et seq. of Title 5, Government Organization and Employees.
+Sections 1881 to 1888 of title 7, referred to in subsec. (e), which related to the interchange of Department of Agriculture and State employees, were repealed by Pub. L. 91–648, title IV, §403, Jan. 5, 1971, 84 Stat. 1925. See section 3371 et seq. of Title 5, Government Organization and Employees.
 
 The Food for Peace Act, as amended, referred to in subsec. (f), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7, and Tables.
 
@@ -108,7 +108,7 @@ In subsec. (g)(3), "section 6303 of title 41" substituted for "section 3733 of t
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954" in two places.
 
-<b>2002</b>—Subsec. (a)(17). Pub. L. 107–372 struck out par. (17) which read as follows: "expenses in connection with travel of personnel outside the United States, including travel expenses of dependents (including expenses during necessary stopovers while engaged in such travel), and transportation of personal effects, household goods, and automobiles of such personnel when any part of such travel or transportation begins in one fiscal year pursuant to travel orders issued in that fiscal year, notwithstanding the fact that such travel or transportation may not be completed during the same fiscal year, and cost of transporting automobiles to and from a place of storage, and the cost of storing automobiles of such personnel when it is in the public interest or more economical to authorize storage."
+<b>2002</b>—Subsec. (a)(17). Pub. L. 107–372 struck out par. (17) which read as follows: "expenses in connection withtravel of personnel outside the United States, including travel expenses of dependents (including expenses during necessary stopovers while engaged in such travel), and transportation of personal effects, household goods, and automobiles of such personnel when any part of such travel or transportation begins in one fiscal year pursuant to travel orders issued in that fiscal year, notwithstanding the fact that such travel or transportation may not be completed during the same fiscal year, and cost of transporting automobiles to and from a place of storage, and the cost of storing automobiles of such personnel when it is in the public interest or more economical to authorize storage."
 
 <b>1989</b>—Subsec. (g). Pub. L. 101–167 inserted "or the Arms Export Control Act" after "subchapter II of this chapter" in introductory provisions.
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1985 Amendment
 

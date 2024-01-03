@@ -24,11 +24,11 @@ Any person who shall willfully make any false entry in the accounts of any book 
 
 #### (f) Confidentiality of information
 
-No member, officer, or employee of the Commission shall divulge any fact or information which may come to his knowledge during the course of examination of books or other accounts, as hereinbefore provided, except insofar as he may be directed by the Commission or by a court.
+No member, officer, or employee of the Commission shall divulge any fact or information which may come to his knowledge during thecourse of examination of books or other accounts, as hereinbefore provided, except insofar as he may be directed by the Commission or by a court.
 
 #### (g) Use of other forms; alterations in prescribed forms
 
-After the Commission has prescribed the forms and manner of keeping of accounts, records, and memoranda to be kept by any person as herein provided, it shall be unlawful for such person to keep any other accounts, records, or memoranda than those so prescribed or such as may be approved by the Commission or to keep the accounts in any other manner than that prescribed or approved by the Commission. Notice of alterations by the Commission in therequired manner or form of keeping accounts shall be given to such persons by the Commission at least six months before the same are to take effect.
+After the Commission has prescribed the forms and manner of keeping of accounts, records, and memoranda to be kept by any person as herein provided, it shall be unlawful for such person to keep any other accounts, records, or memoranda than those so prescribed or such as may be approved by the Commission or to keep the accounts in any other manner than that prescribed or approved by the Commission. Notice of alterations by the Commission in the required manner or form of keeping accounts shall be given to such persons by the Commission at least six months before the same are to take effect.
 
 #### (h) Exemption; regulation by State commission
 

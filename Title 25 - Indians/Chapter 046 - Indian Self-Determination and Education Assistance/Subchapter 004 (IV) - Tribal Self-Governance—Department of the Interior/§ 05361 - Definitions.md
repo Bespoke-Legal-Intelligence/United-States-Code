@@ -78,7 +78,7 @@ Section was formerly classified to section 458aa of this title prior to editoria
 
 #### Amendments
 
-<b>2020</b>—Pub. L. 116–180 amended section generally. Prior to amendment, section related to establishment of aTribal Self-Governance program. See section 5362 of this title.
+<b>2020</b>—Pub. L. 116–180 amended section generally. Prior to amendment, section related to establishment of a Tribal Self-Governance program. See section 5362 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

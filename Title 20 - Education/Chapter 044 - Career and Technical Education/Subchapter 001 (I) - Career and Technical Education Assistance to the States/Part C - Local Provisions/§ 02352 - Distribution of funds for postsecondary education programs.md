@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsections (b) and (c) and section 2353 of this title, each eligible agency shall distribute the portion of the funds made available under section 2322(a)(1) of this title to carry out this section for any fiscal year to eligible institutions or consortia of eligible institutions within the State.
+&emsp;Except as provided in subsections (b) and (c) and section 2353 of this title, each eligibleagency shall distribute the portion of the funds made available under section 2322(a)(1) of this title to carry out this section for any fiscal year to eligible institutions or consortia of eligible institutions within the State.
 
 #### (2) Formula
 

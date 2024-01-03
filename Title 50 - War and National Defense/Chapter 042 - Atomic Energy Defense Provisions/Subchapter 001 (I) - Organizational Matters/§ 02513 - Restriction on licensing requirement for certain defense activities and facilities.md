@@ -2,7 +2,7 @@
 
 None of the funds authorized to be appropriated by the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 (Public Law 96–540; 94 Stat. 3197) or any other Act may be used for any purpose related to licensing of any defense activity or facility of the Department of Energy by the Nuclear Regulatory Commission.
 
-(Pub. L. 107–314, div. D, title XLI, §4103, formerly Pub. L. 96–540, title II, §210, Dec. 17, 1980, 94 Stat. 3202; renumbered Pub. L. 107–314, div. D, title XLI, §4103, and amended Pub. L. 108–136, div. C, title XXXI, §3141(d)(4), Nov. 24, 2003, 117 Stat. 1757; Pub. L. 113–66, div. C, title XXXI, §3146(b), Dec. 26, 2013, 127 Stat. 1073.)
+(Pub. L. 107–314, div. D, title XLI, §4103, formerly Pub. L. 96–540, title II, §210, Dec. 17, 1980, 94 Stat. 3202; renumbered Pub. L. 107–314, div. D, title XLI, §4103, and amended Pub. L. 108–136, div. C, title XXXI, §3141(d)(4), Nov. 24, 2003, 117 Stat.1757; Pub. L. 113–66, div. C, title XXXI, §3146(b), Dec. 26, 2013, 127 Stat. 1073.)
 
 #### <b>Editorial Notes</b>
 

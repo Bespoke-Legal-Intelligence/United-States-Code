@@ -8,7 +8,7 @@ Not later than 12 months after August 9, 2022, the Director, in consultation wit
 
 &emsp;&emsp;(A) research awards granted by such agency; and
 
-&emsp;&emsp;(B) principal investigators of such research and their trainees, including postdoctoral researchers and graduate students, who have caregiving responsibilities, including care for a newborn or newly adopted child andcare for an immediate family member who has a disability or a serious health condition; and
+&emsp;&emsp;(B) principal investigators of such research and their trainees, including postdoctoral researchers and graduate students, who have caregiving responsibilities, including care for a newborn or newly adopted child and care for an immediate family member who has a disability or a serious health condition; and
 
 &emsp;(2) provide, to the extent feasible—
 
@@ -22,7 +22,7 @@ Not later than 12 months after August 9, 2022, the Director, in consultation wit
 
 #### (b) Uniformity of guidance
 
-In providing guidance under subsection (a), the Director shall encourage uniformity, to the extent practicable, and consistency in the policies established pursuant to such guidance across all Federal research agencies.
+In providing guidance under subsection (a), the Director shall encourage uniformity, to theextent practicable, and consistency in the policies established pursuant to such guidance across all Federal research agencies.
 
 #### (c) Establishment of policies
 

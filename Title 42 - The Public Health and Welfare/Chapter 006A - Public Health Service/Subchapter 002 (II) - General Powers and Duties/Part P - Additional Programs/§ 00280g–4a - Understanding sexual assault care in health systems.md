@@ -68,9 +68,9 @@ Section was enacted as part of the Violence Against Women Act Reauthorization Ac
 
 #### Effective Date
 
-Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under section 6851 of Title 15, Commerce and Trade.
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) ofdiv. W of Pub. L. 117–103, set out as a note under section 6851 of Title 15, Commerce and Trade.
 
-#### National Report on Sexual Assault Services in Nation's Health System
+#### National Report on Sexual Assault Services in Our Nation's Health System
 
 Pub. L. 117–103, div. W, title V, §504, Mar. 15, 2022, 136 Stat. 876, provided that:
 
@@ -98,7 +98,7 @@ Publication.—The Agency for Healthcare Research and Quality shall establish, m
 
 "(d)
 
-Report to Congress.—Not later than 60 days after receiving the report described in subsection (a), the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce and the Committee on Education and Labor of the House of Representatives recommendations for improving sexual assault forensic examination competencies based on the report described in subsection (a)."
+Report to Congress.—Not later than 60 days after receiving the report described in subsection (a), the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives recommendations for improving sexual assault forensic examination competencies based on the report described in subsection (a)."
 
 \[For definition of terms used in section 504 of div. W of Pub. L. 117–103, set out above, see section 12291 Title 34, Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of Title 34\].
 

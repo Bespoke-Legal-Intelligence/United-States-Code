@@ -46,7 +46,7 @@
 
 &emsp;(20) enter into cooperative agreements with other Government agencies and the National Academy of Sciences;
 
-&emsp;(21) require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in section 30304(a) of title 49, be made available tothe Commandant under section 30305(b)(7) of title 49, may receive that information, and upon receipt, shall make the information available to the individual;
+&emsp;(21) require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in section 30304(a) of title 49, be made available to the Commandant under section 30305(b)(7) of title 49, may receive that information, and upon receipt, shall make the information available to the individual;
 
 &emsp;(22) provide for the honorary recognition of individuals and organizations that significantly contribute to Coast Guard programs, missions, or operations, including State and local governments and commercial and nonprofit organizations, and pay for, using any appropriations or funds available to the Coast Guard, plaques, medals, trophies, badges, and similar items to acknowledge such contribution (including reasonable expenses of ceremony and presentation);
 
@@ -134,7 +134,7 @@ Limitation.—The Commandant may lease submerged lands and tidelands under parag
 
 &emsp;&emsp;(D) proceeds from the lease are deposited in the Coast Guard Housing Fund established under section 2946.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 504, §93; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec.20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038; Pub. L. 109–241, title IX, §901(a), (c), July 11, 2006, 120 Stat. 564; Pub. L. 111–259, title IV, §442(1), Oct. 7, 2010, 124 Stat. 2733; Pub. L. 111–281, title V, §523, Oct. 15, 2010, 124 Stat. 2958; Pub. L. 111–350, §5(c)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–213, title II, §202, Dec. 20, 2012, 126 Stat. 1543; Pub. L. 113–281, title II, §§206(a), 207, 208(a), 209, 214(c), 222(1), Dec. 18, 2014, 128 Stat. 3025, 3026, 3034, 3038; Pub. L. 114–120, title II, §209(4), title VI, §610(b), Feb. 8, 2016, 130 Stat. 40, 85; Pub. L. 115–232, div. C, title XXXV, §3533(b), Aug. 13, 2018, 132 Stat. 2321; renumbered §504 and amended Pub. L. 115–282, title I, §§105(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4200, 4240; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(3), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 117–263, div. K, title CXII, §11229, Dec. 23, 2022, 136 Stat. 4029.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 504, §93; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002,116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038; Pub. L. 109–241, title IX, §901(a), (c), July 11, 2006, 120 Stat. 564; Pub. L. 111–259, title IV, §442(1), Oct. 7, 2010, 124 Stat. 2733; Pub. L. 111–281, title V, §523, Oct. 15, 2010, 124 Stat. 2958; Pub. L. 111–350, §5(c)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–213, title II, §202, Dec. 20, 2012, 126 Stat. 1543; Pub. L. 113–281, title II, §§206(a), 207, 208(a), 209, 214(c), 222(1), Dec. 18, 2014, 128 Stat. 3025, 3026, 3034, 3038; Pub. L. 114–120, title II, §209(4), title VI, §610(b), Feb. 8, 2016, 130 Stat. 40, 85; Pub. L. 115–232, div. C, title XXXV, §3533(b), Aug. 13, 2018, 132 Stat. 2321; renumbered §504 and amended Pub. L. 115–282, title I, §§105(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4200, 4240; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(3), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 117–263, div. K, title CXII, §11229, Dec. 23, 2022, 136 Stat. 4029.)
 
 #### Historical and Revision Notes
 
@@ -182,7 +182,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### References in Text
 
-Section 4(e) of the Ports and Waterways Safety Act, referred to in subsec. (b)(2)(B), is section 4(e) of Pub. L.92–340, which was classified to section 1223(e) of Title 33, Navigation and Navigable Waters, prior to repeal by Pub. L. 115–282, title IV, §402(e), Dec. 4, 2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding section 101 of Title 46, Shipping, and section 70001 of Title 46.
+Section 4(e) of the Ports and Waterways Safety Act, referred to in subsec. (b)(2)(B), is section 4(e) of Pub. L. 92–340, which was classified to section 1223(e) of Title 33, Navigation and Navigable Waters, prior to repeal by Pub. L. 115–282, title IV, §402(e), Dec. 4, 2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding section 101 of Title 46, Shipping, and section 70001 of Title 46.
 
 The date of enactment of this paragraph, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 111–281, which was approved Oct. 15, 2010.
 
@@ -284,7 +284,7 @@ Subsec. (p). Act Aug. 3, 1950, substituted "; and" for the period at end.
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Pilot Project for Enhancing Coast Guard Cutter Readiness Through Condition-Based Maintenance
 
@@ -522,7 +522,7 @@ In General.—The Commandant \[of the Coast Guard\] and the Director of the Cybe
 
 &emsp;&emsp;"(B) data management and analytic platforms relating to such missions; and
 
-&emsp;"(2) evaluate data management platforms referred to in paragraph (1)(B) to ensure that such platforms operate consistently with the Coast Guard Data Strategy.
+&emsp;"(2) evaluate data management platforms referred to in paragraph (1)(B) to ensure that such platformsoperate consistently with the Coast Guard Data Strategy.
 
 "(b)
 
@@ -910,7 +910,7 @@ Authorized procurement actions.—The Commandant is authorized to procure an ele
 
 "(4)
 
-Competition in contracting; exemption.—Procurement of an electronic health record system and support services pursuant to this subsection shall be exempt from the competition requirements of section 2304 of title 10, United States Code \[now 10 U.S.C. 3201 et seq.\]."
+Competition in contracting; exemption.—Procurement of an electronic health record system and support services pursuant to this subsection shall beexempt from the competition requirements of section 2304 of title 10, United States Code \[now 10 U.S.C. 3201 et seq.\]."
 
 #### Training of Coast Guard Personnel
 
@@ -988,7 +988,7 @@ No Interference With Other Functions.—In providing support under subsection (a
 
 #### Conveyance of Lighthouses; Notification
 
-Pub. L. 105–383, title IV, §416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: "Not less than 1 year prior to reporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 (\[former\] 16 U.S.C. 470 et seq.) \[see 54 U.S.C. 300101 et seq.\] and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the StateHistoric Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations in that State, that such property is excess to the needs of the Coast Guard."
+Pub. L. 105–383, title IV, §416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: "Not less than 1 year prior to reporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 (\[former\] 16 U.S.C. 470 et seq.) \[see 54 U.S.C. 300101 et seq.\] and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the State Historic Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations inthat State, that such property is excess to the needs of the Coast Guard."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

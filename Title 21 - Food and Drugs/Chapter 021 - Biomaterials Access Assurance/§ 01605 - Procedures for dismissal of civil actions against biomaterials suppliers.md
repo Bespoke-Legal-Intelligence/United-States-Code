@@ -42,7 +42,7 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (A) Defendant
 
-&emsp;&emsp;A defendant may submit affidavits supporting the grounds for dismissal contained in its motion to dismiss under subsection (a). If the motion is made under subsection (a)(1), the defendant may submit an affidavit demonstrating that the defendant has not included the implant on a list, if any, filed with the Secretary pursuant to section 360(j) of this title.
+&emsp;&emsp;A defendant may submit affidavits supporting the grounds for dismissal containedin its motion to dismiss under subsection (a). If the motion is made under subsection (a)(1), the defendant may submit an affidavit demonstrating that the defendant has not included the implant on a list, if any, filed with the Secretary pursuant to section 360(j) of this title.
 
 #### (B) Claimant
 
@@ -86,7 +86,7 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (2) Discovery made prior to a ruling on a motion for summary judgment
 
-&emsp;If, under applicable rules, the court permits discovery prior to a ruling on a motion for summary judgment governed by section 1604(d) of this title, such discovery shall belimited solely to establishing whether a genuine issue of material fact exists as to the applicable elements set forth in paragraphs (1) and (2) of section 1604(d) of this title.
+&emsp;If, under applicable rules, the court permits discovery prior to a ruling on a motion for summary judgment governed by section 1604(d) of this title, such discovery shall be limited solely to establishing whether a genuine issue of material fact exists as to the applicable elements set forth in paragraphs (1) and (2) of section 1604(d) of this title.
 
 #### (3) Discovery with respect to a biomaterials supplier
 

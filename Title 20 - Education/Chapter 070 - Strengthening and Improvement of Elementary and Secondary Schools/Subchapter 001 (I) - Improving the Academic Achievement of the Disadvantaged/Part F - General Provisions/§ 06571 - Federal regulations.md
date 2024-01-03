@@ -30,7 +30,7 @@ The Secretary may issue, in accordance with subsections (b) through (d) and subj
 
 &emsp;&emsp;(A) shall not be subject to chapter 10 of title 5; and
 
-&emsp;&emsp;(B) shall, unless otherwise provided as described in subsection (c), follow the provisions of subchapter III of chapter 5 of titleV <sup>1</sup> (commonly known as the "Negotiated Rulemaking Act of 1990").
+&emsp;&emsp;(B) shall, unless otherwise provided as described in subsection (c), follow the provisions of subchapter III of chapter 5 of title V <sup>1</sup> (commonly known as the "Negotiated Rulemaking Act of 1990").
 
 #### (c) Alternative process for certain exceptions
 
@@ -106,15 +106,11 @@ Subsec. (b)(4). Pub. L. 114–95, §1601(a)(2)(D), added par. (4) and struck out
 
 Subsec. (b)(5). Pub. L. 114–95, §1601(a)(2)(E), struck out par. (5). Text read as follows: "In an emergency situation in which regulations to carry out this subchapter must be issued within a very limited time to assist State educational agencies and local educational agencies with the operation of a program under this subchapter, the Secretary may issue proposed regulations without following such process but shall, immediately thereafter and before issuing final regulations, conduct regional meetings to review such proposed regulations."
 
-Subsecs. (c), (d). Pub. L. 114–95, §1601(a)(3)–(5), added subsec. (c), redesignated former subsec. (c) as (d), andin subsec. (d) substituted "this subchapter" for "this part".
+Subsecs. (c), (d). Pub. L. 114–95, §1601(a)(3)–(5), added subsec. (c), redesignated former subsec. (c) as (d), and in subsec. (d) substituted "this subchapter" for "this part".
 
 Subsec. (e). Pub. L. 114–95, §1601(a)(6), added subsec. (e).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 

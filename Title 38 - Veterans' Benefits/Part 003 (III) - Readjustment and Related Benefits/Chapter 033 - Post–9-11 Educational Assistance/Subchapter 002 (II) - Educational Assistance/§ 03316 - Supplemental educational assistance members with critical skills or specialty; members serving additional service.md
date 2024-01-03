@@ -6,7 +6,7 @@ Increased Assistance for Members With Critical Skills or Specialty.—
 
 &emsp;(1)
 
-In general.—In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnelor for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (6) of such section (as applicable).
+In general.—In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (6) of such section (as applicable).
 
 &emsp;(2)
 

@@ -82,3 +82,9 @@ This chapter, referred to in subsecs. (a)(1), (b), and (d)(1)(D), was in the ori
 
 This chapter, referred to in subsec. (a)(3), was in the original "this title", which was translated as meaning this subtitle, which is classified principally to this chapter, to reflect the probable intent of Congress.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+

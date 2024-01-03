@@ -16,7 +16,7 @@
 
 #### (3) Consultations on request for Commission determination
 
-&emsp;If a majority of the Commissioners issues an affirmative report under paragraph (1), the Trade Representative shall consult with the congressional committees concerning the matter.
+&emsp;If a majority of the Commissioners issues an affirmative report under paragraph (1), theTrade Representative shall consult with the congressional committees concerning the matter.
 
 #### (4) Commission determination
 
@@ -60,7 +60,7 @@
 
 #### (2) Notice of implementation
 
-&emsp;(A) The administering authority shall publish in the Federal Register notice of the implementation of any determination madeunder this section with respect to title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\].
+&emsp;(A) The administering authority shall publish in the Federal Register notice of the implementation of any determination made under this section with respect to title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\].
 
 &emsp;(B) The Trade Representative shall publish in the Federal Register notice of the implementation of any determination made under this section with respect to title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\].
 

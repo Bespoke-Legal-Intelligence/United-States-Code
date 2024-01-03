@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(B) to review and determine the relevance and merit of proposals, in consultation with representatives of the animal agriculture industry;
 
-&emsp;&emsp;(C) to provide a scientific peer review of each proposal conducted by a panel of subject matter experts from Federal agencies, academic institutions, State animal healthagencies, and the animal agriculture industry; and
+&emsp;&emsp;(C) to provide a scientific peer review of each proposal conducted by a panel of subject matter experts from Federal agencies, academic institutions, State animal health agencies, and the animal agriculture industry; and
 
 &emsp;&emsp;(D) to award competitive grants on the basis of merit, quality, and relevance.
 
@@ -122,7 +122,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2018</b>—Subsec. (c)(1). Pub. L. 115–334 substituted "2023" for "2018".
 
-<b>2014</b>—Pub. L. 113–79 amended section generally. Prior to amendment, section related to continuing animalhealth and disease research programs at eligible institutions.
+<b>2014</b>—Pub. L. 113–79 amended section generally. Prior to amendment, section related to continuing animal health and disease research programs at eligible institutions.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §7117, substituted "2012" for "2007".
 

@@ -42,7 +42,7 @@ The purposes of the Foundation shall be—
 
 #### (4) Compensation
 
-&emsp;Members of the Board shall not receive compensation for their services as members, but shall be reimbursed for actual and necessary travel and subsistence expenses incurred by them in the performance of the duties of the Foundation.
+&emsp;Members of the Board shall not receive compensation for their services as members, but shall be reimbursed for actual and necessary travel and subsistence expenses incurred bythem in the performance of the duties of the Foundation.
 
 #### (g) Officers
 

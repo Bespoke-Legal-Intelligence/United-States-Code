@@ -72,7 +72,7 @@ Evaluation of Systems.—The Secretary of Defense shall identify and evaluate ex
 
 "(c)
 
-Systems Plan.—Based on the results of the evaluation under subsection (b), the Secretary of Defenseshall prepare a plan for the development, acquisition, and use of improved counter-drug detection and monitoring systems by the Armed Forces. In developing the plan, the Secretary shall also make every effort to determine which counter-drug detection and monitoring systems should be eliminated from the counter-drug program based on the results of such evaluation. The plan shall include an estimate by the Secretary of the full cost to implement the plan, including the cost to develop, procure, operate, and maintain equipment used in counter-drug detection and monitoring activities performed under the plan and training and personnel costs associated with such activities.
+Systems Plan.—Based on the results of the evaluation under subsection (b), the Secretary of Defense shall prepare a plan for the development, acquisition, and use of improved counter-drug detection and monitoring systems by the Armed Forces. In developing the plan, the Secretary shall also make every effort to determine which counter-drug detection and monitoring systems should be eliminated from the counter-drug program based on the results of such evaluation. The plan shall include an estimate by the Secretary of the full cost to implement the plan, including the cost to develop, procure, operate, and maintain equipment used in counter-drug detection and monitoring activities performed under the plan and training and personnel costs associated with such activities.
 
 "(d)
 
@@ -92,7 +92,7 @@ Limitation on Obligation of Funds.—(1) Except as provided in paragraph (2), no
 
 Definition.—For purposes of this section, the term 'counter-drug detection and monitoring systems' means land-, air-, and sea-based detection and monitoring systems suitable for use by the Department of Defense in the performance of its mission—
 
-&emsp;"(1) under section 124(a) of title 10, United States Code, as lead agency of the Federal Government for the detection and monitoring of the aerial and maritime transit of illegal drugs into the United States; and
+&emsp;"(1) under section 124(a) of title 10, United States Code, as lead agency of the Federal Government forthe detection and monitoring of the aerial and maritime transit of illegal drugs into the United States; and
 
 &emsp;"(2) to provide support to law enforcement agencies in the detection, monitoring, and communication of the movement of traffic at, near, and outside the geographic boundaries of the United States."
 

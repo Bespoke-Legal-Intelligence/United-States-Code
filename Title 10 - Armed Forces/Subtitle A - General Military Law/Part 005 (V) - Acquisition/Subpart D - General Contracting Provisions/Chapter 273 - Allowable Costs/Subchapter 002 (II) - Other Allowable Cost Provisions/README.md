@@ -45,7 +45,7 @@ Regulations Required.—
 
 &emsp;"(1)
 
-In general.—Not later than May 1, 2007, the Secretary of Defense shall prescribe regulations toensure that pass-through charges on contracts or subcontracts (or task or delivery orders) that are entered into for or on behalf of the Department of Defense are not excessive in relation to the cost of work performed by the relevant contractor or subcontractor.
+In general.—Not later than May 1, 2007, the Secretary of Defense shall prescribe regulations to ensure that pass-through charges on contracts or subcontracts (or task or delivery orders) that are entered into for or on behalf of the Department of Defense are not excessive in relation to the cost of work performed by the relevant contractor or subcontractor.
 
 &emsp;"(2)
 

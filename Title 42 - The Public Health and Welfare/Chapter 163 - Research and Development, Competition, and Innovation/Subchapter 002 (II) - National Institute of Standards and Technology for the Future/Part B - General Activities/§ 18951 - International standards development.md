@@ -48,7 +48,7 @@ The Director shall support education and workforce development efforts to promot
 
 #### (1) In general
 
-&emsp;The Director, in coordination with the Director of the National Science Foundation, and the heads of other relevant Federal agencies, as appropriate, shall establish or enter into cooperative agreements with appropriatenongovernmental organizations to establish a 5-year pilot program to award grants, on a merit-reviewed, competitive basis, to private sector entities, institutions of higher education, or nonprofit institutions based in the United States to support increased participation and leadership by small business and academic interests in international standards organizations.
+&emsp;The Director, in coordination with the Director of the National Science Foundation, and the heads of other relevant Federal agencies, as appropriate, shall establish or enter into cooperative agreements with appropriate nongovernmental organizations to establish a 5-year pilot program to award grants, on a merit-reviewed, competitive basis, to private sector entities, institutions of higher education, or nonprofit institutions based in the United States to support increased participation and leadership by small business and academic interests in international standards organizations.
 
 #### (2) Use of funds
 

@@ -8,7 +8,7 @@ To effectuate the policy described in section 7481(b) of this title, the Secreta
 
 #### (1) Proposal or request for issuance
 
-&emsp;The Secretary may propose the issuance of an order, or an association of processors or any other person that would be affected by an order may request the issuance of, and submit a proposal for, an order.
+&emsp;The Secretary may propose the issuance of an order, or an association of processors orany other person that would be affected by an order may request the issuance of, and submit a proposal for, an order.
 
 #### (2) Notice and comment concerning proposed order
 

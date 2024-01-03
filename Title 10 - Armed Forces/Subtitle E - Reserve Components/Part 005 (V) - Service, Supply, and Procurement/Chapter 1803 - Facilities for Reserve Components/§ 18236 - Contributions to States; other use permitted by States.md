@@ -1,6 +1,6 @@
 ### §18236. Contributions to States; other use permitted by States
 
-(a) Contributions under section 18233 of this title are subject to such terms as the Secretary of Defense, after consulting the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, considers necessary for the purposes of this chapter. Except as otherwise agreed when the contribution is made, a facility provided by a contribution under paragraph (3) or (4) of section 18233(a) of this title may be used jointly by units of two or more reserve components of the armed forces only to the extent that the State considers practicable.
+(a) Contributions under section 18233 of this title are subject to such terms as the Secretary of Defense, after consulting the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, considers necessary for the purposes of this chapter. Except as otherwise agreed when the contribution is made, a facility provided by a contribution under paragraph (3)or (4) of section 18233(a) of this title may be used jointly by units of two or more reserve components of the armed forces only to the extent that the State considers practicable.
 
 (b) A contribution made for an armory or readiness center under paragraph (4) or (5) of section 18233(a) of this title may not exceed the sum of—
 
@@ -56,7 +56,7 @@ Appropriate references to the Territories, Puerto Rico, and the District of Colu
 
 In subsection (a), the words "and conditions" are omitted as covered by the word "terms". The words "considers necessary for" are substituted for the words "shall deem necessary to accomplish". The words "used jointly by units of two or more reserve components of the armed forces" are substituted for the words "joint utilization", to reflect 50:886(d).
 
-In subsection (b), the words "the construction to which it is to be applied" are substituted for the words "the additional or improved facilities to be constructed", since, under section 2233 of this title, contributions may be made for other purposes as well asadditions and improvements. The words "may not include" are substituted for the words "shall be exclusive of".
+In subsection (b), the words "the construction to which it is to be applied" are substituted for the words "the additional or improved facilities to be constructed", since, under section 2233 of this title, contributions may be made for other purposes as well as additions and improvements. The words "may not include" are substituted for the words "shall be exclusive of".
 
 In subsection (c)(1), the words "from time to time" are omitted as surplusage.
 

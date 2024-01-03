@@ -62,7 +62,7 @@ This chapter, referred to in subsecs. (e) and (f), was in the original "this Act
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a). Pub. L. 113–287, §5(d)(37)(A), which directed amendment of "subsection (A)" by strikingout "(16 U.S.C. 460l–6a et seq.)", was executed by striking out that language after "1965" in subsec. (a) to reflect the probable intent of Congress.
+<b>2014</b>—Subsec. (a). Pub. L. 113–287, §5(d)(37)(A), which directed amendment of "subsection (A)" by striking out "(16 U.S.C. 460l–6a et seq.)", was executed by striking out that language after "1965" in subsec. (a) to reflect the probable intent of Congress.
 
 Subsec. (b). Pub. L. 113–287, §5(d)(37)(B), struck out "; 16 U.S.C. 460l–6a" after "Public Law 104–134".
 

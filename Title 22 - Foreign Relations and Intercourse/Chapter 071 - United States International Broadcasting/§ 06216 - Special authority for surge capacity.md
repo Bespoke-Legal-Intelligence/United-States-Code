@@ -34,7 +34,7 @@
 
 #### (c) Report
 
-The annual report submitted to the President and Congress by the United States Agency forGlobal Media under section 6204(a)(9) of this title shall provide a detailed description of any activities carried out under this section.
+The annual report submitted to the President and Congress by the United States Agency for Global Media under section 6204(a)(9) of this title shall provide a detailed description of any activities carried out under this section.
 
 (Pub. L. 103–236, title III, §316, as added Pub. L. 110–53, title XX, §2031(c), Aug. 3, 2007, 121 Stat. 516; amended Pub. L. 116–283, div. A, title XII, §1299Q(e)(11), Jan. 1, 2021, 134 Stat. 4026.)
 

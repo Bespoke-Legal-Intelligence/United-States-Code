@@ -8,7 +8,7 @@ An appeal may be taken to the Secretary from any decision under section 1359dd o
 
 #### (1) Notice of appeal
 
-&emsp;Any such appeal shall be taken by filing with the Secretary, within 20 days after the decision complained of is effective, notice in writing of the appeal and a statement of the reasons therefor. Unless a later date is specified by the Secretary as part of the Secretary's decision, the decision complained of shall be considered to be effective as of the date on which announcement of the decision is made. The Secretary shall deliver a copy of any notice of appeal to each person shown by the records of the Secretary to be adversely affected by reason of the decision appealed, and shall at all times thereafter permit any such person to inspect and make copies of appellant's reasons for the appeal and shall onapplication permit the person to intervene in the appeal.
+&emsp;Any such appeal shall be taken by filing with the Secretary, within 20 days after the decision complained of is effective, notice in writing of the appeal and a statement of the reasons therefor. Unless a later date is specified by the Secretary as part of the Secretary's decision, the decision complained of shall be considered to be effective as of the date on which announcement of the decision ismade. The Secretary shall deliver a copy of any notice of appeal to each person shown by the records of the Secretary to be adversely affected by reason of the decision appealed, and shall at all times thereafter permit any such person to inspect and make copies of appellant's reasons for the appeal and shall on application permit the person to intervene in the appeal.
 
 #### (2) Hearing
 

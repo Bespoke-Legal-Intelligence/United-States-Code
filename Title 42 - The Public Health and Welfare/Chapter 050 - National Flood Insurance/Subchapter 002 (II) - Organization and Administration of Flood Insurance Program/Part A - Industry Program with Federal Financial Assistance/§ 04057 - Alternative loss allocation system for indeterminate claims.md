@@ -40,7 +40,7 @@ In this section:
 
 #### (7) State
 
-&emsp;The term "State" means a State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, and any other territory or possession of the United States.
+&emsp;The term "State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
 
 #### (8) Secretary
 
@@ -114,7 +114,7 @@ In this section:
 
 #### (ii) Report
 
-&emsp;&emsp;&emsp;The National Academy of Sciences shall submit a report containing the results ofeach evaluation under clause (i) to the Administrator, the Committee on Banking, Housing, and Urban Affairs and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Financial Services and the Committee on Science, Space, and Technology of the House of Representatives.
+&emsp;&emsp;&emsp;The National Academy of Sciences shall submit a report containing the results of each evaluation under clause (i) to the Administrator, the Committee on Banking, Housing, and Urban Affairs and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Financial Services and the Committee on Science, Space, and Technology of the House of Representatives.
 
 #### (B) Effective date and applicability
 

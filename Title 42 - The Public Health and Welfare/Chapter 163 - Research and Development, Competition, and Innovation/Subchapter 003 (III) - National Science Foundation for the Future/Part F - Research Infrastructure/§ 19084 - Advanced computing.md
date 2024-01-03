@@ -10,11 +10,11 @@ The Director shall document and publish every two years a summary of the amount 
 
 #### (c) Roadmap
 
-To set priorities and guide strategic decisions regarding investments in advanced computingcapabilities, the Director shall develop, publish, and regularly update a 5-year advanced computing roadmap that—
+To set priorities and guide strategic decisions regarding investments in advanced computing capabilities, the Director shall develop, publish, and regularly update a 5-year advanced computing roadmap that—
 
 &emsp;(1) describes the advanced computing resources and capabilities that would fully meet anticipated project needs, including through investments in the Mid-Scale Research Infrastructure program and the Major Research Equipment and Facilities Construction account;
 
-&emsp;(2) draws on community input, information contained in research proposals, allocation requests, insights from Foundation-funded cyber-infrastructure operators, and Foundation-wide information gathering regarding community needs;
+&emsp;(2) draws on community input, information contained in research proposals, allocation requests, insights from Foundation-fundedcyber-infrastructure operators, and Foundation-wide information gathering regarding community needs;
 
 &emsp;(3) considers computational needs of planned major facilities;
 

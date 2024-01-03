@@ -4,7 +4,7 @@
 
 #### (1) Issuance
 
-&emsp;During the period ending July 31, 2003, the Secretary shall issue marketing certificates or cash payments, at the option of the recipient, to domestic users and exporters for documented purchases by domestic users and sales for export by exporters made in the week following a consecutive 4-week period in which—
+&emsp;During the period ending July 31, 2003, the Secretary shall issue marketing certificates orcash payments, at the option of the recipient, to domestic users and exporters for documented purchases by domestic users and sales for export by exporters made in the week following a consecutive 4-week period in which—
 
 &emsp;&emsp;(A) the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe exceeds the Northern Europe price by more than 1.25 cents per pound; and
 
@@ -78,7 +78,7 @@
 
 #### (7) Limitation
 
-&emsp;The quantity of cotton entered into the United States during any marketing year under the special import quota established under this subsection may not exceed the equivalent of 5 week's consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the 3 months immediately preceding the first special import quota established in any marketing year.
+&emsp;The quantity of cotton entered into the United States during any marketing yearunder the special import quota established under this subsection may not exceed the equivalent of 5 week's consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the 3 months immediately preceding the first special import quota established in any marketing year.
 
 #### (c) Limited global import quota for upland cotton
 

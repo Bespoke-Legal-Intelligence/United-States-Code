@@ -98,7 +98,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(iii) in the field service at Army or Navy disciplinary barracks or at any other confinement and rehabilitation facility operated by any of the armed forces;
 
-> &emsp;&emsp;whose duties in connection with individuals in detention suspected or convicted of offenses against the criminal laws of theUnited States or of the District of Columbia or offenses against the punitive articles of the Uniform Code of Military Justice (chapter 47 of title 10) require frequent direct contact with these individuals in their detention and are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the head of the employing agency;
+> &emsp;&emsp;whose duties in connection with individuals in detention suspected or convicted of offenses against the criminal laws of the United States or of the District of Columbia or offenses against the punitive articles of the Uniform Code of Military Justice (chapter 47 of title 10) require frequent direct contact with these individuals in their detention and are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the head of the employing agency;
 
 &emsp;(18) the term "loss", as used with respect to the Thrift Savings Fund, includes the amount of any loss resulting from the investment of sums in such Fund, or from the breach of any responsibility, duty, or obligation under section 8477.<sup>1</sup>
 
@@ -124,7 +124,7 @@ For the purpose of this chapter—
 
 &emsp;(22) the term "net losses" means the excess of losses over earnings;
 
-&emsp;(23) the term "normal-cost percentage" means the entry-age normal cost of the provisions of the System which relate to the Fund, computed by the Office in accordance with generally accepted actuarial practice and standards (using dynamic assumptions) and expressed as a level percentage of aggregate basic pay;
+&emsp;(23) the term "normal-cost percentage" means the entry-age normal cost of the provisions of the System which relate to the Fund, computed by the Office in accordance with generally accepted actuarial practice and standards (using dynamic assumptions) andexpressed as a level percentage of aggregate basic pay;
 
 &emsp;(24) the term "Office" means the Office of Personnel Management;
 
@@ -166,7 +166,7 @@ For the purpose of this chapter—
 
 > &emsp;and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990;
 
-&emsp;(32) the term "nonforfeitable account balance" means any amounts in an account, established and maintained under subchapterIII, which are nonforfeitable (as determined under section 8432(g));
+&emsp;(32) the term "nonforfeitable account balance" means any amounts in an account, established and maintained under subchapter III, which are nonforfeitable (as determined under section 8432(g));
 
 &emsp;(33) "Nuclear materials courier" has the meaning given that term in section 8331(27);
 
@@ -240,7 +240,7 @@ Par. (38). Pub. L. 113–67, §401(a)(1), added par. (38).
 
 <b>2007</b>—Par. (36). Pub. L. 110–161 added par. (36).
 
-<b>2003</b>—Par. (20). Pub. L. 108–83 inserted before semicolon at end ", and who (in the case of an individualwho is a Member of the House of Representatives, including a Delegate or Resident Commissioner to the Congress) serves as a Member prior to the date of the enactment of the Legislative Branch Appropriations Act, 2004".
+<b>2003</b>—Par. (20). Pub. L. 108–83 inserted before semicolon at end ", and who (in the case of an individual who is a Member of the House of Representatives, including a Delegate or Resident Commissioner to the Congress) serves as a Member prior to the date of the enactment of the Legislative Branch Appropriations Act, 2004".
 
 Par. (35). Pub. L. 108–176 added par. (35).
 
@@ -376,7 +376,7 @@ In General.—Except as provided in subsection (b), this Act and the amendments 
 
 Exceptions.—(1) Subchapter VII of chapter 84 of title 5, United States Code, as added by section 101 of this Act, shall take effect on the date of the enactment of this Act \[June 6, 1986\].
 
-"(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
+"(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and theamendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
 
 "(3) The amendments made by sections 204 and 205 of this Act \[enacting sections 8343a and 8350 of this title and amending section 8342 of this title\] shall take effect on the date of the enactment of this Act.
 
@@ -436,7 +436,7 @@ Pub. L. 108–83, title I, §104(b), Sept. 30, 2003, 117 Stat. 1018, provided th
 
 #### Service as Law Enforcement Officer
 
-Pub. L. 104–52, title VI, §640, Nov. 19, 1995, 109 Stat. 513, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §629(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: "Hereafter, service performed during the period January 1, 1984, through December 31, 1986, which would, if performed after that period, be considered service as a law enforcement officer, as defined in section 8401(17)(A)(i)(II) and (B) of title 5, United States Code, shall be deemed service as a law enforcement officer for the purposes of chapter 84 of such title."
+Pub. L. 104–52, title VI, §640, Nov. 19, 1995, 109 Stat. 513, as amended by Pub. L. 104–208, div. A, title I, §101(f)\[title VI, §629(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: "Hereafter, service performed during the period January 1, 1984, through December 31, 1986, which would, if performed after that period, be considered service as a law enforcement officer, as defined in section 8401(17)(A)(i)(II) and (B) of title 5, United States Code, shall be deemed service as a law enforcement officer for the purposes of chapter 84 of such title."
 
 \[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §629(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: "The amendment made by subsection (a) \[amending section 640 of Pub. L. 104–52, set out above\] shall take effect as if included in Public Law 104–52 on the date of its enactment \[Nov. 19, 1995\]."\]
 

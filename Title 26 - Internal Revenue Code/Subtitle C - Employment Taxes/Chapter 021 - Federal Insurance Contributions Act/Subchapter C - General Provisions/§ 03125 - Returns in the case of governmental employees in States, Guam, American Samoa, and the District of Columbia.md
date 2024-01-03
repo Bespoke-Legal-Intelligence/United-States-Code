@@ -6,7 +6,7 @@ Except as otherwise provided in this section, in the case of the taxes imposed b
 
 #### (b) Guam
 
-The return and payment of the taxes imposed by this chapter on the income of individuals who are officers or employees of the Government of Guam or any political subdivision thereof or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, and those imposed on such Government or political subdivision or instrumentality with respect to having such individuals in its employ, may be made by the Governor of Guam or by such agents as he may designate. The person makingsuch return may, for convenience of administration, make payments of the tax imposed under section 3111 with respect to the service of such individuals without regard to the contribution and benefit base limitation in section 3121(a)(1).
+The return and payment of the taxes imposed by this chapter on the income of individuals who are officers or employees of the Government of Guam or any political subdivision thereof or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, and those imposed on such Government or political subdivision or instrumentality with respect to having such individuals in its employ, may be made by the Governor of Guam or by such agents as he may designate. The person making such return may, for convenience of administration, make payments of the tax imposed under section 3111 with respect to the service of such individuals without regard to the contribution and benefit base limitation in section 3121(a)(1).
 
 #### (c) American Samoa
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 92–336 applicable only with respect to remuneration paid 
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–5 applicable only with respect to remuneration paid after December 1971, seesection 203(c) of Pub. L. 92–5, set out as a note under section 409 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 92–5 applicable only with respect to remuneration paid after December 1971, see section 203(c) of Pub. L. 92–5, set out as a note under section 409 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1968 Amendment
 

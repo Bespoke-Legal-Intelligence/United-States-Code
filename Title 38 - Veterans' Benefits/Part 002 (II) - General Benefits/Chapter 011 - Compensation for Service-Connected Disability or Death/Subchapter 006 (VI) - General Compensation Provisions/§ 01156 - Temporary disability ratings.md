@@ -40,7 +40,7 @@ Termination of Temporary Disability Ratings.—(1) Except as provided in paragra
 
 &emsp;&emsp;(ii) provided in regulations prescribed by the Secretary.
 
-&emsp;(B) For a veteran who is assigned a temporary disability rating under subsection (a)(1)(B), until the date on which a rating decision is issued to such veteran following the medical examination scheduled under subsection (a)(3).
+&emsp;(B) For a veteran who is assigned a temporary disability rating under subsection (a)(1)(B), until the date on which a rating decision is issued to such veteran following themedical examination scheduled under subsection (a)(3).
 
 &emsp;(C) For a veteran who is assigned a temporary disability rating under subsection (a)(1)(C), until the later of the date that is—
 

@@ -84,7 +84,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 &emsp;"(ii) any other".
 
-Subsec. (b). Pub. L. 104–193, §109(e)(2), struck out "(1)" before "A household member shall be exempt", redesignated subpars. (A) to (F) as pars. (1) to (6), respectively, in par. (2), substituted "a work activity" for "a work training program", and struck out former par. (2) which read as follows:
+Subsec. (b). Pub. L. 104–193, §109(e)(2), struck out "(1)" before "A household member shall be exempt",redesignated subpars. (A) to (F) as pars. (1) to (6), respectively, in par. (2), substituted "a work activity" for "a work training program", and struck out former par. (2) which read as follows:
 
 "(2)(A) Subject to subparagraphs (B) and (C), in the case of a household that is exempt from work requirements imposed under this chapter as the result of participation in a community work experience program established under section 409 of the Social Security Act (42 U.S.C. 609), the maximum number of hours in a month for which all members of such household may be required to participate in such program shall equal the result obtained by dividing—
 
@@ -94,7 +94,7 @@ Subsec. (b). Pub. L. 104–193, §109(e)(2), struck out "(1)" before "A househol
 
 "(B) In no event may any such member be required to participate in such program more than 120 hours per month.
 
-"(C) For the purpose of subparagraph (A)(i), the value of the food stamp allotment of a household for a monthshall be determined in accordance with regulations governing the issuance of an allotment to a household that contains more members than the number of members in an assistance unit established under title IV of such Act."
+"(C) For the purpose of subparagraph (A)(i), the value of the food stamp allotment of a household for a month shall be determined in accordance with regulations governing the issuance of an allotment to a household that contains more members than the number of members in an assistance unit established under title IV of such Act."
 
 Subsec. (f). Pub. L. 104–193, §815(b)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: "In the event that any person fails to comply with the requirements of this section, neither that person nor the household to which that person belongs shall be eligible to participate in the food stamp program for two months, unless that person or another person in the household satisfies all outstanding workfare obligations prior to the end of the two-month disqualification period."
 

@@ -108,7 +108,7 @@ In the case of a participant or beneficiary who is in a group health plan or gro
 
 #### (D) Effects of determination
 
-&emsp;&emsp;The provisions of section 1185e(c)(5)(E) of this title shall apply with respect to a determination of a certified IDR entity under subparagraph (A), the notification submitted with respect to such determination, the services with respect to such notification, and the parties to such notification in thesame manner as such provisions apply with respect to a determination of a certified IDR entity under section 1185e(c)(5)(E) of this title, the notification submitted with respect to such determination, the items and services with respect to such notification, and the parties to such notification.
+&emsp;&emsp;The provisions of section 1185e(c)(5)(E) of this title shall apply with respect to a determination of a certified IDR entity under subparagraph (A), the notification submitted with respect to such determination, the services with respect to such notification, and the parties to such notification in the same manner as such provisions apply with respect to a determination of a certified IDR entity under section 1185e(c)(5)(E) of this title, the notification submitted with respect to such determination, the items and services with respect to such notification, and the parties to such notification.
 
 #### (E) Costs of independent dispute resolution process
 

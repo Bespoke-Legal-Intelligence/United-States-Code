@@ -28,7 +28,7 @@ The Congress finds that the greatest potential for significantly expanding avail
 
 #### (d) Coordination with population planning and health programs
 
-Assistance provided under this section shall also be used in coordination with programs carried out under section 2151b of this title to helpimprove nutrition of the people of developing countries through encouragement of increased production of crops with greater nutritional value; improvement of planning, research, and education with respect to nutrition, particularly with reference to improvement and expanded use of indigenously produced foodstuffs; and the undertaking of pilot or demonstration programs explicitly addressing the problem of malnutrition of poor and vulnerable people. In particular, the President is encouraged—
+Assistance provided under this section shall also be used in coordination with programs carried out under section 2151b of this title to help improve nutrition of the people of developing countries through encouragement of increased production of crops with greater nutritional value; improvement of planning, research, and education with respect to nutrition, particularly with reference to improvement and expanded use of indigenously produced foodstuffs; and the undertaking of pilot or demonstration programs explicitly addressing the problem of malnutrition of poor and vulnerable people. In particular, the President is encouraged—
 
 &emsp;(1) to devise and carry out in partnership with developing countries a strategy for programs of nutrition and health improvement for mothers and children, including breast feeding; and
 
@@ -76,7 +76,7 @@ Subsec. (g). Pub. L. 97–113, §301(c), added subsec. (g).
 
 <b>1980</b>—Subsec. (a)(2). Pub. L. 96–533 substituted appropriations authorization of $713,500,000 for fiscal year 1981 for such authorization of $659,000,000 for fiscal year 1980.
 
-<b>1979</b>—Subsec. (a)(2). Pub. L. 96–53, §101(a), substituted provisions authorizing appropriations of $659,000,000 forfiscal year 1980, for provisions authorizing appropriations of $665,213,000 for fiscal year 1979.
+<b>1979</b>—Subsec. (a)(2). Pub. L. 96–53, §101(a), substituted provisions authorizing appropriations of $659,000,000 for fiscal year 1980, for provisions authorizing appropriations of $665,213,000 for fiscal year 1979.
 
 Subsec. (b)(3). Pub. L. 96–53, §101(b), added par. (3).
 

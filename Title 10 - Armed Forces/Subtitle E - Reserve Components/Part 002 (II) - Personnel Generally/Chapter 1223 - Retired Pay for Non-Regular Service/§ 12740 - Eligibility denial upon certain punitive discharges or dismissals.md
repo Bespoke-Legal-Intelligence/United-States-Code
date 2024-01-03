@@ -2,7 +2,7 @@
 
 A person who—
 
-&emsp;(1) is convicted of an offense under the Uniform Code of Military Justice (chapter 47 of this title) and whose sentence includes death; or
+&emsp;(1) is convicted of an offense under the Uniform Code of Military Justice (chapter 47 ofthis title) and whose sentence includes death; or
 
 &emsp;(2) is separated pursuant to sentence of a court-martial with a dishonorable discharge, a bad conduct discharge, or (in the case of an officer) a dismissal,
 

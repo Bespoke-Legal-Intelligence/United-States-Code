@@ -12,7 +12,7 @@ In establishing priorities for agricultural research, extension, and education a
 
 #### (1) Process
 
-&emsp;Effective October 1, 1999, to obtain agricultural research, extension, or education formula funds from the Secretary, each 1862 Institution, 1890 Institution, 1994 Institution, and Hispanic-serving agricultural college anduniversity shall establish and implement a process for obtaining input from persons who conduct or use agricultural research, extension, or education concerning the use of the funds.
+&emsp;Effective October 1, 1999, to obtain agricultural research, extension, or education formula funds from the Secretary, each 1862 Institution, 1890 Institution, 1994 Institution, and Hispanic-serving agricultural college and university shall establish and implement a process for obtaining input from persons who conduct or use agricultural research, extension, or education concerning the use of the funds.
 
 #### (2) Regulations
 

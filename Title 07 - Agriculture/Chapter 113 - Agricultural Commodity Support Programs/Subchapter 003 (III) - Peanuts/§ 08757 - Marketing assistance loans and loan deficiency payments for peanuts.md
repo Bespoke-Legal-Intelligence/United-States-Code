@@ -4,7 +4,7 @@
 
 #### (1) Availability
 
-&emsp;For each of the 2008 through 2012 crops of peanuts, the Secretary shall make available to producers on a farm nonrecourse marketing assistance loans for peanuts produced on the farm.
+&emsp;For each of the 2008 through 2012 crops of peanuts, the Secretary shall make available toproducers on a farm nonrecourse marketing assistance loans for peanuts produced on the farm.
 
 #### (2) Terms and conditions
 
@@ -102,7 +102,7 @@ Except as provided in section 8715 <sup>1</sup> of this title, the loan rate fo
 
 &emsp;&emsp;(A) the payment rate determined under paragraph (3) for peanuts; by
 
-&emsp;&emsp;(B) the quantity of the peanuts produced by the producers, excluding any quantity for which the producers obtain a marketing assistance loan under subsection (a).
+&emsp;&emsp;(B) the quantity of the peanuts produced by the producers, excluding any quantity forwhich the producers obtain a marketing assistance loan under subsection (a).
 
 #### (3) Payment rate
 

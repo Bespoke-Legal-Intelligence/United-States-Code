@@ -1,6 +1,6 @@
 ### §30505. Severability
 
-If any provision of this division, an amendment made by this division, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this division, the amendments made by this division, and the application of the provisions of such to any person or circumstance shall not be affected thereby.
+If any provision of this division, an amendment made by this division, or the applicationof such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this division, the amendments made by this division, and the application of the provisions of such to any person or circumstance shall not be affected thereby.
 
 (Pub. L. 111–84, div. E, §4709, Oct. 28, 2009, 123 Stat. 2841.)
 

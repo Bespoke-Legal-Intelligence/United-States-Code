@@ -86,7 +86,7 @@ Subsecs. (e) to (g). Pub. L. 97–33, §3, added subsec. (e) and redesignated su
 
 <b>1979</b>—Subsec. (a)(3). H. Res. 89 changed name of Committee on International Relations of the House of Representatives to Committee on Foreign Affairs.
 
-<b>1978</b>—Subsec. (d). Pub. L. 95–381 substituted provisions setting forth requirements respecting interim andfinal reports to Congress, for provisions requiring submission of findings and conclusions to Congress not later than two years after Oct. 11, 1976.
+<b>1978</b>—Subsec. (d). Pub. L. 95–381 substituted provisions setting forth requirements respecting interim and final reports to Congress, for provisions requiring submission of findings and conclusions to Congress not later than two years after Oct. 11, 1976.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -10,5 +10,5 @@ For the purpose of this title—
 
 #### Historical and Revision Notes
 
-The section is supplied to avoid the necessity for defining "Government corporation" and "Government controlled corporation" each time it is used in this title.
+The section is supplied to avoid the necessity for defining "Government corporation" and "Governmentcontrolled corporation" each time it is used in this title.
 

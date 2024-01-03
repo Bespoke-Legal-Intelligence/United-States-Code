@@ -20,7 +20,7 @@ The Secretary shall give priority to a project for flood risk management if—
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the WaterInfrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

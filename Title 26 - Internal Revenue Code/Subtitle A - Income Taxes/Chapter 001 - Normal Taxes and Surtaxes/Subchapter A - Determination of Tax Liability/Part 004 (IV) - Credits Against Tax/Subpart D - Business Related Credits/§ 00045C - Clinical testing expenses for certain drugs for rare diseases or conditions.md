@@ -168,7 +168,7 @@ Subsec. (e). Pub. L. 101–508, §11411, substituted "December 31, 1991" for "De
 
 <b>1988</b>—Subsec. (b)(1)(D). Pub. L. 100–647, §4008(c)(1), substituted "1989" for "1988".
 
-Subsec. (b)(2)(A)(ii)(II). Pub. L. 100–647, §1018(q)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "before the date on which an application with respect to such drug is approved under section 505(b) of such Act or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Services Act, and".
+Subsec. (b)(2)(A)(ii)(II). Pub. L. 100–647, §1018(q)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "before the date on which an application with respect to such drug is approved undersection 505(b) of such Act or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Services Act, and".
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §231(d)(3)(A)(i), (iv), substituted "41" for "30" in subpars. (A), (B), and (D), and substituted "1988" for "1985" in subpar. (D).
 
@@ -206,7 +206,7 @@ Subsec. (d)(4). Pub. L. 98–369, §474(g)(1)(C), substituted "section 30(f)" fo
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–97, title I, §13401(c), Dec. 22, 2017, 131 Stat. 2134, provided that: "The amendments made by thissection \[amending this section and section 280C of this title\] shall apply to taxable years beginning after December 31, 2017."
+Pub. L. 115–97, title I, §13401(c), Dec. 22, 2017, 131 Stat. 2134, provided that: "The amendments made by this section \[amending this section and section 280C of this title\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2015 Amendment
 
@@ -254,7 +254,7 @@ Pub. L. 105–34, title VI, §604(b), Aug. 5, 1997, 111 Stat. 863, provided that
 
 Amendment by section 1204(e) of Pub. L. 104–188 applicable to taxable years ending after June 30, 1996, and not to be taken into account under section 6654 or 6655 of this title in determining amount of any installment required to be paid for a taxable year beginning in 1997, see section 1204(f) of Pub. L. 104–188, set out as a note under section 41 of this title.
 
-Amendment by section 1205(a)(1), (b), (d)(1), (2) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
+Amendment by section 1205(a)(1), (b), (d)(1), (2) of Pub. L. 104–188 applicable to amounts paid or incurredin taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
 #### Effective Date of 1993 Amendment
 

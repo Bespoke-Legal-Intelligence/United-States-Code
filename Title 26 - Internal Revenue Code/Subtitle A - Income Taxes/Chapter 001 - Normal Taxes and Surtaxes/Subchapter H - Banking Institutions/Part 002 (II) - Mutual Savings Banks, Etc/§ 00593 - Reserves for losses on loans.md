@@ -44,7 +44,7 @@
 
 #### (C) Overall limitation on paragraph
 
-&emsp;&emsp;The amount determined under this paragraph shall not exceed the amount necessary to increase the balance at the close of the taxable year of the reserve for losses on qualifying real property loans to 6 percent of such loans outstanding at such time.
+&emsp;&emsp;The amount determined under this paragraph shall not exceed the amount necessary to increase the balance at the close of thetaxable year of the reserve for losses on qualifying real property loans to 6 percent of such loans outstanding at such time.
 
 #### (D) Computation of taxable income
 
@@ -72,7 +72,7 @@
 
 #### (1) Establishment of reserves
 
-&emsp;Each taxpayer described in subsection (a) which uses the reserve method of accountingfor bad debts shall establish and maintain a reserve for losses on qualifying real property loans, a reserve for losses on nonqualifying loans, and a supplemental reserve for losses on loans. For purposes of this title, such reserves shall be treated as reserves for bad debts, but no deduction shall be allowed for any addition to the supplemental reserve for losses on loans.
+&emsp;Each taxpayer described in subsection (a) which uses the reserve method of accounting for bad debts shall establish and maintain a reserve for losses on qualifying real property loans, a reserve for losses on nonqualifying loans, and a supplemental reserve for losses on loans. For purposes of this title, such reserves shall be treated as reserves for bad debts, but no deduction shall be allowed for any addition to the supplemental reserve for losses on loans.
 
 #### (2) Certain pre-1963 reserves
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 #### (4) Treatment of interests in REMIC's
 
-&emsp;A regular or residual interest in a REMIC shall be treated as a qualifying real property loan; except that, if less than 95 percent of the assets of such REMIC are qualifying real property loans (determined as if the taxpayer held the assets of the REMIC), such interest shall be so treated only in the proportion which the assets of such REMIC consist of such loans. For purposes of determining whether any interest in a REMIC qualifies under the preceding sentence, any interest in another REMIC held by such REMIC shall be treated as a qualifying real property loan under principles similar to the principles of the preceding sentence, except that if such REMIC's are part of a tiered structure, they shall be treated as 1 REMIC for purposes of this paragraph.
+&emsp;A regular or residual interest in a REMIC shall be treated as a qualifying real property loan; except that, if less than 95 percent of the assets of such REMIC are qualifying real property loans (determined as if the taxpayer held the assets of the REMIC), such interest shallbe so treated only in the proportion which the assets of such REMIC consist of such loans. For purposes of determining whether any interest in a REMIC qualifies under the preceding sentence, any interest in another REMIC held by such REMIC shall be treated as a qualifying real property loan under principles similar to the principles of the preceding sentence, except that if such REMIC's are part of a tiered structure, they shall be treated as 1 REMIC for purposes of this paragraph.
 
 #### (e) Distributions to shareholders
 
@@ -174,7 +174,7 @@ Subsections (a), (b), (c), and (d) shall not apply to any taxable year beginning
 
 &emsp;&emsp;&emsp;&emsp;(I) the balance of such reserves as of the close of the taxpayer's last taxable year beginning before January 1, 1988, or
 
-&emsp;&emsp;&emsp;&emsp;(II) the balance of the reserves described in subclause (I), reduced in the same manner as under section 585(b)(2)(B)(ii) on the basis of the taxable years described in clause (i) and this clause.
+&emsp;&emsp;&emsp;&emsp;(II) the balance of the reserves described in subclause (I), reduced in the same manner as under section585(b)(2)(B)(ii) on the basis of the taxable years described in clause (i) and this clause.
 
 #### (B) Special rule for thrifts which become small banks
 
@@ -300,7 +300,7 @@ Subsec. (b)(2)(D). Pub. L. 99–514, §901(b)(2)(B), (d)(2)(B), redesignated sub
 
 Subsec. (b)(2)(E). Pub. L. 99–514, §901(b)(2)(B), redesignated subpar. (E) as (D).
 
-Pub. L. 99–514, §311(b)(2), redesignated former cl. (v) as (iv), and struck out former cl. (iv) which read as follows: "by excluding from gross income an amount equal to the lesser of 18/46 of the net long-term capital gain for the taxable year or 18/46 of the net long-term capital gain for the taxable year from the sale or exchange of property other than property described in clause (iii), and".
+Pub. L. 99–514, §311(b)(2), redesignated former cl. (v) as (iv), and struck out former cl. (iv) which read as follows: "by excluding from gross income an amountequal to the lesser of 18/46 of the net long-term capital gain for the taxable year or 18/46 of the net long-term capital gain for the taxable year from the sale or exchange of property other than property described in clause (iii), and".
 
 Subsec. (b)(3), (4). Pub. L. 99–514, §901(b)(3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "The amount determined under this paragraph to be a reasonable addition to the reserve for losses on qualifying real property loans shall be computed in the same manner as is provided with respect to additions to the reserves for losses on loans of banks under section 585(b)(2), reduced by the amount referred to in paragraph (1)(A) for the taxable year."
 
@@ -328,7 +328,7 @@ Subsec. (b)(2)(E)(i). Pub. L. 94–455, §1901(a)(84)(D), substituted "subsectio
 
 Subsec. (c)(2). Pub. L. 94–455, §1901(a)(84)(B), added par. (2). Former par. (2), relating to allocation of pre-1963 reserves for bad debts, was struck out.
 
-Subsec. (c)(3). Pub. L. 94–455, §1901(a)(84)(B), redesignated par. (6) as par. (3). Former par. (3), relating to themethod of allocation to reserves for bad debts, was struck out.
+Subsec. (c)(3). Pub. L. 94–455, §1901(a)(84)(B), redesignated par. (6) as par. (3). Former par. (3), relating to the method of allocation to reserves for bad debts, was struck out.
 
 Subsec. (c)(4), (5). Pub. L. 94–455, §1901(a)(84)(B), struck out par. (4) which defined "pre-1963 reserves", and struck out par. (5) which related to certain pre-1952 surplus.
 

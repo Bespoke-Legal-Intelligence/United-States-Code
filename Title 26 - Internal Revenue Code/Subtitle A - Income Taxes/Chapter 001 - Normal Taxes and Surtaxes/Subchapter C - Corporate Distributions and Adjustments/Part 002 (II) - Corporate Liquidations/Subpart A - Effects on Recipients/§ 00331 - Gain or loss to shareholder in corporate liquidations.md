@@ -32,7 +32,7 @@ Subsec. (b). Pub. L. 97–248, §222(e)(1)(B), struck out "partial or" before "c
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, with exceptions for certainpartial liquidations, see section 222(f) of Pub. L. 97–248, set out as a note under section 302 of this title.
+Amendment by Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, with exceptions for certain partial liquidations, see section 222(f) of Pub. L. 97–248, set out as a note under section 302 of this title.
 
 #### Effective Date of 1976 Amendment
 

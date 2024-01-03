@@ -10,7 +10,7 @@
 
 &emsp;(4) the manner and form of adjudications and awards.
 
-(b) Any rule, regulation, guideline, or other published interpretation or order (and any amendment thereto) issued pursuant to the authority granted by this section or any other provision of this title shall contain citations to the particular section or sections of statutory lawor other legal authority upon which such issuance is based. The citation to the authority shall appear immediately following each substantive provision of the issuance.
+(b) Any rule, regulation, guideline, or other published interpretation or order (and any amendment thereto) issued pursuant to the authority granted by this section or any other provision of this title shall contain citations to the particular section or sections of statutory law or other legal authority upon which such issuance is based. The citation to the authority shall appear immediately following each substantive provision of the issuance.
 
 (c) In applying section 552(a)(1) of title 5 to the Department, the Secretary shall ensure that subparagraphs (C), (D), and (E) of that section are complied with, particularly with respect to opinions and interpretations of the General Counsel.
 

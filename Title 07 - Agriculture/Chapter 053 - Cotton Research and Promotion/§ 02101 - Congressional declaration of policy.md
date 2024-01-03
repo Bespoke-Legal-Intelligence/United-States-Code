@@ -30,7 +30,7 @@ Pub. L. 89–502, §1, July 13, 1966, 80 Stat. 279, provided: "That this Act \[e
 
 #### Pima Agriculture Cotton Trust Fund
 
-Pub. L. 113–79, title XII, §12314, Feb. 7, 2014, 128 Stat. 993, as amended by Pub. L. 115–334, title XII, §12602, Dec. 20, 2018, 132 Stat. 5004, provided that:
+Pub. L. 113–79, title XII, §12314, Feb. 7, 2014, 128 Stat. 993, as amended by Pub. L. 115–334, title XII, §12602, Dec. 20, 2018, 132 Stat. 5004; Pub. L. 118–22, div. B, title I, §102(d)(8)(A), Nov. 17, 2023, 137 Stat. 118, provided that:
 
 "(a)
 
@@ -38,7 +38,7 @@ Establishment of Trust Fund.—There is established in the Treasury of the Unite
 
 "(b)
 
-Distribution of Funds.—From amounts in the Trust Fund, the Secretary \[of Agriculture\] shall make payments annually beginning in calendar year 2014 for calendar years 2014 through 2023 as follows:
+Distribution of Funds.—From amounts in the Trust Fund, the Secretary \[of Agriculture\] shall make payments annually beginning in calendar year 2014 for calendar years 2014 through 2024 as follows:
 
 &emsp;"(1) Twenty-five percent of the amounts in the Trust Fund shall be paid to one or more nationally recognized associations established for the promotion of pima cotton for use in textile and apparel goods.
 
@@ -96,7 +96,7 @@ In general.—The affidavit required by subsection (b)(3)(A) is a notarized affi
 
 &emsp;"(2)
 
-Date of purchase.—For purposes of the affidavit under paragraph (1), the date of purchase shallbe the invoice date, and the dollar value shall be determined excluding duty, shipping, and related costs.
+Date of purchase.—For purposes of the affidavit under paragraph (1), the date of purchase shall be the invoice date, and the dollar value shall be determined excluding duty, shipping, and related costs.
 
 "(e)
 
@@ -112,7 +112,7 @@ Memorandum of Understanding.—The Secretary \[of Agriculture\] and the Commissi
 
 "(h)
 
-Funding.—Of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Trust Fund $16,000,000 for each of calendar years 2014 through 2023, to remain available until expended."
+Funding.—Of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Trust Fund $16,000,000 for each of calendar years 2014 through 2024, to remain available until expended."
 
 #### Reports on Implementation and Enforcement of Cotton Research and Promotion Program
 

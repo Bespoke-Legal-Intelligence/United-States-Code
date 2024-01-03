@@ -6,7 +6,7 @@ At the request of the Revitalization Coordinator and within 30 days of receiving
 
 #### (b) Federal grants and loans
 
-For each Critical Project with a pending or potential Federal grant, loan, or loan guarantee application, the Revitalization Coordinator andthe relevant Point of Contact shall cooperate with each other to ensure expeditious review of such application.
+For each Critical Project with a pending or potential Federal grant, loan, or loan guarantee application, the Revitalization Coordinator and the relevant Point of Contact shall cooperate with each other to ensure expeditious review of such application.
 
 #### (c) Expedited reviews and actions of Federal agencies
 

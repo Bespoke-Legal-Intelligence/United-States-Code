@@ -58,7 +58,7 @@
 
 &emsp;The Secretary shall include in the annual report under paragraph (1)—
 
-&emsp;&emsp;(A) data, analysis, and discussion of the changes in the number of individuals hired as agreed upon in the letters described in section 1001(b) of the Prescription Drug User Fee Amendments of 2022 and the number of remaining vacancies, the number of full-time equivalents funded by fees collected pursuant to section 379h of this title, and the number of full-time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
+&emsp;&emsp;(A) data, analysis, and discussion of the changes in the number of individuals hiredas agreed upon in the letters described in section 1001(b) of the Prescription Drug User Fee Amendments of 2022 and the number of remaining vacancies, the number of full-time equivalents funded by fees collected pursuant to section 379h of this title, and the number of full-time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
 
 &emsp;&emsp;(B) data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of human drug applications, including identifying—
 
@@ -112,7 +112,7 @@ For each fiscal year for which fees are collected under this subpart, the Secret
 
 #### (2) Participation in congressional hearing
 
-&emsp;Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
+&emsp;Each fiscal year, as applicable and requested, representatives from the Food andDrug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
 
 #### (e) Public availability
 
@@ -184,7 +184,7 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 &emsp;&emsp;The minutes described under subparagraph (A) shall summarize, in sufficient detail, any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
 
-(June 25, 1938, ch. 675, §736B, as added Pub. L. 110–85, title I, §105, Sept. 27, 2007, 121 Stat. 840; amended Pub. L. 112–144, title I, §104, July 9, 2012, 126 Stat. 1000; Pub. L. 115–52, title I, §103,title IX, §§903(a), 904(a), Aug. 18, 2017, 131 Stat. 1012, 1077, 1082; Pub. L. 117–180, div. F, title I, §1004, Sept. 30, 2022, 136 Stat. 2146; Pub. L. 117–328, div. FF, title III, §3626(a), Dec. 29, 2022, 136 Stat. 5883.)
+(June 25, 1938, ch. 675, §736B, as added Pub. L. 110–85, title I, §105, Sept. 27, 2007, 121 Stat. 840; amended Pub. L. 112–144, title I, §104, July 9, 2012, 126 Stat. 1000; Pub. L. 115–52, title I, §103, title IX, §§903(a), 904(a), Aug. 18, 2017, 131 Stat. 1012, 1077, 1082; Pub. L. 117–180, div. F, title I, §1004, Sept. 30, 2022, 136 Stat. 2146; Pub. L. 117–328, div. FF, title III, §3626(a), Dec. 29, 2022, 136 Stat. 5883.)
 
 #### Termination of Section
 
@@ -274,7 +274,7 @@ Amendment by section 103 of Pub. L. 115–52 effective Oct. 1, 2017, with fees u
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subpart to be assessed for allhuman drug applications received on or after Oct. 1, 2012, see section 106 of Pub. L. 112–144, set out as a note under section 379g of this title.
+Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2012, see section 106 of Pub. L. 112–144, set out as a note under section 379g of this title.
 
 #### Effective and Termination Dates
 

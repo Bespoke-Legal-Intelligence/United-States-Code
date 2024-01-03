@@ -26,7 +26,7 @@
 
 (1) Except as provided in paragraph (2), the local educational agency, within 540 days after October 22, 1986, shall conduct an inspection for asbestos-containing material, using personnel accredited under section 2646(b) or (c) of this title and laboratories accredited under section 2646(d) of this title, in each school building under its authority.
 
-(2) The local educational agency may exclude from the inspection requirement in paragraph (1) any school building, or portion of a school building, if (A) an inspection of such school building (or portion) was completed before the date on which this section goes into effect, and (B) the inspection meets the inspection requirements of this section.
+(2) The local educational agency may exclude from the inspection requirement in paragraph (1) any school building, or portion of a school building, if (A) an inspection of such school building (or portion) was completed before thedate on which this section goes into effect, and (B) the inspection meets the inspection requirements of this section.
 
 #### (c) Operation and maintenance
 
@@ -74,7 +74,7 @@ The local educational agency shall, within 720 days after October 22, 1986, deve
 
 &emsp;&emsp;&emsp;(v) The results of the inspection.
 
-&emsp;&emsp;(B) The statement shall state whether any actions were taken with respect to any asbestos-containing material found to bepresent, including a specific reference to whether any actions were taken in the boiler room of the building. If any such action was taken, the following items of information shall be included in the statement:
+&emsp;&emsp;(B) The statement shall state whether any actions were taken with respect to any asbestos-containing material found to be present, including a specific reference to whether any actions were taken in the boiler room of the building. If any such action was taken, the following items of information shall be included in the statement:
 
 &emsp;&emsp;&emsp;(i) The location or locations at which the action was taken.
 

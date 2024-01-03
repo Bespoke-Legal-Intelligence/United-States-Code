@@ -68,7 +68,7 @@ Annual Report.—(1) The Secretary of the Air Force shall direct the Superintend
 
 (4)(A) The Secretary of the Air Force shall transmit to the Secretary of Defense, and to the Board of Visitors of the Academy, each report received by the Secretary under this subsection, together with the Secretary's comments on the report.
 
-(B) The Secretary of Defense shall transmit each such report, together with the Secretary's comments on the report, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
+(B) The Secretary of Defense shall transmit each such report, together with the Secretary'scomments on the report, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
 (e)
 
@@ -94,7 +94,7 @@ Consideration of Request for Transfer of a Cadet Who Is the Victim of a Sexual A
 
 &emsp;&emsp;(iii) to take all necessary and appropriate action to effectuate the cadet's enrollment in the institution of higher education to which the cadet wishes to transfer and to process the cadet for participation in the relevant Senior Reserve Officers' Training Corps program as expeditiously as possible.
 
-(3) If the Superintendent of the United States Air Force Academy denies a request for transferunder this subsection, the cadet may request review of the denial by the Secretary of the Air Force, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
+(3) If the Superintendent of the United States Air Force Academy denies a request for transfer under this subsection, the cadet may request review of the denial by the Secretary of the Air Force, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
 
 (4) The Secretary concerned shall ensure that all records of any request, determination, transfer, or other action under this subsection remain confidential, consistent with applicable law and regulation.
 
@@ -128,7 +128,7 @@ Secretary of Defense to consult with Secretaries of the military departments and
 
 #### Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Military Service Academies
 
-Secretary of the military department concerned to ensure that the provisions of title XVII of Pub. L. 113–66 and subtitle D of title V of div. A of Pub. L. 113–291 apply to the United States Military Academy, the Naval Academy, and the Air Force Academy, as applicable, see section 552(a) of Pub. L. 113—291, set out as a note under section 7461 of this title.
+Secretary of the military department concerned to ensure that the provisions of title XVII of Pub. L.113–66 and subtitle D of title V of div. A of Pub. L. 113–291 apply to the United States Military Academy, the Naval Academy, and the Air Force Academy, as applicable, see section 552(a) of Pub. L. 113—291, set out as a note under section 7461 of this title.
 
 #### Prevention of Sexual Assault at Military Service Academies
 

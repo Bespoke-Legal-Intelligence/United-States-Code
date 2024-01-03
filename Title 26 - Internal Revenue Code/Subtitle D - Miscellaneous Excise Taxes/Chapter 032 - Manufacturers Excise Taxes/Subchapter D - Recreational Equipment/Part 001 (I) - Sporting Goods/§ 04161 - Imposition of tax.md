@@ -22,7 +22,7 @@
 
 #### (4) Parts or accessories sold in connection with taxable sale
 
-&emsp;In the case of any sale by the manufacturer, producer, or importer of any article of sport fishing equipment, such article shall be treated as including any parts or accessories of such article sold on or in connection therewith or with the sale thereof.
+&emsp;In the case of any sale by the manufacturer, producer, or importer of any article of sportfishing equipment, such article shall be treated as including any parts or accessories of such article sold on or in connection therewith or with the sale thereof.
 
 #### (b) Bows and arrows, etc.
 
@@ -190,7 +190,7 @@ Special rules.—The amendments made by sections 201(b)(2) \[amending section 40
 
 "(3)
 
-Installment sales, etc.—For purposes of paragraphs (1) and (2), an article shall not be considered sold before the day after the date of the enactment of this Act \[June 21, 1965\] or before January 1, 1966, as the case may be, unless possession or right to possession passes to the purchaser before such day or such date. In the case of—
+Installment sales, etc.—For purposes of paragraphs (1) and (2), an article shall not be considered sold before the day after the date of the enactment of this Act \[June 21, 1965\] or before January 1, 1966, as thecase may be, unless possession or right to possession passes to the purchaser before such day or such date. In the case of—
 
 &emsp;"(A) a lease,
 

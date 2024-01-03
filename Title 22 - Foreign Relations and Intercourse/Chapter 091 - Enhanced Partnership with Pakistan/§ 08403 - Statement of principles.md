@@ -22,7 +22,7 @@ Congress declares that the relationship between the United States and Pakistan s
 
 &emsp;&emsp;(E) to support the strengthening of core curricula and the quality of schools across Pakistan, including madrassas, in order to improve the prospects for Pakistani children's futures and eliminate incitements to violence and intolerance;
 
-&emsp;&emsp;(F) to encourage and promote public-private partnerships in Pakistan in order to bolster ongoing development efforts and strengthen economic prospects, especially with respect to opportunities to build civic responsibility and professional skills of the people of Pakistan, including support for institutions of higher learning with international accreditation;
+&emsp;&emsp;(F) to encourage and promote public-private partnerships in Pakistan in order to bolster ongoing development efforts andstrengthen economic prospects, especially with respect to opportunities to build civic responsibility and professional skills of the people of Pakistan, including support for institutions of higher learning with international accreditation;
 
 &emsp;&emsp;(G) to expand people-to-people engagement between the two countries, through increased educational, technical, and cultural exchanges and other methods;
 
@@ -30,7 +30,7 @@ Congress declares that the relationship between the United States and Pakistan s
 
 &emsp;&emsp;(I) to assist Pakistan's efforts to improve counterterrorism financing and anti-money laundering regulatory structure in order to achieve international standards and encourage Pakistan to apply for "Financial Action Task Force" observer status and adhere to the United Nations International Convention for the Suppression of the Financing of Terrorism;
 
-&emsp;&emsp;(J) to strengthen Pakistan's counterinsurgency and counterterrorismstrategy to help prevent any territory of Pakistan from being used as a base or conduit for terrorist attacks in Pakistan or elsewhere;
+&emsp;&emsp;(J) to strengthen Pakistan's counterinsurgency and counterterrorism strategy to help prevent any territory of Pakistan from being used as a base or conduit for terrorist attacks in Pakistan or elsewhere;
 
 &emsp;&emsp;(K) to strengthen Pakistan's efforts to develop strong and effective law enforcement and national defense forces under civilian leadership;
 

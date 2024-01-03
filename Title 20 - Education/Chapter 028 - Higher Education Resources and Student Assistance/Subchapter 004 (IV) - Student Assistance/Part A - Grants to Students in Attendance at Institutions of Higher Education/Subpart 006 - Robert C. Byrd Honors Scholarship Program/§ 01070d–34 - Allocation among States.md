@@ -20,7 +20,7 @@ Notwithstanding section 1469a of title 48, funds allocated under this part to an
 
 #### (1) Fiscal years 2000 through 2004
 
-&emsp;Notwithstanding any other provision of this subpart, in the case of students from the Freely Associated States who may be selected to receive a scholarship under this subpart for the first time for any of the fiscal years 2000 through 2004—
+&emsp;Notwithstanding any other provision of this subpart, in the case of students from the Freely Associated States who may be selected toreceive a scholarship under this subpart for the first time for any of the fiscal years 2000 through 2004—
 
 &emsp;&emsp;(A) there shall be 10 scholarships in the aggregate awarded to such students for each of the fiscal years 2000 through 2004; and
 

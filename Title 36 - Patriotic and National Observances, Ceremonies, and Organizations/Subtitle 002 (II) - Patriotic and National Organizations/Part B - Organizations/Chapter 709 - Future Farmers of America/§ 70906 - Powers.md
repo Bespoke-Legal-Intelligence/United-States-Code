@@ -2,7 +2,7 @@
 
 The FFA may—
 
-&emsp;(1) adopt and amend bylaws and regulations for the management of its property and the regulation of its affairs, including the establishment and maintenance of local chapters and State associations of chapters;
+&emsp;(1) adopt and amend bylaws and regulations for the management of its property and theregulation of its affairs, including the establishment and maintenance of local chapters and State associations of chapters;
 
 &emsp;(2) adopt and alter a seal;
 

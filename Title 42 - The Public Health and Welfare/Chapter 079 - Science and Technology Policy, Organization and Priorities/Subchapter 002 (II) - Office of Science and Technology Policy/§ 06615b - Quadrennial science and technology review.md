@@ -8,7 +8,7 @@
 
 #### (2) Scope
 
-&emsp;The quadrennial science and technology review shall be a comprehensive examination of the science and technology strategy of the United States, including recommendations for maintaining global leadership in science and technology and advancing science and technology to address the societal and national challenges and guidance regarding the coordination of programs, assets, capabilities, budget, policies, and authorities across all Federal research and development programs.
+&emsp;The quadrennial science and technology review shall be a comprehensive examination of the science and technology strategy of theUnited States, including recommendations for maintaining global leadership in science and technology and advancing science and technology to address the societal and national challenges and guidance regarding the coordination of programs, assets, capabilities, budget, policies, and authorities across all Federal research and development programs.
 
 #### (3) Consultation
 

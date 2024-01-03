@@ -68,7 +68,7 @@ In carrying out this section, States shall address the transition needs of all s
 
 The Individuals with Disabilities Education Act, referred to in subsec. (c)(5), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsec. (d)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health andWelfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

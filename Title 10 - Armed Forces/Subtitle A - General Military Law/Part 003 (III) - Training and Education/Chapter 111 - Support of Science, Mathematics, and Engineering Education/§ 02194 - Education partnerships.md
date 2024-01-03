@@ -1,6 +1,6 @@
 ### §2194. Education partnerships
 
-(a) The Secretary of Defense shall authorize the director of each defense laboratory to enterinto one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education. The educational institutions referred to in the preceding sentence are local educational agency, colleges, universities, and any other nonprofit institutions that are dedicated to improving science, mathematics, business, law, technology transfer or transition and engineering education.
+(a) The Secretary of Defense shall authorize the director of each defense laboratory to enter into one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education. The educational institutions referred to in the preceding sentence are local educational agency, colleges, universities, and any other nonprofit institutions that are dedicated to improving science, mathematics, business, law, technology transfer or transition and engineering education.
 
 (b) Under a partnership agreement entered into with an educational institution under this section, the director of a defense laboratory may provide, and is encouraged to provide, assistance to the educational institution by—
 

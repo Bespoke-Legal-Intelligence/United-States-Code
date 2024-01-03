@@ -10,7 +10,7 @@ The Congress finds the following:
 
 &emsp;(4) Federal health services to Indians have resulted in a reduction in the prevalence and incidence of preventable illnesses among, and unnecessary and premature deaths of, Indians.
 
-&emsp;(5) Despite such services, the unmet health needs of the American Indian people are severe and the health status of the Indians is far below that of the general population of the United States.
+&emsp;(5) Despite such services, the unmet health needs of the American Indian people are severeand the health status of the Indians is far below that of the general population of the United States.
 
 (Pub. L. 94–437, §2, Sept. 30, 1976, 90 Stat. 1400; Pub. L. 102–573, §3(a), Oct. 29, 1992, 106 Stat. 4526; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
@@ -42,7 +42,7 @@ Pub. L. 106–417, §1, Nov. 1, 2000, 114 Stat. 1812, provided that: "This Act \
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–313, §1(a), Oct. 19, 1996, 110 Stat. 3820, provided that: "This Act \[amending sections 1603, 1613a,1621j, 1645, 1665e, 1665j, and 1680k of this title\] may be cited as the 'Indian Health Care Improvement Technical Corrections Act of 1996'."
+Pub. L. 104–313, §1(a), Oct. 19, 1996, 110 Stat. 3820, provided that: "This Act \[amending sections 1603, 1613a, 1621j, 1645, 1665e, 1665j, and 1680k of this title\] may be cited as the 'Indian Health Care Improvement Technical Corrections Act of 1996'."
 
 #### Short Title of 1992 Amendment
 

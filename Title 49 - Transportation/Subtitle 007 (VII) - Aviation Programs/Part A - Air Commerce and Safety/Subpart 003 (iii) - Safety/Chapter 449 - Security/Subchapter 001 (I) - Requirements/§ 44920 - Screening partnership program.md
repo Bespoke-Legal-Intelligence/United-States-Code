@@ -58,7 +58,7 @@ Contracts.—The Administrator shall, to the extent practicable, enter into a co
 
 &emsp;(3)
 
-Waivers.—The Administrator may waive the requirement of paragraph (2)(B) for any company that is a United States subsidiary with a parent company that has implemented a foreign ownership, control, or influence mitigation plan that has been approved by the Defense Security Service of the Department of Defense prior to the submission of the application. The Administrator has complete discretion to reject any application from a private screening company to provide screening services at an airport that requires a waiver under this paragraph.
+Waivers.—The Administrator may waive the requirement of paragraph (2)(B) for any company that is a United States subsidiary with a parent company that has implemented a foreign ownership, control, or influencemitigation plan that has been approved by the Defense Security Service of the Department of Defense prior to the submission of the application. The Administrator has complete discretion to reject any application from a private screening company to provide screening services at an airport that requires a waiver under this paragraph.
 
 (e)
 

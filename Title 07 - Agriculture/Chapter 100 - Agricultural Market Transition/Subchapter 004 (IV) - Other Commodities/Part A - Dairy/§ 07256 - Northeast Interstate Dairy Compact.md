@@ -8,7 +8,7 @@ Congress hereby consents to the Northeast Interstate Dairy Compact entered into 
 
 #### (2) Limitation on manufacturing price
 
-&emsp;The Northeast Interstate Dairy Compact Commission shall not regulate Class II, Class III, or Class III–A milk used for manufacturing purposes or any other milk, other than Class I (fluid) milk, as defined by a Federal milk marketing order issued under section 608c of this title.
+&emsp;The Northeast Interstate Dairy Compact Commission shall not regulate Class II, Class III, or Class III–A milk used for manufacturingpurposes or any other milk, other than Class I (fluid) milk, as defined by a Federal milk marketing order issued under section 608c of this title.
 
 #### (3) Duration
 
@@ -20,7 +20,7 @@ Congress hereby consents to the Northeast Interstate Dairy Compact entered into 
 
 #### (5) Compensation of Commodity Credit Corporation
 
-&emsp;Before the end of each fiscal year that a Compact price regulation is in effect, the Northeast Interstate Dairy Compact Commission shall compensate the Commodity CreditCorporation for the cost of any purchases of milk and milk products by the Corporation that result from the projected rate of increase in milk production for the fiscal year within the Compact region in excess of the projected national average rate of the increase in milk production, as determined by the Secretary.
+&emsp;Before the end of each fiscal year that a Compact price regulation is in effect, the Northeast Interstate Dairy Compact Commission shall compensate the Commodity Credit Corporation for the cost of any purchases of milk and milk products by the Corporation that result from the projected rate of increase in milk production for the fiscal year within the Compact region in excess of the projected national average rate of the increase in milk production, as determined by the Secretary.
 
 #### (6) Milk marketing order Administrator
 

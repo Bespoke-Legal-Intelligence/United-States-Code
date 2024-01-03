@@ -26,7 +26,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 628, 63
 
 #### Amendments
 
-<b>1979</b>—Pub. L. 96–39 substituted provisions making on-site supervision and the use of government locks and seals optional at the discretion of the Secretary of the Treasury for provisions whereby bonded warehouses are required to be kept under government locks and certain activities are required to be conducted under government supervision.
+<b>1979</b>—Pub. L. 96–39 substituted provisions making on-site supervision and the use of government locks andseals optional at the discretion of the Secretary of the Treasury for provisions whereby bonded warehouses are required to be kept under government locks and certain activities are required to be conducted under government supervision.
 
 <b>1976</b>—Subsecs. (a) to (g). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 

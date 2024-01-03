@@ -106,7 +106,7 @@ Other Key Officials.—In accordance with the provisions of subchapter III of ch
 
 &emsp;&emsp;(B) organizational managers have all necessary authority and means to direct full compliance with such orders from the Assistant Secretary.
 
-&emsp;(6) Ensuring the VA National Rules of Behavior is signed and enforced by all system users to ensure appropriate use and protection of the information which is used to support Department missions and functions on an annual basis.
+&emsp;(6) Ensuring the VA National Rules of Behavior is signed and enforced by all system users to ensure appropriate use and protectionof the information which is used to support Department missions and functions on an annual basis.
 
 (f)
 
@@ -128,7 +128,7 @@ Inspector General of Department of Veterans Affairs.—In accordance with the pr
 
 &emsp;(1) Conducting an annual audit of the Department information security program.
 
-&emsp;(2) Submitting an independent annual report to the Office of Management and Budget onthe status of the Department information security program, based on the results of the annual audit.
+&emsp;(2) Submitting an independent annual report to the Office of Management and Budget on the status of the Department information security program, based on the results of the annual audit.
 
 &emsp;(3) Conducting investigations of complaints and referrals of violations as considered appropriate by the Inspector General.
 
@@ -139,4 +139,10 @@ Inspector General of Department of Veterans Affairs.—In accordance with the pr
 #### Amendments
 
 <b>2010</b>—Subsec. (g)(2). Pub. L. 111–275 inserted "the" before "Department".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 

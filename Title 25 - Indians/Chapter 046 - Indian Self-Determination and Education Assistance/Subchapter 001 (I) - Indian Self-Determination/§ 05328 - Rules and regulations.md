@@ -30,7 +30,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 &emsp;(ii) the recommendations of the Administrative Conference of the United States numbered 82–4 and 85–5 entitled "Procedures for Negotiating Proposed Regulations" under sections 305.82–4 and 305.85–5 of title 1, Code of Federal Regulations, and any successor recommendation or law (including any successor regulation).
 
-(B) The tribal participants in the negotiation process referred to in subparagraph (A) shall benominated by and shall represent the groups described in this paragraph and shall include tribal representatives from all geographic regions.
+(B) The tribal participants in the negotiation process referred to in subparagraph (A) shall be nominated by and shall represent the groups described in this paragraph and shall include tribal representatives from all geographic regions.
 
 (C) The negotiations referred to in subparagraph (B) shall be conducted in a timely manner. Proposed regulations to implement the amendments made by the Indian Self-Determination Contract Reform Act of 1994 shall be published in the Federal Register by the Secretary of the Interior and the Secretary of Health and Human Services not later than 180 days after October 25, 1994.
 
@@ -90,7 +90,7 @@ Subsecs. (d), (e). Pub. L. 103–413, §105(2), added subsecs. (d) and (e).
 
 Subsec. (b). Pub. L. 100–472, §207(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-"(1) Within six months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall each to the extent practicable,consult with national and regional Indian organizations to consider and formulate appropriate rules and regulations to implement the provisions of this chapter.
+"(1) Within six months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall each to the extent practicable, consult with national and regional Indian organizations to consider and formulate appropriate rules and regulations to implement the provisions of this chapter.
 
 "(2) Within seven months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall each present the proposed rules and regulations to the Committees on Interior and Insular Affairs of the United States Senate and House of Representatives.
 

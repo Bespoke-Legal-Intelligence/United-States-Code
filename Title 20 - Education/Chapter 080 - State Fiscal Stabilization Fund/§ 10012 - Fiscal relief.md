@@ -6,7 +6,7 @@ For the purpose of relieving fiscal burdens on States and local educational agen
 
 #### (b) Duration
 
-A waiver or modification under this section shall be for any of fiscal year 2009, fiscal year 2010, or fiscal year 2011, as determined by the Secretary.
+A waiver or modification under this section shall be for any of fiscal year 2009, fiscal year2010, or fiscal year 2011, as determined by the Secretary.
 
 #### (c) Criteria
 

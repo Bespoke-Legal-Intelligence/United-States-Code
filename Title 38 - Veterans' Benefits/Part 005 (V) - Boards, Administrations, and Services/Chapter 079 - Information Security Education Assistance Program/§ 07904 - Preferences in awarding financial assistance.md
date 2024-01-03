@@ -12,7 +12,7 @@ In awarding financial assistance under this chapter, the Secretary shall give a 
 
 &emsp;(5) Citizens of the United States.
 
-(Added Pub. L. 109–461, title IX, §903(a)(1), Dec. 22, 2006, 120 Stat. 3463; amended Pub. L. 115–91, div. A, title XVI, §1649(d)(4), Dec. 12, 2017, 131 Stat. 1753.)
+(Added Pub. L. 109–461, title IX, §903(a)(1), Dec. 22, 2006, 120 Stat. 3463; amended Pub. L. 115–91,div. A, title XVI, §1649(d)(4), Dec. 12, 2017, 131 Stat. 1753.)
 
 #### <b>Editorial Notes</b>
 

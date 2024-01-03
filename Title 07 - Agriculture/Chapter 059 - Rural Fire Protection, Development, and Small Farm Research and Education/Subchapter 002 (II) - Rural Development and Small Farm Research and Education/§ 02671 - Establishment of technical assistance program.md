@@ -18,7 +18,7 @@ Technical assistance provided under subsection (b) shall address the unique chal
 
 #### References in Text
 
-Section 6921 of this title, referred to in subsec. (b), was in the original "section 309 of the Department of Agriculture Reorganization Act of 1994", and was translated as meaning section 309 of Pub. L. 103–354, the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994, to reflect the probable intent of Congress. The Department of Agriculture Reorganization Act of 1994 is title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209.
+Section 6921 of this title, referred to in subsec. (b), was in the original "section 309 of the Department ofAgriculture Reorganization Act of 1994", and was translated as meaning section 309 of Pub. L. 103–354, the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994, to reflect the probable intent of Congress. The Department of Agriculture Reorganization Act of 1994 is title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209.
 
 #### Codification
 

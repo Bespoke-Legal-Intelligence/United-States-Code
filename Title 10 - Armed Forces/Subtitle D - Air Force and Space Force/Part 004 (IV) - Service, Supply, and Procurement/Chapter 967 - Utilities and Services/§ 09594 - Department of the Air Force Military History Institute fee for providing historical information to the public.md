@@ -28,7 +28,7 @@ Definitions.—In this section:
 
 &emsp;(2) The terms "officer of the United States" and "employee of the United States" have the meanings given the terms "officer" and "employee", respectively, in sections 2104 and 2105, respectively, of title 5.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1085(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–289;amended Pub. L. 116–283, div. A, title IX, §923(e)(8)(A), (B), Jan. 1, 2021, 134 Stat. 3816.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1085(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–289; amended Pub. L. 116–283, div. A, title IX, §923(e)(8)(A), (B), Jan. 1, 2021, 134 Stat. 3816.)
 
 #### <b>Editorial Notes</b>
 

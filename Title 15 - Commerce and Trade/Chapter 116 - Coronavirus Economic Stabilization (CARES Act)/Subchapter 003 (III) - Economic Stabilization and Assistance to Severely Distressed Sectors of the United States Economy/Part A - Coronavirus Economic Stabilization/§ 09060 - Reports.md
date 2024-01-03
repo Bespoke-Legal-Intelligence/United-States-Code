@@ -38,11 +38,11 @@ Not later than 72 hours after any transaction by the Secretary under paragraph (
 
 #### (B) Publication
 
-&emsp;&emsp;Not later than 7 days after the date on which the Secretary submits a report under subparagraph (A) to the committees of Congress described in such subparagraph, the Secretary shall publish such report on the website of the Department of the Treasury.
+&emsp;&emsp;Not later than 7 days after the date on which the Secretary submits a report undersubparagraph (A) to the committees of Congress described in such subparagraph, the Secretary shall publish such report on the website of the Department of the Treasury.
 
 #### (C) 30-day reports
 
-&emsp;&emsp;Every 30 days during such time as a loan or loan guarantee under paragraph (1), (2), or\(3) of section 9042(b) of this title is outstanding, the Secretary shall publish on the website of the Department of the Treasury a report summarizing the information set forth in subparagraph (A).
+&emsp;&emsp;Every 30 days during such time as a loan or loan guarantee under paragraph (1), (2), or (3) of section 9042(b) of this title is outstanding, the Secretary shall publish on the website of the Department of the Treasury a report summarizing the information set forth in subparagraph (A).
 
 #### (2) Board of Governors
 

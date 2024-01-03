@@ -62,7 +62,7 @@ Pub. L. 101–625, title VIII, §836(b), Nov. 28, 1990, 104 Stat. 4366, provided
 
 #### Evaluation of Programs
 
-Pub. L. 102–550, title XIV, §1409, Oct. 28, 1992, 106 Stat. 4038, as amended by Pub. L. 105–362, title VII, §701(c), Nov. 10, 1998, 112 Stat. 3287; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that the Secretary of Housing and Urban Development would conduct a comprehensive review and evaluation of the effectiveness of each program under title IV of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11360 et seq.) examining procedures of the Department in carrying out such programs, the procedures of recipients of assistance under such programs in carrying out such programs, and the effects and benefits of such programs.
+Pub. L. 102–550, title XIV, §1409, Oct. 28, 1992, 106 Stat. 4038, as amended by Pub. L. 105–362, title VII, §701(c), Nov. 10, 1998, 112 Stat. 3287; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that the Secretary of Housing and Urban Development would conduct a comprehensive review and evaluation of the effectiveness ofeach program under title IV of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11360 et seq.) examining procedures of the Department in carrying out such programs, the procedures of recipients of assistance under such programs in carrying out such programs, and the effects and benefits of such programs.
 
 #### Homeless Housing Act of 1986
 

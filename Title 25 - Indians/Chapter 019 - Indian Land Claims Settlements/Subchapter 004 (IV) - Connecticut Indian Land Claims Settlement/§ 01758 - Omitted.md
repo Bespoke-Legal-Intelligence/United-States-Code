@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 98–134, §9, Oct. 18, 1983, 97 Stat. 855, which related to extension of Federal recognition andprivileges, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 98–134, §9, Oct. 18, 1983, 97 Stat. 855, which related to extension of Federal recognition and privileges, was omitted from the Code as being of special and not general application.
 

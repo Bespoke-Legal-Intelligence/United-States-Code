@@ -14,7 +14,7 @@ Subsection (a) does not apply to the approval of—
 
 &emsp;(1) a supplement to an application under section 355(b) of this title for any qualified infectious disease product for which an extension described in subsection (a) is in effect or has expired;
 
-&emsp;(2) a subsequent application filed with respect to a product approved under section 355 of this title for a change that results in a new indication, route of administration, dosing schedule, dosage form, delivery system, delivery device, or strength;
+&emsp;(2) a subsequent application filed with respect to a product approved under section 355 of this title for a change that results in a newindication, route of administration, dosing schedule, dosage form, delivery system, delivery device, or strength;
 
 &emsp;(3) a product that does not meet the definition of a qualified infectious disease product under subsection (g) based upon its approved uses; or
 
@@ -110,7 +110,7 @@ The term "qualified infectious disease product" means a drug (including a biolog
 
 &emsp;&emsp;(B) qualifying pathogens listed by the Secretary under subsection (f).
 
-(June 25, 1938, ch. 675, §505E, as added Pub. L. 112–144, title VIII, §801(a), July 9, 2012, 126 Stat. 1077; amended Pub. L. 117–328, div. FF, title III, §3212(a), Dec. 29, 2022, 136 Stat. 5826.)
+(June 25, 1938, ch. 675, §505E, as added Pub. L. 112–144, title VIII, §801(a), July 9, 2012, 126 Stat.1077; amended Pub. L. 117–328, div. FF, title III, §3212(a), Dec. 29, 2022, 136 Stat. 5826.)
 
 #### <b>Editorial Notes</b>
 

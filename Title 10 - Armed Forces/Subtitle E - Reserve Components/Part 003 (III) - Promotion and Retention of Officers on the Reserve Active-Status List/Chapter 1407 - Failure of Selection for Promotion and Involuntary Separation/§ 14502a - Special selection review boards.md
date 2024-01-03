@@ -8,7 +8,7 @@ In General.—(1) If the Secretary of the military department concerned determin
 
 &emsp;(A) shall not be disseminated or publicly released on the list of officers recommended for promotion by the promotion board recommending the promotion of the person; and
 
-&emsp;(B) shall not be forwarded to the Secretary of Defense, the President, or the Senate, as applicable, or included on a promotion list under section 14308(a) of this title.
+&emsp;(B) shall not be forwarded for appointment or nomination to the Secretary of Defense, the President, or the Senate, as applicable.
 
 (b)
 
@@ -18,7 +18,7 @@ Convening.—(1) Any special selection review board convened under this section 
 
 (c)
 
-Information Considered.—(1) In reviewing a person and recommending whether the recommendation for promotion of the person should be sustained under this section, a special selection review board convened under this section shall be furnished and consider the following:
+Information Considered.—(1) In reviewing a person and recommending whether the recommendation for promotion of the personshould be sustained under this section, a special selection review board convened under this section shall be furnished and consider the following:
 
 &emsp;(A) The record and information concerning the person furnished in accordance with section 14107(a)(2) of this title to the promotion board that recommended the person for promotion.
 
@@ -76,7 +76,7 @@ Reports.—(1) Each special selection review board convened under this section s
 
 Appointment of Persons.—(1) If the report of a special selection review board convened under this section recommends the sustainment of the recommendation for promotion to the next higher grade of a person whose name was referred to it for review under this section, and the President approves the report, the person shall, as soon as practicable, be appointed to that grade in accordance with section 14308 of this title.
 
-(2) A person who is appointed to the next higher grade as described in paragraph (1) shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the reserve active-status list as the person would have had pursuant to the original recommendation for promotion of the promotion board concerned.
+(2) A person who is appointed to the next higher grade as described in paragraph (1) shall, uponthat appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the reserve active-status list as the person would have had pursuant to the original recommendation for promotion of the promotion board concerned.
 
 (g)
 
@@ -88,5 +88,11 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry
 
 Promotion Board Defined.—In this section, the term "promotion board" means a selection board convened by the Secretary of a military department under section 14101(a) of this title.
 
-(Added Pub. L. 116–283, div. A, title V, §505(b)(1), Jan. 1, 2021, 134 Stat. 3569.)
+(Added Pub. L. 116–283, div. A, title V, §505(b)(1), Jan. 1, 2021, 134 Stat. 3569; amended Pub. L. 118–31, div. A, title V, §507(b), Dec. 22, 2023, 137 Stat. 242.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2023</b>—Subsec. (a)(2)(B). Pub. L. 118–31 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "shall not be forwarded to the Secretary of Defense, the President, or the Senate, as applicable, or included on a promotion list under section 14308(a) of this title."
 

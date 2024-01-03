@@ -8,7 +8,7 @@ Not later than 180 days after October 18, 2004, and annually thereafter through 
 
 &emsp;(2) any improvements in humanitarian transparency, monitoring, and access inside North Korea during the previous 1-year period, including progress toward meeting the conditions identified in subparagraphs (A) through (D) of section 7832(b)(1) of this title; and
 
-&emsp;(3) specific efforts to secure improved humanitarian transparency, monitoring, and access inside North Korea made by the UnitedStates and United States grantees, including the World Food Program, during the previous 1-year period.
+&emsp;(3) specific efforts to secure improved humanitarian transparency, monitoring, and access inside North Korea made by the United States and United States grantees, including the World Food Program, during the previous 1-year period.
 
 #### (b) Needs assessment
 

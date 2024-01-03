@@ -26,7 +26,7 @@ Administrative Removal.—Under regulations prescribed by the Secretary concerne
 
 (e)
 
-Continued Eligibility for Promotion.—(1) An officer whose name is removed from a list under subsection (a), (b), or (c) continues to be eligible for consideration for promotion. If he is recommended for promotion by the next selection board convened for his grade and competitive category and he is promoted, the Secretary of the military department concerned may, upon such promotion, grant him the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the active-duty list as he would have had if his name had not been so removed.
+Continued Eligibility for Promotion.—(1) An officer whose name is removed from a list under subsection (a), (b), or (c) continues to be eligible for consideration for promotion. If he is recommended for promotion by the next selection board convened for his grade and competitive category and he is promoted, the Secretary of the military department concerned may, uponsuch promotion, grant him the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the active-duty list as he would have had if his name had not been so removed.
 
 (2) If such an officer who is in a grade below the grade of colonel or, in the case of the Navy, captain is not recommended for promotion by the next selection board convened for his grade and competitive category, or if his name is again removed from the list of officers recommended for promotion, or if the Senate again does not give its advice and consent to his promotion, he shall be considered for all purposes to have twice failed of selection for promotion.
 
@@ -68,7 +68,7 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a) to remove name of any officer from a promotion list to any gradebelow commodore or brigadier general delegated to Secretary of Defense to perform, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, see Ex. Ord. No. 12396, §§1(b), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (a) to remove name of any officer from a promotion list to any grade below commodore or brigadier general delegated to Secretary of Defense to perform, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, see Ex. Ord. No. 12396, §§1(b), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
 
 Functions of President under subsec. (c)(2) delegated to Secretary of Defense, with authority for Secretary to redelegate, see Ex. Ord. No. 13598, §§1(b), 2, Jan. 27, 2012, 77 F.R. 5371, set out as a note under section 301 of Title 3, The President.
 

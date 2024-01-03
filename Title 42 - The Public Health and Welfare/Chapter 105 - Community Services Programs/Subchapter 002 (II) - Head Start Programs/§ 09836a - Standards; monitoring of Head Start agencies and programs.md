@@ -134,7 +134,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, through regulation, shall ensure the confidentiality of any personally identifiable data, information, and records collected or maintained under this subchapter by the Secretary and any Head Start agency. Such regulations shall provide the policies, protections, and rights equivalent to those provided to a parent, student, or educational agency or institution under section 1232g of title 20.
+&emsp;&emsp;The Secretary, through regulation, shall ensure the confidentiality of any personallyidentifiable data, information, and records collected or maintained under this subchapter by the Secretary and any Head Start agency. Such regulations shall provide the policies, protections, and rights equivalent to those provided to a parent, student, or educational agency or institution under section 1232g of title 20.
 
 #### (B) Prohibition on nationwide database
 
@@ -200,7 +200,7 @@
 
 &emsp;&emsp;(G) are conducted in a manner that evaluates program performance, quality, and overall operations with consistency and objectivity, are based on a transparent and reliable system of review, and are conducted in a manner that includes periodic interrater reliability checks, to ensure quality and consistency, across and within regions, of the reviews and of noncompliance and deficiency determinations;
 
-&emsp;&emsp;(H) in the case of reviews of Early Head Start agencies and programs, are conducted by a review team that includes individuals who are knowledgeable about the development of infants and toddlers;
+&emsp;&emsp;(H) in the case of reviews of Early Head Start agencies and programs, are conducted by a review team that includes individualswho are knowledgeable about the development of infants and toddlers;
 
 &emsp;&emsp;(I) include as part of the reviews a protocol for fiscal management that shall be used to assess compliance with program requirements for—
 
@@ -358,11 +358,11 @@
 
 #### (A) Goals
 
-&emsp;&emsp;An agency conducting a self-assessment shall establish agency-determined program goals for improving the school readiness of children participating in a program under this subchapter, including school readiness goals that are aligned with the Head Start Child Outcomes Framework, State early learning standards as appropriate, and requirements and expectations of the schools the children will be attending.
+&emsp;&emsp;An agency conducting a self-assessment shall establish agency-determined program goals for improving the school readiness of children participating in a program under this subchapter, including school readiness goals that are aligned with the Head StartChild Outcomes Framework, State early learning standards as appropriate, and requirements and expectations of the schools the children will be attending.
 
 #### (B) Improvement plan
 
-&emsp;&emsp;The agency shall develop, and submit to the Secretary a report containing, an improvement plan approved by the governingbody of the agency to strengthen any areas identified in the self-assessment as weaknesses or in need of improvement.
+&emsp;&emsp;The agency shall develop, and submit to the Secretary a report containing, an improvement plan approved by the governing body of the agency to strengthen any areas identified in the self-assessment as weaknesses or in need of improvement.
 
 #### (3) Ongoing monitoring
 
@@ -522,7 +522,7 @@ Subsec. (c)(2)(C). Pub. L. 105–285, §108(c)(2)(B), inserted "(including child
 
 Subsec. (c)(2)(D), (E). Pub. L. 105–285, §108(c)(2)(C), added subpars. (D) and (E).
 
-Subsec. (d)(1). Pub. L. 105–285, §108(d)(1)(A), inserted "or results-based performance measures developed bythe Secretary under subsection (b) of this section" after "subsection (a) of this section" in introductory provisions.
+Subsec. (d)(1). Pub. L. 105–285, §108(d)(1)(A), inserted "or results-based performance measures developed by the Secretary under subsection (b) of this section" after "subsection (a) of this section" in introductory provisions.
 
 Subsec. (d)(1)(B). Pub. L. 105–285, §108(d)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "with respect to each identified deficiency, require the agency—
 

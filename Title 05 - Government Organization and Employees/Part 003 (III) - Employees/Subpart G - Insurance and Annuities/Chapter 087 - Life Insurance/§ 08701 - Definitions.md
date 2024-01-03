@@ -20,7 +20,7 @@
 
 &emsp;(9) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838); and
 
-&emsp;(10) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 5 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other paragraph of this subsection;
+&emsp;(10) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 5 of thePresidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other paragraph of this subsection;
 
 > but does not include—
 
@@ -52,7 +52,7 @@
 
 (2) For the purpose of this subsection, "dependent", in the case of any child, means that the individual involved was, at the time of the child's death, either living with or contributing to the support of the child, as determined in accordance with the regulations the Office shall prescribe.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 592; Pub. L. 91–418, §3(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(a), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(51), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(b), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–427, §§2(a), 8(b), Oct. 10, 1980, 94 Stat. 1831, 1837; Pub. L. 98–353, title II,§205, July 10, 1984, 98 Stat. 350; Pub. L. 99–335, title II, §207(k)(1), June 6, 1986, 100 Stat. 597; Pub. L. 100–679, §13(b), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 105–311, §§3(1), 4, Oct. 30, 1998, 112 Stat. 2950; Pub. L. 114–136, §2(c)(4), Mar. 18, 2016, 130 Stat. 305.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 592; Pub. L. 91–418, §3(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(a), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(51), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(b), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–427, §§2(a), 8(b), Oct. 10, 1980, 94 Stat. 1831, 1837; Pub. L. 98–353, title II, §205, July 10, 1984, 98 Stat. 350; Pub. L. 99–335, title II, §207(k)(1), June 6, 1986, 100 Stat. 597; Pub. L. 100–679, §13(b), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 105–311, §§3(1), 4, Oct. 30, 1998, 112 Stat. 2950; Pub. L. 114–136, §2(c)(4), Mar. 18, 2016, 130 Stat. 305.)
 
 Historical and Revision Notes
 
@@ -220,7 +220,7 @@ Pub. L. 96–427, §10, Oct. 10, 1980, 94 Stat. 1838, provided that:
 
 #### Effective Date of 1979 Amendments
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
 

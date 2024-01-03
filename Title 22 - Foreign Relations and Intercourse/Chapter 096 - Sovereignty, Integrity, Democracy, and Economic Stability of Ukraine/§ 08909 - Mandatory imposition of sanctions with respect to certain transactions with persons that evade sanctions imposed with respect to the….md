@@ -24,7 +24,7 @@ The sanctions described in this subsection are the exercise of all powers grante
 
 #### (2) Penalties
 
-&emsp;A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (b) or any regulation, license, or order issued to carry out subsection (b) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+&emsp;A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (b) or any regulation, license, or order issued to carry out subsection (b) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
 
 #### (d) Application of new sanctions
 
@@ -86,7 +86,7 @@ In this section:
 
 #### References in Text
 
-The Ukraine Freedom Support Act of 2014, referred to in subsec. (a)(1), is Pub. L. 113–272, Dec. 18, 2014, 128Stat. 2952, which is classified generally to chapter 96A (§8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
+The Ukraine Freedom Support Act of 2014, referred to in subsec. (a)(1), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
 
 The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 

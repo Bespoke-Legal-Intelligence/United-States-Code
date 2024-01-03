@@ -18,7 +18,7 @@ The Congress finds the following:
 
 &emsp;(4) Developing countries with urgent needs for investment and capital for development have allocated a significant amount of their forests to logging concessions.
 
-&emsp;(5) Poverty and economic pressures on the populations of developing countries have, overtime, resulted in clearing of vast areas of forest for conversion to agriculture, which is often unsustainable in the poor soils underlying tropical forests.
+&emsp;(5) Poverty and economic pressures on the populations of developing countries have, over time, resulted in clearing of vast areas of forest for conversion to agriculture, which is often unsustainable in the poor soils underlying tropical forests.
 
 &emsp;(6) Debt reduction can reduce economic pressures on developing countries and result in increased protection for tropical forests and coral reef ecosystems.
 

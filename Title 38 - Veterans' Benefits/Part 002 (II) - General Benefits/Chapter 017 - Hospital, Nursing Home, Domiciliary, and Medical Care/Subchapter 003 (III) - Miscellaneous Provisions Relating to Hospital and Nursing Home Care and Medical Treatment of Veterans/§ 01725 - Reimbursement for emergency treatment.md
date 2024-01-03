@@ -64,7 +64,7 @@ Independent Right of Recovery.—(1) In accordance with regulations prescribed b
 
 (e)
 
-Waiver.—The Secretary, in the Secretary's discretion, may waive recovery of a paymentmade to a veteran under this section that is otherwise required by subsection (d)(1) when the Secretary determines that such waiver would be in the best interest of the United States, as defined by regulations prescribed by the Secretary.
+Waiver.—The Secretary, in the Secretary's discretion, may waive recovery of a payment made to a veteran under this section that is otherwise required by subsection (d)(1) when the Secretary determines that such waiver would be in the best interest of the United States, as defined by regulations prescribed by the Secretary.
 
 (f)
 

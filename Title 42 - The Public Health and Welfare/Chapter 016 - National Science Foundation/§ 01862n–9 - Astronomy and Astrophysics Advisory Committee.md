@@ -36,7 +36,7 @@ The Advisory Committee shall select a chairperson from among its members.
 
 #### (f) Coordination
 
-The Advisory Committee shall coordinate with other Federal advisory committees thatadvise Federal agencies that engage in related research activities.
+The Advisory Committee shall coordinate with other Federal advisory committees that advise Federal agencies that engage in related research activities.
 
 #### (g) Compensation
 
@@ -54,7 +54,7 @@ A majority of the members serving on the Advisory Committee shall constitute a q
 
 Section 1013 of title 5 shall not apply to the Advisory Committee.
 
-(Pub. L. 107–368, §23, Dec. 19, 2002, 116 Stat. 3065; Pub. L. 108–423, §5(a), Nov. 30, 2004, 118 Stat. 2402; Pub. L. 117–286, §4(a)(258), Dec. 27, 2022, 136 Stat. 4334.)
+(Pub. L. 107–368, §23, Dec. 19, 2002, 116 Stat. 3065; Pub. L. 108–423, §5(a), Nov. 30, 2004, 118 Stat. 2402;Pub. L. 117–286, §4(a)(258), Dec. 27, 2022, 136 Stat. 4334.)
 
 #### <b>Editorial Notes</b>
 

@@ -18,7 +18,7 @@ The mechanisms described in subsection (a) shall include, at a minimum, the foll
 
 &emsp;(3) The establishment of the Grassroots Collaboration Program described in section 262p–1(a) of this title.
 
-&emsp;(4) Before a project loan is made to a borrower country, the country is to be required to hold open hearings on the proposed project during project identification and project preparation.
+&emsp;(4) Before a project loan is made to a borrower country, the country is to be required tohold open hearings on the proposed project during project identification and project preparation.
 
 &emsp;(5) The establishment of assessment procedures which allow affected parties and nongovernmental organizations to review information describing a prospective project or policy loan design, in a timely manner, before the loan is submitted to the Executive Board for approval.
 

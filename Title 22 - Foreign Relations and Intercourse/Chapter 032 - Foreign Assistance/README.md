@@ -479,6 +479,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Part X—Cyberspace, Digital Connectivity, and Related Technologies (CDT) Fund
+
+|  |  |
+| :--- | ---: |
+| [2349cc.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20010%20%28X%29%20-%20Cyberspace%2C%20Digital%20Connectivity%2C%20and%20Related%20Technologies%20%28CDT%29%20Fund/%C2%A7%2002349cc%20-%20Findings.md) | Findings. |
+| 2349cc–1. | Authorization of assistance and funding for cyberspace, digital connectivity, and related technologies (CDT) capacity building activities. |
+| 2349cc–2. | Review of emergency assistance capacity. |
+| 2349cc–3. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER III—GENERAL AND ADMINISTRATIVE PROVISIONS
 
 #### Part I—General Provisions

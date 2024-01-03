@@ -6,7 +6,7 @@ The Secretary shall consult with and obtain the written views of the Assistant S
 
 #### (b) Consultation with heads of other agencies
 
-The Secretary shall consult and cooperate with the Secretary of Health and Human Services (acting through officers including the Director of the Office of Community Services), and the heads of other Federal agencies that carry out programs related to the program carried out under this subchapter, in order to achieve optimal coordination of the program carried out under this subchapter with such related programs. Each head of a Federal agency shall cooperate with the Secretary in disseminating information relating to the availability of assistance under this subchapter and in promoting the identification and interests of individuals eligible for employment in projects assisted under this subchapter.
+The Secretary shall consult and cooperate with the Secretary of Health and Human Services (acting through officers including the Director of the Office of Community Services), and the heads of other Federal agencies that carry out programs related to the program carried outunder this subchapter, in order to achieve optimal coordination of the program carried out under this subchapter with such related programs. Each head of a Federal agency shall cooperate with the Secretary in disseminating information relating to the availability of assistance under this subchapter and in promoting the identification and interests of individuals eligible for employment in projects assisted under this subchapter.
 
 #### (c) Coordination
 
@@ -18,7 +18,7 @@ The Secretary shall consult and cooperate with the Secretary of Health and Human
 
 &emsp;The Secretary shall consult with the Secretary of Education to promote and coordinate efforts to carry out projects under this subchapter jointly with activities in which eligible individuals may participate that are carried out under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.).
 
-(Pub. L. 89–73, title V, §505, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2575;amended Pub. L. 113–128, title V, §512(w)(5), July 22, 2014, 128 Stat. 1715.)
+(Pub. L. 89–73, title V, §505, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2575; amended Pub. L. 113–128, title V, §512(w)(5), July 22, 2014, 128 Stat. 1715.)
 
 #### <b>Editorial Notes</b>
 

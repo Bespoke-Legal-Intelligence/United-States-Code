@@ -12,7 +12,7 @@
 
 &emsp;(2) Executive Order No. 12788 of January 15, 1992, as amended (57 Fed. Reg. 2213; relating to the Defense Economic Adjustment Program).
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §134; amended Pub. L. 92–596, §4(1), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §1(a), Oct. 21, 1977, 91 Stat. 1172; renumbered §132 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(d)(7), Oct. 1, 1986, 100 Stat. 995, 1003; Pub. L. 110–181, div. A, title IX, §§903(b), 904(a)(1), Jan. 28, 2008, 122 Stat. 273; Pub. L. 111–84, div. B, title XXVIII, §2831(a), Oct. 28, 2009, 123 Stat. 2669; Pub. L. 111–383, div. A, title IX, §901(c)(2), (m)(2), title X, §1075(b)(4), div. B, title XXVIII, §2821, Jan. 7, 2011, 124 Stat. 4321, 4326, 4369, 4465; Pub. L. 112–81, div. A, title IX, §902, Dec. 31, 2011, 125 Stat. 1532; Pub. L. 113–291, div. A, title IX, §901(k)(2), Dec. 19, 2014, 128 Stat. 3468; Pub. L. 114–328, div. A, title IX, §901(c)(4), Dec. 23, 2016, 130 Stat. 2341; Pub. L. 115–91, div. A, title IX, §910(b), Dec. 12, 2017, 131 Stat. 1517; Pub. L. 116–92, div. A, title XVII, §1731(a)(8), Dec. 20, 2019, 133 Stat. 1812.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §134; amended Pub. L. 92–596, §4(1), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §1(a), Oct. 21, 1977, 91 Stat. 1172; renumbered §132 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(d)(7), Oct. 1, 1986, 100 Stat. 995, 1003; Pub. L. 110–181, div. A, title IX, §§903(b), 904(a)(1), Jan.28, 2008, 122 Stat. 273; Pub. L. 111–84, div. B, title XXVIII, §2831(a), Oct. 28, 2009, 123 Stat. 2669; Pub. L. 111–383, div. A, title IX, §901(c)(2), (m)(2), title X, §1075(b)(4), div. B, title XXVIII, §2821, Jan. 7, 2011, 124 Stat. 4321, 4326, 4369, 4465; Pub. L. 112–81, div. A, title IX, §902, Dec. 31, 2011, 125 Stat. 1532; Pub. L. 113–291, div. A, title IX, §901(k)(2), Dec. 19, 2014, 128 Stat. 3468; Pub. L. 114–328, div. A, title IX, §901(c)(4), Dec. 23, 2016, 130 Stat. 2341; Pub. L. 115–91, div. A, title IX, §910(b), Dec. 12, 2017, 131 Stat. 1517; Pub. L. 116–92, div. A, title XVII, §1731(a)(8), Dec. 20, 2019, 133 Stat. 1812.)
 
 Historical and Revision Notes
 
@@ -120,7 +120,33 @@ Amendment by section 901(c)(2), (m)(2) of Pub. L. 111–383 effective Jan. 1, 20
 
 #### Order of Succession
 
-For order of succession during any period when the Secretary has died, resigned, or is otherwise unable to perform the functions and duties of the office of Secretary, see Ex. Ord. No. 13533, Mar. 1, 2010, 75 F.R. 10163, listed in a table under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when the Secretary has died, resigned, or is otherwise unable toperform the functions and duties of the office of Secretary, see Ex. Ord. No. 13533, Mar. 1, 2010, 75 F.R. 10163, listed in a table under section 3345 of Title 5, Government Organization and Employees.
+
+#### Senior Contracting Official for Strategic Capabilities Office
+
+Pub. L. 118–31, div. A, title VIII, §807, Dec. 22, 2023, 137 Stat. 318, provided that:
+
+"(a)
+
+Senior Contracting Official.—The staff of the Director of the Strategic Capabilities Office shall include a senior contracting official (as defined in section 1737 of title 10, United States Code) who shall have the authority to enter into and administer contracts, grants, cooperative agreements, and other transactions in execution of the program activities of the Strategic Capabilities Office.
+
+"(b)
+
+Effective Date; Implementation Plan.—
+
+&emsp;"(1)
+
+Effective date.—The authorities described in subsection (a) shall take effect 30 days after the date on which the Secretary of Defense submits the plan described in paragraph (2).
+
+&emsp;"(2)
+
+Plan.—Not later than 90 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for the implementation of the authorities described in subsection (a). The plan shall include the following:
+
+&emsp;&emsp;"(A) A plan for oversight of the senior contracting official described under subsection (a).
+
+&emsp;&emsp;"(B) An assessment of the acquisition workforce needs of the Strategic Capabilities Office to support the authority provided under subsection (a).
+
+&emsp;&emsp;"(C) Other matters as appropriate."
 
 #### Joint All Domain Command and Control
 

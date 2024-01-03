@@ -8,7 +8,7 @@ Funding Assistance.—The Secretary of Defense may provide funds to the Governor
 
 &emsp;(2) The operation and maintenance of the equipment and facilities of the National Guard of that State used for the purpose of drug interdiction and counter-drug activities.
 
-&emsp;(3) The procurement of services and equipment, and the leasing of equipment, for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities. However, the use of such funds for the procurement of equipment may not exceed $5,000 per item, unless approval for procurement of equipment in excess of that amount is granted in advance by the Secretary of Defense.
+&emsp;(3) The procurement of services and equipment, and the leasing of equipment, for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities. However, the use of such funds for the procurement of equipment may not exceed $15,000 per item, unless approval for procurement of equipment in excess of that amount is granted in advance by the Secretary of Defense.
 
 (b)
 
@@ -100,7 +100,7 @@ Definitions.—For purposes of this section:
 
 &emsp;(3) The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or possession of the United States.
 
-(Added Pub. L. 101–189, div. A, title XII, §1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, §703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, §9099A, Oct. 6, 1992, 106 Stat. 1926; Pub. L. 104–106, div. A, title X, §1021, Feb. 10, 1996, 110 Stat. 426; Pub. L. 104–208, div. C, title VI, §660, Sept. 30, 1996, 110 Stat. 3009–720; Pub. L. 105–85, div. A, title X, §1031, Nov. 18, 1997, 111 Stat. 1880; Pub. L. 105–261, div. A, title X, §1022, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 106–65, div. A, title X, §1021, Oct. 5, 1999, 113 Stat. 746; Pub. L. 108–375, div. A, title IV, §416(k), Oct. 28, 2004, 118 Stat. 1869.)
+(Added Pub. L. 101–189, div. A, title XII, §1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, §703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, §9099A, Oct. 6, 1992, 106 Stat. 1926; Pub. L. 104–106, div. A, title X, §1021, Feb. 10, 1996, 110 Stat. 426; Pub. L. 104–208, div. C, title VI, §660, Sept. 30, 1996, 110 Stat. 3009–720; Pub. L. 105–85, div. A, title X, §1031, Nov. 18, 1997, 111 Stat. 1880; Pub. L. 105–261, div. A, title X, §1022, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 106–65, div. A, title X, §1021, Oct. 5, 1999, 113 Stat. 746; Pub. L. 108–375, div. A, title IV, §416(k), Oct. 28, 2004, 118 Stat. 1869; Pub. L. 118–31, div. A, title X, §1012, Dec. 22, 2023, 137 Stat. 380.)
 
 #### <b>Editorial Notes</b>
 
@@ -113,6 +113,8 @@ Subsection (e), referred to in subsec. (f)(1), was repealed and subsec. (f) was 
 Similar provisions were contained in Pub. L. 100–456, div. A, title XI, §1105, Sept. 29, 1988, 102 Stat. 2047, which was set out as a note under section 374 of Title 10, Armed Forces, prior to repeal by Pub. L. 101–189, §1207(b).
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(3). Pub. L. 118–31 substituted "$15,000" for "$5,000".
 
 <b>2004</b>—Subsec. (e). Pub. L. 108–375, §416(k)(1), (2), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: "Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10."
 
@@ -140,7 +142,7 @@ Subsec. (i)(1). Pub. L. 105–261, §1022(d), inserted ", including drug demand
 
 Subsec. (c)(4) to (6). Pub. L. 105–85, §1031(b)(1), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-Subsec. (e). Pub. L. 105–85, §1031(d), designated par. (1) as subsec. (e) and struck out par. (2) which read as follows: "The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and theCommittee on National Security of the House of Representatives an annual report specifying for the period covered by the report the number of members of the National Guard excluded under paragraph (1) from the computation of end strengths."
+Subsec. (e). Pub. L. 105–85, §1031(d), designated par. (1) as subsec. (e) and struck out par. (2) which read as follows: "The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives an annual report specifying for the period covered by the report the number of members of the National Guard excluded under paragraph (1) from the computation of end strengths."
 
 Subsecs. (g) to (i). Pub. L. 105–85, §1031(c), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
@@ -252,7 +254,7 @@ Curriculum Review.—The Secretary of Defense shall review the curriculum and pr
 
 "(f)
 
-Treatment Under Authority To Provide Counterdrug Support.—The provisions of section 1004of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 374 note) shall apply to any activities of a National Guard counterdrug school under this section that are for an agency referred to in subsection (a) of such section 1004 and for a purpose set forth in subsection (b) of such section 1004.
+Treatment Under Authority To Provide Counterdrug Support.—The provisions of section 1004 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 374 note) shall apply to any activities of a National Guard counterdrug school under this section that are for an agency referred to in subsection (a) of such section 1004 and for a purpose set forth in subsection (b) of such section 1004.
 
 "(g)
 

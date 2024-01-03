@@ -2,7 +2,7 @@
 
 This subtitle does not require a State to engage in or accept a program under this subtitle without its consent.
 
-(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1479, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2241.)
+(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1479, and Pub. L. 110–246,§4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2241.)
 
 #### <b>Editorial Notes</b>
 

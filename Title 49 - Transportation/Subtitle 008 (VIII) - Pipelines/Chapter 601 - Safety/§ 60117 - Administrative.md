@@ -120,7 +120,7 @@ Confidentiality of Information.—Information related to a confidential matter r
 
 (f)
 
-Use of Accident Reports.—(1) Each accident report made by an officer, employee, or agent of the Department may be used in a judicial proceeding resulting from the accident. The officer, employee, or agent may be required to testify in the proceeding about the facts developed in investigating the accident. The report shall be made available to the public in a way that does not identify an individual.
+Use of Accident Reports.—(1) Each accident report made by an officer, employee, or agent of the Department may be used in a judicial proceeding resulting from the accident. Theofficer, employee, or agent may be required to testify in the proceeding about the facts developed in investigating the accident. The report shall be made available to the public in a way that does not identify an individual.
 
 (2) Each report related to research and demonstration projects and related activities is public information.
 
@@ -148,7 +148,7 @@ Cooperation.—The Secretary may—
 
 (j)
 
-Promoting Coordination.—(1) After consulting with appropriate State officials, the Secretary shall establish procedures to promotemore effective coordination between departments, agencies, and instrumentalities of the Government and State authorities with regulatory authority over pipeline facilities about responses to a pipeline accident.
+Promoting Coordination.—(1) After consulting with appropriate State officials, the Secretary shall establish procedures to promote more effective coordination between departments, agencies, and instrumentalities of the Government and State authorities with regulatory authority over pipeline facilities about responses to a pipeline accident.
 
 (2) In consultation with the Occupational Safety and Health Administration, the Secretary shall establish procedures to notify the Administration of any pipeline accident in which an excavator that has caused damage to a pipeline may have violated a regulation of the Administration.
 
@@ -238,7 +238,7 @@ Use.—Amounts in the Fund shall be available to the Secretary, in amounts speci
 
 &emsp;(4)
 
-No additional permitting authority.—Nothing in this subsection may be construed as authorizing the Secretary to require a person to obtain a permit before beginning designand construction in connection with a project described in paragraph (1)(B).
+No additional permitting authority.—Nothing in this subsection may be construed as authorizing the Secretary to require a person to obtain a permit before beginning design and construction in connection with a project described in paragraph (1)(B).
 
 (p)
 

@@ -20,7 +20,7 @@
 
 #### (2) Proof of loss
 
-&emsp;In any case in which distilled spirits are lost or destroyed, whether by theft or otherwise, the Secretary may require the proprietor of the distilled spirits plant or other person liable for the tax to file a claim for relief from the tax and submit proof as to the cause ofsuch loss. In every case where it appears that the loss was by theft, the burden shall be upon the proprietor of the distilled spirits plant or other person responsible for the distilled spirits tax to establish to the satisfaction of the Secretary that such loss did not occur as the result of connivance, collusion, fraud, or negligence on the part of the proprietor of the distilled spirits plant, owner, consignor, consignee, bailee, or carrier, or the employees or agents of any of them.
+&emsp;In any case in which distilled spirits are lost or destroyed, whether by theft or otherwise, the Secretary may require the proprietor of the distilled spirits plant or other person liable for the tax to file a claim for relief from the tax and submit proof as to the cause of such loss. In every case where it appears that the loss was by theft, the burden shall be upon the proprietor of the distilled spirits plant or other person responsible for the distilled spirits tax to establish to the satisfaction of the Secretary that such loss did not occur as the result of connivance, collusion, fraud, or negligence on the part of the proprietor of the distilled spirits plant, owner, consignor, consignee, bailee, or carrier, or the employees or agents of any of them.
 
 #### (3) Refund of tax
 

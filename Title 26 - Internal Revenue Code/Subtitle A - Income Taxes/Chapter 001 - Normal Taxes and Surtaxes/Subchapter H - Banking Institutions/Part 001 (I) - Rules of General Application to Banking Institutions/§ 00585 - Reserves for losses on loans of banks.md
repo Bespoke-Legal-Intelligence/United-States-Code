@@ -22,7 +22,7 @@
 
 #### (1) General rule
 
-&emsp;For purposes of subsection (a), the reasonable addition to the reserve for bad debts of any financial institution to which this section applies shall be an amount determined by the taxpayer which shall not exceed the addition to the reserve for losses on loans determined under the experience method as provided in paragraph (2).
+&emsp;For purposes of subsection (a), the reasonable addition to the reserve for bad debts of any financial institution to which this section applies shall be an amount determined by the taxpayer which shall not exceed the addition to the reserve for losses on loans determinedunder the experience method as provided in paragraph (2).
 
 #### (2) Experience method
 
@@ -46,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;In the case of a large bank, this section shall not apply (and no deduction shall be allowedunder any other provision of this subtitle for any addition to a reserve for bad debts).
+&emsp;In the case of a large bank, this section shall not apply (and no deduction shall be allowed under any other provision of this subtitle for any addition to a reserve for bad debts).
 
 #### (2) Large banks
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the sum of the amounts of equity of the bank as of the close of each such quarter.
 
-&emsp;&emsp;&nbsp;In the case of a bank which is a member of a parent-subsidiary controlled group for the taxable year, the preceding sentence shall be applied with respect to such group.
+&emsp;&emsp;&nbsp;In the case of a bank which is a member of a parent-subsidiary controlled group forthe taxable year, the preceding sentence shall be applied with respect to such group.
 
 #### (v) Other definitions
 
@@ -136,7 +136,7 @@
 
 &emsp;&emsp;(C) no deduction shall be allowed under this section (or any other provision of this subtitle) for any addition to such reserve for the disqualification year or any subsequent taxable year.
 
-> &emsp;If the amount of the reserve referred to in subparagraph (B) as of the close of any taxableyear exceeds the outstanding balance (as of such time) of the loans referred to in subparagraph (B), such excess shall be included in gross income for such taxable year.
+> &emsp;If the amount of the reserve referred to in subparagraph (B) as of the close of any taxable year exceeds the outstanding balance (as of such time) of the loans referred to in subparagraph (B), such excess shall be included in gross income for such taxable year.
 
 #### (5) Definitions
 

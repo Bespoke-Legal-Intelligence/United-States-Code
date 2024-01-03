@@ -10,7 +10,7 @@
 
 &emsp;(4) retired pay, retirement pay, retainer pay, or equivalent pay for service in the Armed Forces or other uniformed services.
 
-> However, eligibility for or receipt of benefits under subchapter III of chapter 83 of this title, or another retirement system for employees of the Government, does not impair the right of the employee to compensation for scheduled disabilities specified by section 8107(c) of this title.
+> However, eligibility for or receipt of benefits under subchapter III of chapter 83 of this title, or another retirement system for employees of the Government, does not impair the right ofthe employee to compensation for scheduled disabilities specified by section 8107(c) of this title.
 
 (b) An individual entitled to benefits under this subchapter because of his injury, or because of the death of an employee, who also is entitled to receive from the United States under a provision of statute other than this subchapter payments or benefits for that injury or death (except proceeds of an insurance policy), because of service by him (or in the case of death, by the deceased) as an employee or in the armed forces, shall elect which benefits he will receive. The individual shall make the election within 1 year after the injury or death or within a further time allowed for good cause by the Secretary of Labor. The election when made is irrevocable, except as otherwise provided by statute.
 

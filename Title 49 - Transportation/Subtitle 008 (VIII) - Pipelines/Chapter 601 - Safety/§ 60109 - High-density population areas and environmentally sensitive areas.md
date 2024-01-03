@@ -38,7 +38,7 @@ Regulations.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 12 months after the date of enactment of this subsection, the Secretary shall issue regulations prescribing standards to direct an operator's conduct of a risk analysis and adoption and implementation of an integrity management program under this subsection. The regulations shall require an operator to conduct a risk analysis and adopt an integrity management program within a time period prescribed by the Secretary, ending not later than 24 months after such date of enactment. Not later than 18 months after such date of enactment, each operator of a gas pipeline facility shall begin a baseline integrity assessment described in paragraph (3).
+In general.—Not later than 12 months after the date of enactment of this subsection, the Secretary shall issue regulations prescribing standards to direct an operator's conduct of a risk analysis and adoption and implementation of an integrity management program under this subsection. The regulations shall require an operator to conduct a risk analysis and adopt an integrity management program within a time period prescribed by the Secretary, ending not later than 24 months after such date of enactment. Not later than 18 months aftersuch date of enactment, each operator of a gas pipeline facility shall begin a baseline integrity assessment described in paragraph (3).
 
 &emsp;&emsp;(B)
 
@@ -52,7 +52,7 @@ Minimum requirements of integrity management programs.—An integrity management
 
 &emsp;&emsp;(B) Subject to paragraph (5), periodic reassessments of the facility, at a minimum of once every 7 calendar years, using methods described in subparagraph (A). The Secretary may extend such deadline for an additional 6 months if the operator submits written notice to the Secretary with sufficient justification of the need for the extension.
 
-&emsp;&emsp;(C) Clearly defined criteria for evaluating the results of assessments conducted undersubparagraphs (A) and (B) and for taking actions based on such results.
+&emsp;&emsp;(C) Clearly defined criteria for evaluating the results of assessments conducted under subparagraphs (A) and (B) and for taking actions based on such results.
 
 &emsp;&emsp;(D) A method for conducting an analysis on a continuing basis that integrates all available information about the integrity of the facility and the consequences of releases from the facility.
 
@@ -212,7 +212,7 @@ Development and implementation.—Each operator of a distribution pipeline that 
 
 &emsp;(6)
 
-Savings clause.—Subject to section 60104(c), a State authority having a currentcertification under section 60105 may adopt or continue in force additional integrity management requirements, including additional requirements for installation of excess flow valves, for gas distribution pipelines within the boundaries of that State.
+Savings clause.—Subject to section 60104(c), a State authority having a current certification under section 60105 may adopt or continue in force additional integrity management requirements, including additional requirements for installation of excess flow valves, for gas distribution pipelines within the boundaries of that State.
 
 &emsp;(7)
 
@@ -272,7 +272,7 @@ In general.—Not later than 2 years after the date of promulgation of the regul
 
 Grace period.—For the third, fourth, and fifth years after the date of promulgation of the regulations under subparagraph (A), the Secretary—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) shall not use subclause (I) as justification to reduce funding, decertify, or penalize in any way under section 60105, 60106, or 60107 a State authority that has in effect a certification under section 60105 or an agreement under section 60106; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) shall not use subclause (I) as justification to reduce funding, decertify, or penalize in any way under section60105, 60106, or 60107 a State authority that has in effect a certification under section 60105 or an agreement under section 60106; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) shall—
 
@@ -532,7 +532,7 @@ Factors.—In conducting the evaluation under subsection (a), the Secretary shal
 
 "(c)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary shallsubmit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report, based on the evaluation conducted under subsection (a), containing the Secretary's analysis and findings regarding—
+Report.—Not later than 2 years after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report, based on the evaluation conducted under subsection (a), containing the Secretary's analysis and findings regarding—
 
 &emsp;"(1) expansion of integrity management requirements, or elements thereof, beyond high-consequence areas; and
 

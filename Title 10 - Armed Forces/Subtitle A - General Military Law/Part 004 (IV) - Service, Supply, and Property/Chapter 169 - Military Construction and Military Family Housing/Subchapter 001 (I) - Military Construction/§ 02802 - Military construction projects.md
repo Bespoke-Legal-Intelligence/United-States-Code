@@ -42,7 +42,7 @@
 
 &emsp;(C) if such impact cannot be avoided, to develop feasible measures consistent with applicable law to mitigate the impact and estimate the cost of the mitigation measures.
 
-(2) As part of the Department of Defense Form 1391 submitted to the appropriate committees of Congress for a military construction project covered by paragraph (1), the Secretary concerned, to the extent possible at the time of such submission, shall include a description of the current status of the consultation conducted under such paragraph and specifically address each of the items specified in subparagraphs (A), (B), and (C) of such paragraph.
+(2) As part of the Department of Defense Form 1391 submitted to the appropriate committees ofCongress for a military construction project covered by paragraph (1), the Secretary concerned, to the extent possible at the time of such submission, shall include a description of the current status of the consultation conducted under such paragraph and specifically address each of the items specified in subparagraphs (A), (B), and (C) of such paragraph.
 
 (3) The requirement under paragraph (1) does not affect the obligation of the Secretary concerned to comply with any other applicable consultation requirement pursuant to law or Department of Defense policy.
 
@@ -98,6 +98,54 @@ Pub. L. 115–91, div. A, title X, §1081(d), Dec. 12, 2017, 131 Stat. 1599, pro
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
+#### Inclusion on Department of Defense Form 1391 of Information on Consideration of Certain Methods of Construction for Certain Military Construction Projects
+
+Pub. L. 118–31, div. B, title XXVIII, §2808, Dec. 22, 2023, 137 Stat. 746, provided that:
+
+"(a)
+
+In General.—As part of the Department of Defense Form 1391 submitted to the appropriate committees of Congress for a covered military construction project, each covered official shall, to the extent practicable, include information on whether all relevant construction materials and methods of construction included in the Unified Facilities Criteria/DoD Building Code (UFC 1–200–01) were considered in the design of such covered military construction project.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1) The terms 'appropriate committees of Congress' and 'military construction project' have the meanings given in section 2801 of title 10, United States Code.
+
+&emsp;"(2) The term 'covered military construction project' means a military construction project with an estimated total cost in excess of $9,000,000.
+
+&emsp;"(3) The term 'covered official' means—
+
+&emsp;&emsp;"(A) the Secretary of Defense; and
+
+&emsp;&emsp;"(B) each Secretary of a military department."
+
+#### Inclusion of Military Installation Resilience in Real Property Management and Installation Master Planning of Department
+
+Pub. L. 118–31, div. B, title XXVIII, §2857, Dec. 22, 2023, 137 Stat. 767, provided that:
+
+"(a) \[sic; there is no subsec. (b)\]
+
+In General.—Not later than one year after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense shall—
+
+&emsp;"(1) update Department of Defense Instruction 4165.70 (relating to real property management) and Unified Facilities Criteria 2–100–01 (relating to installation master planning) to—
+
+&emsp;&emsp;"(A) include a requirement to incorporate the impact of military installation resilience in all installation master plans;
+
+&emsp;&emsp;"(B) include a list of all sources of information approved by the Department of Defense;
+
+&emsp;&emsp;"(C) define the 17 identified military installation resilience hazards to ensure that the impacts from such hazards are reported consistently across the Department;
+
+&emsp;&emsp;"(D) require each commander of a military installation to address the rationale for determining that any such hazard is not applicable to the military installation concerned;
+
+&emsp;&emsp;"(E) standardize reporting formats for military installation resilience plans;
+
+&emsp;&emsp;"(F) establish and define standardized risk rating categories for the use by each Secretary of a military department; and
+
+&emsp;&emsp;"(G) define criteria for determining the level of risk to a military installation to compare hazards between military departments; and
+
+&emsp;"(2) require each Secretary of a military department to update the handbook for the military department concerned to incorporate the requirements under paragraph (1)."
+
 #### Consideration of Installation of Integrated Solar Roofing To Improve Energy Resiliency of Military Installations
 
 Pub. L. 117–263, div. B, title XXVIII, §2810, Dec. 23, 2022, 136 Stat. 2997, provided that: "The Secretary of Defense shall amend the Unified Facilities Criteria/DoD Building Code (UFC 1–200–01) to require that planning and design for military construction projects inside the United States include consideration of the feasibility and cost-effectiveness of installing integrated solar roofing as part of the project, for the purpose of—
@@ -144,7 +192,7 @@ Determination and Update of Form 1391.—Not later than 30 days after the date o
 
 "(b)
 
-Notification to Congress.—Not later than 10 days after determining under subsection (a)(1) that implementation of an Executive order would cause a costor scope of work variation for a military construction project, the Secretary concerned shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report indicating the estimated cost increases, scope of work increases, life-cycle costs, and any other impacts of such implementation.
+Notification to Congress.—Not later than 10 days after determining under subsection (a)(1) that implementation of an Executive order would cause a cost or scope of work variation for a military construction project, the Secretary concerned shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report indicating the estimated cost increases, scope of work increases, life-cycle costs, and any other impacts of such implementation.
 
 "(c)
 
@@ -268,7 +316,7 @@ Definitions.—In this section:
 
 #### Pilot Program on Increased Use of Sustainable Building Materials in Military Construction
 
-Pub. L. 117–81, div. B, title XXVIII, §2861, Dec. 27, 2021, 135 Stat. 2212, as amended by Pub. L. 117–263, div. B, title XXVIII, §2865, Dec. 23, 2022, 136 Stat. 3011, provided that:
+Pub. L. 117–81, div. B, title XXVIII, §2861, Dec. 27, 2021, 135 Stat. 2212, as amended by Pub. L. 117–263, div.B, title XXVIII, §2865, Dec. 23, 2022, 136 Stat. 3011; Pub. L. 118–31, div. B, title XXVIII, §2871, Dec. 22, 2023, 137 Stat. 775, provided that:
 
 "(a)
 
@@ -280,7 +328,11 @@ Project Selection and Locations.—
 
 &emsp;"(1)
 
-Minimum number of projects.—Each Secretary of a military department shall carry out at least one military construction project under the pilot program.
+Minimum number of projects.—Each Secretary of a military department shall carry out, under the pilot program, at least—
+
+&emsp;&emsp;"(A) one military construction project for mass timber; and
+
+&emsp;&emsp;"(B) one military construction project for low carbon concrete.
 
 &emsp;"(2)
 
@@ -296,15 +348,19 @@ Inclusion of Military Unaccompanied Housing Project.—The Secretaries of the mi
 
 "(d)
 
-Duration of Program.—The authority of the Secretary of a military department to carry out a military construction project under the pilot program shall expire on September 30, 2024. Any construction commenced under the pilot program before the expiration date may continue to completion.
+Duration of Program.—The authority of the Secretary of a military department to carry out a military construction project under the pilot program shall expire on September 30, 2025. Any construction commenced under the pilot program before the expiration date may continue to completion.
 
 "(e)
+
+Deadline for Commencement of Construction.—Any construction pursuant to a military construction project carried out under the pilot program must commence by not later than January 1, 2025.
+
+"(f)
 
 Reporting Requirement.—
 
 &emsp;"(1)
 
-Report required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 27, 2021\], and every 180 days thereafter through December 31, 2024, the Secretaries of the military departments shall submit to the congressional defense committees \[Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives\] a report on the progress of the pilot program.
+Report required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 27, 2021\], and every 180 days thereafter through December 31, 2025, the Secretaries of the military departments shall submit to the congressional defense committees \[Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives\] a report on the progress of the pilot program.
 
 &emsp;"(2)
 
@@ -328,7 +384,7 @@ Report elements.—The report shall include the following:
 
 &emsp;&emsp;"(D) Any updated guidance the Under Secretary of Defense for Acquisition and Sustainment has released in relation to the procurement policy for future military construction projects based on comparable benefits realized from use of sustainable building materials, including guidance on prioritizing sustainable materials in establishing evaluation criteria for military construction project contracts when technically feasible.
 
-"(f)
+"(g)
 
 Sustainable Building Materials Defined.—In this section, the term 'sustainable building material' means any building material the use of which will reduce carbon emissions over the life cycle of the building. The term includes mass timber, concrete, and other carbon-reducing materials."
 
@@ -338,7 +394,7 @@ Pub. L. 116–283, div. B, title XXVIII, §2865, Jan. 1, 2021, 134 Stat. 4360, p
 
 "(a)
 
-Authorization of Additional Projects.—Each Secretary of a military department shall conduct a pilot program under which the Secretary may carryout military construction projects for child development centers at military installations, as specified in the funding table in section 4601 of a National Defense Authorization Act for a fiscal year covered by the pilot program. The military construction projects authorized under the pilot program are in addition to other military construction projects authorized by this Act or other National Defense Authorization Acts for fiscal years covered by the pilot program.
+Authorization of Additional Projects.—Each Secretary of a military department shall conduct a pilot program under which the Secretary may carry out military construction projects for child development centers at military installations, as specified in the funding table in section 4601 of a National Defense Authorization Act for a fiscal year covered by the pilot program. The military construction projects authorized under the pilot program are in addition to other military construction projects authorized by this Act or other National Defense Authorization Acts for fiscal years covered by the pilot program.
 
 "(b)
 
@@ -420,7 +476,7 @@ Annual Review.—Beginning with fiscal year 2022, and annually thereafter, the S
 
 Definitions.—In this section:
 
-&emsp;"(1) The terms 'energy resilience' and 'military installation resilience' have the meanings given those terms in section 101(e) of title 10, United States Code.
+&emsp;"(1) The terms 'energy resilience' and 'military installation resilience' have the meanings given those terms in section 101(e) of title 10, United States Code \[now 10 U.S.C. 101(f)\].
 
 &emsp;"(2) The term 'energy and climate resiliency' has the meaning given that term in section 2864 of title 10, United States Code."
 
@@ -446,11 +502,11 @@ Elements of certification.—As part of the certification required by paragraph 
 
 "(b)
 
-Relation to Recent Modification Requirement.—The modification of Department of Defense Form 1391 required by subsection (a) is in addition to, and expands upon, the modification of Department ofDefense Form 1391 with respect to flood risk disclosure for military construction required by section 2805(a) of the Military Construction Authorization Act for Fiscal Year 2019 (division B of Public Law 115–232; 132 Stat. 2262; 10 U.S.C. 2802 note).
+Relation to Recent Modification Requirement.—The modification of Department of Defense Form 1391 required by subsection (a) is in addition to, and expands upon, the modification of Department of Defense Form 1391 with respect to flood risk disclosure for military construction required by section 2805(a) of the Military Construction Authorization Act for Fiscal Year 2019 (division B of Public Law 115–232; 132 Stat. 2262; 10 U.S.C. 2802 note).
 
 "(c)
 
-Military Installation Resilience Defined.—In this section, the term 'military installation resilience' has the meaning given that term in section 101(e)(8) of title 10, United States Code."
+Military Installation Resilience Defined.—In this section, the term 'military installation resilience' has the meaning given that term in section 101(e)(8) of title 10, United States Code \[now 10 U.S.C. 101(f)(8)\]."
 
 #### Pilot Program To Extend Service Life of Roads and Runways Under the Jurisdiction of the Secretary of Defense
 
@@ -554,7 +610,7 @@ Reporting requirements.—For proposed projects that are to be sited within or p
 
 &emsp;"(4)
 
-Minimum flood mitigation requirements.—When mitigating the flood risk of a major or minor military construction project within or partially within the 100-year floodplain or that will be impacted by projected current and future mean sea levelfluctuations over the lifetime of the project, the Secretary concerned shall require any mitigation plan to assume—
+Minimum flood mitigation requirements.—When mitigating the flood risk of a major or minor military construction project within or partially within the 100-year floodplain or that will be impacted by projected current and future mean sea level fluctuations over the lifetime of the project, the Secretary concerned shall require any mitigation plan to assume—
 
 &emsp;&emsp;"(A) an additional 2 feet above the base flood elevation for non-mission critical facilities, as determined by the Secretary;
 

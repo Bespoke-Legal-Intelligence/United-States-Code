@@ -80,7 +80,7 @@ The CCHT Director shall operate, within CCHT, a Protection and Awareness Program
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(1), is Pub. L. 117–322, Dec. 27, 2022, 136 Stat. 4433, known as the Countering Human Trafficking Act of 2021, which enacted this section and section 242b of this title and provisions set out as notes under this section and section 242 ofthis title. For complete classification of this Act to the Code, see section 1 of Pub. L. 117–322, set out as a Short Title of 2022 Amendment note under section 101 of this title and Tables.
+This Act, referred to in subsec. (a)(1), is Pub. L. 117–322, Dec. 27, 2022, 136 Stat. 4433, known as the Countering Human Trafficking Act of 2021, which enacted this section and section 242b of this title and provisions set out as notes under this section and section 242 of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 117–322, set out as a Short Title of 2022 Amendment note under section 101 of this title and Tables.
 
 #### Codification
 

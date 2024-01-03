@@ -14,7 +14,7 @@
 
 #### (C) Minimums
 
-&emsp;&emsp;Subject to the availability of appropriations to carry out this subpart, and except as provided in subparagraph (B), the allotment to any State under subparagraph (A) shall be not less than $275,000 or 1/3 of 1 percent of the sums made available for the fiscal year for which the allotment is made, whichever is greater, and the allotment of any State under this section for any fiscal year that is less than $275,000 or 1/3 of 1 percent of such sums shall be increased to the greater of the two amounts.
+&emsp;&emsp;Subject to the availability of appropriations to carry out this subpart, and except as provided in subparagraph (B), the allotment to any State under subparagraph (A) shall be not less than $275,000 or 1/3 of 1 percent of the sums made available for the fiscal year for which the allotment is made, whichever is greater, and the allotment of any State under this section for any fiscalyear that is less than $275,000 or 1/3 of 1 percent of such sums shall be increased to the greater of the two amounts.
 
 #### (2) Certain territories
 

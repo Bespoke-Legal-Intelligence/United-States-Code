@@ -2,7 +2,7 @@
 
 #### (a) Application with rules of civil procedure
 
-This section applies exclusively to Y2K actions and, except to the extent that this section requires additional information to be contained in or attached to pleadings, nothing in this section is intended to amend or otherwise supersede applicable rules of Federal or State civil procedure.
+This section applies exclusively to Y2K actions and, except to the extent that this sectionrequires additional information to be contained in or attached to pleadings, nothing in this section is intended to amend or otherwise supersede applicable rules of Federal or State civil procedure.
 
 #### (b) Nature and amount of damages
 

@@ -10,11 +10,11 @@ From the sums appropriated under section 10403 of this title and available for g
 
 #### (b) Population
 
-For the purpose of this section, the population of each State, and the total population of all theStates, shall be determined by the Secretary on the basis of the most recent census data available to the Secretary, and the Secretary shall use for such purpose, if available, the annual interim current census data produced by the Secretary of Commerce pursuant to section 181 of title 13.
+For the purpose of this section, the population of each State, and the total population of all the States, shall be determined by the Secretary on the basis of the most recent census data available to the Secretary, and the Secretary shall use for such purpose, if available, the annual interim current census data produced by the Secretary of Commerce pursuant to section 181 of title 13.
 
 #### (c) Ratable reduction
 
-If the sums appropriated under section 10403 of this title for any fiscal year and available for grants to States under section 10406(a) of this title are not sufficient to pay in full the total amounts that all States are entitled to receive under subsection (a) for such fiscal year, then the maximum amounts that all States are entitled to receive under subsection (a) for such fiscal year shall be ratably reduced. In the event that additional funds become available for making such grants for any fiscal year during which the preceding sentence is applicable, such reduced amounts shall be increased on the same basis as they were reduced.
+If the sums appropriated under section 10403 of this title for any fiscal year and available for grants to States under section 10406(a) of this title are not sufficient to pay in full the total amounts that all States are entitled to receive under subsection (a) for such fiscal year, then the maximum amounts that all States are entitled to receive under subsection (a) for such fiscal year shall be ratably reduced. In the event that additional funds become available for making such grants for any fiscal year during whichthe preceding sentence is applicable, such reduced amounts shall be increased on the same basis as they were reduced.
 
 #### (d) Reallotment
 

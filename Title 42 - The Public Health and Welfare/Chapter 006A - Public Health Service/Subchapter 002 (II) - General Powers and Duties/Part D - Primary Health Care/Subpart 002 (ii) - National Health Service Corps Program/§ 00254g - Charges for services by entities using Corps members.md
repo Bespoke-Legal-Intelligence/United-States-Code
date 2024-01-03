@@ -42,7 +42,7 @@ The following rules shall apply to charges for health care services provided by 
 
 &emsp;&emsp;&emsp;(i) the State agency administering the program under title XIX of such Act \[42 U.S.C. 1396 et seq.\] with respect to an individual who is a beneficiary under the medicaid program; and
 
-&emsp;&emsp;&emsp;(ii) the State agency administering the program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] with respect to an individual who is a beneficiary under the State children's health insurance program.
+&emsp;&emsp;&emsp;(ii) the State agency administering the program under title XXI of such Act \[42U.S.C. 1397aa et seq.\] with respect to an individual who is a beneficiary under the State children's health insurance program.
 
 #### (3) Collection of payments
 

@@ -32,7 +32,7 @@ There shall be an Office of Indian Education (referred to in this section as "th
 
 &emsp;Such preference shall be implemented in the same fashion as the preference given to any veteran under section 45 of title 25.
 
-(Pub. L. 96–88, title II, §215, as added Pub. L. 103–382, title III, §372(2), Oct. 20, 1994, 108 Stat.3977; amended Pub. L. 114–95, title IX, §9215(v), Dec. 10, 2015, 129 Stat. 2171.)
+(Pub. L. 96–88, title II, §215, as added Pub. L. 103–382, title III, §372(2), Oct. 20, 1994, 108 Stat. 3977; amended Pub. L. 114–95, title IX, §9215(v), Dec. 10, 2015, 129 Stat. 2171.)
 
 #### <b>Editorial Notes</b>
 
@@ -58,5 +58,5 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 #### Office of Educational Research and Improvement
 
-The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, §402(2), Nov. 5, 2002, 116 Stat. 1985.
+The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted byPub. L. 107–279, title IV, §402(2), Nov. 5, 2002, 116 Stat. 1985.
 

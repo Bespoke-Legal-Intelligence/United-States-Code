@@ -47,7 +47,7 @@
 | [545\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000545%20-%20Advisory%20Committee%20on%20the%20Readjustment%20of%20Veterans.md) | Advisory Committee on the Readjustment of Veterans. |
 | [546\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000546%20-%20Advisory%20Committee%20on%20Disability%20Compensation.md) | Advisory Committee on Disability Compensation. |
 | [547\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000547%20-%20Advisory%20Committee%20on%20Tribal%20and%20Indian%20Affairs.md) | Advisory Committee on Tribal and Indian Affairs. |
-| [548\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000548%20-%20Advisory%20Committee%20on%20United%20States%20Outlying%20Areas%20and%20Freely%20Associated%20States.md) | Advisory Committee on United States Outlying Areas and Freely Associated States <sup>1</sup> |
+| [548\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000548%20-%20Advisory%20Committee%20on%20United%20States%20Outlying%20Areas%20and%20Freely%20Associated%20States.md) | Advisory Committee on United States Outlying Areas and Freely Associated States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -80,8 +80,6 @@ Pub. L. 113–37, §2(b)(3), Sept. 30, 2013, 127 Stat. 524, added item 521A and 
 <b>1994</b>—Pub. L. 103–446, title V, §510(b), Nov. 2, 1994, 108 Stat. 4670, added item 544.
 
 <b>1992</b>—Pub. L. 102–405, title I, §105(b)(2), Oct. 9, 1992, 106 Stat. 1976, added item 543.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

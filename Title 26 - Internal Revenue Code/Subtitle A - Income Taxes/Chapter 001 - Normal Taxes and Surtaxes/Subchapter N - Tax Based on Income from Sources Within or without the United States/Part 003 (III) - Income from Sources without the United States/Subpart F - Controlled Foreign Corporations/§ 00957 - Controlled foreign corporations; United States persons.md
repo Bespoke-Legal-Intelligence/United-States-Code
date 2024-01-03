@@ -66,7 +66,7 @@ Subsec. (d). Pub. L. 99–514, §1224(a), redesignated subsec. (d) as (c).
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to distributions made after Dec. 31, 2017, see section 14101(f) of Pub. L. 115–97, set out as an Effective Date note under section 245A of this title.
+Amendment by Pub. L. 115–97 applicable to distributions made after Dec. 31, 2017, see section 14101(f) ofPub. L. 115–97, set out as an Effective Date note under section 245A of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -104,7 +104,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 "(2)
 
-Transitional rule.—In the case of any corporation treated as a controlled foreign corporation by reason of the amendment made by subsection (a), propertyacquired before August 16, 1986, shall not be taken into account under section 956(b) of the Internal Revenue Code of 1986."
+Transitional rule.—In the case of any corporation treated as a controlled foreign corporation by reason of the amendment made by subsection (a), property acquired before August 16, 1986, shall not be taken into account under section 956(b) of the Internal Revenue Code of 1986."
 
 Amendment by section 1273(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 

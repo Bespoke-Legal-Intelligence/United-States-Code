@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(iii) the value of the information obtained exceeds $5,000; and
 
-&emsp;(C) a fine under this title or imprisonment for not more than ten years, or both, in thecase of an offense under subsection (a)(2), (a)(3) or (a)(6) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
+&emsp;(C) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (a)(3) or (a)(6) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
 
 &emsp;(3)(A) a fine under this title or imprisonment for not more than five years, or both, in the case of an offense under subsection (a)(4) or (a)(7) of this section which does not occur after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph; and
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(ii) an attempt to commit an offense punishable under this subparagraph;
 
-&emsp;(E) if the offender attempts to cause or knowingly or recklessly causes serious bodily injury from conduct in violation of subsection (a)(5)(A), a fine under this title, imprisonment for not more than 20 years, or both;
+&emsp;(E) if the offender attempts to cause or knowingly or recklessly causes serious bodilyinjury from conduct in violation of subsection (a)(5)(A), a fine under this title, imprisonment for not more than 20 years, or both;
 
 &emsp;(F) if the offender attempts to cause or knowingly or recklessly causes death from conduct in violation of subsection (a)(5)(A), a fine under this title, imprisonment for any term of years or for life, or both; or
 
@@ -170,7 +170,7 @@
 
 &emsp;(12) the term "person" means any individual, firm, corporation, educational institution, financial institution, governmental entity, or legal or other entity;
 
-&emsp;(13) the term "Federal election" means any election (as defined in section 301(1) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101(1))) for Federal office (as defined in section 301(3) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101(3))); and
+&emsp;(13) the term "Federal election" means any election (as defined in section 301(1) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101(1))) for Federal office (as definedin section 301(3) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101(3))); and
 
 &emsp;(14) the term "voting system" has the meaning given the term in section 301(b) of the Help America Vote Act of 2002 (52 U.S.C. 21081(b)).
 
@@ -184,7 +184,7 @@
 
 &emsp;(A) such person's interest in any personal property that was used or intended to be used to commit or to facilitate the commission of such violation; and
 
-&emsp;(B) any property, real or personal, constituting or derived from, any proceeds that suchperson obtained, directly or indirectly, as a result of such violation.
+&emsp;(B) any property, real or personal, constituting or derived from, any proceeds that such person obtained, directly or indirectly, as a result of such violation.
 
 (2) The criminal forfeiture of property under this subsection, any seizure and disposition thereof, and any judicial proceeding in relation thereto, shall be governed by the provisions of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), except subsection (d) of that section.
 
@@ -424,7 +424,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Transfer of Functions
 
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Reports to Congress
 

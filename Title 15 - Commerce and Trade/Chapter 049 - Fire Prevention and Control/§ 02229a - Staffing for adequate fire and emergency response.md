@@ -210,7 +210,7 @@ Subsec. (a)(1)(B). Pub. L. 112–239, §1804(a)(1), amended subpar. (B) generall
 
 "(ii) Grantees are required to commit to retaining for at least 1 year beyond the termination of their grants those firefighters hired under this paragraph."
 
-Subsec. (a)(1)(E). Pub. L. 112–239, §1804(a)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E)read as follows: "The portion of the costs of hiring firefighters provided by a grant under this paragraph may not exceed—
+Subsec. (a)(1)(E). Pub. L. 112–239, §1804(a)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "The portion of the costs of hiring firefighters provided by a grant under this paragraph may not exceed—
 
 &emsp;"(i) 90 percent in the first year of the grant;
 

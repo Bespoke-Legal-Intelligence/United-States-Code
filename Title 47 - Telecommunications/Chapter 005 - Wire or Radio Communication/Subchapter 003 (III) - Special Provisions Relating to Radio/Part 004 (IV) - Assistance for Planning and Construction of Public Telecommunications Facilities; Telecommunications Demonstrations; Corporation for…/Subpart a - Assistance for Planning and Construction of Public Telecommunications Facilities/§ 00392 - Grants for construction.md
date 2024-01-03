@@ -22,7 +22,7 @@ Upon approving any application under this section with respect to any project fo
 
 #### (c) Information and assurances
 
-The Secretary may provide such funds as the Secretary deems necessary for the planning of any project for which construction funds may be obtained under this section. An applicant for a planning grant shall provide such information with respect to such project as the Secretary may require and shall provide assurances satisfactory to the Secretary that the applicant meets the eligible requirements of subsection (a) to receive construction assistance.
+The Secretary may provide such funds as the Secretary deems necessary for the planning of any project for which construction funds may beobtained under this section. An applicant for a planning grant shall provide such information with respect to such project as the Secretary may require and shall provide assurances satisfactory to the Secretary that the applicant meets the eligible requirements of subsection (a) to receive construction assistance.
 
 #### (d) Studies
 
@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 94–309, §4(b), substituted separate provisions relating 
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–129, §103(b)(1), inserted "noncommercial" and "or radio" in introductory text.
 
-Subsec. (a)(1)(B). Pub. L. 90–129, §103(b)(2), required the State educational television agency applicant for a television facilities project to be a noncommercial agency and inserted requirement that applicant for a radio facilities project be a State educational radio agency.
+Subsec. (a)(1)(B). Pub. L. 90–129, §103(b)(2), required the State educational television agency applicant for atelevision facilities project to be a noncommercial agency and inserted requirement that applicant for a radio facilities project be a State educational radio agency.
 
 Subsec. (a)(1)(D). Pub. L. 90–129, §103(b)(3), designated existing provisions as cl. (i), made such cl. (i) applicable to television facilities projects and noncommercial television, and added cl. (ii) and provision for applicant meeting both television and radio broadcasting requirements.
 

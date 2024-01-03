@@ -8,7 +8,7 @@ Transfers Back to Foreign Currency Fluctuations Appropriation.—(1) Funds trans
 
 &emsp;(B) because of subsequent favorable fluctuations in the rates or because other funds are, or become, available to pay the obligations.
 
-(2) A transfer back to the Foreign Currency Fluctuations, Defense appropriation may not be made after the end of the second fiscal year after the fiscal year that the appropriation to which the funds were originally transferred is available for obligation.
+(2) A transfer back to the Foreign Currency Fluctuations, Defense appropriation may not bemade after the end of the second fiscal year after the fiscal year that the appropriation to which the funds were originally transferred is available for obligation.
 
 (b)
 
@@ -32,7 +32,7 @@ Transfers to Foreign Currency Fluctuations Account.—(1) The Secretary of Defen
 
 (e)
 
-Conditions of Availability for Transferred Funds.—Amounts transferred under subsection (c) or (d) shall be merged with and beavailable for the same purposes and for the same period as the appropriations to which transferred.
+Conditions of Availability for Transferred Funds.—Amounts transferred under subsection (c) or (d) shall be merged with and be available for the same purposes and for the same period as the appropriations to which transferred.
 
 (Added Pub. L. 97–258, §2(b)(8)(B), Sept. 13, 1982, 96 Stat. 1056; amended Pub. L. 101–510, div. A, title XIII, §1301(15), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 104–106, div. A, title IX, §911(a)–(c), (e), Feb. 10, 1996, 110 Stat. 406, 407.)
 

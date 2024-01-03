@@ -8,7 +8,7 @@ An order issued under this subchapter shall contain the terms and conditions spe
 
 #### (1) In general
 
-&emsp;The order shall provide for the establishment of, and appointment of members to, aNational Canola and Rapeseed Board to administer the order.
+&emsp;The order shall provide for the establishment of, and appointment of members to, a National Canola and Rapeseed Board to administer the order.
 
 #### (2) Service to entire industry
 
@@ -168,7 +168,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 &emsp;A contract or agreement under paragraph (1) shall provide that—
 
-&emsp;&emsp;(A) the contracting party shall develop and submit to the Board a program or project together with a budget that shall show the estimated costs to be incurred for the program or project;
+&emsp;&emsp;(A) the contracting party shall develop and submit to the Board a program orproject together with a budget that shall show the estimated costs to be incurred for the program or project;
 
 &emsp;&emsp;(B) the program or project shall become effective on the approval of the Secretary; and
 

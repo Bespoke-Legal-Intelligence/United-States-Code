@@ -72,7 +72,7 @@ In this section and sections 2507b through 2507g of this title:
 
 #### (A) In general
 
-&emsp;&emsp;The term "restricted reporting" means a system of reporting that allows a volunteerwho is sexually assaulted to confidentially disclose the details of his or her assault to specified individuals and receive the services outlined in section 2507b(c) of this title without the dissemination of his or her personally identifying information except as necessary for the provision of such services, and without automatically triggering an official investigative process.
+&emsp;&emsp;The term "restricted reporting" means a system of reporting that allows a volunteer who is sexually assaulted to confidentially disclose the details of his or her assault to specified individuals and receive the services outlined in section 2507b(c) of this title without the dissemination of his or her personally identifying information except as necessary for the provision of such services, and without automatically triggering an official investigative process.
 
 #### (B) Exceptions
 

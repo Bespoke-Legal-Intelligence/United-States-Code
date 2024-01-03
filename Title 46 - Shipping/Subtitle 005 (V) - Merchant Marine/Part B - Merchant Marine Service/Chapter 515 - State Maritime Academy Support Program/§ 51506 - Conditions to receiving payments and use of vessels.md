@@ -24,7 +24,7 @@ General Conditions.—As conditions of receiving an annual payment or the use of
 
 (b)
 
-Additional Condition to Payments of More Than $25,000.—As a condition of receiving an annual payment of more than $25,000 under section 51505 of this title, a State maritime academy also must agree to admit each year a number of citizens of the United States who meet its admission requirements and reside in a State not supporting that academy. The Secretary shall determine the number of individuals to be admitted by each academy under this subsection. The number may not be more than one-third of the total number of individuals attending the academy at any time.
+Additional Condition to Payments of More Than $25,000.—As a condition of receiving an annual payment of more than $25,000 under section 51505 of this title, a State maritime academy also must agree to admit each year a number of citizens of the United States who meet its admission requirements and reside in a State not supporting that academy. The Secretary shall determine the number of individuals to be admitted by each academy under this subsection. The number may not be more thanone-third of the total number of individuals attending the academy at any time.
 
 (c)
 

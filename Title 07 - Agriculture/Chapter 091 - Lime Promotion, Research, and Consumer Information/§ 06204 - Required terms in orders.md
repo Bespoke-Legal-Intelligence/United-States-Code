@@ -198,7 +198,7 @@ Such order shall provide that funds collected by the Board under this chapter th
 
 #### (2) By others
 
-&emsp;So that information and data will be available to the Board and the Secretary that is appropriate or necessary for the effectuation, administration, or enforcement of this chapter (or any order or regulation issued under this chapter), such order shall require handlers, producer-handlers, and importers who are responsible for the collection, payment, or remittance of assessments under subsection (d)—
+&emsp;So that information and data will be available to the Board and the Secretary that is appropriate or necessary for the effectuation, administration, or enforcement of this chapter (or any order or regulation issued under thischapter), such order shall require handlers, producer-handlers, and importers who are responsible for the collection, payment, or remittance of assessments under subsection (d)—
 
 &emsp;&emsp;(A) to maintain and make available for inspection by the employees of the Board and the Secretary such books and records as may be required by the order; and
 
@@ -208,7 +208,7 @@ Such order shall provide that funds collected by the Board under this chapter th
 
 #### (1) In general
 
-&emsp;Such order shall require that all information obtained pursuant to subsection (h)(2) shall bekept confidential by all officers and employees of the Department and of the Board. Only such information as the Secretary considers relevant shall be disclosed to the public and only in a suit or administrative hearing, brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party, involving the order with respect to which the information was furnished or acquired.
+&emsp;Such order shall require that all information obtained pursuant to subsection (h)(2) shall be kept confidential by all officers and employees of the Department and of the Board. Only such information as the Secretary considers relevant shall be disclosed to the public and only in a suit or administrative hearing, brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party, involving the order with respect to which the information was furnished or acquired.
 
 #### (2) Limitations
 

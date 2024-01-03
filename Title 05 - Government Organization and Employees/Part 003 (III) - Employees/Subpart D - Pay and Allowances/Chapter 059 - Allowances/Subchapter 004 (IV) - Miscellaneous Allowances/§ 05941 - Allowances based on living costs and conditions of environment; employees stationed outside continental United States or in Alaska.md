@@ -124,11 +124,11 @@ Basis for Foreign Post Differential. The Secretary of State may establish a fore
 
 Sec. 104.
 
-Agencies Covered. Subject to the provisions of section 207 of the Act and of this Part, every executive department, independent establishment, and wholly owned Government corporation shall pay a foreign post differential fixed under section 102 hereof to each of its employees whose basic compensation is fixed by statute and who is located at the post for which that differential has been fixed.
+Agencies Covered. Subject to the provisions of section 207 of the Act and of this Part, every executive department, independent establishment, and wholly owned Government corporation shall pay a foreignpost differential fixed under section 102 hereof to each of its employees whose basic compensation is fixed by statute and who is located at the post for which that differential has been fixed.
 
 Sec. 105.
 
-Persons Eligible to Receive Foreign Post Differential. (a) In order that an employee be eligible to receive a foreign post differential under this Part, (1) he shall be a citizen or national of the United States, (2) his residence in the place to which the foreign post differential applies, at the time of receipt thereof, shall be fairly attributable to his employment by the UnitedStates, and (3) his residence at such place over an appropriate prior period of time must not be fairly attributable to reasons other than employment by the United States or by United States firms, interests, or organizations.
+Persons Eligible to Receive Foreign Post Differential. (a) In order that an employee be eligible to receive a foreign post differential under this Part, (1) he shall be a citizen or national of the United States, (2) his residence in the place to which the foreign post differential applies, at the time of receipt thereof, shall be fairly attributable to his employment by the United States, and (3) his residence at such place over an appropriate prior period of time must not be fairly attributable to reasons other than employment by the United States or by United States firms, interests, or organizations.
 
 (b) Subject to the provisions of section 105(a) hereof, the classes of persons eligible to receive the foreign post differentials fixed pursuant to section 102 hereof shall include:
 
@@ -196,7 +196,7 @@ Additional Living Cost Compensation. The Office of Personnel Management shall fr
 
 Sec. 206.
 
-Coordination. The Office of Personnel Management shall define the extent to which and the conditions under which an employee serving within the non-foreign areas may receive both a non-foreign area postdifferential and a non-foreign area cost-of-living allowance, pursuant to section 207 of the Act. In carrying out its functions under this Part the Office may take due notice if any special allowances, other than under section 207 of the act, granted to personnel employed by the United States in non-foreign areas.
+Coordination. The Office of Personnel Management shall define the extent to which and the conditions under which an employee serving within the non-foreign areas may receive both a non-foreign area post differential and a non-foreign area cost-of-living allowance, pursuant to section 207 of the Act. In carrying out its functions under this Part the Office may take due notice if any special allowances, other than under section 207 of the act, granted to personnel employed by the United States in non-foreign areas.
 
 Sec. 207.
 

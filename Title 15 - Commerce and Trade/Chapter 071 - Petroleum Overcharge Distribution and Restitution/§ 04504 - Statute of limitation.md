@@ -32,7 +32,7 @@
 
 &emsp;(F) of extension, to which the Secretary and the defendant have consented in writing, before the expiration of the time periods prescribed in subsection (a)(1).
 
-(2) The provisions of subsection (a) shall not affect or apply to any civil enforcement actioncommenced before, on, or after October 21, 1986, and remanded by the Office of Hearings and Appeals, the Federal Energy Regulatory Commission, or the court for further action of any kind.
+(2) The provisions of subsection (a) shall not affect or apply to any civil enforcement action commenced before, on, or after October 21, 1986, and remanded by the Office of Hearings and Appeals, the Federal Energy Regulatory Commission, or the court for further action of any kind.
 
 (3) The provisions of subsection (a) shall not apply to any agency orders issued under the Acts or regulations described in subsection (a)(1) or to regulations issued under this chapter, other than a proposed remedial order subject to this section.
 
@@ -100,5 +100,5 @@ This chapter, referred to in subsec. (b)(3), was in the original "this Act", whi
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a)of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

@@ -124,9 +124,227 @@ Amendment of subsec. (b) of this section by section 1101 of Pub. L. 96–39 effe
 
 Pub. L. 96–39, title XI, §1106(c)(1), July 26, 1979, 93 Stat. 311, provided in part that the amendment of subsec. (e)(2) of this section by section 1106(c)(1) of Pub. L. 96–39 shall apply with respect to trade agreements submitted to the Congress under this section after July 26, 1979.
 
-#### Protective Order Provisions Applicable With Respect to Countervailing and Antidumping Duty Investigations Involving Products of Canadian Origin
+#### United States-Taiwan Initiative on 21st-Century Trade First Agreement Implementation
 
-Pub. L. 101–382, title I, §135(c), Aug. 20, 1990, 104 Stat. 652, provided that: "For purposes of section 404 of the United States-Canada Free-Trade Agreement Implementation Act of 1988 \[Pub. L. 100–449, set out in a note below\], the amendments made by subsection (b) \[amending section 1677f of this title\] also apply with respect to investigations under title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] involving products of Canadian origin."
+Pub. L. 118–13, Aug. 7, 2023, 137 Stat. 63, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'United States-Taiwan Initiative on 21st-Century Trade First Agreement Implementation Act'.
+
+#### "SEC. 2. FINDINGS.
+
+"Congress finds the following:
+
+&emsp;"(1) As a leading democracy, Taiwan is a key partner of the United States in the Indo-Pacific region.
+
+&emsp;"(2) The United States and Taiwan share democratic values, deep commercial and economic ties, and strong people-to-people connections. Those links serve as the impetus for expanding engagement by the United States with Taiwan.
+
+&emsp;"(3) Taiwan is the eighth-largest trading partner of the United States and the United States is the second-largest trading partner of Taiwan.
+
+&emsp;"(4) Since 2020, the United States and Taiwan, under the auspices of the American Institute in Taiwan (AIT) and the Taipei Economic and Cultural Representative Office in the United States (TECRO), have held an economic prosperity partnership dialogue to enhance economic and commercial ties between the United States and Taiwan, including with respect to supply chain security and resiliency, investment screening, health, science, and technology, and the digital economy.
+
+&emsp;"(5) On June 1, 2022, the United States and Taiwan launched the United States-Taiwan Initiative on 21st-Century Trade to deepen our economic and trade relationship, advance mutual trade priorities based on shared values, promote innovation, and support inclusive economic growth for workers and businesses.
+
+&emsp;"(6) On August 17, 2022, the United States and Taiwan announced the negotiating mandate for formal trade negotiations under the United States-Taiwan Initiative on 21st-Century Trade and agreed to seek high-standard commitments.
+
+&emsp;"(7) Article I, section 8, clause 3 of the Constitution of the United States grants Congress authority over international trade. The President lacks the authority to enter into binding trade agreements absent approval from Congress.
+
+&emsp;"(8) Congressional approval of the United States-Taiwan Initiative on 21st-Century Trade First Agreement will ensure that the agreement, and the trade relationship between the United States and Taiwan more broadly, will be durable. A durable trade agreement will foster sustained economic growth and give workers, consumers, businesses, farmers, ranchers, and other stakeholders assurance that commercial ties between the United States and Taiwan will be long-lasting and reliable.
+
+#### "SEC. 3. PURPOSE.
+
+"The purpose of this Act is—
+
+&emsp;"(1) to approve and implement the Agreement between the American Institute in Taiwan and the Taipei Economic and Cultural Representative Office in the United States regarding Trade between the United States of America and Taiwan, done on June 1, 2023;
+
+&emsp;"(2) to strengthen and develop economic relations between the United States and Taiwan for our mutual benefit;
+
+&emsp;"(3) to lay the foundation for further cooperation to expand and enhance the benefits of the Agreement; and
+
+&emsp;"(4) to establish transparency and consultation requirements with respect to Further Agreements.
+
+#### "SEC. 4. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Agreement.—The term 'Agreement' means the Agreement between the American Institute in Taiwan and the Taipei Economic and Cultural Representative Office in the United States regarding Trade between the United States of America and Taiwan approved by Congress under section 5.
+
+&emsp;"(2)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Finance of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Ways and Means of the House of Representatives.
+
+&emsp;"(3)
+
+Further agreement.—The term 'Further Agreement' means—
+
+&emsp;&emsp;"(A) any trade agreement, other than the Agreement approved by Congress under section 5, arising from or relating to the August 17, 2022, negotiating mandate relating to the United States-Taiwan Initiative on 21st-Century Trade; or
+
+&emsp;&emsp;"(B) any nonministerial modification or nonministerial amendment to the Agreement.
+
+&emsp;"(4)
+
+Negotiating text.—The term 'negotiating text' means any document that proposes the consideration, examination, or adoption of a particular element or language in an international instrument.
+
+&emsp;"(5)
+
+State law.—The term 'State law' includes—
+
+&emsp;&emsp;"(A) any law of a political subdivision of a State; and
+
+&emsp;&emsp;"(B) any State law regulating or taxing the business of insurance.
+
+&emsp;"(6)
+
+Trade representative.—The term 'Trade Representative' means the United States Trade Representative.
+
+#### "SEC. 5. APPROVAL OF AGREEMENT.
+
+"Congress approves the Agreement between the American Institute in Taiwan and the Taipei Economic and Cultural Representative Office in the United States regarding Trade between the United States of America and Taiwan, done on June 1, 2023.
+
+#### "SEC. 6. ENTRY INTO FORCE OF AGREEMENT.
+
+"(a)
+
+Conditions for Entry Into Force of Agreement.—The President may provide for the Agreement to enter into force not earlier than 30 days after the date on which the President submits to Congress a certification under subsection (c).
+
+"(b)
+
+Consultation and Report.—The President, not later than 30 days before submitting a certification under subsection (c), shall—
+
+&emsp;"(1) consult with the appropriate congressional committees;
+
+&emsp;"(2) submit to the appropriate congressional committees a report that—
+
+&emsp;&emsp;"(A) explains the basis of the determination of the President contained in that certification, including by providing specific reference to the measures the parties to the Agreement intend to use to comply with the obligations in the Agreement; and
+
+&emsp;&emsp;"(B) describes, including through the use of economic estimates and analyses, how entry into force of the Agreement will further trade relations between the United States and Taiwan and advance the interests of workers, consumers, businesses, farmers, ranchers, and other stakeholders in the United States; and
+
+&emsp;"(3) answer in writing any questions that relate to potential compliance and implementation of the Agreement that are submitted by the appropriate congressional committees during the 15-day period beginning on the date of the submission of the report under paragraph (2).
+
+"(c)
+
+Certification.—A certification under this subsection is a certification in writing that—
+
+&emsp;"(1) indicates the President has determined Taiwan has taken measures necessary to comply with the provisions of the Agreement that are to take effect not later than the date on which the Agreement enters into force; and
+
+&emsp;"(2) identifies the anticipated date the President intends to exchange notes or take any other action to notify Taiwan that the United States has completed all procedures necessary to bring the Agreement into force.
+
+"(d)
+
+Report on Implementation.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after entry into force of the Agreement, the Trade Representative shall submit to the appropriate congressional committees a report providing an assessment of the implementation of the Agreement, including by identifying any provisions for which further progress is necessary to secure compliance.
+
+&emsp;"(2)
+
+Form.—The report required by paragraph (1) shall be submitted with any confidential business information clearly identified or contained in a separate annex.
+
+&emsp;"(3)
+
+Publication.—Not later than 5 days after the report required by paragraph (1) is submitted to the appropriate congressional committees, the Trade Representative shall publish the report, with any confidential business information redacted, on a publicly available website of the Office of the United States Trade Representative.
+
+#### "SEC. 7. TRANSPARENCY AND CONSULTATION WITH RESPECT TO FURTHER AGREEMENTS.
+
+"(a)
+
+Sense of Congress on Deepening Relationship With Taiwan.—It is the sense of Congress that—
+
+&emsp;"(1) the United States should continue to deepen its relationship with Taiwan; and
+
+&emsp;"(2) any Further Agreements should be high-standard, enforceable, and meaningful to both the United States and Taiwan, as well as subject to robust requirements on public transparency and congressional consultation.
+
+"(b)
+
+Access to Texts of Further Agreements.—The Trade Representative shall provide to the appropriate congressional committees the following with respect to a Further Agreement:
+
+&emsp;"(1) Negotiating text drafted by the United States prior to sharing the negotiating text with Taiwan or otherwise sharing the text outside the executive branch.
+
+&emsp;"(2) Negotiating text drafted by Taiwan not later than 3 days after receiving the text from Taiwan.
+
+&emsp;"(3) Any consolidated negotiating texts that the United States and Taiwan are considering, which shall include an attribution of the source of each provision contained in those texts to either the United States or Taiwan.
+
+&emsp;"(4) The final text not later than 45 days before the Trade Representative makes the text public or otherwise shares the text outside the executive branch.
+
+"(c)
+
+Review of Texts.—
+
+&emsp;"(1)
+
+Briefing.—The Trade Representative shall schedule a briefing with the appropriate congressional committees to discuss the texts provided under subsection (b).
+
+&emsp;"(2)
+
+Review.—The appropriate congressional committees shall have not less than—
+
+&emsp;&emsp;"(A) 2 business days prior to the briefing under paragraph (1) to review the texts provided under subsection (b); and
+
+&emsp;&emsp;"(B) 4 business days after the briefing to provide comments with respect to the texts before the Trade Representative transmits any such texts to Taiwan.
+
+&emsp;"(3)
+
+Additional time to review united states negotiating text.—If, during the period specified in paragraph (2)(B), two Members of Congress who are not of the same political party and each of whom is the Chair or Ranking Member of one of the appropriate congressional committees jointly request additional time to review the negotiating text provided under subsection (b)(1), the Trade Representative shall not transmit the text to Taiwan for a period of 15 business days following the request, unless the request indicates less time is necessary or such Members issue a subsequent joint notification to the Trade Representative that they have concluded their review sooner.
+
+"(d)
+
+Notification and Briefing During Negotiations.—The Trade Representative shall—
+
+&emsp;"(1) not later than one business day after scheduling any negotiating round with respect to a Further Agreement, promptly notify the appropriate congressional committees and provide those committees with the dates and locations for the negotiating round;
+
+&emsp;"(2) ensure that any individual described in section 104(c)(2)(C) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 (19 U.S.C. 4203(c)(2)(C)) that attends a negotiating round is accredited as a member of the United States delegation during any such negotiating round; and
+
+&emsp;"(3) provide daily briefings to the individuals described in paragraph (2) during any such negotiating round regarding the status of those negotiations, including any tentative agreement to accept any aspect of negotiating text.
+
+"(e)
+
+Approval.—A Further Agreement shall not take effect unless—
+
+&emsp;"(1) the President, at least 60 days before the day on which the President enters into the Further Agreement, publishes the text of the Further Agreement on a publicly available website of the Office of the United States Trade Representative; and
+
+&emsp;"(2) a bill is enacted into law expressly approving the Further Agreement and, if necessary, making any required changes to United States law.
+
+#### "SEC. 8. RELATIONSHIP OF THE AGREEMENT TO UNITED STATES AND STATE LAW.
+
+"(a)
+
+Relationship of the Agreement to United States Law.—
+
+&emsp;"(1)
+
+United states law to prevail in conflict.—No provision of the Agreement, nor the application of any such provision to any person or circumstance, which is inconsistent with any law of the United States, shall have effect.
+
+&emsp;"(2)
+
+Internal revenue code.—The Agreement does not constitute a free trade agreement for purposes of section 30D(e)(1)(A)(i)(II) of the Internal Revenue Code of 1986 \[26 U.S.C. 30D(e)(1)(A)(i)(II)\].
+
+&emsp;"(3)
+
+Construction.—Unless specifically provided for in this Act, nothing in this Act shall be construed—
+
+&emsp;&emsp;"(A) to amend or modify any law of the United States; or
+
+&emsp;&emsp;"(B) to limit any authority conferred under any law of the United States.
+
+"(b)
+
+Relationship of the Agreement to State Law.—No State law, or the application thereof, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with the Agreement, except in an action brought by the United States for the purpose of declaring such law or application invalid.
+
+"(c)
+
+Effect of the Agreement With Respect to Private Remedies.—No person other than the United States—
+
+&emsp;"(1) shall have any cause of action or defense under the Agreement or by virtue of congressional approval thereof; or
+
+&emsp;"(2) may challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State, or any political subdivision of a State, on the ground that such action or inaction is inconsistent with the Agreement."
 
 #### United States-Jordan Free Trade Area Implementation
 
@@ -358,7 +576,7 @@ Investigation and Determination.—
 
 &emsp;"(1)
 
-In general.—Upon the filing of a petition under subsection (a), the Commission, unless subsection (d) applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided for under the Agreement, a Jordanian article is being imported into the United States in such increased quantities, in absolute terms or relative to domestic production, and under such conditions that imports of the Jordanian article alone constitute a substantial cause of serious injury or threat thereof to the domestic industry producing an article that is like, or directly competitive with, the imported article.
+In general.—Upon the filing of a petition under subsection (a), the Commission, unless subsection (d) applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided for under the Agreement, a Jordanian article is being imported into the United States in such increased quantities,in absolute terms or relative to domestic production, and under such conditions that imports of the Jordanian article alone constitute a substantial cause of serious injury or threat thereof to the domestic industry producing an article that is like, or directly competitive with, the imported article.
 
 &emsp;"(2)
 
@@ -568,6 +786,10 @@ Termination of the Agreement.—On the date on which the Agreement ceases to be 
 
 \[The Harmonized Tariff Schedule of the United States is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.\]
 
+#### Protective Order Provisions Applicable With Respect to Countervailing and Antidumping Duty Investigations Involving Products of Canadian Origin
+
+Pub. L. 101–382, title I, §135(c), Aug. 20, 1990, 104 Stat. 652, provided that: "For purposes of section 404 of the United States-Canada Free-Trade Agreement Implementation Act of 1988 \[Pub. L. 100–449, set out in a note below\], the amendments made by subsection (b) \[amending section 1677f of this title\] also apply with respect to investigations under title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] involving products of Canadian origin."
+
 #### United States-Canada Free-Trade Agreement Implementation
 
 Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147; Pub. L. 104–66, title I, §1021(d), Dec. 21, 1995, 109 Stat. 712; Pub. L. 105–206, title V, §5003(b)(3), July 22, 1998, 112 Stat. 789; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 116–113, title VI, §602, Jan. 29, 2020, 134 Stat. 78, provided that:
@@ -670,7 +892,7 @@ Initial Implementing Regulations.—Initial regulations necessary or appropriate
 
 "(e)
 
-Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—The provisions of section 3(c) of the Trade Agreements Act of 1979 (19 U.S.C. 2504(c)) shall apply as if the Agreement were an agreement approved under section 2(a) of thatAct \[19 U.S.C. 2503(a)\] whenever the President determines that it is necessary or appropriate to amend, repeal, or enact a statute of the United States in order to implement any requirement of, amendment to, or recommendation, finding or opinion under, the Agreement; but such provisions shall not apply to any bill to implement any such requirement, amendment, recommendation, finding, or opinion that is submitted to the Congress after the close of the 30th month after the month in which the Agreement enters into force \[January 1989\].
+Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—The provisions of section 3(c) of the Trade Agreements Act of 1979 (19 U.S.C. 2504(c)) shall apply as if the Agreement were an agreement approved under section 2(a) of that Act \[19 U.S.C. 2503(a)\] whenever the President determines that it is necessary or appropriate to amend, repeal, or enact a statute of the United States in order to implement any requirement of, amendment to, or recommendation, finding or opinion under, the Agreement; but such provisions shall not apply to any bill to implement any such requirement, amendment, recommendation, finding, or opinion that is submitted to the Congress after the close of the 30th month after the month in which the Agreement enters into force \[January 1989\].
 
 #### "SEC. 103. CONSULTATION AND LAY-OVER REQUIREMENTS FOR, AND EFFECTIVE DATE OF, PROCLAIMED ACTIONS.
 
@@ -966,7 +1188,7 @@ Definitions.—For purposes of this section:
 
 "(g)
 
-Special Provision Regarding Application of Rules of Origin to Certain Apparel.—The Secretary of Commerce is authorized to issue regulations governing the exportation to Canada of apparel products that are cut, or knit to shape, and sewn, or otherwise assembled, in either Party from fabric produced or obtained in a third country for the purpose of establishing which exports of such products shall be permitted to claim preferential tariff treatment under the rules of origin of the Agreement, to the extent that the Agreement provides for quantitative limits on theavailability of preferential tariff treatment for such products.
+Special Provision Regarding Application of Rules of Origin to Certain Apparel.—The Secretary of Commerce is authorized to issue regulations governing the exportation to Canada of apparel products that are cut, or knit to shape, and sewn, or otherwise assembled, in either Party from fabric produced or obtained in a third country for the purpose of establishing which exports of such products shall be permitted to claim preferential tariff treatment under the rules of origin of the Agreement, to the extent that the Agreement provides for quantitative limits on the availability of preferential tariff treatment for such products.
 
 #### "SEC. 203. CUSTOMS USER FEES.
 
@@ -1208,7 +1430,7 @@ Relief From Imports of Canadian Articles.—
 
 &emsp;"(D) If the determination made by the Commission under subparagraph (A) with respect to imports of an article is affirmative, the Commission shall find and recommend to the President the amount of import relief that is necessary to remedy the injury found by the Commission in such affirmative determination, which shall be limited to that set forth in paragraph (3)(C).
 
-&emsp;"(E)(i) By no later than the date that is 30 days after the date on which a determination is made under subparagraph (A) with respect to an investigation, the Commission shall submit to the President a report on the determination and the basis for the determination. The report shall include any dissenting or separate views and a transcript of the hearings and any briefs which were submitted to the Commission in the course of the investigation initiated under subparagraph (A).
+&emsp;"(E)(i) By no later than the date that is 30 days after the date on which a determination is madeunder subparagraph (A) with respect to an investigation, the Commission shall submit to the President a report on the determination and the basis for the determination. The report shall include any dissenting or separate views and a transcript of the hearings and any briefs which were submitted to the Commission in the course of the investigation initiated under subparagraph (A).
 
 &emsp;"(ii) Any finding made under subparagraph (D) shall be included in the report submitted to the President under clause (i).
 
@@ -1260,7 +1482,7 @@ Relief From Imports From All Countries.—
 
 &emsp;"(B)(i) If, under paragraph (2)(B), the President excludes imports from Canada from action taken under chapter 1 of title II of the Trade Act of 1974, any entity, including a trade association, firm, certified or recognized union, or group of workers, that is representative of an industry for which such action is being taken under such chapter may request the Commission to conduct an investigation of imports from Canada of the article that is the subject of such action.
 
-&emsp;"(ii) Upon receiving a request under clause (i), the Commission shall conduct an investigation to determine whether a surge in imports from Canada of the article that is the subject of action being taken underchapter 1 of title II of the Trade Act of 1974 undermines the effectiveness of such action. The Commission shall submit the findings of such investigation to the President by no later than the date that is 30 days after the date on which such request is received by the Commission.
+&emsp;"(ii) Upon receiving a request under clause (i), the Commission shall conduct an investigation to determine whether a surge in imports from Canada of the article that is the subject of action being taken under chapter 1 of title II of the Trade Act of 1974 undermines the effectiveness of such action. The Commission shall submit the findings of such investigation to the President by no later than the date that is 30 days after the date on which such request is received by the Commission.
 
 &emsp;"(C) For purposes of this paragraph, the term 'surge' means a significant increase in imports over the trend for a reasonable, recent base period for which data are available.
 
@@ -1624,9 +1846,9 @@ Panels and Committees.—
 
 &emsp;"(2) The United States Trade Representative is authorized to transfer to any department or agency of the United States, from sums appropriated pursuant to the authorization provided under paragraph (1) or section 141(g)(1) of the Trade Act of 1974 \[19 U.S.C. 2171(g)(1)\], such funds as may be necessary to facilitate the payment of the expenses described in paragraph (1).
 
-&emsp;"(3) Funds appropriated for the payment of expenses described in paragraph (1) during any fiscalyear may be expended only to the extent such funds do not exceed the amount authorized to be appropriated under paragraph (1) for such fiscal year. This paragraph shall apply, notwithstanding any law enacted after the date of enactment of this Act \[Sept. 28, 1988\], unless such subsequent law specifically provides that this paragraph shall not apply and specifically cites this paragraph.
+&emsp;"(3) Funds appropriated for the payment of expenses described in paragraph (1) during any fiscal year may be expended only to the extent such funds do not exceed the amount authorized to be appropriated under paragraph (1) for such fiscal year. This paragraph shall apply, notwithstanding any law enacted after the date of enactment of this Act \[Sept. 28, 1988\], unless such subsequent law specifically provides that this paragraph shall not apply and specifically cites this paragraph.
 
-&emsp;"(4) If the Canadian Secretariat described in chapter 19 of the Agreement provides funds during any fiscal year for the purpose of paying, in accordance with Annex 1901.2 of the Agreement, the Canadian share of the expenses of binational panels, the United States Secretariat established under section 405(e)(1) may hereafter retain and use such funds for such purposes.
+&emsp;"(4) If the Canadian Secretariat described in chapter 19 of the Agreement provides funds during any fiscal year for the purpose of paying, in accordance with Annex 1901.2 of the Agreement, the Canadian share of the expenses of binational panels, the United StatesSecretariat established under section 405(e)(1) may hereafter retain and use such funds for such purposes.
 
 #### "SEC. 407. TESTIMONY AND PRODUCTION OF PAPERS IN EXTRAORDINARY CHALLENGES.
 
@@ -1690,7 +1912,7 @@ Negotiating Authority.—
 
 &emsp;"(B) Special emphasis should be given in negotiating an agreement under paragraph (1) to obtain discipline on Canadian subsidy programs that adversely affect United States industries which directly compete with subsidized imports.
 
-&emsp;"(3) The United States members of the working group established under article 1907 of the Agreement shall consult regularly with the Committee on Finance of the Senate, the Committee on Ways and Means of the House of Representatives, and advisorycommittees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\] regarding—
+&emsp;"(3) The United States members of the working group established under article 1907 of the Agreement shall consult regularly with the Committee on Finance of the Senate, the Committee on Ways and Means of the House of Representatives, and advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\] regarding—
 
 &emsp;&emsp;"(A) the issues being considered by the working group; and
 
@@ -1762,7 +1984,7 @@ In General.—If—
 
 &emsp;"(2) the President decides not to exercise the rights of the United States under article 1906 of the Agreement to terminate the Agreement,
 
-> the President shall submit to the Congress a report on such decision which explains why continued adherence to the Agreement is in the national economic interestof the United States. In calculating the 7-year period referred to in paragraph (1), any time during which Canada is a NAFTA country (as defined in section 2(4) of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3301(4)\]) shall be disregarded.
+> the President shall submit to the Congress a report on such decision which explains why continued adherence to the Agreement is in the national economic interest of the United States. In calculating the 7-year period referred to in paragraph (1), any time during which Canada is a NAFTA country (as defined in section 2(4) of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3301(4)\]) shall be disregarded.
 
 "(b)
 
@@ -1974,7 +2196,7 @@ Requirements for new or different article of commerce.—For purposes of subsect
 
 &emsp;"(3)
 
-Cost or value of materials.—(A) For purposes of this section, the cost or value of materials produced in the West Bank, the Gaza Strip, or a qualifying industrial zone includes—
+Cost or value of materials.—(A) For purposes of this section, the cost or value of materialsproduced in the West Bank, the Gaza Strip, or a qualifying industrial zone includes—
 
 &emsp;&emsp;"(i) the manufacturer's actual cost for the materials;
 
@@ -2054,7 +2276,7 @@ Shipment of Articles of Israel Through West Bank or Gaza Strip.—The President 
 
 "(d)
 
-Treatment of Cost or Value of Materials.—The President is authorized to proclaim that the cost or value of materials produced in the West Bank, the Gaza Strip, or a qualifying industrial zone may be included in the cost or value of materials produced in Israel under section 1(c)(i) of Annex 3 of the Agreement,and the direct costs of processing operations performed in the West Bank, the Gaza Strip, or a qualifying industrial zone may be included in the direct costs of processing operations performed in Israel under section 1(c)(ii) of Annex 3 of the Agreement.
+Treatment of Cost or Value of Materials.—The President is authorized to proclaim that the cost or value of materials produced in the West Bank, the Gaza Strip, or a qualifying industrial zone may be included in the cost or value of materials produced in Israel under section 1(c)(i) of Annex 3 of the Agreement, and the direct costs of processing operations performed in the West Bank, the Gaza Strip, or a qualifying industrial zone may be included in the direct costs of processing operations performed in Israel under section 1(c)(ii) of Annex 3 of the Agreement.
 
 "(e)
 
@@ -2128,11 +2350,11 @@ ITC Reports.—In any report by the United States International Trade Commission
 
 #### "SEC. 404. FAST TRACK PROCEDURES FOR PERISHABLE ARTICLES.
 
-"(a) If a petition is filed with the Commission under the provisions of section 202(a) of the Trade Act of 1974\[19 U.S.C. 2252(a)\] regarding a perishable product which is subject to any reduction or elimination of a duty imposed by the United States under a trade agreement entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] and alleges injury from imports of that product, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted under subsection (c) with respect to such article.
+"(a) If a petition is filed with the Commission under the provisions of section 202(a) of the Trade Act of 1974 \[19 U.S.C. 2252(a)\] regarding a perishable product which is subject to any reduction or elimination of a duty imposed by the United States under a trade agreement entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] and alleges injury from imports of that product, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted under subsection (c) with respect to such article.
 
 "(b) Within 14 days after the filing of a petition under subsection (a)—
 
-&emsp;"(1) if the Secretary of Agriculture has reason to believe that a perishable product from Israel is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry producing a perishable product like or directly competitive with the imported product and that emergency action is warranted, he shall advise the President and recommend that the President take emergency action; or
+&emsp;"(1) if the Secretary of Agriculture has reason to believe that a perishable product from Israel is being imported into the United States in such increasedquantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry producing a perishable product like or directly competitive with the imported product and that emergency action is warranted, he shall advise the President and recommend that the President take emergency action; or
 
 &emsp;"(2) the Secretary of Agriculture shall publish a notice of his determination not to recommend the imposition of emergency action and so advise the petitioner.
 
@@ -2200,7 +2422,7 @@ Ex. Ord. No. 13141, Nov. 16, 1999, 64 F.R. 63169, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to further the environmental and trade policy goals of the United States, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The United States is committed to a policy of careful assessment and consideration of the environmental impacts of trade agreements. TheUnited States will factor environmental considerations into the development of its trade negotiating objectives. Responsible agencies will accomplish these goals through a process of ongoing assessment and evaluation, and, in certain instances, written environmental reviews.
+Section 1. <i>Policy</i>. The United States is committed to a policy of careful assessment and consideration of the environmental impacts of trade agreements. The United States will factor environmental considerations into the development of its trade negotiating objectives. Responsible agencies will accomplish these goals through a process of ongoing assessment and evaluation, and, in certain instances, written environmental reviews.
 
 Sec. 2. <i>Purpose and Need</i>. Trade agreements should contribute to the broader goal of sustainable development. Environmental reviews are an important tool to help identify potential environmental effects of trade agreements, both positive and negative, and to help facilitate consideration of appropriate responses to those effects whether in the course of negotiations, through other means, or both.
 

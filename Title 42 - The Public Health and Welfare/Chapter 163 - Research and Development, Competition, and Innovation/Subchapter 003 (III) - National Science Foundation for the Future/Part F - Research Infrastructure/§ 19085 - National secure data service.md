@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director, in consultation with the Director of the Office of Management and Budget and the interagency committee established under section 9413 of title 15, shall establish a demonstration project to develop, refine, and test models to inform the full implementation of the Commission on Evidence-Based Policymaking recommendation for a governmentwide data linkage and access infrastructure for statistical activities conducted for statistical purposes, as defined in chapter 35 of title 44.
+The Director, in consultation with the Director of the Office of Management and Budget andthe interagency committee established under section 9413 of title 15, shall establish a demonstration project to develop, refine, and test models to inform the full implementation of the Commission on Evidence-Based Policymaking recommendation for a governmentwide data linkage and access infrastructure for statistical activities conducted for statistical purposes, as defined in chapter 35 of title 44.
 
 #### (b) Establishment
 
@@ -70,7 +70,7 @@ There are authorized to be appropriated to the Director to carry out this subsec
 
 The Foundations for Evidence-Based Policymaking Act of 2018, referred to in subsec. (c), is Pub. L. 115–435, Jan. 14, 2019, 132 Stat. 5529. For complete classification of this Act to the Code, see Short Title of 2019 Amendment note set out under section 101 of Title 5, Government Organization and Employees, and Tables.
 
-The Confidential Information Protection and Statistical Efficiency Act of 2018, referred to in subsec. (e), is title III of Pub. L. 115–435, Jan. 14, 2019, 132 Stat. 5544. For complete classification of this Act to the Code, see Short Title of 2019 Amendment note set out under section 101 of Title 44, Public Printing and Documents, and Tables.
+The Confidential Information Protection and Statistical Efficiency Act of 2018, referred to in subsec. (e), istitle III of Pub. L. 115–435, Jan. 14, 2019, 132 Stat. 5544. For complete classification of this Act to the Code, see Short Title of 2019 Amendment note set out under section 101 of Title 44, Public Printing and Documents, and Tables.
 
 The Privacy Act of 1974, referred to in subsec. (e), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 552a of Title 5 and Tables.
 

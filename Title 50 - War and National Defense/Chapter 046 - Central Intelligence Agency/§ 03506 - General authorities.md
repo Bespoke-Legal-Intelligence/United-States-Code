@@ -56,7 +56,7 @@ In the performance of its functions, the Central Intelligence Agency is authoriz
 
 &emsp;(A) such lease shall include a clause that provides that the contract shall be terminated if budget authority (as defined by section 622(2) of title 2) is not provided specifically for that project in an appropriations Act in advance of an obligation of funds in respect thereto;
 
-&emsp;(B) notwithstanding section 1552 of title 31, amounts obligated for paying terminationcosts with respect to such lease shall remain available until the costs associated with termination of such lease are paid;
+&emsp;(B) notwithstanding section 1552 of title 31, amounts obligated for paying termination costs with respect to such lease shall remain available until the costs associated with termination of such lease are paid;
 
 &emsp;(C) funds available for termination liability shall remain available to satisfy rental obligations with respect to such lease in subsequent fiscal years in the event such lease is not terminated early, but only to the extent those funds are in excess of the amount of termination liability at the time of their use to satisfy such rental obligations; and
 
@@ -110,7 +110,7 @@ Subsec. (a)(4). Pub. L. 111–259, §421, substituted "the protection of current
 
 <b>2000</b>—Pub. L. 106–567 added subsec. (a) and (b) headings and subsec. (c).
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–272, §403(a)(1), substituted "paragraphs (2) and (3) of section 403(a)" for "subparagraphs (B) and (C) of section 403(a)(2)" and "(c)(6)" for "(c)(5)" and made technical amendments to references in original act which appear in text as references to sections 403, 403–3, 403–4 of this title.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–272, §403(a)(1), substituted "paragraphs (2) and (3) of section 403(a)" for"subparagraphs (B) and (C) of section 403(a)(2)" and "(c)(6)" for "(c)(5)" and made technical amendments to references in original act which appear in text as references to sections 403, 403–3, 403–4 of this title.
 
 Subsec. (a)(4). Pub. L. 105–272, §401, substituted "and the protection of current and former Agency personnel and their immediate families, defectors and their immediate families," for "and the protection of Agency personnel and of defectors, their families,".
 

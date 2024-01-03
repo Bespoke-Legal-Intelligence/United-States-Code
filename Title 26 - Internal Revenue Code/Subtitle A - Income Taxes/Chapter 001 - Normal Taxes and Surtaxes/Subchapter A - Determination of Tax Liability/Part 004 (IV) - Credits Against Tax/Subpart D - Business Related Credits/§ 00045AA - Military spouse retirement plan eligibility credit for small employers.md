@@ -50,7 +50,7 @@ All persons treated as a single employer under subsection (b), (c), (m), or (o) 
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 29, 2022, see section 112(e) of Pub. L. 117–328, set out as an Effective Date of 2022 Amendment note under section 38 of this title.
+Section applicable to taxable years beginning after Dec. 29, 2022, see section 112(e) of Pub. L. 117–328, set outas an Effective Date of 2022 Amendment note under section 38 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by another closing parenthesis.</i>
 

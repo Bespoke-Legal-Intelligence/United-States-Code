@@ -10,7 +10,7 @@ The Attorney General shall fix a reasonable rate of extra compensation for overt
 
 Section was not enacted as part of the Immigration and Nationality Act which comprises this chapter.
 
-Ex. Ord. No. 6166, is authority for the substitution of "Immigration and Naturalization Service" for "Immigration Service"; and 1940 Reorg. Plan No. V. is authority for the substitution of "Attorney General" for"Secretary of Labor." See note set out under section 1551 of this title.
+Ex. Ord. No. 6166, is authority for the substitution of "Immigration and Naturalization Service" for "Immigration Service"; and 1940 Reorg. Plan No. V. is authority for the substitution of "Attorney General" for "Secretary of Labor." See note set out under section 1551 of this title.
 
 Section was formerly classified to section 342c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378. Prior thereto, section was classified to section 109a of this title.
 

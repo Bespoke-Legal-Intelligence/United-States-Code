@@ -84,7 +84,7 @@ In this section:
 
 #### (1) Grants
 
-&emsp;Subject to the availability of funds, the Secretary shall provide grants to each tribe ortribal organization operating a contract school or grant school in the amount determined under this section with respect to the tribe or tribal organization for the purpose of paying the administrative and indirect costs incurred in operating contract or grant schools, provided that no school operated as a stand-alone institution shall receive less than $200,000 per year for these purposes, in order to—
+&emsp;Subject to the availability of funds, the Secretary shall provide grants to each tribe or tribal organization operating a contract school or grant school in the amount determined under this section with respect to the tribe or tribal organization for the purpose of paying the administrative and indirect costs incurred in operating contract or grant schools, provided that no school operated as a stand-alone institution shall receive less than $200,000 per year for these purposes, in order to—
 
 &emsp;&emsp;(A) enable tribes and tribal organizations operating such schools, without reducing direct program services to the beneficiaries of the program, to provide all related administrative overhead services and operations necessary to meet the requirements of law and prudent management practice; and
 
@@ -166,7 +166,7 @@ In applying this section and section 106 of the Indian Self-Determination and Ed
 
 &emsp;(1) receives funds under this section for administrative costs incurred in operating a contract or grant school or a school operated under the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\]; and
 
-&emsp;(2) operates one or more other programs under a contract or grant provided under theIndian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\],
+&emsp;(2) operates one or more other programs under a contract or grant provided under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\],
 
 > the Secretary shall ensure that the Indian tribe or tribal organization is provided with the full amount of the administrative costs that are associated with operating the contract or grant school, and of the indirect costs, that are associated with all of such other programs, except that funds appropriated for implementation of this section shall be used only to supply the amount of the grant required to be provided by this section.
 
@@ -252,7 +252,7 @@ The provisions of this section shall apply to schools operating under the Tribal
 
 #### (A) Funding for new conversions to contract or grant school operations
 
-&emsp;&emsp;With respect to a budget request under paragraph (1), the amount required to provide full funding for an administrative cost grant for each tribe or tribal organization expected to begin operation of a Bureau-funded school as contract or grant school in the academic year funded by such annual budget request, the amount so required shall not be less than 10 percent of the amount required for subparagraph (B).
+&emsp;&emsp;With respect to a budget request under paragraph (1), the amount required to provide full funding for an administrative costgrant for each tribe or tribal organization expected to begin operation of a Bureau-funded school as contract or grant school in the academic year funded by such annual budget request, the amount so required shall not be less than 10 percent of the amount required for subparagraph (B).
 
 #### (B) Funding for continuing contract and grant school operations
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Submission With Annual Budget Justification Documents.—The Secretary of Defense shall submit to Congress, as a part of the documentation that supports the President's annual budget for the Department of Defense, aconsolidated budget justification display, in classified and unclassified form, that includes all programs and activities of the Department of Defense combating terrorism program.
+Submission With Annual Budget Justification Documents.—The Secretary of Defense shall submit to Congress, as a part of the documentation that supports the President's annual budget for the Department of Defense, a consolidated budget justification display, in classified and unclassified form, that includes all programs and activities of the Department of Defense combating terrorism program.
 
 (b)
 
@@ -56,7 +56,7 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 
 #### Prioritization of Funds for Equipment Readiness and Strategic Capability
 
-Pub. L. 109–364, div. A, title III, §323, Oct. 17, 2006, 120 Stat. 2146, as amended by Pub. L. 110–181, div. A, title III, §353, Jan. 28, 2008, 122 Stat. 72; Pub. L. 111–383, div. A, title III, §332(a)–(f), Jan. 7, 2011, 124 Stat. 4185, 4187; Pub. L. 113–66, div. A, title III, §332, Dec. 26, 2013, 127 Stat. 739, provided that:
+Pub. L. 109–364, div. A, title III, §323, Oct. 17, 2006, 120 Stat. 2146, as amended by Pub. L. 110–181, div. A, title III, §353, Jan. 28, 2008, 122 Stat. 72; Pub. L. 111–383, div. A, title III, §332(a)–(f), Jan. 7, 2011, 124 Stat. 4185, 4187;Pub. L. 113–66, div. A, title III, §332, Dec. 26, 2013, 127 Stat. 739, provided that:
 
 "(a)
 

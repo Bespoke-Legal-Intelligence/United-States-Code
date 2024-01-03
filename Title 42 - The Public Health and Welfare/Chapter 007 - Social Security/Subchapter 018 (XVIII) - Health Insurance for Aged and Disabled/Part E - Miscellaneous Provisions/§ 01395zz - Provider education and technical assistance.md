@@ -8,7 +8,7 @@ The Secretary shall coordinate the educational activities provided through medic
 
 #### (1) Additional resources
 
-&emsp;There are authorized to be appropriated to the Secretary (in appropriate part from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical InsuranceTrust Fund) such sums as may be necessary for fiscal years beginning with fiscal year 2005.
+&emsp;There are authorized to be appropriated to the Secretary (in appropriate part from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund) such sums as may be necessary for fiscal years beginning with fiscal year 2005.
 
 #### (2) Use
 
@@ -54,7 +54,7 @@ Nothing in this section or section 1395ddd(g) of this title shall be construed a
 
 For purposes of this section, the term "medicare contractor" includes the following:
 
-&emsp;(1) A medicare administrative contractor with a contract under section 1395kk–1 of this title, including a fiscal intermediary with a contract under section 1395h of this title and a carrier with a contract under section 1395u of this title.
+&emsp;(1) A medicare administrative contractor with a contract under section 1395kk–1 of this title, including a fiscal intermediary with acontract under section 1395h of this title and a carrier with a contract under section 1395u of this title.
 
 &emsp;(2) An eligible entity with a contract under section 1395ddd of this title.
 

@@ -8,7 +8,7 @@
 
 &emsp;(1) On the date of receipt by the Court, if the notice is delivered.
 
-&emsp;(2) On the date of the United States Postal Service postmark stamped on the cover in which the notice is posted, if the notice is properly addressed to the Court and is mailed.
+&emsp;(2) On the date of the United States Postal Service postmark stamped on the cover inwhich the notice is posted, if the notice is properly addressed to the Court and is mailed.
 
 (d) For a notice of appeal mailed to the Court to be deemed to be received under subsection (c)(2) on a particular date, the United States Postal Service postmark on the cover in which the notice is posted must be legible. The Court shall determine the legibility of any such postmark and the Court's determination as to legibility shall be final and not subject to review by any other Court.
 
@@ -48,5 +48,5 @@ Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of t
 
 #### Interim Provision for Filing Notices of Appeal
 
-Pub. L. 101–94, title II, §202, Aug. 16, 1989, 103 Stat. 626, provided that in the case of a person adversely affected by a final decision of the Board of Veterans' Appeals that was made before the date on which theUnited States Court of Veterans Appeals published in the Federal Register a notice by the Court that it had commenced operations, the period prescribed under this section within which a notice of appeal had to be filed with the Court was to be extended to the end of the 30-day period beginning on the date such notice was published, if the end of that period was later than the date that would otherwise be applicable under this section.
+Pub. L. 101–94, title II, §202, Aug. 16, 1989, 103 Stat. 626, provided that in the case of a person adversely affected by a final decision of the Board of Veterans' Appeals that was made before the date on which the United States Court of Veterans Appeals published in the Federal Register a notice by the Court that it had commenced operations, the period prescribed under this section within which a notice of appeal had to be filed with the Court was to be extended to the end of the 30-day period beginning on the date such notice was published, if the end of that period was later than the date that would otherwise be applicable under this section.
 

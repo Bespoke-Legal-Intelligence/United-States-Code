@@ -8,7 +8,7 @@ Requirement.—Each officer selected for promotion to the grade of brigadier gen
 
 Waiver Authority.—(1) Subject to paragraph (2), the Secretary of Defense or the Secretary of Commerce, as applicable, may waive subsection (a)—
 
-&emsp;(A) in the case of an officer whose immediately previous assignment was in a jointduty assignment and who is thoroughly familiar with joint matters;
+&emsp;(A) in the case of an officer whose immediately previous assignment was in a joint duty assignment and who is thoroughly familiar with joint matters;
 
 &emsp;(B) when necessary for the good of the service;
 

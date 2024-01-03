@@ -16,7 +16,7 @@ The Secretary shall make in each fiscal year a grant to each health system agenc
 
 (1) Except as provided in paragraph (2), the amount of any grant under subsection (a) shall be determined by the Secretary after taking into consideration the population of the health service area for which the health systems agency is designated, the average family income of the area, and the supply of health services in the area.
 
-(2) The amount of any grant under subsection (a) to a health systems agency for any fiscal year may not exceed the product of $1 and the population of the health service area for which such agency is designated.
+(2) The amount of any grant under subsection (a) to a health systems agency for any fiscalyear may not exceed the product of $1 and the population of the health service area for which such agency is designated.
 
 #### (c) Applications; submission and approval as prerequisite; form and contents
 

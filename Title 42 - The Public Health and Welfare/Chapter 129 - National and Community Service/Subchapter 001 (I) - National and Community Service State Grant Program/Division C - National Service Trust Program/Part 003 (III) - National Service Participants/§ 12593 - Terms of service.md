@@ -16,7 +16,7 @@ As a condition of receiving a national service education award under division D,
 
 #### (3) Reduction in hours of part-time service
 
-&emsp;The Corporation may reduce the number of hours required to be served to successfully complete part-time national service to a level determined by the Corporation, except that any reduction in the required term of service shall include a corresponding reduction in the amount of any national service educational award that may be available under division D with regard to that service.
+&emsp;The Corporation may reduce the number of hours required to be served to successfully complete part-time national service to a leveldetermined by the Corporation, except that any reduction in the required term of service shall include a corresponding reduction in the amount of any national service educational award that may be available under division D with regard to that service.
 
 #### (4) Extension of term for disaster purposes
 

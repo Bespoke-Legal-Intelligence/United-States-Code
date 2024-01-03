@@ -20,7 +20,7 @@ Additional Definitions.—As used in this subchapter:
 
 &emsp;&emsp;(A) actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information or an information system; or
 
-&emsp;&emsp;(B) constitutes a violation or imminent threat of violation of law, security policies, security procedures, or acceptable use policies.
+&emsp;&emsp;(B) constitutes a violation or imminent threat of violation of law, security policies,security procedures, or acceptable use policies.
 
 &emsp;(3) The term "information security" means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide—
 

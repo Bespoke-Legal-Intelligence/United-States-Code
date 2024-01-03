@@ -4,7 +4,7 @@
 
 #### (1) Compliance with certain regulations
 
-&emsp;An applicant for assistance under section 5172 of this title (relating to repair, restoration, and replacement of damaged facilities), section 5189 of this title (relating to simplified procedure) or section 3149(c)(2) of this title shall comply with regulations prescribed by the President to assure that, with respect to any property to be replaced, restored, repaired, or constructed with such assistance, such types and extent of insurance will be obtained and maintained as may be reasonably available, adequate, and necessary, to protect against future loss to such property.
+&emsp;An applicant for assistance under section 5172 of this title (relating to repair, restoration, and replacement of damaged facilities), section 5189 of this title (relating to simplifiedprocedure) or section 3149(c)(2) of this title shall comply with regulations prescribed by the President to assure that, with respect to any property to be replaced, restored, repaired, or constructed with such assistance, such types and extent of insurance will be obtained and maintained as may be reasonably available, adequate, and necessary, to protect against future loss to such property.
 
 #### (2) Determination
 

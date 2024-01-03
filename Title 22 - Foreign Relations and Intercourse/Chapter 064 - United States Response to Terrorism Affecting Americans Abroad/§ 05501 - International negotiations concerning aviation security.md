@@ -56,7 +56,7 @@ Pub. L. 101–604, §2, Nov. 16, 1990, 104 Stat. 3066, provided that: "Congress 
 
 &emsp;"(10) the United States should work with other nations to treat as outlaws state sponsors of terrorism, isolating such sponsors politically, economically, and militarily;
 
-&emsp;"(11) the United States must develop a clear understanding that state-sponsored terrorism threatensUnited States values and interests, and that active measures are needed to counter more effectively the terrorist threat; and
+&emsp;"(11) the United States must develop a clear understanding that state-sponsored terrorism threatens United States values and interests, and that active measures are needed to counter more effectively the terrorist threat; and
 
 &emsp;"(12) the United States must have the national will to take every feasible action to prevent, counter, and respond to terrorist activities."
 

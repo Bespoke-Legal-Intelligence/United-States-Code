@@ -32,7 +32,7 @@ Section 5532 of title 5, referred to in subsec. (b)(1), was repealed by Pub. L. 
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted "Chief Operating Officer" for "Chairman of the Armed Forces Retirement Board".
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–201 amended par. (2) generally. Prior to amendment, par. (2) read as follows:"being an employee of the United States for any other purpose."
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–201 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "being an employee of the United States for any other purpose."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

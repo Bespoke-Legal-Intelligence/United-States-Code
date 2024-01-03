@@ -2,7 +2,7 @@
 
 The provisions of section 3668 of this title shall apply to any conveyances seized, proceeded against by libel, or forfeited under the provisions of section 3113 or 3669 of this title for having been used in introducing or attempting to introduce intoxicants into the Indian country or into other places where such introduction is prohibited by treaty or enactment of Congress.
 
-(Added Oct. 24, 1951, ch. 546, §2, 65 Stat. 609, §3619; renumbered §3670 and amended Pub. L. 98–473, title II, §§212(a)(1), 223(k), Oct. 12, 1984, 98 Stat. 1987, 2029.)
+(Added Oct. 24, 1951, ch. 546, §2, 65 Stat. 609, §3619; renumbered §3670 and amended Pub. L.98–473, title II, §§212(a)(1), 223(k), Oct. 12, 1984, 98 Stat. 1987, 2029.)
 
 #### <b>Editorial Notes</b>
 

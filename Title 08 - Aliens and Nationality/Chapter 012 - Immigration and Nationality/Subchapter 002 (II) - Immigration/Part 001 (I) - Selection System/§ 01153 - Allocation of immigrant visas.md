@@ -62,7 +62,7 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (C) Certain multinational executives and managers
 
-&emsp;&emsp;An alien is described in this subparagraph if the alien, in the 3 years preceding the time of the alien's application for classification and admission into the United States under this subparagraph, has been employed for at least 1 year by a firm or corporation or other legal entity or an affiliate or subsidiary thereof and the alien seeks to enter the United States in order to continue to render services to the same employer or to a subsidiary or affiliate thereof in a capacity that is managerial or executive.
+&emsp;&emsp;An alien is described in this subparagraph if the alien, in the 3 years preceding the time of the alien's application for classification and admission into the United States under this subparagraph, has been employed for at least 1 year by a firm or corporation or other legal entity or an affiliate or subsidiary thereof and the alien seeks to enter the United States in order to continue to render services to the same employer or to asubsidiary or affiliate thereof in a capacity that is managerial or executive.
 
 #### (2) Aliens who are members of the professions holding advanced degrees or aliens of exceptional ability
 
@@ -74,7 +74,7 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (i) National interest waiver
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Attorney General may, when the Attorney General deems it to be in the national interest, waive the requirements of subparagraph (A) that an alien's services in the sciences,arts, professions, or business be sought by an employer in the United States.
+&emsp;&emsp;&emsp;Subject to clause (ii), the Attorney General may, when the Attorney General deems it to be in the national interest, waive the requirements of subparagraph (A) that an alien's services in the sciences, arts, professions, or business be sought by an employer in the United States.
 
 #### (ii) Physicians working in shortage areas or veterans facilities
 
@@ -286,7 +286,7 @@ In general.—Beginning on January 1, 2027, and every 5 years thereafter, the am
 
 #### (iv) Infrastructure project
 
-&emsp;&emsp;&emsp;&emsp;The term "infrastructure project" means a capital investment project in afiled or approved business plan, which is administered by a governmental entity (such as a Federal, State, or local agency or authority) that is the job-creating entity contracting with a regional center or new commercial enterprise to receive capital investment under the regional center program described in subparagraph (E) from alien investors or the new commercial enterprise as financing for maintaining, improving, or constructing a public works project.
+&emsp;&emsp;&emsp;&emsp;The term "infrastructure project" means a capital investment project in a filed or approved business plan, which is administered by a governmental entity (such as a Federal, State, or local agency or authority) that is the job-creating entity contracting with a regional center or new commercial enterprise to receive capital investment under the regional center program described in subparagraph (E) from alien investors or the new commercial enterprise as financing for maintaining, improving, or constructing a public works project.
 
 #### (v) Job-creating entity
 
@@ -332,7 +332,7 @@ In general.—Beginning on January 1, 2027, and every 5 years thereafter, the am
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) all securities laws of each State in which securities offerings will be conducted, investment advice will be rendered, or the offerors or offerees reside;
 
-&emsp;&emsp;&emsp;&emsp;(III) attestations and information confirming that all persons involved withthe regional center meet the requirements under clauses (i) and (ii) of subparagraph (H);
+&emsp;&emsp;&emsp;&emsp;(III) attestations and information confirming that all persons involved with the regional center meet the requirements under clauses (i) and (ii) of subparagraph (H);
 
 &emsp;&emsp;&emsp;&emsp;(IV) a description of the policies and procedures in place that are reasonably designed to ensure program compliance; and
 
@@ -378,7 +378,7 @@ In general.—Beginning on January 1, 2027, and every 5 years thereafter, the am
 
 &emsp;&emsp;&emsp;&emsp;(I) require a regional center—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) to notify the Secretary, not later than 120 days before the implementation of significant proposed changes to its organizational structure, ownership, or administration, including the sale of such center, or other arrangements which would result in individuals not previously subject to the requirements under subparagraph (H) becoming involved with the regional center; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) to notify the Secretary, not later than 120 days before the implementation of significant proposed changes to its organizational structure, ownership, or administration, including the sale of such center, orother arrangements which would result in individuals not previously subject to the requirements under subparagraph (H) becoming involved with the regional center; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) if exigent circumstances are present, to provide the notice described in item (aa) to the Secretary not later than 5 business days after a change described in such item; and
 
@@ -428,13 +428,13 @@ In general.—Beginning on January 1, 2027, and every 5 years thereafter, the am
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(CC) the name and contact information of any such person, if known at the time of filing;
 
-&emsp;&emsp;&emsp;&emsp;(V) a description of the policies and procedures, such as those related to internal and external due diligence, reasonably designed to cause the regional center and any issuer of securities intended to be offered to alien investors in connection with the relevant capital investment project, to comply, as applicable, with the securities laws of the United States and the laws of the applicable States in connection with the offer, purchase, or sale of its securities; and
+&emsp;&emsp;&emsp;&emsp;(V) a description of the policies and procedures, such as those related to internal and external due diligence, reasonably designed to cause the regional center and any issuer of securities intended to be offered to alien investors in connection with the relevant capital investment project, to comply, as applicable, with the securities laws of theUnited States and the laws of the applicable States in connection with the offer, purchase, or sale of its securities; and
 
 &emsp;&emsp;&emsp;&emsp;(VI) a certification from the regional center, and any issuer of securities intended to be offered to alien investors in connection with the relevant capital investment project, that their respective agents and employees, and any parties associated with the regional center and such issuer of securities affiliated with the regional center are in compliance with the securities laws of the United States and the laws of the applicable States in connection with the offer, purchase, or sale of its securities, to the best of the certifier's knowledge, after a due diligence investigation.
 
 #### (ii) Effect of approval of a business plan for an investment in a regional center's commercial enterprise
 
-&emsp;&emsp;&emsp;The approval of an application under this subparagraph, including an approval before the date of the enactment of this subparagraph, shall be binding for purposes of the adjudication of subsequent petitions seeking classification under this paragraph by immigrants investing in thesame offering described in such application, and of petitions by the same immigrants filed under section 1186b of this title unless—
+&emsp;&emsp;&emsp;The approval of an application under this subparagraph, including an approval before the date of the enactment of this subparagraph, shall be binding for purposes of the adjudication of subsequent petitions seeking classification under this paragraph by immigrants investing in the same offering described in such application, and of petitions by the same immigrants filed under section 1186b of this title unless—
 
 &emsp;&emsp;&emsp;&emsp;(I) the applicant engaged in fraud, misrepresentation, or criminal misuse;
 
@@ -506,7 +506,7 @@ In general.—Beginning on January 1, 2027, and every 5 years thereafter, the am
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) an accounting of the aggregate capital invested in the new commercial enterprise and any job-creating entity by alien investors under this paragraph for each capital investment project being undertaken by the new commercial enterprise;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a description of how the capital described in item (aa) is being used toexecute each capital investment project in the filed business plan or plans;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a description of how the capital described in item (aa) is being used to execute each capital investment project in the filed business plan or plans;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) evidence that 100 percent of the capital described in item (aa) has been committed to each capital investment project;
 
@@ -638,7 +638,7 @@ In general.—Beginning on January 1, 2027, and every 5 years thereafter, the am
 
 &emsp;&emsp;&emsp;&emsp;(II) shall perform such criminal record checks and other background and database checks with respect to a regional center, a new commercial enterprise, and any affiliated job-creating entity, and persons involved with such entities (as described in clause (v)), as may be necessary to determine whether such entities are in compliance with clauses (i) and (ii); and
 
-&emsp;&emsp;&emsp;&emsp;(III) may, at the Secretary's discretion, require the information described to in subclause (I) and may perform the checks described in subclause (II) with respect to any job creating entity andpersons involved with such entity if there is a reasonable basis to believe such entity or person is not in compliance with clauses (i) and (ii).
+&emsp;&emsp;&emsp;&emsp;(III) may, at the Secretary's discretion, require the information described to in subclause (I) and may perform the checks described in subclause (II) with respect to any job creating entity and persons involved with such entity if there is a reasonable basis to believe such entity or person is not in compliance with clauses (i) and (ii).
 
 #### (iv) Termination
 
@@ -760,7 +760,7 @@ In general.—Beginning on January 1, 2027, and every 5 years thereafter, the am
 
 &emsp;&emsp;&emsp;&emsp;(II) any new commercial enterprise or affiliated job-creating entity or issuer of securities associated with the regional center;
 
-&emsp;&emsp;&emsp;&emsp;(III) the regional center's and new commercial enterprise's owners, officers, directors, managers, partners, agents, employees, promoters and attorneys, or similar position, as determined by the Secretary; and
+&emsp;&emsp;&emsp;&emsp;(III) the regional center's and new commercial enterprise's owners, officers,directors, managers, partners, agents, employees, promoters and attorneys, or similar position, as determined by the Secretary; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) any person under the control of the regional center, new commercial enterprise, or issuer of securities associated with the regional center who is responsible for the marketing, offering, or sale of any security offered in connection with the capital investment project.
 
@@ -772,7 +772,7 @@ In general.—Beginning on January 1, 2027, and every 5 years thereafter, the am
 
 #### (i) Establishment
 
-&emsp;&emsp;&emsp;There is established in the United States Treasury a special fund, which shall be known as the "EB–5 Integrity Fund" (referred to in this subparagraph as the "Fund"). Amounts deposited into the Fund shall be available to the Secretary ofHomeland Security until expended for the purposes set forth in clause (iii).
+&emsp;&emsp;&emsp;There is established in the United States Treasury a special fund, which shall be known as the "EB–5 Integrity Fund" (referred to in this subparagraph as the "Fund"). Amounts deposited into the Fund shall be available to the Secretary of Homeland Security until expended for the purposes set forth in clause (iii).
 
 #### (ii) Fees
 
@@ -852,7 +852,7 @@ In general.—Beginning on January 1, 2027, and every 5 years thereafter, the am
 
 #### (iv) Disclosure
 
-&emsp;&emsp;&emsp;Each petition filed under section 1154(a)(1)(H) of this title shall include adisclosure, signed by the investor, that reflects all fees, ongoing interest, and other compensation paid to any person that the regional center or new commercial enterprise knows has received, or will receive, in connection with the investment, including compensation to agents, finders, or broker dealers involved in the offering, to the extent not already specifically identified in the business plan filed under subparagraph (F).
+&emsp;&emsp;&emsp;Each petition filed under section 1154(a)(1)(H) of this title shall include a disclosure, signed by the investor, that reflects all fees, ongoing interest, and other compensation paid to any person that the regional center or new commercial enterprise knows has received, or will receive, in connection with the investment, including compensation to agents, finders, or broker dealers involved in the offering, to the extent not already specifically identified in the business plan filed under subparagraph (F).
 
 #### (L) Source of funds
 
@@ -902,7 +902,7 @@ In general.—Beginning on January 1, 2027, and every 5 years thereafter, the am
 
 #### (ii) New regional center or investment
 
-&emsp;&emsp;&emsp;The petition under section 1154(a)(1)(H) of this title of an alien described in clause (i) and the conditional permanent resident status of an alien described in clause (i) shall be terminated 180 days after notification of the termination from the program under this paragraph of a regional center, a new commercial enterprise, or a job creating entity (but not sooner than 180 days after March 15, 2022) unless—
+&emsp;&emsp;&emsp;The petition under section 1154(a)(1)(H) of this title of an alien described in clause\(i) and the conditional permanent resident status of an alien described in clause (i) shall be terminated 180 days after notification of the termination from the program under this paragraph of a regional center, a new commercial enterprise, or a job creating entity (but not sooner than 180 days after March 15, 2022) unless—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of the termination of a regional center—
 
@@ -914,7 +914,7 @@ In general.—Beginning on January 1, 2027, and every 5 years thereafter, the am
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) associates with a new commercial enterprise in good standing; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) invests additional investment capital solely to the extent necessaryto satisfy remaining job creation requirements under subparagraph (A)(ii).
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) invests additional investment capital solely to the extent necessary to satisfy remaining job creation requirements under subparagraph (A)(ii).
 
 #### (iii) Amendments
 
@@ -976,7 +976,7 @@ In general.—Beginning on January 1, 2027, and every 5 years thereafter, the am
 
 #### (iii) Debarment
 
-&emsp;&emsp;&emsp;If a regional center, new commercial enterprise, or job-creating entity has its designation or participation in the program under this paragraph terminated for reasons relating to public safety or national security, any person associated with such regional center, new commercial enterprise, or job-creating entity, including an alien investor, shall be permanently barred from future participation in the program under this paragraph if the Secretary of Homeland Security, in the Secretary's discretion, determines, by a preponderance of the evidence, that such person was a knowing participant in the conduct that led to the termination.
+&emsp;&emsp;&emsp;If a regional center, new commercial enterprise, or job-creating entity has its designation or participation in the programunder this paragraph terminated for reasons relating to public safety or national security, any person associated with such regional center, new commercial enterprise, or job-creating entity, including an alien investor, shall be permanently barred from future participation in the program under this paragraph if the Secretary of Homeland Security, in the Secretary's discretion, determines, by a preponderance of the evidence, that such person was a knowing participant in the conduct that led to the termination.
 
 #### (iv) Notice
 
@@ -984,7 +984,7 @@ In general.—Beginning on January 1, 2027, and every 5 years thereafter, the am
 
 &emsp;&emsp;&emsp;&emsp;(I) notify the relevant individual, regional center, or commercial entity of such determination;
 
-&emsp;&emsp;&emsp;&emsp;(II) deny or revoke such petition, application, or benefit or terminate the permanent resident status of the alien\(and the alien spouse and alien children of such immigrant), as of the date of such determination; and
+&emsp;&emsp;&emsp;&emsp;(II) deny or revoke such petition, application, or benefit or terminate the permanent resident status of the alien (and the alien spouse and alien children of such immigrant), as of the date of such determination; and
 
 &emsp;&emsp;&emsp;&emsp;(III) provide any United States-owned regional center, new commercial enterprise, or job creating entity an explanation for such determination unless the relevant information is classified or disclosure is otherwise prohibited under law.
 
@@ -1034,7 +1034,7 @@ In general.—Beginning on January 1, 2027, and every 5 years thereafter, the am
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each new commercial enterprise shall deposit and maintain the capital investment of each alien investor in a separate account, including amounts held in escrow.
+&emsp;&emsp;&emsp;Each new commercial enterprise shall deposit and maintain the capital investment of each alien investor in a separateaccount, including amounts held in escrow.
 
 #### (ii) Use of funds
 
@@ -1260,7 +1260,7 @@ In the case of any alien claiming in his application for an immigrant visa to be
 
 #### (g) Lists
 
-For purposes of carrying out the Secretary's responsibilities in the orderly administration of this section, the Secretary of State may make reasonable estimates of the anticipated numbers of visas to be issued during any quarter of any fiscal year within each of the categories under subsections (a), (b), and (c) and to rely upon such estimates in authorizing the issuance of visas. The Secretary of State shall terminate the registration of any alien who fails to apply for an immigrant visa within one year following notification to the alien of the availability of such visa, but the Secretary shall reinstate the registration of any such alien who establishes within 2 years following the date of notification of the availability of such visa that such failure to apply was due to circumstances beyond the alien's control.
+For purposes of carrying out the Secretary's responsibilities in the orderly administration of this section, the Secretary of State may make reasonable estimates of the anticipated numbers of visas to be issued during any quarter of any fiscal year within each of the categories under subsections (a), (b), and (c) and to rely upon such estimates in authorizing the issuance of visas. The Secretary of State shall terminate the registration of any alien who fails to applyfor an immigrant visa within one year following notification to the alien of the availability of such visa, but the Secretary shall reinstate the registration of any such alien who establishes within 2 years following the date of notification of the availability of such visa that such failure to apply was due to circumstances beyond the alien's control.
 
 #### (h) Rules for determining whether certain aliens are children
 
@@ -1314,7 +1314,7 @@ Subsec. (b)(5)(B). Pub. L. 117–103, §102(a)(2), amended subpar. (B) generally
 
 Subsec. (b)(5)(C)(i). Pub. L. 117–103, §102(a)(3)(A), substituted "$1,050,000" for "$1,000,000. The Attorney General, in consultation with the Secretary of Labor and the Secretary of State, may from time to time prescribe regulations increasing the dollar amount specified under the previous sentence".
 
-Subsec. (b)(5)(C)(ii). Pub. L. 117–103, §102(a)(3)(B), amended cl. (ii) generally. Prior to amendment, text read as follows: "The Attorney General may, in the case of investment made in a targeted employment area, specify an amount of capital required under subparagraph (A) that is less than (but not less than ½ of) the amount specified in clause (i)."
+Subsec. (b)(5)(C)(ii). Pub. L. 117–103, §102(a)(3)(B), amended cl. (ii) generally. Prior to amendment, text read as follows: "The Attorney General may, in the case of investment made in a targeted employmentarea, specify an amount of capital required under subparagraph (A) that is less than (but not less than ½ of) the amount specified in clause (i)."
 
 Subsec. (b)(5)(C)(iii). Pub. L. 117–103, §102(a)(3)(D), added cl. (iii). Former cl. (iii) redesignated (iv).
 
@@ -1334,7 +1334,7 @@ Subsec. (h)(5). Pub. L. 117–103, §102(b), added par. (5).
 
 <b>2002</b>—Subsec. (b)(5)(A). Pub. L. 107–273, §11036(a)(1)(A), substituted "enterprise (including a limited partnership)—" for "enterprise—" in introductory provisions.
 
-Subsec. (b)(5)(A)(i) to (iii). Pub. L. 107–273, §11036(a)(1)(B), (C), redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i)which read as follows: "which the alien has established,".
+Subsec. (b)(5)(A)(i) to (iii). Pub. L. 107–273, §11036(a)(1)(B), (C), redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: "which the alien has established,".
 
 Subsec. (b)(5)(B)(i). Pub. L. 107–273, §11036(a)(2), substituted "invest in" for "establish".
 
@@ -1406,11 +1406,11 @@ Subsec. (h). Pub. L. 96–212, §203(c)(8), struck out subsec. (h) which related
 
 Subsec. (a)(8). Pub. L. 95–417 inserted provisions requiring a valid adoption home-study prior to the granting of a nonpreference visa for children adopted abroad or coming for adoption by United States citizens and requiring that no other nonpreference visa be issued to an unmarried child under the age of 16 unless accompanying or following to join his natural parents.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–571, §4(1)–(3), substituted "section 1151(a)(1) or (2) of this title" for "section 1151(a)(ii) of this title" in pars. (1) to (7); made visas available, in par. (3), to qualified immigrants whose services in the professions, sciences, or arts are sought by an employer in the United States; and required, in par. (5), that the United States citizens be at least twenty-one years of age.
+<b>1976</b>—Subsec. (a). Pub. L. 94–571, §4(1)–(3), substituted "section 1151(a)(1) or (2) of this title" for "section 1151(a)(ii) of this title" in pars. (1) to (7); made visas available, in par. (3), to qualified immigrants whose services in the professions, sciences, or arts are soughtby an employer in the United States; and required, in par. (5), that the United States citizens be at least twenty-one years of age.
 
 Subsec. (e). Pub. L. 94–571, §4(4), substituted provision requiring Secretary of State to terminate the registration of an alien who fails to apply for an immigrant visa within one year following notification of the availability of such visa, including provision for reinstatement of a registration upon establishment within two years following the notification that the failure to apply was due to circumstances beyond the alien's control for prior provision for discretionary termination of the registration on a waiting list of an alien failing to evidence continued intention to apply for a visa as prescribed by regulation and inserted provision for automatic revocation of approval of a petition approved under section 1154(b) of this title upon such termination.
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–236 substituted provisions setting up preference priorities and percentage allocations of the total numerical limitation for the admission of qualified immigrants, consisting of unmarried sons or daughters of U.S. citizens (20 percent), husbands, wives, and unmarried sons or daughters of alien residents (20 percent plus any unused portion of class 1), members of professions, scientists, and artists (10 percent), married sons or daughters of U.S. citizens (10percent plus any unused portions of classes 1–3), brothers or sisters of U.S. citizens (24 percent plus any unused portions of classes 1 through 4), skilled or unskilled persons capable of filling labor shortages in the United States (10 percent), refugees (6 percent), otherwise qualified immigrants (portion not used by classes 1 through 7), and allowing a spouse or child to be given the same status and order of consideration as the spouse or parent, for provisions spelling out the preferences under the quotas based on the previous national origins quota systems.
+<b>1965</b>—Subsec. (a). Pub. L. 89–236 substituted provisions setting up preference priorities and percentage allocations of the total numerical limitation for the admission of qualified immigrants, consisting of unmarried sons or daughters of U.S. citizens (20 percent), husbands, wives, and unmarried sons or daughters of alien residents (20 percent plus any unused portion of class 1), members of professions, scientists, and artists (10 percent), married sons or daughters of U.S. citizens (10 percent plus any unused portions of classes 1–3), brothers or sisters of U.S. citizens (24 percent plus any unused portions of classes 1 through 4), skilled or unskilled persons capable of filling labor shortages in the United States (10 percent), refugees (6 percent), otherwise qualified immigrants (portion not used by classes 1 through 7), and allowing a spouse or child to be given the same status and order of consideration as the spouse or parent, for provisions spelling out the preferences under the quotas based on the previous national origins quota systems.
 
 Subsec. (b). Pub. L. 89–236 substituted provisions requiring that consideration be given applications for immigrant visas in the order in which the classes of which they are members are listed in subsec. (a), for provisions allowing issuance of quota immigrant visas under the previous national origins quota system in the order of filing in the first calendar month after receipt of notice of approval for which a quota number was available.
 
@@ -1484,7 +1484,31 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### Visa Availability for Government Employee Immigrant Visa Program
+
+Pub. L. 118–31, div. E, title LI, §5104(a), (b), (d), Dec. 22, 2023, 137 Stat. 938, 939, provided that:
+
+"(a)
+
+In General.—Beginning in fiscal year 2024, subject to subsection (b), visas shall be made available to a special immigrant described in section 101(a)(27)(D) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(D)) if a visa is not immediately available for issuance to the special immigrant under section 203(b)(4) of that Act (8 U.S.C. 1153(b)(4)).
+
+"(b)
+
+Numerical Limitations.—
+
+&emsp;"(1)
+
+Fiscal year 2024.—For fiscal year 2024, not more than 3,500 visas shall be made available under subsection (a).
+
+&emsp;"(2)
+
+Subsequent fiscal years.—For fiscal year 2025 and each fiscal year thereafter, not more than 3,000 visas shall be made available under subsection (a).
+
+"(d)
+
+Rule of Construction.—Nothing in this section \[enacting this note and amending provisions set out as a note under section 1151 of this title\] or the amendments made by this section may be construed to modify the number of visas available under section 203(b)(4) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(4)) to special immigrants described in section 101(a)(27)(D) of that Act (8 U.S.C. 1101(a)(27)(D))."
 
 #### Enhanced Pay Scale for Certain Federal Employees Administering the Employment Creation Program
 
@@ -1532,7 +1556,7 @@ Exemption From Paperwork Reduction Act.—During the 1-year period beginning on 
 
 "(e)
 
-Rule of Construction Regarding Adjudication Delays.—Nothing in this division may be construed to limit the authority of the Secretary of Homeland Security to suspend the adjudication of any application or petition under section 203(b)(5) or 216A of the Immigration and Nationality Act (8 U.S.C. 1153(b)(5) and 1186b) pending the completion of a national security or law enforcement investigation relating to such application or petition.
+Rule of Construction Regarding Adjudication Delays.—Nothing in this division may be construed to limit the authority of the Secretary of Homeland Security to suspend the adjudication of any application or petition under section 203(b)(5) or 216A of the Immigration and Nationality Act (8 U.S.C. 1153(b)(5) and 1186b)pending the completion of a national security or law enforcement investigation relating to such application or petition.
 
 "(f)
 
@@ -1572,7 +1596,7 @@ Pub. L. 106–313, title I, §106(d), Oct. 17, 2000, 114 Stat. 1254, as amended 
 
 "(1)
 
-In general.—Notwithstanding any other provision of law, the number of employment-based visas (as defined in paragraph (3)) made available for a fiscalyear (beginning with fiscal year 2001) shall be increased by the number described in paragraph (2). Visas made available under this subsection shall only be available in a fiscal year to employment-based immigrants under paragraph (1), (2), or (3) of section 203(b) of the Immigration and Nationality Act \[8 U.S.C. 1153(b)\] and any such visa that is made available due to the difference between the number of employment-based visas that were made available in fiscal year 2001, 2002, 2003, or 2004 and the number of such visas that were actually used in such fiscal year shall be available only to employment-based immigrants (and their family members accompanying or following to join under section 203(d) of such Act (8 U.S.C. 1153(d))) whose immigrant worker petitions were approved based on schedule A, as defined in section 656.5 of title 20, Code of Federal Regulations, as promulgated by the Secretary of Labor.
+In general.—Notwithstanding any other provision of law, the number of employment-based visas (as defined in paragraph (3)) made available for a fiscal year (beginning with fiscal year 2001) shall be increased by the number described in paragraph (2). Visas made available under this subsection shall only be available in a fiscal year to employment-based immigrants under paragraph (1), (2), or (3) of section 203(b) of the Immigration and Nationality Act \[8 U.S.C. 1153(b)\] and any such visa that is made available due to the difference between the number of employment-based visas that were made available in fiscal year 2001, 2002, 2003, or 2004 and the number of such visas that were actually used in such fiscal year shall be available only to employment-based immigrants (and their family members accompanying or following to join under section 203(d) of such Act (8 U.S.C. 1153(d))) whose immigrant worker petitions were approved based on schedule A, as defined in section 656.5 of title 20, Code of Federal Regulations, as promulgated by the Secretary of Labor.
 
 "(2)
 
@@ -1814,7 +1838,7 @@ Pub. L. 101–649, title I, §132, Nov. 29, 1990, 104 Stat. 5000, as amended by 
 
 "(a)
 
-In General.—Notwithstanding the numerical limitations in sections 201 and 202 of the Immigration and Nationality Act \[8 U.S.C. 1151, 1152\], there shall be made available to qualified immigrants described in subsection (b) (or in subsection (d) as the spouse or child of such an alien) 40,000 immigrant visas in each of fiscal years 1992, 1993, and 1994 and in fiscal year 1995 a number of immigrant visas equal to the number of such visas provided (but not made available) under this section in previous fiscal years. If the full number of such visas are not made available in fiscal year 1992 or 1993, the shortfall shall be added to the number of such visas to be made available under this section in the succeeding fiscal year.
+In General.—Notwithstanding the numerical limitations in sections 201 and 202 of the Immigration and Nationality Act \[8 U.S.C. 1151, 1152\], there shall be made available to qualified immigrants described in subsection (b) (or in subsection (d) as the spouse or child of such an alien) 40,000 immigrant visas in each offiscal years 1992, 1993, and 1994 and in fiscal year 1995 a number of immigrant visas equal to the number of such visas provided (but not made available) under this section in previous fiscal years. If the full number of such visas are not made available in fiscal year 1992 or 1993, the shortfall shall be added to the number of such visas to be made available under this section in the succeeding fiscal year.
 
 "(b)
 
@@ -1832,7 +1856,7 @@ Distribution of Visa Numbers.—The Secretary of State shall provide for making 
 
 "(d)
 
-Derivative Status for Spouses and Children.—A spouse or child (as defined in section 101(b)(1)(A), (B), (C), (D), or (E) of the Immigration and Nationality Act \[8 U.S.C. 1101(b)(1)(A), (B), (C), (D), (E)\]) shall, if not otherwise entitled to an immigrant status and the immediate issuance of a visa under this section, be entitled to the same status, and the sameorder of consideration, provided under this section, if accompanying, or following to join, his spouse or parent.
+Derivative Status for Spouses and Children.—A spouse or child (as defined in section 101(b)(1)(A), (B), (C), (D), or (E) of the Immigration and Nationality Act \[8 U.S.C. 1101(b)(1)(A), (B), (C), (D), (E)\]) shall, if not otherwise entitled to an immigrant status and the immediate issuance of a visa under this section, be entitled to the same status, and the same order of consideration, provided under this section, if accompanying, or following to join, his spouse or parent.
 
 "(e)
 
@@ -1926,7 +1950,7 @@ Pub. L. 86–363, §4, Sept. 22, 1959, 73 Stat. 644, providing that an alien reg
 
 #### Adopted Sons or Adopted Daughters, Preference Status
 
-Pub. L. 86–363, §5(c), Sept. 22, 1959, 73 Stat. 645, provided that aliens granted a preference pursuant to petitions approved by the Attorney General on the ground that they were the adopted sons or adopted daughters of United States citizens were to remain in that status notwithstanding the provisions of section 1 of Pub. L. 86–363 (amending this section), unless they acquired a different immigrant status pursuant to a petition approved by the Attorney General.
+Pub. L. 86–363, §5(c), Sept. 22, 1959, 73 Stat. 645, provided that aliens granted a preference pursuant to petitions approved by the Attorney General on the ground that they were the adopted sons or adopted daughters of United States citizens were to remain in that status notwithstanding the provisions of section 1 of Pub. L.86–363 (amending this section), unless they acquired a different immigrant status pursuant to a petition approved by the Attorney General.
 
 #### Special Nonquota Immigrant Visas for Refugees
 

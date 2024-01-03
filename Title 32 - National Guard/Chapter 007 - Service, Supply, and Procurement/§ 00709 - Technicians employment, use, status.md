@@ -6,7 +6,7 @@
 
 &emsp;(2) the maintenance and repair of supplies issued to the National Guard or the armed forces; and
 
-&emsp;(3) the performance of the following additional duties to the extent that the performance of those duties does not interfere withthe performance of the duties described by paragraphs (1) and (2):
+&emsp;(3) the performance of the following additional duties to the extent that the performance of those duties does not interfere with the performance of the duties described by paragraphs (1) and (2):
 
 &emsp;&emsp;(A) Support of operations or missions undertaken by the technician's unit at the request of the President or the Secretary of Defense.
 
@@ -220,7 +220,7 @@ Pub. L. 90–486, §11, Aug. 13, 1968, 82 Stat. 760, provided that: "This Act \[
 
 #### Short Title
 
-Pub. L. 90–486, §1, Aug. 13, 1968, 82 Stat. 755, provided: "That this Act \[amending this section and section 715 of this title, sections 2105, 8332, 8334, and 8339 of Title 5, Government Organization and Employees, sections 3848, 3851, 8848, and 8851 of Title 10, Armed Forces, and section 418 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section\] may be cited as the 'National Guard Technicians Act of 1968'."
+Pub. L. 90–486, §1, Aug. 13, 1968, 82 Stat. 755, provided: "That this Act \[amending this section and section 715 of this title, sections 2105, 8332, 8334, and 8339 of Title 5,Government Organization and Employees, sections 3848, 3851, 8848, and 8851 of Title 10, Armed Forces, and section 418 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section\] may be cited as the 'National Guard Technicians Act of 1968'."
 
 #### Military Education for Army National Guard Civilian Technicians
 
@@ -292,7 +292,7 @@ Conditions for enrolling in a health benefits plan.—Any individual who satisfi
 
 #### Persons Employed Prior to January 1, 1969, Whose Employment Was Covered by Civil Service Retirement Provisions
 
-Pub. L. 90–486, §5(d), Aug. 13, 1968, 82 Stat. 758, provided that: "Clause (4) of subsection (a) of this section\[amending section 8332(b) of Title 5, Government Organization and Employees\] and subsections (b) and (c) of this section \[amending section 8334(c) and adding section 8339(l) of title 5\] do not apply to any person employed prior to the effective date of this Act \[see Effective Date note above\] under section 709 of title 32, United States Code, whose employment under that section was covered by subchapter III of chapter 83 of title 5, United States Code."
+Pub. L. 90–486, §5(d), Aug. 13, 1968, 82 Stat. 758, provided that: "Clause (4) of subsection (a) of this section \[amending section 8332(b) of Title 5, Government Organization and Employees\] and subsections (b) and (c) of this section \[amending section 8334(c) and adding section 8339(l) of title 5\] do not apply to any person employed prior to the effective date of this Act \[see Effective Date note above\] under section 709 of title 32, United States Code, whose employment under that section was covered by subchapter III of chapter 83 of title 5, United States Code."
 
 #### Election To Remain Under State Retirement System; Reemployed Technicians; Continuation of Federal Contributions
 
@@ -328,13 +328,13 @@ Pub. L. 90–486, §8, Aug. 13, 1968, 82 Stat. 759, provided that:
 
 &emsp;&emsp;"(B) he is entitled to receive basic compensation at a higher rate,
 
-> &emsp;but, when any such position becomes vacant, the rate of basic compensation of any subsequent appointee thereto shall be fixed in the manner provided by applicable law and regulation.
+> &emsp;but, when any such position becomes vacant, the rate of basic compensation of any subsequent appointeethereto shall be fixed in the manner provided by applicable law and regulation.
 
 "(b) The conversion of positions and employees to appropriate grades of the General Schedule set forth in section 5332 of title 5, United States Code, and the initial adjustment of rates of basic compensation of those positions and technicians, provided for by this Act \[see Short Title note above\], shall not be considered to be transfers or promotions within the meaning of section 5334(b) of title 5, United States Code, and the regulations issued thereunder.
 
 "(c) Each technician on the effective date of this Act \[see Effective Date note above\], whose position is converted to the General Schedule set forth in section 5332 of title 5, United States Code, or to the appropriate prevailing rate schedule, as applicable, who prior to the initial adjustment of his rate of basic compensation under subsection (a) of this section, has earned, but has not been credited with, an increase in that rate, shall be granted credit for such increase before his rate of basic compensation is initially adjusted under that subsection.
 
-"(d) Each technician on the effective date of this Act whose position is converted to the General Schedule setforth in section 5332 of title 5, United States Code, or to the appropriate prevailing rate schedule, as applicable, shall be granted credit, for purposes of his first step increase under the General Schedule or prevailing rate schedule, for all satisfactory service performed by him since his last increase in compensation prior to the initial adjustment of his rate of basic compensation under subsection (a) of this section.
+"(d) Each technician on the effective date of this Act whose position is converted to the General Schedule set forth in section 5332 of title 5, United States Code, or to the appropriate prevailing rate schedule, as applicable, shall be granted credit, for purposes of his first step increase under the General Schedule or prevailing rate schedule, for all satisfactory service performed by him since his last increase in compensation prior to the initial adjustment of his rate of basic compensation under subsection (a) of this section.
 
 "(e) An increase in rate of basic compensation by reason of the enactment of subsection (a) of this section shall not be considered to be an equivalent increase with respect to step increases for technicians whose positions are converted to the General Schedule set forth in section 5332 of title 5, United States Code, or the appropriate prevailing rate schedule under authority of this section."
 

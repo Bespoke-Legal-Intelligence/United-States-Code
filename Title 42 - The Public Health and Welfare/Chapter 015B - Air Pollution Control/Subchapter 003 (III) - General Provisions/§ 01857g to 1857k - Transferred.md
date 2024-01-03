@@ -22,7 +22,7 @@ Section 1857h–6, act July 4, 1955, ch. 360, title III, §308, as added Dec. 31
 
 Section 1857h–7, act July 14, 1955, ch. 360, title III, §309, as added Dec. 31, 1970, Pub. L. 91–604, §12(a), 84 Stat. 1709, which related to policy review, was transferred to section 7609 of this title.
 
-Section 1857i, act July 14, 1955, ch. 360, title III, §310, formerly §10, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 401; renumbered title III, §303, Oct. 20, 1965, Pub. L. 89–272, title I, §101(4), 79 Stat. 992; amended Nov.21, 1967, Pub. L. 90–148, §2, 81 Stat. 505; renumbered §310 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713, which related to application to other laws and nonduplication of appropriations, was transferred to section 7610 of this title.
+Section 1857i, act July 14, 1955, ch. 360, title III, §310, formerly §10, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 401; renumbered title III, §303, Oct. 20, 1965, Pub. L. 89–272, title I, §101(4), 79 Stat. 992; amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 505; renumbered §310 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713, which related to application to other laws and nonduplication of appropriations, was transferred to section 7610 of this title.
 
 Section 1857j, act July 14, 1955, ch. 360, title III, §311, formerly §11, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 401; renumbered title III, §304, Oct. 20, 1965, Pub. L. 89–272, title I, §101(4), 79 Stat. 992; amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 505; renumbered §311 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713, which related to records and audits, was transferred to section 7611 of this title.
 

@@ -16,7 +16,7 @@ Notwithstanding subsection (a), the Secretary may award a grant to an eligible i
 
 Each eligible institution that received a grant under this part for a 5-year period shall not be eligible to receive an additional grant under this part until 2 years after the date on which the 5-year grant period terminates.
 
-(Pub. L. 89–329, title III, §313, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1294; amended Pub. L. 102–325, title III, §302(c), July 23, 1992, 106 Stat. 472; Pub. L. 103–208,§2(a)(6), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §§301(c)(3), 303(c), Oct. 7, 1998, 112 Stat. 1637, 1639.)
+(Pub. L. 89–329, title III, §313, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1294; amended Pub. L. 102–325, title III, §302(c), July 23, 1992, 106 Stat. 472; Pub. L. 103–208, §2(a)(6), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §§301(c)(3), 303(c), Oct. 7, 1998, 112 Stat. 1637, 1639.)
 
 #### <b>Editorial Notes</b>
 

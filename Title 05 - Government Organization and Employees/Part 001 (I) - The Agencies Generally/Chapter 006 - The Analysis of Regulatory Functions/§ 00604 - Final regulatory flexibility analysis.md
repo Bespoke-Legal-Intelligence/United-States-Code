@@ -16,7 +16,7 @@
 
 &emsp;(6) <sup>1</sup> for a covered agency, as defined in section 609(d)(2), a description of the steps the agency has taken to minimize any additional cost of credit for small entities.
 
-(b) The agency shall make copies of the final regulatory flexibility analysis available to members of the public and shall publish in the Federal Register such analysis or a summary thereof.
+(b) The agency shall make copies of the final regulatory flexibility analysis available tomembers of the public and shall publish in the Federal Register such analysis or a summary thereof.
 
 (Added Pub. L. 96–354, §3(a), Sept. 19, 1980, 94 Stat. 1167; amended Pub. L. 104–121, title II, §241(b), Mar. 29, 1996, 110 Stat. 864; Pub. L. 111–203, title X, §1100G(c), July 21, 2010, 124 Stat. 2113; Pub. L. 111–240, title I, §1601, Sept. 27, 2010, 124 Stat. 2551.)
 

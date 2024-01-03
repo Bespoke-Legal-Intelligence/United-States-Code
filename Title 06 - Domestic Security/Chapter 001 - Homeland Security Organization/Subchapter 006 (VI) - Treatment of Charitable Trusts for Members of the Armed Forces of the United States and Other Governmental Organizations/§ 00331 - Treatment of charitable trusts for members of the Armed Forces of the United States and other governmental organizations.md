@@ -42,7 +42,7 @@ The requirements described in this subsection are as follows:
 
 &emsp;&emsp;(D) officers, employees, or contract employees of the United States Government,
 
-> &emsp;whose deaths occur in the line of duty and arise out of terrorist attacks, military operations, intelligence operations, or law enforcement operations or accidents connected withactivities occurring after September 11, 2001, and related to domestic or foreign efforts to curb international terrorism, including the Authorization for Use of Military Force (Public Law 107–40; 115 Stat. 224).
+> &emsp;whose deaths occur in the line of duty and arise out of terrorist attacks, military operations, intelligence operations, or law enforcement operations or accidents connected with activities occurring after September 11, 2001, and related to domestic or foreign efforts to curb international terrorism, including the Authorization for Use of Military Force (Public Law 107–40; 115 Stat. 224).
 
 &emsp;(2) Other than funds or donations reasonably necessary to establish a trust, not more than 15 percent of all funds or donations (or 15 percent of annual earnings on funds invested in a private foundation) may be used for administrative purposes.
 

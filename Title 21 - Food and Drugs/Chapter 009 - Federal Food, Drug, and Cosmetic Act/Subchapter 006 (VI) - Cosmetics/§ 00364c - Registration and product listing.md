@@ -84,7 +84,7 @@
 
 #### (5) Updates to content
 
-&emsp;A responsible person that is required to submit a cosmetic product listing shall submit any updates to such cosmetic product listing annually.
+&emsp;A responsible person that is required to submit a cosmetic product listing shall submitany updates to such cosmetic product listing annually.
 
 #### (6) Submission
 

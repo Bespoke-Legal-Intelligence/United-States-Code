@@ -10,7 +10,7 @@
 
 (b) The Office, after consulting the agencies to the extent considered necessary, shall revise, supplement, or abolish existing standards, or prepare new standards, so that, as nearly as may be practicable, positions existing at any given time will be covered by current published standards.
 
-(c) The official class titles established under subsection (a)(2) of this section shall be used for personnel, budget, and fiscal purposes. However, this requirement does not prevent the use of organizational or other titles for internal administration, public convenience, law enforcement, or similar purposes.
+(c) The official class titles established under subsection (a)(2) of this section shall be used forpersonnel, budget, and fiscal purposes. However, this requirement does not prevent the use of organizational or other titles for internal administration, public convenience, law enforcement, or similar purposes.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 452; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
 

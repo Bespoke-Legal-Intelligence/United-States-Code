@@ -240,7 +240,7 @@ Pub. L. 100–456, div. A, title VI, §631(d), Sept. 29, 1988, 102 Stat. 1985, p
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–94 applicable only in cases of injuries incurred or aggravated on or after Sept. 24,1983, see section 1012(c) of Pub. L. 98–94, set out as an Effective Date note under section 1074a of Title 10, Armed Forces.
+Amendment by Pub. L. 98–94 applicable only in cases of injuries incurred or aggravated on or after Sept. 24, 1983, see section 1012(c) of Pub. L. 98–94, set out as an Effective Date note under section 1074a of Title 10, Armed Forces.
 
 #### Effective Date of 1980 Amendment
 

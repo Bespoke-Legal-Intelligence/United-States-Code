@@ -16,13 +16,13 @@ There is established the United States Commission on International Religious Fre
 
 &emsp;&emsp;&emsp;(i) Three members of the Commission shall be appointed by the President.
 
-&emsp;&emsp;&emsp;(ii) Three members of the Commission shall be appointed by the President pro tempore of the Senate, of which two of the members shall be appointed upon the recommendation of the leader in the Senate of the political party that is not the political party of the President, and of which one of the members shall be appointed upon the recommendation of the leader in the Senate of the other political party.
+&emsp;&emsp;&emsp;(ii) Three members of the Commission shall be appointed by the President pro tempore of the Senate, of which two of the members shall be appointed upon the recommendation of the leader in the Senate of the political party that is not the political party of the President, and of which one of the members shall be appointedupon the recommendation of the leader in the Senate of the other political party.
 
 &emsp;&emsp;&emsp;(iii) Three members of the Commission shall be appointed by the Speaker of the House of Representatives, of which two of the members shall be appointed upon the recommendation of the leader in the House of the political party that is not the political party of the President, and of which one of the members shall be appointed upon the recommendation of the leader in the House of the other political party.
 
 #### (2) Selection
 
-&emsp;Members of the Commission shall be selected among distinguished individuals noted for their knowledge and experience in fields relevant to the issue of international religiousfreedom, including foreign affairs, direct experience abroad, human rights, and international law.
+&emsp;Members of the Commission shall be selected among distinguished individuals noted for their knowledge and experience in fields relevant to the issue of international religious freedom, including foreign affairs, direct experience abroad, human rights, and international law.
 
 #### (3) Time of appointment
 
@@ -86,7 +86,7 @@ The Administrator of General Services shall provide to the Commission on a reimb
 
 #### (i) Funding
 
-Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees ofagencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission. Members of the Commission shall comply with the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the "Federal Travel Regulation") and the Department of State Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements.
+Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission. Members of the Commission shall comply with the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the "Federal Travel Regulation") and the Department of State Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements.
 
 #### (j) Removal
 
@@ -132,7 +132,7 @@ Subsec. (b)(1)(B)(iii). Pub. L. 106–55, §2(b), substituted "Three" for "three
 
 Subsec. (c). Pub. L. 106–55, §1(a)(1), designated existing provisions as par. (1) and inserted par. heading.
 
-Subsec. (h). Pub. L. 106–55, §1(a)(3), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: "The Secretary of State shall assist the Commission by providing to the Commission such staff and administrative services of the Office as may be necessary and appropriate for the Commission to perform its functions. Any employee of the executive branch of Government may be detailed to the Commission without reimbursement to the agency of that employee and such detail shall be without interruption or loss of civil service status or privilege."
+Subsec. (h). Pub. L. 106–55, §1(a)(3), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: "The Secretary of State shall assist the Commission by providing to the Commission such staff and administrative services of the Office as may be necessary and appropriate for the Commissionto perform its functions. Any employee of the executive branch of Government may be detailed to the Commission without reimbursement to the agency of that employee and such detail shall be without interruption or loss of civil service status or privilege."
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

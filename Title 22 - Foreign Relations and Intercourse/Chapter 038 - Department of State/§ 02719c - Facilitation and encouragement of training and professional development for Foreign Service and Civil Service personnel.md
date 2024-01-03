@@ -26,7 +26,7 @@ It is the sense of Congress that recognition throughout the Department of the va
 
 #### (2) Civil Service
 
-&emsp;The Secretary shall take appropriate action to ensure that the performance standards for any job performance appraisal system for Civil Service personnel of the Department afford equal consideration to the undertaking of training, professional development, and foreign language acquisition and retentionamong any other objective criteria in the evaluation of the job performance of such personnel.
+&emsp;The Secretary shall take appropriate action to ensure that the performance standards for any job performance appraisal system for Civil Service personnel of the Department afford equal consideration to the undertaking of training, professional development, and foreign language acquisition and retention among any other objective criteria in the evaluation of the job performance of such personnel.
 
 #### (d) Response to subordinate training and development needs in evaluation of supervisor performance
 

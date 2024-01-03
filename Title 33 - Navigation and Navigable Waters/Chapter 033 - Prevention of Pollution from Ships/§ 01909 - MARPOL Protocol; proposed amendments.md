@@ -18,7 +18,7 @@ Following consultation with the Secretary, the Secretary of State may make a dec
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–280 substituted "Annex I, II, V, or VI" for "Annex I, II, or V" and inserted "or the Administrator as provided for in this chapter," after "Secretary,".
+<b>2008</b>—Subsec. (b). Pub. L. 110–280 substituted "Annex I, II, V, or VI" for "Annex I, II, or V" and inserted "orthe Administrator as provided for in this chapter," after "Secretary,".
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–220, §2106(1), substituted "International Maritime Organization" for "Inter-Governmental Maritime Consultative Organization".
 

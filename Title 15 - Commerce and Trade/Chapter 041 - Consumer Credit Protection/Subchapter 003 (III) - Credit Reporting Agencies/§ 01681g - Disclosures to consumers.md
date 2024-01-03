@@ -202,7 +202,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (13) Effectiveness study
 
-&emsp;Not later than 18 months after December 4, 2003, the Comptroller General of the UnitedStates shall submit a report to Congress assessing the effectiveness of this provision.
+&emsp;Not later than 18 months after December 4, 2003, the Comptroller General of the United States shall submit a report to Congress assessing the effectiveness of this provision.
 
 #### (f) Disclosure of credit scores
 
@@ -232,7 +232,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 &emsp;&emsp;&emsp;(ii) does not include—
 
-&emsp;&emsp;&emsp;&emsp;(I) any mortgage score or rating of an automated underwriting system that considers one or more factors in addition to credit information, including the loan to value ratio, the amount of down payment, or the financial assets of a consumer; or
+&emsp;&emsp;&emsp;&emsp;(I) any mortgage score or rating of an automated underwriting system thatconsiders one or more factors in addition to credit information, including the loan to value ratio, the amount of down payment, or the financial assets of a consumer; or
 
 &emsp;&emsp;&emsp;&emsp;(II) any other elements of the underwriting process or underwriting decision.
 
@@ -286,7 +286,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (1) In general
 
-&emsp;Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f), in connection with an application initiated or sought by a consumer for aclosed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the "lender") shall provide the following to the consumer as soon as reasonably practicable:
+&emsp;Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f), in connection with an application initiated or sought by a consumer for a closed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the "lender") shall provide the following to the consumer as soon as reasonably practicable:
 
 #### (A) Information required under subsection (f)
 
@@ -384,7 +384,7 @@ Section 211(c) of the Fair and Accurate Credit Transactions Act of 2003, referre
 
 Section 1681a(w) of this title, referred to in subsec. (c)(1)(B)(vi), was redesignated section 1681a(x) of this title by Pub. L. 111–203, title X, §1088(a)(1), July 21, 2010, 124 Stat. 2086.
 
-Public Law 106–102, referred to in subsec. (e)(9)(A), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. Subtitle A of title V of the Act is classified principally to subchapter I (§ 6801 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+Public Law 106–102, referred to in subsec. (e)(9)(A), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known asthe Gramm-Leach-Bliley Act. Subtitle A of title V of the Act is classified principally to subchapter I (§ 6801 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 #### Amendments
 
@@ -460,7 +460,7 @@ Simplified disclosure.—Not later than 90 days after the date of enactment of t
 
 "(3)
 
-Goals.—The Federal Trade Commission shall take appropriate action to assure that the goals ofcomprehensibility and standardization are achieved in accordance with paragraph (2)."
+Goals.—The Federal Trade Commission shall take appropriate action to assure that the goals of comprehensibility and standardization are achieved in accordance with paragraph (2)."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

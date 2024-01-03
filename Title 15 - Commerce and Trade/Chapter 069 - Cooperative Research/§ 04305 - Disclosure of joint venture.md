@@ -18,7 +18,7 @@
 
 &emsp;(B) documents showing the nature and scope of such activity.
 
-> Any standards development organization may file additional disclosure notifications pursuant to this section as are appropriate to extend the protections of section 4303 of this title to standards development activities that are not covered by the initial filing or that have changed significantly since the initial filing.
+> Any standards development organization may file additional disclosure notifications pursuantto this section as are appropriate to extend the protections of section 4303 of this title to standards development activities that are not covered by the initial filing or that have changed significantly since the initial filing.
 
 #### (b) Publication; Federal Register; notice
 
@@ -86,7 +86,7 @@ Pub. L. 103–42, §4, June 10, 1993, 107 Stat. 120, provided that:
 
 "(a)
 
-Purpose.—The purpose of the reports required by this section is to inform Congress and the American people of the effect of the National Cooperative Research and Production Act of 1993 \[15 U.S.C. 4301 et seq.\] on the competitiveness of the United States in key technological areas of research, development, and production.
+Purpose.—The purpose of the reports required by this section is to inform Congress and the American people of the effect of the National Cooperative Research and Production Act of 1993 \[15 U.S.C. 4301 et seq.\] on the competitiveness of the United States in keytechnological areas of research, development, and production.
 
 "(b)
 

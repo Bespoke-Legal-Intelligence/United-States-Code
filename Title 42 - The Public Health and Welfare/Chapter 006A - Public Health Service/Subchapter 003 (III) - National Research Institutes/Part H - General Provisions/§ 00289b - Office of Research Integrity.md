@@ -4,7 +4,7 @@
 
 #### (1) Establishment of Office
 
-&emsp;Not later than 90 days after June 10, 1993, the Secretary shall establish an office to be known as the Office of Research Integrity (referred to in this section as the "Office"), which shall beestablished as an independent entity in the Department of Health and Human Services.
+&emsp;Not later than 90 days after June 10, 1993, the Secretary shall establish an office to be known as the Office of Research Integrity (referred to in this section as the "Office"), which shall be established as an independent entity in the Department of Health and Human Services.
 
 #### (2) Appointment of Director
 

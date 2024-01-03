@@ -4,7 +4,7 @@ The Secretary shall prescribe regulations for the immediate investigation of mar
 
 &emsp;(1) the cause of the casualty, including the cause of any death;
 
-&emsp;(2) whether an act of misconduct, incompetence, negligence, unskillfulness, or willful violation of law committed by any individual licensed, certificated, or documented under part E of this subtitle has contributed to the cause of the casualty, or to a death involved in the casualty, so that appropriate remedial action under chapter 77 of this title may be taken;
+&emsp;(2) whether an act of misconduct, incompetence, negligence, unskillfulness, or willful violation of law committed by any individual licensed, certificated, or documented underpart E of this subtitle has contributed to the cause of the casualty, or to a death involved in the casualty, so that appropriate remedial action under chapter 77 of this title may be taken;
 
 &emsp;(3) whether an act of misconduct, incompetence, negligence, unskillfulness, or willful violation of law committed by any person, including an officer, employee, or member of the Coast Guard, contributed to the cause of the casualty, or to a death involved in the casualty;
 

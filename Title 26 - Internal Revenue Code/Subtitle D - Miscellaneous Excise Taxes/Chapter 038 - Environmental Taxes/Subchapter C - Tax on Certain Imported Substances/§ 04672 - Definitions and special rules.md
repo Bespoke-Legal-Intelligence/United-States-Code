@@ -52,7 +52,7 @@ For purposes of this subchapter—
 
 #### (4) Modifications to list
 
-&emsp;The Secretary shall add to the list under paragraph (3) substances which meet eitherthe weight or value tests of paragraph (2)(B) and may remove from such list only substances which meet neither of such tests.
+&emsp;The Secretary shall add to the list under paragraph (3) substances which meet either the weight or value tests of paragraph (2)(B) and may remove from such list only substances which meet neither of such tests.
 
 #### (b) Other definitions
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 117–58 effective July 1, 2022, see section 80201(d) of Pu
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Superfund Revenue Act of 1986, Pub. L. 99–499, title V, to which it relates, see section 2001(e) of Pub. L. 100–647, set out as a note under section 56 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Superfund Revenue Act of 1986, Pub. L. 99–499, titleV, to which it relates, see section 2001(e) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
 #### Effective Date
 

@@ -116,7 +116,7 @@ The activities of a Center shall include—
 
 #### (1) In general
 
-&emsp;An eligible entity shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;An eligible entity shall submit an application to the Secretary at such time, in suchmanner, and containing such information as the Secretary may require.
 
 #### (2) Program description
 
@@ -154,7 +154,7 @@ The activities of a Center shall include—
 
 #### (4) Legal rights
 
-&emsp;Each applicant shall include in the application a proposal for the allocation of the legalrights associated with any intellectual property which may result from the activities of the Center.
+&emsp;Each applicant shall include in the application a proposal for the allocation of the legal rights associated with any intellectual property which may result from the activities of the Center.
 
 #### (5) Merit review of applications
 
@@ -364,7 +364,7 @@ Not later than 180 days after January 6, 2017, the Secretary shall implement and
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The MEP Advisory Board shall consist of not fewer than 10 members appointed bythe Director and broadly representative of stakeholders.
+&emsp;&emsp;&emsp;The MEP Advisory Board shall consist of not fewer than 10 members appointed by the Director and broadly representative of stakeholders.
 
 #### (ii) Requirements
 
@@ -460,7 +460,7 @@ Subsec. (a)(9) to (11). Pub. L. 117–167, §10255(5), added pars. (9) to (11).
 
 Subsec. (c)(4). Pub. L. 117–167, §10252(b)(2), inserted "United States-based" before "industrial".
 
-Subsec. (c)(6). Pub. L. 117–167, §10252(d)(1)(A), substituted "secondary schools, community colleges, and area career and technical education schools, includingthose in underserved and rural communities," for "community colleges and area career and technical education schools".
+Subsec. (c)(6). Pub. L. 117–167, §10252(d)(1)(A), substituted "secondary schools, community colleges, and area career and technical education schools, including those in underserved and rural communities," for "community colleges and area career and technical education schools".
 
 Subsec. (c)(7). Pub. L. 117–167, §10252(d)(1)(B), substituted "local secondary schools and local colleges, including historically Black colleges and universities, Tribal Colleges or Universities, minority-serving institutions, community colleges, and secondary schools and colleges in underserved and rural communities," for "and local colleges" and inserted "or other applied learning opportunities" after "apprenticeships".
 
@@ -532,7 +532,7 @@ Subsec. (e). Pub. L. 110–69, §3003(d), added subsec. (e).
 
 Subsec. (f). Pub. L. 110–69, §3003(e), added subsec. (f).
 
-<b>1998</b>—Subsec. (c)(5). Pub. L. 105–309 substituted ". After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section afterthe sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program." for ", which are designed to ensure that the Center no longer needs financial support from the Institute by the seventh year. In no event shall funding for a Center be provided by the Department of Commerce after the sixth year of the operation of a Center."
+<b>1998</b>—Subsec. (c)(5). Pub. L. 105–309 substituted ". After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section after the sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program." for ", which are designed to ensure that the Center no longer needs financial support from the Institute by the seventh year. In no event shall funding for a Center be provided by the Department of Commerce after the sixth year of the operation of a Center."
 
 <b>1992</b>—Subsec. (c)(6). Pub. L. 102–245, §105(e)(1), inserted before period at end "except for contracts for such specific technology extension or transfer services as may be specified by statute or by the Director".
 
@@ -566,7 +566,7 @@ Pub. L. 111–358, title VII, §702, Jan. 4, 2011, 124 Stat. 4041, provided that
 
 &emsp;"(3) Manufacturing is an increasingly important part of the construction sector as the industry moves to the use of more components and factory built sub-assemblies.
 
-&emsp;"(4) Construction practices must become more efficient and precise if the United States is to construct and renovate its building stock to reduce related carbon emissions to levels that are consistent with combating global warming.
+&emsp;"(4) Construction practices must become more efficient and precise if the United States is to constructand renovate its building stock to reduce related carbon emissions to levels that are consistent with combating global warming.
 
 &emsp;"(5) Many companies involved in construction are small, without access to innovative manufacturing techniques, and could benefit from the type of training and business analysis activities that the Hollings Manufacturing Extension Partnership routinely provides to the Nation's manufacturers and their supply chains.
 

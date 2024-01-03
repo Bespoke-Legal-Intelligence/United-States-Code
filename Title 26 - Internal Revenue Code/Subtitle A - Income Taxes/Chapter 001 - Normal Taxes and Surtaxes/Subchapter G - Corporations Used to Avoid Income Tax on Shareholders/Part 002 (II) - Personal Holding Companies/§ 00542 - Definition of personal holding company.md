@@ -16,7 +16,7 @@ For purposes of this subtitle, the term "personal holding company" means any cor
 
 #### (1) General rule
 
-&emsp;In the case of an affiliated group of corporations filing or required to file a consolidated return under section 1501 for any taxable year, the adjusted ordinary gross income requirement of subsection (a)(1) of this section shall, except as provided in paragraphs (2) and (3), be applied for such year with respect to the consolidated adjusted ordinary gross income and the consolidated personal holding company income of the affiliated group. No member of such an affiliated group shall be considered to meet such adjusted ordinary gross income requirement unless the affiliated group meets such requirement.
+&emsp;In the case of an affiliated group of corporations filing or required to file a consolidatedreturn under section 1501 for any taxable year, the adjusted ordinary gross income requirement of subsection (a)(1) of this section shall, except as provided in paragraphs (2) and (3), be applied for such year with respect to the consolidated adjusted ordinary gross income and the consolidated personal holding company income of the affiliated group. No member of such an affiliated group shall be considered to meet such adjusted ordinary gross income requirement unless the affiliated group meets such requirement.
 
 #### (2) Ineligible affiliated group
 
@@ -170,7 +170,7 @@ Subsec. (c)(8). Pub. L. 94–455, §1901(a)(76)(D), inserted "(15 U.S.C. 661 and
 
 <b>1969</b>—Subsec. (a)(2). Pub. L. 91–172 substituted "section 401(a), 501(c)(17), or 509(a)" for "section 503(b)" in the list of sections that contain the description of organizations that may be considered as individuals for the purpose of establishing stock ownership, and struck out provisions which would have kept an organization or trust created before July 1, 1950, from being so designated if it had been denied exemption under section 504 or an unlimited charitable deduction under section 681(c) of this title.
 
-<b>1966</b>—Subsec. (c)(7). Pub. L. 89–809 substituted requirement that the foreign corporation be other than a corporation which has income to which section 543(a)(7)applies for the taxable year for requirement that the foreign corporation's gross income from sources within the United States for the period specified in section 861(a)(2)(B) be less than 50 percent of its total gross income from all sources, and expanded the devices included in methods of indirect ownership to encompass foreign estates, foreign trusts, and foreign partnerships.
+<b>1966</b>—Subsec. (c)(7). Pub. L. 89–809 substituted requirement that the foreign corporation be other than a corporation which has income to which section 543(a)(7) applies for the taxable year for requirement that the foreign corporation's gross income from sources within the United States for the period specified in section 861(a)(2)(B) be less than 50 percent of its total gross income from all sources, and expanded the devices included in methods of indirect ownership to encompass foreign estates, foreign trusts, and foreign partnerships.
 
 <b>1964</b>—Subsec. (a)(1). Pub. L. 88–272, §225(b), substituted "60 percent of its adjusted ordinary gross income (as defined in section 543(b)(2)) for the taxable year is personal holding company income (as defined in section 543(a))" for "80 percent of its gross income for the taxable year is personal holding company income as defined in section 543".
 

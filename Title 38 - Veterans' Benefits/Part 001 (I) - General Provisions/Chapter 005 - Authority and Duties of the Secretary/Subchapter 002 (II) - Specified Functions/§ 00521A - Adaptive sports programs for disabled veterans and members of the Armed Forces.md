@@ -54,7 +54,7 @@ Use of Funds.—(1) An eligible entity that receives a grant under this section,
 
 &emsp;(C) coordination, Paralympic classification of athletes, athlete assessment, sport-specific training techniques, program development (including programs at the local level), sports equipment, supplies, program evaluation, and other activities related to the implementation and operation of the program.
 
-(4)(A) At the discretion of the Secretary, an eligible entity that receives a grant under thissection may use a portion of the grant for the administrative expenses and personnel expenses of the eligible entity. The amount that may be used for such expenses may not exceed—
+(4)(A) At the discretion of the Secretary, an eligible entity that receives a grant under this section may use a portion of the grant for the administrative expenses and personnel expenses of the eligible entity. The amount that may be used for such expenses may not exceed—
 
 &emsp;(i) in the case of a grant made for adaptive sports opportunities taking place during fiscal year 2014, 10 percent of the total amount of the grant;
 

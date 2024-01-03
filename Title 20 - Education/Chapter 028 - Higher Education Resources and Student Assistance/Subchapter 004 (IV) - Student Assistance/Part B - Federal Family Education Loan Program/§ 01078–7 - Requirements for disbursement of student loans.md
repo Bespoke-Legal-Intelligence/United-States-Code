@@ -12,7 +12,7 @@
 
 #### (3) Special rule
 
-&emsp;An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months. Notwithstanding section 422(d) ofthe Higher Education Amendments of 1998, this paragraph shall be effective beginning on February 8, 2006.
+&emsp;An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months. Notwithstanding section 422(d) of the Higher Education Amendments of 1998, this paragraph shall be effective beginning on February 8, 2006.
 
 #### (4) Amendment to special rule
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective and Termination Dates of 1998 Amendment
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 103–66 effective with respect to loans for which the firs
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title III, §3003(b), Nov. 5, 1990, 104 Stat. 1388–26, provided that: "The amendment made bythis section \[amending this section\] shall be effective for loans made on or after the date of enactment of this Act \[Nov. 5, 1990\] to cover the cost of instruction for periods of enrollment beginning on or after January 1, 1991."
+Pub. L. 101–508, title III, §3003(b), Nov. 5, 1990, 104 Stat. 1388–26, provided that: "The amendment made by this section \[amending this section\] shall be effective for loans made on or after the date of enactment of this Act \[Nov. 5, 1990\] to cover the cost of instruction for periods of enrollment beginning on or after January 1, 1991."
 
 #### Effective Date
 

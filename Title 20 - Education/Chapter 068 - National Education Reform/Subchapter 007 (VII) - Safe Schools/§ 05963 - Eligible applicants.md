@@ -24,7 +24,7 @@ To be eligible to receive a grant under this subchapter, a local educational age
 
 In awarding grants under this subchapter, the Secretary shall give priority to a local educational agency that submits an application that assures a strong local commitment to the projects or activities assisted under this subchapter, such as—
 
-&emsp;(1) the formation of partnerships among the local educational agency, a community-basedorganization, a nonprofit organization with a demonstrated commitment to or expertise in developing education programs or providing educational services to students or the public, a local law enforcement agency, or any combination thereof; and
+&emsp;(1) the formation of partnerships among the local educational agency, a community-based organization, a nonprofit organization with a demonstrated commitment to or expertise in developing education programs or providing educational services to students or the public, a local law enforcement agency, or any combination thereof; and
 
 &emsp;(2) a high level of youth participation in such projects or activities.
 

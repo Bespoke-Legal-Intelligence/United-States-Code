@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—In addition to amounts made available under section 14501, there is authorizedto be appropriated to the Appalachian Regional Commission to carry out this subtitle—
+In General.—In addition to amounts made available under section 14501, there is authorized to be appropriated to the Appalachian Regional Commission to carry out this subtitle—
 
 &emsp;(1) $87,000,000 for fiscal year 2008;
 

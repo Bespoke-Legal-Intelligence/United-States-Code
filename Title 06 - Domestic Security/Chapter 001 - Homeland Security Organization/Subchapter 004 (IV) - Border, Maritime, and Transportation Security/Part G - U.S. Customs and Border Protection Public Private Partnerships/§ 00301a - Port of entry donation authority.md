@@ -54,7 +54,7 @@
 
 #### (3) Limitation on real property donations
 
-&emsp;A donation of real property under this subsection at an existing land port of entry ownedby the General Services Administration may only be accepted by the Administrator of General Services.
+&emsp;A donation of real property under this subsection at an existing land port of entry owned by the General Services Administration may only be accepted by the Administrator of General Services.
 
 #### (4) Sunset
 
@@ -148,7 +148,7 @@
 
 #### (4) Supplemental funding
 
-&emsp;Except as required under section 3307 of title 40, real property donations to the Administrator of General Services made pursuant to subsection <sup>1</sup> (a) and <sup>1</sup> (b) at a GSA-owned land port of entry may be used in addition to anyother funding for such purpose, including appropriated funds, property, or services.
+&emsp;Except as required under section 3307 of title 40, real property donations to the Administrator of General Services made pursuant to subsection <sup>1</sup> (a) and <sup>1</sup> (b) at a GSA-owned land port of entry may be used in addition to any other funding for such purpose, including appropriated funds, property, or services.
 
 #### (5) Return of donations
 
@@ -232,7 +232,7 @@ Subsec. (b)(1)(C)(ii). Pub. L. 117–81, §6410(2)(b)(ii), amended cl. (ii) genr
 
 Subsec. (b)(4)(A). Pub. L. 117–81, §6410(2)(C)(i), substituted "terminate on December 31, 2026." for "terminate on the date that is December 16, 2021.".
 
-Subsec. (b)(4)(B). Pub. L. 117–81, §6410(2)(C)(ii), substituted "a proposal accepted for consideration by U.S.Customs and Border Protection or the General Services Administration pursuant to this section or a prior pilot program prior to such termination date" for "carrying out the terms of an agreement under this subsection if such agreement is entered into before such termination date".
+Subsec. (b)(4)(B). Pub. L. 117–81, §6410(2)(C)(ii), substituted "a proposal accepted for consideration by U.S. Customs and Border Protection or the General Services Administration pursuant to this section or a prior pilot program prior to such termination date" for "carrying out the terms of an agreement under this subsection if such agreement is entered into before such termination date".
 
 Subsec. (c)(6)(B). Pub. L. 117–81, §6410(3), substituted cls. (i) and (ii) for "the donation will not be used for the construction of a detention facility or a border fence or wall."
 

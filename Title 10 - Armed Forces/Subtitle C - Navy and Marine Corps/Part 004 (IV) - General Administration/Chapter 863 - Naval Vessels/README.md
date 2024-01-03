@@ -42,19 +42,16 @@
 | [8693\.](%C2%A7%2008693%20-%20Biennial%20report%20on%20shipbuilder%20training%20and%20the%20defense%20industrial%20base.md) | Biennial report on shipbuilder training and the defense industrial base. |
 | [8694\.](%C2%A7%2008694%20-%20Annual%20report%20on%20ship%20maintenance.md) | Annual report on ship maintenance. |
 | [8695\.](%C2%A7%2008695%20-%20Navy%20battle%20force%20ship%20assessment%20and%20requirement%20reporting.md) | Navy battle force ship assessment and requirement reporting. |
-| 8696\.<sup>1</sup> | Navy shipbuilding workforce development special incentive. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 8696\.<sup>1</sup> | Battle force ship employment, maintenance, and manning baseline plans. |
+| [8696\.](%C2%A7%2008696%20-%20Navy%20shipbuilding%20workforce%20development%20special%20incentive.md) | Navy shipbuilding workforce development special incentive. |
+| [8697\.](%C2%A7%2008697%20-%20Battle%20force%20ship%20employment%2C%20maintenance%2C%20and%20manning%20baseline%20plans.md) | Battle force ship employment, maintenance, and manning baseline plans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title XVIII, §1801(a)(39), Dec. 22, 2023, 137 Stat. 685, renumbered item 8696 "Battle force ship employment, maintenance, and manning baseline plans" as 8697. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2022</b>—Pub. L. 117–263, div. A, title I, §122(b), title X, §1026(b), Dec. 23, 2022, 136 Stat. 2443, 2767, added two items 8696.
 
@@ -122,8 +119,6 @@ Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7
 
 <b>1981</b>—Pub. L. 97–86, title IX, §911(b)(2), Dec. 1, 1981, 95 Stat. 1122, struck out item 7300 "Contracts for construction: profit limitation".
 
-<i><sup>1</sup></i><i> So in original. Two items 8696 have been enacted.</i>
-
 
 ---
 
@@ -169,5 +164,5 @@ Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7
 - [&sect; 08693 - Biennial report on shipbuilder training and the defense industrial base](%C2%A7%2008693%20-%20Biennial%20report%20on%20shipbuilder%20training%20and%20the%20defense%20industrial%20base.md)
 - [&sect; 08694 - Annual report on ship maintenance](%C2%A7%2008694%20-%20Annual%20report%20on%20ship%20maintenance.md)
 - [&sect; 08695 - Navy battle force ship assessment and requirement reporting](%C2%A7%2008695%20-%20Navy%20battle%20force%20ship%20assessment%20and%20requirement%20reporting.md)
-- [&sect; 08696 - 1 Navy shipbuilding workforce development special incentive](%C2%A7%2008696%20-%201%20Navy%20shipbuilding%20workforce%20development%20special%20incentive.md)
-- [&sect; 08696 - 1 Battle force ship employment, maintenance, and manning baseline plans](%C2%A7%2008696%20-%201%20Battle%20force%20ship%20employment%2C%20maintenance%2C%20and%20manning%20baseline%20plans.md)
+- [&sect; 08696 - Navy shipbuilding workforce development special incentive](%C2%A7%2008696%20-%20Navy%20shipbuilding%20workforce%20development%20special%20incentive.md)
+- [&sect; 08697 - Battle force ship employment, maintenance, and manning baseline plans](%C2%A7%2008697%20-%20Battle%20force%20ship%20employment%2C%20maintenance%2C%20and%20manning%20baseline%20plans.md)

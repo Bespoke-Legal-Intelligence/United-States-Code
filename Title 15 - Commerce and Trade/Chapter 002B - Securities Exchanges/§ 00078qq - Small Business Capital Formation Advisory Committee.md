@@ -12,7 +12,7 @@
 
 &emsp;&emsp;The Committee shall provide the Commission with advice on the Commission's rules, regulations, and policies with regard to the Commission's mission of protecting investors, maintaining fair, orderly, and efficient markets, and facilitating capital formation, as such rules, regulations, and policies relate to—
 
-&emsp;&emsp;&emsp;(i) capital raising by emerging, privately held small businesses ("emerging companies") and publicly traded companies with less than $250,000,000 in public market capitalization ("smaller public companies") through securities offerings, including private and limited offerings and initial and other public offerings;
+&emsp;&emsp;&emsp;(i) capital raising by emerging, privately held small businesses ("emerging companies") and publicly traded companies withless than $250,000,000 in public market capitalization ("smaller public companies") through securities offerings, including private and limited offerings and initial and other public offerings;
 
 &emsp;&emsp;&emsp;(ii) trading in the securities of emerging companies and smaller public companies; and
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the pre-IPO and post-IPO investors in such companies (both institutional, such as venture capital funds, and individual, such as angel investors); and
 
-&emsp;&emsp;&emsp;(iv) who represent participants in the marketplace for the securities of emerging companies and smaller public companies, such as securities exchanges, alternativetrading systems, analysts, information processors, and transfer agents; and
+&emsp;&emsp;&emsp;(iv) who represent participants in the marketplace for the securities of emerging companies and smaller public companies, such as securities exchanges, alternative trading systems, analysts, information processors, and transfer agents; and
 
 &emsp;&emsp;(C) three non-voting members—
 

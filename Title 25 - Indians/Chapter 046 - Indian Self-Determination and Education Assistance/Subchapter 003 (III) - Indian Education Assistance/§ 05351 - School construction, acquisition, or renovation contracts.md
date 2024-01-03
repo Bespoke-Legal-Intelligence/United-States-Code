@@ -18,7 +18,7 @@ Any contract entered into by the Secretary pursuant to this section shall contai
 
 &emsp;(1) provide Indian students attending any such facilities constructed, acquired, or renovated, in whole or in part, from funds made available pursuant to this section with standards of education not less than those provided non-Indian students in the school district in which the facilities are situated; and
 
-&emsp;(2) meet, with respect to such facilities, the requirements of the State and local building codes, and other building standards set by the State educational agency or school district for other public school facilities under its jurisdiction or control or by the local governmentin the jurisdiction within which the facilities are situated.
+&emsp;(2) meet, with respect to such facilities, the requirements of the State and local building codes, and other building standards set by the State educational agency or school district for other public school facilities under its jurisdiction or control or by the local government in the jurisdiction within which the facilities are situated.
 
 #### (e) Advisory consultations by Secretary with affected entities and governing bodies prior to contracts; applicability
 

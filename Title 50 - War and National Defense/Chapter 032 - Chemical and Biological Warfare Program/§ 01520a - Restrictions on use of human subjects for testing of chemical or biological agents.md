@@ -10,7 +10,7 @@ The Secretary of Defense may not conduct (directly or by contract)—
 
 #### (b) Exceptions
 
-Subject to subsections (c), (d), and (e), the prohibition in subsection (a) does not apply to a test or experiment carried out for any of the following purposes:
+Subject to subsections (c), (d), and (e), the prohibition in subsection (a) does not apply to atest or experiment carried out for any of the following purposes:
 
 &emsp;(1) Any peaceful purpose that is related to a medical, therapeutic, pharmaceutical, agricultural, industrial, or research activity.
 

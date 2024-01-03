@@ -54,7 +54,7 @@
 
 #### (B) Final decision
 
-&emsp;&emsp;In a final decision to permanently or temporarily close an area to hunting, fishing, orrecreation <sup>1</sup> shooting, the Secretary concerned shall—
+&emsp;&emsp;In a final decision to permanently or temporarily close an area to hunting, fishing, or recreation <sup>1</sup> shooting, the Secretary concerned shall—
 
 &emsp;&emsp;&emsp;(i) respond in a reasoned manner to the comments received;
 

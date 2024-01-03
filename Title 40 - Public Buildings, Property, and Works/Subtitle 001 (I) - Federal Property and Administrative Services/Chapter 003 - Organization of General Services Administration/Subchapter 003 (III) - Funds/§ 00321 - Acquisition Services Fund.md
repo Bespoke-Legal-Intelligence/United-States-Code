@@ -24,7 +24,7 @@ Other credits.—The Fund shall be credited with all reimbursements, advances, a
 
 &emsp;(3)
 
-Cost and capital requirements.—The Administrator shall determine the cost and capital requirements of the Fund for each fiscal year and shall develop a plan concerning such requirements in consultation with the Chief Financial Officer of the General Services Administration. Any change to the cost and capital requirements of the Fund for a fiscal year shall be approved by the Administrator. The Administrator shall establish rates to be charged agencies provided, or to be provided, supply of personal property and non-personal services through the Fund, in accordance with the plan.
+Cost and capital requirements.—The Administrator shall determine the cost and capital requirements of the Fund for each fiscal year and shall develop a plan concerning such requirements in consultation with the Chief Financial Officer of the General Services Administration. Any change to the cost and capital requirements of the Fund for a fiscal year shall be approved by the Administrator.The Administrator shall establish rates to be charged agencies provided, or to be provided, supply of personal property and non-personal services through the Fund, in accordance with the plan.
 
 &emsp;(4)
 

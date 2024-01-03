@@ -48,5 +48,5 @@ Pub. L. 110–140, title VI, §611, Dec. 19, 2007, 121 Stat. 1678, provided that
 
 Pub. L. 110–140, title VI, §631, Dec. 19, 2007, 121 Stat. 1686, which provided that subtitle C (§§631–636) of title VI of Pub. L. 110–140, enacting former part C (§17211 et seq.) of subchapter V of this chapter, could be cited as the "Marine and Hydrokinetic Renewable Energy Research and Development Act", was omitted from the Code in the general amendment of subtitle C by Pub. L. 116–260.
 
-Pub. L. 110–140, title VII, §701, Dec. 19, 2007, 121 Stat. 1704, provided that: "This subtitle \[subtitle A (§§701–708) of title VII of Pub. L. 110–140, enacting part A (§17251 et seq.) of subchapter VI of this chapter and amending section 16293 of this title\] may be cited as the 'Department of Energy Carbon Capture and Sequestration Research, Development, and Demonstration Act of 2007'."
+Pub. L. 110–140, title VII, §701, Dec. 19, 2007, 121 Stat. 1704, provided that: "This subtitle \[subtitle A\(§§701–708) of title VII of Pub. L. 110–140, enacting part A (§17251 et seq.) of subchapter VI of this chapter and amending section 16293 of this title\] may be cited as the 'Department of Energy Carbon Capture and Sequestration Research, Development, and Demonstration Act of 2007'."
 

@@ -1,6 +1,6 @@
 ### §1119. Pilot projects for performance budgeting
 
-(a) The Director of the Office of Management and Budget, after consultation with the head of each agency shall designate not less than five agencies as pilot projects in performance budgeting for fiscal years 1998 and 1999. At least three of the agencies shall be selected from those designated as pilot projects under section 1118, and shall also reflect a representative range of Government functions and capabilities in measuring and reporting program performance.
+(a) The Director of the Office of Management and Budget, after consultation with the head of each agency shall designate not less than five agencies as pilot projects in performance budgeting for fiscal years 1998 and 1999. At least threeof the agencies shall be selected from those designated as pilot projects under section 1118, and shall also reflect a representative range of Government functions and capabilities in measuring and reporting program performance.
 
 (b) Pilot projects in the designated agencies shall cover the preparation of performance budgets. Such budgets shall present, for one or more of the major functions and operations of the agency, the varying levels of performance, including outcome-related performance, that would result from different budgeted amounts.
 

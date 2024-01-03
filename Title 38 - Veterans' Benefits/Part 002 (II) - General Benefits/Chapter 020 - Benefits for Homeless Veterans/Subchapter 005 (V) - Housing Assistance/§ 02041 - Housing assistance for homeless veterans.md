@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 117–328, §304(b), substituted "September 30, 2026" for "
 
 <b>2011</b>—Subsec. (c). Pub. L. 112–37 substituted "December 31, 2012" for "December 31, 2011".
 
-<b>2006</b>—Subsec. (a)(3)(A)(i). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notesbelow and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Subsec. (a)(3)(A)(i). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §1004(a)(5), substituted "established under section 3722 of this title" for "under this chapter".
 
@@ -176,7 +176,7 @@ In General.—(1) The Secretary of Veterans Affairs shall consider entering into
 
 "(2)(A) The director of each covered medical center shall seek to enter into one or more contracts or agreements described in paragraph (1).
 
-"(B) Any contract or agreement under subparagraph (A) may require that each case manager employed by an eligible entity who performs services under the contract or agreement has credentials equivalent to thecredentials required for a case manager of the Department.
+"(B) Any contract or agreement under subparagraph (A) may require that each case manager employed by an eligible entity who performs services under the contract or agreement has credentials equivalent to the credentials required for a case manager of the Department.
 
 "(C)(i) The Secretary may waive the requirement under subparagraph (A) with respect to a covered medical center if the Secretary determines that fulfilling such requirement is infeasible.
 

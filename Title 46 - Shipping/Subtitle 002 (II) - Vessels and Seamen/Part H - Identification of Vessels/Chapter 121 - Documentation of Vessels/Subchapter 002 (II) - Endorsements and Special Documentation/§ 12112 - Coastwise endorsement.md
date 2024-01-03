@@ -48,7 +48,7 @@ In subsection (b), the word "only" is omitted because section 12102(a), as revis
 
 #### Prior Provisions
 
-A prior section 12112, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 100–710, title I, §104(a)(4), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(11), Dec. 12, 1989, 103 Stat. 1922, originally derived from section 65p of former Title 46, Shipping, related to vessels procured outside the United States, prior to the general amendment of this chapter by Pub. L. 109–304. See section 12115 of this title.
+A prior section 12112, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 100–710, title I, §104(a)(4), Nov. 23, 1988,102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(11), Dec. 12, 1989, 103 Stat. 1922, originally derived from section 65p of former Title 46, Shipping, related to vessels procured outside the United States, prior to the general amendment of this chapter by Pub. L. 109–304. See section 12115 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

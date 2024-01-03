@@ -26,7 +26,7 @@ The amount of any item of gross income shall be included in the gross income for
 
 #### (C) All events test
 
-&emsp;&emsp;For purposes of this section, the all events test is met with respect to any item of gross income if all the events have occurred which fix the right to receive such income and the amount of such income can be determined with reasonable accuracy.
+&emsp;&emsp;For purposes of this section, the all events test is met with respect to any item of gross income if all the events have occurred whichfix the right to receive such income and the amount of such income can be determined with reasonable accuracy.
 
 #### (2) Coordination with special methods of accounting
 
@@ -62,7 +62,7 @@ The amount of any item of gross income shall be included in the gross income for
 
 #### (5) Group of entities
 
-&emsp;For purposes of paragraph (1), if the financial results of a taxpayer are reported on the applicable financial statement (as defined inparagraph (3)) for a group of entities, such statement shall be treated as the applicable financial statement of the taxpayer.
+&emsp;For purposes of paragraph (1), if the financial results of a taxpayer are reported on the applicable financial statement (as defined in paragraph (3)) for a group of entities, such statement shall be treated as the applicable financial statement of the taxpayer.
 
 #### (c) Treatment of advance payments
 
@@ -192,7 +192,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (1) In general
 
-&emsp;In the case of interest credited during any calendar year on a frozen deposit in a qualified financial institution, the amount of such interest includible in the gross income of a qualified individual shall not exceed the sum of—
+&emsp;In the case of interest credited during any calendar year on a frozen deposit in a qualifiedfinancial institution, the amount of such interest includible in the gross income of a qualified individual shall not exceed the sum of—
 
 &emsp;&emsp;(A) the net amount withdrawn by such individual from such deposit during such calendar year, and
 
@@ -322,7 +322,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (6) Qualified electric utility
 
-&emsp;For purposes of this subsection, the term "qualified electric utility" means a personthat, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
+&emsp;For purposes of this subsection, the term "qualified electric utility" means a person that, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
 
 &emsp;&emsp;(A) a transmitting utility (as defined in section 3(23) of the Federal Power Act (16 U.S.C. 796(23))) with respect to the transmission facilities to which the election under this subsection applies, and
 
@@ -352,7 +352,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;Section 453 shall not apply to any qualifying electric transmission transaction with respect to which an election to apply this subsection is made.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918; Pub. L. 108–357, title III, §311(c), title VIII, §909(a), Oct. 22, 2004, 118 Stat. 1467, 1657; Pub. L. 109–58, title XIII, §1305(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 110–343, div. B, title I, §109(a)–(c), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 111–312, title VII, §705(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §411(a), Jan. 2, 2013, 126 Stat. 2343; Pub. L. 113–295, div. A, title I, §159(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §191(a), Dec. 18, 2015, 129 Stat. 3075; Pub. L. 115–97, title I, §13221(a), (b), Dec. 22, 2017, 131 Stat. 2113, 2115; Pub. L. 115–123, div. D, title I, §40414(a), Feb. 9, 2018, 132 Stat. 152; Pub. L. 116–94, div. Q, title I, §132(a), Dec. 20, 2019, 133 Stat. 3233.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918; Pub. L. 108–357, title III, §311(c), title VIII, §909(a), Oct.22, 2004, 118 Stat. 1467, 1657; Pub. L. 109–58, title XIII, §1305(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 110–343, div. B, title I, §109(a)–(c), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 111–312, title VII, §705(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §411(a), Jan. 2, 2013, 126 Stat. 2343; Pub. L. 113–295, div. A, title I, §159(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §191(a), Dec. 18, 2015, 129 Stat. 3075; Pub. L. 115–97, title I, §13221(a), (b), Dec. 22, 2017, 131 Stat. 2113, 2115; Pub. L. 115–123, div. D, title I, §40414(a), Feb. 9, 2018, 132 Stat. 152; Pub. L. 116–94, div. Q, title I, §132(a), Dec. 20, 2019, 133 Stat. 3233.)
 
 #### <b>Editorial Notes</b>
 
@@ -396,7 +396,7 @@ Subsec. (i). Pub. L. 108–357, §909(a), added subsec. (i).
 
 <b>1998</b>—Subsec. (h). Pub. L. 105–277 added subsec. (h).
 
-<b>1997</b>—Subsec. (e). Pub. L. 105–34 inserted ", flood, or other weather-related conditions" after "drought" inheading and substituted "drought, flood, or other weather-related conditions, and that such conditions" for "drought conditions, and that these drought conditions" in par. (1).
+<b>1997</b>—Subsec. (e). Pub. L. 105–34 inserted ", flood, or other weather-related conditions" after "drought" in heading and substituted "drought, flood, or other weather-related conditions, and that such conditions" for "drought conditions, and that these drought conditions" in par. (1).
 
 <b>1988</b>—Subsec. (d). Pub. L. 100–647, §6033(a), inserted "or title II of the Disaster Assistance Act of 1988," after "the Agricultural Act of 1949, as amended,".
 
@@ -460,7 +460,7 @@ Special Rules for Original Issue Discount.—Notwithstanding subsection (c), in 
 
 &emsp;"(1) the amendments made by this section shall apply to taxable years beginning after December 31, 2018, and
 
-&emsp;"(2) the period for taking into account any adjustments under section 481 by reason of a qualified change in method of accounting (as defined in subsection (d)) shall be 6 years."
+&emsp;"(2) the period for taking into account any adjustments under section 481 by reason of a qualifiedchange in method of accounting (as defined in subsection (d)) shall be 6 years."
 
 #### Effective Date of 2015 Amendment
 
@@ -622,7 +622,7 @@ Extended Period Long-Term Contracts Defined.—For purposes of this section—
 
 &emsp;"(1)
 
-In general.—The term 'extended period long-term contract' means any long-term contract whichthe taxpayer estimates (at the time such contract is entered into) will not be completed within the 2-year period beginning on the contract commencement date of such contract.
+In general.—The term 'extended period long-term contract' means any long-term contract which the taxpayer estimates (at the time such contract is entered into) will not be completed within the 2-year period beginning on the contract commencement date of such contract.
 
 &emsp;"(2)
 
@@ -687,7 +687,7 @@ Applicable percentage.—For purposes of subparagraph (A), the applicable percen
 | <b> "If the taxable year begins in  calendar year:</b> | <b>The applicable percentage is:</b> |
 | :--- | ---: |
 | 1983 | 331/3&nbsp;&nbsp; |
-| 1984 | 662/3&nbsp;&nbsp; |
+| 1984 | 662/3   |
 | 1985 or thereafter | 100\. |
 
 &emsp;"(3)

@@ -30,11 +30,11 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;&emsp;(ii) after taking into consideration such information, findings of the Inter-American Tropical Tuna Commission, and any other relevant information, including information that a nation is consistently failing to take enforcement actions on violations which diminish the effectiveness of the International Dolphin Conservation Program, the Secretary, in consultation with the Secretary of State, finds that the harvesting nation is not in compliance with the International Dolphin Conservation Program.
 
-&emsp;&emsp;(D) shall require the government of any intermediary nation to certify and provide reasonable proof to the Secretary that it has not imported, within the preceding six months, any yellowfin tuna or yellowfin tuna products that are subject to a direct ban on importation to the United States under subparagraph (B);
+&emsp;&emsp;(D) shall require the government of any intermediary nation to certify and provide reasonable proof to the Secretary that it has not imported, within the preceding sixmonths, any yellowfin tuna or yellowfin tuna products that are subject to a direct ban on importation to the United States under subparagraph (B);
 
 &emsp;&emsp;(E) shall, six months after importation of yellowfin tuna or tuna products has been banned under this section, certify such fact to the President, which certification shall be deemed to be a certification for the purposes of section 1978(a) of title 22 for as long as such ban is in effect; and
 
-&emsp;&emsp;(F)(i) except as provided in clause (ii), in the case of fish or products containing fish harvested by a nation whose fishing vessels engage in high seas driftnet fishing, shall require that the government of the exportingnation provide documentary evidence that the fish or fish product was not harvested with a large-scale driftnet in the South Pacific Ocean after July 1, 1991, or in any other water of the high seas after January 1, 1993, and
+&emsp;&emsp;(F)(i) except as provided in clause (ii), in the case of fish or products containing fish harvested by a nation whose fishing vessels engage in high seas driftnet fishing, shall require that the government of the exporting nation provide documentary evidence that the fish or fish product was not harvested with a large-scale driftnet in the South Pacific Ocean after July 1, 1991, or in any other water of the high seas after January 1, 1993, and
 
 &emsp;&emsp;(ii) in the case of tuna or a product containing tuna harvested by a nation whose fishing vessels engage in high seas driftnet fishing, shall require that the government of the exporting nation provide documentary evidence that the tuna or tuna product was not harvested with a large-scale driftnet anywhere on the high seas after July 1, 1991.
 
@@ -62,7 +62,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(D) The authority to deter marine mammals pursuant to subparagraph (A) applies to all marine mammals, including all stocks designated as depleted under this chapter.
 
-&emsp;(5)(A)(i) Except as provided by clause (ii), upon request therefor by citizens of the United States who engage in a specified activity (other than commercial fishing) within a specified geographical region, the Secretary shall allow, during periods of not more than five consecutive years each, the incidental, but not intentional, taking by citizens while engaging in that activity within that region of small numbers of marine mammals of a species or population stock if the Secretary, after notice (in the Federal Register and in newspapers of general circulation, and through appropriate electronic media, in the coastal areas that may be affected by such activity) and opportunity for public comment—
+&emsp;(5)(A)(i) Except as provided by clause (ii), upon request therefor by citizens of the United States who engage in a specified activity (other than commercial fishing) within a specified geographical region, the Secretary shall allow, during periods of not more than five consecutive years each, the incidental, but not intentional, taking by citizens while engaging in that activity within that region of small numbers of marine mammals of a species or population stock if the Secretary, after notice\(in the Federal Register and in newspapers of general circulation, and through appropriate electronic media, in the coastal areas that may be affected by such activity) and opportunity for public comment—
 
 &emsp;&emsp;(I) finds that the total of such taking during each five-year (or less) period concerned will have a negligible impact on such species or stock and will not have an unmitigable adverse impact on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) or section 1379(f) of this title or, in the case of a cooperative agreement under both this chapter and the Whaling Convention Act of 1949 (16 U.S.C. 916 et seq.), pursuant to section 1382(c) of this title; and
 
@@ -104,11 +104,11 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;(II) the measures that the Secretary determines are necessary to ensure no unmitigable adverse impact on the availability of the species or stock for taking for subsistence uses pursuant to subsection (b) or section 1379(f) of this title or pursuant to a cooperative agreement under section 1388 of this title, and
 
-&emsp;&emsp;(III) requirements pertaining to the monitoring and reporting of such taking by harassment, including requirements for the independent peer review of proposed monitoring plans or other research proposals where the proposed activity may affect the availability of a species or stock for taking for subsistence uses pursuant to subsection (b) or section 1379(f) of this title or pursuant to a cooperative agreement under section 1388 of this title.
+&emsp;&emsp;(III) requirements pertaining to the monitoring and reporting of such taking by harassment, including requirements for the independent peer review of proposed monitoring plans or other research proposals where the proposed activity may affect the availability of a species or stock for taking for subsistence uses pursuant to subsection (b) or section 1379(f) of this title or pursuantto a cooperative agreement under section 1388 of this title.
 
 &emsp;(iii) The Secretary shall publish a proposed authorization not later than 45 days after receiving an application under this subparagraph and request public comment through notice in the Federal Register, newspapers of general circulation, and appropriate electronic media and to all locally affected communities for a period of 30 days after publication. Not later than 45 days after the close of the public comment period, if the Secretary makes the findings set forth in clause (i), the Secretary shall issue an authorization with appropriate conditions to meet the requirements of clause (ii).
 
-&emsp;(iv) The Secretary shall modify, suspend, or revoke an authorization if the Secretary findsthat the provisions of clauses (i) or (ii) are not being met.
+&emsp;(iv) The Secretary shall modify, suspend, or revoke an authorization if the Secretary finds that the provisions of clauses (i) or (ii) are not being met.
 
 &emsp;(v) A person conducting an activity for which an authorization has been granted under this subparagraph shall not be subject to the penalties of this chapter for taking by harassment that occurs in compliance with such authorization.
 
@@ -148,7 +148,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;(ii) was acquired outside of the United States as part of a cultural exchange by an Indian, Aleut, or Eskimo residing in Alaska; or
 
-&emsp;&emsp;(iii) is owned by a Native inhabitant of Russia, Canada, or Greenland and is imported for noncommercial purposes in conjunction with travel within the United States or as part of a cultural exchange withan Indian, Aleut, or Eskimo residing in Alaska.
+&emsp;&emsp;(iii) is owned by a Native inhabitant of Russia, Canada, or Greenland and is imported for noncommercial purposes in conjunction with travel within the United States or as part of a cultural exchange with an Indian, Aleut, or Eskimo residing in Alaska.
 
 &emsp;(B) For the purposes of this paragraph, the term—
 
@@ -258,7 +258,7 @@ Subsec. (e). Pub. L. 105–42, §4(c), added subsec. (e).
 
 > is first reviewed by the Marine Mammal Commission and the Committee of Scientific Advisors on Marine Mammals established under subchapter III of this chapter. The Commission and Committee shall recommend any proposed taking or importation which is consistent with the purposes and policies of section 1361 of this title. The Secretary shall, if he grants approval for importation, issue to the importer concerned a certificate to that effect which shall be in such form as the Secretary of the Treasury prescribes and such importation may be made upon presentation of the certificate to the customs officer concerned."
 
-Subsec. (a)(2). Pub. L. 103–238, §4(a)(2), inserted before period at end of first sentence ", or in lieu of such permits, authorizations may be granted therefor undersection 1387 of this title, subject to regulations prescribed under that section by the Secretary without regard to section 1373 of this title".
+Subsec. (a)(2). Pub. L. 103–238, §4(a)(2), inserted before period at end of first sentence ", or in lieu of such permits, authorizations may be granted therefor under section 1387 of this title, subject to regulations prescribed under that section by the Secretary without regard to section 1373 of this title".
 
 Subsec. (a)(3)(B). Pub. L. 103–238, §4(a)(3), inserted ", photography for educational or commercial purposes," after "purposes" and "or as provided for under paragraph (5) of this subsection," after "subsection,".
 

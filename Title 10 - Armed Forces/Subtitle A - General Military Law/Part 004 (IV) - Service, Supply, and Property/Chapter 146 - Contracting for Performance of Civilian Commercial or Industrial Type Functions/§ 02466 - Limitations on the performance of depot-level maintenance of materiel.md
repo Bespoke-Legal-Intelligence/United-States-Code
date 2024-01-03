@@ -52,7 +52,7 @@ Subsec. (d)(2). Pub. L. 109–364, §331(b)(1), amended par. (2) generally. Prio
 
 <b>2003</b>—Subsecs. (d), (e). Pub. L. 108–136 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: "Subsection (a) shall not apply with respect to the Sacramento Army Depot, Sacramento, California."
 
-<b>2001</b>—Subsecs. (b), (c). Pub. L. 107–107 added subsecs. (b) and (c) and struck out heading and text of formersubsec. (c). Text read as follows: "The Secretary of the military department concerned and, with respect to a Defense Agency, the Secretary of Defense may waive the applicability of subsection (a) for a fiscal year, to a particular workload, or to a particular depot-level activity if the Secretary determines that the waiver is necessary for reasons of national security and notifies Congress regarding the reasons for the waiver."
+<b>2001</b>—Subsecs. (b), (c). Pub. L. 107–107 added subsecs. (b) and (c) and struck out heading and text of former subsec. (c). Text read as follows: "The Secretary of themilitary department concerned and, with respect to a Defense Agency, the Secretary of Defense may waive the applicability of subsection (a) for a fiscal year, to a particular workload, or to a particular depot-level activity if the Secretary determines that the waiver is necessary for reasons of national security and notifies Congress regarding the reasons for the waiver."
 
 <b>1999</b>—Subsec. (e). Pub. L. 106–65 amended heading and text of subsec. (e) generally. Text read as follows:
 

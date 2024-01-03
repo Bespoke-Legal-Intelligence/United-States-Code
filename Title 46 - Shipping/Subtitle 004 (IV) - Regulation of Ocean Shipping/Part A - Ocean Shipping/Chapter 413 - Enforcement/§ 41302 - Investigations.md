@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Federal Maritime Commission, on complaint or its own motion, may investigate any conduct <sup>1</sup> agreement, fee, orcharge that the Commission believes may be in violation of this part. The Commission may by order disapprove, cancel, or modify any agreement that operates in violation of this part.
+In General.—The Federal Maritime Commission, on complaint or its own motion, may investigate any conduct <sup>1</sup> agreement, fee, or charge that the Commission believes may be in violation of this part. The Commission may by order disapprove, cancel, or modify any agreement that operates in violation of this part.
 
 (b)
 

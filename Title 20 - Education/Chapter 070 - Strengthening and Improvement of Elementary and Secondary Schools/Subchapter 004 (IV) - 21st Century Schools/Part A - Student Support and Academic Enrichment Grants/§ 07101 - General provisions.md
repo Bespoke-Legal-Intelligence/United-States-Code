@@ -10,7 +10,7 @@
 
 #### (B) Contents
 
-&emsp;&emsp;Before obtaining the consent described in subparagraph (A), the entity shall providethe parent written notice describing in detail such mental health assessment or service, including the purpose for such assessment or service, the provider of such assessment or service, when such assessment or service will begin, and how long such assessment or service may last.
+&emsp;&emsp;Before obtaining the consent described in subparagraph (A), the entity shall provide the parent written notice describing in detail such mental health assessment or service, including the purpose for such assessment or service, the provider of such assessment or service, when such assessment or service will begin, and how long such assessment or service may last.
 
 #### (C) Limitation
 

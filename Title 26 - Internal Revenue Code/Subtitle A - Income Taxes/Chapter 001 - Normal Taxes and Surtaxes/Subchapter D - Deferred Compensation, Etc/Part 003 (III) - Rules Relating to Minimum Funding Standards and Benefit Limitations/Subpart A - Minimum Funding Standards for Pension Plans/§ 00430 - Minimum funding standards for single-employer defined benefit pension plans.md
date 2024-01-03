@@ -38,7 +38,7 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;For purposes of this section, the shortfall amortization charge for a plan for any plan year is the aggregate total (not less than zero) of the shortfall amortization installments for such plan year with respect to any shortfall amortization base which has not been fully amortized under this subsection.
+&emsp;For purposes of this section, the shortfall amortization charge for a plan for any planyear is the aggregate total (not less than zero) of the shortfall amortization installments for such plan year with respect to any shortfall amortization base which has not been fully amortized under this subsection.
 
 #### (2) Shortfall amortization installment
 
@@ -72,7 +72,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of the first 2 plan years in the 9-plan-year period beginning with the election year, interest on the shortfall amortization base of the plan for the election year (determined using the effective interest rate for the plan for the election year), and
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of the last 7 plan years in such 9-plan-year period, the amounts necessary to amortize the remaining balance of the shortfall amortization base of the plan for the election year in level annual installments over such last 7 planyears (using the segment rates under subparagraph (C) for the election year).
+&emsp;&emsp;&emsp;&emsp;(II) in the case of the last 7 plan years in such 9-plan-year period, the amounts necessary to amortize the remaining balance of the shortfall amortization base of the plan for the election year in level annual installments over such last 7 plan years (using the segment rates under subparagraph (C) for the election year).
 
 #### (iii) 15-year amortization
 
@@ -202,7 +202,7 @@ For purposes of this section:
 
 #### (iii) Only remuneration for certain post-2009 services counted
 
-&emsp;&emsp;&emsp;Remuneration shall be taken into account under clause (i) only to the extentattributable to services performed by the employee for the plan sponsor after February 28, 2010.
+&emsp;&emsp;&emsp;Remuneration shall be taken into account under clause (i) only to the extent attributable to services performed by the employee for the plan sponsor after February 28, 2010.
 
 #### (iv) Exception for certain equity payments
 
@@ -400,7 +400,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the funding target of the plan for the preceding plan year (determined without regard to subsection (i)(1)),
 
-> &emsp;&emsp;is less than 80 percent. In the case of plan years beginning in 2008, the ratio under this subparagraph may be determined using such methods of estimation as the Secretary may prescribe.
+> &emsp;&emsp;is less than 80 percent. In the case of plan years beginning in 2008, the ratio under this subparagraph may be determined using suchmethods of estimation as the Secretary may prescribe.
 
 #### (D) Special rule for certain years of plans maintained by charities
 
@@ -440,7 +440,7 @@ For purposes of this section—
 
 #### (ii) Special rule for certain binding agreements with PBGC
 
-&emsp;&emsp;&emsp;For purposes of subsection (c)(4)(B), the value of plan assets shall not be deemed to be reduced for a plan year by the amount of the specified balance if, with respect tosuch balance, there is in effect for a plan year a binding written agreement with the Pension Benefit Guaranty Corporation which provides that such balance is not available to reduce the minimum required contribution for the plan year. For purposes of the preceding sentence, the term "specified balance" means the prefunding balance or the funding standard carryover balance, as the case may be.
+&emsp;&emsp;&emsp;For purposes of subsection (c)(4)(B), the value of plan assets shall not be deemed to be reduced for a plan year by the amount of the specified balance if, with respect to such balance, there is in effect for a plan year a binding written agreement with the Pension Benefit Guaranty Corporation which provides that such balance is not available to reduce the minimum required contribution for the plan year. For purposes of the preceding sentence, the term "specified balance" means the prefunding balance or the funding standard carryover balance, as the case may be.
 
 #### (C) Availability of balances in plan year for crediting against minimum required contribution
 
@@ -474,7 +474,7 @@ For purposes of this section—
 
 #### (ii) Adjustments for interest
 
-&emsp;&emsp;&emsp;Any excess contributions under clause (i) shall be properly adjusted for interest accruing for the periods between the first day of the current plan year and the dates on which the excess contributions were made, determined by using the effective interest rate for the preceding plan year and by treating contributions as being first used to satisfy the minimum required contribution.
+&emsp;&emsp;&emsp;Any excess contributions under clause (i) shall be properly adjusted for interest accruing for the periods between the first day of the current plan year and the dateson which the excess contributions were made, determined by using the effective interest rate for the preceding plan year and by treating contributions as being first used to satisfy the minimum required contribution.
 
 #### (iii) Certain contributions necessary to avoid benefit limitations disregarded
 
@@ -508,7 +508,7 @@ For purposes of this section—
 
 #### (8) Adjustments for investment experience
 
-&emsp;In determining the prefunding balance or the funding standard carryover balance of a plan as of the first day of the plan year, the plan sponsor shall, in accordance with regulations prescribed by the Secretary, adjust such balance to reflect the rate of return on plan assets for the preceding plan year. Notwithstanding subsection (g)(3), such rate of returnshall be determined on the basis of fair market value and shall properly take into account, in accordance with such regulations, all contributions, distributions, and other plan payments made during such period.
+&emsp;In determining the prefunding balance or the funding standard carryover balance of a plan as of the first day of the plan year, the plan sponsor shall, in accordance with regulations prescribed by the Secretary, adjust such balance to reflect the rate of return on plan assets for the preceding plan year. Notwithstanding subsection (g)(3), such rate of return shall be determined on the basis of fair market value and shall properly take into account, in accordance with such regulations, all contributions, distributions, and other plan payments made during such period.
 
 #### (9) Elections
 
@@ -658,7 +658,7 @@ For purposes of this section—
 
 #### (ii) Election to use yield curve
 
-&emsp;&emsp;&emsp;Solely for purposes of determining the minimum required contribution under thissection, the plan sponsor may, in lieu of the segment rates determined under subparagraph (C), elect to use interest rates under the corporate bond yield curve. For purposes of the preceding sentence such curve shall be determined without regard to the 24-month averaging described in clause (i). Such election, once made, may be revoked only with the consent of the Secretary.
+&emsp;&emsp;&emsp;Solely for purposes of determining the minimum required contribution under this section, the plan sponsor may, in lieu of the segment rates determined under subparagraph (C), elect to use interest rates under the corporate bond yield curve. For purposes of the preceding sentence such curve shall be determined without regard to the 24-month averaging described in clause (i). Such election, once made, may be revoked only with the consent of the Secretary.
 
 #### (E) Applicable month
 
@@ -754,7 +754,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the plan is a defined benefit plan (other than a multiemployer plan) to which title IV of the Employee Retirement Income Security Act of 1974 applies,
 
-&emsp;&emsp;&emsp;(ii) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors' controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
+&emsp;&emsp;&emsp;(ii) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors' controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV (disregardingplans with no unfunded vested benefits) exceed $50,000,000, and
 
 &emsp;&emsp;&emsp;(iii) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the current plan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the funding target of the plan before such change.
 
@@ -885,7 +885,7 @@ For purposes of this section—
 
 #### (6) Small plan exception
 
-&emsp;If, on each day during the preceding plan year, a plan had 500 or fewer participants, the plan shall not be treated as in at-risk status for the plan year. For purposes of this paragraph, all defined benefit plans (other than multiemployer plans) maintained by the same employer (or any member of such employer'scontrolled group) shall be treated as 1 plan, but only participants with respect to such employer or member shall be taken into account and the rules of subsection (g)(2)(C) shall apply.
+&emsp;If, on each day during the preceding plan year, a plan had 500 or fewer participants, the plan shall not be treated as in at-risk status for the plan year. For purposes of this paragraph, all defined benefit plans (other than multiemployer plans) maintained by the same employer (or any member of such employer's controlled group) shall be treated as 1 plan, but only participants with respect to such employer or member shall be taken into account and the rules of subsection (g)(2)(C) shall apply.
 
 #### (j) Payment of minimum required contributions
 
@@ -984,7 +984,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;A plan to which this paragraph applies shall be treated as failing to pay the fullamount of any required installment under paragraph (3) to the extent that the value of the liquid assets paid in such installment is less than the liquidity shortfall (whether or not such liquidity shortfall exceeds the amount of such installment required to be paid but for this paragraph).
+&emsp;&emsp;A plan to which this paragraph applies shall be treated as failing to pay the full amount of any required installment under paragraph (3) to the extent that the value of the liquid assets paid in such installment is less than the liquidity shortfall (whether or not such liquidity shortfall exceeds the amount of such installment required to be paid but for this paragraph).
 
 #### (B) Plans to which paragraph applies
 
@@ -1066,7 +1066,7 @@ For purposes of this section—
 
 #### (3) Amount of lien
 
-&emsp;For purposes of paragraph (1), the amount of the lien shall be equal to the aggregate unpaid balance of contribution payments required under this section and section 412 for whichpayment has not been made before the due date.
+&emsp;For purposes of paragraph (1), the amount of the lien shall be equal to the aggregate unpaid balance of contribution payments required under this section and section 412 for which payment has not been made before the due date.
 
 #### (4) Notice of failure; lien
 
@@ -1150,7 +1150,7 @@ In the case of a qualified transfer (as defined in section 420), any assets so t
 
 #### (ii) New shortfall amortization base
 
-&emsp;&emsp;&emsp;Notwithstanding subsection (c)(3), the shortfall amortization base for the firstplan year to which the election under paragraph (1) applies shall be the funding shortfall of such plan for such plan year (determined using the interest rates as modified under subparagraph (A)).
+&emsp;&emsp;&emsp;Notwithstanding subsection (c)(3), the shortfall amortization base for the first plan year to which the election under paragraph (1) applies shall be the funding shortfall of such plan for such plan year (determined using the interest rates as modified under subparagraph (A)).
 
 #### (C) Determination of shortfall amortization installments
 
@@ -1314,7 +1314,7 @@ Subsec. (j)(3)(E). Pub. L. 110–458, §101(b)(2)(G)(iii), (iv), substituted ",�
 
 Subsec. (k)(1). Pub. L. 110–458, §101(b)(2)(H)(i), inserted "(as provided under paragraph (2))" after "applies" in introductory provisions.
 
-Subsec. (k)(6)(B). Pub. L. 110–458, §101(b)(2)(H)(ii), struck out ", except that in the case of a payment other than a required installment, the due date shall bethe date such payment is required to be made under section 430" before period at end.
+Subsec. (k)(6)(B). Pub. L. 110–458, §101(b)(2)(H)(ii), struck out ", except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under section 430" before period at end.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -1557,7 +1557,7 @@ In general.—The requirements of this paragraph are met if no applicable benefi
 
 &emsp;&emsp;"(B)
 
-Applicable benefit increase.—For purposes of this paragraph, the term 'applicable benefit increase' means, with respect to any plan year, any increase in liabilities of the plan by plan amendment (or otherwise provided in regulations provided by the Secretary) which, but for this paragraph, would occur during the plan year by reason of—
+Applicable benefit increase.—For purposes of this paragraph, the term 'applicable benefit increase' means, with respect to any plan year, anyincrease in liabilities of the plan by plan amendment (or otherwise provided in regulations provided by the Secretary) which, but for this paragraph, would occur during the plan year by reason of—
 
 &emsp;&emsp;&emsp;"(i) any increase in benefits,
 
@@ -1627,7 +1627,7 @@ In general.—In the case of any applicable plan year during the amortization pe
 
 &emsp;"(2)
 
-Years after amortization period.—In the case of any plan year beginning after the end of the amortization period, section 302(a)(2)(A) of such Act\[29 U.S.C. 1082(a)(2)(A)\] and section 412(a)(2)(A) of such Code shall apply to such plan, but the prefunding balance and funding standard carryover balance as of the first day of the first of such years under section 303(f) of such Act \[29 U.S.C. 1083(f)\] and section 430(f) of such Code shall be zero.
+Years after amortization period.—In the case of any plan year beginning after the end of the amortization period, section 302(a)(2)(A) of such Act \[29 U.S.C. 1082(a)(2)(A)\] and section 412(a)(2)(A) of such Code shall apply to such plan, but the prefunding balance and funding standard carryover balance as of the first day of the first of such years under section 303(f) of such Act \[29 U.S.C. 1083(f)\] and section 430(f) of such Code shall be zero.
 
 &emsp;"(3)
 
@@ -1737,7 +1737,7 @@ Extension of Special Rule for Additional Funding Requirements.—In the case of 
 
 Effective Date.—Except as otherwise provided in this section, the provisions of and amendments made by this section \[amending section 410 of this title and section 1322 of Title 29, Labor\] shall apply to plan years ending after the date of the enactment of this Act \[Aug. 17, 2006\]."
 
-\[Pub. L. 110–458, title I, §126(b), Dec. 23, 2008, 122 Stat. 5116, provided that: "The amendment made by this section \[amending section 402(e)(4)(C) of Pub. L. 109–280,set out above\] shall apply to plan years beginning after December 31, 2007."\]
+\[Pub. L. 110–458, title I, §126(b), Dec. 23, 2008, 122 Stat. 5116, provided that: "The amendment made by this section \[amending section 402(e)(4)(C) of Pub. L. 109–280, set out above\] shall apply to plan years beginning after December 31, 2007."\]
 
 \[Pub. L. 110–28, title VI, §6614(b), May 25, 2007, 121 Stat. 181, provided that: "The amendment made by subsection (a) \[amending section 402(i)(1) of Pub. L. 109–280, set out above\] shall take effect as if included in section 402 of the Pension Protection Act of 2006 \[Pub. L. 109–280\]."\]
 

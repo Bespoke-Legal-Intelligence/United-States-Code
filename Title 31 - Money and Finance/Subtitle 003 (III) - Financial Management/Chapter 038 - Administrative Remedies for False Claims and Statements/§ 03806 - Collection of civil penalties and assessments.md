@@ -6,7 +6,7 @@
 
 (c) The district courts of the United States shall have jurisdiction of any action commenced by the United States under subsection (b) of this section.
 
-(d) Any action under subsection (b) of this section may, without regard to venue requirements, be joined and consolidated with or asserted as a counterclaim, cross-claim, or setoff by the United States in any other civil actionwhich includes as parties the United States and the person against whom such action may be brought.
+(d) Any action under subsection (b) of this section may, without regard to venue requirements, be joined and consolidated with or asserted as a counterclaim, cross-claim, or setoff by the United States in any other civil action which includes as parties the United States and the person against whom such action may be brought.
 
 (e) The United States Court of Federal Claims shall have jurisdiction of any action under subsection (b) of this section to recover any penalty or assessment if the cause of action is asserted by the United States as a counterclaim in a matter pending in such court.
 

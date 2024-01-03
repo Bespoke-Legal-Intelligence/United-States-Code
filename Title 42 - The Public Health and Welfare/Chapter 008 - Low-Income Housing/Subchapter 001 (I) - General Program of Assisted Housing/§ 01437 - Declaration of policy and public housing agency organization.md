@@ -140,7 +140,7 @@ Pub. L. 110–289, div. B, title VII, §2701, July 30, 2008, 122 Stat. 2863, pro
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–186, title IV, §401, Dec. 16, 2003, 117 Stat. 2693, provided that: "This title \[amending section 1437vof this title and enacting provisions set out as a note under section 1437v of this title\] may be cited as the 'HOPE VI Program Reauthorization and Small Community Mainstreet Rejuvenation and Housing Act of 2003'."
+Pub. L. 108–186, title IV, §401, Dec. 16, 2003, 117 Stat. 2693, provided that: "This title \[amending section 1437v of this title and enacting provisions set out as a note under section 1437v of this title\] may be cited as the 'HOPE VI Program Reauthorization and Small Community Mainstreet Rejuvenation and Housing Act of 2003'."
 
 #### Short Title of 2002 Amendment
 
@@ -192,7 +192,7 @@ Pub. L. 101–235, title I, §104(c), Dec. 15, 1989, 103 Stat. 1998, provided th
 
 #### Reports on Number and Cost of Federally Assisted Units
 
-Pub. L. 110–161, div. K, title II, §211, Dec. 26, 2007, 121 Stat. 2433, which directed the Secretary of Housing andUrban Development to submit an annual report to the House and Senate Committees on Appropriations regarding the number of Federally assisted units under lease and the per unit cost of such units, was repealed by Pub. L. 115–31, div. K, title II, §238, May 5, 2017, 131 Stat. 789.
+Pub. L. 110–161, div. K, title II, §211, Dec. 26, 2007, 121 Stat. 2433, which directed the Secretary of Housing and Urban Development to submit an annual report to the House and Senate Committees on Appropriations regarding the number of Federally assisted units under lease and the per unit cost of such units, was repealed by Pub. L. 115–31, div. K, title II, §238, May 5, 2017, 131 Stat. 789.
 
 #### Funding of Certain Public Housing
 
@@ -212,7 +212,7 @@ Findings.—Congress finds that—
 
 &emsp;"(2) the inventory of public housing units owned, assisted, or operated by public housing agencies, an asset in which the Federal Government has invested over $90,000,000,000, has traditionally provided rental housing that is affordable to low-income persons;
 
-&emsp;"(3) despite serving this critical function, the public housing system is plagued by a series of problems, including the concentration of very poor people in very poor neighborhoods and disincentives for economic self-sufficiency;
+&emsp;"(3) despite serving this critical function, the public housing system is plagued by a series of problems, including the concentration of very poor people invery poor neighborhoods and disincentives for economic self-sufficiency;
 
 &emsp;"(4) the Federal method of overseeing every aspect of public housing by detailed and complex statutes and regulations has aggravated the problem and has placed excessive administrative burdens on public housing agencies; and
 

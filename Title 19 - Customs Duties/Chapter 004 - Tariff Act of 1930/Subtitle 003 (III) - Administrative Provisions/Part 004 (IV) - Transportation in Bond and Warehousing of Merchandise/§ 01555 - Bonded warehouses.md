@@ -88,7 +88,7 @@ Subject to subsection (b), buildings or parts of buildings and other enclosures 
 
 &emsp;&emsp;(B) the term "staging area" is an area controlled by the proprietor of a bonded warehouse outside of the physical parameters of the bonded warehouse in which manipulation of international travel merchandise in carts occurs;
 
-&emsp;&emsp;(C) the term "duty-free merchandise" means merchandise on which the liability for payment of duty or tax imposed by reason of importation has been deferred pending exportation from the customs territory;
+&emsp;&emsp;(C) the term "duty-free merchandise" means merchandise on which the liabilityfor payment of duty or tax imposed by reason of importation has been deferred pending exportation from the customs territory;
 
 &emsp;&emsp;(D) the term "manipulation" means the repackaging, cleaning, sorting, or removal from or placement on carts of international travel merchandise; and
 

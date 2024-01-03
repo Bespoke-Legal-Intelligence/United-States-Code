@@ -32,5 +32,5 @@ Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. 
 
 #### Delegation of Functions
 
-Functions vested in President by subsec. (b) delegated to Secretary of State, see section 1–402 of Ex.Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
+Functions vested in President by subsec. (b) delegated to Secretary of State, see section 1–402 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
 

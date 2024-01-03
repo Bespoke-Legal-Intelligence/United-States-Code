@@ -52,5 +52,5 @@ Pub. L. 103–312, §1(a), Aug. 26, 1994, 108 Stat. 1691, provided that: "This A
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–252, §1, May 28, 1980, 94 Stat. 374, provided that "This Act \[enacting sections 57a–1 and 57b–1 to 57b–4 of this title, amending this section and sections 45, 46, 50, 57a, and 57c of this title, and enacting provisions set out as notes under sections 45, 46, 57a, 57a–1, and 57c of this title\] may be cited as the 'Federal Trade Commission Improvements Act of 1980'."
+Pub. L. 96–252, §1, May 28, 1980, 94 Stat. 374, provided that "This Act \[enacting sections 57a–1 and 57b–1 to 57b–4 of this title, amending this section and sections45, 46, 50, 57a, and 57c of this title, and enacting provisions set out as notes under sections 45, 46, 57a, 57a–1, and 57c of this title\] may be cited as the 'Federal Trade Commission Improvements Act of 1980'."
 

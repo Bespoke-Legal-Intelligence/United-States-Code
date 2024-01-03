@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the references to empowerment zones shall be treated as including references to enterprise communities, and
 
-&emsp;&emsp;(B) section 1397D(a)(2) shall be applied by substituting "an amount equal to 15 percent of the adjusted basis" for "an amount equal to the adjusted basis".
+&emsp;&emsp;(B) section 1397D(a)(2) shall be applied by substituting "an amount equal to 15 percentof the adjusted basis" for "an amount equal to the adjusted basis".
 
 #### (3) Enterprise zone business
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (iii) Reduced requirements after testing period
 
-&emsp;&emsp;&emsp;A business shall not fail to be treated as an enterprise zone business for any taxable year beginning after the testing period by reason of failing to meet any requirement of subsection (b) or (c) of section 1397C if at least 35 percent of the employees of such business for such year are residents of an empowerment zone, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction. The preceding sentence shall not apply to any business which is not aqualified business by reason of paragraph (1), (4), or (5) of section 1397C(d).
+&emsp;&emsp;&emsp;A business shall not fail to be treated as an enterprise zone business for any taxable year beginning after the testing period by reason of failing to meet any requirement of subsection (b) or (c) of section 1397C if at least 35 percent of the employees of such business for such year are residents of an empowerment zone, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction. The preceding sentence shall not apply to any business which is not a qualified business by reason of paragraph (1), (4), or (5) of section 1397C(d).
 
 #### (C) Qualified low-income community
 
@@ -138,7 +138,7 @@ The requirements of sections 147(c)(1)(A) and 147(d) shall not apply to any bond
 
 #### (2) Loss of deductions where facility ceases to be qualified
 
-&emsp;No deduction shall be allowed under this chapter for interest on any financing provided from any bond to which subsection (a) applieswith respect to any facility to the extent such interest accrues during the period beginning on the first day of the calendar year which includes the date on which—
+&emsp;No deduction shall be allowed under this chapter for interest on any financing provided from any bond to which subsection (a) applies with respect to any facility to the extent such interest accrues during the period beginning on the first day of the calendar year which includes the date on which—
 
 &emsp;&emsp;(A) substantially all of the facility with respect to which the financing was provided ceases to be used in an empowerment zone or enterprise community, or
 

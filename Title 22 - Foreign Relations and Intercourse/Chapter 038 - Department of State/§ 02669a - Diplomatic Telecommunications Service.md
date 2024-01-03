@@ -48,7 +48,7 @@ Within 60 days after August 26, 1994, the Secretary of State and the Director of
 
 #### (d) DTS planning report
 
-Not later than January 15, 1995, the Secretary of State and the Director of the DTS–PO shall submit to the Committees on Appropriations a DTS planning report. The report shall include—
+Not later than January 15, 1995, the Secretary of State and the Director of the DTS–PO shallsubmit to the Committees on Appropriations a DTS planning report. The report shall include—
 
 &emsp;(1) a detailed plan for carrying out the pilot program required by subsection (c), including an estimate of the funds required for such purpose; and
 

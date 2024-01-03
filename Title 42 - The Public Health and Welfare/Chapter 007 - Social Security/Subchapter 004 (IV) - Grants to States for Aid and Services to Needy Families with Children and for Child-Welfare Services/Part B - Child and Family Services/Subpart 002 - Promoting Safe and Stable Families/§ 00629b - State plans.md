@@ -38,7 +38,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;(6) provides for such methods of administration as the Secretary finds to be necessary for the proper and efficient operation of the plan;
 
-&emsp;(7)(A) contains assurances that Federal funds provided to the State under this subpartwill not be used to supplant Federal or non-Federal funds for existing services and activities which promote the purposes of this subpart; and
+&emsp;(7)(A) contains assurances that Federal funds provided to the State under this subpart will not be used to supplant Federal or non-Federal funds for existing services and activities which promote the purposes of this subpart; and
 
 &emsp;(B) provides that the State will furnish reports to the Secretary, at such times, in such format, and containing such information as the Secretary may require, that demonstrate the State's compliance with the prohibition contained in subparagraph (A);
 
@@ -108,7 +108,7 @@ Subsec. (a)(5)(A). Pub. L. 115–123, §50721(b)(2), struck out "time-limited" b
 
 Subsec. (b)(1). Pub. L. 115–123, §50721(b)(2), struck out "time-limited" before "family reunification".
 
-<b>2011</b>—Subsec. (a)(8)(B)(i), (ii). Pub. L. 112–34, §102(g)(1), substituted "form CFS–101 (including allparts and any successor forms)" for "forms CFS 101–Part I and CFS 101–Part II (or any successor forms)".
+<b>2011</b>—Subsec. (a)(8)(B)(i), (ii). Pub. L. 112–34, §102(g)(1), substituted "form CFS–101 (including all parts and any successor forms)" for "forms CFS 101–Part I and CFS 101–Part II (or any successor forms)".
 
 Subsec. (a)(10). Pub. L. 112–34, §102(b), added par. (10).
 

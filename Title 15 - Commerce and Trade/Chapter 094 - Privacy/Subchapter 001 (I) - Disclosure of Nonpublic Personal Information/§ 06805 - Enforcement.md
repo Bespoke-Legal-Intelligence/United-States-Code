@@ -54,7 +54,7 @@ The terms used in subsection (a)(1) that are not defined in this subchapter or o
 
 The Consumer Financial Protection Act of 2010, referred to in subsec. (a), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§1021–1029A) and E (§§1051–1058) of the Act are classified generally to parts B (§5511 et seq.) and E (§5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
 
-This subchapter, referred to in subsecs. (a), (c), and (d), was in the original "this subtitle", meaning subtitle A (§§501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in subsecs. (a), (c), and (d), was in the original "this subtitle", meaning subtitle A (§§501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally tothis subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 Section 25 of the Federal Reserve Act, referred to in subsec. (a)(1)(B), is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25A of the Federal Reserve Act is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12.
 

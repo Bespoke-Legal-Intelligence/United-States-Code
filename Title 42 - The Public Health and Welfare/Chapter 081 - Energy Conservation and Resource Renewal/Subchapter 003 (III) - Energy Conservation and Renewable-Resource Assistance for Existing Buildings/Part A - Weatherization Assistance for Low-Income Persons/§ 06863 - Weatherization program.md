@@ -16,7 +16,7 @@ The Secretary shall develop and conduct, in accordance with the purpose and prov
 
 &emsp;(C) that secure the Federal investment made under this part and address the issues of eviction from and sale of property receiving weatherization materials under this part.
 
-(3) The Secretary, in coordination with the Secretaries and Director described in paragraph (2)(A) and the Secretary of Agriculture, shall develop and publish in the Federal Register for public comment, not later than 60 days after November 9, 1978, proposed amendments to the regulations prescribed under paragraph (1). Such amendments shall provide that the standards described in paragraph (2)(A) shall include a set of procedures to be applied to each dwelling unit to determine the optimum set of cost-effective measures, within the cost guidelines set for the program, to be installed in such dwelling unit. Such standards shall, in order to achieve such optimum savings of energy, take into consideration the following factors—
+(3) The Secretary, in coordination with the Secretaries and Director described in paragraph\(2)(A) and the Secretary of Agriculture, shall develop and publish in the Federal Register for public comment, not later than 60 days after November 9, 1978, proposed amendments to the regulations prescribed under paragraph (1). Such amendments shall provide that the standards described in paragraph (2)(A) shall include a set of procedures to be applied to each dwelling unit to determine the optimum set of cost-effective measures, within the cost guidelines set for the program, to be installed in such dwelling unit. Such standards shall, in order to achieve such optimum savings of energy, take into consideration the following factors—
 
 &emsp;(A) the cost of the weatherization material;
 
@@ -94,7 +94,7 @@ Subsec. (b)(4) to (7). Pub. L. 116–260, §1011(c)(2), (3), added par. (4) and 
 
 <b>2018</b>—Subsec. (d)(1). Pub. L. 115–325, §203(1), added par. (1) and struck out former par. (1) which related to conditions for reserving funds for direct grants to provide assistance to low-income members of Indian tribes.
 
-Subsec. (d)(2). Pub. L. 115–325, §203(2), inserted heading, substituted "The amounts" for "The sums", "low-income members of the Indian tribe" for "individualsfor whom such a determination has been made", and "as the Secretary determines" for "as he determines", and struck out "on the basis of his determination" before "under this subsection".
+Subsec. (d)(2). Pub. L. 115–325, §203(2), inserted heading, substituted "The amounts" for "The sums", "low-income members of the Indian tribe" for "individuals for whom such a determination has been made", and "as the Secretary determines" for "as he determines", and struck out "on the basis of his determination" before "under this subsection".
 
 Subsec. (d)(3). Pub. L. 115–325, §203(3), inserted heading.
 

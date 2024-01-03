@@ -24,7 +24,7 @@ For purposes of this chapter, the term "wages" means all remuneration (other tha
 
 &emsp;(8)(A) for services for an employer (other than the United States or any agency thereof)—
 
-&emsp;&emsp;(i) performed by a citizen of the United States if, at the time of the payment of such remuneration, it is reasonable to believe that such remuneration will be excluded from gross income under section 911, or
+&emsp;&emsp;(i) performed by a citizen of the United States if, at the time of the payment of suchremuneration, it is reasonable to believe that such remuneration will be excluded from gross income under section 911, or
 
 &emsp;&emsp;(ii) performed in a foreign country or in a possession of the United States by such a citizen if, at the time of the payment of such remuneration, the employer is required by the law of any foreign country or possession of the United States to withhold income tax upon such remuneration,
 
@@ -100,7 +100,7 @@ For purposes of this chapter, the term "employer" means the person for whom an i
 
 #### (f) Tips
 
-For purposes of subsection (a), the term "wages" includes tips received by an employeein the course of his employment. Such wages shall be deemed to be paid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) or (if no statement including such tips is so furnished) at the time received.
+For purposes of subsection (a), the term "wages" includes tips received by an employee in the course of his employment. Such wages shall be deemed to be paid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) or (if no statement including such tips is so furnished) at the time received.
 
 #### (g) Crew leader rules to apply
 
@@ -134,7 +134,7 @@ For purposes of subsection (a), qualified stock (as defined in section 83(i)) wi
 
 #### References in Text
 
-Sections 5(c) and 6(1) of the Peace Corps Act, referred to in subsec. (a)(13), are classified to sections 2504(c) and 2505(1), respectively, of Title 22, Foreign Relations and Intercourse.
+Sections 5(c) and 6(1) of the Peace Corps Act, referred to in subsec. (a)(13), are classified to sections 2504(c)and 2505(1), respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
 
@@ -268,7 +268,7 @@ Amendment by section 885(b)(2) of Pub. L. 108–357 applicable to amounts deferr
 
 #### Effective Date of 2003 Amendments
 
-Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) ofPub. L. 108–173, set out as a note under section 62 of this title.
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
 
 Amendment by Pub. L. 108–121 applicable to taxable years beginning after Dec. 31, 2002, see section 106(c) of Pub. L. 108–121, set out as a note under section 134 of this title.
 
@@ -356,7 +356,7 @@ Amendment by section 313(d)(1), (2) of Pub. L. 89–97 applicable only with resp
 
 #### Effective Date of 1964 Amendment
 
-Amendment by section 204(b) of Pub. L. 88–272 applicable to remuneration paid after Dec. 31, 1963, in theform of group-term life insurance provided after such date, see section 204(d) of Pub. L. 88–272, set out as an Effective Date note under section 79 of this title.
+Amendment by section 204(b) of Pub. L. 88–272 applicable to remuneration paid after Dec. 31, 1963, in the form of group-term life insurance provided after such date, see section 204(d) of Pub. L. 88–272, set out as an Effective Date note under section 79 of this title.
 
 Amendment by section 213(c) of Pub. L. 88–272 applicable to remuneration paid after the seventh day following Feb. 26, 1964, see section 213(d) of Pub. L. 88–272, set out as a note under section 62 of this title.
 

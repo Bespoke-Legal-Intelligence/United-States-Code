@@ -38,7 +38,7 @@ In appointing members of the Board, the President shall—
 
 &emsp;&emsp;(D) the congressional delegations of the States in the service area; and
 
-&emsp;(2) seek qualified members from among persons who reflect the diversity, including the geographical diversity, and needs of the service area of the Corporation.
+&emsp;(2) seek qualified members from among persons who reflect the diversity, including thegeographical diversity, and needs of the service area of the Corporation.
 
 #### (d) Terms
 
@@ -146,7 +146,7 @@ In appointing members of the Board, the President shall—
 
 #### (B) Expertise
 
-&emsp;&emsp;In appointing a chief executive officer, the Board shall give particular consideration to appointing an individual with expertise in the electric industry and with strong financial skills.
+&emsp;&emsp;In appointing a chief executive officer, the Board shall give particular consideration to appointing an individual with expertise inthe electric industry and with strong financial skills.
 
 #### (3) Tenure
 

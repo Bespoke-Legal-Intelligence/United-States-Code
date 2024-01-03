@@ -54,7 +54,7 @@
 
 #### (4) Terms of designation
 
-&emsp;The terms of designation of a sanctuary shall include the geographic area proposed to be included within the sanctuary, the characteristics of the area that give it conservation,recreational, ecological, historical, research, educational, or esthetic value, and the types of activities that will be subject to regulation by the Secretary to protect those characteristics. The terms of designation may be modified only by the same procedures by which the original designation is made.
+&emsp;The terms of designation of a sanctuary shall include the geographic area proposed to be included within the sanctuary, the characteristics of the area that give it conservation, recreational, ecological, historical, research, educational, or esthetic value, and the types of activities that will be subject to regulation by the Secretary to protect those characteristics. The terms of designation may be modified only by the same procedures by which the original designation is made.
 
 #### (5) Fishing regulations
 
@@ -94,7 +94,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Federal agency actions internal or external to a national marine sanctuary, including private activities authorized by licenses, leases, or permits, that are likely to destroy,cause the loss of, or injure any sanctuary resource are subject to consultation with the Secretary.
+&emsp;&emsp;Federal agency actions internal or external to a national marine sanctuary, including private activities authorized by licenses, leases, or permits, that are likely to destroy, cause the loss of, or injure any sanctuary resource are subject to consultation with the Secretary.
 
 #### (B) Agency statements required
 
@@ -162,7 +162,7 @@ Pub. L. 106–513, §6(a), amended subpar. (C) generally. Prior to amendment, su
 
 Subsec. (a)(2). Pub. L. 106–513, §6(b), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "The Secretary shall—
 
-&emsp;"(A) prepare a draft environmental impact statement, as provided by the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), on the proposal that includes the resource assessment report required under section 1433(b)(3) of this title, maps depicting the boundaries of the proposed designated area, and the existing and potential uses and resources of the area; and
+&emsp;"(A) prepare a draft environmental impact statement, as provided by the National EnvironmentalPolicy Act of 1969 (42 U.S.C. 4321 et seq.), on the proposal that includes the resource assessment report required under section 1433(b)(3) of this title, maps depicting the boundaries of the proposed designated area, and the existing and potential uses and resources of the area; and
 
 &emsp;"(B) make copies of the draft environmental impact statement available to the public."
 
@@ -236,5 +236,5 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 Pub. L. 106–562, title III, §307(c), Dec. 23, 2000, 114 Stat. 2807, provided that: "Subsection (a) \[amending this section\] shall take effect January 1, 2001."
 
-Amendment by Pub. L. 106–555 effective immediately after the National Marine Sanctuaries Amendments Act of 2000, Pub. L. 106–513, takes effect, see section 205(c) of Pub. L. 106–555, set out as a note under section 1433 of this title.
+Amendment by Pub. L. 106–555 effective immediately after the National Marine Sanctuaries Amendments Act of 2000, Pub. L. 106–513, takes effect, see section205(c) of Pub. L. 106–555, set out as a note under section 1433 of this title.
 

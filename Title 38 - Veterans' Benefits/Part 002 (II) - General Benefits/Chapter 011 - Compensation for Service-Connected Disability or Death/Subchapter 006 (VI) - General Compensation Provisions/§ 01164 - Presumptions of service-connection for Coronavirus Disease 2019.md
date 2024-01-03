@@ -44,7 +44,7 @@ Application of Presumptions for Training Duty.—When, pursuant to subsection (a
 
 &emsp;(1) COVID–19 shall be deemed to have been incurred in the line of duty during a period of active military, naval, or air service; and
 
-&emsp;(2) where entitlement to benefits under this title is predicated on the individual who wasdisabled or died being a veteran, benefits for disability or death resulting from COVID–19 as described in subsection (a) shall be paid or furnished as if the individual was a veteran, without regard to whether the period of duty would constitute active military, naval, or air service under section 101 of this title.
+&emsp;(2) where entitlement to benefits under this title is predicated on the individual who was disabled or died being a veteran, benefits for disability or death resulting from COVID–19 as described in subsection (a) shall be paid or furnished as if the individual was a veteran, without regard to whether the period of duty would constitute active military, naval, or air service under section 101 of this title.
 
 (d)
 
@@ -62,7 +62,7 @@ Medical Examinations and Opinions.—If there is a question of whether the sympt
 
 The National Emergencies Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
-The date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020, referred to in subsec. (b)(1)(B), (2)(B), is the date of enactment of Pub. L. 116–315, which was approved Jan. 5, 2021.
+The date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020, referred to in subsec.\(b)(1)(B), (2)(B), is the date of enactment of Pub. L. 116–315, which was approved Jan. 5, 2021.
 
 #### Codification
 
@@ -72,7 +72,7 @@ Another section 1164 was renumbered section 1166 of this title.
 
 #### Medical Opinions for Certain Veterans With Service-Connected Disabilities Who Die of COVID–19
 
-Pub. L. 117–328, div. U, title II, §202(a), (b), Dec. 29, 2022, 136 Stat. 5447, 5448, provided that:
+Pub. L. 117–328, div. U, title II, §202(a), (b), Dec. 29, 2022, 136 Stat. 5447, provided that:
 
 "(a)
 

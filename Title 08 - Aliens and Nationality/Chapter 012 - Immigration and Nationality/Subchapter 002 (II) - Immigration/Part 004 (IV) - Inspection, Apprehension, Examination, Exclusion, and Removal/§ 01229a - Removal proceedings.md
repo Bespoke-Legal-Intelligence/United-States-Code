@@ -94,7 +94,7 @@
 
 #### (7) Limitation on discretionary relief for failure to appear
 
-&emsp;Any alien against whom a final order of removal is entered in absentia under this subsection and who, at the time of the notice described in paragraph (1) or (2) of section 1229(a) of this title, was provided oral notice, either in the alien's native language or in another language the alien understands, of the time and place of the proceedings and of the consequences under this paragraph of failing, other than because of exceptional circumstances (as defined in subsection (e)(1)) to attend a proceeding under this section, shall not be eligible for relief under section 1229b, 1229c, 1255, 1258, or 1259 of this title for a periodof 10 years after the date of the entry of the final order of removal.
+&emsp;Any alien against whom a final order of removal is entered in absentia under this subsection and who, at the time of the notice described in paragraph (1) or (2) of section 1229(a) of this title, was provided oral notice, either in the alien's native language or in another language the alien understands, of the time and place of the proceedings and of the consequences under this paragraph of failing, other than because of exceptional circumstances (as defined in subsection (e)(1)) to attend a proceeding under this section, shall not be eligible for relief under section 1229b, 1229c, 1255, 1258, or 1259 of this title for a period of 10 years after the date of the entry of the final order of removal.
 
 #### (c) Decision and burden of proof
 
@@ -164,7 +164,7 @@
 
 #### (B) Sustaining burden
 
-&emsp;&emsp;The applicant must comply with the applicable requirements to submit information or documentation in support of the applicant's application for relief or protection as provided by law or by regulation or in the instructions for the application form. In evaluating the testimony of the applicant or other witness in support of the application, the immigration judge will determine whether or not the testimony is credible, is persuasive, and refers to specific facts sufficient to demonstrate that the applicant has satisfied the applicant's burden of proof. In determining whether the applicant has met such burden, the immigration judge shall weigh the credible testimony along with other evidence of record. Where the immigration judge determines that the applicant should provide evidence which corroboratesotherwise credible testimony, such evidence must be provided unless the applicant demonstrates that the applicant does not have the evidence and cannot reasonably obtain the evidence.
+&emsp;&emsp;The applicant must comply with the applicable requirements to submit information or documentation in support of the applicant's application for relief or protection as provided by law or by regulation or in the instructions for the application form. In evaluating the testimony of the applicant or other witness in support of the application, the immigration judge will determine whether or not the testimony is credible, is persuasive, and refers to specific facts sufficient to demonstrate that the applicant has satisfied the applicant's burden of proof. In determining whether the applicant has met such burden, the immigration judge shall weigh the credible testimony along with other evidence of record. Where the immigration judge determines that the applicant should provide evidence which corroborates otherwise credible testimony, such evidence must be provided unless the applicant demonstrates that the applicant does not have the evidence and cannot reasonably obtain the evidence.
 
 #### (C) Credibility determination
 
@@ -216,7 +216,7 @@
 
 &emsp;&emsp;&emsp;Any limitation under this section on the deadlines for filing such motions shall not apply—
 
-&emsp;&emsp;&emsp;&emsp;(I) if the basis for the motion is to apply for relief under clause (iii) or (iv) of section 1154(a)(1)(A) of this title, clause (ii) or (iii) of section 1154(a)(1)(B) of this title,,<sup>1</sup> section 1229b(b) of this title, or section 1254(a)(3) of this title (as in effect on March 31, 1997);
+&emsp;&emsp;&emsp;&emsp;(I) if the basis for the motion is to apply for relief under clause (iii) or (iv) of section 1154(a)(1)(A) of this title, clause (ii) or (iii) of section 1154(a)(1)(B)of this title,,<sup>1</sup> section 1229b(b) of this title, or section 1254(a)(3) of this title (as in effect on March 31, 1997);
 
 &emsp;&emsp;&emsp;&emsp;(II) if the motion is accompanied by a cancellation of removal application to be filed with the Attorney General or by a copy of the self-petition that has been or will be filed with the Immigration and Naturalization Service upon the granting of the motion to reopen;
 
@@ -228,7 +228,7 @@
 
 #### (d) Stipulated removal
 
-The Attorney General shall provide by regulation for the entry by an immigration judge of an order of removal stipulated to by the alien (orthe alien's representative) and the Service. A stipulated order shall constitute a conclusive determination of the alien's removability from the United States.
+The Attorney General shall provide by regulation for the entry by an immigration judge of an order of removal stipulated to by the alien (or the alien's representative) and the Service. A stipulated order shall constitute a conclusive determination of the alien's removability from the United States.
 
 #### (e) Definitions
 
@@ -292,7 +292,7 @@ Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 15
 
 #### Effective Date
 
-Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section effective, with certain transitional provisions, on the first day of the first month beginningmore than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Subsec. (c)(3)(B), (C) of this section applicable to proving convictions entered before, on, or after Sept. 30, 1996, see section 322(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
@@ -310,7 +310,7 @@ In general.—Notwithstanding any limitation imposed by law on motions to reopen
 
 &emsp;"(I) there is no time limit on the filing of a motion to reopen such proceedings, and the deadline specified in section 242B(c)(3) of the Immigration and Nationality Act (as so in effect) (8 U.S.C. 1252b(c)(3)) does not apply—
 
-&emsp;&emsp;"(aa) if the basis of the motion is to apply for relief under clause (iii) or (iv) of section 204(a)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(A)), clause (ii) or (iii) of section 204(a)(1)(B) of such Act (8 U.S.C. 1154(a)(1)(B)), orsection 244(a)(3) of such Act (as so in effect) (8 U.S.C. 1254(a)(3)); and
+&emsp;&emsp;"(aa) if the basis of the motion is to apply for relief under clause (iii) or (iv) of section 204(a)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(A)), clause (ii) or (iii) of section 204(a)(1)(B) of such Act (8 U.S.C. 1154(a)(1)(B)), or section 244(a)(3) of such Act (as so in effect) (8 U.S.C. 1254(a)(3)); and
 
 &emsp;&emsp;"(bb) if the motion is accompanied by a suspension of deportation application to be filed with the Secretary of Homeland Security or by a copy of the self-petition that will be filed with the Department of Homeland Security upon the granting of the motion to reopen; and
 

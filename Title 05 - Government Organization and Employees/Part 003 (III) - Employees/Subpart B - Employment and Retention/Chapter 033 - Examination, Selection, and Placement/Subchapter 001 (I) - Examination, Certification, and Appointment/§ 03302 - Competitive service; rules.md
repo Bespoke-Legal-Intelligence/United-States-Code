@@ -110,7 +110,7 @@ Sec. 4. For the purpose of this order:
 
 Sec. 5. The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out the provisions of this order.
 
-Sec. 6. Executive Order No. 11397 of February 9, 1968, is revoked. Such revocation shall not affect the right of an employee to be converted to career-conditional or career employment if he meets the requirements of section 1(d) of Executive Order No. 11397 after the effective date of this order.
+Sec. 6. Executive Order No. 11397 of February 9, 1968, is revoked. Such revocation shall not affect the right ofan employee to be converted to career-conditional or career employment if he meets the requirements of section 1(d) of Executive Order No. 11397 after the effective date of this order.
 
 Sec. 7. This order is effective 14 days after its date.
 

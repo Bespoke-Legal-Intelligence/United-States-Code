@@ -2,7 +2,7 @@
 
 #### (a) Appointment and number of members
 
-The Advisory Board shall be composed of nine members. The Secretary shall designate the Chairman of the Advisory Board. The Assistant Secretary of the Interior for Fish and Wildlife shall be a member of such Board ex officio. The remaining eight members of such Board shall be appointed as follows—
+The Advisory Board shall be composed of nine members. The Secretary shall designate theChairman of the Advisory Board. The Assistant Secretary of the Interior for Fish and Wildlife shall be a member of such Board ex officio. The remaining eight members of such Board shall be appointed as follows—
 
 &emsp;(1) two Members of the Senate, appointed by the President of the Senate;
 

@@ -12,7 +12,7 @@ Whenever, in connection with the furnishing of assistance under this chapter—
 
 #### (b) Settlement of claims
 
-Before suit against the United States Government has been instituted, the head of the agency of the United States Government concerned may settle and pay any claim arising under the circumstances described in subsection (a) of this section. No claim may be paid under this subsection unless the amount tendered is accepted by the claimant in full satisfaction.
+Before suit against the United States Government has been instituted, the head of the agencyof the United States Government concerned may settle and pay any claim arising under the circumstances described in subsection (a) of this section. No claim may be paid under this subsection unless the amount tendered is accepted by the claimant in full satisfaction.
 
 #### (c) Drug products manufactured outside the United States
 

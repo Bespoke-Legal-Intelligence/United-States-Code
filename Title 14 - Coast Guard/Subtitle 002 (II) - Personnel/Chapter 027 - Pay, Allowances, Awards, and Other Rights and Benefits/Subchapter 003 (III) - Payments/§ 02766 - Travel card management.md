@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary may require that travel or transportation allowances due a civilian employee or military member of theCoast Guard be disbursed directly to the issuer of a Federal contractor-issued travel charge card, but only in an amount not to exceed the authorized travel expenses charged by that Coast Guard member to that travel charge card issued to that employee or member.
+In General.—The Secretary may require that travel or transportation allowances due a civilian employee or military member of the Coast Guard be disbursed directly to the issuer of a Federal contractor-issued travel charge card, but only in an amount not to exceed the authorized travel expenses charged by that Coast Guard member to that travel charge card issued to that employee or member.
 
 (b)
 

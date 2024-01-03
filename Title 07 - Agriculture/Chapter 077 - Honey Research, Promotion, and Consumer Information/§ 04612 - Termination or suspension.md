@@ -24,7 +24,7 @@ Except as provided in subsection (d)(3) and section 4613(g) of this title, on th
 
 #### (3) Effect on periodic referenda
 
-&emsp;If a referendum is conducted under this subsection and the Secretary determines that continuation of the order is approved undersection 4611 of this title, any referendum otherwise required to be conducted under subsection (c) shall not be held before the date that is 5 years after the date of the referendum conducted under this subsection.
+&emsp;If a referendum is conducted under this subsection and the Secretary determines that continuation of the order is approved under section 4611 of this title, any referendum otherwise required to be conducted under subsection (c) shall not be held before the date that is 5 years after the date of the referendum conducted under this subsection.
 
 #### (e) Timing and requirements for termination or suspension
 

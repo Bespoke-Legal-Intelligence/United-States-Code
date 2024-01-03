@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(A) a list of all programmatic authorities for aquatic ecosystem restoration or improvement of the environment that—
 
-&emsp;&emsp;&emsp;(i) were authorized or modified in the Water Resources Development Act of 2007\(Public Law 110–114; 121 Stat. 1041) or any subsequent Act; and
+&emsp;&emsp;&emsp;(i) were authorized or modified in the Water Resources Development Act of 2007 (Public Law 110–114; 121 Stat. 1041) or any subsequent Act; and
 
 &emsp;&emsp;&emsp;(ii) that meet the criteria described in paragraph (1); and
 

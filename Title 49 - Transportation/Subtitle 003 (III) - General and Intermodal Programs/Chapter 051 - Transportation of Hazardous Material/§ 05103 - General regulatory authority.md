@@ -40,7 +40,7 @@ In general.—The Secretary may by order waive compliance with any part of an ap
 
 &emsp;&emsp;(B) the waiver is not inconsistent with the safety of transporting hazardous materials; and
 
-&emsp;&emsp;(C) the waiver is necessary to facilitate the safe movement of hazardous materials into, from, and within an area of a major disaster or emergency that has been declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+&emsp;&emsp;(C) the waiver is necessary to facilitate the safe movement of hazardous materialsinto, from, and within an area of a major disaster or emergency that has been declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
 &emsp;(2)
 
@@ -200,7 +200,7 @@ Regulatory Authority.—The Secretary of Transportation may issue regulations th
 
 #### Safe Placement of Train Cars
 
-Pub. L. 103–311, title I, §111, Aug. 26, 1994, 108 Stat. 1676, provided that: "The Secretary of Transportation shall conduct a study of existing practices regarding the placement of cars on trains, with particular attention to the placement of cars that carry hazardous materials. In conducting the study, the Secretary shallconsider whether such placement practices increase the risk of derailment, hazardous materials spills, or tank ruptures or have any other adverse effect on safety. The results of the study shall be submitted to Congress within 1 year after the date of enactment of this Act \[Aug. 26, 1994\]."
+Pub. L. 103–311, title I, §111, Aug. 26, 1994, 108 Stat. 1676, provided that: "The Secretary of Transportation shall conduct a study of existing practices regarding the placement of cars on trains, with particular attention to the placement of cars that carry hazardous materials. In conducting the study, the Secretary shall consider whether such placement practices increase the risk of derailment, hazardous materials spills, or tank ruptures or have any other adverse effect on safety. The results of the study shall be submitted to Congress within 1 year after the date of enactment of this Act \[Aug. 26, 1994\]."
 
 #### Fiber Drum Packaging
 

@@ -10,7 +10,7 @@ Except as provided in subsection (b)—
 
 #### (b) Exception
 
-Notwithstanding subsection (a), the provisions of sections 2716 and 2718 of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg–16,300gg–18\] (as amended by the Patient Protection and Affordable Care Act) shall not apply with respect to self-insured group health plans, and the provisions of this part shall continue to apply to such plans as if such sections of the Public Health Service Act (as so amended) had not been enacted.
+Notwithstanding subsection (a), the provisions of sections 2716 and 2718 of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg–16, 300gg–18\] (as amended by the Patient Protection and Affordable Care Act) shall not apply with respect to self-insured group health plans, and the provisions of this part shall continue to apply to such plans as if such sections of the Public Health Service Act (as so amended) had not been enacted.
 
 (Pub. L. 93–406, title I, §715, as added Pub. L. 111–148, title I, §1563(e), formerly §1562(e), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 270, 911.)
 

@@ -62,7 +62,7 @@ Notice.—The modification or revocation of the transfer of entitlement under th
 
 &emsp;(3)
 
-Prohibition on treatment of transferred entitlement as marital property.—Entitlement transferred under this sectionmay not be treated as marital property, or the asset of a marital estate, subject to division in a divorce or other civil proceeding.
+Prohibition on treatment of transferred entitlement as marital property.—Entitlement transferred under this section may not be treated as marital property, or the asset of a marital estate, subject to division in a divorce or other civil proceeding.
 
 (g)
 
@@ -140,7 +140,7 @@ Primary caregivers of seriously injured members of the armed forces and veterans
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Subject to clause (ii), in the case of a child who, before attaining the age of 26 years, is prevented from pursuing a chosen program of education by reason of acting as the primary provider of personal care services for a veteran or member of the Armed Forces under section 1720G(a), the child may use the benefits beginning on the date specified in clause (iii) for a period whose length is specified in clause (iv).
+In general.—Subject to clause (ii), in the case of a child who, before attaining the age of 26 years, is prevented from pursuing a chosen program of education by reason of acting as the primary provider of personal care services for a veteran ormember of the Armed Forces under section 1720G(a), the child may use the benefits beginning on the date specified in clause (iii) for a period whose length is specified in clause (iv).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -224,9 +224,9 @@ Additional Transfer Upon Death of Dependent.—In the case of a dependent to who
 
 (l)
 
-Transfer by Dependent.—In the case of an individual who transfers entitlement to educational assistance under this section who dies before the dependent to whom entitlement to educational assistance is so transferred has used all of such entitlement, such dependent may transfer such entitlement to another eligible dependent in accordance with the provisions of this section.
+Transfer by Dependent.—In the case of an individual who transfers entitlement to educational assistance under this section who diesbefore the dependent to whom entitlement to educational assistance is so transferred has used all of such entitlement, such dependent may transfer such entitlement to another eligible dependent in accordance with the provisions of this section.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(7), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§110(a), (b), 112(b), title II, §201(b), Jan. 4, 2011, 124 Stat. 4120, 4122, 4123; Pub. L. 114–58, title VI, §601(19), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §110(a), Aug. 16, 2017, 131 Stat. 981; Pub. L. 116–92, div. A, titleV, §578, Dec. 20, 2019, 133 Stat. 1406; Pub. L. 116–315, title I, §1011(a), Jan. 5, 2021, 134 Stat. 4941; Pub. L. 117–297, §3, Dec. 27, 2022, 136 Stat. 4376; Pub. L. 117–328, div. U, title II, §214(a), Dec. 29, 2022, 136 Stat. 5454; Pub. L. 117–333, §3(b)(2), Jan. 5, 2023, 136 Stat. 6126.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(7), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§110(a), (b), 112(b), title II, §201(b), Jan. 4, 2011, 124 Stat. 4120, 4122, 4123; Pub. L. 114–58, title VI, §601(19), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §110(a), Aug. 16, 2017, 131 Stat. 981; Pub. L. 116–92, div. A, title V, §578, Dec. 20, 2019, 133 Stat. 1406; Pub. L. 116–315, title I, §1011(a), Jan. 5, 2021, 134 Stat. 4941; Pub. L. 117–297, §3, Dec. 27, 2022, 136 Stat. 4376; Pub. L. 117–328, div. U, title II, §214(a), Dec. 29, 2022, 136 Stat. 5454; Pub. L. 117–333, §3(b)(2), Jan. 5, 2023, 136 Stat. 6126.)
 
 #### <b>Editorial Notes</b>
 

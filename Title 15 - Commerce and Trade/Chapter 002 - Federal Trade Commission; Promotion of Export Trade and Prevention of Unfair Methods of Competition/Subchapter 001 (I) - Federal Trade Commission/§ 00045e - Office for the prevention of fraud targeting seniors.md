@@ -34,7 +34,7 @@ The Commission shall commence carrying out the requirements of this section not 
 
 #### (c) Use of existing funds
 
-No additional funds are authorized to be appropriated to carry out this section and theCommission shall carry out this section using amounts otherwise made available to the Commission.
+No additional funds are authorized to be appropriated to carry out this section and the Commission shall carry out this section using amounts otherwise made available to the Commission.
 
 (Pub. L. 117–103, div. Q, title I, §122, Mar. 15, 2022, 136 Stat. 811.)
 

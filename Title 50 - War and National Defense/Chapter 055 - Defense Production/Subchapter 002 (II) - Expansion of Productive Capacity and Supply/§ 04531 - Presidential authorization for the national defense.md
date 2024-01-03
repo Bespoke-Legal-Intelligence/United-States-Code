@@ -118,7 +118,7 @@ Section was formerly classified to section 2091 of the former Appendix to this t
 
 #### Prior Provisions
 
-A prior section 301 of act Sept. 8, 1950, ch. 932, title III, 64 Stat. 800; June 30, 1953, ch. 171, §4, 67 Stat. 129;Pub. L. 91–379, title I, §104, Aug. 15, 1970, 84 Stat. 799; Pub. L. 96–294, title I, §104(a), (b), June 30, 1980, 94 Stat. 618; Pub. L. 98–265, §§3(a), 4(a), Apr. 17, 1984, 98 Stat. 149, 150; Pub. L. 102–558, title I, §§121(a), 141, Oct. 28, 1992, 106 Stat. 4203, 4217; Pub. L. 107–47, §4(1)–(3), (5), Oct. 5, 2001, 115 Stat. 260, related to loan guarantees, prior to the general amendment of title III of this Act by Pub. L. 111–67.
+A prior section 301 of act Sept. 8, 1950, ch. 932, title III, 64 Stat. 800; June 30, 1953, ch. 171, §4, 67 Stat. 129; Pub. L. 91–379, title I, §104, Aug. 15, 1970, 84 Stat. 799; Pub. L. 96–294, title I, §104(a), (b), June 30, 1980, 94 Stat. 618; Pub. L. 98–265, §§3(a), 4(a), Apr. 17, 1984, 98 Stat. 149, 150; Pub. L. 102–558, title I, §§121(a), 141, Oct. 28, 1992, 106 Stat. 4203, 4217; Pub. L. 107–47, §4(1)–(3), (5), Oct. 5, 2001, 115 Stat. 260, related to loan guarantees, prior to the general amendment of title III of this Act by Pub. L. 111–67.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -70,7 +70,7 @@ Each Board shall, in accordance with the provisions of this chapter—
 
 Each Board shall be authorized to—
 
-&emsp;(1) cooperate with Federal agencies, with States and with local government entities, interstate and regional agencies, other public agencies and authorities, nonprofit institutions, laboratories, and organizations, or other appropriate persons, in the preparation and support of marine research in the region;
+&emsp;(1) cooperate with Federal agencies, with States and with local government entities,interstate and regional agencies, other public agencies and authorities, nonprofit institutions, laboratories, and organizations, or other appropriate persons, in the preparation and support of marine research in the region;
 
 &emsp;(2) enter into contracts, cooperative agreements or grants to State and local governmental entities, other public agencies or institutions, and non-profit institutions and organizations for purposes of carrying out the provisions of this chapter;
 

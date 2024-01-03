@@ -16,7 +16,7 @@ Definitions.—In this section—
 
 Duties of Air Carriers.—An air carrier shall—
 
-&emsp;(1) maintain rates of compensation, maximum hours, and other working conditions and relations for its pilots and copilots who are providing interstate air transportation in the48 contiguous States and the District of Columbia to conform with decision number 83, May 10, 1934, National Labor Board, notwithstanding any limitation in that decision on the period of its effectiveness;
+&emsp;(1) maintain rates of compensation, maximum hours, and other working conditions and relations for its pilots and copilots who are providing interstate air transportation in the 48 contiguous States and the District of Columbia to conform with decision number 83, May 10, 1934, National Labor Board, notwithstanding any limitation in that decision on the period of its effectiveness;
 
 &emsp;(2) maintain rates of compensation for its pilots and copilots who are providing foreign air transportation or air transportation only in one territory or possession of the United States; and
 

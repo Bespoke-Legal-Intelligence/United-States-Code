@@ -1,6 +1,6 @@
 ### §4103. Exemptions
 
-(a) The Secretary may exempt a vessel from any part of this chapter if, under regulations prescribed by the Secretary (including regulations on special operating conditions), the Secretary finds that—
+(a) The Secretary may exempt a vessel from any part of this chapter if, under regulationsprescribed by the Secretary (including regulations on special operating conditions), the Secretary finds that—
 
 &emsp;(1) good cause exists for granting an exemption; and
 

@@ -6,7 +6,7 @@ Commissioned Officers.—
 
 &emsp;(1)
 
-In general.—A commissioned officer who is retired under any provision of this title, shall be retired from active service with thehighest grade held by the commissioned officer for not less than six months while on active duty in which, as determined by the Secretary, the commissioned officer's performance of duty was satisfactory.
+In general.—A commissioned officer who is retired under any provision of this title, shall be retired from active service with the highest grade held by the commissioned officer for not less than six months while on active duty in which, as determined by the Secretary, the commissioned officer's performance of duty was satisfactory.
 
 &emsp;(2)
 
@@ -80,7 +80,7 @@ Inapplicability to Commissioned Warrant Officers.—This section, including subs
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a). Pub. L. 116–283, §8201(c)(1), designated existing provisions as par. (1), inserted subsec. heading and par. (1) heading, substituted "A commissioned officer" for "Any commissioned officer, other than a commissioned warrant officer,", "the commissioned officer" for "him", and "the commissioned officer's" for "his", and added par. (2).
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §8201(c)(1), designated existing provisions as par. (1), inserted subsec.heading and par. (1) heading, substituted "A commissioned officer" for "Any commissioned officer, other than a commissioned warrant officer,", "the commissioned officer" for "him", and "the commissioned officer's" for "his", and added par. (2).
 
 Subsec. (b). Pub. L. 116–283, §8201(c)(2), inserted heading and substituted "the warrant officer" for "him" and "the warrant officer's" for "his".
 

@@ -76,7 +76,7 @@ If all of the producers on a farm make the election under section 9015(a) of thi
 
 #### (B) 2019 through 2023 crop years
 
-&emsp;&emsp;Effective for the 2019 through 2023 crop years, if the yield per planted acre for the covered commodity or historical county yield per planted acre for the covered commodity for any of the 5 most recent crop years, as determined by the Secretary, is less than 80 percent of the transitional yield, as determined by the Secretary, the amounts used for any of those years in paragraph (2)(A) or (3)(A)(i) shall be 80 percent of the transitional yield.
+&emsp;&emsp;Effective for the 2019 through 2023 crop years, if the yield per planted acre for thecovered commodity or historical county yield per planted acre for the covered commodity for any of the 5 most recent crop years, as determined by the Secretary, is less than 80 percent of the transitional yield, as determined by the Secretary, the amounts used for any of those years in paragraph (2)(A) or (3)(A)(i) shall be 80 percent of the transitional yield.
 
 #### (5) Trend-adjusted yield
 
@@ -186,7 +186,7 @@ In providing agriculture risk coverage, the Secretary shall—
 
 #### (3) Data sources for county yields
 
-&emsp;For the 2018 crop year and each crop year thereafter, the Secretary shall make publiclyavailable information describing, for the most recent crop year—
+&emsp;For the 2018 crop year and each crop year thereafter, the Secretary shall make publicly available information describing, for the most recent crop year—
 
 &emsp;&emsp;(A) the sources of data used to calculate county yields under subsection (c)(2)(A) for each covered commodity—
 
@@ -233,6 +233,10 @@ In providing agriculture risk coverage, the Secretary shall—
 #### References in Text
 
 The Federal Crop Insurance Act, referred to in subsec. (c)(5), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+
+#### Codification
+
+Provisions of law applicable to a covered commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that covered commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
 #### Amendments
 

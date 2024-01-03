@@ -244,7 +244,7 @@ Beginning in fiscal year 2023, the Secretary shall assess and collect fees in ac
 
 #### (C) Reactivation fee
 
-&emsp;&emsp;The reactivation fee under subsection (a)(1)(D) for a fiscal year shall be equal to twice the amount of the annual biosimilar biological product development fee under subsection (a)(1)(B) for that fiscal year.
+&emsp;&emsp;The reactivation fee under subsection (a)(1)(D) for a fiscal year shall be equal totwice the amount of the annual biosimilar biological product development fee under subsection (a)(1)(B) for that fiscal year.
 
 #### (3) Annual base revenue
 
@@ -370,7 +370,7 @@ A biosimilar biological product application or supplement submitted by a person 
 
 &emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2023, to defray the costs of the process for the review of biosimilar biological product applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the Secretary allocates for such purpose an amount for such fiscal year (excluding amounts from fees collected under this section) no less than $20,000,000, multiplied by the adjustment factor applicable to such fiscal year; and
 
-&emsp;&emsp;&emsp;&emsp;(II) for fiscal year 2024 and each subsequent fiscal year, to defray the costs of the process for the review of biosimilar biological product applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the sum of the amounts allocated by the Secretary for such costs, excluding costs paid from fees collected under this section, plus other costs for the maintenance, renovation, and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture, and other necessary materials and supplies in connection with the process for the review of biosimilar biological product applications, is no less than $20,000,000, multiplied by the adjustment factor applicable to the fiscal year involved.
+&emsp;&emsp;&emsp;&emsp;(II) for fiscal year 2024 and each subsequent fiscal year, to defray the costs of the process for the review of biosimilar biological product applications (including such costs for an additional numberof full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the sum of the amounts allocated by the Secretary for such costs, excluding costs paid from fees collected under this section, plus other costs for the maintenance, renovation, and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture, and other necessary materials and supplies in connection with the process for the review of biosimilar biological product applications, is no less than $20,000,000, multiplied by the adjustment factor applicable to the fiscal year involved.
 
 #### (ii) Leasing and necessary equipment
 
@@ -426,7 +426,7 @@ Subsec. (a)(1)(E)(v). Pub. L. 117–180, §4003(a)(5), added cl. (v).
 
 Subsec. (a)(2)(D). Pub. L. 117–180, §4003(a)(6), inserted "prior to approval" after "or was withdrawn".
 
-Subsec. (a)(3)(A)(ii). Pub. L. 117–180, §4003(a)(7)(A), added cl. (ii) and redesignated former cl. (ii) as (iii).
+Subsec. (a)(3)(A)(ii), (iii). Pub. L. 117–180, §4003(a)(7)(A), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
 Subsec. (a)(3)(E). Pub. L. 117–180, §4003(a)(7)(B), added subpar. (E).
 
@@ -438,7 +438,7 @@ Pub. L. 117–180, §4003(b)(1), struck out par. (1) which related to fee revenu
 
 Subsec. (b)(2). Pub. L. 117–180, §4003(b)(2), (4)(A), redesignated par. (3) as (2) and struck out "; limitations on fee amounts" after "among fees" in heading. Former par. (2) redesignated (1).
 
-Subsec. (b)(2)(B)–(D). Pub. L. 117–180, §4003(b)(4)(B), (C), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "Until the first fiscal year for which the capacity planning adjustment under subsection (c)(2) is effective, the amount of any fee under subsection (a) for a fiscal year after fiscal year 2018 shall not exceed 125 percent of the amount of such fee for fiscal year 2018."
+Subsec. (b)(2)(B) to (D). Pub. L. 117–180, §4003(b)(4)(B), (C), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "Until the first fiscal year for which the capacity planning adjustment under subsection (c)(2) is effective, the amount of any fee under subsection (a) for a fiscal year after fiscal year 2018 shall not exceed 125 percent of the amount of such fee for fiscal year 2018."
 
 Subsec. (b)(3), (4). Pub. L. 117–180, §4003(b)(2), (5), redesignated par. (4) as (3) and amended it generally. Prior to amendment, text read as follows: "For purposes of paragraph (2), the dollar amount of the annual base revenue for a fiscal year shall be the dollar amount of the total revenue amount for the previous fiscal year, excluding any adjustments to such revenue amount under subsection (c)(3)." Former par. (3) redesignated (2).
 
@@ -448,7 +448,7 @@ Subsec. (c)(1)(A)(i). Pub. L. 117–180, §4003(c)(1)(A)(ii), substituted "subse
 
 Subsec. (c)(1)(B)(ii). Pub. L. 117–180, §4003(c)(1)(B), substituted "Washington-Arlington-Alexandria, DC–VA–MD–WV" for "Washington-Baltimore, DC–MD–VA–WV".
 
-Subsec. (c)(2)–(4). Pub. L. 117–180, §4003(c)(2), added pars. (2) to (4) and struck out former pars. (2) to (4) which related to application and methodology of capacity planning adjustment, operating reserve adjustment, and fiscal year 2018 adjustment, respectively.
+Subsec. (c)(2) to (4). Pub. L. 117–180, §4003(c)(2), added pars. (2) to (4) and struck out former pars. (2) to (4) which related to application and methodology of capacity planning adjustment, operating reserve adjustment, and fiscal year 2018 adjustment, respectively.
 
 Subsec. (c)(5). Pub. L. 117–180, §4003(c)(3), substituted "2023" for "2018" in introductory provisions.
 
@@ -492,7 +492,7 @@ Subsec. (a)(1)(F)(i). Pub. L. 115–52, §403(a)(11)(B), amended cl. (i) general
 
 Subsec. (a)(2). Pub. L. 115–52, §403(a)(12)(A), struck out "and supplement" after "application" in heading.
 
-Subsec. (a)(2)(A), (B). Pub. L. 115–52, §403(a)(12)(B), amended subpars. (A) and (B) generally. Prior toamendment, subpars. (A) and (B) related to the fee for a biosimilar biological product application or a supplement submitted on or after Oct. 1, 2012, and to a reduction in certain fees, respectively.
+Subsec. (a)(2)(A), (B). Pub. L. 115–52, §403(a)(12)(B), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) related to the fee for a biosimilar biological product application or a supplement submitted on or after Oct. 1, 2012, and to a reduction in certain fees, respectively.
 
 Subsec. (a)(2)(C). Pub. L. 115–52, §403(a)(12)(D), struck out "or supplement" after "application".
 

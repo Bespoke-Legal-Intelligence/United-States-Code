@@ -50,7 +50,7 @@ Mail order reporting.—(A) As used in this paragraph:
 
 (D) Except as provided in subparagraph (E), the following distributions to a nonregulated person, and the following export transactions, shall not be subject to the reporting requirement in subparagraph (B):
 
-&emsp;(i) Distributions of sample packages of drug products when such packages contain not more than two solid dosage units or the equivalent of two dosage units in liquid form, not to exceed 10 milliliters of liquid per package, and not more than one package is distributed to an individual or residential address in any 30-day period.
+&emsp;(i) Distributions of sample packages of drug products when such packages contain not more than two solid dosage units or the equivalent of two dosage units in liquid form, not to exceed 10 milliliters of liquid per package, and not more than one package is distributed to anindividual or residential address in any 30-day period.
 
 &emsp;(ii) Distributions of drug products by retail distributors that may not include face-to-face transactions to the extent that such distributions are consistent with the activities authorized for a retail distributor as specified in section 802(49) of this title, except that this clause does not apply to sales of scheduled listed chemical products at retail.
 
@@ -62,7 +62,7 @@ Mail order reporting.—(A) As used in this paragraph:
 
 &emsp;(vi) Any quantity, method, or type of distribution or any quantity, method, or type of distribution of a specific listed chemical (including specific formulations or drug products) or of a group of listed chemicals (including specific formulations or drug products) which the Attorney General has excluded by regulation from such reporting requirement on the basis that such reporting is not necessary for the enforcement of this subchapter or subchapter II.
 
-(E) The Attorney General may revoke any or all of the exemptions listed in subparagraph (D) for an individual regulated person if he findsthat drug products distributed by the regulated person are being used in violation of this subchapter or subchapter II. The regulated person shall be notified of the revocation, which will be effective upon receipt by the person of such notice, as provided in section 971(c)(1) of this title, and shall have the right to an expedited hearing as provided in section 971(c)(2) of this title.
+(E) The Attorney General may revoke any or all of the exemptions listed in subparagraph (D) for an individual regulated person if he finds that drug products distributed by the regulated person are being used in violation of this subchapter or subchapter II. The regulated person shall be notified of the revocation, which will be effective upon receipt by the person of such notice, as provided in section 971(c)(1) of this title, and shall have the right to an expedited hearing as provided in section 971(c)(2) of this title.
 
 #### (c) Confidentiality of information obtained by Attorney General; non-disclosure; exceptions
 
@@ -108,7 +108,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;&emsp;&emsp;(ii) The seller delivers the product directly into the custody of the purchaser.
 
-&emsp;&emsp;&emsp;(iii) The seller maintains, in accordance with criteria issued by the Attorney General, a written or electronic list of such sales that identifies the products by name, the quantity sold, the names and addresses of purchasers, and the dates and times of the sales (which list is referred to in this subsection as the "logbook"), except that such requirement does not apply to any purchase by an individual of a single sales package if that package contains not more than 60 milligrams of pseudoephedrine.
+&emsp;&emsp;&emsp;(iii) The seller maintains, in accordance with criteria issued by the Attorney General, a written or electronic list of such sales that identifies the products by name, the quantity sold, the names and addresses of purchasers, and the dates and times of the sales (which list is referred to in this subsection as the "logbook"), except thatsuch requirement does not apply to any purchase by an individual of a single sales package if that package contains not more than 60 milligrams of pseudoephedrine.
 
 &emsp;&emsp;&emsp;(iv) In the case of a sale to which the requirement of clause (iii) applies, the seller does not sell such a product unless the sale is made in accordance with the following:
 
@@ -224,7 +224,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;Upon the application of a manufacturer of a scheduled listed chemical product, the Attorney General may by regulation provide that the product is exempt from the provisions of subsection (d) and paragraphs (1) and (2) of this subsection if the Attorney General determines that the product cannot be used in the illicit manufacture of methamphetamine.
 
-(Pub. L. 91–513, title II, §310, as added Pub. L. 95–633, title II, §202(a), Nov. 10, 1978, 92 Stat. 3774;amended Pub. L. 100–690, title VI, §6052(a), Nov. 18, 1988, 102 Stat. 4312; Pub. L. 103–200, §§2(c), 10, Dec. 17, 1993, 107 Stat. 2336, 2341; Pub. L. 104–237, title II, §208, title IV, §402, Oct. 3, 1996, 110 Stat. 3104, 3111; Pub. L. 106–310, div. B, title XXXVI, §3652, Oct. 17, 2000, 114 Stat. 1239; Pub. L. 109–177, title VII, §§711(a)(2)(B), (b)(1), (c)(1), (2), (d), 716(b)(2), Mar. 9, 2006, 120 Stat. 257, 261, 267; Pub. L. 110–415, §2, Oct. 14, 2008, 122 Stat. 4349; Pub. L. 111–268, §§2, 3, Oct. 12, 2010, 124 Stat. 2847.)
+(Pub. L. 91–513, title II, §310, as added Pub. L. 95–633, title II, §202(a), Nov. 10, 1978, 92 Stat. 3774; amended Pub. L. 100–690, title VI, §6052(a), Nov. 18, 1988, 102 Stat. 4312; Pub. L. 103–200, §§2(c), 10, Dec. 17, 1993, 107 Stat. 2336, 2341; Pub. L. 104–237, title II, §208, title IV, §402, Oct. 3, 1996, 110 Stat. 3104, 3111; Pub. L. 106–310, div. B, title XXXVI, §3652, Oct. 17, 2000, 114 Stat. 1239; Pub. L. 109–177, title VII, §§711(a)(2)(B), (b)(1), (c)(1), (2), (d), 716(b)(2), Mar. 9, 2006, 120 Stat. 257, 261, 267; Pub. L. 110–415, §2, Oct. 14, 2008, 122 Stat. 4349; Pub. L. 111–268, §§2, 3, Oct. 12, 2010, 124 Stat. 2847.)
 
 #### <b>Editorial Notes</b>
 

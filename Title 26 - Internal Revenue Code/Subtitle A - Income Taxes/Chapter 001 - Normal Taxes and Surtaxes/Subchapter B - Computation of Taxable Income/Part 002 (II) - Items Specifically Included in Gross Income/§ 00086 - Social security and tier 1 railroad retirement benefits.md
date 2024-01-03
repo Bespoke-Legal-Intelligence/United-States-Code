@@ -100,7 +100,7 @@ For purposes of this section—
 
 &emsp;For purposes of paragraph (1), the term "tier 1 railroad retirement benefit" means—
 
-&emsp;&emsp;(A) the amount of the annuity under the Railroad Retirement Act of 1974 equal to the amount of the benefit to which the taxpayerwould have been entitled under the Social Security Act if all of the service after December 31, 1936, of the employee (on whose employment record the annuity is being paid) had been included in the term "employment" as defined in the Social Security Act, and
+&emsp;&emsp;(A) the amount of the annuity under the Railroad Retirement Act of 1974 equal to the amount of the benefit to which the taxpayer would have been entitled under the Social Security Act if all of the service after December 31, 1936, of the employee (on whose employment record the annuity is being paid) had been included in the term "employment" as defined in the Social Security Act, and
 
 &emsp;&emsp;(B) a monthly annuity amount under section 3(f)(3) of the Railroad Retirement Act of 1974.
 
@@ -266,7 +266,7 @@ Amendment by section 131(b)(2) of Pub. L. 99–514 applicable to taxable years b
 
 Amendment by section 1301(j)(8) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311–1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
-Amendment by section 1847(b)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1847(b)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, seesection 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 Amendment by section 12111(b) of Pub. L. 99–272 applicable with respect to benefit checks issued for months ending after Apr. 7, 1986, see section 12111(c) of Pub. L. 99–272, set out as a note under section 909 of Title 42, The Public Health and Welfare.
 
@@ -276,7 +276,7 @@ Pub. L. 99–272, title XIII, §13204(b), Apr. 7, 1986, 100 Stat. 313, provided 
 
 Amendment by section 474(r)(2) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
-Amendment by section 2661 of Pub. L. 98–369 effective as though included in the enactment of the Social Security Amendments of 1983, Pub. L. 98–21, see section2664(a) of Pub. L. 98–369, set out as a note under section 401 of Title 42, The Public Health and Welfare.
+Amendment by section 2661 of Pub. L. 98–369 effective as though included in the enactment of the Social Security Amendments of 1983, Pub. L. 98–21, see section 2664(a) of Pub. L. 98–369, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1983 Amendment
 

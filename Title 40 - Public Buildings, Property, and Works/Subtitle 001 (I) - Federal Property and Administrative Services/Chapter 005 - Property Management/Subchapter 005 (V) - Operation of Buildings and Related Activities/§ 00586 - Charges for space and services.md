@@ -26,7 +26,7 @@ Charges by Executive Agencies.—
 
 &emsp;(1)
 
-In general.—An executive agency, other than the Administration, may impose a charge for furnishing space and services at rates approved by the Administrator.
+In general.—An executive agency, other than the Administration, may impose a chargefor furnishing space and services at rates approved by the Administrator.
 
 &emsp;(2)
 

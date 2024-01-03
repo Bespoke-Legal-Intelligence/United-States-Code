@@ -16,7 +16,7 @@ There are authorized to be appropriated for the purpose of this subchapter $10,0
 
 #### (c) Federal share
 
-The Federal share of funds allotted to States under this subchapter shall not exceed 80 per centum of the total cost of the planning undertaken pursuant to this subchapter.
+The Federal share of funds allotted to States under this subchapter shall not exceed 80 percentum of the total cost of the planning undertaken pursuant to this subchapter.
 
 (Pub. L. 94–482, title III, §332, Oct. 12, 1976, 90 Stat. 2222; Pub. L. 95–207, §16, Dec. 13, 1977, 91 Stat. 1474; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 

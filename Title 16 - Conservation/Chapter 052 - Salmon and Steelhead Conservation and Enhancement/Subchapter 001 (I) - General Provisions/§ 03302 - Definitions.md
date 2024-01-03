@@ -32,7 +32,7 @@ As used in this chapter—
 
 &emsp;(10) The term "recreational fishing" means fishing for personal use and enjoyment using conventional angling gear, and not for sale or barter.
 
-&emsp;(11) The term "salmon" means any anadromous species of the family Salmonidae andGenus Oncorhynchus, commonly known as Pacific salmon.
+&emsp;(11) The term "salmon" means any anadromous species of the family Salmonidae and Genus Oncorhynchus, commonly known as Pacific salmon.
 
 &emsp;(12) The term "salmon or steelhead resource" means any stock of salmon or steelhead.
 

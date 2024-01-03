@@ -68,7 +68,7 @@
 
 #### (D) Definitions
 
-&emsp;&emsp;In this paragraph, the term "qualifying State" means a State (except the UnitedStates Virgin Islands) that, for the fiscal year for which a determination under this paragraph is made, would receive, under the allotment formula under paragraph (3) (without the application of this paragraph), an amount that would be less than the amount the State would receive under subparagraph (A) for such fiscal year.
+&emsp;&emsp;In this paragraph, the term "qualifying State" means a State (except the United States Virgin Islands) that, for the fiscal year for which a determination under this paragraph is made, would receive, under the allotment formula under paragraph (3) (without the application of this paragraph), an amount that would be less than the amount the State would receive under subparagraph (A) for such fiscal year.
 
 #### (b) Reallotment
 
@@ -94,7 +94,7 @@ If the Secretary determines that any amount of any State's allotment under subse
 
 #### (3) Definition of per capita income
 
-&emsp;For the purpose of this section, the term "per capita income" means, with respect to a fiscal year, the total personal income in the calendar year ending in such year, divided by the population of the area concerned in such year.
+&emsp;For the purpose of this section, the term "per capita income" means, with respect to a fiscal year, the total personal income in thecalendar year ending in such year, divided by the population of the area concerned in such year.
 
 #### (4) Population determination
 

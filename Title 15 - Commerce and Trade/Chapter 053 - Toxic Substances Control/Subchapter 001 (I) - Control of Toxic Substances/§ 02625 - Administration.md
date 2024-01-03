@@ -116,7 +116,7 @@ Termination.—The authority provided by this subsection shall terminate at the 
 
 #### (d) Assistance office
 
-The Administrator shall establish in the Environmental Protection Agency an identifiable office to provide technical and other nonfinancial assistance to manufacturers and processors of chemical substances and mixtures respecting the requirements of this chapter applicable to such manufacturers and processors, the policy of the Agency respecting the application of such requirements to such manufacturers and processors, and the means and methods by which such manufacturers and processors may comply with such requirements.
+The Administrator shall establish in the Environmental Protection Agency an identifiable office to provide technical and other nonfinancial assistance to manufacturers and processors of chemical substances and mixtures respecting the requirements of this chapter applicable to such manufacturers and processors, the policy ofthe Agency respecting the application of such requirements to such manufacturers and processors, and the means and methods by which such manufacturers and processors may comply with such requirements.
 
 #### (e) Financial disclosures
 
@@ -182,7 +182,7 @@ Subject to section 2613 of this title, the Administrator shall make available to
 
 &emsp;(3) a nontechnical summary of each risk evaluation conducted under section 2605(b) of this title;
 
-&emsp;(4) a list of the studies considered by the Administrator in carrying out each such risk evaluation, along with the results of those studies; and
+&emsp;(4) a list of the studies considered by the Administrator in carrying out each such riskevaluation, along with the results of those studies; and
 
 &emsp;(5) each designation of a chemical substance under section 2605(b) of this title, along with an identification of the information, analysis, and basis used to make the designations.
 

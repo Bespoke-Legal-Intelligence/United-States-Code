@@ -10,7 +10,7 @@ In order to carry out the provisions of this chapter, the Foundation is authoriz
 
 &emsp;(3) prescribe such regulations as it deems necessary governing the manner in which its functions shall be carried out;
 
-&emsp;(4) receive money and other property donated, bequeathed, or devised, without condition or restriction other than it be used forthe purposes of the Foundation; and to use, sell, or otherwise dispose of such property for the purpose of carrying out its functions;
+&emsp;(4) receive money and other property donated, bequeathed, or devised, without condition or restriction other than it be used for the purposes of the Foundation; and to use, sell, or otherwise dispose of such property for the purpose of carrying out its functions;
 
 &emsp;(5) accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
@@ -44,5 +44,5 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

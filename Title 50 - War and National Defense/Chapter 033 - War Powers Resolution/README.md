@@ -5,6 +5,7 @@
 | [1541\.](%C2%A7%2001541%20-%20Purpose%20and%20policy.md) | Purpose and policy. |
 | [1542\.](%C2%A7%2001542%20-%20Consultation%3B%20initial%20and%20regular%20consultations.md) | Consultation; initial and regular consultations. |
 | [1543\.](%C2%A7%2001543%20-%20Reporting%20requirement.md) | Reporting requirement. |
+| [1543a.](%C2%A7%2001543a%20-%20Report%20on%20hostilities%20involving%20United%20States%20Armed%20Forces.md) | Report on hostilities involving United States Armed Forces. |
 | [1544\.](%C2%A7%2001544%20-%20Congressional%20action.md) | Congressional action. |
 | [1545\.](%C2%A7%2001545%20-%20Congressional%20priority%20procedures%20for%20joint%20resolution%20or%20bill.md) | Congressional priority procedures for joint resolution or bill. |
 | [1546\.](%C2%A7%2001546%20-%20Congressional%20priority%20procedures%20for%20concurrent%20resolution.md) | Congressional priority procedures for concurrent resolution. |
@@ -24,6 +25,7 @@
 - [&sect; 01541 - Purpose and policy](%C2%A7%2001541%20-%20Purpose%20and%20policy.md)
 - [&sect; 01542 - Consultation; initial and regular consultations](%C2%A7%2001542%20-%20Consultation%3B%20initial%20and%20regular%20consultations.md)
 - [&sect; 01543 - Reporting requirement](%C2%A7%2001543%20-%20Reporting%20requirement.md)
+- [&sect; 01543a - Report on hostilities involving United States Armed Forces](%C2%A7%2001543a%20-%20Report%20on%20hostilities%20involving%20United%20States%20Armed%20Forces.md)
 - [&sect; 01544 - Congressional action](%C2%A7%2001544%20-%20Congressional%20action.md)
 - [&sect; 01545 - Congressional priority procedures for joint resolution or bill](%C2%A7%2001545%20-%20Congressional%20priority%20procedures%20for%20joint%20resolution%20or%20bill.md)
 - [&sect; 01546 - Congressional priority procedures for concurrent resolution](%C2%A7%2001546%20-%20Congressional%20priority%20procedures%20for%20concurrent%20resolution.md)

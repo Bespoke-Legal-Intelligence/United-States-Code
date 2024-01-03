@@ -18,7 +18,7 @@ Definition.—In this subsection, the term "unregulated hazardous substance" mea
 
 (b)
 
-Toxicological Profiles.—The Secretary of Health and Human Services shall take such steps as necessary to ensure the timely preparation of toxicological profiles of each of the substances of which the Secretary is notified under subsection (a). The profiles of such substances shall include each of the following:
+Toxicological Profiles.—The Secretary of Health and Human Services shall take such steps as necessary to ensure the timely preparation of toxicological profiles of each of the substances of which the Secretary is notified undersubsection (a). The profiles of such substances shall include each of the following:
 
 &emsp;(1) The examination, summary, and interpretation of available toxicological information and epidemiologic evaluations on a hazardous substance in order to ascertain the levels of significant human exposure for the substance and the associated acute, subacute, and chronic health effects.
 
@@ -50,7 +50,7 @@ Content of health advisories.—Such health advisories shall provide specific ad
 
 &emsp;(3)
 
-DOD support for health advisories.—The Secretary of Defense shall transfer to theAdministrator such toxicological data, such sums from amounts appropriated to the Department of Defense, and such personnel of the Department of Defense as may be necessary for the preparation of such health advisories. The Secretary and the Administrator shall enter into a memorandum of understanding regarding the manner in which this subsection shall be carried out, including the manner for transferring funds and personnel and for coordination of activities under this subsection.
+DOD support for health advisories.—The Secretary of Defense shall transfer to the Administrator such toxicological data, such sums from amounts appropriated to the Department of Defense, and such personnel of the Department of Defense as may be necessary for the preparation of such health advisories. The Secretary and the Administrator shall enter into a memorandum of understanding regarding the manner in which this subsection shall be carried out, including the manner for transferring funds and personnel and for coordination of activities under this subsection.
 
 (e)
 

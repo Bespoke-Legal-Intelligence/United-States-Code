@@ -2,7 +2,7 @@
 
 #### (a) Petitioning procedure
 
-(1)(A)(i) Except as provided in clause (viii), any citizen of the United States claiming thatan alien is entitled to classification by reason of a relationship described in paragraph (1), (3), or (4) of section 1153(a) of this title or to an immediate relative status under section 1151(b)(2)(A)(i) of this title may file a petition with the Attorney General for such classification.
+(1)(A)(i) Except as provided in clause (viii), any citizen of the United States claiming that an alien is entitled to classification by reason of a relationship described in paragraph (1), (3), or (4) of section 1153(a) of this title or to an immediate relative status under section 1151(b)(2)(A)(i) of this title may file a petition with the Attorney General for such classification.
 
 (ii) An alien spouse described in the second sentence of section 1151(b)(2)(A)(i) of this title also may file a petition with the Attorney General under this subparagraph for classification of the alien (and the alien's children) under such section.
 
@@ -66,7 +66,7 @@
 
 (II) For purposes of subclause (I), the term "specified offense against a minor" is defined as in section 20911 of title 34.
 
-(B)(i)(I) Except as provided in subclause (II), any alien lawfully admitted for permanent residence claiming that an alien is entitled to aclassification by reason of the relationship described in section 1153(a)(2) of this title may file a petition with the Attorney General for such classification.
+(B)(i)(I) Except as provided in subclause (II), any alien lawfully admitted for permanent residence claiming that an alien is entitled to a classification by reason of the relationship described in section 1153(a)(2) of this title may file a petition with the Attorney General for such classification.
 
 (I) <sup>1</sup> Subclause (I) shall not apply in the case of an alien lawfully admitted for permanent residence who has been convicted of a specified offense against a minor (as defined in subparagraph (A)(viii)(II)), unless the Secretary of Homeland Security, in the Secretary's sole and unreviewable discretion, determines that such person poses no risk to the alien with respect to whom a petition described in subclause (I) is filed.
 
@@ -140,7 +140,7 @@
 
 (ii) Aliens claiming status as a special immigrant under section 1101(a)(27)(D) of this title may file a petition only with the Secretary of State and only after notification by the Secretary that such status has been recommended and approved pursuant to such section.
 
-(H)(i) Any alien seeking classification under section 1153(b)(5) of this title may file a petition for such classification with the Secretary of Homeland Security. An alien seeking to pool his or her investment with 1 or more additional aliens seeking classification under section 1153(b)(5) of this title shall file for such classification in accordance with section 1153(b)(5)(E) of this title, or before March 15, 2022, in accordance with section 1153(b)(5) of this title. An alien petitioning for classification under section 1153(b)(5)(E) of this title may file a petition with the Secretary after a regional center has filed an application for approval of an investment under section 1153(b)(5)(F) of this title.
+(H)(i) Any alien seeking classification under section 1153(b)(5) of this title may file a petition for such classification with the Secretary of Homeland Security. An alien seeking to pool his or her investment with 1 or more additional aliens seeking classification under section 1153(b)(5) of this title shall file for such classification in accordance with section 1153(b)(5)(E) of this title, or before March 15, 2022, in accordance with section 1153(b)(5) of this title. An alien petitioning for classification under section1153(b)(5)(E) of this title may file a petition with the Secretary after a regional center has filed an application for approval of an investment under section 1153(b)(5)(F) of this title.
 
 (ii) A petitioner described in clause (i) shall establish eligibility at the time he or she files a petition for classification under section 1153(b)(5) of this title. A petitioner who was eligible for such classification at the time of such filing shall be deemed eligible for such classification at the time such petition is adjudicated, subject to the approval of the petitioner's associated application under section 1153(b)(5)(F) of this title, if applicable.
 
@@ -184,7 +184,7 @@ Notwithstanding the provisions of subsection (b) no petition shall be approved i
 
 #### (d) Recommendation of valid home-study
 
-(1) Notwithstanding the provisions of subsections (a) and (b) no petition may be approved on behalf of a child defined in subparagraph (F) or (G) of section 1101(b)(1) of this title unless a valid home-study has been favorably recommended by an agency of the State of the child's proposed residence, or by an agency authorized by that State to conduct such a study, or, in the case of a child adopted abroad, by an appropriate public or private adoption agency which is licensed in the United States.
+(1) Notwithstanding the provisions of subsections (a) and (b) no petition may be approved on behalf of a child defined in subparagraph (F)or (G) of section 1101(b)(1) of this title unless a valid home-study has been favorably recommended by an agency of the State of the child's proposed residence, or by an agency authorized by that State to conduct such a study, or, in the case of a child adopted abroad, by an appropriate public or private adoption agency which is licensed in the United States.
 
 (2) Notwithstanding the provisions of subsections (a) and (b), no petition may be approved on behalf of a child defined in section 1101(b)(1)(G) of this title unless the Secretary of State has certified that the central authority of the child's country of origin has notified the United States central authority under the convention referred to in such section 1101(b)(1)(G) of this title that a United States citizen habitually resident in the United States has effected final adoption of the child, or has been granted custody of the child for the purpose of emigration and adoption, in accordance with such convention and the Intercountry Adoption Act of 2000 \[42 U.S.C. 14901 et seq.\].
 
@@ -220,7 +220,7 @@ Nothing in this section shall be construed to entitle an immigrant, in behalf of
 
 #### (g) Restriction on petitions based on marriages entered while in exclusion or deportation proceedings
 
-Notwithstanding subsection (a), except as provided in section 1255(e)(3) of this title, a petition may not be approved to grant an alien immediate relative status or preference status by reason of a marriage which was entered into during the period described in section 1255(e)(2) of this title, until the alien has resided outside the United States for a 2-year period beginning after the date of the marriage.
+Notwithstanding subsection (a), except as provided in section 1255(e)(3) of this title, a petition may not be approved to grant an alien immediate relative status or preference status by reason of a marriage which was entered into during the period described in section 1255(e)(2) of thistitle, until the alien has resided outside the United States for a 2-year period beginning after the date of the marriage.
 
 #### (h) Survival of rights to petition
 
@@ -242,7 +242,7 @@ The legal termination of a marriage may not be the sole basis for revocation und
 
 #### (j) Job flexibility for long delayed applicants for adjustment of status to permanent residence
 
-A petition under subsection (a)(1)(D) <sup>4</sup> for an individual whose application for adjustment ofstatus pursuant to section 1255 of this title has been filed and remained unadjudicated for 180 days or more shall remain valid with respect to a new job if the individual changes jobs or employers if the new job is in the same or a similar occupational classification as the job for which the petition was filed.
+A petition under subsection (a)(1)(D) <sup>4</sup> for an individual whose application for adjustment of status pursuant to section 1255 of this title has been filed and remained unadjudicated for 180 days or more shall remain valid with respect to a new job if the individual changes jobs or employers if the new job is in the same or a similar occupational classification as the job for which the petition was filed.
 
 #### (k) Procedures for unmarried sons and daughters of citizens
 
@@ -292,7 +292,7 @@ A petition under subsection (a)(1)(D) <sup>4</sup> for an individual whose appl
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1)(A)(iii)(II)(aa)(BB), (B)(ii)(II)(aa)(BB), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsec. (a)(1)(A)(iii)(II)(aa)(BB), (B)(ii)(II)(aa)(BB), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 The Child Status Protection Act, referred to in subsec. (a)(1)(D)(iii), is Pub. L. 107–208, Aug. 6, 2002, 116 Stat. 927, which amended this section and sections 1151, 1153, 1157, and 1158 of this title and enacted provisions set out as notes under sections 1101 and 1151 of this title. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under section 1101 of this title and Tables.
 
@@ -496,7 +496,7 @@ Amendment by sections 302(e)(4), (5) and 308(b) of Pub. L. 102–232 effective a
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 162(b) of Pub. L. 101–649 effective Nov. 29, 1990, but only insofar as section 162(b) relates to visas for fiscal years beginning with fiscal year 1992, with general transition provisions, see section 161(b), (c) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by section 162(b) of Pub. L. 101–649 effective Nov. 29, 1990, but only insofar as section 162(b) relates to visas for fiscal years beginning with fiscal year 1992, with general transition provisions, see section161(b), (c) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 Pub. L. 101–649, title VII, §702(c), Nov. 29, 1990, 104 Stat. 5086, provided that: "The amendments made by this section \[amending sections 1154 and 1255 of this title\] shall apply to marriages entered into before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\]."
 
@@ -524,7 +524,7 @@ Pub. L. 111–83, title V, §568(d)(2), Oct. 28, 2009, 123 Stat. 2187, provided 
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Alien Sheepherders
 

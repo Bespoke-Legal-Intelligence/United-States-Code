@@ -2,7 +2,7 @@
 
 Every person who fails to register or reregister as required by section 4101, or who in connection with any purchase of any taxable fuel (as defined in section 4083) or aviation fuel falsely represents himself to be registered as provided by section 4101, or who willfully makes any false statement in an application for registration or reregistration under section 4101, shall, upon conviction thereof, be fined not more than $10,000, or imprisoned not more than 5 years, or both, together with the costs of prosecution.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 858; Pub. L. 89–44, title VIII, §802(b)(4), June 21, 1965, 79 Stat. 159; Pub. L. 100–647, title III, §3001(b)(3)(A), (B), Nov. 10, 1988, 102 Stat. 3614; Pub. L. 104–188, title I, §1704(t)(20)(A), Aug. 20, 1996, 110 Stat. 1888; Pub.L. 105–34, title X, §1032(e)(12)(A), (B), Aug. 5, 1997, 111 Stat. 935; Pub. L. 105–206, title VI, §6010(h)(2), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title VIII, §863(b), Oct. 22, 2004, 118 Stat. 1620; Pub. L. 109–59, title XI, §11164(b)(2), Aug. 10, 2005, 119 Stat. 1975.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 858; Pub. L. 89–44, title VIII, §802(b)(4), June 21, 1965, 79 Stat. 159; Pub. L. 100–647, title III, §3001(b)(3)(A), (B), Nov. 10, 1988, 102 Stat. 3614; Pub. L. 104–188, title I, §1704(t)(20)(A), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, §1032(e)(12)(A), (B), Aug. 5, 1997, 111 Stat. 935; Pub. L. 105–206, title VI, §6010(h)(2), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title VIII, §863(b), Oct. 22, 2004, 118 Stat. 1620; Pub. L. 109–59, title XI, §11164(b)(2), Aug. 10, 2005, 119 Stat. 1975.)
 
 #### <b>Editorial Notes</b>
 
@@ -14,7 +14,7 @@ Every person who fails to register or reregister as required by section 4101, or
 
 <b>1998</b>—Pub. L. 105–206 provided that amendment made by section 1032(e)(12)(A) of Pub. L. 105–34 shall be applied as if "gasoline, diesel fuel," were the material proposed to be stricken. See 1997 Amendment note below.
 
-<b>1997</b>—Pub. L. 105–34, §1032(e)(12)(B), amended section catchline generally. Prior to amendment, catchline read as follows: "Failure to register, or false statement by manufacturer or producer of gasoline, diesel fuel, or aviation fuel".
+<b>1997</b>—Pub. L. 105–34, §1032(e)(12)(B), amended section catchline generally. Prior to amendment, catchlineread as follows: "Failure to register, or false statement by manufacturer or producer of gasoline, diesel fuel, or aviation fuel".
 
 Pub. L. 105–34, §1032(e)(12)(A), which directed the substitution of "any taxable fuel (as defined in section 4083)" for "gasoline, lubricating oil, diesel fuel", was executed by making the substitution for "gasoline, diesel fuel," to reflect the probable intent of Congress. See 1998 Amendment note above.
 

@@ -86,7 +86,7 @@
 
 &emsp;(IV) such interception does not acquire communications other than those transmitted to or from the computer trespasser.
 
-(j) It shall not be unlawful under this chapter for a provider of electronic communication service to the public or remote computing service to intercept or disclose the contents of a wire or electronic communication in response to an order from a foreign government that is subject to an executive agreement that the Attorney General has determined and certified to Congress satisfies section 2523.
+(j) It shall not be unlawful under this chapter for a provider of electronic communication service to the public or remote computing service tointercept or disclose the contents of a wire or electronic communication in response to an order from a foreign government that is subject to an executive agreement that the Attorney General has determined and certified to Congress satisfies section 2523.
 
 (3)(a) Except as provided in paragraph (b) of this subsection, a person or entity providing an electronic communication service to the public shall not intentionally divulge the contents of any communication (other than one to such person or entity, or an agent thereof) while in transmission on that service to any person or entity other than an addressee or intended recipient of such communication or an agent of such addressee or intended recipient.
 
@@ -130,13 +130,13 @@
 
 #### Amendment of Paragraph (2)(a)(ii)(A)
 
-<i>Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(2), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of Title 50, War and National Defense, effective Dec. 31, 2023, paragraph (2)(a)(ii)(A) of this section is amended by striking "or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978".</i>
+<i>Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(2), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(2), Dec. 22, 2023, 137 Stat. 1108, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of Title 50, War and National Defense, effective Apr. 19, 2024, paragraph (2)(a)(ii)(A) of this section is amended by striking "or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978".</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(e), (f), is Pub. L. 95–511, Oct. 25, 1978,92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. Sections 101 and 704 of the Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(a)(ii), (e), and (f), are classified to sections 1801 and 1881c of Title 50, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(e), (f), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. Sections 101 and 704 of the Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(a)(ii), (e), and (f), are classified to sections 1801 and 1881c of Title 50, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 Sections 633, 705, and 706 of the Communications Act of 1934, referred to in par. (2)(e), (f), (g)(iii), are classified to sections 553, 605, and 606 of Title 47, Telecommunications, respectively.
 
@@ -214,7 +214,7 @@ Par. (3). Pub. L. 95–511, §201(c), struck out par. (3) which provided that no
 
 Amendments by sections 101(c)(1) and 102(c)(1) of Pub. L. 110–261 effective July 10, 2008, except as otherwise provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, see section 402 of Pub. L. 110–261, set out as a note under section 1801 of Title 50.
 
-Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(2), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, the amendments made by section 403(b)(2) are effective Dec. 31, 2023.
+Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec.30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(2), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(2), Dec. 22, 2023, 137 Stat. 1108, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, the amendments made by section 403(b)(2) are effective Apr. 19, 2024.
 
 #### Effective Date of 2002 Amendment
 

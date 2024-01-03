@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) is employed by the Department of Agriculture (referred to in this section as the "Department") to assist scientific, professional, administrative, or technical employees of the Department; and
 
-&emsp;&emsp;(B) is a student in good standing at an institution of higher education (as defined in section 1001 of title 20) pursuing a course of study related to the field in which the person is employed by the Department.
+&emsp;&emsp;(B) is a student in good standing at an institution of higher education (as defined in section 1001 of title 20) pursuing a course ofstudy related to the field in which the person is employed by the Department.
 
 #### (2) Payment of certain expenses by the Secretary
 

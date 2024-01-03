@@ -46,7 +46,7 @@ Proceeding Required.—Not later than 18 months after the date of the enactment 
 
 "(b)
 
-Relationship to Other Proceedings.—In conducting the proceeding required by subsection (a), the Commission may consider information and conclusions from other Commission proceedings regarding the accuracy of the dispatchable location for a 9–1–1 call, but nothing in this section shall be construed to require the Commission to reconsider any information or conclusion from a proceeding regarding the accuracy of the dispatchable location for a 9–1–1 call in which theCommission has adopted rules or issued an order before the date of the enactment of this Act.
+Relationship to Other Proceedings.—In conducting the proceeding required by subsection (a), the Commission may consider information and conclusions from other Commission proceedings regarding the accuracy of the dispatchable location for a 9–1–1 call, but nothing in this section shall be construed to require the Commission to reconsider any information or conclusion from a proceeding regarding the accuracy of the dispatchable location for a 9–1–1 call in which the Commission has adopted rules or issued an order before the date of the enactment of this Act.
 
 "(c)
 

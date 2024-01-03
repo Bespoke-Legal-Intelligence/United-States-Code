@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (b), notwithstanding any other provision of law, if the Chairman of the Board of Governors of the Federal Reserve System determines, in writing, that unusual and exigent circumstances exist, the Board may conduct meetings without regard to the requirements of section 552b of title 5 during the period beginning on March 27, 2020 and ending on the earlier of—
+Except as provided in subsection (b), notwithstanding any other provision of law, if the Chairman of the Board of Governors of the Federal Reserve System determines, in writing, that unusual and exigent circumstances exist, the Board may conduct meetings without regard to the requirements of section 552b of title 5 during the period beginning on March 27, 2020, and ending on the earlier of—
 
 &emsp;(1) the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act (50 U.S.C. 1601 et seq.) terminates; or
 
@@ -18,5 +18,5 @@ The Board of Governors of the Federal Reserve System shall keep a record of all 
 
 #### References in Text
 
-The National Emergencies Act, referred to in subsec. (a)(1), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (a)(1), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 etseq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 

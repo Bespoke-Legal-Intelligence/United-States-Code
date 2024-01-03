@@ -10,7 +10,7 @@ In the case of any individual who dies while in active service as a member of th
 
 #### (b) Individuals in missing status
 
-For purposes of this section, in the case of an individual who was in a missing status within the meaning of section 6013(f)(3)(A), the date of his death shall be treated as being not earlier than the date on which a determination of his death is made under section 556 of title 37 of the United States Code. Except in the case of the combat zone designated for purposes of the Vietnam conflict, the preceding sentence shall not cause subsection (a)(1) to apply for any taxable year beginning more than 2 years after the date designated under section 112 as the date of termination of combatant activities in a combat zone.
+For purposes of this section, in the case of an individual who was in a missing status withinthe meaning of section 6013(f)(3)(A), the date of his death shall be treated as being not earlier than the date on which a determination of his death is made under section 556 of title 37 of the United States Code. Except in the case of the combat zone designated for purposes of the Vietnam conflict, the preceding sentence shall not cause subsection (a)(1) to apply for any taxable year beginning more than 2 years after the date designated under section 112 as the date of termination of combatant activities in a combat zone.
 
 #### (c) Certain military or civilian employees of the United States dying as a result of injuries
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–121 applicable with respect to any astronaut whose death occurs after Dec.31, 2002, see section 110(a)(4) of Pub. L. 108–121, set out as a note under section 5 of this title.
+Amendment by Pub. L. 108–121 applicable with respect to any astronaut whose death occurs after Dec. 31, 2002, see section 110(a)(4) of Pub. L. 108–121, set out as a note under section 5 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -178,5 +178,5 @@ Pub. L. 93–597, §4(c), Jan. 2, 1975, 88 Stat. 1952, as amended by Pub. L. 99�
 
 #### Treatment of Director General of Multinational Force in Sinai
 
-Pub. L. 98–369, div. A, title VII, §722(g)(4), July 18, 1984, 98 Stat. 974, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "For purposes of section 692(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the Director General of the Multinational Force and Observers in the Sinai who died on February 15, 1984, shall be treated as if he were a civilian employee of the United States while he served as such Director General."
+Pub. L. 98–369, div. A, title VII, §722(g)(4), July 18, 1984, 98 Stat. 974, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "For purposes ofsection 692(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the Director General of the Multinational Force and Observers in the Sinai who died on February 15, 1984, shall be treated as if he were a civilian employee of the United States while he served as such Director General."
 

@@ -20,7 +20,7 @@
 
 (C) Upon receipt of a report submitted under subparagraph (A), each House shall provide copies of the report to the chairman and ranking member of each standing committee with jurisdiction under the rules of the House of Representatives or the Senate to report a bill to amend the provision of law under which the rule is issued.
 
-(2)(A) The Comptroller General shall provide a report on each major rule to the committees of jurisdiction in each House of the Congress by the end of 15 calendar days after the submission or publication date as provided in section 802(b)(2). The report of the Comptroller General shall include an assessment of the agency's compliance with procedural steps required by paragraph (1)(B).
+(2)(A) The Comptroller General shall provide a report on each major rule to the committees of jurisdiction in each House of the Congress by the end of 15 calendar days after the submission or publication date as provided in section 802(b)(2). The report of the Comptroller General shall include an assessment of the agency's compliance with procedural steps required by paragraph (1)(B), and shall in addition include an assessment of the agency's compliance with such requirements of the Administrative Pay-As-You-Go Act of 2023 as may be applicable.
 
 (B) Federal agencies shall cooperate with the Comptroller General by providing information relevant to the Comptroller General's report under subparagraph (A).
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) in the case of the House of Representatives, 60 legislative days,
 
-> before the date the Congress adjourns a session of Congress through the date on which the sameor succeeding Congress first convenes its next session, section 802 shall apply to such rule in the succeeding session of Congress.
+> before the date the Congress adjourns a session of Congress through the date on which the same or succeeding Congress first convenes its next session, section 802 shall apply to such rule in the succeeding session of Congress.
 
 (2)(A) In applying section 802 for purposes of such additional review, a rule described under paragraph (1) shall be treated as though—
 
@@ -100,7 +100,11 @@
 
 (g) If the Congress does not enact a joint resolution of disapproval under section 802 respecting a rule, no court or agency may infer any intent of the Congress from any action or inaction of the Congress with regard to such rule, related statute, or joint resolution of disapproval.
 
-(Added Pub. L. 104–121, title II, §251, Mar. 29, 1996, 110 Stat. 868.)
+(Added Pub. L. 104–121, title II, §251, Mar. 29, 1996, 110 Stat. 868; amended Pub. L. 118–5, div. B, title III, §270, June 3, 2023, 137 Stat. 33.)
+
+#### Amendment of Section
+
+<i>For expiration of amendment by Pub. L. 118–5, see Termination Date of 2023 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -108,9 +112,19 @@
 
 Sections 202, 203, 204, and 205 of the Unfunded Mandates Reform Act of 1995, referred to in subsec. (a)(1)(B)(iii), are classified to sections 1532, 1533, 1534, and 1535, respectively, of Title 2, The Congress.
 
+The Administrative Pay-As-You-Go Act of 2023, referred to in subsec. (a)(2)(A), is title III of div. B of Pub. L. 118–5, June 3, 2023, 137 Stat. 31, which is set out as a note under section 551 of this title.
+
 The date of the enactment of this chapter, referred to in subsec. (e)(1), (2), is the date of the enactment of Pub. L. 104–121, which was approved Mar. 29, 1996.
 
+#### Amendments
+
+<b>2023</b>—Subsec. (a)(2)(A). Pub. L. 118–5, §§268, 270, temporarily inserted ", and shall in addition include an assessment of the agency's compliance with such requirements of the Administrative Pay-As-You-Go Act of 2023 as may be applicable" after "compliance with procedural steps required by paragraph (1)(B)". See Termination Date of 2023 Amendment note below.
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Termination Date of 2023 Amendment
+
+Amendment by Pub. L. 118–5 expires on Dec. 31, 2024, see section 268 of Pub. L. 118–5, set out in a Statutory Administrative Pay-As-You-Go note under section 551 of this title.
 
 #### Effective Date
 
@@ -174,7 +188,7 @@ Independent evaluation.—The independent evaluation of the economically signifi
 
 &emsp;&emsp;"(B) an evaluation of the agency's analysis of the potential costs of the rule, including any adverse effects that cannot be quantified in monetary terms and the identification of the persons or entities likely to bear the costs;
 
-&emsp;&emsp;"(C) an evaluation of the agency's analysis of alternative approaches set forth in the notice of proposed rulemaking and in the rulemaking record, as well as of any regulatory impact analysis, federalism assessment, or other analysis or assessmentprepared by the agency or required for the economically significant rule; and
+&emsp;&emsp;"(C) an evaluation of the agency's analysis of alternative approaches set forth in the notice of proposed rulemaking and in the rulemaking record, as well as of any regulatory impact analysis, federalism assessment, or other analysis or assessment prepared by the agency or required for the economically significant rule; and
 
 &emsp;&emsp;"(D) a summary of the results of the evaluation of the Comptroller General and the implications of those results.
 

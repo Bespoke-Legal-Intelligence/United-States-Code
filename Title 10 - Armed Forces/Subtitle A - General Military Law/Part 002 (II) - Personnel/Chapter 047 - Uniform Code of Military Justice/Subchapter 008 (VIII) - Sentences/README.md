@@ -17,7 +17,7 @@
 
 #### Amendments
 
-<b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, §5541(5). See 2016 Amendment note below.
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendmentto Pub. L. 114–328, §5541(5). See 2016 Amendment note below.
 
 Pub. L. 115–91, div. A, title V, §531(f)(3), Dec. 12, 2017, 131 Stat. 1385, added item 858a and struck out former item 858a "Sentences: reduction in enlisted grade upon approval".
 

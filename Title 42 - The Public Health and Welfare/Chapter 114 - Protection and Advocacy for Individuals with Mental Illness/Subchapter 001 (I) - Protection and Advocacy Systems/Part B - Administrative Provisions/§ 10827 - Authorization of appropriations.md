@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated for allotments under this subchapter, $19,500,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 2003.
 
-(Pub. L. 99–319, title I, §117, May 23, 1986, 100 Stat. 485; Pub. L. 100–509, §7(f), Oct. 20, 1988, 102 Stat. 2546; Pub. L. 102–173, §8, Nov. 27, 1991, 105Stat. 1219; Pub. L. 106–310, div. B, title XXXII, §3206(f), Oct. 17, 2000, 114 Stat. 1195.)
+(Pub. L. 99–319, title I, §117, May 23, 1986, 100 Stat. 485; Pub. L. 100–509, §7(f), Oct. 20, 1988, 102 Stat. 2546; Pub. L. 102–173, §8, Nov. 27, 1991, 105 Stat. 1219; Pub. L. 106–310, div. B, title XXXII, §3206(f), Oct. 17, 2000, 114 Stat. 1195.)
 
 #### <b>Editorial Notes</b>
 

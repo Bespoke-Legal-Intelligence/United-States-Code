@@ -38,7 +38,7 @@ Section 5067, Pub. L. 99–440, title III, §317, Oct. 2, 1986, 100 Stat. 1104; 
 
 Section 5068, Pub. L. 99–440, title III, §318, Oct. 2, 1986, 100 Stat. 1105; Pub. L. 99–631, §1(a)(19), Nov. 7, 1986, 100 Stat. 3517, provided notification procedures for proposed export of items on United States Munitions List.
 
-Section 5069, Pub. L. 99–440, title III, §319, Oct. 2, 1986, 100 Stat. 1105; Pub. L. 99–631, §1(a)(20), Nov. 7, 1986, 100Stat. 3517, prohibited importation of South African agricultural products and food.
+Section 5069, Pub. L. 99–440, title III, §319, Oct. 2, 1986, 100 Stat. 1105; Pub. L. 99–631, §1(a)(20), Nov. 7, 1986, 100 Stat. 3517, prohibited importation of South African agricultural products and food.
 
 Section 5070, Pub. L. 99–440, title III, §320, Oct. 2, 1986, 100 Stat. 1105; Pub. L. 99–631, §1(a)(21), Nov. 7, 1986, 100 Stat. 3517, prohibited importation of iron and steel from South Africa.
 

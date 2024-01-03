@@ -2,7 +2,7 @@
 
 (a)
 
-Recommendation of Best Qualified Officers.—A promotion board convened under section 14101(a) of this title shall recommend for promotion to the next higher grade those officers considered by the board whom the board considers best qualified for promotion withineach competitive category considered by the board or, in the case of a vacancy promotion board, among those officers considered to fill a vacancy. In determining those officers who are best qualified for promotion, the board shall give due consideration to the needs of the armed force concerned for officers with particular skills (as noted in the guidelines or information furnished the board under section 14107 of this title).
+Recommendation of Best Qualified Officers.—A promotion board convened under section 14101(a) of this title shall recommend for promotion to the next higher grade those officers considered by the board whom the board considers best qualified for promotion within each competitive category considered by the board or, in the case of a vacancy promotion board, among those officers considered to fill a vacancy. In determining those officers who are best qualified for promotion, the board shall give due consideration to the needs of the armed force concerned for officers with particular skills (as noted in the guidelines or information furnished the board under section 14107 of this title).
 
 (b)
 
@@ -42,7 +42,7 @@ Higher Placement of Officers of Particular Merit on Promotion List.—(1) In sel
 
 (3) For officers who receive recommendations under paragraph (1), the board shall recommend the order in which those officers should be placed on the promotion list.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2928; amended Pub. L. 109–364, div. A, title V, §512(b), Oct. 17, 2006, 120 Stat. 2184; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title V, §510(a), Dec. 20, 2019, 133 Stat. 1347.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2928; amended Pub. L.109–364, div. A, title V, §512(b), Oct. 17, 2006, 120 Stat. 2184; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title V, §510(a), Dec. 20, 2019, 133 Stat. 1347.)
 
 #### <b>Editorial Notes</b>
 

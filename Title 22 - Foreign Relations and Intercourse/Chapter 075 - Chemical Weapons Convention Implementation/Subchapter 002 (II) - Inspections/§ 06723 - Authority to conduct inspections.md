@@ -38,7 +38,7 @@ No inspection of a plant, plant site, or other facility or location in the Unite
 
 #### (c) Exception
 
-The requirement under subsection (b)(2)(A) shall not apply to inspections of United Stateschemical weapons destruction facilities (as used within the meaning of part IV(C)(13) of the Verification Annex to the Convention).
+The requirement under subsection (b)(2)(A) shall not apply to inspections of United States chemical weapons destruction facilities (as used within the meaning of part IV(C)(13) of the Verification Annex to the Convention).
 
 (Pub. L. 105–277, div. I, title III, §303, Oct. 21, 1998, 112 Stat. 2681–873; Pub. L. 106–280, title III, §305, Oct. 6, 2000, 114 Stat. 854; Pub. L. 107–107, div. A, title XII, §1204(a), Dec. 28, 2001, 115 Stat. 1247.)
 

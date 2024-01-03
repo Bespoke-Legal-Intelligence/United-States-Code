@@ -4,7 +4,7 @@
 
 #### (1) Disbursing officer
 
-&emsp;The Chief of the Capitol Police shall be the disbursing officer for the Capitol Police. Any reference in any law or resolution before February 20, 2003, to funds paid or disbursed by the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate relating to the pay and allowances of Capitol Police employees shall be deemed to refer to the Chief of the Capitol Police.
+&emsp;The Chief of the Capitol Police shall be the disbursing officer for the Capitol Police. Any reference in any law or resolution before February 20, 2003, to funds paid or disbursed by the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate relating to the pay and allowances ofCapitol Police employees shall be deemed to refer to the Chief of the Capitol Police.
 
 #### (2) Transfer
 
@@ -54,7 +54,7 @@ Except as may otherwise be provided in law, the unexpended balances of appropria
 
 #### (B) Special rule for terminations
 
-&emsp;&emsp;The Chief may terminate an officer, member, or employee only after the Chief has provided notice of the termination to the Capitol Police Board (in such manner as the Board may from time to time require) and the Board has approved the termination, except that if the Board has not disapproved the termination prior to the expiration of the 30-day period which begins on the date the Board receives the notice, the Boardshall be deemed to have approved the termination.
+&emsp;&emsp;The Chief may terminate an officer, member, or employee only after the Chief has provided notice of the termination to the Capitol Police Board (in such manner as the Board may from time to time require) and the Board has approved the termination, except that if the Board has not disapproved the termination prior to the expiration of the 30-day period which begins on the date the Board receives the notice, the Board shall be deemed to have approved the termination.
 
 #### (C) Notice or approval
 

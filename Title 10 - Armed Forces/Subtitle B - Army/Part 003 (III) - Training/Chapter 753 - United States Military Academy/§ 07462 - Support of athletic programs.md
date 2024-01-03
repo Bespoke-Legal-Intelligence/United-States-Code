@@ -20,7 +20,7 @@ Financial controls.—(A) Before entering into a contract or cooperative agreeme
 
 &emsp;(3)
 
-Leases.—Section 2667(h) of this title shall not apply to any leases the Secretary may enter into with the Association for the purpose of supporting the athletic programs of the Academy.
+Leases.—Section 2667(h) of this title shall not apply to any leases the Secretarymay enter into with the Association for the purpose of supporting the athletic programs of the Academy.
 
 (b)
 
@@ -58,7 +58,7 @@ Funds received from ncaa.—The Secretary may accept funds from the National Col
 
 &emsp;(3)
 
-Limitation.—The Secretary shall ensure that contributions under this subsection andexpenditure of funds pursuant to subsection (e) do not reflect unfavorably on the ability of the Department of the Army, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner, or compromise the integrity or appearance of integrity of any program of the Department of the Army, or any individual involved in such a program.
+Limitation.—The Secretary shall ensure that contributions under this subsection and expenditure of funds pursuant to subsection (e) do not reflect unfavorably on the ability of the Department of the Army, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner, or compromise the integrity or appearance of integrity of any program of the Department of the Army, or any individual involved in such a program.
 
 (d)
 

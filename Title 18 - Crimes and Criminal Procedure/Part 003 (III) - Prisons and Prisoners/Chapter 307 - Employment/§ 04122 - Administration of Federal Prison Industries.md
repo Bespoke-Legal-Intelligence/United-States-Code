@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(iii) the corporation's recommendations for action on the proposal in light of such comments.
 
-> In addition, the board of directors, before making a final decision under this paragraph on a proposal, shall, upon the request of an established trade association or other interested representatives of private industry, provide a reasonable opportunity to such trade association or other representatives to present comments directly to the board of directors on the proposal.
+> In addition, the board of directors, before making a final decision under this paragraph on a proposal, shall, upon the request of an established trade association or other interested representatives of private industry, provide a reasonable opportunity to such trade association orother representatives to present comments directly to the board of directors on the proposal.
 
 (5) Federal Prison Industries shall publish in the manner specified in paragraph (4)(B) the final decision of the board with respect to the production of a new product or the significant expansion of the production of an existing product.
 

@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Cultural affiliation
 
-&emsp;The term "cultural affiliation" means that there is a relationship of shared group identitythat can be reasonably traced historically or prehistorically between a present day Indian Tribe or Native Hawaiian organization and an identifiable earlier group.
+&emsp;The term "cultural affiliation" means that there is a relationship of shared group identity that can be reasonably traced historically or prehistorically between a present day Indian Tribe or Native Hawaiian organization and an identifiable earlier group.
 
 #### (3) Cultural item
 
@@ -28,7 +28,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) any other Federal law or treaty; and
 
-&emsp;&emsp;(B) an archaeological resource prohibited from being trafficked, including through sale, purchase, exchange, transport, receipt, or offer to sell, purchase, or exchange, including in interstate or foreign commerce, by—
+&emsp;&emsp;(B) an archaeological resource prohibited from being trafficked, including throughsale, purchase, exchange, transport, receipt, or offer to sell, purchase, or exchange, including in interstate or foreign commerce, by—
 
 &emsp;&emsp;&emsp;(i) subsections (b) and (c) of section 470ee of title 16; or
 

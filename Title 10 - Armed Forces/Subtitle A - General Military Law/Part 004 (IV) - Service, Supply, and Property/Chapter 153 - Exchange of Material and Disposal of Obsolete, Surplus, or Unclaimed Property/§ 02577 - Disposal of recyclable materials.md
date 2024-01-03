@@ -4,7 +4,7 @@
 
 (2) Any sale of recyclable materials by the Secretary of Defense or Secretary of a military department shall be in accordance with the procedures in sections 541–555 of title 40 for the sale of surplus property.
 
-(3) In this section, the term "recyclable materials" may include any quality recyclable material provided to the Department by a State orlocal government entity, if such material is authorized by the Office of the Secretary of Defense and identified in the regulations prescribed under paragraph (1).
+(3) In this section, the term "recyclable materials" may include any quality recyclable material provided to the Department by a State or local government entity, if such material is authorized by the Office of the Secretary of Defense and identified in the regulations prescribed under paragraph (1).
 
 (b)(1) Proceeds from the sale of recyclable materials at an installation shall be credited to funds available for operations and maintenance at that installation in amounts sufficient to cover the costs of operations, maintenance, and overhead for processing recyclable materials at the installation (including the cost of any equipment purchased for recycling purposes).
 

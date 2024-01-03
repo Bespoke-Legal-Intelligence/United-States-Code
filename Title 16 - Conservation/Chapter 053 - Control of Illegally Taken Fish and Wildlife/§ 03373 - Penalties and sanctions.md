@@ -2,7 +2,7 @@
 
 #### (a) Civil penalties
 
-(1) Any person who engages in conduct prohibited by any provision of this chapter (other than subsections (b), (d), (e), and (f) of section 3372 of this title) and in the exercise of due care shouldknow that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty, or regulation, and any person who knowingly violates subsection (d), (e), or (f) of section 3372 of this title, may be assessed a civil penalty by the Secretary of not more than $10,000 for each such violation: <i>Provided</i>, That when the violation involves fish or wildlife or plants with a market value of less than $350, and involves only the transportation, acquisition, or receipt of fish or wildlife or plants taken or possessed in violation of any law, treaty, or regulation of the United States, any Indian tribal law, any foreign law, or any law or regulation of any State, the penalty assessed shall not exceed the maximum provided for violation of said law, treaty, or regulation, or $10,000, whichever is less.
+(1) Any person who engages in conduct prohibited by any provision of this chapter (other than subsections (b), (d), (e), and (f) of section 3372 of this title) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty, or regulation, and any person who knowingly violates subsection (d), (e), or (f) of section 3372 of this title, may be assessed a civil penalty by the Secretary of not more than $10,000 for each such violation: <i>Provided</i>, That when the violation involves fish or wildlife or plants with a market value of less than $350, and involves only the transportation, acquisition, or receipt of fish or wildlife or plants taken or possessed in violation of any law, treaty, or regulation of the United States, any Indian tribal law, any foreign law, or any law or regulation of any State, the penalty assessed shall not exceed the maximum provided for violation of said law, treaty, or regulation, or $10,000, whichever is less.
 
 (2) Any person who violates subsection (b) or (f) of section 3372 of this title, except as provided in paragraph (1), may be assessed a civil penalty by the Secretary of not more than $250.
 
@@ -32,7 +32,7 @@ Any person against whom a civil penalty is assessed under this section may obtai
 
 > knowing that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty or regulation, shall be fined not more than $20,000, or imprisoned for not more than five years, or both. Each violation shall be a separate offense and the offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said fish or wildlife or plants.
 
-(2) Any person who knowingly engages in conduct prohibited by any provision of this chapter (other than subsections (b), (d), (e), and (f) of section 3372 of this title) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty or regulation shall be fined not more than $10,000, or imprisoned for not more than one year, or both. Each violation shall be a separate offense and the offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said fish or wildlife or plants.
+(2) Any person who knowingly engages in conduct prohibited by any provision of this chapter (other than subsections (b), (d), (e), and (f) ofsection 3372 of this title) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty or regulation shall be fined not more than $10,000, or imprisoned for not more than one year, or both. Each violation shall be a separate offense and the offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said fish or wildlife or plants.
 
 (3) Any person who knowingly violates subsection (d) or (f) of section 3372 of this title—
 
@@ -96,7 +96,7 @@ Pub. L. 100–653, §102(a), inserted "and any person who knowingly violates sec
 
 Subsec. (c). Pub. L. 100–653, §103, amended first sentence generally. Prior to amendment, first sentence read as follows: "Any person against whom a civil penalty is assessed under this section may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within thirty days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary."
 
-Subsec. (d)(1), (2). Pub. L. 100–653, §102(c), as amended by Pub. L. 110–246, §8204(f), substituted "(other than subsections (b) and (d) of section 3372 of this title)" for "(other than subsection 3372(b) of this title)" in pars. (1)(A), (B), and (2).
+Subsec. (d)(1), (2). Pub. L. 100–653, §102(c), as amended by Pub. L. 110–246, §8204(f), substituted "(other than subsections (b) and (d) of section 3372 of this title)" for"(other than subsection 3372(b) of this title)" in pars. (1)(A), (B), and (2).
 
 Subsec. (d)(3). Pub. L. 100–653, §102(b), added par. (3).
 
@@ -106,7 +106,7 @@ Subsec. (d)(3). Pub. L. 100–653, §102(b), added par. (3).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title VIII, §8204(f), May 22, 2008, 122 Stat. 1294, and Pub. L. 110–246, §4(a), title VIII, §8204(f),June 18, 2008, 122 Stat. 1664, 2056, provided that the amendment made by section 8204(f) is effective Nov. 14, 1988, and as if included in the enactment of section 102(c) of Pub. L. 100–653.
+Pub. L. 110–234, title VIII, §8204(f), May 22, 2008, 122 Stat. 1294, and Pub. L. 110–246, §4(a), title VIII, §8204(f), June 18, 2008, 122 Stat. 1664, 2056, provided that the amendment made by section 8204(f) is effective Nov. 14, 1988, and as if included in the enactment of section 102(c) of Pub. L. 100–653.
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 

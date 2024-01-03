@@ -4,7 +4,7 @@
 
 The following transactions by the United States Government are prohibited:
 
-&emsp;(1) Exporting or otherwise providing (by sale, lease or loan, grant, or other means), directly or indirectly, any munitions item to a country described in subsection (d) under theauthority of this chapter, the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other law (except as provided in subsection (h)). In implementing this paragraph, the United States Government—
+&emsp;(1) Exporting or otherwise providing (by sale, lease or loan, grant, or other means), directly or indirectly, any munitions item to a country described in subsection (d) under the authority of this chapter, the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other law (except as provided in subsection (h)). In implementing this paragraph, the United States Government—
 
 &emsp;&emsp;(A) shall suspend delivery to such country of any such item pursuant to any such transaction which has not been completed at the time the Secretary of State makes the determination described in subsection (d), and
 
@@ -176,7 +176,7 @@ Paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appro
 
 The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503,which was classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Sections 11 and 12 of the Act were classified to sections 4610 and 4614, respectively, of Title 50 prior to repeal.
+The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Sections 11 and 12 of the Act were classified to sections 4610 and 4614, respectively, of Title 50 prior to repeal.
 
 #### Amendments
 

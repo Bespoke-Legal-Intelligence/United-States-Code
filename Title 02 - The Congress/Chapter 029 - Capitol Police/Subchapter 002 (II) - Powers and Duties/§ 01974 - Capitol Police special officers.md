@@ -4,7 +4,7 @@
 
 In the event of an emergency, as determined by the Capitol Police Board or in a concurrent resolution of Congress, or as determined by the Chief of the Capitol Police in accordance with section 1970(a)(4)(B)(ii)(III) of this title, the Chief of the Capitol Police may appoint—
 
-&emsp;(1) any law enforcement officer from any Federal agency or State or local governmentagency made available by that agency to serve as a special officer of the Capitol Police within the authorities of the Capitol Police in policing the Capitol buildings and grounds; and
+&emsp;(1) any law enforcement officer from any Federal agency or State or local government agency made available by that agency to serve as a special officer of the Capitol Police within the authorities of the Capitol Police in policing the Capitol buildings and grounds; and
 
 &emsp;(2) any member of the uniformed services, including members of the National Guard, made available by the appropriate authority to serve as a special officer of the Capitol Police within the authorities of the Capitol Police in policing the Capitol buildings and grounds.
 

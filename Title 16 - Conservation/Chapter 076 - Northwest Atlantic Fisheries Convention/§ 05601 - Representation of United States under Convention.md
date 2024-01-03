@@ -92,7 +92,7 @@ The Commissioners, Alternate Commissioners, Representatives, and Alternate Repre
 
 &emsp;Chapter 10 of title 5 shall not apply to coordination and consultations under this subsection.
 
-(Pub. L. 104–43, title II, §202, Nov. 3, 1995, 109 Stat. 377; Pub. L. 114–327, title V, §502, Dec. 16, 2016, 130 Stat. 1995; Pub. L. 117–286, §4(a)(124), Dec. 27, 2022, 136 Stat. 4319.)
+(Pub. L. 104–43, title II, §202, Nov. 3, 1995, 109 Stat. 377; Pub. L. 114–327, title V, §502, Dec. 16,2016, 130 Stat. 1995; Pub. L. 117–286, §4(a)(124), Dec. 27, 2022, 136 Stat. 4319.)
 
 #### <b>Editorial Notes</b>
 

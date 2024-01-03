@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense shall submit to Congress each year, not later than five days after the date on which the President's budget is submitted to Congress that year under section 1105(a) of title 31, a future-years defense program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years defense program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.
 
-(b)(1) The Secretary of Defense shall ensure that amounts described in subparagraph (A) of paragraph (2) for any fiscal year are consistent with amounts described in subparagraph (B) of paragraph (2) for that fiscal year.
+(b)(1) The Secretary of Defense shall ensure that amounts described in subparagraph (A) ofparagraph (2) for any fiscal year are consistent with amounts described in subparagraph (B) of paragraph (2) for that fiscal year.
 
 (2) Amounts referred to in paragraph (1) are the following:
 
@@ -24,7 +24,7 @@
 
 &emsp;(B) such annex shall be submitted to the congressional defense committees, the Congressional Budget Office, the Comptroller General of the United States, and the Congressional Research Service.
 
-(e) Each future-years defense program under this subsection shall be accompanied by a certification by the Under Secretary of Defense (Comptroller), in the case of the Department of Defense, and the comptroller of each militarydepartment, in the case of such military department, that any information entered into the Standard Data Collection System of the Department of Defense, the Comptroller Information System, or any other data system, as applicable, for purposes of assembling such future-years defense program was accurate.
+(e) Each future-years defense program under this subsection shall be accompanied by a certification by the Under Secretary of Defense (Comptroller), in the case of the Department of Defense, and the comptroller of each military department, in the case of such military department, that any information entered into the Standard Data Collection System of the Department of Defense, the Comptroller Information System, or any other data system, as applicable, for purposes of assembling such future-years defense program was accurate.
 
 (Added Pub. L. 101–189, div. A, title XVI, §1602(a)(1), Nov. 29, 1989, 103 Stat. 1596, §114a; amended Pub. L. 101–510, div. A, title XIV, §1402(a)(1)–(3)(A), Nov. 5, 1990, 104 Stat. 1674; renumbered §221 and amended Pub. L. 102–484, div. A, title X, §1002(c), Oct. 23, 1992, 106 Stat. 2480; Pub. L. 115–91, div. A, title X, §1042(a)–(c), Dec. 12, 2017, 131 Stat. 1553, 1554.)
 
@@ -292,7 +292,7 @@ Pub. L. 116–92, div. A, title III, §328, Dec. 20, 2019, 133 Stat. 1311, as am
 
 In General.—The Secretary of Defense shall include in the annual budget submission of the President under section 1105(a) of title 31, United States Code—
 
-&emsp;"(1) a dedicated budget line item for adaptation to, and mitigation of, effects of extreme weather on military networks, systems, installations, facilities, and other assets and capabilities of the Department of Defense;
+&emsp;"(1) a dedicated budget line item for adaptation to, and mitigation of, effects of extreme weather on military networks, systems, installations, facilities, andother assets and capabilities of the Department of Defense;
 
 &emsp;"(2) an estimate of the anticipated adverse impacts to the readiness of the Department and the financial costs to the Department during the year covered by the budget of the loss of, or damage to, military networks, systems, installations, facilities, and other assets and capabilities of the Department, including loss of or obstructed access to training ranges, as a result \[of\] extreme weather events; and
 
@@ -378,51 +378,7 @@ Pub. L. 115–232, div. A, title X, §1018, Aug. 13, 2018, 132 Stat. 1951, provi
 
 #### Budget Display for Cyber Vulnerability Evaluations and Mitigation Activities for Major Weapon Systems of the Department of Defense
 
-Pub. L. 115–232, div. A, title XVI, §1637, Aug. 13, 2018, 132 Stat. 2127, provided that:
-
-"(a)
-
-Budget Required.—Beginning in fiscal year 2021 and in each fiscal year thereafter, the Secretary of Defense shall submit to Congress, as a part of the documentation that supports the President's annual budget for the Department of Defense, a consolidated Cyber Vulnerability Evaluation and Mitigation budget justification display for each major weapons system of the Department of Defense that includes the following:
-
-&emsp;"(1)
-
-Cyber vulnerability evaluations.—
-
-&emsp;&emsp;"(A)
-
-Status.—Whether, in accordance with paragraph (1) of section 1647(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1118), the cyber vulnerability evaluation for each such major weapon system is pending, in progress, complete, or, pursuant to paragraph (2) of such section, waived.
-
-&emsp;&emsp;"(B)
-
-Funding.—The funding required for the fiscal year with respect to which the budget is submitted and for at least the four succeeding fiscal years required to complete the pending or in progress cyber vulnerability evaluation of each such major weapon system.
-
-&emsp;&emsp;"(C)
-
-Description.—A description of the activities planned in the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years to complete the required evaluation for each such major weapon system.
-
-&emsp;&emsp;"(D)
-
-Risk analysis.—A description of operational or security risks associated with cyber vulnerabilities identified as a result of such cyber vulnerability evaluations that require mitigation.
-
-&emsp;"(2)
-
-Mitigation activities.—
-
-&emsp;&emsp;"(A)
-
-Status.—Whether activities to address identified cyber vulnerabilities of such major weapon systems resulting in operational or security risks requiring mitigation are pending, in progress, or complete.
-
-&emsp;&emsp;"(B)
-
-Funding.—The funding required for the fiscal year with respect to which the budget is submitted and for at least the four succeeding fiscal years required to complete the pending or in progress mitigation activities referred to in subparagraph (A) related to such major weapon systems.
-
-&emsp;&emsp;"(C)
-
-Description.—A description of the activities planned in the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years to complete any necessary mitigation.
-
-"(b)
-
-Form.—The display required under subsection (a) should, to the extent practicable, be submitted in an unclassified form, and shall include a classified annex as required."
+Pub. L. 115–232, div. A, title XVI, §1637, Aug. 13, 2018, 132 Stat. 2127, which provided that, beginning in fiscalyear 2021 and in each fiscal year thereafter, the Secretary of Defense was to submit to Congress, as a part of the documentation that supported the President's annual budget for the Department of Defense, a consolidated Cyber Vulnerability Evaluation and Mitigation budget justification display for each major weapons system of the Department of Defense, was repealed by Pub. L. 118–31, div. A, title XV, §1502(a)(2)(D), Dec. 22, 2023, 137 Stat. 537.
 
 #### Budget Exhibit on Support Provided to Executive Office of the President
 
@@ -508,7 +464,7 @@ Subsequent Plans.—
 
 &emsp;"(1)
 
-In general.—Not later than the date on which the Secretary of Defense submits to Congress the budget request for the Department of Defense for fiscal year 2021 and each fiscal year thereafter, the Secretary, in consultation with the Commander of the United States European Command, shall submit to the congressional defense committees a future yearsplan on activities and resources of the European Deterrence Initiative for such fiscal year and not fewer than the four succeeding fiscal years.
+In general.—Not later than the date on which the Secretary of Defense submits to Congress the budget request for the Department of Defense for fiscal year 2021 and each fiscal year thereafter, the Secretary, in consultation with the Commander of the United States European Command, shall submit to the congressional defense committees a future years plan on activities and resources of the European Deterrence Initiative for such fiscal year and not fewer than the four succeeding fiscal years.
 
 &emsp;"(2)
 
@@ -602,7 +558,7 @@ Elements.—The analysis required under paragraph (1) shall include the followin
 
 &emsp;&emsp;"(A) Revalidation of the distributed common ground system program requirements based on current program needs, recent operational experience, and the requirement for nonproprietary solutions that adhere to open-architecture principles.
 
-&emsp;&emsp;"(B) Market research of current commercially available tools to determine whether any such tools could potentially satisfy the requirements described in subparagraph (A).
+&emsp;&emsp;"(B) Market research of current commercially available tools to determine whether any such toolscould potentially satisfy the requirements described in subparagraph (A).
 
 &emsp;&emsp;"(C) Analysis of the competitive acquisition options for any tools identified in subparagraph (B).
 
@@ -700,7 +656,7 @@ Pub. L. 111–84, div. A, title II, §216, Oct. 28, 2009, 123 Stat. 2227, provid
 
 #### Separate Procurement and Research, Development, Test, and Evaluation Line Items and Program Elements for the F–35B and F–35C Joint Strike Fighter Aircraft
 
-Pub. L. 111–84, div. A, title II, §217, Oct. 28, 2009, 123 Stat. 2228, provided that: "In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to section 1105 of title 31, United States Code, of the budget for fiscal year 2011, and each subsequent fiscal year, the Secretary shall ensure that within the Navy research, development, test, and evaluation account and the Navy aircraft procurement account, a separate,dedicated line item and program element is assigned to each of the F-35B aircraft and the F-35C aircraft, to the extent that such accounts include funding for each such aircraft."
+Pub. L. 111–84, div. A, title II, §217, Oct. 28, 2009, 123 Stat. 2228, provided that: "In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to section 1105 of title 31, United States Code, of the budget for fiscal year 2011, and each subsequent fiscal year, the Secretary shall ensure that within the Navy research, development, test, and evaluation account and the Navy aircraft procurement account, a separate, dedicated line item and program element is assigned to each of the F-35B aircraft and the F-35C aircraft, to the extent that such accounts include funding for each such aircraft."
 
 #### Guidance on Budget Justification Materials Describing Funding Requested for Operation, Sustainment, Modernization, and Personnel of Major Ranges and Test Facilities
 
@@ -868,7 +824,7 @@ Display in budget justification materials.—As part of the budget justification
 
 #### Annual Submission of Information Regarding Information Technology Capital Assets
 
-Pub. L. 107–314, div. A, title III, §351, Dec. 2, 2002, 116 Stat. 2516, as amended by Pub. L. 110–417, \[div. A\], title X, §1051, Oct. 14, 2008, 122 Stat. 4604; Pub. L. 113–66, div. A, title III, §333, Dec. 26, 2013, 127 Stat. 739, which related to annual submission of information regarding information technology capital assets, was repealed by Pub. L. 114–92, div. A, title X, §1079(h), Nov. 25, 2015, 129 Stat. 1000.
+Pub. L. 107–314, div. A, title III, §351, Dec. 2, 2002, 116 Stat. 2516, as amended by Pub. L. 110–417, \[div. A\], title X, §1051, Oct. 14, 2008, 122 Stat. 4604; Pub. L. 113–66, div. A, title III, §333, Dec. 26, 2013, 127 Stat. 739, which related to annual submission of information regarding information technology capital assets, was repealed byPub. L. 114–92, div. A, title X, §1079(h), Nov. 25, 2015, 129 Stat. 1000.
 
 #### Department of Defense Requests for Funds for Environmental Restoration at BRAC Sites in Future Fiscal Years
 
@@ -960,7 +916,7 @@ Pub. L. 105–85, div. A, title III, §327, Nov. 18, 1997, 111 Stat. 1679, provi
 
 #### Identification in President's Budget of NATO Costs
 
-Pub. L. 106–79, title VIII, §8091, Oct. 25, 1999, 113 Stat. 1253, provided that: "The budget of the President for fiscal year 2001 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include budget activity groups (known as 'subactivities') in all appropriations accounts provided in this Act \[see Tables for classification\], as may be necessary, to separately identify all costs incurred by the Department of Defense to support the North Atlantic Treaty Organization and all Partnership For Peace programs and initiatives. The budget justification materials submitted to the Congress in support of the budget of the Department of Defense for fiscal year 2001, and subsequent fiscal years, shall provide complete, detailed estimates for all such costs."
+Pub. L. 106–79, title VIII, §8091, Oct. 25, 1999, 113 Stat. 1253, provided that: "The budget of the President forfiscal year 2001 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include budget activity groups (known as 'subactivities') in all appropriations accounts provided in this Act \[see Tables for classification\], as may be necessary, to separately identify all costs incurred by the Department of Defense to support the North Atlantic Treaty Organization and all Partnership For Peace programs and initiatives. The budget justification materials submitted to the Congress in support of the budget of the Department of Defense for fiscal year 2001, and subsequent fiscal years, shall provide complete, detailed estimates for all such costs."
 
 Similar provisions were contained in the following prior appropriation acts:
 

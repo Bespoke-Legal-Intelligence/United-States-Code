@@ -56,7 +56,7 @@ In implementing the policy described in section 4261 of this title, the Presiden
 
 &emsp;&emsp;(G) collaborating on technological advances in post-consumer materials management and recycled plastics;
 
-&emsp;&emsp;(H) growing economic opportunities and developing markets for recyclable, compostable, reusable, and repurposed plastic waste and post-consumer materials and other efforts that support the circular economy; and
+&emsp;&emsp;(H) growing economic opportunities and developing markets for recyclable,compostable, reusable, and repurposed plastic waste and post-consumer materials and other efforts that support the circular economy; and
 
 &emsp;&emsp;(I) advising foreign countries, at both the national and subnational levels, on the development and execution of regulatory policies, services, including recycling and reuse of plastic, and laws pertaining to reducing the creation and the collection and safe management of—
 

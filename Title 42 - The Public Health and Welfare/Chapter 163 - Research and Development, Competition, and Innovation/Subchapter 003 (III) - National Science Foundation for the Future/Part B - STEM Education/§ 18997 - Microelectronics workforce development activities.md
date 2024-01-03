@@ -110,7 +110,7 @@
 
 #### (5) Partnerships
 
-&emsp;The Director shall encourage the submission of proposals that are led by historically Black colleges and universities, Tribal Colleges or Universities, and minority-serving institutions or that include partnerships with oramong such institutions to increase the recruitment of students from groups historically underrepresented in STEM to pursue graduate studies in microelectronics.
+&emsp;The Director shall encourage the submission of proposals that are led by historically Black colleges and universities, Tribal Colleges or Universities, and minority-serving institutions or that include partnerships with or among such institutions to increase the recruitment of students from groups historically underrepresented in STEM to pursue graduate studies in microelectronics.
 
 #### (6) Outreach
 
@@ -130,7 +130,7 @@
 
 #### References in Text
 
-The Scientific and Advanced-Technology Act of 1992, referred to in subsec. (a)(5), is Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, which is classified principally to section 1862h et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1861 of this title and Tables.
+The Scientific and Advanced-Technology Act of 1992, referred to in subsec. (a)(5), is Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, which enacted sections 1862h to 1862j of this title and amended section 1862 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1861 of this title and Tables.
 
 Section 1862p–11 of this title, referred to in subsec. (a)(6)(B), was in the original "section 522 of the America COMPETES Act of 2010", and was translated as meaning section 522 of Pub. L. 111–358, the America COMPETES Reauthorization Act of 2010, to reflect the probable intent of Congress.
 

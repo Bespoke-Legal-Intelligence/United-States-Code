@@ -6,7 +6,7 @@ In General.—Except as provided in this section, no person may install or use a
 
 (b)
 
-Exception.—The prohibition of subsection (a) does not apply with respect to the use of a pen register or a trap and trace device by a provider of electronic or wire communication service—
+Exception.—The prohibition of subsection (a) does not apply with respect to the use of apen register or a trap and trace device by a provider of electronic or wire communication service—
 
 &emsp;(1) relating to the operation, maintenance, and testing of a wire or electronic communication service or to the protection of the rights or property of such provider, or to the protection of users of that service from abuse of service or unlawful use of service; or
 

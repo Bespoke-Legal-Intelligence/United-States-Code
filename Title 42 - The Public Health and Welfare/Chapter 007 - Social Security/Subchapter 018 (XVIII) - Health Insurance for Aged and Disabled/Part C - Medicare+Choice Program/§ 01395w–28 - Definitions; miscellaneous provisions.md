@@ -124,7 +124,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (1) In general
 
-&emsp;In the case of a Medicare+Choice religious fraternal benefit society plan described in paragraph (2), notwithstanding any other provision of this part to the contrary and in accordance with regulations of the Secretary, the society offering the plan may restrict theenrollment of individuals under this part to individuals who are members of the church, convention, or group described in paragraph (3)(B) with which the society is affiliated.
+&emsp;In the case of a Medicare+Choice religious fraternal benefit society plan described in paragraph (2), notwithstanding any other provision of this part to the contrary and in accordance with regulations of the Secretary, the society offering the plan may restrict the enrollment of individuals under this part to individuals who are members of the church, convention, or group described in paragraph (3)(B) with which the society is affiliated.
 
 #### (2) Medicare+Choice religious fraternal benefit society plan described
 
@@ -272,13 +272,13 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;&emsp;(i) a uniform process for disseminating to State Medicaid agencies information under this subchapter impacting contracts between such agencies and such plans under this subsection; and
 
-&emsp;&emsp;&emsp;(ii) basic resources for States interested in exploring such plans as a platform forintegration, such as a model contract or other tools to achieve those goals.
+&emsp;&emsp;&emsp;(ii) basic resources for States interested in exploring such plans as a platform for integration, such as a model contract or other tools to achieve those goals.
 
 #### (B) Unified grievances and appeals process
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than April 1, 2020, the Secretary shall establish procedures, to the extent feasible as determined by the Secretary, unifying grievances and appeals procedures under sections 1395w–22(f), 1395w–22(g), 1396a(a)(3), 1396a(a)(5), and 1396u–2(b)(4) of this title for items and services provided by specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) under this subchapter and subchapter XIX. With respect to items and services described in the preceding sentence, procedures established under this clause shall apply in place of otherwise applicable grievances and appeals procedures. The Secretary shall solicit comment in developing such procedures from States, plans, beneficiaries and their representatives, and other relevant stakeholders.
+&emsp;&emsp;&emsp;Not later than April 1, 2020, the Secretary shall establish procedures, to the extent feasible as determined by the Secretary, unifying grievances and appeals procedures under sections 1395w–22(f), 1395w–22(g), 1396a(a)(3), 1396a(a)(5), and 1396u–2(b)(4) of this title for items and services provided by specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) under this subchapter and subchapter XIX. With respect to items and services described in the preceding sentence, procedures established under this clause shall apply in place of otherwise applicable grievances and appeals procedures. The Secretary shall solicit comment in developing such procedures from States, plans, beneficiaries andtheir representatives, and other relevant stakeholders.
 
 #### (ii) Procedures
 
@@ -322,9 +322,9 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;&emsp;&emsp;(I) The specialized MA plan must meet the requirements of contracting with the State Medicaid agency described in paragraph (3)(D) in addition to coordinating long-term services and supports or behavioral health services, or both, by meeting an additional minimum set of requirements determined by the Secretary through the Federal Coordinated Health Care Office established under section 1315b of this title based on input from stakeholders, such as notifying the State in a timely manner of hospitalizations, emergency room visits, and hospital or nursing home discharges of enrollees, assigning one primary care provider for each enrollee, or sharing data that would benefit the coordination of items and services under this subchapter and the State plan under subchapter XIX. Such minimum set of requirements must be included in the contract of the specialized MA plan with the State Medicaid agency under such paragraph.
 
-&emsp;&emsp;&emsp;&emsp;(II) The specialized MA plan must meet the requirements of a fully integratedplan described in section 1395w–23(a)(1)(B)(iv)(II) of this title (other than the requirement that the plan have similar average levels of frailty, as determined by the Secretary, as the PACE program), or enter into a capitated contract with the State Medicaid agency to provide long-term services and supports or behavioral health services, or both.
+&emsp;&emsp;&emsp;&emsp;(II) The specialized MA plan must meet the requirements of a fully integrated plan described in section 1395w–23(a)(1)(B)(iv)(II) of this title (other than the requirement that the plan have similar average levels of frailty, as determined by the Secretary, as the PACE program), or enter into a capitated contract with the State Medicaid agency to provide long-term services and supports or behavioral health services, or both.
 
-&emsp;&emsp;&emsp;&emsp;(III) In the case of a specialized MA plan that is offered by a parent organization that is also the parent organization of a Medicaid managed care organization providing long term services and supports or behavioral services under a contract under section 1396b(m) of this title, the parent organization must assume clinical and financial responsibility for benefits provided under this subchapter and subchapter XIX with respect to any individual who is enrolled in both the specialized MA plan and the Medicaid managed care organization.
+&emsp;&emsp;&emsp;&emsp;(III) In the case of a specialized MA plan that is offered by a parent organization that is also the parent organization of a Medicaid managed care organization providing long term services and supports or behavioral services under a contract under section 1396b(m) of this title, the parent organization must assume clinical and financial responsibility for benefits provided under this subchapter and subchapter XIX with respect to any individual who is enrolled in both thespecialized MA plan and the Medicaid managed care organization.
 
 #### (ii) Suspension of enrollment for failure to meet requirements during initial period
 
@@ -360,7 +360,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;&emsp;(ii) Conditions that require prescription drugs, providers, and models of care that are unique to the specific population of enrollees in a specialized MA plan for special needs individuals described in such subsection on or after such date and—
 
-&emsp;&emsp;&emsp;&emsp;(I) as a result of access to, and enrollment in, such a specialized MA plan forspecial needs individuals, individuals with such condition would have a reasonable expectation of slowing or halting the progression of the disease, improving health outcomes and decreasing overall costs for individuals diagnosed with such condition compared to available options of care other than through such a specialized MA plan for special needs individuals; or
+&emsp;&emsp;&emsp;&emsp;(I) as a result of access to, and enrollment in, such a specialized MA plan for special needs individuals, individuals with such condition would have a reasonable expectation of slowing or halting the progression of the disease, improving health outcomes and decreasing overall costs for individuals diagnosed with such condition compared to available options of care other than through such a specialized MA plan for special needs individuals; or
 
 &emsp;&emsp;&emsp;&emsp;(II) have a low prevalence in the general population of beneficiaries under this subchapter or a disproportionally high per-beneficiary cost under this subchapter.
 
@@ -370,7 +370,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (C) Requirement
 
-&emsp;&emsp;In establishing and updating the list under subparagraph (A), the panel shall take into account the availability of varied benefits, cost-sharing, and supplemental benefits under the model described in paragraph (2) of section 1395w–28(h) of this title, including the expansion under paragraph (1) of such section.
+&emsp;&emsp;In establishing and updating the list under subparagraph (A), the panel shall take intoaccount the availability of varied benefits, cost-sharing, and supplemental benefits under the model described in paragraph (2) of section 1395w–28(h) of this title, including the expansion under paragraph (1) of such section.
 
 #### (g) Special rules for senior housing facility plans
 
@@ -426,7 +426,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;&emsp;(iii) Providers of services and suppliers who are the subject of an active revocation of participation under this subchapter, including for not satisfying conditions of participation.
 
-&emsp;&emsp;&emsp;(iv) In the case of such a plan that makes a referral under subparagraph (A)(i) through the portal (or other successor technology) with respect to activities ofsubstantiated or suspicious activities of fraud, waste, or abuse of a provider of services (including a prescriber) or supplier, if such provider (including a prescriber) or supplier has been the subject of an administrative action under this subchapter or subchapter XI with respect to similar activities, a notification to such plan of such action so taken.
+&emsp;&emsp;&emsp;(iv) In the case of such a plan that makes a referral under subparagraph (A)(i) through the portal (or other successor technology) with respect to activities of substantiated or suspicious activities of fraud, waste, or abuse of a provider of services (including a prescriber) or supplier, if such provider (including a prescriber) or supplier has been the subject of an administrative action under this subchapter or subchapter XI with respect to similar activities, a notification to such plan of such action so taken.
 
 #### (C) Rulemaking
 
@@ -524,7 +524,7 @@ Subsec. (c)(5). Pub. L. 108–173, §221(d)(2), added par. (5).
 
 Subsec. (f). Pub. L. 108–173, §231(c), added subsec. (f).
 
-<b>1999</b>—Subsec. (e)(2). Pub. L. 106–113 substituted "section 1395w–21(a)(2) of this title" for "section 1395w–21(a)(2)(A) of this title" in introductory provisions.
+<b>1999</b>—Subsec. (e)(2). Pub. L. 106–113 substituted "section 1395w–21(a)(2) of this title" for "section1395w–21(a)(2)(A) of this title" in introductory provisions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

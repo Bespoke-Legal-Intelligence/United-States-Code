@@ -6,7 +6,7 @@ The National Center for Education Evaluation and Regional Assistance shall be he
 
 &emsp;(1) conduct evaluations pursuant to section 9563 of this title;
 
-&emsp;(2) widely disseminate information on scientifically valid research, statistics, and evaluation on education, particularly to State educational agencies and local educational agencies, to institutions of higher education,to the public, the media, voluntary organizations, professional associations, and other constituencies, especially with respect to information relating to, at a minimum—
+&emsp;(2) widely disseminate information on scientifically valid research, statistics, and evaluation on education, particularly to State educational agencies and local educational agencies, to institutions of higher education, to the public, the media, voluntary organizations, professional associations, and other constituencies, especially with respect to information relating to, at a minimum—
 
 &emsp;&emsp;(A) the core academic areas of reading, mathematics, and science;
 
@@ -16,7 +16,7 @@ The National Center for Education Evaluation and Regional Assistance shall be he
 
 &emsp;&emsp;(D) education technology, including software; and
 
-&emsp;&emsp;(E) those topics covered by the Educational Resources Information Center Clearinghouses (established under section 941(f) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (20 U.S.C. 6041(f)) (as such provision was in effect on the day before November 5, 2002);
+&emsp;&emsp;(E) those topics covered by the Educational Resources Information CenterClearinghouses (established under section 941(f) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (20 U.S.C. 6041(f)) (as such provision was in effect on the day before November 5, 2002);
 
 &emsp;(3) make such information accessible in a user-friendly, timely, and efficient manner (including through use of a searchable Internet-based online database that shall include all topics covered in paragraph (2)(E)) to schools, institutions of higher education, educators (including early childhood educators), parents, administrators, policymakers, researchers, public and private entities (including providers of early childhood services), entities responsible for carrying out technical assistance through the Department, and the general public;
 

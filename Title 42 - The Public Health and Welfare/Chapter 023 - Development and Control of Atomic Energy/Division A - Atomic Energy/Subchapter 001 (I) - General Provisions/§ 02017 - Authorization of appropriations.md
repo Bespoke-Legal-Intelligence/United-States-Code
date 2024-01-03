@@ -28,7 +28,7 @@ Funds authorized to be appropriated for any construction project to be used in c
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in section 19 of act Aug. 1, 1946, ch. 724, 60 Stat. 775, which was classified to section 1819 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+Provisions similar to those comprising this section were contained in section 19 of act Aug. 1, 1946, ch. 724,60 Stat. 775, which was classified to section 1819 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
 

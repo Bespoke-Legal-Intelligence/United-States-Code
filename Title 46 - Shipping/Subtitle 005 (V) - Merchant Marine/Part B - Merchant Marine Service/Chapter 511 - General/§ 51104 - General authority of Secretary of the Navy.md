@@ -1,6 +1,6 @@
 ### §51104. General authority of Secretary of the Navy
 
-The Secretary of the Navy, in cooperation with the Maritime Administrator and the headof each State maritime academy, shall ensure that—
+The Secretary of the Navy, in cooperation with the Maritime Administrator and the head of each State maritime academy, shall ensure that—
 
 &emsp;(1) the training of future merchant marine officers at the United States Merchant Marine Academy and at State maritime academies includes programs for naval science training in the operation of merchant vessels as a naval and military auxiliary; and
 

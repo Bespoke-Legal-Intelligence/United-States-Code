@@ -4,7 +4,7 @@
 
 (b) For limitations on actions brought with respect to drug patents see section 505 or 512 of the Federal Food, Drug, and Cosmetic Act, or section 351 of the Public Health Service Act.
 
-(June 25, 1948, ch. 646, 62 Stat. 964; May 24, 1949, ch. 139, §111, 63 Stat. 105; Aug. 28, 1954, ch. 1033, 68 Stat. 890; Pub. L. 85–508, §12(p), July 7, 1958, 72 Stat. 349; Pub. L. 94–455, title XIII, §1306(b)(8), Oct. 4, 1976, 90 Stat. 1719; Pub. L. 95–598, title II, §249, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 98–417, title I, §106, Sept. 24, 1984, 98 Stat. 1597; Pub. L. 100–449, title IV, §402(c), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 100–670, title I, §107(b), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 103–182, title IV, §414(b), Dec. 8, 1993, 107 Stat. 2147; Pub. L. 111–148, title VII, §7002(c)(2), Mar. 23, 2010, 124 Stat. 816; Pub. L. 116–113, title IV, §423(b), Jan. 29, 2020, 134 Stat. 66.)
+(June 25, 1948, ch. 646, 62 Stat. 964; May 24, 1949, ch. 139, §111, 63 Stat. 105; Aug. 28, 1954, ch. 1033,68 Stat. 890; Pub. L. 85–508, §12(p), July 7, 1958, 72 Stat. 349; Pub. L. 94–455, title XIII, §1306(b)(8), Oct. 4, 1976, 90 Stat. 1719; Pub. L. 95–598, title II, §249, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 98–417, title I, §106, Sept. 24, 1984, 98 Stat. 1597; Pub. L. 100–449, title IV, §402(c), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 100–670, title I, §107(b), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 103–182, title IV, §414(b), Dec. 8, 1993, 107 Stat. 2147; Pub. L. 111–148, title VII, §7002(c)(2), Mar. 23, 2010, 124 Stat. 816; Pub. L. 116–113, title IV, §423(b), Jan. 29, 2020, 134 Stat. 66.)
 
 #### Amendment of Section
 
@@ -18,7 +18,7 @@ Based on title 28, U.S.C., 1940 ed., §400 (Mar. 3, 1911, ch. 231, §274d, as ad
 
 This section is based on the first paragraph of section 400 of title 28, U.S.C., 1940 ed. Other provisions of such section are incorporated in section 2202 of this title.
 
-While this section does not exclude declaratory judgments with respect to State taxes, such suits will not ordinarily be entertained in the courts of the United States where State law makes provision for payment under protest and recovery back or otherwise affords adequate remedy in the State courts. See <i>Great Lakes Dredge \& Dock Co. v. Huffman</i>, La. 1943, 63 S.Ct. 1070, 319U.S. 293, 87 L.Ed. 1407. See also <i>Spector Motor Service v. McLaughlin</i>, Conn. 1944, 65 S.Ct. 152, 323 U.S. 101, 89 L.Ed. 101. See also section 1341 of this title forbidding district courts to restrain enforcements of State taxes where State courts afford plain, speedy, and efficient remedy.
+While this section does not exclude declaratory judgments with respect to State taxes, such suits will not ordinarily be entertained in the courts of the United States where State law makes provision for payment under protest and recovery back or otherwise affords adequate remedy in the State courts. See <i>Great Lakes Dredge \& Dock Co. v. Huffman</i>, La. 1943, 63 S.Ct. 1070, 319 U.S. 293, 87 L.Ed. 1407. See also <i>Spector Motor Service v. McLaughlin</i>, Conn. 1944, 65 S.Ct. 152, 323 U.S. 101, 89 L.Ed. 101. See also section 1341 of this title forbidding district courts to restrain enforcements of State taxes where State courts afford plain, speedy, and efficient remedy.
 
 Changes were made in phraseology.
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 94–455 applicable with respect to pleadings filed with th
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as requiredby sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Effect of Termination of USMCA Country Status
 

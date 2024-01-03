@@ -154,7 +154,7 @@ For purposes of this section, an eligible consortium is a consortium that—
 
 &emsp;&emsp;(C) encouraging eligible consortia to leverage institutions of higher education serving populations historically underrepresented in STEM, including historically Black Colleges and Universities, Tribal Colleges or Universities, and minority-serving institutions to significantly benefit an area or region; and
 
-&emsp;&emsp;(D) encouraging proposals from eligible consortia that would significantly benefit an area or region whose economy significantly relies on or has recently relied on coal, oil, or natural gas production or development.
+&emsp;&emsp;(D) encouraging proposals from eligible consortia that would significantly benefit anarea or region whose economy significantly relies on or has recently relied on coal, oil, or natural gas production or development.
 
 #### (3) Relation to certain grant awards
 
@@ -228,7 +228,7 @@ For purposes of this section, an eligible consortium is a consortium that—
 
 #### (2) Use of funds
 
-&emsp;Grants or cooperative agreements awarded under paragraph (1) to a regional technology and innovation hub may be used by the regional technology and innovation hub to support any of the following activities, consistent with the most current regional innovation strategy of the regional technology and innovation hub, which may have been developed with or without financial assistance received under subsection (e) of this section:
+&emsp;Grants or cooperative agreements awarded under paragraph (1) to a regional technologyand innovation hub may be used by the regional technology and innovation hub to support any of the following activities, consistent with the most current regional innovation strategy of the regional technology and innovation hub, which may have been developed with or without financial assistance received under subsection (e) of this section:
 
 #### (A) Workforce development activities
 
@@ -256,7 +256,7 @@ For purposes of this section, an eligible consortium is a consortium that—
 
 &emsp;&emsp;Business and entrepreneur development activities, including activities relating to the following:
 
-&emsp;&emsp;&emsp;(i) The development and growth of local and regional businesses and the training ofentrepreneurs, which may include support for the expansion of employee owned businesses and cooperatives.
+&emsp;&emsp;&emsp;(i) The development and growth of local and regional businesses and the training of entrepreneurs, which may include support for the expansion of employee owned businesses and cooperatives.
 
 &emsp;&emsp;&emsp;(ii) The support of technology commercialization, including funding for activities relevant to the protection of intellectual property and for advancing potential ventures such as acceleration, incubation, early-stage production and other relevant programming.
 
@@ -482,7 +482,7 @@ There is authorized to be appropriated to the Secretary—
 
 &emsp;(3) $7,000,000,000 to award grants and cooperative agreements under subsection (f) for the period of fiscal years 2025 through 2027.
 
-#### (<i>l)</i> Administration
+#### (l) Administration
 
 The Secretary may use funds made available to carry out this section for administrative costs under this section.
 

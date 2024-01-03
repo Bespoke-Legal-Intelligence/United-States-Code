@@ -28,7 +28,7 @@ In general.—Subject to paragraph (2), any person who—
 
 Reduced damages.—If the court finds that—
 
-&emsp;&emsp;(A) the person committing the violation of this subsection furnished officials of the United States responsible for investigating false claims violations with all informationknown to such person about the violation within 30 days after the date on which the defendant first obtained the information;
+&emsp;&emsp;(A) the person committing the violation of this subsection furnished officials of the United States responsible for investigating false claims violations with all information known to such person about the violation within 30 days after the date on which the defendant first obtained the information;
 
 &emsp;&emsp;(B) such person fully cooperated with any Government investigation of such violation; and
 

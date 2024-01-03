@@ -8,7 +8,7 @@ The Secretary of State may, under such regulations as he shall prescribe, and no
 
 &emsp;(3) provide <sup>1</sup> such allowance as the Secretary considers appropriate, to each Delegate and Alternate Delegate of the United States to any session of the General Assembly of the United Nations who is not a permanent member of the staff of the United States Mission to the United Nations, in order to compensate each such Delegate or Alternate Delegate for necessary housing and subsistence expenses incurred by him with respect to attending any such session.
 
-&emsp;(4) The Inspector General shall review the program established by this section no later than December 1989 and periodically thereafter with a view to increasing cost savings and making other appropriate recommendations.
+&emsp;(4) The Inspector General shall review the program established by this section no laterthan December 1989 and periodically thereafter with a view to increasing cost savings and making other appropriate recommendations.
 
 (Dec. 20, 1945, ch. 583, §9, as added Pub. L. 93–126, §15, Oct. 18, 1973, 87 Stat. 454; amended Pub. L. 98–164, title II, §215, Nov. 22, 1983, 97 Stat. 1035; Pub. L. 100–459, title III, §304(b), Oct. 1, 1988, 102 Stat. 2207; Pub. L. 106–309, title IV, §405, Oct. 17, 2000, 114 Stat. 1098; Pub. L. 117–263, div. I, title XCVII, §9702, Dec. 23, 2022, 136 Stat. 3914.)
 

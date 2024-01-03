@@ -39,7 +39,7 @@
 | [3330a.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330a%20-%20Preference%20eligibles%3B%20administrative%20redress.md) | Preference eligibles; administrative redress. |
 | [3330b.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330b%20-%20Preference%20eligibles%3B%20judicial%20redress.md) | Preference eligibles; judicial redress. |
 | [3330c.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330c%20-%20Preference%20eligibles%3B%20remedy.md) | Preference eligibles; remedy. |
-| [3330d.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330d%20-%20Appointment%20of%20military%20spouses.md) | Appointment of military spouses. |
+| [3330d.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330d%20-%20Appointment%20of%20military%20and%20Department%20of%20Defense%20civilian%20spouses.md) | Appointment of military and Department of Defense civilian spouses. |
 | [3330e.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330e%20-%20Review%20of%20official%20personnel%20file%20of%20former%20Federal%20employees%20before%20rehiring.md) | Review of official personnel file of former Federal employees before rehiring. |
 | [3330f.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330f%20-%20Government%20policy%20and%20supporting%20position%20data.md) | Government policy and supporting position data. |
 
@@ -143,13 +143,17 @@
 
 #### Amendment of Analysis
 
+<i>Pub. L. 118–31, div. A, title XI, §1119(d), Dec. 22, 2023, 137 Stat. 435, provided that, effective Dec. 31, 2028, the amendment made by section 1119(b) of Pub. L. 118–31 would expire. See 2023 Amendment note below.</i>
+
 <i>Pub. L. 115–232, div. A, title XI, §1107(c), (d), Aug. 13, 2018, 132 Stat. 2005, provided that, effective on the date on which the Director of the Office of Personnel Management issues final regulations for implementation, with such regulations due not later than one year after Aug. 13, 2018, this analysis is amended by striking items 3317, 3318, and 3319 and inserting new items 3317 "Competitive service; certification using numerical ratings", 3318 "Competitive service; selection using numerical ratings", and 3319 "Competitive service; selection using category rating". See 2018 Amendment note below.</i>
 
-<i>Pub. L. 115–232, div. A, title V, §573(e), Aug. 13, 2018, 132 Stat. 1779, provided that, effective 5 years after Aug. 13, 2018, the amendment made by section 573(b) of Pub. L. 115–232 would expire. See 2018 Amendment note below.</i>
+<i>Pub. L. 115–232, div. A, title V, §573(e), Aug. 13, 2018, 132 Stat. 1779, as amended by Pub. L. 117–263, div. A, title XI, §1111(a), Dec. 23, 2022, 136 Stat. 2820, provided that, effective Dec. 31, 2028, the amendment made by section 573(b) of Pub. L. 115–232 would expire. See 2018 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title XI, §1119(b), (d), Dec. 22, 2023, 137 Stat. 434, 435, which directed the amendment of the table of sections for subchapter I of this chapter by adding item 3330d "Appointment of military and Department of Defense civilian spouses" and striking out former item 3330d "Appointment of military spouses", was executed to the table of sections for this chapter and was treated as temporary to reflect the probable intent of Congress, notwithstanding termination provision in sections 573(e) of Pub. L. 115–232 and 1119(d) of Pub. L. 118–31, which effectively undid the amendments made to section 3330d of this title but only provided that the amendment made to this analysis would expire. See Termination Date of 2018 Amendment and Termination Date of 2023 Amendment notes set out under section 3330d of this title.
 
 <b>2022</b>—Pub. L. 117–263, div. E, title LII, §5221(b), title LIII, §5322(a)(2), Dec. 23, 2022, 136 Stat. 3234, 3259, which directed amendment of the analyses for subchapter I of this chapter by adding item 3330f and for subchapter III of this chapter by adding item 3349e, was executed by adding items 3330f and 3349e to the analysis for this chapter to reflect the probable intent of Congress.
 
@@ -165,7 +169,7 @@ Pub. L. 115–232, div. A, title V, §573(b), (e), Aug. 13, 2018, 132 Stat. 1779
 
 <b>1998</b>—Pub. L. 105–339, §3(b), Oct. 31, 1998, 112 Stat. 3184, added items 3330a to 3330c.
 
-Pub. L. 105–277, div. C, title I, §151(c)(1), Oct. 21, 1998, 112 Stat. 2681–616, substituted "DETAILS, VACANCIES, AND APPOINTMENTS" for "DETAILS" in heading for subchapter III, "Acting officer" for "Details; to office of head of Executive agency or military department" in item 3345, "Time limitation" for "Details; to subordinate offices" in item 3346, "Exclusivity" for "Details; Presidential authority" in item 3347, "Vacant office" for "Details; limited in time" in item 3348, and "Reporting of vacancies" for "Details; to fill vacancies; restrictions" in item 3349 and added items 3349a to 3349d.
+Pub. L. 105–277, div. C, title I, §151(c)(1), Oct. 21, 1998, 112 Stat. 2681–616, substituted "DETAILS, VACANCIES, AND APPOINTMENTS" for "DETAILS" in heading for subchapter III, "Acting officer" for "Details; to officeof head of Executive agency or military department" in item 3345, "Time limitation" for "Details; to subordinate offices" in item 3346, "Exclusivity" for "Details; Presidential authority" in item 3347, "Vacant office" for "Details; limited in time" in item 3348, and "Reporting of vacancies" for "Details; to fill vacancies; restrictions" in item 3349 and added items 3349a to 3349d.
 
 <b>1996</b>—Pub. L. 104–197, title III, §315(b)(1), Sept. 16, 1996, 110 Stat. 2416, substituted "Competitive service; recommendations of Senators or Representatives" for "Political recommendations" in item 3303.
 

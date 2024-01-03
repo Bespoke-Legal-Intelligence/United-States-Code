@@ -2,7 +2,7 @@
 
 #### (a) Investigation of violations
 
-Whenever it shall appear to the Commission, either upon complaint or otherwise, that the provisions of this subchapter, or of any rule or regulation prescribed under authority thereof,have been or are about to be violated, it may, in its discretion, either require or permit such person to file with it a statement in writing, under oath, or otherwise, as to all the facts and circumstances concerning the subject matter which it believes to be in the public interest to investigate, and may investigate such facts.
+Whenever it shall appear to the Commission, either upon complaint or otherwise, that the provisions of this subchapter, or of any rule or regulation prescribed under authority thereof, have been or are about to be violated, it may, in its discretion, either require or permit such person to file with it a statement in writing, under oath, or otherwise, as to all the facts and circumstances concerning the subject matter which it believes to be in the public interest to investigate, and may investigate such facts.
 
 #### (b) Action for injunction or criminal prosecution in district court
 
@@ -56,11 +56,11 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (4) Special provisions relating to a violation of a cease-and-desist order
 
-&emsp;In an action to enforce a cease-and-desist order entered by the Commission pursuant to section 77h–1 of this title, each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with such an order, each day of the failure to comply with the order shall be deemed a separate offense.
+&emsp;In an action to enforce a cease-and-desist order entered by the Commission pursuant tosection 77h–1 of this title, each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with such an order, each day of the failure to comply with the order shall be deemed a separate offense.
 
 #### (e) Authority of court to prohibit persons from serving as officers and directors
 
-In any proceeding under subsection (b), the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated section 77q(a)(1) of this title from acting asan officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title if the person's conduct demonstrates unfitness to serve as an officer or director of any such issuer.
+In any proceeding under subsection (b), the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated section 77q(a)(1) of this title from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title if the person's conduct demonstrates unfitness to serve as an officer or director of any such issuer.
 
 #### (f) Prohibition of attorneys' fees paid from Commission disgorgement funds
 

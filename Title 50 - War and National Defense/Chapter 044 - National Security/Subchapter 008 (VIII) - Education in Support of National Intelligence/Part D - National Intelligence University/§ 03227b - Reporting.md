@@ -16,7 +16,7 @@ Each plan submitted under subsection (a) shall include the following:
 
 #### (c) Form of submittal
 
-Each plan submitted by the Director to the congressional intelligence committees undersubsection (a) shall be submitted as part of another annual submission from the Director to the congressional intelligence committees.
+Each plan submitted by the Director to the congressional intelligence committees under subsection (a) shall be submitted as part of another annual submission from the Director to the congressional intelligence committees.
 
 (July 26, 1947, ch. 343, title X, §1033, as added Pub. L. 116–260, div. W, title III, §305(a), Dec. 27, 2020, 134 Stat. 2366.)
 

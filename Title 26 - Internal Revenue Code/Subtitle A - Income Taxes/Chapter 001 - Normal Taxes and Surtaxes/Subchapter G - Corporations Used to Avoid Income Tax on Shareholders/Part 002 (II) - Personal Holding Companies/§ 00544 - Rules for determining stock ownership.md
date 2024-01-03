@@ -20,7 +20,7 @@ For purposes of determining whether a corporation is a personal holding company,
 
 &emsp;Paragraphs (2) and (3) shall be applied—
 
-&emsp;&emsp;(A) for purposes of the stock ownership requirement provided in section 542(a)(2), if, but only if, the effect is to make the corporation a personal holding company;
+&emsp;&emsp;(A) for purposes of the stock ownership requirement provided in section 542(a)(2), if,but only if, the effect is to make the corporation a personal holding company;
 
 &emsp;&emsp;(B) for purposes of section 543(a)(7) (relating to personal service contracts), of section 543(a)(6) (relating to use of property by shareholders), or of section 543(a)(4) (relating to copyright royalties), if, but only if, the effect is to make the amounts therein referred to includible under such paragraph as personal holding company income.
 
@@ -40,7 +40,7 @@ Outstanding securities convertible into stock (whether or not convertible during
 
 &emsp;(2) for purposes of section 543(a)(7) (relating to personal service contracts), but only if the effect of the inclusion of all such securities is to make the amounts therein referred to includible under such paragraph as personal holding company income;
 
-&emsp;(3) for purposes of section 543(a)(6) (relating to the use of property by shareholders), butonly if the effect of the inclusion of all such securities is to make the amounts therein referred to includible under such paragraph as personal holding company income; and
+&emsp;(3) for purposes of section 543(a)(6) (relating to the use of property by shareholders), but only if the effect of the inclusion of all such securities is to make the amounts therein referred to includible under such paragraph as personal holding company income; and
 
 &emsp;(4) for purposes of section 543(a)(4) (relating to copyright royalties), but only if the effect of the inclusion of all such securities is to make the amounts therein referred to includible under such paragraph as personal holding company income.
 

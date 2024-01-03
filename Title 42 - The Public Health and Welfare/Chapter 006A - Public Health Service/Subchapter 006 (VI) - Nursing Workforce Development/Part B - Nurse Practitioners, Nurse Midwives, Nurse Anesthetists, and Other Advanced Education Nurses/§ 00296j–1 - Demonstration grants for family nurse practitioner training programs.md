@@ -24,7 +24,7 @@ To be eligible to receive a grant under this section, an entity shall—
 
 &emsp;(1)(A) be a FQHC as defined in section 1395x(aa) of this title; or
 
-&emsp;(B) be a nurse-managed health clinic, as defined in section 330A–1 of the Public HealthService Act \[42 U.S.C. 254c–1a\] (as added by section 5208 of this Act); <sup>1</sup> and
+&emsp;(B) be a nurse-managed health clinic, as defined in section 330A–1 of the Public Health Service Act \[42 U.S.C. 254c–1a\] (as added by section 5208 of this Act); <sup>1</sup> and
 
 &emsp;(2) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
@@ -62,7 +62,7 @@ In awarding grants under this section, the Secretary shall give priority to elig
 
 #### (g) Grant amount
 
-Each grant awarded under this section shall be in an amount not to exceed $600,000 per year. A grant recipient may carry over funds from 1 fiscal year to another without obtaining approval from the Secretary.
+Each grant awarded under this section shall be in an amount not to exceed $600,000 per year. Agrant recipient may carry over funds from 1 fiscal year to another without obtaining approval from the Secretary.
 
 #### (h) Technical assistance grants
 

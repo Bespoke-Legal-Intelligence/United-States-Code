@@ -40,7 +40,7 @@ Water Conservation Construction Projects.—(1) The Secretary of Defense may car
 
 (2) When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify the appropriate committees of Congress of that decision. Such project may be carried out only after the end of the 14-day period beginning on the date the notification is received by such committees in an electronic medium pursuant to section 480 of this title.
 
-(Added Pub. L. 103–160, div. B, title XXVIII, §2803(a), Nov. 30, 1993, 107 Stat. 1884; amended Pub. L. 104–106, div. A, title XV, §1502(a)(27), Feb. 10, 1996, 110 Stat. 506; Pub. L. 105–85, div. B, title XXVIII, §2804(b), Nov. 18, 1997, 111 Stat. 1991; Pub. L. 108–136, div. A, title X, §1031(a)(48),Nov. 24, 2003, 117 Stat. 1602; Pub. L. 109–364, div. B, title XXVIII, §2851(d), Oct. 17, 2006, 120 Stat. 2495; Pub. L. 113–291, div. A, title X, §1071(f)(25), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title X, §1051(a)(24), div. B, title XXVIII, §2801(c)(5), Dec. 12, 2017, 131 Stat. 1562, 1844.)
+(Added Pub. L. 103–160, div. B, title XXVIII, §2803(a), Nov. 30, 1993, 107 Stat. 1884; amendedPub. L. 104–106, div. A, title XV, §1502(a)(27), Feb. 10, 1996, 110 Stat. 506; Pub. L. 105–85, div. B, title XXVIII, §2804(b), Nov. 18, 1997, 111 Stat. 1991; Pub. L. 108–136, div. A, title X, §1031(a)(48), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 109–364, div. B, title XXVIII, §2851(d), Oct. 17, 2006, 120 Stat. 2495; Pub. L. 113–291, div. A, title X, §1071(f)(25), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title X, §1051(a)(24), div. B, title XXVIII, §2801(c)(5), Dec. 12, 2017, 131 Stat. 1562, 1844.)
 
 #### <b>Editorial Notes</b>
 
@@ -156,7 +156,7 @@ Non-arid climates.—For military installations located in non-arid climates, la
 
 &emsp;"(4)
 
-Pollinator conservation reference guide.—The Secretary concerned shall follow the recommendations of the Department of Defense Pollinator Conservation Reference Guide (September 2018) to the maximum extent practicable in order to reduce operation and maintenance costs related to landscaping management, while improving area management. Consistent with such guide, in the preparation of a military installation landscaping plan, the Secretary concerned should consider the following:
+Pollinator conservation reference guide.—The Secretary concerned shall follow the recommendations of the Department of Defense Pollinator Conservation Reference Guide (September 2018)to the maximum extent practicable in order to reduce operation and maintenance costs related to landscaping management, while improving area management. Consistent with such guide, in the preparation of a military installation landscaping plan, the Secretary concerned should consider the following:
 
 &emsp;&emsp;"(A) Adding native flowering plants to sunny open areas and removing overhanging tree limbs above open patches within forested areas or dense shrub.
 

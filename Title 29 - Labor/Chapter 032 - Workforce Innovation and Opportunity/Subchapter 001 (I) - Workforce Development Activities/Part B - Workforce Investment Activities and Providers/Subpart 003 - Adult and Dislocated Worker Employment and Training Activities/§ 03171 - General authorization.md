@@ -40,7 +40,7 @@ Use of Funds.—A State that is the recipient of a grant under this section shal
 
 &emsp;"(1) Making grants to energy employers to reimburse such employers for the cost of providing covered training, on-job training, apprenticeships, and certification classes to eligible veterans who are first hired by the employer on or after November 1, 2010.
 
-&emsp;"(2) Conducting outreach to inform energy employers and veterans, including veterans in rural areas, oftheir eligibility or potential eligibility for participation in the State program.
+&emsp;"(2) Conducting outreach to inform energy employers and veterans, including veterans in rural areas, of their eligibility or potential eligibility for participation in the State program.
 
 "(d)
 
@@ -426,7 +426,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 "(c) Before a veteran who voluntarily terminates from a program of job training under this Act or is involuntarily terminated from such program by the employer may be eligible to be provided with a further certificate, or renewal of certification, of eligibility for participation under this Act, such veteran must be provided by the Secretary, after consultation with the Administrator, with a case manager.
 
-"(d) Payments made under this Act pursuant to contracts entered into for the provision of job-readinessskills development and counseling services under subsection (a)(2) may only be paid out of the same account used to make payments under section 3104(a)(7) of title 38, United States Code, and the amount paid out of such account in any fiscal year for such services shall not exceed an amount equal to 5 percent of the amount obligated to carry out this Act for such fiscal year, except that for fiscal year 1988 the amount shall not exceed 5 percent of the amount available to carry out this Act on October 1, 1987.
+"(d) Payments made under this Act pursuant to contracts entered into for the provision of job-readiness skills development and counseling services under subsection (a)(2) may only be paid out of the same account used to make payments under section 3104(a)(7) of title 38, United States Code, and the amount paid out of such account in any fiscal year for such services shall not exceed an amount equal to 5 percent of the amount obligated to carry out this Act for such fiscal year, except that for fiscal year 1988 the amount shall not exceed 5 percent of the amount available to carry out this Act on October 1, 1987.
 
 #### "information and outreach; use of agency resources
 
@@ -438,7 +438,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 "(2) The Secretary, in consultation with the Administrator, shall promote the development of employment and job training opportunities for veterans by encouraging potential employers to make programs of job training under this Act available for eligible veterans, by advising other appropriate Federal departments and agencies of the program established by this Act, and by advising employers of applicable responsibilities under chapters 41 and 42 of title 38, United States Code, with respect to veterans.
 
-"(b) The Administrator and the Secretary shall coordinate the outreach and public information program under subsection (a)(1), and job development activities under subsection (a)(2), with job counseling, placement, job development, and other services provided for under chapters 41 and 42 of title 38, United States Code, and with other similar services offered by other public agencies and organizations.
+"(b) The Administrator and the Secretary shall coordinate the outreach and public information program under subsection (a)(1), and job development activitiesunder subsection (a)(2), with job counseling, placement, job development, and other services provided for under chapters 41 and 42 of title 38, United States Code, and with other similar services offered by other public agencies and organizations.
 
 "(c)(1) The Administrator and the Secretary shall make available in regional and local offices of the Veterans' Administration and the Department of Labor such personnel as are necessary to facilitate the effective implementation of this Act.
 

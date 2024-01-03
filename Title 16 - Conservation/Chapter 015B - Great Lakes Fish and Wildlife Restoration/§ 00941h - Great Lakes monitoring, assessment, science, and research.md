@@ -82,5 +82,5 @@ The Great Lakes Fishery Act of 1956, referred to in subsec. (c)(4), is act June 
 
 #### Codification
 
-Section was enacted as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Great Lakes Fish and Wildlife Restoration Act of 1990 which comprises this chapter.
+Section was enacted as part of the Further Consolidated Appropriations Act, 2020, and not as part of theGreat Lakes Fish and Wildlife Restoration Act of 1990 which comprises this chapter.
 

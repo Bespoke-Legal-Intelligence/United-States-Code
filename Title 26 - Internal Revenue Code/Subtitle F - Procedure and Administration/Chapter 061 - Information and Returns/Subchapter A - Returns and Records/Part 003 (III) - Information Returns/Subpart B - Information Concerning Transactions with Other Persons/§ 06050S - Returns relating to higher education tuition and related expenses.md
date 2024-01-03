@@ -72,7 +72,7 @@ Except to the extent provided in regulations prescribed by the Secretary, in the
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section. No penalties shall be imposed under part II of subchapter B of chapter 68 with respect to any return or statement required under this section until such time as such regulations are issued.
 
-(Added and amended Pub. L. 105–34, title II, §§201(c)(1), 202(c), Aug. 5, 1997, 111 Stat. 804, 808; Pub. L. 105–206, title III, §3712(a), (b), title VI, §6004(a)(2), July 22, 1998, 112 Stat. 781, 792; Pub. L. 107–16, title IV, §412(a)(2), June 7, 2001, 115 Stat. 63; Pub. L. 107–131, §1, Jan. 16, 2002, 115 Stat. 2410; Pub. L. 114–27, title VIII, §804(c), June 29, 2015, 129 Stat. 416; Pub. L. 114–113, div. Q, title II, §§211(b), 212(a), Dec. 18, 2015, 129 Stat. 3085, 3086.)
+(Added and amended Pub. L. 105–34, title II, §§201(c)(1), 202(c), Aug. 5, 1997, 111 Stat. 804, 808;Pub. L. 105–206, title III, §3712(a), (b), title VI, §6004(a)(2), July 22, 1998, 112 Stat. 781, 792; Pub. L. 107–16, title IV, §412(a)(2), June 7, 2001, 115 Stat. 63; Pub. L. 107–131, §1, Jan. 16, 2002, 115 Stat. 2410; Pub. L. 114–27, title VIII, §804(c), June 29, 2015, 129 Stat. 416; Pub. L. 114–113, div. Q, title II, §§211(b), 212(a), Dec. 18, 2015, 129 Stat. 3085, 3086.)
 
 #### <b>Editorial Notes</b>
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 107–16 applicable with respect to any loan interest paid 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3712(c), July 22, 1998, 112 Stat. 782, provided that: "The amendments made by this section \[amending this section\] shall apply to returns required to be filed with respect to taxable years beginning after December 31, 1998."
+Pub. L. 105–206, title III, §3712(c), July 22, 1998, 112 Stat. 782, provided that: "The amendments made bythis section \[amending this section\] shall apply to returns required to be filed with respect to taxable years beginning after December 31, 1998."
 
 Amendment by section 6004(a)(2) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 

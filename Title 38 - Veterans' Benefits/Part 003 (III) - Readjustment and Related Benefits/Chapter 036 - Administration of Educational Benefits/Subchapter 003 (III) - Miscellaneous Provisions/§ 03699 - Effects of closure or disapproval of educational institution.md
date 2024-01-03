@@ -56,7 +56,7 @@ Period Not Charged.—(1) The period for which, by reason of this subsection, ed
 
 (B) An individual described in this subparagraph is an individual who is enrolled in a course or program of education closed or discontinued as described in subsection (b)(1) during the period beginning on the date that is 120 days before the date of such closure or discontinuance and ending on the date of such closure or discontinuance, as the case may be.
 
-(C) This paragraph shall apply with respect to a course or program of education closed or discontinued before September 30, 2023.
+(C) This paragraph shall apply with respect to a course or program of education closed or discontinued before September 30, 2025.
 
 (d)
 
@@ -76,7 +76,7 @@ Notice of Closures.—Not later than 5 business days after the date on which the
 
 &emsp;(2) the effect of such closure on the individual's entitlement to educational assistance pursuant to this section.
 
-(Added Pub. L. 115–48, title I, §109(a)(1), Aug. 16, 2017, 131 Stat. 978; amended Pub. L. 116–61, §6(6), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 116–315, title I, §§1007(a), 1021(a), Jan. 5, 2021, 134 Stat. 4940, 4958; Pub. L. 117–297, §2, Dec. 27, 2022, 136 Stat. 4375; Pub. L. 117–333, §8(a), Jan. 5, 2023, 136 Stat. 6130.)
+(Added Pub. L. 115–48, title I, §109(a)(1), Aug. 16, 2017, 131 Stat. 978; amended Pub. L. 116–61, §6(6), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 116–315, title I, §§1007(a), 1021(a), Jan. 5, 2021, 134 Stat. 4940, 4958; Pub. L. 117–297, §2, Dec. 27, 2022, 136 Stat. 4375; Pub. L. 117–333, §8(a), Jan. 5, 2023, 136 Stat. 6130; Pub. L. 118–19, §2, Oct. 6, 2023, 137 Stat. 106.)
 
 #### <b>Editorial Notes</b>
 
@@ -87,6 +87,8 @@ A prior section 3699, added Pub. L. 93–508, title III, §301(a), Dec. 3, 1974,
 #### Amendments
 
 <b>2023</b>—Subsec. (b)(1)(C). Pub. L. 117–333 added subpar. (C).
+
+Subsec. (c)(2)(C). Pub. L. 118–19 substituted "September 30, 2025" for "September 30, 2023".
 
 <b>2022</b>—Subsec. (c)(2)(A). Pub. L. 117–297 designated first sentence as cl. (i) and second sentence as cl. (iv) and realigned margins and added cls. (ii) and (iii) after cl. (i).
 

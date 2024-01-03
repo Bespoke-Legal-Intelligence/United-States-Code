@@ -32,5 +32,5 @@ Amendment by Pub. L. 111–147 applicable to obligations issued after the date w
 
 #### Effective Date
 
-Section applicable to taxable years ending after July 18, 1984, except as otherwise provided, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title.
+Section applicable to taxable years ending after July 18, 1984, except as otherwise provided, see section 44 ofPub. L. 98–369, set out as a note under section 1271 of this title.
 

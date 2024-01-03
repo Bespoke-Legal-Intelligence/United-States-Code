@@ -28,7 +28,7 @@ An individual with cancer specified in subclause (I), (II), or (III) of section 
 
 &emsp;(C) take into consideration the type of cancer, past health-related activities (such as smoking), information on the risk of developing a radiation-related cancer from workplace exposure, and other relevant factors.
 
-(4) In the case of an atomic weapons employee described in section 7384l(3)(B) of this title, the following doses of radiation shall be treated, for purposes of paragraph (3)(A) of this subsection, as part of the radiation dose received by the employee at such facility:
+(4) In the case of an atomic weapons employee described in section 7384l(3)(B) of this title, the following doses of radiation shall be treated, forpurposes of paragraph (3)(A) of this subsection, as part of the radiation dose received by the employee at such facility:
 
 &emsp;(A) Any dose of ionizing radiation received by that employee from facilities, materials, devices, or byproducts used or generated in the research, development, production, dismantlement, transportation, or testing of nuclear weapons, or from any activities to research, produce, process, store, remediate, or dispose of radioactive materials by or on behalf of the Department of Energy (except for activities covered by Executive Order No. 12344, dated February 1, 1982 (42 U.S.C. 7158 note) pertaining to the Naval Nuclear Propulsion Program).
 

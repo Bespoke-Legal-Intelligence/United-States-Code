@@ -40,7 +40,7 @@ Manufacturers of imported products shall be in compliance with all inspection an
 
 #### (h) Product surveillance program
 
-(1) The Commission shall establish and maintain a permanent product surveillance program,in cooperation with other appropriate Federal agencies, for the purpose of carrying out the Commission's responsibilities under this chapter and the other Acts administered by the Commission and preventing the entry of unsafe consumer products into the commerce of the United States.
+(1) The Commission shall establish and maintain a permanent product surveillance program, in cooperation with other appropriate Federal agencies, for the purpose of carrying out the Commission's responsibilities under this chapter and the other Acts administered by the Commission and preventing the entry of unsafe consumer products into the commerce of the United States.
 
 (2) The Commission may provide to the agencies with which it is cooperating under paragraph (1) such information, data, violator lists, test results, and other support, guidance, and documents as may be necessary or helpful for such agencies to cooperate with the Commission to carry out the product surveillance program under paragraph (1).
 
@@ -58,7 +58,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (a),
 
 <b>2008</b>—Subsec. (a)(2). Pub. L. 110–314, §216(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "is not accompanied by a certificate required by section 2063 of this title, or is not labeled in accordance with regulations under section 2063(c) of this title;".
 
-Subsec. (e). Pub. L. 110–314, §223(b), amended subsec. (e) generally. Prior to amendment, text read as follows: "Products refused admission into the customs territory of the United States under this section must be exported, except that upon application, the Secretary of the Treasury may permit the destruction of the product in lieu of exportation. If the owner or consignee does not export the product within a reasonable time, the Department of the Treasury may destroy the product."
+Subsec. (e). Pub. L. 110–314, §223(b), amended subsec. (e) generally. Prior to amendment, text read as follows: "Products refused admission into the customs territory of the United States under this section must be exported, except that upon application, the Secretary of the Treasury may permit the destruction of the product in lieu of exportation. If the owner or consigneedoes not export the product within a reasonable time, the Department of the Treasury may destroy the product."
 
 Subsec. (g). Pub. L. 110–314, §223(c)(1), amended subsec. (g) generally. Prior to amendment, text read as follows: "The Commission may, by rule, condition the importation of a consumer product on the manufacturer's compliance with the inspection and recordkeeping requirements of this chapter and the Commission's rules with respect to such requirements."
 
@@ -124,7 +124,7 @@ Pub. L. 116–260, div. FF, title XX, §2001, Dec. 27, 2020, 134 Stat. 3301, pro
 
 CPSC Surveillance Personnel During the COVID–19
 
-Pandemic.—For the duration of a public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) as a result of confirmed cases of 2019 novel coronavirus\(COVID–19), including any renewal thereof, the Commission shall ensure, to the maximum extent feasible, that investigators are stationed at ports of entry to protect the public against unreasonable risk of injury from consumer products, with the goal of covering no fewer than 90 percent of all consumer products entering the United States that are risk-scored in the Risk Assessment Methodology system. The Commission shall consult with United States Customs and Border Protection, and other relevant agencies, including health and safety agencies, on methods to safely staff ports during the pandemic.
+Pandemic.—For the duration of a public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) as a result of confirmed cases of 2019 novel coronavirus (COVID–19), including any renewal thereof, the Commission shall ensure, to the maximum extent feasible, that investigators are stationed at ports of entry to protect the public against unreasonable risk of injury from consumer products, with the goal of covering no fewer than 90 percent of all consumer products entering the United States that are risk-scored in the Risk Assessment Methodology system. The Commission shall consult with United States Customs and Border Protection, and other relevant agencies, including health and safety agencies, on methods to safely staff ports during the pandemic.
 
 "(b)
 
@@ -236,7 +236,7 @@ Report to Congress.—Not later than 180 days after completion of the risk asses
 
 &emsp;&emsp;"(C) the effectiveness of the International Trade Data System in enhancing cooperation between the Commission and U.S. Customs and Border Protection for the purpose of identifying shipments of consumer products in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission;
 
-&emsp;"(4) Whether the Commission requires additional statutory authority under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\], the Federal Hazardous Substances Act \[15 U.S.C. 1261 et seq.\], the Flammable Fabrics Act \[15 U.S.C. 1191 et seq.\], or the Poison Prevention Packaging Act of 1970 \[15 U.S.C. 1471 et seq.\] in order to implement the risk assessment methodology required under this section.
+&emsp;"(4) Whether the Commission requires additional statutory authority under the Consumer ProductSafety Act \[15 U.S.C. 2051 et seq.\], the Federal Hazardous Substances Act \[15 U.S.C. 1261 et seq.\], the Flammable Fabrics Act \[15 U.S.C. 1191 et seq.\], or the Poison Prevention Packaging Act of 1970 \[15 U.S.C. 1471 et seq.\] in order to implement the risk assessment methodology required under this section.
 
 &emsp;"(5) The level of appropriations necessary to implement the risk assessment methodology required under this section."
 

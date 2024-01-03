@@ -2,7 +2,7 @@
 
 #### (a) Treatment as employees of American employer
 
-For purposes of applying this part with respect to a pension, profit-sharing, or stock bonus plandescribed in section 401(a) or an annuity plan described in section 403(a), of an American employer (as defined in section 3121(h)), an individual who is a citizen or resident of the United States and who is an employee of a foreign affiliate (as defined in section 3121(l)(6)) of such American employer shall be treated as an employee of such American employer, if—
+For purposes of applying this part with respect to a pension, profit-sharing, or stock bonus plan described in section 401(a) or an annuity plan described in section 403(a), of an American employer (as defined in section 3121(h)), an individual who is a citizen or resident of the United States and who is an employee of a foreign affiliate (as defined in section 3121(l)(6)) of such American employer shall be treated as an employee of such American employer, if—
 
 &emsp;(1) such American employer has entered into an agreement under section 3121(l) which applies to the foreign affiliate of which such individual is an employee;
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 1112(d)(3) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
-Amendment by section 1114(b)(9)(A), (C) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1988,see section 1114(c)(3) of Pub. L. 99–514, set out as a note under section 414 of this title.
+Amendment by section 1114(b)(9)(A), (C) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1988, see section 1114(c)(3) of Pub. L. 99–514, set out as a note under section 414 of this title.
 
 Pub. L. 99–514, title XVIII, §1852(e)(2)(E), Oct. 22, 1986, 100 Stat. 2868, provided that: "The amendments made by this paragraph \[amending this section and section 407 of this title and repealing section 2517 of this title\] shall apply to transfers after the date of the enactment of this Act \[Oct. 22, 1986\]."
 

@@ -4,7 +4,7 @@
 
 (b) The Assistant Chiefs of Naval Operations shall perform such duties as the Secretary of the Navy prescribes.
 
-(Added Pub. L. 99–433, title V, §512(b), Oct. 1, 1986, 100 Stat. 1051, §5037; amended Pub. L. 108–375, div. A, title V, §502(b), Oct. 28, 2004, 118 Stat. 1875; Pub. L. 110–181, div. A, title IX, §902(b)(2), Jan. 28, 2008, 122 Stat. 273; renumbered §8037 and amended Pub. L. 115–232, div. A, title VIII, §§807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
+(Added Pub. L. 99–433, title V, §512(b), Oct. 1, 1986, 100 Stat. 1051, §5037; amended Pub. L.108–375, div. A, title V, §502(b), Oct. 28, 2004, 118 Stat. 1875; Pub. L. 110–181, div. A, title IX, §902(b)(2), Jan. 28, 2008, 122 Stat. 273; renumbered §8037 and amended Pub. L. 115–232, div. A, title VIII, §§807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
 
 #### <b>Editorial Notes</b>
 

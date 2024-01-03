@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-In addition to amounts for agricultural research, extension, and education under this chapter, there are authorized to be appropriatedfor agricultural research, education, and extension activities for biosecurity planning and response—
+In addition to amounts for agricultural research, extension, and education under this chapter, there are authorized to be appropriated for agricultural research, education, and extension activities for biosecurity planning and response—
 
 &emsp;(1) such sums as are necessary for each of fiscal years 2002 through 2013;
 

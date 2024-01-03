@@ -10,7 +10,7 @@ In this section, the term "modular component health care facility" means a healt
 
 #### (b) Establishment
 
-The Secretary, acting through the Service, shall establish a demonstration program under which the Secretary shall award no less than 3 grants for purchase, installation and maintenance of modular component health care facilities in Indian communities for provision of health care services.
+The Secretary, acting through the Service, shall establish a demonstration program underwhich the Secretary shall award no less than 3 grants for purchase, installation and maintenance of modular component health care facilities in Indian communities for provision of health care services.
 
 #### (c) Selection of locations
 
@@ -50,7 +50,7 @@ The Secretary, acting through the Service, shall establish a demonstration progr
 
 #### (e) Reports
 
-Not later than 1 year after the date on which funds are made available for the demonstrationprogram and annually thereafter, the Secretary shall submit to Congress a report describing—
+Not later than 1 year after the date on which funds are made available for the demonstration program and annually thereafter, the Secretary shall submit to Congress a report describing—
 
 &emsp;(1) each activity carried out under the demonstration program, including an evaluation of the success of the activity; and
 

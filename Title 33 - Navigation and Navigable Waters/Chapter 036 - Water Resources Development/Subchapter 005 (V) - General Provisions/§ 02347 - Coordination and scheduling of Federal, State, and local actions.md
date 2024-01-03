@@ -40,7 +40,7 @@ In General.—During the 10-year period after the date of enactment of this sect
 
 "(b)
 
-Covered Permit Defined.—In this section, the term 'covered permit' means a permit to be issued by the Secretary to modify a reservoir, with respect to which not less than 80 percent of the water rights areheld for drinking water supplies, in order to accommodate projected water supply needs of an area with a population of less than 80,000.
+Covered Permit Defined.—In this section, the term 'covered permit' means a permit to be issued by the Secretary to modify a reservoir, with respect to which not less than 80 percent of the water rights are held for drinking water supplies, in order to accommodate projected water supply needs of an area with a population of less than 80,000.
 
 "(c)
 

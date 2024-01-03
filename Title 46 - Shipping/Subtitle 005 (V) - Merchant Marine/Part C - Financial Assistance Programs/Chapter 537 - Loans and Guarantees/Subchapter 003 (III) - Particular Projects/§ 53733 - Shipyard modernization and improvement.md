@@ -32,7 +32,7 @@ Modern shipbuilding technology.—The term "modern shipbuilding technology" mean
 
 (b)
 
-General Authority.—Under subchapter I of this chapter, the Administrator may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation for advanced shipbuilding technology and modern shipbuilding technology of a general shipyard facility in the United States. Only a private shipyard is eligible to receive a guarantee.
+General Authority.—Under subchapter I of this chapter, the Administrator may guarantee or make a commitment to guarantee the payment of the principal of and interest on anobligation for advanced shipbuilding technology and modern shipbuilding technology of a general shipyard facility in the United States. Only a private shipyard is eligible to receive a guarantee.
 
 (c)
 
@@ -98,5 +98,5 @@ In subsection (b), the words "and subject to the terms the Secretary shall be pr
 
 Subsecs. (b), (e). Pub. L. 110–181, §3522(a)(9)(F), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(K), into this section by substituting "Administrator" for "Secretary". See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-<b>2006</b>—Pub. L. 109–163, §3507(a)(2)(K), which directed the amendment of section 1279e of the former Appendix to this title from which this section was derived, wasrepealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsecs. (b), (e) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(2)(K), which directed the amendment of section 1279e of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsecs. (b), (e) and Historical and Revision notes above.
 

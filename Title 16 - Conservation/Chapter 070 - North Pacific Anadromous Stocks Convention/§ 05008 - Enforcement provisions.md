@@ -14,7 +14,7 @@ Authorized officers may, shoreward of the outer boundary of the exclusive econom
 
 &emsp;(1) with or without a warrant or other process—
 
-&emsp;&emsp;(A) arrest any person, if the officer has reasonable cause to believe that such person has committed an act prohibited by section 5009 of this title;
+&emsp;&emsp;(A) arrest any person, if the officer has reasonable cause to believe that such personhas committed an act prohibited by section 5009 of this title;
 
 &emsp;&emsp;(B) board, and search or inspect, any fishing vessel subject to the provisions of the Convention and this chapter;
 
@@ -38,7 +38,7 @@ Authorized officers may, shoreward of the outer boundary of the exclusive econom
 
 > If an authorized officer, after boarding and investigation, has reasonable cause to believe that any such fishing vessel or person engaged in operations in violation of any provision referred to in subparagraph (A), the officer shall deliver the vessel or person as promptly as practicable to the enforcement officers of the appropriate Party, in accordance with the provisions of the Convention.
 
-(2) When requested by the appropriate authorities of a Party, an authorized officer may be directed to attend as a witness, and to produce such available records and files or duly certifiedcopies thereof as may be necessary, for the prosecution by that Party of any violation of the provisions of the Convention or any law of that Party relating to the enforcement thereof.
+(2) When requested by the appropriate authorities of a Party, an authorized officer may be directed to attend as a witness, and to produce such available records and files or duly certified copies thereof as may be necessary, for the prosecution by that Party of any violation of the provisions of the Convention or any law of that Party relating to the enforcement thereof.
 
 (Pub. L. 102–567, title VIII, §809, Oct. 29, 1992, 106 Stat. 4312; Pub. L. 102–587, title VIII, §8009, Nov. 4, 1992, 106 Stat. 5101; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
 

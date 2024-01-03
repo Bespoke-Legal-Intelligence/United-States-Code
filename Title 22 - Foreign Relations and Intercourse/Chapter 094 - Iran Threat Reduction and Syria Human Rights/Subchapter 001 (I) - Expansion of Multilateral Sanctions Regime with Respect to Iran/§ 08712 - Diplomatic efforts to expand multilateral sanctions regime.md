@@ -58,5 +58,5 @@ Not later than 180 days after August 10, 2012, and every 180 days thereafter, th
 
 #### References in Text
 
-Section 8513a(d)(4)(D) of this title, as amended by section 504, referred to in subsec. (b)(3), means section 8513a(d)(4)(D) of this title, as amended by section 504 of Pub. L. 112–158.
+Section 8513a(d)(4)(D) of this title, as amended by section 504, referred to in subsec. (b)(3), means section8513a(d)(4)(D) of this title, as amended by section 504 of Pub. L. 112–158.
 

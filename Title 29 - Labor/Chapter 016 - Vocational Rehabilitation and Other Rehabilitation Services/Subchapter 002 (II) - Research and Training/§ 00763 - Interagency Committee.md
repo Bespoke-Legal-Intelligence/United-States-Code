@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership; meetings
 
-(1) In order to promote coordination and cooperation among Federal departments and agencies conducting disability, independent living, and rehabilitation research programs, including programs relating to assistive technology research and research that incorporates the principles of universal design, there is established within the Federal Government an Interagency Committee on Disability Research (hereinafter in this section referred to as the "Committee"), chaired by the Secretary, or the Secretary's designee, and comprised of such members as the President may designate, including the following (or their designees): the Director, the Commissioner of the Rehabilitation Services Administration, the Assistant Secretary for Special Education and Rehabilitative Services, the Assistant Secretary of Labor for Disability Employment Policy, the Secretary of Defense, the Administrator of the Administration for Community Living, the Secretary of Education, the Secretary of Veterans Affairs, the Director of the National Institutes of Health, the Director of the National Institute of Mental Health, the Administrator of the National Aeronautics and Space Administration, the Secretary of Transportation, the Assistant Secretary of the Interior for Indian Affairs, the Director of the Indian Health Service, the Director of the National Science Foundation and the Administrator of the Small Business Administration.
+(1) In order to promote coordination and cooperation among Federal departments and agencies conducting disability, independent living, and rehabilitation research programs, including programs relating to assistive technology research and research that incorporates the principles of universal design, there is established within the Federal Government an Interagency Committee on Disability Research (hereinafter in this section referred to as the "Committee"), chaired by the Secretary, or the Secretary's designee, and comprised of such members as the President may designate, including the following (or their designees): the Director, the Commissioner of the Rehabilitation Services Administration, the Assistant Secretary for Special Education and Rehabilitative Services, the Assistant Secretary of Labor for Disability Employment Policy, the Secretary of Defense, the Administrator of the Administration for Community Living, the Secretary of Education, the Secretary of Veterans Affairs, the Director of the National Institutes of Health, the Director of the National Institute of Mental Health, the Administrator of the National Aeronautics and Space Administration, the Secretary ofTransportation, the Assistant Secretary of the Interior for Indian Affairs, the Director of the Indian Health Service, the Director of the National Science Foundation and the Administrator of the Small Business Administration.
 
 (2) The Committee shall meet not less than four times each year, and for not less than 1 of such meetings at least every 2 years, the Committee shall invite policymakers, representatives from other Federal agencies conducting relevant research, individuals with disabilities, organizations representing individuals with disabilities, researchers, and providers, to offer input on the Committee's work, including the development and implementation of the strategic plan required under subsection (c).
 
@@ -54,7 +54,7 @@
 
 Not later than December 31 of each year, the Committee shall prepare and submit, to the President and to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report that—
 
-&emsp;(1) describes the progress of the Committee in fulfilling the duties described in subsections\(b) and (c), and including specifically for subsection (c)—
+&emsp;(1) describes the progress of the Committee in fulfilling the duties described in subsections (b) and (c), and including specifically for subsection (c)—
 
 &emsp;&emsp;(A) a report of the progress made in implementing the strategic plan, including progress toward implementing the elements described in subsection (c)(2)(A); and
 
@@ -62,7 +62,7 @@ Not later than December 31 of each year, the Committee shall prepare and submit,
 
 &emsp;(2) makes such recommendations as the Committee determines to be appropriate with respect to coordination of policy and development of objectives and priorities for all Federal programs relating to the conduct of research (including assistive technology research and research that incorporates the principles of universal design) related to rehabilitation of individuals with disabilities; and
 
-&emsp;(3) describes the activities that the Committee recommended to be funded through grants, contracts, cooperative agreements, and other mechanisms, for assistive technology research and development and research and development that incorporates the principles of universal design.
+&emsp;(3) describes the activities that the Committee recommended to be funded through grants, contracts, cooperative agreements, and other mechanisms, for assistive technology research and development and researchand development that incorporates the principles of universal design.
 
 #### (e) Definitions
 
@@ -117,12 +117,6 @@ Subsec. (b). Pub. L. 105–394, §201(2), designated existing provisions as par.
 Subsec. (c). Pub. L. 105–394, §201(3), added subsec. (c) and struck out former subsec. (c) which read as follows: "The Committee shall annually submit to the President and to the appropriate committees of the Congress a report making such recommendations as the Committee deems appropriate with respect to coordination of policy and development of objectives and priorities for all Federal programs relating to the conduct of research related to rehabilitation of individuals with disabilities."
 
 Subsecs. (d), (e). Pub. L. 105–394, §201(4), added subsecs. (d) and (e).
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "from".</i>
 

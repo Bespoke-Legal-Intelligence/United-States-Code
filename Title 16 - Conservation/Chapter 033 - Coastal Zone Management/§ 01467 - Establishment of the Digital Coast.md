@@ -36,7 +36,7 @@ The Secretary shall coordinate the activities carried out under the program to o
 
 &emsp;(2) consulting with other Federal agencies, including interagency committees, on relevant Federal activities, including activities carried out under the Ocean and Coastal Mapping Integration Act (33 U.S.C. 3501 et seq.), the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.), the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3601 et seq.), and the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892 et seq.);
 
-&emsp;(3) participating, pursuant to section 216 of the E-Government Act of 2002 (Public Law107–347; 44 U.S.C. 3501 note), in the establishment of such standards and common protocols as the Secretary considers necessary to assure the interoperability of remote sensing and other geospatial data with all users of such information within—
+&emsp;(3) participating, pursuant to section 216 of the E-Government Act of 2002 (Public Law 107–347; 44 U.S.C. 3501 note), in the establishment of such standards and common protocols as the Secretary considers necessary to assure the interoperability of remote sensing and other geospatial data with all users of such information within—
 
 &emsp;&emsp;(A) the National Oceanic and Atmospheric Administration;
 
@@ -130,7 +130,7 @@ There is authorized to be appropriated to the Secretary $4,000,000 for each fisc
 
 This Act, referred to in subsec. (b)(4), is Pub. L. 116–223, Dec. 18, 2020, 134 Stat. 1067, known as the Digital Coast Act. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 1451 of this title and Tables.
 
-The Ocean and Coastal Mapping Integration Act, referred to in subsecs. (c)(2) and (d)(3), is subtitle B of title XII of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1421, which is classified generally to chapter 48 (§3501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see ShortTitle note set out under section 3501 of Title 33 and Tables.
+The Ocean and Coastal Mapping Integration Act, referred to in subsecs. (c)(2) and (d)(3), is subtitle B of title XII of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1421, which is classified generally to chapter 48 (§3501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 33 and Tables.
 
 The Coastal Zone Management Act of 1972, referred to in subsec. (c)(2), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 

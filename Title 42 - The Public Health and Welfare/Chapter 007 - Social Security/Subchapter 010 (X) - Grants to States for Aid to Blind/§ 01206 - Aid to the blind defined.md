@@ -1,6 +1,6 @@
 ### §1206. "Aid to the blind" defined
 
-For the purposes of this subchapter, the term "aid to the blind" means money payments toblind individuals who are needy, but does not include any such payments to or care in behalf of any individual who is an inmate of a public institution (except as a patient in a medical institution) or any individual who is a patient in an institution for tuberculosis or mental diseases. Such term also includes payments which are not included within the meaning of such term under the preceding sentence, but which would be so included except that they are made on behalf of such a needy individual to another individual who (as determined in accordance with standards prescribed by the Secretary) is interested in or concerned with the welfare of such needy individual, but only with respect to a State whose State plan approved under section 1202 of this title includes provision for—
+For the purposes of this subchapter, the term "aid to the blind" means money payments to blind individuals who are needy, but does not include any such payments to or care in behalf of any individual who is an inmate of a public institution (except as a patient in a medical institution) or any individual who is a patient in an institution for tuberculosis or mental diseases. Such term also includes payments which are not included within the meaning of such term under the preceding sentence, but which would be so included except that they are made on behalf of such a needy individual to another individual who (as determined in accordance with standards prescribed by the Secretary) is interestedin or concerned with the welfare of such needy individual, but only with respect to a State whose State plan approved under section 1202 of this title includes provision for—
 
 &emsp;(1) determination by the State agency that such needy individual has, by reason of his physical or mental condition, such inability to manage funds that making payments to him would be contrary to his welfare and, therefore, it is necessary to provide such aid through payments described in this sentence;
 
@@ -50,7 +50,7 @@ Amendment by section 156(c) of Pub. L. 87–543 applicable in the case of applic
 
 #### Effective Date of 1950 Amendment
 
-Act Aug. 28, 1950, ch. 809, title III, §343(b), 64 Stat. 554, provided that: "The amendment made by subsection (a)\[amending this section\] shall take effect October 1, 1950, except that the exclusion of money payments to needy individuals described in \[former\] clause (a) or (b) of section 1006 of the Social Security Act \[42 U.S.C. 1206\] as so amended shall, in the case of any of such individuals who are not patients in a public institution, be effective July 1, 1952."
+Act Aug. 28, 1950, ch. 809, title III, §343(b), 64 Stat. 554, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950, except that the exclusion of money payments to needy individuals described in \[former\] clause (a) or (b) of section 1006 of the Social Security Act \[42 U.S.C. 1206\] as so amended shall, in the case of any of such individuals who are not patients in a public institution, be effective July 1, 1952."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "needs".</i>
 

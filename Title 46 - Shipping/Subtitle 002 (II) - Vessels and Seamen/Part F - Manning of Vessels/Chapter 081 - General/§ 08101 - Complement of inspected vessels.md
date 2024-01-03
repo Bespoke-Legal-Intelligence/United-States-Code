@@ -1,6 +1,6 @@
 ### §8101. Complement of inspected vessels
 
-(a) The certificate of inspection issued to a vessel under part B of this subtitle shall statethe complement of licensed individuals and crew (including lifeboatmen) considered by the Secretary to be necessary for safe operation. A manning requirement imposed on—
+(a) The certificate of inspection issued to a vessel under part B of this subtitle shall state the complement of licensed individuals and crew (including lifeboatmen) considered by the Secretary to be necessary for safe operation. A manning requirement imposed on—
 
 &emsp;(1) a sailing school vessel shall consider the participation of sailing school instructors and sailing school students in the operation of that vessel;
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(B) in written form transmitted within 12 hours after the vessel arrives at its next port.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 547; Pub. L. 98–557, §29(b), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–640, §11(b), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 101–380, title IV, §§4104, 4114(c), 4302(e), Aug. 18, 1990, 104 Stat. 511, 517, 538; Pub. L. 104–324, title VII, §725, Oct. 19, 1996, 110 Stat. 3939.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 547; Pub. L. 98–557, §29(b), Oct. 30, 1984, 98 Stat. 2873; Pub. L.99–640, §11(b), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 101–380, title IV, §§4104, 4114(c), 4302(e), Aug. 18, 1990, 104 Stat. 511, 517, 538; Pub. L. 104–324, title VII, §725, Oct. 19, 1996, 110 Stat. 3939.)
 
 Historical and Revision Notes
 
@@ -70,7 +70,7 @@ Subsections (f), (g) and (h) prescribe civil penalties for noncompliance with ma
 
 #### Amendments
 
-<b>1996</b>—Subsec. (h). Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title asprescribed by the Secretary under section 14104 of this title" after "100 gross tons".
+<b>1996</b>—Subsec. (h). Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "100 gross tons".
 
 <b>1990</b>—Subsec. (a)(3). Pub. L. 101–380, §4114(c), added par. (3).
 

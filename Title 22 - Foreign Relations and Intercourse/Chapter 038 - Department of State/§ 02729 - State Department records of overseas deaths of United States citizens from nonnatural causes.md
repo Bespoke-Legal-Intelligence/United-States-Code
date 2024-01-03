@@ -2,7 +2,7 @@
 
 #### (a) Collection of information
 
-The Secretary shall, to the maximum extent practicable, collect, with respect to each foreigncountry, the following information with respect to each United States citizen who dies in that country from a nonnatural cause on or after September 30, 2002:
+The Secretary shall, to the maximum extent practicable, collect, with respect to each foreign country, the following information with respect to each United States citizen who dies in that country from a nonnatural cause on or after September 30, 2002:
 
 &emsp;(1) The date of death.
 

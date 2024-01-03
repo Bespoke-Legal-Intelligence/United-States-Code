@@ -16,15 +16,18 @@
 | [982\.](%C2%A7%2000982%20-%20Members%20service%20on%20State%20and%20local%20juries.md) | Members: service on State and local juries. |
 | [983\.](%C2%A7%2000983%20-%20Institutions%20of%20higher%20education%20that%20prevent%20ROTC%20access%20or%20military%20recruiting%20on%20campus%20denial%20of%20grants%20and%20contracts%20from%20Department%E2%80%A6.md) | Institutions of higher education that prevent ROTC access or military recruiting on campus: denial of grants and contracts from Department of Defense, Department of Education, and certain other departments and agencies. |
 | [985\.](%C2%A7%2000985%20-%20Persons%20convicted%20of%20capital%20crimes%3B%20certain%20other%20persons%20denial%20of%20specified%20burial-related%20benefits.md) | Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits. |
-| \[986. | Repealed.\] |
+| [986\.](%C2%A7%2000986%20-%20Policy%20regarding%20identification%20of%20gender%20or%20personal%20pronouns%20in%20official%20correspondence.md) | Policy regarding identification of gender or personal pronouns in official correspondence. |
 | [987\.](%C2%A7%2000987%20-%20Terms%20of%20consumer%20credit%20extended%20to%20members%20and%20dependents%20limitations.md) | Terms of consumer credit extended to members and dependents: limitations. |
 | [988\.](%C2%A7%2000988%20-%20Prohibition%20on%20ownership%20or%20trading%20of%20stocks%20in%20certain%20companies%20by%20certain%20officials%20of%20the%20Department%20of%20Defense.md) | Prohibition on ownership or trading of stocks in certain companies by certain officials of the Department of Defense. |
+| [989\.](%C2%A7%2000989%20-%20Prohibition%20on%20former%20members%20of%20the%20armed%20forces%20accepting%20post-service%20employment%20with%20certain%20foreign%20governments.md) | Prohibition on former members of the armed forces accepting post-service employment with certain foreign governments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title V, §§522, 523(b), Dec. 22, 2023, 137 Stat. 249, 252, added items 986 and 989. Addition of item 986 was made pursuant to operation of section 102 of this title.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title IX, §921(b), Dec. 20, 2019, 133 Stat. 1561, added item 988.
 
@@ -177,6 +180,7 @@ Definitions.—In this section:
 - [&sect; 00982 - Members service on State and local juries](%C2%A7%2000982%20-%20Members%20service%20on%20State%20and%20local%20juries.md)
 - [&sect; 00983 - Institutions of higher education that prevent ROTC access or military recruiting on campus denial of grants and contracts from Department&#8230;](%C2%A7%2000983%20-%20Institutions%20of%20higher%20education%20that%20prevent%20ROTC%20access%20or%20military%20recruiting%20on%20campus%20denial%20of%20grants%20and%20contracts%20from%20Department%E2%80%A6.md)
 - [&sect; 00985 - Persons convicted of capital crimes; certain other persons denial of specified burial-related benefits](%C2%A7%2000985%20-%20Persons%20convicted%20of%20capital%20crimes%3B%20certain%20other%20persons%20denial%20of%20specified%20burial-related%20benefits.md)
-- [&sect; 00986 - Repealed. Pub. L. 110&#8211;181, div. A, title X, &sect;1072(b)(1), Jan. 28, 2008, 122 Stat. 329](%C2%A7%2000986%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71072%28b%29%281%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%20329.md)
+- [&sect; 00986 - Policy regarding identification of gender or personal pronouns in official correspondence](%C2%A7%2000986%20-%20Policy%20regarding%20identification%20of%20gender%20or%20personal%20pronouns%20in%20official%20correspondence.md)
 - [&sect; 00987 - Terms of consumer credit extended to members and dependents limitations](%C2%A7%2000987%20-%20Terms%20of%20consumer%20credit%20extended%20to%20members%20and%20dependents%20limitations.md)
 - [&sect; 00988 - Prohibition on ownership or trading of stocks in certain companies by certain officials of the Department of Defense](%C2%A7%2000988%20-%20Prohibition%20on%20ownership%20or%20trading%20of%20stocks%20in%20certain%20companies%20by%20certain%20officials%20of%20the%20Department%20of%20Defense.md)
+- [&sect; 00989 - Prohibition on former members of the armed forces accepting post-service employment with certain foreign governments](%C2%A7%2000989%20-%20Prohibition%20on%20former%20members%20of%20the%20armed%20forces%20accepting%20post-service%20employment%20with%20certain%20foreign%20governments.md)

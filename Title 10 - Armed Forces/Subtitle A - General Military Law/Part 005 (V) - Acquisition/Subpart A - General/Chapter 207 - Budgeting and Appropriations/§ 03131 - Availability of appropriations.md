@@ -40,7 +40,7 @@ Subsection (b) is based on Pub. L. 99–190, §101(b) \[title VIII, §8015\], De
 
 <b>2021</b>—Pub. L. 116–283, §1809(b), renumbered section 2351 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 117–81, which directed the substitution of "section 4141" for "section 2353", could not be executed because of the intervening amendment by Pub. L. 116–283, §1883(b)(2). See note below.
+Subsec. (b)(1). Pub. L. 117–81, which directed the substitution of "section 4141" for "section 2353", could notbe executed because of the intervening amendment by Pub. L. 116–283, §1883(b)(2). See note below.
 
 Pub. L. 116–283, §1883(b)(2), substituted "section 4141" for "section 2353".
 

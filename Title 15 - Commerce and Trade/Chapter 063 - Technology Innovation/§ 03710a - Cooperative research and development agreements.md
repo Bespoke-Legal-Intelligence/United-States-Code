@@ -10,7 +10,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 #### (b) Enumerated authority
 
-(1) Under an agreement entered into pursuant to subsection (a)(1), the laboratory may grant, or agree to grant in advance, to a collaborating party patent licenses or assignments, or options thereto, in any invention made in whole or in part by a laboratory employee under the agreement, or, subject to section 209 of title 35, may grant a license to an invention which is federally owned, for which a patent application was filed before the signing of the agreement, and directly within the scope of the work under the agreement, for reasonable compensation when appropriate. The laboratory shall ensure, through such agreement, that the collaborating party has the option to choose an exclusive license for a pre-negotiated field of use for any such invention under the agreement or, if there is more than one collaborating party, that the collaborating parties are offered the option to hold licensing rights that collectively encompass the rights that would be held under such an exclusive license by one party. In consideration for the Government's contribution under the agreement, grants under this paragraph shall be subject to the following explicit conditions:
+(1) Under an agreement entered into pursuant to subsection (a)(1), the laboratory may grant, or agree to grant in advance, to a collaborating party patent licenses or assignments, or options thereto, in any invention made in whole or in part by a laboratory employee under the agreement, or, subject to section 209 of title 35, may grant a license to an invention which is federally owned, for which a patent application was filed before the signing of the agreement, and directly within the scope of the work under the agreement, for reasonable compensation when appropriate. The laboratory shall ensure, through such agreement, that the collaborating party has the option to choose an exclusive license for a pre-negotiated field of use for anysuch invention under the agreement or, if there is more than one collaborating party, that the collaborating parties are offered the option to hold licensing rights that collectively encompass the rights that would be held under such an exclusive license by one party. In consideration for the Government's contribution under the agreement, grants under this paragraph shall be subject to the following explicit conditions:
 
 &emsp;(A) A nonexclusive, nontransferable, irrevocable, paid-up license from the collaborating party to the laboratory to practice the invention or have the invention practiced throughout the world by or on behalf of the Government. In the exercise of such license, the Government shall not publicly disclose trade secrets or commercial or financial information that is privileged or confidential within the meaning of section 552(b)(4) of title 5 or which would be considered as such if it had been obtained from a non-Federal party.
 
@@ -36,7 +36,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 &emsp;(A) accept, retain, and use funds, personnel, services, and property from a collaborating party and provide personnel, services, and property to a collaborating party;
 
-&emsp;(B) use funds received from a collaborating party in accordance with subparagraph (A) tohire personnel to carry out the agreement who will not be subject to full-time-equivalent restrictions of the agency;
+&emsp;(B) use funds received from a collaborating party in accordance with subparagraph (A) to hire personnel to carry out the agreement who will not be subject to full-time-equivalent restrictions of the agency;
 
 &emsp;(C) to the extent consistent with any applicable agency requirements or standards of conduct, permit an employee or former employee of the laboratory to participate in an effort to commercialize an invention made by the employee or former employee while in the employment or service of the Government; and
 
@@ -188,7 +188,7 @@ Subsec. (c)(5)(C). Pub. L. 101–189, §3133(a)(6), added subpar. (C).
 
 Subsec. (c)(7). Pub. L. 101–189, §3133(a)(7), added par. (7).
 
-Subsec. (d)(2). Pub. L. 101–189, §3133(a)(8)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the term 'laboratory' means a facility or group of facilities owned, leased, or otherwise used by a Federal agency, a substantial purpose of which is theperformance of research, development, or engineering by employees of the Federal Government."
+Subsec. (d)(2). Pub. L. 101–189, §3133(a)(8)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the term 'laboratory' means a facility or group of facilities owned, leased, or otherwise used by a Federal agency, a substantial purpose of which is the performance of research, development, or engineering by employees of the Federal Government."
 
 Subsec. (d)(3). Pub. L. 101–189, §3133(a)(8)(A), (C), added par. (3).
 

@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(D) Using data to help identify risk factors associated with controlled substance overdoses.
 
-&emsp;&emsp;(E) Supporting entities involved in providing information on controlled substanceoverdoses, such as coroners, medical examiners, and public health laboratories to improve accurate testing and standardized reporting of causes and contributing factors to controlled substances overdoses and analysis of various opioid analogues to controlled substance overdoses.
+&emsp;&emsp;(E) Supporting entities involved in providing information on controlled substance overdoses, such as coroners, medical examiners, and public health laboratories to improve accurate testing and standardized reporting of causes and contributing factors to controlled substances overdoses and analysis of various opioid analogues to controlled substance overdoses.
 
 &emsp;&emsp;(F) Working to enable and encourage the access, exchange, and use of information regarding controlled substance overdoses among data sources and entities.
 

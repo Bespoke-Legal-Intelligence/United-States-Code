@@ -38,7 +38,7 @@ Each local educational agency desiring assistance under this subpart shall submi
 
 #### References in Text
 
-The Workforce Innovation and Opportunity Act, referred to in par. (9), is Pub. L. 113–128, July 22, 2014, 128Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in par. (9), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
 
@@ -52,7 +52,7 @@ A prior section 6453, Pub. L. 89–10, title I, §1423, as added Pub. L. 103–3
 
 Par. (4). Pub. L. 114–95, §1401(10)(B), added par. (4) and struck out former par. (4) which read as follows: "a description of the program operated by participating schools for children and youth returning from correctional facilities and, as appropriate, the types of services that such schools will provide such children and youth and other at-risk children and youth;".
 
-Par. (7). Pub. L. 114–95, §1401(10)(C), inserted "institutions of higher education or" before "local businesses" and substituted "facilitate postsecondary and workforce success for children and youth returning from correctional facilities, such as through participation in credit-bearing coursework while in secondary school, enrollment in postsecondary education, participation in career and technical education programming" for "develop training, curriculum-based youth entrepreneurship education".
+Par. (7). Pub. L. 114–95, §1401(10)(C), inserted "institutions of higher education or" before "local businesses" and substituted "facilitate postsecondary and workforce success for children and youth returning from correctional facilities, such as through participation in credit-bearing coursework while in secondary school,enrollment in postsecondary education, participation in career and technical education programming" for "develop training, curriculum-based youth entrepreneurship education".
 
 Par. (8). Pub. L. 114–95, §1401(10)(D), inserted "and family members" after "parents".
 

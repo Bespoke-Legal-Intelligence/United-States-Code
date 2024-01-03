@@ -4,7 +4,7 @@
 
 #### (1) Plan
 
-&emsp;If a State fails to meet at least 90 percent of the State determined level of performance for any of the core indicators of performance described in 2323(b)(2) <sup>1</sup> of this title for all CTE concentrators, the eligible agency shall develop and implement a program improvement plan (that includes an analysis of the performance disparities or gaps identified under section 2323(b)(3)(C)(ii)(II) of this title, and actions that will be taken to address such gaps) in consultation with the appropriate agencies, individuals, and organizations during the first program year succeeding the program year for which the eligible agency failed to so meet the State determined level of performance for any of the core indicators of performance.
+&emsp;If a State fails to meet at least 90 percent of the State determined level of performance for any of the core indicators of performance described in 2323(b)(2) <sup>1</sup> of this title for all CTE concentrators, the eligible agency shall develop and implement a program improvement plan (that includes an analysis of the performance disparities or gaps identified under section 2323(b)(3)(C)(ii)(II) of this title, and actions that will be taken to address such gaps) in consultation with the appropriate agencies, individuals, and organizations during the first program year succeeding the program year forwhich the eligible agency failed to so meet the State determined level of performance for any of the core indicators of performance.
 
 #### (2) Technical assistance
 
@@ -68,7 +68,7 @@
 
 #### (5) Funds resulting from reduced allotments
 
-&emsp;The eligible agency shall use funds withheld under paragraph (4) from an eligible recipient to provide (through alternative arrangements) services and activities to students within the area served by such recipient to meet the purposes of this chapter.
+&emsp;The eligible agency shall use funds withheld under paragraph (4) from an eligible recipientto provide (through alternative arrangements) services and activities to students within the area served by such recipient to meet the purposes of this chapter.
 
 #### (6) Adjustments prohibited
 

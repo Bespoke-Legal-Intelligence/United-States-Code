@@ -13,3 +13,4 @@
 - [&sect; 03356 - Fast-tracking sales to Taiwan under foreign military sales program](%C2%A7%2003356%20-%20Fast-tracking%20sales%20to%20Taiwan%20under%20foreign%20military%20sales%20program.md)
 - [&sect; 03357 - Findings and statement of policy](%C2%A7%2003357%20-%20Findings%20and%20statement%20of%20policy.md)
 - [&sect; 03357a - Statement of policy on Taiwan](%C2%A7%2003357a%20-%20Statement%20of%20policy%20on%20Taiwan.md)
+- [&sect; 03357b - Establishment of training, advising, and institutional capacity-building program for military forces of Taiwan](%C2%A7%2003357b%20-%20Establishment%20of%20training%2C%20advising%2C%20and%20institutional%20capacity-building%20program%20for%20military%20forces%20of%20Taiwan.md)

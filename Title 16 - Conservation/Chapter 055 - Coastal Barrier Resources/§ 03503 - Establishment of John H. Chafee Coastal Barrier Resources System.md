@@ -102,7 +102,7 @@ The Secretary shall—
 
 &emsp;Nothing in this subsection supersedes the official maps referred to in subsection (a).
 
-(Pub. L. 97–348, §4, Oct. 18, 1982, 96 Stat. 1654; Pub. L. 97–396, §8, Dec. 31, 1982, 96 Stat. 2007; Pub. L. 100–707, title II, §204(b), Nov. 23, 1988, 102 Stat. 4713; Pub. L. 101–591, §3, Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(3), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §§2–3(b)(1), (c), (d), Nov. 13, 2000, 114 Stat. 2394, 2395; Pub. L. 115–358, §§2(d), 3, Dec. 21, 2018, 132 Stat. 5080.)
+(Pub. L. 97–348, §4, Oct. 18, 1982, 96 Stat. 1654; Pub. L. 97–396, §8, Dec. 31, 1982, 96 Stat. 2007;Pub. L. 100–707, title II, §204(b), Nov. 23, 1988, 102 Stat. 4713; Pub. L. 101–591, §3, Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(3), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §§2–3(b)(1), (c), (d), Nov. 13, 2000, 114 Stat. 2394, 2395; Pub. L. 115–358, §§2(d), 3, Dec. 21, 2018, 132 Stat. 5080.)
 
 #### <b>Editorial Notes</b>
 
@@ -328,7 +328,7 @@ Contents.—The report shall include a description of—
 
 "(e)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carryout this section $500,000 for each of fiscal years 2002 through 2004."
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $500,000 for each of fiscal years 2002 through 2004."
 
 #### Findings
 

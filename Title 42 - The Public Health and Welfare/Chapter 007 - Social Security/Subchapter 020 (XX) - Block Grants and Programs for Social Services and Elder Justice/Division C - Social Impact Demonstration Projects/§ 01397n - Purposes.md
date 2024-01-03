@@ -6,7 +6,7 @@ The purposes of this division are the following:
 
 &emsp;(2) To redirect funds away from programs that, based on objective data, are ineffective, and into programs that achieve demonstrable, measurable results.
 
-&emsp;(3) To ensure Federal funds are used effectively on social services to produce positive outcomes for both service recipients and taxpayers.
+&emsp;(3) To ensure Federal funds are used effectively on social services to produce positiveoutcomes for both service recipients and taxpayers.
 
 &emsp;(4) To establish the use of social impact partnerships to address some of our Nation's most pressing problems.
 

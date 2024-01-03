@@ -38,7 +38,7 @@ In this Compact:
 
 &emsp;&emsp;(A) means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, detentions, indictments, or other formal criminal charges, and any disposition arising therefrom, including acquittal, sentencing, correctional supervision, or release; and
 
-&emsp;&emsp;(B) does not include identification information such as fingerprint records if suchinformation does not indicate involvement of the individual with the criminal justice system.
+&emsp;&emsp;(B) does not include identification information such as fingerprint records if such information does not indicate involvement of the individual with the criminal justice system.
 
 #### (5) Criminal history record repository
 
@@ -322,7 +322,7 @@ The Council shall be composed of 15 members, each of whom shall be appointed by 
 
 #### (2) Quorum
 
-&emsp;A majority of the Council or any committee of the Council shall constitute a quorum of the Council or of such committee, respectively, for the conduct of business. A lesser number may meet to hold hearings, take testimony, or conduct any business not requiring a vote.
+&emsp;A majority of the Council or any committee of the Council shall constitute a quorum ofthe Council or of such committee, respectively, for the conduct of business. A lesser number may meet to hold hearings, take testimony, or conduct any business not requiring a vote.
 
 #### (e) Rules, procedures, and standards
 

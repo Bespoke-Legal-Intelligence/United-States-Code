@@ -168,7 +168,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the direct costs of processing operations under subclause (II) of clause (i),
 
-> &emsp;&emsp;&emsp;&emsp;of that producer or entity controlling production, is not less than the applicable percentage under clause (v)(I), plus 10 percent, of the aggregate declared customs value of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
+> &emsp;&emsp;&emsp;&emsp;of that producer or entity controlling production, is not less than the applicable percentage under clause (v)(I), plus 10 percent, of the aggregate declared customs value of all apparel articles of thatproducer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
 
 #### (III) Retroactive application of duty-free treatment
 
@@ -241,7 +241,7 @@ In this section:
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 16 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
+&emsp;&emsp;&emsp;Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 16 succeeding 1-year periods, to notmore than 70,000,000 square meter equivalents of apparel articles described in such clause.
 
 #### (iii) Other preferential treatment not affected by quantitative limitation
 
@@ -405,7 +405,7 @@ In this section:
 
 &emsp;&emsp;Any of the following apparel articles that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made:
 
-&emsp;&emsp;&emsp;(i) Any apparel article that is of a type listed in chapter rule 3, 4, or 5 for chapter 61 of the HTS (as such chapter rules are contained in section A of the Annex toProclamation 8213 of the President of December 20, 2007) as being excluded from the scope of such chapter rule, when such chapter rule is applied to determine whether an apparel article is an originating good for purposes of general note 29(n) to the HTS, except that, for purposes of this clause, reference in such chapter rules to "6104.12.00" shall be deemed to be a reference to "6104.19.60".
+&emsp;&emsp;&emsp;(i) Any apparel article that is of a type listed in chapter rule 3, 4, or 5 for chapter 61 of the HTS (as such chapter rules are contained in section A of the Annex to Proclamation 8213 of the President of December 20, 2007) as being excluded from the scope of such chapter rule, when such chapter rule is applied to determine whether an apparel article is an originating good for purposes of general note 29(n) to the HTS, except that, for purposes of this clause, reference in such chapter rules to "6104.12.00" shall be deemed to be a reference to "6104.19.60".
 
 &emsp;&emsp;&emsp;(ii)(I) Subject to subclause (II), any apparel article that is of a type listed in chapter rule 3(a), 4(a), or 5(a) for chapter 62 of the HTS, as such chapter rules are contained in paragraph 9 of section A of the Annex to Proclamation 8213 of the President of December 20, 2007.
 
@@ -413,7 +413,7 @@ In this section:
 
 #### (C) Luggage and similar items
 
-&emsp;&emsp;Any article classifiable under subheading 4202.12, 4202.22, 4202.32 or 4202.92 of the HTS that is wholly assembled in Haiti and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, components, or materials from which the article is made.
+&emsp;&emsp;Any article classifiable under subheading 4202.12, 4202.22, 4202.32 or 4202.92 of the HTS that is wholly assembled in Haiti and is imported directly from Haiti or the DominicanRepublic shall enter the United States free of duty, without regard to the source of the fabric, components, or materials from which the article is made.
 
 #### (D) Headgear
 
@@ -737,7 +737,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(V) The Secretary of Commerce may make available to each person or entity identified in documentation submitted under subclause (III) or (IV) information contained in such documentation that relates to the purchase of qualifying woven fabric or qualifying knit fabric involving such person or entity.
 
-&emsp;&emsp;&emsp;&emsp;(VI) The program under this subparagraph shall be established so as to allow, to the extent feasible, the submission, storage, retrieval, and disclosure of information in electronic format, including information with respect to the earned import allowance certificates required under subparagraph (A)(i).<sup>2</sup>
+&emsp;&emsp;&emsp;&emsp;(VI) The program under this subparagraph shall be established so as to allow, to the extent feasible, the submission, storage, retrieval, and disclosure of information in electronic format, including information with respect to theearned import allowance certificates required under subparagraph (A)(i).<sup>2</sup>
 
 &emsp;&emsp;&emsp;&emsp;(VII) The Secretary of Commerce may reconcile discrepancies in information provided under subclause (III) or (IV) and verify the accuracy of such information.
 
@@ -783,7 +783,7 @@ In this section:
 
 &emsp;&emsp;Any apparel article that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabrics, fabric components, components knit-to-shape, or yarns from which the article is made, if the fabrics, fabric components, components knit-to-shape, or yarns comprising the component that determines the tariff classification of the article are of any of the following:
 
-&emsp;&emsp;&emsp;(i) Fabrics or yarns, to the extent that apparel articles of such fabrics or yarnswould be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA.
+&emsp;&emsp;&emsp;(i) Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA.
 
 &emsp;&emsp;&emsp;(ii) Fabrics or yarns, to the extent that such fabrics or yarns are designated as not being available in commercial quantities for purposes of—
 
@@ -873,7 +873,7 @@ In this section:
 
 #### (A) Presidential certification of compliance by Haiti with requirements
 
-&emsp;&emsp;Upon the expiration of the 16-month period beginning on the date of the enactment of the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008, Haiti shall continue to be eligible for the preferential treatment provided under subsection (b) only if the President determines and certifies to the Congress that—
+&emsp;&emsp;Upon the expiration of the 16-month period beginning on the date of the enactment ofthe Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008, Haiti shall continue to be eligible for the preferential treatment provided under subsection (b) only if the President determines and certifies to the Congress that—
 
 &emsp;&emsp;&emsp;(i) Haiti has implemented the requirements set forth in paragraphs (2) and (3); and
 
@@ -1121,7 +1121,7 @@ Subsec. (b)(2)(B)(iii). Pub. L. 114–27, §301(1)(B)(ii), substituted "16 succe
 
 Subsec. (h). Pub. L. 114–27, §301(2), substituted "September 30, 2025" for "September 30, 2020".
 
-<b>2012</b>—Subsec. (b)(4)(C), (D). Pub. L. 112–234, which directed amendment of section 231A(b)(4) of the Caribbean Basin Economic Recovery Act by redesignating subpar. (D) as (C) and striking out former subpar. (C), was executed to this section, which is section 213A of the Caribbean Basin Economic Recovery Act, to reflect the probable intent of Congress. Prior to amendment, text of subpar. (C) read as follows: "The United States Government Accountability Office shall review the program established under subparagraph (B) annually forthe purpose of evaluating the effectiveness of, and making recommendations for improvements in, the program."
+<b>2012</b>—Subsec. (b)(4)(C), (D). Pub. L. 112–234, which directed amendment of section 231A(b)(4) of the Caribbean Basin Economic Recovery Act by redesignating subpar. (D) as (C) and striking out former subpar. (C), was executed to this section, which is section 213A of the Caribbean Basin Economic Recovery Act, to reflect the probable intent of Congress. Prior to amendment, text of subpar. (C) read as follows: "The United States Government Accountability Office shall review the program established under subparagraph (B) annually for the purpose of evaluating the effectiveness of, and making recommendations for improvements in, the program."
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–171, §7(1), added par. (1) and struck out former par. (1) which defined "applicable 1-year period", "initial applicable 1-year period", "second applicable 1-year period", "third applicable 1-year period", "fourth applicable 1-year period", and "fifth applicable 1-year period" in subpars. (A) to (F), respectively.
 
@@ -1129,7 +1129,7 @@ Subsec. (b)(1)(A). Pub. L. 111–171, §7(2)(A), substituted "the initial applic
 
 Subsec. (b)(1)(B)(i). Pub. L. 111–171, §7(2)(B)(i), in introductory provisions, substituted "the initial applicable 1-year period and any 1-year period thereafter" for "any applicable 1-year period" and "that 1-year period" for "the applicable 1-year period".
 
-Subsec. (b)(1)(B)(iv)(II). Pub. L. 111–171, §7(2)(B)(ii), struck out "applicable" after "Other" in heading and substituted "In any 1-year period after the initial applicable 1-year period" for "In each of the second, third, fourth, and fifth applicable 1-year periods" and "during the 1-year period" for "during the applicable 1-year period" in introductory provisions and "preceding 1-year period" for "preceding applicable 1-year period" in concluding provisions.
+Subsec. (b)(1)(B)(iv)(II). Pub. L. 111–171, §7(2)(B)(ii), struck out "applicable" after "Other" in heading andsubstituted "In any 1-year period after the initial applicable 1-year period" for "In each of the second, third, fourth, and fifth applicable 1-year periods" and "during the 1-year period" for "during the applicable 1-year period" in introductory provisions and "preceding 1-year period" for "preceding applicable 1-year period" in concluding provisions.
 
 Subsec. (b)(1)(B)(v)(I)(aa). Pub. L. 111–171, §7(2)(B)(iii)(I), substituted "and the succeeding 8 1-year periods" for ", the second applicable 1-year period, and the third applicable 1-year period".
 
@@ -1201,7 +1201,7 @@ Subsec. (d)(4). Pub. L. 110–246, §15404, added par. (4).
 
 Subsec. (e). Pub. L. 110–246, §15403(3), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(1). Pub. L. 110–246, §15402(h), substituted "U.S. Customs and Border Protection" for "the Bureauof Customs and Border Protection" wherever appearing.
+Subsec. (e)(1). Pub. L. 110–246, §15402(h), substituted "U.S. Customs and Border Protection" for "the Bureau of Customs and Border Protection" wherever appearing.
 
 Subsec. (f). Pub. L. 110–246, §15403(2), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
@@ -1221,7 +1221,7 @@ Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Pub. L. 110–234, title XV, §15412, May 22, 2008, 122 Stat. 1547, and Pub. L. 110–246, §4(a), title XV, §15412, June 18, 2008, 122 Stat. 1664, 2309, provided that:
 

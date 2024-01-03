@@ -16,7 +16,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;&emsp;(iii) institution of a regular program of monitoring all ongoing projects to ensure that contract conditions and general bank policies to protect the environment and indigenous peoples are fully complied with;
 
-&emsp;&emsp;(C) create career and other institutional incentives for all professionally trained bank staff to incorporate environmental and natural resources concerns into project planning and country programming activities;
+&emsp;&emsp;(C) create career and other institutional incentives for all professionally trainedbank staff to incorporate environmental and natural resources concerns into project planning and country programming activities;
 
 &emsp;(2) vigorously promote changes in these institutions in their preparation of projects and country programs that will prompt staff and encourage borrower countries to—
 
@@ -58,7 +58,7 @@ The Secretaries of Treasury and State, and the Administrator of the Agency for I
 
 #### (c) Additional initiatives
 
-The Secretary of the Treasury and the Secretary of State shall regularly undertake and continue diplomatic and other initiatives, in addition to those mentioned in subsection (a)(5), to discuss measures to improve the environmental performance of the Multilateral Development Banks with the representatives to these institutions, and with ministries from which they receive their instructions, of borrower and donor nations. In particular, joint efforts shall be undertaken with borrowers and donors to ensure cooperative implementation of the reforms described above.
+The Secretary of the Treasury and the Secretary of State shall regularly undertake and continue diplomatic and other initiatives, in addition to those mentioned in subsection (a)(5), to discuss measures to improve the environmental performance of the Multilateral DevelopmentBanks with the representatives to these institutions, and with ministries from which they receive their instructions, of borrower and donor nations. In particular, joint efforts shall be undertaken with borrowers and donors to ensure cooperative implementation of the reforms described above.
 
 #### (d) Special meetings of Boards of Governors
 
@@ -144,7 +144,7 @@ Pub. L. 101–167, title V, §533, Nov. 21, 1989, 103 Stat. 1225, provided that:
 
 &emsp;"(7) provide technical assistance as a component of all energy sector lending to help borrowing countries identify and pursue end-use energy efficiency investments. This technical assistance shall include support for detailed audits of energy use and the development of institutional capacity to promote end-use energy efficiency and conservation;
 
-&emsp;"(8) work with borrowing countries, with input from the public in both borrowing and donor countries, to develop loans for end-use energy efficiency and renewable energy, where possible 'bundling'small projects into larger, more easily financed projects; and
+&emsp;"(8) work with borrowing countries, with input from the public in both borrowing and donor countries, to develop loans for end-use energy efficiency and renewable energy, where possible 'bundling' small projects into larger, more easily financed projects; and
 
 &emsp;"(9) seek the convening of a special seminar for board members and senior staff of each MDB concerning alternate energy investment opportunities and end-use energy efficiency and conservation.
 

@@ -64,7 +64,7 @@ Ex. Ord. No. 10924, Mar. 1, 1961, 26 F.R. 1789, relating to the establishment an
 
 #### Executive Order No. 11041
 
-Ex. Ord. No. 11041, Aug. 7, 1962, 27 F.R. 7859, as amended by Ex. Ord. No. 11250, Oct. 10, 1965, 30 F.R. 13003,which provided for the continuance and administration of the Peace Corps in the Department of State, was superseded by Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, formerly set out below.
+Ex. Ord. No. 11041, Aug. 7, 1962, 27 F.R. 7859, as amended by Ex. Ord. No. 11250, Oct. 10, 1965, 30 F.R. 13003, which provided for the continuance and administration of the Peace Corps in the Department of State, was superseded by Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, formerly set out below.
 
 #### Executive Order No. 11603
 
@@ -124,7 +124,7 @@ Reservation of Functions to the President
 
 (c) The authority conferred on the President by Section 5(f)(1)(B) of the Act (22 U.S.C. 2504(f)(1)(B)).
 
-(d) The authority conferred by Section 10(f) of the Act (22 U.S.C. 2509(f)) to direct any agency of the United States Government to provide services, facilities, and commodities to officers carrying out functions under the Act \[this chapter\].
+(d) The authority conferred by Section 10(f) of the Act (22 U.S.C. 2509(f)) to direct any agency of theUnited States Government to provide services, facilities, and commodities to officers carrying out functions under the Act \[this chapter\].
 
 #### 1–4.
 
@@ -140,7 +140,7 @@ Incidental Provisions
 
 National Voluntary Action Program
 
-1–501. The National Voluntary Action Program to encourage and stimulate more widespread and effectivevoluntary action for solving public domestic problems, established in the Executive Branch of the Government by Section 1 of Executive Order No. 11470 of May 26, 1969 \[formerly set out as a note under section 2701 of Title 42, the Public Health and Welfare\], is continued in ACTION. That program shall supplement corresponding action by private and other non-Federal organizations such as the National Center for Voluntary Action. As used in this Order, the term "voluntary action" means the contribution or application of non-governmental resources of all kinds (time, money, goods, services, and skills) by private and other organizations of all types (profit and nonprofit, national and local, occupational, and altruistic) and by individual citizens.
+1–501. The National Voluntary Action Program to encourage and stimulate more widespread and effective voluntary action for solving public domestic problems, established in the Executive Branch of the Government by Section 1 of Executive Order No. 11470 of May 26, 1969 \[formerly set out as a note under section 2701 of Title 42, the Public Health and Welfare\], is continued in ACTION. That program shall supplement corresponding action by private and other non-Federal organizations such as the National Center for Voluntary Action. As used in this Order, the term "voluntary action" means the contribution or application of non-governmental resources of all kinds (time, money, goods, services, and skills) by private and other organizations of all types (profit and nonprofit, national and local, occupational, and altruistic) and by individual citizens.
 
 #### 1–6.
 

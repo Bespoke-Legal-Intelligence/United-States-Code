@@ -142,7 +142,7 @@ Composition.—The advisory board established under subparagraph (A) shall be co
 
 &emsp;"(6)
 
-Contributed funds.—Notwithstanding section 3302 of title 31, United States Code, the Secretary may, only to the extent provided in advance in appropriations Acts, accept or retain funds contributed byany person, government entity, or organization for purposes of carrying out this subsection. Such funds shall be available, subject to appropriation, without fiscal year limitation.
+Contributed funds.—Notwithstanding section 3302 of title 31, United States Code, the Secretary may, only to the extent provided in advance in appropriations Acts, accept or retain funds contributed by any person, government entity, or organization for purposes of carrying out this subsection. Such funds shall be available, subject to appropriation, without fiscal year limitation.
 
 &emsp;"(7)
 
@@ -190,7 +190,7 @@ Pub. L. 116–283, div. A, title XII, §1277, Jan. 1, 2021, 134 Stat. 3981, prov
 
 #### Cooperation on Directed Energy Capabilities
 
-Pub. L. 116–283, div. A, title XII, §1280, Jan. 1, 2021, 134 Stat. 3982, provided that:
+Pub. L. 116–283, div. A, title XII, §1280, Jan. 1, 2021, 134 Stat. 3982, as amended by Pub. L. 118–31, div. A, title XII, §1254, Dec. 22, 2023, 137 Stat. 468, provided that:
 
 "(a)
 
@@ -214,11 +214,35 @@ Form.—The report required by subsection (a) shall be submitted in unclassified
 
 "(d)
 
-Program Authority.—If recommended as a result of the report required by subsection (a), the Secretary of Defense, with the concurrence of the Secretary of State, may establish a program to carry out research, development, test, and evaluation activities, on a joint basis with Israel, to promote directed energy capabilities of mutual benefit to both the United States and Israel that address threats to the United States, deployed forces of the United States, and Israel. Any activities carried out under this subsection shall be conducted in a manner that appropriately protects sensitive information, intellectual property, the national security interests of the United States, and the national security interests of Israel. Any such program shall take into consideration the recommendations of the United States-Israel Defense Acquisition Advisory Group."
+Program Authority.—If recommended as a result of the report required by subsection (a), the Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, with the concurrence of the Secretary of State, is authorized to carry out research, development, test, and evaluation activities, on a joint basis with Israel, to promote directed energy capabilities of mutual benefit to both the United States and Israel that address threats to the United States, deployed forces of the United States, and Israel. Any activities carried out under this subsection shall be conducted in a manner that appropriately protects sensitive information, intellectual property, the national security interests of the United States, and the national security interests of Israel. Any such program shall take into consideration the recommendations of the United States-Israel Defense Acquisition Advisory Group.
+
+"(e)
+
+Notification.—
+
+&emsp;"(1)
+
+In general.—Not later than 120 days after the date of the enactment of this subsection \[Dec. 22, 2023\], the Under Secretary of Defense for Research and Engineering shall submit to the appropriate committees of Congress an assessment detailing—
+
+&emsp;&emsp;"(A) the most promising directed energy missile defense technologies available for co-development with the Government of Israel;
+
+&emsp;&emsp;"(B) any risks relating to the implementation of a directed energy missile defense technology co-development program with the Government of Israel;
+
+&emsp;&emsp;"(C) an anticipated spending plan for fiscal year 2024 funding authorized by the National Defense Authorization Act for Fiscal Year 2024 \[Pub. L. 118–31, see Tables for classification\] to carry out this section; and
+
+&emsp;&emsp;"(D) initial projections for likely funding requirements to carry out a directed energy missile defense technology co-development program with the Government of Israel over the five fiscal years beginning after the date of the enactment this subsection, as applicable.
+
+&emsp;"(2)
+
+Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Affairs of the House of Representatives."
 
 #### United States-Israel Cooperation To Counter Unmanned Aerial Systems
 
-Pub. L. 116–92, div. A, title XII, §1278, Dec. 20, 2019, 133 Stat. 1702, as amended by Pub. L. 117–263, div. A, title XII, §1277, Dec. 23, 2022, 136 Stat. 2867, provided that:
+Pub. L. 116–92, div. A, title XII, §1278, Dec. 20, 2019, 133 Stat. 1702, as amended by Pub. L. 117–263, div. A, title XII, §1277, Dec. 23, 2022, 136 Stat. 2867; Pub. L. 118–31, div. A, title XII, §1253, Dec. 22, 2023, 137 Stat. 467, provided that:
 
 "(a)
 
@@ -268,7 +292,7 @@ Exception.—Subject to paragraph (4), the Secretary may use amounts available t
 
 &emsp;"(4)
 
-Annual limitation on amount.—The amount of support provided under this subsection in any year may not exceed $40,000,000.
+Annual limitation on amount.—The amount of support provided under this subsection in any year may not exceed $55,000,000.
 
 &emsp;"(5)
 
@@ -288,7 +312,7 @@ Appropriate Committees of Congress Defined.—In this section, the term 'appropr
 
 &emsp;"(1) the Committee on Armed Services, the Committee on Foreign Relations, the Committee on Homeland Security, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and
 
-&emsp;"(2) the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Homeland Security, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.
+&emsp;"(2) the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Homeland Security, the Committee on Appropriations, andthe Permanent Select Committee on Intelligence of the House of Representatives.
 
 "(f)
 
@@ -296,7 +320,7 @@ Sunset.—The authority in this section to carry out activities described in sub
 
 #### United States-Israel Anti-Tunnel Cooperation
 
-Pub. L. 114–92, div. A, title XII, §1279, Nov. 25, 2015, 129 Stat. 1079, as amended by Pub. L. 114–328, div. A, title XII, §1295(a), (b), Dec. 23, 2016, 130 Stat. 2562; Pub. L. 115–91, div. A, title XII, §1278(a), Dec. 12, 2017, 131 Stat. 1700; Pub. L. 115–232, div. A, title XII, §1272(a), Aug. 13, 2018, 132 Stat. 2066; Pub. L. 116–92, div. A, title XII, §1279, Dec. 20, 2019, 133 Stat. 1703, provided that:
+Pub. L. 114–92, div. A, title XII, §1279, Nov. 25, 2015, 129 Stat. 1079, as amended by Pub. L. 114–328, div. A, title XII, §1295(a), (b), Dec. 23, 2016, 130 Stat. 2562; Pub. L. 115–91, div. A, title XII, §1278(a), Dec. 12, 2017, 131 Stat. 1700; Pub. L. 115–232, div. A, title XII, §1272(a), Aug. 13, 2018, 132 Stat. 2066; Pub. L. 116–92, div. A, title XII, §1279, Dec. 20, 2019, 133 Stat. 1703; Pub. L. 118–31, div. A, title XII, §1252, Dec. 22, 2023, 137 Stat. 467, provided that:
 
 "(a)
 
@@ -370,7 +394,7 @@ Appropriate Committees of Congress Defined.—In this section, the term 'appropr
 
 "(f)
 
-Sunset.—The authority in this section to carry out activities described in subsection (a), and to provide support described in subsection (b), shall expire on December 31, 2024."
+Sunset.—The authority in this section to carry out activities described in subsection (a), and to provide support described in subsection (b), shall expire on December 31, 2026."
 
 #### Constructive Regional Energy Cooperation
 

@@ -6,7 +6,7 @@ Any and all reports required to be submitted to the appropriate congressional co
 
 #### (b) Contents
 
-Any reports consolidated under subsection (a) shall contain all information required under this subtitle <sup>1</sup> or an amendment made by this subtitle and any other elements that may be required by existing law.
+Any reports consolidated under subsection (a) shall contain all information required under thissubtitle <sup>1</sup> or an amendment made by this subtitle and any other elements that may be required by existing law.
 
 (Pub. L. 116–92, div. F, title LXXI, §7142, Dec. 20, 2019, 133 Stat. 2255.)
 

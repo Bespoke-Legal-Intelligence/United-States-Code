@@ -2,7 +2,7 @@
 
 #### (a) Disbursement by State educational agency
 
-Funds paid to any State during any fiscal year pursuant to section 1753 of this title shall be disbursed by the State educational agency, in accordance with such agreements approved by the Secretary, as may be entered into by such State agency and the schools in the State, to thoseschools in the State which the State educational agency, taking into account need and attendance, determines are eligible to participate in the school lunch program.
+Funds paid to any State during any fiscal year pursuant to section 1753 of this title shall be disbursed by the State educational agency, in accordance with such agreements approved by the Secretary, as may be entered into by such State agency and the schools in the State, to those schools in the State which the State educational agency, taking into account need and attendance, determines are eligible to participate in the school lunch program.
 
 #### (b) Permanent, amendable agreements
 
@@ -48,7 +48,7 @@ Pub. L. 101–147, §201, inserted after first sentence "The agreements describe
 
 <b>1977</b>—Pub. L. 95–166 substituted "food service equipment assistance" for "nonfood assistance".
 
-<b>1973</b>—Pub. L. 93–150 provided that in any fiscal year in which the national average payment per lunch determined under section 1753 of this title is increased above the amount prescribed in the previous fiscal year, the maximum Federal food-cost contribution rate, for the type of lunch served, shall be increased by a like amount.
+<b>1973</b>—Pub. L. 93–150 provided that in any fiscal year in which the national average payment per lunch determined under section 1753 of this title is increased above the amount prescribed in the previous fiscal year, the maximum Federal food-cost contribution rate, for thetype of lunch served, shall be increased by a like amount.
 
 <b>1972</b>—Pub. L. 92–433 substituted provision that disbursement to schools be made for the purpose of assisting them to finance the costs of agricultural commodities, for provision that such disbursement be made for the purpose of reimbursing them for such costs and inserted provision that lunch assistance disbursements to schools under this section and section 1759a of this title may be made in advance or by way of reimbursement according to procedure prescribed by the Secretary.
 

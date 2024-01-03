@@ -4,7 +4,7 @@
 
 (1) Any hospital which has an agreement under section 1395cc of this title may (subject to subsection (b)) enter into an agreement with the Secretary under which its inpatient hospital facilities may be used for the furnishing of services of the type which, if furnished by a skilled nursing facility, would constitute extended care services.
 
-(2)(A) Notwithstanding any other provision of this subchapter, payment to any hospital (other than a critical access hospital) for services furnished under an agreement entered into under this section shall be based upon the reasonable cost of the services as determined under subparagraph (B).
+(2)(A) Notwithstanding any other provision of this subchapter, payment to any hospital (otherthan a critical access hospital) for services furnished under an agreement entered into under this section shall be based upon the reasonable cost of the services as determined under subparagraph (B).
 
 (B)(i) The reasonable cost of the services consists of the reasonable cost of routine services (determined under clause (ii)) and the reasonable cost of ancillary services (determined under clause (iii)).
 
@@ -42,7 +42,7 @@ A hospital which enters into an agreement with the Secretary under this section 
 
 The Secretary may enter into an agreement under this section on a demonstration basis with any hospital which does not meet the requirement of subsection (b)(1), if the hospital otherwise meets the requirements of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1883, as added Pub. L. 96–499, title IX, §904(a)(1), Dec. 5, 1980, 94 Stat. 2615; amended Pub. L. 100–203, title IV, §§4005(b)(1), (2), 4201(d)(3), Dec. 22, 1987, 101 Stat. 1330–48, as amended Pub. L. 100–360, title IV, §411(l)(1)(C), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(6), title IV, §411(b)(4)(D), July 1, 1988, 102 Stat. 689, 770; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–508, title IV, §4008(j)(1), Nov. 5, 1990, 104 Stat. 1388–51; Pub. L. 105–33, title IV, §4432(b)(5)(G), Aug. 5, 1997, 111 Stat. 422; Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §§403(f), 408(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–371, 1501A–375; Pub. L. 106–554, §1(a)(6) \[title II, §203(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–482; Pub. L. 108–173, title IV, §405(a)(1), Dec. 8, 2003, 117 Stat. 2266.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1883, as added Pub. L. 96–499, title IX, §904(a)(1), Dec. 5, 1980, 94 Stat. 2615; amended Pub. L. 100–203, title IV, §§4005(b)(1), (2), 4201(d)(3), Dec. 22, 1987, 101 Stat. 1330–48, as amended Pub. L. 100–360, title IV, §411(l)(1)(C), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(6), title IV, §411(b)(4)(D), July 1, 1988, 102 Stat. 689, 770; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–508, title IV, §4008(j)(1), Nov. 5, 1990, 104 Stat. 1388–51; Pub. L. 105–33, titleIV, §4432(b)(5)(G), Aug. 5, 1997, 111 Stat. 422; Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §§403(f), 408(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–371, 1501A–375; Pub. L. 106–554, §1(a)(6) \[title II, §203(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–482; Pub. L. 108–173, title IV, §405(a)(1), Dec. 8, 2003, 117 Stat. 2266.)
 
 #### <b>Editorial Notes</b>
 
@@ -70,7 +70,7 @@ Subsec. (d). Pub. L. 106–113, §1000(a)(6) \[title IV, §408(b)\], struck out 
 
 <b>1990</b>—Subsec. (a)(2)(B)(ii)(II). Pub. L. 101–508 substituted "the most recent year for which cost reporting data are available with respect to such services (increased in a compounded manner by the applicable increase for payments for routine service costs of skilled nursing facilities under section 1395yy of this title for subsequent cost reporting periods and up to and including such calendar year) under this subchapter to freestanding skilled nursing facilities in the region (as defined in section 1395ww(d)(2)(D) of this title) in which the facility is located." for "the previous calendar year" and all that follows through the period, which was executed by making the substitution for "the previous calendar year under the State plan (of the State in which the hospital is located) under subchapter XIX of this chapter to skilled nursing facilities located in the State and which meet the requirements specified in section 1396a(a)(28) of this title, or, in the case of a hospital located in a State which does not have such a State plan, the average rate per patient-day paid for routine services during the previous calendar year under this subchapter to skilled nursing facilities in such State."
 
-<b>1989</b>—Subsecs. (d)(1), (f). Pub. L. 101–234 repealed Pub. L. 100–360, §104(d)(6), and provided that the provisions of law amended or repealed by such section are restoredor revived as if such section had not been enacted, see 1988 Amendment notes below.
+<b>1989</b>—Subsecs. (d)(1), (f). Pub. L. 101–234 repealed Pub. L. 100–360, §104(d)(6), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
 
 <b>1988</b>—Subsec. (d)(1). Pub. L. 100–360, §104(d)(6), struck out "post-hospital" before "extended care services" wherever appearing.
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 101(d) of Pub
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Amendment by section 104(d)(6) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
+Amendment by section 104(d)(6) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 andsucceeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(b)(4)(D), (l)(1)(C) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 

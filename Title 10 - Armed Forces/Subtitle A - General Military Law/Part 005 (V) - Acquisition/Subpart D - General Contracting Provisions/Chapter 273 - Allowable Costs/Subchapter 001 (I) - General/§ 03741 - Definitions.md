@@ -36,7 +36,7 @@ A prior section 3741 was renumbered section 7271 of this title.
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §1832(b)(1)–(3), redesignated pars. (4), (1)(A), (6), (2), and (3) of section 2324(l) of this title as pars. (1) to (5), respectively, of this section and inserted headings.
+<b>2021</b>—Pub. L. 116–283, §1832(b)(1)–(3), redesignated pars. (4), (1)(A), (6), (2), and (3) of section 2324(l) of thistitle as pars. (1) to (5), respectively, of this section and inserted headings.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

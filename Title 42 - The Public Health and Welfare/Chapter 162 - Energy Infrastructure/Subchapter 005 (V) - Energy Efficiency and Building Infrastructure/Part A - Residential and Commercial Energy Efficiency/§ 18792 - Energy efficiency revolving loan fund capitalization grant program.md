@@ -196,7 +196,7 @@ A State seeking a capitalization grant under the program shall submit to the Sec
 
 &emsp;&emsp;&emsp;&emsp;(bb)(AA) reduce the energy intensity of the building or facility of the eligible recipient; or
 
-&emsp;&emsp;&emsp;&emsp;(BB) improve the control and management of energy usage of the building or facility to reduce demand during peak times.
+&emsp;&emsp;&emsp;&emsp;(BB) improve the control and management of energy usage of the building orfacility to reduce demand during peak times.
 
 #### (ii) Eligible recipients
 
@@ -258,7 +258,7 @@ A State seeking a capitalization grant under the program shall submit to the Sec
 
 #### (4) Final assessment
 
-&emsp;A State that provides a capitalization grant under paragraph (2)(C) to an eligible recipient described in clause (ii) of that paragraph may, not later than 1 year after the date on which the upgrades or retrofits funded by the grant under that paragraph are completed, provideto the eligible recipient a loan or, in accordance with paragraph (3), a grant to conduct a final energy audit that assesses the total energy savings from the upgrades or retrofits.
+&emsp;A State that provides a capitalization grant under paragraph (2)(C) to an eligible recipient described in clause (ii) of that paragraph may, not later than 1 year after the date on which the upgrades or retrofits funded by the grant under that paragraph are completed, provide to the eligible recipient a loan or, in accordance with paragraph (3), a grant to conduct a final energy audit that assesses the total energy savings from the upgrades or retrofits.
 
 #### (5) Administrative expenses
 

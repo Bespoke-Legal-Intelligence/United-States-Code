@@ -46,7 +46,7 @@ In computing taxable investment income, the following deductions shall be allowe
 
 #### (6) Capital losses
 
-&emsp;Capital losses to the extent provided in subchapter P (sec. 1201 and following) plus losses from capital assets sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders. Capital assets shall be considered as sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders to the extent that the gross receipts from their sale or exchange are not greater than the excess, if any, for the taxable year of the sum of dividends and similar distributions paid to policyholders, losses paid, and expenses paid over the sum of the items described in subsection (b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212 for purposes of this section, the net capital loss for the taxable year shall be the amount by which losses for such year from sales or exchanges of capital assets exceeds the sum of the gains from such sales or exchanges and whichever of the following amounts is the lesser:
+&emsp;Capital losses to the extent provided in subchapter P (sec. 1201 and following) plus losses from capital assets sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders. Capital assets shall be considered assold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders to the extent that the gross receipts from their sale or exchange are not greater than the excess, if any, for the taxable year of the sum of dividends and similar distributions paid to policyholders, losses paid, and expenses paid over the sum of the items described in subsection (b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212 for purposes of this section, the net capital loss for the taxable year shall be the amount by which losses for such year from sales or exchanges of capital assets exceeds the sum of the gains from such sales or exchanges and whichever of the following amounts is the lesser:
 
 &emsp;&emsp;(A) the taxable investment income (computed without regard to gains or losses from sales or exchanges of capital assets); or
 
@@ -110,7 +110,7 @@ For purposes of this part—
 
 <b>1986</b>—Pub. L. 99–514, §1024(a)(3), renumbered section 822 of this title as this section.
 
-Subsec. (a). Pub. L. 99–514, §1024(c)(7), amended subsec. (a) generally. Prior to amendment, subsec. (a), definitions, read as follows: "For purposes of this part—
+Subsec. (a). Pub. L. 99–514, §1024(c)(7), amended subsec. (a) generally. Prior to amendment, subsec. (a),definitions, read as follows: "For purposes of this part—
 
 &emsp;"(1) The term 'taxable investment income' means the gross investment income, minus the deductions provided in subsection (c).
 
@@ -136,7 +136,7 @@ Subsec. (d)(2). Pub. L. 94–455, §§1901(a)(105)(B), (b)(1)(S), 1906(b)(13)(A)
 
 Subsec. (a). Pub. L. 87–834, §8(b)(1), defined "taxable investment income" and "investment loss" for purposes of this part, and struck out provisions which defined "mutual insurance company taxable income" for purposes of section 821 of this title, which provisions are now contained in section 821(b) of this title.
 
-Subsec. (c). Pub. L. 87–834, §8(b)(2), (3), substituted "taxable investment income" for "mutual insurancecompany taxable income" in opening provisions and in pars. (2) and (6)(A), and inserted sentence in par. (7) providing that in applying section 246(b) (relating to limitations on aggregate amount of deductions for dividends received) for purposes of par. (7), reference in such section to "taxable income" shall be treated as a reference to "taxable investment income".
+Subsec. (c). Pub. L. 87–834, §8(b)(2), (3), substituted "taxable investment income" for "mutual insurance company taxable income" in opening provisions and in pars. (2) and (6)(A), and inserted sentence in par. (7) providing that in applying section 246(b) (relating to limitations on aggregate amount of deductions for dividends received) for purposes of par. (7), reference in such section to "taxable income" shall be treated as a reference to "taxable investment income".
 
 Subsec. (e). Pub. L. 87–834, §8(b)(2), substituted "taxable investment income" for "mutual insurance company taxable income".
 

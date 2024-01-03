@@ -16,7 +16,7 @@
 
 (d) For the purpose of this section, the total commissioned service of an officer who has served continuously in the Reserve following appointment in the grade of ensign shall be computed from the date on which that appointment to the Reserve was accepted. A Reserve officer initially appointed in a grade above ensign is considered to have the actual total commissioned service performed in a grade above commissioned warrant officer or the same total commissioned service as an officer of the Regular Coast Guard who has served continuously from an original appointment as ensign, who has not lost numbers or precedence, and who is, or was, junior to the Reserve officer, whichever is greater.
 
-(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1013, §740; amended Pub. L. 97–417, §2(15), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 103–337, div. A, title XVI, §1677(b)(5), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 112–213, title II, §217(14), Dec. 20, 2012, 126 Stat. 1558; renumbered §3751, Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233.)
+(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1013, §740; amended Pub. L. 97–417, §2(15), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 103–337, div. A, title XVI, §1677(b)(5), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 112–213, title II, §217(14),Dec. 20, 2012, 126 Stat. 1558; renumbered §3751, Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233.)
 
 #### <b>Editorial Notes</b>
 

@@ -8,7 +8,7 @@ In order to provide for prompt payment and satisfaction of net equity claims of 
 
 &emsp;(2) a customer who holds accounts with the debtor in separate capacities shall be deemed to be a different customer in each capacity;
 
-&emsp;(3) if all or any portion of the net equity claim of a customer in excess of his ratable share of customer property is satisfied by the delivery of securities purchased by the trustee pursuant to section 78fff–2(d) of this title, the securities so purchased shall be valued as ofthe filing date for purposes of applying the dollar limitations of this subsection;
+&emsp;(3) if all or any portion of the net equity claim of a customer in excess of his ratable share of customer property is satisfied by the delivery of securities purchased by the trustee pursuant to section 78fff–2(d) of this title, the securities so purchased shall be valued as of the filing date for purposes of applying the dollar limitations of this subsection;
 
 &emsp;(4) no advance shall be made by SIPC to the trustee to pay or otherwise satisfy, directly or indirectly, any net equity claim of a customer who is a general partner, officer, or director of the debtor, a beneficial owner of five per centum or more of any class of equity security of the debtor (other than a nonconvertible stock having fixed preferential dividend and liquidation rights), a limited partner with a participation of five per centum or more in the net assets or net profits of the debtor, or a person who, directly or indirectly and through agreement or otherwise, exercised or had the power to exercise a controlling influence over the management or policies of the debtor; and
 

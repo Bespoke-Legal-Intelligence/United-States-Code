@@ -12,7 +12,7 @@ Retroactive Applicability to Certain Debts.—The authority in subsection (a) ma
 
 Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 273, §4837; Pub. L. 85–861, §33(a)(27), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(10), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §512(24)(A), (B), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 109–163, div. A, title VI, §683(a)(1), Jan. 6, 2006, 119 Stat. 3322; Pub. L. 109–364, div. A, title VI, §673(a)(1), (2), (e)(1), Oct. 17, 2006, 120 Stat. 2271, 2272; Pub. L. 110–181, div. A, title X, §1063(c)(7)(A), Jan. 28, 2008, 122 Stat. 323; Pub. L. 114–328, div. A, title VI, §671(b)(1), Dec. 23, 2016, 130 Stat. 2173; renumbered §7837, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 273, §4837; Pub. L. 85–861, §33(a)(27), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(10), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §512(24)(A), (B), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 109–163, div. A, title VI, §683(a)(1), Jan. 6, 2006, 119 Stat. 3322; Pub. L. 109–364, div. A, title VI, §673(a)(1), (2), (e)(1), Oct. 17, 2006, 120 Stat. 2271, 2272; Pub. L. 110–181, div. A, title X, §1063(c)(7)(A), Jan. 28, 2008, 122 Stat. 323; Pub. L. 114–328, div. A, title VI, §671(b)(1),Dec. 23, 2016, 130 Stat. 2173; renumbered §7837, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 Historical and Revision Notes<br>1956
 
@@ -138,7 +138,7 @@ Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, pro
 
 #### Termination Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title VI, §683(a)(3), Jan. 6, 2006, 119 Stat. 3322, which provided for termination of amendments by Pub. L. 109–163, §683(a), amending this section and the analysis to this chapter, on Dec. 31, 2007, and restoration of provisions as in effect on the day before Jan. 6, 2006, was repealed by Pub. L. 109–364, div. A, title VI, §673(a)(3), Oct. 17, 2006, 120 Stat. 2271.
+Pub. L. 109–163, div. A, title VI, §683(a)(3), Jan. 6, 2006, 119 Stat. 3322, which provided for termination of amendments by Pub. L. 109–163, §683(a), amending thissection and the analysis to this chapter, on Dec. 31, 2007, and restoration of provisions as in effect on the day before Jan. 6, 2006, was repealed by Pub. L. 109–364, div. A, title VI, §673(a)(3), Oct. 17, 2006, 120 Stat. 2271.
 
 #### Effective Date of 1980 Amendment
 

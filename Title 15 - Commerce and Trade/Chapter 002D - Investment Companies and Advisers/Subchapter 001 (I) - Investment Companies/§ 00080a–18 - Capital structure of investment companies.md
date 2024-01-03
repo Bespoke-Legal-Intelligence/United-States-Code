@@ -86,7 +86,7 @@ Notwithstanding any provision of this subchapter, it shall be unlawful, after Au
 
 The provisions of subparagraphs (A) and (B) of paragraph (1) of subsection (a) of this section shall not apply to investment companies operating under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\], and the provisions of paragraph (2) of said subsection shall not apply to such companies so long as such class of senior security shall be held or guaranteed by the Small Business Administration.
 
-(Aug. 22, 1940, ch. 686, title I, §18, 54 Stat. 817; Pub. L. 85–699, title III, §307(c), Aug. 21, 1958, 72 Stat. 694; Pub. L. 91–547, §10, Dec. 14, 1970, 84 Stat. 1421; Pub. L. 85–699, title III, §317, formerly §319, Aug. 21, 1958, as added Pub. L. 92–595, §2(g), Oct. 27, 1972, 86 Stat. 1316, renumbered §317, Pub. L. 104–208, div. D, title II, §208(h)(1)(E), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 94–29, §28(4), June4, 1975, 89 Stat. 165; Pub. L. 100–181, title VI, §613, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 105–353, title III, §301(c)(4), Nov. 3, 1998, 112 Stat. 3236.)
+(Aug. 22, 1940, ch. 686, title I, §18, 54 Stat. 817; Pub. L. 85–699, title III, §307(c), Aug. 21, 1958, 72 Stat. 694; Pub. L. 91–547, §10, Dec. 14, 1970, 84 Stat. 1421; Pub. L. 85–699, title III, §317, formerly §319, Aug. 21, 1958, as added Pub. L. 92–595, §2(g), Oct. 27, 1972, 86 Stat. 1316, renumbered §317, Pub. L. 104–208, div. D, title II, §208(h)(1)(E), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 94–29, §28(4), June 4, 1975, 89 Stat. 165; Pub. L. 100–181, title VI, §613, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 105–353, title III, §301(c)(4), Nov. 3, 1998, 112 Stat. 3236.)
 
 #### <b>Editorial Notes</b>
 

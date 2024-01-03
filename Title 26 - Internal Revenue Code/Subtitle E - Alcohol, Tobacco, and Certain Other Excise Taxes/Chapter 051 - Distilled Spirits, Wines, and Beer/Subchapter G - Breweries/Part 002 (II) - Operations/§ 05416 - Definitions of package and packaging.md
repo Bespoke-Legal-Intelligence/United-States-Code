@@ -18,5 +18,5 @@ A prior section 5416, act Aug. 16, 1954, ch. 736, 68A Stat. 676, consisted of pr
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 daysafter Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under section 5056 of this title.
+Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 days after Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under section 5056 of this title.
 

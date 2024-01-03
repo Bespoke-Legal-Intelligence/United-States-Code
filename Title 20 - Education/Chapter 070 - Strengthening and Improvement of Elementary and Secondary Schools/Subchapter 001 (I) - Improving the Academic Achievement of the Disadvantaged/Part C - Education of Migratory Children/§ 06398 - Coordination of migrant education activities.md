@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) immunization records and other health information;
 
-&emsp;&emsp;&emsp;(ii) elementary and secondary academic history (including partial credit), credit accrual, and results from State assessments under section 6311(b)(2) of this title;
+&emsp;&emsp;&emsp;(ii) elementary and secondary academic history (including partial credit), creditaccrual, and results from State assessments under section 6311(b)(2) of this title;
 
 &emsp;&emsp;&emsp;(iii) other academic information essential to ensuring that migratory children achieve to the challenging State academic standards; and
 
@@ -84,7 +84,7 @@ Subsec. (b)(2)(A)(iii). Pub. L. 114–95, §1301(g)(2)(B)(i)(III), substituted "
 
 Subsec. (b)(2)(B), (C). Pub. L. 114–95, §1301(g)(2)(B)(ii)–(iv), added subpar. (B), redesignated former subpar. (B) as (C), and in subpar. (C) substituted "any new proposed data elements" for "the proposed data elements" and struck out at end "Such publication shall occur not later than 120 days after January 8, 2002."
 
-Subsec. (b)(4). Pub. L. 114–95, §1301(g)(2)(C), struck out par. (4) which related to report to Congress not later than Apr. 30, 2003, on the Secretary's findings and recommendations regarding the maintenance and transferof health and educational information for migratory students by the States.
+Subsec. (b)(4). Pub. L. 114–95, §1301(g)(2)(C), struck out par. (4) which related to report to Congress not later than Apr. 30, 2003, on the Secretary's findings and recommendations regarding the maintenance and transfer of health and educational information for migratory students by the States.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

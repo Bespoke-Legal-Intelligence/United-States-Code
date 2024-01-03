@@ -2,7 +2,7 @@
 
 #### (a) Allowance of credit
 
-If the taxpayer chooses to have the benefits of this subpart, the tax imposed by this chapter shall, subject to the limitation of section 904, be credited with the amounts provided in the applicable paragraph of subsection (b) plus, in the case of a corporation, the taxes deemed to have been paid under section 960. Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year. The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 26(b).
+If the taxpayer chooses to have the benefits of this subpart, the tax imposed by this chaptershall, subject to the limitation of section 904, be credited with the amounts provided in the applicable paragraph of subsection (b) plus, in the case of a corporation, the taxes deemed to have been paid under section 960. Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year. The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 26(b).
 
 #### (b) Amount allowed
 
@@ -324,7 +324,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;&emsp;&emsp;Except as otherwise provided by the Secretary, in the case of the disposition of any relevant foreign asset—
 
-&emsp;&emsp;&emsp;&emsp;(I) the basis difference allocated to the taxable year which includes the date of such disposition shall be the excess of the basis difference with respect to such asset over the aggregate basis difference with respect to such asset which has been allocated under clause (i) to all prior taxable years, and
+&emsp;&emsp;&emsp;&emsp;(I) the basis difference allocated to the taxable year which includes the date ofsuch disposition shall be the excess of the basis difference with respect to such asset over the aggregate basis difference with respect to such asset which has been allocated under clause (i) to all prior taxable years, and
 
 &emsp;&emsp;&emsp;&emsp;(II) no basis difference with respect to such asset shall be allocated under clause (i) to any taxable year thereafter.
 
@@ -348,7 +348,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 #### (4) Relevant foreign assets
 
-&emsp;For purposes of this section, the term "relevant foreign asset" means, with respect toany covered asset acquisition, any asset (including any goodwill, going concern value, or other intangible) with respect to such acquisition if income, deduction, gain, or loss attributable to such asset is taken into account in determining the foreign income tax referred to in paragraph (1).
+&emsp;For purposes of this section, the term "relevant foreign asset" means, with respect to any covered asset acquisition, any asset (including any goodwill, going concern value, or other intangible) with respect to such acquisition if income, deduction, gain, or loss attributable to such asset is taken into account in determining the foreign income tax referred to in paragraph (1).
 
 #### (5) Foreign income tax
 
@@ -480,7 +480,7 @@ Subsec. (k). Pub. L. 99–509 redesignated former subsec. (j) as (k).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369, §612(e)(1), substituted "section 26(b)" for "section 25(b)".
 
-Pub. L. 98–369, §474(r)(20), substituted "The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 25(b)" for "The credit shall not be allowed against the tax imposed by section 56 (relating to corporate minimum tax), against the tax imposed for the taxable year under section 72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees) section 72(q)(1) (relating to 5-percent tax on premature distributions under annuity contracts),, against the tax imposed by section 402(e) (relating to tax on lump sum distributions), against the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), against the tax imposed by section 531 (relating to the tax on accumulated earnings), against the additional tax imposed for the taxable year under section 1351 (relating to recoveries of foreign expropriation losses), or against the personal holding company tax imposed by section 541".
+Pub. L. 98–369, §474(r)(20), substituted "The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 25(b)" for "The credit shall not be allowed against the tax imposed by section 56 (relating to corporate minimum tax), against the tax imposed for the taxable year under section 72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees) section 72(q)(1) (relating to 5-percent tax on premature distributions under annuity contracts),, against the tax imposed by section 402(e) (relating to tax on lump sum distributions), against the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), against thetax imposed by section 531 (relating to the tax on accumulated earnings), against the additional tax imposed for the taxable year under section 1351 (relating to recoveries of foreign expropriation losses), or against the personal holding company tax imposed by section 541".
 
 Pub. L. 98–369, §713(c)(1)(C), substituted "premature distributions to key employees" for "premature distributions to owner-employees".
 
@@ -502,7 +502,7 @@ Subsecs. (g), (h). Pub. L. 94–455, §§1051(d)(2), 1901(b)(1)(H)(iii), added s
 
 <b>1975</b>—Subsecs. (f), (g). Pub. L. 94–12 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–460 inserted references to the tax imposed for the taxable year under section72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees), the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), and the tax imposed by section 402(e) (relating to tax on lump sum distributions).
+<b>1974</b>—Subsec. (a). Pub. L. 93–460 inserted references to the tax imposed for the taxable year under section 72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees), the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), and the tax imposed by section 402(e) (relating to tax on lump sum distributions).
 
 <b>1971</b>—Subsec. (d). Pub. L. 92–178 inserted provision for treatment of dividends from a DISC or former DISC as dividends from a foreign corporation to the extent such dividends are treated under part I as income from sources without the United States.
 
@@ -594,7 +594,7 @@ Pub. L. 100–647, title II, §2003(c)(2), Nov. 10, 1988, 102 Stat. 3598, provid
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title X, §10231(c), Dec. 22, 1987, 101 Stat. 1330–419, provided that: "The amendments madeby this section \[amending this section\] shall apply to taxable years beginning after December 31, 1987."
+Pub. L. 100–203, title X, §10231(c), Dec. 22, 1987, 101 Stat. 1330–419, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1987."
 
 #### Effective Date of 1986 Amendments
 
@@ -662,7 +662,7 @@ Amendment by section 106(a)(4), (5) of Pub. L. 89–809 applicable with respect 
 
 Pub. L. 89–809, title I, §106(b)(4), Nov. 13, 1966, 80 Stat. 1570, provided that: "The amendments made by this subsection (other than paragraph (3)) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966. The amendment made by paragraph (3) \[amending section 2014 of this title\] shall apply with respect to estates of decedents dying after the date of enactment of this Act \[Nov. 13, 1966\]."
 
-Amendment by Pub. L. 89–384 applicable with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of this title) sustained after December 31, 1958,see section 2 of Pub. L. 89–384, set out as an Effective Date note under section 1351 of this title.
+Amendment by Pub. L. 89–384 applicable with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of this title) sustained after December 31, 1958, see section 2 of Pub. L. 89–384, set out as an Effective Date note under section 1351 of this title.
 
 #### Effective Date of 1964 Amendment
 

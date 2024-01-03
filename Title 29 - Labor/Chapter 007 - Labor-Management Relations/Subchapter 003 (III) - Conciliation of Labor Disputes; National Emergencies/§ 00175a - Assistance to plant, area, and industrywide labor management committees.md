@@ -40,7 +40,7 @@ Pub. L. 95–524, §6(b), Oct. 27, 1978, 92 Stat. 2020, provided that: "It is th
 
 &emsp;"(1) to improve communication between representatives of labor and management;
 
-&emsp;"(2) to provide workers and employers with opportunities to study and explore new and innovativejoint approaches to achieving organizational effectiveness;
+&emsp;"(2) to provide workers and employers with opportunities to study and explore new and innovative joint approaches to achieving organizational effectiveness;
 
 &emsp;"(3) to assist workers and employers in solving problems of mutual concern not susceptible to resolution within the collective bargaining process;
 

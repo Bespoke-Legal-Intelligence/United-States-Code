@@ -6,7 +6,7 @@ The President shall develop and implement a comprehensive sexual assault policy 
 
 &emsp;(1) includes a system for restricted and unrestricted reporting of sexual assault;
 
-&emsp;(2) mandates, for each Peace Corps country program, the designation of a Sexual Assault Response Liaison (SARL), who shall receive comprehensive training on procedures to respond to reports of sexual assault, with duties including ensuring that volunteers who are victims of sexual assault are moved to a safe environment and accompanying victims through the in-country response at the request of the victim;
+&emsp;(2) mandates, for each Peace Corps country program, the designation of a Sexual Assault Response Liaison (SARL), who shall receive comprehensive training on procedures to respond to reports of sexual assault, with duties including ensuring that volunteers who are victims of sexual assault are moved to a safeenvironment and accompanying victims through the in-country response at the request of the victim;
 
 &emsp;(3) requires any employee of the Peace Corps to immediately contact a Victim's Advocate upon receiving a report of sexual assault in accordance with the restricted and unrestricted reporting guidelines promulgated by the Peace Corps and require the Peace Corps to designate the staff at each post who shall be responsible for providing the services described in subsection (c);
 
@@ -16,7 +16,7 @@ The President shall develop and implement a comprehensive sexual assault policy 
 
 &emsp;(6) includes a guarantee that volunteers will not suffer loss of living allowances for reporting a sexual assault;
 
-&emsp;(7) maintains a record documenting the resignation of any employee or volunteer of thePeace Corps who resigns before a determination has been made regarding an alleged violation of the sexual misconduct policy or other serious policy violations;
+&emsp;(7) maintains a record documenting the resignation of any employee or volunteer of the Peace Corps who resigns before a determination has been made regarding an alleged violation of the sexual misconduct policy or other serious policy violations;
 
 &emsp;(8) takes into account the record maintained under paragraph (7) before such employee or volunteer is hired, enrolled, or otherwise invited to work with the Peace Corps;
 

@@ -32,7 +32,7 @@ From the amount reserved under section 7221a(b)(2) of this title, the Secretary 
 
 #### (3) Application requirements
 
-&emsp;An eligible entity desiring to receive a grant under this subsection shall submit an application to the Secretary at such time and in suchmanner as the Secretary may require. The application shall include the following:
+&emsp;An eligible entity desiring to receive a grant under this subsection shall submit an application to the Secretary at such time and in such manner as the Secretary may require. The application shall include the following:
 
 #### (A) Existing charter school data
 

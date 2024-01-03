@@ -24,7 +24,7 @@ Included Actions.—The appropriate actions referred to in subsection (a) shall 
 
 Coordination.—The Secretary of Defense shall, to the maximum extent practicable, pursue the attainment of the capabilities described in subsection (a) in coordination with the Administrator of the National Aeronautics and Space Administration and the Director of National Intelligence.
 
-(Added Pub. L. 108–136, div. A, title IX, §912(a)(1), Nov. 24, 2003, 117 Stat. 1565; Pub. L. 110–181, div. A, title IX, §931(a)(12), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(11), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 115–232, div. A, title XVI, §1603(a), Aug. 13, 2018, 132 Stat. 2105; Pub. L. 116–92, div. A, title XVII, §1731(a)(34), Dec. 20, 2019, 133 Stat. 1814.)
+(Added Pub. L. 108–136, div. A, title IX, §912(a)(1), Nov. 24, 2003, 117 Stat. 1565; Pub. L. 110–181, div. A, title IX, §931(a)(12), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(11), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub.L. 115–232, div. A, title XVI, §1603(a), Aug. 13, 2018, 132 Stat. 2105; Pub. L. 116–92, div. A, title XVII, §1731(a)(34), Dec. 20, 2019, 133 Stat. 1814.)
 
 #### <b>Editorial Notes</b>
 
@@ -132,7 +132,7 @@ Report.—Not later than 30 days after the date on which the Secretary enters in
 
 "(d)
 
-Briefing.—Not later than March 15, 2021, and quarterly thereafter through September 30, 2023, theSecretary shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the progress made by the Secretary in ensuring that full and open competition exists for phase three contracts, including—
+Briefing.—Not later than March 15, 2021, and quarterly thereafter through September 30, 2023, the Secretary shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the progress made by the Secretary in ensuring that full and open competition exists for phase three contracts, including—
 
 &emsp;"(1) a description of progress made to establish the requirements for phase three contracts, including such requirements that the Secretary determines cannot be met by the commercial market;
 
@@ -252,7 +252,7 @@ Requirement.—In carrying out the National Security Space Launch program, the S
 
 &emsp;"(3)
 
-Notification of solicitations for non-reusable launch vehicles.—Beginning March 1, 2019, if the Secretary proposes to issue a solicitation for a contract for space launch services for which the use of reusable launch vehicles is not eligible for the award of the contract, the Secretary shall notify in writing the appropriate congressional committees ofsuch proposed solicitation, including justifications for such ineligibility, by not later than 10 days after issuing such solicitation.
+Notification of solicitations for non-reusable launch vehicles.—Beginning March 1, 2019, if the Secretary proposes to issue a solicitation for a contract for space launch services for which the use of reusable launch vehicles is not eligible for the award of the contract, the Secretary shall notify in writing the appropriate congressional committees of such proposed solicitation, including justifications for such ineligibility, by not later than 10 days after issuing such solicitation.
 
 "(c)
 

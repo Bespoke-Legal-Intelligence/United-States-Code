@@ -126,7 +126,7 @@ Not reviewable.—A determination by the Attorney General under paragraph (2) or
 
 &emsp;(7)
 
-Memorandum of understanding.—To ensure the proper exercise of the law enforcement powers authorized by this subsection, the Offices of Inspector General described under paragraph (3) shall, not later than 180 days after November 25, 2002, collectively enter into a memorandum of understanding to establish an external review process for ensuring that adequate internal safeguards and management procedures continue to exist within each Office and within any Office that later receives an authorization under paragraph (2). The review process shall be established in consultation with the Attorney General, who shall be provided with a copy of the memorandum of understanding that establishes the review process. Under the review process, the exercise of the law enforcement powers by each Office of Inspector General shall be reviewed periodically by another Office of Inspector General or by a committee of Inspectors General. The results of each review shall be communicated in writing to the applicable Inspector General and to the Attorney General.
+Memorandum of understanding.—To ensure the proper exercise of the law enforcement powers authorized by this subsection, the Offices of Inspector General described under paragraph (3) shall, not later than 180 days after November 25, 2002, collectively enter into a memorandum of understanding to establish an external review process for ensuring that adequate internal safeguards and management procedures continue to exist within each Office and within any Office that later receives an authorization under paragraph (2). The review process shall be established in consultation with the Attorney General, who shall be provided with a copy of the memorandum of understanding that establishes the review process. Under the review process, the exercise of the law enforcementpowers by each Office of Inspector General shall be reviewed periodically by another Office of Inspector General or by a committee of Inspectors General. The results of each review shall be communicated in writing to the applicable Inspector General and to the Attorney General.
 
 &emsp;(8)
 
@@ -228,7 +228,7 @@ Definitions.—In this subsection, the terms "agency", "matching program", "reco
 
 &emsp;(2)
 
-Non-consideration of computerized comparisons as matching programs.—Forpurposes of section 552a of title 5 or any other provision of law, a computerized comparison of two or more automated Federal systems of records, or a computerized comparison of a Federal system of records with other records or non-Federal records, performed by an Inspector General or by an agency in coordination with an Inspector General in conducting an audit, investigation, inspection, evaluation, or other review authorized under this chapter shall not be considered a matching program.
+Non-consideration of computerized comparisons as matching programs.—For purposes of section 552a of title 5 or any other provision of law, a computerized comparison of two or more automated Federal systems of records, or a computerized comparison of a Federal system of records with other records or non-Federal records, performed by an Inspector General or by an agency in coordination with an Inspector General in conducting an audit, investigation, inspection, evaluation, or other review authorized under this chapter shall not be considered a matching program.
 
 &emsp;(3)
 
@@ -290,6 +290,10 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (a)(1)(C), are s
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Establishment of Inspectors General Criminal Investigator Academy and Inspectors General Forensic Laboratory
 
 Pub. L. 106–422, §2, Nov. 1, 2000, 114 Stat. 1873, as amended by Pub. L. 117–286, §4(b)(10), Dec. 27, 2022, 136 Stat. 4343, provided that:
@@ -316,7 +320,7 @@ Inspectors General Forensic Laboratory.—
 
 &emsp;"(1)
 
-Establishment.—There is established the Inspectors General Forensic Laboratory within the Department of the Treasury. The Inspectors General Forensic Laboratory is established for the purpose ofperforming forensic services for offices of inspectors general created under chapter 4 of title 5, United States Code.
+Establishment.—There is established the Inspectors General Forensic Laboratory within the Department of the Treasury. The Inspectors General Forensic Laboratory is established for the purpose of performing forensic services for offices of inspectors general created under chapter 4 of title 5, United States Code.
 
 &emsp;"(2)
 

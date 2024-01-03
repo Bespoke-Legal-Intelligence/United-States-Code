@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [5000\.](%C2%A7%2005000%20-%20Certain%20group%20health%20plans.md) | Certain group health plans. |
+| [5000\.](%C2%A7%2005000%20-%20Certain%20group%20health%20plans.md) | Certain group health plans.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

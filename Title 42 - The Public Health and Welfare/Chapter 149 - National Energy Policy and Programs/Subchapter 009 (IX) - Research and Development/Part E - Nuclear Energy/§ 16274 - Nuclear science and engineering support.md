@@ -162,25 +162,37 @@ In general.—In carrying out the program under this subsection, the Secretary m
 
 &emsp;&emsp;The term "Tribal College or University" has the meaning given such term in section 1059c of title 20.
 
-#### (b) Nuclear energy graduate traineeship subprogram
+#### (b) Nuclear energy traineeship subprogram
 
 #### (1) Establishment
 
-&emsp;In carrying out the program under subsection (a), the Secretary shall establish a nuclear energy graduate traineeship subprogram under which the Secretary shall competitively award graduate traineeships in coordination with universities to provide focused, advanced training to meet critical mission needs of the Department, including in industries that are represented by skilled labor unions.
+&emsp;In carrying out the program under subsection (a), the Secretary shall establish a nuclear energy traineeship subprogram under which the Secretary shall competitively award traineeships in coordination with universities to provide focused, advanced training to meet critical mission needs of the Department, including in industries that are represented by skilled labor unions.
 
 #### (2) Requirements
 
 &emsp;In carrying out the subprogram under this subsection, the Secretary shall—
 
-&emsp;&emsp;(A) encourage appropriate partnerships among National Laboratories, affected universities, and industry; and
+&emsp;&emsp;(A) encourage appropriate partnerships among National Laboratories, affected universities, community colleges, trade schools, registered apprenticeship programs, pre-apprenticeship programs, and industry; and
 
-&emsp;&emsp;(B) on an annual basis, evaluate the needs of the nuclear energy community to implement graduate traineeships for focused topical areas addressing mission-specific workforce needs.
+&emsp;&emsp;(B) on an annual basis, evaluate the needs of the nuclear energy community to implement traineeships for focused topical areas addressing mission-specific workforce needs.
 
-#### (3) Authorization of appropriations
+&emsp;&emsp;(A) <sup>2</sup>
 
-&emsp;There are authorized to be appropriated to the Secretary to carry out the subprogram under this subsection $5,000,000 for each of fiscal years 2021 through 2025.
+Focus areas.—In carrying out the subprogram under this subsection, the Secretary may implement traineeships in focus areas that, in the determination of the Secretary, are necessary to support the nuclear energy sector in the United States, including—
 
-(Pub. L. 109–58, title IX, §954, Aug. 8, 2005, 119 Stat. 886; Pub. L. 115–248, §2(d), Sept. 28, 2018, 132 Stat. 3155; Pub. L. 116–260, div. Z, title II, §2003(c), Dec. 27, 2020, 134 Stat. 2463; Pub. L. 117–58, div. D, title X, §41002(b)(2), Nov. 15, 2021, 135 Stat. 1128; Pub. L. 117–167, div. B, title VI, §§10743, 10744, Aug. 9, 2022, 136 Stat. 1718, 1719; Pub. L. 117–263, div. E, title LIX, §5914(2), Dec. 23, 2022, 136 Stat. 3449.)
+&emsp;&emsp;&emsp;(i) research and development;
+
+&emsp;&emsp;&emsp;(ii) construction and operation;
+
+&emsp;&emsp;&emsp;(iii) associated supply chains; and
+
+&emsp;&emsp;&emsp;(iv) workforce training and retraining to support transitioning workforces.
+
+#### (4) <sup>3</sup> Authorization of appropriations
+
+&emsp;There are authorized to be appropriated to the Secretary to carry out the subprogram under this subsection $5,000,000 for each of fiscal years 2023 through 2027.
+
+(Pub. L. 109–58, title IX, §954, Aug. 8, 2005, 119 Stat. 886; Pub. L. 115–248, §2(d), Sept. 28, 2018, 132 Stat. 3155; Pub. L. 116–260, div. Z, title II, §2003(c), Dec. 27, 2020, 134 Stat. 2463; Pub. L. 117–58, div. D, title X, §41002(b)(2), Nov. 15, 2021, 135 Stat. 1128; Pub. L. 117–167, div. B, title VI, §§10743, 10744, Aug. 9, 2022, 136 Stat. 1718, 1719; Pub. L. 117–263, div. E, title LIX, §5914(2), Dec. 23, 2022, 136 Stat. 3449; Pub. L. 118–31, div. C, title XXXI, §3131(p)(2), Dec. 22, 2023, 137 Stat. 803.)
 
 #### <b>Editorial Notes</b>
 
@@ -189,6 +201,18 @@ In general.—In carrying out the program under this subsection, the Secretary m
 Section 502 of the America COMPETES Reauthorization Act of 2010, referred to in subsec. (a)(9)(C), is section 502 of Pub. L. 111–358, which is set out as a note under section 1862p of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b). Pub. L. 118–31, §3131(p)(2)(A), struck out "graduate" before "traineeship" in heading.
+
+Subsec. (b)(1). Pub. L. 118–31, §3131(p)(2)(B), struck out "graduate" before "traineeship" and before "traineeships".
+
+Subsec. (b)(2)(A). Pub. L. 118–31, §3131(p)(2)(F), added subpar. (A) relating to focus areas. Amendment directing addition of subpar. (A) "after paragraph (2)" was executed by adding subpar. (A) at end of par. (2).
+
+Pub. L. 118–31, §3131(p)(2)(C), inserted "community colleges, trade schools, registered apprenticeship programs, pre-apprenticeship programs," after "affected universities," in subpar. (A) relating to appropriate partnerships among National Laboratories.
+
+Subsec. (b)(2)(B). Pub. L. 118–31, §3131(p)(2)(B), struck out "graduate" before "traineeships".
+
+Subsec. (b)(3), (4). Pub. L. 118–31, §3131(p)(2)(D), (E), substituted "2023 through 2027" for "2021 through 2025" in par. (3) and then redesignated par. (3) as (4).
 
 <b>2022</b>—Subsec. (a)(2)(D). Pub. L. 117–167, §10743(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "encourage collaborative nuclear research among industry, National Laboratories, and universities; and".
 
@@ -206,7 +230,7 @@ Subsec. (a)(5). Pub. L. 117–167, §10744(2), added par. (5). Former par. (5) r
 
 Subsec. (a)(5)(E), (F). Pub. L. 117–263 added subpar. (E) and redesignated former subpar. (E) as (F).
 
-Subsec. (a)(6) to (8). Pub. L. 117–167, §10744(1), redesignated pars. (5) to (7) as (6) to (8), respectively. Former par. (8) redesignated (9).
+Subsec. (a)(6) to (8). Pub. L. 117–167, §10744(1), resignated pars. (5) to (7) as (6) to (8), respectively. Former par. (8) redesignated (9).
 
 Subsec. (a)(9). Pub. L. 117–167, §10744(1), (3), redesignated par. (8) as (9) and amended it generally. Prior to amendment, par. defined "junior faculty".
 
@@ -222,7 +246,7 @@ Subsec. (b). Pub. L. 116–260, §2003(c)(11), added subsec. (b).
 
 Pub. L. 116–260, §2003(c)(7), redesignated subsec. (b) as par. (2).
 
-Pub. L. 116–260, §2003(c)(2), substituted "this subsection" for "this section" in introductory provisions, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and realigned margins.
+Pub. L. 116–260, §2003(c)(2), substituted "this subsection" for "this section" in introductory provisions,redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and realigned margins.
 
 Subsec. (c). Pub. L. 116–260, §2003(c)(7), redesignated subsec. (c) as par. (3).
 
@@ -267,4 +291,8 @@ Pub. L. 117–167, div. B, title VI, §10742, Aug. 9, 2022, 136 Stat. 1718, prov
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably means "paragraph (4)(A)(iii)".</i>
+
+<i><sup>2</sup></i><i> So in original. There are two subpars. (A). Probably should be designated par. (3).</i>
+
+<i><sup>3</sup></i><i> So in original. There is no par. (3).</i>
 

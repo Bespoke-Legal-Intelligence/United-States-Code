@@ -2,7 +2,7 @@
 
 (a)(1) There is a Deputy Judge Advocate General of the Navy who is appointed by the President from among judge advocates of the Navy and Marine Corps who have the qualifications prescribed for the Judge Advocate General.
 
-(2) Under regulations prescribed by the Secretary of Defense, the Secretary of the Navy, in selecting an officer for recommendation to the President for appointment as the Deputy Judge Advocate General, shall ensure that the officer selected is recommended by a board of officersthat, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
+(2) Under regulations prescribed by the Secretary of Defense, the Secretary of the Navy, in selecting an officer for recommendation to the President for appointment as the Deputy Judge Advocate General, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
 (3) If the Secretary of the Navy elects to convene a selection board under section 611(a) of this title to consider eligible officers for selection to appointment as Deputy Judge Advocate General, the Secretary may, in connection with such consideration for selection—
 

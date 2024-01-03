@@ -14,7 +14,7 @@ The functions and powers of the Office shall be vested in or delegated to the Di
 
 #### (d) Access to Director by Congress; requests for appropriations
 
-(1) The Director shall be available to the Congress to provide testimony on such subjectsunder his authority and responsibility as the Congress may request, including but not limited to energy information and analyses thereof.
+(1) The Director shall be available to the Congress to provide testimony on such subjects under his authority and responsibility as the Congress may request, including but not limited to energy information and analyses thereof.
 
 (2) Any request for appropriations for the Federal Energy Administration submitted to the Congress shall identify the portion of such request intended for the support of the Office, and a statement of the differences, if any, between the amounts requested and the Director's assessment of the budgetary needs of the Office.
 
@@ -28,7 +28,7 @@ Section effective 150 days after Aug. 14, 1976, see section 143 of Pub. L. 94–
 
 #### Transfer of Functions
 
-Functions assigned to Director of Office of Energy Information and Analysis under this subchapter vested in Administrator of Energy Information Administration within Department of Energy by section 7135(c) of Title 42, The Public Health and Welfare.
+Functions assigned to Director of Office of Energy Information and Analysis under this subchapter vested inAdministrator of Energy Information Administration within Department of Energy by section 7135(c) of Title 42, The Public Health and Welfare.
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42.
 

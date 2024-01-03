@@ -46,7 +46,7 @@
 
 #### (5) Exclusive means of review
 
-&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, a petition for review filed with an appropriate court of appeals in accordance with this section shall be the sole and exclusive means for judicial review of an order of removal entered or issued under any provision of this chapter, except as provided in subsection (e). For purposes of this chapter, in every provision that limits or eliminates judicial review or jurisdiction to review, the terms "judicial review" and "jurisdiction to review" include habeas corpus review pursuant to section 2241 of title 28, or any other habeas corpus provision, sections 1361 and 1651 of such title, and review pursuant to any other provision of law (statutory or nonstatutory).
+&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, a petition for review filed with an appropriate court of appeals in accordance with this section shall be the sole and exclusive means for judicial review of an order of removal entered or issued under any provision of this chapter, except as provided in subsection (e). For purposes of this chapter, in every provision that limits or eliminates judicial review or jurisdiction to review, the terms "judicial review" and "jurisdiction to review" include habeas corpus review pursuant to section 2241 of title 28, or any other habeas corpus provision, sections 1361 and 1651 of such title, and reviewpursuant to any other provision of law (statutory or nonstatutory).
 
 #### (b) Requirements for review of orders of removal
 
@@ -200,7 +200,7 @@ A court may review a final order of removal only if—
 
 #### (D) Expeditious consideration of cases
 
-&emsp;&emsp;It shall be the duty of the District Court, the Court of Appeals, and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of any case considered under this paragraph.
+&emsp;&emsp;It shall be the duty of the District Court, the Court of Appeals, and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possibleextent the disposition of any case considered under this paragraph.
 
 #### (4) Decision
 
@@ -326,7 +326,7 @@ Subsec. (e). Pub. L. 100–525 struck out "or from September 23, 1950, whichever
 
 <b>1986</b>—Subsec. (i). Pub. L. 99–603 added subsec. (i).
 
-<b>1984</b>—Subsec. (h). Pub. L. 98–473, which directed that "supervised release," be inserted after "parole,", was executed by inserting "supervised release," after "Parole," to reflect the probable intent of Congress.
+<b>1984</b>—Subsec. (h). Pub. L. 98–473, which directed that "supervised release," be inserted after "parole,", wasexecuted by inserting "supervised release," after "Parole," to reflect the probable intent of Congress.
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–116, §18(h)(1)(A), substituted "(18), or (19)" for "or (18)" in provision following par. (4).
 
@@ -352,7 +352,7 @@ Pub. L. 104–208, div. C, title III, §306(c), Sept. 30, 1996, 110 Stat. 3009�
 
 "(1)
 
-In general.—Subject to paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and section 1231 of this title and repealing section 1105a of this title\] shall apply as provided under section 309 \[8 U.S.C. 1101 note\], except that subsection\(g) of section 242 of the Immigration and Nationality Act \[8 U.S.C. 1252(g)\] (as added by subsection (a)), shall apply without limitation to claims arising from all past, pending, or future exclusion, deportation, or removal proceedings under such Act \[8 U.S.C. 1101 et seq.\].
+In general.—Subject to paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and section 1231 of this title and repealing section 1105a of this title\] shall apply as provided under section 309 \[8 U.S.C. 1101 note\], except that subsection (g) of section 242 of the Immigration and Nationality Act \[8 U.S.C. 1252(g)\] (as added by subsection (a)), shall apply without limitation to claims arising from all past, pending, or future exclusion, deportation, or removal proceedings under such Act \[8 U.S.C. 1101 et seq.\].
 
 "(2)
 
@@ -412,7 +412,7 @@ Limits on discretionary relief for failure to appear in asylum hearing.—Subsec
 
 Consolidation of relief in judicial review.—The amendments made by subsection (b) \[amending section 1105a of this title\] shall apply to final orders of deportation entered on or after January 1, 1991."
 
-Amendment by section 603(b)(2) of Pub. L. 101–649 not applicable to deportation proceedings for which notice has been provided to the alien before Mar. 1, 1991, see section 602(d) of Pub. L. 101–649, set out as a note under section 1227 of this title.
+Amendment by section 603(b)(2) of Pub. L. 101–649 not applicable to deportation proceedings for which noticehas been provided to the alien before Mar. 1, 1991, see section 602(d) of Pub. L. 101–649, set out as a note under section 1227 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The United States shall be represented on the Commission by 5 United States Commissioners.The President shall appoint individuals to serve on the Commission at the pleasure of the President. In making the appointments, the President shall select Commissioners from among individuals who are knowledgeable or experienced concerning highly migratory fish stocks and commercial fishing in the Western and Central Pacific Ocean, one of whom shall be an officer or employee of the Department of Commerce, and one of whom shall be the chairman or a member of the Western Pacific Fishery Management Council, and one of whom shall be the chairman or a member of the Pacific Fishery Management Council. The Commissioners shall be entitled to adopt such rules of procedures as they find necessary and to select a chairman from among members who are officers or employees of the United States Government.
+The United States shall be represented on the Commission by 5 United States Commissioners. The President shall appoint individuals to serve on the Commission at the pleasure of the President. In making the appointments, the President shall select Commissioners from among individuals who are knowledgeable or experienced concerning highly migratory fish stocks and commercial fishing in the Western and Central Pacific Ocean, one of whom shall be an officer or employee of the Department of Commerce, and one of whom shall be the chairman or a member of the Western Pacific Fishery Management Council, and one of whom shall be the chairman or a member of the Pacific Fishery Management Council. The Commissioners shall be entitled to adopt such rules of procedures as they find necessary and to select a chairman from among members who are officers or employees of the United States Government.
 
 #### (b) Alternate Commissioners
 
@@ -80,7 +80,7 @@ For highly migratory species in the Pacific, the Secretary, in coordination with
 
 &emsp;(4) recommending those domestic fishing regulations that are consistent with the actions of the international fishery organization, for approval and implementation under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.)
 
-(Pub. L. 109–479, title V, §503, Jan. 12, 2007, 120 Stat. 3636; Pub. L. 111–348, title III, §301, Jan. 4, 2011, 124 Stat. 3672; Pub. L. 114–327, title III, §301(a)(1), Dec. 16, 2016, 130 Stat. 1993; Pub. L. 117–286, §4(a)(133), Dec. 27, 2022, 136 Stat. 4320.)
+(Pub. L. 109–479, title V, §503, Jan. 12, 2007, 120 Stat. 3636; Pub. L. 111–348, title III, §301, Jan. 4,2011, 124 Stat. 3672; Pub. L. 114–327, title III, §301(a)(1), Dec. 16, 2016, 130 Stat. 1993; Pub. L. 117–286, §4(a)(133), Dec. 27, 2022, 136 Stat. 4320.)
 
 #### <b>Editorial Notes</b>
 

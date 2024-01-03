@@ -28,7 +28,7 @@ Except as otherwise provided in this section, the net direct interest expense wi
 
 #### (C) Net interest income
 
-&emsp;&emsp;For purposes of this paragraph, the term "net interest income" means the excess of the amount determined under paragraph (2) of subsection (c) over the amount determined under paragraph (1) of subsection (c).
+&emsp;&emsp;For purposes of this paragraph, the term "net interest income" means the excess ofthe amount determined under paragraph (2) of subsection (c) over the amount determined under paragraph (1) of subsection (c).
 
 #### (2) Remainder of disallowed interest expense allowed for year of disposition
 

@@ -26,7 +26,7 @@ Upon the removal of Sudan from the State Sponsors of Terrorism List, and once th
 
 #### (d) Reporting requirement
 
-Not later than 3 months after January 1, 2021, and not less frequently than once every 6 months thereafter during the transitional period, the Secretary of the Treasury, in consultation with the Secretary of State, shall report to the appropriate congressional committees regarding the extent to which the transitional government of Sudan has taken demonstrablesteps to strengthen governance and improve fiscal transparency, including—
+Not later than 3 months after January 1, 2021, and not less frequently than once every 6 months thereafter during the transitional period, the Secretary of the Treasury, in consultation with the Secretary of State, shall report to the appropriate congressional committees regarding the extent to which the transitional government of Sudan has taken demonstrable steps to strengthen governance and improve fiscal transparency, including—
 
 &emsp;(1) establishing civilian control over the finances and assets of the Sudanese security and intelligence services;
 

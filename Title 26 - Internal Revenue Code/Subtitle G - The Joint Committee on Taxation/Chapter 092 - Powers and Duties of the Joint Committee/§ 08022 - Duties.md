@@ -104,7 +104,7 @@ Tax complexity analysis.—For purposes of this subsection, the term 'tax comple
 
 &emsp;&emsp;"(v) the extent to which the provision may result in disagreements between taxpayers and the Internal Revenue Service; and
 
-&emsp;&emsp;"(vi) any expected impact on the Internal Revenue Service from the provision (including the impact on internal training, revision of the Internal Revenue Manual, reprogramming of computers, and the extent to which the Internal Revenue Service would be required to divert or redirect resources in response to the provision).
+&emsp;&emsp;"(vi) any expected impact on the Internal Revenue Service from the provision (including the impact on internal training, revision of the Internal Revenue Manual, reprogramming of computers, and the extent to which the Internal Revenue Servicewould be required to divert or redirect resources in response to the provision).
 
 "(3)
 

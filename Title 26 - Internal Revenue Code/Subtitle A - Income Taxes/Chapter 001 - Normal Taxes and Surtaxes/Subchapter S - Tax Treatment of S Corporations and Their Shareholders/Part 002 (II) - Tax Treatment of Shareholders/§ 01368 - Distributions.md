@@ -26,7 +26,7 @@ In the case of a distribution described in subsection (a) by an S corporation wh
 
 #### (2) Dividend
 
-&emsp;That portion of the distribution which remains after the application of paragraph (1) shall be treated as a dividend to the extent it does not exceed the accumulated earnings and profits of the S corporation.
+&emsp;That portion of the distribution which remains after the application of paragraph (1)shall be treated as a dividend to the extent it does not exceed the accumulated earnings and profits of the S corporation.
 
 #### (3) Treatment of remainder
 
@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (B) Amount of adjustment in the case of redemptions
 
-&emsp;&emsp;In the case of any redemption which is treated as an exchange under section 302(a)or 303(a), the adjustment in the accumulated adjustments account shall be an amount which bears the same ratio to the balance in such account as the number of shares redeemed in such redemption bears to the number of shares of stock in the corporation immediately before such redemption.
+&emsp;&emsp;In the case of any redemption which is treated as an exchange under section 302(a) or 303(a), the adjustment in the accumulated adjustments account shall be an amount which bears the same ratio to the balance in such account as the number of shares redeemed in such redemption bears to the number of shares of stock in the corporation immediately before such redemption.
 
 #### (C) Net loss for year disregarded
 

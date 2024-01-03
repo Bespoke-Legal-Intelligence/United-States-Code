@@ -52,7 +52,7 @@ The persons referred to in subsection (a) are:
 
 &emsp;(8) A fiduciary of a trust and a corporation more than 50 percent in value of the outstanding stock of which is owned, directly or indirectly, by or for the trust or by or for a person who is a grantor of the trust;
 
-&emsp;(9) A person and an organization to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by such person or (if such person is an individual) by members of the family of such individual;
+&emsp;(9) A person and an organization to which section 501 (relating to certain educationaland charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by such person or (if such person is an individual) by members of the family of such individual;
 
 &emsp;(10) A corporation and a partnership if the same persons own—
 
@@ -138,7 +138,7 @@ For purposes of determining, in applying subsection (b), the ownership of stock�
 
 #### (4) Subsection (a)(2) not to apply to certain guaranteed payments of partnerships
 
-&emsp;In the case of any amount paid or incurred by a partnership, subsection (a)(2) shall not apply to the extent that section 707(c) applies to such amount.
+&emsp;In the case of any amount paid or incurred by a partnership, subsection (a)(2) shall notapply to the extent that section 707(c) applies to such amount.
 
 #### (5) Exception for certain expenses and interest of partnerships owning low-income housing
 
@@ -286,7 +286,7 @@ Subsec. (g). Pub. L. 99–514, §1842(a), added subsec. (g).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369, §174(a), amended subsec. (a) generally, substituting "In general" for "Deduction disallowed" in heading, "Deduction for losses disallowed" for "Losses" in par. (1) heading, and provisions dealing with matching of deduction and payee income item in the case of expenses and interest for provisions dealing with unpaid expenses and interest in par. (2).
 
-Subsec. (b)(3). Pub. L. 98–369, §174(b)(2)(A), substituted "Two corporations which are members of the same controlled group (as defined in subsection (f))" for "Two corporations more than 50 percent in value of the outstanding stock of each of which is owned, directly or indirectly, by or for the same individual, if eitherone of such corporations, with respect to the taxable year of the corporation preceding the date of the sale or exchange was, under the law applicable to such taxable year, a personal holding company or a foreign personal holding company".
+Subsec. (b)(3). Pub. L. 98–369, §174(b)(2)(A), substituted "Two corporations which are members of the same controlled group (as defined in subsection (f))" for "Two corporations more than 50 percent in value of the outstanding stock of each of which is owned, directly or indirectly, by or for the same individual, if either one of such corporations, with respect to the taxable year of the corporation preceding the date of the sale or exchange was, under the law applicable to such taxable year, a personal holding company or a foreign personal holding company".
 
 Subsec. (b)(10). Pub. L. 98–369, §174(b)(3), substituted "A corporation" for "An S corporation" in introductory provisions and "the corporation" for "the S corporation" in subpar. (A).
 
@@ -298,7 +298,7 @@ Pub. L. 98–369, §174(a)(2), struck out subsec. (e) which provided that for pu
 
 Subsec. (f). Pub. L. 98–369, §174(b)(2)(B), added subsec. (f).
 
-Pub. L. 98–369, §174(b)(1), struck out subsec. (f) which related to special rules for unpaid expenses and interest of S corporations and treatment under such provisions of certain shareholders, etc., as related persons.
+Pub. L. 98–369, §174(b)(1), struck out subsec. (f) which related to special rules for unpaid expenses and interestof S corporations and treatment under such provisions of certain shareholders, etc., as related persons.
 
 Pub. L. 98–369, §721(s), in closing provision of par. (1) substituted "then any deduction allowable under such sections in respect of such amount shall be allowable as of the day as of which such payment is includible in the gross income of the person to whom the payment is made (or, if later, as of the day on which it would be so allowable but for this paragraph)" for "then no deduction shall be allowed in respect of expenses otherwise deductible under section 162 or 212, or of interest otherwise deductible under section 163, before the day as of which the amount thereof is includible in the gross income of the person to whom the payment is made".
 
@@ -394,7 +394,7 @@ Amendment by section 721(s) of Pub. L. 98–369 effective as if included in the 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
+Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) ofPub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
 #### Effective Date of 1978 Amendment
 

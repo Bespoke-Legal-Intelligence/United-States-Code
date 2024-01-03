@@ -60,7 +60,7 @@ This section may be cited as the "Portable Fuel Container Safety Act of 2020".
 
 #### (A) Education campaign
 
-&emsp;&emsp;Not later than 1 year after December 27, 2020, the Commission shall undertake a campaign to educate consumers about the dangers associated with using or storing portable fuel containers for flammable liquidsnear an open flame or any other source of ignition.
+&emsp;&emsp;Not later than 1 year after December 27, 2020, the Commission shall undertake a campaign to educate consumers about the dangers associated with using or storing portable fuel containers for flammable liquids near an open flame or any other source of ignition.
 
 #### (B) Summary of actions
 
@@ -102,7 +102,7 @@ The Children's Gasoline Burn Prevention Act, referred to in subsecs. (b)(9) and 
 
 Section was enacted as the Portable Fuel Container Safety Act of 2020, and not as part of the Consumer Product Safety Act which comprises this chapter.
 
-Section is comprised of section 901 of div. FF of Pub. L. 116–260. Subsec. (c)(1) of section 901 of div. FF of Pub. L. 116–260 amended section 2 of Pub. L. 110–278, which is set out in a note under section 2056 of this title.
+Section is comprised of section 901 of div. FF of Pub. L. 116–260. Subsec. (c)(1) of section 901 of div. FF of Pub.L. 116–260 amended section 2 of Pub. L. 110–278, which is set out in a note under section 2056 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

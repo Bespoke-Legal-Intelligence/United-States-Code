@@ -70,7 +70,7 @@ Grants.—From funds provided under subsection (a), the Secretary shall—
 
 "(c)
 
-Allocations to States.—The amount of each grant under subsection (b) shall be allocated by theSecretary to each State in the same proportion as each State received under part A of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311 et seq.\] in the most recent fiscal year.
+Allocations to States.—The amount of each grant under subsection (b) shall be allocated by the Secretary to each State in the same proportion as each State received under part A of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311 et seq.\] in the most recent fiscal year.
 
 "(d)
 
@@ -96,7 +96,7 @@ Uses of Funds.—A local educational agency that receives funds under this secti
 
 &emsp;&emsp;"(B) Any activity authorized by the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\].
 
-&emsp;&emsp;"(C) Any activity authorized by the Adult Education and Family Literacy Act \[two Acts with that Short Title: 20 U.S.C. 9201 et seq.; 29 U.S.C. 3271 et seq.\].
+&emsp;&emsp;"(C) Any activity authorized by the Adult Education and Family Literacy Act \[two Acts withthat Short Title: 20 U.S.C. 9201 et seq.; 29 U.S.C. 3271 et seq.\].
 
 &emsp;&emsp;"(D) Any activity authorized by the Carl D. Perkins Career and Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\].
 
@@ -258,7 +258,7 @@ Local Educational Agency Maintenance of Equity for High-poverty Schools.—
 
 In general.—As a condition of receiving funds under section 2001, a local educational agency shall not, in fiscal year 2022 or 2023—
 
-&emsp;&emsp;"(A) reduce per-pupil funding (from combined State and local funding) for any high-poverty school served by such local educational agency by an amount that exceeds—
+&emsp;&emsp;"(A) reduce per-pupil funding (from combined State and local funding) for any high-povertyschool served by such local educational agency by an amount that exceeds—
 
 &emsp;&emsp;&emsp;"(i) the total reduction in local educational agency funding (from combined State and local funding) for all schools served by the local educational agency in such fiscal year (if any); divided by
 
@@ -344,7 +344,7 @@ Allocations.—From the amount made available under this heading \[probably mean
 
 education stabilization fund" under the heading "DEPARTMENT OF EDUCATION", 134 Stat. 1924\] in this Act \[div. M of Pub. L. 116–260, see Tables for classification\] to carry out the Education Stabilization Fund, the Secretary shall first allocate—
 
-&emsp;"(1) one-half of 1 percent to the outlying areas for supplemental awards to be allocated not more than 30 calendar days from the date of enactment of this Act\[Dec. 27, 2020\] on the basis of the terms and conditions for funding provided under section 18001(a)(1) of the Coronavirus Aid, Relief, and Economic Security (CARES) Act (Public Law 116–136) \[set out below\]; and
+&emsp;"(1) one-half of 1 percent to the outlying areas for supplemental awards to be allocated not more than 30 calendar days from the date of enactment of this Act \[Dec. 27, 2020\] on the basis of the terms and conditions for funding provided under section 18001(a)(1) of the Coronavirus Aid, Relief, and Economic Security (CARES) Act (Public Law 116–136) \[set out below\]; and
 
 &emsp;"(2) one-half of 1 percent for a supplemental award to be allocated to the Secretary of Interior not more than 30 calendar days from enactment of this Act for programs operated or funded by the Bureau of Indian Education (BIE) under the terms and conditions established for funding provided under section 18001(a)(2) of the CARES Act (Public Law 116–136), for BIE-operated and funded elementary and secondary schools and Tribal Colleges and Universities, except that funding shall be allocated as follows:
 
@@ -372,7 +372,7 @@ Program Authorized.—(1) From funds reserved under section 311(b)(1) of this ti
 
 "(2)
 
-Reservation.—From funds made available under section 311(b)(1) of this title, the Secretary shall reserve $2,750,000,000 of such funds to provide Emergency Assistance to Non-Public Schools grants, in accordance with subsection (d), to the Governor of each State with an approved application under subsection (d)(2).
+Reservation.—From funds made available under section 311(b)(1) of this title, the Secretary shall reserve $2,750,000,000 of such funds to provide EmergencyAssistance to Non-Public Schools grants, in accordance with subsection (d), to the Governor of each State with an approved application under subsection (d)(2).
 
 "(b)
 
@@ -584,7 +584,7 @@ Subgrants to Local Educational Agencies.—Each State shall allocate not less th
 
 Uses of Funds.—A local educational agency that receives funds under this section may use the funds for any of the following:
 
-&emsp;"(1) Any activity authorized by the ESEA of 1965, including the Native Hawaiian Education Act \[20 U.S.C. 7511 et seq.\] and the Alaska Native Educational Equity, Support, and Assistance Act (20 U.S.C. 6301 et seq.) \[20 U.S.C. 7541 et seq.\], the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) ('IDEA'), the Adult Education and Family Literacy Act (20 U.S.C. 1400 et seq.) \[29 U.S.C. 3271 et seq.\], the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.) ('the Perkins Act'), or subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.).
+&emsp;"(1) Any activity authorized by the ESEA of 1965, including the Native Hawaiian Education Act \[20 U.S.C. 7511 et seq.\] and the Alaska Native Educational Equity, Support, and Assistance Act (20U.S.C. 6301 et seq.) \[20 U.S.C. 7541 et seq.\], the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) ('IDEA'), the Adult Education and Family Literacy Act (20 U.S.C. 1400 et seq.) \[29 U.S.C. 3271 et seq.\], the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.) ('the Perkins Act'), or subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.).
 
 &emsp;"(2) Coordination of preparedness and response efforts of local educational agencies with State, local, Tribal, and territorial public health departments, and other relevant agencies, to improve coordinated responses among such entities to prevent, prepare for, and respond to coronavirus.
 
@@ -632,7 +632,7 @@ Report.—A State receiving funds under this section shall submit a report to th
 
 "(g)
 
-Reallocation.—A State shall return to the Secretary any funds received under this section that theState does not award within 1 year of receiving such funds and the Secretary shall reallocate such funds to the remaining States in accordance with subsection (b).
+Reallocation.—A State shall return to the Secretary any funds received under this section that the State does not award within 1 year of receiving such funds and the Secretary shall reallocate such funds to the remaining States in accordance with subsection (b).
 
 "higher education emergency relief fund
 
@@ -656,7 +656,7 @@ In General.—From funds reserved under section 311(b)(3) of this title the Secr
 
 &emsp;&emsp;"(F) 1 percent according to the relative share of the total number of students who were Federal Pell grant recipients and who were exclusively enrolled in distance education courses prior to the qualifying emergency.
 
-&emsp;"(2) 7.5 percent for additional awards under parts A and B of title III \[20 U.S.C. 1057 et seq., 1060 et seq.\], parts A and B of title V \[20 U.S.C. 1101 et seq., 1102 et seq.\], and subpart 4 of part A of title VII \[20 U.S.C. 1136a et seq.\] of the HEA to address needs directly related to coronavirus, that shall be in addition to awards made in subsection (a)(1), and allocated by the Secretary proportionally to such programs based on the relative share of funding appropriated to such programs in the Further Consolidated Appropriations Act, 2020 (Public Law 116–94 \[see Tables for classification\]) and distributed to eligible institutions of higher education, except as otherwise provided in subparagraphs (A) through (C), on the basis of the formula described in subparagraphs (A) through (F) of subsection (a)(1):
+&emsp;"(2) 7.5 percent for additional awards under parts A and B of title III \[20 U.S.C. 1057 et seq., 1060 et seq.\],parts A and B of title V \[20 U.S.C. 1101 et seq., 1102 et seq.\], and subpart 4 of part A of title VII \[20 U.S.C. 1136a et seq.\] of the HEA to address needs directly related to coronavirus, that shall be in addition to awards made in subsection (a)(1), and allocated by the Secretary proportionally to such programs based on the relative share of funding appropriated to such programs in the Further Consolidated Appropriations Act, 2020 (Public Law 116–94 \[see Tables for classification\]) and distributed to eligible institutions of higher education, except as otherwise provided in subparagraphs (A) through (C), on the basis of the formula described in subparagraphs (A) through (F) of subsection (a)(1):
 
 &emsp;&emsp;"(A) Except as otherwise provided in subparagraph (2)(B), for eligible institutions under part B of title III and subpart 4 of part A of title VII of the HEA, the Secretary shall allot to each eligible institution an amount using the following formula:
 
@@ -702,7 +702,7 @@ Special Provisions.—
 
 &emsp;"(1) A Historically Black College and University or a Minority Serving Institution may use prior awards provided under titles III, V, and VII of the Higher Education Act \[20 U.S.C. 1051 et seq., 1101 et seq., and 1133 et seq.\] to prevent, prepare for, and respond to coronavirus.
 
-&emsp;"(2) An institution of higher education awarded funds under section 18004 of division B of the CARES Act (Public Law 116–136) \[set out below\] prior to the date of enactment of this Act may use those funds under the terms and conditions of section 314(c) of this title, subject to the requirements in paragraph (5). Amounts repurposed pursuant to this paragraph that were previously designated by the Congress as an emergency requirement pursuant to the BalancedBudget and Emergency Deficit Control Act of 1985 \[title II of Pub. L. 99–177, see Tables for classification\] are designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\].
+&emsp;"(2) An institution of higher education awarded funds under section 18004 of division B of the CARES Act (Public Law 116–136) \[set out below\] prior to the date of enactment of this Act may use those funds under the terms and conditions of section 314(c) of this title, subject to the requirements in paragraph (5). Amounts repurposed pursuant to this paragraph that were previously designated by the Congress as an emergency requirement pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985 \[title II of Pub. L. 99–177, see Tables for classification\] are designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\].
 
 &emsp;"(3) No funds received by an institution of higher education under this section shall be used to fund contractors for the provision of pre-enrollment recruitment activities; marketing or recruitment; endowments; capital outlays associated with facilities related to athletics, sectarian instruction, or religious worship; senior administrator or executive salaries, benefits, bonuses, contracts, incentives; stock buybacks, shareholder dividends, capital distributions, and stock options; or any other cash or other benefit for a senior administrator or executive.
 
@@ -768,7 +768,7 @@ Sec. 316. Except as otherwise provided in sections 311 through 316 of this title
 
 "
 
-Sec. 317. (a) At the time of award of funds to carry out sections 312 or 313 of this title, a State shall provide assurances that such State will maintain support for elementary and secondary education, and for higher education (which shall include State funding to institutions of higher education and state need-based financial aid, and shall not include support for capital projects or for research and development or tuition andfees paid by students) in fiscal year 2022 at least at the proportional levels of such State's support for elementary and secondary education and for higher education relative to such State's overall spending, averaged over fiscal years 2017, 2018, and 2019.
+Sec. 317. (a) At the time of award of funds to carry out sections 312 or 313 of this title, a State shall provide assurances that such State will maintain support for elementary and secondary education, and for higher education (which shall include State funding to institutions of higher education and state need-based financial aid, and shall not include support for capital projects or for research and development or tuition and fees paid by students) in fiscal year 2022 at least at the proportional levels of such State's support for elementary and secondary education and for higher education relative to such State's overall spending, averaged over fiscal years 2017, 2018, and 2019.
 
 "(b) The Secretary may waive the requirement in subsection (a) for the purpose of relieving fiscal burdens on States that have experienced a precipitous decline in financial resources."
 
@@ -882,7 +882,7 @@ State Funding.—With funds not otherwise allocated under subsection (c), a Stat
 
 "(f)
 
-Reallocation.—A State shall return to the Secretary any funds received under this section that the State does not award within 1 year of receiving such funds and the Secretary shall reallocate such funds to the remaining States in accordance with subsection (b).
+Reallocation.—A State shall return to the Secretary any funds received under this section that theState does not award within 1 year of receiving such funds and the Secretary shall reallocate such funds to the remaining States in accordance with subsection (b).
 
 "higher education emergency relief fund
 
@@ -930,7 +930,7 @@ In General.—A local educational agency receiving funds under sections 18002 or
 
 "(b)
 
-Public Control of Funds.—The control of funds for the services and assistance provided to a non-public school under subsection (a), and title to materials, equipment, and property purchased with such funds, shall be in a public agency, and a public agency shalladminister such funds, materials, equipment, and property and shall provide such services (or may contract for the provision of such services with a public or private entity).
+Public Control of Funds.—The control of funds for the services and assistance provided to a non-public school under subsection (a), and title to materials, equipment, and property purchased with such funds, shall be in a public agency, and a public agency shall administer such funds, materials, equipment, and property and shall provide such services (or may contract for the provision of such services with a public or private entity).
 
 "continued payment to employees
 
@@ -964,7 +964,7 @@ Sec. 18007. Except as otherwise provided in sections 18001–18006 of this title
 
 "
 
-Sec. 18008. (a) A State's application for funds to carry out sections 18002 or 18003 of this title shall include assurances that the State will maintain support for elementary and secondary education, and State support for higher education (which shall include State funding to institutions of higher education and state need-based financial aid, and shall not include support for capital projects or for research and development or tuition and fees paid by students) in fiscal years 2020 and 2021 at least at the levels of such support that is the average of such State's support for elementary and secondary education and for higher education provided in the 3 fiscal years preceding the date of enactment of this Act \[Mar. 27, 2020\].
+Sec. 18008. (a) A State's application for funds to carry out sections 18002 or 18003 of this title shall include assurances that the State will maintain support for elementary and secondary education, and State support for higher education (which shall include State funding to institutions of higher education and state need-based financial aid, and shall not include supportfor capital projects or for research and development or tuition and fees paid by students) in fiscal years 2020 and 2021 at least at the levels of such support that is the average of such State's support for elementary and secondary education and for higher education provided in the 3 fiscal years preceding the date of enactment of this Act \[Mar. 27, 2020\].
 
 "(b) The secretary may waive the requirement in subsection (a) for the purpose of relieving fiscal burdens on States that have experienced a precipitous decline in financial resources."
 
@@ -1000,7 +1000,7 @@ At the same time, however, some State governments have adopted policies and laws
 
 Our priority must be the safety of students, families, educators, and staff in our school communities. Nothing should interfere with this goal.
 
-Sec. 2. <i>Department of Education Role in Ensuring a Safe Return to In-Person School</i>. (a) In furtherance of the policy set out in section 1 of this memorandum, I direct the Secretary of Education to assess all available toolsin taking action, as appropriate and consistent with applicable law, to ensure that:
+Sec. 2. <i>Department of Education Role in Ensuring a Safe Return to In-Person School</i>. (a) In furtherance of the policy set out in section 1 of this memorandum, I direct the Secretary of Education to assess all available tools in taking action, as appropriate and consistent with applicable law, to ensure that:
 
 (i) Governors and other officials are taking all appropriate steps to prepare for a safe return to school for our Nation's children, including not standing in the way of local leaders making such preparations; and
 

@@ -76,7 +76,7 @@
 
 &emsp;(2) The term "covered veterans" means veterans described in section 1703(b) of this title.
 
-&emsp;(3) The term "inability to contract", with respect to a Third Party Administrator, meansthe inability of the Third Party Administrator to successfully negotiate and establish a community care network contract with a provider or facility.
+&emsp;(3) The term "inability to contract", with respect to a Third Party Administrator, means the inability of the Third Party Administrator to successfully negotiate and establish a community care network contract with a provider or facility.
 
 &emsp;(4) The term "Third Party Administrator" means an entity that manages a provider network and performs administrative services related to such network within the Veterans Community Care Program under section 1703 of this title.
 
@@ -96,7 +96,7 @@ The Social Security Act, referred to in subsec. (f)(3)(D)(ii), is act Aug. 14, 1
 
 "(f) The Secretary shall ensure health care providers specified under section 1703(c) are able to comply with the applicable access standards established by the Secretary.
 
-"(g) The Secretary shall publish in the Federal Register and on an internet website of the Department the designated access standards established under this section for purposes of section 1703(d)(1)(D)."
+"(g) The Secretary shall publish in the Federal Register and on an internet website of the Department thedesignated access standards established under this section for purposes of section 1703(d)(1)(D)."
 
 Subsec. (i)(3), (4). Pub. L. 117–328, §125(a)(2), added pars. (3) and (4)
 

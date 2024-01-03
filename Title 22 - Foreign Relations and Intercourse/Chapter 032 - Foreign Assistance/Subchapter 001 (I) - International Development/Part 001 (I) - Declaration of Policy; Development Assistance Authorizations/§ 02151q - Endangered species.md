@@ -36,7 +36,7 @@ The Administrator of the Agency for International Development shall—
 
 &emsp;(2) look to the World Conservation Strategy as an overall guide for actions to conserve biological diversity;
 
-&emsp;(3) engage in dialogues and exchanges of information with recipient countries whichstress the importance of conserving biological diversity for the long-term economic benefit of those countries and which identify and focus on policies of those countries which directly or indirectly contribute to loss of biological diversity;
+&emsp;(3) engage in dialogues and exchanges of information with recipient countries which stress the importance of conserving biological diversity for the long-term economic benefit of those countries and which identify and focus on policies of those countries which directly or indirectly contribute to loss of biological diversity;
 
 &emsp;(4) support training and education efforts which improve the capacity of recipient countries to prevent loss of biological diversity;
 

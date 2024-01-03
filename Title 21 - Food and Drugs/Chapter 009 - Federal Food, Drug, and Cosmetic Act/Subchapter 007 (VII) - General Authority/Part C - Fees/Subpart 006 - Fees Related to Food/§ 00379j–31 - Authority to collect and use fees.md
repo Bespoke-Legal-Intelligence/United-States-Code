@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the responsible party for a domestic facility (as defined in section 350d(b) <sup>1</sup> of this title) and an importer who does not comply with a recall order under section 350l of this title or under section 350a(f) of this title in such fiscal year, to cover food recall activities associated with such order performed by the Secretary, including technical assistance, follow-up effectiveness checks, and public notifications, for such year;
 
-&emsp;&emsp;(C) each importer participating in the voluntary qualified importer program under section 384b of this title in such year, to cover the administrative costs of such program for such year; and
+&emsp;&emsp;(C) each importer participating in the voluntary qualified importer program under section 384b of this title in such year, tocover the administrative costs of such program for such year; and
 
 &emsp;&emsp;(D) each importer subject to a reinspection in such fiscal year, to cover reinspection-related costs for such year.
 
@@ -130,7 +130,7 @@ Fees authorized under subsection (a) shall be collected and available for obliga
 
 #### (f) Annual report to Congress
 
-Not later than 120 days after each fiscal year for which fees are assessed under this section, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to include a description of fees assessedand collected for each such year and a summary description of the entities paying such fees and the types of business in which such entities engage.
+Not later than 120 days after each fiscal year for which fees are assessed under this section, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to include a description of fees assessed and collected for each such year and a summary description of the entities paying such fees and the types of business in which such entities engage.
 
 #### (g) Authorization of appropriations
 

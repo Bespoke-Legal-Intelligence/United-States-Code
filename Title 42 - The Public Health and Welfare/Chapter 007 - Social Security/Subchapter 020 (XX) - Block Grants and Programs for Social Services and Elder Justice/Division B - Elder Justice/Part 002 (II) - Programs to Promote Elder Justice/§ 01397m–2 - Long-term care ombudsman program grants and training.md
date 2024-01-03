@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish programs to provide and improve ombudsman training withrespect to elder abuse, neglect, and exploitation for national organizations and State long-term care ombudsman programs.
+&emsp;The Secretary shall establish programs to provide and improve ombudsman training with respect to elder abuse, neglect, and exploitation for national organizations and State long-term care ombudsman programs.
 
 #### (2) Authorization of appropriations
 

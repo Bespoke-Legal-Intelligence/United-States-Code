@@ -12,7 +12,7 @@ The liability of the United States or an instrumentality of the United States un
 
 &emsp;&emsp;(C) a contractor that contracted with the Department of Energy to provide management and operation, management and integration, or environmental remediation of a Department of Energy facility (in its capacity as a contractor);
 
-&emsp;&emsp;(D) a subcontractor that provided services, including construction, at a Department ofEnergy facility (in its capacity as a subcontractor); and
+&emsp;&emsp;(D) a subcontractor that provided services, including construction, at a Department of Energy facility (in its capacity as a subcontractor); and
 
 &emsp;&emsp;(E) an employee, agent, or assign of an entity specified in subparagraphs (A) through (D);
 
@@ -38,7 +38,7 @@ This section does not apply to an administrative or judicial proceeding under a 
 
 This section applies with respect to part E to the covered medical condition or covered illness or death of a covered DOE contractor employee on the same basis as it applies with respect to part B to the cancer (including a specified cancer), chronic silicosis, covered beryllium illness, or death of a covered employee.
 
-(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3644\], Oct. 30, 2000, 114 Stat. 1654, 1654A–509; Pub. L. 108–375, div. C, title XXXI, §3162(d), Oct. 28, 2004, 118 Stat. 2186.)
+(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3644\], Oct. 30, 2000, 114 Stat. 1654, 1654A–509; Pub. L.108–375, div. C, title XXXI, §3162(d), Oct. 28, 2004, 118 Stat. 2186.)
 
 #### <b>Editorial Notes</b>
 

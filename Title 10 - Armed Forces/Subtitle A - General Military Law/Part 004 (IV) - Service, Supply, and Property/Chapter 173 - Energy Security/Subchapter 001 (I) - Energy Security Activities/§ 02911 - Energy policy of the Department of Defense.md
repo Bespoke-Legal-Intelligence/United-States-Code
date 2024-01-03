@@ -28,7 +28,7 @@ Energy Performance Goals.—(1) The Secretary of Defense shall submit to the con
 
 (d)
 
-Energy Performance Master Plan.—(1) The Secretary of Defense shall develop a comprehensive master plan for the achievement ofthe energy performance goals of the Department of Defense, as set forth in laws, executive orders, and Department of Defense policies.
+Energy Performance Master Plan.—(1) The Secretary of Defense shall develop a comprehensive master plan for the achievement of the energy performance goals of the Department of Defense, as set forth in laws, executive orders, and Department of Defense policies.
 
 (2) The master plan shall include the following:
 
@@ -130,7 +130,7 @@ Promotion of On-Site Energy Security and Energy Resilience.—(1) Consistent wit
 
 &emsp;(C) Reduction in periodic refueling needs from sources off the installation to not more than once every two years.
 
-(2)(A) Using amounts made available for military construction projects under section 2914 of this title, the Secretary of Defense shall carry out at least four projects to promote installation energy security and energy resilience in the manner described in paragraph (1).
+(2)(A) Using amounts made available for military construction projects under section 2914 ofthis title, the Secretary of Defense shall carry out at least four projects to promote installation energy security and energy resilience in the manner described in paragraph (1).
 
 (B) At least one project shall be designed to develop technology that demonstrates the ability to connect an existing on-site energy generation facility that uses solar power with one or more installation facilities performing critical missions in a manner that allows the generation facility to continue to provide electrical power to these facilities even if the installation is disconnected from the commercial power supply.
 
@@ -266,7 +266,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsecs. (a) and (b)(
 
 #### Prototype and Demonstration Projects for Energy Resilience at Certain Military Installations
 
-Pub. L. 117–263, div. A, title III, §322, Dec. 23, 2022, 136 Stat. 2511, provided that:
+Pub. L. 117–263, div. A, title III, §322, Dec. 23, 2022, 136 Stat. 2511, as amended by Pub. L. 118–31, div. A, title III, §316(a), Dec. 22, 2023, 137 Stat. 217, provided that:
 
 "(a)
 
@@ -319,6 +319,8 @@ Covered Technologies.—Covered prototype and demonstration projects conducted a
 &emsp;&emsp;"(A) Advanced geothermal technologies.
 
 &emsp;&emsp;"(B) Advanced nuclear technologies, including small modular reactors.
+
+&emsp;&emsp;"(C) Hydrogen creation, storage, and power generation technologies using natural gas or renewable electricity.
 
 &emsp;"(7) Port electrification and surrounding defense community infrastructure.
 
@@ -378,7 +380,7 @@ Interagency Collaboration.—In carrying out this section, to the extent practic
 
 "(j)
 
-Rule of Construction.—Nothing in this section shall be construed as precluding any Secretary of a military department from carrying out any activity, including conducting a project or making an investment, relating to the improvement of energy resilienceor all hazards resilience under an authority other than this section.
+Rule of Construction.—Nothing in this section shall be construed as precluding any Secretary of a military department from carrying out any activity, including conducting a project or making an investment, relating to the improvement of energy resilience or all hazards resilience under an authority other than this section.
 
 "(k)
 
@@ -396,6 +398,8 @@ Definitions.—In this section:
 
 &emsp;"(4) The term 'military installation' has the meaning given that term in section 2867 of title 10 \[probably should be "section 2687 of title 10"\], United States Code."
 
+\[Pub. L. 118–31, div. A, title III, §316(b), Dec. 22, 2023, 137 Stat. 217, provided that: "The amendments made by subsection (a) \[amending section 322 of Pub. L. 117–263, set out above\] shall apply with respect to covered prototype and demonstration projects (as defined in section 322(k) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 2511; 10 U.S.C. 2911 note)) commencing on or after the date of the enactment of this Act \[Dec. 22, 2023\]."\]
+
 #### Pilot Program for Development of Electric Vehicle Charging Solutions To Mitigate Grid Stress
 
 Pub. L. 117–263, div. A, title III, §323, Dec. 23, 2022, 136 Stat. 2513, provided that:
@@ -412,7 +416,7 @@ Selection of Military Installations.—
 
 Selection.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], each Secretary of a military department shall—
 
-&emsp;&emsp;"(A) select at least one military installation of each Armed Force under the jurisdiction of that Secretary at which to carry out the pilot program under subsection (a); and
+&emsp;&emsp;"(A) select at least one military installation of each Armed Force under the jurisdiction of thatSecretary at which to carry out the pilot program under subsection (a); and
 
 &emsp;&emsp;"(B) submit to the Committees on Armed Services of the House of Representatives and the Senate a notification containing an identification of each such selected installation.
 
@@ -504,7 +508,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;"(v) off-grid charging systems; and
 
-&emsp;&emsp;&emsp;"(vi) other apparatuses installed for the specific purpose of delivering energy to an electric vehicleor to a battery intended to be used in an electric vehicle, including wireless charging technologies.
+&emsp;&emsp;&emsp;"(vi) other apparatuses installed for the specific purpose of delivering energy to an electric vehicle or to a battery intended to be used in an electric vehicle, including wireless charging technologies.
 
 &emsp;"(4) The term 'electric vehicle' includes—
 
@@ -556,7 +560,7 @@ Heat Island Defined.—The term 'heat island' means an area with a high concentr
 
 #### Combating Military Reliance on Russian Energy
 
-Pub. L. 117–263, div. A, title X, §1086, Dec. 23, 2022, 136 Stat. 2801, provided that:
+Pub. L. 117–263, div. A, title X, §1086, Dec. 23, 2022, 136 Stat. 2801, as amended by Pub. L. 118–31, div. A, title XVIII, §1803, Dec. 22, 2023, 137 Stat. 685, provided that:
 
 "(a)
 
@@ -564,25 +568,29 @@ Sense of Congress.—It is the sense of Congress that—
 
 &emsp;"(1) reliance on Russian energy poses a critical challenge for national security activities in the area of responsibility of the United States European Command; and
 
-&emsp;"(2) in order to reduce the vulnerability of United States military facilities to disruptions caused by reliance on Russian energy, the Department of Defense should establish and implement plans to reduce reliance on Russian energy for all main operating bases in the area of responsibility of the United States European Command.
+&emsp;"(2) in order to reduce the vulnerability of United States military facilities to disruptions caused by reliance on Russian energy, the Department of Defense should establish and implement plans to reduce reliance on Russian energy for all operating bases in the area of responsibility of the United States European Command.
 
 "(b)
 
-Eliminating Use of Russian Energy.—It shall be the goal of the Department of Defense to eliminate the use of Russian energy on each main operating base in the area of responsibility of the United States European Command by not later than five years after the date of the completion of an installation energy plan for such base, as required under this section.
+Eliminating Use of Russian Energy.—It shall be the goal of the Department of Defense to eliminate the use of Russian energy on each operating base in the area of responsibility of the United States European Command by not later than five years after the date of the completion of an installation energy plan for such base, as required under this section.
 
 "(c)
 
-Installation Energy Plans for Main Operating Bases.—
+Installation Energy Plans for Operating Bases.—
 
 &emsp;"(1)
 
-Identification of installations.—Not later than June 1, 2023, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a list of main operating bases within the area of responsibility of the United States European Command ranked according to mission criticality and vulnerability to energy disruption.
+Identification of installations.—The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a list of operating bases within the area of responsibility of the United States European Command ranked according to mission criticality and vulnerability to energy disruption as follows:
+
+&emsp;&emsp;"(A) In the case of a main operating base, by not later than June 1, 2023.
+
+&emsp;&emsp;"(B) In the case of any operating base other than a main operating base, by not later than June 1, 2024.
 
 &emsp;"(2)
 
 Submittal of plans.—Not later than 12 months after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall submit to the congressional defense committees—
 
-&emsp;&emsp;"(A) an installation energy plan for each main operating base on the list submitted under paragraph (1); and
+&emsp;&emsp;"(A) an installation energy plan for each main operating base on the list submitted under paragraph (1)(A); and
 
 &emsp;&emsp;"(B) an assessment of the feasibility of reaching the goal for the elimination of the use of Russian energy pursuant to subsection (b) on that base, including—
 
@@ -632,7 +640,7 @@ Policy for Future Bases.—The Secretary of Defense shall establish a policy to 
 
 Annual Congressional Briefings.—The Secretary of Defense shall provide to the congressional defense committees annual briefings on the installation energy plans required under this section. Such briefings shall include an identification of each of the following:
 
-&emsp;"(1) The actions each main operating base is taking to implement the installation energy plan for that base.
+&emsp;"(1) The actions each operating base is taking to implement the installation energy plan for that base.
 
 &emsp;"(2) The progress that has been made toward reducing the reliance of United States bases on Russian energy.
 
@@ -864,7 +872,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(B) is located at a military installation with base-wide resilient power.
 
-&emsp;"(2) The term 'energy resilience' has the meaning given that term in section 101(e)(6) of title 10, United States Code.
+&emsp;"(2) The term 'energy resilience' has the meaning given that term in section 101(e)(6) of title 10, United States Code \[now 10 U.S.C. 101(f)(6)\].
 
 "(f)
 
@@ -1092,7 +1100,7 @@ Requirements for Energy Technologies and Processes.—Energy-efficient and energ
 
 "(c)
 
-Regulations and Guidance.—The Under Secretary of Defense for Acquisition and Sustainment shall issue such regulations and guidance as may be needed to implement the requirements of this section and ensure that goals established pursuant to subsection (a) are met. Such regulations or guidance shall consider the lifecycle cost savings associated with the energy technology or process being offered by a vendor for defense logistics support and oblige the offeror to demonstrate the savings achieved over traditional technologies.
+Regulations and Guidance.—The Under Secretary of Defense for Acquisition and Sustainmentshall issue such regulations and guidance as may be needed to implement the requirements of this section and ensure that goals established pursuant to subsection (a) are met. Such regulations or guidance shall consider the lifecycle cost savings associated with the energy technology or process being offered by a vendor for defense logistics support and oblige the offeror to demonstrate the savings achieved over traditional technologies.
 
 "(d)
 
@@ -1154,7 +1162,7 @@ Establishment of Training Policy.—The Secretary of Defense shall establish a t
 
 "(b)
 
-Issuance of Policy.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall issue the trainingpolicy for Department of Defense energy managers. In creating the policy, the Secretary shall consider the best practices and certifications available in either the military services or in the private sector.
+Issuance of Policy.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall issue the training policy for Department of Defense energy managers. In creating the policy, the Secretary shall consider the best practices and certifications available in either the military services or in the private sector.
 
 "(c)
 
@@ -1260,7 +1268,7 @@ Work With Non-Department of Defense Entities.—The Secretary of Defense shall w
 
 #### Consideration of Fuel Logistics Support Requirements in Planning, Requirements Development, and Acquisition Processes
 
-Pub. L. 110–417, \[div. A\], title III, §332, Oct. 14, 2008, 122 Stat. 4420, as amended by Pub. L. 111–383, div. A,title X, §1075(e)(5), Jan. 7, 2011, 124 Stat. 4374, provided that:
+Pub. L. 110–417, \[div. A\], title III, §332, Oct. 14, 2008, 122 Stat. 4420, as amended by Pub. L. 111–383, div. A, title X, §1075(e)(5), Jan. 7, 2011, 124 Stat. 4374; Pub. L. 118–31, div. A, title III, §315, Dec. 22, 2023, 137 Stat. 217, provided that:
 
 "(a)
 
@@ -1268,7 +1276,27 @@ Planning.—In the case of analyses and force planning processes that are used t
 
 "(b)
 
-Capability Requirements Development Process.—The Secretary of Defense shall develop and implement a methodology to enable the implementation of a fuel efficiency key performance parameter in the requirements development process for the modification of existing or development of new fuel consuming systems.
+Capability Requirements Development Process.—
+
+&emsp;"(1)
+
+in general \[sic\].—The Secretary of Defense shall develop and implement a methodology to enable the implementation of a fuel efficiency key performance parameter in the requirements development process for the modification of existing or development of new fuel consuming systems.
+
+&emsp;"(2)
+
+Waiver of fuel efficiency key performance parameter.—
+
+&emsp;&emsp;"(A)
+
+In general.—The fuel efficiency key performance parameter implemented pursuant to paragraph (1) may be waived with respect to a system only if—
+
+&emsp;&emsp;&emsp;"(i) such waiver is approved by the Under Secretary of Defense for Acquisition and Sustainment; and
+
+&emsp;&emsp;&emsp;"(ii) the system is a fuel consuming system that the Under Secretary of Defense for Acquisition and Sustainment determines requires, or is likely to require, sustainment on at least an occasional basis.
+
+&emsp;&emsp;"(B)
+
+Nondelegation.—The authority to approve a waiver under subparagraph (A) may not be delegated.
 
 "(c)
 
@@ -1370,7 +1398,7 @@ Pub. L. 110–181, div. B, title XXVIII, §2864, Jan. 28, 2008, 122 Stat. 561, r
 
 #### Utilization of Fuel Cells as Back-Up Power Systems in Department of Defense Operations
 
-Pub. L. 109–364, div. A, title III, §358, Oct. 17, 2006, 120 Stat. 2164, provided that: "The Secretary of Defense shall consider the utilization of fuel cells as replacements for current back-up power systems in a varietyof Department of Defense operations and activities, including in telecommunications networks, perimeter security, individual equipment items, and remote facilities, in order to increase the operational longevity of back-up power systems and stand-by power systems in such operations and activities."
+Pub. L. 109–364, div. A, title III, §358, Oct. 17, 2006, 120 Stat. 2164, provided that: "The Secretary of Defense shall consider the utilization of fuel cells as replacements for current back-up power systems in a variety of Department of Defense operations and activities, including in telecommunications networks, perimeter security, individual equipment items, and remote facilities, in order to increase the operational longevity of back-up power systems and stand-by power systems in such operations and activities."
 
 #### Energy Efficiency in Weapons Platforms
 
@@ -1436,7 +1464,7 @@ Sec. 4. <i>Defense Capabilities</i>. (a) The Department of Defense is one of the
 
 (iii) direct an analysis of alternatives for personnel, regulatory, and technical requirements to inform future decisions with respect to nuclear power usage; and
 
-(iv) direct an analysis of United States military uses for space nuclear power and propulsion technologiesand an analysis of foreign adversaries' space power and propulsion programs.
+(iv) direct an analysis of United States military uses for space nuclear power and propulsion technologies and an analysis of foreign adversaries' space power and propulsion programs.
 
 Sec. 5. <i>Space Exploration</i>. (a) Nuclear power sources that use uranium fuel or plutonium heat sources are essential to deep space exploration and in areas where solar power is not practical. NASA uses radioisotope power systems, such as radioisotope thermoelectric generators and radioisotope heater units, to provide power and heat for deep space robotic missions. Nuclear power sources in the kilowatt range may be needed for demonstrating In-situ Resource Utilization (ISRU) and robotic exploration of permanently shadowed craters on the Moon that contain frozen water. Nuclear reactors up to 100 kilowatts may be needed to support human habitats, ISRU, other facilities, and rovers on both the Moon and Mars. Power sources in the megawatt range would be necessary for efficient, long-duration deep space propulsion. Affordable, lightweight nuclear power sources in space would enable new opportunities for scientific discovery. The sustainable exploration of the Moon, Mars, and other locations will be enhanced if small modular reactors can be deployed and operated remotely from Earth.
 

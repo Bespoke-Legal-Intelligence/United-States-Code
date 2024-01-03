@@ -122,7 +122,7 @@ Each State and local board shall maintain records with respect to programs and a
 
 #### (g) Cost categories
 
-In requiring entities to maintain records of costs by cost category under this subchapter,the Secretary shall require only that the costs be categorized as administrative or programmatic costs.
+In requiring entities to maintain records of costs by cost category under this subchapter, the Secretary shall require only that the costs be categorized as administrative or programmatic costs.
 
 (Pub. L. 113–128, title I, §185, July 22, 2014, 128 Stat. 1594; Pub. L. 117–286, §4(b)(48), Dec. 27, 2022, 136 Stat. 4348.)
 
@@ -133,10 +133,6 @@ In requiring entities to maintain records of costs by cost category under this s
 <b>2022</b>—Subsec. (b)(3)(D). Pub. L. 117–286 substituted "chapter 4 of title 5" for "the Inspector General Act of 1978 (5 U.S.C. App.)".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

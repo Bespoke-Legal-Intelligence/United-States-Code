@@ -40,7 +40,7 @@ For purposes of this subchapter:
 
 #### (B) Rule of construction
 
-&emsp;&emsp;A person who currently lives or resides in an institutional care facility, including a jail, substance abuse or mental health treatment facility, hospital or other similar facility, and has resided there for fewer than 90days shall be considered chronically homeless if such person met all of the requirements described in subparagraph (A) prior to entering that facility.
+&emsp;&emsp;A person who currently lives or resides in an institutional care facility, including a jail, substance abuse or mental health treatment facility, hospital or other similar facility, and has resided there for fewer than 90 days shall be considered chronically homeless if such person met all of the requirements described in subparagraph (A) prior to entering that facility.
 
 #### (3) Collaborative applicant
 
@@ -62,7 +62,7 @@ For purposes of this subchapter:
 
 #### (5) Consolidated Plan
 
-&emsp;The term "Consolidated Plan" means a comprehensive housing affordability strategy and community development plan required in part 91 of title 24, Code of Federal Regulations.
+&emsp;The term "Consolidated Plan" means a comprehensive housing affordability strategy andcommunity development plan required in part 91 of title 24, Code of Federal Regulations.
 
 #### (6) Eligible entity
 
@@ -250,7 +250,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(G) the provision of assistance in obtaining other Federal, State, and local assistance available for residents of supportive housing (including mental health benefits, employment counseling, and medical assistance, but not including major medical equipment);
 
-&emsp;&emsp;(H) the provision of legal services for purposes including requesting reconsiderationsand appeals of veterans and public benefit claim denials and resolving outstanding warrants that interfere with an individual's ability to obtain and retain housing;
+&emsp;&emsp;(H) the provision of legal services for purposes including requesting reconsiderations and appeals of veterans and public benefit claim denials and resolving outstanding warrants that interfere with an individual's ability to obtain and retain housing;
 
 &emsp;&emsp;(I) the provision of—
 

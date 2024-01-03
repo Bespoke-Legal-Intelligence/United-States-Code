@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;For the planning of the campaign under paragraph (2), the Director may consult with—
 
-&emsp;&emsp;&emsp;&emsp;(I) the Office for Victims of Crime, the Administration on Children, Youth andFamilies, and other related Federal Government entities;
+&emsp;&emsp;&emsp;&emsp;(I) the Office for Victims of Crime, the Administration on Children, Youth and Families, and other related Federal Government entities;
 
 &emsp;&emsp;&emsp;&emsp;(II) State, local, and Indian Tribal governments;
 

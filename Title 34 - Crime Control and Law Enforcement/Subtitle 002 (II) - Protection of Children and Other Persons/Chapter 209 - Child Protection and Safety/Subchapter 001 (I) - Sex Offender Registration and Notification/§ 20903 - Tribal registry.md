@@ -10,7 +10,7 @@ The Attorney General shall contract with any interested Indian tribe, tribal org
 
 #### (2) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscalyears 2014 through 2018, to remain available until expended.
+There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
 
 (Pub. L. 109–162, title IX, §905(b), Jan. 5, 2006, 119 Stat. 3080; Pub. L. 113–4, title IX, §907(b), Mar. 7, 2013, 127 Stat. 125.)
 

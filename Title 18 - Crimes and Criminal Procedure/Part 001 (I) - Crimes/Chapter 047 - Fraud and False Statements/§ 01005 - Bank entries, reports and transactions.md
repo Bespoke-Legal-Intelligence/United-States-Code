@@ -6,7 +6,7 @@ Whoever, without such authority, makes, draws, issues, puts forth, or assigns an
 
 Whoever makes any false entry in any book, report, or statement of such bank, company, branch, agency, or organization with intent to injure or defraud such bank, company, branch, agency, or organization, or any other company, body politic or corporate, or any individual person, or to deceive any officer of such bank, company, branch, agency, or organization, or the Comptroller of the Currency, or the Federal Deposit Insurance Corporation, or any agent or examiner appointed to examine the affairs of such bank, company, branch, agency, or organization, or the Board of Governors of the Federal Reserve System; or
 
-Whoever with intent to defraud the United States or any agency thereof, or any financial institution referred to in this section, participates or shares in or receives (directly or indirectly) any money, profit, property, or benefits through any transaction, loan, commission, contract, or any other act of any such financial institution—
+Whoever with intent to defraud the United States or any agency thereof, or any financialinstitution referred to in this section, participates or shares in or receives (directly or indirectly) any money, profit, property, or benefits through any transaction, loan, commission, contract, or any other act of any such financial institution—
 
 Shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 

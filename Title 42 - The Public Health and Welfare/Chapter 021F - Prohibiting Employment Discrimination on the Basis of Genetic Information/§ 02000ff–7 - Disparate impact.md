@@ -6,7 +6,7 @@ Notwithstanding any other provision of this Act, "disparate impact", as that ter
 
 #### (b) Commission
 
-On the date that is 6 years after May 21, 2008, there shall be established a commission, to be known as the Genetic Nondiscrimination Study Commission (referred to in this section as the "Commission") to review the developing science of genetics and to make recommendations toCongress regarding whether to provide a disparate impact cause of action under this Act.
+On the date that is 6 years after May 21, 2008, there shall be established a commission, to be known as the Genetic Nondiscrimination Study Commission (referred to in this section as the "Commission") to review the developing science of genetics and to make recommendations to Congress regarding whether to provide a disparate impact cause of action under this Act.
 
 #### (c) Membership
 
@@ -73,6 +73,10 @@ There are authorized to be appropriated to the Equal Employment Opportunity Comm
 This Act, referred to in subsecs. (a), (b), and (e), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881, known as the Genetic Information Nondiscrimination Act of 2008. For complete classification of this Act to the Code, see Short Title note set out under section 2000ff of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date
 

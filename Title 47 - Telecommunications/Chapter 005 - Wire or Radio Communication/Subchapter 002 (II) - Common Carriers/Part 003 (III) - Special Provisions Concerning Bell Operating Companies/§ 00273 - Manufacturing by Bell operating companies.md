@@ -8,7 +8,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 #### (1) Collaboration
 
-&emsp;Subsection (a) shall not prohibit a Bell operating company from engaging in close collaboration with any manufacturer of customer premises equipment or telecommunications equipment during the design and development of hardware, software, or combinations thereof related to such equipment.
+&emsp;Subsection (a) shall not prohibit a Bell operating company from engaging in close collaboration with any manufacturer of customer premises equipment or telecommunications equipment during the design and developmentof hardware, software, or combinations thereof related to such equipment.
 
 #### (2) Certain research arrangements; royalty agreements
 
@@ -22,7 +22,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 #### (1) Information on protocols and technical requirements
 
-&emsp;Each Bell operating company shall, in accordance with regulations prescribed by the Commission, maintain and file with the Commission full and complete information with respect to the protocols and technical requirements for connection with and use of its telephone exchange service facilities. Each suchcompany shall report promptly to the Commission any material changes or planned changes to such protocols and requirements, and the schedule for implementation of such changes or planned changes.
+&emsp;Each Bell operating company shall, in accordance with regulations prescribed by the Commission, maintain and file with the Commission full and complete information with respect to the protocols and technical requirements for connection with and use of its telephone exchange service facilities. Each such company shall report promptly to the Commission any material changes or planned changes to such protocols and requirements, and the schedule for implementation of such changes or planned changes.
 
 #### (2) Disclosure of information
 
@@ -80,7 +80,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;&emsp;&emsp;(i) such entity shall issue a public notice of its consideration of a proposed industry-wide standard or industry-wide generic requirement;
 
-&emsp;&emsp;&emsp;(ii) such entity shall issue a public invitation to interested industry parties to fund and participate in such efforts on a reasonable and nondiscriminatory basis, administered in such a manner as not tounreasonably exclude any interested industry party;
+&emsp;&emsp;&emsp;(ii) such entity shall issue a public invitation to interested industry parties to fund and participate in such efforts on a reasonable and nondiscriminatory basis, administered in such a manner as not to unreasonably exclude any interested industry party;
 
 &emsp;&emsp;&emsp;(iii) such entity shall publish a text for comment by such parties as have agreed to participate in the process pursuant to clause (ii), provide such parties a full opportunity to submit comments, and respond to comments from such parties;
 

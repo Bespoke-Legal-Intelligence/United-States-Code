@@ -2,7 +2,7 @@
 
 #### (a) Authorization; restriction of amounts of plutonium or uranium; amount and use of plutonium authorized to be acquired
 
-The Atomic Energy Commission is authorized to purchase or otherwise acquire from the Community special nuclear material or any interest therein from reactors constructed under the joint program in accordance with the terms of an agreement for cooperation entered into pursuant to the provisions of section 2153 of this title: <i>Provided</i>, That neither plutonium nor uranium 233 nor any interest therein shall be acquired under this section in excess of the total quantities authorized by law. The Commission is authorized to acquire from the Community pursuant to this section up to four thousand one hundred kilograms of plutonium for use only for peaceful purposes.
+The Atomic Energy Commission is authorized to purchase or otherwise acquire from the Community special nuclear material or any interest therein from reactors constructed under the joint program in accordance with the terms of an agreement for cooperation entered into pursuant to the provisions of section 2153 of this title: <i>Provided</i>, That neither plutonium nor uranium 233 nor any interest therein shall be acquired under this section in excess of the totalquantities authorized by law. The Commission is authorized to acquire from the Community pursuant to this section up to four thousand one hundred kilograms of plutonium for use only for peaceful purposes.
 
 #### (b) Terms and periods of contracts to acquire plutonium
 
@@ -26,7 +26,7 @@ Any contract made under this section may be made without regard to section 6101 
 
 #### Codification
 
-In subsec. (d), "sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31" substituted for "section 3679 of the Revised Statutes, as amended \[31U.S.C. 665\]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), "sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31" substituted for "section 3679 of the Revised Statutes, as amended \[31 U.S.C. 665\]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 In subsec. (e), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes, as amended" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

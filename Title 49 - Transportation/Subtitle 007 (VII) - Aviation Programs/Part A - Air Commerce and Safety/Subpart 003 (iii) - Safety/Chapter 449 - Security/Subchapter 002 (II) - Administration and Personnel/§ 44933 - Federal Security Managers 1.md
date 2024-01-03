@@ -18,7 +18,7 @@ Information Sharing.—Not later than 1 year after the date of the enactment of 
 
 &emsp;(1) require each Federal Security Director of an airport to meet at least quarterly with the airport director, airport security coordinator, and law enforcement agencies serving each such airport to discuss incident management protocols, including the resolution of screening anomalies at passenger screening checkpoints; and
 
-&emsp;(2) require each Federal Security Director at an airport to inform, consult, and coordinate,as appropriate, with the respective airport security coordinator in a timely manner on security matters impacting airport operations and to establish and maintain operational protocols with such airport operators to ensure coordinated responses to security matters.
+&emsp;(2) require each Federal Security Director at an airport to inform, consult, and coordinate, as appropriate, with the respective airport security coordinator in a timely manner on security matters impacting airport operations and to establish and maintain operational protocols with such airport operators to ensure coordinated responses to security matters.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1216; Pub. L. 107–71, title I, §§101(f)(4), 103, Nov. 19, 2001, 115 Stat. 603, 605; Pub. L. 115–254, div. K, title I, §§1989(a), 1991(d)(24), Oct. 5, 2018, 132 Stat. 3624, 3637.)
 

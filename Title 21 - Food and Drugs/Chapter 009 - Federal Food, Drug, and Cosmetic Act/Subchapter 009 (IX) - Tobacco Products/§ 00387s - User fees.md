@@ -2,7 +2,7 @@
 
 #### (a) Establishment of quarterly fee
 
-Beginning on June 22, 2009, the Secretary shall in accordance with this section assess user fees on, and collect such fees from, each manufacturer and importer of tobacco products subject to this subchapter. The fees shall be assessed and collected with respect to each quarter of each fiscal year, and the total amount assessed and collected for a fiscal year shall be the amount specified in subsection (b)(1) for such year, subject to subsection (c).
+Beginning on June 22, 2009, the Secretary shall in accordance with this section assess user fees on, and collect such fees from, each manufacturer and importer of tobacco products subjectto this subchapter. The fees shall be assessed and collected with respect to each quarter of each fiscal year, and the total amount assessed and collected for a fiscal year shall be the amount specified in subsection (b)(1) for such year, subject to subsection (c).
 
 #### (b) Assessment of user fee
 
@@ -98,7 +98,7 @@ Beginning on June 22, 2009, the Secretary shall in accordance with this section 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall request the appropriate Federal agency to enter into a memorandum of understanding that provides for the regular and timely transfer from the head of such agency to the Secretary of the information described in paragraphs (2)(B)(ii) and (4) and all necessary information regarding all tobacco product manufacturers and importers required to pay user fees. The Secretary shall maintain all disclosure restrictions established by the head of such agency regarding the information provided under the memorandum of understanding.
+&emsp;&emsp;The Secretary shall request the appropriate Federal agency to enter into a memorandum of understanding that provides for the regular and timely transfer from the head of such agency to the Secretary of the information described in paragraphs\(2)(B)(ii) and (4) and all necessary information regarding all tobacco product manufacturers and importers required to pay user fees. The Secretary shall maintain all disclosure restrictions established by the head of such agency regarding the information provided under the memorandum of understanding.
 
 #### (B) Assurances
 
@@ -158,7 +158,7 @@ If the date of enactment of the Family Smoking Prevention and Tobacco Control Ac
 
 &emsp;(1) The Secretary shall determine the fees that would apply for a single quarter of such fiscal year according to the application of subsection (b) to the amount specified in paragraph (1)(A) of such subsection (referred to in this subsection as the "quarterly fee amounts").
 
-&emsp;(2) For the quarter in which such date of enactment occurs, the amount of fees assessed shall be a pro rata amount, determined according to the number of days remaining in the quarter (including such date of enactment) and according to the daily equivalent of the quarterly fee amounts. Fees assessed under the preceding sentence shall not be collected until the next quarter.
+&emsp;(2) For the quarter in which such date of enactment occurs, the amount of fees assessed shall be a pro rata amount, determined according to the number of days remaining inthe quarter (including such date of enactment) and according to the daily equivalent of the quarterly fee amounts. Fees assessed under the preceding sentence shall not be collected until the next quarter.
 
 &emsp;(3) For the quarter following the quarter to which paragraph (2) applies, the full quarterly fee amounts shall be assessed and collected, in addition to collection of the pro rata fees assessed under paragraph (2).
 

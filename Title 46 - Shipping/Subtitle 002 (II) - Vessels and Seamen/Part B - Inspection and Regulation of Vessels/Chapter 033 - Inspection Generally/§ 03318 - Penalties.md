@@ -40,7 +40,7 @@
 
 (i) A person violating section 3309(c) of this title is liable to the Government for a civil penalty of not more than $1,000.
 
-(j)(1) An owner, charterer, managing operator, agent, master, or individual in charge of a vessel required to be inspected under this chapter operating the vessel without the certificate of inspection is liable to the Government for a civilpenalty of not more than $10,000 for each day during which the violation occurs, except when the violation involves operation of a vessel of less than 1,600 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, the penalty is not more than $2,000 for each day during which the violation occurs. The vessel also is liable in rem for the penalty.
+(j)(1) An owner, charterer, managing operator, agent, master, or individual in charge of a vessel required to be inspected under this chapter operating the vessel without the certificate of inspection is liable to the Government for a civil penalty of not more than $10,000 for each day during which the violation occurs, except when the violation involves operation of a vessel of less than 1,600 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, the penalty is not more than $2,000 for each day during which the violation occurs. The vessel also is liable in rem for the penalty.
 
 (2) A person is not liable for a penalty under this subsection if—
 
@@ -112,7 +112,7 @@ Subsec. (f). Pub. L. 101–380, §4302(b)(5), substituted "commits a class D fel
 
 <b>1986</b>—Subsec. (f). Pub. L. 99–307 in provision preceding par. (1) substituted "than" for "then" in two places.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–498, §211(c)(1), substituted "Except as otherwise provided in this part, the" for "The" and "not more than $5,000" for "$1,000, except that when the violation involves operation of a barge, the penalty is $500".
+<b>1984</b>—Subsec. (a). Pub. L. 98–498, §211(c)(1), substituted "Except as otherwise provided in this part, the" for "The" and "not more than $5,000" for "$1,000,except that when the violation involves operation of a barge, the penalty is $500".
 
 Subsec. (c). Pub. L. 98–498, §211(c)(2), substituted "$5,000" for "$2,000".
 

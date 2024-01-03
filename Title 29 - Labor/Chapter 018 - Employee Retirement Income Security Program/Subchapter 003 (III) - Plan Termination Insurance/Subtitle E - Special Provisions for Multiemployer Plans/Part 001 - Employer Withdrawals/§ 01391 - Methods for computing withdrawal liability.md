@@ -70,7 +70,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;(iii) any amount which the plan sponsor determines to be uncollectible or unassessable in that plan year for other reasons under standards not inconsistent with regulations prescribed by the corporation.
 
-(C) The unamortized amount of the reallocated unfunded vested benefits with respect to a plan year is the reallocated unfunded vested benefits for the plan year, reduced by 5 percentof such reallocated unfunded vested benefits for each succeeding plan year.
+(C) The unamortized amount of the reallocated unfunded vested benefits with respect to a plan year is the reallocated unfunded vested benefits for the plan year, reduced by 5 percent of such reallocated unfunded vested benefits for each succeeding plan year.
 
 (D) An employer's proportional share of the unamortized amount of the reallocated unfunded vested benefits with respect to a plan year is the product of—
 
@@ -100,7 +100,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(I) the plan's unfunded vested benefits as of the end of the plan year preceding the plan year in which the employer withdraws, less
 
-&emsp;&emsp;(II) the sum of the value as of such date of all outstanding claims for withdrawal liability which can reasonably be expected to be collected, with respect to employers withdrawing before such plan year, and that portion of the amount determined under subparagraph (B)(i) which is allocable to employers who have an obligation to contribute under the plan in the plan year preceding the plan year in which the employer withdraws and who also had an obligation to contribute under the plan for the first plan year ending after September 25, 1980; multiplied by
+&emsp;&emsp;(II) the sum of the value as of such date of all outstanding claims for withdrawal liability which can reasonably be expected to becollected, with respect to employers withdrawing before such plan year, and that portion of the amount determined under subparagraph (B)(i) which is allocable to employers who have an obligation to contribute under the plan in the plan year preceding the plan year in which the employer withdraws and who also had an obligation to contribute under the plan for the first plan year ending after September 25, 1980; multiplied by
 
 &emsp;(ii) a fraction—
 
@@ -152,7 +152,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(I) the numerator of which is the sum of all contributions (accumulated with interest) which have been made to the plan by the employer for the plan year preceding the plan year in which the employer withdraws and all preceding plan years; and
 
-&emsp;&emsp;(II) the denominator of which is the sum of all contributions (accumulated with interest) which have been made to the plan (for the plan year preceding the plan year in which the employer withdraws and all preceding plan years) by all employers who have an obligation to contribute to the plan for the plan year preceding the plan year in which the employer withdraws; or
+&emsp;&emsp;(II) the denominator of which is the sum of all contributions (accumulated with interest) which have been made to the plan (for the plan year preceding the plan year in which the employer withdraws and all preceding plan years) by all employers who have an obligation to contribute to the planfor the plan year preceding the plan year in which the employer withdraws; or
 
 &emsp;(iii) by multiplying the value of plan assets under subparagraph (C) by a fraction—
 
@@ -200,7 +200,7 @@ Fresh start option.—Notwithstanding paragraph (1), a plan may be amended to pr
 
 #### (e) Reduction of liability of withdrawn employer in case of transfer of liabilities to another plan incident to withdrawal or partial withdrawal of employer
 
-In the case of a transfer of liabilities to another plan incident to an employer's withdrawal or partial withdrawal, the withdrawn employer's liability under this part shall be reduced in an amount equal to the value, as of the end of the last plan year ending on or before the date of the withdrawal, of the transferred unfunded vested benefits.
+In the case of a transfer of liabilities to another plan incident to an employer's withdrawal or partial withdrawal, the withdrawn employer's liability under this part shall be reduced in anamount equal to the value, as of the end of the last plan year ending on or before the date of the withdrawal, of the transferred unfunded vested benefits.
 
 #### (f) Computations applicable in case of withdrawal following merger of multiemployer plans
 

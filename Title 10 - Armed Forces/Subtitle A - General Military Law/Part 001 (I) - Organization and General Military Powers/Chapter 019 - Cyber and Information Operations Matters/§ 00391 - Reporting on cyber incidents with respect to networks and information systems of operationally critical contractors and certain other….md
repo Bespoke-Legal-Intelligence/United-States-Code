@@ -112,7 +112,7 @@ Pub. L. 116–92, div. A, title XVI, §1657, Dec. 20, 2019, 133 Stat. 1767, whic
 
 #### Consortia of Universities To Advise Secretary of Defense on Cybersecurity Matters
 
-Pub. L. 116–92, div. A, title XVI, §1659, Dec. 20, 2019, 133 Stat. 1770, as amended by Pub. L. 117–81, div. A, title XV, §1530, Dec. 27, 2021, 135 Stat. 2049; Pub. L. 117–263, div. A, title XV, §1505, Dec. 23, 2022, 136 Stat. 2881, provided that:
+Pub. L. 116–92, div. A, title XVI, §1659, Dec. 20, 2019, 133 Stat. 1770, as amended by Pub. L. 117–81, div. A, title XV, §1530, Dec. 27, 2021, 135 Stat. 2049; Pub. L. 117–263, div. A, title XV, §1505, Dec. 23, 2022, 136 Stat. 2881; Pub. L. 118–31, div. A, title XV, §1531(c)(3), Dec. 22, 2023, 137 Stat. 562, provided that:
 
 "(a)
 
@@ -198,7 +198,11 @@ Functions.—The functions of the center established under paragraph (1) are as 
 
 &emsp;&emsp;"(C) To collect and assemble responses from requests distributed under subparagraph (B).
 
-&emsp;&emsp;"(D) To provide additional administrative support for the consortium."
+&emsp;&emsp;"(D) To provide additional administrative support for the consortium.
+
+"(g)
+
+Discharge Through Director.—In carrying out this section, the Secretary of Defense shall act through the Director of the office established under section 2192c of title 10, United States Code."
 
 #### Issuance of Procedures
 

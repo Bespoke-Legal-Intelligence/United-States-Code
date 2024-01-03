@@ -12,7 +12,7 @@ Each report to the Secretary required by this section shall contain the followin
 
 &emsp;(2) For gifts received from or contracts entered into with a foreign government, the aggregate amount of such gifts and contracts received from each foreign government.
 
-&emsp;(3) In the case of an institution which is owned or controlled by a foreign source, the identity of the foreign source, the date on which the foreign source assumed ownership or control, and any changes in program or structure resulting from the change in ownership or control.
+&emsp;(3) In the case of an institution which is owned or controlled by a foreign source, the identity of the foreign source, the date onwhich the foreign source assumed ownership or control, and any changes in program or structure resulting from the change in ownership or control.
 
 #### (c) Additional disclosures for restricted and conditional gifts
 
@@ -26,7 +26,7 @@ Notwithstanding the provisions of subsection (b), whenever any institution recei
 
 #### (1) State requirements
 
-&emsp;If an institution described under subsection (a) is within a State which has enacted requirements for public disclosure of gifts fromor contracts with a foreign source that are substantially similar to the requirements of this section, a copy of the disclosure report filed with the State may be filed with the Secretary in lieu of a report required under subsection (a). The State in which the institution is located shall provide to the Secretary such assurances as the Secretary may require to establish that the institution has met the requirements for public disclosure under State law if the State report is filed.
+&emsp;If an institution described under subsection (a) is within a State which has enacted requirements for public disclosure of gifts from or contracts with a foreign source that are substantially similar to the requirements of this section, a copy of the disclosure report filed with the State may be filed with the Secretary in lieu of a report required under subsection (a). The State in which the institution is located shall provide to the Secretary such assurances as the Secretary may require to establish that the institution has met the requirements for public disclosure under State law if the State report is filed.
 
 #### (2) Use of other Federal reports
 

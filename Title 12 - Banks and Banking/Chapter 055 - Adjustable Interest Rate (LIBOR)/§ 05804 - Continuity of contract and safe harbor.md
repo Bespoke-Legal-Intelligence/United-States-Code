@@ -52,7 +52,7 @@ The selection or use of a Board-selected benchmark replacement or the determinat
 
 #### (e) No negative inference
 
-Except as provided in subsections (a), (b), or (c)(1) of section 5803 of this title, nothing in this chapter may be construed to create any negative inference or negative presumption regarding the validity or enforceability of—
+Except as provided in subsections <sup>3</sup> (a), (b), or (c)(1) of section 5803 of this title, nothing in this chapter may be construed to create any negative inference or negative presumption regarding the validity or enforceability of—
 
 &emsp;(1) any benchmark replacement (including any method for calculating, determining, or implementing an adjustment to the benchmark replacement to account for any historical differences between LIBOR and the benchmark replacement) that is not a Board-selected benchmark replacement; or
 
@@ -68,7 +68,9 @@ The Truth in Lending Act, referred to in subsec. (a)(5), is title I of Pub. L. 9
 
 This chapter, referred to in subsec. (e), was in the original "this division", meaning div. U of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 825, known as the Adjustable Interest Rate (LIBOR) Act, which is classified principally to this chapter. For complete classification of div. U to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "(15 U.S.C. 1601 et seq.)"</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(15 U.S.C. 1601 et seq.)".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be "that Act."</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "subsection".</i>
 

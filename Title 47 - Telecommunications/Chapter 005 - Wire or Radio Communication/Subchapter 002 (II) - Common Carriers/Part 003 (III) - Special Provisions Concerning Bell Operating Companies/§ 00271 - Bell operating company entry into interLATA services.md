@@ -8,7 +8,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (1) In-region services
 
-&emsp;A Bell operating company, or any affiliate of that Bell operating company, may provide interLATA services originating in any of its in-region States (as defined in subsection (i)) if the Commission approves the application of such company for such State under subsection (d)(3).
+&emsp;A Bell operating company, or any affiliate of that Bell operating company, may provideinterLATA services originating in any of its in-region States (as defined in subsection (i)) if the Commission approves the application of such company for such State under subsection (d)(3).
 
 #### (2) Out-of-region services
 
@@ -20,7 +20,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (4) Termination
 
-&emsp;Nothing in this section prohibits a Bell operating company or any of its affiliates fromproviding termination for interLATA services, subject to subsection (j).
+&emsp;Nothing in this section prohibits a Bell operating company or any of its affiliates from providing termination for interLATA services, subject to subsection (j).
 
 #### (c) Requirements for providing certain in-region interLATA services
 
@@ -78,7 +78,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 &emsp;&emsp;&emsp;(x) Nondiscriminatory access to databases and associated signaling necessary for call routing and completion.
 
-&emsp;&emsp;&emsp;(xi) Until the date by which the Commission issues regulations pursuant to section251 of this title to require number portability, interim telecommunications number portability through remote call forwarding, direct inward dialing trunks, or other comparable arrangements, with as little impairment of functioning, quality, reliability, and convenience as possible. After that date, full compliance with such regulations.
+&emsp;&emsp;&emsp;(xi) Until the date by which the Commission issues regulations pursuant to section 251 of this title to require number portability, interim telecommunications number portability through remote call forwarding, direct inward dialing trunks, or other comparable arrangements, with as little impairment of functioning, quality, reliability, and convenience as possible. After that date, full compliance with such regulations.
 
 &emsp;&emsp;&emsp;(xii) Nondiscriminatory access to such services or information as are necessary to allow the requesting carrier to implement local dialing parity in accordance with the requirements of section 251(b)(3) of this title.
 
@@ -146,7 +146,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (1) Joint marketing of local and long distance services
 
-&emsp;Until a Bell operating company is authorized pursuant to subsection (d) to provide interLATA services in an in-region State, or until 36 months have passed since February 8, 1996, whichever is earlier, a telecommunications carrier that serves greater than 5 percent of the Nation's presubscribed access lines may not jointly market in such State telephone exchange service obtained from suchcompany pursuant to section 251(c)(4) of this title with interLATA services offered by that telecommunications carrier.
+&emsp;Until a Bell operating company is authorized pursuant to subsection (d) to provide interLATA services in an in-region State, or until 36 months have passed since February 8, 1996, whichever is earlier, a telecommunications carrier that serves greater than 5 percent of the Nation's presubscribed access lines may not jointly market in such State telephone exchange service obtained from such company pursuant to section 251(c)(4) of this title with interLATA services offered by that telecommunications carrier.
 
 #### (2) IntraLATA toll dialing parity
 

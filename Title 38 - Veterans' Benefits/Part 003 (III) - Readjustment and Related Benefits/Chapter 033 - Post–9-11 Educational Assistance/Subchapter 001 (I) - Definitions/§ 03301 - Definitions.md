@@ -6,9 +6,9 @@ In this chapter:
 
 &emsp;&emsp;(A) In the case of members of the regular components of the Armed Forces, the meaning given such term in section 101(21)(A).
 
-&emsp;&emsp;(B) In the case of members of the reserve components of the Armed Forces, service on active duty under a call or order to active duty under section 688, 12301(a), 12301(d), 12301(g), 12301(h), 12302, 12304, 12304a, or 12304b of title 10 or section 712 <sup>1</sup> of title 14.
+&emsp;&emsp;(B) In the case of members of the reserve components of the Armed Forces, service on active duty under a call or order to active duty under section 688, 12301(a), 12301(d),12301(g), 12301(h), 12302, 12304, 12304a, or 12304b of title 10 or section 712 <sup>1</sup> of title 14.
 
-&emsp;&emsp;(C) In the case of a member of the Army National Guard of the United States or AirNational Guard of the United States, in addition to service described in subparagraph (B), full-time service—
+&emsp;&emsp;(C) In the case of a member of the Army National Guard of the United States or Air National Guard of the United States, in addition to service described in subparagraph (B), full-time service—
 
 &emsp;&emsp;&emsp;(i) in the National Guard of a State for the purpose of organizing, administering, recruiting, instructing, or training the National Guard; or
 
@@ -88,11 +88,11 @@ One station unit training.—The amendment made by subsection (a)(2) \[amending 
 
 "(3)
 
-Entry level and skill training for the coast guard.—The amendment made by subsection (a)(3) \[amending this section\] shall take effect on the date of the enactment of this Act, and shall apply with respect to individuals entering service on or after that date."
+Entry level and skill training for the coast guard.—The amendment made by subsection (a)(3)\[amending this section\] shall take effect on the date of the enactment of this Act, and shall apply with respect to individuals entering service on or after that date."
 
 #### Effective Date
 
-Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008Amendment note under section 16163 of Title 10, Armed Forces.
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
 
 #### Construction of Active Duty
 
@@ -156,7 +156,7 @@ Since the Post-9/11 GI Bill became law, there have been reports of aggressive an
 
 To ensure our service members, veterans, spouses, and other family members have the information they need to make informed decisions concerning their well-earned Federal military and veterans educational benefits, I am directing my Administration to develop Principles of Excellence to strengthen oversight, enforcement, and accountability within these benefits programs.
 
-Sec. 2. <i>Principles of Excellence for Educational Institutions Serving Service Members, Veterans, Spouses, and Other Family Members</i>. The Departments of Defense, Veterans Affairs, and Education shall establish Principles of Excellence (Principles) to apply to educational institutions receiving funding from Federal military and veterans educational benefits programs, including benefits programs provided by the Post-9/11 GI Bill and the Tuition Assistance Program. The Principles should ensure that these educational institutions provide meaningful information to service members, veterans,spouses, and other family members about the financial cost and quality of educational institutions to assist those prospective students in making choices about how to use their Federal educational benefits; prevent abusive and deceptive recruiting practices that target the recipients of Federal military and veterans educational benefits; and ensure that educational institutions provide high-quality academic and student support services to active-duty service members, reservists, members of the National Guard, veterans, and military families.
+Sec. 2. <i>Principles of Excellence for Educational Institutions Serving Service Members, Veterans, Spouses, and Other Family Members</i>. The Departments of Defense, Veterans Affairs, and Education shall establish Principles of Excellence (Principles) to apply to educational institutions receiving funding from Federal military and veterans educational benefits programs, including benefits programs provided by the Post-9/11 GI Bill and the Tuition Assistance Program. The Principles should ensure that these educational institutions provide meaningful information to service members, veterans, spouses, and other family members about the financial cost and quality of educational institutions to assist those prospective students in making choices about how to use their Federal educational benefits; prevent abusive and deceptive recruiting practices that target the recipients of Federal military and veterans educational benefits; and ensure that educational institutions provide high-quality academic and student support services to active-duty service members, reservists, members of the National Guard, veterans, and military families.
 
 To the extent permitted by law, the Principles, implemented pursuant to section 3 of this order, should require educational institutions receiving funding pursuant to Federal military and veterans educational benefits to:
 
@@ -188,9 +188,9 @@ Sec. 3. <i>Implementation of the Principles of Excellence</i>.
 
 Sec. 4. <i>Strengthening Enforcement and Compliance Mechanisms</i>. Service members, veterans, spouses, and other family members should have access to a strong enforcement system through which to file complaints when institutions fail to follow the Principles. Within 90 days of the date of this order, the Secretaries of Defense and Veterans Affairs, in consultation with the Secretary of Education and the Director of the CFPB, as well as with the Attorney General, as appropriate, shall submit to the President a plan to strengthen enforcement and compliance mechanisms. The plan shall include proposals to:
 
-(a) create a centralized complaint system for students receiving Federal military and veterans educational benefits to register complaints that can be tracked and responded to by the Departments of Defense, Veterans Affairs, Justice, and Education, the CFPB, and other relevant agencies;
+(a) create a centralized complaint system for students receiving Federal military and veterans educational benefits to register complaints that can betracked and responded to by the Departments of Defense, Veterans Affairs, Justice, and Education, the CFPB, and other relevant agencies;
 
-(b) institute uniform procedures for receiving and processing complaints across the State Approving Agencies (SAAs) that work with the Department of Veterans Affairs to review participating institutions,provide a coordinated mechanism across SAAs to alert the Department of Veterans Affairs to any complaints that have been registered at the State level, and create procedures for sharing information about complaints with the appropriate State officials, accrediting agency representatives, and the Secretary of Education;
+(b) institute uniform procedures for receiving and processing complaints across the State Approving Agencies (SAAs) that work with the Department of Veterans Affairs to review participating institutions, provide a coordinated mechanism across SAAs to alert the Department of Veterans Affairs to any complaints that have been registered at the State level, and create procedures for sharing information about complaints with the appropriate State officials, accrediting agency representatives, and the Secretary of Education;
 
 (c) institute uniform procedures for referring potential matters for civil or criminal enforcement to the Department of Justice and other relevant agencies;
 

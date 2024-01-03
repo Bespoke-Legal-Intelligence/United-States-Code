@@ -32,7 +32,7 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 Pub. L. 91–513, title III, §1105(a)–(c), Oct. 27, 1970, 84 Stat. 1295, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(a) Except as otherwise provided in this section, this title \[see Short Title note below\] shall become effectiveon the first day of the seventh calendar month that begins after the day immediately preceding the date of enactment \[Oct. 27, 1970\].
+"(a) Except as otherwise provided in this section, this title \[see Short Title note below\] shall become effective on the first day of the seventh calendar month that begins after the day immediately preceding the date of enactment \[Oct. 27, 1970\].
 
 "(b) Sections 1000, 1001, 1006, 1015, 1016, 1103, 1104 \[see Short Title note below and sections 171 note, 951, 956, 957 note, 965, and 966 of this title\], and this section shall become effective upon enactment \[Oct. 27, 1970\].
 

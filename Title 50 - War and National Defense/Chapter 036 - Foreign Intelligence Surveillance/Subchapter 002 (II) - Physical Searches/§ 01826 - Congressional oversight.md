@@ -1,6 +1,6 @@
 ### §1826. Congressional oversight
 
-On a semiannual basis the Attorney General shall fully inform the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate concerning all physical searches conducted pursuant to this subchapter. On a semiannual basisthe Attorney General shall also provide to those committees a report setting forth with respect to the preceding six-month period—
+On a semiannual basis the Attorney General shall fully inform the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate concerning all physical searches conducted pursuant to this subchapter. On a semiannual basis the Attorney General shall also provide to those committees a report setting forth with respect to the preceding six-month period—
 
 &emsp;(1) the total number of applications made for orders approving physical searches under this subchapter;
 
@@ -10,7 +10,7 @@ On a semiannual basis the Attorney General shall fully inform the Permanent Sele
 
 &emsp;(4) the total number of emergency physical searches authorized by the Attorney General under section 1824(e) of this title and the total number of subsequent orders approving or denying such physical searches.
 
-(Pub. L. 95–511, title III, §306, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3451; amended Pub. L. 109–177, title I, §109(a), Mar. 9, 2006, 120 Stat. 204; Pub. L. 114–23, title VI, §605(b), June 2, 2015, 129 Stat. 298.)
+(Pub. L. 95–511, title III, §306, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3451; amended Pub. L. 109–177, title I,§109(a), Mar. 9, 2006, 120 Stat. 204; Pub. L. 114–23, title VI, §605(b), June 2, 2015, 129 Stat. 298.)
 
 #### <b>Editorial Notes</b>
 

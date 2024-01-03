@@ -12,7 +12,7 @@ Grants under this section may be used to establish and develop programs to—
 
 &emsp;(2) assist State and local law enforcement agencies in educating the public to prevent and identify computer crime, including infringement of copyrighted works over the Internet;
 
-&emsp;(3) educate and train State and local law enforcement officers and prosecutors to conduct investigations and forensic analyses of evidence and prosecutions of computer crime, including infringement of copyrighted works over the Internet;
+&emsp;(3) educate and train State and local law enforcement officers and prosecutors to conductinvestigations and forensic analyses of evidence and prosecutions of computer crime, including infringement of copyrighted works over the Internet;
 
 &emsp;(4) assist State and local law enforcement officers and prosecutors in acquiring computer and other equipment to conduct investigations and forensic analysis of evidence of computer crimes; and
 
@@ -50,7 +50,7 @@ The Federal share of a grant received under this section may not exceed 90 perce
 
 #### (3) Minimum amount
 
-&emsp;Unless all eligible applications submitted by any State or unit of local government withinsuch State for a grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.75 percent of the total amount appropriated in the fiscal year for grants pursuant to this section, except that the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands each shall be allocated 0.25 percent.
+&emsp;Unless all eligible applications submitted by any State or unit of local government within such State for a grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.75 percent of the total amount appropriated in the fiscal year for grants pursuant to this section, except that the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands each shall be allocated 0.25 percent.
 
 #### (f) Grants to Indian tribes
 

@@ -92,7 +92,7 @@ An eligible institution that receives a grant under this section may not use gra
 
 #### Amendments
 
-<b>2015</b>—Subsec. (d)(1). Pub. L. 114–95 struck out "highly qualified" after "become" and inserted ", who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title" before period at end.
+<b>2015</b>—Subsec. (d)(1). Pub. L. 114–95 struck out "highly qualified" after "become" and inserted ", who meetthe applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title" before period at end.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

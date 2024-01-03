@@ -134,7 +134,7 @@ Notification.—The Inspector General shall notify the Attorney General 7 days b
 
 #### Amendments Not Shown in Text
 
-<i>This section was derived from section 8 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §5272(3), Dec. 23, 2022, 136 Stat. 3239, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4224,</i><i>4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 8 of Pub. L. 95–452 was amended as follows:</i>
+<i>This section was derived from section 8 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §5272(3), Dec. 23, 2022, 136 Stat. 3239, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4224, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 8 of Pub. L. 95–452 was amended as follows:</i>
 
 <i>(1) in subsection (b)—</i>
 
@@ -175,6 +175,12 @@ In subsection (b)(3), the words "Committee on Oversight and Reform" are substitu
 In subsection (c)(9), the word "ensuring" is substituted for "insuring" for clarity.
 
 In subsection (f)(1) (matter before subparagraph (A)), the words "\[Committee on\] Oversight and Reform" are substituted for "\[Committee on\] Oversight and Government Reform" on authority of rule X(1)(n) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (116th Congress, January 9, 2019).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

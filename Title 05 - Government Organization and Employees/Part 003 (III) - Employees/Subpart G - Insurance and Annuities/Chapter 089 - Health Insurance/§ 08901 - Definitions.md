@@ -88,7 +88,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(C)(i) who is receiving any portion of an annuity under section 8345(j) or 8467 of this title or a survivor annuity under section 8341(h) or 8445 of this title (or benefits similar to either of the aforementioned annuity benefits under a retirement system for Government employees other than the Civil Service Retirement System or the Federal Employees' Retirement System),
 
-&emsp;&emsp;(ii) as to whom a court order or decree referred to in section 8341(h), 8345(j), 8445, or 8467 of this title (or similar provision of law under any such retirement system other than the Civil Service Retirement System or the Federal Employees' Retirement System) has been issued, or for whom an election has been made under section 8339(j)(3) or 8417(b) of this title (or similar provision of law), or
+&emsp;&emsp;(ii) as to whom a court order or decree referred to in section 8341(h), 8345(j), 8445, or 8467 of this title (or similar provision of lawunder any such retirement system other than the Civil Service Retirement System or the Federal Employees' Retirement System) has been issued, or for whom an election has been made under section 8339(j)(3) or 8417(b) of this title (or similar provision of law), or
 
 &emsp;&emsp;(iii) who is otherwise entitled to an annuity or any portion of an annuity as a former spouse under a retirement system for Government employees,
 
@@ -136,7 +136,7 @@ Aug. 31, 1964, Pub. L. 88–531, §1, 78 Stat. 737.
 
 July 1, 1960, Pub. L. 86–568, §115(d) "(f) (1st sentence, less words between 1st and 2d commas)", 74 Stat. 303.
 
-The definition of "employee" in section 2105 of this title is broad enough to cover the officers and employees covered by former section 3001 with the exception ofa Member of Congress, the President, an individual employed by the government of the District of Columbia, an individual employed by Gallaudet College, a United States commissioner, and an Official Reporter of Debates of the Senate and an individual employed by him. The first five have been added in paragraphs (1)(B), (D), (E), (F), and (G). The latter are covered by the definition of "Congressional employee" in section 2107 of this title and are included by the addition of a Congressional employee in paragraph (1)(C).
+The definition of "employee" in section 2105 of this title is broad enough to cover the officers and employees covered by former section 3001 with the exception of a Member of Congress, the President, an individual employed by the government of the District of Columbia, an individual employed by Gallaudet College, a United States commissioner, and an Official Reporter of Debates of the Senate and an individual employed by him. The first five have been added in paragraphs (1)(B), (D), (E), (F), and (G). The latter are covered by the definition of "Congressional employee" in section 2107 of this title and are included by the addition of a Congressional employee in paragraph (1)(C).
 
 In paragraph (1)(ii), the words "the United States" are substituted for "a State of the United States or the District of Columbia".
 
@@ -330,7 +330,7 @@ Transfers to the Employees Health Benefits Fund.—
 
 &emsp;"(1)
 
-In general.—The Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\] shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Overseas Private Investment Corporation, to be necessary toreimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section.
+In general.—The Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\] shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Overseas Private Investment Corporation, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section.
 
 &emsp;"(2)
 

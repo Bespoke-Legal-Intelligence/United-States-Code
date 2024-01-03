@@ -50,7 +50,7 @@ Assignment in lieu of election.—Notwithstanding subparagraph (A)—
 
 &emsp;&emsp;&emsp;(iii) if at any time U.S. Customs and Border Protection concludes that a border patrol agent is unable to perform overtime on a daily basis in accordance with this section, U.S. Customs and Border Protection shall assign the border patrol agent to the basic border patrol rate of pay until such time as U.S. Customs and Border Protection determines that the border patrol agent is able to perform scheduled overtime on a daily basis;
 
-&emsp;&emsp;&emsp;(iv) unless the analysis conducted under section 2(e) of the Border Patrol Agent Pay Reform Act of 2014 indicates that, in order to more adequately fulfill the operational requirements of U.S. Customs and Border Protection, such border patrol agents should be allowed to elect or be assigned to the level 1 border patrol rate of pay or the level 2 border patrol rate of pay, a border patrol agent shall be assigned to the basic border patrol rate of pay if the agent works—
+&emsp;&emsp;&emsp;(iv) unless the analysis conducted under section 2(e) of the Border Patrol Agent Pay Reform Act of 2014 indicates that, in order to more adequately fulfill the operational requirements of U.S. Customs and Border Protection, such border patrol agents should be allowed to elect or be assigned to the level 1 border patrol rate of pay or the level 2 border patrol rate of pay,a border patrol agent shall be assigned to the basic border patrol rate of pay if the agent works—
 
 &emsp;&emsp;&emsp;&emsp;(I) at U.S. Customs and Border Protection headquarters;
 
@@ -132,7 +132,7 @@ Level 1 border patrol rate of pay.—For a border patrol agent who is assigned t
 
 &emsp;&emsp;(B) for paid hours of regular time described in subparagraph (A)(i), the border patrol agent shall receive pay at the level 1 border patrol rate of pay;
 
-&emsp;&emsp;(C) compensation for the hours of regularly scheduled overtime work described in subparagraph (A)(ii) is provided indirectly through the 25 percent supplement within the level 1 border patrol rate of pay, and the border patrol agent may not receive for such hours—
+&emsp;&emsp;(C) compensation for the hours of regularly scheduled overtime work described in subparagraph (A)(ii) is provided indirectly through the 25 percent supplement withinthe level 1 border patrol rate of pay, and the border patrol agent may not receive for such hours—
 
 &emsp;&emsp;&emsp;(i) any compensation in addition to the compensation under subparagraph (B) under this section or any other provision of law; or
 
@@ -280,7 +280,31 @@ Insufficient hours.—If a border patrol agent has a remaining hours obligation 
 
 Authority To Require Overtime Work.—Nothing in this section shall be construed to limit the authority of U.S. Customs and Border Protection to require a border patrol agent to perform hours of overtime work in accordance with the needs of U.S. Customs and Border Protection, including if needed in the event of a local or national emergency.
 
-(Pub. L. 113–277, §2(b), Dec. 18, 2014, 128 Stat. 2995.)
+(h)
+
+Special Overtime Pay for GS–12
+
+Border Patrol Agents.—
+
+&emsp;(1)
+
+In general.—Notwithstanding paragraphs (1)(F), (2)(C), and (3)(C) of subsection (b), a border patrol agent encumbering a position at grade GS–12 shall receive a special overtime payment under this subsection for hours of regularly scheduled work described in paragraph (2)(A)(ii) or (3)(A)(ii) of subsection (b), as applicable, that are credited to the agent through actual performance of work, crediting under rules for canine agents under subsection (b)(1)(F), or substitution of overtime hours in the same work period under subsection (f)(2)(A), except that no such payment may be made for periods of absence resulting in an hours obligation under paragraph (3) or (4) of subsection (f).
+
+&emsp;(2)
+
+Computation.—The special overtime payment authorized under paragraph (1) shall be computed by multiplying the credited hours by 50 percent of the border patrol agent's hourly rate of basic pay, rounded to the nearest cent.
+
+&emsp;(3)
+
+Limitations.—The special overtime payment authorized under paragraph (1)—
+
+&emsp;&emsp;(A) is not considered basic pay for retirement under section 8331(3) or 8401(4) or for any other purpose;
+
+&emsp;&emsp;(B) is not payable during periods of paid leave or other paid time off; and
+
+&emsp;&emsp;(C) is not considered in computing an agent's lump-sum annual leave payment under sections 5551 and 5552.
+
+(Pub. L. 113–277, §2(b), Dec. 18, 2014, 128 Stat. 2995; Pub. L. 118–31, div. E, title LII, §5201, Dec. 22, 2023, 137 Stat. 939.)
 
 #### <b>Editorial Notes</b>
 
@@ -288,15 +312,25 @@ Authority To Require Overtime Work.—Nothing in this section shall be construed
 
 The date of enactment of this section, referred to in subsec. (b)(1)(A), (C), is the date of enactment of Pub. L. 113–277, which was approved Dec. 18, 2014.
 
-Section 2(e) of the Border Patrol Agent Pay Reform Act of 2014, referred to in subsec. (b)(1)(D)(iv), (E)(ii), issection 2(e) of Pub. L. 113–277, Dec. 18, 2014, 128 Stat. 3003, which related to comprehensive staffing analysis and is not classified to the Code.
+Section 2(e) of the Border Patrol Agent Pay Reform Act of 2014, referred to in subsec. (b)(1)(D)(iv), (E)(ii), is section 2(e) of Pub. L. 113–277, Dec. 18, 2014, 128 Stat. 3003, which related to comprehensive staffing analysis and is not classified to the Code.
 
-The date of enactment of the Border Patrol Agent Pay Reform Act of 2014, referred to in subsec. (b)(1)(G)(i), is the date of enactment of Pub. L. 113–277, which was approved Dec. 18, 2014.
+The date of enactment of the Border Patrol Agent Pay Reform Act of 2014, referred to in subsec.\(b)(1)(G)(i), is the date of enactment of Pub. L. 113–277, which was approved Dec. 18, 2014.
+
+GS–12, referred to in subsec. (h), is contained in the General Schedule which is set out under section 5332 of this title.
 
 #### Prior Provisions
 
 A prior section 5550, added Pub. L. 92–392, §10(a), Aug. 19, 1972, 86 Stat. 574, related to pay for Sunday and overtime work for employees of nonappropriated fund instrumentalities, prior to repeal by Pub. L. 102–378, §2(44)(A), Oct. 2, 1992, 106 Stat. 1352.
 
+#### Amendments
+
+<b>2023</b>—Subsec. (h). Pub. L. 118–31 added subsec. (h).
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date
 

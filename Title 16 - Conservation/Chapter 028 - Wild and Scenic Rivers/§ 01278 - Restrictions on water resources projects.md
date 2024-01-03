@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 99–590, §505(b), added cl. (ii), redesignated former cl.
 
 <b>1974</b>—Subsec. (b)(i). Pub. L. 93–279, §1(b)(3), substituted provisions that construction projects may not be licensed or assisted before Oct. 2, 1978, or for a three year period following inclusion of a river in the list of rivers for potential addition to the national wild and scenic river system, unless, prior to that period, the Secretary of the Interior or the Secretary of Agriculture, as the case may be, determined that such river should not be so included and notified the Committees on Interior and Insular Affairs, before publication in the Federal Register, for provisions that such projects may not be licensed or assisted before Oct. 2, 1973, unless, prior to that period, the Secretary of the Interior or the Secretary of Agriculture, as the case may be, concluded that such river should not be so included and published notice to that effect in the Federal Register.
 
-Subsec. (b)(ii). Pub. L. 93–279, §1(b)(4), substituted "the report for which is submitted to the President and the Congress, is necessary" for "which is recommended to the President and the Congress for inclusion in the national wild and scenic rivers system, is necessary".
+Subsec. (b)(ii). Pub. L. 93–279, §1(b)(4), substituted "the report for which is submitted to the President andthe Congress, is necessary" for "which is recommended to the President and the Congress for inclusion in the national wild and scenic rivers system, is necessary".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -60,7 +60,7 @@ Subsec. (b)(ii). Pub. L. 93–279, §1(b)(4), substituted "the report for which 
 
 "Federal Energy Regulatory Commission" substituted for "Federal Power Commission" in subsecs. (a), (b), and (c) pursuant to Pub. L. 95–91, §402(a)(1)(A), which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
 
-The Federal Power Commission was terminated, and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigablewaters under part I of Federal Power Act (16 U.S.C. 792 et seq.) were transferred to the Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under part I of Federal Power Act (16 U.S.C. 792 et seq.) were transferred to the Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42.
 
 #### <b>Executive Documents</b>
 

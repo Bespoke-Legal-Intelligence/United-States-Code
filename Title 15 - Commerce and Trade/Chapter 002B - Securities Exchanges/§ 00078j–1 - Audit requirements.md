@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each audit required pursuant to this chapter of the financial statements of an issuer by a registered public accounting firm shall include, in accordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
+Each audit required pursuant to this chapter of the financial statements of an issuer by a registered public accounting firm shall include, inaccordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
 
 &emsp;(1) procedures designed to provide reasonable assurance of detecting illegal acts that would have a direct and material effect on the determination of financial statement amounts;
 
@@ -150,7 +150,7 @@ It shall be unlawful for a registered public accounting firm to perform for an i
 
 #### (2) Responsibilities relating to registered public accounting firms
 
-&emsp;The audit committee of each issuer, in its capacity as a committee of the board of directors, shall be directly responsible for the appointment, compensation, and oversight of thework of any registered public accounting firm employed by that issuer (including resolution of disagreements between management and the auditor regarding financial reporting) for the purpose of preparing or issuing an audit report or related work, and each such registered public accounting firm shall report directly to the audit committee.
+&emsp;The audit committee of each issuer, in its capacity as a committee of the board of directors, shall be directly responsible for the appointment, compensation, and oversight of the work of any registered public accounting firm employed by that issuer (including resolution of disagreements between management and the auditor regarding financial reporting) for the purpose of preparing or issuing an audit report or related work, and each such registered public accounting firm shall report directly to the audit committee.
 
 #### (3) Independence
 

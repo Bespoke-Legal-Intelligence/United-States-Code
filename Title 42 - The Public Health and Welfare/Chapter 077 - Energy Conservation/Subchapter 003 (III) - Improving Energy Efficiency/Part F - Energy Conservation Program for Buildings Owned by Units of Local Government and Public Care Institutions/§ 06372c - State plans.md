@@ -4,7 +4,7 @@
 
 &emsp;(1) the results of preliminary energy audits conducted in accordance with the guidelines prescribed pursuant to section 6372a(a)(1) of this title, and an estimate of the energy savings that may result from the modification of maintenance and operating procedures in buildings owned by units of local government and public care institutions;
 
-&emsp;(2) a recommendation as to the types of technical assistance programs considered appropriate for buildings owned by units of local government and public care institutions insuch State, together with an estimate of the costs of carrying out such programs;
+&emsp;(2) a recommendation as to the types of technical assistance programs considered appropriate for buildings owned by units of local government and public care institutions in such State, together with an estimate of the costs of carrying out such programs;
 
 &emsp;(3) a program for identifying persons qualified to carry out technical assistance programs;
 

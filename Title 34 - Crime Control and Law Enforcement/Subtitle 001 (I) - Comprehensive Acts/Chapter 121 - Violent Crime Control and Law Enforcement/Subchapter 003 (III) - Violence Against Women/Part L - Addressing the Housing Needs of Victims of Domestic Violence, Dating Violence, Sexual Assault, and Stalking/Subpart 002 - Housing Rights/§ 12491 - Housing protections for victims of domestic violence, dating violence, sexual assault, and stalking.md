@@ -56,7 +56,7 @@ In this subpart:
 
 #### (1) In general
 
-&emsp;An applicant for or tenant of housing assisted under a covered housing program may not be denied admission to, denied assistance under, terminated from participation in, or evicted from the housing on the basis that the applicant or tenant is or has been a victim of domestic violence, dating violence, sexual assault, or stalking, if the applicant or tenant otherwise qualifies for admission, assistance, participation, or occupancy.
+&emsp;An applicant for or tenant of housing assisted under a covered housing program maynot be denied admission to, denied assistance under, terminated from participation in, or evicted from the housing on the basis that the applicant or tenant is or has been a victim of domestic violence, dating violence, sexual assault, or stalking, if the applicant or tenant otherwise qualifies for admission, assistance, participation, or occupancy.
 
 #### (2) Construction of lease terms
 
@@ -94,7 +94,7 @@ In this subpart:
 
 &emsp;&emsp;&emsp;(ii) to limit any otherwise available authority of a public housing agency or owner or manager of housing assisted under a covered housing program to evict or terminate assistance to a tenant for any violation of a lease not premised on the act of violence in question against the tenant or an affiliated person of the tenant, if the public housing agency or owner or manager does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate;
 
-&emsp;&emsp;&emsp;(iii) to limit the authority to terminate assistance to a tenant or evict a tenantfrom housing assisted under a covered housing program if a public housing agency or owner or manager of the housing can demonstrate that an actual and imminent threat to other tenants or individuals employed at or providing service to the property would be present if the assistance is not terminated or the tenant is not evicted; or
+&emsp;&emsp;&emsp;(iii) to limit the authority to terminate assistance to a tenant or evict a tenant from housing assisted under a covered housing program if a public housing agency or owner or manager of the housing can demonstrate that an actual and imminent threat to other tenants or individuals employed at or providing service to the property would be present if the assistance is not terminated or the tenant is not evicted; or
 
 &emsp;&emsp;&emsp;(iv) to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, sexual assault, or stalking.
 

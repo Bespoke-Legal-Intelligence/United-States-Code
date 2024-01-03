@@ -26,7 +26,7 @@ Security Guidelines.—
 
 &emsp;(1)
 
-In general.—The Director of the Office of Management and Budget, in coordination with the Department of Homeland Security and the National Institute of Standards andTechnology, shall issue guidelines not later than 180 days after the date of the enactment of this chapter to ensure the adequacy of information and security protections for information and information systems used while teleworking.
+In general.—The Director of the Office of Management and Budget, in coordination with the Department of Homeland Security and the National Institute of Standards and Technology, shall issue guidelines not later than 180 days after the date of the enactment of this chapter to ensure the adequacy of information and security protections for information and information systems used while teleworking.
 
 &emsp;(2)
 

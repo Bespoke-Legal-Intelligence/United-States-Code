@@ -8,7 +8,7 @@ Nothing in this subchapter, except as specifically provided for herein, shall be
 
 #### Amendments
 
-<b>1947</b>—Act June 23, 1947, amended section so as to provide that except as specifically provided for in this subchapter nothing shall interfere with or diminish the right to strike and that nothing was to be construed to affect the limitations or qualifications on the right tostrike, thus recognizing that the right to strike is not an unlimited and unqualified right.
+<b>1947</b>—Act June 23, 1947, amended section so as to provide that except as specifically provided for in this subchapter nothing shall interfere with or diminish the right to strike and that nothing was to be construed to affect the limitations or qualifications on the right to strike, thus recognizing that the right to strike is not an unlimited and unqualified right.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

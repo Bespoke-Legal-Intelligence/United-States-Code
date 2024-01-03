@@ -6,7 +6,7 @@ Military.—The Secretary of the Army, the Secretary of the Navy, the Secretary 
 
 (b)
 
-Transportation.—The Secretary of Transportation may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels when the contract is made under sections 1535 and 1536 of title 31 or subtitle V of title 46, regardless of the terms of the contracts as to payment or title.
+Transportation.—The Secretary of Transportation may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels when the contract ismade under sections 1535 and 1536 of title 31 or subtitle V of title 46, regardless of the terms of the contracts as to payment or title.
 
 (c)
 

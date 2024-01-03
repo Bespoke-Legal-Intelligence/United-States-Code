@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In furtherance of domestic preparedness and response, the Secretary, acting through the Under Secretary for Science and Technology, and in consultation with other relevant executive agencies, relevant State, local, and tribal governments, and relevant owners and operators of critical infrastructure, shall, to the extent practicable, conduct research and development to mitigate the consequences of threats of EMP and GMD.
+In furtherance of domestic preparedness and response, the Secretary, acting through the Under Secretary for Science and Technology,and in consultation with other relevant executive agencies, relevant State, local, and tribal governments, and relevant owners and operators of critical infrastructure, shall, to the extent practicable, conduct research and development to mitigate the consequences of threats of EMP and GMD.
 
 #### (b) Scope
 
@@ -220,7 +220,7 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 (d) "National Essential Functions" means the overarching responsibilities of the Federal Government to lead and sustain the Nation before, during, and in the aftermath of a catastrophic emergency, such as an EMP that adversely affects the performance of Government.
 
-(e) "Prepare" and "preparedness" mean the actions taken to plan, organize, equip, train, and exercise to build and sustain the capabilities necessary to prevent, protect against, mitigate the effects of, respond to, and recover from those threats that pose the greatest risk to the security of the Nation. These terms include the prediction and notification of impending EMPs.
+(e) "Prepare" and "preparedness" mean the actions taken to plan, organize, equip, train, and exercise to build and sustain the capabilities necessary to prevent, protect against, mitigate the effects of, respond to, andrecover from those threats that pose the greatest risk to the security of the Nation. These terms include the prediction and notification of impending EMPs.
 
 (f) A "Sector-Specific Agency" (SSA) is the Federal department or agency that is responsible for providing institutional knowledge and specialized expertise as well as leading, facilitating, or supporting the security and resilience programs and associated activities of its designated critical infrastructure sector in the all-hazards environment. The SSAs are those identified in Presidential Policy Directive 21 of February 12, 2013 (Critical Infrastructure Security and Resilience).
 

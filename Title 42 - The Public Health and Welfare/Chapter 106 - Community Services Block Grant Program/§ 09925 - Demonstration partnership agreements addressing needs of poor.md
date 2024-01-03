@@ -34,7 +34,7 @@
 
 #### (c) Programs directed to special populations
 
-(1) In addition to the grant programs described in subsection (a), the Secretary may make grants to community action agencies for the purpose of enabling such agencies to demonstrate new approaches to dealing with the problems caused by entrenched, chronic unemployment and lack of economic opportunities for urban youth. Demonstrations shall include suchactivities as peer counseling, mentoring, development of job skills, assistance with social skills, community services, family literacy, parenting skills, opportunities for employment or entrepreneurship, and other services designed to assist such at-risk youth to continue their education, to secure meaningful employment, to perform community service, or to pursue other productive alternatives within the community.
+(1) In addition to the grant programs described in subsection (a), the Secretary may make grants to community action agencies for the purpose of enabling such agencies to demonstrate new approaches to dealing with the problems caused by entrenched, chronic unemployment and lack of economic opportunities for urban youth. Demonstrations shall include such activities as peer counseling, mentoring, development of job skills, assistance with social skills, community services, family literacy, parenting skills, opportunities for employment or entrepreneurship, and other services designed to assist such at-risk youth to continue their education, to secure meaningful employment, to perform community service, or to pursue other productive alternatives within the community.
 
 (2) Such grants may be made only with respect to applications that—
 

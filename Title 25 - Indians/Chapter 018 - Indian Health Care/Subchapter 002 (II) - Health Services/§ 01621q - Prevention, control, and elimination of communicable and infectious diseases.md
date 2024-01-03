@@ -26,7 +26,7 @@ In carrying out this section, the Secretary—
 
 &emsp;(1) may, at the request of an Indian tribe or tribal organization, provide technical assistance; and
 
-&emsp;(2) shall prepare and submit a report to Congress biennially on the use of funds under this section and on the progress made toward the prevention, control, and elimination of communicable and infectious diseases among Indians and urban Indians.
+&emsp;(2) shall prepare and submit a report to Congress biennially on the use of funds under thissection and on the progress made toward the prevention, control, and elimination of communicable and infectious diseases among Indians and urban Indians.
 
 (Pub. L. 94–437, title II, §218, as added Pub. L. 102–573, title II, §214, Oct. 29, 1992, 106 Stat. 4556; amended Pub. L. 103–437, §10(e)(1), (2)(B), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 

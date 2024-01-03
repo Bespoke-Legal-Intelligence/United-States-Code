@@ -50,7 +50,7 @@ In the case of marketable stock in a passive foreign investment company which is
 
 #### (2) Source
 
-&emsp;The source of any amount included in gross income under subsection (a)(1) (or allowed as a deduction under subsection (a)(2)) shall be determined in the same manner as if such amount were gain or loss (as the case may be) from the sale of stock in the passive foreign investment company.
+&emsp;The source of any amount included in gross income under subsection (a)(1) (or allowed as adeduction under subsection (a)(2)) shall be determined in the same manner as if such amount were gain or loss (as the case may be) from the sale of stock in the passive foreign investment company.
 
 #### (d) Unreversed inclusions
 
@@ -136,7 +136,7 @@ In the case of stock of a passive foreign investment company which is acquired b
 
 #### (B) Requirements
 
-&emsp;&emsp;The requirements of this subparagraph are met if, with respect to each of such corporation's taxable years for which such corporation was a passive foreign investment company and which begin after December 31, 1986, and included any portion of the taxpayer's holding period in such stock, suchcorporation was treated as a qualified electing fund under this part with respect to the taxpayer.
+&emsp;&emsp;The requirements of this subparagraph are met if, with respect to each of such corporation's taxable years for which such corporation was a passive foreign investment company and which begin after December 31, 1986, and included any portion of the taxpayer's holding period in such stock, such corporation was treated as a qualified electing fund under this part with respect to the taxpayer.
 
 #### (2) Special rules for regulated investment companies
 
@@ -192,7 +192,7 @@ A prior section 1296 was renumbered section 1297 of this title.
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
+Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31,2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
 
 #### Effective Date of 2001 Amendment
 

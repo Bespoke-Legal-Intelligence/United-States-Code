@@ -26,7 +26,7 @@ Except as provided in subsection (b), amounts in the Fund shall be available onl
 
 #### (B) Notification to Congress
 
-&emsp;&emsp;Not later than 30 days after the date on which the Coast Guard obtains an advance under subparagraph (A), the Coast Guard shall notify Congress of—
+&emsp;&emsp;Not later than 30 days after the date on which the Coast Guard obtains an advanceunder subparagraph (A), the Coast Guard shall notify Congress of—
 
 &emsp;&emsp;&emsp;(i) the amount advanced; and
 

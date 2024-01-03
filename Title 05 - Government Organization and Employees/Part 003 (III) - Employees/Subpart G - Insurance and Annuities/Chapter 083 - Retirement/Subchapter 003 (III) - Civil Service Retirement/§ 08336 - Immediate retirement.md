@@ -42,7 +42,7 @@
 
 (E) In accordance with procedures established by the Director of the Office of Personnel Management, an affected individual may file an election to have any creditable service performed by the affected individual treated in accordance with this chapter without regard to subparagraph (B).
 
-(F) Nothing in this paragraph shall be construed to apply to such affected individual any other pay-related laws or regulations applicable to a covered position.
+(F) Nothing in this paragraph shall be construed to apply to such affected individual anyother pay-related laws or regulations applicable to a covered position.
 
 (d) An employee who—
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;(vi) any appropriate combination of such factors;
 
-> after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity. For purposes of paragraph (1) of this subsection, separation for failure to accept a directed reassignment to a position outside the commuting area of the employee concerned or to accompany a position outside of such area pursuant to a transfer of function shall not be considered to be a removal for cause on charges of misconduct or delinquency. Notwithstanding the first sentence of this subsection, an employee described in paragraph (1) of this subsection is not entitled to an annuity under this subsection if the employee has declined a reasonable offer of another position in the employee's agency for which the employee is qualified, which is not lower than 2grades (or pay levels) below the employee's grade (or pay level), and which is within the employee's commuting area.
+> after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity. For purposes of paragraph (1) of this subsection, separation for failure to accept a directed reassignment to a position outside the commuting area of the employee concerned or to accompany a position outside of such area pursuant to a transfer of function shall not be considered to be a removal for cause on charges of misconduct or delinquency. Notwithstanding the first sentence of this subsection, an employee described in paragraph (1) of this subsection is not entitled to an annuity under this subsection if the employee has declined a reasonable offer of another position in the employee's agency for which the employee is qualified, which is not lower than 2 grades (or pay levels) below the employee's grade (or pay level), and which is within the employee's commuting area.
 
 (e) An employee who is voluntarily or involuntarily separated from the service, except by removal for cause on charges of misconduct or delinquency, after completing 25 years of service as an air traffic controller or after becoming 50 years of age and completing 20 years of service as an air traffic controller, is entitled to an annuity.
 
@@ -92,7 +92,7 @@
 
 (i)(1) An employee of the Panama Canal Commission or of an Executive agency conducting operations in the Canal Zone or Republic of Panama who is separated from the service before January 1, 2000, who was employed by the Canal Zone Government or the Panama Canal Company at any time during the period beginning March 31, 1979, and ending September 30, 1979, and who has had continuous Panama Canal service, without a break in service of more than 3 days, from that time until separation, is entitled to an annuity if the employee is separated—
 
-&emsp;(A) involuntarily, after completing 20 years of service or after becoming 48 years of age and completing 18 years of service, if the separation is a result of the implementation of any provision of the Panama Canal Treaty of 1977 and related agreements; or
+&emsp;(A) involuntarily, after completing 20 years of service or after becoming 48 years of age and completing 18 years of service, if the separation is a result of the implementation of anyprovision of the Panama Canal Treaty of 1977 and related agreements; or
 
 &emsp;(B) voluntarily, after completing 23 years of service or after becoming 48 years of age and completing 18 years of service.
 
@@ -154,7 +154,7 @@
 
 &emsp;(B) "Indian preference laws" means section 12 of the Act of June 18, 1934 (25 U.S.C. 472; 48 Stat. 986),<sup>3</sup> or any other provision of law granting a preference to Indians in promotions or other Federal personnel actions.
 
-(k) A bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge who is separated from service, except by removal, after becoming 62 years of age and completing 5 years of civilian service, or after becoming 60 years of age and completing 10 years of service as a bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge, is entitled to an annuity.
+(k) A bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge who is separated from service, except by removal, after becoming 62 years of age and completing 5 years of civilian service, or after becoming 60 years of age and completing 10 yearsof service as a bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge, is entitled to an annuity.
 
 (l) A judge of the United States Court of Appeals for the Armed Forces who is separated from the service after becoming 62 years of age and completing 5 years of civilian service or after completing the term of service for which he was appointed as a judge of such court is entitled to an annuity. A judge who is separated from the service before becoming 60 years of age is entitled to a reduced annuity.
 
@@ -228,7 +228,7 @@
 
 &emsp;&emsp;(iv) to reduce the number of high-grade, managerial, supervisory, or similar positions.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 90–83, §1(75), Sept. 11, 1967, 81 Stat. 214; Pub. L. 92–297, §5, May 16, 1972, 86 Stat. 144; Pub. L. 92–382, Aug. 14, 1972, 86 Stat. 539; Pub. L. 93–39, June 12, 1973, 87 Stat. 73; Pub. L. 93–350, §5, July 12, 1974, 88 Stat. 356; Pub. L. 94–183, §2(40), (41), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 95–454, title III, §306, title IV, §412(a), Oct. 13, 1978, 92 Stat. 1147, 1175; Pub. L. 96–70, title I, §1241(a), Sept. 27, 1979, 93 Stat. 471; Pub. L. 96–135, §1(a), Dec. 5, 1979, 93 Stat. 1056; Pub. L. 97–89, title VIII, §803, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 97–253, title III, §308(a), Sept. 8, 1982, 96 Stat. 798; Pub. L. 98–94, title XII, §1256(b), Sept. 24, 1983, 97 Stat. 701; Pub. L. 98–353, title I, §116(c), July 10, 1984, 98 Stat. 344; Pub. L. 98–531, §2(b), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, title III, §304(d), Nov. 8, 1984, 98 Stat. 3219; Pub. L. 99–190, §101(d) \[title III, §315\], Dec. 19, 1985, 99 Stat. 1224, 1266; Pub. L. 100–53, §2(c), June 18, 1987, 101 Stat. 368; Pub. L. 100–325, §2(l), May 30, 1988, 102 Stat. 582; Pub. L. 101–194, title V, §506(b)(7), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–428, §2(a), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–510, div. C, title XXXV, §3506(a), Nov. 5, 1990, 104 Stat. 1846; Pub. L. 101–650, title III, §§306(c)(3), 321, Dec. 1, 1990, 104 Stat. 5110, 5117; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 105–261, div. A, title XI, §1109(a), div. C, title XXXI, §3154(e), Oct. 17, 1998, 112 Stat. 2143, 2255; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–320; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title X, §1048(i)(5), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–296, title XIII, §§1313(b)(1), 1321(a)(4)(A), Nov. 25, 2002, 116 Stat. 2294, 2297; Pub. L. 110–161, div. E, title V, §535(a)(4), Dec. 26, 2007, 121 Stat. 2075; Pub. L. 117–225, §3(a), Dec. 9, 2022, 136 Stat. 2293.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 90–83, §1(75), Sept. 11, 1967, 81 Stat. 214; Pub. L. 92–297, §5, May 16, 1972, 86 Stat. 144; Pub. L. 92–382, Aug. 14, 1972, 86 Stat. 539; Pub. L. 93–39, June 12, 1973, 87 Stat. 73; Pub. L. 93–350, §5, July 12, 1974, 88 Stat. 356; Pub. L. 94–183, §2(40), (41), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 95–454, title III, §306, title IV, §412(a), Oct. 13, 1978, 92 Stat. 1147, 1175; Pub. L. 96–70, title I, §1241(a), Sept. 27, 1979, 93 Stat. 471; Pub. L. 96–135, §1(a), Dec. 5, 1979, 93 Stat. 1056; Pub. L. 97–89, title VIII, §803, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 97–253, title III, §308(a), Sept. 8, 1982, 96 Stat. 798; Pub. L. 98–94, title XII, §1256(b), Sept. 24, 1983, 97 Stat. 701; Pub. L. 98–353, title I, §116(c), July 10, 1984, 98 Stat. 344; Pub. L. 98–531, §2(b), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, title III, §304(d), Nov. 8, 1984, 98 Stat. 3219; Pub. L. 99–190, §101(d) \[titleIII, §315\], Dec. 19, 1985, 99 Stat. 1224, 1266; Pub. L. 100–53, §2(c), June 18, 1987, 101 Stat. 368; Pub. L. 100–325, §2(l), May 30, 1988, 102 Stat. 582; Pub. L. 101–194, title V, §506(b)(7), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–428, §2(a), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–510, div. C, title XXXV, §3506(a), Nov. 5, 1990, 104 Stat. 1846; Pub. L. 101–650, title III, §§306(c)(3), 321, Dec. 1, 1990, 104 Stat. 5110, 5117; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 105–261, div. A, title XI, §1109(a), div. C, title XXXI, §3154(e), Oct. 17, 1998, 112 Stat. 2143, 2255; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–320; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title X, §1048(i)(5), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–296, title XIII, §§1313(b)(1), 1321(a)(4)(A), Nov. 25, 2002, 116 Stat. 2294, 2297; Pub. L. 110–161, div. E, title V, §535(a)(4), Dec. 26, 2007, 121 Stat. 2075; Pub. L. 117–225, §3(a), Dec. 9, 2022, 136 Stat. 2293.)
 
 #### Applicability of Amendment
 
@@ -290,7 +290,7 @@ Section 105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 450i(a)(2); 88
 
 The date of the enactment of this paragraph, referred to in subsec. (j)(3)(A)(ii), is Dec. 5, 1979, the date of the enactment of Pub. L. 96–135, which was approved Dec. 5, 1979.
 
-Section 12 of the Act of June 18, 1934 (25 U.S.C. 472; 48 Stat. 986), referred to in subsec. (j)(4)(B), is section 12 ofact June 18, 1934, ch. 576, 48 Stat. 986, which was classified to section 472 of Title 25, Indians, prior to editorial reclassification as section 5116 of Title 25.
+Section 12 of the Act of June 18, 1934 (25 U.S.C. 472; 48 Stat. 986), referred to in subsec. (j)(4)(B), is section 12 of act June 18, 1934, ch. 576, 48 Stat. 986, which was classified to section 472 of Title 25, Indians, prior to editorial reclassification as section 5116 of Title 25.
 
 #### Amendments
 
@@ -380,7 +380,7 @@ Subsecs. (h), (i). Pub. L. 95–454, §412(a), added subsec. (h) and redesignate
 
 <b>1975</b>—Subsecs. (d), (g). Pub. L. 94–183 substituted "an" for "a reduced" after "is entitled to".
 
-<b>1974</b>—Subsec. (c). Pub. L. 93–350 substituted provisions granting annuity entitlement to employees separated from the service after becoming 50 years of age and completing 20 years of service as a law enforcement officer or firefighter or any combination of such service totaling at least 20 years for provisions requiring the head of the employing agency to recommend, and theCivil Service Commission to approve, the retirement of an otherwise eligible employee requiring the agency and the Commission to consider the degree of hazard the employee was subjected to in the performance of his duties, and defining "detention" to include the duties of specified employees.
+<b>1974</b>—Subsec. (c). Pub. L. 93–350 substituted provisions granting annuity entitlement to employees separated from the service after becoming 50 years of age and completing 20 years of service as a law enforcement officer or firefighter or any combination of such service totaling at least 20 years for provisions requiring the head of the employing agency to recommend, and the Civil Service Commission to approve, the retirement of an otherwise eligible employee requiring the agency and the Commission to consider the degree of hazard the employee was subjected to in the performance of his duties, and defining "detention" to include the duties of specified employees.
 
 <b>1973</b>—Subsec. (d). Pub. L. 93–39 reenacted existing provisions, designated part of such provisions as item (1) and added item (2).
 
@@ -418,7 +418,7 @@ Amendment by Pub. L. 106–553 effective on the first day of the first applicabl
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title XI, §1109(d), Oct. 17, 1998, 112 Stat. 2145, as amended by Pub. L. 106–65, div. A, title XI, §1101, Oct. 5, 1999, 113 Stat. 775, which provided that the amendments made by section 1109 of Pub. L. 105–261 (amending this section and sections 8339, 8414, and 8464 of this title) were to be effective Oct. 1, 2000, and applicable with respect to an approval for voluntary early retirement made on or after that date, was repealed by Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480.
+Pub. L. 105–261, div. A, title XI, §1109(d), Oct. 17, 1998, 112 Stat. 2145, as amended by Pub. L. 106–65, div. A, titleXI, §1101, Oct. 5, 1999, 113 Stat. 775, which provided that the amendments made by section 1109 of Pub. L. 105–261 (amending this section and sections 8339, 8414, and 8464 of this title) were to be effective Oct. 1, 2000, and applicable with respect to an approval for voluntary early retirement made on or after that date, was repealed by Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480.
 
 Amendment by section 3154(e) of Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 
@@ -506,7 +506,7 @@ Agency reappointment.—The regulations promulgated to carry out the amendments 
 
 Treatment of service.—The regulations promulgated to carry out the amendments made by this Act shall ensure that the creditable service of an affected employee or special agent (as the case may be) that is not in a covered position pursuant to an election made under such amendments shall be treated as the same type of service as the covered position in which the employee or agent suffered the qualifying illness or injury."
 
-Pub. L. 107–296, title XIII, §1313(b)(5), Nov. 25, 2002, 116 Stat. 2296, provided that: "The Office of Personnel Management may prescribe regulations to carry out this subsection \[amending this section and section 8414 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 8414 of this title\]."
+Pub. L. 107–296, title XIII, §1313(b)(5), Nov. 25, 2002, 116 Stat. 2296, provided that: "The Office of Personnel Management may prescribe regulations to carry out this subsection \[amending this section and section 8414 of this title, enacting provisions set out as notes underthis section, and repealing provisions set out as notes under this section and section 8414 of this title\]."
 
 #### Termination of United States District Court for the District of the Canal Zone
 

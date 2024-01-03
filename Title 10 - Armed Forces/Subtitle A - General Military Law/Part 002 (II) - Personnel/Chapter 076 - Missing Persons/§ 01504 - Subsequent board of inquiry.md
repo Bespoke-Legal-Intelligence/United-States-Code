@@ -124,7 +124,7 @@ Actions by Secretary Concerned.—(1) Not later than 30 days after the receipt o
 
 &emsp;(C) the objections, if any, to the report submitted to the president of the board under subsection (g)(5).
 
-(2) In reviewing a report under paragraph (1) (including the objections described in subparagraph (C) of that paragraph), the Secretary concerned shall determine whether or not the report is complete and free of administrative error. If the Secretary determines that the report is incomplete, or that the report is not freeof administrative error, the Secretary may return the report to the board for further action on the report by the board.
+(2) In reviewing a report under paragraph (1) (including the objections described in subparagraph (C) of that paragraph), the Secretary concerned shall determine whether or not the report is complete and free of administrative error. If the Secretary determines that the report is incomplete, or that the report is not free of administrative error, the Secretary may return the report to the board for further action on the report by the board.
 
 (3) Upon a determination by the Secretary that a report reviewed under this subsection is complete and free of administrative error, the Secretary shall make a determination concerning the status of each person covered by the report.
 
@@ -156,7 +156,7 @@ Subsec. (i)(1). Pub. L. 105–85, §1073(a)(30), substituted "this section" for 
 
 <b>1996</b>—Subsec. (d)(1). Pub. L. 104–201, §578(a)(3)(A), added text of par. (1) and struck out former text of par. (1) which read as follows: "A board appointed under this section shall be composed of at least three members as follows:
 
-&emsp;"(A) In the case of a board that will inquire into the whereabouts and status of one or more members of the armed forces (and no civilians described in subparagraph (B)), the board shall be composed of officers having the grade of major or lieutenant commander or above.
+&emsp;"(A) In the case of a board that will inquire into the whereabouts and status of one or more membersof the armed forces (and no civilians described in subparagraph (B)), the board shall be composed of officers having the grade of major or lieutenant commander or above.
 
 &emsp;"(B) In the case of a board that will inquire into the whereabouts and status of one or more civilian employees of the Department of Defense or contractors of the Department of Defense (and no members of the armed forces), the board shall be composed of—
 

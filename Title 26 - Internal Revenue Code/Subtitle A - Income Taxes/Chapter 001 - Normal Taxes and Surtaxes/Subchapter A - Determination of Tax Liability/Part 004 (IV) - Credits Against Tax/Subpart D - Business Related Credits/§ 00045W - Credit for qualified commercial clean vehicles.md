@@ -16,7 +16,7 @@ For purposes of section 38, the qualified commercial clean vehicle credit for an
 
 #### (2) Incremental cost
 
-&emsp;For purposes of paragraph (1)(B), the incremental cost of any qualified commercial cleanvehicle is an amount equal to the excess of the purchase price for such vehicle over such price of a comparable vehicle.
+&emsp;For purposes of paragraph (1)(B), the incremental cost of any qualified commercial clean vehicle is an amount equal to the excess of the purchase price for such vehicle over such price of a comparable vehicle.
 
 #### (3) Comparable vehicle
 

@@ -28,7 +28,7 @@ Specification of Amounts Requested in Budget.—Effective February 1, 2023, the 
 
 Data Analysis.—(1) Each Secretary of a military department shall regularly analyze past spending patterns and anticipated future requirements with respect to the procurement of services within such military department.
 
-(2)(A) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation, shall regularly analyze past spending patterns and anticipated futurerequirements with respect to the procurement of services—
+(2)(A) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation, shall regularly analyze past spending patterns and anticipated future requirements with respect to the procurement of services—
 
 &emsp;(i) within each Defense Agency and Department of Defense Field Activity; and
 

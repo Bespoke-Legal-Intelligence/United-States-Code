@@ -98,7 +98,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) a vessel providing pilotage services and regulated by a State in accordance with chapter 85 of that title;
 
-&emsp;&emsp;&emsp;(ii) a company providing transportation services using a bus characterized by an elevated passenger deck located over a baggage compartment (commonly known as an "over-the-road bus"), including localand intercity fixed-route service, commuter service, and charter or tour service (including tour or excursion service that includes features in addition to bus transportation, such as meals, lodging, admission to points of interest or special attractions, or the services of a guide);
+&emsp;&emsp;&emsp;(ii) a company providing transportation services using a bus characterized by an elevated passenger deck located over a baggage compartment (commonly known as an "over-the-road bus"), including local and intercity fixed-route service, commuter service, and charter or tour service (including tour or excursion service that includes features in addition to bus transportation, such as meals, lodging, admission to points of interest or special attractions, or the services of a guide);
 
 &emsp;&emsp;&emsp;(iii) a company providing transportation services using a school bus (as defined in section 571.3 of title 49, Code of Federal Regulations (or successor regulations)); or
 
@@ -134,7 +134,7 @@ Out of any funds in the Treasury not otherwise appropriated, there are appropria
 
 &emsp;&emsp;&emsp;&emsp;(I) on March 1, 2020, had more than 500 full-time, part-time, or temporary employees; and
 
-&emsp;&emsp;&emsp;&emsp;(II) has not received assistance under paragraph (1), (2), or (3) of section 9042(b) of this title, or subtitle B of title IV of division A, of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136; 134 Stat. 281) \[15 U.S.C. 9071 et seq.\].
+&emsp;&emsp;&emsp;&emsp;(II) has not received assistance under paragraph (1), (2), or (3) of section 9042(b) of this title, or subtitle B of title IV of division A,<sup>1</sup> of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136; 134 Stat. 281) \[15 U.S.C. 9071 et seq.\].
 
 #### (B) Scope of eligibility for certain companies
 
@@ -240,7 +240,7 @@ Out of any funds in the Treasury not otherwise appropriated, there are appropria
 
 &emsp;&emsp;&emsp;&emsp;(I) is staffed at a level of full-time equivalent, seasonal employees, on a monthly basis, that is greater than or equivalent to the level at which the provider of transportation services was staffed with full-time equivalent, seasonal employees on a monthly basis during calendar year 2019;
 
-&emsp;&emsp;&emsp;&emsp;(II) is offering priority in rehiring to seasonal employees that were laid off, furloughed, terminated, or not offered rehire in calendar year 2020, as the provider of transportation services achieves staffing at the level described in subclause (I); and
+&emsp;&emsp;&emsp;&emsp;(II) is offering priority in rehiring to seasonal employees that were laid off, furloughed, terminated, or not offered rehire in calendar year 2020, as the provider of transportation services achievesstaffing at the level described in subclause (I); and
 
 &emsp;&emsp;&emsp;&emsp;(III) offers any seasonal employee rehired under subclause (II) or subject to a reduction in salary before the date of receipt by the provider of transportation services of assistance under this subsection not less than 100 percent of the previous salary of the employee; and
 
@@ -292,7 +292,7 @@ Notwithstanding any other provision of law, any compensation provided to a retur
 
 &emsp;&emsp;(A) be considered an overpayment for purposes of any State or Federal unemployment law; or
 
-&emsp;&emsp;(B) be subject to any overpayment recovery efforts by a State agency (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (U.S.C. 3304 note <sup>1</sup> )).
+&emsp;&emsp;(B) be subject to any overpayment recovery efforts by a State agency (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (U.S.C. 3304 note <sup>2</sup> )).
 
 #### (f) Administrative provisions
 
@@ -326,11 +326,13 @@ The Emergency Appropriations for Coronavirus Health Response and Agency Operatio
 
 The Paycheck Protection Program and Health Care Enhancement Act, referred to in subsec. (c)(3)(B)(i), is Pub. L. 116–139, Apr. 24, 2020, 134 Stat. 620, which amended sections 636, 9006, and 9009 of this title. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 9001 of this title and Tables.
 
-Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (e)(2)(B), is section 205 of Pub. L. 91–373, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
+Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec.\(e)(2)(B), is section 205 of Pub. L. 91–373, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
 
 #### Codification
 
 Section was enacted as part of the Coronavirus Economic Relief for Transportation Services Act and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "26 U.S.C. 3304 note".</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "26 U.S.C. 3304 note".</i>
 

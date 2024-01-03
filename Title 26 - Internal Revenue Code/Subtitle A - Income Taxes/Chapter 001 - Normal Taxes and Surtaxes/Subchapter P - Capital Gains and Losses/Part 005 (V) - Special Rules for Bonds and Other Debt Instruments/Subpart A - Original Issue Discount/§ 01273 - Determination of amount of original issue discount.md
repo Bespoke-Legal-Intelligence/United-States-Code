@@ -84,7 +84,7 @@ For purposes of subsection (b)—
 
 &emsp;&emsp;(A) the issue price for such unit shall be determined in accordance with the rules of this subsection and subsection (b) as if it were a debt instrument,
 
-&emsp;&emsp;(B) the issue price determined for such unit shall be allocated to each element ofsuch unit on the basis of the relationship of the fair market value of such element to the fair market value of all elements in such unit, and
+&emsp;&emsp;(B) the issue price determined for such unit shall be allocated to each element of such unit on the basis of the relationship of the fair market value of such element to the fair market value of all elements in such unit, and
 
 &emsp;&emsp;(C) the issue price of any debt instrument included in such unit shall be the portion of the issue price of the unit allocated to the debt instrument under subparagraph (B).
 

@@ -14,7 +14,7 @@ Sheltered workshop.—The term "sheltered workshop" means a sheltered workshop e
 
 (b)
 
-In General.—Except as provided in subsection (c), amounts made available to the General Services Administration pursuant to section 592 of this title may not be obligated or expended to procure covered services by contract if an employee who was a permanent veteranspreference employee of the Administration on November 19, 1995, would be terminated as a result.
+In General.—Except as provided in subsection (c), amounts made available to the General Services Administration pursuant to section 592 of this title may not be obligated or expended to procure covered services by contract if an employee who was a permanent veterans preference employee of the Administration on November 19, 1995, would be terminated as a result.
 
 (c)
 

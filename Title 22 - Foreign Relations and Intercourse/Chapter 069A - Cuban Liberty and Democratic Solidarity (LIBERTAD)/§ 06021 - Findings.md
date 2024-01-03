@@ -30,7 +30,7 @@ The Congress makes the following findings:
 
 &emsp;(10) The Congress has historically and consistently manifested its solidarity and the solidarity of the American people with the democratic aspirations of the Cuban people.
 
-&emsp;(11) The Cuban Democracy Act of 1992 \[22 U.S.C. 6001 et seq.\] calls upon the President to encourage the governments of countries that conduct trade with Cuba to restrict their trade and credit relations with Cuba in a manner consistent with the purposes of that Act.
+&emsp;(11) The Cuban Democracy Act of 1992 \[22 U.S.C. 6001 et seq.\] calls upon the President to encourage the governments of countries that conduct trade with Cuba to restrict their tradeand credit relations with Cuba in a manner consistent with the purposes of that Act.
 
 &emsp;(12) Amendments to the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] made by the FREEDOM Support Act require that the President, in providing economic assistance to Russia and the emerging Eurasian democracies, take into account the extent to which they are acting to "terminate support for the communist regime in Cuba, including removal of troops, closing military facilities, and ceasing trade subsidies and economic, nuclear, and other assistance".
 
@@ -46,7 +46,7 @@ The Congress makes the following findings:
 
 &emsp;(18) Although a signatory state to the 1928 Inter-American Convention on Asylum and the International Covenant on Civil and Political Rights (which protects the right to leave one's own country), Cuba nevertheless surrounds embassies in its capital by armed forces to thwart the right of its citizens to seek asylum and systematically denies that right to the Cuban people, punishing them by imprisonment for seeking to leave the country and killing them for attempting to do so (as demonstrated in the case of the confirmed murder of over 40 men, women, and children who were seeking to leave Cuba on July 13, 1994).
 
-&emsp;(19) The Castro government continues to utilize blackmail, such as the immigration crisis with which it threatened the United States in the summer of 1994, and other unacceptable and illegal forms of conduct to influence theactions of sovereign states in the Western Hemisphere in violation of the Charter of the Organization of American States and other international agreements and international law.
+&emsp;(19) The Castro government continues to utilize blackmail, such as the immigration crisis with which it threatened the United States in the summer of 1994, and other unacceptable and illegal forms of conduct to influence the actions of sovereign states in the Western Hemisphere in violation of the Charter of the Organization of American States and other international agreements and international law.
 
 &emsp;(20) The United Nations Commission on Human Rights has repeatedly reported on the unacceptable human rights situation in Cuba and has taken the extraordinary step of appointing a Special Rapporteur.
 

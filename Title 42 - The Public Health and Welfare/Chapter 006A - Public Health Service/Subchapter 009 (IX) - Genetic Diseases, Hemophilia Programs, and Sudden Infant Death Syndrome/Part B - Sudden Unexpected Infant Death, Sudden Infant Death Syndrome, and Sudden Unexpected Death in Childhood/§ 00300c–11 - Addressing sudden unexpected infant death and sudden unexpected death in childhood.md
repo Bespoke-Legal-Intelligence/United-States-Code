@@ -28,7 +28,7 @@ The Secretary may develop, support, or maintain programs or activities to addres
 
 &emsp;&emsp;(D) increasing the voluntary inclusion, in registries established for the purpose of conducting research on sudden unexpected infant death and sudden unexpected death in childhood, of samples of tissues or genetic materials from autopsies that have been collected pursuant to Federal or State law and for which the parent or guardian has provided informed consent for inclusion in such registries;
 
-&emsp;&emsp;(E) disseminating information and materials to health care professionals and the public on risk factors that contribute to sudden unexpected infant death and sudden unexpected death in childhood, which may include information on risk factors that contribute to sleep-related sudden unexpected infant death or sudden unexpected death in childhood; or
+&emsp;&emsp;(E) disseminating information and materials to health care professionals and the public on risk factors that contribute to sudden unexpected infant death and sudden unexpected death in childhood, which may include information on risk factors that contribute to sleep-related sudden unexpectedinfant death or sudden unexpected death in childhood; or
 
 &emsp;&emsp;(F) providing information, referrals, or peer or follow-up support services to families who have experienced sudden unexpected infant death or sudden unexpected death in childhood.
 

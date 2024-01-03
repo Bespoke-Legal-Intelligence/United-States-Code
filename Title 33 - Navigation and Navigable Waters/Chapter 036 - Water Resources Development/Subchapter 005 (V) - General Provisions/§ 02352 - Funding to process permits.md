@@ -140,7 +140,7 @@ Public Availability.—The Secretary shall ensure that all final permit decision
 
 Duration of Authority.—The authority provided under this section shall be in effect from October 1, 2000, through December 31, 2016."
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–315, §1(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary, after public notice, may accept and expend funds contributed bynon-Federal public entities to expedite the evaluation of permits under the jurisdiction of the Department of the Army."
+<b>2010</b>—Subsec. (a). Pub. L. 111–315, §1(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary, after public notice, may accept and expend funds contributed by non-Federal public entities to expedite the evaluation of permits under the jurisdiction of the Department of the Army."
 
 Subsec. (b). Pub. L. 111–315, §1(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not impact impartial decisionmaking with respect to permits, either substantively or procedurally."
 

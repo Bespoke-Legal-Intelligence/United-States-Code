@@ -20,7 +20,7 @@ Eligibility for an annuity increase under this section shall be governed by the 
 
 &emsp;&emsp;&emsp;(i) for which the annuity was payable from the Fund before the effective date of the increase, or
 
-&emsp;&emsp;&emsp;(ii) in the case of a surviving spouse or former spouse of a deceased annuitant whose annuity has not been so increased, since the annuity was first payable to the deceased annuitant.
+&emsp;&emsp;&emsp;(ii) in the case of a surviving spouse or former spouse of a deceased annuitant whose annuity has not been so increased,since the annuity was first payable to the deceased annuitant.
 
 &emsp;(2) Effective from its commencing date, an annuity payable from the Fund under this part to the survivor of an annuitant, except a child entitled to an annuity under section 4046(c) of this title or section 4049(c) or (d) of this title, shall be increased by the total percentage increase the annuitant was receiving under this section at death.
 
@@ -58,7 +58,7 @@ Effective from its commencing date, there shall be an increase of 10 percent in 
 
 #### Amendments
 
-<b>1988</b>—Subsec. (c)(1). Pub. L. 100–238 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The first increase (if any) made under this section to an annuity which is payable from the Fund under thispart to a participant or to the surviving spouse of a deceased participant who dies in service shall be equal to the product (adjusted to the nearest 1/10 of 1 percent) of—
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–238 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The first increase (if any) made under this section to an annuity which is payable from the Fund under this part to a participant or to the surviving spouse of a deceased participant who dies in service shall be equal to the product (adjusted to the nearest 1/10 of 1 percent) of—
 
 &emsp;"(a) 1/6 of the applicable percent change determined under subsection (b) of this section, multiplied by
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 Amendment by section 2(a) Ex. Ord. No. 12446 effective with respect to any adjustment or redetermination of any annuity made on or after Oct. 17, 1983, see section 2(b) of Ex. Ord. No. 12446, set out under section 4067 of this title.
 
-Amendment by section 6 of Ex. Ord. No. 12446 applicable to any adjustment occurring on or after Apr. 1, 1983 under this section to any annuity payable from the Foreign Service Retirement and Disability Fund, whether such annuity has a commencing date before, on, or after Oct. 17, 1983, but shall not cause any annuity to be reduced below the rate that is payable on Oct. 17, 1983, see section 6(b) of Ex. Ord. No. 12446, set out under section 4067 of this title.
+Amendment by section 6 of Ex. Ord. No. 12446 applicable to any adjustment occurring on or after Apr. 1, 1983 under this section to any annuity payable from the Foreign Service Retirement and Disability Fund, whether such annuity has a commencing date before,on, or after Oct. 17, 1983, but shall not cause any annuity to be reduced below the rate that is payable on Oct. 17, 1983, see section 6(b) of Ex. Ord. No. 12446, set out under section 4067 of this title.
 
 #### Effective Date of 1981 Amendment
 

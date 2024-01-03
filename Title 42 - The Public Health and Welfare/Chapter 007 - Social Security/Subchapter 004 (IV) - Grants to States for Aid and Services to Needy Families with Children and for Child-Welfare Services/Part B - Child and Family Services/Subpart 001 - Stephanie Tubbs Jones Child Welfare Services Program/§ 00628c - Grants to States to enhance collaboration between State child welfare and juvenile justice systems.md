@@ -16,7 +16,7 @@ The purpose of this section is to authorize the Secretary, in collaboration with
 
 #### (1) In general
 
-&emsp;Subject to the availability of appropriations, from amounts reserved under section 623(a)(2) of this title for a fiscal year, the Secretaryshall award competitive grants jointly to a State child welfare agency and a State juvenile justice agency to facilitate or enhance collaboration between the child welfare and juvenile justice systems of the State in order to carry out programs to address the needs of dual status youth and their families.
+&emsp;Subject to the availability of appropriations, from amounts reserved under section 623(a)(2) of this title for a fiscal year, the Secretary shall award competitive grants jointly to a State child welfare agency and a State juvenile justice agency to facilitate or enhance collaboration between the child welfare and juvenile justice systems of the State in order to carry out programs to address the needs of dual status youth and their families.
 
 #### (2) Length of grants
 
@@ -100,7 +100,7 @@ The purpose of this section is to authorize the Secretary, in collaboration with
 
 #### (d) Training and technical assistance
 
-The Secretary may support State child welfare agencies and State juvenile justice agenciesby offering a program, developed in consultation with organizations and agencies with subject matter expertise, of training and technical assistance to assist such agencies in developing programs and protocols that draw on best practices for serving dual status youth in order to facilitate or enhance—
+The Secretary may support State child welfare agencies and State juvenile justice agencies by offering a program, developed in consultation with organizations and agencies with subject matter expertise, of training and technical assistance to assist such agencies in developing programs and protocols that draw on best practices for serving dual status youth in order to facilitate or enhance—
 
 &emsp;(1) collaboration between State child welfare agencies and State juvenile justice agencies; and
 
@@ -124,7 +124,7 @@ In this section:
 
 #### (3) State juvenile justice agency
 
-&emsp;The term "State juvenile justice agency" means the agency of the State or Indian tribe responsible for administering grant funds awarded under the Juvenile Justice and Delinquency Prevention Act of 1974 (34 U.S.C. 11101 et seq.).
+&emsp;The term "State juvenile justice agency" means the agency of the State or Indian triberesponsible for administering grant funds awarded under the Juvenile Justice and Delinquency Prevention Act of 1974 (34 U.S.C. 11101 et seq.).
 
 #### (4) State child welfare agency
 
@@ -141,4 +141,10 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 #### Prior Provisions
 
 A prior section 429A of act Aug. 14, 1935, was renumbered section 429 and is classified to section 628b of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 

@@ -96,7 +96,7 @@ Subsec. (c). Pub. L. 102–573, §204(1), amended subsec. (c) generally. Prior t
 
 Subsec. (d)(4). Pub. L. 102–573, §204(2), added par. (4).
 
-Subsec. (e). Pub. L. 102–573, §217(b)(3), substituted "this section" for "subsection (c) of this section" and struck out at beginning "There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section."
+Subsec. (e). Pub. L. 102–573, §217(b)(3), substituted "this section" for "subsection (c) of this section" andstruck out at beginning "There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section."
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

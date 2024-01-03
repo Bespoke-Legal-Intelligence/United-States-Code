@@ -2,7 +2,7 @@
 
 #### (a) Purposes
 
-The purposes of this section are to promote the prevention and deterrence of instances offraud, bid rigging, and other anticompetitive activities encountered in the procurement of products for child nutrition programs by—
+The purposes of this section are to promote the prevention and deterrence of instances of fraud, bid rigging, and other anticompetitive activities encountered in the procurement of products for child nutrition programs by—
 
 &emsp;(1) establishing guidelines and a timetable for the Secretary to initiate debarment proceedings, as well as establishing mandatory debarment periods; and
 
@@ -50,7 +50,7 @@ The Secretary shall—
 
 &emsp;(1) in cooperation with any other appropriate individual, organization, or agency, provide advice, training, technical assistance, and guidance (which may include awareness training, training films, and troubleshooting advice) to representatives of States and local agencies regarding means of identifying and preventing fraud and anticompetitive activities relating to the provision of goods or services in conjunction with the participation of a local agency in a child nutrition program; and
 
-&emsp;(2) provide information to, and fully cooperate with, the Attorney General and State attorneys general regarding investigations of fraud and anticompetitive activities relating to the provision of goods or services in conjunction with the participation of a local agency in a child nutrition program.
+&emsp;(2) provide information to, and fully cooperate with, the Attorney General and State attorneys general regarding investigations offraud and anticompetitive activities relating to the provision of goods or services in conjunction with the participation of a local agency in a child nutrition program.
 
 #### (d) Nonprocurement debarment
 
@@ -88,7 +88,7 @@ The Secretary shall—
 
 #### (C) Scope
 
-&emsp;&emsp;At a minimum, a debarment under this subsection shall serve to bar the contractorfor the specified period from contracting to provide goods or services in conjunction with the participation of a local agency in a child nutrition program.
+&emsp;&emsp;At a minimum, a debarment under this subsection shall serve to bar the contractor for the specified period from contracting to provide goods or services in conjunction with the participation of a local agency in a child nutrition program.
 
 #### (D) Reversal, reduction, or exception
 
@@ -128,7 +128,7 @@ Notwithstanding any other provision of this section, the Secretary shall initiat
 
 &emsp;(4) is likely to have significant adverse economic impacts on the local economy in a manner that is unfair to innocent parties;
 
-&emsp;(5) is not justified in light of the penalties already imposed on the contractor for violations relevant to the proposed debarment, including any suspension or debarment arising out of the same matter that is imposed by any Federal or State agency; or
+&emsp;(5) is not justified in light of the penalties already imposed on the contractor for violations relevant to the proposed debarment, including any suspension or debarment arisingout of the same matter that is imposed by any Federal or State agency; or
 
 &emsp;(6) is not in the public interest, or otherwise is not in the interests of justice, as determined by the Secretary.
 
@@ -153,6 +153,10 @@ On request, the Secretary shall present to the Committee on Education and Labor,
 <b>1998</b>—Subsec. (b)(1)(D) to (G). Pub. L. 105–336 redesignated subpars. (E) to (G) as (D) to (F), respectively, and struck out former subpar. (D) which read as follows: "the homeless children nutrition program established under section 1766b of this title;".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 1998 Amendment
 

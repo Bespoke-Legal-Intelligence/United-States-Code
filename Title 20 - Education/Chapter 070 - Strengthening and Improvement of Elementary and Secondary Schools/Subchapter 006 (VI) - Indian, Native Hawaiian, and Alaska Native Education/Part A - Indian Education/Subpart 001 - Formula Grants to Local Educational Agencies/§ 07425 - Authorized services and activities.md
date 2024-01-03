@@ -38,7 +38,7 @@ The services and activities referred to in subsection (a) may include—
 
 &emsp;(12) dropout prevention strategies for Indian students; and
 
-&emsp;(13) strategies to meet the educational needs of at-risk Indian students in correctional facilities, including such strategies that supportIndian students who are transitioning from such facilities to schools served by local educational agencies.
+&emsp;(13) strategies to meet the educational needs of at-risk Indian students in correctional facilities, including such strategies that support Indian students who are transitioning from such facilities to schools served by local educational agencies.
 
 #### (c) Schoolwide programs
 

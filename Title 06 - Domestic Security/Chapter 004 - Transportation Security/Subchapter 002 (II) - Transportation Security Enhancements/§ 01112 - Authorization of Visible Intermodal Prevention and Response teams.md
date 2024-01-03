@@ -64,7 +64,7 @@ Annex.—The notification under paragraph (1) may contain a classified annex.
 
 "(3)
 
-Definition of vipr team.—In this subsection, the term 'VIPR' means a Visible Intermodal Prevention and Response team authorized under section 1303 of theNational Transit Systems Security Act of 2007 \[probably means section 1303 of the Implementing Recommendations of the 9/11 Commission Act of 2007\] (6 U.S.C. 1112)."
+Definition of vipr team.—In this subsection, the term 'VIPR' means a Visible Intermodal Prevention and Response team authorized under section 1303 of the National Transit Systems Security Act of 2007 \[probably means section 1303 of the Implementing Recommendations of the 9/11 Commission Act of 2007\] (6 U.S.C. 1112)."
 
 \[For definition of "explosive detection canine teams" as used in section 1930(a) of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a note under section 101 of Title 49, Transportation.\]
 

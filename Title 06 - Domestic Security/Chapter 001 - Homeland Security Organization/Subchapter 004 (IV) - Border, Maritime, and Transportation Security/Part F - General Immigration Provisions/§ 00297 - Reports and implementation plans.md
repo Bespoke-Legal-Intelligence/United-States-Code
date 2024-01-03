@@ -40,7 +40,7 @@ The Secretary, not later than 120 days after the effective date of this chapter,
 
 &emsp;Not later than 18 months after the date on which the transfer of functions specified under section 251 of this title takes effect, and every 6 months thereafter, until full implementation of this part has been completed, the Comptroller General of the United States shall submit to the Committees on Appropriations and on the Judiciary of the House of Representatives and the Senate a report containing the following:
 
-&emsp;&emsp;(A) A determination of whether the transfers of functions made by parts D and E of this subchapter have been completed, and if a transfer of functions has not taken place,identifying the reasons why the transfer has not taken place.
+&emsp;&emsp;(A) A determination of whether the transfers of functions made by parts D and E of this subchapter have been completed, and if a transfer of functions has not taken place, identifying the reasons why the transfer has not taken place.
 
 &emsp;&emsp;(B) If the transfers of functions made by parts D and E of this subchapter have been completed, an identification of any issues that have arisen due to the completed transfers.
 
@@ -62,7 +62,7 @@ The Secretary, not later than 120 days after the effective date of this chapter,
 
 &emsp;&emsp;(B) A statement of the reasons for the determinations under subparagraph (A).
 
-&emsp;&emsp;(C) Any recommendations for further improvements to the Bureau of Citizenship and Immigration Services and the Bureau of Border Security.
+&emsp;&emsp;(C) Any recommendations for further improvements to the Bureau of Citizenship andImmigration Services and the Bureau of Border Security.
 
 #### (3) Report on fees
 

@@ -34,7 +34,7 @@ The Secretary shall establish a training demonstration program to award grants t
 
 &emsp;&emsp;&emsp;&emsp;(III) an in-person training track that includes a rotation during which the resident practices in a community-based setting that specializes in the treatment of infants, children, adolescents, or pregnant or postpartum women; and
 
-&emsp;&emsp;(B) may use the grant funds to provide additional support for the administration ofthe program or to meet the costs of projects to establish, maintain, or improve faculty development, or departments, divisions, or other units necessary to implement such training.
+&emsp;&emsp;(B) may use the grant funds to provide additional support for the administration of the program or to meet the costs of projects to establish, maintain, or improve faculty development, or departments, divisions, or other units necessary to implement such training.
 
 #### (2) Training for other providers
 
@@ -178,7 +178,7 @@ Subsec. (c)(2)(F). Pub. L. 117–328, §1311(b)(5), inserted "counselors, nurses
 
 Subsec. (d)(1)(A). Pub. L. 117–328, §1311(b)(6), inserted "health service psychologists, nurses" after "fellows," and "counselors," after "physician assistants".
 
-Subsec. (d)(1)(B). Pub. L. 117–328, §1311(b)(7), inserted "health" after "mental" and ", which may includesuch settings that serve pediatric populations" after "settings".
+Subsec. (d)(1)(B). Pub. L. 117–328, §1311(b)(7), inserted "health" after "mental" and ", which may include such settings that serve pediatric populations" after "settings".
 
 Subsec. (d)(2)(C). Pub. L. 117–328, §1311(b)(8), inserted "(which may include trauma-informed care, as appropriate)" after "care".
 

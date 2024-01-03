@@ -30,7 +30,7 @@ For purposes of this part, the term "incentive stock option" means an option gra
 
 #### (1) Good faith efforts to value stock
 
-&emsp;If a share of stock is transferred pursuant to the exercise by an individual of an option which would fail to qualify as an incentive stock option under subsection (b) because there was a failure in an attempt, made in good faith, to meet the requirement of subsection (b)(4), the requirement of subsection\(b)(4) shall be considered to have been met. To the extent provided in regulations by the Secretary, a similar rule shall apply for purposes of subsection (d).
+&emsp;If a share of stock is transferred pursuant to the exercise by an individual of an option which would fail to qualify as an incentive stock option under subsection (b) because there was a failure in an attempt, made in good faith, to meet the requirement of subsection (b)(4), the requirement of subsection (b)(4) shall be considered to have been met. To the extent provided in regulations by the Secretary, a similar rule shall apply for purposes of subsection (d).
 
 #### (2) Certain disqualifying dispositions where amount realized is less than value at exercise
 
@@ -104,7 +104,7 @@ Subsec. (c)(5) to (8). Pub. L. 101–508, §11801(c)(9)(C)(ii), redesignated par
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–647, §1003(d)(1)(A), inserted at end "Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option."
 
-Subsec. (b)(7). Pub. L. 100–647, §1003(d)(2)(B), struck out par. (7) which read as follows: "under the terms ofthe plan, the aggregate fair market value (determined at the time the option is granted) of the stock with respect to which incentive stock options are exercisable for the 1st time by such individual during any calendar year (under all such plans of the individual's employer corporation and its parent and subsidiary corporations) shall not exceed $100,000."
+Subsec. (b)(7). Pub. L. 100–647, §1003(d)(2)(B), struck out par. (7) which read as follows: "under the terms of the plan, the aggregate fair market value (determined at the time the option is granted) of the stock with respect to which incentive stock options are exercisable for the 1st time by such individual during any calendar year (under all such plans of the individual's employer corporation and its parent and subsidiary corporations) shall not exceed $100,000."
 
 Subsec. (c)(1). Pub. L. 100–647, §1003(d)(2)(C), substituted "subsection (d)" for "paragraph (7) of subsection (b)".
 
@@ -146,7 +146,7 @@ Subsec. (c)(4)(A)(ii). Pub. L. 97–448, §102(j)(4), substituted "granted incen
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to stock attributable to options exercised, or restricted stock units settled, after Dec. 31, 2017, see section 13603(f)(1) of Pub. L. 115–97, set out as a note under section 83 of this title.
+Amendment by Pub. L. 115–97 applicable to stock attributable to options exercised, or restricted stockunits settled, after Dec. 31, 2017, see section 13603(f)(1) of Pub. L. 115–97, set out as a note under section 83 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -186,7 +186,7 @@ Election and designation of options.—In the case of an option granted before J
 
 "(2)
 
-Changes in terms of options.—In the case of an option granted on or after January 1, 1976, and outstanding on the date of the enactment of this Act \[Aug. 13, 1981\], paragraph (1) of section 425(h) of the InternalRevenue Code of 1986 \[formerly I.R.C. 1954\] shall not apply to any change in the terms of such option (or the terms of the plan under which granted, including shareholder approval) made within 1 year after such date of enactment to permit such option to qualify as a incentive stock option."
+Changes in terms of options.—In the case of an option granted on or after January 1, 1976, and outstanding on the date of the enactment of this Act \[Aug. 13, 1981\], paragraph (1) of section 425(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not apply to any change in the terms of such option (or the terms of the plan under which granted, including shareholder approval) made within 1 year after such date of enactment to permit such option to qualify as a incentive stock option."
 
 #### Savings Provision
 

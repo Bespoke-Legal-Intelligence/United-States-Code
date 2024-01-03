@@ -128,7 +128,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 &emsp;&emsp;&emsp;(i) any item of income, gain, deduction, or loss (other than any item described in subparagraph (A), (E), or (G) of paragraph (1)) from any transaction (including hedging transactions and transactions involving physical settlement) entered into in the ordinary course of such dealer's trade or business as such a dealer, and
 
-&emsp;&emsp;&emsp;(ii) if such dealer is a dealer in securities (within the meaning of section 475), any interest or dividend or equivalent amount described in subparagraph (E) or (G) of paragraph (1) from any transaction (including any hedging transaction or transaction described in section 956(c)(2)(I)) entered into in the ordinary course of such dealer's trade or business as such a dealer in securities, but only if the income from the transaction is attributable to activities of the dealer in the country under the laws of which the dealer is created or organized (or in the case of a qualified business unit described in section 989(a), is attributable to activities of the unit in the country in which the unit both maintains its principal office and conducts substantial business activity).
+&emsp;&emsp;&emsp;(ii) if such dealer is a dealer in securities (within the meaning of section 475), any interest or dividend or equivalent amountdescribed in subparagraph (E) or (G) of paragraph (1) from any transaction (including any hedging transaction or transaction described in section 956(c)(2)(I)) entered into in the ordinary course of such dealer's trade or business as such a dealer in securities, but only if the income from the transaction is attributable to activities of the dealer in the country under the laws of which the dealer is created or organized (or in the case of a qualified business unit described in section 989(a), is attributable to activities of the unit in the country in which the unit both maintains its principal office and conducts substantial business activity).
 
 #### (3) Certain income received from related persons
 
@@ -202,7 +202,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(2), the term "foreign base company sales income" means income (whether in the form of profits, commissions, fees, or otherwise) derived in connection with the purchase of personal property from a related person and its sale to any person, the sale of personal property to any person on behalf of a related person, the purchase of personal property from any person and its sale to a related person, or the purchase ofpersonal property from any person on behalf of a related person where—
+&emsp;For purposes of subsection (a)(2), the term "foreign base company sales income" means income (whether in the form of profits, commissions, fees, or otherwise) derived in connection with the purchase of personal property from a related person and its sale to any person, the sale of personal property to any person on behalf of a related person, the purchase of personal property from any person and its sale to a related person, or the purchase of personal property from any person on behalf of a related person where—
 
 &emsp;&emsp;(A) the property which is purchased (or in the case of property sold on behalf of a related person, the property which is sold) is manufactured, produced, grown, or extracted outside the country under the laws of which the controlled foreign corporation is created or organized, and
 
@@ -320,7 +320,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 &emsp;&emsp;For purposes of this paragraph, the qualified banking or financing income of an eligible controlled foreign corporation and each qualified business unit of such corporation shall be determined separately for such corporation and each such unit by taking into account—
 
-&emsp;&emsp;&emsp;(i) in the case of the eligible controlled foreign corporation, only items of income, deduction, gain, or loss and activities of such corporation not properly allocable or attributable to any qualified business unit of such corporation, and
+&emsp;&emsp;&emsp;(i) in the case of the eligible controlled foreign corporation, only items of income,deduction, gain, or loss and activities of such corporation not properly allocable or attributable to any qualified business unit of such corporation, and
 
 &emsp;&emsp;&emsp;(ii) in the case of a qualified business unit, only items of income, deduction, gain, or loss and activities properly allocable or attributable to such unit.
 
@@ -352,7 +352,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 &emsp;&emsp;&emsp;(i) the corporation (or qualified business unit) rendering services or making facilities available, or
 
-&emsp;&emsp;&emsp;(ii) another corporation (or qualified business unit of a corporation) which is a member of the same affiliated group (asdefined in section 1504, but determined without regard to section 1504(b)(3)).
+&emsp;&emsp;&emsp;(ii) another corporation (or qualified business unit of a corporation) which is a member of the same affiliated group (as defined in section 1504, but determined without regard to section 1504(b)(3)).
 
 #### (5) Other definitions
 
@@ -410,7 +410,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 #### (8) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, subsection (c)(1)(B)(i), subsection (c)(2)(C)(ii), and the last sentence of subsection (e)(2).
+&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate tocarry out the purposes of this subsection, subsection (c)(1)(B)(i), subsection (c)(2)(C)(ii), and the last sentence of subsection (e)(2).
 
 #### (i) Special rule for income derived in the active conduct of insurance business
 
@@ -434,7 +434,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 &emsp;Except as provided by the Secretary, for purposes of subparagraphs (A) and (B) of paragraph (2)—
 
-&emsp;&emsp;(A) in the case of any contract which is a separate account-type contract (including any variable contract not meeting the requirements of section 817), income creditedunder such contract shall be allocable only to such contract, and
+&emsp;&emsp;(A) in the case of any contract which is a separate account-type contract (including any variable contract not meeting the requirements of section 817), income credited under such contract shall be allocable only to such contract, and
 
 &emsp;&emsp;(B) income not allocable under subparagraph (A) shall be allocated ratably among contracts not described in subparagraph (A).
 
@@ -484,7 +484,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 &emsp;For purposes of this subsection, any term used in this subsection which is also used in section 953(e) shall have the meaning given such term by section 953.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X, §§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L. 98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k), Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII, §7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509; Pub. L. 104–188, title I, §1704(t)(25), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, §1051(a), (b), title XI, §1175(a), (b), Aug. 5, 1997, 111 Stat. 940, 990, 993; Pub. L. 105–277, div. J, title I, §1005(a), (b)(2), (c)–(e), title IV, §4003(j), Oct. 21, 1998, 112 Stat. 2681–890, 2681–897, 2681–899, 2681–900, 2681–910; Pub. L. 106–170, title V, §§503(a), 532(c)(2)(Q), Dec. 17, 1999, 113 Stat. 1921, 1931; Pub. L. 107–147, title IV, §417(24)(B)(ii), title VI, §614(a)(2), (b)(1), Mar. 9, 2002, 116 Stat. 57, 61; Pub. L. 108–357, title IV, §§412(a), 413(b)(2), 414(a)–(c), 415(a), (b), (c)(2), 416(a), Oct. 22, 2004, 118 Stat. 1505, 1506, 1510, 1511; Pub. L. 109–135, title IV, §§403(m), 412(ll), (mm), Dec. 21, 2005, 119 Stat. 2626, 2639; Pub. L. 109–222, title I, §103(a)(2), (b)(1), May 17, 2006, 120 Stat. 346; Pub. L. 109–432, div. A, title IV, §426(a)(1), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 110–172, §§4(a), 11(a)(19), (20), (g)(15)(B), Dec. 29, 2007, 121 Stat. 2475, 2486, 2491; Pub. L. 110–343, div. C, title III, §§303(b), 304(a), Oct. 3, 2008, 122 Stat. 3866, 3867; Pub. L. 111–312,title VII, §§750(a), 751(a), Dec. 17, 2010, 124 Stat. 3320, 3321; Pub. L. 112–240, title III, §§322(b), 323(a), Jan. 2, 2013, 126 Stat. 2332, 2333; Pub. L. 113–295, div. A, title I, §§134(b), 135(a), Dec. 19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, §§128(b), 144(a), Dec. 18, 2015, 129 Stat. 3054, 3065; Pub. L. 115–97, title I, §§13517(b)(5), 14211(a), (b)(2), (3), Dec. 22, 2017, 131 Stat. 2147, 2216, 2217; Pub. L. 116–94, div. Q, title I, §145(a), Dec. 20, 2019, 133 Stat. 3236; Pub. L. 116–260, div. EE, title I, §111(a), Dec. 27, 2020, 134 Stat. 3050.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X, §§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L. 98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k), Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII, §7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509; Pub. L. 104–188, title I, §1704(t)(25), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, §1051(a), (b), title XI, §1175(a), (b), Aug. 5, 1997, 111 Stat. 940, 990, 993; Pub. L. 105–277, div. J, title I, §1005(a), (b)(2), (c)–(e), title IV, §4003(j), Oct. 21, 1998, 112 Stat. 2681–890, 2681–897, 2681–899, 2681–900, 2681–910; Pub. L. 106–170, title V, §§503(a), 532(c)(2)(Q), Dec. 17, 1999, 113 Stat. 1921, 1931; Pub. L. 107–147, title IV, §417(24)(B)(ii), title VI, §614(a)(2), (b)(1), Mar. 9, 2002, 116 Stat. 57, 61; Pub. L. 108–357, title IV, §§412(a), 413(b)(2), 414(a)–(c), 415(a), (b), (c)(2), 416(a), Oct. 22, 2004, 118 Stat. 1505, 1506, 1510, 1511; Pub. L. 109–135, title IV, §§403(m), 412(ll), (mm), Dec. 21, 2005, 119 Stat. 2626, 2639; Pub. L. 109–222, title I, §103(a)(2), (b)(1), May 17, 2006, 120 Stat. 346; Pub. L. 109–432, div. A, title IV, §426(a)(1), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 110–172, §§4(a), 11(a)(19), (20), (g)(15)(B), Dec. 29, 2007, 121 Stat. 2475, 2486, 2491; Pub. L. 110–343, div. C, title III, §§303(b), 304(a), Oct. 3, 2008, 122 Stat. 3866, 3867; Pub. L. 111–312, title VII, §§750(a), 751(a), Dec. 17, 2010, 124 Stat. 3320, 3321; Pub. L. 112–240, title III, §§322(b), 323(a), Jan. 2, 2013, 126 Stat. 2332, 2333; Pub. L. 113–295, div. A, title I, §§134(b), 135(a), Dec. 19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, §§128(b), 144(a), Dec. 18, 2015, 129 Stat. 3054, 3065; Pub. L. 115–97, title I, §§13517(b)(5), 14211(a), (b)(2), (3), Dec. 22, 2017, 131 Stat. 2147, 2216, 2217; Pub. L. 116–94, div. Q, title I, §145(a), Dec. 20, 2019, 133 Stat. 3236; Pub. L. 116–260, div. EE, title I, §111(a), Dec. 27, 2020, 134 Stat. 3050.)
 
 #### <b>Editorial Notes</b>
 
@@ -644,7 +644,7 @@ Subsec. (e)(3). Pub. L. 100–647, §1018(u)(38), related to execution of amendm
 
 <b>1986</b>—Subsec. (a)(5). Pub. L. 99–514, §1221(c)(3)(A)(ii), substituted "determined under subsection (g)" for "determined under subsection (h)".
 
-Subsec. (b)(2). Pub. L. 99–514, §1221(c)(1), struck out par. (2), exclusion for reinvested shipping income, which read as follows: "For purposes of subsection (a), foreign base company income does not include foreign base company shipping income to the extent that theamount of such income does not exceed the increase for the taxable year in qualified investments in foreign base company shipping operations of the controlled foreign corporation (as determined under subsection (g))."
+Subsec. (b)(2). Pub. L. 99–514, §1221(c)(1), struck out par. (2), exclusion for reinvested shipping income, which read as follows: "For purposes of subsection (a), foreign base company income does not include foreign base company shipping income to the extent that the amount of such income does not exceed the increase for the taxable year in qualified investments in foreign base company shipping operations of the controlled foreign corporation (as determined under subsection (g))."
 
 Subsec. (b)(3). Pub. L. 99–514, §1223(a), amended par. (3) generally. Prior to amendment, par. (3), special rule where foreign base company income is less than 10 percent or more than 70 percent of gross income, read as follows: "For purposes of subsection (a)—
 
@@ -676,7 +676,7 @@ Subsec. (d)(3). Pub. L. 99–514, §1221(e), added subpars. (A) and (B) and conc
 
 Subsec. (e). Pub. L. 99–514, §1810(k), in amending subsec. (e) generally, designated existing provisions as par. (1), added par. heading, and substituted subpar. (A) and (B) designations for prior par. (1) and (2) designations, struck out provisions relating to nonapplicability of preceding sentence to services performed in connection with manufactured or grown or extracted property, and provisions determining the place of performance of services for purposes of paragraph (2) with respect to any policy of insurance and reinsurance, and added pars. (2) and (3).
 
-Subsec. (e)(3). Pub. L. 99–514, §1221(b)(3)(B), and Pub. L. 100–647, §1018(u)(38), struck out par. (3) as enacted by section 1810(k) of Pub. L. 99–514, which read as follows: "For purposes of paragraph (1), in the case of any services performed with respect to any policy of insurance or reinsurance with respect to which the primary insured is a related person (within the meaning of section 864(d)(4))—
+Subsec. (e)(3). Pub. L. 99–514, §1221(b)(3)(B), and Pub. L. 100–647, §1018(u)(38), struck out par. (3) as enacted by section 1810(k) of Pub. L. 99–514, which read as follows:"For purposes of paragraph (1), in the case of any services performed with respect to any policy of insurance or reinsurance with respect to which the primary insured is a related person (within the meaning of section 864(d)(4))—
 
 &emsp;"(A) such primary insured shall be treated as a related person for purposes of paragraph (1)(A) (whether or not the requirements of subsection (d)(3) are met),
 
@@ -776,7 +776,7 @@ Pub. L. 110–343, div. C, title III, §304(b), Oct. 3, 2008, 122 Stat. 3867, pr
 
 #### Effective Date of 2007 Amendment
 
-Amendment by section 4(a) of Pub. L. 110–172 effective as if included in the provisions of the Tax Increase Prevention and Reconciliation Act of 2005, Pub. L. 109–222, to which such amendment relates, with certainexceptions, see section 4(d) of Pub. L. 110–172, set out as a note under section 355 of this title.
+Amendment by section 4(a) of Pub. L. 110–172 effective as if included in the provisions of the Tax Increase Prevention and Reconciliation Act of 2005, Pub. L. 109–222, to which such amendment relates, with certain exceptions, see section 4(d) of Pub. L. 110–172, set out as a note under section 355 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -860,7 +860,7 @@ In general.—In the case of any qualified controlled foreign corporation—
 
 &emsp;"(B)
 
-Qualified controlled foreign corporation.—For purposes of subparagraph (A), the term 'qualifiedcontrolled foreign corporation' means any controlled foreign corporation (as defined in section 957 of such Code)—
+Qualified controlled foreign corporation.—For purposes of subparagraph (A), the term 'qualified controlled foreign corporation' means any controlled foreign corporation (as defined in section 957 of such Code)—
 
 &emsp;&emsp;"(i) if the United States agent of such corporation is a domestic corporation incorporated on March 13, 1951, and
 
@@ -916,7 +916,7 @@ Amendment by section 712(f) of Pub. L. 98–369 effective as if included in the 
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title II, §212(f), Sept. 3, 1982, 96 Stat. 452, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 1982, and to taxable years of United States shareholders in which, or with which, such taxable years of foreign corporations end."
+Pub. L. 97–248, title II, §212(f), Sept. 3, 1982, 96 Stat. 452, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December31, 1982, and to taxable years of United States shareholders in which, or with which, such taxable years of foreign corporations end."
 
 #### Effective Date of 1976 Amendment
 
@@ -938,7 +938,7 @@ For applicability of amendment by section 1201(c) of Pub. L. 99–514 notwithsta
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Special Rule for Application of Section 954 to Certain Dividends
 

@@ -48,7 +48,7 @@
 
 #### (c) Existing training and education programs
 
-The Secretary shall ensure that personnel of the Department, and, in coordination with the Administrator of USAID, that personnel of USAID, make use of the relevant existing training and education programs offered within the Government, such as those at the Center forStabilization and Reconstruction Studies at the Naval Postgraduate School and the Interagency Training, Education, and After Action Review Program at the National Defense University.
+The Secretary shall ensure that personnel of the Department, and, in coordination with the Administrator of USAID, that personnel of USAID, make use of the relevant existing training and education programs offered within the Government, such as those at the Center for Stabilization and Reconstruction Studies at the Naval Postgraduate School and the Interagency Training, Education, and After Action Review Program at the National Defense University.
 
 (Aug. 1, 1956, ch. 841, title I, §62, as added Pub. L. 110–417, \[div. A\], title XVI, §1605, Oct. 14, 2008, 122 Stat. 4654.)
 

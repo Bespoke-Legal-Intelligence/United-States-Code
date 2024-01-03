@@ -64,7 +64,7 @@ Suspension of Agents and Attorneys.—The Secretary, after notice and opportunit
 
 (d)
 
-Payment of Fees Out of Past-Due Benefits.—(1) When a claimant and an agent or attorney have entered into a fee agreement described in paragraph (2), the total fee payable to the agent or attorney may not exceed 20 percent of the total amount of any past-due benefits awarded on the basis of the claim.
+Payment of Fees Out of Past-Due Benefits.—(1) When a claimant and an agent or attorney have entered into a fee agreement described in paragraph (2), the total fee payable to the agent or attorney may not exceed 20 percentof the total amount of any past-due benefits awarded on the basis of the claim.
 
 (2)(A) A fee agreement referred to in paragraph (1) is one under which the total amount of the fee payable to the agent or attorney—
 

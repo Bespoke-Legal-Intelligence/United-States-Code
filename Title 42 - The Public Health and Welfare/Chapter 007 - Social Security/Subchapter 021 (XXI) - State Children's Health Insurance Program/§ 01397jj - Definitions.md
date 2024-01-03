@@ -24,7 +24,7 @@ For purposes of this subchapter, the term "child health assistance" means paymen
 
 &emsp;(10) Inpatient mental health services, other than services described in paragraph (18) but including services furnished in a State-operated mental hospital and including residential or other 24-hour therapeutically planned structured services.
 
-&emsp;(11) Outpatient mental health services, other than services described in paragraph (19) butincluding services furnished in a State-operated mental hospital and including community-based services.
+&emsp;(11) Outpatient mental health services, other than services described in paragraph (19) but including services furnished in a State-operated mental hospital and including community-based services.
 
 &emsp;(12) Durable medical equipment and other medically-related or remedial devices (such as prosthetic devices, implants, eyeglasses, hearing aids, dental devices, and adaptive devices).
 
@@ -48,7 +48,7 @@ For purposes of this subchapter, the term "child health assistance" means paymen
 
 &emsp;(22) Physical therapy, occupational therapy, and services for individuals with speech, hearing, and language disorders.
 
-&emsp;(23) Hospice care (concurrent, in the case of an individual who is a child, with care related to the treatment of the child's condition with respect to which a diagnosis of terminal illness has been made.<sup>1</sup>
+&emsp;(23) Hospice care (concurrent, in the case of an individual who is a child, with care related to the treatment of the child's condition withrespect to which a diagnosis of terminal illness has been made.<sup>1</sup>
 
 &emsp;(24) Any other medical, diagnostic, screening, preventive, restorative, remedial, therapeutic, or rehabilitative services (whether in a facility, home, school, or other setting) if recognized by State law and only if the service is—
 
@@ -108,7 +108,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), in the case of any child who is enrolled in agroup health plan or health insurance coverage offered through an employer who would, but for the application of paragraph (1)(C), satisfy the requirements for being a targeted low-income child under a State child health plan that is implemented under this subchapter, a State may waive the application of such paragraph to the child in order to provide—
+&emsp;&emsp;Subject to subparagraphs (B) and (C), in the case of any child who is enrolled in a group health plan or health insurance coverage offered through an employer who would, but for the application of paragraph (1)(C), satisfy the requirements for being a targeted low-income child under a State child health plan that is implemented under this subchapter, a State may waive the application of such paragraph to the child in order to provide—
 
 &emsp;&emsp;&emsp;(i) dental coverage consistent with the requirements of subsection (c)(6) of section 1397cc of this title; or
 
@@ -180,7 +180,7 @@ For purposes of this subchapter:
 
 #### (5) Poverty line defined
 
-&emsp;The term "poverty line" has the meaning given such term in section 9902(2) of this title,including any revision required by such section.
+&emsp;The term "poverty line" has the meaning given such term in section 9902(2) of this title, including any revision required by such section.
 
 #### (6) Preexisting condition exclusion
 
@@ -294,7 +294,7 @@ Subsec. (c)(3). Pub. L. 105–100, §162(9), made technical amendment to referen
 
 #### Effective Date of 2022 Amendment
 
-Amendment by section 5121(c)(2) of Pub. L. 117–328 applicable beginning on the first day of the first calendar quarter that begins on or after the date that is 24 months after Dec. 29, 2022, see section 5121(d) of Pub. L. 117–328, set out as a note under section 1396a of this title.
+Amendment by section 5121(c)(2) of Pub. L. 117–328 applicable beginning on the first day of the first calendar quarter that begins on or after the date that is 24months after Dec. 29, 2022, see section 5121(d) of Pub. L. 117–328, set out as a note under section 1396a of this title.
 
 Amendment by section 5122(b) of Pub. L. 117–328 effective on the first day of the first calendar quarter that begins after the date that is 24 months after Dec. 29, 2022 and applicable to items and services furnished for periods beginning on or after such date, see section 5122(c) of Pub. L. 117–328, set out as a note under section 1396a of this title.
 

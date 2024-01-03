@@ -144,7 +144,7 @@ Elements.—Each guide under this paragraph shall include the following:
 
 &emsp;&emsp;&emsp;"(i) Information on the response processes of the Family Advocacy Programs and military criminal investigative organizations of the military department concerned.
 
-&emsp;&emsp;&emsp;"(ii) Lists of available support services, such as legal, medical, and victim advocacy services, through the Department of Defense and the military department concerned.
+&emsp;&emsp;&emsp;"(ii) Lists of available support services, such as legal, medical, and victim advocacy services,through the Department of Defense and the military department concerned.
 
 &emsp;&emsp;"(C)
 

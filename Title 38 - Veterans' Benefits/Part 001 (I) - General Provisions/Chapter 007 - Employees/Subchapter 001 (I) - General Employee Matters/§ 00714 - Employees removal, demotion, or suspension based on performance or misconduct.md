@@ -102,7 +102,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(D) a political appointee.
 
-&emsp;(2) The term "suspend" means the placing of an employee, for disciplinary reasons, in atemporary status without duties and pay for a period in excess of 14 days.
+&emsp;(2) The term "suspend" means the placing of an employee, for disciplinary reasons, in a temporary status without duties and pay for a period in excess of 14 days.
 
 &emsp;(3) The term "grade" has the meaning given such term in section 7511(a) of title 5.
 

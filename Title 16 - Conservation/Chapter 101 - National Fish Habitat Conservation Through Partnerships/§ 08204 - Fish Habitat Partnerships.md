@@ -56,7 +56,7 @@ The Board may recommend to Congress for designation an application for a Partner
 
 &emsp;(3) is organized to promote the health of important fish species and important fish habitats, including reservoirs, natural lakes, coastal and marine environments, coral reefs, and estuaries;
 
-&emsp;(4) identifies strategic fish and fish habitat priorities for the Partnership area in the formof geographical focus areas or key stressors or impairments to facilitate strategic planning and decision making;
+&emsp;(4) identifies strategic fish and fish habitat priorities for the Partnership area in the form of geographical focus areas or key stressors or impairments to facilitate strategic planning and decision making;
 
 &emsp;(5) is able to address issues and priorities on a nationally significant scale;
 
@@ -82,7 +82,7 @@ The Board may recommend to Congress for designation an application for a Partner
 
 &emsp;&emsp;&emsp;(ii) the Board recommends to Congress for designation as a Partnership;
 
-&emsp;&emsp;(B) describes any proposed modifications to a Partnership previously designated by Congress under subsection (f);
+&emsp;&emsp;(B) describes any proposed modifications to a Partnership previously designated by Congress under subsection (f); <sup>1</sup>
 
 &emsp;&emsp;(C) with respect to each entity recommended for designation as a Partnership, describes, to the maximum extent practicable—
 
@@ -110,7 +110,9 @@ Congress shall have the exclusive authority to designate or modify a Partnership
 
 #### (2) Ineligibility for Federal funds
 
-&emsp;A partnership referred to in paragraph (1) that Congress does not designate as described in that paragraph shall be ineligible to receive Federal funds under this chapter.
+&emsp;A partnership referred to in paragraph (1) that Congress does not designate as describedin that paragraph shall be ineligible to receive Federal funds under this chapter.
 
 (Pub. L. 116–188, title II, §204, Oct. 30, 2020, 134 Stat. 928.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

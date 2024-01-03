@@ -2,7 +2,15 @@
 
 (a)
 
-Designation.—The Secretary of Transportation may designate as a center of excellence for domestic maritime workforce training and education an entity which is a covered training entity.
+Designation.—
+
+&emsp;(1)
+
+In general.—The Secretary of Transportation, after consultation with the Coast Guard, may designate, for a 5-year period, as a center of excellence for domestic maritime workforce training and education an entity which is a covered training entity.
+
+&emsp;(2)
+
+Withdrawal of designation.—The Secretary of Transportation may withdraw a designation as a center of excellence for domestic maritime workforce training and education of a covered training entity upon discovery of adverse information, including discovery of information that the covered training entity has engaged in fraudulent or unlawful activities, or has been subjected to disciplinary or adverse administrative action by Federal, State, or other regulatory bodies.
 
 (b)
 
@@ -28,7 +36,7 @@ Grant proposal.—To be eligible to receive a grant under this subsection, a cen
 
 &emsp;(3)
 
-Criteria for award of grants.—Subject to the appropriation of funds to carry out this section, the Secretary shall award grants under this subsection to centers of excellence based on—
+Criteria for award of grants.—Subject to the appropriation of funds to carry out thissection, the Secretary shall award grants under this subsection to centers of excellence based on—
 
 &emsp;&emsp;(A) an determination of the merits of a grant proposal submitted under paragraph (2) to develop, offer, or improve career and technical education or training programs to be made available to United States maritime industry workers;
 
@@ -64,6 +72,14 @@ Administrative costs.—Not more than 3 percent of amounts made available to car
 
 Prohibited use.—A center of excellence designated under subsection (a) that has received funds awarded under section 54101(a)(2) for training purposes for a fiscal year shall not be eligible for grants under this subsection during the same fiscal year.
 
+&emsp;(5)
+
+Eligible uses of grant funds.—A center of excellence receiving a grant under this subsection shall—
+
+&emsp;&emsp;(A) carry out activities that are identified as priorities for the purpose of developing, offering, or improving educational or career training programs for the United States maritime industry workforce; and
+
+&emsp;&emsp;(B) provide training to upgrade the skills of the United States maritime industry workforce, including training to acquire covered requirements as well as technical skills training for jobs in the United States maritime industry.
+
 (c)
 
 Definitions.—In this section,
@@ -90,15 +106,23 @@ Covered training entity.—The term "covered training entity" means an entity th
 
 &emsp;&emsp;&emsp;(i) a postsecondary educational institution (as such term is defined in section 3(39) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302));
 
-&emsp;&emsp;&emsp;(ii) a postsecondary vocational institution (as such term is defined in section102(c) of the Higher Education Act of 1965 (20 U.S.C. 1002(c)); <sup>1</sup>
+&emsp;&emsp;&emsp;(ii) a postsecondary vocational institution (as such term is defined in section 102(c) of the Higher Education Act of 1965 (20 U.S.C. 1002(c)); <sup>1</sup>
 
 &emsp;&emsp;&emsp;(iii) a public or private nonprofit entity that offers one or more other structured experiential learning training programs for United States workers in the United States maritime industry, including a program that is offered by a labor organization or conducted in partnership with a nonprofit organization or one or more employers in the United States maritime industry;
 
 &emsp;&emsp;&emsp;(iv) an entity sponsoring an apprenticeship program registered with the Office of Apprenticeship of the Employment and Training Administration of the Department of Labor or a State apprenticeship agency recognized by the Office of Apprenticeship pursuant to the Act of August 16, 1937 (commonly known as the 'National Apprenticeship Act'; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.); or
 
-&emsp;&emsp;&emsp;(v) a maritime training center designated prior to the date of enactment of the National Defense Authorization Act for Fiscal Year 2023; and
+&emsp;&emsp;&emsp;(v) a maritime training center designated prior to the date of enactment of the National Defense Authorization Act for Fiscal Year 2023;
 
-&emsp;&emsp;(C) has a demonstrated record of success in maritime workforce training and education.
+&emsp;&emsp;(C) has a demonstrated record of success in maritime workforce training and education; and
+
+&emsp;&emsp;(D) has—
+
+&emsp;&emsp;&emsp;(i) not been subject to a disciplinary or adverse administrative action by Federal, State, or other regulatory bodies;
+
+&emsp;&emsp;&emsp;(ii) no unresolved nonconformities from administrative audits by regulatory bodies; and
+
+&emsp;&emsp;&emsp;(iii) not been subject to any adverse criminal action by a Federal, State, or local law enforcement authority.
 
 &emsp;(2)
 
@@ -130,7 +154,7 @@ United states maritime industry.—The term "United States maritime industry" me
 
 &emsp;&emsp;&emsp;(ii) oceanographic and limnological research as described in section 2101(24).
 
-(Added Pub. L. 115–91, div. C, title XXXV, §3507(a), Dec. 12, 2017, 131 Stat. 1914, §54102; renumbered §51706, Pub. L. 116–283, div. C, title XXXV, §3507(a), Jan. 1, 2021, 134 Stat. 4405; amended Pub. L. 117–263, div. C, title XXXV, §3532(a), Dec. 23, 2022, 136 Stat. 3089.)
+(Added Pub. L. 115–91, div. C, title XXXV, §3507(a), Dec. 12, 2017, 131 Stat. 1914, §54102; renumbered §51706, Pub. L. 116–283, div. C, title XXXV, §3507(a), Jan. 1, 2021, 134 Stat. 4405; amended Pub. L. 117–263, div. C, title XXXV, §3532(a), Dec. 23, 2022, 136 Stat. 3089; Pub. L. 118–31, div. C, title XXXV, §3534(k), Dec. 22, 2023, 137 Stat. 834.)
 
 #### <b>Editorial Notes</b>
 
@@ -139,6 +163,12 @@ United states maritime industry.—The term "United States maritime industry" me
 The date of enactment of the National Defense Authorization Act for Fiscal Year 2023, referred to in subsec. (c)(1)(B)(v), is the date of enactment of Pub. L. 117–263, also known as the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, which was approved Dec. 23, 2022.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a). Pub. L. 118–31, §3534(k)(1), designated existing provisions as par. (1) and inserted heading, inserted ", after consultation with the Coast Guard," after "Transportation" and ", for a 5-year period," after "designate", and added par. (2).
+
+<b>2023</b>—Subsec. (b)(5). Pub. L. 118–31, §3534(k)(2), added par. (5).
+
+Subsec. (c)(1)(D). Pub. L. 118–31, §3534(k)(3), added subpar. (D).
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–263, §3532(a)(1), added subsec. (a) and struck out former subsec. (a) which related to designation.
 

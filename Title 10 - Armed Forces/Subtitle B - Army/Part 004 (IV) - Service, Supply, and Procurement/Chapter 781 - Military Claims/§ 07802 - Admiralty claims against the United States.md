@@ -10,7 +10,7 @@
 
 (b) If a claim under subsection (a) is settled or compromised for $500,000 or less, the Secretary of the Army may pay it. If it is settled or compromised for more than $500,000, he shall certify it to Congress.
 
-(c) In any case where the amount to be paid is not more than $100,000, the Secretary of theArmy may delegate his authority under subsection (a) to any person in the Department of the Army designated by him.
+(c) In any case where the amount to be paid is not more than $100,000, the Secretary of the Army may delegate his authority under subsection (a) to any person in the Department of the Army designated by him.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 271, §4802; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 92–417, §1(1), Aug. 29, 1972, 86 Stat. 654; Pub. L. 101–189, div. A, title XVI, §1633, Nov. 29, 1989, 103 Stat. 1608; renumbered §7802, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
@@ -50,7 +50,7 @@ In subsection (a), the words "consider, ascertain, adjust, determine" are omitte
 
 <b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted "$100,000" for "$10,000".
 
-<b>1972</b>—Subsec. (a). Pub. L. 92–417 substituted "Admiralty claims against the United States" for "Damage by United States vessels, towage and salvage of United States vessels" in section catchline, in text preceding par. (1), struck out requirement that the Secretary of the Army discharge his functions under the direction of the Secretary of Defense, in par. (1) inserted "or by other property under the jurisdiction of the Department of the Army," in par. (2) inserted "or to other property under the jurisdiction of the Department of the Army; or," and added par. (3).
+<b>1972</b>—Subsec. (a). Pub. L. 92–417 substituted "Admiralty claims against the United States" for "Damage by United States vessels, towage and salvage of United States vessels" in section catchline, in text preceding par. (1), struck out requirement that the Secretary of the Army discharge his functions under the direction of the Secretary of Defense, in par. (1) inserted "or by other property under the jurisdiction of the Department of the Army," in par. (2) inserted "or to otherproperty under the jurisdiction of the Department of the Army; or," and added par. (3).
 
 <b>1965</b>—Subsec. (c). Pub. L. 89–67 substituted "$10,000" for "$1,000".
 

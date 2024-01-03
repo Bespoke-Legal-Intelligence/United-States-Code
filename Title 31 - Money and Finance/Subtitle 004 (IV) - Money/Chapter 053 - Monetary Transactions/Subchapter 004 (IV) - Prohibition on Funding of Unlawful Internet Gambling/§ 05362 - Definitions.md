@@ -62,7 +62,7 @@ Designated payment system.—The term "designated payment system" means any syst
 
 &emsp;(4)
 
-Financial transaction provider.—The term "financial transaction provider" means a creditor, credit card issuer, financial institution, operator of a terminal at which an electronic fund transfer may be initiated, money transmitting business, or international, national, regional, or local payment network utilized to effect a credit transaction, electronic fund transfer, stored value producttransaction, or money transmitting service, or a participant in such network, or other participant in a designated payment system.
+Financial transaction provider.—The term "financial transaction provider" means a creditor, credit card issuer, financial institution, operator of a terminal at which an electronic fund transfer may be initiated, money transmitting business, or international, national, regional, or local payment network utilized to effect a credit transaction, electronic fund transfer, stored value product transaction, or money transmitting service, or a participant in such network, or other participant in a designated payment system.
 
 &emsp;(5)
 
@@ -178,7 +178,7 @@ Credit; creditor; credit card; and card issuer.—The terms "credit", "creditor"
 
 Electronic fund transfer.—The term "electronic fund transfer"—
 
-&emsp;&emsp;&emsp;(i) has the meaning given the term in section 903 of the Electronic Fund Transfer Act (15 U.S.C. 1693a), except that the term includes transfers that would otherwise be excluded under section 903(6)(E) of that Act; and
+&emsp;&emsp;&emsp;(i) has the meaning given the term in section 903 of the Electronic Fund Transfer Act (15 U.S.C. 1693a), except that the termincludes transfers that would otherwise be excluded under section 903(6)(E) of that Act; and
 
 &emsp;&emsp;&emsp;(ii) includes any fund transfer covered by Article 4A of the Uniform Commercial Code, as in effect in any State.
 

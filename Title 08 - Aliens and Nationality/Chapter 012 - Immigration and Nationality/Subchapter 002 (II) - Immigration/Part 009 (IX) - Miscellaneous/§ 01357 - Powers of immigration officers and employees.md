@@ -16,7 +16,7 @@ Any officer or employee of the Service authorized under regulations prescribed b
 
 &emsp;&emsp;(A) for any offense against the United States, if the offense is committed in the officer's or employee's presence, or
 
-&emsp;&emsp;(B) for any felony cognizable under the laws of the United States, if the officer or employee has reasonable grounds to believe that the person to be arrested has committed or is committing such a felony,
+&emsp;&emsp;(B) for any felony cognizable under the laws of the United States, if the officer oremployee has reasonable grounds to believe that the person to be arrested has committed or is committing such a felony,
 
 > &emsp;if the officer or employee is performing duties relating to the enforcement of the immigration laws at the time of the arrest and if there is a likelihood of the person escaping before a warrant can be obtained for his arrest.
 

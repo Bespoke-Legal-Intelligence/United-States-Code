@@ -49,7 +49,7 @@ For purposes of this section, the term "qualified decedent" means—
 
 In the case of an estate to which this section applies, subsection (a) shall not apply in determining the credit under section 2010.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 401; Pub. L. 93–597, §6(b)(1), (2), Jan. 2, 1975, 88 Stat. 1953; Pub. L. 94–455, title XIX, §1902(a)(7)(A), Oct. 4, 1976, 90 Stat. 1805; Pub. L. 107–16, title V, §532(c)(9), June 7, 2001, 115 Stat. 75; Pub. L. 107–134, title I, §103(a), (b)(3), Jan. 23, 2002, 115Stat. 2430, 2431; Pub. L. 108–121, title I, §110(c)(1), (2)(A), Nov. 11, 2003, 117 Stat. 1342.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 401; Pub. L. 93–597, §6(b)(1), (2), Jan. 2, 1975, 88 Stat. 1953; Pub. L. 94–455, title XIX, §1902(a)(7)(A), Oct. 4, 1976, 90 Stat. 1805; Pub. L. 107–16, title V, §532(c)(9), June 7, 2001, 115 Stat. 75; Pub. L. 107–134, title I, §103(a), (b)(3), Jan. 23, 2002, 115 Stat. 2430, 2431; Pub. L. 108–121, title I, §110(c)(1), (2)(A), Nov. 11, 2003, 117 Stat. 1342.)
 
 #### <b>Editorial Notes</b>
 

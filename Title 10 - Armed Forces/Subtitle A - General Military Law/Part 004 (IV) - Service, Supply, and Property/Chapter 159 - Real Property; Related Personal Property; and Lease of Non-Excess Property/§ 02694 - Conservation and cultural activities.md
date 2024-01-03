@@ -48,13 +48,15 @@ Effect on Other Laws.—Nothing in this section shall be construed or interprete
 
 (e)
 
-Sentinel Landscape Defined.—In this section, the term "sentinel landscape" has the meaning given that term in section 317(f) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2684a note).
+Sentinel Landscape Defined.—In this section, the term "sentinel landscape" has the meaning given that term in section 2693(g) of this title.
 
-(Added Pub. L. 104–201, div. A, title III, §332(a)(1), Sept. 23, 1996, 110 Stat. 2484; amended Pub. L. 105–85, div. A, title X, §1073(a)(59), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 112–81, div. B, title XXVIII, §2814, Dec. 31, 2011, 125 Stat. 1688; Pub. L. 117–81, div. A, title III, §317(c), Dec. 27, 2021, 135 Stat. 1632.)
+(Added Pub. L. 104–201, div. A, title III, §332(a)(1), Sept. 23, 1996, 110 Stat. 2484; amended Pub. L. 105–85, div. A, title X, §1073(a)(59), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 112–81, div. B, title XXVIII, §2814, Dec. 31, 2011, 125 Stat. 1688; Pub. L. 117–81, div. A, title III, §317(c), Dec. 27, 2021, 135 Stat. 1632; Pub. L. 118–31, div. A, title III, §311(c)(2), Dec. 22, 2023, 137 Stat. 215.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (e). Pub. L. 118–31 substituted "meaning given that term in section 2693(g) of this title" for "meaning given that term in section 317(f) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2684a note)".
 
 <b>2021</b>—Subsec. (b)(1)(A). Pub. L. 117–81, §317(c)(1)(A)(i), inserted "or involves a sentinel landscape" before semicolon at end.
 

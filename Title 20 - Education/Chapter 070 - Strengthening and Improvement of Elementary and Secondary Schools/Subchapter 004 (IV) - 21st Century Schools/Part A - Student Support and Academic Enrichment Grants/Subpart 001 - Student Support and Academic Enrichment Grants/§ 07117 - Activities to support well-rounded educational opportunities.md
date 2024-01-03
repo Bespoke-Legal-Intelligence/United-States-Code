@@ -22,7 +22,7 @@ Subject to section 7116(f) of this title, each local educational agency, or cons
 
 &emsp;&emsp;(C) programming and activities to improve instruction and student engagement in science, technology, engineering, and mathematics, including computer science, (referred to in this section as "STEM subjects") such as—
 
-&emsp;&emsp;&emsp;(i) increasing access for students through grade 12 who are members of groups underrepresented in such subject fields, such asfemale students, minority students, English learners, children with disabilities, and economically disadvantaged students, to high-quality courses;
+&emsp;&emsp;&emsp;(i) increasing access for students through grade 12 who are members of groups underrepresented in such subject fields, such as female students, minority students, English learners, children with disabilities, and economically disadvantaged students, to high-quality courses;
 
 &emsp;&emsp;&emsp;(ii) supporting the participation of low-income students in nonprofit competitions related to STEM subjects (such as robotics, science research, invention, mathematics, computer science, and technology competitions);
 
@@ -36,7 +36,7 @@ Subject to section 7116(f) of this title, each local educational agency, or cons
 
 &emsp;&emsp;(D) efforts to raise student academic achievement through accelerated learning programs described in section 7114(b)(3)(A)(i)(IV) of this title, such as—
 
-&emsp;&emsp;&emsp;(i) reimbursing low-income students to cover part or all of the costs of accelerated learning examination fees, if the low-income students are enrolled in accelerated learning courses and plan to take accelerated learning examinations; or
+&emsp;&emsp;&emsp;(i) reimbursing low-income students to cover part or all of the costs of accelerated learning examination fees, if the low-income students are enrolled in acceleratedlearning courses and plan to take accelerated learning examinations; or
 
 &emsp;&emsp;&emsp;(ii) increasing the availability of, and enrollment in, accelerated learning courses, accelerated learning examinations, dual or concurrent enrollment programs, and early college high school courses;
 

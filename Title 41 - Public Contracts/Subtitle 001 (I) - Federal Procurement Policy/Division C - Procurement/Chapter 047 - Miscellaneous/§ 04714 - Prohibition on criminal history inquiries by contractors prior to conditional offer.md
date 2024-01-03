@@ -92,11 +92,11 @@ Criminal history record information.—The term "criminal history record informa
 
 The date of enactment of the Fair Chance to Compete for Jobs Act of 2019, referred to in subsec. (a)(3)(B)(i), is the date of enactment of subtitle B (§§1121–1124) of title XI of div. A of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
-The Civil Rights Act of 1964, referred to in subsec. (a)(3)(B)(ii)(I), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a)(3)(B)(ii)(I), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241.Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
-Pub. L. 116–92, div. A, title XI, §1123(a)(3), Dec. 20, 2019, 133 Stat. 1612, provided that: "Section 4714 of title 41, United States Code, as added by paragraph (1), shall apply with respect to contracts awarded pursuant tosolicitations issued after the effective date described in section 1122(b)(2) of this subtitle \[effective 2 years after Dec. 20, 2019, see section 1122(b)(2) of Pub. L. 116–92, div. A, title XI, subtitle B, set out as a note under section 9202 of Title 5, Government Organization and Employees\]."
+Pub. L. 116–92, div. A, title XI, §1123(a)(3), Dec. 20, 2019, 133 Stat. 1612, provided that: "Section 4714 of title 41, United States Code, as added by paragraph (1), shall apply with respect to contracts awarded pursuant to solicitations issued after the effective date described in section 1122(b)(2) of this subtitle \[effective 2 years after Dec. 20, 2019, see section 1122(b)(2) of Pub. L. 116–92, div. A, title XI, subtitle B, set out as a note under section 9202 of Title 5, Government Organization and Employees\]."
 

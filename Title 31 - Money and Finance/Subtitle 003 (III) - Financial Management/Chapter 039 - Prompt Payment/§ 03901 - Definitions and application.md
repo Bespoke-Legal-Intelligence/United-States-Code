@@ -30,7 +30,7 @@
 
 &emsp;(6) a contract to rent property is deemed to be a contract to acquire the property.
 
-(b) This chapter applies to the Tennessee Valley Authority. However, regulations prescribed under this chapter do not apply to the Authority, and the Authority alone is responsible forcarrying out this chapter as it applies to contracts of the Authority.
+(b) This chapter applies to the Tennessee Valley Authority. However, regulations prescribed under this chapter do not apply to the Authority, and the Authority alone is responsible for carrying out this chapter as it applies to contracts of the Authority.
 
 (c) This chapter applies to the United States Postal Service. However, the Postmaster General shall be responsible for issuing the implementing procurement regulations, solicitation provisions, and contract clauses for the United States Postal Service.
 
@@ -38,7 +38,7 @@
 
 (2) A claim for an interest penalty not paid under this chapter may be filed in the same manner as claims are filed with respect to contracts to provide property or services for the District of Columbia Courts.
 
-(3)(A) Except as provided in subparagraph (B), an interest penalty under this chapter does not continue to accrue for more than one year or after a claim for an interest penalty is filed in the manner described in paragraph (2), whichever is earlier.
+(3)(A) Except as provided in subparagraph (B), an interest penalty under this chapter does not continue to accrue for more than one year orafter a claim for an interest penalty is filed in the manner described in paragraph (2), whichever is earlier.
 
 (B) If a claim for an interest penalty is filed in the manner described in paragraph (2) and interest is not available for such claims under the laws and regulations governing claims under contracts to provide property or services for the District of Columbia Courts, interest will accrue under this chapter as provided in paragraph (A) and from the date the claim is filed until the date the claim is paid.
 

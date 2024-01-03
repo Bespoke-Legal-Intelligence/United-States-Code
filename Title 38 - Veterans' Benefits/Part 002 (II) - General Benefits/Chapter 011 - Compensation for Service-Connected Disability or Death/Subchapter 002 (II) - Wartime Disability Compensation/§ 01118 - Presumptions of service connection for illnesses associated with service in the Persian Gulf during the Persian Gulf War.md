@@ -4,7 +4,7 @@
 
 (2) An illness referred to in paragraph (1) is any diagnosed or undiagnosed illness that—
 
-&emsp;(A) the Secretary determines in regulations prescribed under this section to warrant a presumption of service connection by reason ofhaving a positive association with exposure to a biological, chemical, or other toxic agent, environmental or wartime hazard, or preventive medicine or vaccine known or presumed to be associated with service in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; and
+&emsp;(A) the Secretary determines in regulations prescribed under this section to warrant a presumption of service connection by reason of having a positive association with exposure to a biological, chemical, or other toxic agent, environmental or wartime hazard, or preventive medicine or vaccine known or presumed to be associated with service in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; and
 
 &emsp;(B) becomes manifest within the period, if any, prescribed in such regulations in a veteran who served on active duty in that theater of operations during that war and by reason of such service was exposed to such agent, hazard, or medicine or vaccine.
 

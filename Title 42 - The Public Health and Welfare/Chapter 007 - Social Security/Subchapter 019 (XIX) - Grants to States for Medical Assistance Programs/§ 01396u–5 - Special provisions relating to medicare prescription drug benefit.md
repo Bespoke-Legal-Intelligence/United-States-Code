@@ -46,11 +46,11 @@ The amounts expended by a State in carrying out subsection (a) are expenditures 
 
 #### (B) Form and manner of payment
 
-&emsp;&emsp;Payment under subparagraph (A) shall be made in a manner specified by the Secretary that is similar to the manner in which Statepayments are made under an agreement entered into under section 1395v of this title, except that all such payments shall be deposited into the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund.
+&emsp;&emsp;Payment under subparagraph (A) shall be made in a manner specified by the Secretary that is similar to the manner in which State payments are made under an agreement entered into under section 1395v of this title, except that all such payments shall be deposited into the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund.
 
 #### (C) Compliance
 
-&emsp;&emsp;If a State fails to pay to the Secretary an amount required under subparagraph (A), interest shall accrue on such amount at the rate provided under section 1396b(d)(5) of this title. The amount so owed and applicable interest shall be immediately offset against amounts otherwise payable to the State under section 1396b(a) of this title subject to subsection (e), in accordance with the Federal Claims Collection Act of 1996 <sup>1</sup> and applicable regulations.
+&emsp;&emsp;If a State fails to pay to the Secretary an amount required under subparagraph (A), interest shall accrue on such amount at the rate provided under section 1396b(d)(5) of this title. The amount so owed and applicable interest shall be immediately offset against amounts otherwise payable to the State under section 1396b(a) of this title subject to subsection (e), in accordance with theFederal Claims Collection Act of 1996 <sup>1</sup> and applicable regulations.
 
 #### (D) Data match
 

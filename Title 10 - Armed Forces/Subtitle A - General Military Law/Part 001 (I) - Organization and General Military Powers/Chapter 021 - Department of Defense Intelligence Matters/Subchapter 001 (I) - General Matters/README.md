@@ -43,7 +43,7 @@ Pub. L. 111–84, div. A, title IX, §921(b)(2), Oct. 28, 2009, 123 Stat. 2432, 
 
 <b>2001</b>—Pub. L. 107–108, title V, §501(b)(3), Dec. 28, 2001, 115 Stat. 1404, substituted "Use of funds for certain incidental purposes" for "Counterintelligence official reception and representation expenses" in item 422.
 
-<b>1997</b>—Pub. L. 105–107, title V, §503(d)(2), Nov. 20, 1997, 111 Stat. 2263, added items 424 and 425 and struck out former items 424 "Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency" and 425 "Disclosure of personnel information: exemption for National Reconnaissance Office".
+<b>1997</b>—Pub. L. 105–107, title V, §503(d)(2), Nov. 20, 1997, 111 Stat. 2263, added items 424 and 425 and struck outformer items 424 "Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency" and 425 "Disclosure of personnel information: exemption for National Reconnaissance Office".
 
 <b>1993</b>—Pub. L. 103–178, title V, §503(a)(2), Dec. 3, 1993, 107 Stat. 2039, added item 425.
 

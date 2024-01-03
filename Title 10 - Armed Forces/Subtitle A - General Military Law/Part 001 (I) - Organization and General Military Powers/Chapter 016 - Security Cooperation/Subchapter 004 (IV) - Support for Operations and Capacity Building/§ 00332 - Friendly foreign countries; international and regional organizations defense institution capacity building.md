@@ -2,7 +2,7 @@
 
 (a)
 
-Ministry of Defense Advisor Authority.—The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of the Department of Defense and members of the armed forces as advisors to the ministries of defense (or security agencies serving a similar defense function) of foreign countries or regional organizations with security missions in order to—
+Ministry of Defense Advisor Authority.—The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of theDepartment of Defense and members of the armed forces as advisors to the ministries of defense (or security agencies serving a similar defense function) of foreign countries or regional organizations with security missions in order to—
 
 &emsp;(1) provide institutional, ministerial-level advice, and other training to personnel of the ministry or regional organization to which assigned in support of stabilization or post-conflict activities; or
 
@@ -76,7 +76,7 @@ Pub. L. 115–232, §1202(2)(A), (B), substituted "Secretary provided" for "Secr
 
 Subsec. (b)(1). Pub. L. 115–91, §1204(a)(2)(A), inserted "to assign civilian employees of the Department of Defense and members of the armed forces as advisors or trainers" after "carry out a program" in introductory provisions.
 
-Subsec. (b)(2)(B). Pub. L. 115–91, §1204(a)(2)(B), substituted "advisors or trainers" for "employees" in two places and "the activities of each assigned advisor or trainer" for "each assigned employee's activities".
+Subsec. (b)(2)(B). Pub. L. 115–91, §1204(a)(2)(B), substituted "advisors or trainers" for "employees" in twoplaces and "the activities of each assigned advisor or trainer" for "each assigned employee's activities".
 
 Subsec. (c). Pub. L. 115–91, §1204(a)(3)(A), inserted "or a member of the armed forces" after "a civilian employee of the Department of Defense" in introductory provisions.
 
@@ -90,7 +90,7 @@ Subsec. (c)(3). Pub. L. 115–91, §1204(a)(3)(C), substituted "advisor or train
 
 #### Legal Institutional Capacity Building Initiative for Foreign Defense Institutions
 
-Pub. L. 116–92, div. A, title XII, §1210, Dec. 20, 2019, 133 Stat. 1625, provided that:
+Pub. L. 116–92, div. A, title XII, §1210, Dec. 20, 2019, 133 Stat. 1625, as amended by Pub. L. 118–31, div. A, title XII, §1208, Dec. 22, 2023, 137 Stat. 449, provided that:
 
 "(a)
 
@@ -172,7 +172,7 @@ Matters to be included.—Each report submitted under paragraph (1) shall includ
 
 "(e)
 
-Sunset.—The initiative under subsection (a) shall terminate on December 31, 2024.
+Sunset.—The initiative under subsection (a) shall terminate on December 31, 2028.
 
 "(f)
 

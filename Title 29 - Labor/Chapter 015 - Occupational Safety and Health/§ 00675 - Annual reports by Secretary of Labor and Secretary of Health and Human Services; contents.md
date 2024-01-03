@@ -12,7 +12,7 @@ Within one hundred and twenty days following the convening of each regular sessi
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in this section relating to the transmittal to Congress of reports prepared by the Secretary of Labor and the Secretary of Health and Human Services, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 98 and 124 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in this section relating to the transmittal to Congress of reports prepared by the Secretary of Labor and the Secretary of Health and Human Services, see section 3003 of Pub. L. 104–66, as amended, set out as a noteunder section 1113 of Title 31, Money and Finance, and pages 98 and 124 of House Document No. 103–7.
 
 #### Study of Occupationally Related Pulmonary and Respiratory Diseases; Study To Be Completed and Report Submitted by September 1, 1979
 

@@ -46,7 +46,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1307(a) (last sentence less words between 2d 
 
 In subsection (a), the words "To the extent" are substituted for "insofar as" for consistency.
 
-In subsection (b), the word "initial" is omitted as surplus. The words "The period" are substituted for "Such insurance or reinsurance", and the words "the President decides . . . that the continued operation of the aircraft to be insured or reinsured is necessary to carry out the foreign policy of the United States Government" are substituted for "the President makes the same determination with respect to such extension as he is required to make under paragraph (2) of subsection (a) of this section for the initial provision of such insurance or reinsurance", for clarity.
+In subsection (b), the word "initial" is omitted as surplus. The words "The period" are substituted for"Such insurance or reinsurance", and the words "the President decides . . . that the continued operation of the aircraft to be insured or reinsured is necessary to carry out the foreign policy of the United States Government" are substituted for "the President makes the same determination with respect to such extension as he is required to make under paragraph (2) of subsection (a) of this section for the initial provision of such insurance or reinsurance", for clarity.
 
 In subsection (c), the words "or reinsured" are added for consistency. The words "to be paid in the event of total loss" are omitted as unnecessary because of the last sentence. The words "A claim under the policy may not be paid for more than that stated amount" are substituted for "the amount of any claim which is compromised, settled, adjusted, or paid shall in no event exceed such stated amount" to eliminate unnecessary words.
 

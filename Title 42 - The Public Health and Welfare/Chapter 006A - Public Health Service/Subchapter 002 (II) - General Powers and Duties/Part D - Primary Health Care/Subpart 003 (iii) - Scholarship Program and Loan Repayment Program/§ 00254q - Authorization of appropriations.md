@@ -16,7 +16,7 @@ For the purpose of carrying out this section,<sup>1</sup> there is authorized to
 
 &emsp;(6) For fiscal year 2015, $1,154,510,336.
 
-&emsp;(7) For fiscal year 2016, and each subsequent fiscal year, the amount appropriated for thepreceding fiscal year adjusted by the product of—
+&emsp;(7) For fiscal year 2016, and each subsequent fiscal year, the amount appropriated for the preceding fiscal year adjusted by the product of—
 
 &emsp;&emsp;(A) one plus the average percentage increase in the costs of health professions education during the prior fiscal year; and
 
@@ -46,7 +46,7 @@ A prior section 338H of act July 1, 1944, was renumbered section 338I by Pub. L.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to authorization of appropriations for the purposes of carrying out this subpart as follows: for fiscal year 2008, $131,500,000; for fiscal year 2009, $143,335,000; for fiscal year 2010, $156,235,150; for fiscal year 2011, $170,296,310; and for fiscal year 2012, $185,622,980.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to authorization of appropriations for the purposes of carrying out this subpart as follows: for fiscal year 2008,$131,500,000; for fiscal year 2009, $143,335,000; for fiscal year 2010, $156,235,150; for fiscal year 2011, $170,296,310; and for fiscal year 2012, $185,622,980.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–355 substituted "appropriated—" for "appropriated $146,250,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006." and added pars. (1) to (5).
 

@@ -84,7 +84,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;&emsp;<b>For tax on train and certain bus uses of fuel purchased tax-free, see subsections (a)(1) and (d)(3) of section 4041.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 86–342, title II, §201(e)(1), (2), Sept. 21, 1959, 73 Stat. 615; Pub. L. 89–44, title VIII, §802(a)(1), (b)(1), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, §205(c)(6), May 21, 1970, 84 Stat. 242; Pub. L. 98–369, div. A, title VII, §§733(a), 734(c)(1), July 18, 1984, 98 Stat. 977, 979; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2775; Pub. L. 103–66, title XIII, §13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 104–188, title I, §1801(a), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title X, §1032(c)(1), (2), (e)(3)(A), Aug. 5, 1997, 111 Stat. 933, 935; Pub. L. 105–206, title VI, §6010(h)(3), (4), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title II, §241(a)(2)(B), title VIII, §§851(d)(2), 853(a)(5), 854(a), 857(a), Oct. 22, 2004, 118 Stat. 1438, 1608, 1611, 1615, 1617; Pub. L. 109–58, title XIII, §1362(b)(1), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11161(a)(4)(A), (E), (b)(3)(C), Aug. 10, 2005, 119 Stat. 1970, 1971; Pub. L. 109–432, div. A, title IV, §420(b)(2), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–172, §§6(d)(2)(B), (C), 11(a)(28), Dec. 29, 2007, 121 Stat. 2480, 2481, 2487; Pub. L. 112–95, title XI, §1103(a)(2), Feb. 14, 2012, 126 Stat. 150.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 86–342, title II, §201(e)(1), (2), Sept. 21, 1959, 73 Stat. 615; Pub. L. 89–44, title VIII, §802(a)(1), (b)(1), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, §205(c)(6), May 21, 1970, 84 Stat. 242; Pub. L. 98–369, div. A, title VII, §§733(a), 734(c)(1), July 18, 1984, 98 Stat. 977, 979; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2775; Pub. L. 103–66, title XIII, §13242(a), Aug. 10, 1993, 107Stat. 517; Pub. L. 104–188, title I, §1801(a), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title X, §1032(c)(1), (2), (e)(3)(A), Aug. 5, 1997, 111 Stat. 933, 935; Pub. L. 105–206, title VI, §6010(h)(3), (4), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title II, §241(a)(2)(B), title VIII, §§851(d)(2), 853(a)(5), 854(a), 857(a), Oct. 22, 2004, 118 Stat. 1438, 1608, 1611, 1615, 1617; Pub. L. 109–58, title XIII, §1362(b)(1), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11161(a)(4)(A), (E), (b)(3)(C), Aug. 10, 2005, 119 Stat. 1970, 1971; Pub. L. 109–432, div. A, title IV, §420(b)(2), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–172, §§6(d)(2)(B), (C), 11(a)(28), Dec. 29, 2007, 121 Stat. 2480, 2481, 2487; Pub. L. 112–95, title XI, §1103(a)(2), Feb. 14, 2012, 126 Stat. 150.)
 
 #### <b>Editorial Notes</b>
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 109–432 applicable to kerosene sold after Sept. 30, 2005,
 
 #### Effective Date of 2005 Amendments
 
-Amendment by Pub. L. 109–59 applicable to fuels or liquids removed, entered, or sold after Sept. 30, 2005, seesection 11161(e) of Pub. L. 109–59, set out as a note under section 4041 of this title.
+Amendment by Pub. L. 109–59 applicable to fuels or liquids removed, entered, or sold after Sept. 30, 2005, see section 11161(e) of Pub. L. 109–59, set out as a note under section 4041 of this title.
 
 Amendment by Pub. L. 109–58 effective Oct. 1, 2005, and applicable to fuel entered, removed, or sold after Sept. 30, 2005, see section 1362(d) of Pub. L. 109–58, set out as a note under section 4041 of this title.
 
@@ -264,7 +264,7 @@ Pub. L. 89–44, title VIII, §802(d)(1), June 21, 1965, 79 Stat. 159, provided 
 
 #### Effective Date of 1959 Amendment
 
-Pub. L. 86–342, title II, §201(e)(3), Sept. 21, 1959, 73 Stat. 615, provided that: "The amendments made by paragraphs (1) and (2) \[amending this section\] shall take effect on January 1, 1960."
+Pub. L. 86–342, title II, §201(e)(3), Sept. 21, 1959, 73 Stat. 615, provided that: "The amendments made byparagraphs (1) and (2) \[amending this section\] shall take effect on January 1, 1960."
 
 #### Regulations
 

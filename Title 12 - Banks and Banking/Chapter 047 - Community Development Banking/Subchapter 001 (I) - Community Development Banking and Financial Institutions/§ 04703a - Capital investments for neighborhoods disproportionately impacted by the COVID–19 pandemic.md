@@ -36,7 +36,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(ii) the National Credit Union Administration, in the case of an insured credit union; or
 
-&emsp;&emsp;(C) listed in the Federal Deposit Insurance Corporation's Minority Depository Institutions List published for the Third Quarter 2020.
+&emsp;&emsp;(C) listed in the Federal Deposit Insurance Corporation's Minority Depository Institutions List published for the Third Quarter 2020.<sup>1</sup>
 
 &emsp;(7) the term "Program" means the Emergency Capital Investment Program established under subsection (b);
 
@@ -48,7 +48,7 @@ In this section—
 
 #### (1) Fund established
 
-&emsp;There is established in the Treasury of the United States a fund to be known as the "Emergency Capital Investment Fund", which shall be administered by the Secretary.
+&emsp;There is established in the Treasury of the United States a fund to be known as the"Emergency Capital Investment Fund", which shall be administered by the Secretary.
 
 #### (2) Program authorized
 
@@ -94,7 +94,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(ii) describes how the business strategy and operating goals of the applicant will address community development needs in communities that may be disproportionately impacted by the economic effects of COVID–19, which includes the needs of small businesses, consumers, nonprofit organizations, community development, and other projects providing direct benefits to low- and moderate-income communities, low-income individuals, and minorities within the minority, rural, and urban low-income and underserved areas served by the applicant;
 
-&emsp;&emsp;&emsp;(iii) includes a plan to provide community outreach and communication, where appropriate;
+&emsp;&emsp;&emsp;(iii) includes a plan to provide community outreach and communication, where appropriate; <sup>2</sup>
 
 &emsp;&emsp;&emsp;(iv) includes details on how the applicant plans to expand or maintain significant lending or investment activity in low- or moderate-income minority communities, especially those that may be disproportionately impacted by COVID–19 to historically disadvantaged borrowers, and to minorities that have significant unmet capital or financial services needs.
 
@@ -112,7 +112,7 @@ In this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) be repaid not later than the end of the 10-year period beginning on the date of the capital investment under the Program; or
 
-&emsp;&emsp;&emsp;&emsp;(II) at the end of such 10-year period, be subject to such additional terms as the Secretary shall prescribe, which shall include a requirement that the stock shall carry the highest dividend or interest rate payable; and
+&emsp;&emsp;&emsp;&emsp;(II) at the end of such 10-year period, be subject to such additional terms as the Secretary shall prescribe, whichshall include a requirement that the stock shall carry the highest dividend or interest rate payable; and
 
 &emsp;&emsp;&emsp;(ii) provides that the term and condition described under clause (i) shall not apply if the application of that term and condition would adversely affect the capital treatment of the stock under current or successor applicable capital provisions compared to a capital instrument with identical terms other than the term and condition described under clause (i).
 
@@ -365,4 +365,8 @@ In General.—The Inspector General of the Department of the Treasury shall cond
 "(b)
 
 Reporting.—The Inspector General of the Department of the Treasury shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Secretary of the Treasury not less frequently than 2 times per year a report relating to the oversight provided by the Office of the Inspector General, including any recommendations for improvements to the programs described in subsection (a)."
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "and".</i>
 

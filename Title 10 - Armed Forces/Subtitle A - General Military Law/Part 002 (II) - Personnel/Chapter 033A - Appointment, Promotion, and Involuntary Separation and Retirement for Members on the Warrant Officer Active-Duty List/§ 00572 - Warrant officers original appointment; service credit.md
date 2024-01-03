@@ -1,6 +1,6 @@
 ### §572. Warrant officers: original appointment; service credit
 
-(a) For the purposes of promotion, persons originally appointed in regular or reserve warrant officer grades shall be credited with such service as the Secretary concerned may prescribe. However, such a person may not be credited with a period of service greater than the period of active service performed in the grade, or pay grade corresponding to the grade, in which so appointed, or in any higher grade or pay grade.
+(a) For the purposes of promotion, persons originally appointed in regular or reserve warrant officer grades shall be credited with such service as the Secretary concerned may prescribe. However, such a person may not be credited with a period of service greater than the period of active service performed in the grade, or pay grade corresponding to the grade, in whichso appointed, or in any higher grade or pay grade.
 
 (b) The Secretary concerned shall credit a person who is receiving an original appointment as a warrant officer in the regular component of an armed force under the jurisdiction of such Secretary concerned, and who has advanced education or training or special experience, with constructive service for such education, training, or experience, as follows:
 

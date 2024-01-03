@@ -32,7 +32,7 @@ Rule of Construction.—Nothing in this section shall be construed to provide an
 
 (f)
 
-Collective Self-defense Notification Requirement.—Not later than 48 hours after the date on which a foreign partner force has beendesignated as eligible for the provision of collective self-defense by the armed forces for the purposes of subsection (d)(1)(B), the Secretary of Defense shall provide to the congressional defense committees notice in writing of such designation.
+Collective Self-defense Notification Requirement.—Not later than 48 hours after the date on which a foreign partner force has been designated as eligible for the provision of collective self-defense by the armed forces for the purposes of subsection (d)(1)(B), the Secretary of Defense shall provide to the congressional defense committees notice in writing of such designation.
 
 (Added Pub. L. 113–66, div. A, title X, §1041(a)(1), Dec. 26, 2013, 127 Stat. 856; amended Pub. L. 114–92, div. A, title X, §1043, Nov. 25, 2015, 129 Stat. 977; Pub. L. 114–328, div. A, title X, §1036(a)–(f)(1), Dec. 23, 2016, 130 Stat. 2391, 2392; Pub. L. 115–91, div. A, title X, §1081(a)(6), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 115–232, div. A, title X, §1031(a), (b), Aug. 13, 2018, 132 Stat. 1953; Pub. L. 117–81, div. A, title X, §1042, Dec. 27, 2021, 135 Stat. 1903.)
 

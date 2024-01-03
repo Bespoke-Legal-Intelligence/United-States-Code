@@ -30,7 +30,7 @@ The Secretary, acting through such employee of the Department of Health and Huma
 
 <b>2013</b>—Par. (1). Pub. L. 113–5, §101(b)(4), added par. (1). Former par. (1) redesignated (2).
 
-Par. (2). Pub. L. 113–5, §101(b)(3), (5), redesignated par. (1) as (2) and amended it generally. Prior to amendment, par. (2) read as follows: "oversee the implementation of the National Preparedness goal of taking into account the public health and medical needs of at-risk individuals in the event of a public health emergency, as described in section 300hh–1(b)(4) of this title;". Former par. (2) redesignated (3).
+Par. (2). Pub. L. 113–5, §101(b)(3), (5), redesignated par. (1) as (2) and amended it generally. Prior to amendment, par. (2) read as follows: "oversee the implementation of the National Preparedness goal of taking into account the public health and medical needs of at-riskindividuals in the event of a public health emergency, as described in section 300hh–1(b)(4) of this title;". Former par. (2) redesignated (3).
 
 Par. (3). Pub. L. 113–5, §101(b)(3), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 

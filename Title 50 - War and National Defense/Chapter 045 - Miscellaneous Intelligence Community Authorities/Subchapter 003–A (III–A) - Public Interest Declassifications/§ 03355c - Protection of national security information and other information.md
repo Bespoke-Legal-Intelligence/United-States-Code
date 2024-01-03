@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Nothing in this subchapter shall be construed to limit the authority of the head of an agencyto classify information or to continue the classification of information previously classified by that agency.
+Nothing in this subchapter shall be construed to limit the authority of the head of an agency to classify information or to continue the classification of information previously classified by that agency.
 
 #### (b) Special access programs
 

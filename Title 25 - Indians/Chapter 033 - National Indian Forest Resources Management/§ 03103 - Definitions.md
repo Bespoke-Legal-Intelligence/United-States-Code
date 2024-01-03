@@ -12,7 +12,7 @@ For the purposes of this chapter, the term—
 
 &emsp;&emsp;(C) is not developed or planned for exclusive nonforest use;
 
-&emsp;(3) "Indian forest land" means Indian lands, including commercial and non-commercial timberland and woodland, that are considered chiefly valuable for the production of forest products or to maintain watershed or other land values enhanced by a forest cover, regardless whether a formal inspection and land classification action has been taken;
+&emsp;(3) "Indian forest land" means Indian lands, including commercial and non-commercialtimberland and woodland, that are considered chiefly valuable for the production of forest products or to maintain watershed or other land values enhanced by a forest cover, regardless whether a formal inspection and land classification action has been taken;
 
 &emsp;(4) "forest land management activities" means all activities performed in the management of Indian forest lands, including—
 

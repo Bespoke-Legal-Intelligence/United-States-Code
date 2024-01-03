@@ -42,7 +42,7 @@ The report required by subsection (b) shall address the following:
 
 &emsp;&emsp;(B) the need for protection against cyber threats and electromagnetic pulses; and
 
-&emsp;&emsp;(C) resilience to extreme natural events, including earthquakes, volcanic activity, tornados, hurricanes, floods, tsunamis,lahars, landslides, seiches, a large quantity of snowfall, and very low or high temperatures.
+&emsp;&emsp;(C) resilience to extreme natural events, including earthquakes, volcanic activity, tornados, hurricanes, floods, tsunamis, lahars, landslides, seiches, a large quantity of snowfall, and very low or high temperatures.
 
 &emsp;(2) A strategy of the Department for using nuclear energy to meet resilience and carbon reduction goals of facilities of the Department.
 

@@ -76,5 +76,5 @@ Section 79z–6, acts Aug. 26, 1935, ch. 687, title I, §35, formerly §32, 49 S
 
 #### Effective Date of Repeal
 
-Repeal effective 6 months after Aug. 8, 2005, with provisions relating to effect of compliance with certain regulations approved and made effective prior to such date, see section 1274 of Pub. L. 109–58, set out as an Effective Date note under section 16451 of Title 42, The Public Health and Welfare.
+Repeal effective 6 months after Aug. 8, 2005, with provisions relating to effect of compliance with certainregulations approved and made effective prior to such date, see section 1274 of Pub. L. 109–58, set out as an Effective Date note under section 16451 of Title 42, The Public Health and Welfare.
 

@@ -8,5 +8,5 @@ The Secretary of the Interior and the Secretary of Agriculture are authorized an
 
 #### Termination of Advisory Boards
 
-Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the FederalGovernment, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
+Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

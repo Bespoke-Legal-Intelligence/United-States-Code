@@ -44,7 +44,7 @@ The duties of the interagency Import Safety Working Group shall include—
 
 &emsp;&emsp;(B) recommending additional administrative actions, as appropriate, designed to ensure the safety of merchandise imported into the United States and the expeditious entry of such merchandise and considering the impact of those actions on private sector entities;
 
-&emsp;(3) reviewing the engagement and cooperation of foreign governments and foreign manufacturers in facilitating the inspection and certification, as appropriate, of such merchandise to be imported into the United States and the facilities producing such merchandise to ensure the safety of the merchandise and the expeditious entry of the merchandise into the United States;
+&emsp;(3) reviewing the engagement and cooperation of foreign governments and foreign manufacturers in facilitating the inspection andcertification, as appropriate, of such merchandise to be imported into the United States and the facilities producing such merchandise to ensure the safety of the merchandise and the expeditious entry of the merchandise into the United States;
 
 &emsp;(4) identifying best practices, in consultation with private sector entities as appropriate, to assist United States importers in taking all appropriate steps to ensure the safety of merchandise imported into the United States, including with respect to—
 

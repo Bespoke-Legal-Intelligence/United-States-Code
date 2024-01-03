@@ -62,5 +62,5 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 #### Annual Reports
 
-Pub. L. 110–428, §2(e), Oct. 15, 2008, 122 Stat. 4840, provided that: "The Secretary of the Treasury shall annually submit to Congress and make publicly available a report on the filing of false and fraudulent returns byindividuals incarcerated in Federal and State prisons. Such report shall include statistics on the number of false and fraudulent returns associated with each Federal and State prison."
+Pub. L. 110–428, §2(e), Oct. 15, 2008, 122 Stat. 4840, provided that: "The Secretary of the Treasury shall annually submit to Congress and make publicly available a report on the filing of false and fraudulent returns by individuals incarcerated in Federal and State prisons. Such report shall include statistics on the number of false and fraudulent returns associated with each Federal and State prison."
 

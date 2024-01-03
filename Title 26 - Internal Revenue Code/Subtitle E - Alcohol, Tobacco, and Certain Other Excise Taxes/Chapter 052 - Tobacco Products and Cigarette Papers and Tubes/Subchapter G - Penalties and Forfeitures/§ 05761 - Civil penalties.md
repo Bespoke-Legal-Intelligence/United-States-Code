@@ -2,7 +2,7 @@
 
 #### (a) Omitting things required or doing things forbidden
 
-Whoever willfully omits, neglects, or refuses to comply with any duty imposed upon him bythis chapter, or to do, or cause to be done, any of the things required by this chapter, or does anything prohibited by this chapter, shall in addition to any other penalty provided in this title, be liable to a penalty of $1,000, to be recovered, with costs of suit, in a civil action, except where a penalty under subsection (b) or (c) or under section 6651 or 6653 or part II of subchapter A of chapter 68 may be collected from such person by assessment.
+Whoever willfully omits, neglects, or refuses to comply with any duty imposed upon him by this chapter, or to do, or cause to be done, any of the things required by this chapter, or does anything prohibited by this chapter, shall in addition to any other penalty provided in this title, be liable to a penalty of $1,000, to be recovered, with costs of suit, in a civil action, except where a penalty under subsection (b) or (c) or under section 6651 or 6653 or part II of subchapter A of chapter 68 may be collected from such person by assessment.
 
 #### (b) Failure to pay tax
 
@@ -98,7 +98,7 @@ Subsec. (d). Pub. L. 97–34, §§722(a)(3), 724(b)(5), added subsec. (d). Forme
 
 Subsec. (b). Pub. L. 85–859 substituted provisions relating to failure to pay tax for provisions which made persons willfully failing to pay a tax liable, in addition to any other penalty provided in this title, to a penalty of the amount of the tax evaded, or not paid.
 
-Subsec. (c). Pub. L. 85–859 substituted provisions relating to failure to make deposit of taxes for provisions which authorized a penalty of 5 percent of the tax due but unpaid where a person failed to pay tax at the time prescribed, and required the penalties to be added to the tax and assessed and collected at the same time, in the same manner, and as a part of the tax.
+Subsec. (c). Pub. L. 85–859 substituted provisions relating to failure to make deposit of taxes for provisionswhich authorized a penalty of 5 percent of the tax due but unpaid where a person failed to pay tax at the time prescribed, and required the penalties to be added to the tax and assessed and collected at the same time, in the same manner, and as a part of the tax.
 
 Subsec. (d). Pub. L. 85–859 added subsec. (d). Similar provisions were formerly contained in subsec. (c) of this section.
 

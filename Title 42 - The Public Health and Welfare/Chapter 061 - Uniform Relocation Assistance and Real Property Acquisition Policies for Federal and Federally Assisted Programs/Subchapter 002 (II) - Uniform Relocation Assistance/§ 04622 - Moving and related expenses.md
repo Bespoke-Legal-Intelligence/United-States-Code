@@ -18,7 +18,7 @@ Any displaced person eligible for payments under subsection (a) of this section 
 
 #### (c) Displacement from business or farm operation; election of payments; minimum and maximum amounts; eligibility
 
-Any displaced person eligible for payments under subsection (a) of this section who is displaced from the person's place of business or farm operation and who is eligible under criteria established by the head of the lead agency may elect to accept the payment authorized by this subsection in lieu of the payment authorized by subsection (a) of this section. Such payment shall consist of a fixed payment in an amount to be determined according to criteria established by the head of the lead agency, except that such payment shall not be less than $1,000 nor more than $40,000, as adjusted by regulation, in accordance with section 4633(d) of this title. A person whose sole business at the displacementdwelling is the rental of such property to others shall not qualify for a payment under this subsection.
+Any displaced person eligible for payments under subsection (a) of this section who is displaced from the person's place of business or farm operation and who is eligible under criteria established by the head of the lead agency may elect to accept the payment authorized by this subsection in lieu of the payment authorized by subsection (a) of this section. Such payment shall consist of a fixed payment in an amount to be determined according to criteria established by the head of the lead agency, except that such payment shall not be less than $1,000 nor more than $40,000, as adjusted by regulation, in accordance with section 4633(d) of this title. A person whose sole business at the displacement dwelling is the rental of such property to others shall not qualify for a payment under this subsection.
 
 #### (d) Certain utility relocation expenses
 
@@ -52,7 +52,7 @@ Any displaced person eligible for payments under subsection (a) of this section 
 
 &emsp;&emsp;(iv) any fixtures, equipment, or other property associated with the operation, maintenance, or repair of any such system;
 
-> &emsp;located on property which is owned by a State or local government or over which a State or local government has an easement or right-of-way. A utility facility may be publicly, privately, or cooperatively owned.
+> &emsp;located on property which is owned by a State or local government or over which a State orlocal government has an easement or right-of-way. A utility facility may be publicly, privately, or cooperatively owned.
 
 (Pub. L. 91–646, title II, §202, Jan. 2, 1971, 84 Stat. 1895; Pub. L. 100–17, title IV, §405, Apr. 2, 1987, 101 Stat. 249; Pub. L. 112–141, div. A, title I, §1521(a), July 6, 2012, 126 Stat. 577.)
 

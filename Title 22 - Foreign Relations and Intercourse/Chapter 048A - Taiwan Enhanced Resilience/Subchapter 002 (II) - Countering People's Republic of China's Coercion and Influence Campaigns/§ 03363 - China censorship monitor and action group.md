@@ -104,7 +104,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 90 days after December 23, 2022, the Secretary of State shall select and seek to enter into an agreement with a qualified research entity that is independent of the Department of State to write a report on censorship and intimidation in the United States and its possessions and territories of United States persons, including United States companies that conduct business in the People's Republic of China, which is directed or directly supported by the Government of the People's Republic of China.
+&emsp;&emsp;Not later than 90 days after December 23, 2022, the Secretary of State shall select andseek to enter into an agreement with a qualified research entity that is independent of the Department of State to write a report on censorship and intimidation in the United States and its possessions and territories of United States persons, including United States companies that conduct business in the People's Republic of China, which is directed or directly supported by the Government of the People's Republic of China.
 
 #### (B) Matters to be included
 
@@ -142,7 +142,7 @@ In this section:
 
 #### (B) Publication
 
-&emsp;&emsp;The report referred to in subparagraph (A) shall be made accessible to the public onlinethrough relevant United States Government websites.
+&emsp;&emsp;The report referred to in subparagraph (A) shall be made accessible to the public online through relevant United States Government websites.
 
 #### (d) Sunset
 

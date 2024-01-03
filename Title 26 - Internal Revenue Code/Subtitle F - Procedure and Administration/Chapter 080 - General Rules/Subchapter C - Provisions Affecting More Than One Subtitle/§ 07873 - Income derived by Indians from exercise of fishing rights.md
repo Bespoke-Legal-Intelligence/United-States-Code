@@ -14,7 +14,7 @@
 
 #### (2) Employment taxes
 
-&emsp;No tax shall be imposed by subtitle C on remuneration paid for services performed in a fishing rights-related activity of an Indian tribe by a member of such tribe for another member of such tribe or for a qualified Indian entity.
+&emsp;No tax shall be imposed by subtitle C on remuneration paid for services performed in a fishing rights-related activity of an Indiantribe by a member of such tribe for another member of such tribe or for a qualified Indian entity.
 
 #### (b) Definitions
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Assistant Secretary shall carry out a program for making grants to States with State plans approved under section 3027 of this title, to pay for the Federal share of the cost of carrying out State programs, to enable area agencies on aging, or entities that such area agencies onaging contract with, to provide multifaceted systems of support services—
+The Assistant Secretary shall carry out a program for making grants to States with State plans approved under section 3027 of this title, to pay for the Federal share of the cost of carrying out State programs, to enable area agencies on aging, or entities that such area agencies on aging contract with, to provide multifaceted systems of support services—
 
 &emsp;(1) for family caregivers; and
 
@@ -66,7 +66,7 @@ Not later than 1 year after March 25, 2020, and every 5 years thereafter, the As
 
 #### (2) Data and records
 
-&emsp;The State shall collect data and maintain records relating to the State program in a standardized format specified by the Assistant Secretary. The State shall furnish the records to the Assistant Secretary, at such time as the Assistant Secretary may require, in order to enable the Assistant Secretary to monitor State program administration and compliance, and to evaluate and compare the effectiveness of the State programs.
+&emsp;The State shall collect data and maintain records relating to the State program in a standardized format specified by the Assistant Secretary. The State shall furnish the records to the Assistant Secretary, at such time as theAssistant Secretary may require, in order to enable the Assistant Secretary to monitor State program administration and compliance, and to evaluate and compare the effectiveness of the State programs.
 
 #### (3) Reports
 
@@ -80,7 +80,7 @@ Not later than 1 year after March 25, 2020, and every 5 years thereafter, the As
 
 &emsp;(B) In determining the amounts allotted to States from the sums appropriated under section 3023 of this title for a fiscal year, the Assistant Secretary shall first determine the amount allotted to each State under subparagraph (A) and then proportionately adjust such amounts, if necessary, to meet the requirements of paragraph (2).
 
-&emsp;(C) The number of individuals 70 years of age or older in any State and in all States shall bedetermined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census and other reliable demographic data satisfactory to the Assistant Secretary.
+&emsp;(C) The number of individuals 70 years of age or older in any State and in all States shall be determined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census and other reliable demographic data satisfactory to the Assistant Secretary.
 
 #### (2) Minimum allotment
 
@@ -134,7 +134,7 @@ Not later than 1 year after March 25, 2020, the Assistant Secretary, in consulta
 
 #### References in Text
 
-The RAISE Family Caregivers Act, referred to in subsec. (j), is Pub. L. 115–119, Jan. 22, 2018, 132 Stat. 23, also known as the Recognize, Assist, Include, Support, and Engage Family Caregivers Act of 2017, which is set out as a note under section 3030s of this title.
+The RAISE Family Caregivers Act, referred to in subsec. (j), is Pub. L. 115–119, Jan. 22, 2018, 132 Stat. 23, alsoknown as the Recognize, Assist, Include, Support, and Engage Family Caregivers Act of 2017, which is set out as a note under section 3030s of this title.
 
 #### Amendments
 
@@ -186,7 +186,7 @@ Pub. L. 116–131, title II, §218(b), Mar. 25, 2020, 134 Stat. 262, provided th
 
 "(1)
 
-Report.—Not later than 18 months after the date of enactment of this Act \[Mar. 25, 2020\], and annually thereafter, the Assistant Secretary \[for Aging\] shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor of the House of Representatives a report on the impact of the amendment made by subsection (a) \[amending this section\] to eliminate the limitation on funds that States may allocate to provide support services to older relative caregivers in the National Family Caregiver Support Program established under part E of title III of the Older Americans Act of 1965 (42 U.S.C. 3030s et seq.). Each such report shall also be made available to the public.
+Report.—Not later than 18 months after the date of enactment of this Act \[Mar. 25, 2020\], and annually thereafter, the Assistant Secretary \[for Aging\] shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives a report on the impact of the amendment made by subsection (a) \[amending this section\] to eliminate the limitation on funds that States may allocate to provide support services to older relative caregivers in the National Family Caregiver Support Program established under part E of title III of the Older Americans Act of 1965 (42 U.S.C. 3030s et seq.). Each such report shall also be made available to the public.
 
 "(2)
 

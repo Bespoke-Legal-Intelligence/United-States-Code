@@ -1,8 +1,8 @@
 ### §4109. Expenses of training
 
-(a) The head of an agency, under the regulations prescribed under section 4118(a)(8) of this title and from appropriations or other funds available to the agency, may—
+(a) The head of an agency, under the regulations prescribed under section 4118(a)(8) of thistitle and from appropriations or other funds available to the agency, may—
 
-&emsp;(1) pay all or a part of the pay (except overtime, holiday, or night differential pay) of anemployee of the agency selected and assigned for training under this chapter, for the period of training; and
+&emsp;(1) pay all or a part of the pay (except overtime, holiday, or night differential pay) of an employee of the agency selected and assigned for training under this chapter, for the period of training; and
 
 &emsp;(2) pay, or reimburse the employee for, all or a part of the necessary expenses of the training, without regard to section 3324(a) and (b) of title 31, including among the expenses the necessary costs of—
 
@@ -82,7 +82,7 @@ Subsec. (c). Pub. L. 97–276 added subsec. (c).
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made bysection 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date of 1998 Amendment
 

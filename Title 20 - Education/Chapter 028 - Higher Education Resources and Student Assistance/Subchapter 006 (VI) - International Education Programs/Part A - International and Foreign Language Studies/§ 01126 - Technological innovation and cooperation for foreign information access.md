@@ -54,7 +54,7 @@ Each institution of higher education, library, or partnership desiring a grant u
 
 #### (d) Match required
 
-The Federal share of the total cost of carrying out a program supported by a grant under thissection shall not be more than 662/3 percent. The non-Federal share of such cost may be provided either in-kind or in cash, and may include contributions from private sector corporations or foundations.
+The Federal share of the total cost of carrying out a program supported by a grant under this section shall not be more than 662/3 percent. The non-Federal share of such cost may be provided either in-kind or in cash, and may include contributions from private sector corporations or foundations.
 
 (Pub. L. 89–329, title VI, §606, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1781; amended Pub. L. 110–315, title VI, §606, Aug. 14, 2008, 122 Stat. 3337.)
 

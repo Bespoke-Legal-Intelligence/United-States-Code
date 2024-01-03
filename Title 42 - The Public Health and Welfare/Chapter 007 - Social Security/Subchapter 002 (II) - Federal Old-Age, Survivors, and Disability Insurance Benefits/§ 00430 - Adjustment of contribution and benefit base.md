@@ -16,7 +16,7 @@ The amount of such contribution and benefit base shall (subject to subsection (c
 
 #### (c) Amount of base for period prior to initial cost-of-living benefit increase
 
-For purposes of this section, and for purposes of determining wages and self-employment income under sections 409, 411, 413, and 415 of this title and sections 1402, 3121, 3122, 3125, 6413, and 6654 of the Internal Revenue Code of 1986, (1) the "contribution and benefit base" with respect to remuneration paid in (and taxable years beginning in) any calendar year after 1973 and prior to the calendar year with the June of which the first increase in benefits pursuant to section 415(i) of this title becomes effective shall be $13,200 or (if applicable) such other amount as may be specified in a law enacted subsequent to the law which added this section, and (2) the "contribution and benefit base" with respect to remuneration paid (and taxable years beginning)—
+For purposes of this section, and for purposes of determining wages and self-employment income under sections 409, 411, 413, and 415 of this title and sections 1402, 3121, 3122, 3125, 6413, and 6654 of the Internal Revenue Code of 1986, (1) the "contribution and benefit base" with respect to remuneration paid in (and taxable years beginning in) any calendar year after 1973 and prior to the calendar year with the June of which the first increase in benefits pursuant to section 415(i) of this title becomes effective shall be$13,200 or (if applicable) such other amount as may be specified in a law enacted subsequent to the law which added this section, and (2) the "contribution and benefit base" with respect to remuneration paid (and taxable years beginning)—
 
 &emsp;(A) in 1978 shall be $17,700,
 
@@ -68,7 +68,7 @@ Subsec. (b)(2)(B). Pub. L. 101–239, §10208(b)(1)(B), as amended by Pub. L. 10
 
 Subsec. (d). Pub. L. 101–239, §10208(b)(5), substituted "change (except that, for purposes of subsection (b)(2)(A) of this section as so in effect, the reference therein to the average of the wages of all employees as reported to the Secretary of the Treasury for any calendar year shall be deemed a reference to the deemed average total wage (within the meaning of section 409(k)(1) of this title) for such calendar year)" for "change".
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–369, in last sentence which was repealed by Pub. L. 98–76, substituted "3(a) or 3(f)(3)" for "3(a) or (3)(f)(3)" in the original, which had been translated as "section 231b(a) or (f)(3) of title 45".
+<b>1984</b>—Subsec. (c). Pub. L. 98–369, in last sentence which was repealed by Pub. L. 98–76, substituted "3(a) or 3(f)(3)" for "3(a) or (3)(f)(3)" in the original, whichhad been translated as "section 231b(a) or (f)(3) of title 45".
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–21 substituted "December" for "June".
 
@@ -92,7 +92,7 @@ Subsec. (c). Pub. L. 95–216, §103(b), designated existing provisions as intro
 
 Subsec. (d). Pub. L. 95–216, §103(c)(1), added subsec. (d).
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–202 substituted "wages of all employees as reported to the Secretary of the Treasury for the calendar year preceding the calendar year" for "taxable wages of all employees as reported to the Secretary for the first calendar quarter of the calendar year" and "made to" for "made to the latest of" in cl. (A) of par. (2), substituted "wages of all employees as reported to the Secretary of the Treasury for the calendar year 1973 or, if later, the calendar year preceding" for "taxable wages of all employees as reported to the Secretary for the first calendar quarter of 1973 or the first calendar quarter of" in cl. (B) of par. (2), andinserted, following par. (2), provision directing that the average wages for the calendar year 1978, or any prior calendar year, be deemed equal to 400% of the average wages reported for the first quarter of that calendar year.
+<b>1976</b>—Subsec. (b). Pub. L. 94–202 substituted "wages of all employees as reported to the Secretary of the Treasury for the calendar year preceding the calendar year" for "taxable wages of all employees as reported to the Secretary for the first calendar quarter of the calendar year" and "made to" for "made to the latest of" in cl. (A) of par. (2), substituted "wages of all employees as reported to the Secretary of the Treasury for the calendar year 1973 or, if later, the calendar year preceding" for "taxable wages of all employees as reported to the Secretary for the first calendar quarter of 1973 or the first calendar quarter of" in cl. (B) of par. (2), and inserted, following par. (2), provision directing that the average wages for the calendar year 1978, or any prior calendar year, be deemed equal to 400% of the average wages reported for the first quarter of that calendar year.
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–233, §3(j)(1), substituted "with the June" for "with the first month of the calendar year" and struck out "(along with the publication of such benefit increase as required by section 415(i)(2)(D) of this title)" after "such quarter occurs" and "(unless such increase in benefits is prevented from becoming effective by section 415(i)(2)(E) of this title)" after "shall be effective", respectively.
 
@@ -238,7 +238,7 @@ For purposes of subsec. (a) of this section, the increase in benefits provided b
 
 <b>1999</b>—By notice of the Commissioner of Social Security, Oct. 21, 1998, 63 F.R. 58446, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1999 is $72,600.
 
-<b>1998</b>—By notice of the Commissioner of Social Security, Oct. 22, 1997, 62 F.R. 58762, it was determined andannounced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1998 is $68,400.
+<b>1998</b>—By notice of the Commissioner of Social Security, Oct. 22, 1997, 62 F.R. 58762, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1998 is $68,400.
 
 <b>1997</b>—By notice of the Commissioner of Social Security, Oct. 18, 1996, 61 F.R. 55346, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1997 is $65,400.
 

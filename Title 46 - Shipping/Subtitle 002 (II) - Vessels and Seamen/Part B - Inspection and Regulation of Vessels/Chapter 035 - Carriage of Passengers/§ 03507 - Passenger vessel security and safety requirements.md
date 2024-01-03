@@ -44,7 +44,7 @@ Placement of video surveillance equipment.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Not later than 18 months after the date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, the Commandant in consultation with other relevant Federal agencies or entities as determined by the Commandant, shall establish guidance for performance of the risk assessment described in paragraph (2) regarding the appropriate placement of video surveillance equipment in passenger and crew common areas where there is no reasonable expectation of privacy.
+In general.—Not later than 18 months after the date of the enactment ofthe Elijah E. Cummings Coast Guard Authorization Act of 2020, the Commandant in consultation with other relevant Federal agencies or entities as determined by the Commandant, shall establish guidance for performance of the risk assessment described in paragraph (2) regarding the appropriate placement of video surveillance equipment in passenger and crew common areas where there is no reasonable expectation of privacy.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -56,7 +56,7 @@ Risk assessment.—Not later than 1 year after the Commandant establishes the gu
 
 &emsp;&emsp;&emsp;&emsp;(III) arrange for the risk assessment to be conducted by an independent third party with expertise in the use and placement of camera surveillance to deter, prevent and record criminal behavior; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) the independent third party referred to in paragraph (C) shall be a company that has been accepted by a classification society that is a member of theInternational Association of Classification Societies (hereinafter referred to as "IACS") or another classification society recognized by the Secretary as meeting acceptable standards for such a society pursuant to section 3316(b).
+&emsp;&emsp;&emsp;&emsp;(IV) the independent third party referred to in paragraph (C) shall be a company that has been accepted by a classification society that is a member of the International Association of Classification Societies (hereinafter referred to as "IACS") or another classification society recognized by the Secretary as meeting acceptable standards for such a society pursuant to section 3316(b).
 
 &emsp;&emsp;(C)
 
@@ -112,7 +112,7 @@ Civil actions.—Except as proscribed by law enforcement authorities or court or
 
 &emsp;&emsp;(C)
 
-Limited access.—The owner of a vessel to which this section applies shall ensure that access to records of video surveillance is limited to the purposes described in this paragraph.
+Limited access.—The owner of a vessel to which this section applies shall ensurethat access to records of video surveillance is limited to the purposes described in this paragraph.
 
 &emsp;(4)
 
@@ -212,7 +212,7 @@ Log Book and Reporting Requirements.—
 
 In general.—The owner of a vessel to which this section applies shall—
 
-&emsp;&emsp;(A) record in a log book, either electronically or otherwise, in a centralized locationreadily accessible to law enforcement personnel, a report on—
+&emsp;&emsp;(A) record in a log book, either electronically or otherwise, in a centralized location readily accessible to law enforcement personnel, a report on—
 
 &emsp;&emsp;&emsp;(i) all complaints of crimes described in paragraph (3)(A)(i),
 
@@ -418,7 +418,7 @@ Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8440(c)(2), Jan. 1, 2021,
 
 "(A)
 
-Study and report.—Each owner of a vessel to which section 3507 of title 46, United States Code, applies shall, not later than March 1, 2023, submit to theCommittee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report detailing the total number of voyages for the preceding year and the percentage of those voyages that were 30 days or longer.
+Study and report.—Each owner of a vessel to which section 3507 of title 46, United States Code, applies shall, not later than March 1, 2023, submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report detailing the total number of voyages for the preceding year and the percentage of those voyages that were 30 days or longer.
 
 "(B)
 

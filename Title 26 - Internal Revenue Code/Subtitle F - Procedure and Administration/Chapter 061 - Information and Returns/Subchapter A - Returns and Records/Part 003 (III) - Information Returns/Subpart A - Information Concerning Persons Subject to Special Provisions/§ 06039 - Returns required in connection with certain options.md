@@ -12,7 +12,7 @@ Every corporation—
 
 #### (b) Statements to be furnished to persons with respect to whom information is reported
 
-Every corporation making a return under subsection (a) shall furnish to each person whose name is set forth in such return a written statement setting forth such information as the Secretary may by regulations prescribe. The written statement required under the preceding sentence shall be furnished to such person on or before January 31 of the year following the calendar year for which the return under subsection (a) was made.
+Every corporation making a return under subsection (a) shall furnish to each person whosename is set forth in such return a written statement setting forth such information as the Secretary may by regulations prescribe. The written statement required under the preceding sentence shall be furnished to such person on or before January 31 of the year following the calendar year for which the return under subsection (a) was made.
 
 #### (c) Special rules
 
@@ -96,7 +96,7 @@ Pub. L. 109–432, div. A, title IV, §403(d), Dec. 20, 2006, 120 Stat. 2955, pr
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable with respect to options granted on or after Jan. 1, 1976, and exercised on or after Jan. 1, 1981, or outstanding on Jan. 1, 1981, or granted on or after Jan. 1, 1976, and outstanding Aug. 13, 1981, see section 251(c) of Pub. L. 97–34, set out as an Effective Date note under section 422 of this title.
+Amendment by Pub. L. 97–34 applicable with respect to options granted on or after Jan. 1, 1976, and exercisedon or after Jan. 1, 1981, or outstanding on Jan. 1, 1981, or granted on or after Jan. 1, 1976, and outstanding Aug. 13, 1981, see section 251(c) of Pub. L. 97–34, set out as an Effective Date note under section 422 of this title.
 
 #### Effective Date of 1979 Amendment
 

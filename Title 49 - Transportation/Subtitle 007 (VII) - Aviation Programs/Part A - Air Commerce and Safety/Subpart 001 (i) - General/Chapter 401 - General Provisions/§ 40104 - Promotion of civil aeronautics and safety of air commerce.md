@@ -10,7 +10,7 @@ International Role of the FAA.—
 
 &emsp;(1)
 
-In general.—The Administrator shall promote and achieve global improvements in the safety, efficiency, and environmental effect of air travel by exercising leadership with the Administrator's foreign counterparts, in the International Civil Aviation Organization and its subsidiary organizations, and other international organizations and fora, and with the private sector.
+In general.—The Administrator shall promote and achieve global improvements inthe safety, efficiency, and environmental effect of air travel by exercising leadership with the Administrator's foreign counterparts, in the International Civil Aviation Organization and its subsidiary organizations, and other international organizations and fora, and with the private sector.
 
 &emsp;(2)
 

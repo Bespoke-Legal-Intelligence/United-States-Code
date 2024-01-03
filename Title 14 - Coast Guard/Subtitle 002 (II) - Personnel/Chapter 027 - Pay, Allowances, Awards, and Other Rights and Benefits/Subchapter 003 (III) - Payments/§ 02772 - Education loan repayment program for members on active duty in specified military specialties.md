@@ -58,7 +58,7 @@ Failure to Complete Period of Service.—Except an individual described in subse
 
 (h)
 
-Authority to Issue Regulations.—The Secretary may prescribe procedures for implementing this section, including standards for qualified loans and authorized payees and other terms and conditions for making loan repayments. Such regulations may include exceptions that would allow for the payment as a lump sum of any loan repayment due to a member under a written agreement that existed at the time of a member's death or disability.
+Authority to Issue Regulations.—The Secretary may prescribe procedures for implementing this section, including standards for qualified loans and authorized payees and otherterms and conditions for making loan repayments. Such regulations may include exceptions that would allow for the payment as a lump sum of any loan repayment due to a member under a written agreement that existed at the time of a member's death or disability.
 
 (Added Pub. L. 108–293, title II, §218(a), Aug. 9, 2004, 118 Stat. 1038, §472; renumbered §2772, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(41), Jan. 1, 2021, 134 Stat. 4750; Pub. L. 117–263, div. K, title CXII, §11239(a), Dec. 23, 2022, 136 Stat. 4037.)
 
@@ -66,7 +66,7 @@ Authority to Issue Regulations.—The Secretary may prescribe procedures for imp
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (a)(1)(A) to (C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act areclassified generally to parts B (§1071 et seq.), D (§1087a et seq.), and E (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1)(A) to (C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified generally to parts B (§1071 et seq.), D (§1087a et seq.), and E (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 

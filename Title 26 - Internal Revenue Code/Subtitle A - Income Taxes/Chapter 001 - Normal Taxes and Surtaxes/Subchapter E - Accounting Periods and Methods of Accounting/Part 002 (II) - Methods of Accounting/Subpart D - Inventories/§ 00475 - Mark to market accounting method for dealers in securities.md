@@ -76,7 +76,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) is a hedge with respect to such a security, and
 
-&emsp;&emsp;&emsp;(iii) is clearly identified in the dealer's records as being described in this subparagraph before the close of the day on which it was acquired or entered into (or such other time as the Secretary may by regulations prescribe).
+&emsp;&emsp;&emsp;(iii) is clearly identified in the dealer's records as being described in this subparagraph before the close of the day on whichit was acquired or entered into (or such other time as the Secretary may by regulations prescribe).
 
 > &emsp;Subparagraph (E) shall not include any contract to which section 1256(a) applies.
 
@@ -198,7 +198,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) which is clearly identified in such person's records as being described in clause (i) before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe).
 
-> &emsp;&emsp;If a security ceases to be described in clause (i) at any time after it was identified as suchunder clause (ii), subparagraph (A) shall apply to any changes in value of the security occurring after the cessation.
+> &emsp;&emsp;If a security ceases to be described in clause (i) at any time after it was identified as such under clause (ii), subparagraph (A) shall apply to any changes in value of the security occurring after the cessation.
 
 #### (C) Coordination with section 1259
 

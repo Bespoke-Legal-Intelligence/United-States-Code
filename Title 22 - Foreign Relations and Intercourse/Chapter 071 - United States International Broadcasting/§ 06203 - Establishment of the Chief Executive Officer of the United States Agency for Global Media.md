@@ -38,7 +38,7 @@ December 23, 2016, and such date, referred to in subsec. (c), were in the origin
 
 #### Codification
 
-Pub. L. 116–283, div. A, title XII, §1299Q(e)(1), Jan. 1, 2021, 134 Stat. 4024, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, §1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
+Pub. L. 116–283, div. A, title XII, §1299Q(e)(1), Jan. 1, 2021, 134 Stat. 4024, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, §1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment byPub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
 
 #### Amendments
 
@@ -64,7 +64,7 @@ Subsec. (g). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §504\], added s
 
 Subsec. (b). Pub. L. 105–277, §1323(b), substituted "Secretary of State" for "Director of the United States Information Agency" wherever appearing.
 
-Subsec. (c). Pub. L. 105–277, §1323(b), (c), in first sentence, substituted "Secretary of State" for "Directorof the United States Information Agency", and in last sentence, substituted "no Secretary of State" for "no Director of the United States Information Agency" and "Acting Secretary of State" for "acting Director of the agency".
+Subsec. (c). Pub. L. 105–277, §1323(b), (c), in first sentence, substituted "Secretary of State" for "Director of the United States Information Agency", and in last sentence, substituted "no Secretary of State" for "no Director of the United States Information Agency" and "Acting Secretary of State" for "acting Director of the agency".
 
 Subsec. (e). Pub. L. 105–277, §1323(b), substituted "Secretary of State" for "Director of the United States Information Agency".
 

@@ -2,7 +2,7 @@
 
 #### (a) Right of recovery
 
-Except as provided in subsection (f), the United States, an Indian tribe, or tribal organization shall have the right to recover from an insurance company, health maintenance organization, employee benefit plan, third-party tortfeasor, or any other responsible or liable third party (including a political subdivision or local governmental entity of a State) the reasonable charges billed by the Secretary, an Indian tribe, or tribal organization in providing health services through the Service, an Indian tribe, or tribal organization, or, if higher, the highest amount the third party would pay for care and services furnished by providers other than governmental entities, to any individual to the same extent that such individual, or any nongovernmental provider of such services, would be eligible to receive damages, reimbursement, or indemnification for such charges or expenses if—
+Except as provided in subsection (f), the United States, an Indian tribe, or tribal organization shall have the right to recover from an insurance company, health maintenance organization, employee benefit plan, third-party tortfeasor, or any other responsible or liable third party (including a political subdivision or local governmental entity of a State) the reasonable charges billed by the Secretary, an Indian tribe, or tribal organization in providing health services through the Service, an Indian tribe, or tribal organization, or, if higher, the highest amount the third party would pay for care and services furnished by providers other than governmental entities, to any individual tothe same extent that such individual, or any nongovernmental provider of such services, would be eligible to receive damages, reimbursement, or indemnification for such charges or expenses if—
 
 &emsp;(1) such services had been provided by a nongovernmental provider; and
 
@@ -46,7 +46,7 @@ No action taken by the United States, an Indian tribe, or tribal organization to
 
 #### (A) In general
 
-&emsp;&emsp;In any case in which an Indian tribe or tribal organization that is authorized or required under a compact or contract issued pursuant to the Indian Self-Determinationand Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> to furnish or pay for health services to a person who is injured or suffers a disease on or after March 23, 2010, under circumstances that establish grounds for a claim of liability against the tortfeasor with respect to the injury or disease, the Indian tribe or tribal organization shall have a right to recover from the tortfeasor (or an insurer of the tortfeasor) the reasonable value of the health services so furnished, paid for, or to be paid for, in accordance with the Federal Medical Care Recovery Act (42 U.S.C. 2651 et seq.), to the same extent and under the same circumstances as the United States may recover under that Act.
+&emsp;&emsp;In any case in which an Indian tribe or tribal organization that is authorized or required under a compact or contract issued pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> to furnish or pay for health services to a person who is injured or suffers a disease on or after March 23, 2010, under circumstances that establish grounds for a claim of liability against the tortfeasor with respect to the injury or disease, the Indian tribe or tribal organization shall have a right to recover from the tortfeasor (or an insurer of the tortfeasor) the reasonable value of the health services so furnished, paid for, or to be paid for, in accordance with the Federal Medical Care Recovery Act (42 U.S.C. 2651 et seq.), to the same extent and under the same circumstances as the United States may recover under that Act.
 
 #### (B) Treatment
 
@@ -66,7 +66,7 @@ An insurance company, health maintenance organization, self-insurance plan, mana
 
 #### (i) Application to urban Indian organizations
 
-The previous provisions of this section shall apply to urban Indian organizations with respect to populations served by such Organizations <sup>1</sup> in the same manner they apply to Indian tribes and tribal organizations with respect to populations served by such Indian tribes and tribal organizations.
+The previous provisions of this section shall apply to urban Indian organizations with respect to populations served by such Organizations <sup>1</sup> in the same manner they apply to Indian tribes and tribal organizations with respect to populationsserved by such Indian tribes and tribal organizations.
 
 #### (j) Statute of limitations
 

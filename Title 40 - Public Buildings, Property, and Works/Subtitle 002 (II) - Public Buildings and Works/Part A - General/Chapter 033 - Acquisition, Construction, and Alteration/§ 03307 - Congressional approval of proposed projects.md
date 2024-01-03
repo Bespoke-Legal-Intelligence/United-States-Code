@@ -36,7 +36,7 @@ Increase of Estimated Maximum Cost.—The estimated maximum cost of any project 
 
 (d)
 
-Rescission of Approval.—If an appropriation is not made within one year after the date a project for construction, alteration, or acquisition is approved under subsection (a), the Committee on Environment and Public Works of the Senate or the Committee on Transportation andInfrastructure of the House of Representatives by resolution may rescind its approval before an appropriation is made.
+Rescission of Approval.—If an appropriation is not made within one year after the date a project for construction, alteration, or acquisition is approved under subsection (a), the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives by resolution may rescind its approval before an appropriation is made.
 
 (e)
 

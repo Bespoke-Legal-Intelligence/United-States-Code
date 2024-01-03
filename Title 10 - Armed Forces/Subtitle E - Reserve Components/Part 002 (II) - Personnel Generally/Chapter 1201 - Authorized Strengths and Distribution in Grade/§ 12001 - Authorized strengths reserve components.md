@@ -126,7 +126,7 @@ Pub. L. 108–375, div. A, title V, §515(b)–(d), Oct. 28, 2004, 118 Stat. 188
 
 Pub. L. 103–160, div. A, title V, §517(b), Nov. 30, 1993, 107 Stat. 1651, provided that:
 
-"(1) The Secretary of the Army shall include in the annual report of the Secretary to Congress known as the Army Posture Statement a presentation relating to the implementation of the Pilot Program for Active Component Support of the Reserves under section 414 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; \[former\] 10U.S.C. 261 note \[now set out below\]), as amended by subsection (a).
+"(1) The Secretary of the Army shall include in the annual report of the Secretary to Congress known as the Army Posture Statement a presentation relating to the implementation of the Pilot Program for Active Component Support of the Reserves under section 414 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; \[former\] 10 U.S.C. 261 note \[now set out below\]), as amended by subsection (a).
 
 "(2) Each such presentation shall include, with respect to the period covered by the report, the following information:
 
@@ -134,7 +134,7 @@ Pub. L. 103–160, div. A, title V, §517(b), Nov. 30, 1993, 107 Stat. 1651, pro
 
 &emsp;"(B) The promotion rate for officers considered for promotion from below the promotion zone who are serving as active component advisers to units of the Selected Reserve of the Ready Reserve (in accordance with that program) compared in the same manner as specified in subparagraph (A)."
 
-Pub. L. 102–190, div. A, title IV, §414(a)–(d), Dec. 5, 1991, 105 Stat. 1352, 1353, as amended by Pub. L. 102–484, div. A, title V, §511(b), title XI, §1132, Oct. 23, 1992, 106 Stat. 2405, 2541; Pub. L. 103–160, div. A, title V, §517(a), Nov. 30, 1993, 107 Stat. 1650; Pub. L. 103–337, div. A, title IV, §413, Oct. 5, 1994, 108 Stat. 2747; Pub. L. 104–106, div. A, title IV, §413, Feb. 10, 1996, 110 Stat. 288; Pub. L. 104–201, div. A, title V, §545(b), Sept. 23, 1996, 110 Stat. 2524; Pub. L. 106–65, div. A, title X, §1066(d)(2), Oct. 5, 1999, 113 Stat. 773; Pub. L. 108–375, div. A, title V, §515(a), Oct. 28, 2004, 118 Stat. 1883, provided that:
+Pub. L. 102–190, div. A, title IV, §414(a)–(d), Dec. 5, 1991, 105 Stat. 1352, 1353, as amended by Pub. L. 102–484, div. A, title V, §511(b), title XI, §1132, Oct. 23, 1992, 106 Stat. 2405, 2541; Pub. L. 103–160, div. A, title V, §517(a), Nov. 30, 1993, 107 Stat. 1650; Pub. L. 103–337, div. A, title IV, §413, Oct. 5, 1994, 108 Stat. 2747; Pub. L. 104–106, div.A, title IV, §413, Feb. 10, 1996, 110 Stat. 288; Pub. L. 104–201, div. A, title V, §545(b), Sept. 23, 1996, 110 Stat. 2524; Pub. L. 106–65, div. A, title X, §1066(d)(2), Oct. 5, 1999, 113 Stat. 773; Pub. L. 108–375, div. A, title V, §515(a), Oct. 28, 2004, 118 Stat. 1883, provided that:
 
 "(a)
 

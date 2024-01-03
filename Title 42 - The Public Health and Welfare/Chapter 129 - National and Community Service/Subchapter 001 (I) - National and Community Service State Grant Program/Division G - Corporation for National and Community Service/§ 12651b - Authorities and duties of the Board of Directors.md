@@ -60,7 +60,7 @@ The Board shall have responsibility for setting overall policy for the Corporati
 
 &emsp;(5)(A) review, and advise the Chief Executive Officer regarding, the actions of the Chief Executive Officer with respect to the personnel of the Corporation, and with respect to such standards, policies, procedures, programs, and initiatives as are necessary or appropriate to carry out the national service laws;
 
-&emsp;(B) inform the Chief Executive Officer of any aspects of the actions of the Chief Executive Officer that are not in compliance with the annual strategic plan referred to in paragraph\(1), the proposals referred to in paragraphs (2) and (3), or the plan referred to in paragraph (4), or are not consistent with the objectives of the national service laws; and
+&emsp;(B) inform the Chief Executive Officer of any aspects of the actions of the Chief Executive Officer that are not in compliance with the annual strategic plan referred to in paragraph (1), the proposals referred to in paragraphs (2) and (3), or the plan referred to in paragraph (4), or are not consistent with the objectives of the national service laws; and
 
 &emsp;(C) review the performance of the Chief Executive Officer annually and forward a report on that review to the President;
 

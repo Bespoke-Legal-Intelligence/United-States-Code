@@ -40,7 +40,7 @@ Waiver.—(1)(A) If the Secretary of Defense determines under paragraph (2) that
 
 List of Firms Subject to Prohibition.—(1) The Secretary of Defense shall develop and maintain a list of all firms and subsidiaries of firms that the Secretary has identified as being subject to the prohibition in subsection (b).
 
-(2)(A) A person may request the Secretary to include on the list maintained under paragraph (1) any firm or subsidiary of a firm that the person believes to be owned or controlled by a foreign government described in subsection (b)(2). Upon receipt of such a request, the Secretary shall determine whether the conditions in paragraphs (1) and (2) of subsection (b) exist in the case of that firm or subsidiary. If the Secretary determines that such conditions do exist, the Secretary shall include the firm or subsidiary on the list.
+(2)(A) A person may request the Secretary to include on the list maintained under paragraph (1) any firm or subsidiary of a firm that the person believes to be owned or controlled by a foreign government described in subsection (b)(2).Upon receipt of such a request, the Secretary shall determine whether the conditions in paragraphs (1) and (2) of subsection (b) exist in the case of that firm or subsidiary. If the Secretary determines that such conditions do exist, the Secretary shall include the firm or subsidiary on the list.
 
 (B) A firm or subsidiary of a firm included on the list may request the Secretary to remove such firm or subsidiary from the list on the basis that it has been erroneously included on the list or its ownership circumstances have significantly changed. Upon receipt of such a request, the Secretary shall determine whether the conditions in paragraphs (1) and (2) of subsection (b) exist in the case of that firm or subsidiary. If the Secretary determines that such conditions do not exist, the Secretary shall remove the firm or subsidiary from the list.
 
@@ -102,11 +102,11 @@ Subsec. (d)(1). Pub. L. 100–180 inserted par. (1) designation.
 
 Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementationand applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 
-Pub. L. 99–500, §101(c) \[title X, §951(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–165, Pub. L. 99–591, §101(c) \[title X, §951(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–165, and Pub. L. 99–661, div. A, title IX, formerly title IV, §951(c), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "Section 2327 of title 10, United States Code \[now 10 U.S.C. 4871\] (as added by subsection (a)(1)), shall apply to contracts entered into by the Secretary of Defense after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
+Pub. L. 99–500, §101(c) \[title X, §951(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–165, Pub. L. 99–591, §101(c) \[title X, §951(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–165, and Pub. L. 99–661, div. A, title IX, formerly title IV, §951(c), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, providedthat: "Section 2327 of title 10, United States Code \[now 10 U.S.C. 4871\] (as added by subsection (a)(1)), shall apply to contracts entered into by the Secretary of Defense after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
 
 #### Transfer of Functions
 
@@ -114,7 +114,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Prohibition on Operation or Procurement of Foreign-Made Unmanned Aircraft Systems
 
-Pub. L. 116–92, div. A, title VIII, §848, Dec. 20, 2019, 133 Stat. 1508; Pub. L. 117–263, div. A, title VIII, §817(a), Dec. 23, 2022, 136 Stat. 2707, provided that:
+Pub. L. 116–92, div. A, title VIII, §848, Dec. 20, 2019, 133 Stat. 1508, as amended by Pub. L. 117–263, div. A, title VIII, §817(a), Dec. 23, 2022, 136 Stat. 2707, provided that:
 
 "(a)
 

@@ -28,7 +28,7 @@ Each United States person who—
 
 #### (2) Special rule
 
-&emsp;If by reason of an adjustment under section 482 or otherwise, a contribution described in subsection (a)(1) is deemed to have been made, such contribution shall be treated for purposes of this section as having been made not earlier than the date specified by the Secretary.
+&emsp;If by reason of an adjustment under section 482 or otherwise, a contribution described insubsection (a)(1) is deemed to have been made, such contribution shall be treated for purposes of this section as having been made not earlier than the date specified by the Secretary.
 
 #### (c) Penalty for failure to furnish information
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provisions of the
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

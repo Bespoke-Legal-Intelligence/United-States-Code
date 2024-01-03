@@ -50,7 +50,7 @@ The Administrator shall establish within 9 months after November 15, 1990, a sma
 
 (2) Upon petition by a source, the State may, after notice and opportunity for public comment, include as a small business stationary source for purposes of this section any stationary source which does not meet the criteria of subparagraphs <sup>2</sup> (C), (D), or (E) of paragraph (1) but which does not emit more than 100 tons per year of all regulated pollutants.
 
-(3)(A) The Administrator, in consultation with the Administrator of the Small Business Administration and after providing notice and opportunity for public comment, may exclude from the small business stationary source definition under this section any category or subcategoryof sources that the Administrator determines to have sufficient technical and financial capabilities to meet the requirements of this chapter without the application of this subsection.
+(3)(A) The Administrator, in consultation with the Administrator of the Small Business Administration and after providing notice and opportunity for public comment, may exclude from the small business stationary source definition under this section any category or subcategory of sources that the Administrator determines to have sufficient technical and financial capabilities to meet the requirements of this chapter without the application of this subsection.
 
 (B) The State, in consultation with the Administrator and the Administrator of the Small Business Administration and after providing notice and opportunity for public hearing, may exclude from the small business stationary source definition under this section any category or subcategory of sources that the State determines to have sufficient technical and financial capabilities to meet the requirements of this chapter without the application of this subsection.
 
@@ -110,7 +110,7 @@ The Small Business Act, referred to in subsec. (c)(1)(B), is Pub. L. 85–536, �
 
 The Paperwork Reduction Act, referred to in subsecs. (d)(2) and (e)(1)(B), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
-The Regulatory Flexibility Act, referred to in subsecs. (d)(2) and (e)(1)(B), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
+The Regulatory Flexibility Act, referred to in subsecs. (d)(2) and (e)(1)(B), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§601 et seq.) of Title 5, Government Organization andEmployees. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
 
 The Equal Access to Justice Act, referred to in subsecs. (d)(2) and (e)(1)(B), is title II of Pub. L. 96–481, Oct. 21, 1980, 94 Stat. 2325. For complete classification of this Act to the Code, see Short Title note set out under section 504 of Title 5.
 

@@ -24,7 +24,7 @@
 
 &emsp;(iii) provide services or benefits that indirectly support veterans.
 
-(3) The provisions of sections 3141–3144, 3146, and 3147 of title 40 shall not, by reason of thissection, become inapplicable to property that is leased to another party under an enhanced-use lease.
+(3) The provisions of sections 3141–3144, 3146, and 3147 of title 40 shall not, by reason of this section, become inapplicable to property that is leased to another party under an enhanced-use lease.
 
 (4) A property that is leased to another party under an enhanced-use lease may not be considered to be unutilized or underutilized for purposes of section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411).
 
@@ -98,7 +98,7 @@ Subsec. (b)(1). Pub. L. 112–154, §211(c)(1)(A), substituted "If the Secretary
 
 "(A) If the Secretary has determined that a property should be leased to another party through an enhanced-use lease, the Secretary shall select the party with whom the lease will be entered into using selection procedures determined by the Secretary that ensure the integrity of the selection process.
 
-"(B) In the case of a property that the Secretary determines is appropriate for use as a facility to furnish services to homeless veterans under chapter 20 of this title, the Secretary may enter into an enhanced-use lease with a provider of homeless services without regard to the selection procedures required under subparagraph (A)."
+"(B) In the case of a property that the Secretary determines is appropriate for use as a facility to furnishservices to homeless veterans under chapter 20 of this title, the Secretary may enter into an enhanced-use lease with a provider of homeless services without regard to the selection procedures required under subparagraph (A)."
 
 Subsec. (b)(3). Pub. L. 112–154, §211(c)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
 

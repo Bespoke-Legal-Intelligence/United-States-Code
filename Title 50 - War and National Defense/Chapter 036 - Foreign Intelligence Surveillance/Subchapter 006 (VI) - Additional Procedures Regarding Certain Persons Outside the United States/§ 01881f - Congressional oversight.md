@@ -24,7 +24,7 @@ Each report under subsection (a) shall include—
 
 &emsp;&emsp;(G) a description of any incidents of noncompliance—
 
-&emsp;&emsp;&emsp;(i) with a directive issued by the Attorney General and the Director of National Intelligence under section 1881a(i) of this title, including incidents of noncomplianceby a specified person to whom the Attorney General and Director of National Intelligence issued a directive under section 1881a(i) of this title; and
+&emsp;&emsp;&emsp;(i) with a directive issued by the Attorney General and the Director of National Intelligence under section 1881a(i) of this title, including incidents of noncompliance by a specified person to whom the Attorney General and Director of National Intelligence issued a directive under section 1881a(i) of this title; and
 
 &emsp;&emsp;&emsp;(ii) by an element of the intelligence community with procedures and guidelines adopted in accordance with subsections (d), (e), (f)(1), and (g) of section 1881a of this title; and
 
@@ -62,7 +62,7 @@ Each report under subsection (a) shall include—
 
 #### Repeal of Section
 
-<i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Dec. 31, 2023, this section is repealed.</i>
+<i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Apr. 19, 2024, this section is repealed.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -84,5 +84,5 @@ Subsec. (b)(1)(G)(ii). Pub. L. 115–118, §101(b)(2)(C), substituted "subsectio
 
 #### Effective Date of Repeal
 
-Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective Dec. 31, 2023.
+Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective Apr. 19, 2024.
 

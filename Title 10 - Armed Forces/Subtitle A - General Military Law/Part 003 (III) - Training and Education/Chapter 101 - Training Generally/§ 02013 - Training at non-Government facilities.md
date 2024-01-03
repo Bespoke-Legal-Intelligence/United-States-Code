@@ -8,7 +8,7 @@ Authority To Enter Into Agreements.—(1) The Secretary concerned, without regar
 
 &emsp;(A) The government of a State or of a territory or possession of the United States, including the Commonwealth of Puerto Rico, an interstate governmental organization, and a unit, subdivision, or instrumentality of any of the foregoing.
 
-&emsp;(B) A foreign government or international organization, or instrumentality of either,which is designated by the President as eligible to provide training under this section.
+&emsp;(B) A foreign government or international organization, or instrumentality of either, which is designated by the President as eligible to provide training under this section.
 
 &emsp;(C) A medical, scientific, technical, educational, research, or professional institution, foundation, or organization.
 

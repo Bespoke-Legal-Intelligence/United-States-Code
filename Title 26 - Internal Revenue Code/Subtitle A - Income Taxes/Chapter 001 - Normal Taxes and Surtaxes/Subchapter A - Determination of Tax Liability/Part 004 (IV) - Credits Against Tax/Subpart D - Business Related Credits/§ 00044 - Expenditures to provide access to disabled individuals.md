@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;The term "eligible access expenditures" includes amounts paid or incurred—
 
-&emsp;&emsp;(A) for the purpose of removing architectural, communication, physical, or transportation barriers which prevent a business from being accessible to, or usable by, individuals with disabilities,
+&emsp;&emsp;(A) for the purpose of removing architectural, communication, physical, or transportation barriers which prevent a businessfrom being accessible to, or usable by, individuals with disabilities,
 
 &emsp;&emsp;(B) to provide qualified interpreters or other effective methods of making aurally delivered materials available to individuals with hearing impairments,
 

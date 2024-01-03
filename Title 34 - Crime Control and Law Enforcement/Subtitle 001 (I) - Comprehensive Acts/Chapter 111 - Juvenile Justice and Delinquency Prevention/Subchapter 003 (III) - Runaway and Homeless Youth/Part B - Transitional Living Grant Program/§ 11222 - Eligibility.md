@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To be eligible for assistance under this part, an applicant shall propose to establish, strengthen, or fund a transitional living youth project for homeless youth and shall submit to the Secretary a plan in which such applicant agrees, as part of such project—
+To be eligible for assistance under this part, an applicant shall propose to establish,strengthen, or fund a transitional living youth project for homeless youth and shall submit to the Secretary a plan in which such applicant agrees, as part of such project—
 
 &emsp;(1) to provide, by grant, agreement, or contract, shelter (such as group homes, including maternity group homes, host family homes, and supervised apartments) and provide, by grant, agreement, or contract, services,<sup>1</sup> (including information and counseling services in basic life skills which shall include money management, budgeting, consumer education, and use of credit, parenting skills (as appropriate), interpersonal skill building, educational advancement, job attainment skills, and mental and physical health care) to homeless youth;
 
@@ -48,13 +48,13 @@ In this part—
 
 &emsp;(2) the term "exceptional circumstances" means circumstances in which a youth would benefit to an unusual extent from additional time in the program.
 
-(Pub. L. 93–415, title III, §322, as added Pub. L. 100–690, title VII, §7273(f), Nov. 18, 1988, 102 Stat. 4456; amended Pub. L. 102–586, §3(f), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 106–71, §3(f), Oct. 12, 1999,113 Stat. 1038; Pub. L. 108–96, title I, §§107, 108, 110, 111, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, §4, Oct. 8, 2008, 122 Stat. 4069; Pub. L. 113–128, title V, §512(aa), July 22, 2014, 128 Stat. 1717.)
+(Pub. L. 93–415, title III, §322, as added Pub. L. 100–690, title VII, §7273(f), Nov. 18, 1988, 102 Stat. 4456; amended Pub. L. 102–586, §3(f), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 106–71, §3(f), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §§107, 108, 110, 111, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, §4, Oct. 8, 2008, 122 Stat. 4069; Pub. L. 113–128, title V, §512(aa), July 22, 2014, 128 Stat. 1717.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(7), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(7), is Pub. L. 113–128, July 22,2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(7), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 1305 of Title 42, The Public Health and Welfare, and Tables.
 

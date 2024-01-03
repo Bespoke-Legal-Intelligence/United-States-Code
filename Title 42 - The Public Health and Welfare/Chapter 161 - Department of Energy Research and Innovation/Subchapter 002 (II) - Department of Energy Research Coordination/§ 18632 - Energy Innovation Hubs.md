@@ -62,7 +62,7 @@ In this section:
 
 &emsp;The Secretary shall ensure the coordination of, and avoid unnecessary duplication of, the activities of each Hub with the activities of—
 
-&emsp;&emsp;(A) other research entities of the Department, including the National Laboratories,the Advanced Research Projects Agency—Energy, and Energy Frontier Research Centers; and
+&emsp;&emsp;(A) other research entities of the Department, including the National Laboratories, the Advanced Research Projects Agency—Energy, and Energy Frontier Research Centers; and
 
 &emsp;&emsp;(B) industry.
 
@@ -112,7 +112,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;An award made to a Hub under this section shall be for a period of not more than 5 years, subject to the availability of appropriations, after which the award may be renewed, subject to a rigorous merit review.
+&emsp;An award made to a Hub under this section shall be for a period of not more than 5 years,subject to the availability of appropriations, after which the award may be renewed, subject to a rigorous merit review.
 
 #### (2) Existing Hubs
 

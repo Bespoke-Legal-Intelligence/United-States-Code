@@ -8,7 +8,7 @@ There are authorized to be appropriated to the Commission to carry out the funct
 
 The sum appropriated in any fiscal year to carry out the activities described in subsection (a), to the extent and in the amounts provided for in Appropriations Acts, shall be derived from fees authorized by section 159 of this title.
 
-(June 19, 1934, ch. 652, title I, §6, as added Pub. L. 97–35, title XII, §1251(a), Aug. 13, 1981, 95 Stat. 738; amended Pub. L. 98–214, §2(a), Dec. 8, 1983, 97 Stat. 1467; Pub. L. 99–272, title V, §5002(a)(1), Apr. 7, 1986, 100 Stat. 117; Pub. L. 100–594, §2(a), Nov. 3, 1988, 102 Stat. 3021; Pub. L. 101–396, §2(a), Sept. 28, 1990, 104 Stat. 848; Pub. L. 103–66, title VI, §6003(b), Aug. 10, 1993, 107 Stat. 401; Pub. L. 115–141, div. P, title I, §101(a), Mar. 23, 2018, 132 Stat. 1081.)
+(June 19, 1934, ch. 652, title I, §6, as added Pub. L. 97–35, title XII, §1251(a), Aug. 13, 1981, 95 Stat.738; amended Pub. L. 98–214, §2(a), Dec. 8, 1983, 97 Stat. 1467; Pub. L. 99–272, title V, §5002(a)(1), Apr. 7, 1986, 100 Stat. 117; Pub. L. 100–594, §2(a), Nov. 3, 1988, 102 Stat. 3021; Pub. L. 101–396, §2(a), Sept. 28, 1990, 104 Stat. 848; Pub. L. 103–66, title VI, §6003(b), Aug. 10, 1993, 107 Stat. 401; Pub. L. 115–141, div. P, title I, §101(a), Mar. 23, 2018, 132 Stat. 1081.)
 
 #### <b>Editorial Notes</b>
 
@@ -20,7 +20,7 @@ The sum appropriated in any fiscal year to carry out the activities described in
 
 <b>1990</b>—Pub. L. 101–396 amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated for the administration of this chapter by the Commission $107,250,000 for fiscal year 1988 and $109,250,000 for fiscal year 1989, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1988 and 1989."
 
-<b>1988</b>—Pub. L. 100–594 amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated for the administration ofthis chapter by the Commission $98,100,000 for fiscal year 1986 and $97,600,000 for fiscal year 1987, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1986 and 1987."
+<b>1988</b>—Pub. L. 100–594 amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated for the administration of this chapter by the Commission $98,100,000 for fiscal year 1986 and $97,600,000 for fiscal year 1987, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1986 and 1987."
 
 <b>1986</b>—Pub. L. 99–272 amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated for the administration of this chapter by the Commission $91,156,000, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1984 and 1985."
 

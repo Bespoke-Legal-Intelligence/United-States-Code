@@ -78,7 +78,7 @@
 
 #### (2) Applications
 
-&emsp;To be eligible to receive a grant under paragraph (1), an applicant shall submit to theEPA Administrator an application at such time, in such manner, and containing such information as the EPA Administrator may require.
+&emsp;To be eligible to receive a grant under paragraph (1), an applicant shall submit to the EPA Administrator an application at such time, in such manner, and containing such information as the EPA Administrator may require.
 
 #### (e) Applicability of Federal law
 

@@ -2,7 +2,7 @@
 
 #### (a) Sense of Congress
 
-It is the sense of Congress that the Secretary of State should conduct robust diplomatic engagement to promote accountability and provide technical support to ensure that credible, transparent, and independent investigations of gross violations of human rights perpetrated by the Government of Sudan under former President Omar al-Bashir and the Transitional Military Council since June 30, 1989.
+It is the sense of Congress that the Secretary of State should conduct robust diplomatic engagement to promote accountability and provide technical support to ensure that credible, transparent, and independent investigations ofgross violations of human rights perpetrated by the Government of Sudan under former President Omar al-Bashir and the Transitional Military Council since June 30, 1989.
 
 #### (b) In general
 

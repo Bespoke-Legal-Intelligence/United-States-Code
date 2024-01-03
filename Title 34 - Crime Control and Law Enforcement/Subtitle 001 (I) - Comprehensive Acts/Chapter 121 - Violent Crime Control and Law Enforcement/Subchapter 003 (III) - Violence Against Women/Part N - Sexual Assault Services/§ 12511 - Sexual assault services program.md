@@ -110,7 +110,7 @@ The purposes of this section are—
 
 #### (6) Technical assistance
 
-&emsp;The Attorney General shall provide technical assistance to recipients of grants under this subsection by entering into a cooperative agreement or contract with a national, nonprofit, nongovernmental organization or organizations whose primary focus and expertise is in addressing sexual assault within culturally specific communities.
+&emsp;The Attorney General shall provide technical assistance to recipients of grants underthis subsection by entering into a cooperative agreement or contract with a national, nonprofit, nongovernmental organization or organizations whose primary focus and expertise is in addressing sexual assault within culturally specific communities.
 
 #### (7) Reporting
 

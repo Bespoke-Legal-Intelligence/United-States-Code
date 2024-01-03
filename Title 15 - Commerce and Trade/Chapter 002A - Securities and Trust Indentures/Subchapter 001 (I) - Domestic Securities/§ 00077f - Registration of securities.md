@@ -12,7 +12,7 @@ Any security may be registered with the Commission under the terms and condition
 
 #### (2) Annual adjustment
 
-&emsp;For each fiscal year, the Commission shall by order adjust the rate required by paragraph (1) for such fiscal year to a rate that, when applied to the baseline estimate of the aggregate maximum offering prices for such fiscal year, is reasonably likely to produce aggregate feecollections under this subsection that are equal to the target fee collection amount for such fiscal year.
+&emsp;For each fiscal year, the Commission shall by order adjust the rate required by paragraph (1) for such fiscal year to a rate that, when applied to the baseline estimate of the aggregate maximum offering prices for such fiscal year, is reasonably likely to produce aggregate fee collections under this subsection that are equal to the target fee collection amount for such fiscal year.
 
 #### (3) Pro rata application
 
@@ -24,7 +24,7 @@ Any security may be registered with the Commission under the terms and condition
 
 #### (5) Publication
 
-&emsp;The Commission shall publish in the Federal Register notices of the rate applicable under this subsection and under sections 78m(e) and 78n(g) <sup>1</sup> of this title for each fiscal year not later than August 31 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such rate is based.
+&emsp;The Commission shall publish in the Federal Register notices of the rate applicable under this subsection and under sections 78m(e) and 78n(g) <sup>2</sup> of this title for each fiscal year not later than August 31 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such rate is based.
 
 #### (6) Definitions
 
@@ -75,13 +75,13 @@ The information contained in or filed with any registration statement shall be m
 
 #### (1) In general
 
-&emsp;Any emerging growth company, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 15 days before the date on which the issuer conducts a road show, as such term is defined in section 230.433(h)(4) of title 17, Code of Federal Regulations, or any successor thereto. An issuer that was an emerging growth company at the time it submitted a confidential registration statement or, in lieu thereof, a publicly filed registration statement for review under this subsection but ceases to be an emerging growth company thereafter shall continue to be treated as an emerging market growth company for the purposes of this subsection through the earlier of the date on which the issuer consummates its initial public offering pursuant to such registrations statement or the end of the 1-year period beginning on the date the company ceases to be an emerging growth company.
+&emsp;Any emerging growth company, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 15 days before the date on which the issuer conducts a road show, as such term is defined in section 230.433(h)(4) of title 17, Code of Federal Regulations, or any successor thereto. An issuer that was an emerging growth company at the time it submitted a confidential registration statement or, in lieu thereof, a publicly filed registration statement for review under this subsection but ceases to be an emerging growth company thereafter shall continue to be treated as an emerging market growth company for the purposes of this subsection through the earlier of the dateon which the issuer consummates its initial public offering pursuant to such registrations statement or the end of the 1-year period beginning on the date the company ceases to be an emerging growth company.
 
 #### (2) Confidentiality
 
 &emsp;Notwithstanding any other provision of this subchapter, the Commission shall not be compelled to disclose any information provided to or obtained by the Commission pursuant to this subsection. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. Information described in or obtained pursuant to this subsection shall be deemed to constitute confidential information for purposes of section 78x(b)(2) of this title.
 
-(May 27, 1933, ch. 38, title I, §6, 48 Stat. 78; Pub. L. 89–289, §1, Oct. 22, 1965, 79 Stat. 1051; Pub. L. 100–181, title II, §205, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title IV, §404, Oct. 11, 1996, 110Stat. 3441; Pub. L. 107–123, §4, Jan. 16, 2002, 115 Stat. 2393; Pub. L. 111–203, title IX, §991(b)(1), July 21, 2010, 124 Stat. 1951; Pub. L. 112–106, title I, §106(a), Apr. 5, 2012, 126 Stat. 312; Pub. L. 114–94, div. G, title LXXI, §§71001, 71002, Dec. 4, 2015, 129 Stat. 1783.)
+(May 27, 1933, ch. 38, title I, §6, 48 Stat. 78; Pub. L. 89–289, §1, Oct. 22, 1965, 79 Stat. 1051; Pub. L. 100–181, title II, §205, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title IV, §404, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 107–123, §4, Jan. 16, 2002, 115 Stat. 2393; Pub. L. 111–203, title IX, §991(b)(1), July 21, 2010, 124 Stat. 1951; Pub. L. 112–106, title I, §106(a), Apr. 5, 2012, 126 Stat. 312; Pub. L. 114–94, div. G, title LXXI, §§71001, 71002, Dec. 4, 2015, 129 Stat. 1783.)
 
 #### <b>Editorial Notes</b>
 
@@ -159,6 +159,8 @@ Pub. L. 101–162, title V, Nov. 21, 1989, 103 Stat. 1022.
 
 #### Adjustment of Registration Fee Rate
 
+By order dated Aug. 25, 2023, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $147.60 per $1,000,000, effective Oct. 1, 2023, see 88 F.R. 59953.
+
 By order dated Aug. 25, 2022, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $110.20 per $1,000,000, effective Oct. 1, 2022, see 87 F.R. 53030.
 
 By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $92.70 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
@@ -191,5 +193,5 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 <i><sup>1</sup></i><i> See Adjustment of Registration Fee Rate notes below.</i>
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

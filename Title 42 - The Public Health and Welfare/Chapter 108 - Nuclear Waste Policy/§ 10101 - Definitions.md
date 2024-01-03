@@ -40,7 +40,7 @@ For purposes of this chapter:
 
 &emsp;(10) The terms "disposal package" and "package" mean the primary container that holds, and is in contact with, solidified high-level radioactive waste, spent nuclear fuel, or other radioactive materials, and any overpacks that are emplaced at a repository.
 
-&emsp;(11) The term "engineered barriers" means manmade components of a disposal system designed to prevent the release of radionuclides into the geologic medium involved. Such term includes the high-level radioactive waste form, high-level radioactive waste canisters, and other materials placed over and around such canisters.
+&emsp;(11) The term "engineered barriers" means manmade components of a disposal system designed to prevent the release of radionuclides into the geologic medium involved. Such term includes the high-level radioactive waste form, high-level radioactive waste canisters, andother materials placed over and around such canisters.
 
 &emsp;(12) The term "high-level radioactive waste" means—
 
@@ -88,7 +88,7 @@ For purposes of this chapter:
 
 &emsp;(26) The term "Storage Fund" means the Interim Storage Fund established in section 10156(c) <sup>2</sup> of this title.
 
-&emsp;(27) The term "test and evaluation facility" means an at-depth, prototypic, underground cavity with subsurface lateral excavations extending from a central shaft that is used for research and development purposes, including the development of data and experience for thesafe handling and disposal of solidified high-level radioactive waste, transuranic waste, or spent nuclear fuel.
+&emsp;(27) The term "test and evaluation facility" means an at-depth, prototypic, underground cavity with subsurface lateral excavations extending from a central shaft that is used for research and development purposes, including the development of data and experience for the safe handling and disposal of solidified high-level radioactive waste, transuranic waste, or spent nuclear fuel.
 
 &emsp;(28) The term "unit of general local government" means any borough, city, county, parish, town, township, village, or other general purpose political subdivision of a State.
 
@@ -100,7 +100,7 @@ For purposes of this chapter:
 
 &emsp;(32) The term "Negotiator" means the Nuclear Waste Negotiator.
 
-&emsp;(33) As used in subchapter IV, the term "Office" means the Office of the Nuclear Waste Negotiator established under subchapter IV of this chapter.
+&emsp;(33) As used in subchapter IV, the term "Office" means the Office of the Nuclear WasteNegotiator established under subchapter IV of this chapter.
 
 &emsp;(34) The term "monitored retrievable storage facility" means the storage facility described in section 10161(b)(1) of this title.
 

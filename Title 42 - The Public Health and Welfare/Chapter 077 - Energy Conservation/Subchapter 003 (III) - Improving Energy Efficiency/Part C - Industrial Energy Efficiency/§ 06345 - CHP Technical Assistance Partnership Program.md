@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Clean Energy Application Centers of the Department of Energy are redesignated as theCHP Technical Assistance Partnership Program (referred to in this section as the "Program").
+&emsp;The Clean Energy Application Centers of the Department of Energy are redesignated as the CHP Technical Assistance Partnership Program (referred to in this section as the "Program").
 
 #### (2) Program description
 

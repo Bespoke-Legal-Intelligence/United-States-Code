@@ -104,7 +104,7 @@ Rail account.—Subject to subsection (j), the Secretary may permit a State ente
 
 &emsp;(4)
 
-Rural projects fund.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank to deposit into the rural projects fund of the bank the proceeds of a secured loan made to the bank in accordance with sections 602 and 603.
+Rural projects fund.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank to deposit into the rural projects fund of the bank the proceeds of a secured loan madeto the bank in accordance with sections 602 and 603.
 
 &emsp;(5)
 
@@ -192,7 +192,7 @@ Applicability of Federal Law.—
 
 &emsp;(1)
 
-In general.—The requirements of this title and title 49 that would otherwise apply to funds made available under this title or such title and projects assisted with those funds shall apply to—
+In general.—The requirements of this title and title 49 that would otherwise apply tofunds made available under this title or such title and projects assisted with those funds shall apply to—
 
 &emsp;&emsp;(A) funds made available under this title or such title and contributed to an infrastructure bank established under this section, including the non-Federal contribution required under subsection (g); and
 
@@ -202,7 +202,7 @@ In general.—The requirements of this title and title 49 that would otherwise a
 
 &emsp;(2)
 
-Repayments.—The requirements of this title and title 49 shall apply to repayments from non-Federal sources to an infrastructurebank from projects assisted by the bank. Such a repayment shall be considered to be Federal funds.
+Repayments.—The requirements of this title and title 49 shall apply to repayments from non-Federal sources to an infrastructure bank from projects assisted by the bank. Such a repayment shall be considered to be Federal funds.
 
 (i)
 

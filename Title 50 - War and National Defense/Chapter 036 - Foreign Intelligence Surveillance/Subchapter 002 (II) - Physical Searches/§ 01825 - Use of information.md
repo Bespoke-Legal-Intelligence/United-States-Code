@@ -2,11 +2,11 @@
 
 #### (a) Compliance with minimization procedures; lawful purposes
 
-Information acquired from a physical search conducted pursuant to this subchapter concerning any United States person may be used and disclosed by Federal officers and employeeswithout the consent of the United States person only in accordance with the minimization procedures required by this subchapter. No information acquired from a physical search pursuant to this subchapter may be used or disclosed by Federal officers or employees except for lawful purposes.
+Information acquired from a physical search conducted pursuant to this subchapter concerning any United States person may be used and disclosed by Federal officers and employees without the consent of the United States person only in accordance with the minimization procedures required by this subchapter. No information acquired from a physical search pursuant to this subchapter may be used or disclosed by Federal officers or employees except for lawful purposes.
 
 #### (b) Notice of search and identification of property seized, altered, or reproduced
 
-Where a physical search authorized and conducted pursuant to section 1824 of this title involves the residence of a United States person, and, at any time after the search the Attorney General determines there is no national security interest in continuing to maintain the secrecy of the search, the Attorney General shall provide notice to the United States person whose residence was searched of the fact of the search conducted pursuant to this chapter and shall identify any property of such person seized, altered, or reproduced during such search.
+Where a physical search authorized and conducted pursuant to section 1824 of this title involves the residence of a United States person, and, at any time after the search the Attorney General determines there is no national security interest in continuing to maintain the secrecy of the search, the Attorney General shall provide notice to the United States person whose residence was searched of the fact of the search conducted pursuant to this chapter and shallidentify any property of such person seized, altered, or reproduced during such search.
 
 #### (c) Statement for disclosure
 
@@ -36,7 +36,7 @@ Whenever a court or other authority is notified pursuant to subsection (d) or (e
 
 #### (h) Suppression of evidence; denial of motion
 
-If the United States district court pursuant to subsection (g) determines that the physical search was not lawfully authorized or conducted, it shall, in accordance with the requirements of law, suppress the evidence which was unlawfully obtained or derived from the physical search of the aggrieved person or otherwise grant the motion of the aggrieved person. If the court determines that the physical search was lawfully authorized or conducted, it shall deny the motion of the aggrieved person except to theextent that due process requires discovery or disclosure.
+If the United States district court pursuant to subsection (g) determines that the physical search was not lawfully authorized or conducted, it shall, in accordance with the requirements of law, suppress the evidence which was unlawfully obtained or derived from the physical search of the aggrieved person or otherwise grant the motion of the aggrieved person. If the court determines that the physical search was lawfully authorized or conducted, it shall deny the motion of the aggrieved person except to the extent that due process requires discovery or disclosure.
 
 #### (i) Finality of orders
 
@@ -44,7 +44,7 @@ Orders granting motions or requests under subsection (h), decisions under this s
 
 #### (j) Notification of emergency execution of physical search; contents; postponement, suspension, or elimination
 
-(1) If an emergency execution of a physical search is authorized under section 1824(d) <sup>1</sup> of this title and a subsequent order approving the search is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to the search as the judge may determine in his discretion it is in the interests of justice to serve, notice of—
+(1) If an emergency execution of a physical search is authorized under section 1824(d) <sup>1</sup> ofthis title and a subsequent order approving the search is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to the search as the judge may determine in his discretion it is in the interests of justice to serve, notice of—
 
 &emsp;(A) the fact of the application;
 

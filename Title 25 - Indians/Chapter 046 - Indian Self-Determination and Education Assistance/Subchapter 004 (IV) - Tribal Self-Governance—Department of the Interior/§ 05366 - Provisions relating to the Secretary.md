@@ -58,7 +58,7 @@ A funding agreement shall include a provision to monitor the performance of trus
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall designate one or more appropriate officials in the Department to receive a copy of the final offer described in paragraph (1).
+&emsp;&emsp;The Secretary shall designate one or more appropriate officials in the Department toreceive a copy of the final offer described in paragraph (1).
 
 #### (B) No designation
 
@@ -132,7 +132,7 @@ In any administrative action, hearing, appeal, or civil action brought under thi
 
 #### (g) Trust responsibility
 
-The Secretary may not waive, modify, or diminish in any way the trust responsibility of the United States with respect to Indian Tribes and individual Indians that exists under treaties, Executive orders, other laws, or court decisions.
+The Secretary may not waive, modify, or diminish in any way the trust responsibility of theUnited States with respect to Indian Tribes and individual Indians that exists under treaties, Executive orders, other laws, or court decisions.
 
 #### (h) Decision maker
 

@@ -8,5 +8,5 @@ Funds to carry out this subchapter for any fiscal year shall be made available f
 
 #### References in Text
 
-Section 102(a)(8) of the National Science Foundation Authorization Act for fiscal year 1986, referred to intext, is section 102(a)(8) of Pub. L. 99–159, title I, Nov. 22, 1985, 99 Stat. 887, which is not classified to the Code.
+Section 102(a)(8) of the National Science Foundation Authorization Act for fiscal year 1986, referred to in text, is section 102(a)(8) of Pub. L. 99–159, title I, Nov. 22, 1985, 99 Stat. 887, which is not classified to the Code.
 

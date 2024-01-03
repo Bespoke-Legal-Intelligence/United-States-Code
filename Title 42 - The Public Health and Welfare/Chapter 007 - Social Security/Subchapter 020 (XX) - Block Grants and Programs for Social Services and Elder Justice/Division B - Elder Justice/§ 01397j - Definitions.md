@@ -70,7 +70,7 @@ In this division:
 
 &emsp;The term "guardianship" means—
 
-&emsp;&emsp;(A) the process by which a State court determines that an adult individual lacks capacity to make decisions about self-care or property, and appoints another individual orentity known as a guardian, as a conservator, or by a similar term, as a surrogate decisionmaker;
+&emsp;&emsp;(A) the process by which a State court determines that an adult individual lacks capacity to make decisions about self-care or property, and appoints another individual or entity known as a guardian, as a conservator, or by a similar term, as a surrogate decisionmaker;
 
 &emsp;&emsp;(B) the manner in which the court-appointed surrogate decisionmaker carries out duties to the individual and the court; or
 

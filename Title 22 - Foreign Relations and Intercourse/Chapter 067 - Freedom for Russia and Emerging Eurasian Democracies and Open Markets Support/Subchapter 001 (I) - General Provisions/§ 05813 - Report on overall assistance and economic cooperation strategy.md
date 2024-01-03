@@ -12,7 +12,7 @@ The report submitted pursuant to subsection (a) shall include a plan specifying�
 
 &emsp;(2) the amount of other funds made available for fiscal year 1993 to carry out the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] proposed to be allocated for assistance under that Act for the independent states of the former Soviet Union; and
 
-&emsp;(3) the amount of funds available for fiscal year 1993 under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] that are proposed to be made to each agency to carry out activities for the independent states under that Act or this Act.
+&emsp;(3) the amount of funds available for fiscal year 1993 under the Foreign Assistance Act of1961 \[22 U.S.C. 2151 et seq.\] that are proposed to be made to each agency to carry out activities for the independent states under that Act or this Act.
 
 (Pub. L. 102–511, title I, §103, Oct. 24, 1992, 106 Stat. 3323.)
 

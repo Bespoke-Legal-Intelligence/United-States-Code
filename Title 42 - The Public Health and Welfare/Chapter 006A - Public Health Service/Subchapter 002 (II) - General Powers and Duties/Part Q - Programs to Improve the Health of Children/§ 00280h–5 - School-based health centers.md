@@ -36,7 +36,7 @@ In this section:
 
 &emsp;&emsp;(A) meets the definition of a school-based health center under section 1397jj(c)(9)(A) of this title and is administered by a sponsoring facility (as defined in section 1397jj(c)(9)(B) of this title);
 
-&emsp;&emsp;(B) provides, at a minimum, comprehensive primary health services during school hours to children and adolescents by health professionals in accordance with established standards, community practice, reporting laws, and other State laws, including parental consent and notification laws that are not inconsistent with Federal law; and
+&emsp;&emsp;(B) provides, at a minimum, comprehensive primary health services during schoolhours to children and adolescents by health professionals in accordance with established standards, community practice, reporting laws, and other State laws, including parental consent and notification laws that are not inconsistent with Federal law; and
 
 &emsp;&emsp;(C) does not perform abortion services.
 
@@ -154,7 +154,7 @@ An eligible entity receiving funds under this section shall not provide services
 
 #### (l) Technical assistance
 
-The Secretary shall provide technical assistance by grants or contracts awarded to private, nonprofit entities with demonstrated expertise related to school-based health centers. Such technical assistance, taking into account local and regional differences among school based <sup>1</sup> health centers, shall support such entities in providing services described in subsection (a)(1) pursuant to this section, including mental health and substance use disorder services, and may include technical assistance relating toprogram operations and support for the implementation of evidence-based or evidence-informed best practices related to the provision of high quality health care services to children and adolescents.
+The Secretary shall provide technical assistance by grants or contracts awarded to private, nonprofit entities with demonstrated expertise related to school-based health centers. Such technical assistance, taking into account local and regional differences among school based <sup>1</sup> health centers, shall support such entities in providing services described in subsection (a)(1) pursuant to this section, including mental health and substance use disorder services, and may include technical assistance relating to program operations and support for the implementation of evidence-based or evidence-informed best practices related to the provision of high quality health care services to children and adolescents.
 
 #### (m) Authorization of appropriations
 

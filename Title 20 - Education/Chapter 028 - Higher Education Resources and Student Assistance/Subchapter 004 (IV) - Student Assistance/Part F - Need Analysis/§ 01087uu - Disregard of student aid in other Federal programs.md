@@ -2,7 +2,7 @@
 
 Notwithstanding any other provision of law, student financial assistance received under this subchapter, or under Bureau of Indian Affairs student assistance programs, shall not be taken into account in determining the need or eligibility of any person for benefits or assistance, or the amount of such benefits or assistance, under any Federal, State, or local program financed in whole or in part with Federal funds.
 
-(Pub. L. 89–329, title IV, §479B, as added Pub. L. 100–50, §14(27), June 3, 1987, 101 Stat. 353; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 116–260, div. FF, title VII, §702(j), Dec. 27, 2020, 134 Stat. 3160.)
+(Pub. L. 89–329, title IV, §479B, as added Pub. L. 100–50, §14(27), June 3, 1987, 101 Stat. 353; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992,106 Stat. 606; Pub. L. 116–260, div. FF, title VII, §702(j), Dec. 27, 2020, 134 Stat. 3160.)
 
 #### Amendment of Section
 

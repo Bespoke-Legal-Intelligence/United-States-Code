@@ -18,7 +18,7 @@ The Secretary may accept a certification, by a Federal, State, or local governme
 
 #### (1) Injuries specified in injury table
 
-&emsp;In any case where an injury or other adverse effect specified in the injury table established under section 239b of this title as a known effect of a vaccine manifests in an individual within the time period specified in such table, such injury or other effect shall be presumed to have resulted from administration of such vaccine.
+&emsp;In any case where an injury or other adverse effect specified in the injury table establishedunder section 239b of this title as a known effect of a vaccine manifests in an individual within the time period specified in such table, such injury or other effect shall be presumed to have resulted from administration of such vaccine.
 
 #### (2) Other determinations
 

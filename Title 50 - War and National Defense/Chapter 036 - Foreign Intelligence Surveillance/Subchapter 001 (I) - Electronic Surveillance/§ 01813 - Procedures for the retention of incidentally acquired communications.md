@@ -38,7 +38,7 @@ In this section:
 
 #### (A) Application
 
-&emsp;&emsp;The procedures required by paragraph (1) shall apply to any intelligence collection activity not otherwise authorized by court order (including an order or certification issued by a court established under subsection (a) or (b) of section 1803 of this title), subpoena, or similar legal process that isreasonably anticipated to result in the acquisition of a covered communication to or from a United States person and shall permit the acquisition, retention, and dissemination of covered communications subject to the limitation in subparagraph (B).
+&emsp;&emsp;The procedures required by paragraph (1) shall apply to any intelligence collection activity not otherwise authorized by court order (including an order or certification issued by a court established under subsection (a) or (b) of section 1803 of this title), subpoena, or similar legal process that is reasonably anticipated to result in the acquisition of a covered communication to or from a United States person and shall permit the acquisition, retention, and dissemination of covered communications subject to the limitation in subparagraph (B).
 
 #### (B) Limitation on retention
 
@@ -52,7 +52,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iv) all parties to the communication are reasonably believed to be non-United States persons;
 
-&emsp;&emsp;&emsp;(v) retention is necessary to protect against an imminent threat to human life, in which case both the nature of the threat and the information to be retained shall be reported to the congressional intelligence committees not later than 30 days after the date such retention is extended under this clause;
+&emsp;&emsp;&emsp;(v) retention is necessary to protect against an imminent threat to human life,in which case both the nature of the threat and the information to be retained shall be reported to the congressional intelligence committees not later than 30 days after the date such retention is extended under this clause;
 
 &emsp;&emsp;&emsp;(vi) retention is necessary for technical assurance or compliance purposes, including a court order or discovery obligation, in which case access to information retained for technical assurance or compliance purposes shall be reported to the congressional intelligence committees on an annual basis; or
 

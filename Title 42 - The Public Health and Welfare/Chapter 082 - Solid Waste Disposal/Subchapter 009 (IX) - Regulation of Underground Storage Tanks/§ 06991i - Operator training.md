@@ -70,7 +70,7 @@ All persons that are subject to the operator training requirements of subsection
 
 #### References in Text
 
-August 8, 2005, referred to in subsec. (b)(2)(C), was in the original "the date of enactment of this section",which was translated as meaning the date of enactment of Pub. L. 109–58, which amended this section generally, to reflect the probable intent of Congress.
+August 8, 2005, referred to in subsec. (b)(2)(C), was in the original "the date of enactment of this section", which was translated as meaning the date of enactment of Pub. L. 109–58, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 

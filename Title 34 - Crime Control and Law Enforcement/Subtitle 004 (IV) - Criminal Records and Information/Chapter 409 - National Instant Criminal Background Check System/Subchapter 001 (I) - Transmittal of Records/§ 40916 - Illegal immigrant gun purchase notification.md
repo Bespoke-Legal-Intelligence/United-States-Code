@@ -14,5 +14,5 @@ The Attorney General, at his or her discretion, shall promulgate guidelines rele
 
 #### Codification
 
-Section was formerly classified in a note under section 922 of Title 18, Crimes and Criminal Procedure,prior to editorial reclassification and renumbering as this section.
+Section was formerly classified in a note under section 922 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
 

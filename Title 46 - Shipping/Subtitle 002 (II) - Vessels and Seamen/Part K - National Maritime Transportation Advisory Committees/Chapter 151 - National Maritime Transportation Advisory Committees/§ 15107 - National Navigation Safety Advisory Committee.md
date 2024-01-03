@@ -38,7 +38,7 @@ Representation.—Each member of the Committee shall represent 1 of the followin
 
 &emsp;(4)
 
-Distribution.—The Secretary shall, based on the needs of the Coast Guard, determine the number of members of the Committee who represent each entity specified in paragraph (3). Neither this paragraph nor any other provision of law shall be construed to require an equal distribution of members representing each entity specified in paragraph (3).
+Distribution.—The Secretary shall, based on the needs of the Coast Guard, determine the number of members of the Committee who represent each entity specified in paragraph (3). Neither this paragraph nor anyother provision of law shall be construed to require an equal distribution of members representing each entity specified in paragraph (3).
 
 (Added Pub. L. 115–282, title VI, §601(a), Dec. 4, 2018, 132 Stat. 4285.)
 

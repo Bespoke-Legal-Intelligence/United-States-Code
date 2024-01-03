@@ -60,7 +60,7 @@ Not later than 180 days after the end of each fiscal year, the Administrator sha
 
 #### References in Text
 
-This chapter, referred to in par. (6), was in the original "this Act", meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of this title and Tables.
+This chapter, referred to in par. (6), was in the original "this Act", meaning Pub. L. 93–415, Sept. 7, 1974, 88Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of this title and Tables.
 
 The Tribal Law and Order Act of 2010, referred to in par. (6), is title II of Pub. L. 111–211, July 29, 2010, 124 Stat. 2261. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 2801 of Title 25, Indians, and Tables.
 

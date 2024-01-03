@@ -10,7 +10,7 @@
 
 (c) This section applies with respect to Reserve enlisted members who are retired under section 9314 of this title after September 30, 1996.
 
-(Added Pub. L. 104–201, div. A, title V, §532(c)(1), Sept. 23, 1996, 110 Stat. 2519, §8963; renumbered§9343 and amended Pub. L. 115–232, div. A, title VIII, §§806(b)(14), 809(a), Aug. 13, 2018, 132 Stat. 1833, 1840.)
+(Added Pub. L. 104–201, div. A, title V, §532(c)(1), Sept. 23, 1996, 110 Stat. 2519, §8963; renumbered §9343 and amended Pub. L. 115–232, div. A, title VIII, §§806(b)(14), 809(a), Aug. 13, 2018, 132 Stat. 1833, 1840.)
 
 #### <b>Editorial Notes</b>
 

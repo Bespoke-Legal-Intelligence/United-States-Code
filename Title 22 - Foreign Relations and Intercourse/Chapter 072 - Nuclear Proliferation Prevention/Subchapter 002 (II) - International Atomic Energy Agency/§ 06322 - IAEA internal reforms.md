@@ -24,7 +24,7 @@ In order to promote the early adoption of reforms in the implementation of the s
 
 &emsp;(10) promote the use of near real time material accountancy in the conduct of safeguards at facilities that use, produce, or store significant quantities of special fissionable material;
 
-&emsp;(11) develop with other IAEA member nations an agreement on procedures to expediteapprovals of visa applications by IAEA inspectors;
+&emsp;(11) develop with other IAEA member nations an agreement on procedures to expedite approvals of visa applications by IAEA inspectors;
 
 &emsp;(12) provide the IAEA the additional funds, technical assistance, and political support necessary to carry out the goals set forth in this subsection; <sup>1</sup> and
 

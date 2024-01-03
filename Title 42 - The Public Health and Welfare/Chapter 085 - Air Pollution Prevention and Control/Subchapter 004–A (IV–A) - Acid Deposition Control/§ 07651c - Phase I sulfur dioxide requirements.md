@@ -10,9 +10,9 @@
 
 &emsp;(B) the product of each unit's baseline multiplied by 2.50 lbs/mmBtu divided by 2,000,
 
-> and sum the computations. The Administrator shall adjust the foregoing calculation to reflect projected calendar year 1995 utilization of the units subject to the emissions limitations ofthis subchapter that the Administrator finds would have occurred in the absence of the imposition of such requirements. Pursuant to subsection (d), the Administrator shall allocate allowances from the reserve established hereinunder until the earlier of such time as all such allowances in the reserve are allocated or December 31, 1999.
+> and sum the computations. The Administrator shall adjust the foregoing calculation to reflect projected calendar year 1995 utilization of the units subject to the emissions limitations of this subchapter that the Administrator finds would have occurred in the absence of the imposition of such requirements. Pursuant to subsection (d), the Administrator shall allocate allowances from the reserve established hereinunder until the earlier of such time as all such allowances in the reserve are allocated or December 31, 1999.
 
-(3) In addition to allowances allocated pursuant to paragraph (1), in each calendar year beginning in 1995 and ending in 1999, inclusive, the Administrator shall allocate for each unit on Table A that is located in the States of Illinois, Indiana, or Ohio (other than units at Kyger Creek, Clifty Creek and Joppa Steam), allowances in an amount equal to 200,000 multiplied by the unit's pro rata share of the total number of allowances allocated for all units on Table A in the 3 States (other than units at Kyger Creek, Clifty Creek, and Joppa Steam) pursuant to paragraph (1). Such allowances shall be excluded from the calculation of the reserve under paragraph (2).
+(3) In addition to allowances allocated pursuant to paragraph (1), in each calendar year beginning in 1995 and ending in 1999, inclusive, the Administrator shall allocate for each unit on Table A that is located in the States of Illinois, Indiana, or Ohio (other than units at Kyger Creek, Clifty Creek and Joppa Steam), allowances in an amount equal to 200,000 multiplied by the unit's pro rata share of the total number of allowances allocated for all units on Table A in the 3 States (other than units at Kyger Creek,Clifty Creek, and Joppa Steam) pursuant to paragraph (1). Such allowances shall be excluded from the calculation of the reserve under paragraph (2).
 
 #### (b) Substitutions
 
@@ -44,7 +44,7 @@ The owner or operator of an affected unit under subsection (a) may include in it
 
 &emsp;(A) specify the unit or units proposed for designation as an eligible phase I extension unit;
 
-&emsp;(B) provide a copy of an executed contract, which may be contingent upon the Administrator approving the proposal, for the designengineering, and construction of the qualifying phase I technology for the extension unit, or for the unit or units to which the extension unit's emission reduction obligation is to be transferred;
+&emsp;(B) provide a copy of an executed contract, which may be contingent upon the Administrator approving the proposal, for the design engineering, and construction of the qualifying phase I technology for the extension unit, or for the unit or units to which the extension unit's emission reduction obligation is to be transferred;
 
 &emsp;(C) specify the unit's or units' baseline, actual 1985 emissions rate, allowable 1985 emissions rate, and projected utilization for calendar years 1995 through 1999;
 
@@ -52,7 +52,7 @@ The owner or operator of an affected unit under subsection (a) may include in it
 
 &emsp;(E) specify the emission limitation and number of allowances expected to be necessary for annual operation after the qualifying phase I technology has been installed.
 
-(3) The Administrator shall review and take final action on each extension proposal in order of receipt, consistent with section 7651g of this title, and for an approved proposal shall designate the unit or units as an eligible phase I extension unit. The Administrator may approve an extension proposal in whole or in part, and with such modifications or conditions as may be necessary, consistent with the orderly functioning of the allowance system, and to ensure the emissions reductions contemplated by the <sup>3</sup> subchapter.
+(3) The Administrator shall review and take final action on each extension proposal in orderof receipt, consistent with section 7651g of this title, and for an approved proposal shall designate the unit or units as an eligible phase I extension unit. The Administrator may approve an extension proposal in whole or in part, and with such modifications or conditions as may be necessary, consistent with the orderly functioning of the allowance system, and to ensure the emissions reductions contemplated by the <sup>3</sup> subchapter.
 
 (4) In order to determine the number of proposals eligible for allocations from the reserve under subsection (a)(2) and the number of allowances remaining available after each proposal is acted upon, the Administrator shall reduce the total number of allowances remaining available in the reserve by the number of allowances calculated according to subparagraphs (A), (B) and (C) until either no allowances remain available in the reserve for further allocation or all approved proposals have been acted upon. If no allowances remain available in the reserve for further allocation before all proposals have been acted upon by the Administrator, any pending proposals shall be disapproved. The Administrator shall calculate allowances equal to—
 
@@ -1614,7 +1614,7 @@ S. Oak Creek
 
 #### (C) Period of applicability
 
-&emsp;&emsp;Allowances under this subsection shall be allocated only with respect to kilowatthours of electric energy saved by qualified energy conservation measures or generated by qualified renewable energy after January 1, 1992 and before the earlier of (i) December 31, 2000, or (ii) the date on which any electric utility steam generating unit owned or operated by the electric utility to which the allowances are allocated becomes subject to this subchapter (including those sources that elect to become affected by this subchapter, pursuant to section 7651i of this title).
+&emsp;&emsp;Allowances under this subsection shall be allocated only with respect to kilowatt hours of electric energy saved by qualified energy conservation measures or generated by qualified renewable energy after January 1, 1992 and before the earlier of (i) December 31, 2000, or (ii) the date on which any electric utility steam generating unit owned or operated by the electric utility to which the allowances are allocated becomes subject to this subchapter (including those sources that elect to become affected by this subchapter, pursuant to section 7651i of this title).
 
 #### (D) Determination of avoided emissions
 

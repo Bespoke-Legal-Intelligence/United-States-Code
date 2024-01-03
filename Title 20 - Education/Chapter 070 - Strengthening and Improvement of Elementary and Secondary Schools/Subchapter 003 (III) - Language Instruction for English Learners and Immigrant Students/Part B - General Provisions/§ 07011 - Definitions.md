@@ -42,7 +42,7 @@ Except as otherwise provided, in this subchapter:
 
 &emsp;&emsp;(A) in which an English learner is placed for the purpose of developing and attaining English proficiency, while meeting challenging State academic standards; and
 
-&emsp;&emsp;(B) that may make instructional use of both English and a child's native language to enable the child to develop and attain English proficiency, and may include the participation of English proficient childrenif such course is designed to enable all participating children to become proficient in English and a second language.
+&emsp;&emsp;(B) that may make instructional use of both English and a child's native language to enable the child to develop and attain English proficiency, and may include the participation of English proficient children if such course is designed to enable all participating children to become proficient in English and a second language.
 
 #### (8) Native American and Native American language
 
@@ -156,7 +156,7 @@ Authorized Activities.—Research activities authorized to be assisted under thi
 
 &emsp;"(6) studies to determine effective methods of teaching English to adults who have language proficiencies other than English;
 
-&emsp;"(7) studies to determine and evaluate effective methods of instruction for bilingual programs, taking into account language and cultural differences among students;
+&emsp;"(7) studies to determine and evaluate effective methods of instruction for bilingual programs, takinginto account language and cultural differences among students;
 
 &emsp;"(8) studies to determine effective approaches to preservice and inservice training for teachers, taking into account the language and cultural differences of their students;
 
@@ -166,7 +166,7 @@ Authorized Activities.—Research activities authorized to be assisted under thi
 
 "(c)
 
-Consultation and Delegation of Authority.—In carrying out the responsibilities of this section, the Secretary may delegate authority to the Director, and in any event, shall consult with the Director, representatives of State and local educational agencies, appropriate groups and organizations involved in bilingual education, the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and the Committee on Education and Labor of the House of Representatives.
+Consultation and Delegation of Authority.—In carrying out the responsibilities of this section, the Secretary may delegate authority to the Director, and in any event, shall consult with the Director, representatives of State and local educational agencies, appropriate groups and organizations involved in bilingual education, the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives.
 
 "(d)
 

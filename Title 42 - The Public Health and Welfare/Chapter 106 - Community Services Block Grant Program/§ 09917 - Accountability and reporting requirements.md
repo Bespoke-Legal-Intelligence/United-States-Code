@@ -20,13 +20,13 @@
 
 #### (1) Performance measurement
 
-&emsp;The Secretary, in collaboration with the States and with eligible entities throughout the Nation, shall facilitate the development of one or more model performance measurement systems, which may be used by the States and by eligible entities to measure their performance in carrying out the requirements of this chapter and in achieving the goals of their community action plans. The Secretary shall provide technical assistance, including support for the enhancement of electronic data systems, to States and to eligible entities toenhance their capability to collect and report data for such a system and to aid in their participation in such a system.
+&emsp;The Secretary, in collaboration with the States and with eligible entities throughout the Nation, shall facilitate the development of one or more model performance measurement systems, which may be used by the States and by eligible entities to measure their performance in carrying out the requirements of this chapter and in achieving the goals of their community action plans. The Secretary shall provide technical assistance, including support for the enhancement of electronic data systems, to States and to eligible entities to enhance their capability to collect and report data for such a system and to aid in their participation in such a system.
 
 #### (2) Reporting requirements
 
 &emsp;At the end of each fiscal year beginning after September 30, 1999, the Secretary shall, directly or by grant or contract, prepare a report containing—
 
-&emsp;&emsp;(A) a summary of the planned use of funds by each State, and the eligible entities in the State, under the community services block grant program, as contained in each State plan submitted pursuant to section 9908 of this title;
+&emsp;&emsp;(A) a summary of the planned use of funds by each State, and the eligible entities in the State, under the community services block grant program, as contained in eachState plan submitted pursuant to section 9908 of this title;
 
 &emsp;&emsp;(B) a description of how funds were actually spent by the State and eligible entities in the State, including a breakdown of funds spent on administrative costs and on the direct delivery of local services by eligible entities;
 
@@ -51,8 +51,6 @@
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

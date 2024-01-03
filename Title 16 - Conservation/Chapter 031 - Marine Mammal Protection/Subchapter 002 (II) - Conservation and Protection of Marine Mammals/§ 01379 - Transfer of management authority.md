@@ -86,9 +86,9 @@ The State process required under subsection (b)(1)(C) must comply with the follo
 
 &emsp;&emsp;(I) the Secretary provides opportunity for consultation between him and the State concerning such State actions or failures to act and the remedial measures that should be taken by the State, and
 
-&emsp;&emsp;(II) the State does not take such remedial measures as are necessary, in the judgment of the Secretary, to bring its conservation and management program, or the administration or enforcement of the program, into compliance with the provisions of this section.
+&emsp;&emsp;(II) the State does not take such remedial measures as are necessary, in the judgment of the Secretary, to bring its conservation and management program, or the administration or enforcement of the program, intocompliance with the provisions of this section.
 
-(B) When a revocation by the Secretary of a transfer of management authority to a State becomes final, or the State voluntarily returns management authority to the Secretary, the Secretary shall regulate the taking, and provide for the conservation and management, of the species within the State in accordance with the provisions of this chapter (and in the case of Alaskan Natives, section 1371(b) of this title andsubsection (i) of this section shall apply upon such revocation or return of management authority).
+(B) When a revocation by the Secretary of a transfer of management authority to a State becomes final, or the State voluntarily returns management authority to the Secretary, the Secretary shall regulate the taking, and provide for the conservation and management, of the species within the State in accordance with the provisions of this chapter (and in the case of Alaskan Natives, section 1371(b) of this title and subsection (i) of this section shall apply upon such revocation or return of management authority).
 
 #### (f) Transfer of management authority to State of Alaska
 
@@ -176,7 +176,7 @@ Section 1362(14) of this title, referred to in subsecs. (b)(3)(B)(i) and (d), wa
 
 The Regulatory Flexibility Act, referred to in subsec. (d)(2), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
 
-The Paperwork Reduction Act, referred to in subsec. (d)(2), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by the Paperwork Reduction Act of 1995, Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+The Paperwork Reduction Act, referred to in subsec. (d)(2), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by the Paperwork Reduction Act of 1995, Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
 Executive Order Numbered 12291, dated February 17, 1981, referred to in subsec. (d)(2), was formerly set out as a note under section 601 of Title 5, Government Organization and Employees, and was revoked by Ex. Ord. No. 12866, §11, Sept. 30, 1993, 58 F.R. 51735.
 

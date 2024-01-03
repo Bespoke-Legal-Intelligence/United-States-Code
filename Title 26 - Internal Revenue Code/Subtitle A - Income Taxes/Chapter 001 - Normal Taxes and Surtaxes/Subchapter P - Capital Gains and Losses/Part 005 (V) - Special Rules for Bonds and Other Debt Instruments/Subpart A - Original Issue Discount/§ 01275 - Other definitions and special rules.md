@@ -32,7 +32,7 @@ For purposes of this subpart—
 
 #### (B) Issues not publicly offered and not issued for property
 
-&emsp;&emsp;In the case of any debt instrument to which section 1273(b)(2) applies, the term"date of original issue" means the date on which the debt instrument was sold by the issuer.
+&emsp;&emsp;In the case of any debt instrument to which section 1273(b)(2) applies, the term "date of original issue" means the date on which the debt instrument was sold by the issuer.
 
 #### (C) Other debt instruments
 
@@ -122,7 +122,7 @@ The Secretary may prescribe regulations providing that where, by reason of varyi
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(1)(B)(ii). Pub. L. 106–554, in introductory provisions, substituted "subchapter L (or by an entity described in section 501(c) and exempt from tax under section 501(a) which would be subject to taxunder subchapter L were it not so exempt)" for "subchapter L".
+<b>2000</b>—Subsec. (a)(1)(B)(ii). Pub. L. 106–554, in introductory provisions, substituted "subchapter L (or by an entity described in section 501(c) and exempt from tax under section 501(a) which would be subject to tax under subchapter L were it not so exempt)" for "subchapter L".
 
 <b>1990</b>—Subsec. (a)(4), (5). Pub. L. 101–508 redesignated par. (5) as (4) and struck out former par. (4) which related to a special rule for determination of issue price in case of exchange of debt instruments in reorganization.
 

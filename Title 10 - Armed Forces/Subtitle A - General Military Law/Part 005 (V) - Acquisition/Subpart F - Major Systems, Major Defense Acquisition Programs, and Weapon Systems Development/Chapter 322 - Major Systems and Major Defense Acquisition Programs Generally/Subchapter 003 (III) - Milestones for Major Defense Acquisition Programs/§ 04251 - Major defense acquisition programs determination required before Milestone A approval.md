@@ -88,7 +88,7 @@ Definitions.—In this section:
 
 &emsp;(8) The term "congressional intelligence committees" has the meaning given that term in section 437(c) of this title.
 
-(Added Pub. L. 110–181, div. A, title IX, §943(a)(1), Jan. 28, 2008, 122 Stat. 288, §2366b; renumbered §2366a and amended Pub. L. 110–417, \[div. A\], title VIII, §813(b), (e)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(3), title II, §§201(e), 204(a), (b), May 22, 2009, 123 Stat. 1710, 1720, 1723; Pub. L. 111–383, div. A, title VIII, §814(b), title X, §1075(b)(33), Jan. 7, 2011, 124 Stat. 4266, 4370; Pub. L. 112–81, div. A, title VIII, §801(a), (e)(1), Dec. 31, 2011, 125 Stat. 1482, 1483; Pub. L. 112–239, div. A, title III, §322(e)(1), title X, §1076(a)(10), Jan. 2, 2013, 126 Stat. 1695, 1948; Pub. L. 114–92, div. A, title VIII, §823(a), Nov. 25, 2015, 129 Stat. 902; Pub. L. 114–328, div. A, title VIII, §§806(b), 807(d), 808(a), Dec. 23, 2016, 130 Stat. 2259, 2262; Pub. L. 115–232, div. A, title VIII, §831(b)(2), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title XVII, §1731(a)(44), Dec. 20, 2019, 133 Stat. 1814; renumbered §4251 and amended Pub. L. 116–283, div. A, title XVIII, §1847(d)(1), Jan. 1, 2021, 134 Stat. 4254.)
+(Added Pub. L. 110–181, div. A, title IX, §943(a)(1), Jan. 28, 2008, 122 Stat. 288, §2366b; renumbered §2366a and amended Pub. L. 110–417, \[div. A\], title VIII, §813(b), (e)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(3), title II, §§201(e), 204(a), (b), May 22, 2009, 123 Stat. 1710, 1720, 1723; Pub. L. 111–383, div. A, title VIII, §814(b), title X, §1075(b)(33), Jan. 7, 2011, 124 Stat.4266, 4370; Pub. L. 112–81, div. A, title VIII, §801(a), (e)(1), Dec. 31, 2011, 125 Stat. 1482, 1483; Pub. L. 112–239, div. A, title III, §322(e)(1), title X, §1076(a)(10), Jan. 2, 2013, 126 Stat. 1695, 1948; Pub. L. 114–92, div. A, title VIII, §823(a), Nov. 25, 2015, 129 Stat. 902; Pub. L. 114–328, div. A, title VIII, §§806(b), 807(d), 808(a), Dec. 23, 2016, 130 Stat. 2259, 2262; Pub. L. 115–232, div. A, title VIII, §831(b)(2), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title XVII, §1731(a)(44), Dec. 20, 2019, 133 Stat. 1814; renumbered §4251 and amended Pub. L. 116–283, div. A, title XVIII, §1847(d)(1), Jan. 1, 2021, 134 Stat. 4254.)
 
 #### <b>Editorial Notes</b>
 
@@ -288,7 +288,7 @@ Report.—Not later than one year after the date of the enactment of this Act, t
 
 #### Milestone A Decisions
 
-Pub. L. 114–92, div. A, title VIII, §802(d)(2), Nov. 25, 2015, 129 Stat. 880, provided that: "The Chief of the Armed Force concerned shall advise the milestone decision authority for a major defense acquisition program of the Chief's views on cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program, as provided in section 2366a(a)(2) of title 10, United States Code \[now 10 U.S.C. 4251(a)(2)\], as amended by section 823 of this Act, prior to a Milestone A decision on the program."
+Pub. L. 114–92, div. A, title VIII, §802(d)(2), Nov. 25, 2015, 129 Stat. 880, provided that: "The Chief of the Armed Force concerned shall advise the milestone decision authority for a major defense acquisition program of the Chief's views on cost, schedule, technical feasibility, and performance trade-offs that have been madewith regard to the program, as provided in section 2366a(a)(2) of title 10, United States Code \[now 10 U.S.C. 4251(a)(2)\], as amended by section 823 of this Act, prior to a Milestone A decision on the program."
 
 #### Guidance
 

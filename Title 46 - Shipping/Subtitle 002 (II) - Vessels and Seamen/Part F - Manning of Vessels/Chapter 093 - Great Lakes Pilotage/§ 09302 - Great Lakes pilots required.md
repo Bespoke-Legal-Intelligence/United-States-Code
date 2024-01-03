@@ -18,7 +18,7 @@
 
 &emsp;(2) the vessel or its cargo is in distress or jeopardy.
 
-(e) A Canadian vessel regularly operating on the Great Lakes or between ports on the Great Lakes and the Saint Lawrence River, with only an occasional voyage to ports in the maritime provinces of Canada in the Canadian coastal trade, is exempt from subsection (a) of this section as long as Canada permits enrolled vessels of the United States to be operated on Canadian waters of the Great Lakes under the direction of individuals licensed under section 7101 of this title.
+(e) A Canadian vessel regularly operating on the Great Lakes or between ports on the Great Lakes and the Saint Lawrence River, with only an occasional voyage to ports in the maritime provinces of Canada in the Canadian coastaltrade, is exempt from subsection (a) of this section as long as Canada permits enrolled vessels of the United States to be operated on Canadian waters of the Great Lakes under the direction of individuals licensed under section 7101 of this title.
 
 (f) A documented vessel regularly operating on the Great Lakes or between ports on the Great Lakes and the St. Lawrence River is exempt from the requirements of subsection (a) of this section.
 
@@ -46,7 +46,7 @@ Subsection (b) provides that a crewmember licensed for Great Lakes navigation un
 
 Subsection (c) provides for reciprocity of recognizing United States and Canadian pilots.
 
-Subsections (d) and (e) are exceptions to subsection (a). Subsection (d) permits operation of a vessel on the Great Lakes without a registered pilot if notice is given that one is not available or if the vessel or cargois in distress or jeopardy. Subsection (e) exempts a Canadian vessel in the coastwise or Great Lakes trade from the requirement of having a registered pilot if similar United States vessels are extended the same exemption by Canada.
+Subsections (d) and (e) are exceptions to subsection (a). Subsection (d) permits operation of a vessel on the Great Lakes without a registered pilot if notice is given that one is not available or if the vessel or cargo is in distress or jeopardy. Subsection (e) exempts a Canadian vessel in the coastwise or Great Lakes trade from the requirement of having a registered pilot if similar United States vessels are extended the same exemption by Canada.
 
 #### <b>Editorial Notes</b>
 

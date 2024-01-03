@@ -20,7 +20,7 @@
 
 &emsp;With respect to a farm containing generic base acres, for the purpose of applying paragraphs (1) and (2) of subsection (a), generic base acres on the farm are attributed to a covered commodity in the following manner:
 
-&emsp;&emsp;(A) If a single covered commodity is planted and the total acreage planted exceeds the generic base acres on the farm, the generic base acres are attributed to that covered commodity in an amount equal to the total number of generic base acres.
+&emsp;&emsp;(A) If a single covered commodity is planted and the total acreage planted exceeds thegeneric base acres on the farm, the generic base acres are attributed to that covered commodity in an amount equal to the total number of generic base acres.
 
 &emsp;&emsp;(B) If multiple covered commodities are planted and the total number of acres planted to all covered commodities on the farm exceeds the generic base acres on the farm, the generic base acres are attributed to each of the covered commodities on the farm on a pro rata basis to reflect the ratio of—
 
@@ -32,7 +32,7 @@
 
 #### (3) Treated as additional acreage
 
-&emsp;When generic base acres are planted to a covered commodity or acreage planted to acovered commodity is attributed to generic base acres, the generic base acres are in addition to other base acres on the farm.
+&emsp;When generic base acres are planted to a covered commodity or acreage planted to a covered commodity is attributed to generic base acres, the generic base acres are in addition to other base acres on the farm.
 
 #### (4) Seed cotton
 

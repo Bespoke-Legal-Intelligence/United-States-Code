@@ -20,7 +20,7 @@ In accordance with this section—
 
 &emsp;&emsp;(A) was executed—
 
-&emsp;&emsp;&emsp;(i) in accordance with the requirements of a tribal energy resource agreement in effect under subsection (e) (including the periodic review and evaluation of the activities of the Indian tribe under the agreement, to be conducted pursuant to subparagraphs (D) and (E) of subsection (e)(2)); or
+&emsp;&emsp;&emsp;(i) in accordance with the requirements of a tribal energy resource agreement in effect under subsection (e) (including the periodic review and evaluation of the activities of the Indian tribe under theagreement, to be conducted pursuant to subparagraphs (D) and (E) of subsection (e)(2)); or
 
 &emsp;&emsp;&emsp;(ii) by the Indian tribe and a tribal energy development organization for which the Indian tribe has obtained a certification pursuant to subsection (h); and
 
@@ -168,7 +168,7 @@ Disapproval.—The Secretary shall disapprove a tribal energy resource agreement
 
 &emsp;&emsp;(i) provisions requiring the Secretary to conduct a periodic review and evaluation to monitor the performance of the activities of the Indian tribe associated with the development of energy resources under the tribal energy resource agreement; and
 
-&emsp;&emsp;(ii) if a periodic review and evaluation, or an investigation, by the Secretary of any breach or violation described in a notice provided by the Indian tribe to the Secretary in accordance with subparagraph (B)(iv)(XI),<sup>1</sup> results in a finding by the Secretary of imminent jeopardy to a physical trust assetarising from a violation of the tribal energy resource agreement or applicable Federal laws, provisions authorizing the Secretary to take actions determined by the Secretary to be necessary to protect the asset, including reassumption of responsibility for activities associated with the development of energy resources on tribal land until the violation and any condition that caused the jeopardy are corrected.
+&emsp;&emsp;(ii) if a periodic review and evaluation, or an investigation, by the Secretary of any breach or violation described in a notice provided by the Indian tribe to the Secretary in accordance with subparagraph (B)(iv)(XI),<sup>1</sup> results in a finding by the Secretary of imminent jeopardy to a physical trust asset arising from a violation of the tribal energy resource agreement or applicable Federal laws, provisions authorizing the Secretary to take actions determined by the Secretary to be necessary to protect the asset, including reassumption of responsibility for activities associated with the development of energy resources on tribal land until the violation and any condition that caused the jeopardy are corrected.
 
 &emsp;(E) Periodic review and evaluation under subparagraph (D) shall be conducted on an annual basis, except that, after the third annual review and evaluation, the Secretary and the Indian tribe may mutually agree to amend the tribal energy resource agreement to authorize the review and evaluation under subparagraph (D) to be conducted once every 2 years.
 
@@ -378,7 +378,7 @@ Nothing in this section affects the application of—
 
 &emsp;&emsp;&emsp;(i) the tribal energy development organization is organized under the laws of the Indian tribe and subject to the jurisdiction, laws, and authority of the Indian tribe;
 
-&emsp;&emsp;&emsp;(ii) the majority of the interest in the tribal energy development organization is owned and controlled by the Indian tribe\(or the Indian tribe and one or more other Indian tribes) the tribal land of which is being developed;
+&emsp;&emsp;&emsp;(ii) the majority of the interest in the tribal energy development organization is owned and controlled by the Indian tribe (or the Indian tribe and one or more other Indian tribes) the tribal land of which is being developed;
 
 &emsp;&emsp;&emsp;(iii) the organizing document of the tribal energy development organization requires that the Indian tribe with jurisdiction over the land maintain at all times the controlling interest in the tribal energy development organization;
 
@@ -542,7 +542,7 @@ Pub. L. 115–325, title I, §103(b), Dec. 18, 2018, 132 Stat. 4454, provided th
 
 &emsp;&emsp;"(A) identify the programs, functions, services, and activities (or any portions of programs, functions, services, or activities) that the Secretary will not have to operate or carry out as a result of the Indian tribe carrying out activities under a tribal energy resource agreement;
 
-&emsp;&emsp;"(B) identify the amounts that the Secretary would have otherwise expended to operate or carry out each program, function, service, and activity (or any portion of a program, function, service, or activity) identified pursuant to subparagraph (A); and
+&emsp;&emsp;"(B) identify the amounts that the Secretary would have otherwise expended to operate or carry out each program, function, service, and activity\(or any portion of a program, function, service, or activity) identified pursuant to subparagraph (A); and
 
 &emsp;&emsp;"(C) provide to the Indian tribe a list of the programs, functions, services, and activities (or any portions of programs, functions, services, or activities) identified pursuant \[to\] subparagraph (A) and the amounts associated with each program, function, service, and activity (or any portion of a program, function, service, or activity) identified pursuant to subparagraph (B); and
 

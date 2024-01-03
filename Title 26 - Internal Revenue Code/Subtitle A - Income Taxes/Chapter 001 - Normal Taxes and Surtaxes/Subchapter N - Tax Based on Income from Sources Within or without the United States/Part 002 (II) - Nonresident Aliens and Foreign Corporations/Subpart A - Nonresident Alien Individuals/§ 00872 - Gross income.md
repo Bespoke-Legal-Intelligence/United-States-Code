@@ -90,7 +90,7 @@ Pub. L. 108–357, title IV, §419(c), Oct. 22, 2004, 118 Stat. 1513, provided t
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–296 effective with calendar quarter following Aug. 15, 1994, see section 320(c) ofPub. L. 103–296, set out as a note under section 871 of this title.
+Amendment by Pub. L. 103–296 effective with calendar quarter following Aug. 15, 1994, see section 320(c) of Pub. L. 103–296, set out as a note under section 871 of this title.
 
 #### Effective Date of 1989 Amendment
 

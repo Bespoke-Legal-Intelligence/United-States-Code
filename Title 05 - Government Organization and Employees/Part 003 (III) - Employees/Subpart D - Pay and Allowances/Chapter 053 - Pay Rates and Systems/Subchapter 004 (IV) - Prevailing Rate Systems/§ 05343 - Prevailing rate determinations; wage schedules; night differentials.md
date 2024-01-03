@@ -30,7 +30,7 @@
 
 &emsp;(1) that, subject to subsection (d) of this section, wages surveyed be those paid by private employers in the wage area for similar work performed by regular full-time employees, except that, for prevailing rate employees under paragraphs (B) and (C) of section 5342(a)(2) of this title, the wages surveyed shall be those paid by private employers to full-time employees in a representative number of retail, wholesale, service, and recreational establishments similar to those in which such prevailing rate employees are employed;
 
-&emsp;(2) for participation at all levels by representatives of organizations accorded recognition as the representatives of prevailing rate employees in every phase of providing an equitable system for fixing and adjusting the rates of pay for prevailing rate employees, including the planning of the surveys, the drafting of specifications, the selection of data collectors, the collection and the analysis of the data, and the submission of recommendations to the head of the lead agency for wage schedules and rates and for special wage schedules and rates where appropriate;
+&emsp;(2) for participation at all levels by representatives of organizations accorded recognition as the representatives of prevailing rate employees in every phase of providing an equitable system for fixing and adjusting the rates of pay for prevailing rate employees, including the planning of the surveys, the drafting of specifications, the selection of data collectors, the collection and the analysis of thedata, and the submission of recommendations to the head of the lead agency for wage schedules and rates and for special wage schedules and rates where appropriate;
 
 &emsp;(3) for requirements for the accomplishment of wage surveys and for the development of wage schedules and rates for prevailing rate employees, including, but not limited to—
 
@@ -98,7 +98,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (c)(4), i
 
 A prior section 5343, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471, related to effective date of pay increases and is covered by section 5344(a) of this title.
 
-Provisions similar to those comprising part of first sentence of subsec. (c) and subsec. (d) of this section were contained in Pub. L. 90–560, §4, Oct. 12, 1968, 82 Stat. 997 (formerly classified to section 5341(c) of this title) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
+Provisions similar to those comprising part of first sentence of subsec. (c) and subsec. (d) of this sectionwere contained in Pub. L. 90–560, §4, Oct. 12, 1968, 82 Stat. 997 (formerly classified to section 5341(c) of this title) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
 
 #### Amendments
 
@@ -164,7 +164,7 @@ Pub. L. 117–328, div. E, title VII, §737, Dec. 29, 2022, 136 Stat. 4712, prov
 
 "(2) Notwithstanding any other provision of law, no prevailing rate employee described in subparagraph (B) or (C) of section 5342(a)(2) of title 5, United States Code, and no employee covered by section 5348 of such title, may be paid during the periods for which paragraph (1) is in effect at a rate that exceeds the rates that would be payable under paragraph (1) were paragraph (1) applicable to such employee.
 
-"(3) For the purposes of this subsection, the rates payable to an employee who is covered by this subsection and who is paid from a schedule not in existence on September 30, 2022, shall be determined under regulations prescribed by the Office of Personnel Management.
+"(3) For the purposes of this subsection, the rates payable to an employee who is covered by this subsection and who is paid from a schedule not in existence on September 30, 2022, shall be determined underregulations prescribed by the Office of Personnel Management.
 
 "(4) Notwithstanding any other provision of law, rates of premium pay for employees subject to this subsection may not be changed from the rates in effect on September 30, 2022, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this subsection.
 
@@ -286,7 +286,7 @@ Wage Determinations.—Notwithstanding any other provision of law, in the admini
 
 "(b)
 
-Covered Individuals.—The individuals described in subsection (a) are electric powerplant controllers and powerplant shift operators (as defined under regulations prescribed by the Secretary of Defense) assigned to the Soo Locks Power Plant in the Detroit District in the North Central Region of the United States Army Corps of Engineers.
+Covered Individuals.—The individuals described in subsection (a) are electric powerplant controllers and powerplant shift operators (as defined under regulations prescribed by the Secretary of Defense) assigned to the Soo Locks Power Plant in the DetroitDistrict in the North Central Region of the United States Army Corps of Engineers.
 
 "(c)
 

@@ -84,7 +84,7 @@ In this section, the term "adjunct content specialist" means an individual who�
 
 &emsp;(2) has demonstrated expertise in mathematics, science, or a critical foreign language, as determined by the local educational agency; and
 
-&emsp;(3) is not the primary provider of instructional services to a student, unless the adjunct content specialist is under the direct supervision of a teacher who meets the applicableState certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title.
+&emsp;(3) is not the primary provider of instructional services to a student, unless the adjunct content specialist is under the direct supervision of a teacher who meets the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title.
 
 (Pub. L. 89–329, title II, §255, as added Pub. L. 110–315, title II, §201(3), Aug. 14, 2008, 122 Stat. 3161; amended Pub. L. 114–95, title IX, §9214(c)(10), Dec. 10, 2015, 129 Stat. 2164.)
 

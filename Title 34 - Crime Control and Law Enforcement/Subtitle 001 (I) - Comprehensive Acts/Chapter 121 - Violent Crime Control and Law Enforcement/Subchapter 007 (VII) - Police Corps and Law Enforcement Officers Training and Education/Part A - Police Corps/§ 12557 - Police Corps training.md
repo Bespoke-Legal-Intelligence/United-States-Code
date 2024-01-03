@@ -12,7 +12,7 @@
 
 #### (b) Training sessions
 
-A participant in a State Police Corps program shall attend up to 24 weeks, but no less than 16 weeks, of training at a training center. The Director may approve training conducted in not more than 3 separate sessions.
+A participant in a State Police Corps program shall attend up to 24 weeks, but no less than 16weeks, of training at a training center. The Director may approve training conducted in not more than 3 separate sessions.
 
 #### (c) Further training
 

@@ -2,11 +2,11 @@
 
 #### (a) Election of Governor
 
-In addition to basic Phase II allowance allocations, upon the election of the Governor of anyState, with a 1985 state-wide annual sulfur dioxide emissions rate equal to or less than, 0.80 lbs/mmBtu, averaged over all fossil fuel-fired utility steam generating units, beginning January 1, 2000, and for each calendar year thereafter until and including 2009, the Administrator shall allocate, in lieu of other Phase II bonus allowance allocations, allowances from the reserve created pursuant to section 7651d(a)(2) of this title to all such units in the State in an amount equal to 125,000 multiplied by the unit's pro rata share of electricity generated in calendar year 1985 at fossil fuel-fired utility steam units in all States eligible for the election.
+In addition to basic Phase II allowance allocations, upon the election of the Governor of any State, with a 1985 state-wide annual sulfur dioxide emissions rate equal to or less than, 0.80 lbs/mmBtu, averaged over all fossil fuel-fired utility steam generating units, beginning January 1, 2000, and for each calendar year thereafter until and including 2009, the Administrator shall allocate, in lieu of other Phase II bonus allowance allocations, allowances from the reserve created pursuant to section 7651d(a)(2) of this title to all such units in the State in an amount equal to 125,000 multiplied by the unit's pro rata share of electricity generated in calendar year 1985 at fossil fuel-fired utility steam units in all States eligible for the election.
 
 #### (b) Notification of Administrator
 
-Pursuant to section 7651b(a)(1) of this title, each Governor of a State eligible to make an election under paragraph <sup>1</sup> (a) shall notify the Administrator of such election. In the event that the Governor of any such State fails to notify the Administrator of the Governor's elections, the Administrator shall allocate allowances pursuant to section 7651d of this title.
+Pursuant to section 7651b(a)(1) of this title, each Governor of a State eligible to make anelection under paragraph <sup>1</sup> (a) shall notify the Administrator of such election. In the event that the Governor of any such State fails to notify the Administrator of the Governor's elections, the Administrator shall allocate allowances pursuant to section 7651d of this title.
 
 #### (c) Allowances after January 1, 2010
 

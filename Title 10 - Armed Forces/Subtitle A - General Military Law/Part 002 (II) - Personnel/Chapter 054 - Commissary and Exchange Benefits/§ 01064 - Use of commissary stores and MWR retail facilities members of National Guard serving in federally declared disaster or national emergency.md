@@ -18,7 +18,7 @@ Federally declared disaster.—The term "federally declared disaster" means a di
 
 &emsp;(2)
 
-MWR retail facilities.—The term "MWR retail facilities" has the meaning given that term in section 1063(e) of this title.
+MWR retail facilities.—The term "MWR retail facilities" has the meaning given that term in section 1063(e) <sup>1</sup> of this title.
 
 &emsp;(3)
 
@@ -27,6 +27,10 @@ National emergency.—The term "national emergency" means a national emergency d
 (Added Pub. L. 105–261, div. A, title III, §362(c), Oct. 17, 1998, 112 Stat. 1985, §1063a; amended Pub. L. 107–314, div. A, title III, §322(a), (b)(1), Dec. 2, 2002, 116 Stat. 2510; renumbered §1064 and amended Pub. L. 108–136, div. A, title VI, §651(b)(2), (3), Nov. 24, 2003, 117 Stat. 1521.)
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 1063(e) of this title, referred to in subsec. (c)(2), was redesignated section 1063(f) of this title by Pub. L. 118–31, div. A, title XVII, 1722(h)(2), Dec. 22, 2023, 137 Stat. 672.
 
 #### Prior Provisions
 
@@ -43,4 +47,6 @@ Subsec. (c)(2). Pub. L. 108–136, §651(b)(2), substituted "section 1063(e)" fo
 Subsec. (a). Pub. L. 107–314, §322(a)(1), inserted "or national emergency" after "disaster".
 
 Subsec. (c)(3). Pub. L. 107–314, §322(a)(2), added par. (3).
+
+<i><sup>1</sup></i><i> See References in text note below.</i>
 

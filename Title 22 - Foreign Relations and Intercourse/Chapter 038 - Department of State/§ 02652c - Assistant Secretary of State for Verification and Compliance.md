@@ -2,7 +2,7 @@
 
 #### (a) Designation of position
 
-The Secretary of State shall designate one of the Assistant Secretaries of State authorized bysection 2651a(c)(1) of this title as the Assistant Secretary of State for Verification and Compliance. The Assistant Secretary shall report to the Under Secretary of State for Arms Control and International Security.
+The Secretary of State shall designate one of the Assistant Secretaries of State authorized by section 2651a(c)(1) of this title as the Assistant Secretary of State for Verification and Compliance. The Assistant Secretary shall report to the Under Secretary of State for Arms Control and International Security.
 
 #### (b) Directive governing the Assistant Secretary of State
 

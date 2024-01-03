@@ -16,7 +16,7 @@
 
 #### (B) Beneficiary rebate information
 
-&emsp;&emsp;In the case of a plan required to provide a monthly rebate under subsection (b)(1)(C) fora year, the MA organization offering the plan shall submit to the Secretary, in such form and manner and at such time as the Secretary specifies, information on—
+&emsp;&emsp;In the case of a plan required to provide a monthly rebate under subsection (b)(1)(C) for a year, the MA organization offering the plan shall submit to the Secretary, in such form and manner and at such time as the Secretary specifies, information on—
 
 &emsp;&emsp;&emsp;(i) the manner in which such rebate will be provided under clause (ii) of such subsection; and
 
@@ -28,7 +28,7 @@
 
 #### (2) Information required for coordinated care plans before 2006
 
-&emsp;For a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title for a year before 2006, the information described in this paragraph is as follows:
+&emsp;For a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title for a yearbefore 2006, the information described in this paragraph is as follows:
 
 #### (A) Basic (and additional) benefits
 
@@ -102,7 +102,7 @@
 
 #### (ii) Authority to deny bids that propose significant increases in cost sharing or decreases in benefits
 
-&emsp;&emsp;&emsp;The Secretary may deny a bid submitted by an MA organization for an MA plan if itproposes significant increases in cost sharing or decreases in benefits offered under the plan.
+&emsp;&emsp;&emsp;The Secretary may deny a bid submitted by an MA organization for an MA plan if it proposes significant increases in cost sharing or decreases in benefits offered under the plan.
 
 #### (6) Submission of bid amounts by MA organizations beginning in 2006
 
@@ -378,7 +378,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (2) For supplemental benefits before 2006
 
-&emsp;For periods before 2006, if the Medicare+Choice organization provides to itsmembers enrolled under this part in a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title with respect to supplemental benefits described in section 1395w–22(a)(3) of this title, the sum of the Medicare+Choice monthly supplemental beneficiary premium (multiplied by 12) charged and the actuarial value of its deductibles, coinsurance, and copayments charged with respect to such benefits may not exceed the adjusted community rate for such benefits (as defined in subsection (f)(3)).
+&emsp;For periods before 2006, if the Medicare+Choice organization provides to its members enrolled under this part in a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title with respect to supplemental benefits described in section 1395w–22(a)(3) of this title, the sum of the Medicare+Choice monthly supplemental beneficiary premium (multiplied by 12) charged and the actuarial value of its deductibles, coinsurance, and copayments charged with respect to such benefits may not exceed the adjusted community rate for such benefits (as defined in subsection (f)(3)).
 
 #### (3) Determination on other basis
 
@@ -496,7 +496,7 @@ Denial of bid amounts.—The Secretary shall deny monthly bid amounts submitted 
 
 "(III)
 
-Refusal to accept certain bids due to misrepresentations and failures to adequately meetrequirements.—In the case where the Secretary determines that information submitted by an MA organization under subparagraph (A) contains consistent misrepresentations and failures to adequately meet requirements of the organization, the Secretary may refuse to accept any additional such bid amounts from the organization for the plan year and the Chief Actuary shall, if the Chief Actuary determines that the actuaries of the organization were complicit in those misrepresentations and failures, report those actuaries to the Actuarial Board for Counseling and Discipline."
+Refusal to accept certain bids due to misrepresentations and failures to adequately meet requirements.—In the case where the Secretary determines that information submitted by an MA organization under subparagraph (A) contains consistent misrepresentations and failures to adequately meet requirements of the organization, the Secretary may refuse to accept any additional such bid amounts from the organization for the plan year and the Chief Actuary shall, if the Chief Actuary determines that the actuaries of the organization were complicit in those misrepresentations and failures, report those actuaries to the Actuarial Board for Counseling and Discipline."
 
 > See Effective Date of 2010 Amendment note below.
 
@@ -568,7 +568,7 @@ Subsec. (b)(3), (4). Pub. L. 108–173, §222(b)(3), added pars. (3) and (4).
 
 Subsec. (c). Pub. L. 108–173, §222(g)(2), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "The Medicare+Choice monthly basic and supplemental beneficiary premium, the Medicare+Choice monthly MSA premium charged under subsection (b) of this section of a Medicare+Choice organization under this part may not vary among individuals enrolled in the plan."
 
-Subsec. (d). Pub. L. 108–173, §222(c), (g)(3), designated existing provisions as par. (1), inserted heading and", prescription drug," after "basic", and added pars. (2) to (4).
+Subsec. (d). Pub. L. 108–173, §222(c), (g)(3), designated existing provisions as par. (1), inserted heading and ", prescription drug," after "basic", and added pars. (2) to (4).
 
 Subsec. (e)(1). Pub. L. 108–173, §222(g)(4)(A), inserted "before 2006" after "benefits" in heading and substituted "For periods before 2006, in" for "In" in introductory provisions.
 

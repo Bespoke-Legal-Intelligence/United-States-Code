@@ -136,7 +136,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 &emsp;&emsp;(A) shall be designated or certified as a one-stop operator through a competitive process; and
 
-&emsp;&emsp;(B) shall be an entity (public, private, or nonprofit), or consortium of entities (including a consortium of entities that, at a minimum, includes 3 or more of the one-stop partners described in subsection (b)(1)), of demonstrated effectiveness, located in the local area, which may include—
+&emsp;&emsp;(B) shall be an entity (public, private, or nonprofit), or consortium of entities (including a consortium of entities that, at a minimum, includes 3 or more of the one-stoppartners described in subsection (b)(1)), of demonstrated effectiveness, located in the local area, which may include—
 
 &emsp;&emsp;&emsp;(i) an institution of higher education;
 
@@ -196,7 +196,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 &emsp;&emsp;&emsp;&emsp;(II) that assures individuals that information on the availability of the career services will be available regardless of where the individuals initially enter the statewide workforce development system, including information made available through an access point described in subclause (I);
 
-&emsp;&emsp;(C) may have specialized centers to address special needs, such as the needs of dislocatedworkers, youth, or key industry sectors or clusters; and
+&emsp;&emsp;(C) may have specialized centers to address special needs, such as the needs of dislocated workers, youth, or key industry sectors or clusters; and
 
 &emsp;&emsp;(D) as applicable and practicable, shall make programs, services, and activities accessible to individuals through electronic means in a manner that improves efficiency, coordination, and quality in the delivery of one-stop partner services.
 
@@ -206,7 +206,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (4) Use of common one-stop delivery system identifier
 
-&emsp;In addition to using any State or locally developed identifier, each one-stop delivery system shall include in the identification of products, programs, activities, services, facilities, and related property and materials, a common one-stop delivery system identifier. The identifier shall be developed by the Secretary, in consultation with heads of other appropriate departments and agencies, and representatives of State boards and local boards and of other stakeholders in the one-stop delivery system, not later than the beginning of the second full program year after July 22, 2014. Such common identifier may consist of a logo, phrase, or other identifier that informs users of the one-stop delivery system that such products, programs, activities, services, facilities, property, or materials are being provided through such system. Nothing in this paragraph shall be construed to prohibit one-stop partners, States, or local areas from having additional identifiers.
+&emsp;In addition to using any State or locally developed identifier, each one-stop delivery system shall include in the identification of products, programs, activities, services, facilities, and related property and materials, a common one-stop delivery system identifier. The identifier shall be developed by the Secretary, in consultation with heads of other appropriate departments and agencies, and representatives of State boards and local boards and of other stakeholders in the one-stop delivery system, not later than the beginning of the second full program year after July 22, 2014. Such common identifier may consist of a logo, phrase, or other identifier that informs users of the one-stop delivery system that such products, programs, activities, services, facilities, property, or materials are being provided through suchsystem. Nothing in this paragraph shall be construed to prohibit one-stop partners, States, or local areas from having additional identifiers.
 
 #### (f) Application to certain vocational rehabilitation programs
 
@@ -256,7 +256,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (5) Review and update
 
-&emsp;The criteria and procedures established under this subsection shall be reviewed and updated by the State board or the local board, as the case may be, as part of the biennial process for review and modification of Stateand local plans described in sections 3112(c)(2) and 3123(a) of this title.
+&emsp;The criteria and procedures established under this subsection shall be reviewed and updated by the State board or the local board, as the case may be, as part of the biennial process for review and modification of State and local plans described in sections 3112(c)(2) and 3123(a) of this title.
 
 #### (h) Funding of one-stop infrastructure
 
@@ -278,7 +278,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (B) Guidance for infrastructure funding
 
-&emsp;&emsp;In addition to carrying out the requirements relating to the State infrastructure funding mechanism described in paragraph (2), the Governor, after consultation with chief elected officials, local boards, and the State board, and consistent with the guidance and policies provided by the State board under subparagraphs (B) and (C)(i) of section 3111(d)(7) of this title, shall provide, for the use of local areas under subparagraph (A)(i)(I)—
+&emsp;&emsp;In addition to carrying out the requirements relating to the State infrastructurefunding mechanism described in paragraph (2), the Governor, after consultation with chief elected officials, local boards, and the State board, and consistent with the guidance and policies provided by the State board under subparagraphs (B) and (C)(i) of section 3111(d)(7) of this title, shall provide, for the use of local areas under subparagraph (A)(i)(I)—
 
 &emsp;&emsp;&emsp;(i) guidelines for State-administered one-stop partner programs, for determining such programs' contributions to a one-stop delivery system, based on such programs' proportionate use of such system consistent with chapter II of title 2, Code of Federal Regulations (or any corresponding similar regulation or ruling), including determining funding for the costs of infrastructure, which contributions shall be negotiated pursuant to the memorandum of understanding under subsection (c); and
 
@@ -302,7 +302,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (ii) Special rule
 
-&emsp;&emsp;&emsp;In a State in which the State constitution or a State statute places policymaking authority that is independent of the authority of the Governor in an entity or official with respect to the funds provided for adult education and literacy activities authorized under subchapter II,postsecondary career and technical education activities authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), or vocational rehabilitation services offered under a provision covered by section 3102(13)(D) of this title, the determination described in clause (i) with respect to the programs authorized under that subchapter, Act, or provision shall be made by the chief officer of the entity, or the official, with such authority in consultation with the Governor.
+&emsp;&emsp;&emsp;In a State in which the State constitution or a State statute places policymaking authority that is independent of the authority of the Governor in an entity or official with respect to the funds provided for adult education and literacy activities authorized under subchapter II, postsecondary career and technical education activities authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), or vocational rehabilitation services offered under a provision covered by section 3102(13)(D) of this title, the determination described in clause (i) with respect to the programs authorized under that subchapter, Act, or provision shall be made by the chief officer of the entity, or the official, with such authority in consultation with the Governor.
 
 #### (D) Limitations
 
@@ -322,7 +322,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (I) WIA formula programs and employment service
 
-&emsp;&emsp;&emsp;&emsp;The portion of funds required to be contributed under this paragraph from a program authorized under subpart 2 or 3, or the Wagner-Peyser Act (29 U.S.C. 49 et seq.) shall not exceed 3 percent of the amount of Federal funds provided to carry out that program in the State for a fiscal year.
+&emsp;&emsp;&emsp;&emsp;The portion of funds required to be contributed under this paragraph from aprogram authorized under subpart 2 or 3, or the Wagner-Peyser Act (29 U.S.C. 49 et seq.) shall not exceed 3 percent of the amount of Federal funds provided to carry out that program in the State for a fiscal year.
 
 #### (II) Other one-stop partners
 
@@ -370,7 +370,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (1) In general
 
-&emsp;Subject to the memorandum of understanding described in subsection (c) for the one-stop delivery system involved, in addition to the funds provided to carry out subsection (h), a portion of funds made available under Federal law authorizing the programs described in subsection (b) and administered by one-stop partners, or the noncash resources available under such programs, shall be used to pay the additional costs relating to the operation of the one-stop delivery system that are not paid from the funds provided under subsection (h), as determined in accordance with paragraph (3), to the extent not inconsistent with the Federal law involved. Such costs shall include the costs of the provision of career services described in section 3174(c)(2) of this title applicable to each program and may include common costs that are not paid from the funds provided under subsection (h).
+&emsp;Subject to the memorandum of understanding described in subsection (c) for the one-stop delivery system involved, in addition to the funds provided to carry out subsection (h), a portion of funds made available under Federal law authorizing the programs described in subsection (b) and administered by one-stop partners, or the noncash resources available under such programs, shall be used to pay the additional costs relating to the operation of the one-stop delivery system that are not paid from the funds provided undersubsection (h), as determined in accordance with paragraph (3), to the extent not inconsistent with the Federal law involved. Such costs shall include the costs of the provision of career services described in section 3174(c)(2) of this title applicable to each program and may include common costs that are not paid from the funds provided under subsection (h).
 
 #### (2) Shared services
 
@@ -402,7 +402,7 @@ Section 60532 of title 34, referred to in subsec. (b)(1)(B)(xii), was repealed b
 
 The Social Security Act, referred to in subsec. (b)(1)(B)(xiii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-This Act, referred to in subsecs. (b)(1)(C)(i) and (f)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous othersections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (b)(1)(C)(i) and (f)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The National and Community Service Act of 1990, referred to in subsec. (b)(2)(B)(vi), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 

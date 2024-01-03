@@ -38,7 +38,7 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 &emsp;&emsp;The information referred to in subparagraph (A) is the following:
 
-&emsp;&emsp;&emsp;(i) An estimate (in ranges) of the maximum amount of hazardous chemicals in each category present at the facility atany time during the preceding calendar year.
+&emsp;&emsp;&emsp;(i) An estimate (in ranges) of the maximum amount of hazardous chemicals in each category present at the facility at any time during the preceding calendar year.
 
 &emsp;&emsp;&emsp;(ii) An estimate (in ranges) of the average daily amount of hazardous chemicals in each category present at the facility during the preceding calendar year.
 
@@ -104,7 +104,7 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 #### (B) Definition
 
-&emsp;&emsp;In this paragraph, the term "affected community water system" means a community water system (as defined in section 300f(15) of this title) that receives supplies of drinking water from a source water area, delineated under section 300j–13 of this title, in which a facility that is required to prepare and submit an inventory form under subsection (a)(1) is located.
+&emsp;&emsp;In this paragraph, the term "affected community water system" means a communitywater system (as defined in section 300f(15) of this title) that receives supplies of drinking water from a source water area, delineated under section 300j–13 of this title, in which a facility that is required to prepare and submit an inventory form under subsection (a)(1) is located.
 
 #### (f) Fire department access
 

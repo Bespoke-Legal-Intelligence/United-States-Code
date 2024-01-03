@@ -26,7 +26,7 @@ Within 30 days of receiving a final project proposal, the Secretary shall provid
 
 #### (d) Criteria for approval
 
-The Secretary may approve a project under this section if the project will enhance programs for conservation of rhinoceros or tigers by assisting efforts to—
+The Secretary may approve a project under this section if the project will enhance programsfor conservation of rhinoceros or tigers by assisting efforts to—
 
 &emsp;(1) implement conservation programs;
 

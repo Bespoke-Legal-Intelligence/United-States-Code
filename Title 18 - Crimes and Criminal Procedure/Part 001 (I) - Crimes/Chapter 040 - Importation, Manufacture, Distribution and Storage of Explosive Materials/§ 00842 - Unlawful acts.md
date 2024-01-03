@@ -114,7 +114,7 @@
 
 &emsp;(A) the shipment, transportation, transfer, receipt, or possession of any plastic explosive that was imported or brought into, or manufactured in the United States prior to the date of enactment of this subsection by any person during the period beginning on that date and ending 3 years after that date of enactment; or
 
-&emsp;(B) the shipment, transportation, transfer, receipt, or possession of any plastic explosive that was imported or brought into, or manufactured in the United States prior to the date of enactment of this subsection by or on behalf of any agency of the United States performing a military or police function (including any military reserve component) or by or on behalf of the National Guard of any State, not later than 15 years after the date of entry into force of the Convention on the Marking of Plastic Explosives, with respect to the United States.
+&emsp;(B) the shipment, transportation, transfer, receipt, or possession of any plastic explosive that was imported or brought into, or manufactured in the United States prior to the date of enactment of this subsection by or on behalf of any agency of the United States performing a military or police function (including any military reserve component) or by or on behalf of the National Guard of any State, not later than 15 years after the date of entryinto force of the Convention on the Marking of Plastic Explosives, with respect to the United States.
 
 (o) It shall be unlawful for any person, other than an agency of the United States (including any military reserve component) or the National Guard of any State, possessing any plastic explosive on the date of enactment of this subsection, to fail to report to the Attorney General within 120 days after such date of enactment the quantity of such explosives possessed, the manufacturer or importer, any marks of identification on such explosives, and such other information as the Attorney General may prescribe by regulation.
 
@@ -212,7 +212,7 @@ Subsec. (i). Pub. L. 103–322, §110508, inserted "or possess" after "receive" 
 
 Subsec. (i)(3). Pub. L. 101–647, §3521(2), substituted "; or" for a period.
 
-<b>1988</b>—Subsec. (d)(5). Pub. L. 100–690, §6474(c), amended par. (5) generally. Prior to amendment, par. (5) read asfollows: "is an unlawful user of marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4721(a) of the Internal Revenue Code of 1954); or".
+<b>1988</b>—Subsec. (d)(5). Pub. L. 100–690, §6474(c), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "is an unlawful user of marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4721(a) of the Internal Revenue Code of 1954); or".
 
 Subsec. (i)(3). Pub. L. 100–690, §6474(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "who is an unlawful user of or addicted to marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or".
 

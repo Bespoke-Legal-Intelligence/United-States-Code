@@ -22,7 +22,7 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 
 #### (2) Exception for use on premises where produced
 
-&emsp;Paragraph (1) shall not apply to any use of crude oil for extracting oil or natural gas onthe premises where such crude oil was produced.
+&emsp;Paragraph (1) shall not apply to any use of crude oil for extracting oil or natural gas on the premises where such crude oil was produced.
 
 #### (c) Rate of tax
 

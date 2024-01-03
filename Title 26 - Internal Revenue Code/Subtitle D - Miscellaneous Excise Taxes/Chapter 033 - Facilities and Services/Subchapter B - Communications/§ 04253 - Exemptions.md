@@ -48,7 +48,7 @@ Under regulations provided by the Secretary, no tax shall be imposed under secti
 
 #### (1) In general
 
-&emsp;In order to claim an exemption under subsection (c), (h), (i), (j), or (k), a person shall provide to the provider of communications services a statement (in such form and manner as the Secretary may provide) certifying that such person is entitled to such exemption.
+&emsp;In order to claim an exemption under subsection (c), (h), (i), (j), or (k), a person shall provide to the provider of communications services a statement (in such form and manneras the Secretary may provide) certifying that such person is entitled to such exemption.
 
 #### (2) Duration of certificate
 
@@ -166,7 +166,7 @@ Pub. L. 86–344, §4(b), Sept. 21, 1959, 73 Stat. 619, as amended by Pub. L. 99
 
 "(1) Subject to the provisions of paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to amounts paid on or after January 1, 1959, for services rendered on or after such date.
 
-"(2) The amendment made by subsection (a) \[amending this section\] shall not apply with respect to amounts paid pursuant to bills rendered before January 1, 1959. In the case of amounts paid pursuant to bills rendered on or after such date for services for which nobill was rendered before such date, such amendment shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in effect at the time such services were rendered shall apply to the amounts paid for such services."
+"(2) The amendment made by subsection (a) \[amending this section\] shall not apply with respect to amounts paid pursuant to bills rendered before January 1, 1959. In the case of amounts paid pursuant to bills rendered on or after such date for services for which no bill was rendered before such date, such amendment shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in effect at the time such services were rendered shall apply to the amounts paid for such services."
 
 #### Effective Date of 1958 Amendment
 

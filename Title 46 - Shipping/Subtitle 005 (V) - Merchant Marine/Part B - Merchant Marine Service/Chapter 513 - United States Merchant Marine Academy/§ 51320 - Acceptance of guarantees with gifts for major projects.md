@@ -58,7 +58,7 @@ Qualified account control agreement.—The term "qualified account control agree
 
 &emsp;&emsp;(A) ensures the availability of sufficient funds or other financial resources to pay the amount guaranteed during the period of the guarantee;
 
-&emsp;&emsp;(B) provides for the perfection of a security interest in the assets of the account for the United States for the benefit of the United States Merchant Marine Academy with the highest priority available for liens and security interests under applicable law;
+&emsp;&emsp;(B) provides for the perfection of a security interest in the assets of the account forthe United States for the benefit of the United States Merchant Marine Academy with the highest priority available for liens and security interests under applicable law;
 
 &emsp;&emsp;(C) requires the donor to maintain in an account with the investment management firm assets having a total value that is not less than 130 percent of the amount guaranteed; and
 

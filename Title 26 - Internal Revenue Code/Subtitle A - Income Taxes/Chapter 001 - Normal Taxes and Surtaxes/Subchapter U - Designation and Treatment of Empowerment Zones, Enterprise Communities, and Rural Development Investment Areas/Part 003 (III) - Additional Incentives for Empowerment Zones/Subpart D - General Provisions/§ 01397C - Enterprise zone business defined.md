@@ -26,7 +26,7 @@ For purposes of this section, the term "qualified business entity" means, with r
 
 &emsp;(7) less than 5 percent of the average of the aggregate unadjusted bases of the property of such entity is attributable to collectibles (as defined in section 408(m)(2)) other than collectibles that are held primarily for sale to customers in the ordinary course of such business, and
 
-&emsp;(8) less than 5 percent of the average of the aggregate unadjusted bases of the property of such entity is attributable to nonqualified financial property.
+&emsp;(8) less than 5 percent of the average of the aggregate unadjusted bases of the property ofsuch entity is attributable to nonqualified financial property.
 
 #### (c) Qualified proprietorship
 
@@ -112,7 +112,7 @@ For purposes of this section, if—
 
 > then all the services performed by employees, all business activities, all tangible property, and all intangible property of the business entity or proprietorship that occur in or is located on the real property described in paragraphs (1) and (2) shall be treated as occurring or situated in an empowerment zone.
 
-(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 552, §1397B; amended Pub. L. 104–188, title I, §1703(m), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title IX, §956(a), Aug. 5, 1997, 111 Stat. 890; Pub. L. 106–170, title V, §532(c)(4), Dec. 17, 1999, 113 Stat. 1931; renumbered §1397C, Pub. L. 106–554, §1(a)(7) \[title I, §116(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–602; Pub. L. 115–141, div. U, title IV, §401(a)(196), Mar. 23, 2018, 132 Stat. 1193.)
+(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 552, §1397B; amended Pub. L. 104–188, title I, §1703(m), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title IX, §956(a), Aug. 5, 1997, 111 Stat. 890; Pub. L. 106–170, title V, §532(c)(4), Dec. 17, 1999, 113 Stat. 1931; renumbered §1397C, Pub. L. 106–554, §1(a)(7) \[title I, §116(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–602; Pub. L. 115–141,div. U, title IV, §401(a)(196), Mar. 23, 2018, 132 Stat. 1193.)
 
 #### <b>Editorial Notes</b>
 
@@ -168,7 +168,7 @@ In general.—The amendments made by this section \[amending this section\] shal
 
 "(2)
 
-Special rule for enterprise zone facility bonds.—For purposes of section 1394(b) of the InternalRevenue Code of 1986, the amendments made by this section shall apply to obligations issued after the date of the enactment of this Act."
+Special rule for enterprise zone facility bonds.—For purposes of section 1394(b) of the Internal Revenue Code of 1986, the amendments made by this section shall apply to obligations issued after the date of the enactment of this Act."
 
 #### Effective Date of 1996 Amendment
 

@@ -60,7 +60,7 @@ Activities authorized under this section shall be carried out with the concurren
 
 #### (e) United States-Israel Energy Center
 
-There is authorized to be appropriated to the Secretary of Energy $4,000,000 for fiscal year 2021to carry out the activities of the United States-Israel Energy Center established pursuant to section 17337(d) of title 42.
+There is authorized to be appropriated to the Secretary of Energy $4,000,000 for fiscal year 2021 to carry out the activities of the United States-Israel Energy Center established pursuant to section 17337(d) of title 42.
 
 #### (f) United States-Israel Binational Industrial Research and Development Foundation
 

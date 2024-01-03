@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—Except as otherwise provided in this section, the Secretary of a military department may not carry out a modification ofan aircraft, weapon, vessel, or other item of equipment that the Secretary plans to retire or otherwise dispose of within five years after the date on which the modification, if carried out, would be completed.
+Prohibition.—Except as otherwise provided in this section, the Secretary of a military department may not carry out a modification of an aircraft, weapon, vessel, or other item of equipment that the Secretary plans to retire or otherwise dispose of within five years after the date on which the modification, if carried out, would be completed.
 
 (b)
 

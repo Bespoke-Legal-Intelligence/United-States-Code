@@ -4,7 +4,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(1)
 
-Agency concerned.—The term "agency concerned" means a department, agency, wholly owned corporation, or instrumentality of the Federal Government.
+Agency concerned.—The term "agency concerned" means a department, agency,wholly owned corporation, or instrumentality of the Federal Government.
 
 &emsp;(2)
 

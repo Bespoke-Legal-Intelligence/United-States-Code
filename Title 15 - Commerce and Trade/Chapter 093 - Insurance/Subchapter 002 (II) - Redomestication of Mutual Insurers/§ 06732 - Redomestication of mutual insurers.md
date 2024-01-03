@@ -16,7 +16,7 @@ The certificate of authority, agents' appointments and licenses, rates, approval
 
 #### (1) In general
 
-&emsp;All outstanding insurance policies and annuities contracts of a redomesticating insurershall remain in full force and effect and need not be endorsed as to the new domicile of the insurer, unless so ordered by the State insurance regulator of a licensed State, and then only in the case of outstanding policies and contracts whose owners reside in such licensed State.
+&emsp;All outstanding insurance policies and annuities contracts of a redomesticating insurer shall remain in full force and effect and need not be endorsed as to the new domicile of the insurer, unless so ordered by the State insurance regulator of a licensed State, and then only in the case of outstanding policies and contracts whose owners reside in such licensed State.
 
 #### (2) Forms
 

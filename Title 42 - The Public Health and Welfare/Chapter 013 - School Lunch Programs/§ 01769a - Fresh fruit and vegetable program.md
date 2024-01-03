@@ -48,7 +48,7 @@ A school participating in the program shall make free fresh fruits and vegetable
 
 &emsp;&emsp;&emsp;(iv) such other information as may be requested by the Secretary; and
 
-&emsp;&emsp;(E) encourage applicants to submit a plan for implementation of the program that includes a partnership with 1 or more entities that will provide non-Federal resources (including entities representing the fruit and vegetable industry).
+&emsp;&emsp;(E) encourage applicants to submit a plan for implementation of the program that includes a partnership with 1 or more entitiesthat will provide non-Federal resources (including entities representing the fruit and vegetable industry).
 
 #### (2) Exception
 
@@ -78,7 +78,7 @@ The per-student grant provided to a school under this section shall be—
 
 #### (g) Limitation
 
-To the maximum extent practicable, each State agency shall ensure that in making the fruits and vegetables provided under this section available to students, schools offer the fruitsand vegetables separately from meals otherwise provided at the school under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
+To the maximum extent practicable, each State agency shall ensure that in making the fruits and vegetables provided under this section available to students, schools offer the fruits and vegetables separately from meals otherwise provided at the school under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
 
 #### (h) Evaluation and reports
 
@@ -168,9 +168,13 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Prior Provisions
 
-A prior section 1769a, act June 4, 1946, ch. 281, §19, formerly §21, as added Nov. 10, 1977, Pub. L. 95–166, §13, 91 Stat. 1338; renumbered §19, Oct. 18, 1986, Pub. L. 99–500,title III, §371(c)(1), 100 Stat. 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §371(c)(1), 100 Stat. 3341–372; renumbered §19, Nov. 14, 1986, Pub. L. 99–661, div. D, title V, §4501(c)(1), 100 Stat. 4080; Nov. 10, 1989, Pub. L. 101–147, title I, §108, 103 Stat. 887; Nov. 2, 1994, Pub. L. 103–448, title I, §119, 108 Stat. 4726, directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), prior to repeal by Pub. L. 104–193, title VII, §710, Aug. 22, 1996, 110 Stat. 2301.
+A prior section 1769a, act June 4, 1946, ch. 281, §19, formerly §21, as added Nov. 10, 1977, Pub. L. 95–166, §13, 91 Stat. 1338; renumbered §19, Oct. 18, 1986, Pub. L. 99–500, title III, §371(c)(1), 100 Stat. 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §371(c)(1), 100 Stat. 3341–372; renumbered §19, Nov. 14, 1986, Pub. L. 99–661, div. D, title V, §4501(c)(1), 100 Stat. 4080; Nov. 10, 1989, Pub. L. 101–147, title I, §108, 103 Stat. 887; Nov. 2, 1994, Pub. L. 103–448, title I, §119, 108 Stat. 4726, directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), prior to repeal by Pub. L. 104–193, title VII, §710, Aug. 22, 1996, 110 Stat. 2301.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date
 
@@ -210,11 +214,11 @@ Reports.—
 
 &emsp;"(1)
 
-Interim report.—Not later than January 1, 2015, the Secretary shall submit to the Committee on Education and Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation under subsection (c).
+Interim report.—Not later than January 1, 2015, the Secretary shall submit to the Committee on Education and \[the\] Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation under subsection (c).
 
 &emsp;"(2)
 
-Final report.—On completion of the pilot project, the Secretary shall submit to the Committee on Education and Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation under subsection (c).
+Final report.—On completion of the pilot project, the Secretary shall submit to the Committee on Education and \[the\] Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation under subsection (c).
 
 "(e)
 
@@ -234,7 +238,7 @@ Pub. L. 110–234, title IV, §4304(a)(2), May 22, 2008, 122 Stat. 1130, and Pub
 
 "(A)
 
-Existing secondary schools.—Section 19(d)(1)(C) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1769a(d)(1)(C)\] (as amended by paragraph (1)) may be waived by a State until July 1, 2010, for each secondary school in the State that has been awarded funding under section 18(f) of that Act (42 U.S.C. 1769(f)) for the school year beginning July 1, 2008.
+Existing secondary schools.—Section 19(d)(1)(C) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1769a(d)(1)(C)\] (as amended by paragraph (1)) may be waived by a State until July 1, 2010, for each secondary school in the State that hasbeen awarded funding under section 18(f) of that Act (42 U.S.C. 1769(f)) for the school year beginning July 1, 2008.
 
 "(B)
 

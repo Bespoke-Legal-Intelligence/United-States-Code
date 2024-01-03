@@ -1,6 +1,6 @@
 ### §2185. Estimates for improvements in grounds
 
-All changes and improvements in the Capitol grounds, including approaches to the Capitol,shall be estimated for in detail, showing what modifications are proposed and the estimate cost of the same.
+All changes and improvements in the Capitol grounds, including approaches to the Capitol, shall be estimated for in detail, showing what modifications are proposed and the estimate cost of the same.
 
 (Mar. 3, 1883, ch. 143, 22 Stat. 621.)
 

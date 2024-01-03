@@ -4,7 +4,7 @@
 
 (b) The provisions of subsection (a) are conditions precedent to the initial, and also to the further furnishing of care or treatment by the Department in a facility or hospital. The acceptance and the continued acceptance of care or treatment by any veteran (admitted as a veteran to a Department facility or hospital) shall constitute an acceptance of the provisions and conditions of this subchapter and have the effect of an assignment, effective at such person's death, of such assets in accordance with and subject to the provisions of this subchapter and regulations issued in accordance with this subchapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1259, §5220; Pub. L. 94–581, title II, §208(b), Oct. 21, 1976, 90 Stat. 2860; Pub. L. 97–258, §3(k)(9), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 99–576, title VII, §701(99),Oct. 28, 1986, 100 Stat. 3300; renumbered §8520, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(a)(3), (4), 5(c)(1), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 107–135, title II, §208(e)(9), Jan. 23, 2002, 115 Stat. 2464.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1259, §5220; Pub. L. 94–581, title II, §208(b), Oct. 21, 1976, 90 Stat. 2860; Pub. L. 97–258, §3(k)(9), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 99–576, title VII, §701(99), Oct. 28, 1986, 100 Stat. 3300; renumbered §8520, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(a)(3), (4), 5(c)(1), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 107–135, title II, §208(e)(9), Jan. 23, 2002, 115 Stat. 2464.)
 
 #### <b>Editorial Notes</b>
 

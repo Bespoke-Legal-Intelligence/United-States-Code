@@ -24,7 +24,7 @@ The Government Accountability Office, the Government Publishing Office, and the 
 
 #### (6) Enforcement of rights to public services and accommodations
 
-&emsp;The remedies and procedures set forth in section 2000e–16 of this title shall be available to any qualified person with a disability who is a visitor, guest, or patron of an instrumentality of Congress and who alleges a violation of the rights and protections under sections 12131 through 12150 of this title or section 12182 or 12183 of this title that are made applicable by this section, except that the authorities of the Equal Employment Opportunity Commission shall be exercised by the chief official of the instrumentality of the Congress.
+&emsp;The remedies and procedures set forth in section 2000e–16 of this title shall be available to any qualified person with a disability who is a visitor, guest, or patron of an instrumentality of Congress and who alleges a violation of the rights and protections under sections12131 through 12150 of this title or section 12182 or 12183 of this title that are made applicable by this section, except that the authorities of the Equal Employment Opportunity Commission shall be exercised by the chief official of the instrumentality of the Congress.
 
 #### (7) Construction
 

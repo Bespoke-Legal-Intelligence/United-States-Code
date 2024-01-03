@@ -23,7 +23,7 @@
 
 #### Amendments
 
-<b>1970</b>—Pub. L. 91–258, title II, §205(c)(5), May 21, 1970, 84 Stat. 242, substituted "Transportation by air" for"Transportation of persons by air" in item for subchapter C.
+<b>1970</b>—Pub. L. 91–258, title II, §205(c)(5), May 21, 1970, 84 Stat. 242, substituted "Transportation by air" for "Transportation of persons by air" in item for subchapter C.
 
 <b>1965</b>—Pub. L. 89–44, title III, §§301, 304, June 21, 1965, 79 Stat. 145, 148, struck out items for subchapters A and D.
 

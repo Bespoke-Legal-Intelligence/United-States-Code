@@ -24,7 +24,7 @@ Authorization of appropriations.—There is authorized to be appropriated to car
 
 (2) For the purpose of establishing the program required by paragraph (1), there are authorized to be appropriated $2,000,000 for each of fiscal years 2011 through 2015.
 
-(Pub. L. 99–570, title IV, §4216, Oct. 27, 1986, 100 Stat. 3207–146; Pub. L. 100–690, title II, §2208, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 102–573, title VII, §703(6)–(8), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(e), July 29, 2010, 124 Stat. 2290.)
+(Pub. L. 99–570, title IV, §4216, Oct. 27, 1986, 100 Stat. 3207–146; Pub. L. 100–690, title II, §2208, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 102–573, title VII, §703(6)–(8), Oct. 29, 1992, 106 Stat. 4583; Pub.L. 111–211, title II, §241(e), July 29, 2010, 124 Stat. 2290.)
 
 #### <b>Editorial Notes</b>
 

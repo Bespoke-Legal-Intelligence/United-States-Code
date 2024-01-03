@@ -88,7 +88,7 @@ Nothing in this section or the amendments made by it shall be considered to auth
 
 #### (1) In general
 
-&emsp;If the Commissioner of U.S. Customs and Border Protection determines that a claim ofpreferential tariff treatment has been made with respect to an article for which a claim described in paragraph (2) has been made, the Commissioner may make such adjustments regarding the previous customs treatment of the article as may be warranted.
+&emsp;If the Commissioner of U.S. Customs and Border Protection determines that a claim of preferential tariff treatment has been made with respect to an article for which a claim described in paragraph (2) has been made, the Commissioner may make such adjustments regarding the previous customs treatment of the article as may be warranted.
 
 #### (2) Claims described
 
@@ -114,7 +114,7 @@ The amendments made by this section, referred to in subsec. (d), mean the amendm
 
 #### Codification
 
-Subsecs. (a), (d), and (e) of former section 3333 of this title, which were transferred and redesignated as subsecs. (a), (c), and (d), respectively, of this section by Pub. L. 116–113, §501(b)(1), (2), (d)(1)–(3), were based on Pub. L. 103–182, title II, §203(a), (d), (e), Dec. 8, 1993, 107 Stat. 2086, 2092.
+Subsecs. (a), (d), and (e) of former section 3333 of this title, which were transferred and redesignated as subsecs. (a), (c), and (d), respectively, of this section byPub. L. 116–113, §501(b)(1), (2), (d)(1)–(3), were based on Pub. L. 103–182, title II, §203(a), (d), (e), Dec. 8, 1993, 107 Stat. 2086, 2092.
 
 #### Amendments
 

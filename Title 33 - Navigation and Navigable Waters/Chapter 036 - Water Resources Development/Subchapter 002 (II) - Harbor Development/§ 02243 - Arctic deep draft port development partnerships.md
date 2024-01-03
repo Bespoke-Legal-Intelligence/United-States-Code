@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may provide technical assistance to non-Federal public entities, including Indian tribes (as defined in section 5304 of title 25) and a Native village, Regional Corporation, or Village Corporation (as those terms are defined in section 1602 of title 43 <sup>1</sup>, for the development, construction, operation, and maintenance of channels, harbors, and related infrastructure associated with deep draft ports for purposes of dealing with Arctic development and security needs.
+The Secretary may provide technical assistance to non-Federal public entities, including Indian tribes (as defined in section 5304 of title 25) and a Native village, Regional Corporation, or Village Corporation (as those terms are defined in section 1602 of title 43 <sup>1</sup>, for the development, construction, operation, and maintenance of channels, harbors, and related infrastructure associated with deep draft ports for purposes ofdealing with Arctic development and security needs.
 
 #### (b) Acceptance of funds
 

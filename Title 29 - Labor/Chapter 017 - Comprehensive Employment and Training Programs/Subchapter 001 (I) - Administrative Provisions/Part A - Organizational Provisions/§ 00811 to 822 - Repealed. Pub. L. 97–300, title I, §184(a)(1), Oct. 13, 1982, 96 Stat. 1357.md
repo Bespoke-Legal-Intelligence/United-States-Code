@@ -26,7 +26,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section 815, Pub. L. 93–203, title I, §105, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1925, related to Governor's coordination and special services plan.
 
-A prior section 815, Pub. L. 93–203, title I, §105, Dec. 28, 1973, 87 Stat. 843; Pub. L. 94–444, §12(b)(1), Oct. 1, 1976, 90 Stat. 1483, related to conditions for receipt of financial assistance, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 815, Pub. L. 93–203, title I, §105, Dec. 28, 1973, 87 Stat. 843; Pub. L. 94–444, §12(b)(1), Oct. 1,1976, 90 Stat. 1483, related to conditions for receipt of financial assistance, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Provisions similar to those comprising this section were contained in former section 816 of this title prior to the general revision of Pub. L. 93–203, by Pub. L. 95–524.
 

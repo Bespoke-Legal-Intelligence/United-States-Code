@@ -16,7 +16,7 @@ All covered grants shall be subject to the following accountability provisions:
 
 #### (B) Definition
 
-&emsp;&emsp;In this paragraph, the term "unresolved audit finding" means a finding in the final audit report of the Inspector General that the audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued.
+&emsp;&emsp;In this paragraph, the term "unresolved audit finding" means a finding in the final audit report of the Inspector General thatthe audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued.
 
 #### (C) Mandatory exclusion
 
@@ -56,7 +56,7 @@ All covered grants shall be subject to the following accountability provisions:
 
 #### (B) Written approval
 
-&emsp;&emsp;Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, includingthe cost of all food and beverages, audiovisual equipment, honoraria for speakers, and any entertainment.
+&emsp;&emsp;Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food and beverages, audiovisual equipment, honoraria for speakers, and any entertainment.
 
 #### (C) Report
 

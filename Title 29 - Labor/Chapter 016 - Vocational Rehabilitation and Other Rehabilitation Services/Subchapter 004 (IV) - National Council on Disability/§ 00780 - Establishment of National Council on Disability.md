@@ -2,7 +2,7 @@
 
 #### (a) Membership; purpose
 
-(1)(A) There is established within the Federal Government a National Council on Disability\(referred to in this subchapter as the "National Council"), which, subject to subparagraph (B), shall be composed of 9 members, of which—
+(1)(A) There is established within the Federal Government a National Council on Disability (referred to in this subchapter as the "National Council"), which, subject to subparagraph (B), shall be composed of 9 members, of which—
 
 &emsp;(i) 5 shall be appointed by the President;
 
@@ -16,7 +16,7 @@
 
 (B) The National Council shall transition from 15 members (as of July 22, 2014) to 9 members as follows:
 
-&emsp;(i) On the first 4 expirations of National Council terms (after that date), replacement members shall be appointed to the National Council in the following order and manner:
+&emsp;(i) On the first 4 expirations of National Council terms (after that date), replacementmembers shall be appointed to the National Council in the following order and manner:
 
 &emsp;&emsp;(I) 1 shall be appointed by the Majority Leader of the Senate.
 

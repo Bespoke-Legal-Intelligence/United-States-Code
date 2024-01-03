@@ -36,7 +36,7 @@
 
 #### (B) Coordination with rehabilitation credit
 
-&emsp;&emsp;The energy percentage shall not apply to that portion of the basis of any propertywhich is attributable to qualified rehabilitation expenditures.
+&emsp;&emsp;The energy percentage shall not apply to that portion of the basis of any property which is attributable to qualified rehabilitation expenditures.
 
 #### (3) Energy property
 
@@ -136,7 +136,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of any facility the construction of which begins after December 31, 2017, and before January 1, 2019, 40 percent,
 
-&emsp;&emsp;&emsp;(iii) in the case of any facility the construction of which begins after December31, 2018, and before January 1, 2020, 60 percent, and
+&emsp;&emsp;&emsp;(iii) in the case of any facility the construction of which begins after December 31, 2018, and before January 1, 2020, 60 percent, and
 
 &emsp;&emsp;&emsp;(iv) in the case of any facility the construction of which begins after December 31, 2019, and before January 1, 2022, 40 percent.
 
@@ -294,7 +294,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) in the case of a facility which is designed and reasonably expected to produce qualified clean hydrogen which is described in a subparagraph (C) of such section, 2 percent, and
 
-&emsp;&emsp;&emsp;&emsp;(IV) in the case of a facility which is designed and reasonably expected to produce qualified clean hydrogen whichis described in subparagraph (D) of such section, 6 percent.
+&emsp;&emsp;&emsp;&emsp;(IV) in the case of a facility which is designed and reasonably expected to produce qualified clean hydrogen which is described in subparagraph (D) of such section, 6 percent.
 
 #### (B) Denial of production credit
 
@@ -376,7 +376,7 @@ For purposes of this section—
 
 #### (C) Stationary microturbine power plant
 
-&emsp;&emsp;The term "stationary microturbine power plant" means an integrated system comprised of a gas turbine engine, a combustor, a recuperator or regenerator, a generator or alternator, and associated balance of plant components which converts a fuel into electricity and thermal energy. Such term also includes all secondary components locatedbetween the existing infrastructure for fuel delivery and the existing infrastructure for power distribution, including equipment and controls for meeting relevant power standards, such as voltage, frequency, and power factors.
+&emsp;&emsp;The term "stationary microturbine power plant" means an integrated system comprised of a gas turbine engine, a combustor, a recuperator or regenerator, a generator or alternator, and associated balance of plant components which converts a fuel into electricity and thermal energy. Such term also includes all secondary components located between the existing infrastructure for fuel delivery and the existing infrastructure for power distribution, including equipment and controls for meeting relevant power standards, such as voltage, frequency, and power factors.
 
 #### (D) Termination
 
@@ -606,7 +606,7 @@ In the case of any property with respect to which the Secretary makes a grant un
 
 &emsp;&emsp;&emsp;(ii) in the case of a facility described in subclause (II) of paragraph (2)(A)(iii), 20 percentage points, and
 
-&emsp;&emsp;(B) the increase in the credit determined under subsection (a) by reason of this subsection for any taxable year with respect to all property which is part of such facility shall not exceed the amount which bears the same ratio to the amount of such increase (determined without regard to this subparagraph) as—
+&emsp;&emsp;(B) the increase in the credit determined under subsection (a) by reason of this subsection for any taxable year with respect to all property which is part of such facility shall not exceed the amount which bears thesame ratio to the amount of such increase (determined without regard to this subparagraph) as—
 
 &emsp;&emsp;&emsp;(i) the environmental justice solar and wind capacity limitation allocated to such facility, bears to
 
@@ -634,7 +634,7 @@ In the case of any property with respect to which the Secretary makes a grant un
 
 &emsp;&emsp;A facility shall be treated as part of a qualified low-income residential building project if—
 
-&emsp;&emsp;&emsp;(i) such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 (34 U.S.C. 12491(a)(3)), a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(22))) or such other affordable housing programs as the Secretary may provide, and
+&emsp;&emsp;&emsp;(i) such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 (34 U.S.C. 12491(a)(3)),<sup>2</sup> a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(22))) or such other affordable housing programs as the Secretary may provide, and
 
 &emsp;&emsp;&emsp;(ii) the financial benefits of the electricity produced by such facility are allocated equitably among the occupants of the dwelling units of such building.
 
@@ -692,7 +692,7 @@ In the case of any property with respect to which the Secretary makes a grant un
 
 &emsp;The Secretary shall, by regulations or other guidance, provide for recapturing the benefit of any increase in the credit allowed under subsection (a) by reason of this subsection with respect to any property which ceases to be property eligible for such increase (but which does not cease to be investment credit property within the meaning of section 50(a)). The period and percentage of such recapture shall be determined under rules similar to the rules of section 50(a). To the extent provided by the Secretary, such recapture may not apply with respect to any property if, within 12 months after the date the taxpayer becomes aware (or reasonably should have become aware) of such property ceasing to be property eligible for such increase, the eligibility of such property for such increase is restored. The preceding sentence shall not apply more than once with respect to any facility.
 
-(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 967; amended Pub. L. 88–272, title II, §203(a)(1), (3)(A), (b), (c), Feb. 26, 1964, 78 Stat. 33, 34; Pub. L. 89–800, §1 Nov. 8, 1966, 80 Stat. 1508; Pub. L. 89–809, title II, §201(a), Nov. 13, 1966, 80 Stat. 1575; Pub. L. 90–26, §§1, 2(a), 3, June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title I, §121(d)(2)(A), title IV, §401(e)(2)–(4), Dec. 30, 1969, 83 Stat. 547, 603; Pub. L. 92–178, title I, §§102(a)(2), 103, 104(a)(1), (b)–(f)(1), (g), 108(b), (c), Dec. 10, 1971, 85 Stat. 499–502, 507; Pub. L. 94–12, title III, §§301(c)(1), 302(c)(3), title VI, §604(a), Mar. 29, 1975, 89 Stat. 38, 44, 65; Pub. L. 94–455, title VIII, §§802(b)(6), 804(a), title X, §1051(h)(1), title XIX, §§1901(a)(5), (b)(11)(A), 1906(b)(13)(A), title XXI, §2112(a)(1), Oct. 4, 1976, 90 Stat. 1583, 1591, 1647, 1764, 1795, 1834, 1905; Pub. L. 95–473, §2(a)(2)(A), Oct. 17, 1978, 92 Stat. 1464; Pub. L. 95–600, title I, §141(b), title III, §§312(c)(1)–(3), 314(a), (b), 315(a)–(c), title VII, §703(a)(3), (4), Nov. 6, 1978, 92 Stat. 2791, 2826–2829, 2939; Pub. L. 95–618, title III, §301(b), (d)(1), (2), Nov. 9, 1978, 92 Stat. 3195, 3199, 3200; Pub. L. 96–222, title I, §§101(a)(7)(G), (H), (L)(i)(I)–(IV), (ii)(III)–(VI), (iii)(II), (III), (v)(II)–(V), (M)(ii), (iii), 103(a)(2)(A), (4)(B), 108(c)(6), Apr. 1, 1980, 94 Stat. 198–201, 208, 209, 228; Pub. L. 96–223, title II, §§221(b), 222(a)–(e)(1), (f)–(i), 223(a)(1), (c)(1), Apr. 2, 1980, 94 Stat. 261–266; Pub. L. 96–451, title III, §302(a), Oct. 14, 1980, 94 Stat. 1991; Pub. L. 96–605, title I, §109(a), title II, §223(a), Dec. 28, 1980, 94 Stat. 3525, 3528; Pub. L. 97–34, title II, §§211(a)(2), (c), (e)(3), (4), (h), 212(a)(3), (b), (c), (d)(2)(A), 213(a), 214(a), (b), title III, §332(b), Aug. 13, 1981, 95 Stat. 227–229, 235, 236, 239, 240, 296; Pub. L. 97–248, title II, §§205(a)(1), (4), (5)(A), 209(c), Sept. 3, 1982, 96 Stat. 427, 429, 447; Pub. L. 97–354, §§3(d), 5(a)(7), (8), Oct. 19, 1982, 96 Stat. 1689, 1692; Pub. L. 97–362, title I, §104(a), Oct. 25, 1982, 96 Stat. 1729; Pub. L. 97–424, title V, §546(a), Jan. 6, 1983, 96 Stat. 2198; Pub. L. 97–448, title I, §102(e)(2)(A), (f)(2), (3), (6), title II, §202(c), title III, §306(a)(3), Jan. 12, 1983, 96 Stat. 2371, 2372, 2396, 2400; Pub. L.98–369, div. A, title I, §§11, 31(b), (c), 111(e)(8), 113(a)(1), (b)(3), (4), 114(a), title IV, §§431(c), 474(o)(10)–(18), title VII, §§712(b), 721(x)(1), 735(c)(1), title X, §1043(a), July 18, 1984, 98 Stat. 503, 517, 518, 633, 635, 637, 638, 808, 836, 837, 946, 971, 981, 1044; Pub. L. 99–121, title I, §103(b)(5), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title II, §251(b), (c), title VII, §701(e)(4)(C), title VIII, §803(b)(2)(B), title XII, §§1272(d)(5), 1275(c)(5), title XV, §1511(c)(3), title XVIII, §§1802(a)(4)(C), (5)(B), (9)(A), (B), 1809(d)(2), (e), 1847(b)(6), 1879(j)(1), Oct. 22, 1986, 100 Stat. 2184, 2186, 2343, 2355, 2594, 2599, 2745, 2788, 2789, 2821, 2856, 2908; Pub. L. 100–647, title I, §§1002(a)(14), (16)(A), (20), (29), (30), 1013(a)(41), Nov. 10, 1988, 102 Stat. 3355–3357, 3544; Pub. L. 101–508, title XI, §§11801(c)(6)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–523, 1388–541; Pub. L. 102–227, title I, §106, Dec. 11, 1991, 105 Stat. 1687; Pub. L. 102–486, title XIX, §1916(a), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 108–357, title III, §322(d)(2)(A), (B), title VII, §710(e), Oct. 22, 2004, 118 Stat. 1475, 1557; Pub. L. 109–58, title XIII, §§1336(a)–(d), 1337(a)–(c), Aug. 8, 2005, 119 Stat. 1036–1038; Pub. L. 109–135, title IV, §412(m), (n), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title II, §207, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(8), (9), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title I, §§103(a), (c)–(e), 104(a)–(d), 105(a), Oct. 3, 2008, 122 Stat. 3811, 3813, 3814; Pub. L. 111–5, div. B, title I, §§1102(a), 1103(a), (b)(1), 1104, Feb. 17, 2009, 123 Stat. 319–321; Pub. L. 112–240, title IV, §407(b), (c)(1), Jan. 2, 2013, 126 Stat. 2341; Pub. L. 113–295, div. A, title I, §155(b), title II, §209(d), Dec. 19, 2014, 128 Stat. 4021, 4028; Pub. L. 114–113, div. P, title III, §§302(a), (b), 303(a)–(c), div. Q, title I, §187(b), Dec. 18, 2015, 129 Stat. 3038, 3039, 3074; Pub. L. 115–123, div. D, title I, §§40409(b), 40411(a)–(f), Feb. 9, 2018, 132 Stat. 150, 151; Pub. L. 115–141, div. U, title IV, §401(a)(20)–(23), (350), Mar. 23, 2018, 132 Stat. 1185, 1201; Pub. L. 116–94, div. Q, title I, §127(b), (c)(2)(B), Dec. 20, 2019, 133 Stat. 3232; Pub. L. 116–260, div. EE, title I, §§131(b), (c)(2), 132(a), (b), title II, §§203(a)–(d), 204(a), Dec. 27, 2020, 134 Stat. 3052, 3057; Pub. L. 117–169, title I, §§13101(d), (e)(2)(B), (3), 13102(a)–(f)(3), (g), (h), (j)–(m), (o), (p), 13103(a), 13204(c)(1), (2), Aug. 16, 2022, 136 Stat. 1906, 1913–1915, 1917, 1918, 1920, 1921, 1940, 1941.)
+(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 967; amended Pub. L. 88–272, title II, §203(a)(1), (3)(A), (b), (c), Feb. 26, 1964, 78 Stat. 33, 34; Pub. L. 89–800, §1 Nov. 8, 1966, 80 Stat. 1508; Pub. L. 89–809, title II, §201(a), Nov. 13, 1966, 80 Stat. 1575; Pub. L. 90–26, §§1, 2(a), 3, June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title I, §121(d)(2)(A), title IV, §401(e)(2)–(4), Dec. 30, 1969, 83 Stat. 547, 603; Pub. L. 92–178, title I, §§102(a)(2), 103, 104(a)(1), (b)–(f)(1), (g), 108(b), (c), Dec. 10, 1971, 85 Stat. 499–502, 507; Pub. L. 94–12, title III, §§301(c)(1), 302(c)(3), title VI, §604(a), Mar. 29, 1975, 89 Stat. 38, 44, 65; Pub. L. 94–455, title VIII, §§802(b)(6), 804(a), title X, §1051(h)(1), title XIX, §§1901(a)(5), (b)(11)(A), 1906(b)(13)(A), title XXI, §2112(a)(1), Oct. 4, 1976, 90 Stat. 1583, 1591, 1647, 1764, 1795, 1834, 1905; Pub. L. 95–473, §2(a)(2)(A), Oct. 17, 1978, 92 Stat. 1464; Pub. L. 95–600, title I, §141(b), title III, §§312(c)(1)–(3), 314(a), (b), 315(a)–(c), title VII, §703(a)(3), (4), Nov. 6, 1978, 92 Stat. 2791, 2826–2829, 2939; Pub. L. 95–618, title III, §301(b), (d)(1), (2), Nov. 9, 1978, 92 Stat. 3195, 3199, 3200; Pub. L. 96–222, title I, §§101(a)(7)(G), (H), (L)(i)(I)–(IV), (ii)(III)–(VI), (iii)(II), (III), (v)(II)–(V), (M)(ii), (iii), 103(a)(2)(A), (4)(B), 108(c)(6), Apr. 1, 1980, 94 Stat. 198–201, 208, 209, 228; Pub. L. 96–223, title II, §§221(b), 222(a)–(e)(1), (f)–(i), 223(a)(1), (c)(1), Apr. 2, 1980, 94 Stat. 261–266; Pub. L. 96–451, title III, §302(a), Oct. 14, 1980, 94 Stat. 1991; Pub. L. 96–605, title I, §109(a), title II, §223(a), Dec. 28, 1980, 94 Stat. 3525, 3528; Pub. L. 97–34, title II, §§211(a)(2), (c), (e)(3), (4), (h), 212(a)(3), (b), (c), (d)(2)(A), 213(a), 214(a), (b), title III, §332(b), Aug. 13, 1981, 95 Stat. 227–229, 235, 236, 239, 240, 296; Pub. L. 97–248, title II, §§205(a)(1), (4), (5)(A), 209(c), Sept. 3, 1982, 96 Stat. 427, 429, 447; Pub. L. 97–354, §§3(d), 5(a)(7), (8), Oct. 19, 1982, 96 Stat. 1689, 1692; Pub. L. 97–362, title I, §104(a), Oct. 25, 1982, 96 Stat. 1729; Pub. L. 97–424, title V, §546(a), Jan. 6, 1983, 96 Stat. 2198; Pub. L. 97–448, title I, §102(e)(2)(A), (f)(2), (3), (6), title II, §202(c), title III, §306(a)(3), Jan. 12, 1983, 96 Stat. 2371, 2372, 2396, 2400; Pub. L. 98–369, div. A, title I, §§11, 31(b), (c), 111(e)(8), 113(a)(1), (b)(3), (4), 114(a), title IV, §§431(c), 474(o)(10)–(18), title VII, §§712(b), 721(x)(1), 735(c)(1), title X, §1043(a), July 18, 1984, 98 Stat. 503, 517, 518, 633, 635, 637, 638, 808, 836, 837, 946, 971, 981, 1044; Pub. L. 99–121, title I, §103(b)(5), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title II, §251(b), (c), title VII, §701(e)(4)(C), title VIII, §803(b)(2)(B), title XII, §§1272(d)(5), 1275(c)(5), title XV, §1511(c)(3), title XVIII, §§1802(a)(4)(C), (5)(B), (9)(A), (B), 1809(d)(2), (e), 1847(b)(6), 1879(j)(1), Oct. 22, 1986, 100 Stat. 2184, 2186, 2343, 2355, 2594, 2599, 2745, 2788, 2789, 2821, 2856, 2908; Pub. L. 100–647, title I, §§1002(a)(14), (16)(A), (20), (29), (30), 1013(a)(41), Nov. 10, 1988, 102 Stat. 3355–3357, 3544; Pub. L. 101–508, title XI, §§11801(c)(6)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–523, 1388–541; Pub. L. 102–227, title I, §106, Dec. 11, 1991, 105 Stat. 1687; Pub. L. 102–486, title XIX, §1916(a), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 108–357, title III, §322(d)(2)(A), (B), title VII, §710(e), Oct. 22, 2004, 118 Stat. 1475, 1557; Pub. L. 109–58, title XIII, §§1336(a)–(d), 1337(a)–(c), Aug. 8, 2005, 119 Stat. 1036–1038; Pub. L. 109–135, title IV, §412(m), (n), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title II, §207, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(8), (9), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title I, §§103(a), (c)–(e), 104(a)–(d), 105(a), Oct. 3, 2008, 122 Stat. 3811, 3813, 3814; Pub. L. 111–5, div. B, title I, §§1102(a), 1103(a), (b)(1), 1104, Feb. 17, 2009, 123 Stat. 319–321; Pub. L. 112–240, title IV, §407(b), (c)(1), Jan. 2, 2013, 126 Stat. 2341; Pub. L. 113–295, div. A, title I, §155(b), title II, §209(d), Dec. 19, 2014, 128 Stat. 4021, 4028; Pub. L. 114–113, div. P, title III, §§302(a), (b), 303(a)–(c), div. Q, title I, §187(b), Dec. 18, 2015, 129 Stat. 3038, 3039, 3074; Pub. L. 115–123, div. D, title I, §§40409(b), 40411(a)–(f), Feb. 9, 2018, 132 Stat. 150, 151; Pub. L. 115–141, div. U, title IV, §401(a)(20)–(23), (350), Mar. 23, 2018, 132 Stat. 1185, 1201; Pub. L. 116–94, div. Q, title I, §127(b), (c)(2)(B), Dec. 20, 2019, 133 Stat. 3232; Pub. L. 116–260, div. EE, title I, §§131(b), (c)(2), 132(a), (b), title II, §§203(a)–(d), 204(a), Dec. 27, 2020, 134 Stat. 3052, 3057; Pub. L. 117–169, title I, §§13101(d), (e)(2)(B), (3), 13102(a)–(f)(3), (g), (h), (j)–(m), (o), (p), 13103(a), 13204(c)(1), (2), Aug. 16, 2022, 136 Stat. 1906, 1913–1915, 1917, 1918, 1920, 1921, 1940, 1941.)
 
 #### <b>Editorial Notes</b>
 
@@ -706,7 +706,7 @@ The date of enactment of this paragraph, referred to in subsec. (c)(7)(A)(i), is
 
 Section 1603 of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (d), is section 1603 of Pub. L. 111–5, which is set out as a note below.
 
-The Housing Act of 1949, referred to in subsec. (e)(2)(B)(i), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (e)(2)(B)(i), is act July 15, 1949, ch. 338, 63 Stat. 413. TitleV of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (e)(4)(A), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
@@ -992,7 +992,7 @@ Definitions.—For purposes of this subpart, the terms 'amortizable basis' and '
 
 <b>1992</b>—Subsec. (a)(2). Pub. L. 102–486 substituted "The" for "Except as provided in subparagraph (B), the" in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "(B)
 
-Termination.—Effective with respect to periods after June 30, 1992, the energy percentage is zero. For purposes of the preceding sentence, rules similar to the rules of section 48(m) (as in effect on the day before the date ofthe enactment of the Revenue Reconciliation Act of 1990) shall apply."
+Termination.—Effective with respect to periods after June 30, 1992, the energy percentage is zero. For purposes of the preceding sentence, rules similar to the rules of section 48(m) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply."
 
 <b>1991</b>—Subsec. (a)(2)(B). Pub. L. 102–227 substituted "June 30, 1992" for "December 31, 1991".
 
@@ -1100,7 +1100,7 @@ Subsec. (k)(5)(D)(i). Pub. L. 98–369, §721(x)(1), substituted "S corporation"
 
 Subsec. (l)(1). Pub. L. 98–369, §474(o)(13), substituted "section 46(b)(2)" for "section 46(a)(2)(C)".
 
-Subsec. (l)(16)(B)(i). Pub. L. 98–369, §735(c)(1), substituted "the chassis of which is an automobile bus chassis and the body of which is an automobile bus body" for "the chassis and body of which is exempt under section 4063(a)(6) from the tax imposed by section 4061(a)".
+Subsec. (l)(16)(B)(i). Pub. L. 98–369, §735(c)(1), substituted "the chassis of which is an automobile buschassis and the body of which is an automobile bus body" for "the chassis and body of which is exempt under section 4063(a)(6) from the tax imposed by section 4061(a)".
 
 Subsec. (m). Pub. L. 98–369, §474(o)(14), substituted "subsection (b)" for "subsection (a)(2)".
 
@@ -1138,7 +1138,7 @@ Subsec. (l)(5)(M), (N). Pub. L. 97–424, §546(a)(1), (2), added subpar. (M) an
 
 Subsec. (q)(3). Pub. L. 97–448, §306(a)(3), substituted "paragraphs (1) and (2) of this subsection and paragraph (5) of subsection (d)" for "paragraphs (1) and (2)".
 
-<b>1982</b>—Subsec. (b). Pub. L. 97–248, §209(c), inserted provision that for purposes of determining whether section 38 property subject to a lease is new section 38 property, such property shall be treated as originally placed in service not earlier than the date such property is used under the lease, but only if such property is leasedwithin 3 months after such property is placed in service.
+<b>1982</b>—Subsec. (b). Pub. L. 97–248, §209(c), inserted provision that for purposes of determining whether section 38 property subject to a lease is new section 38 property, such property shall be treated as originally placed in service not earlier than the date such property is used under the lease, but only if such property is leased within 3 months after such property is placed in service.
 
 Subsec. (c)(2)(D). Pub. L. 97–354 substituted "Partnerships and S corporations" for "Partnerships" in subpar. heading, and inserted "A similar rule shall apply in the case of an S corporation and its shareholders".
 
@@ -1302,7 +1302,7 @@ Subsec. (a)(3)(C). Pub. L. 92–178, §104(b), added subpar. (C).
 
 Subsec. (a)(5). Pub. L. 92–178, §104(c)(1), inserted "(other than the International Telecommunications Satellite Consortium or any successor organization)" after "international organization".
 
-Subsec. (a)(6). Pub. L. 92–178, §104(e), substituted provisions for treatment of livestock (other than horses) acquired by the taxpayer as section 38 property, with exception provision for reduction of acquisition cost byamount equal to amount realized on sale or other disposition under certain circumstances, and for nontreatment of horses as section 38 property for former provision that livestock shall not be treated as section 38 property.
+Subsec. (a)(6). Pub. L. 92–178, §104(e), substituted provisions for treatment of livestock (other than horses) acquired by the taxpayer as section 38 property, with exception provision for reduction of acquisition cost by amount equal to amount realized on sale or other disposition under certain circumstances, and for nontreatment of horses as section 38 property for former provision that livestock shall not be treated as section 38 property.
 
 Subsec. (a)(7) to (9). Pub. L. 92–178, §§103, 104(f)(1), (g), added pars. (7) to (9), respectively.
 
@@ -1424,7 +1424,7 @@ Combined heat and power and fuel cell property.—The amendments made by subsect
 
 "(4)
 
-Public utility property.—The amendments made by subsection (e) \[amending this section\] shall apply to periods after February 13, 2008, in taxable years ending after such date, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)."
+Public utility property.—The amendments made by subsection (e) \[amending this section\] shallapply to periods after February 13, 2008, in taxable years ending after such date, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)."
 
 Pub. L. 110–343, div. B, title I, §104(e), Oct. 3, 2008, 122 Stat. 3814, provided that: "The amendments made by this section \[amending this section\] shall apply to periods after the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990 \[Nov. 5, 1990\])."
 
@@ -1514,7 +1514,7 @@ Amendment by section 712(b) of Pub. L. 98–369 effective as if included in the 
 
 Amendment by section 721(x)(1) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
-Amendment by section 735(c)(1) of Pub. L. 98–369 effective, except as otherwise provided, as if included inthe provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
+Amendment by section 735(c)(1) of Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 
 Pub. L. 98–369, div. A, title X, §1043(b), July 18, 1984, 98 Stat. 1044, provided that: "The amendments made by this section \[amending this section\] shall apply to expenditures incurred after December 31, 1983, in taxable years ending after such date."
 
@@ -1544,7 +1544,7 @@ Pub. L. 97–34, title II, §214(c), Aug. 13, 1981, 95 Stat. 241, provided that:
 
 Pub. L. 97–34, title III, §332(c)(2), Aug. 13, 1981, 95 Stat. 296, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply to qualified investments made after December 31, 1981."
 
-Amendment by section 211(a)(2), (e)(3), (4) of Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, see section 211(i)(1) of Pub. L. 97–34, set out as a note under section 46 of this title.
+Amendment by section 211(a)(2), (e)(3), (4) of Pub. L. 97–34 applicable to property placed in service after Dec.31, 1980, see section 211(i)(1) of Pub. L. 97–34, set out as a note under section 46 of this title.
 
 Amendment by section 211(c) of Pub. L. 97–34 applicable to periods after Dec. 31, 1980, under rules similar to the rules under subsec. (m) of this section, see section 211(i)(3) of Pub. L. 97–34, set out as a note under section 46 of this title.
 
@@ -1598,7 +1598,7 @@ Earlier application for certain property.—In the case of property which is—
 
 Expanded energy credit property.—For purposes of subparagraph (B), the term 'expanded energy credit property' means—
 
-&emsp;"(i) property to which section 48(l)(3)(A) of such Code applies because of the amendments made byparagraphs (1) and (2) of section 222(b) \[amending this section\],
+&emsp;"(i) property to which section 48(l)(3)(A) of such Code applies because of the amendments made by paragraphs (1) and (2) of section 222(b) \[amending this section\],
 
 &emsp;"(ii) property described in section 48(l)(4)(C) of such Code (relating to solar process heat),
 
@@ -1872,7 +1872,7 @@ General rule for determining useful life, predominant foreign use, etc.—In the
 
 &emsp;&emsp;"(A) the applicable percentage under section 46(c)(2) of such Code shall be determined as if the useful life of the film would have expired at the close of the first taxable year by the close of which the aggregate amount allowable as a deduction under section 167 of such Code would equal or exceed 90 percent of the basis of such property (adjusted for any partial dispositions),
 
-&emsp;&emsp;"(B) for purposes of section 46(c)(1) of such Code, the basis of the property shall be determined bytaking into account the total production costs (within the meaning of section 48(k)(5)(B) of such Code),
+&emsp;&emsp;"(B) for purposes of section 46(c)(1) of such Code, the basis of the property shall be determined by taking into account the total production costs (within the meaning of section 48(k)(5)(B) of such Code),
 
 &emsp;&emsp;"(C) for purposes of section 48(a)(2) of such Code, such film shall be considered to be used predominantly outside the United States in the first taxable year for which 50 percent or more of the gross revenues received or accrued during the taxable year from showing the film were received or accrued from showing the film outside the United States, and
 
@@ -1949,4 +1949,6 @@ Pub. L. 88–272, title II, §203(a)(2), Feb. 26, 1964, 78 Stat. 33, as amended 
 "(C) The adjustments under this paragraph shall be made as of the first day of the taxpayer's first taxable year which begins after December 31, 1963."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 

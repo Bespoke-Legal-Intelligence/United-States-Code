@@ -68,7 +68,31 @@ Immediate enactment.—Sections 207, 214, and 215 \[set out in a note under sect
 
 #### Federal Data Center Consolidation Initiative
 
-Pub. L. 113–291, div. A, title VIII, §834, Dec. 19, 2014, 128 Stat. 3444, as amended by Pub. L. 115–88, §4, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, §819(c), Dec. 12, 2017, 131 Stat. 1464; Pub. L. 116–92, div. A, title VIII, §824, Dec. 20, 2019, 133 Stat. 1491, provided that:
+Pub. L. 118–31, div. E, title LIII, §5302(a), Dec. 22, 2023, 137 Stat. 940, provided that:
+
+"(a)
+
+Findings.—Congress finds the following:
+
+&emsp;"(1) The statutory authorization for the Federal Data Center Optimization Initiative under section 834 of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 (44 U.S.C. 3601 note; Public Law 113–291) \[set out below\] expired at the end of fiscal year 2022.
+
+&emsp;"(2) The expiration of the authorization described in paragraph (1) presents Congress with an opportunity to review the objectives of the Federal Data Center Optimization Initiative to ensure that the initiative is meeting the current needs of the Federal Government.
+
+&emsp;"(3) The initial focus of the Federal Data Center Optimization Initiative, which was to consolidate data centers and create new efficiencies, has resulted in, since 2010—
+
+&emsp;&emsp;"(A) the consolidation of more than 6,000 Federal data centers; and
+
+&emsp;&emsp;"(B) cost savings and avoidance of $5,800,000,000.
+
+&emsp;"(4) The need of the Federal Government for access to data and data processing systems has evolved since the date of enactment in 2014 of subtitle D of title VIII of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 \[Pub. L. 113–291, approved Dec. 19, 2014\].
+
+&emsp;"(5) Federal agencies and employees involved in mission critical functions increasingly need reliable access to secure, reliable, and protected facilities to house mission critical data and data operations to meet the immediate needs of the people of the United States.
+
+&emsp;"(6) As of the date of enactment of this title \[Dec. 22, 2023\], there is a growing need for Federal agencies to use data centers and cloud applications that meet high standards for cybersecurity, resiliency, and availability."
+
+Pub. L. 118–31, div. E, title LIII, §5302(d), Dec. 22, 2023, 137 Stat. 943, provided that: "Not later than 1 year after the date of the enactment of this title \[Dec. 22, 2023\], and annually thereafter, the Comptroller General of the United States shall review, verify, and audit the compliance of covered agencies with the minimum requirements established pursuant to section 834(b)(1) of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 (44 U.S.C. 3601 note; Public Law 113–291) \[set out below\] fornew data centers and subsection (b)(3) of that section for existing data centers, as appropriate."
+
+Pub. L. 113–291, div. A, title VIII, §834, Dec. 19, 2014, 128 Stat. 3444, as amended by Pub. L. 115–88, §4, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, §819(c), Dec. 12, 2017, 131 Stat. 1464; Pub. L. 116–92, div. A, title VIII, §824, Dec. 20, 2019, 133 Stat. 1491; Pub. L. 118–31, div. E, title LIII, §5302(b), (c), Dec. 22, 2023, 137 Stat. 941, 943, provided that:
 
 "(a)
 
@@ -132,159 +156,101 @@ Covered agency.—The term 'covered agency' means the following (including all a
 
 &emsp;"(3)
 
-FDCCI.—The term 'FDCCI' means the Federal Data Center Consolidation Initiative described in the Office of Management and Budget Memorandum on the Federal Data Center Consolidation Initiative, dated February 26, 2010, or any successor thereto.
+New data center.—The term 'new data center' means—
 
-&emsp;"(4)
+&emsp;&emsp;"(A)(i) a data center or a portion thereof that is owned, operated, or maintained by a covered agency; or
 
-Government-wide data center consolidation and optimization metrics.—The term 'Government-wide data center consolidation and optimization metrics' means the metrics established by the Administrator under subsection (b)(2)(G).
+&emsp;&emsp;"(ii) to the extent practicable, a data center or portion thereof—
+
+&emsp;&emsp;&emsp;"(I) that is owned, operated, or maintained by a contractor on behalf of a covered agency on the date on which the contract between the covered agency and the contractor expires; and
+
+&emsp;&emsp;&emsp;"(II) with respect to which the covered agency extends the contract, or enters into a new contract, with the contractor; and
+
+&emsp;&emsp;"(B) on or after the date that is 180 days after the date of enactment of the Federal Data Center Enhancement Act of 2023 \[title LIII of div. E of Pub. L. 118–31, approved Dec. 22, 2023\], a data center or portion thereof that is—
+
+&emsp;&emsp;&emsp;"(i) established; or
+
+&emsp;&emsp;&emsp;"(ii) substantially upgraded or expanded.
 
 "(b)
 
-Federal Data Center Consolidation Inventories and Strategies.—
+Minimum Requirements for New Data Centers.—
 
 &emsp;"(1)
 
-In general.—
-
-&emsp;&emsp;"(A)
-
-Annual reporting.—Except as provided in subparagraph (C), each year, beginning in the first fiscal year after the date of the enactment of this Act \[Dec. 19, 2014\] and each fiscal year thereafter, the head of each covered agency, assisted by the Chief Information Officer of the agency, shall submit to the Administrator—
-
-&emsp;&emsp;&emsp;"(i) a comprehensive inventory of the data centers owned, operated, or maintained by or on behalf of the agency; and
-
-&emsp;&emsp;&emsp;"(ii) a multi-year strategy to achieve the consolidation and optimization of the data centers inventoried under clause (i), that includes—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) performance metrics—
-
-&emsp;&emsp;&emsp;"(aa) that are consistent with the Government-wide data center consolidation and optimization metrics; and
-
-&emsp;&emsp;&emsp;"(bb) by which the quantitative and qualitative progress of the agency toward the goals of the FDCCI can be measured;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) a timeline for agency activities to be completed under the FDCCI, with an emphasison benchmarks the agency can achieve by specific dates;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) year-by-year calculations of investment and cost savings for the period beginning on the date of the enactment of this Act and ending on the date set forth in subsection (e), broken down by each year, including a description of any initial costs for data center consolidation and optimization and life cycle cost savings and other improvements, with an emphasis on—
-
-&emsp;&emsp;&emsp;"(aa) meeting the Government-wide data center consolidation and optimization metrics; and
-
-&emsp;&emsp;&emsp;"(bb) demonstrating the amount of agency-specific cost savings each fiscal year achieved through the FDCCI; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) any additional information required by the Administrator.
-
-&emsp;&emsp;"(B)
-
-Use of other reporting structures.—The Administrator may require a covered agency to include the information required to be submitted under this subsection through reporting structures determined by the Administrator to be appropriate.
-
-&emsp;&emsp;"(C)
-
-Department of defense reporting.—For any year that the Department of Defense is required to submit a performance plan for reduction of resources required for data servers and centers, as required under section 2867(b) of the National Defense Authorization Act for Fiscal Year 2012 \[Pub. L. 112–81\] (10 U.S.C. 2223a note), the Department of Defense—
-
-&emsp;&emsp;&emsp;"(i) may submit to the Administrator, in lieu of the multi-year strategy required under subparagraph (A)(ii)—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the defense-wide plan required under section 2867(b)(2) of the National Defense Authorization Act for Fiscal Year 2012 (10 U.S.C. 2223a note); and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the report on cost savings required under section 2867(d) of the National Defense Authorization Act for Fiscal Year 2012 (10 U.S.C. 2223a note); and
-
-&emsp;&emsp;&emsp;"(ii) shall submit the comprehensive inventory required under subparagraph (A)(i), unless the defense-wide plan required under section 2867(b)(2) of the National Defense Authorization Act for Fiscal Year 2012 (10 U.S.C. 2223a note)—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) contains a comparable comprehensive inventory; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) is submitted under clause (i).
-
-&emsp;&emsp;"(D)
-
-Statement.—Each year, beginning in the first fiscal year after the date of the enactment of this Act and each fiscal year thereafter, the head of each covered agency, acting through the Chief Information Officer of the agency, shall—
-
-&emsp;&emsp;&emsp;"(i)(I) submit a statement to the Administrator stating whether the agency has complied with the requirements of this section; and
-
-&emsp;&emsp;&emsp;"(II) make the statement submitted under subclause (I) publicly available; and
-
-&emsp;&emsp;&emsp;"(ii) if the agency has not complied with the requirements of this section, submit a statement to the Administrator explaining the reasons for not complying with such requirements.
-
-&emsp;&emsp;"(E)
-
-Agency implementation of strategies.—
-
-&emsp;&emsp;&emsp;"(i)
-
-In general.—Each covered agency, under the direction of the Chief Information Officer of the agency, shall—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) implement the strategy required under subparagraph (A)(ii); and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) provide updates to the Administrator, on a quarterly basis, of—
-
-&emsp;&emsp;&emsp;"(aa) the completion of activities by the agency under the FDCCI;
-
-&emsp;&emsp;&emsp;"(bb) any progress of the agency towards meeting the Government-wide data center consolidation and optimization metrics; and
-
-&emsp;&emsp;&emsp;"(cc) the actual cost savings and other improvements realized through the implementation of the strategy of the agency.
-
-&emsp;&emsp;&emsp;"(ii)
-
-Department of defense.—For purposes of clause (i)(I), implementation of the defense-wide plan required under section 2867(b)(2) of the National Defense Authorization Act for Fiscal Year 2012 \[Pub. L. 112–81\] (10 U.S.C. 2223a note) by the Department of Defense shall be considered implementation of the strategy required under subparagraph (A)(ii).
-
-&emsp;&emsp;"(F)
-
-Rule of construction.—Nothing in this section shall be construed to limit the reporting of information by a covered agency to the Administrator, the Director of the Office of Management and Budget, or Congress.
+In general.—Not later than 180 days after the date of enactment of the Federal Data Center Enhancement Act of 2023 \[title LIII of div. E of Pub. L. 118–31, approved Dec. 22, 2023\], the Administrator shall establish minimum requirements for new data centers in consultation with the Administrator of General Services and the Federal Chief Information Officers Council.
 
 &emsp;"(2)
 
-Administrator responsibilities.—The Administrator shall—
+Contents.—
 
-&emsp;&emsp;"(A) establish the deadline, on an annual basis, for covered agencies to submit information under this section;
+&emsp;&emsp;"(A)
 
-&emsp;&emsp;"(B) establish a list of requirements that the covered agencies must meet to be considered in compliance with paragraph (1);
+In general.—The minimum requirements established under paragraph (1) shall include requirements relating to—
 
-&emsp;&emsp;"(C) ensure that information relating to agency progress towards meeting the Government-wide data center consolidation and optimization metrics is made available in a timely manner to the general public;
+&emsp;&emsp;&emsp;"(i) the availability of new data centers;
 
-&emsp;&emsp;"(D) review the inventories and strategies submitted under paragraph (1) to determine whether they are comprehensive and complete;
+&emsp;&emsp;&emsp;"(ii) the use of new data centers, including costs related to the facility, energy consumption, and related infrastructure;
 
-&emsp;&emsp;"(E) monitor the implementation of the data center strategy of each covered agency that is required under paragraph (1)(A)(ii);
+&emsp;&emsp;&emsp;"(iii) uptime percentage;
 
-&emsp;&emsp;"(F) update, on an annual basis, the cumulative cost savings realized through the implementation of the FDCCI; and
+&emsp;&emsp;&emsp;"(iv) protections against power failures, including on-site energy generation and access to multiple transmission paths;
 
-&emsp;&emsp;"(G) establish metrics applicable to the consolidation and optimization of data centers Government-wide, including metrics with respect to—
+&emsp;&emsp;&emsp;"(v) protections against physical intrusions and natural disasters;
 
-&emsp;&emsp;&emsp;"(i) costs;
+&emsp;&emsp;&emsp;"(vi) information security protections required by subchapter II of chapter 35 of title 44, United States Code, and other applicable law and policy; and
 
-&emsp;&emsp;&emsp;"(ii) efficiencies, including, at a minimum, server efficiency; and
+&emsp;&emsp;&emsp;"(vii) any other requirements the Administrator determines appropriate.
 
-&emsp;&emsp;&emsp;"(iii) any other factors the Administrator considers appropriate.
+&emsp;&emsp;"(B)
+
+Consultation.—In establishing the requirements described in subparagraph (A)(vi), the Administrator shall consult with the Director of the Cybersecurity and Infrastructure Security Agency and the National Cyber Director.
 
 &emsp;"(3)
 
-Cost saving goal and updates for congress.—
-
-&emsp;&emsp;"(A)
-
-In general.—Not later than one year after the date of the enactment of this Act, the Administrator shall develop, and make publicly available, a goal, broken down by year, for the amount of planned cost savings and optimization improvements achieved through the FDCCI during the period beginning on the date of the enactment of this Act and ending on the date set forth in subsection (e).
-
-&emsp;&emsp;"(B)
-
-Annual update.—
-
-&emsp;&emsp;&emsp;"(i)
-
-In general.—Not later than one year after the date on which the goal described in subparagraph (A) is made publicly available, and each year thereafter, the Administrator shall aggregate the reported cost savings of each covered agency and optimization improvements achieved to date through the FDCCI and compare the savings to the projected cost savings and optimization improvements developed under subparagraph (A).
-
-&emsp;&emsp;&emsp;"(ii)
-
-Update for congress.—The goal required to be developed under subparagraph (A) shall be submitted to Congress and shall be accompanied by a statement describing—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the extent to which each covered agency has developed and submitted a comprehensive inventory under paragraph (1)(A)(i), including an analysis of the inventory that details specific numbers, use, and efficiency level of data centers in each inventory; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the extent to which each covered agency has submitted a comprehensive strategy that addresses the items listed in paragraph (1)(A)(ii).
+Incorporation of minimum requirements into current data centers.—As soon as practicable, and in any case not later than 90 days after the Administrator establishes the minimum requirements pursuant to paragraph (1), the Administrator shall issue guidance to ensure, as appropriate, that covered agencies incorporate the minimum requirements established under that paragraph into the operations of any data center of a covered agency existing as of the date of enactment of the Federal Data Center Enhancement Act of 2023.
 
 &emsp;"(4)
 
-GAO review.—
+Review of requirements.—The Administrator, in consultation with the Administrator of General Services and the Federal Chief Information Officers Council, shall review, update, and modify the minimum requirements established under paragraph (1), as necessary.
+
+&emsp;"(5)
+
+Report on new data centers.—During the development and planning lifecycle of a new data center, if the head of a covered agency determines that the covered agency is likely to make a management or financial decision relating to any data center, the head of the covered agency shall—
+
+&emsp;&emsp;"(A) notify—
+
+&emsp;&emsp;&emsp;"(i) the Administrator;
+
+&emsp;&emsp;&emsp;"(ii) \[the\] Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+&emsp;&emsp;&emsp;"(iii) \[the\] Committee on Oversight and Accountability of the House of Representatives; and
+
+&emsp;&emsp;"(B) describe in the notification with sufficient detail how the covered agency intends to comply with the minimum requirements established under paragraph (1).
+
+&emsp;"(6)
+
+Use of technology.—In determining whether to establish or continue to operate an existing data center, the head of a covered agency shall—
+
+&emsp;&emsp;"(A) regularly assess the application portfolio of the covered agency and ensure that each at-risk legacy application is updated, replaced, or modernized, as appropriate, to take advantage of modern technologies; and
+
+&emsp;&emsp;"(B) prioritize and, to the greatest extent possible, leverage commercial data center solutions, including hybrid cloud, multi-cloud, co-location, interconnection, or cloud computing (as defined in section 3607 of this Chapter \[probably means chapter 36 of Title 44, United States Code\]) rather than acquiring, overseeing, or managing custom data center infrastructure.
+
+&emsp;"(7)
+
+Public website.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than one year after the date of the enactment of this Act, and each year thereafter, the Comptroller General of the United States shall review and verify the quality and completeness of the inventory and strategy of each covered agency required under paragraph (1)(A).
+In general.—The Administrator shall maintain a public-facing website that includes information, data, and explanatory statements relating to the compliance of covered agencies with the requirements of this section.
 
 &emsp;&emsp;"(B)
 
-Report.—The Comptroller General of the United States shall, on an annual basis, publish a report on each review conducted under subparagraph (A).
+Processes and procedures.—In maintaining the website described in subparagraph (A), the Administrator shall—
+
+&emsp;&emsp;&emsp;"(i) ensure covered agencies regularly, and not less frequently than biannually, update the information, data, and explanatory statements posed on the website, pursuant to guidance issued by the Administrator, relating to any new data centers and, as appropriate, each existing data center of the covered agency; and
+
+&emsp;&emsp;&emsp;"(ii) ensure that all information, data, and explanatory statements on the website are maintained as open Government data assets.
 
 "(c)
 
@@ -292,11 +258,13 @@ Ensuring Cybersecurity Standards for Data Center Consolidation and Cloud Computi
 
 &emsp;"(1)
 
-In general.—In implementing a data center consolidation and optimization strategy under this section, a covered agency shall do so in a manner that is consistent with Federal guidelines on cloud computing security, including—
+In general.—The head of a covered agency shall oversee and manage the data center portfolio and the information technology strategy of the covered agency in accordance with Federal cybersecurity guidelines and directives, including—
 
-&emsp;&emsp;"(A) applicable provisions found within the Federal Risk and Authorization Management Program (FedRAMP); and
+&emsp;&emsp;"(A) information security standards and guidelines promulgated by the Director of the National Institute of Standards and Technology;
 
-&emsp;&emsp;"(B) guidance published by the National Institute of Standards and Technology.
+&emsp;&emsp;"(B) applicable requirements and guidance issued by the Director of the Office of Management and Budget pursuant to section 3614 of title 44, United States Code; and
+
+&emsp;&emsp;"(C) directives issued by the Secretary of Homeland Security under section 3553 of title 44, United States Code.
 
 &emsp;"(2)
 
@@ -304,11 +272,13 @@ Rule of construction.—Nothing in this section shall be construed to limit the 
 
 "(d)
 
-Waiver of Requirements.—The Director of National Intelligence and the Secretary of Defense, or their respective designee, may waive the applicability to any national security system, as defined in \[former\] section 3542 of title 44, United States Code, \[see 44 U.S.C. 3552\] of any provision of this section if the Director of National Intelligence or the Secretary of Defense, or their respective designee, determines that such waiver is in the interest of national security. Not later than 30 days after making a waiver under this subsection, the Director of National Intelligence or the Secretary of Defense, or their respective designee, shall submit to the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] and the Permanent Select Committee on Intelligence of the House of Representatives a statement describing the waiver and the reasons for the waiver.
+Waiver of Requirements.—The Director of National Intelligence and the Secretary of Defense, or their respective designee, may waive the applicability to any national security system, as defined in \[former\] section 3542 of title 44, United States Code, \[see 44 U.S.C. 3552\] of any provision of this section if the Director of National Intelligence or the Secretary of Defense, or their respective designee, determines that such waiver is in the interest of national security. Not later than 30 days after making a waiver under this subsection, the Director of National Intelligence or the Secretary of Defense, or their respective designee, shall submit to the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] and the Permanent Select Committee on Intelligence of the House of Representatives a statement describing the waiver and the reasons for the waiver.
 
 "(e)
 
-Sunset.—This section is repealed effective on October 1, 2022."
+Sunset.—This section is repealed effective on October 1, 2026."
+
+\[Amendment by section 5302(c) of Pub. L. 118–31, which substituted "2026" for "2022" in the date of repeal in section 834(e) of Pub. L. 113–291, set out above, was executed as directed to reflect the probable intent of Congress, even though the amendment was enacted on Dec. 22, 2023, after the repeal had taken effect.\]
 
 \[Pub. L. 115–88 and Pub. L. 115–91 amended section 834(e) of Pub. L. 113–291, set out above, identically by striking "2018" and inserting "2020".\]
 
@@ -364,11 +334,11 @@ Findings.—Congress finds the following:
 
 Purposes.—The purposes of this Act \[see Tables for classification\] are the following:
 
-&emsp;"(1) To provide effective leadership of Federal Government efforts to develop and promote electronic Government services and processes by establishing an Administrator of a new Office of Electronic Government within the Office of Management and Budget.
+&emsp;"(1) To provide effective leadership of Federal Government efforts to develop and promote electronic Government services and processes by establishing anAdministrator of a new Office of Electronic Government within the Office of Management and Budget.
 
 &emsp;"(2) To promote use of the Internet and other information technologies to provide increased opportunities for citizen participation in Government.
 
-&emsp;"(3) To promote interagency collaboration in providing electronic Government services, where thiscollaboration would improve the service to citizens by integrating related functions, and in the use of internal electronic Government processes, where this collaboration would improve the efficiency and effectiveness of the processes.
+&emsp;"(3) To promote interagency collaboration in providing electronic Government services, where this collaboration would improve the service to citizens by integrating related functions, and in the use of internal electronic Government processes, where this collaboration would improve the efficiency and effectiveness of the processes.
 
 &emsp;"(4) To improve the ability of the Government to achieve agency missions and program performance goals.
 

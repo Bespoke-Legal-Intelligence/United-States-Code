@@ -46,9 +46,9 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(kk) the individual meets any additional criteria established by the Secretary for unemployment assistance under this section; or
 
-&emsp;&emsp;&emsp;&emsp;(II) is self-employed, is seeking part-time employment, does not have sufficient work history, or otherwise would not qualify for regular unemployment or extended benefits under State or Federal law or pandemic emergency unemployment compensation under section 9025 of this title, and meets the requirements of subclause (I); and
+&emsp;&emsp;&emsp;&emsp;(II) is self-employed, is seeking part-time employment, does not have sufficient work history, or otherwise would not qualify for regular unemployment or extended benefits under State or Federal law or pandemic emergency unemployment compensation under section 9025 ofthis title, and meets the requirements of subclause (I); and
 
-&emsp;&emsp;&emsp;(iii) provides documentation to substantiate employment or self-employment or the planned commencement of employment or self-employment not later than 21 days after the later of the date on which the individual submits an application forpandemic unemployment assistance under this section or the date on which an individual is directed by the State Agency to submit such documentation in accordance with section 625.6(e) of title 20, Code of Federal Regulations, or any successor thereto, except that such deadline may be extended if the individual has shown good cause under applicable State law for failing to submit such documentation; and
+&emsp;&emsp;&emsp;(iii) provides documentation to substantiate employment or self-employment or the planned commencement of employment or self-employment not later than 21 days after the later of the date on which the individual submits an application for pandemic unemployment assistance under this section or the date on which an individual is directed by the State Agency to submit such documentation in accordance with section 625.6(e) of title 20, Code of Federal Regulations, or any successor thereto, except that such deadline may be extended if the individual has shown good cause under applicable State law for failing to submit such documentation; and
 
 &emsp;&emsp;(B) does not include—
 
@@ -270,7 +270,7 @@ In general.—Subject to paragraphs (2) and (3), the amendments made by subsecti
 
 "(2)
 
-Special rule.—An individual who received pandemic unemployment assistance under section 2102 of the CARES Act (15 U.S.C. 9021) for any week ending before the date of enactment of this Act \[Dec. 27, 2020\] shall not be considered ineligible for such assistance for such week solely by reason of failure to submit documentation described in clause (iii) of subsection (a)(3)(A) of such section 2102, as added by subsection (a).
+Special rule.—An individual who received pandemic unemployment assistance under section 2102 of the CARES Act (15 U.S.C. 9021) for any week ending before the date of enactment of this Act \[Dec. 27, 2020\] shall not be considered ineligible for such assistancefor such week solely by reason of failure to submit documentation described in clause (iii) of subsection (a)(3)(A) of such section 2102, as added by subsection (a).
 
 "(3)
 

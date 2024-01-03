@@ -26,7 +26,7 @@ In an action brought under this section for damages the following provisions app
 
 #### (B) Definition
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "noneconomic damages" means damages forlosses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium, hedonic damages, injury to reputation, and any other nonpecuniary losses.
+&emsp;&emsp;For purposes of subparagraph (A), the term "noneconomic damages" means damages for losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium, hedonic damages, injury to reputation, and any other nonpecuniary losses.
 
 #### (c) Collateral sources
 

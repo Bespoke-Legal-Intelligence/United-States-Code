@@ -38,7 +38,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(iv) an individual or group of individuals employed by the government of the District of Columbia excluded by the Office under section 8347(h) of this title;
 
-&emsp;&emsp;(v) an employee of the Administrative Office of the United States Courts, the Federal Judicial Center, or a court named by section610 of title 28, excluded by the Director of the Administrative Office under section 8347(o) of this title;
+&emsp;&emsp;(v) an employee of the Administrative Office of the United States Courts, the Federal Judicial Center, or a court named by section 610 of title 28, excluded by the Director of the Administrative Office under section 8347(o) of this title;
 
 &emsp;&emsp;(vi) a construction employee or other temporary, part-time, or intermittent employee of the Tennessee Valley Authority;
 
@@ -80,7 +80,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(F) pay as provided in section 5545b(b)(2) and (c)(2);
 
-&emsp;&emsp;(G) with respect to a customs officer (referred to in subsection (e)(1) of section 5 of the Act of February 13, 1911), compensation for overtime inspectional services provided for under subsection (a) of such section 5, but not to exceed 50 percent of any statutory maximum in overtime pay for customs officers which is in effect for the year involved;
+&emsp;&emsp;(G) with respect to a customs officer (referred to in subsection (e)(1) of section 5 ofthe Act of February 13, 1911), compensation for overtime inspectional services provided for under subsection (a) of such section 5, but not to exceed 50 percent of any statutory maximum in overtime pay for customs officers which is in effect for the year involved;
 
 &emsp;&emsp;(H) any amount received under section 5948 (relating to physicians comparability allowances); and
 
@@ -102,7 +102,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) amounts deposited by an employee or Member covering earlier service, including any amounts deposited under section 8334(j) of this title; and
 
-&emsp;&emsp;(C) interest on the deductions and deposits at 4 percent a year to December 31, 1947, and3 percent a year thereafter compounded annually to December 31, 1956, or, in the case of an employee or Member separated or transferred to a position in which he does not continue subject to this subchapter before he has completed 5 years of civilian service, to the date of the separation or transfer;
+&emsp;&emsp;(C) interest on the deductions and deposits at 4 percent a year to December 31, 1947, and 3 percent a year thereafter compounded annually to December 31, 1956, or, in the case of an employee or Member separated or transferred to a position in which he does not continue subject to this subchapter before he has completed 5 years of civilian service, to the date of the separation or transfer;
 
 > &emsp;but does not include interest—
 
@@ -208,13 +208,13 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) a civilian employee of the Department of Transportation or the Department of Defense who is the immediate supervisor of a person described in section 2109(1)(B);
 
-&emsp;(31) "customs and border protection officer" means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years;
+&emsp;(31) "customs and border protection officer" means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to asupervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years;
 
 &emsp;(32) "Director" means the Director of the Office of Personnel Management; and
 
 &emsp;(33) "representative payee" means a person (including an organization) designated under section 8345(e)(1) to receive payments on behalf of a minor or an individual mentally incompetent or under other legal disability.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 564; Pub. L. 89–737, §1(2), Nov. 2, 1966, 80 Stat. 1164; Pub. L. 90–83, §1(72), Sept. 11, 1967, 81 Stat. 213; Pub. L. 90–623, §1(21), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–93, title I, §101, title II, §201(a), Oct. 20, 1969, 83 Stat. 136, 138; Pub. L. 92–352, title I, §105(a), July 13, 1972, 86 Stat. 490; Pub. L. 93–350, §2, July 12, 1974, 88 Stat. 355; Pub. L. 94–183, §2(38), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(e), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–54, §2(a)(47), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–499, title IV, §403(b), Dec. 5, 1980, 94 Stat. 2606; Pub. L. 97–253, title III, §306(a), Sept. 8, 1982, 96 Stat. 795; Pub. L. 98–249, §3(b), Mar. 31, 1984, 98 Stat. 117; Pub. L. 98–271, §3(b), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, §3(b), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, §3(b), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, §§116(a), 121(g), July 10, 1984, 98 Stat. 343, 346; Pub. L. 98–531, §2(a), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, §2(1), Nov. 8, 1984, 98 Stat. 3195; Pub. L. 99–335, title II, §§202, 207(f), June 6, 1986, 100 Stat. 591, 595; Pub. L. 100–53, §2(a), June 18, 1987, 101 Stat. 367; Pub. L. 100–238, title I, §§112, 123, Jan. 8, 1988, 101 Stat. 1750, 1754; Pub. L. 100–679, §13(a)(1), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–474, §5(m), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(j)(1), Nov. 5, 1990, 104 Stat. 1388–337; Pub. L. 101–650, title III, §§306(c)(1), 321, Dec. 1, 1990, 104 Stat. 5110, 5117; Pub. L. 102–378, §2(57), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XIII, §13812(a), Aug. 10, 1993, 107 Stat. 670; Pub. L. 103–353, §5(a), Oct. 13, 1994, 108 Stat. 3173; Pub. L. 105–261, div. C, title XXXI, §3154(b), Oct. 17, 1998, 112 Stat. 2254; Pub. L. 105–277, div. A, §101(h) \[title VI, §628(d)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521; Pub. L. 106–571, §3(a), (b)(2), Dec. 28, 2000, 114 Stat. 3054, 3055; Pub. L. 107–71, title I, §105(c), Nov. 19, 2001, 115 Stat. 607; Pub. L. 108–18, §2(a), Apr. 23, 2003, 117 Stat. 624; Pub. L. 108–176, title II, §226(a)(1), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, §535(a)(1), Dec. 26, 2007, 121 Stat. 2075; Pub. L. 110–181, div. A, title XI, §1115(a), Jan. 28, 2008, 122 Stat. 361; Pub. L. 112–141, div. F, title I, §100121(a)(1), July 6, 2012, 126 Stat. 906; Pub. L. 113–277, §2(d), Dec. 18, 2014,128 Stat. 3003; Pub. L. 114–136, §2(c)(3), Mar. 18, 2016, 130 Stat. 305; Pub. L. 115–254, div. K, title I, §1908(a), Oct. 5, 2018, 132 Stat. 3548; Pub. L. 116–126, §2(a)(1), Mar. 18, 2020, 134 Stat. 174.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 564; Pub. L. 89–737, §1(2), Nov. 2, 1966, 80 Stat. 1164; Pub. L. 90–83, §1(72), Sept. 11, 1967, 81 Stat. 213; Pub. L. 90–623, §1(21), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–93, title I, §101, title II, §201(a), Oct. 20, 1969, 83 Stat. 136, 138; Pub. L. 92–352, title I, §105(a), July 13, 1972, 86 Stat. 490; Pub. L. 93–350, §2, July 12, 1974, 88 Stat. 355; Pub. L. 94–183, §2(38), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(e), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–54, §2(a)(47), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–499, title IV, §403(b), Dec. 5, 1980, 94 Stat. 2606; Pub. L. 97–253, title III, §306(a), Sept. 8, 1982, 96 Stat. 795; Pub. L. 98–249, §3(b), Mar. 31, 1984, 98 Stat. 117; Pub. L. 98–271, §3(b), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, §3(b), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, §3(b), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, §§116(a), 121(g), July 10, 1984, 98 Stat. 343, 346; Pub. L. 98–531, §2(a), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, §2(1), Nov. 8, 1984, 98 Stat. 3195; Pub. L. 99–335, title II, §§202, 207(f), June 6, 1986, 100 Stat. 591, 595; Pub. L. 100–53, §2(a), June 18, 1987, 101 Stat. 367; Pub. L. 100–238, title I, §§112, 123, Jan. 8, 1988, 101 Stat. 1750, 1754; Pub. L. 100–679, §13(a)(1), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–474, §5(m), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(j)(1), Nov. 5, 1990, 104 Stat. 1388–337; Pub. L. 101–650, title III, §§306(c)(1), 321, Dec. 1, 1990, 104 Stat. 5110, 5117; Pub. L. 102–378, §2(57), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XIII, §13812(a), Aug. 10, 1993, 107 Stat. 670; Pub. L. 103–353, §5(a), Oct. 13, 1994, 108 Stat. 3173; Pub. L. 105–261, div. C, title XXXI, §3154(b), Oct. 17, 1998, 112 Stat. 2254; Pub. L. 105–277, div. A, §101(h) \[title VI, §628(d)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521; Pub. L. 106–571, §3(a), (b)(2), Dec. 28, 2000, 114 Stat. 3054, 3055; Pub. L. 107–71, title I, §105(c), Nov. 19, 2001, 115 Stat. 607; Pub. L. 108–18, §2(a), Apr. 23, 2003, 117 Stat. 624; Pub. L. 108–176, title II, §226(a)(1), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, §535(a)(1), Dec. 26, 2007, 121 Stat. 2075; Pub. L. 110–181, div. A, title XI, §1115(a), Jan. 28, 2008, 122 Stat. 361; Pub. L. 112–141, div. F, title I, §100121(a)(1), July 6, 2012, 126 Stat. 906; Pub. L. 113–277, §2(d), Dec. 18, 2014, 128 Stat. 3003; Pub. L. 114–136, §2(c)(3), Mar. 18, 2016, 130 Stat. 305; Pub. L. 115–254, div. K, title I, §1908(a), Oct. 5, 2018, 132 Stat. 3548; Pub. L. 116–126, §2(a)(1), Mar. 18, 2020, 134 Stat. 174.)
 
 Historical and Revision Notes<br>1966
 
@@ -590,7 +590,7 @@ Retroactive application.—
 
 &emsp;"(A)
 
-In general.—Any availability pay received for any pay period commencing before the date of enactment of this Act by a Federal air marshal or criminal investigator employed by the Transportation Security Administration shall be deemed basic pay under section 8331(3) of title 5, United States Code, if the Transportation Security Administration treated such pay as retirement-creditable basic pay, but the Officeof Personnel Management, based on an interpretation of section 8331(3) of title 5, United States Code, did not accept such pay as retirement-creditable basic pay.
+In general.—Any availability pay received for any pay period commencing before the date of enactment of this Act by a Federal air marshal or criminal investigator employed by the Transportation Security Administration shall be deemed basic pay under section 8331(3) of title 5, United States Code, if the Transportation Security Administration treated such pay as retirement-creditable basic pay, but the Office of Personnel Management, based on an interpretation of section 8331(3) of title 5, United States Code, did not accept such pay as retirement-creditable basic pay.
 
 &emsp;"(B)
 
@@ -708,7 +708,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1974 Amendment
 
-Amendment by section 2(a) of Pub. L. 93–350 effective at beginning of first applicable pay period which begins after Dec. 31, 1974, and amendment by section 2(b) of Pub. L. 93–350 effective July 12, 1974, see section 7 of Pub. L. 93–350, set out as a note under section 3307 of this title.
+Amendment by section 2(a) of Pub. L. 93–350 effective at beginning of first applicable pay period which beginsafter Dec. 31, 1974, and amendment by section 2(b) of Pub. L. 93–350 effective July 12, 1974, see section 7 of Pub. L. 93–350, set out as a note under section 3307 of this title.
 
 #### Effective Date of 1972 Amendment
 
@@ -806,7 +806,7 @@ Individual contributions.—
 
 In general.—An incumbent shall pay with respect to prior service an amount into the Civil Service Retirement and Disability Fund equal to—
 
-&emsp;&emsp;&emsp;"(i) the difference between the individual contributions that were actually made for such prior service and the individual contributions that would have been made for such service if subsection (a) had then been in effect; and
+&emsp;&emsp;&emsp;"(i) the difference between the individual contributions that were actually made for such priorservice and the individual contributions that would have been made for such service if subsection (a) had then been in effect; and
 
 &emsp;&emsp;&emsp;"(ii) interest computed on the amount under clause (i) based on section 8334(e) of title 5, United States Code.
 
@@ -1078,7 +1078,7 @@ Thrift savings fund contributions.—If under this section an individual elects 
 
 &emsp;&emsp;"(B)
 
-Previous settlement payment.—An individual who previously received a payment ordered by a court or provided as a settlement of claim for losses resulting from a retirement coverage error shall not be entitled to make an election under this subsection unless that amount is waived in whole or in part under section 2208, and any amount not waived is repaid.
+Previous settlement payment.—An individual who previously received a payment ordered by a court or provided as a settlement of claim for losses resulting from a retirement coverage errorshall not be entitled to make an election under this subsection unless that amount is waived in whole or in part under section 2208, and any amount not waived is repaid.
 
 &emsp;&emsp;"(C)
 
@@ -1200,7 +1200,7 @@ In general.—Upon written notice of a retirement coverage error, an individual 
 
 &emsp;&emsp;"(B)
 
-Nonelection.—If the individual does not make an election before the date provided under subparagraph (A), the individual shall remain CSRS-Offset covered.
+Nonelection.—If the individual does not make an election before the date provided undersubparagraph (A), the individual shall remain CSRS-Offset covered.
 
 &emsp;&emsp;"(C)
 
@@ -1272,7 +1272,7 @@ Corrected Error.—
 
 &emsp;"(1)
 
-Applicability.—This subsection applies if the retirement coverage error was corrected before theeffective date of the regulations described under paragraph (2).
+Applicability.—This subsection applies if the retirement coverage error was corrected before the effective date of the regulations described under paragraph (2).
 
 &emsp;"(2)
 
@@ -1508,7 +1508,7 @@ Payment.—With respect to an individual to whom this section applies, the emplo
 
 &emsp;&emsp;"(B)
 
-Amount.—Earnings under subparagraph (A) shall be computed in accordance with the procedures for computing lost earnings under section8432a of title 5, United States Code. The amount paid by the employing agency shall be treated for all purposes as if that amount had actually been earned on the basis of the employee's contributions.
+Amount.—Earnings under subparagraph (A) shall be computed in accordance with the procedures for computing lost earnings under section 8432a of title 5, United States Code. The amount paid by the employing agency shall be treated for all purposes as if that amount had actually been earned on the basis of the employee's contributions.
 
 &emsp;&emsp;"(C)
 
@@ -1630,7 +1630,7 @@ Central Intelligence Agency.—Sections 292 and 301 of the Central Intelligence 
 
 #### "SEC. 2303. INDIVIDUAL RIGHT OF ACTION PRESERVED FOR AMOUNTS NOT OTHERWISE PROVIDED FOR UNDER THIS TITLE.
 
-"Nothing in this title shall preclude an individual from bringing a claim against the Government of theUnited States which such individual may have under section 1346(b) or chapter 171 of title 28, United States Code, or any other provision of law (except to the extent the claim is for any amounts otherwise provided for under this title).
+"Nothing in this title shall preclude an individual from bringing a claim against the Government of the United States which such individual may have under section 1346(b) or chapter 171 of title 28, United States Code, or any other provision of law (except to the extent the claim is for any amounts otherwise provided for under this title).
 
 #### "Subtitle D—Effective Date
 
@@ -1732,7 +1732,7 @@ Report by Government Accountability Office.—The Comptroller General shall cond
 
 "(k)
 
-Implementing Regulations.—Not later than 30 days after the Secretary of Defense notifies the Director of the Office of Personnel Management of a decision to establish a pilot program under this section, the Director shall prescribe regulations to carry out the provisions of this section with respect to that pilot program. Before prescribing the regulations, the Director shall consult with the Secretary.
+Implementing Regulations.—Not later than 30 days after the Secretary of Defense notifies the Director of the Office of Personnel Management of a decisionto establish a pilot program under this section, the Director shall prescribe regulations to carry out the provisions of this section with respect to that pilot program. Before prescribing the regulations, the Director shall consult with the Secretary.
 
 "(l)
 
@@ -1830,7 +1830,7 @@ Pub. L. 99–335, title III, §§301–303, June 6, 1986, 100 Stat. 599–605, a
 
 "(a)
 
-Elections for Individuals Subject to the Civil Service Retirement System.—(1)(A) Any individual (other than an individual under subsection (b)) who, as of June 30, 1987, is employed by the Federal Government, and who is then subject to subchapter III of chapter 83 of title 5, United States Code, may elect to become subject to chapter 84 of such title.
+Elections for Individuals Subject to the Civil Service Retirement System.—(1)(A) Any individual\(other than an individual under subsection (b)) who, as of June 30, 1987, is employed by the Federal Government, and who is then subject to subchapter III of chapter 83 of title 5, United States Code, may elect to become subject to chapter 84 of such title.
 
 "(B) An election under this paragraph may not be made before July 1, 1987, or after December 31, 1987.
 
@@ -1920,7 +1920,7 @@ Exclusions.—This section does not apply to an individual under section 8331(1)
 
 "(a)
 
-General and Special Rules.—All provisions of chapter 84 of title 5, United States Code (including those relating to disability benefits, survivor benefits, and any reductions to provide for survivor benefits) shall apply with respect to any individual who becomes subject to such chapter pursuant to an election under section 301, except if, or to the extent that, such provisions are inconsistent with the following:
+General and Special Rules.—All provisions of chapter 84 of title 5, United States Code (includingthose relating to disability benefits, survivor benefits, and any reductions to provide for survivor benefits) shall apply with respect to any individual who becomes subject to such chapter pursuant to an election under section 301, except if, or to the extent that, such provisions are inconsistent with the following:
 
 &emsp;"(1)(A) Any civilian service which is performed before the effective date of the election under section 301 shall not be creditable under chapter 84 of title 5, United States Code, except as otherwise provided in this subsection.
 
@@ -1958,7 +1958,7 @@ General and Special Rules.—All provisions of chapter 84 of title 5, United Sta
 
 &emsp;&emsp;"(IV) any provision of section 8412(d) of such title which relates to a minimum period of service for entitlement to an annuity, but only if and to the extent that the service described in subparagraph (A) was as a law enforcement officer or firefighter;
 
-&emsp;&emsp;"(V) any provision of section 8412(e) of such title which relates to a minimum period of service forentitlement to an annuity, but only if and to the extent that the service described in subparagraph (A) was as an air traffic controller; and
+&emsp;&emsp;"(V) any provision of section 8412(e) of such title which relates to a minimum period of service for entitlement to an annuity, but only if and to the extent that the service described in subparagraph (A) was as an air traffic controller; and
 
 &emsp;&emsp;"(VI) the provision of subsection (h) \[now (i)\] of section 8415 which relates to the minimum period of service required to qualify for the higher accrual rate under such subsection.
 
@@ -1988,7 +1988,7 @@ General and Special Rules.—All provisions of chapter 84 of title 5, United Sta
 
 &emsp;&emsp;&emsp;"(ii) creditable military service (as determined under applicable provisions of this subsection) other than any service described in paragraph (2)(B).
 
-&emsp;"(6)(A) For purposes of any computation under paragraph (4) or (5), the average pay to be used shall be the largest annual rate resulting from averaging the individual's rates of basic pay in effect over any 3 consecutive years of creditable service or, in the case of an annuity based on service of less than 3 years, over the total period of service so creditable, with each rate weighted by the period it was in effect.
+&emsp;"(6)(A) For purposes of any computation under paragraph (4) or (5), the average pay to be used shallbe the largest annual rate resulting from averaging the individual's rates of basic pay in effect over any 3 consecutive years of creditable service or, in the case of an annuity based on service of less than 3 years, over the total period of service so creditable, with each rate weighted by the period it was in effect.
 
 &emsp;"(B) For purposes of subparagraph (A), service shall be considered creditable if it would be considered creditable for purposes of determining average pay under chapter 83 or 84 of title 5, United States Code.
 
@@ -2014,7 +2014,7 @@ General and Special Rules.—All provisions of chapter 84 of title 5, United Sta
 
 &emsp;&emsp;"(i) with respect to reemployment service before the effective date of the election, under section 8339(a), (b), (d), (e), (h), (i), and (n) of title 5, United States Code, as may apply based on the reemployment in which such annuitant was engaged before such effective date; and
 
-&emsp;&emsp;"(ii) with respect to reemployment service on or after the effective date of the election, under section 8415(a) through (g) \[now 8415(a)–(c), (e)–(h)\] ofsuch title, as may apply based on the reemployment in which such annuitant was engaged on or after such effective date;
+&emsp;&emsp;"(ii) with respect to reemployment service on or after the effective date of the election, under section 8415(a) through (g) \[now 8415(a)–(c), (e)–(h)\] of such title, as may apply based on the reemployment in which such annuitant was engaged on or after such effective date;
 
 > &emsp;with the 'average pay' used in any computation under clause (i) or (ii) being determined (based on rates of pay in effect during the period of reemployment, whether before, on, or after the effective date of the election) in the same way as provided for in paragraph (6). If the annuitant is receiving a reduced annuity as provided in section 8339(j) or section 8339(k)(2) of title 5, United States Code, the increase in annuity payable under this subparagraph is reduced by 10 percent and the survivor annuity payable under section 8341(b) of such title is increased by 55 percent of the increase in annuity payable under this subparagraph, unless, at the time of claiming the increase payable under this subparagraph, the annuitant notifies the Office of Personnel Management in writing that such annuitant does not desire the survivor annuity to be increased. If the annuitant dies while still reemployed, after having been reemployed for at least 1 full year (or the equivalent thereof, in the case of part-time employment), any survivor annuity payable under section 8341(b) of such title based on the service of such annuitant is increased as though the reemployment had otherwise terminated. In applying paragraph (7) to an amount under this subparagraph, any portion of such amount attributable to clause (i) shall be adjusted under subparagraph (A) of such paragraph, and any portion of such amount attributable to clause (ii) shall be adjusted under subparagraph (B) of such paragraph.
 
@@ -2028,7 +2028,7 @@ General and Special Rules.—All provisions of chapter 84 of title 5, United Sta
 
 &emsp;&emsp;"(i) with respect to service performed before the effective date of the election under section 301, it is service which, if performed for at least 1 full year, would have allowed such annuitant to elect under section 8344(a) of title 5, United States Code, to have deductions withheld from pay; or
 
-&emsp;&emsp;"(ii) with respect to service performed on or after the effective date of the election under section 301, it is service with respect to which deductions from pay would be required to be withheld under the second sentence of section 8468(a) of title 5, United States Code.
+&emsp;&emsp;"(ii) with respect to service performed on or after the effective date of the election under section 301, it is service with respect to which deductions frompay would be required to be withheld under the second sentence of section 8468(a) of title 5, United States Code.
 
 "(b)
 
@@ -2192,7 +2192,7 @@ Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended by Pub. L. 
 
 &emsp;"(4) any provision of any other covered retirement system which requires a participant in the system to make contributions of a portion of the basic pay of the participant;
 
-> for covered service which is performed after December 31, 1983, and before the earlier of the effective date of a new Government retirement system or January 1, 1987. Deductions shall be made and withheld as provided by such provisions in the case of covered service which is performed on or after such effective date or January 1, 1987, as the case may be, and is not subject to a new Government retirement system.
+> for covered service which is performed after December 31, 1983, and before the earlier of the effective date of a new Government retirement system or January 1,1987. Deductions shall be made and withheld as provided by such provisions in the case of covered service which is performed on or after such effective date or January 1, 1987, as the case may be, and is not subject to a new Government retirement system.
 
 "(b) Employing agencies of the Government shall make contributions with respect to service to which subsection (a) of this section applies under the second sentence of section 8334(a)(1) of title 5, United States Code, the second sentence of section 805(a) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)), the second sentence of section 211(a) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (\[former\] 50 U.S.C. 403 note), and any provision of any other covered retirement system requiring a contribution by the employing agency, as if subsection (a) of this section had not been enacted.
 
@@ -2248,7 +2248,7 @@ Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended by Pub. L. 
 
 "(3) Notwithstanding any other provision of law, if a new Government retirement system is not established, the interim covered service of such a covered employee who retires or dies after January 1, 1987, shall be considered in determining entitlement to and computing the amount of an annuity under a covered retirement system based on the service of such covered employee only if such covered employee makes a deposit to the credit of such covered retirement system for such covered service in an amount computed as provided in subsection (f).
 
-"(d) If a covered employee with respect to whom subsection (b)(3) or (c)(3) applies dies without having made a deposit pursuant to such subsection, any individual who is entitled to an annuity under a covered retirement system based on the service of such covered employee or who would be entitled to such an annuity if such deposit had been made by the covered employee before death may make such deposit after the date of death of such covered employee. Service covered by a deposit made pursuant to the first sentence shall be considered in determining, in the case of each individual to whom the first sentence applies, the entitlement to and the amount of an annuity under a covered retirement system based on the service of such covered employee.
+"(d) If a covered employee with respect to whom subsection (b)(3) or (c)(3) applies dies without having madea deposit pursuant to such subsection, any individual who is entitled to an annuity under a covered retirement system based on the service of such covered employee or who would be entitled to such an annuity if such deposit had been made by the covered employee before death may make such deposit after the date of death of such covered employee. Service covered by a deposit made pursuant to the first sentence shall be considered in determining, in the case of each individual to whom the first sentence applies, the entitlement to and the amount of an annuity under a covered retirement system based on the service of such covered employee.
 
 "(e) A reduction in annuity under subsection (b)(2)(B) or (c)(2) shall commence on the first day of the first month after the date on which payment of benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] commence and shall be redetermined each time an increase in such benefits takes effect pursuant to section 215(i) of the Social Security Act \[42 U.S.C. 415(i)\]. In the case of an annuity of a participant or former participant in a covered retirement system, of a surviving spouse or child of such participant or former participant, or of any other person designated by such participant or former participant to receive an annuity, under a covered retirement system (other than a former spouse) the reduction in annuity under subsection (b)(2)(B) or (c)(2) shall be calculated before any reduction in such annuity provided under such system for the purpose of paying an annuity under such system to any former spouse of such participant or former participant based on the service of such participant or former participant.
 
@@ -2312,7 +2312,7 @@ Pub. L. 85–550, §13, July 25, 1958, 72 Stat. 410, as amended by Pub. L. 87–
 
 "(a) Effective on and after the first day of the first pay period which begins in the third calendar month following the calendar month in which this Act is enacted \[July 1958\]—
 
-&emsp;"The Act of July 8, 1937 (50 Stat. 478; 68 Stat. 17; Public Numbered 191, Seventy-fifth Congress; Public Law 299, Eighty-third Congress), shall apply only with respect to those individuals within the classes of individuals subject to such Act of July 8, 1937, whose employment shall have been terminated, prior to such first day of such first pay period, in the manner provided by the first section of such Act; and
+&emsp;"The Act of July 8, 1937 (50 Stat. 478; 68 Stat. 17; Public Numbered 191, Seventy-fifth Congress; Public Law 299, Eighty-third Congress), shall apply only with respect to those individuals within the classes of individuals subject to such Act of July 8, 1937, whoseemployment shall have been terminated, prior to such first day of such first pay period, in the manner provided by the first section of such Act; and
 
 "(b) On or before the first day of the first pay period which begins in the third calendar month following the calendar month in which this Act is enacted \[July 1958\], the Panama Canal Company shall pay, as an agency contribution, into the civil service retirement and disability fund created by the Act of May 22, 1920, for each individual—
 
@@ -2340,7 +2340,7 @@ Act July 31, 1956, ch. 804, title IV, §402, 70 Stat. 760, provided that:
 
 "(a) On and after the effective date of this title \[on the first day of the first month beginning more than sixty days after July 31, 1956\] persons employed as members of the civilian faculties of the United States Naval Academy and the United States Naval Postgraduate School shall be included within the terms of the Civil Service Retirement Act \[this subchapter\], and on and after that date the Act of January 16, 1936 (49 Stat. 1092), as amended \[covered by section 7081 et seq. of Title 10, Armed Forces\] shall not apply to such persons.
 
-"(b) In lieu of the deposit prescribed by section 4(c) of the Civil Service Retirement Act \[section 8334(c) of this title\] an employee who by virtue of subsection (a) is included within the terms of such Act \[this subchapter\] shall deposit, for service rendered prior to the effective date of this title as a member of the civilian faculty of the United States Naval Academy or of the United States Naval Postgraduate School, a sum equal to so much of the repurchase price of his annuity policy carried as required by the Act of January 16, 1936, as amended \[covered by section 7081 et seq. of Title 10, Armed Forces\], as is based on the monthly allotments which were registered with the Navy Allotment Office toward the purchase of that annuity, the deposit to be made within six months after the effective date of this title. Should the deposit not be made within that period no credit shall be allowed under the Civil Service Retirement Act \[this subchapter\] for service renderedas a member of the civilian faculty of the United States Naval Academy or of the United States Naval Postgraduate School subsequent to July 31, 1920, and prior to the effective date of this title. If the deposit is made, such service shall be held and considered to be service during which the employee was subject to the Civil Service Retirement Act \[this subchapter\]."
+"(b) In lieu of the deposit prescribed by section 4(c) of the Civil Service Retirement Act \[section 8334(c) of this title\] an employee who by virtue of subsection (a) is included within the terms of such Act \[this subchapter\] shall deposit, for service rendered prior to the effective date of this title as a member of the civilian faculty of the United States Naval Academy or of the United States Naval Postgraduate School, a sum equal to so much of the repurchase price of his annuity policy carried as required by the Act of January 16, 1936, as amended \[covered by section 7081 et seq. of Title 10, Armed Forces\], as is based on the monthly allotments which were registered with the Navy Allotment Office toward the purchase of that annuity, the deposit to be made within six months after the effective date of this title. Should the deposit not be made within that period no credit shall be allowed under the Civil Service Retirement Act \[this subchapter\] for service rendered as a member of the civilian faculty of the United States Naval Academy or of the United States Naval Postgraduate School subsequent to July 31, 1920, and prior to the effective date of this title. If the deposit is made, such service shall be held and considered to be service during which the employee was subject to the Civil Service Retirement Act \[this subchapter\]."
 
 #### <b>Executive Documents</b>
 

@@ -92,7 +92,7 @@ Except as provided in subsection (g)(3)—
 
 #### (B) Providers
 
-&emsp;&emsp;An accrediting body shall not take an accrediting action against a provider based on the good faith participation of the provider in the collection, development, reporting, or maintenance of patient safety work product in accordance with this part. An accrediting body may not require a provider to reveal its communications with any patient safety organization established in accordance with this part.
+&emsp;&emsp;An accrediting body shall not take an accrediting action against a provider based onthe good faith participation of the provider in the collection, development, reporting, or maintenance of patient safety work product in accordance with this part. An accrediting body may not require a provider to reveal its communications with any patient safety organization established in accordance with this part.
 
 #### (e) Reporter protection
 
@@ -134,7 +134,7 @@ Except as provided in subsection (g)(3)—
 
 #### (B) Against State employees
 
-&emsp;&emsp;An entity that is a State or an agency of a State government may not assert theprivilege described in subsection (a) unless before the time of the assertion, the entity or, in the case of and with respect to an agency, the State has consented to be subject to an action described in subparagraph (A), and that consent has remained in effect.
+&emsp;&emsp;An entity that is a State or an agency of a State government may not assert the privilege described in subsection (a) unless before the time of the assertion, the entity or, in the case of and with respect to an agency, the State has consented to be subject to an action described in subparagraph (A), and that consent has remained in effect.
 
 #### (g) Rule of construction
 
@@ -168,7 +168,7 @@ For purposes of applying the HIPAA confidentiality regulations—
 
 #### (1) Draft report
 
-&emsp;Not later than the date that is 18 months after any network of patient safety databases is operational, the Secretary, in consultation with the Director, shall prepare a draft report on effective strategies for reducing medical errors and increasing patient safety. The draft report shall include any measure determined appropriate by the Secretary to encourage the appropriate use of such strategies, including use in any federally funded programs. The Secretary shall make the draft report available for public comment and submit the draft report to the Institute of Medicine for review.
+&emsp;Not later than the date that is 18 months after any network of patient safety databases is operational, the Secretary, in consultation with the Director, shall prepare a draft report on effective strategies for reducing medical errors and increasing patient safety. The draft report shall include any measure determined appropriate by the Secretary to encourage the appropriate use of such strategies, includinguse in any federally funded programs. The Secretary shall make the draft report available for public comment and submit the draft report to the Institute of Medicine for review.
 
 #### (2) Final report
 

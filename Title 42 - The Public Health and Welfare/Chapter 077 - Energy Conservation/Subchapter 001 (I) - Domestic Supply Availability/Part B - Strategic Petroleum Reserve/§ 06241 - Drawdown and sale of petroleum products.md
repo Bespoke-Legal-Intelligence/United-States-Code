@@ -52,7 +52,7 @@ Prior notice.—Not less than 14 days before the date on which a test is carried
 
 &emsp;(B)
 
-Emergency.—The prior notice requirement in subparagraph (A) shall not apply if the Secretary determines that an emergency exists which requires a test to be carried out, in which case the Secretary shall notify both Houses of Congress of the test as soon as possible.
+Emergency.—The prior notice requirement in subparagraph (A) shall not apply if the Secretary determines that an emergency exists which requires a test to be carried out, in which case the Secretary shall notify bothHouses of Congress of the test as soon as possible.
 
 &emsp;(C)
 
@@ -146,7 +146,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 &emsp;&emsp;(A) the State of Hawaii, in addition to having the opportunity to submit a competitive bid, may—
 
-&emsp;&emsp;&emsp;(i) submit a binding offer, and shall on submission of the offer, be entitled to purchase a category of a petroleum product specified in a notice of sale at a price equal to the volumetrically weighted average of the successful bids made for the remaining quantity of the petroleum product within the category that is the subject of the offering; and
+&emsp;&emsp;&emsp;(i) submit a binding offer, and shall on submission of the offer, be entitled to purchase a category of a petroleum product specified in a notice of sale at a price equal to the volumetrically weighted average of the successful bids made for the remaining quantity of the petroleum product withinthe category that is the subject of the offering; and
 
 &emsp;&emsp;&emsp;(ii) submit one or more alternative offers, for other categories of the petroleum product, that will be binding if no price competitive contract is awarded for the category of petroleum product on which a binding offer is submitted under clause (i); and
 

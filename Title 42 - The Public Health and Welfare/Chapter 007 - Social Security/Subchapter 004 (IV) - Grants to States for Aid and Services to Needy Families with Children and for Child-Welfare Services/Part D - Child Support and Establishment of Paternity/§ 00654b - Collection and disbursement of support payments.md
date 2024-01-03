@@ -42,7 +42,7 @@ The State disbursement unit shall use automated procedures, electronic processes
 
 #### (2) Permissive retention of arrearages
 
-&emsp;The State disbursement unit may delay the distribution of collections toward arrearagesuntil the resolution of any timely appeal with respect to such arrearages.
+&emsp;The State disbursement unit may delay the distribution of collections toward arrearages until the resolution of any timely appeal with respect to such arrearages.
 
 #### (d) "Business day" defined
 

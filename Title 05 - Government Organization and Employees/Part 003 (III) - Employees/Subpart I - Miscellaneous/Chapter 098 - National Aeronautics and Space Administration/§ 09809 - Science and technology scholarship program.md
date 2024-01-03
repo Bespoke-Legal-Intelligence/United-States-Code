@@ -28,7 +28,7 @@
 
 (5) The Administrator may enter into a contractual agreement with an institution of higher education under which the amounts provided for a scholarship under this section for tuition, fees, and other authorized expenses are paid directly to the institution with respect to which the scholarship is provided.
 
-(f)(1) The period of service for which an individual shall be obligated to serve as an employee of the Administration is, except as provided in subsection (h)(2), 24 months for each academic year for which a scholarship under this section is provided.
+(f)(1) The period of service for which an individual shall be obligated to serve as an employee of the Administration is, except as provided in subsection (h)(2), 24 months for each academicyear for which a scholarship under this section is provided.
 
 (2)(A) Except as provided in subparagraph (B), obligated service under paragraph (1) shall begin not later than 60 days after the individual obtains the educational degree for which the scholarship was provided.
 

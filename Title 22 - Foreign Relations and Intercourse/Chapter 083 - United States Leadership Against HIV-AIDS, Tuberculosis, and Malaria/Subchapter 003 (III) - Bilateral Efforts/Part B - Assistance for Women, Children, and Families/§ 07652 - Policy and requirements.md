@@ -58,7 +58,7 @@ The 5-year United States Government strategy required by section 7611 of this ti
 
 &emsp;&emsp;(D) identify barriers and challenges to increasing access to mother-to-child transmission prevention services and evaluate potential mechanisms to alleviate those barriers and challenges;
 
-&emsp;&emsp;(E) identify the extent to which stigma has hindered pregnant women from obtaining HIV counseling and testing or returning for results, and provide recommendations to address such stigma and its effects;
+&emsp;&emsp;(E) identify the extent to which stigma has hindered pregnant women from obtainingHIV counseling and testing or returning for results, and provide recommendations to address such stigma and its effects;
 
 &emsp;&emsp;(F) identify opportunities to improve linkages between mother-to-child transmission prevention services and care and treatment programs; and
 

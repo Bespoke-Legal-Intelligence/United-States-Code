@@ -104,7 +104,7 @@ Subsec. (b). Pub. L. 111–320, §136(b), substituted "low-income" for "low inco
 
 Subsec. (a)(3)(B). Pub. L. 108–36, §126(2), inserted "voluntary home visiting and" after "including".
 
-Subsec. (a)(6). Pub. L. 108–36, §126(3), added par. (6) and struck out former par. (6) which read as follows: "participate with other community-based, prevention-focused, family resource and support program grantees in the development, operation and expansion of the Statewide network."
+Subsec. (a)(6). Pub. L. 108–36, §126(3), added par. (6) and struck out former par. (6) which read as follows: "participate with other community-based, prevention-focused, family resource and support program granteesin the development, operation and expansion of the Statewide network."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

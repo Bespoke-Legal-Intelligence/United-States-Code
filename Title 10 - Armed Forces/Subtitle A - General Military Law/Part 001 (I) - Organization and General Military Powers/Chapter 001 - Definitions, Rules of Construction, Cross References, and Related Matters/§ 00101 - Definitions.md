@@ -20,7 +20,7 @@ In General.—The following definitions apply in this title:
 
 &emsp;&emsp;(C) the commissioned corps of the Public Health Service.
 
-&emsp;(6) The term "department", when used with respect to a military department, means the executive part of the department and all field headquarters, forces, reserve components, installations, activities, and functions under the control or supervision of the Secretary of the department. When used with respect to the Department of Defense, such term means the executive part of the department, including the executive parts of the military departments, and all field headquarters, forces, reserve components, installations, activities, and functions under the control or supervision of theSecretary of Defense, including those of the military departments.
+&emsp;(6) The term "department", when used with respect to a military department, means the executive part of the department and all field headquarters, forces, reserve components, installations, activities, and functions under the control or supervision of the Secretary of the department. When used with respect to the Department of Defense, such term means the executive part of the department, including the executive parts of the military departments, and all field headquarters, forces, reserve components, installations, activities, and functions under the control or supervision of the Secretary of Defense, including those of the military departments.
 
 &emsp;(7) The term "executive part of the department" means the executive part of the Department of Defense, Department of the Army, Department of the Navy, or Department of the Air Force, as the case may be, at the seat of government.
 
@@ -90,7 +90,7 @@ Personnel Generally.—The following definitions relating to military personnel 
 
 &emsp;(3) The term "warrant officer" means a person who holds a commission or warrant in a warrant officer grade.
 
-&emsp;(4) The term "general officer" means an officer of the Army, Air Force, or Marine Corps serving in or having the grade of general, lieutenant general, major general, or brigadier general.
+&emsp;(4) The term "general officer" means an officer of the Army, Air Force, Marine Corps, or Space Force serving in or having the grade of general, lieutenant general, major general, or brigadier general.
 
 &emsp;(5) The term "flag officer" means an officer of the Navy or Coast Guard serving in or having the grade of admiral, vice admiral, rear admiral, or rear admiral (lower half).
 
@@ -102,7 +102,7 @@ Personnel Generally.—The following definitions relating to military personnel 
 
 &emsp;(9) The term "rating" means the name (such as "boatswain's mate") prescribed for members of an armed force in an occupational field. The term "rate" means the name (such as "chief boatswain's mate") prescribed for members in the same rating or other category who are in the same grade (such as chief petty officer or seaman apprentice).
 
-&emsp;(10) The term "original", with respect to the appointment of a member of the armed forces in a regular or reserve component, refers to that member's most recent appointment in that component that is neither a promotion nor a demotion.
+&emsp;(10) The term "original", with respect to the appointment of a member of the armed forces in a regular or reserve component, refers to that member's most recent appointment in that component that is neither a promotion nor a demotion and, with respect to the appointment of a member of the armed forces in the Space Force, refers to that member's most recent appointment in the Space Force that is neither a promotion nor a demotion.
 
 &emsp;(11) The term "authorized strength" means the largest number of members authorized to be in an armed force, a component, a branch, a grade, or any other category of the armed forces.
 
@@ -148,13 +148,13 @@ Reserve Components.—The following definitions relating to the reserve componen
 
 &emsp;(6) The term "reserve", with respect to an enlistment, appointment, grade, or office, means enlistment, appointment, grade, or office held as a Reserve of one of the armed forces.
 
-&emsp;(7) The term "reserve active-status list" means a single list for the Army, Navy, Air Force, or Marine Corps (required to be maintained under section 14002 of this title) that contains the names of all officers of that armed force except warrant officers (including commissioned warrant officers) who are in an active status in a reserve component of the Army, Navy, Air Force, or Marine Corps and are not on an active-duty list.
+&emsp;(7) The term "reserve active-status list" means a single list for the Army, Navy, Air Force, or Marine Corps (required to be maintained under section 14002 of this title) thatcontains the names of all officers of that armed force except warrant officers (including commissioned warrant officers) who are in an active status in a reserve component of the Army, Navy, Air Force, or Marine Corps and are not on an active-duty list.
 
 (d)
 
 Duty Status.—The following definitions relating to duty status apply in this title:
 
-&emsp;(1) The term "active duty" means full-time duty in the active military service of the United States. Such term includes full-time training duty, annual training duty, and attendance, while in the active military service, at a school designated as a service school by law or by the Secretary of the military department concerned. Such term does not include full-time National Guard duty.
+&emsp;(1) The term "active duty" means full-time duty in the active military service of the United States, including sustained duty in the Space Force. Such term includes full-time training duty, annual training duty, and attendance, while in the active military service, at a school designated as a service school by law or by the Secretary of the military department concerned. Such term does not include full-time National Guard duty.
 
 &emsp;(2) The term "active duty for a period of more than 30 days" means active duty under a call or order that does not specify a period of 30 days or less.
 
@@ -162,7 +162,7 @@ Duty Status.—The following definitions relating to duty status apply in this t
 
 &emsp;(4) The term "active status" means the status of a member of a reserve component who is not in the inactive Army National Guard or inactive Air National Guard, on an inactive status list, or in the Retired Reserve.
 
-&emsp;(5) The term "full-time National Guard duty" means training or other duty, otherthan inactive duty, performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State or territory, the Commonwealth of Puerto Rico, or the District of Columbia under section 316, 502, 503, 504, or 505 of title 32 for which the member is entitled to pay from the United States or for which the member has waived pay from the United States.
+&emsp;(5) The term "full-time National Guard duty" means training or other duty, other than inactive duty, performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State or territory, the Commonwealth of Puerto Rico, or the District of Columbia under section 316, 502, 503, 504, or 505 of title 32 for which the member is entitled to pay from the United States or for which the member has waived pay from the United States.
 
 &emsp;(6)(A) The term "active Guard and Reserve duty" means active duty performed by a member of a reserve component of the Army, Navy, Air Force, or Marine Corps, or full-time National Guard duty performed by a member of the National Guard pursuant to an order to full-time National Guard duty, for a period of 180 consecutive days or more for the purpose of organizing, administering, recruiting, instructing, or training the reserve components.
 
@@ -180,13 +180,37 @@ Duty Status.—The following definitions relating to duty status apply in this t
 
 &emsp;(7) The term "inactive-duty training" means—
 
-&emsp;&emsp;(A) duty prescribed for Reserves by the Secretary concerned under section 206 of title 37 or any other provision of law; and
+&emsp;&emsp;(A) duty prescribed for Reserves, or a member of the Space Force, by the Secretary concerned under section 206 of title 37 or any other provision of law; and
 
-&emsp;&emsp;(B) special additional duties authorized for Reserves by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned.
+&emsp;&emsp;(B) special additional duties authorized for Reserves, or a member of the Space Force, by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned.
 
 > &emsp;Such term includes those duties when performed by Reserves in their status as members of the National Guard.
 
 (e)
+
+Space Force.—The following definitions relating to members of the Space Force apply in this title:
+
+&emsp;(1) The term "space force active status" means the status of a member of the Space Force who is not in a space force inactive status and is not retired.
+
+&emsp;(2) The term "space force inactive status" means the status of a member of the Space Force who is designated by the Secretary of the Air Force, under regulations prescribed by the Secretary, as being in a space force inactive status.
+
+&emsp;(3) The term "space force retired status" means the status of a member of the Space Force who—
+
+&emsp;&emsp;(A) is receiving retired pay ; or
+
+&emsp;&emsp;(B) but for being under the eligibility age applicable under section 12731 of this title, would be eligible for retired pay under chapter 1223 of this title.
+
+&emsp;(4) The term "sustained duty" means full-time duty by a member of the Space Force ordered to such duty by an authority designated by the Secretary of the Air Force—
+
+&emsp;&emsp;(A) in the case of an officer—
+
+&emsp;&emsp;&emsp;(i) to fulfill the terms of an active-duty service commitment incurred by the officer under any provision of law; or
+
+&emsp;&emsp;&emsp;(ii) with the consent of the officer; and
+
+&emsp;&emsp;(B) in the case of an enlisted member, with the consent of the enlisted member as specified in the terms of the member's enlistment or reenlistment agreement.
+
+(f)
 
 Facilities and Operations.—The following definitions relating to facilities and operations apply in this title:
 
@@ -258,7 +282,7 @@ Energy security.—The term "energy security" means having assured access to rel
 
 Military installation resilience.—The term "military installation resilience" means the capability of a military installation to avoid, prepare for, minimize the effect of, adapt to, and recover from extreme weather events, or from anticipated or unanticipated changes in environmental conditions, that do, or have the potential to, adversely affect the military installation or essential transportation, logistical, or other necessary resources outside of the military installation that are necessary in order to maintain, improve, or rapidly reestablish installation mission assurance and mission-essential functions.
 
-(f)
+(g)
 
 Rules of Construction.—In this title—
 
@@ -272,13 +296,13 @@ Rules of Construction.—In this title—
 
 &emsp;(5) "spouse" means husband or wife, as the case may be.
 
-(g)
+(h)
 
 Reference to Title 1
 
 Definitions.—For other definitions applicable to this title, see sections 1 through 5 of title 1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, §876, Jan. 7, 2011, 124 Stat. 4305; Pub. L. 112–81, div. A, title V, §515(b), Dec. 31, 2011, 125 Stat. 1395; Pub. L. 112–239, div. A, title VI, §681(a), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(i), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 115–91, div. B, title XXVIII, §2831(d), Dec. 12, 2017, 131 Stat. 1858; Pub. L. 115–232, div. A, title III, §312(f), title XII, §1204(a)(3), div. B, title XXVIII, §2805(e), Aug. 13, 2018, 132 Stat. 1711, 2017, 2263; Pub. L. 116–92, div. A, title IX, §§952(c), 958(a)(1), Dec. 20, 2019, 133 Stat. 1562, 1567; Pub. L. 116–283, div. A, title IX, §924(a), title X, §1081(a)(5), Jan. 1, 2021, 134 Stat. 3820, 3871; Pub. L. 117–81, div. A, title III, §332(c), Dec. 27, 2021, 135 Stat. 1638.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440;Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, §876, Jan. 7, 2011, 124 Stat. 4305; Pub. L. 112–81, div. A, title V, §515(b), Dec. 31, 2011, 125 Stat. 1395; Pub. L. 112–239, div. A, title VI, §681(a), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(i), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 115–91, div. B, title XXVIII, §2831(d), Dec. 12, 2017, 131 Stat. 1858; Pub. L. 115–232, div. A, title III, §312(f), title XII, §1204(a)(3), div. B, title XXVIII, §2805(e), Aug. 13, 2018, 132 Stat. 1711, 2017, 2263; Pub. L. 116–92, div. A, title IX, §§952(c), 958(a)(1), Dec. 20, 2019, 133 Stat. 1562, 1567; Pub. L. 116–283, div. A, title IX, §924(a), title X, §1081(a)(5), Jan. 1, 2021, 134 Stat. 3820, 3871; Pub. L. 117–81, div. A, title III, §332(c), Dec. 27, 2021, 135 Stat. 1638; Pub. L. 118–31, div. A, title XVII, §§1713, 1716(b)(1), 1741(a)(3), Dec. 22, 2023, 137 Stat. 625, 633, 679.)
 
 Historical and Revision Notes<br>1956
 
@@ -510,7 +534,7 @@ In clauses (11) and (13), only that much of the description of the composition o
 
 In clause (12)(A), the words "an air force" are substituted for the words "for which Federal responsibility has been vested in the Secretary of the Air Force or the Department of the Air Force pursuant to law", in 10:1835, and for 32:2 (as applicable to Air National Guard), to make the definition of "Air National Guard" parallel with the definition of "Army National Guard", and to make explicit the intent of Congress, in creating the Air National Guard, that the organized militia henceforth should consist of three mutually exhaustive classes comprising the Army, Air, and Naval militia.
 
-In clause (14), the definition of "officer" is based on the source statutes instead of 50:551(5), which excludes warrant officers. The reference to appointment in 10:1a(b) (2d sentence and 10:1801(b) (2d sentence), and the words "commissioned warrant officer", "flight officer", and "either permanent or temporary", in 37:231(c) (1st sentence), are omitted as surplusage. 5:181–3(b) (1st sentence), 10:1a(b) (1st sentence), and 10:1801(b) (1st sentence) are omitted as covered by the definitions in clauses (14) and (16) of the revised section and by section 3062(c) and section 8062(d) of this title.
+In clause (14), the definition of "officer" is based on the source statutes instead of 50:551(5), which excludes warrant officers. The reference to appointment in 10:1a(b) (2d sentence and 10:1801(b) (2d sentence), and the words "commissioned warrant officer", "flight officer", and "either permanent or temporary", in 37:231(c)\(1st sentence), are omitted as surplusage. 5:181–3(b) (1st sentence), 10:1a(b) (1st sentence), and 10:1801(b) (1st sentence) are omitted as covered by the definitions in clauses (14) and (16) of the revised section and by section 3062(c) and section 8062(d) of this title.
 
 In clause (16), the words "unless otherwise qualified", "permanent or temporary", and "in the Army, Navy, Air Force, Marine Corps, or Coast Guard, including any component thereof" are omitted as surplusage. The word "person" is substituted for the word "officer".
 
@@ -546,13 +570,23 @@ The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)
 
 The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (a)(17)(C), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623. Title II of the Act is set out as a note under section 2687 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2687 of this title and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (e)(4)(C)(iii), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (f)(4)(C)(iii), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Codification
 
 Pub. L. 107–296, §1704(b)(1), which directed amendment of section 101(9) of this title by substituting of "of Homeland Security" for "of Transportation" wherever appearing, could not be executed because there is no section 101(9).
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(4). Pub. L. 118–31, §1741(a)(3), substituted "Marine Corps, or Space Force" for "or Marine Corps".
+
+Subsec. (b)(10). Pub. L. 118–31, §1716(b)(1), inserted before period at end "and, with respect to the appointment of a member of the armed forces in the Space Force, refers to that member's most recent appointment in the Space Force that is neither a promotion nor a demotion".
+
+Subsec. (d)(1). Pub. L. 118–31, §1713(b)(1), inserted ", including sustained duty in the Space Force" after "United States".
+
+Subsec. (d)(7). Pub. L. 118–31, §1713(b)(2), inserted ", or a member of the Space Force," after "Reserves" in subpars. (A) and (B).
+
+Subsecs. (e) to (h). Pub. L. 118–31, §1713(a), added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
 
 <b>2021</b>—Subsec. (a)(13)(B). Pub. L. 116–283, §1081(a)(5), substituted "section 3713" for "section 712".
 
@@ -744,6 +778,10 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 Pub. L. 85–861, §33(g), Sept. 2, 1958, 72 Stat. 1568, provided that: "This section \[see Tables for classification\] is effective as of August 10, 1956, for all purposes."
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 118–31, div. A, title XVII, §1701, Dec. 22, 2023, 137 Stat. 624, provided that: "This title \[see Tables for classification\] may be cited as the 'Space Force Personnel Management Act'."
+
 #### Short Title of 2019 Amendment
 
 Pub. L. 116–92, div. A, title IX, §951, Dec. 20, 2019, 133 Stat. 1561, provided that: "This subtitle \[subtitle D (§§951–961) of div. A of Pub. L. 116–92, see Tables for classification\] may be cited as the 'United States Space Force Act'."
@@ -774,7 +812,7 @@ Pub. L. 110–181, div. A, title XVIII, §1801, Jan. 28, 2008, 122 Stat. 496, pr
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–148, div. A, title VIII, §8126(a), Dec. 30, 2005, 119 Stat. 2728, which provided that this Act, probably meaning section 8126 of div. A of Pub. L. 109–148, which amended section 2554 of this title and section5309 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 2554 of this title and section 301 of Title 5, Government Organization and Employees, could be cited as the "Support Our Scouts Act of 2005", was repealed by Pub. L. 109–364, div. A, title X, §1071(f)(3), Oct. 17, 2006, 120 Stat. 2402.
+Pub. L. 109–148, div. A, title VIII, §8126(a), Dec. 30, 2005, 119 Stat. 2728, which provided that this Act, probably meaning section 8126 of div. A of Pub. L. 109–148, which amended section 2554 of this title and section 5309 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 2554 of this title and section 301 of Title 5, Government Organization and Employees, could be cited as the "Support Our Scouts Act of 2005", was repealed by Pub. L. 109–364, div. A, title X, §1071(f)(3), Oct. 17, 2006, 120 Stat. 2402.
 
 #### Short Title of 1999 Amendment
 
@@ -802,7 +840,7 @@ Pub. L. 98–525, title XII, §1201, Oct. 19, 1984, 98 Stat. 2588, provided that
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–22, §1(a), July 10, 1981, 95 Stat. 124, provided that: "this Act \[see Tables for classification\] may be cited as the 'Defense Officer Personnel Management Act Technical Corrections Act'."
+Pub. L. 97–22, §1(a), July 10, 1981, 95 Stat. 124, provided that: "this Act \[see Tables for classification\] may becited as the 'Defense Officer Personnel Management Act Technical Corrections Act'."
 
 #### Short Title of 1980 Amendment
 
@@ -907,9 +945,11 @@ Secretary Concerned Defined.—In this section, the term 'Secretary concerned' h
 
 #### Coordination of Certain Sections of an Act With Other Provisions of That Act
 
-Pub. L. 117–81, div. A, title X, §1081(d), Dec. 27, 2021, 135 Stat. 1922, provided that: "For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act."
+Pub. L. 118–31, div. A, title XVIII, §1801(b), Dec. 22, 2023, 137 Stat. 685, provided that: "For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–81, div. A, title X, §1081(d), Dec. 27, 2021, 135 Stat. 1922.
 
 Pub. L. 116–283, div. A, title X, §1081(g), Jan. 1, 2021, 134 Stat. 3875.
 
@@ -996,6 +1036,8 @@ Pub. L. 116–283, §1(b), as added by Pub. L. 117–81, div. A, title X, §1081
 #### Congressional Defense Committees Defined
 
 The following provisions provided that the term "congressional defense committees" for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+Pub. L. 118–31, §3, Dec. 22, 2023, 137 Stat. 164.
 
 Pub. L. 117–263, §3, Dec. 23, 2022, 136 Stat. 2438.
 
@@ -1105,7 +1147,7 @@ Pub. L. 104–201, §3, Sept. 23, 1996, 110 Stat. 2439.
 
 Pub. L. 104–106, §3, Feb. 10, 1996, 110 Stat. 204.
 
-The following provisions defined the term "congressional defense committees" for purposes of the Acts in which they were contained to mean the Committees on Armed Services, the Committees on Appropriations, and the subcommittees on Defense of the Committee onAppropriations, of the Senate and the House of Representatives:
+The following provisions defined the term "congressional defense committees" for purposes of the Acts in which they were contained to mean the Committees on Armed Services, the Committees on Appropriations, and the subcommittees on Defense of the Committee on Appropriations, of the Senate and the House of Representatives:
 
 Pub. L. 103–335, title VIII, §8056, Sept. 30, 1994, 108 Stat. 2631.
 

@@ -56,7 +56,7 @@
 
 (b) If the number of cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustees to serve in cases under such chapter. The United States trustee for such region shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.
 
-(c) Each United States trustee shall be under the general supervision of the Attorney General, who shall provide general coordination and assistance to the United States trustees.
+(c) Each United States trustee shall be under the general supervision of the Attorney General,who shall provide general coordination and assistance to the United States trustees.
 
 (d)(1) The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under paragraph (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11.
 

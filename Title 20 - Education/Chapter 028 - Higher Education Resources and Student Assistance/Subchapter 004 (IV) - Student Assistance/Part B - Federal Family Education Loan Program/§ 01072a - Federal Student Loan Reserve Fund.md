@@ -38,7 +38,7 @@ Subject to subsection (f), the Federal Fund may only be used by a guaranty agenc
 
 #### (e) Ownership of Federal Fund
 
-The Federal Fund, and any nonliquid asset (such as a building or equipment) developed or purchased by the guaranty agency in whole or in part with Federal reserve funds, regardless of who holds or controls the Federal reserve funds or such asset, shall be considered to be the property of the United States, prorated based on the percentage of such asset developed or purchased with Federal reserve funds, which property shall be used in the operation of the program authorized by this part, as provided in subsection (d). The Secretary may restrict or regulate the use of such asset only to the extent necessary to reasonably protect the Secretary's prorated share of the value of such asset. The Secretary may direct a guaranty agency, or such agency's officers or directors, to cease any activity involving expenditures, use, or transfer of the Federal Fund administered by the guaranty agency that the Secretary determines is a misapplication, misuse, or improper expenditure of the Federal Fund or the Secretary's share of such asset.
+The Federal Fund, and any nonliquid asset (such as a building or equipment) developed or purchased by the guaranty agency in whole or in part with Federal reserve funds, regardless of who holds or controls the Federal reserve funds or such asset, shall be considered to be the property of the United States, prorated based on the percentage of such asset developed or purchasedwith Federal reserve funds, which property shall be used in the operation of the program authorized by this part, as provided in subsection (d). The Secretary may restrict or regulate the use of such asset only to the extent necessary to reasonably protect the Secretary's prorated share of the value of such asset. The Secretary may direct a guaranty agency, or such agency's officers or directors, to cease any activity involving expenditures, use, or transfer of the Federal Fund administered by the guaranty agency that the Secretary determines is a misapplication, misuse, or improper expenditure of the Federal Fund or the Secretary's share of such asset.
 
 #### (f) Transition
 
@@ -56,7 +56,7 @@ The Federal Fund, and any nonliquid asset (such as a building or equipment) deve
 
 #### (3) Repayment provisions
 
-&emsp;Each guaranty agency shall begin repayment of sums transferred pursuant to this subsection not later than the start of the fourth year after the establishment of the Operating Fund, and shall repay all amounts transferred not later than 5 years from the date of the establishment of the Operating Fund. With respect to amounts transferred from the Federal Fund, the guaranty agency shall not be required to repay any interest on the fundstransferred and subsequently repaid. The guaranty agency shall provide to the Secretary a reasonable schedule for repayment of the sums transferred and an annual financial analysis demonstrating the agency's ability to comply with the schedule and repay all outstanding sums transferred.
+&emsp;Each guaranty agency shall begin repayment of sums transferred pursuant to this subsection not later than the start of the fourth year after the establishment of the Operating Fund, and shall repay all amounts transferred not later than 5 years from the date of the establishment of the Operating Fund. With respect to amounts transferred from the Federal Fund, the guaranty agency shall not be required to repay any interest on the funds transferred and subsequently repaid. The guaranty agency shall provide to the Secretary a reasonable schedule for repayment of the sums transferred and an annual financial analysis demonstrating the agency's ability to comply with the schedule and repay all outstanding sums transferred.
 
 #### (4) Prohibition
 
@@ -98,7 +98,7 @@ The Federal Fund, and any nonliquid asset (such as a building or equipment) deve
 
 #### (8) Special rule
 
-&emsp;In calculating the minimum reserve level required by section 1078(c)(9)(A) of this title, the Secretary shall include all amounts owed to the Federal Fund by the guaranty agency in the calculation.
+&emsp;In calculating the minimum reserve level required by section 1078(c)(9)(A) of this title, theSecretary shall include all amounts owed to the Federal Fund by the guaranty agency in the calculation.
 
 (Pub. L. 89–329, title IV, §422A, as added Pub. L. 105–244, title IV, §413(a), Oct. 7, 1998, 112 Stat. 1674; amended Pub. L. 110–315, title IV, §438(a)(1), Aug. 14, 2008, 122 Stat. 3258.)
 

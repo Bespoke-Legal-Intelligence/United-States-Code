@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding section 704 of the Telecommunications Act of 1996 (Public Law 104–104) or any other provision of law, a State or local government may not deny, and shall approve, any eligible facilities request for a modification of an existing wireless tower or base station that does not substantially change the physical dimensions of such tower or base station.
+&emsp;Notwithstanding section 704 of the Telecommunications Act of 1996 (Public Law104–104) or any other provision of law, a State or local government may not deny, and shall approve, any eligible facilities request for a modification of an existing wireless tower or base station that does not substantially change the physical dimensions of such tower or base station.
 
 #### (2) Eligible facilities request
 
@@ -24,7 +24,7 @@
 
 #### (1) Grant
 
-&emsp;If an executive agency, a State, a political subdivision or agency of a State, or a person,firm, or organization applies for the grant of an easement, right-of-way, or lease to, in, over, or on a building or other property owned by the Federal Government for the right to install, construct, modify, or maintain a communications facility installation, the executive agency having control of the building or other property may grant to the applicant, on behalf of the Federal Government, subject to paragraph (3), an easement, right-of-way, or lease to perform such installation, construction, modification, or maintenance.
+&emsp;If an executive agency, a State, a political subdivision or agency of a State, or a person, firm, or organization applies for the grant of an easement, right-of-way, or lease to, in, over, or on a building or other property owned by the Federal Government for the right to install, construct, modify, or maintain a communications facility installation, the executive agency having control of the building or other property may grant to the applicant, on behalf of the Federal Government, subject to paragraph (3), an easement, right-of-way, or lease to perform such installation, construction, modification, or maintenance.
 
 #### (2) Application
 
@@ -76,7 +76,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator of General Services shall develop a common form or set of forms for communications facility installation siting applications that, except as provided in subparagraph (B), shall be used by all executive agencies and applicants with respect to the buildings and other property of each such agency.
+&emsp;&emsp;The Administrator of General Services shall develop a common form or set of forms for communications facility installation siting applications that, except as providedin subparagraph (B), shall be used by all executive agencies and applicants with respect to the buildings and other property of each such agency.
 
 #### (B) Exception
 
@@ -96,7 +96,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) is designed for the purpose of emitting radio frequency;
 
-&emsp;&emsp;&emsp;(ii) is designed to be operated, or is operating, from a fixed location pursuant toauthorization by the Federal Communications Commission or is using duly authorized devices that do not require individual licenses; and
+&emsp;&emsp;&emsp;(ii) is designed to be operated, or is operating, from a fixed location pursuant to authorization by the Federal Communications Commission or is using duly authorized devices that do not require individual licenses; and
 
 &emsp;&emsp;&emsp;(iii) is added to a tower, building, or other structure.
 

@@ -96,5 +96,5 @@ For the purposes of this subchapter:
 
 <b>2017</b>—Par. (17). Pub. L. 115–31, §237(c)(1), which directed insertion of "or any 0-bedroom dwelling" after "disabilities,", was executed by making the insertion after "disabilities" the first place appearing to reflect the probable intent of Congress.
 
-Pub. L. 115–31, §237(c)(2), which directed substitution of "housing)" for "housing for the elderly or personswith disabilities) or any 0 bedroom dwelling", was executed by making the substitution for "housing for the elderly or persons with disabilities) or any 0-bedroom dwelling" to reflect the probable intent of Congress.
+Pub. L. 115–31, §237(c)(2), which directed substitution of "housing)" for "housing for the elderly or persons with disabilities) or any 0 bedroom dwelling", was executed by making the substitution for "housing for the elderly or persons with disabilities) or any 0-bedroom dwelling" to reflect the probable intent of Congress.
 

@@ -86,7 +86,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (1) Transfer
 
-&emsp;To the extent that any office or entity in the Capitol Police prior to the appointment of the first Inspector General under this section carried out any of the duties and responsibilities assigned to the Inspector General under thissection, the functions of such office or entity shall be transferred to the Office upon the appointment of the first Inspector General under this section.
+&emsp;To the extent that any office or entity in the Capitol Police prior to the appointment of the first Inspector General under this section carried out any of the duties and responsibilities assigned to the Inspector General under this section, the functions of such office or entity shall be transferred to the Office upon the appointment of the first Inspector General under this section.
 
 #### (2) No reduction in pay or benefits
 
@@ -96,7 +96,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 This section shall be effective on August 2, 2005.
 
-(Pub. L. 109–55, title I, §1004, Aug. 2, 2005, 119 Stat. 572; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 117–286, §4(b)(4), Dec. 27, 2022, 136 Stat. 4342.)
+(Pub. L. 109–55, title I, §1004, Aug. 2, 2005, 119 Stat. 572; Pub. L. 113–235, div. H, title I, §1301(b),Dec. 16, 2014, 128 Stat. 2537; Pub. L. 117–286, §4(b)(4), Dec. 27, 2022, 136 Stat. 4342.)
 
 #### <b>Editorial Notes</b>
 

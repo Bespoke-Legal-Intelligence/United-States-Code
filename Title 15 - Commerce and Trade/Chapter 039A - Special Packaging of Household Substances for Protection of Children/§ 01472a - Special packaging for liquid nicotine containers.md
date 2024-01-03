@@ -16,7 +16,7 @@ Notwithstanding section 1261(f)(2) of this title and section 2052(a)(5) of this 
 
 #### (2) Consultation
 
-&emsp;If the Secretary of Health and Human Services adopts, maintains, enforces, or imposes orcontinues in effect any packaging requirement for liquid nicotine containers, including a child-resistant packaging requirement, the Secretary shall consult with the Commission, taking into consideration the expertise of the Commission in implementing and enforcing this section and the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471 et seq.).
+&emsp;If the Secretary of Health and Human Services adopts, maintains, enforces, or imposes or continues in effect any packaging requirement for liquid nicotine containers, including a child-resistant packaging requirement, the Secretary shall consult with the Commission, taking into consideration the expertise of the Commission in implementing and enforcing this section and the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471 et seq.).
 
 #### (c) Applicability
 
@@ -42,7 +42,7 @@ In this section:
 
 #### (B) Exclusion
 
-&emsp;&emsp;The term "liquid nicotine container" does not include a sealed, pre-filled, and disposable container of nicotine in a solution or other form in which such container is inserted directly into an electronic cigarette, electronic nicotine delivery system, or other similar product, if the nicotine in the container is inaccessible through customary or reasonably foreseeable handling or use, including reasonably foreseeable ingestion or other contact by children.
+&emsp;&emsp;The term "liquid nicotine container" does not include a sealed, pre-filled, and disposable container of nicotine in a solution or other form in which such container is inserted directly into an electronic cigarette, electronic nicotine delivery system, or other similar product, if the nicotine in the container is inaccessible through customary orreasonably foreseeable handling or use, including reasonably foreseeable ingestion or other contact by children.
 
 #### (3) Nicotine
 

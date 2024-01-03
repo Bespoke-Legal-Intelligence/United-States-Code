@@ -22,7 +22,7 @@ Each application for a permit under this section shall contain such information 
 
 (B) Not later than the date eight years after November 8, 1984, in the case of each application for a permit under this subsection for any facility (other than a facility referred to in subparagraph (A)) which was submitted before such date, the Administrator shall issue a final permit pursuant to such application or issue a final denial of such application.
 
-(C) The time periods specified in this paragraph shall also apply in the case of any State which is administering an authorized hazardous waste program under section 6926 of this title. Interim status under subsection (e) shall terminate for each facility referred to in subparagraph (A)(ii) or (B) on the expiration of the five- or eight-year period referred to in subparagraph\(A) or (B), whichever is applicable, unless the owner or operator of the facility applies for a final determination regarding the issuance of a permit under this subsection within—
+(C) The time periods specified in this paragraph shall also apply in the case of any State which is administering an authorized hazardous waste program under section 6926 of this title. Interim status under subsection (e) shall terminate for each facility referred to in subparagraph (A)(ii) or (B) on the expiration of the five- or eight-year period referred to in subparagraph (A) or (B), whichever is applicable, unless the owner or operator of the facility applies for a final determination regarding the issuance of a permit under this subsection within—
 
 &emsp;(i) two years after November 8, 1984 (in the case of a facility referred to in subparagraph (A)(ii)), or
 
@@ -106,7 +106,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 (4) The Administrator (or the State, in the case of a State with an authorized program), after notice and opportunity for comment, may modify the requirements of paragraph (1) for any surface impoundment if the owner or operator demonstrates that such surface impoundment is located, designed and operated so as to assure that there will be no migration of any hazardous constitutent <sup>2</sup> into ground water or surface water at any future time. The Administrator or the State shall take into account locational criteria established under section 6924(o)(7) of this title.
 
-(5) The owner or operator of any surface impoundment potentially subject to paragraph (1)who has reason to believe that on the basis of paragraph (2), (3), or (4) such surface impoundment is not required to comply with the requirements of paragraph (1), shall apply to the Administrator (or the State, in the case of a State with an authorized program) not later than twenty-four months after November 8, 1984, for a determination of the applicability of paragraph (1) (in the case of paragraph (2) or (3)) or for a modification of the requirements of paragraph (1) (in the case of paragraph (4)), with respect to such surface impoundment. Such owner or operator shall provide, with such application, evidence pertinent to such decision, including:
+(5) The owner or operator of any surface impoundment potentially subject to paragraph (1) who has reason to believe that on the basis of paragraph (2), (3), or (4) such surface impoundment is not required to comply with the requirements of paragraph (1), shall apply to the Administrator (or the State, in the case of a State with an authorized program) not later than twenty-four months after November 8, 1984, for a determination of the applicability of paragraph (1) (in the case of paragraph (2) or (3)) or for a modification of the requirements of paragraph (1) (in the case of paragraph (4)), with respect to such surface impoundment. Such owner or operator shall provide, with such application, evidence pertinent to such decision, including:
 
 &emsp;(A) an application for a final determination regarding the issuance of a permit under subsection (c) of this section for such facility, if not previously submitted;
 
@@ -154,7 +154,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 (B) For the purposes of this subsection, the term "aggressive biological treatment facility" means a system of surface impoundments in which the initial impoundment of the secondary treatment segment of the facility utilizes intense mechanical aeration to enhance biological activity to degrade waste water pollutants and
 
-&emsp;(i) the hydraulic retention time in such initial impoundment is no longer than 5 days under normal operating conditions, on an annual average basis;
+&emsp;(i) the hydraulic retention time in such initial impoundment is no longer than 5 daysunder normal operating conditions, on an annual average basis;
 
 &emsp;(ii) the hydraulic retention time in such initial impoundment is no longer than thirty days under normal operating conditions, on an annual average basis: <i>Provided</i>, That the sludge in such impoundment does not constitute a hazardous waste as identified by the extraction procedure toxicity characteristic in effect on November 8, 1984; or
 
@@ -180,7 +180,7 @@ The Safe Drinking Water Act, referred to in subsec. (j)(12)(C), is title XIV of 
 
 Subsec. (e)(1)(C). Pub. L. 104–119, §4(7), inserted comma at end of subpar. (C).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–616, §211, substituted "an existing facility or planning to construct a new" for "a", inserted "and the construction of any new facility for the treatment, storage, or disposal of any such hazardous waste", and inserted at end "No permit shall be required under this section in order to construct a facility if such facility is constructed pursuant to an approval issued by the Administrator under section2605(e) of title 15 for the incineration of polycholorinated \[sic\] biphenyls and any person owning or operating such a facility may, at any time after operation or construction of such facility has begun, file an application for a permit pursuant to this section authorizing such facility to incinerate hazardous waste identified or listed under this subchapter."
+<b>1984</b>—Subsec. (a). Pub. L. 98–616, §211, substituted "an existing facility or planning to construct a new" for "a", inserted "and the construction of any new facility for the treatment, storage, or disposal of any such hazardous waste", and inserted at end "No permit shall be required under this section in order to construct a facility if such facility is constructed pursuant to an approval issued by the Administrator under section 2605(e) of title 15 for the incineration of polycholorinated \[sic\] biphenyls and any person owning or operating such a facility may, at any time after operation or construction of such facility has begun, file an application for a permit pursuant to this section authorizing such facility to incinerate hazardous waste identified or listed under this subchapter."
 
 Subsec. (c)(1), (2). Pub. L. 98–616, §213(c), designated existing provisions as par. (1) and added par. (2).
 

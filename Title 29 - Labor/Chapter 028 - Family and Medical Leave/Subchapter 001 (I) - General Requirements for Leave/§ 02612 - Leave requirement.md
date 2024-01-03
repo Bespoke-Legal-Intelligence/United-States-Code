@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;Leave under subparagraph (A) or (B) of subsection (a)(1) shall not be taken by an employee intermittently or on a reduced leave schedule unless the employee and the employer of the employee agree otherwise. Subject to paragraph (2), subsection (e)(2), and subsection (b)(5) or (f) (as appropriate) of section 2613 of this title, leave under subparagraph (C) or (D) of subsection (a)(1) or under subsection (a)(3) may be taken intermittently or on a reduced leave schedule when medically necessary. Subject to subsection (e)(3) and section 2613(f) of this title, leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule. The taking of leave intermittently or on a reduced leave schedule pursuant to this paragraph shall not result in a reduction in the total amount of leave to which the employee is entitled under subsection (a) beyond the amount of leave actually taken.
+&emsp;Leave under subparagraph (A) or (B) of subsection (a)(1) shall not be taken by an employee intermittently or on a reduced leave schedule unless the employee and the employer of the employee agree otherwise. Subject to paragraph (2), subsection (e)(2), and subsection (b)(5) or (f) (as appropriate) of section 2613 of this title, leave under subparagraph (C) or (D) of subsection (a)(1) or under subsection (a)(3) may be taken intermittently or on a reduced leave schedule when medically necessary. Subject to subsection (e)(3) and section 2613(f) of this title, leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule. The taking of leaveintermittently or on a reduced leave schedule pursuant to this paragraph shall not result in a reduction in the total amount of leave to which the employee is entitled under subsection (a) beyond the amount of leave actually taken.
 
 #### (2) Alternative position
 
@@ -148,7 +148,7 @@ Except as provided in subsection (d), leave granted under subsection (a) (other 
 
 #### References in Text
 
-The date the Emergency Family and Medical Leave Expansion Act takes effect, referred to in subsec.\(a)(1)(F), is the effective date of div. C of Pub. L. 116–127, which is set out as an Effective Date note under section 2620 of this title.
+The date the Emergency Family and Medical Leave Expansion Act takes effect, referred to in subsec. (a)(1)(F), is the effective date of div. C of Pub. L. 116–127, which is set out as an Effective Date note under section 2620 of this title.
 
 #### Constitutionality
 

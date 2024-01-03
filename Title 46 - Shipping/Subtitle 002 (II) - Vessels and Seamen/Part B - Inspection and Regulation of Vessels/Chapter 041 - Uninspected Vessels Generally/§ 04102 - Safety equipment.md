@@ -2,7 +2,7 @@
 
 (a) Each uninspected vessel propelled by machinery shall be provided with the number, type, and size of fire extinguishers, capable of promptly and effectively extinguishing burning liquid fuel, that may be prescribed by regulation. The fire extinguishers shall be kept in condition for immediate and effective use and so placed as to be readily accessible.
 
-(b) The Secretary shall prescribe regulations requiring the installation, maintenance, and useof life preservers and other lifesaving devices for individuals on board uninspected vessels.
+(b) The Secretary shall prescribe regulations requiring the installation, maintenance, and use of life preservers and other lifesaving devices for individuals on board uninspected vessels.
 
 (c) Each uninspected vessel shall have the carburetors of each engine of the vessel (except an outboard motor) using gasoline as fuel, equipped with an efficient flame arrestor, backfire trap, or other similar device prescribed by regulation.
 

@@ -84,7 +84,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (1) In general
 
-&emsp;Not later than October 1, 1998, in order to assist States in administering programs under State plans approved under this part and programs funded under part A, and for the other purposes specified in this section, the Secretary shall establish and maintain in the Federal Parent Locator Service an automated registry (which shall be known as the "Federal Case Registry of Child Support Orders"), which shall contain abstracts of support orders and other information described in paragraph (2) with respect to each case and order in each State case registry maintained pursuant to section 654a(e) of this title, as furnished (and regularly updated), pursuant to section 654a(f) of this title, by State agencies administering programs under this part.
+&emsp;Not later than October 1, 1998, in order to assist States in administering programs underState plans approved under this part and programs funded under part A, and for the other purposes specified in this section, the Secretary shall establish and maintain in the Federal Parent Locator Service an automated registry (which shall be known as the "Federal Case Registry of Child Support Orders"), which shall contain abstracts of support orders and other information described in paragraph (2) with respect to each case and order in each State case registry maintained pursuant to section 654a(e) of this title, as furnished (and regularly updated), pursuant to section 654a(f) of this title, by State agencies administering programs under this part.
 
 #### (2) Case and order information
 
@@ -128,7 +128,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall transmit information on individuals and employers maintainedunder this section to the Social Security Administration to the extent necessary for verification in accordance with subparagraph (B).
+&emsp;&emsp;The Secretary shall transmit information on individuals and employers maintained under this section to the Social Security Administration to the extent necessary for verification in accordance with subparagraph (B).
 
 #### (B) Verification by SSA
 
@@ -290,7 +290,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (v) Restrictions on redisclosure
 
-&emsp;&emsp;&emsp;A person or entity to which information is disclosed under this subparagraph may use or disclose such information only as needed for verifying the employment and income of individuals described in subparagraph (A), subject to the conditions in clause (iii) and such additional conditions as agreed to by the Secretaries.
+&emsp;&emsp;&emsp;A person or entity to which information is disclosed under this subparagraph mayuse or disclose such information only as needed for verifying the employment and income of individuals described in subparagraph (A), subject to the conditions in clause (iii) and such additional conditions as agreed to by the Secretaries.
 
 #### (F) Reimbursement of HHS costs
 
@@ -344,7 +344,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (B) Requirement to seek minimum information
 
-&emsp;&emsp;The Secretary of the Treasury shall seek information pursuant to this section only tothe extent necessary to improve collection of the debt described in subparagraph (A).
+&emsp;&emsp;The Secretary of the Treasury shall seek information pursuant to this section only to the extent necessary to improve collection of the debt described in subparagraph (A).
 
 #### (C) Duties of the Secretary
 
@@ -358,7 +358,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (D) Use of information by the Secretary of the Treasury
 
-&emsp;&emsp;The Secretary of the Treasury may use information provided under this paragraph only for purposes of collecting the debt described in subparagraph (A).
+&emsp;&emsp;The Secretary of the Treasury may use information provided under this paragraphonly for purposes of collecting the debt described in subparagraph (A).
 
 #### (E) Disclosure of information by the Secretary of the Treasury
 
@@ -486,7 +486,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (1) For SSA verification
 
-&emsp;The Secretary shall reimburse the Commissioner of Social Security, at a rate negotiatedbetween the Secretary and the Commissioner, for the costs incurred by the Commissioner in performing the verification services described in subsection (j).
+&emsp;The Secretary shall reimburse the Commissioner of Social Security, at a rate negotiated between the Secretary and the Commissioner, for the costs incurred by the Commissioner in performing the verification services described in subsection (j).
 
 #### (2) For information from State directories of new hires
 
@@ -526,7 +526,7 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 As used in this part, the term "support order" means a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or of the parent with whom the child is living, which provides for monetary support, health care, arrearages, or reimbursement, and which may include related costs and fees, interest and penalties, income withholding, attorneys' fees, and other relief.
 
-(Aug. 14, 1935, ch. 531, title IV, §453, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2353; amended Pub. L. 97–35, title XXIII, §2332(c), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§17, 19(a), Aug. 16, 1984, 98 Stat. 1321, 1322; Pub. L. 100–485, title I, §124(a), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, 111 Stat. 627, 629–631, 636, 637; Pub. L. 105–34, title X, §1090(a)(2), Aug. 5, 1997, 111 Stat. 961; Pub. L. 105–89, title I, §105, Nov. 19, 1997, 111 Stat. 2120; Pub. L. 105–200, title IV, §§402(a), (b), 410(d), July 16, 1998, 112 Stat. 668, 669, 673; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304, 1501A–306; Pub. L. 108–199, div. G, title II, §217(a), Jan. 23, 2004, 118 Stat. 394; Pub. L. 108–295, §3, Aug. 9, 2004, 118 Stat. 1091; Pub. L. 108–447, div. H, title VI, §643, Dec. 8, 2004, 118 Stat. 3283; Pub. L. 109–171, title VII, §§7305, 7306(b), Feb. 8, 2006, 120 Stat. 145, 146; Pub. L. 109–250, §2, July 27, 2006, 120 Stat. 652; Pub. L.110–157, title III, §301(a), Dec. 26, 2007, 121 Stat. 1833; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–351, title I, §105, Oct. 7, 2008, 122 Stat. 3957; Pub. L. 112–37, §17(b), Oct. 5, 2011, 125 Stat. 398; Pub. L. 113–37, §3(a), Sept. 30, 2013, 127 Stat. 525; Pub. L. 113–79, title IV, §4030(p), Feb. 7, 2014, 128 Stat. 815; Pub. L. 113–183, title III, §§301(a)(2), (b), 302(a), (c), Sept. 29, 2014, 128 Stat. 1943, 1945, 1946.)
+(Aug. 14, 1935, ch. 531, title IV, §453, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2353; amended Pub. L. 97–35, title XXIII, §2332(c), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§17, 19(a), Aug. 16, 1984, 98 Stat. 1321, 1322; Pub. L. 100–485, title I, §124(a), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, 111 Stat. 627, 629–631, 636, 637; Pub. L. 105–34, title X, §1090(a)(2), Aug. 5, 1997, 111 Stat. 961; Pub. L. 105–89, title I, §105, Nov. 19, 1997, 111 Stat. 2120; Pub. L. 105–200, title IV, §§402(a), (b), 410(d), July 16, 1998, 112 Stat. 668, 669, 673; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304, 1501A–306; Pub. L. 108–199, div. G, title II, §217(a), Jan. 23, 2004, 118 Stat. 394; Pub. L. 108–295, §3, Aug. 9, 2004, 118 Stat. 1091; Pub. L. 108–447, div. H, title VI, §643, Dec. 8, 2004, 118 Stat. 3283; Pub. L. 109–171, title VII, §§7305, 7306(b), Feb. 8, 2006, 120 Stat. 145, 146; Pub. L. 109–250, §2, July 27, 2006, 120 Stat. 652; Pub. L. 110–157, title III, §301(a), Dec. 26, 2007, 121 Stat. 1833; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–351, title I, §105, Oct. 7, 2008, 122 Stat. 3957; Pub. L. 112–37, §17(b), Oct. 5, 2011, 125 Stat. 398; Pub. L. 113–37, §3(a), Sept. 30, 2013, 127 Stat. 525; Pub. L. 113–79, title IV, §4030(p), Feb. 7, 2014, 128 Stat. 815; Pub. L. 113–183, title III, §§301(a)(2), (b), 302(a), (c), Sept. 29, 2014, 128 Stat. 1943, 1945, 1946.)
 
 #### <b>Editorial Notes</b>
 
@@ -616,7 +616,7 @@ Subsec. (b). Pub. L. 105–33, §5534(a)(2), amended subsec. (b) generally, revi
 
 Subsec. (c)(1). Pub. L. 105–33, §5534(a)(3)(A), struck out "or to seek to enforce orders providing child custody or visitation rights" after "spousal support".
 
-Subsec. (c)(2). Pub. L. 105–33, §5534(a)(3)(B), inserted "or to serve as the initiating court in an action to seekan order" after "authority to issue an order" and struck out "or to issue an order against a resident parent for child custody or visitation rights" after "maintenance of a child".
+Subsec. (c)(2). Pub. L. 105–33, §5534(a)(3)(B), inserted "or to serve as the initiating court in an action to seek an order" after "authority to issue an order" and struck out "or to issue an order against a resident parent for child custody or visitation rights" after "maintenance of a child".
 
 Subsec. (c)(4). Pub. L. 105–89, §105(2), added par. (4).
 
@@ -726,7 +726,7 @@ Pub. L. 100–485, title I, §124(c), Oct. 13, 1988, 102 Stat. 2353, provided th
 
 "(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and sections 503 and 504 of this title\] shall become effective on the first day of the first calendar quarter which begins one year or more after the date of the enactment of this Act \[Oct. 13, 1988\].
 
-"(2) The Secretary of Health and Human Services and the Secretary of Labor shall enter into the agreement required by the amendment made by subsection (a) \[amending this section\] not later than 90 days after the date of the enactment of this Act."
+"(2) The Secretary of Health and Human Services and the Secretary of Labor shall enter into the agreementrequired by the amendment made by subsection (a) \[amending this section\] not later than 90 days after the date of the enactment of this Act."
 
 #### Effective Date of 1984 Amendment
 

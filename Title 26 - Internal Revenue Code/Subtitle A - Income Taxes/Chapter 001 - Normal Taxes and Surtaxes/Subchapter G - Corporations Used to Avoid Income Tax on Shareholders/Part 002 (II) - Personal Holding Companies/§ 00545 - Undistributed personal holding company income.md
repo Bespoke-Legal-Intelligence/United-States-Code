@@ -14,7 +14,7 @@ For the purposes of subsection (a), the taxable income shall be adjusted as foll
 
 #### (2) Charitable contributions
 
-&emsp;The deduction for charitable contributions provided under section 170 shall be allowed, but in computing such deduction the limitations in section 170(b)(1)(A), (B), (D), and (E) shall apply, and section 170(b)(2) and (d)(1) shall not apply. For purposes of this paragraph, the term "contribution base" when used in section 170(b)(1) means the taxable income computed with the adjustments (other than the 10-percent limitation) provided in section 170(b)(2) and (d)(1) and without deduction of the amount disallowed under paragraph (6) of this subsection.
+&emsp;The deduction for charitable contributions provided under section 170 shall be allowed,but in computing such deduction the limitations in section 170(b)(1)(A), (B), (D), and (E) shall apply, and section 170(b)(2) and (d)(1) shall not apply. For purposes of this paragraph, the term "contribution base" when used in section 170(b)(1) means the taxable income computed with the adjustments (other than the 10-percent limitation) provided in section 170(b)(2) and (d)(1) and without deduction of the amount disallowed under paragraph (6) of this subsection.
 
 #### (3) Special deductions disallowed
 
@@ -34,7 +34,7 @@ For the purposes of subsection (a), the taxable income shall be adjusted as foll
 
 #### (6) Expenses and depreciation applicable to property of the taxpayer
 
-&emsp;The aggregate of the deductions allowed under section 162 (relating to trade or businessexpenses) and section 167 (relating to depreciation), which are allocable to the operation and maintenance of property owned or operated by the corporation, shall be allowed only in an amount equal to the rent or other compensation received for the use of, or the right to use, the property, unless it is established (under regulations prescribed by the Secretary) to the satisfaction of the Secretary—
+&emsp;The aggregate of the deductions allowed under section 162 (relating to trade or business expenses) and section 167 (relating to depreciation), which are allocable to the operation and maintenance of property owned or operated by the corporation, shall be allowed only in an amount equal to the rent or other compensation received for the use of, or the right to use, the property, unless it is established (under regulations prescribed by the Secretary) to the satisfaction of the Secretary—
 
 &emsp;&emsp;(A) that the rent or other compensation received was the highest obtainable, or, if none was received, that none was obtainable;
 
@@ -68,7 +68,7 @@ In the case of a foreign corporation all of the outstanding stock of which durin
 
 <b>1983</b>—Subsec. (b)(2). Pub. L. 97–448 substituted "10-percent" for "5-percent".
 
-<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455, §§1033(b)(4), 1901(a)(77)(A), struck out "(other than excess profits tax imposed by subchapter E of chapter 2 of the Internal Revenue Code of 1939 for taxable years beginning after December 31, 1940)" after "Federal income and excess profits taxes"; substituted "902(a) or 960(a)(1)" for "902(a)(1) or 960(a)(1)(C)" after "corporation under section"; and struck out provisions after "prior income tax law" relating to election by taxpayer who paid Federal income and excess profits taxes to deduct payments, when made, for purposes of computing subchapter A net income or, for a taxable year ending after June 30, 1954, to deduct such taxes when accrued, such election being irrevocable and applied to taxable year for which election was made and to all subsequent taxable years.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455, §§1033(b)(4), 1901(a)(77)(A), struck out "(other than excess profits tax imposed by subchapter E of chapter 2 of the Internal Revenue Code of 1939 for taxable years beginning after December 31, 1940)" after "Federal income and excess profits taxes"; substituted "902(a) or 960(a)(1)" for "902(a)(1) or 960(a)(1)(C)" after "corporation under section"; and struck out provisions after "prior incometax law" relating to election by taxpayer who paid Federal income and excess profits taxes to deduct payments, when made, for purposes of computing subchapter A net income or, for a taxable year ending after June 30, 1954, to deduct such taxes when accrued, such election being irrevocable and applied to taxable year for which election was made and to all subsequent taxable years.
 
 Subsec. (b)(2). Pub. L. 94–455, §1901(b)(20)(B)(ii), substituted "paragraph (6)" for "paragraph (8)" after "amount disallowed under".
 
@@ -92,7 +92,7 @@ Subsec. (c)(5). Pub. L. 94–455, §1901(b)(20)(B)(iii), substituted "subsection
 
 <b>1969</b>—Subsec. (b)(2). Pub. L. 91–172 substituted "section 170(b)(1)(A), (B), and (D)", "section 170(b)(2) and (d)(1)" for "section 170(b)(1)(A) and (B)" and "section 170(b)(2) and (5)", respectively, in provisions of first sentence setting out the sections appropriate to the computation of the deduction, and in provisions of second sentence describing applicability of terms for purposes of this paragraph, substituted "contribution base" and "section 170(b)(2) and (d)(1)" for "adjusted gross income" and "the first sentence of section 170(b)(2) and (5)," respectively.
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–809, §104(h)(3)(A), substituted "in the manner provided in subsections (b), (c),and (d)" for "in the manner provided in subsection (b) and (c)" and inserted provisions governing the case of a personal holding company which is a foreign corporation, not more than 10 percent in value of the outstanding stock of which is owned (within the meaning of section 958(a)) during the last half of the taxable year by United States persons.
+<b>1966</b>—Subsec. (a). Pub. L. 89–809, §104(h)(3)(A), substituted "in the manner provided in subsections (b), (c), and (d)" for "in the manner provided in subsection (b) and (c)" and inserted provisions governing the case of a personal holding company which is a foreign corporation, not more than 10 percent in value of the outstanding stock of which is owned (within the meaning of section 958(a)) during the last half of the taxable year by United States persons.
 
 Subsec. (b)(9). Pub. L. 89–719 substituted "section 6323(f)" for "section 6323(a)(1), (2), or (3)".
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 
 Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) of Pub. L. 89–809, set out as a note under section 11 of this title.
 
-Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when the title or lien of the United States arose or when the lien or interest of another person was acquired, except in a case in which a lien or title derived from enforcement of a lien held by the United States has been enforced by a civil action or suit which has become final by judgment, sale, or agreement before Nov. 2, 1966, or in a case in which the amendment would impair a priority held by any person other than the United States holding a lien or interest prior to Nov. 2, 1966, operate to increase the liability of such person, or shorten the time for bringing suit with respect to transactions occurring before Nov. 2, 1966, see section 114(a)–(e) of Pub. L. 89–719, set out as a note under section 6323 of this title.
+Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when the title or lien of the United States arose or when the lien or interest of another person was acquired, except in a case in which a lien or title derived from enforcement of a lien held by the United States has been enforced by a civil action or suit which has become final by judgment, sale, or agreement before Nov. 2, 1966, or in a case in which theamendment would impair a priority held by any person other than the United States holding a lien or interest prior to Nov. 2, 1966, operate to increase the liability of such person, or shorten the time for bringing suit with respect to transactions occurring before Nov. 2, 1966, see section 114(a)–(e) of Pub. L. 89–719, set out as a note under section 6323 of this title.
 
 #### Effective Date of 1964 Amendment
 

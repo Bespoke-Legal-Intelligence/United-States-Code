@@ -74,7 +74,7 @@ In this section, the term "endowment fund" means the Hispanic-Serving Agricultur
 
 #### (B) Relationship to other law
 
-&emsp;&emsp;Except as otherwise provided in this subsection, the requirements of that Act shallapply to Hispanic-serving agricultural colleges and universities under this section.
+&emsp;&emsp;Except as otherwise provided in this subsection, the requirements of that Act shall apply to Hispanic-serving agricultural colleges and universities under this section.
 
 #### (d) Institutional capacity-building grants
 

@@ -76,7 +76,7 @@ Pub. L. 109–177, title VI, §606, Mar. 9, 2006, 120 Stat. 256, provided that:
 
 "(a) This title \[see Tables for classification\] does not affect the retirement benefits of current employees or annuitants that existed on the day before the effective date of this Act \[probably means Mar. 9, 2006, the date of enactment of Pub. L. 109–177\].
 
-"(b) This title does not affect any Executive order transferring to the Secretary of State the authority ofsection 208 of title 3 (now section 3056A(d) of title 18) in effect on the day before the effective date of this Act."
+"(b) This title does not affect any Executive order transferring to the Secretary of State the authority of section 208 of title 3 (now section 3056A(d) of title 18) in effect on the day before the effective date of this Act."
 
 #### Conversion to New Salary Schedule
 
@@ -128,7 +128,7 @@ Adjustment To Take Into Account General Schedule Adjustments During Transition.�
 
 "(f)
 
-Conversion Not Treated as Salary Increase for Purposes of Certain Pensions and Allowances.—The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (as amended by section 2\[902\](a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be treated as an increase in salary for purposes of section 3 of the Act entitled 'An Act to provide increased pensions for widows and children of deceased members of the Police Department and the Fire Department of the District of Columbia', approved August 4, 1949 \[ch. 394, 63 Stat. 566\] (sec. 4–604, D.C. Code), or section 301 of the District of Columbia Police and Firemen's Salary Act of 1953 \[June 20, 1953, ch. 146, title III, 67 Stat. 75\] (sec. 4–605, D.C. Code)."
+Conversion Not Treated as Salary Increase for Purposes of Certain Pensions and Allowances.—The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (as amended by section 2\[902\](a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be treated as an increase in salary for purposes of section 3 of the Act entitled 'An Act to provide increased pensions for widows and children of deceased members of the Police Department and the Fire Department of the District of Columbia', approved August4, 1949 \[ch. 394, 63 Stat. 566\] (sec. 4–604, D.C. Code), or section 301 of the District of Columbia Police and Firemen's Salary Act of 1953 \[June 20, 1953, ch. 146, title III, 67 Stat. 75\] (sec. 4–605, D.C. Code)."
 
 \[Pub. L. 111–282, §4(b)(4), Oct. 15, 2010, 124 Stat. 3043, which directed amendment of section 1(a)(4) \[div. B, title IX, §905(a)(1)\] of Pub. L. 106–554, set out above, by striking out "the Secretary of Treasury" and all that followed through "United States Secret Service Uniformed Division, and", was executed by striking out "the Secretary of the Treasury shall fix the rates of basic pay for officers and members of the United States Secret Service Uniformed Division, and" to reflect the probable intent of Congress.
 
@@ -150,7 +150,7 @@ Limitation on Pay Period Earnings.—\[Amended act Aug. 15, 1950, ch. 715, 64 St
 
 "(d)
 
-Savings Provision.—On the effective date of this section, any existing special salary rates authorized for members of the United States Secret Service Uniformed Division under section 5305 of title 5, UnitedStates Code (or any previous similar provision of law) and any special rates of pay or special pay adjustments under section 403, 404, or 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[Pub. L. 101–509, §529 \[title IV, §§403–405\], 5 U.S.C. 5305 note\] applicable to members of the United States Secret Service Uniformed Division shall be rendered inapplicable.
+Savings Provision.—On the effective date of this section, any existing special salary rates authorized for members of the United States Secret Service Uniformed Division under section 5305 of title 5, United States Code (or any previous similar provision of law) and any special rates of pay or special pay adjustments under section 403, 404, or 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[Pub. L. 101–509, §529 \[title IV, §§403–405\], 5 U.S.C. 5305 note\] applicable to members of the United States Secret Service Uniformed Division shall be rendered inapplicable.
 
 "(e)
 

@@ -48,7 +48,7 @@
 
 &emsp;(16) the level of tax expenditures under existing law in the tax expenditures budget (as defined in section 3(a)(3) of the Congressional Budget Act of 1974 (2 U.S.C. 622(a)(3)) for the fiscal year for which the budget is submitted, considering projected economic factors and changes in the existing levels based on proposals in the budget.
 
-&emsp;(17) information on estimates of appropriations for the fiscal year following the fiscalyear for which the budget is submitted for grants, contracts, and other payments under each program for which there is an authorization of appropriations for that following fiscal year when the appropriations are authorized to be included in an appropriation law for the fiscal year before the fiscal year in which the appropriation is to be available for obligation.
+&emsp;(17) information on estimates of appropriations for the fiscal year following the fiscal year for which the budget is submitted for grants, contracts, and other payments under each program for which there is an authorization of appropriations for that following fiscal year when the appropriations are authorized to be included in an appropriation law for the fiscal year before the fiscal year in which the appropriation is to be available for obligation.
 
 &emsp;(18) a comparison of the total amount of budget outlays for the prior fiscal year, estimated in the budget submitted for that year, for each major program having relatively uncontrollable outlays with the total amount of outlays for that program in that year.
 
@@ -148,7 +148,7 @@
 
 (d) When the President submits a budget or supporting information about a budget, the President shall include a statement on all changes about the current fiscal year that were made before the budget or information was submitted.
 
-(e)(1) The President shall submit with materials related to each budget transmitted under subsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each major program that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the total amount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
+(e)(1) The President shall submit with materials related to each budget transmitted undersubsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each major program that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the total amount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
 
 &emsp;(A) an estimate of the current service levels of public civilian capital investment and of military capital investment and alternative high and low levels of such investments over a period of ten years in current dollars and over a period of five years in constant dollars;
 
@@ -156,7 +156,7 @@
 
 &emsp;(C) an identification and analysis of the principal policy issues that affect estimated public civilian capital investment needs for each major program; and
 
-&emsp;(D) an identification and analysis of factors that affect estimated public civilian capitalinvestment needs for each major program, including but not limited to the following factors:
+&emsp;(D) an identification and analysis of factors that affect estimated public civilian capital investment needs for each major program, including but not limited to the following factors:
 
 &emsp;&emsp;(i) economic assumptions;
 
@@ -382,7 +382,7 @@ In subsection (b), the words "for such years" in 31:11(a)(5)(words after 2d comm
 
 In subsection (c), the words "new taxes, loans, or other" are omitted as being included in "appropriate action". The words "in effect" are substituted for "existing" for consistency. The word "aggregate" is omitted as surplus.
 
-In subsection (d), the words "When the President submits a budget or supporting information about a budget, the President" are substituted for "The Budget transmitted pursuant to subsection (a) of this section for any fiscal year, or the supporting detail transmitted in connection therewith" because of the restatement. The word "changes" is substituted for "amendments and revisions" to eliminate unnecessary words.
+In subsection (d), the words "When the President submits a budget or supporting information about a budget, the President" are substituted for "The Budget transmitted pursuant to subsection (a) of this sectionfor any fiscal year, or the supporting detail transmitted in connection therewith" because of the restatement. The word "changes" is substituted for "amendments and revisions" to eliminate unnecessary words.
 
 1983
 
@@ -412,7 +412,7 @@ The Federal Mine Safety and Health Act of 1977, referred to in subsec. (a)(23), 
 
 Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(30), is section 5 of Pub. L. 103–226, which is set out as a note under section 3101 of Title 5, Government Organization and Employees.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a)(32) and (f), is titleII of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Section 257(b)(2) of the Act is classified to section 907(b)(2) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a)(32) and (f), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Section 257(b)(2) of the Act is classified to section 907(b)(2) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(36), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. Section 123 of the Act is classified to section 5232 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
@@ -470,7 +470,7 @@ Subsec. (a)(34). Pub. L. 107–189 added par. (34).
 
 Subsec. (g)(2)(B)(ii). Pub. L. 107–217 substituted "1102 of title 40" for "section 901 of the Brooks Architect-Engineers Act (40 U.S.C. 541)".
 
-<b>2000</b>—Subsec. (a)(33). Pub. L. 106–422 added par. (33) relating to separate account for Inspectors General Criminal Investigator Academy and Inspectors General Forensic Laboratory.
+<b>2000</b>—Subsec. (a)(33). Pub. L. 106–422 added par. (33) relating to separate account for Inspectors GeneralCriminal Investigator Academy and Inspectors General Forensic Laboratory.
 
 <b>1999</b>—Subsec. (a)(31). Pub. L. 106–58 added par. (31).
 
@@ -556,7 +556,7 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-Pub. L. 107–296, title VIII, §889(c), Nov. 25, 2002, 116 Stat. 2251, provided that: "This section \[amending this section and provisions set out as a note under section 2301 of Title 50, War and National Defense, and repealing provisions set out as a note under section 1113 of this title\] and the amendment made by this section shall apply beginning with respect to the fiscal year 2005 budget submission."
+Pub. L. 107–296, title VIII, §889(c), Nov. 25, 2002, 116 Stat. 2251, provided that: "This section \[amending this section and provisions set out as a note under section 2301 of Title 50, War and National Defense, and repealing provisions set out as a note under section 1113 of this title\] and the amendment made by this sectionshall apply beginning with respect to the fiscal year 2005 budget submission."
 
 #### Effective Date of 1999 Amendment
 
@@ -762,7 +762,7 @@ Floor Consideration in the House of Discharged Legislation.—
 
 &emsp;"(1) In the House, not later than 3 legislative days after any committee has been discharged from further consideration of legislation under subsection (c), the Speaker shall resolve the House into the Committee of the Whole for consideration of the legislation.
 
-&emsp;"(2) The first reading of the legislation shall be dispensed with. All points of order against consideration of the legislation are waived. General debate shall be confined to the legislation and shall not exceed five hours, which shall be divided equally between those favoring and those opposing the legislation. After general debate the legislation shall be considered for amendment under the five-minute rule. During consideration of the legislation, no amendments shall be in order in the House or in the Committee of the Whole except those for which there has been an affirmative certification under subsection (b)(3)(B). All points of order against consideration of any such amendment in the Committee of the Whole are waived. The legislation, together with any amendments which shall be in order, shall be considered as read. During the consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of Rule XVIII of the Rules of the House of Representatives. Debate on any amendment shall not exceed one hour, which shall be divided equally betweenthose favoring and those opposing the amendment, and no pro forma amendments shall be offered during the debate. The total time for debate on all amendments shall not exceed 10 hours. At the conclusion of consideration of the legislation for amendment, the Committee shall rise and report the legislation to the House with such amendments as may have been adopted. The previous question shall be considered as ordered on the legislation and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that it has come to no resolution on the bill, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of Rule XIV of the Rules of the House of Representatives, resolve into the Committee of the Whole for further consideration of the bill.
+&emsp;"(2) The first reading of the legislation shall be dispensed with. All points of order against consideration of the legislation are waived. General debate shall be confined to the legislation and shall not exceed five hours, which shall be divided equally between those favoring and those opposing the legislation. After general debate the legislation shall be considered for amendment under the five-minute rule. During consideration of the legislation, no amendments shall be in order in the House or in the Committee of the Whole except those for which there has been an affirmative certification under subsection (b)(3)(B). All points of order against consideration of any such amendment in the Committee of the Whole are waived. The legislation, together with any amendments which shall be in order, shall be considered as read. During the consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of Rule XVIII of the Rules of the House of Representatives. Debate on any amendment shall not exceed one hour, which shall be divided equally between those favoring and those opposing the amendment, and no pro forma amendments shall be offered during the debate. The total time for debate on all amendments shall not exceed 10 hours. At the conclusion of consideration of the legislation for amendment, the Committee shall rise and report the legislation to the House with such amendments as may have been adopted. The previous question shall be considered as ordered on the legislation and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that it has come to no resolution on the bill, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of Rule XIV of the Rules of the House of Representatives, resolve into the Committee of the Whole for further consideration of the bill.
 
 &emsp;"(3) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to any such legislation shall be decided without debate.
 
@@ -842,7 +842,7 @@ Amendments.—No amendment to the motion to discharge shall be in order.
 
 &emsp;"(4)
 
-Exception if certified legislation enacted.—Notwithstanding paragraph (1), it shall not be in order to discharge the Committee from further consideration of medicare funding legislation pursuant to this subsection during a session of a Congress if the chairman of the Committee on the Budget of the Senate certifies that medicare funding legislation has been enacted that eliminates excess general revenue medicare funding (as defined in section 801(c) \[set out as a note under section 1395i of Title 42, The Public Health and Welfare\]) for each fiscal year in the 7-fiscal-year reporting period.
+Exception if certified legislation enacted.—Notwithstanding paragraph (1), it shall not be inorder to discharge the Committee from further consideration of medicare funding legislation pursuant to this subsection during a session of a Congress if the chairman of the Committee on the Budget of the Senate certifies that medicare funding legislation has been enacted that eliminates excess general revenue medicare funding (as defined in section 801(c) \[set out as a note under section 1395i of Title 42, The Public Health and Welfare\]) for each fiscal year in the 7-fiscal-year reporting period.
 
 "(e)
 
@@ -926,7 +926,7 @@ Pub. L. 100–685, title I, §104, Nov. 17, 1988, 102 Stat. 4086, provided that:
 
 Pub. L. 102–241, §11, Dec. 19, 1991, 105 Stat. 2212, provided that: "Notwithstanding another law, the President is not required to submit a two-year budget request for the Coast Guard until the President is required to submit a two-year budget request for the Department of Transportation."
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 Pub. L. 100–448, §24, Sept. 28, 1988, 102 Stat. 1847, provided that:
 
@@ -950,7 +950,7 @@ Report.—Not later than October 1, 1988, the Secretary of the department in whi
 
 &emsp;"(3) a description of any impediments (statutory or otherwise) to converting the operations of the Coast Guard to a 2-year budget cycle beginning with fiscal year 1990."
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Water and Sewer Services Furnished to Government Facilities in District of Columbia
 

@@ -38,7 +38,7 @@ The Congress, by Senate Joint Resolution 159 \[Pub. L. 99–449, now this sectio
 
 NOW, THEREFORE, I, RONALD REAGAN, President of the United States of America, do hereby proclaim the rose as the National Floral Emblem of the United States of America.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of November, in the year of our Lord nineteen hundred and eighty-six, and of the Independence of the United States of America the two hundred and eleventh.
+IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of November, in the year of ourLord nineteen hundred and eighty-six, and of the Independence of the United States of America the two hundred and eleventh.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

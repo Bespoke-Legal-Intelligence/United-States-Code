@@ -94,7 +94,7 @@ In order to determine the identified number of migratory children residing in ea
 
 #### (g) Nonparticipating States
 
-In the case of a State desiring to receive an allocation under this part for a fiscal year that did not receive an allocation for the previous fiscal year or that has been participating for less than 3 consecutive years, the Secretary shall calculate the State's number of identified migratory children aged 3 through 21 for purposes of subsection (a)(1)(A) by using the most recent data available that identifies the migratory children residing in the State until data is available to calculate the 3-year average number ofsuch children in accordance with such subsection.
+In the case of a State desiring to receive an allocation under this part for a fiscal year that did not receive an allocation for the previous fiscal year or that has been participating for less than 3 consecutive years, the Secretary shall calculate the State's number of identified migratory children aged 3 through 21 for purposes of subsection (a)(1)(A) by using the most recent data available that identifies the migratory children residing in the State until data is available to calculate the 3-year average number of such children in accordance with such subsection.
 
 (Pub. L. 89–10, title I, §1303, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1571; amended Pub. L. 114–95, title I, §1301(b), Dec. 10, 2015, 129 Stat. 1894.)
 
@@ -110,7 +110,7 @@ A prior section 6393, Pub. L. 89–10, title I, §1303, as added Pub. L. 103–3
 
 Subsec. (c). Pub. L. 114–95, §1301(b)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 114–95, §1301(b)(1), (3), redesignated subsec. (c) as (d), in par. (1) inserted subpar. headings after subpar. (A) and (B) designations, in par. (1), subpar. (B), substituted "purposes" for "purpose", and in par. (2) inserted subpar. headings after subpar. (A) and (B) designations. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 114–95, §1301(b)(1), (3), redesignated subsec. (c) as (d), in par. (1) inserted subpar.headings after subpar. (A) and (B) designations, in par. (1), subpar. (B), substituted "purposes" for "purpose", and in par. (2) inserted subpar. headings after subpar. (A) and (B) designations. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 114–95, §1301(b)(1), (4), redesignated subsec. (d) as (e) and in par. (3)(B) substituted "the academic achievement of children" for "the welfare or educational attainment of children". Former subsec. (e) redesignated (f).
 

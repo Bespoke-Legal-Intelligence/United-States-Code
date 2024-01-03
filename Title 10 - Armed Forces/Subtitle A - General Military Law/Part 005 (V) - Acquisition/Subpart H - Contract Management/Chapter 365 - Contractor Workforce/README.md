@@ -99,7 +99,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Business operations.—The term 'business operations' means engaging in commerce in any form,including acquiring, developing, maintaining, owning, selling, possessing, leasing, or operating equipment, facilities, personnel, products, services, personal property, real property, or any other apparatus of business or commerce.
+Business operations.—The term 'business operations' means engaging in commerce in any form, including acquiring, developing, maintaining, owning, selling, possessing, leasing, or operating equipment, facilities, personnel, products, services, personal property, real property, or any other apparatus of business or commerce.
 
 &emsp;"(2)
 

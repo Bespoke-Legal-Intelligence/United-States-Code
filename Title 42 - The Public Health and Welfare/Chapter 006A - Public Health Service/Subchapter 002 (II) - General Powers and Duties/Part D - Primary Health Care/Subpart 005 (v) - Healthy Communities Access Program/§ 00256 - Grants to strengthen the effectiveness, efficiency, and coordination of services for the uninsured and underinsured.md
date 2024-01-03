@@ -88,7 +88,7 @@ To be eligible to receive a grant under this section, an entity shall be an enti
 
 &emsp;&emsp;&emsp;(i) natural disasters or other major disruptions to the security or health of the community or geographic area served by the eligible entity; or
 
-&emsp;&emsp;&emsp;(ii) a significant economic deterioration in the community or geographic area served by such eligible entity, that directly and adversely affects the entity receiving an award under subsection (a).
+&emsp;&emsp;&emsp;(ii) a significant economic deterioration in the community or geographic areaserved by such eligible entity, that directly and adversely affects the entity receiving an award under subsection (a).
 
 #### (d) Priorities
 
@@ -244,7 +244,7 @@ Authorization.—There is authorized to be appropriated such sums as may be nece
 
 #### Purpose
 
-Pub. L. 107–251, title IV, §401, Oct. 26, 2002, 116 Stat. 1655, provided that: "The purpose of this title \[enacting this subpart and subpart X (§256f et seq.) of this part and provisions set out as a note under section 1396a of this title\] is to provide assistance to communities and consortia of health care providers and others, to develop or strengthen integrated community health care delivery systems that coordinate health care services for individuals who are uninsured or underinsured and to develop or strengthen activities related to providing coordinated care for individuals with chronic conditions who are uninsured or underinsured, through the—
+Pub. L. 107–251, title IV, §401, Oct. 26, 2002, 116 Stat. 1655, provided that: "The purpose of this title \[enacting this subpart and subpart X (§256f et seq.) of this partand provisions set out as a note under section 1396a of this title\] is to provide assistance to communities and consortia of health care providers and others, to develop or strengthen integrated community health care delivery systems that coordinate health care services for individuals who are uninsured or underinsured and to develop or strengthen activities related to providing coordinated care for individuals with chronic conditions who are uninsured or underinsured, through the—
 
 &emsp;"(1) coordination of services to allow individuals to receive efficient and higher quality care and to gain entry into and receive services from a comprehensive system of care;
 

@@ -88,7 +88,7 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 #### (1) Coverage
 
-&emsp;With respect to the United States Commission on International Religious Freedom, the China Review Commission, the Congressional-Executive China Commission, and the Helsinki Commission—
+&emsp;With respect to the United States Commission on International Religious Freedom, theChina Review Commission, the Congressional-Executive China Commission, and the Helsinki Commission—
 
 &emsp;&emsp;(A) any individual who is an employee of such Commission shall be considered a covered employee for purposes of this chapter; and
 

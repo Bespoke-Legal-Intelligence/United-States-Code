@@ -4,11 +4,11 @@
 
 In furtherance of the purposes of this chapter, the President may—
 
-&emsp;(1) enter into, perform, and modify contracts and agreements and otherwise cooperate with any agency of the United States Government or of any State or any subdivision thereof, other governments and departments and agencies thereof, and educational institutions, voluntary agencies, farm organizations, labor unions, and other organizations, individuals and firms;
+&emsp;(1) enter into, perform, and modify contracts and agreements and otherwise cooperate withany agency of the United States Government or of any State or any subdivision thereof, other governments and departments and agencies thereof, and educational institutions, voluntary agencies, farm organizations, labor unions, and other organizations, individuals and firms;
 
 &emsp;(2) assign volunteers in special cases to temporary duty with international organizations and agencies when the Secretary of State determines that such assignment would serve the purposes of this chapter;
 
-&emsp;(3) assign volunteers to duty or otherwise make them available to any entity referred to in paragraph (1), in order to assist such organizations and agencies in providing development or other relief assistance to displaced personsand refugees in any country, if the government of the country agrees to such assignment;
+&emsp;(3) assign volunteers to duty or otherwise make them available to any entity referred to in paragraph (1), in order to assist such organizations and agencies in providing development or other relief assistance to displaced persons and refugees in any country, if the government of the country agrees to such assignment;
 
 &emsp;(4) accept in the name of the Peace Corps and employ or transfer in furtherance of the purposes of this chapter (A) voluntary services notwithstanding the provisions of section 1342 of title 31, and (B) any money or property (real, personal or mixed, tangible or intangible) received by gift, devise, bequest, or otherwise; and
 
@@ -40,11 +40,11 @@ In the case of any commodity, service, or facility procured from any agency of t
 
 #### (h) Hospitalization and medical treatment for Foreign Service local employees
 
-The President may provide hospitalization and medical treatment to Foreign Service local employees who are within the United States for training related to their employment under this chapter, for illnesses, injuries, or conditions other than those arising out of and in the course of employment, which, in the judgment of the President, began during such employee's travel related to such training or so near to the beginning of such travel that the onset of the illness, injury, or condition could not have been known, and for which immediate medical treatment or hospitalization is reasonably required.
+The President may provide hospitalization and medical treatment to Foreign Service local employees who are within the United States fortraining related to their employment under this chapter, for illnesses, injuries, or conditions other than those arising out of and in the course of employment, which, in the judgment of the President, began during such employee's travel related to such training or so near to the beginning of such travel that the onset of the illness, injury, or condition could not have been known, and for which immediate medical treatment or hospitalization is reasonably required.
 
 #### (i) Procurement of legal services
 
-The Director of the Peace Corps shall have the same authority as is available to the Secretary of State under section 2698(a) of this title. Forpurposes of this subsection, the reference in such section 2698(a) of this title to a principal officer of the Foreign Service shall be deemed to be a reference to a Peace Corps representative and the reference in such section to a member of the Foreign Service shall be deemed to be a reference to a person employed, appointed, or assigned under this chapter.
+The Director of the Peace Corps shall have the same authority as is available to the Secretary of State under section 2698(a) of this title. For purposes of this subsection, the reference in such section 2698(a) of this title to a principal officer of the Foreign Service shall be deemed to be a reference to a Peace Corps representative and the reference in such section to a member of the Foreign Service shall be deemed to be a reference to a person employed, appointed, or assigned under this chapter.
 
 #### (j) Malpractice protection
 
@@ -112,7 +112,7 @@ Subsec. (h). Pub. L. 95–331, §5(a)(3), added subsec. (h).
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–331, §5(b), Aug. 2, 1978, 92 Stat. 415, provided that: "The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall apply toclaims made after the date of the enactment of this Act \[Aug. 2, 1978\]."
+Pub. L. 95–331, §5(b), Aug. 2, 1978, 92 Stat. 415, provided that: "The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall apply to claims made after the date of the enactment of this Act \[Aug. 2, 1978\]."
 
 #### Prohibition Against Use of Funds Appropriated After February 15, 1981, and Before December 29, 1981, for Legal Services or Malpractice Protection
 

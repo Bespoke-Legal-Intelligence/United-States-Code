@@ -2,7 +2,7 @@
 
 For additional prohibitions relating to this chapter and enforcement of this chapter, see section 1826g of this title.
 
-(Pub. L. 102–567, title VIII, §811, Oct. 29, 1992, 106 Stat. 4314; Pub. L. 102–587, title VIII, §8011, Nov. 4, 1992, 106 Stat. 5103; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–81, title I, §103(b), Nov. 5, 2015, 129 Stat. 657.)
+(Pub. L. 102–567, title VIII, §811, Oct. 29, 1992, 106 Stat. 4314; Pub. L. 102–587, title VIII, §8011, Nov.4, 1992, 106 Stat. 5103; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–81, title I, §103(b), Nov. 5, 2015, 129 Stat. 657.)
 
 #### <b>Editorial Notes</b>
 

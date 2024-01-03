@@ -50,7 +50,7 @@ Computations.—
 
 &emsp;(1)
 
-In general.—The Secretary shall compute, at least once each year, the total numberof commissioned officers authorized to serve in each grade by applying the grade distribution percentages established by or under this section to the total number of commissioned officers listed on the current active duty promotion list.
+In general.—The Secretary shall compute, at least once each year, the total number of commissioned officers authorized to serve in each grade by applying the grade distribution percentages established by or under this section to the total number of commissioned officers listed on the current active duty promotion list.
 
 &emsp;(2)
 

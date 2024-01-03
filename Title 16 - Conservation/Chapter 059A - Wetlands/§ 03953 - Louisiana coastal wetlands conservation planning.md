@@ -82,7 +82,7 @@ The conservation plan authorized by this section shall include—
 
 #### (3) Approval of modified plan
 
-&emsp;If the Secretary, the Director, and the Administrator fail to approve or disapprove the conservation plan, as modified, within the ninety-day period following the date on which it was submitted to them by the Governor, such plan, as modified, shall be deemed to be approved effective upon the expiration of such ninety-day period.
+&emsp;If the Secretary, the Director, and the Administrator fail to approve or disapprove the conservation plan, as modified, within theninety-day period following the date on which it was submitted to them by the Governor, such plan, as modified, shall be deemed to be approved effective upon the expiration of such ninety-day period.
 
 #### (f) Amendments to conservation plan
 

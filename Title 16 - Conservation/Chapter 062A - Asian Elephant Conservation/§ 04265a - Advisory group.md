@@ -8,7 +8,7 @@ To assist in carrying out this chapter, the Secretary may convene an advisory gr
 
 #### (1) Meetings
 
-&emsp;The Advisory Group shall—
+&emsp;The Advisory Group <sup>1</sup> shall—
 
 &emsp;&emsp;(A) ensure that each meeting of the advisory group is open to the public; and
 
@@ -37,4 +37,6 @@ A prior section 7 of Pub. L. 105–96 was renumbered section 8 and is classified
 #### Amendments
 
 <b>2022</b>—Subsec. (c). Pub. L. 117–286 substituted "chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

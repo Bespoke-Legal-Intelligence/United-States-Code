@@ -80,7 +80,7 @@ Subsecs. (h) to (j). Pub. L. 103–50, §1203(a)(1), added subsec. (h) and redes
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–50, ch. XII, §1203(a)(2), July 2, 1993, 107 Stat. 268, provided that: "The amendments made byparagraph (1) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[July 2, 1993\]."
+Pub. L. 103–50, ch. XII, §1203(a)(2), July 2, 1993, 107 Stat. 268, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[July 2, 1993\]."
 
 Pub. L. 103–50, ch. XII, §1203(b)(2), July 2, 1993, 107 Stat. 268, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 2, 1993\]."
 

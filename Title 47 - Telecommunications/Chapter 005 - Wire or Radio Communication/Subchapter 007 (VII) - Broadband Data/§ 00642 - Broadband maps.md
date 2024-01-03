@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;(i) documents the areas where the provider—
 
-&emsp;&emsp;&emsp;&emsp;(I) has actually built out the broadband network infrastructure of theprovider such that the provider is able to provide that service; and
+&emsp;&emsp;&emsp;&emsp;(I) has actually built out the broadband network infrastructure of the provider such that the provider is able to provide that service; and
 
 &emsp;&emsp;&emsp;&emsp;(II) could provide that service, as determined by identifying where the provider is capable of performing a standard broadband installation, if applicable;
 
@@ -236,7 +236,7 @@
 
 &emsp;&emsp;The rules issued to establish the challenge process under subparagraph (A) shall include—
 
-&emsp;&emsp;&emsp;(i) a process for the speedy resolution of challenges, which shall require that the Commission resolve a challenge not later than 90 days after the date on which a final response by a provider to a challenge to the accuracy of a map or information described in subparagraph (A) is complete; and
+&emsp;&emsp;&emsp;(i) a process for the speedy resolution of challenges, which shall require that theCommission resolve a challenge not later than 90 days after the date on which a final response by a provider to a challenge to the accuracy of a map or information described in subparagraph (A) is complete; and
 
 &emsp;&emsp;&emsp;(ii) a process for the regular and expeditious updating of the coverage maps and granular data disseminated by the Commission as challenges are resolved.
 
@@ -276,7 +276,7 @@
 
 #### (7) Sharing data with NTIA
 
-&emsp;The Commission shall establish a process to make the data collected under paragraph (2)available to the National Telecommunications and Information Administration.
+&emsp;The Commission shall establish a process to make the data collected under paragraph (2) available to the National Telecommunications and Information Administration.
 
 #### (c) Maps
 
@@ -314,7 +314,7 @@ The Commission shall—
 
 &emsp;&emsp;(A) the maps created under paragraph (1); and
 
-&emsp;&emsp;(B) the data collected by the Commission with respect to the availability of broadband internet access service and the quality of service with respect to broadband internet access service.
+&emsp;&emsp;(B) the data collected by the Commission with respect to the availability of broadbandinternet access service and the quality of service with respect to broadband internet access service.
 
 #### (d) Delayed effective date for quality of service rules
 

@@ -12,7 +12,7 @@
 
 #### (b) Administration of system
 
-The Director shall administer the system in accordance with regulations prescribed underthis subchapter and with the principles established by this subchapter.
+The Director shall administer the system in accordance with regulations prescribed under this subchapter and with the principles established by this subchapter.
 
 #### (c) Finality of decisions of DCI
 

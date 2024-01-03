@@ -46,7 +46,7 @@ Notwithstanding the provisions of subsection (b)—
 
 #### References in Text
 
-The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(A), (B), is act Aug. 29, 1935, ch. 812, asamended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(A), (B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 #### Amendments
 

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Audit agent
 
-&emsp;The term "audit agent" means an individual who is an employee or agent of an accreditedthird-party auditor and, although not individually accredited, is qualified to conduct food safety audits on behalf of an accredited third-party auditor.
+&emsp;The term "audit agent" means an individual who is an employee or agent of an accredited third-party auditor and, although not individually accredited, is qualified to conduct food safety audits on behalf of an accredited third-party auditor.
 
 #### (2) Accreditation body
 
@@ -108,7 +108,7 @@ In this section:
 
 #### (ii) Provision of certification
 
-&emsp;&emsp;&emsp;Only an accredited third-party auditor or the Secretary may provide a facility certification under section 384b(a) of this title. Only those parties described in <sup>1</sup> 381(q)(3) of this title or the Secretary may provide a food certification under <sup>1</sup> 381(q) <sup>2</sup> of this title.
+&emsp;&emsp;&emsp;Only an accredited third-party auditor or the Secretary may provide a facility certification under section 384b(a) of thistitle. Only those parties described in <sup>1</sup> 381(q)(3) of this title or the Secretary may provide a food certification under <sup>1</sup> 381(q) <sup>2</sup> of this title.
 
 #### (3) Audit report submission requirements
 
@@ -136,7 +136,7 @@ In this section:
 
 #### (A) Risks to public health
 
-&emsp;&emsp;If, at any time during an audit, an accredited third-party auditor or audit agent ofsuch auditor discovers a condition that could cause or contribute to a serious risk to the public health, such auditor shall immediately notify the Secretary of—
+&emsp;&emsp;If, at any time during an audit, an accredited third-party auditor or audit agent of such auditor discovers a condition that could cause or contribute to a serious risk to the public health, such auditor shall immediately notify the Secretary of—
 
 &emsp;&emsp;&emsp;(i) the identification of the eligible entity subject to the audit; and
 

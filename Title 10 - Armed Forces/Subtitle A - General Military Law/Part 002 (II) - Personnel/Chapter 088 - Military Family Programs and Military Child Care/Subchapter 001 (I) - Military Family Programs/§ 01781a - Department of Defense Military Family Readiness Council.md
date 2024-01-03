@@ -16,7 +16,7 @@ Members.—(1) The Council shall consist of the following members:
 
 &emsp;&emsp;(ii) One representative, who shall be a member or civilian employee of the National Guard Bureau, to represent both the Army National Guard and the Air National Guard.
 
-&emsp;&emsp;(iii) One spouse or parent of a member of each of the Army, Navy, Air Force, Marine Corps, and Space Force, two of whom shall be the spouse or parent of an active component member and two of whom shall be the spouse or parent of a reserve component member.
+&emsp;&emsp;(iii) One spouse or parent of a member of each of the Army, Navy, Air Force, Marine Corps, and Space Force, two of whom shall be the spouse or parent of an active component member, two of whom shall be the spouse or parent of a reserve component member, and one of whom shall be the spouse or parent of a member of the Space Force.
 
 &emsp;(C) Three individuals appointed by the Secretary of Defense from among representatives of military family organizations, including military family organizations of families of members of the regular components and of families of members of the reserve components.
 
@@ -46,25 +46,65 @@ Duties.—The duties of the Council shall include the following:
 
 (e)
 
-Annual Reports.—(1) Not later than July 1 each year, the Council shall submit to the Secretary of Defense and the congressional defense committees a report on military family readiness.
+Military Family Readiness Working Group for Military Housing.—
 
-(2) Each report under this subsection shall include the following:
+&emsp;(1) There is in the Council the Military Family Readiness Working Group for Military Housing (in this section referred to as the "Housing Working Group").
 
-&emsp;(A) An assessment of the adequacy and effectiveness of the military family readiness programs and activities of the Department of Defense during the preceding fiscal year in meeting the needs and requirements of military families.
+&emsp;(2)(A) The Housing Working Group shall be composed of the following members:
 
-&emsp;(B) Recommendations on actions to be taken to improve the capability of the military family readiness programs and activities of the Department of Defense to meet the needs and requirements of military families, including actions relating to the allocation of funding and other resources to and among such programs and activities.
+&emsp;&emsp;(i) The Assistant Secretary of Defense for Energy, Installations, and Environment, who shall serve as chair of the Housing Working Group on a nondelegable basis.
 
-(Added Pub. L. 110–181, div. A, title V, §581(a), Jan. 28, 2008, 122 Stat. 120; amended Pub. L. 111–84, div. A, title V, §562, Oct. 28, 2009, 123 Stat. 2303; Pub. L. 111–383, div. A, title V, §581, Jan. 7, 2011, 124 Stat. 4226; Pub. L. 112–81, div. A, title V, §574, Dec. 31, 2011, 125 Stat. 1427; Pub. L. 114–328, div. A, title IX, §933(a)(2), Dec. 23, 2016, 130 Stat. 2364; Pub. L. 115–232, div. A, title V, §571(a)–(c), Aug. 13, 2018, 132 Stat. 1777, 1778; Pub. L. 116–283, div. A, title IX, §924(b)(29), Jan. 1, 2021, 134 Stat. 3825.)
+&emsp;&emsp;(ii) One representative of each of the Army, Navy, Air Force, Marine Corps, and Space Force—
+
+&emsp;&emsp;&emsp;(I) each of whom shall be a member of the armed force to be represented; and
+
+&emsp;&emsp;&emsp;(II) not fewer than two of whom shall be enlisted members.
+
+&emsp;&emsp;(iii) One spouse of a member of each of the Army, Navy, Air Force, Marine Corps, and Space Force on active duty, not fewer than two of which shall be the spouse of an enlisted member.
+
+&emsp;&emsp;(iv) One commander or senior official of a military installation from each military department with responsibility for the public works or civil engineering systems of such installation.
+
+&emsp;&emsp;(v) One individual appointed by the Secretary of Defense among representatives of a voluntary consensus standards body that develops personnel certification standards for building maintenance, inspections, or restoration.
+
+&emsp;&emsp;(vi) The Director of the Office of Military Family Readiness Policy.
+
+&emsp;(B) The term of Housing Working Group members specified under clauses (ii) through (v) of subparagraph (A) shall be two years and may be renewed by the Secretary of Defense.
+
+&emsp;(C) The chair of the Housing Working Group shall extend an invitation to all landlords for one representative of each landlord to attend such meetings of the Housing Working Group as the chair considers appropriate but at a minimum of once per year.
+
+&emsp;(3) The Housing Working Group shall meet at least two times each year.
+
+&emsp;(4) The duties of the Housing Working Group shall include the following:
+
+&emsp;&emsp;(A) To review and make recommendations to the Secretary of Defense on policies for covered military housing, including inspections practices and resident surveys.
+
+&emsp;&emsp;(B) To make recommendations to the Secretary of Defense to improve—
+
+&emsp;&emsp;&emsp;(i) awareness and promotion of accurate and timely information about covered military housing, accommodations available through the Exceptional Family Member Program of the Department, and other support services; and
+
+&emsp;&emsp;&emsp;(ii) collaboration among policymakers, providers of such accommodations and other support services, and targeted beneficiaries of such accommodations and other support services.
+
+&emsp;(5) In this subsection:
+
+&emsp;&emsp;(A) The term "landlord" has the meaning given that term in section 2871 of this title.
+
+&emsp;&emsp;(B) The term "covered military housing" means housing acquired or constructed pursuant to subchapter IV of chapter 169 of this title that is owned by an entity other than the Federal Government.
+
+(Added Pub. L. 110–181, div. A, title V, §581(a), Jan. 28, 2008, 122 Stat. 120; amended Pub. L. 111–84, div. A, title V, §562, Oct. 28, 2009, 123 Stat. 2303; Pub. L. 111–383, div. A, title V, §581, Jan. 7, 2011, 124 Stat. 4226; Pub. L. 112–81, div. A, title V, §574, Dec. 31, 2011, 125 Stat. 1427; Pub. L. 114–328, div. A, title IX, §933(a)(2), Dec. 23, 2016, 130 Stat. 2364; Pub. L. 115–232, div. A, title V, §571(a)–(c), Aug. 13, 2018, 132 Stat. 1777, 1778; Pub. L. 116–283, div. A, title IX, §924(b)(29), Jan. 1, 2021, 134 Stat. 3825; Pub. L. 118–31, div. A, title XVII, §1722(k)(1), div. B, title XXVIII, §2821(a), Dec. 22, 2023, 137 Stat. 673, 749.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
+<b>2023</b>—Subsec. (b)(1)(B)(iii). Pub. L. 118–31, §1722(k)(1), substituted "active component member," for "active component member and" and inserted ", and one of whom shall be the spouse or parent of a member of the Space Force" after "parent of a reserve component member".
+
+Subsec. (e). Pub. L. 118–31, §2821(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to annual reports on military family readiness.
+
 <b>2021</b>—Subsec. (b)(1). Pub. L. 116–283 substituted "Air Force, Marine Corps, and Space Force" for "Marine Corps, and Air Force" wherever appearing.
 
 <b>2018</b>—Subsec. (b)(1)(B)(i). Pub. L. 115–232, §571(a)(1)(A), substituted "a member or civilian employee of the armed force to be represented" for "a member of the armed force to be represented".
 
-Subsec. (b)(1)(B)(ii). Pub. L. 115–232, §571(a)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: "One representative of the Army National Guard or the Air National Guard, who may be a member of the National Guard."
+Subsec. (b)(1)(B)(ii). Pub. L. 115–232, §571(a)(1)(B), added cl. (ii) and struck out former cl. (ii) which readas follows: "One representative of the Army National Guard or the Air National Guard, who may be a member of the National Guard."
 
 Subsec. (b)(2)(A). Pub. L. 115–232, §571(a)(2)(A), struck out "clauses (i) and (iii) of" before "subparagraph (B)" and "Representation on the Council under clause (ii) of that subparagraph shall rotate between the Army National Guard and Air National Guard every two years on a calendar year basis." after "Secretary of Defense."
 
@@ -115,8 +155,4 @@ In general.—The amendments made by this section \[amending this section\] shal
 "(2)
 
 Applicability of membership and term amendments.—The amendments made by subsection (a) shall apply to members of the Department of Defense Military Family Readiness Council appointed after the date of the enactment of this Act."
-
-#### Termination of Reporting Requirements
-
-For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 

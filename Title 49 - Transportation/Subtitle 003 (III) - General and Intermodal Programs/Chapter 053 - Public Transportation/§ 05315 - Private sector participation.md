@@ -84,7 +84,7 @@ This amends 49:5315(d), 5317(b)(5), and 5323(b)(1), (c), and (e) to correct erro
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to national transit institute.
 
-<b>2005</b>—Subsecs. (a), (b). Pub. L. 109–59, §3017(a), added subsecs. (a) and (b) and struck out former subsecs. (a)and (b), which related to establishment and duties of a national transit institute in subsec. (a) and delegation to the institute of the authority of the Secretary to develop and conduct educational and training programs related to mass transportation in subsec. (b).
+<b>2005</b>—Subsecs. (a), (b). Pub. L. 109–59, §3017(a), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which related to establishment and duties of a national transit institute in subsec. (a) and delegation to the institute of the authority of the Secretary to develop and conduct educational and training programs related to mass transportation in subsec. (b).
 
 Subsec. (d). Pub. L. 109–59, §3017(b), struck out "mass" after "public" in two places.
 
@@ -96,7 +96,7 @@ Subsec. (a)(5). Pub. L. 105–178, §3017(a)(2)(B), as amended by Pub. L. 105–
 
 Subsec. (a)(7). Pub. L. 105–178, §3017(a)(2)(C), as amended by Pub. L. 105–206 substituted "delivering" for "carrying out".
 
-Subsec. (a)(11). Pub. L. 105–178, §3017(a)(2)(D), as amended by Pub. L. 105–206 inserted ", construction management, insurance, and risk management" before semicolon at end.
+Subsec. (a)(11). Pub. L. 105–178, §3017(a)(2)(D), as amended by Pub. L. 105–206 inserted ", constructionmanagement, insurance, and risk management" before semicolon at end.
 
 Subsec. (a)(15), (16). Pub. L. 105–178, §3017(a)(2)(E)–(G), as amended by Pub. L. 105–206 added pars. (15) and (16).
 

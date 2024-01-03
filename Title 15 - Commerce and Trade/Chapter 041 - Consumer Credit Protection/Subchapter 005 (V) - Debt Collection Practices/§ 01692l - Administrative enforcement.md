@@ -2,7 +2,7 @@
 
 #### (a) Federal Trade Commission
 
-The Federal Trade Commission shall be authorized to enforce compliance with this subchapter, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another Government agency under any of paragraphs (1) through (5) of subsection (b), subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\]. For purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act (15 U.S.C. 41 et seq.), a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter, in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.
+The Federal Trade Commission shall be authorized to enforce compliance with this subchapter, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another Government agency under any of paragraphs (1) through (5) of subsection (b), subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\]. For purpose of theexercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act (15 U.S.C. 41 et seq.), a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter, in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.
 
 #### (b) Applicable provisions of law
 
@@ -36,7 +36,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of i
 
 Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5519(a)\], the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter.
 
-(Pub. L. 90–321, title VIII, §814, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881; amended Pub.L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(n), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, §212(e), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 102–550, title XVI, §1604(a)(8), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §316, Dec. 29, 1995, 109 Stat. 949; Pub. L. 111–203, title X, §1089(3), (4), July 21, 2010, 124 Stat. 2092, 2093.)
+(Pub. L. 90–321, title VIII, §814, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(n), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, §212(e), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 102–550, title XVI, §1604(a)(8), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §316, Dec. 29, 1995, 109 Stat. 949; Pub. L. 111–203, title X, §1089(3), (4), July 21, 2010, 124 Stat. 2092, 2093.)
 
 #### <b>Editorial Notes</b>
 
@@ -92,7 +92,7 @@ Pub. L. 102–242, §212(e)(1), added par. (1) and struck out former par. (1) wh
 
 &emsp;"(C) banks the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
-<b>1989</b>—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 5(d) of the Home Owners Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i)and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;".
+<b>1989</b>—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 5(d) of the Home Owners Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;".
 
 <b>1984</b>—Subsec. (b)(5). Pub. L. 98–443 substituted "Secretary of Transportation" for "Civil Aeronautics Board".
 

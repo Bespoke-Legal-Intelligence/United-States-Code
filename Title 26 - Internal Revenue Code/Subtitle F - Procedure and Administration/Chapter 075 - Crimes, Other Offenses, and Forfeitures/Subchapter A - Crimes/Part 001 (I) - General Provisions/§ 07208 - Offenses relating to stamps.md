@@ -8,7 +8,7 @@ Any person who—
 
 #### (2) Mutilation or removal
 
-&emsp;Fraudulently cuts, tears, or removes from any vellum, parchment, paper, instrument, writing, package, or article, upon which any tax is imposed by this title, any adhesive stamp or the impression of any stamp, die, plate, or other article provided, made, or used in pursuance of this title; or
+&emsp;Fraudulently cuts, tears, or removes from any vellum, parchment, paper, instrument,writing, package, or article, upon which any tax is imposed by this title, any adhesive stamp or the impression of any stamp, die, plate, or other article provided, made, or used in pursuance of this title; or
 
 #### (3) Use of mutilated, insufficient, or counterfeited stamps
 

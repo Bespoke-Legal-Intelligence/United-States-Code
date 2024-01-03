@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—There shall be a Board of Visitors to the United States Merchant Marine Academy (referred to in this section as the"Board" and the "Academy", respectively) to provide independent advice and recommendations on matters relating to the United States Merchant Marine Academy.
+In General.—There shall be a Board of Visitors to the United States Merchant Marine Academy (referred to in this section as the "Board" and the "Academy", respectively) to provide independent advice and recommendations on matters relating to the United States Merchant Marine Academy.
 
 (b)
 
@@ -98,7 +98,7 @@ Participation.—A substitute member of the Board designated under subparagraph 
 
 &emsp;&emsp;&emsp;(ii) shall report to the member that designated the substitute member on the Board's activities not later than 15 days following the substitute member's participation in such activities; and
 
-&emsp;&emsp;&emsp;(iii) shall be permitted by the Board to participate in the preparation of reportsdescribed in paragraph <sup>1</sup> (j) related to any proceedings or activities of the Board in which such substitute member participates.
+&emsp;&emsp;&emsp;(iii) shall be permitted by the Board to participate in the preparation of reports described in paragraph <sup>1</sup> (j) related to any proceedings or activities of the Board in which such substitute member participates.
 
 (c)
 

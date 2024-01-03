@@ -42,7 +42,7 @@ Congressional Findings.—Congress finds that—
 
 &emsp;"(5) these steel bankruptcies, job losses, and financial losses are also having serious negative effects on the tax base of cities, counties, and States, and on the essential health, education, and municipal services that these government entities provide to their citizens; and
 
-&emsp;"(6) a strong steel industry is necessary to the adequate defense preparedness of the United States inorder to have sufficient steel available to build the ships, tanks, planes, and armaments necessary for the national defense.
+&emsp;"(6) a strong steel industry is necessary to the adequate defense preparedness of the United States in order to have sufficient steel available to build the ships, tanks, planes, and armaments necessary for the national defense.
 
 "(c)
 
@@ -304,7 +304,7 @@ Additional costs.—For the additional cost of the loans guaranteed under this s
 
 "(f)
 
-Requirements for Loan Guarantees.—The Board may issue a loan guarantee on application by aqualified oil and gas company under an agreement by a private bank or investment company to provide a loan to the qualified oil and gas company, if the Board determines that—
+Requirements for Loan Guarantees.—The Board may issue a loan guarantee on application by a qualified oil and gas company under an agreement by a private bank or investment company to provide a loan to the qualified oil and gas company, if the Board determines that—
 
 &emsp;"(1) credit is not otherwise available to the company under reasonable terms or conditions sufficient to meet its financing needs, as reflected in the financial and business plans of the company;
 

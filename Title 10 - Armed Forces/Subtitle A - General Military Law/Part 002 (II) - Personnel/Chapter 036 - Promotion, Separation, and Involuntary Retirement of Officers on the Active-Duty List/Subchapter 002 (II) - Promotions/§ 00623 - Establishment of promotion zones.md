@@ -8,7 +8,7 @@
 
 &emsp;(2) the number of officers to be serving in that competitive category in the next higher grade in each of the next five years;
 
-&emsp;(3) in the case of a promotion zone for officers to be promoted to a grade to which section 523 of this title is applicable, the number of officers authorized for such grade undersuch section to be on active duty on the last day of each of the next five fiscal years; and
+&emsp;(3) in the case of a promotion zone for officers to be promoted to a grade to which section 523 of this title is applicable, the number of officers authorized for such grade under such section to be on active duty on the last day of each of the next five fiscal years; and
 
 &emsp;(4) the number of officers that should be placed in that promotion zone in each of the next five years to provide to officers in those years relatively similar opportunity for promotion.
 

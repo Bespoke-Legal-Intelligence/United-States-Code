@@ -10,9 +10,9 @@ Applicability.—The prohibition specified in subsection (a)—
 
 &emsp;(1) is in addition to the prohibition specified in section 3322(a) of this title on the use of the cost-plus-a-percentage-of-cost system of contracting; and
 
-&emsp;(2) applies notwithstanding.<sup>1</sup> a declaration of war or the declaration by the President of a national emergency under section 201 of the National Emergencies Act (50 U.S.C. 1621) that includes the use of the armed forces.
+&emsp;(2) applies notwithstanding a declaration of war or the declaration by the President of a national emergency under section 201 of the National Emergencies Act (50 U.S.C. 1621) that includes the use of the armed forces.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1817(a), (g), Jan. 1, 2021, 134 Stat. 4186, 4187.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1817(a), (g), Jan. 1, 2021, 134 Stat. 4186, 4187; Pub. L. 118–31, div. A, title XVIII, §1801(a)(27), Dec. 22, 2023, 137 Stat. 684.)
 
 #### <b>Editorial Notes</b>
 
@@ -21,6 +21,8 @@ Applicability.—The prohibition specified in subsection (a)—
 The text of subsec. (c) of section 2306 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1817(g), was based on Pub. L. 112–81, div. B, title XXVIII, §2801(a), Dec. 31, 2011, 125 Stat. 1684.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(2). Pub. L. 118–31 struck out period after "notwithstanding".
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §1817(g)(1), (2), redesignated subsec. (c) of section 2306 of this title as subsec. (a) of this section and inserted heading. Former second sentence of subsec. (a) designated subsec. (b).
 
@@ -37,6 +39,4 @@ Subsec. (b). Pub. L. 116–283, §1817(g)(1), (3), designated second sentence of
 #### Effective Date
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
-
-<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

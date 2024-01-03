@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (1) Electing Settlement Trust
 
-&emsp;The term "electing Settlement Trust" means a Settlement Trust which has made theelection, effective for a taxable year, described in subsection (c).
+&emsp;The term "electing Settlement Trust" means a Settlement Trust which has made the election, effective for a taxable year, described in subsection (c).
 
 #### (2) Native Corporation
 

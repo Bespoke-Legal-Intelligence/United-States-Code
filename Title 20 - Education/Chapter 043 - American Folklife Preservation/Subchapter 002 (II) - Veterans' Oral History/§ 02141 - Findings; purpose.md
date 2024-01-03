@@ -10,7 +10,7 @@ Congress finds as follows:
 
 &emsp;(3) The Department of Veterans Affairs reports that there are almost 19,000,000 war veterans living in this Nation today.
 
-&emsp;(4) Today there are only approximately 3,400 living veterans of World War I, and of the some 6,000,000 veterans of World War II alive today, almost 1,500 die each day.
+&emsp;(4) Today there are only approximately 3,400 living veterans of World War I, and of thesome 6,000,000 veterans of World War II alive today, almost 1,500 die each day.
 
 &emsp;(5) Oral histories are of immeasurable value to historians, researchers, authors, journalists, film makers, scholars, students, and citizens of all walks of life.
 

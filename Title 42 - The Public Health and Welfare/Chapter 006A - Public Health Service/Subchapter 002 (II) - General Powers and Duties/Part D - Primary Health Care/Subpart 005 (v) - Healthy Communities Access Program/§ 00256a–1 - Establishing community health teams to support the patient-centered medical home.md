@@ -72,7 +72,7 @@ A health team established pursuant to a grant or contract under subsection (a) s
 
 &emsp;&emsp;(I) collect and report data that permits evaluation of the success of the collaborative effort on patient outcomes, including collection of data on patient experience of care, and identification of areas for improvement; and
 
-&emsp;&emsp;(J) establish a coordinated system of early identification and referral for children at risk for developmental or behavioral problems such as through the use of infolines, health information technology, or other means as determined by the Secretary;
+&emsp;&emsp;(J) establish a coordinated system of early identification and referral for children atrisk for developmental or behavioral problems such as through the use of infolines, health information technology, or other means as determined by the Secretary;
 
 &emsp;(7) provide 24-hour care management and support during transitions in care settings including—
 

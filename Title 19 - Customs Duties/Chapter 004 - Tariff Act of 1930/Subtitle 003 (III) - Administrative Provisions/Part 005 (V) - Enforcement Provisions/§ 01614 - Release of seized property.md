@@ -42,5 +42,5 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Transfer of Functions
 
-Substitution in text of reference to Commandant of the Coast Guard or Commissioner of Customs for "the Secretary of Commerce" under the authority of Reorg. Plan No. 3 of 1946, see Transfer of Functions note set out under section 1613 of this title.
+Substitution in text of reference to Commandant of the Coast Guard or Commissioner of Customs for "theSecretary of Commerce" under the authority of Reorg. Plan No. 3 of 1946, see Transfer of Functions note set out under section 1613 of this title.
 

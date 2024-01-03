@@ -84,7 +84,7 @@ In general.—The term "dependent child" means a person who—
 
 &emsp;&emsp;&emsp;(i) is unmarried;
 
-&emsp;&emsp;&emsp;(ii) is (I) under 18 years of age, (II) at least 18, but under 22, years of age and pursuing a full-time course of study or training in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution, or (III)incapable of self support because of a mental or physical incapacity existing before the person's eighteenth birthday or incurred on or after that birthday, but before the person's twenty-second birthday, while pursuing such a full-time course of study or training; and
+&emsp;&emsp;&emsp;(ii) is (I) under 18 years of age, (II) at least 18, but under 22, years of age and pursuing a full-time course of study or training in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution, or (III) incapable of self support because of a mental or physical incapacity existing before the person's eighteenth birthday or incurred on or after that birthday, but before the person's twenty-second birthday, while pursuing such a full-time course of study or training; and
 
 &emsp;&emsp;&emsp;(iii) is the child of a person to whom the Plan applies, including (I) an adopted child, and (II) a stepchild, foster child, or recognized natural child who lived with that person in a regular parent-child relationship.
 
@@ -180,7 +180,7 @@ Pars. (11) to (13). Pub. L. 99–145, §719(1), added pars. (11) to (13).
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1994 Amendment
 

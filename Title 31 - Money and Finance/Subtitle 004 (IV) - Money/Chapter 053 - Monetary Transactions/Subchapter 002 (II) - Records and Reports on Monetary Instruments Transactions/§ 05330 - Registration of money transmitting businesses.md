@@ -26,7 +26,7 @@ False and incomplete information.—The filing of false or materially incomplete
 
 (b)
 
-Contents of Registration.—The registration of a money transmitting business under subsection (a) shall include the following information:
+Contents of Registration.—The registration of a money transmitting business undersubsection (a) shall include the following information:
 
 &emsp;(1) The name and location of the business.
 
@@ -110,7 +110,7 @@ Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (b)(3), i
 
 Subsec. (d)(2). Pub. L. 116–283, §6102(d)(2)(B), substituted "currency, funds, or value that substitutes for currency" for "currency or funds denominated in the currency of any country" after "accepting", substituted "currency, funds, or value that substitutes for currency" for "currency or funds, or the value of the currency or funds," after "transmitting the", and inserted ", including" after "means".
 
-<b>2001</b>—Subsec. (d)(1)(A). Pub. L. 107–56 inserted before semicolon "or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as abusiness in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;".
+<b>2001</b>—Subsec. (d)(1)(A). Pub. L. 107–56 inserted before semicolon "or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

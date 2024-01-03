@@ -24,7 +24,7 @@ Definitions.—In this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(III) documentation with functional descriptions of software-defined interfaces, conveying semantic meaning of interface elements, such as the function of a given interface field;
 
-&emsp;&emsp;(C) uses a system architecture that allows severable major system components and modular systems at the appropriate level tobe incrementally added, removed, or replaced throughout the life cycle of a major system platform to afford opportunities for enhanced competition and innovation while yielding—
+&emsp;&emsp;(C) uses a system architecture that allows severable major system components and modular systems at the appropriate level to be incrementally added, removed, or replaced throughout the life cycle of a major system platform to afford opportunities for enhanced competition and innovation while yielding—
 
 &emsp;&emsp;&emsp;(i) significant cost savings or avoidance;
 
@@ -208,7 +208,7 @@ In general.—\[Amended former section 2320 of this title.\]
 
 &emsp;&emsp;"(B)
 
-Regulations.—Not later than 180 days after the date of the enactment of this Act \[Jan. 1, 2021\],the Secretary of Defense shall update the regulations required by section 2320(a)(1) of title 10, United States Code \[see 10 U.S.C. 3771(a)\], to reflect the amendments made by this paragraph.
+Regulations.—Not later than 180 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall update the regulations required by section 2320(a)(1) of title 10, United States Code \[see 10 U.S.C. 3771(a)\], to reflect the amendments made by this paragraph.
 
 "(c)
 
@@ -230,7 +230,7 @@ Distribution of interfaces.—
 
 &emsp;&emsp;"(A)
 
-In general.—Consistent with the requirements of section 2320 of title 10, United States Code \[see 10 U.S.C. 3771 et seq.\], the Under Secretary of Defense for Acquisition and Sustainment shall, in coordination with the Director of the Defense Standardization Program Office, use the index and repositories established pursuant to paragraph (1) to provide access to interfaces and relevant documentation to authorized Federal Government and non-Governmental entities.
+In general.—Consistent with the requirements of section 2320 of title 10, United States Code \[see 10 U.S.C. 3771 et seq.\], the Under Secretary of Defense for Acquisition and Sustainment shall, in coordination with the Director of the Defense Standardization Program Office, use the index and repositories established pursuant to paragraph (1)to provide access to interfaces and relevant documentation to authorized Federal Government and non-Governmental entities.
 
 &emsp;&emsp;"(B)
 

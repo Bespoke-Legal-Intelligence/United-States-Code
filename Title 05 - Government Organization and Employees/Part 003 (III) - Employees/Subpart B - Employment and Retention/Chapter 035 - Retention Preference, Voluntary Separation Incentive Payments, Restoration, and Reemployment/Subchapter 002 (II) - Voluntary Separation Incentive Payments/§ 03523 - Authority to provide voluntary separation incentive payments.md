@@ -22,7 +22,7 @@
 
 &emsp;(3) shall be equal to the lesser of—
 
-&emsp;&emsp;(A) an amount equal to the amount the employee would be entitled to receive under section 5595(c) if the employee were entitledto payment under such section (without adjustment for any previous payment made); or
+&emsp;&emsp;(A) an amount equal to the amount the employee would be entitled to receive under section 5595(c) if the employee were entitled to payment under such section (without adjustment for any previous payment made); or
 
 &emsp;&emsp;(B) an amount determined by the agency head, not to exceed $25,000;
 

@@ -66,7 +66,7 @@ Not later than 120 days after the end of each fiscal year for which fees are col
 
 #### (c) Corrective action report
 
-For each fiscal year for which fees are collected under this subpart, the Secretary shallprepare and submit a corrective action report to the Committee on Energy and Commerce and Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
+For each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit a corrective action report to the Committee on Energy and Commerce and Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
 
 #### (1) Goals met
 

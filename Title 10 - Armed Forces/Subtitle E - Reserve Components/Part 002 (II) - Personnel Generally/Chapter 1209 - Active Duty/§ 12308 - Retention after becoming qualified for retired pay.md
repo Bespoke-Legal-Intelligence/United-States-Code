@@ -2,7 +2,7 @@
 
 Any person who has qualified for retired pay under chapter 1223 of this title may, with his consent and by order of the Secretary concerned, be retained on active duty, or in service in a reserve component other than that listed in section 12732(b) of this title. A member so retained shall be credited with that service for all purposes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 29, §676; renumbered §12308 and amended Pub. L. 103–337, div. A,title XVI, §§1662(e)(2), 1675(c)(6), Oct. 5, 1994, 108 Stat. 2992, 3017.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 29, §676; renumbered §12308 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(6), Oct. 5, 1994, 108 Stat. 2992, 3017.)
 
 Historical and Revision Notes
 

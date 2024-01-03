@@ -50,7 +50,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Oversight and Reform of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives.
 
 &emsp;"(2)
 
@@ -208,7 +208,7 @@ Reports on Implementation.—
 
 &emsp;"(1)
 
-Report on guidance.—Not later than 120 days after submission of the report by the Director of the Office of Management and Budget required under subsection (a)(2), the Comptroller General of the United States shall report on the guidance issued and actions taken by the Director. The report shall be submitted to the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate and the Committee on Oversight and Government Reform and the Committee on Appropriations of the House of Representatives.
+Report on guidance.—Not later than 120 days after submission of the report by the Director of the Office of Management and Budget required under subsection (a)(2), the Comptroller General of the United States shall report on the guidance issued and actions taken by the Director. The report shall be submitted to the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] and the Committee on Appropriations of the House of Representatives.
 
 &emsp;"(2)
 
@@ -288,7 +288,7 @@ Definitions of Inherently Governmental Function.—The definitions of inherently
 
 "(c)
 
-Report to Congress.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], the Director of the Office of Management and Budget, in consultation with the Chief Acquisition Officers Council and the Chief Human Capital Officers Council, shall submit to the Committees on Armed Services of the Senate and House of Representatives, the Committee on Homeland Security and Governmental Affairs in the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report on the actions taken by the Director under this section. Such report shall contain each of the following:
+Report to Congress.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], the Director of the Office of Management and Budget, in consultation with the Chief Acquisition Officers Council and the Chief Human Capital Officers Council, shall submit to the Committees on Armed Services of the Senate and House of Representatives, the Committee on Homeland Security and Governmental Affairs in the Senate, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives a report on the actions taken by the Director under this section. Such report shall contain each of the following:
 
 &emsp;"(1) A description of the actions taken by the Director under this section to develop a single definition of inherently governmental function and criteria for critical functions.
 
@@ -388,7 +388,7 @@ Exclusion of certain functions from competitions.—The head of an executive age
 
 Deadline.—(A) The head of each executive agency shall implement the guidelines and procedures required under this subsection by not later than 120 days after the date of the enactment of this subsection \[Mar. 11, 2009\].
 
-&emsp;"(B) Not later than 210 days after the date of the enactment of this subsection, the Government Accountability Office shall submit a report on the implementation of this subsection to the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate.
+&emsp;"(B) Not later than 210 days after the date of the enactment of this subsection, the Government Accountability Office shall submit a report on the implementation of this subsection to the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
 &emsp;"(5)
 
@@ -472,7 +472,7 @@ Pub. L. 108–108, title III, §340(a), (b), (f), Nov. 10, 2003, 117 Stat. 1315,
 
 "(a)
 
-Justification of Competitive Sourcing Activities.—(1) In each budget submitted by the President to Congress under section 1105 of title 31, United States Code, for a fiscal year, beginning with fiscal year 2005,amounts requested to perform competitive sourcing studies for programs, projects, and activities listed in paragraph (2) shall be set forth separately from other amounts requested.
+Justification of Competitive Sourcing Activities.—(1) In each budget submitted by the President toCongress under section 1105 of title 31, United States Code, for a fiscal year, beginning with fiscal year 2005, amounts requested to perform competitive sourcing studies for programs, projects, and activities listed in paragraph (2) shall be set forth separately from other amounts requested.
 
 "(2) Paragraph (1) applies to programs, projects, and activities—
 
@@ -702,7 +702,7 @@ Pub. L. 104–316, title II, §201, Oct. 19, 1996, 110 Stat. 3842, provided that
 
 #### Department of Commerce Franchise Fund Pilot
 
-Pub. L. 108–199, div. B, title II, §206, Jan. 23, 2004, 118 Stat. 73, provided that: "Hereafter, the Secretary ofCommerce may use the Commerce franchise fund for expenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services, pursuant to section 403 of Public Law 103–356 \[set out below\]: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 2004 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of department financial management, automated data processing, and other support systems: <i>Provided further</i>, That such amounts retained in the fund for fiscal year 2004 and each fiscal year thereafter shall be available for obligation and expenditure only in accordance with section 605 of this Act \[118 Stat. 93\]: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury."
+Pub. L. 108–199, div. B, title II, §206, Jan. 23, 2004, 118 Stat. 73, provided that: "Hereafter, the Secretary of Commerce may use the Commerce franchise fund for expenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services, pursuant to section 403 of Public Law 103–356 \[set out below\]: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 2004 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of department financial management, automated data processing, and other support systems: <i>Provided further</i>, That such amounts retained in the fund for fiscal year 2004 and each fiscal year thereafter shall be available for obligation and expenditure only in accordance with section 605 of this Act \[118 Stat. 93\]: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -790,7 +790,7 @@ Pub. L. 103–356, title IV, §403, Oct. 13, 1994, 108 Stat. 3413, as amended by
 
 "(a)
 
-Establishment.—There is authorized to be established on a pilot program basis in each of six executive agencies a franchise fund. The Director of the Office of Management and Budget, after consultation with the chairman and ranking members of the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Operations \[now Committee on Oversight and Reform\] of the House of Representatives, shall designate the agencies.
+Establishment.—There is authorized to be established on a pilot program basis in each of six executive agencies a franchise fund. The Director of the Office of Management and Budget, after consultation with the chairman and ranking members of the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Operations \[now Committee on Oversight and Accountability\] of the House of Representatives, shall designate the agencies.
 
 "(b)
 
@@ -798,15 +798,15 @@ Uses.—Each such fund may provide, consistent with guidelines established by th
 
 "(c)
 
-Funding.—(1) There are authorized to be appropriated to the franchise fund of each agency designated under subsection (a) such funds as are necessary to carry out the purposes of the fund, to remain available until expended. To the extent that unexpended balances remain available in other accounts for the purposes to be carried out by the fund, the head of the agency may transfer such balances to the fund.
+Funding.—(1) There are authorized to be appropriated to the franchise fund of each agency designated under subsection (a) such funds as are necessary to carry out the purposes of the fund, to remain available until expended. To the extent that unexpended balances remain available in other accounts for the purposes tobe carried out by the fund, the head of the agency may transfer such balances to the fund.
 
-"(2) Fees for services shall be established by the head of the agency at a level to cover the total estimatedcosts of providing such services. Such fees shall be deposited in the agency's fund to remain available until expended, and may be used to carry out the purposes of the fund.
+"(2) Fees for services shall be established by the head of the agency at a level to cover the total estimated costs of providing such services. Such fees shall be deposited in the agency's fund to remain available until expended, and may be used to carry out the purposes of the fund.
 
 "(3) Existing inventories, including inventories on order, equipment, and other assets or liabilities pertaining to the purposes of the fund may be transferred to the fund.
 
 "(d)
 
-Report on Pilot Programs.—Within 6 months after the end of fiscal year 1997, the Director of the Office of Management and Budget shall forward a report on the results of the pilot programs to the Committees on Appropriations of the Senate and of the House of Representatives, and to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Operations \[now Committee on Oversight and Reform\] of the House of Representatives. The report shall contain the financial and program performance results of the pilot programs, including recommendations for—
+Report on Pilot Programs.—Within 6 months after the end of fiscal year 1997, the Director of the Office of Management and Budget shall forward a report on the results of the pilot programs to the Committees on Appropriations of the Senate and of the House of Representatives, and to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Operations \[now Committee on Oversight and Accountability\] of the House of Representatives. The report shall contain the financial and program performance results of the pilot programs, including recommendations for—
 
 &emsp;"(1) the structure of the fund;
 
@@ -852,7 +852,7 @@ Application.—The authority provided in subsection (a) shall apply only to repo
 
 Adjustments in Reporting.—The Director may consolidate or adjust the frequency and due dates of any statutorily required reports under subsections (a) and (b) only after—
 
-&emsp;"(1) consultation with the Chairman of the Senate Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] and the Chairman of the House of Representatives Committee on Government Operations \[now Committee on Oversight and Reform\]; and
+&emsp;"(1) consultation with the Chairman of the Senate Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] and the Chairman of the House of Representatives Committee on Government Operations \[now Committee on Oversight and Accountability\]; and
 
 &emsp;"(2) written notification to the Congress, no later than February 8 of each fiscal year covered under subsection (b) for those reports required to be submitted during that fiscal year."
 
@@ -884,7 +884,7 @@ Purposes.—The purposes of this Act \[see Short Title of 1990 Amendment note ab
 
 &emsp;"(2) Provide for improvement, in each agency of the Federal Government, of systems of accounting, financial management, and internal controls to assure the issuance of reliable financial information and to deter fraud, waste, and abuse of Government resources.
 
-&emsp;"(3) Provide for the production of complete, reliable, timely, and consistent financial information for use by the executive branch of the Government and the Congress in the financing, management, and evaluation of Federal programs."
+&emsp;"(3) Provide for the production of complete, reliable, timely, and consistent financial information foruse by the executive branch of the Government and the Congress in the financing, management, and evaluation of Federal programs."
 
 #### Duties and Functions of Department of the Treasury
 
@@ -984,7 +984,7 @@ The past 30 years have seen enormous changes in the size, structure and function
 
 Over three decades, the Executive Office of the President has mushroomed but not by conscious design. In many areas it does not provide the kind of staff assistance and support the President needs in order to deal with the problems of government in the 1970s. We confront the 1970s with a staff organization geared in large measure to the tasks of the 1940s and 1950s.
 
-One result, over the years, has been a tendency to enlarge the immediate White House staff—that is, the President's personal staff, as distinct from the institutional structure—to assist with management functions for which the President is responsible. This has blurred the distinction between personal staff and managementinstitutions; it has left key management functions to be performed only intermittently and some not at all. It has perpetuated outdated structures.
+One result, over the years, has been a tendency to enlarge the immediate White House staff—that is, thePresident's personal staff, as distinct from the institutional structure—to assist with management functions for which the President is responsible. This has blurred the distinction between personal staff and management institutions; it has left key management functions to be performed only intermittently and some not at all. It has perpetuated outdated structures.
 
 Another result has been, paradoxically, to inhibit the delegation of authority to Departments and agencies.
 
@@ -1042,7 +1042,7 @@ As soon as the reorganization plan takes effect, I intend to delegate those stat
 
 However, creation of the Office of Management and Budget represents far more than a mere change of name for the Bureau of the Budget. It represents a basic change in concept and emphasis, reflecting the broader management needs of the Office of the President.
 
-The new Office will still perform the key function of assisting the President in the preparation of the annual Federal budget and overseeing its execution. It will draw upon the skills and experience of the extraordinarily able and dedicated career staff developed by the Bureau of the Budget. But preparation of the budget as such will no longer be its dominant, overriding concern.
+The new Office will still perform the key function of assisting the President in the preparation of the annual Federal budget and overseeing its execution. It willdraw upon the skills and experience of the extraordinarily able and dedicated career staff developed by the Bureau of the Budget. But preparation of the budget as such will no longer be its dominant, overriding concern.
 
 While the budget function remains a vital tool of management, it will be strengthened by the greater emphasis the new office will place on fiscal analysis. The budget function is only one of several important management tools that the President must now have. He must also have a substantially enhanced institutional staff capability in other areas of executive management—particularly in program evaluation and coordination, improvement of Executive Branch organization, information and management systems, and development of executive talent. Under this plan, strengthened capability in these areas will be provided partly through internal reorganization, and it will also require additional staff resources.
 
@@ -1082,7 +1082,7 @@ The White House, March 12, 1970.
 
 #### Abolition of Domestic Council
 
-Domestic Council, established by Reorg. Plan No. 2 of 1970, §201, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2086, set out above, abolished by Reorg. Plan No. 1 of 1977, §3, 42 F.R. 56101, 91 Stat. 1633, set out in the Appendix to Title 5, Government Organization and Employees, effective on or before Apr. 1, 1978, at such time as specified byPresident. Section 5D of Reorg. Plan No. 1 of 1977 transferred all functions vested in Domestic Council to President with power to delegate performance of such transferred functions within Executive Office of President.
+Domestic Council, established by Reorg. Plan No. 2 of 1970, §201, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2086, setout above, abolished by Reorg. Plan No. 1 of 1977, §3, 42 F.R. 56101, 91 Stat. 1633, set out in the Appendix to Title 5, Government Organization and Employees, effective on or before Apr. 1, 1978, at such time as specified by President. Section 5D of Reorg. Plan No. 1 of 1977 transferred all functions vested in Domestic Council to President with power to delegate performance of such transferred functions within Executive Office of President.
 
 #### Ex. Ord. No. 11541. Prescribing Duties of Office of Management and Budget and Domestic Council
 
@@ -1136,7 +1136,7 @@ Section 1. There are hereby transferred to the Administrator of General Services
 
 (2) the Management Information and Computer Systems Division with respect to policy control over automatic data processing (except those functions relating to the establishment of Government-wide automatic data-processing standards).
 
-Sec. 2. There are hereby transferred to the Secretary of Commerce all functions being performed on the date of this order in the Office of Management and Budget relating to the establishment of Government-wide automatic data processing standards, including the function of approving standards on behalf of the President pursuant to section 111(f)(2) of the Federal Property and Administrative Services Act of 1949, as amended \[former 40 U.S.C. 759(f)(2)\].
+Sec. 2. There are hereby transferred to the Secretary of Commerce all functions being performed on the date of this order in the Office of Management and Budget relating to the establishment of Government-wide automatic data processing standards, including thefunction of approving standards on behalf of the President pursuant to section 111(f)(2) of the Federal Property and Administrative Services Act of 1949, as amended \[former 40 U.S.C. 759(f)(2)\].
 
 Sec. 3. (a) The functions transferred to the Administrator of the General Services Administration and to the Secretary of Commerce by this order do not include those performed in connection with the general oversight responsibilities of the Director of the Office of Management and Budget, as the head of that agency and as Assistant to the President for executive management, and the functions transferred by this order shall be performed subject to such general oversight to the same extent that other functions of the General Services Administration and the Department of Commerce, respectively, are so performed.
 
@@ -1274,7 +1274,7 @@ Ex. Ord. No. 12552, Feb. 25, 1986, 51 F.R. 7041, which provided for establishmen
 
 Ex. Ord. No. 12615, Nov. 19, 1987, 52 F.R. 44853, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to facilitate ongoing efforts to ensure that the Federal Government acquires needed goods and services in the most economical and efficient manner, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to facilitate ongoing efforts to ensure thatthe Federal Government acquires needed goods and services in the most economical and efficient manner, it is hereby ordered as follows:
 
 Section 1. The head of each Executive department and agency shall, to the extent permitted by law:
 
@@ -1336,9 +1336,9 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 (e) "State and local governments" means the government of any State of the United States, the District of Columbia, any commonwealth, territory, or possession of the United States, and any county, municipality, city, town, township, local public authority, school district, special district, intrastate district, regional or interstate governmental entity, council of governments, and any agency or instrumentality of a local government, and any federally recognized Indian Tribe.
 
-Sec. 2. <i>Fundamental Principles</i>. Executive departments and agencies shall be guided by the following objectives and principles: (a) Adequate and well-maintained infrastructure is critical to economic growth. Consistent with the principles of federalism enumerated in Executive Order No. 12612 \[formerly set out under section 601 of Title 5, Government Organization and Employees\], and in order to allow the private sector to provide for infrastructure modernization and expansion, State and local governments should have greater freedom to privatize infrastructure assets.
+Sec. 2. <i>Fundamental Principles</i>. Executive departments and agencies shall be guided by the following objectives and principles: (a) Adequate and well-maintained infrastructure is critical to economic growth. Consistent with the principles of federalism enumerated in Executive Order No. 12612 \[formerly set out under section 601 of Title 5, Government Organization and Employees\], and in order to allow the private sector to provide for infrastructure modernization and expansion, State andlocal governments should have greater freedom to privatize infrastructure assets.
 
-(b) Private enterprise and competitively driven improvements are the foundation of our Nation's economyand economic growth. Federal financing of infrastructure assets should not act as a barrier to the achievement of economic efficiencies through additional private market financing or competitive practices, or both.
+(b) Private enterprise and competitively driven improvements are the foundation of our Nation's economy and economic growth. Federal financing of infrastructure assets should not act as a barrier to the achievement of economic efficiencies through additional private market financing or competitive practices, or both.
 
 (c) State and local governments are in the best position to assess and respond to local needs. State and local governments should, subject to assuring continued compliance with Federal requirements that public use be on reasonable and nondiscriminatory terms, have maximum possible freedom to make decisions concerning the maintenance and disposition of their federally financed infrastructure assets.
 
@@ -1388,7 +1388,7 @@ Sec. 2. The purpose of this order is to achieve real reductions in the administr
 
 (c) For fiscal year 1996, all agencies shall submit budget requests that reflect no less than a 9 percent reduction in administrative expenses from the amounts made available for fiscal year 1993 adjusted for inflation;
 
-(d) For fiscal year 1997, all agencies shall submit budget requests that reflect no less than a 14 percentreduction in administrative expenses from the amounts made available for fiscal year 1993 adjusted for inflation.
+(d) For fiscal year 1997, all agencies shall submit budget requests that reflect no less than a 14 percent reduction in administrative expenses from the amounts made available for fiscal year 1993 adjusted for inflation.
 
 Sec. 3. The Director shall review agency requests for administrative expenses. The Director shall ensure that all agency requests for such expenses are reduced in accordance with section 2. To the extent that any agency fails to comply with the mandates of section 2, the Director is authorized to reduce the request for administrative expenses in that agency's budget to achieve the appropriate reduction.
 
@@ -1556,7 +1556,7 @@ Department and agency heads shall advise the Chair of their selections for membe
 
 &emsp;(1) explore opportunities for more effective use of Government resources;
 
-&emsp;(2) support activities and initiatives of the President's Management Council, the Chief Financial Officers Council, the Chief Information Officers Council, the Federal Procurement Council, and the Interagency Advisory Group of Federal Personnel Directors designed to develop, review, revise, and implement Governmentwide administrative management policies; and
+&emsp;(2) support activities and initiatives of the President's Management Council, the Chief Financial Officers Council, the Chief Information Officers Council,the Federal Procurement Council, and the Interagency Advisory Group of Federal Personnel Directors designed to develop, review, revise, and implement Governmentwide administrative management policies; and
 
 &emsp;(3) identify successful administrative management practices, including quality management practices, and assist in their Governmentwide dissemination and implementation.
 
@@ -1846,7 +1846,7 @@ Sec. 7. <i>Additional Agency Actions to Improve Customer Experience</i>. The hea
 
 (b) direct all of their respective program offices to apply the guidance from OMB's Office of Information and Regulatory Affairs described in section 5(f) of this order, as well as the requirements of the Paperwork Reduction Act related to collections of information, consistently with guidance contained in the Office of Information and Regulatory Affairs Memorandum of July 22, 2016 (Flexibilities under the Paperwork Reduction Act for Compliance with Information Collection Requirements), which provides that the Paperwork Reduction Act does not apply to agencies' general solicitations of public views and feedback, certain ratings and rankings of Federal services by members of the public using Government websites, or direct observations of users interacting with digital tools and products;
 
-(c) direct all of their respective program offices to identify opportunities to apply policies, including those set forth in subsections 1(a) and (b) of Executive Order 13707, and to engage in promising practices such as the advance testing of information collections described in the Office of Information and Regulatory Affairs Memorandum of August 9, 2012 (Testing and Simplifying Federal Forms);
+(c) direct all of their respective program offices to identify opportunities to apply policies, including those set forth in subsections 1(a) and (b) of Executive Order 13707, and to engage in promising practices such as theadvance testing of information collections described in the Office of Information and Regulatory Affairs Memorandum of August 9, 2012 (Testing and Simplifying Federal Forms);
 
 (d) identify opportunities, as appropriate and consistent with applicable law, to modify their respective agencies' regulations, internal and public-facing guidance, and policies to include positive and equitable customer experiences and service delivery as part of their respective agencies' missions; issue internal directives or policies on customer experience and service delivery to articulate how their respective agencies' strategies and missions relate to customer experience and service delivery outcomes; and promote coordination within and among their respective agencies concerning those customer life experiences that cut across agency or agency component responsibilities;
 

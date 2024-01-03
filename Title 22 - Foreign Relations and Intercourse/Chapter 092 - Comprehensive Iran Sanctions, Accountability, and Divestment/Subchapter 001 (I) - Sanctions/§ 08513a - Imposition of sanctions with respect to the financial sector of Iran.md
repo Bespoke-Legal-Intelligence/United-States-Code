@@ -26,7 +26,7 @@ The President shall, pursuant to the International Emergency Economic Powers Act
 
 &emsp;&emsp;(A) shall prohibit the opening, and prohibit or impose strict conditions on the maintaining, in the United States of a correspondent account or a payable-through account by a foreign financial institution that the President determines has knowingly conducted or facilitated any significant financial transaction with the Central Bank of Iran or another Iranian financial institution designated by the Secretary of the Treasury for the imposition of sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.); and
 
-&emsp;&emsp;(B) may impose sanctions pursuant to the International Emergency Economic PowersAct (50 U.S.C. 1701 et seq.) with respect to the Central Bank of Iran.
+&emsp;&emsp;(B) may impose sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) with respect to the Central Bank of Iran.
 
 #### (2) Exception for sales of agricultural commodities, food, medicine, and medical devices
 
@@ -146,7 +146,7 @@ In this section:
 
 &emsp;The term "United States person" means—
 
-&emsp;&emsp;(A) a natural person who is a citizen or resident of the United States or a national of the United States (as defined in section 1101(a) of title 8); and
+&emsp;&emsp;(A) a natural person who is a citizen or resident of the United States or a national ofthe United States (as defined in section 1101(a) of title 8); and
 
 &emsp;&emsp;(B) an entity that is organized under the laws of the United States or a jurisdiction within the United States.
 
@@ -215,6 +215,12 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Presidential Determinations Relating to Petroleum or Petroleum Products from Iran
 
 The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
+
+Determination of President of the United States, No. 2024–01, Nov. 11, 2023, 88 F.R. 82775.
+
+Determination of President of the United States, No. 2023–08, May 11, 2023, 88 F.R. 32619.
+
+Determination of President of the United States, No. 2023–03, Jan. 30, 2023, 88 F.R. 8347.
 
 Determination of President of the United States, No. 2022–12, May 12, 2022, 87 F.R. 30383.
 

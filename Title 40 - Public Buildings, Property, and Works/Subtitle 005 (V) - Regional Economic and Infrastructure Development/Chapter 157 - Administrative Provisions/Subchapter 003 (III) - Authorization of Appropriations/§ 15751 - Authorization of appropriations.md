@@ -16,7 +16,7 @@ In general.—Except as provided in paragraph (2), not more than 10 percent of t
 
 Limited funding.—In a case in which less than $10,000,000 is made available to a Commission for a fiscal year under this section, paragraph (1) shall not apply.
 
-(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1482, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2244; amended Pub. L. 113–79, title VI, §6207, Feb. 7, 2014, 128 Stat. 861; Pub. L. 115–334, title VI, §6304(e), Dec. 20, 2018, 132 Stat. 4752.)
+(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1482, and Pub. L. 110–246,§4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2244; amended Pub. L. 113–79, title VI, §6207, Feb. 7, 2014, 128 Stat. 861; Pub. L. 115–334, title VI, §6304(e), Dec. 20, 2018, 132 Stat. 4752.)
 
 #### <b>Editorial Notes</b>
 

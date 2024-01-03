@@ -1,6 +1,6 @@
 ### §3539. Housing and Urban Development Disaster Assistance Fund
 
-The Secretary of Housing and Urban Development is authorized to establish a fund and to transfer to such fund from appropriations or funds available to the Department of Housing and Urban Development, such amounts as may be necessary to provide disaster assistance for which the Secretary has been requested by the President to make resources available pursuant to the authority of the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\].
+The Secretary of Housing and Urban Development is authorized to establish a fund and to transfer to such fund from appropriations orfunds available to the Department of Housing and Urban Development, such amounts as may be necessary to provide disaster assistance for which the Secretary has been requested by the President to make resources available pursuant to the authority of the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\].
 
 (Pub. L. 92–383, title IV, §406, Aug. 14, 1972, 86 Stat. 553; 1973 Reorg. Plan No. 1, §§1, 3(a)(1), eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089; Ex. Ord. No. 11749, §2(1), Dec. 10, 1973, 38 F.R. 34177; Ex. Ord. No. 12148, §4–201, July 20, 1979, 44 F.R. 43239; Pub. L. 100–707, title I, §109(s), Nov. 23, 1988, 102 Stat. 4710.)
 
@@ -26,7 +26,7 @@ Section was formerly classified to section 4413a of this title.
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto,to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### <b>Executive Documents</b>
 

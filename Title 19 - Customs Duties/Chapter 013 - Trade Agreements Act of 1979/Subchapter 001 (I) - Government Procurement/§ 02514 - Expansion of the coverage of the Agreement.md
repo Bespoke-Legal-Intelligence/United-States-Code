@@ -2,11 +2,11 @@
 
 #### (a) Overall negotiating objective
 
-The President shall seek in the renegotiations provided for in article XXIV(7) of the Agreementmore open and equitable market access abroad, and the harmonization, reduction, or elimination of devices which distort trade or commerce related to Government procurement, with the overall goal of maximizing the economic benefit to the United States through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, the development of fair and equitable market opportunities, and open and nondiscriminatory world trade. In carrying out the provisions of this subsection, the President shall consider the assessment made in the report required under section 2516(a) <sup>1</sup> of this title.
+The President shall seek in the renegotiations provided for in article XXIV(7) of the Agreement more open and equitable market access abroad, and the harmonization, reduction, or elimination of devices which distort trade or commerce related to Government procurement, with the overall goal of maximizing the economic benefit to the United States through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, the development of fair and equitable market opportunities, and open and nondiscriminatory world trade. In carrying out the provisions of this subsection, the President shall consider the assessment made in the report required under section 2516(a) <sup>1</sup> of this title.
 
 #### (b) Sector negotiating objectives
 
-The President shall seek, consistent with the overall objective set forth in subsection (a) and to the maximum extent feasible, with respect to appropriate product sectors, competitive opportunities for the export of United States products to the developed countries of the world equivalent to the competitive opportunities afforded by the United States, taking into account all barriers to, and other distortions of, international trade affecting that sector.
+The President shall seek, consistent with the overall objective set forth in subsection (a) andto the maximum extent feasible, with respect to appropriate product sectors, competitive opportunities for the export of United States products to the developed countries of the world equivalent to the competitive opportunities afforded by the United States, taking into account all barriers to, and other distortions of, international trade affecting that sector.
 
 #### (c) Independent verification objective
 

@@ -20,7 +20,7 @@
 
 #### (A) Authority
 
-&emsp;&emsp;In addition to the authority described in paragraph (1), the Secretary, in consultation with the Secretary of the Treasury, is authorized to purchase, or enter into forward commitments to purchase, from any eligible lender (as defined in section 1085(d)(1) of this title), loans that such lender purchased under section 1078–6 of this title on or after October 1, 2003, and before July 1, 2010, and that are not in default, on such terms as the Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget jointly determine are in the best interest of the United States, except that any purchase under this paragraph shall not result in any net cost to the Federal Government (including the cost of servicing the loans purchased), as determined jointly by the Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget.
+&emsp;&emsp;In addition to the authority described in paragraph (1), the Secretary, in consultation with the Secretary of the Treasury, is authorized to purchase, or enter into forward commitments to purchase, from any eligible lender (as defined in section 1085(d)(1) of this title), loans that such lender purchased under section 1078–6 of this title on or after October 1, 2003, and before July 1, 2010, and that are not in default, on such terms as the Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget jointly determine are in the best interest of the United States, except that any purchase under this paragraphshall not result in any net cost to the Federal Government (including the cost of servicing the loans purchased), as determined jointly by the Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget.
 
 #### (B) Federal Register notice
 
@@ -70,7 +70,7 @@ The Secretary shall prepare, transmit to the authorizing committees, and make av
 
 &emsp;&emsp;&emsp;(i) the number of loans the Secretary has agreed to purchase, or has purchased, using the authority provided under this section, and the total amount of outstanding principal and accrued interest of such loans, during such period; and
 
-&emsp;&emsp;&emsp;(ii) the number of loans in which the Secretary has purchased a participationinterest, and the total amount of outstanding principal and accrued interest of such loans, during such period.
+&emsp;&emsp;&emsp;(ii) the number of loans in which the Secretary has purchased a participation interest, and the total amount of outstanding principal and accrued interest of such loans, during such period.
 
 #### (B) Disaggregated information
 
@@ -86,7 +86,7 @@ The Secretary shall prepare, transmit to the authorizing committees, and make av
 
 &emsp;&emsp;(C) include a comparison of—
 
-&emsp;&emsp;&emsp;(i) the average amount of the gross and net outlays (including costs and payments) described in subparagraph (B) for each $100 of loans purchased or for which a participation interest was purchased (as applicable) during such period, disaggregated by type of loan; with
+&emsp;&emsp;&emsp;(i) the average amount of the gross and net outlays (including costs and payments)described in subparagraph (B) for each $100 of loans purchased or for which a participation interest was purchased (as applicable) during such period, disaggregated by type of loan; with
 
 &emsp;&emsp;&emsp;(ii) the average amount of such gross and net outlays (including costs and payments) to the Federal Government for each $100 of comparable loans made under this part and part B during such period, disaggregated by part and by type of loan.
 

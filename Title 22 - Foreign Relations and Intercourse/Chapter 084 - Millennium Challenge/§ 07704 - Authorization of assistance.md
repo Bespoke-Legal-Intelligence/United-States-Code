@@ -2,7 +2,7 @@
 
 #### (a) Assistance
 
-Notwithstanding any other provision of law (other than a provision of this chapter), the Board, acting through the Chief Executive Officer, is authorized to provide assistance under this section for each country that enters into aMillennium Challenge Compact with the United States pursuant to section 7708 of this title to support policies and programs that advance the progress of the country in achieving lasting economic growth and poverty reduction and are in furtherance of the purposes of this chapter.
+Notwithstanding any other provision of law (other than a provision of this chapter), the Board, acting through the Chief Executive Officer, is authorized to provide assistance under this section for each country that enters into a Millennium Challenge Compact with the United States pursuant to section 7708 of this title to support policies and programs that advance the progress of the country in achieving lasting economic growth and poverty reduction and are in furtherance of the purposes of this chapter.
 
 #### (b) Form of assistance
 
@@ -30,7 +30,7 @@ The Chief Executive Officer, in consultation with the Board and working with eli
 
 #### (2) Prohibition on assistance relating to United States job loss or production displacement
 
-&emsp;Assistance under this section may not be provided for any project that is likely to cause a substantial loss of United States jobs or a substantial displacement of United States production.
+&emsp;Assistance under this section may not be provided for any project that is likely to cause a substantial loss of United States jobs or asubstantial displacement of United States production.
 
 #### (3) Prohibition on assistance relating to environmental, health, or safety hazards
 

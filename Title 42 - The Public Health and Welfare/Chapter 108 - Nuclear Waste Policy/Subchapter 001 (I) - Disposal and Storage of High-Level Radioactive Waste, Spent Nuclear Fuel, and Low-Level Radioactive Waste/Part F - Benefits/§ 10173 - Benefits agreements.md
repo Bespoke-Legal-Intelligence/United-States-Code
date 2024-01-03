@@ -12,7 +12,7 @@
 
 #### (b) Amendment
 
-A benefits agreement entered into under subsection (a) may be amended only by the mutualconsent of the parties to the agreement and terminated only in accordance with section 10173c of this title.
+A benefits agreement entered into under subsection (a) may be amended only by the mutual consent of the parties to the agreement and terminated only in accordance with section 10173c of this title.
 
 #### (c) Agreement with Nevada
 
@@ -30,7 +30,7 @@ Only one benefits agreement for a repository and only one benefits agreement for
 
 Decisions of the Secretary under this section are not subject to judicial review.
 
-(Pub. L. 97–425, title I, §170, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5031, Dec. 22, 1987, 101 Stat. 1330–237.)
+(Pub. L. 97–425, title I, §170, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5031, Dec. 22, 1987, 101 Stat. 1330–237.)
 
 #### <b>Editorial Notes</b>
 

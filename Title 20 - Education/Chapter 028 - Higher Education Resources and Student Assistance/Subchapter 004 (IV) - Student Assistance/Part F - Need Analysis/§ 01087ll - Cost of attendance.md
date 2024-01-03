@@ -46,7 +46,7 @@ For the purpose of this subchapter, the term "cost of attendance" means—
 
 &emsp;(13) at the option of the institution, for a student in a program requiring professional licensure or certification, the one-time cost of obtaining the first professional credentials (as determined by the institution).
 
-(Pub. L. 89–329, title IV, §472, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 103–208, §2(g)(1), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §471, Oct. 7, 1998, 112 Stat. 1729;Pub. L. 109–171, title VIII, §8016, Feb. 8, 2006, 120 Stat. 172; Pub. L. 110–315, title IV, §471(a), Aug. 14, 2008, 122 Stat. 3269; Pub. L. 116–260, div. FF, title VII, §702(b), Dec. 27, 2020, 134 Stat. 3138; Pub. L. 117–103, div. R, §103(a), Mar. 15, 2022, 136 Stat. 820.)
+(Pub. L. 89–329, title IV, §472, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 103–208, §2(g)(1), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §471, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8016, Feb. 8, 2006, 120 Stat. 172; Pub. L. 110–315, title IV, §471(a), Aug. 14, 2008, 122 Stat. 3269; Pub. L. 116–260, div. FF, title VII, §702(b), Dec. 27, 2020, 134 Stat. 3138; Pub. L. 117–103, div. R, §103(a), Mar. 15, 2022, 136 Stat. 820.)
 
 #### Amendment of Section
 
@@ -64,7 +64,7 @@ For the purpose of this subchapter, the term "cost of attendance" means—
 
 &emsp;<i>(3) an allowance for transportation, which may include transportation between campus, residences, and place of work, as determined by the institution;</i>
 
-&emsp;<i>(4) an allowance for miscellaneous personal expenses, for a student attending the institution on at least a half-time basis, as determined by the institution;</i>
+&emsp;<i>(4) an allowance for miscellaneous personal expenses, for a student attending the institution on</i><i>at least a half-time basis, as determined by the institution;</i>
 
 &emsp;<i>(5) an allowance for living expenses, including food and housing costs, to be incurred by the student attending the institution on at least a half-time basis, as determined by the institution, which shall include—</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—There is established in the Department of the Interior the Preserve America Program, under which the Secretary, in partnership with the Council, may provide competitive grants to States, local governments (including local governments in the process of applying for designation as Preserve America Communities under section 311103 of this title, Indian tribes, communities designated as Preserve America Communities under section 311103 of this title, State historic preservation offices, and tribal historic preservation offices to support preservation efforts through heritage tourism, education, and historic preservation planning activities.
+In General.—There is established in the Department of the Interior the Preserve America Program, under which the Secretary, in partnership with the Council, may provide competitive grants to States, local governments (including local governments in the process of applying for designation as Preserve America Communities under section 311103 of this title, Indian tribes, communities designated as Preserve America Communities under section 311103 of this title, State historic preservation offices,and tribal historic preservation offices to support preservation efforts through heritage tourism, education, and historic preservation planning activities.
 
 (b)
 
@@ -66,7 +66,7 @@ Form of non-federal share.—The non-Federal share required under paragraph (1) 
 
 &emsp;(3)
 
-Requirement.—The Secretary shall ensure that each applicant for a grant has thecapacity to secure, and a feasible plan for securing, the non-Federal share for an eligible project required under paragraph (1) before a grant is provided to the eligible project under the program.
+Requirement.—The Secretary shall ensure that each applicant for a grant has the capacity to secure, and a feasible plan for securing, the non-Federal share for an eligible project required under paragraph (1) before a grant is provided to the eligible project under the program.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3247.)
 

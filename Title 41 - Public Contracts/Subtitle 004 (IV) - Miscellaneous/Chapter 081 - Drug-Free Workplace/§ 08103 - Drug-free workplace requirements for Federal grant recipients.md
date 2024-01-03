@@ -48,7 +48,7 @@ Grounds for suspension, termination, or debarment.—Payment under a grant award
 
 &emsp;&emsp;(A) the grantee is violating, or has violated, the requirements of subparagraph (A), (B), (C), (D), (E), (F), or (G) of subsection (a)(1); or
 
-&emsp;&emsp;(B) the number of employees of the grantee who have been convicted of violations of criminal drug statutes for violations occurring in the workplace indicates that thegrantee has failed to make a good faith effort to provide a drug-free workplace as required by subsection (a)(1).
+&emsp;&emsp;(B) the number of employees of the grantee who have been convicted of violations of criminal drug statutes for violations occurring in the workplace indicates that the grantee has failed to make a good faith effort to provide a drug-free workplace as required by subsection (a)(1).
 
 &emsp;(2)
 

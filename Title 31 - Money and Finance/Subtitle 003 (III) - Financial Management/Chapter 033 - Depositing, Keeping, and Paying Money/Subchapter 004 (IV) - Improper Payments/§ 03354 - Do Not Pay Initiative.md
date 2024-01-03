@@ -180,7 +180,7 @@ Section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2
 
 The date of enactment of this section, referred to in subsecs. (c), (d)(2), and (e)(1), (3), is the date of enactment of Pub. L. 116–117, which was approved Mar. 2, 2020.
 
-Section 6(j) of the Inspector General Act of 1978, referred to in subsec. (d)(4)(B), is section 6(j) of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 406(j) of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4224, 4361.
+Section 6(j) of the Inspector General Act of 1978, referred to in subsec. (d)(4)(B), is section 6(j) of Pub. L.95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 406(j) of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4224, 4361.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;In each host country described in subparagraph (A), if the strategy established under subparagraph (A) provides less than 50 percent of the funds described in subparagraph (A) for activities promoting abstinence, delay of sexual debut, monogamy, fidelity,and partner reduction, the Global AIDS Coordinator shall, not later than 30 days after the issuance of this strategy, report to the appropriate congressional committees on the justification for this decision.
+&emsp;&emsp;In each host country described in subparagraph (A), if the strategy established under subparagraph (A) provides less than 50 percent of the funds described in subparagraph (A) for activities promoting abstinence, delay of sexual debut, monogamy, fidelity, and partner reduction, the Global AIDS Coordinator shall, not later than 30 days after the issuance of this strategy, report to the appropriate congressional committees on the justification for this decision.
 
 #### (3) Exclusion
 

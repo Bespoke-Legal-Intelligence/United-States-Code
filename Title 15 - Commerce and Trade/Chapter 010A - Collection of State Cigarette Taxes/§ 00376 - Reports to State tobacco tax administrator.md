@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 111–154, §2(b)(1), (3), inserted heading, substituted "c
 
 Subsec. (c). Pub. L. 111–154, §2(b)(4), added subsec. (c).
 
-<b>1955</b>—Act Aug. 9, 1955, designated existing provisions as subsec. (a), inserted provisions requiring filing of a statement of name, trade name, address, and places of business by persons who sell or transfer for profit cigarettes in interstate commerce or by persons who advertise or offer cigarettes for such sale or transfer, and added subsec. (b).
+<b>1955</b>—Act Aug. 9, 1955, designated existing provisions as subsec. (a), inserted provisions requiring filing of astatement of name, trade name, address, and places of business by persons who sell or transfer for profit cigarettes in interstate commerce or by persons who advertise or offer cigarettes for such sale or transfer, and added subsec. (b).
 
 <b>1953</b>—Act Aug. 15, 1953, required that the memorandum or copy of invoice be filed with, rather than forwarded to, the tobacco tax administrator.
 
@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 111–154, §2(b)(4), added subsec. (c).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–154 effective on the date that is 90 days after March 31, 2010, see section 6 of Pub.L. 111–154, set out as a note under section 375 of this title.
+Amendment by Pub. L. 111–154 effective on the date that is 90 days after March 31, 2010, see section 6 of Pub. L. 111–154, set out as a note under section 375 of this title.
 
 #### Effective Date of 1955 Amendment
 

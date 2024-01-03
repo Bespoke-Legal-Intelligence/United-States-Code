@@ -126,7 +126,7 @@ Definitions.—In this section:
 
 #### Pilot Program on Graduate Medical Education and Residency
 
-Pub. L. 115–182, title IV, §403, June 6, 2018, 132 Stat. 1472, as amended by Pub. L. 115–251, title II, §211(b)(9), Sept. 29, 2018, 132 Stat. 3177; Pub. L. 116–159, div. E, title I, §5107, Oct. 1, 2020, 134 Stat. 749, provided that:
+Pub. L. 115–182, title IV, §403, June 6, 2018, 132 Stat. 1472, as amended by Pub. L. 115–251, title II, §211(b)(9),Sept. 29, 2018, 132 Stat. 3177; Pub. L. 116–159, div. E, title I, §5107, Oct. 1, 2020, 134 Stat. 749, provided that:
 
 "(a)
 
@@ -210,7 +210,7 @@ Reporting.—
 
 &emsp;"(1)
 
-In general.—Not later than 1 year after the date of the enactment of this Act \[June 6, 2018\] andnot less frequently than once each year thereafter until the termination of the pilot program, the Secretary shall submit to Congress a report on the implementation of the pilot program.
+In general.—Not later than 1 year after the date of the enactment of this Act \[June 6, 2018\] and not less frequently than once each year thereafter until the termination of the pilot program, the Secretary shall submit to Congress a report on the implementation of the pilot program.
 
 &emsp;"(2)
 

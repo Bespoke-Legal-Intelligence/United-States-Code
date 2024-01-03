@@ -102,7 +102,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If adequate records are not provided to the Secretary to determine the proper treatment of any distribution from a foreign trust, such distribution shall be treated as an accumulation distribution includible in the gross income of the distributee under chapter 1. To the extent provided in regulations, the preceding sentence shall not apply if the foreign trust elects to be subject to rules similar to the rules of subsection (b)(2)(B).
+&emsp;&emsp;If adequate records are not provided to the Secretary to determine the proper treatment of any distribution from a foreign trust, such distribution shall be treated as an accumulation distribution includible inthe gross income of the distributee under chapter 1. To the extent provided in regulations, the preceding sentence shall not apply if the foreign trust elects to be subject to rules similar to the rules of subsection (b)(2)(B).
 
 #### (B) Application of accumulation distribution rules
 

@@ -24,7 +24,7 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, div. A, title X, §1061(19)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 2582 "Militaryequipment identified on United States munitions list: annual report of public sales".
+<b>2011</b>—Pub. L. 112–81, div. A, title X, §1061(19)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 2582 "Military equipment identified on United States munitions list: annual report of public sales".
 
 Pub. L. 111–383, div. A, title X, §1072(c)(2), Jan. 7, 2011, 124 Stat. 4366, substituted "Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies" for "Surplus military equipment: sale to State and local law enforcement and firefighting agencies" in item 2576.
 
@@ -70,7 +70,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 Issues To Be Addressed.—At a minimum, the expedited process established pursuant to subsection (a) shall—
 
-&emsp;"(1) include a mechanism pursuant to which contractors, or other sources of supply, may provide to appropriate Department of Defense officials information that identifies—
+&emsp;"(1) include a mechanism pursuant to which contractors, or other sources of supply, may provide toappropriate Department of Defense officials information that identifies—
 
 &emsp;&emsp;"(A) obsolete electronic parts that are included in the specifications for an acquisition program of the Department of Defense; and
 

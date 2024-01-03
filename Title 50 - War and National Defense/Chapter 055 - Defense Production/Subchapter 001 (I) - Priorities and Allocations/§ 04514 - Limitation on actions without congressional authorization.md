@@ -2,7 +2,7 @@
 
 #### (a) Wage or price controls
 
-No provision of this chapter shall be interpreted as providing for the imposition of wage orprice controls without the prior authorization of such action by a joint resolution of Congress.
+No provision of this chapter shall be interpreted as providing for the imposition of wage or price controls without the prior authorization of such action by a joint resolution of Congress.
 
 #### (b) Chemical or biological weapons
 

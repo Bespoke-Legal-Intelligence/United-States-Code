@@ -116,7 +116,7 @@ As used in this section—
 
 &emsp;(5) the term "national security system" has the same meaning as provided in section 3552(b)(5) <sup>2</sup> of such title.<sup>3</sup>
 
-(Mar. 3, 1901, ch. 872, §20, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(1), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269; Pub. L. 107–305, §§8(b), 9, 10, Nov. 27, 2002, 116 Stat. 2378, 2379; Pub. L. 107–347, title III, §303, Dec. 17, 2002, 116 Stat. 2957; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–274, title II, §204, Dec. 18, 2014, 128 Stat. 2980; Pub. L. 113–283, §2(e)(4), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 114–329, title I, §104(b)(3), Jan. 6, 2017, 130 Stat. 2976; Pub. L. 116–283, div. H, title XCIV, §9402(a), Jan. 1, 2021, 134 Stat. 4810; Pub. L. 117–167, div. B, title II, §§10227, 10246(a)(2), (g), Aug. 9, 2022, 136 Stat. 1481, 1491, 1494.)
+(Mar. 3, 1901, ch. 872, §20, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(1), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 107–296, title X, §1003, Nov.25, 2002, 116 Stat. 2269; Pub. L. 107–305, §§8(b), 9, 10, Nov. 27, 2002, 116 Stat. 2378, 2379; Pub. L. 107–347, title III, §303, Dec. 17, 2002, 116 Stat. 2957; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–274, title II, §204, Dec. 18, 2014, 128 Stat. 2980; Pub. L. 113–283, §2(e)(4), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 114–329, title I, §104(b)(3), Jan. 6, 2017, 130 Stat. 2976; Pub. L. 116–283, div. H, title XCIV, §9402(a), Jan. 1, 2021, 134 Stat. 4810; Pub. L. 117–167, div. B, title II, §§10227, 10246(a)(2), (g), Aug. 9, 2022, 136 Stat. 1481, 1491, 1494.)
 
 #### <b>Editorial Notes</b>
 
@@ -138,7 +138,7 @@ Subsec. (c)(3). Pub. L. 117–167, §10246(a)(2)(A), amended par. (3) generally.
 
 Subsec. (d)(1). Pub. L. 117–167, §10246(a)(2)(B)(i), substituted "Secretary of Commerce" for "Director of the Office of Management and Budget".
 
-Subsec. (d)(8). Pub. L. 117–167, §10246(a)(2)(B)(ii), which directed the substitution of "Secretary of Commerce with such standards submitted to the Secretary" for "Director of Management and Budget with such standards submitted to the Director" was executed by making the substitution for "Director of the Office of Management and Budget with such standards submitted to the Director" to reflect the probable intent of Congress.
+Subsec. (d)(8). Pub. L. 117–167, §10246(a)(2)(B)(ii), which directed the substitution of "Secretary of Commerce with such standards submitted to the Secretary" for "Director of Management and Budget with such standards submitted to the Director", was executed by making the substitution for "Director of the Office of Management and Budget with such standards submitted to the Director" to reflect the probable intent of Congress.
 
 <b>2021</b>—Subsec. (a)(5). Pub. L. 116–283 added par. (5).
 
@@ -204,7 +204,7 @@ Development of Standards and Guidelines.—In developing standards and guideline
 
 &emsp;"(6) to the maximum extent practicable, ensure that such standards and guidelines provide for sufficient flexibility to permit alternative solutions to provide equivalent levels of protection for identified information security risks; and
 
-&emsp;"(7) to the maximum extent practicable, use flexible, performance-based standards and guidelines that permit the use of off-the-shelf commercially developed information security products.
+&emsp;"(7) to the maximum extent practicable, use flexible, performance-based standards and guidelines thatpermit the use of off-the-shelf commercially developed information security products.
 
 "(d)
 

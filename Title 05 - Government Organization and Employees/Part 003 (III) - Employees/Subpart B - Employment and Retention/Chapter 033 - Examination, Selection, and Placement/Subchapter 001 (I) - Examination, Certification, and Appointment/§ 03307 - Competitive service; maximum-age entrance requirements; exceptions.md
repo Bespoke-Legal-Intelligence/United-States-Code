@@ -168,7 +168,7 @@ Amendment by Pub. L. 96–347 effective on 90th day after Sept. 12, 1980, see se
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–350, §7, July 12, 1974, 88 Stat. 356, provided that: "The amendments made by the first section \[amending this section\], and sections 2(b), 5, and 6 \[amending sections 8331, 8336, and 8339 of this title\], of this Act shall become effective on the date of enactment of this Act \[July 12, 1974\]. The amendments made by sections 2(a) and 3 \[amending sections 8331 and 8334 of this title\] of this Act shall become effective at the beginning of the first applicable pay period which begins after December 31, 1974. The amendment made by section 4 of this Act \[amending section 8335 of this title\] shall become effective on January 1, 1978."
+Pub. L. 93–350, §7, July 12, 1974, 88 Stat. 356, provided that: "The amendments made by the first section \[amending this section\], and sections 2(b), 5, and 6 \[amending sections 8331, 8336, and 8339 of this title\], of this Act shall become effective on the date of enactment of this Act \[July 12, 1974\]. The amendments madeby sections 2(a) and 3 \[amending sections 8331 and 8334 of this title\] of this Act shall become effective at the beginning of the first applicable pay period which begins after December 31, 1974. The amendment made by section 4 of this Act \[amending section 8335 of this title\] shall become effective on January 1, 1978."
 
 #### Effective Date of 1972 Amendment
 
@@ -188,5 +188,5 @@ Pub. L. 91–73, Sept. 26, 1969, 83 Stat. 116, which provided for age limits for
 
 Ex. Ord. No. 11817, Nov. 5, 1974, 39 F.R. 39427, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-By virtue of the authority vested in me by section 3307(d) of title 5 of the United States Code, as added by the first section of the Act of July 12, 1974 (Public Law 93–350; 88 Stat. 355), I hereby designate the Office of Personnel Management as the agency to concur with determinations made by agencies to fix the minimum and maximum limits of age within which an original appointment may be made to a position as a law enforcement officer or firefighter, as defined by section 8331(20) and (21), respectively, of title 5 of the UnitedStates Code. The designation made by this order shall be effective as of October 15, 1974.
+By virtue of the authority vested in me by section 3307(d) of title 5 of the United States Code, as added by the first section of the Act of July 12, 1974 (Public Law 93–350; 88 Stat. 355), I hereby designate the Office of Personnel Management as the agency to concur with determinations made by agencies to fix the minimum and maximum limits of age within which an original appointment may be made to a position as a law enforcement officer or firefighter, as defined by section 8331(20) and (21), respectively, of title 5 of the United States Code. The designation made by this order shall be effective as of October 15, 1974.
 

@@ -176,7 +176,7 @@ The functions of the CAN are to—
 
 #### (A) Compensation
 
-&emsp;&emsp;Members shall receive compensation at a rate to be fixed by the Chairperson but notto exceed a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which the member is engaged in the performance of the duties of the Board. All members of the Board who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
+&emsp;&emsp;Members shall receive compensation at a rate to be fixed by the Chairperson but not to exceed a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which the member is engaged in the performance of the duties of the Board. All members of the Board who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
 
 #### (B) Travel expenses
 
@@ -294,7 +294,7 @@ Section was formerly classified to section 282d of this title.
 
 #### Prior Provisions
 
-A prior section 287a, July 1, 1944, ch. 373, title IV, §480, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 864; amended Pub. L. 101–381, title I, §102(3), Aug. 18, 1990, 104 Stat. 586; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title XV, §1501(2)(C), (D), title XX, §§2008(b)(12), 2010(b)(4), June 10, 1993, 107 Stat. 172, 173, 211, 214, related to the advisory council for the National Center for Research Resources, prior to repeal by Pub. L. 112–74, div. F, title II, §221(a)(1)(B), Dec. 23, 2011, 125 Stat. 1086.
+A prior section 287a, July 1, 1944, ch. 373, title IV, §480, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 864; amended Pub. L. 101–381, title I, §102(3), Aug. 18, 1990, 104 Stat. 586; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title XV, §1501(2)(C), (D), title XX, §§2008(b)(12), 2010(b)(4), June10, 1993, 107 Stat. 172, 173, 211, 214, related to the advisory council for the National Center for Research Resources, prior to repeal by Pub. L. 112–74, div. F, title II, §221(a)(1)(B), Dec. 23, 2011, 125 Stat. 1086.
 
 #### Amendments
 

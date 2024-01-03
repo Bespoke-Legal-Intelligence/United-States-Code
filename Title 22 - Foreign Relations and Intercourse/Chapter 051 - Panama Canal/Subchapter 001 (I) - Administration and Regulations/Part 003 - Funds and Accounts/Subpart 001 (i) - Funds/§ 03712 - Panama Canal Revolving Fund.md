@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Treasury of the United States a revolving fund to be known as "Panama Canal Revolving Fund". The Panama Canal Revolving Fund shall, subject to subsection (b), be available to the Commission to carry out the purposes, functions, and powers authorized by this chapter, including for the following purposes:
+There is established in the Treasury of the United States a revolving fund to be known as"Panama Canal Revolving Fund". The Panama Canal Revolving Fund shall, subject to subsection (b), be available to the Commission to carry out the purposes, functions, and powers authorized by this chapter, including for the following purposes:
 
 &emsp;(1) The hire of passenger motor vehicles and aircraft.
 
@@ -60,7 +60,7 @@ With the approval of the Secretary of the Treasury, the Commission may deposit a
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (d)(1), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979 which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (d)(1), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979 which is classified principally to this chapter.For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 Section 3504 of Public Law 106–65, referred to in subsec. (e)(1), is section 3504 of Pub. L. 106–65, div. C, title XXXV, Oct. 5, 1999, 113 Stat. 975, which amended section 3714a of this title and enacted provisions set out as a note under section 3714a of this title.
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 100–705 effective Oct. 1, 1988, see section 10 of Pub. L.
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title V, §5429, Dec. 22, 1987, 101 Stat. 1330–275, provided that: "This part and the amendmentsmade by this part \[part 2 (§§5421–5429) of subtitle E of title V of Pub. L. 100–203, enacting section 3714 of this title, amending this section, sections 3683, 3711, 3713, 3751, 3753, 3754, 3792, and 3793 of this title, and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3601 of this title\] take effect on January 1, 1988."
+Pub. L. 100–203, title V, §5429, Dec. 22, 1987, 101 Stat. 1330–275, provided that: "This part and the amendments made by this part \[part 2 (§§5421–5429) of subtitle E of title V of Pub. L. 100–203, enacting section 3714 of this title, amending this section, sections 3683, 3711, 3713, 3751, 3753, 3754, 3792, and 3793 of this title, and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3601 of this title\] take effect on January 1, 1988."
 
 #### Effective Date of 1985 Amendment
 

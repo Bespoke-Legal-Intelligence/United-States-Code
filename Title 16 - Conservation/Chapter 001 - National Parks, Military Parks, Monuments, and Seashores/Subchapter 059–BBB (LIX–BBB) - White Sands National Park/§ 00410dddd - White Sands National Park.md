@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Military munitions
 
-&emsp;The term "military munitions" has the meaning given the term in section 101(e) of title 10.
+&emsp;The term "military munitions" has the meaning given the term in section 101(e) <sup>1</sup> of title 10.
 
 #### (3) Missile range
 
@@ -240,6 +240,8 @@ In this section:
 
 #### References in Text
 
+Section 101(e) of title 10, referred to in subsec. (a)(2), was redesignated section 101(f) of title 10, and a new subsec. 101(e) of title 10 was added, by Pub. L. 118–31, div. A, title XVII, §1713(a), Dec. 22, 2023, 137 Stat. 625.
+
 Presidential Proclamation No. 2025, referred to in subsec. (a)(4), is Proc. No. 2025, Jan. 18, 1933, 47 Stat. 2551, which is listed in a table of National Monuments Established Under Presidential Proclamation set out under section 320301 of Title 54, National Park Service and Related Programs.
 
 The Clean Air Act, referred to in subsec. (b)(7)(E), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
@@ -251,4 +253,6 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 #### Codification
 
 Section is comprised of section 2851 of Pub. L. 116–92. Subsec. (c)(2)(C) of section 2851 of Pub. L. 116–92 repealed section 2854 of Pub. L. 104–201, div. B, title XXVIII, Sept. 23, 1996, 110 Stat. 2803, which is listed in a table of National Monuments Established Under Presidential Proclamation set out under section 320301 of Title 54, National Park Service and Related Programs.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

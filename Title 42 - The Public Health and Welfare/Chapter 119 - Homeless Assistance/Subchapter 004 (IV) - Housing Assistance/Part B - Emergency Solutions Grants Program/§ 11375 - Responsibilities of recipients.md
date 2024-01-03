@@ -22,7 +22,7 @@ Each recipient shall certify to the Secretary that—
 
 &emsp;&emsp;(B) in the case of assistance involving rehabilitation (other than major rehabilitation or conversion), maintain any building for which assistance is used under this part as a shelter for homeless individuals and families for not less than a 3-year period; or
 
-&emsp;&emsp;(C) in the case of assistance involving solely activities described in paragraphs (2) and (3) of section 11374(a) <sup>1</sup> of this title, provideservices or shelter to homeless individuals and families for the period during which such assistance is provided, without regard to a particular site or structure as long as the same general population is served;
+&emsp;&emsp;(C) in the case of assistance involving solely activities described in paragraphs (2) and (3) of section 11374(a) <sup>1</sup> of this title, provide services or shelter to homeless individuals and families for the period during which such assistance is provided, without regard to a particular site or structure as long as the same general population is served;
 
 &emsp;(2) any renovation carried out with assistance under this part shall be sufficient to ensure that the building involved is safe and sanitary;
 
@@ -88,7 +88,7 @@ Pub. L. 101–625, §832(e)(2)(C), added par. (4) relating to matching funds obt
 
 Subsec. (c)(5). Pub. L. 101–625, §832(e)(2)(C), added par. (5).
 
-<b>1988</b>—Subsec. (c)(1). Pub. L. 100–628 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "it will maintain any building for which assistance isused under this part as a shelter for homeless individuals for not less than a 3-year period or for not less than a 10-year period if such assistance is used for the major rehabilitation or conversion of such building;".
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–628 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "it will maintain any building for which assistance is used under this part as a shelter for homeless individuals for not less than a 3-year period or for not less than a 10-year period if such assistance is used for the major rehabilitation or conversion of such building;".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

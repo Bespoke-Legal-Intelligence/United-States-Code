@@ -78,7 +78,7 @@ Pub. L. 94–188, title II, §201, Dec. 31, 1975, 89 Stat. 1087, provided that: 
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–567, §1, Dec. 31, 1974, 88 Stat. 1845, provided: "That this Act \[enacting sections 3246 to 3246g of this title and sections 961 to 966 of Title 29, Labor, amending section 1244 of Title 20, Education, and sections 841, 842, 844, 845, 849 to 851, 981, and 983 of Title 29, and enacting provisions set out as notes under sections 3304 of Title 26, Internal Revenue Code, and 4102 of Title 38, Veterans' Benefits\] may be cited as the 'Emergency Jobs and Unemployment Assistance Act of 1974'."
+Pub. L. 93–567, §1, Dec. 31, 1974, 88 Stat. 1845, provided: "That this Act \[enacting sections 3246 to 3246g of this title and sections 961 to 966 of Title 29, Labor, amending section 1244 of Title 20, Education, and sections 841, 842,844, 845, 849 to 851, 981, and 983 of Title 29, and enacting provisions set out as notes under sections 3304 of Title 26, Internal Revenue Code, and 4102 of Title 38, Veterans' Benefits\] may be cited as the 'Emergency Jobs and Unemployment Assistance Act of 1974'."
 
 #### Short Title of 1971 Amendment
 
@@ -178,7 +178,7 @@ In general.—The President pro temporare \[sic\] of the Senate and the Speaker 
 
 &emsp;&emsp;"(B)
 
-Appointment.—The Secretary shall appoint the Federal Cochairperson from among the list of nominations submitted under subparagraph (A). The Federal Cochairperson shall serve as an employee of the Department of Commerce, and may be removed by the Secretary for cause.
+Appointment.—The Secretary shall appoint the Federal Cochairperson from among the list ofnominations submitted under subparagraph (A). The Federal Cochairperson shall serve as an employee of the Department of Commerce, and may be removed by the Secretary for cause.
 
 &emsp;&emsp;"(C)
 
@@ -634,7 +634,7 @@ Ex. Ord. No. 11422, Aug. 15, 1968, 33 F.R. 11739, as amended by Ex. Ord. No. 121
 
 #### Executive Order No. 11493
 
-Ex. Ord. No. 11493, Nov. 13, 1969, 34 F.R. 18289, which created Council for Rural Affairs to advise Presidentwith respect to further development of non-metropolitan areas of country, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237. Council terminated and its functions transferred to Domestic Council by section 2(b) of Ex. Ord. No. 11541, July 1, 1970, 35 F.R. 10737, set out as a note under section 501 of Title 31, Money and Finance.
+Ex. Ord. No. 11493, Nov. 13, 1969, 34 F.R. 18289, which created Council for Rural Affairs to advise President with respect to further development of non-metropolitan areas of country, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237. Council terminated and its functions transferred to Domestic Council by section 2(b) of Ex. Ord. No. 11541, July 1, 1970, 35 F.R. 10737, set out as a note under section 501 of Title 31, Money and Finance.
 
 #### Ex. Ord. No. 13122. Interagency Task Force on the Economic Development of the Southwest Border
 

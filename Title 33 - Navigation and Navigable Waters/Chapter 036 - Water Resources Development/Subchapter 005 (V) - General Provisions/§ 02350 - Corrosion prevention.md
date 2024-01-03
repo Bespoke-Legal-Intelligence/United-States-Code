@@ -50,7 +50,7 @@ In the first annual report submitted to Congress after December 16, 2016, in acc
 
 #### Codification
 
-Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part ofthe Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
 

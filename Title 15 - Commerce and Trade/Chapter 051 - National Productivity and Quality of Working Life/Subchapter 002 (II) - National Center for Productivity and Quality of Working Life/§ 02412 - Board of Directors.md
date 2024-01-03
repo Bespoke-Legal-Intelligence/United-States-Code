@@ -26,7 +26,7 @@ The Center shall have a Board of Directors, to be comprised of not more than twe
 
 &emsp;(11) not less than one member who shall be appointed by the President, by and with the advice and consent of the Senate, from among qualified individuals associated with leading institutions of higher education; and
 
-&emsp;(12) such other qualified members from the public or private sectors whom the Presidentmay deem appropriate who shall be appointed by the President, by and with the advice and consent of the Senate.
+&emsp;(12) such other qualified members from the public or private sectors whom the President may deem appropriate who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 > When unable to attend a meeting of the Board, a member appointed under clauses (2), (3), (4), and (5) shall appoint an appropriate alternate from such member's Department or agency to represent such member at that meeting.
 
@@ -50,7 +50,7 @@ Any member appointed to fill a vacancy occurring before the expiration of the te
 
 #### (e) Executive Committee of the Board
 
-(1) The Chairman shall appoint an Executive Committee of the Board, not to exceed seven members, including the Executive Director of the Center.
+(1) The Chairman shall appoint an Executive Committee of the Board, not to exceed sevenmembers, including the Executive Director of the Center.
 
 (2) The Executive Committee of the Board shall meet at the call of the Chairman, but in no case less frequently than once every ninety days.
 

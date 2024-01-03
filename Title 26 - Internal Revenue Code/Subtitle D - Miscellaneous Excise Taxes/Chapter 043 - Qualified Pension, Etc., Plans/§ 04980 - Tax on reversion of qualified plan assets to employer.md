@@ -78,7 +78,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) is transferred after March 31, 1985, and before January 1, 1989, or
 
-&emsp;&emsp;&emsp;(ii) is transferred after December 31, 1988, pursuant to a termination which occurs after March 31, 1985, and before January 1, 1989.
+&emsp;&emsp;&emsp;(ii) is transferred after December 31, 1988, pursuant to a termination which occursafter March 31, 1985, and before January 1, 1989.
 
 #### (F) No credit or deduction allowed
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such amount shall be allocated to the accounts of participants as of such date, except that any amount which may not be allocated by reason of any limitation under section 415 shall be allocated to the accounts of other participants, and
 
-&emsp;&emsp;&emsp;&emsp;(II) if any portion of such amount may not be allocated to other participants under subclause (I) by reason of such limitation, such portion shall be treated as an employer reversion to which this section applies.
+&emsp;&emsp;&emsp;&emsp;(II) if any portion of such amount may not be allocated to other participants under subclause (I) by reason of such limitation, such portion shall be treatedas an employer reversion to which this section applies.
 
 #### (3) Pro rata benefit increases
 
@@ -348,7 +348,7 @@ Exception where termination date occurred before january 1, 1986.—
 
 &emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), the amendments made by this section shall not apply to any reversion after December 31, 1985, which occurs pursuant to a plan termination where the termination date is before January 1, 1986.
+In general.—Except as provided in subparagraph (B), the amendments made by this section shallnot apply to any reversion after December 31, 1985, which occurs pursuant to a plan termination where the termination date is before January 1, 1986.
 
 &emsp;"(B)
 

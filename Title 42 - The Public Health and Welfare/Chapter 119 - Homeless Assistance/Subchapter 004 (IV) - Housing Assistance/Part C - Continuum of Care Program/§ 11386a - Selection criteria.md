@@ -90,7 +90,7 @@ The Secretary shall award funds to recipients through a national competition bet
 
 #### (ii) Combinations or consortia
 
-&emsp;&emsp;&emsp;For a collaborative applicant that represents a combination or consortium ofcities or counties, the estimated need amount shall be the sum of the estimated need amounts for the cities or counties represented by the collaborative applicant.
+&emsp;&emsp;&emsp;For a collaborative applicant that represents a combination or consortium of cities or counties, the estimated need amount shall be the sum of the estimated need amounts for the cities or counties represented by the collaborative applicant.
 
 #### (iii) Authority of Secretary
 

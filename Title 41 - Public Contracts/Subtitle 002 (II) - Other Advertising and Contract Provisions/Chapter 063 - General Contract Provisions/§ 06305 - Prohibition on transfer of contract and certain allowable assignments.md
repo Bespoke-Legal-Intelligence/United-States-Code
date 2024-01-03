@@ -52,7 +52,7 @@ Avoiding reduction or setoff with certain contracts.—
 
 &emsp;&emsp;(A)
 
-Contract provision.—A contract of the Department of Defense, the General Services Administration, the Department of Energy, or another department or agency of the Federal Government designated by thePresident may, on a determination of need by the President, provide or be amended without consideration to provide that payments made to an assignee under the contract are not subject to reduction or setoff. Each determination of need by the President under this subparagraph shall be published in the Federal Register.
+Contract provision.—A contract of the Department of Defense, the General Services Administration, the Department of Energy, or another department or agency of the Federal Government designated by the President may, on a determination of need by the President, provide or be amended without consideration to provide that payments made to an assignee under the contract are not subject to reduction or setoff. Each determination of need by the President under this subparagraph shall be published in the Federal Register.
 
 &emsp;&emsp;(B)
 

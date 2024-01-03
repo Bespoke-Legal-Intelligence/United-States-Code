@@ -2,7 +2,7 @@
 
 #### (a) Policies and regulations
 
-The Secretary of State shall develop and implement policies and regulations to provide for the use of persons who have been granted an appropriate United States security clearance to ensure that the security of areas intended for the storage of classified materials or the conduct of classified activities in a United States diplomatic mission or consular post abroad is not compromised in the performance of maintenance and repair services in those areas.
+The Secretary of State shall develop and implement policies and regulations to provide forthe use of persons who have been granted an appropriate United States security clearance to ensure that the security of areas intended for the storage of classified materials or the conduct of classified activities in a United States diplomatic mission or consular post abroad is not compromised in the performance of maintenance and repair services in those areas.
 
 #### (b) Study and report
 

@@ -16,7 +16,7 @@
 
 #### (4) Guarantee
 
-&emsp;Notwithstanding any other provision of law, the Secretary may guarantee not more than 80 percent of a loan made by a certified lender described in paragraph (1), if the borrower of the loan meets the eligibility requirements and such other criteria for the loan guarantee that are established by the Secretary.
+&emsp;Notwithstanding any other provision of law, the Secretary may guarantee not more than 80 percent of a loan made by a certified lender described in paragraph (1), if the borrower ofthe loan meets the eligibility requirements and such other criteria for the loan guarantee that are established by the Secretary.
 
 #### (5) Certifications
 

@@ -26,7 +26,7 @@ Amount of fee if tests predominantly serve interest of producer or vendor.—If 
 
 &emsp;(3)
 
-Amount of fee if tests do not predominantly serve interest of producer or vendor.—If the Administrator determines that conducting the tests does not predominantly serve the interest of the producer or vendor, the Administrator shall fix the fee in anamount the Administrator determines is reasonable for furnishing the testing service.
+Amount of fee if tests do not predominantly serve interest of producer or vendor.—If the Administrator determines that conducting the tests does not predominantly serve the interest of the producer or vendor, the Administrator shall fix the fee in an amount the Administrator determines is reasonable for furnishing the testing service.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1073.)
 

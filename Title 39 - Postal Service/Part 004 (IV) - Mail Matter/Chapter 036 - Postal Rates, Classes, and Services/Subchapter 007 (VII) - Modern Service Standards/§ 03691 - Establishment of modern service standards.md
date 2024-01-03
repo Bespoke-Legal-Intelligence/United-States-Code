@@ -136,7 +136,7 @@ In general.—Not later than 90 days after the end of each fiscal year, the Post
 
 Contents.—Each report under this paragraph shall include—
 
-&emsp;&emsp;&emsp;"(i) an account of actions taken during the preceding fiscal year to improve the efficiency and effectiveness of its processing, transportation, and distribution networks while preserving the timely delivery of postal services, including overall estimated costs and cost savings;
+&emsp;&emsp;&emsp;"(i) an account of actions taken during the preceding fiscal year to improve the efficiency andeffectiveness of its processing, transportation, and distribution networks while preserving the timely delivery of postal services, including overall estimated costs and cost savings;
 
 &emsp;&emsp;&emsp;"(ii) an account of actions taken to identify any excess capacity within its processing, transportation, and distribution networks and implement savings through realignment or consolidation of facilities including overall estimated costs and cost savings;
 
@@ -148,7 +148,7 @@ Contents.—Each report under this paragraph shall include—
 
 &emsp;"(5)
 
-Existing efforts.—Effective on the date of enactment of this Act \[Dec. 20, 2006\], the Postal Servicemay not close or consolidate any processing or logistics facilities without using procedures for public notice and input consistent with those described under paragraph (3)(D).
+Existing efforts.—Effective on the date of enactment of this Act \[Dec. 20, 2006\], the Postal Service may not close or consolidate any processing or logistics facilities without using procedures for public notice and input consistent with those described under paragraph (3)(D).
 
 "(d)
 

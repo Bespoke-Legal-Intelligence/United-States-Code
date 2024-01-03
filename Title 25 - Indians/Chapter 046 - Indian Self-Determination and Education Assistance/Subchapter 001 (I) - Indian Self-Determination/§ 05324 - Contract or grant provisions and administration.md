@@ -16,7 +16,7 @@
 
 (B) A list of the Federal requirements that meet the requirements of clauses (i) through (iii) of subparagraph (A) shall be included in an attachment to the contract pursuant to negotiations between the Secretary and the tribal organization.
 
-(C)(i) Except as provided in subparagraph (B), no Federal law listed in clause (ii) or any other provision of Federal law (including an Executive order) relating to acquisition by the Federal Government shall apply to a construction contract that a tribe or tribal organization enters into under this chapter, unless expressly provided in such law.
+(C)(i) Except as provided in subparagraph (B), no Federal law listed in clause (ii) or any other provision of Federal law (including an Executive order) relating to acquisition by the FederalGovernment shall apply to a construction contract that a tribe or tribal organization enters into under this chapter, unless expressly provided in such law.
 
 (ii) The laws listed in this paragraph are as follows:
 
@@ -94,7 +94,7 @@ In connection with any self-determination contract or grant made pursuant to sec
 
 #### (g) Performance of personal services
 
-The contracts authorized under section 5321 of this title and grants pursuant to section 5322 of this title may include provisions for the performance of personal services which would otherwise be performed by Federal employees including, but in no way limited to, functions such as determination of eligibility of applicants for assistance, benefits, or services, and the extent or amount of such assistance, benefits, or services to be provided and the provisions of such assistance, benefits, or services, all in accordance with the terms of the contract or grant and applicable rules and regulations of the appropriate Secretary: <i>Provided</i>, That the Secretary shallnot make any contract which would impair his ability to discharge his trust responsibilities to any Indian tribe or individuals.
+The contracts authorized under section 5321 of this title and grants pursuant to section 5322 of this title may include provisions for the performance of personal services which would otherwise be performed by Federal employees including, but in no way limited to, functions such as determination of eligibility of applicants for assistance, benefits, or services, and the extent or amount of such assistance, benefits, or services to be provided and the provisions of such assistance, benefits, or services, all in accordance with the terms of the contract or grant and applicable rules and regulations of the appropriate Secretary: <i>Provided</i>, That the Secretary shall not make any contract which would impair his ability to discharge his trust responsibilities to any Indian tribe or individuals.
 
 #### (h) Fair and uniform provision by tribal organization of services and assistance to covered Indians
 
@@ -134,7 +134,7 @@ For purposes of section 501 of title 40 (relating to Federal sources of supply, 
 
 &emsp;(A) The provision of technical assistance pursuant to section 5322 of this title and paragraph (2).
 
-&emsp;(B) A joint scoping session between the Secretary and the tribe or tribal organization to review all plans, specifications, engineeringreports, cost estimates, and other information available to the parties, for the purpose of identifying all areas of agreement and disagreement.
+&emsp;(B) A joint scoping session between the Secretary and the tribe or tribal organization to review all plans, specifications, engineering reports, cost estimates, and other information available to the parties, for the purpose of identifying all areas of agreement and disagreement.
 
 &emsp;(C) An opportunity for the Secretary to revise the plans, designs, or cost estimates of the Secretary in response to concerns raised, or information provided by, the tribe or tribal organization.
 
@@ -186,7 +186,7 @@ Notwithstanding any other provision of law, the rental rates for housing provide
 
 #### (p) Interpretation by Secretary
 
-Except as otherwise provided by law, the Secretary shall interpret all Federal laws (including regulations) and Executive orders in a manner that facilitates, to the maximum extent practicable—
+Except as otherwise provided by law, the Secretary shall interpret all Federal laws (includingregulations) and Executive orders in a manner that facilitates, to the maximum extent practicable—
 
 &emsp;(1) the inclusion in self-determination contracts and funding agreements of—
 
@@ -236,7 +236,7 @@ Section was formerly classified to section 450j of this title prior to editorial
 
 In subsec. (a)(3)(A), "division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41" substituted for "the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)" and for "such Act" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(3)(C)(ii)(I), "Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(3)(C)(ii)(I), "Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (a)(3)(C)(ii)(II), "Section 6101 of title 41" substituted for "Section 3709 of the Revised Statutes" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
@@ -246,7 +246,7 @@ In subsec. (a)(3)(C)(ii)(VII), "Section 3145 of title 40" substituted for "Secti
 
 In subsec. (a)(3)(C)(ii)(VIII), "Chapter 65 of title 41" substituted for "Sections 1 through 12 of the Act of June 30, 1936 (49 Stat. 2036 et seq. chapter 881)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(3)(C)(ii)(IX), "Chapter 67 of title 41" substituted for "The Service Control \[Contract\] Act of 1965 (41 U.S.C. 351 et seq.)" on authority of Pub. L.111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(3)(C)(ii)(IX), "Chapter 67 of title 41" substituted for "The Service Control \[Contract\] Act of 1965 (41 U.S.C. 351 et seq.)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (k), "section 501 of title 40" substituted for "section 201(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(a))" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
 

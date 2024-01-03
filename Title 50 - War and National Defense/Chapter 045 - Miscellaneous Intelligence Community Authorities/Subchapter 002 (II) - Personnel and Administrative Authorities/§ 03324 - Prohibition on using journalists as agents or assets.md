@@ -4,7 +4,7 @@
 
 It is the policy of the United States that an element of the Intelligence Community may not use as an agent or asset for the purposes of collecting intelligence any individual who—
 
-&emsp;(1) is authorized by contract or by the issuance of press credentials to represent himself or herself, either in the United States orabroad, as a correspondent of a United States news media organization; or
+&emsp;(1) is authorized by contract or by the issuance of press credentials to represent himself or herself, either in the United States or abroad, as a correspondent of a United States news media organization; or
 
 &emsp;(2) is officially recognized by a foreign government as a representative of a United States media organization.
 

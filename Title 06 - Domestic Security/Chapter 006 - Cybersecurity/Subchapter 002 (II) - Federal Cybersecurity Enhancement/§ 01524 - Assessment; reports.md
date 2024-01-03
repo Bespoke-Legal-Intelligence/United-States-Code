@@ -42,11 +42,11 @@ Not later than 3 years after December 18, 2015, the Comptroller General of the U
 
 &emsp;&emsp;&emsp;(iii) a description of the technologies and capabilities utilized to prevent network traffic associated with cybersecurity risks from transiting or traveling to or from agency information systems, including the extent to which those technologies and capabilities include existing commercial and noncommercial technologies;
 
-&emsp;&emsp;&emsp;(iv) a list of the types of indicators or other identifiers or techniques used to detect cybersecurity risks in network traffic transiting or traveling to or from agency information systems on each iteration of the intrusion detection and prevention capabilities and the number of each such type of indicator, identifier, and technique;
+&emsp;&emsp;&emsp;(iv) a list of the types of indicators or other identifiers or techniques used to detect cybersecurity risks in network traffic transiting or traveling to or from agency information systems on each iteration of the intrusion detection and prevention capabilities and the number of each suchtype of indicator, identifier, and technique;
 
 &emsp;&emsp;&emsp;(v) the number of instances in which the intrusion detection and prevention capabilities detected a cybersecurity risk in network traffic transiting or traveling to or from agency information systems and the number of times the intrusion detection and prevention capabilities blocked network traffic associated with cybersecurity risk; and
 
-&emsp;&emsp;&emsp;(vi) a description of the pilot established under section 2213(c)(5) of the HomelandSecurity Act of 2002 \[6 U.S.C. 663(c)(5)\], including the number of new technologies tested and the number of participating agencies.
+&emsp;&emsp;&emsp;(vi) a description of the pilot established under section 2213(c)(5) of the Homeland Security Act of 2002 \[6 U.S.C. 663(c)(5)\], including the number of new technologies tested and the number of participating agencies.
 
 #### (B) OMB report
 
@@ -114,7 +114,7 @@ Subtitle D of title II of the Homeland Security Act of 2002, referred to in subs
 
 Subsec. (a)(4). Pub. L. 115–278, §2(h)(1)(F)(i)(II), substituted "section 2210(b)(1)" for "section 228(b)(1)" and struck out before period at end ", as added by section 223(a)(4) of this division".
 
-Subsec. (a)(5). Pub. L. 115–278, §2(h)(1)(F)(i)(III), substituted "section 2213(b)" for "section 230(b)" andstruck out before period at end ", as added by section 223(a)(6) of this division".
+Subsec. (a)(5). Pub. L. 115–278, §2(h)(1)(F)(i)(III), substituted "section 2213(b)" for "section 230(b)" and struck out before period at end ", as added by section 223(a)(6) of this division".
 
 Subsec. (c)(1)(A)(vi). Pub. L. 115–278, §2(h)(1)(F)(ii), substituted "section 2213(c)(5)" for "section 230(c)(5)" and struck out ", as added by section 223(a)(6) of this division" after "Homeland Security Act of 2002".
 

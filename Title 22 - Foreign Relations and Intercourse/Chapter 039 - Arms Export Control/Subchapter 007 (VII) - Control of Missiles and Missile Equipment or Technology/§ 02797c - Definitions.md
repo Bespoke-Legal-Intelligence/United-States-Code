@@ -8,7 +8,7 @@ For purposes of this subchapter—
 
 &emsp;(2) the term "Missile Technology Control Regime" or "MTCR" means the policy statement, between the United States, the United Kingdom, the Federal Republic of Germany, France, Italy, Canada, and Japan, announced on April 16, 1987, to restrict sensitive missile-relevant transfers based on the MTCR Annex, and any amendments thereto;
 
-&emsp;(3) the term "MTCR adherent" means a country that participates in the MTCR orthat, pursuant to an international understanding to which the United States is a party, controls MTCR equipment or technology in accordance with the criteria and standards set forth in the MTCR;
+&emsp;(3) the term "MTCR adherent" means a country that participates in the MTCR or that, pursuant to an international understanding to which the United States is a party, controls MTCR equipment or technology in accordance with the criteria and standards set forth in the MTCR;
 
 &emsp;(4) the term "MTCR Annex" means the Guidelines and Equipment and Technology Annex of the MTCR, and any amendments thereto;
 
@@ -44,7 +44,7 @@ For purposes of subsection (a)(3), as it relates to any international understand
 
 Section 4618(2) of title 50, referred to in subsec. (a)(6), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22,1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 

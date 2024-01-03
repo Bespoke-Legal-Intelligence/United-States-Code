@@ -32,5 +32,5 @@ Provisions similar to this section were contained in section 1805(b)(7) of this 
 
 #### Amendments
 
-<b>1958</b>—Pub. L. 85–681, which directed the general amendment of this section and set out a new section catchline and text of subsec. (b), was executed by substituting "Public and acquired lands" for "Public lands" in section catchline and amending only subsec. (b) generally. Prior to amendment, subsec. (b) related to reissuance of patent, conveyance, lease, permit, or other authorization without reservation to the United States of source materials and certain rights, subject to conditions.
+<b>1958</b>—Pub. L. 85–681, which directed the general amendment of this section and set out a new sectioncatchline and text of subsec. (b), was executed by substituting "Public and acquired lands" for "Public lands" in section catchline and amending only subsec. (b) generally. Prior to amendment, subsec. (b) related to reissuance of patent, conveyance, lease, permit, or other authorization without reservation to the United States of source materials and certain rights, subject to conditions.
 

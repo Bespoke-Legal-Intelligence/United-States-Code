@@ -22,7 +22,7 @@ Not less than thirty days before any person exports to a foreign country any mis
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(b)(4)(D), (F), substituted "upon its request" for "upon his request" and substituted "Commission" for "Secretary of Health, Education, and Welfare" in two places.
+<b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(b)(4)(D), (F), substituted "upon its request" for "upon his request"and substituted "Commission" for "Secretary of Health, Education, and Welfare" in two places.
 
 Subsec. (b). Pub. L. 110–314, §204(b)(4)(F), (G), substituted "appears to the Commission" for "appears to the Secretary of Health, Education, and Welfare" and "Commission designated by" for "Department of Health, Education, and Welfare designated by".
 

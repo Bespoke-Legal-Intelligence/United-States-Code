@@ -8,7 +8,7 @@ It is the sense of Congress that—
 
 &emsp;(2) Taiwan is a global leader and hub for international aviation, with a range of expertise, information, and resources and the fifth busiest airport in Asia (Taoyuan International Airport), and its meaningful participation in ICAO would significantly enhance the ability of ICAO to ensure the safety and security of global aviation; and
 
-&emsp;(3) coercion by the Chinese Communist Party and the People's Republic of China hasensured the systematic exclusion of Taiwan from meaningful participation in ICAO, significantly undermining the ability of ICAO to ensure the safety and security of global aviation.
+&emsp;(3) coercion by the Chinese Communist Party and the People's Republic of China has ensured the systematic exclusion of Taiwan from meaningful participation in ICAO, significantly undermining the ability of ICAO to ensure the safety and security of global aviation.
 
 #### (b) Plan for Taiwan's meaningful participation in the International Civil Aviation Organization
 

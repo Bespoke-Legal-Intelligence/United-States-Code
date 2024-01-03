@@ -18,7 +18,7 @@
 
 (3) Payment may not be made to a member for any leave he elects to have carried over to a new enlistment in any uniformed service on the day after the date of his discharge; but payment may be made to a member for any leave he elects not to carry over to a new enlistment. However, the number of days of leave for which payment is made may not exceed sixty, less the number of days for which payment was previously made under this section after February 9, 1976.
 
-(4) A member to whom a payment may not be made under this subsection, or a member who reverts from officer to enlisted status, carries the accrued leave standing to his credit from the one status to the other within any uniformed service.
+(4) A member to whom a payment may not be made under this subsection, or a member who reverts from officer to enlisted status, carries the accrued leave standing to his credit from theone status to the other within any uniformed service.
 
 (5) The limitation in the second sentence of paragraph (3) and in subsection (f) shall not apply with respect to leave accrued—
 
@@ -26,7 +26,7 @@
 
 &emsp;(B) by a member of the armed forces in the Retired Reserve while serving on active duty in support of a contingency operation;
 
-&emsp;(C) by a retired member of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Space Force or a member of the Fleet Reserve or Fleet Marine Corps Reserve while the member is serving onactive duty in support of a contingency operation; or
+&emsp;(C) by a retired member of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Space Force or a member of the Fleet Reserve or Fleet Marine Corps Reserve while the member is serving on active duty in support of a contingency operation; or
 
 &emsp;(D) by a member of a reserve component while serving on active duty, full-time National Guard duty, or active duty for training for a period of more than 30 days but not in excess of 365 days.
 
@@ -186,9 +186,9 @@ Subsec. (f). Pub. L. 96–513, §516(14)(A), (C), substituted "September 1, 1976
 
 Subsec. (g). Pub. L. 96–513, §516(14)(C), substituted "Secretary of Health and Human Services" for "Surgeon General".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–361, §304(a), (b), struck out cl. (1) designation for existing provisions, made definition applicable to the section rather than to subsecs. (b) to (f) of this section, and redesignated as cls. (1), (2), and (3) former subcls. (A), (B), and (C); and struck out former cls. (2), (3), and (4) defining "child", "parent", and "brother or sister", respectively.
+<b>1976</b>—Subsec. (a). Pub. L. 94–361, §304(a), (b), struck out cl. (1) designation for existing provisions, made definition applicable to the section rather than to subsecs.\(b) to (f) of this section, and redesignated as cls. (1), (2), and (3) former subcls. (A), (B), and (C); and struck out former cls. (2), (3), and (4) defining "child", "parent", and "brother or sister", respectively.
 
-Subsec. (b). Pub. L. 94–361, §304(c), in revising text, incorporated in provisions designated par. (1) provisions of former first and second sentences for payments for unused accrued leave of officers and enlisted members, striking out consideration of allowances to officers and of allowances to enlisted members computed at rate of 70 cents a day for subsistence and of allowance to enlisted members in pay grades E–⁠9 throughE–5 with dependents at rate of $1.25 for quarters, and substituting "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration"; incorporated in par. (2) provisions of item (1) of former third sentence, substituting "in any uniformed service" for "in his armed force"; incorporated in par. (3) provisions of item (2) of former third sentence, substituting "in any uniformed service" for "in his armed force" and inserting provisions for payment for leave not carried over to a new enlistment and prescribing number of days of leave for which payment may be made; and designated last (the fourth) sentence as par. (4), substituting "within any uniformed service" for "within his armed force".
+Subsec. (b). Pub. L. 94–361, §304(c), in revising text, incorporated in provisions designated par. (1) provisions of former first and second sentences for payments for unused accrued leave of officers and enlisted members, striking out consideration of allowances to officers and of allowances to enlisted members computed at rate of 70 cents a day for subsistence and of allowance to enlisted members in pay grades E–⁠9 through E–5 with dependents at rate of $1.25 for quarters, and substituting "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration"; incorporated in par. (2) provisions of item (1) of former third sentence, substituting "in any uniformed service" for "in his armed force"; incorporated in par. (3) provisions of item (2) of former third sentence, substituting "in any uniformed service" for "in his armed force" and inserting provisions for payment for leave not carried over to a new enlistment and prescribing number of days of leave for which payment may be made; and designated last (the fourth) sentence as par. (4), substituting "within any uniformed service" for "within his armed force".
 
 Subsec. (d). Pub. L. 94–361, §304(d), substituted provision making the number of days upon which payment is based subject to subsec. (f) for provision limiting to not more than 60 the number of days upon which the payment is based.
 
@@ -260,7 +260,7 @@ Inapplicability of Eligibility Limitation.—The limitation in the second senten
 
 &emsp;"(3) Leave accrued by a retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps, a member of the Retired Reserve, or a member of the Fleet Reserve or Fleet Marine Corps Reserve while such retired member or member, as the case may be, is serving on active duty in connection with the Persian Gulf conflict pursuant to an order to active duty authorized by section 688 of title 10, United States Code.
 
-&emsp;"(4) Leave accrued by a member referred to in paragraph (1), (2), or (3) while serving on active duty\(other than for training) in connection with the Persian Gulf conflict pursuant to an order to such active duty issued with the consent of the member during a period in which members of the Armed Forces are being ordered to active duty in connection with such operation pursuant to a provision of title 10, United States Code, referred to in such paragraph.
+&emsp;"(4) Leave accrued by a member referred to in paragraph (1), (2), or (3) while serving on active duty (other than for training) in connection with the Persian Gulf conflict pursuant to an order to such active duty issued with the consent of the member during a period in which members of the Armed Forces are being ordered to active duty in connection with such operation pursuant to a provision of title 10, United States Code, referred to in such paragraph.
 
 "(b)
 

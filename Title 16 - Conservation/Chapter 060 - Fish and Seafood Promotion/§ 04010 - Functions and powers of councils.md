@@ -8,7 +8,7 @@
 
 &emsp;(B) implement all terms of its charter;
 
-&emsp;(C) prepare and submit to the Secretary, for review and approval under section 4011(a)(1) of this title, a marketing and promotion plan and amendments to such plan which containdescriptions of the projected consumer education, research, and other marketing and promotion activities of the council;
+&emsp;(C) prepare and submit to the Secretary, for review and approval under section 4011(a)(1) of this title, a marketing and promotion plan and amendments to such plan which contain descriptions of the projected consumer education, research, and other marketing and promotion activities of the council;
 
 &emsp;(D) implement and administer an approved marketing and promotion plan and amendments to such plan;
 
@@ -66,7 +66,7 @@ A council may—
 
 (2) A quality standard developed under paragraph (1) of this subsection may be adopted by a council by a majority of the members of the council if first approved, in a referendum conducted by the council, by a majority of the sector participants of the sector concerned voting and the majority collectively accounted for, in the twelve-month period immediately preceding the month in which the referendum is held, not less than sixty-six percent of the value of the fish or fish products described in accordance with section 4009(b)(3) of this title that were handled by that sector during such period.
 
-(3) With respect to a quality standard adopted under paragraph (2) of this subsection, the council shall develop and file with the Secretary an official identification in the form of a symbol, stamp, label, or seal that will be used to indicate that a fish or fish product meets the quality standard at the time the official identification is affixed to the fish or fish product, or isaffixed to or printed on the packaging material of the fish or fish product.
+(3) With respect to a quality standard adopted under paragraph (2) of this subsection, the council shall develop and file with the Secretary an official identification in the form of a symbol, stamp, label, or seal that will be used to indicate that a fish or fish product meets the quality standard at the time the official identification is affixed to the fish or fish product, or is affixed to or printed on the packaging material of the fish or fish product.
 
 (4) The Secretary shall establish by regulation procedures for the use of an official identification filed with the Secretary under paragraph (3) of this subsection. Misuse of an official identification established under this section shall constitute a violation of this chapter.
 

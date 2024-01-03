@@ -94,7 +94,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (B) No judicial review
 
-&emsp;&emsp;An order of the Secretary with respect to which review could have been obtained under subparagraph (A) shall not be subject to judicial review in any criminal or other civil proceeding.
+&emsp;&emsp;An order of the Secretary with respect to which review could have been obtainedunder subparagraph (A) shall not be subject to judicial review in any criminal or other civil proceeding.
 
 #### (6) Failure to comply with order
 
@@ -118,7 +118,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (2) Rights of employees
 
-&emsp;Nothing in this section shall be construed to diminish the rights, privileges, or remedies of any employee under any Federal or State law or under any collective bargaining agreement.The rights and remedies in this section may not be waived by any agreement, policy, form, or condition of employment.
+&emsp;Nothing in this section shall be construed to diminish the rights, privileges, or remedies of any employee under any Federal or State law or under any collective bargaining agreement. The rights and remedies in this section may not be waived by any agreement, policy, form, or condition of employment.
 
 #### (d) Enforcement
 

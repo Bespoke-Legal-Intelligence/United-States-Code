@@ -28,7 +28,7 @@ A prior section 430 of act Aug. 14, 1935, was classified to section 630 of this 
 
 <b>2006</b>—Pub. L. 109–288 substituted "Purpose" for "Findings and purpose" in section catchline, struck out subsec. (a) relating to findings, and struck out subsec. (b) designation and heading before "The purpose".
 
-<b>2002</b>—Pub. L. 107–133 amended section generally, substituting subsecs. (a) and (b) relating to findings andpurpose for former subsecs. (a) to (d) relating to purposes, limitations on authorizations of appropriations, description of amounts, inflation percentage, and reservation of certain amounts.
+<b>2002</b>—Pub. L. 107–133 amended section generally, substituting subsecs. (a) and (b) relating to findings and purpose for former subsecs. (a) to (d) relating to purposes, limitations on authorizations of appropriations, description of amounts, inflation percentage, and reservation of certain amounts.
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–89, §305(b)(3)(A), substituted ", community-based family support services, time-limited family reunification services, and adoption promotion and support services" for "and community-based family support services".
 
@@ -56,7 +56,7 @@ In General.—Subject to subsection (b), the amendments made by this Act \[enact
 
 "(b)
 
-Delay Permitted if State Legislation Required.—In the case of a State plan under subpart 2 of part B or part E of the Social Security Act \[probably means subpart 2 of part B or part E of title IV of the Social Security Act (42 U.S.C. 629 et seq., 670 et seq.)\] that the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments specified in subsection (a) of this section, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet the additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Jan. 17, 2001\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be deemed to be a separate regular session of the State legislature."
+Delay Permitted if State Legislation Required.—In the case of a State plan under subpart 2 of part B or part E of the Social Security Act \[probablymeans subpart 2 of part B or part E of title IV of the Social Security Act (42 U.S.C. 629 et seq., 670 et seq.)\] that the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments specified in subsection (a) of this section, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet the additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Jan. 17, 2001\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be deemed to be a separate regular session of the State legislature."
 
 #### Effective Date of 1997 Amendment
 

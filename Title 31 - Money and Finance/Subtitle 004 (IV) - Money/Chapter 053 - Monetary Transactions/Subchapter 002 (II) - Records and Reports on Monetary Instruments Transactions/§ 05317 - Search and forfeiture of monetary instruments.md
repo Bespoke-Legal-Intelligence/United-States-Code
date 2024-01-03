@@ -76,7 +76,7 @@ Oct. 26, 1970, Pub. L. 91–508, §§232, 235, 84 Stat. 1123.
 
 In subsection (a), the words "The Secretary shall include a statement of information in support of the warrant" are substituted for 31:1105(a)(last sentence) to eliminate unnecessary words and for consistency. The word "for" is substituted for "authorizing the search of . . . all of the following" to eliminate unnecessary words. The words "or more" are omitted as unnecessary because the singular includes the plural under 1:1. The words "or premises", "letters, parcels, packages, or other", and "vehicles" are omitted as surplus.
 
-In subsection (b), the words "either" and "the possession of" are omitted as surplus. The words "United States Postal Service" are substituted for "postal service" for consistency with title 39. The words "or retained in" are omitted as surplus.
+In subsection (b), the words "either" and "the possession of" are omitted as surplus. The words "UnitedStates Postal Service" are substituted for "postal service" for consistency with title 39. The words "or retained in" are omitted as surplus.
 
 #### <b>Editorial Notes</b>
 

@@ -176,3 +176,9 @@ The Mineral Leasing Act, referred to in subsec. (b)(3)(B)(i)(II), is act Feb. 25
 
 The date of enactment of this section, referred to in subsec. (g), is the date of enactment of Pub. L. 116–152, which was approved Aug. 4, 2020.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Allocation of Funds
+
+For certain requirements regarding allocation of funds pursuant to subsec. (c) of this section and as provided in subsec. (e) of this section, see section 431(a)–(c) of div. G of Pub. L. 117–328, set out as a note under section 200303 of this title.
+

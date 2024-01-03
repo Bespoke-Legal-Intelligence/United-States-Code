@@ -24,7 +24,7 @@ The national flood insurance program established pursuant to subsection (a) shal
 
 &emsp;&emsp;(D) any programs authorized or for which funds are appropriated to address any unmet needs or for which supplemental funds are made available.
 
-> The Administrator shall impose a surcharge on each insured of not more than $75 per policy toprovide cost of compliance coverage in accordance with the provisions of this subsection.
+> The Administrator shall impose a surcharge on each insured of not more than $75 per policy to provide cost of compliance coverage in accordance with the provisions of this subsection.
 
 #### (c) Participation and risk sharing by insurers
 
@@ -172,7 +172,7 @@ Pub. L. 108–264, §2, June 30, 2004, 118 Stat. 712, provided that: "The Congre
 
 &emsp;"(11) the method for addressing repetitive-loss properties should be flexible enough to take into consideration legitimate circumstances that may prevent an owner from taking a mitigation action; and
 
-&emsp;"(12) focusing the mitigation and buy-out of repetitive loss properties upon communities and property owners that choose to voluntarily participate in a mitigation and buy-out program will maximize the benefits of such a program, while minimizing any adverse impact on communities and property owners."
+&emsp;"(12) focusing the mitigation and buy-out of repetitive loss properties upon communities and propertyowners that choose to voluntarily participate in a mitigation and buy-out program will maximize the benefits of such a program, while minimizing any adverse impact on communities and property owners."
 
 #### Miscellaneous Flood Insurance Provisions
 
@@ -300,7 +300,7 @@ Report.—Not later than 1 year after the date of enactment of this Act \[June 3
 
 #### "SEC. 210. REPORT ON CHANGES TO FEE SCHEDULE OR FEE PAYMENT ARRANGEMENTS.
 
-"Not later than 3 months after the date of enactment of this Act \[June 30, 2004\], the Director shall submit a report on any changes or modifications made to the fee schedule or fee payment arrangements between the Federal Emergency Management Agency and insurance adjusters who provide services with respect to flood insurance policies to—
+"Not later than 3 months after the date of enactment of this Act \[June 30, 2004\], the Director shall submit areport on any changes or modifications made to the fee schedule or fee payment arrangements between the Federal Emergency Management Agency and insurance adjusters who provide services with respect to flood insurance policies to—
 
 &emsp;"(1) the Committee on Banking, Housing, and Urban Affairs of the Senate; and
 
@@ -352,7 +352,7 @@ Duties.—The Task Force shall carry out the following duties:
 
 &emsp;"(1)
 
-Recommendations of standardized enforcement procedures.—Make recommendations to the head of each Federal agency and enterprise referred to under subsection (b)(1) regarding establishment or adoption of standardized enforcement procedures among such agencies and corporations responsible for enforcing compliance with the requirements underthe national flood insurance program to ensure fullest possible compliance with such requirements.
+Recommendations of standardized enforcement procedures.—Make recommendations to the head of each Federal agency and enterprise referred to under subsection (b)(1) regarding establishment or adoption of standardized enforcement procedures among such agencies and corporations responsible for enforcing compliance with the requirements under the national flood insurance program to ensure fullest possible compliance with such requirements.
 
 &emsp;"(2)
 

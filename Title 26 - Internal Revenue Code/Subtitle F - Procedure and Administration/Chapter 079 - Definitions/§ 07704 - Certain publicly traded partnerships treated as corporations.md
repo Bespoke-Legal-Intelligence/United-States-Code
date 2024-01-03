@@ -16,7 +16,7 @@ For purposes of this section, the term "publicly traded partnership" means any p
 
 #### (1) In general
 
-&emsp;Subsection (a) shall not apply to any publicly traded partnership for any taxable year ifsuch partnership met the gross income requirements of paragraph (2) for such taxable year and each preceding taxable year beginning after December 31, 1987, during which the partnership (or any predecessor) was in existence. For purposes of the preceding sentence, a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership.
+&emsp;Subsection (a) shall not apply to any publicly traded partnership for any taxable year if such partnership met the gross income requirements of paragraph (2) for such taxable year and each preceding taxable year beginning after December 31, 1987, during which the partnership (or any predecessor) was in existence. For purposes of the preceding sentence, a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership.
 
 #### (2) Gross income requirements
 
@@ -118,7 +118,7 @@ As of the 1st day that a partnership is treated as a corporation under this sect
 
 #### (A) Imposition of tax
 
-&emsp;&emsp;There is hereby imposed for each taxable year on the income of each electing 1987 partnership a tax equal to 3.5 percent of such partnership's gross income for the taxable year from the active conduct of trades and businesses by the partnership.
+&emsp;&emsp;There is hereby imposed for each taxable year on the income of each electing 1987partnership a tax equal to 3.5 percent of such partnership's gross income for the taxable year from the active conduct of trades and businesses by the partnership.
 
 #### (B) Adjustments in the case of tiered partnerships
 
@@ -166,7 +166,7 @@ Subsec. (e)(4). Pub. L. 100–647, §2004(f)(1), inserted "or to pay such amount
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. B, title I, §116(b), Oct. 3, 2008, 122 Stat. 3831, provided that: "The amendment made by this section \[amending this section\] shall take effect onthe date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date."
+Pub. L. 110–343, div. B, title I, §116(b), Oct. 3, 2008, 122 Stat. 3831, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date."
 
 Pub. L. 110–343, div. B, title II, §208(b), Oct. 3, 2008, 122 Stat. 3840, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date."
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Grants may be made under this chapter for the preservation, stabilization,restoration, or rehabilitation of religious property listed on the National Register if the purpose of the grant—
+In General.—Grants may be made under this chapter for the preservation, stabilization, restoration, or rehabilitation of religious property listed on the National Register if the purpose of the grant—
 
 &emsp;(1) is secular;
 

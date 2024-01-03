@@ -24,7 +24,7 @@ Duties of oda holders.—An ODA holder shall—
 
 &emsp;(3)
 
-Existing oda holders.—With regard to an ODA holder operating under a procedures manual approved by the Administrator before the date of enactment of the FAA Reauthorization Act of 2018, the Administrator shall conduct regular oversight activities by inspecting the ODA holder's delegated functions and taking action based on validated inspection findings.
+Existing oda holders.—With regard to an ODA holder operating under a proceduresmanual approved by the Administrator before the date of enactment of the FAA Reauthorization Act of 2018, the Administrator shall conduct regular oversight activities by inspecting the ODA holder's delegated functions and taking action based on validated inspection findings.
 
 (b)
 
@@ -150,7 +150,7 @@ The date of enactment of the FAA Reauthorization Act of 2018 and the date of ena
 
 "(D) for each function that is limited under subparagraph (B), work with the ODA holder to develop the ODA holder's capability to execute that function safely and effectively and return to full authority status."
 
-Subsec. (a)(3). Pub. L. 116–260, §107(c)(1)(B), substituted "shall conduct regular oversight activities by inspecting the ODA holder's delegated functions andtaking action based on validated inspection findings." for "shall—" and subpars. (A) to (D) which read as follows:
+Subsec. (a)(3). Pub. L. 116–260, §107(c)(1)(B), substituted "shall conduct regular oversight activities by inspecting the ODA holder's delegated functions and taking action based on validated inspection findings." for "shall—" and subpars. (A) to (D) which read as follows:
 
 "(A) at the request of the ODA holder and in an expeditious manner, approve revisions to the ODA holder's procedures manual;
 
@@ -230,7 +230,7 @@ Composition of review panel.—The review panel shall consist of—
 
 &emsp;&emsp;"(G) 4 air carrier employees whose job responsibilities include administration of a safety management system;
 
-&emsp;&emsp;"(H) 4 individuals representing 4 different holders of organization designation authorizations, with preference given to individuals representing holders of organization designation authorizations for the design or production of aircraft other than transport airplanes or for the design or production of aircraft engines, propellers, or appliances; and
+&emsp;&emsp;"(H) 4 individuals representing 4 different holders of organization designation authorizations, with preference given to individuals representing holders of organization designation authorizations for thedesign or production of aircraft other than transport airplanes or for the design or production of aircraft engines, propellers, or appliances; and
 
 &emsp;&emsp;"(I) 1 individual holding a law degree and who has expertise in the legal duties of a holder of an organization designation authorization and the interaction with the FAA, except that such individual may not, within the 10-year period preceding the individual's appointment, have been employed by, or provided legal services to, the holder of an organization designation authorization referenced in paragraph (2).
 
@@ -352,7 +352,7 @@ Organization Designation Authorization Process Improvements.—Not later than 1 
 
 &emsp;"(1) whether the Administrator has concluded that such holder is able to safely and reliably perform all delegated functions in accordance with all applicable provisions of chapter 447 of title 49, United States Code, title 14, Code of Federal Regulations, and other orders or requirements of the Administrator, and, if not, the Administrator shall outline—
 
-&emsp;&emsp;"(A) the risk mitigations or other corrective actions, including the implementation timelines ofsuch mitigations or actions, the Administrator has established for or required of such holder as prerequisites for a conclusion by the Administrator under this paragraph; or
+&emsp;&emsp;"(A) the risk mitigations or other corrective actions, including the implementation timelines of such mitigations or actions, the Administrator has established for or required of such holder as prerequisites for a conclusion by the Administrator under this paragraph; or
 
 &emsp;&emsp;"(B) the status of any ongoing investigatory actions;
 
@@ -452,7 +452,7 @@ In general.—Not later than 180 days after the date on which the Administrator 
 
 &emsp;"(2)
 
-Notice and comment period.—The Administrator shall publish the established best practices for public notice and comment for not fewer than 60 days prior to requiring the practices, as appropriate, be incorporated into each ODA holder's approved procedures manual.
+Notice and comment period.—The Administrator shall publish the established best practices forpublic notice and comment for not fewer than 60 days prior to requiring the practices, as appropriate, be incorporated into each ODA holder's approved procedures manual.
 
 "(i)
 

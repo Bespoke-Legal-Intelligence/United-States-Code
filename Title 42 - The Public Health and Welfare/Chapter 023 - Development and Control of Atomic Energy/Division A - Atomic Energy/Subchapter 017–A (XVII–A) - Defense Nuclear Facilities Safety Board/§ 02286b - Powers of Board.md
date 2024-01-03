@@ -56,7 +56,7 @@ With the consent of and under appropriate support arrangements with the Nuclear 
 
 #### (g) Assistance from organizations outside Federal Government
 
-Notwithstanding any other provision of law relating to the use of competitive procedures, the Board may enter into an agreement with theNational Research Council of the National Academy of Sciences or any other appropriate group or organization of experts outside the Federal Government chosen by the Board to assist the Board in carrying out its responsibilities under this subchapter.
+Notwithstanding any other provision of law relating to the use of competitive procedures, the Board may enter into an agreement with the National Research Council of the National Academy of Sciences or any other appropriate group or organization of experts outside the Federal Government chosen by the Board to assist the Board in carrying out its responsibilities under this subchapter.
 
 #### (h) Resident inspectors
 
@@ -100,7 +100,7 @@ The Board may evaluate information received from the scientific and industrial c
 
 #### (B) Information about matters withheld from public
 
-&emsp;&emsp;If the Board properly determines under subparagraph (A)(ii) that a matter may be withheld from the public under section 552b(c) of title 5, the Board shall include in the summary required by that subparagraph as much general information as possible with respect to the matter.
+&emsp;&emsp;If the Board properly determines under subparagraph (A)(ii) that a matter may bewithheld from the public under section 552b(c) of title 5, the Board shall include in the summary required by that subparagraph as much general information as possible with respect to the matter.
 
 #### (3) Rules of construction
 

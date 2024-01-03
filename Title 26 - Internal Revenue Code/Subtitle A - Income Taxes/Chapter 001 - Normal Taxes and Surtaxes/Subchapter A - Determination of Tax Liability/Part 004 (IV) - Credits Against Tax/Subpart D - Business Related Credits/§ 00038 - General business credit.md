@@ -76,11 +76,13 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 &emsp;(31) the small employer health insurance credit determined under section 45R,
 
-&emsp;(32) in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a), plus
+&emsp;(32) in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a),
 
-&emsp;(33) in the case of an eligible employer (as defined in section 45T(c)), the retirement auto-enrollment credit determined under section 45T(a).
+&emsp;(33) in the case of an eligible employer (as defined in section 45T(c)), the retirement auto-enrollment credit determined under section 45T(a), plus
 
-&emsp;(35) <sup>1</sup> the sustainable aviation fuel credit determined under section 40B,
+&emsp;(34) the zero-emission nuclear power production credit determined under section 45U(a).
+
+&emsp;(35) the sustainable aviation fuel credit determined under section 40B,
 
 &emsp;(36) the clean hydrogen production credit determined under section 45V(a),
 
@@ -194,7 +196,7 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 #### (B) Controlled groups
 
-&emsp;&emsp;In the case of a controlled group, the $25,000 amount specified under subparagraph\(B) of paragraph (1) shall be reduced for each component member of such group by apportioning $25,000 among the component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term "controlled group" has the meaning given to such term by section 1563(a).
+&emsp;&emsp;In the case of a controlled group, the $25,000 amount specified under subparagraph (B) of paragraph (1) shall be reduced for each component member of such group by apportioning $25,000 among the component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term "controlled group" has the meaning given to such term by section 1563(a).
 
 #### (C) Limitations with respect to certain persons
 
@@ -230,13 +232,7 @@ For purposes of any provision of this title where it is necessary to ascertain t
 
 #### Amendment of Subsection (b)
 
-<i>Pub. L. 117–169, title I, §13105(b)(1), (c), Aug. 16, 2022, 136 Stat. 1931, provided that, applicable to electricity produced and sold after Dec. 31, 2023, in taxable years beginning after such date, subsection (b) of this section is amended by striking "plus" at the end of paragraph (32), striking the period at the end of paragraph (33) and inserting ", plus", and adding at the end the following new paragraph:</i>
-
-&emsp;<i>(34) the zero-emission nuclear power production credit determined under section 45U(a).</i>
-
-<i>See 2022 Amendment note below.</i>
-
-<i>Pub. L. 117–169, title I, §13701(b)(1), (c), Aug. 16, 2022, 136 Stat. 1990, provided that, applicable to facilities placed in service after Dec. 31, 2024, subsection (b) of this section is amended by striking "plus" at the end of paragraph (37),</i><i>striking the period at the end of paragraph (38) and inserting ", plus", and adding at the end the following new paragraph:</i>
+<i>Pub. L. 117–169, title I, §13701(b)(1), (c), Aug. 16, 2022, 136 Stat. 1990, provided that, applicable to facilities placed in service after Dec. 31, 2024, subsection (b) of this section is amended by striking "plus" at the end of paragraph (37), striking the period at the end of paragraph (38) and inserting ", plus", and adding at the end the following new paragraph:</i>
 
 &emsp;<i>(39) the clean electricity production credit determined under section 45Y(a).</i>
 
@@ -560,7 +556,7 @@ Amendment by section 13403(b)(1) of Pub. L. 117–169 applicable to vehicles acq
 
 Amendment by section 13502(b)(1) of Pub. L. 117–169 applicable to components produced and sold after Dec. 31, 2022, see section 13502(c) of Pub. L. 117–169, set out as an Effective Date note under section 45X of this title.
 
-Amendment by section 13701(b)(1) of Pub. L. 117–169 applicable to facilities placed in service after Dec. 31,2024, see section 13701(c) of Pub. L. 117–169, set out as an Effective Date note under section 45Y of this title.
+Amendment by section 13701(b)(1) of Pub. L. 117–169 applicable to facilities placed in service after Dec. 31, 2024, see section 13701(c) of Pub. L. 117–169, set out as an Effective Date note under section 45Y of this title.
 
 Amendment by section 13704(b)(3) of Pub. L. 117–169 applicable to transportation fuel produced after Dec. 31, 2024, see section 13704(c) of Pub. L. 117–169, set out as an Effective Date note under section 45Z of this title.
 
@@ -594,7 +590,7 @@ Pub. L. 114–113, div. Q, title I, §186(e)(3), Dec. 18, 2015, 129 Stat. 3074, 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by section 209(f)(1) of Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
+Amendment by section 209(f)(1) of Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates,see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
 
 Amendment by section 221(a)(2)(B), (6) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
@@ -650,7 +646,7 @@ Pub. L. 110–28, title VIII, §8214(b), May 25, 2007, 121 Stat. 193, provided t
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §405(e), Dec. 20, 2006, 120 Stat. 2958, provided that: "The amendments madeby this section \[enacting section 45N of this title and amending this section and section 280C of this title\] shall apply to taxable years beginning after December 31, 2005."
+Pub. L. 109–432, div. A, title IV, §405(e), Dec. 20, 2006, 120 Stat. 2958, provided that: "The amendments made by this section \[enacting section 45N of this title and amending this section and section 280C of this title\] shall apply to taxable years beginning after December 31, 2005."
 
 #### Effective Date of 2005 Amendment
 
@@ -668,7 +664,7 @@ Pub. L. 109–58, title XIII, §1332(f), Aug. 8, 2005, 119 Stat. 1026, provided 
 
 Pub. L. 109–58, title XIII, §1334(d), Aug. 8, 2005, 119 Stat. 1033, provided that: "The amendments made by this section \[enacting section 45M of this title and amending this section\] shall apply to appliances produced after December 31, 2005."
 
-Amendment by section 1341(b)(1) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1341(c) of Pub. L. 109–58, set out as an Effective Date note under section 30B of this title.
+Amendment by section 1341(b)(1) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005,in taxable years ending after such date, see section 1341(c) of Pub. L. 109–58, set out as an Effective Date note under section 30B of this title.
 
 Amendment by section 1342(b)(1) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1342(c) of Pub. L. 109–58, set out as an Effective Date note under section 30C of this title.
 
@@ -710,7 +706,7 @@ Pub. L. 104–188, title I, §1702(i), Aug. 20, 1996, 110 Stat. 1875, provided t
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13303, Aug. 10, 1993, 107 Stat. 556, provided that: "The amendments made by this part \[part I (§§13301–13303) of subchapter C of chapter 1 of title XIII of Pub. L. 103–66, enacting sections1391 to 1394 and 1396 to 1397D of this title and amending this section and sections 39, 51, 196, 280C, and 381 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\]."
+Pub. L. 103–66, title XIII, §13303, Aug. 10, 1993, 107 Stat. 556, provided that: "The amendments made by this part \[part I (§§13301–13303) of subchapter C of chapter 1 of title XIII of Pub. L. 103–66, enacting sections 1391 to 1394 and 1396 to 1397D of this title and amending this section and sections 39, 51, 196, 280C, and 381 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\]."
 
 Pub. L. 103–66, title XIII, §13322(f), Aug. 10, 1993, 107 Stat. 563, provided that: "The amendments made by this section \[enacting section 45A of this title and amending this section and sections 39, 196, and 280C of this title\] shall apply to wages paid or incurred after December 31, 1993."
 
@@ -790,7 +786,7 @@ In General.—In the case of any taxable year ending after the date of the enact
 
 &emsp;"(1) $1,000, or
 
-&emsp;"(2) 6.2 percent of the wages (as defined in section 3401(a) \[probably means section 3401(a) of the InternalRevenue Code of 1986\]) paid by the taxpayer to such retained worker during the 52 consecutive week period referred to in subsection (b)(2).
+&emsp;"(2) 6.2 percent of the wages (as defined in section 3401(a) \[probably means section 3401(a) of the Internal Revenue Code of 1986\]) paid by the taxpayer to such retained worker during the 52 consecutive week period referred to in subsection (b)(2).
 
 "(b)
 
@@ -1068,7 +1064,7 @@ Definitions and Special Rules.—For purposes of this section—
 
 &emsp;"(1)
 
-Qualified farmer.—The term 'qualified farmer' means any taxpayer who, during the 3-taxable year period preceding the taxable year for which an election is made under subsection (a), derived 50 percent or more of the taxpayer's gross income from the trade or business of farming.
+Qualified farmer.—The term 'qualified farmer' means any taxpayer who, during the 3-taxableyear period preceding the taxable year for which an election is made under subsection (a), derived 50 percent or more of the taxpayer's gross income from the trade or business of farming.
 
 &emsp;"(2)
 

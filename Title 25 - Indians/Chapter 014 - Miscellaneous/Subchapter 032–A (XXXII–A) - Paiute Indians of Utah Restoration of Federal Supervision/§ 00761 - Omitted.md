@@ -10,5 +10,5 @@ Section, Pub. L. 96–227, §2, Apr. 3, 1980, 94 Stat. 317; Pub. L. 109–126, �
 
 #### Short Title
 
-Pub. L. 96–227, §1, Apr. 3, 1980, 94 Stat. 317, provided that Pub. L. 96–227, enacting this subchapter, could becited as the "Paiute Indian Tribe of Utah Restoration Act".
+Pub. L. 96–227, §1, Apr. 3, 1980, 94 Stat. 317, provided that Pub. L. 96–227, enacting this subchapter, could be cited as the "Paiute Indian Tribe of Utah Restoration Act".
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Requirements for Approval.—Except as provided in section 14306(d) of this title, decisions by the Appalachian Regional Commissionrequire the affirmative vote of the Federal Cochairman and of a majority of the state members, exclusive of members representing States delinquent under section 14306(d).
+Requirements for Approval.—Except as provided in section 14306(d) of this title, decisions by the Appalachian Regional Commission require the affirmative vote of the Federal Cochairman and of a majority of the state members, exclusive of members representing States delinquent under section 14306(d).
 
 (b)
 

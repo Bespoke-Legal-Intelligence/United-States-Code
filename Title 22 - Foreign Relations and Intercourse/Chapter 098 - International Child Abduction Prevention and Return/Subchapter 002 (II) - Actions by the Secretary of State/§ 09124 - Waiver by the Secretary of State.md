@@ -34,7 +34,7 @@ Subject to subsection (d), the Secretary of State shall ensure that each waiver 
 
 #### (d) Limited disclosure of information
 
-The Secretary of State may limit the publication of information under subsection (c) in the same manner and to the same extent as the President may limit the publication of findings and determinations described in section 2414(c) of this title, if the Secretary determines thatthe publication of such information would be harmful to the national security of the United States and would not further the purposes of this chapter.
+The Secretary of State may limit the publication of information under subsection (c) in the same manner and to the same extent as the President may limit the publication of findings and determinations described in section 2414(c) of this title, if the Secretary determines that the publication of such information would be harmful to the national security of the United States and would not further the purposes of this chapter.
 
 (Pub. L. 113–150, title II, §204, Aug. 8, 2014, 128 Stat. 1821.)
 

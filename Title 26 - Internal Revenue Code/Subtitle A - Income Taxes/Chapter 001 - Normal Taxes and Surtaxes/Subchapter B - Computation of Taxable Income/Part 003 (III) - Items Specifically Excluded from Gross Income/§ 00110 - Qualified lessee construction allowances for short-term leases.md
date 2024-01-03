@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (2) Short-term lease
 
-&emsp;The term "short-term lease" means a lease (or other agreement for occupancy or use) ofretail space for 15 years or less (as determined under the rules of section 168(i)(3)).
+&emsp;The term "short-term lease" means a lease (or other agreement for occupancy or use) of retail space for 15 years or less (as determined under the rules of section 168(i)(3)).
 
 #### (3) Retail space
 

@@ -24,7 +24,7 @@ The Secretary may—
 
 &emsp;(8) consent to (A) long-term leases of facilities financed under this subchapter notwithstanding the failure of the lessee to meet any of the requirements of this subchapter if such long-term leases are necessary to ensure the continuation of services for which financing was extended to the lessor, and (B) the transfer of property securing any loan or financed by any loan or grant made, insured, or held by the Secretary under this chapter, or the provisions of any other law administered by the Rural Development Administration under this chapter or by the Farmers Home Administration, upon such terms as he deems necessary to carry out the purpose of the loan or grant or to protect the financial interest of the Government, and shall document the consent of the Secretary for the transfer of the property of a borrower in the file of the borrower; and
 
-&emsp;(9) notwithstanding that an area ceases, or has ceased, to be "rural", in a "rural area", or an eligible area, make loans and grants, and approve transfers and assumptions, under thischapter on the same basis as though the area still was rural in connection with property securing any loan made, insured, or held by the Secretary under this chapter or in connection with any property held by the Secretary under this chapter.
+&emsp;(9) notwithstanding that an area ceases, or has ceased, to be "rural", in a "rural area", or an eligible area, make loans and grants, and approve transfers and assumptions, under this chapter on the same basis as though the area still was rural in connection with property securing any loan made, insured, or held by the Secretary under this chapter or in connection with any property held by the Secretary under this chapter.
 
 #### (c) Delinquent claims and obligations
 
@@ -70,7 +70,7 @@ The Secretary and the designees of the Secretary are hereby granted the same acc
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b)(1), (3), (8), (9), and (e)(1), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b)(1), (3), (8), (9), and (e)(1), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307,known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 The Farmers Home Administration Act of 1946, as amended, referred to in subsec. (a), is act Aug. 14, 1946, ch. 964, 60 Stat. 1062, as amended, which was classified to sections 1001 to 1005, 1005a to 1005d, 1007, 1008, 1009, 1015 to 1029, 1030, and 1031 of this title, section 371 of Title 12, Banks and Banking, and section 82h of Title 31, Money and Finance, and in so far as it amended provisions of Title I, II, and IV of the Bankhead-Jones Farm Tenant Act, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
@@ -78,7 +78,7 @@ The Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), is a
 
 Act of August 28, 1937, as amended, referred to in subsec. (a), is act Aug. 28, 1937, ch. 870, 50 Stat. 869, as amended, which was formerly classified to sections 590r to 590x–4 of Title 16, Conservation, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
-Act of April 6, 1949, as amended, referred to in subsec. (a), is act Apr. 6, 1949, ch. 49, 63 Stat. 43, as amended,which was formerly classified to sections 1148a–1 to 1148a–3 of Title 12, Banks and Banking, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
+Act of April 6, 1949, as amended, referred to in subsec. (a), is act Apr. 6, 1949, ch. 49, 63 Stat. 43, as amended, which was formerly classified to sections 1148a–1 to 1148a–3 of Title 12, Banks and Banking, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
 Act of August 31, 1954, as amended, referred to in subsec. (a), is act Aug. 31, 1954, ch. 1145, 68 Stat. 999, which was formerly classified as a note under section 1148a–1 of Title 12, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
@@ -164,7 +164,7 @@ Subsec. (b)(1) to (3). Pub. L. 101–624, §2388(d)(1)(A)(vi), formerly (vii), a
 
 Subsec. (b)(4). Pub. L. 101–624, §2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, §501(c)(2)(B)(iii), (v), redesignated par. (d) as (4) of subsec. (b).
 
-Pub. L. 101–624, §§1805(a)(1)(A), (B), 2303(a)(2), inserted "or the Rural Development Administration" after "Farmers Home Administration" in first sentence, substituted ", except for activities under the Housing Act of 1949" for "under any of its programs, as circumstances may require, to carry out" in first sentence, and substituted ", except for debt incurredunder the Housing Act of 1949" for "incurred under this chapter" in third sentence.
+Pub. L. 101–624, §§1805(a)(1)(A), (B), 2303(a)(2), inserted "or the Rural Development Administration" after "Farmers Home Administration" in first sentence, substituted ", except for activities under the Housing Act of 1949" for "under any of its programs, as circumstances may require, to carry out" in first sentence, and substituted ", except for debt incurred under the Housing Act of 1949" for "incurred under this chapter" in third sentence.
 
 Subsec. (b)(4)(A). Pub. L. 101–624, §2388(d)(1)(A)(v), formerly (vi), as redesignated by Pub. L. 102–237, §501(c)(2)(B)(iii), redesignated subpar. (1) as (A).
 
@@ -236,7 +236,7 @@ Pars. (d) to (i). Pub. L. 92–419, §124(2), substituted a semicolon for a peri
 
 #### Change of Name
 
-Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments madeto section 6932 of this title by Pub. L. 115–334, title XII, §12404(a), Dec. 20, 2018, 132 Stat. 4974.
+Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments made to section 6932 of this title by Pub. L. 115–334, title XII, §12404(a), Dec. 20, 2018, 132 Stat. 4974.
 
 #### Effective Date of 2002 Amendment
 

@@ -10,7 +10,7 @@ Title VI of the Elementary and Secondary Education Act of 1965, comprising this 
 
 #### Prior Provisions
 
-A prior title VI of the Elementary and Secondary Education Act of 1965, comprising former subchapter VI (§7301 et seq.) of this chapter, was redesignated title V of the Act by Pub. L. 114–95, title V, §5001(a), Dec. 10, 2015, 129 Stat. 2039, and transferred to subchapter V (§7305 et seq.) of this chapter.
+A prior title VI of the Elementary and Secondary Education Act of 1965, comprising former subchapter VI\(§7301 et seq.) of this chapter, was redesignated title V of the Act by Pub. L. 114–95, title V, §5001(a), Dec. 10, 2015, 129 Stat. 2039, and transferred to subchapter V (§7305 et seq.) of this chapter.
 
 
 ---

@@ -12,7 +12,7 @@ Within 1 year after October 24, 1992, and annually thereafter, the Secretary sha
 
 This section may not be construed to authorize the Secretary to take any action in violation of the multilateral trade agreements (as defined in section 3501(4) of title 19) or the USMCA (as defined in section 4502 of title 19).
 
-(Pub. L. 102–486, title X, §1017, Oct. 24, 1992, 106 Stat. 2950; Pub. L. 106–36, title I, §1002(g)(2), June25, 1999, 113 Stat. 133; Pub. L. 116–113, title V, §507(a), Jan. 29, 2020, 134 Stat. 78.)
+(Pub. L. 102–486, title X, §1017, Oct. 24, 1992, 106 Stat. 2950; Pub. L. 106–36, title I, §1002(g)(2), June 25, 1999, 113 Stat. 133; Pub. L. 116–113, title V, §507(a), Jan. 29, 2020, 134 Stat. 78.)
 
 #### <b>Editorial Notes</b>
 

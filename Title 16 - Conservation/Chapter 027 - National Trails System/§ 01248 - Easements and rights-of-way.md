@@ -46,7 +46,7 @@ Commencing October 4, 1988, any and all right, title, interest, and estate of th
 
 As used in this section—
 
-&emsp;(1) The term "conservation system unit" has the same meaning given such term in the Alaska National Interest Lands Conservation Act (Public Law 96–487; 94 Stat. 2371 et seq.), except that such term shall also include units outside Alaska.
+&emsp;(1) The term "conservation system unit" has the same meaning given such term in the Alaska National Interest Lands ConservationAct (Public Law 96–487; 94 Stat. 2371 et seq.), except that such term shall also include units outside Alaska.
 
 &emsp;(2) The term "public lands" has the same meaning given such term in the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\].
 

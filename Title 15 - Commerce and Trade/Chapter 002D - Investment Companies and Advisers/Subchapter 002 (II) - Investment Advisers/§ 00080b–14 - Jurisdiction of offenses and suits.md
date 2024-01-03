@@ -24,7 +24,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 <b>2010</b>—Pub. L. 111–203, §929P(b)(3), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Pub. L. 111–203, §929E(d), inserted "In any action or proceeding instituted by the Commission under this subchapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence." after "defendant may be found."
+Pub. L. 111–203, §929E(d), inserted "In any action or proceeding instituted by the Commission under this subchapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents ortangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence." after "defendant may be found."
 
 <b>1990</b>—Pub. L. 101–429 inserted "and actions at law brought to enforce any liability or duty created by, or" after "all suits in equity" and "to enforce any liability or duty created by, or" after "Any suit or action".
 

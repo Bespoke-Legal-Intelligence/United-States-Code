@@ -72,7 +72,7 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 <b>2010</b>—Subsec. (c)(1)(D). Pub. L. 111–203, §1100A(2), (10)(A), made similar amendments, resulting in the substitution of "the Bureau" for "the Board".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2605(c)(1), (3), added subsec. (a) and struck out former subsec. (a) consisting of introductory provisions and 5 pars. relating to contents of lease agreements required if consumer lease advertisement stated amount of payment, numberof required payments, or that any or no payments were required at lease inception.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2605(c)(1), (3), added subsec. (a) and struck out former subsec. (a) consisting of introductory provisions and 5 pars. relating to contents of lease agreements required if consumer lease advertisement stated amount of payment, number of required payments, or that any or no payments were required at lease inception.
 
 Subsec. (b). Pub. L. 104–208, §2605(c)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 

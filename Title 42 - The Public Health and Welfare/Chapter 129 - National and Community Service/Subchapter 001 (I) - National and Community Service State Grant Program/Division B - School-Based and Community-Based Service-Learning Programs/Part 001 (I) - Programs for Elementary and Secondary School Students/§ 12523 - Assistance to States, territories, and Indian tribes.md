@@ -78,7 +78,7 @@ An entity that receives financial assistance under this part from a State, terri
 
 #### (d) Special rule
 
-A State educational agency described in section 12522(2)(A) of this title may designate a statewide entity (which may be a community-based entity) with demonstrated experience in supporting or implementing service-learning programs, to receive the State educational agency's allotment under this part, and carry out the functions of the agency under this part.
+A State educational agency described in section 12522(2)(A) of this title may designate a statewide entity (which may be a community-based entity) with demonstrated experience insupporting or implementing service-learning programs, to receive the State educational agency's allotment under this part, and carry out the functions of the agency under this part.
 
 #### (e) Consultation with Secretary of Education
 

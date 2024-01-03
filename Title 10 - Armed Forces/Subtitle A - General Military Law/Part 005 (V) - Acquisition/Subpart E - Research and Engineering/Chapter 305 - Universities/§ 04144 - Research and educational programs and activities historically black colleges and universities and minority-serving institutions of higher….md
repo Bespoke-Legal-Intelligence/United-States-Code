@@ -22,7 +22,7 @@ Program Objective.—The objective of the program established by subsection (a)(
 
 Assistance Provided.—Under the program established by subsection (a)(1), the Secretary of Defense may provide covered educational institutions with funding or technical assistance, including any of the following:
 
-&emsp;(1) Support for research, development, testing, evaluation, or educational enhancements in areas important to national defense through the competitive awarding of grants,cooperative agreements, contracts, scholarships, fellowships, or the acquisition of research equipment or instrumentation.
+&emsp;(1) Support for research, development, testing, evaluation, or educational enhancements in areas important to national defense through the competitive awarding of grants, cooperative agreements, contracts, scholarships, fellowships, or the acquisition of research equipment or instrumentation.
 
 &emsp;(2) Support to assist in the attraction and retention of faculty in scientific disciplines important to the national security functions of the Department of Defense.
 
@@ -102,7 +102,7 @@ Pilot Program.—The Under Secretary of Defense for Research and Engineering, ac
 
 "(b)
 
-Briefing.—Not later than one year after commencing a pilot program under subsection (a), theUnder Secretary of Defense for Research and Engineering shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the program, including—
+Briefing.—Not later than one year after commencing a pilot program under subsection (a), the Under Secretary of Defense for Research and Engineering shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the program, including—
 
 &emsp;"(1) an explanation of—
 
@@ -362,7 +362,7 @@ Elements.—The study conducted under subsection (a) shall include an examinatio
 
 &emsp;"(7) The ability of covered institutions to develop, protect, and commercialize intellectual property created through defense-related research.
 
-&emsp;"(8) The total amount of defense research funding awarded to all institutions of higher education, including covered institutions, through contracts and grants for each of fiscal years 2010 through 2019 and, with respect to each such institution—
+&emsp;"(8) The total amount of defense research funding awarded to all institutions of higher education, including covered institutions, through contracts andgrants for each of fiscal years 2010 through 2019 and, with respect to each such institution—
 
 &emsp;&emsp;"(A) whether the institution established a distinct legal entity to enter into contracts or receive grants from the Department and, if so, the type of legal entity that was established;
 
@@ -460,7 +460,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(B) the Committee on Health, Education, Labor, and Pensions of the Senate; and
 
-&emsp;&emsp;"(C) the Committee on Education and Labor of the House of Representatives.
+&emsp;&emsp;"(C) the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives.
 
 &emsp;"(2) The term 'covered institution' means—
 

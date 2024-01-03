@@ -2,7 +2,7 @@
 
 (a)
 
-Authority to Support Development and Operation of Museum.—(1) The Secretary of the Navy may select and enter into a contract, cooperative agreement, or other agreement with one or more eligible nonprofit organizations to support the development, design, construction, renovation, or operation of a multipurpose museum to serve as the National Museum of the United States Navy.
+Authority to Support Development and Operation of Museum.—(1) The Secretary of theNavy may select and enter into a contract, cooperative agreement, or other agreement with one or more eligible nonprofit organizations to support the development, design, construction, renovation, or operation of a multipurpose museum to serve as the National Museum of the United States Navy.
 
 (2) The Secretary may—
 

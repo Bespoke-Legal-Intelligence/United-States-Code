@@ -62,7 +62,7 @@ The Director, with the approval of the Director of the Office of Management and 
 
 #### (2) Limitation
 
-&emsp;The total fees collected for new .gov internet domain registrants or annual renewals of .govinternet domains shall not exceed the direct operational expenses of improving, maintaining, and operating the .gov internet domain, .gov internet domain services, and .gov internet domain supporting services.
+&emsp;The total fees collected for new .gov internet domain registrants or annual renewals of .gov internet domains shall not exceed the direct operational expenses of improving, maintaining, and operating the .gov internet domain, .gov internet domain services, and .gov internet domain supporting services.
 
 #### (g) Consultation
 
@@ -144,6 +144,10 @@ Pub. L. 117–81, §1547(b)(1)(A)(ii), reenacted section catchline.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date of 2022 Amendment
 
 Amendment by Pub. L. 117–263 effective as if enacted as part of title IX of div. U of Pub. L. 116–260, see section 7143(a)(2) of Pub. L. 117–263, set out as a note under section 652 of this title.
@@ -202,7 +206,7 @@ Pub. L. 116–260, div. U, title IX, §907, Dec. 27, 2020, 134 Stat. 2303, provi
 
 "(a) There shall be transferred to the Director the .gov internet domain program, as operated by the General Services Administration under title 41, Code of Federal Regulations, on the date on which the Director begins operational administration of the .gov internet domain program, in accordance with subsection (c).
 
-"(b) Not later than 30 days after the date of enactment of this Act \[probably means "this title", approved Dec. 27, 2020\], the Director shall submit a plan for the operational and contractual transition of the .gov internet domain program to the Committee on Homeland Security and Governmental Affairs and the Committee on Rules and Administration of the Senate and the Committee on Homeland Security, the Committee on Oversight and Reform, and the Committee on House Administration of the House of Representatives.
+"(b) Not later than 30 days after the date of enactment of this Act \[probably means "this title", approved Dec. 27, 2020\], the Director shall submit a plan for the operational and contractual transition of the .gov internet domain program to the Committee on Homeland Security and Governmental Affairs and the Committee on Rules and Administration of the Senate and the Committee on Homeland Security, the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\], and the Committee on House Administration of the House of Representatives.
 
 "(c) Not later than 120 days after the date of enactment of this Act, the Director shall begin operationally administering the .gov internet domain program, and shall publish on a publicly available website the requirements for domain registrants as described in section 2215(b) of the Homeland Security Act of 2002 \[6 U.S.C. 665(b)\], as added by section 904(b) of this Act.
 
@@ -224,5 +228,5 @@ Pub. L. 116–260, div. U, title IX, §903, Dec. 27, 2020, 134 Stat. 2298, provi
 
 &emsp;"(4) the term 'online service' means any internet-facing service, including a website, email, a virtual private network, or a custom application; and
 
-&emsp;"(5) the term 'State' means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any possession of the United States."
+&emsp;"(5) the term 'State' means any State of the United States, the District of Columbia, the Commonwealthof Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any possession of the United States."
 

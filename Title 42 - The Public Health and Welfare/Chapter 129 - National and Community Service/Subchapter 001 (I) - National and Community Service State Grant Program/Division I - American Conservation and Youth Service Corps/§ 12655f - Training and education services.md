@@ -36,13 +36,13 @@ Each program agency shall, through the programs and activities administered unde
 
 #### (4) Priority for participants without high school diplomas
 
-&emsp;A program agency shall give priority to participants who have not obtained a high schooldiploma or the equivalent of such diploma, in providing services under this subsection.
+&emsp;A program agency shall give priority to participants who have not obtained a high school diploma or the equivalent of such diploma, in providing services under this subsection.
 
 #### (d) Standards and procedures
 
 #### (1) Consistency with State and local requirements
 
-&emsp;Appropriate State and local officials shall certify that standards and procedures with respect to the awarding of academic credit and the certification of educational attainment in programs conducted under subsection (c) are consistent with the requirements of applicable State and local law and regulations.
+&emsp;Appropriate State and local officials shall certify that standards and procedures with respect to the awarding of academic credit and the certification of educational attainment inprograms conducted under subsection (c) are consistent with the requirements of applicable State and local law and regulations.
 
 #### (2) Academic standards
 

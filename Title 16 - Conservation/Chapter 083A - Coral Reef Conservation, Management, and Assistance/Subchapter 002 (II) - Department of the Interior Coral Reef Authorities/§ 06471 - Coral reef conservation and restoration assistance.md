@@ -32,7 +32,7 @@ The Secretary may establish a Coral Reef Initiative Program—
 
 #### (2) Award of Coral Reef Management Fellowship
 
-&emsp;The Secretary of the Interior shall consult with the Secretary of Commerce to award the Susan L. Williams Coral Reef Management Fellowship under subchapter III of this chapter.
+&emsp;The Secretary of the Interior shall consult with the Secretary of Commerce to award theSusan L. Williams Coral Reef Management Fellowship under subchapter III of this chapter.
 
 #### (d) Cooperative agreements
 

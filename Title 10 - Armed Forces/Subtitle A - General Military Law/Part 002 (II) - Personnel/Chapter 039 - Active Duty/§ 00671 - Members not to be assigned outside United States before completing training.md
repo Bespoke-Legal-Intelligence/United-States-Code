@@ -2,7 +2,7 @@
 
 (a) A member of the armed forces may not be assigned to active duty on land outside the United States and its territories and possessions until the member has completed the basic training requirements of the armed force of which he is a member.
 
-(b) In time of war or a national emergency declared by Congress or the President, the period of required basic training (or its equivalent) may not (except as provided in subsection (c)) be less than 12 weeks.
+(b) In time of war or a national emergency declared by Congress or the President, the period of required basic training (or its equivalent)may not (except as provided in subsection (c)) be less than 12 weeks.
 
 (c)(1) A period of basic training (or equivalent training) shorter than 12 weeks may be established by the Secretary concerned for members of the armed forces who have been credentialed in a medical profession or occupation and are serving in a health-care occupational specialty, as determined under regulations prescribed under paragraph (2). Any such period shall be established under regulations prescribed under paragraph (2) and may be established notwithstanding section 4(a) of the Military Selective Service Act (50 U.S.C. 3803(a)).
 

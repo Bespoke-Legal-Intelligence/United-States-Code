@@ -12,7 +12,7 @@
 
 (d) In considering the need for any project for the construction, alteration, or acquisition (other than by exchange) of a medical facility which is expected to involve a total expenditure of more than $2,000,000, the Secretary shall give consideration to the sharing of health-care resources with the Department of Defense under section 8111 of this title as an alternative to all or part of such project.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 55, §5002; amended Pub. L. 99–576, title II, §221(a), Oct. 28, 1986, 100 Stat. 3259; renumbered §8102 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(2), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 55, §5002; amended Pub. L. 99–576, title II, §221(a), Oct. 28, 1986, 100 Stat. 3259; renumbered §8102 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(2), June 13, 1991, 105Stat. 287; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 #### <b>Editorial Notes</b>
 

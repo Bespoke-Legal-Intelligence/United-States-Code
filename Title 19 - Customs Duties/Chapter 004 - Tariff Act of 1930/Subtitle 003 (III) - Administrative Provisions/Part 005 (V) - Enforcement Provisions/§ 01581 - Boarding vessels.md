@@ -26,7 +26,7 @@ It shall be the duty of the several officers of the customs to seize and secure 
 
 #### (g) Vessels deemed employed within United States
 
-Any vessel, within or without the customs waters, from which any merchandise is being, orhas been, unlawfully introduced into the United States by means of any boat belonging to, or owned, controlled, or managed in common with, said vessel, shall be deemed to be employed within the United States and, as such, subject to the provisions of this section.
+Any vessel, within or without the customs waters, from which any merchandise is being, or has been, unlawfully introduced into the United States by means of any boat belonging to, or owned, controlled, or managed in common with, said vessel, shall be deemed to be employed within the United States and, as such, subject to the provisions of this section.
 
 #### (h) Application of section to treaties of United States
 

@@ -56,7 +56,7 @@ The Secretary shall issue awards under this section for periods of not more than
 
 Not later than September 30, 2026, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that includes information on activities funded under this section. Such report shall include a description of—
 
-&emsp;(1) changes in the capacity of public health entities to address factors related to healthoutcomes in communities, including any applicable platforms or networks developed or utilized to coordinate health and related social services and any changes in workforce capacity or capabilities;
+&emsp;(1) changes in the capacity of public health entities to address factors related to health outcomes in communities, including any applicable platforms or networks developed or utilized to coordinate health and related social services and any changes in workforce capacity or capabilities;
 
 &emsp;(2) improvements in health outcomes and in reducing health disparities in medically underserved communities;
 

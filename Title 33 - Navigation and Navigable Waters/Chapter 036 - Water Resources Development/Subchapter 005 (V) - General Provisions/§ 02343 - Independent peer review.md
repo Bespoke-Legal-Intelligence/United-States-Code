@@ -106,7 +106,7 @@
 
 #### (4) Limitation on multiple peer review
 
-&emsp;Nothing in this subsection shall be construed to require the Chief of Engineers toconduct multiple peer reviews for a project study.
+&emsp;Nothing in this subsection shall be construed to require the Chief of Engineers to conduct multiple peer reviews for a project study.
 
 #### (c) Establishment of panels
 
@@ -236,7 +236,7 @@ In this section, the following definitions apply:
 
 #### (2) Affected State
 
-&emsp;The term "affected State", as used with respect to a water resources project, means a State all or a portion of which is within the drainage basin in which the project is or would be located and would be economically or environmentally affected as a consequence of the project.
+&emsp;The term "affected State", as used with respect to a water resources project, means aState all or a portion of which is within the drainage basin in which the project is or would be located and would be economically or environmentally affected as a consequence of the project.
 
 #### (3) Eligible organization
 
@@ -280,7 +280,7 @@ Subsec. (b)(3), (4). Pub. L. 113–121, §1044(b), added par. (3) and redesignat
 
 Subsec. (c)(4). Pub. L. 113–121, §1044(c), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "Upon identification of a project study for peer review under this section, but prior to initiation of the review, the Chief of Engineers shall notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the review."
 
-Subsec. (f)(2), (3). Pub. L. 113–121, §1044(d), added pars. (2) and (3) and struck out former par. (2) which related to public availability and transmittal to Congress of areport on a project study from a panel of experts under this section.
+Subsec. (f)(2), (3). Pub. L. 113–121, §1044(d), added pars. (2) and (3) and struck out former par. (2) which related to public availability and transmittal to Congress of a report on a project study from a panel of experts under this section.
 
 Subsec. (h)(2). Pub. L. 113–121, §1044(e), substituted "12 years" for "7 years".
 

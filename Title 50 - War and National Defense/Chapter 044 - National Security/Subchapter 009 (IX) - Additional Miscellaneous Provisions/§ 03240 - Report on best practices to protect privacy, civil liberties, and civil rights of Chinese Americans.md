@@ -26,7 +26,7 @@ On an annual basis, the Director of National Intelligence, acting through the Of
 
 The report under subsection (b) shall be submitted in unclassified form, but may include a classified annex.
 
-(July 26, 1947, ch. 343, title XI, §1110, formerly Pub. L. 116–92, div. E, title LVII, §5712, Dec. 20, 2019, 133 Stat. 2171; renumbered §1110 of act July26, 1947, and amended Pub. L. 116–260, div. W, title VI, §620(a), Dec. 27, 2020, 134 Stat. 2401.)
+(July 26, 1947, ch. 343, title XI, §1110, formerly Pub. L. 116–92, div. E, title LVII, §5712, Dec. 20, 2019, 133 Stat. 2171; renumbered §1110 of act July 26, 1947, and amended Pub. L. 116–260, div. W, title VI, §620(a), Dec. 27, 2020, 134 Stat. 2401.)
 
 #### <b>Editorial Notes</b>
 
@@ -34,5 +34,5 @@ The report under subsection (b) shall be submitted in unclassified form, but may
 
 <b>2020</b>—Pub. L. 116–260, §620(a)(4)(A), substituted ", civil liberties, and civil rights" for "and civil liberties" in section catchline.
 
-Subsec. (b). Pub. L. 116–260, §620(a)(4)(B), substituted "On an annual basis," for "Not later than 180 days after the date of the enactment of this Act," in introductory provisions and ", civil liberties, and civil rights" for "and civil liberties" in pars. (1) and (2).
+Subsec. (b). Pub. L. 116–260, §620(a)(4)(B), substituted "On an annual basis," for "Not later than 180 days afterthe date of the enactment of this Act," in introductory provisions and ", civil liberties, and civil rights" for "and civil liberties" in pars. (1) and (2).
 

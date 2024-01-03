@@ -112,7 +112,7 @@ Pub. L. 111–148, §2001(a)(4)(B), added subsec. (e).
 
 "(ii) the day that is 45 days after the date on which the provider makes the determination referred to in subparagraph (A), or
 
-"(iii) in the case of a woman who does not file an application for medical assistance within 14 calendar days after the date on which the provider makes the determination referred to in subparagraph (A), the fourteenth calendar day after such determination is made; and".
+"(iii) in the case of a woman who does not file an application for medical assistance within 14 calendar daysafter the date on which the provider makes the determination referred to in subparagraph (A), the fourteenth calendar day after such determination is made; and".
 
 Subsec. (c)(2)(B). Pub. L. 101–508, §4605(a)(2), substituted "by not later than the last day of the month following the month during which" for "within 14 calendar days after the date on which".
 

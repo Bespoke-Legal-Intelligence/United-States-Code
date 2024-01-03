@@ -22,7 +22,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section 965, Pub. L. 93–203, title VI, §605, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2008, related to expenditure of funds with regard to a public service employment program.
 
-A prior section 965, Pub. L. 93–203, title VI, §605, as added Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1847; amended Pub. L. 94–444, §5(b)(3), (d), Oct. 1, 1976, 90 Stat. 1480, related to expenditure of funds with regard to emergency job programs, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 965, Pub. L. 93–203, title VI, §605, as added Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1847; amended Pub. L. 94–444, §5(b)(3), (d), Oct. 1, 1976, 90 Stat. 1480, related to expenditure of funds with regardto emergency job programs, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 966, Pub. L. 93–203, title VI, §606, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2008, related to prime sponsors and Native American entities qualified to receive financial assistance and program agents.
 

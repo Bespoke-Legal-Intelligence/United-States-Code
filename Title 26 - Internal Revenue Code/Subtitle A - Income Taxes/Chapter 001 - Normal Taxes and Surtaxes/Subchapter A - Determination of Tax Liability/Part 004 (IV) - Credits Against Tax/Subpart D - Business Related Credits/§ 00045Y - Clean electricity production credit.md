@@ -58,7 +58,7 @@
 
 #### (C) Expansion of facility; incremental production
 
-&emsp;&emsp;The term "qualified facility" shall include either of the following in connection with a facility described in subparagraph (A) (without regard to clause (ii) of such subparagraph) which was placed in service before January 1, 2025, but only to the extent of the increased amount of electricity produced at the facility by reason of the following:
+&emsp;&emsp;The term "qualified facility" shall include either of the following in connection with a facility described in subparagraph (A) (without regard to clause (ii) of such subparagraph) which was placed in service before January 1, 2025, but only to the extent of theincreased amount of electricity produced at the facility by reason of the following:
 
 &emsp;&emsp;&emsp;(i) A new unit which is placed in service after December 31, 2024.
 
@@ -100,7 +100,7 @@
 
 #### (1) In general
 
-&emsp;In the case of a calendar year beginning after 2024, the 0.3 cent amount in paragraph\(2)(A) of subsection (a) and the 1.5 cent amount in paragraph (2)(B) of such subsection shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale, consumption, or storage of the electricity occurs. If the 0.3 cent amount as increased under this paragraph is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. If the 1.5 cent amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
+&emsp;In the case of a calendar year beginning after 2024, the 0.3 cent amount in paragraph (2)(A) of subsection (a) and the 1.5 cent amount in paragraph (2)(B) of such subsection shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale, consumption, or storage of the electricity occurs. If the 0.3 cent amount as increased under this paragraph is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. If the 1.5 cent amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
 
 #### (2) Annual computation
 
@@ -136,7 +136,7 @@
 
 &emsp;For purposes of this subsection, the term "applicable year" means the later of—
 
-&emsp;&emsp;(A) the calendar year in which the Secretary determines that the annual greenhouse gas emissions from the production of electricity in the United States are equal to or less than 25 percent of the annual greenhouse gas emissions from the production of electricity in the United States for calendar year 2022, or
+&emsp;&emsp;(A) the calendar year in which the Secretary determines that the annual greenhouse gas emissions from the production of electricity in the United States are equal toor less than 25 percent of the annual greenhouse gas emissions from the production of electricity in the United States for calendar year 2022, or
 
 &emsp;&emsp;(B) 2032.
 
@@ -226,7 +226,7 @@ Not later than January 1, 2025, the Secretary shall issue guidance regarding imp
 
 #### (ii) Form and effect of election
 
-&emsp;&emsp;&emsp;An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).
+&emsp;&emsp;&emsp;An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, oncemade, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).
 
 #### (B) Treatment of organizations and patrons
 
@@ -358,7 +358,7 @@ Not later than January 1, 2025, the Secretary shall issue guidance regarding imp
 
 #### (ii) Applicable percentage
 
-&emsp;&emsp;&emsp;In any case in which the Secretary provides an exception pursuant to clause (i),the applicable percentage shall be 100 percent.
+&emsp;&emsp;&emsp;In any case in which the Secretary provides an exception pursuant to clause (i), the applicable percentage shall be 100 percent.
 
 (Added Pub. L. 117–169, title I, §13701(a), Aug. 16, 2022, 136 Stat. 1982.)
 

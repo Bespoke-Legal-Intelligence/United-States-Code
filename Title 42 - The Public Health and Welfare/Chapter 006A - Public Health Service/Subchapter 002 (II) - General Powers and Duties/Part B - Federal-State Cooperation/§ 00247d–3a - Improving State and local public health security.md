@@ -40,7 +40,7 @@ To be eligible to receive an award under subsection (a), an entity shall—
 
 &emsp;&emsp;&emsp;(viii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State education agencies <sup>1</sup> (as defined in section 7801 of title 20), State child care lead agencies (designated under section 9858b of this title), and other relevant State agencies <sup>2</sup>
 
-&emsp;&emsp;&emsp;(ix) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section;
+&emsp;&emsp;&emsp;(ix) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring ordue to bioterrorism, consistent with the requirements of this section;
 
 &emsp;&emsp;&emsp;(x) a description of any activities that such entity will use to analyze real-time clinical specimens for pathogens of public health or bioterrorism significance, including any utilization of poison control centers;
 
@@ -98,7 +98,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (1) In general
 
-&emsp;Not later than 180 days after December 19, 2006, the Secretary shall develop or where appropriate adopt, and require the application of, measurable evidence-based benchmarks and objective standards that measure levels of preparedness with respect to the activities described in this section and with respect to activities described in section 247d–3b of this title. In developing such benchmarks andstandards, the Secretary shall consult with and seek comments from State, local, and tribal officials and private entities, as appropriate. Where appropriate, the Secretary shall incorporate existing objective standards. Such benchmarks and standards shall—
+&emsp;Not later than 180 days after December 19, 2006, the Secretary shall develop or where appropriate adopt, and require the application of, measurable evidence-based benchmarks and objective standards that measure levels of preparedness with respect to the activities described in this section and with respect to activities described in section 247d–3b of this title. In developing such benchmarks and standards, the Secretary shall consult with and seek comments from State, local, and tribal officials and private entities, as appropriate. Where appropriate, the Secretary shall incorporate existing objective standards. Such benchmarks and standards shall—
 
 &emsp;&emsp;(A) include outcome goals representing operational achievements of the National Preparedness Goals developed under section 300hh–1(b) of this title with respect to all-hazards, including chemical, biological, radiological, or nuclear threats; and
 
@@ -160,7 +160,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (8) Waive or reduce withholding
 
-&emsp;The Secretary may waive or reduce the withholding described in paragraph (6), for a single entity or for all entities in a fiscal year, if the Secretary determines that mitigating conditions exist that justify the waiver or reduction.
+&emsp;The Secretary may waive or reduce the withholding described in paragraph (6), for asingle entity or for all entities in a fiscal year, if the Secretary determines that mitigating conditions exist that justify the waiver or reduction.
 
 #### (h) Funding
 

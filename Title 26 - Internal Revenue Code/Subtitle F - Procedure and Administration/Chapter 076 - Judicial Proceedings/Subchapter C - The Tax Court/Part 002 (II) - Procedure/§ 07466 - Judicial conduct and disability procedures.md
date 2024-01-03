@@ -24,5 +24,5 @@ The provisions of sections 354(b) through 360 of title 28, United States Code, r
 
 #### Effective Date
 
-Pub. L. 114–113, div. Q, title IV, §431(c), Dec. 18, 2015, 129 Stat. 3125, provided that: "The amendments made by this section \[enacting this section\] shall apply toproceedings commenced after the date which is 180 days after the date of the enactment of this Act \[Dec. 18, 2015\] and, to the extent just and practicable, all proceedings pending on such date."
+Pub. L. 114–113, div. Q, title IV, §431(c), Dec. 18, 2015, 129 Stat. 3125, provided that: "The amendments made by this section \[enacting this section\] shall apply to proceedings commenced after the date which is 180 days after the date of the enactment of this Act \[Dec. 18, 2015\] and, to the extent just and practicable, all proceedings pending on such date."
 

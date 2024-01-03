@@ -8,7 +8,7 @@
 
 (2) To afford relief in such an action, the courts may award any relief that the court considers proper, including declaratory and injunctive relief except that any monetary relief shall be limited to bid preparation and proposal costs.
 
-(3) In exercising jurisdiction under this subsection, the courts shall give due regard to the interests of national defense and national security and the need for expeditious resolution of the action.
+(3) In exercising jurisdiction under this subsection, the courts shall give due regard to theinterests of national defense and national security and the need for expeditious resolution of the action.
 
 (4) In any action under this subsection, the courts shall review the agency's decision pursuant to the standards set forth in section 706 of title 5.
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978,and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2391, formerly set out as an Effective Date note under section 601 of former Title 41, Public Contracts.
+Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2391, formerly set out as an Effective Date note under section 601 of former Title 41, Public Contracts.
 
 #### Effective Date of 1972 Amendment
 

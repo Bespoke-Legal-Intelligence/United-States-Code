@@ -48,7 +48,7 @@
 
 #### (C) Combination of similar types or varieties
 
-&emsp;&emsp;At the option of the Secretary, all types or varieties of a crop or commodity, described in subparagraphs (A) and (B), may be considered to be a single eligible crop under this section.
+&emsp;&emsp;At the option of the Secretary, all types or varieties of a crop or commodity, describedin subparagraphs (A) and (B), may be considered to be a single eligible crop under this section.
 
 #### (3) Cause of loss
 
@@ -172,7 +172,7 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall determine an approved yield using the actual production history ofthe producer over a period of not less than the 4 previous consecutive crop years and not more than 10 consecutive crop years.
+&emsp;&emsp;The Secretary shall determine an approved yield using the actual production history of the producer over a period of not less than the 4 previous consecutive crop years and not more than 10 consecutive crop years.
 
 #### (B) Calculation
 
@@ -314,7 +314,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;&emsp;&emsp;&emsp;(II) planted but not harvested; or
 
-&emsp;&emsp;&emsp;&emsp;(III) prevented from being planted because of drought, flood, or other natural disaster, as determined by the Secretary; or
+&emsp;&emsp;&emsp;&emsp;(III) prevented from being planted because of drought, flood, or other naturaldisaster, as determined by the Secretary; or
 
 &emsp;&emsp;&emsp;(ii) in the case of a crop that is produced without a significant and variable harvesting expense, such rate as shall be determined by the Secretary.
 
@@ -350,7 +350,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;The coverage made available under this subsection shall be available to limited resource, beginning, and socially disadvantaged farmers, as determined by the Secretary, and veteran farmers or ranchers (as defined in section 2279(a) of this title) in exchange for a premium that is 50 percent of the premium determined under paragraph (2).
 
-(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114Stat. 371; Pub. L. 107–171, title X, §10101, May 13, 2002, 116 Stat. 488; Pub. L. 110–234, title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, May 22, 2008, 122 Stat. 1010, 1381, 1390; Pub. L. 110–246, §4(a), title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, June 18, 2008, 122 Stat. 1664, 1739, 2143, 2152; Pub. L. 113–79, title XI, §11014(b), title XII, §12305(a), Feb. 7, 2014, 128 Stat. 962, 986; Pub. L. 115–334, title I, §1601, title XII, §12306(f), Dec. 20, 2018, 132 Stat. 4523, 4970.)
+(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114 Stat. 371; Pub. L. 107–171, title X, §10101, May 13, 2002, 116 Stat. 488; Pub. L. 110–234, title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, May 22, 2008, 122 Stat. 1010, 1381, 1390; Pub. L. 110–246, §4(a), title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, June 18, 2008, 122 Stat. 1664, 1739, 2143, 2152; Pub. L. 113–79, title XI, §11014(b), title XII, §12305(a), Feb. 7, 2014, 128 Stat. 962, 986; Pub. L. 115–334, title I, §1601, title XII, §12306(f), Dec. 20, 2018, 132 Stat. 4523, 4970.)
 
 #### <b>Editorial Notes</b>
 
@@ -434,7 +434,7 @@ Subsec. (a)(4)(A)(ii). Pub. L. 113–79, §11014(b)(2), inserted " ,or the prod
 
 Subsec. (a)(4)(B). Pub. L. 113–79, §11014(b)(3)(A), substituted "Reduction in" for "Ineligibility for" in heading.
 
-Subsec. (a)(4)(B)(i). Pub. L. 113–79, §11014(b)(3)(B), added cl. (i) and struck out former cl. (i). Prior toamendment, text read as follows: "Subject to clause (ii) and subparagraph (C), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this paragraph shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
+Subsec. (a)(4)(B)(i). Pub. L. 113–79, §11014(b)(3)(B), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "Subject to clause (ii) and subparagraph (C), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this paragraph shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
 
 &emsp;"(I) this section; and
 
@@ -496,7 +496,7 @@ For losses under section 1501 of Public Law 113–79 \[enacting section 9081 of 
 
 #### Transition Provisions
 
-Pub. L. 110–234, title I, §1603(f)(2), May 22, 2008, 122 Stat. 1011, and Pub. L. 110–246, §4(a), title I, §1603(f)(2), June 18, 2008, 122 Stat. 1664, 1739, provided that: "Section 196(i) of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7333(i)), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crops of any eligible crop."
+Pub. L. 110–234, title I, §1603(f)(2), May 22, 2008, 122 Stat. 1011, and Pub. L. 110–246, §4(a), title I, §1603(f)(2),June 18, 2008, 122 Stat. 1664, 1739, provided that: "Section 196(i) of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7333(i)), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crops of any eligible crop."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

@@ -66,7 +66,7 @@ The Secretary may carry out studies and projects to—
 
 #### (d) Project justification
 
-Notwithstanding any requirement for economic justification established under section1962–2 of title 42, the Secretary may implement a project under this section if the Secretary determines that the project—
+Notwithstanding any requirement for economic justification established under section 1962–2 of title 42, the Secretary may implement a project under this section if the Secretary determines that the project—
 
 &emsp;(1) will significantly reduce potential flood, hurricane and storm, or erosion damages;
 
@@ -212,7 +212,7 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 
 #### Amendments
 
-<b>2022</b>—Pub. L. 117–263, §8103(a)(1), substituted "Shoreline and riverine protection and restoration" for"Flood mitigation and riverine restoration program" in section catchline.
+<b>2022</b>—Pub. L. 117–263, §8103(a)(1), substituted "Shoreline and riverine protection and restoration" for "Flood mitigation and riverine restoration program" in section catchline.
 
 Subsec. (a). Pub. L. 117–263, §8103(a)(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary may undertake a program for the purpose of conducting projects to reduce flood hazards and restore the natural functions and values of rivers throughout the United States."
 
@@ -232,7 +232,7 @@ Subsec. (c)(3). Pub. L. 117–263, §8103(a)(4)(C), inserted "or hurricane and s
 
 Subsec. (d). Pub. L. 117–263, §8103(a)(5), added subsec. (d) and struck out former subsec. (d) which related to project justification.
 
-Subsec. (e). Pub. L. 117–263, §8103(a)(6), substituted "Areas for Examination" for "Priority areas" in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, redesignated former pars. (1) to (33) as subpars. (AA) to (GG), respectively, of par. (1) and realigned margins, and added par. (2).
+Subsec. (e). Pub. L. 117–263, §8103(a)(6), substituted "Areas for Examination" for "Priority areas" in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, redesignated former pars. (1) to (33) as subpars. (A) to (GG), respectively, of par. (1) and realigned margins, and added par. (2).
 
 Subsec. (f). Pub. L. 117–263, §8103(a)(7), (8), redesignated subsec. (h) as (f) and struck out former subsec. (f) which related to program review.
 

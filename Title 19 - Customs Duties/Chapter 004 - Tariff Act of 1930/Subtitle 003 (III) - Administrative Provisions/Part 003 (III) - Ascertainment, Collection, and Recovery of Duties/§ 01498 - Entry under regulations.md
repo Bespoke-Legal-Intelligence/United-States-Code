@@ -6,7 +6,7 @@ The Secretary of the Treasury is authorized to prescribe rules and regulations f
 
 &emsp;(1) Merchandise, when—
 
-&emsp;&emsp;(A) the aggregate value of the shipment does not exceed an amount specified by the Secretary by regulation, but not more than $2,500; or
+&emsp;&emsp;(A) the aggregate value of the shipment does not exceed an amount specified by theSecretary by regulation, but not more than $2,500; or
 
 &emsp;&emsp;(B) different commercial facilitation and risk considerations that may vary for different classes or kinds of merchandise or different classes of transactions may dictate;
 

@@ -54,7 +54,7 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 &emsp;&emsp;&emsp;(i) within 18 months after June 22, 2009, promulgate regulations regarding the sale and distribution of tobacco products that occur through means other than a direct, face-to-face exchange between a retailer and a consumer in order to prevent the sale and distribution of tobacco products to individuals who have not attained the minimum age established by applicable law for the purchase of such products, including requirements for age verification; and
 
-&emsp;&emsp;&emsp;(ii) within 2 years after June 22, 2009, issue regulations to address the promotion and marketing of tobacco products thatare sold or distributed through means other than a direct, face-to-face exchange between a retailer and a consumer in order to protect individuals who have not attained the minimum age established by applicable law for the purchase of such products.
+&emsp;&emsp;&emsp;(ii) within 2 years after June 22, 2009, issue regulations to address the promotion and marketing of tobacco products that are sold or distributed through means other than a direct, face-to-face exchange between a retailer and a consumer in order to protect individuals who have not attained the minimum age established by applicable law for the purchase of such products.
 
 #### (B) Relation to other authority
 

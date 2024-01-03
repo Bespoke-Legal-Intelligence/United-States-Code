@@ -1,6 +1,6 @@
 ### §153703. Membership
 
-Except as provided in this chapter, eligibility for membership in the corporation and therights, privileges, and designation of classes of members are as provided in the constitution and bylaws of the corporation. Eligibility for membership is limited to—
+Except as provided in this chapter, eligibility for membership in the corporation and the rights, privileges, and designation of classes of members are as provided in the constitution and bylaws of the corporation. Eligibility for membership is limited to—
 
 &emsp;(1) women who are the wives, mothers, daughters, and sisters of Union soldiers, sailors, and marines; and
 

@@ -34,7 +34,7 @@
 
 &emsp;(B) conduct investigations, on and off the property in question, of offenses that may have been committed against property owned or occupied by the Postal Service or persons on the property.
 
-(4)(A) As to such property, the Postmaster General may prescribe regulations necessary for the protection and administration of property owned or occupied by the Postal Service and persons on the property. The regulations may include reasonable penalties, within the limits prescribed in subparagraph (B), for violations of the regulations. The regulations shall be posted and remain posted in a conspicuous place on the property.
+(4)(A) As to such property, the Postmaster General may prescribe regulations necessary for the protection and administration of property owned or occupied by the Postal Service and persons on the property. The regulations may include reasonable penalties, within the limits prescribed in subparagraph (B), for violations ofthe regulations. The regulations shall be posted and remain posted in a conspicuous place on the property.
 
 (B) A person violating a regulation prescribed under this subsection shall be fined under this title, imprisoned for not more than 30 days, or both.
 
@@ -54,7 +54,7 @@
 
 &emsp;"(2) make arrests without warrant for offenses against the United States committed in their presence; and
 
-&emsp;"(3) make arrests without warrant for felonies cognizable under the laws of the United States if they have reasonable grounds to believe that the person tobe arrested has committed or is committing such a felony.
+&emsp;"(3) make arrests without warrant for felonies cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such a felony.
 
 "(b) The powers granted by subsection (a) of this section shall be exercised only in the enforcement of laws regarding property of the United States in the custody of the Postal Service, including property of the Postal Service, the use of the mails, and other postal offenses."
 

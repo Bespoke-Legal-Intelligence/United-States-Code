@@ -26,7 +26,7 @@ A single transport region for ozone (within the meaning of section 7506a(a) of t
 
 &emsp;&emsp;(A) immediately publish in the Federal Register a notice stating that the recommendations are available and provide an opportunity for public hearing within 90 days beginning on the receipt date; and
 
-&emsp;&emsp;(B) commence a review of the recommendations to determine whether thecontrol measures in the recommendations are necessary to bring any area in such region into attainment by the dates provided by this subpart and are otherwise consistent with this chapter.
+&emsp;&emsp;(B) commence a review of the recommendations to determine whether the control measures in the recommendations are necessary to bring any area in such region into attainment by the dates provided by this subpart and are otherwise consistent with this chapter.
 
 #### (3) Consultation
 
@@ -42,7 +42,7 @@ A single transport region for ozone (within the meaning of section 7506a(a) of t
 
 #### (5) Finding
 
-&emsp;Upon approval or partial approval of recommendations submitted by a commission, the Administrator shall issue to each State which is included in the transport region and to which a requirement of the approved plan applies, a finding under section 7410(k)(5) of this title that the implementation plan for such State is inadequate to meet the requirements of section 7410(a)(2)(D) of this title. Such finding shall require each such State to revise its implementation plan to include the approved additional control measures within one year after the finding is issued.
+&emsp;Upon approval or partial approval of recommendations submitted by a commission, the Administrator shall issue to each State which is included in the transport region and to which a requirement of the approved planapplies, a finding under section 7410(k)(5) of this title that the implementation plan for such State is inadequate to meet the requirements of section 7410(a)(2)(D) of this title. Such finding shall require each such State to revise its implementation plan to include the approved additional control measures within one year after the finding is issued.
 
 #### (d) Best available air quality monitoring and modeling
 

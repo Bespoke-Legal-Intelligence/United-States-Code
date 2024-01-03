@@ -16,7 +16,7 @@ Prior section 1905, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1216; Pub. L. 90�
 
 <b>1986</b>—Pub. L. 99–576 substituted "the" for "his" in three places and "the insured" for "him".
 
-<b>1970</b>—Pub. L. 91–291 made it a requirement for renewal of lapsed policies that the insured make application for reinstatement and renewal of his term policy within five years after the date of lapse and struck out provision that the lapse occur within two months before the expiration of the term period.
+<b>1970</b>—Pub. L. 91–291 made it a requirement for renewal of lapsed policies that the insured make application for reinstatement and renewal of his term policywithin five years after the date of lapse and struck out provision that the lapse occur within two months before the expiration of the term period.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

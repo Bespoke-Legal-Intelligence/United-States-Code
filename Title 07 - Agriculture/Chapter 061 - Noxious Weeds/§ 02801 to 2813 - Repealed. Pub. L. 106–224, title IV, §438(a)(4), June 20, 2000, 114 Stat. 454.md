@@ -6,7 +6,7 @@ Section 2802, Pub. L. 93–629, §3, Jan. 3, 1975, 88 Stat. 2148; Pub. L. 105–
 
 Section 2803, Pub. L. 93–629, §4, Jan. 3, 1975, 88 Stat. 2149; Pub. L. 100–449, title III, §301(f)(4), Sept. 28, 1988, 102 Stat. 1869; Pub. L. 103–465, title IV, §431(f), Dec. 8, 1994, 108 Stat. 4968, prohibited movement of noxious weeds into or through the United States or interstate, unless in accordance with regulations to prevent dissemination.
 
-Section 2804, Pub. L. 93–629, §5, Jan. 3, 1975, 88 Stat. 2149, authorized promulgation of quarantines and other regulations requiring inspection of articles and means of conveyance.
+Section 2804, Pub. L. 93–629, §5, Jan. 3, 1975, 88 Stat. 2149, authorized promulgation of quarantines and otherregulations requiring inspection of articles and means of conveyance.
 
 Section 2805, Pub. L. 93–629, §6, Jan. 3, 1975, 88 Stat. 2149, authorized Secretary of Agriculture to seize, quarantine, treat, destroy, or otherwise dispose of infested articles or means of conveyance.
 

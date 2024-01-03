@@ -16,7 +16,7 @@
 
 &emsp;(B) the requesting Indian tribe or Native Hawaiian organization can show that the object was owned or controlled by the tribe or organization; or
 
-&emsp;(C) the requesting Indian tribe or Native Hawaiian organization can show that the sacredobject was owned or controlled by a member thereof, provided that in the case where a sacred object was owned by a member thereof, there are no identifiable lineal descendants of said member or the lineal descendants, upon notice, have failed to make a claim for the object under this chapter.
+&emsp;(C) the requesting Indian tribe or Native Hawaiian organization can show that the sacred object was owned or controlled by a member thereof, provided that in the case where a sacred object was owned by a member thereof, there are no identifiable lineal descendants of said member or the lineal descendants, upon notice, have failed to make a claim for the object under this chapter.
 
 #### (b) Scientific study
 
@@ -24,7 +24,7 @@ If the lineal descendant, Indian tribe, or Native Hawaiian organization requests
 
 #### (c) Standard of repatriation
 
-If a known lineal descendant or an Indian tribe or Native Hawaiian organization requests the return of Native American unassociated funerary objects, sacred objects or objects of cultural patrimony pursuant to this chapter and presents evidence which, if standing alone before the introduction of evidence to the contrary, would support a finding that the Federal agency or museum did not have the right of possession, then such agency or museum shall return such objects unless it can overcome such inference and prove that it has a right of possession to the objects.
+If a known lineal descendant or an Indian tribe or Native Hawaiian organization requests the return of Native American unassociated funerary objects, sacred objects or objects of cultural patrimony pursuant to this chapter andpresents evidence which, if standing alone before the introduction of evidence to the contrary, would support a finding that the Federal agency or museum did not have the right of possession, then such agency or museum shall return such objects unless it can overcome such inference and prove that it has a right of possession to the objects.
 
 #### (d) Sharing of information by Federal agencies and museums
 

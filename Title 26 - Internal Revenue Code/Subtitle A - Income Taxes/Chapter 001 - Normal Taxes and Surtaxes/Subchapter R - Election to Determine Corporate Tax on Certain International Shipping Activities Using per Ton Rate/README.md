@@ -9,7 +9,7 @@
 | [1356\.](%C2%A7%2001356%20-%20Qualifying%20shipping%20activities.md) | Qualifying shipping activities. |
 | [1357\.](%C2%A7%2001357%20-%20Items%20not%20subject%20to%20regular%20tax%3B%20depreciation%3B%20interest.md) | Items not subject to regular tax; depreciation; interest. |
 | [1358\.](%C2%A7%2001358%20-%20Allocation%20of%20credits%2C%20income%2C%20and%20deductions.md) | Allocation of credits, income, and deductions. |
-| [1359\.](%C2%A7%2001359%20-%20Disposition%20of%20qualifying%20vessels.md) | Disposition of qualifying vessels. |
+| [1359\.](%C2%A7%2001359%20-%20Disposition%20of%20qualifying%20vessels.md) | Disposition of qualifying vessels.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

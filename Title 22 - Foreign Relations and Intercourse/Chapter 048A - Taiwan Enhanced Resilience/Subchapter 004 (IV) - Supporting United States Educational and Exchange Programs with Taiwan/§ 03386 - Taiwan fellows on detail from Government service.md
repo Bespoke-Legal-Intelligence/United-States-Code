@@ -36,7 +36,7 @@ A detailee—
 
 #### (1) In general
 
-&emsp;The Federal agency from which a detailee is detailed should provide the fellow allowances and benefits that are consistent with Department of State Standardized Regulations or other applicable rules and regulations, including—
+&emsp;The Federal agency from which a detailee is detailed should provide the fellow allowancesand benefits that are consistent with Department of State Standardized Regulations or other applicable rules and regulations, including—
 
 &emsp;&emsp;(A) a living quarters allowance to cover the cost of housing in Taiwan;
 

@@ -6,7 +6,7 @@ Repetitive Nonstandard Contract Clauses Discouraged.—The Council shall prescri
 
 &emsp;(1) clearly define what types of contract clauses are to be treated as nonstandard clauses; and
 
-&emsp;(2) require prior approval for the use of a nonstandard clause on a repetitive basis by anofficial at a level of responsibility above the contracting officer.
+&emsp;(2) require prior approval for the use of a nonstandard clause on a repetitive basis by an official at a level of responsibility above the contracting officer.
 
 (b)
 

@@ -46,7 +46,7 @@ In this section:
 
 &emsp;(2) The term "weapons activities funds" means funds appropriated to the Department of Energy pursuant to an authorization for carrying out weapons activities necessary for national security programs.
 
-(Pub. L. 107–314, div. D, title XLVII, §4711, formerly div. C, title XXXVI, §3630, Dec. 2, 2002, 116Stat. 2761; renumbered div. D, title XLVII, §4711, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), (D)(v), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–66, div. C, title XXXI, §3146(h)(3), Dec. 26, 2013, 127 Stat. 1081.)
+(Pub. L. 107–314, div. D, title XLVII, §4711, formerly div. C, title XXXVI, §3630, Dec. 2, 2002, 116 Stat. 2761; renumbered div. D, title XLVII, §4711, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), (D)(v), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–66, div. C, title XXXI, §3146(h)(3), Dec. 26, 2013, 127 Stat. 1081.)
 
 #### <b>Editorial Notes</b>
 

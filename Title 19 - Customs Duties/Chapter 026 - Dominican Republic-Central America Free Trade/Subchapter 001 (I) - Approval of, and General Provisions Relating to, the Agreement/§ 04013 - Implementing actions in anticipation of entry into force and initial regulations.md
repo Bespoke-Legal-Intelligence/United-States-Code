@@ -14,7 +14,7 @@
 
 #### (2) Effective date of certain proclaimed actions
 
-&emsp;Any action proclaimed by the President under the authority of this chapter that is notsubject to the consultation and layover provisions under section 4014 of this title may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
+&emsp;Any action proclaimed by the President under the authority of this chapter that is not subject to the consultation and layover provisions under section 4014 of this title may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
 
 #### (3) Waiver of 15-day restriction
 
@@ -34,7 +34,7 @@ Initial regulations necessary or appropriate to carry out the actions required b
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (2) and (b), was in the original "this Act", meaning Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (2) and (b), was in the original "this Act", meaning Pub. L. 109–53,Aug. 2, 2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

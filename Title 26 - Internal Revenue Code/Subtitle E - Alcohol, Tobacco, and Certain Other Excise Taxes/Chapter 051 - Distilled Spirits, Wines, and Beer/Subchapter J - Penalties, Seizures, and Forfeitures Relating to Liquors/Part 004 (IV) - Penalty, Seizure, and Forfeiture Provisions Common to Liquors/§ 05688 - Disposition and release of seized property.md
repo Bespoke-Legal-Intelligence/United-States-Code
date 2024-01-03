@@ -10,7 +10,7 @@
 
 &emsp;The Administrator of General Services shall dispose of all distilled spirits, wines, and beer which have been delivered to him pursuant to paragraph (1)—
 
-&emsp;&emsp;(A) by delivery to such Government agencies as, in his opinion, have a need for such distilled spirits, wines, or beer for medicinal, scientific, or mechanical purposes, or for any other official purpose for which appropriated funds may be expended by a Government agency; or
+&emsp;&emsp;(A) by delivery to such Government agencies as, in his opinion, have a need for such distilled spirits, wines, or beer for medicinal, scientific, or mechanical purposes, or forany other official purpose for which appropriated funds may be expended by a Government agency; or
 
 &emsp;&emsp;(B) by gifts to such eleemosynary institutions as, in his opinion, have a need for such distilled spirits, wines, or beer for medicinal purposes; or
 

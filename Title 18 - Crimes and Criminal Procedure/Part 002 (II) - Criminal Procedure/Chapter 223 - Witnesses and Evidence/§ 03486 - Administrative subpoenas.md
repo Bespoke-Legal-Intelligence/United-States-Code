@@ -8,7 +8,7 @@ Authorization.—(1)(A) In any investigation of—
 
 &emsp;(ii) an unregistered sex offender conducted by the United States Marshals Service, the Director of the United States Marshals Service; or
 
-&emsp;(iii) an offense under section 871 or 879, or a threat against a person protected by the United States Secret Service under paragraph (5) or (6) of section 3056,<sup>1</sup> if the Director of theSecret Service determines that the threat constituting the offense or the threat against the person protected is imminent, the Secretary of the Treasury,
+&emsp;(iii) an offense under section 871 or 879, or a threat against a person protected by the United States Secret Service under paragraph (5) or (6) of section 3056,<sup>1</sup> if the Director of the Secret Service determines that the threat constituting the offense or the threat against the person protected is imminent, the Secretary of the Treasury,
 
 > may issue in writing and cause to be served a subpoena requiring the production and testimony described in subparagraph (B).
 
@@ -130,7 +130,7 @@ Subsec. (a)(1). Pub. L. 105–277 inserted "or any act or activity involving a F
 
 #### Transfer of Functions
 
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security,and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "3056(a),".</i>
 

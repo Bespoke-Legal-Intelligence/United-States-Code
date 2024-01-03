@@ -44,7 +44,7 @@ Appeals.—(1) An individual whose application for the issuance or renewal of an
 
 &emsp;(B) was revoked within one year from the date of the denial.
 
-(2) The Board shall conduct a hearing on the appeal at a place convenient to the place of residence or employment of the applicant. The Board is not bound by findings of fact of the Administrator of the Federal Aviation Administration. At the end of the hearing, the Board shalldecide whether the individual meets the applicable regulations and standards. The Administrator is bound by that decision.
+(2) The Board shall conduct a hearing on the appeal at a place convenient to the place of residence or employment of the applicant. The Board is not bound by findings of fact of the Administrator of the Federal Aviation Administration. At the end of the hearing, the Board shall decide whether the individual meets the applicable regulations and standards. The Administrator is bound by that decision.
 
 (3) A person who is substantially affected by an order of the Board under this subsection, or the Administrator if the Administrator decides that an order of the Board will have a significant adverse impact on carrying out this subtitle, may seek judicial review of the order under section 46110. The Administrator shall be made a party to the judicial review proceedings. The findings of fact of the Board in any such case are conclusive if supported by substantial evidence.
 
@@ -116,7 +116,7 @@ Air carrier and other records.—From any air carrier or other person (except a 
 
 &emsp;&emsp;&emsp;&emsp;(V) section 135.63(a)(4) of such title; and
 
-&emsp;&emsp;&emsp;(ii) other records pertaining to the individual's performance as a pilot that aremaintained by the air carrier or person concerning—
+&emsp;&emsp;&emsp;(ii) other records pertaining to the individual's performance as a pilot that are maintained by the air carrier or person concerning—
 
 &emsp;&emsp;&emsp;&emsp;(I) the training, qualifications, proficiency, or professional competence of the individual, including comments and evaluations made by a check airman designated in accordance with section 121.411, 125.295, or 135.337 of such title;
 
@@ -186,13 +186,13 @@ Right of pilot to review certain records.—Notwithstanding any other provision 
 
 &emsp;(11)
 
-Privacy protections.—An air carrier that receives the records of an individual under paragraph (1) may use such records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the pilot and the confidentiality of the records, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+Privacy protections.—An air carrier that receives the records of an individual under paragraph (1) may use such records only to assess the qualifications of the individual indeciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the pilot and the confidentiality of the records, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
 
 &emsp;(12)
 
 Periodic review.—Not later than 18 months after the date of the enactment of the Pilot Records Improvement Act of 1996, and at least once every 3 years thereafter, the Administrator shall transmit to Congress a statement that contains, taking into account recent developments in the aviation industry—
 
-&emsp;&emsp;(A) recommendations by the Administrator concerning proposed changes to Federal Aviation Administration records, aircarrier records, and other records required to be furnished under subparagraphs (A) and (B) of paragraph (1); or
+&emsp;&emsp;(A) recommendations by the Administrator concerning proposed changes to Federal Aviation Administration records, air carrier records, and other records required to be furnished under subparagraphs (A) and (B) of paragraph (1); or
 
 &emsp;&emsp;(B) reasons why the Administrator does not recommend any proposed changes to the records referred to in subparagraph (A).
 
@@ -384,7 +384,7 @@ Exceptions.—Clause (i) shall not apply to—
 
 Periodic review.—Not later than 18 months after the date of enactment of this paragraph, and at least once every 3 years thereafter, the Administrator shall transmit to Congress a statement that contains, taking into account recent developments in the aviation industry—
 
-&emsp;&emsp;(A) recommendations by the Administrator concerning proposed changes to Federal Aviation Administration records, aircarrier records, and other records required to be included in the database under paragraph (2); or
+&emsp;&emsp;(A) recommendations by the Administrator concerning proposed changes to Federal Aviation Administration records, air carrier records, and other records required to be included in the database under paragraph (2); or
 
 &emsp;&emsp;(B) reasons why the Administrator does not recommend any proposed changes to the records referred to in subparagraph (A).
 
@@ -900,7 +900,7 @@ Medical Education Course Requirements.—The medical education course described 
 
 &emsp;&emsp;&emsp;"(iv) a certification by the individual that the checklist described in subsection (b) was followed and signed by the physician in the comprehensive medical examination required in subsection (a)(7); and
 
-&emsp;&emsp;"(E) a statement, which shall be printed, and signed by the individual certifying that the individual understands the existing prohibition on operations during medical deficiency by stating: 'I understand that I cannot act as pilot in command, or any other capacity as a required flight crew member, if I know or have reason to know of any medical condition that would make me unable to operate the aircraft in a safe manner.'.
+&emsp;&emsp;"(E) a statement, which shall be printed, and signed by the individual certifying that the individual understands the existing prohibition on operations during medical deficiency by stating: 'I understand that I cannot act as pilot in command,or any other capacity as a required flight crew member, if I know or have reason to know of any medical condition that would make me unable to operate the aircraft in a safe manner.'.
 
 "(d)
 
@@ -1028,7 +1028,7 @@ Report Required.—Not later than 5 years after the date of enactment of this Ac
 
 "(i)
 
-Prohibition on Enforcement Actions.—Beginning on the date that is 1 year after the date of enactment of this Act, the Administrator may not take an enforcement action for not holding a valid third-class medical certificate against a pilot of a covered aircraft for a flight if the pilot and the flight meet, through a good faith effort, the applicable requirements under subsection (a), except paragraph (5) of that subsection, unless the Administrator has published final regulations in the Federal Register under that subsection.
+Prohibition on Enforcement Actions.—Beginning on the date that is 1 year after the date of enactment of this Act, the Administrator may not take an enforcement action for not holding a valid third-class medical certificate against a pilot of a covered aircraftfor a flight if the pilot and the flight meet, through a good faith effort, the applicable requirements under subsection (a), except paragraph (5) of that subsection, unless the Administrator has published final regulations in the Federal Register under that subsection.
 
 "(j)
 
@@ -1052,7 +1052,7 @@ In general.—If the Administrator receives credible or urgent information, incl
 
 &emsp;"(2)
 
-Use of information.—The Administrator may use credible or urgent information received underparagraph (1) to request an individual to provide additional information or to take actions under section 44709(b) of title 49, United States Code."
+Use of information.—The Administrator may use credible or urgent information received under paragraph (1) to request an individual to provide additional information or to take actions under section 44709(b) of title 49, United States Code."
 
 #### Federal Aviation Administration Enforcement Proceedings and Elimination of Deference
 
@@ -1276,7 +1276,7 @@ Goals of the Federal Aviation Administration's Medical Certification Process.—
 
 "(c)
 
-Advice From Private Sector Groups.—The Administrator shall establish a panel, which shall be comprised of representatives of relevant nonprofit and not-for-profit general aviation pilot groups, aviation medical examiners, and other qualified medical experts, to advise the Administrator in carrying out the goals of the assessment required under this section.
+Advice From Private Sector Groups.—The Administrator shall establish a panel, which shall be comprised of representatives of relevant nonprofit and not-for-profit general aviation pilot groups, aviation medical examiners, and other qualified medical experts, toadvise the Administrator in carrying out the goals of the assessment required under this section.
 
 "(d)
 

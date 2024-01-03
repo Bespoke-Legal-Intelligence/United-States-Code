@@ -20,11 +20,13 @@ Subject to subsections (g), (i), and (j), the State plan shall provide that in t
 
 &emsp;&emsp;(F) any in vitro diagnostic product described in section 1396d(a)(3)(B) of this title that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product),
 
-&emsp;&emsp;(G) COVID–19 testing-related services for which payment may be made under the State plan <sup>1</sup>
+&emsp;&emsp;(G) COVID–19 testing-related services for which payment may be made under the State plan,
 
-&emsp;&emsp;(H) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, a COVID–19 vaccine and the administration of such vaccine (for any individual eligible for medical assistance for such vaccine (and administration)); <sup>2</sup> or
+&emsp;&emsp;(H) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, a COVID–19 vaccine and the administration of such vaccine (for any individual eligible for medical assistance for such vaccine (and administration)),
 
-&emsp;&emsp;(I) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan); and
+&emsp;&emsp;(I) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan), or
+
+&emsp;&emsp;(J) vaccines described in section 1396d(a)(13)(B) of this title and the administration of such vaccines; and
 
 &emsp;(3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of "nominal" under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
 
@@ -48,11 +50,13 @@ The State plan shall provide that in the case of individuals other than those de
 
 &emsp;&emsp;(F) any in vitro diagnostic product described in section 1396d(a)(3)(B) of this title that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product),
 
-&emsp;&emsp;(G) COVID–19 testing-related services for which payment may be made under the State plan <sup>1</sup>
+&emsp;&emsp;(G) COVID–19 testing-related services for which payment may be made under the State plan,
 
-&emsp;&emsp;(H) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency perioddescribed in section 1320b–5(g)(1)(B) of this title, a COVID–19 vaccine and the administration of such vaccine (for any individual eligible for medical assistance for such vaccine (and administration)); <sup>2</sup> or
+&emsp;&emsp;(H) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency perioddescribed in section 1320b–5(g)(1)(B) of this title, a COVID–19 vaccine and the administration of such vaccine (for any individual eligible for medical assistance for such vaccine (and administration)),
 
-&emsp;&emsp;(I) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan); <sup>2</sup> and
+&emsp;&emsp;(I) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan), or
+
+&emsp;&emsp;(J) vaccines described in section 1396d(a)(13)(B) of this title and the administration of such vaccines; and
 
 &emsp;(3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of "nominal" under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
 
@@ -138,37 +142,7 @@ In applying this section and subsections (c) and (e) of section 1396o–1 of thi
 
 &emsp;Nothing in this subsection shall be construed as restricting the application of any other limitations on the imposition of premiums or cost sharing that may apply to an individual receiving medical assistance under this subchapter who is an Indian.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1916, as added Pub. L. 97–248, title I, §131(b), Sept. 3, 1982, 96 Stat. 367; amended Pub. L. 97–448, title III, §309(b)(18)–(20), Jan. 12, 1983, 96 Stat. 2409, 2410; Pub. L. 99–272, title IX, §9505(c)(2), Apr. 7, 1986, 100 Stat. 209; Pub. L. 99–509, title IX, §9403(g)(4)(B), Oct. 21, 1986, 100 Stat. 2056; Pub. L.100–203, title IV, §§4101(d)(1), 4211(h)(11), Dec. 22, 1987, 101 Stat. 1330–142, 1330–207; Pub. L. 100–360, title IV, §411(k)(2), July 1, 1988, 102 Stat. 791; Pub. L. 101–239, title VI, §6408(d)(3), Dec. 19, 1989, 103 Stat. 2269; Pub. L. 105–33, title IV, §4708(b), Aug. 5, 1997, 111 Stat. 506; Pub. L. 106–170, title II, §201(a)(3), Dec. 17, 1999, 113 Stat. 1893; Pub. L. 109–171, title VI, §§6041(b), 6062(b), Feb. 8, 2006, 120 Stat. 84, 98; Pub. L. 111–5, div. B, title V, §5006(a)(1), Feb. 17, 2009, 123 Stat. 505; Pub. L. 111–148, title IV, §4107(c)(1), Mar. 23, 2010, 124 Stat. 561; Pub. L. 116–127, div. F, §6004(a)(2)(A), Mar. 18, 2020, 134 Stat. 204; Pub. L. 117–2, title IX, §9811(a)(3)(A), Mar. 11, 2021, 135 Stat. 209; Pub. L. 117–169, title I, §11405(a)(2)(A), Aug. 16, 2022, 136 Stat. 1900.)
-
-#### Amendment of Section
-
-<i>Pub. L. 117–169, title I, §11405(a)(2)(A), (c), Aug. 16, 2022, 136 Stat. 1900, 1901, provided that, effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022, and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(2):</i>
-
-<i>(A) in subparagraph (G), by inserting a comma after "State plan";</i>
-
-<i>(B) in subparagraph (H), by striking "; or" and inserting a comma;</i>
-
-<i>(C) in subparagraph (I), by striking "; and" and inserting ", or"; and</i>
-
-<i>(D) by adding at the end the following new subparagraph:</i>
-
-&emsp;&emsp;<i>"(J) vaccines described in section 1396d(a)(13)(B) of this title and the administration of such vaccines; and"; and</i>
-
-<i>(2) in subsection (b)(2):</i>
-
-<i>(A) in subparagraph (G), by inserting a comma after "State plan";</i>
-
-<i>(B) in subparagraph (H), by striking "; or" and inserting a comma;</i>
-
-<i>(C) in subparagraph (I), by striking "; and" and inserting ", or"; and</i>
-
-<i>(D) by adding at the end the following new subparagraph:</i>
-
-&emsp;&emsp;<i>"(J) vaccines described in section 1396d(a)(13)(B) of this title and the administration of such vaccines; and".</i>
-
-<i>See 2022 Amendment notes below.</i>
+(Aug. 14, 1935, ch. 531, title XIX, §1916, as added Pub. L. 97–248, title I, §131(b), Sept. 3, 1982, 96Stat. 367; amended Pub. L. 97–448, title III, §309(b)(18)–(20), Jan. 12, 1983, 96 Stat. 2409, 2410; Pub. L. 99–272, title IX, §9505(c)(2), Apr. 7, 1986, 100 Stat. 209; Pub. L. 99–509, title IX, §9403(g)(4)(B), Oct. 21, 1986, 100 Stat. 2056; Pub. L. 100–203, title IV, §§4101(d)(1), 4211(h)(11), Dec. 22, 1987, 101 Stat. 1330–142, 1330–207; Pub. L. 100–360, title IV, §411(k)(2), July 1, 1988, 102 Stat. 791; Pub. L. 101–239, title VI, §6408(d)(3), Dec. 19, 1989, 103 Stat. 2269; Pub. L. 105–33, title IV, §4708(b), Aug. 5, 1997, 111 Stat. 506; Pub. L. 106–170, title II, §201(a)(3), Dec. 17, 1999, 113 Stat. 1893; Pub. L. 109–171, title VI, §§6041(b), 6062(b), Feb. 8, 2006, 120 Stat. 84, 98; Pub. L. 111–5, div. B, title V, §5006(a)(1), Feb. 17, 2009, 123 Stat. 505; Pub. L. 111–148, title IV, §4107(c)(1), Mar. 23, 2010, 124 Stat. 561; Pub. L. 116–127, div. F, §6004(a)(2)(A), Mar. 18, 2020, 134 Stat. 204; Pub. L. 117–2, title IX, §9811(a)(3)(A), Mar. 11, 2021, 135 Stat. 209; Pub. L. 117–169, title I, §11405(a)(2)(A), Aug. 16, 2022, 136 Stat. 1900.)
 
 #### <b>Editorial Notes</b>
 
@@ -299,8 +273,4 @@ Pub. L. 97–248, title I, §131(d), formerly §131(c), Sept. 3, 1982, 96 Stat. 
 #### Applicability of 2020 Amendment to Territories
 
 Pub. L. 116–127, div. F, §6004(a)(2)(C), Mar. 18, 2020, 134 Stat. 205, provided that: "The amendments made \[by\] this paragraph \[amending this section and section 1396o–1 of this title\] shall apply with respect to a State plan of a territory in the same manner as a State plan of one of the 50 States."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>2</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

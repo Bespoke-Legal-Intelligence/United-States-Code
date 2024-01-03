@@ -62,6 +62,10 @@ This section was enacted as part of the HBCU Propelling Agency Relationships Tow
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Findings and Purposes
 
 Pub. L. 116–270, §2, Dec. 31, 2020, 134 Stat. 3325, provided that:

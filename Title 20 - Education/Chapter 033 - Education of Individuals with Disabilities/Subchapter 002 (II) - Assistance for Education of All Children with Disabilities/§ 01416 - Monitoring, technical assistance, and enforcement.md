@@ -84,7 +84,7 @@
 
 #### (I) Public report
 
-&emsp;&emsp;&emsp;&emsp;The State shall report annually to the public on the performance of each local educational agency located in the State on the targets in the State's performance plan. The State shall make the State's performance plan available through public means, including by posting on the website of the State educational agency, distribution to the media, and distribution through public agencies.
+&emsp;&emsp;&emsp;&emsp;The State shall report annually to the public on the performance of each local educational agency located in the State on the targets in the State's performance plan. The State shall make theState's performance plan available through public means, including by posting on the website of the State educational agency, distribution to the media, and distribution through public agencies.
 
 #### (II) State performance report
 
@@ -216,7 +216,7 @@
 
 #### (5) Report to Congress
 
-&emsp;The Secretary shall report to the Committee on Education and the Workforce of the Houseof Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate within 30 days of taking enforcement action pursuant to paragraph (1), (2), or (3), on the specific action taken and the reasons why enforcement action was taken.
+&emsp;The Secretary shall report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate within 30 days of taking enforcement action pursuant to paragraph (1), (2), or (3), on the specific action taken and the reasons why enforcement action was taken.
 
 #### (6) Nature of withholding
 
@@ -291,10 +291,4 @@ The General Education Provisions Act, referred to in subsec. (g), is title IV of
 A prior section 1416, Pub. L. 91–230, title VI, §616, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 99, related to withholding of payments and judicial review, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1416, Pub. L. 91–230, title VI, §616, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 789; amended Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, §102(f), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101–476, title IX, §901(b)(76), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to withholding of payments, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

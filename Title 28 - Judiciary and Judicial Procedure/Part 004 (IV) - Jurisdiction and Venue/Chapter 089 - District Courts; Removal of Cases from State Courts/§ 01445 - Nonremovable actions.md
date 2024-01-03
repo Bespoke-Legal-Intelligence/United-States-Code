@@ -6,9 +6,9 @@
 
 (c) A civil action in any State court arising under the workmen's compensation laws of such State may not be removed to any district court of the United States.
 
-(d) A civil action in any State court arising under section 40302 of the Violence AgainstWomen Act of 1994 may not be removed to any district court of the United States.
+(d) A civil action in any State court arising under section 40302 of the Violence Against Women Act of 1994 may not be removed to any district court of the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 939; Pub. L. 85–554, §5, July 25, 1958, 72 Stat. 415; Pub. L. 95–473, §2(a)(3)(A), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 95–486, §9(b), Oct. 20, 1978, 92 Stat. 1634; Pub. L. 103–322, title IV, §40302(e)(5), Sept. 13, 1994, 108 Stat. 1942; Pub. L. 104–88, title III, §305(b), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–287, §3, Oct. 11, 1996, 110 Stat. 3388.)
+(June 25, 1948, ch. 646, 62 Stat. 939; Pub. L. 85–554, §5, July 25, 1958, 72 Stat. 415; Pub. L. 95–473, §2(a)(3)(A), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 95–486, §9(b), Oct. 20, 1978, 92 Stat. 1634; Pub. L. 103–322, title IV, §40302(e)(5), Sept. 13, 1994, 108Stat. 1942; Pub. L. 104–88, title III, §305(b), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–287, §3, Oct. 11, 1996, 110 Stat. 3388.)
 
 #### Historical and Revision Notes
 

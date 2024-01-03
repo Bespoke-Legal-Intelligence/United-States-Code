@@ -62,7 +62,7 @@ Types of Legal Assistance Authorized.—The types of legal assistance authorized
 
 &emsp;&emsp;(C) in understanding the availability of, and obtaining any protections offered by, civilian and military protecting or restraining orders; and
 
-&emsp;&emsp;(D) in understanding the eligibility and requirements for, and obtaining, any available military and veteran benefits, such as transitional compensation benefits found in section 1059 of this title, section 1408(h) of this title, and other State and Federal victims' compensation programs.
+&emsp;&emsp;(D) in understanding the eligibility and requirements for, and obtaining, any availablemilitary and veteran benefits, such as transitional compensation benefits found in section 1059 of this title, section 1408(h) of this title, and other State and Federal victims' compensation programs.
 
 &emsp;(9) Legal consultation and assistance in connection with—
 
@@ -120,13 +120,13 @@ Administrative Responsibility.—(1) Consistent with the regulations prescribed 
 
 (f)
 
-Availability of Special Victims' Counsel.—(1) An individual described in subsection (a)(2) who is the victim of an alleged sex-related offense shall be offered the option of receiving assistance from a Special Victims' Counsel upon report of an alleged sex-related offense or at the time the victim seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, a trial counsel, ahealthcare provider, or any other personnel designated by the Secretary concerned for purposes of this subsection.
+Availability of Special Victims' Counsel.—(1) An individual described in subsection (a)(2) who is the victim of an alleged sex-related offense shall be offered the option of receiving assistance from a Special Victims' Counsel upon report of an alleged sex-related offense or at the time the victim seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, a trial counsel, a healthcare provider, or any other personnel designated by the Secretary concerned for purposes of this subsection.
 
 (2) Subject to such exceptions for exigent circumstances as the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating may prescribe, notice of the availability of a Special Victims' Counsel shall be provided to an individual described in subsection (a)(2) before any military criminal investigator or trial counsel interviews, or requests any statement from, the individual regarding the alleged sex-related offense.
 
 (3) The assistance of a Special Victims' Counsel under this subsection shall be available to an individual described in subsection (a)(2) regardless of whether the individual elects unrestricted or restricted reporting of the alleged sex-related offense. The individual shall also be informed that the assistance of a Special Victims' Counsel may be declined, in whole or in part, but that declining such assistance does not preclude the individual from subsequently requesting the assistance of a Special Victims' Counsel.
 
-(4)(A) Subject to subparagraph (B), if a Special Victims' Counsel is not available at a military installation for access by a member of the armed forces who requests access to a Special Victims' Counsel, a Special Victims' Counsel shall be made available at such installation for access by such member by not later than 72 hours after such request.
+(4)(A) Subject to subparagraph (B), if a Special Victims' Counsel is not available at a military installation for access by a member of the armed forces who requests access to a SpecialVictims' Counsel, a Special Victims' Counsel shall be made available at such installation for access by such member by not later than 72 hours after such request.
 
 (B) If the Secretary concerned determines that, due to exigent circumstances related to military activities, a Special Victims' Counsel cannot be made available to a member of the armed forces within the time period required by subparagraph (A), the Secretary concerned shall ensure that a Special Victims' Counsel is made available to such member as soon as is practical under such circumstances.
 
@@ -196,7 +196,7 @@ Subsec. (f). Pub. L. 113–291, §533(b), substituted "described in subsection (
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) ofPub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 #### Civilian Positions To Support Special Victims' Counsel
 
@@ -304,7 +304,7 @@ Notice to appropriate jurisdiction of victim's preference for civilian prosecuti
 
 &emsp;"(4)
 
-Notice to victim of status of civilian prosecution when victim expresses preference for civilian prosecution.—Following notification of the civilian authority with jurisdiction over an allegedsex-related offense of the preference of the victim of the offense for prosecution of the offense in a civilian court, the convening authority shall be responsible for notifying the victim if the convening authority learns of any decision by the civilian authority to prosecute or not prosecute the offence in a civilian court.
+Notice to victim of status of civilian prosecution when victim expresses preference for civilian prosecution.—Following notification of the civilian authority with jurisdiction over an alleged sex-related offense of the preference of the victim of the offense for prosecution of the offense in a civilian court, the convening authority shall be responsible for notifying the victim if the convening authority learns of any decision by the civilian authority to prosecute or not prosecute the offence in a civilian court.
 
 "(c)
 
@@ -324,7 +324,7 @@ Definitions.—In this section:
 
 #### Implementation
 
-Pub. L. 113–66, div. A, title XVII, §1716(a)(4), Dec. 26, 2013, 127 Stat. 969, provided that: "Section 1044e of title 10, United States Code, as added by paragraph (1), shall be implemented within 180 days after the date of the enactment of this Act \[Dec. 26, 2013\]."
+Pub. L. 113–66, div. A, title XVII, §1716(a)(4), Dec. 26, 2013, 127 Stat. 969, provided that: "Section 1044e of title10, United States Code, as added by paragraph (1), shall be implemented within 180 days after the date of the enactment of this Act \[Dec. 26, 2013\]."
 
 #### Enhanced Training Requirement
 

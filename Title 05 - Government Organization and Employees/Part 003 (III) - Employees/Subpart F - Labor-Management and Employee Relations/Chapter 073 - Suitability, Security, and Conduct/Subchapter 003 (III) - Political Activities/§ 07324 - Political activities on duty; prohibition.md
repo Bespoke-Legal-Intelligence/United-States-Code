@@ -10,7 +10,7 @@
 
 &emsp;(4) using any vehicle owned or leased by the Government of the United States or any agency or instrumentality thereof.
 
-(b)(1) An employee described in paragraph (2) of this subsection may engage in political activity otherwise prohibited by subsection (a) if the costs associated with that political activity are not paid for by money derived from the Treasury of the United States.
+(b)(1) An employee described in paragraph (2) of this subsection may engage in political activity otherwise prohibited by subsection (a) if thecosts associated with that political activity are not paid for by money derived from the Treasury of the United States.
 
 (2) Paragraph (1) applies to an employee—
 

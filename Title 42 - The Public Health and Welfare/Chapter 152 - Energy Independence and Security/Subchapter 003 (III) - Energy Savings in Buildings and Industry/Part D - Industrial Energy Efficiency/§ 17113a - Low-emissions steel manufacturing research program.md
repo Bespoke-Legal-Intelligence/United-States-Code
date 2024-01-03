@@ -180,7 +180,7 @@ The Secretary, in consultation with the Director of the National Institute of St
 
 &emsp;&emsp;(B) if the initiative established under this subsection is terminated, an assessment of the success of, and education provided by, the measures carried out by recipients of financial assistance under the initiative.
 
-&emsp;&emsp;&emsp;(i) Additional coordination
+#### (i) Additional coordination
 
 #### (1) Manufacturing U.S.A.
 

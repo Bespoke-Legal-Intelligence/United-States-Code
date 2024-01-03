@@ -4,7 +4,7 @@
 
 The Secretary may award grants to eligible institutions to support the recruitment of students for, and education and clinical experience of the students in—
 
-&emsp;(1) accredited institutions of higher education or accredited professional training programs that are establishing or expanding internships or other field placement programs inmental health in psychiatry, psychology, school psychology, behavioral pediatrics, psychiatric nursing (which may include master's and doctoral level programs), social work, school social work, substance use disorder prevention and treatment, marriage and family therapy, occupational therapy (which may include master's and doctoral level programs), school counseling, or professional counseling, including such programs with a focus on child and adolescent mental health, trauma, and transitional-age youth;
+&emsp;(1) accredited institutions of higher education or accredited professional training programs that are establishing or expanding internships or other field placement programs in mental health in psychiatry, psychology, school psychology, behavioral pediatrics, psychiatric nursing (which may include master's and doctoral level programs), social work, school social work, substance use disorder prevention and treatment, marriage and family therapy, occupational therapy (which may include master's and doctoral level programs), school counseling, or professional counseling, including such programs with a focus on child and adolescent mental health, trauma, and transitional-age youth;
 
 &emsp;(2) accredited doctoral, internship, and post-doctoral residency programs of health service psychology (including clinical psychology, counseling, and school psychology) for the development and implementation of interdisciplinary training of psychology graduate students for providing behavioral health services, including trauma-informed care and substance use disorder prevention and treatment services, as well as the development of faculty in health service psychology;
 
@@ -28,7 +28,7 @@ To be eligible for a grant under this section, an institution shall demonstrate�
 
 #### (c) Institutional requirement
 
-For grants awarded under paragraphs (2) and (3) of subsection (a), at least 4 of the grant recipients shall be historically black colleges or universities or other minority-serving institutions.
+For grants awarded under paragraphs (2) and (3) of subsection (a), at least 4 of the grant recipients shall be historically black colleges oruniversities or other minority-serving institutions.
 
 #### (d) Priority
 
@@ -116,7 +116,7 @@ Subsec. (b)(5). Pub. L. 114–255, §9021(2)(A), (B), (F), redesignated par. (4)
 
 Subsec. (c). Pub. L. 114–255, §9021(3), substituted "awarded under paragraphs (2) and (3) of subsection (a)" for "authorized under subsection (a)(1)".
 
-Subsec. (d). Pub. L. 114–255, §9021(4), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to priority in selecting grant recipients in social work, graduate psychology, and training programs in child and adolescent mental health.
+Subsec. (d). Pub. L. 114–255, §9021(4), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to priority in selecting grant recipients in social work,graduate psychology, and training programs in child and adolescent mental health.
 
 Subsecs. (e), (f). Pub. L. 114–255, §9021(5), added subsecs. (e) and (f) and struck out former subsec. (e) which authorized appropriations for fiscal years 2010 through 2013.
 

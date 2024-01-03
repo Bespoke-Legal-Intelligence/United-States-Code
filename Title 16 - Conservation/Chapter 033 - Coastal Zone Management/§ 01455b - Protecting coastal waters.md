@@ -24,11 +24,11 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (2) Identifying critical coastal areas
 
-&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures inaddition to those provided for in subsection (g).
+&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g).
 
 #### (3) Management measures
 
-&emsp;The implementation and continuing revision from time to time of additional management measures applicable to the land uses and areas identified pursuant to paragraphs (1) and (2) that are necessary to achieve and maintain applicable water quality standards under section 1313 of title 33 and protect designated uses.
+&emsp;The implementation and continuing revision from time to time of additional managementmeasures applicable to the land uses and areas identified pursuant to paragraphs (1) and (2) that are necessary to achieve and maintain applicable water quality standards under section 1313 of title 33 and protect designated uses.
 
 #### (4) Technical assistance
 
@@ -178,7 +178,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (2) Secretary
 
-&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) <sup>1</sup> of the Coastal Zone Management Act of 1972,as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f).
+&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) <sup>1</sup> of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for thatfiscal year, other than for providing in the form of grants under subsection (f).
 
 &emsp;(B) There is authorized to be appropriated to the Secretary for use for providing in the form of grants under subsection (f) not more than—
 

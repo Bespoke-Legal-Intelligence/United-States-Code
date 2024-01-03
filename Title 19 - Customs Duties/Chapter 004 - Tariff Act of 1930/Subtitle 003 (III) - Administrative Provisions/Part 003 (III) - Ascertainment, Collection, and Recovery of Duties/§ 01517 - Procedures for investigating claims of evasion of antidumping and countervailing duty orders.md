@@ -96,7 +96,7 @@ In this section:
 
 #### (3) Referral described
 
-&emsp;A referral described in this paragraph is information submitted to the Commissioner by any other Federal agency, including the Department of Commerce or the United States International Trade Commission, that reasonably suggests that a person has entered covered merchandise into the customs territory of the United States through evasion.
+&emsp;A referral described in this paragraph is information submitted to the Commissioner byany other Federal agency, including the Department of Commerce or the United States International Trade Commission, that reasonably suggests that a person has entered covered merchandise into the customs territory of the United States through evasion.
 
 #### (4) Consideration by administering authority
 
@@ -174,11 +174,11 @@ In this section:
 
 #### (2) Authority to collect and verify additional information
 
-&emsp;In making a determination under paragraph (1) with respect to covered merchandise, the Commissioner may collect such additional information as is necessary to make the determination through such methods as the Commissioner considers appropriate, including by—
+&emsp;In making a determination under paragraph (1) with respect to covered merchandise, theCommissioner may collect such additional information as is necessary to make the determination through such methods as the Commissioner considers appropriate, including by—
 
 &emsp;&emsp;(A) issuing a questionnaire with respect to such covered merchandise to—
 
-&emsp;&emsp;&emsp;(i) an interested party that filed an allegation under paragraph (2) of subsection\(b) that resulted in the initiation of an investigation under paragraph (1) of that subsection with respect to such covered merchandise;
+&emsp;&emsp;&emsp;(i) an interested party that filed an allegation under paragraph (2) of subsection (b) that resulted in the initiation of an investigation under paragraph (1) of that subsection with respect to such covered merchandise;
 
 &emsp;&emsp;&emsp;(ii) a person alleged to have entered such covered merchandise into the customs territory of the United States through evasion;
 
@@ -244,7 +244,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) initiating proceedings under section 1592 or 1595a of this title;
 
-&emsp;&emsp;&emsp;(ii) implementing, in consultation with the relevant Federal agencies, rule sets or modifications to rule sets for identifying, particularly through the Automated Targeting System and the Automated Commercial Environment authorized under section 58c(f)(4) of this title, importers,other parties, and merchandise that may be associated with evasion;
+&emsp;&emsp;&emsp;(ii) implementing, in consultation with the relevant Federal agencies, rule sets or modifications to rule sets for identifying, particularly through the Automated Targeting System and the Automated Commercial Environment authorized under section 58c(f)(4) of this title, importers, other parties, and merchandise that may be associated with evasion;
 
 &emsp;&emsp;&emsp;(iii) requiring, with respect to merchandise for which the importer has repeatedly provided incomplete or erroneous entry summary information in connection with determinations of evasion, the importer to deposit estimated duties at the time of entry; and
 
@@ -300,7 +300,7 @@ Not later than 90 calendar days after initiating an investigation under subsecti
 
 #### (h) Rule of construction with respect to other civil and criminal proceedings and investigations
 
-No determination under subsection (c), review under subsection (f), or action taken by the Commissioner pursuant to this section shall preclude any individual or entity from proceeding, or otherwise affect or limit the authority of anyindividual or entity to proceed, with any civil, criminal, or administrative investigation or proceeding pursuant to any other provision of Federal or State law, including sections 1592 of this title and 1595a of this title.
+No determination under subsection (c), review under subsection (f), or action taken by the Commissioner pursuant to this section shall preclude any individual or entity from proceeding, or otherwise affect or limit the authority of any individual or entity to proceed, with any civil, criminal, or administrative investigation or proceeding pursuant to any other provision of Federal or State law, including sections 1592 of this title and 1595a of this title.
 
 (June 17, 1930, ch. 497, title IV, §517, as added Pub. L. 114–125, title IV, §421(a), Feb. 24, 2016, 130 Stat. 161.)
 

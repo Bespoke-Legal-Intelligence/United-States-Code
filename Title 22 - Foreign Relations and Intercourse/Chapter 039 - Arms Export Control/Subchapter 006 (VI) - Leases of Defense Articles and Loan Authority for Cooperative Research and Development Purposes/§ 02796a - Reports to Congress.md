@@ -2,7 +2,7 @@
 
 #### (a) Written certification to Speaker of the House and chairmen of Congressional committees
 
-Before entering into or renewing any agreement with a foreign country or international organization to lease any defense article under this subchapter, or to loan any defense article under chapter 2 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311 et seq.\], for a period of one year or longer, the President shall transmit to the Speaker of the House of Representatives, the Committee on Foreign Affairsof the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Armed Services of the Senate, a written certification which specifies—
+Before entering into or renewing any agreement with a foreign country or international organization to lease any defense article under this subchapter, or to loan any defense article under chapter 2 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311 et seq.\], for a period of one year or longer, the President shall transmit to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Armed Services of the Senate, a written certification which specifies—
 
 &emsp;(1) the country or international organization to which the defense article is to be leased or loaned;
 

@@ -18,7 +18,7 @@ In order to encourage the commercial production of electric and hybrid vehicles,
 
 #### (c) Maximum amount of loan guarantee
 
-Any guarantee under this section shall apply only to so much of the principal amount of the loan involved as does not exceed 90 percentum of the aggregate cost of the activity with respect to which the loan is made.
+Any guarantee under this section shall apply only to so much of the principal amount of the loan involved as does not exceed 90 percentum ofthe aggregate cost of the activity with respect to which the loan is made.
 
 #### (d) Terms and conditions of guarantee
 
@@ -80,7 +80,7 @@ The full faith and credit of the United States is pledged to the payment of all 
 
 #### Codification
 
-In subsec. (e)(3)(C), "chapter 31 of title 31" and "that chapter" substituted for "the Second Liberty BondAct, as amended" and "that Act", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (e)(3)(C), "chapter 31 of title 31" and "that chapter" substituted for "the Second Liberty Bond Act, as amended" and "that Act", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 In subsec. (i), "section 50501 of title 46" substituted for "section 2 of the Shipping Act of 1916 (46 U.S.C. 802)" and "subsections (a) and (b) of such section 50501" substituted for "subsection (a) of such section 2" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, section 8(b) of which enacted parts A and B of subtitle V of Title 46, Shipping.
 

@@ -40,11 +40,11 @@ Pub. L. 108–265, §1(a), June 30, 2004, 118 Stat. 729, provided that: "This Ac
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–336, §1(a), Oct. 31, 1998, 112 Stat. 3143, provided that: "This Act \[amending sections 1755, 1758, 1759a to 1761, 1762a, 1765 to 1766a, 1769, 1769b–1, 1769c, 1769f to 1769h, 1773, 1776, 1784, 1786, and 1788 of this title, repealing section 1766b of this title, enacting provisions set out as notes under sections 1755, 1761, and 1786 of this title, and amending provisions set out as notes under section 1769 of this title and section 612c of Title 7, Agriculture\] may be cited as the 'William F. Goodling Child Nutrition Reauthorization Act of 1998'."
+Pub. L. 105–336, §1(a), Oct. 31, 1998, 112 Stat. 3143, provided that: "This Act \[amending sections 1755, 1758,1759a to 1761, 1762a, 1765 to 1766a, 1769, 1769b–1, 1769c, 1769f to 1769h, 1773, 1776, 1784, 1786, and 1788 of this title, repealing section 1766b of this title, enacting provisions set out as notes under sections 1755, 1761, and 1786 of this title, and amending provisions set out as notes under section 1769 of this title and section 612c of Title 7, Agriculture\] may be cited as the 'William F. Goodling Child Nutrition Reauthorization Act of 1998'."
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–149, §1, May 29, 1996, 110 Stat. 1379, provided that: "This Act \[amending section 1758 of thistitle\] may be cited as the 'Healthy Meals for Children Act'."
+Pub. L. 104–149, §1, May 29, 1996, 110 Stat. 1379, provided that: "This Act \[amending section 1758 of this title\] may be cited as the 'Healthy Meals for Children Act'."
 
 #### Short Title of 1994 Amendment
 
@@ -214,7 +214,7 @@ Reimbursement amount.—Subject to paragraphs (4) and (5)(E), using the amounts 
 
 &emsp;&emsp;"(D) For each sponsoring organization of a family or group day care home not described in subparagraph (C) in the State for the reimbursement month, an amount equal to 55 percent of—
 
-&emsp;&emsp;&emsp;"(i) the amount such sponsoring organization of a family or group day care home was reimbursed under section 17(f)(3)(B) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(f)(3)(B)) for administrative funds for the month beginning one year before such reimbursement month; minus
+&emsp;&emsp;&emsp;"(i) the amount such sponsoring organization of a family or group day care home was reimbursedunder section 17(f)(3)(B) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(f)(3)(B)) for administrative funds for the month beginning one year before such reimbursement month; minus
 
 &emsp;&emsp;&emsp;"(ii) the amount such sponsoring organization of a family or group day care home was reimbursed under such section for administrative funds for such reimbursement month.
 
@@ -378,7 +378,7 @@ Regulations.—After conducting the study under subsection (b)(1) and identifyin
 
 "(d)
 
-Report.—Not later than October 1, 2013, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study under subsection (b).
+Report.—Not later than October 1, 2013, the Secretary shall submit to the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study under subsection (b).
 
 "(e)
 
@@ -414,7 +414,7 @@ Consultation.—In developing proposed changes to the regulations under paragrap
 
 "(b)
 
-Report.—Not later than November 1, 1997, the Secretary of Agriculture shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Economic and Educational Opportunities of the House of Representatives a report containing the proposed changes developed under subsection (a)."
+Report.—Not later than November 1, 1997, the Secretary of Agriculture shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Economic and Educational Opportunities \[now Committee on Education and the Workforce\] of the House of Representatives a report containing the proposed changes developed under subsection (a)."
 
 #### Supplemental Nutrition Programs; Congressional Statement of Findings
 
@@ -430,7 +430,7 @@ Pub. L. 103–448, §2, Nov. 2, 1994, 108 Stat. 4700, as amended by Pub. L. 106�
 
 #### Study of Adulteration of Juice Products Sold to School Meal Programs
 
-Pub. L. 103–448, title I, §125, Nov. 2, 1994, 108 Stat. 4734, directed Comptroller General of the United States, not later than 1 year after Nov. 2, 1994, to conduct study and to submit a report to Congress on costs and problems associated with sale of adulterated fruit juice and juice products to the school lunch program under this chapter and school breakfast program under section 1773 of this title.
+Pub. L. 103–448, title I, §125, Nov. 2, 1994, 108 Stat. 4734, directed Comptroller General of the United States, not later than 1 year after Nov. 2, 1994, to conduct study and to submit a report to Congress on costs and problems associated with sale of adulterated fruit juice and juice products to the school lunch program underthis chapter and school breakfast program under section 1773 of this title.
 
 #### Consolidation of School Lunch Program and School Breakfast Program Into Comprehensive Meal Program
 
@@ -438,7 +438,7 @@ Pub. L. 103–448, title III, §301, Nov. 2, 1994, 108 Stat. 4749, as amended by
 
 "(a)
 
-In General.—Notwithstanding any provision of \[the\] Richard B. Russell National School Lunch Act (42U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), except as otherwise provided in this section, the Secretary of Agriculture shall, not later than 18 months after the date of enactment of this Act \[Nov. 2, 1994\], develop and implement regulations to consolidate the school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) into a comprehensive meal program.
+In General.—Notwithstanding any provision of \[the\] Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), except as otherwise provided in this section, the Secretary of Agriculture shall, not later than 18 months after the date of enactment of this Act \[Nov. 2, 1994\], develop and implement regulations to consolidate the school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) into a comprehensive meal program.
 
 "(b)
 
@@ -456,11 +456,11 @@ Plan and Recommendations.—
 
 &emsp;"(1)
 
-Plan for consolidation and simplification.—Not later than 180 days prior to implementing the regulations described in subsection (a), the Secretary shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a plan for the consolidation and simplification of the school lunch program and the school breakfast program.
+Plan for consolidation and simplification.—Not later than 180 days prior to implementing the regulations described in subsection (a), the Secretary shall prepare and submit to the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a plan for the consolidation and simplification of the school lunch program and the school breakfast program.
 
 &emsp;"(2)
 
-Recommendations with respect to change in payment amounts.—If the Secretary proposes to change the amount of the breakfast assistance payment or the food assistance payment under the comprehensive meal program, the Secretary shall not include the change in the consolidation and shall prepare and submit to the Committee on Education and Labor, and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate recommendations for legislation to effect the change."
+Recommendations with respect to change in payment amounts.—If the Secretary proposes to change the amount of the breakfast assistance payment or the food assistance payment under the comprehensive meal program, the Secretary shall not include the change in the consolidation and shall prepare and submit to the Committee on Education and Labor \[now Committee on Education and the Workforce\], and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate recommendations for legislation to effect the change."
 
 #### Study and Report Relating to Use of Private Food Establishments and Caterers Under School Lunch Program and School Breakfast Program
 

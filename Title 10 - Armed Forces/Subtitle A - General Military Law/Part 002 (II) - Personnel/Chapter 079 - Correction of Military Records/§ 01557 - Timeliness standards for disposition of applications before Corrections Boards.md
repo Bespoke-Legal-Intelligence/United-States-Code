@@ -38,13 +38,15 @@ Corrections Board Defined.—In this section, the term "Corrections Board" means
 
 &emsp;(2) with respect to the Department of the Navy, the Board for Correction of Naval Records; and
 
-&emsp;(3) with respect to the Department of the Air Force, the Air Force Board for Correction of Military Records.
+&emsp;(3) with respect to the Department of the Air Force, the Department of the Air Force Board for Correction of Military Records.
 
-(Added Pub. L. 105–261, div. A, title V, §544(a), Oct. 17, 1998, 112 Stat. 2021; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title X, §1084(d)(12), Oct. 28, 2004, 118 Stat. 2062.)
+(Added Pub. L. 105–261, div. A, title V, §544(a), Oct. 17, 1998, 112 Stat. 2021; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title X, §1084(d)(12), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 118–31, div. A, title XVII, §1722(j)(2)(A), Dec. 22, 2023, 137 Stat. 673.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (f)(3). Pub. L. 118–31 inserted "the Department of" after "Air Force,".
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–375 substituted "Final" for "Effective October 1, 2002, final".
 

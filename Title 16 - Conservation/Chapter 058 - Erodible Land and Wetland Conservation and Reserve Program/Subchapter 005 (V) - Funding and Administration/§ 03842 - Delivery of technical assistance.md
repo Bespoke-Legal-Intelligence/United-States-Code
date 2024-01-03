@@ -66,7 +66,7 @@ The Secretary may request the services of, and enter into cooperative agreements
 
 #### (1) Funding
 
-&emsp;Effective for fiscal year 2008 and each subsequent fiscal year, funds of the Commodity Credit Corporation made available to carry out technical assistance for each of the programs specified in section 3841 of this titleshall be available for the provision of technical assistance from third-party providers under this section.
+&emsp;Effective for fiscal year 2008 and each subsequent fiscal year, funds of the Commodity Credit Corporation made available to carry out technical assistance for each of the programs specified in section 3841 of this title shall be available for the provision of technical assistance from third-party providers under this section.
 
 #### (2) Term of agreement
 

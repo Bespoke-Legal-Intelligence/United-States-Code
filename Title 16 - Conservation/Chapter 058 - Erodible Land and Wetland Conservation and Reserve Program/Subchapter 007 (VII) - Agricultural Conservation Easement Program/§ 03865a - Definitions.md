@@ -30,7 +30,7 @@ In this subchapter:
 
 #### (B) Time extension
 
-&emsp;&emsp;Under subparagraph (A)(ii)(I)(bb), an eligible entity may transfer land later than 3years after the date of acquisition of the agricultural land easement if the Secretary determines an extension of time is justified.
+&emsp;&emsp;Under subparagraph (A)(ii)(I)(bb), an eligible entity may transfer land later than 3 years after the date of acquisition of the agricultural land easement if the Secretary determines an extension of time is justified.
 
 #### (3) Eligible entity
 
@@ -110,7 +110,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(v) other wetlands of an owner that would not otherwise be eligible, if the Secretary determines that the inclusion of such wetlands in a wetland reserve easement would significantly add to the functional value of the easement; or
 
-&emsp;&emsp;(C) in the case of either an agricultural land easement or a wetland reserve easement, other land that is incidental to land described in subparagraph (A) or (B), if the Secretary determines that it is necessary for the efficient administration of an easement under the program.
+&emsp;&emsp;(C) in the case of either an agricultural land easement or a wetland reserve easement, other land that is incidental to land described in subparagraph (A) or (B), if theSecretary determines that it is necessary for the efficient administration of an easement under the program.
 
 #### (5) Monitoring report
 

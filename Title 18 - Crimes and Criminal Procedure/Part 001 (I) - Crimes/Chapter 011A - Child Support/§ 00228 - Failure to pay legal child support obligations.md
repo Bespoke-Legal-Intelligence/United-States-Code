@@ -8,7 +8,7 @@ Offense.—Any person who—
 
 &emsp;(2) travels in interstate or foreign commerce with the intent to evade a support obligation, if such obligation has remained unpaid for a period longer than 1 year, or is greater than $5,000; or
 
-&emsp;(3) willfully fails to pay a support obligation with respect to a child who resides in another State, if such obligation has remained unpaid for a period longer than 2 years, or is greater than $10,000;
+&emsp;(3) willfully fails to pay a support obligation with respect to a child who resides in another State, if such obligation has remained unpaidfor a period longer than 2 years, or is greater than $10,000;
 
 > shall be punished as provided in subsection (c).
 
@@ -26,7 +26,7 @@ Punishment.—The punishment for an offense under this section is—
 
 (d)
 
-Mandatory Restitution.—Upon a conviction under this section, the court shall orderrestitution under section 3663A in an amount equal to the total unpaid support obligation as it exists at the time of sentencing.
+Mandatory Restitution.—Upon a conviction under this section, the court shall order restitution under section 3663A in an amount equal to the total unpaid support obligation as it exists at the time of sentencing.
 
 (e)
 

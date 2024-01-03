@@ -112,7 +112,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (3) Designs and techniques
 
-&emsp;The Secretary shall ensure that the research uses rigorous methodological designs andtechniques (based on the recommendations of the expert panel), including longitudinal designs, control groups, nationally recognized standardized measures, and random selection and assignment, as appropriate. The Secretary may provide that the research shall be conducted as a single comprehensive assessment or as a group of coordinated assessments designed to provide, when taken together, a national analysis of the impact of Head Start programs.
+&emsp;The Secretary shall ensure that the research uses rigorous methodological designs and techniques (based on the recommendations of the expert panel), including longitudinal designs, control groups, nationally recognized standardized measures, and random selection and assignment, as appropriate. The Secretary may provide that the research shall be conducted as a single comprehensive assessment or as a group of coordinated assessments designed to provide, when taken together, a national analysis of the impact of Head Start programs.
 
 #### (4) Programs
 
@@ -409,6 +409,10 @@ Subsecs. (d) to (f). Pub. L. 101–501, §117(a)(2), added subsecs. (d) to (f).
 <b>1984</b>—Subsec. (c). Pub. L. 98–558 added subsec. (c).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 1998 Amendment
 

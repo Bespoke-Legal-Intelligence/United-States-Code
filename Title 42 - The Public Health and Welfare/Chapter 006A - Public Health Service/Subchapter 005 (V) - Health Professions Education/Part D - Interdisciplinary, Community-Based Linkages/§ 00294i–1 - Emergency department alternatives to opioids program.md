@@ -8,7 +8,7 @@
 
 #### (2) Eligibility
 
-&emsp;To be eligible to receive a grant under paragraph (1), a hospital or emergency department shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;To be eligible to receive a grant under paragraph (1), a hospital or emergency departmentshall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (3) Geographic distribution
 
@@ -82,7 +82,7 @@ To carry out this section, there is authorized to be appropriated $10,000,000 fo
 
 Section was formerly classified as a note under section 294i of this title prior to editorial reclassification and renumbering as this section.
 
-Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act or the SUPPORT for Patients and Communities Act, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act or the SUPPORT for Patients and Communities Act,and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
 

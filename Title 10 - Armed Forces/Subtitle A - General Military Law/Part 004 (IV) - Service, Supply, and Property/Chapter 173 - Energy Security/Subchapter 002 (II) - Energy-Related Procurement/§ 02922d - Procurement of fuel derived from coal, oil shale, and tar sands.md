@@ -14,7 +14,7 @@ Clean Fuel Requirements.—A covered fuel may be procured under subsection (b) o
 
 (d)
 
-Multiyear Contract Authority.—Subject to applicable provisions of law, any contract or other agreement for the procurement of covered fuel under subsection (b) may be for one or moreyears at the election of the Secretary of Defense.
+Multiyear Contract Authority.—Subject to applicable provisions of law, any contract or other agreement for the procurement of covered fuel under subsection (b) may be for one or more years at the election of the Secretary of Defense.
 
 (e)
 

@@ -8,7 +8,7 @@
 
 #### (2) Determination of quantity of SME
 
-&emsp;For purposes of determining the quantity of square meter equivalents under paragraph (1),the conversion factors listed in "Correlation: U.S. Textile and Apparel Industry Category System with the Harmonized Tariff Schedule of the United States of America, 2008", or its successor publications, of the United States Department of Commerce, shall apply.
+&emsp;For purposes of determining the quantity of square meter equivalents under paragraph (1), the conversion factors listed in "Correlation: U.S. Textile and Apparel Industry Category System with the Harmonized Tariff Schedule of the United States of America, 2008", or its successor publications, of the United States Department of Commerce, shall apply.
 
 #### (b) Earned import allowance program
 
@@ -20,7 +20,7 @@
 
 &emsp;The elements referred to in paragraph (1) are the following:
 
-&emsp;&emsp;(A) One credit shall be issued to a producer or an entity controlling production for every two square meter equivalents of qualifying fabric that the producer or entity controlling production can demonstrate that it has purchased for the manufacture in an eligible country of articles like or similar to any article eligible for preferential treatment under subsection (a). The Secretary of Commerce shall, if requested by a producer or entity controlling production, create and maintain an account for such producer or entity controlling production, into which such credits may be deposited.
+&emsp;&emsp;(A) One credit shall be issued to a producer or an entity controlling production for every two square meter equivalents of qualifying fabric that the producer or entity controlling production can demonstrate that it has purchased for the manufacture in an eligible country of articles like or similar to any article eligible for preferential treatment under subsection (a). The Secretary of Commerce shall, if requested by a producer orentity controlling production, create and maintain an account for such producer or entity controlling production, into which such credits may be deposited.
 
 &emsp;&emsp;(B) Such producer or entity controlling production may redeem credits issued under subparagraph (A) for earned import allowance certificates reflecting such number of earned credits as the producer or entity may request and has available.
 

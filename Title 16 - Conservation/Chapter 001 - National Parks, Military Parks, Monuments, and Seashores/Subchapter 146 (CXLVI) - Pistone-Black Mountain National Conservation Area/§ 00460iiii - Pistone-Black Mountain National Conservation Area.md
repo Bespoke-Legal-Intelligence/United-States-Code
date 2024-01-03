@@ -64,7 +64,7 @@ In this section:
 
 #### (D) Cooperative agreements
 
-&emsp;The Secretary may, in a manner consistent with this section, enter into cooperative agreements with the State of Nevada, affected Indian tribes, and institutions and organizations to carry out the purposes of this section, subject to the requirement that the Tribe shall be a party to any cooperative agreement entered into under this subparagraph.
+&emsp;The Secretary may, in a manner consistent with this section, enter into cooperativeagreements with the State of Nevada, affected Indian tribes, and institutions and organizations to carry out the purposes of this section, subject to the requirement that the Tribe shall be a party to any cooperative agreement entered into under this subparagraph.
 
 #### (4) Management plan
 

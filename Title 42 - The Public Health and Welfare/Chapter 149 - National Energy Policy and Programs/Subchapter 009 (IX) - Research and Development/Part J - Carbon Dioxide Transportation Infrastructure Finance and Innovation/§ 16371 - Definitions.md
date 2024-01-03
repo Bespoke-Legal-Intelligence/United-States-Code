@@ -38,7 +38,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(i) the cost of legal counsel and technical consultants; and
 
-&emsp;&emsp;&emsp;(ii) any subsidy amount paid in accordance with section 16372(c)(3)(B)(ii) of thistitle or section 16373(b)(6)(B)(ii) of this title.
+&emsp;&emsp;&emsp;(ii) any subsidy amount paid in accordance with section 16372(c)(3)(B)(ii) of this title or section 16373(b)(6)(B)(ii) of this title.
 
 #### (5) Federal credit instrument
 

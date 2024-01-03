@@ -24,7 +24,7 @@ The deduction allowed by this section shall include only such taxes as were actu
 
 &emsp;&emsp;&emsp;(iii) 2 years after a notice of the waiver of disallowance is filed under section 6532(a)(3).
 
-> Notwithstanding sections 6511 and 6512, refund based on the deduction may be made if the claim for refund is filed within the period provided in the preceding sentence. Any such refund shall be made without interest.
+> Notwithstanding sections 6511 and 6512, refund based on the deduction may be made if the claimfor refund is filed within the period provided in the preceding sentence. Any such refund shall be made without interest.
 
 (Added Pub. L. 107–16, title V, §532(b), June 7, 2001, 115 Stat. 73.)
 

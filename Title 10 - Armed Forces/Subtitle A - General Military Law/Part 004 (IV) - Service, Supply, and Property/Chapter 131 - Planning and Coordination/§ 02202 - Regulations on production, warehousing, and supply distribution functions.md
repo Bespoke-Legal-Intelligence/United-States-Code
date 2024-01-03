@@ -28,7 +28,7 @@ The words "an officer or agency \* \* \* may \* \* \* only" are substituted 
 
 <b>1994</b>—Pub. L. 103–355 amended heading and text generally. Prior to amendment, text read as follows:
 
-"(a) Notwithstanding any other provision of law, an officer or agency of the Department of Defense may obligate funds for procuring, producing, warehousing, or distributing supplies, or for related functions of supply management, only under regulations prescribed by theSecretary of Defense. The purpose of this section is to achieve the efficient, economical, and practical operation of an integrated supply system to meet the needs of the military departments without duplicate or overlapping operations or functions.
+"(a) Notwithstanding any other provision of law, an officer or agency of the Department of Defense may obligate funds for procuring, producing, warehousing, or distributing supplies, or for related functions of supply management, only under regulations prescribed by the Secretary of Defense. The purpose of this section is to achieve the efficient, economical, and practical operation of an integrated supply system to meet the needs of the military departments without duplicate or overlapping operations or functions.
 
 "(b) Except as otherwise provided by law, the availability for obligation of funds appropriated for any program, project, or activity of the Department of Defense expires at the end of the three-year period beginning on the date that such funds initially become available for obligation unless before the end of such period the Secretary of Defense enters into a contract for such program, project, or activity."
 

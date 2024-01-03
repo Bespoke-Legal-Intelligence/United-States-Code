@@ -6,7 +6,7 @@ The Secretary shall make an agreement with any State which is able and willing t
 
 #### (b) Payment in advance or by way of reimbursement to State for performance of functions of subsection (a)
 
-The Secretary shall pay any such State, in advance or by way of reimbursement, as may be provided in the agreement with it (and may make adjustments in such payments on account of overpayments or underpayments previously made), for the reasonable cost of performing the functions specified in subsection (a), and for the Federal Hospital Insurance Trust Fund's fair share of the costs attributable to the planning and other efforts directed toward coordination of activities in carrying out its agreement and other activities related to the provision of services similar to those for which payment may be made under part A, or related to the facilities and personnel required for the provision of such services, or related to improving the quality of such services.
+The Secretary shall pay any such State, in advance or by way of reimbursement, as may be provided in the agreement with it (and may make adjustments in such payments on account of overpayments or underpayments previously made), for the reasonable cost of performing the functions specified in subsection (a), and for the Federal Hospital Insurance Trust Fund's fair share of the costs attributable to the planning and other efforts directed toward coordination of activities in carrying out its agreement and other activities related to the provision of services similar to those for which payment may be made under part A, or related to the facilitiesand personnel required for the provision of such services, or related to improving the quality of such services.
 
 #### (c) Use of State or local agencies to survey hospitals
 
@@ -20,7 +20,7 @@ The Secretary may not enter an agreement under this section with a State with re
 
 Notwithstanding any other provision of law, the Secretary may not impose, or require a State to impose, any fee on any facility or entity subject to a determination under subsection (a), or any renal dialysis facility subject to the requirements of section 1395rr(b)(1) of this title, for any such determination or any survey relating to determining the compliance of such facility or entity with any requirement of this subchapter (other than any fee relating to section 263a of this title).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1864, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 326; amended Pub. L. 90–248, title I, §133(f), title II, §228(b), Jan. 2, 1968, 81 Stat. 852, 904; Pub. L. 92–603, title II, §§244(a), 277, 278(a)(16), (b)(15), 299D(a), Oct. 30, 1972, 86 Stat. 1422, 1452–1454, 1461; Pub. L. 95–210, §1(i), Dec. 13, 1977, 91 Stat. 1488; Pub. L. 96–499, title IX, §§933(g), 934(c)(2), Dec. 5, 1980, 94 Stat. 2637, 2639; Pub. L. 96–611, §1(a)(2), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–248, title I, §122(g)(3), Sept. 3, 1982, 96 Stat. 362; Pub. L. 98–369, div. B, title III, §2354(b)(17), July 18, 1984, 98 Stat. 1101; Pub. L. 99–509, title IX, §9320(h)(3), Oct. 21, 1986, 100 Stat. 2016; Pub. L. 100–203, title IV, §§4025(a), 4072(d), 4201(a)(2), (d)(4), 4202(a)(1), (c), 4203(a)(1), 4212(b), Dec. 22, 1987, 101 Stat. 1330–74, 1330–117, 1330–160, 1330–174, 1330–179, 1330–212, as amended Pub. L. 100–360, title IV, §411(l)(1)(C), (6)(B), July 1, 1988, 102 Stat. 804, as amended Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title II, §§203(e)(3), 204(c)(2), (d)(3), title IV, §411(d)(4)(A), July 1, 1988, 102 Stat. 725, 728, 729, 774, as amended Pub. L. 100–485, title VI, §608(d)(20)(B), (C), Oct. 13, 1988, 102 Stat. 2419, 2420; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(C)(iii), 6115(c), Dec. 19, 1989, 103 Stat. 2152, 2219; Pub. L. 101–508, title IV, §§4154(d)(1), 4163(c)(2), 4207(g), formerly 4027(g), Nov. 5, 1990, 104 Stat. 1388–85, 1388–100, 1388–123; Pub. L. 103–432, title I, §§145(c)(3), 160(a)(1), (d)(4), Oct. 31, 1994, 108 Stat. 4427, 4443, 4444; Pub. L. 104–134, title I, §101(d) \[title V, §516(c)(1)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–247; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–33, title IV, §§4106(c), 4201(c)(1), Aug. 5, 1997, 111 Stat. 368, 373; Pub. L. 110–275, title I,§125(b)(3), July 15, 2008, 122 Stat. 2519; Pub. L. 116–260, div. CC, title I, §125(d)(2), title IV, §407(a)(3)(A), Dec. 27, 2020, 134 Stat. 2966, 3007.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1864, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 326; amended Pub. L. 90–248, title I, §133(f), title II, §228(b), Jan. 2, 1968, 81 Stat. 852, 904; Pub. L. 92–603, title II, §§244(a), 277, 278(a)(16), (b)(15), 299D(a), Oct. 30, 1972, 86 Stat. 1422, 1452–1454, 1461; Pub. L. 95–210, §1(i), Dec. 13, 1977, 91 Stat. 1488; Pub. L. 96–499, title IX, §§933(g), 934(c)(2), Dec. 5, 1980, 94 Stat. 2637, 2639; Pub. L. 96–611, §1(a)(2), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–248, title I, §122(g)(3), Sept. 3, 1982, 96 Stat. 362; Pub. L. 98–369, div. B, title III, §2354(b)(17), July 18, 1984, 98 Stat. 1101; Pub. L. 99–509, title IX, §9320(h)(3), Oct. 21, 1986, 100 Stat. 2016; Pub. L. 100–203, title IV, §§4025(a), 4072(d), 4201(a)(2), (d)(4), 4202(a)(1), (c), 4203(a)(1), 4212(b), Dec. 22, 1987, 101 Stat. 1330–74, 1330–117, 1330–160, 1330–174, 1330–179, 1330–212, as amended Pub. L. 100–360, title IV, §411(l)(1)(C), (6)(B), July 1, 1988, 102 Stat. 804, as amended Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title II, §§203(e)(3), 204(c)(2), (d)(3), title IV, §411(d)(4)(A), July 1, 1988, 102 Stat. 725, 728, 729, 774, as amended Pub. L. 100–485, title VI, §608(d)(20)(B), (C), Oct. 13, 1988, 102 Stat. 2419, 2420; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(C)(iii), 6115(c), Dec. 19, 1989, 103 Stat. 2152, 2219; Pub. L. 101–508, title IV, §§4154(d)(1), 4163(c)(2), 4207(g), formerly 4027(g), Nov. 5, 1990, 104 Stat. 1388–85, 1388–100, 1388–123; Pub. L. 103–432, title I, §§145(c)(3), 160(a)(1), (d)(4), Oct. 31, 1994, 108 Stat. 4427, 4443, 4444; Pub. L. 104–134, title I, §101(d) \[title V, §516(c)(1)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–247; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–33, title IV, §§4106(c), 4201(c)(1), Aug. 5, 1997, 111 Stat. 368, 373; Pub. L. 110–275, title I, §125(b)(3), July 15, 2008, 122 Stat. 2519; Pub. L. 116–260, div. CC, title I, §125(d)(2), title IV, §407(a)(3)(A), Dec. 27, 2020, 134 Stat. 2966, 3007.)
 
 #### <b>Editorial Notes</b>
 
@@ -52,7 +52,7 @@ Subsec. (e). Pub. L. 101–508, §4207(g), formerly §4027(g), as renumbered by 
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–239, §6115(c), substituted "paragraphs (15) and (16)" for "paragraphs (14) and (15)".
 
-Pub. L. 101–239, §6003(g)(3)(C)(iii), inserted ", a rural primary care hospital, as defined in section 1395x(mm)(1) of this title," after "1395x(aa)(2) of this title".
+Pub. L. 101–239, §6003(g)(3)(C)(iii), inserted ", a rural primary care hospital, as defined in section1395x(mm)(1) of this title," after "1395x(aa)(2) of this title".
 
 Pub. L. 101–234 repealed Pub. L. 100–360, §§203(e)(3), 204(c)(2), (d)(3), and provided that the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 and 1989 Amendment notes.
 
@@ -92,7 +92,7 @@ Pub. L. 100–203, §4201(a)(2), added subsec. (d).
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–369 struck out "the" after "Joint Commission on".
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–248 inserted "or whether an agency is a hospice program" and substituted"home health agency, or hospice program" for "or home health agency".
+<b>1982</b>—Subsec. (a). Pub. L. 97–248 inserted "or whether an agency is a hospice program" and substituted "home health agency, or hospice program" for "or home health agency".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–611 substituted "requirements of paragraphs (11) and (12) of section 1395x(s) of this title" for "requirements of paragraphs (10) and (11) of section 1395x(s) of this title".
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 110–275 applicable with respect to accreditations of hosp
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 4106(c) of Pub. L. 105–33 applicable to bone mass measurements performed on or after July 1, 1998, see section 4106(d) of Pub. L. 105–33, set out as a note under section 1395x of this title.
+Amendment by section 4106(c) of Pub. L. 105–33 applicable to bone mass measurements performed on orafter July 1, 1998, see section 4106(d) of Pub. L. 105–33, set out as a note under section 1395x of this title.
 
 Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
@@ -162,7 +162,7 @@ For effective date of amendment by section 4072(d) of Pub. L. 100–203, see sec
 
 Amendments by sections 4201(a)(2), (d)(4) and 4202(a)(1), (c) of Pub. L. 100–203 applicable to services furnished on or after Oct. 1, 1990, without regard to whether regulations to implement such amendments are promulgated by such date, except as otherwise specifically provided in section 1395i–3 of this title, see section 4204(a) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1395i–3 of this title.
 
-Amendment by section 4203(a)(1) of Pub. L. 100–203 applicable Jan. 1, 1988, except as otherwise specifically provided in section 1395i–3 of this title, without regard to whether regulations to implement such amendment are promulgated by such date, and in applying amendment by section 4203(a)(1) of Pub. L. 100–203 for services furnished by a skilled nursing facility before Oct. 1, 1990, any reference to a requirement of section 1395i–3(b), (c), or (d) of this title is deemed a reference to section 1395x(j) of this title, see section 4204(b) of Pub. L. 100–203, as added by Pub. L. 100–485, set out asan Effective Date note under section 1395i–3 of this title.
+Amendment by section 4203(a)(1) of Pub. L. 100–203 applicable Jan. 1, 1988, except as otherwise specifically provided in section 1395i–3 of this title, without regard to whether regulations to implement such amendment are promulgated by such date, and in applying amendment by section 4203(a)(1) of Pub. L. 100–203 for services furnished by a skilled nursing facility before Oct. 1, 1990, any reference to a requirement of section 1395i–3(b), (c), or (d) of this title is deemed a reference to section 1395x(j) of this title, see section 4204(b) of Pub. L. 100–203, as added by Pub. L. 100–485, set out as an Effective Date note under section 1395i–3 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -198,7 +198,7 @@ Pub. L. 90–248, title II, §228(b), Jan. 2, 1968, 81 Stat. 904, provided that 
 
 #### Use of State or Local Agencies in Evaluating Laboratories
 
-Pub. L. 103–432, title I, §160(a)(2), Oct. 31, 1994, 108 Stat. 4443, provided that: "An agreement made by the Secretary of Health and Human Services with a State under section 1864(a) of the Social Security Act \[42 U.S.C. 1395aa(a)\] may include an agreement that the services of the State health agency or other appropriate State agency (or the appropriate local agencies) will be utilized by the Secretary for the purpose of determining whether a laboratory meets the requirements of section 353 of the Public Health Service Act \[42 U.S.C. 263a\]."
+Pub. L. 103–432, title I, §160(a)(2), Oct. 31, 1994, 108 Stat. 4443, provided that: "An agreement made by the Secretary of Health and Human Services with a State under section 1864(a) of the Social Security Act \[42U.S.C. 1395aa(a)\] may include an agreement that the services of the State health agency or other appropriate State agency (or the appropriate local agencies) will be utilized by the Secretary for the purpose of determining whether a laboratory meets the requirements of section 353 of the Public Health Service Act \[42 U.S.C. 263a\]."
 
 #### Nurse Aid Training and Competency Evaluation, Failure by State To Meet Guidelines
 

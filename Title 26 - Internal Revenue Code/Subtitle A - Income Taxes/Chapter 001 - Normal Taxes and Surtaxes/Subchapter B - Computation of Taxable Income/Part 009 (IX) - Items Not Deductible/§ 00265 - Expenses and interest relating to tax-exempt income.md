@@ -88,7 +88,7 @@ No deduction shall be allowed for—
 
 &emsp;&emsp;&emsp;&emsp;(I) any qualified 501(c)(3) bond (as defined in section 145), or
 
-&emsp;&emsp;&emsp;&emsp;(II) any obligation issued to refund (or which is part of a series of obligations issued to refund) an obligation issued before August 8, 1986, which was not an industrial development bond (as defined in section 103(b)(2) as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) or a private loan bond (as defined in section 103(o)(2)(A), as so in effect, but without regard to any exemption from such definition other than section 103(o)(2)(A)).
+&emsp;&emsp;&emsp;&emsp;(II) any obligation issued to refund (or which is part of a series of obligations issued to refund) an obligation issued before August 8, 1986, which was not an industrial development bond (as defined in section 103(b)(2) as in effect on the daybefore the date of the enactment of the Tax Reform Act of 1986) or a private loan bond (as defined in section 103(o)(2)(A), as so in effect, but without regard to any exemption from such definition other than section 103(o)(2)(A)).
 
 #### (C) Qualified small issuer
 
@@ -154,7 +154,7 @@ No deduction shall be allowed for—
 
 #### (F) Treatment of composite issues
 
-&emsp;&emsp;In the case of an obligation which is issued as part of a direct or indirect composite issue, such obligation shall not be treated as a qualified tax-exempt obligation unless—
+&emsp;&emsp;In the case of an obligation which is issued as part of a direct or indirect compositeissue, such obligation shall not be treated as a qualified tax-exempt obligation unless—
 
 &emsp;&emsp;&emsp;(i) the requirements of this paragraph are met with respect to such composite issue (determined by treating such composite issue as a single issue), and
 
@@ -238,7 +238,7 @@ No deduction shall be allowed for—
 
 &emsp;&emsp;For purposes of this paragraph, a refunding bond (whether a current or advance refunding) shall be treated as issued on the date of the issuance of the refunded bond (or in the case of a series of refundings, the original bond).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 88–272, title II, §216(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title XIX, §§1901(a)(37), 1906(b)(13)(A), title XXI, §2137(e), Oct. 4, 1976, 90 Stat. 1770, 1834, 1931; Pub. L. 96–223, title IV, §404(b)(2), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §§301(b)(2), 302(c)(2), (d)(1), Aug. 13, 1981, 95 Stat. 270, 272, 274; Pub. L. 98–369, div. A, title I, §§16(a), 56(c), July 18, 1984, 98 Stat. 505, 574; Pub. L. 99–514, title I, §144, title IX, §902(a), (b), (d), Oct. 22, 1986, 100 Stat. 2121, 2380–2382; Pub. L. 100–647, title I, §1009(b)(3)(A), Nov. 10, 1988, 102 Stat. 3446; Pub. L. 101–508, title XI, §11801(c)(4), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 105–34, title X, §1084(c), Aug. 5, 1997, 111 Stat. 955; Pub. L. 111–5, div. B, title I, §§1501(a), 1502(a), Feb. 17, 2009, 123 Stat. 353.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 88–272, title II, §216(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title XIX, §§1901(a)(37), 1906(b)(13)(A), title XXI, §2137(e), Oct. 4, 1976, 90 Stat. 1770, 1834,1931; Pub. L. 96–223, title IV, §404(b)(2), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §§301(b)(2), 302(c)(2), (d)(1), Aug. 13, 1981, 95 Stat. 270, 272, 274; Pub. L. 98–369, div. A, title I, §§16(a), 56(c), July 18, 1984, 98 Stat. 505, 574; Pub. L. 99–514, title I, §144, title IX, §902(a), (b), (d), Oct. 22, 1986, 100 Stat. 2121, 2380–2382; Pub. L. 100–647, title I, §1009(b)(3)(A), Nov. 10, 1988, 102 Stat. 3446; Pub. L. 101–508, title XI, §11801(c)(4), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 105–34, title X, §1084(c), Aug. 5, 1997, 111 Stat. 955; Pub. L. 111–5, div. B, title I, §§1501(a), 1502(a), Feb. 17, 2009, 123 Stat. 353.)
 
 #### <b>Editorial Notes</b>
 
@@ -294,7 +294,7 @@ Pars. (3), (4). Pub. L. 94–455, §2137(e), added pars. (3) and (4).
 
 Pub. L. 111–5, div. B, title I, §1501(c), Feb. 17, 2009, 123 Stat. 353, provided that: "The amendments made by this section \[amending this section and section 291 of this title\] shall apply to obligations issued after December 31, 2008."
 
-Pub. L. 111–5, div. B, title I, §1502(b), Feb. 17, 2009, 123 Stat. 354, provided that: "The amendment made by thissection \[amending this section\] shall apply to obligations issued after December 31, 2008."
+Pub. L. 111–5, div. B, title I, §1502(b), Feb. 17, 2009, 123 Stat. 354, provided that: "The amendment made by this section \[amending this section\] shall apply to obligations issued after December 31, 2008."
 
 #### Effective Date of 1997 Amendment
 
@@ -310,7 +310,7 @@ Pub. L. 100–647, title I, §1009(b)(3)(B)–(D), Nov. 10, 1988, 102 Stat. 3448
 
 &emsp;"(i) an obligation is issued on or after January 1, 1986, and on or before August 7, 1986,
 
-&emsp;"(ii) when such obligation was issued, the issuer made a designation that it intended to qualify under section 802(e)(3) of H.R. 3838 of the 99th Congress as passed by the House of Representatives \[H.R. 3838 was enacted as Pub. L. 99–514\], and
+&emsp;"(ii) when such obligation was issued, the issuer made a designation that it intended to qualify undersection 802(e)(3) of H.R. 3838 of the 99th Congress as passed by the House of Representatives \[H.R. 3838 was enacted as Pub. L. 99–514\], and
 
 &emsp;"(iii) the issuer makes an election under this subparagraph with respect to such obligation,
 
@@ -434,7 +434,7 @@ Pub. L. 88–272, title II, §216(b), Feb. 26, 1964, 78 Stat. 56, provided that:
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Clarification of Treatment of Amounts Excluded Under Section 597
 

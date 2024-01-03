@@ -10,7 +10,7 @@ In this section:
 
 &emsp;&emsp;(A) 1 or more qualified community programs as described in section 300x–2(b)(1) of this title; or
 
-&emsp;&emsp;(B) 1 or more health centers (as defined in section 254b(a) of this title), rural health clinics (as defined in section 1395x(aa) of this title), or Federally qualified health centers (as defined in such section), or primary carepractices serving adult or pediatric patients or both.
+&emsp;&emsp;(B) 1 or more health centers (as defined in section 254b(a) of this title), rural health clinics (as defined in section 1395x(aa) of this title), or Federally qualified health centers (as defined in such section), or primary care practices serving adult or pediatric patients or both.
 
 #### (2) Integrated care; bidirectional integrated care
 
@@ -56,7 +56,7 @@ In this section:
 
 &emsp;&emsp;(B) to support the improvement of integrated care models for physical and behavioral health care to improve overall wellness and physical health status, including for special populations;
 
-&emsp;&emsp;(C) to promote the implementation and improvement of bidirectional integrated care services provided at entities described in subsection (a)(1), including evidence-based or evidence-informed screening, assessment, diagnosis, prevention, treatment, and recovery services for mental and substance use disorders, and co-occurring physical health conditions and chronic diseases; and
+&emsp;&emsp;(C) to promote the implementation and improvement of bidirectional integratedcare services provided at entities described in subsection (a)(1), including evidence-based or evidence-informed screening, assessment, diagnosis, prevention, treatment, and recovery services for mental and substance use disorders, and co-occurring physical health conditions and chronic diseases; and
 
 &emsp;&emsp;(D) in the case of an eligible entity that is collaborating with a primary care practice, to support the implementation of evidence-based or evidence-informed integrated care models, including the psychiatric collaborative care model, including—
 
@@ -84,7 +84,7 @@ In this section:
 
 &emsp;&emsp;(C) a description of partnerships or other arrangements with local health care providers to provide services to special populations and, as applicable, in areas with demonstrated need, such as Tribal, rural, or other medically underserved communities, such as those with a workforce shortage of mental health and substance use disorder, pediatric mental health, or other related professionals;
 
-&emsp;&emsp;(D) an agreement and plan to report to the Secretary performance measures necessary to evaluate patient outcomes and facilitateevaluations across participating projects; and
+&emsp;&emsp;(D) an agreement and plan to report to the Secretary performance measures necessary to evaluate patient outcomes and facilitate evaluations across participating projects; and
 
 &emsp;&emsp;(E) a description of the plan or progress in implementing the psychiatric collaborative care model, as applicable and appropriate;
 
@@ -130,7 +130,7 @@ An eligible entity receiving a grant or cooperative agreement under this section
 
 #### (1) Certain recipients
 
-&emsp;The Secretary may provide appropriate information, training, and technical assistance to eligible entities that receive a grant or cooperative agreement under subsection (b)(2), in order to help such entities meet the requirements of this section, including assistance with—
+&emsp;The Secretary may provide appropriate information, training, and technical assistanceto eligible entities that receive a grant or cooperative agreement under subsection (b)(2), in order to help such entities meet the requirements of this section, including assistance with—
 
 &emsp;&emsp;(A) development and selection of integrated care models;
 

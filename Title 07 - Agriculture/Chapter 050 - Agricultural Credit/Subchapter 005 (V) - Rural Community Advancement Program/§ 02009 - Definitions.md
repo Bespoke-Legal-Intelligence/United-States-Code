@@ -16,7 +16,7 @@ In this subchapter:
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–171 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out heading andtext of former par. (1). Text read as follows: "The terms 'rural' and 'rural area' mean, subject to section 1926(a)(7) of this title, a city, town, or unincorporated area that has a population of 50,000 inhabitants or less, other than an urbanized area immediately adjacent to a city, town, or unincorporated area that has a population in excess of 50,000 inhabitants."
+<b>2002</b>—Pub. L. 107–171 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out heading and text of former par. (1). Text read as follows: "The terms 'rural' and 'rural area' mean, subject to section 1926(a)(7) of this title, a city, town, or unincorporated area that has a population of 50,000 inhabitants or less, other than an urbanized area immediately adjacent to a city, town, or unincorporated area that has a population in excess of 50,000 inhabitants."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

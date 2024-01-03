@@ -6,7 +6,7 @@ There is authorized for fiscal years 2023 through 2028 within the United States 
 
 #### (b) Curriculum
 
-In furtherance of subsection (a), all education and training of the Institute shall be conductedin accordance with relevant Federal law regarding privacy, civil rights, and civil liberties protections. Education and training provided pursuant to subsection (a) shall relate to the following:
+In furtherance of subsection (a), all education and training of the Institute shall be conducted in accordance with relevant Federal law regarding privacy, civil rights, and civil liberties protections. Education and training provided pursuant to subsection (a) shall relate to the following:
 
 &emsp;(1) Investigating and preventing cybersecurity incidents, electronic crimes, and related cybersecurity threats, including relating to instances involving illicit use of digital assets and emerging trends in cybersecurity and electronic crime.
 
@@ -68,7 +68,7 @@ In this section:
 
 #### (2) Incident
 
-&emsp;The term "incident" has the meaning given such term in section 659(a) of this title.
+&emsp;The term "incident" has the meaning given such term in section 659(a) <sup>1</sup> of this title.
 
 #### (3) Information system
 
@@ -78,17 +78,23 @@ In this section:
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 659(a) of this title, referred to in subsec. (i)(2), was amended by Pub. L. 117–263, §7143(b)(2)(D)(i), and no longer defines the term "incident". Reference to term "incident" as defined in this chapter deemed to be a reference to that term as defined in section 650(12) of this title, see section 7143(f)(2) of Pub. L. 117–263, set out as a Rule of Construction note under section 650 of this title.
+
 #### Amendments
 
-<b>2022</b>—Subsec. (a). Pub. L. 117–263, §7123(1), substituted, in heading, "In general; mission" for "In general", in first sentence, "2023 through 2028" for "2017 through 2022", and, in second sentence, "The Institute's mission shall be to educate, train, and equip State, local, territorial, and Tribal law enforcement officers, prosecutors, and judges, as well as participants in the United States Secret Service's network of cyber fraud task forces who are Federal employees, members of the uniformed services, or State, local, Tribal, or territorial employees, regarding the investigation and prevention of cybersecurity incidents, electronic crimes, and related cybersecurity threats, including through the dissemination of homeland security information, inaccordance with relevant Federal law regarding privacy, civil rights, and civil liberties protections." for "The Institute shall disseminate information related to the investigation and prevention of cyber and electronic crime and related threats, and educate, train, and equip State, local, tribal, and territorial law enforcement officers, prosecutors, and judges."
+<b>2022</b>—Subsec. (a). Pub. L. 117–263, §7123(1), substituted, in heading, "In general; mission" for "In general", in first sentence, "2023 through 2028" for "2017 through 2022", and, in second sentence, "The Institute's mission shall be to educate, train, and equip State, local, territorial, and Tribal law enforcement officers, prosecutors, and judges, as well as participants in the United States Secret Service's network of cyber fraud task forces who are Federal employees, members of the uniformed services, or State, local, Tribal, or territorial employees, regarding the investigation and prevention of cybersecurity incidents, electronic crimes, and related cybersecurity threats, including through the dissemination of homeland security information, in accordance with relevant Federal law regarding privacy, civil rights, and civil liberties protections." for "The Institute shall disseminate information related to the investigation and prevention of cyber and electronic crime and related threats, and educate, train, and equip State, local, tribal, and territorial law enforcement officers, prosecutors, and judges."
 
 Subsec. (b). Pub. L. 117–263, §7123(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to the functions of the Institute.
 
-Subsec. (c). Pub. L. 117–263, §7123(3), substituted "cybersecurity incidents, electronic crimes, and related cybersecurity threats is shared with recipients of education and training provided pursuant to subsection (a)" for "cyber and electronic crime and related threats is shared with State, local, tribal, and territorial law enforcement officers and prosecutors" and inserted at end "When selecting participants for such training, the Institute shall prioritize, to the extent reasonable and practicable, providing education and training to individuals from geographically-diverse jurisdictions throughout the United States, and the Institute shall prioritize, to the extent reasonable and practicable, State, local, tribal, and territorial law enforcement officers, prosecutors, judges, and other employees."
+Subsec. (c). Pub. L. 117–263, §7123(3), substituted "cybersecurity incidents, electronic crimes, and related cybersecurity threats is shared with recipients of education and training provided pursuant to subsection (a)" for "cyber and electronic crime and related threats is shared with State, local, tribal, and territorial law enforcement officers and prosecutors" and inserted at end "When selecting participants for such training, the Institute shall prioritize, to the extent reasonable and practicable, providing education and training to individuals from geographically-diverse jurisdictions throughout the United States, and the Institute shallprioritize, to the extent reasonable and practicable, State, local, tribal, and territorial law enforcement officers, prosecutors, judges, and other employees."
 
 Subsec. (d). Pub. L. 117–263, §7123(4), substituted "recipients of education and training provided pursuant to subsection (a)" for "State, local, tribal, and territorial law enforcement officers" and "for investigating and preventing cybersecurity incidents, electronic crimes, and related cybersecurity threats, and for forensic examinations of computers, mobile devices, and other information systems" for "necessary to conduct cyber and electronic crime and related threat investigations and computer and mobile device forensic examinations".
 
 Subsec. (e). Pub. L. 117–263, §7123(5), in heading, substituted "Cyber Fraud Task Forces" for "Electronic Crime Task Forces" and, in text, substituted "Cyber Fraud" for "Electronic Crime", "recipients of education and training provided pursuant to subsection (a)" for "State, local, tribal, and territorial law enforcement officers", and "by" for "at".
 
 Subsecs. (g) to (i). Pub. L. 117–263, §7123(6), added subsecs. (g) to (i).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

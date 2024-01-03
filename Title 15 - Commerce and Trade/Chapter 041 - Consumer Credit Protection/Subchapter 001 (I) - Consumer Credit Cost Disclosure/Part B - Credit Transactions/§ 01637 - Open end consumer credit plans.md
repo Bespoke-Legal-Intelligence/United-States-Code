@@ -62,7 +62,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(C)(i) Subject to clause (ii), in making the disclosures under subparagraph (B), the creditor shall apply the interest rate or rates in effect on the date on which the disclosure is made until the date on which the balance would be paid in full.
 
-&emsp;(ii) If the interest rate in effect on the date on which the disclosure is made is a temporary rate that will change under a contractual provision applying an index or formula for subsequent interest rate adjustment, the creditor shall apply the interest rate in effect on the date on which the disclosure is made for as long as that interest rate will applyunder that contractual provision, and then apply an interest rate based on the index or formula in effect on the applicable billing date.
+&emsp;(ii) If the interest rate in effect on the date on which the disclosure is made is a temporary rate that will change under a contractual provision applying an index or formula for subsequent interest rate adjustment, the creditor shall apply the interest rate in effect on the date on which the disclosure is made for as long as that interest rate will apply under that contractual provision, and then apply an interest rate based on the index or formula in effect on the applicable billing date.
 
 &emsp;(D) All of the information described in subparagraph (B) shall—
 
@@ -80,7 +80,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;&emsp;(i) all of the information in the table, and not just a reference to the table, be placed on the billing statement, as required by this paragraph; and
 
-&emsp;&emsp;(ii) the items required to be included in the table shall be listed in the order in which such items are set forth in subparagraph (B).
+&emsp;&emsp;(ii) the items required to be included in the table shall be listed in the order inwhich such items are set forth in subparagraph (B).
 
 &emsp;(G) In prescribing the form of the table under subparagraph (D), the Bureau shall employ terminology which is different than the terminology which is employed in subparagraph (B), if such terminology is more easily understood and conveys substantially the same meaning.
 
@@ -132,7 +132,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (iv) Balance calculation method
 
-&emsp;&emsp;&emsp;(I) The name of the balance calculation method used in determining the balanceon which the finance charge is computed if the method used has been defined by the Bureau, or a detailed explanation of the balance calculation method used if the method has not been so defined.
+&emsp;&emsp;&emsp;(I) The name of the balance calculation method used in determining the balance on which the finance charge is computed if the method used has been defined by the Bureau, or a detailed explanation of the balance calculation method used if the method has not been so defined.
 
 &emsp;&emsp;&emsp;(II) In prescribing regulations to carry out this clause, the Bureau shall define and name not more than the 5 balance calculation methods determined by the Bureau to be the most commonly used methods.
 
@@ -150,7 +150,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (iii) Over-the-limit fee
 
-&emsp;&emsp;&emsp;Any fee imposed in connection with an extension of credit in excess of the amount of credit authorized to be extended with respect to such account.
+&emsp;&emsp;&emsp;Any fee imposed in connection with an extension of credit in excess of the amountof credit authorized to be extended with respect to such account.
 
 #### (2) Telephone solicitations
 
@@ -232,7 +232,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (A) In general
 
-&emsp;&emsp;Any application or solicitation to open a charge card account shall disclose clearly and conspicuously the following information in the form required by section 1632(c) of this title, subject to subsection (e):
+&emsp;&emsp;Any application or solicitation to open a charge card account shall disclose clearlyand conspicuously the following information in the form required by section 1632(c) of this title, subject to subsection (e):
 
 &emsp;&emsp;&emsp;(i) Any annual fee, other periodic fee, or membership fee imposed for the issuance or availability of the charge card, including any account maintenance fee or other charge imposed based on activity or inactivity for the account during the billing cycle.
 
@@ -292,7 +292,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (E) Charge card defined
 
-&emsp;&emsp;For the purposes of this subsection, the term "charge card" means a card, plate, orother single credit device that may be used from time to time to obtain credit which is not subject to a finance charge.
+&emsp;&emsp;For the purposes of this subsection, the term "charge card" means a card, plate, or other single credit device that may be used from time to time to obtain credit which is not subject to a finance charge.
 
 #### (5) Regulatory authority of the Bureau
 
@@ -372,7 +372,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (B) Application requirements
 
-&emsp;&emsp;An application to open a credit card account by a consumer who has not attained the age of 21 as of the date of submission of the application shall require—
+&emsp;&emsp;An application to open a credit card account by a consumer who has not attainedthe age of 21 as of the date of submission of the application shall require—
 
 &emsp;&emsp;&emsp;(i) the signature of a cosigner, including the parent, legal guardian, spouse, or any other individual who has attained the age of 21 having a means to repay debts incurred by the consumer in connection with the account, indicating joint liability for debts incurred by the consumer in connection with the account before the consumer has attained the age of 21; or
 
@@ -424,7 +424,7 @@ If the amount of any fee required to be disclosed by a credit or charge card iss
 
 #### (3) Right to discontinue guarantee or insurance
 
-&emsp;The notices required under paragraphs (1) and (2) shall each include a statement that theconsumer has the option to discontinue the insurance or guarantee.
+&emsp;The notices required under paragraphs (1) and (2) shall each include a statement that the consumer has the option to discontinue the insurance or guarantee.
 
 #### (4) No preemption of State law
 
@@ -442,7 +442,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (1) Advance notice of increase in interest rate required
 
-&emsp;In the case of any credit card account under an open end consumer credit plan, a creditor shall provide a written notice of an increase in an annual percentage rate (except in the case of an increase described in paragraph (1), (2), or (3) of section 1666i–1(b) of this title) not later than 45 days prior to the effective date of the increase.
+&emsp;In the case of any credit card account under an open end consumer credit plan, a creditorshall provide a written notice of an increase in an annual percentage rate (except in the case of an increase described in paragraph (1), (2), or (3) of section 1666i–1(b) of this title) not later than 45 days prior to the effective date of the increase.
 
 #### (2) Advance notice of other significant changes required
 
@@ -510,7 +510,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (l) Limit on fees related to method of payment
 
-With respect to a credit card account under an open end consumer credit plan, the creditor may not impose a separate fee to allow the obligor to repay an extension of credit or finance charge, whether such repayment is made by mail, electronic transfer, telephone authorization, or other means, unless such payment involves an expedited service by a service representative of the creditor.
+With respect to a credit card account under an open end consumer credit plan, the creditor maynot impose a separate fee to allow the obligor to repay an extension of credit or finance charge, whether such repayment is made by mail, electronic transfer, telephone authorization, or other means, unless such payment involves an expedited service by a service representative of the creditor.
 
 #### (m) Use of term "fixed rate"
 
@@ -672,7 +672,7 @@ Subsec. (b)(10). Pub. L. 93–495, §415(2), inserted exception relating to noni
 
 Subsec. (b)(11). Pub. L. 93–495, §305, added par. (11).
 
-Subsec. (c). Pub. L. 93–495, §304(b), substituted provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than the time of mailing the next statement required by subsec. (b) of this section, for provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than thirty days after July 1, 1969.
+Subsec. (c). Pub. L. 93–495, §304(b), substituted provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than the time of mailing the next statement required by subsec. (b) of this section, for provisions relating to disclosurerequirements in a notice mailed or delivered to the obligor not later than thirty days after July 1, 1969.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -740,7 +740,7 @@ Pub. L. 111–24, title II, §201(c), May 22, 2009, 123 Stat. 1745, provided tha
 
 "(1)
 
-In general.—Not later than 6 months after the date of enactment of this Act \[May 22, 2009\], the Board \[of Governors of the Federal Reserve System\] shall issue guidelines, by rule, in consultation with the Secretary of the Treasury, for the establishment and maintenance by creditors of a toll-free telephone number for purposes of providing information about accessing credit counseling and debt management services, as required under section 127(b)(11)(B)(iv) of the Truth inLending Act \[15 U.S.C. 1637(b)(11)(B)(iv)\], as added by this section.
+In general.—Not later than 6 months after the date of enactment of this Act \[May 22, 2009\], the Board \[of Governors of the Federal Reserve System\] shall issue guidelines, by rule, in consultation with the Secretary of the Treasury, for the establishment and maintenance by creditors of a toll-free telephone number for purposes of providing information about accessing credit counseling and debt management services, as required under section 127(b)(11)(B)(iv) of the Truth in Lending Act \[15 U.S.C. 1637(b)(11)(B)(iv)\], as added by this section.
 
 "(2)
 
@@ -752,7 +752,7 @@ Pub. L. 109–8, title XIII, §1303(b)(1), Apr. 20, 2005, 119 Stat. 211, provide
 
 Pub. L. 109–8, title XIII, §1304(b)(1), Apr. 20, 2005, 119 Stat. 211, provided that: "The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(c)(7) of the Truth in Lending Act \[subsec. (c)(7) of this section\], as added by this section."
 
-Pub. L. 109–8, title XIII, §1305(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: "The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(b)(12) of the Truth in Lending Act \[subsec. (b)(12) of this section\], as added by this section."
+Pub. L. 109–8, title XIII, §1305(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: "The Board \[of Governors ofthe Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(b)(12) of the Truth in Lending Act \[subsec. (b)(12) of this section\], as added by this section."
 
 Pub. L. 109–8, title XIII, §1306(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: "The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(h) of the Truth in Lending Act \[subsec. (h) of this section\], as added by this section."
 

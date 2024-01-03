@@ -14,7 +14,7 @@ Section 3352, Pub. L. 89–10, title IX, §942, as added Pub. L. 95–561, title
 
 Section 3353, Pub. L. 89–10, title IX, §943, as added Pub. L. 95–561, title VIII, §802, Nov. 1, 1978, 92 Stat. 2301; amended Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, related to allotments to local educational agencies.
 
-Section 3354, Pub. L. 89–10, title IX, §944, as added Pub. L. 95–561, title VIII, §802, Nov. 1, 1978, 92 Stat. 2302; amended Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, related to submission of applications by local educational agencies in order to receive grants.
+Section 3354, Pub. L. 89–10, title IX, §944, as added Pub. L. 95–561, title VIII, §802, Nov. 1, 1978, 92 Stat. 2302; amended Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, related to submission ofapplications by local educational agencies in order to receive grants.
 
 Section 3361, Pub. L. 89–10, title IX, §951, as added Pub. L. 95–561, title VIII, §802, Nov. 1, 1978, 92 Stat. 2303, set out statement of policy for ethnic heritage program.
 

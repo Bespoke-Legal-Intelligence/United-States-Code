@@ -6,7 +6,7 @@
 
 &emsp;(A) the purchaser has an obligation to contribute to the plan with respect to the operations for substantially the same number of contribution base units for which the seller had an obligation to contribute to the plan;
 
-&emsp;(B) the purchaser provides to the plan for a period of 5 plan years commencing with the first plan year beginning after the sale of assets, a bond issued by a corporate surety company that is an acceptable surety for purposes of section 1112 of this title, or an amount held in escrow by a bank or similar financial institution satisfactory to the plan, in an amount equal to the greater of—
+&emsp;(B) the purchaser provides to the plan for a period of 5 plan years commencing with thefirst plan year beginning after the sale of assets, a bond issued by a corporate surety company that is an acceptable surety for purposes of section 1112 of this title, or an amount held in escrow by a bank or similar financial institution satisfactory to the plan, in an amount equal to the greater of—
 
 &emsp;&emsp;(i) the average annual contribution required to be made by the seller with respect to the operations under the plan for the 3 plan years preceding the plan year in which the sale of the employer's assets occurs, or
 

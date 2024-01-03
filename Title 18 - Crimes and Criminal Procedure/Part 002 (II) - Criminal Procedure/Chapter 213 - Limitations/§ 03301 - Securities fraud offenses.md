@@ -26,5 +26,5 @@ Limitation.—No person shall be prosecuted, tried, or punished for a securities
 
 #### Effective Date
 
-Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, setout as a note under section 5301 of Title 12, Banks and Banking.
 

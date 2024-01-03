@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(ii) a governance structure for the Resource, including oversight and decision-making authorities.
 
-&emsp;&emsp;(C) A model for governance and oversight to establish strategic direction, make programmatic decisions, and manage the allocation of resources;
+&emsp;&emsp;(C) A model for governance and oversight to establish strategic direction, make programmatic decisions, and manage the allocation of resources; <sup>2</sup>
 
 &emsp;&emsp;(D) Capabilities required to create and maintain a shared computing infrastructure to facilitate access to computing resources for researchers across the country, including scalability, secured access control, resident data engineering and curation expertise, provision of curated data sets, compute resources, educational tools and services, and a user interface portal.
 
@@ -161,4 +161,6 @@ In this section:
 Enactment of this Act, referred to in subsec. (a)(2)(B), means the enactment of Pub. L. 116–283, which was approved Jan. 1, 2021.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "National Science Foundation,".</i>
+
+<i><sup>2</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

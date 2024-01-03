@@ -38,7 +38,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §8205(b), substituted "Permanent easements" for "Easements of not more than 99 years" in heading and "a permanent easement (or an easement described in section 6572(f)(1)(C)(ii) of this title)" for "an easement of not more than 99 years described in section 6572(f)(1)(C) of this title" in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §8205(b), substituted "Permanent easements" for "Easements of not morethan 99 years" in heading and "a permanent easement (or an easement described in section 6572(f)(1)(C)(ii) of this title)" for "an easement of not more than 99 years described in section 6572(f)(1)(C) of this title" in introductory provisions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

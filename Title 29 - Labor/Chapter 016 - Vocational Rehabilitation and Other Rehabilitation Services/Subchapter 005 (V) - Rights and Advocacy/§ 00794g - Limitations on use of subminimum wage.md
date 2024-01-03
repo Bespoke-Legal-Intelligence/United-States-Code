@@ -110,7 +110,7 @@ In this section, the term "Federal minimum wage" means the rate applicable under
 
 The effective date of this section, referred to in subsec. (a)(1), means 2 years after July 22, 2014. See Effective Date note below.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(A) and (d)(2)(A)(ii), (iii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(A) and (d)(2)(A)(ii), (iii), istitle VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (b)(3), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
 

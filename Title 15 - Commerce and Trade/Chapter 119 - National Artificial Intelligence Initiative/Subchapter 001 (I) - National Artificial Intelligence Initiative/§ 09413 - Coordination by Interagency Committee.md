@@ -18,7 +18,7 @@ The Interagency Committee shall—
 
 &emsp;(1) provide for interagency coordination of Federal artificial intelligence research, development, and demonstration activities and education and workforce training activities and programs of Federal departments and agencies undertaken pursuant to the Initiative;
 
-&emsp;(2) not later than 2 years after January 1, 2021, develop a strategic plan for artificial intelligence (to be updated not less than every 3 years) that establishes goals, priorities, and metrics for guiding and evaluating how the agencies carrying out the Initiative will—
+&emsp;(2) not later than 2 years after January 1, 2021, develop a strategic plan for artificial intelligence (to be updated not less than every 3 years) that establishes goals, priorities, andmetrics for guiding and evaluating how the agencies carrying out the Initiative will—
 
 &emsp;&emsp;(A) determine and prioritize areas of artificial intelligence research, development, and demonstration requiring Federal Government leadership and investment;
 

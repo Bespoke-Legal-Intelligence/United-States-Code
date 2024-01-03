@@ -10,11 +10,11 @@ Agency.—The term "agency" means any entity that falls within the definition of
 
 Agent.—The term "agent" means an individual—
 
-&emsp;&emsp;(A)(i) who is an employee of a private organization or a researcher affiliated with an institution of higher learning (including a person granted special sworn status by the Bureau of the Census under section 23(c) of title 13), and with whom a contract or other agreement is executed, on a temporary basis, by an executive agency to perform exclusively statistical activities under the control and supervision of an officer or employee of that agency;
+&emsp;&emsp;(A)(i) who is an employee of a private organization or a researcher affiliated with aninstitution of higher learning (including a person granted special sworn status by the Bureau of the Census under section 23(c) of title 13), and with whom a contract or other agreement is executed, on a temporary basis, by an executive agency to perform exclusively statistical activities under the control and supervision of an officer or employee of that agency;
 
 &emsp;&emsp;(ii) who is working under the authority of a government entity with which a contract or other agreement is executed by an executive agency to perform exclusively statistical activities under the control of an officer or employee of that agency;
 
-&emsp;&emsp;(iii) who is a self-employed researcher, a consultant, a contractor, or an employee of a contractor, and with whom a contract orother agreement is executed by an executive agency to perform a statistical activity under the control of an officer or employee of that agency; or
+&emsp;&emsp;(iii) who is a self-employed researcher, a consultant, a contractor, or an employee of a contractor, and with whom a contract or other agreement is executed by an executive agency to perform a statistical activity under the control of an officer or employee of that agency; or
 
 &emsp;&emsp;(iv) who is a contractor or an employee of a contractor, and who is engaged by the agency to design or maintain the systems for handling or storage of data received under this subchapter; and
 
@@ -106,5 +106,5 @@ Actions taken and offenses committed.—An action taken or an offense committed 
 
 #### Deadline for Guidance and Implementation
 
-Pub. L. 115–435, title III, §303(c), Jan. 14, 2019, 132 Stat. 5556, provided that: "Not later than 1 year after the date of the enactment of this Act \[Jan. 14, 2019\], the Director of the Office of Management and Budget shall promulgate or issue any regulation or guidance required by subchapter III of \[chapter 35 of\] title 44, United States Code, as amended by this section, with a requirement for such regulation or guidance to be implemented not later than 1 year after the date on which such regulation or guidance has been promulgated or issued."
+Pub. L. 115–435, title III, §303(c), Jan. 14, 2019, 132 Stat. 5556, provided that: "Not later than 1 year after thedate of the enactment of this Act \[Jan. 14, 2019\], the Director of the Office of Management and Budget shall promulgate or issue any regulation or guidance required by subchapter III of \[chapter 35 of\] title 44, United States Code, as amended by this section, with a requirement for such regulation or guidance to be implemented not later than 1 year after the date on which such regulation or guidance has been promulgated or issued."
 

@@ -128,7 +128,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (2) Service of complaints on satellite carriers
 
-&emsp;For purposes of any proceeding under this subsection, any satellite carrier that retransmits the signal of any broadcast station shall be deemed to designate the Secretary of the Commission as its agent for service of process. A television broadcast station may serve a satellite carrier with a complaint concerning an alleged violation of subsection (b)(1) through retransmission of a station within the local market of such station by filing the original and two copies of the complaint with the Secretary of the Commission and serving a copy of the complaint on the satellite carrier by means of two commonly used overnight delivery services, each addressed to the chief executive officer of the satellite carrier at its principal place of business, and each marked "URGENT LITIGATION MATTER" on the outer packaging. Service shall be deemed complete one business day after a copy of the complaint is provided to the delivery services for overnight delivery. On receipt of a complaint filed by a television broadcast station under this subsection, the Secretary of the Commission shall send the original complaint by United States mail, postage prepaid, receipt requested, addressed to the chief executive officer of the satellite carrier at its principal place of business.
+&emsp;For purposes of any proceeding under this subsection, any satellite carrier that retransmits the signal of any broadcast station shall be deemed to designate the Secretary of the Commission as its agent for service of process. A television broadcast station may serve a satellite carrier with a complaint concerning an alleged violation of subsection (b)(1) through retransmission of a station within the local market of such station by filing the original and two copies of the complaint with the Secretary of the Commission and serving a copy of the complaint on the satellite carrier by means of two commonly used overnight delivery services, each addressed to the chief executive officer of the satellite carrier at its principal place of business, and each marked "URGENT LITIGATION MATTER" on the outer packaging. Service shall be deemed complete one business day after a copy of the complaint is provided to the delivery services for overnight delivery. On receipt of a complaint filed by a television broadcast station underthis subsection, the Secretary of the Commission shall send the original complaint by United States mail, postage prepaid, receipt requested, addressed to the chief executive officer of the satellite carrier at its principal place of business.
 
 #### (3) Answers by satellite carriers
 
@@ -148,7 +148,7 @@ Such application shall contain such information as the Commission may by regulat
 
 &emsp;&emsp;&emsp;(ii) the television broadcast station had, in a writing signed by an officer of the television broadcast station, expressly authorized the retransmission of the station by the satellite carrier to each person in the local market of the television broadcast station to which the satellite carrier made such retransmissions for the entire time period during which it is alleged that a violation of subsection (b)(1) has occurred;
 
-&emsp;&emsp;&emsp;(iii) the retransmission was made after January 1, 2002, and the television broadcast station had elected to assert the rightto carriage under section 338 of this title as against the satellite carrier for the relevant period; or
+&emsp;&emsp;&emsp;(iii) the retransmission was made after January 1, 2002, and the television broadcast station had elected to assert the right to carriage under section 338 of this title as against the satellite carrier for the relevant period; or
 
 &emsp;&emsp;&emsp;(iv) the station being retransmitted is a noncommercial television broadcast station.
 
@@ -202,7 +202,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (B) Appeal
 
-&emsp;&emsp;The procedure for an appeal under this paragraph by the satellite carrier shall supersede any other appeal rights under Federal or State law. A United States district court shall be deemed to have personal jurisdiction over the satellite carrier if the carrier, or a company under common control with the satellite carrier, has delivered television programming by satellite to more than 30 customers in that district during the preceding 4-year period. If the United States District Court for the Eastern District of Virginia does not have personal jurisdiction over the satellite carrier, an enforcement action or appeal shall be brought in the United States District Court for the District of Columbia, which may find personal jurisdiction based on the satellite carrier's ownership of licenses issued by the Commission. An application by a television broadcast station for an order enforcing any cease-and-desist relief granted by the Commission shall be resolved on a highly expedited schedule. No discovery may be conducted by the parties in any such proceeding. The district courtshall enforce the Commission order unless the Commission record reflects manifest error and an abuse of discretion by the Commission.
+&emsp;&emsp;The procedure for an appeal under this paragraph by the satellite carrier shall supersede any other appeal rights under Federal or State law. A United States district court shall be deemed to have personal jurisdiction over the satellite carrier if the carrier, or a company under common control with the satellite carrier, has delivered television programming by satellite to more than 30 customers in that district during the preceding 4-year period. If the United States District Court for the Eastern District of Virginia does not have personal jurisdiction over the satellite carrier, an enforcement action or appeal shall be brought in the United States District Court for the District of Columbia, which may find personal jurisdiction based on the satellite carrier's ownership of licenses issued by the Commission. An application by a television broadcast station for an order enforcing any cease-and-desist relief granted by the Commission shall be resolved on a highly expedited schedule. No discovery may be conducted by the parties in any such proceeding. The district court shall enforce the Commission order unless the Commission record reflects manifest error and an abuse of discretion by the Commission.
 
 #### (10) Civil action for statutory damages
 
@@ -334,7 +334,7 @@ Pub. L. 102–385, §28, Oct. 5, 1992, 106 Stat. 1503, provided that: "Except wh
 
 #### Regulations
 
-Pub. L. 113–200, title I, §103(e), Dec. 4, 2014, 128 Stat. 2062, provided that: "Not later than 9 months after the date of the enactment of this Act \[Dec. 4, 2014\], the \[Federal Communications\] Commission shall promulgate regulations to implement the amendments made by this section \[amending this section\]."
+Pub. L. 113–200, title I, §103(e), Dec. 4, 2014, 128 Stat. 2062, provided that: "Not later than 9 months after the date of the enactment of this Act \[Dec. 4, 2014\], the\[Federal Communications\] Commission shall promulgate regulations to implement the amendments made by this section \[amending this section\]."
 
 Pub. L. 108–447, div. J, title IX \[title II, §207(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: "The Federal Communications Commission shall prescribe regulations to implement the amendment made by subsection (a)(5) \[amending this section\] within 180 days after the date of enactment of this Act \[Dec. 8, 2004\]."
 
@@ -356,7 +356,7 @@ Pub. L. 113–200, title I, §103(c), Dec. 4, 2014, 128 Stat. 2062, provided tha
 
 #### Digital Transition Savings Provision
 
-Pub. L. 108–447, div. J, title IX \[title II, §212\], Dec. 8, 2004, 118 Stat. 3431, provided that: "Nothing in the datesby which requirements or other provisions are effective under this Act \[probably means title IX of div. J of Pub. L. 108–447, see Short Title of 2004 Amendment note set out under section 101 of Title 17, Copyrights\] or the amendments made by this Act shall be construed—
+Pub. L. 108–447, div. J, title IX \[title II, §212\], Dec. 8, 2004, 118 Stat. 3431, provided that: "Nothing in the dates by which requirements or other provisions are effective under this Act \[probably means title IX of div. J of Pub. L. 108–447, see Short Title of 2004 Amendment note set out under section 101 of Title 17, Copyrights\] or the amendments made by this Act shall be construed—
 
 &emsp;"(1) to impair the authority of the Federal Communications Commission to take any action with respect to the transition by television broadcasters to the digital television service; or
 

@@ -42,7 +42,7 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Amendments
 
-<b>2017</b>—Subsec. (a). Pub. L. 114–329, §204(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to prioritization of proposed major researchequipment and facilities construction and annual reports.
+<b>2017</b>—Subsec. (a). Pub. L. 114–329, §204(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to prioritization of proposed major research equipment and facilities construction and annual reports.
 
 Subsec. (b). Pub. L. 114–329, §204(c)(3), redesignated subsec. (c) as (b). Prior to amendment, subsec. (b) had been omitted from this section, see Codification note above.
 

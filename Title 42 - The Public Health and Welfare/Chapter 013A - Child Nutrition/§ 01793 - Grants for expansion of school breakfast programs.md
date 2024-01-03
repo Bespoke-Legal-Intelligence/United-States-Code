@@ -70,7 +70,7 @@ Subject to the availability of appropriations provided in advance in an appropri
 
 #### (2) Preference
 
-&emsp;In awarding subgrants under this section, a State educational agency shall give preferenceto local educational agencies for qualifying schools or groups of qualifying schools that have adopted, or provide assurances that the subgrant funds will be used to adopt, the most effective mechanisms identified by the Secretary under paragraph (1).
+&emsp;In awarding subgrants under this section, a State educational agency shall give preference to local educational agencies for qualifying schools or groups of qualifying schools that have adopted, or provide assurances that the subgrant funds will be used to adopt, the most effective mechanisms identified by the Secretary under paragraph (1).
 
 #### (f) Use of funds
 
@@ -102,7 +102,7 @@ Not later than 18 months following the end of a school year during which subgran
 
 Not later than 180 days before the end of a grant term under this section, a local educational agency that receives a subgrant under this section shall—
 
-&emsp;(1) evaluate whether electing to provide universal free breakfasts under the school breakfast program in accordance with Provision 2 as established under subsections (b) through (k) of section 245.9 of title 7, Code of Federal Regulations (or successor regulations), would be cost-effective for the qualified schools based on estimated administrative savings and economies of scale; and
+&emsp;(1) evaluate whether electing to provide universal free breakfasts under the school breakfast program in accordance with Provision 2 as established under subsections (b) through (k) of section 245.9 of title 7, Code of Federal Regulations (or successor regulations), would becost-effective for the qualified schools based on estimated administrative savings and economies of scale; and
 
 &emsp;(2) submit the results of the evaluation to the State educational agency.
 

@@ -38,7 +38,7 @@ The Director of the National Institute of Standards and Technology may—
 
 &emsp;(2) produce curated, standardized, representative, high-value, secure, aggregate, and privacy protected data sets for artificial intelligence research, development, and use;
 
-&emsp;(3) support one or more institutes as described in section 9431(b) of this title for the purpose of advancing measurement science, voluntary consensus standards, and guidelines for trustworthy artificial intelligence systems;
+&emsp;(3) support one or more institutes as described in section 9431(b) of this title for thepurpose of advancing measurement science, voluntary consensus standards, and guidelines for trustworthy artificial intelligence systems;
 
 &emsp;(4) support and strategically engage in the development of voluntary consensus standards, including international standards, through open, transparent, and consensus-based processes; and
 

@@ -100,6 +100,32 @@ Pub. L. 98–34 substituted "$1,389,000,000,000" for "$400,000,000,000".
 
 #### Temporary Debt Limit Extension
 
+Pub. L. 118–5, div. D, §401, June 3, 2023, 137 Stat. 48, provided that:
+
+"(a)
+
+In General.—Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of the enactment of this Act \[June 3, 2023\] and ending on January 1, 2025.
+
+"(b)
+
+Special Rule Relating to Obligations Issued During Extension Period.—Effective on January 2, 2025, the limitation in effect under section 3101(b) of title 31, United States Code, shall be increased to the extent that—
+
+&emsp;"(1) the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on January 2, 2025, exceeds
+
+&emsp;"(2) the face amount of such obligations outstanding on the date of the enactment of this Act.
+
+"(c)
+
+Restoring Congressional Authority Over the National Debt.—
+
+&emsp;"(1)
+
+Extension limited to necessary obligations.—An obligation shall not be taken into account under subsection (b)(1) unless the issuance of such obligation was necessary to fund a commitment incurred pursuant to law by the Federal Government that required payment before January 2, 2025.
+
+&emsp;"(2)
+
+Prohibition on creation of cash reserve during extension period.—The Secretary of the Treasury shall not issue obligations during the period specified in subsection (a) for the purpose of increasing the cash balance above normal operating balances in anticipation of the expiration of such period."
+
 Pub. L. 117–73, Dec. 16, 2021, 135 Stat. 1514, provided: "That the limitation under section 3101(b) of title 31, United States Code, as most recently increased by Public Law 117–50 (31 U.S.C. 3101 note), is increased by $2,500,000,000,000."
 
 Pub. L. 117–50, §1, Oct. 14, 2021, 135 Stat. 407, provided that: "The limitation under section 3101(b) of title 31, United States Code, as most recently increased by section 301 of the Bipartisan Budget Act of 2019 \[Pub. L. 116–37\] (31 U.S.C. 3101 note), is increased by $480,000,000,000."
@@ -320,7 +346,7 @@ Expedited procedure in senate.—
 
 &emsp;&emsp;"(A)
 
-Reconvening.—Upon receipt of a certification under subsection (b), if the Senate would otherwise be adjourned, the majority leader of the Senate, after consultation with the minority leader of the Senate, shall notify the Members of the Senate that, pursuant to this subsection, the Senateshall convene not later than the thirteenth calendar day after receipt of such certification.
+Reconvening.—Upon receipt of a certification under subsection (b), if the Senate would otherwise be adjourned, the majority leader of the Senate, after consultation with the minority leader of the Senate, shall notify the Members of the Senate that, pursuant to this subsection, the Senate shall convene not later than the thirteenth calendar day after receipt of such certification.
 
 &emsp;&emsp;"(B)
 
@@ -480,7 +506,7 @@ Pub. L. 93–325, §1, June 30, 1974, 88 Stat. 285, providing for a temporary in
 
 Pub. L. 93–173, §1, Dec. 3, 1973, 87 Stat. 691, providing for a temporary increase of $75,700,000,000 in the public debt limit for the period of Dec. 3, 1973, to June 30, 1974, was also repealed by Pub. L. 93–325, §2, June 30, 1974, 88 Stat. 285, eff. June 30, 1974.
 
-Pub. L. 92–599, title I, §101, Oct. 27, 1972, 86 Stat. 1324, as amended Pub. L. 93–53, §1, July 1, 1973, 87 Stat. 134, providing for a temporary increase of $65,000,000,000 in the public debt limit for the period of Nov. 1, 1972, to Nov. 30, 1973, was also repealed by Pub. L. 93–173, §2, Dec. 3, 1973, 87 Stat. 691, eff. Dec. 3, 1973.
+Pub. L. 92–599, title I, §101, Oct. 27, 1972, 86 Stat. 1324, as amended Pub. L. 93–53, §1, July 1, 1973, 87 Stat. 134, providing for a temporary increase of $65,000,000,000 inthe public debt limit for the period of Nov. 1, 1972, to Nov. 30, 1973, was also repealed by Pub. L. 93–173, §2, Dec. 3, 1973, 87 Stat. 691, eff. Dec. 3, 1973.
 
 Pub. L. 92–250, Mar. 15, 1972, 86 Stat. 63, as amended Pub. L. 92–336, title I, §1, July 1, 1972, 86 Stat. 406, provided for a temporary increase of $20,000,000,000 for the period Mar. 15, 1972, to Oct. 31, 1972.
 
@@ -496,7 +522,7 @@ Pub. L. 89–472, June 24, 1966, 80 Stat. 221, provided for a temporary increase
 
 Pub. L. 89–49, June 24, 1965, 79 Stat. 172, provided for a temporary increase from $285,000,000,000 to $328,000,000,000 for the period July 1, 1965, to June 30, 1966.
 
-Pub. L. 88–327, June 29, 1964, 78 Stat. 255, provided for a temporary increase from $285,000,000,000 to$324,000,000,000 for the period June 29, 1964, to June 30, 1965.
+Pub. L. 88–327, June 29, 1964, 78 Stat. 255, provided for a temporary increase from $285,000,000,000 to $324,000,000,000 for the period June 29, 1964, to June 30, 1965.
 
 Pub. L. 88–187, Nov. 26, 1963, 77 Stat. 342, provided for a temporary increase from $285,000,000,000 to $309,000,000,000 for the period Dec. 1, 1963, to June 30, 1964 and a further increase of $6,000,000,000 for the period Dec. 1, 1963 through June 29, 1964 because of variations in the timing of revenue receipts.
 

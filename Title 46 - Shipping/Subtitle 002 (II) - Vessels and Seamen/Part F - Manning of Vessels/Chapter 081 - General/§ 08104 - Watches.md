@@ -54,7 +54,7 @@
 
 &emsp;(2) entered into service after December 31, 1987, and having not more than 16 individuals on board primarily employed in the preparation of fish or fish products.
 
-(n) On a tanker, a licensed individual or seaman may not be permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency or a drill. In this subsection, "work" includes any administrative duties associated with the vessel whether performed on board the vessel or onshore.
+(n) On a tanker, a licensed individual or seaman may not be permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency or a drill. In this subsection, "work" includes any administrative duties associatedwith the vessel whether performed on board the vessel or onshore.
 
 (o)(1) Except as provided in paragraph (2) of this subsection, on a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title engaged in the Aleutian trade, the licensed individuals and crewmembers shall be divided, when at sea, into at least 3 watches.
 
@@ -130,7 +130,7 @@ Subsec. (o). Pub. L. 111–281, §903(a)(1), made technical amendment to directo
 
 Subsec. (c). Pub. L. 104–324, §1114(a), struck out "or permitted" after "required" and inserted "or permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period" after "day".
 
-Subsec. (d). Pub. L. 104–324, §728(2), inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "100 gross tons" and after "5,000 gross tons".
+Subsec. (d). Pub. L. 104–324, §728(2), inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this titleas prescribed by the Secretary under section 14104 of this title" after "100 gross tons" and after "5,000 gross tons".
 
 Subsec. (e). Pub. L. 104–324, §1114(b), substituted "subsection (d)" for "subsections (c) and (d)" in introductory provisions.
 

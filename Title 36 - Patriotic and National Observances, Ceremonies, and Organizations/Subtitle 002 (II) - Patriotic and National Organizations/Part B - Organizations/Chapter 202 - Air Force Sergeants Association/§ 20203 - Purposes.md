@@ -26,7 +26,7 @@ General.—The purposes of the corporation are as provided in its bylaws and art
 
 (b)
 
-Corporate Function.—The corporation shall function as an educational, patriotic, civic,historical, and research organization under the laws of the District of Columbia.
+Corporate Function.—The corporation shall function as an educational, patriotic, civic, historical, and research organization under the laws of the District of Columbia.
 
 (Added Pub. L. 105–354, §1(4)(A), Nov. 3, 1998, 112 Stat. 3240.)
 

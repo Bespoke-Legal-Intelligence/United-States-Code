@@ -8,6 +8,8 @@
 | [222b.](%C2%A7%2000222b%20-%20Unfunded%20priorities%20of%20the%20Missile%20Defense%20Agency%20annual%20report.md) | Unfunded priorities of the Missile Defense Agency: annual report. |
 | [222c.](%C2%A7%2000222c%20-%20Armed%20forces%20Out-Year%20Unconstrained%20Total%20Munitions%20Requirements%3B%20Out-Year%20inventory%20numbers.md) | Armed forces: Out-Year Unconstrained Total Munitions Requirements; Out-Year inventory numbers. |
 | [222d.](%C2%A7%2000222d%20-%20Annual%20report%20on%20industrial%20base%20constraints%20for%20munitions.md) | Annual report on industrial base constraints for munitions. |
+| 222e. | Programs, projects, and activities that were internally changed in the submission of the President's budget: annual report. |
+| 222e. | Unfunded priorities of the Under Secretary of Defense for Research and Engineering: annual report. |
 | [223\.](%C2%A7%2000223%20-%20Ballistic%20missile%20defense%20programs%20program%20elements.md) | Ballistic missile defense programs: program elements. |
 | [223a.](%C2%A7%2000223a%20-%20Ballistic%20missile%20defense%20programs%20procurement.md) | Ballistic missile defense programs: procurement. |
 | [224\.](%C2%A7%2000224%20-%20Ballistic%20missile%20defense%20programs%20display%20of%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation.md) | Ballistic missile defense programs: display of amounts for research, development, test, and evaluation. |
@@ -16,10 +18,11 @@
 | \[227, 228. | Repealed.\] |
 | [229\.](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md) | Programs for combating terrorism: display of budget information. |
 | \[230. | Repealed.\] |
-| [231\.](%C2%A7%2000231%20-%20Budgeting%20for%20construction%2C%20maintenance%2C%20and%20modernization%20of%20naval%20vessels%20annual%20plan%20and%20certification.md) | Budgeting for construction, maintenance, and modernization of naval vessels: annual plan and certification. |
+| [231\.](%C2%A7%2000231%20-%20Budgeting%20for%20construction%2C%20maintenance%2C%20and%20modernization%20of%20naval%20vessels%20annual%20plans%20and%20certifications.md) | Budgeting for construction, maintenance, and modernization of naval vessels: annual plans and certifications. |
 | [231a.](%C2%A7%2000231a%20-%20Budgeting%20for%20life-cycle%20costs%20of%20aircraft%20for%20the%20Army%2C%20Navy%2C%20and%20Air%20Force%20annual%20plan%20and%20certification.md) | Budgeting for life-cycle costs of aircraft for the Army, Navy, and Air Force: annual plan and certification. |
 | \[232. | Repealed.\] |
 | [233\.](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md) | Operation and maintenance budget presentation. |
+| [233a.](%C2%A7%2000233a%20-%20Annual%20report%20on%20force%20structure%20changes%20exhibit%20for%20the%20defense%20budget.md) | Annual report on force structure changes exhibit for the defense budget. |
 | [234\.](%C2%A7%2000234%20-%20POW-MIA%20activities%20display%20of%20budget%20information.md) | POW/MIA activities: display of budget information. |
 | \[235. | Repealed.\] |
 | [236\.](%C2%A7%2000236%20-%20Personal%20protection%20equipment%20procurement%20display%20of%20budget%20information.md) | Personal protection equipment procurement: display of budget information. |
@@ -30,12 +33,15 @@
 | [239b.](%C2%A7%2000239b%20-%20Certain%20intelligence-related%20programs%20budget%20justification%20materials.md) | Certain intelligence-related programs: budget justification materials. |
 | [239c.](%C2%A7%2000239c%20-%20Certain%20multiyear%20contracts%20for%20acquisition%20of%20property%20budget%20justification%20materials.md) | Certain multiyear contracts for acquisition of property: budget justification materials. |
 | [239d.](%C2%A7%2000239d%20-%20Budgeting%20for%20depot%20and%20ammunition%20production%20facility%20maintenance%20and%20repair%20annual%20report.md) | Budgeting for depot and ammunition production facility maintenance and repair: annual report. |
+| [239e.](%C2%A7%2000239e%20-%20Nuclear%20command%2C%20control%2C%20and%20communications%20major%20force%20program%20and%20budget%20assessment.md) | Nuclear command, control, and communications: major force program and budget assessment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title I, §151, title II, §211, title X, §1002, title XVI, §1631, title XVIII, §1801(a)(3)(A), Dec. 22, 2023, 137 Stat. 179, 182, 378, 591, 683, added item 222e "Programs, projects, and activities that were internally changed in the submission of the President's budget: annual report", 222e "Unfunded priorities of the Under Secretary of Defense for Research and Engineering: annual report", and items 233a and 239e and substituted "plans and certifications" for "plan and certification" in item 231. Amendments were made pursuant to operation of section 102 of this title.
 
 <b>2022</b>—Pub. L. 117–263, div. A, title III, §§352(b), 371, title XVII, §1701(d)(2), Dec. 23, 2022, 136 Stat. 2534, 2539, 2966, added items 222d, 231, and 239d and struck out former item 231 "Budgeting for construction of naval vessels: annual plan and certification".
 
@@ -104,6 +110,8 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 - [&sect; 00222b - Unfunded priorities of the Missile Defense Agency annual report](%C2%A7%2000222b%20-%20Unfunded%20priorities%20of%20the%20Missile%20Defense%20Agency%20annual%20report.md)
 - [&sect; 00222c - Armed forces Out-Year Unconstrained Total Munitions Requirements; Out-Year inventory numbers](%C2%A7%2000222c%20-%20Armed%20forces%20Out-Year%20Unconstrained%20Total%20Munitions%20Requirements%3B%20Out-Year%20inventory%20numbers.md)
 - [&sect; 00222d - Annual report on industrial base constraints for munitions](%C2%A7%2000222d%20-%20Annual%20report%20on%20industrial%20base%20constraints%20for%20munitions.md)
+- [&sect; 00222e - 1 Programs, projects, and activities that were internally changed in the submission of the President's budget annual report](%C2%A7%2000222e%20-%201%20Programs%2C%20projects%2C%20and%20activities%20that%20were%20internally%20changed%20in%20the%20submission%20of%20the%20President%27s%20budget%20annual%20report.md)
+- [&sect; 00222e - 1 Unfunded priorities of the Under Secretary of Defense for Research and Engineering annual report](%C2%A7%2000222e%20-%201%20Unfunded%20priorities%20of%20the%20Under%20Secretary%20of%20Defense%20for%20Research%20and%20Engineering%20annual%20report.md)
 - [&sect; 00223 - Ballistic missile defense programs program elements](%C2%A7%2000223%20-%20Ballistic%20missile%20defense%20programs%20program%20elements.md)
 - [&sect; 00223a - Ballistic missile defense programs procurement](%C2%A7%2000223a%20-%20Ballistic%20missile%20defense%20programs%20procurement.md)
 - [&sect; 00224 - Ballistic missile defense programs display of amounts for research, development, test, and evaluation](%C2%A7%2000224%20-%20Ballistic%20missile%20defense%20programs%20display%20of%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation.md)
@@ -113,10 +121,11 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 - [&sect; 00228 - Repealed. Pub. L. 114&#8211;92, div. A, title X, &sect;1073(a)(1), Nov. 25, 2015, 129 Stat. 995](%C2%A7%2000228%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9392%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71073%28a%29%281%29%2C%20Nov.%2025%2C%202015%2C%20129%20Stat.%20995.md)
 - [&sect; 00229 - Programs for combating terrorism display of budget information](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md)
 - [&sect; 00230 - Repealed. Pub. L. 107&#8211;314, div. A, title X, &sect;1041(a)(2)(A), Dec. 2, 2002, 116 Stat. 2645](%C2%A7%2000230%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71041%28a%29%282%29%28A%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202645.md)
-- [&sect; 00231 - Budgeting for construction, maintenance, and modernization of naval vessels annual plan and certification](%C2%A7%2000231%20-%20Budgeting%20for%20construction%2C%20maintenance%2C%20and%20modernization%20of%20naval%20vessels%20annual%20plan%20and%20certification.md)
+- [&sect; 00231 - Budgeting for construction, maintenance, and modernization of naval vessels annual plans and certifications](%C2%A7%2000231%20-%20Budgeting%20for%20construction%2C%20maintenance%2C%20and%20modernization%20of%20naval%20vessels%20annual%20plans%20and%20certifications.md)
 - [&sect; 00231a - Budgeting for life-cycle costs of aircraft for the Army, Navy, and Air Force annual plan and certification](%C2%A7%2000231a%20-%20Budgeting%20for%20life-cycle%20costs%20of%20aircraft%20for%20the%20Army%2C%20Navy%2C%20and%20Air%20Force%20annual%20plan%20and%20certification.md)
 - [&sect; 00232 - Repealed. Pub. L. 112&#8211;239, div. A, title X, &sect;1081(1)(A), Jan. 2, 2013, 126 Stat. 1960](%C2%A7%2000232%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71081%281%29%28A%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%201960.md)
 - [&sect; 00233 - Operation and maintenance budget presentation](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md)
+- [&sect; 00233a - Annual report on force structure changes exhibit for the defense budget](%C2%A7%2000233a%20-%20Annual%20report%20on%20force%20structure%20changes%20exhibit%20for%20the%20defense%20budget.md)
 - [&sect; 00234 - POW-MIA activities display of budget information](%C2%A7%2000234%20-%20POW-MIA%20activities%20display%20of%20budget%20information.md)
 - [&sect; 00235 - Repealed. Pub. L. 117&#8211;81, div. A, title VIII, &sect;815(b)(1), Dec. 27, 2021, 135 Stat. 1825](%C2%A7%2000235%20-%20Repealed.%20Pub.%20L.%20117%E2%80%9381%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7815%28b%29%281%29%2C%20Dec.%2027%2C%202021%2C%20135%20Stat.%201825.md)
 - [&sect; 00236 - Personal protection equipment procurement display of budget information](%C2%A7%2000236%20-%20Personal%20protection%20equipment%20procurement%20display%20of%20budget%20information.md)
@@ -127,3 +136,4 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 - [&sect; 00239b - Certain intelligence-related programs budget justification materials](%C2%A7%2000239b%20-%20Certain%20intelligence-related%20programs%20budget%20justification%20materials.md)
 - [&sect; 00239c - Certain multiyear contracts for acquisition of property budget justification materials](%C2%A7%2000239c%20-%20Certain%20multiyear%20contracts%20for%20acquisition%20of%20property%20budget%20justification%20materials.md)
 - [&sect; 00239d - Budgeting for depot and ammunition production facility maintenance and repair annual report](%C2%A7%2000239d%20-%20Budgeting%20for%20depot%20and%20ammunition%20production%20facility%20maintenance%20and%20repair%20annual%20report.md)
+- [&sect; 00239e - Nuclear command, control, and communications major force program and budget assessment](%C2%A7%2000239e%20-%20Nuclear%20command%2C%20control%2C%20and%20communications%20major%20force%20program%20and%20budget%20assessment.md)

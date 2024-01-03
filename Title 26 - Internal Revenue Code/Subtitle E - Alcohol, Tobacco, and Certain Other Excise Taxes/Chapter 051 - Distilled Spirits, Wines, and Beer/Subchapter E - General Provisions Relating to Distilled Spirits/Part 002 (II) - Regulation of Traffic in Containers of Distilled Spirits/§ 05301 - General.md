@@ -26,7 +26,7 @@ No person who sells, or offers for sale, distilled spirits, or agent or employee
 
 &emsp;(4) possess any liquor bottle, any portion of the contents of which has been altered or increased in violation of the provisions of paragraph (3);
 
-> except that the Secretary may by regulations authorize the reuse of liquor bottles, under such conditions as he may by regulations prescribe.When used in this subsection the term "liquor bottle" shall mean a liquor bottle or other container which has been used for the bottling or packaging of distilled spirits under regulations issued pursuant to subsection (a).
+> except that the Secretary may by regulations authorize the reuse of liquor bottles, under such conditions as he may by regulations prescribe. When used in this subsection the term "liquor bottle" shall mean a liquor bottle or other container which has been used for the bottling or packaging of distilled spirits under regulations issued pursuant to subsection (a).
 
 #### (d) Closures
 

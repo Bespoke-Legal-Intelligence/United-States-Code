@@ -172,7 +172,7 @@ For purposes of this subtitle—
 
 #### (C) Treatment of underlying property
 
-&emsp;&emsp;For purposes of determining whether gain or loss with respect to any property is ordinary income or loss, the fact that the taxpayer is actively engaged in dealing in ortrading section 1256 contracts related to such property shall not be taken into account.
+&emsp;&emsp;For purposes of determining whether gain or loss with respect to any property is ordinary income or loss, the fact that the taxpayer is actively engaged in dealing in or trading section 1256 contracts related to such property shall not be taken into account.
 
 #### (4) Special rule for dealer equity options and dealer securities futures contracts of limited partners or limited entrepreneurs
 
@@ -268,7 +268,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term "dealer securities futures contract" means, with respect to any dealer, any securities futures contract, and any option on such a contract, which—
 
-&emsp;&emsp;&emsp;(i) is entered into by such dealer (or, in the case of an option, is purchased or granted by such dealer) in the normal course of his activity of dealing in suchcontracts or options, as the case may be, and
+&emsp;&emsp;&emsp;(i) is entered into by such dealer (or, in the case of an option, is purchased or granted by such dealer) in the normal course of his activity of dealing in such contracts or options, as the case may be, and
 
 &emsp;&emsp;&emsp;(ii) is traded on a qualified board or exchange.
 
@@ -346,7 +346,7 @@ Subsec. (a)(1), (3), (4). Pub. L. 98–369, §102(a)(1), substituted "section 12
 
 Subsec. (b). Pub. L. 98–369, §102(a)(2), in par. (1), substituted "any regulated futures contract" for "with respect to which the amount required to be deposited and the amount which may be withdrawn depends on the system of marking to market; and", in par. (2), substituted "any foreign currency contract," for "which is traded on or subject to the rules of a domestic board of trade designated as a contract market by the Commodity Futures Trading Commission or of any board of trade or exchange which the Secretary determines has rules adequate to carry out the purposes of this section. Such term includes any foreign currency contract.", and added pars. (3) and (4).
 
-Subsec. (c)(1). Pub. L. 98–369, §102(a)(1)(A), (e)(1)(A), substituted "section 1256 contracts" for "regulated futures contracts", and "by taking or making delivery,by exercise or being exercised, by assignment or being assigned, by lapse," for "by taking or making delivery,".
+Subsec. (c)(1). Pub. L. 98–369, §102(a)(1)(A), (e)(1)(A), substituted "section 1256 contracts" for "regulated futures contracts", and "by taking or making delivery, by exercise or being exercised, by assignment or being assigned, by lapse," for "by taking or making delivery,".
 
 Subsec. (c)(2). Pub. L. 98–369, §102(e)(1)(C), substituted "takes delivery on or exercises" for "takes delivery on" in heading.
 
@@ -416,7 +416,7 @@ Effective Dates.—
 
 &emsp;"(1)
 
-In general.—Except as otherwise provided in this subsection or subsection (g), the amendments made by this section \[amending this section, sections 263, 1092, 1212, 1234A, 1362, 1374, and 1402 of this title, and section 411 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 1362 of this title\] shall apply to positions established after the date of the enactment of this Act \[July 18, 1984\], in taxable years ending after such date.
+In general.—Except as otherwise provided in this subsection or subsection (g), the amendments made by this section \[amending this section, sections263, 1092, 1212, 1234A, 1362, 1374, and 1402 of this title, and section 411 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 1362 of this title\] shall apply to positions established after the date of the enactment of this Act \[July 18, 1984\], in taxable years ending after such date.
 
 &emsp;"(2)
 
@@ -522,7 +522,7 @@ Pub. L. 97–448, title I, §105(c)(5)(D), Jan. 12, 1983, 96 Stat. 2386, as amen
 
 "(i)
 
-In general.—Except as provided in clauses (ii) and (iii), the amendments made by subparagraphs (B) and (C) \[amending this section\] shall apply only with respect to contracts entered into after May 11, 1982.
+In general.—Except as provided in clauses (ii) and (iii), the amendments made by subparagraphs (B)and (C) \[amending this section\] shall apply only with respect to contracts entered into after May 11, 1982.
 
 "(ii)
 
@@ -556,7 +556,7 @@ Definitions.—For purposes of this clause, the terms 'regulated futures contrac
 
 "(iii)
 
-Election by taxpayer with respect to positions held during taxable years ending after may 11, 1982.—In lieu of the election under clause (ii), a taxpayer may elect to have the amendments made by subparagraphs (B) and (C) \[amending subsec. (b) of thissection to include foreign currency contracts and enacting subsec. (g) of this section, respectively\] applied to all positions held in taxable years ending after May 11, 1982, except that the provisions of section 509(a)(3) and (4) of the Economic Recovery Tax Act of 1981 \[set out below\] shall not apply."
+Election by taxpayer with respect to positions held during taxable years ending after may 11, 1982.—In lieu of the election under clause (ii), a taxpayer may elect to have the amendments made by subparagraphs (B) and (C) \[amending subsec. (b) of this section to include foreign currency contracts and enacting subsec. (g) of this section, respectively\] applied to all positions held in taxable years ending after May 11, 1982, except that the provisions of section 509(a)(3) and (4) of the Economic Recovery Tax Act of 1981 \[set out below\] shall not apply."
 
 #### Effective Date of 1982 Amendment
 

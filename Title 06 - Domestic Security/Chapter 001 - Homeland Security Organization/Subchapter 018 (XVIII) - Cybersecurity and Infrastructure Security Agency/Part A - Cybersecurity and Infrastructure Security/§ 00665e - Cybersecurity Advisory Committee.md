@@ -36,7 +36,7 @@ The Secretary shall establish within the Agency a Cybersecurity Advisory Committ
 
 #### (B) Publication
 
-&emsp;&emsp;Not later than 180 days after the date on which the Director receives an annual report for a year under subparagraph (A), the Director shall publish a public version of the report describing the activities of the Advisory Committee and such related matters as would be informative to the public during that year, consistent with section 552(b) of title 5.
+&emsp;&emsp;Not later than 180 days after the date on which the Director receives an annual report for a year under subparagraph (A), the Director shall publish a public version of the report describing the activities of the Advisory Committee and such related matters aswould be informative to the public during that year, consistent with section 552(b) of title 5.
 
 #### (5) Feedback
 
@@ -48,7 +48,7 @@ The Secretary shall establish within the Agency a Cybersecurity Advisory Committ
 
 #### (6) Congressional notification
 
-&emsp;Not less frequently than once per year after January 1, 2021, the Director shall provide tothe Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate and the Committee on Homeland Security, the Committee on Energy and Commerce, and the Committee on Appropriations of the House of Representatives a briefing on feedback from the Advisory Committee.
+&emsp;Not less frequently than once per year after January 1, 2021, the Director shall provide to the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate and the Committee on Homeland Security, the Committee on Energy and Commerce, and the Committee on Appropriations of the House of Representatives a briefing on feedback from the Advisory Committee.
 
 #### (7) Governance rules
 
@@ -152,7 +152,7 @@ The Secretary shall establish within the Agency a Cybersecurity Advisory Committ
 
 #### (B) Access
 
-&emsp;&emsp;Access to classified materials shall be managed in accordance with Executive Order No. 13526 of December 29, 2009 (75 Fed. Reg. 707), or any subsequent corresponding Executive Order.
+&emsp;&emsp;Access to classified materials shall be managed in accordance with ExecutiveOrder No. 13526 of December 29, 2009 (75 Fed. Reg. 707), or any subsequent corresponding Executive Order.
 
 #### (C) Protections
 

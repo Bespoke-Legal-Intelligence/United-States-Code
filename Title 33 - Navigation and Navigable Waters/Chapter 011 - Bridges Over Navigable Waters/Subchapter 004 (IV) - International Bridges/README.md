@@ -9,7 +9,7 @@
 - [&sect; 00535a - Congressional consent to State agreements with Canada and Mexico; Secretary of State's approval of agreements](%C2%A7%2000535a%20-%20Congressional%20consent%20to%20State%20agreements%20with%20Canada%20and%20Mexico%3B%20Secretary%20of%20State%27s%20approval%20of%20agreements.md)
 - [&sect; 00535b - Presidential approval; recommendations of Federal officials](%C2%A7%2000535b%20-%20Presidential%20approval%3B%20recommendations%20of%20Federal%20officials.md)
 - [&sect; 00535c - Approval of Secretary; commencement and completion requirements; extension of time limits](%C2%A7%2000535c%20-%20Approval%20of%20Secretary%3B%20commencement%20and%20completion%20requirements%3B%20extension%20of%20time%20limits.md)
-- [&sect; 00535d - Repealed. Pub. L. 100&#8211;17, title I, &sect;135(g), Apr. 2, 1987, 101 Stat. 174](%C2%A7%2000535d%20-%20Repealed.%20Pub.%20L.%20100%E2%80%9317%2C%20title%20I%2C%20%C2%A7135%28g%29%2C%20Apr.%202%2C%201987%2C%20101%20Stat.%20174.md)
+- [&sect; 00535d - Permitting for international bridges](%C2%A7%2000535d%20-%20Permitting%20for%20international%20bridges.md)
 - [&sect; 00535e - Ownership](%C2%A7%2000535e%20-%20Ownership.md)
 - [&sect; 00535f - Applicability of provisions](%C2%A7%2000535f%20-%20Applicability%20of%20provisions.md)
 - [&sect; 00535g - Federal navigable waters and commerce jurisdiction unaffected](%C2%A7%2000535g%20-%20Federal%20navigable%20waters%20and%20commerce%20jurisdiction%20unaffected.md)

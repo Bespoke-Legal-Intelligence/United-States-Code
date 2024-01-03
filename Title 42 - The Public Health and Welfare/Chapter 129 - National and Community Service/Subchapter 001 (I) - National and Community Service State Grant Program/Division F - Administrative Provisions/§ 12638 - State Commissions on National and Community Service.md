@@ -12,7 +12,7 @@
 
 #### (b) Appointment and size
 
-Except as provided in subsection (c)(3), the members of a State Commission for a Stateshall be appointed by the chief executive officer of the State. A State Commission shall consist of not fewer than 15, and not more than 25, voting members, and any ex officio nonvoting members, as described in paragraph (3) or (4) of subsection (c).
+Except as provided in subsection (c)(3), the members of a State Commission for a State shall be appointed by the chief executive officer of the State. A State Commission shall consist of not fewer than 15, and not more than 25, voting members, and any ex officio nonvoting members, as described in paragraph (3) or (4) of subsection (c).
 
 #### (c) Composition and membership
 
@@ -96,7 +96,7 @@ Except as provided in subsection (c)(3), the members of a State Commission for a
 
 &emsp;&emsp;&emsp;(i) a grant application relating to such program is pending before the Commission (or such entity); and
 
-&emsp;&emsp;&emsp;(ii) the application was submitted by a program or entity of which such memberis, or in the 1-year period before the submission of such application was, an officer, director, trustee, full-time volunteer, or employee.
+&emsp;&emsp;&emsp;(ii) the application was submitted by a program or entity of which such member is, or in the 1-year period before the submission of such application was, an officer, director, trustee, full-time volunteer, or employee.
 
 #### (B) Exception
 
@@ -104,7 +104,7 @@ Except as provided in subsection (c)(3), the members of a State Commission for a
 
 #### (C) Rule of construction
 
-&emsp;&emsp;Subparagraph (A) shall not be construed to limit the authority of any voting member of the Commission (or of such entity) to participate in—
+&emsp;&emsp;Subparagraph (A) shall not be construed to limit the authority of any voting member ofthe Commission (or of such entity) to participate in—
 
 &emsp;&emsp;&emsp;(i) discussion of, and hearing and forums on—
 
@@ -162,7 +162,7 @@ The State Commission or alternative administrative entity for a State shall be r
 
 #### (f) Relief from administrative requirements
 
-Upon approval of a State plan submitted under subsection (e)(1), the Chief Executive Officer may waive for the State, or specify alternativesfor the State to, administrative requirements (other than statutory provisions) otherwise applicable to grants made to States under the national service laws, including those requirements identified by the State as impeding the coordination and effectiveness of Federal, State, and local resources for service and volunteerism within the State.
+Upon approval of a State plan submitted under subsection (e)(1), the Chief Executive Officer may waive for the State, or specify alternatives for the State to, administrative requirements (other than statutory provisions) otherwise applicable to grants made to States under the national service laws, including those requirements identified by the State as impeding the coordination and effectiveness of Federal, State, and local resources for service and volunteerism within the State.
 
 #### (g) State service plan for adults age 55 or older
 

@@ -16,7 +16,7 @@ For the purpose of ascertaining whether issuance of an order is approved by prod
 
 #### (2) Amendments to orders
 
-&emsp;The Secretary may amend an order in accordance with the administrative procedures specified in sections 4604 and 4605 of this title, except that the Secretary may not amend a provision of an order that implements a provision of this chapter that specifically provides for approval in a referendum without the approval provided for in this section.
+&emsp;The Secretary may amend an order in accordance with the administrative procedures specified in sections 4604 and 4605 of this title, except that the Secretary may not amend a provision of an order that implements a provision of this chapter that specifically providesfor approval in a referendum without the approval provided for in this section.
 
 #### (c) Producer-packers and importers
 

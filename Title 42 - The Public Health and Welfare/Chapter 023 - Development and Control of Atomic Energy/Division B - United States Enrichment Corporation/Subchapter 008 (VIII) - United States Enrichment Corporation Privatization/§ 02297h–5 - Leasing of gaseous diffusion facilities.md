@@ -10,7 +10,7 @@ The private corporation shall have the exclusive option to lease the gaseous dif
 
 #### (c) Exclusion of facilities for production of highly enriched uranium
 
-The Secretary shall not lease to the private corporation any facilities necessary for the production of highly enriched uranium but may,subject to the requirements of the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), grant the Corporation access to such facilities for purposes other than the production of highly enriched uranium.
+The Secretary shall not lease to the private corporation any facilities necessary for the production of highly enriched uranium but may, subject to the requirements of the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), grant the Corporation access to such facilities for purposes other than the production of highly enriched uranium.
 
 #### (d) DOE responsibility for preexisting conditions
 
@@ -38,7 +38,7 @@ The execution or transfer of the lease between the Secretary and the Corporation
 
 &emsp;(A) The costs of arming and providing arrest authority to the security police officers required under paragraph (1) shall be paid as follows:
 
-&emsp;&emsp;(i) the Department of Energy (the "Department") shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are: (I) employees of the Department or the contractor or subcontractors of the Department; or (II) employees of the private entity leasing the gaseous diffusion plant who perform work on behalf of the Department (including employees of a contractor or subcontractor of the private entity); and
+&emsp;&emsp;(i) the Department of Energy (the "Department") shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are: (I) employees of the Department or the contractor or subcontractors of the Department; or (II) employees ofthe private entity leasing the gaseous diffusion plant who perform work on behalf of the Department (including employees of a contractor or subcontractor of the private entity); and
 
 &emsp;&emsp;(ii) the private entity leasing the gaseous diffusion plant shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are employees of the private entity (including employees of a contractor or subcontractor) other than those employees who perform work for the Department.
 

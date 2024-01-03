@@ -56,7 +56,7 @@ The Secretary shall—
 
 &emsp;(4) develop a program of orientation for fellowship recipients under this subchapter; and
 
-&emsp;(5) not later than August 31 of each year in which fellowships are awarded, prepare andsubmit an annual report and evaluation of the Program to the appropriate Committees of the Senate and the House of Representatives.
+&emsp;(5) not later than August 31 of each year in which fellowships are awarded, prepare and submit an annual report and evaluation of the Program to the appropriate Committees of the Senate and the House of Representatives.
 
 #### (c) Selection
 

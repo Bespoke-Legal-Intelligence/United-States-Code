@@ -18,7 +18,7 @@
 
 &emsp;(7) other regions, for the establishment of intermediate installations to provide for transcontinental movements of the Air Force or Space Force for maneuvers.
 
-(c) In selecting sites for installations and depots covered by this section and in determiningthe alteration or enlargement of existing installations or depots, the Secretary shall consider the need—
+(c) In selecting sites for installations and depots covered by this section and in determining the alteration or enlargement of existing installations or depots, the Secretary shall consider the need—
 
 &emsp;(1) to form the nucleus for concentration of Air Force or Space Force units in time of war;
 
@@ -38,7 +38,7 @@
 
 (e) The Secretary may, by purchase, gift, lease, or otherwise, acquire at desired locations bombing and machine gun ranges necessary for practice by, and the training of, tactical units.
 
-(f) At each installation or depot established under this section, the Secretary shall remove or remodel existing structures as necessary; do necessary grading; and provide buildings, utilities, communication systems, landing fields and mats, roads, walks, aprons, docks, runways, facilities for the storage and distribution of ammunition, fuel, oil, necessary protection against bombs, and all appurtenances to the foregoing.
+(f) At each installation or depot established under this section, the Secretary shall removeor remodel existing structures as necessary; do necessary grading; and provide buildings, utilities, communication systems, landing fields and mats, roads, walks, aprons, docks, runways, facilities for the storage and distribution of ammunition, fuel, oil, necessary protection against bombs, and all appurtenances to the foregoing.
 
 (g) The Secretary may direct the transportation of personnel, and the purchase, renovation, and transportation of material, that he considers necessary to carry out this section.
 

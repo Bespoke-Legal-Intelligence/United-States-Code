@@ -36,7 +36,7 @@
 
 #### Change of Name
 
-"United States magistrate judges" substituted for "United States magistrates" in subsec. (b)(3) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+"United States magistrate judges" substituted for "United States magistrates" in subsec. (b)(3) pursuantto section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 #### Effective Date of 1992 Amendment
 

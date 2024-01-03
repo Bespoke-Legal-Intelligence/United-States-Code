@@ -72,7 +72,7 @@
 
 #### (3) Commencement, termination, and restoration of annuity
 
-&emsp;An annuity payable from the fund under this subchapter to a surviving former spouse underthis subsection shall commence on the day after the annuitant dies and shall terminate on the last day of the month before the former spouse's death or remarriage before attaining age 55. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same rate commencing on the date such remarriage is dissolved by death, annulment, or divorce if any lump sum paid upon termination of the annuity is returned to the fund.
+&emsp;An annuity payable from the fund under this subchapter to a surviving former spouse under this subsection shall commence on the day after the annuitant dies and shall terminate on the last day of the month before the former spouse's death or remarriage before attaining age 55. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same rate commencing on the date such remarriage is dissolved by death, annulment, or divorce if any lump sum paid upon termination of the annuity is returned to the fund.
 
 #### (4) Survivor annuity amount
 
@@ -240,7 +240,7 @@ Termination of annuity.—The entitlement of a former wife or husband to a survi
 
 &emsp;"(4)
 
-Election of benefits.—A former wife or husband of a participant or retired participant shall not become entitled under this subsection to a survivor annuity or to the restoration of the survivor annuity unless the former wife or husband elects to receive it instead of any other survivor annuity to which the former wife or husband may be entitled under theCentral Intelligence Agency Retirement and Disability System or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
+Election of benefits.—A former wife or husband of a participant or retired participant shall not become entitled under this subsection to a survivor annuity or to the restoration of the survivor annuity unless the former wife or husband elects to receive it instead of any other survivor annuity to which the former wife or husband may be entitled under the Central Intelligence Agency Retirement and Disability System or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
 
 &emsp;"(5)
 
@@ -334,7 +334,7 @@ Retirement annuities.—The entitlement of a former wife or husband to an annuit
 
 &emsp;&emsp;&emsp;"(ii) shall terminate on the earlier of—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the last day of the month before the former wife or husband dies or remarries before 55 years of age, except that the entitlement of the former wife or husband to an annuity under this subsection shall be restored on the date such remarriage is dissolved by death, annulment, or divorce; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the last day of the month before the former wife or husband dies or remarries before 55 years of age, except that the entitlement of the former wife or husband to an annuity underthis subsection shall be restored on the date such remarriage is dissolved by death, annulment, or divorce; or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the date on which the annuity of the participant terminates.
 

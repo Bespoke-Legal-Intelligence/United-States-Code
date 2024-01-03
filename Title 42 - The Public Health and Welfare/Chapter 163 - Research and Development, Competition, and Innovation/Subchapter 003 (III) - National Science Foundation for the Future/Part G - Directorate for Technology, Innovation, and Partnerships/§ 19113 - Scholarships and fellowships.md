@@ -28,7 +28,7 @@ In carrying out this section, the Director shall take steps to increase the part
 
 #### (d) Encouraging innovation
 
-In carrying out this section, the Director shall encourage innovation in graduate education, including through encouraging institutions ofhigher education to offer graduate students opportunities to gain experience in industry or Government as part of their graduate training, and through support for students in professional master's programs related to the key technology focus areas or to the societal, national, and geostrategic challenges.
+In carrying out this section, the Director shall encourage innovation in graduate education, including through encouraging institutions of higher education to offer graduate students opportunities to gain experience in industry or Government as part of their graduate training, and through support for students in professional master's programs related to the key technology focus areas or to the societal, national, and geostrategic challenges.
 
 #### (e) Areas of funding support
 

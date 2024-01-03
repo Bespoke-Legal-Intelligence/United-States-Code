@@ -14,7 +14,7 @@ The Federal Energy Administrator—
 
 The requirements referred to in subsection (a) are as follows:
 
-&emsp;(1) An order under subsection (a) may not be issued with respect to a powerplant or installation unless the Federal Energy Administrator finds (A) that the burning of coal by such plant or installation, in lieu of petroleum products or natural gas, is practicable and consistent with the purposes of this chapter, (B) that coal and coal transportation facilities will be available during the period the order is in effect, and (C) in the case of a powerplant, that the prohibition under subsection (a) will not impair the reliability of service in the area served by such plant. Such an order shall be rescinded or modified to the extent the Federal Energy Administrator determines that any requirement described in subparagraph (A), (B), or (C) of this paragraph is no longer met; and such an order may at any time be modified if the Federal Energy Administrator determines that such order, as modified, complies with the requirements of this section.
+&emsp;(1) An order under subsection (a) may not be issued with respect to a powerplant or installation unless the Federal Energy Administrator finds (A) that the burning of coal by such plant or installation, in lieu of petroleumproducts or natural gas, is practicable and consistent with the purposes of this chapter, (B) that coal and coal transportation facilities will be available during the period the order is in effect, and (C) in the case of a powerplant, that the prohibition under subsection (a) will not impair the reliability of service in the area served by such plant. Such an order shall be rescinded or modified to the extent the Federal Energy Administrator determines that any requirement described in subparagraph (A), (B), or (C) of this paragraph is no longer met; and such an order may at any time be modified if the Federal Energy Administrator determines that such order, as modified, complies with the requirements of this section.
 
 &emsp;(2)(A) Before issuing an order under subsection (a) which is applicable to a powerplant or installation for a period ending on or before June 30, 1975, the Federal Energy Administrator (i) shall give notice to the public and afford interested persons an opportunity for written presentations of data, views, and arguments, (ii) shall consult with the Administrator of the Environmental Protection Agency, and (iii) shall take into account the likelihood that the powerplant or installation will be permitted to burn coal after June 30, 1975.
 
@@ -42,7 +42,7 @@ For purposes of this section:
 
 #### (f) Expiration of authority; effective dates
 
-(1) Authority to issue orders or rules under subsections (a) through (d) of this section shallexpire at midnight, December 31, 1978. Such a rule or order may take effect at any time before January 1, 1985.
+(1) Authority to issue orders or rules under subsections (a) through (d) of this section shall expire at midnight, December 31, 1978. Such a rule or order may take effect at any time before January 1, 1985.
 
 (2) Authority to amend, repeal, rescind, modify, or enforce such rules or orders shall expire at midnight, December 31, 1984; but the expiration of such authority shall not affect any administrative or judicial proceeding which relates to any act or omission which occurred prior to January 1, 1985.
 

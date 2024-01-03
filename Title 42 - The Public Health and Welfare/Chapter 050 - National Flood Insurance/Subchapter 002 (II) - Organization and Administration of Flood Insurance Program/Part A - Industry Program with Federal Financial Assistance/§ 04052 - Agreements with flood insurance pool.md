@@ -14,7 +14,7 @@ Such agreements shall specify—
 
 &emsp;(3) the maximum amount of profit, established by the Administrator and set forth in the schedules prescribed under section 4018 of this title, which may be realized by such pool (and the companies and other insurers participating therein),
 
-&emsp;(4) the terms and conditions under which operating costs and allowances set forth in theschedules prescribed under section 4018 of this title may be paid, and
+&emsp;(4) the terms and conditions under which operating costs and allowances set forth in the schedules prescribed under section 4018 of this title may be paid, and
 
 &emsp;(5) the terms and conditions under which premium equalization payments under section 4054 of this title will be made and reinsurance claims under section 4055 of this title will be paid.
 

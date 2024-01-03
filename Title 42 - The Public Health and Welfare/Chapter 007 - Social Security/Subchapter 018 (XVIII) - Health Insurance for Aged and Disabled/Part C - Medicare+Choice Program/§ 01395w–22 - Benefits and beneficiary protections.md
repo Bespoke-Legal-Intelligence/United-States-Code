@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in section 1395w–28(b)(3) of this title for MSA plans and except as provided in paragraph (6) for MA regional plans, each Medicare+Choice plan shall provide to members enrolled under this part, through providers and other persons that meet the applicable requirements of this subchapter and part A of subchapter XI, benefits under the original medicare fee-for-service program option (and, for plan years before 2006, additional benefits required under section 1395w–24(f)(1)(A) of this title).
+&emsp;&emsp;Except as provided in section 1395w–28(b)(3) of this title for MSA plans and except as provided in paragraph (6) for MA regional plans, each Medicare+Choice plan shall provide to members enrolled under this part, throughproviders and other persons that meet the applicable requirements of this subchapter and part A of subchapter XI, benefits under the original medicare fee-for-service program option (and, for plan years before 2006, additional benefits required under section 1395w–24(f)(1)(A) of this title).
 
 #### (B) Benefits under the original medicare fee-for-service program option defined
 
@@ -210,7 +210,7 @@
 
 #### (2) Disclosure upon request
 
-&emsp;Upon request of a Medicare+Choice eligible individual, a Medicare+Choice organization must provide the following information to such individual:
+&emsp;Upon request of a Medicare+Choice eligible individual, a Medicare+Choice organizationmust provide the following information to such individual:
 
 &emsp;&emsp;(A) The general coverage information and general comparative plan information made available under clauses (i) and (ii) of section 1395w–21(d)(2)(A) of this title.
 
@@ -270,7 +270,7 @@
 
 #### (4) Assuring access to services in Medicare+Choice private fee-for-service plans
 
-&emsp;In addition to any other requirements under this part, in the case of a Medicare+Choice private fee-for-service plan, the organization offering the plan must demonstrate to the Secretary that the organization has sufficientnumber and range of health care professionals and providers willing to provide services under the terms of the plan. Subject to paragraphs (5) and (6), the Secretary shall find that an organization has met such requirement with respect to any category of health care professional or provider if, with respect to that category of provider—
+&emsp;In addition to any other requirements under this part, in the case of a Medicare+Choice private fee-for-service plan, the organization offering the plan must demonstrate to the Secretary that the organization has sufficient number and range of health care professionals and providers willing to provide services under the terms of the plan. Subject to paragraphs (5) and (6), the Secretary shall find that an organization has met such requirement with respect to any category of health care professional or provider if, with respect to that category of provider—
 
 &emsp;&emsp;(A) the plan has established payment rates for covered services furnished by that category of provider that are not less than the payment rates provided for under part A, part B, or both, for such services, or
 
@@ -324,7 +324,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clauses (ii) and (iii) with respect to plans described in such clauses and subject to subparagraph (B), as part of the quality improvement program under paragraph (1), each MA organization shall provide for the collection, analysis, and reporting of data that permits the measurement of health outcomes and other indices of quality. With respect to MA private fee-for-service plans and MSA plans, the requirements under the preceding sentence may not exceed the requirements under this subparagraph with respect to MA local plans that are preferred provider organization plans, except that, for plan year 2010, the limitation under clause (iii) shall not apply and suchrequirements shall apply only with respect to administrative claims data.
+&emsp;&emsp;&emsp;Except as provided in clauses (ii) and (iii) with respect to plans described in such clauses and subject to subparagraph (B), as part of the quality improvement program under paragraph (1), each MA organization shall provide for the collection, analysis, and reporting of data that permits the measurement of health outcomes and other indices of quality. With respect to MA private fee-for-service plans and MSA plans, the requirements under the preceding sentence may not exceed the requirements under this subparagraph with respect to MA local plans that are preferred provider organization plans, except that, for plan year 2010, the limitation under clause (iii) shall not apply and such requirements shall apply only with respect to administrative claims data.
 
 #### (ii) Special requirements for specialized MA plans for special needs individuals
 
@@ -392,7 +392,7 @@
 
 #### (f) Grievance mechanism
 
-Each Medicare+Choice organization must provide meaningful procedures for hearing and resolving grievances between the organization (including any entity or individual through whichthe organization provides health care services) and enrollees with Medicare+Choice plans of the organization under this part.
+Each Medicare+Choice organization must provide meaningful procedures for hearing and resolving grievances between the organization (including any entity or individual through which the organization provides health care services) and enrollees with Medicare+Choice plans of the organization under this part.
 
 #### (g) Coverage determinations, reconsiderations, and appeals
 
@@ -410,7 +410,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (A) In general
 
-&emsp;&emsp;The organization shall provide for reconsideration of a determination described in paragraph (1)(B) upon request by the enrollee involved. The reconsideration shall be within a time period specified by the Secretary, but shall be made, subject to paragraph (3), not later than 60 days after the date of the receipt of the request for reconsideration.
+&emsp;&emsp;The organization shall provide for reconsideration of a determination described inparagraph (1)(B) upon request by the enrollee involved. The reconsideration shall be within a time period specified by the Secretary, but shall be made, subject to paragraph (3), not later than 60 days after the date of the receipt of the request for reconsideration.
 
 #### (B) Physician decision on certain reconsiderations
 
@@ -448,7 +448,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (5) Appeals
 
-&emsp;An enrollee with a Medicare+Choice plan of a Medicare+Choice organization under this part who is dissatisfied by reason of the enrollee's failure to receive any health service to which the enrollee believes the enrollee is entitled and at no greater charge than the enrollee believes the enrollee is required to pay is entitled, if the amount in controversy is $100 or more, to a hearing before the Secretary to the same extent as is provided in section 405(b) of this title, and in any such hearing the Secretary shall make the organization a party. If the amount in controversy is $1,000 or more, the individual or organization shall, upon notifying the other party, be entitled to judicial review of the Secretary's final decision as provided in section 405(g) of this title, and both the individual and the organization shall be entitled to be parties to that judicial review. In applying subsections (b) and (g) of section 405 of this title as provided in this paragraph, and in applying section 405(l) ofthis title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively. The provisions of section 1395ff(b)(1)(E)(iii) of this title shall apply with respect to dollar amounts specified in the first 2 sentences of this paragraph in the same manner as they apply to the dollar amounts specified in section 1395ff(b)(1)(E)(i) of this title.
+&emsp;An enrollee with a Medicare+Choice plan of a Medicare+Choice organization under this part who is dissatisfied by reason of the enrollee's failure to receive any health service to which the enrollee believes the enrollee is entitled and at no greater charge than the enrollee believes the enrollee is required to pay is entitled, if the amount in controversy is $100 or more, to a hearing before the Secretary to the same extent as is provided in section 405(b) of this title, and in any such hearing the Secretary shall make the organization a party. If the amount in controversy is $1,000 or more, the individual or organization shall, upon notifying the other party, be entitled to judicial review of the Secretary's final decision as provided in section 405(g) of this title, and both the individual and the organization shall be entitled to be parties to that judicial review. In applying subsections (b) and (g) of section 405 of this title as provided in this paragraph, and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively. The provisions of section 1395ff(b)(1)(E)(iii) of this title shall apply with respect to dollar amounts specified in the first 2 sentences of this paragraph in the same manner as they apply to the dollar amounts specified in section 1395ff(b)(1)(E)(i) of this title.
 
 #### (h) Confidentiality and accuracy of enrollee records
 
@@ -518,7 +518,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (5) Limitation on provider indemnification
 
-&emsp;A Medicare+Choice organization may not provide (directly or indirectly) for a health care professional, provider of services, or other entity providing health care services (or group of such professionals, providers, or entities) to indemnify the organization against any liability resulting from a civil action brought for any damage caused to an enrollee with a Medicare+Choice plan of the organization under this part by the organization's denial of medically necessary care.
+&emsp;A Medicare+Choice organization may not provide (directly or indirectly) for a health care professional, provider of services, or other entity providing health care services (or group of such professionals, providers, or entities) to indemnify the organization against any liability resulting from a civil action brought for any damage caused to an enrollee with a Medicare+Choice plan of the organizationunder this part by the organization's denial of medically necessary care.
 
 #### (6) Special rules for Medicare+Choice private fee-for-service plans
 
@@ -596,7 +596,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each Medicare+Choice organization that offers a Medicare+Choice private fee-for-service plan shall provide that enrollees under the plan who are furnished services for which payment is sought under the plan are provided an appropriate explanation of benefits (consistent with that provided under parts A and B and, if applicable, under medicare supplemental policies) that includes a clear statement of the amount of the enrollee's liability (including any liability for balance billing consistent with this subsection) with respect to payments for such services.
+&emsp;&emsp;&emsp;Each Medicare+Choice organization that offers a Medicare+Choice private fee-for-service plan shall provide that enrollees under the plan who are furnished servicesfor which payment is sought under the plan are provided an appropriate explanation of benefits (consistent with that provided under parts A and B and, if applicable, under medicare supplemental policies) that includes a clear statement of the amount of the enrollee's liability (including any liability for balance billing consistent with this subsection) with respect to payments for such services.
 
 #### (ii) Advance notice before receipt of inpatient hospital services and certain other services
 
@@ -730,13 +730,13 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 &emsp;The Secretary shall, through rulemaking, establish criteria the Secretary determines appropriate with respect to information provided to an individual to ensure that such information sufficiently educates such individual on the safe disposal of prescription drugs that are controlled substances.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(B), title V, §§518, 520(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title V, §521(b), title VI, §§611(b), 615, 616,621(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543, 2763A–560, 2763A–561, 2763A–564; Pub. L. 108–173, title I, §102(b), title II, §§211(j), 221(d)(3), 222(a)(2), (3), (h), (l)(1), 233(a)(1), (2), (c), title VII, §722(a), (b), title IX, §§900(e)(1)(F), 940(b)(2)(A), 948(b)(2), Dec. 8, 2003, 117 Stat. 2153, 2180, 2193, 2195, 2196, 2204, 2206, 2209, 2347, 2348, 2371, 2417, 2426; Pub. L. 110–275, title I, §§125(b)(6), 162(a)(1)–(3)(A), 163(a), (b), 164(f)(1), 165(a), July 15, 2008, 122 Stat. 2519, 2569–2571, 2574, 2575; Pub. L. 111–148, title III, §3202(a)(1), Mar. 23, 2010, 124 Stat. 454; Pub. L. 114–255, div. C, title XVII, §17006(a)(2)(A), (c)(1), Dec. 13, 2016, 130 Stat. 1334, 1335; Pub. L. 115–123, div. E, title III, §§50322(a), 50323(a), Feb. 9, 2018, 132 Stat. 201, 202; Pub. L. 115–271, title VI, §6103(a), Oct. 24, 2018, 132 Stat. 4005; Pub. L. 116–127, div. F, §6003(a), Mar. 18, 2020, 134 Stat. 203; Pub. L. 116–136, div. A, title III, §3713(c), Mar. 27, 2020, 134 Stat. 423; Pub. L. 117–169, title I, §11001(b)(1)(B), Aug. 16, 2022, 136 Stat. 1851.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(B), title V, §§518, 520(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title V, §521(b), title VI, §§611(b), 615, 616, 621(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543, 2763A–560, 2763A–561, 2763A–564; Pub. L. 108–173, title I, §102(b), title II, §§211(j), 221(d)(3), 222(a)(2), (3), (h), (l)(1), 233(a)(1), (2), (c), title VII, §722(a), (b), title IX, §§900(e)(1)(F), 940(b)(2)(A), 948(b)(2), Dec. 8, 2003, 117 Stat. 2153, 2180, 2193, 2195, 2196, 2204, 2206, 2209, 2347, 2348, 2371, 2417, 2426; Pub. L. 110–275, title I, §§125(b)(6), 162(a)(1)–(3)(A), 163(a), (b), 164(f)(1), 165(a), July 15, 2008, 122 Stat. 2519, 2569–2571, 2574, 2575; Pub. L. 111–148, title III, §3202(a)(1), Mar. 23, 2010, 124 Stat. 454; Pub. L. 114–255, div. C, title XVII, §17006(a)(2)(A), (c)(1), Dec. 13, 2016, 130 Stat. 1334, 1335; Pub. L. 115–123, div. E, title III, §§50322(a), 50323(a), Feb. 9, 2018, 132 Stat. 201, 202; Pub. L. 115–271, title VI, §6103(a), Oct. 24, 2018, 132 Stat. 4005; Pub. L. 116–127, div. F, §6003(a), Mar. 18, 2020, 134 Stat. 203; Pub. L. 116–136, div. A, title III, §3713(c), Mar. 27, 2020, 134 Stat. 423; Pub. L. 117–169, title I, §11001(b)(1)(B), Aug. 16, 2022, 136 Stat. 1851.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 2702 of the Public Health Service Act, referred to in subsec. (b)(1), is section 2702 of act July 1, 1944, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (b) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
+Section 2702 of the Public Health Service Act, referred to in subsec. (b)(1), is section 2702 of act July 1, 1944, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (b) to (f) of section 300gg–4 of this title, effectivefor plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (j)(3)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
@@ -800,7 +800,7 @@ Subsec. (e)(4)(C). Pub. L. 110–275, §125(b)(6), substituted "section 1395bb(a
 
 <b>2003</b>—Subsec. (a)(1). Pub. L. 108–173, §222(a)(2), substituted "Requirement" for "In general" in par. heading, designated existing provisions as subpar. (A), inserted heading, substituted "chapter, benefits under the original medicare fee-for-service program option (and, for plan years before 2006, additional benefits required under section 1395w–24(f)(1)(A) of this title)." for "chapter—", added subpar. (B), and struck out former subpars. (A) and (B) which read as follows:
 
-"(A) those items and services (other than hospice care) for which benefits are available under parts A andB of this subchapter to individuals residing in the area served by the plan, and
+"(A) those items and services (other than hospice care) for which benefits are available under parts A and B of this subchapter to individuals residing in the area served by the plan, and
 
 "(B) additional benefits required under section 1395w–24(f)(1)(A) of this title."
 
@@ -878,7 +878,7 @@ Subsec. (l). Pub. L. 106–554, §1(a)(6) \[title VI, §621(a)\], added subsec. 
 
 Subsec. (e)(2)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §520(a)(1)\], substituted ", a non-network MSA plan, or a preferred provider organization plan" for "or a non-network MSA plan" in introductory provisions.
 
-Subsec. (e)(2)(B). Pub. L. 106–113, §1000(a)(6) \[title V, §520(a)(2)\], substituted ", non-network MSA plans, and preferred provider organization plans" for "and non-network MSA plans" in heading and ", a non-network MSA plan, or a preferred provider organization plan"for "or a non-network MSA plan" in introductory provisions.
+Subsec. (e)(2)(B). Pub. L. 106–113, §1000(a)(6) \[title V, §520(a)(2)\], substituted ", non-network MSA plans, and preferred provider organization plans" for "and non-network MSA plans" in heading and ", a non-network MSA plan, or a preferred provider organization plan" for "or a non-network MSA plan" in introductory provisions.
 
 Subsec. (e)(2)(D). Pub. L. 106–113, §1000(a)(6) \[title V, §520(a)(3)\], added subpar. (D).
 
@@ -896,7 +896,7 @@ Subsec. (k)(2)(C)(ii). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(
 
 #### Change of Name
 
-References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriatetransition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 #### Effective Date of 2020 Amendment
 
@@ -972,7 +972,7 @@ Report.—Not later than 2 years after the date of the enactment of this Act \[D
 
 #### Transitional Pass-Through of Additional Costs Under Medicare+Choice Program for 2000
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–355, provided that: "The provisions of subparagraphs (A) and (B) of section 1852(a)(5) of the Social Security Act (42 U.S.C. 1395w–22(a)(5)) shall apply with respect to the coverage of additional benefits for immunosuppressive drugs under the amendments made by this section \[amending sections 1395k and 1395x of this title\] for drugs furnished in 2000 in the same manner as if such amendments constituted a national coverage determination described in the matter in such section before subparagraph (A)."
+Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–355, provided that: "The provisions of subparagraphs (A) and (B) of section 1852(a)(5) of the Social Security Act (42 U.S.C.1395w–22(a)(5)) shall apply with respect to the coverage of additional benefits for immunosuppressive drugs under the amendments made by this section \[amending sections 1395k and 1395x of this title\] for drugs furnished in 2000 in the same manner as if such amendments constituted a national coverage determination described in the matter in such section before subparagraph (A)."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

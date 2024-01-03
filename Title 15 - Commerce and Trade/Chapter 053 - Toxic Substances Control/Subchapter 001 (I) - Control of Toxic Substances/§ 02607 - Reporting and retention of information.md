@@ -16,7 +16,7 @@
 
 > The Administrator may not require in a rule promulgated under this paragraph the maintenance of records or the submission of reports with respect to changes in the proportions of the components of a mixture unless the Administrator finds that the maintenance of such records or the submission of such reports, or both, is necessary for the effective enforcement of this chapter. For purposes of the compilation of the list of chemical substances required under subsection (b), the Administrator shall promulgate rules pursuant to this subsection not later than 180 days after January 1, 1977.
 
-(2) The Administrator may require under paragraph (1) maintenance of records and reportingwith respect to the following insofar as known to the person making the report or insofar as reasonably ascertainable:
+(2) The Administrator may require under paragraph (1) maintenance of records and reporting with respect to the following insofar as known to the person making the report or insofar as reasonably ascertainable:
 
 &emsp;(A) The common or trade name, the chemical identity, and the molecular structure of each chemical substance or mixture for which such a report is required.
 
@@ -44,7 +44,7 @@
 
 (B) The Administrator, after consultation with the Administrator of the Small Business Administration, shall by rule prescribe standards for determining the manufacturers and processors which qualify as small manufacturers and processors for purposes of this paragraph and paragraph (1).
 
-(C) Not later than 180 days after June 22, 2016, and not less frequently than once every 10 years thereafter, the Administrator, after consultation with the Administrator of the Small Business Administration, shall—
+(C) Not later than 180 days after June 22, 2016, and not less frequently than once every 10 yearsthereafter, the Administrator, after consultation with the Administrator of the Small Business Administration, shall—
 
 &emsp;(i) review the adequacy of the standards prescribed under subparagraph (B); and
 
@@ -80,7 +80,7 @@ PFAS data.—Not later than January 1, 2023, the Administrator shall promulgate 
 
 #### (b) Inventory
 
-(1) The Administrator shall compile, keep current, and publish a list of each chemical substance which is manufactured or processed in the United States. Such list shall at least include each chemical substance which any person reports, under section 2604 of this title or subsection (a) of this section, is manufactured or processed in the United States. Such list may not include any chemical substance which was not manufactured or processed in the United States within three years before the effective date of the rules promulgated pursuant to the last sentence of subsection (a)(1). In the case ofa chemical substance for which a notice is submitted in accordance with section 2604 of this title, such chemical substance shall be included in such list as of the earliest date (as determined by the Administrator) on which such substance was manufactured or processed in the United States. The Administrator shall first publish such a list not later than 315 days after January 1, 1977. The Administrator shall not include in such list any chemical substance which is manufactured or processed only in small quantities (as defined by the Administrator by rule) solely for purposes of scientific experimentation or analysis or chemical research on, or analysis of, such substance or another substance, including such research or analysis for the development of a product.
+(1) The Administrator shall compile, keep current, and publish a list of each chemical substance which is manufactured or processed in the United States. Such list shall at least include each chemical substance which any person reports, under section 2604 of this title or subsection (a) of this section, is manufactured or processed in the United States. Such list may not include any chemical substance which was not manufactured or processed in the United States within three years before the effective date of the rules promulgated pursuant to the last sentence of subsection (a)(1). In the case of a chemical substance for which a notice is submitted in accordance with section 2604 of this title, such chemical substance shall be included in such list as of the earliest date (as determined by the Administrator) on which such substance was manufactured or processed in the United States. The Administrator shall first publish such a list not later than 315 days after January 1, 1977. The Administrator shall not include in such list any chemical substance which is manufactured or processed only in small quantities (as defined by the Administrator by rule) solely for purposes of scientific experimentation or analysis or chemical research on, or analysis of, such substance or another substance, including such research or analysis for the development of a product.
 
 (2) To the extent consistent with the purposes of this chapter, the Administrator may, in lieu of listing, pursuant to paragraph (1), a chemical substance individually, list a category of chemical substances in which such substance is included.
 
@@ -116,7 +116,7 @@ In general.—Not later than 1 year after June 22, 2016, the Administrator, by r
 
 &emsp;&emsp;(ii)
 
-Active substances.—The Administrator shall designate chemical substances for which notices are received under clause (i) to be active substances on the list published under paragraph (1).
+Active substances.—The Administrator shall designate chemical substancesfor which notices are received under clause (i) to be active substances on the list published under paragraph (1).
 
 &emsp;&emsp;(iii)
 
@@ -202,7 +202,7 @@ In general.—Any person that intends to manufacture or process for a nonexempt 
 
 &emsp;&emsp;(ii)
 
-Confidential chemical identity.—If a person submitting a notice under clause (i) for an inactive substance on the confidential portion of the list published under paragraph (1) seeks to maintain an existing claim for protection against disclosure of the specific chemical identity of the inactive substance as confidential, the person shall, consistent with the requirements of section 2613 of this title—
+Confidential chemical identity.—If a person submitting a notice under clause (i) for an inactive substance on the confidential portion of the list published under paragraph (1) seeks to maintain an existing claim for protection against disclosure of the specificchemical identity of the inactive substance as confidential, the person shall, consistent with the requirements of section 2613 of this title—
 
 &emsp;&emsp;&emsp;(I) in the notice submitted under clause (i), assert the claim; and
 
@@ -314,7 +314,7 @@ The Administrator shall promulgate rules under which the Administrator shall req
 
 #### (e) Notice to Administrator of substantial risks
 
-Any person who manufactures, processes, or distributes in commerce a chemical substance or mixture and who obtains information which reasonably supports the conclusion that such substance or mixture presents a substantial risk of injury to health or the environment shall immediately inform the Administrator of such information unless such person has actual knowledgethat the Administrator has been adequately informed of such information.
+Any person who manufactures, processes, or distributes in commerce a chemical substance or mixture and who obtains information which reasonably supports the conclusion that such substance or mixture presents a substantial risk of injury to health or the environment shall immediately inform the Administrator of such information unless such person has actual knowledge that the Administrator has been adequately informed of such information.
 
 #### (f) "Manufacture" and "process" defined
 
@@ -362,7 +362,7 @@ Pub. L. 100–577, Oct. 31, 1988, 102 Stat. 2901, provided that:
 
 #### "SEC. 3. PUBLICATION OF INFORMATION.
 
-"Within 30 days after the date of the enactment of this Act \[Oct. 31, 1988\], the Administrator shall publish a notice in the Federal Register that explains how, when, and where the information specified in section 2 is to be submitted. The Administrator shall receive and organize the information submitted under section 2 and, within 180 days after the date of the enactment of this Act, shall publish the information. In carrying out this section, the Administrator may not—
+"Within 30 days after the date of the enactment of this Act \[Oct. 31, 1988\], the Administrator shall publish a notice in the Federal Register that explains how, when, and where the information specified in section 2 is to be submitted. The Administrator shall receive and organize the information submitted under section 2and, within 180 days after the date of the enactment of this Act, shall publish the information. In carrying out this section, the Administrator may not—
 
 &emsp;"(1) review the information submitted under section 2 for accuracy, or
 

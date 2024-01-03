@@ -8,7 +8,7 @@
 
 &emsp;(3) Such information or guidelines relating to the needs of the armed force concerned for warrant officers having particular skills, including guidelines or information relating to the need for either a minimum number or a maximum number of officers with particular skills within a grade or competitive category, as the Secretary concerned determines to be relevant in relation to the requirements of that armed force.
 
-(b) From each promotion zone for a grade (or grade and competitive category), the selection board shall recommend for promotion to the next higher warrant officer grade those warrant officers whom it considers best qualified for promotion, but no more than the number specified by the Secretary concerned.
+(b) From each promotion zone for a grade (or grade and competitive category), the selectionboard shall recommend for promotion to the next higher warrant officer grade those warrant officers whom it considers best qualified for promotion, but no more than the number specified by the Secretary concerned.
 
 (c) The names of warrant officers selected for promotion under this section shall be arranged in the report of such board in the following order of priority:
 

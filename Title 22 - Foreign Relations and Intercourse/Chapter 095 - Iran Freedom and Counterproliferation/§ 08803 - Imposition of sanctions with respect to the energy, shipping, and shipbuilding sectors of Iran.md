@@ -68,7 +68,7 @@ Entities that operate ports in Iran and entities in the energy, shipping, and sh
 
 #### (B) Exception
 
-&emsp;&emsp;The requirement to impose sanctions under subparagraph (A) shall not include theauthority to impose sanctions relating to the importation of goods under paragraph (8)(A) or (12) of section 6(a) of the Iran Sanctions Act of 1996, and any sanction relating to the importation of goods shall not count for purposes of the requirement to impose sanctions under subparagraph (A).
+&emsp;&emsp;The requirement to impose sanctions under subparagraph (A) shall not include the authority to impose sanctions relating to the importation of goods under paragraph (8)(A) or (12) of section 6(a) of the Iran Sanctions Act of 1996, and any sanction relating to the importation of goods shall not count for purposes of the requirement to impose sanctions under subparagraph (A).
 
 #### (2) Facilitation of certain transactions
 

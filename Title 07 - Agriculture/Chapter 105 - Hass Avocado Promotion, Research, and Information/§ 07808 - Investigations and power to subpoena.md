@@ -8,7 +8,7 @@ The Secretary may conduct such investigations as the Secretary considers necessa
 
 #### (1) Investigations
 
-&emsp;For the purpose of conducting an investigation under subsection (a), the Secretary may administer oaths and affirmations, subpoena witnesses, compel the attendance of witnesses, take evidence, and require the production of any records that are relevant to the inquiry. The production of the records may be required from any place in the United States.
+&emsp;For the purpose of conducting an investigation under subsection (a), the Secretary may administer oaths and affirmations, subpoena witnesses, compel the attendance of witnesses, take evidence, and require the production of any records that are relevant to the inquiry.The production of the records may be required from any place in the United States.
 
 #### (2) Administrative hearings
 

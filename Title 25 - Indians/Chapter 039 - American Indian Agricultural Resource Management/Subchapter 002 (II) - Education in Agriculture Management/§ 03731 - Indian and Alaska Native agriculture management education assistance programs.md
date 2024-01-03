@@ -32,9 +32,9 @@
 
 &emsp;(A) The Secretary shall continue the established specific programs in agriculture and natural resources education at Southwestern Indian Polytechnic Institute (SIPI) and at Haskell Indian Junior College.
 
-&emsp;(B) The Secretary shall develop and maintain a cooperative program with the tribally controlled community colleges to coordinate course requirements, texts, and provide directtechnical assistance so that a significant portion of the college credits in both the Haskell and Southwestern Indian Polytechnic Institute programs can be met through local program work at participating tribally controlled community colleges.
+&emsp;(B) The Secretary shall develop and maintain a cooperative program with the tribally controlled community colleges to coordinate course requirements, texts, and provide direct technical assistance so that a significant portion of the college credits in both the Haskell and Southwestern Indian Polytechnic Institute programs can be met through local program work at participating tribally controlled community colleges.
 
-&emsp;(C) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement an informational and educational program to provide practical training and assistance in creating or maintaining a successful agricultural enterprise, assessing sources of commercial credit, developing markets, and other subjects of importance in agricultural pursuits.
+&emsp;(C) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement an informational and educational program to provide practical training and assistance in creating or maintaining a successful agricultural enterprise, assessing sources of commercial credit, developing markets, andother subjects of importance in agricultural pursuits.
 
 &emsp;(D) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement research activities to improve the basis for determining appropriate management measures to apply to Indian agricultural management.
 

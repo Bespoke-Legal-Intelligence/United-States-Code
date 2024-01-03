@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary may provide insurance or reinsurance under this section to orfor an air carrier for 1 coverage period not to exceed 90 days. Except as otherwise provided in this section, such insurance or reinsurance shall be subject to the requirements of this chapter.
+In General.—The Secretary may provide insurance or reinsurance under this section to or for an air carrier for 1 coverage period not to exceed 90 days. Except as otherwise provided in this section, such insurance or reinsurance shall be subject to the requirements of this chapter.
 
 (b)
 

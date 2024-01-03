@@ -1,0 +1,52 @@
+### §3001. Purposes
+
+The purposes of this chapter are to—
+
+&emsp;(1) to <sup>1</sup> support State efforts to improve the provision of assistive technology to individuals with disabilities of all ages, including underrepresented populations, through comprehensive statewide programs of technology-related assistance that are designed to—
+
+&emsp;&emsp;(A) increase the availability of, funding for, access to, provision of, and education about assistive technology devices and assistive technology services;
+
+&emsp;&emsp;(B) increase the ability of individuals with disabilities to secure and maintain possession of assistive technology devices as such individuals make the transition between services offered by educational or human service agencies or between settings of daily living (for example, between home and work);
+
+&emsp;&emsp;(C) increase the capacity of public agencies and private entities to provide and pay for assistive technology devices and assistive technology services on a statewide basis for individuals with disabilities;
+
+&emsp;&emsp;(D) increase the involvement of individuals with disabilities and, if appropriate, their family members, guardians, advocates, and authorized representatives, in decisions related to the provision of assistive technology devices and assistive technology services;
+
+&emsp;&emsp;(E) increase and promote coordination among and between State and local agencies and private entities (such as managed care providers), that are involved in carrying out activities under this chapter;
+
+&emsp;&emsp;(F) increase the awareness and facilitate the change of laws, regulations, policies, practices, procedures, and organizational structures that facilitate the availability or provision of assistive technology devices and assistive technology services; and
+
+&emsp;&emsp;(G) increase awareness and knowledge of the benefits of assistive technology devices and assistive technology services among targeted individuals and entities and the general population; and
+
+&emsp;(2) to <sup>1</sup> provide States and protection and advocacy systems with financial assistance that supports programs designed to maximize the ability of individuals with disabilities and their family members, guardians, advocates, and authorized representatives to obtain assistive technology devices and assistive technology services.
+
+(Pub. L. 105–394, §2, Nov. 13, 1998, 112 Stat. 3628; Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707; Pub. L. 117–263, div. E, title LIV, §5402, Dec. 23, 2022, 136 Stat. 3260.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Pub. L. 117–263 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to findings and purposes.
+
+<b>2004</b>—Pub. L. 108–364 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to findings and purposes.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–263, div. E, title LIV, §5403, Dec. 23, 2022, 136 Stat. 3289, provided that: "This title \[see Short Title of 2022 Amendment note set out below\], and the amendments made by this title, shall take effect on the day that is 6 months after the date of enactment of this Act \[Dec. 23, 2022\]."
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–263, div. E, title LIV, §5401, Dec. 23, 2022, 136 Stat. 3260, provided that: "This title \[enacting section 3008 of this title, amending this section and sections 3002 to 3007 of this title, and enacting and amending provisions set out as notes under this section\] may be cited as the '21st Century Assistive Technology Act'."
+
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–364, §1, Oct. 25, 2004, 118 Stat. 1707, provided that: "This Act \[enacting sections 3003 to 3007 of this title, amending this section, sections 763, 781, 792, and 3002 of this title, and sections 15024, 15025, 15043, and 15064 of Title 42, The Public Health and Welfare, omitting sections 3011 to 3015, 3031 to 3037, and 3051 to 3058 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Assistive Technology Act of 2004'."
+
+#### Short Title
+
+Pub. L. 105–394, §1(a), Nov. 13, 1998, 112 Stat. 3627, as amended by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707; Pub. L. 117–263, div. E, title LIV, §5402, Dec. 23, 2022, 136 Stat. 3260, provided that: "This Act \[enacting this chapter\] may be cited as the 'Assistive Technology Act of 1998'."
+
+<i><sup>1</sup></i><i> So in original. The word "to" probably should not appear.</i>
+

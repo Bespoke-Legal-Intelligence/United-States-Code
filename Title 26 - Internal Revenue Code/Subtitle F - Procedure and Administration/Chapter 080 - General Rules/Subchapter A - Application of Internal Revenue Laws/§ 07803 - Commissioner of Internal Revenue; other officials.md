@@ -70,7 +70,7 @@
 
 #### (2) Duties
 
-&emsp;The Chief Counsel shall be the chief law officer for the Internal Revenue Service and shall perform such duties as may be prescribed by the Secretary, including the duty—
+&emsp;The Chief Counsel shall be the chief law officer for the Internal Revenue Service and shallperform such duties as may be prescribed by the Secretary, including the duty—
 
 &emsp;&emsp;(A) to be legal advisor to the Commissioner and the Commissioner's officers and employees;
 
@@ -296,7 +296,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 &emsp;&emsp;(iii) a summary of the status of such complaints and allegations; and
 
-&emsp;&emsp;(iv) a summary of the disposition of such complaints and allegations, including the outcome of any Department of Justice action and any monies paid as a settlement of such complaints and allegations.
+&emsp;&emsp;(iv) a summary of the disposition of such complaints and allegations, including theoutcome of any Department of Justice action and any monies paid as a settlement of such complaints and allegations.
 
 &emsp;(B) Clauses (iii) and (iv) of subparagraph (A) shall only apply to complaints and allegations of serious employee misconduct.
 
@@ -380,7 +380,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 #### (B) Access to staff of Office of the Chief Counsel
 
-&emsp;&emsp;The Chief of Appeals shall have authority to obtain legal assistance and advice from the staff of the Office of the Chief Counsel. The Chief Counsel shall ensure, to the extent practicable, that such assistance and advice is provided by staff of the Office of the Chief Counsel who were not involved in the case with respect to which such assistance and advice is sought and who are not involved in preparing such case for litigation.
+&emsp;&emsp;The Chief of Appeals shall have authority to obtain legal assistance and advice from the staff of the Office of the Chief Counsel. The Chief Counsel shall ensure, to the extentpracticable, that such assistance and advice is provided by staff of the Office of the Chief Counsel who were not involved in the case with respect to which such assistance and advice is sought and who are not involved in preparing such case for litigation.
 
 #### (7) <sup>1</sup> Access to case files
 
@@ -470,7 +470,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 &emsp;&emsp;&emsp;(ii) the Criminal Investigation Division of the Internal Revenue Service, and
 
-&emsp;&emsp;&emsp;(iii) except as otherwise provided by the Secretary with respect to information technology related to matters described in subsection (b)(3)(B), the Office of the Chief Counsel.
+&emsp;&emsp;&emsp;(iii) except as otherwise provided by the Secretary with respect to information technology related to matters described insubsection (b)(3)(B), the Office of the Chief Counsel.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 92–310, title II, §230(e), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, §1906(a)(58), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 105–206, title I, §1102(a), July 22, 1998, 112 Stat. 697; Pub. L. 110–176, §1(a), Jan. 4, 2008, 121 Stat. 2532; Pub. L. 110–428, §2(c), Oct. 15, 2008, 122 Stat. 4840; Pub. L. 114–113, div. Q, title IV, §401(a), Dec. 18, 2015, 129 Stat. 3117; Pub. L. 116–25, title I, §§1001(a), 1301(a)–(b)(2), (3)(B)–(c), title II, §2101(a), July 1, 2019, 133 Stat. 983, 991–993, 1008; Pub. L. 117–286, §4(b)(46), Dec. 27, 2022, 136 Stat. 4348.)
 
@@ -526,7 +526,7 @@ Subsecs. (c), (d). Pub. L. 94–455, §1906(a)(58), redesignated subsec. (d) as 
 
 Pub. L. 116–25, title I, §1001(c), July 1, 2019, 133 Stat. 985, provided that: "Any reference in any provision of law, or regulation or other guidance, to the Internal Revenue Service Office of Appeals shall be treated as a reference to the Internal Revenue Service Independent Office of Appeals."
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

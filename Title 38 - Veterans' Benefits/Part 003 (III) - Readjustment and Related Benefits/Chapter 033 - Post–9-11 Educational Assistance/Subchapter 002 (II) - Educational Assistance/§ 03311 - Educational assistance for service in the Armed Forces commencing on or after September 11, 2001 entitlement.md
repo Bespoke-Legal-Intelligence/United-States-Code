@@ -64,7 +64,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;(6) An individual who—
 
-&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 6 months, but less than 18 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
+&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 6months, but less than 18 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
 
 &emsp;&emsp;(B) after completion of service described in subparagraph (A)—
 
@@ -98,7 +98,7 @@ Covered Discharges and Releases.—A discharge or release from active duty of an
 
 &emsp;(2) A release after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service and placement on the retired list, transfer to the Fleet Reserve or Fleet Marine Corps Reserve, or placement on the temporary disability retired list.
 
-&emsp;(3) A release from active duty in the Armed Forces for further service in a reserve component of the Armed Forces after service on active duty characterized by the Secretary concerned as honorable service.
+&emsp;(3) A release from active duty in the Armed Forces for further service in a reserve component of the Armed Forces, or for further service in the Space Force in a space force active status not on sustained duty under section 20105 of title 10, after service on active duty characterized by the Secretary concerned as honorable service.
 
 &emsp;(4) A discharge or release from active duty in the Armed Forces after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service for—
 
@@ -146,7 +146,7 @@ Limitation.—The entitlement of an individual to assistance under subsection (a
 
 &emsp;(3)
 
-Election on receipt of certain benefits.—Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
+Election on receipt of certain benefits.—Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance underboth this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
 
 &emsp;(4)
 
@@ -168,7 +168,7 @@ Eligible surviving spouse.—A spouse described in this subparagraph is an indiv
 
 Definition of child.—For purposes of paragraphs (8), (9), and (10) of subsection (b), the term "child" includes a married individual or an individual who is above the age of twenty-three years.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795; Pub. L. 114–315, title IV, §401(b), (c), Dec. 16, 2016, 130 Stat. 1553; Pub. L. 115–48, title I, §§102(a), 105(a), (c)(1), Aug. 16, 2017, 131 Stat. 975; Pub. L. 115–232, div. A, title VIII, §809(n)(3), Aug. 13, 2018, 132 Stat. 1844; Pub. L. 116–315, title I, §1002(a), (b)(1), Jan. 5, 2021, 134 Stat. 4938; Pub. L. 117–333, §10(b), (c), Jan. 5, 2023, 136 Stat. 6131, 6132.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795; Pub. L. 114–315, title IV, §401(b), (c), Dec. 16, 2016, 130 Stat. 1553; Pub. L. 115–48, title I, §§102(a), 105(a), (c)(1), Aug. 16, 2017, 131 Stat. 975; Pub. L. 115–232, div. A, title VIII, §809(n)(3), Aug. 13, 2018, 132 Stat. 1844; Pub. L. 116–315, title I, §1002(a), (b)(1), Jan. 5, 2021, 134 Stat. 4938; Pub. L. 117–333, §10(b), (c), Jan. 5, 2023, 136 Stat. 6131, 6132; Pub. L. 118–31, div. A, title XVII, §1723(c)(2), Dec. 22, 2023, 137 Stat. 675.)
 
 #### <b>Editorial Notes</b>
 
@@ -179,6 +179,8 @@ Section 182 of title 14, referred to in subsec. (d)(2), was repealed by Pub. L. 
 The date of the enactment of this paragraph, referred to in subsec. (f)(4)(A), is the date of enactment of Pub. L. 114–315, which was approved Dec. 16, 2016.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c)(3). Pub. L. 118–31, which directed insertion of ", or for further service in the Space Force in a space force active status not on sustained duty under section 20105 of title 10," after "of the Armed Forces" second time appearing, was executed by making the insertion after "of the Armed Forces" the only time the phrase appeared to reflect the probable intent of Congress.
 
 <b>2023</b>—Subsec. (b)(2). Pub. L. 117–333, 10(b)(1)–(3), struck out "who" after "individual" in introductory provisions, inserted "(A) who—" after "individual—", and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins.
 
@@ -238,7 +240,7 @@ Pub. L. 116–315, title I, §1002(c), Jan. 5, 2021, 134 Stat. 4939, provided th
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
 
 #### Effective Date of 2017 Amendment
 

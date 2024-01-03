@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 #### (b) Countries eligible for designation; congressional notification
 
-(1) In designating countries as beneficiary countries under this chapter, the President shall consider only the following countries or successor political entities:
+(1) In designating countries as beneficiary countries under this chapter, the President shallconsider only the following countries or successor political entities:
 
 &emsp;Bolivia
 
@@ -148,7 +148,7 @@ In determining whether to designate any country a beneficiary country under this
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(3), is not set out in the Code.See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 Subsec. (h) of section 2291 of title 22, referred to in subsec. (d)(11), was repealed by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. For successor provisions to former subsec. (h), see sections 2291j and 2291k of Title 22, Foreign Relations and Intercourse.
 

@@ -58,7 +58,7 @@ Preliminary Market Research.—(1) The head of an agency shall conduct market re
 
 (d)
 
-Market Research for Price Analysis.—The Secretary of Defense shall ensure that procurement officials in the Department of Defense conduct or obtain market research to support the determination of the reasonableness of price for commercial products or commercial services contained in any bid or offer submitted in response to an agency solicitation. To the extent necessary to support such market research, the procurement official for the solicitation—
+Market Research for Price Analysis.—The Secretary of Defense shall ensure that procurement officials in the Department of Defense conduct or obtain market research to support the determination of the reasonableness of pricefor commercial products or commercial services contained in any bid or offer submitted in response to an agency solicitation. To the extent necessary to support such market research, the procurement official for the solicitation—
 
 &emsp;(1) in the case of products or services acquired under section 3455 of this title, shall use information submitted under subsection (d) of that section; and
 
@@ -280,7 +280,7 @@ Definition.—In this subsection, the term 'commercial product' has the meaning 
 
 #### Preference for Commercial Services
 
-Pub. L. 114–328, div. A, title VIII, §876, Dec. 23, 2016, 130 Stat. 2311, as amended by Pub. L. 116–92, div. A, titleIX, §902(59), Dec. 20, 2019, 133 Stat. 1550, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall revise the guidance issued pursuant to section 855 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2377 note) to provide that—
+Pub. L. 114–328, div. A, title VIII, §876, Dec. 23, 2016, 130 Stat. 2311, as amended by Pub. L. 116–92, div. A, title IX, §902(59), Dec. 20, 2019, 133 Stat. 1550, provided that: "Not later than 90 days after the date of the enactmentof this Act \[Dec. 23, 2016\], the Secretary of Defense shall revise the guidance issued pursuant to section 855 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2377 note) to provide that—
 
 &emsp;"(1) the head of an agency may not enter into a contract in excess of $10,000,000 for facilities-related services, knowledge-based services (except engineering services), construction services, medical services, or transportation services that are not commercial services unless the service acquisition executive of the military department concerned, the head of the Defense Agency concerned, the commander of the combatant command concerned, or the Under Secretary of Defense for Acquisition and Sustainment (as applicable) determines in writing that no commercial services are suitable to meet the agency's needs as provided in section 2377(c)(2) of title 10, United States Code \[now 10 U.S.C. 3453(c)(2)\]; and
 

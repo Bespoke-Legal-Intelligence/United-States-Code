@@ -8,7 +8,7 @@ In maintaining camps established under section 9481 of this title, the Secretary
 
 &emsp;(3) prescribe the courses to be taught;
 
-&emsp;(4) detail members of the Regular Air Force or the Regular Space Force to designated duties relating to the camps;
+&emsp;(4) detail members of the Regular Air Force or members of the Space Force in an active status to designated duties relating to the camps;
 
 &emsp;(5) use necessary supplies and transportation;
 
@@ -32,7 +32,7 @@ In maintaining camps established under section 9481 of this title, the Secretary
 
 &emsp;&emsp;(H) other expenses incident to maintaining the camps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 571, §9412; renumbered §9482 and amended Pub. L. 115–232, div. A, title VIII, §§806(a)(2), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840; Pub. L. 116–283, div. A, title IX, §923(d)(17), Jan. 1, 2021, 134 Stat. 3816.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 571, §9412; renumbered §9482 and amended Pub. L. 115–232, div. A, title VIII, §§806(a)(2), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840; Pub. L. 116–283, div. A, title IX, §923(d)(17), Jan. 1, 2021, 134 Stat. 3816; Pub. L. 118–31, div. A, title XVII, §1721(d)(2), Dec. 22, 2023, 137 Stat. 667.)
 
 Historical and Revision Notes
 
@@ -53,6 +53,8 @@ The word "supplies" is substituted for the words "such arms, ammunition, accoutr
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Par. (4). Pub. L. 118–31 substituted "or members of the Space Force in an active status" for "or the Regular Space Force".
 
 <b>2021</b>—Par. (4). Pub. L. 116–283, §923(d)(17)(A), inserted "or the Regular Space Force" after "Regular Air Force".
 

@@ -54,7 +54,7 @@ For purposes of this part—
 
 #### Amendments
 
-<b>2016</b>—Par. (1). Pub. L. 114–255 inserted at end "Such term shall not include any qualified small employerhealth reimbursement arrangement (as defined in section 9831(d)(2) of title 26)."
+<b>2016</b>—Par. (1). Pub. L. 114–255 inserted at end "Such term shall not include any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of title 26)."
 
 <b>1996</b>—Par. (1). Pub. L. 104–191, §321(d)(2), inserted at end "Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26)."
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 100–647 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1986 Amendments
 
-Pub. L. 99–514, title XVIII, §1895(d)(9)(B), Oct. 22, 1986, 100 Stat. 2940, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect in the same manner and to the same extent as the amendments made by subsections (e) and (i) of section 1151 of this Act \[amending sections 132 and 414 of Title 26, Internal Revenue Code, see section 1151(k) of Pub. L. 99–514, set out as an Effective Date note under section 89 of Title 26\]."
+Pub. L. 99–514, title XVIII, §1895(d)(9)(B), Oct. 22, 1986, 100 Stat. 2940, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect in the same manner and to the same extent as the amendments made by subsections (e) and (i) of section 1151 of this Act \[amending sections 132 and 414 of Title26, Internal Revenue Code, see section 1151(k) of Pub. L. 99–514, set out as an Effective Date note under section 89 of Title 26\]."
 
 Amendment by section 1895(d)(8) of Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26.
 

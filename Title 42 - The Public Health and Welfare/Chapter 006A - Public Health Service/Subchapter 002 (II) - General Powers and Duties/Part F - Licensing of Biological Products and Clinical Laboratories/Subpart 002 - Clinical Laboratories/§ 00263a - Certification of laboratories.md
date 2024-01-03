@@ -188,7 +188,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (D) Onsite testing
 
-&emsp;&emsp;The Secretary shall perform, or shall direct a program approved under subparagraph (C) to perform, onsite proficiency testing to assure compliance with the requirements of subsection (d)(5). The Secretary shall perform, on an onsite or other basis, proficiency testing to evaluate the performance of a proficiency testing program approved under subparagraph (C) and to assure quality performance by a laboratory.
+&emsp;&emsp;The Secretary shall perform, or shall direct a program approved under subparagraph (C) to perform, onsite proficiency testing to assure compliance with the requirements of subsection (d)(5). The Secretary shall perform, on an onsite or other basis, proficiency testing to evaluate the performance of a proficiency testing program approved undersubparagraph (C) and to assure quality performance by a laboratory.
 
 #### (E) Training, technical assistance, and enhanced proficiency testing
 
@@ -234,7 +234,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (1) In general
 
-&emsp;The Secretary may, on an announced or unannounced basis, enter and inspect, during regular hours of operation, laboratories which have been issued a certificate under this section. In conducting such inspections the Secretary shall have access to all facilities, equipment, materials, records, and information that the Secretary determines have a bearing on whether the laboratory is being operated in accordance with this section. As part of such an inspection the Secretary may copy any such material or require to it <sup>3</sup> be submitted tothe Secretary. An inspection under this paragraph may be made only upon presenting identification to the owner, operator, or agent in charge of the laboratory being inspected.
+&emsp;The Secretary may, on an announced or unannounced basis, enter and inspect, during regular hours of operation, laboratories which have been issued a certificate under this section. In conducting such inspections the Secretary shall have access to all facilities, equipment, materials, records, and information that the Secretary determines have a bearing on whether the laboratory is being operated in accordance with this section. As part of such an inspection the Secretary may copy any such material or require to it <sup>3</sup> be submitted to the Secretary. An inspection under this paragraph may be made only upon presenting identification to the owner, operator, or agent in charge of the laboratory being inspected.
 
 #### (2) Compliance with requirements and standards
 
@@ -314,7 +314,7 @@ Whenever the Secretary has reason to believe that continuation of any activity b
 
 #### (1) Petition
 
-&emsp;Any laboratory which has had an intermediate sanction imposed under subsection (h) or has had its certificate suspended, revoked, or limited under subsection (i) may, at any time within 60 days after the date the action of the Secretary under subsection (i) or (h) becomes final, file a petition with the United States court of appeals for the circuit wherein the laboratory has its principal place of business for judicial review of such action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary for that purpose. As soon as practicable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
+&emsp;Any laboratory which has had an intermediate sanction imposed under subsection (h) or has had its certificate suspended, revoked, or limited under subsection (i) may, at any time within 60 days after the date the action of the Secretary under subsection (i) or (h) becomes final, file a petition with the United States court of appeals for the circuit wherein the laboratory has its principal place of business for judicial review of such action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of thepetition to the Secretary or other officer designated by the Secretary for that purpose. As soon as practicable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
 
 #### (2) Additional evidence
 
@@ -360,7 +360,7 @@ Any person who intentionally violates any requirement of this section or any reg
 
 On April 1, 1990 and annually thereafter, the Secretary shall compile and make available to physicians and the general public information, based on the previous calendar year, which the Secretary determines is useful in evaluating the performance of a laboratory, including—
 
-&emsp;(1) a list of laboratories which have been convicted under Federal or State laws relatingto fraud and abuse, false billings, or kickbacks,
+&emsp;(1) a list of laboratories which have been convicted under Federal or State laws relating to fraud and abuse, false billings, or kickbacks,
 
 &emsp;(2) a list of laboratories—
 
@@ -432,7 +432,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1988 Amendment; Exceptions; Continuing Applicability
 
-Pub. L. 100–578, §3, Oct. 31, 1988, 102 Stat. 2914, provided that: "Subsections (g)(1), (h), (i), (j), (k), (l), and (m) of section 353 of the Public Health Service Act \[42 U.S.C. 263a\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a)through (d) and subsection (i) through (l) of such section 353 as in effect on December 31, 1988, shall continue to apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988."
+Pub. L. 100–578, §3, Oct. 31, 1988, 102 Stat. 2914, provided that: "Subsections (g)(1), (h), (i), (j), (k), (l), and (m) of section 353 of the Public Health Service Act \[42 U.S.C. 263a\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (l) of such section 353 as in effect on December 31, 1988, shall continue to apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988."
 
 #### Effective Date
 

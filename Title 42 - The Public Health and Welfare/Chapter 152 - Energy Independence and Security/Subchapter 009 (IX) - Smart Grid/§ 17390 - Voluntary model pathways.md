@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) produces illustrative policy pathways encompassing a diverse range of technologies that can be adapted for State and regional applications by regulators and policymakers;
 
-&emsp;&emsp;(B) facilitates the modernization of the electric grid and associated communicationsnetworks to achieve the objectives described in paragraph (2);
+&emsp;&emsp;(B) facilitates the modernization of the electric grid and associated communications networks to achieve the objectives described in paragraph (2);
 
 &emsp;&emsp;(C) ensures a reliable, resilient, affordable, safe, and secure electric grid; and
 

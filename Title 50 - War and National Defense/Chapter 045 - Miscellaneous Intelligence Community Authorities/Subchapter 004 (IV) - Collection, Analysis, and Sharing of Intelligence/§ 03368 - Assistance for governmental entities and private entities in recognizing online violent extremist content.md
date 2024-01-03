@@ -2,11 +2,17 @@
 
 #### (a) Assistance to recognize online violent extremist content
 
-Not later than 180 days after May 5, 2017, and consistent with the protection of intelligence sources and methods, the Director of National Intelligence shall publish on a publicly available Internet website a list of all logos, symbols, insignia, and other markings commonly associated with, or adopted by, an organization designated by the Secretary of State as a foreign terrorist organization under section 1189(a) of title 8.
+Not later than 180 days after May 5, 2017, and consistent with the protection of intelligencesources and methods, the Director of National Intelligence shall publish on a publicly available Internet website a list of all logos, symbols, insignia, and other markings commonly associated with, or adopted by, an organization designated by the Secretary of State as a foreign terrorist organization under section 1189(a) of title 8.
 
 #### (b) Updates
 
-The Director shall update the list published under subsection (a) every 180 days or more frequently as needed.
+The Director shall update the list published under subsection (a) every 180 days until December 22, 2023.
 
-(Pub. L. 115–31, div. N, title IV, §403, May 5, 2017, 131 Stat. 820.)
+(Pub. L. 115–31, div. N, title IV, §403, May 5, 2017, 131 Stat. 820; Pub. L. 118–31, div. G, title III, §7327(d), Dec. 22, 2023, 137 Stat. 1045.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2023</b>—Subsec. (b). Pub. L. 118–31 substituted "until December 22, 2023" for "or more frequently as needed".
 

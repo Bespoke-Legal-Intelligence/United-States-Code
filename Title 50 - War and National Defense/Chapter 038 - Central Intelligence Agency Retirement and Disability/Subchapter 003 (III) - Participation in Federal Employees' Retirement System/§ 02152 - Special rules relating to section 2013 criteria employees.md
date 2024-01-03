@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as otherwise provided in this section, in the application of chapter 84 of title 5 to anemployee of the Agency who is subject to such chapter and is designated by the Director under the criteria prescribed in section 2013 of this title, such employee shall be treated for purposes of determining such employee's retirement benefits and obligations under such chapter as if the employee were a law enforcement officer (as defined in section 8401(17) of title 5).
+Except as otherwise provided in this section, in the application of chapter 84 of title 5 to an employee of the Agency who is subject to such chapter and is designated by the Director under the criteria prescribed in section 2013 of this title, such employee shall be treated for purposes of determining such employee's retirement benefits and obligations under such chapter as if the employee were a law enforcement officer (as defined in section 8401(17) of title 5).
 
 #### (b) Voluntary and mandatory retirement
 
@@ -96,5 +96,5 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
 #### Regulations
 
-For provisions relating to promulgation of regulations to carry out the amendments made by Pub. L.117–225, see section 3(e) of Pub. L. 117–225, set out as a note under section 8336 of Title 5, Government Organization and Employees.
+For provisions relating to promulgation of regulations to carry out the amendments made by Pub. L. 117–225, see section 3(e) of Pub. L. 117–225, set out as a note under section 8336 of Title 5, Government Organization and Employees.
 

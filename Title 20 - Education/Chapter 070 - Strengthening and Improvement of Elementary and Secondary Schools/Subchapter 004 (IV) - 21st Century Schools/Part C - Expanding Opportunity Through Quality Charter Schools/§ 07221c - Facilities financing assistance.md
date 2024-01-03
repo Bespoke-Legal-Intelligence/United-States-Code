@@ -124,7 +124,7 @@ No financial obligation of an eligible entity entered into pursuant to this sect
 
 &emsp;The Secretary, in accordance with chapter 37 of title 31, shall collect—
 
-&emsp;&emsp;(A) all of the funds in a reserve account established by an eligible entity under subsection (f)(1) if the Secretary determines, not earlier than 2 years after the date on which the eligible entity first received funds under subsection (a), that the eligible entity has failed to make substantial progress in carrying out the purposes described in subsection (f)(1); or
+&emsp;&emsp;(A) all of the funds in a reserve account established by an eligible entity under subsection (f)(1) if the Secretary determines,not earlier than 2 years after the date on which the eligible entity first received funds under subsection (a), that the eligible entity has failed to make substantial progress in carrying out the purposes described in subsection (f)(1); or
 
 &emsp;&emsp;(B) all or a portion of the funds in a reserve account established by an eligible entity under subsection (f)(1) if the Secretary determines that the eligible entity has permanently ceased to use all or a portion of the funds in such account to accomplish any purpose described in subsection (f)(1).
 

@@ -34,7 +34,7 @@ The annual rate of basic pay for the Participant and Plan Sponsor Advocate shall
 
 #### (1) In general
 
-&emsp;Not later than December 31 of each calendar year, the Participant and Plan Sponsor Advocate shall report to the Health, Education, Labor, and Pensions Committee of the Senate, the Committee on Finance of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Ways and Means of the House of Representatives on the activities of the Office of the Participant and Plan Sponsor Advocate during the fiscal year ending during such calendar year.
+&emsp;Not later than December 31 of each calendar year, the Participant and Plan Sponsor Advocate shall report to the Health, Education, Labor, and Pensions Committee of the Senate, the Committee on Finance of the Senate, theCommittee on Education and the Workforce of the House of Representatives, and the Committee on Ways and Means of the House of Representatives on the activities of the Office of the Participant and Plan Sponsor Advocate during the fiscal year ending during such calendar year.
 
 #### (2) Content
 
@@ -59,12 +59,6 @@ The annual rate of basic pay for the Participant and Plan Sponsor Advocate shall
 #### Prior Provisions
 
 A prior section 1304, Pub. L. 93–406, title IV, §4004, Sept. 2, 1974, 88 Stat. 1008, related to appointment, within 270 days after Sept. 2, 1974, and powers and functions of a receiver to assume control of terminated plan and its assets, prior to repeal by Pub. L. 99–272, title XI, §11016(c)(6), Apr. 7, 1986, 100 Stat. 274, effective Jan. 1, 1986, with certain exceptions. See section 11019 of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under section 1341 of this title.
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 <i><sup>1</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

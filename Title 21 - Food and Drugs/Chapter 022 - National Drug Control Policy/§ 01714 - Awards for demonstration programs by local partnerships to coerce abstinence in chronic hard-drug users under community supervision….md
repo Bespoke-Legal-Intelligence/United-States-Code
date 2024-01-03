@@ -2,7 +2,7 @@
 
 #### (a) Awards required
 
-The Director shall make competitive awards to fund demonstration programs by eligible partnerships for the purpose of reducing the useof illicit drugs by chronic hard-drug users living in the community while under the supervision of the criminal justice system.
+The Director shall make competitive awards to fund demonstration programs by eligible partnerships for the purpose of reducing the use of illicit drugs by chronic hard-drug users living in the community while under the supervision of the criminal justice system.
 
 #### (b) Use of award amounts
 

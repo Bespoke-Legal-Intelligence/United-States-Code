@@ -26,7 +26,7 @@ As used in this chapter—
 
 &emsp;(5) the term "national of the United States" has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
-(Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 104–132, title V, §511(b)(3), title VII, §721(h), Apr. 24, 1996, 110 Stat. 1284, 1299; Pub. L. 107–188, title II, §231(c)(4), June 12, 2002, 116 Stat. 661.)
+(Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 104–132, title V, §511(b)(3), title VII, §721(h), Apr. 24, 1996, 110Stat. 1284, 1299; Pub. L. 107–188, title II, §231(c)(4), June 12, 2002, 116 Stat. 661.)
 
 #### <b>Editorial Notes</b>
 
@@ -36,7 +36,7 @@ As used in this chapter—
 
 Par. (2). Pub. L. 107–188, §231(c)(4)(B), in introductory provisions substituted "means the toxic material or product of plants, animals, microorganisms (including, but not limited to, bacteria, viruses, fungi, rickettsiae or protozoa), or infectious substances, or a recombinant or synthesized molecule, whatever their origin and method of production, and includes—" for "means the toxic material of plants, animals, microorganisms, viruses, fungi, or infectious substances, or a recombinant molecule, whatever its origin or method of production, including—".
 
-Par. (4). Pub. L. 107–188, §231(c)(4)(C), substituted "recombinant or synthesized molecule," for "recombinantmolecule, or biological product that may be engineered as a result of biotechnology,".
+Par. (4). Pub. L. 107–188, §231(c)(4)(C), substituted "recombinant or synthesized molecule," for "recombinant molecule, or biological product that may be engineered as a result of biotechnology,".
 
 <b>1996</b>—Par. (1). Pub. L. 104–132, §511(b)(3)(A), substituted "infectious substance, or biological product that may be engineered as a result of biotechnology, or any naturally occurring or bioengineered component of any such microorganism, virus, infectious substance, or biological product" for "or infectious substance" in introductory provisions.
 

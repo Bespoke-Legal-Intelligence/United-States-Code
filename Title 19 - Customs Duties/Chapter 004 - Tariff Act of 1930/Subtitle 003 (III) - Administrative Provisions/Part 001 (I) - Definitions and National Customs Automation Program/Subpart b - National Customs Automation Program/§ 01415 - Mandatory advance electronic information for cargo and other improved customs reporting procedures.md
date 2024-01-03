@@ -190,7 +190,7 @@ Subsec. (a)(3)(L)(v). Pub. L. 107–295, §108(b)(3)(D)(ii)–(iv), added cl. (v
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2005 Amendment
 
@@ -218,7 +218,7 @@ Future Agreements.—
 
 &emsp;"(1)
 
-Consultations.—Before entering into, on or after the date of the enactment of this Act \[Oct. 24, 2018\], any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, that is related to the ability of the United States to secure the provision of advance electronic information by foreign postal operators, the Secretary of State should consult with the appropriate congressional committees (as defined in section 8003(f)) \[Committee on Finance and Committee on Homeland Security and Governmental Affairs of the Senate and Committee on Ways and Means, Committee on Oversight and Reform, and Committee on Homeland Security of the House of Representatives\].
+Consultations.—Before entering into, on or after the date of the enactment of this Act \[Oct. 24, 2018\], any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, that is related to the ability of the United States to secure the provision of advance electronic information by foreign postal operators, the Secretary of State should consult with the appropriate congressional committees (as defined in section 8003(f)) \[Committee on Finance and Committee on Homeland Security and Governmental Affairs of the Senate and Committee on Ways and Means, Committee on Oversight and Accountability, and Committee on Homeland Security of the House of Representatives\].
 
 &emsp;"(2)
 

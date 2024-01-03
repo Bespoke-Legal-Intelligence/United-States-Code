@@ -16,7 +16,7 @@ Grants under this section shall be directed to agricultural research, extension,
 
 &emsp;(4) enhance the capabilities of colleges and universities to provide cooperative extension education to promote the application of new technology developed in foreign countries to United States agriculture; and
 
-&emsp;(5) enhance the capability of United States colleges and universities, in cooperation with other Federal agencies, to provide leadershipand educational programs that will assist United States natural resources and food production, processing, and distribution businesses and industries to compete internationally, including product market identification, international policies limiting or enhancing market production, development of new or enhancement of existing markets, and production efficiencies.
+&emsp;(5) enhance the capability of United States colleges and universities, in cooperation with other Federal agencies, to provide leadership and educational programs that will assist United States natural resources and food production, processing, and distribution businesses and industries to compete internationally, including product market identification, international policies limiting or enhancing market production, development of new or enhancement of existing markets, and production efficiencies.
 
 #### (c) Authorization of appropriations
 
@@ -48,5 +48,5 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

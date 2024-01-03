@@ -74,7 +74,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "military installation" includes a facility of a reserve component owned by a State rather than the United States.
 
-&emsp;(4) The term "military installation resilience" has the meaning given that term in section 101(e)(8) of this title.
+&emsp;(4) The term "military installation resilience" has the meaning given that term in section 101(e)(8) <sup>1</sup> of this title.
 
 &emsp;(5) The term "Secretary concerned" means—
 
@@ -83,4 +83,12 @@ Definitions.—In this section:
 &emsp;&emsp;(B) the Secretary of Defense with respect to matters concerning the Defense Agencies and facilities of a reserve component owned by a State rather than the United States.
 
 (Added Pub. L. 117–81, div. B, title XXVIII, §2803, Dec. 27, 2021, 135 Stat. 2186.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 101(e)(8) of this title, referred to in subsec. (g)(4), was redesignated section 101(f)(8) of this title, and a new subsec. (e) of section 101 was added, by Pub. L. 118–31, div. A, title XVII, §1713(a), Dec. 22, 2023, 137 Stat. 625.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

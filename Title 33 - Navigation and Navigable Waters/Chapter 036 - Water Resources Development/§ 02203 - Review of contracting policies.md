@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after December 27, 2020, the Secretary shall complete a review of the policies, guidelines, and regulations of the Corps of Engineers for the development of contractual agreements between the Secretaryand non-Federal interests and utilities associated with the construction of water resources development projects.
+&emsp;Not later than 180 days after December 27, 2020, the Secretary shall complete a review of the policies, guidelines, and regulations of the Corps of Engineers for the development of contractual agreements between the Secretary and non-Federal interests and utilities associated with the construction of water resources development projects.
 
 #### (2) Report
 

@@ -70,5 +70,5 @@ Pub. L. 105–312, title IV, §402, Oct. 30, 1998, 112 Stat. 2959, provided that
 
 &emsp;&emsp;"(A) products containing, or labeled or advertised as containing, rhinoceros parts or tiger parts are prohibited from importation into, or exportation from, the United States; and
 
-&emsp;&emsp;"(B) efforts are made to educate persons regarding alternatives for traditional medicine products, the illegality of products containing, or labeled or advertised as containing, rhinoceros parts and tiger parts, and the need to conserve rhinoceros and tiger species generally."
+&emsp;&emsp;"(B) efforts are made to educate persons regarding alternatives for traditional medicine products, the illegality of products containing, or labeled or advertised as containing, rhinoceros parts and tigerparts, and the need to conserve rhinoceros and tiger species generally."
 

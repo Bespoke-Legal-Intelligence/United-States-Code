@@ -12,7 +12,7 @@ The Secretary shall develop a strategy for the deployment of radiation detection
 
 &emsp;(2) a proposed timeline of when radiation detection equipment will be deployed at each port of entry identified under paragraph (1);
 
-&emsp;(3) the type of equipment to be used at each port of entry identified under paragraph (1), including the joint deployment and utilization of radiation detection equipment and nonintrusive imaging equipment;
+&emsp;(3) the type of equipment to be used at each port of entry identified under paragraph (1), including the joint deployment and utilizationof radiation detection equipment and nonintrusive imaging equipment;
 
 &emsp;(4) standard operating procedures for examining containers with such equipment, including sensor alarming, networking, and communications and response protocols;
 
@@ -32,7 +32,7 @@ The Secretary shall develop a strategy for the deployment of radiation detection
 
 The Secretary, acting through the Director for Domestic Nuclear Detection <sup>1</sup> and in collaboration with the National Institute of Standards and Technology, shall publish technical capability standards and recommended standard operating procedures for the use of nonintrusive imaging and radiation detection equipment in the United States. Such standards and procedures—
 
-&emsp;(1) should take into account relevant standards and procedures utilized by other Federaldepartments or agencies as well as those developed by international bodies; and
+&emsp;(1) should take into account relevant standards and procedures utilized by other Federal departments or agencies as well as those developed by international bodies; and
 
 &emsp;(2) shall not be designed so as to endorse specific companies or create sovereignty conflicts with participating countries.
 

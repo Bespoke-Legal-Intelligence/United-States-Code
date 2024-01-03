@@ -2,7 +2,7 @@
 
 Nothing in this Act, or an amendment made by this Act, shall be construed to—
 
-&emsp;(1) alter the jurisdiction between the Secretary of Agriculture and the Secretary of Health and Human Services, under applicable statutes, regulations, or agreements regarding voluntary inspection of non-amenable species under the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.);
+&emsp;(1) alter the jurisdiction between the Secretary of Agriculture and the Secretary of Health and Human Services, under applicable statutes, regulations, or agreements regardingvoluntary inspection of non-amenable species under the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.);
 
 &emsp;(2) alter the jurisdiction between the Alcohol and Tobacco Tax and Trade Bureau and the Secretary of Health and Human Services, under applicable statutes and regulations;
 

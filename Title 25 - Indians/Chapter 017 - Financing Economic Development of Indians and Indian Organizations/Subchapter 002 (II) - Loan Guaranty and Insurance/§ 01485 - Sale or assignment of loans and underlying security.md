@@ -60,7 +60,7 @@ On promulgation of final regulations under subsection (h), the Secretary shallâ€
 
 #### (2) Regulations
 
-&emsp;In promulgating regulations under subsection (i),<sup>1</sup> the Secretary may include such regulations to effect orderly and efficient pooling procedures as the Secretary determines to be necessary.
+&emsp;In promulgating regulations under subsection (i),<sup>1</sup> the Secretary may include suchregulations to effect orderly and efficient pooling procedures as the Secretary determines to be necessary.
 
 #### (h) Regulations
 

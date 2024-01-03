@@ -32,7 +32,7 @@
 
 #### (ii) For those not receiving distant signals
 
-&emsp;&emsp;&emsp;In the case of any subscriber of a satellite carrier who is eligible to receive the distant signal of a network station solely by reason of section 119(e) <sup>1</sup> of title 17 and who did not receive a distant signal of a station affiliated with the same network on October 1, 2009, the carrier may not provide the secondary transmissions of the distant signal of a station affiliated with the same network to that subscriber.
+&emsp;&emsp;&emsp;In the case of any subscriber of a satellite carrier who is eligible to receive thedistant signal of a network station solely by reason of section 119(e) <sup>1</sup> of title 17 and who did not receive a distant signal of a station affiliated with the same network on October 1, 2009, the carrier may not provide the secondary transmissions of the distant signal of a station affiliated with the same network to that subscriber.
 
 #### (B) Rules for other subscribers
 
@@ -78,7 +78,7 @@
 
 #### (iii) Time-shifting prohibited
 
-&emsp;&emsp;&emsp;In a case in which the satellite carrier makes available to an eligible subscriber under this subparagraph the signal of a local network station pursuant to section 338 of this title, the carrier may only provide the distant signal of a station affiliated with the same network to that subscriber if, in the case of any local market in the 48 contiguous States of the United States, the distant signal is the secondary transmission of a station whose prime time network programming is generally broadcast simultaneously with, or later than, the prime time network programming of the affiliate of the same network in the local market.
+&emsp;&emsp;&emsp;In a case in which the satellite carrier makes available to an eligible subscriber under this subparagraph the signal of alocal network station pursuant to section 338 of this title, the carrier may only provide the distant signal of a station affiliated with the same network to that subscriber if, in the case of any local market in the 48 contiguous States of the United States, the distant signal is the secondary transmission of a station whose prime time network programming is generally broadcast simultaneously with, or later than, the prime time network programming of the affiliate of the same network in the local market.
 
 #### (iv) Savings provision
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(cc) the distant network signal or signals received; and
 
-&emsp;&emsp;&emsp;(II) a statement that, to the best of the carrier's knowledge and belief after having made diligent and good faith inquiries, thesubscriber is qualified under the existing law to receive the distant network signal or signals pursuant to subparagraph (A) or (B)(i) of this paragraph.
+&emsp;&emsp;&emsp;(II) a statement that, to the best of the carrier's knowledge and belief after having made diligent and good faith inquiries, the subscriber is qualified under the existing law to receive the distant network signal or signals pursuant to subparagraph (A) or (B)(i) of this paragraph.
 
 &emsp;&emsp;(ii) Within 60 days after the date a satellite carrier commences to carry pursuant to section 338 of this title the signals of stations from a local market, such a satellite carrier that provides a distant signal of a network station to a subscriber pursuant to subparagraph (B)(ii) of this paragraph shall submit to each network—
 
@@ -146,7 +146,7 @@
 
 #### (2) Waivers
 
-&emsp;A subscriber who is denied the retransmission of a signal of a network station under section 119 of title 17 may request a waiver from such denial by submitting a request, through such subscriber's satellite carrier, to the network station asserting that the retransmission is prohibited. The network station shall accept or reject a subscriber's request for a waiver within 30 days after receipt of the request. The subscriber shall be permitted to receive such retransmission under section 119(d)(10)(B) <sup>1</sup> of title 17, if such station agrees to the waiver request and files with the satellite carrier a written waiver with respect to that subscriber allowing the subscriber to receive such retransmission. If a television network station fails to accept or reject a subscriber's request for a waiver within the 30-day period after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver.
+&emsp;A subscriber who is denied the retransmission of a signal of a network station under section 119 of title 17 may request a waiver from such denial by submitting a request,through such subscriber's satellite carrier, to the network station asserting that the retransmission is prohibited. The network station shall accept or reject a subscriber's request for a waiver within 30 days after receipt of the request. The subscriber shall be permitted to receive such retransmission under section 119(d)(10)(B) <sup>1</sup> of title 17, if such station agrees to the waiver request and files with the satellite carrier a written waiver with respect to that subscriber allowing the subscriber to receive such retransmission. If a television network station fails to accept or reject a subscriber's request for a waiver within the 30-day period after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver.
 
 #### (3) Establishment of improved predictive model and on-location testing required
 
@@ -156,7 +156,7 @@
 
 #### (B) On-location testing
 
-&emsp;&emsp;The Commission shall issue an order completing its rulemaking proceeding in ETDocket No. 06–94 within 270 days after the date of enactment of the Satellite Television Extension and Localism Act of 2010. In conducting such rulemaking, the Commission shall seek ways to minimize consumer burdens associated with on-location testing.
+&emsp;&emsp;The Commission shall issue an order completing its rulemaking proceeding in ET Docket No. 06–94 within 270 days after the date of enactment of the Satellite Television Extension and Localism Act of 2010. In conducting such rulemaking, the Commission shall seek ways to minimize consumer burdens associated with on-location testing.
 
 #### (4) Objective verification
 

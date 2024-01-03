@@ -52,7 +52,7 @@
 
 &emsp;(iv) for assistance for refugee children under subsection (d)(2).
 
-(C) The Director may not delegate to a State or political subdivision his authority to reviewor approve grants or contracts under this subchapter or the terms under which such grants or contracts are made.
+(C) The Director may not delegate to a State or political subdivision his authority to review or approve grants or contracts under this subchapter or the terms under which such grants or contracts are made.
 
 (5) Assistance and services funded under this section shall be provided to refugees without regard to race, religion, nationality, sex, or political opinion.
 
@@ -172,7 +172,7 @@
 
 &emsp;(iii) to provide where specific needs have been shown and recognized by the Director, health (including mental health) services, social services, educational and other services.
 
-(B) The funds available for a fiscal year for grants and contracts under subparagraph (A)shall be allocated among the States based on the total number of refugees (including children and adults) who arrived in the United States not more than 36 months before the beginning of such fiscal year and who are actually residing in each State (taking into account secondary migration) as of the beginning of the fiscal year.
+(B) The funds available for a fiscal year for grants and contracts under subparagraph (A) shall be allocated among the States based on the total number of refugees (including children and adults) who arrived in the United States not more than 36 months before the beginning of such fiscal year and who are actually residing in each State (taking into account secondary migration) as of the beginning of the fiscal year.
 
 (C) Any limitation which the Director establishes on the proportion of funds allocated to a State under this paragraph that the State may use for services other than those described in subsection (a)(1)(B)(ii) shall not apply if the Director receives a plan (established by or in consultation with local governments) and determines that the plan provides for the maximum appropriate provision of employment-related services for, and the maximum placement of, employable refugees consistent with performance standards established under section 106 of the Job Training Partnership Act.
 
@@ -192,7 +192,7 @@
 
 (B)(i) In the case of a refugee child who is unaccompanied by a parent or other close adult relative (as defined by the Director), the services described in subparagraph (A) may be furnished until the month after the child attains eighteen years of age (or such higher age as the State's child welfare services plan under part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq.\] prescribes for the availability of such services to any other child in that State).
 
-(ii) The Director shall attempt to arrange for the placement under the laws of the States of such unaccompanied refugee children, who have been accepted for admission to the United States, before (or as soon as possible after) their arrival in the United States. During any interim period while such a child is in the United States or in transit to the United States but before the child is so placed, the Director shall assume legal responsibility (including financial responsibility) for the child, if necessary, and is authorized to make necessary decisions to provide for the child's immediate care.
+(ii) The Director shall attempt to arrange for the placement under the laws of the States ofsuch unaccompanied refugee children, who have been accepted for admission to the United States, before (or as soon as possible after) their arrival in the United States. During any interim period while such a child is in the United States or in transit to the United States but before the child is so placed, the Director shall assume legal responsibility (including financial responsibility) for the child, if necessary, and is authorized to make necessary decisions to provide for the child's immediate care.
 
 (iii) In carrying out the Director's responsibilities under clause (ii), the Director is authorized to enter into contracts with appropriate public or private nonprofit agencies under such conditions as the Director determines to be appropriate.
 
@@ -236,7 +236,7 @@
 
 (7)(A) The Secretary shall develop and implement alternative projects for refugees who have been in the United States less than thirty-six months, under which refugees are provided interim support, medical services, support services, and case management, as needed, in a manner that encourages self-sufficiency, reduces welfare dependency, and fosters greater coordination among the resettlement agencies and service providers. The Secretary may permit alternative projects to cover specific groups of refugees who have been in the United States 36 months or longer if the Secretary determines that refugees in the group have been significantly and disproportionately dependent on welfare and need the services provided under the project in order to become self-sufficient and that their coverage under the projects would be cost-effective.
 
-(B) Refugees covered under such alternative projects shall be precluded from receiving cash or medical assistance under any other paragraph of this subsection or under title XIX or part A of title IV of the Social Security Act \[42 U.S.C. 1396 et seq., 601 et seq.\].
+(B) Refugees covered under such alternative projects shall be precluded from receiving cash or medical assistance under any other paragraphof this subsection or under title XIX or part A of title IV of the Social Security Act \[42 U.S.C. 1396 et seq., 601 et seq.\].
 
 (C) The Secretary shall report to Congress not later than October 31, 1985, on the results of these projects and on any recommendations respecting changes in the refugee assistance program under this section to take into account such results.
 
@@ -270,7 +270,7 @@
 
 (4) The authority of the Attorney General to pay compensation under this subsection shall be effective for any fiscal year only to the extent and in such amounts as may be provided in advance in appropriation Acts.
 
-(5) It shall be the policy of the United States Government that the President, in consultationwith the Attorney General and all other appropriate Federal officials and all appropriate State and county officials referred to in paragraph (2), shall place top priority on seeking the expeditious removal from this country and the return to Cuba of Cuban nationals described in paragraph (1) by any reasonable and responsible means, and to this end the Attorney General may use the funds authorized to carry out this subsection to conduct such policy.
+(5) It shall be the policy of the United States Government that the President, in consultation with the Attorney General and all other appropriate Federal officials and all appropriate State and county officials referred to in paragraph (2), shall place top priority on seeking the expeditious removal from this country and the return to Cuba of Cuban nationals described in paragraph (1) by any reasonable and responsible means, and to this end the Attorney General may use the funds authorized to carry out this subsection to conduct such policy.
 
 (June 27, 1952, ch. 477, title IV, ch. 2, §412, as added Pub. L. 96–212, title III, §311(a)(2), Mar. 17, 1980, 94 Stat. 111; amended Pub. L. 97–363, §§3(a), 4–6, Oct. 25, 1982, 96 Stat. 1734–1736; Pub. L. 98–164, title X, §1011(b), Nov. 22, 1983, 97 Stat. 1061; Pub. L. 98–473, title I, §101(d), Oct. 12, 1984, 98 Stat. 1876, 1877; Pub. L. 99–605, §§3–5(c), 6(a), (b), (d), 8, 9(a), (b), 10, 12, 13, Nov. 6, 1986, 100 Stat. 3449–3451, 3453–3455; Pub. L. 100–525, §6(b), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 103–236, title I, §162(n)(2), Apr. 30, 1994, 108 Stat. 409; Pub. L. 103–416, title II, §219(x), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 104–193, title I, §110(s)(3), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title VI, §671(e)(7), Sept. 30, 1996, 110 Stat. 3009–723.)
 
@@ -284,7 +284,7 @@ Section 106 of the Job Training Partnership Act, referred to in subsec. (c)(1)(C
 
 The Social Security Act, referred to in subsecs. (d)(2)(B)(i) and (e)(4), (5), (7)(B), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title IV of the Social Security Act are classified generally to part A (§601 et seq.) and part B (§620 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles XVI and XIX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-This chapter, referred to in subsec. (f)(1)(C), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsec. (f)(1)(C), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code,see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -380,7 +380,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date of 1994 Amendments
 
-Amendment by Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
 
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of Title 22, Foreign Relations and Intercourse.
 
@@ -544,7 +544,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 "(b)(1) As soon as possible after the date of the enactment of the Consolidated Refugee Education Assistance Act \[Aug. 13, 1981\], the Secretary shall establish a formula (reflecting the availability of the full amount authorized for this title under section 203(b)) by which to determine the amount of the grant which each State educational agency is entitled to receive under this title for any fiscal year. The formula established by the Secretary shall take into account the number of years that an eligible participant assisted under this title has resided within the United States and the relative costs, by grade level, of providing education for elementary and secondary school children. On the basis of the formula the Secretary shall allocate among the State educational agencies, for each fiscal year, the amounts available to carry out this title, subject to such reductions or adjustments as may be required under paragraph (2) or subsection (c). Funds shall be allocated among State educational agencies pursuant to the formula without regard to variations in educational costs among different geographical areas.
 
-"(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except thatthe reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
+"(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
 "(3) For the purpose of this subsection, the term 'State' does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 201(a) shall be considered to be payments under this title.
 
@@ -572,7 +572,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 "(b) For fiscal year 1981 and for each subsequent fiscal year, there is authorized to be appropriated, in the manner specified under section 102, to make payments under this title an amount equal to the product of—
 
-&emsp;"(1) the total number of eligible participants enrolled in elementary or secondary public schools under the jurisdiction of local educational agencies within all the States (other than the jurisdictions to which section 103 is applicable) during the fiscal year for which the determination is made,
+&emsp;"(1) the total number of eligible participants enrolled in elementary or secondary public schoolsunder the jurisdiction of local educational agencies within all the States (other than the jurisdictions to which section 103 is applicable) during the fiscal year for which the determination is made,
 
 > multiplied by—
 
@@ -630,7 +630,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 #### "applications
 
-"Sec. 303. (a) No State educational agency shall be entitled to any payment under this title for any period unless that agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
+"Sec. 303. (a) No State educational agency shall be entitled to any payment under this title for any periodunless that agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
 
 &emsp;"(1) provide that the educational programs, services and activities for which payments under this title are made will be administered by or under the supervision of the agency;
 
@@ -656,7 +656,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 #### "payments
 
-"Sec. 304. (a) The Secretary shall pay to each State educational agency having an application approvedunder section 303 the amount which that State is entitled to receive under this title.
+"Sec. 304. (a) The Secretary shall pay to each State educational agency having an application approved under section 303 the amount which that State is entitled to receive under this title.
 
 "(b) If a State is prohibited by law from providing public educational services for children enrolled in elementary and secondary nonpublic schools, as required by section 303(a)(6), or if the Secretary determines that a local educational agency has substantially failed or is unwilling to provide for the participation on an equitable basis of children enrolled in such schools, the Secretary may waive such requirement and shall arrange for the provision of services to such children through arrangements which shall be subject to the requirements of this Act.
 
@@ -682,7 +682,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 #### "use of funds
 
-"Sec. 402. (a) Funds made available to State educational agencies under this title shall be used by such agencies to provide for programs of adult education and adult basic education to eligible participants aged 16 or older in need for such services who are not enrolled in elementary or secondary public schools under the jurisdiction of local educational agencies. Such programs may be provided directly by the State educational agency, or such agency may make grants, or enter into contracts, with local educational agencies, and other public or private nonprofit agencies, organizations, or institutions to provide for such programs. Funds available under this title may be used for—
+"Sec. 402. (a) Funds made available to State educational agencies under this title shall be used by suchagencies to provide for programs of adult education and adult basic education to eligible participants aged 16 or older in need for such services who are not enrolled in elementary or secondary public schools under the jurisdiction of local educational agencies. Such programs may be provided directly by the State educational agency, or such agency may make grants, or enter into contracts, with local educational agencies, and other public or private nonprofit agencies, organizations, or institutions to provide for such programs. Funds available under this title may be used for—
 
 &emsp;"(1) programs of instruction of such adult refugees in basic reading and mathematics, in development and enhancement of necessary skills, and for the promotion of literacy among such refugees;
 
@@ -714,7 +714,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 #### "authorities for other programs and activities
 
-"Sec. 501. (a)(1) The President shall exercise authorities with respect to Cuban and Haitian entrants which are identical to the authorities which are exercised under chapter 2 of title IV of the Immigration and Nationality Act \[8 U.S.C. 1521 et seq.\]. The authorizations provided in section 414 of that Act \[8 U.S.C. 1524\] shallbe available to carry out this section without regard to the dollar limitation contained in section 414(a)(2).
+"Sec. 501. (a)(1) The President shall exercise authorities with respect to Cuban and Haitian entrants which are identical to the authorities which are exercised under chapter 2 of title IV of the Immigration and Nationality Act \[8 U.S.C. 1521 et seq.\]. The authorizations provided in section 414 of that Act \[8 U.S.C. 1524\] shall be available to carry out this section without regard to the dollar limitation contained in section 414(a)(2).
 
 "(2) Any reference in chapter III of title I of the Supplemental Appropriations and Rescission Act, 1980 \[Pub. L. 96–304, July 8, 1980, 94 Stat. 857, 865\], to section 405(c)(2) of the International Security and Development Assistance Act of 1980 or to the International Security Act of 1980 shall be construed to be a reference to paragraph (1) of this subsection.
 
@@ -750,7 +750,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 &emsp;&emsp;"(B) with respect to whom a final, nonappealable, and legally enforceable order of removal has not been entered."
 
-\[Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(5), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, which provided that, effective July 1, 2000, section 402(a)(4) of Pub. L. 96–422, set out above, is amended by striking "the Comprehensive Employment and Training Act of 1973" and inserting "the Job Training Partnership Act or", probably intended to strike "the Job Training Partnership Act or" before "title I of".\]
+\[Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(5), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, which provided that, effective July 1, 2000, section 402(a)(4) of Pub. L. 96–422, set out above, is amended by striking "the Comprehensive Employment andTraining Act of 1973" and inserting "the Job Training Partnership Act or", probably intended to strike "the Job Training Partnership Act or" before "title I of".\]
 
 \[Pub. L. 96–424, Oct. 10, 1980, 94 Stat. 1820, provided in part that the repeal of section 501(c)(5) of Pub. L. 96–422, set out above, is effective Oct. 11, 1980.\]
 

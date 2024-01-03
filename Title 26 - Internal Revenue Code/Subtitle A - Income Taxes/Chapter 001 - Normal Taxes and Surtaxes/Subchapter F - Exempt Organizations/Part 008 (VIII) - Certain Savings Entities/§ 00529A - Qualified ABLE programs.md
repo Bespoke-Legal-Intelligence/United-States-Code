@@ -34,7 +34,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) an amount equal to the poverty line for a one-person household, as determined for the calendar year preceding the calendar year in which the taxable year begins.
 
-> &emsp;For purposes of this paragraph, rules similar to the rules of section 408(d)(4) (determined without regard to subparagraph (B) thereof) shall apply. A designated beneficiary (or a person acting on behalf of such beneficiary) shall maintain adequate records for purposes of ensuring, and shall be responsible for ensuring, that the requirements of subparagraph (B)(ii) are met.
+> &emsp;For purposes of this paragraph, rules similar to the rules of section 408(d)(4) (determined without regard to subparagraph (B) thereof) shall apply. A designated beneficiary (or a person acting on behalf of such beneficiary) shallmaintain adequate records for purposes of ensuring, and shall be responsible for ensuring, that the requirements of subparagraph (B)(ii) are met.
 
 #### (3) Separate accounting
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The tax imposed by this chapter for any taxable year on any taxpayer who receives a distribution from a qualified ABLE program which is includible in gross income shall be increased by 10 percent of the amount which is so includible.
+&emsp;&emsp;The tax imposed by this chapter for any taxable year on any taxpayer who receives adistribution from a qualified ABLE program which is includible in gross income shall be increased by 10 percent of the amount which is so includible.
 
 #### (B) Exception
 
@@ -202,7 +202,7 @@ For purposes of this section—
 
 #### (4) Member of family
 
-&emsp;The term "member of the family" means, with respect to any designated beneficiary, an individual who bears a relationship to such beneficiary which is described in section 152(d)(2)(B). For purposes of the preceding sentence, a rule similar to the rule of section 152(f)(1)(B) shall apply.
+&emsp;The term "member of the family" means, with respect to any designated beneficiary, anindividual who bears a relationship to such beneficiary which is described in section 152(d)(2)(B). For purposes of the preceding sentence, a rule similar to the rule of section 152(f)(1)(B) shall apply.
 
 #### (5) Qualified disability expenses
 
@@ -298,7 +298,7 @@ Section applicable to taxable years beginning after Dec. 31, 2014, see section 1
 
 #### Regulations
 
-Pub. L. 113–295, div. B, title I, §102(f)(2), Dec. 19, 2014, 128 Stat. 4062, provided that: "The Secretary of the Treasury (or the Secretary's designee) shall promulgate the regulations or other guidance required undersection 529A(g) of the Internal Revenue Code of 1986, as added by subsection (a), not later than 6 months after the date of the enactment of this Act \[Dec. 19, 2014\]."
+Pub. L. 113–295, div. B, title I, §102(f)(2), Dec. 19, 2014, 128 Stat. 4062, provided that: "The Secretary of the Treasury (or the Secretary's designee) shall promulgate the regulations or other guidance required under section 529A(g) of the Internal Revenue Code of 1986, as added by subsection (a), not later than 6 months after the date of the enactment of this Act \[Dec. 19, 2014\]."
 
 #### Purposes
 

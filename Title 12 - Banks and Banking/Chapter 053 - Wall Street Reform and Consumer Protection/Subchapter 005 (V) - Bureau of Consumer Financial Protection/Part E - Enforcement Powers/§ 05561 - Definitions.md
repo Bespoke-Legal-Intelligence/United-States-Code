@@ -4,7 +4,7 @@ For purposes of this part, the following definitions shall apply:
 
 #### (1) Bureau investigation
 
-&emsp;The term "Bureau investigation" means any inquiry conducted by a Bureau investigator for the purpose of ascertaining whether any person is or has been engaged in any conduct that is a violation, as defined in this section.
+&emsp;The term "Bureau investigation" means any inquiry conducted by a Bureau investigatorfor the purpose of ascertaining whether any person is or has been engaged in any conduct that is a violation, as defined in this section.
 
 #### (2) Bureau investigator
 

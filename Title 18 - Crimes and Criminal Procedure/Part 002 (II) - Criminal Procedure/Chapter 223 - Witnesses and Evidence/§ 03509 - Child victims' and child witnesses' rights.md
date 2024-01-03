@@ -40,7 +40,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(11) the term "negligent treatment" means the failure to provide, for reasons other than poverty, adequate food, clothing, shelter, or medical care so as to seriously endanger the physical health of the child; and
 
-&emsp;(12) the term "child abuse" does not include discipline administered by a parent or legalguardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty.
+&emsp;(12) the term "child abuse" does not include discipline administered by a parent or legal guardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty.
 
 (b)
 
@@ -106,9 +106,9 @@ Videotaped deposition of child.—(A) In a proceeding involving an alleged offen
 
 &emsp;&emsp;(VI) other persons whose presence is determined by the court to be necessary to the welfare and well-being of the child.
 
-> &emsp;The defendant shall be afforded the rights applicable to defendants during trial, including the right to an attorney, the right to be confronted with the witness against the defendant, and the right to cross-examine the child.
+> &emsp;The defendant shall be afforded the rights applicable to defendants during trial, includingthe right to an attorney, the right to be confronted with the witness against the defendant, and the right to cross-examine the child.
 
-&emsp;(iv) If the preliminary finding of inability under clause (i) is based on evidence that the child is unable to testify in the physical presence of the defendant, the court may order that the defendant, including a defendant represented pro se, be excluded from the room inwhich the deposition is conducted. If the court orders that the defendant be excluded from the deposition room, the court shall order that 2-way closed circuit television equipment relay the defendant's image into the room in which the child is testifying, and the child's testimony into the room in which the defendant is viewing the proceeding, and that the defendant be provided with a means of private, contemporaneous communication with the defendant's attorney during the deposition.
+&emsp;(iv) If the preliminary finding of inability under clause (i) is based on evidence that the child is unable to testify in the physical presence of the defendant, the court may order that the defendant, including a defendant represented pro se, be excluded from the room in which the deposition is conducted. If the court orders that the defendant be excluded from the deposition room, the court shall order that 2-way closed circuit television equipment relay the defendant's image into the room in which the child is testifying, and the child's testimony into the room in which the defendant is viewing the proceeding, and that the defendant be provided with a means of private, contemporaneous communication with the defendant's attorney during the deposition.
 
 &emsp;(v)
 
@@ -196,7 +196,7 @@ Confidentiality of information.—(A) A person acting in a capacity described in
 
 &emsp;(2)
 
-Filing under seal.—All papers to be filed in court that disclose the name of or any other information concerning a child shall be filed under seal without necessity of obtaining acourt order. The person who makes the filing shall submit to the clerk of the court—
+Filing under seal.—All papers to be filed in court that disclose the name of or any other information concerning a child shall be filed under seal without necessity of obtaining a court order. The person who makes the filing shall submit to the clerk of the court—
 
 &emsp;&emsp;(A) the complete paper to be kept under seal; and
 
@@ -260,7 +260,7 @@ In general.—The court may appoint, and provide reasonable compensation and pay
 
 &emsp;(2)
 
-Duties of guardian ad litem.—A guardian ad litem may attend all the depositions, hearings, and trial proceedings in which a child participates, and make recommendations to the court concerning the welfare of the child. The guardian ad litem may have access to all reports, evaluations and records, except attorney's work product, necessary to effectively advocate for the child. (The extent of access to grand jury materials is limited to the access routinely provided to victims and their representatives.) A guardian ad litem shall marshal and coordinate the delivery of resources and special services to the child. A guardian ad litem shall not be compelled to testify in any court action or proceeding concerning any information or opinion received from the child in the course of serving as a guardian ad litem.
+Duties of guardian ad litem.—A guardian ad litem may attend all the depositions, hearings, and trial proceedings in which a child participates, and make recommendations to the court concerning the welfare of the child. The guardian ad litem may have access to all reports, evaluations and records, except attorney's work product, necessary to effectively advocate for the child. (The extent ofaccess to grand jury materials is limited to the access routinely provided to victims and their representatives.) A guardian ad litem shall marshal and coordinate the delivery of resources and special services to the child. A guardian ad litem shall not be compelled to testify in any court action or proceeding concerning any information or opinion received from the child in the course of serving as a guardian ad litem.
 
 &emsp;(3)
 
@@ -320,7 +320,7 @@ Subsec. (h)(3). Pub. L. 104–294, §605(h)(2), substituted "in paragraph (2)" f
 
 <b>1994</b>—Pub. L. 103–322, §330011(e), made technical amendment to directory language of Pub. L. 101–647, §225(a), which enacted this section.
 
-Pub. L. 103–322, §330010(7)(B), substituted "Government" for "government" in subsecs. (b)(1)(A), (D), (2)(A), and (c)(5)(B), in subsec. (d)(1)(B)(i) after "hired by the", and in subsec. (g)(1).
+Pub. L. 103–322, §330010(7)(B), substituted "Government" for "government" in subsecs. (b)(1)(A), (D),\(2)(A), and (c)(5)(B), in subsec. (d)(1)(B)(i) after "hired by the", and in subsec. (g)(1).
 
 Pub. L. 103–322, §330010(7)(A), substituted "subsection" for "subdivision" in subsecs. (b)(1)(A), (D)(i), (2)(A), (B)(iii)(III), (c)(1), (d)(4), and (f).
 

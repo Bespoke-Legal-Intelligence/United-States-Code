@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(iii) at least one representative of the client assistance program established under section 732 of this title;
 
-&emsp;&emsp;&emsp;(iv) at least one qualified vocational rehabilitation counselor, with knowledge of and experience with vocational rehabilitation programs, who shall serve as an ex officio, nonvoting member of the Council ifthe counselor is an employee of the designated State agency;
+&emsp;&emsp;&emsp;(iv) at least one qualified vocational rehabilitation counselor, with knowledge of and experience with vocational rehabilitation programs, who shall serve as an ex officio, nonvoting member of the Council if the counselor is an employee of the designated State agency;
 
 &emsp;&emsp;&emsp;(v) at least one representative of community rehabilitation program service providers;
 
@@ -192,7 +192,7 @@ The Council shall, after consulting with the State workforce development boardâ€
 
 #### (2) Resolution of disagreements
 
-&emsp;To the extent that there is a disagreement between the Council and the designated State unit in regard to the resources necessary to carry out the functions of the Council as setforth in this section, the disagreement shall be resolved by the Governor consistent with paragraph (1).
+&emsp;To the extent that there is a disagreement between the Council and the designated State unit in regard to the resources necessary to carry out the functions of the Council as set forth in this section, the disagreement shall be resolved by the Governor consistent with paragraph (1).
 
 #### (3) Supervision and evaluation
 
@@ -208,7 +208,7 @@ No member of the Council shall cast a vote on any matter that would provide dire
 
 #### (f) Meetings
 
-The Council shall convene at least four meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the general public unless there is a valid reason for an executive session.
+The Council shall convene at least four meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the generalpublic unless there is a valid reason for an executive session.
 
 #### (g) Compensation and expenses
 

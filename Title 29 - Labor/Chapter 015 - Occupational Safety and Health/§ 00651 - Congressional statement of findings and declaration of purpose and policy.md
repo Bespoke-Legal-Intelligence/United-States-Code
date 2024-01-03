@@ -50,5 +50,5 @@ Pub. L. 105–197, §1, July 16, 1998, 112 Stat. 638, provided that: "This Act \
 
 #### Short Title
 
-Pub. L. 91–596, §1, Dec. 29, 1970, 84 Stat. 1590, provided: "That this Act \[enacting this chapter and section 3142–1 of Title 42, The Public Health and Welfare, amending section 553 of this title, sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, section 1114 of Title 18, Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1114 of Title 18\] may be cited as the 'Occupational Safety and Health Act of 1970'."
+Pub. L. 91–596, §1, Dec. 29, 1970, 84 Stat. 1590, provided: "That this Act \[enacting this chapter and section3142–1 of Title 42, The Public Health and Welfare, amending section 553 of this title, sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, section 1114 of Title 18, Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1114 of Title 18\] may be cited as the 'Occupational Safety and Health Act of 1970'."
 

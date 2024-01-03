@@ -22,7 +22,7 @@ Place of Imprisonment.—The Bureau of Prisons shall designate the place of the 
 
 &emsp;(5) any pertinent policy statement issued by the Sentencing Commission pursuant to section 994(a)(2) of title 28.
 
-> In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status. The Bureau may at any time, having regard for the same matters, direct the transfer of a prisoner from one penal or correctional facility to another. The Bureau shall make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse. Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person. Notwithstanding any other provision of law, a designation of a place of imprisonment under this subsection is not reviewable by any court.
+> In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status. The Bureau may at any time, having regard for the same matters, direct the transfer of a prisoner from one penal or correctional facility to another. The Bureau shall make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse. Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person. Notwithstanding any other provision of law, a designation of a place of imprisonmentunder this subsection is not reviewable by any court.
 
 (c)
 
@@ -38,7 +38,7 @@ Substance Abuse Treatment.—
 
 &emsp;(1)
 
-Phase-in.—In order to carry out the requirement of the last sentence of subsection (b) of this section, that every prisoner with a substance abuse problem have the opportunity to participate in appropriate substance abusetreatment, the Bureau of Prisons shall, subject to the availability of appropriations, provide residential substance abuse treatment (and make arrangements for appropriate aftercare)—
+Phase-in.—In order to carry out the requirement of the last sentence of subsection (b) of this section, that every prisoner with a substance abuse problem have the opportunity to participate in appropriate substance abuse treatment, the Bureau of Prisons shall, subject to the availability of appropriations, provide residential substance abuse treatment (and make arrangements for appropriate aftercare)—
 
 &emsp;&emsp;(A) for not less than 50 percent of eligible prisoners by the end of fiscal year 1995, with priority for such treatment accorded based on an eligible prisoner's proximity to release date;
 
@@ -116,7 +116,7 @@ Regions.—At least 1 sex offender management program under paragraph (1)(A), an
 
 &emsp;(3)
 
-Authorization of appropriations.—There are authorized to be appropriated to theBureau of Prisons for each fiscal year such sums as may be necessary to carry out this subsection.
+Authorization of appropriations.—There are authorized to be appropriated to the Bureau of Prisons for each fiscal year such sums as may be necessary to carry out this subsection.
 
 (g)
 
@@ -258,7 +258,7 @@ Subsec. (e)(5)(A). Pub. L. 110–199, §252, substituted "means a course of indi
 
 Subsec. (g). Pub. L. 110–199, §231(f), added subsec. (g).
 
-<b>2006</b>—Subsec. (e)(4). Pub. L. 109–162, §1146(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: "There are authorized to be appropriated to carry out this subsection—
+<b>2006</b>—Subsec. (e)(4). Pub. L. 109–162, §1146(1), added par. (4) and struck out heading and text of former par.\(4). Text read as follows: "There are authorized to be appropriated to carry out this subsection—
 
 &emsp;"(A) $13,500,000 for fiscal year 1996;
 
@@ -280,7 +280,7 @@ Pub. L. 103–322, §20401, inserted "In designating the place of imprisonment o
 
 Subsec. (e). Pub. L. 103–322, §32001(2), added subsec. (e).
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–647 inserted at end "The Bureau shall, to the extent practicable, make availableappropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse."
+<b>1990</b>—Subsec. (b). Pub. L. 101–647 inserted at end "The Bureau shall, to the extent practicable, make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -372,7 +372,7 @@ Exemption from notice-and-comment rulemaking requirements.—Section 553 of titl
 
 "(d)
 
-Emergency Requirement.—The amount provided by this section is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
+Emergency Requirement.—The amount provided by this section is designated by the Congress as being for an emergency requirement pursuant to section251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
 
 #### GAO Report
 

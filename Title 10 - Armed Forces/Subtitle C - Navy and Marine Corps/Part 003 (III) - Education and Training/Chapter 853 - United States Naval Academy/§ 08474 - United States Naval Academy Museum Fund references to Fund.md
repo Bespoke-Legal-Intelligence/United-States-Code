@@ -1,6 +1,6 @@
 ### §8474. United States Naval Academy Museum Fund: references to Fund
 
-Any reference in a law, regulation, document, paper, or other record of the United States tothe United States Naval Academy Museum Fund formerly maintained under this section shall be deemed to refer to the United States Naval Academy Gift and Museum Fund maintained under section 8473 of this title.
+Any reference in a law, regulation, document, paper, or other record of the United States to the United States Naval Academy Museum Fund formerly maintained under this section shall be deemed to refer to the United States Naval Academy Gift and Museum Fund maintained under section 8473 of this title.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 436, §6974; Pub. L. 106–398, §1 \[\[div. A\], title IX, §942(d)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–242; renumbered §8474 and amended Pub. L. 115–232, div. A, title VIII, §§807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 

@@ -216,7 +216,7 @@ Amendment by Pub. L. 99–514 applicable to transfers and contributions made aft
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 1022(c) of Pub. L. 98–369 applicable to reformations after Dec. 31, 1978, but inapplicable to any reformation to which section 2055(e)(3) of this title as in effect before July 18, 1984, applies, seesection 1022(e)(1) of Pub. L. 98–369, set out as a note under section 2055 of this title.
+Amendment by section 1022(c) of Pub. L. 98–369 applicable to reformations after Dec. 31, 1978, but inapplicable to any reformation to which section 2055(e)(3) of this title as in effect before July 18, 1984, applies, see section 1022(e)(1) of Pub. L. 98–369, set out as a note under section 2055 of this title.
 
 Amendment by section 1032(b)(3) of Pub. L. 98–369 applicable to taxable years beginning after July 18, 1984, see section 1032(c) of Pub. L. 98–369, set out as a note under section 170 of this title.
 

@@ -26,7 +26,7 @@ The International Broadcasting Advisory Board (referred to in this section as th
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), members of the Advisory Board shall servefor a single term of 4 years, except that, of the first group of members appointed under paragraph (1)(A)—
+&emsp;&emsp;Except as provided in subparagraph (B), members of the Advisory Board shall serve for a single term of 4 years, except that, of the first group of members appointed under paragraph (1)(A)—
 
 &emsp;&emsp;&emsp;(i) two members who are not affiliated with the same political party, shall be appointed for terms ending on the date that is 2 years after the date of the enactment of the U.S. Agency for Global Media Reform Act;
 
@@ -102,7 +102,7 @@ The members of the Advisory Board shall—
 
 #### (2) Removal
 
-&emsp;After consulting with the Chief Executive Officer, five or more members of the AdvisoryBoard may unilaterally remove any such head of network or grantee network described in paragraph (1).
+&emsp;After consulting with the Chief Executive Officer, five or more members of the Advisory Board may unilaterally remove any such head of network or grantee network described in paragraph (1).
 
 #### (3) Quorum
 

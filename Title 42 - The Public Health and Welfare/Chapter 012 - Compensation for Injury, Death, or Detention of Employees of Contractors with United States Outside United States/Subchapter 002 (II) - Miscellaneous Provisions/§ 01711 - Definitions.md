@@ -4,7 +4,7 @@ When used in this chapter—
 
 (a) The term "Secretary" means the Secretary of Labor.
 
-(b) The term "war-risk hazard" means any hazard arising during a war in which the United States is engaged; during an armed conflict in which the United States is engaged, whether or not war has been declared; or during a war orarmed conflict between military forces of any origin, occurring within any country in which a person covered by this chapter is serving; from—
+(b) The term "war-risk hazard" means any hazard arising during a war in which the United States is engaged; during an armed conflict in which the United States is engaged, whether or not war has been declared; or during a war or armed conflict between military forces of any origin, occurring within any country in which a person covered by this chapter is serving; from—
 
 &emsp;(1) the discharge of any missile (including liquids and gas) or the use of any weapon, explosive, or other noxious thing by a hostile force or person or in combating an attack or an imagined attack by a hostile force or person; or
 

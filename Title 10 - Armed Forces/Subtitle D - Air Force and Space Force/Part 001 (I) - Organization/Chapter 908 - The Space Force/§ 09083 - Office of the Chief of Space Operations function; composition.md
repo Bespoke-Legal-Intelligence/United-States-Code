@@ -16,7 +16,7 @@ Composition.—The Office of the Chief of Space Operations is composed of the fo
 
 (c)
 
-Organization.—Except as otherwise specifically prescribed by law, the Office of the Chief of Space Operations shall be organized in such manner, and the members of the Office of the Chief of Space Operations shall perform suchduties and have such titles, as the Secretary of the Air Force may prescribe.
+Organization.—Except as otherwise specifically prescribed by law, the Office of the Chief of Space Operations shall be organized in such manner, and the members of the Office of the Chief of Space Operations shall perform such duties and have such titles, as the Secretary of the Air Force may prescribe.
 
 (Added Pub. L. 116–283, div. A, title IX, §921(a), Jan. 1, 2021, 134 Stat. 3805.)
 

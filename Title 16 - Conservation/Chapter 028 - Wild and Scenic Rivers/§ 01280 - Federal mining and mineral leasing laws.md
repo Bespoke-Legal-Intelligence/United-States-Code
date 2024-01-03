@@ -8,7 +8,7 @@ Nothing in this chapter shall affect the applicability of the United States mini
 
 &emsp;(ii) subject to valid existing rights, the perfection of, or issuance of a patent to, any mining claim affecting lands within the system shall confer or convey a right or title only to the mineral deposits and such rights only to the use of the surface and the surface resources as are reasonably required to carrying on prospecting or mining operations and are consistent with such regulations as may be prescribed by the Secretary of the Interior or, in the case of national forest lands, by the Secretary of Agriculture; and
 
-&emsp;(iii) subject to valid existing rights, the minerals in Federal lands which are part of the system and constitute the bed or bank or are situated within one-quarter mile of the bank of any river designated a wild river under thischapter or any subsequent Act are hereby withdrawn from all forms of appropriation under the mining laws and from operation of the mineral leasing laws including, in both cases, amendments thereto.
+&emsp;(iii) subject to valid existing rights, the minerals in Federal lands which are part of the system and constitute the bed or bank or are situated within one-quarter mile of the bank of any river designated a wild river under this chapter or any subsequent Act are hereby withdrawn from all forms of appropriation under the mining laws and from operation of the mineral leasing laws including, in both cases, amendments thereto.
 
 > Regulations issued pursuant to paragraphs (i) and (ii) of this subsection shall, among other things, provide safeguards against pollution of the river involved and unnecessary impairment of the scenery within the component in question.
 

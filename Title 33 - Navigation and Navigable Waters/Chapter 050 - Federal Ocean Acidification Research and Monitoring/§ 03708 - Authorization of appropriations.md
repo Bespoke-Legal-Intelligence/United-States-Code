@@ -16,7 +16,7 @@ There are authorized to be appropriated to the National Oceanic and Atmospheric 
 
 #### (b) NSF
 
-There are authorized to be appropriated to the National Science Foundation to carry out thepurposes of this chapter, $20,000,000 for each of the fiscal years 2023 through 2027.
+There are authorized to be appropriated to the National Science Foundation to carry out the purposes of this chapter, $20,000,000 for each of the fiscal years 2023 through 2027.
 
 (Pub. L. 111–11, title XII, §12409, Mar. 30, 2009, 123 Stat. 1441; Pub. L. 117–167, div. B, title VI, §10649, Aug. 9, 2022, 136 Stat. 1681.)
 

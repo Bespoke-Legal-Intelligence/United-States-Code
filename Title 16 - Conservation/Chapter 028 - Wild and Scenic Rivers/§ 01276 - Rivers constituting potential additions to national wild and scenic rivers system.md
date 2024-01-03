@@ -272,7 +272,7 @@ White Clay Creek, Delaware and Pennsylvania.—The headwaters of the river in Pe
 
 (114)
 
-Brule, Michigan and Wisconsin.—The 33-mile segment from Brule Lake in the northeastquarter of section 15, township 41 north, range 13 east, to the National Forest boundary at the southeast quarter of section 31, township 41 north, range 17 east.
+Brule, Michigan and Wisconsin.—The 33-mile segment from Brule Lake in the northeast quarter of section 15, township 41 north, range 13 east, to the National Forest boundary at the southeast quarter of section 31, township 41 north, range 17 east.
 
 (115)
 
@@ -470,7 +470,7 @@ Beaver, chipuxet, queen, wood, and pawcatuck rivers, rhode island and connecticu
 
 Nashua river, massachusetts.—The following segments:
 
-&emsp;(A) The approximately 19-mile segment of the mainstem of the Nashua River from the confluence with the North and South Nashua Rivers in Lancaster, Massachusetts, north to the Massachusetts-New Hampshire State line, excluding the approximately 4.8-mile segment of the mainstem of the Nashua River from the Route 119 bridge in Groton, Massachusetts, downstream to the confluence with the Nissitissit River in Pepperell, Massachusetts.
+&emsp;(A) The approximately 19-mile segment of the mainstem of the Nashua River from theconfluence with the North and South Nashua Rivers in Lancaster, Massachusetts, north to the Massachusetts-New Hampshire State line, excluding the approximately 4.8-mile segment of the mainstem of the Nashua River from the Route 119 bridge in Groton, Massachusetts, downstream to the confluence with the Nissitissit River in Pepperell, Massachusetts.
 
 &emsp;(B) The 10-mile segment of the Squannacook River from the headwaters at Ash Swamp downstream to the confluence with the Nashua River in the towns of Shirley and Ayer, Massachusetts.
 
@@ -588,7 +588,7 @@ Report requirements.—In assessing the potential additions to the wild and scen
 
 &emsp;&emsp;&emsp;(III) the authority of State and local governments to manage the activities described in subclauses (I) and (II);
 
-&emsp;&emsp;(ii) identify any authorities that, in a case in which an area studied under paragraph (142), (143), or (144) of subsection (a) is designated under this chapter—
+&emsp;&emsp;(ii) identify any authorities that, in a case in which an area studied under paragraph\(142), (143), or (144) of subsection (a) is designated under this chapter—
 
 &emsp;&emsp;&emsp;(I) would authorize or require the Secretary of the Interior—
 
@@ -632,7 +632,7 @@ The study of any of said rivers shall be pursued in as close cooperation with ap
 
 #### References in Text
 
-Section 5 of the Michigan Scenic Rivers Act of 1990, referred to in subsec. (b)(13), probably means section 5 of Pub. L. 102–249, Mar. 3, 1992, 106 Stat. 50, known as the Michigan Scenic Rivers Act of 1991, which is not classified to the Code.
+Section 5 of the Michigan Scenic Rivers Act of 1990, referred to in subsec. (b)(13), probably means section 5of Pub. L. 102–249, Mar. 3, 1992, 106 Stat. 50, known as the Michigan Scenic Rivers Act of 1991, which is not classified to the Code.
 
 #### Codification
 

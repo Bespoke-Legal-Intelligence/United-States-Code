@@ -1,6 +1,6 @@
 ### §7701. Purpose
 
-In order to fulfill the Federal responsibility to assist with the provision of educational services to federally connected children in a manner that promotes control by local educational agencies with little or no Federal or State involvement, because certain activities of the Federal Government, such as activities to fulfill the responsibilities of the Federal Government with respect to Indian tribes and activities under section 4001 of title 50, place a financial burden onthe local educational agencies serving areas where such activities are carried out, and to help such children meet the same challenging State academic standards, it is the purpose of this subchapter to provide financial assistance to local educational agencies that—
+In order to fulfill the Federal responsibility to assist with the provision of educational services to federally connected children in a manner that promotes control by local educational agencies with little or no Federal or State involvement, because certain activities of the Federal Government, such as activities to fulfill the responsibilities of the Federal Government with respect to Indian tribes and activities under section 4001 of title 50, place a financial burden on the local educational agencies serving areas where such activities are carried out, and to help such children meet the same challenging State academic standards, it is the purpose of this subchapter to provide financial assistance to local educational agencies that—
 
 &emsp;(1) experience a substantial and continuing financial burden due to the acquisition of real property by the United States;
 
@@ -36,7 +36,7 @@ Pars. (5), (6). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802(3)–(5
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respect to appropriations for use under this subchapter beginning fiscal year 2017, except as otherwise provided in such amendment, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respect to appropriations for useunder this subchapter beginning fiscal year 2017, except as otherwise provided in such amendment, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2000 Amendment
 

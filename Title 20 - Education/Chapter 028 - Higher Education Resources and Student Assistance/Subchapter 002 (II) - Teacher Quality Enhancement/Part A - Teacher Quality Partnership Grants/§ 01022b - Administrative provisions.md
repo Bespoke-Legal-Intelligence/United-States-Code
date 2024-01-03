@@ -8,7 +8,7 @@
 
 #### (2) Number of awards
 
-&emsp;An eligible partnership may not receive more than one grant during a five-year period. Nothing in this subchapter shall be construed to prohibit an individual member, that can demonstrate need, of an eligible partnership that receives a grant under this subchapterfrom entering into another eligible partnership consisting of new members and receiving a grant with such other eligible partnership before the five-year period described in the preceding sentence applicable to the eligible partnership with which the individual member has first partnered has expired.
+&emsp;An eligible partnership may not receive more than one grant during a five-year period. Nothing in this subchapter shall be construed to prohibit an individual member, that can demonstrate need, of an eligible partnership that receives a grant under this subchapter from entering into another eligible partnership consisting of new members and receiving a grant with such other eligible partnership before the five-year period described in the preceding sentence applicable to the eligible partnership with which the individual member has first partnered has expired.
 
 #### (b) Peer review
 

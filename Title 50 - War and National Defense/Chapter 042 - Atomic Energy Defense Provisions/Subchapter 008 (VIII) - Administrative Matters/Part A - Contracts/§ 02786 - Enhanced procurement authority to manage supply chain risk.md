@@ -34,7 +34,7 @@ The Secretary may exercise the authority under subsection (a) only after—
 
 If the Secretary has exercised the authority under subsection (a), the Secretary shall—
 
-&emsp;(1) notify appropriate parties of the covered procurement action or special exclusion actionand the basis for the action only to the extent necessary to carry out the covered procurement action or special exclusion action;
+&emsp;(1) notify appropriate parties of the covered procurement action or special exclusion action and the basis for the action only to the extent necessary to carry out the covered procurement action or special exclusion action;
 
 &emsp;(2) notify other Federal agencies responsible for procurement that may be subject to the same or similar supply chain risk, in a manner and to the extent consistent with the requirements of national security; and
 

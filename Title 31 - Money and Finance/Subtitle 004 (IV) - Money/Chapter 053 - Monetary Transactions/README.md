@@ -97,7 +97,7 @@
 
 <b>2006</b>—Pub. L. 109–347, title VIII, §802(b), Oct. 13, 2006, 120 Stat. 1961, added subchapter IV heading and items 5361 to 5367.
 
-<b>2004</b>—Pub. L. 108–458, title VI, §6203(i), Dec. 17, 2004, 118 Stat. 3747, substituted item 5318A for former item5318A "Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern".
+<b>2004</b>—Pub. L. 108–458, title VI, §6203(i), Dec. 17, 2004, 118 Stat. 3747, substituted item 5318A for former item 5318A "Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern".
 
 Pub. L. 108–458, title VI, §6202(n)(1), (o), Dec. 17, 2004, 118 Stat. 3746, amended Pub. L. 107–56, §365. See 2001 Amendment note below.
 
@@ -115,7 +115,7 @@ Pub. L. 107–56, title III, §§311(b), 371(c), Oct. 26, 2001, 115 Stat. 304, 3
 
 <b>1988</b>—Pub. L. 100–690, title VI, §6185(f), Nov. 18, 1988, 102 Stat. 4357, added items 5325 and 5326.
 
-<b>1986</b>—Pub. L. 99–570, title I, §§1354(b), 1356(d), Oct. 27, 1986, 100 Stat. 3207–22, 3207–25, substituted "Compliance, exemptions, and summons authority" for "Compliance and exemptions" in item 5318 and added item 5324.
+<b>1986</b>—Pub. L. 99–570, title I, §§1354(b), 1356(d), Oct. 27, 1986, 100 Stat. 3207–22, 3207–25, substituted "Compliance,exemptions, and summons authority" for "Compliance and exemptions" in item 5318 and added item 5324.
 
 <b>1984</b>—Pub. L. 98–473, title II, §901(f), Oct. 12, 1984, 98 Stat. 2136, added item 5323.
 

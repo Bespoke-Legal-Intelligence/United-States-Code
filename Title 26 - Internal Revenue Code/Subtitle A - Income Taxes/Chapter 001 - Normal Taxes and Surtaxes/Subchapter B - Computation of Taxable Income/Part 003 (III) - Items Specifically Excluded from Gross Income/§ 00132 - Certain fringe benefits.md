@@ -194,7 +194,7 @@ For purposes of this section—
 
 #### (7) Coordination with other provisions
 
-&emsp;For purposes of this section, the terms "working condition fringe" and "de minimisfringe" shall not include any qualified transportation fringe (determined without regard to paragraph (2)).
+&emsp;For purposes of this section, the terms "working condition fringe" and "de minimis fringe" shall not include any qualified transportation fringe (determined without regard to paragraph (2)).
 
 #### (8) Suspension of qualified bicycle commuting reimbursement exclusion
 
@@ -270,7 +270,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (B) Leased section of department store
 
-&emsp;&emsp;For purposes of subparagraph (A), a leased section of a department store is any part of a department store where over-the-counter sales of property are made under a lease or similar arrangement where it appears to the general public that individuals making such sales are employed by the person operating the department store.
+&emsp;&emsp;For purposes of subparagraph (A), a leased section of a department store is any part of a department store where over-the-counter sales of property are made under a lease orsimilar arrangement where it appears to the general public that individuals making such sales are employed by the person operating the department store.
 
 #### (3) Auto salesmen
 
@@ -722,5 +722,5 @@ Pub. L. 98–369, div. A, title V, §531(f), July 18, 1984, 98 Stat. 886, as ame
 
 &emsp;"(2) the primary business of the affiliated group is the operation of retail department stores,
 
-> then, for purpose of applying section 132(a)(2) of the Internal Revenue Code of 1986, with respect to discounts provided for such employees at the retail department stores operated by such other member, the employer shall be treated as engaged in the same line of business as such other member."
+> then, for purpose of applying section 132(a)(2) of the Internal Revenue Code of 1986, with respect to discounts provided for such employees at the retail department stores operated by such other member, the employershall be treated as engaged in the same line of business as such other member."
 

@@ -14,7 +14,7 @@
 
 &emsp;(i) is capable of use as a human food;
 
-&emsp;(ii) has been inspected under this chapter and found to be wholesome and not to be adulterated within the meaning of paragraphs (1) through (7) of section 453(g) of this title and a determination is made at the time of the entry of the decree that such article is wholesome and not so adulterated; and
+&emsp;(ii) has been inspected under this chapter and found to be wholesome and not to be adulterated within the meaning of paragraphs (1) through (7) of section 453(g) of this title and a determination is made at the time of theentry of the decree that such article is wholesome and not so adulterated; and
 
 &emsp;(iii) is plainly marked "Not for Sale" on such article or its container.
 

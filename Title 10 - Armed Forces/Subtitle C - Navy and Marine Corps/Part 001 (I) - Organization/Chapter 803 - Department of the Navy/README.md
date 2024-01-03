@@ -15,11 +15,12 @@
 | [8020\.](%C2%A7%2008020%20-%20Naval%20Inspector%20General%20detail%3B%20duties.md) | Naval Inspector General: detail; duties. |
 | [8022\.](%C2%A7%2008022%20-%20Office%20of%20Naval%20Research%20duties.md) | Office of Naval Research: duties. |
 | [8023\.](%C2%A7%2008023%20-%20Office%20of%20Naval%20Research%20appropriations%3B%20time%20limit.md) | Office of Naval Research: appropriations; time limit. |
-| [8024\.](%C2%A7%2008024%20-%20Naval%20Research%20Advisory%20Committee.md) | Naval Research Advisory Committee. |
+| \[8024. | Repealed.\] |
 | [8025\.](%C2%A7%2008025%20-%20Financial%20management.md) | Financial management. |
 | [8026\.](%C2%A7%2008026%20-%20Consultation%20with%20Commandant%20of%20the%20Marine%20Corps%20on%20major%20decisions%20directly%20concerning%20Marine%20Corps%20aviation%20or%20amphibious%20force%E2%80%A6.md) | Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation or amphibious force structure and capability. |
 | [8027\.](%C2%A7%2008027%20-%20Chief%20of%20Legislative%20Affairs.md) | Chief of Legislative Affairs. |
 | [8028\.](%C2%A7%2008028%20-%20Director%20of%20Small%20Business%20Programs.md) | Director of Small Business Programs. |
+| [8029\.](%C2%A7%2008029%20-%20Naval%20Air%20Warfare%20Rapid%20Capabilities%20Office.md) | Naval Air Warfare Rapid Capabilities Office. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -30,6 +31,8 @@
 A prior chapter 803, consisting of sections 8011 to 8024, related to Department of the Air Force, prior to renumbering as chapter 903 of this title.
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title II, §215, title IX, §914, Dec. 22, 2023, 137 Stat. 184, 368, added item 8029 and struck out item 8024 "Naval Research Advisory Committee". Amendments were made pursuant to section 102 of this title.
 
 <b>2022</b>—Pub. L. 117–263, div. A, title X, §1022(b)(2), Dec. 23, 2022, 136 Stat. 2763, added item 8026 and struck out former item 8026 "Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation".
 
@@ -69,8 +72,9 @@ A prior chapter 803, consisting of sections 8011 to 8024, related to Department 
 - [&sect; 08020 - Naval Inspector General detail; duties](%C2%A7%2008020%20-%20Naval%20Inspector%20General%20detail%3B%20duties.md)
 - [&sect; 08022 - Office of Naval Research duties](%C2%A7%2008022%20-%20Office%20of%20Naval%20Research%20duties.md)
 - [&sect; 08023 - Office of Naval Research appropriations; time limit](%C2%A7%2008023%20-%20Office%20of%20Naval%20Research%20appropriations%3B%20time%20limit.md)
-- [&sect; 08024 - Naval Research Advisory Committee](%C2%A7%2008024%20-%20Naval%20Research%20Advisory%20Committee.md)
+- [&sect; 08024 - Repealed. Pub. L. 118&#8211;31, div. A, title IX, &sect;914, Dec. 22, 2023, 137 Stat. 368](%C2%A7%2008024%20-%20Repealed.%20Pub.%20L.%20118%E2%80%9331%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7914%2C%20Dec.%2022%2C%202023%2C%20137%20Stat.%20368.md)
 - [&sect; 08025 - Financial management](%C2%A7%2008025%20-%20Financial%20management.md)
 - [&sect; 08026 - Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation or amphibious force&#8230;](%C2%A7%2008026%20-%20Consultation%20with%20Commandant%20of%20the%20Marine%20Corps%20on%20major%20decisions%20directly%20concerning%20Marine%20Corps%20aviation%20or%20amphibious%20force%E2%80%A6.md)
 - [&sect; 08027 - Chief of Legislative Affairs](%C2%A7%2008027%20-%20Chief%20of%20Legislative%20Affairs.md)
 - [&sect; 08028 - Director of Small Business Programs](%C2%A7%2008028%20-%20Director%20of%20Small%20Business%20Programs.md)
+- [&sect; 08029 - Naval Air Warfare Rapid Capabilities Office](%C2%A7%2008029%20-%20Naval%20Air%20Warfare%20Rapid%20Capabilities%20Office.md)

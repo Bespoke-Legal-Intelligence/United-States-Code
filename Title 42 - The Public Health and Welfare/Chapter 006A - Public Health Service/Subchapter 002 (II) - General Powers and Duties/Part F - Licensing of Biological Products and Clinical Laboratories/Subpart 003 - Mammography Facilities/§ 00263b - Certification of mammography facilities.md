@@ -16,7 +16,7 @@ As used in this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "facility" means a hospital, outpatient department, clinic, radiology practice, or mobile unit, an office of a physician,or other facility as determined by the Secretary, that conducts breast cancer screening or diagnosis through mammography activities. Such term does not include a facility of the Department of Veterans Affairs.
+&emsp;&emsp;The term "facility" means a hospital, outpatient department, clinic, radiology practice, or mobile unit, an office of a physician, or other facility as determined by the Secretary, that conducts breast cancer screening or diagnosis through mammography activities. Such term does not include a facility of the Department of Veterans Affairs.
 
 #### (B) Activities
 
@@ -92,7 +92,7 @@ As used in this section:
 
 #### (3) Limited provisional certificate
 
-&emsp;The Secretary may, upon the request of an accreditation body, issue a limited provisional certificate to an entity to enable the entity to conduct examinations for educational purposes while an onsite visit from an accreditation body is in progress. Such certificate shall be valid only during the time the site visit team from the accreditation body is physically in the facility, and in no case shall be valid for longer than 72 hours. The issuance ofa certificate under this paragraph, shall not preclude the entity from qualifying for a provisional certificate under paragraph (4).
+&emsp;The Secretary may, upon the request of an accreditation body, issue a limited provisional certificate to an entity to enable the entity to conduct examinations for educational purposes while an onsite visit from an accreditation body is in progress. Such certificate shall be valid only during the time the site visit team from the accreditation body is physically in the facility, and in no case shall be valid for longer than 72 hours. The issuance of a certificate under this paragraph, shall not preclude the entity from qualifying for a provisional certificate under paragraph (4).
 
 #### (4) Provisional certificate
 
@@ -260,7 +260,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(II) be certified as qualified to perform radiological procedures by an organization described in paragraph (2)(A); and
 
-&emsp;&emsp;&emsp;(ii) during the 2-year period beginning October 1, 1994, meet training standardsfor personnel who perform mammography or meet experience requirements which shall at a minimum include 1 year of experience in the performance of mammography; and
+&emsp;&emsp;&emsp;(ii) during the 2-year period beginning October 1, 1994, meet training standards for personnel who perform mammography or meet experience requirements which shall at a minimum include 1 year of experience in the performance of mammography; and
 
 &emsp;&emsp;&emsp;(iii) upon the expiration of such 2-year period meet minimum training standards for personnel who perform mammograms;
 
@@ -408,7 +408,7 @@ As used in this section:
 
 #### (4) Procedures
 
-&emsp;The Secretary shall develop and implement procedures with respect to when and how each of the sanctions is to be imposed under paragraphs (1) through (3). Such procedures shall provide for notice to the owner or operator ofthe facility and a reasonable opportunity for the owner or operator to respond to the proposed sanctions and appropriate procedures for appealing determinations relating to the imposition of sanctions.
+&emsp;The Secretary shall develop and implement procedures with respect to when and how each of the sanctions is to be imposed under paragraphs (1) through (3). Such procedures shall provide for notice to the owner or operator of the facility and a reasonable opportunity for the owner or operator to respond to the proposed sanctions and appropriate procedures for appealing determinations relating to the imposition of sanctions.
 
 #### (i) Suspension and revocation
 
@@ -420,7 +420,7 @@ As used in this section:
 
 &emsp;&emsp;(B) has failed to comply with the requirements of subsection (d)(1)(B)(ii)(III) or the standards established by the Secretary under subsection (f);
 
-&emsp;&emsp;(C) has failed to comply with reasonable requests of the Secretary (or of an accreditation body approved pursuant to subsection (e)) for any record, information, report, or material that the Secretary (or such accreditation body or State carrying out certification program requirements pursuant to subsection (q)) concludes is necessary to determine the continued eligibility of the facility for a certificate or continued compliance with the standards established under subsection (f);
+&emsp;&emsp;(C) has failed to comply with reasonable requests of the Secretary (or of an accreditation body approved pursuant to subsection (e)) for any record, information, report, or material that the Secretary (or such accreditation body or State carrying out certification program requirements pursuant tosubsection (q)) concludes is necessary to determine the continued eligibility of the facility for a certificate or continued compliance with the standards established under subsection (f);
 
 &emsp;&emsp;(D) has refused a reasonable request of the Secretary, any Federal officer or employee duly designated by the Secretary, or any State or local officer or employee duly designated by the State or local agency, for permission to inspect the facility or the operations and pertinent records of the facility in accordance with subsection (g);
 
@@ -568,7 +568,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) Grants
 
-&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence of breast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improve early cancer detection and contribute to reduction in breast cancer mortality. Grants may be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
+&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence of breast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improveearly cancer detection and contribute to reduction in breast cancer mortality. Grants may be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
 
 #### (B) Use of funds
 
@@ -656,7 +656,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees from persons described in subsection (d)(1)(A) (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1). A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
+&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees from persons described in subsection (d)(1)(A) (other than persons who are governmentalentities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1). A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
 
 #### (B) Deposit and appropriations
 
@@ -740,7 +740,7 @@ Subsec. (h)(3). Pub. L. 105–248, §10(a)(1), (b), redesignated par. (2) as (3)
 
 Subsec. (h)(4). Pub. L. 105–248, §10(a)(1), (c), redesignated par. (3) as (4) and substituted "paragraphs (1) through (3)" for "paragraphs (1) and (2)".
 
-Subsec. (i)(1)(C). Pub. L. 105–248, §11, inserted "(or of an accreditation body approved pursuant to subsection (e))" after "of the Secretary" and inserted "(or such accreditation body or State carrying out certification program requirements pursuant to subsection (q))" after "that the Secretary".
+Subsec. (i)(1)(C). Pub. L. 105–248, §11, inserted "(or of an accreditation body approved pursuant to subsection\(e))" after "of the Secretary" and inserted "(or such accreditation body or State carrying out certification program requirements pursuant to subsection (q))" after "that the Secretary".
 
 Subsec. (i)(1)(D). Pub. L. 105–248, §9(3), inserted "or local" after "any State" and "or local agency" after "by the State".
 

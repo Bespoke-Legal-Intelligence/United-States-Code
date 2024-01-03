@@ -2,7 +2,7 @@
 
 #### (a) Existing facilities
 
-The Secretary, acting through the Administrator of the Western Area Power Administration (hereinafter in this section referred to as "WAPA"), or through the Administrator of the Southwestern Power Administration (hereinafter in this section referred to as "SWPA"), or both, may design, develop, construct, operate, maintain, or own, or participate with other entities in designing, developing, constructing, operating, maintaining, or owning, an electric power transmission facility and related facilities ("Project") needed to upgrade existing transmission facilities owned by SWPA or WAPA ifthe Secretary, in consultation with the applicable Administrator, determines that the proposed Project—
+The Secretary, acting through the Administrator of the Western Area Power Administration (hereinafter in this section referred to as "WAPA"), or through the Administrator of the Southwestern Power Administration (hereinafter in this section referred to as "SWPA"), or both, may design, develop, construct, operate, maintain, or own, or participate with other entities in designing, developing, constructing, operating, maintaining, or owning, an electric power transmission facility and related facilities ("Project") needed to upgrade existing transmission facilities owned by SWPA or WAPA if the Secretary, in consultation with the applicable Administrator, determines that the proposed Project—
 
 &emsp;(1)(A) is located in a national interest electric transmission corridor designated under section 216(a) of the Federal Power Act \[16 U.S.C. 824p(a)\] and will reduce congestion of electric transmission in interstate commerce; or
 

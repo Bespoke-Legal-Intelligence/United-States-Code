@@ -44,7 +44,7 @@ Every 4 years, the Secretary shall, on a competitive basis, make grants to, or e
 
 &emsp;&emsp;(A) are consistent with this section; and
 
-&emsp;&emsp;(B) are necessary to meet the needs of Indians, Alaska Natives, or Native Hawaiianspreparing to enter, reenter, or retain unsubsidized employment leading to self-sufficiency.
+&emsp;&emsp;(B) are necessary to meet the needs of Indians, Alaska Natives, or Native Hawaiians preparing to enter, reenter, or retain unsubsidized employment leading to self-sufficiency.
 
 #### (2) Workforce development activities and supplemental services
 
@@ -76,7 +76,7 @@ In order to receive a grant or enter into a contract or cooperative agreement un
 
 #### (f) Consolidation of funds
 
-Each entity receiving assistance under subsection (c) may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).<sup>1</sup>
+Each entity receiving assistance under subsection (c) may consolidate such assistance withassistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).<sup>1</sup>
 
 #### (g) Nonduplicative and nonexclusive services
 

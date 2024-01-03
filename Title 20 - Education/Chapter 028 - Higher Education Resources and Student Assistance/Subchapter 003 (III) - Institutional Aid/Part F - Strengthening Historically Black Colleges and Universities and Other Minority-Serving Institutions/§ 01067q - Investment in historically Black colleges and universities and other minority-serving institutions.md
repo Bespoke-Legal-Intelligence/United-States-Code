@@ -108,7 +108,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 #### (1) Asian American
 
-&emsp;The term "Asian American" has the meaning given the term "Asian" in the Office of Management and Budget's Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity as published on October 30, 1997 (62 Fed. Reg. 58789).
+&emsp;The term "Asian American" has the meaning given the term "Asian" in the Office of Management and Budget's Standards forMaintaining, Collecting, and Presenting Federal Data on Race and Ethnicity as published on October 30, 1997 (62 Fed. Reg. 58789).
 
 #### (2) Asian American and Native American Pacific Islander-serving institution
 
@@ -180,7 +180,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;(iv) of which not less than 50 percent of the undergraduate students are enrolled in an educational program leading to a bachelor's or associate's degree that the institution is licensed to award by the State in which the institution is located;
 
-&emsp;&emsp;(D) is legally authorized to provide, and provides within the State, an educational program for which the institution of higher education awards a bachelor's degree, or in the case of a junior or community college, an associate's degree;
+&emsp;&emsp;(D) is legally authorized to provide, and provides within the State, an educational program for which the institution of highereducation awards a bachelor's degree, or in the case of a junior or community college, an associate's degree;
 
 &emsp;&emsp;(E) is accredited by a nationally recognized accrediting agency or association determined by the Secretary to be a reliable authority as to the quality of training offered, or is, according to such an agency or association, making reasonable progress toward accreditation; and
 

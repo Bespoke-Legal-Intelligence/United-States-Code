@@ -18,7 +18,7 @@
 
 &emsp;(A) which is not in the Senior Executive Service; and
 
-&emsp;(B) which is covered by the Executive Schedule, or the rate of basic pay for which is fixedby statute at a rate equal to 1 of the levels of the Executive Schedule.
+&emsp;(B) which is covered by the Executive Schedule, or the rate of basic pay for which is fixed by statute at a rate equal to 1 of the levels of the Executive Schedule.
 
 > An election under this paragraph shall remain effective so long as the appointee continues to serve in the same position.
 
@@ -48,7 +48,7 @@ Pub. L. 101–335, §7(b)(1), July 17, 1990, 104 Stat. 325, provided that: "The 
 
 #### Effective Date
 
-Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
 #### Election by Persons Previously Appointed; Retroactive Performance Awards
 

@@ -81,7 +81,7 @@ av
 
 #### (iii) VNM
 
-&emsp;&emsp;&emsp;The term "VNM" means the value of nonoriginating materials that are acquiredand used by the producer in the production of the good, but does not include the value of a material that is self-produced.
+&emsp;&emsp;&emsp;The term "VNM" means the value of nonoriginating materials that are acquired and used by the producer in the production of the good, but does not include the value of a material that is self-produced.
 
 #### (3) Build-up method
 
@@ -130,7 +130,7 @@ av
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subsection (b)(2), the regional value-content of an automotive good referred to in Annex 4.1 of the Agreement may be calculated by the importer, exporter, or producer of the good, on the basis of the following net cost method:
+&emsp;&emsp;For purposes of subsection (b)(2), the regional value-content of an automotive good referred to in Annex 4.1 of the Agreementmay be calculated by the importer, exporter, or producer of the good, on the basis of the following net cost method:
 
 &nbsp;
 
@@ -215,7 +215,7 @@ nc
 
 &emsp;&emsp;The importer, exporter, or producer shall, consistent with the provisions regarding allocation of costs set out in generally accepted accounting principles, determine the net cost of an automotive good under subparagraph (B) by—
 
-&emsp;&emsp;&emsp;(i) calculating the total cost incurred with respect to all goods produced by theproducer of the automotive good, subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the total cost of all such goods, and then reasonably allocating the resulting net cost of those goods to the automotive good;
+&emsp;&emsp;&emsp;(i) calculating the total cost incurred with respect to all goods produced by the producer of the automotive good, subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the total cost of all such goods, and then reasonably allocating the resulting net cost of those goods to the automotive good;
 
 &emsp;&emsp;&emsp;(ii) calculating the total cost incurred with respect to all goods produced by that producer, reasonably allocating the total cost to the automotive good, and then subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the portion of the total cost allocated to the automotive good; or
 
@@ -373,7 +373,7 @@ nc
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), accessories, spare parts, or tools delivered with agood that form part of the good's standard accessories, spare parts, or tools shall—
+&emsp;Subject to paragraphs (2) and (3), accessories, spare parts, or tools delivered with a good that form part of the good's standard accessories, spare parts, or tools shall—
 
 &emsp;&emsp;(A) be treated as originating goods if the good is an originating good; and
 
@@ -393,7 +393,7 @@ nc
 
 #### (i) Packaging materials and containers for retail sale
 
-Packaging materials and containers in which a good is packaged for retail sale, if classified with the good, shall be disregarded in determining whether all the nonoriginating materials used in the production of the good undergo the applicable change in tariff classification set out in Annex 4.1 of the Agreement, and, if the good is subject to a regional value-content requirement, the value of such packaging materials and containers shall be taken into account as originating or nonoriginating materials, as the case may be, in calculating the regional value-content of the good.
+Packaging materials and containers in which a good is packaged for retail sale, if classified with the good, shall be disregarded in determining whether all the nonoriginating materialsused in the production of the good undergo the applicable change in tariff classification set out in Annex 4.1 of the Agreement, and, if the good is subject to a regional value-content requirement, the value of such packaging materials and containers shall be taken into account as originating or nonoriginating materials, as the case may be, in calculating the regional value-content of the good.
 
 #### (j) Packing materials and containers for shipment
 
@@ -637,7 +637,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(II) any interested entity objects to the request.
 
-&emsp;&emsp;(iii) The President may, within the time periods specified in clause (iv), proclaimthat a fabric, yarn, or fiber that is the subject of a request submitted under clause (i) is added to the list in Annex 3.25 of the Agreement in an unrestricted quantity, or in any restricted quantity that the President may establish, if the President determines under clause (ii) that—
+&emsp;&emsp;(iii) The President may, within the time periods specified in clause (iv), proclaim that a fabric, yarn, or fiber that is the subject of a request submitted under clause (i) is added to the list in Annex 3.25 of the Agreement in an unrestricted quantity, or in any restricted quantity that the President may establish, if the President determines under clause (ii) that—
 
 &emsp;&emsp;&emsp;(I) the fabric, yarn, or fiber is not available in commercial quantities in a timely manner in the CAFTA–DR countries; or
 
@@ -651,7 +651,7 @@ In this section:
 
 &emsp;&emsp;(v) Notwithstanding section 4013(a)(2) of this title, a proclamation made under clause (iii) shall take effect on the date on which the text of the proclamation is published in the Federal Register.
 
-&emsp;&emsp;(vi) Not later than 6 months after proclaiming under clause (iii) that a fabric, yarn, or fiber is added to the list in Annex 3.25 of the Agreement in a restricted quantity, the President may eliminate the restriction if the President determines that the fabric, yarn, or fiber is not available in commercial quantities in a timely manner in the CAFTA–DR countries.
+&emsp;&emsp;(vi) Not later than 6 months after proclaiming under clause (iii) that a fabric,yarn, or fiber is added to the list in Annex 3.25 of the Agreement in a restricted quantity, the President may eliminate the restriction if the President determines that the fabric, yarn, or fiber is not available in commercial quantities in a timely manner in the CAFTA–DR countries.
 
 #### (D) Deemed approval of request
 

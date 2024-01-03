@@ -94,7 +94,7 @@
 
 #### (A) Choice of prospective assignment
 
-&emsp;&emsp;For each agreement period (effective for agreements entered into or renewed on or after January 1, 2020), in the case where anACO established under the program is in a Track that provides for the retrospective assignment of Medicare fee-for-service beneficiaries to the ACO, the Secretary shall permit the ACO to choose to have Medicare fee-for-service beneficiaries assigned prospectively, rather than retrospectively, to the ACO for an agreement period.
+&emsp;&emsp;For each agreement period (effective for agreements entered into or renewed on or after January 1, 2020), in the case where an ACO established under the program is in a Track that provides for the retrospective assignment of Medicare fee-for-service beneficiaries to the ACO, the Secretary shall permit the ACO to choose to have Medicare fee-for-service beneficiaries assigned prospectively, rather than retrospectively, to the ACO for an agreement period.
 
 #### (B) Assignment based on voluntary identification by medicare fee-for-service beneficiaries
 
@@ -130,7 +130,7 @@
 
 #### (i) Determining savings
 
-&emsp;&emsp;&emsp;In each year of the agreement period, an ACO shall be eligible to receive payment for shared savings under paragraph (2) only if the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for parts A and B services, adjusted for beneficiary characteristics, is at least the percent specified by the Secretary below the applicable benchmark under clause (ii). The Secretary shall determine the appropriate percent described in the preceding sentence to account for normal variation in expenditures under this subchapter, based upon the number of Medicare fee-for-service beneficiaries assigned to an ACO.
+&emsp;&emsp;&emsp;In each year of the agreement period, an ACO shall be eligible to receive payment for shared savings under paragraph (2) only if the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for partsA and B services, adjusted for beneficiary characteristics, is at least the percent specified by the Secretary below the applicable benchmark under clause (ii). The Secretary shall determine the appropriate percent described in the preceding sentence to account for normal variation in expenditures under this subchapter, based upon the number of Medicare fee-for-service beneficiaries assigned to an ACO.
 
 #### (ii) Establish and update benchmark
 
@@ -202,7 +202,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), a model described in this paragraph is a partial capitation model in which an ACO is at financial risk for some, but not all, of the items and services covered under parts A and B, such as at risk for some or all physicians' services or all items and services under part B. The Secretary may limit a partial capitation model to ACOs that are highly integrated systems of care and to ACOs capable of bearing risk, as determined to be appropriate by the Secretary.
+&emsp;&emsp;Subject to subparagraph (B), a model described in this paragraph is a partial capitation model in which an ACO is at financial risk for some, but not all, of the items and services covered under parts A and B, such as at risk for some or all physicians' servicesor all items and services under part B. The Secretary may limit a partial capitation model to ACOs that are highly integrated systems of care and to ACOs capable of bearing risk, as determined to be appropriate by the Secretary.
 
 #### (B) No additional program expenditures
 
@@ -282,7 +282,7 @@ During the period beginning on March 23, 2010, and ending on the date the progra
 
 #### (B) Implementation
 
-&emsp;&emsp;The Secretary shall implement this subsection on a date determined appropriate by the Secretary. Such date shall be no earlier than January 1, 2019, and no later than January 1, 2020.
+&emsp;&emsp;The Secretary shall implement this subsection on a date determined appropriate bythe Secretary. Such date shall be no earlier than January 1, 2019, and no later than January 1, 2020.
 
 #### (2) Conduct of program
 
@@ -318,7 +318,7 @@ During the period beginning on March 23, 2010, and ending on the date the progra
 
 &emsp;&emsp;&emsp;(iii) made for each qualifying service furnished to such a beneficiary described in clause (i) or (ii) of subparagraph (B) during a period specified by the Secretary; and
 
-&emsp;&emsp;&emsp;(iv) made no later than 30 days after a qualifying service is furnished to such abeneficiary described in clause (i) or (ii) of subparagraph (B).
+&emsp;&emsp;&emsp;(iv) made no later than 30 days after a qualifying service is furnished to such a beneficiary described in clause (i) or (ii) of subparagraph (B).
 
 #### (E) No separate payments from the Secretary
 

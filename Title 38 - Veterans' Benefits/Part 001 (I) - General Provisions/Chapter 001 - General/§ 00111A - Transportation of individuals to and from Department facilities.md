@@ -8,7 +8,7 @@ Transportation by Secretary.—(1) The Secretary may transport any person to or 
 
 (b)
 
-Transportation by Third-parties.—(1) The Secretary, in consultation and coordination with the Secretary of Transportation and appropriate representatives of veterans' service organizations, shall take all appropriate steps to facilitate the establishment and maintenance of a program under which such organizations, or individuals who are volunteering their services to the Department, would take responsibility for the transportation, without reimbursement from the Department, to Department facilities of veterans (primarily those residing in areas which are geographically accessible to such facilities) who seek services or benefits from the Department under chapter 17 or other provisions of this title.
+Transportation by Third-parties.—(1) The Secretary, in consultation and coordination with the Secretary of Transportation and appropriate representatives of veterans' service organizations, shall take all appropriate steps to facilitate the establishment and maintenance of aprogram under which such organizations, or individuals who are volunteering their services to the Department, would take responsibility for the transportation, without reimbursement from the Department, to Department facilities of veterans (primarily those residing in areas which are geographically accessible to such facilities) who seek services or benefits from the Department under chapter 17 or other provisions of this title.
 
 (2)(A) Not later than 90 days after the date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020, the Secretary shall develop and establish a national protocol for the administration of medical examinations for volunteer drivers to participate in the program described in paragraph (1).
 
@@ -18,7 +18,7 @@ Transportation by Third-parties.—(1) The Secretary, in consultation and coordi
 
 (ii) After conducting the pilot program required by clause (i), the Secretary shall assess the pilot program and make such changes to the protocol as the Secretary considers appropriate.
 
-(iii) After making changes to the protocol under clause (ii), the Secretary shall implementthe protocol in phases during the course of one year.
+(iii) After making changes to the protocol under clause (ii), the Secretary shall implement the protocol in phases during the course of one year.
 
 (Added and amended Pub. L. 112–260, title II, §202(a), (b), Jan. 10, 2013, 126 Stat. 2423, 2424; Pub. L. 113–59, §6, Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title IV, §401, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, §401, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title IV, §401, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title IV, §401, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §161, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 116–159, div. E, title II, §5204, Oct. 1, 2020, 134 Stat. 750; Pub. L. 116–315, title VII, §7001, Jan. 5, 2021, 134 Stat. 5054; Pub. L. 117–180, div. E, title II, §201, Sept. 30, 2022, 136 Stat. 2137.)
 

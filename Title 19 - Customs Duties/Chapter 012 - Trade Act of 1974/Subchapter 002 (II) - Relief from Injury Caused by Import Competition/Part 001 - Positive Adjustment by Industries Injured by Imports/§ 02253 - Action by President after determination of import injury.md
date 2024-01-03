@@ -54,7 +54,7 @@
 
 &emsp;(F) proclaim procedures necessary to allocate among importers by the auction of import licenses quantities of the article that are permitted to be imported into the United States;
 
-&emsp;(G) initiate international negotiations to address the underlying cause of the increase inimports of the article or otherwise to alleviate the injury or threat thereof;
+&emsp;(G) initiate international negotiations to address the underlying cause of the increase in imports of the article or otherwise to alleviate the injury or threat thereof;
 
 &emsp;(H) submit to Congress legislative proposals to facilitate the efforts of the domestic industry to make a positive adjustment to import competition;
 
@@ -108,7 +108,7 @@ If the President reports under subsection (b)(1) or (2) that—
 
 (3) No action may be taken under this section which would increase a rate of duty to (or impose a rate) which is more than 50 percent ad valorem above the rate (if any) existing at the time the action is taken.
 
-(4) Any action taken under this section proclaiming a quantitative restriction shall permitthe importation of a quantity or value of the article which is not less than the average quantity or value of such article entered into the United States in the most recent 3 years that are representative of imports of such article and for which data are available, unless the President finds that the importation of a different quantity or value is clearly justified in order to prevent or remedy the serious injury.
+(4) Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the average quantity or value of such article entered into the UnitedStates in the most recent 3 years that are representative of imports of such article and for which data are available, unless the President finds that the importation of a different quantity or value is clearly justified in order to prevent or remedy the serious injury.
 
 (5) An action described in subsection (a)(3)(A), (B), or (C) that has an effective period of more than 1 year shall be phased down at regular intervals during the period in which the action is in effect.
 
@@ -168,7 +168,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (e)(
 
 Subsec. (a)(3)(E). Pub. L. 103–465, §302(a)(1), struck out "orderly marketing" before "agreements".
 
-Subsec. (a)(4). Pub. L. 103–465, §301(d)(3), designated existing provisions as subpar. (A), substituted "Subject to subparagraph (B), the" for "The", inserted "(50 days if the President has proclaimed provisional relief undersection 2252(d)(2)(D) of this title with respect to the article concerned)" after "60 days", and substituted a period and subpar. (B) for "; except that if a supplemental report is requested under paragraph (5), the President shall take action under paragraph (1) within 30 days after the supplemental report is received."
+Subsec. (a)(4). Pub. L. 103–465, §301(d)(3), designated existing provisions as subpar. (A), substituted "Subject to subparagraph (B), the" for "The", inserted "(50 days if the President has proclaimed provisional relief under section 2252(d)(2)(D) of this title with respect to the article concerned)" after "60 days", and substituted a period and subpar. (B) for "; except that if a supplemental report is requested under paragraph (5), the President shall take action under paragraph (1) within 30 days after the supplemental report is received."
 
 Subsec. (c). Pub. L. 103–465, §303(8), substituted "subsection (d)(2)" for "subsection (c)(2)" in concluding provisions.
 

@@ -3,15 +3,17 @@
 | Sec. |  |
 | :--- | ---: |
 | [9131\.](%C2%A7%2009131%20-%20Definition.md) | Definition. |
-| [9132\.](%C2%A7%2009132%20-%20Regular%20Air%20Force%20and%20Regular%20Space%20Force%20gender-free%20basis%20for%20acceptance%20of%20original%20enlistments.md) | Regular Air Force and Regular Space Force: gender-free basis for acceptance of original enlistments. |
+| [9132\.](%C2%A7%2009132%20-%20Regular%20Air%20Force%20and%20Space%20Force%20gender-free%20basis%20for%20acceptance%20of%20original%20enlistments.md) | Regular Air Force and Space Force: gender-free basis for acceptance of original enlistments. |
 | [9137\.](%C2%A7%2009137%20-%20Regular%20Air%20Force%20aviation%20cadets%3B%20qualifications%2C%20grade%2C%20limitations.md) | Regular Air Force: aviation cadets; qualifications, grade, limitations. |
-| [9138\.](%C2%A7%2009138%20-%20Regular%20Air%20Force%20and%20Regular%20Space%20Force%20reenlistment%20after%20service%20as%20an%20officer.md) | Regular Air Force and Regular Space Force: reenlistment after service as an officer.<br> |
+| [9138\.](%C2%A7%2009138%20-%20Regular%20Air%20Force%20and%20Space%20Force%20reenlistment%20after%20service%20as%20an%20officer.md) | Regular Air Force and Space Force: reenlistment after service as an officer. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title XVII, §1721(a)(1)(B), (2)(B), Dec. 22, 2023, 137 Stat. 665, struck out "Regular" before "Space Force:" in items 9132 and 9138. Amendments were made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title X, §1081(a)(34), Dec. 27, 2021, 135 Stat. 1921, which directed conforming this analysis to the redesignation of section 9132 relating to Regular Air Force and Regular Space Force: reenlistment after service as an officer as section 9138, could not be executed because item 9138, as added by section 923(c)(1)(C) of Pub. L. 116–283, already related to Regular Air Force and Regular Space Force: reenlistment after service as an officer. See below.
 
@@ -35,6 +37,6 @@ Pub. L. 116–283, div. A, title IX, §923(c)(1)(C), (2)(C), Jan. 1, 2021, 134 S
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 09131 - Definition](%C2%A7%2009131%20-%20Definition.md)
-- [&sect; 09132 - Regular Air Force and Regular Space Force gender-free basis for acceptance of original enlistments](%C2%A7%2009132%20-%20Regular%20Air%20Force%20and%20Regular%20Space%20Force%20gender-free%20basis%20for%20acceptance%20of%20original%20enlistments.md)
+- [&sect; 09132 - Regular Air Force and Space Force gender-free basis for acceptance of original enlistments](%C2%A7%2009132%20-%20Regular%20Air%20Force%20and%20Space%20Force%20gender-free%20basis%20for%20acceptance%20of%20original%20enlistments.md)
 - [&sect; 09137 - Regular Air Force aviation cadets; qualifications, grade, limitations](%C2%A7%2009137%20-%20Regular%20Air%20Force%20aviation%20cadets%3B%20qualifications%2C%20grade%2C%20limitations.md)
-- [&sect; 09138 - Regular Air Force and Regular Space Force reenlistment after service as an officer](%C2%A7%2009138%20-%20Regular%20Air%20Force%20and%20Regular%20Space%20Force%20reenlistment%20after%20service%20as%20an%20officer.md)
+- [&sect; 09138 - Regular Air Force and Space Force reenlistment after service as an officer](%C2%A7%2009138%20-%20Regular%20Air%20Force%20and%20Space%20Force%20reenlistment%20after%20service%20as%20an%20officer.md)

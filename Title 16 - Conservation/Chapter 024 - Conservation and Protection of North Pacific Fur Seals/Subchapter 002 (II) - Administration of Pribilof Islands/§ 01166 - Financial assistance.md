@@ -32,11 +32,11 @@
 
 #### (1) In general
 
-&emsp;Subject to the availability of appropriations, the Secretary shall provide assistance to the State of Alaska for designing, locating, constructing, redeveloping, permitting, or certifying solid waste management facilities on the Pribilof Islands to be operated under permits issued to the City of St. George and the City of St. Paul, Alaska, by the State of Alaska under section 46.03.100 of the Alaska Statutes.
+&emsp;Subject to the availability of appropriations, the Secretary shall provide assistance to theState of Alaska for designing, locating, constructing, redeveloping, permitting, or certifying solid waste management facilities on the Pribilof Islands to be operated under permits issued to the City of St. George and the City of St. Paul, Alaska, by the State of Alaska under section 46.03.100 of the Alaska Statutes.
 
 #### (2) Transfer
 
-&emsp;The Secretary shall transfer any appropriations received under paragraph (1) to the State of Alaska for the benefit of rural and Nativevillages in Alaska for obligation under section 1263a of title 33, except that subsection (b) of that section shall not apply to those funds.
+&emsp;The Secretary shall transfer any appropriations received under paragraph (1) to the State of Alaska for the benefit of rural and Native villages in Alaska for obligation under section 1263a of title 33, except that subsection (b) of that section shall not apply to those funds.
 
 #### (3) Limitation
 

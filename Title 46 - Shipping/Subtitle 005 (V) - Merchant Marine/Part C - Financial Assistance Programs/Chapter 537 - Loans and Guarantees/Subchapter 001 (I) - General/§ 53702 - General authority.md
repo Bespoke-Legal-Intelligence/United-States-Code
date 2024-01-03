@@ -18,7 +18,7 @@ Direct Loans for Fisheries.—
 
 &emsp;(1)
 
-In general.—Notwithstanding any other provision of this chapter, any obligation involving a fishing vessel, fishery facility, aquaculture facility, individual fishing quota, or fishing capacity reduction program issued under this chapter after October 11, 1996, shall be a direct loan obligation for which the Secretary shall be the obligee, rather than an obligation issued to an obligee other than the Secretary and guaranteed by the Secretary. A direct loan obligation under this subsection shall be treated in the same manner and to thesame extent as an obligation guaranteed under this chapter except with respect to provisions of this chapter that by their nature can only be applied to obligations guaranteed under this chapter.
+In general.—Notwithstanding any other provision of this chapter, any obligation involving a fishing vessel, fishery facility, aquaculture facility, individual fishing quota, or fishing capacity reduction program issued under this chapter after October 11, 1996, shall be a direct loan obligation for which the Secretary shall be the obligee, rather than an obligation issued to an obligee other than the Secretary and guaranteed by the Secretary. A direct loan obligation under this subsection shall be treated in the same manner and to the same extent as an obligation guaranteed under this chapter except with respect to provisions of this chapter that by their nature can only be applied to obligations guaranteed under this chapter.
 
 &emsp;(2)
 
@@ -66,7 +66,7 @@ In subsection (a), the words "on terms the Secretary may prescribe" are added ba
 
 #### Codification
 
-Subsec. (b) of this section was derived from section 1112 of act June 29, 1936, as added by Pub. L. 104–297, §303(a), which was classified to section 1279g of the former Appendix to this title. Section 1112 was renumbered section 1114 of the Act by Pub. L. 109–163, div. C, title XXXV, §3507(d), Jan. 6, 2006, 119 Stat. 3557, which was repealed by Pub. L. 110–181, div. C, title XXXV, §3522(b), Jan. 28, 2008, 122 Stat. 598. See Historical and Revision notes above and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (b) of this section was derived from section 1112 of act June 29, 1936, as added by Pub. L. 104–297, §303(a), which was classified to section 1279g of theformer Appendix to this title. Section 1112 was renumbered section 1114 of the Act by Pub. L. 109–163, div. C, title XXXV, §3507(d), Jan. 6, 2006, 119 Stat. 3557, which was repealed by Pub. L. 110–181, div. C, title XXXV, §3522(b), Jan. 28, 2008, 122 Stat. 598. See Historical and Revision notes above and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 #### Amendments
 

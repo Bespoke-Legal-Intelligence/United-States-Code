@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(B) purchases such insurance only for its group members and only to cover their similar or related liability exposure, as described in subparagraph (C);
 
-&emsp;&emsp;(C) is composed of members whose businesses or activities are similar or relatedwith respect to the liability to which members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations; and
+&emsp;&emsp;(C) is composed of members whose businesses or activities are similar or related with respect to the liability to which members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations; and
 
 &emsp;&emsp;(D) is domiciled in any State;
 

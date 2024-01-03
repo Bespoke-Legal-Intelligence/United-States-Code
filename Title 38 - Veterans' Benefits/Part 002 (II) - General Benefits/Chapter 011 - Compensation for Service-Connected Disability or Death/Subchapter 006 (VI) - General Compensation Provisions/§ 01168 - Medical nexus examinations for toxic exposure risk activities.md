@@ -14,7 +14,7 @@ Medical Examinations and Medical Opinions.—(1) Except as provided in subsectio
 
 &emsp;(B) the synergistic, combined effect of all toxic exposure risk activities of the veteran.
 
-(3) The requirement under paragraph (2)(B) shall not be construed as requiring a health careprovider to consider the synergistic, combined effect of each of the substances, chemicals, and airborne hazards identified in the list under section 1119(b)(2) of this title.
+(3) The requirement under paragraph (2)(B) shall not be construed as requiring a health care provider to consider the synergistic, combined effect of each of the substances, chemicals, and airborne hazards identified in the list under section 1119(b)(2) of this title.
 
 (b)
 

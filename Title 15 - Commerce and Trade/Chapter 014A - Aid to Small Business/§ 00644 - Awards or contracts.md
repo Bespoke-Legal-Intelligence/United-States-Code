@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(i) why the proposed procurement cannot be divided into reasonably small lots (not less than economic production runs) to permit offers on quantities less than the total requirement;
 
-&emsp;&emsp;&emsp;(ii) why delivery schedules cannot be established on a realistic basis that will encourage the participation of small business concerns in a manner consistent with the actual requirements of the Government;
+&emsp;&emsp;&emsp;(ii) why delivery schedules cannot be established on a realistic basis that will encourage the participation of small businessconcerns in a manner consistent with the actual requirements of the Government;
 
 &emsp;&emsp;&emsp;(iii) why the proposed procurement cannot be offered to increase the likelihood of the participation of small business concerns;
 
@@ -182,7 +182,7 @@ For purposes of this section priority shall be given to the awarding of contract
 
 #### (i) Teams
 
-&emsp;&emsp;&emsp;When evaluating an offer of a small business prime contractor that includes a proposed team of small business subcontractors, the head of the agency shall consider the capabilities and past performance of each first tier subcontractor that is part of the team as the capabilities and past performance of the small business prime contractor.
+&emsp;&emsp;&emsp;When evaluating an offer of a small business prime contractor that includes a proposed team of small business subcontractors, the head of the agency shall considerthe capabilities and past performance of each first tier subcontractor that is part of the team as the capabilities and past performance of the small business prime contractor.
 
 #### (ii) Joint ventures
 
@@ -232,7 +232,7 @@ Establishment.—The President shall annually establish Governmentwide goals for
 
 &emsp;&emsp;(i) The Governmentwide goal for participation by small business concerns shall be established at not less than 23 percent of the total value of all prime contract awards for each fiscal year. In meeting this goal, the Government shall ensure the participation of small business concerns from a wide variety of industries and from a broad spectrum of small business concerns within each industry.
 
-&emsp;&emsp;(ii) The Governmentwide goal for participation by small business concerns owned and controlled by service-disabled veterans shall be established at not less than 3 percent of the total value of all prime contract and subcontract awards for each fiscal year.
+&emsp;&emsp;(ii) The Governmentwide goal for participation by small business concerns owned and controlled by service-disabled veterans shall be established at not less than 5 percent of the total value of all prime contract and subcontract awards for each fiscal year.
 
 &emsp;&emsp;(iii) The Governmentwide goal for participation by qualified HUBZone small business concerns shall be established at not less than 3 percent of the total value of all prime contract and subcontract awards for each fiscal year.
 
@@ -242,7 +242,7 @@ Establishment.—The President shall annually establish Governmentwide goals for
 
 &emsp;(B)
 
-Achievement of governmentwide goals.—Each agency shall have an annual goal that presents, for that agency, the maximum practicable opportunity for small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women to participate in the performance of contracts let by such agency. The Small Business Administration and the Administrator for Federal Procurement Policy shall, when exercising their authority pursuant to paragraph (2), insure that the cumulative annual prime contract goals for all agencies meet or exceed the annual Governmentwide prime contract goal established by the President pursuant to this paragraph.
+Achievement of governmentwide goals.—Each agency shall have an annual goal that presents, for that agency, the maximum practicable opportunity for small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women to participate in the performance of contracts let by such agency. The Small Business Administration and the Administrator for Federal Procurement Policy shall, when exercising their authority pursuant to paragraph (2), insure that the cumulative annual prime contract goalsfor all agencies meet or exceed the annual Governmentwide prime contract goal established by the President pursuant to this paragraph.
 
 (2)(A) The head of each Federal agency shall, after consultation with the Administration, establish goals for the participation by small business concerns, by small business concerns owned and controlled by service-disabled veterans, by qualified HUBZone small business concerns, by small business concerns owned and controlled by socially and economically disadvantaged individuals, and by small business concerns owned and controlled by women in procurement contracts of such agency. Such goals shall separately address prime contract awards and subcontract awards for each category of small business covered.
 
@@ -288,7 +288,7 @@ Achievement of governmentwide goals.—Each agency shall have an annual goal tha
 
 &emsp;&emsp;(C) a determination of whether each goal established by the head of a Federal agency under subsection (g)(2) for such fiscal year was achieved;
 
-&emsp;&emsp;(D) the reasons for any failure to achieve a goal established under paragraph (1) or (2) of subsection (g) for such fiscal year and a description of actions planned by the applicable agency to address such failure, including the Administrator's comments and recommendations on the proposed remediation plan; and
+&emsp;&emsp;(D) the reasons for any failure to achieve a goal established under paragraph (1) or (2) ofsubsection (g) for such fiscal year and a description of actions planned by the applicable agency to address such failure, including the Administrator's comments and recommendations on the proposed remediation plan; and
 
 &emsp;&emsp;(E) for the Federal Government and each Federal agency, an analysis of the number and dollar amount of prime contracts awarded during such fiscal year to—
 
@@ -370,7 +370,7 @@ Achievement of governmentwide goals.—Each agency shall have an annual goal tha
 
 &emsp;&emsp;&emsp;&emsp;(V) through unrestricted competition; and
 
-&emsp;&emsp;&emsp;&emsp;(VI) that were purchased by another entity after the initial contract was awarded and as a result of the purchase, would no longer be deemed to be small business concerns owned by an Indian tribe other than an Alaska Native Corporation for purposes of the initial contract;
+&emsp;&emsp;&emsp;&emsp;(VI) that were purchased by another entity after the initial contract was awarded and as a result of the purchase, would no longer be deemed to be small business concerns owned by an Indiantribe other than an Alaska Native Corporation for purposes of the initial contract;
 
 &emsp;&emsp;&emsp;(vi) small business concerns owned by a Native Hawaiian Organization—
 
@@ -476,7 +476,7 @@ Nothing in this chapter or any other provision of law precludes exclusive small 
 
 (2) In carrying out paragraph (1), a contracting officer shall consider a responsive offer timely received from an eligible small business offeror.
 
-(3) Nothing in paragraph (1) shall be construed as precluding an award of a contract with a value not greater than $100,000 under the authority of subsection (a) of section 637 of this title, section 712 <sup>3</sup> of the Business Opportunity Development Reform Act of 1988 (Public Law 100–656;15 U.S.C. 644 note), or section 7102 of the Federal Acquisition Streamlining Act of 1994.
+(3) Nothing in paragraph (1) shall be construed as precluding an award of a contract with a value not greater than $100,000 under the authority of subsection (a) of section 637 of this title, section 712 <sup>3</sup> of the Business Opportunity Development Reform Act of 1988 (Public Law 100–656; 15 U.S.C. 644 note), or section 7102 of the Federal Acquisition Streamlining Act of 1994.
 
 #### (k) Office of Small and Disadvantaged Business Utilization; Director
 
@@ -492,7 +492,7 @@ There is hereby established in each Federal agency having procurement powers an 
 
 &emsp;(5) shall identify proposed solicitations that involve significant bundling of contract requirements, and work with the agency acquisition officials and the Administration to revise the procurement strategies for such proposed solicitations where appropriate to increase the probability of participation by small businesses as prime contractors, or to facilitate small business participation as subcontractors and suppliers, if a solicitation for a bundled contract is to be issued;
 
-&emsp;(6) shall assist small business concerns to obtain payments, required late payment interest penalties, or information regarding payments due to such concerns from an executive agency or a contractor, in conformity with chapter 39 of title 31 or any other protection for contractors or subcontractors (including suppliers) that is included in the Federal Acquisition Regulation or any individual agency supplement to such Government-wide regulation,<sup>4</sup>
+&emsp;(6) shall assist small business concerns to obtain payments, required late payment interest penalties, or information regarding payments due to such concerns from an executive agency or a contractor, in conformity with chapter 39 of title 31 or any other protection for contractors or subcontractors (including suppliers) that is included in the Federal Acquisition Regulation or any individual agencysupplement to such Government-wide regulation,<sup>4</sup>
 
 &emsp;(7) shall have supervisory authority over personnel of such agency to the extent that the functions and duties of such personnel relate to functions and duties under sections 637, 644, 657a, 657f, and 657q of this title;
 
@@ -516,7 +516,7 @@ There is hereby established in each Federal agency having procurement powers an 
 
 &emsp;(15) shall carry out exclusively the duties enumerated in this chapter, and shall, while the Director, not hold any other title, position, or responsibility, except as necessary to carry out responsibilities under this subsection;
 
-&emsp;(16) shall submit, each fiscal year, to the Committee on Small Business of the House of Representatives and the Committee on SmallBusiness and Entrepreneurship of the Senate a report describing—
+&emsp;(16) shall submit, each fiscal year, to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report describing—
 
 &emsp;&emsp;(A) the training provided by the Director under paragraph (13) in the most recently completed fiscal year;
 
@@ -568,7 +568,7 @@ Activities.—A procurement center representative is authorized to—
 
 &emsp;(G) consult with the Director the Office of Small and Disadvantaged Business Utilization of that agency and the agency personnel described in paragraph <sup>6</sup> (7) and (8) of subsection (k) with regard to agency insourcing decisions covered by subsection (k)(11);
 
-&emsp;(H) be an advocate for the maximum practicable utilization of small business concernsin Federal contracting, including by advocating against the consolidation or bundling of contract requirements when not justified;
+&emsp;(H) be an advocate for the maximum practicable utilization of small business concerns in Federal contracting, including by advocating against the consolidation or bundling of contract requirements when not justified;
 
 &emsp;(I) assist small business concerns with finding resources for education and training on compliance with contracting regulations (including the Federal Acquisition Regulation) after award of a contract or subcontract;
 
@@ -766,7 +766,7 @@ A concern may not be awarded a contract under subsection (a) as a small business
 
 #### (3) Reporting
 
-&emsp;Not later than 90 days after September 27, 2010, and every 3 years thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report regarding procurement center representatives and commercial market representatives, which shall—
+&emsp;Not later than 90 days after September 27, 2010, and every 3 years thereafter, the Administrator shall submit to the Committee onSmall Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report regarding procurement center representatives and commercial market representatives, which shall—
 
 &emsp;&emsp;(A) identify each area for which the Administration has assigned a procurement center representative or a commercial market representative;
 
@@ -954,7 +954,7 @@ Not less than annually, the Administrator shall provide to the Defense Acquisiti
 
 &emsp;&emsp;(B) assigns a score to each Federal agency evaluated.
 
-(Pub. L. 85–536, §2\[15\], July 18, 1958, 72 Stat. 395; Pub. L. 95–89, title V, §502, Aug. 4, 1977, 91 Stat. 562; Pub. L. 95–507, title II, §§221, 232, 233, Oct. 24, 1978, 92 Stat. 1770, 1772; Pub. L. 96–302, title I, §§116, 117, July 2, 1980, 94 Stat. 839; Pub. L. 98–577, title IV, §403(a), Oct. 30, 1984, 98 Stat. 3080; Pub. L. 99–272, title XVIII, §18003(a), Apr. 7, 1986, 100 Stat. 363; Pub. L. 99–500, §101(c) \[title X, §§903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, 1783–147 to 1783–149, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §§903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132, 3341–147 to 3341–149, 3341–152; Pub. L. 99–661, div. A, title IX, formerly title IV, §§903(d), 921(a), (b)(1), (c)(2)–(e), 922(c), Nov. 14, 1986, 100 Stat. 3912, 3926–3928, 3932, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(a)(1), (b)(1), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–180, div. A, title VIII, §809(a)–(c), Dec. 4, 1987, 101 Stat. 1130; Pub. L. 100–496, §12, Oct. 17, 1988, 102 Stat. 2465; Pub. L. 100–590, title I, §§110, 133(a), Nov. 3, 1988, 102 Stat. 2994, 3005; Pub. L. 100–656, title V, §§502, 503, title VI, §§601, 603, Nov. 15, 1988, 102 Stat. 3881, 3887, 3888; Pub. L. 101–37, §§19, 21, June 15, 1989, 103 Stat. 74, 75; Pub. L. 101–510, div. A, title VIII, §806(e)(3), Nov. 5, 1990, 104 Stat. 1593; Pub. L. 101–574, title II, §208, Nov. 15, 1990, 104 Stat. 2820; Pub. L. 102–190, div. A, title VIII, §806(d), Dec. 5, 1991, 105 Stat. 1419; Pub. L. 102–366, title II, §232(b), Sept. 4, 1992, 106 Stat. 1002; Pub. L. 102–484, div. A, title VIII, §801(h)(8), Oct. 23, 1992, 106 Stat. 2446; Pub. L. 102–569, title IX, §911(b), Oct. 29, 1992, 106 Stat. 4486; Pub. L. 103–355, title IV, §4004, title VII, §§7101(a), 7106(a), Oct. 13, 1994, 108 Stat. 3338, 3367, 3374; Pub. L. 103–403, title III, §305, Oct. 22, 1994, 108 Stat. 4189; Pub. L. 104–106, div. D, title XLIII, §4321(c)(3), Feb. 10, 1996, 110 Stat. 674; Pub. L. 105–135, title IV, §413, title VI, §603(b), Dec. 2, 1997, 111 Stat. 2618, 2632; Pub. L. 106–50, title V, §502, title VI, §601, Aug. 17, 1999, 113 Stat. 247, 248; Pub. L. 106–554, §1(a)(9) \[title VIII, §§806(a), 810\], Dec. 21, 2000, 114 Stat. 2763, 2763A–706; Pub. L. 111–240, title I, §§1312(a), (b), 1331, 1333, 1346, 1347(b)(2), Sept. 27, 2010, 124 Stat. 2537, 2541, 2542, 2546, 2547; Pub. L. 112–239, div. A, title XVI, §§1621, 1623, 1631(a), (b), 1632, 1691, 1696(a), (b)(3), Jan. 2, 2013, 126 Stat. 2067, 2069–2071, 2073, 2087, 2090, 2091; Pub. L. 113–66, div. A, title XVI, §1613, Dec. 26, 2013, 127 Stat. 948; Pub. L. 113–76, div. D, title III, §318, Jan. 17, 2014, 128 Stat. 178; Pub. L. 113–291, div. A, title VIII, §§822(a), 825(b), Dec. 19, 2014, 128 Stat. 3435, 3438; Pub. L. 114–88, div. B, title I, §2108, Nov. 25, 2015, 129 Stat. 694; Pub. L. 114–92, div. A, title VIII, §§862(a), 863(a), 865(c), 867, 868(a), 870, Nov. 25, 2015, 129 Stat. 925, 926, 928, 932, 933, 938; Pub. L. 114–187, title IV, §408, June 30, 2016, 130 Stat. 592; Pub. L. 114–328, div. A, title XVIII, §§1801, 1802, 1811–1813(a), (c), (d), 1814(a), 1821(b), Dec. 23, 2016, 130 Stat. 2648, 2650–2654; Pub. L. 115–91, div. A, title XVII, §§1702(a), (c), 1703(a), Dec. 12, 2017, 131 Stat. 1803; Pub. L. 115–232, div. A, title VIII, §§812(a)(2)(C)(viii), 855, 861(b), Aug. 13, 2018, 132 Stat. 1847, 1890, 1896; Pub. L. 116–92, div. A, title VIII, §§871, 875, 880(d), (e), Dec. 20, 2019, 133 Stat. 1525, 1528, 1532; Pub. L. 116–283, div. A, title VIII, §§866(a)(2), 868(a), Jan. 1, 2021, 134 Stat. 3785, 3787; Pub. L. 117–81, div. A, title XVII, §1702(e)(5), Dec. 27, 2021, 135 Stat. 2157; Pub. L. 117–263, div. A, title VIII, §§871, 873, Dec. 23, 2022, 136 Stat. 2738, 2740.)
+(Pub. L. 85–536, §2\[15\], July 18, 1958, 72 Stat. 395; Pub. L. 95–89, title V, §502, Aug. 4, 1977, 91 Stat. 562; Pub. L. 95–507, title II, §§221, 232, 233, Oct. 24, 1978, 92 Stat. 1770, 1772; Pub. L. 96–302, title I,§§116, 117, July 2, 1980, 94 Stat. 839; Pub. L. 98–577, title IV, §403(a), Oct. 30, 1984, 98 Stat. 3080; Pub. L. 99–272, title XVIII, §18003(a), Apr. 7, 1986, 100 Stat. 363; Pub. L. 99–500, §101(c) \[title X, §§903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, 1783–147 to 1783–149, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §§903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132, 3341–147 to 3341–149, 3341–152; Pub. L. 99–661, div. A, title IX, formerly title IV, §§903(d), 921(a), (b)(1), (c)(2)–(e), 922(c), Nov. 14, 1986, 100 Stat. 3912, 3926–3928, 3932, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(a)(1), (b)(1), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–180, div. A, title VIII, §809(a)–(c), Dec. 4, 1987, 101 Stat. 1130; Pub. L. 100–496, §12, Oct. 17, 1988, 102 Stat. 2465; Pub. L. 100–590, title I, §§110, 133(a), Nov. 3, 1988, 102 Stat. 2994, 3005; Pub. L. 100–656, title V, §§502, 503, title VI, §§601, 603, Nov. 15, 1988, 102 Stat. 3881, 3887, 3888; Pub. L. 101–37, §§19, 21, June 15, 1989, 103 Stat. 74, 75; Pub. L. 101–510, div. A, title VIII, §806(e)(3), Nov. 5, 1990, 104 Stat. 1593; Pub. L. 101–574, title II, §208, Nov. 15, 1990, 104 Stat. 2820; Pub. L. 102–190, div. A, title VIII, §806(d), Dec. 5, 1991, 105 Stat. 1419; Pub. L. 102–366, title II, §232(b), Sept. 4, 1992, 106 Stat. 1002; Pub. L. 102–484, div. A, title VIII, §801(h)(8), Oct. 23, 1992, 106 Stat. 2446; Pub. L. 102–569, title IX, §911(b), Oct. 29, 1992, 106 Stat. 4486; Pub. L. 103–355, title IV, §4004, title VII, §§7101(a), 7106(a), Oct. 13, 1994, 108 Stat. 3338, 3367, 3374; Pub. L. 103–403, title III, §305, Oct. 22, 1994, 108 Stat. 4189; Pub. L. 104–106, div. D, title XLIII, §4321(c)(3), Feb. 10, 1996, 110 Stat. 674; Pub. L. 105–135, title IV, §413, title VI, §603(b), Dec. 2, 1997, 111 Stat. 2618, 2632; Pub. L. 106–50, title V, §502, title VI, §601, Aug. 17, 1999, 113 Stat. 247, 248; Pub. L. 106–554, §1(a)(9) \[title VIII, §§806(a), 810\], Dec. 21, 2000, 114 Stat. 2763, 2763A–706; Pub. L. 111–240, title I, §§1312(a), (b), 1331, 1333, 1346, 1347(b)(2), Sept. 27, 2010, 124 Stat. 2537, 2541, 2542, 2546, 2547; Pub. L. 112–239, div. A, title XVI, §§1621, 1623, 1631(a), (b), 1632, 1691, 1696(a), (b)(3), Jan. 2, 2013, 126 Stat. 2067, 2069–2071, 2073, 2087, 2090, 2091; Pub. L. 113–66, div. A, title XVI, §1613, Dec. 26, 2013, 127 Stat. 948; Pub. L. 113–76, div. D, title III, §318, Jan. 17, 2014, 128 Stat. 178; Pub. L. 113–291, div. A, title VIII, §§822(a), 825(b), Dec. 19, 2014, 128 Stat. 3435, 3438; Pub. L. 114–88, div. B, title I, §2108, Nov. 25, 2015, 129 Stat. 694; Pub. L. 114–92, div. A, title VIII, §§862(a), 863(a), 865(c), 867, 868(a), 870, Nov. 25, 2015, 129 Stat. 925, 926, 928, 932, 933, 938; Pub. L. 114–187, title IV, §408, June 30, 2016, 130 Stat. 592; Pub. L. 114–328, div. A, title XVIII, §§1801, 1802, 1811–1813(a), (c), (d), 1814(a), 1821(b), Dec. 23, 2016, 130 Stat. 2648, 2650–2654; Pub. L. 115–91, div. A, title XVII, §§1702(a), (c), 1703(a), Dec. 12, 2017, 131 Stat. 1803; Pub. L. 115–232, div. A, title VIII, §§812(a)(2)(C)(viii), 855, 861(b), Aug. 13, 2018, 132 Stat. 1847, 1890, 1896; Pub. L. 116–92, div. A, title VIII, §§871, 875, 880(d), (e), Dec. 20, 2019, 133 Stat. 1525, 1528, 1532; Pub. L. 116–283, div. A, title VIII, §§866(a)(2), 868(a), Jan. 1, 2021, 134 Stat. 3785, 3787; Pub. L. 117–81, div. A, title XVII, §1702(e)(5), Dec. 27, 2021, 135 Stat. 2157; Pub. L. 117–263, div. A, title VIII, §§871, 873, Dec. 23, 2022, 136 Stat. 2738, 2740; Pub. L. 118–31, div. A, title VIII, §863, Dec. 22, 2023, 137 Stat. 347.)
 
 #### <b>Editorial Notes</b>
 
@@ -985,6 +985,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Prior similar provisions were contained in section 214 of act July 30, 1953, ch. 282, title II, 67 Stat. 238, as amended by act Aug. 9, 1955, ch. 628, §9, 69 Stat. 551, which was previously classified to section 643 of this title. The provisions of section 215 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[10\] of Pub. L. 85–536, and are classified to section 639 of this title. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (g)(1)(A)(ii). Pub. L. 118–31 substituted "5 percent" for "3 percent".
 
 <b>2022</b>—Subsec. (p)(1). Pub. L. 117–263, §873(a)(1), amended par. (1) generally. Prior to amendment, text read as follows: "In this subsection, the term 'bundled contract' has the meaning given such term in section 632(o)(1) of this title."
 
@@ -1084,7 +1086,7 @@ Subsec. (w). Pub. L. 115–232, §855, added subsec. (w).
 
 Subsec. (x). Pub. L. 115–232, §861(b), added subsec. (x).
 
-<b>2017</b>—Subsec. (a)(1)(C). Pub. L. 115–91, §1702(c), substituted "total purchases and contracts for goods and services" for "total purchase and contracts for goods and services".
+<b>2017</b>—Subsec. (a)(1)(C). Pub. L. 115–91, §1702(c), substituted "total purchases and contracts for goods andservices" for "total purchase and contracts for goods and services".
 
 Subsec. (h)(2)(E)(i)(V), (VI). Pub. L. 115–91, §1703(a)(1), added subcls. (V) and (VI).
 
@@ -1172,7 +1174,7 @@ Subsec. (g)(2)(E), (F). Pub. L. 112–239, §1631(b)(3), added subpars. (E) and 
 
 &emsp;"(ii) contracts awarded after competition restricted to eligible small business concerns under this section and under the program established under section 637(a) of this title.
 
-"(F)(i) Each procurement employee or program manager described in clause (ii) shall communicate to the subordinates of the procurement employee or program manager the importance of achieving small business goals.
+"(F)(i) Each procurement employee or program manager described in clause (ii) shall communicate to thesubordinates of the procurement employee or program manager the importance of achieving small business goals.
 
 "(ii) A procurement employee or program manager described in this clause is a senior procurement executive, senior program manager, or Director of Small and Disadvantaged Business Utilization of a Federal agency having contracting authority."
 
@@ -1334,7 +1336,7 @@ Subsec. (g)(1). Pub. L. 103–355, §7106(a)(1), substituted ", small business 
 
 Pub. L. 103–355, §7106(a)(2)(A), inserted after third sentence "The Government-wide goal for participation by small business concerns owned and controlled by women shall be established at not less than 5 percent of the total value of all prime contract and subcontract awards for each fiscal year."
 
-Subsec. (g)(2). Pub. L. 103–355, §7106(a)(2)(B), in first sentence substituted ", by small business concerns owned and controlled by socially and economically disadvantaged individuals, and by small business concerns owned and controlled by women" for "and by smallbusiness concerns owned and controlled by socially and economically disadvantaged individuals,".
+Subsec. (g)(2). Pub. L. 103–355, §7106(a)(2)(B), in first sentence substituted ", by small business concerns owned and controlled by socially and economically disadvantaged individuals, and by small business concerns owned and controlled by women" for "and by small business concerns owned and controlled by socially and economically disadvantaged individuals,".
 
 Pub. L. 103–355, §7106(a)(1), in second sentence substituted ", small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women" for "and small business concerns owned and controlled by socially and economically disadvantaged individuals".
 
@@ -1364,7 +1366,7 @@ Subsec. (m)(2)(C). Pub. L. 102–484, §801(h)(8)(C), substituted "section 2323 
 
 <b>1991</b>—Subsec. (k)(5). Pub. L. 102–190 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "assist small business concerns to obtain payments, late payment interest penalties, or information due to such concerns, in conformity with chapter 39 of title 31;".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–574 inserted after second sentence "If a proposed procurement includes in its statement of work goods or services currently being performed by a small business, and if the proposed procurement is in a quantity or estimated dollar value the magnitude of which renders small business prime contract participation unlikely, or if a proposed procurement for construction seeks to package or consolidate discrete construction projects, the Procurement Activity shall provide a copy of the proposed procurement to the Procurement Activity's Small Business Procurement Center Representative at least 30 days prior to the solicitation's issuance along with a statement explaining (1) why the proposed acquisition cannot be divided into reasonably small lots (not less than economic production runs) to permit offers on quantities less than the total requirement, (2) why delivery schedules cannot be established on a realistic basis that will encourage small business participation to the extent consistent with the actual requirements of the Government, (3) why the proposed acquisition cannot be offered so as to make small business participation likely, or (4) why construction cannot be procured as separate discrete projects. The thirty-day notification process shall occur concurrently with other processing steps required prior to issuance of the solicitation. Within 15 days after receipt of the proposed procurement and accompanying statement, if the Procurement Center Representative believes that the procurement as proposed will render small business prime contract participation unlikely, the Representative shall recommend to the Procurement Activity alternative procurement methods which would increase small business prime contracting opportunities."
+<b>1990</b>—Subsec. (a). Pub. L. 101–574 inserted after second sentence "If a proposed procurement includes in its statement of work goods or services currently being performed by a small business, and if the proposed procurement is in a quantity or estimated dollar value the magnitude of which renders small business prime contract participation unlikely, or if a proposed procurement for construction seeks to package or consolidate discrete construction projects, the Procurement Activity shall provide a copy of the proposed procurement to the Procurement Activity's Small Business Procurement Center Representative at least 30 days prior tothe solicitation's issuance along with a statement explaining (1) why the proposed acquisition cannot be divided into reasonably small lots (not less than economic production runs) to permit offers on quantities less than the total requirement, (2) why delivery schedules cannot be established on a realistic basis that will encourage small business participation to the extent consistent with the actual requirements of the Government, (3) why the proposed acquisition cannot be offered so as to make small business participation likely, or (4) why construction cannot be procured as separate discrete projects. The thirty-day notification process shall occur concurrently with other processing steps required prior to issuance of the solicitation. Within 15 days after receipt of the proposed procurement and accompanying statement, if the Procurement Center Representative believes that the procurement as proposed will render small business prime contract participation unlikely, the Representative shall recommend to the Procurement Activity alternative procurement methods which would increase small business prime contracting opportunities."
 
 Subsec. (j). Pub. L. 101–510 substituted "not in excess of the small purchase threshold" for "of less than $25,000".
 
@@ -1390,7 +1392,7 @@ Subsec. (l)(2)(E). Pub. L. 100–590, §110(2), amended subpar. (E) generally. P
 
 Subsec. (l)(3). Pub. L. 100–590, §110(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "A breakout procurement center representative is authorized to appeal a failure to act favorably on any recommendation made pursuant to paragraph (2). Such appeal shall be in writing, specifically reciting both the circumstances of the appeal and the basis of the recommendation. The appeal shall be decided by a person within the employ of the appropriate activity who is at least one supervisory level above the person who initially failed to act favorably on the recommendation. Such appeal shall be decided within 30 calendar days of its receipt."
 
-Subsec. (l)(6). Pub. L. 100–590, §110(4), amended par. (6) generally. Prior to amendment, par. (6) read as follows:"For purposes of this subsection, the term 'major procurement center' means a procurement center of the Department of Defense that awarded contracts for items other than commercial items totaling at least $150,000,000 in the preceding fiscal year, and such other procurement centers as designated by the Administrator."
+Subsec. (l)(6). Pub. L. 100–590, §110(4), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "For purposes of this subsection, the term 'major procurement center' means a procurement center of the Department of Defense that awarded contracts for items other than commercial items totaling at least $150,000,000 in the preceding fiscal year, and such other procurement centers as designated by the Administrator."
 
 Subsec. (l)(7). Pub. L. 100–590, §110(5), added par. (7).
 
@@ -1466,7 +1468,7 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by sections 4004 and 7106(a) of Pub. L. 103–355, see section10001 of Pub. L. 103–355, set out as a note under section 8752 of Title 10, Armed Forces.
+For effective date and applicability of amendment by sections 4004 and 7106(a) of Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 8752 of Title 10, Armed Forces.
 
 #### Effective Date of 1989 Amendment
 
@@ -1495,6 +1497,46 @@ Amendment by section 101(c) \[title X, §921(a), (b)(1), (c)(2)–(e)\] of Pub. 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as a note under section 631 of this title.
+
+#### Eliminating Self-Certification for Service-Disabled Veteran-Owned Small Businesses
+
+Pub. L. 118–31, div. A, title VIII, §864, Dec. 22, 2023, 137 Stat. 347, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Administrator.—The term "Administrator" means the Administrator of the Small Business Administration.
+
+&emsp;"(2)
+
+Small business concern; small business concerns owned and controlled by service-disabled veterans.—The terms 'small business concern' and 'small business concerns owned and controlled by service-disabled veterans' have the meanings given those terms in section 3 of the Small Business Act (15 U.S.C. 632).
+
+"(b)
+
+Eliminating Self-Certification in Prime Contracting and Subcontracting for SDVOSBs.—
+
+&emsp;"(1)
+
+In general.—Each prime contract award and subcontract award that is counted for the purpose ofmeeting the goals for participation by small business concerns owned and controlled by service-disabled veterans in procurement contracts for Federal agencies, as established in section 15(g)(2) of the Small Business Act (15 U.S.C. 644(g)(2)), shall be entered into with small business concerns certified by the Administrator as small business concerns owned and controlled by service-disabled veterans under section 36 of such Act (15 U.S.C. 657f).
+
+&emsp;"(2)
+
+Effective date.—Paragraph (1) shall take effect on October 1 of the fiscal year beginning after the Administrator promulgates the regulations required under subsection (d).
+
+"(c)
+
+Phased Approach to Eliminating Self-Certification for SDVOSBs.—Notwithstanding any other provision of law, any small business concern that self-certified as a small business concern owned and controlled by service-disabled veterans may—
+
+&emsp;"(1) if the small business concern files a certification application with the Administrator before the end of the 1-year period beginning on the date of the enactment of this Act \[Dec. 22, 2023\], maintain such self-certification until the Administrator makes a determination with respect to such certification; and
+
+&emsp;"(2) if the small business concern does not file a certification application before the end of the 1-year period beginning on the date of enactment of this Act, lose, at the end of such 1-year period, any self-certification of the small business concern as a small business concern owned and controlled by service-disabled veterans.
+
+"(d)
+
+Rulemaking.—Not later than 180 days after the date of the enactment of this Act, the Administrator shall promulgate regulations to carry out this section."
 
 #### Compliance of Offices of Small Business and Disadvantaged Business Utilization
 
@@ -1548,7 +1590,7 @@ In general.—Not later than 1 year after the date of enactment of this Act \[Se
 
 "(2)
 
-Report.—Not later than 30 days after the pilot program under paragraph (1) ends, the ComptrollerGeneral of the United States shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report regarding the pilot program."
+Report.—Not later than 30 days after the pilot program under paragraph (1) ends, the Comptroller General of the United States shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report regarding the pilot program."
 
 #### Small Business Teams Pilot Program
 
@@ -1660,7 +1702,7 @@ Matters to be addressed.—The revisions of the Federal Acquisition Regulation m
 
 &emsp;&emsp;"(C) guidance on how contracting officers may use, in solicitations for various classes of products or services, a price evaluation preference pursuant to subsection (a)(1)(B), to provide a reasonable advantage to small business concerns owned and controlled by socially and economically disadvantaged individuals without effectively eliminating any participation of other small business concerns; and
 
-&emsp;&emsp;"(D)(i) procedures for a person to request the head of a Federal agency to determine whether the use of competitions restricted to small businessconcerns owned and controlled by socially and economically disadvantaged individuals at a contracting activity of such agency has caused a particular industry category to bear a disproportionate share of the contracts awarded to attain the goal established for that contracting activity; and
+&emsp;&emsp;"(D)(i) procedures for a person to request the head of a Federal agency to determine whether the use of competitions restricted to small business concerns owned and controlled by socially and economically disadvantaged individuals at a contracting activity of such agency has caused a particular industry category to bear a disproportionate share of the contracts awarded to attain the goal established for that contracting activity; and
 
 &emsp;&emsp;"(ii) guidance for limiting the use of such restricted competitions in the case of any contracting activity and class of contracts determined in accordance with such procedures to have caused a particular industry category to bear a disproportionate share of the contracts awarded to attain the goal established for that contracting activity.
 
@@ -1728,7 +1770,7 @@ Pub. L. 98–577, title IV, §403(b), Oct. 30, 1984, 98 Stat. 3082, provided tha
 
 Ex. Ord. No. 13157, May 23, 2000, 65 F.R. 34035, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Small Business Act, 15 U.S.C. 631, <i>et seq</i>., section 7106 of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355) \[amending 15 U.S.C. 632, 637, 644, 645\], and the Office of Federal Procurement Policy \[Act\], \[former\] 41 U.S.C. 403, <i>et seq</i>., and in order to strengthen the executive branch's commitment to increased opportunities for women-owned small businesses, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Small Business Act, 15 U.S.C. 631, <i>et seq</i>., section 7106 of the Federal AcquisitionStreamlining Act of 1994 (Public Law 103–355) \[amending 15 U.S.C. 632, 637, 644, 645\], and the Office of Federal Procurement Policy \[Act\], \[former\] 41 U.S.C. 403, <i>et seq</i>., and in order to strengthen the executive branch's commitment to increased opportunities for women-owned small businesses, it is hereby ordered as follows:
 
 Section 1. <i>Executive Branch Policy</i>. In order to reaffirm and strengthen the statutory policy contained in the Small Business Act, 15 U.S.C. 644(g)(1), it shall be the policy of the executive branch to take the steps necessary to meet or exceed the 5 percent Government-wide goal for participation in procurement by women-owned small businesses (WOSBs). Further, the executive branch shall implement this policy by establishing a participation goal for WOSBs of not less than 5 percent of the total value of all prime contract awards for each fiscal year and of not less than 5 percent of the total value of all subcontract awards for each fiscal year.
 
@@ -1774,7 +1816,7 @@ Sec. 7. <i>Compliance</i>. Independent agencies are requested to comply with the
 
 Sec. 8. <i>Consultation and Advice</i>. In developing the long-term comprehensive strategies required by section 2 of this order, Federal agencies shall consult with, and seek information and advice from, State and local governments, WOSBs, other private-sector partners, and other experts.
 
-Sec. 9. <i>Judicial Review</i>. This order is for internal management purposes for the Federal Government. It does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party againstthe United States, its agencies, its officers, its employees, or any other person.
+Sec. 9. <i>Judicial Review</i>. This order is for internal management purposes for the Federal Government. It does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, its employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1824,9 +1866,9 @@ Sec. 3. <i>Responsibilities of the Small Business Administration</i>. The Admini
 
 (b) ensure that Procurement Center Representatives receive adequate training regarding the section 8(a) and SDB programs and that they consistently and aggressively seek opportunities for maximizing the use of 8(a)s and SDBs in department and agency procurements; and
 
-(c) ensure that each department and agency's small and disadvantaged business procurement goals as wellas the amount of procurement of each department and agency with 8(a)s, SDBs, and MBEs is publicly available in an easily accessible and understandable format such as through publication on the Internet.
+(c) ensure that each department and agency's small and disadvantaged business procurement goals as well as the amount of procurement of each department and agency with 8(a)s, SDBs, and MBEs is publicly available in an easily accessible and understandable format such as through publication on the Internet.
 
-Sec. 4. <i>Federal Advertising</i>. Each department or agency that contracts with businesses to develop advertising for the department or agency or to broadcast Federal advertising shall take an aggressive role in ensuring substantial minority-owned entities' participation, including 8(a), SDB, and MBE, in Federal advertising-related procurements. Each department and agency shall ensure that all creation, placement, and transmission of Federal advertising is fully reflective of the Nation's diversity. To achieve this diversity, special attention shall be given to ensure placement in publications and television and radio stations that reach specific ethnic and racial audiences. Each department and agency shall ensure that payment for Federal advertising is commensurate with fair market rates in the relevant market. Each department and agency shall structure advertising contracts as commercial acquisitions consistent with part 12 of the Federal Acquisition Regulation processes and paperwork to enhance participation by 8(a)s, SDBs, and MBEs.
+Sec. 4. <i>Federal Advertising</i>. Each department or agency that contracts with businesses to develop advertising for the department or agency or to broadcast Federal advertising shall take an aggressive role in ensuring substantial minority-owned entities' participation, including 8(a), SDB, and MBE, in Federal advertising-related procurements. Each department and agency shall ensure that all creation, placement, and transmission of Federal advertising is fully reflective of the Nation's diversity. To achieve this diversity, special attention shall be given to ensure placement in publications and television and radio stations thatreach specific ethnic and racial audiences. Each department and agency shall ensure that payment for Federal advertising is commensurate with fair market rates in the relevant market. Each department and agency shall structure advertising contracts as commercial acquisitions consistent with part 12 of the Federal Acquisition Regulation processes and paperwork to enhance participation by 8(a)s, SDBs, and MBEs.
 
 Sec. 5. <i>Information Technology</i>. Each department and agency shall aggressively seek to ensure substantial 8(a), SDB, and MBE participation in procurements for and related to information technology, including procurements in the telecommunications industry. In so doing, the Chief Information Officer in each department and agency shall coordinate with procurement officials to implement this section.
 

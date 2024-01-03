@@ -24,7 +24,7 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 #### (c) Control over assets by participant or beneficiary
 
-(1)(A) In the case of a pension plan which provides for individual accounts and permits a participant or beneficiary to exercise control over the assets in his account, if a participant or beneficiary exercises control over the assets in his account (as determined under regulations of the Secretary)—
+(1)(A) In the case of a pension plan which provides for individual accounts and permits a participant or beneficiary to exercise control overthe assets in his account, if a participant or beneficiary exercises control over the assets in his account (as determined under regulations of the Secretary)—
 
 &emsp;(i) such participant or beneficiary shall not be deemed to be a fiduciary by reason of such exercise, and
 
@@ -42,7 +42,7 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 &emsp;(C) one year after the simple retirement account is established.
 
-> No reports, other than those required under section 1021(g) of this title, shall be required withrespect to a simple retirement account established pursuant to such a qualified salary reduction arrangement.
+> No reports, other than those required under section 1021(g) of this title, shall be required with respect to a simple retirement account established pursuant to such a qualified salary reduction arrangement.
 
 (3) In the case of a pension plan which makes a transfer to an individual retirement account or annuity of a designated trustee or issuer under section 401(a)(31)(B) of title 26, the participant or beneficiary shall, for purposes of paragraph (1), be treated as exercising control over the assets in the account or annuity upon—
 
@@ -86,13 +86,17 @@ Notice requirements.—
 
 In general.—The requirements of this subparagraph are met if each participant or beneficiary—
 
-&emsp;&emsp;&emsp;(I) receives, within a reasonable period of time before each plan year, a notice explaining the employee's right under the plan to designate how contributions and earnings will be invested and explaining how, in the absence of any investment election by the participant or beneficiary, such contributions and earnings will be invested, and
+&emsp;&emsp;&emsp;(I) receives, within a reasonable period of time before each plan year, a notice explaining the employee's right under the plan to designate how contributions andearnings will be invested and explaining how, in the absence of any investment election by the participant or beneficiary, such contributions and earnings will be invested, and
 
 &emsp;&emsp;&emsp;(II) has a reasonable period of time after receipt of such notice and before the beginning of the plan year to make such designation.
 
 &emsp;&emsp;(ii)
 
 Form of notice.—The requirements of clauses (i) and (ii) of section 401(k)(12)(D) of title 26 shall apply with respect to the notices described in this subparagraph.
+
+(6)
+
+Default investment arrangements for a pension-linked emergency savings account.—For purposes of paragraph (1), a participant in a pension-linked emergency savings account shall be treated as exercising control over the assets in the account with respect to the amount of contributions and earnings which are invested in accordance with section 1193(c)(1)(A)(iii) of this title.
 
 #### (d) Plan terminations
 
@@ -160,7 +164,7 @@ Form of notice.—The requirements of clauses (i) and (ii) of section 401(k)(12)
 
 &emsp;&emsp;&emsp;(iv) the insurer will notify the fiduciary of any change in circumstances occurring after the provision of the representations in clauses (i), (ii), and (iii) which would preclude the insurer from making such representations at the time of issuance of the guaranteed retirement income contract; and
 
-&emsp;&emsp;(B) after receiving such representations and as of the time of selection, the fiduciary has not received any notice described in subparagraph (A)(iv) and is in possession of no other information which would cause the fiduciary to question the representations provided.
+&emsp;&emsp;(B) after receiving such representations and as of the time of selection, the fiduciaryhas not received any notice described in subparagraph (A)(iv) and is in possession of no other information which would cause the fiduciary to question the representations provided.
 
 #### (3) No requirement to select lowest cost
 
@@ -199,16 +203,6 @@ Form of notice.—The requirements of clauses (i) and (ii) of section 401(k)(12)
 &emsp;&emsp;The term "guaranteed retirement income contract" means an annuity contract for a fixed term or a contract (or provision or feature thereof) which provides guaranteed benefits annually (or more frequently) for at least the remainder of the life of the participant or the joint lives of the participant and the participant's designated beneficiary as part of an individual account plan.
 
 (Pub. L. 93–406, title I, §404, Sept. 2, 1974, 88 Stat. 877; Pub. L. 96–364, title III, §309, Sept. 26, 1980, 94 Stat. 1296; Pub. L. 101–508, title XII, §12002(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–565, 1388–566; Pub. L. 104–188, title I, §1421(d)(2), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 107–16, title VI, §657(c)(1), June 7, 2001, 115 Stat. 136; Pub. L. 107–147, title IV, §411(t), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title VI, §§621(a), 624(a), Aug. 17, 2006, 120 Stat. 978, 980; Pub. L. 110–458, title I, §106(d), Dec. 23, 2008, 122 Stat. 5107; Pub. L. 116–94, div. O, title II, §204, Dec. 20, 2019, 133 Stat. 3165; Pub. L. 117–328, div. T, title I, §127(d), Dec. 29, 2022, 136 Stat. 5324.)
-
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 117–328, div. T, title I, §127(d), (g), Dec. 29, 2022, 136 Stat. 5324, 5330, provided that, applicable to plan years beginning after Dec. 31, 2023, subsection (c) of this section is amended by adding at the end the following:</i>
-
-<i>"(6)</i>
-
-<i>Default investment arrangements for a pension-linked emergency savings account.—For purposes of paragraph (1), a participant in a pension-linked emergency savings account shall be treated as exercising control over the assets in the account with respect to the amount of contributions and earnings which are invested in accordance with section 1193(c)(1)(A)(iii) of this title."</i>
-
-<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 

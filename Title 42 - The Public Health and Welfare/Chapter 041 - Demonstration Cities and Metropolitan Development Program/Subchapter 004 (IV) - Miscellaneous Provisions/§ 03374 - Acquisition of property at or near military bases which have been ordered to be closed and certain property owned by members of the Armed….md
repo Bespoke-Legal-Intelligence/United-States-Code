@@ -54,7 +54,7 @@
 
 #### (3) Temporary homeowner assistance for members of the Armed Forces permanently reassigned during specified mortgage crisis
 
-&emsp;Notwithstanding any other provision of law, the Secretary of Defense is authorized to acquire title to, hold, manage, and dispose of, or,in lieu thereof, to reimburse for certain losses upon private sale of, or foreclosure against, any property improved with a one- or two-family dwelling situated at or near a military base or installation, if the Secretary determines—
+&emsp;Notwithstanding any other provision of law, the Secretary of Defense is authorized to acquire title to, hold, manage, and dispose of, or, in lieu thereof, to reimburse for certain losses upon private sale of, or foreclosure against, any property improved with a one- or two-family dwelling situated at or near a military base or installation, if the Secretary determines—
 
 &emsp;&emsp;(A) that the owner is a member of the Armed Forces serving on permanent assignment;
 
@@ -166,7 +166,7 @@ There shall be in the Treasury a fund which shall be available to the Secretary 
 
 #### (e) Fund as source of payments to States in lieu of taxes; limitation on amount; allowance for public service expenditures
 
-Payments from the fund created by this section may be made in lieu of taxes to any State or political subdivision thereof, with respect to real property, including improvements thereon, acquired and held under this section. The amount so paid for any year upon such propertyshall not exceed the taxes which would be paid to the State or subdivision, as the case may be, upon such property if it were not exempt from taxation, and shall reflect such allowance as may be considered appropriate for expenditures, if any, by the Government for streets, utilities, or other public services to serve such property.
+Payments from the fund created by this section may be made in lieu of taxes to any State or political subdivision thereof, with respect to real property, including improvements thereon, acquired and held under this section. The amount so paid for any year upon such property shall not exceed the taxes which would be paid to the State or subdivision, as the case may be, upon such property if it were not exempt from taxation, and shall reflect such allowance as may be considered appropriate for expenditures, if any, by the Government for streets, utilities, or other public services to serve such property.
 
 #### (f) Title requirements; terms and conditions of payment; finality of decisions
 

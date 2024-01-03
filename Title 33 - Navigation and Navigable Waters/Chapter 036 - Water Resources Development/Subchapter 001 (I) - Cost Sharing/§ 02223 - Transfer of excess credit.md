@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Except for subsection (a)(4)(D)(i) of that section, the requirements of section 1962d–5b of title 42 (as amended by section 1018(a)) shall apply to any credit under this section.
+&emsp;Except for subsection (a)(4)(D)(i) of that section, the requirements of section 1962d–5b oftitle 42 (as amended by section 1018(a)) shall apply to any credit under this section.
 
 #### (2) Conditions
 

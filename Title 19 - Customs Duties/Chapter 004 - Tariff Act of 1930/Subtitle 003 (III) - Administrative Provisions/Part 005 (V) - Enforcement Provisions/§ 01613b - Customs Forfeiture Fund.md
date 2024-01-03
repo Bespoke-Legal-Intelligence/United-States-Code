@@ -92,7 +92,7 @@ Amounts in the Fund which are not currently needed for the purposes of this sect
 
 &emsp;&emsp;&emsp;(I) by property category (general property, vehicles, vessels, aircraft, cash, and real property) and
 
-&emsp;&emsp;&emsp;(II) by type of disposition (sales, remissions, cancellations, placed into official use, sharing with State and local agencies, and destructions).
+&emsp;&emsp;&emsp;(II) by type of disposition (sales, remissions, cancellations, placed into officialuse, sharing with State and local agencies, and destructions).
 
 (2) The Fund shall be subject to audits conducted by the Comptroller General of the United States, under such conditions as the Comptroller General determines appropriate.
 
@@ -178,7 +178,7 @@ Subsec. (f). Pub. L. 99–570, §3142(a)(2), amended subsec. (f) generally. Prio
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title X, §10012(c), Nov. 5, 1990, 104 Stat. 1388–390, provided that: "The provisions of this section \[amending this section\] take effect August 21, 1990."
+Pub. L. 101–508, title X, §10012(c), Nov. 5, 1990, 104 Stat. 1388–390, provided that: "The provisions of thissection \[amending this section\] take effect August 21, 1990."
 
 #### Effective Date of 1986 Amendment
 

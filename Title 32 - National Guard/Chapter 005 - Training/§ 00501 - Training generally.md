@@ -102,31 +102,9 @@ Sunset.—The authority provided under this section shall expire on August 31, 2
 
 #### National Guard Support on Wildfire Response
 
-Pub. L. 117–81, div. A, title V, §515, Dec. 27, 2021, 135 Stat. 1683, as amended by Pub. L. 117–263, div. A, title V, §516, Dec. 23, 2022, 136 Stat. 2566, provided that:
+Pub. L. 117–81, div. A, title V, §515, Dec. 27, 2021, 135 Stat. 1683, as amended by Pub. L. 117–263, div. A, title V, §516, Dec. 23, 2022, 136 Stat. 2566, related to National Guard support on wildfire response, prior to repeal by Pub. L. 118–31, div. A, title V, §515(c), Dec. 22, 2023, 137 Stat. 249.
 
-"(a) \\in general\\.—\[sic\] Until September 30, 2029, the Secretary of Defense shall continue to carry out the FireGuard program with National Guard personnel (including from the Colorado National Guard and the California National Guard) to aggregate, analyze, and assess multi-source remote sensing information for interagency partnerships in the initial detection and monitoring of wildfires.
-
-"(b)
-
-Transfer.—Until the date specified in subsection (a), no component (including any analytical responsibility) of the FireGuard program may be transferred from the Department of Defense to another entity. If the Secretary seeks to make such a transfer, the Secretary shall, at least three years before such transfer, provide to the appropriate congressional committees a written report and briefing that detail—
-
-&emsp;"(1) plans of the Secretary for such transfer; and
-
-&emsp;"(2) how such transfer will sustain and improve detection and monitoring of wildfires.
-
-"(c)
-
-Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means the following:
-
-&emsp;"(1) The Committee on Armed Services of the Senate.
-
-&emsp;"(2) The Committee on Armed Services of the House of Representatives.
-
-&emsp;"(3) The Select Committee on Intelligence of the Senate.
-
-&emsp;"(4) The Permanent Select Committee on Intelligence of the House of Representatives."
-
-Pub. L. 115–91, div. A, title III, §351, Dec. 12, 2017, 131 Stat. 1367, as amended by Pub. L. 117–263, div. A, title III, §385, Dec. 23, 2022, 136 Stat. 2544, provided that: "The Secretary of the Army and the Secretary of the Air Force, in consultation with the Chief of the National Guard Bureau, may provide support for the training of appropriate personnel of the National Guard on wildfire prevention and response. In carrying out this section, the Secretaries—
+Pub. L. 115–91, div. A, title III, §351, Dec. 12, 2017, 131 Stat. 1367, as amended by Pub. L. 117–263, div. A, titleIII, §385, Dec. 23, 2022, 136 Stat. 2544, provided that: "The Secretary of the Army and the Secretary of the Air Force, in consultation with the Chief of the National Guard Bureau, may provide support for the training of appropriate personnel of the National Guard on wildfire prevention and response. In carrying out this section, the Secretaries—
 
 &emsp;"(1) shall give a preference to personnel assigned to military installations with the highest wildfire suppression needs, as determined by the Secretaries; and
 
@@ -206,5 +184,5 @@ Definitions.—In this section:
 
 Pub. L. 104–106, div. A, title V, §573, Feb. 10, 1996, 110 Stat. 355, continued the authority to carry out the pilot program under section 1091 of Pub. L. 102–484 for 18 months beyond Feb. 10, 1996, and limited the number of programs authorized to be carried out.
 
-Pub. L. 102–484, div. A, title X, §1091, Oct. 23, 1992, 106 Stat. 2519, as amended by Pub. L. 103–82, title I, §104(e)(1)(A), (C), Sept. 21, 1993, 107 Stat. 846; Pub. L. 103–160, div. A, title XI, §1174, Nov. 30, 1993, 107 Stat. 1767; Pub. L. 103–382, title III, §391(o), Oct. 20, 1994, 108Stat. 4024; Pub. L. 105–85, div. A, title X, §1073(d)(2)(B), Nov. 18, 1997, 111 Stat. 1905, authorized a pilot program known as the National Guard Civilian Youth Opportunities Program during fiscal years 1993 through 1995 to provide help to selected secondary school dropouts through military-based training. See section 509 of this title.
+Pub. L. 102–484, div. A, title X, §1091, Oct. 23, 1992, 106 Stat. 2519, as amended by Pub. L. 103–82, title I, §104(e)(1)(A), (C), Sept. 21, 1993, 107 Stat. 846; Pub. L. 103–160, div. A, title XI, §1174, Nov. 30, 1993, 107 Stat. 1767; Pub. L. 103–382, title III, §391(o), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 105–85, div. A, title X, §1073(d)(2)(B), Nov. 18, 1997, 111 Stat. 1905, authorized a pilot program known as the National Guard Civilian Youth Opportunities Program during fiscal years 1993 through 1995 to provide help to selected secondary school dropouts through military-based training. See section 509 of this title.
 

@@ -106,7 +106,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (1) System to establish priorities
 
-&emsp;On an annual basis, the Secretary shall submit to the appropriate committees of Congress and cause to be published in the Federal Register, the system used to establish priorities for replacement and construction projects for Bureau-funded schools and home-living schools, including boarding schools and dormitories. At the time any budget request for education is presented, the Secretary shall publish in the Federal Register and submit with the budget request the current list of all Bureau-funded school construction priorities.
+&emsp;On an annual basis, the Secretary shall submit to the appropriate committees of Congress and cause to be published in the Federal Register, the system used to establish priorities for replacement and construction projects for Bureau-funded schools and home-living schools, including boarding schools and dormitories. At the time any budget request foreducation is presented, the Secretary shall publish in the Federal Register and submit with the budget request the current list of all Bureau-funded school construction priorities.
 
 #### (2) Long-term construction and replacement list
 
@@ -243,8 +243,6 @@ Another prior section 2005, Pub. L. 95–561, title XI, §1125, Nov. 1, 1978, 92
 #### Change of Name
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

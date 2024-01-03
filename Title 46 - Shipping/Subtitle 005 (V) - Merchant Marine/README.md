@@ -47,7 +47,7 @@
 | [<b>551.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20551%20-%20Coastwise%20Trade/README.md) | <b>Coastwise Trade</b> | <b>55101</b> |
 | [<b>553.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20553%20-%20Passenger%20and%20Cargo%20Preferences/README.md) | <b>Passenger and Cargo Preferences</b> | <b>55301</b> |
 | <b>\[555.</b> | <b>Transferred\]</b> |  |
-| [<b>556.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20556%20-%20Marine%20Highways/README.md) | <b>Short Sea Transportation </b><b><sup>1</sup></b> | <b>55601</b> |
+| [<b>556.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20556%20-%20Marine%20Highways/README.md) | <b>Marine Highways</b> | <b>55601</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -83,6 +83,8 @@
 
 #### Amendments
 
+<b>2023</b>—Pub. L. 118–31, div. C, title XXXV, §3514(f), Dec. 22, 2023, 137 Stat. 811, substituted "Marine Highways" for "Short Sea Transportation" in item for chapter 556.
+
 <b>2021</b>—Pub. L. 117–81, div. C, title XXXV, §§3512(c)(2), 3513(d), Dec. 27, 2021, 135 Stat. 2239, 2242, added items for chapters 504 and 543 and struck out item for chapter 555 "Miscellaneous".
 
 Pub. L. 116–283, div. C, title XXXV, §3511(b), Jan. 1, 2021, 134 Stat. 4419, which directed amendment of this analysis by adding item for chapter 534 "at the end", was executed by adding the item for chapter 534 after the item for chapter 533 to reflect the probable intent of Congress.
@@ -94,8 +96,6 @@ Pub. L. 116–283, div. C, title XXXV, §3511(b), Jan. 1, 2021, 134 Stat. 4419, 
 <b>2007</b>—Pub. L. 110–140, title XI, §1121(b), Dec. 19, 2007, 121 Stat. 1762, added item for chapter 556.
 
 <b>2006</b>—Pub. L. 109–304, §8(a), Oct. 6, 2006, 120 Stat. 1555, amended subtitle analysis generally. Prior to amendment, analysis consisted of item for chapter 531 "Maritime Security Fleet".
-
-<i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
 
 
 ---

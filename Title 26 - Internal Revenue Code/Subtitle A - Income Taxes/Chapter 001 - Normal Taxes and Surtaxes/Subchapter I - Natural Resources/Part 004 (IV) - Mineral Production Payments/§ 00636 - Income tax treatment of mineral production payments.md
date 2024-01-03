@@ -52,7 +52,7 @@ Special rule.—With respect to a taxpayer who does not elect the treatment prov
 
 &emsp;&emsp;"(ii) the aggregate amount of production payments carved out before August 7, 1969, by the taxpayer during his taxable year which includes such date, or
 
-&emsp;"(B) the amount necessary to increase the amount of the taxpayer's gross income, within the meaning of chapter 1 of subtitle A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[this title\], for the taxable year which includes August 7, 1969, to an amount equal to the amount of deductions (other than any deduction under section 172 of such Code) allowable for such year under such chapter.
+&emsp;"(B) the amount necessary to increase the amount of the taxpayer's gross income, within the meaning of chapter 1 of subtitle A of the Internal Revenue Codeof 1986 \[formerly I.R.C. 1954\] \[this title\], for the taxable year which includes August 7, 1969, to an amount equal to the amount of deductions (other than any deduction under section 172 of such Code) allowable for such year under such chapter.
 
 > The preceding sentence shall not apply for purposes of determining the amount of any deduction allowable under section 611 or the amount of foreign tax credit allowable under section 904 of such Code."
 

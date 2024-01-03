@@ -162,7 +162,7 @@ Private security functions.—The term 'private security functions' means activi
 
 "(e)
 
-Exception.—The requirements of this section shall not apply to contracts entered into by elements ofthe intelligence community in support of intelligence activities."
+Exception.—The requirements of this section shall not apply to contracts entered into by elements of the intelligence community in support of intelligence activities."
 
 #### Contracts in Iraq and Afghanistan and Private Security Contracts in Areas of Other Significant Military Operations
 
@@ -334,7 +334,7 @@ Elements.—The regulations prescribed under subsection (a) shall, at a minimum,
 
 &emsp;&emsp;&emsp;"(i) orders, directives, and instructions to contractors performing private security functions relating to equipment, force protection, security, health, safety, or relations and interaction with locals;
 
-&emsp;&emsp;&emsp;"(ii) predeployment training requirements for personnel performing private security functions in an area of combat operations or other significant military operations, addressing the requirements of this section, resources and assistance available to contractor personnel, country information and cultural training, and guidance on working with host country nationals and military; and
+&emsp;&emsp;&emsp;"(ii) predeployment training requirements for personnel performing private security functions in an area of combat operations or other significant military operations, addressing the requirements of this section, resources and assistance available to contractor personnel, country information and cultural training, and guidance onworking with host country nationals and military; and
 
 &emsp;&emsp;&emsp;"(iii) rules on the use of force for personnel performing private security functions in an area of combat operations or other significant military operations;
 
@@ -344,7 +344,7 @@ Elements.—The regulations prescribed under subsection (a) shall, at a minimum,
 
 &emsp;"(3)
 
-Availability of orders, directives, and instructions.—The regulations prescribed under subsection (a) shall include mechanisms to ensure the provision and availability of the orders, directives, and instructions referred to in paragraph (2)(G)(i) tocontractors referred to in that paragraph, including through the maintenance of a single location (including an Internet website, to the extent consistent with security considerations) at or through which such contractors may access such orders, directives, and instructions.
+Availability of orders, directives, and instructions.—The regulations prescribed under subsection (a) shall include mechanisms to ensure the provision and availability of the orders, directives, and instructions referred to in paragraph (2)(G)(i) to contractors referred to in that paragraph, including through the maintenance of a single location (including an Internet website, to the extent consistent with security considerations) at or through which such contractors may access such orders, directives, and instructions.
 
 "(b)
 
@@ -588,7 +588,7 @@ Relevant committees of congress.—The term 'relevant committees of Congress' me
 
 &emsp;&emsp;"(A) The Committees on Armed Services of the Senate and the House of Representatives.
 
-&emsp;&emsp;"(B) The Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives.
+&emsp;&emsp;"(B) The Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives.
 
 &emsp;&emsp;"(C) The Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 

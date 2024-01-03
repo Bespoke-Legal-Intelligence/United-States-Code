@@ -30,5 +30,5 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a) of this section delegated to the Secretary of State and the Administrator of the United States Agency for International Development, and under subsec. (c) of this section to the Administrator of the United States Agency for International Development, by Memorandum ofPresident of the United States, Sept. 30, 2016, 81 F.R. 76483, set out as a note under section 9304 of this title.
+Functions of President under subsec. (a) of this section delegated to the Secretary of State and the Administrator of the United States Agency for International Development, and under subsec. (c) of this section to the Administrator of the United States Agency for International Development, by Memorandum of President of the United States, Sept. 30, 2016, 81 F.R. 76483, set out as a note under section 9304 of this title.
 

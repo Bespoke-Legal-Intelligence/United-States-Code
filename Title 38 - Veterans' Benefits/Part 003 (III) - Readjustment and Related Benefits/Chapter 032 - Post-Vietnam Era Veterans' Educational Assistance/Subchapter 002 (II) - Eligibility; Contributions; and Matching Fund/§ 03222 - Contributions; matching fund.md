@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsections (c) and (d) of this section, each person electing to participate in the program shall agree to have a monthly deduction made from such person's military pay. Such monthly deduction shall be in any amount not less than $25 nor more than $100 except that the amount must be divisible by 5. Any such amount contributed by the participant or contributed by the Secretary of Defense pursuant to subsection (c) of this section shall be deposited in a deposit fund account entitled the "Post-Vietnam Era Veterans Education Account" (hereinafter in this chapter referred to as the "fund") to be established in the Treasury of the United States. Contributions made by the participant shall be limited to a maximum of $2,700.
 
-(b) Except as otherwise provided in this chapter, each monthly contribution made by a participant under subsection (a) shall entitle theparticipant to matching funds from the Department of Defense at the rate of $2 for each $1 contributed by the participant.
+(b) Except as otherwise provided in this chapter, each monthly contribution made by a participant under subsection (a) shall entitle the participant to matching funds from the Department of Defense at the rate of $2 for each $1 contributed by the participant.
 
 (c) The Secretary of Defense is authorized to contribute to the fund of any participant such contributions as the Secretary of Defense deems necessary or appropriate to encourage persons to enter or remain in the Armed Forces, including contributions in lieu of, or to reduce the amount of, monthly deductions under subsection (a) of this section. The Secretary of Defense is authorized to issue such rules and regulations as the Secretary of Defense deems necessary or appropriate to implement the provisions of this subsection.
 
@@ -66,5 +66,5 @@ Manner, scope, etc., of payments by Secretary in lieu of payments of monthly con
 
 #### Matching Funds From Department of Defense After January 1, 1982, If New Enrollments Are Authorized After December 31, 1981
 
-For provisions of section 408(b) of Pub. L. 94–502 directing that "Department of Defense" be substitutedfor "Veterans' Administration" in subsec. (b) of this section, effective Jan. 1, 1982, if new enrollments after Dec. 31, 1981, in the educational assistance program provided by this chapter are authorized after application of section 408(a) of Pub. L. 94–502, see section 408 of Pub. L. 94–502, set out as a note under section 3221 of this title.
+For provisions of section 408(b) of Pub. L. 94–502 directing that "Department of Defense" be substituted for "Veterans' Administration" in subsec. (b) of this section, effective Jan. 1, 1982, if new enrollments after Dec. 31, 1981, in the educational assistance program provided by this chapter are authorized after application of section 408(a) of Pub. L. 94–502, see section 408 of Pub. L. 94–502, set out as a note under section 3221 of this title.
 

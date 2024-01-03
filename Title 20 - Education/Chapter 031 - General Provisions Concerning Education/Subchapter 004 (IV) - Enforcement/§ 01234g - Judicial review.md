@@ -16,7 +16,7 @@ The findings of fact by the Office, if supported by substantial evidence, shall 
 
 The court shall have jurisdiction to affirm the action of the Office or the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
-(Pub. L. 90–247, title IV, §458, as added Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat.356; amended Pub. L. 103–382, title II, §212(b)(3)(D), Oct. 20, 1994, 108 Stat. 3913.)
+(Pub. L. 90–247, title IV, §458, as added Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 356; amended Pub. L. 103–382, title II, §212(b)(3)(D), Oct. 20, 1994, 108 Stat. 3913.)
 
 #### <b>Editorial Notes</b>
 

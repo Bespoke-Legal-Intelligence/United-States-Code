@@ -38,7 +38,7 @@ Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out
 
 #### Adjustment of Dollar Amounts
 
-The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of Title 11, Bankruptcy, as follows:
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of theUnited States pursuant to section 104 of Title 11, Bankruptcy, as follows:
 
 By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (b), dollar amounts "1,375", "20,450", and "25,000" were adjusted to "1,525", "22,700", and "27,750", respectively. See notice of the Judicial Conference of the United States set out as a note under section 104 of Title 11.
 

@@ -46,6 +46,8 @@ Administration.—
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1877, Jan. 1, 2021, 134 Stat. 4291.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1707, added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1639; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225, related to personnel in the Office of the Secretary of Defense and in the Defense Agencies, prior to repeal by Pub. L. 108–136, div. A, title VIII, §831(a), Nov. 24, 2003, 117 Stat. 1549.
@@ -68,6 +70,8 @@ Subsec. (d)(1). Pub. L. 116–283, §1877(e)(3), in first sentence, substituted 
 
 Subsec. (d)(4). Pub. L. 116–283, §1877(e)(4), substituted "section 3775(a)" for "section 2320".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
@@ -84,7 +88,7 @@ Pilot Program.—Not later than 180 days after the date of the enactment of this
 
 &emsp;"(2) the assessment and management of the value and acquisition costs of intellectual property during acquisition and sustainment activities (including source selection evaluation factors) throughout the acquisition lifecycle for any acquisition program selected by such Secretary; and
 
-&emsp;"(3) the use of a commercial product (as defined in section 103 of title 41, United States Code, as in effecton January 1, 2020), commercial service (as defined in section 103a of title 41, United States Code, as in effect on January 1, 2020), or nondevelopmental item (as defined in section 110 of title 41, United States Code) as an alternative to a product or service to be specifically developed for a selected acquisition program, including evaluation of the benefits of reduced risk regarding cost, schedule, and performance associated with commercial products, commercial services, and nondevelopmental items.
+&emsp;"(3) the use of a commercial product (as defined in section 103 of title 41, United States Code, as in effect on January 1, 2020), commercial service (as defined in section 103a of title 41, United States Code, as in effect on January 1, 2020), or nondevelopmental item (as defined in section 110 of title 41, United States Code) as an alternative to a product or service to be specifically developed for a selected acquisition program, including evaluation of the benefits of reduced risk regarding cost, schedule, and performance associated with commercial products, commercial services, and nondevelopmental items.
 
 "(b)
 

@@ -2,7 +2,7 @@
 
 It is the sense of Congress that—
 
-&emsp;(1) it is vital for Congress to provide the Food and Drug Administration with additional resources, authorities, and direction with respect to ensuring the safety of the food supply of the United States;
+&emsp;(1) it is vital for Congress to provide the Food and Drug Administration with additionalresources, authorities, and direction with respect to ensuring the safety of the food supply of the United States;
 
 &emsp;(2) additional inspectors are required to improve the Food and Drug Administration's ability to safeguard the food supply of the United States;
 

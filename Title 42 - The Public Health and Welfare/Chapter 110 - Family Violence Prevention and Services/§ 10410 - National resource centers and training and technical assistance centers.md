@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(B) a National Indian Resource Center Addressing Domestic Violence and Safety for Indian Women, which shall—
 
-&emsp;&emsp;&emsp;(i) offer a comprehensive array of technical assistance and training resources to Indian tribes and tribal organizations, specifically designed to enhance the capacity of the tribes and organizations to respond to domestic violence and the findings of section 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (42 U.S.C. 3796gg–10 note); <sup>1</sup>
+&emsp;&emsp;&emsp;(i) offer a comprehensive array of technical assistance and training resources to Indian tribes and tribal organizations, specifically designed to enhance the capacity of the tribes and organizations to respond to domestic violence and the findings ofsection 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (42 U.S.C. 3796gg–10 note); <sup>1</sup>
 
 &emsp;&emsp;&emsp;(ii) enhance the intervention and prevention efforts of Indian tribes and tribal organizations to respond to domestic violence and increase the safety of Indian women in support of the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 \[42 U.S.C. 3796gg–10 note\]; <sup>1</sup> and
 

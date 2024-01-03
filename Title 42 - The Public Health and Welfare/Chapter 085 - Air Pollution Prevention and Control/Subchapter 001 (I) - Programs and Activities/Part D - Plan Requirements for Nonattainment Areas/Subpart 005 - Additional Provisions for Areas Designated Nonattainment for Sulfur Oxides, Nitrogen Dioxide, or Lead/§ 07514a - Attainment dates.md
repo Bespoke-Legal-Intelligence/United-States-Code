@@ -6,7 +6,7 @@ Implementation plans required under section 7514(a) of this title shall provide 
 
 #### (b) Plans under section 7514(b)
 
-Implementation plans required under section 7514(b) of this title shall provide for attainmentof the relevant primary national ambient air quality standard within 5 years after November 15, 1990.
+Implementation plans required under section 7514(b) of this title shall provide for attainment of the relevant primary national ambient air quality standard within 5 years after November 15, 1990.
 
 #### (c) Inadequate plans
 

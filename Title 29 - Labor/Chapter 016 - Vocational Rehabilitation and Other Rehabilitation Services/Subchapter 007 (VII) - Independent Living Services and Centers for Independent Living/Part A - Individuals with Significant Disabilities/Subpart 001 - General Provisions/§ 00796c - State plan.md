@@ -82,7 +82,7 @@ The plan shall describe the extent and scope of independent living services to b
 
 #### (g) Network
 
-The plan shall set forth a design for the establishment of a statewide network of centers for independent living that comply with the standards and assurances set forth in section 796f–4 of this title.
+The plan shall set forth a design for the establishment of a statewide network of centers forindependent living that comply with the standards and assurances set forth in section 796f–4 of this title.
 
 #### (h) Centers
 
@@ -142,7 +142,7 @@ The plan shall provide satisfactory assurances that all recipients of financial 
 
 #### (n) Evaluation
 
-The plan shall establish a method for the periodic evaluation of the effectiveness of the planin meeting the objectives established in subsection (d), including evaluation of satisfaction by individuals with disabilities.
+The plan shall establish a method for the periodic evaluation of the effectiveness of the plan in meeting the objectives established in subsection (d), including evaluation of satisfaction by individuals with disabilities.
 
 #### (o) Promoting full access to community life
 

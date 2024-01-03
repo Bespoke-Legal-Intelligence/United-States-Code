@@ -2,7 +2,7 @@
 
 (a)(1) The Secretary shall establish the total number of hospital beds and nursing home beds in medical facilities over which the Secretary has direct jurisdiction for the care and treatment of eligible veterans. The Secretary shall establish the total number of such beds so as to maintain a contingency capacity to assist the Department of Defense in time of war or national emergency to care for the casualties of such war or national emergency. Of the number of beds authorized pursuant to the preceding sentence, the Secretary shall maintain the availability of such additional beds and facilities in addition to the operating bed level as the Secretary considers necessary for such contingency purposes. The President shall include in the Budget transmitted to the Congress for each fiscal year pursuant to section 1105 of title 31, an amount for medical care and amounts for construction sufficient to maintain the availability of the contingency capacity referred to in the second sentence of this paragraph. The Secretary shall staff and maintain, in such a manner as to ensure the immediate acceptance and timely and complete care of patients, and in a manner consistent with the policies of the Secretary on overtime, sufficient beds and other treatment capacities to accommodate, and provide such care to, eligible veterans applying for admission and found to be in need of hospital care or medical services.
 
-(2) The Secretary shall maintain the bed and treatment capacities of all Department medical facilities, including the staffing required to maintain such capacities, so as to ensure the accessibility and availability of such beds and treatment capacities to eligible veterans in all States, to minimize delays in admissions and in the provision of hospital, nursing home, and domiciliary care, and of medical services furnished pursuant to section 1710(a) of this title, and to ensure that eligible veterans are providedsuch care and services in an appropriate manner.
+(2) The Secretary shall maintain the bed and treatment capacities of all Department medical facilities, including the staffing required to maintain such capacities, so as to ensure the accessibility and availability of such beds and treatment capacities to eligible veterans in all States, to minimize delays in admissions and in the provision of hospital, nursing home, and domiciliary care, and of medical services furnished pursuant to section 1710(a) of this title, and to ensure that eligible veterans are provided such care and services in an appropriate manner.
 
 (3)(A) The Under Secretary for Health shall at the end of each fiscal year (i) analyze agencywide admission policies and the records of those eligible veterans who apply for hospital care, medical services, and nursing home care, but are rejected or not immediately admitted or provided such care or services, and (ii) review and make recommendations regarding the adequacy of staff levels for compliance with the policy established under subparagraph (C), the adequacy of the established operating bed levels, the geographic distribution of operating beds, the demographic characteristics of the veteran population and the associated need for medical care and nursing home facilities and services in each State, and the proportion of the total number of operating beds that are hospital beds and that are nursing home beds.
 
@@ -24,7 +24,7 @@
 
 (b) When the Secretary determines, in accordance with regulations which the Secretary shall prescribe, that a Department facility serves a substantial number of veterans with limited English-speaking ability, the Secretary shall establish and implement procedures, upon the recommendation of the Under Secretary for Health, to ensure the identification of sufficient numbers of individuals on such facility's staff who are fluent in both the language most appropriate to such veterans and in English and whose responsibilities shall include providing guidance to such veterans and to appropriate Department staff members with respect to cultural sensitivities and bridging linguistic and cultural differences.
 
-(c) The Secretary may not in any fiscal year close more than 50 percent of the beds within a bed section (of 20 or more beds) of a Department medical center unless the Secretary first submits to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report providing a justification for the closure.No action to carry out such closure may be taken after the submission of such report until the end of the 21-day period beginning on the date of the submission of the report.
+(c) The Secretary may not in any fiscal year close more than 50 percent of the beds within a bed section (of 20 or more beds) of a Department medical center unless the Secretary first submits to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report providing a justification for the closure. No action to carry out such closure may be taken after the submission of such report until the end of the 21-day period beginning on the date of the submission of the report.
 
 (d) The Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives, not later than January 20 of each year, a report documenting by network for the preceding fiscal year the following:
 
@@ -136,7 +136,7 @@ Subsec. (a)(4)(D). Pub. L. 97–66, §601(b)(1)(B), inserted "(or part of a fisc
 
 Subsec. (a)(5). Pub. L. 97–66, §601(b)(2), added par. (5).
 
-Subsecs. (b), (c). Pub. L. 97–72, §108(b), redesignated subsec. (c) as (b). Former subsec. (b), authorizing theAdministrator to establish, subject to the approval of the President, not less than twelve thousand beds during fiscal year 1980, and during each fiscal year thereafter, for the furnishing of nursing home care to eligible veterans in facilities over which the Administrator has direct jurisdiction, was struck out.
+Subsecs. (b), (c). Pub. L. 97–72, §108(b), redesignated subsec. (c) as (b). Former subsec. (b), authorizing the Administrator to establish, subject to the approval of the President, not less than twelve thousand beds during fiscal year 1980, and during each fiscal year thereafter, for the furnishing of nursing home care to eligible veterans in facilities over which the Administrator has direct jurisdiction, was struck out.
 
 <b>1979</b>—Subsec. (a)(4). Pub. L. 96–151 added par. (4).
 
@@ -236,7 +236,7 @@ Pub. L. 116–94, div. F, title II, §252, Dec. 20, 2019, 133 Stat. 2808, provid
 
 "(b) The Secretary shall ensure that the handbook specified in subsection (a) defines 'community based outpatient clinic' in the same manner as such term is defined in the Veterans Health Administration Site Tracking database (commonly known as 'VAST') as of the date of the enactment of this Act.
 
-"(c) The Secretary shall ensure that the Veterans Health Administration incorporates the best practicescontained in the handbook specified in subsection (a) in conducting oversight of the medical centers of the Department of Veterans Affairs and the Veterans Integrated Service Network.
+"(c) The Secretary shall ensure that the Veterans Health Administration incorporates the best practices contained in the handbook specified in subsection (a) in conducting oversight of the medical centers of the Department of Veterans Affairs and the Veterans Integrated Service Network.
 
 "(d) Not later than 180 days after the date of the enactment of this Act, the Secretary shall provide guidance and training to employees of the Veterans Health Administration for the use of the handbook specified in subsection (a). The Secretary shall update such guidance and training together with each update of such handbook."
 
@@ -248,7 +248,7 @@ Pub. L. 115–182, title IV, §§401, 402, June 6, 2018, 132 Stat. 1470, 1471, a
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[June 6, 2018\], the Secretary of Veterans Affairs shall develop criteria to designate medical centers, ambulatory care facilities, and community based outpatient clinics of the Department of Veterans Affairs as underserved facilities.
+In General.—Not later than 180 days after the date of the enactment of this Act \[June 6, 2018\], the Secretary of Veterans Affairs shall develop criteria todesignate medical centers, ambulatory care facilities, and community based outpatient clinics of the Department of Veterans Affairs as underserved facilities.
 
 "(b)
 
@@ -362,7 +362,7 @@ Report.—Not later than June 30, 2005, the Secretary of Veterans Affairs shall 
 
 #### Conversion of Underused Space to Domiciliary-Care Beds
 
-Pub. L. 100–322, title I, §136, May 20, 1988, 102 Stat. 507, directed Administrator, not later than June 1, 1988, to convert underused space located in facilities under jurisdiction of Administrator in urban areas with significant numbers of homeless veterans into 500 domiciliary-care beds to be used for care of veterans in need of domiciliary care, primarily homeless veterans.
+Pub. L. 100–322, title I, §136, May 20, 1988, 102 Stat. 507, directed Administrator, not later than June 1, 1988, toconvert underused space located in facilities under jurisdiction of Administrator in urban areas with significant numbers of homeless veterans into 500 domiciliary-care beds to be used for care of veterans in need of domiciliary care, primarily homeless veterans.
 
 #### Policy of Comprehensive Veterans' Health-Care System
 

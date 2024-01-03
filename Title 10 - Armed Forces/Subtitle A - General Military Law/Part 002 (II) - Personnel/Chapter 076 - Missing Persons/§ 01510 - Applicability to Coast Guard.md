@@ -8,7 +8,7 @@ Designated Officer To Have Responsibility.—The Secretary of Homeland Security 
 
 Procedures.—The Secretary of Homeland Security shall prescribe procedures for the determination of the status of persons described in section 1501(c) of this title who are members of the Coast Guard and for the collection, analysis, review, and update of information on such persons. To the maximum extent practicable, the procedures prescribed under this section shall be similar to the procedures prescribed by the Secretary of Defense under section 1501(b) of this title.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 349; amended Pub. L.107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 349; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### <b>Editorial Notes</b>
 

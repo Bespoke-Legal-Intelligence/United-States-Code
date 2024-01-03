@@ -32,7 +32,7 @@ Provisions similar to those in this section were contained in section 2308 of th
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §1807(d)(2)(C), (3), in section catchline, substituted "Assignment and delegation ofprocurement functions and responsibilities: delegation within agency" for "Emergency situations involving weapons of mass destruction" and, in text, struck out subsec. (a) designation and heading "In General" at beginning, and substituted "under any provision of this part that is a chapter 137 legacy provision" for "under this chapter".
+<b>2021</b>—Pub. L. 116–283, §1807(d)(2)(C), (3), in section catchline, substituted "Assignment and delegation of procurement functions and responsibilities: delegation within agency" for "Emergency situations involving weapons of mass destruction" and, in text, struck out subsec. (a) designation and heading "In General" at beginning, and substituted "under any provision of this part that is a chapter 137 legacy provision" for "under this chapter".
 
 Pub. L. 116–283, §1807(d)(1), renumbered section 2311 of this title as this section.
 

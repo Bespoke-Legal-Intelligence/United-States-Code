@@ -12,7 +12,7 @@ The Secretary shall assure that all studies, evaluations, proposals, and data pr
 
 #### (1) In general
 
-&emsp;Notwithstanding chapter 5 of title 40, and any other provision of law, the Secretary and the Secretary of Education shall receive priority by the Secretary of Defense for the direct transfer, on a nonreimbursable basis, of the property described in paragraph (2) for use in carrying out programs under this Act or under any other Act.
+&emsp;Notwithstanding chapter 5 of title 40, and any other provision of law, the Secretary andthe Secretary of Education shall receive priority by the Secretary of Defense for the direct transfer, on a nonreimbursable basis, of the property described in paragraph (2) for use in carrying out programs under this Act or under any other Act.
 
 #### (2) Property
 

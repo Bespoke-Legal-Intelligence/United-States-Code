@@ -137,7 +137,7 @@ Consultation.—To carry out the duties described in subsection (c), the Panel m
 
 "(e)
 
-Authority.—To carry out the duties described in subsection (c), the Panel may request documentation or other information needed from the AbilityOne Commission, central nonprofit agencies, and qualified nonprofit agencies.
+Authority.—To carry out the duties described in subsection (c), the Panel may request documentationor other information needed from the AbilityOne Commission, central nonprofit agencies, and qualified nonprofit agencies.
 
 "(f)
 
@@ -145,11 +145,11 @@ Panel Recommendations and Milestone Dates.—
 
 &emsp;"(1)
 
-Milestone dates for implementing recommendations.—After consulting with central nonprofit agencies and qualified nonprofit agencies, the Panel shall suggest milestone dates for the implementation of the recommendations made under subsection (c) and shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, qualified nonprofit agencies, and central nonprofit agencies of such dates.
+Milestone dates for implementing recommendations.—After consulting with central nonprofit agencies and qualified nonprofit agencies, the Panel shall suggest milestone dates for the implementation of the recommendations made under subsection (c) and shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, qualified nonprofit agencies, and central nonprofit agencies of such dates.
 
 &emsp;"(2)
 
-Notification of implementation of recommendations.—After the establishment of milestone dates under paragraph (1), the Panel may review the activities, including contracts, of the AbilityOne Commission, the central nonprofit agencies, and the relevant qualified nonprofit agencies to determine if the recommendations made under subsection (c) are being substantially implemented in good faith by the AbilityOne Commission or such agencies. If the Panel determines that the AbilityOne Commission or any such agency is not implementing the recommendations, the Panel shall notify the Secretary of Defense, the congressional defense committees, the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate.
+Notification of implementation of recommendations.—After the establishment of milestone dates under paragraph (1), the Panel may review the activities, including contracts, of the AbilityOne Commission, the central nonprofit agencies, and the relevant qualified nonprofit agencies to determine if the recommendations made under subsection (c) are being substantially implemented in good faith by the AbilityOne Commission or such agencies. If the Panel determines that the AbilityOne Commission or any such agency is not implementing the recommendations, the Panel shall notify the Secretary of Defense, the congressional defense committees, the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
 "(g)
 
@@ -179,7 +179,7 @@ Consultation on recommendations.—Before submitting the progress report require
 
 &emsp;"(2)
 
-Progress report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Panel shall submit to the Secretary of Defense, the Chairman of the AbilityOne Commission, the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a progress report on the activities of the Panel.
+Progress report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Panel shall submit to the Secretary of Defense, the Chairman of the AbilityOne Commission, the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a progress report on the activities of the Panel.
 
 "(i)
 
@@ -191,7 +191,7 @@ Consultation on report.—Before submitting the annual report required under par
 
 &emsp;"(2)
 
-Report.—Not later than September 30, 2017, and annually thereafter for the next three years, the Panel shall submit to the Secretary of Defense, the Chairman of the AbilityOne Commission, the congressional defense committees, the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes—
+Report.—Not later than September 30, 2017, and annually thereafter for the next three years, the Panel shall submit to the Secretary of Defense, the Chairman of the AbilityOne Commission, the congressional defense committees, the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes—
 
 &emsp;&emsp;"(A) a summary of findings and recommendations for the year covered by the report;
 

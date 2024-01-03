@@ -76,7 +76,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) is not entitled to retired or retained pay incident to the separation described in subclause (II); and
 
-&emsp;&emsp;&emsp;&emsp;(IV) applies for such employment and training assistance before the end of the180-day period beginning on the date of that separation.
+&emsp;&emsp;&emsp;&emsp;(IV) applies for such employment and training assistance before the end of the 180-day period beginning on the date of that separation.
 
 #### (B) Retraining assistance
 

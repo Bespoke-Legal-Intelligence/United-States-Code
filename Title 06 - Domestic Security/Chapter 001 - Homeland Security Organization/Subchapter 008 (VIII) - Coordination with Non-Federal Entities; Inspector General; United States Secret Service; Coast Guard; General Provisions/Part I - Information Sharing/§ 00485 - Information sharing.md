@@ -46,7 +46,7 @@ In this section:
 
 &emsp;The President shall—
 
-&emsp;&emsp;(A) create an information sharing environment for the sharing of terrorism information in a manner consistent with nationalsecurity and with applicable legal standards relating to privacy and civil liberties;
+&emsp;&emsp;(A) create an information sharing environment for the sharing of terrorism information in a manner consistent with national security and with applicable legal standards relating to privacy and civil liberties;
 
 &emsp;&emsp;(B) designate the organizational and management structures that will be used to operate and manage the ISE; and
 
@@ -188,7 +188,7 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 &emsp;&emsp;&emsp;(iv) address and facilitate information sharing between and among departments and agencies of the intelligence community, the Department of Defense, the homeland security community and the law enforcement community;
 
-&emsp;&emsp;&emsp;(v) address and facilitate information sharing between Federal departments andagencies and State, tribal, and local governments;
+&emsp;&emsp;&emsp;(v) address and facilitate information sharing between Federal departments and agencies and State, tribal, and local governments;
 
 &emsp;&emsp;&emsp;(vi) address and facilitate, as appropriate, information sharing between Federal departments and agencies and the private sector;
 
@@ -260,7 +260,7 @@ The head of each department or agency that possesses or uses intelligence or ter
 
 &emsp;&emsp;&emsp;(ii) reported that exemption to the committees of Congress described in the matter preceding this subparagraph; and
 
-&emsp;&emsp;(B) continuing to use Federal agency standards in effect on August 3, 2007, for the collection, sharing, and access to information within the scope of the informationsharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, relating to citizens and lawful permanent residents;
+&emsp;&emsp;(B) continuing to use Federal agency standards in effect on August 3, 2007, for the collection, sharing, and access to information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, relating to citizens and lawful permanent residents;
 
 &emsp;&emsp;(C) replacing the standards described in subparagraph (B) with a standard that would allow mission-based or threat-based permission to access or share information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, for a particular purpose that the Federal Government, through an appropriate process established in consultation with the Privacy and Civil Liberties Oversight Board established under section 2000ee of title 42, has determined to be lawfully permissible for a particular agency, component, or employee (commonly known as an "authorized use" standard); and
 
@@ -396,11 +396,11 @@ Section 1. <i>Policy</i>. To the maximum extent consistent with applicable law, 
 
 Sec. 2. <i>Duties of Heads of Agencies Possessing or Acquiring Terrorism Information</i>. To implement the policy set forth in section 1 of this order, the head of each agency that possesses or acquires terrorism information:
 
-(a) shall promptly give access to the terrorism information to the head of each other agency that has counterterrorism functions, and provide the terrorism information to each such agency, unless otherwise directed by the President, and consistent with (i) the statutory responsibilities of the agencies providing and receiving the information; (ii) any guidance issued by the Attorney General to fulfill the policy set forth in subsection 1(b) of this order; and (iii) other applicable law, including sections 102A(g) and (i) of the National Security Act of 1947 \[50 U.S.C. 3024(g), (i)\], section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 \[6 U.S.C. 485\] (including any policies, procedures, guidelines, rules, and standards issued pursuant thereto), sections 202 and 892 of the Homeland Security Act of 2002 \[6 U.S.C. 122, 482\], \[former\] Executive Order12958 of April 17, 1995, as amended, and Executive Order 13311 of July 29, 2003 \[6 U.S.C. 482 note\]; and
+(a) shall promptly give access to the terrorism information to the head of each other agency that has counterterrorism functions, and provide the terrorism information to each such agency, unless otherwise directed by the President, and consistent with (i) the statutory responsibilities of the agencies providing and receiving the information; (ii) any guidance issued by the Attorney General to fulfill the policy set forth in subsection 1(b) of this order; and (iii) other applicable law, including sections 102A(g) and (i) of the National Security Act of 1947 \[50 U.S.C. 3024(g), (i)\], section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 \[6 U.S.C. 485\] (including any policies, procedures, guidelines, rules, and standards issued pursuant thereto), sections 202 and 892 of the Homeland Security Act of 2002 \[6 U.S.C. 122, 482\], \[former\] Executive Order 12958 of April 17, 1995, as amended, and Executive Order 13311 of July 29, 2003 \[6 U.S.C. 482 note\]; and
 
 (b) shall cooperate in and facilitate production of reports based on terrorism information with contents and formats that permit dissemination that maximizes the utility of the information in protecting the territory, people, and interests of the United States.
 
-Sec. 3. <i>Preparing Terrorism Information for Maximum Distribution</i>. To assist in expeditious and effective implementation by agencies of the policy set forth in section 1 of this order, the common standards for the sharing of terrorism information established pursuant to section 3 of Executive Order 13356 of August 27, 2004 \[formerly set out above\], shall be used, as appropriate, in carrying out section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004.
+Sec. 3. <i>Preparing Terrorism Information for Maximum Distribution</i>. To assist in expeditious and effective implementation by agencies of the policy set forth in section 1 of this order, the common standards for the sharing of terrorism information established pursuant tosection 3 of Executive Order 13356 of August 27, 2004 \[formerly set out above\], shall be used, as appropriate, in carrying out section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004.
 
 Sec. 4. <i>Requirements for Collection of Terrorism Information Inside the United States</i>. To assist in expeditious and effective implementation by agencies of the policy set forth in section 1 of this order, the recommendations regarding the establishment of executive branch-wide collection and sharing requirements, procedures, and guidelines for terrorism information collected within the United States made pursuant to section 4 of Executive Order 13356 \[formerly set out above\] shall be used, as appropriate, in carrying out section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004.
 
@@ -458,7 +458,7 @@ Memorandum for the Director of National Intelligence
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including section 301 of title 3, United States Code, the functions of the President under section 1016(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458) (the "Act") are hereby assigned to the Director of National Intelligence (Director).
 
-The Director shall perform such functions in a manner consistent with direction and guidance issued by the President, including (1) the Memorandum for the Heads of Executive Departments and Agencies of June 2, 2005, entitled "Strengthening Information Sharing,Access, and Integration—Organizational, Management, and Policy Development Structures for Creating the Terrorism Information Sharing Environment," and (2) the Memorandum for the Heads of Executive Departments and Agencies of December 16, 2005, entitled "Guidelines and Requirements in Support of the Information Sharing Environment;" provided that the Director shall ensure that the official within the Office of the Director of National Intelligence previously designated as the program manager responsible for information sharing across the Federal Government pursuant to the Act shall be the assistant to the Director in carrying out the functions delegated by this memorandum.
+The Director shall perform such functions in a manner consistent with direction and guidance issued by the President, including (1) the Memorandum for the Heads of Executive Departments and Agencies of June 2, 2005, entitled "Strengthening Information Sharing, Access, and Integration—Organizational, Management, and Policy Development Structures for Creating the Terrorism Information Sharing Environment," and (2) the Memorandum for the Heads of Executive Departments and Agencies of December 16, 2005, entitled "Guidelines and Requirements in Support of the Information Sharing Environment;" provided that the Director shall ensure that the official within the Office of the Director of National Intelligence previously designated as the program manager responsible for information sharing across the Federal Government pursuant to the Act shall be the assistant to the Director in carrying out the functions delegated by this memorandum.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

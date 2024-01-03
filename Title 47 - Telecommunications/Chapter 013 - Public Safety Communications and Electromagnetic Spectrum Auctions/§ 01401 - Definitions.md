@@ -36,7 +36,7 @@ In this chapter:
 
 #### (7) Broadcast television spectrum
 
-&emsp;The term "broadcast television spectrum" means the portions of the electromagnetic spectrum between the frequencies from 54 megahertz to 72 megahertz, from 76 megahertz to 88 megahertz, from 174 megahertz to 216 megahertz, and from 470 megahertz to 698 megahertz.
+&emsp;The term "broadcast television spectrum" means the portions of the electromagneticspectrum between the frequencies from 54 megahertz to 72 megahertz, from 76 megahertz to 88 megahertz, from 174 megahertz to 216 megahertz, and from 470 megahertz to 698 megahertz.
 
 #### (8) Commercial mobile data service
 

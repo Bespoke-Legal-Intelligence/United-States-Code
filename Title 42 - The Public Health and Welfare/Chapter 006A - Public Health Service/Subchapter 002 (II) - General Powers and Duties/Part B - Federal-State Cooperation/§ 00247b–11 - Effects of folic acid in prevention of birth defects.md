@@ -18,7 +18,7 @@ In carrying out subsection (a), the Secretary shall consult with the States and 
 
 #### (c) Technical assistance
 
-The Secretary may (directly or through grants or contracts) provide technical assistance topublic and nonprofit private entities in carrying out the activities described in subsection (a).
+The Secretary may (directly or through grants or contracts) provide technical assistance to public and nonprofit private entities in carrying out the activities described in subsection (a).
 
 #### (d) Evaluations
 

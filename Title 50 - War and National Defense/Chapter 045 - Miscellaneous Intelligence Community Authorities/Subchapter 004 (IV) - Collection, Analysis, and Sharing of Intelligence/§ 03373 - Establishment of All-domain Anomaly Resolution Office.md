@@ -50,7 +50,7 @@ The duties of the Office shall include the following:
 
 &emsp;(6) Coordinating with other departments and agencies of the Federal Government, as appropriate, including the Federal Aviation Administration, the National Aeronautics and Space Administration, the Department of Homeland Security, the National Oceanic and Atmospheric Administration, the National Science Foundation, and the Department of Energy.
 
-&emsp;(7) As appropriate, and in coordination with the Secretary of State, the Secretary of Defense, and the Director of National Intelligence, consulting with allies and partners of the United States to better assess the natureand extent of unidentified anomalous phenomena.
+&emsp;(7) As appropriate, and in coordination with the Secretary of State, the Secretary of Defense, and the Director of National Intelligence, consulting with allies and partners of the United States to better assess the nature and extent of unidentified anomalous phenomena.
 
 &emsp;(8) Preparing reports for Congress, in both classified and unclassified form, including under subsection (j).
 
@@ -150,11 +150,11 @@ The heads of the Central Intelligence Agency, the Defense Intelligence Agency, t
 
 #### (k) Annual reports
 
-#### (1) Reports from Director of National Intelligence and Secretary of Defense
+#### (1) Reports from All-domain Anomaly Resolution Office
 
 #### (A) Requirement
 
-&emsp;&emsp;Not later than 180 days after December 23, 2022, and annually thereafter for four years, the Director of National Intelligence and the Secretary of Defense shall jointly submit to the appropriate congressional committees a report on unidentified anomalous phenomena.
+&emsp;&emsp;Not later than 180 days after December 23, 2022, and annually thereafter for four years, the Director of the Office shall submit to the appropriate congressional committees a report on unidentified anomalous phenomena.
 
 #### (B) Elements
 
@@ -210,7 +210,7 @@ The heads of the Central Intelligence Agency, the Defense Intelligence Agency, t
 
 #### (1) Requirement
 
-&emsp;Not later than December 31, 2022, and not less frequently than semiannually thereafter until December 31, 2026, the Director of the Office shall provide to the appropriate congressional committees classified briefings on unidentified anomalous phenomena.
+&emsp;Not later than December 31, 2022, and not less frequently than semiannually thereafteruntil December 31, 2026, the Director of the Office shall provide to the appropriate congressional committees classified briefings on unidentified anomalous phenomena.
 
 #### (2) First briefing
 
@@ -224,7 +224,7 @@ The heads of the Central Intelligence Agency, the Defense Intelligence Agency, t
 
 &emsp;For each briefing period, the Director of the Office shall jointly provide to the chairman or chair and the ranking member or vice chairman of the congressional committees specified in subparagraphs (A) and (D) of subsection (n)(1) an enumeration of any instances in which data relating to unidentified anomalous phenomena was not provided to the Office because of classification restrictions on that data or for any other reason.
 
-#### (m) Task force termination
+#### (m) Task Force termination
 
 Not later than the date on which the Secretary of Defense establishes the Office under subsection (a), the Secretary shall terminate the Unidentified Aerial Phenomena Task Force.
 
@@ -294,11 +294,15 @@ In this section:
 
 &emsp;&emsp;(C) submerged objects or devices that are not immediately identifiable and that display behavior or performance characteristics suggesting that the objects or devices may be related to the objects described in subparagraph (A).
 
-(Pub. L. 117–81, div. A, title XVI, §1683, Dec. 27, 2021, 135 Stat. 2118; Pub. L. 117–263, div. A, title XVI, §1673(c), div. F, title LXVIII, §6802(a), Dec. 23, 2022, 136 Stat. 2961, 3586.)
+(Pub. L. 117–81, div. A, title XVI, §1683, Dec. 27, 2021, 135 Stat. 2118; Pub. L. 117–263, div. A, title XVI, §1673(c), div. F, title LXVIII, §6802(a), Dec. 23, 2022, 136 Stat. 2961, 3586; Pub. L. 118–31, div. G, title III, §7341, Dec. 22, 2023, 137 Stat. 1062.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (k)(1). Pub. L. 118–31, §7341(1), substituted "All-domain Anomaly Resolution Office" for "Director of National Intelligence and Secretary of Defense" in heading.
+
+Subsec. (k)(1)(A). Pub. L. 118–31, §7341(2), substituted "Director of the Office shall" for "Director of National Intelligence and the Secretary of Defense shall jointly".
 
 <b>2022</b>—Pub. L. 117–263, §6802(a), amended section generally. Prior to amendment, section established an office, organizational structure, and authorities to address unidentified anomalous phenomena.
 
@@ -311,6 +315,36 @@ Subsec. (h)(2)(Q). Pub. L. 117–263, §1673(c)(2)(B), added subpar. (Q).
 Subsec. (l)(2) to (6). Pub. L. 117–263, §1673(c)(3), added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Limitation Regarding Independent Research and Development
+
+Pub. L. 118–31, div. A, title XVI, §1687(b), (c), Dec. 22, 2023, 137 Stat. 621, provided that:
+
+"(b)
+
+Limitation Regarding Independent Research and Development.—Consistent with Department of Defense Instruction Number 3204.01 (dated August 20, 2014, incorporating change 2, dated July 9, 2020; relating to Department policy for oversight of independent research and development), independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available the appropriate congressional committees and congressional leadership.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+&emsp;&emsp;"(B) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+&emsp;"(2) The term 'congressional leadership' means—
+
+&emsp;&emsp;"(A) the majority leader of the Senate;
+
+&emsp;&emsp;"(B) the minority leader of the Senate;
+
+&emsp;&emsp;"(C) the Speaker of the House of Representatives; and
+
+&emsp;&emsp;"(D) the minority leader of the House of Representatives.
+
+&emsp;"(3) The term 'unidentified anomalous phenomena' has the meaning given such term in section 1683(n) of the National Defense Authorization Act for Fiscal Year 2022 (50 U.S.C. 3373(n)), as amended by section 6802(a) of the Intelligence Authorization Act for Fiscal Year 2023 (\[div. F of\] Public Law 117–263)."
 
 #### Comptroller General of the United States Audits and Briefings on Unidentified Anomalous Phenomena Historical Record Report
 

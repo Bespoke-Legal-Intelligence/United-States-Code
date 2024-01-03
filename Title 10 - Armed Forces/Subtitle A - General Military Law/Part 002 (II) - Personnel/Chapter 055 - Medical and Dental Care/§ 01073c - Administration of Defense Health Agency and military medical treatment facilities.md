@@ -24,7 +24,7 @@ Administration of Military Medical Treatment Facilities.—(1) In accordance wit
 
 (2) In addition to the responsibilities set forth in paragraph (1), the Director of the Defense Health Agency shall, commencing when the Director begins to exercise responsibilities under that paragraph, have the authority—
 
-&emsp;(A) to direct, control, and serve as the primary rater of the performance of commanders or directors of military medical treatment facilities;
+&emsp;(A) to direct, control, and serve as the primary rater of the performance of commandersor directors of military medical treatment facilities;
 
 &emsp;(B) to direct and control any intermediary organizations between the Defense Health Agency and military medical treatment facilities;
 
@@ -110,7 +110,7 @@ Certain Responsibilities of DHA Director.—(1) In addition to the other duties 
 
 (e)
 
-Additional DHA Organizations.—Not later than September 30, 2022, the Secretary of Defense shall, acting though the Director of the Defense Health Agency, establish within the Defense Health Agency the following:
+Additional DHA Organizations.—Not later than September 30, 2024, and subject to subsection (f), the Secretary of Defense shall, acting though the Director of the Defense Health Agency, establish within the Defense Health Agency the following:
 
 &emsp;(1) A subordinate organization, to be called the Defense Health Agency Research and Development—
 
@@ -128,9 +128,17 @@ Additional DHA Organizations.—Not later than September 30, 2022, the Secretary
 
 (f)
 
-Consultations on Medical Research of Military Departments.—In establishing theDefense Health Agency Research and Development pursuant to subsection (e)(1), and on a basis that is not less frequent than semiannually thereafter, the Secretary of Defense shall carry out recurring consultations with each military department regarding the plans and requirements for military medical research organizations and activities of the military department.
+Exception to Establishment of Additional DHA Organizations.—At the discretion of the Secretary of Defense, a military department may retain a function that would otherwise be transferred to the Defense Health Agency under subsection (e) if the Secretary of Defense determines the function—
+
+&emsp;(1) addresses a need that is unique to the military department; and
+
+&emsp;(2) is in direct support of operating forces and necessary to execute strategies relating to national security and defense.
 
 (g)
+
+Consultations on Medical Research of Military Departments.—In establishing the Defense Health Agency Research and Development pursuant to subsection (e)(1), and on a basis that is not less frequent than semiannually thereafter, the Secretary of Defense shall carry out recurring consultations with each military department regarding the plans and requirements for military medical research organizations and activities of the military department.
+
+(h) <sup>1</sup>
 
 Treatment of Department of Defense for Purposes of Personnel Assignment.—In implementing this section—
 
@@ -138,7 +146,7 @@ Treatment of Department of Defense for Purposes of Personnel Assignment.—In im
 
 &emsp;(2) the Secretary of Defense may reassign any employee of a component of the Department of Defense or a military department in a position in the civil service (as defined in section 2101 of title 5) to any other component of the Department of Defense or military department.
 
-(h)
+(h) <sup>1</sup>
 
 Rule of Construction Regarding Secretaries Concerned and Medical Evaluation Boards.—Nothing in this section shall be construed as transferring to the Director of the Defense Health Agency, or otherwise revoking, any authority or responsibility of the Secretary concerned under chapter 61 of this title with respect to a member of the armed forces (including with respect to the administration of morale and welfare and the determination of fitness for duty for the member) while the member is being considered by a medical evaluation board.
 
@@ -156,11 +164,15 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) any other location used for purposes of providing health care services as designated by the Secretary of Defense.
 
-(Added Pub. L. 114–328, div. A, title VII, §702(a)(1), Dec. 23, 2016, 130 Stat. 2193; amended Pub. L. 115–91, div. A, title VII, §713, title X, §1081(a)(23), Dec. 12, 2017, 131 Stat. 1437, 1595; Pub. L. 115–232, div. A, title VII, §711(a)(1), (2), (b)(1), Aug. 13, 2018, 132 Stat. 1806, 1807; Pub. L. 116–92, div. A, title VII, §711, title XVII, §1731(a)(22), Dec. 20, 2019, 133 Stat. 1441, 1813; Pub. L. 116–283, div. A, title X, §1081(a)(24), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 117–81, div. A, title VII, §§711, 712(a), Dec. 27, 2021, 135 Stat. 1783; Pub. L. 117–263, div. A, title VII, §§711(b), 720(c), Dec. 23, 2022, 136 Stat. 2656, 2663.)
+(Added Pub. L. 114–328, div. A, title VII, §702(a)(1), Dec. 23, 2016, 130 Stat. 2193; amended Pub. L. 115–91, div. A, title VII, §713, title X, §1081(a)(23), Dec. 12, 2017, 131 Stat. 1437, 1595; Pub. L. 115–232, div. A, title VII, §711(a)(1), (2), (b)(1), Aug. 13, 2018, 132 Stat. 1806, 1807; Pub. L. 116–92, div. A, title VII, §711, title XVII, §1731(a)(22), Dec. 20, 2019, 133 Stat. 1441, 1813; Pub. L. 116–283, div. A, title X, §1081(a)(24), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 117–81, div. A, title VII, §§711, 712(a), Dec. 27, 2021, 135 Stat. 1783; Pub. L. 117–263, div. A, title VII, §§711(b), 720(c), Dec. 23, 2022, 136 Stat. 2656, 2663; Pub. L. 118–31, div. A, title VII, §711(a), Dec. 22, 2023, 137 Stat. 301.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (e). Pub. L. 118–31, §711(a)(1), substituted "Not later than September 30, 2024, and subject to subsection (f)," for "Not later than September 30, 2022," in introductory provisions.
+
+Subsecs. (f) to (h). Pub. L. 118–31, §711(a)(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g) and former subsec. (g) as (h) relating to treatment of Department of Defense for purposes of personnel assignment.
 
 <b>2022</b>—Subsec. (e)(2)(B). Pub. L. 117–263, §720(c), substituted "Army Public Health Center, the Navy–Marine Corps Public Health Center" for "Army Public Health Command, the Navy–Marine Corps Public Health Command".
 
@@ -290,7 +302,7 @@ Pub. L. 115–232, div. A, title VII, §711(a)(3), Aug. 13, 2018, 132 Stat. 1807
 
 Pub. L. 117–81, div. A, title VII, §731(b)(1), Dec. 27, 2021, 135 Stat. 1796, provided that: "The Secretaries of the military departments shall ensure that the Surgeons General of the Armed Forces carry out fully the requirements of section 712(b)(3) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 1073c note) \[set out below\] by not later than September 30, 2022."
 
-Pub. L. 115–232, div. A, title VII, §712, Aug. 13, 2018, 132 Stat. 1809, as amended by Pub. L. 116–92, div. A, title VII, §712(a), (b)(1), Dec. 20, 2019, 133 Stat. 1443–1445, provided that:
+Pub. L. 115–232, div. A, title VII, §712, Aug. 13, 2018, 132 Stat. 1809, as amended by Pub. L. 116–92, div. A, title VII, §712(a), (b)(1), Dec. 20, 2019, 133 Stat. 1443–1445; Pub. L. 118–31, div. A, title VII, §714(c), Dec. 22, 2023, 137 Stat. 303, provided that:
 
 "(a)
 
@@ -344,25 +356,25 @@ Defense Health Agency Regions in CONUS.—The organizational framework required 
 
 &emsp;"(1)
 
-Defense health Agency regions.—There shall be not more than two Defense Health Agency regions in the continental United States.
+Defense Health Agency regions.—There shall be not more than two Defense Health Agency regions in the continental United States.
 
 &emsp;"(2)
 
 Leaders.—Each region under paragraph (1) shall be led by a commander or director who is a member of the Armed Forces serving in a grade not higher than major general or rear admiral, and who—
 
-&emsp;&emsp;"(A) shall be selected by the Director of the Defense Health Agency from among members of the Armed Forces recommended by the Secretaries of the military departments for service in such position; and
+&emsp;&emsp;"(A) shall be selected by the Director of the Defense Health Agency from among members of the Armed Forces recommended by the Secretaries of the departments for service in such position; and
 
 &emsp;&emsp;"(B) shall be under the authority, direction, and control of the Director while serving in such position.
 
 "(d)
 
-Defense Health Agency Regions OCONUS.—The organizational framework required by subsection (a) shall provide for the establishment of not more than two Defense Health Agency regions outside the continental United States in order—
+Defense Health Agency Regions OCONUS.—The organizational framework required by subsection\(a) shall provide for the establishment of not more than two Defense Health Agency regions outside the continental United States in order—
 
 &emsp;"(1) to enhance joint military medical operations in support of the requirements of the combatant commands in such region or regions, with a specific focus on current and future contingency and operational plans;
 
 &emsp;"(2) to ensure the provision of high-quality healthcare services to beneficiaries; and
 
-&emsp;"(3) to improve the interoperability of healthcare delivery systems in the defense health regions (whether under this subsection, subsection (c), or both).
+&emsp;"(3) to improve the interoperability of healthcare delivery systems in the Defense Health Agency regions (whether under this subsection, subsection (c), or both).
 
 "(e)
 
@@ -372,7 +384,7 @@ Planning and Coordination.—
 
 Sustainment of clinical competencies and staffing.—The Director of the Defense Health Agency shall—
 
-&emsp;&emsp;"(A) provide in each defense health region under this section healthcare delivery venues for uniformed medical and dental personnel to obtain operational clinical competencies; and
+&emsp;&emsp;"(A) provide in each Defense Health Agency region under this section healthcare delivery venues for uniformed medical and dental personnel to obtain operational clinical competencies; and
 
 &emsp;&emsp;"(B) coordinate with the military departments to ensure that staffing at military medical treatment facilities in each region supports readiness requirements for members of the Armed Forces and military medical personnel.
 
@@ -455,4 +467,6 @@ Pub. L. 114–328, div. A, title VII, §702(c), Dec. 23, 2016, 130 Stat. 2196, p
 &emsp;"(1) by not later than October 1, 2018; and
 
 &emsp;"(2) by not increasing the number of full-time equivalent employees of the Defense Health Agency."
+
+<i><sup>1</sup></i><i> So in original. There are two subsecs. (h).</i>
 

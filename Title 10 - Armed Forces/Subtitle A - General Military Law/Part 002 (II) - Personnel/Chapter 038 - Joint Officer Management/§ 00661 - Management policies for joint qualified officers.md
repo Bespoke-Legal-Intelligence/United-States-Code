@@ -2,11 +2,11 @@
 
 (a)
 
-Establishment.—The Secretary of Defense shall establish policies, procedures, and practices for the effective management of officers of the Army, Navy, Air Force, Marine Corps, and Space Force on the active-duty list who are particularly trained in, and oriented toward, joint matters (as defined in section 668 of this title). Such officers shall be identified or designated (in addition to their principal military occupational specialty) as a joint qualified officer or in such other manner as the Secretary of Defense directs.
+Establishment.—The Secretary of Defense shall establish policies, procedures, and practices for the effective management of officers of the Army, Navy, Air Force, and Marine Corps on the active-duty list, and officers of the Space Force on the Space Force officer list, who are particularly trained in, and oriented toward, joint matters (as defined in section 668 of this title). Such officers shall be identified or designated (in addition to their principal military occupational specialty) as a joint qualified officer or in such other manner as the Secretary of Defense directs.
 
 (b)
 
-Levels, Designation, and Numbers.—(1)(A) The Secretary of Defense shall establish different levels of joint qualification, as well as the criteria for qualification at each level. Such levels of joint qualification shall be established by the Secretary with the advice of the Chairman of the Joint Chiefs of Staff. Each level shall, as a minimum, have both joint education criteria and joint experience criteria. The purpose of establishing such qualification levels is to ensure a systematic, progressive, career-long development of officers in joint matters and to ensure that officers serving as general and flag officers have the requisite experience and education to be highly proficient in joint matters.
+Levels, Designation, and Numbers.—(1)(A) The Secretary of Defense shall establish different levels of joint qualification, as well asthe criteria for qualification at each level. Such levels of joint qualification shall be established by the Secretary with the advice of the Chairman of the Joint Chiefs of Staff. Each level shall, as a minimum, have both joint education criteria and joint experience criteria. The purpose of establishing such qualification levels is to ensure a systematic, progressive, career-long development of officers in joint matters and to ensure that officers serving as general and flag officers have the requisite experience and education to be highly proficient in joint matters.
 
 (B) The number of officers who are joint qualified shall be determined by the Secretary of Defense, with the advice of the Chairman of the Joint Chiefs of Staff. Such number shall be large enough to meet the requirements of subsection (d).
 
@@ -70,7 +70,7 @@ Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure th
 
 (e)
 
-Career Guidelines.—The Secretary, with the advice of the Chairman of the Joint Chiefs of Staff, shall establish career guidelines for officers to achieve joint qualification and for officers who have been designated as joint qualified. Such guidelines shall include guidelines for—
+Career Guidelines.—The Secretary, with the advice of the Chairman of the Joint Chiefs ofStaff, shall establish career guidelines for officers to achieve joint qualification and for officers who have been designated as joint qualified. Such guidelines shall include guidelines for—
 
 &emsp;(1) selection;
 
@@ -86,11 +86,13 @@ Career Guidelines.—The Secretary, with the advice of the Chairman of the Joint
 
 Treatment of Certain Service.—Any service by an officer in the grade of captain or, in the case of the Navy, lieutenant in a joint duty assignment shall be considered to be service in a joint duty assignment for purposes of all laws (including section 619a of this title) establishing a requirement or condition with respect to an officer's service in a joint duty assignment.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1025; amended Pub. L. 100–180, div. A, title XIII, §1301–1302(b), Dec. 4, 1987, 101 Stat. 1168, 1169; Pub. L. 100–456, div. A, title V, §§511, 512(a), 517(a), 518, Sept. 29, 1988, 102 Stat. 1968, 1971; Pub. L. 101–189, div. A, title XI, §§1113, 1122, Nov. 29, 1989, 103 Stat. 1554, 1556; Pub. L. 104–106, div. A, title V, §501(a), (d), title XV, §1503(a)(6), Feb. 10, 1996, 110 Stat. 290, 292, 511; Pub. L. 107–107, div. A, title V, §521(a), Dec. 28, 2001, 115 Stat. 1097; Pub. L. 107–314, div. A, title V, §502(c), title X, §1062(a)(3), Dec. 2, 2002, 116 Stat. 2530, 2649; Pub. L. 109–364, div. A, title V, §516(a)–(e)(1), Oct. 17, 2006, 120 Stat. 2187–2189; Pub. L. 110–417, \[div. A\], title V, §522(a)(1), (2), Oct. 14, 2008, 122 Stat. 4444, 4445; Pub. L. 115–91, div. A, title X, §1081(a)(20), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 116–92, div. A, title V, §505, Dec. 20, 2019, 133 Stat. 1345; Pub. L. 116–283, div. A, title IX, §924(b)(1)(D), Jan. 1, 2021, 134 Stat. 3820.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1025; amended Pub. L. 100–180, div. A, title XIII, §1301–1302(b), Dec. 4, 1987, 101 Stat. 1168, 1169; Pub. L. 100–456, div. A, title V, §§511, 512(a), 517(a), 518, Sept. 29, 1988, 102 Stat. 1968, 1971; Pub. L. 101–189, div. A, title XI, §§1113, 1122, Nov. 29, 1989, 103 Stat. 1554, 1556; Pub. L. 104–106, div. A, title V, §501(a), (d), title XV, §1503(a)(6), Feb. 10, 1996, 110 Stat. 290, 292, 511; Pub. L. 107–107, div. A, title V, §521(a), Dec. 28, 2001, 115 Stat. 1097; Pub. L. 107–314, div. A, title V, §502(c), title X, §1062(a)(3), Dec. 2, 2002, 116 Stat. 2530, 2649; Pub. L. 109–364, div. A, title V, §516(a)–(e)(1), Oct. 17, 2006, 120 Stat. 2187–2189; Pub. L. 110–417, \[div. A\], title V, §522(a)(1), (2), Oct. 14, 2008, 122 Stat. 4444, 4445; Pub. L. 115–91, div. A, title X, §1081(a)(20), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 116–92, div. A, title V, §505, Dec. 20, 2019, 133 Stat. 1345; Pub. L. 116–283, div. A, title IX, §924(b)(1)(D), Jan. 1, 2021, 134 Stat. 3820; Pub. L. 118–31, div. A, title XVII, §1722(c), Dec. 22, 2023, 137 Stat. 670.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a). Pub. L. 118–31 substituted "and Marine Corps" for "Marine Corps, and Space Force" and inserted ", and officers of the Space Force on the Space Force officer list," after "active-duty list".
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Marine Corps, and Space Force" for "and Marine Corps".
 
@@ -160,6 +162,10 @@ Subsec. (d)(2) to (4). Pub. L. 100–180, §1302(b), added pars. (2) to (4) and 
 
 Pub. L. 109–364, div. A, title V, §516(f), Oct. 17, 2006, 120 Stat. 2189, provided that: "The amendments made by this section \[amending this section\] shall take effect on October 1, 2007."
 
+#### Designation of at Least One General Officer of the Marine Corps Reserve as a Joint Qualified Officer
+
+Pub. L. 118–31, div. A, title V, §516, Dec. 22, 2023, 137 Stat. 249, provided that: "The Secretary of Defense shall ensure that at least one general officer of the Marine Corps Reserve is designated as a joint qualified officer."
+
 #### Treatment of Current Joint Specialty Officers
 
 Pub. L. 109–364, div. A, title V, §516(g), Oct. 17, 2006, 120 Stat. 2189, provided that: "For the purposes of chapter 38 of title 10, United States Code, and sections 154, 164, and 619a of such title, an officer who, as of September 30, 2007, has been selected for or has the joint specialty under section 661 of such title, as in effect on that date, shall be considered after that date to be an officer designated as joint qualified by the Secretary of Defense under section 661(b)(2) of such title, as amended by this section."
@@ -192,7 +198,7 @@ Pub. L. 107–107, div. A, title V, §526, Dec. 28, 2001, 115 Stat. 1099, direct
 
 #### Study of Distribution of General and Flag Officer Positions in Joint Duty Assignments
 
-Pub. L. 102–484, div. A, title IV, §404, Oct. 23, 1992, 106 Stat. 2398, directed Secretary of Defense to conduct astudy of whether joint organizations of Department of Defense are fully staffed with appropriate number of general and flag officers and, not later than one year after Oct. 23, 1992, submit a report to Congress.
+Pub. L. 102–484, div. A, title IV, §404, Oct. 23, 1992, 106 Stat. 2398, directed Secretary of Defense to conduct a study of whether joint organizations of Department of Defense are fully staffed with appropriate number of general and flag officers and, not later than one year after Oct. 23, 1992, submit a report to Congress.
 
 #### Transition to Joint Officer Personnel Policy
 
@@ -216,7 +222,7 @@ Initial selections.—(A) In making the initial selections of officers for the j
 
 &emsp;&emsp;"(i) waive the requirement that a joint duty assignment be served after the officer has completed an appropriate program at a joint professional military education school;
 
-&emsp;&emsp;"(ii) waive the requirement for the length of a joint duty assignment in the case of a joint duty assignment begun by an officer before January 1, 1987, if the officer served in that assignment for a period of sufficient duration (which may not be less than 12 months) to have been considered a full tour of duty under the policies and regulations in effect on September 30, 1986; or
+&emsp;&emsp;"(ii) waive the requirement for the length of a joint duty assignment in the case of a joint duty assignment begun by an officer before January 1, 1987,if the officer served in that assignment for a period of sufficient duration (which may not be less than 12 months) to have been considered a full tour of duty under the policies and regulations in effect on September 30, 1986; or
 
 &emsp;&emsp;"(iii) consider as a joint duty assignment any tour of duty begun by an officer before October 1, 1986, that involved significant experience in joint matters (as determined by the Secretary) if the officer served in that assignment for a period of sufficient duration (which may not be less than 12 months) for his service to have been considered a full tour of duty under the policies and regulations in effect on September 30, 1986.
 

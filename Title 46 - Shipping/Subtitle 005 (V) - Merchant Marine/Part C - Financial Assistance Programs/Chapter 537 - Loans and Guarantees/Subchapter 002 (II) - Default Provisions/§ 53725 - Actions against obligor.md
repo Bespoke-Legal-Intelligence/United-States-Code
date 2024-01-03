@@ -20,7 +20,7 @@ In general.—The Secretary or Administrator may—
 
 Payment of excess.—If, through the sale of property, the Secretary or Administrator receives an amount of cash greater than the unpaid principal amount of the obligation, the unpaid interest on the obligation, and the expenses of collecting those amounts, the Secretary or Administrator shall pay the excess to the obligor.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1619; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(F), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1619; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(F), Jan. 6, 2006, 119 Stat. 3555; Pub. L.110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 

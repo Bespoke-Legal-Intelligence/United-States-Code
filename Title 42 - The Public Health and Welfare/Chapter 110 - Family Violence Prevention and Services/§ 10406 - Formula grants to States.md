@@ -36,7 +36,7 @@ The Secretary shall award grants to States in order to assist in supporting the 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No person shall on the ground of sex or religion be excluded from participation in, be denied the benefits of, or be subject to discrimination under, any program or activity funded in whole or in part withfunds made available under this chapter. Nothing in this chapter shall require any such program or activity to include any individual in any program or activity without taking into consideration that individual's sex in those certain instances where sex is a bona fide occupational qualification or programmatic factor reasonably necessary to the normal or safe operation of that particular program or activity.
+&emsp;&emsp;&emsp;No person shall on the ground of sex or religion be excluded from participation in, be denied the benefits of, or be subject to discrimination under, any program or activity funded in whole or in part with funds made available under this chapter. Nothing in this chapter shall require any such program or activity to include any individual in any program or activity without taking into consideration that individual's sex in those certain instances where sex is a bona fide occupational qualification or programmatic factor reasonably necessary to the normal or safe operation of that particular program or activity.
 
 #### (ii) Enforcement
 
@@ -151,4 +151,10 @@ The Civil Rights Act of 1964, referred to in subsec. (c)(2)(A), (C)(ii), is Pub.
 A prior section 10406, Pub. L. 98–457, title III, §307, Oct. 9, 1984, 98 Stat. 1761, related to prohibition of discrimination, prior to the general amendment of this chapter by Pub. L. 111–320. See subsec. (c)(2) of this section.
 
 A prior section 306 of Pub. L. 98–457 was classified to section 10405 of this title prior to the general amendment of this chapter by Pub. L. 111–320.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 

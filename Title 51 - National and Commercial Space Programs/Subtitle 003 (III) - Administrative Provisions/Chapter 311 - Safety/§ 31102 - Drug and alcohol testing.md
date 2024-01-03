@@ -130,7 +130,7 @@ Pub. L. 102–195, §21(c)–(h), Dec. 9, 1991, 105 Stat. 1616.
 
 In subsection (b)(2), the words "within 18 months after the date of enactment of this Act" are omitted as obsolete.
 
-In paragraphs (1) and (2) of subsection (c), and in subsection (f)(2), the date "December 9, 1991" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1992 (Public Law 102–195, 105 Stat. 1605).
+In paragraphs (1) and (2) of subsection (c), and in subsection (f)(2), the date "December 9, 1991" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics andSpace Administration Authorization Act, Fiscal Year 1992 (Public Law 102–195, 105 Stat. 1605).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -148,7 +148,7 @@ Pub. L. 102–195, §21(b), Dec. 9, 1991, 105 Stat. 1616, provided that: "The Co
 
 &emsp;"(5) the testing of uniformed personnel of the Armed Forces has shown that the most effective deterrent to abuse of alcohol and use of illegal drugs is increased testing, including random testing;
 
-&emsp;"(6) adequate safeguards can be implemented to ensure that testing for abuse of alcohol or use of illegaldrugs is performed in a manner which protects an individual's right of privacy, ensures that no individual is harassed by being treated differently from other individuals, and ensures that no individual's reputation or career development is unduly threatened or harmed; and
+&emsp;"(6) adequate safeguards can be implemented to ensure that testing for abuse of alcohol or use of illegal drugs is performed in a manner which protects an individual's right of privacy, ensures that no individual is harassed by being treated differently from other individuals, and ensures that no individual's reputation or career development is unduly threatened or harmed; and
 
 &emsp;"(7) rehabilitation is a critical component of any testing program for abuse of alcohol or use of illegal drugs, and should be made available to individuals, as appropriate."
 

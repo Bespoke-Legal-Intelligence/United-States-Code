@@ -10,7 +10,7 @@ Nothing in this section shall authorize the alienation, encumbrance, or taxation
 
 #### (c) Force and effect of tribal ordinances or customs
 
-Any tribal ordinance or custom heretofore or hereafter adopted by an Indian tribe, band, or community in the exercise of any authority which it may possess shall, if not inconsistent with any applicable civil law of the State, be given full force and effect in the determination of civil causes of action pursuant to this section.
+Any tribal ordinance or custom heretofore or hereafter adopted by an Indian tribe, band, orcommunity in the exercise of any authority which it may possess shall, if not inconsistent with any applicable civil law of the State, be given full force and effect in the determination of civil causes of action pursuant to this section.
 
 (Pub. L. 90–284, title IV, §402, Apr. 11, 1968, 82 Stat. 79.)
 

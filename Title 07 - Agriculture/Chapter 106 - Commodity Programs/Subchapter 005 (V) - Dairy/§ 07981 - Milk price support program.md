@@ -12,7 +12,7 @@ During the period specified in subsection (a), the price of milk shall be suppor
 
 #### (1) Uniform prices
 
-&emsp;The support purchase prices under this section for each of the products of milk (butter, cheese, and nonfat dry milk) announced by the Secretary shall be the same for all of that product sold by persons offering to sell the product to the Secretary.
+&emsp;The support purchase prices under this section for each of the products of milk (butter,cheese, and nonfat dry milk) announced by the Secretary shall be the same for all of that product sold by persons offering to sell the product to the Secretary.
 
 #### (2) Sufficient prices
 

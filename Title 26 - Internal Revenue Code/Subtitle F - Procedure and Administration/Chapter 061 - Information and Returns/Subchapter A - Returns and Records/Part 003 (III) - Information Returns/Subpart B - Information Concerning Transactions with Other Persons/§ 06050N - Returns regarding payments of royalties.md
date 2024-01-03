@@ -40,5 +40,5 @@ Amendment by Pub. L. 104–168 applicable to statements required to be furnished
 
 #### Effective Date
 
-Pub. L. 99–514, title XV, §1523(d), Oct. 22, 1986, 100 Stat. 2749, provided that: "The amendments made by this section \[enacting this section and amending sections 3406, 6041, and 6676 of this title\] shall apply with respect to payments made after December 31, 1986."
+Pub. L. 99–514, title XV, §1523(d), Oct. 22, 1986, 100 Stat. 2749, provided that: "The amendments made bythis section \[enacting this section and amending sections 3406, 6041, and 6676 of this title\] shall apply with respect to payments made after December 31, 1986."
 

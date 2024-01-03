@@ -18,7 +18,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(C) to continue to desegregate and diversify schools by supporting magnet schools, recognizing that segregation exists between minority and nonminority students as well as among students of different minority groups.
 
-&emsp;(5) Desegregation efforts through magnet school programs are a significant part of ourNation's effort to achieve voluntary desegregation in schools and help to ensure equal educational opportunities for all students.
+&emsp;(5) Desegregation efforts through magnet school programs are a significant part of our Nation's effort to achieve voluntary desegregation in schools and help to ensure equal educational opportunities for all students.
 
 #### (b) Purpose
 
@@ -36,7 +36,7 @@ The purpose of this part is to assist in the desegregation of schools served by 
 
 &emsp;(6) ensuring that all students enrolled in the magnet school programs have equitable access to high quality education that will enable the students to succeed academically and continue with postsecondary education or employment.
 
-(Pub. L. 89–10, title IV, §4401, formerly title V, §5301, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1806; renumbered title IV, §4401, and amended Pub. L. 114–95, title IV, §§4001(b)(3)(A), (B), (D)(i), 4401(1), Dec. 10, 2015, 129 Stat. 1967, 2014.)
+(Pub. L. 89–10, title IV, §4401, formerly title V, §5301, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1806; renumbered title IV, §4401, and amended Pub. L. 114–95, title IV,§§4001(b)(3)(A), (B), (D)(i), 4401(1), Dec. 10, 2015, 129 Stat. 1967, 2014.)
 
 #### <b>Editorial Notes</b>
 

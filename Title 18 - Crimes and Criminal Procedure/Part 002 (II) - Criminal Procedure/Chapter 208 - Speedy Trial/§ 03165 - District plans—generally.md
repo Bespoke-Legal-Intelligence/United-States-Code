@@ -12,7 +12,7 @@
 
 (2) Prior to the expiration of the thirty-six calendar month period following July 1, 1975, each United States district court shall prepare and submit a plan in accordance with subsections (a) through (d) above to govern the trial or other disposition of offenses within the jurisdiction of such court during the fourth and fifth twelve-calendar-month periods following the effective date of subsection 3161(b) and subsection 3161(c).
 
-(3) Not later than June 30, 1980, each United States district court with respect to which implementation has not been ordered under section 3174(c) shall prepare and submit a plan in accordance with subsections (a) through (d) to govern the trial or other disposition of offenses within the jurisdiction of such court during the sixth and subsequent twelve-calendar-month periods following the effective date of subsection 3161(b) and subsection 3161(c) in effect prior to the date of enactment of this paragraph.
+(3) Not later than June 30, 1980, each United States district court with respect to which implementation has not been ordered under section 3174(c) shall prepare and submit a plan in accordance with subsections (a) through (d) to govern the trial or other disposition of offenses within the jurisdiction of such court during the sixth and subsequent twelve-calendar-month periods following the effective date of subsection3161(b) and subsection 3161(c) in effect prior to the date of enactment of this paragraph.
 
 (f) Plans adopted pursuant to this section shall, upon adoption, and recommendations of the district planning group shall, upon completion, become public documents.
 

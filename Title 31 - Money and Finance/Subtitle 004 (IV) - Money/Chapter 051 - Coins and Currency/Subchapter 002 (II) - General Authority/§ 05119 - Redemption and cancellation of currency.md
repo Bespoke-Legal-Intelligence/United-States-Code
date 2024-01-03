@@ -34,7 +34,7 @@ Redemption, cancellation, and destruction of currency.—The Secretary shall—
 
 (d) To provide a historical collection of United States currency, the Secretary may withhold from cancellation and destruction and transfer to a special account one piece of each design, issue, or series of each denomination of each kind of currency (including circulating notes of Federal reserve banks and national banks) after redemption. The Secretary may make appropriate entries in Treasury accounts because of the transfers.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 985; Pub. L. 102–390, title II, §226(b), Oct. 6, 1992, 106 Stat.1630; Pub. L. 103–325, title VI, §602(g)(14), Sept. 23, 1994, 108 Stat. 2294.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 985; Pub. L. 102–390, title II, §226(b), Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–325, title VI, §602(g)(14), Sept. 23, 1994, 108 Stat. 2294.)
 
 Historical and Revision Notes
 

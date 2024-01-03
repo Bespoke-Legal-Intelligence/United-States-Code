@@ -26,7 +26,7 @@
 
 #### (b) Modification of disciplinary procedures
 
-Nothing in this chapter shall be construed to modify existing law with regard to the binding effect (1) on any member of or participant in any self-regulatory organization of any action taken by the authorities of such organization to settle disputes between its members or participants, (2) on any municipal securities dealer or municipal securities broker of any action taken pursuant to a procedure established by the Municipal Securities Rulemaking Board to settle disputes between municipal securities dealers and municipal securities brokers, or (3) of any action described in paragraph (1) or (2) on any person who has agreed to be bound thereby.
+Nothing in this chapter shall be construed to modify existing law with regard to the bindingeffect (1) on any member of or participant in any self-regulatory organization of any action taken by the authorities of such organization to settle disputes between its members or participants, (2) on any municipal securities dealer or municipal securities broker of any action taken pursuant to a procedure established by the Municipal Securities Rulemaking Board to settle disputes between municipal securities dealers and municipal securities brokers, or (3) of any action described in paragraph (1) or (2) on any person who has agreed to be bound thereby.
 
 #### (c) Continuing validity of disciplinary sanctions
 
@@ -162,7 +162,7 @@ The Securities Act of 1933, referred to in subsec. (f)(5)(E), is act May 27, 193
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to rights and remedies provided by this chapter and applicability of certain State securities laws.
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title II, §210\], inserted "subject to this chapter" after "privilege, or other security", substituted "any such security" for "any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title", and inserted at end "No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security futures product, except thatthis sentence shall not be construed as limiting any State antifraud law of general applicability."
+<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title II, §210\], inserted "subject to this chapter" after "privilege, or other security", substituted "any such security" for "any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title", and inserted at end "No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security futures product, except that this sentence shall not be construed as limiting any State antifraud law of general applicability."
 
 Subsec. (e)(4). Pub. L. 106–554, §1(a)(5) \[title II, §203(a)(2)\], added par. (4).
 

@@ -96,5 +96,5 @@ Subsecs. (f) to (h). Pub. L. 108–7, §763(c)(2), (3), added subsecs. (f) and (
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–7 applicable beginning with the 2003 crop of other oilseeds, dry peas, lentils, and small chickpeas, see section 763(d) of Pub. L. 108–7, set out as a note under section 7901 of this title.
+Amendment by Pub. L. 108–7 applicable beginning with the 2003 crop of other oilseeds, dry peas, lentils,and small chickpeas, see section 763(d) of Pub. L. 108–7, set out as a note under section 7901 of this title.
 

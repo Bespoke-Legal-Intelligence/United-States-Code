@@ -20,7 +20,7 @@
 
 #### (3) Staff
 
-&emsp;The Director shall assign such permanent staff of the Office as he considers appropriate to assist the United States Interdiction Coordinator to carry out the responsibilities described in paragraph (2), and may request that appropriate National Drug Control Program agencies detail or assign staff to assist in carrying out such responsibilities.
+&emsp;The Director shall assign such permanent staff of the Office as he considers appropriateto assist the United States Interdiction Coordinator to carry out the responsibilities described in paragraph (2), and may request that appropriate National Drug Control Program agencies detail or assign staff to assist in carrying out such responsibilities.
 
 #### (4) National Interdiction Command and Control Plan
 
@@ -78,7 +78,7 @@
 
 #### (4) Report
 
-&emsp;Not later than September 30 of each year, the Chairperson of the Interdiction Committeeshall submit to the Director and to the appropriate congressional committees a report describing the results of the meetings and any significant findings of the Committee during the previous 12 months. The report required under this paragraph shall be in unclassified form, but may include a classified annex.
+&emsp;Not later than September 30 of each year, the Chairperson of the Interdiction Committee shall submit to the Director and to the appropriate congressional committees a report describing the results of the meetings and any significant findings of the Committee during the previous 12 months. The report required under this paragraph shall be in unclassified form, but may include a classified annex.
 
 #### (c) International coordination
 

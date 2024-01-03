@@ -84,7 +84,7 @@ In general.—Consistent with the requirements of paragraph (1), a holder of a p
 
 &emsp;(B)
 
-Civil penalty.—Notwithstanding section 46301, a production certificate holder who knowingly violates subparagraph (A) shall be liable to the Administrator for a civil penalty of not more than $1,000,000 for each nonconforming aircraft.
+Civil penalty.—Notwithstanding section 46301, a production certificate holder who knowingly violates subparagraph (A) shall beliable to the Administrator for a civil penalty of not more than $1,000,000 for each nonconforming aircraft.
 
 &emsp;(C)
 
@@ -104,7 +104,7 @@ Disclosure of Safety Critical Information.—
 
 &emsp;(1)
 
-In general.—Notwithstanding a delegation described in section 44702(d), the Administrator shall require an applicant for, or holder of, a type certificate for a transport categoryairplane covered under part 25 of title 14, Code of Federal Regulations, to submit safety critical information with respect to such airplane to the Administrator in such form, manner, or time as the Administrator may require. Such safety critical information shall include—
+In general.—Notwithstanding a delegation described in section 44702(d), the Administrator shall require an applicant for, or holder of, a type certificate for a transport category airplane covered under part 25 of title 14, Code of Federal Regulations, to submit safety critical information with respect to such airplane to the Administrator in such form, manner, or time as the Administrator may require. Such safety critical information shall include—
 
 &emsp;&emsp;(A) any design and operational details, intended functions, and failure modes of any system that, without being commanded by the flight crew, commands the operation of any safety critical function or feature required for control of an airplane during flight or that otherwise changes the flight path or airspeed of an airplane;
 
@@ -798,7 +798,7 @@ Pub. L. 113–53, Nov. 27, 2013, 127 Stat. 584, provided that:
 
 &emsp;"(3) General aviation provides for the cultivation of a workforce of engineers, manufacturing and maintenance professionals, and pilots who secure the economic success and defense of the United States.
 
-&emsp;"(4) General aviation contributes to well-paying jobs in the manufacturing and technology sectors in the United States and products produced by those sectors are exported in great numbers.
+&emsp;"(4) General aviation contributes to well-paying jobs in the manufacturing and technology sectors inthe United States and products produced by those sectors are exported in great numbers.
 
 &emsp;"(5) Technology developed and proven in general aviation aids in the success and safety of all sectors of aviation and scientific competence.
 
@@ -948,7 +948,7 @@ Freedom of information act requests.—The Administrator shall make the document
 
 &emsp;"(2)
 
-Trade secrets, commercial, and financial information.—Section 552(b)(4) of such title shall notapply to requests for documents to be made available pursuant to paragraph (1).
+Trade secrets, commercial, and financial information.—Section 552(b)(4) of such title shall not apply to requests for documents to be made available pursuant to paragraph (1).
 
 "(c)
 

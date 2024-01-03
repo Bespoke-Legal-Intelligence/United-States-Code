@@ -42,7 +42,7 @@ There are authorized to be appropriated to carry out this section—
 
 #### References in Text
 
-The Food Quality Protection Act of 1996, referred to in subsec. (b)(3), is Pub. L. 104–170, Aug. 3, 1996, 110 Stat. 1489. For complete classification of this Act to theCode, see Short Title of 1996 Amendment note set out under section 136 of this title and Tables.
+The Food Quality Protection Act of 1996, referred to in subsec. (b)(3), is Pub. L. 104–170, Aug. 3, 1996, 110 Stat. 1489. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 136 of this title and Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b)(3), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
 

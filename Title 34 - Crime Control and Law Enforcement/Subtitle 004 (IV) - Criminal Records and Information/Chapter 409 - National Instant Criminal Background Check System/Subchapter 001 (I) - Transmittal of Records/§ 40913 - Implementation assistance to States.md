@@ -26,7 +26,7 @@ Grants awarded to States or Indian tribes under this section may only be used to
 
 &emsp;(6) collect and analyze data needed to demonstrate levels of State compliance with this chapter; and
 
-&emsp;(7) maintain the relief from disabilities program in accordance with section 40915 of this title, but not less than 3 percent, and no more than 10 percent of each grant shall be used for this purpose.
+&emsp;(7) maintain the relief from disabilities program in accordance with section 40915 of this title, but not less than 3 percent, and no morethan 10 percent of each grant shall be used for this purpose.
 
 #### (c) Eligibility
 

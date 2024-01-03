@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Administrator of the Federal Aviation Administration may approve an application of an airport sponsor under this section to authorize the airport sponsor to award a design-build contract using a selection process permitted under applicable State or local law if—
+In General.—The Administrator of the Federal Aviation Administration may approvean application of an airport sponsor under this section to authorize the airport sponsor to award a design-build contract using a selection process permitted under applicable State or local law if—
 
 &emsp;(1) the Administrator approves the application using criteria established by the Administrator;
 

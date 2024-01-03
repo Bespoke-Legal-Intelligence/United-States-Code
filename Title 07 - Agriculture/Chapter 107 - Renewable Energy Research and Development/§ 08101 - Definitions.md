@@ -234,7 +234,7 @@ Pub. L. 108–199, div. A, title VII, §778(a), Jan. 23, 2004, 118 Stat. 41, pro
 
 #### Biomass Research and Development
 
-Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, §9008, May 13, 2002,116 Stat. 483; Pub. L. 108–148, title II, §201, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941, Aug. 8, 2005, 119 Stat. 873, known as the Biomass Research and Development Act of 2000, and formerly set out as a note under this section, provided temporary authority for the Secretaries of Agriculture and Energy to promote biomass research and development. As amended by Pub. L. 109–58, the program became permanent, and title III of Pub. L. 106–224 was transferred to chapter 112 (§8601 et seq.) of this title. Subsequently, title III of Pub. L. 106–224 was repealed by Pub. L. 110–246, title IX, §9001(b), June 18, 2008, 122 Stat. 2095.
+Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, §9008, May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941, Aug. 8, 2005, 119 Stat. 873, known as the Biomass Research and Development Act of 2000, and formerly set out as a note under this section, provided temporary authority for the Secretaries of Agriculture and Energy to promote biomass research and development. As amended by Pub. L. 109–58, the program became permanent, and title III of Pub. L. 106–224 was transferred to chapter 112 (§8601 et seq.) of this title. Subsequently, title III of Pub. L. 106–224 was repealed by Pub. L. 110–246, title IX, §9001(b), June 18, 2008, 122 Stat. 2095.
 
 #### <b>Executive Documents</b>
 
@@ -258,7 +258,7 @@ Alongside the Working Group's efforts, the Secretary of Agriculture may pursue o
 
 (a) Immediately begin restructuring existing investments in renewable fuels as needed to preserve industry employment; and
 
-(b) Develop a comprehensive approach to accelerating the investment in and production of American biofuels and reducing our dependence on fossil fuels by providing, within 30 days, under the authorities made available in the Food, Conservation, and Energy Act of 2008:
+(b) Develop a comprehensive approach to accelerating the investment in and production of American biofuelsand reducing our dependence on fossil fuels by providing, within 30 days, under the authorities made available in the Food, Conservation, and Energy Act of 2008:
 
 (i) Loan guarantees for the development, construction, and retrofitting of commercial-scale biorefineries and grants to help pay for the development and construction costs of demonstration-scale biorefineries;
 

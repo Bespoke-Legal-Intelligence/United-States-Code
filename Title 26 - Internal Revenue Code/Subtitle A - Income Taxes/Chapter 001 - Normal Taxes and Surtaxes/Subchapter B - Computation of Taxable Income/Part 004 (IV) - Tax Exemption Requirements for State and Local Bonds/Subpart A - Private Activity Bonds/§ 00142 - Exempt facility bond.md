@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of this part, the term "exempt facility bond" means any bond issued as part ofan issue 95 percent or more of the net proceeds of which are to be used to provide—
+For purposes of this part, the term "exempt facility bond" means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—
 
 &emsp;(1) airports,
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 &emsp;&emsp;The project meets the requirements of this subparagraph if 40 percent or more of the residential units in such project are occupied by individuals whose income is 60 percent or less of area median gross income.
 
-> &emsp;For purposes of this paragraph, any property shall not be treated as failing to be residential rental property merely because part of the building in which such property is located is used for purposes other than residential rental purposes.
+> &emsp;For purposes of this paragraph, any property shall not be treated as failing to be residential rental property merely because part of thebuilding in which such property is located is used for purposes other than residential rental purposes.
 
 #### (2) Definitions and special rules
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 #### (A) Qualified project period
 
-&emsp;&emsp;The term "qualified project period" means the period beginning on the 1st day on which10 percent of the residential units in the project are occupied and ending on the latest of—
+&emsp;&emsp;The term "qualified project period" means the period beginning on the 1st day on which 10 percent of the residential units in the project are occupied and ending on the latest of—
 
 &emsp;&emsp;&emsp;(i) the date which is 15 years after the date on which 50 percent of the residential units in the project are occupied,
 
@@ -180,7 +180,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The determination of whether the income of a resident of a unit in a project exceeds the applicable income limit shall be made at least annually on the basis of the current income of the resident. The preceding sentence shall not apply with respect to any project for any year if during such year no residential unit in the project is occupied by a new resident whose income exceeds the applicable income limit.
+&emsp;&emsp;The determination of whether the income of a resident of a unit in a project exceedsthe applicable income limit shall be made at least annually on the basis of the current income of the resident. The preceding sentence shall not apply with respect to any project for any year if during such year no residential unit in the project is occupied by a new resident whose income exceeds the applicable income limit.
 
 #### (B) Continuing resident's income may increase above the applicable limit
 
@@ -248,7 +248,7 @@ For purposes of subsection (a)(4), the term "facilities for the furnishing of wa
 
 &emsp;(1) the water is or will be made available to members of the general public (including electric utility, industrial, agricultural, or commercial users), and
 
-&emsp;(2) either the facility is operated by a governmental unit or the rates for the furnishing or sale of the water have been established or approved by a State or political subdivision thereof, by an agency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision thereof.
+&emsp;(2) either the facility is operated by a governmental unit or the rates for the furnishing or sale of the water have been established or approved by a State or political subdivision thereof, by an agency or instrumentality of the United States, or by a public service or public utility commission or other similarbody of any State or political subdivision thereof.
 
 #### (f) Local furnishing of electric energy or gas
 
@@ -340,7 +340,7 @@ For purposes of subsection (a)(8)—
 
 #### (h) Qualified hazardous waste facilities
 
-For purposes of subsection (a)(10), the term "qualified hazardous waste facility" means any facility for the disposal of hazardous waste by incineration or entombment but only if—
+For purposes of subsection (a)(10), the term "qualified hazardous waste facility" means anyfacility for the disposal of hazardous waste by incineration or entombment but only if—
 
 &emsp;(1) the facility is subject to final permit requirements under subtitle C of title II of the Solid Waste Disposal Act (as in effect on the date of the enactment of the Tax Reform Act of 1986), and
 
@@ -510,7 +510,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 #### (v) Use of tax benefit
 
-&emsp;&emsp;&emsp;The project proposal includes a description of the net benefit of the tax-exempt financing provided under this subsection which will be allocated for financing of one or more of the following:
+&emsp;&emsp;&emsp;The project proposal includes a description of the net benefit of the tax-exemptfinancing provided under this subsection which will be allocated for financing of one or more of the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) The purchase, construction, integration, or other use of energy efficiency, renewable energy, and sustainable design features of the project.
 
@@ -800,7 +800,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 &emsp;The Secretary shall issue such regulations or other guidance as are necessary to carry out the provisions of this subsection, including methods for determining costs attributable to an eligible component for purposes of paragraph (3)(A).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2),Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849; Pub. L. 111–5, div. B, title I, §1504(a), Feb. 17, 2009, 123 Stat. 355; Pub. L. 115–141, div. U, title IV, §401(a)(47), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 117–58, div. H, title IV, §§80401(a), (b), 80402(a), (b), 80403(a), Nov. 15, 2021, 135 Stat. 1330, 1331, 1335; Pub. L. 117–169, title I, §13104(a)(2)(B), Aug. 16, 2022, 136 Stat. 1925.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1),Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849; Pub. L. 111–5, div. B, title I, §1504(a), Feb. 17, 2009, 123 Stat. 355; Pub. L. 115–141, div. U, title IV, §401(a)(47), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 117–58, div. H, title IV, §§80401(a), (b), 80402(a), (b), 80403(a), Nov. 15, 2021, 135 Stat. 1330, 1331, 1335; Pub. L. 117–169, title I, §13104(a)(2)(B), Aug. 16, 2022, 136 Stat. 1925.)
 
 #### <b>Editorial Notes</b>
 

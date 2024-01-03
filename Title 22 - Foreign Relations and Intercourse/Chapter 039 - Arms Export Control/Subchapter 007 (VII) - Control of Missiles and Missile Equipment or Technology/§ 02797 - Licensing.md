@@ -16,7 +16,7 @@ The Secretary of State shall establish a procedure for sharing information with 
 
 #### (d) Exports to space launch vehicle programs
 
-Within 15 days after the issuance of a license (including any brokering license) for the export of items valued at less than $50,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and are goods or services that are intended to support the design, utilization, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex, the Secretary shall transmit to the Congress a report describing the licensed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy. The requirement contained in the preceding sentence shall not apply to licenses for exports to countries that were members of the MTCR as of April 17, 1987.
+Within 15 days after the issuance of a license (including any brokering license) for the export of items valued at less than $50,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and are goods or services that are intended to support the design, utilization, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex, the Secretary shall transmit to the Congress a report describing the licensed export and rationale for approving such export, including the consistency of such exportwith United States missile nonproliferation policy. The requirement contained in the preceding sentence shall not apply to licenses for exports to countries that were members of the MTCR as of April 17, 1987.
 
 (Pub. L. 90–629, ch. 7, §71, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1745; amended Pub. L. 103–236, title VII, §§714(a)(3)–(6), 735(c), Apr. 30, 1994, 108 Stat. 497, 506; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(4)–(7), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–280, title VII, §708(c), Oct. 6, 2000, 114 Stat. 863.)
 
@@ -36,7 +36,7 @@ This chapter, referred to in subsec. (d), was in the original "this Act", meanin
 
 Subsec. (b)(1). Pub. L. 105–277, §1225(a)(5), struck out "and the Director of the United States Arms Control and Disarmament Agency" after "Secretary of Defense".
 
-Subsec. (b)(2). Pub. L. 105–277, §1225(a)(6), substituted "and the Secretary of Commerce" for "the Secretary of Commerce, and the Director of the United States ArmsControl and Disarmament Agency" and struck out "or the Director" after "the relevant Secretary".
+Subsec. (b)(2). Pub. L. 105–277, §1225(a)(6), substituted "and the Secretary of Commerce" for "the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency" and struck out "or the Director" after "the relevant Secretary".
 
 Subsec. (c). Pub. L. 105–277, §1225(a)(7), struck out "with the Director of the United States Arms Control and Disarmament Agency," after "Director of Central Intelligence,".
 
@@ -136,7 +136,7 @@ Sec. 2. <i>Missile Proliferation Sanctions</i>. (a) <i>Arms Export Control Act</
 
 (1) The authority and duties vested in me by sections 11B(a)(1)(A) (insofar as such section authorizes determinations with respect to violations by United States persons of the AECA \[22 U.S.C. 2751 et seq.\]), 11B(b)(1) (insofar as such section authorizes determinations regarding activities by foreign persons), and 11B(b)(5) are delegated to the Secretary of State.
 
-(2) The authority and duties vested in me to make the findings provided in sections 11B(a)(3), 11B(b)(6), and 11B(b)(7)(A) are delegated to the Secretary of Defense. The Secretary of Commerce shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, waivers based upon findings made pursuant to section 11B(a)(3). The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, waivers based upon findings made pursuant to section 11B(b)(6).
+(2) The authority and duties vested in me to make the findings provided in sections 11B(a)(3), 11B(b)(6), and 11B(b)(7)(A) are delegated to the Secretary of Defense. The Secretary of Commerce shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, waivers based upon findings made pursuant to section 11B(a)(3). The Secretary ofState shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, waivers based upon findings made pursuant to section 11B(b)(6).
 
 (3) The authority and duties vested in me to prohibit certain imports as provided in section 11B(b)(1), pursuant to a determination by the Secretary of State under that section, and the obligation to implement the exceptions provided in section 11B(b)(7), are delegated to the Secretary of the Treasury.
 

@@ -10,7 +10,7 @@ In General.—It shall be the duty and responsibility of each Inspector General,
 
 &emsp;(3) to recommend policies for, and to conduct, supervise, or coordinate other activities carried out or financed by, the establishment for the purpose of promoting economy and efficiency in the administration of, or preventing and detecting fraud and abuse in, its programs and operations;
 
-&emsp;(4) to recommend policies for the establishment, and to conduct, supervise, or coordinaterelationships between the establishment and other Federal agencies, State and local governmental agencies, and nongovernmental entities, with respect to—
+&emsp;(4) to recommend policies for the establishment, and to conduct, supervise, or coordinate relationships between the establishment and other Federal agencies, State and local governmental agencies, and nongovernmental entities, with respect to—
 
 &emsp;&emsp;(A) all matters relating to the promotion of economy and efficiency in the administration of, or the prevention and detection of fraud and abuse in, programs and operations administered or financed by the establishment; or
 
@@ -72,7 +72,7 @@ Public disclosure otherwise prohibited by law.—Nothing in this subsection shal
 
 #### Amendments Not Shown in Text
 
-<i>This section was derived from section 4 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 4 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §5273(1), Dec. 23, 2022, 136 Stat. 3241, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4210, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 4 of Pub. L. 95–452 was amended in subsection (a)(2) as follows:</i>
+<i>This section was derived from section 4 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 4 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §5273(1), Dec. 23, 2022, 136 Stat. 3241, prior to being repealed and reenacted as this section by Pub. L.</i><i>117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4210, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 4 of Pub. L. 95–452 was amended in subsection (a)(2) as follows:</i>
 
 <i>(1) by inserting ", including" after "to make recommendations"; and</i>
 

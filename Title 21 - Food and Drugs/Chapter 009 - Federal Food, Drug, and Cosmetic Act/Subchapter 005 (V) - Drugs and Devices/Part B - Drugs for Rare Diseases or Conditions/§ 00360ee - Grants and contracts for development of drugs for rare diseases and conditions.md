@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-The Secretary may make grants to and enter into contracts with public and private entities and individuals to assist in (1) defraying the costs of developing drugs for rare diseases or conditions, including qualified testing expenses, (2) defraying the costs of developing medical devices for rare diseases or conditions, (3) defraying the costs of developing medical foods for rare diseases or conditions, and (4) developing regulatory science pertaining to the chemistry, manufacturing, and controls of individualizedmedical products to treat individuals with rare diseases or conditions.
+The Secretary may make grants to and enter into contracts with public and private entities and individuals to assist in (1) defraying the costs of developing drugs for rare diseases or conditions, including qualified testing expenses, (2) defraying the costs of developing medical devices for rare diseases or conditions, (3) defraying the costs of developing medical foods for rare diseases or conditions, and (4) developing regulatory science pertaining to the chemistry, manufacturing, and controls of individualized medical products to treat individuals with rare diseases or conditions.
 
 #### (b) Definitions
 
@@ -160,7 +160,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(1) Rare diseases and disorders are those which affect small patient populations, typically populations smaller than 200,000 individuals in the United States. Such diseases and conditions include Huntington's disease, amyotrophic lateral sclerosis (Lou Gehrig's disease), Tourette syndrome, Crohn's disease, cystic fibrosis, cystinosis, and Duchenne muscular dystrophy.
 
-&emsp;"(2) For many years, the 25,000,000 Americans suffering from the over 6,000 rare diseases and disorders were denied access to effective medicines because prescription drug manufacturers could rarely make a profit from marketing drugs for such small groups of patients. The prescription drug industry did not adequately fund research into such treatments. Despite the urgent health need for these medicines, they came to be known as 'orphan drugs' because no companies would commercialize them.
+&emsp;"(2) For many years, the 25,000,000 Americans suffering from the over 6,000 rare diseases and disorderswere denied access to effective medicines because prescription drug manufacturers could rarely make a profit from marketing drugs for such small groups of patients. The prescription drug industry did not adequately fund research into such treatments. Despite the urgent health need for these medicines, they came to be known as 'orphan drugs' because no companies would commercialize them.
 
 &emsp;"(3) During the 1970s, an organization called the National Organization for Rare Disorders (NORD) was founded to provide services and to lobby on behalf of patients with rare diseases and disorders. NORD was instrumental in pressing Congress for legislation to encourage the development of orphan drugs.
 

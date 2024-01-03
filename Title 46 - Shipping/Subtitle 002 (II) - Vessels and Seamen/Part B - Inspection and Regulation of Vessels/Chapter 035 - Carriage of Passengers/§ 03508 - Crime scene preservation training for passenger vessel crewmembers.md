@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary, in consultation with the Director of the Federal Bureau of Investigation and the Maritime Administration, shall maintain training standards and curricula to allow for the certification of passenger vessel security personnel, crewmembers, and law enforcement officials on the appropriate methods for prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment. The Administrator of the Maritime Administration may certify organizations in the United States and abroad that offer the curriculum for training and certification under subsection (c).
+In General.—The Secretary, in consultation with the Director of the Federal Bureau of Investigation and the Maritime Administration, shall maintain training standards and curricula to allow for the certification of passenger vesselsecurity personnel, crewmembers, and law enforcement officials on the appropriate methods for prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment. The Administrator of the Maritime Administration may certify organizations in the United States and abroad that offer the curriculum for training and certification under subsection (c).
 
 (b)
 
@@ -16,7 +16,7 @@ Minimum Standards.—The standards established by the Secretary under subsection
 
 (c)
 
-Certification Requirement.—No vessel to which this section applies may enter a United States port on a voyage (or voyage segment) on which a United States citizen is a passenger unless there is at least 1 crewmember onboard who is certified as having successfully completed training in the prevention, detection, evidencepreservation, and reporting of criminal activities in the international maritime environment on passenger vessels under subsection (a).
+Certification Requirement.—No vessel to which this section applies may enter a United States port on a voyage (or voyage segment) on which a United States citizen is a passenger unless there is at least 1 crewmember onboard who is certified as having successfully completed training in the prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment on passenger vessels under subsection (a).
 
 (d)
 

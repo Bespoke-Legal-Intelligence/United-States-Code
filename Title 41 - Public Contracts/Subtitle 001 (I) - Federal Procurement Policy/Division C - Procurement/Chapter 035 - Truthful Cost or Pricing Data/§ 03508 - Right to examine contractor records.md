@@ -1,6 +1,6 @@
 ### §3508. Right to examine contractor records
 
-For the purpose of evaluating the accuracy, completeness, and currency of cost or pricing data required to be submitted by this chapter, an executive agency shall have the authority provided by section 4706(b)(2) of this title.
+For the purpose of evaluating the accuracy, completeness, and currency of cost or pricingdata required to be submitted by this chapter, an executive agency shall have the authority provided by section 4706(b)(2) of this title.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3770.)
 

@@ -10,7 +10,7 @@ Any individual who—
 
 &emsp;(3) is not otherwise eligible for health services provided by the Service,
 
-> shall be eligible for all health services provided by the Service on the same basis and subject to the same rules that apply to eligible Indians until such individual attains 19 years of age. The existing and potential health needs of all such individuals shall be taken into consideration by the Service in determining the need for, or the allocation of, the health resources of the Service. If such an individual has been determined to be legally incompetent prior to attaining 19 years of age, such individual shall remain eligible for such services until 1 year after the date of a determination of competency.
+> shall be eligible for all health services provided by the Service on the same basis and subject tothe same rules that apply to eligible Indians until such individual attains 19 years of age. The existing and potential health needs of all such individuals shall be taken into consideration by the Service in determining the need for, or the allocation of, the health resources of the Service. If such an individual has been determined to be legally incompetent prior to attaining 19 years of age, such individual shall remain eligible for such services until 1 year after the date of a determination of competency.
 
 #### (b) Spouses
 
@@ -90,7 +90,7 @@ The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq
 
 Section 314 of Public Law 101–512, referred to in subsec. (c)(2), is set out as a note under section 5321 of this title.
 
-The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For completeclassification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Codification
 

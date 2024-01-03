@@ -30,7 +30,7 @@
 
 (B) When selection from below the promotion zone is authorized, the Secretary shall establish the number of officers that may be recommended for promotion from below the promotion zone. That number may not exceed the number equal to 10 percent of the maximum number of officers that the board is authorized to recommend for promotion, except that the Secretary may authorize a greater number, not to exceed 15 percent of the total number of officers that the board is authorized to recommend for promotion, if the Secretary determines that the needs of the Coast Guard so require. If the maximum number determined under this subparagraph is less than one, the board may recommend one officer for promotion from below the promotion zone.
 
-(C) The number of officers recommended for promotion from below the promotion zone does not increase the maximum number of officersthat the board is authorized to recommend for promotion under paragraph (2).
+(C) The number of officers recommended for promotion from below the promotion zone does not increase the maximum number of officers that the board is authorized to recommend for promotion under paragraph (2).
 
 (e) The law and regulations relating to the selection for promotion of a commissioned officer of the Regular Coast Guard to the grades of rear admiral (lower half) and rear admiral apply to a Reserve officer, except that to be eligible for consideration for promotion to the grade of rear admiral (lower half) an officer shall have completed at least ten years commissioned service, of which the last five years shall have been served in the Coast Guard Reserve.
 

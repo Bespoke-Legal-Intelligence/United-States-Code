@@ -48,7 +48,7 @@ For purposes of this subchapter, the term "written notice of allocation" means a
 
 &emsp;&emsp;Except as provided in subparagraph (B)—
 
-&emsp;&emsp;&emsp;(i) a consent described in paragraph (2) (A) shall be a consent with respect to all patronage of the distributee with the organization occurring (determined with theapplication of section 1382(e)) during the taxable year of the organization during which such consent is made and all subsequent taxable years of the organization; and
+&emsp;&emsp;&emsp;(i) a consent described in paragraph (2) (A) shall be a consent with respect to all patronage of the distributee with the organization occurring (determined with the application of section 1382(e)) during the taxable year of the organization during which such consent is made and all subsequent taxable years of the organization; and
 
 &emsp;&emsp;&emsp;(ii) a consent described in paragraph (2) (B) shall be a consent with respect to all patronage of the distributee with the organization occurring (determined without the application of section 1382(e)) after he received the notification and copy described in paragraph (2)(B)(ii).
 
@@ -112,7 +112,7 @@ For purposes of this subchapter, the term "per-unit retain certificate" means an
 
 #### (B) Revocation, etc.
 
-&emsp;&emsp;(i) Any agreement described in paragraph (2)(A) may be revoked (in writing) by the distributee at any time. Any such revocation shall be effective with respect to productsdelivered by the distributee on or after the first day of the first taxable year of the organization beginning after the revocation is filed with the organization; except that in the case of a pooling arrangement described in section 1382(e) a revocation made by a distributee shall not be effective as to any products which were delivered to the organization by the distributee before such revocation.
+&emsp;&emsp;(i) Any agreement described in paragraph (2)(A) may be revoked (in writing) by the distributee at any time. Any such revocation shall be effective with respect to products delivered by the distributee on or after the first day of the first taxable year of the organization beginning after the revocation is filed with the organization; except that in the case of a pooling arrangement described in section 1382(e) a revocation made by a distributee shall not be effective as to any products which were delivered to the organization by the distributee before such revocation.
 
 &emsp;&emsp;(ii) Any agreement described in paragraph (2)(B) shall not be effective with respect to any products delivered after the distributee ceases to be a member of the organization or after the bylaws of the organization cease to contain the provision described in paragraph (2)(B)(i).
 
@@ -180,7 +180,7 @@ For purposes of section 521 and this subchapter, the marketing of the products o
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–357, §312(a), inserted at end of concluding provisions "For purposes of paragraph (3), net earnings shall not be reduced by amountspaid during the year as dividends on capital stock or other proprietary capital interests of the organization to the extent that the articles of incorporation or bylaws of such organization or other contract with patrons provide that such dividends are in addition to amounts otherwise payable to patrons which are derived from business done with or for patrons during the taxable year."
+<b>2004</b>—Subsec. (a). Pub. L. 108–357, §312(a), inserted at end of concluding provisions "For purposes of paragraph (3), net earnings shall not be reduced by amounts paid during the year as dividends on capital stock or other proprietary capital interests of the organization to the extent that the articles of incorporation or bylaws of such organization or other contract with patrons provide that such dividends are in addition to amounts otherwise payable to patrons which are derived from business done with or for patrons during the taxable year."
 
 Subsec. (k). Pub. L. 108–357, §316(a), added subsec. (k).
 

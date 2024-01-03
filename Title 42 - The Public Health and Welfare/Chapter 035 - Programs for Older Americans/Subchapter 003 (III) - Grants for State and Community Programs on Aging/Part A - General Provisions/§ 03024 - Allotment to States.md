@@ -110,7 +110,7 @@ Subsec. (d)(1)(B). Pub. L. 116–131, §701(7), struck out "(excluding any amoun
 
 Subsec. (b). Pub. L. 114–144, §4(b)(2), struck out "subpart I of" before "part E".
 
-<b>2006</b>—Subsec. (a)(3)(D). Pub. L. 109–365 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "No State shall be allotted less than the total amount allotted to the State for fiscal year2000 and no State shall receive a percentage increase above the fiscal year 2000 allotment that is less than 20 percent of the percentage increase above the fiscal year 2000 allotments for all of the States."
+<b>2006</b>—Subsec. (a)(3)(D). Pub. L. 109–365 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "No State shall be allotted less than the total amount allotted to the State for fiscal year 2000 and no State shall receive a percentage increase above the fiscal year 2000 allotment that is less than 20 percent of the percentage increase above the fiscal year 2000 allotments for all of the States."
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–501, §303(a), added subsec. (a) and struck out former subsec. (a) which read as follows:
 

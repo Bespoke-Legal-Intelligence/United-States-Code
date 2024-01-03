@@ -8,7 +8,7 @@ The President is authorized to provide professional counseling services, includi
 
 Each State, local agency, or private mental health organization providing professional counseling services described in subsection (a) shall ensure that, any individual providing professional counseling services to victims of a major disaster as authorized under subsection (a), including individuals working for nonprofit partners and recovery organizations, is appropriately trained to address impacts from major disasters in communities, and to individuals, with socio-economically disadvantaged backgrounds.
 
-(Pub. L. 93–288, title IV, §416, formerly §413, May 22, 1974, 88 Stat. 157; renumbered §416 and amended Pub. L. 100–707, title I, §106(i), Nov. 23,1988, 102 Stat. 4705; Pub. L. 117–251, §7(a), Dec. 20, 2022, 136 Stat. 2357.)
+(Pub. L. 93–288, title IV, §416, formerly §413, May 22, 1974, 88 Stat. 157; renumbered §416 and amended Pub. L. 100–707, title I, §106(i), Nov. 23, 1988, 102 Stat. 4705; Pub. L. 117–251, §7(a), Dec. 20, 2022, 136 Stat. 2357.)
 
 #### <b>Editorial Notes</b>
 

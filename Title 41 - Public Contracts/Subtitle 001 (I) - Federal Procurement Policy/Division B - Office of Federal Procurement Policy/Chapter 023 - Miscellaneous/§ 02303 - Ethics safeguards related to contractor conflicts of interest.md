@@ -130,7 +130,7 @@ In General.—Not later than 18 months after the date of the enactment of this A
 
 &emsp;&emsp;"(B) to periodically assess and update such procedures as needed to address agency-specific conflict of interest issues; and
 
-&emsp;"(5) to update the procedures set forth in section 9.506 of the Federal Acquisition Regulation to permit contracting officers to take into consideration professional standards and procedures to prevent organizational conflicts of interest to which an offeror or contractor is subject.
+&emsp;"(5) to update the procedures set forth in section 9.506 of the Federal Acquisition Regulation to permitcontracting officers to take into consideration professional standards and procedures to prevent organizational conflicts of interest to which an offeror or contractor is subject.
 
 "(b)
 
@@ -162,5 +162,5 @@ Regulatory revisions.—If the Administrator determines pursuant to the review u
 
 "(3)
 
-Report.—Not later than March 1, 2010, the Administrator shall submit to the Committees on ArmedServices of the Senate and House of Representatives, the Committee on Homeland Security and Governmental Affairs in the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report setting forth such findings and determinations under subparagraphs (A) and (B) of paragraph (1), together with an assessment of any revisions to the Federal Acquisition Regulation that may be necessary."
+Report.—Not later than March 1, 2010, the Administrator shall submit to the Committees on Armed Services of the Senate and House of Representatives, the Committee on Homeland Security and Governmental Affairs in the Senate, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives a report setting forth such findings and determinations under subparagraphs (A) and (B) of paragraph (1), together with an assessment of any revisions to the Federal Acquisition Regulation that may be necessary."
 

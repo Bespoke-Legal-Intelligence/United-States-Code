@@ -32,7 +32,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (iii) Report to Congress
 
-&emsp;&emsp;&emsp;The Secretary shall submit to the appropriate congressional committees an annualreport of all waivers under this subparagraph.
+&emsp;&emsp;&emsp;The Secretary shall submit to the appropriate congressional committees an annual report of all waivers under this subparagraph.
 
 #### (3) Perimeter distance
 
@@ -80,7 +80,7 @@ The following security requirements shall apply with respect to United States di
 
 &emsp;&emsp;(A) develop annual physical fitness standards for all diplomatic security agents to ensure that the agents are prepared to carry out all of their official responsibilities; and
 
-&emsp;&emsp;(B) provide for an independent evaluation by an outside entity of the overall adequacy of current new agent, in-service, and management training programs to prepare agents to carry out the full scope of diplomatic security responsibilities, including preventing attacks on United States personnel and facilities.
+&emsp;&emsp;(B) provide for an independent evaluation by an outside entity of the overall adequacyof current new agent, in-service, and management training programs to prepare agents to carry out the full scope of diplomatic security responsibilities, including preventing attacks on United States personnel and facilities.
 
 #### (6) State Department support
 
@@ -144,7 +144,7 @@ Subsec. (a)(3)(A). Pub. L. 117–263, §9301(e)(2)(C)(i), amended subpar. (A) ge
 
 Subsec. (a)(3)(B)(i). Pub. L. 117–263, §9301(e)(2)(C)(ii)(I), struck out "security considerations permit and" after "if the Secretary determines that" and inserted "after taking account of any considerations the Secretary in his or her discretion considers relevant, which may include security conditions" after "national interest of the United States".
 
-Subsec. (a)(3)(B)(ii). Pub. L. 117–263, §9301(e)(2)(C)(ii)(II), substituted "Prior" for subcl. (I), subcl. (II) designation and heading, and "Not less than 15 days prior". Prior to amendment, text of subcl. (I) read as follows: "The Secretary may not delegate the waiver authority under clause (i) with respect to a chancery or consulate building."
+Subsec. (a)(3)(B)(ii). Pub. L. 117–263, §9301(e)(2)(C)(ii)(II), substituted "Prior" for subcl. (I), subcl. (II) designation and heading, and "Not less than 15 days prior". Prior to amendment, text of subcl. (I) read as follows: "The Secretary may not delegate thewaiver authority under clause (i) with respect to a chancery or consulate building."
 
 Subsec. (a)(3)(B)(iii). Pub. L. 117–263, §9301(e)(2)(C)(ii)(III), substituted "a quarterly" for "an annual".
 
@@ -153,6 +153,48 @@ Subsec. (a)(3)(B)(iii). Pub. L. 117–263, §9301(e)(2)(C)(ii)(III), substituted
 Subsec. (a)(7). Pub. L. 114–323, §102(2), inserted before period at end ", including at high risk, high threat posts (as such term is defined in section 4803 of this title), including options for the deployment of additional military personnel or equipment to bolster security and rapid deployment of armed or surveillance assets in response to an attack".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Crisis Response Operations
+
+Pub. L. 118–31, div. F, title LXIV, §6404, Dec. 22, 2023, 137 Stat. 997, provided that:
+
+"(a)
+
+In General.—Not later than 120 days after the date of the enactment of this division \[Dec. 22, 2023\], the Secretary \[of State\] shall institute the following changes and ensure that the following elements have been integrated into the ongoing crisis response management and response by the Crisis Management and Strategy Office:
+
+&emsp;"(1) The Department \[of State\]'s crisis response planning and operations shall conduct, maintain, and update on a regular basis contingency plans for posts and regions experiencing or vulnerable to conflict or emergency conditions, including armed conflict, natural disasters, significant political or military upheaval, and emergency evacuations.
+
+&emsp;"(2) The Department's crisis response efforts shall be led by an individual with significant experience responding to prior crises, who shall be so designated by the Secretary.
+
+&emsp;"(3) The Department's crisis response efforts shall provide at least quarterly updates to the Secretary and other relevant senior officials, including a plan and schedule to develop contingency planning for identified posts and regions consistent with paragraph (1).
+
+&emsp;"(4) The decision to develop contingency planning for any particular post or region shall be made independent of any regional bureau.
+
+&emsp;"(5) The crisis response team shall develop and maintain best practices for evacuations, closures, and emergency conditions.
+
+"(b)
+
+Updates.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this division, and every 180 days thereafter for the next five years, the Secretary shall submit to the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\], the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives an update outlining the steps taken to implement this section, along with any other recommendations to improve the Department's crisis management and response operations.
+
+&emsp;"(2)
+
+Contents.—Each update submitted pursuant to paragraph (1) should include—
+
+&emsp;&emsp;"(A) a list of the posts whose contingency plans, including any noncombatant evacuation contingencies, has been reviewed and updated as appropriate during the preceding 180 days; and
+
+&emsp;&emsp;"(B) an assessment of the Secretary's confidence that each post—
+
+&emsp;&emsp;&emsp;"(i) has continuously reached out to United States persons in country to maintain and update contact information for as many such persons as practicable; and
+
+&emsp;&emsp;&emsp;"(ii) is prepared to communicate with such persons in an emergency or crisis situation.
+
+&emsp;"(3)
+
+Form.—Each update submitted pursuant to paragraph (1) shall be submitted in unclassified form, but may include a classified annex."
 
 #### Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in Cuba
 
@@ -186,7 +228,7 @@ Pub. L. 113–293, title III, §314, Dec. 19, 2014, 128 Stat. 4002, provided tha
 
 "(a)
 
-Sensitive Compartmented Information Facility Requirement.—Each United States diplomatic facility that, after the date of the enactment of this Act \[Dec. 19, 2014\], is constructed in, or undergoes a construction upgrade in, the Russian Federation, any country that shares a land border with the Russian Federation, or any country that is a former member ofthe Soviet Union shall be constructed to include a Sensitive Compartmented Information Facility.
+Sensitive Compartmented Information Facility Requirement.—Each United States diplomatic facility that, after the date of the enactment of this Act \[Dec. 19, 2014\], is constructed in, or undergoes a construction upgrade in, the Russian Federation, any country that shares a land border with the Russian Federation, or any country that is a former member of the Soviet Union shall be constructed to include a Sensitive Compartmented Information Facility.
 
 "(b)
 
@@ -262,7 +304,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §602\], Nov. 29, 19
 
 #### Authorizations of Appropriations
 
-Pub. L. 117–263, div. I, title XCVIII, §9801, Dec. 23, 2022, 136 Stat. 3923, provided that: "For the purposes of calculating the costs of providing new United States diplomatic facilities in any fiscal year, in accordance with section 604(e) of the Secure Embassy Construction and Counterterrorism Act of 1999 \[Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI\]\] (22 U.S.C. 4865 note), theSecretary of State, in consultation with the Director of the Office of Management and Budget, shall determine the annual program level and agency shares for such fiscal year in a manner that is proportional to the contribution of the Department of State for this purpose."
+Pub. L. 117–263, div. I, title XCVIII, §9801, Dec. 23, 2022, 136 Stat. 3923, provided that: "For the purposes of calculating the costs of providing new United States diplomatic facilities in any fiscal year, in accordance with section 604(e) of the Secure Embassy Construction and Counterterrorism Act of 1999 \[Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI\]\] (22 U.S.C. 4865 note), the Secretary of State, in consultation with the Director of the Office of Management and Budget, shall determine the annual program level and agency shares for such fiscal year in a manner that is proportional to the contribution of the Department of State for this purpose."
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §604\], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 107–228, div. A, title I, §111(a)(3)(B), Sept. 30, 2002, 116 Stat. 1356; Pub. L. 108–447, div. B, title VI, §629, Dec. 8, 2004, 118 Stat. 2920; Pub. L. 112–74, div. I, title VII, §7004(e), Dec. 23, 2011, 125 Stat. 1194; Pub. L. 114–323, title I, §111(b), Dec. 16, 2016, 130 Stat. 1910, provided that:
 

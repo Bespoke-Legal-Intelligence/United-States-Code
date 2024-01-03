@@ -16,7 +16,7 @@ Funds appropriated pursuant to the authorization under this paragraph shall be a
 
 &emsp;(2) to the portion of the costs of fuel storage and dispensing equipment attributable to such vehicles which exceeds the costs for such purposes required for conventional vehicles; and
 
-&emsp;(3) to the portion of the costs of acquisition of clean-fuel vehicles which represents a reduction in revenue from the disposal of such vehicles as compared to revenue resultingfrom the disposal of comparable conventional vehicles.
+&emsp;(3) to the portion of the costs of acquisition of clean-fuel vehicles which represents a reduction in revenue from the disposal of such vehicles as compared to revenue resulting from the disposal of comparable conventional vehicles.
 
 #### (d) Vehicle costs
 
@@ -40,7 +40,7 @@ There are authorized to be appropriated such sums as may be required to carry ou
 
 #### Codification
 
-In subsec. (b), "sections 601–611 of title 40" substituted for "section 211 of the Federal Property and Administrative Services Act of 1949", and, in subsec. (g), "the General Supply Fund established in section 321 of title 40" substituted for "the General Supply Fund established in section 109 of the Federal Property and Administrative Services Act of 1949", on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (b), "sections 601–611 of title 40" substituted for "section 211 of the Federal Property and Administrative Services Act of 1949", and, in subsec. (g), "the General Supply Fund established in section321 of title 40" substituted for "the General Supply Fund established in section 109 of the Federal Property and Administrative Services Act of 1949", on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(A) identify and invite the participation of youth throughout the United States to enjoy the Nation's parks and wilderness and other outdoor areas, in an education program intended to carry out the purpose of paragraphs (1) and (2) of section 5604 of this title; and
 
-&emsp;&emsp;(B) provide training and education programs and activities to teach Federal employees, natural resource professionals, elementary and secondary school educators, and others to work with youth to promote the use and enjoyment of the Nation's parks and wilderness and other outdoor areas.
+&emsp;&emsp;(B) provide training and education programs and activities to teach Federal employees, natural resource professionals, elementary and secondary school educators, and others to work with youth to promotethe use and enjoyment of the Nation's parks and wilderness and other outdoor areas.
 
 #### (6) Specific programs
 

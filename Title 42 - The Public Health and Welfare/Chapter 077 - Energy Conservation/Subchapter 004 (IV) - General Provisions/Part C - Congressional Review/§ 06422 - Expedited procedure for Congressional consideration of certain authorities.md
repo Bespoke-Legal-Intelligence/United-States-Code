@@ -24,7 +24,7 @@ For the purpose of subsection (b) of this section—
 
 (1) This subsection is enacted by Congress—
 
-&emsp;(A) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described by paragraph (2) of this subsection; and it supersedes other rules only to the extent that it is inconsistent therewith; and
+&emsp;(A) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described by paragraph (2) of this subsection; and it supersedes other rulesonly to the extent that it is inconsistent therewith; and
 
 &emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of the House.
 
@@ -40,7 +40,7 @@ For the purpose of subsection (b) of this section—
 
 (4)(A) If the committee to which a resolution with respect to a contingency plan has been referred has not reported it at the end of 20 calendar days after its referral in the case of any energy conservation contingency plan or at the end of 10 calendar days after its referral in the case of any rationing contingency plan, it shall be in order to move either to discharge the committee from further consideration of such resolution or to discharge the committee from further consideration of any other resolution with respect to such contingency plan which has been referred to the committee.
 
-(B) A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not bemade after the committee has reported a resolution with respect to the same contingency plan), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. Except to the extent provided in paragraph (7)(A), an amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
+(B) A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same contingency plan), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. Except to the extent provided in paragraph (7)(A), an amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
 (C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same contingency plan.
 
@@ -58,7 +58,7 @@ For the purpose of subsection (b) of this section—
 
 &emsp;&emsp;(i) consisting of a motion to discharge such committee from further consideration of a resolution described in paragraph (2)(B)(i) with respect to any rationing contingency plan, if the discharge motion sought to be amended relates to a resolution described in paragraph (2)(B)(ii) with respect to the same such plan, or
 
-&emsp;&emsp;(ii) consisting of a motion to discharge such committee from further consideration of a resolution described in paragraph (2)(B)(ii) with respect to any rationing contingency plan, if the discharge motion sought to be amended relates to a resolution described in paragraph (2)(B)(i) with respect to the same such plan.
+&emsp;&emsp;(ii) consisting of a motion to discharge such committee from further consideration of a resolution described in paragraph (2)(B)(ii) with respect to any rationing contingency plan, if the discharge motion sought to be amended relates to a resolutiondescribed in paragraph (2)(B)(i) with respect to the same such plan.
 
 > &emsp;An amendment described in this subparagraph shall not be amendable. Debate on such an amendment shall be limited to not more than 1 hour, which shall be divided equally between those favoring and those opposing the amendment.
 

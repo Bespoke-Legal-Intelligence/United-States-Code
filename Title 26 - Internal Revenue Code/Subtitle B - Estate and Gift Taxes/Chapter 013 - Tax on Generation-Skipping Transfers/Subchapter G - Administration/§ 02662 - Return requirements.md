@@ -8,7 +8,7 @@ The Secretary shall prescribe by regulations the person who is required to make 
 
 &emsp;(2) the return shall be filed—
 
-&emsp;&emsp;(A) in the case of a direct skip (other than from a trust), on or before the date on whichan estate or gift tax return is required to be filed with respect to the transfer, and
+&emsp;&emsp;(A) in the case of a direct skip (other than from a trust), on or before the date on which an estate or gift tax return is required to be filed with respect to the transfer, and
 
 &emsp;&emsp;(B) in all other cases, on or before the 15th day of the 4th month after the close of the taxable year of the person required to make such return in which such transfer occurs.
 

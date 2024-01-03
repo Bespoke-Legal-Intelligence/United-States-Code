@@ -40,7 +40,7 @@
 
 <b>2006</b>—Pub. L. 109–364, div. A, title X, §1053(a)(2), Oct. 17, 2006, 120 Stat. 2396, added item 2773b.
 
-<b>2002</b>—Pub. L. 107–314, div. A, title X, §§1005(b), 1006(a)(2), 1007(b)(2), 1008(b), Dec. 2, 2002, 116 Stat. 2632–2635, substituted "purchase" for "credit" in item 2784 and added items 2773a, 2784a, and 2787.
+<b>2002</b>—Pub. L. 107–314, div. A, title X, §§1005(b), 1006(a)(2), 1007(b)(2), 1008(b), Dec. 2, 2002, 116 Stat.2632–2635, substituted "purchase" for "credit" in item 2784 and added items 2773a, 2784a, and 2787.
 
 <b>1999</b>—Pub. L. 106–65, div. A, title IX, §933(a)(2), title X, §1008(a)(2), Oct. 5, 1999, 113 Stat. 730, 738, added items 2784 to 2786.
 

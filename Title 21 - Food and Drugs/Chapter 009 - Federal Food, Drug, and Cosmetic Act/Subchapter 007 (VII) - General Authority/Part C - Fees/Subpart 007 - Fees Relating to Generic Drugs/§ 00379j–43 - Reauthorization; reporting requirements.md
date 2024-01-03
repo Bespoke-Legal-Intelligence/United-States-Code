@@ -24,7 +24,7 @@
 
 &emsp;The Secretary shall include in the annual report under paragraph (1)—
 
-&emsp;&emsp;(A) data, analysis, and discussion of the changes in the number of individuals hired as agreed upon in the letters described in section 3001(b) of the Generic Drug User Fee Amendments of 2022 and the number of remaining vacancies, the number of full-time equivalents funded by fees collected pursuant to section 379j–42 of this title, and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
+&emsp;&emsp;(A) data, analysis, and discussion of the changes in the number of individuals hired as agreed upon in the letters described in section 3001(b) of the Generic Drug User Fee Amendments of 2022 and the number of remaining vacancies, the number of full-time equivalents funded by fees collected pursuant to section 379j–42 of this title, and the number of full time equivalents funded bybudget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
 
 &emsp;&emsp;(B) data, analysis, and discussion of the changes in the fee revenue amounts and costs for human generic drug activities, including—
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) Relevant data to determine whether the Food and Drug Administration has met the performance enhancement goals identified by the letters described in section 301(b) <sup>1</sup> of the Generic Drug User Fee Amendments of 2022 for the applicable fiscal year.
 
-&emsp;&emsp;(C) The most common causes and trends for external or other circumstances that affected the ability of the Secretary to meet review time and performance enhancement goals identified by the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2022.
+&emsp;&emsp;(C) The most common causes and trends for external or other circumstances that affected the ability of the Secretary to meet review time and performance enhancement goals identified by the letters described in section 301(b) <sup>1</sup> of the Generic Drug User Fee Amendments of 2022.
 
 #### (b) Fiscal report
 
@@ -78,7 +78,7 @@ For each fiscal year for which fees are collected under this subpart, the Secret
 
 #### (2) Participation in congressional hearing
 
-&emsp;Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
+&emsp;Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy andCommerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
 
 #### (e) Public availability
 
@@ -144,7 +144,7 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 #### (A) Public availability
 
-&emsp;&emsp;The Secretary shall make publicly available, on the Internet Web site of the Foodand Drug Administration, minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the generic drug industry, not later than 30 days after each such negotiation meeting.
+&emsp;&emsp;The Secretary shall make publicly available, on the Internet Web site of the Food and Drug Administration, minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the generic drug industry, not later than 30 days after each such negotiation meeting.
 
 #### (B) Content
 

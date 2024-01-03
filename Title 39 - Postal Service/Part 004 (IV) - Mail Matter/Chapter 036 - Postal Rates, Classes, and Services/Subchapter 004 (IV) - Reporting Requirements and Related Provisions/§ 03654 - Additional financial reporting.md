@@ -8,7 +8,7 @@ Additional Financial Reporting.—
 
 In general.—The Postal Service shall file with the Postal Regulatory Commission beginning with the first full fiscal year following the effective date of this section—
 
-&emsp;&emsp;(A) within 40 days after the end of each fiscal quarter, a quarterly report containing the information required by the Securities and Exchange Commission to be included in quarterly reports under sections 13 and 15(d) of the Securities Exchange Act of 1934 (15U.S.C. 78m, 78o(d)) on Form 10–Q, as such Form (or any successor form) may be revised from time to time;
+&emsp;&emsp;(A) within 40 days after the end of each fiscal quarter, a quarterly report containing the information required by the Securities and Exchange Commission to be included in quarterly reports under sections 13 and 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m, 78o(d)) on Form 10–Q, as such Form (or any successor form) may be revised from time to time;
 
 &emsp;&emsp;(B) within 60 days after the end of each fiscal year, an annual report containing the information required by the Securities and Exchange Commission to be included in annual reports under such sections on Form 10–K, as such Form (or any successor form) may be revised from time to time; and
 
@@ -76,7 +76,7 @@ In general.—If the Postal Service determines that any document or portion of a
 
 &emsp;(2)
 
-Treatment.—Any information or other matter described in paragraph (1) to which the Commission gains access under this section shall be subject to paragraphs (2) and (3) of section 504(g) in the same way as if the Commission had received notification with respect to such matter under section 504(g)(1).
+Treatment.—Any information or other matter described in paragraph (1) to which the Commission gains access under this sectionshall be subject to paragraphs (2) and (3) of section 504(g) in the same way as if the Commission had received notification with respect to such matter under section 504(g)(1).
 
 (Added Pub. L. 109–435, title II, §204(b), Dec. 20, 2006, 120 Stat. 3214.)
 

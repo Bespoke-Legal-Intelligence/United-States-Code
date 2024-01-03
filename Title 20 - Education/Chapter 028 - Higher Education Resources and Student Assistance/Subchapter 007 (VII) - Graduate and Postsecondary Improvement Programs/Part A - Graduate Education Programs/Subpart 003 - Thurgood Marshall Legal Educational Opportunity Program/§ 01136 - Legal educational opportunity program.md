@@ -40,7 +40,7 @@ The Secretary is authorized to enter into a contract with, or make a grant to, t
 
 #### (d) Services provided
 
-In carrying out the purposes described in subsection (c), the contract or grant shall provide for the delivery of services through pre-college programs, undergraduate prelaw information resource centers, summer institutes, midyear seminars, and other educational activities, conducted under this section. Such services may include—
+In carrying out the purposes described in subsection (c), the contract or grant shall providefor the delivery of services through pre-college programs, undergraduate prelaw information resource centers, summer institutes, midyear seminars, and other educational activities, conducted under this section. Such services may include—
 
 &emsp;(1) information and counseling regarding—
 
@@ -98,7 +98,7 @@ Another prior section 1136, Pub. L. 89–329, title XI, §1101, as added Pub. L.
 
 Another prior section 1136, Pub. L. 89–329, title XI, §1101, as added Pub. L. 96–374, title XI, §1101, Oct. 3, 1980, 94 Stat. 1491, stated Congressional findings and declaration of purpose, prior to the general amendment of subchapter XI of this chapter by Pub. L. 99–498.
 
-Another prior section 1136, Pub. L. 89–329, title XI, §1101, as added Pub. L. 90–575, title II, §281, Oct. 16, 1968,82 Stat. 1048; amended Pub. L. 92–318, title I, §191(a), (b), June 23, 1972, 86 Stat. 323, authorized a program for grants and contracts covering the establishment of a law school clinical experiences regimen, prior to the general amendment of subchapter XI of this chapter by Pub. L. 96–374.
+Another prior section 1136, Pub. L. 89–329, title XI, §1101, as added Pub. L. 90–575, title II, §281, Oct. 16, 1968, 82 Stat. 1048; amended Pub. L. 92–318, title I, §191(a), (b), June 23, 1972, 86 Stat. 323, authorized a program for grants and contracts covering the establishment of a law school clinical experiences regimen, prior to the general amendment of subchapter XI of this chapter by Pub. L. 96–374.
 
 A prior section 721 of Pub. L. 89–329 was renumbered section 341 and is classified to section 1066 of this title.
 

@@ -58,7 +58,7 @@ Subsec. (d). Pub. L. 94–187, §601(1), (3), (6), substituted "Administrator" f
 
 Subsec. (e). Pub. L. 94–187, §601(1), (4), substituted "Administrator" for "Commission" in two places and struck out "itself" after "shall assure".
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–190, §2(1), authorized the Commission, with respect to the cities of Oak Ridge, Tenn., and Richland, Wash., and the Richland School District, to continue to make assistance payments of just and reasonable sums after the expiration of the ten-year period following the date of transfer of any municipal installation, and added par. (5).
+<b>1967</b>—Subsec. (a). Pub. L. 90–190, §2(1), authorized the Commission, with respect to the cities of Oak Ridge, Tenn., and Richland, Wash., and the Richland School District, to continue to make assistance payments of just and reasonable sums after the expiration of theten-year period following the date of transfer of any municipal installation, and added par. (5).
 
 Subsec. (d). Pub. L. 90–190, §2(2), inserted "(or not less than six months prior to June 30, 1979, in the case of the Cities of Oak Ridge, Tennessee, and Richland, Washington, and the Richland School District)," after "subsection (a) of this section", substituted "assistance" for "contribution", and struck out requirement that if Commission proposes further contribution payments, it shall propose a definite schedule of such payments which will provide for an orderly and reasonably prompt withdrawal of Commission from participation in and contribution toward local government.
 
@@ -96,7 +96,7 @@ In General.—The Secretary of Energy shall—
 
 &emsp;"(2) notwithstanding paragraph (1) and the agreement under subsection (e), convey, without consideration, to the Board of Education of the Los Alamos Public Schools, New Mexico, within the County, fee title to the parcels of land identified by the Department of Energy as Parcel A–8 and Parcel A–15–1 that are currently located in Technical Area–21 of Los Alamos National Laboratory upon the entry of Los Alamos Public Schools and the County into an agreement for the use of the parcel of land identified as Parcel A–8; and
 
-&emsp;"(3) transfer to the Secretary of the Interior, in trust for the Pueblo of San Ildefonso (in this sectionreferred to as the 'Pueblo'), administrative jurisdiction over the parcels that are allocated for transfer to the Secretary of the Interior in such agreement.
+&emsp;"(3) transfer to the Secretary of the Interior, in trust for the Pueblo of San Ildefonso (in this section referred to as the 'Pueblo'), administrative jurisdiction over the parcels that are allocated for transfer to the Secretary of the Interior in such agreement.
 
 "(b)
 
@@ -170,7 +170,7 @@ Pub. L. 99–145, title XV, §1532, Nov. 8, 1985, 99 Stat. 773, as amended by Pu
 
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 
-Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to any authorization or appropriation for any military application of nuclear energy,etc., see section 209 of Pub. L. 95–238, Feb. 25, 1978, 92 Stat. 76, set out as a note under section 5821 of this title.
+Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to any authorization or appropriation for any military application of nuclear energy, etc., see section 209 of Pub. L. 95–238, Feb. 25, 1978, 92 Stat. 76, set out as a note under section 5821 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

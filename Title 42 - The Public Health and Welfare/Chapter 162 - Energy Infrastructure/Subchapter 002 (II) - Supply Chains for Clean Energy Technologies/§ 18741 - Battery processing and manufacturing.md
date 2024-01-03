@@ -60,7 +60,7 @@ In this section:
 
 #### (7) Processing
 
-&emsp;The term "processing", with respect to battery material, means the refining of materials,including the treating, baking, and coating processes used to convert raw products into constituent materials employed directly in advanced battery manufacturing.
+&emsp;The term "processing", with respect to battery material, means the refining of materials, including the treating, baking, and coating processes used to convert raw products into constituent materials employed directly in advanced battery manufacturing.
 
 #### (8) Recycling
 
@@ -210,7 +210,7 @@ In this section:
 
 #### (4) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to the Secretary to carry out the program $3,000,000,000 for the period of fiscal years 2022 through 2026, to remain available until expended.
+&emsp;There is authorized to be appropriated to the Secretary to carry out the program$3,000,000,000 for the period of fiscal years 2022 through 2026, to remain available until expended.
 
 #### (d) Reporting requirements
 
@@ -388,7 +388,7 @@ Not later than 1 year after November 15, 2021, and annually thereafter, the Secr
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To be eligible to receive a grant under subparagraph (A), an eligible entity described in subparagraph (B) shall submitto the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;&emsp;&emsp;To be eligible to receive a grant under subparagraph (A), an eligible entity described in subparagraph (B) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (ii) Contents
 
@@ -484,7 +484,7 @@ Not later than 1 year after November 15, 2021, and annually thereafter, the Secr
 
 #### References in Text
 
-Section 2533c(d) of title 10, referred to subsec. (a)(5)(C), was renumbered section 4872(d) of title 10 by Pub. L. 116–283, div. A, title XVIII, §1870(d)(2), Jan. 1, 2021, 134 Stat. 4286, as amended by Pub. L. 117–81, div.A, title XVII, §1701(t)(2)(B), (C), Dec. 27, 2021, 135 Stat. 2150.
+Section 2533c(d) of title 10, referred to subsec. (a)(5)(C), was renumbered section 4872(d) of title 10 by Pub. L. 116–283, div. A, title XVIII, §1870(d)(2), Jan. 1, 2021, 134 Stat. 4286, as amended by Pub. L. 117–81, div. A, title XVII, §1701(t)(2)(B), (C), Dec. 27, 2021, 135 Stat. 2150.
 
 The Arms Export Control Act, referred to in subsec. (a)(5)(D)(iv), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 

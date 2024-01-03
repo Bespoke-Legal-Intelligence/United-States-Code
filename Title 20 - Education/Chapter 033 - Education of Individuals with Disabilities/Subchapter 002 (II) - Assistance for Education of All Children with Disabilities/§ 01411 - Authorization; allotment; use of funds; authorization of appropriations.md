@@ -44,7 +44,7 @@
 
 &emsp;&emsp;From the amount appropriated for any fiscal year under subsection (i), the Secretary shall reserve not more than 1 percent, which shall be used—
 
-&emsp;&emsp;&emsp;(i) to provide assistance to the outlying areas in accordance with their respectivepopulations of individuals aged 3 through 21; and
+&emsp;&emsp;&emsp;(i) to provide assistance to the outlying areas in accordance with their respective populations of individuals aged 3 through 21; and
 
 &emsp;&emsp;&emsp;(ii) to provide each freely associated State a grant in the amount that such freely associated State received for fiscal year 2003 under this subchapter, but only if the freely associated State meets the applicable requirements of this subchapter, as well as the requirements of section 1411(b)(2)(C) of this title as such section was in effect on the day before December 3, 2004.
 
@@ -64,7 +64,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may reserve not more than ½ of 1 percent of the amounts appropriated under this subchapter for each fiscal year to provide technical assistance activities authorized under section 1416(i) of this title.
+&emsp;The Secretary may reserve not more than ½ of 1 percent of the amounts appropriated under this subchapter for each fiscal year to providetechnical assistance activities authorized under section 1416(i) of this title.
 
 #### (2) Maximum amount
 
@@ -204,7 +204,7 @@
 
 #### (ii) Small State adjustment
 
-&emsp;&emsp;&emsp;Notwithstanding clause (i) and except as provided in clause (iii), in the case of aState for which the maximum amount reserved for State administration is not greater than $850,000, the State may reserve for the purpose of carrying out State-level activities for each of the fiscal years 2005 and 2006, not more than 10.5 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, such State may reserve the maximum amount the State was eligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
+&emsp;&emsp;&emsp;Notwithstanding clause (i) and except as provided in clause (iii), in the case of a State for which the maximum amount reserved for State administration is not greater than $850,000, the State may reserve for the purpose of carrying out State-level activities for each of the fiscal years 2005 and 2006, not more than 10.5 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, such State may reserve the maximum amount the State was eligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
 
 #### (iii) Exception
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) to establish and make disbursements from the high cost fund to local educational agencies in accordance with this paragraph during the first and succeeding fiscal years of the high cost fund; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to support innovative and effective ways of cost sharing by the State, by a local educational agency, or among a consortium of local educational agencies, as determined by the State in coordination with representatives fromlocal educational agencies, subject to subparagraph (B)(ii).
+&emsp;&emsp;&emsp;&emsp;(II) to support innovative and effective ways of cost sharing by the State, by a local educational agency, or among a consortium of local educational agencies, as determined by the State in coordination with representatives from local educational agencies, subject to subparagraph (B)(ii).
 
 #### (ii) Definition of local educational agency
 
@@ -282,7 +282,7 @@
 
 #### (ii) State plan
 
-&emsp;&emsp;&emsp;The State educational agency shall develop, not later than 90 days after the State reserves funds under this paragraph, annually review, and amend as necessary, a State plan for the high cost fund. Such State plan shall—
+&emsp;&emsp;&emsp;The State educational agency shall develop, not later than 90 days after theState reserves funds under this paragraph, annually review, and amend as necessary, a State plan for the high cost fund. Such State plan shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) establish, in coordination with representatives from local educational agencies, a definition of a high need child with a disability that, at a minimum—
 
@@ -332,7 +332,7 @@
 
 #### (H) Medicaid services not affected
 
-&emsp;&emsp;Disbursements provided under this paragraph shall not be used to pay costs thatotherwise would be reimbursed as medical assistance for a child with a disability under the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
+&emsp;&emsp;Disbursements provided under this paragraph shall not be used to pay costs that otherwise would be reimbursed as medical assistance for a child with a disability under the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
 
 #### (I) Remaining funds
 
@@ -452,7 +452,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;With funds appropriated under subsection (i), the Secretary of Education shall make payments to the Secretary of the Interior to be distributed to tribes or tribal organizations (as defined under section 5304 of title 25) or consortia of tribes or tribal organizations to provide for the coordination of assistance for special education and related services for children with disabilities aged 3 through 5 on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount ofsuch payments under subparagraph (B) for any fiscal year shall be equal to 20 percent of the amount allotted under subsection (b)(2).
+&emsp;&emsp;With funds appropriated under subsection (i), the Secretary of Education shall make payments to the Secretary of the Interior to be distributed to tribes or tribal organizations (as defined under section 5304 of title 25) or consortia of tribes or tribal organizations to provide for the coordination of assistance for special education and related services for children with disabilities aged 3 through 5 on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payments under subparagraph (B) for any fiscal year shall be equal to 20 percent of the amount allotted under subsection (b)(2).
 
 #### (B) Distribution of funds
 
@@ -464,7 +464,7 @@ In this section:
 
 #### (D) Use of funds
 
-&emsp;&emsp;The funds received by a tribe or tribal organization shall be used to assist in child find, screening, and other procedures for the early identification of children aged 3 through 5, parent training, and the provision of direct services. These activities may be carried out directly or through contracts or cooperative agreements with the BIA, local educational agencies, and other public or private nonprofit organizations. The tribe or tribal organization is encouraged to involve Indian parents in the development and implementation of these activities. The tribe or tribal organization shall, as appropriate, make referrals to local, State, or Federal entities for the provision of services or further diagnosis.
+&emsp;&emsp;The funds received by a tribe or tribal organization shall be used to assist in child find, screening, and other procedures for the early identification of children aged 3 through 5, parent training, and the provision of direct services. These activities may be carried out directly or through contracts or cooperative agreements with the BIA, local educational agencies, and other public or private nonprofit organizations. The tribe or tribal organization is encouraged to involve Indian parents in the development and implementation of these activities. The tribe or tribal organization shall, as appropriate,make referrals to local, State, or Federal entities for the provision of services or further diagnosis.
 
 #### (E) Biennial report
 
@@ -496,7 +496,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The advisory board established under paragraph (6) shall prepare and submit to the Secretary of the Interior and to Congress anannual report containing a description of the activities of the advisory board for the preceding year.
+&emsp;&emsp;The advisory board established under paragraph (6) shall prepare and submit to the Secretary of the Interior and to Congress an annual report containing a description of the activities of the advisory board for the preceding year.
 
 #### (B) Availability
 
@@ -530,7 +530,7 @@ For the purpose of carrying out this subchapter, other than section 1419 of this
 
 Public Law 95–134, referred to in subsec. (b)(1)(B), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
 
-The Social Security Act, referred to in subsec. (e)(3)(H), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (e)(3)(H), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 

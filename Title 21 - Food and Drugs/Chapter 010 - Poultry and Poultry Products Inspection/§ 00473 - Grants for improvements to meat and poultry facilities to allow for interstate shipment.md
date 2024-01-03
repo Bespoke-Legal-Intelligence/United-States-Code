@@ -80,7 +80,7 @@ A facility that receives a grant under this section may use the grant amount for
 
 #### (2) Report on the cooperative interstate shipment program
 
-&emsp;Beginning not later than 1 year after December 27, 2020, the Secretary shall submit to the Committee on Agriculture and the Committee on Appropriations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry and the Committee on Appropriations of the Senate a report describing any recommendations, developed in consultation with all States, for possible improvements to the cooperative interstate shipment programs under section 501 of the Federal Meat Inspection Act (21 U.S.C. 683) and section 31 of the Poultry Products Inspection Act (21 U.S.C. 472).
+&emsp;Beginning not later than 1 year after December 27, 2020, the Secretary shall submit to theCommittee on Agriculture and the Committee on Appropriations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry and the Committee on Appropriations of the Senate a report describing any recommendations, developed in consultation with all States, for possible improvements to the cooperative interstate shipment programs under section 501 of the Federal Meat Inspection Act (21 U.S.C. 683) and section 31 of the Poultry Products Inspection Act (21 U.S.C. 472).
 
 #### (f) Funding
 
@@ -94,7 +94,7 @@ Of the funds of the Treasury not otherwise appropriated, there is appropriated t
 
 The Federal Meat Inspection Act, referred to in subsecs. (a)(1), (2)(A), and (d)(2)(A)(i), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, §11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
-The Poultry Products Inspection Act, referred to in subsecs. (a)(1), (2)(B), and (d)(2)(A)(i), is Pub. L. 85–172,Aug. 28, 1957, 71 Stat. 441, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
+The Poultry Products Inspection Act, referred to in subsecs. (a)(1), (2)(B), and (d)(2)(A)(i), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
 
 #### Codification
 

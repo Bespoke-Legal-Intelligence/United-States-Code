@@ -78,7 +78,7 @@ In this section:
 
 #### Prior Provisions
 
-A prior section 712, act Aug. 14, 1935, ch. 531, title V, §512, as added Jan. 2, 1968, Pub. L. 90–248, title III, §301, 81 Stat. 927, which provided for research projects relating to maternal and child health services and crippled children's services, was omitted in the general revisionof this subchapter by Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818.
+A prior section 712, act Aug. 14, 1935, ch. 531, title V, §512, as added Jan. 2, 1968, Pub. L. 90–248, title III, §301, 81 Stat. 927, which provided for research projects relating to maternal and child health services and crippled children's services, was omitted in the general revision of this subchapter by Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818.
 
 Another prior section 712, acts Aug. 14, 1935, ch. 531, title V, §512, 49 Stat. 631; Aug. 10, 1939, ch. 666, title V, §505, 53 Stat. 1380; 1946 Reorg. Plan. No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §401(b)(5), (6), 60 Stat. 986; Aug. 28, 1950, ch. 809, title III, pt. 3, §331(d), pt. 6, §361(e), 64 Stat. 552, 558; Aug. 28, 1958, Pub. L. 85–840, title VI, §603(b), (c), 72 Stat. 1055; Sept. 13, 1960, Pub. L. 86–778, title VII, §707(a)(2)(B), (C), (b)(2)(A), 74 Stat. 996; Oct. 24, 1963, Pub. L. 88–156, §3(b), (c), 77 Stat. 274, which provided for allotment to States for services for crippled children, was covered by former section 704 of this title.
 

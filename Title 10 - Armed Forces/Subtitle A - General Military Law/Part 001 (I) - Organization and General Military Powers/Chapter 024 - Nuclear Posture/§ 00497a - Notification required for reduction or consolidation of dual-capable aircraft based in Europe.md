@@ -2,7 +2,7 @@
 
 (a)
 
-Notification.—Not less than 90 days before the date on which the Secretary of Defense reduces or consolidates the dual-capable aircraftof the United States that are based in Europe, the Secretary shall submit to the congressional defense committees a notification of such planned reduction or consolidation, including the following:
+Notification.—Not less than 90 days before the date on which the Secretary of Defense reduces or consolidates the dual-capable aircraft of the United States that are based in Europe, the Secretary shall submit to the congressional defense committees a notification of such planned reduction or consolidation, including the following:
 
 &emsp;(1) The reasons for such planned reduction or consolidation.
 

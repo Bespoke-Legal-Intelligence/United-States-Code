@@ -30,7 +30,7 @@ Beginning on the date that is 180 days after August 14, 2008, it shall be unlawf
 
 &emsp;&emsp;&emsp;(v) review all relevant data, including the most recent, best-available, peer-reviewed, scientific studies of these phthalates and phthalate alternatives that employ objective data collection practices or employ other objective methods;
 
-&emsp;&emsp;&emsp;(vi) consider the health effects of phthalates not only from ingestion butalso as a result of dermal, hand-to-mouth, or other exposure;
+&emsp;&emsp;&emsp;(vi) consider the health effects of phthalates not only from ingestion but also as a result of dermal, hand-to-mouth, or other exposure;
 
 &emsp;&emsp;&emsp;(vii) consider the level at which there is a reasonable certainty of no harm to children, pregnant women, or other susceptible individuals and their offspring, considering the best available science, and using sufficient safety factors to account for uncertainties regarding exposure and susceptibility of children, pregnant women, and other potentially susceptible individuals; and
 
@@ -122,7 +122,7 @@ Subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shal
 
 #### References in Text
 
-August 12, 2011, referred to in subsec. (c), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 112–28, which enacted subsec. (c), to reflect the probable intent of Congress.
+August 12, 2011, referred to in subsec. (c), was in the original "the date of enactment of this Act", which wastranslated as meaning the date of enactment of Pub. L. 112–28, which enacted subsec. (c), to reflect the probable intent of Congress.
 
 The Consumer Product Safety Act, referred to in subsec. (f), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 

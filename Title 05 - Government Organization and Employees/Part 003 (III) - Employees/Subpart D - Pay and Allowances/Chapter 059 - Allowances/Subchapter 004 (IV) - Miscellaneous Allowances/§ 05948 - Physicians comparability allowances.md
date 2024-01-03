@@ -94,11 +94,11 @@ Section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 
 
 <b>2000</b>—Subsec. (d). Pub. L. 106–571, §2(a)(1), struck out second sentence which read as follows: "No agreement shall be entered into under this section later than September 30, 2005, nor shall any agreement cover a period of service extending beyond September 30, 2007."
 
-Pub. L. 106–554 amended second sentence generally. Prior to amendment, second sentence read as follows: "No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002."
+Pub. L. 106–554 amended second sentence generally. Prior to amendment, second sentence read as follows: "No agreement shall be entered into under this sectionlater than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002."
 
 Subsec. (h)(1). Pub. L. 106–571, §3(d), substituted "chapter 81 or 87" for "chapter 81, 83, or 87".
 
-Subsec. (j). Pub. L. 106–571, §2(b), in par. (1), substituted "(j)" for "(j)(1)", redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, in par. (5), substituted "paragraph (2)" for "subparagraph (B)", and struck out former par. (2) which read as follows: "In addition to the information required under paragraph (1),the last report due under this subsection before the expiration of the authority to enter into agreements under this section shall include—
+Subsec. (j). Pub. L. 106–571, §2(b), in par. (1), substituted "(j)" for "(j)(1)", redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, in par. (5), substituted "paragraph (2)" for "subparagraph (B)", and struck out former par. (2) which read as follows: "In addition to the information required under paragraph (1), the last report due under this subsection before the expiration of the authority to enter into agreements under this section shall include—
 
 &emsp;"(A) recommendations as to whether or not such authority should be continued beyond September 30, 2000, and, if so, by what period of time; and
 
@@ -176,11 +176,11 @@ Pub. L. 98–168, title I, §101, Nov. 29, 1983, 97 Stat. 1105, provided that: "
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–141, §1, Dec. 29, 1981, 95 Stat. 1719, provided: "That this Act \[amending this section and section 8344 of this title and provisions set out below and enacting provisions set out as notes under this section and section 8344 of this title\] may be cited as the 'Federal Physicians Comparability Allowance Amendments of 1981'."
+Pub. L. 97–141, §1, Dec. 29, 1981, 95 Stat. 1719, provided: "That this Act \[amending this section and section 8344of this title and provisions set out below and enacting provisions set out as notes under this section and section 8344 of this title\] may be cited as the 'Federal Physicians Comparability Allowance Amendments of 1981'."
 
 #### Short Title of 1979 Amendment
 
-Pub. L. 96–166, §1, Dec. 29, 1979, 93 Stat. 1273, provided: "That this Act \[amending this section and section 5383of this title and provisions set out as a note under this section, and enacting provisions set out below\] may be cited as the 'Federal Physicians Comparability Allowance Amendments of 1979'."
+Pub. L. 96–166, §1, Dec. 29, 1979, 93 Stat. 1273, provided: "That this Act \[amending this section and section 5383 of this title and provisions set out as a note under this section, and enacting provisions set out below\] may be cited as the 'Federal Physicians Comparability Allowance Amendments of 1979'."
 
 #### Short Title
 

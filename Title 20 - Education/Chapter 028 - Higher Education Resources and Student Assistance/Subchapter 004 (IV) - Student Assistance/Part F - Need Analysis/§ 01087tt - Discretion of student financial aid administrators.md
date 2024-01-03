@@ -14,7 +14,7 @@ A student financial aid administrator shall be considered to be making a necessa
 
 #### (c) Refusal or adjustment of loan certifications
 
-On a case-by-case basis, an eligible institution may refuse to certify a statement that permits a student to receive a loan under part B or D, or may certify a loan amount or make a loan that is less than the student's determination of need (as determined under this part), if the reason for the action is documented and provided in written form to the student. No eligible institution shall discriminate against any borrower or applicant in obtaining a loan on the basis of race, national origin, religion, sex, marital status, age, or disability status.
+On a case-by-case basis, an eligible institution may refuse to certify a statement that permits a student to receive a loan under part B or D, or may certify a loan amount or make a loan thatis less than the student's determination of need (as determined under this part), if the reason for the action is documented and provided in written form to the student. No eligible institution shall discriminate against any borrower or applicant in obtaining a loan on the basis of race, national origin, religion, sex, marital status, age, or disability status.
 
 (Pub. L. 89–329, title IV, §479A, as added Pub. L. 100–50, §14(26), June 3, 1987, 101 Stat. 352; amended Pub. L. 101–239, title II, §2009, Dec. 19, 1989, 103 Stat. 2122; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 605; Pub. L. 103–208, §2(g)(16), Dec. 20, 1993, 107 Stat. 2473; Pub. L. 105–244, title IV, §478, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 110–84, title VI, §603(a), Sept. 27, 2007, 121 Stat. 805; Pub. L. 110–315, title IV, §472(a), Aug. 14, 2008, 122 Stat. 3269; Pub. L. 113–128, title V, §512(n)(3), July 22, 2014, 128 Stat. 1710; Pub. L. 116–260, div. FF, title VII, §702(i), Dec. 27, 2020, 134 Stat. 3155.)
 
@@ -76,7 +76,7 @@ On a case-by-case basis, an eligible institution may refuse to certify a stateme
 
 &emsp;&emsp;&emsp;<i>(iii) a documented phone call or a written statement from an attorney, a guardian ad litem, or a court-appointed special advocate, or a person serving in a similar capacity which confirms the specific unusual circumstances and documents the person's relationship to the student;</i>
 
-&emsp;&emsp;&emsp;<i>(iv) a documented phone call or written statement from a representative under division 1 or 2 of subpart 2 of part A, which con</i><i>firms the specific unusual circumstances and documents the representative's relationship to the student;</i>
+&emsp;&emsp;&emsp;<i>(iv) a documented phone call or written statement from a representative under division 1 or 2 of subpart 2 of part A, which confirms the specific unusual circumstances and documents the representative's relationship to the student;</i>
 
 &emsp;&emsp;&emsp;<i>(v) documents, such as utility bills or health insurance documentation, that demonstrate a separation from parents or legal guardians; and</i>
 
@@ -86,7 +86,7 @@ On a case-by-case basis, an eligible institution may refuse to certify a stateme
 
 #### <i>(4) Special rule</i>
 
-&emsp;<i>In making adjustments under paragraph (1), a financial aid administrator may offer a dependent student financial assistance under a Federal Direct Unsubsidized Stafford Loan without requiring the parents of such student to provide their parent information on the Free Application for Federal Student Aid if the student does not qualify for, or does not choose to use, the unusual circumstance option described in section 1087vv(d)(9) of this title, and the financial aid administrator determines that the parents of such student ended financial support of such student or refuse to file such form.</i>
+&emsp;<i>In making adjustments under paragraph (1), a financial aid administrator may offer a dependent</i><i>student financial assistance under a Federal Direct Unsubsidized Stafford Loan without requiring the parents of such student to provide their parent information on the Free Application for Federal Student Aid if the student does not qualify for, or does not choose to use, the unusual circumstance option described in section 1087vv(d)(9) of this title, and the financial aid administrator determines that the parents of such student ended financial support of such student or refuse to file such form.</i>
 
 #### <i>(5) Public disclosure</i>
 
@@ -160,7 +160,7 @@ On a case-by-case basis, an eligible institution may refuse to certify a stateme
 
 &emsp;&emsp;<i>The Secretary shall—</i>
 
-&emsp;&emsp;&emsp;<i>(i) enable each student who, based on an unusual circumstance described in section 1087vv(d)(9) of this title, may qualify for an adjustment under subsection (a)(1)(B) that will result in a determination of independence</i><i>under this section or section 1087uu–2 of this title to complete the Free Application for Federal Student Aid as an independent student for the purpose of a provisional determination of the student's Federal financial aid award, with the final determination of the award subject to the documentation requirements of subsection (a)(3);</i>
+&emsp;&emsp;&emsp;<i>(i) enable each student who, based on an unusual circumstance described in section 1087vv(d)(9) of this title, may qualify for an adjustment under subsection (a)(1)(B) that will result in a determination of independence under this section or section 1087uu–2 of this title to complete the Free Application for Federal Student Aid as an independent student for the purpose of a provisional determination of the student's Federal financial aid award, with the final determination of the award subject to the documentation requirements of subsection (a)(3);</i>
 
 &emsp;&emsp;&emsp;<i>(ii) upon completion of the Free Application for Federal Student Aid provide an estimate of the student's Federal Pell Grant award, and other information as specified in section 1090(a)(3)(A) of this title, based on the assumption that the student is determined to be an independent student; and</i>
 
@@ -214,7 +214,7 @@ On a case-by-case basis, an eligible institution may refuse to certify a stateme
 
 #### <i>(3) Program reviews</i>
 
-&emsp;<i>The Secretary shall make adjustments to the model used to select institutions of higher education participating under this subchapter for program reviews in order to account for any rise</i><i>in the use of professional judgment under this section during the award years applicable to the qualifying emergency, as determined by the Secretary.</i>
+&emsp;<i>The Secretary shall make adjustments to the model used to select institutions of higher education participating under this subchapter for program reviews in order to account for any rise in the use of professional judgment under this section during the award years applicable to the qualifying emergency, as determined by the Secretary.</i>
 
 #### <i>(4) Qualifying emergency</i>
 
@@ -232,7 +232,7 @@ On a case-by-case basis, an eligible institution may refuse to certify a stateme
 
 #### Prior Provisions
 
-A prior section 1087tt, Pub. L. 89–329, title IV, §479A, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472, related to discretion of student financial aid administrators under this part, prior to repeal by section 14(26) of Pub. L. 100–50.
+A prior section 1087tt, Pub. L. 89–329, title IV, §479A, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986,100 Stat. 1472, related to discretion of student financial aid administrators under this part, prior to repeal by section 14(26) of Pub. L. 100–50.
 
 #### Amendments
 
@@ -278,7 +278,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part foraward years beginning on or after July 1, 1993, see section 471(a) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
+Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(a) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
 
 #### Effective Date
 

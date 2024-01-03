@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(ii) individuals who are older than 18 years of age who are—
 
-&emsp;&emsp;&emsp;&emsp;(I) determined by a State educational agency or a local public educational agency of a State, in accordance with regulations promulgated by the Secretary, to have a disability, and
+&emsp;&emsp;&emsp;&emsp;(I) determined by a State educational agency or a local public educationalagency of a State, in accordance with regulations promulgated by the Secretary, to have a disability, and
 
 &emsp;&emsp;&emsp;&emsp;(II) participating in a public or nonprofit private school program established for individuals who have a disability.
 
@@ -232,7 +232,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the impact of this paragraph on participation in the summer food service program for children authorized by this section; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) any recommendations by the Secretary concerning the activities of the service institutions receiving grants under this paragraph.
+&emsp;&emsp;&emsp;&emsp;(IV) any recommendations by the Secretary concerning the activities of theservice institutions receiving grants under this paragraph.
 
 #### (E) Funding
 
@@ -498,7 +498,7 @@ Expenditures of funds from State and local sources for the maintenance of food p
 
 (1) The Secretary shall pay to each State for its administrative costs incurred under this section in any fiscal year an amount equal to (A) 20 percent of the first $50,000 in funds distributed to that State for the program in the preceding fiscal year; (B) 10 percent of the next $100,000 distributed to that State for the program in the preceding fiscal year; (C) 5 percent of the next $250,000 in funds distributed to that State for the program in the preceding fiscal year; and (D) 2½ percent of any remaining funds distributed to that State for the program in the preceding fiscal year: <i>Provided</i>, That such amounts may be adjusted by the Secretary to reflect changes in the size of that State's program since the preceding fiscal year.
 
-(2) The Secretary shall establish standards and effective dates for the proper, efficient, and effective administration of the program by the State. If the Secretary finds that the State has failed without good cause to meet any of the Secretary's standards or has failed without good cause to carry out the approved State management and administration plan under subsection (n) of this section, the Secretary may withhold from the State such funds authorized under this subsection as the Secretary determines to be appropriate.
+(2) The Secretary shall establish standards and effective dates for the proper, efficient, and effective administration of the program by the State. If the Secretary finds that the State has failed without good cause to meet any of the Secretary's standards or has failed without good cause to carry out the approved State management and administration plan under subsection (n) of this section, the Secretary may withholdfrom the State such funds authorized under this subsection as the Secretary determines to be appropriate.
 
 (3) To provide for adequate nutritional and food quality monitoring, and to further the implementation of the program, an additional amount, not to exceed the lesser of actual costs or 1 percent of program funds, shall be made available by the Secretary to States to pay for State or local health department inspections, and to reinspect facilities and deliveries to test meal quality.
 
@@ -814,7 +814,7 @@ Subsec. (r). Pub. L. 103–448, §114(g), substituted "1998" for "1994".
 
 Subsec. (a)(4)(F). Pub. L. 101–147, §102(a)(1)(B), added subpar. (F).
 
-Subsec. (a)(7)(A). Pub. L. 101–147, §102(a)(1)(C)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Not later than May 1, 1989, the Secretary shall institute Statewide demonstration projects in five States in which private nonprofit organizations, as defined in subparagraph (B) (other than organizations already eligible under subsection (a)(1) of this section), shall be eligible for the program under the same terms and conditions as other service institutions."
+Subsec. (a)(7)(A). Pub. L. 101–147, §102(a)(1)(C)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Not later than May 1, 1989, the Secretary shall institute Statewide demonstration projects in five States in which private nonprofit organizations, as defined in subparagraph (B) (other than organizations already eligible under subsection (a)(1) ofthis section), shall be eligible for the program under the same terms and conditions as other service institutions."
 
 Subsec. (a)(7)(B)(i). Pub. L. 101–147, §102(a)(1)(C)(ii)(I), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "serve no more than 2,500 children per day and operate at not more than 5 sites;".
 
@@ -850,7 +850,7 @@ Subsec. (a)(7). Pub. L. 100–435, §213(b), added par. (7).
 
 <b>1986</b>—Subsec. (p). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, amended subsec. (p) identically, substituting "1989" for "1984".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §809, in par. (1)(B) substituted "public or private nonprofit school food authorities, local, municipal, or county governments,"for "nonresidential public or private nonprofit institutions" and in par. (1)(C) substituted "50" for "331/3", and added par. (6).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §809, in par. (1)(B) substituted "public or private nonprofit school food authorities, local, municipal, or county governments," for "nonresidential public or private nonprofit institutions" and in par. (1)(C) substituted "50" for "331/3", and added par. (6).
 
 Subsec. (i). Pub. L. 97–35, §817(b), struck out subsec. (i) which related to administration of program by Secretary in event of nonadministration by State.
 
@@ -876,7 +876,7 @@ Subsec. (b)(4). Pub. L. 95–166 added par. (4).
 
 Subsec. (c). Pub. L. 95–166 substituted "Payments" for "Disbursements" and "except in the case of service institutions that operate food service programs for children on school vacation at any time under a continuous school calendar" for "except that the foregoing provision shall not apply to institutions which develop food service programs for children on school vacation at any time under a continuous school calendar or prevent such institutions, if otherwise eligible, from participating in the program authorized by this section".
 
-Subsec. (d). Pub. L. 95–166, in revising text, substituted provision for advance program payment to States through letters of credit forwarded no later than April 15, May 15, and July 1, of each year for prior provision for forwarding advance payments no later than June 1, July 1, and August 1 of each year; inserted computation of payment amount provision; struck out prior provision for an amount no less than (1) the total payment made to the State for meals served for the calendar month of the preceding calendar year or (2) 65 per centum of the amount estimated by the State, on the basis of approved applications, to be needed to reimburse service institutions for meals to be served in the month, whichever is the greater, now covered in subsec. (e)(2) of this section; substituted provision for forwarding payments to States operating a program in months other than May through September by the first day of the month prior to the month in which the program is conducted for prior provision for receipt of advance payments not later than the first day of each month involved where institutions operate programs during nonsummer vacations during a continuous school year calendar; reenacted provision for payments within sixty days of receipt of valid claims; and struck out provision declaring that any funds advanced to a State for which valid claims have not been established within 180 days shall be deducted from the next appropriate monthly advance payment unless the claimant requests a hearing with the Secretary prior to the 180th day, covered in subsec. (e)(2) of this section.
+Subsec. (d). Pub. L. 95–166, in revising text, substituted provision for advance program payment to States through letters of credit forwarded no later than April 15, May 15, and July 1, of each year for prior provision for forwarding advance payments no later than June 1, July 1, and August 1 of each year; inserted computation of payment amount provision; struck out prior provision for an amount no less than (1) the total payment made to the State for meals served for the calendar month of the preceding calendar year or (2) 65 per centum of the amount estimated by the State, onthe basis of approved applications, to be needed to reimburse service institutions for meals to be served in the month, whichever is the greater, now covered in subsec. (e)(2) of this section; substituted provision for forwarding payments to States operating a program in months other than May through September by the first day of the month prior to the month in which the program is conducted for prior provision for receipt of advance payments not later than the first day of each month involved where institutions operate programs during nonsummer vacations during a continuous school year calendar; reenacted provision for payments within sixty days of receipt of valid claims; and struck out provision declaring that any funds advanced to a State for which valid claims have not been established within 180 days shall be deducted from the next appropriate monthly advance payment unless the claimant requests a hearing with the Secretary prior to the 180th day, covered in subsec. (e)(2) of this section.
 
 Subsec. (e). Pub. L. 95–166 added subsec. (e) which in incorporating in part provisions of former subsec. (d), substituted in par. (1) July 15 and August 15 for July 1 and August 1 and reenacted provision for payment not later than the first day of each month of operation where service institutions operate under a continuous school calendar, and in par. (2) substituted provision for computation of amount which is the greatest of the amount described in cls. (A), (B), and (C) for prior provision for such computation which is the greater of (1) the total payment made to the State for meals served for the calendar month of the preceding calendar year (covered in cl. (A)) or (2) 65 per centum of the amount estimated by the State, on the basis of approved applications, to be needed to reimburse service institutions for meals to be served in the month (covered in cl. (C)). Former subsec. (e) redesignated (f).
 
@@ -912,7 +912,7 @@ Subsec. (d). Pub. L. 94–105 substituted provisions relating to the advance pay
 
 Subsec. (e). Pub. L. 94–105 substituted provisions for free meals consisting of a combination of foods and meeting minimum nutritional standards for provisions making available for the first three months of the next fiscal year any funds unobligated at the end of the prior fiscal year.
 
-Subsec. (f). Pub. L. 94–105 substituted provisions directing the Secretary to publish proposed and final regulations, guidelines, and handbooks and authorizing startup costs for meals served during the preceding summer for provisions for free or reduced cost meals with minimum nutritional standards and prohibiting segregation, discrimination or overt identification practices with regard to any child because of his inability to pay.
+Subsec. (f). Pub. L. 94–105 substituted provisions directing the Secretary to publish proposed and final regulations, guidelines, and handbooks and authorizing startup costs for meals served during the preceding summer for provisions for free or reduced cost mealswith minimum nutritional standards and prohibiting segregation, discrimination or overt identification practices with regard to any child because of his inability to pay.
 
 Subsec. (g). Pub. L. 94–105 substituted provisions directing the utilization of foods donated or designated as in abundance by the Secretary and directing the donation of food available under section 1431, 612c and 1446a–1 of title 7 irrespective of the amount of funds appropriated under this section for provisions directing further apportionment among the States if any State cannot utilize all funds apportioned to it or additional funds are made available.
 
@@ -924,7 +924,7 @@ Subsec. (j). Pub. L. 94–105 substituted provision authorizing to be appropriat
 
 Pub. L. 94–20, §1(b), added subsec. (j).
 
-Subsec. (k). Pub. L. 94–105 substituted provisions directing the Secretary to pay each State for administrative costs an amount equal to 2 per centum of funds distributed under subsec. (b), with no State to receive less than $10,000 unless funds distributed to such State total less than $50,000 for provisions directing the Secretary to issue regulations no later than ten days following May 2, 1975 pertaining to operations of the program during the months of May through Sept. 1975,with proviso that such regulations shall in no way differ from current regulations except for changes necessary to implement this chapter.
+Subsec. (k). Pub. L. 94–105 substituted provisions directing the Secretary to pay each State for administrative costs an amount equal to 2 per centum of funds distributed under subsec. (b), with no State to receive less than $10,000 unless funds distributed to such State total less than $50,000 for provisions directing the Secretary to issue regulations no later than ten days following May 2, 1975 pertaining to operations of the program during the months of May through Sept. 1975, with proviso that such regulations shall in no way differ from current regulations except for changes necessary to implement this chapter.
 
 Pub. L. 94–20, §1(b), added subsec. (k).
 
@@ -980,7 +980,7 @@ Pub. L. 101–147, title I, §102(b)(3), Nov. 10, 1989, 103 Stat. 882, provided 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–435 to be effective and implemented on Oct. 1, 1988, see section 701(a) of Pub. L. 100–435, set out as a note under section 2012 of Title 7, Agriculture.
+Amendment by Pub. L. 100–435 to be effective and implemented on Oct. 1, 1988, see section 701(a) of Pub. L.100–435, set out as a note under section 2012 of Title 7, Agriculture.
 
 #### Effective Date of 1981 Amendment
 

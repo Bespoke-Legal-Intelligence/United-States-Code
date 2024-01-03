@@ -66,7 +66,7 @@ Subsec. (b)(1)(C). Pub. L. 117–81, §1523(1), struck out "(other than with res
 
 Subsec. (b)(1)(D). Pub. L. 117–81, §1523(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "exercises authority, direction, and control over the Information Assurance Directorate of the National Security Agency;".
 
-Subsecs. (c), (d). Pub. L. 116–283 redesignated subsec. (c) relating to the direct report of the Chief Information Officer to the Secretary of Defense as (d) and struck out former subsec. (d) which read as follows:"The Chief Information Officer of the Department of Defense takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title. The officials serving in positions specified in such section and the Chief Information Officer take precedence among themselves in the order prescribed by the Secretary of Defense."
+Subsecs. (c), (d). Pub. L. 116–283 redesignated subsec. (c) relating to the direct report of the Chief Information Officer to the Secretary of Defense as (d) and struck out former subsec. (d) which read as follows: "The Chief Information Officer of the Department of Defense takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title. The officials serving in positions specified in such section and the Chief Information Officer take precedence among themselves in the order prescribed by the Secretary of Defense."
 
 <b>2019</b>—Subsec. (b)(1)(A) to (C). Pub. L. 116–92, §903(a)(1), struck out "systems and" after "business".
 
@@ -112,7 +112,7 @@ Pub. L. 116–283, div. A, title I, §153, Jan. 1, 2021, 134 Stat. 3442, provide
 
 "(a)
 
-Cryptographic Modernization Schedules Required.—Each of the Secretaries of the military departments and the heads of relevant Defense Agencies and Department of Defense Field Activities shall establish and maintain a cryptographic modernization schedule that specifies, for each pertinent weapon system, command and control system, or data link under the jurisdiction of such Secretary or head, including those that use commercial encryption technologies (as relevant), the following:
+Cryptographic Modernization Schedules Required.—Each of the Secretaries of the military departments and the heads of relevant Defense Agencies and Department of Defense Field Activities shall establish and maintain a cryptographic modernizationschedule that specifies, for each pertinent weapon system, command and control system, or data link under the jurisdiction of such Secretary or head, including those that use commercial encryption technologies (as relevant), the following:
 
 &emsp;"(1) The last year of use for applicable cryptographic algorithms.
 

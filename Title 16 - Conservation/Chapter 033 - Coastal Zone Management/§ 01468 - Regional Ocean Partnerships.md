@@ -40,7 +40,7 @@ In this section:
 
 &emsp;A partnership formed under paragraph (1) may apply for designation as a Regional Ocean Partnership in such time and manner as determined appropriate by the Secretary if the partnership—
 
-&emsp;&emsp;(A) is established to coordinate the management of ocean, coastal, and Great Lakes resources among the members of the partnership;
+&emsp;&emsp;(A) is established to coordinate the management of ocean, coastal, and Great Lakesresources among the members of the partnership;
 
 &emsp;&emsp;(B) focuses on the environmental issues affecting the ocean, coastal, and Great Lakes areas of the members participating in the partnership;
 
@@ -205,6 +205,8 @@ Nothing in this section establishes any new legal or regulatory authority of the
 #### <b>Editorial Notes</b>
 
 #### References in Text
+
+Executive Order 13175, referred to in subsec. (e)(2), is Ex. Ord. No. 13175, Nov. 6, 2000, 65 F.R. 67249, which is set out as a note under section 5301 of Title 25, Indians.
 
 This title, referred to in subsecs. (g)(2)(D), (E) and (j)(1), means title CII of division J of Pub. L. 117–263, which enacted this section and provisions set out as a note below. For complete classification of title CII to the Code, see Tables.
 

@@ -48,7 +48,7 @@ Nonprescription drugs marketed without an approved drug application under sectio
 
 &emsp;&emsp;&emsp;(i) classified in category I for safety and effectiveness under a proposed monograph or advance notice of proposed rulemaking that is the most recently applicable proposal or determination for such drug issued under part 330 of title 21, Code of Federal Regulations;
 
-&emsp;&emsp;&emsp;(ii) in conformity with the requirements for nonprescription use of such proposed monograph or advance notice of proposed rulemaking, any applicable subsequent determination by the Secretary, the general requirements for nonprescription drugs, and conditions or requirements under subsection (b) or (k); and
+&emsp;&emsp;&emsp;(ii) in conformity with the requirements for nonprescription use of such proposed monograph or advance notice of proposedrulemaking, any applicable subsequent determination by the Secretary, the general requirements for nonprescription drugs, and conditions or requirements under subsection (b) or (k); and
 
 &emsp;&emsp;&emsp;(iii) in a dosage form that, immediately prior to March 27, 2020, has been used to a material extent and for a material time under section 321(p)(2) of this title.
 
@@ -122,7 +122,7 @@ Nonprescription drugs marketed without an approved drug application under sectio
 
 &emsp;&emsp;&emsp;&emsp;(II) publish a notice of such final administrative order in the Federal Register;
 
-&emsp;&emsp;&emsp;&emsp;(III) afford requestors of drugs that will be subject to such order the opportunity for formal dispute resolution up to the level of the Director of the Center for Drug Evaluation and Research, which initially must be requested within 45 calendar days of the issuance of the order, and, for subsequent levels of appeal, within 30 calendar days of the prior decision; and
+&emsp;&emsp;&emsp;&emsp;(III) afford requestors of drugs that will be subject to such order the opportunity for formal dispute resolution up to the level of the Director of the Center for Drug Evaluation and Research, which initially must be requested within 45 calendar days of the issuance of the order,and, for subsequent levels of appeal, within 30 calendar days of the prior decision; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) except with respect to drugs described in paragraph (3)(B), upon completion of the formal dispute resolution procedure, inform the persons which sought such dispute resolution of their right to request a hearing.
 
@@ -162,7 +162,7 @@ Nonprescription drugs marketed without an approved drug application under sectio
 
 &emsp;&emsp;&emsp;&emsp;(I) The term "human data studies" means clinical trials of safety or effectiveness (including actual use studies), pharmacokinetics studies, or bioavailability studies.
 
-&emsp;&emsp;&emsp;&emsp;(II) The term "non-human data" means data from testing other than withhuman subjects which provides information concerning safety or effectiveness.
+&emsp;&emsp;&emsp;&emsp;(II) The term "non-human data" means data from testing other than with human subjects which provides information concerning safety or effectiveness.
 
 #### (C) Hearing procedures
 
@@ -190,7 +190,7 @@ Nonprescription drugs marketed without an approved drug application under sectio
 
 #### (v) Final decision
 
-&emsp;&emsp;&emsp;(I) At the conclusion of a hearing requested under subparagraph (A), the presiding officer of the hearing shall issue a decision containing findings of fact and conclusions of law. The decision of the presiding officer shall be final.
+&emsp;&emsp;&emsp;(I) At the conclusion of a hearing requested under subparagraph (A), the presiding officer of the hearing shall issue adecision containing findings of fact and conclusions of law. The decision of the presiding officer shall be final.
 
 &emsp;&emsp;&emsp;(II) The final decision may not take effect until the period under subparagraph (D)(ii) for submitting a request for judicial review of such decision expires.
 
@@ -236,7 +236,7 @@ Nonprescription drugs marketed without an approved drug application under sectio
 
 &emsp;&emsp;&emsp;In the case of a determination by the Secretary that a change in the labeling of a drug, class of drugs, or combination of drugs subject to this section is reasonably expected to mitigate a significant or unreasonable risk of a serious adverse event associated with use of the drug, the Secretary may—
 
-&emsp;&emsp;&emsp;&emsp;(I) make reasonable efforts to notify informally, not later than 48 hours before the issuance of the interim finalorder, the sponsors of drugs who have a listing in effect under section 360(j) of this title for such drug or combination of drugs;
+&emsp;&emsp;&emsp;&emsp;(I) make reasonable efforts to notify informally, not later than 48 hours before the issuance of the interim final order, the sponsors of drugs who have a listing in effect under section 360(j) of this title for such drug or combination of drugs;
 
 &emsp;&emsp;&emsp;&emsp;(II) after reasonable efforts of notification, issue an interim final administrative order in accordance with paragraph (1) to require such change, together with a detailed statement of the reasons for such order;
 
@@ -536,7 +536,7 @@ Nonprescription drugs marketed without an approved drug application under sectio
 
 &emsp;&emsp;Information described in subparagraph (A) shall not be made public if—
 
-&emsp;&emsp;&emsp;(i) the information pertains to pharmaceutical quality information, unless suchinformation is necessary to establish standards under which a drug is generally recognized as safe and effective under section 321(p)(1) of this title;
+&emsp;&emsp;&emsp;(i) the information pertains to pharmaceutical quality information, unless such information is necessary to establish standards under which a drug is generally recognized as safe and effective under section 321(p)(1) of this title;
 
 &emsp;&emsp;&emsp;(ii) the information is submitted in a requestor-initiated request, but the requestor withdraws such request, in accordance with withdrawal procedures established by the Secretary, before the Secretary issues the proposed order;
 
@@ -700,7 +700,7 @@ Issuance of revised sunscreen order; effective date.—A revised sunscreen order
 
 "(2)
 
-Reports.—If a revised sunscreen order issued under paragraph (1) does not include provisions relatedto the effectiveness of various sun protection factor levels, and does not address all dosage forms known to the Secretary to be used in sunscreens marketed in the United States without a new drug application approved under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), the Secretary shall submit a report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate on the rationale for omission of such provisions from such order, and a plan and timeline to compile any information necessary to address such provisions through such order."
+Reports.—If a revised sunscreen order issued under paragraph (1) does not include provisions related to the effectiveness of various sun protection factor levels, and does not address all dosage forms known to the Secretary to be used in sunscreens marketed in the United States without a new drug application approved under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), the Secretary shall submit a report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate on the rationale for omission of such provisions from such order, and a plan and timeline to compile any information necessary to address such provisions through such order."
 
 #### Annual Update to Congress on Appropriate Pediatric Indication for Certain OTC Cough and Cold Drugs
 

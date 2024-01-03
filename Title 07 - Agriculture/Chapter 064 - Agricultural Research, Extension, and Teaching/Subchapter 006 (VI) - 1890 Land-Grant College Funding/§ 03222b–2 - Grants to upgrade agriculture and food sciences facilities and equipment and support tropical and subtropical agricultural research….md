@@ -10,7 +10,7 @@ It is the intent of Congress to assist the land-grant colleges and universities 
 
 #### (b) Method of awarding grants
 
-Grants awarded pursuant to this section shall be made in such amounts and under such terms and conditions as the Secretary determines necessary to carry out the purposes of this section.
+Grants awarded pursuant to this section shall be made in such amounts and under such termsand conditions as the Secretary determines necessary to carry out the purposes of this section.
 
 #### (c) Regulations
 

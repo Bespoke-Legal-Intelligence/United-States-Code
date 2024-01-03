@@ -16,7 +16,7 @@
 
 #### (b) Agreement to eliminate unfair trade practices as condition of financial assistance
 
-(1) The Secretary of the Treasury shall instruct the United States Executive Director of each of the banks and of the Fund, prior to the extension to any country of financial assistance by the banks and by the Fund, to work to have the banks and the Fund obtain the agreement of such country to eliminate, in a manner consistent with its balance of payments adjustment program, unfair trade and investment practices with respect to goods and services which the United States Trade Representative, after consultation with the Trade Policy Committee, has determined to have a significant deleterious effect on the international trading system.
+(1) The Secretary of the Treasury shall instruct the United States Executive Director of each of the banks and of the Fund, prior to the extension to any country of financial assistance by the banks and by the Fund, to work to have the banks and the Fund obtain the agreement of such country to eliminate, in a manner consistent with its balance of payments adjustmentprogram, unfair trade and investment practices with respect to goods and services which the United States Trade Representative, after consultation with the Trade Policy Committee, has determined to have a significant deleterious effect on the international trading system.
 
 (2) Such practices include—
 

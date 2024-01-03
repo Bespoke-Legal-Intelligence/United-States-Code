@@ -8,7 +8,7 @@
 
 (3) The General Counsel shall—
 
-&emsp;(A) investigate an allegation about a prohibited personnel practice under section 732(b)(2)of this title to decide if there are reasonable grounds to believe the practice has occurred, exists, or will be taken by an officer or an employee of the Government Accountability Office;
+&emsp;(A) investigate an allegation about a prohibited personnel practice under section 732(b)(2) of this title to decide if there are reasonable grounds to believe the practice has occurred, exists, or will be taken by an officer or an employee of the Government Accountability Office;
 
 &emsp;(B) investigate an allegation about a prohibited political activity under section 732(b)(3) of this title;
 

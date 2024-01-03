@@ -26,7 +26,7 @@ The Secretary, acting through the program, shall—
 
 &emsp;(5) expand the types of genetic resources included in the program to develop a comprehensive genetic resources program which includes plants (including silvicultural species), animal, aquatic, insect, microbiological, and other types of genetic resources of importance to food and agriculture, as resources permit;
 
-&emsp;(6) develop and implement a national strategic germplasm and cultivar collection assessment and utilization plan that takes into consideration the resources and research necessary to address the significant backlog of characterization and maintenance of existing accessions considered to be critical to preserve the viability of, and public access to, germplasm and cultivars; and
+&emsp;(6) develop and implement a national strategic germplasm and cultivar collection assessment and utilization plan that takes into consideration the resources and research necessary to address the significant backlog of characterization and maintenance of existingaccessions considered to be critical to preserve the viability of, and public access to, germplasm and cultivars; and
 
 &emsp;(7) engage in such other activities as the Secretary determines appropriate and as the resources of the program permit.
 

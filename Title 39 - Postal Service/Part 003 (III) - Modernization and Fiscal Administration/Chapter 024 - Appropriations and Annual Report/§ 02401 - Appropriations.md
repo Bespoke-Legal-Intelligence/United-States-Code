@@ -48,13 +48,13 @@
 
 Enactment of the Postal Accountability and Enhancement Act, referred to in subsec. (d), means the enactment of Pub. L. 109–435, which was approved Dec. 20, 2006.
 
-Former chapter 67 of title 39, referred to in subsec. (g), means chapter 67 (§4551 et seq.) of former Title 39, The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
+Former chapter 67 of title 39, referred to in subsec. (g), means chapter 67 (§4551 et seq.) of former Title 39,The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
 
 #### Amendments
 
 <b>2006</b>—Subsec. (d). Pub. L. 109–435, §1010(c)(2), inserted "(as last in effect before enactment of the Postal Accountability and Enhancement Act)" after "section 3626(a)" and after "section 3626(a)(3)(B)(ii)".
 
-Subsec. (e). Pub. L. 109–435, §1010(d)(1), substituted "Committee on Government Reform" for "Committeeon Post Office and Civil Service" in introductory and concluding provisions and "Each year," for "Not later than March 15 of each year," in concluding provisions.
+Subsec. (e). Pub. L. 109–435, §1010(d)(1), substituted "Committee on Government Reform" for "Committee on Post Office and Civil Service" in introductory and concluding provisions and "Each year," for "Not later than March 15 of each year," in concluding provisions.
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–437, in introductory provisions, substituted "Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives" for "Committees on Post Office and Civil Service", and, in concluding provisions, substituted "Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives" for "Committees on Post Office and Civil Service of the Senate and the House of Representatives".
 
@@ -100,11 +100,13 @@ Subsecs. (d) to (i). Pub. L. 94–421, §2(b), added subsecs. (d) to (i).
 
 #### Change of Name
 
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–123, title VII, §703(b), Oct. 28, 1993, 107 Stat. 1267, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993."
+Pub. L. 103–123, title VII, §703(b), Oct. 28, 1993, 107 Stat. 1267, provided that: "The amendments made bysubsection (a) \[amending this section\] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993."
 
 Pub. L. 103–123, title VII, §704(c)(2), Oct. 28, 1993, 107 Stat. 1271, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993."
 

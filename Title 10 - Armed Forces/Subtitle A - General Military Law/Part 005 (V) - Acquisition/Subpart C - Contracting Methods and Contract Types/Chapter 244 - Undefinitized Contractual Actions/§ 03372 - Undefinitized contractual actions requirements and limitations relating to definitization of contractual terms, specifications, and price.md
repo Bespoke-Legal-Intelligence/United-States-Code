@@ -22,7 +22,7 @@ Limitation on obligation of funds before definitization.—
 
 &emsp;&emsp;(B)
 
-75 percent limitation when contractor submits qualifying proposal.—If a contractor submits a qualifying proposal (as defined in section 3377(b) of this title) to definitize an undefinitized contractual action before an amount equal to more than 50 percent of the negotiated overall ceiling price is obligated on such action, the contracting officer for such action may not obligate withrespect to such contractual action an amount that is equal to more than 75 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
+75 percent limitation when contractor submits qualifying proposal.—If a contractor submits a qualifying proposal (as defined in section 3377(b) of this title) to definitize an undefinitized contractual action before an amount equal to more than 50 percent of the negotiated overall ceiling price is obligated on such action, the contracting officer for such action may not obligate with respect to such contractual action an amount that is equal to more than 75 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
 
 &emsp;(3)
 
@@ -102,7 +102,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 #### Existing Agreement Limits for Operation Warp Speed
 
-Pub. L. 117–263, div. A, title VIII, §883, Dec. 23, 2022, 136 Stat. 2746, provided that: "The value of any modification to, or order made under, a contract or other agreement by the Department of Defense on or after March 1, 2020, to address the COVID–19 pandemic through vaccines and other therapeutic measures shall not be counted toward any limit established prior to March 1, 2020, on the total estimated amount of allprojects to be issued under the contract or other agreement (except that the value of such modification or order shall count toward meeting any guaranteed minimum value under the contract or other agreement)."
+Pub. L. 117–263, div. A, title VIII, §883, Dec. 23, 2022, 136 Stat. 2746, provided that: "The value of any modification to, or order made under, a contract or other agreement by the Department of Defense on or after March 1, 2020, to address the COVID–19 pandemic through vaccines and other therapeutic measures shall not be counted toward any limit established prior to March 1, 2020, on the total estimated amount of all projects to be issued under the contract or other agreement (except that the value of such modification or order shall count toward meeting any guaranteed minimum value under the contract or other agreement)."
 
 #### Relaxation of Undefinitized Contract Action Limitations and Restrictions Related to National Emergency for Coronavirus Disease 2019
 

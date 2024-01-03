@@ -1,6 +1,6 @@
 ### §3103. Employment at seat of Government only for services rendered
 
-An individual may be employed in the civil service in an Executive department at the seat of Government only for services actually rendered in connection with and for the purposes of the appropriation from which he is paid. An individual who violates this section shall be removed from the service.
+An individual may be employed in the civil service in an Executive department at the seatof Government only for services actually rendered in connection with and for the purposes of the appropriation from which he is paid. An individual who violates this section shall be removed from the service.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 415.)
 
@@ -24,7 +24,7 @@ Sept. 23, 1950, ch. 1010, §7, 64 Stat. 986.
 
 Aug. 23, 1912, ch. 350, §5 (so much as relates to removal), 37 Stat. 414.
 
-The words "civil officer, draughtsman, copyist, messenger, assistant messenger, mechanic, watchman, laborer, or other employee" are omitted as obsolete language and "individual" is substituted therefor. The words "in the civil service" are added to preserve the application of former section 46 to civilian employees. The words "or subordinate bureaus or offices thereof" are omitted as surplusage. The words "and at the rateof pay usual and proper for the services" are omitted as surplusage since all pay rates are governed by statute.
+The words "civil officer, draughtsman, copyist, messenger, assistant messenger, mechanic, watchman, laborer, or other employee" are omitted as obsolete language and "individual" is substituted therefor. The words "in the civil service" are added to preserve the application of former section 46 to civilian employees. The words "or subordinate bureaus or offices thereof" are omitted as surplusage. The words "and at the rate of pay usual and proper for the services" are omitted as surplusage since all pay rates are governed by statute.
 
 All after the 75th words of section 4 of the Act of Aug. 5, 1882, as amended by section 7(b) of the Act of Sept. 23, 1950, except the 255th through 316th words, are omitted as executed. The 255th through 296th words are scheduled for repeal as superseded (see Table II–b), and the 297th through 316th words are codified in section 5501. The Act of Aug. 15, 1876, ch. 287, §5, 19 Stat. 169, cited as authority for former section 46 was repealed by section 7(a) of the Act of Sept. 23, 1950.
 

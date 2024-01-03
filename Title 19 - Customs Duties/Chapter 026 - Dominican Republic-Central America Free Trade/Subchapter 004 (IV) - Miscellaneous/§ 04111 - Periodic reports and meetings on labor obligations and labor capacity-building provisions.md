@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than the end of the 2-year period beginning on the date the Agreement entersinto force, and not later than the end of each 2-year period thereafter during the succeeding 14-year period, the President shall report to the Congress on the progress made by the CAFTA–DR countries in—
+&emsp;Not later than the end of the 2-year period beginning on the date the Agreement enters into force, and not later than the end of each 2-year period thereafter during the succeeding 14-year period, the President shall report to the Congress on the progress made by the CAFTA–DR countries in—
 
 &emsp;&emsp;(A) implementing Chapter Sixteen and Annex 16.5 of the Agreement; and
 
@@ -18,7 +18,7 @@
 
 &emsp;Each report under paragraph (1) shall include the following:
 
-&emsp;&emsp;(A) A description of the progress made by the Labor Cooperation and Capacity Building Mechanism established by article 16.5 and Annex 16.5 of the Agreement, and the Labor Affairs Council established by article 16.4 of the Agreement, in achieving their stated goals, including a description of the capacity-building projects undertaken, funds received, and results achieved, in each CAFTA–DR country.
+&emsp;&emsp;(A) A description of the progress made by the Labor Cooperation and Capacity Building Mechanism established by article 16.5 and Annex 16.5 of the Agreement, and the Labor Affairs Council established by article 16.4 of the Agreement, in achieving their stated goals, including a description of thecapacity-building projects undertaken, funds received, and results achieved, in each CAFTA–DR country.
 
 &emsp;&emsp;(B) Recommendations on how the United States can facilitate full implementation of the recommendations contained in the White Paper.
 

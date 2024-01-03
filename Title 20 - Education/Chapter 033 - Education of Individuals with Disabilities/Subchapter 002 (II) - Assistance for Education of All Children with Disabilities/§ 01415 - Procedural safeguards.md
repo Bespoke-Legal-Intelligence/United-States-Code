@@ -8,7 +8,7 @@ Any State educational agency, State agency, or local educational agency that rec
 
 The procedures required by this section shall include the following:
 
-&emsp;(1) An opportunity for the parents of a child with a disability to examine all records relating to such child and to participate in meetings with respect to the identification, evaluation, and educational placement of the child, and the provision of a free appropriate publiceducation to such child, and to obtain an independent educational evaluation of the child.
+&emsp;(1) An opportunity for the parents of a child with a disability to examine all records relating to such child and to participate in meetings with respect to the identification, evaluation, and educational placement of the child, and the provision of a free appropriate public education to such child, and to obtain an independent educational evaluation of the child.
 
 &emsp;(2)(A) Procedures to protect the rights of the child whenever the parents of the child are not known, the agency cannot, after reasonable efforts, locate the parents, or the child is a ward of the State, including the assignment of an individual to act as a surrogate for the parents, which surrogate shall not be an employee of the State educational agency, the local educational agency, or any other agency that is involved in the education or care of the child. In the case of—
 
@@ -84,7 +84,7 @@ The procedures required by this section shall include the following:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If the local educational agency has not sent a prior written notice to the parentregarding the subject matter contained in the parent's due process complaint notice, such local educational agency shall, within 10 days of receiving the complaint, send to the parent a response that shall include—
+&emsp;&emsp;&emsp;&emsp;If the local educational agency has not sent a prior written notice to the parent regarding the subject matter contained in the parent's due process complaint notice, such local educational agency shall, within 10 days of receiving the complaint, send to the parent a response that shall include—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) an explanation of why the agency proposed or refused to take the action raised in the complaint;
 
@@ -304,7 +304,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 #### (C) Timeline for requesting hearing
 
-&emsp;&emsp;A parent or agency shall request an impartial due process hearing within 2 years of the date the parent or agency knew or should have known about the alleged action that forms the basis of the complaint, or, if the State has an explicit time limitation for requesting such a hearing under this subchapter, in such time as the State law allows.
+&emsp;&emsp;A parent or agency shall request an impartial due process hearing within 2 years of thedate the parent or agency knew or should have known about the alleged action that forms the basis of the complaint, or, if the State has an explicit time limitation for requesting such a hearing under this subchapter, in such time as the State law allows.
 
 #### (D) Exceptions to the timeline
 
@@ -448,7 +448,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 #### (E) Exception to prohibition on attorneys' fees and related costs
 
-&emsp;&emsp;Notwithstanding subparagraph (D), an award of attorneys' fees and related costsmay be made to a parent who is the prevailing party and who was substantially justified in rejecting the settlement offer.
+&emsp;&emsp;Notwithstanding subparagraph (D), an award of attorneys' fees and related costs may be made to a parent who is the prevailing party and who was substantially justified in rejecting the settlement offer.
 
 #### (F) Reduction in amount of attorneys' fees
 
@@ -470,7 +470,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 #### (j) Maintenance of current educational placement
 
-Except as provided in subsection (k)(4), during the pendency of any proceedings conducted pursuant to this section, unless the State or local educational agency and the parents otherwise agree, the child shall remain in the then-current educational placement of the child, or, if applying for initial admission to a public school, shall, with the consent of the parents, be placed in the public school program until all such proceedings have been completed.
+Except as provided in subsection (k)(4), during the pendency of any proceedings conducted pursuant to this section, unless the State or localeducational agency and the parents otherwise agree, the child shall remain in the then-current educational placement of the child, or, if applying for initial admission to a public school, shall, with the consent of the parents, be placed in the public school program until all such proceedings have been completed.
 
 #### (k) Placement in alternative educational setting
 
@@ -528,7 +528,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 &emsp;&emsp;&emsp;(ii) knowingly possesses or uses illegal drugs, or sells or solicits the sale of a controlled substance, while at school, on school premises, or at a school function under the jurisdiction of a State or local educational agency; or
 
-&emsp;&emsp;&emsp;(iii) has inflicted serious bodily injury upon another person while at school, on school premises, or at a school function under the jurisdiction of a State or local educational agency.
+&emsp;&emsp;&emsp;(iii) has inflicted serious bodily injury upon another person while at school, on school premises, or at a school functionunder the jurisdiction of a State or local educational agency.
 
 #### (H) Notification
 
@@ -580,7 +580,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 &emsp;&emsp;&emsp;(ii) the parent of the child has requested an evaluation of the child pursuant to section 1414(a)(1)(B) of this title; or
 
-&emsp;&emsp;&emsp;(iii) the teacher of the child, or other personnel of the local educational agency, has expressed specific concerns about a pattern of behavior demonstrated by the child, directly to the director of specialeducation of such agency or to other supervisory personnel of the agency.
+&emsp;&emsp;&emsp;(iii) the teacher of the child, or other personnel of the local educational agency, has expressed specific concerns about a pattern of behavior demonstrated by the child, directly to the director of special education of such agency or to other supervisory personnel of the agency.
 
 #### (C) Exception
 
@@ -594,7 +594,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (ii) Limitations
 
-&emsp;&emsp;&emsp;If a request is made for an evaluation of a child during the time period in which the child is subjected to disciplinary measures under this subsection, the evaluation shall be conducted in an expedited manner. If the child is determined to be a child with a disability, taking into consideration information from the evaluation conducted by the agency and information provided by the parents, the agency shall provide special education and related services in accordance with this subchapter, except that, pending the results of the evaluation, the child shall remain in the educational placement determined by school authorities.
+&emsp;&emsp;&emsp;If a request is made for an evaluation of a child during the time period in which the child is subjected to disciplinary measures under this subsection, the evaluation shall be conducted in an expedited manner. If the child is determined to be a child with a disability, taking into consideration information from the evaluation conducted by the agency and information provided by the parents, the agency shall provide special education and related services in accordance with this subchapter, except that, pending the results of the evaluation, the child shall remain in the educationalplacement determined by school authorities.
 
 #### (6) Referral to and action by law enforcement and judicial authorities
 

@@ -12,7 +12,7 @@ The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93
 
 #### Codification
 
-Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1999, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the Indian Self-Determination and Education Assistance Act which comprises this chapter.
+Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1999,and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the Indian Self-Determination and Education Assistance Act which comprises this chapter.
 
 Section was formerly classified to section 450j–2 of this title prior to editorial reclassification and renumbering as this section.
 

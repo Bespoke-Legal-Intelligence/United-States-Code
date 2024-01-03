@@ -47,7 +47,7 @@ At or after his retirement, any individual who has elected to receive retired pa
 
 Any individual who—
 
-&emsp;(1) retires under paragraph (1), (2), or (3) of subsection (b) and elects under subsection (e) to receive retired pay under this subsection shall receive retired pay during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period as the number of years he has served as judge bears to 10; except that the rate of such retired pay shall not be more than the rate of such salary for such period; or
+&emsp;(1) retires under paragraph (1), (2), or (3) of subsection (b) and elects under subsection (e) to receive retired pay under this subsection shall receive retired pay during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period as the number of years he has served as judge bears to 10; except that the rate of suchretired pay shall not be more than the rate of such salary for such period; or
 
 &emsp;(2) retires under paragraph (4) of subsection (b) and elects under subsection (e) to receive retired pay under this subsection shall receive retired pay during any period at a rate—
 
@@ -325,7 +325,7 @@ Pub. L. 95–472, §2(a), Oct. 17, 1978, 92 Stat. 1332, provided that: "The amen
 
 #### Effective Date of 1971 Amendment
 
-Pub. L. 92–41, §4(c)(1), July 1, 1971, 85 Stat. 99, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date of its enactment \[July 1, 1971\]. Provisions having the same effect as such amendment shall be treated as having been included in the Internal Revenue Code of 1939 \[section 1106(c)\] effective on and after August 7, 1953."
+Pub. L. 92–41, §4(c)(1), July 1, 1971, 85 Stat. 99, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date of its enactment \[July 1,1971\]. Provisions having the same effect as such amendment shall be treated as having been included in the Internal Revenue Code of 1939 \[section 1106(c)\] effective on and after August 7, 1953."
 
 #### Effective Date of 1969 Amendment
 

@@ -188,7 +188,7 @@ Technical Qualifications.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2020\], the Secretary of Veterans Affairs shall prescribe the technical qualifications required under section 7402(b)(14) of title 38, United States Code, to be appointed as a licensed hearing aid specialist under section 7401(3) of such title.
+In general.—Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2020\], theSecretary of Veterans Affairs shall prescribe the technical qualifications required under section 7402(b)(14) of title 38, United States Code, to be appointed as a licensed hearing aid specialist under section 7401(3) of such title.
 
 &emsp;"(2)
 

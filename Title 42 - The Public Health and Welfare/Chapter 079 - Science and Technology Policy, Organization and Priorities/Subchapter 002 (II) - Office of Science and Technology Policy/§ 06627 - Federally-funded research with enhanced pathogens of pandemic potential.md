@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(ii) establish or update a Federal policy for the consistent review and oversight of such proposed research that appropriately considers the risks associated with, and potential benefits of, such research; and
 
-&emsp;&emsp;(B) not less than every 4 years thereafter, review and update such policy, as necessary and appropriate, to ensure that such policy fully accounts for relevant research that may be reasonably anticipated to involve the creation, transfer, or use of enhanced pathogens of pandemic potential, takes into consideration the benefits of such research, and supports the mitigation of related risks.
+&emsp;&emsp;(B) not less than every 4 years thereafter, review and update such policy, as necessary and appropriate, to ensure that such policy fully accounts for relevant research that may be reasonably anticipated to involve the creation, transfer, or use of enhancedpathogens of pandemic potential, takes into consideration the benefits of such research, and supports the mitigation of related risks.
 
 #### (2) Requirements
 

@@ -102,7 +102,7 @@ Sec. 104. (a) The Archivist shall, within ninety days after the date of enactmen
 
 &emsp;"(7) the need to give to Richard M. Nixon, or his heirs, for his sole custody and use, tape recordings and other materials which are not likely to be related to the need described in paragraph (1) and are not otherwise of general historical significance.
 
-"(b) The regulations proposed by the Archivist in the report required by subsection (a) shall not take effect until the expiration of the first period of 60 calendar days of continuous session of the Congress after the date of the submission of such regulations to each House of the Congress. For the purposes of this subsection, continuity of session is broken only by an adjournment of Congress sine die, but the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded.
+"(b) The regulations proposed by the Archivist in the report required by subsection (a) shall not take effect until the expiration of the first period of 60 calendar days of continuous session of the Congress after the date of the submission of such regulations to eachHouse of the Congress. For the purposes of this subsection, continuity of session is broken only by an adjournment of Congress sine die, but the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded.
 
 "(c) The provisions of this title shall not apply, on and after the date upon which regulations proposed by the Administrator take effect under subsection (b), to any tape recordings or other materials given to Richard M. Nixon, or his heirs, pursuant to subsection (a)(7).
 

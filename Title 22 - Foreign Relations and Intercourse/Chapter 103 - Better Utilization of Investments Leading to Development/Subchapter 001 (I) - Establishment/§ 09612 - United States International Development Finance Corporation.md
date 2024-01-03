@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the executive branch the United States International DevelopmentFinance Corporation (in this chapter referred to as the "Corporation"), which shall be a wholly owned Government corporation for purposes of chapter 91 of title 31 under the foreign policy guidance of the Secretary of State.
+There is established in the executive branch the United States International Development Finance Corporation (in this chapter referred to as the "Corporation"), which shall be a wholly owned Government corporation for purposes of chapter 91 of title 31 under the foreign policy guidance of the Secretary of State.
 
 #### (b) Purpose
 

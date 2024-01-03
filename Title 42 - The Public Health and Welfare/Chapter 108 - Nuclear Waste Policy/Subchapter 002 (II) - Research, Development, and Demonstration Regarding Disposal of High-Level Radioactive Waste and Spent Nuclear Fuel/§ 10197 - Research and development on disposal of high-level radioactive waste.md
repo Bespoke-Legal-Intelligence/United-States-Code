@@ -40,7 +40,7 @@ The Secretary shall design each test and evaluation facility—
 
 &emsp;(C) conducting in situ tests to evaluate and improve models for ground water or brine flow through fractured geologic media;
 
-&emsp;(D) conducting in situ tests under conditions representing the real time and the acceleratedtime behavior of the engineered barriers within the geologic environment involved;
+&emsp;(D) conducting in situ tests under conditions representing the real time and the accelerated time behavior of the engineered barriers within the geologic environment involved;
 
 &emsp;(E) conducting in situ tests to evaluate the effects of heat and pressure on the geologic media involved, on the hydrology of the surrounding area, and on the integrity of the disposal packages;
 
@@ -106,7 +106,7 @@ The Secretary shall prepare an environmental impact statement under section 102(
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsec. (e), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (e), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 2011 of this title and Tables.
 
 This subchapter, referred to in subsec. (f)(1)(A), was in the original "this subtitle", and was translated as this subchapter to reflect the probable intent of Congress because title II of Pub. L. 97–425, which enacted this subchapter, does not contain subtitles.
 

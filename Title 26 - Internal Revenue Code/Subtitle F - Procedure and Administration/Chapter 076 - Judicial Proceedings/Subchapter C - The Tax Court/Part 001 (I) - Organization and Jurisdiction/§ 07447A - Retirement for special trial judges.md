@@ -31,7 +31,7 @@ Any individual who has retired pursuant to subsection (a) may be called upon by 
 
 &emsp;(2) such individual shall be relieved of performing such duties during any period in which illness or disability precludes the performance of such duties.
 
-> Any act, or failure to act, by an individual performing judicial duties pursuant to this subsection shall have the same force and effect as if it were the act (or failure to act) of a special trial judge. Any individual who is performing judicial duties pursuant to this subsection shall be paid the same compensation (in lieu of retired pay) and allowances for travel and other expenses as a special trial judge.
+> Any act, or failure to act, by an individual performing judicial duties pursuant to this subsection shall have the same force and effect as if it were the act (or failure to act) of a specialtrial judge. Any individual who is performing judicial duties pursuant to this subsection shall be paid the same compensation (in lieu of retired pay) and allowances for travel and other expenses as a special trial judge.
 
 #### (d) Retired pay
 
@@ -87,5 +87,5 @@ The rules of subsections (f), (g), (h)(2), (i), and (j), and the first sentence 
 
 #### Effective Date
 
-Pub. L. 117–328, div. T, title VII, §702(d), Dec. 29, 2022, 136 Stat. 5404, provided that: "The amendments madeby this section \[enacting this section and amending sections 3121 and 7448 of this title and section 410 of Title 42, The Public Health and Welfare\] shall take effect on the date of the enactment of this Act \[Dec. 29, 2022\], except that section 7447A(e) of the Internal Revenue Code of 1986 (as added by this section) shall take effect on the date that is 180 days after such date of enactment. Special trial judges retiring on or after the date of the enactment of this Act, and before the date that is 180 days after the date of such enactment, may file an election under such section not later than 60 days after such date."
+Pub. L. 117–328, div. T, title VII, §702(d), Dec. 29, 2022, 136 Stat. 5404, provided that: "The amendments made by this section \[enacting this section and amending sections 3121 and 7448 of this title and section 410 of Title 42, The Public Health and Welfare\] shall take effect on the date of the enactment of this Act \[Dec. 29, 2022\], except that section 7447A(e) of the Internal Revenue Code of 1986 (as added by this section) shall take effect on the date that is 180 days after such date of enactment. Special trial judges retiring on or after the date of the enactment of this Act, and before the date that is 180 days after the date of such enactment, may file an election under such section not later than 60 days after such date."
 

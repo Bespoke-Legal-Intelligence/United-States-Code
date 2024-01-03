@@ -24,7 +24,7 @@
 
 #### (5) Rates in Alaska
 
-&emsp;A rental rate established by a tribal health program under this section for a federally owned quarters in the State of Alaska may bebased on the cost of comparable private rental housing in the nearest established community with a year-round population of 1,500 or more individuals.
+&emsp;A rental rate established by a tribal health program under this section for a federally owned quarters in the State of Alaska may be based on the cost of comparable private rental housing in the nearest established community with a year-round population of 1,500 or more individuals.
 
 #### (b) Direct collection of rent
 

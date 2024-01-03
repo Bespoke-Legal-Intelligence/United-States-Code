@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 46:234
 
-Section 3315 requires an individual holding a license issued by the Coast Guard to assist inspection authorities and to make defects and imperfections known to those authorities. Anyone licensed also has a duty to report any marine casualty producing serious injury to the vessel, its equipment, or individuals on board the vessel. These licensed individuals who have this statutorily imposed duty to disclose are also protected by prohibiting any government official from disclosing the identity or source of the information except as authorized by the Secretary.
+Section 3315 requires an individual holding a license issued by the Coast Guard to assist inspection authorities and to make defects and imperfections known to those authorities. Anyone licensed also has a duty to report any marine casualty producing serious injury to the vessel, its equipment, or individuals on board the vessel. These licensed individuals who have this statutorily imposed duty to disclose are also protected byprohibiting any government official from disclosing the identity or source of the information except as authorized by the Secretary.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

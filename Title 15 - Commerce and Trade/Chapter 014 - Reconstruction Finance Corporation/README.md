@@ -2,7 +2,7 @@
 
 | Sec. |
 | :--- |
-| 601 to 619. Repealed, Omitted, or Transferred. |
+| 601 to 619. Repealed, Omitted, or Transferred.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -10,7 +10,7 @@
 
 #### Short Title of Act July 30, 1953, Ch. 282, Title I
 
-Act July 30, 1953, ch. 282, title I, §101, 67 Stat. 230, provided that: "This title \[amending sections 603 and 604 of this title and section 459 of Title 40, Public Buildings, Property, and Works, enacting provisions set out as a note under this section, and amending provisions set out as notes under sections 98, 544, and 4534 of Title 50,War and National Defense, and sections 1929 and 2261 of the former Appendix to Title 50\] may be cited as the 'Reconstruction Finance Corporation Liquidation Act'."
+Act July 30, 1953, ch. 282, title I, §101, 67 Stat. 230, provided that: "This title \[amending sections 603 and 604 of this title and section 459 of Title 40, Public Buildings, Property, and Works, enacting provisions set out as a note under this section, and amending provisions set out as notes under sections 98, 544, and 4534 of Title 50, War and National Defense, and sections 1929 and 2261 of the former Appendix to Title 50\] may be cited as the 'Reconstruction Finance Corporation Liquidation Act'."
 
 #### Continuation of Pending Proceedings
 
@@ -58,7 +58,7 @@ As used in this reorganization plan:
 
 #### Sec. 3. Transfer of Assets and Liabilities
 
-The loans, obligations, securities, capital stock, and other assets pertaining to the functions transferred by section 2 of this reorganization plan (including accrued interest thereon, and property acquired in connection therewith) and the liabilities, contracts, bonds, mortgages, notes and other instruments relating thereto are hereby transferred from the Corporation to the respective transferees: <i>Provided, however</i>, That all assets, liabilities, and commitments relating to the functions, transferred by section 2 (a) of this reorganization plan are hereby transferred to the Revolving Fund (Liquidating Programs) established by the Independent Offices Appropriation Act, 1955 (68 Stat. 295) \[12 U.S.C. 1701g–5\].
+The loans, obligations, securities, capital stock, and other assets pertaining to the functions transferred by section 2 of this reorganization plan (including accrued interest thereon, and property acquired in connection therewith) and the liabilities, contracts, bonds, mortgages, notes and other instruments relating thereto arehereby transferred from the Corporation to the respective transferees: <i>Provided, however</i>, That all assets, liabilities, and commitments relating to the functions, transferred by section 2 (a) of this reorganization plan are hereby transferred to the Revolving Fund (Liquidating Programs) established by the Independent Offices Appropriation Act, 1955 (68 Stat. 295) \[12 U.S.C. 1701g–5\].
 
 #### Sec. 4. Administrative Property, Personnel, Funds and Records
 

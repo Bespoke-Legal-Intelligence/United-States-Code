@@ -1,6 +1,6 @@
 ### §4375. Trade negotiating objectives
 
-The principal negotiating objectives of the United States shall include obtaining the objectives of the bilateral agreements described under section 4374(a) of this title for any tradeagreements under negotiation as of February 24, 2016, or future trade agreement negotiations.
+The principal negotiating objectives of the United States shall include obtaining the objectives of the bilateral agreements described under section 4374(a) of this title for any trade agreements under negotiation as of February 24, 2016, or future trade agreement negotiations.
 
 (Pub. L. 114–125, title IV, §415, Feb. 24, 2016, 130 Stat. 161.)
 

@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (2) Qualified solar electric property expenditure
 
-&emsp;The term "qualified solar electric property expenditure" means an expenditure for property which uses solar energy to generate electricity for use in a dwelling unit located in the United States and used as a residence by the taxpayer.
+&emsp;The term "qualified solar electric property expenditure" means an expenditure for property which uses solar energy to generate electricity for use in a dwelling unit located in theUnited States and used as a residence by the taxpayer.
 
 #### (3) Qualified fuel cell property expenditure
 
@@ -228,7 +228,7 @@ Subsec. (h). Pub. L. 114–113, §304(a)(3), redesignated subsec. (g) as (h).
 
 <b>2013</b>—Subsec. (c). Pub. L. 112–240 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to limitation based on amount of tax and carryforward of unused credit.
 
-<b>2009</b>—Subsec. (b)(1). Pub. L. 111–5, §1122(a)(1), amended par. (1) generally. Prior to amendment, par. (1) related to maximum credit with respect to qualified solar water heating property expenditures, qualified fuel cellproperty, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–5, §1122(a)(1), amended par. (1) generally. Prior to amendment, par. (1) related to maximum credit with respect to qualified solar water heating property expenditures, qualified fuel cell property, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
 
 Subsec. (e)(4). Pub. L. 111–5, §1122(a)(2)(A), added par. heading and introductory provisions and struck out former heading and introductory provisions. Former introductory provisions read as follows: "In the case of any dwelling unit which is jointly occupied and used during any calendar year as a residence by two or more individuals the following rules shall apply:".
 
@@ -316,7 +316,7 @@ Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 
 
 Amendment by section 1103(b)(2)(B) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1103(c)(2) of Pub. L. 111–5, set out as a note under section 25C of this title.
 
-Pub. L. 111–5, div. B, title I, §1122(b), Feb. 17, 2009, 123 Stat. 324, provided that: "The amendments made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
+Pub. L. 111–5, div. B, title I, §1122(b), Feb. 17, 2009, 123 Stat. 324, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
 
 #### Effective Date of 2008 Amendment
 

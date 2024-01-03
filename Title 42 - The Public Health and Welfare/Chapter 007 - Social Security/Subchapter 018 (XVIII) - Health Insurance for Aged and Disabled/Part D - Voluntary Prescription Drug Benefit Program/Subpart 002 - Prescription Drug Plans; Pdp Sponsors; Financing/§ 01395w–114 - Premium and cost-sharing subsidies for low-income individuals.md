@@ -30,7 +30,7 @@
 
 #### (iii) Other individuals
 
-&emsp;&emsp;&emsp;Subject to paragraph (6), in the case of an individual not described in clause (i) or\(ii), the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of a copayment amount that does not exceed the copayment amount specified under section 1395w–102(b)(4)(A)(i)(I)(aa) of this title for the drug and year involved. For plan year 2023 and subsequent plan years, the copayment amount applicable under the preceding sentence to a month's supply of a covered insulin product (as defined in section 1395w–102(b)(9)(C) of this title) dispensed to the individual may not exceed the applicable copayment amount for the product under the prescription drug plan or MA–PD plan in which the individual is enrolled.
+&emsp;&emsp;&emsp;Subject to paragraph (6), in the case of an individual not described in clause (i) or (ii), the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of a copayment amount that does not exceed the copayment amount specified under section 1395w–102(b)(4)(A)(i)(I)(aa) of this title for the drug and year involved. For plan year 2023 and subsequent plan years, the copayment amount applicable under the preceding sentence to a month's supply of a covered insulin product (as defined in section 1395w–102(b)(9)(C) of this title) dispensed to the individual may not exceed the applicable copayment amount for the product under the prescription drug plan or MA–PD plan in which the individual is enrolled.
 
 #### (E) Elimination of cost-sharing above annual out-of-pocket threshold
 
@@ -84,7 +84,7 @@
 
 #### (iii) Redeterminations and appeals through medicaid
 
-&emsp;&emsp;&emsp;Redeterminations and appeals, with respect to eligibility determinations underclause (i) made under a State plan under subchapter XIX, shall be made in accordance with the frequency of, and manner in which, redeterminations and appeals of eligibility are made under such plan for purposes of medical assistance under such subchapter.
+&emsp;&emsp;&emsp;Redeterminations and appeals, with respect to eligibility determinations under clause (i) made under a State plan under subchapter XIX, shall be made in accordance with the frequency of, and manner in which, redeterminations and appeals of eligibility are made under such plan for purposes of medical assistance under such subchapter.
 
 #### (iv) Redeterminations and appeals through Commissioner
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;&emsp;The Secretary, jointly with the Commissioner of Social Security, shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) develop a model, simplified application form and process consistent with clause (iii) for the determination and verification of a part D eligible individual's assets or resources under this subparagraph; and
+&emsp;&emsp;&emsp;&emsp;(I) develop a model, simplified application form and process consistent with clause (iii) for the determination andverification of a part D eligible individual's assets or resources under this subparagraph; and
 
 &emsp;&emsp;&emsp;&emsp;(II) provide such form to States.
 
@@ -284,9 +284,9 @@ Beginning not later than January 1, 2011, the Secretary shall, in the case of a 
 
 &emsp;For purposes of this subsection, the term "transitional coverage" means with respect to an LI NET eligible individual—
 
-&emsp;&emsp;(A) immediate access to covered part D drugs at the point of sale during the period that begins on the first day of the monthsuch individual is determined to meet the requirements of clauses (ii) and (iii) of subsection (a)(3)(A) and ends on the date that coverage under a prescription drug plan or MA–PD plan takes effect with respect to such individual; and
+&emsp;&emsp;(A) immediate access to covered part D drugs at the point of sale during the period that begins on the first day of the month such individual is determined to meet the requirements of clauses (ii) and (iii) of subsection (a)(3)(A) and ends on the date that coverage under a prescription drug plan or MA–PD plan takes effect with respect to such individual; and
 
-&emsp;&emsp;(B) in the case of an LI NET eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) or a recipient of supplemental security income benefits under subchapter XVI, retroactive coverage (in the form of reimbursement of the amounts that would have been paid under this part had such individual been enrolled in a prescription drug plan or MA–PD plan) of covered part D drugs purchased by such individual during the period that begins on the date that is the later of—
+&emsp;&emsp;(B) in the case of an LI NET eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) ofthis title) or a recipient of supplemental security income benefits under subchapter XVI, retroactive coverage (in the form of reimbursement of the amounts that would have been paid under this part had such individual been enrolled in a prescription drug plan or MA–PD plan) of covered part D drugs purchased by such individual during the period that begins on the date that is the later of—
 
 &emsp;&emsp;&emsp;(i) the date that such individual was first eligible for a low-income subsidy under this part; or
 
@@ -360,7 +360,7 @@ Subsec. (a)(1)(E). Pub. L. 117–169, §11406(b)(1)(B), inserted before period a
 
 Pub. L. 117–169, §11201(e)(3)(A)(iii), substituted "For a year preceding 2024, the elimination" for "The elimination".
 
-Subsec. (a)(2). Pub. L. 117–169, §11404(3), substituted "Other low-income individuals" for "Other individualswith income below 150 percent of poverty line" in heading and "With respect to a plan year beginning before January 1, 2024, in the case of a subsidy" for "In the case of a subsidy" in introductory provisions.
+Subsec. (a)(2). Pub. L. 117–169, §11404(3), substituted "Other low-income individuals" for "Other individuals with income below 150 percent of poverty line" in heading and "With respect to a plan year beginning before January 1, 2024, in the case of a subsidy" for "In the case of a subsidy" in introductory provisions.
 
 Subsec. (a)(2)(B). Pub. L. 117–169, §11406(b)(2)(A), substituted "paragraphs (8) and (9) of section 1395w–102(b)" for "section 1395w–102(b)(8)".
 

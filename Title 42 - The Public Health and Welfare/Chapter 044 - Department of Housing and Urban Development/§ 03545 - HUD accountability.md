@@ -132,7 +132,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (2) Objections not raised in hearing
 
-&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (g)(1) unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+&emsp;The court shall not consider any objection that was not raised in the hearing conductedpursuant to subsection (g)(1) unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
 #### (3) Scope of review
 

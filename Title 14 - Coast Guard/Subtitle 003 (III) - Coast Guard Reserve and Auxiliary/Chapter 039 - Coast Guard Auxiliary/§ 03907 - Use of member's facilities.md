@@ -6,7 +6,7 @@ Motor Boats, Yachts, Aircraft, and Radio Stations.—The Coast Guard may utilize
 
 (b)
 
-Motor Vehicles.—The Coast Guard may utilize to carry out its functions and duties as authorized by the Secretary any motor vehicle (as defined in section 30102 of title 49) placed at its disposition by any member of the Auxiliary, by any corporation, partnership, or association, or by any State or political subdivision thereof, to tow Federal Government property.
+Motor Vehicles.—The Coast Guard may utilize to carry out its functions and duties as authorized by the Secretary any motor vehicle\(as defined in section 30102 of title 49) placed at its disposition by any member of the Auxiliary, by any corporation, partnership, or association, or by any State or political subdivision thereof, to tow Federal Government property.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 555, §826; Aug. 3, 1950, ch. 536, §35, 64 Stat. 408; Pub. L. 109–241, title II, §208(a), July 11, 2006, 120 Stat. 522; Pub. L. 115–232, div. C, title XXXV, §3533(j), Aug. 13, 2018, 132 Stat. 2321; renumbered §3907, Pub. L. 115–282, title I, §119(b), Dec. 4, 2018, 132 Stat. 4236.)
 

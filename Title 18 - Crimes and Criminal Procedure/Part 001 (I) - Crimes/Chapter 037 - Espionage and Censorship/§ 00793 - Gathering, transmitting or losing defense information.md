@@ -18,7 +18,7 @@ Shall be fined under this title or imprisoned not more than ten years, or both.
 
 (h)(1) Any person convicted of a violation of this section shall forfeit to the United States, irrespective of any provision of State law, any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, from any foreign government, or any faction or party or military or naval force within a foreign country, whether recognized or unrecognized by the United States, as the result of such violation. For the purposes of this subsection, the term "State" includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(2) The court, in imposing sentence on a defendant for a conviction of a violation of this section, shall order that the defendant forfeit to the United States all property described in paragraph (1) of this subsection.
+(2) The court, in imposing sentence on a defendant for a conviction of a violation of thissection, shall order that the defendant forfeit to the United States all property described in paragraph (1) of this subsection.
 
 (3) The provisions of subsections (b), (c), and (e) through (p) of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853(b), (c), and (e)–(p)) shall apply to—
 

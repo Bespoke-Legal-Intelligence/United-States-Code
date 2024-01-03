@@ -8,5 +8,5 @@ Not later than 1 year after December 21, 2022, the Secretary, in consultation wi
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 117–258, Dec. 21, 2022, 136 Stat. 2372, known as the Safeguard Tribal Objects of Patrimony Act of 2021, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3071 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 117–258, Dec. 21, 2022, 136Stat. 2372, known as the Safeguard Tribal Objects of Patrimony Act of 2021, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3071 of this title and Tables.
 

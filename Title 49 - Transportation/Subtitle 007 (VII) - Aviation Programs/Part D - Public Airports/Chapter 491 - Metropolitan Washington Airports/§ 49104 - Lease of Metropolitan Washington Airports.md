@@ -40,7 +40,7 @@ General.—The lease between the Secretary of Transportation and the Metropolita
 
 &emsp;(B) The procedure for disputes resolution contained in any contract entered into on behalf of the United States Government before June 7, 1987, continues to govern the performance of the contract unless otherwise agreed to by the parties to the contract. Claims for monetary damages founded in tort, by or against the Government as the owner and operator of the Metropolitan Washington Airports, arising before June 7, 1987, shall be adjudicated as if the lease had not been entered into.
 
-&emsp;(C) The Administration is responsible for reimbursing the Employees' Compensation Fund, as provided in section 8147 of title 5, for compensation paid or payable after June 7, 1987, in accordance with chapter 81 of title 5 for any injury, disability, or death due to events arising before June 7, 1987, whether or not a claim was filed or was final on that date.
+&emsp;(C) The Administration is responsible for reimbursing the Employees' Compensation Fund, as provided in section 8147 of title 5, forcompensation paid or payable after June 7, 1987, in accordance with chapter 81 of title 5 for any injury, disability, or death due to events arising before June 7, 1987, whether or not a claim was filed or was final on that date.
 
 &emsp;(D) The Airports Authority shall continue all collective bargaining rights enjoyed by employees of the Metropolitan Washington Airports before June 7, 1987.
 
@@ -152,7 +152,7 @@ In subsection (b), the text of section 6005(b)(2) of the Metropolitan Washington
 
 Section 6005(a) of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (a), is section 6005(a) of Pub. L. 99–500, title VI, Oct. 18, 1986, 100 Stat. 1783–375, and Pub. L. 99–591, title VI, Oct. 30, 1986, 100 Stat. 3341–378, which was classified to section 2454(a) of former Title 49, Transportation, and was repealed and reenacted as subsec. (a) of this section by Pub. L. 105–102, §§2(26), 5(b), Nov. 20, 1997, 111 Stat. 2205, 2217.
 
-The Airport and Airway Improvement Act of 1982, referred to in subsec. (a)(3), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, which was classified principally to chapter 31 (§2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub.L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as subchapter I of chapter 471 of Title 49, Transportation.
+The Airport and Airway Improvement Act of 1982, referred to in subsec. (a)(3), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, which was classified principally to chapter 31 (§2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as subchapter I of chapter 471 of Title 49, Transportation.
 
 #### Prior Provisions
 

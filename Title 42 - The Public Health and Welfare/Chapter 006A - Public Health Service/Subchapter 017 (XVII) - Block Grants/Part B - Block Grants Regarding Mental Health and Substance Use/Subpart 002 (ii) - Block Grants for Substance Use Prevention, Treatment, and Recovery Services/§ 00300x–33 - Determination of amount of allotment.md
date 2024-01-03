@@ -88,7 +88,7 @@
 
 &emsp;For purposes of subsections (a) and (b), the term "State" does not include the territories of the United States.
 
-#### (d) Indian tribes and tribal organizations
+#### (d) Indian Tribes and Tribal organizations
 
 #### (1) In general
 

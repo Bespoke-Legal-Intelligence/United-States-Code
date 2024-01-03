@@ -28,7 +28,7 @@ The Coordinator shall, in addition to other assigned duties, coordinate with rel
 
 #### (c) Coordination with private sector
 
-The Coordinator shall, among other assigned duties, working with the Office of Partnership and Engagement and other relevant Department offices and components, or other Federal agencies, as appropriate, serve as the principal Department official responsible for sharing to theprivate sector information regarding counter UAS technology, particularly information regarding instances in which counter UAS technology may impact lawful private sector services or systems.
+The Coordinator shall, among other assigned duties, working with the Office of Partnership and Engagement and other relevant Department offices and components, or other Federal agencies, as appropriate, serve as the principal Department official responsible for sharing to the private sector information regarding counter UAS technology, particularly information regarding instances in which counter UAS technology may impact lawful private sector services or systems.
 
 (Pub. L. 107–296, title III, §321, as added Pub. L. 116–260, div. U, title VII, §701(b)(1), Dec. 27, 2020, 134 Stat. 2295.)
 

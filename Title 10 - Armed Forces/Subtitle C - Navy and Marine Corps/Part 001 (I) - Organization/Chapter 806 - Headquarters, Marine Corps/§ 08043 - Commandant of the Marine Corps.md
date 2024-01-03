@@ -1,6 +1,6 @@
 ### §8043. Commandant of the Marine Corps
 
-(a)(1) There is a Commandant of the Marine Corps, appointed by the President, by and with the advice and consent of the Senate. The Commandant shall be appointed for a term of four years from the general officers of the Marine Corps. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
+(a)(1) There is a Commandant of the Marine Corps, appointed by the President, by and with the advice and consent of the Senate. The Commandant shall be appointed for a term of fouryears from the general officers of the Marine Corps. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
 
 (2) The President may appoint an officer as Commandant of the Marine Corps only if—
 
@@ -36,7 +36,7 @@
 
 (3) Subject to the authority, direction, and control of the Secretary of Defense, the Commandant shall keep the Secretary of the Navy fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-(Added Pub. L. 99–433, title V, §513(b), Oct. 1, 1986, 100 Stat. 1052, §5043; amended Pub. L.100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 102–190, div. A, title V, §505(b), Dec. 5, 1991, 105 Stat. 1358; Pub. L. 104–106, div. A, title V, §502(c), Feb. 10, 1996, 110 Stat. 293; Pub. L. 108–136, div. A, title V, §501(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 114–92, div. A, title VIII, §802(d)(4)(C), Nov. 25, 2015, 129 Stat. 880; renumbered §8043 and amended Pub. L. 115–232, div. A, title VIII, §§807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840; Pub. L. 116–283, div. A, title XVIII, §1808(d)(3), as added Pub. L. 117–81, div. A, title XVII, §1701(r)(2), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 116–283, div. A, title XVIII, §1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4257; Pub. L. 117–81, div. A, title XVII, §1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149.)
+(Added Pub. L. 99–433, title V, §513(b), Oct. 1, 1986, 100 Stat. 1052, §5043; amended Pub. L. 100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 102–190, div. A, title V, §505(b), Dec. 5, 1991, 105 Stat. 1358; Pub. L. 104–106, div. A, title V, §502(c), Feb. 10, 1996, 110 Stat. 293; Pub. L. 108–136, div. A, title V, §501(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 114–92, div. A, title VIII, §802(d)(4)(C), Nov. 25, 2015, 129 Stat. 880; renumbered §8043 and amended Pub. L. 115–232, div. A, title VIII, §§807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840; Pub. L. 116–283, div. A, title XVIII, §1808(d)(3), as added Pub. L. 117–81, div. A, title XVII, §1701(r)(2), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 116–283, div. A, title XVIII, §1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4257; Pub. L. 117–81, div. A, title XVII, §1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149.)
 
 #### <b>Editorial Notes</b>
 
@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 115–232, §809(a), substituted "section 8013(f)" for "sec
 
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

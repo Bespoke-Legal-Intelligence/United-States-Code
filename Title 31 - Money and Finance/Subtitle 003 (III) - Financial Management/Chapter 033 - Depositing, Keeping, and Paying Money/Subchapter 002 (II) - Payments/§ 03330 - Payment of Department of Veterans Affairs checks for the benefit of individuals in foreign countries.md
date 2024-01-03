@@ -12,7 +12,7 @@
 
 (3) The Secretary of Veterans Affairs may exempt a check from paragraph (1) of this subsection if the application of paragraph (1) would reduce, discontinue, or deny benefits for the care of a dependent of an individual in a foreign country.
 
-(b) When the amount of checks (representing payments to an individual under laws administered by the Secretary of Veterans Affairs) transferred under section 3329(b)(4) of this title equals $1,000, the amounts of additional checks (except checks under contracts of insurance) payable to the individual under those laws shall be deposited in the Treasury as miscellaneous receipts. An amount transferred under section 3329(b)(4) or deposited as miscellaneous receipts is deemed to be payment for all purposes to the individual entitled to payment.
+(b) When the amount of checks (representing payments to an individual under laws administered by the Secretary of Veterans Affairs) transferred under section 3329(b)(4) of this title equals $1,000, the amounts of additional checks (except checks under contracts of insurance) payable to the individual under those laws shall be deposited in the Treasury as miscellaneous receipts. An amount transferred under section 3329(b)(4) or deposited as miscellaneous receiptsis deemed to be payment for all purposes to the individual entitled to payment.
 
 (c) If the payee of a check for pension, compensation, or emergency officers' retirement pay under laws administered by the Secretary of Veterans Affairs dies while the amount of the check is in the special deposit account, the amount is payable (subject to section 3329 of this title and this section) as follows:
 

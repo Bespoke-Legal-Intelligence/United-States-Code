@@ -26,7 +26,7 @@ R.S. §§2609, 2610, relative to merchant appraisers, were superseded by the pro
 
 R.S. §2902 prescribed the mode of appraisal of merchandise, prior to repeal by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141.
 
-R.S. §2911 required appraisers to adopt the value of the best article in a package containing articles whollyor in part of wool or cotton of similar kind but different quality, charged at an average price, and R.S. §2912 related to appraisal of wool of different qualities when imported in the same bale, bag, or package, and of bales of different qualities when embraced in the same invoice, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+R.S. §2911 required appraisers to adopt the value of the best article in a package containing articles wholly or in part of wool or cotton of similar kind but different quality, charged at an average price, and R.S. §2912 related to appraisal of wool of different qualities when imported in the same bale, bag, or package, and of bales of different qualities when embraced in the same invoice, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 R.S. §2945 imposed a penalty on any merchant chosen by the collector to make any appraisement required under any act respecting imports and tonnage, who should, after due notice, decline or neglect to assess at such appraisement. This section was repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, and was again repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

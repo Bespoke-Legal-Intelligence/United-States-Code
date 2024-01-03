@@ -28,7 +28,7 @@ The Secretaries, with the advice of the Board, shall—
 
 #### (b) Biennial report
 
-The Secretaries shall submit to the President for transmittal to Congress by January 15 ofeach alternate year, beginning with January 15 following October 22, 1990, a biennial report that shall—
+The Secretaries shall submit to the President for transmittal to Congress by January 15 of each alternate year, beginning with January 15 following October 22, 1990, a biennial report that shall—
 
 &emsp;(1) evaluate the progress of the coordinated program;
 

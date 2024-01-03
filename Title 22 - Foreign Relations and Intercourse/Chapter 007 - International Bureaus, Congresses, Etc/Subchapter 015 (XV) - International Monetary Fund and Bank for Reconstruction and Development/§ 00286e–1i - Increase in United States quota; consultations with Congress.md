@@ -8,7 +8,7 @@
 
 &emsp;(B) the committee on Foreign Relations, the Committee on Appropriations, and the Committee on Banking, Housing, and Urban Affairs of the Senate, and any appropriate subcommittee of each such committee,
 
-> for purposes of discussing the position of the executive branch and the views of the Congress with respect to any international negotiations being held to consider any future quota increase for the International Monetary Fund which may involve an increased contribution, subscription, or loan by the United States.
+> for purposes of discussing the position of the executive branch and the views of the Congress with respect to any international negotiationsbeing held to consider any future quota increase for the International Monetary Fund which may involve an increased contribution, subscription, or loan by the United States.
 
 (2) Such consultation shall be made—
 

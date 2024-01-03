@@ -1,0 +1,40 @@
+### §276c–7. Internships of United States nationals at international organizations
+
+#### (a) In general
+
+The Secretary is authorized to bolster efforts to increase the number of United States citizens representative of the American people occupying positions in the United Nations system, agencies, and commissions, and in other international organizations, including by awarding grants to educational institutions and students.
+
+#### (b) Report
+
+Not later than 90 days after December 22, 2023, the Secretary of State shall submit a report to the appropriate congressional committees that identifies—
+
+&emsp;(1) the number of United States citizens who are involved in internship programs at international organizations;
+
+&emsp;(2) the distribution of the individuals described in paragraph (1) among various international organizations; and
+
+&emsp;(3) grants, programs, and other activities that are being utilized to recruit and fund United States citizens to participate in internship programs at international organizations.
+
+#### (c) Eligibility
+
+An individual referred to in subsection (a) is an individual who—
+
+&emsp;(1) is enrolled at or received their degree within two years from—
+
+&emsp;&emsp;(A) an institution of higher education; or
+
+&emsp;&emsp;(B) an institution of higher education based outside the United States, as determined by the Secretary; and
+
+&emsp;(2) is a citizen of the United States.
+
+#### (d) Authorization of appropriations
+
+There is authorized to be appropriated $1,500,000 for the Department for fiscal year 2024 to carry out the grant program authorized under subsection (a).
+
+(Pub. L. 118–31, div. F, title LXVII, §6701, Dec. 22, 2023, 137 Stat. 1014.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Definitions
+
+For definitions of "Secretary", "appropriate congressional committees", and "Department" as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under section 2651 of this title.
+

@@ -20,7 +20,7 @@
 
 &emsp;(4) include other agreed terms.
 
-(Pub. L. 100–424, §6(a), Sept. 9, 1988, 102 Stat. 1591; Pub. L. 104–324, title VII, §739, Oct. 19, 1996, 110 Stat. 3942; Pub. L. 107–295, title IV, §441(a), (b), Nov. 25, 2002, 116 Stat. 2131; Pub. L. 117–263,div. K, title CXV, §11526, Dec. 23, 2022, 136 Stat. 4145.)
+(Pub. L. 100–424, §6(a), Sept. 9, 1988, 102 Stat. 1591; Pub. L. 104–324, title VII, §739, Oct. 19, 1996, 110 Stat. 3942; Pub. L. 107–295, title IV, §441(a), (b), Nov. 25, 2002, 116 Stat. 2131; Pub. L. 117–263, div. K, title CXV, §11526, Dec. 23, 2022, 136 Stat. 4145.)
 
 Historical and Revision Notes
 

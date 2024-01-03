@@ -74,7 +74,7 @@ In this section:
 
 #### (2) Coordinated review
 
-&emsp;The coordinated environmental review process described in paragraph (1) shall require that any review, analysis, opinion, statement, permit, license, or other approval or decision issued or made by a Federal, State, or local governmental agency or an Indian tribe for a project study described in subsection (b) be conducted, to the maximum extent practicable, concurrently with any other applicable governmental agency or Indian tribe.
+&emsp;The coordinated environmental review process described in paragraph (1) shall require that any review, analysis, opinion, statement, permit, license, or other approval or decision issued or made by a Federal, State, or localgovernmental agency or an Indian tribe for a project study described in subsection (b) be conducted, to the maximum extent practicable, concurrently with any other applicable governmental agency or Indian tribe.
 
 #### (3) Timing
 
@@ -336,7 +336,7 @@ In this section:
 
 #### (A) Reporting requirements
 
-&emsp;&emsp;Not later than 1 year after June 10, 2014, the Secretary shall establish and maintain an electronic database and, in coordination with other Federal and State agencies, issue reporting requirements to make publicly available the status and progress with respect to compliance with applicable requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et. seq.) and any other Federal, State, or local approval or action required for a project study for which this section is applicable.
+&emsp;&emsp;Not later than 1 year after June 10, 2014, the Secretary shall establish and maintainan electronic database and, in coordination with other Federal and State agencies, issue reporting requirements to make publicly available the status and progress with respect to compliance with applicable requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et. seq.) and any other Federal, State, or local approval or action required for a project study for which this section is applicable.
 
 #### (B) Project study transparency
 
@@ -436,7 +436,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) significant new information, including from public comments, or circumstances, including a major modification to an aspect of the project, requires additional analysis for the agency to make a decision on the project application; or
 
-&emsp;&emsp;&emsp;&emsp;(III) the agency lacks the financial resources to complete the review under the scheduled time frame, including a description of the number of full-time employees required to complete the review,the amount of funding required to complete the review, and a justification as to why not enough funding is available to complete the review by the deadline.
+&emsp;&emsp;&emsp;&emsp;(III) the agency lacks the financial resources to complete the review under the scheduled time frame, including a description of the number of full-time employees required to complete the review, the amount of funding required to complete the review, and a justification as to why not enough funding is available to complete the review by the deadline.
 
 #### (ii) Lack of financial resources
 
@@ -470,7 +470,7 @@ In this section:
 
 #### (3) Memorandum of agency agreement
 
-&emsp;If requested at any time by a State or project sponsor, the Federal lead agency, in consultation with other Federal agencies with relevant jurisdiction in the environmental review process, may establish memoranda of agreement with the project sponsor, Indian tribe, State and local governments, and other appropriate entities to carry out the early coordination activities, including providing technical assistance in identifying potential impacts and mitigation issues in an integrated fashion.
+&emsp;If requested at any time by a State or project sponsor, the Federal lead agency, in consultation with other Federal agencies with relevant jurisdiction in the environmental review process, may establish memoranda ofagreement with the project sponsor, Indian tribe, State and local governments, and other appropriate entities to carry out the early coordination activities, including providing technical assistance in identifying potential impacts and mitigation issues in an integrated fashion.
 
 #### (j) Limitations
 
@@ -556,7 +556,7 @@ The Secretary shall establish a program to measure and report on progress made t
 
 #### (o) Implementation guidance
 
-The Secretary shall prepare, in consultation with the Council on Environmental Quality and other Federal agencies with jurisdiction over actions or resources that may be impacted by a project, guidance documents that describe the coordinated environmental review processes that the Secretary intends to use to implement this section for the planning of projects, in accordance with the civil works program of the Corps of Engineers and all applicable law.
+The Secretary shall prepare, in consultation with the Council on Environmental Quality and other Federal agencies with jurisdiction over actions or resources that may be impacted by a project, guidance documents that describe the coordinated environmental review processes that the Secretary intends to use to implementthis section for the planning of projects, in accordance with the civil works program of the Corps of Engineers and all applicable law.
 
 (Pub. L. 110–114, title II, §2045, Nov. 8, 2007, 121 Stat. 1103; Pub. L. 113–121, title I, §1005(a)(1), June 10, 2014, 128 Stat. 1199.)
 

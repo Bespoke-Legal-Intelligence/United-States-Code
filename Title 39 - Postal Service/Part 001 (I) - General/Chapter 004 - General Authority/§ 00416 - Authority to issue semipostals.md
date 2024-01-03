@@ -184,7 +184,7 @@ In general.—The United States Postal Service shall sell each copy of the Multi
 
 &emsp;&emsp;"(B)
 
-Notification of congress.—The United States Postal Service shall notify the Committee on Homeland Security and Governmental Affairs in the Senate, the Committee on Environment and Public Works of the Senate, the Committee on Oversight and Reform of the House of Representatives, and the Committee on Natural Resources of the House of Representatives when all copies of the Multinational Species Conservation Fund Semipostal Stamp printed under this Act have been sold.
+Notification of congress.—The United States Postal Service shall notify the Committee on Homeland Security and Governmental Affairs in the Senate, the Committee on Environment and Public Works of the Senate, the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, and the Committee on Natural Resources of the House of Representatives when all copies of the Multinational Species Conservation Fund Semipostal Stamp printed under this Act have been sold.
 
 "(d)
 
@@ -292,5 +292,5 @@ Pub. L. 106–253, §2(b), July 28, 2000, 114 Stat. 636, provided that: "Each ag
 
 #### Reports by the Government Accountability Office
 
-Pub. L. 106–253, §2(c), July 28, 2000, 114 Stat. 636, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, which required the GAO to submit both interim and final reports to the President and each House of Congress on operations of the program established under this section, with the final report to include a detailed statement of the findings and conclusions of the GAO and any appropriate recommendations, was repealed by Pub. L. 112–234, §2(e)(1), Dec. 28, 2012, 126 Stat. 1624.
+Pub. L. 106–253, §2(c), July 28, 2000, 114 Stat. 636, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, which required the GAO to submit both interim and final reports to the President and each House ofCongress on operations of the program established under this section, with the final report to include a detailed statement of the findings and conclusions of the GAO and any appropriate recommendations, was repealed by Pub. L. 112–234, §2(e)(1), Dec. 28, 2012, 126 Stat. 1624.
 

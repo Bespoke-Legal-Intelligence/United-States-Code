@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) in the case of a respondent who has more than 14 and fewer than 101 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $50,000;
 
-&emsp;&emsp;(B) in the case of a respondent who has more than 100 and fewer than 201 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $100,000; and
+&emsp;&emsp;(B) in the case of a respondent who has more than 100 and fewer than 201 employeesin each of 20 or more calendar weeks in the current or preceding calendar year, $100,000; and
 
 &emsp;&emsp;(C) in the case of a respondent who has more than 200 and fewer than 501 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $200,000; and
 

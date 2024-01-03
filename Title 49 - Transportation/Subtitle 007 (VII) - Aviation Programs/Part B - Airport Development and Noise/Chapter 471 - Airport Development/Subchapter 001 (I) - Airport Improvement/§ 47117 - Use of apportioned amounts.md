@@ -92,7 +92,7 @@ Restoration of apportionments.—
 
 &emsp;&emsp;(A)
 
-In general.—If the fiscal year for which a finding is made under paragraph (1) with respect to an apportionment is not the last fiscal year of availability of the apportionment under subsection (b), the Secretary shall restore to the apportionment an amount equal to the amount of the apportionment used under paragraph (1) for a discretionary grant whenever a sufficient amount is made available under section 48103.
+In general.—If the fiscal year for which a finding is made under paragraph (1) with respect to an apportionment is not the last fiscal year of availability of the apportionment under subsection (b), the Secretary shall restore to the apportionment an amount equal to the amount of the apportionment used under paragraph (1) for a discretionary grant whenever a sufficientamount is made available under section 48103.
 
 &emsp;&emsp;(B)
 
@@ -260,7 +260,7 @@ Subsec. (e)(1)(B). Pub. L. 115–254, §539(p), which directed substitution of "
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–176, §150, substituted "nonhub airport or any airport that is not a commercial service airport" for "primary airport that had less than .05 percent of the total boardings in the United States in the preceding calendar year".
 
-Subsec. (c)(2). Pub. L. 108–176, §149(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "A sponsor of a primary airport may make an agreement with the Secretary of Transportation waiving any part of the amount apportioned for the airport under section 47114(c)(1) of this title if the Secretary makes the waived amount available for a grantfor another public-use airport in the same State or geographical area as the primary airport."
+Subsec. (c)(2). Pub. L. 108–176, §149(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "A sponsor of a primary airport may make an agreement with the Secretary of Transportation waiving any part of the amount apportioned for the airport under section 47114(c)(1) of this title if the Secretary makes the waived amount available for a grant for another public-use airport in the same State or geographical area as the primary airport."
 
 Subsec. (e)(1)(A). Pub. L. 108–176, §151, substituted "At least 35 percent" for "At least 34 percent", "section 47505(a)(2)," for "section 47505(a)(2) of this title and", ", for noise mitigation projects approved in an environmental record of decision for an airport development project under this title, for compatible land use planning and projects carried out by State and local governments under section 47141, and for airport development described in section 47102(3)(F), 47102(3)(K), or 47102(3)(L) to comply with the Clean Air Act (42 U.S.C. 7401 et seq.)." for "of this title.", and "35 percent requirement" for "34 percent requirement".
 

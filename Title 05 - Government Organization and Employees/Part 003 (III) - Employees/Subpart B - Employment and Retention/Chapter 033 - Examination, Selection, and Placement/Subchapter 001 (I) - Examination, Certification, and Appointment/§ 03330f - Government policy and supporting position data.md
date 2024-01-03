@@ -220,7 +220,7 @@ Confirmation.—
 
 &emsp;&emsp;(A)
 
-In general.—On the date that is 90 days after the date on which the covered website is established, the Director, in coordination with the White House Office of Presidential Personnel, shall confirm thatthe information on the covered website is complete, accurate, reliable, and up-to-date.
+In general.—On the date that is 90 days after the date on which the covered website is established, the Director, in coordination with the White House Office of Presidential Personnel, shall confirm that the information on the covered website is complete, accurate, reliable, and up-to-date.
 
 &emsp;&emsp;(B)
 

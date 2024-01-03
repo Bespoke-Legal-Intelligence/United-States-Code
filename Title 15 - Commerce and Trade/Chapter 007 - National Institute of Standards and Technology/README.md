@@ -51,6 +51,7 @@
 | [278r.](%C2%A7%2000278r%20-%20Collaborative%20manufacturing%20research%20pilot%20grants.md) | Collaborative manufacturing research pilot grants. |
 | [278s.](%C2%A7%2000278s%20-%20Manufacturing%20USA.md) | Manufacturing USA. |
 | [278t.](%C2%A7%2000278t%20-%20Advanced%20communications%20research%20activities.md) | Advanced communications research activities. |
+| [278u.](%C2%A7%2000278u%20-%20Xylazine%20detection%20and%20analysis.md) | Xylazine detection and analysis. |
 | [279\.](%C2%A7%2000279%20-%20Absence%20of%20Director.md) | Absence of Director. |
 | 280, 281. | Repealed. |
 | [281a.](%C2%A7%2000281a%20-%20Structural%20failures.md) | Structural failures. |
@@ -115,6 +116,7 @@
 - [&sect; 00278r - Collaborative manufacturing research pilot grants](%C2%A7%2000278r%20-%20Collaborative%20manufacturing%20research%20pilot%20grants.md)
 - [&sect; 00278s - Manufacturing USA](%C2%A7%2000278s%20-%20Manufacturing%20USA.md)
 - [&sect; 00278t - Advanced communications research activities](%C2%A7%2000278t%20-%20Advanced%20communications%20research%20activities.md)
+- [&sect; 00278u - Xylazine detection and analysis](%C2%A7%2000278u%20-%20Xylazine%20detection%20and%20analysis.md)
 - [&sect; 00279 - Absence of Director](%C2%A7%2000279%20-%20Absence%20of%20Director.md)
 - [&sect; 00280, 281 - Repealed. Pub. L. 100&#8211;418, title V, &sect;5113, Aug. 23, 1988, 102 Stat. 1432](%C2%A7%2000280%2C%20281%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93418%2C%20title%20V%2C%20%C2%A75113%2C%20Aug.%2023%2C%201988%2C%20102%20Stat.%201432.md)
 - [&sect; 00281a - Structural failures](%C2%A7%2000281a%20-%20Structural%20failures.md)

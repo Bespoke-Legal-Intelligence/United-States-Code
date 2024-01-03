@@ -1,6 +1,6 @@
 ### §5850. Unresolved safety issues plan
 
-The Commission shall develop a plan providing for the specification and analysis of unresolved safety issues relating to nuclear reactors and shall take such action as may be necessary to implement corrective measures with respect to such issues. Such plan shall be submitted to the Congress on or before January 1, 1978 and progress reports shall be included in the annual report of the Commission thereafter.
+The Commission shall develop a plan providing for the specification and analysis of unresolved safety issues relating to nuclear reactorsand shall take such action as may be necessary to implement corrective measures with respect to such issues. Such plan shall be submitted to the Congress on or before January 1, 1978 and progress reports shall be included in the annual report of the Commission thereafter.
 
 (Pub. L. 93–438, title II, §210, as added Pub. L. 95–209, §3, Dec. 13, 1977, 91 Stat. 1482.)
 

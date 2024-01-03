@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(b) "wild free-roaming horses and burros" means all unbranded and unclaimed horses and burros on public lands of the United States;
 
-&emsp;(c) "range" means the amount of land necessary to sustain an existing herd or herds ofwild free-roaming horses and burros, which does not exceed their known territorial limits, and which is devoted principally but not necessarily exclusively to their welfare in keeping with the multiple-use management concept for the public lands;
+&emsp;(c) "range" means the amount of land necessary to sustain an existing herd or herds of wild free-roaming horses and burros, which does not exceed their known territorial limits, and which is devoted principally but not necessarily exclusively to their welfare in keeping with the multiple-use management concept for the public lands;
 
 &emsp;(d) "herd" means one or more stallions and his mares; and <sup>1</sup>
 

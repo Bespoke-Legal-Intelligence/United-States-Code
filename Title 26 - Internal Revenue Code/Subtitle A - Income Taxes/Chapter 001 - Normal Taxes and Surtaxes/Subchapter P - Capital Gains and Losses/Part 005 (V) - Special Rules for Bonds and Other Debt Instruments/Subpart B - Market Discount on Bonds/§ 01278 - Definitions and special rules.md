@@ -28,7 +28,7 @@ For purposes of this part—
 
 #### (C) Section 1277 not applicable to tax-exempt obligations
 
-&emsp;&emsp;For purposes of section 1277, the term "market discount bond" shall not includeany tax-exempt obligation (as defined in section 1275(a)(3)).
+&emsp;&emsp;For purposes of section 1277, the term "market discount bond" shall not include any tax-exempt obligation (as defined in section 1275(a)(3)).
 
 #### (D) Treatment of bonds acquired at original issue
 
@@ -112,7 +112,7 @@ For purposes of this part—
 
 #### (c) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subpart, including regulations providing proper adjustments in the case of a bond theprincipal of which may be paid in 2 or more payments.
+The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subpart, including regulations providing proper adjustments in the case of a bond the principal of which may be paid in 2 or more payments.
 
 (Added and amended Pub. L. 98–369, div. A, title I, §41(a), title X, §1001(b)(24), July 18, 1984, 98 Stat. 547; Pub. L. 99–514, title XVIII, §§1803(a)(6), 1878(a), 1899A(32), Oct. 22, 1986, 100 Stat. 2793, 2903, 2960; Pub. L. 100–647, title I, §§1006(u)(2), 1018(c)(2), (3), Nov. 10, 1988, 102 Stat. 3427, 3578; Pub. L. 103–66, title XIII, §13206(b)(2), Aug. 10, 1993, 107 Stat. 465; Pub. L. 115–141, div. U, title IV, §401(a)(181), (c)(1)(G), Mar. 23, 2018, 132 Stat. 1193, 1205.)
 

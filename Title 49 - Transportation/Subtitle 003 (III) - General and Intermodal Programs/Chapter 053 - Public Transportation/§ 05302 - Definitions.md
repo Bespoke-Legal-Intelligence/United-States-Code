@@ -4,7 +4,7 @@ Except as otherwise specifically provided, in this chapter the following definit
 
 &emsp;(1)
 
-Assault on a transit worker.—The term "assault on a transit worker" means a circumstance in which an individual knowingly, without lawful authority or permission, and with intent to endanger the safety of any individual, or with a reckless disregard for the safety of human life, interferes with, disables, or incapacitates a transit worker while the transit worker is performing the duties of the transit worker.
+Assault on a transit worker.—The term "assault on a transit worker" means acircumstance in which an individual knowingly, without lawful authority or permission, and with intent to endanger the safety of any individual, or with a reckless disregard for the safety of human life, interferes with, disables, or incapacitates a transit worker while the transit worker is performing the duties of the transit worker.
 
 &emsp;(2)
 
@@ -200,7 +200,7 @@ Eligible low-income individual.—The term "eligible low-income individual" mean
 
 &emsp;&emsp;&emsp;(ii)
 
-Welfare recipient.—The term "welfare recipient" means an individual who has received assistance under a State or tribal program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) at any time during the 3-year period before the date on which the applicant applies for a grant under section 5307 or 5311.
+Welfare recipient.—The term "welfare recipient" means an individual whohas received assistance under a State or tribal program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) at any time during the 3-year period before the date on which the applicant applies for a grant under section 5307 or 5311.
 
 &emsp;(11)
 

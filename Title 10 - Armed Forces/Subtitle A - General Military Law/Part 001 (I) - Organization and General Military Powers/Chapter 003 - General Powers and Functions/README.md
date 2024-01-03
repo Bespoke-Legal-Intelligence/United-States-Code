@@ -16,9 +16,9 @@
 | [127a.](%C2%A7%2000127a%20-%20Operations%20for%20which%20funds%20are%20not%20provided%20in%20advance%20funding%20mechanisms.md) | Operations for which funds are not provided in advance: funding mechanisms. |
 | [127b.](%C2%A7%2000127b%20-%20Department%20of%20Defense%20rewards%20program.md) | Department of Defense rewards program. |
 | [127c.](%C2%A7%2000127c%20-%20Purchase%20of%20weapons%20overseas%20force%20protection.md) | Purchase of weapons overseas: force protection. |
-| \[127d. | Renumbered.\] |
+| [127d.](%C2%A7%2000127d%20-%20Support%20of%20special%20operations%20for%20irregular%20warfare.md) | Support of special operations for irregular warfare. |
 | [127e.](%C2%A7%2000127e%20-%20Support%20of%20special%20operations%20to%20combat%20terrorism.md) | Support of special operations to combat terrorism. |
-| [127f.](%C2%A7%2000127f%20-%20Expenditure%20of%20funds%20for%20clandestine%20activities%20that%20support%20operational%20preparation%20of%20the%20environment.md) | Expenditure of funds for clandestine activities that support operational preparation of the environment. |
+| [127f.](%C2%A7%2000127f%20-%20Expenditure%20of%20funds%20for%20clandestine%20activities%20that%20support%20operational%20preparation%20of%20the%20environment%20and%20non-conventional%20assisted%E2%80%A6.md) | Expenditure of funds for clandestine activities that support operational preparation of the environment and non-conventional assisted recovery capabilities. |
 | [128\.](%C2%A7%2000128%20-%20Control%20and%20physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md) | Control and physical protection of special nuclear material: limitation on dissemination of unclassified information. |
 | [129\.](%C2%A7%2000129%20-%20Civilian%20personnel%20management.md) | Civilian personnel management. |
 | [129a.](%C2%A7%2000129a%20-%20General%20policy%20for%20total%20force%20management.md) | General policy for total force management. |
@@ -43,6 +43,8 @@
 
 #### Amendments
 
+<b>2023</b>—Pub. L. 118–31, div. A, title XII, §§1201(b), 1221(b), Dec. 22, 2023, 137 Stat. 441, 453, added items 127d and 127f and struck out former item 127f "Expenditure of funds for clandestine activities that support operational preparation of the environment".
+
 <b>2022</b>—Pub. L. 117–263, div. A, title X, §1042(b), Dec. 23, 2022, 136 Stat. 2770, added item 130a.
 
 <b>2021</b>—Pub. L. 116–283, div. A, title IX, §911(a)(2), title X, §1052(b), Jan. 1, 2021, 134 Stat. 3801, 3850, added items 125a and 127f.
@@ -57,7 +59,7 @@
 
 <b>2014</b>—Pub. L. 113–291, div. A, title X, §1071(f)(2), Dec. 19, 2014, 128 Stat. 3510, substituted "Treatment under Freedom of Information Act of certain critical infrastructure security information" for "Treatment under Freedom of Information Act of critical infrastructure security information" in item 130e and "Congressional notification of sensitive military operations" for "Congressional notification regarding sensitive military operations" in item 130f.
 
-<b>2013</b>—Pub. L. 113–66, div. A, title X, §§1041(a)(2), 1091(a)(2), Dec. 26, 2013, 127 Stat. 857, 875, added item 130fand substituted "Treatment under Freedom of Information Act of critical infrastructure security information" for "Treatment under Freedom of Information Act of certain critical infrastructure security information" in item 130e.
+<b>2013</b>—Pub. L. 113–66, div. A, title X, §§1041(a)(2), 1091(a)(2), Dec. 26, 2013, 127 Stat. 857, 875, added item 130f and substituted "Treatment under Freedom of Information Act of critical infrastructure security information" for "Treatment under Freedom of Information Act of certain critical infrastructure security information" in item 130e.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title VIII, §802(a)(2), title IX, §931(b), title X, §1091(b), Dec. 31, 2011, 125 Stat. 1485, 1543, 1605, added items 129d and 130e and substituted "General policy for total force management" for "General personnel policy" in item 129a.
 
@@ -126,9 +128,9 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 "
 - [&sect; 00127a - Operations for which funds are not provided in advance funding mechanisms](%C2%A7%2000127a%20-%20Operations%20for%20which%20funds%20are%20not%20provided%20in%20advance%20funding%20mechanisms.md)
 - [&sect; 00127b - Department of Defense rewards program](%C2%A7%2000127b%20-%20Department%20of%20Defense%20rewards%20program.md)
 - [&sect; 00127c - Purchase of weapons overseas force protection](%C2%A7%2000127c%20-%20Purchase%20of%20weapons%20overseas%20force%20protection.md)
-- [&sect; 00127d - Renumbered &sect;331](%C2%A7%2000127d%20-%20Renumbered%20%C2%A7331.md)
+- [&sect; 00127d - Support of special operations for irregular warfare](%C2%A7%2000127d%20-%20Support%20of%20special%20operations%20for%20irregular%20warfare.md)
 - [&sect; 00127e - Support of special operations to combat terrorism](%C2%A7%2000127e%20-%20Support%20of%20special%20operations%20to%20combat%20terrorism.md)
-- [&sect; 00127f - Expenditure of funds for clandestine activities that support operational preparation of the environment](%C2%A7%2000127f%20-%20Expenditure%20of%20funds%20for%20clandestine%20activities%20that%20support%20operational%20preparation%20of%20the%20environment.md)
+- [&sect; 00127f - Expenditure of funds for clandestine activities that support operational preparation of the environment and non-conventional assisted&#8230;](%C2%A7%2000127f%20-%20Expenditure%20of%20funds%20for%20clandestine%20activities%20that%20support%20operational%20preparation%20of%20the%20environment%20and%20non-conventional%20assisted%E2%80%A6.md)
 - [&sect; 00128 - Control and physical protection of special nuclear material limitation on dissemination of unclassified information](%C2%A7%2000128%20-%20Control%20and%20physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md)
 - [&sect; 00129 - Civilian personnel management](%C2%A7%2000129%20-%20Civilian%20personnel%20management.md)
 - [&sect; 00129a - General policy for total force management](%C2%A7%2000129a%20-%20General%20policy%20for%20total%20force%20management.md)

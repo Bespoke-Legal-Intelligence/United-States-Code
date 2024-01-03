@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 95–266, §101(3), added subsec. (d).
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114—22, title VIII, §801, May 29, 2015, 129 Stat. 263, provided that: "This title \[amending sections 5106a and 5106g of this title, enacting provisions set out as a note under section 5106a of this title, and amending provisions set out as a note under this section\] may becited as the 'Ensuring a Better Response for Victims of Child Sex Trafficking'."
+Pub. L. 114—22, title VIII, §801, May 29, 2015, 129 Stat. 263, provided that: "This title \[amending sections 5106a and 5106g of this title, enacting provisions set out as a note under section 5106a of this title, and amending provisions set out as a note under this section\] may be cited as the 'Ensuring a Better Response for Victims of Child Sex Trafficking'."
 
 #### Short Title of 2010 Amendment
 

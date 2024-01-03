@@ -42,7 +42,7 @@ Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist
 
 &emsp;(B) A terrorist attack or threatened terrorist attack in the United States that results, or could result, in catastrophic loss of life or property.
 
-&emsp;(C) The intentional or unintentional release of nuclear, biological, radiological, or toxic orpoisonous chemical materials in the United States that results, or could result, in catastrophic loss of life or property.
+&emsp;(C) The intentional or unintentional release of nuclear, biological, radiological, or toxic or poisonous chemical materials in the United States that results, or could result, in catastrophic loss of life or property.
 
 &emsp;(D) A natural or manmade disaster in the United States that results in, or could result in, catastrophic loss of life or property.
 
@@ -96,7 +96,7 @@ Subsection (b) is substituted for 50:962 (less 1st and 2d sentences).
 
 <b>2009</b>—Subsec. (c)(1)(A). Pub. L. 111–84 substituted "section 1403 of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1))" for "section 12304(i)(2) of this title".
 
-<b>2006</b>—Subsecs. (a), (b). Pub. L. 109–364, §525(a), amended subsecs. (a) and (b) generally, substituting provisions relating to authority of the Secretary concerned to order a member of a reserve component to active duty and setting forth duties including supporting operations or missions, providing advice regarding reserve component matters, and providing instruction or training of active-duty members of the armed forces or foreign military forces and Department of Defense contractor personnel or civilian employees, for provisions relating to grade when a Reserve is ordered to active duty and setting forth duties including supporting operations or missions and providing advice regarding reserve component matters.
+<b>2006</b>—Subsecs. (a), (b). Pub. L. 109–364, §525(a), amended subsecs. (a) and (b) generally, substituting provisions relating to authority of the Secretary concerned to order a member of a reserve component to active duty and setting forth duties including supporting operations or missions, providing advice regarding reserve component matters, and providing instruction or training of active-duty members of the armed forces or foreign military forces and Department of Defense contractor personnel or civilian employees, for provisionsrelating to grade when a Reserve is ordered to active duty and setting forth duties including supporting operations or missions and providing advice regarding reserve component matters.
 
 Subsec. (c). Pub. L. 109–364, §527(b)(1), substituted "Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist Attacks" for "Duties Relating to Defense Against Weapons of Mass Destruction" in heading.
 

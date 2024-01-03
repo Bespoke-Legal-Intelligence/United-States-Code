@@ -180,7 +180,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (4) Expenditures for small health care provider quality improvement grants
 
-&emsp;In awarding a grant under this subsection, the Director shall ensure that the funds made available through the grant will be used to provide services to residents of rural areas. The Director shall award not less than 50 percent of the funds made available under this subsection to providers located in and serving rural areas.
+&emsp;In awarding a grant under this subsection, the Director shall ensure that the funds madeavailable through the grant will be used to provide services to residents of rural areas. The Director shall award not less than 50 percent of the funds made available under this subsection to providers located in and serving rural areas.
 
 #### (h) General requirements
 
@@ -254,7 +254,7 @@ Subsec. (f)(2)(C). Pub. L. 116–136, §3213(3)(B)(iv), struck out "shall" befor
 
 Subsec. (f)(3)(C)(iii). Pub. L. 116–136, §3213(3)(C)(i), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "how the local community or region to be served will benefit from and be involved in the activities carried out by the network;".
 
-Subsec. (f)(3)(D). Pub. L. 116–136, §3213(3)(C)(ii), substituted "the rural underserved populations in the local community or region" for "the local community or region".
+Subsec. (f)(3)(D). Pub. L. 116–136, §3213(3)(C)(ii), substituted "the rural underserved populations in the localcommunity or region" for "the local community or region".
 
 Subsec. (g)(1). Pub. L. 116–136, §3213(4)(A), inserted ", including activities related to increasing care coordination, enhancing chronic disease management, and improving patient health outcomes" after "quality improvement activities" and substituted "5 years" for "3 years".
 
@@ -268,7 +268,7 @@ Subsec. (g)(3)(D). Pub. L. 116–136, §3213(4)(C), substituted "the rural under
 
 Subsec. (h)(3). Pub. L. 116–136, §3213(5), inserted ", as appropriate," after "the Secretary" in introductory provisions.
 
-Subsec. (i). Pub. L. 116–136, §3213(6), amended subsec. (i) generally. Prior to amendment, text read as follows:"Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsections (e), (f), and (g)."
+Subsec. (i). Pub. L. 116–136, §3213(6), amended subsec. (i) generally. Prior to amendment, text read as follows: "Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsections (e), (f), and (g)."
 
 Subsec. (j). Pub. L. 116–136, §3213(7), substituted "$79,500,000 for each of fiscal years 2021 through 2025" for "$45,000,000 for each of fiscal years 2008 through 2012".
 
@@ -350,7 +350,7 @@ Authorization of Appropriations.—There is authorized to be appropriated $25,00
 
 #### Report on Telemedicine
 
-Pub. L. 106–129, §6, Dec. 6, 1999, 113 Stat. 1675, provided that: "Not later than January 10, 2001, the Secretary of Health and Human Services shall submit to the Congress a report that—
+Pub. L. 106–129, §6, Dec. 6, 1999, 113 Stat. 1675, provided that: "Not later than January 10, 2001, the Secretary ofHealth and Human Services shall submit to the Congress a report that—
 
 &emsp;"(1) identifies any factors that inhibit the expansion and accessibility of telemedicine services, including factors relating to telemedicine networks;
 

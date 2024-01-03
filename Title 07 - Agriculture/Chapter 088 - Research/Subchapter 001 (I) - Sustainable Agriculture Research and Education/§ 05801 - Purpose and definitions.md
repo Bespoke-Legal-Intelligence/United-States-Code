@@ -64,7 +64,7 @@ Subsec. (b)(5). Pub. L. 110–246, §7101(b)(5)(B), substituted "section 3103" f
 
 Subsec. (b)(8). Pub. L. 110–246, §7101(b)(5)(C), substituted "section 3103" for "section 3103(13)".
 
-<b>1996</b>—Subsec. (b)(7) to (10). Pub. L. 104–127 redesignated pars. (8) to (10) as (7) to (9), respectively, andstruck out former par. (7) which read as follows: "The term 'Advisory Council' means the National Sustainable Agriculture Advisory Council established under section 5812(c) of this title."
+<b>1996</b>—Subsec. (b)(7) to (10). Pub. L. 104–127 redesignated pars. (8) to (10) as (7) to (9), respectively, and struck out former par. (7) which read as follows: "The term 'Advisory Council' means the National Sustainable Agriculture Advisory Council established under section 5812(c) of this title."
 
 <b>1991</b>—Subsec. (b)(8). Pub. L. 102–237 substituted "Mariana Islands" for "Marianas Islands".
 

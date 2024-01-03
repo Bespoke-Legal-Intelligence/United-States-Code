@@ -34,7 +34,7 @@
 
 #### (A) CBO estimates
 
-&emsp;&emsp;As soon as practicable after Congress completes action on any discretionary appropriation, CBO, after consultation with the Committees on the Budget of the House of Representatives and the Senate, shall provide OMB with an estimate of the amount of discretionary new budget authority and outlays for the current year, if any, and the budget year provided by that legislation.
+&emsp;&emsp;As soon as practicable after Congress completes action on any discretionary appropriation, CBO, after consultation with the Committees on the Budget of the House ofRepresentatives and the Senate, shall provide OMB with an estimate of the amount of discretionary new budget authority and outlays for the current year, if any, and the budget year provided by that legislation.
 
 #### (B) OMB estimates and explanation of differences
 
@@ -88,13 +88,17 @@
 
 &emsp;&emsp;&emsp;(VIII) for fiscal year 2019, $1,410,000,000 in additional new budget authority;
 
-&emsp;&emsp;&emsp;(IX) for fiscal year 2020, $1,309,000,000 in additional new budget authority; and
+&emsp;&emsp;&emsp;(IX) for fiscal year 2020, $1,309,000,000 in additional new budget authority;
 
-&emsp;&emsp;&emsp;(X) for fiscal year 2021, $1,302,000,000 in additional new budget authority.
+&emsp;&emsp;&emsp;(X) for fiscal year 2021, $1,302,000,000 in additional new budget authority;
+
+&emsp;&emsp;&emsp;(XI) for fiscal year 2024, $1,578,000,000 in additional new budget authority; and
+
+&emsp;&emsp;&emsp;(XII) for fiscal year 2025, $1,630,000,000 in additional new budget authority.
 
 &emsp;&emsp;(ii) As used in this subparagraph—
 
-&emsp;&emsp;&emsp;(I) the term "continuing disability reviews" means continuing disability reviews under sections 221(i) and 1614(a)(4) of the Social Security Act \[42 U.S.C. 421(i), 1382c(a)(4)\], including work-related continuing disability reviews to determinewhether earnings derived from services demonstrate an individual's ability to engage in substantial gainful activity;
+&emsp;&emsp;&emsp;(I) the term "continuing disability reviews" means continuing disability reviews under sections 221(i) and 1614(a)(4) of the Social Security Act \[42 U.S.C. 421(i), 1382c(a)(4)\], including work-related continuing disability reviews to determine whether earnings derived from services demonstrate an individual's ability to engage in substantial gainful activity;
 
 &emsp;&emsp;&emsp;(II) the term "redetermination" means redetermination of eligibility under sections 1611(c)(1) and 1614(a)(3)(H) of the Social Security Act \[42 U.S.C. 1382(c)(1), 1382c(a)(3)(H)\]; and
 
@@ -120,19 +124,23 @@
 
 &emsp;&emsp;&emsp;(VIII) for fiscal year 2019, $454,000,000 in additional new budget authority;
 
-&emsp;&emsp;&emsp;(IX) for fiscal year 2020, $475,000,000 in additional new budget authority; and
+&emsp;&emsp;&emsp;(IX) for fiscal year 2020, $475,000,000 in additional new budget authority;
 
-&emsp;&emsp;&emsp;(X) for fiscal year 2021, $496,000,000 in additional new budget authority.
+&emsp;&emsp;&emsp;(X) for fiscal year 2021, $496,000,000 in additional new budget authority;
+
+&emsp;&emsp;&emsp;(XI) for fiscal year 2024, $604,000,000 in additional new budget authority; and
+
+&emsp;&emsp;&emsp;(XII) for fiscal year 2025, $630,000,000 in additional new budget authority.
 
 &emsp;&emsp;(ii) As used in this subparagraph, the term "additional new budget authority" means the amount provided for a fiscal year, in excess of $311,000,000, in an appropriation Act and specified to pay for the costs of the health care fraud and abuse control program.
 
 #### (D) Disaster funding
 
-&emsp;&emsp;(i) If, for fiscal years 2012 through 2021, appropriations for discretionary accounts are enacted that Congress designates as being for disaster relief in statute, the adjustment for a fiscal year shall be the total of such appropriations for the fiscal year in discretionary accounts designated as being for disaster relief, but not to exceed the total of—
+&emsp;&emsp;(i) If, for fiscal years 2024 and 2025, appropriations for discretionary accounts are enacted that Congress designates as being for disaster relief in statute, the adjustment for a fiscal year shall be the total of such appropriations for the fiscal year in discretionary accounts designated as being for disaster relief, but not to exceed the total of—
 
 &emsp;&emsp;&emsp;(I) the average over the previous 10 years (excluding the highest and lowest years) of the sum of the funding provided for disaster relief (as that term is defined on the date immediately before March 23, 2018);
 
-&emsp;&emsp;&emsp;(II) notwithstanding clause (iv), starting in fiscal year 2018, five percent of the total appropriations provided after fiscal year 2011 or in the previous 10 years, whichever is less, net of any rescissions of budget authority enacted in the same period, with respect to amounts provided for major disasters declared pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) and designated by the Congress and the President as an emergency pursuant to subparagraph (A)(i) of this paragraph; and
+&emsp;&emsp;&emsp;(II) notwithstanding clause (iv), five percent of the total appropriations provided in the previous 10 years, net of any rescissions of budget authority enacted in the same period, with respect to amounts provided for major disasters declared pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) and designated by the Congress in statute as an emergency; and
 
 &emsp;&emsp;&emsp;(III) the cumulative net total of the unused carryover for fiscal year 2018 and all subsequent fiscal years, where the unused carryover for each fiscal year is calculated as the sum of the amounts in subclauses (I) and (II) less the enacted appropriations for that fiscal year that have been designated as being for disaster relief.
 
@@ -152,9 +160,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) for fiscal year 2019, $33,000,000;
 
-&emsp;&emsp;&emsp;&emsp;(III) for fiscal year 2020, $58,000,000; and
+&emsp;&emsp;&emsp;&emsp;(III) for fiscal year 2020, $58,000,000;
 
-&emsp;&emsp;&emsp;&emsp;(IV) for fiscal year 2021, $83,000,000.
+&emsp;&emsp;&emsp;&emsp;(IV) for fiscal year 2021, $83,000,000;
+
+&emsp;&emsp;&emsp;&emsp;(V) for fiscal year 2024, $265,000,000 in additional new budget authority; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) for fiscal year 2025, $271,000,000 in additional new budget authority.
 
 #### (ii) Definition
 
@@ -164,7 +176,7 @@
 
 #### (i) Additional new budget authority
 
-&emsp;&emsp;&emsp;If, for fiscal years 2020 through 2027, a bill or joint resolution making appropriations for a fiscal year is enacted that provides an amount for wildfire suppression operations in the Wildland Fire Management accounts at the Department of Agriculture or the Department of the Interior, then the adjustments for that fiscal yearshall be the amount of additional new budget authority provided in that Act for wildfire suppression operations for that fiscal year, but shall not exceed—
+&emsp;&emsp;&emsp;If, for fiscal years 2020 through 2027, a bill or joint resolution making appropriations for a fiscal year is enacted that provides an amount for wildfire suppression operations in the Wildland Fire Management accounts at the Department of Agriculture or the Department of the Interior, then the adjustments for that fiscal year shall be the amount of additional new budget authority provided in that Act for wildfire suppression operations for that fiscal year, but shall not exceed—
 
 &emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2020, $2,250,000,000;
 
@@ -248,7 +260,7 @@ As used in this subchapter, the term "discretionary spending limit" means—
 
 &emsp;&emsp;(A) for the revised security category, $666,500,000,000 in new budget authority; and
 
-&emsp;&emsp;(B) for the revised nonsecurity category, $621,500,000,000 in new budget authority; and
+&emsp;&emsp;(B) for the revised nonsecurity category, $621,500,000,000 in new budget authority;
 
 &emsp;(8) for fiscal year 2021—
 
@@ -256,9 +268,65 @@ As used in this subchapter, the term "discretionary spending limit" means—
 
 &emsp;&emsp;(B) for the revised nonsecurity category, $626,500,000,000 in new budget authority;
 
+&emsp;(9) for fiscal year 2024—
+
+&emsp;&emsp;(A) for the revised security category, $886,349,000,000 in new budget authority; and
+
+&emsp;&emsp;(B) for the revised nonsecurity category; <sup>2</sup> $703,651,000,000 in new budget authority; and
+
+&emsp;(10) for fiscal year 2025—
+
+&emsp;&emsp;(A) for the revised security category, $895,212,000,000 in new budget authority; and
+
+&emsp;&emsp;(B) for the revised nonsecurity category; <sup>2</sup> $710,688,000,000 in new budget authority;
+
 > as adjusted in strict conformance with subsection (b).
 
-(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916; Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241; Pub. L. 112–240, title IX, §901(d)(1), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(a), Dec. 26, 2013, 127 Stat. 1166; Pub. L. 114–74, title I, §101(a), title VIII, §815, Nov. 2, 2015, 129 Stat. 585, 604; Pub. L. 114–113, div. O, title X, §1003, Dec. 18, 2015, 129 Stat. 3035; Pub. L. 115–123, div. C, title I, §30101(a), title II, §30206(c), Feb. 9, 2018, 132 Stat. 122, 131; Pub. L. 115–141, div. O, title I, §102(a), Mar. 23, 2018, 132 Stat. 1059; Pub. L. 115–334, title VIII, §8704(a)(1)(A),Dec. 20, 2018, 132 Stat. 4877; Pub. L. 116–37, title I, §101(a), (c), Aug. 2, 2019, 133 Stat. 1049.)
+#### (d) Revised discretionary spending limits for fiscal year 2024
+
+#### (1) In general
+
+&emsp;Subject to paragraph (3), if on or after January 1, 2024, there is in effect an Act making continuing appropriations for part of fiscalyear 2024 for any discretionary budget account, the discretionary spending limits specified in subsection (c)(9) for fiscal year 2024 shall be adjusted in the final sequestration report, in accordance with paragraph (2), as follows:
+
+&emsp;&emsp;(A) For the revised security category, the amount that is equal to the total budget authority for such category for base funding, as published in the Congressional Budget Office cost estimate for the applicable appropriations Acts for the preceding fiscal year (table 1–S of H.R. 2617, published on December 21, 2022), reduced by one percent.
+
+&emsp;&emsp;(B) For the revised non-security <sup>3</sup> category, the amount that is equal to the total budget authority for such category for base funding as published in the Congressional Budget Office cost estimate for the applicable appropriations Acts for the preceding fiscal year (table 1–S of H.R. 2617, published on December 21, 2022), reduced by one percent.
+
+#### (2) Final report; sequestration order
+
+&emsp;If the conditions specified in paragraph (1) are met during fiscal year 2024, the final sequestration report for such fiscal year pursuant to section 904(f)(1) of this title and any order pursuant to section 904(f)(5) of this title shall be issued on the earlier of—
+
+&emsp;&emsp;(A) 10 days, not including weekends and holidays, for the Congressional Budget Office and 15 days, not including weekends and holidays, for the Office of Management and Budget and the President, after the enactment into law of annual full-year appropriations for all budget accounts that normally receive such annual appropriations (or the enactment of the applicable full-year appropriations Acts without any provision for such accounts); or
+
+&emsp;&emsp;(B) April 30, 2024.
+
+#### (3) Reversal
+
+&emsp;If, after January 1, 2024, there are enacted into law each of the full year discretionary appropriation Acts, then the adjustment to the applicable discretionary spending limits in paragraph (1) shall have no force or effect, and the discretionary spending limits for the revised security category and revised nonsecurity category for the applicable fiscal year shall be such limits as in effect on December 31 of the applicable fiscal year.
+
+#### (e) Revised discretionary spending limits for fiscal year 2025
+
+#### (1) In general
+
+&emsp;Subject to paragraph (3), if on or after January 1, 2025, there is in effect an Act making continuing appropriations for part of fiscal year 2025 for any discretionary budget account, the discretionary spending limits specified in subsection (c)(10) for fiscal year 2025 shall be adjusted in the final sequestration report, in accordance with paragraph (2), as follows:
+
+&emsp;&emsp;(A) for the revised security category, the amount calculated for such category in section <sup>4</sup> (d)(1)(A); and
+
+&emsp;&emsp;(B) for the revised non-security <sup>3</sup> category, the amount calculated for each category in section <sup>4</sup> (d)(1)(B).
+
+#### (2) Final report; sequestration order
+
+&emsp;If the conditions specified in paragraph (1) are met during fiscal year 2025, the final sequestration report for such fiscal year pursuant to section 904(f)(1) of this title and any order pursuant to section 904(f)(5) of this title shall be issued on the earlier of—
+
+&emsp;&emsp;(A) 10 days, not including weekends and holidays, for the Congressional Budget Office, and 15 days, not including weekends and holidays, for the Office of Management and Budget and the President, after the enactment into law of annual full-year appropriations for all budget accounts that normally receive such annual appropriations (or the enactment of the applicable full-year appropriations Acts without any provision for such accounts); or
+
+&emsp;&emsp;(B) April 30, 2025.
+
+#### (3) Reversal
+
+&emsp;If, after January 1, 2025, there are enacted into law each of the full year discretionary appropriation Acts, then the adjustment to the applicable discretionary spending limits in paragraph (1) shall have no force or effect, and the discretionary spending limits for the revised security category and revised nonsecurity category for the applicable fiscal year shall be such limits as in effect on December 31 of the applicable fiscal year.
+
+(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916; Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241; Pub. L. 112–240, title IX, §901(d)(1), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(a), Dec. 26, 2013, 127 Stat. 1166; Pub. L. 114–74, title I, §101(a), title VIII, §815, Nov. 2, 2015, 129 Stat. 585, 604; Pub. L. 114–113, div. O, title X, §1003, Dec. 18, 2015, 129 Stat. 3035; Pub. L. 115–123, div. C, title I, §30101(a), title II, §30206(c),Feb. 9, 2018, 132 Stat. 122, 131; Pub. L. 115–141, div. O, title I, §102(a), Mar. 23, 2018, 132 Stat. 1059; Pub. L. 115–334, title VIII, §8704(a)(1)(A), Dec. 20, 2018, 132 Stat. 4877; Pub. L. 116–37, title I, §101(a), (c), Aug. 2, 2019, 133 Stat. 1049; Pub. L. 118–5, div. A, title I, §§101(a), (b), 102, June 3, 2023, 137 Stat. 12, 13, 15.)
 
 #### <b>Editorial Notes</b>
 
@@ -273,6 +341,20 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 Pub. L. 101–508, §13101(e)(2), redesignated former subsec. (a)(6)(I) of this section as section 257(e) of Pub. L. 99–177, which is classified to section 907(e) of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(2)(B)(i)(XI), (XII). Pub. L. 118–5, §101(b)(1), added subcls. (XI) and (XII).
+
+Subsec. (b)(2)(C)(i)(XI), (XII). Pub. L. 118–5, §101(b)(2), added subcls. (XI) and (XII).
+
+Subsec. (b)(2)(D)(i). Pub. L. 118–5, §101(b)(3)(A), substituted "for fiscal years 2024 and 2025" for "for fiscal years 2012 through 2021" in introductory provisions.
+
+Subsec. (b)(2)(D)(i)(II). Pub. L. 118–5, §101(b)(3)(B), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "notwithstanding clause (iv), starting in fiscal year 2018, five percent of the total appropriations provided after fiscal year 2011 or in the previous 10 years, whichever is less, net of any rescissions of budget authority enacted in the same period, with respect to amounts provided for major disasters declared pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) and designated by the Congress and the President as an emergency pursuant to subparagraph (A)(i) of this paragraph; and".
+
+Subsec. (b)(2)(E)(i)(V), (VI). Pub. L. 118–5, §101(b)(4), added subcls. (V) and (VI).
+
+Subsec. (c)(9), (10). Pub. L. 118–5, §101(a), added pars. (9) and (10).
+
+Subsecs. (d), (e). Pub. L. 118–5, §102, added subsecs. (d) and (e).
 
 <b>2019</b>—Subsec. (b)(2)(G). Pub. L. 116–37, §101(c), added subpar. (G).
 
@@ -336,7 +418,7 @@ Subsec. (c)(2), (3). Pub. L. 112–240 amended pars. (2) and (3) generally. Prio
 
 <b>2011</b>—Pub. L. 112–25 amended section generally. Prior to amendment, section related to enforcing discretionary spending limits.
 
-<b>2005</b>—Subsec. (b)(1)(B) to (E). Pub. L. 109–59, §8002, reenacted heading of subpar. (B) without change and amended text of subpars. (B) to (E) generally. Prior to amendment, subpar. (B) provided for adjustments to align highway spending with revenues using amount of obligations set forth in section 8103 of the Transportation Equity Act for the 21st Century and estimates of receipts for fiscal years 1998 through 2003, subpar. (C) provided for additional adjustments required in budget submissions for fiscal years 2000 through 2003, subpar. (D) provided for a final sequester report for fiscal year 1999 and an adjustment of estimates upon submission of the budget for fiscal years 2000 through 2003, and subpar. (E) required consultation with the Committees on the Budget and inclusion of a report on adjustments under subparagraphs (B) and (C) in the preview report.
+<b>2005</b>—Subsec. (b)(1)(B) to (E). Pub. L. 109–59, §8002, reenacted heading of subpar. (B) without change and amended text of subpars. (B) to (E) generally. Prior to amendment, subpar. (B) provided for adjustments to align highway spending with revenues using amount ofobligations set forth in section 8103 of the Transportation Equity Act for the 21st Century and estimates of receipts for fiscal years 1998 through 2003, subpar. (C) provided for additional adjustments required in budget submissions for fiscal years 2000 through 2003, subpar. (D) provided for a final sequester report for fiscal year 1999 and an adjustment of estimates upon submission of the budget for fiscal years 2000 through 2003, and subpar. (E) required consultation with the Committees on the Budget and inclusion of a report on adjustments under subparagraphs (B) and (C) in the preview report.
 
 Subsec. (c). Pub. L. 109–59, §8001(a), added pars. (1) to (5), redesignated former pars. (2) to (9) as (6) to (13), respectively, and struck out former par. (1) which read as follows: "with respect to fiscal year 2004—
 
@@ -348,7 +430,7 @@ Subsec. (c). Pub. L. 109–59, §8001(a), added pars. (1) to (5), redesignated f
 
 <b>2004</b>—Subsec. (b)(2). Pub. L. 108–310, §10(a), which directed amendment of par. (2) by striking out "through 2002" in introductory provisions, could not be executed because the phrase "through 2002" did not appear subsequent to amendment by Pub. L. 108–88, §10(a). See 2003 Amendment note below.
 
-Subsec. (c). Pub. L. 108–310, §10(b), which directed the amendment of subsec. (c) by redesignating par. (8) aspar. (1), substituting "with respect to fiscal year 2005—" for "with respect to fiscal year 2005" and adding subpars. (A) and (B) in par. (1), redesignating remaining provisions of par. (1) as subpar. (C), redesignating pars. (9) to (16) as (2) to (9), respectively, and striking out former pars. (1) to (7), which defined "discretionary spending limit" with respect to fiscal years 2002 to 2006, either could not be executed or could not be executed as intended because of prior amendments by Pub. L. 108–88, §10(b). See 2003 Amendment notes below.
+Subsec. (c). Pub. L. 108–310, §10(b), which directed the amendment of subsec. (c) by redesignating par. (8) as par. (1), substituting "with respect to fiscal year 2005—" for "with respect to fiscal year 2005" and adding subpars. (A) and (B) in par. (1), redesignating remaining provisions of par. (1) as subpar. (C), redesignating pars. (9) to (16) as (2) to (9), respectively, and striking out former pars. (1) to (7), which defined "discretionary spending limit" with respect to fiscal years 2002 to 2006, either could not be executed or could not be executed as intended because of prior amendments by Pub. L. 108–88, §10(b). See 2003 Amendment notes below.
 
 <b>2003</b>—Subsec. (b)(2). Pub. L. 108–88, §10(a), struck out "through 2002" after "succeeding year" in introductory provisions.
 
@@ -505,4 +587,10 @@ Similar provisions for prior fiscal years were contained in the following prior 
 Pub. L. 105–178, title VIII, §8103, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 108–88, §11(a), (b), Sept. 30, 2003, 117 Stat. 1128; Pub. L. 108–310, §11(a), (b), Sept. 30, 2004, 118 Stat. 1161.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be "subsection".</i>
 

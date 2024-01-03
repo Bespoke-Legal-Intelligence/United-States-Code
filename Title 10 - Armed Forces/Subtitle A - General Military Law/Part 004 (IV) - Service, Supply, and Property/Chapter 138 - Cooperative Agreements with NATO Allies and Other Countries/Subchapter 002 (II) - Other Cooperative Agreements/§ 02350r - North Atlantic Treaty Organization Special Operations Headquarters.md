@@ -8,7 +8,7 @@ Authorization.—Of the amounts authorized to be appropriated for each fiscal ye
 
 Purposes.—The Secretary shall provide funds for the NATO Special Operations Headquarters—
 
-&emsp;(1) to improve coordination and cooperation between the special operations forces of NATOcountries and countries approved by the North Atlantic Council as NATO partners;
+&emsp;(1) to improve coordination and cooperation between the special operations forces of NATO countries and countries approved by the North Atlantic Council as NATO partners;
 
 &emsp;(2) to facilitate joint operations by the special operations forces of NATO countries and such NATO partners;
 

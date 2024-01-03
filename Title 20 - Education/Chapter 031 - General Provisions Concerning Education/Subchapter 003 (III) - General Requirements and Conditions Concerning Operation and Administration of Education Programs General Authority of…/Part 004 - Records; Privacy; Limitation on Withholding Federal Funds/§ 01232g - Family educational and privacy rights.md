@@ -4,7 +4,7 @@
 
 (1)(A) No funds shall be made available under any applicable program to any educational agency or institution which has a policy of denying, or which effectively prevents, the parents of students who are or have been in attendance at a school of such agency or at such institution, as the case may be, the right to inspect and review the education records of their children. If any material or document in the education record of a student includes information on more than one student, the parents of one of such students shall have the right to inspect and review only such part of such material or document as relates to such student or to be informed of the specific information contained in such part of such material. Each educational agency or institution shall establish appropriate procedures for the granting of a request by parents for access to the education records of their children within a reasonable period of time, but in no case more than forty-five days after the request has been made.
 
-(B) No funds under any applicable program shall be made available to any State educational agency (whether or not that agency is an educational agency or institution under this section) that has a policy of denying, or effectively prevents, the parents of students the right to inspect and review the education records maintained by the State educational agency on their children who are or have been in attendance at any school of an educational agency or institution that is subject to the provisions of this section.
+(B) No funds under any applicable program shall be made available to any State educational agency (whether or not that agency is an educational agency or institution under this section) that has a policy of denying, or effectivelyprevents, the parents of students the right to inspect and review the education records maintained by the State educational agency on their children who are or have been in attendance at any school of an educational agency or institution that is subject to the provisions of this section.
 
 (C) The first sentence of subparagraph (A) shall not operate to make available to students in institutions of postsecondary education the following materials:
 
@@ -80,7 +80,7 @@
 
 &emsp;(J)(i) the entity or persons designated in a Federal grand jury subpoena, in which case the court shall order, for good cause shown, the educational agency or institution (and any officer, director, employee, agent, or attorney for such agency or institution) on which the subpoena is served, to not disclose to any person the existence or contents of the subpoena or any information furnished to the grand jury in response to the subpoena; and
 
-&emsp;(ii) the entity or persons designated in any other subpoena issued for a law enforcement purpose, in which case the court or other issuing agency may order, for good cause shown, the educational agency or institution (and any officer, director, employee, agent, or attorney for such agency or institution) on which the subpoena is served, to not discloseto any person the existence or contents of the subpoena or any information furnished in response to the subpoena;
+&emsp;(ii) the entity or persons designated in any other subpoena issued for a law enforcement purpose, in which case the court or other issuing agency may order, for good cause shown, the educational agency or institution (and any officer, director, employee, agent, or attorney for such agency or institution) on which the subpoena is served, to not disclose to any person the existence or contents of the subpoena or any information furnished in response to the subpoena;
 
 &emsp;(K) the Secretary of Agriculture, or authorized representative from the Food and Nutrition Service or contractors acting on behalf of the Food and Nutrition Service, for the purposes of conducting program monitoring, evaluations, and performance measurements of State and local educational and other agencies and institutions receiving funding or providing benefits of 1 or more programs authorized under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) for which the results will be reported in an aggregate form that does not identify any individual, on the conditions that—
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(ii) any personally identifiable data shall be destroyed when the data are no longer needed for program monitoring, evaluations, and performance measurements; and
 
-&emsp;(L) an agency caseworker or other representative of a State or local child welfare agency, or tribal organization (as defined in section 5304 of title 25), who has the right to access a student's case plan, as defined and determined by the State or tribal organization, when such agency or organization is legally responsible, in accordance with State or tribal law, for the care and protection of the student, provided that the education records, or the personally identifiable information contained in such records, of the student will not be disclosed by such agency or organization, except to an individual or entity engaged in addressing the student's education needs and authorized by such agency or organization to receive such disclosure and such disclosure is consistent with the State or tribal laws applicable to protecting the confidentiality of a student's education records.
+&emsp;(L) an agency caseworker or other representative of a State or local child welfare agency, or tribal organization (as defined in section 5304 of title 25), who has the right to access a student's case plan, as defined and determined by the State or tribal organization, when such agency or organization is legally responsible, in accordance with State or tribal law, for the care and protection of the student, provided that the education records, or the personallyidentifiable information contained in such records, of the student will not be disclosed by such agency or organization, except to an individual or entity engaged in addressing the student's education needs and authorized by such agency or organization to receive such disclosure and such disclosure is consistent with the State or tribal laws applicable to protecting the confidentiality of a student's education records.
 
 > Nothing in subparagraph (E) of this paragraph shall prevent a State from further limiting the number or type of State or local officials who will continue to have access thereunder.
 
@@ -160,7 +160,7 @@ Nothing in this section shall prohibit an educational agency or institution from
 
 #### (2) State law regarding disclosure
 
-&emsp;Nothing in paragraph (1) shall be construed to supersede any provision of State law thatprohibits an institution of higher education from making the disclosure described in subsection (a).
+&emsp;Nothing in paragraph (1) shall be construed to supersede any provision of State law that prohibits an institution of higher education from making the disclosure described in subsection (a).
 
 #### (j) Investigation and prosecution of terrorism
 
@@ -230,7 +230,7 @@ Subsec. (b)(7). Pub. L. 107–110, §1062(3)(D), realigned margins.
 
 <b>2000</b>—Subsec. (b)(7). Pub. L. 106–386 added par. (7).
 
-<b>1998</b>—Subsec. (b)(1)(C). Pub. L. 105–244, §951(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "authorized representatives of (i) the Comptroller General of the United States, (ii) the Secretary, or (iii) State educational authorities, underthe conditions set forth in paragraph (3) of this subsection;".
+<b>1998</b>—Subsec. (b)(1)(C). Pub. L. 105–244, §951(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "authorized representatives of (i) the Comptroller General of the United States, (ii) the Secretary, or (iii) State educational authorities, under the conditions set forth in paragraph (3) of this subsection;".
 
 Subsec. (b)(6). Pub. L. 105–244, §951(2), designated existing provisions as subpar. (A), substituted "or a nonforcible sex offense, the final results" for "the results", substituted "such crime or offense" for "such crime" in two places, and added subpars. (B) and (C).
 
@@ -292,7 +292,7 @@ Subsec. (b)(1). Pub. L. 93–568, §2(a)(1)(D), (2)(D), (6), (8)(A)–(C), (10)(
 
 Subsec. (b)(2). Pub. L. 93–568, §2(a)(1)(E), (2)(E), substituted "educational agency or institution which has a policy or practice of releasing, or providing access to, any personally identifiable information in education records other than directory information, or as is permitted under paragraph (1) of this subsection" for "state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of furnishing, in any form, any personally identifiable information contained in personal school records, to any persons other than those listed in subsection (b)(1) of this section".
 
-Subsec. (b)(3). Pub. L. 93–568, §2(a)(8)(D), substituted "information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other thanthose officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements" for "data is specifically authorized by Federal law, any data collected by such officials with respect to individual students shall not include information (including social security numbers) which would permit the personal identification of such students or their parents after the data so obtained has been collected".
+Subsec. (b)(3). Pub. L. 93–568, §2(a)(8)(D), substituted "information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements" for "data is specifically authorized by Federal law, any data collected by such officials with respect to individual students shall not include information (including social security numbers) which would permit the personal identification of such students or their parents after the data so obtained has been collected".
 
 Subsec. (b)(4). Pub. L. 93–568, §2(a)(9), substituted provisions that each educational agency or institution maintain a record, kept with the education records of each student, indicating individuals, agencies, or organizations who obtained access to the student's record and the legitimate interest in obtaining such information, that such record of access shall be available only to parents, school officials, and their assistants having responsibility for the custody of such records, and as a means of auditing the operation of the system, for provisions that with respect to subsecs. (c)(1), (c)(2), and (c)(3) of this section, all persons, agencies, or organizations desiring access to the records of a student shall be required to sign forms to be kept with the records of the student, but only for inspection by the parents or the student, indicating specifically the legitimate educational or other interest of the person seeking such information, and that the form shall be available to parents and school officials having responsibility for record maintenance as a means of auditing the operation of the system.
 
@@ -304,7 +304,7 @@ Subsec. (g). Pub. L. 93–568, §2(a)(7), (10)(B), struck out reference to secti
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section445 of Pub. L. 111–296, set out as a note under section 1751 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 2002 Amendment
 

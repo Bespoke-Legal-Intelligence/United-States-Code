@@ -27,7 +27,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(4) The report of the National Academies of Sciences, Engineering, and Medicine entitled 'Finding Hazardous Asteroids Using Infrared and Visible Wavelength Telescopes', issued in 2019, states that—
 
-&emsp;&emsp;"(A) NASA \[National Aeronautics and Space Administration\] should develop and launch a dedicated space-based infrared survey telescope to meet the requirements of section 321(d)(1) of the NationalAeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155; 119 Stat. 2922; 51 U.S.C. 71101 note prec.); and
+&emsp;&emsp;"(A) NASA \[National Aeronautics and Space Administration\] should develop and launch a dedicated space-based infrared survey telescope to meet the requirements of section 321(d)(1) of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155; 119 Stat. 2922; 51 U.S.C. 71101 note prec.); and
 
 &emsp;&emsp;"(B) the early detection of potentially hazardous near-Earth objects enabled by a space-based infrared survey telescope is important to enable deflection of a dangerous asteroid.
 

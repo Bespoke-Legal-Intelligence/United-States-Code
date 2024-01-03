@@ -52,5 +52,5 @@ Amendment by section 1202(h)(6) of Pub. L. 94–455 effective Jan. 1, 1977, see 
 
 #### Effective Date
 
-Section effective Dec. 1, 1974, and applicable only with respect to wagers placed on or after such date, see section 3(d)(1) of Pub. L. 93–499, set out as an EffectiveDate of 1974 Amendment note under section 4401 of this title.
+Section effective Dec. 1, 1974, and applicable only with respect to wagers placed on or after such date, see section 3(d)(1) of Pub. L. 93–499, set out as an Effective Date of 1974 Amendment note under section 4401 of this title.
 

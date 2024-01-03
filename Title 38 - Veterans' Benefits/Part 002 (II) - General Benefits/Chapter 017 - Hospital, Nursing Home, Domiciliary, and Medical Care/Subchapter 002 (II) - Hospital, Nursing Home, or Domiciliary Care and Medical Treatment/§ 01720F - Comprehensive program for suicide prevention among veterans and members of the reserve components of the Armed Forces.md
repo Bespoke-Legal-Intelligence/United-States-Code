@@ -24,7 +24,7 @@ Designation of Suicide Prevention Counselors.—In carrying out the comprehensiv
 
 (e)
 
-Best Practices Research.—In carrying out the comprehensive program, the Secretaryshall provide for research on best practices for suicide prevention among covered individuals. Research shall be conducted under this subsection in consultation with the heads of the following entities:
+Best Practices Research.—In carrying out the comprehensive program, the Secretary shall provide for research on best practices for suicide prevention among covered individuals. Research shall be conducted under this subsection in consultation with the heads of the following entities:
 
 &emsp;(1) The Department of Health and Human Services.
 
@@ -36,7 +36,7 @@ Best Practices Research.—In carrying out the comprehensive program, the Secret
 
 (f)
 
-Sexual Trauma Research.—In carrying out the comprehensive program, the Secretary shall provide for research on mental health care for covered individuals who have experienced sexual trauma while in military service. The research design shall include consideration of veterans or members of a reserve component.
+Sexual Trauma Research.—In carrying out the comprehensive program, the Secretary shall provide for research on mental health care for covered individuals who have experiencedsexual trauma while in military service. The research design shall include consideration of veterans or members of a reserve component.
 
 (g) 24-
 
@@ -96,7 +96,7 @@ Peer Support Counseling Program.—(1) In carrying out the comprehensive program
 
 Other Components.—In carrying out the comprehensive program, the Secretary may provide for other actions to reduce the incidence of suicide among covered individuals that the Secretary considers appropriate.
 
-(<i>l)</i>(1)
+(l)(1)
 
 Covered Individual Defined.—In this section, the term "covered individual" means a veteran or a member of the reserve components of the Armed Forces.
 
@@ -226,7 +226,7 @@ Quarterly reports.—Not less frequently than quarterly, the Secretary shall sub
 
 "(b)
 
-Quality Management Processes for Veterans Crisis Line.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], the leadership for the Veterans Crisis Line, in partnership with the Office of Mental Health and Suicide Prevention of the Department and the National Center for Patient Safety of the Department, shall establish quality managementprocesses and expectations for staff of the Veterans Crisis Line, including with respect to reporting of adverse events and close calls.
+Quality Management Processes for Veterans Crisis Line.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], the leadership for the Veterans Crisis Line, in partnership with the Office of Mental Health and Suicide Prevention of the Department and the National Center for Patient Safety of the Department, shall establish quality management processes and expectations for staff of the Veterans Crisis Line, including with respect to reporting of adverse events and close calls.
 
 "(c)
 
@@ -242,7 +242,7 @@ Submittal of results.—The Secretary shall submit to the Office of Mental Healt
 
 &emsp;"(3)
 
-Application of themes or lessons.—The Secretary shall apply any themes or lessons learned under an analysis under paragraph (1) to updating training and standards of practice for staff of the Veterans Crisis Line.
+Application of themes or lessons.—The Secretary shall apply any themes or lessons learnedunder an analysis under paragraph (1) to updating training and standards of practice for staff of the Veterans Crisis Line.
 
 #### "SEC. 213. GUIDANCE FOR HIGH-RISK CALLERS.
 
@@ -338,7 +338,7 @@ Nonapplication of FACA.—The Federal Advisory Committee Act (\[former\] 5 U.S.C
 
 "(c)
 
-Veterans Service Organization Defined.—In this section, the term 'veterans service organization' means an organization recognized by the Secretary forthe representation of veterans under section 5902 of title 38, United States Code."
+Veterans Service Organization Defined.—In this section, the term 'veterans service organization' means an organization recognized by the Secretary for the representation of veterans under section 5902 of title 38, United States Code."
 
 #### Department of Veterans Affairs Governors Challenge Program
 
@@ -868,7 +868,7 @@ Family.—The term 'family' means, with respect to an eligible individual, any o
 
 &emsp;"(7)
 
-Indian tribe.—The term 'Indian tribe' has the meaning given that term in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103).
+Indian tribe.—The term 'Indian tribe' has the meaning given that term in section 4 of the NativeAmerican Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103).
 
 &emsp;"(8)
 
@@ -1042,7 +1042,7 @@ In General.—In the first publication of the Department of Veterans Affairs and
 
 "(b)
 
-Rule of Construction.—Nothing in this section shall be construed to prevent the Secretary of Veterans Affairs and the Secretary of Defense from considering all relevant evidence, as appropriate, in updating the Department of Veterans Affairs and Department of Defense Clinical Practice Guideline for Assessment and Management of Patients at Risk for Suicide, as required under subsection (a), or from ensuring that the final clinical practice guidelines updated under such subsection remain applicable to the patient populations of the Department of Veterans Affairs and the Department of Defense."
+Rule of Construction.—Nothing in this section shall be construed to prevent the Secretary of Veterans Affairs and the Secretary of Defense from considering all relevant evidence, as appropriate, in updating the Department of Veterans Affairs and Department of Defense Clinical Practice Guideline for Assessment and Management of Patients at Risk for Suicide, as required under subsection (a), or from ensuring that thefinal clinical practice guidelines updated under such subsection remain applicable to the patient populations of the Department of Veterans Affairs and the Department of Defense."
 
 #### Contracts Related to Suicide Prevention and Mental Health Outreach Media
 
@@ -1186,7 +1186,7 @@ Report on Use of Funds by Office of Mental Health and Suicide Prevention.—Not 
 
 #### Staffing Requirement for Suicide Prevention Coordinators
 
-Pub. L. 116–171, title V, §506(a), Oct. 17, 2020, 134 Stat. 820, provided that: "Beginning not later than one year after the date of the enactment of this Act \[Oct. 17, 2020\], the Secretary of Veterans Affairs shall ensure that each medical center of the Department of Veterans Affairs has not less than one suicide prevention coordinator."
+Pub. L. 116–171, title V, §506(a), Oct. 17, 2020, 134 Stat. 820, provided that: "Beginning not later than one year after the date of the enactment of this Act \[Oct. 17,2020\], the Secretary of Veterans Affairs shall ensure that each medical center of the Department of Veterans Affairs has not less than one suicide prevention coordinator."
 
 #### Funding for Peer Support Counseling for Women Veterans
 

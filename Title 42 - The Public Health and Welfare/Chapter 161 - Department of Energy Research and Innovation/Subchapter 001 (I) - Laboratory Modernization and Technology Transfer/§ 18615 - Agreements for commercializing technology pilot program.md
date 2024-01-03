@@ -60,7 +60,7 @@ The pilot program referred to in subsection (a) shall be extended until Septembe
 
 &emsp;&emsp;(B) identifies opportunities to improve the effectiveness of the pilot program;
 
-&emsp;&emsp;(C) assesses the potential for program activities to interfere with the responsibilitiesof the National Laboratories to the Department; and
+&emsp;&emsp;(C) assesses the potential for program activities to interfere with the responsibilities of the National Laboratories to the Department; and
 
 &emsp;&emsp;(D) provides a recommendation regarding the future of the pilot program.
 

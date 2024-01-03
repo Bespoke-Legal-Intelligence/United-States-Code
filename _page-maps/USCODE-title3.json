@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title3",
- "package": "USCODE-2022-title3",
+ "package": "USCODE-2023-title3",
  "pieces": [
   {
    "id": "3_",
@@ -621,7 +621,7 @@
      38,
      [
       [
-       211,
+       106,
        "[Page 36]"
       ]
      ]
@@ -666,10 +666,14 @@
    "id": "3_114",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 38]",
-     true
+     "I",
+     10,
+     [
+      [
+       113,
+       "[Page 38]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Office and Compensation of President/§ 00114 - General pay limitation.md",
@@ -749,7 +753,7 @@
      2,
      [
       [
-       229,
+       135,
        "[Page 39]"
       ]
      ]
@@ -759,7 +763,7 @@
      54,
      [
       [
-       384,
+       329,
        "[Page 40]"
       ]
      ]
@@ -769,7 +773,7 @@
      90,
      [
       [
-       278,
+       222,
        "[Page 41]"
       ]
      ]
@@ -1303,6 +1307,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2022-title3 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2023-title3 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 03 - The President"
 }

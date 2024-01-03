@@ -14,7 +14,7 @@ Not later than 60 days after November 16, 1990, the Secretary of State shall iss
 
 #### (d) Crisis teams
 
-Not later than 60 days after November 16, 1990, the Secretary of State shall promulgate procedures for the deployment of a "crisis team", which may include public affairs, forensic, and bereavement experts, to the site of any international disaster involving United States citizens abroad to augment in-country Embassy and consulate staff. The Secretary of State shall promptly issue such rules and guidelines as arenecessary to implement procedures developed pursuant to this subsection.
+Not later than 60 days after November 16, 1990, the Secretary of State shall promulgate procedures for the deployment of a "crisis team", which may include public affairs, forensic, and bereavement experts, to the site of any international disaster involving United States citizens abroad to augment in-country Embassy and consulate staff. The Secretary of State shall promptly issue such rules and guidelines as are necessary to implement procedures developed pursuant to this subsection.
 
 (Pub. L. 101–604, title II, §207, Nov. 16, 1990, 104 Stat. 3084.)
 
@@ -22,5 +22,5 @@ Not later than 60 days after November 16, 1990, the Secretary of State shall pro
 
 #### Authority of Secretary of State
 
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, seesection 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 

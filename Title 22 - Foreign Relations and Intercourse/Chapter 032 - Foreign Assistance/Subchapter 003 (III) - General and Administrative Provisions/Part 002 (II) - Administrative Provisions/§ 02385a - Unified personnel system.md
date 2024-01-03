@@ -26,7 +26,7 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (c), is Pub.
 
 #### Codification
 
-Section enacted as part of the International Development and Food Assistance Act of 1978, and not as partof the Foreign Assistance Act of 1961 which comprises this chapter.
+Section enacted as part of the International Development and Food Assistance Act of 1978, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
 #### Amendments
 

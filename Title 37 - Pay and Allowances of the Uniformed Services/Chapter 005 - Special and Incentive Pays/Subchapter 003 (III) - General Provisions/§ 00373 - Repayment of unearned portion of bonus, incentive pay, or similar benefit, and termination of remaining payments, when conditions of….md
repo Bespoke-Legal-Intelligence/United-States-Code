@@ -60,7 +60,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "bonus, incentive pay, or similar benefit" means a bonus, incentive pay, special pay, or similar payment, or an educational benefit or stipend, paid to a member of the uniformed services under a provision of law that refers to the repayment requirements of this section or section 303a(e) of this title.
 
-&emsp;(2) The term "service", as used in subsection (c)(2), refers to an obligation willingly undertaken by a member of the uniformed services,in exchange for a bonus, incentive pay, or similar benefit offered by the Secretary concerned—
+&emsp;(2) The term "service", as used in subsection (c)(2), refers to an obligation willingly undertaken by a member of the uniformed services, in exchange for a bonus, incentive pay, or similar benefit offered by the Secretary concerned—
 
 &emsp;&emsp;(A) to a member in a regular or reserve component who remains on active duty or in an active status;
 

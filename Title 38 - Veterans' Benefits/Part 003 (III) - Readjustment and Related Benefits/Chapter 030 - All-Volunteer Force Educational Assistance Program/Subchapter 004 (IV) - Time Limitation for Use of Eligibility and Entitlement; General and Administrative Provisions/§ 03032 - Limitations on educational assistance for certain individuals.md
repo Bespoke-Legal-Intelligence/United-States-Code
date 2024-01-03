@@ -118,7 +118,7 @@ Amendment by Pub. L. 107–14 effective as if enacted on Nov. 1, 2000, immediate
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–419, title I, §122(d), Nov. 1, 2000, 114 Stat. 1837, provided that: "The amendments made by this section \[enacting section 3689 of this title and amending this section and sections 3232, 3452, 3482, 3501, and 3532 of this title\] shall take effect on March 1, 2001, and shall apply with respect to licensing and certificationtests approved by the Secretary of Veterans Affairs on or after such date."
+Pub. L. 106–419, title I, §122(d), Nov. 1, 2000, 114 Stat. 1837, provided that: "The amendments made by this section \[enacting section 3689 of this title and amending this section and sections 3232, 3452, 3482, 3501, and 3532 of this title\] shall take effect on March 1, 2001, and shall apply with respect to licensing and certification tests approved by the Secretary of Veterans Affairs on or after such date."
 
 #### Effective Date of 1992 Amendment
 

@@ -8,7 +8,7 @@
 
 (3) If the court dissolves the injunction on a finding that the civil action for the injunction was brought only for delay, the court may increase the interest rate imposed on amounts found due against the complainant to not more than 10 percent a year. The judge may grant or dissolve an injunction under this subsection either in or out of court.
 
-(c) A person adversely affected by a refusal to grant an injunction or by dissolving an injunction under subsection (b) of this section may petition a judge of a circuit court of appeals in which the district is located or the Supreme Court justice allotted to that circuit by giving the judge or justice a copy of the proceeding held before the district judge. The judge or justice may grant an injunction or allow an appeal if the judge or justice finds the case requires it.
+(c) A person adversely affected by a refusal to grant an injunction or by dissolving an injunction under subsection (b) of this section may petition a judge of a circuit court of appeals inwhich the district is located or the Supreme Court justice allotted to that circuit by giving the judge or justice a copy of the proceeding held before the district judge. The judge or justice may grant an injunction or allow an appeal if the judge or justice finds the case requires it.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 968.)
 

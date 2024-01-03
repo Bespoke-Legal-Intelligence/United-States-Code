@@ -26,7 +26,7 @@ Notwithstanding paragraphs (1), (2), and (3) of subsection (a), any person may f
 
 &emsp;(1) the terms of the proposed transaction, including the consideration to be paid or received, are reasonable and fair and do not involve overreaching of the business development company or its shareholders or partners on the part of any person concerned;
 
-&emsp;(2) the proposed transaction is consistent with the policy of the business development company as recited in the filings made by such company with the Commission under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], its registration statement and reports filed under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], and its reports to shareholders or partners; and
+&emsp;(2) the proposed transaction is consistent with the policy of the business developmentcompany as recited in the filings made by such company with the Commission under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], its registration statement and reports filed under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], and its reports to shareholders or partners; and
 
 &emsp;(3) the proposed transaction is consistent with the general purposes of this subchapter.
 
@@ -40,7 +40,7 @@ It shall be unlawful for any person who is related to a business development com
 
 &emsp;(3) knowingly to borrow money or other property from such business development company or from any company controlled by such business development company (unless the borrower is controlled by the lender), except as permitted in section 80a–21(b) of this title; or
 
-&emsp;(4) knowingly to effect any transaction in which such business development company or a company controlled by such business development company is a joint or a joint and several participant with such affiliated person in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such business development company or controlled company on a basis less advantageous than that of such affiliated person, except that nothing contained in this paragraph shall bedeemed to preclude any person from acting as manager of any underwriting syndicate or other group in which such business development company or controlled company is a participant and receiving compensation therefor.
+&emsp;(4) knowingly to effect any transaction in which such business development company or a company controlled by such business development company is a joint or a joint and several participant with such affiliated person in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such business development company or controlled company on a basis less advantageous than that of such affiliated person, except that nothing contained in this paragraph shall be deemed to preclude any person from acting as manager of any underwriting syndicate or other group in which such business development company or controlled company is a participant and receiving compensation therefor.
 
 #### (e) Noncontrolling shareholders or affiliated persons; executive officer
 
@@ -128,7 +128,7 @@ For purposes of subsections (a) and (d), a person who is a director, officer, or
 
 #### (n) Profit-sharing plans
 
-(1) Notwithstanding subsection (a)(4) of this section, a business development company may establish and maintain a profit-sharing plan for its directors, officers, employees, and general partners and such directors, officers, employees, and general partners may participate in such profit-sharing plan, if—
+(1) Notwithstanding subsection (a)(4) of this section, a business development company mayestablish and maintain a profit-sharing plan for its directors, officers, employees, and general partners and such directors, officers, employees, and general partners may participate in such profit-sharing plan, if—
 
 &emsp;(A)(i) in the case of a profit-sharing plan for officers and employees of the business development company (including any officer or employee who is also a director of such company), such profit-sharing plan is approved by the required majority (as defined in subsection (o)) of the directors of or general partners in such company on the basis that such plan is reasonable and fair to the shareholders or partners of such company, does not involve overreaching of such company or its shareholders or partners on the part of any person concerned, and is consistent with the interests of the shareholders or partners of such company; or
 

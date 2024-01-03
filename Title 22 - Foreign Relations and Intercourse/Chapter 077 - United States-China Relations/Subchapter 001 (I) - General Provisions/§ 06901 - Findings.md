@@ -46,6 +46,138 @@ Pub. L. 106–286, div. B, title II, §201(a), Oct. 10, 2000, 114 Stat. 891, pro
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
+#### Ending China's Developing Nation Status
+
+Pub. L. 118–31, div. E, title LIV, §5413, Dec. 22, 2023, 137 Stat. 951, provided that:
+
+"(a)
+
+Finding; Statement of Policy.—
+
+&emsp;"(1)
+
+Finding.—Congress finds that the People's Republic of China is still classified as a developing nation under multiple treaties and international organization structures, even though China has grown to be the second largest economy in the world.
+
+&emsp;"(2)
+
+Statement of policy.—It is the policy of the United States—
+
+&emsp;&emsp;"(A) to oppose the labeling or treatment of the People's Republic of China as a developing nation in current and future treaty negotiations and in each international organization of which the United States and the People's Republic of China are both current members;
+
+&emsp;&emsp;"(B) to pursue the labeling or treatment of the People's Republic of China as a developed nation in each international organization of which the United States and the People's Republic of China are both current members; and
+
+&emsp;&emsp;"(C) to work with allies and partners of the United States to implement the policies described in subparagraphs (A) and (B).
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives with respect to subsection (c); and
+
+&emsp;&emsp;"(B) the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to subsection (d).
+
+&emsp;"(2) The term 'OECD' means the Organisation for Economic Co-operation and Development.
+
+&emsp;"(3) The term 'Secretary' means the Secretary of State.
+
+&emsp;"(4) The term 'WTO' means the World Trade Organization.
+
+"(c)
+
+Duties of the Secretary.—
+
+&emsp;"(1)
+
+Report on development status in current treaty negotiations.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary shall submit a report to the appropriate committees of Congress that—
+
+&emsp;&emsp;"(A) identifies all current treaty negotiations in which—
+
+&emsp;&emsp;&emsp;"(i) the proposed treaty would provide for different treatment or standards for enforcement of the treaty based on respective development status of the states that are party to the treaty; and
+
+&emsp;&emsp;&emsp;"(ii) the People's Republic of China is actively participating in the negotiations, or it is reasonably foreseeable that the People's Republic of China would seek to become a party to the treaty; and
+
+&emsp;&emsp;"(B) for each treaty negotiation identified pursuant to subparagraph (A), describes how the treaty under negotiation would provide different treatment or standards for enforcement of the treaty based on development status of the states parties.
+
+&emsp;"(2)
+
+Report on development status in existing organizations and treaties.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit a report to the appropriate committees of Congress that—
+
+&emsp;&emsp;"(A) identifies all international organizations or treaties of which the United States is a member, that provide different treatment or standards forenforcement based on the respective development status of the member states or states parties;
+
+&emsp;&emsp;"(B) describes the mechanisms for changing the country designation for each relevant treaty or organization; and
+
+&emsp;&emsp;"(C) for each of the organizations or treaties identified pursuant to subparagraph (A)—
+
+&emsp;&emsp;&emsp;"(i) includes a list of countries that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) are labeled as developing nations or receive the benefits of a developing nation under the terms of the organization or treaty; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) meet the World Bank classification for upper middle income or high-income countries; and
+
+&emsp;&emsp;&emsp;"(ii) describes how the organization or treaty provides different treatment or standards for enforcement based on development status of the member states or states parties.
+
+&emsp;"(3)
+
+Mechanisms for changing development status.—
+
+&emsp;&emsp;"(A)
+
+In general.—In any international organization of which the United States and the People's Republic of China are both current members, the Secretary, in consultation with allies and partners of the United States, shall pursue—
+
+&emsp;&emsp;&emsp;"(i) changing the status of the People's Republic of China from developing nation to developed nation if a mechanism exists in such organization to make such status change; or
+
+&emsp;&emsp;&emsp;"(ii) the development of a mechanism described in clause (i) to change the status of the People's Republic of China in such organization from developing nation to developed nation.
+
+&emsp;&emsp;"(B)
+
+Waiver.—The President may waive the application of clause (i) or (ii) of subparagraph (A) with respect to any international organization if the President notifies the appropriate committees of Congress that such a waiver is in the national interests of the United States.
+
+&emsp;"(4)
+
+Exception.—This subsection shall not apply to the WTO or any treaty identified in subsection (d).
+
+"(d)
+
+Duties of the United States Trade Representative.—
+
+&emsp;"(1)
+
+Report on special and differential treatment at the world trade organization.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the United States Trade Representative shall submit a report to the appropriate committees of Congress that—
+
+&emsp;&emsp;"(A) identifies each provision of a WTO agreement that provides for special and differential treatment based on the self-declared development status of WTO members, including the People's Republic of China;
+
+&emsp;&emsp;"(B) identifies—
+
+&emsp;&emsp;&emsp;"(i) all current multilateral negotiations at the WTO in which proposed negotiating text would provide for special and differential treatment for WTO members; and
+
+&emsp;&emsp;&emsp;"(ii) all current plurilateral negotiations at the WTO in which the People's Republic of China is actively participating, or it is reasonably foreseeable that the People's Republic of China would seek to become a party to the agreement, in which proposed negotiating text would provide for special and differential treatment for WTO members;
+
+&emsp;&emsp;"(C) for each negotiation identified pursuant to subparagraph (B), describes how the draft provisions as of the date of the report would provide different treatment or standards for enforcement based on the self-declared development status of WTO members;
+
+&emsp;&emsp;"(D) includes a list of WTO members that—
+
+&emsp;&emsp;&emsp;"(i) self-declare as developing country WTO members;
+
+&emsp;&emsp;&emsp;"(ii) meet the World Bank classification for upper middle-income or high-income countries; and
+
+&emsp;&emsp;&emsp;"(iii)(I) are members of, or applicants to, the OECD; or
+
+&emsp;&emsp;&emsp;"(II) account for not less than 0.5 percent of global merchandise trade annually for each of the most recently completed 5 calendar years; and
+
+&emsp;&emsp;"(E) describes how the WTO provides different treatment or standards for enforcement based on the self-declared development status of the WTO members.
+
+&emsp;"(2)
+
+Sense of congress on mechanisms for changing special and differential treatment at the world trade organization.—It is the sense of Congress that the United States Trade Representative, in consultation with allies and partners of the United States, should—
+
+&emsp;&emsp;"(A) oppose the use of special and differential treatment by the People's Republic of China at the WTO;
+
+&emsp;&emsp;"(B) work to preclude the People's Republic of China from being eligible to use special and differential treatment in future WTO agreements; and
+
+&emsp;&emsp;"(C) work to set appropriate thresholds, based on objective criteria, for determining each country's eligibility for special and differential treatment in current and future WTO negotiations, consistent with subparagraphs (A) and (B)."
+
 #### Prohibition on Importation of Goods Made Through Forced Labor in the Xinjiang Uyghur Autonomous Region
 
 Pub. L. 117–78, Dec. 23, 2021, 135 Stat. 1525, provided that:
@@ -148,7 +280,7 @@ Elements.—The strategy developed under subsection (c) shall include the follow
 
 &emsp;&emsp;"(A) due diligence, effective supply chain tracing, and supply chain management measures to ensure that such importers do not import any goods mined, produced, or manufactured wholly or in part with forced labor from the People's Republic of China, especially from the Xinjiang Uyghur Autonomous Region;
 
-&emsp;&emsp;"(B) the type, nature, and extent of evidence that demonstrates that goods originating in the People's Republic of China were not mined, produced, or manufactured wholly or in part in the Xinjiang Uyghur Autonomous Region; and
+&emsp;&emsp;"(B) the type, nature, and extent of evidence that demonstrates that goods originating in the People's Republic of China were not mined, produced, ormanufactured wholly or in part in the Xinjiang Uyghur Autonomous Region; and
 
 &emsp;&emsp;"(C) the type, nature, and extent of evidence that demonstrates that goods originating in the People's Republic of China, including goods detained or seized pursuant to section 307 of the Tariff Act of 1930 (19 U.S.C. 1307), were not mined, produced, or manufactured wholly or in part with forced labor.
 
@@ -338,6 +470,8 @@ United states person.—The term 'United States person' means—
 
 &emsp;&emsp;"(B) an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity."
 
+\[For delegation of functions of the President under section 5(c) of Pub. L. 117–78, set out above, see Memorandum of President of the United States, Dec. 7, 2023, 88 F.R. 87651, set out below.\]
+
 #### Imposition of Sanctions
 
 Pub. L. 116–145, §6, June 17, 2020, 134 Stat. 651, as amended by Pub. L. 117–78, §5(a), Dec. 23, 2021, 135 Stat. 1531, provided that:
@@ -490,6 +624,8 @@ United states person.—The term 'United States person' means—
 
 &emsp;&emsp;"(B) an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity."
 
+\[For delegation of functions of the President under section 6 of Pub. L. 116–145, set out above, see Memorandum of President of the United States, Dec. 7, 2023, 88 F.R. 87651, set out below.\]
+
 #### Monitoring of Implementation of 1979 Agreement Between the United States and China on Cooperation in Science and Technology
 
 Pub. L. 107–314, div. A, title XII, §1207, Dec. 2, 2002, 116 Stat. 2666, as amended by Pub. L. 114–323, title VII, §715(b)(4), Dec. 16, 2016, 130 Stat. 1946, provided that:
@@ -518,7 +654,7 @@ Agreement Defined.—For purposes of this section, the term 'Agreement' means th
 
 Interagency Working Group.—The President shall establish an interagency working group to oversee the implementation of the Agreement by departments and agencies of the United States. The working group shall consist of representatives of such departments, agencies, and offices of the executive branch as the President considers appropriate. The working group shall perform the following functions:
 
-&emsp;"(1) Assisting the Secretary of State and other appropriate officials in setting standards under the Agreement for science and technology transfers between the United States and the People's Republic of China.
+&emsp;"(1) Assisting the Secretary of State and other appropriate officials in setting standards under theAgreement for science and technology transfers between the United States and the People's Republic of China.
 
 &emsp;"(2) Monitoring ongoing programs and activities under the Agreement and recommending future programs and activities under the Agreement.
 
@@ -714,7 +850,7 @@ Waiver.—The Secretary may waive the requirement under subsection (b), notwiths
 
 #### "SEC. 619. REQUIREMENT FOR TIBETAN LANGUAGE TRAINING.
 
-"The Secretary shall ensure that Tibetan language training is available to Foreign Service officers, and that every effort is made to ensure that a Tibetan-speaking Foreign Service officer is assigned to a UnitedStates post in the People's Republic of China responsible for monitoring developments in Tibet.
+"The Secretary shall ensure that Tibetan language training is available to Foreign Service officers, and that every effort is made to ensure that a Tibetan-speaking Foreign Service officer is assigned to a United States post in the People's Republic of China responsible for monitoring developments in Tibet.
 
 #### "SEC. 620. RELIGIOUS PERSECUTION IN TIBET.
 
@@ -893,4 +1029,54 @@ Joint declaration.—The term 'Joint Declaration' means the Joint Declaration of
 &emsp;"(2)
 
 Macau.—The term 'Macau' means the territory that prior to December 20, 1999, was the Portuguese Dependent Territory of Macau and after December 20, 1999, became the Macau Special Administrative Region of the People's Republic of China."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Certain Functions and Authorities Under the Uyghur Human Rights Policy Act of 2020 and Public Law 117–78
+
+Memorandum of President of the United States, Dec. 7, 2023, 88 F.R. 87651, provided:
+
+Memorandum for the Secretary of State\[,\] the Secretary of the Treasury\[, and\] the Secretary of Homeland Security
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby order as follows:
+
+Section 1. (a) I hereby delegate to the Secretary of State, in consultation with the Secretary of the Treasury, the functions and authorities vested in the President by the following provisions of the Uyghur Human Rights Policy Act of 2020 (Public Law 116–145) (UHRPA) \[section 6 set out as a note above\] and Public Law 117–78 \[set out as a note above\]:
+
+(i) section 6(a)(1) of the UHRPA, with respect to submitting the report;
+
+(ii) section 6(e) of the UHRPA; and
+
+(iii) section 5(c)(1) of Public Law 117–78, with respect to submitting the report.
+
+(b) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State, the functions and authorities vested in the President by the following provisions of the UHRPA and Public Law 117–78:
+
+(i) section 6(a)(1) of the UHRPA, with respect to making the determinations;
+
+(ii) section 6(g) of the UHRPA, with respect to terminating the sanctions described in section 6(c)(1) of the UHRPA and imposed under section 6(b) of the UHRPA; and
+
+(iii) section 5(c)(1) of Public Law 117–78, with respect to making the determinations.
+
+(c) I hereby delegate to the Secretary of the Treasury the functions and authorities vested in the President by the following provisions of the UHRPA and Public Law 117–78:
+
+(i) section 6(b) of the UHRPA, with respect to imposing the sanctions described in section 6(c)(1) of the UHRPA;
+
+(ii) section 6(c)(1) of the UHRPA;
+
+(iii) section 6(d) of the UHRPA; and
+
+(iv) section 5(c)(2) of Public Law 117–78, with respect to imposing the sanctions described in section 6(c)(1) of the UHRPA.
+
+(d) I hereby delegate to the Secretary of State, in consultation with the Secretary of Homeland Security, the functions and authorities vested in the President by the following provisions of the UHRPA and Public Law 117–78:
+
+(i) section 6(b) of the UHRPA, with respect to imposing the sanctions described in section 6(c)(2) of the UHRPA;
+
+(ii) section 6(g) of the UHRPA, with respect to terminating the sanctions described in section 6(c)(2) of the UHRPA and imposed under section 6(b) of the UHRPA; and
+
+(iii) section 5(c)(2) of Public Law 117–78, with respect to imposing the sanctions described in section 6(c)(2) of the UHRPA.
+
+Sec. 2. The delegations in this memorandum shall apply to any provisions of any future public laws that are the same or substantially the same as those provisions referenced in this memorandum.
+
+Sec. 3. The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

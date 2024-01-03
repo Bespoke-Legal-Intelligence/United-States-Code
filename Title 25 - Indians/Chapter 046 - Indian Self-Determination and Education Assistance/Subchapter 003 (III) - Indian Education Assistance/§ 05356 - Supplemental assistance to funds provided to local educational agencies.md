@@ -1,6 +1,6 @@
 ### §5356. Supplemental assistance to funds provided to local educational agencies
 
-The assistance provided in this chapter for the education of Indians in the public schools of any State is in addition and supplemental to assistance provided under title VI of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7401 et seq.\].
+The assistance provided in this chapter for the education of Indians in the public schools of anyState is in addition and supplemental to assistance provided under title VI of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7401 et seq.\].
 
 (Pub. L. 93–638, title II, §209, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 103–382, title III, §393(c), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 114–95, title IX, §9215(rr), Dec. 10, 2015, 129 Stat. 2181.)
 

@@ -66,7 +66,7 @@ For purposes of enabling the Administrator to acquire resources necessary to mee
 
 &emsp;(1) the Administrator, prior to contracting for such acquisition, certifies to his reasonable belief, that the persons for whom the Administrator is acquiring such resources for sale pursuant to section 839c of this title are public bodies, cooperatives, and Federal agencies, unless the Administrator also certifies that he is unable to acquire such resources without selling a portion thereof to persons who are not exempt persons (as defined in section 103(b) <sup>1</sup> of title 26), and
 
-&emsp;(2) based upon such certification, the Secretary of the Treasury determines in accordance with applicable regulations that less than a major portion of the resource is to be furnished to persons who are not exempt persons (as defined in section 103(b) <sup>1</sup> of title 26).
+&emsp;(2) based upon such certification, the Secretary of the Treasury determines in accordance with applicable regulations that lessthan a major portion of the resource is to be furnished to persons who are not exempt persons (as defined in section 103(b) <sup>1</sup> of title 26).
 
 > The certification under paragraph (1) shall be made in accordance with this subsection and a procedure and methodology approved by the Secretary of the Treasury. For purposes of this subsection, the term "major portion" shall have the meaning provided by regulations issued by the Secretary of the Treasury.
 
@@ -120,7 +120,7 @@ There is hereby established within the administration an executive position for 
 
 #### References in Text
 
-The Bonneville Project Act of 1937, referred to in subsecs. (b) and (e)(5), is act Aug. 20, 1937, ch. 720, 50 Stat.731, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
+The Bonneville Project Act of 1937, referred to in subsecs. (b) and (e)(5), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
 
 Act of August 31, 1964, referred to in subsec. (e)(5), is Pub. L. 88–552, Aug. 31, 1964, 78 Stat. 756, which is classified generally to chapter 12F (§837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 

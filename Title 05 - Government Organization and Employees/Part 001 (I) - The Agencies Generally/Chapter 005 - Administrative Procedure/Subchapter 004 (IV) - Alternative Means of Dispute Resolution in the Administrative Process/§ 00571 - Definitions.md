@@ -150,7 +150,7 @@ Pub. L. 101–552, §9, Nov. 15, 1990, 104 Stat. 2747, provided that:
 
 "(a)
 
-Representation of Parties.—Each agency, in developing a policy on the use of alternative means of dispute resolution under this Act \[see Short Title note above\], shall develop a policy with regard to the representation by persons other than attorneys of parties in alternative dispute resolution proceedings and shall identify any of its administrative programs with numerous claims or disputes before the agency and determine—
+Representation of Parties.—Each agency, in developing a policy on the use of alternative means of dispute resolution under this Act \[see Short Title noteabove\], shall develop a policy with regard to the representation by persons other than attorneys of parties in alternative dispute resolution proceedings and shall identify any of its administrative programs with numerous claims or disputes before the agency and determine—
 
 &emsp;"(1) the extent to which individuals are represented or assisted by attorneys or by persons who are not attorneys; and
 

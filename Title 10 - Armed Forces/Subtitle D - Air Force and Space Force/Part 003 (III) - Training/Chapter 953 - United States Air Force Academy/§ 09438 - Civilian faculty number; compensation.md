@@ -8,7 +8,7 @@
 
 &emsp;(1) The work schedule, including hours of work and tours of duty, set forth with such specificity and other characteristics as the Secretary determines appropriate.
 
-&emsp;(2) Any premium pay or compensatory time off for hours of work or tours of duty in excessof the regularly scheduled hours or tours of duty.
+&emsp;(2) Any premium pay or compensatory time off for hours of work or tours of duty in excess of the regularly scheduled hours or tours of duty.
 
 (Added Pub. L. 103–160, div. A, title V, §533(b)(1), Nov. 30, 1993, 107 Stat. 1658, §9338; amended Pub. L. 106–65, div. A, title XI, §1107(c), Oct. 5, 1999, 113 Stat. 778; renumbered §9438, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
 

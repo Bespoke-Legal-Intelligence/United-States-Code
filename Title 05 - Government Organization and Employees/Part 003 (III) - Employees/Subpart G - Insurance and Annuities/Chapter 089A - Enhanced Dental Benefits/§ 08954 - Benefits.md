@@ -24,7 +24,7 @@
 
 &emsp;(9) Orthodontics.
 
-(d) A contract approved under this chapter shall require the qualified company to cover the geographic service delivery area specified by the Office. The Office shall require qualified companies to include dentally underserved areas in their service delivery areas.
+(d) A contract approved under this chapter shall require the qualified company to cover the geographic service delivery area specified by theOffice. The Office shall require qualified companies to include dentally underserved areas in their service delivery areas.
 
 (e) If an individual has dental coverage under a health benefits plan under chapter 89 and also has coverage under a plan under this chapter, the health benefits plan under chapter 89 shall be the first payor of any benefit payments.
 

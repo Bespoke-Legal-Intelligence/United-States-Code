@@ -28,7 +28,7 @@
 
 #### (b) Recruitment and fellowship programs
 
-(1) The Secretary may conduct at schools of medicine, osteopathic medicine, dentistry, and, as appropriate, nursing and other schools of the health professions, including schools at which graduate programs of behavioral and mental health are offered, and at entities which train allied health personnel, recruiting programs for the Corps, the Scholarship Program, and the Loan Repayment Program. Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.
+(1) The Secretary may conduct at schools of medicine, osteopathic medicine, dentistry, and,as appropriate, nursing and other schools of the health professions, including schools at which graduate programs of behavioral and mental health are offered, and at entities which train allied health personnel, recruiting programs for the Corps, the Scholarship Program, and the Loan Repayment Program. Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.
 
 (2) In the case of physicians, dentists, behavioral and mental health professionals, certified nurse midwives, certified nurse practitioners, and physician assistants who have an interest and a commitment to providing primary health care, the Secretary may establish fellowship programs to enable such health professionals to gain exposure to and expertise in the delivery of primary health services in health professional shortage areas. To the maximum extent practicable, the Secretary shall ensure that any such programs are established in conjunction with accredited residency programs, and other training programs, regarding such health professions.
 
@@ -38,7 +38,7 @@
 
 (2) The Secretary may also reimburse the applicant for the actual and reasonable expenses incurred for the travel of 1 family member to accompany the applicant to such site. The Secretary may establish a maximum total amount that may be paid to an individual as reimbursement for such expenses.
 
-(3) In the case of an individual who has entered into a contract for obligated service under the Scholarship Program or under the Loan Repayment Program, the Secretary may reimburse such individual for all or part of the actual and reasonable expenses incurred in transporting the individual, the individual's family, and the family's possessions to the site of the individual'sassignment under section 254f of this title. The Secretary may establish a maximum total amount that may be paid to an individual as reimbursement for such expenses.
+(3) In the case of an individual who has entered into a contract for obligated service under the Scholarship Program or under the Loan Repayment Program, the Secretary may reimburse such individual for all or part of the actual and reasonable expenses incurred in transporting the individual, the individual's family, and the family's possessions to the site of the individual's assignment under section 254f of this title. The Secretary may establish a maximum total amount that may be paid to an individual as reimbursement for such expenses.
 
 #### (d) Monthly pay adjustments of members directly engaged in delivery of health services in health professional shortage area; "monthly pay" defined; monthly pay adjustment of member with service obligation incurred under Scholarship Program or Loan Repayment Program; personnel system applicable
 
@@ -76,7 +76,7 @@ The Secretary shall ensure that adequate staff is provided to the Service with r
 
 #### (i) Demonstration projects; waivers
 
-(1) In carrying out subpart III, the Secretary may, in accordance with this subsection, issue waivers to individuals who have entered into a contract for obligated service under the Scholarship Program or the Loan Repayment Program under which the individuals are authorized tosatisfy the requirement of obligated service through providing clinical practice that is half time.
+(1) In carrying out subpart III, the Secretary may, in accordance with this subsection, issue waivers to individuals who have entered into a contract for obligated service under the Scholarship Program or the Loan Repayment Program under which the individuals are authorized to satisfy the requirement of obligated service through providing clinical practice that is half time.
 
 (2) A waiver described in paragraph (1) may be provided by the Secretary only if—
 
@@ -118,7 +118,7 @@ For the purposes of this subpart and subpart III:
 
 &emsp;(6) The terms "half time" and "half-time" mean a minimum of 20 hours per week (not to exceed 39 hours per week) in a clinical practice, for a minimum of 45 weeks per year.
 
-(July 1, 1944, ch. 373, title III, §331, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2268; amended Pub. L. 97–35, title XXVII, §2701, Aug. 13, 1981, 95 Stat. 902; Pub. L. 100–177, title II, §202(b), title III, §301, Dec. 1, 1987, 101 Stat. 996, 1003; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §101, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3013, 3035; Pub. L. 107–251, title III, §301, Oct. 26, 2002, 116 Stat. 1642; Pub. L. 109–417, title II, §206(c)(2), Dec. 19, 2006, 120 Stat. 2853; Pub. L. 111–148, title X, §10501(n)(1), (2), Mar. 23, 2010, 124 Stat. 1002, 1003.)
+(July 1, 1944, ch. 373, title III, §331, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2268; amended Pub. L. 97–35, title XXVII, §2701, Aug. 13, 1981, 95 Stat. 902; Pub. L. 100–177, title II, §202(b), title III, §301, Dec. 1, 1987, 101 Stat. 996, 1003; Pub. L. 100–607, title VI,§629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §101, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3013, 3035; Pub. L. 107–251, title III, §301, Oct. 26, 2002, 116 Stat. 1642; Pub. L. 109–417, title II, §206(c)(2), Dec. 19, 2006, 120 Stat. 2853; Pub. L. 111–148, title X, §10501(n)(1), (2), Mar. 23, 2010, 124 Stat. 1002, 1003.)
 
 #### <b>Editorial Notes</b>
 
@@ -218,7 +218,7 @@ Pub. L. 101–597, title V, §501, Nov. 16, 1990, 104 Stat. 3036, provided that:
 
 #### Special Report on Present and Future Direction of National Health Service Corps; Submission to Congress Not Later Than February 1, 1979
 
-Pub. L. 95–626, title I, §116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit toCongress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
+Pub. L. 95–626, title I, §116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
 
 #### Effective Date; Other Provisions: Health Manpower Shortage Area; Approval of Applications for Assignment of Corps Personnel; Assignment Period, Commencement; Credit for Months of Prior Health Care and Services for Additional Pay Benefit; National Advisory Council on the National Health Service Corps, Continuation of Council and Appointment of Members
 

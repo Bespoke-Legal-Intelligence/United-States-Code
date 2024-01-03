@@ -12,7 +12,7 @@
 
 &emsp;(3) In order to foster the therapeutic and rehabilitative objectives of such housing (A) residents shall be prohibited from using alcohol or any controlled substance or item, (B) any resident violating that prohibition may be expelled from the residence or facility, and (C) each resident shall agree to undergo drug testing or such other measures as the Secretary shall prescribe to ensure compliance with that prohibition.
 
-&emsp;(4) In the establishment and operation of housing under this section, the Secretary shall consult with appropriate representatives of the community in which the housing is established and shall comply with zoning requirements, building permit requirements, and other similar requirements applicable to other real property used for similar purposes in the community.
+&emsp;(4) In the establishment and operation of housing under this section, the Secretary shall consult with appropriate representatives of the community in which the housing is established and shall comply with zoning requirements, building permit requirements, and other similar requirements applicable to otherreal property used for similar purposes in the community.
 
 &emsp;(5) The residence or facility shall meet State and community fire and safety requirements applicable to other real property used for similar purposes in the community in which the transitional housing is located, but fire and safety requirements applicable to buildings of the Federal Government shall not apply to such property.
 

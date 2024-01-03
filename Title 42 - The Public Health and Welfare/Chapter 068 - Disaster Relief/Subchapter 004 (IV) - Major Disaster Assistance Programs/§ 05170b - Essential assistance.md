@@ -10,7 +10,7 @@ Federal agencies may on the direction of the President, provide assistance essen
 
 #### (2) Medicine, food, and other consumables
 
-&emsp;Distributing or rendering through State and local governments, the American National Red Cross, the Salvation Army, the Mennonite Disaster Service, and other relief and disasterassistance organizations medicine durable medical equipment,,<sup>1</sup> food, and other consumable supplies, and other services and assistance to disaster victims.
+&emsp;Distributing or rendering through State and local governments, the American National Red Cross, the Salvation Army, the Mennonite Disaster Service, and other relief and disaster assistance organizations medicine durable medical equipment,,<sup>1</sup> food, and other consumable supplies, and other services and assistance to disaster victims.
 
 #### (3) Work and services to save lives and protect property
 
@@ -56,7 +56,7 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 #### (2) Rules applicable to debris removal
 
-&emsp;Any removal of debris and wreckage carried out under this subsection shall be subject to section 5173(b) of this title, relating to unconditional authorization and indemnification for debris removal.
+&emsp;Any removal of debris and wreckage carried out under this subsection shall be subject tosection 5173(b) of this title, relating to unconditional authorization and indemnification for debris removal.
 
 #### (3) Expenditures out of disaster relief funds
 
@@ -98,7 +98,7 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 #### (2) Overtime
 
-&emsp;The guidelines for reimbursement for costs under paragraph (1) shall ensure that no State,tribal, or local government is denied reimbursement for overtime payments that are required pursuant to the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.).
+&emsp;The guidelines for reimbursement for costs under paragraph (1) shall ensure that no State, tribal, or local government is denied reimbursement for overtime payments that are required pursuant to the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.).
 
 #### (3) No effect on mutual aid pacts
 

@@ -78,7 +78,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;"(E) the Committee on Homeland Security of the House of Representatives;
 
-&emsp;&emsp;"(F) the Committee on Oversight and Reform of the House of Representatives;
+&emsp;&emsp;"(F) the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives;
 
 &emsp;&emsp;"(G) the Committee on Energy and Commerce of the House of Representatives;
 

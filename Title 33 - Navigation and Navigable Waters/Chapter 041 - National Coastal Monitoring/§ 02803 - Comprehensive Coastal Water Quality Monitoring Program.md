@@ -132,7 +132,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 #### (6) Memorandum of Understanding
 
-&emsp;Prior to implementing any intensive coastal water quality monitoring program under this subsection, the Administrator and the UnderSecretary shall enter into a Memorandum of Understanding to implement the intensive coastal water quality monitoring programs and may extend the memorandum <sup>3</sup> of Understanding to include other appropriate Federal agencies. The Memorandum of Understanding shall identify the monitoring and reporting responsibilities of each agency and shall encourage the coordination of monitoring activities.
+&emsp;Prior to implementing any intensive coastal water quality monitoring program under this subsection, the Administrator and the Under Secretary shall enter into a Memorandum of Understanding to implement the intensive coastal water quality monitoring programs and may extend the memorandum <sup>3</sup> of Understanding to include other appropriate Federal agencies. The Memorandum of Understanding shall identify the monitoring and reporting responsibilities of each agency and shall encourage the coordination of monitoring activities.
 
 #### (7) Implementation
 

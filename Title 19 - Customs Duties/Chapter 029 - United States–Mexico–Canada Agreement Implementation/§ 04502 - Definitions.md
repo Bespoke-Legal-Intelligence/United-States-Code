@@ -38,7 +38,7 @@ In this Act:
 
 &emsp;The term "USMCA" means the Agreement between the United States of America, the United Mexican States, and Canada, which is—
 
-&emsp;&emsp;(A) attached as an Annex to the Protocol Replacing the North American Free Trade Agreement with the Agreement between the United States of America, the United Mexican States, and Canada, done at BuenosAires on November 30, 2018, as amended by the Protocol of Amendment to the Agreement Between the United States of America, the United Mexican States, and Canada, done at Mexico City on December 10, 2019; and
+&emsp;&emsp;(A) attached as an Annex to the Protocol Replacing the North American Free Trade Agreement with the Agreement between the United States of America, the United Mexican States, and Canada, done at Buenos Aires on November 30, 2018, as amended by the Protocol of Amendment to the Agreement Between the United States of America, the United Mexican States, and Canada, done at Mexico City on December 10, 2019; and
 
 &emsp;&emsp;(B) approved by Congress under section 4511(a)(1) of this title.
 

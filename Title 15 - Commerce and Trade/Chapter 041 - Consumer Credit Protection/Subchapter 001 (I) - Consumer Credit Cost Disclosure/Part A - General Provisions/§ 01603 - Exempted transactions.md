@@ -16,7 +16,7 @@ This subchapter does not apply to the following:
 
 &emsp;(7) Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.\].
 
-(Pub. L. 90–321, title I, §104, May 29, 1968, 82 Stat. 147; Pub. L. 93–495, title IV, §402, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 96–221, title VI, §603(c), Mar. 31, 1980, 94 Stat. 169; Pub. L. 97–320, title VII, §701(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 104–208, div. A, title II, §2102(a), Sept. 30, 1996, 110 Stat. 3009–398; Pub. L. 110–315, title X, §1022, Aug. 14, 2008, 122 Stat. 3488; Pub. L. 111–203, title X, §§1100A(2), 1100E(a)(1), July 21, 2010, 124 Stat. 2107, 2111.)
+(Pub. L. 90–321, title I, §104, May 29, 1968, 82 Stat. 147; Pub. L. 93–495, title IV, §402, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 96–221, title VI, §603(c), Mar.31, 1980, 94 Stat. 169; Pub. L. 97–320, title VII, §701(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 104–208, div. A, title II, §2102(a), Sept. 30, 1996, 110 Stat. 3009–398; Pub. L. 110–315, title X, §1022, Aug. 14, 2008, 122 Stat. 3488; Pub. L. 111–203, title X, §§1100A(2), 1100E(a)(1), July 21, 2010, 124 Stat. 2107, 2111.)
 
 #### <b>Editorial Notes</b>
 

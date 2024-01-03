@@ -18,7 +18,7 @@
 
 &emsp;(8)(A) Transportation of the remains, and travel and transportation allowances as specified in regulations prescribed under section 464 of title 37 for an escort of one person, to the place, subject to subparagraph (B), selected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized.
 
-&emsp;(B) The person designated to direct disposition of the remains may select two places under subparagraph (A) if the second place isa national cemetery. If that person selects two places, the Secretary concerned may pay for transportation to the second place only by means of reimbursement under subsection (b).
+&emsp;(B) The person designated to direct disposition of the remains may select two places under subparagraph (A) if the second place is a national cemetery. If that person selects two places, the Secretary concerned may pay for transportation to the second place only by means of reimbursement under subsection (b).
 
 &emsp;(C) When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. 1482 note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.
 
@@ -74,7 +74,7 @@ Presentation of Flag of the United States.—(1) In the case of a decedent cover
 
 (3) A flag to be presented to a person under subparagraph (B), (C), or (D) of paragraph (1) shall be of equal size to the flag presented under subparagraph (A) of such paragraph to the person designated to direct disposition of the remains of the decedent.
 
-(4) This subsection does not apply to a military prisoner who dies while in the custody ofthe Secretary concerned and while under a sentence that includes a discharge.
+(4) This subsection does not apply to a military prisoner who dies while in the custody of the Secretary concerned and while under a sentence that includes a discharge.
 
 (5) In this subsection:
 
@@ -92,7 +92,7 @@ Presentation of Flag of the United States.—(1) In the case of a decedent cover
 
 (4) The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available at the time of reimbursement for the payment of such expenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 113; Pub. L. 85–716, Aug. 21, 1958, 72 Stat. 708; Pub. L. 91–397, Sept. 1, 1970, 84 Stat. 837; Pub. L. 91–487, Oct. 22, 1970, 84 Stat. 1086; Pub. L. 93–292, May 28, 1974, 88 Stat. 176; Pub. L. 93–649, Jan. 8, 1975, 88 Stat. 2361; Pub. L. 101–189, div. A, title VI, §§652(a)(3), 653(a)(6), title XVI, §1622(c)(4), Nov. 29, 1989, 103 Stat. 1461, 1462, 1604; Pub. L. 103–337, div. A, title VI, §652(a)(2), title XVI, §1671(c)(8), Oct. 5, 1994, 108 Stat. 2793, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(19), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–107, div. A, title VI, §638(b)(1), Dec. 28, 2001, 115 Stat. 1147; Pub. L. 110–181, div. A, title V, §591, Jan. 28, 2008, 122 Stat. 138; Pub. L. 110–417, \[div. A\], title V, §581, Oct. 14, 2008, 122 Stat. 4472; Pub. L. 112–81, div. A, title V, §528, Dec. 31, 2011, 125 Stat. 1402; Pub. L. 113–66, div. A, title VI, §§621(e), 651(a)(2)–(c), Dec. 26, 2013, 127 Stat. 784, 787, 788; Pub. L. 115–91, div. A, title VI, §632, Dec. 12, 2017, 131 Stat. 1431; Pub. L. 116–92, div. A, title V, §573(a), Dec. 20, 2019, 133 Stat. 1404; Pub. L. 117–263, div. A, title VI, §641, Dec. 23, 2022, 136 Stat. 2633.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 113; Pub. L. 85–716, Aug. 21, 1958, 72 Stat. 708; Pub. L. 91–397,Sept. 1, 1970, 84 Stat. 837; Pub. L. 91–487, Oct. 22, 1970, 84 Stat. 1086; Pub. L. 93–292, May 28, 1974, 88 Stat. 176; Pub. L. 93–649, Jan. 8, 1975, 88 Stat. 2361; Pub. L. 101–189, div. A, title VI, §§652(a)(3), 653(a)(6), title XVI, §1622(c)(4), Nov. 29, 1989, 103 Stat. 1461, 1462, 1604; Pub. L. 103–337, div. A, title VI, §652(a)(2), title XVI, §1671(c)(8), Oct. 5, 1994, 108 Stat. 2793, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(19), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–107, div. A, title VI, §638(b)(1), Dec. 28, 2001, 115 Stat. 1147; Pub. L. 110–181, div. A, title V, §591, Jan. 28, 2008, 122 Stat. 138; Pub. L. 110–417, \[div. A\], title V, §581, Oct. 14, 2008, 122 Stat. 4472; Pub. L. 112–81, div. A, title V, §528, Dec. 31, 2011, 125 Stat. 1402; Pub. L. 113–66, div. A, title VI, §§621(e), 651(a)(2)–(c), Dec. 26, 2013, 127 Stat. 784, 787, 788; Pub. L. 115–91, div. A, title VI, §632, Dec. 12, 2017, 131 Stat. 1431; Pub. L. 116–92, div. A, title V, §573(a), Dec. 20, 2019, 133 Stat. 1404; Pub. L. 117–263, div. A, title VI, §641, Dec. 23, 2022, 136 Stat. 2633.)
 
 Historical and Revision Notes
 
@@ -280,7 +280,7 @@ Alternative transportation by aircraft.—The provisions of paragraph (1) shall 
 
 &emsp;"(3)
 
-Primary mission.—When remains are transported by military aircraft or military-contracted aircraft under this section, the primary mission of the aircraft providing that transportation shall be the transportation of such remains. However, more than one set of remains may be transported on the same flight.
+Primary mission.—When remains are transported by military aircraft or military-contractedaircraft under this section, the primary mission of the aircraft providing that transportation shall be the transportation of such remains. However, more than one set of remains may be transported on the same flight.
 
 "(d)
 

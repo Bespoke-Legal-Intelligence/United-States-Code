@@ -76,7 +76,7 @@ In this chapter:
 
 #### (14) Plant pest
 
-&emsp;The term "plant pest" means any living stage of any of the following that can directlyor indirectly injure, cause damage to, or cause disease in any plant or plant product:
+&emsp;The term "plant pest" means any living stage of any of the following that can directly or indirectly injure, cause damage to, or cause disease in any plant or plant product:
 
 &emsp;&emsp;(A) A protozoan.
 

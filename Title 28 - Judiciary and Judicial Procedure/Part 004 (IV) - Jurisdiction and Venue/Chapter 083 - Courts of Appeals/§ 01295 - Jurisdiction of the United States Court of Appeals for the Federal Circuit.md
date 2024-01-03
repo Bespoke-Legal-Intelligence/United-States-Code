@@ -10,9 +10,9 @@
 
 &emsp;(4) of an appeal from a decision of—
 
-&emsp;&emsp;(A) the Patent Trial and Appeal Board of the United States Patent and Trademark Office with respect to a patent application, derivation proceeding, reexamination, post-grant review, or inter partes review under title 35, at the instance of a party who exercised that party's right to participate in the applicable proceeding before or appeal to the Board, except that an applicant or a party to a derivation proceeding may also have remedy by civil action pursuant to section 145 or 146 of title 35; an appeal under this subparagraph of a decision of the Board with respectto an application or derivation proceeding shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;
+&emsp;&emsp;(A) the Patent Trial and Appeal Board of the United States Patent and Trademark Office with respect to a patent application, derivation proceeding, reexamination, post-grant review, or inter partes review under title 35, at the instance of a party who exercised that party's right to participate in the applicable proceeding before or appeal to the Board, except that an applicant or a party to a derivation proceeding may also have remedy by civil action pursuant to section 145 or 146 of title 35; an appeal under this subparagraph of a decision of the Board with respect to an application or derivation proceeding shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;
 
-&emsp;&emsp;(B) the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office or the Trademark Trial and Appeal Board with respect to applications for registration of marks and other proceedings as provided in section 21 of the Trademark Act of 1946 (15 U.S.C. 1071); or
+&emsp;&emsp;(B) the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office or the Trademark Trial and Appeal Board with respect to applications for registrationof marks and other proceedings as provided in section 21 of the Trademark Act of 1946 (15 U.S.C. 1071); or
 
 &emsp;&emsp;(C) a district court to which a case was directed pursuant to section 145, 146, or 154(b) of title 35;
 

@@ -32,7 +32,7 @@ Debt cancellation under the modifications to the Enhanced HIPC Initiative descri
 
 &emsp;(2) provides for increased cost recovery from poor people to finance basic public services such as education, health care, clean water, or sanitation;
 
-&emsp;(3) reduces the country's minimum wage to a level of less than $2 per day or undermines workers' ability to exercise effectively their internationally recognized worker rights, as defined under section 262p–4p of this title; <sup>2</sup> or
+&emsp;(3) reduces the country's minimum wage to a level of less than $2 per day or underminesworkers' ability to exercise effectively their internationally recognized worker rights, as defined under section 262p–4p of this title; <sup>2</sup> or
 
 &emsp;(4) promotes unsustainable extraction of resources or results in reduced budget support for environmental programs.
 
@@ -70,7 +70,7 @@ In this section:
 
 #### (2) Decision Point
 
-&emsp;The term "Decision Point" means the date on which the executive boards of the International Bank for Reconstruction and Development and the International Monetary Fundreview the debt sustainability analysis for a country and determine that the country is eligible for debt relief under the Enhanced HIPC Initiative.
+&emsp;The term "Decision Point" means the date on which the executive boards of the International Bank for Reconstruction and Development and the International Monetary Fund review the debt sustainability analysis for a country and determine that the country is eligible for debt relief under the Enhanced HIPC Initiative.
 
 #### (3) Enhanced HIPC Initiative
 

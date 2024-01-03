@@ -60,7 +60,7 @@ Exception to notice requirement.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding paragraph (2), and subject to subparagraph (B), notice may be provided to fewer than allcontractors offering the property or services under a multiple award contract as described in subsection (a)(3)(A) if notice is provided to as many contractors as practicable.
+In general.—Notwithstanding paragraph (2), and subject to subparagraph (B), notice may be provided to fewer than all contractors offering the property or services under a multiple award contract as described in subsection (a)(3)(A) if notice is provided to as many contractors as practicable.
 
 &emsp;&emsp;(B)
 
@@ -98,7 +98,7 @@ Commercial Leasing Services.—The regulations required by subsection (b) shall 
 
 #### Amendment Not Shown in Text
 
-<i>This section was derived from Pub. L. 110–417, \[div. A\], title VIII, §863(a)–(e), Oct. 14, 2008, 122 Stat. 4547, which was set out as a note under section 253h of former Title 41, Public Contracts, prior to being repealed and reenacted by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 863(b)(3)(A) of Pub. L. 110–417 was restated as subsec. (c)(3)(A) of this section and subsequently amended by Pub. L. 111–383, div. A, title X, §1075(e)(14), Jan. 7, 2011, 124 Stat. 4375. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 863(b)(3)(A) of Pub. L. 110–417 was amended by striking "subsection (d)(2)(A)" and inserting "subsection (d)(3)(A)". Such reference did not appear in the text of subsec. (c)(3)(A) as enacted. See Historical and Revision Notes below.</i>
+<i>This section was derived from Pub. L. 110–417, \[div. A\], title VIII, §863(a)–(e), Oct. 14, 2008, 122 Stat. 4547, which was set out as a note under</i><i>section 253h of former Title 41, Public Contracts, prior to being repealed and reenacted by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 863(b)(3)(A) of Pub. L. 110–417 was restated as subsec. (c)(3)(A) of this section and subsequently amended by Pub. L. 111–383, div. A, title X, §1075(e)(14), Jan. 7, 2011, 124 Stat. 4375. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 863(b)(3)(A) of Pub. L. 110–417 was amended by striking "subsection (d)(2)(A)" and inserting "subsection (d)(3)(A)". Such reference did not appear in the text of subsec. (c)(3)(A) as enacted. See Historical and Revision Notes below.</i>
 
 #### Repeal of Subsection (f)
 
@@ -150,5 +150,5 @@ Pub. L. 116–92, div. A, title VIII, §893(b)(2), Dec. 20, 2019, 133 Stat. 1540
 
 #### Individual Acquisition for Commercial Leasing Services
 
-Pub. L. 115–232, div. A, title VIII, §877, Aug. 13, 2018, 132 Stat. 1907, which related to individual acquisitionfor commercial leasing services not construed as purchase of property or services under certain conditions, was repealed by Pub. L. 116–92, div. A, title VIII, §893(a), Dec. 20, 2019, 133 Stat. 1540.
+Pub. L. 115–232, div. A, title VIII, §877, Aug. 13, 2018, 132 Stat. 1907, which related to individual acquisition for commercial leasing services not construed as purchase of property or services under certain conditions, was repealed by Pub. L. 116–92, div. A, title VIII, §893(a), Dec. 20, 2019, 133 Stat. 1540.
 

@@ -17,7 +17,7 @@
 | O–2 | 1st lieutenant | Lieutenant (junior grade) | Assistant grade. |
 | O–1 | 2d lieutenant | Ensign | Junior assistant grade. |
 
-(2) For the purpose of computing their basic pay, commissioned officers of the Space Force are assigned to the pay grades in the table inparagraph (1) by grade or rank in the Air Force that is equivalent to the grade or rank in which such officers are serving in the Space Force.
+(2) For the purpose of computing their basic pay, commissioned officers of the Space Force are assigned to the pay grades in the table in paragraph (1) by grade or rank in the Air Force that is equivalent to the grade or rank in which such officers are serving in the Space Force.
 
 (b) For the purpose of computing their basic pay, warrant officers of the armed forces are assigned, by the warrant officer grade in which serving, to the following pay grades:
 

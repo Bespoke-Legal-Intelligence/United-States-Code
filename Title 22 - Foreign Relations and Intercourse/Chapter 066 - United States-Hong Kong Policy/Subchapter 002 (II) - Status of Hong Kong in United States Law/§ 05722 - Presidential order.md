@@ -2,11 +2,11 @@
 
 #### (a) Presidential determination
 
-On or after July 1, 1997, whenever the President determines that Hong Kong is not sufficiently autonomous to justify treatment undera particular law of the United States, or any provision thereof, different from that accorded the People's Republic of China, the President may issue an Executive order suspending the application of section 5721(a) of this title to such law or provision of law.
+On or after July 1, 1997, whenever the President determines that Hong Kong is not sufficiently autonomous to justify treatment under a particular law of the United States, or any provision thereof, different from that accorded the People's Republic of China, the President may issue an Executive order suspending the application of section 5721(a) of this title to such law or provision of law.
 
 #### (b) Factor for consideration
 
-In making a determination under subsection (a) with respect to the application of a law of the United States, or any provision thereof, to Hong Kong, the President should consider the terms, obligations, and expectations expressed in the Joint Declaration with respect to Hong Kong.
+In making a determination under subsection (a) with respect to the application of a law of the United States, or any provision thereof, toHong Kong, the President should consider the terms, obligations, and expectations expressed in the Joint Declaration with respect to Hong Kong.
 
 #### (c) Publication in Federal Register
 

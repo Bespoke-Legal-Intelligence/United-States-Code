@@ -1,6 +1,6 @@
 ### §§2972 to 2978. Repealed. Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519
 
-Section 2972, Pub. L. 88–452, title VI, §630, as added Pub. L. 90–222, title I, §108(m)(3), Dec. 23, 1967, 81 Stat. 717, related to coordination of activities and policy statement attendant thereto.
+Section 2972, Pub. L. 88–452, title VI, §630, as added Pub. L. 90–222, title I, §108(m)(3), Dec. 23, 1967, 81 Stat.717, related to coordination of activities and policy statement attendant thereto.
 
 Section 2973, Pub. L. 88–452, title VI, §631, as added Pub. L. 90–222, title I, §108(m)(3), Dec. 23, 1967, 81 Stat. 718; amended Pub. L. 95–568, §17(a)(33), Nov. 2, 1978, 92 Stat. 2442, related to establishment, etc., of Economic Opportunity Council.
 

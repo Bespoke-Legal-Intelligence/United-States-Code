@@ -6,7 +6,7 @@ The Administrator shall, as soon as practicable after the end of each fiscal yea
 
 #### (b) Review of desirability and feasibility of transferring functions of Administrator respecting military application and restricted data to Department of Defense or other Federal agencies; report by Administrator
 
-During the first year of operation of the Administration, the Administrator, in collaboration with the Secretary of Defense, shall conduct a thorough review of the desirability and feasibility of transferring to the Department of Defense or other Federal agencies the functions of the Administrator respecting military application and restricted data, and within one year after the Administrator first takes office the Administrator shall make a report to the President, for submission to the Congress, setting forth his comprehensive analysis, the principal alternatives, and the specific recommendations of the Administrator and the Secretary of Defense.
+During the first year of operation of the Administration, the Administrator, in collaboration with the Secretary of Defense, shall conduct a thorough review of the desirability and feasibility of transferring to the Department of Defense or other Federal agencies the functions of the Administrator respecting military application and restricted data, and within one year after the Administrator first takes office the Administrator shall make a report to the President, for submission to the Congress, setting forth his comprehensive analysis, the principal alternatives, and the specific recommendationsof the Administrator and the Secretary of Defense.
 
 #### (c) Report by Commission on activities of Commission
 
@@ -30,7 +30,7 @@ The Commission shall, as soon as practicable after the end of each fiscal year, 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to submission of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113of Title 31, Money and Finance, and the 10th item on page 186 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to submission of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 10th item on page 186 of House Document No. 103–7.
 
 #### Transfer of Functions
 

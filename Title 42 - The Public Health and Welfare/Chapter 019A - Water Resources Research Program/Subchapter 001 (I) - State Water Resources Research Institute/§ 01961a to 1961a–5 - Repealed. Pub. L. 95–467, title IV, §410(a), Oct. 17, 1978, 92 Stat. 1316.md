@@ -1,6 +1,6 @@
 ### §§1961a to 1961a–5. Repealed. Pub. L. 95–467, title IV, §410(a), Oct. 17, 1978, 92 Stat. 1316
 
-Section 1961a, Pub. L. 88–379, title I, §100, July 17, 1964, 78 Stat. 329; Pub. L. 92–175, §§1–3, Dec. 2, 1971, 85Stat. 493, related to water resources research institutes. See section 7811 of this title.
+Section 1961a, Pub. L. 88–379, title I, §100, July 17, 1964, 78 Stat. 329; Pub. L. 92–175, §§1–3, Dec. 2, 1971, 85 Stat. 493, related to water resources research institutes. See section 7811 of this title.
 
 Section 1961a–1, Pub. L. 88–379, title I, §101, July 17, 1964, 78 Stat. 330, authorized appropriations for specific water resources research projects, including regional projects. See sections 7815(a) and 7872 of this title.
 

@@ -18,7 +18,7 @@
 
 &emsp;(ii) less than 5 percent per year.
 
-(C) Notwithstanding subparagraph (A), the Secretary shall establish loan rates for health care and related facilities based solely on the income of the area to be served, and such rates shall be otherwise consistent with such subparagraph.
+(C) Notwithstanding subparagraph (A), the Secretary shall establish loan rates for healthcare and related facilities based solely on the income of the area to be served, and such rates shall be otherwise consistent with such subparagraph.
 
 (D)
 
@@ -72,7 +72,7 @@ The borrower shall pay such fees and other charges as the Secretary may require,
 
 #### (c) Mortgages, liens, and other security
 
-The Secretary shall take as security for the obligations entered into in connection with loans, mortgages on farms with respect to which such loans are made or such other security as the Secretary may require, and for obligations in connection with loans to associations under section 1926 of this title, shall take liens on the facility or such other security as he may determine to be necessary. Such security instruments may constitute liens running to the United States notwithstanding the fact that the notes may be held by lenders other than the United States. A borrower may use the same collateral to secure two or more loans made, insured, or guaranteed under this subchapter, except that the outstanding amount of such loans may not exceed the total value of the collateral so used.
+The Secretary shall take as security for the obligations entered into in connection with loans, mortgages on farms with respect to which such loans are made or such other security as the Secretary may require, and for obligations in connection with loans to associations under section 1926 of this title, shall take liens on the facility or such other security as he may determine to be necessary. Such security instruments may constitute liens running to the United States notwithstanding the fact that the notesmay be held by lenders other than the United States. A borrower may use the same collateral to secure two or more loans made, insured, or guaranteed under this subchapter, except that the outstanding amount of such loans may not exceed the total value of the collateral so used.
 
 #### (d) Additional collateral
 
@@ -140,11 +140,11 @@ Subsec. (a)(3)(C). Pub. L. 101–624, §2383(2), added subpar. (C).
 
 Subsec. (e). Pub. L. 100–233, §604, added subsec. (e).
 
-<b>1985</b>—Subsec. (a)(3)(A). Pub. L. 99–198, §1304A, substituted "where the median household income of the persons to be served by such facility is below the higher of 80 per centum of the statewide nonmetropolitan median household income or the poverty line established by the Office of Management and Budget, as revised under section 9902(2) of title 42" for "where the median family income of the persons to be served by such facility is below the poverty line prescribed by the Office of Management and Budget as adjusted under section 2971d of title 42" and prescribed a 7 per centum per annum ceiling on loans for facilities that do not qualify for the 5 per centum per annum interest rate but are located in areas where the median household income of the persons to be served by the facility does not exceed 100 per centum of the statewide nonmetropolitan median household income.
+<b>1985</b>—Subsec. (a)(3)(A). Pub. L. 99–198, §1304A, substituted "where the median household income of the persons to be served by such facility is below the higher of 80 per centum of the statewide nonmetropolitan median household income or the poverty line established by the Office of Management and Budget, as revisedunder section 9902(2) of title 42" for "where the median family income of the persons to be served by such facility is below the poverty line prescribed by the Office of Management and Budget as adjusted under section 2971d of title 42" and prescribed a 7 per centum per annum ceiling on loans for facilities that do not qualify for the 5 per centum per annum interest rate but are located in areas where the median household income of the persons to be served by the facility does not exceed 100 per centum of the statewide nonmetropolitan median household income.
 
 Subsec. (d). Pub. L. 99–198, §1305, added subsec. (d).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35 in par. (2) inserted reference to par. (6), in par. (3) designated existing provisions as subpar. (A), expanded provisions to take into account provisions of par. (6) and revised criteria for determination of applicable interest rates, and addedsubpar. (B), in par. (4) inserted exception for par. (6), and added par. (6).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 in par. (2) inserted reference to par. (6), in par. (3) designated existing provisions as subpar. (A), expanded provisions to take into account provisions of par. (6) and revised criteria for determination of applicable interest rates, and added subpar. (B), in par. (4) inserted exception for par. (6), and added par. (6).
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–334, §108(1), substituted provisions relating to determination of interest rates on loans, except as provided in pars. (3) to (5), as not in excess of the current average market yield on outstanding marketable obligations of the United States, with comparable remaining periods of maturity to the average maturities of such loans plus additional adjusted amounts, for provisions relating to establishment of interest rates on loans, except as specifically provided, but not in excess of 5 per centum per annum.
 

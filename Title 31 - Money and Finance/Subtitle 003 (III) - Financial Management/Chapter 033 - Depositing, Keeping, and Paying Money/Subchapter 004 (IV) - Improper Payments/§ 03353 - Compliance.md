@@ -84,7 +84,7 @@ Plan.—The plan described in subparagraph (A) shall include—
 
 &emsp;&emsp;&emsp;(ii) the designation of a senior executive agency official who shall be accountable for the progress of the executive agency in coming into compliance for each program or activity; and
 
-&emsp;&emsp;&emsp;(iii) the establishment of an accountability mechanism, such as a performance agreement, with appropriate incentives and consequences tied to the success of the official designated under clause (ii) in leading the efforts of the executive agency to come into compliance for each program or activity.
+&emsp;&emsp;&emsp;(iii) the establishment of an accountability mechanism, such as a performance agreement, with appropriate incentives and consequences tied to the success of the official designated under clause (ii) inleading the efforts of the executive agency to come into compliance for each program or activity.
 
 &emsp;(2)
 
@@ -161,4 +161,10 @@ Improved Estimates Guidance.—The guidance required to be provided under sectio
 The date of enactment of this section, referred to in subsecs. (a)(2) to (4) and (d), is the date of enactment of Pub. L. 116–117, which was approved Mar. 2, 2020.
 
 Section 3(b) of the Improper Payments Elimination and Recovery Improvement Act of 2012, referred to in subsec. (d), is section 3 of Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, which was formerly set out in a note under section 3321 of this title, prior to repeal by Pub. L. 116–117, §3(a)(3), Mar. 2, 2020, 134 Stat. 133.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight andAccountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 

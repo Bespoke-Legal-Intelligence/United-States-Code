@@ -26,7 +26,7 @@ Bar To Receipt of Compensation and Pension and Marine Gunnery Sergeant John Davi
 
 &emsp;(1) Subsequent payments of dependency and indemnity compensation or pension based on the death of a parent to an eligible person over the age of 18 years by reason of pursuing a course in an educational institution.
 
-&emsp;(2) Increased rates, or additional amounts, of compensation, dependency and indemnity compensation, or pension because of such a person, whether eligibility is based upon the death of the parent.
+&emsp;(2) Increased rates, or additional amounts, of compensation, dependency and indemnity compensation, or pension because of such aperson, whether eligibility is based upon the death of the parent.
 
 (g)
 

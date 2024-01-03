@@ -328,7 +328,7 @@ There is appropriated to the Assistant Secretary, out of amounts in the Treasury
 
 #### (A) Prohibitions
 
-&emsp;&emsp;As a condition of receiving a grant under this subsection, the Assistant Secretary shall prohibit a provider of broadband service that is part of a covered partnership receiving the grant—
+&emsp;&emsp;As a condition of receiving a grant under this subsection, the Assistant Secretaryshall prohibit a provider of broadband service that is part of a covered partnership receiving the grant—
 
 &emsp;&emsp;&emsp;(i) from using the grant amounts to repay, or make any other payment relating to, a loan made by any public or private lender;
 

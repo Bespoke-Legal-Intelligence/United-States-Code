@@ -24,7 +24,7 @@ For the purpose of enabling each State to furnish financial assistance, as far a
 
 #### Change of Name
 
-"Secretary of Health and Human Services" substituted in text for "Secretary of Health, Education, and Welfare" pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted in text for "Secretary of Health, Education,and Welfare" pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### <b>Executive Documents</b>
 

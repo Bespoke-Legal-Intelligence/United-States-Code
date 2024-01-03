@@ -38,7 +38,7 @@ Each report under subsection (a) shall include—
 
 &emsp;(10) an assessment of the successes of and limitations to studying drugs for rare diseases under such sections 355a and 355c of this title;
 
-&emsp;(11) an assessment of the impact of the amendments to such section 355c of this title made by the FDA Reauthorization Act of 2017 on pediatric research and labeling of drugs and biological products and pediatric labeling of molecularly targeted drugs and biological products for the treatment of cancer;
+&emsp;(11) an assessment of the impact of the amendments to such section 355c of this titlemade by the FDA Reauthorization Act of 2017 on pediatric research and labeling of drugs and biological products and pediatric labeling of molecularly targeted drugs and biological products for the treatment of cancer;
 
 &emsp;(12) an assessment of the efforts of the Secretary to implement the plan developed under section 505C–1 of the Federal Food, Drug, and Cosmetic Act,<sup>1</sup> regarding earlier submission of pediatric studies under sections 355a and 355c of this title and section 262(m) of title 42, including—
 

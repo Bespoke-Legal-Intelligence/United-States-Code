@@ -182,7 +182,7 @@ Using such amounts made available pursuant to subsection (e) as the Secretary de
 
 #### (2) Public comment
 
-&emsp;The Secretary shall provide a notice of the report under paragraph (1) and an opportunity for public comment on the report for a period of not less than 90 days before submitting the report to Congress.
+&emsp;The Secretary shall provide a notice of the report under paragraph (1) and an opportunityfor public comment on the report for a period of not less than 90 days before submitting the report to Congress.
 
 #### (e) Authorization of appropriations
 
@@ -201,6 +201,10 @@ Section 726 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 <b>2015</b>—Subsec. (b)(3)(D)(iii). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7702 or 7703 of title 20.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2015 Amendment
 

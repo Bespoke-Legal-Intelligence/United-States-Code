@@ -24,7 +24,7 @@ Congress finds the following:
 
 #### (b) Purpose
 
-The purpose of this subchapter is to authorize the establishment, through the exercise by the Secretary of Agriculture of the authority provided in this subchapter, of an orderly program for developing, financing, and carrying out an effective, continuous, and coordinated program of generic promotion, research, and information regarding agricultural commodities designed to—
+The purpose of this subchapter is to authorize the establishment, through the exercise by theSecretary of Agriculture of the authority provided in this subchapter, of an orderly program for developing, financing, and carrying out an effective, continuous, and coordinated program of generic promotion, research, and information regarding agricultural commodities designed to—
 
 &emsp;(1) strengthen the position of agricultural commodity industries in the marketplace;
 

@@ -90,7 +90,7 @@ Section 1013 of title 5 shall not apply to the Council.
 
 The Council shall use Federal funds made available to Sematech as needed for general and administrative support in accomplishing the Council's purposes.
 
-(Pub. L. 100–180, div. A, title II, §273, Dec. 4, 1987, 101 Stat. 1070; Pub. L. 102–245, title I, §103(e),Feb. 14, 1992, 106 Stat. 9; Pub. L. 103–160, div. A, title II, §263(b), (c)(3)–(e), Nov. 30, 1993, 107 Stat. 1608, 1610; Pub. L. 103–337, div. A, title II, §251, Oct. 5, 1994, 108 Stat. 2702; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 117–286, §4(a)(72), Dec. 27, 2022, 136 Stat. 4313.)
+(Pub. L. 100–180, div. A, title II, §273, Dec. 4, 1987, 101 Stat. 1070; Pub. L. 102–245, title I, §103(e), Feb. 14, 1992, 106 Stat. 9; Pub. L. 103–160, div. A, title II, §263(b), (c)(3)–(e), Nov. 30, 1993, 107 Stat. 1608, 1610; Pub. L. 103–337, div. A, title II, §251, Oct. 5, 1994, 108 Stat. 2702; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 117–286, §4(a)(72), Dec. 27, 2022, 136 Stat. 4313.)
 
 #### <b>Editorial Notes</b>
 

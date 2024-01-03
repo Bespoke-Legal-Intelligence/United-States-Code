@@ -168,7 +168,7 @@ The State shall make copies of the reports and audits required by this section a
 
 (3) For other provisions relating to deposit, accounting, reports, and auditing with respect to Federal grants to States, see section 6503(b) <sup>2</sup> of title 31.
 
-(Aug. 14, 1935, ch. 531, title V, §506, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 823; amended Pub. L. 98–369, div. B, title III, §2373(a)(2), July 18, 1984, 98 Stat. 1111; Pub. L. 101–239, title VI, §§6503(c)(3), (4), 6504, Dec. 19, 1989, 103 Stat. 2278; Pub. L. 104–316, title I, §122(f), Oct. 19, 1996, 110 Stat. 3837; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402.)
+(Aug. 14, 1935, ch. 531, title V, §506, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 823; amended Pub. L. 98–369, div. B, title III, §2373(a)(2), July 18, 1984, 98 Stat. 1111; Pub. L.101–239, title VI, §§6503(c)(3), (4), 6504, Dec. 19, 1989, 103 Stat. 2278; Pub. L. 104–316, title I, §122(f), Oct. 19, 1996, 110 Stat. 3837; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402.)
 
 #### <b>Editorial Notes</b>
 
@@ -220,7 +220,7 @@ Pub. L. 97–35, title XXI, §2192(b), Aug. 13, 1981, 95 Stat. 826, provided tha
 
 "(1) The Secretary of Health and Human Services shall, no later than October 1, 1984, report to the Congress on the activities of States receiving allotments under title V of the Social Security Act \[42 U.S.C. 701 et seq.\] (as amended by this section) and include in such report any recommendations for appropriate changes in legislation.
 
-"(2) The Secretary of Health and Human Services, in consultation with the Comptroller General, shall examine alternative formulas, for the allotment of funds to States under section 502(b) of the Social Security Act\[42 U.S.C. 702(b)\] (as amended by this section) which might be used as a substitute for the method of allotting funds described in such section, which provide for the equitable distribution of such funds to States (as defined for purposes of such section), and which take into account—
+"(2) The Secretary of Health and Human Services, in consultation with the Comptroller General, shall examine alternative formulas, for the allotment of funds to States under section 502(b) of the Social Security Act \[42 U.S.C. 702(b)\] (as amended by this section) which might be used as a substitute for the method of allotting funds described in such section, which provide for the equitable distribution of such funds to States (as defined for purposes of such section), and which take into account—
 
 &emsp;"(A) the populations of the States,
 

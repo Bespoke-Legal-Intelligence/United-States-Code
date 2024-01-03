@@ -82,7 +82,7 @@ As used in this subchapter—
 
 #### (16) State agency
 
-&emsp;The term "State agency" means any department, agency, or other instrumentality of the government of any State or of any political subdivision of any State.
+&emsp;The term "State agency" means any department, agency, or other instrumentality of thegovernment of any State or of any political subdivision of any State.
 
 #### (17) Technical regulation
 

@@ -34,7 +34,7 @@ In this section:
 
 &emsp;(9) The term "program manager" means—
 
-&emsp;&emsp;(A) the head of the element of the intelligence community that is responsible forthe budget, cost, schedule, and performance of a major system; or
+&emsp;&emsp;(A) the head of the element of the intelligence community that is responsible for the budget, cost, schedule, and performance of a major system; or
 
 &emsp;&emsp;(B) in the case of a major system within the Office of the Director of National Intelligence, the deputy who is responsible for the budget, cost, schedule, and performance of the major system.
 
@@ -70,7 +70,7 @@ If the program manager of a major system for which a report has previously been 
 
 #### (e) Requirement for Major System Congressional Report
 
-(1) Whenever the Director determines under subsection (d) that the total acquisition cost of a major system has increased by a percentage equal to or greater than the significant cost growth threshold for the major system, a Major System Congressional Report shall be submitted to Congress not later than 45 days after the date on which the Director receives the major system cost report for such major system.
+(1) Whenever the Director determines under subsection (d) that the total acquisition cost ofa major system has increased by a percentage equal to or greater than the significant cost growth threshold for the major system, a Major System Congressional Report shall be submitted to Congress not later than 45 days after the date on which the Director receives the major system cost report for such major system.
 
 (2) If the total acquisition cost of a major system (as determined by the Director under subsection (d)) increases by a percentage equal to or greater than the critical cost growth threshold for the program or subprogram, the Director shall take actions consistent with the requirements of section 3102 of this title.
 
@@ -136,7 +136,7 @@ If a determination of an increase by a percentage equal to or greater than the s
 
 &emsp;(1) on which Congress receives the Major System Congressional Report under subsection (e)(1) with respect to that major system, in the case of a determination of an increase by a percentage equal to or greater than the significant cost growth threshold (as determined in subsection (d)); or
 
-&emsp;(2) on which Congress receives both the Major System Congressional Report under subsection (e)(2) and the certification of the Director under section 3102(b)(2) of this title with respect to that major system, in the case of an increase by a percentage equal to or greater than the critical cost growth threshold (as determined under subsection (d)).
+&emsp;(2) on which Congress receives both the Major System Congressional Report under subsection (e)(2) and the certification of the Director under section 3102(b)(2) of this title with respect to that major system, in the case of an increase by a percentage equal to orgreater than the critical cost growth threshold (as determined under subsection (d)).
 
 #### (h) Treatment of cost increases prior to October 7, 2010
 

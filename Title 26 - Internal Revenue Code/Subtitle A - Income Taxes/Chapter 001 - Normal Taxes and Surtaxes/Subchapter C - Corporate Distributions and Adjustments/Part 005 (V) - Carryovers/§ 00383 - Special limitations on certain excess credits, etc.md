@@ -68,7 +68,7 @@ Pub. L. 97–34, §221(b)(1)(C)(ii), (D)(ii), in catchlines of sections 383, as 
 
 Pub. L. 97–34, §221(b)(1)(D)(i), in section 383, as in effect prior to amendment by Pub. L. 94–455, §806(f)(2), as related to section 382(a) of this title, inserted "to any unused credit of the corporation which could otherwise be carried forward under section 44F(g)(2)," after "section 44E(e)(2),".
 
-Pub. L. 97–34, §221(b)(1)(C)(i), in section 383, as amended by Pub. L. 94–455, §806(f)(2), as related to section 382(a) of this title, inserted "to any unused credit of the corporation under section 44F(g)(2)," after "section 44E(e)(2),".
+Pub. L. 97–34, §221(b)(1)(C)(i), in section 383, as amended by Pub. L. 94–455, §806(f)(2), as related to section382(a) of this title, inserted "to any unused credit of the corporation under section 44F(g)(2)," after "section 44E(e)(2),".
 
 <b>1980</b>—Pub. L. 96–223, §232(b)(2)(D), in section 383, as in effect prior to amendment by Pub. L. 94–455, §806(f)(2), as related to section 382(a) of this title, inserted reference to unused alcohol fuel credits in section catchline and reference to any unused credit of the corporation which could otherwise be carried forward under section 44E(e)(2) in text.
 
@@ -116,7 +116,7 @@ For purposes of applying this section (as it relates to section 382(a) of this t
 
 #### Effective Date
 
-Pub. L. 92–178, title III, §302(c), Dec. 10, 1971, 85 Stat. 521, provided that: "The amendments made by this section \[enacting this section\] shall be applicable only with respect to reorganizations and other changes in ownership occurring after the date of enactment of thisAct \[Dec. 10, 1971\] pursuant to a plan of reorganization or contract entered into on or after September 29, 1971."
+Pub. L. 92–178, title III, §302(c), Dec. 10, 1971, 85 Stat. 521, provided that: "The amendments made by this section \[enacting this section\] shall be applicable only with respect to reorganizations and other changes in ownership occurring after the date of enactment of this Act \[Dec. 10, 1971\] pursuant to a plan of reorganization or contract entered into on or after September 29, 1971."
 
 #### Delay in Effective Date of 1976 Amendment
 

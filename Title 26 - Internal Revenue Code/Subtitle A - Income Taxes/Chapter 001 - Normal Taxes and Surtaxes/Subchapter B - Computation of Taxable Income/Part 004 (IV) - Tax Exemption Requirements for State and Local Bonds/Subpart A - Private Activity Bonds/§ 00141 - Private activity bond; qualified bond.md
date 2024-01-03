@@ -78,7 +78,7 @@ For purposes of this title, the term "private activity bond" means any bond issu
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term "private business use" means use (directly or indirectly) in a trade or business carried on by any person other than a governmental unit. For purposes of the preceding sentence, use as a member of the general public shall not be taken into account.
+&emsp;&emsp;For purposes of this subsection, the term "private business use" means use (directlyor indirectly) in a trade or business carried on by any person other than a governmental unit. For purposes of the preceding sentence, use as a member of the general public shall not be taken into account.
 
 #### (B) Clarification of trade or business
 
@@ -170,13 +170,13 @@ For purposes of this title, the term "private activity bond" means any bond issu
 
 #### (C) Limitation on size of annexed area not to apply where output capacity does not increase by more than 10 percent
 
-&emsp;&emsp;Subclause (III) of subparagraph (B)(ii) shall not apply to an annexation of an area by a governmental unit if the output capacity of the property acquired in connection with the annexation, when added to the output capacity of all other property which is not treated as nongovernmental output property by reason of subparagraph (A)(ii) with respect to such annexed area, does not exceed 10 percent of the output capacity of the property providing output of the same type to the qualified service area into which it is annexed.
+&emsp;&emsp;Subclause (III) of subparagraph (B)(ii) shall not apply to an annexation of an area by a governmental unit if the output capacity of the property acquired in connectionwith the annexation, when added to the output capacity of all other property which is not treated as nongovernmental output property by reason of subparagraph (A)(ii) with respect to such annexed area, does not exceed 10 percent of the output capacity of the property providing output of the same type to the qualified service area into which it is annexed.
 
 #### (D) Rules for determining relative size, etc.
 
 &emsp;&emsp;For purposes of subparagraphs (B)(ii) and (C)—
 
-&emsp;&emsp;&emsp;(i) The size of any qualified service area and the output capacity of property serving such area shall be determined as theclose of the calendar year preceding the calendar year in which the acquisition of nongovernmental output property or the annexation occurs.
+&emsp;&emsp;&emsp;(i) The size of any qualified service area and the output capacity of property serving such area shall be determined as the close of the calendar year preceding the calendar year in which the acquisition of nongovernmental output property or the annexation occurs.
 
 &emsp;&emsp;&emsp;(ii) A qualified annexed area shall be treated as part of the qualified service area into which it is annexed for purposes of determining whether any other area annexed in a later year is a qualified annexed area.
 
@@ -530,7 +530,7 @@ Special rule for certain government bonds issued after august 15, 1986.—In the
 
 &emsp;"(5)
 
-Certain refunding bonds subject to volume cap.—Any refunding bond described in paragraph (1) the proceeds of which are used to refund a bond issued as part of an issue 5 percent or more of the net proceeds of which are or will be used to provide an output facility (within the meaning of section 141(b)(4) of the 1986 Code) shall be treated as a private activity bond for purposes of section 146 of the 1986Code (to the extent of the nongovernmental use of such issue, under rules similar to the rules of section 146(m)(2) of such Code). For purposes of the preceding sentence, use by a 501(c)(3) organization with respect to its activities which do not constitute unrelated trades or businesses (determined by applying section 513(a) of the 1986 Code) shall not be taken into account.
+Certain refunding bonds subject to volume cap.—Any refunding bond described in paragraph (1) the proceeds of which are used to refund a bond issued as part of an issue 5 percent or more of the net proceeds of which are or will be used to provide an output facility (within the meaning of section 141(b)(4) of the 1986 Code) shall be treated as a private activity bond for purposes of section 146 of the 1986 Code (to the extent of the nongovernmental use of such issue, under rules similar to the rules of section 146(m)(2) of such Code). For purposes of the preceding sentence, use by a 501(c)(3) organization with respect to its activities which do not constitute unrelated trades or businesses (determined by applying section 513(a) of the 1986 Code) shall not be taken into account.
 
 "(c)
 
@@ -870,7 +870,7 @@ Treatment of Bonds Subject to Transitional Rules Under Tax Reform Act of 1984.�
 
 &emsp;"(C) If a bond which is issued as part of an issue substantially all of the proceeds of which are used to provide the resource recovery project to which such paragraph (3) applies, such bond shall be treated as an exempt facility bond as defined in section 142(a) of the 1986 Code and section 149(b) of such Code shall not apply.
 
-&emsp;"(3) The amendments made by section 1301 \[for classification see section 1311(a) of this note\] shall notapply to bonds issued to finance any property described in section 631(d)(4) of the Tax Reform Act of 1984 \[section 631(d)(4) of Pub. L. 98–369, set out as a note under section 103 of this title\].
+&emsp;"(3) The amendments made by section 1301 \[for classification see section 1311(a) of this note\] shall not apply to bonds issued to finance any property described in section 631(d)(4) of the Tax Reform Act of 1984 \[section 631(d)(4) of Pub. L. 98–369, set out as a note under section 103 of this title\].
 
 &emsp;"(4) The amendments made by section 1301 \[for classification see section 1311(a) of this note\] shall not apply to—
 
@@ -946,7 +946,7 @@ Docks and wharves.—A bond issued as part of an issue 95 percent or more of the
 
 &emsp;&emsp;"(i) the issue to finance such dock or wharf was approved by official city action on September 3, 1985, and by voters on November 5, 1985, and
 
-&emsp;&emsp;"(ii) such dock or wharf is for a slack water harbor with respect to which a Corps of Engineers grant of approximately $2,000,000 has been made under section 107 of the Rivers and Harbors Act \[33 U.S.C. 577\].
+&emsp;&emsp;"(ii) such dock or wharf is for a slack water harbor with respect to which a Corps of Engineers grant of approximately $2,000,000 has been madeunder section 107 of the Rivers and Harbors Act \[33 U.S.C. 577\].
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $2,500,000.
 
@@ -1062,7 +1062,7 @@ Pollution control facilities.—A bond issued as part of an issue 95 percent or 
 
 "(3)
 
-Sports facilities.—A bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide sports facilities (within the meaning of section 103(b)(4)(B) of the 1954 Code) shall be treated as an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such facilities are described in any of the following subparagraphs:
+Sports facilities.—A bond issued as part of an issue 95 percent or more of the net proceeds of whichare to be used to provide sports facilities (within the meaning of section 103(b)(4)(B) of the 1954 Code) shall be treated as an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such facilities are described in any of the following subparagraphs:
 
 &emsp;"(A) A facility is described in this subparagraph if it is a stadium—
 
@@ -1182,7 +1182,7 @@ Sports facilities.—A bond issued as part of an issue 95 percent or more of the
 
 &emsp;"(M) A facility is described in this subparagraph if—
 
-&emsp;&emsp;"(i) such facility consists of 1 or 2 stadium projects (1 of which may be a stadium renovation orexpansion project) with related structures and facilities,
+&emsp;&emsp;"(i) such facility consists of 1 or 2 stadium projects (1 of which may be a stadium renovation or expansion project) with related structures and facilities,
 
 &emsp;&emsp;"(ii) a special advisory commission commissioned a study by a national accounting firm with respect to a project for such facility, which study was released in September 1985, and recommended construction of either a new multipurpose or a new baseball-only stadium,
 
@@ -1450,7 +1450,7 @@ Convention centers.—A bond issued as part of an issue 95 percent or more of th
 
 &emsp;&emsp;"(ii) a draft feasibility report with respect to such facility was presented on November 3, 1985, to the Mayor of the city in which such facility is to be located.
 
-> &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $190,000,000. For purposes of this subparagraph, not more than $20,000,000 of bonds issued to advance refund existing convention facility bonds sold on May 12, 1978, shallbe treated as bonds described in this subparagraph and \[former\] section 149(d)(2) of the 1986 Code shall not apply to bonds so treated.
+> &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $190,000,000. For purposes of this subparagraph, not more than $20,000,000 of bonds issued to advance refund existing convention facility bonds sold on May 12, 1978, shall be treated as bonds described in this subparagraph and \[former\] section 149(d)(2) of the 1986 Code shall not apply to bonds so treated.
 
 &emsp;"(B) A facility is described in this subparagraph if—
 
@@ -2106,7 +2106,7 @@ Tax-exempt status of bonds of certain educational organizations.—
 
 &emsp;"(A)
 
-In general.—For purposes of section 103 and part IV of subchapter B of chapter 1 of the 1986 Code, a qualified educational organization shall be treated as a governmental unit, but only with respect to a trade or business carried on by such organization which is not an unrelated trade or business (determined by applying section 513(a) of such Code to such organization). The last paragraph of this section shall not apply to the treatment under the preceding sentence.
+In general.—For purposes of section 103 and part IV of subchapter B of chapter 1 of the 1986 Code,a qualified educational organization shall be treated as a governmental unit, but only with respect to a trade or business carried on by such organization which is not an unrelated trade or business (determined by applying section 513(a) of such Code to such organization). The last paragraph of this section shall not apply to the treatment under the preceding sentence.
 
 &emsp;"(B)
 
@@ -2198,7 +2198,7 @@ Small issue termination.—Section 144(a)(12) of the 1986 Code shall not apply t
 
 &emsp;"(F) A facility is described in this subparagraph if it is the Lakeland Center Hotel in Lakeland, Florida. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $10,000,000.
 
-&emsp;"(G) A facility is described in this subparagraph if it is the Marble Arcade office building renovation project in Lakeland, Florida. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $5,900,000.
+&emsp;"(G) A facility is described in this subparagraph if it is the Marble Arcade office building renovation project in Lakeland, Florida. The aggregate faceamount of obligations to which this subparagraph applies shall not exceed $5,900,000.
 
 &emsp;"(H) A facility is described in this subparagraph if it is a medical office building in Bradenton, Florida, with respect to which—
 
@@ -2208,7 +2208,7 @@ Small issue termination.—Section 144(a)(12) of the 1986 Code shall not apply t
 
 > &emsp;The aggregate face amount of obligations to which this subparagraph applies shall not exceed $8,500,000.
 
-&emsp;"(I) A facility is described in this subparagraph if it consists of the rehabilitation of the Andover Town Hall in Andover, Massachusetts. The provisions of section 149(b) of the 1986 Code (relating to federally guaranteed obligations) shall not apply to obligations to finance such project solely as a result of the occupation of a portion of such building by a United States Post Office. For purposes of determining whether any bond to which this subparagraph applies is a qualified small issue bond, there shall not betaken into account under section 144(a) of the 1986 Code capital expenditures with respect to any facility of the United States Government and there shall not be taken into account any bond allocable to the United States Government.
+&emsp;"(I) A facility is described in this subparagraph if it consists of the rehabilitation of the Andover Town Hall in Andover, Massachusetts. The provisions of section 149(b) of the 1986 Code (relating to federally guaranteed obligations) shall not apply to obligations to finance such project solely as a result of the occupation of a portion of such building by a United States Post Office. For purposes of determining whether any bond to which this subparagraph applies is a qualified small issue bond, there shall not be taken into account under section 144(a) of the 1986 Code capital expenditures with respect to any facility of the United States Government and there shall not be taken into account any bond allocable to the United States Government.
 
 &emsp;"(J) A facility is described in this subparagraph if it is the Central Bank Building renovation project in Grand Rapids, Michigan. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $1,000,000.
 
@@ -2320,7 +2320,7 @@ Application of $150,000,000 limitation for certain qualified 501(c
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $47,500,000.
 
-&emsp;"(F) Proceeds of an issue are described in this subparagraph if such proceeds are to be used to renovate undergraduate chemistry and engineering laboratories, and to rehabilitate other basic science facilities, for an institution of higher education in Philadelphia, Pennsylvania, chartered by legislative Acts of the Commonwealth of Pennsylvania, including an Act dated September 30, 1791. The aggregate faceamount of bonds to which this subparagraph applies shall not exceed $6,500,000.
+&emsp;"(F) Proceeds of an issue are described in this subparagraph if such proceeds are to be used to renovate undergraduate chemistry and engineering laboratories, and to rehabilitate other basic science facilities, for an institution of higher education in Philadelphia, Pennsylvania, chartered by legislative Acts of the Commonwealth of Pennsylvania, including an Act dated September 30, 1791. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $6,500,000.
 
 &emsp;"(G) Proceeds of an issue are described in this subparagraph if such proceeds are of bonds which are the first advance refunding of bonds issued during 1985 for the development of a computer network, and construction and renovation or rehabilitation of other facilities, for an institution of higher education described in subparagraph (F). The aggregate face amount of bonds to which this subparagraph applies shall not exceed $80,000,000.
 
@@ -2394,7 +2394,7 @@ Power purchase bonds.—A bond issued to finance purchase of power from a power 
 
 "(37)
 
-Qualified mortgage bonds.—A bond issued as part of either of 2 issues no later than September 8, 1986, shall be treated as a qualified mortgage bond within the meaning of section 141(d)(1)(B) of the 1986 Code if it satisfies the requirements of section 103A of the 1954 Code and if the issues are issued by the two most populous cities in the Tar Heel State. The aggregate face amount of bonds to which this paragraph applies shall not exceed $4,000,000.
+Qualified mortgage bonds.—A bond issued as part of either of 2 issues no later than September 8,1986, shall be treated as a qualified mortgage bond within the meaning of section 141(d)(1)(B) of the 1986 Code if it satisfies the requirements of section 103A of the 1954 Code and if the issues are issued by the two most populous cities in the Tar Heel State. The aggregate face amount of bonds to which this paragraph applies shall not exceed $4,000,000.
 
 "(38)
 

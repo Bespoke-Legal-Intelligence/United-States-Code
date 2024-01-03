@@ -320,7 +320,7 @@ Nothing in subsection (b) shall be construed to—
 
 #### (C) Duplicative payments prohibited
 
-&emsp;&emsp;If an FM broadcast station has received a payment for interim facilities from the licensee of a television broadcast station that was reimbursed for such payment under subsection (b)(4)(A)(i) (including from amounts made available under subsection (j)(2)(A)(i)), or from any other source, such FM broadcast station may not receive any reimbursements under subparagraph (A).
+&emsp;&emsp;If an FM broadcast station has received a payment for interim facilities from the licensee of a television broadcast station that was reimbursed for such payment under subsection (b)(4)(A)(i) (including from amounts made available under subsection (j)(2)(A)(i)), or from any other source, such FM broadcaststation may not receive any reimbursements under subparagraph (A).
 
 #### (2) FM broadcast station defined
 

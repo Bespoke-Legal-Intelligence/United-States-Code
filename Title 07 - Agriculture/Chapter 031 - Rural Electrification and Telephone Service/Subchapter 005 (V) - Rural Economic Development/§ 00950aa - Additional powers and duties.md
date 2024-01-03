@@ -30,5 +30,5 @@ The Secretary shall—
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation,and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(8) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(8) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 

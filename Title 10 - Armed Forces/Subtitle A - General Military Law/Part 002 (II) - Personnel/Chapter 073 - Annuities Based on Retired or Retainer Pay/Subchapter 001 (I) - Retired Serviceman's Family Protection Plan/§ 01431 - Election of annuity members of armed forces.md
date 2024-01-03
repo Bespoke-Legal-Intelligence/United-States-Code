@@ -58,7 +58,7 @@ Aug. 8, 1953, ch. 393, §§2 (less (e) and (f)), 3(a) (less 5th sentence), (b), 
 
 In subsection (a), the language of the revised subsection is substituted for 37:371(b) and (c), to make clear that the section was intended to include enlisted members and members of the Army, or the Air Force, without component. The words "the United States Air Force Academy" are inserted to reflect its establishment by the Air Force Academy Act (68 Stat. 47). The words "retirement pay" are omitted as covered by the words "retired pay". The words "equivalent pay" are omitted as surplusage. 37:371(c) (less 1st 21 words) is omitted as executed, since the persons described must have completed 18 years of the required service on the effective date of the source statute and exercised the option by 180 days after that date. 37:371(a) is omitted, since the revised chapter applies only to the armed forces. 37:371(d) is omitted, since the words "person entitled to retired or retainer pay", or their equivalent, are used throughout the revised chapter. 37:371(g) is omitted, since the words "retired or retainer pay" are used throughout the revised chapter. 37:371(h) is omitted as unnecessary in view of the definitions contained in section 101(5), (7), and (8). 37:372(a) (2d sentence) is omitted as surplusage.
 
-In subsection (b), 37:372(a) (last 28 words of 1st sentence) is omitted as covered by section 1434 of this title. The words "or naval" are omitted as covered by the word "military". The last sentence is substituted for 37:372(a) (4th sentence, less 61st through 81st words). 37:372(a) (3d sentence, and 61st through 85th words of 4th sentence) and 37:372(b) (less last sentence) are omitted as executed.
+In subsection (b), 37:372(a) (last 28 words of 1st sentence) is omitted as covered by section 1434 of this title. The words "or naval" are omitted as covered by the word "military". The last sentence is substitutedfor 37:372(a) (4th sentence, less 61st through 81st words). 37:372(a) (3d sentence, and 61st through 85th words of 4th sentence) and 37:372(b) (less last sentence) are omitted as executed.
 
 In subsection (c), the words "is retired or becomes entitled to retired or retainer pay" are substituted for the words "his retirement" and "he retires" since, under sections 1331–1333 of this title, a person may be granted retired pay without having been retired. The last eight words are substituted for 37:372(a) (7th through 17th words of last sentence). 37:372(a) (last sentence, less 1st 17 words) is omitted as surplusage.
 
@@ -120,7 +120,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Provisions Effective for Certain Members on August 13, 1968
 
-Pub. L. 90–485, §3, Aug. 13, 1968, 82 Stat. 754, provided that: "For members to whom section 1431 of title 10, United States Code \[this section\], applies on the date of enactment of this Act \[Aug. 13, 1968\], the provisions of section 1434(c) of that title, as amended by this Act \[section 1(3) of Pub. L. 90–485\] are effective immediately and automatically".
+Pub. L. 90–485, §3, Aug. 13, 1968, 82 Stat. 754, provided that: "For members to whom section 1431 of title 10, United States Code \[this section\], applies on the date of enactment of this Act \[Aug. 13, 1968\], the provisions of section 1434(c) of that title, as amended by this Act\[section 1(3) of Pub. L. 90–485\] are effective immediately and automatically".
 
 #### Election of Annuity Made Prior to August 13, 1968
 
@@ -150,7 +150,7 @@ Pub. L. 87–381, §8, Oct. 4, 1961, 75 Stat. 812, provided that: "Any person wh
 
 &emsp;"(2) hereafter retires for physical disability before completing 18 years of service for which he is entitled to credit in the computation of his basic pay—
 
-> shall be considered as having applicable to him all of the provisions of chapter 73 of title 10, United StatesCode \[this chapter\], existing on the date preceding the date of enactment of this Act \[Oct. 4, 1961\], except that any revocation or change of an election is not effective until three years after the date of filing such revocation or change, or the date of enactment of this Act \[Oct. 4, 1961\], whichever is later."
+> shall be considered as having applicable to him all of the provisions of chapter 73 of title 10, United States Code \[this chapter\], existing on the date preceding the date of enactment of this Act \[Oct. 4, 1961\], except that any revocation or change of an election is not effective until three years after the date of filing such revocation or change, or the date of enactment of this Act \[Oct. 4, 1961\], whichever is later."
 
 #### Change or Revocation of Election by Certain Colonels and Lieutenant Colonels
 

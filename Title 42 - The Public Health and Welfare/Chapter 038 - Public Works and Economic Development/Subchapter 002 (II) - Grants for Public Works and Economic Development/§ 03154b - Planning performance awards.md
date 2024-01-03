@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make a planning performance award in connection with a grant made, onor after October 27, 2004, to an eligible recipient for a project under this subchapter located in an economic development district.
+The Secretary may make a planning performance award in connection with a grant made, on or after October 27, 2004, to an eligible recipient for a project under this subchapter located in an economic development district.
 
 #### (b) Eligibility
 

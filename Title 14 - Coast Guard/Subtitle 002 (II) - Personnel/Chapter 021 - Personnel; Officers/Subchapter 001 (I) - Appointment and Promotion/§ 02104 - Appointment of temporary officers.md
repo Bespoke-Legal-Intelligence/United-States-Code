@@ -2,7 +2,7 @@
 
 (a) The president may appoint temporary commissioned officers—
 
-&emsp;(1) in the Regular Coast Guard in a grade, not above lieutenant, appropriate to their qualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrant officers, warrant officers, and enlisted members of the Coast Guard, and from holders of licenses issued under chapter 71 of title 46; and
+&emsp;(1) in the Regular Coast Guard in a grade, not above lieutenant, appropriate to their qualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrantofficers, warrant officers, and enlisted members of the Coast Guard, and from holders of licenses issued under chapter 71 of title 46; and
 
 &emsp;(2) in the Coast Guard Reserve in a grade, not above lieutenant, appropriate to their qualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrant officers of the Coast Guard Reserve.
 
@@ -63,4 +63,10 @@ Pub. L. 93–283, §2, May 14, 1974, 88 Stat. 141, provided that: "Paragraphs (5
 #### Temporary Appointments Prior to September 24, 1963
 
 Savings provisions in section 5(e) of Pub. L. 88–130 considering officers appointed with temporary commissions prior to Sept. 24, 1963, as appointed under this section, are set out as a note under section 2101 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Authority
+
+Authority of President under subsec. (a) of this section to make temporary appointments not above lieutenant in the Regular Coast Guard and Coast Guard Reserve delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, §1(e), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of this title.
 

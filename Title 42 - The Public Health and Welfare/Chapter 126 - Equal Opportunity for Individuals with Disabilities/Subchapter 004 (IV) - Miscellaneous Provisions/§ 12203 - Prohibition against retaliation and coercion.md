@@ -6,7 +6,7 @@ No person shall discriminate against any individual because such individual has 
 
 #### (b) Interference, coercion, or intimidation
 
-It shall be unlawful to coerce, intimidate, threaten, or interfere with any individual in the exercise or enjoyment of, or on account of his or her having exercised or enjoyed, or on account of his or her having aided or encouraged any other individual in the exercise or enjoyment of, any right granted or protected by this chapter.
+It shall be unlawful to coerce, intimidate, threaten, or interfere with any individual in the exercise or enjoyment of, or on account of his or her having exercised or enjoyed, or on account of his or her having aided or encouraged anyother individual in the exercise or enjoyment of, any right granted or protected by this chapter.
 
 #### (c) Remedies and procedures
 

@@ -36,7 +36,7 @@ Advances and reimbursements.—Whenever the Director procures information techno
 
 (d)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Fund for any fiscal year such sums as are required to supplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
+Authorization of Appropriations.—There are authorized to be appropriated to the Fundfor any fiscal year such sums as are required to supplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
 
 (e)
 
@@ -90,7 +90,7 @@ Reprogramming.—The Director of the Administrative Office of the United States 
 
 (i)
 
-Appropriations Into the Fund.—If the budget request of the judiciary is appropriated in full, the amount deposited into the Fund during any fiscal year under the authority of subsection (c)(1)(B) will be the same as the amount of funds requested by the judiciary for activities described in subsection (a). If an amount to bedeposited is not specified in statute by Congress and if the full request is not appropriated, the amount to be deposited under subsection (c)(1)(B) will be set by the spending priorities established by the Judicial Conference.
+Appropriations Into the Fund.—If the budget request of the judiciary is appropriated in full, the amount deposited into the Fund during any fiscal year under the authority of subsection (c)(1)(B) will be the same as the amount of funds requested by the judiciary for activities described in subsection (a). If an amount to be deposited is not specified in statute by Congress and if the full request is not appropriated, the amount to be deposited under subsection (c)(1)(B) will be set by the spending priorities established by the Judicial Conference.
 
 (j)
 

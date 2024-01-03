@@ -94,7 +94,7 @@ It is the sense of Congress that, in order to ensure that at-risk youth, and you
 
 #### (A) In general
 
-&emsp;&emsp;In order to ensure the effective and appropriate use of grants administered under this chapter (excluding subchapter IV) and toprevent waste, fraud, and abuse of funds by grantees, the Inspector General of the Department of Justice shall annually conduct audits of grantees that receive funds under this chapter.
+&emsp;&emsp;In order to ensure the effective and appropriate use of grants administered under this chapter (excluding subchapter IV) and to prevent waste, fraud, and abuse of funds by grantees, the Inspector General of the Department of Justice shall annually conduct audits of grantees that receive funds under this chapter.
 
 #### (B) Assessment
 
@@ -102,7 +102,7 @@ It is the sense of Congress that, in order to ensure that at-risk youth, and you
 
 #### (C) Public availability on website
 
-&emsp;&emsp;The Attorney General shall make the summary of each review conducted under this section available on the website of the Department of Justice, subject to redaction as the Attorney General determines necessary to protect classified and other sensitive information.
+&emsp;&emsp;The Attorney General shall make the summary of each review conducted under thissection available on the website of the Department of Justice, subject to redaction as the Attorney General determines necessary to protect classified and other sensitive information.
 
 #### (D) Mandatory exclusion
 
@@ -231,10 +231,6 @@ This chapter, referred to in subsecs. (b)(2) to (5) and (c)(1), was in the origi
 The effective date of this section, referred to in subsec. (b)(6), probably means the date of enactment of Pub. L. 115–385, which was approved Dec. 21, 2018.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

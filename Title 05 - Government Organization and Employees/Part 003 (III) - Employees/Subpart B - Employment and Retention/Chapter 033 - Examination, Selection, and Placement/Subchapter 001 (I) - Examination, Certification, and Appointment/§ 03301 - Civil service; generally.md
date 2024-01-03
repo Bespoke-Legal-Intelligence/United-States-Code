@@ -246,7 +246,7 @@ Section 3. (a) Upon consideration of the report of the Committee on Civil Servic
 
 (e) The Office shall in the manner determined by the Board establish a register or registers for attorney positions in the classified service and such positions shall thereafter be filled from such registers as are designated by the Board. Unless otherwise determined by the Board, any register so established shall not be in effect for a period longer than one year from the date of its establishment. Upon request of the Board, the Office shall appoint regional or local boards of examiners composed of persons approved by the Board, within or without the Federal service, to interview and examine applicants as the Board shall direct.
 
-(f) The number of names to be placed upon any register of eligibles for attorney positions shall be limited to the number recommended by the Board; and such registers shall not be ranked according to the ratings received by the eligibles, except that persons entitled to veterans' preference as defined in section 1 of Civil Service Rule VI shall be appropriately designated thereon.
+(f) The number of names to be placed upon any register of eligibles for attorney positions shall be limited to the number recommended by the Board; and such registers shall not be ranked according to the ratingsreceived by the eligibles, except that persons entitled to veterans' preference as defined in section 1 of Civil Service Rule VI shall be appropriately designated thereon.
 
 (g) Any person whose name has been placed upon three registers of eligibles covering positions of the same grade, and who has not been appointed therefrom, shall not thereafter be eligible for placement upon any subsequently established register covering positions of such grade.
 
@@ -262,7 +262,7 @@ Section 3. (a) Upon consideration of the report of the Committee on Civil Servic
 
 Section 4. The noncompetitive examinations prescribed pursuant to sections 3 and 6 of this order and section 2(a) of the said act of November 26, 1940, shall, among other things, require any person taking such examination to meet such reasonable standards of physical fitness and personal suitability as the Office of Personnel Management may prescribe.
 
-Section 5. Persons who on the effective date of section 1 of this order are on furlough or leave without payfrom any position covered into the classified service by that section may be recalled to duty within one year of the date that they are furloughed or given leave without pay, and may be continued in such positions thereafter but shall not thereby acquire a classified civil-service status. If they are not recalled to duty within the time specified herein, they shall be separated from the service.
+Section 5. Persons who on the effective date of section 1 of this order are on furlough or leave without pay from any position covered into the classified service by that section may be recalled to duty within one year of the date that they are furloughed or given leave without pay, and may be continued in such positions thereafter but shall not thereby acquire a classified civil-service status. If they are not recalled to duty within the time specified herein, they shall be separated from the service.
 
 Section 6. (a) Any person who, in order to perform active service with the military or naval forces of the United States, has left a position (other than a temporary position) which is covered into the classified civil service under section 1 of this order, shall be reinstated in such position or to a position of like seniority, status, and pay in the same department or agency, and may, upon reinstatement, acquire a classified civil-service status: <i>Provided</i>, (1) that he has been honorably discharged from the military or naval service, (2) that he makes application for reinstatement within 90 days after termination of his service with the armed forces or of hospitalization continuing after discharge for a period of not more than one year, and (3) that he qualifies in such suitable noncompetitive examination as the Office may prescribe.
 
@@ -346,7 +346,7 @@ WHEREAS older workers are an indispensable source of productivity and experience
 
 WHEREAS President Kennedy, mindful that maximum national growth depends on the utilization of all manpower resources, issued a memorandum on March 14, 1963, reaffirming the policy of the Executive Branch of the Government of hiring and promoting employees on the basis of merit alone and emphasizing the need to assure that older people are not discriminated against because of their age and receive fair and full consideration for employment and advancement in Federal employment; and
 
-WHEREAS, to encourage and hasten the acceptance of the principle of equal employment opportunity forolder persons by all sectors of the economy, private and public, the Federal Government can and should provide maximum leadership in this regard by adopting that principle as an express policy of the Federal Government not only with respect to Federal employees but also with respect to persons employed by contractors and subcontractors engaged in the performance of Federal contracts:
+WHEREAS, to encourage and hasten the acceptance of the principle of equal employment opportunity for older persons by all sectors of the economy, private and public, the Federal Government can and should provide maximum leadership in this regard by adopting that principle as an express policy of the Federal Government not only with respect to Federal employees but also with respect to persons employed by contractors and subcontractors engaged in the performance of Federal contracts:
 
 NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and statutes of the United States and as President of the United States, I hereby declare that it is the policy of the Executive Branch of the Government that (1) contractors and subcontractors engaged in the performance of Federal contracts shall not, in connection with the employment, advancement, or discharge of employees, or in connection with the terms, conditions, or privileges of their employment, discriminate against persons because of their age except upon the basis of a <i>bona fide</i> occupational qualification, retirement plan, or statutory requirement, and (2) that contractors and subcontractors, or persons acting on their behalf, shall not specify, in solicitations or advertisements for employees to work on Government contracts, a maximum age limit for such employment unless the specified maximum age limit is based upon a <i>bona fide</i> occupational qualification, retirement plan, or statutory requirement. The head of each department and agency shall take appropriate action to enunciate this policy, and to this end the Federal Procurement Regulations and the Armed Services Procurement Regulation shall be amended by the insertion therein of a statement giving continuous notice of the existence of the policy declared by this order.
 
@@ -380,7 +380,7 @@ Sec. 2. For the purposes of Section 1—
 
 (1) "full-time continuous service" means service without a break of more than 30 calendar days;
 
-(2) except as provided in paragraph (3) of this section, active service in the Armed Forces of the United States shall be deemed to be full-time continuous service in a position concerned with the protective function if the employee concerned shall have left a position concerned with the protective function to enter the Armed Forces and shall have been re-employed in a position concerned with the protective function within 120 days after he shall have been discharged from the Armed Forces under honorable conditions; and
+(2) except as provided in paragraph (3) of this section, active service in the Armed Forces of the United Statesshall be deemed to be full-time continuous service in a position concerned with the protective function if the employee concerned shall have left a position concerned with the protective function to enter the Armed Forces and shall have been re-employed in a position concerned with the protective function within 120 days after he shall have been discharged from the Armed Forces under honorable conditions; and
 
 (3) active service in the Armed Forces shall not be deemed to be full-time continuous service in a position concerned with the protective function if such active service exceeds a total of four years plus any period of additional service imposed pursuant to law.
 
@@ -404,7 +404,7 @@ Section 1. Under regulations and conditions prescribed by the Office of Personne
 
 (c) Served in the Foreign Service under an unlimited, career-type appointment and, immediately before his separation from that appointment, he completed at least one year of continuous service under one or more nontemporary appointments in the Foreign Service which may include the service that made him eligible for his career-type appointment; and
 
-(d) Is appointed within 3 years after his separation from the Foreign Service, or he completed at least 3 years of substantially continuous service under one or more nontemporary appointments in the Foreign Service immediately before his separation from the unlimited, career-type appointment in that Service which may include the service that made him eligible for suchappointment, or he is entitled to preference under section 2 of the Veterans' Preference Act of 1944, as amended \[sections 1302 and 2108 of this title\].
+(d) Is appointed within 3 years after his separation from the Foreign Service, or he completed at least 3 years of substantially continuous service under one or more nontemporary appointments in the Foreign Service immediately before his separation from the unlimited, career-type appointment in that Service which may include the service that made him eligible for such appointment, or he is entitled to preference under section 2 of the Veterans' Preference Act of 1944, as amended \[sections 1302 and 2108 of this title\].
 
 Sec. 2. (a) Except as provided in paragraph (b) of this section, a person appointed under Section 1 of this Order becomes a career conditional employee.
 
@@ -474,7 +474,7 @@ Ex. Ord. No. 12257, Dec. 18, 1980, 45 F.R. 84005, which provided for noncompetit
 
 #### Executive Order No. 12362
 
-Ex. Ord. No. 12362, May 12, 1982, 47 F.R. 21231, as amended by Ex. Ord. No. 12585, Mar. 3, 1987, 52 F.R. 6773, which related to appointment to competitive status ofcertain overseas employees upon return to the United States, was revoked by Ex. Ord. No. 12721, July 30, 1990, 55 F.R. 31349, set out below.
+Ex. Ord. No. 12362, May 12, 1982, 47 F.R. 21231, as amended by Ex. Ord. No. 12585, Mar. 3, 1987, 52 F.R. 6773, which related to appointment to competitive status of certain overseas employees upon return to the United States, was revoked by Ex. Ord. No. 12721, July 30, 1990, 55 F.R. 31349, set out below.
 
 #### Executive Order No. 12364
 
@@ -552,7 +552,7 @@ Ex. Ord. No. 12721, July 30, 1990, 55 F.R. 31349, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including sections 3301 and 3302 of title 5 and section 301 of title 3 of the United States Code, and in order to permit certain overseas employees to acquire competitive status upon returning to the United States, it is hereby ordered as follows:
 
-Section 1. A United States citizen who is a family member of a Federal civilian employee, of a nonappropriated fund employee, or of a member of a uniformed service and who meets the qualifications and other requirements established by the Director of theOffice of Personnel Management, including an appropriate period of satisfactory service under one or more overseas appointments in the excepted or competitive civil service, may be appointed noncompetitively to a competitive service position in the executive branch within the United States (including Guam, Puerto Rico, and the Virgin Islands). The employing agency in the United States may waive a requirement for a written test for an individual appointed under this order if the agency determines that the duties and responsibilities of the position occupied overseas were similar enough to those of the position to which the individual is being appointed under this order to make the written test unnecessary.
+Section 1. A United States citizen who is a family member of a Federal civilian employee, of a nonappropriated fund employee, or of a member of a uniformed service and who meets the qualifications and other requirements established by the Director of the Office of Personnel Management, including an appropriate period of satisfactory service under one or more overseas appointments in the excepted or competitive civil service, may be appointed noncompetitively to a competitive service position in the executive branch within the United States (including Guam, Puerto Rico, and the Virgin Islands). The employing agency in the United States may waive a requirement for a written test for an individual appointed under this order if the agency determines that the duties and responsibilities of the position occupied overseas were similar enough to those of the position to which the individual is being appointed under this order to make the written test unnecessary.
 
 Sec. 2. The Director of the Office of Personnel Management shall prescribe such regulations as may be necessary to implement this order.
 
@@ -624,7 +624,7 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 &emsp;(i) retired under chapter 61 of title 10, United States Code, with a disability rating at the time of retirement of 100 per cent; or (ii) \[sic\] retired or separated from the Armed Forces and has a disability rating of 100 percent from the Department of Veterans Affairs.
 
-Sec. 3. <i>Noncompetitive Appointment Authority</i>. Consistent with the policy set forth in section 1 of this order and such regulations as the Director of the Office of Personnel Management may prescribe, the head ofan agency may make a noncompetitive appointment to any position in the competitive service, for which the individual is qualified, of an individual who is:
+Sec. 3. <i>Noncompetitive Appointment Authority</i>. Consistent with the policy set forth in section 1 of this order and such regulations as the Director of the Office of Personnel Management may prescribe, the head of an agency may make a noncompetitive appointment to any position in the competitive service, for which the individual is qualified, of an individual who is:
 
 (a) the spouse of a member of the Armed Forces who, as determined by the Secretary of Defense, is performing active duty pursuant to orders that authorize a permanent change of station move, if such spouse relocates to the member's new permanent duty station;
 
@@ -724,7 +724,7 @@ Sec. 3. <i>Veterans Employment Initiative</i>. The agencies represented on the C
 
 (b) within 120 days of the date of this order, establish a Veterans Employment Program Office, or designate an agency officer or employee with full-time responsibility for its Veterans Employment Program, to be responsible for enhancing employment opportunities for veterans within the agency, consistent with law and merit system principles, including developing and implementing the agency's Operational Plan, veterans recruitment programs, and training programs for veterans with disabilities, and for coordinating employment counseling to help match the career aspirations of veterans to the needs of the agency;
 
-(c) provide mandatory annual training to agency human resources personnel and hiring managers concerning veterans' employment, including training onveterans' preferences and special authorities for the hiring of veterans;
+(c) provide mandatory annual training to agency human resources personnel and hiring managers concerning veterans' employment, including training on veterans' preferences and special authorities for the hiring of veterans;
 
 (d) identify key occupations for which the agency will provide job counseling and training to better enable veterans to meet agency staffing needs associated with those occupations; and
 
@@ -828,7 +828,7 @@ Sec. 4. <i>Recent Graduates Program</i>. The Recent Graduates Program shall prov
 
 Sec. 5. <i>Presidential Management Fellows Program</i>. The Presidential Management Fellows (PMF) Program is an existing program established pursuant to Executive Order 13318 of November 21, 2003, that aims to attract to the Federal service outstanding men and women from a variety of academic disciplines at the graduate level who have a clear interest in, and commitment to, the leadership and management of public policies and programs. The following requirements shall govern the PMF Program upon the revocation of Executive Order 13318, as provided in section 8 of this order:
 
-(a) Participants in this program shall continue to be known as Presidential Management Fellows (PMFs or Fellows) and must have received, within the preceding 2 years, a qualifying advanced degree, as determined by OPM.
+(a) Participants in this program shall continue to be known as Presidential Management Fellows (PMFs orFellows) and must have received, within the preceding 2 years, a qualifying advanced degree, as determined by OPM.
 
 (b) Responsibilities assigned to a PMF shall be consistent with the PMF's qualifications, educational background, and career interests, the purposes of the PMF Program, and agency needs.
 
@@ -912,7 +912,7 @@ Ex. Ord. No. 13704, Aug. 17, 2015, 80 F.R. 50751, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. It is in the national interest for the Federal Government to attract the brightest minds skilled in technology or innovative practices to serve in the Federal Government to work on some of the Nation's biggest and most pressing challenges. This order establishes a program to encourage successful entrepreneurs, executives, and innovators to join the Federal Government and work in close cooperation with Federal Government leaders, to create meaningful solutions that can help save lives and taxpayer money, fuel job creation, and significantly improve how the Federal Government serves the American people.
+Section 1. <i>Policy</i>. It is in the national interest for the Federal Government to attract the brightest minds skilled in technology or innovative practices to serve in the Federal Government to work on some of the Nation's biggest and most pressing challenges. This order establishes a program to encourage successful entrepreneurs, executives, and innovators to join the Federal Government and work in close cooperation withFederal Government leaders, to create meaningful solutions that can help save lives and taxpayer money, fuel job creation, and significantly improve how the Federal Government serves the American people.
 
 Sec. 2. <i>Establishment and Administration</i>. (a) The Administrator of General Services (Administrator) shall establish the Presidential Innovation Fellows Program (Program) to enable exceptional individuals with proven track records to serve time-limited appointments in executive branch departments and agencies (agencies) to address some of the Nation's most significant challenges and improve existing Government efforts that would particularly benefit from expertise using innovative techniques and technology. Individuals selected for the Program shall be known as Presidential Innovation Fellows (Fellows).
 
@@ -1012,7 +1012,7 @@ Sec. 7. The Office of Personnel Management is authorized to issue such additiona
 
 Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
-(i) the authority granted by law to an executive department, agency, or the head thereof, or the status of that department or agency within the Federal Government; or
+(i) the authority granted by law to an executive department, agency, or the head thereof, or the status ofthat department or agency within the Federal Government; or
 
 (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
@@ -1156,7 +1156,7 @@ Ex. Ord. No. 14003, Jan. 22, 2021, 86 F.R. 7231, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Career civil servants are the backbone of the Federal workforce, providing the expertise and experience necessary for the critical functioning of the Federal Government. It is the policy of the United States to protect, empower, and rebuild the career Federal workforce. It is also the policy of the UnitedStates to encourage union organizing and collective bargaining. The Federal Government should serve as a model employer.
+Section 1. <i>Policy</i>. Career civil servants are the backbone of the Federal workforce, providing the expertise and experience necessary for the critical functioning of the Federal Government. It is the policy of the United States to protect, empower, and rebuild the career Federal workforce. It is also the policy of the United States to encourage union organizing and collective bargaining. The Federal Government should serve as a model employer.
 
 Sec. 2. <i>Revocation of Schedule F</i>. (a) The creation of a new Schedule F excepted service category in Executive Order 13957 of October 21, 2020 (Creating Schedule F in the Excepted Service) \[formerly set out above\], not only was unnecessary to the conditions of good administration, but also undermined the foundations of the civil service and its merit system principles, which were essential to the Pendleton Civil Service Reform Act of 1883's \[22 Stat. 403\] repudiation of the spoils system. Accordingly, to enhance the efficiency of the civil service and to promote good administration and systematic application of merit system principles, Executive Order 13957 is hereby revoked.
 

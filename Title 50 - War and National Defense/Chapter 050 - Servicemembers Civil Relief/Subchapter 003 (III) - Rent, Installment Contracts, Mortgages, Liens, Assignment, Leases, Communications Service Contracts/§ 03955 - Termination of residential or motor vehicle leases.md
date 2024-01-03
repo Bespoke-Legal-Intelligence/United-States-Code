@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(i) The term "catastrophic injury or illness" has the meaning given that term in section 439(g) of title 37.
 
-&emsp;&emsp;&emsp;(ii) The term "covered service" means full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10.
+&emsp;&emsp;&emsp;(ii) The term "covered service" means full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10).
 
 #### (b) Covered leases
 
@@ -104,7 +104,7 @@ This section applies to the following leases:
 
 &emsp;&emsp;&emsp;(ii) the posting of material to a website or other internet or electronic-based information repository to which access has been granted to the lessee, the lessor (or the lessor's grantee), or the lessor's agent (or the agent's grantee); and
 
-&emsp;&emsp;&emsp;(iii) other electronic means reasonably calculated to ensure actual receipt of the material by the lessor (or the lessor's grantee) or the lessor's agent (or the agent's grantee).
+&emsp;&emsp;&emsp;(iii) other electronic means reasonably calculated to ensure actual receipt of thematerial by the lessor (or the lessor's grantee) or the lessor's agent (or the agent's grantee).
 
 #### (d) Effective date of lease termination
 
@@ -170,7 +170,7 @@ Section was formerly classified to section 535 of the former Appendix to this ti
 
 #### Prior Provisions
 
-A prior section 305 of act Oct. 17, 1940, ch. 888, art. III, as added Oct. 6, 1942, ch. 581, §12, 56 Stat. 773; amended Pub. L. 102–12, §9(9), Mar. 18, 1991, 105 Stat. 40, related to protection of assignor of life insurance policy, enforcement of storage liens, and penalties, prior to the general amendment of this Act by Pub. L. 108–189. See sections 3957 and 3958 of this title.
+A prior section 305 of act Oct. 17, 1940, ch. 888, art. III, as added Oct. 6, 1942, ch. 581, §12, 56 Stat. 773; amended Pub. L. 102–12, §9(9), Mar. 18, 1991, 105 Stat. 40, related to protection of assignor of life insurance policy, enforcement of storage liens, and penalties, prior to thegeneral amendment of this Act by Pub. L. 108–189. See sections 3957 and 3958 of this title.
 
 #### Amendments
 

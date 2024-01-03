@@ -48,7 +48,7 @@ Subsecs. (d), (e). Pub. L. 107–171, §10704(a)(2), added subsec. (d) and struc
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–334, title XII, §12415(b)(2), Dec. 20, 2018, 132 Stat. 4981, provided that: "The amendments made by paragraph (1) \[amending this section\] take effect on the effective date described in section 6(a) of the Presidential Appointment Efficiency and Streamlining Act of 2011 (Public Law 112–166; 126 Stat. 1295) \[see Effective Date of 2012 Amendment note below\]."
+Pub. L. 115–334, title XII, §12415(b)(2), Dec. 20, 2018, 132 Stat. 4981, provided that: "The amendments made byparagraph (1) \[amending this section\] take effect on the effective date described in section 6(a) of the Presidential Appointment Efficiency and Streamlining Act of 2011 (Public Law 112–166; 126 Stat. 1295) \[see Effective Date of 2012 Amendment note below\]."
 
 #### Effective Date of 2012 Amendment
 

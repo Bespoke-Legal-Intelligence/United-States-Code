@@ -4,7 +4,7 @@
 
 For purposes of this section, the term "emergency condition" means, with respect to any archaeological or ethnological material of any State Party, that such material is—
 
-&emsp;(1) a newly discovered type of material which is of importance for the understandingof the history of mankind and is in jeopardy from pillage, dismantling, dispersal, or fragmentation;
+&emsp;(1) a newly discovered type of material which is of importance for the understanding of the history of mankind and is in jeopardy from pillage, dismantling, dispersal, or fragmentation;
 
 &emsp;(2) identifiable as coming from any site recognized to be of high cultural significance if such site is in jeopardy from pillage, dismantling, dispersal, or fragmentation which is, or threatens to be, of crisis proportions; or
 
@@ -14,7 +14,7 @@ For purposes of this section, the term "emergency condition" means, with respect
 
 #### (b) Presidential action
 
-Subject to subsection (c), if the President determines that an emergency condition applies with respect to any archaeological or ethnological material of any State Party, the President may apply the import restrictions set forth in section 2606 of this title with respect to such material.
+Subject to subsection (c), if the President determines that an emergency condition applies with respect to any archaeological or ethnological material of any State Party, the President may apply the import restrictions set forthin section 2606 of this title with respect to such material.
 
 #### (c) Limitations
 

@@ -188,11 +188,11 @@ The plan shall define the powers and duties of the Board, which shall include th
 
 #### (2) Budgets
 
-&emsp;The plan shall require the Board, prior to the beginning of each fiscal year, or as may be necessary after the beginning of such fiscal year, to submit to the Secretary for approval budgets of its anticipated expenses (including reimbursements under subsection (b)(10)) and disbursements in the implementation of the plan, including projected costs of promotion, research, consumer information, and industry information programs and projects.
+&emsp;The plan shall require the Board, prior to the beginning of each fiscal year, or as may be necessary after the beginning of such fiscal year, to submit to the Secretary for approval budgets of its anticipated expenses (including reimbursements under subsection (b)(10)) anddisbursements in the implementation of the plan, including projected costs of promotion, research, consumer information, and industry information programs and projects.
 
 #### (3) Incurring expenses
 
-&emsp;The Board may incur such expenses for programs or projects of research, promotion, consumer information, or industry information,and other expenses for the administration, maintenance, and functioning of the Board as may be authorized by the Secretary, including any implementation, administrative, and referendum costs incurred by the Department.
+&emsp;The Board may incur such expenses for programs or projects of research, promotion, consumer information, or industry information, and other expenses for the administration, maintenance, and functioning of the Board as may be authorized by the Secretary, including any implementation, administrative, and referendum costs incurred by the Department.
 
 #### (4) Paying expenses
 
@@ -284,7 +284,7 @@ The Board shall not engage in any action to, nor shall any funds received by the
 
 #### (C) Misconduct
 
-&emsp;&emsp;Any disclosure of confidential information in violation of subparagraph (A) by any Board member or employee of the Board, except as required by other law or allowed under subparagraph (B) or (D), shall be considered a violation of this chapter.
+&emsp;&emsp;Any disclosure of confidential information in violation of subparagraph (A) by anyBoard member or employee of the Board, except as required by other law or allowed under subparagraph (B) or (D), shall be considered a violation of this chapter.
 
 #### (D) General statements
 

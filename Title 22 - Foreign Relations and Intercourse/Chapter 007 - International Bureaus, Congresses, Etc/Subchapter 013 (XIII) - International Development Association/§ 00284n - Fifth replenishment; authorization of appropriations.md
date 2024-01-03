@@ -2,7 +2,7 @@
 
 (a) The United States Governor is authorized to agree on behalf of the United States to pay to the Association $2,400,000,000 as the United States contribution to the fifth replenishment of the Resources of the Association: <i>Provided, however</i>, That any commitment to make such contributions shall be made subject to obtaining the necessary appropriations.
 
-(b) In order to pay for the United States contribution provided for in this section, there areauthorized to be appropriated, without fiscal year limitation, $2,400,000,000 for payment by the Secretary of the Treasury.
+(b) In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $2,400,000,000 for payment by the Secretary of the Treasury.
 
 (Pub. L. 86–565, §16, as added Pub. L. 95–118, title IV, §401, Oct. 3, 1977, 91 Stat. 1068.)
 

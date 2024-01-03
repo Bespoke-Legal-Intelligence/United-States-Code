@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-Beginning in fiscal year 2005 and thereafter, the Secretary may establish, modify, charge, and collect recreation fees at Federal recreational lands and waters as provided for in this section.
+Beginning in fiscal year 2005 and thereafter, the Secretary may establish, modify, charge,and collect recreation fees at Federal recreational lands and waters as provided for in this section.
 
 #### (b) Basis for recreation fees
 
@@ -156,7 +156,7 @@ Except as limited by subsection (d), the Secretary may charge a standard amenity
 
 &emsp;&emsp;&emsp;(ix) Simple devices for containing a campfire.
 
-&emsp;&emsp;(B) Use of highly developed boat launches with specialized facilities or services such asmechanical or hydraulic boat lifts or facilities, multi-lane paved ramps, paved parking, restrooms and other improvements such as boarding floats, loading ramps, or fish cleaning stations.
+&emsp;&emsp;(B) Use of highly developed boat launches with specialized facilities or services such as mechanical or hydraulic boat lifts or facilities, multi-lane paved ramps, paved parking, restrooms and other improvements such as boarding floats, loading ramps, or fish cleaning stations.
 
 &emsp;&emsp;(C) Rental of cabins, boats, stock animals, lookouts, historic structures, group day-use or overnight sites, audio tour devices, portable sanitation devices, binoculars or other equipment.
 
@@ -204,7 +204,7 @@ This chapter, referred to in subsec. (d)(1), (4), was in the original "this Act"
 
 Section 101 of title 23, referred to in subsec. (d)(1)(G), was subsequently amended, and section 101 no longer defines "Federal-aid System".
 
-The Alaska National Interest Lands Conservation Act, referred to in subsec. (d)(3)(H), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Alaska National Interest Lands Conservation Act, referred to in subsec. (d)(3)(H), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

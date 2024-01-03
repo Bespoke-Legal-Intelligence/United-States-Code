@@ -20,7 +20,7 @@ Section 191 of this title, referred to in text, was redesignated and transferred
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–845 effective Jan. 2, 1963, see section 25 of Pub. L. 87–845, set out as a note under section 414 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 87–845 effective Jan. 2, 1963, see section 25 of Pub. L. 87–845, set out as a note undersection 414 of Title 28, Judiciary and Judicial Procedure.
 
 #### Transfer of Functions
 

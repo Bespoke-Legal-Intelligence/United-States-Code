@@ -22,7 +22,7 @@ The Secretary may establish a security program for railroad carriers not assigne
 
 #### (c) Deadline for submission
 
-Not later than 9 months after the date of issuance of the regulations under subsection (a),the vulnerability assessments and security plans required by such regulations for railroad carriers assigned to a high-risk tier shall be completed and submitted to the Secretary for review and approval.
+Not later than 9 months after the date of issuance of the regulations under subsection (a), the vulnerability assessments and security plans required by such regulations for railroad carriers assigned to a high-risk tier shall be completed and submitted to the Secretary for review and approval.
 
 #### (d) Vulnerability assessments
 
@@ -170,7 +170,7 @@ Utilizing the risk assessment and National Strategy for Railroad Transportation 
 
 #### (1) Submission of evaluation
 
-&emsp;Not later than 3 years after the date on which a vulnerability assessment or security plan required to be submitted to the Secretary under subsection (c) is approved, and at least once every 5 years thereafter (or on such a schedule as the Secretary may establish by regulation), a railroad carrier who submitted a vulnerability assessment and security plan and who is still assigned to the high-risk tier must also submit to the Secretary an evaluation of the adequacy of the vulnerability assessment and security plan that includes a description of any material changes made to the vulnerability assessment or security plan.
+&emsp;Not later than 3 years after the date on which a vulnerability assessment or securityplan required to be submitted to the Secretary under subsection (c) is approved, and at least once every 5 years thereafter (or on such a schedule as the Secretary may establish by regulation), a railroad carrier who submitted a vulnerability assessment and security plan and who is still assigned to the high-risk tier must also submit to the Secretary an evaluation of the adequacy of the vulnerability assessment and security plan that includes a description of any material changes made to the vulnerability assessment or security plan.
 
 #### (2) Review of evaluation
 
@@ -182,7 +182,7 @@ The Secretary may permit under this section the development and implementation o
 
 #### (m) Consultation
 
-In carrying out this section, the Secretary shall consult with railroad carriers, nonprofitemployee labor organizations representation railroad employees, and public safety and law enforcement officials.
+In carrying out this section, the Secretary shall consult with railroad carriers, nonprofit employee labor organizations representation railroad employees, and public safety and law enforcement officials.
 
 (Pub. L. 110–53, title XV, §1512, Aug. 3, 2007, 121 Stat. 429.)
 

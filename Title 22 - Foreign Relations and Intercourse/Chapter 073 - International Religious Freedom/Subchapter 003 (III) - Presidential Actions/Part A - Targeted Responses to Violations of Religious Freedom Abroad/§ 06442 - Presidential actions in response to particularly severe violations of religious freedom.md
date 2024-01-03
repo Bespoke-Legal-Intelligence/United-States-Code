@@ -54,7 +54,7 @@
 
 #### (B) Removal of designation
 
-&emsp;&emsp;A country that is designated as a country of particular concern for religious freedomunder paragraph (1)(A)(ii) shall retain such designation until the President determines and reports to the appropriate congressional committees that the country should no longer be so designated.
+&emsp;&emsp;A country that is designated as a country of particular concern for religious freedom under paragraph (1)(A)(ii) shall retain such designation until the President determines and reports to the appropriate congressional committees that the country should no longer be so designated.
 
 #### (4) Effect on designation as country of particular concern
 
@@ -122,7 +122,7 @@ A determination under this chapter, or any amendment made by this chapter, that 
 
 #### References in Text
 
-This subchapter, referred to in subsec. (c)(2)(A), was in the original "this title", meaning title IV of Pub. L.105–292, Oct. 27, 1998, 112 Stat. 2800, which is classified principally to this subchapter. For complete classification of title IV to the Code, see Tables.
+This subchapter, referred to in subsec. (c)(2)(A), was in the original "this title", meaning title IV of Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2800, which is classified principally to this subchapter. For complete classification of title IV to the Code, see Tables.
 
 This chapter, referred to in subsecs. (c)(4) and (d), was in the original "this Act", meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
 

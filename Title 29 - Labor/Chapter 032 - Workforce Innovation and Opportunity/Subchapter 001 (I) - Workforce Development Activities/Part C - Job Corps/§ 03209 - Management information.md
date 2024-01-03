@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish procedures to ensure that each operator, and each serviceprovider, maintains a financial management information system that will provide—
+&emsp;The Secretary shall establish procedures to ensure that each operator, and each service provider, maintains a financial management information system that will provide—
 
 &emsp;&emsp;(A) accurate, complete, and current disclosures of the costs of Job Corps operations; and
 
@@ -179,10 +179,6 @@ Prior to the closure of any Job Corps center, the Secretary shall ensure—
 The Occupational Safety and Health Act of 1970, referred to in subsec. (g)(2), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§651 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 651 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

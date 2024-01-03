@@ -30,7 +30,7 @@
 
 #### (6) Model laboratory standards
 
-&emsp;The Secretary shall develop model standards that a laboratory shall meet to be accredited by a recognized accreditation body for a specified sampling or analytical testing methodology and included in the registry provided forunder paragraph (1). In developing the model standards, the Secretary shall consult existing standards for guidance. The model standards shall include—
+&emsp;The Secretary shall develop model standards that a laboratory shall meet to be accredited by a recognized accreditation body for a specified sampling or analytical testing methodology and included in the registry provided for under paragraph (1). In developing the model standards, the Secretary shall consult existing standards for guidance. The model standards shall include—
 
 &emsp;&emsp;(A) methods to ensure that—
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(A) shall periodically, and in no case less than once every 5 years, reevaluate accreditation bodies recognized under paragraph (1) and may accompany auditors from an accreditation body to assess whether the accreditation body meets the criteria for recognition; and
 
-&emsp;&emsp;(B) shall promptly revoke the recognition of any accreditation body found not to be in compliance with the requirements of this section, specifying, as appropriate, any terms and conditions necessary for laboratories accredited by such body to continue to perform testing as described in this section.
+&emsp;&emsp;(B) shall promptly revoke the recognition of any accreditation body found not to be in compliance with the requirements of thissection, specifying, as appropriate, any terms and conditions necessary for laboratories accredited by such body to continue to perform testing as described in this section.
 
 #### (b) Testing procedures
 

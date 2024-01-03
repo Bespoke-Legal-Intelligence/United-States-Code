@@ -32,7 +32,7 @@ Subject to subsections (b) through (f), the authorities contained in sections 23
 
 #### (d) Reinstatement of assistance
 
-The President may provide to a country assistance otherwise prohibited under subsection\(a) upon certifying to the appropriate congressional committees that the government of such country—
+The President may provide to a country assistance otherwise prohibited under subsection (a) upon certifying to the appropriate congressional committees that the government of such country—
 
 &emsp;(1) has implemented measures that include an action plan and actual steps to come into compliance with the standards outlined in subsection (b); and
 
@@ -46,7 +46,7 @@ The President may provide to a country assistance otherwise prohibited under sub
 
 &emsp;&emsp;(A) the government of such country is taking reasonable steps to implement effective measures to demobilize child soldiers in its forces or in government-supported paramilitaries and is taking reasonable steps within the context of its national resources to provide demobilization, rehabilitation, and reintegration assistance to those former child soldiers; and
 
-&emsp;&emsp;(B) the assistance provided by the United States Government to the government of such country will go to programs that will directly support professionalization of the military.
+&emsp;&emsp;(B) the assistance provided by the United States Government to the government of such country will go to programs that willdirectly support professionalization of the military.
 
 #### (2) Limitation
 

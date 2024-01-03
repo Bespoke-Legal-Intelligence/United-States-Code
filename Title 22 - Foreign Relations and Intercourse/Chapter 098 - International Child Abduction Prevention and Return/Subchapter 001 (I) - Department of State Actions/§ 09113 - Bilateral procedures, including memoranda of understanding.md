@@ -30,7 +30,7 @@ The bilateral procedures described in subsection (a) should include provisions r
 
 &emsp;&emsp;&emsp;(iii) retrieving the abducted child and making the appropriate arrangements for such child to be returned to the child's country of habitual residence;
 
-&emsp;(2) the implementation of a protocol to effectuate the return of an abducted child identified in an abduction case not later than 6weeks after the application with respect to the abduction case has been submitted to the judicial or administrative authority, as applicable, of the country in which the abducted child is located;
+&emsp;(2) the implementation of a protocol to effectuate the return of an abducted child identified in an abduction case not later than 6 weeks after the application with respect to the abduction case has been submitted to the judicial or administrative authority, as applicable, of the country in which the abducted child is located;
 
 &emsp;(3) the implementation of a protocol for the establishment and protection of the rights of interim contact during pendency of abduction cases; and
 

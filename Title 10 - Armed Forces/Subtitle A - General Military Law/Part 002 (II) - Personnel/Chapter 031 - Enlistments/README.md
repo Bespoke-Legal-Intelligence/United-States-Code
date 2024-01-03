@@ -2,12 +2,12 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [501\.](%C2%A7%2000501%20-%20Definition.md) | Definition. |
-| [502\.](%C2%A7%2000502%20-%20Enlistment%20oath%20who%20may%20administer.md) | Enlistment oath: who may administer. |
-| [503\.](%C2%A7%2000503%20-%20Enlistments%20recruiting%20campaigns%3B%20compilation%20of%20directory%20information.md) | Enlistments: recruiting campaigns; compilation of directory information. |
-| [504\.](%C2%A7%2000504%20-%20Persons%20not%20qualified.md) | Persons not qualified. |
-| [505\.](%C2%A7%2000505%20-%20Regular%20components%20qualifications%2C%20term%2C%20grade.md) | Regular components: qualifications, term, grade. |
-| [506\.](%C2%A7%2000506%20-%20Regular%20components%20extension%20of%20enlistments%20during%20war.md) | Regular components: extension of enlistments during war. |
+| [501\.](%C2%A7%2000501%20-%201%20Definition.md) | Definition. |
+| [502\.](%C2%A7%2000502%20-%201%20Enlistment%20oath%20who%20may%20administer.md) | Enlistment oath: who may administer. |
+| [503\.](%C2%A7%2000503%20-%201%20Enlistments%20recruiting%20campaigns%3B%20compilation%20of%20directory%20information.md) | Enlistments: recruiting campaigns; compilation of directory information. |
+| [504\.](%C2%A7%2000504%20-%201%20Persons%20not%20qualified.md) | Persons not qualified. |
+| [505\.](%C2%A7%2000505%20-%201%20Regular%20components%20qualifications%2C%20term%2C%20grade.md) | Regular components: qualifications, term, grade. |
+| [506\.](%C2%A7%2000506%20-%201%20Regular%20components%20extension%20of%20enlistments%20during%20war.md) | Regular components: extension of enlistments during war. |
 | [507\.](%C2%A7%2000507%20-%20Extension%20of%20enlistment%20for%20members%20needing%20medical%20care%20or%20hospitalization.md) | Extension of enlistment for members needing medical care or hospitalization. |
 | [508\.](%C2%A7%2000508%20-%20Reenlistment%20qualifications.md) | Reenlistment: qualifications. |
 | [509\.](%C2%A7%2000509%20-%20Voluntary%20extension%20of%20enlistments%20periods%20and%20benefits.md) | Voluntary extension of enlistments: periods and benefits. |
@@ -69,12 +69,12 @@ Pub. L. 90–235, §2(a)(1)(C), Jan. 2, 1968, 81 Stat. 755, redesignated item 50
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00501 - Definition](%C2%A7%2000501%20-%20Definition.md)
-- [&sect; 00502 - Enlistment oath who may administer](%C2%A7%2000502%20-%20Enlistment%20oath%20who%20may%20administer.md)
-- [&sect; 00503 - Enlistments recruiting campaigns; compilation of directory information](%C2%A7%2000503%20-%20Enlistments%20recruiting%20campaigns%3B%20compilation%20of%20directory%20information.md)
-- [&sect; 00504 - Persons not qualified](%C2%A7%2000504%20-%20Persons%20not%20qualified.md)
-- [&sect; 00505 - Regular components qualifications, term, grade](%C2%A7%2000505%20-%20Regular%20components%20qualifications%2C%20term%2C%20grade.md)
-- [&sect; 00506 - Regular components extension of enlistments during war](%C2%A7%2000506%20-%20Regular%20components%20extension%20of%20enlistments%20during%20war.md)
+- [&sect; 00501 - 1 Definition](%C2%A7%2000501%20-%201%20Definition.md)
+- [&sect; 00502 - 1 Enlistment oath who may administer](%C2%A7%2000502%20-%201%20Enlistment%20oath%20who%20may%20administer.md)
+- [&sect; 00503 - 1 Enlistments recruiting campaigns; compilation of directory information](%C2%A7%2000503%20-%201%20Enlistments%20recruiting%20campaigns%3B%20compilation%20of%20directory%20information.md)
+- [&sect; 00504 - 1 Persons not qualified](%C2%A7%2000504%20-%201%20Persons%20not%20qualified.md)
+- [&sect; 00505 - 1 Regular components qualifications, term, grade](%C2%A7%2000505%20-%201%20Regular%20components%20qualifications%2C%20term%2C%20grade.md)
+- [&sect; 00506 - 1 Regular components extension of enlistments during war](%C2%A7%2000506%20-%201%20Regular%20components%20extension%20of%20enlistments%20during%20war.md)
 - [&sect; 00507 - Extension of enlistment for members needing medical care or hospitalization](%C2%A7%2000507%20-%20Extension%20of%20enlistment%20for%20members%20needing%20medical%20care%20or%20hospitalization.md)
 - [&sect; 00508 - Reenlistment qualifications](%C2%A7%2000508%20-%20Reenlistment%20qualifications.md)
 - [&sect; 00509 - Voluntary extension of enlistments periods and benefits](%C2%A7%2000509%20-%20Voluntary%20extension%20of%20enlistments%20periods%20and%20benefits.md)

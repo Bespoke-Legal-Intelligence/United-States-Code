@@ -6,7 +6,7 @@ Unless abolished pursuant to the reorganization plan submitted under section 660
 
 #### (b) Retention of officers
 
-Nothing in this section shall require the reappointment of any officer of the United Statesserving in the Agency for International Development of the United States International Development Cooperation Agency as of the day before the effective date of this subchapter.
+Nothing in this section shall require the reappointment of any officer of the United States serving in the Agency for International Development of the United States International Development Cooperation Agency as of the day before the effective date of this subchapter.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XIV, §1413, Oct. 21, 1998, 112 Stat. 2681–791.)
 

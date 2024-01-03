@@ -52,7 +52,7 @@ Subsec. (a)(5)(A). Pub. L. 117–328, §3616(b)(1)(C), substituted "paragraph (9
 
 Subsec. (a)(6) to (9). Pub. L. 117–328, §3616(b)(1)(A), redesignated pars. (4) to (7) as (6) to (9), respectively.
 
-<b>2016</b>—Subsec. (a). Pub. L. 114–255, in introductory provisions, substituted "Not later than March 31 of each calendar year," for "Not later than the end of calendar year 2013, and not later than the end of each calendar year thereafter," and inserted ", with respect to the preceding calendar year," after "a report".
+<b>2016</b>—Subsec. (a). Pub. L. 114–255, in introductory provisions, substituted "Not later than March 31 of eachcalendar year," for "Not later than the end of calendar year 2013, and not later than the end of each calendar year thereafter," and inserted ", with respect to the preceding calendar year," after "a report".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

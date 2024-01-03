@@ -38,7 +38,7 @@ A State may only elect the option under subsection (a) if the following conditio
 
 #### (7) No waiting list for children
 
-&emsp;The State does not impose, with respect to the enrollment under the State child health plan of targeted low-income children during the quarter, any enrollment cap or other numerical limitation on enrollment, any waitinglist, any procedures designed to delay the consideration of applications for enrollment, or similar limitation with respect to enrollment.
+&emsp;The State does not impose, with respect to the enrollment under the State child health plan of targeted low-income children during the quarter, any enrollment cap or other numerical limitation on enrollment, any waiting list, any procedures designed to delay the consideration of applications for enrollment, or similar limitation with respect to enrollment.
 
 #### (c) Option to provide presumptive eligibility
 
@@ -102,7 +102,7 @@ If a child is born to a targeted low-income pregnant woman who was receiving pre
 
 #### Effective Date
 
-Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on orafter that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
+Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

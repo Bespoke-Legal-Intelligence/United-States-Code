@@ -48,7 +48,7 @@ In addition to the responsibilities set forth in chapter 14 of title 5 and other
 
 #### (d) Chief Learning and Engagement Officer
 
-The Chief Human Capital Officer may designate an employee of the Department to serveas a Chief Learning and Engagement Officer to assist the Chief Human Capital Officer in carrying out this section.
+The Chief Human Capital Officer may designate an employee of the Department to serve as a Chief Learning and Engagement Officer to assist the Chief Human Capital Officer in carrying out this section.
 
 #### (e) Annual submission
 

@@ -38,7 +38,7 @@ Rules of Construction.—
 
 &emsp;(1)
 
-Space support vehicles.—Section 44711(a)(1) shall not apply to a person conducting a space support vehicle flight under this section only to the extent that a term of the experimental certificate under which theperson is operating the space support vehicle prohibits the carriage of persons or property for compensation or hire.
+Space support vehicles.—Section 44711(a)(1) shall not apply to a person conducting a space support vehicle flight under this section only to the extent that a term of the experimental certificate under which the person is operating the space support vehicle prohibits the carriage of persons or property for compensation or hire.
 
 &emsp;(2)
 

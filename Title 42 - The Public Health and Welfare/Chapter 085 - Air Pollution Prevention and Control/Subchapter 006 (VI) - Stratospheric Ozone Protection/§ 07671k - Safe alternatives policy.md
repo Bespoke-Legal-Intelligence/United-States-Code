@@ -18,7 +18,7 @@ The Administrator shall—
 
 #### (c) Alternatives for class I or II substances
 
-Within 2 years after November 15, 1990, the Administrator shall promulgate rules under this section providing that it shall be unlawful to replace any class I or class II substance with anysubstitute substance which the Administrator determines may present adverse effects to human health or the environment, where the Administrator has identified an alternative to such replacement that—
+Within 2 years after November 15, 1990, the Administrator shall promulgate rules under this section providing that it shall be unlawful to replace any class I or class II substance with any substitute substance which the Administrator determines may present adverse effects to human health or the environment, where the Administrator has identified an alternative to such replacement that—
 
 &emsp;(1) reduces the overall risk to human health and the environment; and
 

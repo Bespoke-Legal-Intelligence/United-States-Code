@@ -46,7 +46,7 @@ Recommendations for Additional Scientific Studies.—(1) Under an agreement betw
 
 (g)
 
-Reports.—(1)(A) Under an agreement between the Secretary and the Academies under this section, not later than one year after thedate of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022, the Academies shall submit to the Secretary, the Committee on Veterans' Affairs of the Senate, and the Committee on Veterans' Affairs of the House of Representatives an initial report on the activities of the Academies under the agreement.
+Reports.—(1)(A) Under an agreement between the Secretary and the Academies under this section, not later than one year after the date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022, the Academies shall submit to the Secretary, the Committee on Veterans' Affairs of the Senate, and the Committee on Veterans' Affairs of the House of Representatives an initial report on the activities of the Academies under the agreement.
 
 (B) The report submitted under subparagraph (A) shall include the following:
 

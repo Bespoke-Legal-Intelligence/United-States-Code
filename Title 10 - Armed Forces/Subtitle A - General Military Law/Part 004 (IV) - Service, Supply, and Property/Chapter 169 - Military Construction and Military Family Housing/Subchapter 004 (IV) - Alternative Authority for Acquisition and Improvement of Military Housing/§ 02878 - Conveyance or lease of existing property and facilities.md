@@ -14,7 +14,7 @@ Competitive Process.—The Secretary concerned shall ensure that the time, metho
 
 (d)
 
-Terms and Conditions.—(1) The conveyance or lease of property or facilities under this section shall be for such consideration and upon such terms and conditions as the Secretary concerned considers appropriate for the purposes ofthis subchapter and to protect the interests of the United States.
+Terms and Conditions.—(1) The conveyance or lease of property or facilities under this section shall be for such consideration and upon such terms and conditions as the Secretary concerned considers appropriate for the purposes of this subchapter and to protect the interests of the United States.
 
 (2) As part or all of the consideration for a conveyance or lease under this section, the purchaser or lessor (as the case may be) shall enter into an agreement with the Secretary to ensure that a suitable preference will be afforded members of the armed forces and their dependents in the lease or sublease of a reasonable number of the housing units covered by the conveyance or lease, as the case may be, or in the lease of other suitable housing units made available by the purchaser or lessee.
 
@@ -62,15 +62,21 @@ Notice of Lease Extensions.—(1) The Secretary concerned shall provide to the c
 
 &emsp;&emsp;(ii) The occupancy rates for the housing units subject to the ground lease.
 
-&emsp;&emsp;(iii) An <sup>1</sup> report on maintenance response times and completion of maintenance requests for the housing units subject to the ground lease.
+&emsp;&emsp;(iii) A report on maintenance response times and completion of maintenance requests for the housing units subject to the ground lease.
 
 &emsp;&emsp;(iv) The occupancy rates and debt-to-net operating income ratios of any other military privatized housing initiative projects managed by a company that controls, or that is under common control with, the ground lessee entering into the lease extension.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 105–85, div. A, title X, §1073(a)(60), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. B, title XXVIII, §2803(g), Oct. 5, 1999, 113 Stat. 849; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(23), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 110–417, div. B, title XXVIII, §2805(d), Oct. 14, 2008, 122 Stat. 4723; Pub. L. 111–350, §5(b)(50), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 117–263, div. B, title XXVIII, §2822, Dec. 23, 2022, 136 Stat. 3000.)
+&emsp;(E) An assessment of compliance by the lessor with the Military Housing Privatization Initiative Tenant Bill of Rights developed under section 2890 of this title.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 105–85, div. A, title X, §1073(a)(60), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. B, title XXVIII, §2803(g), Oct. 5, 1999, 113 Stat. 849; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(23), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 110–417, div. B, title XXVIII, §2805(d), Oct. 14, 2008, 122 Stat. 4723; Pub. L. 111–350, §5(b)(50), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 117–263, div. B, title XXVIII, §2822, Dec. 23, 2022, 136 Stat. 3000; Pub. L. 118–31, div. A, title XVIII, §1801(a)(24), div. B, title XXVIII, §2822(a), Dec. 22, 2023, 137 Stat. 684, 751.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (f)(2)(D)(iii). Pub. L. 118–31, §1801(a)(24), substituted "A report" for "An report".
+
+Subsec. (f)(2)(E). Pub. L. 118–31, §2822(a), added subpar. (E).
 
 <b>2022</b>—Subsec. (f). Pub. L. 117–263 added subsec. (f).
 
@@ -87,6 +93,4 @@ Subsec. (d)(3). Pub. L. 107–217, §3(b)(23)(B), substituted "Section 1302 of t
 <b>1999</b>—Subsec. (a). Pub. L. 106–65 substituted "eligible entities" for "private persons".
 
 <b>1997</b>—Subsec. (d)(4). Pub. L. 105–85 substituted "11411" for "11401".
-
-<i><sup>1</sup></i><i> So in original.</i>
 

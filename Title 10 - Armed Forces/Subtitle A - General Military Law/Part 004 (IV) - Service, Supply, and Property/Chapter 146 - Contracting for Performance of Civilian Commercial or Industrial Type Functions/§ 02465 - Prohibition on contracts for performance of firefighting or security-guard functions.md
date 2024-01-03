@@ -46,7 +46,7 @@ Restriction on Conversion.—The Secretary of the Army may not convert to contra
 
 "(b)
 
-Covered Installations.—For the purposes of this section, a chemical weapons storage installation isany installation of the Department of Defense on which lethal chemical agents or munitions are stored.
+Covered Installations.—For the purposes of this section, a chemical weapons storage installation is any installation of the Department of Defense on which lethal chemical agents or munitions are stored.
 
 "(c)
 

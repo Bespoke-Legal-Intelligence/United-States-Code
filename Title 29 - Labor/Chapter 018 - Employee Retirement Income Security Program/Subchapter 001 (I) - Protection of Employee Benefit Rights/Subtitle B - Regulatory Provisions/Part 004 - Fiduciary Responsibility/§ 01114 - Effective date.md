@@ -30,7 +30,7 @@
 
 (d) Any election, or failure to elect, by a disqualified person under section 2003(c)(1)(B) of this Act shall be treated for purposes of this part (but not for purposes of section 1144 of this title) as an act or omission occurring before the effective date of this part.
 
-(e) The preceding provisions of this section shall not apply with respect to amendments made to this part in provisions enacted after September 2, 1974.
+(e) The preceding provisions of this section shall not apply with respect to amendmentsmade to this part in provisions enacted after September 2, 1974.
 
 (Pub. L. 93–406, title I, §414, Sept. 2, 1974, 88 Stat. 889; Pub. L. 101–239, title VII, §7894(e)(6), (h)(4), Dec. 19, 1989, 103 Stat. 2450, 2451.)
 

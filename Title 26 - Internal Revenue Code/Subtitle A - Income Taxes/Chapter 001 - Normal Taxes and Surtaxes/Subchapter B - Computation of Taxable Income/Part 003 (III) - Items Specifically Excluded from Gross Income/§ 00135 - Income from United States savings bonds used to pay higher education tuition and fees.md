@@ -26,7 +26,7 @@ In the case of an individual who pays qualified higher education expenses during
 
 #### (A) In general
 
-&emsp;&emsp;If the modified adjusted gross income of the taxpayer for the taxable year exceeds$40,000 ($60,000 in the case of a joint return), the amount which would (but for this paragraph) be excludable from gross income under subsection (a) shall be reduced (but not below zero) by the amount which bears the same ratio to the amount which would be so excludable as such excess bears to $15,000 ($30,000 in the case of a joint return).
+&emsp;&emsp;If the modified adjusted gross income of the taxpayer for the taxable year exceeds $40,000 ($60,000 in the case of a joint return), the amount which would (but for this paragraph) be excludable from gross income under subsection (a) shall be reduced (but not below zero) by the amount which bears the same ratio to the amount which would be so excludable as such excess bears to $15,000 ($30,000 in the case of a joint return).
 
 #### (B) Inflation adjustment
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 #### (4) Regulations
 
-&emsp;The Secretary may prescribe such regulations as may be necessary or appropriate tocarry out this section, including regulations requiring record keeping and information reporting.
+&emsp;The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring record keeping and information reporting.
 
 (Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388–516; Pub. L. 104–188, title I, §§1703(d), 1806(b)(1), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1875, 1898, 1902; Pub. L. 105–34, title II, §§201(d), 211(c), 213(e)(2), Aug. 5, 1997, 111 Stat. 805, 811, 817; Pub. L. 105–206, title VI, §6004(c)(1), (d)(4), (9), July 22, 1998, 112 Stat. 793–795; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§401(g)(2)(B), 402(a)(4)(A), (B), (b)(2)(A), 431(c)(1), June 7, 2001, 115 Stat. 59–62, 68; Pub. L. 107–22, §1(b)(1)(B), (3)(B), July 26, 2001, 115 Stat. 197; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 115–97, title I, §§11002(d)(1)(M), 13305(b)(1), Dec. 22, 2017, 131 Stat. 2060, 2126; Pub. L. 116–260, div. EE, title I, §104(b)(2)(D), Dec. 27, 2020, 134 Stat. 3041; Pub. L. 117–2, title IX, §9042(b)(3), Mar. 11, 2021, 135 Stat. 122.)
 
@@ -190,7 +190,7 @@ Subsec. (b)(2)(C). Pub. L. 101–508, §11702(h)(2), struck out "(A) or" after "
 
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2019, see section 9042(c) of Pub. L. 117–2, set out as a note under section 74 of this title.
+Amendment by Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2019, see section 9042(c) ofPub. L. 117–2, set out as a note under section 74 of this title.
 
 #### Effective Date of 2020 Amendment
 
@@ -204,7 +204,7 @@ Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) ofPub. L. 108–357, set out as a note under section 56 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
 #### Effective Date of 2001 Amendment
 

@@ -96,7 +96,7 @@ Amendment by sections 1808(d)(2) and 1883(b)(2) of Pub. L. 116–283 effective J
 
 #### Deadline for Implementation of Procedures To Institute Certification Program
 
-Pub. L. 116–92, div. A, title VIII, §861(a)(5), Dec. 20, 2019, 133 Stat. 1516, provided that: "The Secretary of Defense shall implement procedures to institute the program required by subsection (c) of section 1701a of title 10, United States Code, as added by paragraph (1), not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\]."
+Pub. L. 116–92, div. A, title VIII, §861(a)(5), Dec. 20, 2019, 133 Stat. 1516, provided that: "The Secretary ofDefense shall implement procedures to institute the program required by subsection (c) of section 1701a of title 10, United States Code, as added by paragraph (1), not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\]."
 
 #### Deadline for Implementation of Career Paths
 

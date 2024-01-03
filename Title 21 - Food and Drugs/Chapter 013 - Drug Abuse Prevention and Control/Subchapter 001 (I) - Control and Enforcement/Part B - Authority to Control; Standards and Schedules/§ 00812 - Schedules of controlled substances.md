@@ -268,7 +268,7 @@ Schedule I
 
 &emsp;&emsp;(iv) 1-(1-naphthylmethylene)indene by substitution of the 3-position of the indene ring, whether or not further substituted in the indene ring to any extent, whether or not substituted on the naphthyl ring to any extent.
 
-&emsp;&emsp;(v) 3-phenylacetylindole or 3-benzoylindole by substitution at the nitrogen atom of theindole ring, whether or not further substituted in the indole ring to any extent, whether or not substituted on the phenyl ring to any extent.
+&emsp;&emsp;(v) 3-phenylacetylindole or 3-benzoylindole by substitution at the nitrogen atom of the indole ring, whether or not further substituted in the indole ring to any extent, whether or not substituted on the phenyl ring to any extent.
 
 &emsp;(B) Such term includes—
 
@@ -362,7 +362,7 @@ Schedule II
 
 Schedule III
 
-(a) Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system:
+(a) Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains anyquantity of the following substances having a stimulant effect on the central nervous system:
 
 &emsp;(1) Amphetamine, its salts, optical isomers, and salts of its optical isomers.
 
@@ -528,7 +528,7 @@ In general.—The Congress finds that the abuse of illicit gamma hydroxybutyric 
 
 &emsp;"(2)
 
-Failure to issue order.—If the final order is not issued within the period specified in paragraph (1), gamma hydroxybutyric acid (together with its salts, isomers, and salts of isomers) is deemed to be scheduled under section 202(c) of the Controlled Substances Act \[21 U.S.C. 812(c)\] in accordance with the policies described in paragraph (1), as if the Attorney General had issued a final order in accordance with such paragraph."
+Failure to issue order.—If the final order is not issued within the period specified in paragraph (1), gamma hydroxybutyric acid (together with its salts, isomers, and salts of isomers) is deemed to be scheduled under section 202(c) of the Controlled Substances Act \[21 U.S.C. 812(c)\] in accordance with the policies described in paragraph (1), as if the AttorneyGeneral had issued a final order in accordance with such paragraph."
 
 #### Placement of Pipradrol and SPA in Schedule IV To Carry Out Obligation Under Convention on Psychotropic Substances
 

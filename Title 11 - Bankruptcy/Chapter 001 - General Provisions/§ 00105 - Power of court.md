@@ -34,7 +34,7 @@
 
 #### senate report no. 95–989
 
-Section 105 is derived from section 2a (15) of present law \[section 11(a)(15) of former title 11\], with two changes. First, the limitation on the power of a bankruptcy judge (the power to enjoin a court being reserved to the district judge) is removed as inconsistent with the increased powers and jurisdiction of the new bankruptcy court. Second, the bankruptcy judge is prohibited from appointing a receiver in a case under title 11 under any circumstances. The bankruptcy code has ample provision for the appointment of a trustee when needed. Appointment of a receiver would simply circumvent the established procedures.
+Section 105 is derived from section 2a (15) of present law \[section 11(a)(15) of former title 11\], with two changes. First, the limitation on the power of a bankruptcy judge (the power to enjoin a court being reserved to the district judge) is removed as inconsistent with the increased powers and jurisdiction of the new bankruptcy court. Second, the bankruptcy judge is prohibited from appointing a receiver in a case under title11 under any circumstances. The bankruptcy code has ample provision for the appointment of a trustee when needed. Appointment of a receiver would simply circumvent the established procedures.
 
 This section is also an authorization, as required under 28 U.S.C. 2283, for a court of the United States to stay the action of a State court. As such, <i>Toucey v. New York Life Insurance Company</i>, 314 U.S. 118 (1941), is overruled.
 

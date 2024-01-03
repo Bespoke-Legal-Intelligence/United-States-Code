@@ -18,7 +18,7 @@ In general.—Except as provided in the second sentence of this subsection, each
 
 &emsp;(2)
 
-Procedure for requesting reports.—Notwithstanding paragraph (1), a report may not be made available under this section to any person nor may any copy of the report be provided under this section to any person except upon a written application by such person stating—
+Procedure for requesting reports.—Notwithstanding paragraph (1), a report may not be made available under this section toany person nor may any copy of the report be provided under this section to any person except upon a written application by such person stating—
 
 &emsp;&emsp;(A) that person's name, occupation, and address;
 
@@ -108,13 +108,13 @@ Public availability.—Such report shall be made available to the public—
 
 &emsp;(3)
 
-Destruction of reports.—After the relevant time period identified under paragraph\(2), the report shall be destroyed unless needed in an ongoing investigation, except that in the case of an individual who filed the report pursuant to section 13103(b) of this title and was not subsequently confirmed by the Senate, or who filed the report pursuant to section 13103(c) of this title and was not subsequently elected, such reports shall be destroyed 1 year after the individual either is no longer under consideration by the Senate or is no longer a candidate for nomination or election to the Office of President, Vice President, or as a Member of Congress, unless needed in an ongoing investigation or inquiry.
+Destruction of reports.—After the relevant time period identified under paragraph (2), the report shall be destroyed unless needed in an ongoing investigation, except that in the case of an individual who filed the report pursuant to section 13103(b) of this title and was not subsequently confirmed by the Senate, or who filed the report pursuant to section 13103(c) of this title and was not subsequently elected, such reports shall be destroyed 1 year after the individual either is no longer under consideration by the Senate or is no longer a candidate for nomination or election to the Office of President, Vice President, or as a Member of Congress, unless needed in an ongoing investigation or inquiry.
 
 (Pub. L. 117–286, §3(c), Dec. 27, 2022, 136 Stat. 4289.)
 
 #### Amendments Not Shown in Text
 
-<i>This section was derived from section 105 of the Ethics in Government Act of 1978, Pub. L. 95–521, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 105 of Pub. L. 95–521 was amended by Pub. L. 117–125, §2(b), (c)(2), May 13, 2022, 136 Stat. 1205, 1206, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§3(c), 7, Dec. 27, 2022, 136 Stat. 4289, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 105 of Pub. L. 95–521 was amended as follows:</i>
+<i>This section was derived from section 105 of the Ethics in Government Act of 1978, Pub. L. 95–521, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 105 of Pub. L. 95–521 was amended by Pub. L. 117–125, §2(b), (c)(2), May 13, 2022, 136 Stat. 1205, 1206, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§3(c), 7, Dec. 27, 2022, 136 Stat. 4289, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out</i><i>in a Transitional and Savings Provisions note preceding section 101 of this title. Section 105 of Pub. L. 95–521 was amended as follows:</i>
 
 <i>(1) in subsection (a)(1), by striking "be revealing" and inserting "by revealing";</i>
 
@@ -166,6 +166,10 @@ In subsection (b)(3)(C) (matter before clause (i)), the words "Committee on Over
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Public, Online Disclosure of Financial Disclosure Forms
 
 Pub. L. 113–7, §1(a)(1), (2), Apr. 15, 2013, 127 Stat. 438, provided that:
@@ -190,7 +194,7 @@ Exempted officers and employees.—The officer and employees referred to in para
 
 #### Public Filing and Disclosure of Financial Disclosure Forms of Members of Congress and Congressional Staff
 
-Pub. L. 112–105, §8(a), (b), Apr. 4, 2012, 126 Stat. 295, as amended by Pub. L. 112–173, §1(1), Aug. 16, 2012, 126 Stat. 1310; Pub. L. 113–7, §1(b)(1), Apr. 15, 2013, 127 Stat. 438; Pub. L. 117–286, §4(c)(15), Dec. 27, 2022, 136 Stat. 4355, provided that:
+Pub. L. 112–105, §8(a), (b), Apr. 4, 2012, 126 Stat. 295, as amended by Pub. L. 112–173, §1(1), Aug. 16, 2012, 126 Stat.1310; Pub. L. 113–7, §1(b)(1), Apr. 15, 2013, 127 Stat. 438; Pub. L. 117–286, §4(c)(15), Dec. 27, 2022, 136 Stat. 4355, provided that:
 
 "(a)
 

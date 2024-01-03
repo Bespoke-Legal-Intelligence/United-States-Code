@@ -48,7 +48,7 @@ During the time in which a moratorium under this section is in effect, it is unl
 
 &emsp;(4) fail to return to the water immediately, with a minimum of injury, any fish to which the moratorium applies that are taken incidental to fishing for species other than those to which the moratorium applies, except as provided by regulations issued under subsection (d);
 
-&emsp;(5) refuse to permit any officer authorized to enforce the provisions of this chapter to board a fishing vessel subject to such person's control for purposes of conducting any search or inspection in connection with the enforcement of this chapter;
+&emsp;(5) refuse to permit any officer authorized to enforce the provisions of this chapter to board a fishing vessel subject to such person's control for purposes of conducting any search orinspection in connection with the enforcement of this chapter;
 
 &emsp;(6) forcibly assault, resist, oppose, impede, intimidate, or interfere with any such authorized officer in the conduct of any search or inspection under this chapter;
 
@@ -80,7 +80,7 @@ A person authorized by the Secretary or the Secretary of the department in which
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (h), is Pub. L.94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (h), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 

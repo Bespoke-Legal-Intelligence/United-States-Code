@@ -74,7 +74,7 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;&emsp;(i) a roadway or railroad embankment that is not integral to the performance of a flood damage reduction system;
 
-&emsp;&emsp;&emsp;(ii) a canal constructed completely within natural ground without any manmadestructure (such as an embankment or retaining wall to retain water or a case in which water is retained only by natural ground);
+&emsp;&emsp;&emsp;(ii) a canal constructed completely within natural ground without any manmade structure (such as an embankment or retaining wall to retain water or a case in which water is retained only by natural ground);
 
 &emsp;&emsp;&emsp;(iii) a canal regulated by a Federal or State agency in a manner that ensures that applicable Federal safety criteria are met;
 
@@ -190,7 +190,7 @@ Pub. L. 110–114, title IX, §9001(a), formerly §9001, Nov. 8, 2007, 121 Stat.
 
 #### Purposes of the Safety Program
 
-Pub. L. 110–114, title IX, §9001(b), as added Pub. L. 113–121, title III, §3016(a)(3), June 10, 2014, 128 Stat. 1289,provided that: "The purposes of this title \[enacting this chapter\] are—
+Pub. L. 110–114, title IX, §9001(b), as added Pub. L. 113–121, title III, §3016(a)(3), June 10, 2014, 128 Stat. 1289, provided that: "The purposes of this title \[enacting this chapter\] are—
 
 &emsp;"(1) to ensure that human lives and property that are protected by new and existing levees are safe;
 

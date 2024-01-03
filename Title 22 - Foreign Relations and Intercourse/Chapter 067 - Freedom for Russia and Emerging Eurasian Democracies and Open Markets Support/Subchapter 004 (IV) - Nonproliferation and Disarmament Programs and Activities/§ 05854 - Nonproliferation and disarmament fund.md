@@ -18,7 +18,7 @@ The President is authorized to promote bilateral and multilateral nonproliferati
 
 &emsp;(5) by establishing science and technology centers in the independent states for the purpose of engaging weapons scientists and engineers of the independent states (in particular those who were previously involved in the design and production of nuclear, biological, and chemical weapons) in productive, nonmilitary undertakings; and
 
-&emsp;(6) by establishing programs for facilitating the conversion of military technologies and capabilities and defense industries of the former Soviet Union into civilian activities.
+&emsp;(6) by establishing programs for facilitating the conversion of military technologies andcapabilities and defense industries of the former Soviet Union into civilian activities.
 
 #### (b) Funding priorities
 

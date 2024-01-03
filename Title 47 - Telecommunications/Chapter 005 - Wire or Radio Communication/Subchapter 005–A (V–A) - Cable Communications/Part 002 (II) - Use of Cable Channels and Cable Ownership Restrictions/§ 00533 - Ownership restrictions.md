@@ -4,7 +4,7 @@
 
 It shall be unlawful for a cable operator to hold a license for multichannel multipoint distribution service, or to offer satellite master antenna television service separate and apart from any franchised cable service, in any portion of the franchise area served by that cable operator's cable system. The Commission—
 
-&emsp;(1) shall waive the requirements of this paragraph for all existing multichannel multipointdistribution services and satellite master antenna television services which are owned by a cable operator on October 5, 1992;
+&emsp;(1) shall waive the requirements of this paragraph for all existing multichannel multipoint distribution services and satellite master antenna television services which are owned by a cable operator on October 5, 1992;
 
 &emsp;(2) may waive the requirements of this paragraph to the extent the Commission determines is necessary to ensure that all significant portions of a franchise area are able to obtain video programming; and
 
@@ -66,7 +66,7 @@ For purposes of this section, the term "media of mass communications" shall have
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–104, §202(i), redesignated par. (2) as subsec. (a) and subpars. (A) and (B) of par. (2) as pars. (1) and (2) of subsec. (a), respectively, added par. (3), and struck out former par. (1) which read as follows: "It shall be unlawful for any person to be acable operator if such person, directly or through 1 or more affiliates, owns or controls, the licensee of a television broadcast station and the predicted grade B contour of such station covers any portion of the community served by such operator's cable system."
+<b>1996</b>—Subsec. (a). Pub. L. 104–104, §202(i), redesignated par. (2) as subsec. (a) and subpars. (A) and (B) of par. (2) as pars. (1) and (2) of subsec. (a), respectively, added par. (3), and struck out former par. (1) which read as follows: "It shall be unlawful for any person to be a cable operator if such person, directly or through 1 or more affiliates, owns or controls, the licensee of a television broadcast station and the predicted grade B contour of such station covers any portion of the community served by such operator's cable system."
 
 Subsec. (b). Pub. L. 104–104, §302(b)(1), struck out subsec. (b), which related to common carriers, direct video programming, an exception for rural areas, and waiver.
 

@@ -204,7 +204,7 @@ Subsec. (b)(1). Pub. L. 100–647, §1006(f)(2), added par. (1) and struck out f
 
 &emsp;"(B) the amount which would be the taxable income of the corporation for such taxable year if such corporation were not an S corporation."
 
-Subsec. (b)(2). Pub. L. 100–647, §1006(f)(2), added par. (2) and struck out former par. (2) which read as follows: "Notwithstanding section 1371(b)(1), any net operating loss carryforward arising in a taxable year for which the corporation was a C corporation shall be allowed as a deduction against the lesser of the amounts referred to in subparagraph (A) or (B) of paragraph (1). For purposes of determining the amount of any such loss whichmay be carried to subsequent taxable years, the lesser of the amounts referred to in subparagraph (A) or (B) of paragraph (1) shall be treated as taxable income."
+Subsec. (b)(2). Pub. L. 100–647, §1006(f)(2), added par. (2) and struck out former par. (2) which read as follows: "Notwithstanding section 1371(b)(1), any net operating loss carryforward arising in a taxable year for which the corporation was a C corporation shall be allowed as a deduction against the lesser of the amounts referred to in subparagraph (A) or (B) of paragraph (1). For purposes of determining the amount of any such loss which may be carried to subsequent taxable years, the lesser of the amounts referred to in subparagraph (A) or (B) of paragraph (1) shall be treated as taxable income."
 
 Subsec. (b)(4)(B). Pub. L. 100–647, §1006(f)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the lower of the amounts specified in subparagraphs (A) and (B) of paragraph (1) shall be treated as the taxable income."
 

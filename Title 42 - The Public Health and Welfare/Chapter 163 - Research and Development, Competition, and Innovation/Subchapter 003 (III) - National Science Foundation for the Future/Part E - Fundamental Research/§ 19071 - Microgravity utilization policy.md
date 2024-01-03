@@ -6,7 +6,7 @@ It is the sense of Congress that space technology and the utilization of the mic
 
 #### (b) Policy
 
-To the extent appropriate during an award period, the Foundation shall facilitate access by recipients of Foundation awards to the microgravity environment, including in private sector platforms, for the development of science, engineering, and technology relevant to the award.
+To the extent appropriate during an award period, the Foundation shall facilitate access byrecipients of Foundation awards to the microgravity environment, including in private sector platforms, for the development of science, engineering, and technology relevant to the award.
 
 #### (c) Report
 

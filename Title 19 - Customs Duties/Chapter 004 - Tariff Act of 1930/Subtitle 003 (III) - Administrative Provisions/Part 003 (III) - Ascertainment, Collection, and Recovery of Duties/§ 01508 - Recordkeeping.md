@@ -68,7 +68,7 @@ Any—
 
 #### (A) Exports to USMCA countries
 
-&emsp;&emsp;A person covered by paragraph (2) who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to a USMCA country shall keep the records required by such paragraph relating to that certification of origin for a period of at least5 years after the date on which the certification is completed.
+&emsp;&emsp;A person covered by paragraph (2) who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to aUSMCA country shall keep the records required by such paragraph relating to that certification of origin for a period of at least 5 years after the date on which the certification is completed.
 
 #### (B) Exports under Canadian Agreement
 
@@ -166,7 +166,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (B) CAFTA–DR certification of origin
 
-&emsp;&emsp;The term "CAFTA–DR certification of origin" means the certification establishedunder article 4.16 of the Dominican Republic-Central America-United States Free Trade Agreement that a good qualifies as an originating good under such Agreement.
+&emsp;&emsp;The term "CAFTA–DR certification of origin" means the certification established under article 4.16 of the Dominican Republic-Central America-United States Free Trade Agreement that a good qualifies as an originating good under such Agreement.
 
 #### (2) Exports to CAFTA–DR countries
 
@@ -250,11 +250,11 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (B) CTPA certification of origin
 
-&emsp;&emsp;The term "CTPA certification of origin" means the certification established under article 4.15 of the United States–Colombia Trade Promotion Agreement that a good qualifies as an originating good under such Agreement.
+&emsp;&emsp;The term "CTPA certification of origin" means the certification established under article 4.15 of the United States–Colombia Trade Promotion Agreement that a goodqualifies as an originating good under such Agreement.
 
 #### (2) Exports to Colombia
 
-&emsp;Any person who completes and issues a CTPA certification of origin for a good exported from the United States shall make,keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+&emsp;Any person who completes and issues a CTPA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
 
 #### (3) Retention period
 
@@ -424,7 +424,7 @@ Amendment by Pub. L. 114–125 effective Feb. 24, 2016, and, except as otherwise
 
 #### Effective and Termination Dates of 2011 Amendment
 
-Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date theUnited States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
 
 Amendment by Pub. L. 112–42 effective Oct. 21, 2011, applicable with respect to Colombia on the date the United States–Colombia Trade Promotion Agreement enters into force (May 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
 

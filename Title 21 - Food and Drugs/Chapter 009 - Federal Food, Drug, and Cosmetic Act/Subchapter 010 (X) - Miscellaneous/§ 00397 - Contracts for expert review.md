@@ -20,7 +20,7 @@
 
 &emsp;A final decision by the Secretary on any such application or submission shall be made within the applicable prescribed time period for review of the matter as set forth in this chapter or in the Public Health Service Act (42 U.S.C. 201 et seq.).
 
-(June 25, 1938, ch. 675, §1007, formerly §907, as added Pub. L. 105–115, title IV, §415, Nov. 21, 1997, 111 Stat. 2377; renumbered §1007, Pub. L. 111–31, div. A, title I, §101(b)(2), June 22, 2009, 123 Stat. 1784.)
+(June 25, 1938, ch. 675, §1007, formerly §907, as added Pub. L. 105–115, title IV, §415, Nov. 21, 1997, 111 Stat. 2377; renumbered §1007, Pub. L. 111–31,div. A, title I, §101(b)(2), June 22, 2009, 123 Stat. 1784.)
 
 #### <b>Editorial Notes</b>
 

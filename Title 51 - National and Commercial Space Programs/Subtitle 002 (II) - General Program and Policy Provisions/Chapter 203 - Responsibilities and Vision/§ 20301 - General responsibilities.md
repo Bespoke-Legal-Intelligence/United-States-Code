@@ -56,6 +56,36 @@ Pub. L. 109–155, title I, §101(a), Dec. 30, 2005, 119 Stat. 2897.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Improved Process for Yield Determination; Report; Definitions
+
+Pub. L. 118–31, div. A, title XVI, §1601(b)–(d), Dec. 22, 2023, 137 Stat. 583, provided that:
+
+"(b)
+
+Improved Process for Yield Determination.—Not later than one year after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense, the Secretary of Transportation, and the Administrator of the National Aeronautics and Space Administration shall jointly establish a process through which scientifically-valid yield determinations can be assessed for space launch vehicles while in flight.
+
+"(c)
+
+Report.—Not later than 90 days after the completion of the LOX-Methane Assessment working group process, the Secretary of Defense, the Secretary of Transportation, and the Administrator of the National Aeronautics and Space Administration shall submit to the appropriate congressional committees a report that includes a description of the effects of the LOX-Methane Assessment on existing and future maximum credible event analyses and any resulting effects on commercial space launch, civil space activities, and national security.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate congressional committees' means the following:
+
+&emsp;&emsp;"(A) The congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
+
+&emsp;&emsp;"(B) The Committee on Commerce, Science, and Transportation of the Senate.
+
+&emsp;&emsp;"(C) The Committee on Science, Space, and Technology of the House of Representatives.
+
+&emsp;&emsp;"(D) The Committee on Transportation and Infrastructure of the House of Representatives.
+
+&emsp;"(2) The term 'LOX-Methane Assessment working group' means the ongoing interagency working group studying the explosive characteristics of liquid oxygen and methane and comprised of representatives from the Department of Defense, the Department of Transportation, and the National Aeronautics and Space Administration.
+
+&emsp;"(3) The term 'launch vehicle' has the meaning given such term in section 50902(11) of title 51, United States Code."
+
 #### Space Launch System Configurations
 
 Pub. L. 117–167, div. B, title VII, §10812, Aug. 9, 2022, 136 Stat. 1735, provided that:
@@ -416,7 +446,7 @@ Exploration Missions.—The Administrator shall continue development of—
 
 &emsp;"(1) an uncrewed exploration mission to demonstrate the capability of both the Space Launch System and Orion as an integrated system by 2018;
 
-&emsp;"(2) subject to applicable human rating processes and requirements, a crewed exploration mission to demonstrate the Space Launch System, including the Core Stage and Exploration Upper Stages, by 2021;
+&emsp;"(2) subject to applicable human rating processes and requirements, a crewed exploration mission todemonstrate the Space Launch System, including the Core Stage and Exploration Upper Stages, by 2021;
 
 &emsp;"(3) subsequent missions beginning with Artemis III at operational flight rate sufficient to maintain safety and operational readiness using the Space Launch System and Orion to extend into cis-lunar space and eventually to Mars; and
 
@@ -574,7 +604,7 @@ Sense of Congress on Space Technology.—It is the sense of Congress that space 
 
 "(b)
 
-Sense of Congress on Propulsion Technology.—It is the sense of Congress that advancingpropulsion technology would improve the efficiency of trips to Mars and could shorten travel time to Mars, reduce astronaut health risks, and reduce radiation exposure, consumables, and mass of materials required for the journey.
+Sense of Congress on Propulsion Technology.—It is the sense of Congress that advancing propulsion technology would improve the efficiency of trips to Mars and could shorten travel time to Mars, reduce astronaut health risks, and reduce radiation exposure, consumables, and mass of materials required for the journey.
 
 "(c)
 
@@ -656,7 +686,7 @@ Annual Report.—The Administrator shall include in the Administration's annual 
 
 Space Policy Directive–6, Dec. 16, 2020, 85 F.R. 82873, provided:
 
-Memorandum for the Vice President\[,\] the Secretary of State\[,\] the Secretary of Defense\[,\] the Secretary of Commerce\[,\] the Secretary of Transportation\[,\] the Secretary of Energy\[,\] the Director of the Office of Management and Budget\[,\] the Assistant to the President for National Security Affairs\[,\] the Administrator of the National Aeronautics and Space Administration\[,\] the Chairman of the Nuclear Regulatory Commission\[, and\] the Director of the Office of Science and Technology Policy
+Memorandum for the Vice President\[,\] the Secretary of State\[,\] the Secretary of Defense\[,\] the Secretary of Commerce\[,\] the Secretary of Transportation\[,\] theSecretary of Energy\[,\] the Director of the Office of Management and Budget\[,\] the Assistant to the President for National Security Affairs\[,\] the Administrator of the National Aeronautics and Space Administration\[,\] the Chairman of the Nuclear Regulatory Commission\[, and\] the Director of the Office of Science and Technology Policy
 
 Section 1. <i>Policy</i>. The ability to use space nuclear power and propulsion (SNPP) systems safely, securely, and sustainably is vital to maintaining and advancing United States dominance and strategic leadership in space. SNPP systems include radioisotope power systems (RPSs) and fission reactors used for power or propulsion in spacecraft, rovers, and other surface elements. SNPP systems can allow operation of such elements in environments in which solar and chemical power are inadequate. They can produce more power at lower mass and volume compared to other energy sources, thereby enabling persistent presence and operations. SNPP systems also can shorten transit times for crewed and robotic spacecraft, thereby reducing radiation exposure in harsh space environments.
 
@@ -664,7 +694,7 @@ National Security Presidential Memorandum–20 (NSPM–20) of August 20, 2019 (L
 
 Cooperation with commercial and international partners is critical to achieving America's objectives for space exploration. Presidential Policy Directive 4 of June 28, 2010 (National Space Policy), as amended by the Presidential Memorandum of December 11, 2017 (Reinvigorating America's Human Space Exploration Program) \[82 F.R. 58501\], established it as the policy of the United States to "\[l\]ead an innovative and sustainable program of exploration with commercial and international partners to enable human expansion across the solar system and to bring back to Earth new knowledge and opportunities."
 
-This memorandum establishes a national strategy to ensure the development and use of SNPP systems whenappropriate to enable and achieve the scientific, exploration, national security, and commercial objectives of the United States. In the context of this strategy only, the term "development" includes the full development process from design through testing and production, and the term "use" includes launch, operation, and disposition. This memorandum outlines high-level policy goals and a supporting roadmap that will advance the ability of the United States to use SNPP systems safely, securely, and sustainably. The execution of this strategy will be subject to relevant budgetary and regulatory processes and to the availability of appropriations.
+This memorandum establishes a national strategy to ensure the development and use of SNPP systems when appropriate to enable and achieve the scientific, exploration, national security, and commercial objectives of the United States. In the context of this strategy only, the term "development" includes the full development process from design through testing and production, and the term "use" includes launch, operation, and disposition. This memorandum outlines high-level policy goals and a supporting roadmap that will advance the ability of the United States to use SNPP systems safely, securely, and sustainably. The execution of this strategy will be subject to relevant budgetary and regulatory processes and to the availability of appropriations.
 
 Sec. 2. <i>Goals</i>. The United States will pursue goals for SNPP development and use that are both mission-enabling and ambitious in their substance and their timeline. These goals will enable a range of existing and future space missions, with the aim of accelerating achievement of key milestones, including in-space demonstration and use of new SNPP capabilities. This memorandum establishes the following such goals for the Nation:
 

@@ -42,7 +42,7 @@ The Director of National Intelligence shall make available to the National Intel
 
 #### (h) Support
 
-The heads of the elements of the intelligence community shall, as appropriate, furnish suchsupport to the National Intelligence Council, including the preparation of intelligence analyses, as may be required by the Director of National Intelligence.
+The heads of the elements of the intelligence community shall, as appropriate, furnish such support to the National Intelligence Council, including the preparation of intelligence analyses, as may be required by the Director of National Intelligence.
 
 #### (i) National Intelligence Council product
 

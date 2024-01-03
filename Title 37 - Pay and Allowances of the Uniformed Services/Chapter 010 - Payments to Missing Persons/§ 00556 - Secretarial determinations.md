@@ -24,7 +24,7 @@
 
 (d) The Secretary concerned, or his designee, may, when warranted by the circumstances, reconsider a determination made under this chapter, and change or modify it.
 
-(e) When the account of a member has been charged or debited with an allotment paid under this chapter, the amount so charged or debited shall be recredited to the account of the member if the Secretary concerned, or his designee, determines that the payment was induced by fraud or misrepresentation to which the member was not a party.
+(e) When the account of a member has been charged or debited with an allotment paid underthis chapter, the amount so charged or debited shall be recredited to the account of the member if the Secretary concerned, or his designee, determines that the payment was induced by fraud or misrepresentation to which the member was not a party.
 
 (f) Except an allotment for an unearned insurance premium, an allotment paid from pay and allowances of a member for the period he is entitled to pay and allowances under section 552 of this title may not be collected from the allottee as an overpayment when it was caused by delay in receiving evidence of death. An allotment payment for a period after the end of entitlement to pay and allowances under this chapter, or otherwise, which was caused by delay in receiving evidence of death, may not be collected from the allottee or charged against the pay of the deceased member.
 

@@ -56,13 +56,13 @@ In carrying out a construction project under this subchapter, an Indian Tribe sh
 
 &emsp;&emsp;(G) the agreement of the parties over who will bear any additional costs necessary to meet changes in scope, or errors or omissions in design and construction; and
 
-&emsp;&emsp;(H) the agreement of the Secretary to issue a certificate of occupancy, if requested by the Indian Tribe, based upon the review and verification by the Secretary, to the satisfaction of the Secretary, that the Indian Tribe has secured upon completion the review and approval of the plans and specifications, sufficiency of design, life safety, and code compliance by qualified, licensed, and independent architects and engineers.
+&emsp;&emsp;(H) the agreement of the Secretary to issue a certificate of occupancy, if requested by the Indian Tribe, based upon the reviewand verification by the Secretary, to the satisfaction of the Secretary, that the Indian Tribe has secured upon completion the review and approval of the plans and specifications, sufficiency of design, life safety, and code compliance by qualified, licensed, and independent architects and engineers.
 
 #### (f) Funding
 
 #### (1) In general
 
-&emsp;Funding appropriated for construction projects carried out under this subchaptershall be included in funding agreements as annual or semiannual advance payments at the option of the Indian Tribe.
+&emsp;Funding appropriated for construction projects carried out under this subchapter shall be included in funding agreements as annual or semiannual advance payments at the option of the Indian Tribe.
 
 #### (2) Advance payments
 

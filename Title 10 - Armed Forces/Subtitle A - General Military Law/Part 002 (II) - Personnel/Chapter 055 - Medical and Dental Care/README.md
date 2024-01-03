@@ -58,7 +58,7 @@
 | [1088\.](%C2%A7%2001088%20-%20Air%20evacuation%20patients%20furnished%20subsistence.md) | Air evacuation patients: furnished subsistence. |
 | [1089\.](%C2%A7%2001089%20-%20Defense%20of%20certain%20suits%20arising%20out%20of%20medical%20malpractice.md) | Defense of certain suits arising out of medical malpractice. |
 | [1090\.](%C2%A7%2001090%20-%20Identifying%20and%20treating%20drug%20and%20alcohol%20dependence.md) | Identifying and treating drug and alcohol dependence. |
-| [1090a.](%C2%A7%2001090a%20-%20Identifying%20and%20treating%20eating%20disorders.1.md) | Identifying and treating eating disorders. |
+| [1090a.](%C2%A7%2001090a%20-%20Identifying%20and%20treating%20eating%20disorders.md) | Identifying and treating eating disorders. |
 | [1090b.](%C2%A7%2001090b%20-%20Commanding%20officer%20and%20supervisor%20referrals%20of%20members%20for%20mental%20health%20evaluations.md) | Commanding officer and supervisor referrals of members for mental health evaluations. |
 | [1091\.](%C2%A7%2001091%20-%20Personal%20services%20contracts.md) | Personal services contracts. |
 | [1092\.](%C2%A7%2001092%20-%20Studies%20and%20demonstration%20projects%20relating%20to%20delivery%20of%20health%20and%20medical%20care.md) | Studies and demonstration projects relating to delivery of health and medical care. |
@@ -154,7 +154,7 @@ Pub. L. 108–106, title I, §1115(b), Nov. 6, 2003, 117 Stat. 1218, added item 
 
 <b>1996</b>—Pub. L. 104–201, div. A, title VII, §§701(a)(2)(B), 703(a)(2), 733(a)(2), Sept. 23, 1996, 110 Stat. 2587, 2590, 2598, substituted "Certain primary and preventive health care services" for "Primary and preventive health care services for women" in item 1074d and added items 1076c and 1079a.
 
-Pub. L. 104–106, div. A, title VII, §§705(a)(2), 735(d)(2), 738(b)(2), Feb. 10, 1996, 110 Stat. 373, 383, added item 1076b and substituted "Performance of abortions: restrictions" for "Restriction on use of funds for abortions" in item 1093 and "Defense Health Program Account" for "Military Health Care Account" in item 1100.
+Pub. L. 104–106, div. A, title VII, §§705(a)(2), 735(d)(2), 738(b)(2), Feb. 10, 1996, 110 Stat. 373, 383, added item1076b and substituted "Performance of abortions: restrictions" for "Restriction on use of funds for abortions" in item 1093 and "Defense Health Program Account" for "Military Health Care Account" in item 1100.
 
 <b>1993</b>—Pub. L. 103–160, div. A, title VII, §§701(a)(2), 712(a)(2), 714(b)(2), 716(a)(2), Nov. 30, 1993, 107 Stat. 1686, 1689, 1690, 1692, added item 1074d, substituted "Personal services contracts" for "Contracts for direct health care providers" in item 1091 and "Resource allocation methods: capitation or diagnosis-related groups" for "Diagnosis-related groups" in item 1101, added item 1105, and struck out former item 1105 "Issuance of nonavailability of health care statements".
 
@@ -257,7 +257,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01088 - Air evacuation patients furnished subsistence](%C2%A7%2001088%20-%20Air%20evacuation%20patients%20furnished%20subsistence.md)
 - [&sect; 01089 - Defense of certain suits arising out of medical malpractice](%C2%A7%2001089%20-%20Defense%20of%20certain%20suits%20arising%20out%20of%20medical%20malpractice.md)
 - [&sect; 01090 - Identifying and treating drug and alcohol dependence](%C2%A7%2001090%20-%20Identifying%20and%20treating%20drug%20and%20alcohol%20dependence.md)
-- [&sect; 01090a - Identifying and treating eating disorders.1](%C2%A7%2001090a%20-%20Identifying%20and%20treating%20eating%20disorders.1.md)
+- [&sect; 01090a - Identifying and treating eating disorders](%C2%A7%2001090a%20-%20Identifying%20and%20treating%20eating%20disorders.md)
 - [&sect; 01090b - Commanding officer and supervisor referrals of members for mental health evaluations](%C2%A7%2001090b%20-%20Commanding%20officer%20and%20supervisor%20referrals%20of%20members%20for%20mental%20health%20evaluations.md)
 - [&sect; 01091 - Personal services contracts](%C2%A7%2001091%20-%20Personal%20services%20contracts.md)
 - [&sect; 01092 - Studies and demonstration projects relating to delivery of health and medical care](%C2%A7%2001092%20-%20Studies%20and%20demonstration%20projects%20relating%20to%20delivery%20of%20health%20and%20medical%20care.md)

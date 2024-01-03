@@ -24,7 +24,7 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 &emsp;(ii) any amendment of the Hawaii Prepaid Health Care Act enacted after September 2, 1974, to the extent it provides for more than the effective administration of such Act as in effect on such date.
 
-(C) Notwithstanding subparagraph (A), parts 1 and 4 of this subtitle, and the preceding sections of this part to the extent they govern matters which are governed by the provisions of such parts 1 and 4, shall supersede the Hawaii Prepaid Health Care Act (as in effect on or after January14, 1983), but the Secretary may enter into cooperative arrangements under this paragraph and section 1136 of this title with officials of the State of Hawaii to assist them in effectuating the policies of provisions of such Act which are superseded by such parts 1 and 4 and the preceding sections of this part.
+(C) Notwithstanding subparagraph (A), parts 1 and 4 of this subtitle, and the preceding sections of this part to the extent they govern matters which are governed by the provisions of such parts 1 and 4, shall supersede the Hawaii Prepaid Health Care Act (as in effect on or after January 14, 1983), but the Secretary may enter into cooperative arrangements under this paragraph and section 1136 of this title with officials of the State of Hawaii to assist them in effectuating the policies of provisions of such Act which are superseded by such parts 1 and 4 and the preceding sections of this part.
 
 (6)(A) Notwithstanding any other provision of this section—
 
@@ -130,7 +130,7 @@ Subsec. (b)(6). Pub. L. 97–473, §302(b), added par. (6).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–200, title IV, §401(h)(2)(C), July 16, 1998, 112 Stat. 668, provided that: "The amendments made by subparagraph (A) \[amending this section and section 1169 of this title\] shall be effective as if included in the enactment of section 4301(c)(4)(A) of the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66\]."
+Pub. L. 105–200, title IV, §401(h)(2)(C), July 16, 1998, 112 Stat. 668, provided that: "The amendments made bysubparagraph (A) \[amending this section and section 1169 of this title\] shall be effective as if included in the enactment of section 4301(c)(4)(A) of the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66\]."
 
 #### Effective Date of 1996 Amendments
 

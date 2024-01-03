@@ -8,9 +8,9 @@ The following acts and the causing thereof are prohibited:
 
 (c) The receipt in interstate commerce of any food, drug, device, tobacco product, or cosmetic that is adulterated or misbranded, and the delivery or proffered delivery thereof for pay or otherwise.
 
-(d) The introduction or delivery for introduction into interstate commerce of any article in violation of section 344, 350d, 355, or 360bbb–3 of this title.
+(d) The introduction or delivery for introduction into interstate commerce of any article in violation of section 344, 350d, 355,,<sup>1</sup> 360bbb–3, or 364c of this title.
 
-(e) The refusal to permit access to or copying of any record as required by section 350a, 350c, 350f(j), 350e, 354, 360bbb–3, 373, 374(a), 379aa, or 379aa–1 of this title; or the failure to establish or maintain any record, or make any report, required under section 350a, 350c(b), 350f, 350e, 354, 355(i) or (k), 360b(a)(4)(C), 360b(j), (l) or (m), 360ccc–1(i), 360e(f), 360i, 360bbb–3, 379aa, 379aa–1, 387i, or 387t of this title or the refusal to permit access to or verification or copying of any such required record; or the violation of any recordkeeping requirement under section 2223 <sup>1</sup> of this title (except when such violation is committed by a farm).
+(e) The refusal to permit access to or copying of any record as required by section 350a, 350c, 350f(j), 350e, 354, 360bbb–3, 364a, 373, 374(a), 379aa, or 379aa–1 of this title; or the failure to establish or maintain any record, or make any report, required under section 350a, 350c(b), 350f, 350e, 354, 355(i) or (k), 360b(a)(4)(C), 360b(j), (l) or (m), 360ccc–1(i), 360e(f), 360i, 360bbb–3, 364a, 364g, 379aa, 379aa–1, 387i, or 387t of this title or the refusal to permit access to or verification or copying of any such required record; or the violation of any recordkeeping requirement under section 2223 <sup>2</sup> of this title (except when such violation is committed by a farm).
 
 (f) The refusal to permit entry or inspection as authorized by section 374 of this title.
 
@@ -18,13 +18,13 @@ The following acts and the causing thereof are prohibited:
 
 (h) The giving of a guaranty or undertaking referred to in section 333(c)(2) of this title, which guaranty or undertaking is false, except by a person who relied upon a guaranty or undertaking to the same effect signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the food, drug, device, tobacco product, or cosmetic; or the giving of a guaranty or undertaking referred to in section 333(c)(3) of this title, which guaranty or undertaking is false.
 
-(i)(1) Forging, counterfeiting, simulating, or falsely representing, or without proper authority using any mark, stamp, tag, label, or other identification device authorized or required by regulations promulgated under the provisions of section 344 or 379e of this title.
+(i)(1) Forging, counterfeiting, simulating, or falsely representing, or without proper authority using any mark, stamp, tag, label, or otheridentification device authorized or required by regulations promulgated under the provisions of section 344 or 379e of this title.
 
-(2) Making, selling, disposing of, or keeping in possession, control, or custody, or concealing any punch, die, plate, stone, or other thing designed to print, imprint, or reproduce the trademark, trade name, or other identifying mark, imprint, or device of another or any likeness of any of the foregoing upon any drug or containeror labeling thereof so as to render such drug a counterfeit drug.
+(2) Making, selling, disposing of, or keeping in possession, control, or custody, or concealing any punch, die, plate, stone, or other thing designed to print, imprint, or reproduce the trademark, trade name, or other identifying mark, imprint, or device of another or any likeness of any of the foregoing upon any drug or container or labeling thereof so as to render such drug a counterfeit drug.
 
 (3) The doing of any act which causes a drug to be a counterfeit drug, or the sale or dispensing, or the holding for sale or dispensing, of a counterfeit drug.
 
-(j) The using by any person to his own advantage, or revealing, other than to the Secretary or officers or employees of the Department, or to the courts when relevant in any judicial proceeding under this chapter, any information acquired under authority of section 344, 348, 350a, 350c, 355, 360, 360b, 360c, 360d, 360e, 360f, 360h, 360i, 360j, 360ccc, 360ccc–1, 360ccc–2, 374, 379, 379e, 387d, 387e, 387f, 387g, 387h, 387i, or 387t(b) of this title concerning any method or process which as a trade secret is entitled to protection; or the violating of section 346a(i)(2) of this title or any regulation issued under that section..<sup>2</sup> This paragraph does not authorize the withholding of information from either House of Congress or from, to the extent of matter within its jurisdiction, any committee or subcommittee of such committee or any joint committee of Congress or any subcommittee of such joint committee.
+(j) The using by any person to his own advantage, or revealing, other than to the Secretary or officers or employees of the Department, or to the courts when relevant in any judicial proceeding under this chapter, any information acquired under authority of section 344, 348, 350a, 350c, 355, 360, 360b, 360c, 360d, 360e, 360f, 360h, 360i, 360j, 360ccc, 360ccc–1, 360ccc–2, 374, 379, 379e, 387d, 387e, 387f, 387g, 387h, 387i, or 387t(b) of this title concerning any method or process which as a trade secret is entitled to protection; or the violating of section 346a(i)(2) of this title or any regulation issued under that section..<sup>1</sup>This paragraph does not authorize the withholding of information from either House of Congress or from, to the extent of matter within its jurisdiction, any committee or subcommittee of such committee or any joint committee of Congress or any subcommittee of such joint committee.
 
 (k) The alteration, mutilation, destruction, obliteration, or removal of the whole or any part of the labeling of, or the doing of any other act with respect to, a food, drug, device, tobacco product, or cosmetic, if such act is done while such article is held for sale (whether or not the first sale) after shipment in interstate commerce and results in such article being adulterated or misbranded.
 
@@ -60,9 +60,9 @@ The following acts and the causing thereof are prohibited:
 
 (v) The introduction or delivery for introduction into interstate commerce of a dietary supplement that is unsafe under section 350b of this title.
 
-(w) The making of a knowingly false statement in any statement, certificate of analysis, record, or report required or requested under section 381(d)(3) of this title; the failure to submit a certificate of analysis as required under such section; the failure to maintain records or to submit records or reports as required by such section; the release into interstate commerce of any article or portion thereof imported into the United States under such section or any finished product made from such article or portion, except for export in accordance with section 381(e) or 382 of this title, or with section 262(h) of title 42; or the failure to so export or to destroy such an article or portions thereof, or such a finished product.
+(w) The making of a knowingly false statement in any statement, certificate of analysis, record, or report required or requested under section 381(d)(3) of this title; the failure to submit a certificate of analysis as required under such section; the failure to maintain records or to submit records or reports as required by such section; the release into interstate commerce of any article or portion thereof imported into theUnited States under such section or any finished product made from such article or portion, except for export in accordance with section 381(e) or 382 of this title, or with section 262(h) of title 42; or the failure to so export or to destroy such an article or portions thereof, or such a finished product.
 
-(x) The falsification of a declaration of conformity submitted under section 360d(c) of thistitle or the failure or refusal to provide data or information requested by the Secretary under paragraph (3) of such section.
+(x) The falsification of a declaration of conformity submitted under section 360d(c) of this title or the failure or refusal to provide data or information requested by the Secretary under paragraph (3) of such section.
 
 (y) In the case of a drug, device, or food—
 
@@ -90,7 +90,7 @@ The following acts and the causing thereof are prohibited:
 
 (hh) The failure by a shipper, carrier by motor vehicle or rail vehicle, receiver, or any other person engaged in the transportation of food to comply with the sanitary transportation practices prescribed by the Secretary under section 350e of this title.
 
-(ii) The falsification of a report of a serious adverse event submitted to a responsible person (as defined under section 379aa or 379aa–1 of this title) or the falsification of a serious adverse event report (as defined under section 379aa or 379aa–1 of this title) submitted to the Secretary.
+(ii) The falsification of a report of a serious adverse event submitted to a responsible person (as defined under section 364, 379aa, or 379aa–1 of this title) or the falsification of a serious adverse event report (as defined under section 379aa or 379aa–1 of this title or required under section 364a(a) of this title) submitted to the Secretary.
 
 (jj)(1) The failure to submit the certification required by section 282(j)(5)(B) of title 42, or knowingly submitting a false certification under such section.
 
@@ -98,7 +98,7 @@ The following acts and the causing thereof are prohibited:
 
 (3) The submission of clinical trial information under subsection (j) of section 282 of title 42 that is false or misleading in any particular under paragraph (5)(D) of such subsection (j).
 
-(kk) The dissemination of a television advertisement without complying with section 353c <sup>1</sup> of this title.
+(kk) The dissemination of a television advertisement without complying with section 353c <sup>2</sup> of this title.
 
 (ll) The introduction or delivery for introduction into interstate commerce of any food to which has been added a drug approved under section 355 of this title, a biological product licensed under section 262 of title 42, or a drug or a biological product for which substantial clinical investigations have been instituted and for which the existence of such investigations has been made public, unless—
 
@@ -198,33 +198,11 @@ The following acts and the causing thereof are prohibited:
 
 &emsp;(2) to submit timely reports with respect to such product in accordance with section 356b(a)(2) of this title.
 
-(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281, §1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Pub. L. 85–929, §5, Sept. 6, 1958, 72 Stat. 1788; Pub. L. 86–618, title I, §§104, 105(a), July 12, 1960, 74 Stat. 403; Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, Oct. 10, 1962, 76 Stat. 784, 785, 788, 791, 795; Pub. L. 89–74, §§5, 9(c), July 15, 1965, 79 Stat. 232, 235; Pub. L. 90–399, §103, July 13, 1968, 82 Stat. 352; Pub. L. 90–639, §2(b), Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 92–387, §4(e), Aug. 16, 1972, 86 Stat. 562; Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), May 28, 1976, 90 Stat. 576, 580, 582; Pub. L. 96–359, §5,Sept. 26, 1980, 94 Stat. 1193; Pub. L. 99–570, title IV, §4014(b)(2), Oct. 27, 1986, 100 Stat. 3207–120; Pub. L. 100–293, §7(a), Apr. 22, 1988, 102 Stat. 99; Pub. L. 101–502, §5(j), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 101–508, title IV, §4755(c)(2), Nov. 5, 1990, 104 Stat. 1388–210; Pub. L. 102–300, §3(a)(1), June 16, 1992, 106 Stat. 238; Pub. L. 102–571, title I, §107(2), (3), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(c), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–396, §2(b)(1), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 103–417, §10(b), Oct. 25, 1994, 108 Stat. 4332; Pub. L. 104–134, title II, §2103, Apr. 26, 1996, 110 Stat. 1321–319; Pub. L. 104–170, title IV, §403, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 104–250, §5(d), Oct. 9, 1996, 110 Stat. 3156; Pub. L. 105–115, title I, §125(a)(2)(A), (C), (b)(2)(B), title II, §§204(b), 210(c), title IV, §§401(b), 421, Nov. 21, 1997, 111 Stat. 2325, 2336, 2345, 2364, 2380; Pub. L. 106–387, §1(a) \[title VII, §745(d)(1)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–39; Pub. L. 107–188, title III, §§303(b), 304(d), 305(b), 306(c), 307(b), 321(b)(2), 322(b), June 12, 2002, 116 Stat. 664, 666, 668, 670, 672, 676, 677; Pub. L. 107–250, title II, §201(d), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–136, div. A, title XVI, §1603(c), Nov. 24, 2003, 117 Stat. 1690; Pub. L. 108–173, title XI, §1121(b)(1), Dec. 8, 2003, 117 Stat. 2469; Pub. L. 108–214, §2(b)(2)(A), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(C), (D), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–59, title VII, §7202(d), (e), Aug. 10, 2005, 119 Stat. 1913; Pub. L. 109–462, §§2(c), 3(b), 4(a), Dec. 22, 2006, 120 Stat. 3472, 3475; Pub. L. 110–85, title VIII, §801(b)(1), title IX, §§901(d)(1), 912(a), title X, §1005(d), Sept. 27, 2007, 121 Stat. 920, 939, 951, 968; Pub. L. 111–31, div. A, title I, §103(b), June 22, 2009, 123 Stat. 1833; Pub. L. 111–353, title I, §§102(d)(1), 103(e), 105(c), 106(d), title II, §§204(j)(1), 206(d), 211(b), (c), title III, §301(b), Jan. 4, 2011, 124 Stat. 3889, 3898, 3904, 3906, 3937, 3943, 3953, 3954; Pub. L. 112–144, title VII, §§714(a), 715(a), July 9, 2012, 126 Stat. 1073, 1075; Pub. L. 113–54, title I, §103(a), title II, §206(a), Nov. 27, 2013, 127 Stat. 597, 639; Pub. L. 114–114, §2(a), Dec. 28, 2015, 129 Stat. 3129; Pub. L. 114–255, div. A, title III, §3101(a)(2)(A), Dec. 13, 2016, 130 Stat. 1152; Pub. L. 115–271, title III, §§3012(a), 3022(b)(1), Oct. 24, 2018, 132 Stat. 3935, 3938; Pub. L. 117–328, div. FF, title II, §2513(a), title III, §§3210(c), 3305(b), 3503(a)(1), (4)(A), (B), Dec. 29, 2022, 136 Stat. 5805, 5824, 5833, 5858.)
+(hhh) The failure to register or submit listing information in accordance with section 364c of this title.
 
-#### Amendment of Section
+(iii) The refusal or failure to follow an order under section 364g of this title.
 
-<i>Pub. L. 117–328, div. FF, title III, §3503(a)(1), (4)(A), (B), (b)(1), Dec. 29, 2022, 136 Stat. 5858, 5859, provided that, effective on the date that is 1 year after Dec. 29, 2022, this section is amended as follows:</i>
-
-<i>(1) in subsection (d), by striking "or 360bbb–3" and inserting ", 360bbb–3, or 364c";</i>
-
-<i>(2) in subsection (e)—</i>
-
-<i>(A) by striking "360bbb–3, 373" and inserting "360bbb–3, 364a, 373"; and</i>
-
-<i>(B) by striking "360bbb–3, 379aa" and inserting "360bbb–3, 364a, 364g, 379aa";</i>
-
-<i>(3) in subsection (ii)—</i>
-
-<i>(A) by striking "379aa or 379aa–1 of this title) or" and inserting "364, 379aa, or 379aa–1 of this title) or"; and</i>
-
-<i>(B) by inserting "or required under section 364a(a) of this title" after "report (as defined under section 379aa or 379aa–1 of this title)"; and</i>
-
-<i>(4) by adding at the end the following:</i>
-
-<i>(hhh) The failure to register or submit listing information in accordance with section 364c of this title.</i>
-
-<i>(iii) The refusal or failure to follow an order under section 364g of this title.</i>
-
-<i>See 2022 Amendment notes below.</i>
+(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281, §1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Pub. L. 85–929, §5, Sept. 6, 1958, 72 Stat. 1788; Pub. L. 86–618, title I, §§104, 105(a), July 12, 1960, 74 Stat. 403; Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, Oct. 10, 1962, 76 Stat. 784, 785, 788, 791, 795; Pub. L. 89–74, §§5, 9(c), July 15, 1965, 79 Stat. 232, 235; Pub. L. 90–399, §103, July 13, 1968, 82 Stat. 352; Pub. L. 90–639, §2(b), Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 92–387, §4(e), Aug. 16, 1972, 86 Stat. 562; Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), May 28, 1976, 90 Stat. 576, 580, 582; Pub. L. 96–359, §5, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 99–570, title IV, §4014(b)(2), Oct. 27, 1986, 100 Stat. 3207–120; Pub. L. 100–293, §7(a), Apr. 22, 1988, 102 Stat. 99; Pub. L. 101–502, §5(j), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 101–508, title IV, §4755(c)(2), Nov. 5, 1990, 104 Stat. 1388–210; Pub. L. 102–300, §3(a)(1), June 16, 1992, 106 Stat. 238; Pub. L. 102–571, title I, §107(2), (3), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(c), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–396, §2(b)(1), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 103–417, §10(b), Oct. 25, 1994, 108 Stat. 4332; Pub. L. 104–134, title II, §2103, Apr. 26, 1996, 110 Stat. 1321–319; Pub. L. 104–170, title IV, §403, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 104–250, §5(d), Oct. 9, 1996, 110 Stat. 3156; Pub. L. 105–115, title I, §125(a)(2)(A), (C), (b)(2)(B), title II, §§204(b), 210(c), title IV, §§401(b), 421, Nov. 21, 1997, 111 Stat. 2325, 2336, 2345, 2364, 2380; Pub. L. 106–387, §1(a) \[title VII, §745(d)(1)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–39; Pub. L. 107–188, title III, §§303(b), 304(d), 305(b), 306(c), 307(b), 321(b)(2), 322(b), June 12, 2002, 116 Stat. 664, 666, 668, 670, 672, 676, 677; Pub. L. 107–250, title II, §201(d), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–136, div. A, title XVI, §1603(c), Nov. 24, 2003, 117 Stat. 1690; Pub. L. 108–173, title XI, §1121(b)(1), Dec. 8, 2003, 117 Stat. 2469; Pub. L. 108–214, §2(b)(2)(A), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(C), (D), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–59, title VII, §7202(d), (e), Aug. 10, 2005, 119 Stat. 1913; Pub. L. 109–462, §§2(c), 3(b), 4(a), Dec. 22, 2006, 120 Stat. 3472, 3475; Pub. L. 110–85, title VIII, §801(b)(1), title IX, §§901(d)(1), 912(a), title X, §1005(d), Sept. 27, 2007, 121 Stat. 920, 939, 951, 968; Pub. L. 111–31, div. A, title I, §103(b), June 22, 2009, 123 Stat. 1833; Pub. L. 111–353, title I, §§102(d)(1), 103(e), 105(c), 106(d), title II, §§204(j)(1), 206(d), 211(b), (c), title III, §301(b), Jan. 4, 2011, 124 Stat. 3889, 3898, 3904, 3906, 3937, 3943, 3953, 3954; Pub. L. 112–144, title VII, §§714(a), 715(a), July 9, 2012, 126 Stat. 1073, 1075; Pub. L. 113–54, title I, §103(a), title II, §206(a), Nov. 27, 2013, 127 Stat. 597, 639; Pub. L. 114–114, §2(a), Dec. 28, 2015, 129 Stat. 3129; Pub. L. 114–255, div. A, title III, §3101(a)(2)(A), Dec. 13, 2016, 130 Stat. 1152; Pub. L. 115–271, title III, §§3012(a), 3022(b)(1), Oct. 24, 2018, 132 Stat. 3935, 3938; Pub. L. 117–328, div. FF, title II, §2513(a), title III, §§3210(c), 3305(b), 3503(a)(1), (4)(A), (B), Dec. 29, 2022, 136 Stat. 5805, 5824, 5833, 5858.)
 
 #### <b>Editorial Notes</b>
 
@@ -242,7 +220,7 @@ Subsec. (e). Pub. L. 117–328, §3503(a)(4)(A), substituted "360bbb–3, 364a, 
 
 Subsec. (q)(3). Pub. L. 117–328, §3305(b), added par. (3).
 
-Subsec. (ii). Pub. L. 117–328, §3503(a)(4)(B)(ii), which directed the insertion of "or required under section 364a(a) of this title" after "report (as defined under section 379aa or 379aa–1 of this title", was executed by making the insertion after "report (as defined under section 379aa or 379aa–1 of this title)", to reflect the probable intent of Congress.
+Subsec. (ii). Pub. L. 117–328, §3503(a)(4)(B)(ii), inserted "or required under section 364a(a) of this title" after "report (as defined under section 379aa or 379aa–1 of this title".
 
 Pub. L. 117–328, §3503(a)(4)(B)(i), substituted "364, 379aa, or 379aa–1 of this title) or" for "379aa or 379aa–1 of this title) or".
 
@@ -286,7 +264,7 @@ Par. (zz). Pub. L. 111–353, §301(b), added par. (zz).
 
 <b>2009</b>—Pars. (a) to (c). Pub. L. 111–31, §103(b)(1)–(3), inserted "tobacco product," after "device,".
 
-Par. (e). Pub. L. 111–31, §103(b)(4)(B), which directed substitution of "379aa–1, 387i, or 387t of this title or the refusal to permit access to" for "or 379aa–1 of this title or the refusal to permit access to", was executed by making the substitution for "or 379aa–1 of this title, or the refusal to permit access to", to reflect the probable intent of Congress.
+Par. (e). Pub. L. 111–31, §103(b)(4)(B), which directed substitution of "379aa–1, 387i, or 387t of this title or the refusal to permit access to" for "or 379aa–1 of this title or the refusal to permit access to", was executed bymaking the substitution for "or 379aa–1 of this title, or the refusal to permit access to", to reflect the probable intent of Congress.
 
 Pub. L. 111–31, §103(b)(4)(A), struck out period after "360ccc–1(i)".
 
@@ -398,7 +376,7 @@ Par. (j). Pub. L. 101–508 inserted at end "This paragraph does not authorize t
 
 <b>1988</b>—Par. (t). Pub. L. 100–293 added par. (t).
 
-<b>1986</b>—Par. (s). Pub. L. 99–570 amended par. (s) generally. Prior to amendment, par. (s) read as follows: "The failure to provide the notice required by section 350a(b) or 350a(c), the failure to make the reports required by section 350a(d)(1)(B), or the failure to meet the requirements prescribed under section 350a(d)(2)."
+<b>1986</b>—Par. (s). Pub. L. 99–570 amended par. (s) generally. Prior to amendment, par. (s) read as follows:"The failure to provide the notice required by section 350a(b) or 350a(c), the failure to make the reports required by section 350a(d)(1)(B), or the failure to meet the requirements prescribed under section 350a(d)(2)."
 
 <b>1980</b>—Par. (e). Pub. L. 96–359, §5(b), inserted reference to section 350a of this title in two places.
 
@@ -580,7 +558,7 @@ Amendment by Pub. L. 89–74 effective Feb. 1, 1966, see section 11 of Pub. L. 8
 
 #### Effective Date of 1962 Amendment
 
-Amendment by sections 103(c) and 106(c) of Pub. L. 87–781 effective on first day of seventh calendar monthfollowing Oct. 1962, and amendment by section 104(e)(1) of Pub. L. 87–781 effective Oct. 10, 1962, see section 107 of Pub. L. 87–781, set out as a note under section 321 of this title.
+Amendment by sections 103(c) and 106(c) of Pub. L. 87–781 effective on first day of seventh calendar month following Oct. 1962, and amendment by section 104(e)(1) of Pub. L. 87–781 effective Oct. 10, 1962, see section 107 of Pub. L. 87–781, set out as a note under section 321 of this title.
 
 Pub. L. 87–781, title I, §114(b), Oct. 10, 1962, 76 Stat. 791, provided that: "This section \[amending this section\] shall take effect on the first day of the seventh calendar month following the month in which this Act is enacted \[October 1962\]."
 
@@ -640,11 +618,11 @@ Pub. L. 111–31, div. A, title I, §103(p), June 22, 2009, 123 Stat. 1838, prov
 
 #### Construction of 2002 Amendments
 
-Pub. L. 107–188, title III, §315, June 12, 2002, 116 Stat. 675, provided that: "Nothing in this title \[enacting sections 350c, 350d, 398, 399, and 679c of this title, sections 3353, 3354, 8319, and 8320 of Title 7, Agriculture, and section 247b–20 of Title 42, The Public Health and Welfare, amending this section, sections 334, 335a, 342, 343, 360, 372, 374, and 381 of this title, and section 43 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section and sections341, 350c, 350d, and 381 of this title\], or an amendment made by this title, shall be construed to alter the jurisdiction between the Secretaries of Agriculture and of Health and Human Services, under applicable statutes and regulations."
+Pub. L. 107–188, title III, §315, June 12, 2002, 116 Stat. 675, provided that: "Nothing in this title \[enacting sections 350c, 350d, 398, 399, and 679c of this title, sections 3353, 3354, 8319, and 8320 of Title 7, Agriculture, and section 247b–20 of Title 42, The Public Health and Welfare, amending this section, sections 334, 335a, 342, 343, 360, 372, 374, and 381 of this title, and section 43 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section and sections 341, 350c, 350d, and 381 of this title\], or an amendment made by this title, shall be construed to alter the jurisdiction between the Secretaries of Agriculture and of Health and Human Services, under applicable statutes and regulations."
 
 #### Preemption of State Laws
 
-Pub. L. 114–114, §2(c), Dec. 28, 2015, 129 Stat. 3129, provided that: "No State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect restrictions with respect to the manufacture or introduction or delivery for introduction into interstate commerce of rinse-off cosmetics containing plastic microbeads (as defined in section 301(ddd) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a)) that are not identical to the restrictions under such section 301(ddd) that have begun to apply under subsection (b) \[set out as a note above\]."
+Pub. L. 114–114, §2(c), Dec. 28, 2015, 129 Stat. 3129, provided that: "No State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect restrictions with respect to the manufacture or introduction or delivery for introduction into interstate commerce of rinse-off cosmetics containing plastic microbeads (as defined in section 301(ddd) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a)) that are not identical to therestrictions under such section 301(ddd) that have begun to apply under subsection (b) \[set out as a note above\]."
 
 #### <b>Executive Documents</b>
 
@@ -652,7 +630,7 @@ Pub. L. 114–114, §2(c), Dec. 28, 2015, 129 Stat. 3129, provided that: "No Sta
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

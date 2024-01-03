@@ -30,7 +30,7 @@
 
 <b>1997</b>—Pub. L. 105–85, div. A, title III, §383(b), Nov. 18, 1997, 111 Stat. 1711, added item 195.
 
-<b>1986</b>—Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1019, inserted "AND DEPARTMENT OF DEFENSE FIELD ACTIVITIES" in chapter heading, added subchapter analysis and subchapter I analysis, and struck out former chapter analysis consisting of item 191 "Unauthorized use of Defense Intelligence Agency name, initials, or seal".
+<b>1986</b>—Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1019, inserted "AND DEPARTMENT OF DEFENSE FIELD ACTIVITIES" in chapter heading, added subchapter analysis and subchapter I analysis, and struck out former chapter analysis consisting of item191 "Unauthorized use of Defense Intelligence Agency name, initials, or seal".
 
 <b>1985</b>—Pub. L. 99–145, title XIII, §1302(a)(2), Nov. 8, 1985, 99 Stat. 737, redesignated item 192 "Benefits for certain employees of the Defense Intelligence Agency" as item 1605 and transferred it to chapter 83 of this title.
 

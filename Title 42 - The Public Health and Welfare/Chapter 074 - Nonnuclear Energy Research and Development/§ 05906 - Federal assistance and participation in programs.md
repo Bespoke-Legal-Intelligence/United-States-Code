@@ -38,7 +38,7 @@ Joint Federal-industry corporations proposed for congressional authorization pur
 
 &emsp;(5) The estimated Federal share of the construction, operation, and maintenance cost over the life of each corporation shall be determined in order to facilitate a single congressional authorization of the full amount at the time of establishment of the corporation.
 
-&emsp;(6) The Federal share of the cost of each such corporation shall reflect (A) the technical and economic risk of the venture, (B) the probability of any financial return to the non-Federal participants arising from the venture, (C) the financial capability of the potentialnon-Federal participants, and (D) such other factors as the Secretary may set forth in proposing the corporation: <i>Provided</i>, That in no instance shall the Federal share exceed 90 per centum of the cost.
+&emsp;(6) The Federal share of the cost of each such corporation shall reflect (A) the technical and economic risk of the venture, (B) the probability of any financial return to the non-Federal participants arising from the venture, (C) the financial capability of the potential non-Federal participants, and (D) such other factors as the Secretary may set forth in proposing the corporation: <i>Provided</i>, That in no instance shall the Federal share exceed 90 per centum of the cost.
 
 &emsp;(7) No such corporation shall be established unless previously authorized by specific legislation enacted by the Congress.
 
@@ -68,7 +68,7 @@ Nothing in this section shall preclude Federal participation in, and support for
 
 #### Codification
 
-Section 5919 of this title, referred to in subsec. (a)(7), was in the original "section 19" and has been editorially translated as section 5919 of this title which related to loan guarantees prior to repeal by Pub. L. 109–58, title X, §1009(b)(12), Aug. 8, 2005, 119 Stat. 936, to reflect the probable intent of Congress, notwithstanding enactment of another section 19 which was classified to section 5918 of this title and related to organizational conflicts prior to repeal by Pub. L. 104–106, div. D, title XLIII, §4304(b)(5), Feb. 10, 1996, 110 Stat. 664.
+Section 5919 of this title, referred to in subsec. (a)(7), was in the original "section 19" and has been editorially translated as section 5919 of this title which related to loan guarantees prior to repeal by Pub. L. 109–58, title X, §1009(b)(12), Aug. 8, 2005, 119 Stat. 936, to reflect the probable intent of Congress, notwithstanding enactment of another section 19 which was classified to section 5918 of this title and related to organizational conflicts prior to repeal by Pub. L. 104–106,div. D, title XLIII, §4304(b)(5), Feb. 10, 1996, 110 Stat. 664.
 
 #### Amendments
 
@@ -90,7 +90,7 @@ Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to a
 
 #### Price-Support Program To Demonstrate Municipal Solid Waste Reprocessing for Production of Fuels and Energy Intensive Products
 
-Pub. L. 95–39, title I, §107, June 3, 1977, 91 Stat. 185, authorized Administrator, subject to the appropriation of funds pursuant to section 101(7)(I) of Pub. L. 95–39, to establish and implement, under subsection (a)(4) of this section and in accordance with subsection (c) of this section, a price-support program to demonstrate municipal solid waste reprocessing for production of fuels and energy intensive products, with Administrator, prior to entering into any contract for such demonstration, to submit to Congress a full and complete report on the proposed commercial demonstration facility andthe necessary project demonstration guarantees, and provided that such contract could not be finalized prior to the expiration of ninety calendar days (not including any day on which either House of Congress was not in session because of an adjournment of more than three calendar days to a day certain) from the date on which such report was received.
+Pub. L. 95–39, title I, §107, June 3, 1977, 91 Stat. 185, authorized Administrator, subject to the appropriation of funds pursuant to section 101(7)(I) of Pub. L. 95–39, to establish and implement, under subsection (a)(4) of this section and in accordance with subsection (c) of this section, a price-support program to demonstrate municipal solid waste reprocessing for production of fuels and energy intensive products, with Administrator, prior to entering into any contract for such demonstration, to submit to Congress a full and complete report on the proposed commercial demonstration facility and the necessary project demonstration guarantees, and provided that such contract could not be finalized prior to the expiration of ninety calendar days (not including any day on which either House of Congress was not in session because of an adjournment of more than three calendar days to a day certain) from the date on which such report was received.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

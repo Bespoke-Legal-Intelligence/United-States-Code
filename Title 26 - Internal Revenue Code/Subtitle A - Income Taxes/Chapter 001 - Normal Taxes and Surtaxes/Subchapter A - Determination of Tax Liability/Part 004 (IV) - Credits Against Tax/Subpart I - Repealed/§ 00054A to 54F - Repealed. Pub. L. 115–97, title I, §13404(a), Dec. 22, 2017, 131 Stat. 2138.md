@@ -1,6 +1,6 @@
 ### \[§§54A to 54F. Repealed. Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138\]
 
-Section 54A, added Pub. L. 110–234, title XV, §15316(a), May 22, 2008, 122 Stat. 1505, and Pub. L. 110–246, §4(a), title XV, §15316(a), June 18, 2008, 122 Stat. 1664, 2267; amended Pub. L. 110–343, div. B, title I, §107(b)(1), (2),title III, §301(b)(1), (2), div. C, title III, §313(b)(1), (2), Oct. 3, 2008, 122 Stat. 3818, 3819, 3843, 3844, 3872; Pub. L. 111–5, div. B, title I, §§1521(b)(1), (2), 1531(c)(2), 1541(b)(2), Feb. 17, 2009, 123 Stat. 357, 360, 362; Pub. L. 113–295, div. A, title II, §220(e), Dec. 19, 2014, 128 Stat. 4036, related to credit to holders of qualified tax credit bonds.
+Section 54A, added Pub. L. 110–234, title XV, §15316(a), May 22, 2008, 122 Stat. 1505, and Pub. L. 110–246, §4(a), title XV, §15316(a), June 18, 2008, 122 Stat. 1664, 2267; amended Pub. L. 110–343, div. B, title I, §107(b)(1), (2), title III, §301(b)(1), (2), div. C, title III, §313(b)(1), (2), Oct. 3, 2008, 122 Stat. 3818, 3819, 3843, 3844, 3872; Pub. L. 111–5, div. B, title I, §§1521(b)(1), (2), 1531(c)(2), 1541(b)(2), Feb. 17, 2009, 123 Stat. 357, 360, 362; Pub. L. 113–295, div. A, title II, §220(e), Dec. 19, 2014, 128 Stat. 4036, related to credit to holders of qualified tax credit bonds.
 
 Section 54B, added Pub. L. 110–234, title XV, §15316(a), May 22, 2008, 122 Stat. 1509, and Pub. L. 110–246, §4(a), title XV, §15316(a), June 18, 2008, 122 Stat. 1664, 2271, related to qualified forestry conservation bonds.
 

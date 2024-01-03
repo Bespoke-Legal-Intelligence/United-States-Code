@@ -4,7 +4,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| \[55301. | Renumbered.\] |
+| [55301\.](Subchapter%20001%20%28I%29%20-%20Government%20Impelled%20Transportation/%C2%A7%2055301%20-%20Report%20on%20administration%20of%20programs%20by%20other%20Federal%20departments%20and%20agencies.md) | Report on administration of programs by other Federal departments and agencies. |
 | [55302\.](Subchapter%20001%20%28I%29%20-%20Government%20Impelled%20Transportation/%C2%A7%2055302%20-%20Transportation%20of%20United%20States%20Government%20personnel.md) | Transportation of United States Government personnel. |
 | [55303\.](Subchapter%20001%20%28I%29%20-%20Government%20Impelled%20Transportation/%C2%A7%2055303%20-%20Motor%20vehicles%20owned%20by%20United%20States%20Government%20personnel.md) | Motor vehicles owned by United States Government personnel. |
 | [55304\.](Subchapter%20001%20%28I%29%20-%20Government%20Impelled%20Transportation/%C2%A7%2055304%20-%20Exports%20financed%20by%20the%20United%20States%20Government.md) | Exports financed by the United States Government. |
@@ -42,6 +42,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. C, title XXXV, §3521(a)(2), Dec. 22, 2023, 137 Stat. 819, added item 55301.
 
 <b>2021</b>—Pub. L. 116–283, div. A, title X, §1024(b)(1)(B)(i), Jan. 1, 2021, 134 Stat. 3842, which directed amendment of the analysis for subchapter I of this chapter by striking out item 55301, was executed by striking item 55301 "Priority loading for coal" from this analysis to reflect the probable intent of Congress.
 

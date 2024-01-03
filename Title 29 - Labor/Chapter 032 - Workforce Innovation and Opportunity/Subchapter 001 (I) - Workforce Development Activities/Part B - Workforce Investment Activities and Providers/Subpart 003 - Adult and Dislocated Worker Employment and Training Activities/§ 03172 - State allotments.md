@@ -18,7 +18,7 @@ The Secretary shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;From the amount made available under subsection (a)(1) for a fiscal year, the Secretary shall reserve not more than ¼ of 1 percent of such amount to provide assistance to the outlying areas.
+&emsp;&emsp;&emsp;From the amount made available under subsection (a)(1) for a fiscal year, the Secretary shall reserve not more than ¼ of 1percent of such amount to provide assistance to the outlying areas.
 
 #### (ii) Applicability of additional requirements
 
@@ -150,7 +150,7 @@ The Secretary shall—
 
 #### (II) Maximum percentage
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (I), the Secretary shall ensure that no State shall receivean allotment percentage for a fiscal year that is more than 130 percent of the allotment percentage of the State for the preceding fiscal year.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (I), the Secretary shall ensure that no State shall receive an allotment percentage for a fiscal year that is more than 130 percent of the allotment percentage of the State for the preceding fiscal year.
 
 #### (iv) Definitions
 

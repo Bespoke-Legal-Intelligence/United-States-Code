@@ -74,7 +74,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;&emsp;(i) its total amount of costs that the organization incurred in providing benefits covered under the original medicare fee-for-service program option for all enrollees under the plan in the region in the year and the portion of such costs that is attributable to administrative expenses described in subparagraph (C); and
 
-&emsp;&emsp;&emsp;(ii) its total amount of costs that the organization incurred in providing rebatableintegrated benefits (as defined in subparagraph (D)) and with respect to such benefits the portion of such costs that is attributable to administrative expenses described in subparagraph (C) and not described in clause (i) of this subparagraph.
+&emsp;&emsp;&emsp;(ii) its total amount of costs that the organization incurred in providing rebatable integrated benefits (as defined in subparagraph (D)) and with respect to such benefits the portion of such costs that is attributable to administrative expenses described in subparagraph (C) and not described in clause (i) of this subparagraph.
 
 #### (C) Allowable costs defined
 
@@ -144,7 +144,7 @@ An MA regional plan shall include the following:
 
 #### (B) Restriction on use of information
 
-&emsp;&emsp;Information disclosed or obtained pursuant to the provisions of this subsection maybe used by officers, employees, and contractors of the Department of Health and Human Services only for the purposes of, and to the extent necessary in, carrying out this subsection.
+&emsp;&emsp;Information disclosed or obtained pursuant to the provisions of this subsection may be used by officers, employees, and contractors of the Department of Health and Human Services only for the purposes of, and to the extent necessary in, carrying out this subsection.
 
 #### (d) Organizational and financial requirements
 
@@ -156,7 +156,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;(B) with respect to each other State in such region in which it does not meet requirements, it demonstrates to the satisfaction of the Secretary that it has filed the necessary application to meet such requirements,
 
-> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as the Secretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
+> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as theSecretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
 
 #### (2) Selection of appropriate State
 
@@ -242,7 +242,7 @@ An MA regional plan shall include the following:
 
 #### (iii) Equal division among multiple plans in year in which plans are first available
 
-&emsp;&emsp;&emsp;In the case of an MA region in the first year in which any MA regional plan is offered, if more than one MA regional plan is offered in such year, the factor described in this subparagraph for a plan shall (as specified by the Secretary) be equal to—
+&emsp;&emsp;&emsp;In the case of an MA region in the first year in which any MA regional plan is offered, if more than one MA regional plan is offered in such year, the factor describedin this subparagraph for a plan shall (as specified by the Secretary) be equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) 1 divided by the number of such plans offered in such year; or
 

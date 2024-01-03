@@ -62,7 +62,7 @@ The Under Secretary shall, whenever the Under Secretary determines such action i
 
 #### (5) Reports
 
-&emsp;Each year, the Under Secretary shall submit to all applicable committees of Congress, and as part of the annual budget submission of the President under section 1105(a) of title 31, a report evaluating the awarding and use of grants under this subsection during the fiscal year immediately preceding the fiscal year in which the report is submitted, which shall include, with respect to the fiscal year covered by the report—
+&emsp;Each year, the Under Secretary shall submit to all applicable committees of Congress, and as part of the annual budget submission of thePresident under section 1105(a) of title 31, a report evaluating the awarding and use of grants under this subsection during the fiscal year immediately preceding the fiscal year in which the report is submitted, which shall include, with respect to the fiscal year covered by the report—
 
 &emsp;&emsp;(A) a description of each curriculum developed and implemented under each grant awarded under this section;
 

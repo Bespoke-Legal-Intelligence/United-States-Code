@@ -86,6 +86,110 @@ Amendment by Pub. L. 117–81 applicable with respect to appointments made on or
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
+#### Strategy for Army Tactical Wheeled Vehicle Program
+
+Pub. L. 118–31, div. A, title I, §112, Dec. 22, 2023, 137 Stat. 166, provided that:
+
+"(a)
+
+Strategy Required.—In the budget justification materials submitted in support of the budget of the Department of Defense (as submitted with the budget of the President under section 1105(a) of title 31, United States Code) for each of fiscal years 2025, 2030, and 2035, the Secretary of the Army shall include a report on the strategy of the Army for tactical wheeled vehicles.
+
+"(b)
+
+Requirements for Strategy.—Each strategy required by subsection (a) shall—
+
+&emsp;"(1) align with the applicable national defense strategy under section 113(g) of title 10, United States Code, and applicable policies;
+
+&emsp;"(2) be designed so that the force of tactical wheeled vehicles provided under the strategy supports the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 3043); and
+
+&emsp;"(3) define capabilities and capacity requirements across the entire fleet of tactical wheeled vehicles, including—
+
+&emsp;&emsp;"(A) light, medium, and heavy tactical wheeled vehicles; and
+
+&emsp;&emsp;"(B) associated trailer and support equipment.
+
+"(c)
+
+Strategy Elements.—Each strategy required by subsection (a) shall include the following:
+
+&emsp;"(1) A detailed program for the construction of light, medium, and heavy tactical wheeled vehicles for the Army over the period of five fiscal years following the date of the strategy.
+
+&emsp;"(2) A description of the necessary force structure and capabilities of tactical wheeled vehicles to meet the requirements of the national security strategy described in subsection (b)(2).
+
+&emsp;"(3) The estimated levels of annual funding, by vehicle class, in both graphical and tabular form, necessary to carry out the program described in paragraph (1), together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
+
+&emsp;"(4) The estimated total cost of construction for each vehicle class used to determine the estimated levels of annual funding described in paragraph (3).
+
+"(d)
+
+Considerations.—In developing each strategy required by subsection (a), the Secretary of the Army shall consider the following objectives and factors:
+
+&emsp;"(1) Objectives relating to protection, fleet operations, mission command, mobility, and the industrial base.
+
+&emsp;"(2) Technological advances that are expected to increase efficiency of and reduce demand for tactical wheeled vehicles.
+
+&emsp;"(3) Technological advances that allow for the operation of tactical wheeled vehicles in a variety of climate and geographic conditions.
+
+&emsp;"(4) Existing commercial technologies such as vehicle electrification, autonomous capabilities, and predictive maintenance, among others.
+
+&emsp;"(5) The capabilities of autonomous equivalents to tactical wheeled vehicles.
+
+"(e)
+
+Briefing Requirements.—Not later than 15 days after each budget submission described in subsection (a), in conjunction with the submission of each strategy required by such subsection, the Secretary of the Army shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing that addresses the investment needed for each platform of tactical wheeled vehicle of the Army across the period covered by the most recent future-years defense program submitted to Congress under section 221 of title 10, United States Code (as of the date of the briefing)."
+
+#### Increased Fitness Standards for Army Close Combat Force Military Occupational Specialties
+
+Pub. L. 118–31, div. A, title V, §577, Dec. 22, 2023, 137 Stat. 278, provided that:
+
+"(a)
+
+Implementation.—Not later than 18 months after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of the Army shall implement increased minimum fitness standards as part of the Army Combat Fitness Test for all soldiers of the followingmilitary occupational specialties or areas of concentration:
+
+&emsp;"(1) 11A.
+
+&emsp;"(2) 11B.
+
+&emsp;"(3) 11C.
+
+&emsp;"(4) 11Z.
+
+&emsp;"(5) 12A.
+
+&emsp;"(6) 12B.
+
+&emsp;"(7) 13A.
+
+&emsp;"(8) 13F.
+
+&emsp;"(9) 18A.
+
+&emsp;"(10) 18B.
+
+&emsp;"(11) 18C.
+
+&emsp;"(12) 18D.
+
+&emsp;"(13) 18E.
+
+&emsp;"(14) 18F.
+
+&emsp;"(15) 18Z.
+
+&emsp;"(16) 19A.
+
+&emsp;"(17) 19C.
+
+&emsp;"(18) 19D.
+
+&emsp;"(19) 19K.
+
+&emsp;"(20) 19Z.
+
+"(b)
+
+Briefing.—Not later than 365 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of the Army provide \[sic\] a briefing to the Committees on Armed Services of the Senate and House of Representatives describing the methodology used to establish standards under subsection (a)."
+
 #### Pilot Programs for Tactical Vehicle Safety Data Collection
 
 Pub. L. 117–263, div. A, title III, §389, Dec. 23, 2022, 136 Stat. 2547, provided that:
@@ -182,7 +286,7 @@ Access.—
 
 &emsp;"(1)
 
-In general.—Not later than one year after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of the Army shall ensure, subject to paragraph (2), that a member of the reserve components of the Army may access the Tour of Duty system using a personal internet-enabled device.
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of the Army shall ensure, subject to paragraph (2), that a member of the reserve componentsof the Army may access the Tour of Duty system using a personal internet-enabled device.
 
 &emsp;"(2)
 
@@ -190,7 +294,7 @@ Exception.—The Secretary of the Army may restrict access to the Tour of Duty s
 
 "(b)
 
-Tour of Duty System Defined.—In this Act \[Pub. L. 117–81, see Tables for classification\], the term 'Tour of Duty system' means the online system of listings for opportunities to serve on active duty for members of the reserve components of the Army andthrough which such a member may apply for such an opportunity, known as 'Tour of Duty', or any successor to such system."
+Tour of Duty System Defined.—In this Act \[Pub. L. 117–81, see Tables for classification\], the term 'Tour of Duty system' means the online system of listings for opportunities to serve on active duty for members of the reserve components of the Army and through which such a member may apply for such an opportunity, known as 'Tour of Duty', or any successor to such system."
 
 #### Pilot Program on Use of Retired Senior Enlisted Members of the Army National Guard as Army National Guard Recruiters
 
@@ -292,7 +396,7 @@ Elements of the Program.—The Global Cultural Knowledge Network shall include t
 
 &emsp;"(1) A center in the continental United States (referred to in this section as a 'reach-back center') to support requests for information, research, and analysis.
 
-&emsp;"(2) Outreach to academic institutions and other Federal agencies involved in social science research to increase the network of resources for the reach-back center.
+&emsp;"(2) Outreach to academic institutions and other Federal agencies involved in social science researchto increase the network of resources for the reach-back center.
 
 &emsp;"(3) Training with operational units during annual training exercises or during pre-deployment training.
 
@@ -300,7 +404,7 @@ Elements of the Program.—The Global Cultural Knowledge Network shall include t
 
 "(d)
 
-Directive Required.—The Secretary of the Army shall issue a directive within one year after the date of the enactment of this Act \[Dec. 23, 2016\] for the governance of the Global Cultural Knowledge Network,including oversight and process controls for auditing the activities of personnel of the Network, the employment of the Global Cultural Knowledge Network by operational forces, and processes for requesting support by operational Army units and other Department of Defense and Federal entities.
+Directive Required.—The Secretary of the Army shall issue a directive within one year after the date of the enactment of this Act \[Dec. 23, 2016\] for the governance of the Global Cultural Knowledge Network, including oversight and process controls for auditing the activities of personnel of the Network, the employment of the Global Cultural Knowledge Network by operational forces, and processes for requesting support by operational Army units and other Department of Defense and Federal entities.
 
 "(e)
 
@@ -412,7 +516,7 @@ Report.—Not later than 180 days after the date on which the Secretary of the A
 
 #### Army Transformation to Brigade Structure
 
-Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: "The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated forcehas been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated."
+Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: "The Secretary of theArmy shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated."
 
 #### Demonstration Project for Use of Army Installations To Provide Prerelease Employment Training to Nonviolent Offenders in State Penal Systems
 

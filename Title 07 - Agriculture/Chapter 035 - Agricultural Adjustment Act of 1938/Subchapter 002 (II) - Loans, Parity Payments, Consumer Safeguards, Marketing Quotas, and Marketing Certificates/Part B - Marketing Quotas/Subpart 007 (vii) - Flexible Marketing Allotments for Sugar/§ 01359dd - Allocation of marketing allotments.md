@@ -88,7 +88,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (B) Quantity
 
-&emsp;&emsp;The quantity of an allocation made for a beet sugar processor for a crop year under subparagraph (A) shall bear the same ratio to the quantity of allocations made for all beet sugar processors for the crop year as the adjusted weighted average quantity of beet sugar produced by the processor (as determined under subparagraphs (C) and (D)) bears to the total of the adjusted weighted average quantities of beet sugar produced by all processors (as so determined).
+&emsp;&emsp;The quantity of an allocation made for a beet sugar processor for a crop year under subparagraph (A) shall bear the same ratio to the quantity of allocations made for all beet sugar processors for the crop year as the adjusted weighted average quantity of beet sugar produced by the processor (as determined under subparagraphs (C) and (D))bears to the total of the adjusted weighted average quantities of beet sugar produced by all processors (as so determined).
 
 #### (C) Weighted average quantity
 
@@ -154,7 +154,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (iii) Use of other factories to fill allocation
 
-&emsp;&emsp;&emsp;If the assignment of the allocation under clause (i) to the buyer for the 1 or more purchased factories cannot be filled by the production of the 1 or more purchased factories, the remainder of the allocation may be filled by beet sugar produced by the buyer from other factories of the buyer.
+&emsp;&emsp;&emsp;If the assignment of the allocation under clause (i) to the buyer for the 1 or morepurchased factories cannot be filled by the production of the 1 or more purchased factories, the remainder of the allocation may be filled by beet sugar produced by the buyer from other factories of the buyer.
 
 #### (H) New entrants starting production, reopening, or acquiring an existing factory with production history
 
@@ -222,7 +222,7 @@ A prior section 1359dd, act Feb. 16, 1938, ch. 30, title III, §359d, as added P
 
 <b>2008</b>—Subsec. (b)(1)(F). Pub. L. 110–246, §1403(d)(1), substituted "If" for "Except as otherwise provided in section 1359ff(c)(8) of this title, if".
 
-Subsec. (b)(2)(G) to (I). Pub. L. 110–246, §1403(d)(2), added subpars. (G) and (H) and struck out former subpars. (G) to (I) which related to sale of factories of a processor to another processor, new entrants starting production or reopening factories after May 13, 2002, and new entrants acquiring ongoing factories with production history during the period of the 1998 through 2000 crop years.
+Subsec. (b)(2)(G) to (I). Pub. L. 110–246, §1403(d)(2), added subpars. (G) and (H) and struck out former subpars. (G) to (I) which related to sale of factories of a processor to another processor, new entrants starting production or reopening factories after May 13, 2002,and new entrants acquiring ongoing factories with production history during the period of the 1998 through 2000 crop years.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

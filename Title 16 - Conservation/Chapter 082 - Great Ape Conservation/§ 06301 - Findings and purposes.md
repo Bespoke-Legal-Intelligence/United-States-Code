@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;(5) among the threats to great apes, in addition to habitat loss, are population fragmentation, hunting for the bushmeat trade, live capture, and exposure to emerging or introduced diseases;
 
-&emsp;(6) great apes are important components of the ecosystems they inhabit, and studies of their wild populations have provided important biological insights;
+&emsp;(6) great apes are important components of the ecosystems they inhabit, and studies oftheir wild populations have provided important biological insights;
 
 &emsp;(7) although subsistence hunting of tropical forest animals has occurred for hundreds of years at a sustainable level, the tremendous increase in the commercial trade of tropical forest species is detrimental to the future of these species; and
 

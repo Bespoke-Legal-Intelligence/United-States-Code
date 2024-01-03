@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (4) Licensed health care practitioner
 
-&emsp;The term "licensed health care practitioner" means any physician (as defined in section 1861(r)(1) of the Social Security Act) and any registered professional nurse, licensed social worker, or other individual who meets such requirements as may be prescribed by the Secretary.
+&emsp;The term "licensed health care practitioner" means any physician (as defined in section 1861(r)(1) of the Social Security Act) and any registered professional nurse, licensed social worker, or other individual who meetssuch requirements as may be prescribed by the Secretary.
 
 #### (d) Aggregate payments in excess of limits
 
@@ -394,7 +394,7 @@ Continuation of existing policies.—In the case of any contract issued before J
 
 "(3)
 
-Exchanges of existing policies.—If, after the date of enactment of this Act \[Aug. 21, 1996\] and beforeJanuary 1, 1998, a contract providing for long-term care insurance coverage is exchanged solely for a qualified long-term care insurance contract (as defined in section 7702B(b) of such Code), no gain or loss shall be recognized on the exchange. If, in addition to a qualified long-term care insurance contract, money or other property is received in the exchange, then any gain shall be recognized to the extent of the sum of the money and the fair market value of the other property received. For purposes of this paragraph, the cancellation of a contract providing for long-term care insurance coverage and reinvestment of the cancellation proceeds in a qualified long-term care insurance contract within 60 days thereafter shall be treated as an exchange.
+Exchanges of existing policies.—If, after the date of enactment of this Act \[Aug. 21, 1996\] and before January 1, 1998, a contract providing for long-term care insurance coverage is exchanged solely for a qualified long-term care insurance contract (as defined in section 7702B(b) of such Code), no gain or loss shall be recognized on the exchange. If, in addition to a qualified long-term care insurance contract, money or other property is received in the exchange, then any gain shall be recognized to the extent of the sum of the money and the fair market value of the other property received. For purposes of this paragraph, the cancellation of a contract providing for long-term care insurance coverage and reinvestment of the cancellation proceeds in a qualified long-term care insurance contract within 60 days thereafter shall be treated as an exchange.
 
 "(4)
 

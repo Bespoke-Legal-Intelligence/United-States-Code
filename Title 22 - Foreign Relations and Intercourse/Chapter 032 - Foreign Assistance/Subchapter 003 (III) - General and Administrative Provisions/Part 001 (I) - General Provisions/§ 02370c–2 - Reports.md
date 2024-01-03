@@ -14,7 +14,7 @@ In preparing those portions of the annual Human Rights Report that relate to chi
 
 #### (c) Annual report to Congress
 
-If a country is notified pursuant to section 2370c–1(b)(2) of this title, or a waiver is granted pursuant to section 2370c–1(c)(1) of this title, the President shall submit a report to the appropriate congressional committees not later thanJune 15 of the following year. The report shall include—
+If a country is notified pursuant to section 2370c–1(b)(2) of this title, or a waiver is granted pursuant to section 2370c–1(c)(1) of this title, the President shall submit a report to the appropriate congressional committees not later than June 15 of the following year. The report shall include—
 
 &emsp;(1) a list of the countries receiving notification that they are in violation of the standards under sections 2370c to 2370c–2 of this title;
 
@@ -36,7 +36,7 @@ If the Secretary of State notifies a country pursuant to section 2370c–1(b)(2)
 
 #### References in Text
 
-Sections 2370c to 2370c–2 of this title, referred to in subsec. (c)(1), (3), (5), was in the original "this title", meaning title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, known as the Child Soldiers Prevention Act of 2008, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables.
+Sections 2370c to 2370c–2 of this title, referred to in subsec. (c)(1), (3), (5), was in the original "this title", meaning title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, known as the Child Soldiers Prevention Actof 2008, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables.
 
 #### Codification
 

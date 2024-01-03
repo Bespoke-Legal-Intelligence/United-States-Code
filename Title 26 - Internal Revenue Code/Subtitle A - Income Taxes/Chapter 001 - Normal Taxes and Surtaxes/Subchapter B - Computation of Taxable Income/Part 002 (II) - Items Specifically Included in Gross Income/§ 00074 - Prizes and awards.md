@@ -6,7 +6,7 @@ Except as otherwise provided in this section or in section 117 (relating to qual
 
 #### (b) Exception for certain prizes and awards transferred to charities
 
-Gross income does not include amounts received as prizes and awards made primarily in recognition of religious, charitable, scientific,educational, artistic, literary, or civic achievement, but only if—
+Gross income does not include amounts received as prizes and awards made primarily in recognition of religious, charitable, scientific, educational, artistic, literary, or civic achievement, but only if—
 
 &emsp;(1) the recipient was selected without any action on his part to enter the contest or proceeding;
 
@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 99–514, §122(a)(1)(D), added subsec. (c).
 
 #### Change of Name
 
-References to the United States Olympic Committee deemed to refer to the United States Olympic and Paralympic Committee, see section 220502(c) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+References to the United States Olympic Committee deemed to refer to the United States Olympic andParalympic Committee, see section 220502(c) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 #### Effective Date of 2021 Amendment
 

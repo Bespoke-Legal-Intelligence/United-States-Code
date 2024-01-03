@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(ii) the attempted discrediting of political opponents or disfavored populations; and
 
-&emsp;&emsp;&emsp;(iii) intelligence or influence operations directed against the United States, alliesor partners of the United States, or other jurisdictions believed to be subject to Chinese or Russian interference.
+&emsp;&emsp;&emsp;(iii) intelligence or influence operations directed against the United States, allies or partners of the United States, or other jurisdictions believed to be subject to Chinese or Russian interference.
 
 &emsp;&emsp;(C) An updated identification of the countertechnologies that have been or could be developed and deployed by the United States Government, or by the private sector with Government support, to deter, detect, and attribute the use of machine-manipulated media and machine-generated text by foreign governments, foreign-government affiliates, or foreign individuals, along with an analysis of the benefits, limitations and drawbacks of such identified counter-technologies, including any emerging concerns related to privacy.
 

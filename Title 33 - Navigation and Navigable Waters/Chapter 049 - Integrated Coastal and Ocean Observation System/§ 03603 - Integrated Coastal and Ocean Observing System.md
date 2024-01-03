@@ -154,7 +154,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;&emsp;&emsp;(xi) not less frequently than once each year, submit to the Interagency Ocean Observation Committee a report on the accomplishments, operational needs, and performance of the System to contribute to the annual and long-term plans prepared pursuant to paragraph (2)(B)(i);
 
-&emsp;&emsp;&emsp;(xii) develop and periodically update a plan to efficiently integrate into the System new, innovative, or emerging technologies that have been demonstrated tobe useful to the System and which will fulfill the purposes of this chapter and the System Plan; and
+&emsp;&emsp;&emsp;(xii) develop and periodically update a plan to efficiently integrate into the System new, innovative, or emerging technologies that have been demonstrated to be useful to the System and which will fulfill the purposes of this chapter and the System Plan; and
 
 &emsp;&emsp;&emsp;(xiii) work with users and regional associations to develop products to enable real-time data sharing for decision makers, including with respect to weather forecasting and modeling, search and rescue operations, corrosive seawater forecasts, water quality monitoring and communication, and harmful algal bloom forecasting.
 
@@ -306,7 +306,7 @@ Subsec. (d)(1). Pub. L. 116–271, §103(c)(1), substituted "or the Council unde
 
 Subsec. (d)(2)(A). Pub. L. 116–271, §103(c)(2)(A), inserted ", data sharing," after "data management".
 
-Subsec. (d)(2)(D), (E). Pub. L. 116–271, §103(c)(2)(B), (C), added subpars. (D) and (E) and struck out formersubpar. (D) which read as follows: "any other purpose identified by the Administrator or the Interagency Ocean Observing Committee."
+Subsec. (d)(2)(D), (E). Pub. L. 116–271, §103(c)(2)(B), (C), added subpars. (D) and (E) and struck out former subpar. (D) which read as follows: "any other purpose identified by the Administrator or the Interagency Ocean Observing Committee."
 
 Subsec. (d)(3)(B). Pub. L. 116–271, §103(c)(2)(D), inserted "The Administrator may stagger the terms of the System advisory committee members." before "Members".
 

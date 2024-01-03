@@ -48,7 +48,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(vi) State education grants, scholarships, or financial aid funds administered by or on behalf of a State;
 
-&emsp;(4) the term "institution of higher education" has the same meaning as in section 102of the Higher Education Act of 1965 (20 U.S.C. 1002);
+&emsp;(4) the term "institution of higher education" has the same meaning as in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002);
 
 &emsp;(5) the term "postsecondary educational expenses" means any of the expenses that are included as part of the cost of attendance of a student, as defined under section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087ll);
 
@@ -70,7 +70,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(ii) is issued expressly for postsecondary educational expenses to a borrower, regardless of whether the loan is provided through the educational institution that the subject student attends or directly to the borrower from the private educational lender; and
 
-&emsp;&emsp;(B) does not include an extension of credit under an open end consumer credit plan, a reverse mortgage transaction, a residential mortgage transaction, or any other loan that is secured by real property or a dwelling; and
+&emsp;&emsp;(B) does not include an extension of credit under an open end consumer credit plan, areverse mortgage transaction, a residential mortgage transaction, or any other loan that is secured by real property or a dwelling; and
 
 &emsp;(9) the term "revenue sharing" means an arrangement between a covered educational institution and a private educational lender under which—
 
@@ -122,7 +122,7 @@ It shall be unlawful for any private educational lender to impose a fee or penal
 
 &emsp;&emsp;(A) That any card issuer that markets a credit card on the campus of such institution notify the institution of the location at which such marketing will take place.
 
-&emsp;&emsp;(B) That the number of locations on the campus of such institution at which themarketing of credit cards takes place be limited.
+&emsp;&emsp;(B) That the number of locations on the campus of such institution at which the marketing of credit cards takes place be limited.
 
 &emsp;&emsp;(C) That credit card and debt education and counseling sessions be offered as a regular part of any orientation program for new students of such institution.
 
@@ -144,7 +144,7 @@ It shall be unlawful for any private educational lender to impose a fee or penal
 
 #### (C) Designation of individual to act on behalf of the borrower
 
-&emsp;&emsp;Any lender that extends a private education loan shall provide the student obligor an option to designate an individual to have the legal authority to act on behalf of the student obligor with respect to the private education loan in the event of the death of the student obligor.
+&emsp;&emsp;Any lender that extends a private education loan shall provide the student obligoran option to designate an individual to have the legal authority to act on behalf of the student obligor with respect to the private education loan in the event of the death of the student obligor.
 
 (Pub. L. 90–321, title I, §140, as added Pub. L. 110–315, title X, §1011(a), Aug. 14, 2008, 122 Stat. 3479; amended Pub. L. 111–24, title III, §304, May 22, 2009, 123 Stat. 1749; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107; Pub. L. 115–174, title VI, §601(a), May 24, 2018, 132 Stat. 1365.)
 

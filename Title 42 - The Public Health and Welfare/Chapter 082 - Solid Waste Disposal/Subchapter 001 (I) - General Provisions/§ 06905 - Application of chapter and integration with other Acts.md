@@ -18,7 +18,7 @@ Nothing in this chapter shall be construed to apply to (or to authorize any Stat
 
 (B) Based on the report under subparagraph (A) and on any future information on such emissions, the Administrator may publish advisories or guidelines regarding the control of dioxin emissions from such facilities. Nothing in this paragraph shall be construed to preempt or otherwise affect the authority of the Administrator to promulgate any regulations under the Clean Air Act \[42 U.S.C. 7401 et seq.\] regarding emissions of polychlorinated dibenzo-p-dioxins.
 
-(3) Notwithstanding any other provisions of law, in developing solid waste plans, it is the intention of this chapter that in determining the size of a waste-to-energy facility, adequate provisions shall be given to the present and reasonably anticipated future needs, including thoseneeds created by thorough implementation of section 6962(h) of this title, of the recycling and resource recovery interests within the area encompassed by the solid waste plan.
+(3) Notwithstanding any other provisions of law, in developing solid waste plans, it is the intention of this chapter that in determining the size of a waste-to-energy facility, adequate provisions shall be given to the present and reasonably anticipated future needs, including those needs created by thorough implementation of section 6962(h) of this title, of the recycling and resource recovery interests within the area encompassed by the solid waste plan.
 
 #### (c) Integration with the Surface Mining Control and Reclamation Act of 1977
 

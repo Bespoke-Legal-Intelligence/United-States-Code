@@ -48,7 +48,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;With respect to the specified Federal program described in paragraph (3)(A), during the period beginning on August 22, 1996, and ending on September 30, 1998, the Commissioner of Social Security shall redetermine the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefits may terminate by reason of the provisions of this subsection.
+&emsp;&emsp;&emsp;&emsp;With respect to the specified Federal program described in paragraph (3)(A),during the period beginning on August 22, 1996, and ending on September 30, 1998, the Commissioner of Social Security shall redetermine the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefits may terminate by reason of the provisions of this subsection.
 
 #### (II) Redetermination criteria
 
@@ -170,7 +170,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of subclauses (I) and (II), the declaration required under this subclause of a qualified alien or victim of trafficking described in either such subclause is a declaration under penalty of perjury stating that the alien or victim has made a good faith effort to pursue United States citizenship, as determined by the Secretary of Homeland Security. The Commissioner of Social Security shall develop criteria as needed, in consultation with the Secretary of Homeland Security, for consideration of such declarations.
+&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of subclauses (I) and (II), the declaration required under this subclause of a qualified alien or victim of trafficking described in either such subclause is a declarationunder penalty of perjury stating that the alien or victim has made a good faith effort to pursue United States citizenship, as determined by the Secretary of Homeland Security. The Commissioner of Social Security shall develop criteria as needed, in consultation with the Secretary of Homeland Security, for consideration of such declarations.
 
 #### (bb) Exception for children
 
@@ -190,7 +190,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (A) SSI
 
-&emsp;&emsp;The supplemental security income program under title XVI of the Social SecurityAct \[42 U.S.C. 1381 et seq.\], including supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act \[42 U.S.C. 1382e(a)\] and payments pursuant to an agreement entered into under section 212(b) of Public Law 93–66.
+&emsp;&emsp;The supplemental security income program under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\], including supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act \[42 U.S.C. 1382e(a)\] and payments pursuant to an agreement entered into under section 212(b) of Public Law 93–66.
 
 #### (B) Food stamps
 
@@ -364,7 +364,7 @@ Subsec. (a)(2)(K). Pub. L. 105–185, §508, added subpar. (K).
 
 &emsp;"(iii) an alien's deportation is withheld under section 243(h) of such Act."
 
-Subsec. (a)(2)(A)(i)(III). Pub. L. 105–33, §5562, substituted "section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)" for "section 243(h) of such Act".
+Subsec. (a)(2)(A)(i)(III). Pub. L. 105–33, §5562, substituted "section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of suchAct (as amended by section 305(a) of division C of Public Law 104–208)" for "section 243(h) of such Act".
 
 Subsec. (a)(2)(A)(i)(V). Pub. L. 105–33, §5306(a)(1), added subcl. (V).
 
@@ -414,7 +414,7 @@ Subsec. (b)(2)(C)(i). Pub. L. 105–33, §5563(c), inserted ", 1101, or 1301, o
 
 Pub. L. 105–33, §5563(a), inserted "and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38" after "alienage".
 
-Subsec. (b)(2)(C)(iii). Pub. L. 105–33, §5563(b), inserted before period at end "or the unremarried surviving spouse of an individual described in clause (i) or (ii)who is deceased if the marriage fulfills the requirements of section 1304 of title 38".
+Subsec. (b)(2)(C)(iii). Pub. L. 105–33, §5563(b), inserted before period at end "or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38".
 
 Subsec. (b)(2)(E). Pub. L. 105–33, §5303(b), added subpar. (E).
 
@@ -452,7 +452,7 @@ Pub. L. 105–185, title V, §510(b), June 23, 1998, 112 Stat. 580, provided tha
 
 #### Effective Date of 1997 Amendments
 
-Pub. L. 105–33, title V, §5308, Aug. 5, 1997, 111 Stat. 603, provided that: "Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
+Pub. L. 105–33, title V, §5308, Aug. 5, 1997, 111 Stat. 603, provided that: "Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shall be effective as if included in the enactment of title IVof the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
 
 Amendment by sections 5562 and 5563 of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 

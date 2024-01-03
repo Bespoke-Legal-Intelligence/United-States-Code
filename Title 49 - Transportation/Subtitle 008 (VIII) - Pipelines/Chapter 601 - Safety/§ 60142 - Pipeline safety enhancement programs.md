@@ -178,7 +178,7 @@ Program Review Process and Public Notice.—
 
 &emsp;(1)
 
-In general.—The Secretary shall publish in the Federal Register and send directly to each relevant State and each appropriate State authority with a certification in effect under section 60105 a notice of each proposed testing program under subsection (a), including the order to be considered, and provide an opportunity for public comment for not less than 90 days.
+In general.—The Secretary shall publish in the Federal Register and send directly to each relevant State and each appropriate State authority with a certification in effectunder section 60105 a notice of each proposed testing program under subsection (a), including the order to be considered, and provide an opportunity for public comment for not less than 90 days.
 
 &emsp;(2)
 

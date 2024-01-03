@@ -34,7 +34,7 @@ In this section:
 
 #### (1) Competitive grants
 
-&emsp;The Secretary shall carry out a program to make competitive grants to qualified entities that carry out programs or activities described in paragraph (2) for the purpose of developing, implementing, and sustaining veterinary services.
+&emsp;The Secretary shall carry out a program to make competitive grants to qualified entitiesthat carry out programs or activities described in paragraph (2) for the purpose of developing, implementing, and sustaining veterinary services.
 
 #### (2) Eligibility requirements
 

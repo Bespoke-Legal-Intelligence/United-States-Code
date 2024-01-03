@@ -34,7 +34,7 @@ The Secretary shall ensure that the program—
 
 &emsp;&emsp;(E) inclusive, as appropriate, of railroad frontline employees; and
 
-&emsp;&emsp;(F) consistent with the National Incident Management System, the National ResponsePlan, the National Infrastructure Protection Plan, the National Preparedness Guidance, the National Preparedness Goal, and other such national initiatives;
+&emsp;&emsp;(F) consistent with the National Incident Management System, the National Response Plan, the National Infrastructure Protection Plan, the National Preparedness Guidance, the National Preparedness Goal, and other such national initiatives;
 
 &emsp;(3) provides that exercises described in paragraph (2) will be—
 

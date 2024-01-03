@@ -24,7 +24,7 @@ Except as provided in subsection (c), any organization (including an organizatio
 
 #### (2) Exceptions by regulations
 
-&emsp;The Secretary may by regulations exempt (to the extent and subject to such conditionsas may be prescribed in such regulations) from the provisions of subsection (a) or (b) or both—
+&emsp;The Secretary may by regulations exempt (to the extent and subject to such conditions as may be prescribed in such regulations) from the provisions of subsection (a) or (b) or both—
 
 &emsp;&emsp;(A) educational organizations described in section 170(b)(1)(A)(ii), and
 
@@ -72,7 +72,7 @@ Except as provided in subsection (c), any organization (including an organizatio
 
 #### (f) Additional provisions relating to sponsoring organizations
 
-A sponsoring organization (as defined in section 4966(d)(1)) shall give notice to the Secretary (in such manner as the Secretary may provide) whether such organization maintains or intends to maintain donor advised funds (as defined in section 4966(d)(2)) and the manner in which such organization plans to operate such funds.
+A sponsoring organization (as defined in section 4966(d)(1)) shall give notice to the Secretary (in such manner as the Secretary may provide)whether such organization maintains or intends to maintain donor advised funds (as defined in section 4966(d)(2)) and the manner in which such organization plans to operate such funds.
 
 (Added Pub. L. 91–172, title I, §101(a), Dec. 30, 1969, 83 Stat. 494; amended Pub. L. 94–455, title XIX, §§1901(a)(71), (b)(8)(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1776, 1794, 1834; Pub. L. 108–357, title IV, §413(c)(30), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 109–280, title XII, §1235(b)(1), Aug. 17, 2006, 120 Stat. 1101.)
 

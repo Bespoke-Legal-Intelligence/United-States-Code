@@ -109,7 +109,7 @@ For purposes of this section—
 | 1989 | 75&nbsp;&nbsp; |
 | 1990 or thereafter | 100\. |
 
-> &emsp;Notwithstanding the preceding provisions of this paragraph, the applicable percentage for any partnership or S corporation shall be 100 percent unless more than 50 percent of such entity's net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would have been entitled to thebenefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.
+> &emsp;Notwithstanding the preceding provisions of this paragraph, the applicable percentage for any partnership or S corporation shall be 100 percent unless more than 50 percent of such entity's net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.
 
 #### (5) Treatment of guaranteed payments
 
@@ -155,7 +155,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection or in regulations prescribed by the Secretary, any payment required by this section shall be assessed and collected in the same manner as if it were a tax imposed by subtitle C.
+&emsp;Except as otherwise provided in this subsection or in regulations prescribed by theSecretary, any payment required by this section shall be assessed and collected in the same manner as if it were a tax imposed by subtitle C.
 
 #### (2) Due date
 
@@ -201,7 +201,7 @@ Section 806(e)(2)(C) of the Tax Reform Act of 1986, referred to in subsec. (d)(4
 
 <b>1990</b>—Subsec. (c)(3). Pub. L. 101–508 substituted "payable on the later of" for "payable on later of".
 
-<b>1989</b>—Subsec. (d)(4). Pub. L. 101–239, §7821(b), struck out "for taxable years beginning after 1987," before "the applicable percentage" and substituted "unless more than 50 percent" for "if more than 50 percent"and "who would have been entitled" for "who would not have been entitled".
+<b>1989</b>—Subsec. (d)(4). Pub. L. 101–239, §7821(b), struck out "for taxable years beginning after 1987," before "the applicable percentage" and substituted "unless more than 50 percent" for "if more than 50 percent" and "who would have been entitled" for "who would not have been entitled".
 
 Subsec. (f)(4)(B). Pub. L. 101–239, §7721(c)(12), substituted "part II of subchapter A of chapter 68" for "section 6653".
 
@@ -235,7 +235,7 @@ Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7721(c)(12) of Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
+Amendment by section 7721(c)(12) of Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31,1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
 
 Pub. L. 101–239, title VII, §7821(b), Dec. 19, 1989, 103 Stat. 2424, provided that the amendment made by that section is effective with respect to taxable years beginning after 1988.
 

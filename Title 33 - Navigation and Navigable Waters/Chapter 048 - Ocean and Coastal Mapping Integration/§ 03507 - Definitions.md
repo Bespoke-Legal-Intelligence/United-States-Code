@@ -38,7 +38,7 @@ In this chapter:
 
 &emsp;The term "coastal Indian Tribe" means an "Indian Tribe", as defined in section 5304 of title 25, the land of which is located in a coastal State.
 
-(Pub. L. 111–11, title XII, §12210, formerly §12208, Mar. 30, 2009, 123 Stat. 1426; renumbered §12210 and amended Pub. L. 117–263, div. J, title CIII,§10307(b)(1)(C), (e)(1), (g), Dec. 23, 2022, 136 Stat. 3976, 3978, 3979.)
+(Pub. L. 111–11, title XII, §12210, formerly §12208, Mar. 30, 2009, 123 Stat. 1426; renumbered §12210 and amended Pub. L. 117–263, div. J, title CIII, §10307(b)(1)(C), (e)(1), (g), Dec. 23, 2022, 136 Stat. 3976, 3978, 3979.)
 
 #### <b>Editorial Notes</b>
 

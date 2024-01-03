@@ -132,7 +132,7 @@ In subsection (c), in the matter before paragraph (1), the words "For fiscal yea
 
 #### Change of Name
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Science and Technology of House of Representatives changed to Committee on Science,Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Estimates of Receipts and Collections and Proposed Use of Funds From Leases of Non-Excess Property
 

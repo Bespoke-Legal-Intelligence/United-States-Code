@@ -76,7 +76,7 @@
 
 (h) A judgment against the Government of the United States arising out of activities of the Postal Service shall be paid by the Postal Service out of any funds available to the Postal Service, subject to the restriction specified in section 2011(g).
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 725; Pub. L. 97–258, §2(k), Sept. 13, 1982, 96 Stat. 1062; Pub. L. 109–435, title IV, §404, Dec. 20, 2006, 120 Stat. 3227.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 725; Pub. L. 97–258, §2(k), Sept. 13, 1982, 96 Stat. 1062; Pub. L.109–435, title IV, §404, Dec. 20, 2006, 120 Stat. 3227.)
 
 Historical and Revision Notes<br>1982
 

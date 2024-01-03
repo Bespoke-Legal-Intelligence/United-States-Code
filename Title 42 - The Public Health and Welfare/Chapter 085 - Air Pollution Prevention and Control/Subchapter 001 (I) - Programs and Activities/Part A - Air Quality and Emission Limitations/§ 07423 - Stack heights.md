@@ -8,7 +8,7 @@ The degree of emission limitation required for control of any air pollutant unde
 
 &emsp;(2) any other dispersion technique.
 
-> The preceding sentence shall not apply with respect to stack heights in existence before December 31, 1970, or dispersion techniques implemented before such date. In establishing an emission limitation for coal-fired steam electric generating units which are subject to the provisions of section 7418 of this title and which commenced operation before July 1, 1957, the effect of the entire stack height of stacks for which a construction contract was awarded before February 8, 1974, may be taken into account.
+> The preceding sentence shall not apply with respect to stack heights in existence before December 31, 1970, or dispersion techniques implemented before such date. In establishing an emission limitation for coal-fired steam electric generating units which are subject to the provisions of section 7418 of this title and which commenced operation before July 1, 1957, the effectof the entire stack height of stacks for which a construction contract was awarded before February 8, 1974, may be taken into account.
 
 #### (b) Dispersion technique
 

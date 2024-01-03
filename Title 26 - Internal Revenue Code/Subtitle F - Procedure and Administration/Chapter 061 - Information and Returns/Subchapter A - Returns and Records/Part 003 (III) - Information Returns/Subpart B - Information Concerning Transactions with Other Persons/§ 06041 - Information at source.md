@@ -14,7 +14,7 @@ When necessary to make effective the provisions of this section, the name and ad
 
 #### (d) Statements to be furnished to persons with respect to whom information is required
 
-Every person required to make a return under subsection (a) shall furnish to each person with respect to whom such a return is required a written statement showing—
+Every person required to make a return under subsection (a) shall furnish to each person withrespect to whom such a return is required a written statement showing—
 
 &emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
@@ -48,7 +48,7 @@ Subsection (a) shall apply to—
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–9, §2(b), struck out "amounts in consideration for property," after "salaries, wages,", "gross proceeds," after "emoluments, orother", and "gross proceeds," after "setting forth the amount of such".
+<b>2011</b>—Subsec. (a). Pub. L. 112–9, §2(b), struck out "amounts in consideration for property," after "salaries, wages,", "gross proceeds," after "emoluments, or other", and "gross proceeds," after "setting forth the amount of such".
 
 Subsec. (h). Pub. L. 112–9, §3(a), struck out subsec. (h) which related to treatment of rental property expense payments.
 
@@ -108,7 +108,7 @@ Pub. L. 112–9, §3(b), Apr. 14, 2011, 125 Stat. 36, provided that: "The amendm
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–240, title II, §2101(b), Sept. 27, 2010, 124 Stat. 2561, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to payments made after December 31, 2010."
+Pub. L. 111–240, title II, §2101(b), Sept. 27, 2010, 124 Stat. 2561, provided that: "The amendments made bysubsection (a) \[amending this section\] shall apply to payments made after December 31, 2010."
 
 Pub. L. 111–148, title IX, §9006(c), Mar. 23, 2010, 124 Stat. 855, provided that: "The amendments made by this section \[amending this section\] shall apply to payments made after December 31, 2011."
 

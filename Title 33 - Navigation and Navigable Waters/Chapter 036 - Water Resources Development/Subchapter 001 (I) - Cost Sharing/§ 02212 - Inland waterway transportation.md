@@ -46,7 +46,7 @@ Any Federal responsibility—
 
 #### References in Text
 
-Title III of this Act, referred to in subsecs. (a)(1) and (d)(1), is title III of Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4109, consisting of sections 301 and 302. The projects authorized by title III probably mean the projects authorized by section 301 of Pub. L. 99–662, which is not classified to the Code. Section 302 of Pub. L. 99–662, which established the Inland Waterways Users Board, is classified to section 2251 of this title.
+Title III of this Act, referred to in subsecs. (a)(1) and (d)(1), is title III of Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4109, consisting of sections 301 and 302. The projects authorized by title III probably mean theprojects authorized by section 301 of Pub. L. 99–662, which is not classified to the Code. Section 302 of Pub. L. 99–662, which established the Inland Waterways Users Board, is classified to section 2251 of this title.
 
 Section 844 of this Act, referred to in subsecs. (a)(3) and (d)(2), is section 844 of Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4177, which is not classified to the Code.
 

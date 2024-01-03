@@ -34,7 +34,7 @@ Treasury Check Offset.—
 
 &emsp;(1)
 
-In general.—To facilitate collection of amounts owed by presenting banks pursuant to subsection (a) or (b), upon the direction ofthe Secretary, a Federal reserve bank shall withhold credit from banks presenting Treasury checks for ultimate charge to the account of the United States Treasury. By presenting Treasury checks for payment a presenting bank is deemed to authorize this offset.
+In general.—To facilitate collection of amounts owed by presenting banks pursuant to subsection (a) or (b), upon the direction of the Secretary, a Federal reserve bank shall withhold credit from banks presenting Treasury checks for ultimate charge to the account of the United States Treasury. By presenting Treasury checks for payment a presenting bank is deemed to authorize this offset.
 
 &emsp;(2)
 

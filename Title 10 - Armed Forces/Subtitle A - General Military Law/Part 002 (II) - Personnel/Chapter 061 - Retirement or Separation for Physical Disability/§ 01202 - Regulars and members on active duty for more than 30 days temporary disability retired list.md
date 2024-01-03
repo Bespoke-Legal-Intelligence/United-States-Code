@@ -2,7 +2,7 @@
 
 Upon a determination by the Secretary concerned that a member described in section 1201(c) of this title would be qualified for retirement under section 1201 of this title but for the fact that his disability is not determined to be of a permanent nature and stable, the Secretary shall, if he also determines that accepted medical principles indicate that the disability may be of a permanent nature, place the member's name on the temporary disability retired list, with retired pay computed under section 1401 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 92; Pub. L. 85–861, §1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–651, title I, §107(a), Sept. 7, 1962, 76 Stat.508; Pub. L. 99–145, title V, §513(a)(1)(B), Nov. 8, 1985, 99 Stat. 627; Pub. L. 103–337, div. A, title XVI, §1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, §572(b), Sept. 23, 1996, 110 Stat. 2533.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 92; Pub. L. 85–861, §1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–651, title I, §107(a), Sept. 7, 1962, 76 Stat. 508; Pub. L. 99–145, title V, §513(a)(1)(B), Nov. 8, 1985, 99 Stat. 627; Pub. L. 103–337, div. A, title XVI, §1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, §572(b), Sept. 23, 1996, 110 Stat. 2533.)
 
 Historical and Revision Notes<br>1956
 

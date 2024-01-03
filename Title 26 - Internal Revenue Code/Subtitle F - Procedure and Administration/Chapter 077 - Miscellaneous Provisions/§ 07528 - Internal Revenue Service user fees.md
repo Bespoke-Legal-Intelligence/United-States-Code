@@ -64,7 +64,7 @@ The Secretary shall establish a program requiring the payment of user fees for�
 | :--- | ---: |
 | &nbsp; | <b>Average</b> |
 | <b>Category</b> | <b>Fee</b> |
-| Employee plan ruling and opinion | $250   |
+| Employee plan ruling and opinion | $250&nbsp;&nbsp; |
 | Exempt organization ruling | $350&nbsp;&nbsp; |
 | Employee plan determination | $300&nbsp;&nbsp; |
 | Exempt organization determination | $275&nbsp;&nbsp; |

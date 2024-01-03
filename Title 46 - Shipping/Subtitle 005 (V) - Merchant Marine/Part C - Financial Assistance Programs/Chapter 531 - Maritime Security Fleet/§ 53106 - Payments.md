@@ -84,7 +84,7 @@ Participates in a noncontiguous domestic trade defined.—In this subsection the
 
 <b>2017</b>—Subsec. (b). Pub. L. 115–91, §3503(b)(1), substituted "paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel," for "section 53105(a)(1)".
 
-Subsec. (d)(3). Pub. L. 115–91, §3503(b)(2), substituted "paragraph (1) and (2) of section 53105(a), as otherwiseapplicable with respect to such vessel" for "section 53105(a)(1)".
+Subsec. (d)(3). Pub. L. 115–91, §3503(b)(2), substituted "paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel" for "section 53105(a)(1)".
 
 <b>2016</b>—Subsec. (c)(3). Pub. L. 114–328 substituted "; or" for "or (C);" at end of subpar. (A) and a period for "; or" at end of subpar. (B) and struck out subpar. (C) which read as follows: "30 years of age, in the case of a lighter aboard ship vessel."
 
@@ -102,7 +102,7 @@ Subsec. (f). Pub. L. 112–239, §3508(f)(3), struck out subsec. (f). Text read 
 
 <b>2011</b>—Subsec. (a)(1)(C). Pub. L. 111–383 substituted "for each of fiscal years 2012 though 2025" for "for each fiscal years 2012, 2013, 2014, and 2015".
 
-<b>2006</b>—Subsec. (d)(1). Pub. L. 109–304, §13(a)(5)(A), substituted "section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10" for "section 2631 of title 10, United States Code, the Act of March 26, 1934 (46 U.S.C. App. 1241–1), section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f)".
+<b>2006</b>—Subsec. (d)(1). Pub. L. 109–304, §13(a)(5)(A), substituted "section 55302(a), 55304, 55305, or 55314 of thistitle, section 2631 of title 10" for "section 2631 of title 10, United States Code, the Act of March 26, 1934 (46 U.S.C. App. 1241–1), section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f)".
 
 Subsec. (d)(2). Pub. L. 109–304, §13(a)(5)(B), substituted "section 55302(a), 55305, or 55314 of this title" for "section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f),".
 

@@ -100,7 +100,7 @@
 
 #### (H) Location; broadband-serviceable location
 
-&emsp;&emsp;The terms "location" and "broadband-serviceable location" have the meanings given those terms by the Commission under rules and guidance that are in effect, as of November 15, 2021.
+&emsp;&emsp;The terms "location" and "broadband-serviceable location" have the meaningsgiven those terms by the Commission under rules and guidance that are in effect, as of November 15, 2021.
 
 #### (I) Priority broadband project
 
@@ -194,7 +194,7 @@
 
 &emsp;&emsp;(A) except as provided in subparagraph (B) of this paragraph, $100,000,000 shall be allocated to each State; and
 
-&emsp;&emsp;(B) $100,000,000 shall be allocated to, and divided equally among, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;&emsp;(B) $100,000,000 shall be allocated to, and divided equally among, the United StatesVirgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (3) Allocation of remaining amounts
 
@@ -918,7 +918,7 @@ The Assistant Secretary may issue such regulations or other guidance, forms, ins
 
 #### (B) Semiannual report
 
-&emsp;&emsp;Not later than 1 year after receiving grant funds under this section, and semiannuallythereafter until the funds have been expended, an eligible entity shall submit to the Assistant Secretary a report, with respect to the 6-month period immediately preceding the report date, that—
+&emsp;&emsp;Not later than 1 year after receiving grant funds under this section, and semiannually thereafter until the funds have been expended, an eligible entity shall submit to the Assistant Secretary a report, with respect to the 6-month period immediately preceding the report date, that—
 
 &emsp;&emsp;&emsp;(i) describes how the eligible entity expended the grant funds;
 
@@ -1066,7 +1066,7 @@ Any action taken or decision made by the Assistant Secretary under this section 
 
 #### References in Text
 
-The American Rescue Plan Act of 2021, referred to in subsecs. (e)(1)(B)(ii)(I)(aa)(DD), (h)(3)(B)(iii)(I)(dd), is Pub. L. 117–2, Mar. 11, 2021, 135 Stat. 4. For complete classification of this Act to the Code, see Short Title of 2021 Amendment note set out under section 9001 of Title 15, Commerce and Trade, and Tables.
+The American Rescue Plan Act of 2021, referred to in subsecs. (e)(1)(B)(ii)(I)(aa)(DD), (h)(3)(B)(iii)(I)(dd), isPub. L. 117–2, Mar. 11, 2021, 135 Stat. 4. For complete classification of this Act to the Code, see Short Title of 2021 Amendment note set out under section 9001 of Title 15, Commerce and Trade, and Tables.
 
 This Act, referred to in subsecs. (e)(3)(D)(ii)(I)(cc), (E)(ii)(I)(cc), (4)(D)(ii)(I)(cc), (E)(ii)(I)(cc), and (h)(3)(A)(i), means div. F of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 1182, see Definitions note set out below. For complete classification of this Act to the Code, see Tables.
 

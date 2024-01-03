@@ -20,7 +20,7 @@ In this section:
 
 #### (b) Support of research
 
-The Director of the National Science Foundation, in consultation with the Attorney General,the Secretary of Homeland Security, and the Secretary of Health and Human Services, shall support merit-reviewed and competitively awarded research on the impact of online social media platforms on the maintenance or expansion of human trafficking, which may include—
+The Director of the National Science Foundation, in consultation with the Attorney General, the Secretary of Homeland Security, and the Secretary of Health and Human Services, shall support merit-reviewed and competitively awarded research on the impact of online social media platforms on the maintenance or expansion of human trafficking, which may include—
 
 &emsp;(1) fundamental research on digital forensic tools or other technologies for verifying the authenticity of social media platform users and their materials, that are utilized in the promotion or operation of human trafficking networks;
 

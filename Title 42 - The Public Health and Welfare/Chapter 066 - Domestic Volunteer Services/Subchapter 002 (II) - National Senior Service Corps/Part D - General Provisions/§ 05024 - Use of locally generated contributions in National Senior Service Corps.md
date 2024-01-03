@@ -1,6 +1,6 @@
 ### §5024. Use of locally generated contributions in National Senior Service Corps
 
-Whenever locally generated contributions made to National Senior Service Corps projectsunder this subchapter are in excess of the amount required by the Director, the Director may not restrict the manner in which such contributions are expended if expenditures from locally generated contributions are not inconsistent with the provisions of this chapter.
+Whenever locally generated contributions made to National Senior Service Corps projects under this subchapter are in excess of the amount required by the Director, the Director may not restrict the manner in which such contributions are expended if expenditures from locally generated contributions are not inconsistent with the provisions of this chapter.
 
 (Pub. L. 93–113, title II, §224, as added Pub. L. 98–288, §16(a), May 21, 1984, 98 Stat. 194; amended Pub. L. 99–551, §10(b)(1), Oct. 27, 1986, 100 Stat. 3077; Pub. L. 101–204, title IX, §902(6), Dec. 7, 1989, 103 Stat. 1826; Pub. L. 103–82, title III, §341(b)(3), Sept. 21, 1993, 107 Stat. 904; Pub. L. 103–304, §3(b)(9), Aug. 23, 1994, 108 Stat. 1568; Pub. L. 111–13, title II, §2146(c), Apr. 21, 2009, 123 Stat. 1589.)
 

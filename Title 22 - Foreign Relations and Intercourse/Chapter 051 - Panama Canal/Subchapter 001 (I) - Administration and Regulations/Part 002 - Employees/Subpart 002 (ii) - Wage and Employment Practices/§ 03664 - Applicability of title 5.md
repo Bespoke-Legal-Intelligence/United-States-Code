@@ -28,7 +28,7 @@ The following provisions of title 5 apply to the Panama Canal Commission:
 
 &emsp;(13) Chapter 71 (relating to labor relations).
 
-&emsp;(14) Subchapters II and III of chapter 73 (relating to employment limitations and political activities, respectively) and all provisions of title 5 relating to the administration or enforcement or any other aspect thereof, as identified in regulations prescribed by the Commission in consultation with the Office of Personnel Management.
+&emsp;(14) Subchapters II and III of chapter 73 (relating to employment limitations and political activities, respectively) and all provisionsof title 5 relating to the administration or enforcement or any other aspect thereof, as identified in regulations prescribed by the Commission in consultation with the Office of Personnel Management.
 
 &emsp;(15) Chapter 81 (relating to compensation for work injuries).
 

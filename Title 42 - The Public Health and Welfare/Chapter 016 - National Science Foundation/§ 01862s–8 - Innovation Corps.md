@@ -60,7 +60,7 @@ It is the sense of Congress that—
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Director, in consultation with the Director of the Small Business Innovation Research Program, shall make funds available for competitive grants, including to I-Corps participants, to help support—
+&emsp;&emsp;Subject to subparagraph (B), the Director, in consultation with the Director of theSmall Business Innovation Research Program, shall make funds available for competitive grants, including to I-Corps participants, to help support—
 
 &emsp;&emsp;&emsp;(i) prototype or proof-of-concept development; and
 

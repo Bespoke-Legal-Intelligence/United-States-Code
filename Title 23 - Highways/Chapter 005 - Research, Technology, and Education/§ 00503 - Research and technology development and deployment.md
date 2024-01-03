@@ -450,7 +450,7 @@ Implementation of future strategic highway research program findings and results
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The Secretary, in consultation with the American Association of State Highway and Transportation Officials and the Transportation Research Board of the National Academy of Sciences, shall promote research results and products developed under the future strategic highway research program administered by the Transportation Research Board of the National Academy of Sciences.
+In general.—The Secretary, in consultation with the American Association of State Highway and Transportation Officials and the Transportation ResearchBoard of the National Academy of Sciences, shall promote research results and products developed under the future strategic highway research program administered by the Transportation Research Board of the National Academy of Sciences.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -562,7 +562,7 @@ In general.—The Secretary shall provide grants to eligible entities to deploy,
 
 &emsp;&emsp;(B)
 
-Criteria.—The Secretary shall develop criteria for selection of an eligible entity toreceive a grant under this paragraph, including how the deployment of technology will—
+Criteria.—The Secretary shall develop criteria for selection of an eligible entity to receive a grant under this paragraph, including how the deployment of technology will—
 
 &emsp;&emsp;&emsp;(i) improve the mobility of people and goods;
 
@@ -752,7 +752,7 @@ Expenses for the secretary.—Of the amounts set aside under clause (i), the Sec
 
 &emsp;&emsp;(J)
 
-Federal share.—The Federal share of the cost of a project for which a grant is awarded under this subsection shall not exceed 80 percent of the cost of the project.
+Federal share.—The Federal share of the cost of a project for which a grant isawarded under this subsection shall not exceed 80 percent of the cost of the project.
 
 &emsp;&emsp;(K)
 
@@ -768,7 +768,7 @@ Grant flexibility.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—If, by August 1 of each fiscal year, the Secretary determines that there are not enough grant applicationsthat meet the requirements described in subparagraph (C) to carry out this section for a fiscal year, the Secretary shall transfer to the programs specified in clause (ii)—
+In general.—If, by August 1 of each fiscal year, the Secretary determines that there are not enough grant applications that meet the requirements described in subparagraph (C) to carry out this section for a fiscal year, the Secretary shall transfer to the programs specified in clause (ii)—
 
 &emsp;&emsp;&emsp;&emsp;(I) any of the funds reserved for the fiscal year under subparagraph (I) that the Secretary has not yet awarded under this paragraph; and
 
@@ -856,7 +856,7 @@ Goals.—The goals of the accelerated implementation and deployment of advanced 
 
 &emsp;&emsp;&emsp;&emsp;(II) to fully capture the efficiencies and benefits of advanced digital construction management systems and related technologies;
 
-&emsp;&emsp;&emsp;(viii) reduction in the environmental footprint of construction projects usingadvanced digital construction management systems resulting from elimination of congestion through more efficient projects; and
+&emsp;&emsp;&emsp;(viii) reduction in the environmental footprint of construction projects using advanced digital construction management systems resulting from elimination of congestion through more efficient projects; and
 
 &emsp;&emsp;&emsp;(ix) enhanced worker and pedestrian safety resulting from increased transparency.
 
@@ -1064,7 +1064,7 @@ initiatives and partnerships" before "
 
 program" in heading.
 
-Subsec. (a)(1). Pub. L. 109–59, §5203(a)(2), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "The Secretary shall develop and administer a national technology deployment initiatives and partnerships program."
+Subsec. (a)(1). Pub. L. 109–59, §5203(a)(2), added par. (1) and struck out heading and text of former par. (1). Textread as follows: "The Secretary shall develop and administer a national technology deployment initiatives and partnerships program."
 
 Subsec. (a)(7). Pub. L. 109–59, §5203(a)(3), added par. (7) and struck out heading and text of former par. (7). Text read as follows: "Under the program, the Secretary may make grants and enter into cooperative agreements and contracts to foster alliances and support efforts to stimulate advances in transportation technology, including—
 
@@ -1638,7 +1638,7 @@ Pub. L. 117–58, div. B, title IV, §24219, Nov. 15, 2021, 135 Stat. 831, provi
 
 &emsp;"(1) not later than 180 days after the date of enactment of this Act \[Nov. 15, 2021\], expand vehicle-to-pedestrian research efforts focused on incorporating bicyclists and other vulnerable road users into the safe deployment of connected vehicle systems; and
 
-&emsp;"(2) not later than 2 years after the date of enactment of this Act, submit to Congress and make publicly available a report describing the findings of theresearch efforts described in paragraph (1), including an analysis of the extent to which applications supporting vulnerable road users can be accommodated within existing spectrum allocations for connected vehicle systems."
+&emsp;"(2) not later than 2 years after the date of enactment of this Act, submit to Congress and make publicly available a report describing the findings of the research efforts described in paragraph (1), including an analysis of the extent to which applications supporting vulnerable road users can be accommodated within existing spectrum allocations for connected vehicle systems."
 
 #### Surface Transportation System Funding Alternatives
 

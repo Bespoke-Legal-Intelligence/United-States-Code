@@ -12,7 +12,7 @@ Establishment of Centers.—(1) Not later than 120 days after the date of the en
 
 (b)
 
-Designation of Facilities.—(1) In designating locations for epilepsy centers of excellence under subsection (a), the Secretary shall solicit proposals from Department health carefacilities seeking designation as a location for an epilepsy center of excellence.
+Designation of Facilities.—(1) In designating locations for epilepsy centers of excellence under subsection (a), the Secretary shall solicit proposals from Department health care facilities seeking designation as a location for an epilepsy center of excellence.
 
 (2) The Secretary may not designate a facility as a location for an epilepsy center of excellence under subsection (a) unless the peer review panel established under subsection (c) has determined under that subsection that the proposal submitted by such facility seeking designation as a location for an epilepsy center of excellence is among those proposals that meet the highest competitive standards of scientific and clinical merit.
 
@@ -36,7 +36,7 @@ Peer Review Panel.—(1) The Under Secretary for Health shall establish a peer r
 
 (d)
 
-Epilepsy Center of Excellence Defined.—In this section, the term "epilepsy center of excellence" means a health care facility that has (or in the foreseeable future can develop) the necessary capacity to function as a center of excellence in research, education, and clinical care activities in the diagnosis and treatment of epilepsy and has (or may reasonably be anticipated to develop) each of the following:
+Epilepsy Center of Excellence Defined.—In this section, the term "epilepsy center of excellence" means a health care facility that has (or in the foreseeable future can develop) the necessary capacity to function as a center of excellence in research, education, and clinical care activities in the diagnosis andtreatment of epilepsy and has (or may reasonably be anticipated to develop) each of the following:
 
 &emsp;(1) An affiliation with an accredited medical school that provides education and training in neurology, including an arrangement with such school under which medical residents receive education and training in the diagnosis and treatment of epilepsy (including neurosurgery).
 
@@ -72,7 +72,7 @@ National Coordinator for Epilepsy Programs.—(1) To assist the Secretary and th
 
 (f)
 
-Authorization of Appropriations.—(1) There are authorized to be appropriated $6,000,000 for each of fiscal years 2009 through2013 for the support of the clinical care, research, and education activities of the epilepsy centers of excellence established and operated pursuant to subsection (a)(2).
+Authorization of Appropriations.—(1) There are authorized to be appropriated $6,000,000 for each of fiscal years 2009 through 2013 for the support of the clinical care, research, and education activities of the epilepsy centers of excellence established and operated pursuant to subsection (a)(2).
 
 (2) There are authorized to be appropriated for each fiscal year after fiscal year 2013 such sums as may be necessary for the support of the clinical care, research, and education activities of the epilepsy centers of excellence established and operated pursuant to subsection (a)(2).
 

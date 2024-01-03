@@ -42,7 +42,7 @@ The procedures established under subsection (a) shall require—
 
 &emsp;&emsp;(D) an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 
-&emsp;(3) that an authorized agency or designated entity, as applicable,,<sup>3</sup> upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
+&emsp;(3) that an authorized agency or designated entity, as applicable,,<sup>3</sup> upon receipt of a background check report lacking disposition data, shall conduct research in whatever State andlocal recordkeeping systems are available in order to obtain complete data;
 
 &emsp;(4) that the authorized agency or designated entity, as applicable, shall make a determination whether the covered individual has been convicted of, or is under pending indictment for, a crime that bears upon the covered individual's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
 
@@ -134,7 +134,7 @@ Subsec. (f). Pub. L. 115–141, §101(a)(1)(G), added subsec. (f).
 
 <b>1998</b>—Subsec. (a)(3). Pub. L. 105–251, §222(a), added par. (3).
 
-Subsec. (b)(5). Pub. L. 105–251, §222(b), inserted before period at end ", except that this paragraph does notapply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3)".
+Subsec. (b)(5). Pub. L. 105–251, §222(b), inserted before period at end ", except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3)".
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–322, §320928(a)(1), substituted "the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities" for "an individual's fitness to have responsibility for the safety and well-being of children".
 
@@ -182,7 +182,7 @@ State check.—The participating State under this paragraph after receiving a re
 
 &emsp;&emsp;"(D)
 
-Information provided.—Under procedures established by the Attorney General, any criminal history record information resulting from the State and Federal check under subparagraph (C) shall be provided to the State or National Center for Missing and Exploited Children consistent with the National Child Protection Act \[of 1993, 34 U.S.C. 40101 et seq.\].
+Information provided.—Under procedures established by the Attorney General, any criminalhistory record information resulting from the State and Federal check under subparagraph (C) shall be provided to the State or National Center for Missing and Exploited Children consistent with the National Child Protection Act \[of 1993, 34 U.S.C. 40101 et seq.\].
 
 &emsp;&emsp;"(E)
 

@@ -1,6 +1,6 @@
 ### §3221. Eligibility
 
-(a) Each person entering military service on or after January 1, 1977, and before July 1, 1985, shall have the right to enroll in the educational benefits program provided by this chapter (hereinafter in this chapter referred to as the "program" except where the text indicates otherwise) at any time during such person's service on active duty before July 1, 1985. When a person elects to enroll in the program, such person must participate for at least 12 consecutive months before disenrolling or suspending participation.
+(a) Each person entering military service on or after January 1, 1977, and before July 1, 1985, shall have the right to enroll in the educational benefits program provided by this chapter (hereinafter in this chapter referred to as the "program" except where the text indicates otherwise) at any time during such person's service on active duty before July 1, 1985. When a personelects to enroll in the program, such person must participate for at least 12 consecutive months before disenrolling or suspending participation.
 
 (b) The requirement for 12 consecutive months of participation required by subsection (a) of this section shall not apply when (1) the participant suspends participation or disenrolls from the program because of personal hardship as defined in regulations issued jointly by the Secretary and the Secretary of Defense, or (2) the participant is discharged or released from active duty.
 

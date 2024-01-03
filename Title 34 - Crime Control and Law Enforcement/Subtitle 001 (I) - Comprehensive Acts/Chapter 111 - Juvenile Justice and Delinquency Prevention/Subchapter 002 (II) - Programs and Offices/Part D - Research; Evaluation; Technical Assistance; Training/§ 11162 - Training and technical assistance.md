@@ -24,7 +24,7 @@ The Administrator—
 
 #### (c) Training and technical assistance to mental health professionals and law enforcement personnel
 
-The Administrator shall provide training and technical assistance to mental health professionals and law enforcement personnel (including public defenders, prosecutors, police officers, probation officers, judges, parole officials, and correctional officers) to address or to promote the development, testing, or demonstration of promising or innovative models (including model juvenile and family courts), programs, or delivery systems that address the needs of status offenders and juveniles who are alleged oradjudicated delinquent and who, as a result of such status, are placed in secure detention or confinement or in nonsecure residential placements.
+The Administrator shall provide training and technical assistance to mental health professionals and law enforcement personnel (including public defenders, prosecutors, police officers, probation officers, judges, parole officials, and correctional officers) to address or to promote the development, testing, or demonstration of promising or innovative models (including model juvenile and family courts), programs, or delivery systems that address the needs of status offenders and juveniles who are alleged or adjudicated delinquent and who, as a result of such status, are placed in secure detention or confinement or in nonsecure residential placements.
 
 #### (d) Best practices regarding legal representation of children
 
@@ -104,7 +104,7 @@ Subsec. (a)(3). Pub. L. 115–385, §208(1)(D), added par. (3).
 
 Subsec. (b). Pub. L. 115–385, §208(2)(A), struck out "may" after "Administrator" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 115–385, §208(2)(B), inserted "shall" before "develop and implement projects" and", including compliance with the core requirements" after "this subchapter" and struck out "and" at end.
+Subsec. (b)(1). Pub. L. 115–385, §208(2)(B), inserted "shall" before "develop and implement projects" and ", including compliance with the core requirements" after "this subchapter" and struck out "and" at end.
 
 Subsec. (b)(2). Pub. L. 115–385, §208(2)(C), inserted "may" before "make grants to and contracts with" and substituted semicolon for period at end.
 

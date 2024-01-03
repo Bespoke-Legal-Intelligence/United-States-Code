@@ -18,7 +18,7 @@
 
 #### (B) Extension upon State request
 
-&emsp;&emsp;If an applicable existing waiver described in subparagraph (A) would otherwise expirebefore January 1, 2010, notwithstanding the requirements of subsections (e) and (f) of section 1315 of this title, a State may submit, not later than September 30, 2009, a request to the Secretary for an extension of the waiver. The Secretary shall approve a request for an extension of an applicable existing waiver submitted pursuant to this subparagraph, but only through December 31, 2009.
+&emsp;&emsp;If an applicable existing waiver described in subparagraph (A) would otherwise expire before January 1, 2010, notwithstanding the requirements of subsections (e) and (f) of section 1315 of this title, a State may submit, not later than September 30, 2009, a request to the Secretary for an extension of the waiver. The Secretary shall approve a request for an extension of an applicable existing waiver submitted pursuant to this subparagraph, but only through December 31, 2009.
 
 #### (C) Application of enhanced FMAP
 
@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each State for which coverage under an applicable existing waiver is terminated under paragraph (2)(A) may submit, not later than September 30, 2009, an application to the Secretary for a waiver under section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a nonpregnant childless adult whose coverage is so terminated (in this subsection referred to as a "Medicaid nonpregnant childless adults waiver").
+&emsp;&emsp;Each State for which coverage under an applicable existing waiver is terminated under paragraph (2)(A) may submit, not later than September 30, 2009, an applicationto the Secretary for a waiver under section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a nonpregnant childless adult whose coverage is so terminated (in this subsection referred to as a "Medicaid nonpregnant childless adults waiver").
 
 #### (B) Deadline for approval
 
@@ -72,7 +72,7 @@
 
 #### (i) Block grant set aside from State allotment
 
-&emsp;&emsp;&emsp;If the State makes an election under subparagraph (A), the Secretary shall setaside for the State for each such fiscal year an amount equal to the Federal share of 110 percent of the State's projected expenditures under the applicable existing waiver for providing child health assistance or health benefits coverage to all parents of targeted low-income children enrolled under such waiver for the fiscal year (as certified by the State and submitted to the Secretary by not later than August 31 of the preceding fiscal year). In the case of fiscal year 2013, the set aside for any State shall be computed separately for each period described in subparagraphs (A) and (B) of section 1397dd(a)(16) of this title and any reduction in the allotment for either such period under section 1397dd(m)(5) of this title shall be allocated on a pro rata basis to such set aside.
+&emsp;&emsp;&emsp;If the State makes an election under subparagraph (A), the Secretary shall set aside for the State for each such fiscal year an amount equal to the Federal share of 110 percent of the State's projected expenditures under the applicable existing waiver for providing child health assistance or health benefits coverage to all parents of targeted low-income children enrolled under such waiver for the fiscal year (as certified by the State and submitted to the Secretary by not later than August 31 of the preceding fiscal year). In the case of fiscal year 2013, the set aside for any State shall be computed separately for each period described in subparagraphs (A) and (B) of section 1397dd(a)(16) of this title and any reduction in the allotment for either such period under section 1397dd(m)(5) of this title shall be allocated on a pro rata basis to such set aside.
 
 #### (ii) Payments from block grant
 

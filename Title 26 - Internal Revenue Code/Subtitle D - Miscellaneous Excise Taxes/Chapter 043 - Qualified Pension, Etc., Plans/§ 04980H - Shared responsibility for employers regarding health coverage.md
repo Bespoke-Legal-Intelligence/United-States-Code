@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (ii) Definition of seasonal workers
 
-&emsp;&emsp;&emsp;The term "seasonal worker" means a worker who performs labor or services on aseasonal basis as defined by the Secretary of Labor, including workers covered by section 500.20(s)(1) of title 29, Code of Federal Regulations and retail workers employed exclusively during holiday seasons.
+&emsp;&emsp;&emsp;The term "seasonal worker" means a worker who performs labor or services on a seasonal basis as defined by the Secretary of Labor, including workers covered by section 500.20(s)(1) of title 29, Code of Federal Regulations and retail workers employed exclusively during holiday seasons.
 
 #### (C) Rules for determining employer size
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) chapter 55 of title 10, United States Code, including coverage under the TRICARE program, or
 
-&emsp;&emsp;&emsp;(ii) under a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary.
+&emsp;&emsp;&emsp;(ii) under a health care program under chapter 17 or 18 of title 38, United StatesCode, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary.
 
 #### (3) Applicable premium tax credit and cost-sharing reduction
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Any assessable payment provided by this section shall be paid upon notice and demandby the Secretary, and shall be assessed and collected in the same manner as an assessable penalty under subchapter B of chapter 68.
+&emsp;Any assessable payment provided by this section shall be paid upon notice and demand by the Secretary, and shall be assessed and collected in the same manner as an assessable penalty under subchapter B of chapter 68.
 
 #### (2) Time for payment
 

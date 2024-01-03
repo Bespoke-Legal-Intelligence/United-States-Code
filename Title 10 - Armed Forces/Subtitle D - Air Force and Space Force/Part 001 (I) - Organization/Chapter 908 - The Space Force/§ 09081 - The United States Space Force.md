@@ -12,7 +12,7 @@ Composition.—The Space Force consists of—
 
 &emsp;(2) all persons appointed or enlisted in, or conscripted into, the Space Force, including those not assigned to units, necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency; and
 
-&emsp;(3) all Space Force units and other Space Force organizations, including installations and supporting and auxiliary combat, training, administrative, and logistic elements.
+&emsp;(3) all Space Force units and other Space Force organizations, including installationsand supporting and auxiliary combat, training, administrative, and logistic elements.
 
 (c)
 
@@ -24,7 +24,19 @@ Functions.—The Space Force shall be organized, trained, and equipped to—
 
 &emsp;(3) protect the interests of the United States in space.
 
-(Added Pub. L. 115–91, div. A, title XVI, §1601(a)(1), Dec. 12, 2017, 131 Stat. 1718, §2279c; amended Pub. L. 115–232, div. A, title X, §1081(a)(17), Aug. 13, 2018, 132 Stat. 1984; renumbered §9081 and amended Pub. L. 116–92, div. A, title IX, §952(b)(3), (4), Dec. 20, 2019, 133 Stat. 1562; Pub. L. 116–283, div. A, title IX, §922(a), (b), Jan. 1, 2021, 134 Stat. 3806.)
+(Added Pub. L. 115–91, div. A, title XVI, §1601(a)(1), Dec. 12, 2017, 131 Stat. 1718, §2279c; amended Pub. L. 115–232, div. A, title X, §1081(a)(17), Aug. 13, 2018, 132 Stat. 1984; renumbered §9081 and amended Pub. L. 116–92, div. A, title IX, §952(b)(3), (4), Dec. 20, 2019, 133 Stat. 1562; Pub. L. 116–283, div. A, title IX, §922(a), (b), Jan. 1, 2021, 134 Stat. 3806; Pub. L. 118–31, div. A, title XVII, §1712(a), Dec. 22, 2023, 137 Stat. 625.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 118–31, div. A, title XVII, §1712, Dec. 22, 2023, 137 Stat. 625, provided that, effective on the date of the certification by the Secretary of the Air Force under section 1745 (probably should be "section 1735") of Pub. L. 118–31, subsection (b) of this section is amended as follows:</i>
+
+<i>(1) by striking paragraph (1);</i>
+
+<i>(2) by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively; and</i>
+
+<i>(3) in paragraph (1), as so redesignated, by striking ", including" and all that follows through "emergency".</i>
+
+<i>See 2023 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -33,6 +45,10 @@ Functions.—The Space Force shall be organized, trained, and equipped to—
 A prior section 9081 was renumbered section 9067 of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b). Pub. L. 118–31, §1712(a)(1), (2), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: "the Regular Space Force;".
+
+Subsec. (b)(1). Pub. L. 118–31, §1712(a)(3), struck out ", including those not assigned to units, necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency" after "Space Force".
 
 <b>2021</b>—Subsec. (b). Pub. L. 116–283, §922(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The Space Force shall be composed of the following:
 
@@ -69,6 +85,22 @@ Subsec. (b)(3). Pub. L. 115–232, §1081(a)(17)(B)(ii), substituted "after Dece
 #### Change of Name; Redesignation of Air Force Space Command as United States Space Force
 
 Pub. L. 116–92, div. A, title IX, §952(a), Dec. 20, 2019, 133 Stat. 1561, provided that: "The Air Force Space Command is hereby redesignated as the United States Space Force (USSF)."
+
+#### Effective Date of 2023 Amendment
+
+Pub. L. 118–31, div. A, title XVII, §1712(b), Dec. 22, 2023, 137 Stat. 625, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the certification by the Secretary of the Air Force under section 1745 \[probably means section "1735" of Pub. L. 118–31, set out in a Transition Provisions note under section 20001 of this title\]."
+
+#### Authorization for Establishment of the National Space Intelligence Center as a Field Operating Agency
+
+Pub. L. 118–31, div. A, title XVI, §1606, Dec. 22, 2023, 137 Stat. 586, provided that:
+
+"(a)
+
+Authorization.—The Secretary of the Air Force may establish the National Space Intelligence Center as a field operating agency of the Space Force to analyze and produce scientific and technical intelligence on space-based and counterspace threats from foreign adversaries.
+
+"(b)
+
+Colocation.—If the Secretary of the Air Force decides to establish the National Space Intelligence Center as a field operating agency, the Secretary shall consider the operational and geographical benefits provided by colocating with the National Air and Space Intelligence Center."
 
 #### Applied Research and Educational Activities To Support Space Technology Development
 
@@ -210,7 +242,7 @@ In general.—Effective as of the date of the enactment of this Act \[Dec. 20, 2
 
 "(2)
 
-No authorization of additional military billets.—The Secretary shall carry out this subsection within military personnel of the Air Force otherwise authorized by this Act. Nothing in this subsection shall be construed to authorize additional military billets for the purposes of, or in connection with, the establishment of the Space Force."
+No authorization of additional military billets.—The Secretary shall carry out this subsection within military personnel of the Air Force otherwiseauthorized by this Act. Nothing in this subsection shall be construed to authorize additional military billets for the purposes of, or in connection with, the establishment of the Space Force."
 
 #### Clarification of Authorities
 
@@ -224,7 +256,7 @@ In general.—Except as specifically provided by this subtitle \[subtitle D (§�
 
 &emsp;"(B) a civilian employee of the Space Force shall be treated as a civilian employee of the Air Force for the purpose of the application of any provision of law, including provisions of law relating to pay, benefits, and retirement;
 
-&emsp;"(C) the authority of the Secretary of Defense with respect to the Air Force, members of the Air Force,or civilian employees of the Air Force may be exercised by the Secretary with respect to the Space Force, members of the Space Force, or civilian employees of the Space Force; and
+&emsp;"(C) the authority of the Secretary of Defense with respect to the Air Force, members of the Air Force, or civilian employees of the Air Force may be exercised by the Secretary with respect to the Space Force, members of the Space Force, or civilian employees of the Space Force; and
 
 &emsp;"(D) the authority of the Secretary of the Air Force with respect to the Air Force, members of the Air Force, or civilian employees of the Air Force may be exercised by the Secretary with respect to the Space Force, members of the Space Force, or civilian employees of the Space Force.
 
@@ -266,7 +298,7 @@ Sec. 2. <i>Definitions</i>. For the purposes of this memorandum and the legislat
 
 (c) The term "United States Space Command" refers to a Unified Combatant Command to be established pursuant to the Presidential memorandum of December 18, 2018 (Establishment of United States Space Command as a Unified Combatant Command) \[10 U.S.C. 161 note\], that will be responsible for Joint Force space operations as will be assigned in the Unified Command Plan.
 
-Sec. 3. <i>Legislative Proposal and Purpose</i>. The Secretary of Defense shall submit a legislative proposal to the President through the Office of Management and Budget that would establish the United States Space Force as a new armed service within the Department of the Air Force.
+Sec. 3. <i>Legislative Proposal and Purpose</i>. The Secretary of Defense shall submit a legislative proposal to the President through the Office of Management and Budget that would establish the United States Space Forceas a new armed service within the Department of the Air Force.
 
 The legislative proposal would, if enacted, establish the United States Space Force to organize, train, and equip forces to provide for freedom of operation in, from, and to the space domain; to provide independent military options for national leadership; and to enhance the lethality and effectiveness of the Joint Force. The United States Space Force should include both combat and combat support functions to enable prompt and sustained offensive and defensive space operations, and joint operations in all domains. The United States Space Force shall be organized, trained, and equipped to meet the following priorities:
 

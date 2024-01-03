@@ -62,7 +62,7 @@ Notwithstanding subsection (b), funds authorized under this section may be also 
 
 &emsp;(1) The addition of not less than 8 Assistant United States Attorneys at the Department of Justice dedicated to the prosecution of cases in connection with the Project Safe Childhood program set forth under subsection (a).
 
-&emsp;(2) The creation, development, training, and deployment of not less than 10 new Internet Crimes Against Children task forces within the ICAC Task Force Program consisting of Federal, State, and local law enforcement personnel dedicated to the Project Safe Childhood program set forth under subsection (a), and the enhancement of the forensic capacities of existing Internet Crimes Against Children task forces.
+&emsp;(2) The creation, development, training, and deployment of not less than 10 new Internet Crimes Against Children task forces within the ICAC Task Force Program consisting of Federal, State, and local law enforcement personnel dedicated to the Project Safe Childhood program set forth under subsection (a), andthe enhancement of the forensic capacities of existing Internet Crimes Against Children task forces.
 
 &emsp;(3) The development and enhancement by the Federal Bureau of Investigation of the Innocent Images task forces.
 

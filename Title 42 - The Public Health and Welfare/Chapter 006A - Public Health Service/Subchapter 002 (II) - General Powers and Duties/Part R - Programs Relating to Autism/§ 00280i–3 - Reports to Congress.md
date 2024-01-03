@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) information on the average time between initial screening and then diagnosis or rule out for individuals with autism spectrum disorder or other developmental disabilities, as well as information on the average time between diagnosis and evidence-based intervention for individuals with autism spectrum disorder or other developmental disabilities and, as appropriate, on how such average time varies across population subgroups;
 
-&emsp;&emsp;(G) information on the effectiveness and outcomes of interventions for individuals diagnosed with autism spectrum disorder, including by severity level as practicable, and other developmental disabilities and how the age of the individual or other factors, such as demographic characteristics, may affect such effectiveness;
+&emsp;&emsp;(G) information on the effectiveness and outcomes of interventions for individuals diagnosed with autism spectrum disorder, including by severity level as practicable, and other developmental disabilities and how theage of the individual or other factors, such as demographic characteristics, may affect such effectiveness;
 
 &emsp;&emsp;(H) information on the effectiveness and outcomes of innovative and newly developed intervention strategies for individuals with autism spectrum disorder or other developmental disabilities;
 

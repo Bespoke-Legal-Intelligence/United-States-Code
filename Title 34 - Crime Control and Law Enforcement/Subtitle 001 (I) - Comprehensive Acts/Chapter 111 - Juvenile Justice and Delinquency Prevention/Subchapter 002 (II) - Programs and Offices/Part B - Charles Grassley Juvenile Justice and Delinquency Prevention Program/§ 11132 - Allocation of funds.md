@@ -22,7 +22,7 @@ If any amount so allocated remains unobligated at the end of the fiscal year, su
 
 #### (c) Use of allocated funds for development, etc., of State plans; limitations; matching requirements
 
-In accordance with regulations promulgated under this part, a portion of any allocation to any State under this part shall be available to develop a State plan or for other pre-award activities associated with such State plan, and to pay that portion of the expenditures which are necessary for effective and efficient administration of funds, including the designation of not less than one individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements. Not more than 10 percent of the total annual allocation of such State shall be available for such purposes except that any amount expended or obligated by such State, or by units of local government or any combination thereof, from amounts made available under this subsection shall be matched (in an amount equal to any such amount so expended or obligated) by suchState, or by such units or combinations, from State or local funds, as the case may be. The State shall make available needed funds for planning and administration to units of local government or combinations thereof within the State on an equitable basis.
+In accordance with regulations promulgated under this part, a portion of any allocation to any State under this part shall be available to develop a State plan or for other pre-award activities associated with such State plan, and to pay that portion of the expenditures which are necessary for effective and efficient administration of funds, including the designation of not less than one individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements. Not more than 10 percent of the total annual allocation of such State shall be available for such purposes except that any amount expended or obligated by such State, or by units of local government or any combination thereof, from amounts made available under this subsection shall be matched (in an amount equal to any such amount so expended or obligated) by such State, or by such units or combinations, from State or local funds, as the case may be. The State shall make available needed funds for planning and administration to units of localgovernment or combinations thereof within the State on an equitable basis.
 
 #### (d) Minimum annual allocation for assistance of advisory group
 
@@ -82,7 +82,7 @@ Subsec. (b). Pub. L. 100–690, §7257(b), substituted "If" for "Except for fund
 
 Subsec. (c). Pub. L. 95–115, §4(b)(2)(A), (B), (3), inserted provisions relating to pre-award activities, monitoring and evaluation payments, and matching requirements for expended or obligated amounts, and substituted "7½" for "15" and "units of general local government or combinations thereof" for "local governments".
 
-Subsec. (d). Pub. L. 95–115, §4(b)(2)(C), (4)(B), redesignated subsec. (e) as (d). Former subsec. (d), relating tolimitations on financial assistance under this section, was struck out.
+Subsec. (d). Pub. L. 95–115, §4(b)(2)(C), (4)(B), redesignated subsec. (e) as (d). Former subsec. (d), relating to limitations on financial assistance under this section, was struck out.
 
 Subsec. (e). Pub. L. 95–115, §4(b)(4)(A), (B), added subsec. (e) and redesignated former subsec. (e) as (d).
 

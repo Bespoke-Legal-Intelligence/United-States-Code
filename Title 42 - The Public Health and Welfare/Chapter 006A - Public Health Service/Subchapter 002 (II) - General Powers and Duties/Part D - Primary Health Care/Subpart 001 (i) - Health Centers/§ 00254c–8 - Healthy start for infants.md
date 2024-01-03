@@ -20,7 +20,7 @@
 
 &emsp;In making grants under subsection (a), the Secretary shall take into consideration the following:
 
-&emsp;&emsp;(A) Factors that contribute to infant mortality, including poor birth outcomes (such as low birthweight and preterm birth) and social determinants of health.
+&emsp;&emsp;(A) Factors that contribute to infant mortality, including poor birth outcomes (suchas low birthweight and preterm birth) and social determinants of health.
 
 &emsp;&emsp;(B) Communities with—
 
@@ -50,7 +50,7 @@
 
 #### (2) Other programs
 
-&emsp;The Secretary shall ensure coordination of the program carried out pursuant to this section with other programs and activities related to the reduction of the rate of infantmortality and improved perinatal and infant health outcomes supported by the Department.
+&emsp;The Secretary shall ensure coordination of the program carried out pursuant to this section with other programs and activities related to the reduction of the rate of infant mortality and improved perinatal and infant health outcomes supported by the Department.
 
 #### (d) Rule of construction
 
@@ -96,7 +96,7 @@ Except to the extent inconsistent with this section, this section may not be con
 
 &emsp;&emsp;(B) Trends in the progress made toward meeting the evaluation criteria pursuant to subsection (e)(2)(B), including programs which decrease infant mortality rates and improve perinatal outcomes, programs that have not decreased infant mortality rates or improved perinatal outcomes, and programs that have made an impact on disparities in infant mortality or perinatal outcomes.
 
-&emsp;&emsp;(C) The ability of grantees to improve health outcomes for project participants, promote the awareness of the Healthy Start program services, incorporate and promote family participation, facilitate coordination with the community in which the grantee is located, and increase grantee accountability through quality improvement, performance monitoring, evaluation, and the effect such metrics may have toward decreasing the rate of infant mortality and improving perinatal outcomes.
+&emsp;&emsp;(C) The ability of grantees to improve health outcomes for project participants,promote the awareness of the Healthy Start program services, incorporate and promote family participation, facilitate coordination with the community in which the grantee is located, and increase grantee accountability through quality improvement, performance monitoring, evaluation, and the effect such metrics may have toward decreasing the rate of infant mortality and improving perinatal outcomes.
 
 &emsp;&emsp;(D) The extent to which such Federal programs are coordinated across agencies and the identification of opportunities for improved coordination in such Federal programs and activities.
 
@@ -118,7 +118,7 @@ Subsec. (a)(2). Pub. L. 116–136, §3225(1)(B), inserted "or increasing above t
 
 Subsec. (b)(1). Pub. L. 116–136, §3225(2)(A), substituted "participants and former participants of project services, public health departments, hospitals, health centers under section 254b of this title, State substance abuse agencies" for "consumers of project services, public health departments, hospitals, health centers under section 254b of this title".
 
-Subsec. (b)(2)(A). Pub. L. 116–136, §3225(2)(B)(i), substituted "including poor birth outcomes (such as lowbirthweight and preterm birth) and social determinants of health" for "such as low birthweight".
+Subsec. (b)(2)(A). Pub. L. 116–136, §3225(2)(B)(i), substituted "including poor birth outcomes (such as low birthweight and preterm birth) and social determinants of health" for "such as low birthweight".
 
 Subsec. (b)(2)(B). Pub. L. 116–136, §3225(2)(B)(iii), added subpar. (B). Former subpar. (B) redesignated (C).
 

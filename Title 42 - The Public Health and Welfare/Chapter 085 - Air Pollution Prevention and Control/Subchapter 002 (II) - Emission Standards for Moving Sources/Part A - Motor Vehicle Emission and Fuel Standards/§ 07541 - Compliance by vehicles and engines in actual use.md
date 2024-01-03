@@ -136,7 +136,7 @@ Useful life.—In the case of the in-use standards applicable under this paragra
 
 &emsp;(5)
 
-Final in-use standards.—(A) After the model year 1995, for purposes of applying this subsection, in the case of the percentage specified in the implementation schedule below of each manufacturer's sales volume of light-duty trucks of up to 6,000 lbs. gross vehicle weight rating (GVWR) and light duty <sup>2</sup> vehicles, the standards for NMHC, CO, and NO<sub>x</sub> shall be as provided in Table G in section 7521(g) of this title, except that in applying the standards set forth in Table G for purposes of determining compliance with this subsection, the applicable useful life shall be (i) 5 years or 50,000 miles (or the equivalent) whichever first occurs in the case of standards applicable for purposes of certification at 50,000 miles; and (ii) 10 years or 100,000 miles (or the equivalent), whichever first occurs in the case of standards applicable for purposes of certification at 100,000 miles, except that no testing shall be done beyond 7 years or 75,000 miles, or the equivalent whichever first occurs.
+Final in-use standards.—(A) After the model year 1995, for purposes of applying this subsection, in the case of the percentage specified in the implementation schedule below of each manufacturer's sales volume of light-duty trucks of up to 6,000 lbs. gross vehicle weight rating (GVWR) and light duty <sup>2</sup> vehicles, the standards for NMHC, CO, and NO<sub>x</sub> shall be as provided in Table G in section 7521(g) of this title, except that in applying the standards set forth in Table G for purposes of determining compliance with this subsection, the applicable useful life shall be (i) 5 years or 50,000 miles (or the equivalent) whichever first occurs in the case of standards applicable for purposes of certification at 50,000 miles; and (ii) 10 years or 100,000 miles (or the equivalent), whichever first occurs in the caseof standards applicable for purposes of certification at 100,000 miles, except that no testing shall be done beyond 7 years or 75,000 miles, or the equivalent whichever first occurs.
 
 LDTs up to 6,000
 
@@ -196,7 +196,7 @@ Any inspection of a motor vehicle or a motor vehicle engine for purposes of subs
 
 #### (g) Replacement and maintenance costs borne by owner
 
-For the purposes of this section, the owner of any motor vehicle or motor vehicle engine warranted under this section is responsible in the proper maintenance of such vehicle or engine to replace and to maintain, at his expense at anyservice establishment or facility of his choosing, such items as spark plugs, points, condensers, and any other part, item, or device related to emission control (but not designed for emission control under the terms of the last sentence of subsection (a)(3))),<sup>3</sup> unless such part, item, or device is covered by any warranty not mandated by this chapter.
+For the purposes of this section, the owner of any motor vehicle or motor vehicle engine warranted under this section is responsible in the proper maintenance of such vehicle or engine to replace and to maintain, at his expense at any service establishment or facility of his choosing, such items as spark plugs, points, condensers, and any other part, item, or device related to emission control (but not designed for emission control under the terms of the last sentence of subsection (a)(3))),<sup>3</sup> unless such part, item, or device is covered by any warranty not mandated by this chapter.
 
 #### (h) Dealer certification
 
@@ -208,7 +208,7 @@ For the purposes of this section, the owner of any motor vehicle or motor vehicl
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(1) and subsection (b) of this section, the warranty period, effective with respect to new light-duty trucks and new light-duty vehicles and engines, manufactured in the model year 1995 and thereafter, shall be the first 2 years or 24,000 miles of use (whichever first occurs), except as provided in paragraph (2). For purposes of subsection (a)(1) and subsection (b), for other vehicles and engines the warranty period shall be the period established by the Administrator by regulation (promulgated prior to November 15, 1990) for such purposes unless the Administrator subsequently modifies such regulation.
+&emsp;For purposes of subsection (a)(1) and subsection (b) of this section, the warranty period, effective with respect to new light-dutytrucks and new light-duty vehicles and engines, manufactured in the model year 1995 and thereafter, shall be the first 2 years or 24,000 miles of use (whichever first occurs), except as provided in paragraph (2). For purposes of subsection (a)(1) and subsection (b), for other vehicles and engines the warranty period shall be the period established by the Administrator by regulation (promulgated prior to November 15, 1990) for such purposes unless the Administrator subsequently modifies such regulation.
 
 #### (2) Specified major emission control components
 
@@ -274,7 +274,7 @@ Pub. L. 101–549, title II, §209, Nov. 15, 1990, 104 Stat. 2484, provided that
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d)of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Effective Date
 

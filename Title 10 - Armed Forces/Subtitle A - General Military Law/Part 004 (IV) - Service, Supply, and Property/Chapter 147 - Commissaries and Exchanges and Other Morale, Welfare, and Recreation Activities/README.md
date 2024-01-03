@@ -18,7 +18,7 @@
 
 <b>2002</b>—Pub. L. 107–314, div. A, title III, §323(b), Dec. 2, 2002, 116 Stat. 2511, added item 2494.
 
-<b>2001</b>—Pub. L. 107–107, div. A, title III, §§332(b), 333(b), Dec. 28, 2001, 115 Stat. 1058, 1059, added item 2483 and substituted "Commissary stores: release of certain commercially valuable information to the public" for "Commissary stores: limitations on release of sales information" in item 2487.
+<b>2001</b>—Pub. L. 107–107, div. A, title III, §§332(b), 333(b), Dec. 28, 2001, 115 Stat. 1058, 1059, added item 2483 andsubstituted "Commissary stores: release of certain commercially valuable information to the public" for "Commissary stores: limitations on release of sales information" in item 2487.
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title III, §331(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, added item 2484 and struck out former item 2484 "Commissary stores: expenses".
 

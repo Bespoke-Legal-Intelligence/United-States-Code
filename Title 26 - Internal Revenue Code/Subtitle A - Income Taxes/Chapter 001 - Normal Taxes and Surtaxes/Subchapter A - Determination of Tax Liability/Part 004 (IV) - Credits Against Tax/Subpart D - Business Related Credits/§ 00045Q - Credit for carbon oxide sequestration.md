@@ -54,7 +54,7 @@ For purposes of section 38, the carbon oxide sequestration credit for any taxabl
 
 #### (B) Special rule for direct air capture facilities
 
-&emsp;&emsp;In the case of any qualified facility described in subsection (d)(2)(A) which is placed in service after December 31, 2022, the applicable dollar amount shall be an amount equal to the applicable dollar amount otherwise determined with respect to such qualified facility under subparagraph (A), except that such subparagraph shall be applied—
+&emsp;&emsp;In the case of any qualified facility described in subsection (d)(2)(A) which isplaced in service after December 31, 2022, the applicable dollar amount shall be an amount equal to the applicable dollar amount otherwise determined with respect to such qualified facility under subparagraph (A), except that such subparagraph shall be applied—
 
 &emsp;&emsp;&emsp;(i) by substituting "$36" for "$17" each place it appears, and
 
@@ -90,7 +90,7 @@ For purposes of section 38, the carbon oxide sequestration credit for any taxabl
 
 #### (3) Election
 
-&emsp;For purposes of determining the carbon oxide sequestration credit under this section, a taxpayer may elect to have the dollar amounts applicable under paragraph (1) or (2) of subsection (a) apply in lieu of the dollar amounts applicable under paragraph (3) or (4) of such subsection for each metric ton of qualified carbon oxide which is captured bythe taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018.
+&emsp;For purposes of determining the carbon oxide sequestration credit under this section, a taxpayer may elect to have the dollar amounts applicable under paragraph (1) or (2) of subsection (a) apply in lieu of the dollar amounts applicable under paragraph (3) or (4) of such subsection for each metric ton of qualified carbon oxide which is captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018.
 
 #### (c) Qualified carbon oxide
 
@@ -475,6 +475,8 @@ Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 11
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2023</b>—Internal Revenue Notice 2023–46.
 
 <b>2022</b>—Internal Revenue Notice 2022–38.
 

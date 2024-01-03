@@ -56,7 +56,7 @@ As used in this chapter:
 
 #### (12) Producer
 
-&emsp;The term "producer" means any person engaged in the growing of soybeans in the United States who owns, or who shares the ownership and risk of loss of, such soybeans.
+&emsp;The term "producer" means any person engaged in the growing of soybeans in the UnitedStates who owns, or who shares the ownership and risk of loss of, such soybeans.
 
 #### (13) Promotion
 
@@ -64,7 +64,7 @@ As used in this chapter:
 
 #### (14) Qualified State soybean board
 
-&emsp;The term "qualified State soybean board" means a State soybean promotion entity thatis authorized by State law. If no such entity exists in a State, the term "qualified State soybean board" means a soybean producer-governed entity—
+&emsp;The term "qualified State soybean board" means a State soybean promotion entity that is authorized by State law. If no such entity exists in a State, the term "qualified State soybean board" means a soybean producer-governed entity—
 
 &emsp;&emsp;(A) that is organized and operating within a State;
 

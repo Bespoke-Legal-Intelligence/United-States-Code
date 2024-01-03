@@ -50,7 +50,7 @@ Buildings deemed federally owned.—For purposes of amounts authorized to be exp
 
 &emsp;&emsp;(B) A building occupied pursuant to an installment purchase contract.
 
-&emsp;&emsp;(C) A building under the control of a department or agency, if alterations of thebuilding are required in connection with moving the department or agency from a former building that is, or will be, under the control of the Administration.
+&emsp;&emsp;(C) A building under the control of a department or agency, if alterations of the building are required in connection with moving the department or agency from a former building that is, or will be, under the control of the Administration.
 
 (d)
 

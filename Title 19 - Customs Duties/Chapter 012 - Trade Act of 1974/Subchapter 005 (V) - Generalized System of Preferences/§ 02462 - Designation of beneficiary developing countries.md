@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(iii) such country is not dominated or controlled by international communism.
 
-&emsp;&emsp;(B) Such country is a party to an arrangement of countries and participates in any action pursuant to such arrangement, the effect of which is—
+&emsp;&emsp;(B) Such country is a party to an arrangement of countries and participates in anyaction pursuant to such arrangement, the effect of which is—
 
 &emsp;&emsp;&emsp;(i) to withhold supplies of vital commodity resources from international trade or to raise the price of such commodities to an unreasonable level, and
 
@@ -104,7 +104,7 @@ In determining whether to designate any country as a beneficiary developing coun
 
 &emsp;&emsp;(B) reduce or eliminate barriers to trade in services; and
 
-&emsp;(7) whether or not such country has taken or is taking steps to afford to workers in that country (including any designated zone in that country) internationally recognized worker rights.
+&emsp;(7) whether or not such country has taken or is taking steps to afford to workers in thatcountry (including any designated zone in that country) internationally recognized worker rights.
 
 #### (d) Withdrawal, suspension, or limitation of country designation
 

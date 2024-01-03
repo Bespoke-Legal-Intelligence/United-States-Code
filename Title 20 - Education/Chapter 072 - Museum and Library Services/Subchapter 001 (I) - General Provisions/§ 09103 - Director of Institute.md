@@ -12,7 +12,7 @@
 
 #### (3) Qualifications
 
-&emsp;Beginning with the first individual appointed to the position of Director after September 30, 1996, every second individual so appointed shall be appointed from among individuals who have special competence with regard to library and information services. Beginning with the second individual appointedto the position of Director after September 30, 1996, every second individual so appointed shall be appointed from among individuals who have special competence with regard to museum services.
+&emsp;Beginning with the first individual appointed to the position of Director after September 30, 1996, every second individual so appointed shall be appointed from among individuals who have special competence with regard to library and information services. Beginning with the second individual appointed to the position of Director after September 30, 1996, every second individual so appointed shall be appointed from among individuals who have special competence with regard to museum services.
 
 #### (b) Compensation
 
@@ -82,7 +82,7 @@ The Director may promulgate such rules and regulations as are necessary and appr
 
 #### (2) Review and evaluation
 
-&emsp;The Director shall establish procedures for reviewing and evaluating applications submitted under this chapter. Actions of the Institute and the Director in the establishment, modification, and revocation of such procedures under this chapter are vested in the discretion of the Institute and the Director. In establishing such procedures, the Director shall ensure that the criteria by which applications are evaluated are consistent with the purposes of this chapter, taking into consideration general standards of decency and respect for the diverse beliefs and values of the American public.
+&emsp;The Director shall establish procedures for reviewing and evaluating applications submitted under this chapter. Actions of the Institute and the Director in the establishment, modification, and revocation of such procedures under this chapter are vested in the discretion of the Institute and the Director. In establishing such procedures, the Director shall ensure that the criteria by which applications are evaluated are consistent with thepurposes of this chapter, taking into consideration general standards of decency and respect for the diverse beliefs and values of the American public.
 
 #### (3) Treatment of projects determined to be obscene
 
@@ -132,7 +132,7 @@ Subsec. (g)(3). Pub. L. 115–410, §3(3)(C), substituted "technology, or resear
 
 <b>2015</b>—Subsec. (f)(1). Pub. L. 114–95 added par. (1) and struck out former par. (1) which read as follows: "activities under section 6383 of this title;".
 
-<b>2014</b>—Subsec. (f)(3). Pub. L. 113–128 substituted "activities under the Workforce Innovation and Opportunity Act (including activities under section 121(e) ofsuch Act))" for "activities under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.) (including activities under section 134(c) of such Act) (29 U.S.C. 2864(c))".
+<b>2014</b>—Subsec. (f)(3). Pub. L. 113–128 substituted "activities under the Workforce Innovation and Opportunity Act (including activities under section 121(e) of such Act))" for "activities under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.) (including activities under section 134(c) of such Act) (29 U.S.C. 2864(c))".
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–340, §102(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The Director shall perform such duties and exercise such powers as may be prescribed by law, including awarding financial assistance for activities described in this chapter."
 
@@ -140,7 +140,7 @@ Subsecs. (e) to (g). Pub. L. 111–340, §102(3), added subsecs. (e) to (g) and 
 
 Subsecs. (h), (i). Pub. L. 111–340, §102(2), redesignated subsecs. (f) and (g) as (h) and (i), respectively.
 
-<b>2003</b>—Subsec. (e). Pub. L. 108–81, §103(1), inserted at end "Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under section 6383 of this title."
+<b>2003</b>—Subsec. (e). Pub. L. 108–81, §103(1), inserted at end "Where appropriate, the Director shall ensure thatactivities under subchapter II of this chapter are coordinated with activities under section 6383 of this title."
 
 Subsecs. (f), (g). Pub. L. 108–81, §103(2), added subsecs. (f) and (g).
 

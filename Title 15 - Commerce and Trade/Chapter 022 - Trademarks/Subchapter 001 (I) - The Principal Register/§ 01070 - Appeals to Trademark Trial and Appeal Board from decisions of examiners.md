@@ -12,7 +12,7 @@ Act Feb. 20, 1905, ch. 592, §§8, 13, 33 Stat. 726, 728.
 
 #### Amendments
 
-<b>2020</b>—Pub. L. 116–260, §228(a)(2), inserted "The Director may reconsider, and modify or set aside, a decisionof the Trademark Trial and Appeal Board under this section." at end.
+<b>2020</b>—Pub. L. 116–260, §228(a)(2), inserted "The Director may reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board under this section." at end.
 
 Pub. L. 116–260, §225(d)(1), inserted "or a final decision by an examiner in an ex parte expungement proceeding or ex parte reexamination proceeding" after "registration of marks".
 
@@ -22,7 +22,7 @@ Pub. L. 116–260, §225(d)(1), inserted "or a final decision by an examiner in 
 
 #### Effective Date of 2020 Amendment
 
-Amendment by section 225(d)(1) of div. Q of Pub. L. 116–260 effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, see section 225(g) of div. Q of Pub. L. 116–260, set out as a note under section 1064 of this title.
+Amendment by section 225(d)(1) of div. Q of Pub. L. 116–260 effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date,see section 225(g) of div. Q of Pub. L. 116–260, set out as a note under section 1064 of this title.
 
 #### Effective Date of 1958 Amendment
 

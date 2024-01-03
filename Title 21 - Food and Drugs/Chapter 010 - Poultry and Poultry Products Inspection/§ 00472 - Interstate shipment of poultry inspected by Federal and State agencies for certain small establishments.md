@@ -70,7 +70,7 @@
 
 #### (A) Development of procedure
 
-&emsp;&emsp;The Secretary may develop a procedure to transition to a Federal establishment any establishment under this section that, on average, consistently employs more than 25 employees.
+&emsp;&emsp;The Secretary may develop a procedure to transition to a Federal establishment anyestablishment under this section that, on average, consistently employs more than 25 employees.
 
 #### (B) Eligibility of certain establishments
 
@@ -164,7 +164,7 @@ Nothing in this section limits the jurisdiction of the Secretary with respect to
 
 #### References in Text
 
-The date of the enactment of this section, referred to in subsecs. (b)(2)(B), (C)(ii), (iii), (3)(B)(i), (e)(2), and (i)(2), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+The date of the enactment of this section, referred to in subsecs. (b)(2)(B), (C)(ii), (iii), (3)(B)(i), (e)(2), and\(i)(2), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 Final regulations to carry out this section, referred to in subsec. (i)(1), were published in the Federal Register on May 2, 2011, eff. July 1, 2011; see 76 F.R. 24756.
 

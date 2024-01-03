@@ -212,7 +212,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) provide educational opportunities relating to nutrition to members participating in a produce prescription project; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ee) inform members of the availability of the produce prescriptionproject, including locations at which produce prescriptions may be redeemed;
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) inform members of the availability of the produce prescription project, including locations at which produce prescriptions may be redeemed;
 
 &emsp;&emsp;&emsp;&emsp;(II) a description of any additional nonprofit or emergency feeding organizations that shall be involved in the project and the role of each additional nonprofit or emergency feeding organization in implementing and evaluating an effective produce prescription project;
 
@@ -356,7 +356,7 @@ In this section:
 
 &emsp;With respect to funds made available under this section for fiscal years 2019 through 2023—
 
-&emsp;&emsp;(A) for each fiscal year the Secretary shall use not more than 10 percent of such funds available for such fiscal year for the produce prescription program described in subsection (c);
+&emsp;&emsp;(A) for each fiscal year the Secretary shall use not more than 10 percent of such fundsavailable for such fiscal year for the produce prescription program described in subsection (c);
 
 &emsp;&emsp;(B) for each fiscal year not more than 8 percent of such funds available for such fiscal year shall be used by the National Institute of Food and Agriculture and the Food and Nutrition Service for administration; and
 

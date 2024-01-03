@@ -6,7 +6,7 @@ The Secretary of Health and Human Services, acting through the Commissioner of F
 
 &emsp;(1) may, to support the advancement, development, and implementation of advanced and continuous pharmaceutical manufacturing—
 
-&emsp;&emsp;(A) solicit requests for designation as National Centers of Excellence in Advancedand Continuous Pharmaceutical Manufacturing (in this section referred to as a "National Center of Excellence");
+&emsp;&emsp;(A) solicit requests for designation as National Centers of Excellence in Advanced and Continuous Pharmaceutical Manufacturing (in this section referred to as a "National Center of Excellence");
 
 &emsp;&emsp;(B) beginning not later than one year after December 29, 2022, designate as National Centers of Excellence institutions of higher education or consortia of institutions of higher education that—
 
@@ -50,7 +50,7 @@ To be eligible to receive a designation under this section, an institution of hi
 
 #### (d) Termination of designation
 
-The Secretary may terminate the designation of any National Center of Excellence designated under this section if the Secretary determines such National Center of Excellence no longer meets the criteria specified in subsection (c). Not later than 90 days before the effective date of such a termination, the Secretary shall provide written notice to the National Center of Excellence, including the rationale for such termination.
+The Secretary may terminate the designation of any National Center of Excellence designatedunder this section if the Secretary determines such National Center of Excellence no longer meets the criteria specified in subsection (c). Not later than 90 days before the effective date of such a termination, the Secretary shall provide written notice to the National Center of Excellence, including the rationale for such termination.
 
 #### (e) Conditions for designation
 
@@ -110,7 +110,7 @@ As a condition of designation as a National Center of Excellence under this sect
 
 #### (4) Additional report to Congress
 
-&emsp;Not later than 1 year after the date on which the first designation is made under subsection (a), the Secretary, in consultation with the National Centers of Excellence designated under this section, shall submit a report to the Congress on the role of the Food and Drug Administration in supporting advanced and continuous pharmaceutical manufacturing, including—
+&emsp;Not later than 1 year after the date on which the first designation is made under subsection (a), the Secretary, in consultation with the National Centers of Excellence designated under this section, shall submit a report to theCongress on the role of the Food and Drug Administration in supporting advanced and continuous pharmaceutical manufacturing, including—
 
 &emsp;&emsp;(A) a national framework of principles related to the implementation of advanced and continuous pharmaceutical manufacturing;
 
@@ -130,7 +130,7 @@ In this section:
 
 &emsp;&emsp;(A) that incorporates a novel technology, or uses an established technique or technology in a new or innovative way, that enhances drug quality or improves the manufacturing process for a drug, including processes that may apply to advanced therapies and the production of biological products, such as cell and gene therapies; or
 
-&emsp;&emsp;(B) for which the input materials are continuously fed into and transformed withinthe process, and the output materials are continuously removed from the system, utilizing an integrated manufacturing process that consists of a series of 2 or more simultaneous unit operations.
+&emsp;&emsp;(B) for which the input materials are continuously fed into and transformed within the process, and the output materials are continuously removed from the system, utilizing an integrated manufacturing process that consists of a series of 2 or more simultaneous unit operations.
 
 #### (2) Biological product
 

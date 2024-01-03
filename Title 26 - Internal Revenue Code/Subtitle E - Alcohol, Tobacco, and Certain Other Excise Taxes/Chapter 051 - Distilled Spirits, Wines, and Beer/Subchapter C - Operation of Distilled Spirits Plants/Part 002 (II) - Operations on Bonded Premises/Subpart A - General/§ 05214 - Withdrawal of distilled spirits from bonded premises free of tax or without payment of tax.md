@@ -44,7 +44,7 @@ Distilled spirits on which the internal revenue tax has not been paid or determi
 
 &emsp;(13) without payment of tax for use on bonded wine cellar premises in the production of wine or wine products which will be rendered unfit for beverage use and removed pursuant to section 5362(d); or
 
-&emsp;(14) with respect to distilled spirits removed after December 31, 2019, and before January 1,2021, free of tax for use in or contained in hand sanitizer produced and distributed in a manner consistent with any guidance issued by the Food and Drug Administration that is related to the outbreak of virus SARS–CoV–2 or coronavirus disease 2019 (COVID–19).
+&emsp;(14) with respect to distilled spirits removed after December 31, 2019, and before January 1, 2021, free of tax for use in or contained in hand sanitizer produced and distributed in a manner consistent with any guidance issued by the Food and Drug Administration that is related to the outbreak of virus SARS–CoV–2 or coronavirus disease 2019 (COVID–19).
 
 #### (b) Cross references
 
@@ -149,7 +149,7 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 #### Application of Other Laws
 
-Pub. L. 116–136, div. A, title II, §2308(c), Mar. 27, 2020, 134 Stat. 359, provided that: "Any distilled spirits orproduct described in paragraph (14) of section 5214(a) of the Internal Revenue Code of 1986 (as added by this section) shall not be subject to any requirements related to labeling or bulk sales under—
+Pub. L. 116–136, div. A, title II, §2308(c), Mar. 27, 2020, 134 Stat. 359, provided that: "Any distilled spirits or product described in paragraph (14) of section 5214(a) of the Internal Revenue Code of 1986 (as added by this section) shall not be subject to any requirements related to labeling or bulk sales under—
 
 &emsp;"(1) section 105 or 106 of the Federal Alcohol Administration Act (27 U.S.C. 205, 206); or
 

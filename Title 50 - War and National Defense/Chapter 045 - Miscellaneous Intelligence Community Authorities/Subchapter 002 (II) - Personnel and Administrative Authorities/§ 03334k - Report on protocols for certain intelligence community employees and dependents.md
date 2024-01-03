@@ -34,7 +34,7 @@ The protocols described in this subsection are protocols to enable voluntary med
 
 &emsp;(4) a protocol for ensuring that all victims of anomalous health incidents are offered options for psychological treatment for the effects of such incidents; and
 
-&emsp;(5) a protocol for ensuring that any testing, evaluation, or collection of biofluids or other samples following a reported anomaloushealth incident may be compared against the baseline for the victim of the anomalous health incident, to the extent the individual participated in the baseline medical testing, consistent with subsections (b) and (c).
+&emsp;(5) a protocol for ensuring that any testing, evaluation, or collection of biofluids or other samples following a reported anomalous health incident may be compared against the baseline for the victim of the anomalous health incident, to the extent the individual participated in the baseline medical testing, consistent with subsections (b) and (c).
 
 #### (e) Protocol on information collection, storage, and safeguarding
 
@@ -82,7 +82,7 @@ In this section:
 
 #### (2) Covered employee
 
-&emsp;The term "covered employee" means an individual who is an employee, assignee, or detailee of an element of the intelligence community.
+&emsp;The term "covered employee" means an individual who is an employee, assignee, ordetailee of an element of the intelligence community.
 
 #### (3) Covered individual
 

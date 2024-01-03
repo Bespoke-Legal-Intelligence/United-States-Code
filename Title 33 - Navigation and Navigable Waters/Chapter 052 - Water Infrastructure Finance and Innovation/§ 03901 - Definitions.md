@@ -38,7 +38,7 @@ In this chapter:
 
 #### (7) Obligor
 
-&emsp;The term "obligor" means an eligible entity that is primarily liable for payment of the principal of, or interest on, a Federal credit instrument.
+&emsp;The term "obligor" means an eligible entity that is primarily liable for payment of theprincipal of, or interest on, a Federal credit instrument.
 
 #### (8) Project obligation
 

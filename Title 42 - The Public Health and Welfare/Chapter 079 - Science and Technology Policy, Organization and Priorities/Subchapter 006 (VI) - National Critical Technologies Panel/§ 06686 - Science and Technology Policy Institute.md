@@ -90,7 +90,7 @@ Subsec. (c)(2). Pub. L. 105–207, §208(a)(4)(D), substituted "with particular 
 
 Subsec. (c)(3). Pub. L. 105–207, §208(a)(4)(E), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Initiation of studies and analyses (including systems analyses and technology assessments) of alternatives available for ensuring long-term leadership by the United States in the development and application of the technologies referred to in paragraph (1), including appropriate roles for the Federal Government, State governments, private industry, and institutions of higher education in the development and application of such technologies."
 
-Subsec. (c)(4). Pub. L. 105–207, §208(a)(4)(F), (G), inserted "science and" after "Executive branch on" insubpar. (A) and amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "to the committees and panels of the Federal Coordinating Council for Science, Engineering, and Technology that are responsible for planning and coordinating activities of the Federal Government to advance the development of critical technologies and sustain and strengthen the technology base of the United States."
+Subsec. (c)(4). Pub. L. 105–207, §208(a)(4)(F), (G), inserted "science and" after "Executive branch on" in subpar. (A) and amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "to the committees and panels of the Federal Coordinating Council for Science, Engineering, and Technology that are responsible for planning and coordinating activities of the Federal Government to advance the development of critical technologies and sustain and strengthen the technology base of the United States."
 
 Subsec. (d). Pub. L. 105–207, §208(a)(3), (5), redesignated subsec. (e) as (d) and substituted "subsection (c)" for "subsection (d)" in introductory provisions. Former subsec. (d) redesignated (c).
 
@@ -134,7 +134,7 @@ Pub. L. 102–190, title VIII, §822(d)(2), Dec. 5, 1991, 105 Stat. 1435, provid
 
 #### References to Critical Technologies Institute
 
-Pub. L. 105–207, title II, §208(b), July 29, 1998, 112 Stat. 878, provided that: "All references in Federal law or regulations to the Critical Technologies Institute shall be considered to be references to the Science and Technology Policy Institute."
+Pub. L. 105–207, title II, §208(b), July 29, 1998, 112 Stat. 878, provided that: "All references in Federal law orregulations to the Critical Technologies Institute shall be considered to be references to the Science and Technology Policy Institute."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

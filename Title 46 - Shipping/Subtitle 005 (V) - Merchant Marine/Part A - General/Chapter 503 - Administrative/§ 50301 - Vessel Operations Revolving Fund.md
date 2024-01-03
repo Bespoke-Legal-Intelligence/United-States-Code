@@ -6,7 +6,7 @@ In General.—There is a "Vessel Operations Revolving Fund" for use by the Secre
 
 (b)
 
-Relationship to Other Laws.—Notwithstanding any other law, rates for shipping services provided under the Fund shall be prescribed by the Secretary and the Fund shall be credited with receipts from vessel operations conducted under the Fund. Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294),<sup>1</sup> apply to those operations and to seamen employed through general agents as employees of the United States Government. Notwithstanding any other law on the employment of persons by the Government, the seamen may be employed in accordance with customary commercial practices in the maritime industry.
+Relationship to Other Laws.—Notwithstanding any other law, rates for shipping services provided under the Fund shall be prescribed by the Secretary and the Fund shall be credited with receipts from vessel operations conducted under the Fund. Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 U.S.C. 4701(a), (c), 4703(c), 4704), apply to those operations and to seamen employed through general agents as employees of the United States Government. Notwithstanding any other law on the employment of persons by the Government, the seamen may be employed in accordance with customary commercial practices in the maritime industry.
 
 (c)
 
@@ -54,7 +54,7 @@ Availability for Additional Purposes.—The Fund is available for—
 
 Expenses and Receipts Related to Charter Operations.—The Fund is available for expenses incurred in activating, repairing, and deactivating merchant vessels chartered under the jurisdiction of the Secretary. Receipts from charter operations of Government-owned vessels under the jurisdiction of the Secretary shall be credited to the Fund.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1562.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1562; Pub. L. 118–31, div. C, title XXXV, §3514(d), Dec. 22, 2023, 137 Stat. 810.)
 
 Historical and Revision Notes
 
@@ -116,9 +116,7 @@ In subsection (g), the words "beginning July 1, 1956" and "after July 1, 1956" a
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294), referred to in subsec. (b), are sections 1(a) and (c), 3(c), and 4 of act Mar. 24, 1943, ch. 26, 57 Stat. 45, 47, 49, 51, which were formerly classified to sections 1291(a), (c), 1293(c), and 1294 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as sections 4701(a), (c), 4703(c), and 4704, respectively, of Title 50.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<b>2023</b>—Subsec. (b). Pub. L. 118–31 substituted "(50 U.S.C. 4701(a), (c), 4703(c), 4704)" for "(50 App. U.S.C. 1291(a), (c), 1293(c), 1294)".
 

@@ -14,7 +14,7 @@ Core capacity improvement project.—The term "core capacity improvement project
 
 &emsp;(3)
 
-Corridor-based bus rapid transit project.—The term "corridor-based bus rapidtransit project" means a small start project utilizing buses in which the project represents a substantial investment in a defined corridor as demonstrated by features that emulate the services provided by rail fixed guideway public transportation systems, including defined stations; traffic signal priority for public transportation vehicles; short headway bidirectional services for a substantial part of weekdays; and any other features the Secretary may determine support a long-term corridor investment, but the majority of which does not operate in a separated right-of-way dedicated for public transportation use during peak periods.
+Corridor-based bus rapid transit project.—The term "corridor-based bus rapid transit project" means a small start project utilizing buses in which the project represents a substantial investment in a defined corridor as demonstrated by features that emulate the services provided by rail fixed guideway public transportation systems, including defined stations; traffic signal priority for public transportation vehicles; short headway bidirectional services for a substantial part of weekdays; and any other features the Secretary may determine support a long-term corridor investment, but the majority of which does not operate in a separated right-of-way dedicated for public transportation use during peak periods.
 
 &emsp;(4)
 
@@ -376,7 +376,7 @@ Entrance into project development phase.—A new small starts project shall ente
 
 &emsp;&emsp;(B)
 
-Activities during project development phase.—Concurrent with the analysis required to be made under the National Environmental Policy Act of 1969 (42 U.S.C. 4321et seq.), each applicant shall develop sufficient information to enable the Secretary to make findings of project justification, policies and land use patterns that promote public transportation, and local financial commitment under this subsection.
+Activities during project development phase.—Concurrent with the analysis required to be made under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), each applicant shall develop sufficient information to enable the Secretary to make findings of project justification, policies and land use patterns that promote public transportation, and local financial commitment under this subsection.
 
 &emsp;(3)
 
@@ -390,7 +390,7 @@ Selection criteria.—The Secretary may provide Federal assistance for a small s
 
 &emsp;(4)
 
-Evaluation of benefits and federal investment.—In making a determination for a small start project under paragraph (3)(B), the Secretary shall analyze, evaluate, and consider the following evaluation criteria for the project (as compared to a no-action alternative): mobility improvements, environmental benefits, congestion relief, economic development effects associated with the project, policies and land use patterns that support public transportation and cost-effectiveness as measured by cost per rider.
+Evaluation of benefits and federal investment.—In making a determination for asmall start project under paragraph (3)(B), the Secretary shall analyze, evaluate, and consider the following evaluation criteria for the project (as compared to a no-action alternative): mobility improvements, environmental benefits, congestion relief, economic development effects associated with the project, policies and land use patterns that support public transportation and cost-effectiveness as measured by cost per rider.
 
 &emsp;(5)
 
@@ -574,7 +574,7 @@ Grant agreements.—
 
 &emsp;&emsp;(A)
 
-New start and core capacity improvement projects.—A new start project or core capacity improvement project in an immediate bundling request or future bundling request shall be carried out through a full funding grant agreement or expedited grant agreement pursuant to subsection (k)(2).
+New start and core capacity improvement projects.—A new start project or core capacity improvement project in animmediate bundling request or future bundling request shall be carried out through a full funding grant agreement or expedited grant agreement pursuant to subsection (k)(2).
 
 &emsp;&emsp;(B)
 
@@ -652,7 +652,7 @@ Statement of contingent commitment.—The agreement shall state that the conting
 
 &emsp;&emsp;&emsp;(iii)
 
-Interest and other financing costs.—Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a full funding grant agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at thetime of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
+Interest and other financing costs.—Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a full funding grant agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -736,7 +736,7 @@ Appropriation required.—An obligation may be made under this subsection only w
 
 &emsp;(5)
 
-Notification to congress.—Not later than 15 days before issuing a letter of intent,entering into a full funding grant agreement, or entering into an early systems work agreement under this section, the Secretary shall notify, in writing, the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives of the proposed letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project.
+Notification to congress.—Not later than 15 days before issuing a letter of intent, entering into a full funding grant agreement, or entering into an early systems work agreement under this section, the Secretary shall notify, in writing, the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives of the proposed letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project.
 
 (l)
 
@@ -938,7 +938,7 @@ Government share.—The Government share shall not exceed 80 percent of the net 
 
 &emsp;&emsp;(B)
 
-Non-government share.—The remainder of the net capital cost attributable tothe public transportation costs of a project under this subsection shall be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
+Non-government share.—The remainder of the net capital cost attributable to the public transportation costs of a project under this subsection shall be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
 
 (r)
 
@@ -1178,7 +1178,7 @@ In subsection (g)(2)(A)(i), the words "and conditions" are omitted as being incl
 
 In subsection (g)(4), the word "issued" is omitted as surplus. The text of 49 App.:1602(a)(4)(E) (3d sentence) is omitted as executed. The text of 49 App.:1602(a)(4)(E) (4th and last sentences) is omitted as obsolete.
 
-In subsection (h), the words "nature and extent of" are omitted as surplus. The words "net project cost" are substituted for "what portion of the cost of a project to be assisted under section 1602 of this Appendix cannot be reasonably financed from revenues—which portion shall hereinafter be called 'net project cost' " because of the definition of "net project cost" in section 5302(a) of the revised title. The words "Except as provided in paragraph (2) of this subsection" are added for clarity. The words "Such remainder may be provided in whole or in part from other than public sources and any public or private", "solely", and "at any time" are omitted as surplus. The words "shall be deemed" are omitted as unnecessary since the text is a statement of a legal conclusion.
+In subsection (h), the words "nature and extent of" are omitted as surplus. The words "net project cost"are substituted for "what portion of the cost of a project to be assisted under section 1602 of this Appendix cannot be reasonably financed from revenues—which portion shall hereinafter be called 'net project cost' " because of the definition of "net project cost" in section 5302(a) of the revised title. The words "Except as provided in paragraph (2) of this subsection" are added for clarity. The words "Such remainder may be provided in whole or in part from other than public sources and any public or private", "solely", and "at any time" are omitted as surplus. The words "shall be deemed" are omitted as unnecessary since the text is a statement of a legal conclusion.
 
 In subsection (i), before clause (1), the words "Except for a loan under subsection (b) of this section" are added for clarity. The words "made under this section" and "at a rate" are omitted as surplus. In clause (1), the word "market" is omitted as surplus. In clause (2), the words "under the program" are omitted as surplus.
 
@@ -1244,7 +1244,7 @@ Subsec. (k)(5). Pub. L. 117–58, §30005(a)(6)(B), substituted "Not later than 
 
 Subsec. (o)(2). Pub. L. 117–58, §30005(a)(7)(A), (B), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text read as follows: "Not later than the first Monday in August of each year, the Secretary shall submit to the committees described in paragraph (1) a report containing a summary of the results of any studies conducted under subsection (k)(2)(E)."
 
-Subsec. (o)(2)(A). Pub. L. 117–58, §30005(a)(7)(C)(i)(I)–(III), substituted "that" for "of" inintroductory provisions, inserted "(i) assesses—", redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and realigned margins.
+Subsec. (o)(2)(A). Pub. L. 117–58, §30005(a)(7)(C)(i)(I)–(III), substituted "that" for "of" in introductory provisions, inserted "(i) assesses—", redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and realigned margins.
 
 Subsec. (o)(2)(A)(i)(I). Pub. L. 117–58, §30005(a)(7)(C)(i)(IV)(aa), substituted "all new fixed guideway capital projects and core capacity improvement projects for grant agreements under this section and section 3005(b) of the Federal Public Transportation Act of 2015 (49 U.S.C. 5309 note; Public Law 114–94)" for "new fixed guideway capital projects and core capacity improvement projects".
 
@@ -1410,7 +1410,7 @@ Pub. L. 112–5, §303(2)(B), substituted "2011" for "2010, and $2,123,000 shall
 
 Subsec. (m)(7)(A). Pub. L. 112–30, §133(3)(A)(i), substituted "2011 and $5,000,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012," for "2011" and struck out "each fiscal year" before colon.
 
-Pub. L. 112–5, §303(3)(A)(i)–(iii), struck out cl. (i) designation and heading, substituted "$10,000,000 shall be available in each of fiscal years 2006 through 2011" for "$10,000,000 shall be available in each of fiscal years 2006 through 2010" in introductory provisions, redesignated subcls. (I) to (VIII) of former cl. (i) as cls. (i) to (viii), respectively, struck out former cl. (ii) which provided a special rule for Oct. 1, 2010, through Mar. 4, 2011, and realigned margins.
+Pub. L. 112–5, §303(3)(A)(i)–(iii), struck out cl. (i) designation and heading, substituted "$10,000,000 shall beavailable in each of fiscal years 2006 through 2011" for "$10,000,000 shall be available in each of fiscal years 2006 through 2010" in introductory provisions, redesignated subcls. (I) to (VIII) of former cl. (i) as cls. (i) to (viii), respectively, struck out former cl. (ii) which provided a special rule for Oct. 1, 2010, through Mar. 4, 2011, and realigned margins.
 
 Subsec. (m)(7)(A)(i), (ii). Pub. L. 112–30, §133(3)(A)(ii), (iii), substituted "$2,500,000 for each fiscal year and $1,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012," for "$2,500,000".
 
@@ -1500,7 +1500,7 @@ Pub. L. 111–147, §433(3)(E), inserted ", and $750,000 shall be available for
 
 <b>2008</b>—Subsec. (d)(5)(B). Pub. L. 110–244, §201(d)(1), substituted "this subsection and shall give comparable, but not necessarily equal, numerical weight to each project justification criteria in calculating the overall project rating." for "regulation."
 
-Subsec. (e)(6)(B). Pub. L. 110–244, §201(d)(2), substituted "subsection and shall give comparable, but not necessarily equal, numerical weight to each project justification criteria in calculating the overall project rating." for "subsection."
+Subsec. (e)(6)(B). Pub. L. 110–244, §201(d)(2), substituted "subsection and shall give comparable, but notnecessarily equal, numerical weight to each project justification criteria in calculating the overall project rating." for "subsection."
 
 Subsec. (m)(2)(A). Pub. L. 110–244, §201(d)(3), substituted "
 
@@ -1604,7 +1604,7 @@ Pub. L. 108–263, §7(a)(1)(A), (D), substituted "July 31, 2004" for "June 30, 
 
 Pub. L. 108–224, §7(a)(1)(D), which directed the amendment of subpar. (C) without providing closing quotation marks designating the provisions to be inserted, was executed by substituting "2003, and ending on June 30, 2004, during which $452,713,140 will be available" for "2003 and ending on April 30, 2004, during which $352,110,220 will be available", to reflect the probable intent of Congress.
 
-Pub. L. 108–202, §9(a)(1)(D), inserted ", except for the period beginning on October 1, 2003 and ending on April30, 2004, during which $352,110,220 will be available" after "facilities".
+Pub. L. 108–202, §9(a)(1)(D), inserted ", except for the period beginning on October 1, 2003 and ending on April 30, 2004, during which $352,110,220 will be available" after "facilities".
 
 Subsec. (m)(2)(B)(i). Pub. L. 108–280, §7(a)(2)(A), substituted "2004" for "2003".
 
@@ -1938,7 +1938,7 @@ In general.—Not later than 120 days after the date on which the Secretary rece
 
 &emsp;&emsp;"(i) of approval of the grant request; or
 
-&emsp;&emsp;"(ii) if the grant request does not meet the requirements under paragraph (4), of disapproval of the grant request, including a detailed explanation of the reasons for the disapproval.
+&emsp;&emsp;"(ii) if the grant request does not meet the requirements under paragraph (4), of disapproval ofthe grant request, including a detailed explanation of the reasons for the disapproval.
 
 &emsp;"(B)
 
@@ -2046,7 +2046,7 @@ Notification to congress.—
 
 &emsp;&emsp;"(i)
 
-In general.—Not later than 15 days before the date on which the Secretary issues a letter of intent or enters into a full funding grant agreement for an eligible project under this paragraph, theSecretary shall notify, in writing, the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives of the proposed letter of intent or full funding grant agreement.
+In general.—Not later than 15 days before the date on which the Secretary issues a letter of intent or enters into a full funding grant agreement for an eligible project under this paragraph, the Secretary shall notify, in writing, the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives of the proposed letter of intent or full funding grant agreement.
 
 &emsp;&emsp;"(ii)
 
@@ -2070,7 +2070,7 @@ Limitation on statutory construction.—Nothing in this subsection shall be cons
 
 &emsp;"(D)
 
-Special rule for rolling stock costs.—In addition to amounts allowed pursuant to subparagraph (A), a planned extension to a fixed guideway system may include the cost of rolling stock previously purchased if the applicant satisfies the Secretary that only amounts other than amounts provided by the Federal Government were used and that the purchase was made for use on the extension. A refund or reduction of the remainder may be made only if a refund of a proportional amount of the grant of the Federal Government is made at the same time.
+Special rule for rolling stock costs.—In addition to amounts allowed pursuant to subparagraph (A), a planned extension to a fixed guideway system may include the cost of rolling stock previously purchased if the applicant satisfies the Secretary that only amounts other than amounts provided by the Federal Government were used and that the purchase was made for use on the extension. A refund or reduction of the remainder may be made onlyif a refund of a proportional amount of the grant of the Federal Government is made at the same time.
 
 &emsp;"(E)
 
@@ -2138,7 +2138,7 @@ Pub. L. 105–178, title III, §3010, June 9, 1998, 112 Stat. 357, as amended by
 
 #### Job Access and Reverse Commute Grants
 
-Pub. L. 105–178, title III, §3037, June 9, 1998, 112 Stat. 387, as amended by Pub. L. 105–206, title IX, §9009(w), July 22, 1998, 112 Stat. 862; Pub. L. 108–88, §8(l), Sept. 30, 2003, 117 Stat. 1124; Pub. L. 108–202, §9(l), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(l), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(l), June 30, 2004, 118 Stat. 707; Pub. L. 108–280, §7(l), July 30, 2004, 118 Stat. 884; Pub. L. 108–310, §8(l), Sept. 30, 2004, 118 Stat. 1157; Pub.L. 109–14, §7(k), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(k), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(k), July 20, 2005, 119 Stat. 388; Pub. L. 109–37, §7(k), July 22, 2005, 119 Stat. 403; Pub. L. 109–40, §7(k), July 28, 2005, 119 Stat. 420, which authorized the Secretary of Transportation to make access to jobs grants and reverse commute grants to assist qualified entities in financing eligible projects, was repealed by Pub. L. 109–59, title III, §3018(c), Aug. 10, 2005, 119 Stat. 1605, effective Oct. 1, 2005.
+Pub. L. 105–178, title III, §3037, June 9, 1998, 112 Stat. 387, as amended by Pub. L. 105–206, title IX, §9009(w), July 22, 1998, 112 Stat. 862; Pub. L. 108–88, §8(l), Sept. 30, 2003, 117 Stat. 1124; Pub. L. 108–202, §9(l), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(l), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(l), June 30, 2004, 118 Stat. 707; Pub. L. 108–280, §7(l), July 30, 2004, 118 Stat. 884; Pub. L. 108–310, §8(l), Sept. 30, 2004, 118 Stat. 1157; Pub. L. 109–14, §7(k), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(k), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(k), July 20, 2005, 119 Stat. 388; Pub. L. 109–37, §7(k), July 22, 2005, 119 Stat. 403; Pub. L. 109–40, §7(k), July 28, 2005, 119 Stat. 420, which authorized the Secretary of Transportation to make access to jobs grants and reverse commute grants to assist qualified entities in financing eligible projects, was repealed by Pub. L. 109–59, title III, §3018(c), Aug. 10, 2005, 119 Stat. 1605, effective Oct. 1, 2005.
 
 #### Encouragement of Adversely Affected Industries To Compete for Contracts
 

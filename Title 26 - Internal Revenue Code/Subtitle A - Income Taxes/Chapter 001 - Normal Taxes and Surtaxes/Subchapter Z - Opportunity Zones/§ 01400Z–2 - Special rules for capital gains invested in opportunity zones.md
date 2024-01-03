@@ -36,7 +36,7 @@
 
 &emsp;&emsp;The amount of gain included in gross income under subsection (a)(1)(A) shall be the excess of—
 
-&emsp;&emsp;&emsp;(i) the lesser of the amount of gain excluded under paragraph (1) or the fair market value of the investment as determinedas of the date described in paragraph (1), over
+&emsp;&emsp;&emsp;(i) the lesser of the amount of gain excluded under paragraph (1) or the fair market value of the investment as determined as of the date described in paragraph (1), over
 
 &emsp;&emsp;&emsp;(ii) the taxpayer's basis in the investment.
 

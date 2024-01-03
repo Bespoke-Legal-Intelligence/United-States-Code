@@ -150,7 +150,7 @@ Except as provided by subsection (c)(2)(E), a grant provided under this chapter,
 
 #### (g) Report
 
-The Bureau shall submit an annual report to the Congress on all applications received, and actions taken (including the costs associated with such actions), under this section at the same time that the President is required to submit to Congress the budget under section 1105 of title 31.
+The Bureau shall submit an annual report to the Congress on all applications received, andactions taken (including the costs associated with such actions), under this section at the same time that the President is required to submit to Congress the budget under section 1105 of title 31.
 
 (Pub. L. 100–297, title V, §5205, as added Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2068.)
 

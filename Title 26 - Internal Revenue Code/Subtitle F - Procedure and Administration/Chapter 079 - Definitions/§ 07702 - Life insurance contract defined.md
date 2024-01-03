@@ -312,7 +312,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If at any time any contract which is a life insurance contract under the applicable law does not meet the definition of life insurance contract under subsection (a), the income on the contract for any taxable year of the policyholder shall be treated as ordinary income received or accrued by the policyholder during such year.
+&emsp;&emsp;If at any time any contract which is a life insurance contract under the applicable law does not meet the definition of life insurancecontract under subsection (a), the income on the contract for any taxable year of the policyholder shall be treated as ordinary income received or accrued by the policyholder during such year.
 
 #### (B) Income on the contract
 
@@ -404,7 +404,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title II, §221(a), July 18, 1984, 98 Stat. 767; amended Pub. L. 99–514, title XVIII, §1825(a)–(c), Oct. 22, 1986, 100 Stat. 2846–2848; Pub. L. 100–647, title V, §5011(a), (b), title VI, §6078(a), Nov. 10, 1988, 102 Stat. 3660, 3661, 3709; Pub. L. 115–97, title I, §13517(a)(4), Dec. 22, 2017, 131 Stat. 2146; Pub. L. 116–260, div. EE, title II, §205(a)–(d), Dec. 27, 2020, 134 Stat. 3058.)
+(Added Pub. L. 98–369, div. A, title II, §221(a), July 18, 1984, 98 Stat. 767; amended Pub. L. 99–514, title XVIII, §1825(a)–(c), Oct. 22, 1986, 100 Stat. 2846–2848; Pub. L. 100–647, title V, §5011(a),\(b), title VI, §6078(a), Nov. 10, 1988, 102 Stat. 3660, 3661, 3709; Pub. L. 115–97, title I, §13517(a)(4), Dec. 22, 2017, 131 Stat. 2146; Pub. L. 116–260, div. EE, title II, §205(a)–(d), Dec. 27, 2020, 134 Stat. 3058.)
 
 #### <b>Editorial Notes</b>
 

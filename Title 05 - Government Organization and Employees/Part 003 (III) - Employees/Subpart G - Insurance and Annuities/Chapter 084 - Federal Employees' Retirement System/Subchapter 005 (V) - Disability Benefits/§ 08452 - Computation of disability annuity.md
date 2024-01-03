@@ -22,7 +22,7 @@
 
 (B)(i) For purposes of this paragraph, the assumed disability insurance benefit of an annuitant for any month shall be equal to—
 
-&emsp;(I) the amount of the disability insurance benefit to which the annuitant is entitled under section 223 of the Social Security Act for the month in which the annuity under thissubchapter commences, or is restored, or, if no entitlement to such disability insurance benefits exists for such month, the first month thereafter for which the annuitant is entitled both to an annuity under this subchapter and disability insurance benefits under section 223 of the Social Security Act, adjusted by
+&emsp;(I) the amount of the disability insurance benefit to which the annuitant is entitled under section 223 of the Social Security Act for the month in which the annuity under this subchapter commences, or is restored, or, if no entitlement to such disability insurance benefits exists for such month, the first month thereafter for which the annuitant is entitled both to an annuity under this subchapter and disability insurance benefits under section 223 of the Social Security Act, adjusted by
 
 &emsp;(II) all adjustments made under section 8462(b) after the end of the period referred to in paragraph (1)(A)(i) (or, if later, after the end of the month preceding the first month for which the annuitant is entitled both to an annuity under this subchapter and disability insurance benefits under section 223 of the Social Security Act) and before the start of the month involved (without regard to whether the annuitant's annuity was affected by any of those adjustments).
 
@@ -80,7 +80,7 @@ Subsec. (a)(2)(B)(i). Pub. L. 100–238, §122(a), amended cl. (i) generally. Pr
 
 &emsp;"(II) all adjustments made under section 8462(b) between the date on which the annuity commenced, or was restored, and the start of the month involved (without regard to whether the annuitant's annuity was affected by any of those adjustments).
 
-> For purposes of computing the assumed disability insurance benefit, the month in which the annuitant's disability began (as determined under section 216(i)(2)(C) of the Social Security Act) shall be themonth in which the annuity commenced or, if earlier (and if a determination was actually made) the month determined under such section."
+> For purposes of computing the assumed disability insurance benefit, the month in which the annuitant's disability began (as determined under section 216(i)(2)(C) of the Social Security Act) shall be the month in which the annuity commenced or, if earlier (and if a determination was actually made) the month determined under such section."
 
 Subsec. (a)(3). Pub. L. 100–238, §122(c)(2)(B), added par. (3).
 

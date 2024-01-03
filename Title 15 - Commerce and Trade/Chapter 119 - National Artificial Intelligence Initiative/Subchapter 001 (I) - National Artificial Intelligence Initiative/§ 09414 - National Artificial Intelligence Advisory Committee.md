@@ -22,7 +22,7 @@ The Advisory Committee shall advise the President and the Initiative Office on m
 
 &emsp;(3) the state of the science around artificial intelligence, including progress toward artificial general intelligence;
 
-&emsp;(4) issues related to artificial intelligence and the United States workforce, including matters relating to the potential for using artificial intelligence for workforce training, the possible consequences of technological displacement, and supporting workforce training opportunities for occupations that lead to economic self-sufficiency for individuals with barriers to employment and historically underrepresented populations, including minorities, Indians (as defined in 25 U.S.C. 5304 <sup>1</sup> ), low-income populations, and persons with disabilities.
+&emsp;(4) issues related to artificial intelligence and the United States workforce, including matters relating to the potential for using artificial intelligence for workforce training, thepossible consequences of technological displacement, and supporting workforce training opportunities for occupations that lead to economic self-sufficiency for individuals with barriers to employment and historically underrepresented populations, including minorities, Indians (as defined in 25 U.S.C. 5304 <sup>1</sup> ), low-income populations, and persons with disabilities.
 
 &emsp;(5) how to leverage the resources of the initiative to streamline and enhance operations in various areas of government operations, including health care, cybersecurity, infrastructure, and disaster recovery;
 
@@ -30,7 +30,7 @@ The Advisory Committee shall advise the President and the Initiative Office on m
 
 &emsp;(7) the balance of activities and funding across the Initiative;
 
-&emsp;(8) whether the strategic plan developed or updated by the Interagency Committee established under section 9413(d)(2) of this title ishelping to maintain United States leadership in artificial intelligence;
+&emsp;(8) whether the strategic plan developed or updated by the Interagency Committee established under section 9413(d)(2) of this title is helping to maintain United States leadership in artificial intelligence;
 
 &emsp;(9) the management, coordination, and activities of the Initiative;
 
@@ -80,7 +80,7 @@ The Secretary of Commerce shall charter the Advisory Committee in accordance wit
 
 25 U.S.C. 5304, referred to in subsec. (d)(4), was so in the original, but probably should have been a reference to section 4 of the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, which is classified to section 5304 of Title 25, Indians.
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. Section 14 of the Act was repealed and restated as section 1013 of Title 5. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.)of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. Section 14 of the Act was repealed and restated as section 1013 of Title 5. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

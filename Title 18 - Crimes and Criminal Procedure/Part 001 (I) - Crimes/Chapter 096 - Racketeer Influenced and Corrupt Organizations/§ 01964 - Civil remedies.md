@@ -6,7 +6,7 @@
 
 (c) Any person injured in his business or property by reason of a violation of section 1962 of this chapter may sue therefor in any appropriate United States district court and shall recover threefold the damages he sustains and the cost of the suit, including a reasonable attorney's fee, except that no person may rely upon any conduct that would have been actionable as fraud in the purchase or sale of securities to establish a violation of section 1962. The exception contained in the preceding sentence does not apply to an action against any person that is criminally convicted in connection with the fraud, in which case the statute of limitations shall start to run on the date on which the conviction becomes final.
 
-(d) A final judgment or decree rendered in favor of the United States in any criminal proceeding brought by the United States under this chapter shall estop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding brought by the United States.
+(d) A final judgment or decree rendered in favor of the United States in any criminal proceeding brought by the United States under thischapter shall estop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding brought by the United States.
 
 (Added Pub. L. 91–452, title IX, §901(a), Oct. 15, 1970, 84 Stat. 943; amended Pub. L. 98–620, title IV, §402(24)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 104–67, title I, §107, Dec. 22, 1995, 109 Stat. 758.)
 

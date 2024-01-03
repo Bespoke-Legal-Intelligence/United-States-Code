@@ -268,7 +268,7 @@ Pub. L. 96–342, title IX, §906(a)(2), Sept. 8, 1980, 94 Stat. 1117, provided 
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–107, title IV, §402(c), Nov. 9, 1979, 93 Stat. 808, provided that: "The amendments made by this section \[amending sections 2131 and 2133 \[now 16131 and 16133\] of this title\] shall apply only to individuals enlisting in the Reserves after September 30, 1979."
+Pub. L. 96–107, title IV, §402(c), Nov. 9, 1979, 93 Stat. 808, provided that: "The amendments made by this section \[amending sections 2131 and 2133 \[now 16131 and16133\] of this title\] shall apply only to individuals enlisting in the Reserves after September 30, 1979."
 
 #### Increase in Benefit for Individuals Pursuing Apprenticeship or On-Job Training; Selected Reserve Montgomery GI Bill
 

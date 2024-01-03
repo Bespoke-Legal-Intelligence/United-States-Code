@@ -92,7 +92,7 @@ Pipeline Facilities Offshore and in Other Waters.—(1) In this subsection—
 
 (4)(A) The Secretary shall establish a standard that each pipeline facility described in paragraph (2) of this subsection that is a hazard to navigation is buried not later than 6 months after the date the condition of the facility is reported to the Secretary. The Secretary may extend that 6-month period for a reasonable period to ensure compliance with this paragraph.
 
-(B) In prescribing standards for subparagraph (A) of this paragraph for an underwater pipeline facility abandoned after October 24, 1992, the Secretary shall include requirements that will lessen the potential that the facility will pose a hazard to navigation and shall consider the relationship between water depth and navigational safety and factors relevant to the local marine environment.
+(B) In prescribing standards for subparagraph (A) of this paragraph for an underwater pipeline facility abandoned after October 24, 1992, the Secretary shall include requirements that will lessen the potential that the facility will pose a hazard to navigation and shall consider the relationship between water depth and navigationalsafety and factors relevant to the local marine environment.
 
 (5)(A) Not later than October 24, 1994, the Secretary shall establish standards on what is an exposed offshore pipeline facility and what is a hazard to navigation under this subsection.
 
@@ -434,7 +434,7 @@ Pub. L. 114–183, §11, June 22, 2016, 130 Stat. 521, provided that:
 
 "(a)
 
-Report.—Not later than 1 year after the date of enactment of this Act \[June 22, 2016\], the Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the feasibility of establishing a national integrated pipeline safety regulatory inspection database to improve communication and collaboration between the Pipeline and Hazardous Materials Safety Administration and State pipeline regulators.
+Report.—Not later than 1 year after the date of enactment of this Act \[June 22, 2016\], the Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the feasibilityof establishing a national integrated pipeline safety regulatory inspection database to improve communication and collaboration between the Pipeline and Hazardous Materials Safety Administration and State pipeline regulators.
 
 "(b)
 

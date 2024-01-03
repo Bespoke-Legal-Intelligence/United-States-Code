@@ -25,7 +25,7 @@
 
 <b>2004</b>—Pub. L. 108–375, div. A, title V, §§507(b)(2), 508(c)(2), Oct. 28, 2004, 118 Stat. 1876, 1877, inserted "; succession" after "grade" in item 10502 and substituted "Director of the Joint Staff" for "Vice Chief" in item 10505.
 
-<b>1996</b>—Pub. L. 104–106, div. A, title XV, §1501(b)(5), (7)(B), Feb. 10, 1996, 110 Stat. 496, inserted "Sec." at topof column of section numbers and struck out item 10508 "Definition".
+<b>1996</b>—Pub. L. 104–106, div. A, title XV, §1501(b)(5), (7)(B), Feb. 10, 1996, 110 Stat. 496, inserted "Sec." at top of column of section numbers and struck out item 10508 "Definition".
 
 <b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1661(c)(1)(B), Oct. 5, 1994, 108 Stat. 2982, added item 10507.
 

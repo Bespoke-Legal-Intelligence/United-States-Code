@@ -16,9 +16,19 @@ In general.—The Secretary of Defense shall prescribe procedures for the urgent
 
 &emsp;&emsp;&emsp;(iii) are based on technologies that are proven and available; and
 
-&emsp;&emsp;&emsp;(iv) can appropriately be acquired under fixed-price contracts; or
+&emsp;&emsp;&emsp;(iv) can appropriately be acquired under fixed-price contracts;
 
-&emsp;&emsp;(B) that can be developed or procured under a section 804 rapid acquisition pathway.
+&emsp;&emsp;(B) that can be developed or procured under a section 804 rapid acquisition pathway; or
+
+&emsp;&emsp;(C) with respect to an armed attack by a country of concern (as defined in section 1(m) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a(m)), to which the United States is not a party, for purposes of—
+
+&emsp;&emsp;&emsp;(i) replenishing United States stockpiles of defense articles when such stockpiles are diminished as a result of the United States providing defense articles in response to such armed attack by a country of concern against—
+
+&emsp;&emsp;&emsp;&emsp;(I) a United States ally (as that term is defined in section 201(d) of the Act of December 2, 1942, titled "To provide benefits for the injury, disability, death, or enemy detention of employees of contractors with the United States, and for other purposes" (56 Stat. 1028, chapter 668; 42 U.S.C. 1711(d))); or
+
+&emsp;&emsp;&emsp;&emsp;(II) a United States partner; or
+
+&emsp;&emsp;&emsp;(ii) contracting for the movement or delivery of defense articles transferred to such ally or partner through the President's drawdown authorities under sections 506(a)(1) and 614 of the Foreign Assistance Act of 1961 (22 U.S.C. 2318(a)(1) and 2364) in connection with such response.
 
 &emsp;(2)
 
@@ -44,7 +54,7 @@ Matters to Be Included.—The procedures prescribed under subsection (a) shall i
 
 &emsp;(3) A process to determine the disposition of a capability, including termination (demilitarization or disposal), continued sustainment, or transition to a program of record.
 
-&emsp;(4) Specific procedures in accordance with the guidance developed under section 804(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3201 prec.).<sup>1</sup>
+&emsp;(4) Specific procedures in accordance with the guidance developed under section 804(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3201 note prec.).
 
 (c)
 
@@ -54,11 +64,11 @@ Response to Combat Emergencies and Certain Urgent Operational Needs.—
 
 Determination of need for urgent acquisition and deployment.—(A) In the case of any capability that, as determined in writing by the Secretary of Defense, is urgently needed to eliminate a documented deficiency that has resulted in combat casualties, or is likely to result in combat casualties, the Secretary may use the procedures developed under this section in order to accomplish the urgent acquisition and deployment of the needed capability.
 
-&emsp;(B) In the case of any capability that, as determined in writing by the Secretary of Defense, is urgently needed to eliminate a documented deficiency that impacts an ongoing or anticipated contingency operation and that, if left unfulfilled, could potentially result in lossof life or critical mission failure, the Secretary may use the procedures developed under this section in order to accomplish the urgent acquisition and deployment of the needed capability.
+&emsp;(B) In the case of any capability that, as determined in writing by the Secretary of Defense, is urgently needed to eliminate a documented deficiency that impacts an ongoing or anticipated contingency operation and that, if left unfulfilled, could potentially result in loss of life or critical mission failure, the Secretary may use the procedures developed under this section in order to accomplish the urgent acquisition and deployment of the needed capability.
 
 &emsp;(C)(i) In the case of any cyber capability that, as determined in writing by the Secretary of Defense, is urgently needed to eliminate a deficiency that as the result of a cyber attack has resulted in critical mission failure, the loss of life, property destruction, or economic effects, or if left unfilled is likely to result in critical mission failure, the loss of life, property destruction, or economic effects, the Secretary may use the procedures developed under this section in order to accomplish the urgent acquisition and deployment of the needed offensive or defensive cyber capability.
 
-&emsp;(ii) In this subparagraph, the term "cyber attack" means a deliberate action to alter, disrupt, deceive, degrade, or destroy computer systems or networks or the information or programs resident in or transiting these systems or networks.
+&emsp;(ii) In this subparagraph, the term "cyber attack" means a deliberate action to alter, disrupt, deceive, degrade, or destroy computer systems or networks or the information orprograms resident in or transiting these systems or networks.
 
 &emsp;(2)
 
@@ -122,7 +132,7 @@ Notification to congressional defense committees.—(A) In the case of a determi
 
 &emsp;(5)
 
-Limitation on officers with authority.—The authority to make determinations under subparagraph (A), (B), or (C) of paragraph (1) and under paragraph (3)(A) that funds are necessary to immediately initiate a project under a section 804 rapid acquisition pathway, to designate a senior official responsible under paragraph (3), and to provide notification to the congressional defense committees under paragraph (4) may be exercised only by the Secretary of Defense or the Deputy Secretary of Defense.
+Limitation on officers with authority.—The authority to make determinations under subparagraph (A), (B), or (C) of paragraph (1) and under paragraph (3)(A) that funds are necessary to immediately initiate a project under a section 804 rapid acquisitionpathway, to designate a senior official responsible under paragraph (3), and to provide notification to the congressional defense committees under paragraph (4) may be exercised only by the Secretary of Defense or the Deputy Secretary of Defense.
 
 (d)
 
@@ -170,9 +180,151 @@ Limitation.—The process prescribed under subsection (b)(2)(A) may not include 
 
 Director of operational test and evaluation access.—If a capability is deployed under the procedures prescribed pursuant to this section, or under any other authority, before operational test and evaluation of the capability is completed, the Director of Operational Test and Evaluation shall have access to operational records and data relevant to such capability in accordance with section 139(e)(3) of this title for the purpose of completing operational test and evaluation of the capability. Such access shall be provided in a time and manner determined by the Secretary of Defense consistent with requirements of operational security and other relevant operational requirements.
 
-(Added Pub. L. 117–263, div. A, title VIII, §804(a), Dec. 23, 2022, 136 Stat. 2696.)
+(Added Pub. L. 117–263, div. A, title VIII, §804(a), Dec. 23, 2022, 136 Stat. 2696; amended Pub. L. 118–31, div. A, title VIII, §831, title XVIII, §1801(a)(28), Dec. 22, 2023, 137 Stat. 336, 684.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2023</b>—Subsec. (a)(1)(C). Pub. L. 118–31, §831, added subpar. (C).
+
+Subsec. (b)(4). Pub. L. 118–31, §1801(a)(28), inserted "note" before "prec."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Rapid Response to Emergent Technology Advancements or Threats
+
+Pub. L. 118–31, div. A, title II, §229, Dec. 22, 2023, 137 Stat. 200, provided that:
+
+"(a)
+
+Authorities.—Upon approval by the Secretary of Defense of a determination described in subsection (b), the Secretary of a military department may use the rapid acquisition and funding authorities established pursuant to section 3601 of title 10, United States Code, to initiate urgent or emerging operational development activities for a period of up to one year, in order to—
+
+&emsp;"(1) leverage an emergent technological advancement of value to the national defense to address a military service-specific need; or
+
+&emsp;"(2) provide a rapid response to an emerging threat identified by a military service.
+
+"(b)
+
+Determination.—A determination described in this subsection is a determination by the Secretary of a military department submitted in writing to the Secretary of Defense that provides the following:
+
+&emsp;"(1) Identification of a compelling urgent or emergency national security need to immediately initiate development activity in anticipation of a programming or budgeting action, in order to leverage an emergent technological advancement or provide a rapid response to an emerging threat.
+
+&emsp;"(2) Justification for why the effort cannot be delayed until the next submission of the budget of the President (under section 1105(a) of title 31, United States Code) without harming the national defense.
+
+&emsp;"(3) Funding is identified for the effort in the current fiscal year to initiate the activity.
+
+&emsp;"(4) An appropriate acquisition pathway and programmed funding for transition to continued development, integration, or sustainment is identified to on-ramp this activity within two years.
+
+"(c)
+
+Additional Procedures.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense shall amend the procedures for the rapid acquisition and deployment of capabilities needed in response to urgent operational needs prescribed pursuant to such section 3601 to carry out this section. Such updated procedures shall be provided to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] concurrently with the promulgation to the rest of the Department of Defense.
+
+&emsp;"(2)
+
+Requirements to be included.—The procedures amended under paragraph (1) shall include the following requirements:
+
+&emsp;&emsp;"(A)
+
+Funding.—(i) Subject to clause (ii), in any fiscal year in which a determination described in subsection (b) is made, the Secretary of the military department making the determination may initiate the activities authorized under subsection (a) using any funds available to the Secretary for such fiscal year for—
+
+&emsp;&emsp;&emsp;"(I) procurement; or
+
+&emsp;&emsp;&emsp;"(II) research, development, test, and evaluation.
+
+&emsp;&emsp;"(ii) The total cost of all developmental activities within the Department of Defense, funded under this section, may not exceed $100,000,000 for any fiscal year.
+
+&emsp;&emsp;"(B)
+
+Waiver authority.—(i) Subject to clause (ii), the Secretary of the military department making a determination under subsection (b) may issue a waiver under subsection (d) of such section 3601.
+
+&emsp;&emsp;"(ii) Chapter 221 of title 10, United States Code, may not be waived pursuant to clause (i).
+
+&emsp;&emsp;"(C)
+
+Transition.—(i) Any acquisition initiated under subsection (a) shall transition to an appropriate acquisition pathway for transition and integration of the development activity, or be transitioned to a newly established program element or procurement line for completion of such activity.
+
+&emsp;&emsp;"(ii)(I) Transition shall be completed within one year of initiation, but may be extended one time only at the discretion of the Secretary of the military department for one additional year.
+
+&emsp;&emsp;"(II) In the event an extension determination is made under subclause (I), the affected Secretary of the military department shall submit to the congressional defense committees, not later than 30 days before the extension takes effect, written notification of the extension with a justification for the extension.
+
+&emsp;"(3)
+
+Submittal to congress.—Concurrent with promulgation to the Department of the amendments to the procedures under paragraph (1), the Secretary shall submit to the congressional defense committees the procedures updated by such amendments.
+
+"(d)
+
+Congressional Notification.—Within 15 days after the Secretary of Defense approves a determination described in subsection (b), the Secretary of the military department making the determination shall provide written notification of such determination to the congressional defense committees following the procedures for notification in subsections (c)(4)(D) and (c)(4)(F) of such section 3601. A notice under this subsection shall be sufficient to fulfill any requirement to provide notification to Congress for a new start program."
+
+#### Special Authority for Rapid Contracting for Commanders of Combatant Commands
+
+Pub. L. 118–31, div. A, title VIII, §843, Dec. 22, 2023, 137 Stat. 342, provided that:
+
+"(a)
+
+In General.—The commander of a combatant command, upon providing a written determination to a senior contracting official (as defined in section 1737 of title 10, United States Code), may request use of the special authorities described in subsection (b)—
+
+&emsp;"(1) in support of a contingency operation (as defined in section 101(a) of title 10, United States Code);
+
+&emsp;"(2) to facilitate the defense against or recovery from a cyber attack, nuclear attack, biological attack, chemical attack, or radiological attack against the United States;
+
+&emsp;"(3) in support of a humanitarian or peacekeeping operation (as the term is defined in section 3015(2) of title 10, United States Code); and
+
+&emsp;"(4) for purposes of protecting the national security interests of the United States during directed operations that are below the threshold of traditional armed conflict.
+
+"(b)
+
+Special Authorities Described.—The special authorities for contracting that may be used by the senior contracting official to rapidly respond to time-sensitive or unplanned emergency situations are as follows:
+
+&emsp;"(1) Procedures applicable to purchases below micro-purchase threshold (described in section 1902 of title 41, United States Code), with respect to a single contracting action taken under subsection (a) for a contract to be awarded and performed, or purchase to be made—
+
+&emsp;&emsp;"(A) in the United States, with a value less than $15,000; or
+
+&emsp;&emsp;"(B) outside the United States, with a value less than $25,000.
+
+&emsp;"(2) Simplified acquisition procedures (described in section 1901 of title 41, United States Code), with respect to a single contracting action taken under subsection (a) for a contract to be awarded and performed, or purchase to be made—
+
+&emsp;&emsp;"(A) in the United States, with a value less than $750,000; or
+
+&emsp;&emsp;"(B) outside the United States, with a value less than $1,500,000.
+
+&emsp;"(3) For simplified procedures for purchases under section 3205 of title 10, United States Code, subsection (a)(2) of such section shall be applied by substituting '$10,000,000' for '$5,000,000'.
+
+&emsp;"(4) The property or service being procured may be treated as a commercial product or a commercial service for the purpose of carrying out the procurement.
+
+"(c)
+
+Determination.—A written determination required under subsection (a)—
+
+&emsp;"(1) may include more than one requested action;
+
+&emsp;"(2) may be directed to more than one senior contracting official; and
+
+&emsp;"(3) shall include—
+
+&emsp;&emsp;"(A) the rationale for the request in accordance with paragraphs (1) through (4) of such subsection;
+
+&emsp;&emsp;"(B) a description of any special authority requested; and
+
+&emsp;&emsp;"(C) an attestation that funds are available for such special authority.
+
+"(d)
+
+Sunset.—The authority under subsection (a) shall terminate on September 30, 2028.
+
+"(e)
+
+Annual Report.—Not later than January 15, 2025, and annually thereafter for four years, the Chairman of the Joint Chiefs of Staff, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of the authority under this section for the fiscal year preceding the date of submission of the report. The report shall include a summary of each instance of the authority being used, including—
+
+&emsp;"(1) an identification of each commander submitting a request under subsection (a);
+
+&emsp;"(2) an identification of each senior contracting official responding to such request; and
+
+&emsp;"(3) the specific special authority requested, including an identification of the contractor that performed the contract and the value of the contract."
 
 #### Notice to Committees on Appropriations To Be Concurrently Submitted to Subcommittees on Defense
 

@@ -54,7 +54,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 #### (B) Reductions in value for blockage or similar factors
 
-&emsp;&emsp;In determining the value of any securities under this paragraph, the fair market value of such securities (determined without regard to any reduction in value) shall not be reduced unless, and only to the extent that,the private foundation establishes that as a result of—
+&emsp;&emsp;In determining the value of any securities under this paragraph, the fair market value of such securities (determined without regard to any reduction in value) shall not be reduced unless, and only to the extent that, the private foundation establishes that as a result of—
 
 &emsp;&emsp;&emsp;(i) the size of the block of such securities,
 
@@ -96,7 +96,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 &emsp;The deduction modifications referred to in paragraph (1)(B) are as follows:
 
-&emsp;&emsp;(A) no deduction shall be allowed other than all the ordinary and necessary expenses paid or incurred for the production or collection of gross income or for the management, conservation, or maintenance of property held for the production of such income and the allowances for depreciation and depletion determined under section 4940(c)(3)(B), and
+&emsp;&emsp;(A) no deduction shall be allowed other than all the ordinary and necessary expenses paid or incurred for the production or collection of gross income or for the management, conservation, or maintenance of property held for the production of such income andthe allowances for depreciation and depletion determined under section 4940(c)(3)(B), and
 
 &emsp;&emsp;(B) section 265 (relating to expenses and interest relating to tax-exempt interest) shall not apply.
 
@@ -128,7 +128,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 &emsp;&emsp;&emsp;(ii)(I) the project will not be completed before the end of the taxable year of the foundation in which the set-aside is made,
 
-&emsp;&emsp;&emsp;(II) the private foundation in each taxable year beginning after December 31, 1975 (or after the end of the fourth taxable year following the year of its creation, whichever is later), distributes amounts, in cash or its equivalent, equal to not less than the distributable amount determinedunder subsection (d) (without regard to subsection (i)) for purposes described in section 170(c)(2)(B) (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years), and
+&emsp;&emsp;&emsp;(II) the private foundation in each taxable year beginning after December 31, 1975 (or after the end of the fourth taxable year following the year of its creation, whichever is later), distributes amounts, in cash or its equivalent, equal to not less than the distributable amount determined under subsection (d) (without regard to subsection (i)) for purposes described in section 170(c)(2)(B) (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years), and
 
 &emsp;&emsp;&emsp;(III) the private foundation has distributed (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years) during the four taxable years immediately preceding its first taxable year beginning after December 31, 1975, or the fifth taxable year following the year of its creation, whichever is later, an aggregate amount, in cash or its equivalent, of not less than the sum of the following: 80 percent of the first preceding taxable year's distributable amount; 60 percent of the second preceding taxable year's distributable amount; 40 percent of the third preceding taxable year's distributable amount; and 20 percent of the fourth preceding taxable year's distributable amount.
 
@@ -150,7 +150,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 &emsp;&emsp;For purposes of subparagraph (D), with respect to any taxable year of a private foundation, the taxable years in the adjustment period are the taxable years (not exceeding 5) beginning after December 31, 1975, and immediately preceding the taxable year.
 
-> &emsp;In the case of a set-aside which satisfies the requirements of clause (i) of subparagraph (B), for good cause shown, the period for paying the amount set aside may be extended by the Secretary.
+> &emsp;In the case of a set-aside which satisfies the requirements of clause (i) of subparagraph (B),for good cause shown, the period for paying the amount set aside may be extended by the Secretary.
 
 #### (3) Certain contributions to section 501(c)(3) organizations
 
@@ -376,7 +376,7 @@ Pub. L. 95–600, title V, §522(b), Nov. 6, 1978, 92 Stat. 2885, provided that:
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XIII, §1302(c), Oct. 4, 1976, 90 Stat. 1715, provided that: "The amendments made by this section \[amending this section and section 6501 of this title\] shall apply to taxable years beginning after December 31, 1974."
+Pub. L. 94–455, title XIII, §1302(c), Oct. 4, 1976, 90 Stat. 1715, provided that: "The amendments made by thissection \[amending this section and section 6501 of this title\] shall apply to taxable years beginning after December 31, 1974."
 
 Pub. L. 94–455, title XIII, §1303(b), Oct. 4, 1976, 90 Stat. 1715, provided that: "The amendment made by this section \[amending this section\] applies to taxable years beginning after December 31, 1975."
 

@@ -30,7 +30,7 @@ Responsibilities.—The senior official designated under subsection (a) shall be
 
 &emsp;(5) Advising acquisition officials on performance issues regarding a major defense acquisition program that may arise—
 
-&emsp;&emsp;(A) before certification under sections 4736 <sup>1</sup> and 4377 of this title;
+&emsp;&emsp;(A) before certification under sections 4376 and 4377 of this title;
 
 &emsp;&emsp;(B) before entry into full-rate production; or
 
@@ -38,7 +38,7 @@ Responsibilities.—The senior official designated under subsection (a) shall be
 
 (c)
 
-Performance Assessments.—For purposes of this section, a performance assessment withrespect to a major defense acquisition program is an evaluation of the following:
+Performance Assessments.—For purposes of this section, a performance assessment with respect to a major defense acquisition program is an evaluation of the following:
 
 &emsp;(1) The cost, schedule, and performance of the program, relative to current metrics, including performance requirements and baseline descriptions.
 
@@ -68,7 +68,7 @@ Root Cause Analyses.—For purposes of this section and sections 4736 <sup>1</s
 
 Support of Applicable Capabilities and Expertise.—The Secretary of Defense shall ensure that the senior official designated under subsection (a) has the support of other Department of Defense officials with relevant capabilities and expertise needed to carry out the requirements of this section.
 
-(Added and amended Pub. L. 111–383, div. A, title IX, §901(d), (k)(1)(F), Jan. 7, 2011, 124 Stat. 4321, 4325, §2438; Pub. L. 112–239, div. A, title X, §1076(f)(27), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 114–92, div. A, title X, §1077(b), Nov. 25, 2015, 129 Stat. 998; Pub. L. 116–92, div. A, title IX, §902(72), Dec. 20, 2019, 133 Stat. 1551; renumbered §4273 and amended Pub. L. 116–283, div. A, title XVIII, §1847(e)(3), Jan. 1, 2021, 134 Stat. 4256; Pub. L. 117–81, div. A, title XVII, §1701(b)(16)(B), Dec. 27, 2021, 135 Stat. 2134.)
+(Added and amended Pub. L. 111–383, div. A, title IX, §901(d), (k)(1)(F), Jan. 7, 2011, 124 Stat. 4321, 4325, §2438; Pub. L. 112–239, div. A, title X, §1076(f)(27), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 114–92, div. A, title X, §1077(b), Nov. 25, 2015, 129 Stat. 998; Pub. L. 116–92, div. A, title IX, §902(72), Dec. 20, 2019, 133 Stat. 1551; renumbered §4273 and amended Pub. L. 116–283, div. A, title XVIII, §1847(e)(3), Jan. 1, 2021, 134 Stat. 4256; Pub. L. 117–81, div. A, title XVII, §1701(b)(16)(B), Dec. 27, 2021, 135 Stat. 2134; Pub. L. 118–31, div. A, title XVIII, §1801(a)(34), Dec. 22, 2023, 137 Stat. 685.)
 
 #### <b>Editorial Notes</b>
 
@@ -77,6 +77,8 @@ Support of Applicable Capabilities and Expertise.—The Secretary of Defense sha
 Section 103 of Pub. L. 111–23, formerly set out as a note under section 2430 of this title, which was transferred to chapter 144 of this title, renumbered as section 2438, and amended by Pub. L. 111–383, §901(d), (k)(1)(F), and subsequently renumbered as this section and amended by Pub. L. 116–283, §1847(e)(3), was based on Pub. L. 111–23, title I, §103, May 22, 2009, 123 Stat. 1715.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(5)(A). Pub. L. 118–31 substituted "sections 4376" for "sections 4736".
 
 <b>2021</b>—Pub. L. 116–283, §1847(e)(3), renumbered section 2438 of this title as this section.
 

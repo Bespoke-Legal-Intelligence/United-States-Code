@@ -18,7 +18,7 @@ Unless otherwise prescribed by the Secretary—
 
 #### (c) Delinquent Internal Revenue officers and employees
 
-If any officer or employee of the Treasury Department acting in connection with the internalrevenue laws fails to account for and pay over any amount of money or property collected or received by him in connection with the internal revenue laws, the Secretary shall issue notice and demand to such officer or employee for payment of the amount which he failed to account for and pay over, and, upon failure to pay the amount demanded within the time specified in such notice, the amount so demanded shall be deemed imposed upon such officer or employee and assessed upon the date of such notice and demand, and the provisions of chapter 64 and all other provisions of law relating to the collection of assessed taxes shall be applicable in respect of such amount.
+If any officer or employee of the Treasury Department acting in connection with the internal revenue laws fails to account for and pay over any amount of money or property collected or received by him in connection with the internal revenue laws, the Secretary shall issue notice and demand to such officer or employee for payment of the amount which he failed to account for and pay over, and, upon failure to pay the amount demanded within the time specified in such notice, the amount so demanded shall be deemed imposed upon such officer or employee and assessed upon the date of such notice and demand, and the provisions of chapter 64 and all other provisions of law relating to the collection of assessed taxes shall be applicable in respect of such amount.
 
 #### (d) Prohibition on rehiring employees involuntarily separated
 
@@ -114,7 +114,7 @@ Acts or Omissions.—The acts or omissions referred to under subsection (a) are�
 
 &emsp;"(7) willful misuse of the provisions of section 6103 of the Internal Revenue Code of 1986 for the purpose of concealing information from a congressional inquiry;
 
-&emsp;"(8) willful failure to file any return of tax required under the Internal Revenue Code of 1986 on or before the date prescribed therefor (including any extensions), unless such failure is due to reasonable cause and not to willful neglect;
+&emsp;"(8) willful failure to file any return of tax required under the Internal Revenue Code of 1986 on or beforethe date prescribed therefor (including any extensions), unless such failure is due to reasonable cause and not to willful neglect;
 
 &emsp;"(9) willful understatement of Federal tax liability, unless such understatement is due to reasonable cause and not to willful neglect; and
 

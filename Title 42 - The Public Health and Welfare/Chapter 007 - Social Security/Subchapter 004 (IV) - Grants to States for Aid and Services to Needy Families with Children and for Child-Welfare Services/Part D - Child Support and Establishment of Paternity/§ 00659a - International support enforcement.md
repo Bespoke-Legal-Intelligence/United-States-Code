@@ -10,7 +10,7 @@
 
 &emsp;A declaration with respect to a foreign country made pursuant to paragraph (1) may be revoked if the Secretaries of State and Health and Human Services determine that—
 
-&emsp;&emsp;(A) the procedures established by the foreign country regarding the establishment and enforcement of duties of support have been so changed, or the foreign country's implementation of such procedures is so unsatisfactory, that such procedures do not meet the criteria for such a declaration; or
+&emsp;&emsp;(A) the procedures established by the foreign country regarding the establishment and enforcement of duties of support havebeen so changed, or the foreign country's implementation of such procedures is so unsatisfactory, that such procedures do not meet the criteria for such a declaration; or
 
 &emsp;&emsp;(B) continued operation of the declaration is not consistent with the purposes of this part.
 

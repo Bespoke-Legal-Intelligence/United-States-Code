@@ -10,7 +10,7 @@ In general.—A prime contract (or change or modification to a prime contract) u
 
 &emsp;(2)
 
-What constitutes defective cost or pricing data.—For the purposes of this chapter, defective cost or pricing data are cost or pricing data that, as of the date of agreement on the price of the contract (or another date agreed on between the parties), were inaccurate, incomplete, or noncurrent. If for purposes of the preceding sentence the parties agree on a date other than the date of agreement on the price of the contract, the date agreed on by the parties shall be as close to the date of agreement on the price of the contract as is practicable.
+What constitutes defective cost or pricing data.—For the purposes of this chapter, defective cost or pricing data are cost orpricing data that, as of the date of agreement on the price of the contract (or another date agreed on between the parties), were inaccurate, incomplete, or noncurrent. If for purposes of the preceding sentence the parties agree on a date other than the date of agreement on the price of the contract, the date agreed on by the parties shall be as close to the date of agreement on the price of the contract as is practicable.
 
 (b)
 

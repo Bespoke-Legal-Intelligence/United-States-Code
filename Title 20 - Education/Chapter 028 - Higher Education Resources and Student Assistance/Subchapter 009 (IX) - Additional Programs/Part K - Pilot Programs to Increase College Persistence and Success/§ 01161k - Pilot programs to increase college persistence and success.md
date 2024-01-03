@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-From the amounts appropriated under subsection (i), the Secretary is authorized to award grants in accordance with this section, on a competitive basis, to eligible institutions to enable the institutions to develop programs to increase the persistence and success of low-income college students.
+From the amounts appropriated under subsection (i), the Secretary is authorized to award grants in accordance with this section, on acompetitive basis, to eligible institutions to enable the institutions to develop programs to increase the persistence and success of low-income college students.
 
 #### (b) Applications
 
@@ -154,7 +154,7 @@ From the amounts appropriated under subsection (i), the Secretary is authorized 
 
 &emsp;&emsp;(C) Learning communities that ensure that students participating in the program are clustered together for at least two courses beginning in the first semester after enrolling and have other opportunities to create and maintain bonds that allow them to provide academic and social support to each other.
 
-&emsp;&emsp;(D) Curricular redesign, which may include such innovations as blended or accelerated remediation classes that help student success grant recipients to attain college-level reading, writing, or math skills (or a combination thereof) more rapidly than traditional remediation formats allow, and intensive skills refresher classes, offered prior to each semester, to help students who have tested into remedial coursework to reachentry level assessment scores for the postsecondary programs they wish to enter.
+&emsp;&emsp;(D) Curricular redesign, which may include such innovations as blended or accelerated remediation classes that help student success grant recipients to attain college-level reading, writing, or math skills (or a combination thereof) more rapidly than traditional remediation formats allow, and intensive skills refresher classes, offered prior to each semester, to help students who have tested into remedial coursework to reach entry level assessment scores for the postsecondary programs they wish to enter.
 
 &emsp;&emsp;(E) Instructional support, such as learning labs, supplemental instruction, and tutoring.
 

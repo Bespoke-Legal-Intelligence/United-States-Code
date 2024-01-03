@@ -112,7 +112,7 @@ Authorization of appropriations.—There is authorized to be appropriated $10,00
 
 (c)
 
-Crediting Appropriations for Expenditures for Training.—The Secretary may creditto an appropriation authorized under subsection (a) amounts received from sources other than the Government for reimbursement for expenses incurred by the Secretary in providing training.
+Crediting Appropriations for Expenditures for Training.—The Secretary may credit to an appropriation authorized under subsection (a) amounts received from sources other than the Government for reimbursement for expenses incurred by the Secretary in providing training.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1327; Pub. L. 104–304, §21, Oct. 12, 1996, 110 Stat. 3805; Pub. L. 107–355, §22, Dec. 17, 2002, 116 Stat. 3010; Pub. L. 109–468, §18(a)–(c), Dec. 29, 2006, 120 Stat. 3497, 3498; Pub. L. 112–90, §32(a), (b), Jan. 3, 2012, 125 Stat. 1922; Pub. L. 114–183, §2(a), June 22, 2016, 130 Stat. 514; Pub. L. 116–260, div. R, title I, §101(a), (d), Dec. 27, 2020, 134 Stat. 2211, 2213.)
 
@@ -212,7 +212,7 @@ Subsec. (b)(2). Pub. L. 112–90, §32(b), substituted "2012 through 2015" for "
 
 Subsec. (b). Pub. L. 109–468, §18(b), redesignated subsec. (d) as (b) and struck out former subsec. (b) which limited appropriation amounts for fiscal years 2003 through 2006 to carry out section 60107 of this title.
 
-Subsec. (b)(1). Pub. L. 109–468, §18(c)(1), inserted at end "To the extent that such grants are used to train emergency responders, such training shall ensure thatemergency responders have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving gas or hazardous liquid pipelines, in accordance with existing regulations."
+Subsec. (b)(1). Pub. L. 109–468, §18(c)(1), inserted at end "To the extent that such grants are used to train emergency responders, such training shall ensure that emergency responders have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving gas or hazardous liquid pipelines, in accordance with existing regulations."
 
 Subsec. (b)(2). Pub. L. 109–468, §18(c)(2), substituted "$10,000,000" for "$6,000,000" and "2007 through 2010" for "2003 through 2006".
 

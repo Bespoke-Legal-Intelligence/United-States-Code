@@ -22,7 +22,7 @@ Notwithstanding any other provision of law (other than the Trafficking Victims P
 
 #### (b) Authorization of appropriations
 
-Of the amounts authorized to be appropriated to carry out part I and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq. and 2346 et seq.) for fiscal years 2021 and 2022, $80,000,000 is authorized to be appropriated for each such fiscal year to carry out this section.
+Of the amounts authorized to be appropriated to carry out part I and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq. and 2346 et seq.) for fiscal years 2021 and 2022, $80,000,000 is authorized to be appropriatedfor each such fiscal year to carry out this section.
 
 (Pub. L. 116–283, div. A, title XII, §1265, Jan. 1, 2021, 134 Stat. 3970.)
 
@@ -30,7 +30,7 @@ Of the amounts authorized to be appropriated to carry out part I and chapter 4 o
 
 #### References in Text
 
-The Trafficking Victims Protection Act of 2000, referred to in subsec. (a), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally tochapter 78 (§7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+The Trafficking Victims Protection Act of 2000, referred to in subsec. (a), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 The Child Soldiers Prevention Act of 2008, referred to in subsec. (a), is title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables.
 

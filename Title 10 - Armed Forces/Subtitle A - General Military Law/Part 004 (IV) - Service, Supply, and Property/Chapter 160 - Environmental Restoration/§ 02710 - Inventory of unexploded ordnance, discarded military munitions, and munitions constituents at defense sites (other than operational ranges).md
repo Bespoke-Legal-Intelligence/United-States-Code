@@ -12,7 +12,7 @@ Inventory Required.—(1) The Secretary of Defense shall develop and maintain an
 
 &emsp;(C) Known persons and entities, other than a military department, with any current ownership interest or control of lands encompassed by the defense site.
 
-&emsp;(D) Any restrictions or other land use controls currently in place at the defense site that might affect the potential for public and environmental exposure to the unexploded ordnance, discarded military munitions, or munitions constituents.
+&emsp;(D) Any restrictions or other land use controls currently in place at the defense sitethat might affect the potential for public and environmental exposure to the unexploded ordnance, discarded military munitions, or munitions constituents.
 
 (b)
 
@@ -116,7 +116,7 @@ Report.—Not later than October 1, 2009, the Secretary shall submit to the Comm
 
 "(c)
 
-Unexploded Ordnance Defined.—In this section, the term 'unexploded ordnance' has the meaning given such term in section 101(e)(5) of title 10, United States Code."
+Unexploded Ordnance Defined.—In this section, the term 'unexploded ordnance' has the meaning given such term in section 101(e)(5) of title 10, United States Code \[now 10 U.S.C. 101(f)(5)\]."
 
 \[Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(1) to section 314 of Pub. L. 110–417, set out above, is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 therein as enacted.\]
 
@@ -170,7 +170,7 @@ Report on Reuse Standards and Principles.—Not later than March 1, 2007, the Se
 
 Definitions.—In this section:
 
-&emsp;"(1) The terms 'unexploded ordnance' and 'operational range' have the meanings given such terms in section 101(e) of title 10, United States Code.
+&emsp;"(1) The terms 'unexploded ordnance' and 'operational range' have the meanings given such terms in section 101(e) of title 10, United States Code \[now 10 U.S.C. 101(f)\].
 
 &emsp;"(2) The terms 'discarded military munitions', 'munitions constituents', and 'defense site' have the meanings given such terms in section 2710(e) of such title."
 
@@ -256,7 +256,7 @@ Definitions.—In this section:
 
 &emsp;"(2) The term 'coast line' has the meaning given that term in section 2(c) of the Submerged Lands Act (43 U.S.C. 1301(c)).
 
-&emsp;"(3) The term 'military munitions' has the meaning given that term in section 101(e) of title 10, United States Code.
+&emsp;"(3) The term 'military munitions' has the meaning given that term in section 101(e) of title 10, United States Code \[now 10 U.S.C. 101(f)\].
 
 &emsp;"(4) The term 'outer Continental Shelf' has the meaning given that term in section 2(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1331(a))."
 

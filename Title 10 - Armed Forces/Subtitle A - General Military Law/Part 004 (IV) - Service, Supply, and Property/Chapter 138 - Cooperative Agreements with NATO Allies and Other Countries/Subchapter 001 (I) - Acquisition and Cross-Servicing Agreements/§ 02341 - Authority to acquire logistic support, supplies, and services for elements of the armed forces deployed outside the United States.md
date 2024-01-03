@@ -46,7 +46,143 @@ Pub. L. 102–484, div. A, title XIII, §1312(c), Oct. 23, 1992, 106 Stat. 2548,
 
 #### Short Title
 
-Pub. L. 96–323, §1, Aug. 4, 1980, 94 Stat. 1016, provided: "That this Act \[enacting this chapter\] may be cited as the 'North Atlantic Treaty Organization Mutual Support Act of 1979'."
+Pub. L. 96–323, §1, Aug. 4, 1980, 94 Stat. 1016, provided: "That this Act \[enacting this chapter\] may be cited asthe 'North Atlantic Treaty Organization Mutual Support Act of 1979'."
+
+#### Demonstration and Prototyping Program To Advance International Product Support Capabilities in a Contested Logistics Environment
+
+Pub. L. 118–31, div. A, title VIII, §842, Dec. 22, 2023, 137 Stat. 340, provided that:
+
+"(a)
+
+Contested Logistics Demonstration and Prototyping Program Required.—The Secretary of Defense shall establish a contested logistics demonstration and prototyping program to identify, develop, demonstrate, and field capabilities for product support in order to reduce or mitigate the risks associated with operations in a contested logistics environment.
+
+"(b)
+
+Elements.—In carrying out the Program, the Secretary shall do the following:
+
+&emsp;"(1) Identify ways to capitalize on the inherent interoperability, commonality, and interchangeability of platforms and information systems operated by the United States and one or more covered nations, including to enable effective maintenance and repair activities in a contested logistics environment.
+
+&emsp;"(2) Determine, develop, or establish best practices to reduce time needed to return repaired equipment to service, including the use of—
+
+&emsp;&emsp;"(A) commercial best practices for rapid supply support; and
+
+&emsp;&emsp;"(B) common or shared parts pools.
+
+&emsp;"(3) Explore opportunities to expand the ability to preposition or store materials needed to enable rapid surge capability or to support operations in a contested logistics environment.
+
+&emsp;"(4) Identify, develop, demonstrate, and field effective and efficient means of conducting repairs of equipment away from permanent repair facilities.
+
+&emsp;"(5) Explore flexible approaches to contracting and use of partnership agreements to enable use or development of the capabilities of covered product support providers to effectively, efficiently, and timely satisfy the product support requirements of a combat commander and any applicable covered nation in a contested logistics environment.
+
+&emsp;"(6) Identify the resources, including any additional authorizations, required by the Secretary of Defense to reduce or mitigate the risks associated with operations in a contested logistics environment.
+
+&emsp;"(7) Identify and document impediments to the performance of product support by covered product support providers in a contested logistics environment, including impediments created by statute, regulation, policy, agency guidance, or limitations on expenditure, transfer, or receipt of funds for product support in contested logistics environments.
+
+&emsp;"(8) Identify and document any statutory or regulatory waivers or exemptions that may be applicable or necessary to enable the United States and covered nations to jointly carry out product support activities in contested logistics environments located outside of the United States, including, for each such waiver and exemption—
+
+&emsp;&emsp;"(A) the person responsible for requesting such waiver or exemption;
+
+&emsp;&emsp;"(B) the criteria for approval of such waiver or exemption; and
+
+&emsp;&emsp;"(C) the person responsible for approving such waiver or exemption.
+
+"(c)
+
+Advance Planning and Preparation.—The Secretary may establish a product support arrangement, including an agreement for prepositioning or storage of materials, with a covered product support provider to enable a rapid response in a contingency operation (as defined in section 101(a) of title 10, United States Code) to the product support requirements of such contingency operation.
+
+"(d)
+
+Authorities.—In carrying out the Program, the Secretary may, in accordance with section 3 of the Arms Export Control Act (22 U.S.C. 2753), use the authorities under sections 2342, 2474, 3601, 4021, and 4022 of title 10, United States Code.
+
+"(e)
+
+Report.—Not later than 24 months after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary shall submit to Congress a report summarizing Program activities, including—
+
+&emsp;"(1) any recommendations to reduce impediments to meeting the requirements of a combatant command or covered nation for product support in a contested logistics environment;
+
+&emsp;"(2) a summary of impediments identified under subsection (b)(7) and specific recommendations for necessary changes to statutory, regulatory, policy, agency guidance, or current limitations on expenditure, transfer, or receipt of funds to carry out the product support activities under this pilot indefinitely;
+
+&emsp;"(3) a summary of waivers or exemptions identified under subsection (b)(8), along with any recommendations for changes to the processes for obtaining such waivers or exemptions; and
+
+&emsp;"(4) recommendations for improving the Program, including whether to extend or make the Program permanent.
+
+"(f)
+
+Development and Promulgation of Department of Defense Guidance.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall issue guidance implementing the Program.
+
+"(g)
+
+Sunset.—The authority under this section shall terminate on the date that is three years after the date of the enactment of this Act.
+
+"(h)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Contested logistics environment.—The term 'contested logistics environment' has the meaning given such term in section 2926 of title 10, United States Code.
+
+&emsp;"(2)
+
+Covered nations.—The term 'covered nation' means—
+
+&emsp;&emsp;"(A) Australia;
+
+&emsp;&emsp;"(B) Canada;
+
+&emsp;&emsp;"(C) New Zealand;
+
+&emsp;&emsp;"(D) the United Kingdom of Great Britain and Northern Ireland; or
+
+&emsp;&emsp;"(E) other nations as designated as a covered nation for the purposes of this Program by the Secretary.
+
+&emsp;"(3)
+
+Covered product support provider.—The term 'covered product support provider' means—
+
+&emsp;&emsp;"(A) a product support provider that includes an entity within the government of a covered nation;
+
+&emsp;&emsp;"(B) a private sector product support provider; or
+
+&emsp;&emsp;"(C) a product support integrator domiciled in the United States or a covered nation.
+
+&emsp;"(4)
+
+Product support; product support integrator; product support provider.—The terms 'product support', 'product support integrator', and 'product support provider' have the meanings given, respectively, in section 4324 of title 10, United States Code.
+
+&emsp;"(5)
+
+Product support arrangement.—
+
+&emsp;&emsp;"(A)
+
+In general.—The term 'product support arrangement' means a contract, task order, or any other type of agreement or arrangement, between the United States and a covered product support provider, for the performance of the functions described in subparagraph (B) with respect to—
+
+&emsp;&emsp;&emsp;"(i) a platform or information system operated by the United States and the covered nation of such covered product support provider; or
+
+&emsp;&emsp;&emsp;"(ii) a subsystem or components of such a platform or information system.
+
+&emsp;&emsp;"(B)
+
+Functions described.—The functions described in this subparagraph, with respect to a platform, information system, subsystem, or component described in subparagraph (A), are the following:
+
+&emsp;&emsp;&emsp;"(i) Performance-based logistics.
+
+&emsp;&emsp;&emsp;"(ii) Sustainment support.
+
+&emsp;&emsp;&emsp;"(iii) Contractor logistics support.
+
+&emsp;&emsp;&emsp;"(iv) Life-cycle product support.
+
+&emsp;&emsp;&emsp;"(v) Weapon system product support.
+
+&emsp;"(6)
+
+Program.—The term 'Program' means the demonstration and prototyping program established under subsection (a).
+
+&emsp;"(7)
+
+Secretary.—The term 'Secretary' means the Secretary of Defense."
 
 #### Acceptance of Real Property, Services, and Commodities From Foreign Countries by Agencies of Department of Defense
 

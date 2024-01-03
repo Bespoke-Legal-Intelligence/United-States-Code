@@ -16,7 +16,7 @@ Appalachian region.—The term "Appalachian region" means that area of the easte
 
 &emsp;&emsp;(D) In Maryland, the counties of Allegany, Garrett, and Washington.
 
-&emsp;&emsp;(E) In Mississippi, the counties of Alcorn, Benton, Calhoun, Chickasaw, Choctaw, Clay, Itawamba, Kemper, Lee, Lowndes, Marshall, Monroe, Montgomery, Noxubee, Oktibbeha, Panola, Pontotoc, Prentiss, Tippah, Tishomingo, Union, Webster, Winston, and Yalobusha.
+&emsp;&emsp;(E) In Mississippi, the counties of Alcorn, Benton, Calhoun, Chickasaw, Choctaw, Clay,Itawamba, Kemper, Lee, Lowndes, Marshall, Monroe, Montgomery, Noxubee, Oktibbeha, Panola, Pontotoc, Prentiss, Tippah, Tishomingo, Union, Webster, Winston, and Yalobusha.
 
 &emsp;&emsp;(F) In New York, the counties of Allegany, Broome, Cattaraugus, Chautauqua, Chemung, Chenango, Cortland, Delaware, Otsego, Schoharie, Schuyler, Steuben, Tioga, and Tompkins.
 
@@ -24,7 +24,7 @@ Appalachian region.—The term "Appalachian region" means that area of the easte
 
 &emsp;&emsp;(H) In Ohio, the counties of Adams, Ashtabula, Athens, Belmont, Brown, Carroll, Clermont, Columbiana, Coshocton, Gallia, Guernsey, Harrison, Highland, Hocking, Holmes, Jackson, Jefferson, Lawrence, Mahoning, Meigs, Monroe, Morgan, Muskingum, Noble, Perry, Pike, Ross, Scioto, Trumbull, Tuscarawas, Vinton, and Washington.
 
-&emsp;&emsp;(I) In Pennsylvania, the counties of Allegheny, Armstrong, Beaver, Bedford, Blair, Bradford, Butler, Cambria, Cameron, Carbon, Centre, Clarion, Clearfield, Clinton, Columbia, Crawford, Elk, Erie, Fayette, Forest, Fulton, Greene, Huntingdon, Indiana,Jefferson, Juniata, Lackawanna, Lawrence, Luzerne, Lycoming, McKean, Mercer, Mifflin, Monroe, Montour, Northumberland, Perry, Pike, Potter, Schuylkill, Snyder, Somerset, Sullivan, Susquehanna, Tioga, Union, Venango, Warren, Washington, Wayne, Westmoreland, and Wyoming.
+&emsp;&emsp;(I) In Pennsylvania, the counties of Allegheny, Armstrong, Beaver, Bedford, Blair, Bradford, Butler, Cambria, Cameron, Carbon, Centre, Clarion, Clearfield, Clinton, Columbia, Crawford, Elk, Erie, Fayette, Forest, Fulton, Greene, Huntingdon, Indiana, Jefferson, Juniata, Lackawanna, Lawrence, Luzerne, Lycoming, McKean, Mercer, Mifflin, Monroe, Montour, Northumberland, Perry, Pike, Potter, Schuylkill, Snyder, Somerset, Sullivan, Susquehanna, Tioga, Union, Venango, Warren, Washington, Wayne, Westmoreland, and Wyoming.
 
 &emsp;&emsp;(J) In South Carolina, the counties of Anderson, Cherokee, Greenville, Oconee, Pickens, Spartanburg, and Union.
 

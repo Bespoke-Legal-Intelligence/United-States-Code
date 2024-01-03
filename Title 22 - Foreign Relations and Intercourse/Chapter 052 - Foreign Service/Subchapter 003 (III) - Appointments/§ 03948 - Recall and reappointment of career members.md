@@ -30,7 +30,7 @@ Program Account Charged.—The account charged for the cost of an individual hir
 
 "(d)
 
-Foreign Service Limited Extensions.—Individuals hired and employed by USAID \[United States Agency for International Development\], with funds made available in this Act \[div. K of Pub. L. 117–328, 136 Stat. 4974\] or prior Acts making appropriations for the Department of State, foreign operations, and related programs, pursuant to the authority of section 309 of the Foreign Service Act of 1980 (22 U.S.C. 3949), may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section."
+Foreign Service Limited Extensions.—Individuals hired and employed by USAID \[United StatesAgency for International Development\], with funds made available in this Act \[div. K of Pub. L. 117–328, 136 Stat. 4974\] or prior Acts making appropriations for the Department of State, foreign operations, and related programs, pursuant to the authority of section 309 of the Foreign Service Act of 1980 (22 U.S.C. 3949), may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section."
 
 Similar provisions were contained in the following prior appropriation acts:
 

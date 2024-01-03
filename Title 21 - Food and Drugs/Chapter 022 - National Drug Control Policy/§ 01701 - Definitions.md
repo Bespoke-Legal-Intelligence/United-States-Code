@@ -80,7 +80,7 @@ In this chapter:
 
 #### (11) National Drug Control Program agency
 
-&emsp;The term "National Drug Control Program agency" means any agency (or bureau, office, independent agency, board, division, commission, subdivision, unit, or other component thereof) that is responsible for implementingany aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program or the Joint Military Intelligence Program.
+&emsp;The term "National Drug Control Program agency" means any agency (or bureau, office, independent agency, board, division, commission, subdivision, unit, or other component thereof) that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program or the Joint Military Intelligence Program.
 
 #### (12) National Drug Control Strategy
 
@@ -212,7 +212,7 @@ Pars. (12), (13). Pub. L. 109–469, §101(g), added pars. (12) and (13).
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Short Title of 2019 Amendment
 
@@ -264,7 +264,7 @@ Ex. Ord. No. 13165, Aug. 9, 2000, 65 F.R. 49469, as amended by Ex. Ord. No. 1328
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Office of National Drug Control \[Policy\] Reauthorization Act of 1998, (21 U.S.C. 1701 <i>et seq</i>.), and in order to develop recommendations for Federal agency actions to address the use of drugs in sports, in particular among young people, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The use of drugs in sports has reached a level that endangers not just the legitimacy of athletic competition but also the lives and health of athletes—from the elite ranks to youth leagues. The National Household Survey on Drug Abuse issued in 1999 found that in just 1 year's time the rate of steroid use among young people rose roughly 50 percent among both sexes and across all age groups. It is the policy of my Administration to take the steps needed to help eliminate illicit or otherwise banned drug use and doping in sports at the State, national, and international level.
+Section 1. <i>Policy</i>. The use of drugs in sports has reached a level that endangers not just the legitimacy of athletic competition but also the lives and health of athletes—from the elite ranks to youth leagues. The National Household Survey on Drug Abuse issued in1999 found that in just 1 year's time the rate of steroid use among young people rose roughly 50 percent among both sexes and across all age groups. It is the policy of my Administration to take the steps needed to help eliminate illicit or otherwise banned drug use and doping in sports at the State, national, and international level.
 
 Sec. 2. <i>Establishment of a White House Task Force on Drug Use in Sports</i>. (a) There is established a White House Task Force on Drug Use in Sports (Task Force). The Task Force shall comprise the co-vice chairs of the White House Olympic Task Force (the "Olympic Task Force Vice Chairs"), and representatives designated by the Office of National Drug Control Policy, the Department of Health and Human Services, the Department of Labor, the President's Council on Physical Fitness and Sports \[now President's Council on Fitness, Sports, and Nutrition\], the Office of Management and Budget, the National Security Council, the Department of State, the Department of the Treasury, the Department of Education, the Department of Justice, the Department of Transportation, the Department of Homeland Security, the National Institute on Drug Abuse, and the Substance Abuse and Mental Health Services Administration.
 

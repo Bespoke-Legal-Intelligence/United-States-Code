@@ -26,7 +26,7 @@ The President should establish a working group—
 
 #### Codification
 
-Section was enacted as part of the Arms Control and Disarmament Amendments Act of 1989, and not as partof the Arms Control and Disarmament Act which comprises this chapter.
+Section was enacted as part of the Arms Control and Disarmament Amendments Act of 1989, and not as part of the Arms Control and Disarmament Act which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

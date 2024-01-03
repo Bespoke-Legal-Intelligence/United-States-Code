@@ -86,7 +86,7 @@ Nothing in this chapter prohibits the Administrator from establishing, in rate s
 
 #### (f) Basis for rates
 
-Rates for all other firm power sold by the Administrator for use in the Pacific Northwestshall be based upon the cost of the portions of Federal base system resources, purchases of power under section 839c(c) of this title and additional resources which, in the determination of the Administrator, are applicable to such sales.
+Rates for all other firm power sold by the Administrator for use in the Pacific Northwest shall be based upon the cost of the portions of Federal base system resources, purchases of power under section 839c(c) of this title and additional resources which, in the determination of the Administrator, are applicable to such sales.
 
 #### (g) Allocation of costs and benefits
 
@@ -126,7 +126,7 @@ All rate schedules adopted, and all power billings rendered, by the Administrato
 
 #### (k) Statutory basis for procedures used in establishing rates or rate schedules
 
-Notwithstanding any other provision of this chapter, all rates or rate schedules for the sale of nonfirm electric power within the United States, but outside the region, shall be established after December 5, 1980, by the Administrator in accordance with the procedures of subsection (i) of this section (other than the first sentence of paragraph (6) thereof) and in accordance with the Bonneville Project Act \[16 U.S.C. 832 et seq.\], the Flood Control Act of 1944, and the Federal Columbia River Transmission System Act \[16 U.S.C. 838 et seq.\]. Notwithstanding section 201(f) of the Federal Power Act \[16 U.S.C. 824(f)\], such rates or rate schedules shall become effective after review by the Federal Energy Regulatory Commission for conformance with the requirements of such Acts and after approval thereof by the Commission. Such review shall be based on the record of proceedings established under subsection (i) of this section. The parties to such proceedings under subsection (i) shall be afforded an opportunity bythe Commission for an additional hearing in accordance with the procedures established for ratemaking by the Commission pursuant to the Federal Power Act \[16 U.S.C. 791a et seq.\].
+Notwithstanding any other provision of this chapter, all rates or rate schedules for the sale of nonfirm electric power within the United States, but outside the region, shall be established after December 5, 1980, by the Administrator in accordance with the procedures of subsection (i) of this section (other than the first sentence of paragraph (6) thereof) and in accordance with the Bonneville Project Act \[16 U.S.C. 832 et seq.\], the Flood Control Act of 1944, and the Federal Columbia River Transmission System Act \[16 U.S.C. 838 et seq.\]. Notwithstanding section 201(f) of the Federal Power Act \[16 U.S.C. 824(f)\], such rates or rate schedules shall become effective after review by the Federal Energy Regulatory Commission for conformance with the requirements of such Acts and after approval thereof by the Commission. Such review shall be based on the record of proceedings established under subsection (i) of this section. The parties to such proceedings under subsection (i) shall be afforded an opportunity by the Commission for an additional hearing in accordance with the procedures established for ratemaking by the Commission pursuant to the Federal Power Act \[16 U.S.C. 791a et seq.\].
 
 #### (l) Rates for sales outside United States; negotiations
 

@@ -30,7 +30,7 @@ In any emergency, the President may—
 
 &emsp;(8) provide accelerated Federal assistance and Federal support where necessary to save lives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—
 
-&emsp;&emsp;(A) shall, to the fullest extent practicable, promptly notify and coordinate with a Statein which such assistance or support is provided; and
+&emsp;&emsp;(A) shall, to the fullest extent practicable, promptly notify and coordinate with a State in which such assistance or support is provided; and
 
 &emsp;&emsp;(B) shall not, in notifying and coordinating with a State under subparagraph (A), delay or impede the rapid deployment, use, and distribution of critical resources to victims of an emergency.
 

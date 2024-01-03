@@ -10,11 +10,11 @@ Payments.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), payments under an agreement under this section shall be equal to $8,000 each academic year and be paid in such installments as the Secretary shall determine while the individual is attending the academy, as prescribed by the Secretary.
+In general.—Except as provided in paragraph (2), payments under an agreement under this section shall be equal to $16,000 each academic year and be paid in such installments as the Secretary shall determine while the individual is attending the academy, as prescribed by the Secretary.
 
 &emsp;(2)
 
-Exception.—The Secretary may modify the payments made to an individual under paragraph (1), but the total amount of payments to that individual may not exceed $32,000.
+Exception.—The Secretary may modify the payments made to an individual under paragraph (1), but the total amount of payments to that individual may not exceed $64,000.
 
 &emsp;(3)
 
@@ -120,9 +120,13 @@ Service as commissioned officer.—An individual who, for the 5-year period foll
 
 &emsp;(2)
 
-Modification or waiver.—The Secretary may modify or waive any of the terms and conditions set forth in subsection (d) through the imposition of alternative service requirements.
+Modification or waiver.—The Secretary may modify or waive any of the terms andconditions set forth in subsection (d) through the imposition of alternative service requirements.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §3508, Oct. 17, 2006, 120 Stat. 2517; Pub. L. 110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, 122 Stat. 598, 600, 602; Pub. L. 110–417, div. C, title XXXV, §3503, Oct. 14, 2008, 122 Stat. 4762; Pub. L. 111–8, div. I, title I, §177, Mar. 11, 2009, 123 Stat. 944; Pub. L. 111–84, div. C, title XXXV, §3507, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 114–92, div. C, title XXXV, §3507, Nov. 25, 2015, 129 Stat. 1221.)
+(i)
+
+Age Requirement.—The Secretary may make an agreement under this section only with a qualified student who will meet the age requirement for enlistment or commission in the Navy Reserve at the time of graduation from the academy.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §3508, Oct. 17, 2006, 120 Stat. 2517; Pub. L. 110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, 122 Stat. 598, 600, 602; Pub. L. 110–417, div. C, title XXXV, §3503, Oct. 14, 2008, 122 Stat. 4762; Pub. L. 111–8, div. I, title I, §177, Mar. 11, 2009, 123 Stat. 944; Pub. L. 111–84, div. C, title XXXV, §3507, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 114–92, div. C, title XXXV, §3507, Nov. 25, 2015, 129 Stat. 1221; Pub. L. 118–7, §2, June 30, 2023, 137 Stat. 52; Pub. L. 118–31, div. C, title XXXV, §3501(b), Dec. 22, 2023, 137 Stat. 808.)
 
 Historical and Revision Notes
 
@@ -172,6 +176,12 @@ In subsection (g), the words "bring a civil action" are substituted for "begin c
 
 #### Amendments
 
+<b>2023</b>—Subsec. (b)(1). Pub. L. 118–31, §3501(b)(1), substituted "$16,000" for "$8,000".
+
+Subsec. (b)(2). Pub. L. 118–31, §3501(b)(2), substituted "$64,000" for "$32,000".
+
+Subsec. (i). Pub. L. 118–7 added subsec. (i).
+
 <b>2015</b>—Subsec. (b). Pub. L. 114–92, §3507(1), designated first sentence as par. (1) and last sentence as par. (3), inserted headings, realigned margins, in par. (1), substituted "Except as provided in paragraph (2), payments" for "Payments", and added par. (2).
 
 Subsec. (c). Pub. L. 114–92, §3507(2), substituted "Strategic Sealift Officer Program" for "Merchant Marine Reserve".
@@ -206,5 +216,5 @@ Subsec. (d)(4). Pub. L. 110–181, §3523(a)(1), incorporated the substance of t
 
 <b>2006</b>—Pub. L. 109–364, §3508, which directed the amendment of section 1295c(g)(2) of the former Appendix to this title from which subsec. (c) of this section was derived, was repealed by Pub. L. 110–181, §3526(g). See 2008 Amendment note for subsec. (c) and Historical and Revision notes above.
 
-Pub. L. 109–163, §515(g)(2)(A), which directed the amendment of section 1295c of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3523(b). See 2008 Amendment notes for subsecs. (c) and (d)(4) and Historical and Revision notes above.
+Pub. L. 109–163, §515(g)(2)(A), which directed the amendment of section 1295c of the former Appendix tothis title from which this section was derived, was repealed by Pub. L. 110–181, §3523(b). See 2008 Amendment notes for subsecs. (c) and (d)(4) and Historical and Revision notes above.
 

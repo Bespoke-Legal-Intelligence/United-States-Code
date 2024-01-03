@@ -48,7 +48,7 @@ Ex. Ord. No. 12411, Mar. 29, 1983, 48 F.R. 13391, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 486 of Title 40 of the United States Code \[now 40 U.S.C. 121\], in order to institute fundamental changes in the manner in which Federal work space is managed to ensure its efficient utilization, it is hereby ordered as follows:
 
-Section 1. In order to make the Federal use of work space (including office space, warehouses and special purpose space, whether federally owned, leased or controlled) and related furnishings more effective in support of agency missions, minimize the acquisition of government resources, and reduce the administrative costs of the Federal government, the heads of all Federal Executive agencies shall:
+Section 1. In order to make the Federal use of work space (including office space, warehouses and special purpose space, whether federally owned, leased or controlled) and related furnishings more effective in support of agency missions, minimize the acquisition of government resources, and reduce the administrativecosts of the Federal government, the heads of all Federal Executive agencies shall:
 
 (a) Establish programs to reduce the amount of work space, used or held, to that amount which is essential for known agency missions;
 

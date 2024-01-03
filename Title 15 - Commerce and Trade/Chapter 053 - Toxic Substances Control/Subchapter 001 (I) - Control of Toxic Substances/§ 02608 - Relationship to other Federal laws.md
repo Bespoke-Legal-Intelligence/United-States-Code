@@ -2,7 +2,7 @@
 
 #### (a) Laws not administered by the Administrator
 
-(1) If the Administrator determines that the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance or mixture, or that any combination of such activities, presents an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified as relevant by the Administrator, under the conditions of use, and determines, in the Administrator's discretion, that such risk may be prevented or reduced to a sufficient extent by action taken under a Federal law not administered by the Administrator, the Administrator shall submit to the agency which administers such law a report which describes such risk and includes in suchdescription a specification of the activity or combination of activities which the Administrator has reason to believe so presents such risk. Such report shall also request such agency—
+(1) If the Administrator determines that the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance or mixture, or that any combination of such activities, presents an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified as relevant by the Administrator, under the conditions of use, and determines, in the Administrator's discretion, that such risk may be prevented or reduced to a sufficient extent by action taken under a Federal law not administered by the Administrator, the Administrator shall submit to the agency which administers such law a report which describes such risk and includes in such description a specification of the activity or combination of activities which the Administrator has reason to believe so presents such risk. Such report shall also request such agency—
 
 &emsp;(A)(i) to determine if the risk described in such report may be prevented or reduced to a sufficient extent by action taken under such law, and
 
@@ -86,5 +86,5 @@ Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to reporting certain coordinating actions annually to Congress in the report required by section 2629 of this title, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 163 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to reporting certain coordinating actions annually to Congress in the report required by section 2629 of this title, see section 3003 of Pub. L. 104–66, as amended, set out as a noteunder section 1113 of Title 31, Money and Finance, and page 163 of House Document No. 103–7.
 

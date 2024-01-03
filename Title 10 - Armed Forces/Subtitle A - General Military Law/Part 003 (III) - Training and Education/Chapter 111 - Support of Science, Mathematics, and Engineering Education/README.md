@@ -6,6 +6,7 @@
 | [2192\.](%C2%A7%2002192%20-%20Improvement%20of%20education%20in%20technical%20fields%20general%20authority%20regarding%20education%20in%20science%2C%20mathematics%2C%20and%20engineering.md) | Improvement of education in technical fields: general authority regarding education in science, mathematics, and engineering. |
 | \[2192a. | Renumbered.\] |
 | [2192b.](%C2%A7%2002192b%20-%20Program%20on%20enhancement%20of%20preparation%20of%20dependents%20of%20members%20of%20armed%20forces%20for%20careers%20in%20science%2C%20technology%2C%20engineering%2C%20and%E2%80%A6.md) | Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and mathematics. |
+| [2192c.](%C2%A7%2002192c%20-%20Office%20for%20academic%20engagement%20relating%20to%20cyber%20activities.md) | Office for academic engagement relating to cyber activities. |
 | [2193\.](%C2%A7%2002193%20-%20Improvement%20of%20education%20in%20technical%20fields%20grants%20for%20higher%20education%20in%20science%20and%20mathematics.md) | Improvement of education in technical fields: grants for higher education in science and mathematics. |
 | [2193a.](%C2%A7%2002193a%20-%20Improvement%20of%20education%20in%20technical%20fields%20general%20authority%20for%20support%20of%20elementary%20and%20secondary%20education%20in%20science%20and%E2%80%A6.md) | Improvement of education in technical fields: general authority for support of elementary and secondary education in science and mathematics. |
 | [2193b.](%C2%A7%2002193b%20-%20Improvement%20of%20education%20in%20technical%20fields%20program%20for%20support%20of%20elementary%20and%20secondary%20education%20in%20science%2C%20technology%E2%80%A6.md) | Improvement of education in technical fields: program for support of elementary and secondary education in science, technology, engineering, art and design, and mathematics. |
@@ -20,6 +21,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title XV, §1531(a), Dec. 22, 2023, 137 Stat. 560, added item 2192c. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title XVII, §1701(p)(2)(B), (w)(2), Dec. 27, 2021, 135 Stat. 2148, 2154, struck out items 2192a "Science, Mathematics, and Research for Transformation (SMART) Defense Education Program", 2196 "Manufacturing engineering education: grant program", and 2197 "Manufacturing experts in the classroom".
 
@@ -41,7 +44,7 @@ Pub. L. 116–283, div. A, title V, §591(b), Jan. 1, 2021, 134 Stat. 3665, adde
 
 #### Study Regarding Establishment Within the Department of Defense of a Designated Central Program Office To Oversee Academic Engagement Programs Relating To Establishing Cyber Talent Across the Department
 
-Pub. L. 117–81, div. A, title XV, §1532, Dec. 27, 2021, 135 Stat. 2052, provided that:
+Pub. L. 117–81, div. A, title XV, §1532, Dec. 27, 2021, 135 Stat. 2052, as amended by Pub. L. 118–31, div. A, title XV, §1531(c)(5), Dec. 22, 2023, 137 Stat. 563, provided that:
 
 "(a)
 
@@ -71,7 +74,7 @@ Determination.—
 
 &emsp;"(1)
 
-In general.—Upon completion of the study required under subsection (a), the Secretary of Defenseshall make a determination regarding the establishment within the Department of Defense of a designated central program office responsible for overseeing covered academic engagement programs across the Department.
+In general.—Upon completion of the study required under subsection (a), the Secretary of Defense shall make a determination regarding the establishment within the Department of Defense of a designated central program office responsible for overseeing covered academic engagement programs across the Department.
 
 &emsp;"(2)
 
@@ -90,6 +93,10 @@ Negative determination.—If the Secretary of Defense makes a negative determina
 Report.—Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report that updates the matters required for inclusion in the reports required pursuant to section 1649 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) \[133 Stat. 1758\] and section 1726(c) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) \[134 Stat. 4116\].
 
 "(e)
+
+Discharge Through Director.—In carrying out this section, the Secretary of Defense shall act through the Director of the office established under section 2192c of title 10, United States Code.
+
+"(f)
 
 Definition.—In this section, the term 'covered academic engagement program' means each of the following:
 
@@ -152,6 +159,7 @@ Pub. L. 112–81, div. A, title VIII, §862, Dec. 31, 2011, 125 Stat. 1521, whic
 - [&sect; 02192 - Improvement of education in technical fields general authority regarding education in science, mathematics, and engineering](%C2%A7%2002192%20-%20Improvement%20of%20education%20in%20technical%20fields%20general%20authority%20regarding%20education%20in%20science%2C%20mathematics%2C%20and%20engineering.md)
 - [&sect; 02192a - Renumbered &sect;4093](%C2%A7%2002192a%20-%20Renumbered%20%C2%A74093.md)
 - [&sect; 02192b - Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and&#8230;](%C2%A7%2002192b%20-%20Program%20on%20enhancement%20of%20preparation%20of%20dependents%20of%20members%20of%20armed%20forces%20for%20careers%20in%20science%2C%20technology%2C%20engineering%2C%20and%E2%80%A6.md)
+- [&sect; 02192c - Office for academic engagement relating to cyber activities](%C2%A7%2002192c%20-%20Office%20for%20academic%20engagement%20relating%20to%20cyber%20activities.md)
 - [&sect; 02193 - Improvement of education in technical fields grants for higher education in science and mathematics](%C2%A7%2002193%20-%20Improvement%20of%20education%20in%20technical%20fields%20grants%20for%20higher%20education%20in%20science%20and%20mathematics.md)
 - [&sect; 02193a - Improvement of education in technical fields general authority for support of elementary and secondary education in science and&#8230;](%C2%A7%2002193a%20-%20Improvement%20of%20education%20in%20technical%20fields%20general%20authority%20for%20support%20of%20elementary%20and%20secondary%20education%20in%20science%20and%E2%80%A6.md)
 - [&sect; 02193b - Improvement of education in technical fields program for support of elementary and secondary education in science, technology&#8230;](%C2%A7%2002193b%20-%20Improvement%20of%20education%20in%20technical%20fields%20program%20for%20support%20of%20elementary%20and%20secondary%20education%20in%20science%2C%20technology%E2%80%A6.md)

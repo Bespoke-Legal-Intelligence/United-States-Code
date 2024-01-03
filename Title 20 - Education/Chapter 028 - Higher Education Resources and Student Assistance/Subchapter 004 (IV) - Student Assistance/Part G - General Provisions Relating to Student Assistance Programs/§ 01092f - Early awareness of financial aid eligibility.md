@@ -16,7 +16,7 @@ The Secretary shall implement, in cooperation with States, institutions of highe
 
 #### (2) Secondary school students
 
-&emsp;The Secretary, in cooperation with States, institutions of higher education, other organizations involved in college access and student financial aid, secondary schools, and programs under this subchapter that serve secondary school students, shall make special efforts to notify students in secondary school and their families, as early as possible but not later than such students' junior year of secondary school, of the availability of financial aid under this subchapter and shall provide nonbinding estimates of the amounts of grant and loan aid that an individual may be eligible for under this subchapter upon completion of an application form under section 1090(a) of this title. The Secretary shall ensure that such information is as accurate as possible and that such information is provided in an age-appropriate format using dissemination mechanisms suitable for students in secondary school.
+&emsp;The Secretary, in cooperation with States, institutions of higher education, other organizations involved in college access and student financial aid, secondary schools, and programs under this subchapter that serve secondary school students, shall make special efforts to notify students in secondary school and their families, as early as possible but not later than such students' junior year of secondary school, of the availability of financial aid under this subchapter and shall provide nonbinding estimates of the amounts of grant and loan aid that an individual may be eligible forunder this subchapter upon completion of an application form under section 1090(a) of this title. The Secretary shall ensure that such information is as accurate as possible and that such information is provided in an age-appropriate format using dissemination mechanisms suitable for students in secondary school.
 
 #### (3) Adult learners
 
@@ -166,7 +166,7 @@ The Secretary shall implement, in cooperation with States, institutions of highe
 
 #### <i>(C) Plan with Secretary of the Treasury</i>
 
-&emsp;&emsp;<i>The interagency coordination plan under subparagraph (A)(i) between the Secretary and the Secretary of the Treasury shall further include specific methods to increase the application for Federal financial aid under this subchapter from individuals who file Federal tax returns, including collaboration with tax preparation entities or other third parties, as appropriate.</i>
+&emsp;&emsp;<i>The interagency coordination plan under subparagraph (A)(i) between the Secretary and the</i><i>Secretary of the Treasury shall further include specific methods to increase the application for Federal financial aid under this subchapter from individuals who file Federal tax returns, including collaboration with tax preparation entities or other third parties, as appropriate.</i>
 
 #### <i>(D) Reporting and updates</i>
 

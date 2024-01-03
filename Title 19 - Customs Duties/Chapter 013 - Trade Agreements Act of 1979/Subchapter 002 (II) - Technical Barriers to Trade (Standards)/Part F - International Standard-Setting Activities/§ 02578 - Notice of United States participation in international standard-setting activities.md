@@ -40,5 +40,5 @@ Section effective on the date of entry into force of the WTO Agreement with resp
 
 #### Designation of Agency
 
-Secretary of Agriculture designated under this section as official responsible for informing public of sanitary and phytosanitary standard-setting activities of each international standard-setting organization, seepar. (4) of Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15847, set out as a note under section 3511 of this title.
+Secretary of Agriculture designated under this section as official responsible for informing public of sanitary and phytosanitary standard-setting activities of each international standard-setting organization, see par. (4) of Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15847, set out as a note under section 3511 of this title.
 

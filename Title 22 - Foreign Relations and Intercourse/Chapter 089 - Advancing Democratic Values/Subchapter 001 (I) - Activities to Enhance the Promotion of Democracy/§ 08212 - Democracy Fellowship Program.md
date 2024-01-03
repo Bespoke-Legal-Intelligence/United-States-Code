@@ -6,7 +6,7 @@ The Secretary shall establish a Democracy Fellowship Program to enable officers 
 
 #### (b) Selection and placement
 
-The Assistant Secretary shall play a central role in the selection of Democracy Fellows and facilitate their placement in appropriate congressional offices, congressional committees, international organizations, and nongovernmental organizations.
+The Assistant Secretary shall play a central role in the selection of Democracy Fellows andfacilitate their placement in appropriate congressional offices, congressional committees, international organizations, and nongovernmental organizations.
 
 (Pub. L. 110–53, title XXI, §2112, Aug. 3, 2007, 121 Stat. 531.)
 

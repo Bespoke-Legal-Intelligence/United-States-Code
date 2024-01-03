@@ -50,7 +50,7 @@ In providing assistance to developing countries, the President shall do the foll
 
 &emsp;(10) To the fullest extent feasible, conserve biological diversity in forest areas by—
 
-&emsp;&emsp;(A) supporting and cooperating with United States Government agencies, other donors (both bilateral and multilateral), and other appropriate governmental, intergovernmental, and nongovernmental organizations in efforts to identify, establish, and maintain a representative network of protected tropical forest ecosystems on a worldwide basis;
+&emsp;&emsp;(A) supporting and cooperating with United States Government agencies, other donors (both bilateral and multilateral), andother appropriate governmental, intergovernmental, and nongovernmental organizations in efforts to identify, establish, and maintain a representative network of protected tropical forest ecosystems on a worldwide basis;
 
 &emsp;&emsp;(B) whenever appropriate, making the establishment of protected areas a condition of support for activities involving forest clearance or degradation; and
 

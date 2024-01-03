@@ -24,7 +24,7 @@ Contingency agreement.—The term "Contingency Agreement" means the agreement re
 
 &emsp;(5)
 
-Contractor.—The term "Contractor" means an owner or operator of a vessel thatenters into an Operating Agreement for a cable vessel with the Secretary under section 53203.
+Contractor.—The term "Contractor" means an owner or operator of a vessel that enters into an Operating Agreement for a cable vessel with the Secretary under section 53203.
 
 &emsp;(6)
 

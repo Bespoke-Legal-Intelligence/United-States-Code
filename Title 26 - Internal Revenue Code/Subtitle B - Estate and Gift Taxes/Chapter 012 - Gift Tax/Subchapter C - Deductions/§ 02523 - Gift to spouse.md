@@ -10,7 +10,7 @@ Where, on the lapse of time, on the occurrence of an event or contingency, or on
 
 &emsp;(1) if the donor retains in himself, or transfers or has transferred (for less than an adequate and full consideration in money or money's worth) to any person other than such donee spouse (or the estate of such spouse), an interest in such property, and if by reason of such retention or transfer the donor (or his heirs or assigns) or such person (or his heirs or assigns) may possess or enjoy any part of such property after such termination or failure of the interest transferred to the donee spouse; or
 
-&emsp;(2) if the donor immediately after the transfer to the donee spouse has a power to appoint an interest in such property which he can exercise (either alone or in conjunction with any person) in such manner that the appointee may possess or enjoy any part of such property after such termination or failure of the interest transferred to the donee spouse. For purposes of this paragraph, the donor shall be considered as having immediately after the transfer to the donee spouse such power to appoint even though such power cannot be exercised until after the lapse of time, upon the occurrence of an event or contingency, or on the failure of an event or contingency to occur.
+&emsp;(2) if the donor immediately after the transfer to the donee spouse has a power to appoint an interest in such property which he can exercise (either alone or in conjunction with any person) in such manner that the appointee may possess or enjoy any part of such property after such termination or failure of the interest transferred to the donee spouse. For purposes of this paragraph, the donor shall be considered as having immediately after thetransfer to the donee spouse such power to appoint even though such power cannot be exercised until after the lapse of time, upon the occurrence of an event or contingency, or on the failure of an event or contingency to occur.
 
 > An exercise or release at any time by the donor, either alone or in conjunction with any person, of a power to appoint an interest in property, even though not otherwise a transfer, shall, for purposes of paragraph (1), be considered as a transfer by him. Except as provided in subsection (e), where at the time of the transfer it is impossible to ascertain the particular person or persons who may receive from the donor an interest in property so transferred by him, such interest shall, for purposes of paragraph (1), be considered as transferred to a person other than the donee spouse.
 
@@ -24,7 +24,7 @@ If the interest is transferred to the donee spouse as sole joint tenant with the
 
 #### (e) Life estate with power of appointment in donee spouse
 
-Where the donor transfers an interest in property, if by such transfer his spouse is entitled for life to all of the income from the entire interest, or all the income from a specific portion thereof, payable annually or at more frequent intervals,with power in the donee spouse to appoint the entire interest, or such specific portion (exercisable in favor of such donee spouse, or of the estate of such donee spouse, or in favor of either, whether or not in each case the power is exercisable in favor of others), and with no power in any other person to appoint any part of such interest, or such portion, to any person other than the donee spouse—
+Where the donor transfers an interest in property, if by such transfer his spouse is entitled for life to all of the income from the entire interest, or all the income from a specific portion thereof, payable annually or at more frequent intervals, with power in the donee spouse to appoint the entire interest, or such specific portion (exercisable in favor of such donee spouse, or of the estate of such donee spouse, or in favor of either, whether or not in each case the power is exercisable in favor of others), and with no power in any other person to appoint any part of such interest, or such portion, to any person other than the donee spouse—
 
 &emsp;(1) the interest, or such portion, so transferred shall, for purposes of subsection (a) be considered as transferred to the donee spouse, and
 
@@ -82,7 +82,7 @@ Where the donor transfers an interest in property, if by such transfer his spous
 
 #### (6) Treatment of joint and survivor annuities
 
-&emsp;In the case of a joint and survivor annuity where only the donor spouse and donee spouse have the right to receive payments before the death of the last spouse to die—
+&emsp;In the case of a joint and survivor annuity where only the donor spouse and donee spousehave the right to receive payments before the death of the last spouse to die—
 
 &emsp;&emsp;(A) the donee spouse's interest shall be treated as a qualifying income interest for life,
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 Pub. L. 101–239, title VII, §7815(d)(1)(B), Dec. 19, 1989, 103 Stat. 2415, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to gifts made after June 29, 1989."
 
-Amendment by section 7815(d)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7815(d)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

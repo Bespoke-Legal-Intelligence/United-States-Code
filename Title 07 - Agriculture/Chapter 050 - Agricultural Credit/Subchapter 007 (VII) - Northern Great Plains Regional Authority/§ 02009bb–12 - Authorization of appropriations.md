@@ -16,7 +16,7 @@ Notwithstanding any other provision of this subchapter, for any fiscal year, the
 
 &emsp;(2) the ratio that—
 
-&emsp;&emsp;(A) the population of the State (as determined by the Secretary of Commerce based on the most recent decennial census for which data are available); bears to
+&emsp;&emsp;(A) the population of the State (as determined by the Secretary of Commerce basedon the most recent decennial census for which data are available); bears to
 
 &emsp;&emsp;(B) the population of the region (as so determined).
 

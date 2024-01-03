@@ -20,11 +20,11 @@ A medical officer meets the qualifications under this subsection if the officer 
 
 #### (d) Exception for overseas service
 
-If a medical officer is a medical officer located in a duty station outside of the United States pursuant to a permanent change of station andgreater than 50 percent of the official duties of the officer in such duty station involve direct patient care, the officer, in lieu of performing the minimum hours under subsection (c)(3) on an annual basis, may count up to 480 hours of clinical practice performed as specified in such subsection prior to such change of station, to fulfill in advance the requirement under such subsection for up to 3 years.
+If a medical officer is a medical officer located in a duty station outside of the United States pursuant to a permanent change of station and greater than 50 percent of the official duties of the officer in such duty station involve direct patient care, the officer, in lieu of performing the minimum hours under subsection (c)(3) on an annual basis, may count up to 480 hours of clinical practice performed as specified in such subsection prior to such change of station, to fulfill in advance the requirement under such subsection for up to 3 years.
 
 #### (e) Clinical practice hours
 
-The head of the Office of Medical Services shall make available to medical officers excused absence time to allow for the maintenance of clinical practice hours in accordance with subsection (c)(3).
+The head of the Office of Medical Services shall make available to medical officers excusedabsence time to allow for the maintenance of clinical practice hours in accordance with subsection (c)(3).
 
 (June 20, 1949, ch. 227, §27, as added Pub. L. 117–103, div. X, title VI, §601, Mar. 15, 2022, 136 Stat. 991.)
 

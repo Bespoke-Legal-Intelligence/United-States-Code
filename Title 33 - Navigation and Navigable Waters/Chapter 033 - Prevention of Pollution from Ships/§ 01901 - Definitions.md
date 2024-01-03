@@ -282,7 +282,7 @@ Judicial review.—Any person against whom a civil penalty is assessed under thi
 
 &emsp;&emsp;"(A) in the case of assessment of a class I civil penalty, in the United States District Court for the District of Columbia or in the District of Alaska; or
 
-&emsp;&emsp;"(B) in the case of assessment of a class II civil penalty, in the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business, by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or Secretary, as the case may be, and the Attorney General. The Administrator or Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion.
+&emsp;&emsp;"(B) in the case of assessment of a class II civil penalty, in the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business, by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or Secretary, as the case may be, and the Attorney General. The Administrator or Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remandsuch order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion.
 
 &emsp;"(7)
 
@@ -336,7 +336,7 @@ False statements.—Any person who knowingly makes any false statement, represen
 
 Awards.—
 
-&emsp;"(1) The Secretary, the Administrator, or the court, when assessing any fines or civil penalties, as the case may be, may pay from any fines or civil penalties collected under this section an amount not to exceed one-half of the penalty or fine collected, toany individual who furnishes information which leads to the payment of the penalty or fine. If several individuals provide such information, the amount shall be divided equitably among such individuals. No officer or employee of the United States, the State of Alaska or any federally recognized Tribe who furnishes information or renders service in the performance of his or her official duties shall be eligible for payment under this subsection.
+&emsp;"(1) The Secretary, the Administrator, or the court, when assessing any fines or civil penalties, as the case may be, may pay from any fines or civil penalties collected under this section an amount not to exceed one-half of the penalty or fine collected, to any individual who furnishes information which leads to the payment of the penalty or fine. If several individuals provide such information, the amount shall be divided equitably among such individuals. No officer or employee of the United States, the State of Alaska or any federally recognized Tribe who furnishes information or renders service in the performance of his or her official duties shall be eligible for payment under this subsection.
 
 &emsp;"(2) The Secretary, Administrator or the court, when assessing any fines or civil penalties, as the case may be, may pay, from any fines or civil penalties collected under this section, to the State of Alaska or to any federally recognized Tribe providing information or investigative assistance which leads to payment of the penalty or fine, an amount which reflects the level of information or investigative assistance provided. Should the State of Alaska or a federally recognized Tribe and an individual under paragraph (1) of this section be eligible for an award, the Secretary, the Administrator, or the court, as the case may be, shall divide the amount equitably.
 
@@ -358,7 +358,7 @@ Copies of orders, service.—A copy of any order issued under this subsection sh
 
 "(h)
 
-Civil Actions.—The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under this subsection. Any action under subsection (h) may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the State of Alaska.
+Civil Actions.—The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for anyviolation for which he is authorized to issue a compliance order under this subsection. Any action under subsection (h) may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the State of Alaska.
 
 #### "SEC. 1410. DESIGNATION OF CRUISE VESSEL NO-DISCHARGE ZONES.
 
@@ -420,7 +420,7 @@ Sewage.—The term 'sewage' means human body wastes and the wastes from toilets 
 
 &emsp;"(9)
 
-Treated sewage.—The term 'treated sewage' means sewage meeting all applicable effluent limitation standards and processing requirements of the Federal Water Pollution Control Act \[33 U.S.C. 1251 etseq.\], as amended\[,\] and of this title, and regulations promulgated under either.
+Treated sewage.—The term 'treated sewage' means sewage meeting all applicable effluent limitation standards and processing requirements of the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], as amended\[,\] and of this title, and regulations promulgated under either.
 
 &emsp;"(10)
 

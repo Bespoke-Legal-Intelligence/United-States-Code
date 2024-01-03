@@ -6,7 +6,7 @@ In General.—To promote economy, efficiency, and effectiveness in the administr
 
 (b)
 
-Responsibility of Comptroller General.—The Comptroller General shall evaluateand audit Board programs, operations, and activities, including—
+Responsibility of Comptroller General.—The Comptroller General shall evaluate and audit Board programs, operations, and activities, including—
 
 &emsp;(1) information management and security, including privacy protection of personally identifiable information;
 

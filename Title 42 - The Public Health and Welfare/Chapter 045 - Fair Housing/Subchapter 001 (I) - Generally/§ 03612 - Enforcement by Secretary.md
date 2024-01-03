@@ -30,7 +30,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 #### (g) Hearings, findings and conclusions, and order
 
-(1) The administrative law judge shall commence the hearing under this section no later than 120 days following the issuance of the charge, unless it is impracticable to do so. If the administrative law judge is unable to commence the hearing within 120 days after the issuance of the charge, the administrative law judge shall notify the Secretary, the aggrieved person on whose behalf the charge was filed, and the respondent, in writing of the reasons for not doing so.
+(1) The administrative law judge shall commence the hearing under this section no later than 120 days following the issuance of the charge, unless it is impracticable to do so. If the administrative law judge is unable to commence the hearing within 120 days after the issuance of the charge, the administrative law judge shallnotify the Secretary, the aggrieved person on whose behalf the charge was filed, and the respondent, in writing of the reasons for not doing so.
 
 (2) The administrative law judge shall make findings of fact and conclusions of law within 60 days after the end of the hearing under this section, unless it is impracticable to do so. If the administrative law judge is unable to make findings of fact and conclusions of law within such period, or any succeeding 60-day period thereafter, the administrative law judge shall notify the Secretary, the aggrieved person on whose behalf the charge was filed, and the respondent, in writing of the reasons for not doing so.
 
@@ -44,7 +44,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 > except that if the acts constituting the discriminatory housing practice that is the object of the charge are committed by the same natural person who has been previously adjudged to have committed acts constituting a discriminatory housing practice, then the civil penalties set forth in subparagraphs (B) and (C) may be imposed without regard to the period of time within which any subsequent discriminatory housing practice occurred.
 
-(4) No such order shall affect any contract, sale, encumbrance, or lease consummated before the issuance of such order and involving a bonafide purchaser, encumbrancer, or tenant without actual notice of the charge filed under this subchapter.
+(4) No such order shall affect any contract, sale, encumbrance, or lease consummated before the issuance of such order and involving a bona fide purchaser, encumbrancer, or tenant without actual notice of the charge filed under this subchapter.
 
 (5) In the case of an order with respect to a discriminatory housing practice that occurred in the course of a business subject to a licensing or regulation by a governmental agency, the Secretary shall, not later than 30 days after the date of the issuance of such order (or, if such order is judicially reviewed, 30 days after such order is in substance affirmed upon such review)—
 
@@ -108,7 +108,7 @@ The clerk of the court of appeals in which a petition for enforcement is filed u
 
 (1) If an election is made under subsection (a), the Secretary shall authorize, and not later than 30 days after the election is made the Attorney General shall commence and maintain, a civil action on behalf of the aggrieved person in a United States district court seeking relief under this subsection. Venue for such civil action shall be determined under chapter 87 of title 28.
 
-(2) Any aggrieved person with respect to the issues to be determined in a civil action underthis subsection may intervene as of right in that civil action.
+(2) Any aggrieved person with respect to the issues to be determined in a civil action under this subsection may intervene as of right in that civil action.
 
 (3) In a civil action under this subsection, if the court finds that a discriminatory housing practice has occurred or is about to occur, the court may grant as relief any relief which a court could grant with respect to such discriminatory housing practice in a civil action under section 3613 of this title. Any relief so granted that would accrue to an aggrieved person in a civil action commenced by that aggrieved person under section 3613 of this title shall also accrue to that aggrieved person in a civil action under this subsection. If monetary relief is sought for the benefit of an aggrieved person who does not intervene in the civil action, the court shall not award such relief if that aggrieved person has not complied with discovery orders entered by the court.
 

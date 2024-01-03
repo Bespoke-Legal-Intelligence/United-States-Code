@@ -22,7 +22,7 @@ Funds collected for preclearance activities—
 
 #### (1) In general
 
-&emsp;Notwithstanding any other law, the Secretary may pay an officer or employee of theDepartment of Agriculture performing services under this chapter relating to imports into and exports from the United States for all overtime, night, or holiday work performed by the officer or employee at a rate of pay determined by the Secretary.
+&emsp;Notwithstanding any other law, the Secretary may pay an officer or employee of the Department of Agriculture performing services under this chapter relating to imports into and exports from the United States for all overtime, night, or holiday work performed by the officer or employee at a rate of pay determined by the Secretary.
 
 #### (2) Reimbursement
 

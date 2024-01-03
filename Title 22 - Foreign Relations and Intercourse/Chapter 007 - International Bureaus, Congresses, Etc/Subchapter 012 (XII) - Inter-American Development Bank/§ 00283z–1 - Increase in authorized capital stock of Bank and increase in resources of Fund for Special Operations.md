@@ -20,7 +20,7 @@ For the purpose of keeping to a minimum the cost to the United States, the Secre
 
 None of the funds authorized to be appropriated by this section may be used for any form of assistance to any country which is not a member of the Bank.
 
-(Pub. L. 86–147, §29, as added Pub. L. 96–259, title I, §101(2), June 3, 1980, 94 Stat. 429; amended Pub.L. 97–35, title XIII, §1351(b), Aug. 13, 1981, 95 Stat. 744.)
+(Pub. L. 86–147, §29, as added Pub. L. 96–259, title I, §101(2), June 3, 1980, 94 Stat. 429; amended Pub. L. 97–35, title XIII, §1351(b), Aug. 13, 1981, 95 Stat. 744.)
 
 #### <b>Editorial Notes</b>
 

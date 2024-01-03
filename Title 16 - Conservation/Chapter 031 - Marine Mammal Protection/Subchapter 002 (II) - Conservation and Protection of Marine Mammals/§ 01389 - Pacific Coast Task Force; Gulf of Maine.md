@@ -114,11 +114,11 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 #### (B) Delegation authority
 
-&emsp;&emsp;The Secretary may allow eligible entities described in clause (i) or (ii) of subparagraph (A) to delegate their authority under a permit under this subsection to the Columbia River Intertribal Fish Commission for removal in the mainstem of the Columbia River above river mile 112 and below McNary Dam, in the Columbia River tributaries in the State of Washington, or in tributaries within the State of Oregon above Bonneville Dam and below McNary Dam.
+&emsp;&emsp;The Secretary may allow eligible entities described in clause (i) or (ii) of subparagraph (A) to delegate their authority under a permit under this subsection to the ColumbiaRiver Intertribal Fish Commission for removal in the mainstem of the Columbia River above river mile 112 and below McNary Dam, in the Columbia River tributaries in the State of Washington, or in tributaries within the State of Oregon above Bonneville Dam and below McNary Dam.
 
 #### (C) Additional delegation authority
 
-&emsp;&emsp;The Secretary may allow an eligible entity described in subparagraph (A)(i) to delegateits authority under a permit under this subsection to any entity described in subclause (i) or (ii) of subparagraph (A) with respect to removal in the mainstem of the Columbia River above river mile 112 and below McNary Dam, in the Columbia River tributaries in the State of Washington, or in tributaries in the State of Oregon above Bonneville Dam and below McNary Dam.
+&emsp;&emsp;The Secretary may allow an eligible entity described in subparagraph (A)(i) to delegate its authority under a permit under this subsection to any entity described in subclause (i) or (ii) of subparagraph (A) with respect to removal in the mainstem of the Columbia River above river mile 112 and below McNary Dam, in the Columbia River tributaries in the State of Washington, or in tributaries in the State of Oregon above Bonneville Dam and below McNary Dam.
 
 #### (D) Committee requirements
 

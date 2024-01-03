@@ -108,7 +108,7 @@ The Director shall designate or appoint a United States Emerging and Continuing 
 
 &emsp;&emsp;&emsp;(i) direct the implementation of the plan among the agencies identified in the plan, State, local, and Tribal governments, and other relevant entities;
 
-&emsp;&emsp;&emsp;(ii) facilitate information-sharing between agencies identified in the plan, State, local, and Tribal governments, and other relevant entities; and
+&emsp;&emsp;&emsp;(ii) facilitate information-sharing between agencies identified in the plan,State, local, and Tribal governments, and other relevant entities; and
 
 &emsp;&emsp;&emsp;(iii) monitor implementation of the plan by coordinating the development and implementation of collection and reporting systems to support performance measurement and adherence to the plan by agencies identified in the plan, where appropriate.
 
@@ -180,7 +180,7 @@ Upon designation of an emerging drug threat, the Director shall evaluate whether
 
 #### (ii) Testing and evaluation of advertising
 
-&emsp;&emsp;&emsp;In using amounts for testing and evaluation of advertising under subparagraph\(A)(iv), the Director shall test all advertisements prior to use in the national media campaign to ensure that the advertisements are effective with the target audience and meet industry-accepted standards. The Director may waive this requirement for advertisements using no more than 10 percent of the purchase of advertising time purchased under this subsection in a fiscal year and no more than 10 percent of the advertising space purchased under this subsection in a fiscal year, if the advertisements respond to emergent and time-sensitive campaign needs or the advertisements will not be widely utilized in the national media campaign.
+&emsp;&emsp;&emsp;In using amounts for testing and evaluation of advertising under subparagraph (A)(iv), the Director shall test all advertisements prior to use in the national media campaign to ensure that the advertisements are effective with the target audience and meet industry-accepted standards. The Director may waive this requirement for advertisements using no more than 10 percent of the purchase of advertising time purchased under this subsection in a fiscal year and no more than 10 percent of the advertising space purchased under this subsection in a fiscal year, if the advertisements respond to emergent and time-sensitive campaign needs or the advertisements will not be widely utilized in the national media campaign.
 
 #### (iii) Consultation
 
@@ -382,7 +382,7 @@ Required Emerging Threat Response Plan.—Not later than 90 days after the date 
 
 #### Ex. Ord. No. 12992. President's Council on Counter-Narcotics
 
-Ex. Ord. No. 12992, Mar. 15, 1996, 61 F.R. 11287, as amended by Ex. Ord. No. 13023, §§2, 3, Nov. 6, 1996, 61 F.R. 57767; Ex. Ord. No. 13284, §8, Jan. 23, 2003, 68 F.R. 4076, provided:
+Ex. Ord. No. 12992, Mar. 15, 1996, 61 F.R. 11287, as amended by Ex. Ord. No. 13023, §§2, 3, Nov. 6, 1996, 61F.R. 57767; Ex. Ord. No. 13284, §8, Jan. 23, 2003, 68 F.R. 4076, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 

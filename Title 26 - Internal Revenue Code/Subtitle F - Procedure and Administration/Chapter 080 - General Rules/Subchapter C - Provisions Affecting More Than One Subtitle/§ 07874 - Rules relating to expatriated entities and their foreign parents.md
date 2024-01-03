@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(ii) after the acquisition at least 60 percent of the stock (by vote or value) of the entity is held—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of an acquisition with respect to a domestic corporation, by former shareholders of the domestic corporation by reason of holding stock in the domestic corporation, or
+&emsp;&emsp;&emsp;&emsp;(I) in the case of an acquisition with respect to a domestic corporation, byformer shareholders of the domestic corporation by reason of holding stock in the domestic corporation, or
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of an acquisition with respect to a domestic partnership, by former partners of the domestic partnership by reason of holding a capital or profits interest in the domestic partnership, and
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (2) Inversion gain
 
-&emsp;The term "inversion gain" means the income or gain recognized by reason of the transfer during the applicable period of stockor other properties by an expatriated entity, and any income received or accrued during the applicable period by reason of a license of any property by an expatriated entity—
+&emsp;The term "inversion gain" means the income or gain recognized by reason of the transfer during the applicable period of stock or other properties by an expatriated entity, and any income received or accrued during the applicable period by reason of a license of any property by an expatriated entity—
 
 &emsp;&emsp;(A) as part of the acquisition described in subsection (a)(2)(B)(i), or
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates,see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date
 

@@ -8,7 +8,7 @@ The purposes of the corporation are—
 
 &emsp;(3) to perpetuate the memory of those individuals and record their contributions and achievements by the erection and maintenance of buildings and monuments as may be appropriate as a lasting memorial;
 
-&emsp;(4) to promote a greater sense of appreciation of the dignity and importance of agriculture, historically carried out through owner-operated farms, and the part it hasplayed in developing those social, economic, and spiritual values which are essential in maintaining the free and democratic institutions of our Republic;
+&emsp;(4) to promote a greater sense of appreciation of the dignity and importance of agriculture, historically carried out through owner-operated farms, and the part it has played in developing those social, economic, and spiritual values which are essential in maintaining the free and democratic institutions of our Republic;
 
 &emsp;(5) to establish and maintain a library and museum for the collection and preservation for posterity of agricultural tools, implements, machines, vehicles, pictures, paintings, books, papers, documents, data, relics, mementos, artifacts, and other items relating to agriculture;
 

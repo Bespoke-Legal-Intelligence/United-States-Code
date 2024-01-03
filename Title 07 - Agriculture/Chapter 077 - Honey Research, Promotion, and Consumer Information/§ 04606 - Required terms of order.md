@@ -36,7 +36,7 @@ Any order issued by the Secretary under this chapter shall contain the terms and
 
 &emsp;&emsp;&emsp;(I) qualified national organizations representing handler interests or qualified national organizations representing importer interests; or
 
-&emsp;&emsp;&emsp;(II) if the Secretary determines that there is not a qualified national organization representing handler interests or a qualified national organization representing importer interests, individualhandlers or importers that have paid assessments to the Honey Board on imported honey or honey products;
+&emsp;&emsp;&emsp;(II) if the Secretary determines that there is not a qualified national organization representing handler interests or a qualified national organization representing importer interests, individual handlers or importers that have paid assessments to the Honey Board on imported honey or honey products;
 
 &emsp;(D) 2 members who are importers appointed from nominations submitted by the Committee from recommendations made by—
 
@@ -60,7 +60,7 @@ Review.—If approved in a referendum conducted under this chapter and in accord
 
 &emsp;&emsp;(i) the geographic distribution of the quantities of domestically produced honey assessed under the order; and
 
-&emsp;&emsp;(ii) changes in the annual average percentage of assessments owed by importers under the order relative to assessments owed by producers and handlers of domestic honey, including—
+&emsp;&emsp;(ii) changes in the annual average percentage of assessments owed by importers under the order relative to assessments owed byproducers and handlers of domestic honey, including—
 
 &emsp;&emsp;&emsp;(I) whether any changes in assessments owed on imported quantities are owed by importers described in paragraph (5)(B); or
 
@@ -136,7 +136,7 @@ Restrictions on nomination and appointment.—
 
 &emsp;(A)
 
-Producer-packers as producers.—No producer-packer that, during any 3 of the preceding 5 years, purchased for resale morehoney than the producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in paragraph (2)(A) or as an alternate to such a producer.
+Producer-packers as producers.—No producer-packer that, during any 3 of the preceding 5 years, purchased for resale more honey than the producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in paragraph (2)(A) or as an alternate to such a producer.
 
 &emsp;(B)
 
@@ -164,7 +164,7 @@ Basis for certification.—Certification of an organization under this paragraph
 
 &emsp;&emsp;(i) the geographic territory covered by the active membership of the organization;
 
-&emsp;&emsp;(ii) the nature and size of the active membership of the organization, including the proportion of the total number of active handlers or importers represented by the organization;
+&emsp;&emsp;(ii) the nature and size of the active membership of the organization, including theproportion of the total number of active handlers or importers represented by the organization;
 
 &emsp;&emsp;(iii) evidence of the stability and permanency of the organization;
 

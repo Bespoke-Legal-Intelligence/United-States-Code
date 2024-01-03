@@ -14,7 +14,7 @@ In addition to amounts that may be made available to the Secretary under the Fun
 
 #### (d) Fiscal years beginning with fiscal year 2022
 
-In addition to amounts that may be made available to the Secretary under the Fund for afiscal year, there is authorized to be appropriated to the Secretary for each fiscal year, beginning with fiscal year 2022, $8,000,000, to carry out the scholarship, fellowship, and grant programs under subparagraphs (A), (B), and (C), respectively, of section 1902(a)(1) of this title.
+In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, there is authorized to be appropriated to the Secretary for each fiscal year, beginning with fiscal year 2022, $8,000,000, to carry out the scholarship, fellowship, and grant programs under subparagraphs (A), (B), and (C), respectively, of section 1902(a)(1) of this title.
 
 (Pub. L. 102–183, title VIII, §810, as added Pub. L. 103–178, title III, §311(c), Dec. 3, 1993, 107 Stat. 2037; amended Pub. L. 108–487, title VI, §601(a), Dec. 23, 2004, 118 Stat. 3951; Pub. L. 116–260, div. W, title VI, §619(a), Dec. 27, 2020, 134 Stat. 2401.)
 

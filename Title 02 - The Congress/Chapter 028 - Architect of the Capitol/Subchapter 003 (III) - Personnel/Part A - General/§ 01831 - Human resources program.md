@@ -104,7 +104,7 @@ Pub. L. 107–68, title I, §133(a), Nov. 12, 2001, 115 Stat. 581, as amended by
 
 &emsp;"(B) An individual who is hired for a total of 120 days or less during any 5-year period (excluding any days in which the individual is employed under the Architect of the Capitol Summer Employment Program).
 
-&emsp;"(C) An individual employed by the Architect of the Capitol as a temporary employee as of the date of theenactment of this Act \[Nov. 12, 2001\] who exercises in writing, not later than 90 days after such date, an option offered by the Architect to remain under the pay system (including benefits) provided for the individual as of such date.
+&emsp;"(C) An individual employed by the Architect of the Capitol as a temporary employee as of the date of the enactment of this Act \[Nov. 12, 2001\] who exercises in writing, not later than 90 days after such date, an option offered by the Architect to remain under the pay system (including benefits) provided for the individual as of such date.
 
 &emsp;"(D) An individual who becomes employed by the Architect of the Capitol after the date of the enactment of this Act \[Nov. 12, 2001\] who exercises in writing, prior to the individual's employment, an option offered by the Architect to receive pay and benefits under an alternative system which does not provide the benefits described in paragraph (1), except that under such an option the Architect shall be required to provide the individual with the benefits described in paragraph (1) as soon as the individual's period of service as a temporary employee exceeds 1 year in length.
 

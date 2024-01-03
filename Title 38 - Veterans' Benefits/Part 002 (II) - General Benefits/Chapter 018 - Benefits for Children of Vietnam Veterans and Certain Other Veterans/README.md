@@ -48,12 +48,18 @@
 | [1832\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001832%20-%20Applicability%20of%20certain%20administrative%20provisions.md) | Applicability of certain administrative provisions. |
 | [1833\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001833%20-%20Treatment%20of%20receipt%20of%20monetary%20allowance%20and%20other%20benefits.md) | Treatment of receipt of monetary allowance and other benefits. |
 | [1834\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001834%20-%20Nonduplication%20of%20benefits.md) | Nonduplication of benefits. |
+| [1835\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001835%20-%20Advisory%20council.md) | Advisory council. |
+| [1836\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001836%20-%20Care%20and%20coordination%20teams.md) | Care and coordination teams. |
+| [1837\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001837%20-%20Duration%20of%20health%20care%20and%20benefits%20provided.md) | Duration of health care and benefits provided. |
+| [1838\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001838%20-%20Biennial%20report.md) | Biennial report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–18, §1(e), Oct. 6, 2023, 137 Stat. 105, added items 1835 to 1838.
 
 <b>2019</b>—Pub. L. 116–23, §4(c)(2), June 25, 2019, 133 Stat. 971, substituted "CHILDREN OF CERTAIN KOREA AND THAILAND SERVICE VETERANS BORN WITH SPINA BIFIDA" for "CHILDREN OF CERTAIN KOREA SERVICE VETERANS BORN WITH SPINA BIFIDA" in item for subchapter III and added item 1822.
 

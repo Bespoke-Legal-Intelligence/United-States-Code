@@ -22,7 +22,7 @@ Except as provided in section 47153 of this title, the following terms apply to 
 
 &emsp;&emsp;(C) pay a fair rental for use, control, or possession of improvements to the airport made without Government assistance.
 
-&emsp;(6) The Government is entitled to the nonexclusive use, without charge, of the landing area of an airport at which the property is located. The Secretary may limit the use of the landing area if necessary to prevent unreasonable interference with use by other authorized aircraft. However, the Government shall—
+&emsp;(6) The Government is entitled to the nonexclusive use, without charge, of the landingarea of an airport at which the property is located. The Secretary may limit the use of the landing area if necessary to prevent unreasonable interference with use by other authorized aircraft. However, the Government shall—
 
 &emsp;&emsp;(A) contribute a reasonable share, consistent with the Government's use, of the cost of maintaining and operating the landing area; and
 

@@ -52,13 +52,13 @@ In carrying out this section, the Secretary shall work in cooperation with the N
 
 &emsp;&emsp;&emsp;(vii) how the population, including family caregivers, care recipients, and relevant public or private agencies, will participate in the planning and implementation of the proposed respite care activities;
 
-&emsp;&emsp;&emsp;(viii) how the proposed respite care activities will make use, to the maximum extent feasible, of other Federal, State, and local funds, programs, contributions, other forms of reimbursements, personnel, and facilities;
+&emsp;&emsp;&emsp;(viii) how the proposed respite care activities will make use, to the maximum extent feasible, of other Federal, State, and local funds, programs, contributions,other forms of reimbursements, personnel, and facilities;
 
 &emsp;&emsp;&emsp;(ix) respite care services available to family caregivers in the eligible State agency's State or locality, including unmet needs and how the eligible State agency's plan for use of funds will improve the coordination and distribution of respite care services for family caregivers of children and adults with special needs;
 
 &emsp;&emsp;&emsp;(x) the criteria used to identify family caregivers eligible for respite care services;
 
-&emsp;&emsp;&emsp;(xi) how the quality and safety of any respite care services provided will be monitored, including methods to ensure thatrespite care workers and volunteers are appropriately screened and possess the necessary skills to care for the needs of the care recipient in the absence of the family caregiver; and
+&emsp;&emsp;&emsp;(xi) how the quality and safety of any respite care services provided will be monitored, including methods to ensure that respite care workers and volunteers are appropriately screened and possess the necessary skills to care for the needs of the care recipient in the absence of the family caregiver; and
 
 &emsp;&emsp;&emsp;(xii) the results expected from proposed respite care activities and the procedures to be used for evaluating those results;
 

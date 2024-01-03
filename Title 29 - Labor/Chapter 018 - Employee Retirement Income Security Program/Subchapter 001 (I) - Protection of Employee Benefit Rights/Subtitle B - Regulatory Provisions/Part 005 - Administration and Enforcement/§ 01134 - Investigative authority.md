@@ -16,7 +16,7 @@ The Secretary may not under the authority of this section require any plan to su
 
 #### (c) Other provisions applicable relating to attendance of witnesses and production of books, records, etc.
 
-For the purposes of any investigation provided for in this subchapter, the provisions of sections 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, records, and documents) are hereby made applicable (without regard to any limitation in such sections respecting persons, partnerships, banks, or common carriers) to the jurisdiction, powers, and duties of the Secretary or any officers designated by him. To the extent he considers appropriate, the Secretary may delegate his investigative functions under this section with respect to insured banks acting as fiduciaries of employee benefit plans to the appropriate Federal banking agency (as defined in section 1813(q) of title 12).
+For the purposes of any investigation provided for in this subchapter, the provisions of sections49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, records, and documents) are hereby made applicable (without regard to any limitation in such sections respecting persons, partnerships, banks, or common carriers) to the jurisdiction, powers, and duties of the Secretary or any officers designated by him. To the extent he considers appropriate, the Secretary may delegate his investigative functions under this section with respect to insured banks acting as fiduciaries of employee benefit plans to the appropriate Federal banking agency (as defined in section 1813(q) of title 12).
 
 #### (d) Evidentiary privilege; confidentiality of communications
 
@@ -40,7 +40,7 @@ The Secretary may promulgate a regulation that provides an evidentiary privilege
 
 #### (e) Application of privilege
 
-The privilege established under subsection (d) shall apply to communications related to anyinvestigation, audit, examination, or inquiry conducted or coordinated by any of the agencies. A communication that is privileged under subsection (d) shall not waive any privilege otherwise available to the communicating agency or to any person who provided the information that is communicated.
+The privilege established under subsection (d) shall apply to communications related to any investigation, audit, examination, or inquiry conducted or coordinated by any of the agencies. A communication that is privileged under subsection (d) shall not waive any privilege otherwise available to the communicating agency or to any person who provided the information that is communicated.
 
 (Pub. L. 93–406, title I, §504, Sept. 2, 1974, 88 Stat. 893; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 111–148, title VI, §6607, Mar. 23, 2010, 124 Stat. 781.)
 

@@ -13,7 +13,7 @@
 | <b>\[314.</b> | <b>Repealed.\]</b> |  |
 | [<b>315.</b>](Chapter%20315%20-%20Discharge%20and%20Release%20Payments/README.md) | <b>Discharge and release payments</b> | <b>4281</b> |
 | [<b>317.</b>](Chapter%20317%20-%20Institutions%20for%20Women/README.md) | <b>Institutions for women</b> | <b>4321</b> |
-| [<b>319.</b>](Chapter%20319%20-%20National%20Institute%20of%20Corrections/README.md) | <b>National Institute of Corrections</b> | <b>4351</b> |
+| [<b>319.</b>](Chapter%20319%20-%20National%20Institute%20of%20Corrections/README.md) | <b>National Institute of Corrections</b> | <b>4351</b><br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

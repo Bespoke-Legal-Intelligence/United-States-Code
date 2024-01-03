@@ -34,7 +34,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(i) The areas depicted on the map referenced in subparagraph (A).
 
-&emsp;&emsp;(ii) Landside points required for access, visitor services, and administration in thecity of Boston along its Harborwalk and at Long Wharf, Fan Pier, John F. Kennedy Library, and the Custom House; Charlestown Navy Yard; Old Northern Avenue Bridge; the city of Quincy at Squantum Point/Marina Bay, the Fore River Shipyard, and Town River; the Town of Hingham at Hewitt's Cove; the Town of Hull; the city of Salem at Salem National Historic Site; and the city of Lynn at the Heritage State Park.
+&emsp;&emsp;(ii) Landside points required for access, visitor services, and administration in the city of Boston along its Harborwalk and atLong Wharf, Fan Pier, John F. Kennedy Library, and the Custom House; Charlestown Navy Yard; Old Northern Avenue Bridge; the city of Quincy at Squantum Point/Marina Bay, the Fore River Shipyard, and Town River; the Town of Hingham at Hewitt's Cove; the Town of Hull; the city of Salem at Salem National Historic Site; and the city of Lynn at the Heritage State Park.
 
 #### (3) Land acquisition
 

@@ -128,7 +128,7 @@ Subsec. (c)(4). Pub. L. 98–169, §3(c), added par. (4).
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Termination of Reporting Requirements
 
@@ -148,7 +148,7 @@ Pub. L. 117–219, §2, Dec. 5, 2022, 136 Stat. 2271, provided that: "Congress f
 
 &emsp;"(5) Increased transparency on the impacts of any update to core-based statistical area delineations may be overly burdensome due to the anticipated variety of Federal programs that rely on these delineations. Any requirement for complete disclosure of these impacts prior to implementation of new delineations may unintentionally cause the existing delineations to ossify.
 
-&emsp;"(6) In order to prevent any disruption to service delivery of Federal programs based on updates to core-based statistical area delineations, and ensure the independence of Federal statistical policymaking, Congress must sever the link between future updates to core-based statistical area delineations and any automatic impact on Federal programs that rely on these delineations."
+&emsp;"(6) In order to prevent any disruption to service delivery of Federal programs based on updates tocore-based statistical area delineations, and ensure the independence of Federal statistical policymaking, Congress must sever the link between future updates to core-based statistical area delineations and any automatic impact on Federal programs that rely on these delineations."
 
 \[For definition of "core-based statistical area" as used in section 2 of Pub. L. 117–219, set out above, see section 4 of Pub. L. 117–219, set out below.\]
 
@@ -204,7 +204,7 @@ Pub. L. 117–219, §6(c), Dec. 5, 2022, 136 Stat. 2273, provided that: "The Dir
 
 #### Implementation Timeline
 
-Pub. L. 117–219, §6(d), Dec. 5, 2022, 136 Stat. 2274, provided that: "The requirements of this section \[amending this section and enacting provisions set out as notes under this section\] shall be fully implemented not later than 2 years after the date of enactment of this Act \[December 5, 2022\]."
+Pub. L. 117–219, §6(d), Dec. 5, 2022, 136 Stat. 2274, provided that: "The requirements of this section \[amending this section and enacting provisions set out as notes under this section\] shall be fully implemented not later than 2 years after the date of enactment of this Act \[Dec. 5, 2022\]."
 
 #### Consolidated Federal Funds Report
 

@@ -110,7 +110,7 @@ Subsec. (d). Pub. L. 116–260, §305(b)(4), substituted "2018 through 2022" for
 
 Pub. L. 116–260, §7(d), which directed substitution of "2022" for "2021", was not executed in view of the amendment by Pub. L. 116–260, §305(b)(4), to reflect the probable intent of Congress. See above.
 
-<b>2018</b>—Subsec. (b)(1). Pub. L. 115–123, §50741(c), in introductory provisions, inserted "shall provide for thetraining of judges, attorneys, and other legal personnel in child welfare cases on Federal child welfare policies and payment limitations with respect to children in foster care who are placed in settings that are not a foster family home," after "with respect to the child,".
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–123, §50741(c), in introductory provisions, inserted "shall provide for the training of judges, attorneys, and other legal personnel in child welfare cases on Federal child welfare policies and payment limitations with respect to children in foster care who are placed in settings that are not a foster family home," after "with respect to the child,".
 
 Subsec. (c)(1). Pub. L. 115–123, §50752(d)(1), substituted "2017 through 2021" for "2012 through 2016".
 
@@ -202,7 +202,7 @@ Amendment by section 50741(c) of Pub. L. 115–123 effective as if enacted on Ja
 
 Pub. L. 112–34, title I, §104(e), Sept. 30, 2011, 125 Stat. 376, provided that the amendment by section 104(e) of Pub. L. 112–34 is effective as if included in the enactment of Pub. L. 109–239.
 
-Amendment by section 104(a)–(d) of Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments underthis part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
+Amendment by section 104(a)–(d) of Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
 
 #### Effective Date of 2010 Amendment
 

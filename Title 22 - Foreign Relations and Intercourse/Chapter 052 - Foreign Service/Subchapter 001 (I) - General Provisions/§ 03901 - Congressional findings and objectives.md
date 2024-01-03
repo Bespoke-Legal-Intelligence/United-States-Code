@@ -44,7 +44,7 @@ Act of May 24, 1924 (commonly known as the Rogers Act), referred to in subsec. (
 
 The Foreign Service Act of 1946, referred to in subsec. (a)(3), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, which was classified principally to chapter 14 (§801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159, the Foreign Service Act of 1980, as part of the general revision of the laws relating to the administration of the Foreign Service. For complete classification of the 1946 Act to the Code prior to its repeal, see Tables.
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 96–465, Oct. 17,1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -272,7 +272,7 @@ Sec. 9. (a) Pursuant to Section 210 of the Act there is established in the Depar
 
 (9) Equal Employment Opportunity Commission, one member;
 
-(c) The membership of the Board shall be selected from among officials who are knowledgeable in matters concerning the management of the Foreign Service. Except for the career members of the Senior Foreign Service from the Department of Agriculture, the Department of Commerce, the United States Information Agency, and the United States Agency for International Development, the members of the Board shallbe selected from among those who have the rank of Assistant Secretary or higher or a position of comparable responsibility.
+(c) The membership of the Board shall be selected from among officials who are knowledgeable in matters concerning the management of the Foreign Service. Except for the career members of the Senior Foreign Service from the Department of Agriculture, the Department of Commerce, the United States Information Agency, and the United States Agency for International Development, the members of the Board shall be selected from among those who have the rank of Assistant Secretary or higher or a position of comparable responsibility.
 
 (d) The Secretary of State may from time to time request the heads of other agencies to designate representatives to participate in the functions of the Board on a regular or occasional basis.
 

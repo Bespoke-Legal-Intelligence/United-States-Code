@@ -2,7 +2,7 @@
 
 The Director shall report directly to the Secretary and shall have the general supervision of the Institute, its equipment, and the exercise of its functions. The Director shall make an annual report to the Secretary of Commerce. The Director may issue, when necessary, bulletins for public distribution, containing such information as may be of value to the public or facilitate the exercise of the functions of the Institute.
 
-(Mar. 3, 1901, ch. 872, §5, 31 Stat. 1449; Pub. L. 99–73, §6(a), July 29, 1985, 99 Stat. 172; Pub. L. 100–418, title V, §5112(c)(1), Aug. 23, 1988, 102 Stat.1431; Pub. L. 110–69, title III, §3002(c)(2)(B), Aug. 9, 2007, 121 Stat. 586; Pub. L. 111–358, title IV, §403(b)(2), Jan. 4, 2011, 124 Stat. 4000.)
+(Mar. 3, 1901, ch. 872, §5, 31 Stat. 1449; Pub. L. 99–73, §6(a), July 29, 1985, 99 Stat. 172; Pub. L. 100–418, title V, §5112(c)(1), Aug. 23, 1988, 102 Stat. 1431; Pub. L. 110–69, title III, §3002(c)(2)(B), Aug. 9, 2007, 121 Stat. 586; Pub. L. 111–358, title IV, §403(b)(2), Jan. 4, 2011, 124 Stat. 4000.)
 
 #### <b>Editorial Notes</b>
 

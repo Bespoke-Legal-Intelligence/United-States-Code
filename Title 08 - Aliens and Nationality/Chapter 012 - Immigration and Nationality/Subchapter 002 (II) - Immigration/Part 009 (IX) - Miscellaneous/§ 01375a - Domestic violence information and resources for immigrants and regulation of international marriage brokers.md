@@ -10,7 +10,7 @@
 
 &emsp;The information pamphlet developed under paragraph (1) shall include information on the following:
 
-&emsp;&emsp;(A) The K nonimmigrant visa application process and the marriage-based immigrationprocess, including conditional residence and adjustment of status.
+&emsp;&emsp;(A) The K nonimmigrant visa application process and the marriage-based immigration process, including conditional residence and adjustment of status.
 
 &emsp;&emsp;(B) The illegality of domestic violence, sexual assault, and child abuse in the United States and the dynamics of domestic violence.
 
@@ -46,7 +46,7 @@
 
 #### (A) Mailings to K nonimmigrant visa applicants
 
-&emsp;&emsp;(i) The pamphlet shall be mailed by the Secretary of State to each applicant for a K nonimmigrant visa at the same time that the instruction packet regarding the visa application process is mailed to such applicant. The pamphlet so mailed shall be in the primary language of the applicant or in English if no translation into the applicant's primary language is available.
+&emsp;&emsp;(i) The pamphlet shall be mailed by the Secretary of State to each applicant for a Knonimmigrant visa at the same time that the instruction packet regarding the visa application process is mailed to such applicant. The pamphlet so mailed shall be in the primary language of the applicant or in English if no translation into the applicant's primary language is available.
 
 &emsp;&emsp;(ii) The Secretary of Homeland Security shall provide to the Secretary of State, for inclusion in the mailing under clause (i), a copy of the petition submitted by the petitioner for such applicant under subsection (d) or (r) of section 1184 of this title.
 

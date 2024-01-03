@@ -46,7 +46,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;(B) The plan shall provide assurances that—
 
-&emsp;&emsp;(i) no individual (appointed or otherwise) involved in the designation of the State agency or an area agency on aging, or in the designation of the head of any subdivision ofthe State agency or of an area agency on aging, is subject to a conflict of interest prohibited under this chapter;
+&emsp;&emsp;(i) no individual (appointed or otherwise) involved in the designation of the State agency or an area agency on aging, or in the designation of the head of any subdivision of the State agency or of an area agency on aging, is subject to a conflict of interest prohibited under this chapter;
 
 &emsp;&emsp;(ii) no officer, employee, or other representative of the State agency or an area agency on aging is subject to a conflict of interest prohibited under this chapter; and
 
@@ -92,7 +92,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;&emsp;(ii) receipt of reports of abuse of older individuals;
 
-&emsp;&emsp;&emsp;(iii) active participation of older individuals participating in programs under thischapter through outreach, conferences, and referral of such individuals to other social service agencies or sources of assistance where appropriate and consented to by the parties to be referred; and
+&emsp;&emsp;&emsp;(iii) active participation of older individuals participating in programs under this chapter through outreach, conferences, and referral of such individuals to other social service agencies or sources of assistance where appropriate and consented to by the parties to be referred; and
 
 &emsp;&emsp;&emsp;(iv) referral of complaints to law enforcement or public protective service agencies where appropriate;
 
@@ -106,7 +106,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(A) identify the number of low-income minority older individuals in the State, including the number of low-income minority older individuals with limited English proficiency; and
 
-&emsp;&emsp;(B) describe the methods used to satisfy the service needs of the low-income minority older individuals described in subparagraph (A), including the plan to meet the needs of low-income minority older individuals with limited English proficiency.
+&emsp;&emsp;(B) describe the methods used to satisfy the service needs of the low-income minorityolder individuals described in subparagraph (A), including the plan to meet the needs of low-income minority older individuals with limited English proficiency.
 
 &emsp;(15) The plan shall provide assurances that, if a substantial number of the older individuals residing in any planning and service area in the State are of limited English-speaking ability, then the State will require the area agency on aging for each such planning and service area—
 
@@ -164,7 +164,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(B) to provide multigenerational activities, such as opportunities for older individuals to serve as mentors or advisers in child care, youth day care, educational assistance, at-risk youth intervention, juvenile delinquency treatment, and family support programs.
 
-&emsp;(24) The plan shall provide assurances that the State will coordinate public services within the State to assist older individuals to obtain transportation services associated with access to services provided under this subchapter, to services under subchapter X, to comprehensive counseling services, and to legal assistance.
+&emsp;(24) The plan shall provide assurances that the State will coordinate public services within the State to assist older individuals to obtain transportation services associated with access to services provided under this subchapter, to services under subchapter X, tocomprehensive counseling services, and to legal assistance.
 
 &emsp;(25) The plan shall include assurances that the State has in effect a mechanism to provide for quality in the provision of in-home services under this subchapter.
 
@@ -218,7 +218,7 @@ Whenever the Assistant Secretary, after reasonable notice and opportunity for a 
 
 &emsp;(3) in the administration of the plan there is a failure to comply substantially with any such provision of subsection (a),
 
-> the Assistant Secretary shall notify such State agency that no further payments from its allotments under section 3024 of this title and section 3028 of this title will be made to the State (or, in the Assistant Secretary's discretion, that further payments to the State will be limited to projects under or portions of the State plan not affected by such failure), until the Assistant Secretary is satisfied that there will no longer be any failure to comply. Until the Assistant Secretary is so satisfied, no further payments shall be made to such State from its allotments under section 3024 of this title and section 3028 of this title (or payments shall be limited to projects under or portions of the State plan not affected by such failure). The Assistant Secretary shall, in accordance with regulations the Assistant Secretary shall prescribe, disburse the funds so withheld directly to any public or nonprofit private organization or agency or political subdivision of such State submitting an approved plan in accordance with the provisions of this section. Any such payment shall be matched in the proportions specified in section 3024 of this title.
+> the Assistant Secretary shall notify such State agency that no further payments from its allotments under section 3024 of this title and section 3028 of this title will be made to the State (or, in the Assistant Secretary's discretion, that further payments to the State will be limited to projects under or portions of the State plan not affected by such failure), until the Assistant Secretary is satisfied that there will no longerbe any failure to comply. Until the Assistant Secretary is so satisfied, no further payments shall be made to such State from its allotments under section 3024 of this title and section 3028 of this title (or payments shall be limited to projects under or portions of the State plan not affected by such failure). The Assistant Secretary shall, in accordance with regulations the Assistant Secretary shall prescribe, disburse the funds so withheld directly to any public or nonprofit private organization or agency or political subdivision of such State submitting an approved plan in accordance with the provisions of this section. Any such payment shall be matched in the proportions specified in section 3024 of this title.
 
 #### (e) Appeal
 
@@ -242,7 +242,7 @@ The Legal Services Corporation Act, referred to in subsec. (a)(11)(A), is title 
 
 #### Prior Provisions
 
-A prior section 3027, Pub. L. 89–73, title III, §307, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 44, related to payment of grants or contracts, prior tothe general amendment of this subchapter by Pub. L. 95–478. See section 3029 of this title.
+A prior section 3027, Pub. L. 89–73, title III, §307, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 44, related to payment of grants or contracts, prior to the general amendment of this subchapter by Pub. L. 95–478. See section 3029 of this title.
 
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §305, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 41; Pub. L. 94–135, title I, §§106(a), (b), 114(e), Nov. 28, 1975, 89 Stat. 715, 725, which was classified to section 3025 of this title prior to repeal by Pub. L. 95–478.
 
@@ -294,7 +294,7 @@ Subsec. (a)(11). Pub. L. 106–501, §306(5), (6), redesignated par. (15) as (11
 
 > for any staff positions (full time or part time) in State and area agencies for which such individuals qualify."
 
-Subsec. (a)(12). Pub. L. 106–501, §306(5), (6), redesignated par. (16) as (12) and struck out former par. (12) which read as follows: "The plan shall provide assurances that the State agency will carry out, through theOffice of the State Long-Term Care Ombudsman, a State Long-Term Care Ombudsman program in accordance with section 3058g of this title and this subchapter."
+Subsec. (a)(12). Pub. L. 106–501, §306(5), (6), redesignated par. (16) as (12) and struck out former par. (12) which read as follows: "The plan shall provide assurances that the State agency will carry out, through the Office of the State Long-Term Care Ombudsman, a State Long-Term Care Ombudsman program in accordance with section 3058g of this title and this subchapter."
 
 Subsec. (a)(13). Pub. L. 106–501, §306(5), (8), redesignated par. (18) as (13) and struck out former par. (13) which related to a list of requirements that the plan was to provide with respect to nutrition services.
 
@@ -314,7 +314,7 @@ Subsec. (a)(19). Pub. L. 106–501, §306(9), (17), redesignated par. (30) as (1
 
 Subsec. (a)(20). Pub. L. 106–501, §306(17), redesignated par. (32) as (20). Former par. (20) redesignated (14).
 
-Subsec. (a)(21). Pub. L. 106–501, §306(11), (18), added par. (21) and struck out former par. (21) which read as follows: "The plan shall provide assurances that the State agency, in carrying out the State Long-Term Care Ombudsman program under subsection (a)(12) of this section, will expend not less than the total amount expended by the agency in fiscal year 1991 in carrying out such a program under this subchapter."
+Subsec. (a)(21). Pub. L. 106–501, §306(11), (18), added par. (21) and struck out former par. (21) which read asfollows: "The plan shall provide assurances that the State agency, in carrying out the State Long-Term Care Ombudsman program under subsection (a)(12) of this section, will expend not less than the total amount expended by the agency in fiscal year 1991 in carrying out such a program under this subchapter."
 
 Subsec. (a)(22). Pub. L. 106–501, §801(c)(4)(A), substituted "3026(a)(8)" for "3026(a)(20)".
 
@@ -554,7 +554,7 @@ Subsec. (g). Pub. L. 100–175, §137(b), added subsec. (g).
 
 <b>1984</b>—Subsec. (a)(3)(A). Pub. L. 98–459, §307(a)(1), substituted "legal assistance" for "legal services".
 
-Subsec. (a)(10). Pub. L. 98–459, §307(a)(2), substituted "supportive services or nutrition services" for "supportive services, including nutrition services", and inserted ", or where such services are directly related to such State or area agency on aging's administrative functions, or where such services of comparable qualitycan be provided more economically by such State or area agency on aging".
+Subsec. (a)(10). Pub. L. 98–459, §307(a)(2), substituted "supportive services or nutrition services" for "supportive services, including nutrition services", and inserted ", or where such services are directly related to such State or area agency on aging's administrative functions, or where such services of comparable quality can be provided more economically by such State or area agency on aging".
 
 Subsec. (a)(12)(A). Pub. L. 98–459, §307(a)(3)(A)–(C), substituted ", other than an agency or organization which is responsible" for "which is not responsible", "which is an association" for "which is not an association", and "which provides an individual who will, on a full-time basis—" for "which will—", in provision preceding cl. (i).
 

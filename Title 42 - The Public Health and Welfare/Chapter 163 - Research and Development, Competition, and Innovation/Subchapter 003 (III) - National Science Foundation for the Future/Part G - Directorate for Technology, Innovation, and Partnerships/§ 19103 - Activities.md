@@ -24,7 +24,7 @@ Subject to the availability of appropriated funds, the Director shall achieve th
 
 &emsp;(5) build capacity and infrastructure for use-inspired and translational research at institutions of higher education across the United States, including by making awards to support administrative activities that advance development, operation, integration, deployment, and sharing of innovation;
 
-&emsp;(6) support the education, mentoring, and training of undergraduate students, graduate students, and postdoctoral researchers, to both advance use-inspired and translationalresearch and to address workforce challenges, through scholarships, fellowships, and traineeships; and
+&emsp;(6) support the education, mentoring, and training of undergraduate students, graduate students, and postdoctoral researchers, to both advance use-inspired and translational research and to address workforce challenges, through scholarships, fellowships, and traineeships; and
 
 &emsp;(7) identify social, behavioral, and economic drivers and consequences of technological innovations that could enable advances in the challenges and key technology focus areas under section 19107 of this title.
 

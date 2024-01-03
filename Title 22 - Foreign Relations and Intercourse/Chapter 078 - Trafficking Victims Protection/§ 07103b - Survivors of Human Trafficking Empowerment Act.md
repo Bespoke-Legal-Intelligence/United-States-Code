@@ -6,7 +6,7 @@ This section may be cited as the "Survivors of Human Trafficking Empowerment Act
 
 #### (b) Establishment
 
-There is established the United States Advisory Council on Human Trafficking (referred to in this section as the "Council"), which shall provide advice and recommendations to the Senior Policy Operating Group established under section 7103(g) of this title (referred to in this section as the "Group") and the President's Interagency Task Force to Monitor and Combat Trafficking established under section 7103(a) of such title (referred to in this section as the "Task Force").
+There is established the United States Advisory Council on Human Trafficking (referred toin this section as the "Council"), which shall provide advice and recommendations to the Senior Policy Operating Group established under section 7103(g) of this title (referred to in this section as the "Group") and the President's Interagency Task Force to Monitor and Combat Trafficking established under section 7103(a) of such title (referred to in this section as the "Task Force").
 
 #### (c) Membership
 
@@ -98,7 +98,7 @@ Subsec. (h). Pub. L. 115–425, §114(2), substituted "2021" for "2020".
 
 #### Severability
 
-Pub. L. 117–348, title III, §301, Jan. 5, 2023, 136 Stat. 6224, provided that: "If any provision of this Act \[see Short Title of 2023 Amendment note set out under section 7101 of this title\] or amendment made by this Act, or the application of such provision or amendment to any person or circumstance, is held to be unconstitutional, the remainder of this Act and the amendments made by this Act, and the application of the provision or amendment to any other person or circumstance, shall not be affected."
+Pub. L. 117–348, title III, §301, Jan. 5, 2023, 136 Stat. 6224, provided that: "If any provision of this Act \[seeShort Title of 2023 Amendment note set out under section 7101 of this title\] or amendment made by this Act, or the application of such provision or amendment to any person or circumstance, is held to be unconstitutional, the remainder of this Act and the amendments made by this Act, and the application of the provision or amendment to any other person or circumstance, shall not be affected."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

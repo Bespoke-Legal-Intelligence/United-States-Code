@@ -16,7 +16,7 @@ Each Transnational Criminal Investigative Unit shall be composed of trained fore
 
 #### (2) Leahy vetting required
 
-&emsp;No member of a foreign law enforcement unit may join a Transnational Criminal Investigative Unit if the Secretary, in coordination with the Secretary of State, has credible information that such foreign law enforcement unit has committed a gross violation ofhuman rights, consistent with the limitations set forth in section 2378d of title 22.
+&emsp;No member of a foreign law enforcement unit may join a Transnational Criminal Investigative Unit if the Secretary, in coordination with the Secretary of State, has credible information that such foreign law enforcement unit has committed a gross violation of human rights, consistent with the limitations set forth in section 2378d of title 22.
 
 #### (3) Approval and concurrence
 
@@ -24,7 +24,7 @@ Each Transnational Criminal Investigative Unit shall be composed of trained fore
 
 &emsp;&emsp;(A) shall be performed with the approval of the chief of mission to the foreign country to which the personnel are assigned;
 
-&emsp;&emsp;(B) shall be consistent with the duties and powers of the Secretary of State and the chief of mission for a foreign country under section 4802 of title 22 and section 3927 of title 22, respectively; and
+&emsp;&emsp;(B) shall be consistent with the duties and powers of the Secretary of State and thechief of mission for a foreign country under section 4802 of title 22 and section 3927 of title 22, respectively; and
 
 &emsp;&emsp;(C) shall not be established without the concurrence of the Assistant Secretary of State for International Narcotics and Law Enforcement Affairs.
 

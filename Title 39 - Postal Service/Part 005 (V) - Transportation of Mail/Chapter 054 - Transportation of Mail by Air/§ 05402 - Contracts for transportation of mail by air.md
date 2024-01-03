@@ -84,7 +84,7 @@ International Mail.—
 
 In general.—
 
-&emsp;&emsp;(A) Except as otherwise provided in this subsection, the Postal Service may contract for the transportation of mail by aircraft between any of the points in foreign air transportation only with certificated air carriers. A contract may be awarded to a certificated air carrier to transport mail by air between any of the points in foreign air transportation that the Secretary of Transportationhas authorized the carrier to serve either directly or through a code-share relationship with one or more foreign air carriers.
+&emsp;&emsp;(A) Except as otherwise provided in this subsection, the Postal Service may contract for the transportation of mail by aircraft between any of the points in foreign air transportation only with certificated air carriers. A contract may be awarded to a certificated air carrier to transport mail by air between any of the points in foreign air transportation that the Secretary of Transportation has authorized the carrier to serve either directly or through a code-share relationship with one or more foreign air carriers.
 
 &emsp;&emsp;(B) If the Postal Service has sought offers or proposals from certificated air carriers to transport mail in foreign air transportation between points, or pairs of points within a geographic region or regions, and has not received offers or proposals that meet Postal Service requirements at a fair and reasonable price from at least 2 such carriers, the Postal Service may seek offers or proposals from foreign air carriers. Where service in foreign air transportation meeting the Postal Service's requirements is unavailable at a fair and reasonable price from at least 2 certificated air carriers, either directly or through a code-share relationship with one or more foreign air carriers, the Postal Service may contract with foreign air carriers to provide the service sought if, when the Postal Service seeks offers or proposals from foreign air carriers, it also seeks an offer or proposal to provide that service from any certificated air carrier providing service between those points, or pairs of points within a geographic region or regions, on the same terms and conditions that are being sought from foreign air carriers.
 
@@ -252,7 +252,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 &emsp;(i) meets the requirements of subsection (g)(1)(A)(iv)(II); and
 
-&emsp;(ii) has provided at least 75 percent of the number of insured passenger seats as the number of available passenger seats being provided by the mainline passenger carrier providing the greatest number of available passenger seats on that route for the 6 months immediately preceding the date on which the carrier seeks tender of such mail.
+&emsp;(ii) has provided at least 75 percent of the number of insured passenger seats as the number of available passenger seats being providedby the mainline passenger carrier providing the greatest number of available passenger seats on that route for the 6 months immediately preceding the date on which the carrier seeks tender of such mail.
 
 (B) A new 121 mainline passenger carrier that is tendered nonpriority mainline bypass mail under subparagraph (A)—
 
@@ -312,11 +312,11 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 &emsp;(II) 5 percent of the share of each nonpassenger carrier servicing that route that transports 25 percent or more of the total nonmail freight under subsection (i)(1).
 
-(ii) Additional 121 bush passenger carriers entering service on that city pair route after the first 3 shall not receive any additional mail share.
+(ii) Additional 121 bush passenger carriers entering service on that city pair route after thefirst 3 shall not receive any additional mail share.
 
 (iii) If any 121 bush passenger carrier on a city pair route receiving an additional share of the mail under clause (ii) discontinues service on that route, the 121 bush passenger carrier that has been providing the longest period of service on that route and is otherwise eligible but is not receiving a share by reason of clause (ii), shall receive the share of the carrier discontinuing service.
 
-(C) Notwithstanding the requirements of this subsection, if only 1 passenger carrier or aircraft is qualified to be tendered nonpriority bypass mail as a passenger carrier or aircraft on a city pair route in the State of Alaska, the Postal Service shall tender 20 percent of the nonpriority bypass mail described under paragraph (1) to the passenger carrier or aircraft providing atleast 10 percent of the passenger service on such route.
+(C) Notwithstanding the requirements of this subsection, if only 1 passenger carrier or aircraft is qualified to be tendered nonpriority bypass mail as a passenger carrier or aircraft on a city pair route in the State of Alaska, the Postal Service shall tender 20 percent of the nonpriority bypass mail described under paragraph (1) to the passenger carrier or aircraft providing at least 10 percent of the passenger service on such route.
 
 (4) Qualification for the tender of mail under this subsection shall not be counted toward the minimum qualifications necessary to be tendered nonpriority bypass mail on any other route.
 
@@ -350,7 +350,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 (j)(1) Except as provided by paragraph (3), there shall be equitable tender of 10 percent of the nonpriority bypass mail to all carriers on each city pair route in the State of Alaska meeting the requirements of subsection (g)(1) that do not otherwise qualify for tender under subsection (h) or (i).
 
-(2) If no carrier qualifies under this subsection with respect to a city pair route, the 10 percent of nonpriority bypass mail allocated under paragraph (1) shall be divided evenly between the pools described under subsections (h) and (i) to be equitably tendered among qualified carriers under such subsections, such that—
+(2) If no carrier qualifies under this subsection with respect to a city pair route, the 10 percent of nonpriority bypass mail allocated under paragraph (1) shall be divided evenly between the pools described under subsections (h) and (i) tobe equitably tendered among qualified carriers under such subsections, such that—
 
 &emsp;(A) the amount of nonpriority bypass mail available for tender among qualified carriers under subsection (h) shall be 75 percent; and
 
@@ -358,7 +358,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 (3)(A) Except as provided by subparagraph (B), the percentage rate under paragraph (1) shall be 0 percent beginning 3 years and 3 months after the date of enactment of the Rural Service Improvement Act of 2002.
 
-(B) The percentage rate under paragraph (1) shall remain 10 percent for equitable tender for 6 years and 3 months after the date of enactment of the Rural Service Improvement Act of 2002 for a nonpriority bypass mail carrier onroutes served exclusively by bush carriers in the State of Alaska originating from the main hub of the carrier designated under subparagraph (C), if the carrier seeking the tender of such mail—
+(B) The percentage rate under paragraph (1) shall remain 10 percent for equitable tender for 6 years and 3 months after the date of enactment of the Rural Service Improvement Act of 2002 for a nonpriority bypass mail carrier on routes served exclusively by bush carriers in the State of Alaska originating from the main hub of the carrier designated under subparagraph (C), if the carrier seeking the tender of such mail—
 
 &emsp;(i) meets the requirements of subsection (g)(1);
 
@@ -564,7 +564,7 @@ Subsec. (g). Pub. L. 100–238, §137(2), added subsec. (g).
 
 Subsec. (b). Pub. L. 98–443, §9(g)(4)(A), (D), substituted "Secretary of Transportation" for "Civil Aeronautics Board" wherever appearing and "required between points in foreign air transportation" for "required between points".
 
-Subsec. (c). Pub. L. 98–443, §9(g)(4)(A), (E), substituted "Secretary of Transportation" for "Civil AeronauticsBoard" and "pairs of points in foreign air transportation is not adequate" for "pairs of points is not adequate".
+Subsec. (c). Pub. L. 98–443, §9(g)(4)(A), (E), substituted "Secretary of Transportation" for "Civil Aeronautics Board" and "pairs of points in foreign air transportation is not adequate" for "pairs of points is not adequate".
 
 Subsecs. (d) to (f). Pub. L. 98–443, §9(g)(4)(F), added subsecs. (d) to (f).
 
@@ -666,7 +666,7 @@ Pub. L. 107–206, title III, §3002(b), Aug. 2, 2002, 116 Stat. 910, provided t
 
 &emsp;&emsp;"(D) to encourage that intra-Alaska air carriers move toward safer, more secure, and more reliable air transportation under the Federal Aviation Administration's guidelines and in accordance with part 121 of title 14, Code of Federal Regulations, where such operations are supported by the needs of the community; and
 
-&emsp;&emsp;"(E) that Congress, pursuant to the authority granted under Article I, section 8 of the United States Constitution to establish Post Offices and post roads, make changes to ensure that the Intra-Alaska Bypass Mail system continues to be used tosupport substantial passenger and nonmail freight service and to reduce costs for the Postal Service."
+&emsp;&emsp;"(E) that Congress, pursuant to the authority granted under Article I, section 8 of the United States Constitution to establish Post Offices and post roads, make changes to ensure that the Intra-Alaska Bypass Mail system continues to be used to support substantial passenger and nonmail freight service and to reduce costs for the Postal Service."
 
 #### Actions of Air Carriers To Qualify as Bush Passengers or Nonmail Freight Carriers
 

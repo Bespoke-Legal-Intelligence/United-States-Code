@@ -20,7 +20,7 @@ In General.—If the national instant criminal background check system establish
 
 (b)
 
-Requirements for Report.—A report is made in accordance with this subsection if the report is made under subsection (a) within 24 hours after the NICS denies a firearm transfer in accordance with section 922(t) of title 18, United States Code, except that the making of the report may be delayed for so long as is necessaryto avoid compromising an ongoing investigation.
+Requirements for Report.—A report is made in accordance with this subsection if the report is made under subsection (a) within 24 hours after the NICS denies a firearm transfer in accordance with section 922(t) of title 18, United States Code, except that the making of the report may be delayed for so long as is necessary to avoid compromising an ongoing investigation.
 
 (c)
 

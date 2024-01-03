@@ -22,7 +22,7 @@ In general.—In making a determination whether a particular product or service 
 
 &emsp;(2)
 
-Memorandum.—Within 30 days after a contract award, the contracting officer shall, consistent with the policies and regulations of the Department, submit a written memorandum summarizing the determination referred to in paragraph (1), including a detailed justification for such determination.
+Memorandum.—Within 30 days after a contract award, the contracting officer shall, consistent with the policies and regulations of the Department, submit a written memorandum summarizing the determination referred to in paragraph (1), including a detailed justification why the product or service was determined to be commercial or noncommercial. Upon the request of the contractor or subcontractor offering the product or service for which such determination is summarized in such memorandum, the contracting officer shall provide to such contractor or subcontractor a copy of such memorandum.
 
 (c)
 
@@ -42,17 +42,19 @@ Limitation.—(A) Except as provided under subparagraph (B), funds appropriated 
 
 &emsp;&emsp;(ii) a written determination by the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 that it is no longer appropriate to acquire the product or service using such procedures.
 
-(Added Pub. L. 114–92, div. A, title VIII, §851(a)(1), Nov. 25, 2015, 129 Stat. 916, §2380; amended Pub. L. 114–328, div. A, title VIII, §873, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–91, div. A, title VIII, §848, Dec. 12, 2017, 131 Stat. 1487; Pub. L. 115–232, div. A, title VIII, §836(d)(5), (8)(E), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered §3456 and amended Pub. L. 116–283, div. A, title VIII, §816, title XVIII, §§1821(a)(2), (b)(5), 1831(j)(5), Jan. 1, 2021, 134 Stat. 3750, 4195, 4217; Pub. L. 117–81, div. A, title XVII, §1701(b)(9), (10)(I)(ii), Dec. 27, 2021, 135 Stat. 2133, 2134.)
+(Added Pub. L. 114–92, div. A, title VIII, §851(a)(1), Nov. 25, 2015, 129 Stat. 916, §2380; amended Pub. L. 114–328, div. A, title VIII, §873, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–91, div. A, title VIII, §848, Dec. 12, 2017, 131 Stat. 1487; Pub. L. 115–232, div. A, title VIII, §836(d)(5), (8)(E), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered §3456 and amended Pub. L. 116–283, div. A, title VIII, §816, title XVIII, §§1821(a)(2), (b)(5), 1831(j)(5), Jan. 1, 2021, 134 Stat. 3750, 4195, 4217; Pub. L. 117–81, div. A, title XVII, §1701(b)(9), (10)(I)(ii), Dec. 27, 2021, 135 Stat. 2133, 2134; Pub. L. 118–31, div. A, title VIII, §801, Dec. 22, 2023, 137 Stat. 312.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
+<b>2023</b>—Subsec. (b)(2). Pub. L. 118–31 substituted "why the product or service was determined to be commercial or noncommercial" for "for such determination" and inserted at end "Upon the request of the contractor or subcontractor offering the product or service for which such determination is summarized in such memorandum, the contracting officer shall provide to such contractor or subcontractor a copy of such memorandum."
+
 <b>2021</b>—Pub. L. 116–283, §1821(a)(2), renumbered section 2380 of this title as this section.
 
 Subsec. (b). Pub. L. 116–283, §816(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (b)(2)(B)(i). Pub. L. 116–283, §1831(j)(5), which directed amendment of subsec. (b)(2)(B)(i) of section 2380 of this title (now subsec. (c)(2)(B)(i) of this section) by substituting "section 3703(d)(2)" for "section 2306a(b)(4)(B)", was repealed by Pub. L. 117–81, §1701(b)(10)(I)(ii). Identical amendment was made to subsec. (c)(2)(B)(i) of this section by Pub. L. 116–283, §1821(b)(5), see below.
+Subsec. (b)(2)(B)(i). Pub. L. 116–283, §1831(j)(5), which directed amendment of subsec. (b)(2)(B)(i) of section 2380 of this title (now subsec. (c)(2)(B)(i) of this section) by substituting "section 3703(d)(2)" for "section2306a(b)(4)(B)", was repealed by Pub. L. 117–81, §1701(b)(10)(I)(ii). Identical amendment was made to subsec. (c)(2)(B)(i) of this section by Pub. L. 116–283, §1821(b)(5), see below.
 
 Subsec. (c). Pub. L. 116–283, §816(1), redesignated subsec. (b) as (c).
 

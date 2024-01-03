@@ -16,7 +16,7 @@
 
 #### (b) Use of existing committees
 
-The Secretary shall continue to use the scientific program advisory committees chartered under chapter 10 of title 5 by the Office of Science to oversee research and development programs under that Office.
+The Secretary shall continue to use the scientific program advisory committees chartered under chapter 10 of title 5 by the Office ofScience to oversee research and development programs under that Office.
 
 #### (c) Membership
 

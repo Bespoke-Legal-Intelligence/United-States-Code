@@ -44,7 +44,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "requirements document" means a document produced in the requirements process that is provided for an acquisition program to guide the subsequent development, production, and testing of the program and that—
 
-&emsp;&emsp;(A) justifies the need for a materiel approach, or an approach that is a combination of materiel and non-materiel, to satisfy one or more specific capability gaps;
+&emsp;&emsp;(A) justifies the need for a materiel approach, or an approach that is a combinationof materiel and non-materiel, to satisfy one or more specific capability gaps;
 
 &emsp;&emsp;(B) details the information necessary to develop an increment of militarily useful, logistically supportable, and technically mature capability, including key performance parameters; or
 

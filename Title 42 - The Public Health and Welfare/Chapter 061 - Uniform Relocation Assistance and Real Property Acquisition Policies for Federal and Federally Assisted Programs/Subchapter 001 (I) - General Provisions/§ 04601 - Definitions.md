@@ -18,7 +18,7 @@ As used in this chapter—
 
 &emsp;&emsp;(I) as a direct result of a written notice of intent to acquire or the acquisition of such real property in whole or in part for a program or project undertaken by a Federal agency or with Federal financial assistance; or
 
-&emsp;&emsp;(II) on which such person is a residential tenant or conducts a small business, a farmoperation, or a business defined in paragraph (7)(D), as a direct result of rehabilitation, demolition, or such other displacing activity as the lead agency may prescribe, under a program or project undertaken by a Federal agency or with Federal financial assistance in any case in which the head of the displacing agency determines that such displacement is permanent; and
+&emsp;&emsp;(II) on which such person is a residential tenant or conducts a small business, a farm operation, or a business defined in paragraph (7)(D), as a direct result of rehabilitation, demolition, or such other displacing activity as the lead agency may prescribe, under a program or project undertaken by a Federal agency or with Federal financial assistance in any case in which the head of the displacing agency determines that such displacement is permanent; and
 
 &emsp;(ii) solely for the purposes of sections 4622(a) and (b) and 4625 of this title, any person who moves from real property, or moves his personal property from real property—
 

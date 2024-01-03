@@ -70,5 +70,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note undersection 5334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 

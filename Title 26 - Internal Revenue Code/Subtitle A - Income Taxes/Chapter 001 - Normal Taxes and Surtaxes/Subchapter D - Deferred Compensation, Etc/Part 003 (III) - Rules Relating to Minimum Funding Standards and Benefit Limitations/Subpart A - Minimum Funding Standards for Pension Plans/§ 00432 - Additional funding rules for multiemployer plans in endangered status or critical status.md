@@ -130,7 +130,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A) that a multiemployer plan is or will be in endangered or critical status for a plan year or in which a plan sponsor elects to be in critical status for a plan year under paragraph (4), the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the endangered or critical status to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary of Labor. In any case in which a plan sponsor elects to be in critical status for a plan year under paragraph (4), the plan sponsor shall notify the Secretary of such election not later than 30 days after the date of such certification or such othertime as the Secretary may prescribe by regulations or other guidance.
+&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A) that a multiemployer plan is or will be in endangered or critical status for a plan year or in which a plan sponsor elects to be in critical status for a plan year under paragraph (4), the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the endangered or critical status to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary of Labor. In any case in which a plan sponsor elects to be in critical status for a plan year under paragraph (4), the plan sponsor shall notify the Secretary of such election not later than 30 days after the date of such certification or such other time as the Secretary may prescribe by regulations or other guidance.
 
 #### (ii) Plans in critical status
 
@@ -188,7 +188,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) shall provide to the bargaining parties 1 or more schedules showing revised benefit structures, revised contribution structures, or both, which, if adopted, may reasonably be expected to enable the multiemployer plan to meet the applicable benchmarks in accordance with the funding improvement plan, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) one proposal for reductions in the amount of future benefit accruals necessary to achieve the applicable benchmarks, assuming no amendments increasing contributions under the plan (other than amendments increasing contributions necessary to achieve the applicable benchmarks after amendmentshave reduced future benefit accruals to the maximum extent permitted by law), and
+&emsp;&emsp;&emsp;&emsp;(I) one proposal for reductions in the amount of future benefit accruals necessary to achieve the applicable benchmarks, assuming no amendments increasing contributions under the plan (other than amendments increasing contributions necessary to achieve the applicable benchmarks after amendments have reduced future benefit accruals to the maximum extent permitted by law), and
 
 &emsp;&emsp;&emsp;&emsp;(II) one proposal for increases in contributions under the plan necessary to achieve the applicable benchmarks, assuming no amendments reducing future benefit accruals under the plan, and
 
@@ -258,7 +258,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If the funded percentage of a plan in seriously endangered status was more than 70percent as of the beginning of the initial determination year—
+&emsp;&emsp;If the funded percentage of a plan in seriously endangered status was more than 70 percent as of the beginning of the initial determination year—
 
 &emsp;&emsp;&emsp;(i) paragraphs (3)(B) and (4)(B) shall apply only if the plan's actuary certifies, within 30 days after the certification under subsection (b)(3)(A) for the initial determination year, that, based on the terms of the plan and the collective bargaining agreements in effect at the time of such certification, the plan is not projected to meet the requirements of paragraph (3)(A) (without regard to paragraphs (3)(B) and (4)(B)), and
 
@@ -290,7 +290,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) a collective bargaining agreement providing for contributions under a multiemployer plan that was in effect at the time the plan entered endangered status expires, and
 
-&emsp;&emsp;&emsp;(ii) after receiving one or more schedules from the plan sponsor under paragraph (1)(B), the bargaining parties with respect to such agreement fail to adopt a contribution schedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor,
+&emsp;&emsp;&emsp;(ii) after receiving one or more schedules from the plan sponsor under paragraph\(1)(B), the bargaining parties with respect to such agreement fail to adopt a contribution schedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor,
 
 > &emsp;&emsp;the plan sponsor shall implement the schedule described in paragraph (1)(B)(i)(I) beginning on the date specified in subparagraph (C).
 
@@ -322,7 +322,7 @@ For purposes of this section—
 
 #### (B) Special rules for benefit increases
 
-&emsp;&emsp;A plan may not be amended after the date of the adoption of a funding improvement plan under subsection (c) so as to increase benefits, including future benefit accruals, unless the plan actuary certifies that such increase is paid for out of additional contributions not contemplated by the funding improvement plan, and, after taking into account the benefit increase, the multiemployer plan still is reasonably expected tomeet the applicable benchmark on the schedule contemplated in the funding improvement plan.
+&emsp;&emsp;A plan may not be amended after the date of the adoption of a funding improvement plan under subsection (c) so as to increase benefits, including future benefit accruals, unless the plan actuary certifies that such increase is paid for out of additional contributions not contemplated by the funding improvement plan, and, after taking into account the benefit increase, the multiemployer plan still is reasonably expected to meet the applicable benchmark on the schedule contemplated in the funding improvement plan.
 
 #### (2) Special rules for plan adoption period
 
@@ -352,7 +352,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) may, if the plan sponsor deems appropriate, prepare and provide the bargaining parties with additional information relating to contribution rates or benefit reductions, alternative schedules, or other information relevant to emerging from critical status in accordance with the rehabilitation plan.
 
-> &emsp;The schedule or schedules described in subparagraph (B)(i) shall reflect reductions in future benefit accruals and adjustable benefits, and increases in contributions, that the plan sponsor determines are reasonably necessary to emerge from critical status. One schedule shall be designated as the default schedule and such schedule shall assume that there are no increases in contributions under the plan other than the increases necessary to emerge from critical status after future benefit accruals and other benefits (other than benefits the reduction or elimination of which are not permitted under section 411(d)(6)) have been reduced to the maximum extent permitted by law.
+> &emsp;The schedule or schedules described in subparagraph (B)(i) shall reflect reductions in future benefit accruals and adjustable benefits, and increases in contributions, that the plan sponsor determines are reasonably necessary to emerge from critical status. One schedule shall be designated as the default schedule and such schedule shall assume that there are no increases in contributions under the plan other than the increases necessary to emergefrom critical status after future benefit accruals and other benefits (other than benefits the reduction or elimination of which are not permitted under section 411(d)(6)) have been reduced to the maximum extent permitted by law.
 
 #### (2) Exception for years after process begins
 
@@ -548,7 +548,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;Any notice under clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall be provided in a form and manner prescribed in regulations of the Secretary, in consultation with the Secretary of Labor,
+&emsp;&emsp;&emsp;&emsp;(I) shall be provided in a form and manner prescribed in regulations of theSecretary, in consultation with the Secretary of Labor,
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be written in a manner so as to be understood by the average plan participant, and
 
@@ -684,7 +684,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The plan sponsor may, in its sole discretion, provide benefit improvements while any suspension of benefits under the plan remains in effect, except that the plan sponsor may not increase the liabilities of the plan by reason of any benefit improvement for any participant or beneficiary not in pay status by the first day of the plan year for which the benefit improvement takes effect, unless—
+&emsp;&emsp;&emsp;The plan sponsor may, in its sole discretion, provide benefit improvements while any suspension of benefits under the plan remains in effect, except that the plan sponsor may not increase the liabilities ofthe plan by reason of any benefit improvement for any participant or beneficiary not in pay status by the first day of the plan year for which the benefit improvement takes effect, unless—
 
 &emsp;&emsp;&emsp;&emsp;(I) such action is accompanied by equitable benefit improvements in accordance with clause (ii) for all participants and beneficiaries whose benefit commencement dates were before the first day of the plan year for which the benefit improvement for such participant or beneficiary not in pay status took effect; and
 
@@ -796,7 +796,7 @@ For purposes of this section—
 
 #### (ii) Administration of vote
 
-&emsp;&emsp;&emsp;Not later than 30 days after approval of the suspension by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, under subparagraph (G), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall administer a vote of participants and beneficiaries of the plan. Except as provided in clause (v), the suspension shall go into effect following the vote unless a majority of all participants and beneficiaries of the plan vote to reject the suspension. The plan sponsor may submit a new suspension application to the Secretary of the Treasury for approval in any case in which a suspension is prohibited from taking effect pursuant to a vote under this subparagraph.
+&emsp;&emsp;&emsp;Not later than 30 days after approval of the suspension by the Secretary of theTreasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, under subparagraph (G), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall administer a vote of participants and beneficiaries of the plan. Except as provided in clause (v), the suspension shall go into effect following the vote unless a majority of all participants and beneficiaries of the plan vote to reject the suspension. The plan sponsor may submit a new suspension application to the Secretary of the Treasury for approval in any case in which a suspension is prohibited from taking effect pursuant to a vote under this subparagraph.
 
 #### (iii) Ballots
 
@@ -822,7 +822,7 @@ For purposes of this section—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Not later than 14 days after a vote under this subparagraph rejecting a suspension, the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall determine whether the plan is a systemically important plan. If the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary ofLabor, determines that the plan is a systemically important plan, not later than the end of the 90-day period beginning on the date the results of the vote are certified, the Secretary of the Treasury shall, notwithstanding such adverse vote—
+&emsp;&emsp;&emsp;&emsp;Not later than 14 days after a vote under this subparagraph rejecting a suspension, the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall determine whether the plan is a systemically important plan. If the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, determines that the plan is a systemically important plan, not later than the end of the 90-day period beginning on the date the results of the vote are certified, the Secretary of the Treasury shall, notwithstanding such adverse vote—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) permit the implementation of the suspension proposed by the plan sponsor; or
 
@@ -844,7 +844,7 @@ For purposes of this section—
 
 #### (vi) Final authorization to suspend
 
-&emsp;&emsp;&emsp;In any case in which a suspension goes into effect following a vote pursuant to clause (ii) (or following a determination under clause (v) that the plan is a systemically important plan), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall issue a final authorization to suspend with respect to the suspension not later than 7 days after such vote (or, in the case of a suspension that goes into effect under clause (v), at a time sufficient to allow the implementation of the suspension prior to the end of the 90-day period described in clause (v)(I)).
+&emsp;&emsp;&emsp;In any case in which a suspension goes into effect following a vote pursuant to clause (ii) (or following a determination under clause (v) that the plan is a systemically important plan), the Secretary of the Treasury, in consultation with thePension Benefit Guaranty Corporation and the Secretary of Labor, shall issue a final authorization to suspend with respect to the suspension not later than 7 days after such vote (or, in the case of a suspension that goes into effect under clause (v), at a time sufficient to allow the implementation of the suspension prior to the end of the 90-day period described in clause (v)(I)).
 
 #### (I) Judicial review
 
@@ -1088,7 +1088,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) as a lump sum within 3 months of such effective date; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in equal monthly installments over a period of 5 years, commencing within 3months of such effective date, with no adjustment for interest.
+&emsp;&emsp;&emsp;&emsp;(II) in equal monthly installments over a period of 5 years, commencing within 3 months of such effective date, with no adjustment for interest.
 
 #### (B) Restrictions on the use of special financial assistance
 
@@ -1154,7 +1154,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) In the case of any plan which proposes in its application to change the assumptions used, as provided in paragraph (1)(C)(iii), such corporation shall consult with the Secretary regarding such proposed change in assumptions.
 
-&emsp;&emsp;(C) If such corporation specifies in regulations or guidance that temporary priorityconsideration is available for plans which are insolvent within the meaning of section 418E or likely to become so insolvent or for plans which have suspended benefits under subsection (e)(9), or that availability is otherwise based on the funded status of the plan under this section, as permitted by section 4262(d) of such Act, such corporation shall consult with the Secretary regarding any granting of priority consideration to such plans.
+&emsp;&emsp;(C) If such corporation specifies in regulations or guidance that temporary priority consideration is available for plans which are insolvent within the meaning of section 418E or likely to become so insolvent or for plans which have suspended benefits under subsection (e)(9), or that availability is otherwise based on the funded status of the plan under this section, as permitted by section 4262(d) of such Act, such corporation shall consult with the Secretary regarding any granting of priority consideration to such plans.
 
 (Added Pub. L. 109–280, title II, §212(a), Aug. 17, 2006, 120 Stat. 899; amended Pub. L. 110–458, title I, §102(b)(2)(A)–(G), Dec. 23, 2008, 122 Stat. 5101, 5102; Pub. L. 113–235, div. O, title I, §§102(b), 103(b), 104(b), 105(b), 106(b), 107(b), 109(b), title II, §201(b)(1)–(6), Dec. 16, 2014, 128 Stat. 2776, 2778, 2780–2782, 2784, 2790, 2810–2822; Pub. L. 115–141, div. U, title IV, §401(a)(102)–(107), Mar. 23, 2018, 132 Stat. 1189; Pub. L. 117–2, title IX, §9704(d), Mar. 11, 2021, 135 Stat. 195.)
 
@@ -1320,7 +1320,7 @@ Pub. L. 113–235, div. O, title I, §106(c), Dec. 16, 2014, 128 Stat. 2783, pro
 
 Pub. L. 113–235, div. O, title I, §107(c), Dec. 16, 2014, 128 Stat. 2786, provided that: "The amendments made by this section \[amending this section and section 1085 of Title 29, Labor\] shall apply with respect to plan years beginning after December 31, 2014."
 
-Pub. L. 113–235, div. O, title I, §109(c), Dec. 16, 2014, 128 Stat. 2792, provided that: "The amendments made by this section \[amending this section and section 1085 of Title 29, Labor\] shall apply to benefit reductions andincreases in the contribution rate or other required contribution increases that go into effect during plan years beginning after December 31, 2014 and to surcharges the obligation for which accrue on or after December 31, 2014."
+Pub. L. 113–235, div. O, title I, §109(c), Dec. 16, 2014, 128 Stat. 2792, provided that: "The amendments made by this section \[amending this section and section 1085 of Title 29, Labor\] shall apply to benefit reductions and increases in the contribution rate or other required contribution increases that go into effect during plan years beginning after December 31, 2014 and to surcharges the obligation for which accrue on or after December 31, 2014."
 
 Pub. L. 113–235, div. O, title II, §201(c), Dec. 16, 2014, 128 Stat. 2822, provided that: "The amendments made by this section \[amending this section and sections 1021, 1085, 1303 and 1399 of Title 29, Labor\] shall take effect on the date of the enactment of this Act \[Dec. 16, 2014\]."
 
@@ -1414,7 +1414,7 @@ Effective Date.—This section shall apply to plan years beginning after Decembe
 
 #### Guidance
 
-Pub. L. 113–235, div. O, title II, §201(b)(7), Dec. 16, 2014, 128 Stat. 2822, provided that: "Not later than 180 daysafter the date of the enactment of this Act \[Dec. 16, 2014\], the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall publish appropriate guidance to implement section 432(e)(9) of the Internal Revenue Code of 1986."
+Pub. L. 113–235, div. O, title II, §201(b)(7), Dec. 16, 2014, 128 Stat. 2822, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 16, 2014\], the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall publish appropriate guidance to implement section 432(e)(9) of the Internal Revenue Code of 1986."
 
 #### Temporary Delay of Designation of Multiemployer Plans as in Endangered or Critical Status
 

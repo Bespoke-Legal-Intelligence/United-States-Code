@@ -30,7 +30,7 @@ Section 4(a)(2) of the Department of State Special Agents Retirement Act of 1998
 
 #### Amendments
 
-<b>2022</b>—Subsec. (a)(2)(B). Pub. L. 117–225, which directed amendment of title VIII of the Foreign Service Act of1980 by inserting "(1)" after "or 8412(d)" in subsec. (a)(2)(B) of this section, was executed as if the amendment had been directed to chapter 8 of title I of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
+<b>2022</b>—Subsec. (a)(2)(B). Pub. L. 117–225, which directed amendment of title VIII of the Foreign Service Act of 1980 by inserting "(1)" after "or 8412(d)" in subsec. (a)(2)(B) of this section, was executed as if the amendment had been directed to chapter 8 of title I of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
 <b>1998</b>—Subsec. (a)(2). Pub. L. 105–382 amended first sentence generally. Prior to amendment, first sentence read as follows: "Notwithstanding paragraph (1), a Foreign Service criminal investigator/inspector of the Office of Inspector General of the Agency for International Development who would have been eligible for retirement pursuant to either section 8336(c) or 8412(d) of title 5, as applicable, had the employee remained in civil service, shall be separated from the Service on the last day of the month in which that Foreign Service criminal investigator/inspector attains 57 years of age or completes 20 years of service if then over that age."
 

@@ -2,13 +2,13 @@
 
 (a)
 
-Programs Authorized.—Each Secretary of a military department may carry out programs under which members of the regular components and members on Active Guard and Reserve duty of the armed forces under the jurisdiction of such Secretary may be inactivated from active service in order to meet personal or professional needs and returned to active service at the endof such period of inactivation from active service.
+Programs Authorized.—Each Secretary of a military department may carry out programs under which members of the regular components or of the Space Force and members on Active Guard and Reserve duty of the armed forces under the jurisdiction of such Secretary may be inactivated from active service in order to meet personal or professional needs and returned to active service at the end of such period of inactivation from active service.
 
 (b)
 
 Period of Inactivation From Active Service; Effect of Inactivation.—(1) The period of inactivation from active service under a program under this section of a member participating in the program shall be such period as the Secretary of the military department concerned shall specify in the agreement of the member under subsection (c), except that such period may not exceed three years.
 
-(2) Any service by a Reserve officer while participating in a program under this section shall be excluded from computation of the total years of service of that officer pursuant to section 14706(a) of this title.
+(2) Any service by a Reserve officer, or a Space Force officer in a space force active status not on active duty under section 20105(b) of this title, while participating in a program under this section shall be excluded from computation of the total years of service of that officer pursuant to section 14706(a) of this title.
 
 (3) Any period of participation of a member in a program under this section shall not count toward—
 
@@ -20,7 +20,7 @@ Period of Inactivation From Active Service; Effect of Inactivation.—(1) The pe
 
 Agreement.—Each member of the armed forces who participates in a program under this section shall enter into a written agreement with the Secretary of the military department concerned under which agreement that member shall agree as follows:
 
-&emsp;(1) To accept an appointment or enlist, as applicable, and serve in the Ready Reserve of an armed force during the period of the inactivation of the member from active service under the program.
+&emsp;(1) To accept an appointment or enlist, as applicable, and serve in the Ready Reserve of an armed force during the period of the inactivation of the member from active service under the program or, in the case of a member of the Space Force on sustained duty, to accept release from sustained duty orders and to serve in a space force active status.
 
 &emsp;(2) To undergo during the period of the inactivation of the member from active service under the program such inactive service training as the Secretary concerned shall require in order to ensure that the member retains proficiency, at a level determined by the Secretary concerned to be sufficient, in the military skills, professional qualifications, and physical readiness of the member during the inactivation of the member from active service.
 
@@ -58,7 +58,7 @@ Pay and Allowances.—(1) During each month of participation in a program under 
 
 (C) A member who is ineligible for payment of a special or incentive pay or bonus otherwise covered by this paragraph by reason of subparagraph (B)(i)(II) shall be subject to the requirements for repayment of such pay or bonus in accordance with the terms of the applicable agreement of the member under chapter 5 of title 37.
 
-(D) Any service required of a member under an agreement covered by this paragraph after themember returns to active service as described in subparagraph (A) shall be in addition to any service required of the member under an agreement under subsection (c).
+(D) Any service required of a member under an agreement covered by this paragraph after the member returns to active service as described insubparagraph (A) shall be in addition to any service required of the member under an agreement under subsection (c).
 
 (4)(A) Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 452 of title 37 for—
 
@@ -72,7 +72,7 @@ Pay and Allowances.—(1) During each month of participation in a program under 
 
 (g)
 
-Promotion.—(1)(A) An officer participating in a program under this section shall not, while participating in the program, be eligible for consideration for promotion under chapter 36 or 1405 of this title.
+Promotion.—(1)(A) An officer participating in a program under this section shall not, while participating in the program, be eligible for consideration for promotion under chapter 36, 1405, or 2005 of this title.
 
 (B) Upon the return of an officer to active service after completion by the officer of participation in a program—
 
@@ -100,11 +100,19 @@ Continued Entitlements.—A member participating in a program under this section
 
 &emsp;(5) the eligibility of the member for general benefits as provided in part II of title 38.
 
-(Added Pub. L. 115–232, div. A, title V, §551(a), Aug. 13, 2018, 132 Stat. 1766; amended Pub. L. 116–92, div. A, title VI, §602, Dec. 20, 2019, 133 Stat. 1423; Pub. L. 116–283, div. A, title IX, §924(b)(18), Jan. 1, 2021, 134 Stat. 3823; Pub. L. 117–81, div. A, title V, §521, Dec. 27, 2021, 135 Stat. 1686; Pub. L. 117–263, div. A, title VI, §626(c)(1), Dec. 23, 2022, 136 Stat. 2628.)
+(Added Pub. L. 115–232, div. A, title V, §551(a), Aug. 13, 2018, 132 Stat. 1766; amended Pub. L. 116–92, div. A, title VI, §602, Dec. 20, 2019, 133 Stat. 1423; Pub. L. 116–283, div. A, title IX, §924(b)(18), Jan. 1, 2021, 134 Stat. 3823; Pub. L. 117–81, div. A, title V, §521, Dec. 27, 2021, 135 Stat. 1686; Pub. L. 117–263, div. A, title VI, §626(c)(1), Dec. 23, 2022, 136 Stat. 2628; Pub. L. 118–31, div. A, title XVII, §1722(d)(3), Dec. 22, 2023, 137 Stat. 670.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a). Pub. L. 118–31, §1722(d)(3)(A), inserted "or of the Space Force" after "regular components".
+
+Subsec. (b)(2). Pub. L. 118–31, §1722(d)(3)(B), which directed amendment of par. (2) by inserting ", or a Space Force officer in a space force active status not on active duty under section 20105(b) of this title," after "officer", was executed by making the insertion after "officer" the first place appearing, to reflect the probable intent of Congress.
+
+Subsec. (c)(1). Pub. L. 118–31, §1722(d)(3)(C), inserted before period at end "or, in the case of a member of the Space Force on sustained duty, to accept release from sustained duty orders and to serve in a space force active status".
+
+Subsec. (g)(1)(A). Pub. L. 118–31, §1722(d)(3)(D), substituted "chapter 36, 1405, or 2005" for "chapter 36 or 1405".
 
 <b>2022</b>—Subsec. (f)(4)(A). Pub. L. 117–263, §626(c)(1)(A), substituted "section 452" for "section 474".
 

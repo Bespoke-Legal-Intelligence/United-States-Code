@@ -30,7 +30,7 @@ The obligation of any recipient to reimburse any entity for any or all scholarsh
 
 #### (h) Private sector participation
 
-To the maximum extent practicable, each participating State shall enlist the assistance of the private sector to enable the State to meetthe non-Federal share of payments under this section. Wherever appropriate, each participating State shall encourage the private sector to offer internships or other opportunities consistent with the purposes of this section to students receiving scholarships under this section.
+To the maximum extent practicable, each participating State shall enlist the assistance of the private sector to enable the State to meet the non-Federal share of payments under this section. Wherever appropriate, each participating State shall encourage the private sector to offer internships or other opportunities consistent with the purposes of this section to students receiving scholarships under this section.
 
 #### (i) Funding
 
@@ -42,7 +42,7 @@ Prohibitions on the use of foreign assistance funds for assistance for Poland an
 
 #### (k) "State" defined
 
-As used in this section, the term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
+As used in this section, the term "State" means each of the several States, the District ofColumbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
 (Pub. L. 101–179, title IV, §402, Nov. 28, 1989, 103 Stat. 1315.)
 

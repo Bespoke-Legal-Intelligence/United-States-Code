@@ -8,7 +8,7 @@ Authority.—(1) Under regulations prescribed by the Secretary of Defense, the S
 
 &emsp;(B) the specific operational readiness skills of the members of the armed forces who participate in the activities.
 
-(2) Humanitarian demining assistance and stockpiled conventional munitions assistanceunder this section shall complement, and may not duplicate, any other form of social or economic assistance which may be provided to the country concerned by any other department or agency of the United States.
+(2) Humanitarian demining assistance and stockpiled conventional munitions assistance under this section shall complement, and may not duplicate, any other form of social or economic assistance which may be provided to thecountry concerned by any other department or agency of the United States.
 
 (3) The Secretary of Defense shall ensure that no member of the armed forces, while providing humanitarian demining assistance under this section—
 

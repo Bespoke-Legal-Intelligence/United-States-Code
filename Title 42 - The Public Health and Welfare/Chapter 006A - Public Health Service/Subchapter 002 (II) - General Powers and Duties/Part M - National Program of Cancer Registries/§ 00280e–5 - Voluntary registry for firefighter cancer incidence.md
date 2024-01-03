@@ -56,7 +56,7 @@ The Firefighter Registry may be used for the following purposes:
 
 &emsp;&emsp;(A) Increasing awareness of the Firefighter Registry and encouraging participation among volunteer, paid-on-call, and career firefighters.
 
-&emsp;&emsp;(B) Consideration of unique data collection needs that may arise to generate a statistically reliable representation of minority,female, and volunteer firefighters, including methods, as needed, to encourage participation from such populations.
+&emsp;&emsp;(B) Consideration of unique data collection needs that may arise to generate a statistically reliable representation of minority, female, and volunteer firefighters, including methods, as needed, to encourage participation from such populations.
 
 &emsp;&emsp;(C) Information on how the Secretary will store data described in subsection (c)(1) and provide electronic access to relevant health information described in subsection (c)(2).
 

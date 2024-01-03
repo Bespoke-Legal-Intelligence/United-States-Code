@@ -66,7 +66,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (7) Coordination with section 168(k)(5)
 
-&emsp;This section shall not apply to any amount allowed as a deduction by reason of section168(k)(5) (relating to special rules for certain plants bearing fruits and nuts).
+&emsp;This section shall not apply to any amount allowed as a deduction by reason of section 168(k)(5) (relating to special rules for certain plants bearing fruits and nuts).
 
 #### (d) Exception for farming businesses
 
@@ -244,7 +244,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (3) Interest relating to property used to produce property
 
-&emsp;This subsection shall apply to any interest on indebtedness allocable (as determinedunder paragraph (2)) to property used to produce property to which this subsection applies to the extent such interest is allocable (as so determined) to the produced property.
+&emsp;This subsection shall apply to any interest on indebtedness allocable (as determined under paragraph (2)) to property used to produce property to which this subsection applies to the extent such interest is allocable (as so determined) to the produced property.
 
 #### (4) Exemption for aging process of beer, wine, and distilled spirits
 
@@ -362,7 +362,7 @@ For purposes of this section—
 
 #### (3) Coordination with section 481
 
-&emsp;Any change in method of accounting made pursuant to this subsection shall be treated for purposes of section 481 as initiated by the taxpayer and made with the consent of the Secretary.
+&emsp;Any change in method of accounting made pursuant to this subsection shall be treatedfor purposes of section 481 as initiated by the taxpayer and made with the consent of the Secretary.
 
 #### (j) Regulations
 
@@ -434,7 +434,7 @@ Subsec. (d)(2)(B)(ii). Pub. L. 100–647, §1008(b)(3)(B), substituted "the plan
 
 Subsec. (d)(3)(A). Pub. L. 100–647, §6026(b)(2)(B), struck out "or animal" after "plant".
 
-Subsec. (d)(3)(B). Pub. L. 100–647, §6026(c), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: "No election may be made under this paragraph—
+Subsec. (d)(3)(B). Pub. L. 100–647, §6026(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "No election may be made under this paragraph—
 
 &emsp;"(i) by a corporation, partnership, or tax shelter, if such corporation, partnership, or tax shelter is required to use an accrual method of accounting under section 447 or 448(a)(3), or
 
@@ -450,7 +450,7 @@ Subsecs. (h), (i). Pub. L. 100–647, §6026(a), added subsec. (h) and redesigna
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. EE, title I, §106(a)(2), Dec. 27, 2020, 134 Stat. 3042, provided that: "The amendment made by this subsection \[amending this section\] shall apply to interest costs paid or accrued after December 31, 2020."
+Pub. L. 116–260, div. EE, title I, §106(a)(2), Dec. 27, 2020, 134 Stat. 3042, provided that: "The amendment made by this subsection \[amending this section\] shallapply to interest costs paid or accrued after December 31, 2020."
 
 #### Effective Date of 2019 Amendment
 
@@ -556,7 +556,7 @@ Transitional rule for capitalization of interest and taxes.—
 
 &emsp;"(A)
 
-Transition property exempted from interest capitalization.—Section 263A of the Internal Revenue Code of 1986 (as added by this section) and the amendment made by subsection (b)(1) \[repealing section 189 of this title\] shall not apply to interest costs which are allocable to any property—
+Transition property exempted from interest capitalization.—Section 263A of the InternalRevenue Code of 1986 (as added by this section) and the amendment made by subsection (b)(1) \[repealing section 189 of this title\] shall not apply to interest costs which are allocable to any property—
 
 &emsp;&emsp;"(i) to which the amendments made by section 201 \[amending sections 46, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] do not apply by reason of sections 204(a)(1)(D) and (E) and 204(a)(5)(A) \[set out as a note under section 168 of this title\], and
 

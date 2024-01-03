@@ -93,7 +93,7 @@ For purposes of this section—
 
 #### (3) Time by which regulations must be issued
 
-&emsp;Testing and calculation procedures applicable to a model year, and any amendment tosuch procedures (other than a technical or clerical amendment), shall be promulgated not less than 12 months before the model year to which such procedures apply.
+&emsp;Testing and calculation procedures applicable to a model year, and any amendment to such procedures (other than a technical or clerical amendment), shall be promulgated not less than 12 months before the model year to which such procedures apply.
 
 (Added Pub. L. 95–618, title II, §201(a), Nov. 9, 1978, 92 Stat. 3180; amended Pub. L. 99–514, title XVIII, §1812(e)(1)(B)(i), (ii), Oct. 22, 1986, 100 Stat. 2836; Pub. L. 101–508, title XI, §11216(a)–(d), Nov. 5, 1990, 104 Stat. 1388–437; Pub. L. 103–272, §5(g)(1), July 5, 1994, 108 Stat. 1374; Pub. L. 109–59, title XI, §11111(a), Aug. 10, 2005, 119 Stat. 1946.)
 
@@ -163,7 +163,7 @@ Pub. L. 99–514, title XVIII, §1812(e)(1)(B)(iii), Oct. 22, 1986, 100 Stat. 28
 
 #### Effective Date
 
-Pub. L. 95–618, title II, §201(g), Nov. 9, 1978, 92 Stat. 3184, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[enacting this section and amending sections 1016, 4217, 4221, 4222, 4293, and 6416 of this title\] shall apply with respect to 1980 and later model year automobiles (as defined in section 4064(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\])."
+Pub. L. 95–618, title II, §201(g), Nov. 9, 1978, 92 Stat. 3184, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "The amendments made by this section \[enacting this section and amending sections 1016, 4217, 4221, 4222, 4293, and 6416 of this title\] shall apply with respect to 1980 and later model year automobiles (as defined in section 4064(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\])."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

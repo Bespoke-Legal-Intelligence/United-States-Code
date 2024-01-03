@@ -4,7 +4,7 @@
 
 #### Codification
 
-Section, Pub. L. 103–434, title II, §202, Oct. 31, 1994, 108 Stat. 4533, which provided for restoration of Federal recognition of the tribe and of all rights and privileges of the tribe and its members, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 103–434, title II, §202, Oct. 31, 1994, 108 Stat. 4533, which provided for restoration of Federalrecognition of the tribe and of all rights and privileges of the tribe and its members, was omitted from the Code as being of special and not general application.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

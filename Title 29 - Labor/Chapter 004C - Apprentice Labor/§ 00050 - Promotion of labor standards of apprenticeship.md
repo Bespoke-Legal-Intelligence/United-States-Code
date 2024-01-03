@@ -26,7 +26,7 @@ Amendment by Pub. L. 93–198 effective July 1, 1974, see section 771(b) of Pub.
 
 #### Short Title of 2020 Amendment
 
-Pub. L. 116–134, §1, Mar. 26, 2020, 134 Stat. 276, provided that: "This Act \[enacting section 50c of this title\]may be cited as the 'Support for Veterans in Effective Apprenticeships Act of 2019'."
+Pub. L. 116–134, §1, Mar. 26, 2020, 134 Stat. 276, provided that: "This Act \[enacting section 50c of this title\] may be cited as the 'Support for Veterans in Effective Apprenticeships Act of 2019'."
 
 #### Short Title
 

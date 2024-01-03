@@ -44,7 +44,7 @@ Another prior section 1925 of act July 1, 1944, was classified to section 300y�
 
 #### Amendments
 
-<b>2022</b>—Subsec. (a)(1). Pub. L. 117–328, §1241(a)(5), substituted "alcohol or other substance use disorders" for "alcohol or drug abuse".
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–328 substituted "alcohol or other substance use disorders" for "alcohol or drug abuse".
 
 <b>2016</b>—Pub. L. 114–255, §8002(d)(1), substituted "persons in recovery from substance use disorders" for "recovering substance abusers" in section catchline.
 

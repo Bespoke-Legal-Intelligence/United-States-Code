@@ -4,7 +4,7 @@
 
 It is the sense of Congress that—
 
-&emsp;(1) Congress has recognized, including in division E of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81), that the Department is a crucial national security agency, whose employees, both Foreign Service and Civil Service, require thebest possible training and professional development at every stage of their careers to prepare them to promote and defend United States national interests and the health and safety of United States citizens abroad; and
+&emsp;(1) Congress has recognized, including in division E of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81), that the Department is a crucial national security agency, whose employees, both Foreign Service and Civil Service, require the best possible training and professional development at every stage of their careers to prepare them to promote and defend United States national interests and the health and safety of United States citizens abroad; and
 
 &emsp;(2) the new and evolving challenges of national security in the 21st century necessitate the expansion of standardized training and professional development opportunities linked to equal, accountable, and transparent promotion and leadership practices for Department and other national security agency personnel.
 
@@ -70,7 +70,7 @@ The Director General of the Foreign Service shall—
 
 #### (ii) Prior senior service at the Department
 
-&emsp;&emsp;&emsp;Not more than 6 members of the Board may be persons who previously served in the Senior Foreign Service or the Senior Executive Service at the Department.
+&emsp;&emsp;&emsp;Not more than 6 members of the Board may be persons who previously served inthe Senior Foreign Service or the Senior Executive Service at the Department.
 
 #### (4) Terms
 
@@ -240,7 +240,7 @@ The Director General of the Foreign Service shall—
 
 Division E of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (a)(1), is div. E of Pub. L. 117–81, Dec. 27, 2021, 135 Stat. 2341, which is known as the Department of State Authorization Act of 2021. For complete classification of div. E to the Code, see Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (e)(8), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (e)(8), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### Codification
 

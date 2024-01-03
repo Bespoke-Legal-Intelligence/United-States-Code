@@ -2,7 +2,7 @@
 
 (a)(1) If the President delegates to the Secretary of Defense the authority to carry out section 27(d) of the Arms Export Control Act (22 U.S.C. 2767(d)), relating to cooperative projects (as defined in such section), the Secretary may utilize his authority under this title in carrying out contracts or obligations incurred under such section.
 
-(2) Except as provided in subsection (c), chapter 137 <sup>1</sup> of this title shall apply to such contracts (referred to in paragraph (1)) entered into by the Secretary of Defense. Except to the extent waived under subsection (c) or some otherprovision of law, all other provisions of law relating to procurement, if otherwise applicable, shall apply to such contracts entered into by the Secretary of Defense.
+(2) Except as provided in subsection (c), chapter 137 <sup>1</sup> of this title shall apply to such contracts (referred to in paragraph (1)) entered into by the Secretary of Defense. Except to the extent waived under subsection (c) or some other provision of law, all other provisions of law relating to procurement, if otherwise applicable, shall apply to such contracts entered into by the Secretary of Defense.
 
 (b) When contracting or incurring obligations under section 27(d) of the Arms Export Control Act for cooperative projects, the Secretary of Defense may require subcontracts to be awarded to particular subcontractors in furtherance of the cooperative project.
 
@@ -44,7 +44,7 @@
 
 #### References in Text
 
-Chapter 137 of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+Chapter 137 of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of "chapter 137 legacy provisions", see section 3016 of this title.
 
 The Arms Export Control Act, referred to in subsec. (c)(1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 

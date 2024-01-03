@@ -230,7 +230,7 @@ Subsec. (a)(7). Pub. L. 99–514, §612(b)(4), struck out par. (7), dividends or
 
 Subsec. (d). Pub. L. 99–514, §1806(c)(1), redesignated subsec. (d), relating to treatment of property distributed in kind, as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e). Pub. L. 99–514, §1806(a), (c)(1), redesignated subsec. (d) relating to treatment of property distributed in kind as (e) and amended par. (3)(B) generally, substituting "shall apply to all distributions made by the estate or trust during a taxable year andshall be made on the return of such estate or trust for such taxable year" for "shall be made by the estate or trust on its return for the taxable year for which the distribution was made". Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 99–514, §1806(a), (c)(1), redesignated subsec. (d) relating to treatment of property distributed in kind as (e) and amended par. (3)(B) generally, substituting "shall apply to all distributions made by the estate or trust during a taxable year and shall be made on the return of such estate or trust for such taxable year" for "shall be made by the estate or trust on its return for the taxable year for which the distribution was made". Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 99–514, §1806(c)(2), redesignated subsec. (e) as (f).
 
@@ -304,7 +304,7 @@ Amendment by Pub. L. 103–66 applicable to stock issued after Aug. 10, 1993, se
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

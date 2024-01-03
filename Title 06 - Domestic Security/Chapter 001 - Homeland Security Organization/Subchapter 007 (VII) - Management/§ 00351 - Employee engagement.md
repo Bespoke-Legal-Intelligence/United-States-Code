@@ -26,7 +26,7 @@ The Secretary, acting through the Chief Human Capital Officer, shall—
 
 &emsp;&emsp;(B) monitor progress on implementation of such action plan; and
 
-&emsp;&emsp;(C) provide to the Chief Human Capital Officer and the steering committee quarterlyreports on actions planned and progress made under this paragraph.
+&emsp;&emsp;(C) provide to the Chief Human Capital Officer and the steering committee quarterly reports on actions planned and progress made under this paragraph.
 
 #### (c) Termination
 

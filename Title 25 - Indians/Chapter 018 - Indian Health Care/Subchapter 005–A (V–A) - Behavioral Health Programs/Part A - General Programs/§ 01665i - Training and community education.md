@@ -10,7 +10,7 @@ The Secretary, acting through the Service, shall provide instruction in the area
 
 #### (c) Training models
 
-In carrying out the education and training programs required by this section, the Secretary, in consultation with Indian tribes, tribalorganizations, Indian behavioral health experts, and Indian alcohol and substance abuse prevention experts, shall develop and provide community-based training models. Such models shall address—
+In carrying out the education and training programs required by this section, the Secretary, in consultation with Indian tribes, tribal organizations, Indian behavioral health experts, and Indian alcohol and substance abuse prevention experts, shall develop and provide community-based training models. Such models shall address—
 
 &emsp;(1) the elevated risk of alcohol abuse and other behavioral health problems faced by children of alcoholics;
 

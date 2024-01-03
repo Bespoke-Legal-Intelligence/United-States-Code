@@ -6,6 +6,8 @@
 
 Section, act June 4, 1956, ch. 355, title IV, 70 Stat. 240, which related to availability of funds for administrative expenses, was from the Department of Agriculture and Farm Credit Administration Appropriation Act, 1957, and was not repeated in subsequent appropriation acts.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Similar Provisions
 
 Similar provisions were contained in the following prior appropriation acts:

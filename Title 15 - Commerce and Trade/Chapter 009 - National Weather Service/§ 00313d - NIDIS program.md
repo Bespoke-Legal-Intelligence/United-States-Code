@@ -58,7 +58,7 @@ Not later than 1 year after January 7, 2019, the Under Secretary, acting through
 
 #### References in Text
 
-This section, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 109–430, Dec. 20, 2006, 120 Stat. 2918, which enacted this section and provisions set out as notes under this section and section 311 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 311 of this title and Tables.
+This section, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 109–430, Dec. 20, 2006, 120 Stat. 2918, which enacted this section and provisions set out as notes under this section and section311 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 311 of this title and Tables.
 
 #### Amendments
 

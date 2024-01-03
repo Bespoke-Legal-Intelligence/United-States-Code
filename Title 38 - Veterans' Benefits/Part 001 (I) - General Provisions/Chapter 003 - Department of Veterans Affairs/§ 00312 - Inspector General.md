@@ -52,9 +52,9 @@
 
 &emsp;(B) provide the witness an opportunity to attend and testify voluntarily.
 
-(5) Whenever requiring by subpoena under paragraph (1) the attendance and testimony of a witness, the Inspector General shall, to the greatest extent practicable, travel to residence of the witness, the principal place of business of the witness, or other similar location that is in proximity to the residence of the witness.
+(5) Whenever requiring by subpoena under paragraph (1) the attendance and testimony of a witness, the Inspector General shall, to the greatest extent practicable, travel to residence <sup>2</sup> of the witness, the principal place of business of the witness, or other similar location that is in proximity to the residence of the witness.
 
-(6) <sup>2</sup> (A) Along with each semiannual report submitted by the Inspector General pursuant to section 5(b) of the Inspector General Act of 1978 (5 U.S.C. App. 5(b)),<sup>1</sup> the Inspector General shall include a report on the exercise of the authority provided by paragraph (1).
+(6)(A) Along with each semiannual report submitted by the Inspector General pursuant to section 5(b) of the Inspector General Act of 1978 (5 U.S.C. App. 5(b)),<sup>1</sup> the Inspector General shall include a report on the exercise of the authority provided by paragraph (1).
 
 (B) Each report submitted under subparagraph (A) shall include, for the most recently completed six-month period, the following:
 
@@ -104,7 +104,7 @@ Subsec. (b)(3). Pub. L. 103–446, §1201(g)(1), struck out par. (3) which read 
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2022 Amendment
 
@@ -120,5 +120,5 @@ Semiannual report.—Paragraph (6) of subsection (d) of such section, as so adde
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See Effective Date of 2022 Amendment note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

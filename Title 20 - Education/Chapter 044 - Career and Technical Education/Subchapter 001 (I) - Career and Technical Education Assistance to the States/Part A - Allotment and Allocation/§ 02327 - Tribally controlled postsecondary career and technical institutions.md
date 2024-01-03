@@ -24,7 +24,7 @@ Amounts made available under this section shall be used for career and technical
 
 #### (3) Indirect costs
 
-&emsp;Notwithstanding any other provision of law or regulation, the Secretary shall not require the use of a restricted indirect cost rate for grants issued under this section.
+&emsp;Notwithstanding any other provision of law or regulation, the Secretary shall not requirethe use of a restricted indirect cost rate for grants issued under this section.
 
 #### (d) Applications
 
@@ -100,7 +100,7 @@ In this section:
 
 #### (iii) Summer term
 
-&emsp;&emsp;&emsp;Any credit earned in a class offered during a summer term shall be counted in the determination of the Indian student count for the succeeding fall term.
+&emsp;&emsp;&emsp;Any credit earned in a class offered during a summer term shall be counted in thedetermination of the Indian student count for the succeeding fall term.
 
 #### (iv) Students without secondary school degrees
 
@@ -152,7 +152,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 #### Prior Provisions
 
-A prior section 2327, Pub. L. 88–210, title I, §117, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3097;amended Pub. L. 106–554, §1(a)(1) \[title III, §310\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 107–20, title II, §2701(a), July 24, 2001, 115 Stat. 181, related to tribally controlled postsecondary vocational and technical institutions, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2327, Pub. L. 88–210, title I, §117, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3097; amended Pub. L. 106–554, §1(a)(1) \[title III, §310\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 107–20, title II, §2701(a), July 24, 2001, 115 Stat. 181, related to tribally controlled postsecondary vocational and technical institutions, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2327, Pub. L. 88–210, title I, §117, as added Pub. L. 101–392, title I, §116, Sept. 25, 1990, 104 Stat. 772, related to program evaluation and improvement, prior to the general amendment of this chapter by Pub. L. 105–332.
 

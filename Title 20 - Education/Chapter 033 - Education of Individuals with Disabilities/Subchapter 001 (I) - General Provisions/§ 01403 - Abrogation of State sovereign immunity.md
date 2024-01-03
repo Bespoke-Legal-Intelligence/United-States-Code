@@ -18,7 +18,7 @@ Subsections (a) and (b) apply with respect to violations that occur in whole or 
 
 #### Prior Provisions
 
-A prior section 1403, Pub. L. 91–230, title VI, §604, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 47, related to abrogation of State sovereign immunity,prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1403, Pub. L. 91–230, title VI, §604, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 47, related to abrogation of State sovereign immunity, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1403, Pub. L. 91–230, title VI, §604, as added Pub. L. 101–476, title I, §103, Oct. 30, 1990, 104 Stat. 1106, related to abrogation of State sovereign immunity, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

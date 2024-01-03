@@ -4,7 +4,7 @@
 
 &emsp;(1) performs, attempts to perform, or conspires to perform female genital mutilation on another person who has not attained the age of 18 years;
 
-&emsp;(2) being the parent, guardian, or caretaker of a person who has not attained the age of 18years facilitates or consents to the female genital mutilation of such person; or
+&emsp;(2) being the parent, guardian, or caretaker of a person who has not attained the age of 18 years facilitates or consents to the female genital mutilation of such person; or
 
 &emsp;(3) transports a person who has not attained the age of 18 years for the purpose of the performance of female genital mutilation on such person,
 
@@ -64,7 +64,7 @@ Subsec. (e). Pub. L. 116–309, §3(4), added subsec. (e).
 
 #### Effective Date
 
-Pub. L. 104–208, div. C, title VI, §645(c), Sept. 30, 1996, 110 Stat. 3009–709, provided that: "The amendments made by subsection (b) \[enacting this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Sept. 30, 1996\]."
+Pub. L. 104–208, div. C, title VI, §645(c), Sept. 30, 1996, 110 Stat. 3009–709, provided that: "The amendmentsmade by subsection (b) \[enacting this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
 #### Congressional Findings and Purpose
 

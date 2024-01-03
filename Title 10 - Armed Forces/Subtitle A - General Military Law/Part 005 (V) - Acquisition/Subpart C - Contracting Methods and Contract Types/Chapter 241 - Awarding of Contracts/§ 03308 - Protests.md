@@ -32,7 +32,7 @@ The text of subsec. (f) of section 2305 of this title, which was transferred to 
 
 #### Prior Provisions
 
-A prior section 3308, act Aug. 10, 1956, ch. 1041, 70A Stat. 192, related to effect of removal from recommended list by President of name of any promotion-list officer or brigadier general of Regular Army who in President's opinion is not qualified for promotion orwho is not confirmed by Senate, prior to repeal by Pub. L. 96–513, title II, §204, title VII, §701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See section 629 of this title.
+A prior section 3308, act Aug. 10, 1956, ch. 1041, 70A Stat. 192, related to effect of removal from recommended list by President of name of any promotion-list officer or brigadier general of Regular Army who in President's opinion is not qualified for promotion or who is not confirmed by Senate, prior to repeal by Pub. L. 96–513, title II, §204, title VII, §701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See section 629 of this title.
 
 #### Amendments
 

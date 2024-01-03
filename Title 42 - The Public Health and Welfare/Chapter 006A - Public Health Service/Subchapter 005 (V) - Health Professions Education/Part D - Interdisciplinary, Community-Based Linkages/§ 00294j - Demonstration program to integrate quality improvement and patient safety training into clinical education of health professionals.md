@@ -36,7 +36,7 @@ To be eligible to receive a grant under subsection (a), an entity or consortium 
 
 #### (1) In general
 
-&emsp;The Secretary may award a grant to an entity or consortium under this section only if theentity or consortium agrees to make available non-Federal contributions toward the costs of the program to be funded under the grant in an amount that is not less than $1 for each $5 of Federal funds provided under the grant.
+&emsp;The Secretary may award a grant to an entity or consortium under this section only if the entity or consortium agrees to make available non-Federal contributions toward the costs of the program to be funded under the grant in an amount that is not less than $1 for each $5 of Federal funds provided under the grant.
 
 #### (2) Determination of amount contributed
 

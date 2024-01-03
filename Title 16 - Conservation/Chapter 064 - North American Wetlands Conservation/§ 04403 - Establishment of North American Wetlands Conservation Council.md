@@ -42,7 +42,7 @@ The Secretary is authorized and encouraged to include as ex officio nonvoting me
 
 #### (d) Chairman
 
-The Chairman shall be elected by the Council from its members for a three-year term, except that the first elected Chairman may serve a term of less than three years.
+The Chairman shall be elected by the Council from its members for a three-year term, exceptthat the first elected Chairman may serve a term of less than three years.
 
 #### (e) Quorum
 

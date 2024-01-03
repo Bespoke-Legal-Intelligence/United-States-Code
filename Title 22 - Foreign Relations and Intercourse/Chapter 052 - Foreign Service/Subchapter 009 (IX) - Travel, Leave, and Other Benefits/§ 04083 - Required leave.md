@@ -2,11 +2,11 @@
 
 #### (a) Criteria; length of continuous service
 
-The Secretary may order a member of the Service (other than a member employed under section 3951 of this title) who is a citizen of the United States to take a leave of absence under section 6305 of title 5 (without regard to the introductory clause of subsection (a) of that section), upon completion by that member of 12 months of continuous service abroad. The Secretary shall order on such a leave of absence a member of the Service (other than a member employed under section 3951 of this title) who is a citizen of the United States as soon as possible after completion by that member of 3 years of continuous service abroad.
+The Secretary may order a member of the Service (other than a member employed under section 3951 of this title) who is a citizen of the United States to take a leave of absence under section 6305 of title 5 (without regard to the introductory clause of subsection (a) of that section), upon completion by that member of 12 months of continuous service abroad. The Secretary shall order on such a leave of absence a member of the Service (other than a member employed under section 3951 of this title) who isa citizen of the United States as soon as possible after completion by that member of 3 years of continuous service abroad.
 
 #### (b) Place leave may be taken
 
-Leave ordered under this section may be taken in the United States or its territories, includingAmerican Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands. In cases in which a member of the Service has official orders to an unaccompanied post and in which the family members of the member reside apart from the member at authorized locations outside the United States, the member may take the leave ordered under this section where that member's family members reside, notwithstanding section 10305 of title 5.
+Leave ordered under this section may be taken in the United States or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands. In cases in which a member of the Service has official orders to an unaccompanied post and in which the family members of the member reside apart from the member at authorized locations outside the United States, the member may take the leave ordered under this section where that member's family members reside, notwithstanding section 10305 of title 5.
 
 #### (c) Availability for work or duties in Department
 

@@ -40,7 +40,7 @@ Subsec. (b). Pub. L. 99–432, §2(c), amended heading and text of subsec. (b) g
 
 Pub. L. 99–432, §2(a), redesignated subsec. (d) as (b). Former subsec. (b) redesignated (a).
 
-Subsec. (c). Pub. L. 99–432, §2(a), struck out heading and text of subsec. (c). Prior to amendment, text read as follows: "On December 30, 1985, and on the closing date of each biannual period thereafter, the Commission shall notify the Secretaries of the results of the monitoring under subsection (b) of this section of each coastal State."
+Subsec. (c). Pub. L. 99–432, §2(a), struck out heading and text of subsec. (c). Prior to amendment, text read as follows: "On December 30, 1985, and on the closingdate of each biannual period thereafter, the Commission shall notify the Secretaries of the results of the monitoring under subsection (b) of this section of each coastal State."
 
 Subsec. (d). Pub. L. 99–432, §2(a), redesignated subsec. (d) as (b).
 

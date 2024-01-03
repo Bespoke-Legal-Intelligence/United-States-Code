@@ -116,9 +116,9 @@ Covered article.—The term "covered article" means—
 
 Covered procurement.—The term "covered procurement" means—
 
-&emsp;&emsp;(A) a source selection for a covered article involving either a performance specification, as provided in subsection (a)(3)(B) of section 3306 of this title, or an evaluation factor, as provided in subsection (b)(1)(A) of such section, relating to a supply chain risk, or where supply chain risk considerations are included in the agency's determination of whether a source is a responsible source as defined in section 113 of this title;
+&emsp;&emsp;(A) a source selection for a covered article involving either a performance specification, as provided in subsection (a)(3)(B) of section 3306 of this title, or an evaluation factor, as provided in subsection (b)(1)(A) of such section, relating to a supply chain risk, or where supply chain risk considerations areincluded in the agency's determination of whether a source is a responsible source as defined in section 113 of this title;
 
-&emsp;&emsp;(B) the consideration of proposals for and issuance of a task or delivery order for a covered article, as provided in section4106(d)(3) of this title, where the task or delivery order contract includes a contract clause establishing a requirement relating to a supply chain risk;
+&emsp;&emsp;(B) the consideration of proposals for and issuance of a task or delivery order for a covered article, as provided in section 4106(d)(3) of this title, where the task or delivery order contract includes a contract clause establishing a requirement relating to a supply chain risk;
 
 &emsp;&emsp;(C) any contract action involving a contract for a covered article where the contract includes a clause establishing requirements relating to a supply chain risk; or
 
@@ -170,7 +170,7 @@ Section 3101(c)(1), referred to in subsec. (k)(7), probably means section 3101(c
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date
 
@@ -206,13 +206,13 @@ In general.—Nothing in paragraph (1) shall be construed—
 
 &emsp;&emsp;&emsp;"(ii) to prohibit or limit the utilization of such covered semiconductor products or services throughout the lifecycle of such existing equipment;
 
-&emsp;&emsp;&emsp;"(iii) to require the recipient of a Federal contract, grant, loan, or loan guarantee to replace covered semiconductor products or services resident in equipment, systems, or services before the effective date specified in subsection (c); or
+&emsp;&emsp;&emsp;"(iii) to require the recipient of a Federal contract, grant, loan, or loan guarantee to replacecovered semiconductor products or services resident in equipment, systems, or services before the effective date specified in subsection (c); or
 
 &emsp;&emsp;&emsp;"(iv) to require the Federal Communications Commission to designate covered semiconductor products or services to its Covered Communications Equipment or Services List maintained under section 2 of the Secured and Trusted Communications Networks Act of 2019 (47 U.S.C. 1603) \[probably should be "(47 U.S.C. 1601)"\].
 
 &emsp;&emsp;"(B)
 
-Contracting prohibition.—Nothing in paragraph (1)(B) shall be construed to cover products orservices that include covered semiconductor products or services in a system that is not a critical system.
+Contracting prohibition.—Nothing in paragraph (1)(B) shall be construed to cover products or services that include covered semiconductor products or services in a system that is not a critical system.
 
 "(b)
 
@@ -450,7 +450,7 @@ Appropriate committees of congress and leadership.—The term 'appropriate commi
 
 &emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Commerce, Science, and Transportation, the Committee on Homeland Security and Governmental Affairs, the Committee on Energy and Natural Resources, the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Select Committee on Intelligence, and the majority and minority leaders of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Energy and Commerce, the Committee on Science, Space, and Technology, the Committee on Oversight and Reform, the Committee on Foreign Affairs, the Committee on Homeland Security, the Permanent Select Committee on Intelligence, and the Speaker, the majority leader, and the minority leader of the of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Energy and Commerce, the Committee on Science, Space, and Technology, the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\], the Committee on Foreign Affairs, the Committee on Homeland Security, the Permanent Select Committee on Intelligence, and the Speaker, the majority leader, and the minority leader of the of the House of Representatives.
 
 &emsp;"(2)
 

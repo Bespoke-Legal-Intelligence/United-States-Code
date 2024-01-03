@@ -32,7 +32,7 @@ In this section:
 
 &emsp;&emsp;(B) has mission physical security platforms that fall below the Department of State's established standards.
 
-(Pub. L. 99–399, title I, §104, as added Pub. L. 114–323, title I, §101(a), Dec. 16, 2016, 130 Stat.1907; amended Pub. L. 115–94, §2(a), Dec. 18, 2017, 131 Stat. 2038.)
+(Pub. L. 99–399, title I, §104, as added Pub. L. 114–323, title I, §101(a), Dec. 16, 2016, 130 Stat. 1907; amended Pub. L. 115–94, §2(a), Dec. 18, 2017, 131 Stat. 2038.)
 
 #### <b>Editorial Notes</b>
 

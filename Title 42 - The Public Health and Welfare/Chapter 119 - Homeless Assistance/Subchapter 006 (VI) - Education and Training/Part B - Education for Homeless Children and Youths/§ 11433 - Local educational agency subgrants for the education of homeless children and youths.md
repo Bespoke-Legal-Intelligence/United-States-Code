@@ -68,7 +68,7 @@ A local educational agency that desires to receive a subgrant under this section
 
 &emsp;&emsp;(A) The extent to which the proposed use of funds will facilitate the identification, enrollment, retention, and educational success of homeless children and youths.
 
-&emsp;&emsp;(B) The extent to which the application reflects coordination with other local andState agencies that serve homeless children and youths.
+&emsp;&emsp;(B) The extent to which the application reflects coordination with other local and State agencies that serve homeless children and youths.
 
 &emsp;&emsp;(C) The extent to which the applicant exhibits in the application and in current practice (as of the date of submission of the application) a commitment to education for all homeless children and youths.
 
@@ -94,7 +94,7 @@ A local educational agency that desires to receive a subgrant under this section
 
 &emsp;&emsp;(H) How the local educational agency will use funds to serve homeless children and youths under section 1113(c)(3) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6313(c)(3)).
 
-&emsp;&emsp;(I) The extent to which the applicant's program meets such other measures as the State educational agency considers indicative of a high-quality program, such as the extent to which the local educational agency will provide case management or related services to unaccompanied youths.
+&emsp;&emsp;(I) The extent to which the applicant's program meets such other measures as the State educational agency considers indicative of a high-quality program, such as the extent to which the local educational agencywill provide case management or related services to unaccompanied youths.
 
 #### (d) Authorized activities
 
@@ -156,7 +156,7 @@ Subsec. (a)(4). Pub. L. 114–95, §9103(1)(C), added par. (4).
 
 Subsec. (b)(6), (7). Pub. L. 114–95, §9103(2), added pars. (6) and (7).
 
-Subsec. (c)(2). Pub. L. 114–95, §9103(3)(A)(i), substituted "early childhood education and other preschool programs, elementary schools, and secondary schools," for "preschool, elementary, and secondary schools" in introductory provisions.
+Subsec. (c)(2). Pub. L. 114–95, §9103(3)(A)(i), substituted "early childhood education and other preschool programs, elementary schools, and secondaryschools," for "preschool, elementary, and secondary schools" in introductory provisions.
 
 Subsec. (c)(2)(A). Pub. L. 114–95, §9103(3)(A)(ii), inserted "identification," before "enrollment,".
 

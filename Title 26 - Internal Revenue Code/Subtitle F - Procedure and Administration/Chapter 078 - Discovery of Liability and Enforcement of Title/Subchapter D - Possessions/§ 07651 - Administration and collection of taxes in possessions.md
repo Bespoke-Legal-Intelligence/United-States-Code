@@ -70,7 +70,7 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 #### Savings Provision
 
-Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under sections 171 to 174 of Title 21, Food and Drugs.
+Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103of Pub. L. 91–513, set out as a note under sections 171 to 174 of Title 21, Food and Drugs.
 
 #### Compensation to Guam and Virgin Islands for Unexpected Revenue Losses Occasioned by Tax Reduction Act of 1975 and Tax Reform Act of 1976
 

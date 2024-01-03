@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 120 days after August 10, 2012, and every 180 days thereafter, the President shall submit to the appropriate congressionalcommittees a report that identifies each agency of the government of a foreign country (other than Iran) that the President determines knowingly and materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, or knowingly and materially engaged in a significant transaction with, any person described in paragraph (2).
+&emsp;Not later than 120 days after August 10, 2012, and every 180 days thereafter, the President shall submit to the appropriate congressional committees a report that identifies each agency of the government of a foreign country (other than Iran) that the President determines knowingly and materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, or knowingly and materially engaged in a significant transaction with, any person described in paragraph (2).
 
 #### (2) Person described
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(iv) Annex I, II, or III of United Nations Security Council Resolution 1929 (2010); or
 
-&emsp;&emsp;&emsp;(v) any subsequent and related United Nations Security Council resolution, or any annex thereto, that imposes new sanctions with respect to Iran or modifies existing sanctions with respect to Iran; or
+&emsp;&emsp;&emsp;(v) any subsequent and related United Nations Security Council resolution, orany annex thereto, that imposes new sanctions with respect to Iran or modifies existing sanctions with respect to Iran; or
 
 &emsp;&emsp;(C) a foreign person that the agency knows is acting on behalf of or at the direction of, or owned or controlled by, a person described in subparagraph (A) or (B).
 

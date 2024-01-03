@@ -28,7 +28,7 @@ Requirements; Removal Based on Diversity of Citizenship.—(1) A case may not be
 
 &emsp;&emsp;(ii) a money judgment, but the State practice either does not permit demand for a specific sum or permits recovery of damages in excess of the amount demanded; and
 
-&emsp;(B) removal of the action is proper on the basis of an amount in controversy asserted under subparagraph (A) if the district court finds, by the preponderance of the evidence, that the amount in controversy exceeds the amount specified in section 1332(a).
+&emsp;(B) removal of the action is proper on the basis of an amount in controversy asserted under subparagraph (A) if the district court finds, by the preponderance of the evidence,that the amount in controversy exceeds the amount specified in section 1332(a).
 
 (3)(A) If the case stated by the initial pleading is not removable solely because the amount in controversy does not exceed the amount specified in section 1332(a), information relating to the amount in controversy in the record of the State proceeding, or in responses to discovery, shall be treated as an "other paper" under subsection (b)(3).
 

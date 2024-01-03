@@ -28,7 +28,7 @@ Variable, Additional, Board Certification, and Incentive Special Pay.—(1) An o
 
 (3) An officer described in paragraph (1) who is serving in a pay grade above pay grade O–6 is entitled to variable special pay at the rate of $7,000 per year.
 
-(4) An officer who is entitled to variable special pay under paragraph (2) or (3) is also entitled to additional special pay for any 12-month period during which an agreement executed under subsection (b) is in effect with respect to the officer. Such additional special pay shall be paid at a rate determined by the Secretary concerned, which rate may not exceed the following:
+(4) An officer who is entitled to variable special pay under paragraph (2) or (3) is also entitled to additional special pay for any 12-month period during which an agreement executed under subsection (b) is in effect with respect to the officer. Such additional special pay shall bepaid at a rate determined by the Secretary concerned, which rate may not exceed the following:
 
 &emsp;(A) $10,000 per year, if the officer has less than three years of creditable service.
 
@@ -112,7 +112,7 @@ Subsec. (a)(6). Pub. L. 109–163, §625(a)(2), added par. (6).
 
 Subsec. (b). Pub. L. 109–163, §625(b), substituted "paragraph (4) or (6) of subsection (a)" for "subsection (a)(4)" in two places.
 
-Subsec. (b)(2). Pub. L. 109–163, §687(b)(6)(A), added second sentence and struck out former second sentence which read as follows: "If such entitlement is terminated, the officer concerned is entitled to be paid such special pay only for the part of the period on active duty that the officer served, and the officer may be required to refund any amount in excess of that entitlement."
+Subsec. (b)(2). Pub. L. 109–163, §687(b)(6)(A), added second sentence and struck out former second sentencewhich read as follows: "If such entitlement is terminated, the officer concerned is entitled to be paid such special pay only for the part of the period on active duty that the officer served, and the officer may be required to refund any amount in excess of that entitlement."
 
 Subsec. (d). Pub. L. 109–163, §625(b), substituted "paragraph (4) or (6) of subsection (a)" for "subsection (a)(4)".
 

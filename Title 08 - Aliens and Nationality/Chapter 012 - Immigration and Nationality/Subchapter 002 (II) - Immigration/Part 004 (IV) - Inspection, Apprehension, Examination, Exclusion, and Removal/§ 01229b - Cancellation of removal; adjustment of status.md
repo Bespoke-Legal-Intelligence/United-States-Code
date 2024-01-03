@@ -46,7 +46,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 #### (B) Physical presence
 
-&emsp;&emsp;Notwithstanding subsection (d)(2), for purposes of subparagraph (A)(ii) or for purposes of section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reformand Immigrant Responsibility Act of 1996), an alien shall not be considered to have failed to maintain continuous physical presence by reason of an absence if the alien demonstrates a connection between the absence and the battering or extreme cruelty perpetrated against the alien. No absence or portion of an absence connected to the battering or extreme cruelty shall count toward the 90-day or 180-day limits established in subsection (d)(2). If any absence or aggregate absences exceed 180 days, the absences or portions of the absences will not be considered to break the period of continuous presence. Any such period of time excluded from the 180-day limit shall be excluded in computing the time during which the alien has been physically present for purposes of the 3-year requirement set forth in this subparagraph, subparagraph (A)(ii), and section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).
+&emsp;&emsp;Notwithstanding subsection (d)(2), for purposes of subparagraph (A)(ii) or for purposes of section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), an alien shall not be considered to have failed to maintain continuous physical presence by reason of an absence if the alien demonstrates a connection between the absence and the battering or extreme cruelty perpetrated against the alien. No absence or portion of an absence connected to the battering or extreme cruelty shall count toward the 90-day or 180-day limits established in subsection (d)(2). If any absence or aggregate absences exceed 180 days, the absences or portions of the absences will not be considered to break the period of continuous presence. Any such period of time excluded from the 180-day limit shall be excluded in computing the time during which the alien has been physically present for purposes of the 3-year requirement set forth in this subparagraph, subparagraph (A)(ii), and section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).
 
 #### (C) Good moral character
 
@@ -96,7 +96,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may extend the parole granted under subparagraph (A) until thefinal adjudication of the application filed by the principal alien under section 1101(a)(15)(T)(ii) of this title.
+&emsp;&emsp;&emsp;The Secretary may extend the parole granted under subparagraph (A) until the final adjudication of the application filed by the principal alien under section 1101(a)(15)(T)(ii) of this title.
 
 #### (ii) Other limits on duration
 

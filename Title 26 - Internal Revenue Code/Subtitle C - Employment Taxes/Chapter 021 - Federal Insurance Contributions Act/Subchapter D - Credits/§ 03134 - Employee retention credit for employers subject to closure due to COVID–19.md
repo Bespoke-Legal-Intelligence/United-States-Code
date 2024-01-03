@@ -122,7 +122,7 @@ For purposes of this section—
 
 #### (ii) Allocation rules
 
-&emsp;&emsp;&emsp;For purposes of this section, amounts treated as wages under clause (i) shall be treated as paid with respect to any employee (and with respect to any period) to the extent that such amounts are properly allocable to such employee (and to such period) in such manner as the Secretary may prescribe. Except as otherwise provided by the Secretary, such allocation shall be treated as properly made if made on the basis of being pro rata among periods of coverage.
+&emsp;&emsp;&emsp;For purposes of this section, amounts treated as wages under clause (i) shall betreated as paid with respect to any employee (and with respect to any period) to the extent that such amounts are properly allocable to such employee (and to such period) in such manner as the Secretary may prescribe. Except as otherwise provided by the Secretary, such allocation shall be treated as properly made if made on the basis of being pro rata among periods of coverage.
 
 #### (5) Recovery startup business
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### (6) Other terms
 
-&emsp;Any term used in this section which is also used in this chapter or chapter 22 shall havethe same meaning as when used in such chapter.
+&emsp;Any term used in this section which is also used in this chapter or chapter 22 shall have the same meaning as when used in such chapter.
 
 #### (d) Aggregation rule
 
@@ -222,7 +222,7 @@ Any credit allowed under this section shall be treated as a credit described in 
 
 #### (B) Excess advance payments
 
-&emsp;&emsp;If the advance payments to a taxpayer under paragraph (2) for a calendar quarter exceed the credit allowed by this section (determined without regard to subparagraph (A)), the tax imposed under section 3111(b) or so much of the tax imposed under section3221(a) as is attributable to the rate in effect under section 3111(b) (whichever is applicable) for the calendar quarter shall be increased by the amount of such excess.
+&emsp;&emsp;If the advance payments to a taxpayer under paragraph (2) for a calendar quarter exceed the credit allowed by this section (determined without regard to subparagraph (A)), the tax imposed under section 3111(b) or so much of the tax imposed under section 3221(a) as is attributable to the rate in effect under section 3111(b) (whichever is applicable) for the calendar quarter shall be increased by the amount of such excess.
 
 #### (k) Treatment of deposits
 

@@ -40,7 +40,7 @@ The Initiative shall not impact sources and methods, as determined by the Direct
 
 Nothing in this chapter shall be construed as—
 
-&emsp;(1) modifying any authority or responsibility, including any operational authority orresponsibility of any head of a Federal department or agency, with respect to intelligence or the intelligence community, as those terms are defined in 50 U.S.C. 3003; <sup>1</sup>
+&emsp;(1) modifying any authority or responsibility, including any operational authority or responsibility of any head of a Federal department or agency, with respect to intelligence or the intelligence community, as those terms are defined in 50 U.S.C. 3003; <sup>1</sup>
 
 &emsp;(2) authorizing the Initiative, or anyone associated with its derivative efforts to approve, interfere with, direct or to conduct an intelligence activity, resource, or operation; or
 

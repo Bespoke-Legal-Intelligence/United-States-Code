@@ -340,7 +340,7 @@ Grants and Per Diem Payments.—(1) In the case of a public health emergency, th
 
 "(c)
 
-Participant Absence.—Notwithstanding Veterans Health Administration Handbook 1162.01(1), dated July 12, 2013, and amended June 30, 2014, and titled 'Grant and Per Diem (GPD) Program', or any other provision of law, for the duration of a public health emergency, the Secretary—
+Participant Absence.—Notwithstanding Veterans Health Administration Handbook 1162.01(1), datedJuly 12, 2013, and amended June 30, 2014, and titled 'Grant and Per Diem (GPD) Program', or any other provision of law, for the duration of a public health emergency, the Secretary—
 
 &emsp;"(1) shall waive any requirement to discharge a veteran from the grant and per diem program of the Veterans Health Administration after the veteran is absent for 14 days; and
 

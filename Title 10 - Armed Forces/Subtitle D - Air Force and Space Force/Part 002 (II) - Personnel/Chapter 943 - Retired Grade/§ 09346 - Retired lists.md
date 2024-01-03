@@ -1,18 +1,24 @@
 ### §9346. Retired lists
 
-(a) The Secretary of the Air Force shall maintain a retired list containing the name of each retired commissioned officer of the Regular Air Force or the Regular Space Force.
+(a) The Secretary of the Air Force shall maintain a retired list containing the name of each retired commissioned officer of the Regular Air Force and a separate retired list containing the name of each retired commissioned officer of the Space Force (other than an officer whose name is on the list maintained under subsection (b)(2)).
 
-(b) The Secretary shall maintain a retired list containing the name of—
+(b)(1) The Secretary shall maintain a retired list containing the name of—
 
-&emsp;(1) each person entitled to retired pay under any law providing retired pay for commissioned officers of the Air Force, other than of the Regular Air Force, or for commissioned officers of the Space Force other than of the Regular Space Force; and
+&emsp;(A) each person entitled to retired pay under any law providing retired pay for commissioned officers of the Air Force, other than of the Regular Air Force; and
 
-&emsp;(2) each retired warrant officer or enlisted member of the Air Force or the Space Force who is advanced to a commissioned grade.
+&emsp;(B) each retired warrant officer or enlisted member of the Air Force who is advanced to a commissioned grade.
 
-(c) The Secretary shall maintain a retired list containing the name of each retired warrant officer of the Air Force or the Space Force.
+(2) The Secretary shall maintain a retired list containing the name of—
 
-(d) The Secretary shall maintain a retired list containing the name of each retired enlisted member of the Regular Air Force or the Regular Space Force.
+&emsp;(A) each person entitled to retired pay who as a member of the Space Force qualified for retirement under section 20601 of this title; and
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 556, §8966; Pub. L. 85–861, §1(199), Sept. 2, 1958, 72 Stat. 1541; Pub. L. 100–180, div. A, title V, §512(d)(3), Dec. 4, 1987, 101 Stat. 1090; renumbered §9346, Pub. L. 115–232, div. A, title VIII, §806(b)(14), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–283, div. A, title IX, §923(c)(21)(C), Jan. 1, 2021, 134 Stat. 3812.)
+&emsp;(B) each retired warrant officer or enlisted member of the Space Force who is advanced to a commissioned grade.
+
+(c) The Secretary shall maintain a retired list containing the name of each retired warrant officer of the Air Force and a separate retired list containing the name of each retired warrant officer of the Space Force.
+
+(d) The Secretary shall maintain a retired list containing the name of each retired enlisted member of the Regular Air Force and a separate retired list containing the name of each retired enlisted member of the Space Force.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 556, §8966; Pub. L. 85–861, §1(199), Sept. 2, 1958, 72 Stat. 1541; Pub. L. 100–180, div. A, title V, §512(d)(3), Dec. 4, 1987, 101 Stat. 1090; renumbered §9346, Pub. L. 115–232, div. A, title VIII, §806(b)(14), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–283, div. A, title IX, §923(c)(21)(C), Jan. 1, 2021, 134 Stat. 3812; Pub. L. 118–31, div. A, title XVII, §1719A(b)(4), Dec. 22, 2023, 137 Stat. 664.)
 
 Historical and Revision Notes<br>1956
 
@@ -50,7 +56,7 @@ In subsection (b), the word "shall" is substituted for the word "may", since 10:
 
 Subsection (b)(1) is substituted for the words "all commissioned officers and former commissioned officers \* \* \* or the Air Force of the United States, as the case may be \* \* \* or the Regular Air Force, heretofore or hereafter granted retirement pay under sections 456, 456a, and 1036a of this title, or any law hereafter enacted to provide retirement pay for commissioned officers \* \* \* or the Regular Air Force".
 
-In subsection (b)(2), the words "who is advanced to a commissioned grade" are substituted for the words"heretofore or hereafter retired under any provision of law who, by reason of service in temporary commissioned grades \* \* \* or the Air Force of the United States, or in any of the respective components thereof, are entitled to be retired with commissioned rank or grade".
+In subsection (b)(2), the words "who is advanced to a commissioned grade" are substituted for the words "heretofore or hereafter retired under any provision of law who, by reason of service in temporary commissioned grades \* \* \* or the Air Force of the United States, or in any of the respective components thereof, are entitled to be retired with commissioned rank or grade".
 
 Subsections (c) and (d) are inserted, since sections 8964 and 8965 of this title refer to service on the retired list as a warrant officer or enlisted member.
 
@@ -85,6 +91,18 @@ Another prior section 9356, added Pub. L. 103–337, div. A, title V, §556(c)(1
 Prior sections 9357 to 9360 were renumbered sections 9457 to 9460 of this title, respectively.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a). Pub. L. 118–31, §1719A(b)(4)(A), substituted "and a separate retired list containing the name of each retired commissioned officer of the Space Force (other than an officer whose name is on the list maintained under subsection (b)(2))" for "or the Regular Space Force".
+
+Subsec. (b). Pub. L. 118–31, §1719A(b)(4)(B)(i), (ii), (v), inserted par. (1) designation before "The Secretary", redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+Subsec. (b)(1)(A). Pub. L. 118–31, §1719A(b)(4)(B)(iii), struck out ", or for commissioned officers of the SpaceForce other than of the Regular Space Force" after "Regular Air Force".
+
+Subsec. (b)(1)(B). Pub. L. 118–31, §1719A(b)(4)(B)(iv), struck out "or the Space Force" after "Air Force".
+
+Subsec. (c). Pub. L. 118–31, §1719A(b)(4)(C), substituted "and a separate retired list containing the name of each retired warrant officer of the Space Force" for "or the Space Force".
+
+Subsec. (d). Pub. L. 118–31, §1719A(b)(4)(D), substituted "and a separate retired list containing the name of each retired enlisted member of the Space Force" for "or the Regular Space Force".
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §923(c)(21)(C)(i), inserted "or the Regular Space Force" after "Regular Air Force".
 

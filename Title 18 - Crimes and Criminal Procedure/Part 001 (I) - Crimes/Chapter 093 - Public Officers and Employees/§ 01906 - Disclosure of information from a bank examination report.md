@@ -38,7 +38,7 @@ Section 3(s) of the Federal Deposit Insurance Act, referred to in text, is class
 
 #### Exception as to Transfer of Functions
 
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, were not included in transfer of functions of officers, agencies, and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26, of 1950, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, werenot included in transfer of functions of officers, agencies, and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26, of 1950, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

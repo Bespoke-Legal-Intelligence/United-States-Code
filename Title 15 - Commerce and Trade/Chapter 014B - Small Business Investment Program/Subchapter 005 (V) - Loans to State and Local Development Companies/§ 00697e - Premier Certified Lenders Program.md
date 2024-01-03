@@ -24,7 +24,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 &emsp;&emsp;(C) if the company agrees to assume and to reimburse the Administration for 10 percent of any loss sustained by the Administration as a result of default by the company in the payment of principal or interest on a debenture issued by such company and guaranteed by the Administration under this section (15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) for such company); and
 
-&emsp;&emsp;(D) the <sup>1</sup> Administrator determines, with respect to the company, that the loss reserve established in accordance with subsection (c) is sufficient for the company to meet its obligations to protect the Federal Government from risk of loss.
+&emsp;&emsp;(D) the <sup>1</sup> Administrator determines, with respect to the company, that the loss reserveestablished in accordance with subsection (c) is sufficient for the company to meet its obligations to protect the Federal Government from risk of loss.
 
 #### (3) Applicability of criteria after designation
 
@@ -84,7 +84,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (i) Ordinary rules inapplicable
 
-&emsp;&emsp;&emsp;Except as provided under clause (ii) and paragraph (5), a qualified high loss reservePCL that makes the election described in subparagraph (A) with respect to a calendar quarter shall not be required to make contributions to its loss reserve during such quarter.
+&emsp;&emsp;&emsp;Except as provided under clause (ii) and paragraph (5), a qualified high loss reserve PCL that makes the election described in subparagraph (A) with respect to a calendar quarter shall not be required to make contributions to its loss reserve during such quarter.
 
 #### (ii) Based on loss
 
@@ -200,7 +200,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 &emsp;&emsp;Not later than 90 days after May 28, 2004—
 
-&emsp;&emsp;&emsp;(i) the Administrator shall ensure that the Bureau of PCLP Oversight is prepared to carry out any functions designated under subparagraph (B), and
+&emsp;&emsp;&emsp;(i) the Administrator shall ensure that the Bureau of PCLP Oversight is preparedto carry out any functions designated under subparagraph (B), and
 
 &emsp;&emsp;&emsp;(ii) the Office of the Inspector General of the Administration shall report to the Congress on the preparedness of the Bureau of PCLP Oversight to carry out such functions.
 
@@ -354,7 +354,7 @@ Subsec. (h). Pub. L. 105–135, §223(a)(7), added subsec. (h) and struck out he
 
 Subsec. (i)(3). Pub. L. 105–135, §223(a)(8), substituted "other lenders, specifically comparing default rates and recovery rates on liquidations" for "other lenders".
 
-<b>1994</b>—Pub. L. 103–403, §217(b), which directed repeal of this section effective Oct. 1, 2000, and was repealed by section 1(a)(9) \[title III, §305\] of Pub. L. 106–554, was not executed to reflect the probable intent of Congress and the amendments to this section by section 1(a)(9) \[titleIII, §306\] of Pub. L. 106–554. See Termination Date note below.
+<b>1994</b>—Pub. L. 103–403, §217(b), which directed repeal of this section effective Oct. 1, 2000, and was repealed by section 1(a)(9) \[title III, §305\] of Pub. L. 106–554, was not executed to reflect the probable intent of Congress and the amendments to this section by section 1(a)(9) \[title III, §306\] of Pub. L. 106–554. See Termination Date note below.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -34,13 +34,13 @@ Consideration by Milestone Decision Authority.—The Milestone Decision Authorit
 
 (d)
 
-Submittal of Reports.—(1) In the case of a major satellite acquisition program initiated before January 2, 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program not later than one year after such date of enactment.<sup>1</sup>
+Submittal of Reports.—(1) In the case of a major satellite acquisition program initiatedbefore January 2, 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program not later than one year after such date of enactment.<sup>1</sup>
 
 (2) In the case of a major satellite acquisition program initiated on or after January 2, 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program at the time of the Milestone B approval of the program.
 
 (e)
 
-Notification to Congress of Non-integrated Acquisition and Capability DeliverySchedules.—If, after submitting the report required by subsection (a) with respect to a major satellite acquisition program, the Under Secretary determines that the program is a non-integrated program, the Under Secretary shall, not later than 30 days after making that determination, submit to the congressional defense committees a report—
+Notification to Congress of Non-integrated Acquisition and Capability Delivery Schedules.—If, after submitting the report required by subsection (a) with respect to a major satellite acquisition program, the Under Secretary determines that the program is a non-integrated program, the Under Secretary shall, not later than 30 days after making that determination, submit to the congressional defense committees a report—
 
 &emsp;(1) notifying the committees of that determination; and
 
@@ -78,13 +78,13 @@ Major satellite acquisition program.—The term "major satellite acquisition pro
 
 &emsp;(3)
 
-Milestone b approval.—The term "Milestone B approval" has the meaning given that term in sections <sup>2</sup> 4172(e)(7) of this title.
+Milestone b approval.—The term "Milestone B approval" has the meaning given that term in section 4172(e)(7) of this title.
 
 &emsp;(4)
 
 Non-integrated program.—The term "non-integrated program" means a program with respect to which the schedules for the acquisition and the delivery of the capabilities of the segments for the program, or a related program that is necessary for the operational capability of the program, provide for the acquisition or the delivery of the capabilities of at least two of the three segments for the program or related program more than one year apart.
 
-(Added Pub. L. 112–239, div. A, title IX, §911(a), Jan. 2, 2013, 126 Stat. 1870; amended Pub. L. 113–291, div. A, title X, §1071(e)(3), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–92, div. A, title IX, §902(29), Dec. 20, 2019, 133 Stat. 1546; Pub. L. 116–283, div. A, title XVIII, §§1845(c)(3), 1846(i)(5), Jan. 1, 2021, 134 Stat. 4247, 4252; Pub. L. 117–263, div. A, title XVI, §1603, Dec. 23, 2022, 136 Stat. 2930.)
+(Added Pub. L. 112–239, div. A, title IX, §911(a), Jan. 2, 2013, 126 Stat. 1870; amended Pub. L. 113–291, div. A, title X, §1071(e)(3), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–92, div. A, title IX, §902(29), Dec. 20, 2019, 133 Stat. 1546; Pub. L. 116–283, div. A, title XVIII, §§1845(c)(3), 1846(i)(5), Jan. 1, 2021, 134 Stat. 4247, 4252; Pub. L. 117–263, div. A, title XVI, §1603, Dec. 23, 2022, 136 Stat. 2930; Pub. L. 118–31, div. A, title XVIII, §1801(a)(21), Dec. 22, 2023, 137 Stat. 684.)
 
 #### <b>Editorial Notes</b>
 
@@ -97,6 +97,8 @@ Such date of enactment, referred to in subsec. (d)(1), is a reference to the dat
 A prior section 2275, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related to award of contracts and review of decisions, was repealed by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (g)(3). Pub. L. 118–31 substituted "section" for "sections".
 
 <b>2022</b>—Subsec. (f)(3). Pub. L. 117–263 struck out par. (3). Text read as follows: "If at the time of the termination of the requirement to annually update a report for a program under paragraph (1) the Under Secretary has not provided notice to the congressional defense committees that the Under Secretary has determined that the program is no longer a non-integrated program, the Comptroller General shall conduct a review of such program and submit the results of such review to the congressional defense committees."
 
@@ -114,13 +116,11 @@ Subsec. (d)(2). Pub. L. 113–291, §1071(e)(3)(B), substituted "on or after Jan
 
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementationand applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Termination of Reporting Requirements
 
 For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "section".</i>
 

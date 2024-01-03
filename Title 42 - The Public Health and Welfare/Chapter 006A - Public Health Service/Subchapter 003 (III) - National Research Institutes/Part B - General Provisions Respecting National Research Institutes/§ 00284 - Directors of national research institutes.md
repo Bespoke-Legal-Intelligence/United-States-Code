@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director of the National Cancer Institute shall be appointed by the President, and the Directors of the other national research institutes and national centers shall be appointed by the Secretary, acting through theDirector of National Institutes of Health. Each Director of a national research institute or national center shall report directly to the Director of National Institutes of Health.
+&emsp;The Director of the National Cancer Institute shall be appointed by the President, and the Directors of the other national research institutes and national centers shall be appointed by the Secretary, acting through the Director of National Institutes of Health. Each Director of a national research institute or national center shall report directly to the Director of National Institutes of Health.
 
 #### (2) Appointment
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(iv) the expansion of knowledge of the processes underlying human diseases, disorders, and disabilities, the processes underlying the normal and pathological functioning of the body and its organ systems, and the processes underlying the interactions between the human organism and the environment;
 
-&emsp;(B) may, subject to the peer review prescribed under section 289a(b) of this title and any advisory council review under section 284a(a)(3)(A)(i) of this title, conduct the research, investigations, experiments, demonstrations, and studies referred to in subparagraph (A);
+&emsp;(B) may, subject to the peer review prescribed under section 289a(b) of this title andany advisory council review under section 284a(a)(3)(A)(i) of this title, conduct the research, investigations, experiments, demonstrations, and studies referred to in subparagraph (A);
 
 &emsp;(C) shall, as appropriate, conduct and support research that has the potential to transform the scientific field, has inherently higher risk, and that seeks to address major current challenges;
 

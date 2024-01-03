@@ -46,7 +46,7 @@ Oct. 30, 1984, Pub. L. 98–575, 98 Stat. 3055, §15(b)(4); added Nov. 15, 1988,
 
 <b>1998</b>—Pub. L. 105–303, §102(a)(9)(A), substituted "Preemption of scheduled launches or reentries" for "Preemption of scheduled launches" in section catchline.
 
-Subsec. (a). Pub. L. 105–303, §102(a)(9)(B), inserted "or reentry" after "ensure that a launch", ", reentry site," after "United States Government launch site", "or reentry date commitment" after "launch date commitment", "or reentry" after "obtained for a launch", ", reentry site," after "access to a launch site", ", or services related to a reentry," after "amount for launch services", and "or reentry" after "the scheduled launch".
+Subsec. (a). Pub. L. 105–303, §102(a)(9)(B), inserted "or reentry" after "ensure that a launch", ", reentry site,"after "United States Government launch site", "or reentry date commitment" after "launch date commitment", "or reentry" after "obtained for a launch", ", reentry site," after "access to a launch site", ", or services related to a reentry," after "amount for launch services", and "or reentry" after "the scheduled launch".
 
 Subsec. (c). Pub. L. 105–303, §102(a)(9)(C), inserted "or reentry" after "prompt launching".
 

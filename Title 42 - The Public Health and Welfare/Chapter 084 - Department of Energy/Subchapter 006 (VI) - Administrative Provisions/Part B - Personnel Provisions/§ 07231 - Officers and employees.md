@@ -36,7 +36,7 @@ For the purposes of determining the maximum aggregate number of positions which 
 
 All positions in the Department which the Secretary determines are devoted to intelligence and intelligence-related activities of the United States Government are excepted from the competitive service, and the individuals who occupy such positions as of August 14, 1991, shall, while employed in such positions, be exempt from the competitive service.
 
-(Pub. L. 95–91, title VI, §621, Aug. 4, 1977, 91 Stat. 596; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979,43 F.R. 36037, 92 Stat. 3784; Pub. L. 102–88, title IV, §403, Aug. 14, 1991, 105 Stat. 434.)
+(Pub. L. 95–91, title VI, §621, Aug. 4, 1977, 91 Stat. 596; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 102–88, title IV, §403, Aug. 14, 1991, 105 Stat. 434.)
 
 #### <b>Editorial Notes</b>
 

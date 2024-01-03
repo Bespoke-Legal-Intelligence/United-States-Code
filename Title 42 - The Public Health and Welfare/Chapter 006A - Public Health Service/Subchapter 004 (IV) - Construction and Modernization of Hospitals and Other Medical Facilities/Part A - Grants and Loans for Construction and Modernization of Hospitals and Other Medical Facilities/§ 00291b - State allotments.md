@@ -34,7 +34,7 @@ For the purposes of this part—
 
 (1) The "allotment percentage" for any State shall be 100 per centum less that percentage which bears the same ratio to 50 per centum as the per capita income of such State bears to the per capita income of the United States, except that (A) the allotment percentage shall in no case be more than 75 per centum or less than 331/3 per centum, and (B) the allotment percentage for the Commonwealth of Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Virgin Islands shall be 75 per centum.
 
-(2) The allotment percentages shall be determined by the Surgeon General between July 1 and September 30 of each even-numbered year, on the basis of the average of the per capita incomes of each of the States and of the United States for the three most recent consecutive years for which satisfactory data are available from the Department of Commerce, and the States shall be notified promptly thereof. Such determination shall be conclusive for each of the two fiscal years in the period beginning July 1 next succeeding such determination.
+(2) The allotment percentages shall be determined by the Surgeon General between July 1 and September 30 of each even-numbered year, on the basis of the average of the per capita incomes of each of the States and of the United States for the three most recent consecutive years for which satisfactory data are available from the Department of Commerce, and theStates shall be notified promptly thereof. Such determination shall be conclusive for each of the two fiscal years in the period beginning July 1 next succeeding such determination.
 
 (3) The population of the several States shall be determined on the basis of the latest figures certified by the Department of Commerce.
 
@@ -74,7 +74,7 @@ In accordance with regulations, any State may file with the Surgeon General a re
 
 A prior section 291b, act July 1, 1944, ch. 373, title VI, §612, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, related to a State application for funds, its requirements and its approval, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
-A prior section 291c, act July 1, 1944, ch. 373, title VI, §624, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1941, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
+A prior section 291c, act July 1, 1944, ch. 373, title VI, §624, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1941, related to subject matter similar to this section, prior tothe general amendment of this subchapter by Pub. L. 88–443.
 
 A prior section 291g, act July 1, 1944, ch. 373, title VI, §624, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended June 29, 1948, ch. 728, §1, 62 Stat. 1103; Oct. 25, 1949, ch. 722, §§3(b), 7, 63 Stat. 899, 901; Aug. 1, 1956, ch. 852, §19(c), 70 Stat. 911; Sept. 25, 1962, Pub. L. 87–688, §4(a)(3), 76 Stat. 587, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
@@ -138,7 +138,7 @@ Pub. L. 93–641, §5(b), Jan. 4, 1975, 88 Stat. 2274, provided that any State h
 
 #### Allotment Study; Report to Congress
 
-Pub. L. 91–296, title I, §103(c), June 30, 1970, 84 Stat. 338, directed Secretary to study effects of the formula specified in subsec. (a)(1) of this section for allotment among the States for construction of health facilities, with results of such study together with recommendations for change to be reported to Congress on May 15, 1972.
+Pub. L. 91–296, title I, §103(c), June 30, 1970, 84 Stat. 338, directed Secretary to study effects of the formulaspecified in subsec. (a)(1) of this section for allotment among the States for construction of health facilities, with results of such study together with recommendations for change to be reported to Congress on May 15, 1972.
 
 #### Approval of Application for Modernization Prior to July 1, 1965, or Before Approval of a State Plan
 

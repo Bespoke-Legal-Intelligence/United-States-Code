@@ -8,7 +8,7 @@ In this section, the term "State" means any State of the United States, the Dist
 
 #### (1) In general
 
-&emsp;Not later than 30 days after December 20, 2019, the Director of National Intelligenceshall support the Under Secretary of Homeland Security for Intelligence and Analysis, and any other official of the Department of Homeland Security designated by the Secretary of Homeland Security, in sponsoring a security clearance up to the top secret level for each eligible chief election official of a State or the District of Columbia, and additional eligible designees of such election official as appropriate, at the time that such election official assumes such position.
+&emsp;Not later than 30 days after December 20, 2019, the Director of National Intelligence shall support the Under Secretary of Homeland Security for Intelligence and Analysis, and any other official of the Department of Homeland Security designated by the Secretary of Homeland Security, in sponsoring a security clearance up to the top secret level for each eligible chief election official of a State or the District of Columbia, and additional eligible designees of such election official as appropriate, at the time that such election official assumes such position.
 
 #### (2) Interim clearances
 
@@ -18,7 +18,7 @@ In this section, the term "State" means any State of the United States, the Dist
 
 #### (1) In general
 
-&emsp;The Director of National Intelligence shall assist the Under Secretary of Homeland Security for Intelligence and Analysis and the Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department (as specified in section 113(a)(1)(H) of title 6) with sharing any appropriate classified information related to threats to election systems and to the integrity of the election process with chief election officials and such designees who have received a security clearance under subsection (b).
+&emsp;The Director of National Intelligence shall assist the Under Secretary of Homeland Security for Intelligence and Analysis and theUnder Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department (as specified in section 113(a)(1)(H) of title 6) with sharing any appropriate classified information related to threats to election systems and to the integrity of the election process with chief election officials and such designees who have received a security clearance under subsection (b).
 
 #### (2) Coordination
 

@@ -58,7 +58,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To enhance patient safety and the quality of health care, the Secretary shall make available and disseminate in appropriate formats to prescription drugs plans under part D, and MA–PD plans under part C, of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq., 1395w–21 et seq.\], other health plans, and the public the evaluations and syntheses prepared pursuant to subparagraph (A) and the findings of research conducted pursuant to paragraph (1). In carrying out this clause the Secretary, in order to facilitate the availability of such evaluations and syntheses or findings at every decision point in the health care system, shall—
+&emsp;&emsp;&emsp;To enhance patient safety and the quality of health care, the Secretary shall make available and disseminate in appropriate formats to prescription drugs plans under part D, and MA–PD plans under part C, of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq., 1395w–21 et seq.\], other health plans, and the publicthe evaluations and syntheses prepared pursuant to subparagraph (A) and the findings of research conducted pursuant to paragraph (1). In carrying out this clause the Secretary, in order to facilitate the availability of such evaluations and syntheses or findings at every decision point in the health care system, shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) present such evaluations and syntheses or findings in a form that is easily understood by the individuals receiving health care items and services (including prescription drugs) under such plans and periodically assess that the requirements of this subclause have been met; and
 
@@ -88,7 +88,7 @@
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Nothing in this section shall be construed to require or permit the disclosure of data provided to the Secretary that is otherwiseprotected from disclosure under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], section 1905 of title 18, or other applicable law.
+&emsp;&emsp;Nothing in this section shall be construed to require or permit the disclosure of data provided to the Secretary that is otherwise protected from disclosure under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], section 1905 of title 18, or other applicable law.
 
 #### (5) Evaluations
 

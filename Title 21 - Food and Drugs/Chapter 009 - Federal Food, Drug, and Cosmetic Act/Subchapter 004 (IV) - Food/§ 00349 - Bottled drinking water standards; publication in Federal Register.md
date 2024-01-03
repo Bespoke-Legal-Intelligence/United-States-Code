@@ -18,7 +18,7 @@
 
 &emsp;(i) specifying the contents of such regulation, including monitoring requirements; and
 
-&emsp;(ii) providing that for purposes of this paragraph the effective date for such regulation is the same as the effective date for the regulation for purposes of the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\] (or, if the exceptionunder paragraph (1) applies to the regulation, that the effective date for the regulation is not later than 2 years and 180 days after August 6, 1996).
+&emsp;(ii) providing that for purposes of this paragraph the effective date for such regulation is the same as the effective date for the regulation for purposes of the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\] (or, if the exception under paragraph (1) applies to the regulation, that the effective date for the regulation is not later than 2 years and 180 days after August 6, 1996).
 
 (June 25, 1938, ch. 675, §410, as added Pub. L. 93–523, §4, Dec. 16, 1974, 88 Stat. 1694; amended Pub. L. 104–182, title III, §305, Aug. 6, 1996, 110 Stat. 1684.)
 

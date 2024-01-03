@@ -30,7 +30,7 @@ The Commission shall establish, by rule, minimum criteria for the issuance of sp
 
 (3) The Commission is authorized to enter into agreements with licensees for such period of time as the Commission may deem necessary or desirable to distribute to such licensees such quantities of special nuclear material as may be necessary for the conduct of the licensed activity. In such agreements, the Commission may agree to repurchase any special nuclear material licensed and distributed by sale which is not consumed in the course of the licensed activity, or any uranium remaining after irradiation of such special nuclear material, at a repurchase price not to exceed the Commission's sale price for comparable special nuclear material or uranium in effect at the time of delivery of such material to the Commission.
 
-(4) The Commission may make a reasonable charge, determined pursuant to this section, forthe use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4) and shall make a reasonable charge determined pursuant to this section for the use of special nuclear material licensed and distributed by lease under subsection (a)(3). The Commission shall establish criteria in writing for the determination of whether special nuclear material will be distributed by grant and for the determination of whether a charge will be made for the use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4), considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the special nuclear material will be used.
+(4) The Commission may make a reasonable charge, determined pursuant to this section, for the use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4) and shall make a reasonable charge determined pursuant to this section for the use of special nuclear material licensed and distributed by lease under subsection (a)(3). The Commission shall establish criteria in writing for the determination of whether special nuclear material will be distributed by grant and for the determination of whether a charge will be made for the use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4), considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the special nuclear material will be used.
 
 #### (d) Determination of charges
 
@@ -76,7 +76,7 @@ The Commission is directed to distribute within the United States sufficient spe
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(4) and (e)(3) to (5), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+This chapter, referred to in subsecs. (a)(4) and (e)(3) to (5), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. Forcomplete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Prior Provisions
 
@@ -88,7 +88,7 @@ Provisions similar to this section were contained in section 1805(a)(4) of this 
 
 <b>1967</b>—Subsec. (c)(1). Pub. L. 90–190, §10, inserted "or through the provision of production or enrichment services" wherever appearing.
 
-Subsec. (f). Pub. L. 90–190, §9, struck out reference to the limitations on the distribution of special nuclearmaterials set by the President in determinations made pursuant to section 2061 of this title.
+Subsec. (f). Pub. L. 90–190, §9, struck out reference to the limitations on the distribution of special nuclear materials set by the President in determinations made pursuant to section 2061 of this title.
 
 <b>1964</b>—Subsec. (a). Pub. L. 88–489, §5, substituted "(i) to issue licenses to transfer or receive in interstate commerce, transfer, deliver, acquire, possess, own, receive possession of or title to, import, or export under the terms of an agreement for cooperation arranged pursuant to section 2153 of this title, special nuclear material, (ii) to make special nuclear material available for the period of the license, and, (iii)" for "to issue licenses for the possession of, to make available for the period of the license, and".
 

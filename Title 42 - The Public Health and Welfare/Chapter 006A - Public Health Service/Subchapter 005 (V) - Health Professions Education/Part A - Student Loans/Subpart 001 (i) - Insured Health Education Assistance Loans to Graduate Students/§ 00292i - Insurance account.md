@@ -20,7 +20,7 @@
 
 If at any time the moneys in the Account are insufficient to make payments in connection with the collection or default of any loan insured by the Secretary under this subpart, the Secretary of the Treasury may lend the Account such amounts as may be necessary to make the payments involved, subject to the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\].
 
-(July 1, 1944, ch. 373, title VII, §710, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2007; amended Pub. L. 105–392, title I, §143, Nov. 13, 1998, 112 Stat. 3581.)
+(July 1, 1944, ch. 373, title VII, §710, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106Stat. 2007; amended Pub. L. 105–392, title I, §143, Nov. 13, 1998, 112 Stat. 3581.)
 
 #### <b>Editorial Notes</b>
 

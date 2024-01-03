@@ -12,7 +12,7 @@
 
 &emsp;(C) provide low-interest loans to Indian tribes and tribal energy development organizations for use in the promotion of energy resource development on Indian land and integration of energy resources;
 
-&emsp;(D) provide grants and technical assistance to an appropriate tribal environmental organization, as determined by the Secretary, that represents multiple Indian tribes to establish a national resource center to develop tribal capacity to establish and carry out tribal environmental programs in support of energy-related programs and activities under this chapter, including—
+&emsp;(D) provide grants and technical assistance to an appropriate tribal environmental organization, as determined by the Secretary, that represents multiple Indian tribes to establish a national resource center to develop tribalcapacity to establish and carry out tribal environmental programs in support of energy-related programs and activities under this chapter, including—
 
 &emsp;&emsp;(i) training programs for tribal environmental officials, program managers, and other governmental representatives;
 
@@ -88,7 +88,7 @@ Technical and scientific resources.—In addition to providing grants to Indian 
 
 (C) In providing a grant under this subsection for an activity to provide, or expand the provision of, electricity on Indian land, the Director shall encourage cooperative arrangements between Indian tribes and utilities that provide service to Indian tribes, as the Director determines to be appropriate.
 
-(D) The Secretary of Energy may reduce any applicable cost share required of an Indian tribe, intertribal organization, or tribal energy development organization in order to receive a grantunder this subsection to not less than 10 percent if the Indian tribe, intertribal organization, or tribal energy development organization meets criteria developed by the Secretary of Energy, including financial need.
+(D) The Secretary of Energy may reduce any applicable cost share required of an Indian tribe, intertribal organization, or tribal energy development organization in order to receive a grant under this subsection to not less than 10 percent if the Indian tribe, intertribal organization, or tribal energy development organization meets criteria developed by the Secretary of Energy, including financial need.
 
 (E) Section 16352 of title 42 shall not apply to assistance provided under this subsection.
 

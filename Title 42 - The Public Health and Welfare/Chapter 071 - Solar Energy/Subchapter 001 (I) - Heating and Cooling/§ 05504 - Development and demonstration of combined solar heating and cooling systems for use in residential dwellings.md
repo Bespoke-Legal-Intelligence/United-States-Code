@@ -46,7 +46,7 @@ The Secretary and the Secretary of Defense, and officials responsible for admini
 
 #### Codification
 
-In subsec. (d), "subchapter II of chapter 201 of title 51" substituted for "title II of the National Aeronauticsand Space Act of 1958" on authority of Pub. L. 111–314, §5(e), Dec. 18, 2010, 124 Stat. 3443, which Act enacted Title 51, National and Commercial Space Programs.
+In subsec. (d), "subchapter II of chapter 201 of title 51" substituted for "title II of the National Aeronautics and Space Act of 1958" on authority of Pub. L. 111–314, §5(e), Dec. 18, 2010, 124 Stat. 3443, which Act enacted Title 51, National and Commercial Space Programs.
 
 #### Amendments
 

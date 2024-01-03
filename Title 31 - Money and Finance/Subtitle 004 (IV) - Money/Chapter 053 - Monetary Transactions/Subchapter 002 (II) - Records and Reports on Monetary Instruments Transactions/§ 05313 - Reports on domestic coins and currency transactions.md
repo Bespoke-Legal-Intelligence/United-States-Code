@@ -44,7 +44,7 @@ Discretionary Exemptions From Reporting Requirements.—
 
 &emsp;(1)
 
-In general.—The Secretary of the Treasury may exempt, pursuant to section 5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and a qualified business customerof the institution on the basis of information submitted to the Secretary by the institution in accordance with procedures which the Secretary shall establish.
+In general.—The Secretary of the Treasury may exempt, pursuant to section 5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and a qualified business customer of the institution on the basis of information submitted to the Secretary by the institution in accordance with procedures which the Secretary shall establish.
 
 &emsp;(2)
 
@@ -54,7 +54,7 @@ Qualified business customer defined.—For purposes of this subsection, the term
 
 &emsp;&emsp;(B) frequently engages in transactions with the depository institution which are subject to the reporting requirements of subsection (a); and
 
-&emsp;&emsp;(C) meets criteria which the Secretary determines are sufficient to ensure that the purposes of this subchapter are carried out without requiring a report with respect to such transactions.
+&emsp;&emsp;(C) meets criteria which the Secretary determines are sufficient to ensure that thepurposes of this subchapter are carried out without requiring a report with respect to such transactions.
 
 &emsp;(3)
 
@@ -250,7 +250,7 @@ Study required.—The Secretary shall conduct a study of—
 
 &emsp;"(2)
 
-Report required.—The Secretary of the Treasury shall submit a report to the Congress before theend of the 1-year period beginning on the date of enactment of this Act \[Oct. 26, 2001\] containing the findings and conclusions of the Secretary with regard to the study required under subsection (a), and such recommendations for legislative or administrative action as the Secretary determines to be appropriate."
+Report required.—The Secretary of the Treasury shall submit a report to the Congress before the end of the 1-year period beginning on the date of enactment of this Act \[Oct. 26, 2001\] containing the findings and conclusions of the Secretary with regard to the study required under subsection (a), and such recommendations for legislative or administrative action as the Secretary determines to be appropriate."
 
 #### Report Reduction Goal; Streamlined Currency Transaction Reports
 
@@ -262,7 +262,7 @@ Report Reduction Goal; Reports.—
 
 &emsp;"(1)
 
-In general.—In implementing the amendment made by subsection (a) \[amending this section\], the Secretary of the Treasury shall seek to reduce, within a reasonable period of time, the number of reports required to be filed in the aggregate by depository institutions pursuant to section 5313(a) of title 31, United States Code, by at least 30 percent of the number filed during the year preceding the date of enactment of this Act \[Sept. 23, 1994\].
+In general.—In implementing the amendment made by subsection (a) \[amending this section\], the Secretary of the Treasury shall seek to reduce, within a reasonable period of time, the number of reports required to be filed in the aggregate by depository institutions pursuant to section 5313(a) of title 31,United States Code, by at least 30 percent of the number filed during the year preceding the date of enactment of this Act \[Sept. 23, 1994\].
 
 &emsp;"(2)
 

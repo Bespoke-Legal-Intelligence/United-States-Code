@@ -244,7 +244,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) 0.18 parts per million of formaldehyde for any period after the effective date described in paragraph (1) and before July 1, 2011; and
 
-&emsp;&emsp;&emsp;(ii) 0.09 parts per million of formaldehyde, effective on the later of the effectivedate described in paragraph (1) or July 1, 2011.
+&emsp;&emsp;&emsp;(ii) 0.09 parts per million of formaldehyde, effective on the later of the effective date described in paragraph (1) or July 1, 2011.
 
 #### (3) Compliance with emission standards
 

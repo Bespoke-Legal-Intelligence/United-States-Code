@@ -16,7 +16,7 @@ In this chapter:
 
 #### (3) Exporting authority
 
-&emsp;The term "exporting authority" means 1 or more entities designated by a Participantfrom whose territory a shipment of rough diamonds is being exported as having the authority to validate the Kimberley Process Certificate.
+&emsp;The term "exporting authority" means 1 or more entities designated by a Participant from whose territory a shipment of rough diamonds is being exported as having the authority to validate the Kimberley Process Certificate.
 
 #### (4) Importing authority
 

@@ -72,7 +72,7 @@
 
 #### (1) In general
 
-&emsp;Based on the assessment required by subsection (a)(1)(A), the Administrator shall make such improvements to the watches andwarnings described in that subsection as the Administrator considers necessary—
+&emsp;Based on the assessment required by subsection (a)(1)(A), the Administrator shall make such improvements to the watches and warnings described in that subsection as the Administrator considers necessary—
 
 &emsp;&emsp;(A) to improve the communication of the risks posed by hazardous flash flood events; and
 

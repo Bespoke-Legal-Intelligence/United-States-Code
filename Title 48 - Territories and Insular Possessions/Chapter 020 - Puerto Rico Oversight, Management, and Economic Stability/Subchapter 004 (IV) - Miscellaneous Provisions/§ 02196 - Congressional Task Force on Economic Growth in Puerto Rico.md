@@ -48,7 +48,7 @@ Between September 1, 2016, and September 15, 2016, the Task Force shall provide 
 
 Not later than December 31, 2016, the Task Force shall issue a report of its findings to the House and Senate regarding—
 
-&emsp;(1) impediments in current Federal law and programs to economic growth in Puerto Ricoincluding equitable access to Federal health care programs;
+&emsp;(1) impediments in current Federal law and programs to economic growth in Puerto Rico including equitable access to Federal health care programs;
 
 &emsp;(2) recommended changes to Federal law and programs that, if adopted, would serve to spur sustainable long-term economic growth, job creation, reduce child poverty, and attract investment in Puerto Rico;
 

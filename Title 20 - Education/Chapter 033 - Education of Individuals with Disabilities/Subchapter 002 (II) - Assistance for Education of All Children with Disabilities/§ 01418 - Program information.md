@@ -30,7 +30,7 @@ Each State that receives assistance under this subchapter, and the Secretary of 
 
 &emsp;(F) The number of due process complaints filed under section 1415 of this title and the number of hearings conducted.
 
-&emsp;(G) The number of hearings requested under section 1415(k) of this title and the number of changes in placements ordered as a result of those hearings.
+&emsp;(G) The number of hearings requested under section 1415(k) of this title and the number ofchanges in placements ordered as a result of those hearings.
 
 &emsp;(H) The number of mediations held and the number of settlement agreements reached through such mediations.
 

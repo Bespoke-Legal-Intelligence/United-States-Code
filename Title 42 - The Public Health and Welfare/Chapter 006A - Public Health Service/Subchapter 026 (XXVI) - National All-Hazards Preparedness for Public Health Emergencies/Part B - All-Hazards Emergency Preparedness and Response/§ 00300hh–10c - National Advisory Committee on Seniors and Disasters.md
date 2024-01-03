@@ -64,11 +64,19 @@ The Secretary shall coordinate duties and activities authorized under this secti
 
 #### (1) In general
 
-&emsp;The Advisory Committee shall terminate on September 30, 2023.
+&emsp;The Advisory Committee shall terminate on January 19, 2024.
 
 #### (2) Extension of Committee
 
 &emsp;Not later than October 1, 2022, the Secretary shall submit to Congress a recommendation on whether the Advisory Committee should be extended.
 
-(July 1, 1944, ch. 373, title XXVIII, §2811B, as added Pub. L. 116–22, title III, §305(b), June 24, 2019, 133 Stat. 938.)
+(July 1, 1944, ch. 373, title XXVIII, §2811B, as added Pub. L. 116–22, title III, §305(b), June 24, 2019, 133 Stat. 938; amended Pub. L. 118–15, div. B, title III, §2333(b), Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, §203(d)(2), Nov. 17, 2023, 137 Stat. 121.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2023</b>—Subsec. (g)(1). Pub. L. 118–22 substituted "January 19, 2024" for "November 17, 2023".
+
+Pub. L. 118–15 substituted "November 17, 2023" for "September 30, 2023".
 

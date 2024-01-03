@@ -12,7 +12,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (B) Application within 30 days of show-cause order
 
-&emsp;&emsp;An alien who, at any time during the first 11 months of the 12-month period described in subparagraph (A), is the subject of an order to show cause issued under section 1252 of this title (as in effect before October 1, 1996), must make application under this section not later than the end of the 30-day period beginning either on the first day of such 12-month period or on the date of the issuance of such order, whichever day is later.
+&emsp;&emsp;An alien who, at any time during the first 11 months of the 12-month period described in subparagraph (A), is the subject of anorder to show cause issued under section 1252 of this title (as in effect before October 1, 1996), must make application under this section not later than the end of the 30-day period beginning either on the first day of such 12-month period or on the date of the issuance of such order, whichever day is later.
 
 #### (C) Information included in application
 
@@ -234,7 +234,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;&emsp;&emsp;(I) Paragraphs (2)(A) and (2)(B) (relating to criminals).
 
-&emsp;&emsp;&emsp;&emsp;(II) Paragraph (2)(C) (relating to drug offenses), except for so much of such paragraph as relates to a single offense of simple possession of 30 grams or less of marihuana.
+&emsp;&emsp;&emsp;&emsp;(II) Paragraph (2)(C) (relating to drug offenses), except for so much of such paragraph as relates to a single offenseof simple possession of 30 grams or less of marihuana.
 
 &emsp;&emsp;&emsp;&emsp;(III) Paragraph (3) (relating to security and related grounds).
 
@@ -254,7 +254,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (1) Before application period
 
-&emsp;The Attorney General shall provide that in the case of an alien who is apprehended before the beginning of the application period described in subsection (a)(1)(A) and who can establish a prima facie case of eligibility to havehis status adjusted under subsection (a) (but for the fact that he may not apply for such adjustment until the beginning of such period), until the alien has had the opportunity during the first 30 days of the application period to complete the filing of an application for adjustment, the alien—
+&emsp;The Attorney General shall provide that in the case of an alien who is apprehended before the beginning of the application period described in subsection (a)(1)(A) and who can establish a prima facie case of eligibility to have his status adjusted under subsection (a) (but for the fact that he may not apply for such adjustment until the beginning of such period), until the alien has had the opportunity during the first 30 days of the application period to complete the filing of an application for adjustment, the alien—
 
 &emsp;&emsp;(A) may not be deported, and
 
@@ -330,7 +330,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (C) Waivers of certain absences
 
-&emsp;&emsp;The Attorney General may provide for a waiver, in the discretion of the Attorney General, of the periods specified under subparagraph (A) in the case of an absence fromthe United States due merely to a brief temporary trip abroad required by emergency or extenuating circumstances outside the control of the alien.
+&emsp;&emsp;The Attorney General may provide for a waiver, in the discretion of the Attorney General, of the periods specified under subparagraph (A) in the case of an absence from the United States due merely to a brief temporary trip abroad required by emergency or extenuating circumstances outside the control of the alien.
 
 #### (D) Use of certain documentation
 
@@ -386,7 +386,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (i) Limitation to emergency services and services for pregnant women
 
-&emsp;&emsp;&emsp;Notwithstanding any provision of title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] (including subparagraphs (B) and (C) of section 1902(a)(10) of such Act \[42 U.S.C. 1396a(a)(10)(B), (C)\]), aliens who, but for subparagraph (A), would be ineligible for medical assistance under paragraph (1), are only eligible for such assistance with respect to—
+&emsp;&emsp;&emsp;Notwithstanding any provision of title XIX of the Social Security Act \[42 U.S.C.1396 et seq.\] (including subparagraphs (B) and (C) of section 1902(a)(10) of such Act \[42 U.S.C. 1396a(a)(10)(B), (C)\]), aliens who, but for subparagraph (A), would be ineligible for medical assistance under paragraph (1), are only eligible for such assistance with respect to—
 
 &emsp;&emsp;&emsp;&emsp;(I) emergency services (as defined for purposes of section 1916(a)(2)(D) of the Social Security Act \[42 U.S.C. 1396o(a)(2)(D)\]), and
 
@@ -448,7 +448,7 @@ Section 404 of the Immigration Reform and Control Act of 1986, referred to in su
 
 Section 1105a of this title, referred to in subsec. (f)(4)(A), was repealed by Pub. L. 104–208, div. C, title III, §306(b), Sept. 30, 1996, 110 Stat. 3009–612.
 
-The Social Security Act, referred to in subsec. (h)(1)(A), (2)(B), (3)(A)(ii), (B)(i), (C), (4)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A, B, D, and E of title IV of the Social Security Act are classified generally to parts A (§601 et seq.), B (§620 et seq.), D (§651 et seq.), and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles I, V, X, XIV, XVI, XIX, and XX of the Social Security Act are classified generally to subchapters I (§301 et seq.), V (§701 et seq.), X (§1201 et seq.), XIV (§1351 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (h)(1)(A), (2)(B), (3)(A)(ii), (B)(i), (C), (4)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A, B, D, and E of title IV of the Social Security Act are classified generally to parts A (§601 et seq.), B (§620 et seq.), D (§651 et seq.), and E (§670 et seq.), respectively, of subchapter IV ofchapter 7 of Title 42, The Public Health and Welfare. Titles I, V, X, XIV, XVI, XIX, and XX of the Social Security Act are classified generally to subchapters I (§301 et seq.), V (§701 et seq.), X (§1201 et seq.), XIV (§1351 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 301 of the Social Security Amendments of 1972, referred to in subsec. (h)(4)(I), is section 301 of Pub. L. 92–603, title III, Oct. 30, 1972, 86 Stat. 1465, which enacted sections 1381 to 1382e and 1383 to 1383c of Title 42.
 
@@ -682,7 +682,7 @@ Pub. L. 100–204, title IX, §902, Dec. 22, 1987, 101 Stat. 1400, provided that
 
 "(a)
 
-Adjustment of Status.—The status of any alien who is a national of a foreign country the nationals of which were provided (or allowed to continue in) 'extended voluntary departure' by the Attorney General on the basis of a nationality group determination at any time during the 5-year period ending on November 1, 1987, shall be adjusted by the Attorney General to that of an alien lawfully admitted for temporary residence if the alien—
+Adjustment of Status.—The status of any alien who is a national of a foreign country the nationals of which were provided (or allowed to continue in) 'extended voluntary departure' by the Attorney General on the basis of a nationality group determination at any time during the 5-year period ending on November 1, 1987, shall be adjusted by the Attorney General tothat of an alien lawfully admitted for temporary residence if the alien—
 
 &emsp;"(1) applies for such adjustment within two years after the date of the enactment of this Act \[Dec. 22, 1987\];
 
@@ -704,7 +704,7 @@ Similar provisions were contained in Pub. L. 100–202, §101(a) \[title IX, §�
 
 #### Procedures for Property Acquisition or Leasing
 
-Pub. L. 99–603, title II, §201(c)(1), Nov. 6, 1986, 100 Stat. 3403, provided that notwithstanding Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Attorney General was authorized for period of up to two years after effective date of legalization program, to expend from appropriation provided for administration and enforcement of this chapter,such amounts necessary for leasing or acquisition of property in fulfillment of section 201 of Pub. L. 99–603, which enacted this section and amended sections 602, 672, and 673 of Title 42, The Public Health and Welfare.
+Pub. L. 99–603, title II, §201(c)(1), Nov. 6, 1986, 100 Stat. 3403, provided that notwithstanding Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Attorney General was authorized for period of up to two years after effective date of legalization program, to expend from appropriation provided for administration and enforcement of this chapter, such amounts necessary for leasing or acquisition of property in fulfillment of section 201 of Pub. L. 99–603, which enacted this section and amended sections 602, 672, and 673 of Title 42, The Public Health and Welfare.
 
 #### Use of Retired Federal Employees
 

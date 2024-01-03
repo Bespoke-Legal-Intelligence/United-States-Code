@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 Pub. L. 111–11, title VII, subtitle D, §7303(a), (c)(1), Mar. 30, 2009, 123 Stat. 1216, 1217.
 
-In subsection (a), the words "The purpose of this section is to authorize within the Department of the Interior the Save America's Treasures Program" are omitted as unnecessary. The words "to be carried out by the Director of the National Park Service" are omitted because the definition of "Secretary" in section 308901 of the new title provides that the Secretary acts through the Director and because this is the only place in the chapter where the Director is mentioned.
+In subsection (a), the words "The purpose of this section is to authorize within the Department of the Interior the Save America's Treasures Program" are omitted as unnecessary. The words "to be carried out by theDirector of the National Park Service" are omitted because the definition of "Secretary" in section 308901 of the new title provides that the Secretary acts through the Director and because this is the only place in the chapter where the Director is mentioned.
 
 In subsection (b), the words "subject to paragraph (6)(A)(ii)" are omitted as unnecessary.
 

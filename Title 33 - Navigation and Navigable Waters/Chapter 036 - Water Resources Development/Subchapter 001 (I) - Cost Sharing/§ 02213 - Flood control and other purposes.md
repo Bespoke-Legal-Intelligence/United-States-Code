@@ -56,7 +56,7 @@ The non-Federal share of the cost assigned to other project purposes shall be as
 
 #### (1) Construction
 
-&emsp;Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to private interests) orto prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
+&emsp;Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to private interests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
 
 #### (2) Periodic nourishment
 
@@ -136,7 +136,7 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 #### (2) Elements of agreement
 
-&emsp;The agreement required pursuant to paragraph (1) shall be in accordance with the requirements of section 1962d–5b of title 42 and shall provide for the rights and duties of the United States and the non-Federal interest with respect to the construction, operation, and maintenance of the project, including, but not limited to, provisions specifying that, inthe event the non-Federal interest fails to provide the required non-Federal share of costs for such work, the Secretary—
+&emsp;The agreement required pursuant to paragraph (1) shall be in accordance with the requirements of section 1962d–5b of title 42 and shall provide for the rights and duties of the United States and the non-Federal interest with respect to the construction, operation, and maintenance of the project, including, but not limited to, provisions specifying that, in the event the non-Federal interest fails to provide the required non-Federal share of costs for such work, the Secretary—
 
 &emsp;&emsp;(A) shall terminate or suspend work on the project unless the Secretary determines that continuation of the work is in the interest of the United States or is necessary in order to satisfy agreements with other non-Federal interests in connection with the project; and
 
@@ -250,7 +250,7 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 #### (4) Non-Federal share
 
-&emsp;Notwithstanding subsection (a), the Secretary may reduce the requirement that a non-Federal interest make a cash contribution for any project that is determined to be eligible for a reduction in the non-Federal share under criteria and procedures in effect under paragraphs (1), (2), and (3).
+&emsp;Notwithstanding subsection (a), the Secretary may reduce the requirement that a non-Federal interest make a cash contributionfor any project that is determined to be eligible for a reduction in the non-Federal share under criteria and procedures in effect under paragraphs (1), (2), and (3).
 
 #### (n) Non-Federal contributions
 
@@ -294,7 +294,7 @@ Subsec. (l). Pub. L. 117–263, §8385, struck out "initial" before "payment" in
 
 <b>2020</b>—Subsec. (b). Pub. L. 116–260, §115(b)(1), substituted "Projects using nonstructural, natural, or nature-based features" for "Nonstructural flood control projects" in heading.
 
-Subsec. (b)(1). Pub. L. 116–260, §115(b)(2), substituted "a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (asthose terms are defined in section 2289a(a) of this title)," for "nonstructural flood control measures" and "cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent" for "cash during construction of the project".
+Subsec. (b)(1). Pub. L. 116–260, §115(b)(2), substituted "a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are defined in section 2289a(a) of this title)," for "nonstructural flood control measures" and "cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent" for "cash during construction of the project".
 
 Subsec. (j)(1). Pub. L. 116–260, §143, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
@@ -380,7 +380,7 @@ Pub. L. 101–640, title III, §305(b), Nov. 28, 1990, 104 Stat. 4635, provided 
 
 #### Reports to Congress
 
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 401, provided that: "The Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after a written request is made pursuant to the provisions of subsection (m) of section 103 of Public Law 99–662 \[33 U.S.C. 2213(m)\] indicating the action taken onthe request. In addition, the Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after enactment of this Act \[July 11, 1987\] listing any project or study falling under the provisions of subsection (e)(1) of section 103 of Public Law 99–662."
+Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 401, provided that: "The Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after a written request is made pursuant to the provisions of subsection (m) of section 103 of Public Law 99–662 \[33 U.S.C. 2213(m)\] indicating the action taken on the request. In addition, the Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after enactment of this Act \[July 11, 1987\] listing any project or study falling under the provisions of subsection (e)(1) of section 103 of Public Law 99–662."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

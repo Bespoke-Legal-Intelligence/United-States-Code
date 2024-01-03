@@ -56,7 +56,7 @@ MTM services provided by licensed pharmacists under a grant or contract awarded 
 
 #### (e) Consultation with experts
 
-In designing and implementing MTM services provided under grants or contracts awarded under subsection (a), the Secretary shall consult with Federal, State, private, public-private, and academic entities, pharmacy and pharmacist organizations, health care organizations, consumer advocates, chronic disease groups, and other stakeholders involved with the research, dissemination, and implementation of pharmacist-delivered MTM services, as the Secretary determines appropriate. The Secretary, in collaboration with this group, shall determinewhether it is possible to incorporate rapid cycle process improvement concepts in use in other Federal programs that have implemented MTM services.
+In designing and implementing MTM services provided under grants or contracts awarded under subsection (a), the Secretary shall consult with Federal, State, private, public-private, and academic entities, pharmacy and pharmacist organizations, health care organizations, consumer advocates, chronic disease groups, and other stakeholders involved with the research, dissemination, and implementation of pharmacist-delivered MTM services, as the Secretary determines appropriate. The Secretary, in collaboration with this group, shall determine whether it is possible to incorporate rapid cycle process improvement concepts in use in other Federal programs that have implemented MTM services.
 
 #### (f) Reporting to the Secretary
 

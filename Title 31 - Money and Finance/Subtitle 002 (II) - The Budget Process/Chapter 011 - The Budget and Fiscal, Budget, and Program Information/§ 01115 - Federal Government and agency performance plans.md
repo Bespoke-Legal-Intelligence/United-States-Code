@@ -130,7 +130,7 @@ Definitions.—For purposes of this section and sections 1116 through 1125, and 
 
 &emsp;(8) "output measure" means the tabulation, calculation, or recording of activity or effort that can be expressed in a quantitative or qualitative manner;
 
-&emsp;(9) "performance goal" means a target level of performance expressed as a tangible, measurable objective, against which actual achievement can be compared, including agoal expressed as a quantitative standard, value, or rate;
+&emsp;(9) "performance goal" means a target level of performance expressed as a tangible, measurable objective, against which actual achievement can be compared, including a goal expressed as a quantitative standard, value, or rate;
 
 &emsp;(10) "performance indicator" means a particular value or characteristic used to measure output or outcome;
 
@@ -212,7 +212,7 @@ Requirements.—Each agency shall—
 
 Quarterly reviews.—The quarterly priority progress reviews required under this Act shall begin—
 
-&emsp;&emsp;"(A) with the first full quarter beginning on or after the date of enactment of this Act \[Jan. 4, 2011\] for agencies based on the agency priority goals contained in the Analytical Perspectives volume of the Fiscal Year 2011 Budget of the United States Government; and
+&emsp;&emsp;"(A) with the first full quarter beginning on or after the date of enactment of this Act \[Jan. 4, 2011\]for agencies based on the agency priority goals contained in the Analytical Perspectives volume of the Fiscal Year 2011 Budget of the United States Government; and
 
 &emsp;&emsp;"(B) with the quarter ending June 30, 2012 for the interim Federal Government priority goals.
 
@@ -356,7 +356,7 @@ Sec. 5. <i>Duties of Agency Performance Improvement Officers</i>. Subject to the
 
 (A) sufficiently aggressive toward full achievement of the purposes of the program; and
 
-(B) realistic in light of authority and resources assigned to the specified agency personnel referred to insection 3(a)(ii)(A) of this order with respect to that program; and
+(B) realistic in light of authority and resources assigned to the specified agency personnel referred to in section 3(a)(ii)(A) of this order with respect to that program; and
 
 (ii) means for measurement of progress toward achievement of the goals are sufficiently rigorous and accurate;
 

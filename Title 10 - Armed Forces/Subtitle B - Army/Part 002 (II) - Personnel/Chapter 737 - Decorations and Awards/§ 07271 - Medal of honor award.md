@@ -42,7 +42,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Review of World War I Valor Medals
 
-Pub. L. 116–92, div. A, title V, §584, Dec. 20, 2019, 133 Stat. 1412, as amended by Pub. L. 116–283, div. A, title V, §561(a), Jan. 1, 2021, 134 Stat. 3639, provided that:
+Pub. L. 116–92, div. A, title V, §584, Dec. 20, 2019, 133 Stat. 1412, as amended by Pub. L. 116–283, div. A, title V, §561(a), Jan. 1, 2021, 134 Stat. 3639; Pub. L. 118–31, div. A, title V, §593, Dec. 22, 2023, 137 Stat. 286, provided that:
 
 "(a)
 
@@ -80,7 +80,7 @@ Waiver of Time Limitations.—An award of the Medal of Honor may be made under s
 
 "(f)
 
-Deadline.—The review under subsection (a) shall terminate not later than six years after the date of the enactment of this Act \[Dec. 20, 2019\].
+Deadline.—The review under subsection (a) shall terminate not later than December 31, 2028.
 
 "(g)
 

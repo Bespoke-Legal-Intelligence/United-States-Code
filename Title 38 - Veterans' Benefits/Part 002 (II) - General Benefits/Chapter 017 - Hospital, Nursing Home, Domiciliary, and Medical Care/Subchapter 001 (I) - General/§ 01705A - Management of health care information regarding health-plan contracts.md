@@ -4,7 +4,7 @@
 
 In General.—(1) Any individual who seeks hospital care or medical services under this chapter shall provide to the Secretary such current information as the Secretary may require to identify any health-plan contract under which such individual is covered.
 
-(2) The information required to be provided to the Secretary under paragraph (1) with respectto a health-plan contract shall include, as applicable, the following:
+(2) The information required to be provided to the Secretary under paragraph (1) with respect to a health-plan contract shall include, as applicable, the following:
 
 &emsp;(A) The name of the entity providing coverage under the health-plan contract.
 

@@ -192,7 +192,7 @@ Section 322 of title 40, referred to in subsec. (h)(2), was repealed by Pub. L. 
 
 A prior section 3504, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2815; amended Pub. L. 98–497, title I, §107(b)(26), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 99–500, §101(m) \[title VIII, §§814, 821(b)(2)\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–336, 1783–342, and Pub. L. 99–591, §101(m) \[title VIII, §§814, 821(b)(2)\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–336, 3341–342, related to authority and functions of Director prior to the general amendment of this chapter by Pub. L. 104–13.
 
-Another prior section 3504, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, provided for designation of a centralcollection agency, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3509 of this title.
+Another prior section 3504, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, provided for designation of a central collection agency, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3509 of this title.
 
 #### Amendments
 
@@ -276,7 +276,7 @@ Pub. L. 105–277, div. C, title XVII, Oct. 21, 1998, 112 Stat. 2681–749, prov
 
 "(a)
 
-In General.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41, Public Contracts\] and the amendments made by that Act, and the provisions ofthis title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
+In General.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41, Public Contracts\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
 
 "(b)
 
@@ -296,7 +296,7 @@ Requirements for Procedures.—(1) The procedures developed under subsection (a)
 
 #### "SEC. 1704. DEADLINE FOR IMPLEMENTATION BY EXECUTIVE AGENCIES OF PROCEDURES FOR USE AND ACCEPTANCE OF ELECTRONIC SIGNATURES.
 
-"In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall ensure that, commencing not later than five years after the date of enactment of this Act \[Oct. 21, 1998\], Executive agencies provide—
+"In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41\] and the amendments made by that Act,and the provisions of this title, the Director of the Office of Management and Budget shall ensure that, commencing not later than five years after the date of enactment of this Act \[Oct. 21, 1998\], Executive agencies provide—
 
 &emsp;"(1) for the option of the electronic maintenance, submission, or disclosure of information, when practicable as a substitute for paper; and
 

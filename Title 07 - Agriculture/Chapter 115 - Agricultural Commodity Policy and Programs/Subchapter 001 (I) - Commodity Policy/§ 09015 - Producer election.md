@@ -48,7 +48,7 @@ The Secretary shall ensure that producers on a farm do not reconstitute the farm
 
 #### (1) In general
 
-&emsp;In the case of acres allocated to seed cotton on a farm, for the 2018 crop year, all of the producers on the farm shall be given the opportunity to make a new 1-time election under subsection (a) to reflect the designation of seed cotton as a covered commodity for that crop year under section 9011(6)(B) of this title.
+&emsp;In the case of acres allocated to seed cotton on a farm, for the 2018 crop year, all of the producers on the farm shall be given the opportunity to make a new 1-time election undersubsection (a) to reflect the designation of seed cotton as a covered commodity for that crop year under section 9011(6)(B) of this title.
 
 #### (2) Effect of failure to make unanimous election
 
@@ -68,9 +68,13 @@ The Secretary shall ensure that producers on a farm do not reconstitute the farm
 
 &emsp;&emsp;(B) each crop year thereafter until another election change is made under that paragraph.
 
-(Pub. L. 113–79, title I, §1115, Feb. 7, 2014, 128 Stat. 667; Pub. L. 115–123, div. F, §60101(a)(7),Feb. 9, 2018, 132 Stat. 309; Pub. L. 115–334, title I, §1105, Dec. 20, 2018, 132 Stat. 4503.)
+(Pub. L. 113–79, title I, §1115, Feb. 7, 2014, 128 Stat. 667; Pub. L. 115–123, div. F, §60101(a)(7), Feb. 9, 2018, 132 Stat. 309; Pub. L. 115–334, title I, §1105, Dec. 20, 2018, 132 Stat. 4503.)
 
 #### <b>Editorial Notes</b>
+
+#### Codification
+
+Provisions of law applicable to a covered commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that covered commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
 #### Amendments
 

@@ -48,7 +48,7 @@ The authority to carry out a program under this section shall terminate on the d
 
 #### References in Text
 
-Section 1501 of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (b)(5), is section 1501 of Pub. L. 117–81, div. A, title XV, Dec. 27, 2021, 135 Stat. 2020, related to development of taxonomyof cyber capabilities, which is not classified to the Code.
+Section 1501 of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (b)(5), is section 1501 of Pub. L. 117–81, div. A, title XV, Dec. 27, 2021, 135 Stat. 2020, related to development of taxonomy of cyber capabilities, which is not classified to the Code.
 
 #### Codification
 

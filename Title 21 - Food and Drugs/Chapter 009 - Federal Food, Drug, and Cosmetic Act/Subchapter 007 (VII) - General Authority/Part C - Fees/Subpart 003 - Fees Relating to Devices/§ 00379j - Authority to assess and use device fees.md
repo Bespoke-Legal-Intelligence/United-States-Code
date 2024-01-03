@@ -116,7 +116,7 @@
 
 #### (III) Firms submitting tax returns to the United States Internal Revenue Service
 
-&emsp;&emsp;&emsp;&emsp;The establishment shall support its claim that it meets the definition under subclause (I) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, which show an amount of gross sales or receipts that is less than the maximum established in subclause (I). The establishment, and each of such affiliates, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for any affiliate, the establishment shall certify that the establishment has no affiliates.
+&emsp;&emsp;&emsp;&emsp;The establishment shall support its claim that it meets the definition under subclause (I) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, which show an amount of gross sales or receipts that is less than the maximum established in subclause (I). The establishment, and each of such affiliates, shall certify thatthe information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for any affiliate, the establishment shall certify that the establishment has no affiliates.
 
 #### (IV) Firms not submitting tax returns to the United States Internal Revenue Service
 
@@ -261,7 +261,7 @@
 
 #### (ii) De novo classification request amount
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (A), with respect to the De Novo Decision goal, theamounts determined under this subparagraph are as follows:
+&emsp;&emsp;&emsp;For purposes of subparagraph (A), with respect to the De Novo Decision goal, the amounts determined under this subparagraph are as follows:
 
 &emsp;&emsp;&emsp;&emsp;(I) For fiscal year 2026, $6,323,500 if such goal for fiscal year 2023 is met.
 
@@ -279,7 +279,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) For fiscal year 2027:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) $1,020,000 if the 4 goals for fiscal year 2023 are met and one or more of the 4 goals for fiscal year 2024 are not met.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) $1,020,000 if the 4 goals for fiscal year 2023 are met and one or more ofthe 4 goals for fiscal year 2024 are not met.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) $3,906,000 if the 4 goals for fiscal year 2024 are met.
 
@@ -357,7 +357,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For each of fiscal years 2023 through 2027, after the adjustments under paragraphs (2), (3), (4), and (5), if applicable, if the Secretary has operating reserves of carryover user fees for the process for the review of device applications in excess of the designated amount in subparagraph (B), the Secretary shall decrease the base establishment registration fee amounts to provide for not more thansuch designated amount of operating reserves.
+&emsp;&emsp;For each of fiscal years 2023 through 2027, after the adjustments under paragraphs (2), (3), (4), and (5), if applicable, if the Secretary has operating reserves of carryover user fees for the process for the review of device applications in excess of the designated amount in subparagraph (B), the Secretary shall decrease the base establishment registration fee amounts to provide for not more than such designated amount of operating reserves.
 
 #### (B) Designated amount
 
@@ -413,7 +413,7 @@
 
 #### (C) Reduced fees
 
-&emsp;&emsp;Where the Secretary finds that the applicant involved meets the definition undersubparagraph (A), the fees established under subsection (c)(1) may be paid at a reduced rate of—
+&emsp;&emsp;Where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fees established under subsection (c)(1) may be paid at a reduced rate of—
 
 &emsp;&emsp;&emsp;(i) 25 percent of the fee established under such subsection for a premarket application, a premarket report, a supplement, periodic reporting concerning a class III device, or a de novo classification request; and
 
@@ -479,7 +479,7 @@
 
 #### (2) Authority
 
-&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, de novo classification requests, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
+&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscalyear because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, de novo classification requests, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
 
 #### (3) Limitation
 
@@ -703,7 +703,7 @@ Subsec. (a)(3)(C). Pub. L. 112–144, §203(a)(3)(B), substituted "later of—" 
 
 Subsec. (b). Pub. L. 112–144, §203(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) listed fee amounts for fiscal years 2008 to 2012.
 
-Subsec. (c). Pub. L. 112–144, §203(c), inserted "; adjustments" after "setting" in heading, added pars.\(1) to (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former pars. (1) and (2) which related to annual publication and adjustment of fees.
+Subsec. (c). Pub. L. 112–144, §203(c), inserted "; adjustments" after "setting" in heading, added pars. (1) to (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former pars. (1) and (2) which related to annual publication and adjustment of fees.
 
 Subsecs. (f) to (h). Pub. L. 112–144, §203(d), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
 
@@ -723,7 +723,7 @@ Subsec. (i)(2)(C). Pub. L. 112–144, §203(f)(2)(B), added subpar. (C).
 
 Subsec. (i)(3). Pub. L. 112–144, §203(f)(3), amended par. (3) generally. Prior to amendment, par. (3) authorized appropriations for fiscal years 2008 to 2012.
 
-Subsec. (i)(4). Pub. L. 112–144, §203(f)(4), substituted "fiscal years 2013, 2014, and 2015" for "fiscal years 2008, 2009, and 2010", "fiscal year 2016" for "fiscal year 2011", "June 30, 2016" for "June 30, 2011", "the cumulative amount appropriated pursuant to" for "the amount of fees specified in aggregate in", and "fiscal year 2017" for "fiscal year 2012" and struck out "aggregate amount in" before "excess shall be credited".
+Subsec. (i)(4). Pub. L. 112–144, §203(f)(4), substituted "fiscal years 2013, 2014, and 2015" for "fiscal years 2008, 2009, and 2010", "fiscal year 2016" for "fiscal year 2011","June 30, 2016" for "June 30, 2011", "the cumulative amount appropriated pursuant to" for "the amount of fees specified in aggregate in", and "fiscal year 2017" for "fiscal year 2012" and struck out "aggregate amount in" before "excess shall be credited".
 
 Subsecs. (j) to (l). Pub. L. 112–144, §203(d)(1), redesignated subsecs. (i) to (k) as (j) to (l), respectively.
 
@@ -789,7 +789,7 @@ Subsec. (f). Pub. L. 110–85, §212(f), amended subsec. (f) generally. Prior to
 
 Subsec. (g)(1). Pub. L. 110–85, §212(g)(1), added par. (1) and struck out former par. (1). Prior to amendment, par. (1) related to performance goals for fiscal years 2003 through 2005, with respect to the amount appropriated under the salaries and expenses account of the Food and Drug Administration, for devices and radiological products, and termination of the program after fiscal year 2005.
 
-Subsec. (g)(2). Pub. L. 110–85, §212(g)(2), amended par. (2) generally. Prior to amendment, text read as follows: "If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal year because of subparagraph (C) or (D) of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, and premarket notification submissions, and at any time in such fiscal year, notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid."
+Subsec. (g)(2). Pub. L. 110–85, §212(g)(2), amended par. (2) generally. Prior to amendment, text read as follows: "If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal year because of subparagraph (C) or (D) of paragraph (1) and if at a later date in such fiscal year the Secretary mayassess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, and premarket notification submissions, and at any time in such fiscal year, notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid."
 
 Subsec. (h)(3). Pub. L. 110–85, §212(h)(1), amended par. (3) generally, substituting provisions authorizing appropriations for fiscal years 2008 to 2012 for provisions authorizing appropriations for fiscal years 2003 to 2007.
 

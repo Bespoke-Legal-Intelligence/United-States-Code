@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 103–324, §4, Sept. 21, 1994, 108 Stat. 2157, which reaffirmed Federal recognition of the LittleTraverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians and provided for the bands and their members to be eligible for all services and benefits provided by the Federal Government to Indians because of their federally recognized status, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 103–324, §4, Sept. 21, 1994, 108 Stat. 2157, which reaffirmed Federal recognition of the Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians and provided for the bands and their members to be eligible for all services and benefits provided by the Federal Government to Indians because of their federally recognized status, was omitted from the Code as being of special and not general application.
 

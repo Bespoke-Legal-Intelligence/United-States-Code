@@ -130,7 +130,7 @@ Pub. L. 111–294, §2, Dec. 9, 2010, 124 Stat. 3177, provided that: "The Congre
 
 &emsp;"(7) Serious criminal acts of extreme animal cruelty are integral to the creation, sale, distribution, advertising, marketing, and exchange of animal crush videos.
 
-&emsp;"(8) The creation, sale, distribution, advertising, marketing, and exchange of animal crush videos is intrinsically related and integral to creating an incentive for, directly causing, and perpetuating demand for the serious acts of extreme animal cruelty thevideos depict. The primary reason for those criminal acts is the creation, sale, distribution, advertising, marketing, and exchange of the animal crush video image.
+&emsp;"(8) The creation, sale, distribution, advertising, marketing, and exchange of animal crush videos is intrinsically related and integral to creating an incentive for, directly causing, and perpetuating demand for the serious acts of extreme animal cruelty the videos depict. The primary reason for those criminal acts is the creation, sale, distribution, advertising, marketing, and exchange of the animal crush video image.
 
 &emsp;"(9) The serious acts of extreme animal cruelty necessary to make animal crush videos are committed in a clandestine manner that—
 

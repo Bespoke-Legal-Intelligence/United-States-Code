@@ -57,7 +57,7 @@ Contract for the production of a major defense acquisition program.—The term '
 
 &emsp;&emsp;"(A) means a prime contract for the production of a major defense acquisition program; and
 
-&emsp;&emsp;"(B) does not include individual line items for segregable efforts or contracts for the incremental improvement of systems that are already in production (other than contracts for major upgrades that are themselves major defense acquisition programs).
+&emsp;&emsp;"(B) does not include individual line items for segregable efforts or contracts for the incrementalimprovement of systems that are already in production (other than contracts for major upgrades that are themselves major defense acquisition programs).
 
 "(d)
 

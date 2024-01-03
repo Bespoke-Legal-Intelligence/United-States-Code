@@ -66,7 +66,7 @@ For the purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) taking into account whether a signal is in standard definition format or high definition format, compression methodology, modulation, error correction, power level, and utilization of advances in technology that do not circumvent the intent of this section to provide for non-discriminatory treatment with respect to any comparable television broadcast station signal, a video signal transmitted by a satellite carrier such that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the satellite carrier treats all television broadcast stations' signals the same with respect to statistical multiplexer prioritization; and
+&emsp;&emsp;&emsp;&emsp;(I) the satellite carrier treats all television broadcast stations' signals thesame with respect to statistical multiplexer prioritization; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the number of video signals in the relevant satellite transponder is not more than the then current greatest number of video signals carried on any equivalent transponder serving the top 100 designated market areas.
 

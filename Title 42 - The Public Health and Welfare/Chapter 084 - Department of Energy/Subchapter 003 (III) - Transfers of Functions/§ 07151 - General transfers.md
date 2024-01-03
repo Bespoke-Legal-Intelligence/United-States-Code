@@ -26,7 +26,7 @@ By virtue of the authority vested in me as President of the United States of Ame
 
 Section 1. <i>Functions of the Federal Energy Administration</i>. In accordance with the transfer of all functions vested by law in the Federal Energy Administration, or the Administrator thereof, to the Secretary of Energy pursuant to Section 301(a) of the Department of Energy Organization Act \[subsec. (a) of this section\], hereinafter referred to as the Act, the Executive Orders and Proclamations referred to in this Section, which conferred authority or responsibility upon the Administrator of the Federal Energy Administration, are amended as follows:
 
-(a) Executive Order No. 11647, as amended \[formerly set out as a note under 31 U.S.C. 501\], relating to Federal Regional Councils, is further amended by deleting"The Federal Energy Administration" in Section 1(a)(10) and substituting "The Department of Energy", and by deleting "The Deputy Administrator of the Federal Energy Administration" in Section 3(a)(10) and substituting "The Deputy Secretary of Energy".
+(a) Executive Order No. 11647, as amended \[formerly set out as a note under 31 U.S.C. 501\], relating to Federal Regional Councils, is further amended by deleting "The Federal Energy Administration" in Section 1(a)(10) and substituting "The Department of Energy", and by deleting "The Deputy Administrator of the Federal Energy Administration" in Section 3(a)(10) and substituting "The Deputy Secretary of Energy".
 
 (b) Executive Order No. 11790 of June 25, 1974 \[set out as a note under 15 U.S.C. 761\], relating to the Federal Energy Administration Act of 1974, is amended by deleting "Administrator of the Federal Energy Administration" and "Administrator" wherever they appear in Sections 1 through 6 and substituting "Secretary of Energy" and "Secretary", respectively, and by deleting Section 7 through 10.
 
@@ -42,7 +42,7 @@ Sec. 2. <i>Functions of the Federal Power Commission</i>. In accordance with the
 
 Sec. 3. <i>Functions of the Secretary of the Interior</i>. In accordance with the transfer of certain functions vested in the Secretary of the Interior to the Secretary of Energy pursuant to Section 302 of the Act \[42 U.S.C. 7152\], the Executive Orders referred to in this Section, which conferred authority or responsibility on the Secretary of the Interior, are amended or modified as follows:
 
-(a) Sections 1 and 4 of Executive Order No. 8526 of August 27, 1940, relating to functions of the Bonneville Power Administration, are hereby amended by substituting "Secretary of Energy" for "Secretary of the Interior", by adding "of the Interior" after "Secretary" in Sections 2 and 3, and by adding "and the Secretary of Energy," after "the Secretary of the Interior" wherever the latter term appears in Section 5.
+(a) Sections 1 and 4 of Executive Order No. 8526 of August 27, 1940, relating to functions of the Bonneville Power Administration, are hereby amended by substituting "Secretary of Energy" for "Secretary of the Interior", by adding "of the Interior" after "Secretary" in Sections 2 and 3, and by adding "and theSecretary of Energy," after "the Secretary of the Interior" wherever the latter term appears in Section 5.
 
 (b) Executive Order No. 11177 of September 16, 1964, relating to the Columbia River Treaty, is amended by deleting "Secretary of the Interior" and "Department of the Interior" wherever those terms appear and substituting therefor "Secretary of Energy" and "Department of Energy", respectively.
 

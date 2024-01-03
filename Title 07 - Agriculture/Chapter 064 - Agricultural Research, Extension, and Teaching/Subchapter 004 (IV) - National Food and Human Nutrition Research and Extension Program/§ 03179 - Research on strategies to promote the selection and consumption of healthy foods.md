@@ -48,7 +48,7 @@ Not later than 90 days after the end of each fiscal year, the Secretary shall su
 
 #### (2) Use of funds
 
-&emsp;The Secretary may use up to 5 percent of the funds made available under paragraph (1) for Federal administrative expenses incurred in carrying out this section.
+&emsp;The Secretary may use up to 5 percent of the funds made available under paragraph (1) forFederal administrative expenses incurred in carrying out this section.
 
 (Pub. L. 111–296, title II, §244, Dec. 13, 2010, 124 Stat. 3239.)
 

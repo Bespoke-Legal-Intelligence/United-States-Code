@@ -64,7 +64,7 @@ Not later than February 1 of each year, the Secretary shall develop and submit t
 
 #### (i) Description
 
-&emsp;&emsp;&emsp;The Secretary shall describe in the annual report, to the extent applicable and practicable, for each proposed feasibility study and proposed modification to an authorized water resources development project or feasibility study included in the annual report, the benefits, as described in clause (ii), of each such study or proposed modification (including the water resources development project that is the subject of the proposed feasibility study or the proposed modification to an authorized feasibility study).
+&emsp;&emsp;&emsp;The Secretary shall describe in the annual report, to the extent applicable and practicable, for each proposed feasibility study and proposed modification to an authorized water resources development project or feasibility study included in the annual report, the benefits, as described in clause (ii), of each such study or proposedmodification (including the water resources development project that is the subject of the proposed feasibility study or the proposed modification to an authorized feasibility study).
 
 #### (ii) Benefits
 
@@ -302,7 +302,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(2) The Water Resources Reform and Development Act of 2014 (Public Law 113–121) established a new and transparent process to review and prioritize the water resources development activities of the Corps of Engineers with strong congressional oversight.
 
-&emsp;"(3) Section 7001 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2282d) requires the Secretary \[of the Army\] to develop and submit to Congress each year a Report to Congress on FutureWater Resources Development and, as part of the annual report process, to—
+&emsp;"(3) Section 7001 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2282d) requires the Secretary \[of the Army\] to develop and submit to Congress each year a Report to Congress on Future Water Resources Development and, as part of the annual report process, to—
 
 &emsp;&emsp;"(A) publish a notice in the Federal Register that requests from non-Federal interests proposed feasibility studies and proposed modifications to authorized water resources development projects and feasibility studies for inclusion in the report; and
 

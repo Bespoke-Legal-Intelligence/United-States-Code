@@ -6,15 +6,21 @@ Joint Executive Committee.—(1) There is established an interagency committee t
 
 (2) The Committee is composed of—
 
-&emsp;(A) the Deputy Secretary of Veterans Affairs and such other officers and employees of the Department of Veterans Affairs as the Secretary of Veterans Affairs may designate; and
+&emsp;(A) the Deputy Secretary of Veterans Affairs and such other officers and employees of the Department of Veterans Affairs as the Secretary of Veterans Affairs may designate;
 
-&emsp;(B) the Under Secretary of Defense for Personnel and Readiness and such other officers and employees of the Department of Defense as the Secretary of Defense may designate.
+&emsp;(B) the Under Secretary of Defense for Personnel and Readiness and such other officers and employees of the Department of Defense as the Secretary of Defense may designate;
+
+&emsp;(C) the Assistant Secretary of Labor for Veterans' Employment and Training and such other officers and employees of the Department of Labor as the Secretary of Labor may designate; and
+
+&emsp;(D) such officers and employees of other Executive agencies as the Secretary of Veterans Affairs and the Secretary of Defense jointly determine, with the consent of the heads of the Executive agencies of such officers and employees, necessary to carry out the goals and objectives of the Committee.
+
+(3) The co-chairs of the Committee are the Deputy Secretary of Veterans Affairs and the Under Secretary of Defense for Personnel and Readiness.
 
 (b)
 
 Administrative Matters.—(1) The Deputy Secretary of Veterans Affairs and the Under Secretary of Defense shall determine the size and structure of the Committee, as well as the administrative and procedural guidelines for the operation of the Committee.
 
-(2) The two Departments shall supply appropriate staff and resources to provide administrative support and services. Support for such purposes shall be provided at a level sufficient for the efficient operation of the Committee, including a subordinate Health Executive Committee, a subordinate Benefits Executive Committee, a subordinate Job Training and Post-Service Placement Executive Committee, and such other committees or working groups as considered necessary by the Deputy Secretary and Under Secretary.
+(2) The two Departments shall supply appropriate staff and resources to provide administrative support and services. Support for such purposes shall be provided at a level sufficient for the efficient operation of the Committee, including a subordinate Health Executive Committee, a subordinate Benefits Executive Committee, a subordinate Transition Executive Committee, and such other committees or working groups as considered necessary by the Deputy Secretary and Under Secretary.
 
 (c)
 
@@ -36,19 +42,35 @@ Functions.—In order to enable the Committee to make recommendations in its ann
 
 &emsp;(5) Review the implementation of activities designed to promote the coordination and sharing of resources between the Departments.
 
+&emsp;(6) Develop, implement, and oversee such other joint actions, initiatives, programs, and policies as the two Secretaries determine appropriate and consistent with the purpose of the Committee.
+
 (e)
 
-Job Training and Post-Service Placement Executive Committee.—The Job Training and Post-Service Placement Executive Committee described in subsection (b)(2) shall—
+Transition Executive Committee.—The Transition Executive Committee described in subsection (b)(2) shall, in addition to such other activities as may assigned <sup>1</sup> to the committee under subsection (d)(6)—
 
 &emsp;(1) review existing policies, procedures, and practices of the Departments (including the military departments) with respect to job training and post-service placement programs; and
 
-&emsp;(2) identify changes to such policies, procedures, and practices to improve job training and post-service placement.
+&emsp;(2) identify changes to such policies, procedures, and practices to improve job training, transition from life in the Armed Forces to civilian life, and post-service placement.
 
-(Added Pub. L. 108–136, div. A, title V, §583(a)(1), Nov. 24, 2003, 117 Stat. 1490; amended Pub. L. 114–92, div. A, title V, §561, Nov. 25, 2015, 129 Stat. 828.)
+(Added Pub. L. 108–136, div. A, title V, §583(a)(1), Nov. 24, 2003, 117 Stat. 1490; amended Pub. L. 114–92, div. A, title V, §561, Nov. 25, 2015, 129 Stat. 828; Pub. L. 118–31, div. A, title XVIII, §1805, Dec. 22, 2023, 137 Stat. 687.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(2)(C), (D). Pub. L. 118–31, §1805(1)(A), added subpars. (C) and (D).
+
+Subsec. (a)(3). Pub. L. 118–31, §1805(1)(B), added par. (3).
+
+Subsec. (b)(2). Pub. L. 118–31, §1805(2), substituted "Transition Executive Committee" for "Job Training and Post-Service Placement Executive Committee".
+
+Subsec. (d)(6). Pub. L. 118–31, §1805(3), added par. (6).
+
+Subsec. (e). Pub. L. 118–31, §1805(4)(B), in introductory provisions, substituted "Transition" for "Job Training and Post-Service Placement" and inserted ", in addition to such other activities as may assigned to the committee under subsection (d)(6)" after "shall".
+
+Pub. L. 118–31, §1805(4)(A), substituted "Transition" for "Job Training and Post-Service Placement" in heading.
+
+Subsec. (e)(2). Pub. L. 118–31, §1805(4)(C), inserted ", transition from life in the Armed Forces to civilian life," after "job training".
 
 <b>2015</b>—Subsec. (b)(2). Pub. L. 114–92, §561(1), inserted "a subordinate Job Training and Post-Service Placement Executive Committee," before "such other committees".
 
@@ -73,4 +95,6 @@ Program.—The Secretary of Defense and the Secretary of Veterans Affairs may co
 "(b)
 
 Source of DOD Funds.—Amounts authorized to be appropriated by this Act \[see Tables for classification\] for the Defense Health Program may be used for the program under subsection (a)."
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "be".</i>
 

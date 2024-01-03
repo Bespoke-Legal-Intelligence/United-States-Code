@@ -10,7 +10,7 @@ The Director shall establish, subject to the availability of appropriations, as 
 
 #### (c) Participants
 
-Participants receiving awards under this section shall be Centers, or a consortium of Centers\(as such term is defined in section 278k of this title).
+Participants receiving awards under this section shall be Centers, or a consortium of Centers (as such term is defined in section 278k of this title).
 
 #### (d) Award amounts
 
@@ -94,7 +94,7 @@ Recipients of awards under this section shall not be required to provide a match
 
 #### (j) Global marketplace projects
 
-In making an award under this section, the Director, in consultation with the ManufacturingExtension Partnership Advisory Board and the Secretary, may take into consideration whether an application has significant potential for enhancing the competitiveness of small and medium-sized United States manufacturers in the global marketplace.
+In making an award under this section, the Director, in consultation with the Manufacturing Extension Partnership Advisory Board and the Secretary, may take into consideration whether an application has significant potential for enhancing the competitiveness of small and medium-sized United States manufacturers in the global marketplace.
 
 #### (k) Duration
 

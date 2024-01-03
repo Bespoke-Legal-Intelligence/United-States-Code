@@ -30,7 +30,7 @@ The Institute, acting through the Board, may—
 
 #### (c) Annual award of Spark M. Matsunaga Medal of Peace
 
-(1)(A) The Institute, acting through the Board, may each year make an award to such person or persons who it determines to have contributed in extraordinary ways to peace among the nations and peoples of the world, giving special attention to contributions that advance society's knowledge and skill in peacemaking and conflict management. The award shall include the public presentation to such person or persons of the Spark M. Matsunaga Medal of Peace and acash award in an amount of not to exceed $25,000 for any recipient.
+(1)(A) The Institute, acting through the Board, may each year make an award to such person or persons who it determines to have contributed in extraordinary ways to peace among the nations and peoples of the world, giving special attention to contributions that advance society's knowledge and skill in peacemaking and conflict management. The award shall include the public presentation to such person or persons of the Spark M. Matsunaga Medal of Peace and a cash award in an amount of not to exceed $25,000 for any recipient.
 
 (B)(i) The Secretary of the Treasury shall strike the Spark M. Matsunaga Medal of Peace with suitable emblems, devices, and inscriptions which capture the goals for which the Medal is presented. The design of the medals shall be determined by the Secretary of the Treasury in consultation with the Board and the Commission of Fine Arts.
 
@@ -151,6 +151,8 @@ Subsecs. (c) to (o). Pub. L. 101–520, §319(a)(2), (3), added subsec. (c) and 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

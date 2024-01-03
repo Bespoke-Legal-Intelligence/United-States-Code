@@ -14,7 +14,7 @@ Subject to subsection (c), the amount determined under this subsection with resp
 
 #### (c) Phaseout of credit amount based on number of employees and average wages
 
-The amount of the credit determined under subsection (b) without regard to this subsectionshall be reduced (but not below zero) by the sum of the following amounts:
+The amount of the credit determined under subsection (b) without regard to this subsection shall be reduced (but not below zero) by the sum of the following amounts:
 
 &emsp;(1) Such amount multiplied by a fraction the numerator of which is the total number of full-time equivalent employees of the employer in excess of 10 and the denominator of which is 15.
 

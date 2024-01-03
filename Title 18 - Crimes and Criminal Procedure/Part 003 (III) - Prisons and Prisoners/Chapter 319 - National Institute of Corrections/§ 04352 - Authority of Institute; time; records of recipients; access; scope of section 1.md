@@ -28,7 +28,7 @@
 
 &emsp;(13) to enter into contracts with public or private agencies, organizations, or individuals, for the performance of any of the functions of the Institute; and
 
-&emsp;(14) to procure the services of experts and consultants in accordance with section 3109 of title 5 of the United States Code, at rates of compensation not to exceed the daily equivalent of the rate authorized for GS–18 by section 5332 of title 5 of the United States Code.
+&emsp;(14) to procure the services of experts and consultants in accordance with section 3109 oftitle 5 of the United States Code, at rates of compensation not to exceed the daily equivalent of the rate authorized for GS–18 by section 5332 of title 5 of the United States Code.
 
 \[(b) Repealed. Pub. L. 97–375, title I, §109(a), Dec. 21, 1982, 96 Stat. 1820.\]
 

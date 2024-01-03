@@ -14,7 +14,7 @@ The Congress finds as follows with respect to improving education in the United 
 
 &emsp;&emsp;(D) in 1992, 1 out of every 20 youths eligible for assistance under the Job Training Partnership Act.
 
-&emsp;(3) The failure of the Federal Government to adequately invest in educational research and development has denied the United States a sound foundation of knowledge on which to design school improvements. The educational achievement of minority children is of particular concern because at least half of the public school students in 25 of the largest cities of the United States are minority children, and demographers project that, by the year 2005, almost all urban public school students will be minority children or other children in poverty.
+&emsp;(3) The failure of the Federal Government to adequately invest in educational research anddevelopment has denied the United States a sound foundation of knowledge on which to design school improvements. The educational achievement of minority children is of particular concern because at least half of the public school students in 25 of the largest cities of the United States are minority children, and demographers project that, by the year 2005, almost all urban public school students will be minority children or other children in poverty.
 
 &emsp;(4) The investment goal of the Federal research, development, and dissemination function should be at least 1 percent of the total amount of funds spent on education.
 

@@ -32,7 +32,7 @@ Amounts of Bonds.—The total of the face amounts of the United States savings b
 
 &emsp;(1) In the case of a purchase for a member under paragraph (1) of subsection (a), $5,000.
 
-&emsp;(2) In the case of a purchase for a member under paragraph (2) of subsection (a), theamount equal to the excess of $15,000 over the total of the face amounts of any United States savings bonds previously purchased for the member under this section.
+&emsp;(2) In the case of a purchase for a member under paragraph (2) of subsection (a), the amount equal to the excess of $15,000 over the total of the face amounts of any United States savings bonds previously purchased for the member under this section.
 
 &emsp;(3) In the case of a purchase for a member under paragraph (3) of subsection (a), the amount equal to the excess of $30,000 over the total of the face amounts of any United States savings bonds previously purchased for the member under this section.
 
@@ -60,7 +60,7 @@ Relationship to Other Special Pays.—The benefit authorized under this section 
 
 Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-(Added Pub. L. 107–107, div. A, title VI, §622(a)(1), Dec. 28, 2001, 115 Stat. 1140; amended Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title VI, §687(b)(33), Jan. 6, 2006, 119 Stat. 3332.)
+(Added Pub. L. 107–107, div. A, title VI, §622(a)(1), Dec. 28, 2001, 115 Stat. 1140; amended Pub. L.107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title VI, §687(b)(33), Jan. 6, 2006, 119 Stat. 3332.)
 
 #### <b>Editorial Notes</b>
 

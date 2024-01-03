@@ -102,7 +102,7 @@ In providing the treatment and other services to Indian youths authorized by thi
 
 #### (g) Multidrug abuse program
 
-The Secretary, acting through the Service, shall provide, consistent with section 1665a ofthis title, programs and services to prevent and treat the abuse of multiple forms of substances, including alcohol, drugs, inhalants, and tobacco, among Indian youths residing in Indian communities, on or near reservations, and in urban areas and provide appropriate mental health services to address the incidence of mental illness among such youths.
+The Secretary, acting through the Service, shall provide, consistent with section 1665a of this title, programs and services to prevent and treat the abuse of multiple forms of substances, including alcohol, drugs, inhalants, and tobacco, among Indian youths residing in Indian communities, on or near reservations, and in urban areas and provide appropriate mental health services to address the incidence of mental illness among such youths.
 
 #### (h) Indian youth mental health
 

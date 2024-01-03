@@ -42,7 +42,7 @@ Act Mar. 20, 1954, substituted "$8,500,000,000" for "$6,750,000,000".
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–279, title III, §301(d), May 15, 1978, 92 Stat. 242, provided that: "The provisions of this section \[amending this section and section 714b of this title and enacting provision set out as a note under section 714b of this title\] shall become effective October 1, 1978."
+Pub. L. 95–279, title III, §301(d), May 15, 1978, 92 Stat. 242, provided that: "The provisions of this section\[amending this section and section 714b of this title and enacting provision set out as a note under section 714b of this title\] shall become effective October 1, 1978."
 
 #### Discharge of Indebtedness
 

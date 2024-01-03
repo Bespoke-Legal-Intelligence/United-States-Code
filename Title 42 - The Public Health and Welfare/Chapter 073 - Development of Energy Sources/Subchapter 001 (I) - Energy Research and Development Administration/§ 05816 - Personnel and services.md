@@ -2,7 +2,7 @@
 
 #### (a) Appointment and compensation of officers and employees
 
-The Administrator is authorized to select, appoint, employ, and fix the compensation of such officers and employees, including attorneys, pursuant to section 2201(d) of this title as are necessary to perform the functions now or hereafter vested in him and to prescribe their functions.
+The Administrator is authorized to select, appoint, employ, and fix the compensation of suchofficers and employees, including attorneys, pursuant to section 2201(d) of this title as are necessary to perform the functions now or hereafter vested in him and to prescribe their functions.
 
 #### (b) Employment of experts and consultants
 
@@ -18,7 +18,7 @@ Appointment, detail, or assignment to, acceptance of, and service in, any appoin
 
 #### (e) Transportation and per diem expenses
 
-The Administrator is authorized to pay transportation expenses, and per diem in lieu of subsistence expenses, in accordance with chapter 57 of title 5 for travel between places of recruitment and duty, and while at places of duty, of persons appointed for emergency, temporary, orseasonal services in the field service of the Administration.
+The Administrator is authorized to pay transportation expenses, and per diem in lieu of subsistence expenses, in accordance with chapter 57 of title 5 for travel between places of recruitment and duty, and while at places of duty, of persons appointed for emergency, temporary, or seasonal services in the field service of the Administration.
 
 #### (f) Personnel of other agencies
 

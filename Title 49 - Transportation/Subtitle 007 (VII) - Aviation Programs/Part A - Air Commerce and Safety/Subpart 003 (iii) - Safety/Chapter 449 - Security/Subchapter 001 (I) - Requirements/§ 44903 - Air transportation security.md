@@ -20,7 +20,7 @@ Law enforcement personnel.—The term "law enforcement personnel" means individu
 
 (b)
 
-Protection Against Violence and Piracy.—The Administrator shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Administrator shall—
+Protection Against Violence and Piracy.—The Administrator shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribinga regulation under this subsection, the Administrator shall—
 
 &emsp;(1) consult with the Secretary of Transportation, the Attorney General, the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities;
 
@@ -72,7 +72,7 @@ Exclusive Responsibility Over Passenger Safety.—The Administrator has the excl
 
 (f)
 
-Government and Industry Consortia.—The Administrator may establish at airports such consortia of government and aviation industry representatives as the Administrator may designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of chapter 10 of title 5.
+Government and Industry Consortia.—The Administrator may establish at airports such consortia of government and aviation industry representatives as the Administratormay designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of chapter 10 of title 5.
 
 (g)
 
@@ -142,7 +142,7 @@ Airport perimeter screening.—The Administrator—
 
 &emsp;&emsp;(D) shall require vendors having direct access to the airfield and aircraft to develop security programs; and
 
-&emsp;&emsp;(E) shall issue guidance for the use of biometric or other technology that positively verifies the identity of each employee and law enforcement officer who enters a secure area of an airport.
+&emsp;&emsp;(E) shall issue guidance for the use of biometric or other technology that positivelyverifies the identity of each employee and law enforcement officer who enters a secure area of an airport.
 
 &emsp;(5)
 
@@ -230,7 +230,7 @@ False non-match.—The term "false non-match" means the rejection of a valid ide
 
 &emsp;&emsp;(F)
 
-Secure area of an airport.—The term "secure area of an airport" means the sterile area and the Secure Identification Display Area of an airport (as such terms are defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulation to such section).
+Secure area of an airport.—The term "secure area of an airport" means the sterilearea and the Secure Identification Display Area of an airport (as such terms are defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulation to such section).
 
 (i)
 
@@ -270,7 +270,7 @@ In general.—The Administrator shall ensure that the Secure Flight program, or 
 
 &emsp;&emsp;&emsp;(i) is used to evaluate all passengers before they board an aircraft; and
 
-&emsp;&emsp;&emsp;(ii) includes procedures to ensure that individuals selected by the program andtheir carry-on and checked baggage are adequately screened.
+&emsp;&emsp;&emsp;(ii) includes procedures to ensure that individuals selected by the program and their carry-on and checked baggage are adequately screened.
 
 &emsp;&emsp;(B)
 
@@ -394,7 +394,7 @@ In general.—Paragraph (1) and the other requirements of this chapter do not ap
 
 &emsp;&emsp;(B)
 
-Security procedures.—The Secretary of Defense, in consultation with the Secretary of Homeland Security and the Secretary of Transportation, shall establish security procedures relating to the operation of aircraft when employed to provide charter transportation to members of the armed forces to or from an airport described in section 44903(c).
+Security procedures.—The Secretary of Defense, in consultation with the Secretary of Homeland Security and the Secretary of Transportation, shall establish security procedures relating to the operationof aircraft when employed to provide charter transportation to members of the armed forces to or from an airport described in section 44903(c).
 
 &emsp;&emsp;(C)
 
@@ -432,7 +432,7 @@ Passenger Exit Points From Sterile Area.—
 
 &emsp;(1)
 
-In general.—The Secretary of Homeland Security shall ensure that the Transportation Security Administration is responsible for monitoring passenger exit points from thesterile area of airports at which the Transportation Security Administration provided such monitoring as of December 1, 2013.
+In general.—The Secretary of Homeland Security shall ensure that the Transportation Security Administration is responsible for monitoring passenger exit points from the sterile area of airports at which the Transportation Security Administration provided such monitoring as of December 1, 2013.
 
 &emsp;(2)
 
@@ -576,7 +576,7 @@ Subsec. (j)(2)(C) to (H). Pub. L. 108–458, §4012(a)(1), added subpars. (C) to
 
 Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i).
 
-Subsec. (i). Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i). Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crewswith less-than-lethal weapons, as (i). Former subsec. (i) redesignated (j).
 
 Subsec. (i)(1). Pub. L. 107–296, §1405(b)(1), substituted "If the Under Secretary" for "If the Secretary" and "the Under Secretary may" for "the Secretary may".
 
@@ -614,7 +614,7 @@ Subsec. (g)(2)(F). Pub. L. 107–71, §§101(f)(8), 106(c)(3), substituted "Unde
 
 Subsec. (g)(2)(G). Pub. L. 107–71, §106(c)(4), added subpar. (G) and struck out former subpar. (G) which read as follows: "require airport operators and air carriers to strengthen access control points in secured areas (including air traffic control operations areas) to ensure the security of passengers and aircraft by January 31, 2001."
 
-Subsec. (h). Pub. L. 107–71, §144, which directed that subsec. (h) relating to limitation on liability for acts to thwart criminal violence or aircraft piracy be added atend of section 44903, without specifying the Code title to be amended, was executed by making the addition at the end of this section, to reflect the probable intent of Congress.
+Subsec. (h). Pub. L. 107–71, §144, which directed that subsec. (h) relating to limitation on liability for acts to thwart criminal violence or aircraft piracy be added at end of section 44903, without specifying the Code title to be amended, was executed by making the addition at the end of this section, to reflect the probable intent of Congress.
 
 Pub. L. 107–71, §126(b), added subsec. (h) relating to authority to arm flight deck crews with less-than-lethal weapons.
 
@@ -1326,7 +1326,7 @@ Cybersecurity Threat Model.—Not later than 1 year after the date of enactment 
 
 "(d)
 
-National Institute of Standards and Technology Information Security Standards.—Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Aviation Administration, after consultation with the Director of the National Institute of Standards and Technology, shall transmit to the Committee on Science, Space, and Technology and the Committee on Transportation and Infrastructure of the House of Representatives and theCommittee on Commerce, Science, and Transportation of the Senate a report on—
+National Institute of Standards and Technology Information Security Standards.—Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Aviation Administration, after consultation with the Director of the National Institute of Standards and Technology, shall transmit to the Committee on Science, Space, and Technology and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on—
 
 &emsp;"(1) a cybersecurity standards plan to improve implementation of the National Institute of Standards and Technology's latest revisions to information security guidance for Federal Aviation Administration information and Federal Aviation Administration information systems within set timeframes; and
 
@@ -1434,7 +1434,7 @@ Types of Plans.—As applicable, such plans may include, but may not be limited 
 
 "(c)
 
-Report to Congress.—Not later than 180 days after the date of enactment of this Act \[Sept. 24, 2015\],the Assistant Secretary shall report to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the findings from its outreach to the agencies and providers under subsection (a), including an analysis of the level of preparedness such transportation systems have to respond to security incidents.
+Report to Congress.—Not later than 180 days after the date of enactment of this Act \[Sept. 24, 2015\], the Assistant Secretary shall report to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the findings from its outreach to the agencies and providers under subsection (a), including an analysis of the level of preparedness such transportation systems have to respond to security incidents.
 
 "(d)
 

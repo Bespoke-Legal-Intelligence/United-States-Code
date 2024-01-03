@@ -44,7 +44,7 @@ For any fiscal year in which the amount appropriated to carry out this section i
 
 #### (B) Minimums
 
-&emsp;&emsp;Subject to the availability of appropriations to carry out this section, and except as provided in paragraph (4), the allotment to any system under subparagraph (A) shall be not less than $100,000 or 1/3 of 1 percent of the remainder for the fiscal year for which the allotment is made, whichever is greater, and the allotment to any system under this section for any fiscal year that is less than $100,000 or 1/3 of 1 percent of such remainder shall be increased to the greater of the two amounts.
+&emsp;&emsp;Subject to the availability of appropriations to carry out this section, and except asprovided in paragraph (4), the allotment to any system under subparagraph (A) shall be not less than $100,000 or 1/3 of 1 percent of the remainder for the fiscal year for which the allotment is made, whichever is greater, and the allotment to any system under this section for any fiscal year that is less than $100,000 or 1/3 of 1 percent of such remainder shall be increased to the greater of the two amounts.
 
 #### (4) Systems within other jurisdictions
 
@@ -84,7 +84,7 @@ In order to receive assistance under this section, an eligible system shall subm
 
 &emsp;&emsp;(A) the objectives and priorities for the activities of the system for each year and the rationale for the establishment of such objectives and priorities; and
 
-&emsp;&emsp;(B) the coordination of programs provided through the system under this section withthe advocacy programs of the client assistance program under section 732 of this title, the State long-term care ombudsman program established under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\], and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10801 et seq.);
+&emsp;&emsp;(B) the coordination of programs provided through the system under this section with the advocacy programs of the client assistance program under section 732 of this title, the State long-term care ombudsman program established under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\], and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10801 et seq.);
 
 &emsp;(6) establish a grievance procedure for clients or prospective clients of the system to ensure that individuals with disabilities are afforded equal opportunity to access the services of the system; and
 
@@ -154,7 +154,7 @@ Section 142 of the Developmental Disabilities Assistance and Bill of Rights Act 
 
 Subsec. (f)(2). Pub. L. 113–128, §457(2), substituted "general authorities, including the authority to access records" for "general authorities, including access to records" and inserted "of title I" after "subtitle C".
 
-Subsec. (l). Pub. L. 113–128, §457(3), substituted "$17,650,000 for fiscal year 2015, $19,013,000 for fiscal year 2016, $19,408,000 for fiscal year 2017, $19,838,000 for fiscal year 2018, $20,305,000 for fiscal year 2019, and $20,735,000 for fiscal year 2020." for "such sums as may be necessary for each of the fiscal years 1999 through 2003."
+Subsec. (l). Pub. L. 113–128, §457(3), substituted "$17,650,000 for fiscal year 2015, $19,013,000 for fiscal year 2016, $19,408,000 for fiscal year 2017, $19,838,000 for fiscal year 2018, $20,305,000 for fiscal year 2019, and $20,735,000for fiscal year 2020." for "such sums as may be necessary for each of the fiscal years 1999 through 2003."
 
 <b>2000</b>—Subsecs. (a)(1)(B)(i), (f)(2). Pub. L. 106–402, §401(b)(3)(C), substituted "subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000" for "part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)".
 
@@ -205,8 +205,6 @@ Subsec. (n). Pub. L. 103–73, §112(c)(5), redesignated subsec. (i) as (n).
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

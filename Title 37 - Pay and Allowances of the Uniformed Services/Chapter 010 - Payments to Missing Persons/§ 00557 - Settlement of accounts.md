@@ -2,7 +2,7 @@
 
 (a) The Secretary concerned, or his designee, may settle the account of—
 
-&emsp;(1) a member of a uniformed service for whose account payments have been madeunder sections 552, 553, and 555 of this title; and
+&emsp;(1) a member of a uniformed service for whose account payments have been made under sections 552, 553, and 555 of this title; and
 
 &emsp;(2) a survivor of a casualty to a ship, station, or military installation which results in the loss or destruction of disbursing records.
 

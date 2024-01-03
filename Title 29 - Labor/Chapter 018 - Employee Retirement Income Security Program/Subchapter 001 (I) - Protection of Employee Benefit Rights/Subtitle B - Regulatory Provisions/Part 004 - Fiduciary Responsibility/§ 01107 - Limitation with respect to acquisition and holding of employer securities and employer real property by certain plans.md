@@ -58,7 +58,7 @@ Cross References.—
 
 &emsp;&emsp;<b>(A) For exemption from diversification requirements for holding of qualifying employer securities and qualifying employer real property by eligible individual account plans, see section 1104(a)(2) of this title.</b>
 
-&emsp;&emsp;<b>(B) For exemption from prohibited transactions for certain acquisitions of qualifying employer securities and qualifying employer real property which are not in violation of 10 percent limitation, see section 1108(e) of this title.</b>
+&emsp;&emsp;<b>(B) For exemption from prohibited transactions for certain acquisitions of qualifying employer secu</b><b>rities and qualifying employer real property which are not in violation of 10 percent limitation, see section 1108(e) of this title.</b>
 
 &emsp;&emsp;<b>(C) For transitional rules respecting securities or real property subject to binding contracts in effect on June 30, 1974, see section 1114(c) of this title.</b>
 
@@ -72,7 +72,7 @@ Cross References.—
 
 &emsp;(B) an amount equal to the sum of (i) the total amount of the contributions to the plan received after December 31, 1974, and prior to such date, plus (ii) the fair market value of the assets of the plan, determined on January 1, 1975.
 
-(2) For purposes of this subsection, in the case of an employer security held by a plan after January 1, 1975, the ownership of which is derived from ownership of employer securities heldby the plan on January 1, 1975, or from the exercise of rights derived from such ownership, the value of such security held after January 1, 1975, shall be based on the value as of January 1, 1975, of the security from which ownership was derived. The Secretary shall prescribe regulations to carry out this paragraph.
+(2) For purposes of this subsection, in the case of an employer security held by a plan after January 1, 1975, the ownership of which is derived from ownership of employer securities held by the plan on January 1, 1975, or from the exercise of rights derived from such ownership, the value of such security held after January 1, 1975, shall be based on the value as of January 1, 1975, of the security from which ownership was derived. The Secretary shall prescribe regulations to carry out this paragraph.
 
 (3) An election under this paragraph may not be made after December 31, 1975. Such an election shall be made in accordance with regulations prescribed by the Secretary, and shall be irrevocable. A plan may make an election under this paragraph only if on January 1, 1975, the plan holds no employer real property. After such election and before January 1, 1985 the plan may not acquire any employer real property.
 

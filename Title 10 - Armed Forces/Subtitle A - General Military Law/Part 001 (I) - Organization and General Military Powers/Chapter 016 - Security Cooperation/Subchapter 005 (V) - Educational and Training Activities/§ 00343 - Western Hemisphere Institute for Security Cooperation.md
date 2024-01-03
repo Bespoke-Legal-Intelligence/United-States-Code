@@ -50,7 +50,7 @@ Board of Visitors.—(1) There shall be a Board of Visitors for the Institute. T
 
 &emsp;(D) One person designated by the Secretary of State.
 
-&emsp;(E) The senior military officer responsible for training and doctrine for the Army or, if the Secretary of the Navy or the Secretary of the Air Force is designated as the executive agent of the Secretary of Defense under subsection (a)(2), the senior military officer responsible for training and doctrine for theNavy or Marine Corps or for the Air Force or Space Force, respectively, or a designee of the senior military officer concerned.
+&emsp;(E) The senior military officer responsible for training and doctrine for the Army or, if the Secretary of the Navy or the Secretary ofthe Air Force is designated as the executive agent of the Secretary of Defense under subsection (a)(2), the senior military officer responsible for training and doctrine for the Navy or Marine Corps or for the Air Force or Space Force, respectively, or a designee of the senior military officer concerned.
 
 &emsp;(F) The commanders of the combatant commands having geographic responsibility for the Western Hemisphere, or the designees of those officers.
 

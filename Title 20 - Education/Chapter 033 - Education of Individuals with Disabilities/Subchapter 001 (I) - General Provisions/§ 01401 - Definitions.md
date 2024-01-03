@@ -140,7 +140,7 @@ Except as otherwise provided, in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "local educational agency" means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of a State, or for such combination of school districts or counties as are recognized in a State as an administrative agency for its public elementary schools or secondary schools.
+&emsp;&emsp;The term "local educational agency" means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of aState, or for such combination of school districts or counties as are recognized in a State as an administrative agency for its public elementary schools or secondary schools.
 
 #### (B) Educational service agencies and other public institutions or agencies
 
@@ -220,7 +220,7 @@ Except as otherwise provided, in this chapter:
 
 #### (B) Disorders included
 
-&emsp;&emsp;Such term includes such conditions as perceptual disabilities, brain injury, minimal brain dysfunction, dyslexia, and developmental aphasia.
+&emsp;&emsp;Such term includes such conditions as perceptual disabilities, brain injury, minimalbrain dysfunction, dyslexia, and developmental aphasia.
 
 #### (C) Disorders not included
 
@@ -272,7 +272,7 @@ The Elementary and Secondary Education Act of 1965, referred to in par. (8)(A)(i
 
 The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in par. (17)(B), is Pub.L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in par. (17)(B), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
 #### Prior Provisions
 

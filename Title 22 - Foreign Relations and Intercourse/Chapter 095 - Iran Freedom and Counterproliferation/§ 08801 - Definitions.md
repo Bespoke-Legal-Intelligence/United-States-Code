@@ -78,7 +78,7 @@ For purposes of this chapter, in determining if financial transactions or financ
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this subtitle", meaning subtitle D (§§1241–1255) of titleXII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2004, known as the Iran Freedom and Counter-Proliferation Act of 2012, which is classified principally to this chapter. For complete classification of subtitle D to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original "this subtitle", meaning subtitle D (§§1241–1255) of title XII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2004, known as the Iran Freedom and Counter-Proliferation Act of 2012, which is classified principally to this chapter. For complete classification of subtitle D to the Code, see Short Title note set out below and Tables.
 
 Section 4618 of title 50, referred to in subsec. (a)(6), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
@@ -144,7 +144,7 @@ I hereby delegate functions and authorities vested in the President by the Iran 
 
 • Section 1247(f) to the Secretary of State, in consultation with the Secretary of the Treasury;
 
-• Section 1248(b)(1) \[22 U.S.C. 8807(b)(1)\] to the Secretary of the Treasury, in consultation with the Secretary of State, with respect to the requirement to impose applicable sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA) described in section 105(c) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (Public Law 111–195) (22 U.S.C. 8501 et seq.) (CISADA), and with respect to the requirement to include the sanctioned persons on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury;
+• Section 1248(b)(1) \[22 U.S.C. 8807(b)(1)\] to the Secretary of the Treasury, in consultation with the Secretary of State, with respect to the requirement to impose applicable sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA) described in section 105(c) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (Public Law 111–195) (22 U.S.C. 8501 etseq.) (CISADA), and with respect to the requirement to include the sanctioned persons on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury;
 
 • Section 1248(b)(1) to the Secretary of State, with respect to the requirement to impose visa sanctions described in section 105(c) of CISADA;
 

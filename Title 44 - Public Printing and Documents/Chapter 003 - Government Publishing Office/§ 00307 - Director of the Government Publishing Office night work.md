@@ -18,5 +18,5 @@ Based on 44 U.S. Code, 1964 ed., §42 (Jan. 12, 1895, ch. 23, §47, 28 Stat. 607
 
 #### Change of Name
 
-"Government Publishing Office" substituted for "Government Printing Office" in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
+"Government Publishing Office" substituted for "Government Printing Office" in text on authority ofsection 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
 

@@ -16,7 +16,7 @@
 
 &emsp;(6) employment under section 709 of title 32 or any prior corresponding provision of law;
 
-&emsp;(7) a period of service of a volunteer under part A of title VIII of the Economic Opportunity Act of 1964, or a period of service of a full-time volunteer enrolled in a program of at least one year's duration under part A, B,<sup>2</sup> or C of title I of the Domestic Volunteer Service Act of 1973 only if he later becomes subject to this subchapter;
+&emsp;(7) a period of service of a volunteer under part A of title VIII of the Economic Opportunity Act of 1964, or a period of service of a full-time volunteer enrolled in a program of at least one year's duration under part A, B,<sup>2</sup> orC of title I of the Domestic Volunteer Service Act of 1973 only if he later becomes subject to this subchapter;
 
 &emsp;(8) subject to sections 8334(c) and 8339(i) of this title, service performed after February 18, 1929, and before noon on January 3, 1971, as a United States Capitol Guide;
 
@@ -96,7 +96,7 @@ The Office of Personnel Management shall accept the certification of the Executi
 
 (e) This subchapter does not affect the right of an employee or Member to retired pay, pension, or compensation in addition to an annuity payable under this subchapter.
 
-(f) Credit shall be allowed for leaves of absence without pay granted an employee while performing military service or while receiving benefits under subchapter I of chapter 81 of this title. An employee or former employee who returns to duty after a period of separation is deemed, for the purpose of this subsection, to have been in a leave of absence without pay for that part of the period in which he was receiving benefits under subchapter I of chapter 81 of this title or any earlier statute on which such subchapter is based. Except for a substitute in the postal field service and service described in paragraph (14) of subsection (b) of this section,,<sup>3</sup> credit may not be allowed for so much of other leaves of absence without pay as exceeds 6 months in the aggregate in a calendar year.
+(f) Credit shall be allowed for leaves of absence without pay granted an employee while performing military service or while receiving benefits under subchapter I of chapter 81 of this title. An employee or former employee who returns to duty after a period of separation is deemed, for the purpose of this subsection, to have been in a leave of absence without pay for that part of the period in which he was receiving benefits under subchapter I of chapter 81 of this title or any earlier statute on which such subchapter is based. Except for a substitute in the postal field service and service described in paragraph (14) of subsection (b) of this section,,<sup>3</sup>credit may not be allowed for so much of other leaves of absence without pay as exceeds 6 months in the aggregate in a calendar year.
 
 (g) An employee who during the period of a war, or of a national emergency as proclaimed by the President or declared by Congress, leaves his position to enter the military service is deemed, for the purpose of this subchapter, as not separated from his civilian position because of that military service, unless he applies for and receives a lump-sum credit under this subchapter. However, the employee is deemed as not retaining his civilian position after December 31, 1956, or after the expiration of 5 years of that military service, whichever is later.
 
@@ -152,7 +152,7 @@ The Office of Personnel Management shall accept the certification of the Executi
 
 (2) For the purpose of this subsection, "World War II" means the period beginning on December 7, 1941, and ending on December 31, 1946.
 
-(m)(1) Upon application to the Office of Personnel Management, any individual who is an employee on the date of the enactment of this subsection, and who has on such date or thereafter acquires 5 years or more of creditable civilian service under this section (exclusive of service for which credit is allowed under this subsection) shall be allowed credit (as service as aCongressional employee) for service before the date of the enactment of this subsection while employed by the Democratic Senatorial Campaign Committee, the Republican Senatorial Campaign Committee, the Democratic National Congressional Committee, or the Republican National Congressional Committee, if—
+(m)(1) Upon application to the Office of Personnel Management, any individual who is an employee on the date of the enactment of this subsection, and who has on such date or thereafter acquires 5 years or more of creditable civilian service under this section (exclusive of service for which credit is allowed under this subsection) shall be allowed credit (as service as a Congressional employee) for service before the date of the enactment of this subsection while employed by the Democratic Senatorial Campaign Committee, the Republican Senatorial Campaign Committee, the Democratic National Congressional Committee, or the Republican National Congressional Committee, if—
 
 &emsp;(A) such employee has at least 4 years and 6 months of service on such committees as of December 12, 1980; and
 
@@ -392,7 +392,7 @@ Act
 
 July 18, 1966, Pub. L. 89–504, §503, 80 Stat. 300.
 
-In subsection (k)(1), the words "as defined by section 8331(1) of this title" are substituted for "as defined in section 1(a) of this Act". The words "occurring after July 17, 1966" are substituted for "occurring on or after date of enactment of this subsection". The words "notwithstanding the second sentence of subsection (f) of this section" are substituted for "notwithstanding theprovisions of the second sentence of section 3(c) of this Act". The last sentence is substituted for the second sentence of former subsection (k)(1) to reflect the current effect of the subsection with regard to those employees who were on leave without pay on July 18, 1966, and who filed a similar election within the time prescribed by that sentence.
+In subsection (k)(1), the words "as defined by section 8331(1) of this title" are substituted for "as defined in section 1(a) of this Act". The words "occurring after July 17, 1966" are substituted for "occurring on or after date of enactment of this subsection". The words "notwithstanding the second sentence of subsection (f) of this section" are substituted for "notwithstanding the provisions of the second sentence of section 3(c) of this Act". The last sentence is substituted for the second sentence of former subsection (k)(1) to reflect the current effect of the subsection with regard to those employees who were on leave without pay on July 18, 1966, and who filed a similar election within the time prescribed by that sentence.
 
 In subsection (k)(2), the words "before July 18, 1966" are substituted for "prior to the date of enactment of this subsection". The words "as defined by section 8331(1) of this title" are substituted for "as defined in section 1(a) of this Act". The second sentence is substituted for "and may receive full retirement credit for such period or periods of leave without pay". The words "If the employee dies" are substituted for "In the event of his death". The words "as defined by section 8331(10) of this title" are substituted for "as defined in section 1(o) of this Act". In the last sentence, the words "described in this paragraph" following "If the deposit" are omitted as unnecessary. The words "the second sentence of subsection (f) of this section" are substituted for "the second sentence of section 3(c) of this Act".
 
@@ -454,7 +454,7 @@ Subsec. (b)(17). Pub. L. 107–107, §1132(a)(1)(A)–(C), added par. (17).
 
 <b>2000</b>—Subsec. (m)(2) to (4). Pub. L. 106–554 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-<b>1999</b>—Subsec. (m)(1)(A). Pub. L. 106–57 amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: "such employee has at least 5 years service on such committees as of the effective date of this section, and".
+<b>1999</b>—Subsec. (m)(1)(A). Pub. L. 106–57 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "such employee has at least 5 years service on such committees as of the effective date of this section, and".
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–186 substituted "Chief Administrative Officer" for "Clerk" in fourth sentence of concluding provisions.
 
@@ -596,7 +596,7 @@ In general.—The amendments made by subsection (a) \[amending this section and 
 
 &emsp;&emsp;"(ii)
 
-Rules relating to annuities based on earlier separations.—An annuity under subchapter III of chapter 83 of title 5, United States Code, payable to an individual based on a separation from service occurring before the effective date of this subtitle shall be subject to the provisions of paragraph (2).
+Rules relating to annuities based on earlier separations.—An annuity under subchapterIII of chapter 83 of title 5, United States Code, payable to an individual based on a separation from service occurring before the effective date of this subtitle shall be subject to the provisions of paragraph (2).
 
 &emsp;"(B)
 
@@ -632,7 +632,7 @@ Reduction in annuity.—Subparagraph (A) shall not reduce the annuity of an indi
 
 &emsp;&emsp;"(ii)
 
-Application.—Subparagraph (A) shall not apply in the case of an individual who, prior to the date of enactment of this Act \[Sept. 21, 1993\], made a deposit under section 8334(c) of title 5, UnitedStates Code, with respect to service as a volunteer or volunteer leader (as described in subparagraph (A)).
+Application.—Subparagraph (A) shall not apply in the case of an individual who, prior to the date of enactment of this Act \[Sept. 21, 1993\], made a deposit under section 8334(c) of title 5, United States Code, with respect to service as a volunteer or volunteer leader (as described in subparagraph (A)).
 
 &emsp;&emsp;"(iii)
 
@@ -682,7 +682,7 @@ Eligibility.—Except as provided in paragraph (2), the amendment made by sectio
 
 Deposit.—Any such deposit—
 
-&emsp;&emsp;"(i) shall include interest, which shall be computed under section 8334(e) of such title (except that the rate of interest shall be 3 percent a year) from the midpoint of the period of additional service to the date deposit is made; and
+&emsp;&emsp;"(i) shall include interest, which shall be computed under section 8334(e) of such title (exceptthat the rate of interest shall be 3 percent a year) from the midpoint of the period of additional service to the date deposit is made; and
 
 &emsp;&emsp;"(ii) shall be made before date of retirement.
 
@@ -886,7 +886,7 @@ Deposit requirement.—In order to be eligible for the benefits described in sub
 
 &emsp;&emsp;"(i) the employee contributions that were actually made to such Fund under applicable provisions of law with respect to the service described in subparagraph (A); and
 
-&emsp;&emsp;"(ii) the employee contributions that would have been required with respect to such service if theamounts described in subparagraph (A)(ii) had also been treated as basic pay.
+&emsp;&emsp;"(ii) the employee contributions that would have been required with respect to such service if the amounts described in subparagraph (A)(ii) had also been treated as basic pay.
 
 > &emsp;The amount required under this subparagraph shall include interest, which shall be computed under section 8334(e) of title 5, United States Code.
 
@@ -986,7 +986,7 @@ Certification.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Office shall, with respect to any service for which credit is sought under thissubsection, accept the certification of the head of the agency which was party to the contract referred to in paragraph (1)(B), but only if such certification—
+In general.—The Office shall, with respect to any service for which credit is sought under this subsection, accept the certification of the head of the agency which was party to the contract referred to in paragraph (1)(B), but only if such certification—
 
 &emsp;&emsp;&emsp;"(i) states that the agency had intended, through such contract, that the individual involved (or that persons like the individual involved) be considered as having been appointed to a position in which such individual would be subject to subchapter III of chapter 83 of title 5, United States Code; and
 
@@ -1038,7 +1038,7 @@ Pub. L. 100–92, §2, Aug. 18, 1987, 101 Stat. 679, provided that:
 
 "(b) For purposes of this section—
 
-&emsp;"(1) the term 'air traffic controller' has the meaning given such term by section 2109(1) of title 5, United States Code, as amended by section 207(b) of the Federal Employees' Retirement System Act of 1986 (Public Law 99–335; 100 Stat. 594); and
+&emsp;"(1) the term 'air traffic controller' has the meaning given such term by section 2109(1) of title 5, United States Code, as amended by section 207(b) ofthe Federal Employees' Retirement System Act of 1986 (Public Law 99–335; 100 Stat. 594); and
 
 &emsp;"(2) the term 'Secretary' has the meaning given such term by section 2109(2) of title 5, United States Code."
 
@@ -1066,7 +1066,7 @@ Section 307 of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(k), Oct. 15
 
 "(a) The provisions of section 8332(j) of title 5, United States Code, relating to credit for military service, shall not apply with respect to any individual who is entitled to an annuity under subchapter III of chapter 83 of title 5, United States Code, on or before the date of enactment of this Act \[Sept. 8, 1982\] or who is entitled to an annuity based on a separation from service occurring on or before such date of enactment.
 
-"(b) Subject to subsection (b), in any case in which an individual described in subsection (a) is also entitled to old-age or survivors' insurance benefits under section 202 of the Social Security Act \[42 U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor), the amount of the annuity to which such individual is entitled under subchapter III of chapter 83 of title 5, United States Code, (after taking into account subsection (a)) which is payable for any month shall be reduced by an amount determined by multiplying theamount of such old-age or survivors' insurance benefit for the determination month by a fraction—
+"(b) Subject to subsection (b), in any case in which an individual described in subsection (a) is also entitled to old-age or survivors' insurance benefits under section 202 of the Social Security Act \[42 U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor), the amount of the annuity to which such individual is entitled under subchapter III of chapter 83 of title 5, United States Code, (after taking into account subsection (a)) which is payable for any month shall be reduced by an amount determined by multiplying the amount of such old-age or survivors' insurance benefit for the determination month by a fraction—
 
 &emsp;"(1) the numerator of which is the total of the wages (within the meaning of section 209 of the Social Security Act \[42 U.S.C. 409\]) for service referred to in section 210(l) of such Act \[42 U.S.C. 410(l)\] (relating to service in the uniformed services) and deemed additional wages (within the meaning of section 229 of such Act \[42 U.S.C. 429\]) of such individual credited for years after 1956 and before the calendar year in which the determination month occurs, up to the contribution and benefit base determined under section 230 of the Social Security Act \[42 U.S.C. 430\] (or other applicable maximum annual amount referred to in section 215(e)(1) of such Act \[42 U.S.C. 415(e)(1)\]) for each such year, and
 

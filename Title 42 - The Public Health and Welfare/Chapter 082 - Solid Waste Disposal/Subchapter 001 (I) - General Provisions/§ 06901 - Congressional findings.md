@@ -116,7 +116,7 @@ Pub. L. 94–580, §1, Oct. 21, 1976, 90 Stat. 2795, provided that: "This Act \[
 
 #### Short Title
 
-Pub. L. 89–272, title II, §1001, as added by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, provided that: "This title (hereinafter in this title referred to as 'this Act'), together with the following table of contents, may be cited as the 'Solid Waste Disposal Act' " \[table of contents omitted\].
+Pub. L. 89–272, title II, §1001, as added by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, provided that:"This title (hereinafter in this title referred to as 'this Act'), together with the following table of contents, may be cited as the 'Solid Waste Disposal Act' " \[table of contents omitted\].
 
 #### National Commission on Materials Policy
 

@@ -62,11 +62,11 @@ Annual Report.—The Secretary of Defense shall submit to the Committee on Armed
 
 Veteran Defined.—In this section, the term "veteran" means a decedent who—
 
-&emsp;(1) served in the active military, naval, or air service (as defined in section 101(24) of title 38) and who was discharged or released therefrom under conditions other than dishonorable; or
+&emsp;(1) served in the active military, naval, air, or space service (as defined in section 101(24) of title 38) and who was discharged or released therefrom under conditions other than dishonorable; or
 
 &emsp;(2) was a member or former member of the Selected Reserve described in section 2301(f) of title 38.
 
-(Added Pub. L. 105–261, div. A, title V, §567(b)(1), Oct. 17, 1998, 112 Stat. 2030; amended Pub. L. 106–65, div. A, title V, §578(a)(1), (b)–(e), (k)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 625–627, 630, 774; Pub. L. 107–107, div. A, title V, §§561(a), 564, Dec. 28, 2001, 115 Stat. 1119, 1120; Pub. L. 107–314, div. A, title V, §571, Dec. 2, 2002, 116 Stat. 2556; Pub. L. 109–163, div. A, title VI, §662(b)(4), Jan. 6, 2006, 119 Stat. 3315; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–66, div. A, title VI, §621(f), Dec. 26, 2013, 127 Stat. 784; Pub. L. 116–92, div. A, title V, §574(a), Dec. 20, 2019, 133 Stat. 1404; Pub. L. 116–283, div. A, title V, §596(a)(2), Jan. 1, 2021, 134 Stat. 3667; Pub. L. 117–263, div. A, title VI, §626(c)(5), Dec. 23, 2022, 136 Stat. 2628.)
+(Added Pub. L. 105–261, div. A, title V, §567(b)(1), Oct. 17, 1998, 112 Stat. 2030; amended Pub. L. 106–65, div. A, title V, §578(a)(1), (b)–(e), (k)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 625–627, 630, 774; Pub. L. 107–107, div. A, title V, §§561(a), 564, Dec. 28, 2001, 115 Stat. 1119, 1120; Pub. L. 107–314, div. A, title V, §571, Dec. 2, 2002, 116 Stat. 2556; Pub. L. 109–163, div. A, title VI, §662(b)(4), Jan. 6, 2006, 119 Stat. 3315; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–66, div. A, title VI, §621(f), Dec. 26, 2013, 127 Stat. 784; Pub. L. 116–92, div. A, title V, §574(a), Dec. 20, 2019, 133 Stat. 1404; Pub. L. 116–283, div. A, title V, §596(a)(2), Jan. 1, 2021, 134 Stat. 3667; Pub. L. 117–263, div. A, title VI, §626(c)(5), Dec. 23, 2022, 136 Stat. 2628; Pub. L. 118–31, div. A, title XVII, §1741(b)(5), Dec. 22, 2023, 137 Stat. 681.)
 
 #### <b>Editorial Notes</b>
 
@@ -75,6 +75,8 @@ Veteran Defined.—In this section, the term "veteran" means a decedent who—
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (b)(3)(A), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (h)(1). Pub. L. 118–31 substituted "air, or space service" for "or air service".
 
 <b>2022</b>—Subsec. (d)(3). Pub. L. 117–263 substituted "section 435(a)(2)" for "section 495(a)(2)".
 
@@ -114,7 +116,7 @@ Subsec. (c). Pub. L. 106–65, §578(c)(2), added subsec. (c). Former subsec. (c
 
 Subsecs. (d), (e). Pub. L. 106–65, §578(c)(2), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
 
-Subsec. (f). Pub. L. 106–65, §578(d), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "The Secretary of Defense shall by regulation establish a system for selection of units of the armed forces and other organizations to provide honor guard details. The system shall place an emphasis on balancing the funeral detail workload among the units and organizations providing honor guard details in an equitable manner as they are able to respond to requests for such details in terms of geographic proximity and available resources. The Secretary shall provide in such regulations that the armed force in which a veteran served shall not be considered to be a factor when selecting the military unit or other organization to provide an honor guard detail for the funeral of the veteran."
+Subsec. (f). Pub. L. 106–65, §578(d), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "The Secretary of Defense shall by regulation establish a system for selection of units of the armed forces and other organizations to provide honor guard details. The system shall place an emphasis on balancing the funeral detail workload among the units and organizations providing honor guard detailsin an equitable manner as they are able to respond to requests for such details in terms of geographic proximity and available resources. The Secretary shall provide in such regulations that the armed force in which a veteran served shall not be considered to be a factor when selecting the military unit or other organization to provide an honor guard detail for the funeral of the veteran."
 
 Pub. L. 106–65, §578(c)(1), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
 

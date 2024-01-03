@@ -4,7 +4,7 @@
 
 #### (1) Scholarship grant program established
 
-&emsp;The Secretary shall make grants to each college or university eligible to receive funds under the Act of August 30, 1890 (commonly known as the Second Morrill Act; 7 U.S.C. 322 \[321\] et seq.), including Tuskegee University, for purposes of awarding scholarships to individuals who—
+&emsp;The Secretary shall make grants to each college or university eligible to receive funds under the Act of August 30, 1890 (commonly known as the Second Morrill Act; 7 U.S.C. 322 \[321\] et seq.), including Tuskegee University,for purposes of awarding scholarships to individuals who—
 
 &emsp;&emsp;(A) have been accepted for admission at such college or university;
 
@@ -24,7 +24,7 @@
 
 #### (3) Annual limitation
 
-&emsp;Of the funds made available under subsection (b)(1), the Secretary may use not more than $10,000,000 to award grants under this subsection for the academic year beginning on July 1, 2020, and each of the three succeeding academic years.
+&emsp;Of the funds made available under subsection (b)(1), the Secretary may use not more than $10,000,000 to award grants under this subsection for the academic year beginning on July 1, 2020, and each of the 4 succeeding academic years.
 
 #### (4) Amount of grant
 
@@ -34,7 +34,13 @@
 
 #### (1) Mandatory funding
 
-&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $40,000,000 not later than October 1, 2019, to remain available until expended.
+#### (A) Funding
+
+&emsp;&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $40,000,000 not later than October 1, 2019, to remain available until expended.
+
+#### (B) Additional funding
+
+&emsp;&emsp;Not later than 30 days after November 17, 2023, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $10,000,000, to remain available until expended.
 
 #### (2) Discretionary funding
 
@@ -54,7 +60,7 @@ Beginning on the date that is two years after the date on which the first grant 
 
 &emsp;(3) the amount of each such scholarship.
 
-(Pub. L. 95–113, title XIV, §1446, as added Pub. L. 115–334, title VII, §7117, Dec. 20, 2018, 132 Stat. 4789.)
+(Pub. L. 95–113, title XIV, §1446, as added Pub. L. 115–334, title VII, §7117, Dec. 20, 2018, 132 Stat. 4789; amended Pub. L. 118–22, div. B, title I, §102(d)(5)(A), Nov. 17, 2023, 137 Stat. 117.)
 
 #### <b>Editorial Notes</b>
 
@@ -69,4 +75,10 @@ Another section 1446 of Pub. L. 95–113 amended section 3104 of this title.
 #### Prior Provisions
 
 A prior section 3222a, Pub. L. 95–113, title XIV, §1446, as added Pub. L. 101–624, title XVI, §1612(a), Nov. 28, 1990, 104 Stat. 3721; amended Pub. L. 102–237, title IV, §402(9), (10), Dec. 13, 1991, 105 Stat. 1863, which related to resident instruction at 1890 land-grant colleges, including Tuskegee University, was repealed by Pub. L. 104–127, title VIII, §855, Apr. 4, 1996, 110 Stat. 1172.
+
+#### Amendments
+
+<b>2023</b>—Subsec. (a)(3). Pub. L. 118–22, §102(d)(5)(A)(i), substituted "4 succeeding" for "three succeeding".
+
+Subsec. (b)(1). Pub. L. 118–22, §102(d)(5)(A)(ii), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 

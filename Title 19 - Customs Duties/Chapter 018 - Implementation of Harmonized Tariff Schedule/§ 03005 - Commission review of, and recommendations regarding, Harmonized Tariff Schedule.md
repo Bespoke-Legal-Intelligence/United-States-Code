@@ -8,7 +8,7 @@ The Commission shall keep the Harmonized Tariff Schedule under continuous review
 
 &emsp;(2) to promote the uniform application of the Convention and particularly the Annex thereto;
 
-&emsp;(3) to ensure that the Harmonized Tariff Schedule is kept up-to-date in light of changesin technology or in patterns of international trade;
+&emsp;(3) to ensure that the Harmonized Tariff Schedule is kept up-to-date in light of changes in technology or in patterns of international trade;
 
 &emsp;(4) to alleviate unnecessary administrative burdens; and
 
@@ -24,7 +24,7 @@ In formulating recommendations under subsection (a), the Commission shall solici
 
 #### (c) Submission of recommendations
 
-The Commission shall submit recommendations under this section to the President in the form of a report that shall include a summary of the information on which the recommendations were based, together with a statement of the probable economic effect of each recommended change on any industry in the United States. The report also shall include a copy of all written views submitted by interested Federal agencies and a copy or summary, prepared by the Commission, of the views of all other interested parties.
+The Commission shall submit recommendations under this section to the President in theform of a report that shall include a summary of the information on which the recommendations were based, together with a statement of the probable economic effect of each recommended change on any industry in the United States. The report also shall include a copy of all written views submitted by interested Federal agencies and a copy or summary, prepared by the Commission, of the views of all other interested parties.
 
 #### (d) Requirements regarding recommendations
 

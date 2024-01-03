@@ -42,7 +42,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 #### (B) Special rule for entry for warehousing
 
-&emsp;&emsp;Except as provided in subparagraph (D), in the case of an entry for warehousing, the last day for payment of tax shall not be later than the 14th day after the last day of the semimonthly period during which the article is removed from the 1st such warehouse.
+&emsp;&emsp;Except as provided in subparagraph (D), in the case of an entry for warehousing, thelast day for payment of tax shall not be later than the 14th day after the last day of the semimonthly period during which the article is removed from the 1st such warehouse.
 
 #### (C) Foreign trade zones
 

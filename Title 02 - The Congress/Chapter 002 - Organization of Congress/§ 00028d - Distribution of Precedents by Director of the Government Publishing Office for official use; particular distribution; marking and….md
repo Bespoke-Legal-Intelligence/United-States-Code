@@ -2,7 +2,7 @@
 
 (a) The Director of the Government Publishing Office shall make the following distribution of sets of the Precedents;
 
-&emsp;(1) to each standing or joint committee of the Congress which is in existence on October18, 1976, or which is established after October 18, 1976, four sets;
+&emsp;(1) to each standing or joint committee of the Congress which is in existence on October 18, 1976, or which is established after October 18, 1976, four sets;
 
 &emsp;(2) to the office of the Legislative Counsel of the House of Representatives, five sets;
 

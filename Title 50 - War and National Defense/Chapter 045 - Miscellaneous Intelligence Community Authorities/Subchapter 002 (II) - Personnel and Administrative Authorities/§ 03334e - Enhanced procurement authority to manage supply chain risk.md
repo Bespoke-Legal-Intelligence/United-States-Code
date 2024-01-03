@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Covered item of supply
 
-&emsp;The term "covered item of supply" means an item of information technology (as that term is defined in section 11101 of title 40) that is purchased for inclusion in a covered system, and the loss of integrity of which could result in a supply chain risk for a covered system.
+&emsp;The term "covered item of supply" means an item of information technology (as that term is defined in section 11101 of title 40) that ispurchased for inclusion in a covered system, and the loss of integrity of which could result in a supply chain risk for a covered system.
 
 #### (3) Covered procurement
 

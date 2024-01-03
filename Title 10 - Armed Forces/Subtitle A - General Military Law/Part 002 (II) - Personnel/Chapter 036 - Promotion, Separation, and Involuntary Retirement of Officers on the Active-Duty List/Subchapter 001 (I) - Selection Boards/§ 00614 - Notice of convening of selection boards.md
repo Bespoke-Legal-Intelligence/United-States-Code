@@ -22,7 +22,7 @@
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–91, div. A, title V, §501(c), Dec. 12, 2017, 131 Stat. 1373, provided that: "The amendments made bythis section \[amending this section and section 14106 of this title\] shall apply with respect to promotion selection boards convened on or after the date of the enactment of this Act \[Dec. 12, 2017\]."
+Pub. L. 115–91, div. A, title V, §501(c), Dec. 12, 2017, 131 Stat. 1373, provided that: "The amendments made by this section \[amending this section and section 14106 of this title\] shall apply with respect to promotion selection boards convened on or after the date of the enactment of this Act \[Dec. 12, 2017\]."
 
 #### Effective Date of 2006 Amendment
 

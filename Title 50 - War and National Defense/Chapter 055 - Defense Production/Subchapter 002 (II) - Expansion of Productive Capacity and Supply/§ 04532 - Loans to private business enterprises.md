@@ -2,7 +2,7 @@
 
 #### (a) Loan authority
 
-To reduce current or projected shortfalls of industrial resources, critical technology items, ormaterials essential for the national defense, the President may make provision for loans to private business enterprises (including nonprofit research corporations and providers of critical infrastructure) for the creation, maintenance, expansion, protection, or restoration of capacity, the development of technological processes, or the production of essential materials, including the exploration, development, and mining of strategic and critical metals and minerals.
+To reduce current or projected shortfalls of industrial resources, critical technology items, or materials essential for the national defense, the President may make provision for loans to private business enterprises (including nonprofit research corporations and providers of critical infrastructure) for the creation, maintenance, expansion, protection, or restoration of capacity, the development of technological processes, or the production of essential materials, including the exploration, development, and mining of strategic and critical metals and minerals.
 
 #### (b) Conditions of loans
 
@@ -86,7 +86,7 @@ Requirement described in subsec. (c)(1) of this section waived for the two-year 
 
 #### Delegation of Functions
 
-Authority of President under this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and the Secretary of Homeland Security, see section 2 of Ex. Ord. No. 13911, Mar. 27, 2020, 85F.R. 18403, set out as a note under section 4511 of this title.
+Authority of President under this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and the Secretary of Homeland Security, see section 2 of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under section 4511 of this title.
 
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
 
@@ -96,7 +96,7 @@ For delegation of certain authority of President under this section, see section
 
 Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended (50 U.S.C. 4501 et seq.) (the "Act"), and section 301 of title 3, United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended (50 U.S.C. 4501 <i>et seq</i>.) (the "Act"), and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. In Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) \[50 U.S.C. 1621 note\], I declared a national emergency recognizing the threat that the novel (new) coronavirus known as SARS–CoV–2 poses to our Nation's healthcare systems. In recognizing the public health risk, I noted that on March 11, 2020, the World Health Organization announced that the outbreak of COVID–19 (the disease caused by SARS–CoV–2) can be characterized as a pandemic.
 
@@ -112,7 +112,7 @@ Sec. 2. <i>Delegation of Authority Under Title III of the Act</i>. (a) Notwithst
 
 (ii) the resiliency of any relevant domestic supply chains.
 
-(d) Loans extended using the authority delegated by this order shall be made in accordance with the principles and guidelines outlined in OMB Circular A–11, OMB Circular A–129, and the Federal Credit Reform Act of 1990, as amended (2 U.S.C. 661 et seq.).
+(d) Loans extended using the authority delegated by this order shall be made in accordance with the principles and guidelines outlined in OMB Circular A–11, OMB Circular A–129, and the Federal Credit Reform Act of 1990, as amended (2 U.S.C. 661 <i>et seq</i>.).
 
 (e) The Chief Executive Officer of the DFC shall adopt appropriate rules and regulations as may be necessary to implement this order.
 

@@ -58,7 +58,7 @@ Subsecs. (c), (d). Pub. L. 101–140 amended this section to read as if amendmen
 
 Subsec. (c). Pub. L. 100–647, §1011B(a)(27)(A), added subsec. (c) relating to tax on funded welfare benefit funds which include discriminatory employee benefit plan. Former subsec. (c) redesignated (d).
 
-Subsec. (c)(1)(B). Pub. L. 100–647, §3021(a)(1)(C)(i), substituted "any testing year (as defined in section 89(j)(13))" for "any plan year", see Codification note above.
+Subsec. (c)(1)(B). Pub. L. 100–647, §3021(a)(1)(C)(i), substituted "any testing year (as defined in section89(j)(13))" for "any plan year", see Codification note above.
 
 Subsec. (c)(2)(A). Pub. L. 100–647, §3021(a)(1)(C)(ii), substituted "testing" for "plan" in cls. (i) and (ii), see Codification note above.
 

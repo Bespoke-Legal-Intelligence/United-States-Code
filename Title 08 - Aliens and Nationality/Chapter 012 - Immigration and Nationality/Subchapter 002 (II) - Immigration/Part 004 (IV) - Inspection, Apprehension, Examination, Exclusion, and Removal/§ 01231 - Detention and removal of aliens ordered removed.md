@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this section, when an alien is ordered removed, the Attorney General shall remove the alien from the United States within a period of 90 days (in this section referred to as the "removal period").
+&emsp;&emsp;Except as otherwise provided in this section, when an alien is ordered removed, theAttorney General shall remove the alien from the United States within a period of 90 days (in this section referred to as the "removal period").
 
 #### (B) Beginning of period
 
@@ -88,7 +88,7 @@
 
 #### (B) Travel from contiguous territory
 
-&emsp;&emsp;If the alien boarded the vessel or aircraft on which the alien arrived in the United States in a foreign territory contiguous to the United States, an island adjacent to the United States, or an island adjacent to a foreign territory contiguous to the United States, and the alien is not a native, citizen,subject, or national of, or does not reside in, the territory or island, removal shall be to the country in which the alien boarded the vessel that transported the alien to the territory or island.
+&emsp;&emsp;If the alien boarded the vessel or aircraft on which the alien arrived in the United States in a foreign territory contiguous to the United States, an island adjacent to the United States, or an island adjacent to a foreign territory contiguous to the United States, and the alien is not a native, citizen, subject, or national of, or does not reside in, the territory or island, removal shall be to the country in which the alien boarded the vessel that transported the alien to the territory or island.
 
 #### (C) Alternative countries
 
@@ -168,7 +168,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraphs (1) and (2), the Attorney General may not remove an alien to a country if the Attorney Generaldecides that the alien's life or freedom would be threatened in that country because of the alien's race, religion, nationality, membership in a particular social group, or political opinion.
+&emsp;&emsp;Notwithstanding paragraphs (1) and (2), the Attorney General may not remove an alien to a country if the Attorney General decides that the alien's life or freedom would be threatened in that country because of the alien's race, religion, nationality, membership in a particular social group, or political opinion.
 
 #### (B) Exception
 
@@ -304,7 +304,7 @@
 
 #### (1) Costs of removal at time of arrival
 
-&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>5</sup> or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner of the vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
+&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>5</sup> or 1225(c) of thistitle or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner of the vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
 
 &emsp;&emsp;(A) pay the cost from the appropriation "Immigration and Naturalization Service—Salaries and Expenses"; and
 
@@ -394,7 +394,7 @@ Nothing in this section shall be construed to create any substantive or procedur
 
 &emsp;(C) $950,000,000 for each of the fiscal years 2008 through 2011.
 
-(6) Amounts appropriated pursuant to the authorization of appropriations in paragraph (5)that are distributed to a State or political subdivision of a State, including a municipality, may be used only for correctional purposes.
+(6) Amounts appropriated pursuant to the authorization of appropriations in paragraph (5) that are distributed to a State or political subdivision of a State, including a municipality, may be used only for correctional purposes.
 
 (June 27, 1952, ch. 477, title II, ch. 4, §241, as added and amended Pub. L. 104–208, div. C, title III, §§305(a)(3), 306(a)(1), 328(a)(1), Sept. 30, 1996, 110 Stat. 3009–598, 3009–607, 3009–630; Pub. L. 107–273, div. C, title I, §11014, Nov. 2, 2002, 116 Stat. 1824; Pub. L. 109–13, div. B, title I, §101(c), May 11, 2005, 119 Stat. 303; Pub. L. 109–162, title XI, §1196(a), (b), Jan. 5, 2006, 119 Stat. 3130.)
 
@@ -454,7 +454,7 @@ Section effective, with certain transitional provisions, on the first day of the
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### United States Policy With Respect to Involuntary Return of Persons in Danger of Subjection to Torture
 

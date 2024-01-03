@@ -34,7 +34,7 @@ The program developed under subsection (a) shall—
 
 #### (2) Implementation
 
-&emsp;Whenever the Task Force determines that there is a substantial risk of unintentional introduction of an aquatic nuisance species by an identified pathway and that the adverse consequences of such an introduction are likely to be substantial, the Task Force shall, acting through the appropriate Federal agency, and after an opportunity for public comment,carry out cooperative, environmentally sound efforts with regional, State and local entities to minimize the risk of such an introduction.
+&emsp;Whenever the Task Force determines that there is a substantial risk of unintentional introduction of an aquatic nuisance species by an identified pathway and that the adverse consequences of such an introduction are likely to be substantial, the Task Force shall, acting through the appropriate Federal agency, and after an opportunity for public comment, carry out cooperative, environmentally sound efforts with regional, State and local entities to minimize the risk of such an introduction.
 
 #### (d) Monitoring
 
@@ -102,7 +102,7 @@ The Task Force shall establish and implement monitoring measures, within the pro
 
 #### (g) Technical assistance
 
-The Task Force shall, within the program developed under subsection (a), provide technicalassistance to State and local governments and persons to minimize the environmental, public health, and safety risks associated with aquatic nuisance species, including an early warning system for advance notice of possible infestations and appropriate responses.
+The Task Force shall, within the program developed under subsection (a), provide technical assistance to State and local governments and persons to minimize the environmental, public health, and safety risks associated with aquatic nuisance species, including an early warning system for advance notice of possible infestations and appropriate responses.
 
 #### (h) Education
 

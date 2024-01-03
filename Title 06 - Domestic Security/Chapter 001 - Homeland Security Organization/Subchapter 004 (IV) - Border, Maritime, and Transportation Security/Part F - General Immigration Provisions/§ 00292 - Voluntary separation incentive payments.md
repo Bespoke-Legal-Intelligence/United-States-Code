@@ -72,7 +72,7 @@ The Attorney General and the Secretary may, to the extent necessary to help carr
 
 #### (A) First method
 
-&emsp;&emsp;The amount under this subparagraph shall, for any fiscal year, be equal to the minimum amount necessary to offset the additional costs to the retirement systems under title 5 (payable out of the Civil Service Retirement and Disability Fund) resulting from the voluntary separation of the employees described in paragraph (3), as determined under regulations of the Office of Personnel Management.
+&emsp;&emsp;The amount under this subparagraph shall, for any fiscal year, be equal to the minimum amount necessary to offset the additionalcosts to the retirement systems under title 5 (payable out of the Civil Service Retirement and Disability Fund) resulting from the voluntary separation of the employees described in paragraph (3), as determined under regulations of the Office of Personnel Management.
 
 #### (B) Second method
 
@@ -116,7 +116,7 @@ This chapter, referred to in subsec. (b)(1), was in the original "this Act", mea
 
 Bureau of Border Security, referred to in subsec. (a)(2)(B), changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, bySenate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

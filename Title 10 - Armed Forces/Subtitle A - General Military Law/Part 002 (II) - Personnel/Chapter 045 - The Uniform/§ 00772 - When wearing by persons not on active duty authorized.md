@@ -16,7 +16,7 @@
 
 (h) While attending a course of military instruction conducted by the Army, Navy, Air Force, Marine Corps, or Space Force, a civilian may wear the uniform prescribed by that armed force if the wear of such uniform is specifically authorized under regulations prescribed by the Secretary of the military department concerned.
 
-(i) Under such regulations as the Secretary of the Air Force may prescribe, a citizen of a foreign country who graduates from an Air Force school may wear the appropriate aviation badges of the Air Force.
+(i) Under such regulations as the Secretary of the Air Force may prescribe, a citizen of a foreign country who graduates from an Air Force or Space Force school may wear the appropriate aviation or space badges of the Air Force or Space Force.
 
 (j) A person in any of the following categories may wear the uniform prescribed for that category:
 
@@ -24,7 +24,7 @@
 
 &emsp;(2) Members of any other organization designated by the Secretary of a military department.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Pub. L. 99–145, title XIII, §1301(a)(1), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–201, div. A, title V, §551(b), Sept. 23, 1996, 110 Stat. 2525; Pub. L. 116–283, div. A, title IX, §924(b)(3)(O), Jan. 1, 2021, 134 Stat. 3821.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Pub. L. 99–145, title XIII, §1301(a)(1), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–201, div. A, title V, §551(b), Sept. 23, 1996, 110 Stat. 2525; Pub. L. 116–283, div. A, title IX, §924(b)(3)(O), Jan. 1, 2021, 134 Stat. 3821; Pub. L. 118–31, div. A, title XVII, §1741(b)(2), Dec. 22, 2023, 137 Stat. 680.)
 
 Historical and Revision Notes
 
@@ -130,11 +130,11 @@ In subsection (c), the words "bear the title", in 34:43g(i), applicable only to 
 
 In subsection (e), the words between the second and third semicolons of the first proviso of the first paragraph of 10:1393 are omitted as superseded by 10:1028b and 34:399d, which authorize the wearing of the uniform by members who are discharged honorably or under honorable conditions. The words "when authorized by regulations prescribed by" are substituted for the words "occasions authorized by regulations of".
 
-In subsection (f), the words "while portraying a member of the Army, Navy, Air Force, or Marine Corps, an actor in a theatrical or motion-picture production" aresubstituted for the words "any person from wearing the uniform of the United States Army, Navy, or Marine Corps, in any playhouse or theater or in moving-picture films while actually engaged in representing therein a military or naval character".
+In subsection (f), the words "while portraying a member of the Army, Navy, Air Force, or Marine Corps, an actor in a theatrical or motion-picture production" are substituted for the words "any person from wearing the uniform of the United States Army, Navy, or Marine Corps, in any playhouse or theater or in moving-picture films while actually engaged in representing therein a military or naval character".
 
 In subsection (g), the word "resident" is substituted for the word "members", since the word "members" related to members of the now disbanded National Home for disabled volunteer soldiers to which were admitted "members" of an organization called the "Disabled Volunteer Soldiers". The words "veterans' home" are substituted for the words "national home for veterans", since there are now no "national homes" administered by the Veterans' Administration.
 
-In subsection (h), the words "authorized and" and "for wear during such course of instruction" are omitted as surplusage. The word "naval" is omitted as covered by the word "military". The words "Army, Navy, Air Force, or Marine Corps" are substituted for the words "military or naval authorities". The words "that armed force" are substituted for the words "such military or naval authorities".
+In subsection (h), the words "authorized and" and "for wear during such course of instruction" are omitted as surplusage. The word "naval" is omitted as covered by the word "military". The words "Army, Navy, Air Force, or Marine Corps" are substituted for thewords "military or naval authorities". The words "that armed force" are substituted for the words "such military or naval authorities".
 
 In subsection (i), the words "Air Force school" are substituted for the words "Air Force advanced flying schools or Air Force service schools". The words "in such manner" are omitted as surplusage.
 
@@ -145,6 +145,10 @@ In subsection (i), the words "Air Force school" are substituted for the words "A
 For information regarding the constitutionality of certain provisions of this section as enacted by act Aug. 10, 1956, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (i). Pub. L. 118–31, §1741(b)(2)(B), substituted "aviation or space badges of the Air Force or Space Force" for "aviation badges of the Air Force".
+
+Pub. L. 118–31, §1741(b)(2)(A), which directed amendment of subsec. (i) by substituting "an Air Force or Space Force school" for "an Air Force School", was executed by making the substitution for "an Air Force school" to reflect the probable intent of Congress.
 
 <b>2021</b>—Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps" wherever appearing.
 

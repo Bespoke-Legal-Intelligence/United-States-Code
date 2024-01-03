@@ -134,7 +134,7 @@ In this section:
 
 #### (1) Federal Pell Grant basis
 
-&emsp;From the amounts appropriated to carry out this section for any fiscal year, the Secretary shall allot to each Predominantly Black Institution having an application approved under subsection (f) a sum that bears the same ratio to one-half of that amount as the number ofFederal Pell Grant recipients in attendance at such institution at the end of the academic year preceding the beginning of that fiscal year, bears to the total number of Federal Pell Grant recipients at all such institutions at the end of such academic year.
+&emsp;From the amounts appropriated to carry out this section for any fiscal year, the Secretary shall allot to each Predominantly Black Institution having an application approved under subsection (f) a sum that bears the same ratio to one-half of that amount as the number of Federal Pell Grant recipients in attendance at such institution at the end of the academic year preceding the beginning of that fiscal year, bears to the total number of Federal Pell Grant recipients at all such institutions at the end of such academic year.
 
 #### (2) Graduates basis
 

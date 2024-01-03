@@ -46,7 +46,7 @@ Amendment by Pub. L. 101–402 deemed to have taken effect as if enacted Sept. 2
 
 #### Temporary Extension of Provisions
 
-Pub. L. 109–289, div. B, title II, §21042, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 53, providedthat: "The provisions of title II of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11311 et seq.) shall continue in effect, notwithstanding section 209 of such Act \[this section\], through the earlier of: (1) the date specified in section 106 of this division \[Sept. 30, 2007\]; or (2) the date of the enactment into law of an authorization Act relating to the McKinney-Vento Homeless Assistance Act."
+Pub. L. 109–289, div. B, title II, §21042, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 53, provided that: "The provisions of title II of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11311 et seq.) shall continue in effect, notwithstanding section 209 of such Act \[this section\], through the earlier of: (1) the date specified in section 106 of this division \[Sept. 30, 2007\]; or (2) the date of the enactment into law of an authorization Act relating to the McKinney-Vento Homeless Assistance Act."
 
 #### Temporary Extension of Council
 

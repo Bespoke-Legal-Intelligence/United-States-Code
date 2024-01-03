@@ -30,13 +30,17 @@ The Security Executive Agent shall—
 
 &emsp;(2) have the authority to grant exceptions to, or waivers of, national security investigative requirements, including issuing implementing or clarifying guidance, as necessary;
 
-&emsp;(3) have the authority to assign, in whole or in part, to the head of any Federal agency\(solely or jointly) any of the duties of the Security Executive Agent described in subsection (b) or the authorities described in paragraphs (1) and (2), provided that the exercise of such assigned duties or authorities is subject to the oversight of the Security Executive Agent, including such terms and conditions (including approval by the Security Executive Agent) as the Security Executive Agent determines appropriate; and
+&emsp;(3) have the authority to assign, in whole or in part, to the head of any Federal agency (solely or jointly) any of the duties of the Security Executive Agent described in subsection (b) or the authorities described in paragraphs (1) and (2), provided that the exercise of such assigned duties or authorities is subject to the oversight of the Security Executive Agent, including such terms and conditions (including approval by the Security Executive Agent) as the Security Executive Agent determines appropriate; and
 
 &emsp;(4) define and set standards for continuous vetting for continued access to classified information and for eligibility to hold a sensitive position.
 
 (July 26, 1947, ch. 343, title VIII, §803, as added Pub. L. 116–92, div. E, title LXVI, §6605(a)(2), Dec. 20, 2019, 133 Stat. 2213.)
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+Executive Order No. 12968, referred to in subsec. (b)(5), is Ex. Ord. No. 12968, Aug. 2, 1995, 60 F.R. 40245, which is set out as a note under section 3161 of this title.
 
 #### Prior Provisions
 

@@ -1,0 +1,42 @@
+### §4081a. Exception for Government-financed air transportation; reducing hardship for transportation of domestic animals
+
+#### (1) In general
+
+Notwithstanding subsections (a) and (c) of section 40118 of title 49, the Department is authorized to pay for the transportation by a foreign air carrier of Department personnel and any in-cabin or accompanying checked baggage or cargo if—
+
+&emsp;(A) no air carrier holding a certificate under section 41102 of such title is willing and able to transport up to 3 domestic animals accompanying such Federal personnel; and
+
+&emsp;(B) the transportation is from a place—
+
+&emsp;&emsp;(i) outside the United States to a place in the United States;
+
+&emsp;&emsp;(ii) in the United States to a place outside the United States; or
+
+&emsp;&emsp;(iii) outside the United States to another place outside the United States.
+
+#### (2) Limitation
+
+An amount paid pursuant to paragraph (1) for transportation by a foreign carrier may not be greater than the amount that would otherwise have been paid had the transportation been on an air carrier holding a certificate under section 41102 had that carrier been willing and able to provide such transportation. If the amount that would otherwise have been paid to such an air carrier is less than the cost of transportation on the applicable foreign carrier, the Department personnel may pay the difference of such amount.
+
+#### (3) Domestic animal defined
+
+In this subsection, the term "domestic animal" means a dog or a cat.
+
+(Pub. L. 118–31, div. F, title LXII, §6224(a), Dec. 22, 2023, 137 Stat. 979.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+This subsection, referred to in par. (3), means subsec. (a) of section 6224 of Pub. L. 118–31, which is classified to this section.
+
+#### Codification
+
+Section was enacted as part of the Department of State Authorization Act of 2023, and also as part of the National Defense Authorization Act for Fiscal Year 2024, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Definition
+
+For definition of "Department" as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under section 2651 of this title.
+

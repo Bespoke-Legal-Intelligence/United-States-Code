@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(i) the activity does not refer to a clearly identified candidate for Federal office;
 
-&emsp;&emsp;&emsp;(ii) the amounts expended or disbursed are not for the costs of any broadcasting, cable, or satellite communication, other than a communication which refers solely to a clearly identified candidate for State or local office;
+&emsp;&emsp;&emsp;(ii) the amounts expended or disbursed are not for the costs of any broadcasting, cable, or satellite communication, otherthan a communication which refers solely to a clearly identified candidate for State or local office;
 
 &emsp;&emsp;&emsp;(iii) the amounts expended or disbursed which are described in subparagraph (A)(ii) are paid from amounts which are donated in accordance with State law and which meet the requirements of subparagraph (C), except that no person (including any person established, financed, maintained, or controlled by such person) may donate more than $10,000 to a State, district, or local committee of a political party in a calendar year for such expenditures or disbursements; and
 
@@ -92,7 +92,7 @@ A national, State, district, or local committee of a political party (including 
 
 #### (A) General solicitations
 
-&emsp;&emsp;Notwithstanding any other provision of this subsection, an individual described inparagraph (1) may make a general solicitation of funds on behalf of any organization that is described in section 501(c) of title 26 and exempt from taxation under section 501(a) of such title (or has submitted an application for determination of tax exempt status under such section) (other than an entity whose principal purpose is to conduct activities described in clauses (i) and (ii) of section 30101(20)(A) of this title) where such solicitation does not specify how the funds will or should be spent.
+&emsp;&emsp;Notwithstanding any other provision of this subsection, an individual described in paragraph (1) may make a general solicitation of funds on behalf of any organization that is described in section 501(c) of title 26 and exempt from taxation under section 501(a) of such title (or has submitted an application for determination of tax exempt status under such section) (other than an entity whose principal purpose is to conduct activities described in clauses (i) and (ii) of section 30101(20)(A) of this title) where such solicitation does not specify how the funds will or should be spent.
 
 #### (B) Certain specific solicitations
 

@@ -68,7 +68,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) shall not be includible in the gross income of the employer for such taxable year, but
 
-&emsp;&emsp;&emsp;&emsp;(II) shall be treated as an employer reversion for purposes of section 4980 (without regard to subsection (d) thereof).
+&emsp;&emsp;&emsp;&emsp;(II) shall be treated as an employer reversion for purposes of section 4980\(without regard to subsection (d) thereof).
 
 #### (C) Ordering rule
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (C) Election to compute cost separately
 
-&emsp;&emsp;An employer may elect to have this paragraph applied separately for applicable health benefits with respect to individuals eligible for benefits under title XVIII of the Social Security Act at any time during the taxable year and with respect to individualsnot so eligible, and separately for applicable life insurance benefits with respect to individuals age 65 or older at any time during the taxable year and with respect to individuals under age 65 during the taxable year.
+&emsp;&emsp;An employer may elect to have this paragraph applied separately for applicable health benefits with respect to individuals eligible for benefits under title XVIII of the Social Security Act at any time during the taxable year and with respect to individuals not so eligible, and separately for applicable life insurance benefits with respect to individuals age 65 or older at any time during the taxable year and with respect to individuals under age 65 during the taxable year.
 
 #### (D) Cost maintenance period
 
@@ -216,7 +216,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) by treating any reference in this section to an employer as a reference to all employers maintaining the plan (or, if appropriate, the plan sponsor), and
 
-&emsp;&emsp;(B) in accordance with such modifications of this section (and the provisions of this title relating to this section) as the Secretary determines appropriate to reflect the fact the plan is not maintained by a single employer.
+&emsp;&emsp;(B) in accordance with such modifications of this section (and the provisions of thistitle relating to this section) as the Secretary determines appropriate to reflect the fact the plan is not maintained by a single employer.
 
 #### (7) Special rule for de minimis transfers
 
@@ -364,7 +364,7 @@ For purposes of this section—
 
 #### (iii) Key employees excluded
 
-&emsp;&emsp;&emsp;If an employee is a key employee (within the meaning of section 416(i)(1)) with respect to any plan year ending in a taxableyear, such employee shall not be taken into account in computing collectively bargained retiree liabilities for such taxable year or in calculating collectively bargained employer cost under subsection (c)(3)(C).
+&emsp;&emsp;&emsp;If an employee is a key employee (within the meaning of section 416(i)(1)) with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing collectively bargained retiree liabilities for such taxable year or in calculating collectively bargained employer cost under subsection (c)(3)(C).
 
 #### (C) Collectively bargained health benefits
 
@@ -546,7 +546,7 @@ Subsec. (f)(2)(D)(ii). Pub. L. 112–141, §40242(c)(2)(F), inserted "with respe
 
 Subsec. (f)(2)(D)(iii). Pub. L. 112–141, §40242(c)(2)(G), struck out "retiree" before "health benefits" in two places and inserted ", collectively bargained life insurance benefits, or both, as the case may be," after "health benefits" in two places.
 
-Subsec. (f)(2)(E)(i)(III). Pub. L. 112–141, §40242(e)(9), inserted "defined benefit" before "plan maintained by an employer" and "health" before "benefit plans maintained by the employer".
+Subsec. (f)(2)(E)(i)(III). Pub. L. 112–141, §40242(e)(9), inserted "defined benefit" before "plan maintained by anemployer" and "health" before "benefit plans maintained by the employer".
 
 Subsec. (f)(2)(E)(ii). Pub. L. 112–141, §40242(e)(2), inserted ", or an applicable life insurance account," after "a health benefits account".
 
@@ -734,5 +734,5 @@ Waiver of estimated tax penalties.—No addition to tax shall be made under sect
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGCsettlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 

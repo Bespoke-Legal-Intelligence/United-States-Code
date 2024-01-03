@@ -48,7 +48,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 &emsp;&emsp;(A) it is determined that it is in the national interest of the United States to do so;
 
-&emsp;&emsp;(B) the recipient is a developing country receiving less than $10,000,000 of assistance under part V of this subchapter (relating to international military education and training) or section 23 of the Arms Export Control Act (22 U.S.C. 2763; relating to the Foreign Military Financing program) in the fiscal year in which the transportation is provided;
+&emsp;&emsp;(B) the recipient is a developing country receiving less than $10,000,000 of assistance under part V of this subchapter (relating to international military education and training) or section 23 of the Arms Export ControlAct (22 U.S.C. 2763; relating to the Foreign Military Financing program) in the fiscal year in which the transportation is provided;
 
 &emsp;&emsp;(C) the total weight of the transfer does not exceed 50,000 pounds; and
 
@@ -58,7 +58,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 #### (1) In general
 
-&emsp;The President may not transfer excess defense articles that are significant military equipment (as defined in section 47(9) of the Arms Export Control Act \[22 U.S.C. 2794(9)\]) or excess defense articles valued (in terms of original acquisition cost) at $7,000,000 or more, under this section or under the Arms Export Control Act (22 U.S.C. 2751 et seq.) until 30days after the date on which the President has provided notice of the proposed transfer to the congressional committees specified in section 2394–1(a) of this title in accordance with procedures applicable to reprogramming notifications under that section.
+&emsp;The President may not transfer excess defense articles that are significant military equipment (as defined in section 47(9) of the Arms Export Control Act \[22 U.S.C. 2794(9)\]) or excess defense articles valued (in terms of original acquisition cost) at $7,000,000 or more, under this section or under the Arms Export Control Act (22 U.S.C. 2751 et seq.) until 30 days after the date on which the President has provided notice of the proposed transfer to the congressional committees specified in section 2394–1(a) of this title in accordance with procedures applicable to reprogramming notifications under that section.
 
 #### (2) Contents
 

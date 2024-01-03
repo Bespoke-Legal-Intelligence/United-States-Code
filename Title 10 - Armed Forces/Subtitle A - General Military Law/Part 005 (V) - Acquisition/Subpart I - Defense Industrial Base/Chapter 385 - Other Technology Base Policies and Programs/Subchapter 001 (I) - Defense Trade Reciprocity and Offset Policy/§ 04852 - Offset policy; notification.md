@@ -72,7 +72,7 @@ Pub. L. 100–456, div. A, title VIII, §825(a), Sept. 29, 1988, 102 Stat. 2019,
 
 #### Negotiations With Countries Requiring Offset Arrangements
 
-Pub. L. 100–456, div. A, title VIII, §825(c), Sept. 29, 1988, 102 Stat. 2021, as amended by Pub. L. 101–189, div.A, title VIII, §816, Nov. 29, 1989, 103 Stat. 1501, provided that:
+Pub. L. 100–456, div. A, title VIII, §825(c), Sept. 29, 1988, 102 Stat. 2021, as amended by Pub. L. 101–189, div. A, title VIII, §816, Nov. 29, 1989, 103 Stat. 1501, provided that:
 
 "(1) The President shall enter into negotiations with foreign countries that have a policy of requiring an offset arrangement in connection with the purchase of defense equipment or supplies from the United States. The negotiations should be conducted with a view to achieving an agreement with the countries concerned that would limit the adverse effects that such arrangements have on the defense industrial base of each such country. Every effort shall be made to achieve such agreements within two years after September 29, 1988.
 

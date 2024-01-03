@@ -18,7 +18,7 @@ The services eligible to be provided under subsection (a) are services—
 
 &emsp;&emsp;(C) enable young individuals to attain and maintain physical and mental well-being;
 
-&emsp;&emsp;(D) provide health screening to detect or prevent illnesses, or both, that occur mostfrequently in young individuals as well as better treatment and counseling;
+&emsp;&emsp;(D) provide health screening to detect or prevent illnesses, or both, that occur most frequently in young individuals as well as better treatment and counseling;
 
 &emsp;&emsp;(E) enhance the development of children to ensure that such children enter school prepared and ready to learn;
 

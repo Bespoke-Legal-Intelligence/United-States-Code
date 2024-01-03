@@ -44,7 +44,7 @@ Eligible investigational drugs provided to eligible patients in compliance with 
 
 &emsp;Notwithstanding any other provision of this chapter, the Public Health Service Act \[42 U.S.C. 201 et seq.\], or any other provision of Federal law, the Secretary may not use a clinical outcome associated with the use of an eligible investigational drug pursuant to this section to delay or adversely affect the review or approval of such drug under section 355 of this title or section 351 of the Public Health Service Act \[42 U.S.C. 262\] unless—
 
-&emsp;&emsp;(A) the Secretary makes a determination, in accordance with paragraph (2), that use of such clinical outcome is critical to determining the safety of the eligible investigational drug; or
+&emsp;&emsp;(A) the Secretary makes a determination, in accordance with paragraph (2), that use ofsuch clinical outcome is critical to determining the safety of the eligible investigational drug; or
 
 &emsp;&emsp;(B) the sponsor requests use of such outcomes.
 

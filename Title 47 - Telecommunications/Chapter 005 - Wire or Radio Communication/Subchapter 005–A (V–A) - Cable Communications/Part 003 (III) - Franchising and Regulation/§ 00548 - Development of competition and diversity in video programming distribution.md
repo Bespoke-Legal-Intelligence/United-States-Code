@@ -70,7 +70,7 @@ Any multichannel video programming distributor aggrieved by conduct that it alle
 
 #### (1) Remedies authorized
 
-&emsp;Upon completion of such adjudicatory proceeding, the Commission shall have the power to order appropriate remedies, including, if necessary, the power to establish prices,terms, and conditions of sale of programming to the aggrieved multichannel video programming distributor.
+&emsp;Upon completion of such adjudicatory proceeding, the Commission shall have the power to order appropriate remedies, including, if necessary, the power to establish prices, terms, and conditions of sale of programming to the aggrieved multichannel video programming distributor.
 
 #### (2) Additional remedies
 
@@ -108,7 +108,7 @@ As used in this section:
 
 &emsp;(2) The term "satellite cable programming vendor" means a person engaged in the production, creation, or wholesale distribution for sale of satellite cable programming, but does not include a satellite broadcast programming vendor.
 
-&emsp;(3) The term "satellite broadcast programming" means broadcast video programming when such programming is retransmitted by satellite and the entity retransmitting such programming is not the broadcaster or an entity performing such retransmission on behalf of and with the specific consent of the broadcaster.
+&emsp;(3) The term "satellite broadcast programming" means broadcast video programmingwhen such programming is retransmitted by satellite and the entity retransmitting such programming is not the broadcaster or an entity performing such retransmission on behalf of and with the specific consent of the broadcaster.
 
 &emsp;(4) The term "satellite broadcast programming vendor" means a fixed service satellite carrier that provides service pursuant to section 119 of title 17 with respect to satellite broadcast programming.
 

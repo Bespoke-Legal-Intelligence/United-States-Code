@@ -74,7 +74,7 @@ The Secretary of Defense shall transmit to Congress an annual report on the fina
 
 &emsp;(D) Facilities operation support for the Retirement Home.
 
-&emsp;(E) Provision of such other services relating to activities that will occur on the leasedproperty as the Chief Operating Officer considers appropriate.
+&emsp;(E) Provision of such other services relating to activities that will occur on the leased property as the Chief Operating Officer considers appropriate.
 
 (4) In-kind consideration under paragraph (3) may be accepted at any property or facilities of the Retirement Home that are selected for that purpose by the Chief Operating Officer.
 
@@ -112,7 +112,7 @@ Subsec. (e)(3). Pub. L. 115–91, §2873(a)(2), substituted "Chief Operating Off
 
 Subsec. (i)(1). Pub. L. 115–91, §2873(b)(1), in introductory provisions, substituted "Subject to the approval of the Secretary of Defense, whenever" for "Whenever", "Chief Operating Officer may" for "Secretary of Defense (acting on behalf of the Chief Operating Officer) may", and "Chief Operating Officer considers" for "Secretary considers".
 
-Subsec. (i)(5). Pub. L. 115–91, §2873(b)(2), substituted "the Chief Operating Officer may not enter into the lease" for "the Secretary of Defense may not enter into the lease on behalf of the Chief Operating Officer".
+Subsec. (i)(5). Pub. L. 115–91, §2873(b)(2), substituted "the Chief Operating Officer may not enter into thelease" for "the Secretary of Defense may not enter into the lease on behalf of the Chief Operating Officer".
 
 Subsec. (i)(6)(A). Pub. L. 115–91, §2873(b)(3), substituted "Chief Operating Officer shall" for "Secretary of Defense shall" in introductory provisions.
 
@@ -149,4 +149,32 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 #### Termination of Reporting Requirements
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (h) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.
+
+#### Modification of Leasing Authority of Armed Forces Retirement Home
+
+Pub. L. 118–31, div. A, title XIV, §1421, Dec. 22, 2023, 137 Stat. 530, provided that:
+
+"(a)
+
+Agreements.—Before entering a lease under section 1511(i) of the Armed Forces Retirement Home Act of 1991 (24 U.S.C. 411(i)), the Chief Operating Officer of the Armed Forces Retirement Home may enter into an agreement with a potential lessee for such lease providing for a period of exclusivity, access, study, or for similar purposes. The agreement shall provide for the payment (in cash or in kind) by the potential lessee of consideration for the agreement unless the Chief Operating Officer determines that payment of consideration will not promote the purpose and financial stability of the Armed Forces Retirement Home or be in the public interest.
+
+"(b)
+
+Approval and Notification.—A sublease pursuant to section 1511(i) of the Armed Forces Retirement Home Act of 1991 (24 U.S.C. 411(i)) shall not be subject to the approval of the Secretary of Defense or any requirement to notify or submit a report to Congress described in such section if the Chief Operating Officer of the Armed Forces Retirement Home determines that the terms of the sublease conform with the terms of such lease.
+
+"(c)
+
+Administration of Funds.—
+
+&emsp;"(1)
+
+Agreement proceeds.—The proceeds from an agreement entered into under subsection (a) shall be deposited in the Armed Forces Retirement Home Trust Fund.
+
+&emsp;"(2)
+
+Fund uses.—The proceeds from the lease of property under section 1511(i) of the Armed Forces Retirement Home Act of 1991 (24 U.S.C. 411(i)) and the proceeds from agreements entered into under subsection (a) of this section that are deposited in the Armed Forces Retirement Home Trust Fund shall remain available for obligation and expenditure to finance expenses of the Retirement Home related to the formation and administration of agreements and leases entered into under the provisions of this section or such section 1511(i).
+
+"(d)
+
+Sunset.—This section shall terminate on September 30, 2026."
 

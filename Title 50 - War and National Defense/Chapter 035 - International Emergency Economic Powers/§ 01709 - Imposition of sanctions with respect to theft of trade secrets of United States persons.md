@@ -24,7 +24,7 @@
 
 &emsp;The period specified in this paragraph is—
 
-&emsp;&emsp;(A) in the case of the first report required by paragraph (1), the period beginning on January 5, 2023, and ending on the date on which the report is required to be submitted; and
+&emsp;&emsp;(A) in the case of the first report required by paragraph (1), the period beginning on Janaury 5, 2023, and ending on the date on which the report is required to be submitted; and
 
 &emsp;&emsp;(B) in the case of each subsequent report required by paragraph (1), the one-year period preceding the date on which the report is required to be submitted.
 
@@ -142,7 +142,7 @@ The President may waive the imposition of sanctions under subsection (b) with re
 
 #### (1) Implementation
 
-&emsp;The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic PowersAct (50 U.S.C. 1702 and 1704) to carry out this section.
+&emsp;The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
 
 #### (2) Penalties
 
@@ -160,7 +160,7 @@ The President may waive the imposition of sanctions under subsection (b) with re
 
 #### (3) Exception to comply with international agreements
 
-&emsp;Sanctions under this section shall not apply with respect to the admission of an alien to the United States if such admission is necessary to comply with the obligations of the United States under the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other international obligations.
+&emsp;Sanctions under this section shall not apply with respect to the admission of an alien to the United States if such admission is necessary to comply with the obligations of the United States under the Agreement regarding the Headquarters of the United Nations,signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other international obligations.
 
 #### (4) Exception relating to importation of goods
 

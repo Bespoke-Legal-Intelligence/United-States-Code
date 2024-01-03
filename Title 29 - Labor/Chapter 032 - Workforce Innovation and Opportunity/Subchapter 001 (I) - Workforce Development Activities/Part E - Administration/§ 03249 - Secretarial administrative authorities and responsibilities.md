@@ -88,7 +88,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 &emsp;&emsp;Notwithstanding any other provision of law, the Secretary may waive for a State, or a local area in a State, pursuant to a request submitted by the Governor of the State (in consultation with appropriate local elected officials) with a plan that meets the requirements of subparagraph (B)—
 
-&emsp;&emsp;&emsp;(i) any of the statutory or regulatory requirements of part A, part B, or this part (except for requirements relating to wage and labor standards, including nondisplacement protections, worker rights, participation and protection of workers and participants, grievance procedures and judicial review, nondiscrimination, allocation of funds to local areas, eligibility of providers or participants, the establishment and functions of local areas and local boards, the funding of infrastructure costs for one-stop centers, and procedures for review and approval of plans, and other requirements relating to the basic purposes of this subchapter); and
+&emsp;&emsp;&emsp;(i) any of the statutory or regulatory requirements of part A, part B, or this part (except for requirements relating to wage and labor standards, including nondisplacement protections, worker rights,participation and protection of workers and participants, grievance procedures and judicial review, nondiscrimination, allocation of funds to local areas, eligibility of providers or participants, the establishment and functions of local areas and local boards, the funding of infrastructure costs for one-stop centers, and procedures for review and approval of plans, and other requirements relating to the basic purposes of this subchapter); and
 
 &emsp;&emsp;&emsp;(ii) any of the statutory or regulatory requirements of sections 49g through 49i of this title (excluding requirements relating to the provision of services to unemployment insurance claimants and veterans, and requirements relating to universal access to basic labor exchange services without cost to jobseekers).
 
@@ -116,15 +116,11 @@ The Secretary shall ensure that each individual participating in any program or 
 
 #### (D) Expedited determination regarding provision of waivers
 
-&emsp;&emsp;If the Secretary has approved a waiver of statutory or regulatory requirements for aState or local area pursuant to this subsection, the Secretary shall expedite the determination regarding the provision of that waiver, for another State or local area if such waiver is in accordance with the approved State or local plan, as appropriate.
+&emsp;&emsp;If the Secretary has approved a waiver of statutory or regulatory requirements for a State or local area pursuant to this subsection, the Secretary shall expedite the determination regarding the provision of that waiver, for another State or local area if such waiver is in accordance with the approved State or local plan, as appropriate.
 
 (Pub. L. 113–128, title I, §189, July 22, 2014, 128 Stat. 1599.)
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

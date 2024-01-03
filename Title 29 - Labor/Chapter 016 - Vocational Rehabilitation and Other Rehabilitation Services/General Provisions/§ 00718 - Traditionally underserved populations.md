@@ -64,7 +64,7 @@ With respect to the programs authorized in subchapters II through VII, the Congr
 
 #### (c) Demonstration
 
-In awarding grants, or entering into contracts or cooperative agreements under subchapters I, II, III, VI, and VII of this chapter, and section 794e of this title, the Commissioner and the Director of the National Institute on Disability, Independent Living, and Rehabilitation Research, in appropriate cases, shall require applicants to demonstrate how the applicants will address, in whole or in part, the needs of individuals with disabilities from minority backgrounds.
+In awarding grants, or entering into contracts or cooperative agreements under subchapters I, II, III, VI, and VII of this chapter, and section 794e of this title, the Commissioner and the Director of the National Institute on Disability, Independent Living, and Rehabilitation Research, in appropriate cases, shall require applicants to demonstrate how the applicants willaddress, in whole or in part, the needs of individuals with disabilities from minority backgrounds.
 
 (Pub. L. 93–112, §21, formerly §19, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1115; renumbered §21 and amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1), (b)(6), (c)(3)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L. 113–128, title IV, §409, July 22, 2014, 128 Stat. 1639.)
 

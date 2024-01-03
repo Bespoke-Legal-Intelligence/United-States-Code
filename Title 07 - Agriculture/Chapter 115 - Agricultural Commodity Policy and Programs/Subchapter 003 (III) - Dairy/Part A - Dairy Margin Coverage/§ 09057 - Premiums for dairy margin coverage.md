@@ -14,7 +14,7 @@ For purposes of participating in dairy margin coverage, a participating dairy op
 
 #### (1) In general
 
-&emsp;For the first 5,000,000 pounds of milk marketings included in the production history of a participating dairy operation, the premium per hundredweight for each coverage level is specified in the table contained in paragraph (2).
+&emsp;For the first 5,000,000 pounds of milk marketings included in the production history of aparticipating dairy operation, the premium per hundredweight for each coverage level is specified in the table contained in paragraph (2).
 
 #### (2) Producer premiums
 
@@ -107,7 +107,7 @@ The premium per hundredweight specified in the tables contained in subsections (
 
 #### (1) In general
 
-&emsp;For each of calendar years 2019 through 2023, for a participating dairy operation that makesa 1-time election of coverage level in a tier and of a percentage of coverage under section 9056(a) of this title for the 5-year period beginning in January 2019.
+&emsp;For each of calendar years 2019 through 2023, for a participating dairy operation that makes a 1-time election of coverage level in a tier and of a percentage of coverage under section 9056(a) of this title for the 5-year period beginning in January 2019.
 
 #### (2) New dairy operations
 
@@ -168,4 +168,8 @@ Subsec. (g). Pub. L. 115–334, §1401(j), added subsec. (g).
 Amendment by Pub. L. 115–334 effective on Jan. 1, 2019, see section 1401(m) of Pub. L. 115–334, set out as a note under section 9051 of this title.
 
 Amendment by Pub. L. 115–123 applicable beginning with the 2018 calendar year, see section 60101(b)(5) of Pub. L. 115–123, set out as a note under section 9051 of this title.
+
+#### Availability of Premium Discount
+
+Pub. L. 118–22, div. B, title I, §102(c)(2)(B)(ii), Nov. 17, 2023, 137 Stat. 115, provided that: "With respect to coverage for calendar year 2024, section 1407(g) of the Agricultural Act of 2014 (7 U.S.C. 9057(g)) shall only apply to a participating dairy operation with respect to which the premium was reduced in accordance with that section for calendar year 2023."
 

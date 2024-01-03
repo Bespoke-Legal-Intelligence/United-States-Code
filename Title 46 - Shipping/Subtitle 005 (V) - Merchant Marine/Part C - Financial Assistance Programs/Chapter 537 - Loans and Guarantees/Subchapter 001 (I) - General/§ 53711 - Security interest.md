@@ -6,7 +6,7 @@ In General.—The Secretary or Administrator may guarantee an obligation under t
 
 (b)
 
-Multiple Vessels and Types of Security.—The security interest may relate to more than one vessel and may consist of more than one type of security. If the security interest relates to more than one vessel, the obligation may have the latest maturity date allowable under section 53710(a)(3) of this title for any of the vessels used as security for the guarantee. However, the Secretary or Administrator may require such payments of principal prior to maturity, with respect to all related obligations, as the Secretary or Administrator considers necessary to maintain adequate security for the guarantee.
+Multiple Vessels and Types of Security.—The security interest may relate to more than one vessel and may consist of more than one type of security. If the security interest relates to more than one vessel, the obligation may have the latest maturity date allowable under section 53710(a)(3) of this title for any of the vessels used as security for the guarantee. However, the Secretary or Administrator may require such payments of principal prior to maturity, with respect to all related obligations, asthe Secretary or Administrator considers necessary to maintain adequate security for the guarantee.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1612; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (D), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
 

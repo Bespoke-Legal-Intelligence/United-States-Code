@@ -86,7 +86,7 @@ For the purpose of this section—
 
 #### Amendments
 
-<b>2015</b>—Subsec. (b)(1). Pub. L. 114–95, §9215(oo)(6)(A), made technical amendment to reference in original actwhich appears in text as reference to section 7546 of this title.
+<b>2015</b>—Subsec. (b)(1). Pub. L. 114–95, §9215(oo)(6)(A), made technical amendment to reference in original act which appears in text as reference to section 7546 of this title.
 
 Subsec. (b)(3). Pub. L. 114–95, §9215(oo)(6)(B), made technical amendment to reference in original act which appears in text as reference to section 7517 of this title.
 

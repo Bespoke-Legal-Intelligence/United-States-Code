@@ -16,11 +16,11 @@
 
 (2)(A) The Commandant is authorized to establish, by regulations, fees to be charged parents for the attendance of children at Coast Guard child development centers.
 
-(B) Fees to be charged, pursuant to subparagraph (A), shall be based on family income and whether a family is participating in an initiative established under section 2925(b), except that the Commandant may, on a case-by-base basis, establish fees at lower rates if such rates would not be competitive with rates at local child development centers.
+(B) Fees to be charged, pursuant to subparagraph (A), shall be based on family income and whether a family is participating in an initiative established under section 2925(b), except that the Commandant may, on a case-by-base basis, establish fees at lower rates if such rateswould not be competitive with rates at local child development centers.
 
 (C) The Commandant is authorized to collect and expend fees, established pursuant to this subparagraph, and such fees shall, without further appropriation, remain available until expended for the purpose of providing services, including the compensation of employees and the purchase of consumable and disposable items, at Coast Guard child development centers.
 
-(D) In the case of an active duty member with two or more children attending a Coast Guard child development center, the Commandant may modify the fees to be charged for attendance for the second and any subsequent child of such member by an amount that is 15 percent lessthan the amount of the fee otherwise chargeable for the attendance of the first such child enrolled at the center, or another fee as the Commandant determines appropriate, consistent with multiple children.
+(D) In the case of an active duty member with two or more children attending a Coast Guard child development center, the Commandant may modify the fees to be charged for attendance for the second and any subsequent child of such member by an amount that is 15 percent less than the amount of the fee otherwise chargeable for the attendance of the first such child enrolled at the center, or another fee as the Commandant determines appropriate, consistent with multiple children.
 
 (3) The Commandant is authorized to use appropriated funds available to the Coast Guard to provide assistance to family home daycare providers so that family home daycare services can be provided to uniformed service members and civilian employees of the Coast Guard at a cost comparable to the cost of services provided by Coast Guard child development centers.
 
@@ -76,7 +76,7 @@ Memorandum of Understanding.—
 
 &emsp;"(1)
 
-In general.—The Commandant \[of the Coast Guard\] shall enter into a memorandum of understanding with the Secretary of Defense to enable qualified families to access the website at https://militarychildcare.com (or a successor website) for purposes of Coast Guard family access to information with respect to State-accredited child development centers and other child care support services as such services become available from the Department of Defense through such website. The memorandum shall provide for the expansion of the geographical areas covered by such website, including regions in which qualified families live that are not yet covered by the program.
+In general.—The Commandant \[of the Coast Guard\] shall enter into a memorandum of understanding with the Secretary of Defense to enable qualified families to access the website at https://militarychildcare.com (or a successor website) for purposes of Coast Guard family access to information with respect to State-accredited child development centers and other child care support services as such services become available from the Department of Defense through such website. The memorandumshall provide for the expansion of the geographical areas covered by such website, including regions in which qualified families live that are not yet covered by the program.
 
 &emsp;"(2)
 

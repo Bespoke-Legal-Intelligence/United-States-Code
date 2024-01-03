@@ -50,7 +50,7 @@ After notice and opportunity for public hearing, the Administrator shall promulg
 
 #### (B) Final regulations
 
-&emsp;&emsp;Not later than 1 year after the date on which the Administrator publishes proposed regulations under subparagraph (A), and after providing an opportunity for interested persons to make oral presentations of views, data, and arguments regarding the proposed regulations, the Administrator shall promulgate final regulations governing the review and handling or <sup>1</sup> air quality monitoring data influenced by an exceptional event that are consistent with paragraph (3).
+&emsp;&emsp;Not later than 1 year after the date on which the Administrator publishes proposed regulations under subparagraph (A), and after providing an opportunity for interested persons to make oral presentations of views, data, and arguments regarding the proposed regulations, the Administrator shall promulgate final regulations governing the review and handling or <sup>1</sup> air quality monitoring datainfluenced by an exceptional event that are consistent with paragraph (3).
 
 #### (3) Principles and requirements
 

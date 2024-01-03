@@ -6,7 +6,7 @@ It is the policy of the United States that, insofar as technically and economica
 
 &emsp;(1) subscribers should benefit from equal access to broadband internet access service within the service area of a provider of such service;
 
-&emsp;(2) the term "equal access", for purposes of this section, means the equal opportunity to subscribe to an offered service that provides comparable speeds, capacities, latency, andother quality of service metrics in a given area, for comparable terms and conditions; and
+&emsp;(2) the term "equal access", for purposes of this section, means the equal opportunity to subscribe to an offered service that provides comparable speeds, capacities, latency, and other quality of service metrics in a given area, for comparable terms and conditions; and
 
 &emsp;(3) the Commission should take steps to ensure that all people of the United States benefit from equal access to broadband internet access service.
 

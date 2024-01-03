@@ -16,7 +16,7 @@ No gain or loss shall be recognized to a corporation if such corporation is a pa
 
 #### (B) Property not distributed
 
-&emsp;&emsp;If the corporation receiving such other property or money does not distribute it in pursuance of the plan of reorganization, thegain, if any, to the corporation shall be recognized.
+&emsp;&emsp;If the corporation receiving such other property or money does not distribute it in pursuance of the plan of reorganization, the gain, if any, to the corporation shall be recognized.
 
 > &emsp;The amount of gain recognized under subparagraph (B) shall not exceed the sum of the money and the fair market value of the other property so received which is not so distributed.
 
@@ -26,7 +26,7 @@ No gain or loss shall be recognized to a corporation if such corporation is a pa
 
 #### (3) Treatment of transfers to creditors
 
-&emsp;For purposes of paragraph (1), any transfer of the other property or money received in the exchange by the corporation to its creditors in connection with the reorganization shall be treated as a distribution in pursuance of the plan of reorganization. The Secretary may prescribe such regulations as may be necessary to prevent avoidance of tax through abuse of the preceding sentence or subsection (c)(3). In the case of a reorganization described in section 368(a)(1)(D) with respect to which stock or securities of the corporation to which the assets are transferred are distributed in a transaction which qualifies under section 355, this paragraph shall apply only to the extent that the sum of the money and the fair market value of other property transferred to such creditors does not exceed the adjusted bases of such assets transferred (reduced by the amount of the liabilities assumed (within the meaning of section 357(c))).
+&emsp;For purposes of paragraph (1), any transfer of the other property or money received in the exchange by the corporation to its creditors in connection with the reorganization shall be treated as a distribution in pursuance of the plan of reorganization. The Secretary mayprescribe such regulations as may be necessary to prevent avoidance of tax through abuse of the preceding sentence or subsection (c)(3). In the case of a reorganization described in section 368(a)(1)(D) with respect to which stock or securities of the corporation to which the assets are transferred are distributed in a transaction which qualifies under section 355, this paragraph shall apply only to the extent that the sum of the money and the fair market value of other property transferred to such creditors does not exceed the adjusted bases of such assets transferred (reduced by the amount of the liabilities assumed (within the meaning of section 357(c))).
 
 #### (c) Treatment of distributions
 
@@ -90,7 +90,7 @@ No gain or loss shall be recognized to a corporation if such corporation is a pa
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates,see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title XVIII, §1804(g)(4), Oct. 22, 1986, 100 Stat. 2806, provided that: "The amendments made by this subsection \[amending this section and section 368 of this title\] shall apply to plans of reorganizations adopted after the date of the enactment of this Act \[Oct. 22, 1986\]."
+Pub. L. 99–514, title XVIII, §1804(g)(4), Oct. 22, 1986, 100 Stat. 2806, provided that: "The amendments made by this subsection \[amending this section and section 368of this title\] shall apply to plans of reorganizations adopted after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

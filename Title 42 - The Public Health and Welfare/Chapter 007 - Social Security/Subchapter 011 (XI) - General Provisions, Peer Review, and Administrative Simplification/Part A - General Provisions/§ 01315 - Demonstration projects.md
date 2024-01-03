@@ -2,7 +2,7 @@
 
 #### (a) Waiver of State plan requirements; costs regarded as State plan expenditures; availability of appropriations
 
-In the case of any experimental, pilot, or demonstration project which, in the judgment of the Secretary, is likely to assist in promoting the objectives of subchapter I, X, XIV, XVI, or XIX, or part A or D of subchapter IV, in a State or States—
+In the case of any experimental, pilot, or demonstration project which, in the judgment of the Secretary, is likely to assist in promoting theobjectives of subchapter I, X, XIV, XVI, or XIX, or part A or D of subchapter IV, in a State or States—
 
 &emsp;(1) the Secretary may waive compliance with any of the requirements of section 302, 602, 654, 1202, 1352, 1382, or 1396a of this title, as the case may be, to the extent and for the period he finds necessary to enable such State or States to carry out such project, and
 
@@ -90,7 +90,7 @@ An application by the chief executive officer of a State for an extension of a w
 
 &emsp;(3) Not later than 45 days after the date a notification is made in accordance with paragraph (2), the Secretary shall inform the State of proposed changes in the terms and conditions of the waiver project. A failure to provide such information shall be deemed to be an approval of the application.
 
-&emsp;(4) During the 30-day period that begins on the date information described in paragraph\(3) is provided to a State, the Secretary shall negotiate revised terms and conditions of the waiver project with the State.
+&emsp;(4) During the 30-day period that begins on the date information described in paragraph (3) is provided to a State, the Secretary shall negotiate revised terms and conditions of the waiver project with the State.
 
 &emsp;(5)(A) Not later than 120 days after the date an application for an extension of the waiver project is submitted to the Secretary (or such later date agreed to by the chief executive officer of the State), the Secretary shall—
 
@@ -168,7 +168,7 @@ Subsec. (a). Pub. L. 93–647, §3(c)(2), inserted references to sections 1397a,
 
 Subsec. (b). Pub. L. 93–647, §3(c)(3), (4), substituted "1396b, or 1397a" for "1396b", and inserted "or expenditures with respect to which payment shall be made under section 1397a of this title" after "administration of such State plan or plans,".
 
-<b>1973</b>—Pub. L. 93–233 inserted references in text preceding subsec. (a) to subchapter VI of this chapter, in subsec. (a) to section 802 of this title, and in subsec. (b) to section 803 of this title.
+<b>1973</b>—Pub. L. 93–233 inserted references in text preceding subsec. (a) to subchapter VI of this chapter, insubsec. (a) to section 802 of this title, and in subsec. (b) to section 803 of this title.
 
 <b>1968</b>—Pub. L. 90–248, §241(c)(4), in opening phrase struck out "IV," after "I," and inserted ", or part A of subchapter IV," after "XIX".
 

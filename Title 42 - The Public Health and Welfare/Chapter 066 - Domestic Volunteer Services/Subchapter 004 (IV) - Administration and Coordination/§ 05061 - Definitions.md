@@ -2,7 +2,7 @@
 
 For the purposes of this chapter—
 
-&emsp;(1) the term "Director" means the Chief Executive Officer of the Corporation for Nationaland Community Service appointed under section 12651c of this title;
+&emsp;(1) the term "Director" means the Chief Executive Officer of the Corporation for National and Community Service appointed under section 12651c of this title;
 
 &emsp;(2) the terms "United States" and "States" mean the several States, the District of Columbia, the Virgin Islands, Puerto Rico, Guam, and <sup>1</sup> American Samoa, the Commonwealth of the Northern Mariana Islands, and, for the purposes of subchapter II of this chapter, the Trust Territory of the Pacific Islands;
 
@@ -70,7 +70,7 @@ Pars. (15) to (20). Pub. L. 111–13, §2154(5)–(8), added par. (20) and redes
 
 <b>1998</b>—Par. (11). Pub. L. 105–220 substituted "section 705(20)(B) of title 29" for "section 706(8)(B) of title 29".
 
-<b>1993</b>—Par. (1). Pub. L. 103–82, §404, added par. (1) and struck out former par. (1) which read as follows: "theterm 'Director' means the Director of the ACTION Agency;".
+<b>1993</b>—Par. (1). Pub. L. 103–82, §404, added par. (1) and struck out former par. (1) which read as follows: "the term 'Director' means the Director of the ACTION Agency;".
 
 Pars. (8) to (11). Pub. L. 103–82, §401, added pars. (8) to (11).
 
@@ -89,6 +89,10 @@ Par. (7). Pub. L. 101–204, §502(b), added par. (7).
 Par. (5). Pub. L. 99–551, §6(b), added par. (5).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2009 Amendment
 

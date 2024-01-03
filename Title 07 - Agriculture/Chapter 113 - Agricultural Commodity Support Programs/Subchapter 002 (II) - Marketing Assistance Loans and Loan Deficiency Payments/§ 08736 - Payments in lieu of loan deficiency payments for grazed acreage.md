@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) the quantity of the grazed acreage on the farm with respect to which the producer elects to forgo harvesting of triticale; and
 
-&emsp;&emsp;&emsp;(ii) the payment yield in effect for the calculation of direct payments under subchapter I with respect to wheat on thefarm or, in the case of a farm without a payment yield for wheat, an appropriate yield established by the Secretary in a manner consistent with section 7912 of this title.
+&emsp;&emsp;&emsp;(ii) the payment yield in effect for the calculation of direct payments under subchapter I with respect to wheat on the farm or, in the case of a farm without a payment yield for wheat, an appropriate yield established by the Secretary in a manner consistent with section 7912 of this title.
 
 #### (c) Time, manner, and availability of payment
 

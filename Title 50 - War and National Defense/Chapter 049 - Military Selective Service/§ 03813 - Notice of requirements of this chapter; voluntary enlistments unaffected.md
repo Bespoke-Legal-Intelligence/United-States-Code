@@ -10,7 +10,7 @@ It shall be the duty of every registrant to keep his local board informed as to 
 
 #### (c) Separability of provisions
 
-If any provision of this chapter, or the application thereof to any person or circumstance, is held invalid, the remainder of the chapter, and the application of such provision to other persons or circumstances, shall not be affected thereby.
+If any provision of this chapter, or the application thereof to any person or circumstance, isheld invalid, the remainder of the chapter, and the application of such provision to other persons or circumstances, shall not be affected thereby.
 
 #### (d) Voluntary enlistments or reenlistments; absence of affect
 

@@ -20,7 +20,7 @@ There is hereby established in the Unemployment Trust Fund an extended unemploym
 
 &emsp;(B) the amount (determined by the Secretary of Labor and certified by him to the Secretary of the Treasury) equal to 0.5 percent of the total wages subject (determined without any limitation on amount) to contributions under all State unemployment compensation laws for the calendar year ending during the fiscal year for which the excess is determined.
 
-(3) The Secretary of the Treasury shall make no transfer pursuant to paragraph (1) as of the close of any month if he determines that the amount in the extended unemployment compensation account is equal to (or in excess of) the limitation provided in paragraph (2).
+(3) The Secretary of the Treasury shall make no transfer pursuant to paragraph (1) as of the close of any month if he determines that theamount in the extended unemployment compensation account is equal to (or in excess of) the limitation provided in paragraph (2).
 
 #### (c) Transfers to State accounts
 

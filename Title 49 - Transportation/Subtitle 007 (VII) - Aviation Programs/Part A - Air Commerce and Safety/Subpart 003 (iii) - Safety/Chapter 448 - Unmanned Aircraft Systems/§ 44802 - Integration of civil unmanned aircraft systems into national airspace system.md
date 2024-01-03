@@ -100,7 +100,7 @@ Pub. L. 116–280, Dec. 31, 2020, 134 Stat. 3379, provided that:
 
 "(1)
 
-In general.—The Federal Aviation Administration shall take appropriate steps to encourage directrepresentation of county and tribal governments as well as agriculture, forestry, rangeland sectors, and other rural interests on the Drone Advisory Committee.
+In general.—The Federal Aviation Administration shall take appropriate steps to encourage direct representation of county and tribal governments as well as agriculture, forestry, rangeland sectors, and other rural interests on the Drone Advisory Committee.
 
 "(2)
 
@@ -324,7 +324,7 @@ Best Practices.—The Administrator shall develop best practices for the use of 
 
 #### Treatment of Unmanned Aircraft Operating Underground
 
-Pub. L. 115–254, div. B, title III, §354, Oct. 5, 2018, 132 Stat. 3305, provided that: "An unmanned aircraft system that is operated underground for mining purposes shall not be subject to regulation or enforcement by the FAA \[Federal Aviation Administration\] under title 49, United States Code."
+Pub. L. 115–254, div. B, title III, §354, Oct. 5, 2018, 132 Stat. 3305, provided that: "An unmanned aircraft system that is operated underground for mining purposes shall not be subject to regulation or enforcement bythe FAA \[Federal Aviation Administration\] under title 49, United States Code."
 
 #### Prohibition Regarding Weapons
 
@@ -348,7 +348,7 @@ Pub. L. 115–254, div. B, title III, §376, Oct. 5, 2018, 132 Stat. 3314, provi
 
 "(a)
 
-In General.—In conjunction with completing the requirements of section 2208 of the FAA Extension,Safety, and Security Act of 2016 \[Pub. L. 114–190\] (49 U.S.C. 40101 note \[now 49 U.S.C. 44802 note\]), subject to subsection (b) of this section, the Administrator \[of the Federal Aviation Administration\], in coordination with the Administrator of the National Aeronautics and Space Administration, and in consultation with unmanned aircraft systems industry stakeholders, shall develop a plan to allow for the implementation of unmanned aircraft systems traffic management (UTM) services that expand operations beyond visual line of sight, have full operational capability, and ensure the safety and security of all aircraft.
+In General.—In conjunction with completing the requirements of section 2208 of the FAA Extension, Safety, and Security Act of 2016 \[Pub. L. 114–190\] (49 U.S.C. 40101 note \[now 49 U.S.C. 44802 note\]), subject to subsection (b) of this section, the Administrator \[of the Federal Aviation Administration\], in coordination with the Administrator of the National Aeronautics and Space Administration, and in consultation with unmanned aircraft systems industry stakeholders, shall develop a plan to allow for the implementation of unmanned aircraft systems traffic management (UTM) services that expand operations beyond visual line of sight, have full operational capability, and ensure the safety and security of all aircraft.
 
 "(b)
 
@@ -562,7 +562,7 @@ Participation through test sites.—Participation under paragraph (1) may includ
 
 "(c)
 
-Definitions.—In this section, the terms 'unmanned aircraft system' and 'test range' have themeaning given such terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 note \[now 49 U.S.C. 44802 note\]).
+Definitions.—In this section, the terms 'unmanned aircraft system' and 'test range' have the meaning given such terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 note \[now 49 U.S.C. 44802 note\]).
 
 "(d)
 
@@ -656,7 +656,7 @@ Utility Restoration.—The Administrator shall enter into agreements with the Se
 
 "(c)
 
-Definition of Utility.—In this section, the term 'utility' shall at a minimum include the definition in section 3(4) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2602(4)).
+Definition of Utility.—In this section, the term 'utility' shall at a minimum include the definition insection 3(4) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2602(4)).
 
 #### "SEC. 2205. INTERFERENCE WITH WILDFIRE SUPPRESSION, LAW ENFORCEMENT, OR EMERGENCY RESPONSE EFFORT BY OPERATION OF UNMANNED AIRCRAFT.
 
@@ -678,7 +678,7 @@ Clerical Amendment.—\[Amended analysis of chapter 463 of this title.\]
 
 "(a)
 
-In General.—Not later than 90 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall publish guidance for applications for, and procedures for the processing of, on an emergency basis, exemptions or certificates of authorization or waiver for the use of unmanned aircraft systems by civil or public operators in response to a catastrophe, disaster, orother emergency to facilitate emergency response operations, such as firefighting, search and rescue, and utility and infrastructure restoration efforts. In processing such applications, the Administrator shall give priority to applications for public unmanned aircraft systems engaged in emergency response activities.
+In General.—Not later than 90 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall publish guidance for applications for, and procedures for the processing of, on an emergency basis, exemptions or certificates of authorization or waiver for the use of unmanned aircraft systems by civil or public operators in response to a catastrophe, disaster, or other emergency to facilitate emergency response operations, such as firefighting, search and rescue, and utility and infrastructure restoration efforts. In processing such applications, the Administrator shall give priority to applications for public unmanned aircraft systems engaged in emergency response activities.
 
 "(b)
 
@@ -830,7 +830,7 @@ Deadlines.—
 
 "(a)
 
-In General.—Any application process established under \[former\] section 333 of the FAA Modernization and Reform Act of 2012 \[Pub. L. 112–95\] (\[former\] 49U.S.C. 40101 note) shall allow for a person to apply to the Administrator of the Federal Aviation Administration to operate an unmanned aircraft system, for purposes of conducting an activity described in subsection (b)—
+In General.—Any application process established under \[former\] section 333 of the FAA Modernization and Reform Act of 2012 \[Pub. L. 112–95\] (\[former\] 49 U.S.C. 40101 note) shall allow for a person to apply to the Administrator of the Federal Aviation Administration to operate an unmanned aircraft system, for purposes of conducting an activity described in subsection (b)—
 
 &emsp;"(1) beyond the visual line of sight of the individual operating the unmanned aircraft system; and
 
@@ -928,7 +928,7 @@ Report.—Not later than 1 year after the date of enactment of this Act \[July 1
 
 "(a)
 
-Study.—Not later than 30 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall enter into an arrangement with the National Academies to study the potential use of probabilistic assessments of risks by the Administration to streamline the integration of unmanned aircraft systems into the national airspace system, including any research and development necessary.
+Study.—Not later than 30 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall enter into an arrangement with the National Academies to study the potential use of probabilistic assessments of risks by the Administration to streamline the integration ofunmanned aircraft systems into the national airspace system, including any research and development necessary.
 
 "(b)
 
@@ -1030,7 +1030,7 @@ In general.—The term 'test range' means a defined geographic area where resear
 
 &emsp;&emsp;"(B)
 
-Inclusions.—The term 'test range' includes any of the 6 test ranges established by the Administrator of the Federal Aviation Administration under section 332(c), as in effect on the day before the date of enactment of this subparagraph \[July 15, 2016\], and any public entity authorized by the Federal Aviation Administration as an unmanned aircraft system flight test center before January 1, 2009.
+Inclusions.—The term 'test range' includes any of the 6 test ranges established by the Administrator of the Federal Aviation Administration under section 332(c), as in effect on the day before the date of enactment of this subparagraph \[July 15, 2016\], and any public entity authorized by the Federal Aviation Administration as an unmannedaircraft system flight test center before January 1, 2009.
 
 &emsp;"(8)
 
@@ -1124,7 +1124,7 @@ As UAS are integrated into the NAS, the Federal Government will take steps to en
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish transparent principles that govern the Federal Government's use of UAS in the NAS, and to promote the responsible use of this technology in the private and commercial sectors, it is hereby ordered as follows:
 
-Section 1. <i>UAS Policies and Procedures for Federal Government Use</i>. The Federal Government currently operates UAS in the United States for several purposes, including to manage Federal lands, monitor wildfires, conduct scientific research, monitor our borders, support law enforcement, and effectively train our military. As with information collected by the Federal Government using any technology, where UAS is the platform for collection, information must be collected, used, retained, and disseminated consistent with the Constitution, Federal law, and other applicable regulations and policies. Agencies must, for example, comply with the Privacy Act of 1974 (5 U.S.C. 552a) (the "Privacy Act"), which, among other things, restricts the collection and dissemination of individuals' information that is maintained in systems of records, including personally identifiable information (PII), and permits individuals to seek access to and amendment of records.
+Section 1. <i>UAS Policies and Procedures for Federal Government Use</i>. The Federal Government currently operates UAS in the United States for several purposes, including to manage Federal lands, monitor wildfires, conduct scientific research, monitor our borders, support law enforcement, and effectively train our military. As with information collected by the Federal Government using any technology, where UAS is the platform for collection, information must be collected, used, retained, and disseminated consistent with the Constitution, Federal law, and other applicable regulations and policies. Agencies must, for example, comply with the Privacy Act of 1974 (5 U.S.C. 552a) (the "Privacy Act"), which, among other things, restricts the collection and dissemination of individuals' information that is maintained in systems of records, including personally identifiable information (PII), and permitsindividuals to seek access to and amendment of records.
 
 (a) <i>Privacy Protections</i>. Particularly in light of the diverse potential uses of UAS in the NAS, expected advancements in UAS technologies, and the anticipated increase in UAS use in the future, the Federal Government shall take steps to ensure that privacy protections and policies relative to UAS continue to keep pace with these developments. Accordingly, agencies shall, prior to deployment of new UAS technology and at least every 3 years, examine their existing UAS policies and procedures relating to the collection, use, retention, and dissemination of information obtained by UAS, to ensure that privacy, civil rights, and civil liberties are protected. Agencies shall update their policies and procedures, or issue new policies and procedures, as necessary. In addition to requiring compliance with the Privacy Act in applicable circumstances, agencies that collect information through UAS in the NAS shall ensure that their policies and procedures with respect to such information incorporate the following requirements:
 
@@ -1246,7 +1246,7 @@ Sec. 3. <i>Implementation</i>. (a) To implement the Program, the Secretary or th
 
 (iv) the location of critical infrastructure;
 
-(v) the involvement of commercial entities in the proposal, and their ability to advance objectives that may serve the public interest as a result of further integration of UAS into the NAS;
+(v) the involvement of commercial entities in the proposal, and their ability to advance objectives thatmay serve the public interest as a result of further integration of UAS into the NAS;
 
 (vi) the involvement of affected communities in, and their support for, participating in the Program;
 

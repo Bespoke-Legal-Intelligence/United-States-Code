@@ -18,11 +18,11 @@ An entity described in subsection (a) may have a direct financial interest in th
 
 #### (c) Construction
 
-Nothing in this section shall be construed to preclude an entity described in subsection (a)from performing work necessary to integrate two or more individual systems or elements of a system of systems with each other.
+Nothing in this section shall be construed to preclude an entity described in subsection (a) from performing work necessary to integrate two or more individual systems or elements of a system of systems with each other.
 
 #### (d) Regulations update
 
-Not later than July 1, 2007, the Secretary of Homeland Security shall update the acquisition regulations of the Department of Homeland Security in order to specify fully in such regulations the matters with respect to lead system integrators set forth in this section. Included in such regulations shall be: (1) a precise and comprehensive definition of the term "lead system integrator", modeled after that used by the Department of Defense; and (2) a specification of various types of contracts and fee structures that are appropriate for use by lead system integrators in the production, fielding, and sustainment of complex systems.
+Not later than July 1, 2007, the Secretary of Homeland Security shall update the acquisitionregulations of the Department of Homeland Security in order to specify fully in such regulations the matters with respect to lead system integrators set forth in this section. Included in such regulations shall be: (1) a precise and comprehensive definition of the term "lead system integrator", modeled after that used by the Department of Defense; and (2) a specification of various types of contracts and fee structures that are appropriate for use by lead system integrators in the production, fielding, and sustainment of complex systems.
 
 (Pub. L. 110–28, title VI, §6405, May 25, 2007, 121 Stat. 176.)
 

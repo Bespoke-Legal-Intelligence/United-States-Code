@@ -18,7 +18,7 @@ Requirements Specified.—The Secretary shall require Third Party Administrators
 
 &emsp;(3) Not less frequently than every three years, perform recredentialing, including verifying provider history and license sanctions for all States and United States territories.
 
-&emsp;(4) Implement continuous monitoring of each provider through the National Practitioner Data Bank established pursuant to the Health Care Quality Improvement Act of 1986 (42 U.S.C. 11101 et seq.).
+&emsp;(4) Implement continuous monitoring of each provider through the National Practitioner Data Bank established pursuant to theHealth Care Quality Improvement Act of 1986 (42 U.S.C. 11101 et seq.).
 
 &emsp;(5) Perform other forms of credentialing verification as the Secretary considers appropriate.
 

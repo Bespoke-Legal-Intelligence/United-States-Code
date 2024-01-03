@@ -40,7 +40,7 @@ Specific Costs.—The following costs are not allowable under a covered contract
 
 &emsp;(16) <sup>1</sup> Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the Secretary of Defense may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities.
 
-&emsp;(16) <sup>1</sup> Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
+&emsp;(16) <sup>1</sup> Costs of compensation of contractor and subcontractor employees for a fiscal year,regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
 
 &emsp;(17) Costs incurred by a contractor in connection with a congressional investigation or inquiry into an issue that is the subject matter of a proceeding resulting in a disposition as described in section 3750(c) of this title.
 
@@ -52,7 +52,7 @@ Waiver of Severance Pay Restrictions for Foreign Nationals.—
 
 Head of an agency determination.—Pursuant to the Federal Acquisition Regulation and subject to the availability of appropriations, the head of an agency awarding a covered contract (other than a contract to which subsection (d) applies) may waive the application of the provisions of subsections (a)(13) and (a)(14) to that contract if the head of the agency determines that—
 
-&emsp;&emsp;(A) the application of such provisions to the contract would adversely affect the continuation of a program, project, or activitythat provides significant support services for members of the armed forces stationed or deployed outside the United States;
+&emsp;&emsp;(A) the application of such provisions to the contract would adversely affect the continuation of a program, project, or activity that provides significant support services for members of the armed forces stationed or deployed outside the United States;
 
 &emsp;&emsp;(B) the contractor has taken (or has established plans to take) appropriate actions within the contractor's control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals; and
 
@@ -104,7 +104,7 @@ Exception for foreign-owned financial institutions.—Paragraph (1) does not app
 
 #### References in Text
 
-Section 4 of the Buy American Act (as added by section 7002(2) of the Omnibus Trade and Competitiveness Act of 1988), referred to in subsec. (d)(3), was section 4 of act Mar. 3, 1933, ch. 212, title III, as added Pub. L. 100–418, title VII, §7002(2), Aug. 23, 1988, 102 Stat. 1545. Section 4, which was classified to section 10b–1 of former Title 41, Public Contracts, was omitted from the Code in view of section 7004 of Pub. L. 100–418 which provided that the amendment by Pub. L. 100–418 which enacted section 4 ceased to be effective on Apr. 30, 1996. Section 4 was subsequently repealed by Pub. L. 111–350, §7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
+Section 4 of the Buy American Act (as added by section 7002(2) of the Omnibus Trade and Competitiveness Act of 1988), referred to in subsec. (d)(3), was section 4 of act Mar. 3, 1933, ch. 212, title III, as added Pub. L. 100–418, title VII, §7002(2), Aug. 23, 1988, 102 Stat. 1545. Section 4, which was classified to section 10b–1 of former Title 41, Public Contracts, was omitted from the Code in view of section 7004 of Pub. L. 100–418 which provided that the amendment by Pub. L. 100–418 which enacted section 4 ceased to be effective on Apr. 30, 1996.Section 4 was subsequently repealed by Pub. L. 111–350, §7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
 
 #### Codification
 
@@ -116,7 +116,7 @@ A prior section 3744 was renumbered section 7274 of this title.
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §1832(d)(1), transferred subsec. (e) of section 2324 of this title to this section, struckout subsec. (e) designation and heading "Specific Costs Not Allowable" at beginning, and redesignated pars. (1), (3), (4), and (2) as subsecs. (a) to (d), respectively.
+<b>2021</b>—Pub. L. 116–283, §1832(d)(1), transferred subsec. (e) of section 2324 of this title to this section, struck out subsec. (e) designation and heading "Specific Costs Not Allowable" at beginning, and redesignated pars. (1), (3), (4), and (2) as subsecs. (a) to (d), respectively.
 
 Subsec. (a). Pub. L. 116–283, §1832(d)(2)(A), (B), after redesignation of par. (1) of section 2324(e) of this title as subsec. (a) of this section, inserted heading and redesignated subpars. (A) to (Q) as pars. (1) to (17), respectively, including two subpars. (P) both redesignated par. (16).
 

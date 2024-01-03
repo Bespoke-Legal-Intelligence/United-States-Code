@@ -1,6 +1,6 @@
 ### §2254. Operation, maintenance and purchase of aircraft by Agricultural Research Service; construction and repair of buildings
 
-Appropriations for the Agricultural Research Service shall be available for the operation and maintenance of aircraft and the purchase of not to exceed one for replacement only and pursuant to section 2250 of this title for the construction,alteration, and repair of buildings and improvements.
+Appropriations for the Agricultural Research Service shall be available for the operation and maintenance of aircraft and the purchase of not to exceed one for replacement only and pursuant to section 2250 of this title for the construction, alteration, and repair of buildings and improvements.
 
 (Pub. L. 117–328, div. A, title I, Dec. 29, 2022, 136 Stat. 4466.)
 

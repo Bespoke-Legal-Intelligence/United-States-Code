@@ -14,11 +14,11 @@ The Commission may obtain from any person by regulation or subpena issued pursua
 
 #### (d) Applicability of section 553 of title 5; oral presentation
 
-Standards, regulations, and amendments to standards and regulations under this section shall be made in accordance with section 553 oftitle 5, except that interested persons shall be given an opportunity for the oral presentation of data, views, or arguments in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation.
+Standards, regulations, and amendments to standards and regulations under this section shall be made in accordance with section 553 of title 5, except that interested persons shall be given an opportunity for the oral presentation of data, views, or arguments in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation.
 
 #### (e) Judicial review; additional information before Commission; applicability of sections 701 to 706 of title 5; finality of judgment; survival of action
 
-(1) Any person who will be adversely affected by any such standard or regulation or amendment thereto when it is effective may at any time prior to the sixtieth day after such standard or regulation or amendment thereto is issued file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review thereof. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by him <sup>1</sup> for that purpose. The Commission thereupon shall file in the court the record of the proceedings on which the Commission based the standard or regulation, as provided in section 2112 of title 28.
+(1) Any person who will be adversely affected by any such standard or regulation or amendment thereto when it is effective may at any time prior to the sixtieth day after such standard or regulation or amendment thereto is issued file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review thereof. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by him <sup>1</sup> for that purpose. TheCommission thereupon shall file in the court the record of the proceedings on which the Commission based the standard or regulation, as provided in section 2112 of title 28.
 
 (2) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Commission, and to be adduced upon the hearing, in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, and its recommendations, if any, for the modification or setting aside of its original standard or regulation or amendment thereto, with the return of such additional evidence.
 
@@ -48,7 +48,7 @@ A proceeding for the promulgation of a regulation under this section for a fabri
 
 &emsp;(6) invite any person (other than the Commission) to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days after the date of publication of the notice), a statement of intention to modify or develop a voluntary standard to address the risk of injury identified in paragraph (1) together with a description of a plan to modify or develop the standard.
 
-> The Commission shall transmit such notice within 10 calendar days to the Committee onCommerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+> The Commission shall transmit such notice within 10 calendar days to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 
 #### (h) Voluntary standard; publication as proposed regulation; prerequisites for reliance by Commission
 

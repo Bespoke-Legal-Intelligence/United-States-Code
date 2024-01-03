@@ -1,6 +1,6 @@
 ### §12731. Age and service requirements
 
-(a) Except as provided in subsection (c), a person is entitled, upon application, to retired paycomputed under section 12739 of this title, if the person—
+(a) Except as provided in subsection (c), a person is entitled, upon application, to retired pay computed under section 12739 of this title, if the person—
 
 &emsp;(1) has attained the eligibility age applicable under subsection (f) to that person;
 
@@ -44,13 +44,13 @@
 
 (iii) If a member described in subparagraph (A) is wounded or otherwise injured or becomes ill while serving on active duty pursuant to a call or order to active duty under a provision of law referred to in the first sentence of clause (i) or in clause (ii), and the member is then ordered to active duty under section 12301(h)(1) of this title to receive medical care for the wound, injury, or illness, each day of active duty under that order for medical care shall be treated as a continuation of the original call or order to active duty for purposes of reducing the eligibility age of the member under this paragraph.
 
-(iv) Service on active duty described in this subparagraph is also service on active duty pursuant to a call or order to active duty authorized by the Secretary of Homeland Security under section 712 <sup>1</sup> of title 14 for purposes of emergency augmentation of the Regular Coast Guard forces.
+(iv) Service on active duty described in this subparagraph is also service on active duty pursuant to a call or order to active duty authorized by the Secretary of Homeland Security under section 712 <sup>1</sup> of title 14 for purposes ofemergency augmentation of the Regular Coast Guard forces.
 
 (C) The eligibility age for purposes of subsection (a)(1) may not be reduced below 50 years of age for any person under subparagraph (A).
 
 (3) The Secretary concerned shall periodically notify each member of the Ready Reserve described by paragraph (2) of the current eligibility age for retired pay of such member under this section, including any reduced eligibility age by reason of the operation of that paragraph. Notice shall be provided by such means as the Secretary considers appropriate taking into account the cost of provision of notice and the convenience of members.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Pub. L. 85–704, Aug. 21, 1958, 72 Stat. 702; Pub. L.85–861, §33(a)(8), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 89–652, §1, Oct. 14, 1966, 80 Stat. 902; Pub. L. 90–485, §2, Aug. 13, 1968, 82 Stat. 754; Pub. L. 95–397, title II, §206, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–513, title V, §511(47), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §924(a), Sept. 24, 1983, 97 Stat. 644; Pub. L. 101–189, div. A, title XIV, §1404(b)(1), Nov. 29, 1989, 103 Stat. 1586; renumbered §12731 and amended Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2790, 2999; Pub. L. 104–106, div. A, title XV, §1501(b)(20), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–261, div. A, title V, §561(n)(1), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(n)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §631(a), (b), Dec. 2, 2002, 116 Stat. 2571, 2572; Pub. L. 108–375, div. A, title V, §501(f), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 109–364, div. A, title X, §1071(a)(40), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 110–181, div. A, title VI, §647(a), Jan. 28, 2008, 122 Stat. 160; Pub. L. 111–84, div. A, title X, §1073(a)(35), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title VI, §633, Jan. 7, 2011, 124 Stat. 4240; Pub. L. 112–239, div. A, title VI, §681(b), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 113–66, div. A, title VI, §632, Dec. 26, 2013, 127 Stat. 785; Pub. L. 113–291, div. A, title VI, §625, Dec. 19, 2014, 128 Stat. 3405; Pub. L. 116–92, div. A, title VI, §604, Dec. 20, 2019, 133 Stat. 1424.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Pub. L. 85–704, Aug. 21, 1958, 72 Stat. 702; Pub. L. 85–861, §33(a)(8), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 89–652, §1, Oct. 14, 1966, 80 Stat. 902; Pub. L. 90–485, §2, Aug. 13, 1968, 82 Stat. 754; Pub. L. 95–397, title II, §206, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–513, title V, §511(47), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §924(a), Sept. 24, 1983, 97 Stat. 644; Pub. L. 101–189, div. A, title XIV, §1404(b)(1), Nov. 29, 1989, 103 Stat. 1586; renumbered §12731 and amended Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2790, 2999; Pub. L. 104–106, div. A, title XV, §1501(b)(20), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–261, div. A, title V, §561(n)(1), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(n)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §631(a), (b), Dec. 2, 2002, 116 Stat. 2571, 2572; Pub. L. 108–375, div. A, title V, §501(f), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 109–364, div. A, title X, §1071(a)(40), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 110–181, div. A, title VI, §647(a), Jan. 28, 2008, 122 Stat. 160; Pub. L. 111–84, div. A, title X, §1073(a)(35), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title VI, §633, Jan. 7, 2011, 124 Stat. 4240; Pub. L. 112–239, div. A, title VI, §681(b), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 113–66, div. A, title VI, §632, Dec. 26, 2013, 127 Stat. 785; Pub. L. 113–291, div. A, title VI, §625, Dec. 19, 2014, 128 Stat. 3405; Pub. L. 116–92, div. A, title VI, §604, Dec. 20, 2019, 133 Stat. 1424.)
 
 Historical and Revision Notes<br>1956
 
@@ -132,7 +132,7 @@ Subsec. (f). Pub. L. 110–181, §647(a)(2), added subsec. (f).
 
 Subsec. (b). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-Subsec. (f). Pub. L. 107–314, §631(b), struck out subsec. (f) which read as follows: "In the case of a person who completes the service requirements of subsection (a)(2)during the period beginning on October 5, 1994, and ending on December 31, 2001, the provisions of subsection (a)(3) shall be applied by substituting 'the last six years' for 'the last eight years'."
+Subsec. (f). Pub. L. 107–314, §631(b), struck out subsec. (f) which read as follows: "In the case of a person who completes the service requirements of subsection (a)(2) during the period beginning on October 5, 1994, and ending on December 31, 2001, the provisions of subsection (a)(3) shall be applied by substituting 'the last six years' for 'the last eight years'."
 
 <b>2000</b>—Subsec. (f). Pub. L. 106–398 substituted "December 31, 2001" for "September 30, 2001".
 
@@ -222,7 +222,7 @@ Pub. L. 110–181, div. A, title VI, §647(c), Jan. 28, 2008, 122 Stat. 161, pro
 
 #### Reserve Retirement System; Report to Congress
 
-Pub. L. 99–348, title III, §302, July 1, 1986, 100 Stat. 702, directed Secretary of Defense to submit to Congress,not later than Feb. 1, 1988, a report on the retirement system provided under chapter 67 of this title for members of Armed Forces performing non-regular-service, including in the report any proposals of the Secretary for modifications to such system.
+Pub. L. 99–348, title III, §302, July 1, 1986, 100 Stat. 702, directed Secretary of Defense to submit to Congress, not later than Feb. 1, 1988, a report on the retirement system provided under chapter 67 of this title for members of Armed Forces performing non-regular-service, including in the report any proposals of the Secretary for modifications to such system.
 
 #### Survivor Annuities; Effective Date
 

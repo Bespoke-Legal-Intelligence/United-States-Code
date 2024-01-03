@@ -16,7 +16,7 @@ The transferor and transferee of a facility that is sold or transferred as descr
 
 #### (c) Base amount; interest
 
-(1) The base amount that the United States is entitled to recover under subsection (a) is the amount bearing the same ratio to the then value (as determined by the agreement of the parties or in an action brought in the district court of the United States for the district in which the facility is situated) of so much of the facility as constituted an approved project or projects as the amount of the Federal participation bore to the cost of the remodeling, construction, expansion, or acquisition of the project or projects.
+(1) The base amount that the United States is entitled to recover under subsection (a) is the amount bearing the same ratio to the then value\(as determined by the agreement of the parties or in an action brought in the district court of the United States for the district in which the facility is situated) of so much of the facility as constituted an approved project or projects as the amount of the Federal participation bore to the cost of the remodeling, construction, expansion, or acquisition of the project or projects.
 
 (2)(A) The interest that the United States is entitled to recover under subsection (a) is the interest for the period (if any) described in subparagraph (B) at a rate (determined by the Secretary) based on the average of the bond equivalent rates of ninety-one-day Treasury bills auctioned during that period.
 
@@ -72,7 +72,7 @@ Pub. L. 99–129, title II, §226(b), Oct. 22, 1985, 99 Stat. 547, provided that
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title IX, §902(h), Aug. 13, 1981, 95 Stat. 561, provided that: "The amendments made by this section \[amending this section and sections 201, 225a \[now 238d\], 229b \[now 238j\], 243, 246, 289k–1, 300d–4, 300d–6, 300l–2, 300m, 300m–3, 9412, and 9511 of this title, repealing sections 247b–1, 247b–2, 255, 300d to 300d–3, 300d–5, 300d–7 to 300d–9, 300d–21, 2689 to 2689l, 2689n to 2689p, 2689r to 2689aa, 9411, 9421 to 9423, 9431 to 9438, 9451, 9452, 9461 to 9465, 9471 to 9473, 9481, 9491 to 9493, 9502, 9512, 9521, and 9523 of this title, repealing provisions set out as notes under sections 246 and 2689 of this title, and transferring section 2689m to section 229d \[now 238l\] of this title\] shall take effect October 1, 1981."
+Pub. L. 97–35, title IX, §902(h), Aug. 13, 1981, 95 Stat. 561, provided that: "The amendments made by this section \[amending this section and sections 201, 225a \[now 238d\], 229b \[now 238j\], 243, 246, 289k–1, 300d–4, 300d–6, 300l–2, 300m, 300m–3, 9412, and 9511 of this title, repealing sections 247b–1, 247b–2, 255, 300d to 300d–3, 300d–5, 300d–7 to 300d–9, 300d–21, 2689 to 2689l, 2689n to 2689p,2689r to 2689aa, 9411, 9421 to 9423, 9431 to 9438, 9451, 9452, 9461 to 9465, 9471 to 9473, 9481, 9491 to 9493, 9502, 9512, 9521, and 9523 of this title, repealing provisions set out as notes under sections 246 and 2689 of this title, and transferring section 2689m to section 229d \[now 238l\] of this title\] shall take effect October 1, 1981."
 
 #### Effective Date of 1978 Amendment
 

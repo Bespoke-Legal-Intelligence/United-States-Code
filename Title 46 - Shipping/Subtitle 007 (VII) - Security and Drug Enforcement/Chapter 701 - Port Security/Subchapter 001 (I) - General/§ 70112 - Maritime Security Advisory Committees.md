@@ -124,7 +124,7 @@ Chairperson and vice chairperson.—
 
 &emsp;&emsp;(A)
 
-In general.—Each committee established under this subsection shall elect 1 ofthe committee's members as the Chairperson and 1 of the committee's members as the Vice Chairperson.
+In general.—Each committee established under this subsection shall elect 1 of the committee's members as the Chairperson and 1 of the committee's members as the Vice Chairperson.
 
 &emsp;&emsp;(B)
 
@@ -198,7 +198,7 @@ Subsec. (g)(2). Pub. L. 111–281, §810(2)(B), substituted "2018" for "2006".
 
 Pub. L. 115–282, title VI, §602(b), Dec. 4, 2018, 132 Stat. 4293, provided that: "Notwithstanding any other provision of law—
 
-&emsp;"(1) an advisory committee substantially similar to the National Maritime Security Advisory Committee established under section 70112(a) of title 46, United States Code, as amended by this section, and that was in force or in effect on the day before the date of enactment of this section \[Dec. 4, 2018\], may remain in force or in effect for a period of 2 years from the date of enactment of this section, including that the charter, membership, and other aspects of the committee may remain in force or in effect; and
+&emsp;"(1) an advisory committee substantially similar to the National Maritime Security Advisory Committee established under section 70112(a) of title 46, UnitedStates Code, as amended by this section, and that was in force or in effect on the day before the date of enactment of this section \[Dec. 4, 2018\], may remain in force or in effect for a period of 2 years from the date of enactment of this section, including that the charter, membership, and other aspects of the committee may remain in force or in effect; and
 
 &emsp;"(2) during the 2-year period referenced in paragraph (1)—
 
@@ -220,7 +220,7 @@ Pub. L. 115–254, div. J, §1805(a), Oct. 5, 2018, 132 Stat. 3533, provided tha
 
 Maritime Cybersecurity Risk Assessment Model.—The Secretary of Homeland Security, through the Commandant of the Coast Guard and the Under Secretary responsible for overseeing the critical infrastructure protection, cybersecurity, and other related programs of the Department of Homeland Security, shall—
 
-&emsp;"(1) not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], coordinate with the National Maritime Security Advisory Committee, the Area Maritime Security Advisory Committees, and other maritime stakeholders, as necessary, to develop and implement a maritime cybersecurity risk assessment model, consistent with the activities described in section 2(e) of the National Institute ofStandards and Technology Act (15 U.S.C. 272(e)), to evaluate current and future cybersecurity risks that have the potential to affect the marine transportation system or that would cause a transportation security incident (as defined in section 70101 of title 46, United States Code) in ports; and
+&emsp;"(1) not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], coordinate with the National Maritime Security Advisory Committee, the Area Maritime Security Advisory Committees, and other maritime stakeholders, as necessary, to develop and implement a maritime cybersecurity risk assessment model, consistent with the activities described in section 2(e) of the National Institute of Standards and Technology Act (15 U.S.C. 272(e)), to evaluate current and future cybersecurity risks that have the potential to affect the marine transportation system or that would cause a transportation security incident (as defined in section 70101 of title 46, United States Code) in ports; and
 
 &emsp;"(2) not less than biennially thereafter, evaluate the effectiveness of the cybersecurity risk assessment model established under paragraph (1)."
 

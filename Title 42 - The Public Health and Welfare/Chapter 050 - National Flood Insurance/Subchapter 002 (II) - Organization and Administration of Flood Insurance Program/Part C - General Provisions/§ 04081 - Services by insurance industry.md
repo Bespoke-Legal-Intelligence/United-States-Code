@@ -14,7 +14,7 @@ The Administrator of the Federal Emergency Management Agency shall hold any agen
 
 #### (d) FEMA authority on transfer of policies
 
-Notwithstanding any other provision of this chapter, the Administrator may, at the discretion of the Administrator, refuse to accept thetransfer of the administration of policies for coverage under the flood insurance program under this chapter that are written and administered by any insurance company or other insurer, or any insurance agent or broker.
+Notwithstanding any other provision of this chapter, the Administrator may, at the discretion of the Administrator, refuse to accept the transfer of the administration of policies for coverage under the flood insurance program under this chapter that are written and administered by any insurance company or other insurer, or any insurance agent or broker.
 
 #### (e) Risk transfer
 
@@ -104,7 +104,7 @@ Submission of Expense Reports.—To develop the methodology established under su
 
 "(d)
 
-FEMA Rulemaking on Reimbursement of Expenses Under the Write Your Own Program.—Notlater than 12 months after the date of enactment of this Act \[July 6, 2012\], the Administrator shall issue a rule to formulate revised expense reimbursements to property and casualty insurance companies participating in the Write Your Own program for their expenses (including their operating and administrative expenses for adjustment of claims) in selling, writing, and servicing standard flood insurance policies, including how such companies shall be reimbursed in both catastrophic and noncatastrophic years. Such reimbursements shall be structured to ensure reimbursements track the actual expenses, including standard business costs and operating expenses, of such companies as closely as practicably possible.
+FEMA Rulemaking on Reimbursement of Expenses Under the Write Your Own Program.—Not later than 12 months after the date of enactment of this Act \[July 6, 2012\], the Administrator shall issue a rule to formulate revised expense reimbursements to property and casualty insurance companies participating in the Write Your Own program for their expenses (including their operating and administrative expenses for adjustment of claims) in selling, writing, and servicing standard flood insurance policies, including how such companies shall be reimbursed in both catastrophic and noncatastrophic years. Such reimbursements shall be structured to ensure reimbursements track the actual expenses, including standard business costs and operating expenses, of such companies as closely as practicably possible.
 
 "(e)
 

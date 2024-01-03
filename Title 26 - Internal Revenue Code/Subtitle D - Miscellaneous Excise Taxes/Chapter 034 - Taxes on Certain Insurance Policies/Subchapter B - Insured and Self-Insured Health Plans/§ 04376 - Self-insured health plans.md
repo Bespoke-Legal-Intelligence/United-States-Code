@@ -50,7 +50,7 @@ For purposes of this section, the term "applicable self-insured health plan" mea
 
 #### (d) Adjustments for increases in health care spending
 
-In the case of any plan year ending in any fiscal year beginning after September 30, 2014, the dollar amount in effect under subsection (a) for such plan year shall be equal to the sum of such dollar amount for plan years ending in the previous fiscal year (determined after the application of this subsection), plus an amount equal to the product of—
+In the case of any plan year ending in any fiscal year beginning after September 30, 2014, thedollar amount in effect under subsection (a) for such plan year shall be equal to the sum of such dollar amount for plan years ending in the previous fiscal year (determined after the application of this subsection), plus an amount equal to the product of—
 
 &emsp;(1) such dollar amount for plan years ending in the previous fiscal year, multiplied by
 

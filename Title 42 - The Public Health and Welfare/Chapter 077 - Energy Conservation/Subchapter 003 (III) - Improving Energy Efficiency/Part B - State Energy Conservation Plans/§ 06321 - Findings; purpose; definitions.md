@@ -4,7 +4,7 @@
 
 Congress finds that—
 
-&emsp;(1) the development and implementation by States of laws, policies, programs, and procedures to conserve and to improve efficiency in the use of energy will have an immediate and substantial effect in reducing the rate of growth of energy demand and in minimizingthe adverse social, economic, political, and environmental impacts of increasing energy consumption;
+&emsp;(1) the development and implementation by States of laws, policies, programs, and procedures to conserve and to improve efficiency in the use of energy will have an immediate and substantial effect in reducing the rate of growth of energy demand and in minimizing the adverse social, economic, political, and environmental impacts of increasing energy consumption;
 
 &emsp;(2) the development and implementation of energy conservation programs by States will most efficiently and effectively minimize any adverse economic or employment impacts of changing patterns of energy use and meet local economic, climatic, geographic, and other unique conditions and requirements of each State; and
 
@@ -42,7 +42,7 @@ In this part:
 
 #### (4) Energy conservation measure
 
-&emsp;The term "energy conservation measure" means a measure which modifies any building, building system, energy consuming device associated with the building, or industrial plant, the construction of which has been completed prior to May 1, 1989, if such measure has been determined by means of an energy audit or by the Secretary, by rule under section 6325(e)(1) of this title, to be likely to maintain or improve the efficiency of energy use and to reduce energy costs (as calculated on the basis of energy costs reasonably projected over time, as determined by the Secretary) in an amount sufficient to enable a person to recover the total cost of purchasing and installing such measure (without regard to any tax benefit or Federal financial assistance applicable thereto) within the period of—
+&emsp;The term "energy conservation measure" means a measure which modifies any building, building system, energy consuming device associated with the building, or industrial plant,the construction of which has been completed prior to May 1, 1989, if such measure has been determined by means of an energy audit or by the Secretary, by rule under section 6325(e)(1) of this title, to be likely to maintain or improve the efficiency of energy use and to reduce energy costs (as calculated on the basis of energy costs reasonably projected over time, as determined by the Secretary) in an amount sufficient to enable a person to recover the total cost of purchasing and installing such measure (without regard to any tax benefit or Federal financial assistance applicable thereto) within the period of—
 
 &emsp;&emsp;(A) the useful life of the modification involved, as determined by the Secretary, or
 

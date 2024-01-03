@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) examine—
 
-&emsp;&emsp;&emsp;(i) compliance with requirements prohibiting the denial of assistance, tenancy, or occupancy rights on the basis of domestic violence, dating violence, sexual assault, or stalking;
+&emsp;&emsp;&emsp;(i) compliance with requirements prohibiting the denial of assistance, tenancy, or occupancy rights on the basis of domesticviolence, dating violence, sexual assault, or stalking;
 
 &emsp;&emsp;&emsp;(ii) compliance with confidentiality provisions set forth in section 12491(c)(4) of this title;
 

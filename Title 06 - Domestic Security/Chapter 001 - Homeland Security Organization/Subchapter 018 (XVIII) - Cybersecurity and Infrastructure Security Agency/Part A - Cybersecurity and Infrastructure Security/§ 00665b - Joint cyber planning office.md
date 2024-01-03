@@ -8,7 +8,7 @@ There is established in the Agency an office for joint cyber planning (in this s
 
 In leading the development of plans for cyber defense operations pursuant to subsection (a), the head of the Office shall—
 
-&emsp;(1) coordinate with relevant Federal departments and agencies to establish processes and procedures necessary to develop and maintain ongoing coordinated plans for cyber defense operations;
+&emsp;(1) coordinate with relevant Federal departments and agencies to establish processes andprocedures necessary to develop and maintain ongoing coordinated plans for cyber defense operations;
 
 &emsp;(2) leverage cyber capabilities and authorities of participating Federal departments and agencies, as appropriate, in furtherance of plans for cyber defense operations;
 

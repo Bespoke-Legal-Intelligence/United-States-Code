@@ -8,7 +8,7 @@ The purposes of this chapter are—
 
 &emsp;&emsp;(B) to support national defense, search and rescue operations, marine commerce, navigation safety, weather, climate, and marine forecasting, energy siting and production, economic development, ecosystem-based marine, coastal, and Great Lakes resource management, public safety, and public outreach and education;
 
-&emsp;&emsp;(C) to promote greater public awareness and stewardship of the Nation's ocean, coastal, and Great Lakes resources and the general public welfare;
+&emsp;&emsp;(C) to promote greater public awareness and stewardship of the Nation's ocean,coastal, and Great Lakes resources and the general public welfare;
 
 &emsp;&emsp;(D) to provide easy access to ocean, coastal, and Great Lakes data and promote data sharing between Federal and non-Federal sources and promote public data sharing;
 
@@ -42,5 +42,5 @@ Pub. L. 116–271, §1(a), Dec. 31, 2020, 134 Stat. 3331, provided that: "This A
 
 #### Short Title
 
-Pub. L. 111–11, title XII, §12301, Mar. 30, 2009, 123 Stat. 1427, provided that: "This subtitle \[subtitle C (§§12301–12312) of title XII of Pub. L. 111–11, enactingthis chapter\] may be cited as the 'Integrated Coastal and Ocean Observation System Act of 2009'."
+Pub. L. 111–11, title XII, §12301, Mar. 30, 2009, 123 Stat. 1427, provided that: "This subtitle \[subtitle C (§§12301–12312) of title XII of Pub. L. 111–11, enacting this chapter\] may be cited as the 'Integrated Coastal and Ocean Observation System Act of 2009'."
 

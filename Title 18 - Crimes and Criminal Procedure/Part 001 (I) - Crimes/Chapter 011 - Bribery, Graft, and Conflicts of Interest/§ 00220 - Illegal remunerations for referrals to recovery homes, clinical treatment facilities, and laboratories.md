@@ -32,7 +32,7 @@ Applicability.—Subsection (a) shall not apply to—
 
 &emsp;(4) a payment made by a principal to an agent as compensation for the services of the agent under a personal services and management contract that meets the requirements of section 1001.952(d) of title 42, Code of Federal Regulations, as in effect on the date of enactment of this section;
 
-&emsp;(5) a waiver or discount (as defined in section 1001.952(h)(5) of title 42, Code of Federal Regulations, or any successor regulation) of any coinsurance or copayment by a health care benefit program if—
+&emsp;(5) a waiver or discount (as defined in section 1001.952(h)(5) of title 42, Code of Federal Regulations, or any successor regulation) ofany coinsurance or copayment by a health care benefit program if—
 
 &emsp;&emsp;(A) the waiver or discount is not routinely provided; and
 
@@ -46,7 +46,7 @@ Applicability.—Subsection (a) shall not apply to—
 
 (c)
 
-Regulations.—The Attorney General, in consultation with the Secretary of Health andHuman Services, may promulgate regulations to clarify the exceptions described in subsection (b).
+Regulations.—The Attorney General, in consultation with the Secretary of Health and Human Services, may promulgate regulations to clarify the exceptions described in subsection (b).
 
 (d)
 

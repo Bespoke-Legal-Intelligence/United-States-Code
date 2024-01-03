@@ -12,7 +12,7 @@ The Attorney General may establish guidelines for the collection of such reports
 
 The Attorney General shall publish an annual statistical summary of the reports received under this section and section 41308 of this title.
 
-(Pub. L. 101–647, title XXXVII, §3701, Nov. 29, 1990, 104 Stat. 4966; Pub. L. 108–21, title II, §204,Apr. 30, 2003, 117 Stat. 660; Pub. L. 117–327, §2(c)(1), Dec. 27, 2022, 136 Stat. 4455.)
+(Pub. L. 101–647, title XXXVII, §3701, Nov. 29, 1990, 104 Stat. 4966; Pub. L. 108–21, title II, §204, Apr. 30, 2003, 117 Stat. 660; Pub. L. 117–327, §2(c)(1), Dec. 27, 2022, 136 Stat. 4455.)
 
 #### <b>Editorial Notes</b>
 

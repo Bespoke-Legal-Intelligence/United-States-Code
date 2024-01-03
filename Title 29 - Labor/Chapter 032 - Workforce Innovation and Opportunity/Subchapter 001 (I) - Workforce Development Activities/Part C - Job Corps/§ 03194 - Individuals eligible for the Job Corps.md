@@ -62,7 +62,7 @@ Enrollment.—During the period beginning on the date of enactment of this Act \
 
 "(b)
 
-Eligibility.—During a qualifying emergency or the 1-year period immediately following the expirationof the qualifying emergency, an individual who would be older than the age of 24 on the date the individual enrolls in the Job Corps is eligible to enroll in the Job Corps, notwithstanding section 144(a)(1)(A) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3194(a)(1)(A)), as long as—
+Eligibility.—During a qualifying emergency or the 1-year period immediately following the expiration of the qualifying emergency, an individual who would be older than the age of 24 on the date the individual enrolls in the Job Corps is eligible to enroll in the Job Corps, notwithstanding section 144(a)(1)(A) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3194(a)(1)(A)), as long as—
 
 &emsp;"(1) the individual applies for enrollment by the date that is 6 months after the date of enactment of this Act, and is not older than age 24 on the date of application; and
 

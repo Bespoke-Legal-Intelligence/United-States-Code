@@ -62,19 +62,15 @@ Not later than July 31, 2016, and biennially thereafter, the Secretary shall pre
 
 #### Amendments
 
-<b>2014</b>—Pub. L. 113–186 substituted "Reports, hotline, and Web site" for "Report by Secretary" in section catchline, designated existing provisions as subsec. (a), inserted heading, substituted "2016" for "1998" and "to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate" for "to the Committee on Economic and Educational Opportunities of the House of Representatives and the Committee on Labor and Human Resources of the Senate", inserted at end of subsec. (a) "Such report shall contain a determination around whether each State that uses amounts provided under this subchapter has complied with the priority for services described in sections 9858c(c)(2)(Q) and 9858c(c)(3)(B) of this title.", and added subsec. (b).
+<b>2014</b>—Pub. L. 113–186 substituted "Reports, hotline, and Web site" for "Report by Secretary" in section catchline, designated existing provisions as subsec. (a), inserted heading, substituted "2016" for "1998" and "to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate" for "to the Committee on Economic and Educational Opportunities of the House of Representatives and the Committee on Labor and Human Resources of the Senate", inserted at end of subsec. (a) "Such report shall contain a determination around whether each State that uses amounts provided under this subchapter hascomplied with the priority for services described in sections 9858c(c)(2)(Q) and 9858c(c)(3)(B) of this title.", and added subsec. (b).
 
 <b>1997</b>—Pub. L. 105–33 substituted "1998" for "1997".
 
-<b>1996</b>—Pub. L. 104–193 substituted "July 31, 1997, and biennially thereafter" for "July 31, 1993, and annuallythereafter" and "Committee on Economic and Educational Opportunities" for "Committee on Education and Labor".
+<b>1996</b>—Pub. L. 104–193 substituted "July 31, 1997, and biennially thereafter" for "July 31, 1993, and annually thereafter" and "Committee on Economic and Educational Opportunities" for "Committee on Education and Labor".
 
 <b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1997 Amendment
 

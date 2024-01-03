@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(ii)(I) was a member of the Police Department of New York City (whether active or retired) or a member of the Port Authority Police of the Port Authority of New York and New Jersey (whether active or retired) who participated onsite in rescue, recovery, debris cleanup, or related services in lower Manhattan (south of Canal St.), including Ground Zero, the Staten Island Landfill, or the barge loading piers, for at least 4 hours during the period beginning September 11, 2001, and ending on September 14, 2001;
 
-&emsp;&emsp;&emsp;(II) participated onsite in rescue, recovery, debris cleanup, or related services at Ground Zero, the Staten Island Landfill, or the barge loading piers, for at least one day during the period beginning on September 11, 2001, and ending on July 31, 2002;
+&emsp;&emsp;&emsp;(II) participated onsite in rescue, recovery, debris cleanup, or related services at Ground Zero, the Staten Island Landfill, or the barge loading piers, for at least oneday during the period beginning on September 11, 2001, and ending on July 31, 2002;
 
 &emsp;&emsp;&emsp;(III) participated onsite in rescue, recovery, debris cleanup, or related services in lower Manhattan (south of Canal St.) for at least 24 hours during the period beginning on September 11, 2001, and ending on September 30, 2001; or
 
@@ -66,9 +66,13 @@
 
 &emsp;&emsp;The individual—
 
-&emsp;&emsp;&emsp;(i)(I) was a member of a fire or police department (whether fire or emergency personnel, active or retired), worked for a recovery or cleanup contractor, or was a volunteer; and performed rescue, recovery, demolition, debris cleanup, or other related services at the Pentagon site of the terrorist-related aircraft crash of September 11, 2001, during the period beginning on September 11, 2001, and ending on the date on which the cleanup of the site was concluded, as determined by the WTC Program Administrator; or
+&emsp;&emsp;&emsp;(i)(I) was a member of a fire or police department (whether fire or emergency personnel, active or retired), worked for a recovery or cleanup contractor, or was a volunteer; and performed rescue, recovery, demolition, debris cleanup, or other related services at the Pentagon site of the terrorist-related aircraft crash of September 11, 2001, during the period beginning on September 11, 2001, and ending on the date on which the cleanup of the site was concluded, as determined by the WTC Program Administrator;
 
-&emsp;&emsp;&emsp;(II) was a member of a fire or police department (whether fire or emergency personnel, active or retired), worked for a recovery or cleanup contractor, or was a volunteer; and performed rescue, recovery, demolition, debris cleanup, or other related services at the Shanksville, Pennsylvania, site of the terrorist-related aircraft crash of September 11, 2001, during the period beginning on September 11, 2001, and ending on the date on which the cleanup of the site was concluded, as determined by the WTC Program Administrator; and
+&emsp;&emsp;&emsp;(II) was a member of a fire or police department (whether fire or emergency personnel, active or retired), worked for a recovery or cleanup contractor, or was a volunteer; and performed rescue, recovery, demolition, debris cleanup, or other related services at the Shanksville, Pennsylvania, site of the terrorist-related aircraft crash of September 11, 2001, during the period beginning on September 11, 2001, and ending on the date on which the cleanup of the site was concluded, as determined by the WTC Program Administrator;
+
+&emsp;&emsp;&emsp;(III) was an employee of the Department of Defense or any other Federal agency, worked during the period beginning on September 11, 2001, and ending on September 18, 2001, for a contractor of the Department of Defense or any other Federal agency, or was a member of a regular or reserve component of the uniformed services; and performed rescue, recovery, demolition, debris cleanup, or other related services at the Pentagon site of the terrorist-related aircraft crash of September 11, 2001, during the period beginning on September 11, 2001, and ending on the date on which the cleanup of the site was concluded, as determined by the WTC Program Administrator; or
+
+&emsp;&emsp;&emsp;(IV) was an employee of the Department of Defense or any other Federal agency, worked during the period beginning on September 11, 2001, and ending on September 18, 2001, for a contractor of the Department of Defense or any other Federal agency, or was a member of a regular or reserve component of the uniformed services; and performed rescue, recovery, demolition, debris cleanup, or other related services at the Shanksville, Pennsylvania, site of the terrorist-related aircraft crash of September 11, 2001, during the period beginning on September 11, 2001, and ending on the date on which the cleanup of the site was concluded, as determined by the WTC Program Administrator; and
 
 &emsp;&emsp;&emsp;(ii) is determined by the WTC Program Administrator to be at an increased risk of developing a WTC-related health condition as a result of exposure to airborne toxins, other hazards, or adverse conditions resulting from the September 11, 2001, terrorist attacks, and meets such eligibility criteria related to such exposures, as the WTC Program Administrator determines are appropriate, after consultation with the WTC Scientific/Technical Advisory Committee.
 
@@ -102,9 +106,15 @@
 
 #### (4) Numerical limitation on eligible WTC responders
 
-#### (A) In general
+#### (A) Limit
 
-&emsp;&emsp;The total number of individuals not described in paragraph (1)(A) or (2)(A)(ii) who may be enrolled under paragraph (3)(A)(ii) shall not exceed 75,000 at any time, of which no more than 2,500 may be individuals enrolled based on modified eligibility criteria established under paragraph (1)(C).
+#### (i) In general
+
+&emsp;&emsp;&emsp;The total number of individuals not described in paragraph (1)(A) or (2)(A)(ii) or subclause (III) or (IV) of paragraph (2)(C)(i) who may be enrolled under paragraph (3)(A)(ii) shall not exceed 75,000 at any time, of which no more than 2,500 may be individuals enrolled based on modified eligibility criteria established under paragraph (1)(C).
+
+#### (ii) Certain responders to the September 11 attacks at the Pentagon and Shanksville, Pennsylvania
+
+&emsp;&emsp;&emsp;The total number of individuals who may be enrolled under paragraph (3)(A)(ii) based on eligibility criteria described in subclause (III) or (IV) of paragraph (2)(C)(i) shall not exceed 500 at any time.
 
 #### (B) Process
 
@@ -114,7 +124,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) in accordance with such subparagraph; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to such number, as determined by the Administrator based on the best available information and subject to amounts available under sections 300mm–61 and 300mm–62 of this title, that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals who are enrolled; and
+&emsp;&emsp;&emsp;&emsp;(II) to such number, as determined by the Administrator based on the best available information and subject to amounts available under this subchapter, that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals who are enrolled; and
 
 &emsp;&emsp;&emsp;(ii) provide priority (subject to paragraph (3)(A)(i)) in such enrollments in the order in which individuals apply for enrollment under paragraph (3).
 
@@ -130,13 +140,19 @@
 
 #### (2) Provision of monitoring benefits
 
-&emsp;The monitoring benefits under paragraph (1) shall be provided through the Clinical Centerof Excellence for the type of individual involved or, in the case of an individual residing outside the New York metropolitan area, under an arrangement under section 300mm–23 of this title.
+&emsp;The monitoring benefits under paragraph (1) shall be provided through the Clinical Center of Excellence for the type of individual involved or, in the case of an individual residing outside the New York metropolitan area, under an arrangement under section 300mm–23 of this title.
 
-(July 1, 1944, ch. 373, title XXXIII, §3311, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3635; amended Pub. L. 114–113, div. O, title III, §302(d), Dec. 18, 2015, 129 Stat. 2999; Pub. L. 116–59, div. B, title VI, §1602(a), Sept. 27, 2019, 133 Stat. 1107; Pub. L. 117–328, div. FF, title VII, §7701(b)(1), Dec. 29, 2022, 136 Stat. 5965.)
+(July 1, 1944, ch. 373, title XXXIII, §3311, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3635; amended Pub. L. 114–113, div. O, title III, §302(d), Dec. 18, 2015, 129 Stat. 2999; Pub. L. 116–59, div. B, title VI, §1602(a), Sept. 27, 2019, 133 Stat. 1107; Pub. L. 117–328, div. FF, title VII, §7701(b)(1), Dec. 29, 2022, 136 Stat. 5965; Pub. L. 118–31, div. A, title XVIII, §1851(a)(2), (c)(1), Dec. 22, 2023, 137 Stat. 706, 708.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(2)(C)(i)(III), (IV). Pub. L. 118–31, §1851(a)(2)(A), added subcls. (III) and (IV).
+
+Subsec. (a)(4)(A). Pub. L. 118–31, §1851(a)(2)(B), substituted "Limit" for "In general" in subpar. heading, designated existing provisions as cl. (i) and inserted cl. heading, inserted "or subclause (III) or (IV) of paragraph (2)(C)(i)" after "or (2)(A)(ii)", and added cl. (ii).
+
+Subsec. (a)(4)(B)(i)(II). Pub. L. 118–31, §1851(c)(1), substituted "this subchapter" for "sections 300mm–61 and 300mm–62 of this title".
 
 <b>2022</b>—Subsec. (a)(4)(B)(i)(II). Pub. L. 117–328 substituted "sections 300mm–61 and 300mm–62 of this title" for "section 300mm–61 of this title".
 

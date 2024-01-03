@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) The term "antitrust law" means the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] and each statute defined by section 4 thereof \[15 U.S.C. 44\] as "Antitrust Acts" and all amendments to such Act and such statutes and any other Acts in pari materia.
+&emsp;(1) The term "antitrust law" means the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] and each statute defined by section 4 thereof \[15 U.S.C. 44\] as "Antitrust Acts" andall amendments to such Act and such statutes and any other Acts in pari materia.
 
 &emsp;(2) The term "joint newspaper operating arrangement" means any contract, agreement, joint venture (whether or not incorporated), or other arrangement entered into by two or more newspaper owners for the publication of two or more newspaper publications, pursuant to which joint or common production facilities are established or operated and joint or unified action is taken or agreed to be taken with respect to any one or more of the following: printing; time, method, and field of publication; allocation of production facilities; distribution; advertising solicitation; circulation solicitation; business department; establishment of advertising rates; establishment of circulation rates and revenue distribution: <i>Provided</i>, That there is no merger, combination, or amalgamation of editorial or reportorial staffs, and that editorial policies be independently determined.
 

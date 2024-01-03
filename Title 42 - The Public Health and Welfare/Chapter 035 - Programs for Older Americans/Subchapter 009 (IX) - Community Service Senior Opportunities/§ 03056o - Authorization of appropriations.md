@@ -10,7 +10,7 @@ Amounts appropriated under this section for any fiscal year shall be available f
 
 #### (c) Recapturing funds
 
-At the end of the program year, the Secretary may recapture any unexpended funds for theprogram year, and reobligate such funds within the 2 succeeding program years for—
+At the end of the program year, the Secretary may recapture any unexpended funds for the program year, and reobligate such funds within the 2 succeeding program years for—
 
 &emsp;(1) incentive grants to entities that are State grantees or national grantees under section 3056(b) of this title;
 

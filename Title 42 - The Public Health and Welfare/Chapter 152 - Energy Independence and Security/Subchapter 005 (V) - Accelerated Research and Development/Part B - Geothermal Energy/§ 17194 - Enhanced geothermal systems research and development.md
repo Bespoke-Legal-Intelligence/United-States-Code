@@ -120,7 +120,7 @@ In collaboration with industry partners, institutions of higher education, and t
 
 #### (A) In general
 
-&emsp;&emsp;Under the initiative described in paragraph (1), 4 demonstration projects shall be carried out in locations that are potentially commercially viable for enhanced geothermal systems development, while also considering environmental impacts to the maximum extent practicable, as determined by the Secretary.
+&emsp;&emsp;Under the initiative described in paragraph (1), 4 demonstration projects shall becarried out in locations that are potentially commercially viable for enhanced geothermal systems development, while also considering environmental impacts to the maximum extent practicable, as determined by the Secretary.
 
 #### (B) Requirements
 

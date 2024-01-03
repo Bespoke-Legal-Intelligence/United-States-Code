@@ -38,7 +38,7 @@ The definitions in section 40102(a) of title 49 shall apply with respect to term
 
 &emsp;&emsp;&emsp;&emsp;(I) any officer or employee of the air carrier whose total compensation exceeded $425,000 in calendar year 2019 (other than an employee whose compensation is determined through an existing collective bargaining agreement entered into prior to March 11, 2021)—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) total compensation that exceeds, during any 12 consecutive months of such 2-year period, the total compensation received by the officer or employee from the air carrier in calendar year 2019; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) total compensation that exceeds, during any 12 consecutivemonths of such 2-year period, the total compensation received by the officer or employee from the air carrier in calendar year 2019; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) severance pay or other benefits upon termination of employment with the air carrier which exceeds twice the maximum total compensation received by the officer or employee from the air carrier in calendar year 2019; and
 
@@ -46,7 +46,7 @@ The definitions in section 40102(a) of title 49 shall apply with respect to term
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) $3,000,000; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) 50 percent of the excess over $3,000,000 of the total compensation received by the officer or employee from the air carrier in calendar year 2019.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) 50 percent of the excess over $3,000,000 of the total compensation received by the officer or employee from the air carrier in calendar year 2019.<sup>2</sup>
 
 &emsp;(5) the term "eligible contractor" means a contractor that—
 
@@ -76,7 +76,7 @@ The definitions in section 40102(a) of title 49 shall apply with respect to term
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) $3,000,000; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) 50 percent of the excess over $3,000,000 of the total compensation received by the officer or employee from the contractor in calendar year 2019.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) 50 percent of the excess over $3,000,000 of the total compensation received by the officer or employee from the contractor in calendar year 2019.<sup>3</sup>
 
 &emsp;(6) the term "Secretary" means the Secretary of the Treasury.
 
@@ -112,7 +112,7 @@ The definitions in section 40102(a) of title 49 shall apply with respect to term
 
 #### (A) Forms; terms and conditions
 
-&emsp;&emsp;The Secretary shall provide financial assistance to an eligible air carrier or eligible contractor under this section in the same form and on the same terms and conditions as determined by pursuant to <sup>2</sup> section 9093(b)(1)(A) of this title.
+&emsp;&emsp;The Secretary shall provide financial assistance to an eligible air carrier or eligible contractor under this section in the same form and on the same terms and conditions as determined by pursuant to <sup>4</sup> section 9093(b)(1)(A) of this title.
 
 #### (B) Procedures
 
@@ -144,5 +144,9 @@ Section was enacted as part of the American Rescue Plan Act of 2021, and not as 
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "to".</i>
 
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>3</sup></i><i> So in original. The period probably should be "; and".</i>
+
+<i><sup>4</sup></i><i> So in original.</i>
 

@@ -32,7 +32,7 @@ An employee who is designated as a participant in the Central Intelligence Agenc
 
 #### (e) Special rules
 
-The application of the provisions of chapter 84 of title 5 to an employee referred to in subsection (a) shall be subject to the exceptions and special rules provided in this subchapter. Any provision of that chapter which is inconsistent with a special rule provided in this subchapter shall not apply to such employees.
+The application of the provisions of chapter 84 of title 5 to an employee referred to in subsection (a) shall be subject to the exceptions andspecial rules provided in this subchapter. Any provision of that chapter which is inconsistent with a special rule provided in this subchapter shall not apply to such employees.
 
 (Pub. L. 88–643, title III, §301, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3243.)
 

@@ -16,7 +16,7 @@
 
 (h) Whoever, without lawful authority, prints, photographs, makes or executes any print or impression in the likeness of a certificate of arrival, declaration of intention to become a citizen, or certificate of naturalization or citizenship, or any part thereof—
 
-Shall be fined under this title or imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facilitate such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
+Shall be fined under this title or imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offensewas not committed to facilitate such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 767; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, §211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 107–273, div. B, title IV, §4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
 
@@ -34,7 +34,7 @@ References to persons causing, procuring, aiding, abetting, or assisting were om
 
 <b>2002</b>—Pub. L. 107–273 substituted "to facilitate" for "to facility" in last par.
 
-<b>1996</b>—Pub. L. 104–208 substituted "imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15years (in the case of any other offense)" for "imprisoned not more than five years" in last par.
+<b>1996</b>—Pub. L. 104–208 substituted "imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)" for "imprisoned not more than five years" in last par.
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000" in last par.
 

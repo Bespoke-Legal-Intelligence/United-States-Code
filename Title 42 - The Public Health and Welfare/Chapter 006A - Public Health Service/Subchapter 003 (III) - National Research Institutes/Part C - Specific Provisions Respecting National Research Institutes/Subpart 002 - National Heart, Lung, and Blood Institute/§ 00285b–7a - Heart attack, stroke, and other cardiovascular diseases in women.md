@@ -22,7 +22,7 @@ In carrying out subsection (a), the Director of the Institute shall conduct or s
 
 &emsp;(5) Clinical research for the development and evaluation of new treatments for women, including rehabilitation.
 
-&emsp;(6) Studies to gain a better understanding of methods of preventing cardiovascular diseases in women, including applications of effectivemethods for the control of blood pressure, lipids, and obesity.
+&emsp;(6) Studies to gain a better understanding of methods of preventing cardiovascular diseases in women, including applications of effective methods for the control of blood pressure, lipids, and obesity.
 
 &emsp;(7) Information and education programs for patients and health care providers on risk factors associated with heart attack, stroke, and other cardiovascular diseases in women, and on the importance of the prevention or control of such risk factors and timely referral with appropriate diagnosis and treatment. Such programs shall include information and education on health-related behaviors that can improve such important risk factors as smoking, obesity, high blood cholesterol, and lack of exercise.
 

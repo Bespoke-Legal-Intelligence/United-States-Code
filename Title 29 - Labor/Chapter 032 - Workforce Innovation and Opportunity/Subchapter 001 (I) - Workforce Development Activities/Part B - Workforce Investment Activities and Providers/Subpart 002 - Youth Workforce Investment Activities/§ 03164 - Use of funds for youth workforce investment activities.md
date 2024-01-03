@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(D) operating a fiscal and management accountability information system under section 3141(i) of this title;
 
-&emsp;&emsp;(E) carrying out monitoring and oversight of activities carried out under this subpart and subpart 3, which may include a reviewcomparing the services provided to male and female youth; and
+&emsp;&emsp;(E) carrying out monitoring and oversight of activities carried out under this subpart and subpart 3, which may include a review comparing the services provided to male and female youth; and
 
 &emsp;&emsp;(F) providing additional assistance to local areas that have high concentrations of eligible youth.
 
@@ -268,7 +268,7 @@
 
 #### References in Text
 
-This Act, referred to in subsec. (c)(6)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsec. (c)(6)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enactedthis chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Amendments
 

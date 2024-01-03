@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the claim of an individual for payment of lump-sum compensation under part B, more than that percentage specified in subsection (b) of a payment made under part B on such claim.
+Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the claim of anindividual for payment of lump-sum compensation under part B, more than that percentage specified in subsection (b) of a payment made under part B on such claim.
 
 #### (b) Applicable percentage limitations
 

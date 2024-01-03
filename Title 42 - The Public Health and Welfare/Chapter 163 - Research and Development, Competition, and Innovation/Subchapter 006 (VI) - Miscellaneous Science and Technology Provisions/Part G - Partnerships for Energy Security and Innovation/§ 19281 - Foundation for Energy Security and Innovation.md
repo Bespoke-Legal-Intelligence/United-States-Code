@@ -158,7 +158,7 @@ In this section:
 
 #### (II) Initial appointed members
 
-&emsp;&emsp;&emsp;&emsp;Of the initial members of the Board appointed under subparagraph (B)(iii)(I),half of the members shall serve for 4 years and half of the members shall serve for 5 years, as determined by the Chair of the Board.
+&emsp;&emsp;&emsp;&emsp;Of the initial members of the Board appointed under subparagraph (B)(iii)(I), half of the members shall serve for 4 years and half of the members shall serve for 5 years, as determined by the Chair of the Board.
 
 #### (ii) Vacancies
 
@@ -254,7 +254,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) that complement the use of prize authority by the Department;
 
-&emsp;&emsp;&emsp;(v) supporting programs that advance technology maturation, especially where there may be gaps in Federal or private funding in advancing a technology to deployment or commercialization from the prototype stage to a commercial stage;
+&emsp;&emsp;&emsp;(v) supporting programs that advance technology maturation, especially where there may be gaps in Federal or privatefunding in advancing a technology to deployment or commercialization from the prototype stage to a commercial stage;
 
 &emsp;&emsp;&emsp;(vi) supporting efforts to broaden participation in energy technology development among individuals from historically underrepresented groups or regions; and
 
@@ -346,7 +346,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) to conduct and support forums, meetings, conferences, courses, and training workshops consistent with the purposes of the Foundation described in paragraph (3);
 
-&emsp;&emsp;&emsp;(ii) to support and encourage the understanding and development of data thatpromotes the translation of technologies from the research stage, through the development and maturation stage, and ending in the market stage;
+&emsp;&emsp;&emsp;(ii) to support and encourage the understanding and development of data that promotes the translation of technologies from the research stage, through the development and maturation stage, and ending in the market stage;
 
 &emsp;&emsp;&emsp;(iii) for writing, editing, printing, publishing, and vending books and other materials relating to research carried out under the Foundation and the Department; and
 
@@ -422,7 +422,7 @@ In this section:
 
 #### (F) Evaluation by Comptroller General
 
-&emsp;&emsp;Not later than 5 years after the date on which the Foundation is established, the Comptroller General of the United States shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives—
+&emsp;&emsp;Not later than 5 years after the date on which the Foundation is established, theComptroller General of the United States shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives—
 
 &emsp;&emsp;&emsp;(i) an evaluation of—
 
@@ -508,7 +508,7 @@ In this section:
 
 #### (B) Department liaisons
 
-&emsp;&emsp;The Secretary shall appoint liaisons from across the Department to collaborate andcoordinate with the Foundation, including not less than 1 liaison from the Office of Technology Transitions, who shall ensure that the Foundation works in conjunction with and does not duplicate existing activities and programs carried out by the Department, including the Technology Commercialization Fund of the Department.
+&emsp;&emsp;The Secretary shall appoint liaisons from across the Department to collaborate and coordinate with the Foundation, including not less than 1 liaison from the Office of Technology Transitions, who shall ensure that the Foundation works in conjunction with and does not duplicate existing activities and programs carried out by the Department, including the Technology Commercialization Fund of the Department.
 
 #### (C) Administration
 
@@ -604,7 +604,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(viii) for the conduct of other activities to carry out and support the purpose of the Laboratory Foundation; and
 
-&emsp;&emsp;(G) receiving, administering, soliciting, accepting, and using funds, gifts, devises, or bequests, either absolutely or in trust of real or personal property or any income therefrom, or other interest or equity therein for the benefit of, or in connection with, the mission of the applicable Federal laboratory, in accordance with paragraph (4).
+&emsp;&emsp;(G) receiving, administering, soliciting, accepting, and using funds, gifts, devises, orbequests, either absolutely or in trust of real or personal property or any income therefrom, or other interest or equity therein for the benefit of, or in connection with, the mission of the applicable Federal laboratory, in accordance with paragraph (4).
 
 #### (3) Fellowships and grants
 

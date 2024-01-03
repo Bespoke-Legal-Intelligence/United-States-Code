@@ -36,7 +36,7 @@ Exceptions.—Subsection (a) of this section does not apply with respect to cond
 
 &emsp;(3) in section 2703, 2704 or 2518 of this title.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 103–322, title XXXIII, §330016(1)(K), (U), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI,§601(a)(3), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–296, title XXII, §2207(j)(2), formerly title II, §225(j)(2), Nov. 25, 2002, 116 Stat. 2158, renumbered §2207(j)(2), Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178.)
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 103–322, title XXXIII, §330016(1)(K), (U), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI, §601(a)(3), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–296, title XXII, §2207(j)(2), formerly title II, §225(j)(2), Nov. 25, 2002, 116 Stat. 2158, renumbered §2207(j)(2), Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178.)
 
 #### <b>Editorial Notes</b>
 

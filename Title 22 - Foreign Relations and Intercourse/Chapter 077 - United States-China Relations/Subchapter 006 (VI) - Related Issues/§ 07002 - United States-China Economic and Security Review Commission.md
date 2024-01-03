@@ -144,7 +144,7 @@ The purposes of this section are as follows:
 
 #### (3) Staff
 
-&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the Trade Deficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act. The executive director and any personnel who are employees of the United States-China Economic and Security Review Commission shall be employeesunder section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
+&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the Trade Deficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act. The executive director and any personnel who are employees of the United States-China Economic and Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
 
 #### (4) Detail of government employees
 
@@ -176,7 +176,7 @@ The provisions of chapter 10 of title 5 shall apply to the activities of the Com
 
 This section shall take effect on the first day of the 107th Congress.
 
-(Pub. L. 106–398, §1 \[\[div. A\], title XII, §1238\], Oct. 30, 2000, 114 Stat. 1654, 1654A–334; Pub. L. 107–67, title VI, §§645(a), 648, Nov. 12, 2001, 115 Stat. 556; Pub. L. 108–7, div. P, §2(b)(1), (c)(1), Feb. 20, 2003, 117 Stat. 552; Pub. L. 109–108, title VI, §635(b), Nov. 22, 2005, 119 Stat. 2347; Pub. L. 110–161, div. J, title I, Dec. 26, 2007, 121 Stat. 2285; Pub. L. 113–291, div. A, title XII, §1259B(a), Dec. 19, 2014, 128 Stat. 3578; Pub. L. 117–286, §4(a)(173), Dec. 27, 2022, 136 Stat. 4324.)
+(Pub. L. 106–398, §1 \[\[div. A\], title XII, §1238\], Oct. 30, 2000, 114 Stat. 1654, 1654A–334; Pub. L. 107–67, title VI, §§645(a), 648, Nov. 12, 2001, 115 Stat. 556; Pub. L. 108–7, div. P, §2(b)(1), (c)(1), Feb. 20, 2003, 117 Stat. 552; Pub. L. 109–108, title VI, §635(b), Nov. 22, 2005, 119 Stat. 2347; Pub. L. 110–161, div. J, title I, Dec. 26, 2007, 121 Stat. 2285; Pub. L. 113–291, div. A, title XII, §1259B(a), Dec.19, 2014, 128 Stat. 3578; Pub. L. 117–286, §4(a)(173), Dec. 27, 2022, 136 Stat. 4324.)
 
 #### <b>Editorial Notes</b>
 
@@ -234,7 +234,7 @@ Pub. L. 108–7, div. P, §2(b)(2), Feb. 20, 2003, 117 Stat. 552, provided that:
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–291, div. A, title XII, §1259B(b), Dec. 19, 2014, 128 Stat. 3579, provided that: "The amendmentsmade by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\], and shall apply with respect to annual reports submitted under section 1238(c) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[22 U.S.C. 7002(c)\] after such date of enactment."
+Pub. L. 113–291, div. A, title XII, §1259B(b), Dec. 19, 2014, 128 Stat. 3579, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\], and shall apply with respect to annual reports submitted under section 1238(c) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[22 U.S.C. 7002(c)\] after such date of enactment."
 
 #### Effective Date of 2003 Amendment
 

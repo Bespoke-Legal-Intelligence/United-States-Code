@@ -48,7 +48,7 @@
 
 &emsp;(2) any firearm to any person in any State where the purchase or possession by such person of such firearm would be in violation of any State law or any published ordinance applicable at the place of sale, delivery or other disposition, unless the licensee knows or has reasonable cause to believe that the purchase or possession would not be in violation of such State law or such published ordinance;
 
-&emsp;(3) any firearm to any person who the licensee knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business is located, except that this paragraph (A) shall not apply to the sale or delivery of any rifle or shotgun to a resident of a State other than a State in which the licensee's place of business is located if the transferee meets in person with the transferor to accomplish the transfer, and the sale, delivery, and receipt fully comply with the legal conditions of sale in both such States (and any licensed manufacturer, importer or dealer shall be presumed, for purposes of this subparagraph, in the absence of evidence to the contrary, to have had actualknowledge of the State laws and published ordinances of both States), and (B) shall not apply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
+&emsp;(3) any firearm to any person who the licensee knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business is located, except that this paragraph (A) shall not apply to the sale or delivery of any rifle or shotgun to a resident of a State other than a State in which the licensee's place of business is located if the transferee meets in person with the transferor to accomplish the transfer, and the sale, delivery, and receipt fully comply with the legal conditions of sale in both such States (and any licensed manufacturer, importer or dealer shall be presumed, for purposes of this subparagraph, in the absence of evidence to the contrary, to have had actual knowledge of the State laws and published ordinances of both States), and (B) shall not apply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
 
 &emsp;(4) to any person any destructive device, machinegun (as defined in section 5845 of the Internal Revenue Code of 1986), short-barreled shotgun, or short-barreled rifle, except as specifically authorized by the Attorney General consistent with public safety and necessity; and
 
@@ -104,7 +104,7 @@
 
 &emsp;(9) has been convicted in any court of a misdemeanor crime of domestic violence;
 
-&emsp;(10) intends to sell or otherwise dispose of the firearm or ammunition in furtherance of a felony, a Federal crime of terrorism, or a drugtrafficking offense (as such terms are defined in section 932(a)); or
+&emsp;(10) intends to sell or otherwise dispose of the firearm or ammunition in furtherance of a felony, a Federal crime of terrorism, or a drug trafficking offense (as such terms are defined in section 932(a)); or
 
 &emsp;(11) intends to sell or otherwise dispose of the firearm or ammunition to a person described in any of paragraphs (1) through (10).
 
@@ -196,7 +196,7 @@
 
 > &emsp;<i>Provided, however</i>, That at the close of such 12-month period, and at appropriate times thereafter the Attorney General shall promulgate regulations to permit the manufacture, importation, sale, shipment, delivery, possession, transfer, or receipt of firearms previously prohibited under this subparagraph that are as detectable as a "Security Exemplar" which contains 3.7 ounces of material type 17–4 PH stainless steel, in a shape resembling a handgun, or such lesser amount as is detectable in view of advances in state-of-the-art developments in weapons detection technology.
 
-(3) Under such rules and regulations as the Attorney General shall prescribe, this subsection shall not apply to the manufacture, possession, transfer, receipt, shipment, or delivery of a firearm by a licensed manufacturer or any person acting pursuant to a contract with a licensed manufacturer, for the purpose of examining and testing such firearm to determine whether paragraph (1) applies to such firearm. The Attorney General shall ensure that rules and regulations adopted pursuant to this paragraph do not impair the manufacture of prototype firearms or the development of new technology.
+(3) Under such rules and regulations as the Attorney General shall prescribe, this subsection shall not apply to the manufacture, possession, transfer, receipt, shipment, or delivery of a firearm by a licensed manufacturer or any person acting pursuant to a contract with a licensed manufacturer, for the purpose of examining andtesting such firearm to determine whether paragraph (1) applies to such firearm. The Attorney General shall ensure that rules and regulations adopted pursuant to this paragraph do not impair the manufacture of prototype firearms or the development of new technology.
 
 (4) The Attorney General shall permit the conditional importation of a firearm by a licensed importer or licensed manufacturer, for examination and testing to determine whether or not the unconditional importation of such firearm would violate this subsection.
 
@@ -218,7 +218,7 @@
 
 &emsp;(D) in fact, even before the sale of a firearm, the gun, its component parts, ammunition, and the raw materials from which they are made have considerably moved in interstate commerce;
 
-&emsp;(E) while criminals freely move from State to State, ordinary citizens and foreign visitorsmay fear to travel to or through certain parts of the country due to concern about violent crime and gun violence, and parents may decline to send their children to school for the same reason;
+&emsp;(E) while criminals freely move from State to State, ordinary citizens and foreign visitors may fear to travel to or through certain parts of the country due to concern about violent crime and gun violence, and parents may decline to send their children to school for the same reason;
 
 &emsp;(F) the occurrence of violent crime in school zones has resulted in a decline in the quality of education in our country;
 
@@ -322,7 +322,7 @@
 
 &emsp;&emsp;(ii) is not a fugitive from justice;
 
-&emsp;&emsp;(iii) is not an unlawful user of or addicted to any controlled substance (as defined in section 102 of the Controlled Substances Act);
+&emsp;&emsp;(iii) is not an unlawful user of or addicted to any controlled substance (as defined insection 102 of the Controlled Substances Act);
 
 &emsp;&emsp;(iv) has not been adjudicated as a mental defective or been committed to a mental institution;
 
@@ -414,7 +414,7 @@
 
 &emsp;(C) on application of the transferor, the Attorney General has certified that compliance with paragraph (1)(A) is impracticable because—
 
-&emsp;&emsp;(i) the ratio of the number of law enforcement officers of the State in which the transfer is to occur to the number of squaremiles of land area of the State does not exceed 0.0025;
+&emsp;&emsp;(i) the ratio of the number of law enforcement officers of the State in which the transfer is to occur to the number of square miles of land area of the State does not exceed 0.0025;
 
 &emsp;&emsp;(ii) the business premises of the licensee at which the transfer is to occur are extremely remote in relation to the chief law enforcement officer (as defined in subsection (s)(8)); and
 
@@ -450,7 +450,7 @@
 
 &emsp;(A) a temporary transfer of a handgun or ammunition to a juvenile or to the possession or use of a handgun or ammunition by a juvenile if the handgun and ammunition are possessed and used by the juvenile—
 
-&emsp;&emsp;(i) in the course of employment, in the course of ranching or farming related to activities at the residence of the juvenile (or on property used for ranching or farming at which the juvenile, with the permission of the property owner or lessee, is performing activities related to the operation of the farm or ranch), target practice, hunting, or a course of instruction in the safe and lawful use of a handgun;
+&emsp;&emsp;(i) in the course of employment, in the course of ranching or farming related to activities at the residence of the juvenile (or on property used for ranching or farming at which the juvenile, with the permission of the property owner or lessee, is performing activities related to the operation of the farm or ranch), target practice, hunting, ora course of instruction in the safe and lawful use of a handgun;
 
 &emsp;&emsp;(ii) with the prior written consent of the juvenile's parent or guardian who is not prohibited by Federal, State, or local law from possessing a firearm, except—
 
@@ -468,7 +468,7 @@
 
 &emsp;(D) the possession of a handgun or ammunition by a juvenile taken in defense of the juvenile or other persons against an intruder into the residence of the juvenile or a residence in which the juvenile is an invited guest.
 
-(4) A handgun or ammunition, the possession of which is transferred to a juvenile in circumstances in which the transferor is not in violation of this subsection shall not be subject to permanent confiscation by the Government if its possession by the juvenile subsequently becomes unlawful because of the conduct of the juvenile, but shall be returned to the lawful owner when such handgun or ammunition is no longerrequired by the Government for the purposes of investigation or prosecution.
+(4) A handgun or ammunition, the possession of which is transferred to a juvenile in circumstances in which the transferor is not in violation of this subsection shall not be subject to permanent confiscation by the Government if its possession by the juvenile subsequently becomes unlawful because of the conduct of the juvenile, but shall be returned to the lawful owner when such handgun or ammunition is no longer required by the Government for the purposes of investigation or prosecution.
 
 (5) For purposes of this subsection, the term "juvenile" means a person who is less than 18 years of age.
 
@@ -688,7 +688,7 @@ Subsec. (w)(4). Pub. L. 104–294, §603(e), substituted "section 923(i) of this
 
 Subsec. (x). Pub. L. 104–294, §603(f)(1), amended directory language of Pub. L. 103–322, §110201(a). See 1994 Amendment note below.
 
-<b>1994</b>—Pub. L. 103–322, §110106, which added Appendix A specifying firearms that were not prohibited by subsec. (v)(1) at end of section, was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+<b>1994</b>—Pub. L. 103–322, §110106, which added Appendix A specifying firearms that were not prohibited by subsec.\(v)(1) at end of section, was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
 Subsec. (a)(9). Pub. L. 103–322, §110514, added par. (9).
 
@@ -720,7 +720,7 @@ Subsec. (t). Pub. L. 103–159, §102(b), added subsec. (t).
 
 Subsec. (u). Pub. L. 103–159, §302(c), added subsec. (u).
 
-<b>1990</b>—Subsec. (a)(5). Pub. L. 101–647, §2201, substituted "does not reside in (or if the person is a corporation orother business entity, does not maintain a place of business in) the State in which the transferor resides;" for "resides in any State other than that in which the transferor resides (or other than that in which its place of business is located if the transferor is a corporation or other business entity);".
+<b>1990</b>—Subsec. (a)(5). Pub. L. 101–647, §2201, substituted "does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides;" for "resides in any State other than that in which the transferor resides (or other than that in which its place of business is located if the transferor is a corporation or other business entity);".
 
 Subsec. (b)(1). Pub. L. 101–647, §3524, as amended by Pub. L. 103–322, §330011(i), substituted semicolon for period at end.
 
@@ -846,7 +846,7 @@ Post Office Department, referred to in subsec. (c)(2), redesignated United State
 
 Pub. L. 117–159, div. A, title II, §12001(a)(3), June 25, 2022, 136 Stat. 1324, provided that: "Effective on September 30, 2032, paragraphs (1)(B) and (2) \[amending this section and section 40901 of Title 34, Crime Control and Law Enforcement\] are repealed, and the provisions of law amended by those paragraphs are restored as if those paragraphs had not been enacted."
 
-Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022,see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
 #### Effective Date of 2015 Amendment
 
@@ -986,7 +986,7 @@ Pub. L. 101–647, title XVII, §1702(b)(5), Nov. 29, 1990, 104 Stat. 4845, prov
 
 #### Identification of Felons and Other Persons Ineligible To Purchase Handguns
 
-Pub. L. 100–690, title VI, §6213, Nov. 18, 1988, 102 Stat. 4360, which required the Attorney General to develop a system to identify felons and other persons ineligible to purchase firearms, was editorially reclassified and is set out as a note under section 40901 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 100–690, title VI, §6213, Nov. 18, 1988, 102 Stat. 4360, which required the Attorney General to develop a system to identify felons and other persons ineligible to purchase firearms, was editorially reclassified and isset out as a note under section 40901 of Title 34, Crime Control and Law Enforcement.
 
 #### Studies To Identify Equipment Capable of Distinguishing Security Exemplar From Other Metal Objects Likely To Be Carried on One's Person
 

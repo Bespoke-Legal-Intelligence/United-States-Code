@@ -8,7 +8,7 @@ Management of Purchase Cards.—The Secretary of Defense shall prescribe regulat
 
 Required Safeguards and Internal Controls.—Regulations under subsection (a) shall include safeguards and internal controls to ensure the following:
 
-&emsp;(1) That there is a record in the Department of Defense of each holder of a purchase card issued by the Department of Defense for official use, annotated with the limitations onamounts that are applicable to the use of each such card by that purchase card holder.
+&emsp;(1) That there is a record in the Department of Defense of each holder of a purchase card issued by the Department of Defense for official use, annotated with the limitations on amounts that are applicable to the use of each such card by that purchase card holder.
 
 &emsp;(2) That each purchase card holder and individual issued a convenience check is assigned an approving official other than the card holder with the authority to approve or disapprove transactions.
 

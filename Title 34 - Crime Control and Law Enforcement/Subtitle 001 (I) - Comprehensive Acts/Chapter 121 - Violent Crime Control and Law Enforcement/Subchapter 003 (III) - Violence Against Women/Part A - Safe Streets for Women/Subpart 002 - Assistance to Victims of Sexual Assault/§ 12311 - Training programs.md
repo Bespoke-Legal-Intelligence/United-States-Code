@@ -28,7 +28,7 @@ Section was formerly classified to section 13941 of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2022</b>—Subsec. (c). Pub. L. 117–103 amended subsec. (c) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2014 through 2018."
+<b>2022</b>—Subsec. (c). Pub. L. 117–103 amended subsec. (c) generally. Prior to amendment, text read as follows:"There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2014 through 2018."
 
 <b>2013</b>—Subsec. (c). Pub. L. 113–4 substituted "$5,000,000 for each of fiscal years 2014 through 2018." for "$5,000,000 for each of fiscal years 2007 through 2011."
 

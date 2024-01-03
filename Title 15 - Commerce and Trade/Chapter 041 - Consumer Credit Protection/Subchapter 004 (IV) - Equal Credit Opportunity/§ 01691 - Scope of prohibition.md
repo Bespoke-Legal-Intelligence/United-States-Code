@@ -74,7 +74,7 @@ It is not a violation of this section for a creditor to refuse to extend credit 
 
 #### (5) Notification to applicants
 
-&emsp;At the time of application, the creditor shall notify an applicant in writing of the right toreceive a copy of each written appraisal and valuation under this subsection.
+&emsp;At the time of application, the creditor shall notify an applicant in writing of the right to receive a copy of each written appraisal and valuation under this subsection.
 
 #### (6) Valuation defined
 

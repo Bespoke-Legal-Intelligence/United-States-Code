@@ -1,6 +1,6 @@
 ### §2407. Special authorization for use of foreign currencies
 
-Subject to the provisions of section 1306 of title 31, the President is authorized, as a demonstration of good will on the part of the people of the United States for the Polish and Italian people, to use foreign currencies accruing to the United States Government under this chapter or any other Act, for assistance on such terms andconditions as he may specify, in the repair, rehabilitation, improvement, and maintenance of cemeteries in Italy serving as the burial place of members of the armed forces of Poland who died in combat in Italy during World War II.
+Subject to the provisions of section 1306 of title 31, the President is authorized, as a demonstration of good will on the part of the people of the United States for the Polish and Italian people, to use foreign currencies accruing to the United States Government under this chapter or any other Act, for assistance on such terms and conditions as he may specify, in the repair, rehabilitation, improvement, and maintenance of cemeteries in Italy serving as the burial place of members of the armed forces of Poland who died in combat in Italy during World War II.
 
 (Pub. L. 87–195, pt. III, §648, as added Pub. L. 88–633, pt. III, §303, Oct. 7, 1964, 78 Stat. 1014.)
 
@@ -18,5 +18,5 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 

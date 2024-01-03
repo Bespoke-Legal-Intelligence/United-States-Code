@@ -8,7 +8,7 @@
 
 #### (2) Inclusion of certain candidates
 
-&emsp;The Director shall include, in the standards established under paragraph (1), standards for collecting data from candidates who accepted conditional offers of employment but chose to withdraw from the hiring process before entering into service, including data with respect to the reasons such candidates chose to withdraw.
+&emsp;The Director shall include, in the standards established under paragraph (1), standards for collecting data from candidates who accepted conditional offers of employment but chose towithdraw from the hiring process before entering into service, including data with respect to the reasons such candidates chose to withdraw.
 
 #### (b) Collection of data
 

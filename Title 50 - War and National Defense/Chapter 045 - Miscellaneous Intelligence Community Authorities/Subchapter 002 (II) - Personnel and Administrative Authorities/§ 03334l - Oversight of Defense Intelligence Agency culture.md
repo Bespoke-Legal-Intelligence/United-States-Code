@@ -28,7 +28,7 @@ In this section:
 
 #### (b) Findings
 
-Congress finds that the Defense Intelligence Agency has committed to improving Agency culture and leadership; however, actions taken by the Agency as of December 23, 2022, have not enabled a full assessment of the extent of workforce culture issues and potential management abuses, and require additional Congressional <sup>1</sup>oversight to ensure concerns are both understood and addressed.
+Congress finds that the Defense Intelligence Agency has committed to improving Agency culture and leadership; however, actions taken by the Agency as of December 23, 2022, have not enabled a full assessment of the extent of workforce culture issues and potential management abuses, and require additional congressional oversight to ensure concerns are both understood and addressed.
 
 #### (c) Mandatory provision of exit survey or interview
 
@@ -66,13 +66,13 @@ Congress finds that the Defense Intelligence Agency has committed to improving A
 
 #### (e) Feasibility report
 
-Not later than 270 days after December 23, 2022, the Director of the Defense Intelligence Agency shall submit to the appropriate committees of Congress a report containing an analysis of the feasibility (including the anticipated cost, personnel requirements, necessary authorities, and such other matters as may be determined appropriate by the Director for purposes of analyzing feasibility) of—
+Not later than 270 days after December 23, 2022, the Director of the Defense Intelligence Agency shall submit to the appropriate committees of Congress a report containing an analysis of the feasibility (including the anticipated cost, personnel requirements, necessary authorities, and such other matters as may be determinedappropriate by the Director for purposes of analyzing feasibility) of—
 
 &emsp;(1) conducting 360-degree performance reviews among employees of the Defense Intelligence Agency; and
 
 &emsp;(2) including leadership suitability assessments (including personality evaluations, communication style assessments, and emotional intelligence aptitude assessments) for promotions of such employees to a position within grade GS–14 or above of the General Schedule.
 
-(Pub. L. 117–263, div. F, title LXIV, §6422, Dec. 23, 2022, 136 Stat. 3530.)
+(Pub. L. 117–263, div. F, title LXIV, §6422, Dec. 23, 2022, 136 Stat. 3530; Pub. L. 118–31, div. G, title IX, §7901(b)(1), Dec. 22, 2023, 137 Stat. 1106.)
 
 #### <b>Editorial Notes</b>
 
@@ -80,11 +80,13 @@ Not later than 270 days after December 23, 2022, the Director of the Defense Int
 
 The General Schedule, referred to in subsec. (e)(2), is set out under section 5332 of Title 5, Government Organization and Employees.
 
+#### Amendments
+
+<b>2023</b>—Subsec. (b). Pub. L. 118–31 substituted "congressional" for "Congressional".
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 
 For definition of "congressional intelligence committees" as used in this section, see section 6002 of Pub. L. 117–263, set out as a note under section 3003 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

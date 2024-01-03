@@ -2,7 +2,7 @@
 
 The Congress finds and declares that the proliferation of nuclear explosive devices or of the direct capability to manufacture or otherwise acquire such devices poses a grave threat to the security interests of the United States and to continued international progress toward world peace and development. Recent events emphasize the urgency of this threat and the imperative need to increase the effectiveness of international safeguards and controls on peaceful nuclear activities to prevent proliferation. Accordingly, it is the policy of the United States to—
 
-&emsp;(a) actively pursue through international initiatives mechanisms for fuel supply assurances and the establishment of more effective international controls over the transfer and use of nuclear materials and equipment andnuclear technology for peaceful purposes in order to prevent proliferation, including the establishment of common international sanctions;
+&emsp;(a) actively pursue through international initiatives mechanisms for fuel supply assurances and the establishment of more effective international controls over the transfer and use of nuclear materials and equipment and nuclear technology for peaceful purposes in order to prevent proliferation, including the establishment of common international sanctions;
 
 &emsp;(b) take such actions as are required to confirm the reliability of the United States in meeting its commitments to supply nuclear reactors and fuel to nations which adhere to effective non-proliferation policies by establishing procedures to facilitate the timely processing of requests for subsequent arrangements and export licenses;
 

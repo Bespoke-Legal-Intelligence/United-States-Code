@@ -16,7 +16,7 @@ Any person who has entered into an agreement of indemnification under section 22
 
 (2)(A) Unless an election is made within thirty calendar days after receipt of notice under paragraph (1) to have paragraph (3) apply with respect to such penalty, the Secretary shall assess the penalty, by order, after a determination of violation has been made on the record after an opportunity for an agency hearing pursuant to section 554 of title 5 before an administrative law judge appointed under section 3105 of such title 5. Such assessment order shall include the administrative law judge's findings and the basis for such assessment.
 
-(B) Any person against whom a penalty is assessed under this paragraph may, within sixty calendar days after the date of the order of the Secretary assessing such penalty, institute an action in the United States court of appeals for the appropriate judicial circuit for judicial review of such order in accordance with chapter 7 of title 5. The court shall have jurisdiction to enter a judgment affirming, modifying, or setting aside in whole or in part, the order of the Secretary, or the court may remand the proceeding to the Secretary for such further action as the court may direct.
+(B) Any person against whom a penalty is assessed under this paragraph may, within sixty calendar days after the date of the order of the Secretary assessing such penalty, institute an action in the United States court of appeals forthe appropriate judicial circuit for judicial review of such order in accordance with chapter 7 of title 5. The court shall have jurisdiction to enter a judgment affirming, modifying, or setting aside in whole or in part, the order of the Secretary, or the court may remand the proceeding to the Secretary for such further action as the court may direct.
 
 (3)(A) In the case of any civil penalty with respect to which the procedures of this paragraph have been elected, the Secretary shall promptly assess such penalty, by order, after the date of the election under paragraph (1).
 
@@ -36,7 +36,7 @@ Any person who has entered into an agreement of indemnification under section 22
 
 In this section, the term "nuclear safety whistleblower protections" means the protections for employees of contractors or subcontractors from reprisals pursuant to section 4712 of title 41, section 5851 of this title, or other provisions of Federal law (including rules, regulations, or orders) affording such protections, with respect to disclosures or other activities covered by such protections that relate to nuclear safety.
 
-(Aug. 1, 1946, ch. 724, title I, §234A, as added Pub. L. 100–408, §17, Aug. 20, 1988, 102 Stat. 1081; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 106–65, div. C, title XXXI, §3147(c), Oct.5, 1999, 113 Stat. 938; Pub. L. 109–58, title VI, §610(a), (b), Aug. 8, 2005, 119 Stat. 781; Pub. L. 116–92, div. C, title XXXI, §3131, Dec. 20, 2019, 133 Stat. 1958.)
+(Aug. 1, 1946, ch. 724, title I, §234A, as added Pub. L. 100–408, §17, Aug. 20, 1988, 102 Stat. 1081; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 106–65, div. C, title XXXI, §3147(c), Oct. 5, 1999, 113 Stat. 938; Pub. L. 109–58, title VI, §610(a), (b), Aug. 8, 2005, 119 Stat. 781; Pub. L. 116–92, div. C, title XXXI, §3131, Dec. 20, 2019, 133 Stat. 1958.)
 
 #### <b>Editorial Notes</b>
 

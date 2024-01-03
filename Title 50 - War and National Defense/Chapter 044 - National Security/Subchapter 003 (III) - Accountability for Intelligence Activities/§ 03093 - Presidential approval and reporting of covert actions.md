@@ -8,7 +8,7 @@ The President may not authorize the conduct of a covert action by departments, a
 
 &emsp;(2) Except as permitted by paragraph (1), a finding may not authorize or sanction a covert action, or any aspect of any such action, which already has occurred.
 
-&emsp;(3) Each finding shall specify each department, agency, or entity of the United States Government authorized to fund or otherwise participate in any significant way in such action. Any employee, contractor, or contract agent of a department, agency, or entity of the United States Government other than the Central Intelligence Agency directed to participate in any way in a covert action shall be subject either to the policies and regulationsof the Central Intelligence Agency, or to written policies or regulations adopted by such department, agency, or entity, to govern such participation.
+&emsp;(3) Each finding shall specify each department, agency, or entity of the United States Government authorized to fund or otherwise participate in any significant way in such action. Any employee, contractor, or contract agent of a department, agency, or entity of the United States Government other than the Central Intelligence Agency directed to participate in any way in a covert action shall be subject either to the policies and regulations of the Central Intelligence Agency, or to written policies or regulations adopted by such department, agency, or entity, to govern such participation.
 
 &emsp;(4) Each finding shall specify whether it is contemplated that any third party which is not an element of, or a contractor or contract agent of, the United States Government, or is not otherwise subject to United States Government policies and regulations, will be used to fund or otherwise participate in any significant way in the covert action concerned, or be used to undertake the covert action concerned on behalf of the United States.
 
@@ -28,7 +28,7 @@ To the extent consistent with due regard for the protection from unauthorized di
 
 (2) If the President determines that it is essential to limit access to the finding to meet extraordinary circumstances affecting vital interests of the United States, the finding may be reported to the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.
 
-(3) Whenever a finding is not reported pursuant to paragraph (1) or (2) of this section,<sup>1</sup> the President shall fully inform the congressional intelligence committees in a timely fashion and shall provide a statement of the reasons for not giving prior notice.
+(3) Whenever a finding is not reported pursuant to paragraph (1) or (2) of this subsection, the President shall fully inform the congressional intelligence committees in a timely fashion and shall provide a statement of the reasons for not giving prior notice.
 
 (4) In a case under paragraph (1), (2), or (3), a copy of the finding, signed by the President, shall be provided to the chairman of each congressional intelligence committee.
 
@@ -56,7 +56,7 @@ To the extent consistent with due regard for the protection from unauthorized di
 
 &emsp;(E) gives rise to a significant risk of disclosing intelligence sources or methods; or
 
-&emsp;(F) presents a reasonably foreseeable risk of serious damage to the diplomatic relations of the United States if such activity were disclosed without authorization.
+&emsp;(F) presents a reasonably foreseeable risk of serious damage to the diplomatic relations ofthe United States if such activity were disclosed without authorization.
 
 #### (e) "Covert action" defined
 
@@ -66,7 +66,7 @@ As used in this subchapter, the term "covert action" means an activity or activi
 
 &emsp;(2) traditional diplomatic or military activities or routine support to such activities;
 
-&emsp;(3) traditional law enforcement activities conducted by United States Government lawenforcement agencies or routine support to such activities; or
+&emsp;(3) traditional law enforcement activities conducted by United States Government law enforcement agencies or routine support to such activities; or
 
 &emsp;(4) activities to provide routine support to the overt activities (other than activities described in paragraph (1), (2), or (3)) of other United States Government agencies abroad.
 
@@ -90,7 +90,7 @@ No covert action may be conducted which is intended to influence United States p
 
 For each type of activity undertaken as part of a covert action, the President shall establish in writing a plan to respond to the unauthorized public disclosure of that type of activity.
 
-(July 26, 1947, ch. 343, title V, §503, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 442; amended Pub. L. 107–306, title III, §353(b)(3)(C), (8), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(Y), Dec. 17, 2004, 118 Stat. 3689; Pub. L. 111–259, title III, §331(c), Oct. 7, 2010, 124 Stat. 2685; Pub. L. 113–126, title III, §308, July 7, 2014, 128 Stat. 1397; Pub. L. 116–92, div. E, title LXVII, §6742(b)(12), Dec. 20, 2019, 133 Stat. 2240.)
+(July 26, 1947, ch. 343, title V, §503, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 442; amended Pub. L. 107–306, title III, §353(b)(3)(C), (8), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(Y), Dec. 17, 2004, 118 Stat. 3689; Pub. L. 111–259, title III, §331(c), Oct. 7, 2010, 124 Stat. 2685; Pub. L. 113–126, title III, §308, July 7, 2014, 128 Stat. 1397; Pub. L. 116–92, div. E, title LXVII, §6742(b)(12), Dec. 20, 2019, 133 Stat. 2240; Pub. L. 118–31, div. G, title IX, §7901(a)(2), Dec. 22, 2023, 137 Stat. 1106.)
 
 #### <b>Editorial Notes</b>
 
@@ -103,6 +103,8 @@ Section was formerly classified to section 413b of this title prior to editorial
 A prior section 503 of act July 26, 1947, ch. 343, was renumbered section 505 and is classified to section 3095 of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c)(3). Pub. L. 118–31 substituted "subsection" for "section".
 
 <b>2019</b>—Subsecs. (c)(5), (d)(2). Pub. L. 116–92 realigned margins.
 
@@ -138,7 +140,5 @@ Subsec. (d). Pub. L. 107–306, §353(b)(3)(C), substituted "congressional intel
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "subsection,".</i>
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment;Transition Provisions note under section 3001 of this title.
 

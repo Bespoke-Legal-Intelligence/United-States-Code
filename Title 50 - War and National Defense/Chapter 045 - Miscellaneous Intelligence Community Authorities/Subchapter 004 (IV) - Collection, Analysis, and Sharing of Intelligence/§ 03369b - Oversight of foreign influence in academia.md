@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Sensitive research subject
 
-&emsp;The term "sensitive research subject" means a subject of research that is carried out at a covered institution of higher educationthat receives funds that were appropriated for—
+&emsp;The term "sensitive research subject" means a subject of research that is carried out at a covered institution of higher education that receives funds that were appropriated for—
 
 &emsp;&emsp;(A) the National Intelligence Program; or
 

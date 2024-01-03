@@ -76,7 +76,7 @@ Access to the index established by this section is subject to cancellation if th
 
 &emsp;&emsp;(ii) the person has not been convicted of an offense on the basis of which that analysis was or could have been included in the index, and the responsible agency or official of that State receives, for each charge against the person on the basis of which the analysis was or could have been included in the index, a certified copy of a final court order establishing that such charge has been dismissed or has resulted in an acquittal or that no charge was filed within the applicable time period.
 
-&emsp;(B) For purposes of subparagraph (A), a court order is not "final" if time remains for an appeal or application for discretionary review with respect to the order.
+&emsp;(B) For purposes of subparagraph (A), a court order is not "final" if time remains foran appeal or application for discretionary review with respect to the order.
 
 (Pub. L. 103–322, title XXI, §210304, Sept. 13, 1994, 108 Stat. 2069; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §120\], Nov. 29, 1999, 113 Stat. 1535, 1501A–23; Pub. L. 106–546, §6(b), Dec. 19, 2000, 114 Stat. 2733; Pub. L. 108–405, title II, §203(a), (d), title III, §302, Oct. 30, 2004, 118 Stat. 2269, 2270, 2272; Pub. L. 109–162, title X, §1002, Jan. 5, 2006, 119 Stat. 3084; Pub. L. 115–50, §2(b), Aug. 18, 2017, 131 Stat. 1001.)
 

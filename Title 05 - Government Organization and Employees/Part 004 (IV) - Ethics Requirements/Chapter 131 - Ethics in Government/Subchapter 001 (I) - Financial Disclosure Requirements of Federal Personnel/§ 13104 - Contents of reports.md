@@ -2,7 +2,7 @@
 
 (a)
 
-Annual and Termination Reports.—Each report filed pursuant to section 13103(d) and (e) of this title shall include a full and complete statement with respect to the following:
+Annual and Termination Reports.—Each report filed pursuant to section 13103(d) and (e)of this title shall include a full and complete statement with respect to the following:
 
 &emsp;(1)
 
@@ -222,7 +222,7 @@ Interests in property, liabilities, and transactions.—In the case of items des
 
 &emsp;&emsp;(F)
 
-Amounts or values greater than $1,000,000.—For purposes of this section, categories with amounts or values greater than $1,000,000 set forth in subsection (a)(1)(B) and subsection (d)(1) shall apply to the income, assets, or liabilities of spouses and dependent children only if the income, assets, or liabilities are held jointly with the reportingindividual. All other income, assets, or liabilities of the spouse or dependent children required to be reported under this section in an amount or value greater than $1,000,000 shall be categorized only as an amount or value greater than $1,000,000.
+Amounts or values greater than $1,000,000.—For purposes of this section, categories with amounts or values greater than $1,000,000 set forth in subsection (a)(1)(B) and subsection (d)(1) shall apply to the income, assets, or liabilities of spouses and dependent children only if the income, assets, or liabilities are held jointly with the reporting individual. All other income, assets, or liabilities of the spouse or dependent children required to be reported under this section in an amount or value greater than $1,000,000 shall be categorized only as an amount or value greater than $1,000,000.
 
 > Reports required by subsections (a), (b), and (c) of section 13103 of this title shall, with respect to the spouse and dependent child of the reporting individual, contain only information listed in paragraphs (1), (3), and (4) of subsection (a), as specified in this paragraph.
 
@@ -236,7 +236,7 @@ Trusts and Other Financial Arrangements.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), each reporting individual shall report the information required to be reported pursuant to subsections (a), (b), and (c) of this section with respect to the holdings of and the income from a trust or other financial arrangement from which income is received by, or with respect to which a beneficial interest in principal or income is held by, such individual, the individual's spouse, or any dependent child.
+In general.—Except as provided in paragraph (2), each reporting individual shall report the information required to be reported pursuant to subsections (a), (b), and (c) of thissection with respect to the holdings of and the income from a trust or other financial arrangement from which income is received by, or with respect to which a beneficial interest in principal or income is held by, such individual, the individual's spouse, or any dependent child.
 
 &emsp;(2)
 
@@ -298,7 +298,7 @@ Trust instrument.—The trust instrument which establishes the trust provides th
 
 &emsp;&emsp;&emsp;(vi) except for communications which solely consist of requests for distributions of cash or other unspecified assets of the trust, there shall be no direct or indirect communication between the trustee and an interested party with respect to the trust unless such communication is in writing and unless it relates only (I) to the general financial interest and needs of the interested party (including, but not limited to, an interest in maximizing income or long-term capital gain), (II) to the notification of the trustee of a law or regulation subsequently applicable to the reporting individual which prohibits the interested party from holding an asset, which notification directs that the asset not be held by the trust, or (III) to directions to the trustee to sell all of an asset initially placed in the trust by an interested party which in the determination of the reporting individual creates a conflict of interest or the appearance thereof due to the subsequent assumption of duties by the reporting individual (but nothing herein shall require any such direction); and
 
-&emsp;&emsp;&emsp;(vii) the interested parties shall make no effort to obtain information with respect to the holdings of the trust, including obtaining a copy of any trust tax return filed or any information relating thereto except as otherwise provided in this subsection.
+&emsp;&emsp;&emsp;(vii) the interested parties shall make no effort to obtain information with respectto the holdings of the trust, including obtaining a copy of any trust tax return filed or any information relating thereto except as otherwise provided in this subsection.
 
 &emsp;&emsp;(D)
 
@@ -436,7 +436,7 @@ Political Campaign Funds.—Political campaign funds, including campaign receipt
 
 (h)
 
-Gifts and Reimbursements Received While Individual Not Officer or Employee ofFederal Government.—A report filed pursuant to subsection (a), (d), or (e) of section 13103 of this title need not contain the information described in subparagraphs (A), (B), and (C) of subsection (a)(2) with respect to gifts and reimbursements received in a period when the reporting individual was not an officer or employee of the Federal Government.
+Gifts and Reimbursements Received While Individual Not Officer or Employee of Federal Government.—A report filed pursuant to subsection (a), (d), or (e) of section 13103 of this title need not contain the information described in subparagraphs (A), (B), and (C) of subsection (a)(2) with respect to gifts and reimbursements received in a period when the reporting individual was not an officer or employee of the Federal Government.
 
 (i)
 

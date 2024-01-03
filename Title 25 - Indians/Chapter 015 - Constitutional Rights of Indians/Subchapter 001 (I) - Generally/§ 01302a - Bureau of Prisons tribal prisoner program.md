@@ -12,7 +12,7 @@ Not later than 120 days after March 15, 2022, the Director of the Bureau of Pris
 
 #### (B) Limitations
 
-&emsp;Requests for confinement shall be limited to offenders convicted of a violent crime (comparable to the violent crimes described in section 1153(a) of title 18) for which the sentence includes a term of imprisonment of 1 or more years.
+&emsp;Requests for confinement shall be limited to offenders convicted of a violent crime (comparable to the violent crimes described in section 1153(a) of title 18) for which the sentenceincludes a term of imprisonment of 1 or more years.
 
 #### (C) Custody conditions
 

@@ -32,7 +32,7 @@ From the amount (if any) appropriated pursuant to subsection (a) for a fiscal ye
 
 #### (2) Territories
 
-&emsp;From the amount (if any) appropriated pursuant to subsection (a) for any fiscal year that remains after applying subection <sup>1</sup> (b) for thefiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title.
+&emsp;From the amount (if any) appropriated pursuant to subsection (a) for any fiscal year that remains after applying subection <sup>1</sup> (b) for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title.
 
 #### (3) Other States
 
@@ -112,7 +112,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A grant shall be awarded under this subsection for a period of not less than 2, andnot more than 5, fiscal years, subject to clauses (ii) and (iii).
+&emsp;&emsp;&emsp;A grant shall be awarded under this subsection for a period of not less than 2, and not more than 5, fiscal years, subject to clauses (ii) and (iii).
 
 #### (ii) Extension of grant
 
@@ -194,7 +194,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (7) Considerations in awarding grants
 
-&emsp;In awarding grants under this subsection, the Secretary shall take into considerationthe extent to which applicant regional partnerships—
+&emsp;In awarding grants under this subsection, the Secretary shall take into consideration the extent to which applicant regional partnerships—
 
 &emsp;&emsp;(A) demonstrate that substance abuse by parents or caretakers has had a substantial impact on the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region;
 
@@ -444,7 +444,7 @@ Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(D), (2)(V) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

@@ -1,6 +1,6 @@
 ### §2947. Reports
 
-The Secretary shall prepare and submit to Congress, concurrent with the budget submitted pursuant to section 1105 of title 31, a report identifying the contracts or agreements for the conveyance of properties pursuant to this chapter executed during the prior calendar year.
+The Secretary shall prepare and submit to Congress, concurrent with the budget submittedpursuant to section 1105 of title 31, a report identifying the contracts or agreements for the conveyance of properties pursuant to this chapter executed during the prior calendar year.
 
 (Added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996, 110 Stat. 3913, §688; amended Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–281, title II, §221(a)(8), Oct. 15, 2010, 124 Stat. 2920; renumbered §2947, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230.)
 

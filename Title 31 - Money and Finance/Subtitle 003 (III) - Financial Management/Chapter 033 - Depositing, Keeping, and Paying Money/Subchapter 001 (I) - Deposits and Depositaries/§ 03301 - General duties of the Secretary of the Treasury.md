@@ -64,5 +64,5 @@ Pub. L. 106–433, §1, Nov. 6, 2000, 114 Stat. 1910, provided that: "This Act \
 
 Pub. L. 103–356, §1(a), Oct. 13, 1994, 108 Stat. 3410, provided that: "This Act \[see Tables for classification\] may be cited as the 'Government Management Reform Act of 1994'."
 
-Pub. L. 103–356, title IV, §401, Oct. 13, 1994, 108 Stat. 3412, provided that: "This title \[amending sections 331, 3332, 3515, and 3521 of this title and enacting provisions set out as notes under section 501 of this title\] may be cited as the 'Federal Financial Management Act of 1994'."
+Pub. L. 103–356, title IV, §401, Oct. 13, 1994, 108 Stat. 3412, provided that: "This title \[amending sections 331,3332, 3515, and 3521 of this title and enacting provisions set out as notes under section 501 of this title\] may be cited as the 'Federal Financial Management Act of 1994'."
 

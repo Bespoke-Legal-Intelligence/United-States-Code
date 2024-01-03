@@ -102,7 +102,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (2) Authority of Secretary to prescribe reduced amount
 
-&emsp;At the request of the transferor or transferee, the Secretary may prescribe a reducedamount to be withheld under this section if the Secretary determines that to substitute such reduced amount will not jeopardize the collection of the tax imposed by section 871(b)(1) or 882(a)(1).
+&emsp;At the request of the transferor or transferee, the Secretary may prescribe a reduced amount to be withheld under this section if the Secretary determines that to substitute such reduced amount will not jeopardize the collection of the tax imposed by section 871(b)(1) or 882(a)(1).
 
 #### (3) Procedural rules
 
@@ -200,7 +200,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (2) Certain distributions by foreign corporations
 
-&emsp;In the case of any distribution by a foreign corporation on which gain is recognized undersubsection (d) or (e) of section 897, the foreign corporation shall deduct and withhold under subsection (a) a tax equal to the highest rate of tax in effect for the taxable year under section 11(b) multiplied by the amount of gain recognized on such distribution under such subsection.
+&emsp;In the case of any distribution by a foreign corporation on which gain is recognized under subsection (d) or (e) of section 897, the foreign corporation shall deduct and withhold under subsection (a) a tax equal to the highest rate of tax in effect for the taxable year under section 11(b) multiplied by the amount of gain recognized on such distribution under such subsection.
 
 #### (3) Distributions by certain domestic corporations to foreign shareholders
 
@@ -262,7 +262,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the transferee's agent.
 
-(Added Pub. L. 98–369, div. A, title I, §129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, §311(b)(4), title XVIII, §1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, §13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1704(c)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, §311(c)(1), Aug. 5, 1997, 111 Stat. 835; Pub. L.108–27, title III, §301(a)(2)(C), May 28, 2003, 117 Stat. 758; Pub. L. 109–222, title V, §§505(b), 506(b), May 17, 2006, 120 Stat. 356, 358; Pub. L. 110–289, div. C, title I, §3024(a)–(c), July 30, 2008, 122 Stat. 2895; Pub. L. 112–240, title I, §102(c)(1)(C), (3), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 114–113, div. Q, title III, §§323(b), 324(a), (b), Dec. 18, 2015, 129 Stat. 3103; Pub. L. 115–97, title I, §13001(b)(3)(A)–(C), Dec. 22, 2017, 131 Stat. 2097.)
+(Added Pub. L. 98–369, div. A, title I, §129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, §311(b)(4), title XVIII, §1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, §13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1704(c)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, §311(c)(1), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(C), May 28, 2003, 117 Stat. 758; Pub. L. 109–222, title V, §§505(b), 506(b), May 17, 2006, 120 Stat. 356, 358; Pub. L. 110–289, div. C, title I, §3024(a)–(c), July 30, 2008, 122 Stat. 2895; Pub. L. 112–240, title I, §102(c)(1)(C), (3), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 114–113, div. Q, title III, §§323(b), 324(a), (b), Dec. 18, 2015, 129 Stat. 3103; Pub. L. 115–97, title I, §13001(b)(3)(A)–(C), Dec. 22, 2017, 131 Stat. 2097.)
 
 #### <b>Editorial Notes</b>
 
@@ -334,7 +334,7 @@ Pub. L. 99–514, §1810(f)(4), amended par. (1) generally. Prior to amendment, 
 
 Subsec. (e)(2). Pub. L. 99–514, §311(b)(4), substituted "34 percent" for "28 percent".
 
-Subsec. (e)(3). Pub. L. 99–514, §1810(f)(5), inserted "The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B)."
+Subsec. (e)(3). Pub. L. 99–514, §1810(f)(5), inserted "The preceding sentence shall not apply if, as of the date ofthe distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B)."
 
 Subsec. (e)(4). Pub. L. 99–514, §1810(f)(6), substituted "section 897" for "section 897(g)".
 
@@ -362,7 +362,7 @@ Pub. L. 110–289, div. C, title I, §3024(d), July 30, 2008, 122 Stat. 2896, pr
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 505(b) of Pub. L. 109–222 applicable to taxable years of qualified investment entitiesbeginning after Dec. 31, 2005, except that no amount shall be required to be withheld under section 1441, 1442, or 1445 of the Internal Revenue Code of 1986 with respect to any distribution before May 17, 2006 if such amount was not otherwise required to be withheld under any such section as in effect before such amendments, see section 505(d) of Pub. L. 109–222, set out as a note under section 852 of this title.
+Amendment by section 505(b) of Pub. L. 109–222 applicable to taxable years of qualified investment entities beginning after Dec. 31, 2005, except that no amount shall be required to be withheld under section 1441, 1442, or 1445 of the Internal Revenue Code of 1986 with respect to any distribution before May 17, 2006 if such amount was not otherwise required to be withheld under any such section as in effect before such amendments, see section 505(d) of Pub. L. 109–222, set out as a note under section 852 of this title.
 
 Amendment by section 506(b) of Pub. L. 109–222 applicable to taxable years beginning after Dec. 31, 2005, except that such amendments shall not apply to any distribution, or substitute dividend payment, occurring before the date that is 30 days after May 17, 2006, see section 506(c) of Pub. L. 109–222, set out as a note under section 897 of this title.
 

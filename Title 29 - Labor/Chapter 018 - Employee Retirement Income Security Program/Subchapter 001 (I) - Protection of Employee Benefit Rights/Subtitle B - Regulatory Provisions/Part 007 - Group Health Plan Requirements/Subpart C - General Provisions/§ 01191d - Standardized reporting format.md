@@ -14,7 +14,7 @@ Not later than 1 year after December 27, 2020, the Secretary shall establish (an
 
 #### (A) Appointment
 
-&emsp;&emsp;In accordance with subparagraph (B), not later than 90 days after December 27, 2020, the Secretary, in coordination with the Secretary of Health and Human Services, shall appoint under subparagraph (B)(iii), and the Comptroller General of the United States shall appoint under subparagraph (B)(iv), members who have distinguished themselves in the fields of health services research, health economics, health informatics, data privacy and security, or the governance of State All Payer Claims Databases, or who represent organizations likely to submit data to or use the database, including patients, employers, or employee organizationsthat sponsor group health plans, health care providers, health insurance issuers, or third-party administrators of group health plans. Such members shall serve 3-year terms on a staggered basis. Vacancies on the Committee shall be filled by appointment consistent with this paragraph not later than 3 months after the vacancy arises.
+&emsp;&emsp;In accordance with subparagraph (B), not later than 90 days after December 27, 2020, the Secretary, in coordination with the Secretary of Health and Human Services, shall appoint under subparagraph (B)(iii), and the Comptroller General of the United States shall appoint under subparagraph (B)(iv), members who have distinguished themselves in the fields of health services research, health economics, health informatics, data privacy and security, or the governance of State All Payer Claims Databases, or who represent organizations likely to submit data to or use the database, including patients, employers, or employee organizations that sponsor group health plans, health care providers, health insurance issuers, or third-party administrators of group health plans. Such members shall serve 3-year terms on a staggered basis. Vacancies on the Committee shall be filled by appointment consistent with this paragraph not later than 3 months after the vacancy arises.
 
 #### (B) Composition
 
@@ -69,6 +69,12 @@ To carry out this section, there are authorized to be appropriated $5,000,000 fo
 Beginning on the date on which the report is submitted under subsection (b)(3), subsection (b) shall have no force or effect.
 
 (Pub. L. 93–406, title I, §735, as added Pub. L. 116–260, div. BB, title I, §115(b), Dec. 27, 2020, 134 Stat. 2877.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection (a)."</i>
 

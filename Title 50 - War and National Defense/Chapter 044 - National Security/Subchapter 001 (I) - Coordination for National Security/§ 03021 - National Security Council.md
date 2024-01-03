@@ -20,11 +20,11 @@ Consistent with the direction of the President, the functions of the Council sha
 
 #### (1) In general
 
-&emsp;The Council consists of the President, the Vice President, the Secretary of State, the Secretary of Defense, the Secretary of Energy, the Secretary of the Treasury, the Director of the Office of Pandemic Preparedness and Response Policy and such other officers of the United States Government as the President may designate.
+&emsp;The Council consists of the President, the Vice President, the Secretary of State, the Secretary of Defense, the Secretary of Energy, the Secretary of the Treasury, the Director ofthe Office of Pandemic Preparedness and Response Policy and such other officers of the United States Government as the President may designate.
 
 #### (2) Attendance and participation in meetings
 
-&emsp;The President may designate such other officers of the United States Government as thePresident considers appropriate, including the Director of National Intelligence, the Director of National Drug Control Policy, the Chairman of the Joint Chiefs of Staff, and the National Cyber Director, to attend and participate in meetings of the Council.
+&emsp;The President may designate such other officers of the United States Government as the President considers appropriate, including the Director of National Intelligence, the Director of National Drug Control Policy, the Chairman of the Joint Chiefs of Staff, and the National Cyber Director, to attend and participate in meetings of the Council.
 
 #### (d) Presiding officers
 
@@ -146,7 +146,7 @@ Subsec. (c). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Cl
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2016 Amendment
 
@@ -184,7 +184,7 @@ Repeals by section 542(a) of Mutual Security Act of 1954 did not repeal amendmen
 
 #### Deadline for Appointment of Coordinator for Combating Malign Foreign Influence Operations and Campaigns
 
-Pub. L. 115–232, div. A, title X, §1043(c), Aug. 13, 2018, 132 Stat. 1958, provided that: "Not later than 180 days after the date of the enactment of this Act \[Aug. 13,2018\], the President shall designate the employee of the National Security Council to be responsible for the coordination of the interagency process for combating malign foreign influence operations and campaigns pursuant to subsection (g)(1) of section 101 of the National Security Act of 1947 (50 U.S.C. 3021), as added by subsection (a)(2)."
+Pub. L. 115–232, div. A, title X, §1043(c), Aug. 13, 2018, 132 Stat. 1958, provided that: "Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the President shall designate the employee of the National Security Council to be responsible for the coordination of the interagency process for combating malign foreign influence operations and campaigns pursuant to subsection (g)(1) of section 101 of the National Security Act of 1947 (50 U.S.C. 3021), as added by subsection (a)(2)."
 
 #### Pilot Program on Cryptologic Service Training
 
@@ -292,7 +292,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 &emsp;(v) coordinate containment and removal of biological, chemical, radiological, explosive, or other hazardous materials in the event of a terrorist threat or attack involving such hazards and coordinate efforts to mitigate the effects of such an attack.
 
-(g) <i>Incident Management</i>. Consistent with applicable law, including the statutory functions of the Secretary of Homeland Security, the Assistant to the President for Homeland Security shall be the official primarily responsible for advising and assisting the President in the coordination of domestic incident management activities of all departments and agencies in the event of a terrorist threat, and during and in the aftermath of terrorist attacks, major disasters, or other emergencies, within the United States. Generally, the Assistant to the President for Homeland Security shall serve as the principal point of contact for and to the President with respect to the coordination of such activities. The Assistant to the President for Homeland Security shall coordinate with the Assistant to the President for National Security Affairs, as appropriate.
+(g) <i>Incident Management</i>. Consistent with applicable law, including the statutory functions of the Secretary of Homeland Security, the Assistant to the President for Homeland Security shall be the official primarily responsible for advising and assisting the President in the coordination of domestic incident management activities of all departments and agencies in the event of a terrorist threat, and during and in the aftermath of terrorist attacks, major disasters, or other emergencies, within the United States. Generally, the Assistant to the President for Homeland Security shallserve as the principal point of contact for and to the President with respect to the coordination of such activities. The Assistant to the President for Homeland Security shall coordinate with the Assistant to the President for National Security Affairs, as appropriate.
 
 (h) <i>Continuity of Government</i>. The Assistant to the President for Homeland Security, in coordination with the Assistant to the President for National Security Affairs, shall review plans and preparations for ensuring the continuity of the Federal Government in the event of a terrorist attack that threatens the safety and security of the United States Government or its leadership.
 
@@ -346,7 +346,7 @@ Ex. Ord. No. 13657, Feb. 10, 2014, 79 F.R. 8823, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to reflect my decision to change the name of the National Security Staff to the National Security Council staff, it is hereby ordered as follows:
 
-Section 1. <i>Name Change</i>. All references to the National Security Staff or Homeland Security CouncilStaff in any Executive Order or Presidential directive shall be understood to refer to the staff of the National Security Council.
+Section 1. <i>Name Change</i>. All references to the National Security Staff or Homeland Security Council Staff in any Executive Order or Presidential directive shall be understood to refer to the staff of the National Security Council.
 
 Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -430,7 +430,7 @@ Sec. 4. <i>Structure and Protocols of the Atrocities Prevention Board</i>. The B
 
 (f) The Chair shall prepare written updates for the public, on an annual basis, on the work of the U.S. Government in mass atrocity prevention and response, including the work of the Board.
 
-(g) Consistent with the objectives set out in this order and in accordance with applicable law, the Boardshall conduct outreach, including regular consultations, with representatives of nongovernmental organizations with expertise in mass atrocity prevention and response and other appropriate parties. Such outreach shall be for the purpose of assisting the Board with its work on considering and addressing emerging mass atrocity threats or situations and on developing new or improved policies and tools, as well as for the purpose of providing transparency on the work of the Board.
+(g) Consistent with the objectives set out in this order and in accordance with applicable law, the Board shall conduct outreach, including regular consultations, with representatives of nongovernmental organizations with expertise in mass atrocity prevention and response and other appropriate parties. Such outreach shall be for the purpose of assisting the Board with its work on considering and addressing emerging mass atrocity threats or situations and on developing new or improved policies and tools, as well as for the purpose of providing transparency on the work of the Board.
 
 (h) In order to conduct the work set forth in this order effectively, the Board may:
 
@@ -566,7 +566,7 @@ Sec. 3. <i>Agency Roles and Responsibilities</i>. In furtherance of the policy d
 
 (ii) monitor and evaluate progress toward achieving GHSA targets, determine where more work is needed, and work with agencies and international partners to identify the partners best placed to improve performance and to achieve the GHSA targets for countries the United States has made a commitment to assist;
 
-(iii) facilitate implementation and coordination of Department of State programs to further the GHSA, as well as provide technical expertise to measure and evaluate progress in countries the United States has made a commitment to assist;
+(iii) facilitate implementation and coordination of Department of State programs to further the GHSA, aswell as provide technical expertise to measure and evaluate progress in countries the United States has made a commitment to assist;
 
 (iv) coordinate planning, implementation, and evaluation of GHSA activities with the U.S. Global Malaria Coordinator at the United States Agency for International Development and the U.S. Global AIDS Coordinator at the Department of State in countries the United States has made a commitment to assist;
 
@@ -704,7 +704,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Purpose</i>. Transnational organized crime (TOC) poses a direct and escalating threat to public health, public safety, and national security. Transnational criminal organizations engage in a broad range of criminal activities, including drug and weapons trafficking, migrant smuggling, human trafficking, cybercrime, intellectual property theft, money laundering, wildlife and timber trafficking, illegal fishing, and illegal mining.
 
-These networks continue to expand in size and influence in the United States and abroad. Transnational criminal organizations contribute directly to tens of thousands of drug-overdose deaths in the United States each year and adversely affect American communities and economic prosperity. They also threaten United States national security by degrading the security and stability of allied and partner nations, undermining the rule of law, fostering corruption, acting as proxies for hostile state activities, directly or indirectly funding insurgent and terrorist groups, depleting natural resources, harming human health and the environment, contributing to climate change through illegal deforestation and logging, and exploiting and endangering vulnerable populations. In some regions, transnational criminal organizations wield state-like capabilities, disregarding sovereign borders, compromising the integrity of democratic institutions and threatening thelegitimacy of fragile governments, and securing their power through intimidation, corruption, and violence. For these reasons, it is in the national interest of the United States to counter TOC. Addressing TOC requires a coordinated Federal framework accompanied by a cohesive whole-of-government effort executed in collaboration with State, local, Tribal, territorial, and civil society partners in the United States and in close coordination with foreign partners, international and regional organizations, and international and local civil society groups abroad.
+These networks continue to expand in size and influence in the United States and abroad. Transnational criminal organizations contribute directly to tens of thousands of drug-overdose deaths in the United States each year and adversely affect American communities and economic prosperity. They also threaten United States national security by degrading the security and stability of allied and partner nations, undermining the rule of law, fostering corruption, acting as proxies forhostile state activities, directly or indirectly funding insurgent and terrorist groups, depleting natural resources, harming human health and the environment, contributing to climate change through illegal deforestation and logging, and exploiting and endangering vulnerable populations. In some regions, transnational criminal organizations wield state-like capabilities, disregarding sovereign borders, compromising the integrity of democratic institutions and threatening the legitimacy of fragile governments, and securing their power through intimidation, corruption, and violence. For these reasons, it is in the national interest of the United States to counter TOC. Addressing TOC requires a coordinated Federal framework accompanied by a cohesive whole-of-government effort executed in collaboration with State, local, Tribal, territorial, and civil society partners in the United States and in close coordination with foreign partners, international and regional organizations, and international and local civil society groups abroad.
 
 Sec. 2. <i>Policy</i>. Executive departments and agencies (agencies) shall take actions within their respective authorities, including, as appropriate, through the provision of technical and financial assistance, to enhance efforts to counter TOC. It is the policy of the United States to:
 
@@ -822,7 +822,7 @@ A. <i>The National Security Council, the Homeland Security Council, and Supporti
 
 The National Security Act of 1947, as amended, established the National Security Council (NSC) to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security. There is also a Homeland Security Council (HSC)—established through Executive Order 13228 of October 8, 2001, and subsequently codified in the Homeland Security Act of 2002—that has the purpose of advising the President on matters pertaining to homeland security. Each Council is also responsible for the effective coordination of the security-related activities and functions of the executive departments and agencies.
 
-The security threats facing the United States in the 21st century transcend international boundaries. Accordingly, the United States Government's decision-making structures and processes to address these challenges must remain equally adaptive and transformative. Both Councils are statutory bodies that the President will continue to chair. Invitations to participate in specific Council meetings shall be extended to those heads of executive departments and agencies, and other senior officials, who are needed to address theissue or issues under consideration. When the President is absent from a meeting of either Council, the Vice President may preside at the President's direction.
+The security threats facing the United States in the 21st century transcend international boundaries. Accordingly, the United States Government's decision-making structures and processes to address these challenges must remain equally adaptive and transformative. Both Councils are statutory bodies that the President will continue to chair. Invitations to participate in specific Council meetings shall be extended to those heads of executive departments and agencies, and other senior officials, who are needed to address the issue or issues under consideration. When the President is absent from a meeting of either Council, the Vice President may preside at the President's direction.
 
 The Assistant to the President for National Security Affairs (National Security Advisor) shall be responsible, as appropriate and at the President's direction, for determining the agenda for the NSC or HSC, respectively, ensuring that the necessary papers are prepared and recording Council actions and Presidential decisions in a timely manner. The Assistant to the President for Homeland Security and Counterterrorism (Homeland Security Advisor) may, at the sole discretion of the National Security Advisor, perform those functions. When international economic issues are on the agenda of the NSC, the Assistant to the President for Economic Policy may, at the sole discretion of the National Security Advisor, perform those functions.
 
@@ -856,7 +856,7 @@ The DC shall review and monitor the work of the interagency national security pr
 
 D. <i>Policy Coordination Committees</i>
 
-Management of the development and implementation of national security policies by multiple executive departments and agencies typically shall be accomplished by the PCCs, with participation primarily occurring atthe Assistant Secretary level. As the main day-to-day fora for interagency coordination of national security policies, the PCCs shall provide policy analysis for consideration by the more senior committees of the national security system and ensure timely responses to the President's decisions.
+Management of the development and implementation of national security policies by multiple executive departments and agencies typically shall be accomplished by the PCCs, with participation primarily occurring at the Assistant Secretary level. As the main day-to-day fora for interagency coordination of national security policies, the PCCs shall provide policy analysis for consideration by the more senior committees of the national security system and ensure timely responses to the President's decisions.
 
 Regional and issue-related PCCs shall be established at the direction of the DC. Members of the NSC staff (or National Economic Council staff, as appropriate) will chair the PCCs; the DC, at its discretion, may add co-chairs to any PCC. The PCCs shall review and coordinate the implementation of Presidential decisions in their respective policy areas. The Chair of each PCC, in consultation with the Executive Secretary, shall invite representatives of other executive departments and agencies to attend meetings of the PCC where appropriate. The Chair of each PCC, with the agreement of the Executive Secretary, may establish subordinate working groups to assist that PCC in the performance of its duties.
 

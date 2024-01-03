@@ -48,7 +48,7 @@ Any institution of higher education receiving a grant under this section may car
 
 #### (d) Application
 
-To be eligible to receive a grant under this section, an institution of higher education shallprepare and submit an application to the Secretary at such time and in such manner as the Secretary may require. At a minimum, the application shall include the following:
+To be eligible to receive a grant under this section, an institution of higher education shall prepare and submit an application to the Secretary at such time and in such manner as the Secretary may require. At a minimum, the application shall include the following:
 
 &emsp;(1) A description of the population to be targeted by the program carried out under the grant, including veterans whenever possible and appropriate, and of identified mental health and substance use disorder needs of students at the institution of higher education.
 
@@ -70,7 +70,7 @@ To be eligible to receive a grant under this section, an institution of higher e
 
 #### (1) In general
 
-&emsp;The Secretary may make a grant under this section to an institution of higher education only if the institution agrees to make available (directly or through donations from public or private entities) non-Federal contributions in an amount that is not less than $1 for each $1 of Federal funds provided in the grant, toward the costs of activities carried out with the grant (as described in subsection (b)) and other activities by the institution to reduce student mental health and substance use disorders.
+&emsp;The Secretary may make a grant under this section to an institution of higher education only if the institution agrees to make available (directly or through donations from public or private entities) non-Federal contributions in an amount that is not less than $1 for each $1 of Federal funds provided in the grant, toward the costs of activities carried out with the grant (as described in subsection (b)) and other activities by the institution to reducestudent mental health and substance use disorders.
 
 #### (2) Determination of amount contributed
 
@@ -214,7 +214,7 @@ Duties.—The Task Force shall—
 
 &emsp;&emsp;"(C) examine and better address the needs of the age population of students attending institutions of higher education dealing with mental illness;
 
-&emsp;&emsp;"(D) survey Federal agencies to determine which policies are effective in encouraging, and how bestto facilitate outreach without duplicating, efforts relating to mental and behavioral health promotion;
+&emsp;&emsp;"(D) survey Federal agencies to determine which policies are effective in encouraging, and how best to facilitate outreach without duplicating, efforts relating to mental and behavioral health promotion;
 
 &emsp;&emsp;"(E) establish specific goals within and across Federal agencies for mental health promotion, including determinations of accountability for reaching those goals;
 

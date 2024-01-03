@@ -34,7 +34,7 @@ Application.—
 
 &emsp;&emsp;(A)
 
-In general.—To receive a grant, contract, cooperative agreement, or other agreement under this section, an entity described in paragraph (2) shall submit an application to the Secretary.
+In general.—To receive a grant, contract, cooperative agreement, or otheragreement under this section, an entity described in paragraph (2) shall submit an application to the Secretary.
 
 &emsp;&emsp;(B)
 
@@ -102,7 +102,7 @@ Goals.—The goals of the accelerated implementation and deployment of advanced 
 
 &emsp;&emsp;(C)
 
-Publication.—The reporting requirements for the accelerated implementation and deployment of advanced digital construction management systems program established under section 503(c)(5) of title 23shall include data and analysis collected under this section.
+Publication.—The reporting requirements for the accelerated implementation and deployment of advanced digital construction management systems program established under section 503(c)(5) of title 23 shall include data and analysis collected under this section.
 
 (c)
 
@@ -248,7 +248,7 @@ In general.—Not later than the first Monday in February of each year, the Secr
 
 &emsp;(2)
 
-Updates.—Not less than every 3 months, the Secretary shall update on the Web site of the Department of Transportation the information described in paragraph (1)(C) to reflect any changes to the Secretary's plans to make assistance available under this section.
+Updates.—Not less than every 3 months, the Secretary shall update on the Web site of the Department of Transportation the information described in paragraph (1)(C) to reflectany changes to the Secretary's plans to make assistance available under this section.
 
 &emsp;(3)
 
@@ -334,7 +334,7 @@ Voluntary testing.—A manufacturer of a low or no emission vehicle component is
 
 &emsp;&emsp;(F)
 
-Compliance with section 5318.—Notwithstanding whether a low or no emissionvehicle component is assessed at a facility selected under subparagraph (A), each new bus model shall comply with the requirements under section 5318.
+Compliance with section 5318.—Notwithstanding whether a low or no emission vehicle component is assessed at a facility selected under subparagraph (A), each new bus model shall comply with the requirements under section 5318.
 
 &emsp;&emsp;(G)
 
@@ -354,7 +354,7 @@ Cost share.—The cost share for activities described in subparagraph (H) shall 
 
 &emsp;(3)
 
-Low or no emission vehicle component performance reports.—Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2015, and annually thereafter, the Secretary shall issue a report on low or no emission vehicle component assessments conducted at each facility selected under paragraph (2)(A), which shall include information related to the maintainability, reliability, performance, structural integrity, efficiency, and noise of those low or no emission vehicle components, as applicable.
+Low or no emission vehicle component performance reports.—Not later than 2years after the date of enactment of the Federal Public Transportation Act of 2015, and annually thereafter, the Secretary shall issue a report on low or no emission vehicle component assessments conducted at each facility selected under paragraph (2)(A), which shall include information related to the maintainability, reliability, performance, structural integrity, efficiency, and noise of those low or no emission vehicle components, as applicable.
 
 &emsp;(4)
 
@@ -574,7 +574,7 @@ Pub. L. 117–58, div. C, §30007(b), Nov. 15, 2021, 135 Stat. 902, provided tha
 
 "(1)
 
-In general.—Institutions of higher education selected to operate and maintain a facility to conduct testing, evaluation, and analysis of low or no emission vehicle components pursuant to section 5312(h) of title 49, United States Code, shall not carry out testing for a new bus model under section 5318 of that title.
+In general.—Institutions of higher education selected to operate and maintain a facility to conduct testing, evaluation, and analysis of low or no emission vehicle components pursuant to section 5312(h) of title49, United States Code, shall not carry out testing for a new bus model under section 5318 of that title.
 
 "(2)
 

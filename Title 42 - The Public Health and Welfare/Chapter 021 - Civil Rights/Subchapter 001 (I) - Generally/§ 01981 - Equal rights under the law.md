@@ -42,7 +42,7 @@ Certain Disparate Impact Cases.—Notwithstanding any other provision of this Ac
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–166, §1, Nov. 21, 1991, 105 Stat. 1071, provided that: "This Act \[enacting section 1981a of this title and sections 60l and 1201 to 1224 of Title 2, The Congress, amending this section and sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, 12112, and 12209 of this title, and section 626 of Title 29, Labor, and enacting provisions set out as notes underthis section and sections 2000e and 2000e–4 of this title, and section 1a–5 of Title 16, Conservation\] may be cited as the 'Civil Rights Act of 1991'."
+Pub. L. 102–166, §1, Nov. 21, 1991, 105 Stat. 1071, provided that: "This Act \[enacting section 1981a of this title and sections 60l and 1201 to 1224 of Title 2, The Congress, amending this section and sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, 12112, and 12209 of this title, and section 626 of Title 29, Labor, and enacting provisions set out as notes under this section and sections 2000e and 2000e–4 of this title, and section 1a–5 of Title 16, Conservation\] may be cited as the 'Civil Rights Act of 1991'."
 
 #### Short Title of 1976 Amendment
 

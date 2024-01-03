@@ -34,7 +34,7 @@ The Attorney General may, subject to the availability of appropriations, agree t
 
 #### (2) Compensation
 
-&emsp;If compliance with the assistance capability requirements of section 1002 of this title is not reasonably achievable with respect to equipment, facilities, or services deployed after January 1, 1995—
+&emsp;If compliance with the assistance capability requirements of section 1002 of this title is notreasonably achievable with respect to equipment, facilities, or services deployed after January 1, 1995—
 
 &emsp;&emsp;(A) the Attorney General, on application of a telecommunications carrier, may agree, subject to the availability of appropriations, to pay the telecommunications carrier for the additional reasonable costs of making compliance with such assistance capability requirements reasonably achievable; and
 
@@ -60,7 +60,7 @@ If a carrier has requested payment in accordance with procedures promulgated pur
 
 &emsp;&emsp;(A) permit recovery from the Federal Government of—
 
-&emsp;&emsp;&emsp;(i) the direct costs of developing the modifications described in subsection (a), of providing the capabilities requested under subsection (b)(2), or of providing thecapacities requested under section 1003(e) of this title, but only to the extent that such costs have not been recovered from any other governmental or nongovernmental entity;
+&emsp;&emsp;&emsp;(i) the direct costs of developing the modifications described in subsection (a), of providing the capabilities requested under subsection (b)(2), or of providing the capacities requested under section 1003(e) of this title, but only to the extent that such costs have not been recovered from any other governmental or nongovernmental entity;
 
 &emsp;&emsp;&emsp;(ii) the costs of training personnel in the use of such capabilities or capacities; and
 

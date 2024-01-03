@@ -10,7 +10,7 @@ Section 8604, Pub. L. 106–224, title III, §305, June 20, 2000, 114 Stat. 431;
 
 Section 8605, Pub. L. 106–224, title III, §306, June 20, 2000, 114 Stat. 432; Pub. L. 109–58, title IX, §941(d), Aug. 8, 2005, 119 Stat. 874, related to Biomass Research and Development Technical Advisory Committee. See section 8108 of this title.
 
-Section 8606, Pub. L. 106–224, title III, §307, June 20, 2000, 114 Stat. 433; Pub. L. 107–171, title IX, §9008(a)(1), May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201(a), Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941(e), Aug. 8, 2005, 119 Stat. 875; Pub. L. 110–140, title II, §232(b), (c), Dec. 19, 2007, 121 Stat. 1537; Pub. L. 110–234, title VII, §7511(c)(33), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(33), June 18, 2008, 122 Stat. 1664, 2032, related to Biomass Research and Development Initiative. See section 8108 of this title.
+Section 8606, Pub. L. 106–224, title III, §307, June 20, 2000, 114 Stat. 433; Pub. L. 107–171, title IX, §9008(a)(1),May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201(a), Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941(e), Aug. 8, 2005, 119 Stat. 875; Pub. L. 110–140, title II, §232(b), (c), Dec. 19, 2007, 121 Stat. 1537; Pub. L. 110–234, title VII, §7511(c)(33), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(33), June 18, 2008, 122 Stat. 1664, 2032, related to Biomass Research and Development Initiative. See section 8108 of this title.
 
 Section 8607, Pub. L. 106–224, title III, §308, June 20, 2000, 114 Stat. 436, related to provision of administrative support. See section 8108 of this title.
 

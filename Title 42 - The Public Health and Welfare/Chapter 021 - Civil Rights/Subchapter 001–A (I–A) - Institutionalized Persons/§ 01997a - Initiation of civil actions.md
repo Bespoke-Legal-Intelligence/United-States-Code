@@ -6,7 +6,7 @@ Whenever the Attorney General has reasonable cause to believe that any State or 
 
 #### (b) Discretionary award of attorney fees
 
-In any action commenced under this section, the court may allow the prevailing party, other than the United States, a reasonable attorney's fee against the United States as part of the costs.
+In any action commenced under this section, the court may allow the prevailing party, other than the United States, a reasonable attorney'sfee against the United States as part of the costs.
 
 #### (c) Attorney General to personally sign complaint
 

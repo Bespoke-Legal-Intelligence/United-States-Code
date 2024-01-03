@@ -2,7 +2,7 @@
 
 The Secretary of Energy shall consult with the Administrator of the Environmental Protection Agency, the Attorney General, Governors and attorneys general of affected States, appropriate representatives of affected Indian tribes, and interested members of the public in any planning conducted by the Secretary for defense environmental cleanup activities at Department of Energy defense nuclear facilities.
 
-(Pub. L. 107–314, div. D, title XLIV, §4408, formerly Pub. L. 103–337, div. C, title XXXI, §3160(e), Oct. 5, 1994, 108 Stat. 3095; renumberedPub. L. 107–314, div. D, title XLIV, §4408, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(9), Nov. 24, 2003, 117 Stat. 1765; Pub. L. 113–66, div. C, title XXXI, §3146(e)(9), Dec. 26, 2013, 127 Stat. 1077.)
+(Pub. L. 107–314, div. D, title XLIV, §4408, formerly Pub. L. 103–337, div. C, title XXXI, §3160(e), Oct. 5, 1994, 108 Stat. 3095; renumbered Pub. L. 107–314, div. D, title XLIV, §4408, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(9), Nov. 24, 2003, 117 Stat. 1765; Pub. L. 113–66, div. C, title XXXI, §3146(e)(9), Dec. 26, 2013, 127 Stat. 1077.)
 
 #### <b>Editorial Notes</b>
 

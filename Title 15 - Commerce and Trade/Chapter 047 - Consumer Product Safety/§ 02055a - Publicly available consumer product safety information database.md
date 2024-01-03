@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the availability of appropriations, the Commission shall, in accordance with the requirements of this section, establish and maintain a database on the safety of consumer products, and other products or substances regulated by the Commission, that is—
+&emsp;Subject to the availability of appropriations, the Commission shall, in accordance with the requirements of this section, establish and maintain a database on the safety of consumerproducts, and other products or substances regulated by the Commission, that is—
 
 &emsp;&emsp;(A) publicly available;
 
@@ -62,7 +62,7 @@
 
 #### (3) Additional information
 
-&emsp;In addition to the reports received under paragraph (1), the Commission shall include inthe database, consistent with the requirements of section 2055(a) and (b) of this title, any additional information it determines to be in the public interest.
+&emsp;In addition to the reports received under paragraph (1), the Commission shall include in the database, consistent with the requirements of section 2055(a) and (b) of this title, any additional information it determines to be in the public interest.
 
 #### (4) Organization of database
 

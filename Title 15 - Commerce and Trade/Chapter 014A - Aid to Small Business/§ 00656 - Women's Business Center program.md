@@ -268,7 +268,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the availability of appropriations, the Administrator shall make a grantfor the Federal share of the cost of activities described in the application to each applicant approved under this subsection.
+&emsp;&emsp;Subject to the availability of appropriations, the Administrator shall make a grant for the Federal share of the cost of activities described in the application to each applicant approved under this subsection.
 
 #### (B) Amount
 
@@ -286,7 +286,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator may renew a grant under this subsection for additional 3-year periods, if the nonprofit organization submits an application for such renewal at such time, in such manner, and accompanied by such information as the Administrator may establish.
+&emsp;&emsp;The Administrator may renew a grant under this subsection for additional 3-yearperiods, if the nonprofit organization submits an application for such renewal at such time, in such manner, and accompanied by such information as the Administrator may establish.
 
 #### (B) Unlimited renewals
 

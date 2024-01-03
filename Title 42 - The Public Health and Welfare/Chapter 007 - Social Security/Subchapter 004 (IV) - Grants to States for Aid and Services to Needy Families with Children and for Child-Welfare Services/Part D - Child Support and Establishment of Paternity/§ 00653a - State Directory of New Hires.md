@@ -10,7 +10,7 @@
 
 #### (B) States with new hire reporting law in existence
 
-&emsp;&emsp;A State which has a new hire reporting law in existence on August 22, 1996, may continue to operate under the State law, but the State must meet the requirements of subsection (g)(2) not later than October 1, 1997, and the requirements of this section (otherthan subsection (g)(2)) not later than October 1, 1998.
+&emsp;&emsp;A State which has a new hire reporting law in existence on August 22, 1996, may continue to operate under the State law, but the State must meet the requirements of subsection (g)(2) not later than October 1, 1997, and the requirements of this section (other than subsection (g)(2)) not later than October 1, 1998.
 
 #### (2) Definitions
 
@@ -90,7 +90,7 @@ Information shall be entered into the data base maintained by the State Director
 
 #### (2) Notice of match
 
-&emsp;When an information comparison conducted under paragraph (1) reveals a match with respect to the social security number of an individual required to provide support under a support order, the State Directory of New Hires shall provide the agency administering theState plan approved under this part of the appropriate State with the name, address, and social security number of the employee to whom the social security number is assigned, and the name and address of, and identifying number assigned under section 6109 of the Internal Revenue Code of 1986 to, the employer.
+&emsp;When an information comparison conducted under paragraph (1) reveals a match with respect to the social security number of an individual required to provide support under a support order, the State Directory of New Hires shall provide the agency administering the State plan approved under this part of the appropriate State with the name, address, and social security number of the employee to whom the social security number is assigned, and the name and address of, and identifying number assigned under section 6109 of the Internal Revenue Code of 1986 to, the employer.
 
 #### (g) Transmission of information
 

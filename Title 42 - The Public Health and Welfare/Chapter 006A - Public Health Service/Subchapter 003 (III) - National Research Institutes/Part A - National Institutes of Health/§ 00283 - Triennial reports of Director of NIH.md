@@ -38,7 +38,7 @@ The Director of NIH shall submit to the Congress on a triennial basis a report i
 
 &emsp;&emsp;&emsp;&emsp;(I) National Research Service Awards and Clinical Transformation Science Awards;
 
-&emsp;&emsp;&emsp;&emsp;(II) graduate medical education programs, including information on the number and type of graduate degrees awarded during the period in which the programs received funding under this subchapter;
+&emsp;&emsp;&emsp;&emsp;(II) graduate medical education programs, including information on the number and type of graduate degreesawarded during the period in which the programs received funding under this subchapter;
 
 &emsp;&emsp;&emsp;&emsp;(III) investigator-initiated awards for postdoctoral training and postdoctoral training funded through research grants;
 

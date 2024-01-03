@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) the deductions referred to in section 703(a)(2) (other than any deduction under section 212) shall not be allowed, and
 
-&emsp;&emsp;(E) the amount of the net income from foreclosure property (if any) shall be reducedby the amount of the tax imposed by section 860G(c).
+&emsp;&emsp;(E) the amount of the net income from foreclosure property (if any) shall be reduced by the amount of the tax imposed by section 860G(c).
 
 #### (2) Net loss
 
@@ -100,5 +100,5 @@ Subsec. (e)(1). Pub. L. 100–647, §1006(t)(1), substituted "ordinary" for "ord
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

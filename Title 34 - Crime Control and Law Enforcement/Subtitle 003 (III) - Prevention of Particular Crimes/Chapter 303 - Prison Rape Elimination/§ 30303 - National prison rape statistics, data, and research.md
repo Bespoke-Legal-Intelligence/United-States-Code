@@ -86,7 +86,7 @@
 
 #### (ii) Enforcement
 
-&emsp;&emsp;&emsp;In the case of contumacy or refusal to obey a subpoena, the Attorney Generalmay in a Federal court of appropriate jurisdiction obtain an appropriate order to enforce the subpoena.
+&emsp;&emsp;&emsp;In the case of contumacy or refusal to obey a subpoena, the Attorney General may in a Federal court of appropriate jurisdiction obtain an appropriate order to enforce the subpoena.
 
 #### (c) Reports
 

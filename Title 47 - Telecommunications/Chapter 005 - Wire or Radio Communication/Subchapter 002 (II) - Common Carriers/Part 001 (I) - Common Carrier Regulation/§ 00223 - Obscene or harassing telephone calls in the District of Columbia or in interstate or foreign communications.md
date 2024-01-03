@@ -76,7 +76,7 @@ Whoever—
 
 &emsp;&emsp;(ii) because a specific representation by the provider did not allow the carrier, acting in good faith, a sufficient period to restrict access to communications described in subsection (b).
 
-(3) Notwithstanding paragraph (2) of this subsection, a provider of communications services to which subscribers are denied access pursuant to paragraph (1) of this subsection may bring an action for a declaratory judgment or similar action in a court. Any such action shall be limited to the question of whether the communications which the provider seeks to provide fall within the category of communications to which the carrier will provide access only to subscribers who have previously requested such access.
+(3) Notwithstanding paragraph (2) of this subsection, a provider of communications services to which subscribers are denied access pursuant to paragraph (1) of this subsection may bring an action for a declaratory judgment or similar action in a court. Any such action shall be limited to the question of whether the communicationswhich the provider seeks to provide fall within the category of communications to which the carrier will provide access only to subscribers who have previously requested such access.
 
 #### (d) Sending or displaying offensive material to persons under 18
 

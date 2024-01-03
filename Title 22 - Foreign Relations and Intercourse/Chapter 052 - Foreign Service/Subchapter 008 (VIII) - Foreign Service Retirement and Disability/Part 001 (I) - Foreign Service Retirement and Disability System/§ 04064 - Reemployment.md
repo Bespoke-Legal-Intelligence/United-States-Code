@@ -50,7 +50,7 @@ In the event of any overpayment under this section, such overpayment shall be re
 
 #### (g) Waiver of annuity limitations
 
-(1) The Secretary of State may waive the application of subsections (a) through (d) on acase-by-case basis for an annuitant reemployed on a temporary basis, or grant authority to the head of an Executive agency to waive the application of subsections (a) through (d) on a case-by-case basis for an annuitant reemployed on a temporary basis—
+(1) The Secretary of State may waive the application of subsections (a) through (d) on a case-by-case basis for an annuitant reemployed on a temporary basis, or grant authority to the head of an Executive agency to waive the application of subsections (a) through (d) on a case-by-case basis for an annuitant reemployed on a temporary basis—
 
 &emsp;(A) if, and for so long as, such waiver is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances;
 
@@ -72,7 +72,7 @@ A reemployed annuitant as to whom a waiver under subsection (g) is in effect sha
 
 #### Amendments
 
-<b>2016</b>—Subsec. (g)(1)(B). Pub. L. 114–323, §405(a)(1), struck out "to facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan," before "if the annuitant".
+<b>2016</b>—Subsec. (g)(1)(B). Pub. L. 114–323, §405(a)(1), struck out "to facilitate the assignment of persons toIraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan," before "if the annuitant".
 
 Subsec. (g)(2), (3). Pub. L. 114–323, §405(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows:
 
@@ -108,7 +108,7 @@ Subsec. (g)(3). Pub. L. 109–289, §20941(3), as added by Pub. L. 110–5, subs
 
 Pub. L. 99–335, §402(a)(2), substituted "this part" for "this subchapter" in three places.
 
-Subsec. (b). Pub. L. 99–335, §410, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "When any such retired member of the Service is reemployed, the employer shall send a notice of such reemployment to the Secretary of State, together withall pertinent information relating to such employment, and shall pay directly to such member the salary of the position in which he or she is serving."
+Subsec. (b). Pub. L. 99–335, §410, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "When any such retired member of the Service is reemployed, the employer shall send a notice of such reemployment to the Secretary of State, together with all pertinent information relating to such employment, and shall pay directly to such member the salary of the position in which he or she is serving."
 
 Subsec. (b)(3). Pub. L. 99–556, §403, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The sum of—
 

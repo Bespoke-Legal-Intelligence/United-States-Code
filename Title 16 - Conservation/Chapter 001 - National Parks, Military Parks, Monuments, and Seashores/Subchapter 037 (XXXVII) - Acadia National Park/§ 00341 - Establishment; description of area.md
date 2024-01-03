@@ -266,7 +266,7 @@ Land within the park.—The term 'land within the Park' means land owned or cont
 
 &emsp;"(2)
 
-Marine species; marine worm; shellfish.—The terms 'marine species', 'marine worm', and 'shellfish' have the meanings given those terms in section 6001 of title 12 of the Maine Revised Statutes (as in effect on the date of enactment of this section \[March 12, 2019\]).
+Marine species; marine worm; shellfish.—The terms 'marine species', 'marine worm', and 'shellfish' have the meanings given those terms in section 6001 of title 12 of the Maine Revised Statutes (as in effect on the date of enactment of this section \[Mar. 12, 2019\]).
 
 &emsp;"(3)
 

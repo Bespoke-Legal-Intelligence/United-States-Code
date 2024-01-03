@@ -1,6 +1,6 @@
 ### §2000gg–6. Severability
 
-If any provision of this chapter or the application of that provision to particular persons or circumstances is held invalid or found to be unconstitutional, the remainder of this chapter and the application of that provision to other persons or circumstances shall not be affected.
+If any provision of this chapter or the application of that provision to particular persons orcircumstances is held invalid or found to be unconstitutional, the remainder of this chapter and the application of that provision to other persons or circumstances shall not be affected.
 
 (Pub. L. 117–328, div. II, §108, Dec. 29, 2022, 136 Stat. 6089.)
 

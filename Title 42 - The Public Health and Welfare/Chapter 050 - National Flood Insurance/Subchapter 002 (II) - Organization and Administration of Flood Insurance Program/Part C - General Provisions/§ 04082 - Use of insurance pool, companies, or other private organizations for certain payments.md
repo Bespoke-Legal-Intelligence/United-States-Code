@@ -8,7 +8,7 @@ In order to provide for maximum efficiency in the administration of the flood in
 
 &emsp;(2) Receiving from the Administrator, disbursing, and accounting for funds in making such payments.
 
-&emsp;(3) Making such audits of the records of any insurance company or other insurer, insurance agent or broker, or insurance adjustment organization as may be necessary to assure that proper payments are made.
+&emsp;(3) Making such audits of the records of any insurance company or other insurer, insuranceagent or broker, or insurance adjustment organization as may be necessary to assure that proper payments are made.
 
 &emsp;(4) Placing reinsurance coverage on insurance provided by such program.
 
@@ -32,7 +32,7 @@ No contract may be entered into under this section unless the Administrator find
 
 (2) No individual designated pursuant to a contract under this section to certify payments shall, in the absence of gross negligence or intent to defraud the United States, be liable with respect to any payment certified by him under this section.
 
-(3) No officer disbursing funds shall in the absence of gross negligence or intent to defraud the United States, be liable with respect to any payment by him under this section if it wasbased upon a voucher signed by an individual designated to certify payments as provided in paragraph (2) of this subsection.
+(3) No officer disbursing funds shall in the absence of gross negligence or intent to defraud the United States, be liable with respect to any payment by him under this section if it was based upon a voucher signed by an individual designated to certify payments as provided in paragraph (2) of this subsection.
 
 #### (f) Term of contract; renewals; termination
 

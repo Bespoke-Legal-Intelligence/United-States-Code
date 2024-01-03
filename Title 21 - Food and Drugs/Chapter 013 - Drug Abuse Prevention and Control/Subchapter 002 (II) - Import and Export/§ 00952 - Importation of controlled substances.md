@@ -18,7 +18,7 @@ It shall be unlawful to import into the customs territory of the United States f
 
 #### (b) Nonnarcotic controlled substances in schedule III, IV, or V
 
-It shall be unlawful to import into the customs territory of the United States from any place outside thereof (but within the United States), or to import into the United Statesfrom  any  place  outside  thereof,  any  nonnarcotic controlled substance in schedule III, IV, or V, unless such nonnarcotic controlled substance—
+It shall be unlawful to import into the customs territory of the United States from any place outside thereof (but within the United States), or to import into the United States from  any  place  outside  thereof,  any  nonnarcotic controlled substance in schedule III, IV, or V, unless such nonnarcotic controlled substance—
 
 &emsp;(1) is imported for medical, scientific, or other legitimate uses, and
 
@@ -30,7 +30,7 @@ In addition to the amount of coca leaves authorized to be imported into the Unit
 
 #### (d) Application for increased importation of ephedrine, pseudoephedrine, or phenylpropanolamine
 
-(1) With respect to a registrant under section 958 of this title who is authorized under subsection (a)(1) to import ephedrine, pseudoephedrine, or phenylpropanolamine, at any time during the year the registrant may apply for an increase in the amount of such chemical that the registrant is authorized to import, and the Attorney General may approve the application if the Attorney General determines that the approval is necessary to provide for medical, scientific, or other legitimate purposes regarding the chemical.
+(1) With respect to a registrant under section 958 of this title who is authorized under subsection (a)(1) to import ephedrine, pseudoephedrine, or phenylpropanolamine, at any time during the year the registrant mayapply for an increase in the amount of such chemical that the registrant is authorized to import, and the Attorney General may approve the application if the Attorney General determines that the approval is necessary to provide for medical, scientific, or other legitimate purposes regarding the chemical.
 
 (2) With respect to the application under paragraph (1):
 

@@ -90,7 +90,7 @@ As used in this section—
 
 (5)(A) If the cost of a project will be shared by the grant recipient, the Secretary shall accept, as a part or all of that share, the value of in-kind contributions made by the recipient, or made available to, and applied by, the recipient, with respect to the project.
 
-(B) For purposes of subparagraph (A), in-kind contributions may be in the form of, but are not limited to, personal services rendered in carrying out functions related to, and permission to use real or personal property owned by others (for which consideration is not required) in carrying out the project. The Secretary shall establish (i) the training, experience, and other qualifications which shall be required in order for services to be considered as in-kind contributions; and (ii) the standards under which the Secretary will determine the value of in-kind contributions for purposes of subparagraph (A).
+(B) For purposes of subparagraph (A), in-kind contributions may be in the form of, but are not limited to, personal services rendered in carrying out functions related to, and permission touse real or personal property owned by others (for which consideration is not required) in carrying out the project. The Secretary shall establish (i) the training, experience, and other qualifications which shall be required in order for services to be considered as in-kind contributions; and (ii) the standards under which the Secretary will determine the value of in-kind contributions for purposes of subparagraph (A).
 
 (C) Any valuation determination made by the Secretary for purposes of this paragraph shall be conclusive.
 
@@ -140,7 +140,7 @@ As used in this section—
 
 #### (2) Establishment
 
-&emsp;Not later than 90 days after May 12, 2022, the Secretary shall establish 6 regions within theAmerican Fisheries Advisory Committee as follows:
+&emsp;Not later than 90 days after May 12, 2022, the Secretary shall establish 6 regions within the American Fisheries Advisory Committee as follows:
 
 &emsp;&emsp;(A) Region 1 shall consist of Alaska, Hawaii, the Commonwealth of the Northern Mariana Islands, and the Territories of Guam and American Samoa.
 
@@ -246,7 +246,7 @@ As used in this section—
 
 #### (11) Conflict of interest
 
-&emsp;The conflict of interest and recusal provisions set out in section 1852(j) of title 16 shallapply to any decision by the Committee and to all members of the Committee as if each member of the Committee is an affected individual within the meaning of such section 1852(j), except that in addition to the disclosure requirements of section 1852(j)(2)(C) of title 16, each member of the Committee shall disclose any financial interest or relationship in an organization or with an individual that is applying for a grant under subsection (c) held by the member of the Committee, including an interest as an officer, director, trustee, partner, employee, contractor, agent, or other representative.
+&emsp;The conflict of interest and recusal provisions set out in section 1852(j) of title 16 shall apply to any decision by the Committee and to all members of the Committee as if each member of the Committee is an affected individual within the meaning of such section 1852(j), except that in addition to the disclosure requirements of section 1852(j)(2)(C) of title 16, each member of the Committee shall disclose any financial interest or relationship in an organization or with an individual that is applying for a grant under subsection (c) held by the member of the Committee, including an interest as an officer, director, trustee, partner, employee, contractor, agent, or other representative.
 
 #### (12) Technical review of applications
 
@@ -324,7 +324,7 @@ Subsec. (b). Pub. L. 96–561, §210(1), (2), (4), redesignated subsec. (a) as (
 
 Subsec. (c). Pub. L. 96–561, §210(1), (5), added subsec. (c) and struck out former subsec. (c) which directed the Secretary of Commerce to cooperate with other Federal, State, and local agencies for promotion of free flow of domestically produced fishery products and provided for the appointment of an advisory committee of the American fisheries industry to advise the Secretary in formulation of policy, rules, and regulations.
 
-Subsec. (d). Pub. L. 96–561, §210(1), (5), added subsec. (d) and struck out former subsec. (d) which authorized the Secretary of Commerce to retransfer any funds available under this section, not to exceed $1,500,000, to the Secretary of Agriculture to be used for the purposes specified in section 713c–2 of this title.
+Subsec. (d). Pub. L. 96–561, §210(1), (5), added subsec. (d) and struck out former subsec. (d) which authorizedthe Secretary of Commerce to retransfer any funds available under this section, not to exceed $1,500,000, to the Secretary of Agriculture to be used for the purposes specified in section 713c–2 of this title.
 
 Subsec. (e). Pub. L. 96–561, §210(1), (5), added subsec. (e) and struck out former subsec. (e) which provided that the special fund created for use of the Secretary of Commerce under subsec. (a) of this section and the annual accruals thereto be available for each year until expended by the Secretary.
 

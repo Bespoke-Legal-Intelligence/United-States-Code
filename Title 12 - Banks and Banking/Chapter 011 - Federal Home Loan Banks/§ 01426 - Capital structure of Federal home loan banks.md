@@ -240,7 +240,7 @@ If the Director or the board of directors of a Federal home loan bank determines
 
 #### (2) Exception
 
-&emsp;Except as specifically provided in this section or through the declaration of a dividend or a capital distribution by a Federal home loan bank, or in the event of liquidation of the bank, a member shall have no right to withdraw or otherwise receive distribution of any portion of the retained earnings of the bank.
+&emsp;Except as specifically provided in this section or through the declaration of a dividendor a capital distribution by a Federal home loan bank, or in the event of liquidation of the bank, a member shall have no right to withdraw or otherwise receive distribution of any portion of the retained earnings of the bank.
 
 #### (3) Limitation
 
@@ -306,7 +306,7 @@ Subsec. (m). Pub. L. 101–73, §706(1), redesignated former subsec. (m) as (h).
 
 <b>1982</b>—Subsec. (c)(2). Pub. L. 97–320, §353, struck out cl. (i) limitations which had prohibited members from reducing stock to less than the amount held on Sept. 8, 1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction was made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board; and reenacted cl. (ii) limitations as par. (2), substituting "the Board defining such term" for "said Board defining said term".
 
-Subsec. (i). Pub. L. 97–320, §355(a), provided for treatment of a liquidation of indebtedness, in the case of avoluntary withdrawal of an institution from membership, as a prepayment of the indebtedness, subject to applicable prepayment penalties.
+Subsec. (i). Pub. L. 97–320, §355(a), provided for treatment of a liquidation of indebtedness, in the case of a voluntary withdrawal of an institution from membership, as a prepayment of the indebtedness, subject to applicable prepayment penalties.
 
 Subsec. (m). Pub. L. 97–320, §355(b), added subsec. (m).
 

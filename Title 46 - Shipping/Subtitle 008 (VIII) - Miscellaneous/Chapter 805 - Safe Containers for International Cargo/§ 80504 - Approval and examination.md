@@ -18,7 +18,7 @@ Domicile or Principal Office in United States.—A container owner domiciled or 
 
 (c)
 
-Neither Domicile Nor Principal Office in United States.—A container owner neitherdomiciled nor having its principal office in the United States or another country that is a party to the Convention may submit a container for initial approval and periodic examination under procedures prescribed by the Secretary.
+Neither Domicile Nor Principal Office in United States.—A container owner neither domiciled nor having its principal office in the United States or another country that is a party to the Convention may submit a container for initial approval and periodic examination under procedures prescribed by the Secretary.
 
 (Pub. L. 109–304, §11, Oct. 6, 2006, 120 Stat. 1695.)
 

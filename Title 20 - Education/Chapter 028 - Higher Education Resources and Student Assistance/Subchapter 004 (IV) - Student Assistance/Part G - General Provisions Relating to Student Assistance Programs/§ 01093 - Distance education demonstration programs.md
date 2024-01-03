@@ -56,7 +56,7 @@ It is the purpose of this section—
 
 &emsp;&emsp;(A) a description of the institution, system, or consortium's consultation with a recognized accrediting agency or association with respect to quality assurances for the distance education programs to be offered;
 
-&emsp;&emsp;(B) a description of the statutory and regulatory requirements described in subsection (b)(2) or, if applicable, subsection (b)(3)(D)for which a waiver is sought and the reasons for which the waiver is sought;
+&emsp;&emsp;(B) a description of the statutory and regulatory requirements described in subsection (b)(2) or, if applicable, subsection (b)(3)(D) for which a waiver is sought and the reasons for which the waiver is sought;
 
 &emsp;&emsp;(C) a description of the distance education programs to be offered;
 
@@ -146,7 +146,7 @@ For the purpose of this section, the term "distance education" means an educatio
 
 &emsp;(4) correspondence.
 
-(Pub. L. 89–329, title IV, §486, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat.1487; amended Pub. L. 102–325, title IV, §489, July 23, 1992, 106 Stat. 624; Pub. L. 105–244, title IV, §488, Oct. 7, 1998, 112 Stat. 1746; Pub. L. 110–315, title I, §103(b)(12), title IV, §491, Aug. 14, 2008, 122 Stat. 3090, 3307.)
+(Pub. L. 89–329, title IV, §486, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1487; amended Pub. L. 102–325, title IV, §489, July 23, 1992, 106 Stat. 624; Pub. L. 105–244, title IV, §488, Oct. 7, 1998, 112 Stat. 1746; Pub. L. 110–315, title I, §103(b)(12), title IV, §491, Aug. 14, 2008, 122 Stat. 3090, 3307.)
 
 #### <b>Editorial Notes</b>
 

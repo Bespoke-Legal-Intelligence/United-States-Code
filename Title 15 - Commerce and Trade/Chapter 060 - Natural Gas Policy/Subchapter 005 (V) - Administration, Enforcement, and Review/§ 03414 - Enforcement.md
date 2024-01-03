@@ -22,7 +22,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (5) Criminal referral
 
-&emsp;The Commission may transmit such evidence as may be available concerning any acts or practices constituting any possible violations of the Federal antitrust laws to the Attorney General who may institute appropriate criminal proceedings.
+&emsp;The Commission may transmit such evidence as may be available concerning any actsor practices constituting any possible violations of the Federal antitrust laws to the Attorney General who may institute appropriate criminal proceedings.
 
 #### (6) Civil penalties
 

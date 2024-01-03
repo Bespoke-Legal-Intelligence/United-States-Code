@@ -407,7 +407,7 @@ Amendment by Pub. L. 110–84 effective July 1, 2009, see section 601(e) of Pub.
 
 Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
-Pub. L. 109–171, title VIII, §8017(b)(2), Feb. 8, 2006, 120 Stat. 173, provided that: "The amendments made byparagraph (1) \[amending this section\] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007."
+Pub. L. 109–171, title VIII, §8017(b)(2), Feb. 8, 2006, 120 Stat. 173, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007."
 
 #### Effective Date of 1998 Amendment
 

@@ -14,7 +14,7 @@ As used in this section:
 
 #### (2) Apparently wholesome food
 
-&emsp;The term "apparently wholesome food" means food that meets all quality and labelingstandards imposed by Federal, State, and local laws and regulations even though the food may not be readily marketable due to appearance, age, freshness, grade, size, surplus, or other conditions.
+&emsp;The term "apparently wholesome food" means food that meets all quality and labeling standards imposed by Federal, State, and local laws and regulations even though the food may not be readily marketable due to appearance, age, freshness, grade, size, surplus, or other conditions.
 
 #### (3) Donate
 
@@ -42,7 +42,7 @@ As used in this section:
 
 #### (9) Intentional misconduct
 
-&emsp;The term "intentional misconduct" means conduct by a person with knowledge (at the time of the conduct) that the conduct is harmful to the health or well-being of another person.
+&emsp;The term "intentional misconduct" means conduct by a person with knowledge (at thetime of the conduct) that the conduct is harmful to the health or well-being of another person.
 
 #### (10) Nonprofit organization
 
@@ -80,7 +80,7 @@ As used in this section:
 
 #### (d) Collection or gleaning of donations
 
-A person who allows the collection or gleaning of donations on property owned or occupied by the person by gleaners, or paid or unpaid representatives of a nonprofit organization, for ultimate distribution to needy individuals shall not be subject to civil or criminal liability that arises due to the injury or death of the gleaneror representative, except that this paragraph shall not apply to an injury or death that results from an act or omission of the person constituting gross negligence or intentional misconduct.
+A person who allows the collection or gleaning of donations on property owned or occupied by the person by gleaners, or paid or unpaid representatives of a nonprofit organization, for ultimate distribution to needy individuals shall not be subject to civil or criminal liability that arises due to the injury or death of the gleaner or representative, except that this paragraph shall not apply to an injury or death that results from an act or omission of the person constituting gross negligence or intentional misconduct.
 
 #### (e) Partial compliance
 

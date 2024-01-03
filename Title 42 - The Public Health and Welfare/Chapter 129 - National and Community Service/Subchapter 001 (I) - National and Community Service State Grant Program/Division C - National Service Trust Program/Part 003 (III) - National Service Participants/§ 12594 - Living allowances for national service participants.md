@@ -4,7 +4,7 @@
 
 #### (1) Living allowance required
 
-&emsp;Subject to paragraphs (2) and (3), a national service program carried out using assistanceprovided under section 12571 of this title shall provide to each participant who participates on a full-time basis in the program a living allowance in an amount equal to or greater than the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
+&emsp;Subject to paragraphs (2) and (3), a national service program carried out using assistance provided under section 12571 of this title shall provide to each participant who participates on a full-time basis in the program a living allowance in an amount equal to or greater than the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
 
 #### (2) Maximum living allowance
 
@@ -68,7 +68,7 @@ A professional corps program described in section 12572(c)(1)(D) of this title t
 
 #### (f) Individualized support services
 
-A State or other recipient of assistance under section 12571 of this title shall provide reasonable accommodation, including auxiliary aids and services (as defined in section 12102(1) <sup>1</sup> of this title), based on the individualized need of a participant who is a qualified individual with adisability (as defined in section 12111(8) of this title).
+A State or other recipient of assistance under section 12571 of this title shall provide reasonable accommodation, including auxiliary aids and services (as defined in section 12102(1) <sup>1</sup> of this title), based on the individualized need of a participant who is a qualified individual with a disability (as defined in section 12111(8) of this title).
 
 (Pub. L. 101–610, title I, §140, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 811; amended Pub. L. 111–13, title I, §1315, Apr. 21, 2009, 123 Stat. 1511.)
 
@@ -76,7 +76,7 @@ A State or other recipient of assistance under section 12571 of this title shall
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (a)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act was formerly classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219.Part C of title IV of the Act was formerly classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 Section 12102 of this title, referred to in subsec. (f), was amended generally by Pub. L. 110–325, §4(a), Sept. 25, 2008, 122 Stat. 3555, and, as so amended, no longer defines "auxiliary aids and services". However, such term is defined in section 12103(1) of this title.
 

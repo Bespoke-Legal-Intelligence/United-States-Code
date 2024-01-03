@@ -6,7 +6,7 @@ In General.—The Secretary of Transportation shall develop a plan and initiate 
 
 (b)
 
-Plan Contents.—The plan under subsection (a) shall include the development of processes to facilitate the safe operation of small unmanned aircraft beyond the visual line of sight.
+Plan Contents.—The plan under subsection (a) shall include the development ofprocesses to facilitate the safe operation of small unmanned aircraft beyond the visual line of sight.
 
 (c)
 
@@ -34,5 +34,5 @@ Existing process.—The Secretary may implement an existing process to meet the 
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 332(d) of Pub. L. 112–95, which was setout in a note under section 40101 of this title, prior to repeal by Pub. L. 115–254, div. B, title III, §341(b)(2), Oct. 5, 2018, 132 Stat. 3287. The remainder of the note comprised of subtitle B of title III of Pub. L. 112–95 was transferred and is set out under section 44802 of this title.
+Provisions similar to those in this section were contained in section 332(d) of Pub. L. 112–95, which was set out in a note under section 40101 of this title, prior to repeal by Pub. L. 115–254, div. B, title III, §341(b)(2), Oct. 5, 2018, 132 Stat. 3287. The remainder of the note comprised of subtitle B of title III of Pub. L. 112–95 was transferred and is set out under section 44802 of this title.
 

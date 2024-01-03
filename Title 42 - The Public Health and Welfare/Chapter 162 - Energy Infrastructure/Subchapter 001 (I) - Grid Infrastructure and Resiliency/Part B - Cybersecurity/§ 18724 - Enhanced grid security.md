@@ -82,7 +82,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary, in coordination with the Secretary of Homeland Security, shall developand carry out an advanced energy security program to secure energy networks, including—
+&emsp;The Secretary, in coordination with the Secretary of Homeland Security, shall develop and carry out an advanced energy security program to secure energy networks, including—
 
 &emsp;&emsp;(A) electric networks;
 

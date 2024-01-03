@@ -20,7 +20,7 @@ Each report submitted under subsection (a) shall include the following:
 
 &emsp;(6) Recommendations for growing talent in key critical and emerging technologies and enhancing the ability of the intelligence community to recruit and retain individuals with critical skills relating to such technologies.
 
-&emsp;(7) An identification of opportunities to improve the leadership of the United States in critical technologies, including opportunities to develop international partnerships to reinforce domestic policy actions, develop newmarkets, engage in collaborative research, and maintain an international environment that reflects the values of the United States and protects the interests of the United States.
+&emsp;(7) An identification of opportunities to improve the leadership of the United States in critical technologies, including opportunities to develop international partnerships to reinforce domestic policy actions, develop new markets, engage in collaborative research, and maintain an international environment that reflects the values of the United States and protects the interests of the United States.
 
 &emsp;(8) A technology annex to establish an approach for the identification, prioritization, development, and fielding of emerging technologies critical to the mission of the intelligence community.
 

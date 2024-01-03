@@ -26,7 +26,7 @@ Under such regulations as the Secretary may prescribe, fermented materials to be
 
 #### (c) Processing of distilled spirits containing extraneous substances
 
-The Secretary may by regulations provide for the removal from the distilling system, and theaddition to the fermented or unfermented distilling material, of distilled spirits containing substantial quantities of fusel oil or aldehydes, or other extraneous substances.
+The Secretary may by regulations provide for the removal from the distilling system, and the addition to the fermented or unfermented distilling material, of distilled spirits containing substantial quantities of fusel oil or aldehydes, or other extraneous substances.
 
 #### (d) Penalty
 

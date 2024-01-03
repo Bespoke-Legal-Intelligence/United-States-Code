@@ -54,7 +54,7 @@ Subsecs. (h), (i). Pub. L. 94–455, §1901(a)(117), redesignated subsec. (i) as
 
 <b>1971</b>—Subsec. (a). Pub. L. 92–178 provided for non-application of section in the case of a corporation for a taxable year for which it is a DISC or in which it owns at any time stock in a DISC or former DISC.
 
-<b>1966</b>—Subsec (d). Pub. L. 89–809 made applicable to United States citizens and domestic corporations engaged in trade or business in possessions, who qualify for the special tax treatment of income qualifying for the exclusion relating to income from United States possessions, provisions which allow deductions to nonresident aliens or foreign corporations engaged in trade or business in the United States by allowing deductions only where they are allocable to income effectively connected with the trade or business in the United States and by spelling out the exceptions allowing deductions whether or not connected with income from sources within the United States in the case of losses not connected with the trade or business but incurred in transactions entered into for profit, casualty losses, and charitable contributions.
+<b>1966</b>—Subsec (d). Pub. L. 89–809 made applicable to United States citizens and domestic corporations engaged in trade or business in possessions, who qualify for the special tax treatment of income qualifying for the exclusion relating to income from United States possessions, provisions which allow deductions to nonresident aliens or foreign corporations engaged in tradeor business in the United States by allowing deductions only where they are allocable to income effectively connected with the trade or business in the United States and by spelling out the exceptions allowing deductions whether or not connected with income from sources within the United States in the case of losses not connected with the trade or business but incurred in transactions entered into for profit, casualty losses, and charitable contributions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -156,7 +156,7 @@ Treatment of Certain United States Persons.—Except as otherwise provided in re
 
 "(f)
 
-Exemption From Withholding.—Notwithstanding subsection (b), the modification of section 884 of the Internal Revenue Code of 1986 by reason of the amendment to section 881 of such Code by section 1273(b)(1) of this Act shall apply to taxable years beginning after December 31, 1986."
+Exemption From Withholding.—Notwithstanding subsection (b), the modification of section 884of the Internal Revenue Code of 1986 by reason of the amendment to section 881 of such Code by section 1273(b)(1) of this Act shall apply to taxable years beginning after December 31, 1986."
 
 #### Effective Date of 1984 Amendment
 

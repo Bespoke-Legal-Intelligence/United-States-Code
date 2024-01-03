@@ -40,7 +40,7 @@
 
 &emsp;(iii) the process for decision making and notifying the eligible crime victim assistance program of the decision.
 
-(8) Beginning on the date a national emergency is declared under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to a pandemic and ending on the date that is one year after the date of the end of such national emergency, each chief executive shall issue waivers for any matching requirement, in its entirety, for all eligible crime victim assistance programs contracted to provide services at that time.
+(8) Beginning on the date a national emergency is declared under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to a pandemic and ending on the date that is one year after the date of the end of such national emergency, each chief executive shall issuewaivers for any matching requirement, in its entirety, for all eligible crime victim assistance programs contracted to provide services at that time.
 
 #### (b) Eligibility of program; factors; limitation on expending of sums
 
@@ -96,7 +96,7 @@
 
 &emsp;(E) use funds made available to the Director under this subsection—
 
-&emsp;&emsp;(i) for fellowships and clinical internships and for grants under subparagraphs (1)(A)and (B), pursuant to rules or guidelines that generally establish a publicly-announced, competitive process; and
+&emsp;&emsp;(i) for fellowships and clinical internships and for grants under subparagraphs (1)(A) and (B), pursuant to rules or guidelines that generally establish a publicly-announced, competitive process; and
 
 &emsp;&emsp;(ii) to carry out programs of training and special workshops for the presentation and dissemination of information resulting from demonstrations, surveys, and special projects.
 
@@ -224,7 +224,7 @@ Pub. L. 100–690, §7127, inserted reference to the United States Virgin Island
 
 Subsec. (c)(1), (2). Pub. L. 99–401, §102(b)(4), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
-"(1) The Attorney General may in any fiscal year deduct from amounts available under this section an amount not to exceed 5 percent of the amount in the Fund, and may expend the amount so deducted to provide services to victims of Federal crimes by the Department of Justice, or reimburse other instrumentalities of the Federal Government otherwise authorized to provide such services.
+"(1) The Attorney General may in any fiscal year deduct from amounts available under this section an amount not to exceed 5 percent of the amount in theFund, and may expend the amount so deducted to provide services to victims of Federal crimes by the Department of Justice, or reimburse other instrumentalities of the Federal Government otherwise authorized to provide such services.
 
 "(2) The Attorney General shall appoint or designate an official of the Department of Justice to be the Federal Crime Victim Assistance Administrator (hereinafter in this chapter referred to as the 'Federal Administrator') to exercise the responsibilities of the Attorney General under this subsection."
 

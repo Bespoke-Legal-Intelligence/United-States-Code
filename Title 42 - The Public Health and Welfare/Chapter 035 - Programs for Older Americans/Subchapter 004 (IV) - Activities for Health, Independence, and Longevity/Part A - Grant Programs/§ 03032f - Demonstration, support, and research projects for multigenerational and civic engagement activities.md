@@ -52,7 +52,7 @@ In awarding grants and entering into contracts to carry out a project described 
 
 &emsp;(3) eligible organizations proposing civic engagement projects that will serve communities with the greatest need;
 
-&emsp;(4) eligible organizations with the capacity to develop meaningful roles and assignments that use the time, skills, and experience ofolder individuals to serve public and nonprofit organizations; and
+&emsp;(4) eligible organizations with the capacity to develop meaningful roles and assignments that use the time, skills, and experience of older individuals to serve public and nonprofit organizations; and
 
 &emsp;(5) eligible organizations proposing multigenerational activity projects that utilize shared site programs, such as collocated child care and long-term care facilities.
 
@@ -120,7 +120,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(ii) individuals in younger generations.
 
-(Pub. L. 89–73, title IV, §417, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2261; amended Pub. L. 109–365, title IV, §406, Oct. 17, 2006, 120 Stat. 2555; Pub. L. 114–144, §5(e), Apr. 19, 2016, 130 Stat. 342; Pub. L. 116–131, title III, §306, Mar. 25, 2020, 134 Stat. 264.)
+(Pub. L. 89–73, title IV, §417, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2261;amended Pub. L. 109–365, title IV, §406, Oct. 17, 2006, 120 Stat. 2555; Pub. L. 114–144, §5(e), Apr. 19, 2016, 130 Stat. 342; Pub. L. 116–131, title III, §306, Mar. 25, 2020, 134 Stat. 264.)
 
 #### <b>Editorial Notes</b>
 
@@ -148,7 +148,7 @@ Pub. L. 116–131, §306(2), struck out subsec. (g) which related to report to C
 
 Subsec. (h)(2)(B)(i). Pub. L. 116–131, §306(8), substituted "older individuals" for "individuals from the generations with older individuals".
 
-<b>2016</b>—Subsec. (a)(1)(A). Pub. L. 114–144 substituted "older relative caregivers (as defined in section 3030s ofthis title)" for "grandparents and other older individuals who are relative caregivers".
+<b>2016</b>—Subsec. (a)(1)(A). Pub. L. 114–144 substituted "older relative caregivers (as defined in section 3030s of this title)" for "grandparents and other older individuals who are relative caregivers".
 
 <b>2006</b>—Pub. L. 109–365 amended section generally, substituting provisions relating to demonstration, support, and research projects for multigenerational and civic engagement activities for provisions relating to demonstration projects for multigenerational activities.
 

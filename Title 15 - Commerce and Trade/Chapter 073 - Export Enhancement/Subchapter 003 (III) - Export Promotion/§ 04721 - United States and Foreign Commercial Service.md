@@ -58,7 +58,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 &emsp;(A) The Secretary may, after consultation with the Secretary of State, establish foreign offices of the Commercial Service. These offices shall be located in foreign cities in regions in which the Secretary determines there are significant business opportunities for United States exporters.
 
-&emsp;(B) The Secretary may, in consultation with the Secretary of State, assign to the foreign offices Commercial Service Officers and such other personnel as the Secretary considers necessary. In employing Commercial Service Officers and such other personnel, the Secretary shall use the Foreign Service personnel system in accordance with the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. The Secretary shall designate a Commercial Officer <sup>1</sup> as head of each foreign office.
+&emsp;(B) The Secretary may, in consultation with the Secretary of State, assign to the foreign offices Commercial Service Officers and such other personnel as the Secretary considers necessary. In employing Commercial ServiceOfficers and such other personnel, the Secretary shall use the Foreign Service personnel system in accordance with the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. The Secretary shall designate a Commercial Officer <sup>1</sup> as head of each foreign office.
 
 &emsp;(C) Upon the request of the Secretary, the Secretary of State shall attach the Commercial Service Officers and other employees of each foreign office to the diplomatic mission of the United States in the country in which that foreign office is located, and shall obtain for them diplomatic privileges and immunities equivalent to those enjoyed by Foreign Service personnel of comparable rank and salary.
 
@@ -72,7 +72,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 #### (1) Minister-Counselor
 
-&emsp;Notwithstanding any other provision of law, the Secretary is authorized to designate up to16 United States missions abroad at which the senior Commercial Service Officer will be able to use the diplomatic title of Minister-Counselor. The Secretary of State shall accord the diplomatic title of Minister-Counselor to the senior Commercial Service Officer assigned to a United States mission so designated.
+&emsp;Notwithstanding any other provision of law, the Secretary is authorized to designate up to 16 United States missions abroad at which the senior Commercial Service Officer will be able to use the diplomatic title of Minister-Counselor. The Secretary of State shall accord the diplomatic title of Minister-Counselor to the senior Commercial Service Officer assigned to a United States mission so designated.
 
 #### (2) Consul General
 
@@ -144,7 +144,7 @@ Section is comprised of section 2301 of Pub. L. 100–418. Subsec. (i) of sectio
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b)(9). Pub. L. 115–254 substituted "United States International Development FinanceCorporation" for "Overseas Private Investment Corporation".
+<b>2018</b>—Subsec. (b)(9). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation".
 
 Subsec. (f). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation" in introductory provisions.
 

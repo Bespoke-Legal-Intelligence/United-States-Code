@@ -18,7 +18,7 @@ The incorporators may adopt articles of incorporation which shall be filed with 
 
 &emsp;(5) The duration of the corporation, which may be perpetual or for a limited period;
 
-&emsp;(6) The names and addresses of at least three individuals (a majority of whom, at the time of designation and during their term of office,shall be citizens of the United States), to be designated by the incorporators, who shall serve as temporary directors; and
+&emsp;(6) The names and addresses of at least three individuals (a majority of whom, at the time of designation and during their term of office, shall be citizens of the United States), to be designated by the incorporators, who shall serve as temporary directors; and
 
 &emsp;(7) The fact that an amount equal to 25 per centum of the amount of the authorized capital stock has been in good faith subscribed to.
 

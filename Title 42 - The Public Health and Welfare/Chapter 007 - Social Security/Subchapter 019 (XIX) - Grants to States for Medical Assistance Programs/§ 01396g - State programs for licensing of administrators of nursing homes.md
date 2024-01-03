@@ -40,7 +40,7 @@ As used in this section, the term—
 
 #### Repeal of Section
 
-<i>Pub. L. 101–508, title IV, §4801(e)(11), Nov. 5, 1990, 104 Stat. 1388–217, provided that, effective on the date on which the Secretary promulgates standards regarding the qualifications of nursing facility administrators under section 1396r(f)(4) of this title, this section is repealed.</i>
+<i>Pub. L. 101–508, title IV, §4801(e)(11), Nov. 5, 1990, 104 Stat. 1388–217, provided that, effective</i><i>on the date on which the Secretary promulgates standards regarding the qualifications of nursing facility administrators under section 1396r(f)(4) of this title, this section is repealed.</i>
 
 #### <b>Editorial Notes</b>
 

@@ -12,5 +12,5 @@ This chapter, referred to in text, was in the original "this Act", meaning act J
 
 #### Amendments
 
-<b>1954</b>—Act Mar. 23, 1954, provided that any offense punishable hereunder, except a second or subsequent offense, should constitute a misdemeanor rather than a felony, as those terms are defined in section 1 of Title 18, Crimes and Criminal Procedure.
+<b>1954</b>—Act Mar. 23, 1954, provided that any offense punishable hereunder, except a second or subsequent offense, should constitute a misdemeanor rather than afelony, as those terms are defined in section 1 of Title 18, Crimes and Criminal Procedure.
 

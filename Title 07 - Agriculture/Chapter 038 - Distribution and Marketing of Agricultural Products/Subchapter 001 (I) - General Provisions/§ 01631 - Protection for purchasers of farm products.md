@@ -34,7 +34,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) arranged within each such product—
 
-&emsp;&emsp;&emsp;&emsp;(I) in alphabetical order according to the last name of the individual debtors, or, in the case of debtors doing business other than as individuals, the first word in the name of such debtors; and
+&emsp;&emsp;&emsp;&emsp;(I) in alphabetical order according to the last name of the individual debtors,or, in the case of debtors doing business other than as individuals, the first word in the name of such debtors; and
 
 &emsp;&emsp;&emsp;&emsp;(II) in numerical order according to the social security number, or other approved unique identifier, of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtors, except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens; and
 
@@ -160,7 +160,7 @@ What constitutes receipt, as used in this section, shall be determined by the la
 
 #### (g) Commission merchants or selling agents: sales free of or subject to security interest; law governing "receipt"
 
-(1) Except as provided in paragraph (2) and notwithstanding any other provision of Federal, State, or local law, a commission merchant or selling agent who sells, in the ordinary course of business, a farm product for others, shall not be subject to a security interest created by the seller in such farm product even though the security interest is perfected and even though the commission merchant or selling agent knows of the existence of such interest.
+(1) Except as provided in paragraph (2) and notwithstanding any other provision of Federal, State, or local law, a commission merchant or selling agent who sells, in the ordinary course of business, a farm product for others, shall not be subject to a security interest created by theseller in such farm product even though the security interest is perfected and even though the commission merchant or selling agent knows of the existence of such interest.
 
 (2) A commission merchant or selling agent who sells a farm product for others shall be subject to a security interest created by the seller in such farm product if—
 

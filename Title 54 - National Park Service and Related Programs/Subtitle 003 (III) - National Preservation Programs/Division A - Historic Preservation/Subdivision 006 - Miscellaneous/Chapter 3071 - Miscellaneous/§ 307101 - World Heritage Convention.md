@@ -6,7 +6,7 @@ Authority of Secretary.—In carrying out this section, the Secretary of the Int
 
 (b)
 
-Participation by United States.—The Secretary shall direct and coordinate participation by the United States in the World Heritage Convention in cooperation with the Secretary of State, the Smithsonian Institution, and the Council. Whenever possible, expenditures incurred in carrying out activities in cooperationwith other nations and international organizations shall be paid for in such excess currency of the country or area where the expense is incurred as may be available to the United States.
+Participation by United States.—The Secretary shall direct and coordinate participation by the United States in the World Heritage Convention in cooperation with the Secretary of State, the Smithsonian Institution, and the Council. Whenever possible, expenditures incurred in carrying out activities in cooperation with other nations and international organizations shall be paid for in such excess currency of the country or area where the expense is incurred as may be available to the United States.
 
 (c)
 

@@ -24,7 +24,7 @@ Unloading, Feeding, Watering, and Rest.—Animals being transported shall be unl
 
 (c)
 
-Nonapplication.—This section does not apply when animals are transported in a vehicleor vessel in which the animals have food, water, space, and an opportunity for rest.
+Nonapplication.—This section does not apply when animals are transported in a vehicle or vessel in which the animals have food, water, space, and an opportunity for rest.
 
 (d)
 

@@ -12,7 +12,7 @@
 
 (c)(1) The Secretary of the Interior shall establish a task force to conduct a study to determine the values of, and best uses for, the lands contained in the reserve, taking into consideration (A) the natives who live or depend upon such lands, (B) the scenic, historical, recreational, fish and wildlife, and wilderness values, (C) mineral potential, and (D) other values of such lands.
 
-(2) Such task force shall be composed of representatives from the government of Alaska, the Arctic slope native community, and such offices and bureaus of the Department of the Interior as the Secretary of the Interior deems appropriate,including, but not limited to, the Bureau of Land Management, the United States Fish and Wildlife Service, the United States Geological Survey, and the United States Bureau of Mines.
+(2) Such task force shall be composed of representatives from the government of Alaska, the Arctic slope native community, and such offices and bureaus of the Department of the Interior as the Secretary of the Interior deems appropriate, including, but not limited to, the Bureau of Land Management, the United States Fish and Wildlife Service, the United States Geological Survey, and the United States Bureau of Mines.
 
 (3) The Secretary of the Interior shall submit a report, together with the concurring or dissenting views, if any, of any non-Federal representatives of the task force, of the results of such study to the Committees on Interior and Insular Affairs of the Senate and the House of Representatives within three years after April 5, 1976, and shall include in such report his recommendations with respect to the value, best use, and appropriate designation of the lands referred to in paragraph (1).
 

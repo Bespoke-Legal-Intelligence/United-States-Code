@@ -22,7 +22,7 @@ In general.—The Secretary may grant an exemption to a sponsor from the provisi
 
 &emsp;&emsp;(B)
 
-Objection to exemption.—An air carrier shall be deemed to have approved a sponsor's application for an exemption under subparagraph (A) unless the air carrier has submitted an objection, in writing, to the sponsor within 60 days of the filing of the sponsor's application with the Secretary, orwithin 60 days of the service of the application upon that air carrier, whichever is later.
+Objection to exemption.—An air carrier shall be deemed to have approved a sponsor's application for an exemption under subparagraph (A) unless the air carrier has submitted an objection, in writing, to the sponsor within 60 days of the filing of the sponsor's application with the Secretary, or within 60 days of the service of the application upon that air carrier, whichever is later.
 
 &emsp;&emsp;(C)
 
@@ -42,7 +42,7 @@ Terms and Conditions.—The Secretary may approve an application under subsectio
 
 &emsp;(1) The airport will continue to be available for public use on reasonable terms and conditions and without unjust discrimination.
 
-&emsp;(2) The operation of the airport will not be interrupted in the event that the purchaser or lessee becomes insolvent or seeks or becomes subject to any State or Federal bankruptcy, reorganization, insolvency, liquidation, or dissolution proceeding or any petition or similar law seeking the dissolution or reorganization of the purchaser or lessee or the appointment of a receiver, trustee, custodian, or liquidator for the purchaser or lessee or a substantial part of the purchaser or lessee's property, assets, or business.
+&emsp;(2) The operation of the airport will not be interrupted in the event that the purchaser orlessee becomes insolvent or seeks or becomes subject to any State or Federal bankruptcy, reorganization, insolvency, liquidation, or dissolution proceeding or any petition or similar law seeking the dissolution or reorganization of the purchaser or lessee or the appointment of a receiver, trustee, custodian, or liquidator for the purchaser or lessee or a substantial part of the purchaser or lessee's property, assets, or business.
 
 &emsp;(3) The purchaser or lessee will maintain, improve, and modernize the facilities of the airport through capital investments and will submit to the Secretary a plan for carrying out such maintenance, improvements, and modernization.
 
@@ -102,7 +102,7 @@ Revocation of Exemptions.—The Secretary may revoke an exemption issued to a pu
 
 (j)
 
-Nonapplication of Provisions to Airports Owned by Public Agencies.—The provisions ofthis section requiring the approval of air carriers in determinations concerning the use of revenues, and imposition of fees, at an airport shall not be extended so as to apply to any airport owned by a public agency that is not participating in the program established by this section.
+Nonapplication of Provisions to Airports Owned by Public Agencies.—The provisions of this section requiring the approval of air carriers in determinations concerning the use of revenues, and imposition of fees, at an airport shall not be extended so as to apply to any airport owned by a public agency that is not participating in the program established by this section.
 
 (k)
 

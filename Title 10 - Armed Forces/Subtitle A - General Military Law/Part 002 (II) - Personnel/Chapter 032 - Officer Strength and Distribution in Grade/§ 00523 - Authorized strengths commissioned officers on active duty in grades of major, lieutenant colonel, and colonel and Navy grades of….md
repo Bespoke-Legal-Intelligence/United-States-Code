@@ -56,17 +56,17 @@
 | 17,500 | 4,135 | 2,076 | 710 |
 | 20,000 | 4,579 | 2,230 | 736 |
 | 22,500 | 5,024 | 2,383 | 762 |
-| 25,000 | 5,468 | 2,537 | 787\. |
+| 25,000 | 5,468 | 2,537 | 787 |
 | Space Force: <sup>1</sup> |  |  |  |
 | 3,900 | 1,016 | 782 | 234 |
 | 4,300 | 1,135 | 873 | 262 |
 | 5,000 | 1,259 | 845 | 315 |
 | 7,000 | 1,659 | 1,045 | 415 |
-| 10,000 | 2,259 | 1,345 | 565 |
+| 10,000 | 2,259 | 1,345 | 565\. |
 
 <sup>1</sup> Table heading editorially supplied.
 
-(2) Except as provided in subsection (c), of the total number of commissioned officers serving on active duty in the Navy at the end of any fiscal year (excluding officers in categories specified in subsection (b)), the number of officers who may be serving on active duty in each of the grades of lieutenant commander, commander, and captain may not, as of the end of such fiscal year, exceed a number determined in accordance with the following table:
+(2) Except as provided in subsection (c), of the total number of commissioned officers serving on active duty in the Navy at the end of any fiscal year (excluding officers in categories specified in subsection (b)), the number of officers who may be serving on active duty in each of the grades of lieutenant commander, commander, and captain may not, as of the end ofsuch fiscal year, exceed a number determined in accordance with the following table:
 
 &nbsp;
 
@@ -220,7 +220,7 @@ Pub. L. 103–337, div. A, title IV, §402, Oct. 5, 1994, 108 Stat. 2743, provid
 
 #### Temporary Variation of End Strength Limitations for Marine Corps Majors and Lieutenant Colonels
 
-Pub. L. 103–160, div. A, title IV, §402, Nov. 30, 1993, 107 Stat. 1639, as amended by Pub. L. 103–337, div. A, title IV, §403, Oct. 5, 1994, 108 Stat. 2743, provided that number of officers of the Marine Corps authorized undersubsec. (a)(1) of this section to be serving on active duty in grades of major and lieutenant colonel for fiscal years 1994 through 1997 was limited to numbers set forth in table prior to repeal by Pub. L. 104–201, div. A, title IV, §403(c)(1), Sept. 23, 1996, 110 Stat. 2505.
+Pub. L. 103–160, div. A, title IV, §402, Nov. 30, 1993, 107 Stat. 1639, as amended by Pub. L. 103–337, div. A, title IV, §403, Oct. 5, 1994, 108 Stat. 2743, provided that number of officers of the Marine Corps authorized under subsec. (a)(1) of this section to be serving on active duty in grades of major and lieutenant colonel for fiscal years 1994 through 1997 was limited to numbers set forth in table prior to repeal by Pub. L. 104–201, div. A, title IV, §403(c)(1), Sept. 23, 1996, 110 Stat. 2505.
 
 #### Temporary Increase in Officer Grade Limitations
 

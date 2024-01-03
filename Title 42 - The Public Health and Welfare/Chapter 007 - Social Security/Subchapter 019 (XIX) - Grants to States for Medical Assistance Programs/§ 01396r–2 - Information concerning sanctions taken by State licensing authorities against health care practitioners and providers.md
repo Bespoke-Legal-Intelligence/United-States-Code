@@ -40,7 +40,7 @@ The information described in subsection (a)(1) shall be provided to the Secretar
 
 &emsp;(5) to State law or fraud enforcement agencies,
 
-&emsp;(6) to hospitals and other health care entities (as defined in section 431 of the Health Care Quality Improvement Act of 1986 \[42 U.S.C. 11151\]), with respect to physicians or other licensed health care practitioners that have entered (or may be entering) into an employment or affiliation relationship with, or have applied for clinical privileges or appointments to the medical staff of, such hospitals or other health care entities (and such information shall be deemed to be disclosed pursuant to section 427 \[42 U.S.C. 11137\] of, and besubject to the provisions of, that Act \[42 U.S.C. 11101 et seq.\]), but only with respect to information provided pursuant to subsection (a)(1)(A),
+&emsp;(6) to hospitals and other health care entities (as defined in section 431 of the Health Care Quality Improvement Act of 1986 \[42 U.S.C. 11151\]), with respect to physicians or other licensed health care practitioners that have entered (or may be entering) into an employment or affiliation relationship with, or have applied for clinical privileges or appointments to the medical staff of, such hospitals or other health care entities (and such information shall be deemed to be disclosed pursuant to section 427 \[42 U.S.C. 11137\] of, and be subject to the provisions of, that Act \[42 U.S.C. 11101 et seq.\]), but only with respect to information provided pursuant to subsection (a)(1)(A),
 
 &emsp;(7) to health plans (as defined in section 1320a–7c(c) of this title); <sup>1</sup>
 
@@ -66,7 +66,7 @@ The Secretary shall provide for suitable safeguards for the confidentiality of t
 
 #### (2) Corrections
 
-&emsp;Each State licensing or certification agency and State law or fraud enforcement agency shall report corrections of information already reported about any formal proceeding or final adverse action described in subsection (a), in such form and manner as the Secretary prescribes by regulation.
+&emsp;Each State licensing or certification agency and State law or fraud enforcement agency shall report corrections of information alreadyreported about any formal proceeding or final adverse action described in subsection (a), in such form and manner as the Secretary prescribes by regulation.
 
 #### (e) Fees for disclosure
 
@@ -154,7 +154,7 @@ Subsec. (b)(7) to (9). Pub. L. 111–148, §6403(b)(2)(D), (E), added par. (7) a
 
 Subsecs. (d) to (g). Pub. L. 111–148, §6403(b)(3), added subsecs. (d) to (g). Former subsec. (d) redesignated (h).
 
-Subsec. (h). Pub. L. 111–148, §6403(b)(3), (4), redesignated subsec. (d) as (h) and substituted "In implementing this section, the Secretary shall provide for the maximum appropriate coordination with part B of the Health Care Quality Improvement Act of 1986 (42 U.S.C. 11131 et seq.) and section 1320a–7e of this title." for "The Secretary shall provide for the maximum appropriate coordination in the implementation of subsection (a) of this section and section 422 of the Health Care Quality Improvement Act of 1986."
+Subsec. (h). Pub. L. 111–148, §6403(b)(3), (4), redesignated subsec. (d) as (h) and substituted "In implementing this section, the Secretary shall provide forthe maximum appropriate coordination with part B of the Health Care Quality Improvement Act of 1986 (42 U.S.C. 11131 et seq.) and section 1320a–7e of this title." for "The Secretary shall provide for the maximum appropriate coordination in the implementation of subsection (a) of this section and section 422 of the Health Care Quality Improvement Act of 1986."
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–508, §4752(f)(1)(A), inserted "(or any peer review organization or private accreditation entity reviewing the services provided by health care practitioners)" after "health care practitioners" in introductory provisions.
 

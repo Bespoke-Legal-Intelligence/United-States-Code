@@ -20,7 +20,7 @@ In the case of any prepaid dues income to which this section applies—
 
 #### (2) Scope of election
 
-&emsp;An election made under this section shall apply to all prepaid dues income received in connection with the trade or business with respect to which the taxpayer has made the election; except that the taxpayer may, to the extent permitted under regulations prescribed by the Secretary, include in gross income for the taxable year of receipt the entire amount of any prepaid dues income if the liability from which it arose is to end within 12 months after the date of receipt. Except as provided in subsection (d), and election made under this section shall not apply to any prepaid dues income received before the first taxable year for which the election is made.
+&emsp;An election made under this section shall apply to all prepaid dues income received in connection with the trade or business with respect to which the taxpayer has made the election; except that the taxpayer may, to the extent permitted under regulations prescribed by the Secretary, include in gross income for the taxable year of receipt the entire amount of any prepaid dues income if the liability from which it arose is to end within 12 months after the date of receipt. Except as provided insubsection (d), and election made under this section shall not apply to any prepaid dues income received before the first taxable year for which the election is made.
 
 #### (3) When election may be made
 
@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (1) Prepaid dues income
 
-&emsp;The term "prepaid dues income" means any amount (includible in gross income) which isreceived by a membership organization in connection with, and is directly attributable to, a liability to render services or make available membership privileges over a period of time which extends beyond the close of the taxable year in which such amount is received.
+&emsp;The term "prepaid dues income" means any amount (includible in gross income) which is received by a membership organization in connection with, and is directly attributable to, a liability to render services or make available membership privileges over a period of time which extends beyond the close of the taxable year in which such amount is received.
 
 #### (2) Liability
 

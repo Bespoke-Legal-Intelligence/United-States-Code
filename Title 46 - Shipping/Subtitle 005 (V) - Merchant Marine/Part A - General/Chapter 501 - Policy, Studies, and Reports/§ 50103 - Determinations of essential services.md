@@ -28,7 +28,7 @@ Bulk Cargo Carrying Services.—The Secretary shall investigate, determine, and 
 
 (c)
 
-Types of Vessels.—The Secretary shall investigate, determine, and keep current records of the type, size, speed, method of propulsion, and other requirements of the vessels, including express-liner or super-liner vessels, that should be employed in—
+Types of Vessels.—The Secretary shall investigate, determine, and keep current records of the type, size, speed, method of propulsion,and other requirements of the vessels, including express-liner or super-liner vessels, that should be employed in—
 
 &emsp;(1) the services, routes, or lines described in subsection (a), and the frequency and regularity of the voyages of the vessels, with a view to furnishing adequate, regular, certain, and permanent service; and
 

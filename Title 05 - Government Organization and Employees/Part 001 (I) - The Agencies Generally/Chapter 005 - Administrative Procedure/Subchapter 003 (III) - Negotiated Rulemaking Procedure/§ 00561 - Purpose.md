@@ -18,7 +18,7 @@ Pub. L. 101–648, §5, Nov. 29, 1990, 104 Stat. 4976, as amended by Pub. L. 102
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–354, §1, Aug. 26, 1992, 106 Stat. 944, provided that: "This Act \[amending sections 565, 568, 569,571, 577, 580, 581, and 593 of this title, section 10 of Title 9, Arbitration, and section 173 of Title 29, Labor, renumbering sections 571 to 576, 581 to 590, and 581 to 593 as 591 to 596, 561 to 570, and 571 to 583, respectively, of this title, and amending provisions set out as notes under this section and section 571 of this title\] may be cited as the 'Administrative Procedure Technical Amendments Act of 1991'."
+Pub. L. 102–354, §1, Aug. 26, 1992, 106 Stat. 944, provided that: "This Act \[amending sections 565, 568, 569, 571, 577, 580, 581, and 593 of this title, section 10 of Title 9, Arbitration, and section 173 of Title 29, Labor, renumbering sections 571 to 576, 581 to 590, and 581 to 593 as 591 to 596, 561 to 570, and 571 to 583, respectively, of this title, and amending provisions set out as notes under this section and section 571 of this title\] may be cited as the 'Administrative Procedure Technical Amendments Act of 1991'."
 
 #### Short Title of 1990 Amendment
 
@@ -26,7 +26,7 @@ Pub. L. 101–648, §1, Nov. 29, 1990, 104 Stat. 4969, provided that: "This Act 
 
 #### Congressional Findings
 
-Pub. L. 101–648, §2, Nov. 29, 1990, 104 Stat. 4969, as amended by Pub. L. 117–286, §4(a)(4), Dec. 27, 2022, 136 Stat. 4305, provided that: "The Congress makes the following findings:
+Pub. L. 101–648, §2, Nov. 29, 1990, 104 Stat. 4969, as amended by Pub. L. 117–286, §4(a)(4), Dec. 27, 2022, 136Stat. 4305, provided that: "The Congress makes the following findings:
 
 &emsp;"(1) Government regulation has increased substantially since the enactment of the Administrative Procedure Act \[see Short Title note set out preceding section 551 of this title\].
 

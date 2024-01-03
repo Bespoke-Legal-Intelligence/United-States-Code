@@ -28,7 +28,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(F) A computation error or similar error of an accounting nature on a statement.
 
-&emsp;&emsp;(G) Failure to transmit the billing statement to the last known address of the customer, unless that address was furnished lessthan twenty days before the end of the billing cycle for which the statement is required.
+&emsp;&emsp;(G) Failure to transmit the billing statement to the last known address of the customer, unless that address was furnished less than twenty days before the end of the billing cycle for which the statement is required.
 
 &emsp;&emsp;(H) Any other error described in regulations prescribed by the Commission pursuant to section 553 of title 5.
 

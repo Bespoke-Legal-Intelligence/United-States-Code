@@ -90,13 +90,13 @@ As used in this subchapter:
 
 &emsp;(h) "Minimization procedures", with respect to electronic surveillance, means—
 
-&emsp;&emsp;(1) specific procedures, which shall be adopted by the Attorney General, that arereasonably designed in light of the purpose and technique of the particular surveillance, to minimize the acquisition and retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
+&emsp;&emsp;(1) specific procedures, which shall be adopted by the Attorney General, that are reasonably designed in light of the purpose and technique of the particular surveillance, to minimize the acquisition and retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
 
 &emsp;&emsp;(2) procedures that require that nonpublicly available information, which is not foreign intelligence information, as defined in subsection (e)(1), shall not be disseminated in a manner that identifies any United States person, without such person's consent, unless such person's identity is necessary to understand foreign intelligence information or assess its importance;
 
 &emsp;&emsp;(3) notwithstanding paragraphs (1) and (2), procedures that allow for the retention and dissemination of information that is evidence of a crime which has been, is being, or is about to be committed and that is to be retained or disseminated for law enforcement purposes; and
 
-&emsp;&emsp;(4) notwithstanding paragraphs (1), (2), and (3), with respect to any electronic surveillance approved pursuant to section 1802(a) of this title, procedures that require that no contents of any communication to which a United States person is a party shall be disclosed, disseminated, or used for any purpose or retained for longer than 72 hours unless a court order under section 1805 of this title is obtained or unless the Attorney General determines that the information indicates a threat of death or serious bodily harm to any person.
+&emsp;&emsp;(4) notwithstanding paragraphs (1), (2), and (3), with respect to any electronic surveillance approved pursuant to section 1802(a) of this title, procedures that require that no contents of any communication to which a United States person is a party shall be disclosed, disseminated, or used for any purpose or retained for longer than 72 hours unless a court order under section 1805 of this title isobtained or unless the Attorney General determines that the information indicates a threat of death or serious bodily harm to any person.
 
 &emsp;(i) "United States person" means a citizen of the United States, an alien lawfully admitted for permanent residence (as defined in section 1101(a)(20) of title 8), an unincorporated association a substantial number of members of which are citizens of the United States or aliens lawfully admitted for permanent residence, or a corporation which is incorporated in the United States, but does not include a corporation or an association which is a foreign power, as defined in subsection (a)(1), (2), or (3).
 
@@ -162,7 +162,7 @@ Pub. L. 110–261, title IV, §402, July 10, 2008, 122 Stat. 2473, provided that
 
 #### Termination Date of 2004 Amendment
 
-Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, as amended by Pub. L. 109–177, title I, §103, Mar. 9, 2006, 120 Stat. 195; Pub. L. 111–118, div. B, §1004(b), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(b), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, §2(b), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(b), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, §705(b), June 2, 2015, 129 Stat. 300; Pub. L. 116–69, div. B, title VII, §1703(b), Nov. 21, 2019, 133 Stat. 1143, provided that:
+Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, as amended by Pub. L. 109–177, title I, §103, Mar. 9, 2006, 120 Stat. 195; Pub. L. 111–118, div. B, §1004(b), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(b), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, §2(b), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(b), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, §705(b), June 2,2015, 129 Stat. 300; Pub. L. 116–69, div. B, title VII, §1703(b), Nov. 21, 2019, 133 Stat. 1143, provided that:
 
 "(1)
 
@@ -220,13 +220,13 @@ Pub. L. 95–511, §1, Oct. 25, 1978, 92 Stat. 1783, provided in part: "That thi
 
 Pub. L. 115–118, title II, §206, Jan. 19, 2018, 132 Stat. 22, provided that: "If any provision of this Act \[see Short Title of 2018 Amendment note set out above\], any amendment made by this Act, or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act, of any such amendments, and of the application of such provisions to other persons and circumstances shall not be affected thereby."
 
-Pub. L. 110–261, title IV, §401, July 10, 2008, 122 Stat. 2473, provided that: "If any provision of this Act \[see Short Title of 2008 Amendment note above\], any amendment made by this Act, or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act, of any such amendments, and of the application of such provisions to other persons and circumstances shall not be affected thereby."
+Pub. L. 110–261, title IV, §401, July 10, 2008, 122 Stat. 2473, provided that: "If any provision of this Act \[see Short Title of 2008 Amendment note above\], any amendment made by this Act, or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act, of any suchamendments, and of the application of such provisions to other persons and circumstances shall not be affected thereby."
 
 Pub. L. 106–567, title VI, §608, Dec. 27, 2000, 114 Stat. 2856, provided that: "If any provision of this title \[see Short Title of 2000 Amendment note above\] (including an amendment made by this title), or the application thereof, to any person or circumstance, is held invalid, the remainder of this title (including the amendments made by this title), and the application thereof, to other persons or circumstances shall not be affected thereby."
 
 #### Transition Procedures
 
-Pub. L. 110–261, title IV, §404, July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(b), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title I, §101(b)(3), title II, §201(b), Jan. 19, 2018, 132 Stat. 8, 19, provided that:
+Pub. L. 110–261, title IV, §404, July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(b), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title I, §101(b)(3), title II, §201(b), Jan. 19, 2018, 132 Stat. 8, 19; Pub. L. 118–31, div. G, title IX, §7902(b), Dec. 22, 2023, 137 Stat. 1108, provided that:
 
 "(a)
 
@@ -292,7 +292,7 @@ Replacement of orders, authorizations, and directives.—
 
 &emsp;&emsp;"(A)
 
-In general.—If the Attorney General and the Director of National Intelligence seek to replace an authorization issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b\], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), with an authorization under section 702 of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C.1881a\] (as added by section 101(a) of this Act), the Attorney General and the Director of National Intelligence shall, to the extent practicable, submit to the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of such Act \[50 U.S.C. 1881(b)(2)\] (as so added)) a certification prepared in accordance with subsection (g) \[now subsection (h)\] of such section 702 and the procedures adopted in accordance with subsections (d) and (e) of such section 702 at least 30 days before the expiration of such authorization.
+In general.—If the Attorney General and the Director of National Intelligence seek to replace an authorization issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b\], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), with an authorization under section 702 of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881a\] (as added by section 101(a) of this Act), the Attorney General and the Director of National Intelligence shall, to the extent practicable, submit to the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of such Act \[50 U.S.C. 1881(b)(2)\] (as so added)) a certification prepared in accordance with subsection (g) \[now subsection (h)\] of such section 702 and the procedures adopted in accordance with subsections (d) and (e) of such section 702 at least 30 days before the expiration of such authorization.
 
 &emsp;&emsp;"(B)
 
@@ -310,7 +310,7 @@ Provisions.—
 
 &emsp;"(1)
 
-Orders in effect on december 31, 2023.—Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), any order, authorization, or directive issued or made under title VII of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881 et seq.\], as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017 \[Pub. L. 115–118, see Short Title of 2018 Amendment note set out above\], shall continue in effect until the date of the expiration of such order, authorization, or directive.
+Orders in effect on april 19, 2024.—Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), any order, authorization, or directive issued or made under title VII of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881 et seq.\], as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017 \[Pub. L. 115–118, see Short Title of 2018 Amendment note set out above\], shall continue in effect until the date of the expiration of such order, authorization, or directive.
 
 &emsp;"(2)
 

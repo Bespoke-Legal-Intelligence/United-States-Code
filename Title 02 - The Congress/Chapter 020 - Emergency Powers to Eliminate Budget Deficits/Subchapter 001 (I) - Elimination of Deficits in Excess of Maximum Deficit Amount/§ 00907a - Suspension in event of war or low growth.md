@@ -30,7 +30,7 @@
 
 &emsp;(ii) Debate in the Senate on a joint resolution under this paragraph, and all debatable motions and appeals in connection therewith, shall be limited to not more than five hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
-&emsp;(iii) Debate in the Senate on any debatable motion or appeal in connection with a joint resolution under this paragraph shall be limited to not more than one hour, to be equally divided between, and controlled by, the mover and the manager of the joint resolution, except that in the event the manager of the joint resolution is in favor of any such motion or appeal, the time in opposition thereto shall becontrolled by the minority leader or his designee.
+&emsp;(iii) Debate in the Senate on any debatable motion or appeal in connection with a joint resolution under this paragraph shall be limited to not more than one hour, to be equally divided between, and controlled by, the mover and the manager of the joint resolution, except that in the event the manager of the joint resolution is in favor of any such motion or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee.
 
 &emsp;(iv) A motion in the Senate to further limit debate on a joint resolution under this paragraph is not debatable. A motion to table or to recommit a joint resolution under this paragraph is not in order.
 

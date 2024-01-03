@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section may be cited as the "Advancing Critical Connectivity Expands Service, Small Business Resources, Opportunities, Access, and Data Based on Assessed Need and Demand Act" or the "ACCESS BROADBAND Act".
+This section may be cited as the "Advancing Critical Connectivity Expands Service, SmallBusiness Resources, Opportunities, Access, and Data Based on Assessed Need and Demand Act" or the "ACCESS BROADBAND Act".
 
 #### (b) Establishment
 
@@ -32,7 +32,7 @@ Not later than 180 days after December 27, 2020, the Assistant Secretary shall e
 
 #### (B) Accounting mechanism
 
-&emsp;&emsp;The Office shall develop a streamlined accounting mechanism by which any agencyoffering a Federal broadband support program and the Commission for any Universal Service Fund Program shall provide the information described in subparagraph (A) in a standardized and efficient fashion.
+&emsp;&emsp;The Office shall develop a streamlined accounting mechanism by which any agency offering a Federal broadband support program and the Commission for any Universal Service Fund Program shall provide the information described in subparagraph (A) in a standardized and efficient fashion.
 
 #### (C) Report
 
@@ -110,7 +110,7 @@ In this section:
 
 &emsp;&emsp;(A) The Telecommunications and Technology Program of the Appalachian Regional Commission.
 
-&emsp;&emsp;(B) The Telecommunications Infrastructure Loan and Loan Guarantee Program established under the Rural Electrification Act of 1936 \[7 U.S.C. 901 et seq.\], the rural broadband access program established under title VI of that Act (7 U.S.C. 950bb et seq.), the initiative under section 306F of that Act (7 U.S.C. 936f), the Community Connect Grant Program established under section 604 of that Act (7 U.S.C. 950bb–3), the broadbandloan and grant pilot program authorized under section 779 of division A of the Consolidated Appropriations Act, 2018 (Public Law 115–141; 132 Stat. 399) (commonly known as the "Rural eConnectivity Pilot Program" or the "ReConnect Program"), and the Distance Learning and Telemedicine Program under chapter 1 of subtitle D of title XXIII of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 950aaa et seq.).
+&emsp;&emsp;(B) The Telecommunications Infrastructure Loan and Loan Guarantee Program established under the Rural Electrification Act of 1936 \[7 U.S.C. 901 et seq.\], the rural broadband access program established under title VI of that Act (7 U.S.C. 950bb et seq.), the initiative under section 306F of that Act (7 U.S.C. 936f), the Community Connect Grant Program established under section 604 of that Act (7 U.S.C. 950bb–3), the broadband loan and grant pilot program authorized under section 779 of division A of the Consolidated Appropriations Act, 2018 (Public Law 115–141; 132 Stat. 399) (commonly known as the "Rural eConnectivity Pilot Program" or the "ReConnect Program"), and the Distance Learning and Telemedicine Program under chapter 1 of subtitle D of title XXIII of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 950aaa et seq.).
 
 &emsp;&emsp;(C) Community facility direct and guaranteed loans under section 1926(a) of title 7, community facility grants under paragraph (19), (20), or (21) of section 1926(a) of title 7, and the Rural Community Development Initiative authorized under the heading "Rural Housing Service—Rural Community Facilities Program Account" under title III of division B of the Further Consolidated Appropriations Act, 2020 (Public Law 116–94; 133 Stat. 2629).
 
@@ -156,7 +156,7 @@ Nothing in this section is intended to alter or amend any provision of section 2
 
 #### References in Text
 
-This section, referred to in subsecs. (d), (g), and (h), was in the original "this Act", which was translated as meaning section 903 of Pub. L. 116–260, div. FF, title IX, Dec. 27, 2020, 134 Stat. 3210, to reflect the probable intent of Congress.
+This section, referred to in subsecs. (d), (g), and (h), was in the original "this Act", which was translated asmeaning section 903 of Pub. L. 116–260, div. FF, title IX, Dec. 27, 2020, 134 Stat. 3210, to reflect the probable intent of Congress.
 
 The Rural Electrification Act of 1936, referred to in subsec. (g)(4)(B), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. Title VI of the Act is classified generally to subchapter VI (§950bb et seq.) of chapter 31 of Title 7. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
 

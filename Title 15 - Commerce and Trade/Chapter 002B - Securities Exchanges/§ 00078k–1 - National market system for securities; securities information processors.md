@@ -74,7 +74,7 @@
 
 (3)(A) The Commission, by rule, is authorized to prohibit brokers and dealers from effecting transactions in securities registered pursuant to section 78l(b) of this title otherwise than on a national securities exchange, if the Commission finds, on the record after notice and opportunity for hearing, that—
 
-&emsp;(i) as a result of transactions in such securities effected otherwise than on a national securities exchange the fairness or orderliness of the markets for such securities has been affected in a manner contrary to the public interest or the protection of investors;
+&emsp;(i) as a result of transactions in such securities effected otherwise than on a national securities exchange the fairness or orderliness ofthe markets for such securities has been affected in a manner contrary to the public interest or the protection of investors;
 
 &emsp;(ii) no rule of any national securities exchange unreasonably impairs the ability of any dealer to solicit or effect transactions in such securities for his own account or unreasonably restricts competition among dealers in such securities or between dealers acting in the capacity of market makers who are specialists in such securities and such dealers who are not specialists in such securities, and
 
@@ -82,7 +82,7 @@
 
 > The Commission may conditionally or unconditionally exempt any security or transaction or any class of securities or transactions from any such prohibition if the Commission deems such exemption consistent with the public interest, the protection of investors, and the maintenance of fair and orderly markets.
 
-(B) For the purposes of subparagraph (A) of this paragraph, the ability of a dealer to solicit or effect transactions in securities for his own account shall not be deemed to be unreasonably impaired by any rule of an exchange fairly and reasonably prescribing the sequence in which orders brought to the exchange must be executed or which has been adopted to effect compliancewith a rule of the Commission promulgated under this chapter.
+(B) For the purposes of subparagraph (A) of this paragraph, the ability of a dealer to solicit or effect transactions in securities for his own account shall not be deemed to be unreasonably impaired by any rule of an exchange fairly and reasonably prescribing the sequence in which orders brought to the exchange must be executed or which has been adopted to effect compliance with a rule of the Commission promulgated under this chapter.
 
 (4) The Commission is directed to review any and all rules of national securities exchanges which limit or condition the ability of members to effect transactions in securities otherwise than on such exchanges.
 
@@ -132,7 +132,7 @@ Designation.—If the Commission determines that the securities of emerging grow
 
 #### (2) Application of rules by order of CFTC
 
-&emsp;No rule adopted pursuant to this section shall be applied to any person with respect to the trading of security futures products on an exchange that is registered under section 78f(g) of this title unless the Commodity Futures Trading Commission has issued an orderdirecting that such rule is applicable to such persons.
+&emsp;No rule adopted pursuant to this section shall be applied to any person with respect to the trading of security futures products on an exchange that is registered under section 78f(g) of this title unless the Commodity Futures Trading Commission has issued an order directing that such rule is applicable to such persons.
 
 (June 6, 1934, ch. 404, title I, §11A, as added Pub. L. 94–29, §7, June 4, 1975, 89 Stat. 111; amended Pub. L. 98–620, title IV, §402(14), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–181, title III, §§313, 314, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 106–554, §1(a)(5) \[title II, §206(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–430; Pub. L. 112–106, title I, §106(b), Apr. 5, 2012, 126 Stat. 312; Pub. L. 117–286, §4(a)(62), Dec. 27, 2022, 136 Stat. 4312.)
 

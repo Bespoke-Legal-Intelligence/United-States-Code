@@ -22,7 +22,7 @@ Each fiscal year, the Commission shall submit to the Committee on Commerce, Scie
 
 #### (e) Rule of construction
 
-If the Commission, before March 23, 2020, has taken an action that, in whole or in part, implements this subchapter, the Commission shall not be required to revisit such action to the extent that such action is consistent with this subchapter.
+If the Commission, before March 23, 2020, has taken an action that, in whole or in part, implements this subchapter, the Commission shallnot be required to revisit such action to the extent that such action is consistent with this subchapter.
 
 (June 19, 1934, ch. 652, title VIII, §806, as added Pub. L. 116–130, §2, Mar. 23, 2020, 134 Stat. 238; amended Pub. L. 117–58, div. F, title I, §60102(h)(2)(E)(ii), Nov. 15, 2021, 135 Stat. 1198.)
 

@@ -20,7 +20,7 @@ In General.—(1) Except as provided by this subsection, a party in a judicial p
 
 (3) Except as provided in paragraph (4)(A) of this subsection, a court may allow discovery by a party of a cockpit or surface vehicle recorder recording, including with regard to a video recording any still image that the National Transportation Safety Board has not made available to the public under section 1114(c) or 1114(d) of this title, if, after an in camera review of the recording, the court decides that—
 
-&emsp;(A) the parts of the transcript made available to the public under section 1114(c) or 1114(d) of this title and to the party through discovery under paragraph (2) of this subsection do not provide the party with sufficient information for the party to receive a fair trial; and
+&emsp;(A) the parts of the transcript made available to the public under section 1114(c) or1114(d) of this title and to the party through discovery under paragraph (2) of this subsection do not provide the party with sufficient information for the party to receive a fair trial; and
 
 &emsp;(B) discovery of the cockpit or surface vehicle recorder recording, including with regard to a video recording any still image that the National Transportation Safety Board has not made available to the public under section 1114(c) or 1114(d) of this title, is necessary to provide the party with sufficient information for the party to receive a fair trial.
 

@@ -110,7 +110,7 @@ Subsec. (j). Pub. L. 110–237 added subsec. (j) and struck out former subsec. (
 
 &emsp;"(2) to provide grant for the purpose of carrying out activities under paragraphs (2), (3), and (4) of subsection (a), $15,000,000 for fiscal year 2008, $15,187,500 for fiscal year 2009, $15,375,000 for fiscal year 2010, $15,562,500 for fiscal year 2011, and $15,750,000 for fiscal year 2012."
 
-Pub. L. 110–204, §2(4), added subsec. (j) and struck out former subsec. (j). Prior to amendment, text read asfollows: "There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2001 through 2005."
+Pub. L. 110–204, §2(4), added subsec. (j) and struck out former subsec. (j). Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2001 through 2005."
 
 Pub. L. 110–204, §2(2), redesignated subsec. (i) as (j).
 

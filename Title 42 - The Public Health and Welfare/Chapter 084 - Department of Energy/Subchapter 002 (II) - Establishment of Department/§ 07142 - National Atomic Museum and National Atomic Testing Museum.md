@@ -44,7 +44,7 @@ The museum operated by the Nevada Test Site Historical Foundation and located in
 
 &emsp;(2) shall be known as the "National Atomic Testing Museum".
 
-(Pub. L. 102–190, div. C, title XXXI, §3137, Dec. 5, 1991, 105 Stat. 1578; Pub. L. 103–35, title II, §203(b)(4), May 31, 1993, 107 Stat. 102; Pub. L. 112–81, div. C, title XXXI, §3114, Dec. 31, 2011, 125 Stat. 1709.)
+(Pub. L. 102–190, div. C, title XXXI, §3137, Dec. 5, 1991, 105 Stat. 1578; Pub. L. 103–35, title II, §203(b)(4), May 31, 1993, 107 Stat. 102; Pub. L.112–81, div. C, title XXXI, §3114, Dec. 31, 2011, 125 Stat. 1709.)
 
 #### <b>Editorial Notes</b>
 

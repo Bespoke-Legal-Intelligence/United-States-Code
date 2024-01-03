@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;Whenever any person knowingly and materially violates any of the provisions of thischapter or any rule, regulation, or order issued under this chapter, the Director may impose a civil money penalty on such person in accordance with the provisions of this section. The penalty shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Director imposes other administrative sanctions.
+&emsp;Whenever any person knowingly and materially violates any of the provisions of this chapter or any rule, regulation, or order issued under this chapter, the Director may impose a civil money penalty on such person in accordance with the provisions of this section. The penalty shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Director imposes other administrative sanctions.
 
 #### (2) Amount of penalty
 

@@ -272,7 +272,7 @@ Pub. L. 113–5, §303, designated existing provisions as subsec. (b) and insert
 
 Subsec. (a). Pub. L. 113–5, §303, added subsec. (a).
 
-Subsec. (b). Pub. L. 113–5, §304(2), reenacted heading without change, substituted "In order to accelerate the development, stockpiling, approval, licensure, and clearance of qualified countermeasures, security countermeasures, and qualified pandemic or epidemic products, the Secretary, in consultation with the Assistant Secretary for Preparedness and Response, shall—" for "The Secretary, in consultation with the Commissioner of Food and Drugs, shall", added pars. (1) to (4), and designated remainder of existing provisions as par. (5).
+Subsec. (b). Pub. L. 113–5, §304(2), reenacted heading without change, substituted "In order to accelerate thedevelopment, stockpiling, approval, licensure, and clearance of qualified countermeasures, security countermeasures, and qualified pandemic or epidemic products, the Secretary, in consultation with the Assistant Secretary for Preparedness and Response, shall—" for "The Secretary, in consultation with the Commissioner of Food and Drugs, shall", added pars. (1) to (4), and designated remainder of existing provisions as par. (5).
 
 Subsecs. (c) to (e). Pub. L. 113–5, §304(3), added subsecs. (c) to (e).
 

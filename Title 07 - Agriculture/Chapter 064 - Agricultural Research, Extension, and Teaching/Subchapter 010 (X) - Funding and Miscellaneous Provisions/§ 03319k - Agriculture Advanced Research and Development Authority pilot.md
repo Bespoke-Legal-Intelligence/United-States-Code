@@ -86,7 +86,7 @@ In this section:
 
 &emsp;&emsp;(A) to develop and deploy advanced solutions to prevent, prepare, and protect against unintentional and intentional threats to agriculture and food in the United States;
 
-&emsp;&emsp;(B) to overcome barriers in the development of agricultural technologies, researchtools, and qualified products and projects that enhance export competitiveness, environmental sustainability, and resilience to extreme weather;
+&emsp;&emsp;(B) to overcome barriers in the development of agricultural technologies, research tools, and qualified products and projects that enhance export competitiveness, environmental sustainability, and resilience to extreme weather;
 
 &emsp;&emsp;(C) to ensure that the United States maintains and enhances its position as a leader in developing and deploying agricultural technologies, research tools, and qualified projects and products that increase economic opportunities and security for farmers, ranchers, and rural communities; and
 
@@ -174,7 +174,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall require that, as a condition of being awarded a contract or grantor entering into a cooperative agreement or other transaction under paragraph (4)(E), a person shall make available to the Secretary on an ongoing basis, and submit to the Secretary on request of the Secretary, all data relating to or resulting from the activities carried out by the person pursuant to this section.
+&emsp;&emsp;The Secretary shall require that, as a condition of being awarded a contract or grant or entering into a cooperative agreement or other transaction under paragraph (4)(E), a person shall make available to the Secretary on an ongoing basis, and submit to the Secretary on request of the Secretary, all data relating to or resulting from the activities carried out by the person pursuant to this section.
 
 #### (B) Exemption from disclosure
 
@@ -192,7 +192,7 @@ In this section:
 
 #### (iii) Limitation
 
-&emsp;&emsp;&emsp;Information that results from research and development activities conducted under this section and that would be a trade secret or commercial or financial information that is privileged or confidential if the information had been obtained from a non-Federal party participating in a cooperative agreement or other transaction shall be withheld from disclosure under subchapter II of chapter 5 of title 5 for 5 years.
+&emsp;&emsp;&emsp;Information that results from research and development activities conductedunder this section and that would be a trade secret or commercial or financial information that is privileged or confidential if the information had been obtained from a non-Federal party participating in a cooperative agreement or other transaction shall be withheld from disclosure under subchapter II of chapter 5 of title 5 for 5 years.
 
 #### (8) Milestone-based payments allowed
 
@@ -288,7 +288,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Except as provided under paragraph (2), the authority provided by this section terminates on the date that is 5 years after December 20, 2018.
+&emsp;Except as provided under paragraph (2), the authority provided by this section terminateson the date that is 5 years after December 20, 2018.
 
 #### (2) Exceptions
 

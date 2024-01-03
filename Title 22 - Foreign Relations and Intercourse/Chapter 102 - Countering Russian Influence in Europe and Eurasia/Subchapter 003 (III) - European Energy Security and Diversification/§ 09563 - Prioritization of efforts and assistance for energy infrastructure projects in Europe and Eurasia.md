@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In pursuing the policy described in section 9562 of this title, the Secretary of State, in consultation with the Secretary of Energy and the heads of other relevant United States agencies, shall,as appropriate, prioritize and expedite the efforts of the Department of State and those agencies in supporting the efforts of the European Commission and the governments of European and Eurasian countries to increase their energy security, including through—
+In pursuing the policy described in section 9562 of this title, the Secretary of State, in consultation with the Secretary of Energy and the heads of other relevant United States agencies, shall, as appropriate, prioritize and expedite the efforts of the Department of State and those agencies in supporting the efforts of the European Commission and the governments of European and Eurasian countries to increase their energy security, including through—
 
 &emsp;(1) providing diplomatic and political support to the European Commission and those governments, as necessary—
 
@@ -96,11 +96,11 @@ In pursuing the policy described in section 9562 of this title, the Secretary of
 
 #### References in Text
 
-The BUILD Act, referred to in subsec. (e), probably means the BUILD Act of 2018, also known as the BetterUtilization of Investments Leading to Development Act of 2018, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+The BUILD Act, referred to in subsec. (e), probably means the BUILD Act of 2018, also known as the Better Utilization of Investments Leading to Development Act of 2018, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 #### Codification
 
-Section was enacted as part of the European Energy Security and Diversification Act of 2019, and also as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Countering Russian Influence in Europe and Eurasia Act of 2017 which comprises this chapter.
+Section was enacted as part of the European Energy Security and Diversification Act of 2019, and also aspart of the Further Consolidated Appropriations Act, 2020, and not as part of the Countering Russian Influence in Europe and Eurasia Act of 2017 which comprises this chapter.
 
 Section is comprised of section 2004 of Pub. L. 116–94. Subsec. (d) of section 2004 of Pub. L. 116–94 amended sections 2421 and 9543 of this title.
 

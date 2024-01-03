@@ -6,7 +6,7 @@ In General.—The Office of Personnel Management shall establish and, in consult
 
 (b)
 
-Discretionary Authority Regarding Nonappropriated Fund Instrumentalities.—The Secretary of Defense may determine that a nonappropriated fund instrumentality of the Department of Defense is covered under this chapter or is covered under an alternative long-term care insurance program.
+Discretionary Authority Regarding Nonappropriated Fund Instrumentalities.—TheSecretary of Defense may determine that a nonappropriated fund instrumentality of the Department of Defense is covered under this chapter or is covered under an alternative long-term care insurance program.
 
 (c)
 

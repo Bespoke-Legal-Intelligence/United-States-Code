@@ -26,7 +26,7 @@ There is hereby authorized to be appropriated to the fund for each fiscal year s
 
 #### (e) Unfunded liability; credit allowed for military service
 
-There is hereby authorized to be appropriated to the fund for each fiscal year such sums asmay be necessary to provide the amount equivalent to—
+There is hereby authorized to be appropriated to the fund for each fiscal year such sums as may be necessary to provide the amount equivalent to—
 
 &emsp;(1) interest on the unfunded liability computed for that year at the interest rate used in the then most recent valuation of the system; and
 

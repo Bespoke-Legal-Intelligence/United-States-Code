@@ -134,7 +134,7 @@ Subsec. (b)(2)(A)(ii). Pub. L. 98–353, §516(b)(4), substituted "from or to" f
 
 Subsec. (d). Pub. L. 98–353, §516(c), struck out "commercial" before "note".
 
-#### <b>Editorial Notes</b>
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

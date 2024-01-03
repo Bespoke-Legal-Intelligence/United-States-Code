@@ -10,7 +10,7 @@ It shall be the duty of any owner, agent, consignee, master, or commanding offic
 
 #### (c) Departure; submission of list; exceptions
 
-Before the departure of any vessel or aircraft from any port in the United States, it shall be the duty of the owner, agent, consignee, master, or commanding officer thereof, to deliver to an immigration officer at that port (1) a list containing the names of all alien employees who were not employed thereon at the time of the arrival at that port but who will leave such port thereon at the time of the departure of such vessel or aircraft and the names of those, if any, who have been paid off or discharged, and of those, if any, who have deserted or landed at that port, or (2) in the discretion of the Attorney General, such a list containing so much of such information, or such additional or supplemental information, as the Attorney General shall by regulations prescribe. In the case of a vessel engaged solely in traffic on the Great Lakes, Saint Lawrence River, and connecting waterways, such lists shall be furnished at such times as the Attorney General may require.
+Before the departure of any vessel or aircraft from any port in the United States, it shall be the duty of the owner, agent, consignee, master, or commanding officer thereof, to deliver to an immigration officer at that port (1) a list containing the names of all alien employees whowere not employed thereon at the time of the arrival at that port but who will leave such port thereon at the time of the departure of such vessel or aircraft and the names of those, if any, who have been paid off or discharged, and of those, if any, who have deserted or landed at that port, or (2) in the discretion of the Attorney General, such a list containing so much of such information, or such additional or supplemental information, as the Attorney General shall by regulations prescribe. In the case of a vessel engaged solely in traffic on the Great Lakes, Saint Lawrence River, and connecting waterways, such lists shall be furnished at such times as the Attorney General may require.
 
 #### (d) Violations
 
@@ -18,7 +18,7 @@ In case any owner, agent, consignee, master, or commanding officer shall fail to
 
 #### (e) Regulations
 
-The Attorney General is authorized to prescribe by regulations the circumstances underwhich a vessel or aircraft shall be deemed to be arriving in, or departing from the United States or any port thereof within the meaning of any provision of this part.
+The Attorney General is authorized to prescribe by regulations the circumstances under which a vessel or aircraft shall be deemed to be arriving in, or departing from the United States or any port thereof within the meaning of any provision of this part.
 
 (June 27, 1952, ch. 477, title II, ch. 6, §251, 66 Stat. 219; Pub. L. 101–649, title II, §203(b), Nov. 29, 1990, 104 Stat. 5018; Pub. L. 102–232, title III, §303(a)(3), Dec. 12, 1991, 105 Stat. 1746.)
 

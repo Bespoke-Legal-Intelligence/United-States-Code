@@ -7,8 +7,8 @@
 | [523\.](%C2%A7%2000523%20-%20Authorized%20strengths%20commissioned%20officers%20on%20active%20duty%20in%20grades%20of%20major%2C%20lieutenant%20colonel%2C%20and%20colonel%20and%20Navy%20grades%20of%E2%80%A6.md) | Authorized strengths: commissioned officers on active duty in grades of major, lieutenant colonel, and colonel and Navy grades of lieutenant commander, commander, and captain. |
 | \[524. | Renumbered.\] |
 | [525\.](%C2%A7%2000525%20-%20Distribution%20of%20commissioned%20officers%20on%20active%20duty%20in%20general%20officer%20and%20flag%20officer%20grades.md) | Distribution of commissioned officers on active duty in general officer and flag officer grades. |
-| [526\.](%C2%A7%2000526%20-%20Authorized%20strength%20general%20and%20flag%20officers%20on%20active%20duty.md) | Authorized strength: general and flag officers on active duty. |
-| [526a.](%C2%A7%2000526a%20-%20Authorized%20strength%20after%20December%2031%2C%202022%20general%20officers%20and%20flag%20officers%20on%20active%20duty.md) | Authorized strength after December 31, 2022: general officers and flag officers on active duty. |
+| [526\.](%C2%A7%2000526%20-%20Authorized%20strength%20general%20officers%20and%20flag%20officers%20on%20active%20duty.md) | Authorized strength: general officers and flag officers on active duty. |
+| \[526a. | Renumbered.\] |
 | [527\.](%C2%A7%2000527%20-%20Authority%20to%20suspend%20sections%20523%2C%20525%2C%20and%20526.md) | Authority to suspend sections 523, 525, and 526. |
 | [528\.](%C2%A7%2000528%20-%20Officers%20serving%20in%20certain%20intelligence%20positions%20military%20status%3B%20application%20of%20distribution%20and%20strength%20limitations%3B%20pay%20and%E2%80%A6.md) | Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances. |
 
@@ -17,6 +17,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title V, §501(a), Dec. 22, 2023, 137 Stat. 240, renumbered item 526a as 526, struck out "after December 31, 2022" after "Authorized strength" in item 526, and struck out former items 526 "Authorized strength: general and flag officers on active duty" and 526a "Authorized strength after December 31, 2022: general officers and flag officers on active duty". Renumbering, amendment, and striking of item 526 were made pursuant to operation of section 102 of this title.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title V, §501(h)(3), Dec. 23, 2016, 130 Stat. 2102, added item 526a.
 
@@ -30,7 +32,7 @@ Pub. L. 109–163, div. A, title V, §507(b), Jan. 6, 2006, 119 Stat. 3228, subs
 
 <b>2003</b>—Pub. L. 108–136, div. A, title V, §507(b), Nov. 24, 2003, 117 Stat. 1458, added item 528.
 
-<b>2001</b>—Pub. L. 107–107, div. A, title V, §501(b), Dec. 28, 2001, 115 Stat. 1079, struck out item 528 "Limitation on number of officers on active duty in grades of general and admiral".
+<b>2001</b>—Pub. L. 107–107, div. A, title V, §501(b), Dec. 28, 2001, 115 Stat. 1079, struck out item 528 "Limitation onnumber of officers on active duty in grades of general and admiral".
 
 <b>1994</b>—Pub. L. 103–337, div. A, title IV, §405(b)(2), title XVI, §1671(b)(4), Oct. 5, 1994, 108 Stat. 2745, 3013, struck out item 524 "Authorized strengths: reserve officers on active duty or on full-time National Guard duty for administration of the reserves or the National Guard in grades of major, lieutenant colonel, and colonel and Navy grades of lieutenant commander, commander, and captain", struck out "524," after "523," in item 527, and added item 528.
 
@@ -48,7 +50,7 @@ Pub. L. 109–163, div. A, title V, §507(b), Jan. 6, 2006, 119 Stat. 3228, subs
 - [&sect; 00523 - Authorized strengths commissioned officers on active duty in grades of major, lieutenant colonel, and colonel and Navy grades of&#8230;](%C2%A7%2000523%20-%20Authorized%20strengths%20commissioned%20officers%20on%20active%20duty%20in%20grades%20of%20major%2C%20lieutenant%20colonel%2C%20and%20colonel%20and%20Navy%20grades%20of%E2%80%A6.md)
 - [&sect; 00524 - Renumbered &sect;12011](%C2%A7%2000524%20-%20Renumbered%20%C2%A712011.md)
 - [&sect; 00525 - Distribution of commissioned officers on active duty in general officer and flag officer grades](%C2%A7%2000525%20-%20Distribution%20of%20commissioned%20officers%20on%20active%20duty%20in%20general%20officer%20and%20flag%20officer%20grades.md)
-- [&sect; 00526 - Authorized strength general and flag officers on active duty](%C2%A7%2000526%20-%20Authorized%20strength%20general%20and%20flag%20officers%20on%20active%20duty.md)
-- [&sect; 00526a - Authorized strength after December 31, 2022 general officers and flag officers on active duty](%C2%A7%2000526a%20-%20Authorized%20strength%20after%20December%2031%2C%202022%20general%20officers%20and%20flag%20officers%20on%20active%20duty.md)
+- [&sect; 00526 - Authorized strength general officers and flag officers on active duty](%C2%A7%2000526%20-%20Authorized%20strength%20general%20officers%20and%20flag%20officers%20on%20active%20duty.md)
+- [&sect; 00526a - Renumbered &sect;526](%C2%A7%2000526a%20-%20Renumbered%20%C2%A7526.md)
 - [&sect; 00527 - Authority to suspend sections 523, 525, and 526](%C2%A7%2000527%20-%20Authority%20to%20suspend%20sections%20523%2C%20525%2C%20and%20526.md)
 - [&sect; 00528 - Officers serving in certain intelligence positions military status; application of distribution and strength limitations; pay and&#8230;](%C2%A7%2000528%20-%20Officers%20serving%20in%20certain%20intelligence%20positions%20military%20status%3B%20application%20of%20distribution%20and%20strength%20limitations%3B%20pay%20and%E2%80%A6.md)

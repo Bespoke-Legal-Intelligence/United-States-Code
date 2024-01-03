@@ -4,7 +4,7 @@
 
 It is the policy of the United States—
 
-&emsp;(1) to oppose institutional or other systemic failures of foreign governments to fulfill their obligations pursuant to the Hague Abduction Convention or bilateral procedures, as applicable, to resolve abduction and access cases;
+&emsp;(1) to oppose institutional or other systemic failures of foreign governments to fulfill theirobligations pursuant to the Hague Abduction Convention or bilateral procedures, as applicable, to resolve abduction and access cases;
 
 &emsp;(2) to promote reciprocity pursuant to, and in compliance with, the Hague Abduction Convention or bilateral procedures, as appropriate; and
 

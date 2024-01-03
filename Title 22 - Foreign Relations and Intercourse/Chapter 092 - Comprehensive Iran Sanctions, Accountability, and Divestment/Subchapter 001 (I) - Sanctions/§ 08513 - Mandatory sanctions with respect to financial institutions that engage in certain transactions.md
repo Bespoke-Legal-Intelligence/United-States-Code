@@ -68,7 +68,7 @@ Congress—
 
 #### (3) Penalties
 
-&emsp;The penalties provided for in subsections (b) and (c) of section 206 of the InternationalEmergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of regulations prescribed under paragraph (1) of this subsection to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
+&emsp;The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of regulations prescribed under paragraph (1) of this subsection to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
 
 #### (4) Determinations regarding NIOC and NITC
 

@@ -72,7 +72,7 @@
 
 &emsp;(IV) the owner of such gaming operation pays an appropriate assessment to the National Indian Gaming Commission under section 2717(a)(1) of this title for regulation of such gaming.
 
-(ii) The exemption from the application of this subsection provided under this subparagraph may not be transferred to any person or entity and shall remain in effect only so long as the gaming activity remains within the same nature and scope as operated on October 17, 1988.
+(ii) The exemption from the application of this subsection provided under this subparagraph may not be transferred to any person or entityand shall remain in effect only so long as the gaming activity remains within the same nature and scope as operated on October 17, 1988.
 
 (iii) Within sixty days of October 17, 1988, the Secretary shall prepare a list of each individually owned gaming operation to which clause (i) applies and shall publish such list in the Federal Register.
 
@@ -206,7 +206,7 @@
 
 > the burden of proof shall be upon the State to prove that the State has negotiated with the Indian tribe in good faith to conclude a Tribal-State compact governing the conduct of gaming activities.
 
-(iii) If, in any action described in subparagraph (A)(i), the court finds that the State has failed to negotiate in good faith with the Indian tribe to conclude a Tribal-State compact governing the conduct of gaming activities, the court shall order the State and the Indian Tribe <sup>2</sup> to conclude such a compact within a 60-day period. In determining in such an action whether a State has negotiated in good faith, the court—
+(iii) If, in any action described in subparagraph (A)(i), the court finds that the State has failed to negotiate in good faith with the Indian tribe to conclude a Tribal-State compact governing the conduct of gaming activities, the court shall order the State and the Indian Tribe <sup>2</sup> to conclude such a compact within a 60-day period. In determining in such an actionwhether a State has negotiated in good faith, the court—
 
 &emsp;(I) may take into account the public interest, public safety, criminality, financial integrity, and adverse economic impacts on existing gaming activities, and
 

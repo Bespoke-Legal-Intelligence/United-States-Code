@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) certify that they were the owners of the feed grain at the time of delivery to, and that the quantity to be placed under loan under this subsection was in fact harvested on the farm and delivered to, a feedlot, feed mill, or commercial or on-farm high-moisture storage facility, or to a facility maintained by the users of corn and grain sorghum in a high moisture state; and
 
-&emsp;&emsp;(D) comply with deadlines established by the Secretary for harvesting the corn or grain sorghum and submit applications for loans under this subsection within deadlines established by the Secretary.
+&emsp;&emsp;(D) comply with deadlines established by the Secretary for harvesting the corn or grain sorghum and submit applications forloans under this subsection within deadlines established by the Secretary.
 
 #### (2) Eligibility of acquired feed grains
 
@@ -34,7 +34,7 @@
 
 #### (1) Upland cotton
 
-&emsp;For each of the 1996 through 2002 crops of upland cotton, the Secretary shall make available recourse seed cotton loans, as determinedby the Secretary, to producers on a farm containing eligible cropland covered by a production flexibility contract.
+&emsp;For each of the 1996 through 2002 crops of upland cotton, the Secretary shall make available recourse seed cotton loans, as determined by the Secretary, to producers on a farm containing eligible cropland covered by a production flexibility contract.
 
 #### (2) Extra long staple cotton
 

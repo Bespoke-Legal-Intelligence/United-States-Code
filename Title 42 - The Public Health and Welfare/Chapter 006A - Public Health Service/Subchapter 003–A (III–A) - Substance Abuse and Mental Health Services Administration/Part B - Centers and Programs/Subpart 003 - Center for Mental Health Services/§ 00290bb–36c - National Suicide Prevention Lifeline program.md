@@ -8,7 +8,7 @@ The Secretary, acting through the Assistant Secretary, shall maintain the Nation
 
 In maintaining the program, the activities of the Secretary shall include—
 
-&emsp;(1) supporting and coordinating a network of crisis centers across the United States for providing suicide prevention and mental health crisis intervention services, including appropriate follow-up services, to individuals seeking help at any time, day or night;
+&emsp;(1) supporting and coordinating a network of crisis centers across the United States for providing suicide prevention and mental healthcrisis intervention services, including appropriate follow-up services, to individuals seeking help at any time, day or night;
 
 &emsp;(2) maintaining a suicide prevention hotline to link callers to local emergency, mental health, and social services resources;
 

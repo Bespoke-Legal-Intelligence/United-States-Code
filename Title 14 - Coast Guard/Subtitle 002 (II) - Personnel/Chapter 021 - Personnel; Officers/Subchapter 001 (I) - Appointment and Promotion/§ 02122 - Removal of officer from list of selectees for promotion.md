@@ -6,7 +6,7 @@
 
 (c) An officer whose name is removed from a list under subsection (a) or (b) continues to be eligible for consideration for promotion. If he is selected for promotion by the next selection board and promoted, he shall be given the date of rank and position on the active duty promotion list in the grade to which promoted that he would have held if his name had not been removed. However, if the officer is not selected by the next selection board or if his name is again removed from the list of selectees, he shall be considered for all purposes as having twice failed of selection for promotion.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 182, §272; renumbered §2122 and amendedPub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 182, §272; renumbered §2122 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 #### <b>Editorial Notes</b>
 
@@ -15,4 +15,10 @@
 <b>2018</b>—Pub. L. 115–282, §112(b), renumbered section 272 of this title as this section.
 
 Subsecs. (a), (b). Pub. L. 115–282, §123(b)(2), substituted "section 2121" for "section 271".
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Authority
+
+Authority of President under subsec. (a) of this section to remove a name of an officer from a list of selectees delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, §1(b), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of this title.
 

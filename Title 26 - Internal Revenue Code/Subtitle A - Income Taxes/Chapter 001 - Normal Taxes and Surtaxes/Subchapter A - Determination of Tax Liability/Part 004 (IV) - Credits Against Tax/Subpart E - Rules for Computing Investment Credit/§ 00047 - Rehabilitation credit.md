@@ -8,7 +8,7 @@
 
 #### (2) Ratable share
 
-&emsp;For purposes of paragraph (1), the ratable share for any taxable year during the perioddescribed in such paragraph is the amount equal to 20 percent of the qualified rehabilitation expenditures with respect to the qualified rehabilitated building, as allocated ratably to each year during such period.
+&emsp;For purposes of paragraph (1), the ratable share for any taxable year during the period described in such paragraph is the amount equal to 20 percent of the qualified rehabilitation expenditures with respect to the qualified rehabilitated building, as allocated ratably to each year during such period.
 
 #### (b) When expenditures taken into account
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Any expenditure in connection with the rehabilitation of a building which is allocable to the portion of such property which is (or may reasonably be expected to be) tax-exempt use property (withinthe meaning of section 168(h), except that "50 percent" shall be substituted for "35 percent" in paragraph (1)(B)(iii) thereof).
+&emsp;&emsp;&emsp;&emsp;Any expenditure in connection with the rehabilitation of a building which is allocable to the portion of such property which is (or may reasonably be expected to be) tax-exempt use property (within the meaning of section 168(h), except that "50 percent" shall be substituted for "35 percent" in paragraph (1)(B)(iii) thereof).
 
 #### (II) Clause not to apply for purposes of paragraph (1)(C)
 
@@ -224,7 +224,7 @@ For purposes of this section—
 
 #### (4) Self-rehabilitated building
 
-&emsp;For purposes of this subsection, the term "self-rehabilitated building" means any building if it is reasonable to believe that more than half of the qualified rehabilitation expenditures for such building will be made directly by the taxpayer.
+&emsp;For purposes of this subsection, the term "self-rehabilitated building" means any building if it is reasonable to believe that morethan half of the qualified rehabilitation expenditures for such building will be made directly by the taxpayer.
 
 #### (5) Election
 
@@ -286,7 +286,7 @@ Subsec. (d)(3)(C)(i). Pub. L. 100–647, §1002(a)(28), substituted "class life 
 
 <b>1986</b>—Subsec. (a)(9). Pub. L. 99–514, §1802(a)(5)(A), added par. (9).
 
-Subsec. (d)(1). Pub. L. 99–514, §1844(b)(1), substituted "reducing the credit base (as defined in section 48(c)(8)(C))" for "reducing the qualified investment" and inserted "For purposes of determining the amount of credit subject to the early disposition or cessation rules of subsection (a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base (and correspondingly reducing the qualified investment in the property) in the year in which the property was first placed in service."
+Subsec. (d)(1). Pub. L. 99–514, §1844(b)(1), substituted "reducing the credit base (as defined in section 48(c)(8)(C))" for "reducing the qualified investment" and inserted "For purposes of determining the amount of credit subject to the early disposition or cessation rules of subsection (a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base (and correspondingly reducing thequalified investment in the property) in the year in which the property was first placed in service."
 
 Subsec. (d)(3)(E)(i). Pub. L. 99–514, §1844(b)(4), inserted "reduced by the sum of the credit recapture amounts with respect to such property for all preceding years".
 
@@ -412,7 +412,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to agreements entered into after July 1, 1982, or to property placed in service after that date, but not to transitional safe harbor lease property, nor to qualified leased property described in section 168(f)(8)(D)(v) of this title which is placed in service before Jan. 1, 1988, or is placed in service after such date pursuant to a binding contract or commitment entered into beforeApril 1, 1983, and solely because of conditions which, as determined by the Secretary of the Treasury or his delegate, are not within the control of the lessor or lessee, see section 208(d)(1), (2)(A), (5) of Pub. L. 97–248, set out as a note under section 168 of this title.
+Amendment by Pub. L. 97–248 applicable to agreements entered into after July 1, 1982, or to property placed in service after that date, but not to transitional safe harbor lease property, nor to qualified leased property described in section 168(f)(8)(D)(v) of this title which is placed in service before Jan. 1, 1988, or is placed in service after such date pursuant to a binding contract or commitment entered into before April 1, 1983, and solely because of conditions which, as determined by the Secretary of the Treasury or his delegate, are not within the control of the lessor or lessee, see section 208(d)(1), (2)(A), (5) of Pub. L. 97–248, set out as a note under section 168 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -450,7 +450,7 @@ Section applicable with respect to taxable years ending after Dec. 31, 1961, see
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into accountprior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

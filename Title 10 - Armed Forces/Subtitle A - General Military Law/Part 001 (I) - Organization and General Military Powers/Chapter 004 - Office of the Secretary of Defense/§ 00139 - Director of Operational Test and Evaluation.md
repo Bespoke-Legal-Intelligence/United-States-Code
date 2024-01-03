@@ -50,7 +50,7 @@
 
 (2) Each such report shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, the Secretaries of the military departments, and the Congress not later than January 31 of each year.
 
-(3) If the Director submits the report to Congress in a classified or controlled unclassified form, the Director shall concurrently submit to Congress a version of the report that is unclassified and does not require safeguarding or dissemination controls.
+(3) If the Director submits the report to Congress in a classified or controlled unclassifiedform, the Director shall concurrently submit to Congress a version of the report that is unclassified and does not require safeguarding or dissemination controls.
 
 (4) The report shall include such comments and recommendations as the Director considers appropriate, including comments and recommendations on resources and facilities available for operational test and evaluation and levels of funding made available for operational test and evaluation activities. The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscal year, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.
 
@@ -170,7 +170,7 @@ Subsec. (g). Pub. L. 101–189, §802(b)(6), (8), redesignated former par. (2) o
 
 <b>1987</b>—Subsec. (a)(2)(B). Pub. L. 100–26, §7(c)(2), substituted "section 2430" for "section 2432(a)(1)".
 
-Subsec. (c). Pub. L. 100–26, §7(a)(1), substituted "to the Secretary of Defense and the Under Secretary of Defense for Acquisition and shall be accompanied by such comments as the Secretary may wish to make on the report." for "to the Secretary, to the Under Secretary of Defense for Acquisition, and shall be accompanied by such comments as the Secretary of Defense may wish to make on such report."
+Subsec. (c). Pub. L. 100–26, §7(a)(1), substituted "to the Secretary of Defense and the Under Secretary ofDefense for Acquisition and shall be accompanied by such comments as the Secretary may wish to make on the report." for "to the Secretary, to the Under Secretary of Defense for Acquisition, and shall be accompanied by such comments as the Secretary of Defense may wish to make on such report."
 
 Subsec. (d). Pub. L. 100–180 designated existing provisions as par. (1) and added par. (2).
 

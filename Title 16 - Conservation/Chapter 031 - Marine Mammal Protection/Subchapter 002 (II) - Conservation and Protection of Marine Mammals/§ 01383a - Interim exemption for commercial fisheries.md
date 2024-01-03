@@ -36,7 +36,7 @@
 
 &emsp;(i) have registered with the Secretary in order to obtain for each such vessel owned an exemption for the purpose of incidentally taking marine mammals in accordance with this section;
 
-&emsp;(ii) ensure that a decal or such other physical evidence of a current and valid exemptionas the Secretary may require is displayed on or is in the possession of the master of each such vessel; and
+&emsp;(ii) ensure that a decal or such other physical evidence of a current and valid exemption as the Secretary may require is displayed on or is in the possession of the master of each such vessel; and
 
 &emsp;(iii) report as required by subsection (c).
 
@@ -92,7 +92,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 #### (e) Observers on board exempted vessels; confidentiality of information; authorization of appropriations
 
-(1) For each fishery identified under subsection (b)(1)(A)(i) of this section, the Secretary shall, after consultation with the appropriate Regional Fishery Management Councils, otherFederal and State agencies, and other interested parties, and subject to paragraph (6), place observers on board exempted vessels so as to monitor not less than 20 percent nor more than 35 percent of the fishing operations by vessels in the fishery to obtain statistically reliable information on the species and number of marine mammals incidentally taken in the fishery. If the Secretary determines that fewer than 20 percent of the fishing operations by vessels in the fishery will be monitored during the course of the fishing season, the Secretary shall implement the alternative observation program described in subsection (f) to the extent necessary to supplement the observer program described in this subsection.
+(1) For each fishery identified under subsection (b)(1)(A)(i) of this section, the Secretary shall, after consultation with the appropriate Regional Fishery Management Councils, other Federal and State agencies, and other interested parties, and subject to paragraph (6), place observers on board exempted vessels so as to monitor not less than 20 percent nor more than 35 percent of the fishing operations by vessels in the fishery to obtain statistically reliable information on the species and number of marine mammals incidentally taken in the fishery. If the Secretary determines that fewer than 20 percent of the fishing operations by vessels in the fishery will be monitored during the course of the fishing season, the Secretary shall implement the alternative observation program described in subsection (f) to the extent necessary to supplement the observer program described in this subsection.
 
 (2) When determining the distribution of observers among fisheries and between vessels in a particular fishery, the Secretary shall be guided by the following standards:
 
@@ -188,7 +188,7 @@ When carrying out the Secretary's responsibilities under subsections (b), (d), (
 
 #### (k) Regulations
 
-The Secretary, in consultation with any other Federal agency to the extent that such agency may be affected, shall prescribe such regulationsas necessary and appropriate to carry out the purposes of this section.
+The Secretary, in consultation with any other Federal agency to the extent that such agency may be affected, shall prescribe such regulations as necessary and appropriate to carry out the purposes of this section.
 
 #### (l) Suggested regime governing incidental taking of marine mammals following termination of interim exemptions
 
@@ -246,13 +246,13 @@ As used in this section—
 
 &emsp;(4) the term "vessel of the United States" has the same meaning as it does in section 1802(27) <sup>2</sup> of this title.
 
-(Pub. L. 92–522, title I, §114, as added Pub. L. 100–711, §2(a)(2), Nov. 23, 1988, 102 Stat. 4755; amended Pub. L. 103–86, Sept. 30, 1993, 107 Stat. 930; Pub. L. 103–228, Mar. 31, 1994, 108 Stat. 281; Pub. L. 103–238, §15(a), Apr. 30, 1994, 108 Stat. 559; Pub. L. 104–43, title IV, §404(a)(1), Nov. 3, 1995, 109 Stat. 390; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 115–232, div. C, title XXXV, §3541(b)(1), Aug. 13, 2018, 132 Stat. 2323.)
+(Pub. L. 92–522, title I, §114, as added Pub. L. 100–711, §2(a)(2), Nov. 23, 1988, 102 Stat. 4755; amended Pub. L. 103–86, Sept. 30, 1993, 107 Stat. 930; Pub. L. 103–228, Mar. 31, 1994, 108 Stat. 281; Pub. L. 103–238, §15(a), Apr. 30, 1994, 108 Stat. 559; Pub. L. 104–43, title IV, §404(a)(1), Nov. 3, 1995,109 Stat. 390; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 115–232, div. C, title XXXV, §3541(b)(1), Aug. 13, 2018, 132 Stat. 2323.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 1802 of this title, referred to in subsec. (o)(1), (4), was subsequently amended, and section 1802(8) and\(27) no longer defines the terms "fishery" and "vessel of the United States". However, such terms are defined elsewhere in that section.
+Section 1802 of this title, referred to in subsec. (o)(1), (4), was subsequently amended, and section 1802(8) and (27) no longer defines the terms "fishery" and "vessel of the United States". However, such terms are defined elsewhere in that section.
 
 #### Amendments
 

@@ -12,7 +12,7 @@ Based on title 28, U.S.C., 1940 ed., §§711, 712, and 713 (July 3, 1926, ch. 76
 
 Word "resident" was substituted for "or domiciled therein." (See reviser's note under section 1391 of this title.)
 
-Words "or any assistant or district attorney acting under him," after "Attorney General" in section 712 of title 28, U.S.C., 1940 ed., were omitted, since, in anyevent, the approval of the Attorney General would be required. (See section 507 of this title.)
+Words "or any assistant or district attorney acting under him," after "Attorney General" in section 712 of title 28, U.S.C., 1940 ed., were omitted, since, in any event, the approval of the Attorney General would be required. (See section 507 of this title.)
 
 Changes were made in phraseology.
 

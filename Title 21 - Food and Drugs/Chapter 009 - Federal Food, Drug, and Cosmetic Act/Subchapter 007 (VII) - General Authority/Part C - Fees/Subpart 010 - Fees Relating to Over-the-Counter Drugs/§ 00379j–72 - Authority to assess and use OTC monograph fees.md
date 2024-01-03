@@ -300,7 +300,7 @@ Each person that owns an OTC monograph drug facility shall submit to the Secreta
 
 #### (g) Collection of unpaid fees
 
-In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 calendar days after it is due, suchfee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
+In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 calendar days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
 #### (h) Construction
 

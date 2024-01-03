@@ -418,7 +418,7 @@ In this section:
 
 #### (D) Sunset
 
-&emsp;&emsp;This paragraph shall cease to have force or effect on the date that is 17 years after December 19, 2006.
+&emsp;&emsp;This paragraph shall cease to have force or effect after January 19, 2024.
 
 #### (2) Review
 
@@ -446,7 +446,7 @@ In this section:
 
 &emsp;&emsp;(D) plans for the near-, mid-, and long-term sustainment of manufacturing activities carried out under this section, including such activities pursuant to subsection (c)(5)(H), specific actions to regularly assess the ability of recipients of an award under subsection (c)(4)(B)(v) to rapidly manufacture countermeasures as required by the Secretary, and recommendations to address challenges, if any, related to such activities.
 
-(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV,§402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961; Pub. L. 116–136, div. A, title III, §3301, Mar. 27, 2020, 134 Stat. 383; Pub. L. 117–286, §4(a)(228), Dec. 27, 2022, 136 Stat. 4331; Pub. L. 117–328, div. FF, title II, §2401(a), Dec. 29, 2022, 136 Stat. 5782.)
+(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195;Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961; Pub. L. 116–136, div. A, title III, §3301, Mar. 27, 2020, 134 Stat. 383; Pub. L. 117–286, §4(a)(228), Dec. 27, 2022, 136 Stat. 4331; Pub. L. 117–328, div. FF, title II, §2401(a), Dec. 29, 2022, 136 Stat. 5782; Pub. L. 118–22, div. B, title II, §203(b), Nov. 17, 2023, 137 Stat. 120.)
 
 #### <b>Editorial Notes</b>
 
@@ -463,6 +463,8 @@ In subsec. (c)(5)(C), "section 6101 of title 41" substituted for "section 3709 o
 In subsec. (c)(5)(F), "section 3304(a)(3) of title 41" substituted for "section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(3))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (e)(1)(D). Pub. L. 118–22 substituted "after January 19, 2024" for "on the date that is 17 years after December 19, 2006".
 
 <b>2022</b>—Subsec. (a)(6)(B)(iv), (v). Pub. L. 117–328, §2401(a)(1)(A), (B), added cl. (iv) and redesignated former cl. (iv) as (v). Former cl. (v) redesignated (vi).
 
@@ -520,7 +522,7 @@ Subsec. (c)(6). Pub. L. 116–22, §303(b), substituted "older adults" for "elde
 
 Subsec. (d)(2). Pub. L. 116–22, §504(b), substituted "$611,700,000 for each of fiscal years 2019 through 2023" for "$415,000,000 for each of fiscal years 2014 through 2018".
 
-Subsec. (e)(1)(A). Pub. L. 116–22, §701(f)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "The Secretary shall withhold from disclosure under section 552 of title 5 specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c) that reveals significant and not otherwise publicly known vulnerabilities of existing medical or public health defenses against biological, chemical, nuclear, or radiological threats. Such information shall be deemed to be information described in section 552(b)(3) of title 5."
+Subsec. (e)(1)(A). Pub. L. 116–22, §701(f)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "The Secretary shall withhold from disclosure under section 552 of title 5 specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c) that reveals significant and not otherwise publicly knownvulnerabilities of existing medical or public health defenses against biological, chemical, nuclear, or radiological threats. Such information shall be deemed to be information described in section 552(b)(3) of title 5."
 
 Subsec. (e)(1)(C). Pub. L. 116–22, §701(f)(3), added subpar. (C). Former subpar. (C) redesignated (D).
 
@@ -592,7 +594,7 @@ Sec. 3. <i>National Influenza Vaccine Task Force</i>. (a) There is hereby establ
 
 (c) The Co-Chairs may jointly invite additional Federal Government representatives, with the consent of the applicable executive department, agency, or office head, to attend meetings of the Task Force or to become members of the Task Force, as appropriate.
 
-(d) The staffs of the Department of State, the Office of Management and Budget (OMB), the National Security Council, the Council of Economic Advisers, the Domestic Policy Council, the National Economic Council, and the Office of Science and Technology Policy (OSTP) may attend and participate in any Task Force meetings or discussions.
+(d) The staffs of the Department of State, the Office of Management and Budget (OMB), the National Security Council, the Council of Economic Advisers, the Domestic Policy Council, the National Economic Council,and the Office of Science and Technology Policy (OSTP) may attend and participate in any Task Force meetings or discussions.
 
 (e) The Task Force may consult with State, local, tribal, and territorial government officials and private sector representatives, as appropriate and consistent with applicable law.
 
@@ -670,7 +672,7 @@ Sec. 4. <i>Agency Implementation</i>. The heads of executive departments and age
 
 (c) The Secretary of VA shall provide OMB with a cost estimate for transitioning its annual procurement of influenza vaccines to vaccines manufactured both domestically and with faster, more scalable, and innovative technologies.
 
-Sec. 5. <i>Termination</i>. The Task Force shall terminate upon direction from the President or, with the approvalof the President, upon direction from the Task Force Co-Chairs.
+Sec. 5. <i>Termination</i>. The Task Force shall terminate upon direction from the President or, with the approval of the President, upon direction from the Task Force Co-Chairs.
 
 Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

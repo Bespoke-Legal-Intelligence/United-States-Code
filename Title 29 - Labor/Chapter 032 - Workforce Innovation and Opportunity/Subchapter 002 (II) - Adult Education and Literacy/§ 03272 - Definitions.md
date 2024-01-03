@@ -100,7 +100,7 @@ In this subchapter:
 
 &emsp;The term "family literacy activities" means activities that are of sufficient intensity and quality, to make sustainable improvements in the economic prospects for a family and that better enable parents or family members to support their children's learning needs, and that integrate all of the following activities:
 
-&emsp;&emsp;(A) Parent or family adult education and literacy activities that lead to readiness for postsecondary education or training, career advancement, and economic self-sufficiency.
+&emsp;&emsp;(A) Parent or family adult education and literacy activities that lead to readiness forpostsecondary education or training, career advancement, and economic self-sufficiency.
 
 &emsp;&emsp;(B) Interactive literacy activities between parents or family members and their children.
 

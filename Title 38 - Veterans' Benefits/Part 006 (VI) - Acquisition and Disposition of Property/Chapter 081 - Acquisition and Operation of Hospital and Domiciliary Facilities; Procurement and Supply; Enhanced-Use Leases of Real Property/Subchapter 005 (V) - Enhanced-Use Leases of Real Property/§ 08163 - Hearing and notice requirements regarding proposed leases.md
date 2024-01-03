@@ -1,6 +1,6 @@
 ### §8163. Hearing and notice requirements regarding proposed leases
 
-(a) If the Secretary proposes to enter into an enhanced-use lease with respect to certain property, the Secretary shall conduct a public hearing before entering into the lease. The hearing shall be conducted in the community in whichthe property is located. At the hearing, the Secretary shall receive the views of veterans service organizations and other interested parties regarding the proposed lease of the property and the possible effects of the uses to be made of the property under a lease of the general character then contemplated. The possible effects to be addressed at the hearing shall include effects on—
+(a) If the Secretary proposes to enter into an enhanced-use lease with respect to certain property, the Secretary shall conduct a public hearing before entering into the lease. The hearing shall be conducted in the community in which the property is located. At the hearing, the Secretary shall receive the views of veterans service organizations and other interested parties regarding the proposed lease of the property and the possible effects of the uses to be made of the property under a lease of the general character then contemplated. The possible effects to be addressed at the hearing shall include effects on—
 
 &emsp;(1) local commerce and other aspects of the local community;
 
@@ -76,7 +76,7 @@
 
 Subsec. (a). Pub. L. 108–170, §202(a)(1), in first sentence, substituted "enter into an enhanced-use lease with respect to certain property" for "designate a property to be leased under an enhanced-use lease" and "before entering into the lease" for "before making the designation".
 
-Subsec. (b). Pub. L. 108–170, §202(a)(2), substituted "to the congressional veterans' affairs committees and tothe public of the proposed lease" for "of the proposed designation" in introductory provisions.
+Subsec. (b). Pub. L. 108–170, §202(a)(2), substituted "to the congressional veterans' affairs committees and to the public of the proposed lease" for "of the proposed designation" in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 108–170, §202(a)(3)(A), substituted "enter into an enhanced-use lease of the property involved" for "designate the property involved" and "to enter into such lease" for "to so designate the property".
 
@@ -96,7 +96,7 @@ Subsec. (c)(4). Pub. L. 108–170, §202(a)(3)(D), struck out par. (4) which rea
 
 &emsp;"(D) a notice of designation with respect to the property."
 
-<b>2000</b>—Subsec. (c)(2). Pub. L. 106–419, §241, amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary may not enter into an enhanced-use lease until the end of a 60-day period of continuous session of Congress following the date of the submission of notice under paragraph (1). For purposes of the preceding sentence, continuity of a session of Congress is broken only by an adjournment sine die, and there shall be excluded from the computation of such 60-day period any day during which either House of Congress is not in session during an adjournment of more than three days to a day certain."
+<b>2000</b>—Subsec. (c)(2). Pub. L. 106–419, §241, amended par. (2) generally. Prior to amendment, par. (2) read asfollows: "The Secretary may not enter into an enhanced-use lease until the end of a 60-day period of continuous session of Congress following the date of the submission of notice under paragraph (1). For purposes of the preceding sentence, continuity of a session of Congress is broken only by an adjournment sine die, and there shall be excluded from the computation of such 60-day period any day during which either House of Congress is not in session during an adjournment of more than three days to a day certain."
 
 Subsec. (c)(3)(E). Pub. L. 106–419, §404(b)(1), amended directory language of Pub. L. 106–117, §208(c)(2). See 1999 Amendment note below.
 

@@ -76,5 +76,5 @@ Pub. L. 99–514, title XII, §1247(b), Oct. 22, 1986, 100 Stat. 2584, provided 
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 1247(a) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendment by section 1247(a) of Pub. L. 99–514 to the extent application of suchamendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 

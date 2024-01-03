@@ -104,7 +104,7 @@ Subsec. (e). Pub. L. 113–4, §203(3), substituted "$9,000,000 for each of fisc
 
 #### Effective Date of 2022 Amendment
 
-Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022,see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
 #### Effective Date of 2013 Amendment
 

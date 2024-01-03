@@ -22,7 +22,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (2) Interest in unidentified assets
 
-&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds of which, an interest passing to the surviving spouse may be satisfied include a particular asset or assets with respect to which no deduction would be allowed if such asset or assets passed from the decedent to such spouse, then the value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
+&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds of which, an interest passing to the surviving spouse may be satisfied include a particularasset or assets with respect to which no deduction would be allowed if such asset or assets passed from the decedent to such spouse, then the value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
 
 #### (3) Interest of spouse conditional on survival for limited period
 
@@ -38,7 +38,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 &emsp;&emsp;(A) there shall be taken into account the effect which the tax imposed by section 2001, or any estate, succession, legacy, or inheritance tax, has on the net value to the surviving spouse of such interest; and
 
-&emsp;&emsp;(B) where such interest or property is encumbered in any manner, or where the surviving spouse incurs any obligation imposed by the decedent with respect to the passing of such interest, such encumbrance or obligation shall be taken into account in the same manner as if the amount of a gift tosuch spouse of such interest were being determined.
+&emsp;&emsp;(B) where such interest or property is encumbered in any manner, or where the surviving spouse incurs any obligation imposed by the decedent with respect to the passing of such interest, such encumbrance or obligation shall be taken into account in the same manner as if the amount of a gift to such spouse of such interest were being determined.
 
 #### (5) Life estate with power of appointment in surviving spouse
 
@@ -108,7 +108,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (C) Treatment of survivor annuities
 
-&emsp;&emsp;In the case of an annuity included in the gross estate of the decedent under section 2039 (or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033) whereonly the surviving spouse has the right to receive payments before the death of such surviving spouse—
+&emsp;&emsp;In the case of an annuity included in the gross estate of the decedent under section 2039 (or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033) where only the surviving spouse has the right to receive payments before the death of such surviving spouse—
 
 &emsp;&emsp;&emsp;(i) the interest of such surviving spouse shall be treated as a qualifying income interest for life, and
 
@@ -200,7 +200,7 @@ For purposes of this section, an interest in property shall be considered as pas
 
 &emsp;&emsp;(C) such surviving spouse dies and the estate of such surviving spouse is subject to the tax imposed by this chapter,
 
-> &emsp;the Federal estate tax paid (or treated as paid under section 2056A(b)(7)) by the first decedent with respect to such property shall be allowedas a credit under section 2013 to the estate of such surviving spouse and the amount of such credit shall be determined under such section without regard to when the first decedent died and without regard to subsection (d)(3) of such section.
+> &emsp;the Federal estate tax paid (or treated as paid under section 2056A(b)(7)) by the first decedent with respect to such property shall be allowed as a credit under section 2013 to the estate of such surviving spouse and the amount of such credit shall be determined under such section without regard to when the first decedent died and without regard to subsection (d)(3) of such section.
 
 #### (4) Special rule where resident spouse becomes citizen
 
@@ -430,7 +430,7 @@ Pub. L. 101–508, title XI, §11701(l)(2), Nov. 5, 1990, 104 Stat. 1388–513, 
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
-Pub. L. 101–239, title VII, §7815(d)(14), Dec. 19, 1989, 103 Stat. 2418, provided that: "In the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of the 1988 Act \[Pub. L. 100–647, enacting section 2056A of this title and amending this section and sections 2106 and 2523 of this title\] shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions. In the case of the estate of an individual dying before the date 3 years after the date of the enactment of this Act \[Dec. 19, 1989\], or a gift by an individual before the date 3 years after the date of the enactment of this Act, the requirement of the preceding sentence that the individual not be a citizen or resident of the United States shall not apply."
+Pub. L. 101–239, title VII, §7815(d)(14), Dec. 19, 1989, 103 Stat. 2418, provided that: "In the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of the 1988 Act\[Pub. L. 100–647, enacting section 2056A of this title and amending this section and sections 2106 and 2523 of this title\] shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions. In the case of the estate of an individual dying before the date 3 years after the date of the enactment of this Act \[Dec. 19, 1989\], or a gift by an individual before the date 3 years after the date of the enactment of this Act, the requirement of the preceding sentence that the individual not be a citizen or resident of the United States shall not apply."
 
 #### Disclaimer of Interest Arising From Estates of Persons Dying Before Oct. 4, 1966, Having Estate Tax Return Filing Date On or After Jan. 1, 1965
 

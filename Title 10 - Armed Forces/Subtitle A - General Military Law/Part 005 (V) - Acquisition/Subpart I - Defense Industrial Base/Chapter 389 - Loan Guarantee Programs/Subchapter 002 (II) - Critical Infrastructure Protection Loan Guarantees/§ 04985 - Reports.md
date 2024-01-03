@@ -1,6 +1,6 @@
 ### §4985. Reports
 
-The Secretary of Defense shall require each qualified commercial firm for which a loan is guaranteed under this subchapter to submit to the Secretary a report on the improvements financed or refinanced with the loan. The report shall include an assessment of the value of the improvements for the protection of the critical infrastructure of that commercial firm. The Secretary shall prescribe the time for submitting the report.
+The Secretary of Defense shall require each qualified commercial firm for which a loan isguaranteed under this subchapter to submit to the Secretary a report on the improvements financed or refinanced with the loan. The report shall include an assessment of the value of the improvements for the protection of the critical infrastructure of that commercial firm. The Secretary shall prescribe the time for submitting the report.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260, §2541d; amended Pub. L. 108–136, div. A, title X, §1031(a)(25), Nov. 24, 2003, 117 Stat. 1598; renumbered §4985, Pub. L. 116–283, div. A, title XVIII, §1873(b), (c)(2), Jan. 1, 2021, 134 Stat. 4290.)
 
@@ -110,7 +110,7 @@ Prior sections 5137 and 5138 were renumbered sections 8077 and 8088 of this titl
 
 A prior section 5139 was renumbered section 8079 of this title.
 
-Another prior section 5139, acts Aug. 10, 1956, ch. 1041, 70A Stat. 287; Sept. 7, 1962, Pub. L. 87–649, §6(c)(1), 76Stat. 494, established position of Chief of Medical Service Corps within Bureau of Medicine and Surgery, prior to repeal by Pub. L. 96–513, title III, §352(a), title VII, §701, Dec. 12, 1980, 94 Stat. 2902, 2955, eff. Sept. 15, 1981.
+Another prior section 5139, acts Aug. 10, 1956, ch. 1041, 70A Stat. 287; Sept. 7, 1962, Pub. L. 87–649, §6(c)(1), 76 Stat. 494, established position of Chief of Medical Service Corps within Bureau of Medicine and Surgery, prior to repeal by Pub. L. 96–513, title III, §352(a), title VII, §701, Dec. 12, 1980, 94 Stat. 2902, 2955, eff. Sept. 15, 1981.
 
 A prior section 5140, acts Aug. 10 1956, ch. 1041, 70A Stat. 287; Aug. 21, 1957, Pub. L. 85–155, title II, §201(23), 71 Stat. 385; Sept. 7, 1962, Pub. L. 87–649, §6(c)(2), 76 Stat. 494; Sept. 30, 1966, Pub. L. 89–609, §1(6), 80 Stat. 853; Nov. 8, 1967, Pub. L. 90–130, §1(14)(A), 81 Stat. 376, established position of Director of Nurse Corps within Bureau of Medicine and Surgery, prior to repeal by Pub. L. 96–513, title III, §352(a), title VII, §701, Dec. 12, 1980, 94 Stat. 2902, 2955, effective Sept. 15, 1981.
 
@@ -156,7 +156,7 @@ Section 5204, acts Aug. 10, 1956, ch. 1041, 70A Stat. 292; Aug. 3, 1961, Pub. L.
 
 A prior section 5205, act Aug. 10, 1956, ch. 1041, 70A Stat. 293, related to retirement of heads of Marine Corps staff departments, their retired grade and pay, prior to repeal by Pub. L. 87–123, §5(3), Aug. 3, 1961, 75 Stat. 264.
 
-A prior section 5206, acts Aug. 10, 1956, ch. 1041, 70A Stat. 293; Sept. 7, 1962, Pub. L. 87–649, §6(c)(4), 76 Stat. 494; Nov. 8, 1967, Pub. L. 90–130, §1(15), 81 Stat. 376, established in Office of Commandant of Marine Corps the position of Director of Women Marines, prior to repeal by Pub. L. 96–513, title III, §344(b), title VII, §701, Dec. 12, 1980, 94 Stat. 2901, 2955, effective Sept. 15, 1981.
+A prior section 5206, acts Aug. 10, 1956, ch. 1041, 70A Stat. 293; Sept. 7, 1962, Pub. L. 87–649, §6(c)(4), 76 Stat. 494; Nov. 8, 1967, Pub. L. 90–130, §1(15), 81 Stat. 376, established in Office of Commandant of Marine Corps theposition of Director of Women Marines, prior to repeal by Pub. L. 96–513, title III, §344(b), title VII, §701, Dec. 12, 1980, 94 Stat. 2901, 2955, effective Sept. 15, 1981.
 
 Prior sections 5221 and 5222 were repealed by Pub. L. 95–82, title VI, §611(a), Aug. 1, 1977, 91 Stat. 378.
 
@@ -180,7 +180,7 @@ Section 5251, act Aug. 10, 1956, ch. 1041, 70A Stat. 295, related to administrat
 
 Section 5252, act Aug. 10, 1956, ch. 1041, 70A Stat. 296, related to administration of Marine Corps Reserve by Commandant of Marine Corps and Marine Corps Reserve Policy Board. See sections 10109 and 10304 of this title.
 
-Prior sections 5401 to 5409 were repealed by Pub. L. 96–513, title III, §311(a), title VII, §701, Dec. 12, 1980, 94Stat. 2889, 2955, effective Sept. 15, 1981. See section 521 et seq. of this title.
+Prior sections 5401 to 5409 were repealed by Pub. L. 96–513, title III, §311(a), title VII, §701, Dec. 12, 1980, 94 Stat. 2889, 2955, effective Sept. 15, 1981. See section 521 et seq. of this title.
 
 Section 5401, act Aug. 10, 1956, ch. 1041, 70A Stat. 297, prescribed authorized strength of Regular Navy in enlisted members.
 
@@ -416,7 +416,7 @@ A prior section 5666, act Aug. 10, 1956, ch. 1041, 70A Stat. 336, provided that 
 
 Prior sections 5701 to 5711 were repealed by Pub. L. 96–513, title III, §333, Dec. 12, 1980, 94 Stat. 2897, effective Sept. 15, 1981.
 
-Section 5701, acts Aug. 10, 1956, ch. 1041, 70A Stat. 336; Feb. 26, 1970, Pub. L. 91–199, §1, 84 Stat. 16, related to convening by Secretary of Navy at least annually of selection boards to recommend male officers in line of Navy for promotion and continuation on active list. See section 611 of this title.
+Section 5701, acts Aug. 10, 1956, ch. 1041, 70A Stat. 336; Feb. 26, 1970, Pub. L. 91–199, §1, 84 Stat. 16, related toconvening by Secretary of Navy at least annually of selection boards to recommend male officers in line of Navy for promotion and continuation on active list. See section 611 of this title.
 
 Section 5702, acts Aug. 10, 1956, ch. 1041, 70A Stat. 337; Aug. 21, 1957, Pub. L. 85–155, title II, §201(5), 71 Stat. 381; Nov. 8, 1967, Pub. L. 90–130, §1(18)(A)–(H), 81 Stat. 377; Dec. 8, 1967, Pub. L. 90–179, §12, 81 Stat. 549, related to convening of selection boards to recommend staff corps officers, other than women officers appointed under former section 5590 of this title, for promotion and continuation on active list. See section 611 of this title.
 
@@ -436,7 +436,7 @@ Section 5709, acts Aug. 10, 1956, ch. 1041, 70A Stat. 344; Aug. 3, 1961, Pub. L.
 
 Section 5710, act Aug. 10, 1956, ch. 1041, 70A Stat. 344, directed submission of selection board reports to either Secretary of Navy or President. See section 617 of this title.
 
-Section 5711, acts Aug. 10, 1956, ch. 1041, 70A Stat. 345; Nov. 8, 1967, Pub. L. 90–130, §1(18)(M), 81 Stat. 377; Apr. 21, 1976, Pub. L. 94–273, §2(3), 90 Stat. 375, authorized suspension of specific provisions of sections 5701 to 5710of this title under certain circumstances by President and excluded specific categories of officers from consideration by selection boards. See section 123(a), (b) of this title.
+Section 5711, acts Aug. 10, 1956, ch. 1041, 70A Stat. 345; Nov. 8, 1967, Pub. L. 90–130, §1(18)(M), 81 Stat. 377; Apr. 21, 1976, Pub. L. 94–273, §2(3), 90 Stat. 375, authorized suspension of specific provisions of sections 5701 to 5710 of this title under certain circumstances by President and excluded specific categories of officers from consideration by selection boards. See section 123(a), (b) of this title.
 
 A prior section 5721, added Pub. L. 96–513, title III, §334, Dec. 12, 1980, 94 Stat. 2897; amended Pub. L. 98–94, title IV, §403, Sept. 24, 1983, 97 Stat. 629; Pub. L. 98–525, title V, §514, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–661, div. A, title V, §503, Nov. 14, 1986, 100 Stat. 3864; Pub. L. 100–180, div. A, title V, §501(a), Dec. 4, 1987, 101 Stat. 1085; Pub. L. 101–189, div. A, title V, §512(a), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 102–484, div. A, title V, §507, Oct. 23, 1992, 106 Stat. 2405; Pub. L. 103–160, div. A, title V, §508(a), Nov. 30, 1993, 107 Stat. 1647; Pub. L. 104–106, div. A, title V, §508(a), (b), (d), Feb. 10, 1996, 110 Stat. 296, 297; Pub. L. 104–201, div. A, title V, §503, Sept. 23, 1996, 110 Stat. 2511; Pub. L. 107–314, div. A, title X, §1041(a)(20), Dec. 2, 2002, 116 Stat. 2645, related to temporary promotions of certain Navy lieutenants with critical skills, prior to repeal by Pub. L. 115–232, div. A, title V, §503(b)(1), Aug. 13, 2018, 132 Stat. 1742.
 
@@ -544,7 +544,7 @@ Prior sections 5861 and 5862 were repealed by Pub. L. 96–513, title III, §333
 
 Section 5861, acts Aug. 10, 1956, ch. 1041, 70A Stat. 368; Sept. 2, 1958, Pub. L. 85–861, §1(129), 72 Stat. 1497, required an officer of Regular Navy or of Regular Marine Corps to pass a physical examination as prescribed by Secretary of Navy in order to qualify for promotion to a grade above ensign in Navy or second lieutenant in Marine Corps. See section 624 of this title.
 
-Section 5862, acts Aug. 10, 1956, ch. 1041, 70A Stat. 369; Sept. 2, 1958, Pub. L. 85–861, §1(131), 72 Stat. 1498, related to mental, moral, and professional qualifications required to be demonstrated by officers on active list of Navy or Marine Corps in order to be promoted to grades of lieutenant (junior grade) or above in Navy or firstlieutenant or above in Marine Corps. See section 624 of this title.
+Section 5862, acts Aug. 10, 1956, ch. 1041, 70A Stat. 369; Sept. 2, 1958, Pub. L. 85–861, §1(131), 72 Stat. 1498, related to mental, moral, and professional qualifications required to be demonstrated by officers on active list of Navy or Marine Corps in order to be promoted to grades of lieutenant (junior grade) or above in Navy or first lieutenant or above in Marine Corps. See section 624 of this title.
 
 A prior section 5863, act Aug. 10, 1956, ch. 1041, 70A Stat. 369, related to procedure before examining boards, prior to repeal by Pub. L. 85–861, §36B(14), Sept. 2, 1958, 72 Stat. 1571.
 
@@ -750,7 +750,7 @@ A prior section 6292 was renumbered section 8317 of this title.
 
 A prior section 6293, act Aug. 10, 1956, ch. 1041, 70A Stat. 392, provided for discharges for minors enlisted in the naval service or in the Regular Navy as seamen, seamen apprentices or seamen recruits. See section 1170 of this title, prior to repeal by Pub. L. 90–235, §3(a)(2), Jan. 2, 1968, 81 Stat. 757.
 
-A prior section 6294, act Aug. 10, 1956, ch. 1041, 70A Stat. 392, authorized Secretary of Navy to terminateenlistment of and discharge any enlisted woman in Regular Navy or Regular Marine Corps, prior to repeal by Pub. L. 96–513, title III, §373(g), Dec. 12, 1980, 94 Stat. 2903, effective Sept. 15, 1981.
+A prior section 6294, act Aug. 10, 1956, ch. 1041, 70A Stat. 392, authorized Secretary of Navy to terminate enlistment of and discharge any enlisted woman in Regular Navy or Regular Marine Corps, prior to repeal by Pub. L. 96–513, title III, §373(g), Dec. 12, 1980, 94 Stat. 2903, effective Sept. 15, 1981.
 
 Prior sections 6295 to 6298 were repealed by Pub. L. 90–235, §§3(a)(2), (b)(1), 8(3), Jan. 2, 1968, 81 Stat. 757, 758, 764.
 
@@ -812,7 +812,7 @@ Section 6386, acts Aug. 10, 1956, ch. 1041, 70A Stat. 408; Apr. 21, 1976, Pub. L
 
 Section 6387, acts Aug. 10, 1956, ch. 1041, 70A Stat. 408; Aug. 11, 1959, Pub. L. 86–155, §6, 73 Stat. 337; June 30, 1960, Pub. L. 86–558, 74 Stat. 263; Oct. 13, 1964, Pub. L. 88–647, title III, §301(16), 78 Stat. 1072, related to computation of total commissioned service for regular Navy male line officers and regular Marine Corps male officers.
 
-Section 6388, acts Aug. 10, 1956, ch. 1041, 70A Stat. 409; Aug. 21, 1957, Pub. L. 85–155, title II, §201(20), 71 Stat.385; Sept. 30, 1966, Pub. L. 89–609, §1(20), (21), 80 Stat. 853; Sept. 20, 1968, Pub. L. 90–502, §1, 82 Stat. 852; Dec. 24, 1970, Pub. L. 91–582, §1, 84 Stat. 1574, related to computation of total commissioned service for certain Regular Navy staff corps officers.
+Section 6388, acts Aug. 10, 1956, ch. 1041, 70A Stat. 409; Aug. 21, 1957, Pub. L. 85–155, title II, §201(20), 71 Stat. 385; Sept. 30, 1966, Pub. L. 89–609, §1(20), (21), 80 Stat. 853; Sept. 20, 1968, Pub. L. 90–502, §1, 82 Stat. 852; Dec. 24, 1970, Pub. L. 91–582, §1, 84 Stat. 1574, related to computation of total commissioned service for certain Regular Navy staff corps officers.
 
 A prior section 6389 was renumbered section 8373 of this title.
 

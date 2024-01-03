@@ -90,9 +90,11 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(xxiv) section 6055 (relating to returns relating to information regarding health insurance coverage),
 
-&emsp;&emsp;&emsp;(xxv) section 6056 (relating to returns relating to certain employers required to report on health insurance coverage), or
+&emsp;&emsp;&emsp;(xxv) section 6056 (relating to returns relating to certain employers required to report on health insurance coverage),
 
-&emsp;&emsp;&emsp;(xxvi) section 6050Y (relating to returns relating to certain life insurance contract transactions), and <sup>1</sup>
+&emsp;&emsp;&emsp;(xxvi) section 6050Y (relating to returns relating to certain life insurance contract transactions),<sup>1</sup>
+
+&emsp;&emsp;&emsp;(xxvii) section 6045A(d) (relating to returns for certain digital assets),
 
 &emsp;&emsp;(C) any statement of the amount of payments to another person required to be made to the Secretary under—
 
@@ -216,15 +218,21 @@ If any partnership return under section 6031(a) is required under section 6011(e
 
 No penalty shall be imposed under section 6721 or 6722 solely by reason of failing to provide the TIN of an individual on a return or statement required by section 6050S(a)(1) if the eligible educational institution required to make such return contemporaneously makes a true and accurate certification under penalty of perjury (and in such form and manner as may be prescribed by the Secretary) that it has complied with standards promulgated by the Secretary for obtaining such individual's TIN.
 
-(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2734; amended Pub. L. 100–418, title I, §1941(b)(2)(M), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1006(h)(3)(A), 1015(a), title III, §3001(b)(1), (2), Nov. 10, 1988, 102 Stat. 3410, 3568, 3614; Pub. L. 101–239, title VII, §§7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, 103 Stat. 2391, 2407, 2412; Pub. L. 101–508, title XI, §§11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, 104 Stat. 1388–432, 1388–465; Pub. L. 102–486, title XIX, §1933(b), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–66, title XIII, §13252(b), Aug. 10, 1993, 107 Stat. 532; Pub. L. 103–322, title II, §20415(b)(1), (2), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–188, title I, §§1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, 110 Stat. 1764, 1817, 1853, 1868, 1869, 1881, 1908; Pub. L. 104–191, title III, §323(b), Aug. 21, 1996, 110 Stat. 2062; Pub. L. 105–34, title II, §201(c)(2), title XII, §§1213(b), 1223(b), title XVI, §1602(d)(2)(A), Aug. 5, 1997, 111 Stat. 805, 1001, 1019, 1094; Pub. L. 105–206, title VI, §§6004(a)(3), 6010(o)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, 112 Stat. 792, 816, 819;Pub. L. 106–554, §1(a)(7) \[title III, §319(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–210, div. A, title II, §202(c)(2), Aug. 6, 2002, 116 Stat. 962; Pub. L. 108–357, title VIII, §§805(b), 853(d)(2)(L), (M), Oct. 22, 2004, 118 Stat. 1574, 1613; Pub. L. 109–280, title VIII, §844(d)(2), title XII, §1211(b)(1), Aug. 17, 2006, 120 Stat. 1012, 1073; Pub. L. 109–432, div. A, title IV, §403(c)(1), (2), Dec. 20, 2006, 120 Stat. 2955; Pub. L. 110–172, §11(b)(2), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–289, div. C, title III, §3091(b), July 30, 2008, 122 Stat. 2910; Pub. L. 110–343, div. B, title IV, §403(c)(2), (d)(2), Oct. 3, 2008, 122 Stat. 3858, 3860; Pub. L. 111–147, title V, §§501(c)(6), (7), 522(b), Mar. 18, 2010, 124 Stat. 106, 113; Pub. L. 111–148, title I, §§1502(b), 1514(b), title X, §10108(j)(3)(E), (F), Mar. 23, 2010, 124 Stat. 251, 257, 915; Pub. L. 113–295, div. A, title II, §220(x), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 114–27, title VIII, §805(a), June 29, 2015, 129 Stat. 416; Pub. L. 114–41, title II, §2004(b)(2), July 31, 2015, 129 Stat. 456; Pub. L. 115–97, title I, §§11051(b)(2)(C), 13520(c)(1), Dec. 22, 2017, 131 Stat. 2089, 2150; Pub. L. 115–141, div. U, title II, §206(o), title IV, §401(a)(315)–(320), Mar. 23, 2018, 132 Stat. 1182, 1199; Pub. L. 116–25, title II, §2301(d), July 1, 2019, 133 Stat. 1013; Pub. L. 117–58, div. H, title VI, §80603(b)(2)(B), Nov. 15, 2021, 135 Stat. 1340; Pub. L. 117–328, div. T, title III, §§323(c), 334(d)(2), Dec. 29, 2022, 136 Stat. 5357, 5371.)
+#### (g) Special rule for reporting certain additional taxes
+
+No penalty shall be imposed under section 6721 or 6722 if—
+
+&emsp;(1) a person makes a return or report under section 6047(d) or 408(i) with respect to any distribution,
+
+&emsp;(2) such distribution is made following a rollover, transfer, or exchange described in section 72(t)(4)(C) or section 72(q)(3)(C),
+
+&emsp;(3) in making such return or report the person relies upon a certification provided by the taxpayer that the distributions satisfy the requirements of section 72(t)(4)(C)(iii) or section 72(q)(3)(B)(iii), as applicable, and
+
+&emsp;(4) such person does not have actual knowledge that the distributions do not satisfy such requirements.
+
+(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2734; amended Pub. L. 100–418, titleI, §1941(b)(2)(M), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1006(h)(3)(A), 1015(a), title III, §3001(b)(1), (2), Nov. 10, 1988, 102 Stat. 3410, 3568, 3614; Pub. L. 101–239, title VII, §§7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, 103 Stat. 2391, 2407, 2412; Pub. L. 101–508, title XI, §§11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, 104 Stat. 1388–432, 1388–465; Pub. L. 102–486, title XIX, §1933(b), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–66, title XIII, §13252(b), Aug. 10, 1993, 107 Stat. 532; Pub. L. 103–322, title II, §20415(b)(1), (2), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–188, title I, §§1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, 110 Stat. 1764, 1817, 1853, 1868, 1869, 1881, 1908; Pub. L. 104–191, title III, §323(b), Aug. 21, 1996, 110 Stat. 2062; Pub. L. 105–34, title II, §201(c)(2), title XII, §§1213(b), 1223(b), title XVI, §1602(d)(2)(A), Aug. 5, 1997, 111 Stat. 805, 1001, 1019, 1094; Pub. L. 105–206, title VI, §§6004(a)(3), 6010(o)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, 112 Stat. 792, 816, 819; Pub. L. 106–554, §1(a)(7) \[title III, §319(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–210, div. A, title II, §202(c)(2), Aug. 6, 2002, 116 Stat. 962; Pub. L. 108–357, title VIII, §§805(b), 853(d)(2)(L), (M), Oct. 22, 2004, 118 Stat. 1574, 1613; Pub. L. 109–280, title VIII, §844(d)(2), title XII, §1211(b)(1), Aug. 17, 2006, 120 Stat. 1012, 1073; Pub. L. 109–432, div. A, title IV, §403(c)(1), (2), Dec. 20, 2006, 120 Stat. 2955; Pub. L. 110–172, §11(b)(2), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–289, div. C, title III, §3091(b), July 30, 2008, 122 Stat. 2910; Pub. L. 110–343, div. B, title IV, §403(c)(2), (d)(2), Oct. 3, 2008, 122 Stat. 3858, 3860; Pub. L. 111–147, title V, §§501(c)(6), (7), 522(b), Mar. 18, 2010, 124 Stat. 106, 113; Pub. L. 111–148, title I, §§1502(b), 1514(b), title X, §10108(j)(3)(E), (F), Mar. 23, 2010, 124 Stat. 251, 257, 915; Pub. L. 113–295, div. A, title II, §220(x), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 114–27, title VIII, §805(a), June 29, 2015, 129 Stat. 416; Pub. L. 114–41, title II, §2004(b)(2), July 31, 2015, 129 Stat. 456; Pub. L. 115–97, title I, §§11051(b)(2)(C), 13520(c)(1), Dec. 22, 2017, 131 Stat. 2089, 2150; Pub. L. 115–141, div. U, title II, §206(o), title IV, §401(a)(315)–(320), Mar. 23, 2018, 132 Stat. 1182, 1199; Pub. L. 116–25, title II, §2301(d), July 1, 2019, 133 Stat. 1013; Pub. L. 117–58, div. H, title VI, §80603(b)(2)(B), Nov. 15, 2021, 135 Stat. 1340; Pub. L. 117–328, div. T, title III, §§323(c), 334(d)(2), Dec. 29, 2022, 136 Stat. 5357, 5371.)
 
 #### Amendment of Subsection (d)
-
-<i>Pub. L. 117–58, div. H, title VI, §80603(b)(2)(B), (c), Nov. 15, 2021, 135 Stat. 1340, 1341, provided that, applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, subsection (d)(1)(B) of this section is amended by striking "or" at the end of clause (xxv), by striking "and" at the end of clause (xxvi), and by inserting after clause (xxvi) the following new clause:</i>
-
-&emsp;&emsp;&emsp;<i>"(xxvii) section 6045A(d) (relating to returns for certain digital assets),".</i>
-
-<i>See 2021 Amendment notes below.</i>
 
 <i>Pub. L. 117–328, div. T, title III, §334(d)(2), (e), Dec. 29, 2022, 136 Stat. 5371, 5372, provided that, applicable to distributions made after the date which is 3 years after Dec. 29, 2022, subsection (d) of this section is amended as follows:</i>
 
@@ -247,24 +255,6 @@ No penalty shall be imposed under section 6721 or 6722 solely by reason of faili
 &emsp;&emsp;<i>"(LL) section 6050Z (relating to reports relating to long-term care premium statements).".</i>
 
 <i>See 2022 Amendment notes below.</i>
-
-#### Amendment of Subsection (g)
-
-<i>Pub. L. 117–328, div. T, title III, §323(c), (e), Dec. 29, 2022, 136 Stat. 5357, 5358, provided that, applicable to transfers, rollovers, and exchanges occurring after Dec. 31, 2023, this section is amended by inserting at the end the following new subsection:</i>
-
-#### <i>"(g) Special rule for reporting certain additional taxes.—</i>
-
-<i>"No penalty shall be imposed under section 6721 or 6722 if—</i>
-
-&emsp;<i>"(1) a person makes a return or report under section 6047(d) or 408(i) with respect to any distribution,</i>
-
-&emsp;<i>"(2) such distribution is made following a rollover, transfer, or exchange described in section 72(t)(4)(C) or section 72(q)(3)(C),</i>
-
-&emsp;<i>"(3) in making such return or report the person relies upon a certification provided by the taxpayer that the distributions satisfy the requirements of section 72(t)(4)(C)(iii) or section 72(q)(3)(B)(iii), as applicable, and</i>
-
-&emsp;<i>"(4) such person does not have actual knowledge that the distributions do not satisfy such requirements.".</i>
-
-<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -306,7 +296,7 @@ Subsec. (d)(2)(JJ). Pub. L. 115–141, §206(o), which directed amendment of par
 
 Subsec. (d)(2)(JJ). Pub. L. 115–97, §13520(c)(1)(B), added subpar. (JJ) relating to section 6050Y.
 
-Subsec. (d)(3)(C), (D). Pub. L. 115–97, §11051(b)(2)(C), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "any requirement contained in the regulations prescribed under section 215 that a person—
+Subsec. (d)(3)(C), (D). Pub. L. 115–97, §11051(b)(2)(C), redesignated subpar. (D) as (C) and struck out formersubpar. (C) which read as follows: "any requirement contained in the regulations prescribed under section 215 that a person—
 
 &emsp;"(i) furnish his TIN to another person, or
 
@@ -622,13 +612,13 @@ Amendment by section 206(o) of Pub. L. 115–141 effective as if included in sec
 
 #### Effective Date of 2017 Amendment
 
-Amendment by section 11051(b)(2)(C) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31,2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
+Amendment by section 11051(b)(2)(C) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
 
 Amendment by section 13520(c)(1) of Pub. L. 115–97 applicable to reportable policy sales (as defined in section 6050Y(d)(2) of this title) after Dec. 31, 2017, and reportable death benefits (as defined in section 6050Y(d)(4) of this title) paid after Dec. 31, 2017, see section 13520(d) of Pub. L. 115–97, set out as a note under section 6047 of this title.
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–41 applicable to property with respect to which an estate tax return is filed after July 31, 2015, see section 2004(d) of Pub. L. 114–41, set out as a note under section 1014 of this title.
+Amendment by Pub. L. 114–41 applicable to property with respect to which an estate tax return is filed afterJuly 31, 2015, see section 2004(d) of Pub. L. 114–41, set out as a note under section 1014 of this title.
 
 Pub. L. 114–27, title VIII, §805(b), June 29, 2015, 129 Stat. 416, provided that: "The amendments made by this section \[amending this section\] shall apply to returns required to be made, and statements required to be furnished, after December 31, 2015."
 
@@ -768,7 +758,7 @@ Nothing in amendment by Pub. L. 107–210, other than provisions relating to COB
 
 For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "or".</i>
 
 <i><sup>2</sup></i><i> So in original. Two subpars. (JJ) have been enacted.</i>
 

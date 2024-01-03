@@ -48,7 +48,7 @@ The Gun Control Act of 1968, referred to in subsec. (a)(4), is Pub. L. 90–618,
 
 The National Firearms Act, referred to in subsec. (a)(4), is classified generally to chapter 53 (§5801 et seq.) of Title 26, Internal Revenue Code. See section 5849 of Title 26.
 
-The Arms Export Control Act, referred to in subsec. (a)(4), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) ofTitle 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in subsec. (a)(4), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 109–92, Oct. 26, 2005, 119 Stat. 2095, known as the Protection of Lawful Commerce in Arms Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 

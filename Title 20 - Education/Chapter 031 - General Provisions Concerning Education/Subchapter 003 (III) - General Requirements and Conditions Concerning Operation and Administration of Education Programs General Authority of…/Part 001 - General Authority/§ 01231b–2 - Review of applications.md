@@ -28,7 +28,7 @@ Another prior section 432 of Pub. L. 90–247 was renumbered section 442, and wa
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–382, §243(1)(C), (D), inserted comma after "the hearing" in third sentence and substituted "guidelines governing such applicable program, it" for "guidelines, governing such applicable program it" in fourth sentence.
+<b>1994</b>—Subsec. (a). Pub. L. 103–382, §243(1)(C), (D), inserted comma after "the hearing" in third sentence andsubstituted "guidelines governing such applicable program, it" for "guidelines, governing such applicable program it" in fourth sentence.
 
 Pub. L. 103–382, §243(1)(A), (B), substituted "Secretary, any applicant" for "Commissioner, and in the case of the program provided for in title I of the Elementary and Secondary Education Act of 1965, any applicant".
 

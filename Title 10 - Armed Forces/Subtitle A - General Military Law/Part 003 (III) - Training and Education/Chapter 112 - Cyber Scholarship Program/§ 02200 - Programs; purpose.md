@@ -34,9 +34,9 @@ Subsec. (c). Pub. L. 115–91, §1649(a), added subsec. (c).
 
 Pub. L. 115–91, div. A, title XVI, §1649(e)(1), Dec. 12, 2017, 131 Stat. 1753, provided that: "The Information Security Scholarship program under chapter 112 of title 10, United States Code, is redesignated as the 'Cyber Scholarship program'. Any reference in a law (other than this section), map, regulation, document, paper, or other record of the United States to the Information Security Scholarship program shall be deemed to be a reference to the Cyber Scholarship Program."
 
-#### Department of Defense Cyber and Digital Service Academy
+#### Department of Defense Cyber Service Academy
 
-Pub. L. 117–263, div. A, title XV, §1535, Dec. 23, 2022, 136 Stat. 2907, provided that:
+Pub. L. 117–263, div. A, title XV, §1535, Dec. 23, 2022, 136 Stat. 2907, as amended by Pub. L. 118–31, div. A, title XV, §§1531(c)(6), 1533, 1534, Dec. 22, 2023, 137 Stat. 563, 565, 566, provided that:
 
 "(a)
 
@@ -44,7 +44,7 @@ Establishment.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense, in consultation with the Secretary of Homeland Security and the Director of the Office of Personnel and Management, shall establish a program to provide financial support for pursuit of programs of education at institutions of high education in covered disciplines.
+In general.—The Secretary of Defense, in consultation with the Secretary of Homeland Security, the heads of the elements of the intelligence community, and the Director of the Office of Personnel and Management, shall establish a program to provide financial support for pursuit of programs of education at institutions of high education in covered disciplines.
 
 &emsp;"(2)
 
@@ -62,7 +62,7 @@ Covered disciplines.—For purposes of the Program, a covered discipline is a di
 
 &emsp;"(3)
 
-Designation.—The program established under paragraph (1) shall be known as the 'Department of Defense Cyber and Digital Service Academy' (in this section referred to as the 'Program').
+Designation.—The program established under paragraph (1) shall be known as the 'Department of Defense Cyber Service Academy' (in this section referred to as the 'Program').
 
 "(b)
 
@@ -98,13 +98,25 @@ Period of support.—Each scholarship under the Program shall be for not more th
 
 Additional stipend.—Students demonstrating financial need, as determined by the Secretary, may be provided with an additional stipend under the Program.
 
+&emsp;"(5)
+
+Minimum number of scholarship awards.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary of Defense shall award not fewer than 1,000 scholarships under the Program in fiscal year 2026 and in each fiscal year thereafter.
+
+&emsp;&emsp;"(B)
+
+Waiver.—The Secretary of Defense may award fewer than the number of scholarships required under subparagraph (A) in a fiscal year if the Secretary determines and notifies the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that fewer scholarships are necessary to address workforce needs.
+
 "(d)
 
-Post-award Employment Obligations.—Each scholarship recipient, as a condition of receiving a scholarship under the Program, shall enter into an agreement under which the recipient agrees to work for a period equal to the length of the scholarship, following receipt of the student's degree or specialized program certification, in the cyber- and digital technology-related missions of the Department, in accordance with the terms and conditions specified by the Secretary in regulations the Secretary shall promulgate to carry out this subsection.
+Post-award Employment Obligations.—Each scholarship recipient, as a condition of receiving a scholarship under the Program, shall enter into an agreement under which the recipient agrees to work for a period equal to the length of the scholarship, following receipt of the student's degree or specialized program certification, in the cyber- and digital technology-related missions of the Department or an element of the intelligence community, in accordance with the terms and conditions specified by the head concerned in regulations the head concerned shall promulgate to carry out this subsection.
 
 "(e)
 
-Hiring Authority.—In carrying out this section, specifically with respect to enforcing the obligations and conditions of employment under subsection (d), the Secretary may use any authority otherwise available to the Secretary for the recruitment, employment, and retention of civilian personnel within the Department, including authority under section 1599f of title 10, United States Code.
+Hiring Authority.—In carrying out this section, specifically with respect to enforcing the obligations and conditions of employment under subsection (d), the head concerned may use any authority otherwise available to the head concerned for the recruitment, employment, and retention of civilian personnel within the Department, including authority under section 1599f of title 10, United States Code, or within an element of the intelligence community, as the case may be.
 
 "(f)
 
@@ -152,9 +164,9 @@ Terms.—A scholarship recipient under the Program shall be liable to the United
 
 Monitoring Compliance.—As a condition of participating in the Program, an institution of higher education shall—
 
-&emsp;"(1) enter into an agreement with the Secretary to monitor the compliance of scholarship recipients with respect to their post-award employment obligations; and
+&emsp;"(1) enter into an agreement with the head concerned to monitor the compliance of scholarship recipients with respect to their post-award employment obligations; and
 
-&emsp;"(2) provide to the Secretary and the Director of the Office of Personnel Management, on an annual basis, the post-award employment documentation required under subsection (g)(1) for scholarship recipients through the completion of their post-award employment obligations.
+&emsp;"(2) provide to the head concerned and the Director of the Office of Personnel Management, on an annual basis, the post-award employment documentation required under subsection (g)(1) for scholarship recipients through the completion of their post-award employment obligations.
 
 "(i)
 
@@ -170,7 +182,7 @@ or more years of service.—If a circumstance described in subparagraph (D) or (
 
 "(j)
 
-Repayments.—A debt described subsection (i) shall be subject to repayment, together with interest thereon accruing from the date of the scholarship award, in accordance with terms and conditions specified by the Secretary in regulations promulgated to carry out this subsection.
+Repayments.—A debt described subsection (i) shall be subject to repayment, together with interest thereon accruing from the date of the scholarship award, in accordance with terms and conditions specified by the head concerned in regulations promulgated to carry out this subsection.
 
 "(k)
 
@@ -180,9 +192,9 @@ Collection of Repayment.—
 
 In general.—In the event that a scholarship recipient is required to repay the scholarship award under the Program, the institution of higher education providing the scholarship shall—
 
-&emsp;&emsp;"(A) determine the repayment amounts and notify the recipient, the Secretary, and the Director of the Office of Personnel Management of the amounts owed; and
+&emsp;&emsp;"(A) determine the repayment amounts and notify the recipient, the head concerned, and the Director of the Office of Personnel Management of the amounts owed; and
 
-&emsp;&emsp;"(B) collect the repayment amounts within a period of time as determined by the Secretary.
+&emsp;&emsp;"(B) collect the repayment amounts within a period of time as determined by the head concerned.
 
 &emsp;"(2)
 
@@ -190,7 +202,7 @@ Returned to treasury.—Except as provided in paragraph (3), any repayment under
 
 &emsp;"(3)
 
-Retain percentage.—An institution of higher education may retain a percentage of any repayment the institution collects under this subsection to defray administrative costs associated with the collection. The Secretary shall establish a single, fixed percentage that will apply to all eligible entities.
+Retain percentage.—An institution of higher education may retain a percentage of any repayment the institution collects under this subsection to defray administrative costs associated with the collection. The head concerned shall establish a single, fixed percentage that will apply to all eligible entities.
 
 "(l)
 
@@ -242,7 +254,7 @@ In general.—Not less than 50 percent of the amount available for financial ass
 
 &emsp;"(2)
 
-Associate degrees.—Not less than five percent of the amount available for financial assistance under this section for a fiscal year shall be availablefor providing financial assistance for the pursuit of an associate degree at an institution described in paragraph (1).
+Associate degrees.—Not less than five percent of the amount available for financial assistance under this section for a fiscal year shall be available for providing financial assistance for the pursuit of an associate degree at an institution described in paragraph (1).
 
 "(n)
 
@@ -250,11 +262,45 @@ Board of Directors.—In order to help identify workforce needs and trends relev
 
 "(o)
 
-Commencement of Program.—The Secretary shall commence the Program as early as practicable, with the first scholarships awarded under the Program for the academic year beginning no later than the fall semester of 2024."
+Commencement of Program.—The Secretary shall commence the Program as early as practicable, with the first scholarships awarded under the Program for the academic year beginning no later than the fall semester of 2024.
+
+"(p) \[sic; two subsecs. (p) have been enacted\]
+
+Discharge Through Director.—In carrying out this section, the Secretary of Defense shall act through the Director of the office established under section 2192c of title 10, United States Code.
+
+"(p) \[sic\]
+
+Interagency Considerations.—
+
+&emsp;"(1)
+
+In general.—Subject to paragraph (2), a scholarship recipient may satisfy their post-award employment obligation under this section by working for an element of the intelligence community that is not part of the Department of Defense only if—
+
+&emsp;&emsp;"(A) the Secretary of Defense has entered into an agreement with the head of that element authorizing the placement of scholarship recipients under the Program in positions within that element;
+
+&emsp;&emsp;"(B) under such agreement, the head of that element has agreed to reimburse the Department of Defense for the scholarship program costs associated with any scholarship recipient so placed; and
+
+&emsp;&emsp;"(C) the scholarship recipient has satisfied appropriate hiring criteria and security clearance requirements applicable to that element.
+
+&emsp;"(2)
+
+Limitation on percentage per graduating class.—Not more than 10 percent of each graduating class of scholarship recipients under the Program may be placed in positions not within the Department of Defense unless the Secretary of Defense submits to the congressional defense committees a certification that the Department of Defense is unable to facilitate placements in positions within the Department of Defense for such excess percentage.
+
+"(q)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'head concerned' means—
+
+&emsp;&emsp;"(A) The \[sic\] Secretary of Defense, with respect to matters concerning the Department of Defense; or
+
+&emsp;&emsp;"(B) the head of an element of the intelligence community, with respect to matters concerning that element.
+
+&emsp;"(2) The term 'intelligence community' has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)."
 
 #### Program To Establish Cyber Institutes at Institutions of Higher Learning
 
-Pub. L. 115–232, div. A, title XVI, §1640, Aug. 13, 2018, 132 Stat. 2130, as amended by Pub. L. 116–283, div. A, title XVII, §1710, Jan. 1, 2021, 134 Stat. 4086, provided that:
+Pub. L. 115–232, div. A, title XVI, §1640, Aug. 13, 2018, 132 Stat. 2130, as amended by Pub. L. 116–283, div. A, title XVII, §1710, Jan. 1, 2021, 134 Stat. 4086; Pub. L. 118–31, div. A, title XV, §1531(c)(1), Dec. 22, 2023, 137 Stat. 562, provided that:
 
 "(a)
 
@@ -270,7 +316,7 @@ In general.—The Secretary of Defense shall select institutions of higher learn
 
 &emsp;"(2)
 
-Consideration of senior military colleges.—In selecting institutions of higher learning under paragraph (1), the Secretary shall consider the senior military colleges with Reserve Officers' Training Corps programs.
+Consideration of senior military colleges.—In selecting institutions of higher learning underparagraph (1), the Secretary shall consider the senior military colleges with Reserve Officers' Training Corps programs.
 
 "(c)
 
@@ -306,7 +352,11 @@ Senior Military Colleges Defined.—The term 'senior military colleges' has the 
 
 "(g)
 
-Report to Congress.—Not later than September 30, 2021, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the effectiveness of the Cyber Institutes and on opportunities to expand the Cyber Institutes to additional select institutions of higher learning that have a Reserve Officers' Training Corps program."
+Report to Congress.—Not later than September 30, 2021, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the effectiveness of the Cyber Institutes and on opportunities to expand the Cyber Institutes to additional select institutions of higher learning that have a Reserve Officers' Training Corps program.
+
+"(h)
+
+Discharge Through Director.—In carrying out this section, the Secretary of Defense shall act through the Director of the office established under section 2192c of title 10, United States Code."
 
 #### Report
 

@@ -48,7 +48,7 @@ In the case of an individual who is a first-time homebuyer of a principal reside
 
 #### (4) Age limitation
 
-&emsp;No credit shall be allowed under subsection (a) with respect to the purchase of any residence unless the taxpayer has attained age 18 as of the date of such purchase. In the case of any taxpayer who is married (within themeaning of section 7703), the taxpayer shall be treated as meeting the age requirement of the preceding sentence if the taxpayer or the taxpayer's spouse meets such age requirement.
+&emsp;No credit shall be allowed under subsection (a) with respect to the purchase of any residence unless the taxpayer has attained age 18 as of the date of such purchase. In the case of any taxpayer who is married (within the meaning of section 7703), the taxpayer shall be treated as meeting the age requirement of the preceding sentence if the taxpayer or the taxpayer's spouse meets such age requirement.
 
 #### (c) Definitions
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### (5) Related persons
 
-&emsp;A person shall be treated as related to another person if the relationship between such persons would result in the disallowance of losses under section 267 or 707(b) (but, in applying section 267(b) and (c) for purposes of this section, paragraph (4) of section 267(c) shall be treated as providing that the family of an individual shall include only his spouse, ancestors, and lineal descendants).
+&emsp;A person shall be treated as related to another person if the relationship between suchpersons would result in the disallowance of losses under section 267 or 707(b) (but, in applying section 267(b) and (c) for purposes of this section, paragraph (4) of section 267(c) shall be treated as providing that the family of an individual shall include only his spouse, ancestors, and lineal descendants).
 
 #### (6) Exception for long-time residents of same principal residence
 
@@ -160,7 +160,7 @@ If the Secretary requires information reporting under section 6045 by a person d
 
 &emsp;&emsp;&emsp;&emsp;(I) paragraph (2) and subsection (d)(2) shall not apply to such disposition (or cessation), and
 
-&emsp;&emsp;&emsp;&emsp;(II) if such residence was acquired before January 1, 2009, paragraph (1) shall not apply to the taxable year in which such disposition (or cessation) occurs or any subsequent taxable year.
+&emsp;&emsp;&emsp;&emsp;(II) if such residence was acquired before January 1, 2009, paragraph (1) shallnot apply to the taxable year in which such disposition (or cessation) occurs or any subsequent taxable year.
 
 #### (ii) Qualified official extended duty service
 

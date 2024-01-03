@@ -48,9 +48,9 @@ Certifications and Determination Required.—A major defense acquisition program
 
 (b)
 
-Changes to Certifications or Determination.—(1) The program manager for a major defense acquisition program that has received certifications or a determination under subsection\(a) shall immediately notify the milestone decision authority of any changes to the program or a designated major subprogram of such program that—
+Changes to Certifications or Determination.—(1) The program manager for a major defense acquisition program that has received certifications or a determination under subsection (a) shall immediately notify the milestone decision authority of any changes to the program or a designated major subprogram of such program that—
 
-&emsp;(A) alter the substantive basis for the certifications or determination of the milestone decision authority relating to any component of such certifications or determination specified in paragraph (1), (2), or (3) of subsection (a); or
+&emsp;(A) alter the substantive basis for the certifications or determination of the milestone decision authority relating to any componentof such certifications or determination specified in paragraph (1), (2), or (3) of subsection (a); or
 
 &emsp;(B) otherwise cause the program or subprogram to deviate significantly from the material provided to the milestone decision authority in support of such certifications or determination.
 
@@ -358,7 +358,7 @@ Pub. L. 115–91, div. A, title VIII, §838(a)(3), Dec. 12, 2017, 131 Stat. 1474
 
 #### Guidance
 
-Pub. L. 115–91, div. A, title VIII, §838(a)(4), Dec. 12, 2017, 131 Stat. 1475, provided that: "Within one yearafter the date of the enactment of this Act \[Dec. 12, 2017\], the senior Department of Defense official with responsibility for developmental testing shall develop guidance for the sufficiency assessments required by section 2366b(c)(1) and section 2366c(a)(4) of title 10, United States Code \[now 10 U.S.C. 4252(c)(1) and 4253(a)(4)\], as added by paragraphs (1) and (2). At a minimum, the guidance shall require—
+Pub. L. 115–91, div. A, title VIII, §838(a)(4), Dec. 12, 2017, 131 Stat. 1475, provided that: "Within one year after the date of the enactment of this Act \[Dec. 12, 2017\], the senior Department of Defense official with responsibility for developmental testing shall develop guidance for the sufficiency assessments required by section 2366b(c)(1) and section 2366c(a)(4) of title 10, United States Code \[now 10 U.S.C. 4252(c)(1) and 4253(a)(4)\], as added by paragraphs (1) and (2). At a minimum, the guidance shall require—
 
 &emsp;"(A) for the sufficiency assessment required by section 2366b(c)(1) of such title \[now 10 U.S.C. 4252(c)(1)\], that the assessment address the sufficiency of—
 

@@ -102,7 +102,7 @@ A collaborative applicant shall—
 
 &emsp;&emsp;(A) require each project sponsor who is funded by a grant received under part C to establish such fiscal control and fund accounting procedures as may be necessary to assure the proper disbursal of, and accounting for, Federal funds awarded to the project sponsor under part C in order to ensure that all financial transactions carried out under part C are conducted, and records maintained, in accordance with generally accepted accounting principles; and
 
-&emsp;&emsp;(B) arrange for an annual survey, audit, or evaluation of the financial records of each project carried out by a project sponsor funded by a grant received under part C.
+&emsp;&emsp;(B) arrange for an annual survey, audit, or evaluation of the financial records of eachproject carried out by a project sponsor funded by a grant received under part C.
 
 #### (h) Conflict of interest
 

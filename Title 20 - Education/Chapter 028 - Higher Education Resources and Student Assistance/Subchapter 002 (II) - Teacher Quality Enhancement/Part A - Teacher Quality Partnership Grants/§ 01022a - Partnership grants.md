@@ -16,7 +16,7 @@ Each eligible partnership desiring a grant under this section shall submit an ap
 
 &emsp;(4) a description of—
 
-&emsp;&emsp;(A) how the eligible partnership will coordinate strategies and activities assistedunder the grant with other teacher preparation or professional development programs, including programs funded under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] and the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], and through the National Science Foundation; and
+&emsp;&emsp;(A) how the eligible partnership will coordinate strategies and activities assisted under the grant with other teacher preparation or professional development programs, including programs funded under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] and the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], and through the National Science Foundation; and
 
 &emsp;&emsp;(B) how the activities of the partnership will be consistent with State, local, and other education reform activities that promote teacher quality and student academic achievement;
 
@@ -112,7 +112,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;&emsp;&emsp;&emsp;(III) possess skills to analyze student academic achievement data and other measures of student learning, and use such data and measures to improve classroom instruction;
 
-&emsp;&emsp;&emsp;&emsp;(IV) possess teaching skills and an understanding of effective instructional strategies across all applicable content areas that enable general education and special education teachers and early childhood educators to—
+&emsp;&emsp;&emsp;&emsp;(IV) possess teaching skills and an understanding of effective instructional strategies across all applicable contentareas that enable general education and special education teachers and early childhood educators to—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) meet the specific learning needs of all students, including students with disabilities, students who are limited English proficient, students who are gifted and talented, students with low literacy levels and, as applicable, children in early childhood education programs; and
 
@@ -196,7 +196,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;An eligible partnership receiving a grant to carry out an effective teaching residency program shall carry out a program that includes all of the following activities:
 
-&emsp;&emsp;(A) Supporting a teaching residency program described in paragraph (2) for high-need subjects and areas, as determined bythe needs of the high-need local educational agency in the partnership.
+&emsp;&emsp;(A) Supporting a teaching residency program described in paragraph (2) for high-need subjects and areas, as determined by the needs of the high-need local educational agency in the partnership.
 
 &emsp;&emsp;(B) Placing graduates of the teaching residency program in cohorts that facilitate professional collaboration, both among graduates of the teaching residency program and between such graduates and mentor teachers in the receiving school.
 
@@ -302,7 +302,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 #### (II) Other terms and conditions
 
-&emsp;&emsp;&emsp;&emsp;Any other terms and conditions specified by the eligible partnership may include reasonable provisions for pro-rata repayment of the stipend or salary described in clause (i) or for deferral of a teaching resident's service obligation required by clause (iii), on grounds of health, incapacitation, inability to secure employment in a school served by the eligible partnership, being called to active duty in the Armed Forces of the United States, or other extraordinary circumstances.
+&emsp;&emsp;&emsp;&emsp;Any other terms and conditions specified by the eligible partnership may include reasonable provisions for pro-rata repayment of the stipend or salary described in clause (i) or for deferral of a teaching resident's service obligation required by clause (iii), on grounds ofhealth, incapacitation, inability to secure employment in a school served by the eligible partnership, being called to active duty in the Armed Forces of the United States, or other extraordinary circumstances.
 
 #### (III) Use of repayments
 
@@ -378,7 +378,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 #### (g) Partnership with digital education content developer
 
-An eligible partnership that receives a grant under this section may use grant funds provided to carry out the activities described in subsection (d) or (e), or both, to partner with a television public broadcast station, as defined in section 397(6) of title 47, or another entity that develops digital educational content, for the purpose of improving the quality of pre-baccalaureate teacher preparation programs or to enhance the quality of preservice training for prospective teachers.
+An eligible partnership that receives a grant under this section may use grant funds providedto carry out the activities described in subsection (d) or (e), or both, to partner with a television public broadcast station, as defined in section 397(6) of title 47, or another entity that develops digital educational content, for the purpose of improving the quality of pre-baccalaureate teacher preparation programs or to enhance the quality of preservice training for prospective teachers.
 
 #### (h) Evaluation and reporting
 

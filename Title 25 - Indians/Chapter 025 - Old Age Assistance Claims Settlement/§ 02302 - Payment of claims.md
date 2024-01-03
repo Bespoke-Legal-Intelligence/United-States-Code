@@ -6,7 +6,7 @@ The Secretary is authorized and directed to determine the portion of any unautho
 
 #### (b) Minimum amount for payment
 
-No payment shall be made to a person under subsection (a) with respect to any unauthorized disbursement from the trust estate of a deceased Indian if—
+No payment shall be made to a person under subsection (a) with respect to any unauthorizeddisbursement from the trust estate of a deceased Indian if—
 
 &emsp;(1) the total amount of unauthorized disbursements from such trust estate was less than $50; or
 

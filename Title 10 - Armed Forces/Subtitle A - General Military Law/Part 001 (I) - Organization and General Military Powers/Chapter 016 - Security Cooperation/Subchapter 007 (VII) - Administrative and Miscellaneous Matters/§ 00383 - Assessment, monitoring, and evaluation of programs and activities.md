@@ -36,7 +36,7 @@ In general.—Funds available to the Defense Security Cooperation Agency, and ot
 
 &emsp;(2)
 
-Budget justification.—Funds described in paragraph (1) for a fiscal year shall be identified, with appropriate justification, in theconsolidated budget for such fiscal year required by section 381 of this title.
+Budget justification.—Funds described in paragraph (1) for a fiscal year shall be identified, with appropriate justification, in the consolidated budget for such fiscal year required by section 381 of this title.
 
 (d)
 

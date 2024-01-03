@@ -28,7 +28,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a demonstration project under which the Secretary may waive the requirements of paragraphs (1) and (4) of subsection (a) for not more than 5 States, if—
+&emsp;The Secretary shall establish a demonstration project under which the Secretary may waive the requirements of paragraphs (1) and\(4) of subsection (a) for not more than 5 States, if—
 
 &emsp;&emsp;(A) the State involved will use the waiver to leverage non-Federal funds to supplement each of the services or activities described in paragraphs (1) and (2) of section 300k(a) of this title;
 
@@ -86,7 +86,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;The Secretary shall include as part of the evaluations and reports required under section 300n–4 of this title, the following:
 
-&emsp;&emsp;(A) A description of the total amount of dollars leveraged annually from Non-Federal <sup>2</sup> entities in States receiving a waiverunder paragraph (1) and how these amounts were used.
+&emsp;&emsp;(A) A description of the total amount of dollars leveraged annually from Non-Federal <sup>2</sup> entities in States receiving a waiver under paragraph (1) and how these amounts were used.
 
 &emsp;&emsp;(B) With respect to States receiving a waiver under paragraph (1), a description of the percentage of the grant that is expended on providing each of the services or activities described in—
 

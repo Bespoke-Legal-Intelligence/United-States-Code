@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Office.—(1) There is in the Veterans Health Administration an Office ofResearch Oversight (hereinafter in this section referred to as the "Office"). The Office shall advise the Under Secretary for Health on matters of compliance and assurance in human subjects protections, research safety, and research impropriety and misconduct. The Office shall function independently of entities within the Veterans Health Administration with responsibility for the conduct of medical research programs.
+Requirement for Office.—(1) There is in the Veterans Health Administration an Office of Research Oversight (hereinafter in this section referred to as the "Office"). The Office shall advise the Under Secretary for Health on matters of compliance and assurance in human subjects protections, research safety, and research impropriety and misconduct. The Office shall function independently of entities within the Veterans Health Administration with responsibility for the conduct of medical research programs.
 
 (2) The Office shall—
 
@@ -28,7 +28,7 @@ Functions.—(1) The Director shall report to the Under Secretary for Health on 
 
 (3)(A) When the Director determines that such a recommendation is warranted, the Director may recommend to the Under Secretary that a Department research activity be terminated, suspended, or restricted, in whole or in part.
 
-(B) In a case in which the Director reasonably believes that activities of a medical research project of the Department place human subjects' lives or health at imminent risk, the Director shall direct that activities under that project be immediately suspended or, as appropriate and specified by the Director, be limited.
+(B) In a case in which the Director reasonably believes that activities of a medical research project of the Department place human subjects'lives or health at imminent risk, the Director shall direct that activities under that project be immediately suspended or, as appropriate and specified by the Director, be limited.
 
 (d)
 

@@ -4,7 +4,11 @@
 
 In General.—To the extent that funds are otherwise available for obligation, the head of an agency may enter into multiyear contracts for the purchase of property whenever the head of that agency finds each of the following:
 
-&emsp;(1) That the use of such a contract will result in significant savings of the total anticipated costs of carrying out the program through annual contracts.
+&emsp;(1) That the use of such a contract will result in—
+
+&emsp;&emsp;(A) significant savings of the total anticipated costs of carrying out the program through annual contracts; or
+
+&emsp;&emsp;(B) necessary defense industrial base stability not otherwise achievable through annual contracts.
 
 &emsp;(2) That the minimum need for the property to be purchased is expected to remain substantially unchanged during the contemplated contract period in terms of production rate, procurement rate, and total quantities.
 
@@ -12,7 +16,7 @@ In General.—To the extent that funds are otherwise available for obligation, t
 
 &emsp;(4) That there is a stable design for the property to be acquired and that the technical risks associated with such property are not excessive.
 
-&emsp;(5) That the estimates of both the cost of the contract and the anticipated cost avoidancethrough the use of a multiyear contract are realistic.
+&emsp;(5) That the estimates of both the cost of the contract and the anticipated cost avoidance through the use of a multiyear contract are realistic.
 
 &emsp;(6) In the case of a purchase by the Department of Defense, that the use of such a contract will promote the national security of the United States.
 
@@ -158,7 +162,7 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 &emsp;(D) The amount of total obligational authority under all Department of Defense multiyear procurements (determined without regard to the amount of the multiyear contract (or contract extension)), including any multiyear contract (or contract extension) that has been authorized by the Congress but not yet entered into, and the percentage that such amount represents of the procurement accounts of the Department of Defense treated in the aggregate.
 
-(5) The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract), the value of which would exceed $500,000,000 (when entered into or when extended, as the case may be), until the Secretary of Defense submits to the congressional defense committees a report containing the information described in paragraph (4) with respect to the contract (or contract extension).
+(5) The head of an agency may not enter into a multiyear contract (or extend an existingmultiyear contract), the value of which would exceed $500,000,000 (when entered into or when extended, as the case may be), until the Secretary of Defense submits to the congressional defense committees a report containing the information described in paragraph (4) with respect to the contract (or contract extension).
 
 (6) The head of an agency may not terminate a multiyear procurement contract until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
 
@@ -176,7 +180,7 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 Increased Funding and Reprogramming Requests.—Any request for increased funding for the procurement of a major system under a multiyear contract authorized under this section shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary under subsection (i).
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §§1822(a), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4197, 4294; Pub. L. 116–283, div. A, title XVIII, §1822(b), as added Pub. L. 117–81, div. A, title XVII, §1701(k)(2)(B), Dec. 27, 2021, 135 Stat. 2143; Pub. L. 117–81, div. A, title XVII, §1701(k)(1)(B), (2)(A), Dec. 27, 2021, 135 Stat. 2143; Pub. L. 117–263, div. A, title VIII, §815, Dec. 23, 2022, 136 Stat. 2707.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §§1822(a), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4197, 4294; Pub. L. 116–283, div. A, title XVIII, §1822(b), as added Pub. L. 117–81, div. A, title XVII, §1701(k)(2)(B), Dec. 27, 2021, 135 Stat. 2143; Pub. L. 117–81, div. A, title XVII, §1701(k)(1)(B), (2)(A), Dec. 27, 2021, 135 Stat. 2143; Pub. L. 117–263, div. A, title VIII, §815, Dec. 23, 2022, 136 Stat. 2707; Pub. L. 118–31, div. A, title VIII, §820, Dec. 22, 2023, 137 Stat. 326.)
 
 #### <b>Editorial Notes</b>
 
@@ -188,7 +192,7 @@ Subsection (i)(1)(A), referred to in subsec. (g)(2), related to certification of
 
 Pub. L. 116–283, §1822(b)–(l), which had initially directed the transfers of various subsections of section 2306b of this title to sections 3501 to 3511, was amended by Pub. L. 117–81, §1701(k)(2), by striking out subsecs. (b) to (l) and adding a new subsec. (b). After that amendment, such transfers were no longer directed. Instead, Pub. L. 116–283, §1822(b), as added by Pub. L. 117–81, directed the transfer of section 2306b of this title in its entirety to this section, thereby omitting what would have been sections 3502 to 3511 of this title. The transfer of section 2306b to this section was executed by transferring the text only of section 2306b, as the section designation and catchline had already been enacted by Pub. L. 116–283, §1822(a), as amended by Pub. L. 117–81, §1701(k)(1)(B).
 
-The text of section 2306b of this title, which was transferred to this section by Pub. L. 116–283, §1822(b), as amended by Pub. L. 117–81, §1701(k)(2)(B), was based on Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, §814(a), title X, §1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, §811(a), Jan. 28, 2008, 122 Stat. 217; Pub. L. 111–23, title I, §101(d)(2), May 22, 2009, 123 Stat. 1709; Pub. L. 113–291, div. A, title VIII,§816(a), (b), Dec. 19, 2014, 128 Stat. 3430, 3432; Pub. L. 114–92, div. A, title VIII, §811, Nov. 25, 2015, 129 Stat. 891; Pub. L. 115–91, div. A, title X, §1051(a)(14), Dec. 12, 2017, 131 Stat. 1561; Pub. L. 115–232, div. A, title VIII, §817, Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–92, div. A, title IX, §902(48), Dec. 20, 2019, 133 Stat. 1548.
+The text of section 2306b of this title, which was transferred to this section by Pub. L. 116–283, §1822(b), as amended by Pub. L. 117–81, §1701(k)(2)(B), was based on Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, §814(a), title X, §1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, §811(a), Jan. 28, 2008, 122 Stat. 217; Pub. L. 111–23, title I, §101(d)(2), May 22, 2009, 123 Stat. 1709; Pub. L. 113–291, div. A, title VIII, §816(a), (b), Dec. 19, 2014, 128 Stat. 3430, 3432; Pub. L. 114–92, div. A, title VIII, §811, Nov. 25, 2015, 129 Stat. 891; Pub. L. 115–91, div. A, title X, §1051(a)(14), Dec. 12, 2017, 131 Stat. 1561; Pub. L. 115–232, div. A, title VIII, §817, Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–92, div. A, title IX, §902(48), Dec. 20, 2019, 133 Stat. 1548.
 
 #### Prior Provisions
 
@@ -205,6 +209,8 @@ Prior sections 3504, 3531, and 3532 were repealed by Pub. L. 96–513, title II,
 Section 3504, acts Aug. 10, 1956, ch. 1041, 70A Stat. 200; Sept. 2, 1958, Pub. L. 85–861, §1(83), 72 Stat. 1481, authorized the President to order any retired member of the Regular Army to active duty.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(1). Pub. L. 118–31 inserted dash after "will result in" and subpar. (A) designation before "significant savings", substituted "; or" for period at end, and added subpar. (B).
 
 <b>2022</b>—Subsec. (i)(2). Pub. L. 117–263 substituted "shall include in the request a report" for "shall include in the request the following:
 

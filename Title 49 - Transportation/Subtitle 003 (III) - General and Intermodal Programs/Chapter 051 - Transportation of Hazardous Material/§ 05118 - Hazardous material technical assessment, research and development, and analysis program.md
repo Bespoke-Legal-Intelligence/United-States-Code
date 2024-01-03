@@ -46,7 +46,7 @@ Research.—Research conducted under this subsection may include activities rela
 
 &emsp;&emsp;(B) risk analysis and perception and data assessment;
 
-&emsp;&emsp;(C) commodity flow data, including voluntary collaboration between shippers and first responders for secure data exchange of critical information;
+&emsp;&emsp;(C) commodity flow data, including voluntary collaboration between shippers andfirst responders for secure data exchange of critical information;
 
 &emsp;&emsp;(D) integration of safety and security;
 

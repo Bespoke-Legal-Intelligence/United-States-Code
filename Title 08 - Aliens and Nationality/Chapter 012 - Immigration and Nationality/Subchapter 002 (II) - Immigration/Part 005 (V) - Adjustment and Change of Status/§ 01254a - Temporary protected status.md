@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(C) the Attorney General finds that there exist extraordinary and temporary conditions in the foreign state that prevent aliens who are nationals of the state from returning to the state in safety, unless the Attorney General finds that permitting the aliens to remain temporarily in the United States is contrary to the national interest of the United States.
 
-> &emsp;A designation of a foreign state (or part of such foreign state) under this paragraph shall not become effective unless notice of the designation (including a statement of the findings under this paragraph and the effective date of the designation) is published in the Federal Register. In such notice, the Attorney General shall also state an estimate of the number ofnationals of the foreign state designated who are (or within the effective period of the designation are likely to become) eligible for temporary protected status under this section and their immigration status in the United States.
+> &emsp;A designation of a foreign state (or part of such foreign state) under this paragraph shall not become effective unless notice of the designation (including a statement of the findings under this paragraph and the effective date of the designation) is published in the Federal Register. In such notice, the Attorney General shall also state an estimate of the number of nationals of the foreign state designated who are (or within the effective period of the designation are likely to become) eligible for temporary protected status under this section and their immigration status in the United States.
 
 #### (2) Effective period of designation for foreign states
 
@@ -170,7 +170,7 @@
 
 #### (2) Period of validity
 
-&emsp;Subject to paragraph (3), such documentation shall be valid during the initial period of designation of the foreign state (or part thereof) involved and any extension of such period. The Attorney General may stagger the periods of validity of the documentation and authorization in order to provide for an orderly renewal of such documentation and authorization and for an orderly transition (under paragraph (3)) upon the termination of a designation of a foreign state (or any part of such foreign state).
+&emsp;Subject to paragraph (3), such documentation shall be valid during the initial period ofdesignation of the foreign state (or part thereof) involved and any extension of such period. The Attorney General may stagger the periods of validity of the documentation and authorization in order to provide for an orderly renewal of such documentation and authorization and for an orderly transition (under paragraph (3)) upon the termination of a designation of a foreign state (or any part of such foreign state).
 
 #### (3) Effective date of terminations
 
@@ -182,7 +182,7 @@
 
 #### (e) Relation of period of temporary protected status to cancellation of removal
 
-With respect to an alien granted temporary protected status under this section, the period ofsuch status shall not be counted as a period of physical presence in the United States for purposes of section 1229b(a) of this title, unless the Attorney General determines that extreme hardship exists. Such period shall not cause a break in the continuity of residence of the period before and after such period for purposes of such section.
+With respect to an alien granted temporary protected status under this section, the period of such status shall not be counted as a period of physical presence in the United States for purposes of section 1229b(a) of this title, unless the Attorney General determines that extreme hardship exists. Such period shall not cause a break in the continuity of residence of the period before and after such period for purposes of such section.
 
 #### (f) Benefits and status during period of temporary protected status
 
@@ -238,7 +238,7 @@ Except as otherwise specifically provided, this section shall constitute the exc
 
 &emsp;No later than 180 days after the date of receipt of such a report, the Committee on the Judiciary of each House of Congress shall report to its respective House such oversight findings and legislation as it deems appropriate.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Pub. L. 101–649, title III, §302(a), title VI, §603(a)(24), Nov. 29, 1990, 104 Stat. 5030, 5084; Pub. L. 102–232, title III, §§304(b), 307(l)(5), Dec. 12, 1991, 105 Stat. 1749, 1756; Pub. L. 103–416, title II, §219(j), (z)(2), Oct. 25, 1994, 108 Stat. 4317, 4318; renumbered §244 and amended Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat. 3009–615, 3009–619, 3009–620, 3009–624.)
+(June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Pub. L.101–649, title III, §302(a), title VI, §603(a)(24), Nov. 29, 1990, 104 Stat. 5030, 5084; Pub. L. 102–232, title III, §§304(b), 307(l)(5), Dec. 12, 1991, 105 Stat. 1749, 1756; Pub. L. 103–416, title II, §219(j), (z)(2), Oct. 25, 1994, 108 Stat. 4317, 4318; renumbered §244 and amended Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat. 3009–615, 3009–619, 3009–620, 3009–624.)
 
 #### <b>Editorial Notes</b>
 
@@ -260,7 +260,7 @@ Subsec. (e). Pub. L. 104–208, §308(g)(8)(A)(i), substituted "section 1229b(a)
 
 Pub. L. 104–208, §308(e)(11), amended heading.
 
-<b>1994</b>—Subsec. (c)(1)(B). Pub. L. 103–416, §219(z)(2), made technical correction to directory language ofPub. L. 102–232, §304(b)(2). See 1991 Amendment note below.
+<b>1994</b>—Subsec. (c)(1)(B). Pub. L. 103–416, §219(z)(2), made technical correction to directory language of Pub. L. 102–232, §304(b)(2). See 1991 Amendment note below.
 
 Subsec. (c)(2)(A)(iii)(III). Pub. L. 103–416, §219(j), substituted "paragraphs" for "Paragraphs" and "and (3)(E)" for "or (3)(E)".
 
@@ -340,7 +340,7 @@ Pub. L. 101–649, title III, §302(c), Nov. 29, 1990, 104 Stat. 5036, as amende
 
 #### Special Temporary Protected Status for Salvadorans
 
-Pub. L. 101–649, title III, §303, Nov. 29, 1990, 104 Stat. 5036, as amended by Pub. L. 102–65, §1, July 2, 1991, 105 Stat. 322; Pub. L. 104–208, div. C, title III, §308(g)(1),\(6)(A), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, provided that:
+Pub. L. 101–649, title III, §303, Nov. 29, 1990, 104 Stat. 5036, as amended by Pub. L. 102–65, §1, July 2, 1991, 105 Stat. 322; Pub. L. 104–208, div. C, title III, §308(g)(1), (6)(A), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, provided that:
 
 "(a)
 

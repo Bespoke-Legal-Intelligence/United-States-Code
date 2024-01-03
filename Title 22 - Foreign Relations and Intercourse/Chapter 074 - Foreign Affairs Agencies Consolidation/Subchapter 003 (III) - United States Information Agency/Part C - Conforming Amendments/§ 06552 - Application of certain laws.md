@@ -14,11 +14,11 @@ Section 1461 of this title, section 1461–1 of this title, and section 1461–1
 
 (2)
 
-Construction.—Nothing in paragraph (1) may be construed (A) to interfere with the integration of administrative resources between public diplomacy and other functions of the Department of State or to prevent the occasional performance of functions other than public diplomacy by officials or employees of the Department of State who are primarily assigned to public diplomacy, provided there is no substantial resulting diminution in the amount of resources devoted to public diplomacy below the amounts described in paragraph (1), or (B) to supersede reprogramming procedures.
+Construction.—Nothing in paragraph (1) may be construed (A) to interfere with the integration of administrative resources between public diplomacy and other functions of the Department of State or to prevent the occasional performance of functions other than public diplomacy by officials or employees of the Department of State who are primarily assigned topublic diplomacy, provided there is no substantial resulting diminution in the amount of resources devoted to public diplomacy below the amounts described in paragraph (1), or (B) to supersede reprogramming procedures.
 
 #### (d) Reporting requirements
 
-The report submitted pursuant to section 6601(f) of this title shall include a detailed statement of the manner in which the special mission of public diplomacy carried out by USIA prior tothe transfer of functions under this chapter shall be preserved within the Department of State, including the planned duties and responsibilities of any new bureaus that will perform such public diplomacy functions. Such report shall also include the best available estimates of—
+The report submitted pursuant to section 6601(f) of this title shall include a detailed statement of the manner in which the special mission of public diplomacy carried out by USIA prior to the transfer of functions under this chapter shall be preserved within the Department of State, including the planned duties and responsibilities of any new bureaus that will perform such public diplomacy functions. Such report shall also include the best available estimates of—
 
 &emsp;(1) the amounts expended by the Department of State for public affairs programs during fiscal year 1998, and on the personnel and support costs for such programs;
 

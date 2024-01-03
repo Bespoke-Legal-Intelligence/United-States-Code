@@ -156,7 +156,7 @@ Subsec. (b)(1). Pub. L. 104–316, §202(n)(1)(C), in introductory provisions su
 
 Subsec. (b)(2). Pub. L. 104–316, §202(n)(1)(D), substituted "received" for "presented to the Comptroller General" and "in paragraph" for "in clause".
 
-Subsec. (b)(3). Pub. L. 104–316, §202(n)(1)(E), amended par. (3) generally. Prior to amendment, par. (3) read asfollows: "The Comptroller General shall return a claim not received in the time required under this subsection with a copy of this subsection and no further communication is required."
+Subsec. (b)(3). Pub. L. 104–316, §202(n)(1)(E), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Comptroller General shall return a claim not received in the time required under this subsection with a copy of this subsection and no further communication is required."
 
 Subsec. (d). Pub. L. 104–316, §202(n)(1)(F), substituted "official responsible under subsection (a) for settling the claim" for "Comptroller General" before "shall report to Congress" and "official" for "Comptroller General" before "believes" and before period at end.
 
@@ -174,7 +174,7 @@ Pub. L. 109–163, div. A, title X, §1056(e)(2), Jan. 6, 2006, 119 Stat. 3440, 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VI, §635(c), Dec. 2, 2002, 116 Stat. 2574, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to claims against the United States presented to the Secretary of Defense under section 3702 of title 31, United States Code, on or after the date of the enactment of this Act \[Dec. 2, 2002\]."
+Pub. L. 107–314, div. A, title VI, §635(c), Dec. 2, 2002, 116 Stat. 2574, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to claims against the United States presented to the Secretary of Defense under section 3702 of title 31, United States Code, on or after the date of the enactment of this Act \[Dec. 2, 2002\]."
 
 #### Effective Date of 1987 Amendment
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) in evaluative skills to determine whether an individual with a disability may be served by the State vocational rehabilitation program or another component of a statewide workforce development system; or
 
-&emsp;&emsp;(B) to assist individuals with disabilities seeking assistance through one-stop delivery systems described in section 121(e) of the Workforce Innovation and Opportunity Act \[28 U.S.C. 3151(e)\].
+&emsp;&emsp;(B) to assist individuals with disabilities seeking assistance through one-stop deliverysystems described in section 121(e) of the Workforce Innovation and Opportunity Act \[28 U.S.C. 3151(e)\].
 
 #### (5) Joint funding
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) on a full- or part-time basis; and
 
-&emsp;&emsp;&emsp;&emsp;(III) for a period of not less than the full-time equivalent of 2 years for each year for which assistance under this section was received by the individual,
+&emsp;&emsp;&emsp;&emsp;(III) for a period of not less than the full-time equivalent of 2 years for eachyear for which assistance under this section was received by the individual,
 
 &emsp;&emsp;&nbsp;within a period, beginning after the recipient completes the training for which the scholarship was awarded, of not more than the sum of the number of years in the period described in subclause (III) and 2 additional years; and
 
@@ -162,7 +162,7 @@ The Commissioner shall evaluate the impact of the training programs conducted un
 
 #### (2) Application
 
-&emsp;A grant may not be awarded to an agency or organization under paragraph (1) unless theagency or organization has submitted an application to the Commissioner at such time, in such form, in accordance with such procedures, and containing such information as the Commissioner may require, including—
+&emsp;A grant may not be awarded to an agency or organization under paragraph (1) unless the agency or organization has submitted an application to the Commissioner at such time, in such form, in accordance with such procedures, and containing such information as the Commissioner may require, including—
 
 &emsp;&emsp;(A) a description of the manner in which an interpreter training program will be developed and operated during the 5-year period following the date on which a grant is received by the applicant under this subsection;
 

@@ -30,7 +30,7 @@ In this chapter—
 
 &emsp;(5) "receiving facility" means a facility or operation where municipal or commercial waste is unloaded from a vessel.
 
-&emsp;(6) "United States", when used in a geographic sense, means the States of the United States, Puerto Rico, the District of Columbia,the Virgin Islands, American Samoa, Guam, the Northern Mariana Islands, and any other territory or possession of the United States.
+&emsp;(6) "United States", when used in a geographic sense, means the States of the United States, Puerto Rico, the District of Columbia, the Virgin Islands, American Samoa, Guam, the Northern Mariana Islands, and any other territory or possession of the United States.
 
 &emsp;(7) "waste source" means a facility or vessel from which municipal or commercial waste is loaded onto a vessel, including any rolling stock or motor vehicles from which that waste is directly loaded.
 

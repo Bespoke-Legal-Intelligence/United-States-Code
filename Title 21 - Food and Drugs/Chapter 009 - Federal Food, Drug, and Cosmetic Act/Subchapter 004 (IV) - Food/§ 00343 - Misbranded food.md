@@ -62,7 +62,7 @@ Unless its label bears (1) the common or usual name of the food, if any there be
 
 #### (j) Representation for special dietary use
 
-If it purports to be or is represented for special dietary uses, unless its label bears such information concerning its vitamin, mineral, and other dietary properties as the Secretary determinesto be, and by regulations prescribes as, necessary in order fully to inform purchasers as to its value for such uses.
+If it purports to be or is represented for special dietary uses, unless its label bears such information concerning its vitamin, mineral, and other dietary properties as the Secretary determines to be, and by regulations prescribes as, necessary in order fully to inform purchasers as to its value for such uses.
 
 #### (k) Artificial flavoring, artificial coloring, or chemical preservatives
 
@@ -70,7 +70,7 @@ If it bears or contains any artificial flavoring, artificial coloring, or chemic
 
 #### (l) Pesticide chemicals on raw agricultural commodities
 
-If it is a raw agricultural commodity which is the produce of the soil, bearing or containing a pesticide chemical applied after harvest, unless the shipping container of such commodity bears labeling which declares the presence of such chemical in or on such commodity and the common or usual name and the function of such chemical, except that no such declaration shall be required while such commodity, having been removed from the shipping container, is being held or displayed for sale at retail out of such container in accordance with the custom of the trade.
+If it is a raw agricultural commodity which is the produce of the soil, bearing or containing apesticide chemical applied after harvest, unless the shipping container of such commodity bears labeling which declares the presence of such chemical in or on such commodity and the common or usual name and the function of such chemical, except that no such declaration shall be required while such commodity, having been removed from the shipping container, is being held or displayed for sale at retail out of such container in accordance with the custom of the trade.
 
 #### (m) Color additives
 
@@ -156,7 +156,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (C) If a food contains insignificant amounts, as determined by the Secretary, of all the nutrients required by subparagraphs (1) and (2) to be listed in the label or labeling of food, the requirements of such subparagraphs shall not apply to such food if the label, labeling, or advertising of such food does not make any claim with respect to the nutritional value of such food. If a food contains insignificant amounts, as determined by the Secretary, of more than one-half the nutrients required by subparagraphs (1) and (2) to be in the label or labeling of the food, the Secretary shall require the amounts of such nutrients to be stated in a simplified form prescribed by the Secretary.
 
-(D) If a person offers food for sale and has annual gross sales made or business done in sales to consumers which is not more than $500,000 or has annual gross sales made or business done in sales of food to consumers which is not morethan $50,000, the requirements of subparagraphs (1), (2), (3), and (4) shall not apply with respect to food sold by such person to consumers unless the label or labeling of food offered by such person provides nutrition information or makes a nutrition claim.
+(D) If a person offers food for sale and has annual gross sales made or business done in sales to consumers which is not more than $500,000 or has annual gross sales made or business done in sales of food to consumers which is not more than $50,000, the requirements of subparagraphs (1), (2), (3), and (4) shall not apply with respect to food sold by such person to consumers unless the label or labeling of food offered by such person provides nutrition information or makes a nutrition claim.
 
 (E)(i) During the 12-month period for which an exemption from subparagraphs (1) and (2) is claimed pursuant to this subclause, the requirements of such subparagraphs shall not apply to any food product if—
 
@@ -210,7 +210,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 &emsp;(iv) the nutrition information shall immediately precede the ingredient information required under subclause (i), except that no ingredient identified pursuant to subclause (i) shall be required to be identified a second time.
 
-(G) Subparagraphs (1), (2), (3), and (4) shall not apply to food which is sold by a food distributor if the food distributor principally sells food to restaurants or other establishments in which food is served for immediate human consumption and does not manufacture, process, or repackage the food it sells.
+(G) Subparagraphs (1), (2), (3), and (4) shall not apply to food which is sold by a food distributor if the food distributor principally sells food to restaurants or other establishments in whichfood is served for immediate human consumption and does not manufacture, process, or repackage the food it sells.
 
 (H)
 
@@ -346,13 +346,13 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 &emsp;(iii) may not be made with respect to the level of cholesterol in the food if the food contains, as determined by the Secretary by regulation, fat or saturated fat in an amount which increases to persons in the general population the risk of disease or a health related condition which is diet related unless—
 
-&emsp;&emsp;(I) the Secretary finds by regulation that the level of cholesterol is substantially less than the level usually present in the food or in a food which substitutes for the food and which has a significant market share, or the Secretary by regulation permits a statement regarding the absence of cholesterol on thebasis of a finding that cholesterol is not usually present in the food and that such a statement would assist consumers in maintaining healthy dietary practices and the regulation requires that the statement disclose that cholesterol is not usually present in the food, and
+&emsp;&emsp;(I) the Secretary finds by regulation that the level of cholesterol is substantially less than the level usually present in the food or in a food which substitutes for the food and which has a significant market share, or the Secretary by regulation permits a statement regarding the absence of cholesterol on the basis of a finding that cholesterol is not usually present in the food and that such a statement would assist consumers in maintaining healthy dietary practices and the regulation requires that the statement disclose that cholesterol is not usually present in the food, and
 
 &emsp;&emsp;(II) the label or labeling of the food discloses the level of such fat or saturated fat in immediate proximity to such claim and with appropriate prominence which shall be no less than one-half the size of the claim with respect to the level of cholesterol,
 
 &emsp;(iv) may not be made with respect to the level of saturated fat in the food if the food contains cholesterol unless the label or labeling of the food discloses the level of cholesterol in the food in immediate proximity to such claim and with appropriate prominence which shall be no less than one-half the size of the claim with respect to the level of saturated fat,
 
-&emsp;(v) may not state that a food is high in dietary fiber unless the food is low in total fat as defined by the Secretary or the label or labeling discloses the level of total fat in the food in immediate proximity to such statement and with appropriate prominence which shall be no less than one-half the size of the claim with respect to the level of dietary fiber, and
+&emsp;(v) may not state that a food is high in dietary fiber unless the food is low in total fat as defined by the Secretary or the label or labeling discloses the level of total fat in the foodin immediate proximity to such statement and with appropriate prominence which shall be no less than one-half the size of the claim with respect to the level of dietary fiber, and
 
 &emsp;(vi) may not be made if the Secretary by regulation prohibits the claim because the claim is misleading in light of the level of another nutrient in the food.
 
@@ -392,7 +392,7 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 &emsp;(i) if the claim meets the requirements of the regulations of the Secretary promulgated under clause (B), and
 
-&emsp;(ii) if the food for which the claim is made does not contain, as determined by the Secretary by regulation, any nutrient in an amount which increases to persons in the general population the risk of a disease or health-related condition which is diet related, taking into account the significance of the food in the total daily diet, except that the Secretary may by regulation permit such a claim based on a finding that such a claim would assist consumers in maintaining healthy dietary practices and based on a requirement that the label contain a disclosure of the type required by subparagraph (2)(B).
+&emsp;(ii) if the food for which the claim is made does not contain, as determined by the Secretary by regulation, any nutrient in an amount which increases to persons in the general population the risk of a disease or health-related condition which is diet related, taking into account the significance of the food in the total daily diet, except that the Secretary may by regulation permit such a claim based on a finding that such a claim would assistconsumers in maintaining healthy dietary practices and based on a requirement that the label contain a disclosure of the type required by subparagraph (2)(B).
 
 (B)(i) The Secretary shall promulgate regulations authorizing claims of the type described in subparagraph (1)(B) only if the Secretary determines, based on the totality of publicly available scientific evidence (including evidence from well-designed studies conducted in a manner which is consistent with generally recognized scientific procedures and principles), that there is significant scientific agreement, among experts qualified by scientific training and experience to evaluate such claims, that the claim is supported by such evidence.
 
@@ -426,7 +426,7 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 &emsp;(ii) a district court of the United States in an enforcement proceeding under subchapter III has determined that the requirements of clause (C) have not been met.
 
-(4)(A)(i) Any person may petition the Secretary to issue a regulation under subparagraph (2)(A)(i) or (3)(B) relating to a claim described in subparagraph (1)(A) or (1)(B). Not later than 100 days after the petition is received by the Secretary, the Secretary shall issue a final decision denying the petition or file the petition for further action by the Secretary. If the Secretary does not act within such 100 days, the petitionshall be deemed to be denied unless an extension is mutually agreed upon by the Secretary and the petitioner. If the Secretary denies the petition or the petition is deemed to be denied, the petition shall not be made available to the public. If the Secretary files the petition, the Secretary shall deny the petition or issue a proposed regulation to take the action requested in the petition not later than 90 days after the date of such decision. If the Secretary does not act within such 90 days, the petition shall be deemed to be denied unless an extension is mutually agreed upon by the Secretary and the petitioner. If the Secretary issues a proposed regulation, the rulemaking shall be completed within 540 days of the date the petition is received by the Secretary. If the Secretary does not issue a regulation within such 540 days, the Secretary shall provide the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate the reasons action on the regulation did not occur within such 540 days.
+(4)(A)(i) Any person may petition the Secretary to issue a regulation under subparagraph (2)(A)(i) or (3)(B) relating to a claim described in subparagraph (1)(A) or (1)(B). Not later than 100 days after the petition is received by the Secretary, the Secretary shall issue a final decision denying the petition or file the petition for further action by the Secretary. If the Secretary does not act within such 100 days, the petition shall be deemed to be denied unless an extension is mutually agreed upon by the Secretary and the petitioner. If the Secretary denies the petition or the petition is deemed to be denied, the petition shall not be made available to the public. If the Secretary files the petition, the Secretary shall deny the petition or issue a proposed regulation to take the action requested in the petition not later than 90 days after the date of such decision. If the Secretary does not act within such 90 days, the petition shall be deemed to be denied unless an extension is mutually agreed upon by the Secretary and the petitioner. If the Secretary issues a proposed regulation, the rulemaking shall be completed within 540 days of the date the petition is received by the Secretary. If the Secretary does not issue a regulation within such 540 days, the Secretary shall provide the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate the reasons action on the regulation did not occur within such 540 days.
 
 (ii) Any person may petition the Secretary for permission to use in a claim described in subparagraph (1)(A) terms that are consistent with the terms defined by the Secretary under subparagraph (2)(A)(i). Within 90 days of the submission of such a petition, the Secretary shall issue a final decision denying the petition or granting such permission.
 
@@ -546,7 +546,7 @@ If—
 
 (B) The Secretary shall approve or deny such petition within 180 days of receipt of the petition or the petition shall be deemed denied, unless an extension of time is mutually agreed upon by the Secretary and the petitioner.
 
-(C) The burden shall be on the petitioner to provide scientific evidence (including the analytical method used to produce the evidence) that demonstrates that such food ingredient, as derived by the method specified in the petition,does not cause an allergic response that poses a risk to human health.
+(C) The burden shall be on the petitioner to provide scientific evidence (including the analytical method used to produce the evidence) that demonstrates that such food ingredient, as derived by the method specified in the petition, does not cause an allergic response that poses a risk to human health.
 
 (D) A determination regarding a petition under this paragraph shall constitute final agency action.
 
@@ -606,7 +606,7 @@ Par. (r)(2)(G), (H). Pub. L. 105–115, §304, added cls. (G) and (H).
 
 Par. (r)(3)(C), (D). Pub. L. 105–115, §303, added cls. (C) and (D).
 
-Par. (r)(4)(A)(i). Pub. L. 105–115, §302, inserted after second sentence "If the Secretary does not act within such 100 days, the petition shall be deemed to be denied unless an extension is mutually agreed upon by the Secretary and the petitioner.", inserted "or the petition is deemed to be denied" after "If the Secretary denies the petition", and inserted at end "If the Secretary does not act within such 90 days, the petition shall be deemed to be denied unless an extension is mutually agreed upon by the Secretary and the petitioner.If the Secretary issues a proposed regulation, the rulemaking shall be completed within 540 days of the date the petition is received by the Secretary. If the Secretary does not issue a regulation within such 540 days, the Secretary shall provide the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate the reasons action on the regulation did not occur within such 540 days."
+Par. (r)(4)(A)(i). Pub. L. 105–115, §302, inserted after second sentence "If the Secretary does not act within such 100 days, the petition shall be deemed to be denied unless an extension is mutually agreed upon by the Secretary and the petitioner.", inserted "or the petition is deemed to be denied" after "If the Secretary denies the petition", and inserted at end "If the Secretary does not act within such 90 days, the petition shall be deemed to be denied unless an extension is mutually agreed upon by the Secretary and the petitioner. If the Secretary issues a proposed regulation, the rulemaking shall be completed within 540 days of the date the petition is received by the Secretary. If the Secretary does not issue a regulation within such 540 days, the Secretary shall provide the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate the reasons action on the regulation did not occur within such 540 days."
 
 Par. (r)(7). Pub. L. 105–115, §301, added subpar. (7).
 
@@ -846,13 +846,13 @@ Pub. L. 101–535, §3(b), Nov. 8, 1990, 104 Stat. 2360, as amended by Pub. L. 1
 
 &emsp;"(ix) may, in defining terms under section 403(r)(2)(A)(i), include similar terms which are commonly understood to have the same meaning, and
 
-&emsp;"(x) shall establish, as required by section 403(r)(5)(D), the procedure and standard respecting the validity of claims made with respect to a dietary supplement of vitamins, minerals, herbs, or other similar nutritional substances and shall determine whether claims respecting the following nutrients and diseases meet the requirements of section403(r)(5)(D) of such Act: folic acid and neural tube defects, antioxident \[sic\] vitamins and cancer, zinc and immune function in the elderly, and omega-3 fatty acids and heart disease.
+&emsp;"(x) shall establish, as required by section 403(r)(5)(D), the procedure and standard respecting the validity of claims made with respect to a dietary supplement of vitamins, minerals, herbs, or other similar nutritional substances and shall determine whether claims respecting the following nutrients and diseases meet the requirements of section 403(r)(5)(D) of such Act: folic acid and neural tube defects, antioxident \[sic\] vitamins and cancer, zinc and immune function in the elderly, and omega-3 fatty acids and heart disease.
 
 "(B) Not later than 24 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement section 403(r) of the Federal Food, Drug, and Cosmetic Act, except that the Secretary shall issue, not later than December 31, 1993, such a final regulation applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances..\[sic\]
 
 "(2) If the Secretary does not promulgate final regulations under paragraph (1)(B) upon the expiration of 24 months after the date of the enactment of this Act, the proposed regulations issued in accordance with paragraph (1)(A) shall be considered as the final regulations upon the expiration of such 24 months, except that the proposed regulations applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances shall not be considered to be final regulations until December 31, 1993. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations \[see 57 F.R. 56347\]."
 
-\[For construction of amendment made by section 202(a)(2)(B) of Pub. L. 102–571 to section 3(b) of Pub. L. 101–535 set out above, see section 202(a)(2)(C) of Pub. L. 102–571 set out above following section 2(b) of Pub. L. 101–535.\]
+\[For construction of amendment made by section 202(a)(2)(B) of Pub. L. 102–571 to section 3(b) of Pub. L.101–535 set out above, see section 202(a)(2)(C) of Pub. L. 102–571 set out above following section 2(b) of Pub. L. 101–535.\]
 
 #### Labeling Exemption for Single Ingredient Foods and Products
 
@@ -920,7 +920,7 @@ Expertise requirement.—The members of the Commission shall consist of individu
 
 "(c)
 
-Functions of the Commission.—The Commission shall conduct a study on, and provide recommendationsfor, the regulation of label claims and statements for dietary supplements, including the use of literature in connection with the sale of dietary supplements and procedures for the evaluation of such claims. In making such recommendations, the Commission shall evaluate how best to provide truthful, scientifically valid, and not misleading information to consumers so that such consumers may make informed and appropriate health care choices for themselves and their families.
+Functions of the Commission.—The Commission shall conduct a study on, and provide recommendations for, the regulation of label claims and statements for dietary supplements, including the use of literature in connection with the sale of dietary supplements and procedures for the evaluation of such claims. In making such recommendations, the Commission shall evaluate how best to provide truthful, scientifically valid, and not misleading information to consumers so that such consumers may make informed and appropriate health care choices for themselves and their families.
 
 "(d)
 
@@ -944,7 +944,7 @@ Reports and Recommendations.—
 
 &emsp;"(1)
 
-Final report required.—Not later than 24 months after the date of enactment of this Act \[Oct. 25, 1994\], the Commission shall prepare and submit to the President and to the Congress a final report on the study required by this section.
+Final report required.—Not later than 24 months after the date of enactment of this Act \[Oct.25, 1994\], the Commission shall prepare and submit to the President and to the Congress a final report on the study required by this section.
 
 &emsp;"(2)
 

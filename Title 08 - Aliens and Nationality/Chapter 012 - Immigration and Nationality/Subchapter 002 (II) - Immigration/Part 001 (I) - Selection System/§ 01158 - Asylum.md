@@ -14,7 +14,7 @@
 
 #### (B) Time limit
 
-&emsp;&emsp;Subject to subparagraph (D), paragraph (1) shall not apply to an alien unless the alien demonstrates by clear and convincing evidence that the application has been filedwithin 1 year after the date of the alien's arrival in the United States.
+&emsp;&emsp;Subject to subparagraph (D), paragraph (1) shall not apply to an alien unless the alien demonstrates by clear and convincing evidence that the application has been filed within 1 year after the date of the alien's arrival in the United States.
 
 #### (C) Previous asylum applications
 
@@ -146,7 +146,7 @@
 
 #### (3) Fees
 
-&emsp;The Attorney General may impose fees for the consideration of an application for asylum, for employment authorization under this section, and for adjustment of status undersection 1159(b) of this title. Such fees shall not exceed the Attorney General's costs in adjudicating the applications. The Attorney General may provide for the assessment and payment of such fees over a period of time or by installments. Nothing in this paragraph shall be construed to require the Attorney General to charge fees for adjudication services provided to asylum applicants, or to limit the authority of the Attorney General to set adjudication and naturalization fees in accordance with section 1356(m) of this title.
+&emsp;The Attorney General may impose fees for the consideration of an application for asylum, for employment authorization under this section, and for adjustment of status under section 1159(b) of this title. Such fees shall not exceed the Attorney General's costs in adjudicating the applications. The Attorney General may provide for the assessment and payment of such fees over a period of time or by installments. Nothing in this paragraph shall be construed to require the Attorney General to charge fees for adjudication services provided to asylum applicants, or to limit the authority of the Attorney General to set adjudication and naturalization fees in accordance with section 1356(m) of this title.
 
 #### (4) Notice of privilege of counsel and consequences of frivolous application
 
@@ -210,7 +210,7 @@ Subsec. (b)(1)(B). Pub. L. 109–13, §101(a)(3), added subpar. (B)
 
 Subsec. (b)(2)(A)(v). Pub. L. 109–13, §101(b), substituted "described in" for "inadmissible under" in two places and struck out "removable under" before "section 1227(a)(4)(B)".
 
-<b>2002</b>—Subsec. (b)(3). Pub. L. 107–208 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: "A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien."
+<b>2002</b>—Subsec. (b)(3). Pub. L. 107–208 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien."
 
 <b>2001</b>—Subsec. (b)(2)(A)(v). Pub. L. 107–56 substituted "(III), (IV), or (VI)" for "(III), or (IV)".
 
@@ -260,7 +260,7 @@ Pub. L. 101–649, title V, §515(b), Nov. 29, 1990, 104 Stat. 5053, as amended 
 
 #### Effective Date
 
-Section effective Mar. 17, 1980, and applicable to fiscal years beginning with the fiscal year beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as an Effective Date of 1980 Amendment note under section 1101 of this title.
+Section effective Mar. 17, 1980, and applicable to fiscal years beginning with the fiscal year beginning Oct.1, 1979, see section 204 of Pub. L. 96–212, set out as an Effective Date of 1980 Amendment note under section 1101 of this title.
 
 #### Regulations
 

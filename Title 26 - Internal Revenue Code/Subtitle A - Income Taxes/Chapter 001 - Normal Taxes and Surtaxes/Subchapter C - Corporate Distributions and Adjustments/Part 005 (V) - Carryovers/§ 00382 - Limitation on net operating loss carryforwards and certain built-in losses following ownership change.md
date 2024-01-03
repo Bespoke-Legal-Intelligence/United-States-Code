@@ -198,7 +198,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the old loss corporation has a net unrealized built-in loss, the recognized built-in loss for any recognition period taxableyear shall be subject to limitation under this section in the same manner as if such loss were a pre-change loss.
+&emsp;&emsp;&emsp;If the old loss corporation has a net unrealized built-in loss, the recognized built-in loss for any recognition period taxable year shall be subject to limitation under this section in the same manner as if such loss were a pre-change loss.
 
 #### (ii) Limitation
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 &emsp;For purposes of subsection (b)(3)—
 
-&emsp;&emsp;(A) in applying subparagraph (A) thereof, taxable income shall be computed withoutregard to recognized built-in gains to the extent such gains increased the section 382 limitation for the year (or recognized built-in losses to the extent such losses are treated as pre-change losses), and gain described in paragraph (1)(C), for the year, and
+&emsp;&emsp;(A) in applying subparagraph (A) thereof, taxable income shall be computed without regard to recognized built-in gains to the extent such gains increased the section 382 limitation for the year (or recognized built-in losses to the extent such losses are treated as pre-change losses), and gain described in paragraph (1)(C), for the year, and
 
 &emsp;&emsp;(B) in applying subparagraph (B) thereof, the section 382 limitation shall be computed without regard to recognized built-in gains, and gain described in paragraph (1)(C), for the year.
 
@@ -308,7 +308,7 @@ For purposes of this section—
 
 #### (C) Adjustments
 
-&emsp;&emsp;The amount of the net unrealized built-in gain or loss shall be properly adjusted for amounts which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period.
+&emsp;&emsp;The amount of the net unrealized built-in gain or loss shall be properly adjusted foramounts which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period.
 
 #### (7) Recognition period, etc.
 
@@ -552,7 +552,7 @@ For purposes of this section—
 
 #### (E) Only certain stock taken into account
 
-&emsp;&emsp;For purposes of subparagraph (A)(ii), stock transferred to a creditor shall be taken into account only to the extent such stock istransferred in satisfaction of indebtedness and only if such indebtedness—
+&emsp;&emsp;For purposes of subparagraph (A)(ii), stock transferred to a creditor shall be taken into account only to the extent such stock is transferred in satisfaction of indebtedness and only if such indebtedness—
 
 &emsp;&emsp;&emsp;(i) was held by the creditor at least 18 months before the date of the filing of the title 11 or similar case, or
 
@@ -626,7 +626,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;&emsp;&emsp;(II) such persons are members of a group of persons acting in concert.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, §4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, §806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, §242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, §62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, §621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, §10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, §1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66,title XIII, §13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, §1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(2), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 111–5, div. B, title I, §1262(a), Feb. 17, 2009, 123 Stat. 343; Pub. L. 113–295, div. A, title II, §221(a)(30)(D), Dec. 19, 2014, 128 Stat. 4042; Pub. L. 115–97, title I, §§11051(b)(3)(F), 13301(b)(2), (3), Dec. 22, 2017, 131 Stat. 2090, 2121.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, §4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, §806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, §242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, §62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, §621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, §10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, §1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66, title XIII, §13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, §1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(2), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 111–5, div. B, title I, §1262(a), Feb. 17, 2009, 123 Stat. 343; Pub. L. 113–295, div. A, title II, §221(a)(30)(D), Dec. 19, 2014, 128 Stat. 4042; Pub. L. 115–97, title I, §§11051(b)(3)(F), 13301(b)(2), (3), Dec. 22, 2017, 131 Stat. 2090, 2121.)
 
 #### <b>Editorial Notes</b>
 
@@ -710,7 +710,7 @@ Subsec. (i)(3). Pub. L. 100–647, §1006(d)(4), inserted "the earlier of" after
 
 Subsec. (k)(1). Pub. L. 100–647, §1006(d)(5)(A), inserted "or having a net operating loss for the taxable year in which the ownership change occurs" after "operating loss carryover".
 
-Subsec. (k)(2). Pub. L. 100–647, §1006(d)(5)(B), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: "The term 'old loss corporation' means any corporation with respect to which there is an ownership change—
+Subsec. (k)(2). Pub. L. 100–647, §1006(d)(5)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'old loss corporation' means any corporation with respect to which there is an ownership change—
 
 &emsp;"(A) which (before the ownership change) was a loss corporation, or
 
@@ -728,7 +728,7 @@ Pub. L. 100–647, §1006(d)(7), substituted "after such ownership change and as
 
 Subsec. (l)(5)(B). Pub. L. 100–647, §1006(d)(27), substituted "the pre-change losses and excess credits (within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed" for "the net operating loss deduction under section 172(a) for any post-change year shall be determined".
 
-Subsec. (l)(5)(C). Pub. L. 100–647, §1006(d)(18), substituted "tax attributes" for "carryforwards" in heading and amended text generally. Prior to amendment, text read as follows: "In any case to which subparagraph (A) applies, the pre-change losses and excess credits (within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed as if 50 percent of the amount which, but for the application of section 108(e)(10)(B), would have been includible in gross income for any taxable year had been so included."
+Subsec. (l)(5)(C). Pub. L. 100–647, §1006(d)(18), substituted "tax attributes" for "carryforwards" in heading and amended text generally. Prior to amendment, text read as follows: "In any case to which subparagraph (A) applies, the pre-change losses and excess credits (within the meaning of section 383(a)(2)) whichmay be carried to a post-change year shall be computed as if 50 percent of the amount which, but for the application of section 108(e)(10)(B), would have been includible in gross income for any taxable year had been so included."
 
 Subsec. (l)(5)(E). Pub. L. 100–647, §1006(d)(19), substituted "taken into account" for "of creditors taken into account" in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "For purposes of subparagraph (A)(ii), stock transferred to a creditor in satisfaction of indebtedness shall be taken into account only if such indebtedness—".
 
@@ -802,7 +802,7 @@ Amendment by Pub. L. 103–66 applicable to stock transferred after Dec. 31, 199
 
 Amendment by section 7205(a) of Pub. L. 101–239 applicable, except as otherwise provided, to ownership changes and acquisitions after Oct. 2, 1989, in taxable years ending after such date, see section 7205(c) of Pub. L. 101–239, set out as a note under section 56 of this title.
 
-Pub. L. 101–239, title VII, §7304(d)(2), Dec. 19, 1989, 103 Stat. 2354, provided that: "The amendments made by this subsection \[amending this section\] shall apply to acquisitions of employer securities after July 12, 1989, except that such amendments shall not apply to acquisitions after July 12, 1989, pursuant to a written binding contract in effect on July 12, 1989, and at all times thereafter before such acquisition."
+Pub. L. 101–239, title VII, §7304(d)(2), Dec. 19, 1989, 103 Stat. 2354, provided that: "The amendments made bythis subsection \[amending this section\] shall apply to acquisitions of employer securities after July 12, 1989, except that such amendments shall not apply to acquisitions after July 12, 1989, pursuant to a written binding contract in effect on July 12, 1989, and at all times thereafter before such acquisition."
 
 Amendment by sections 7811(c)(5)(A) and 7815(h) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
@@ -890,7 +890,7 @@ In general.—The repeals made by subsection (e)(1) \[repealing amendments by Pu
 
 Election to have amendments apply.—
 
-&emsp;&emsp;"(i) If a taxpayer described in clause (ii) elects to have the provisions of this subparagraph apply, theamendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976 \[amending this section and sections 108, 368, and 383 of this title\] shall apply to the reorganization described in clause (ii).
+&emsp;&emsp;"(i) If a taxpayer described in clause (ii) elects to have the provisions of this subparagraph apply, the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976 \[amending this section and sections 108, 368, and 383 of this title\] shall apply to the reorganization described in clause (ii).
 
 &emsp;&emsp;"(ii) A taxpayer is described in this clause if the taxpayer filed a title 11 or similar case on December 8, 1981, filed a plan of reorganization on February 5, 1986, filed an amended plan on March 14, 1986, and received court approval for the amended plan and disclosure statement on April 16, 1986.
 
@@ -904,7 +904,7 @@ Application of old rules to certain debt.—In the case of debt of a corporation
 
 &emsp;"(D)
 
-Special rule for oil and gas well drilling business.—In the case of a Texas corporation incorporated on July 23, 1935, in applying section 382 of the Internal Revenue Code of 1986 (as in effect before and after the amendments made by subsections (a), (b), and (c)) to a loan restructuring agreement during 1985, section 382(a)(5)(C) of the Internal Revenue Code of 1954 (as added by the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976) shall be applied as if it were in effect with respect to such restructuring. For purposes of the preceding sentence, in applying section 382 (as so in effect), if a person has a warrant to acquire stock, such stock shall be considered as owned by such person.
+Special rule for oil and gas well drilling business.—In the case of a Texas corporation incorporated on July 23, 1935, in applying section 382 of the Internal Revenue Code of 1986 (as in effect before and after the amendments made by subsections (a), (b), and (c)) to a loan restructuring agreement during1985, section 382(a)(5)(C) of the Internal Revenue Code of 1954 (as added by the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976) shall be applied as if it were in effect with respect to such restructuring. For purposes of the preceding sentence, in applying section 382 (as so in effect), if a person has a warrant to acquire stock, such stock shall be considered as owned by such person.
 
 "(3)
 
@@ -970,7 +970,7 @@ Amendment by Pub. L. 97–34 applicable to any transfer made on or after Jan. 1,
 
 Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396, provided that the amendment made by section 2(b) of Pub. L. 96–589 is to subsec. (b) as in effect before its amendment by section 806 of the Tax Reform Act of 1976, Pub. L. 94–455.
 
-Amendment by Pub. L. 96–589 applicable to transactions which occur after Dec. 31, 1980, other than transactions which occur in a proceeding in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11 commencing on or before Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to transactions occurring after Sept. 30, 1979, in a specified manner, see section 7(a)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 applicable to transactions which occur after Dec. 31, 1980, other thantransactions which occur in a proceeding in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11 commencing on or before Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to transactions occurring after Sept. 30, 1979, in a specified manner, see section 7(a)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 #### Effective Date of 1976 Amendment
 

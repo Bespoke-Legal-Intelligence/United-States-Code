@@ -14,7 +14,7 @@ Every alien applying for a nonimmigrant visa and for alien registration shall ma
 
 #### (d) Other documentary evidence for nonimmigrant visa
 
-Every alien applying for a nonimmigrant visa and alien registration shall furnish to the consular officer, with his application, a certified copy of such documents pertaining to him as may be by regulations required. All nonimmigrant visa applications shall be reviewed and adjudicated by a consular officer.
+Every alien applying for a nonimmigrant visa and alien registration shall furnish to the consular officer, with his application, a certified copy of such documents pertaining to him asmay be by regulations required. All nonimmigrant visa applications shall be reviewed and adjudicated by a consular officer.
 
 #### (e) Signing and verification of application
 
@@ -82,7 +82,7 @@ Notwithstanding any other provision of this chapter, the Secretary of State shal
 
 &emsp;&emsp;(C) is listed in the Consular Lookout and Support System (or successor system at the Department of State);
 
-&emsp;&emsp;(D) is a national of a country officially designated by the Secretary of State as a state sponsor of terrorism, except such nationals who possess nationalities of countries that are not designated as state sponsors of terrorism;
+&emsp;&emsp;(D) is a national of a country officially designated by the Secretary of State as astate sponsor of terrorism, except such nationals who possess nationalities of countries that are not designated as state sponsors of terrorism;
 
 &emsp;&emsp;(E) requires a security advisory opinion or other Department of State clearance, unless such alien is—
 
@@ -146,7 +146,7 @@ Subsec. (e). Pub. L. 99–653, §6(b), as amended by Pub. L. 100–525, §8(e)(2
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–458, title V, §5303, Dec. 17, 2004, 118 Stat. 3736, provided that: "Notwithstanding section 1086 \[Pub. L. 108–458 does not contain a section 1086\] or any other provision of this Act \[see Tables for classification\], sections 5301 and 5302 \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Dec. 17, 2004\]."
+Pub. L. 108–458, title V, §5303, Dec. 17, 2004, 118 Stat. 3736, provided that: "Notwithstanding section 1086 \[Pub. L. 108–458 does not contain a section 1086\] or any other provision of this Act \[see Tables for classification\], sections 5301 and 5302 \[amending this section\]shall take effect 90 days after the date of enactment of this Act \[Dec. 17, 2004\]."
 
 Pub. L. 108–458, title VII, §7219, Dec. 17, 2004, 118 Stat. 3835, provided that: "Notwithstanding any other provision of this Act \[see Tables for classification\], this subtitle \[subtitle B (§§7201–7220) of title VII of Pub. L. 108–458, see Tables for classification\] shall take effect on the date of enactment of this Act \[Dec. 17, 2004\]."
 

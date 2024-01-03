@@ -12,7 +12,7 @@ In this chapter (the Uniform Code of Military Justice):
 
 &emsp;(5) The term "superior commissioned officer" means a commissioned officer superior in rank or command.
 
-&emsp;(6) The term "cadet" means a cadet of the United States Military Academy, the UnitedStates Air Force Academy, or the United States Coast Guard Academy.
+&emsp;(6) The term "cadet" means a cadet of the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy.
 
 &emsp;(7) The term "midshipman" means a midshipman of the United States Naval Academy and any other midshipman on active duty in the naval service.
 
@@ -22,7 +22,7 @@ In this chapter (the Uniform Code of Military Justice):
 
 &emsp;(10) The term "military judge" means a judge advocate designated under section 826(c) of this title (article 26(c)) who is detailed under section 826(a) or section 830a of this title (article 26(a) or 30a).
 
-&emsp;\[(11) Repealed. Pub. L. 109–241, title II, §218(a)(1), July 11, 2006, 120 Stat. 526.\]
+&emsp;(11) The term "military magistrate" means a commissioned officer certified for duty as a military magistrate in accordance with section 826a of this title (article 26a).
 
 &emsp;(12) The term "legal officer" means any commissioned officer of the Navy, Marine Corps, or Coast Guard designated to perform legal duties for a command.
 
@@ -44,11 +44,21 @@ In this chapter (the Uniform Code of Military Justice):
 
 &emsp;(16) The term "national security" means the national defense and foreign relations of the United States.
 
+&emsp;(17) The term "covered offense" means—
+
+&emsp;&emsp;(A) an offense under section 917a (article 117a), section 918 (article 118), section 919 (article 119), section 919a (article 119a), section 920 (article 120), section 920a (article 120a), section 920b (article 120b), section 920c (article 120c), section 925 (article 125), section 928b (article 128b), section 930 (article 130), section 932 (article 132), or the standalone offense of child pornography punishable under section 934 (article 134) of this title;
+
+&emsp;&emsp;(B) a conspiracy to commit an offense specified in subparagraph (A) as punishable under section 881 of this title (article 81);
+
+&emsp;&emsp;(C) a solicitation to commit an offense specified in subparagraph (A) as punishable under section 882 of this title (article 82); or
+
+&emsp;&emsp;(D) an attempt to commit an offense specified in subparagraph (A), (B), or (C) as punishable under section 880 of this title (article 80).
+
+&emsp;(18) The term "special trial counsel" means a judge advocate detailed as a special trial counsel in accordance with section 824a of this title (article 24a) and includes a judge advocate appointed as a lead special trial counsel pursuant to section 1044f(a)(2) of this title.
+
 (Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, §5101, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 115–91, div. A, title X, §1081(a)(21), (c)(1)(A), Dec. 12, 2017, 131 Stat. 1595, 1597; Pub. L. 117–81, div. A, title V, §533, Dec. 27, 2021, 135 Stat. 1695; Pub. L. 117–263, div. A, title V, §541(a)(1), (b)(1), Dec. 23, 2022, 136 Stat. 2579, 2580.)
 
-#### Amendment of Section
-
-<i>Pub. L. 117–263, div. A, title V, §541(a), Dec. 23, 2022, 136 Stat. 2579, provided that, effective immediately after the coming into effect of the amendments made by section 533 of Pub. L. 117–81 (amending this section, see below) and applicable with respect to offenses that occur after that date, paragraph (17)(A) of this section is amended by striking "section 920 (article 120)" and inserting "section 919a (article 119a), section 920 (article 120), section 920a (article 120a)". See 2022 Amendment note below.</i>
+#### Amendment of Paragraph (17)(A)
 
 <i>Pub. L. 117–263, div. A, title V, §541(b), Dec. 23, 2022, 136 Stat. 2580, provided that, effective Jan. 1, 2025, and applicable with respect to offenses that occur after that date, paragraph (17)(A) of this section is amended:</i>
 
@@ -57,28 +67,6 @@ In this chapter (the Uniform Code of Military Justice):
 <i>(2) by striking "of this title" and inserting ", or the standalone offense of sexual harassment punishable under section 934 (article 134) of this title in each instance in which a formal complaint is made and such formal complaint is substantiated in accordance with regulations prescribed by the Secretary concerned".</i>
 
 <i>See 2022 Amendment note below.</i>
-
-<i>Pub. L. 117–81, div. A, title V, §§533, 539C, Dec. 27, 2021, 135 Stat. 1695, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, this section is amended:</i>
-
-<i>(1) by inserting after paragraph (10) the following new paragraph:</i>
-
-&emsp;<i>"(11) The term 'military magistrate' means a commissioned officer certified for duty as a military magistrate in accordance with section 826a of this title (article 26a)."; and</i>
-
-<i>(2) by adding at the end the following new paragraphs:</i>
-
-&emsp;<i>"(17) The term 'covered offense' means—</i>
-
-&emsp;&emsp;<i>"(A) an offense under section 917a (article 117a), section 918 (article 118), section 919 (article 119), section 920 (article 120), section 920b (article 120b), section 920c (article 120c), section 925 (article 125), section 928b (article 128b), section 930 (article 130), section 932 (article 132), or the standalone offense of child pornography punishable under section 934 (article 134) of this title;</i>
-
-&emsp;&emsp;<i>"(B) a conspiracy to commit an offense specified in subparagraph (A) as punishable under section 881 of this title (article 81);</i>
-
-&emsp;&emsp;<i>"(C) a solicitation to commit an offense specified in subparagraph (A) as punishable under section 882 of this title (article 82); or</i>
-
-&emsp;&emsp;<i>"(D) an attempt to commit an offense specified in subparagraph (A), (B), or (C) as punishable under section 880 of this title (article 80).</i>
-
-&emsp;<i>"(18) The term 'special trial counsel' means a judge advocate detailed as a special trial counsel in accordance with section 824a of this title (article 24a) and includes a judge advocate appointed as a lead special trial counsel pursuant to section 1044f(a)(2) of this title."</i>
-
-<i>See 2021 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -168,11 +156,11 @@ Pub. L. 117–263, div. A, title V, §541(b)(2), Dec. 23, 2022, 136 Stat. 2580, 
 
 #### Effective Date of 2021 Amendment
 
-Pub. L. 117–81, div. A, title V, §539C, Dec. 27, 2021, 135 Stat. 1699, provided that:
+Pub. L. 117–81, div. A, title V, §539C, Dec. 27, 2021, 135 Stat. 1699, as amended by Pub. L. 118–31, div. A, title V, §531(c)(2), Dec. 22, 2023, 137 Stat. 259, provided that:
 
 "(a)
 
-In General.—Except as provided in subsection (b), the amendments made by this part \[part 1 (§§531–539C) of subtitle D of title V of div. A of Pub. L. 117–81, enacting sections 824a and 1044f of this title and amending this section and sections 822, 823, 827, 832, 834, 844, 853a, 865 to 867, and 869 of this title\] shall take effect on the date that is two years after the date of the enactment of this Act \[Dec. 27, 2021\] and shall apply with respect to offenses that occur after that date.
+In General.—Except as provided in subsection (b), the amendments made by this part \[part 1 (§§531–539C) of subtitle D of title V of div. A of Pub. L. 117–81, enacting sections 824a and 1044f of this title and amending this section and sections 822, 823, 827, 832, 834, 844, 853a, 865 to 867, and 869 of this title\] shall take effect on the date that is two years after the date of the enactment of this Act \[Dec. 27, 2021\] and, except as provided in section 824a(d) of title 10, United States Code (article 24a(d) of the Uniform Code of Military Justice), shall apply with respect to offenses that occur after that date.
 
 "(b)
 
@@ -184,7 +172,7 @@ Requirement.—The President shall prescribe regulations to carry out this part 
 
 &emsp;"(2)
 
-Impact of delay of issuance.—If the President does not prescribe the regulations necessary to carry out this part before the date that is two years after the date of the enactment of this Act, the amendments made by this part shall take effect on the date on which such regulations are prescribed and shallapply with respect to offenses that occur on or after that date."
+Impact of delay of issuance.—If the President does not prescribe the regulations necessary to carry out this part before the date that is two years after the date of the enactment of this Act, the amendments made by this part shall take effect on the date on which such regulations are prescribed and shall apply with respect to offenses that occur on or after that date."
 
 #### Effective Date of 2017 Amendment
 
@@ -274,7 +262,7 @@ Pub. L. 104–106, div. A, title XI, §1101, Feb. 10, 1996, 110 Stat. 461, provi
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–661, div. A, title VIII, §801(a), Nov. 14, 1986, 100 Stat. 3905, provided that: "This title \[enacting section 850a of this title, amending sections 802, 803, 806, 825, 843, 860, 936, and 937 of this title, and enacting provisions set out as notes under sections 802, 806, 825, 843, 850a, and 860 of this title\] may be cited as the 'Military Justice Amendments of 1986'."
+Pub. L. 99–661, div. A, title VIII, §801(a), Nov. 14, 1986, 100 Stat. 3905, provided that: "This title \[enacting section 850a of this title, amending sections 802, 803, 806,825, 843, 860, 936, and 937 of this title, and enacting provisions set out as notes under sections 802, 806, 825, 843, 850a, and 860 of this title\] may be cited as the 'Military Justice Amendments of 1986'."
 
 #### Short Title of 1983 Amendment
 
@@ -678,7 +666,7 @@ Notice Required.—The Secretary of Defense shall submit to the appropriate cong
 
 Assessments Required.—Prior to any transfer referred to under subsection (a), the Secretary shall ensure that an assessment is conducted as follows:
 
-&emsp;"(1) In the case of the proposed transfer of such an individual by reason of the individual being released, an assessment of the threat posed by the individual and the security environment of the country to which the individual is to be transferred.
+&emsp;"(1) In the case of the proposed transfer of such an individual by reason of the individual being released,an assessment of the threat posed by the individual and the security environment of the country to which the individual is to be transferred.
 
 &emsp;"(2) In the case of the proposed transfer of such an individual to a country other than Afghanistan for the purpose of the prosecution of the individual, an assessment regarding the capacity, willingness, and historical track record of the country with respect to prosecuting similar cases, including a review of the primary evidence against the individual to be transferred and any significant admissibility issues regarding such evidence that are expected to arise in connection with the prosecution of the individual.
 
@@ -744,7 +732,7 @@ Covered Persons.—A covered person under this section is any person as follows:
 
 &emsp;"(1) A person who planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored those responsible for those attacks.
 
-&emsp;"(2) A person who was a part of or substantially supported al-Qaeda, the Taliban, or associated forces that are engaged in hostilities against the United States or its coalition partners, including any person who has committed a belligerent act or has directlysupported such hostilities in aid of such enemy forces.
+&emsp;"(2) A person who was a part of or substantially supported al-Qaeda, the Taliban, or associated forces that are engaged in hostilities against the United States or its coalition partners, including any person who has committed a belligerent act or has directly supported such hostilities in aid of such enemy forces.
 
 "(c)
 
@@ -1178,7 +1166,7 @@ Additional Matters To Be Included in Initial Report.—The first report submitte
 
 &emsp;"(1) A description of the process that was previously used for screening the detainees described by subsection (c)(4) prior to their release or transfer from detention at Naval Station Guantanamo Bay, Cuba.
 
-&emsp;"(2) An assessment of the adequacy of that screening process for reducing the risk that detainees previously released or transferred from Naval Station Guantanamo Bay would return to terrorist activities after release or transfer from Naval Station Guantanamo Bay.
+&emsp;"(2) An assessment of the adequacy of that screening process for reducing the risk that detainees previously released or transferred from Naval Station Guantanamo Bay would return to terrorist activitiesafter release or transfer from Naval Station Guantanamo Bay.
 
 &emsp;"(3) An assessment of lessons learned from previous releases and transfers of individuals who returned to terrorist activities for reducing the risk that detainees released or transferred from Naval Station Guantanamo Bay will return to terrorist activities after their release or transfer."
 
@@ -1256,7 +1244,7 @@ Applicability.—Paragraph (1) applies with respect to any proceeding beginning 
 
 "(c)
 
-Report on Modification of Procedures.—The Secretary of Defense shall submit to the committees specified in subsection (a)(1) a report on any modification of the procedures submitted under subsection (a). Any such report shall be submitted not later than 60days before the date on which such modification goes into effect.
+Report on Modification of Procedures.—The Secretary of Defense shall submit to the committees specified in subsection (a)(1) a report on any modification of the procedures submitted under subsection (a). Any such report shall be submitted not later than 60 days before the date on which such modification goes into effect.
 
 "(d)
 
@@ -1494,7 +1482,7 @@ Respondent.—The Secretary of Defense shall be the named respondent in any appe
 
 "(f)
 
-Construction.—Nothing in this section shall be construed to confer any constitutional right on analien detained as an enemy combatant outside the United States.
+Construction.—Nothing in this section shall be construed to confer any constitutional right on an alien detained as an enemy combatant outside the United States.
 
 "(g)
 
@@ -1520,7 +1508,7 @@ Required Policies.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall ensure that policies are prescribed regarding procedures for military and civilian personnel of the Department of Defense and contractor personnel of the Department of Defense in Iraq that are intended to ensure that members of the Armed Forces, and all persons acting on behalf of the Armed Forces or within facilities of the Armed Forces, ensure that all personnel of Iraqi military forces who are trained by Department of Defense personnel and contractor personnel of the Department of Defense receive training regarding the international obligations and laws applicable to the humane detention of detainees, including protections afforded under the Geneva Conventions and the Convention Against Torture.
+In general.—The Secretary of Defense shall ensure that policies are prescribed regarding procedures for military and civilian personnel of the Department of Defense and contractor personnel of theDepartment of Defense in Iraq that are intended to ensure that members of the Armed Forces, and all persons acting on behalf of the Armed Forces or within facilities of the Armed Forces, ensure that all personnel of Iraqi military forces who are trained by Department of Defense personnel and contractor personnel of the Department of Defense receive training regarding the international obligations and laws applicable to the humane detention of detainees, including protections afforded under the Geneva Conventions and the Convention Against Torture.
 
 &emsp;"(2)
 
@@ -1598,7 +1586,7 @@ Detainees.—For purposes of this section, the term 'detainee' means a person in
 
 "(a)
 
-Policies Required.—The Secretary of Defense shall ensure that policies are prescribed not later than 150 days after the date of the enactment of this Act \[Oct. 28, 2004\] regarding procedures for Department of Defense personnel and contractor personnel of the Department of Defense intended to ensure that membersof the Armed Forces, and all persons acting on behalf of the Armed Forces or within facilities of the Armed Forces, treat persons detained by the United States Government in a humane manner consistent with the international obligations and laws of the United States and the policies set forth in section 1091(b).
+Policies Required.—The Secretary of Defense shall ensure that policies are prescribed not later than 150 days after the date of the enactment of this Act \[Oct. 28, 2004\] regarding procedures for Department of Defense personnel and contractor personnel of the Department of Defense intended to ensure that members of the Armed Forces, and all persons acting on behalf of the Armed Forces or within facilities of the Armed Forces, treat persons detained by the United States Government in a humane manner consistent with the international obligations and laws of the United States and the policies set forth in section 1091(b).
 
 "(b)
 
@@ -1848,7 +1836,7 @@ Sec. 4. <i>Effect of Determination to Transfer</i>. (a) If a final determination
 
 (b) The Secretary of State, in consultation with the Secretary of Defense, shall be responsible for obtaining appropriate security and humane treatment assurances regarding any detainee to be transferred to another country, and for determining, after consultation with members of the Committee, that it is appropriate to proceed with the transfer.
 
-(c) The Secretary of State shall evaluate humane treatment assurances in all cases, consistent with therecommendations of the Special Task Force on Interrogation and Transfer Policies established by Executive Order 13491 of January 22, 2009.
+(c) The Secretary of State shall evaluate humane treatment assurances in all cases, consistent with the recommendations of the Special Task Force on Interrogation and Transfer Policies established by Executive Order 13491 of January 22, 2009.
 
 Sec. 5. <i>Annual Committee Review</i>. (a) The Committee shall conduct an annual review of sufficiency and efficacy of transfer efforts, including:
 
@@ -1930,69 +1918,55 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13825. 2018 Amendments to the Manual for Courts-Martial, United States
+#### Amendments to the Manual for Courts-Martial, United States
 
-Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided:
+Additions and amendments to the Manual for Courts-Martial, United States, prescribed by Ex. Ord. No. 12473, Apr. 13, 1984, 49 F.R. 17152, were contained in the following:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including chapter 47 of title 10, United States Code (Uniform Code of Military Justice (UCMJ), 10 U.S.C. 801–946), and in order to prescribe amendments to the Manual for Courts-Martial, United States, prescribed by Executive Order 12473 of April 13, 1984, as amended, it is hereby ordered as follows:
+<b>2023</b>—Ex. Ord. No. 14103, July 28, 2023, 88 F.R. 50535.
 
-Section 1. Part II, Part III, and Part IV of the Manual for Courts-Martial, United States, are amended as described in Annex 1, which is attached to and made a part of this order \[not set out in the Code\].
+<b>2022</b>—Ex. Ord. No. 14062, Jan. 26, 2022, 87 F.R. 4763.
 
-Sec. 2. The amendments in Annex 1 shall take effect on the date of this order, subject to the following:
+<b>2018</b>—Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889.
 
-(a) Nothing in Annex 1 shall be construed to make punishable any act done or omitted prior to the date of this order that was not punishable when done or omitted.
+<b>2016</b>—Ex. Ord. No. 13730, May 20, 2016, 81 F.R. 33331; Ex. Ord. No. 13740, Sept. 16, 2016, 81 F.R. 65175.
 
-(b) Nothing in Annex 1 shall be construed to invalidate the prosecution of any offense committed before the date of this order. The maximum punishment for an offense committed before the date of this order shall not exceed the maximum punishment in effect at the time of the commission of such offense.
+<b>2015</b>—Ex. Ord. No. 13696, June 17, 2015, 80 F.R. 35783.
 
-(c) Nothing in Annex 1 shall be construed to invalidate any nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action begun prior to the date of this order, and any such nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action shall proceed in the same manner and with the same effect as if the amendments in Annex 1 had not been prescribed.
+<b>2014</b>—Ex. Ord. No. 13669, June 13, 2014, 79 F.R. 34999.
 
-Sec. 3. (a) Pursuant to section 5542 of the Military Justice Act of 2016 (MJA) \[Pub. L. 114–328, set out as an Effective Date of 2016 Amendment note above\], division E of the National Defense Authorization Act for Fiscal Year 2017, Public Law 114–328, 130 Stat. 2000, 2967 (2016), except as otherwise provided by the MJA or this order, the MJA shall take effect on January 1, 2019.
+<b>2013</b>—Ex. Ord. No. 13643, May 15, 2013, 78 F.R. 29559.
 
-(b) Nothing in the MJA shall be construed to make punishable any act done or omitted prior to January 1, 2019, that was not punishable when done or omitted.
+<b>2011</b>—Ex. Ord. No. 13593, Dec. 13, 2011, 76 F.R. 78451.
 
-(c) Nothing in title LX of the MJA shall be construed to invalidate the prosecution of any offense committed before January 1, 2019. The maximum punishment for an offense committed before January 1, 2019, shall not exceed the maximum punishment in effect at the time of the commission of such offense.
+<b>2010</b>—Ex. Ord. No. 13552, Aug. 31, 2010, 75 F.R. 54263.
 
-(d) Nothing in the MJA shall be construed to invalidate any nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action begun prior to January 1, 2019. Except as otherwise provided in this order, the MJA shall not apply in any case in which charges are referred to trial by court-martial before January 1, 2019. Except as otherwise provided in this order, proceedings in any such case shall be held in the same manner and with the same effect as if the MJA had not been enacted.
+<b>2008</b>—Ex. Ord. No. 13468, July 24, 2008, 73 F.R. 43827.
 
-Sec. 4. The Manual for Courts-Martial, United States, as amended by section 1 of this order, is amended as described in Annex 2, which is attached to and made a part of this order \[not set out in the Code\].
+<b>2007</b>—Ex. Ord. No. 13430, Apr. 18, 2007, 72 F.R. 20213; Ex. Ord. No. 13447, Sept. 28, 2007, 72 F.R. 56179.
 
-Sec. 5. The amendments in Annex 2, including Appendix 12A, shall take effect on January 1, 2019, subject to the following:
+<b>2005</b>—Ex. Ord. No. 13387, Oct. 14, 2005, 70 F.R. 60697.
 
-(a) Nothing in Annex 2 shall be construed to make punishable any act done or omitted prior to January 1, 2019, that was not punishable when done or omitted.
+<b>2004</b>—Ex. Ord. No. 13365, Dec. 3, 2004, 69 F.R. 71333.
 
-(b) Nothing in section 4 of Annex 2 shall be construed to invalidate the prosecution of any offense committed before January 1, 2019. The maximum punishment for an offense committed before January 1, 2019, shall not exceed the maximum punishment in effect at the time of the commission of such offense.
+<b>2002</b>—Ex. Ord. No. 13262, Apr. 11, 2002, 67 F.R. 18773.
 
-(c) Nothing in Annex 2 shall be construed to invalidate any nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action begun prior to January 1, 2019. Except as otherwise provided in this order, the amendments in Annex 2 shall not apply in any case in which charges are referred to trial by court-martial before January 1, 2019. Except as otherwise provided in this order, proceedings in any such case shall be held in the same manner and with the same effect as if such amendments had not been prescribed.
+<b>1999</b>—Ex. Ord. No. 13140, Oct. 6, 1999, 64 F.R. 55115.
 
-Sec. 6. (a) The amendments to Articles 2, 56(d), 58a, and 63 of the UCMJ \[10 U.S.C. 802, 856(d), 858a, 863\] enacted by sections 5102, 5301, 5303, and 5327 of the MJA apply only to cases in which all specifications allege offenses committed on or after January 1, 2019.
+<b>1998</b>—Ex. Ord. No. 13086, May 27, 1998, 63 F.R. 30065.
 
-(b) If the accused is found guilty of a specification alleging the commission of one or more offenses before January 1, 2019, Article 60 of the UCMJ \[10 U.S.C. 860\], as in effect on the date of the earliest offense of which the accused was found guilty, shall apply to the convening authority, in addition to the suspending authority in Article 60a(c) \[10 U.S.C. 860a(c)\] as enacted by the MJA, to the extent that Article 60:
+<b>1995</b>—Ex. Ord. No. 12960, May 12, 1995, 60 F.R. 26647.
 
-(1) requires action by the convening authority on the sentence;
+<b>1994</b>—Ex. Ord. No. 12936, Nov. 10, 1994, 59 F.R. 59075.
 
-(2) permits action by the convening authority on findings;
+<b>1993</b>—Ex. Ord. No. 12888, Dec. 23, 1993, 58 F.R. 69153.
 
-(3) authorizes the convening authority to modify the findings and sentence of a court-martial, dismiss any charge or specification by setting aside a finding of guilty thereto, or change a finding of guilty to a charge or specification to a finding of guilty to an offense that is a lesser included offense of the offense stated in the charge or specification;
+<b>1991</b>—Ex. Ord. No. 12767, June 27, 1991, 56 F.R. 30284.
 
-(4) authorizes the convening authority to order a proceeding in revision or a rehearing; or
+<b>1990</b>—Ex. Ord. No. 12708, Mar. 23, 1990, 55 F.R. 11353.
 
-(5) authorizes the convening authority to approve, disapprove, commute, or suspend a sentence in whole or in part.
+<b>1987</b>—Ex. Ord. No. 12586, Mar. 3, 1987, 52 F.R. 7103.
 
-Sec. 7. The amendment to Article 15 of the UCMJ \[10 U.S.C. 815\] enacted by section 5141 of the MJA shall apply to any nonjudicial punishment imposed on or after January 1, 2019.
+<b>1986</b>—Ex. Ord. No. 12550, Feb. 19, 1986, 51 F.R. 6497.
 
-Sec. 8. The amendments to Articles 32 and 34 of the UCMJ \[10 U.S.C. 832, 834\] enacted by sections 5203 and 5205 of the MJA apply with respect to preliminary hearings conducted and advice given on or after January 1, 2019.
-
-Sec. 9. The amendments to Article 79 of the UCMJ \[10 U.S.C. 879\] enacted by section 5402 of the MJA and the amendments to Appendix 12A to the Manual for Courts-Martial, United States, made by this order apply only to offenses committed on or after January 1, 2019.
-
-Sec. 10. Except as provided by Rule for Courts-Martial 902A, as promulgated by Annex 2, any change to sentencing procedures:
-
-(a) made by Articles 16(c)(2), 19(b), 25(d)(2) and (3), 39(a)(4), 53, 53a, or 56(c) of the UCMJ \[10 U.S.C. 816(c)(2), 819(b), 825(d)(2) and (3), 839(a)(4), 853, 853a, 856(c)\], as enacted by sections 5161, 5163, 5182, 5222, 5236, 5237, and 5301 of the MJA; or
-
-(b) included in Annex 2 in rules implementing those articles, applies only to cases in which all specifications allege offenses committed on or after January 1, 2019.
-
-Sec. 11. The amendments to Article 146 of the UCMJ \[10 U.S.C. 946\] enacted by section 5521 of the MJA and the new Article 146a \[10 U.S.C. 946a\] enacted by section 5522 of the MJA shall take effect on the day after the report for fiscal year 2017 required by Article 146(c) of the UCMJ (as in effect before the MJA's amendments) is submitted in accordance with Article 146(c)(1), but in no event later than December 1, 2018.
-
-Sec. 12. In accordance with Article 33 of the UCMJ \[10 U.S.C. 833\], as amended by section 5204 of the MJA, the Secretary of Defense, in consultation with the Secretary of Homeland Security, will issue nonbinding guidance regarding factors that commanders, convening authorities, staff judge advocates, and judge advocates should take into account when exercising their duties with respect to the disposition of charges and specifications in the interest of justice and discipline under Articles 30 and 34 of the UCMJ \[10 U.S.C. 830, 834\]. That guidance will take into account, with appropriate consideration of military requirements, the principles contained in official guidance of the Attorney General to attorneys for the Federal Government with respect to the disposition of Federal criminal cases in accordance with the principle of fair and evenhanded administration of Federal criminal law.
-
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>1984</b>—Ex. Ord. No. 12484, July 13, 1984, 49 F.R. 28825.
 

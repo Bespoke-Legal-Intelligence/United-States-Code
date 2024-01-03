@@ -22,5 +22,5 @@ Section 1920, Pub. L. 92–513, title I, §110, Oct. 20, 1972, 86 Stat. 955, rel
 
 Section 1921, Pub. L. 92–513, title I, §111, Oct. 20, 1972, 86 Stat. 955; Pub. L. 94–364, title I, §101, July 14, 1976, 90 Stat. 981; Pub. L. 97–331, §2(b), Oct. 15, 1982, 96 Stat. 1619, authorized appropriations to carry out this subchapter for fiscal years 1983, 1984, and 1985.
 
-Section 1922, Pub. L. 92–513, title I, §112, Oct. 20, 1972, 86 Stat. 955, directed Secretary to submit annual reportto President and Congress on progress in carrying out this subchapter and specified contents of report. See section 32510 of Title 49.
+Section 1922, Pub. L. 92–513, title I, §112, Oct. 20, 1972, 86 Stat. 955, directed Secretary to submit annual report to President and Congress on progress in carrying out this subchapter and specified contents of report. See section 32510 of Title 49.
 

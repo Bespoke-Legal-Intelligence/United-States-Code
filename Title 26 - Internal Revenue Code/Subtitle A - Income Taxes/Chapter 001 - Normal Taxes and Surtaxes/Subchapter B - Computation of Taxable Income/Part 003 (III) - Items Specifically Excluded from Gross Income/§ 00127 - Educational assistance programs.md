@@ -22,7 +22,7 @@
 
 #### (3) Principal shareholders or owners
 
-&emsp;Not more than 5 percent of the amounts paid or incurred by the employer for educational assistance during the year may be provided for the class of individuals who are shareholders or owners (or their spouses or dependents), each of whom (on any day of the year) owns more than 5 percent of the stock or of the capital or profits interest in the employer.
+&emsp;Not more than 5 percent of the amounts paid or incurred by the employer for educationalassistance during the year may be provided for the class of individuals who are shareholders or owners (or their spouses or dependents), each of whom (on any day of the year) owns more than 5 percent of the stock or of the capital or profits interest in the employer.
 
 #### (4) Other benefits as an alternative
 
@@ -112,7 +112,7 @@ Subsecs. (d), (e). Pub. L. 107–16, §411(a), redesignated subsec. (e) as (d) a
 
 <b>1999</b>—Subsec. (d). Pub. L. 106–170 substituted "December 31, 2001" for "May 31, 2000".
 
-<b>1997</b>—Subsec. (d). Pub. L. 105–34 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "This section shall not apply to taxable years beginning after May 31, 1997. In the case of any taxable year beginning in 1997, only expenses paid withrespect to courses beginning before July 1, 1997, shall be taken into account in determining the amount excluded under this section."
+<b>1997</b>—Subsec. (d). Pub. L. 105–34 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "This section shall not apply to taxable years beginning after May 31, 1997. In the case of any taxable year beginning in 1997, only expenses paid with respect to courses beginning before July 1, 1997, shall be taken into account in determining the amount excluded under this section."
 
 <b>1996</b>—Subsec. (c)(1). Pub. L. 104–188, §1202(b), in closing provisions, inserted before period at end ", and such term also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree".
 
@@ -204,7 +204,7 @@ Graduate education.—The amendment made by subsection (b) \[amending this secti
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13101(c)(1), Aug. 10, 1993, 107 Stat. 420, provided that: "The amendments made bysubsection (a) \[amending this section and repealing provisions set out below\] shall apply to taxable years ending after June 30, 1992."
+Pub. L. 103–66, title XIII, §13101(c)(1), Aug. 10, 1993, 107 Stat. 420, provided that: "The amendments made by subsection (a) \[amending this section and repealing provisions set out below\] shall apply to taxable years ending after June 30, 1992."
 
 #### Effective Date of 1991 Amendment
 
@@ -290,7 +290,7 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 #### Expedited Procedures for Refunds of Overpayments
 
-Pub. L. 104–188, title I, §1202(c)(3), Aug. 20, 1996, 110 Stat. 1773, provided that: "The Secretary of the Treasury shall establish expedited procedures for the refund of any overpayment of taxes imposed by the Internal Revenue Code of 1986 which is attributable to amounts excluded from gross income during 1995 or 1996 under section 127 of such Code, including procedures waiving the requirement that an employer obtain an employee's signature where the employer demonstrates to the satisfaction of the Secretary that any refund collected by the employer on behalf of the employee will be paid to the employee."
+Pub. L. 104–188, title I, §1202(c)(3), Aug. 20, 1996, 110 Stat. 1773, provided that: "The Secretary of the Treasury shall establish expedited procedures for the refundof any overpayment of taxes imposed by the Internal Revenue Code of 1986 which is attributable to amounts excluded from gross income during 1995 or 1996 under section 127 of such Code, including procedures waiving the requirement that an employer obtain an employee's signature where the employer demonstrates to the satisfaction of the Secretary that any refund collected by the employer on behalf of the employee will be paid to the employee."
 
 #### Special Rule for Certain Taxable Years
 

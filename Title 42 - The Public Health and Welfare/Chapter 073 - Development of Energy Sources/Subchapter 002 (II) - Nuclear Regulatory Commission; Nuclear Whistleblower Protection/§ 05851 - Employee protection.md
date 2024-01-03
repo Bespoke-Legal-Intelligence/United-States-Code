@@ -10,7 +10,7 @@
 
 &emsp;(C) testified before Congress or at any Federal or State proceeding regarding any provision (or proposed provision) of this chapter or the Atomic Energy Act of 1954;
 
-&emsp;(D) commenced, caused to be commenced, or is about to commence or cause to be commenced a proceeding under this chapter or the Atomic Energy Act of 1954, as amended, or aproceeding for the administration or enforcement of any requirement imposed under this chapter or the Atomic Energy Act of 1954, as amended;
+&emsp;(D) commenced, caused to be commenced, or is about to commence or cause to be commenced a proceeding under this chapter or the Atomic Energy Act of 1954, as amended, or a proceeding for the administration or enforcement of any requirement imposed under this chapter or the Atomic Energy Act of 1954, as amended;
 
 &emsp;(E) testified or is about to testify in any such proceeding or;
 
@@ -98,7 +98,7 @@ The provisions of this section shall be prominently posted in any place of emplo
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (g), was in the original "this Act", meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (g), was in the original "this Act", meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 5801 of this title and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsecs. (a)(1) and (g), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification on this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 

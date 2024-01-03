@@ -56,7 +56,7 @@ Amendment by section 8(k) of Pub. L. 100–525 effective as if included in the e
 
 Pub. L. 99–653, §23(e), as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that:
 
-"(1) Except as provided in paragraph (2)(B), the new section 309(a) \[8 U.S.C. 1409(a)\] (as defined in paragraph (4)(A)) shall apply to persons who have not attained 18 years of age as of the date of the enactment of this Act \[Nov. 14, 1986\].
+"(1) Except as provided in paragraph (2)(B), the new section 309(a) \[8 U.S.C. 1409(a)\] (as defined in paragraph (4)(A)) shall apply to persons who have not attained 18years of age as of the date of the enactment of this Act \[Nov. 14, 1986\].
 
 "(2) The old section 309(a) shall apply—
 

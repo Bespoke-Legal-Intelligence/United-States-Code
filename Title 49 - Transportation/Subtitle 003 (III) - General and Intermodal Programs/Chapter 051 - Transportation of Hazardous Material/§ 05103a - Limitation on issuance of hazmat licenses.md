@@ -126,7 +126,7 @@ Contents.—The report shall—
 
 &emsp;&emsp;&emsp;(i) include a list of background checks and other security or threat assessment requirements applicable to transportation workers under Federal laws for which the Department of Homeland Security is responsible and the process by which the Secretary of Homeland Security will determine whether such checks or assessments are equivalent to, or less stringent than, the background check performed under this section; and
 
-&emsp;&emsp;&emsp;(ii) provide an analysis of how the Director plans to reduce or eliminate redundant background checks in a manner that will continue to ensure the highest level of safety and security.
+&emsp;&emsp;&emsp;(ii) provide an analysis of how the Director plans to reduce or eliminate redundantbackground checks in a manner that will continue to ensure the highest level of safety and security.
 
 (h)
 

@@ -14,7 +14,7 @@ Nothing in this chapter—
 
 #### (b) Authority to acquire water rights or rights to property
 
-Only a State, local government, or other non-Federal entity may acquire, under State law, water rights or rights to property with funds made available through section 8212 of this title.
+Only a State, local government, or other non-Federal entity may acquire, under State law,water rights or rights to property with funds made available through section 8212 of this title.
 
 #### (c) State authority
 
@@ -72,7 +72,7 @@ Nothing in this chapter affects the authority, jurisdiction, or responsibility o
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f), is Pub. L.94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (g)(2)(A), (3), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 

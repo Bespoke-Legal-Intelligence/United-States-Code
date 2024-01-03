@@ -4,7 +4,7 @@
 
 #### (1) Policies and procedures
 
-&emsp;In order to enhance the efforts of the United States to prevent trafficking in persons, the Secretary of Homeland Security, in conjunction with the Secretary of State, the Attorney General, and the Secretary of Health and Human Services, shall develop policies and procedures to ensure that unaccompanied alien children in the United States are safely repatriated to their country of nationality or of last habitual residence.
+&emsp;In order to enhance the efforts of the United States to prevent trafficking in persons, the Secretary of Homeland Security, in conjunction with the Secretary of State, the AttorneyGeneral, and the Secretary of Health and Human Services, shall develop policies and procedures to ensure that unaccompanied alien children in the United States are safely repatriated to their country of nationality or of last habitual residence.
 
 #### (2) Special rules for children from contiguous countries
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;An immigration officer who finds an unaccompanied alien child described in subparagraph (A) at a land border or port of entry of the United States and determines that such child is inadmissible under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) may—
 
-&emsp;&emsp;&emsp;(i) permit such child to withdraw the child's application for admission pursuantto section 235(a)(4) of the Immigration and Nationality Act (8 U.S.C. 1225(a)(4)); and
+&emsp;&emsp;&emsp;(i) permit such child to withdraw the child's application for admission pursuant to section 235(a)(4) of the Immigration and Nationality Act (8 U.S.C. 1225(a)(4)); and
 
 &emsp;&emsp;&emsp;(ii) return such child to the child's country of nationality or country of last habitual residence.
 
@@ -88,7 +88,7 @@
 
 #### (2) Notification
 
-&emsp;Each department or agency of the Federal Government shall notify the Department ofHealth and Human services <sup>1</sup> within 48 hours upon—
+&emsp;Each department or agency of the Federal Government shall notify the Department of Health and Human services <sup>1</sup> within 48 hours upon—
 
 &emsp;&emsp;(A) the apprehension or discovery of an unaccompanied alien child; or
 
@@ -122,7 +122,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the requirements of subparagraph (B), an unaccompanied alien child may not be placed with a person or entity unless the Secretary of Health and Human Services makes a determination that the proposed custodian is capable of providing for the child's physical and mental well-being. Such determination shall, at a minimum, include verification of the custodian's identity and relationship to the child, if any, as well as an independent finding that the individual has not engaged in any activity that would indicate a potential risk to the child.
+&emsp;&emsp;Subject to the requirements of subparagraph (B), an unaccompanied alien child may not be placed with a person or entityunless the Secretary of Health and Human Services makes a determination that the proposed custodian is capable of providing for the child's physical and mental well-being. Such determination shall, at a minimum, include verification of the custodian's identity and relationship to the child, if any, as well as an independent finding that the individual has not engaged in any activity that would indicate a potential risk to the child.
 
 #### (B) Home studies
 
@@ -176,7 +176,7 @@
 
 #### (iii) Contribution of funds
 
-&emsp;&emsp;&emsp;A child advocate program selected under this section shall contribute non-Federal funds, either directly or through in-kind contributions, to the costs of the child advocate program in an amount that is not less than 25 percent of the total amount of Federal funds received by the child advocate program under this section. In-kind contributions may not exceed 40 percent of the matching requirement under this clause.
+&emsp;&emsp;&emsp;A child advocate program selected under this section shall contribute non-Federalfunds, either directly or through in-kind contributions, to the costs of the child advocate program in an amount that is not less than 25 percent of the total amount of Federal funds received by the child advocate program under this section. In-kind contributions may not exceed 40 percent of the matching requirement under this clause.
 
 #### (D) Annual report to Congress
 
@@ -248,7 +248,7 @@
 
 #### (5) State courts acting in loco parentis
 
-&emsp;A department or agency of a State, or an individual or entity appointed by a State court or juvenile court located in the United States, acting in loco parentis, shall not be considered a legal guardian for purposes of this section or section 279 of title 6.
+&emsp;A department or agency of a State, or an individual or entity appointed by a State courtor juvenile court located in the United States, acting in loco parentis, shall not be considered a legal guardian for purposes of this section or section 279 of title 6.
 
 #### (6) Transition rule
 

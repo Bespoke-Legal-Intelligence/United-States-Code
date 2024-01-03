@@ -28,7 +28,7 @@
 
 &emsp;Any funds appropriated annually under this section in excess of an amount equal to the amount appropriated under section 343(d) of this title, for the fiscal year ending September 30, 1978, for eligible institutions, shall be distributed as follows:
 
-&emsp;&emsp;(A) A sum equal to 4 per centum of the total amount appropriated each fiscal year under this section shall be allotted to the National Institute of Food and Agriculture of the Department of Agriculture for administrative, technical, and other services, and for coordinating the extension work of theDepartment of Agriculture and the several States.
+&emsp;&emsp;(A) A sum equal to 4 per centum of the total amount appropriated each fiscal year under this section shall be allotted to the National Institute of Food and Agriculture of the Department of Agriculture for administrative, technical, and other services, and for coordinating the extension work of the Department of Agriculture and the several States.
 
 &emsp;&emsp;(B) Except as provided in paragraph (4), of the remainder, 20 per centum shall be allotted among the eligible institutions in equal proportions; 40 per centum shall be allotted among the eligible institutions in the proportion that the rural population of the State in which each eligible institution is located bears to the total rural population of all the States in which eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated; and the balance shall be allotted among the eligible institutions in the proportion that the farm population of the State in which each eligible institution is located bears to the total farm population of all the States in which the eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated.
 
@@ -60,7 +60,7 @@
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;Clause (i) shall apply only if amounts are appropriated under this section in an amount sufficient to provide that each other eligible institution receiving an allocation of funds under this section for fiscal year 2019, 2020, 2021, or 2022, as applicable, receives not less than the amount of funds received by that other eligible institution under this section for the preceding fiscal year.
+&emsp;&emsp;&emsp;Clause (i) shall apply only if amounts are appropriated under this section in an amount sufficient to provide that each other eligible institution receiving an allocation of funds under this section for fiscal year 2019, 2020, 2021, or 2022, as applicable,receives not less than the amount of funds received by that other eligible institution under this section for the preceding fiscal year.
 
 #### (C) Subsequent fiscal years
 
@@ -94,7 +94,7 @@ The State director of the cooperative extension service and the extension admini
 
 #### (1) Ascertainment of entitlement
 
-&emsp;On or about the first day of October in each year after September 29, 1977, the Secretary shall ascertain whether each eligible institution is entitled to receive its share of the annual appropriation for extension work underthis section and the amount which it is entitled to receive. Before the funds herein provided shall become available to any eligible institution for any fiscal year, plans for the work to be carried out under this section shall be submitted, as part of the State plan of work, and approved by the Secretary.
+&emsp;On or about the first day of October in each year after September 29, 1977, the Secretary shall ascertain whether each eligible institution is entitled to receive its share of the annual appropriation for extension work under this section and the amount which it is entitled to receive. Before the funds herein provided shall become available to any eligible institution for any fiscal year, plans for the work to be carried out under this section shall be submitted, as part of the State plan of work, and approved by the Secretary.
 
 #### (2) Time and manner of payment; related reports
 
@@ -154,7 +154,7 @@ Subsec. (b)(1). Pub. L. 115–334, §7115(a)(4), added par. (1). Former par. (1)
 
 Pub. L. 115–334, §7115(a)(3), substituted "were allocated" for "are allocated" and ", as so designated as of that date." for "; and".
 
-Subsec. (b)(2). Pub. L. 115–334, §7115(a)(4), redesignated par. (1) as (2), inserted heading, and substituted"Any funds" for "any funds". Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 115–334, §7115(a)(4), redesignated par. (1) as (2), inserted heading, and substituted "Any funds" for "any funds". Former par. (2) redesignated (3).
 
 Subsec. (b)(2)(B). Pub. L. 115–334, §7115(a)(2)(A), substituted "Except as provided in paragraph (4), of the remainder" for "Of the remainder".
 
@@ -182,7 +182,7 @@ Subsec. (b)(2)(A). Pub. L. 110–246, §7511(c)(12), substituted "National Insti
 
 Subsec. (f). Pub. L. 110–246, §7404(b)(2)(A)(i), struck out "under penalty indicia: <i>Provided</i>, That each item shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe" after "United States".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171 inserted subsec. heading, designated first, third, fourth, and fifth sentences as pars. (1) to (4), respectively, inserted headings, struck out "Beginning with the fiscal year ending September 30, 1979, and ending with the fiscal year ending September 30, 1981, there shall be appropriated under this section for each fiscal year an amount not less than 4 per centum of the total appropriations for such year under the Act of May 8, 1914 (38 Stat. 372–374, as amended; 7 U.S.C. 341–349): <i>Provided</i>, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available for the fiscal year ending September 30, 1978, to such eligible institutions under section 3(d) of the Act of May 8, 1914 (38 Stat. 373, as amended; 7 U.S.C. 343(d)." after "(hereinafter in this section referred to as 'eligible institutions')." in par. (1), and substituted "Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 15 percent" for "Beginning with the fiscal year ending September 30, 1982, there shall be appropriated under this section an amount not less than 5½ per centum, and for each fiscal year thereafter an amount not less than 6 per centum" in par. (2).
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 inserted subsec. heading, designated first, third, fourth, and fifth sentences as pars. (1) to (4), respectively, inserted headings, struck out "Beginning with the fiscal year ending September 30, 1979, and ending with the fiscal year ending September 30, 1981, there shall be appropriated under this section for each fiscal year an amount not less than 4 per centum of the total appropriations for such year under the Act of May 8, 1914 (38 Stat. 372–374, as amended; 7 U.S.C. 341–349): <i>Provided</i>, That theamount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available for the fiscal year ending September 30, 1978, to such eligible institutions under section 3(d) of the Act of May 8, 1914 (38 Stat. 373, as amended; 7 U.S.C. 343(d)." after "(hereinafter in this section referred to as 'eligible institutions')." in par. (1), and substituted "Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 15 percent" for "Beginning with the fiscal year ending September 30, 1982, there shall be appropriated under this section an amount not less than 5½ per centum, and for each fiscal year thereafter an amount not less than 6 per centum" in par. (2).
 
 <b>1998</b>—Pub. L. 105–185, §226(c)(2)(A), substituted "University" for "Institute" in section catchline.
 

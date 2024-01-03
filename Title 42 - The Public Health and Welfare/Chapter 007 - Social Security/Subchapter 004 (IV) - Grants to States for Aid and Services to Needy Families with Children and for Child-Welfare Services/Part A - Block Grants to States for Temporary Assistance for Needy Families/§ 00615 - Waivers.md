@@ -10,7 +10,7 @@
 
 #### (B) Financing limitation
 
-&emsp;&emsp;Notwithstanding any other provision of law, beginning with fiscal year 1996, a Stateoperating under a waiver described in subparagraph (A) shall be entitled to payment under section 603 of this title for the fiscal year, in lieu of any other payment provided for in the waiver.
+&emsp;&emsp;Notwithstanding any other provision of law, beginning with fiscal year 1996, a State operating under a waiver described in subparagraph (A) shall be entitled to payment under section 603 of this title for the fiscal year, in lieu of any other payment provided for in the waiver.
 
 #### (2) Waivers granted subsequently
 

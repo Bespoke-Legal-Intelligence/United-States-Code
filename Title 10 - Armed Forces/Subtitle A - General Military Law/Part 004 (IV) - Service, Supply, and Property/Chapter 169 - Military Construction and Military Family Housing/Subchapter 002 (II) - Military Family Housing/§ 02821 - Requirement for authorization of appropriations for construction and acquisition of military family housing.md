@@ -1,6 +1,6 @@
 ### §2821. Requirement for authorization of appropriations for construction and acquisition of military family housing
 
-(a) Except as provided in subsection (b), funds may not be appropriated for the construction,acquisition, leasing, addition, extension, expansion, alteration, relocation, or operation and maintenance of family housing under the jurisdiction of the Department of Defense unless the appropriation of such funds has been authorized by law.
+(a) Except as provided in subsection (b), funds may not be appropriated for the construction, acquisition, leasing, addition, extension, expansion, alteration, relocation, or operation and maintenance of family housing under the jurisdiction of the Department of Defense unless the appropriation of such funds has been authorized by law.
 
 (b) In addition to the funds authorized to be appropriated by law in any fiscal year for the purposes described in subsection (a), there are authorized to be appropriated such additional sums as may be necessary for increases in salary, pay, retirement, and other employee benefits authorized by law for civilian employees of the Department of Defense whose compensation is provided for by funds appropriated for the purposes described in such subsection.
 
@@ -35,6 +35,128 @@ Subsec. (d). Pub. L. 99–167 added subsec. (d).
 #### Effective Date
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
+
+#### Inclusion of Questions Regarding Military Housing for Members of the Armed Forces in Status of Forces Survey
+
+Pub. L. 118–31, div. B, title XXVIII, §2824, Dec. 22, 2023, 137 Stat. 752, provided that: "The Secretary of Defense shall include, at a minimum, in each status of forces survey of the Department of Defense conducted on or after the date of the enactment of this Act \[Dec. 22, 2023\] questions specifically relating to the following:
+
+&emsp;"(1) Overall satisfaction with current military housing of members of the Armed Forces.
+
+&emsp;"(2) Satisfaction of such members with the physical condition of such military housing.
+
+&emsp;"(3) Satisfaction of such members with the affordability of such military housing.
+
+&emsp;"(4) Whether such military housing of such members has impacted any decision of such a member related to reenlistment in the Armed Forces."
+
+#### Pilot Program for Military Construction Projects To Replace Certain Covered Military Unaccompanied Housing Facilities
+
+Pub. L. 118–31, div. B, title XXVIII, §2835, Dec. 22, 2023, 137 Stat. 758, provided that:
+
+"(a)
+
+In General.—Each Secretary of a military department may carry out a pilot program under which each such Secretary administers a military construction project, not otherwise authorized by law, to replace a covered military unaccompanied housing facility—
+
+&emsp;"(1) that such Secretary determines is not in compliance with the uniform standards for covered military unaccompanied housing under section 2856b of title 10, United States Code (as added by section 2832); and
+
+&emsp;"(2) for which the total cost of a repair project to bring such covered military unaccompanied facility into compliance with such uniform standards exceeds 75 percent of the total cost of such a military construction project.
+
+"(b)
+
+Facility Requirements.—A facility constructed pursuant to a military construction project under a pilot program under subsection (a)—
+
+&emsp;"(1) with respect to the covered military unaccompanied housing facility such facility replaces—
+
+&emsp;&emsp;"(A) may not have a capacity to house more members of the Armed Forces;
+
+&emsp;&emsp;"(B) shall be designed and utilized for the same purpose; and
+
+&emsp;&emsp;"(C) shall be located on the same military installation; and
+
+&emsp;"(2) shall be designed to meet, at a minimum, standards for construction, utilization, and force protection.
+
+"(c)
+
+Nondelegation.—For the purposes of carrying out a military construction project under a pilot program under subsection (a), the authority of a Secretary of a military department to determine whether a covered military unaccompanied housing facility is in substandard condition may not be delegated.
+
+"(d)
+
+Source of Funds.—A Secretary of a military department may spend amounts available to such Secretary for operation and maintenance or unspecified military construction to carry out this section.
+
+"(e)
+
+Congressional Notification.—With respect to a military construction project proposed to be carried out under a pilot program under subsection (a) with an estimated cost in excess of $10,000,000, the Secretary of the military department concerned shall submit to the appropriate committees of Congress a report that includes—
+
+&emsp;"(1) a justification for such military construction project;
+
+&emsp;"(2) an estimate of the total cost of such military construction project; and
+
+&emsp;"(3) a description of the elements of military construction, including the elements specified in section 2802(b) of title 10, United States Code, incorporated into such military construction project.
+
+"(f)
+
+Sunset.—The authority to carry out a pilot program pursuant to subsection (a) shall terminate on the date that is five years after the date of the enactment of this Act \[Dec. 22, 2023\].
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate committees of Congress' has the meaning given such term in section 2801 of title 10, United States Code.
+
+&emsp;"(2) The term 'covered military unaccompanied housing' has the meaning given such term in section 2856 of such title (as amended by section 2831)."
+
+#### Pilot Program To Provide Air Purification Technology in Covered Military Housing
+
+Pub. L. 118–31, div. B, title XXVIII, §2873, Dec. 22, 2023, 137 Stat. 777, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense may carry out a pilot program to—
+
+&emsp;"(1) provide commercially available off-the-shelf items (as defined in section 104 of title 41, United States Code) for air purification and covered sensors to landlords; and
+
+&emsp;"(2) monitor and measure the effect of such items on the environmental health and public health of tenants of covered military housing.
+
+"(b)
+
+Selection of Installations.—
+
+&emsp;"(1)
+
+In general.—The Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force shall each select one military installation under the jurisdiction of such Secretary to carry out any pilot program carried out under this section.
+
+&emsp;"(2)
+
+Considerations.—Each Secretary shall ensure that the military installation selected under this section contains military unaccompanied housing in which the items described in subsection (a) may be used.
+
+"(c)
+
+Devices.—An air purification item or a covered sensor provided under this section shall use technology proven to reduce indoor air risks and yield measurable environmental health and public health outcomes.
+
+"(d)
+
+Briefing.—Not later than 365 days after the date on which a pilot program is commenced under this section, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force shall each provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on the pilot program established under this section, including a description of the items described in subsection (a) used under such program. The briefing shall include—
+
+&emsp;"(1) a description of any cost savings identified from use of such items relating to—
+
+&emsp;&emsp;"(A) extending the durability and habitability of covered military housing; and
+
+&emsp;&emsp;"(B) reducing maintenance frequency; and
+
+&emsp;"(2) with respect to cost savings identified in paragraph (1), a plan to expand the use of covered sensors and air purification items in newly constructed covered military housing.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered sensor' means a commercially available off-the-shelf item (as defined in section 104 of title 41, United States Code) manufactured in the United States that detects the conditions for potential mold growth before mold is present.
+
+&emsp;"(2) The term 'covered military housing' means—
+
+&emsp;&emsp;"(A) military unaccompanied housing; and
+
+&emsp;&emsp;"(B) Government-owned units of military housing.
+
+&emsp;"(3) The term 'military unaccompanied housing' has the meaning given in section 2871 of title 10, United States Code."
 
 #### Requirement That Secretary of Defense Implement Recommendations Relating to Military Family Housing Contained in Report by Inspector General of Department of Defense
 
@@ -88,13 +210,13 @@ Tenant information.—As soon as practicable after the completion of the hazard 
 
 #### Process To Identify and Address Environmental Health Hazards in Department of Defense Housing
 
-Pub. L. 116–283, div. B, title XXVIII, §2817, Jan. 1, 2021, 134 Stat. 4329, provided that: "As part of the process developed by the Secretary of Defense pursuant to section 3053 of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1943; 10 U.S.C. 2821 note) \[set out below\] to identify, record, and resolve environmental health hazards in military housing, the Secretary shall promulgate guidance regarding situations in which the presence of mold in a unit of housing under the jurisdiction of the Department of Defense (including privatized military housing) is an emergency situation requiring the relocation of the residents of the unit."
+Pub. L. 116–283, div. B, title XXVIII, §2817, Jan. 1, 2021, 134 Stat. 4329, provided that: "As part of the process developed by the Secretary of Defense pursuant tosection 3053 of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1943; 10 U.S.C. 2821 note) \[set out below\] to identify, record, and resolve environmental health hazards in military housing, the Secretary shall promulgate guidance regarding situations in which the presence of mold in a unit of housing under the jurisdiction of the Department of Defense (including privatized military housing) is an emergency situation requiring the relocation of the residents of the unit."
 
 Pub. L. 116–92, div. B, title XXX, §3053, Dec. 20, 2019, 133 Stat. 1943, provided that:
 
 "(a)
 
-Process Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense, in coordination withthe Secretaries of the military departments, shall develop a process to identify, record, and resolve environmental health hazards in housing under the jurisdiction of the Department of Defense (including privatized housing) in a timely manner.
+Process Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop a process to identify, record, and resolve environmental health hazards in housing under the jurisdiction of the Department of Defense (including privatized housing) in a timely manner.
 
 "(b)
 
@@ -206,7 +328,7 @@ Disqualified Window Covering Defined.—In this section, the term 'disqualified 
 
 #### Repair and Maintenance of Family Housing Units
 
-Pub. L. 117–328, div. J, title I, §119, Dec. 29, 2022, 136 Stat. 4945, provided that: "Notwithstanding any other provision of law, funds made available in this title \[see Tables for classification\] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: <i>Provided</i>, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any generalor flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: <i>Provided further</i>, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year."
+Pub. L. 117–328, div. J, title I, §119, Dec. 29, 2022, 136 Stat. 4945, provided that: "Notwithstanding any other provision of law, funds made available in this title \[see Tables for classification\] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: <i>Provided</i>, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: <i>Provided further</i>, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year."
 
 Similar provisions were contained in the following prior appropriation acts:
 

@@ -62,7 +62,7 @@ Section 2445c of this title, referred to in subsec. (b)(6)(A)(iv), was repealed 
 
 #### Codification
 
-The text of subsec. (a) of section 2334 of this title, which was transferred to this section, redesignated as subsecs. (a) and (b), and amended by Pub. L. 116–283, §1812(b)(1), (2), was based on Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 113–66, div. A, title VIII, §812(c)(1), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, §824(b), Nov. 25, 2015, 129 Stat. 907; Pub. L. 114–328, div. A, title VIII, §§842(a)(1), (2), (b)(1), (2), 846(3), Dec. 23, 2016, 130 Stat.2288, 2289, 2292; Pub. L. 115–91, div. A, title X, §1081(a)(31), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, §902(53), Dec. 20, 2019, 133 Stat. 1549.
+The text of subsec. (a) of section 2334 of this title, which was transferred to this section, redesignated as subsecs. (a) and (b), and amended by Pub. L. 116–283, §1812(b)(1), (2), was based on Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 113–66, div. A, title VIII, §812(c)(1), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, §824(b), Nov. 25, 2015, 129 Stat. 907; Pub. L. 114–328, div. A, title VIII, §§842(a)(1), (2), (b)(1), (2), 846(3), Dec. 23, 2016, 130 Stat. 2288, 2289, 2292; Pub. L. 115–91, div. A, title X, §1081(a)(31), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, §902(53), Dec. 20, 2019, 133 Stat. 1549.
 
 The text of subsec. (h) of section 2334 of this title, which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, §1812(b)(3), was based on Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 114–92, div. A, title X, §1077(a), Nov. 25, 2015, 129 Stat. 998; Pub. L. 114–328, div. A, title VIII, §842(a)(3), Dec. 23, 2016, 130 Stat. 2288.
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 117–263 applicable to contracts entered into on or after 
 
 Amendment by section 1701(c)(1), (d)(5) of Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
 
-Amendment by section 1701(o)(6)(A)(i) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
+Amendment by section 1701(o)(6)(A)(i) of Pub. L. 117–81 applicable as if included in the enactment of titleXVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
 
 #### Effective Date
 

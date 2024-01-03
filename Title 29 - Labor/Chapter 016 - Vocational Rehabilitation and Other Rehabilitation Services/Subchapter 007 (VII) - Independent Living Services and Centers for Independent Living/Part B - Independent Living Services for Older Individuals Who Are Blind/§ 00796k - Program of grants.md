@@ -26,7 +26,7 @@ Beginning with fiscal year 1993, in the case of any fiscal year for which the am
 
 #### (1) In general
 
-&emsp;In the case of any fiscal year for which the amount appropriated under section 796l of this title is equal to or greater than $13,000,000, grants under subsection (a) shall be made only to States and shall be made only from allotments under paragraph (2).
+&emsp;In the case of any fiscal year for which the amount appropriated under section 796l of this title is equal to or greater than $13,000,000,grants under subsection (a) shall be made only to States and shall be made only from allotments under paragraph (2).
 
 #### (2) Allotments
 

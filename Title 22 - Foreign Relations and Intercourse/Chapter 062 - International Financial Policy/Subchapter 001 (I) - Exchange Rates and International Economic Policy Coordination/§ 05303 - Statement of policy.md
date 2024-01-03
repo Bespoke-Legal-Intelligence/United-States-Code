@@ -4,7 +4,7 @@ It is the policy of the United States that—
 
 &emsp;(1) the United States and the other major industrialized countries should take steps to continue the process of coordinating monetary, fiscal, and structural policies initiated in the Plaza Agreement of September 1985;
 
-&emsp;(2) the goal of the United States in international economic negotiations should be toachieve macroeconomic policies and exchange rates consistent with more appropriate and sustainable balances in trade and capital flows and to foster price stability in conjunction with economic growth;
+&emsp;(2) the goal of the United States in international economic negotiations should be to achieve macroeconomic policies and exchange rates consistent with more appropriate and sustainable balances in trade and capital flows and to foster price stability in conjunction with economic growth;
 
 &emsp;(3) the United States, in close coordination with the other major industrialized countries should, where appropriate, participate in international currency markets with the objective of producing more orderly adjustment of foreign exchange markets and, in combination with necessary macroeconomic policy changes, assisting adjustment toward a more appropriate and sustainable balance in current accounts; and
 

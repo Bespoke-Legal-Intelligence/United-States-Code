@@ -12,11 +12,11 @@ In order to assist in increasing the effectiveness and efficiency of administrat
 
 #### (b) Repayment of costs
 
-The Secretary may, to the extent that he finds such action to be necessary, prescribe requirements to assure that any person receiving a fellowship, traineeship, stipend or allowance shall repay the costs thereof to the extent that such person fails to serve in the Federal-State employment security program for the period prescribed by the Secretary. The Secretary may relieve any individual of his obligation to so repay, in whole or in part, whenever and to theextent that such repayment would, in his judgment, be inequitable or would be contrary to the purposes of any of the programs established by this section.
+The Secretary may, to the extent that he finds such action to be necessary, prescribe requirements to assure that any person receiving a fellowship, traineeship, stipend or allowance shall repay the costs thereof to the extent that such person fails to serve in the Federal-State employment security program for the period prescribed by the Secretary. The Secretary may relieve any individual of his obligation to so repay, in whole or in part, whenever and to the extent that such repayment would, in his judgment, be inequitable or would be contrary to the purposes of any of the programs established by this section.
 
 #### (c) Detail of Federal and State employees
 
-The Secretary, with the concurrence of the State, may detail Federal employees to State unemployment compensation administration and the Secretary may concur in the detailing of State employees to the United States Department of Labor for temporary periods for training or for purposes of unemployment compensation administration, and the provisions of section 869b <sup>1</sup> of title 20 or any more general program of interchange enacted by a law amending, supplementing, or replacing section 869b <sup>1</sup> of title 20 shall apply to any such assignment.
+The Secretary, with the concurrence of the State, may detail Federal employees to State unemployment compensation administration and the Secretary may concur in the detailingof State employees to the United States Department of Labor for temporary periods for training or for purposes of unemployment compensation administration, and the provisions of section 869b <sup>1</sup> of title 20 or any more general program of interchange enacted by a law amending, supplementing, or replacing section 869b <sup>1</sup> of title 20 shall apply to any such assignment.
 
 #### (d) Authorization of appropriations
 

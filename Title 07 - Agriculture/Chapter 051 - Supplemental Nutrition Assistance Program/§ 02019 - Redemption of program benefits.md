@@ -32,7 +32,7 @@ Pub. L. 99–198, §1522, inserted ", or which are insured under the Federal Cr
 
 Pub. L. 99–198, §1523(a), inserted sentence providing that no financial institution may impose on or collect from a retail food store a fee or other charge for the redemption of coupons that are submitted to the financial institution in a manner consistent with the requirements, other than any requirements relating to cancellation of coupons, for the presentation of coupons by financial institutions to the Federal Reserve banks.
 
-<b>1981</b>—Pub. L. 97–98 substituted "financial institutions which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation" for "banks" wherever appearing.
+<b>1981</b>—Pub. L. 97–98 substituted "financial institutions which are insured by the Federal Deposit InsuranceCorporation or the Federal Savings and Loan Insurance Corporation" for "banks" wherever appearing.
 
 <b>1980</b>—Pub. L. 96–249 substituted "purchased," for "purchased" and "residents" for "residents," and inserted ", public and private nonprofit shelters that prepare and serve meals for battered women and children" after "programs".
 

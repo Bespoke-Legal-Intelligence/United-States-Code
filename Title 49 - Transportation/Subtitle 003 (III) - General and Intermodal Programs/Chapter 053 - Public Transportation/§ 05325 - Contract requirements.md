@@ -316,7 +316,7 @@ State cooperative procurement schedules.—
 
 Authority.—A State government may enter into a cooperative procurement contract with 1 or more vendors if—
 
-&emsp;&emsp;&emsp;"(i) the vendors agree to provide an option to purchase rolling stock and related equipment to the State government and any other participant; and
+&emsp;&emsp;&emsp;"(i) the vendors agree to provide an option to purchase rolling stock and related equipment tothe State government and any other participant; and
 
 &emsp;&emsp;&emsp;"(ii) the State government acts throughout the term of the contract as the lead procurement agency.
 

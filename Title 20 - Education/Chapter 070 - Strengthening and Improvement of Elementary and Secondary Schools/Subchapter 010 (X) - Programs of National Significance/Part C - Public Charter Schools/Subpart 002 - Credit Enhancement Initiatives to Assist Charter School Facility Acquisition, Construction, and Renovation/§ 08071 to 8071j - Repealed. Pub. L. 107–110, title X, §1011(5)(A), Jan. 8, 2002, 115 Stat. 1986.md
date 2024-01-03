@@ -2,7 +2,7 @@
 
 Section 8071, Pub. L. 89–10, title X, §10321, as added Pub. L. 106–554, §1(a)(1) \[title III, §322(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–57, set forth purpose.
 
-Section 8071a, Pub. L. 89–10, title X, §10322, as added Pub. L. 106–554, §1(a)(1) \[title III, §322(a)(2)\], Dec. 21,2000, 114 Stat. 2763, 2763A–57, related to grants to eligible entities.
+Section 8071a, Pub. L. 89–10, title X, §10322, as added Pub. L. 106–554, §1(a)(1) \[title III, §322(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–57, related to grants to eligible entities.
 
 Section 8071b, Pub. L. 89–10, title X, §10323, as added Pub. L. 106–554, §1(a)(1) \[title III, §322(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–58, related to applications.
 

@@ -32,7 +32,7 @@
 
 #### (b) Application for order; authorization
 
-Applications for a court order under this subchapter are authorized if the President has, by written authorization, empowered the Attorney General to approve applications to the Foreign Intelligence Surveillance Court. Notwithstanding any other provision of law, a judge of the court to whom application is made may grant an order in accordance with section 1824 of this title approving a physical search in the United States of the premises, property, information, or material of a foreign power or an agent of a foreign power for the purpose of collecting foreign intelligence information.
+Applications for a court order under this subchapter are authorized if the President has, by written authorization, empowered the Attorney General to approve applications to the ForeignIntelligence Surveillance Court. Notwithstanding any other provision of law, a judge of the court to whom application is made may grant an order in accordance with section 1824 of this title approving a physical search in the United States of the premises, property, information, or material of a foreign power or an agent of a foreign power for the purpose of collecting foreign intelligence information.
 
 #### (c) Jurisdiction of Foreign Intelligence Surveillance Court
 
@@ -84,7 +84,7 @@ Section effective 90 days after Oct. 14, 1994, with exception for certain physic
 
 Ex. Ord. No. 12949, Feb. 9, 1995, 60 F.R. 8169, as amended by Ex. Ord. No. 13383, §2, July 15, 2005, 70 F.R. 41933; Ex. Ord. No. 13475, §2, Oct. 7, 2008, 73 F.R. 60095, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States, including sections 302 and 303 of the Foreign Intelligence Surveillance Act of 1978 ("Act") (50 U.S.C. 1801, <i>et seq</i>.), as amended by Public Law 103–359 \[50 U.S.C. 1822, 1823\],and in order to provide for the authorization of physical searches for foreign intelligence purposes as set forth in the Act, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States, including sections 302 and 303 of the Foreign Intelligence Surveillance Act of 1978 ("Act") (50 U.S.C. 1801, <i>et seq</i>.), as amended by Public Law 103–359 \[50 U.S.C. 1822, 1823\], and in order to provide for the authorization of physical searches for foreign intelligence purposes as set forth in the Act, it is hereby ordered as follows:
 
 Section 1. Pursuant to section 302(a)(1) of the Act, the Attorney General is authorized to approve physical searches, without a court order, to acquire foreign intelligence information for periods of up to one year, if the Attorney General makes the certifications required by that section.
 

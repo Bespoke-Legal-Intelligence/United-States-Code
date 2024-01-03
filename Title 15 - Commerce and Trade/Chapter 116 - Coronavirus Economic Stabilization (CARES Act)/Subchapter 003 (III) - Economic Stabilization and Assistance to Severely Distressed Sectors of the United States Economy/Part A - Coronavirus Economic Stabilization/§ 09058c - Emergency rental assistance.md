@@ -152,7 +152,7 @@ In this section:
 
 &emsp;&emsp;(B) 1 or more individuals within the household can demonstrate a risk of experiencing homelessness or housing instability; and
 
-&emsp;&emsp;(C) the household is a low-income family (as such term is defined in section 1437a(b) of title 42.
+&emsp;&emsp;(C) the household is a low-income family (as such term is defined in section 1437a(b) of title 42.<sup>2</sup>
 
 #### (3) Inspector general
 
@@ -181,4 +181,6 @@ Section was enacted as part of the American Rescue Plan Act of 2021, and not as 
 Section is comprised of section 3201 of Pub. L. 117–2. Subsec. (h) of section 3201 of Pub. L. 117–2 amended section 9058a of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "this section".</i>
+
+<i><sup>2</sup></i><i> So in original. A closing parenthesis probably should precede the period.</i>
 

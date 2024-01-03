@@ -108,7 +108,7 @@ So much of any sum not allocated under the provisions of this section for any fi
 
 #### (f) Transfer of certain funds
 
-Amounts available under paragraphs (3) and (4) of subsection (a) that are unobligated by theSecretary of the Interior after 3 fiscal years shall be transferred to the Secretary of the department in which the Coast Guard is operating and shall be expended for State recreational boating safety programs under section 13107(a) of title 46.
+Amounts available under paragraphs (3) and (4) of subsection (a) that are unobligated by the Secretary of the Interior after 3 fiscal years shall be transferred to the Secretary of the department in which the Coast Guard is operating and shall be expended for State recreational boating safety programs under section 13107(a) of title 46.
 
 (Aug. 9, 1950, ch. 658, §4, 64 Stat. 432; Pub. L. 91–503, title II, §201, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 94–273, §4(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–369, div. A, title X, §1014(a)(3), July 18, 1984, 98 Stat. 1015; Pub. L. 101–646, title III, §308, Nov. 29, 1990, 104 Stat. 4787; Pub. L. 102–587, title V, §5604(a), Nov. 4, 1992, 106 Stat. 5087; Pub. L. 105–178, title VII, §§7402(b), 7403, June 9, 1998, 112 Stat. 483, 485; Pub. L. 105–206, title IX, §9012(b), July 22, 1998, 112 Stat. 864; Pub. L. 106–74, title IV, §430, Oct. 20, 1999, 113 Stat. 1096; Pub. L. 106–377, §1(a)(2) \[title VI, §605\], Oct. 27, 2000, 114 Stat. 1441, 1441A–85; Pub. L. 106–408, title I, §§121(a), (c), 122(b)–124, Nov. 1, 2000, 114 Stat. 1769, 1772, 1774; Pub. L. 108–88, §9(a), (b), Sept. 30, 2003, 117 Stat. 1126; Pub. L. 108–202, §7(a), (b), Feb. 29, 2004, 118 Stat. 483; Pub. L. 108–224, §6(a), (b), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §6(a), (b), June 30, 2004, 118 Stat. 703; Pub. L. 108–280, §6(a), (b), July 30, 2004, 118 Stat. 881, 882; Pub. L. 108–310, §9(a), (b), Sept. 30, 2004, 118 Stat. 1159; Pub. L. 108–447, div. C, title I, §114(b), Dec. 8, 2004, 118 Stat. 2944; Pub. L. 109–14, §8(a), (b), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §8(a), (b), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §8(a), (b), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §8(a), (b), July 22, 2005, 119 Stat. 404, 405; Pub. L. 109–40, §8(a), (b), July 28, 2005, 119 Stat. 421; Pub. L. 109–59, title X, §10113, Aug. 10, 2005, 119 Stat. 1927; Pub. L. 109–74, title II, §§201, 202, Sept. 29, 2005, 119 Stat. 2031; Pub. L. 109–241, title IX, §901(r)(1), July 11, 2006, 120 Stat. 566; Pub. L. 109–304, §16(c)(1), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 111–68, div. B, §160, Oct. 1, 2009, 123 Stat. 2052; Pub. L. 111–147, title IV, §423(b), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2203(b), Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title II, §203(b), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §123(b), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §203(b), Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title II, §203(b), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title IV, §34002, July 6, 2012, 126 Stat. 842; Pub. L. 113–159, title I, §1103, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1103, May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1103, July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1103, Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1103, Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title X, §10001(b), Dec. 4, 2015, 129 Stat. 1619; Pub. L. 117–58, div. B, title VIII, §28001(a)(1), Nov. 15, 2021, 135 Stat. 886; Pub. L. 117–263, div. K, title CXIII, §11324(a)(1), Dec. 23, 2022, 136 Stat. 4094.)
 
@@ -162,7 +162,7 @@ Pub. L. 114–87, §1103(2), which directed substitution of "December 4, 2015," 
 
 Pub. L. 114–73, §1103(2), which directed substitution of "November 20, 2015," for "October 29, 2015,", could not be executed due to intervening amendment by Pub. L. 114–94, effective Oct. 1, 2015. See Amendment note above and Effective Date of 2015 Amendment note below.
 
-Pub. L. 114–41, §1103(2), substituted "for each fiscal year ending before October 1, 2015, and for the periodbeginning on October 1, 2015, and ending on October 29, 2015," for "for each fiscal year ending before October 1, 2014, and for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+Pub. L. 114–41, §1103(2), substituted "for each fiscal year ending before October 1, 2015, and for the period beginning on October 1, 2015, and ending on October 29, 2015," for "for each fiscal year ending before October 1, 2014, and for the period beginning on October 1, 2014, and ending on July 31, 2015,".
 
 Pub. L. 114–21, §1103(2), substituted "July 31, 2015," for "May 31, 2015,".
 
@@ -206,7 +206,7 @@ Pub. L. 112–5, §203(b)(2), substituted "through 2011," for "through 2010, and
 
 Pub. L. 111–147, §423(b)(1), which directed substitution of "2010 and for the period beginning on October 1, 2010, and ending on December 31, 2010," for "2009," in introductory provisions, was executed by making the substitution for "2009," the first place it appeared.
 
-Subsec. (b)(1)(A). Pub. L. 111–322, §2203(b)(2), substituted "From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2006 through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title." for "From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2006 through 2009 and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law,, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title."
+Subsec. (b)(1)(A). Pub. L. 111–322, §2203(b)(2), substituted "From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2006 through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title." for "From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2006 through 2009 and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law,, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) forthe fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title."
 
 Pub. L. 111–147, §423(b)(2), which directed substitution of "and for the period beginning on October 1, 2010, and ending on December 31, 2010," for "2010,", could not be executed because "2010," did not appear.
 
@@ -278,7 +278,7 @@ Pub. L. 108–202, §7(b), amended heading and text of par. (4) generally, subst
 
 Subsec. (b)(5), (6). Pub. L. 108–310, §9(b)(2), (3), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (c)(6). Pub. L. 108–280, §6(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "$8,333,332 for the period of October 1, 2003, through July 31, 2004;".
+Subsec. (c)(6). Pub. L. 108–280, §6(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows:"$8,333,332 for the period of October 1, 2003, through July 31, 2004;".
 
 Pub. L. 108–263, §6(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "$7,499,999 for the period of October 1, 2003, through June 30, 2004;".
 
@@ -338,7 +338,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 #### Termination Date of 2012 Amendment
 
-Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Effective Date of 2005 Amendments
 
@@ -358,7 +358,7 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respec
 
 #### Transfer of Functions
 
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970,eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

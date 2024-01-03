@@ -46,7 +46,7 @@ Dec. 6, 1945, ch. 557, §303(less (d)(1st sentence related to §302)), 59 Stat. 
 
 31:868(d)(less 1st sentence related to 31:867).
 
-In subsections (a) and (b), the words "on or after December 6, 1945" are omitted as executed. The words "wholly owned or mixed-ownership" are omitted because of section 9101(1) of the revised title.
+In subsections (a) and (b), the words "on or after December 6, 1945" are omitted as executed. The words"wholly owned or mixed-ownership" are omitted because of section 9101(1) of the revised title.
 
 In subsection (a), before clause (1), the word "Before" is substituted for "which are" for clarity. The words "bonds, notes, debentures, and other similar" are omitted as surplus. The words "as have been" are omitted as executed. In clause (1), the words "terms and" are omitted as surplus. The restatement of the source provisions does not affect other existing laws.
 
@@ -58,7 +58,7 @@ In subsection (d)(2), the words "(when the ownership, control, and operation of 
 
 #### 1983 Act
 
-This amends 31:9107(c)(3) and 9108(d)(2) because the National Consumer Cooperative Bank is no longer a mixed-ownership Government corporation. Section396(h)(2) and (3) and (i) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 440) provided that references to the Bank in sections 302 and 303(d)(2d sentence) of the Government Corporation Control Act would be deleted on the day after the Final Government Equity Redemption Date. Section 501(36) of the Act of December 23, 1981 (Pub. L. 97–101, 95 Stat. 1440), provided that the Redemption Date was December 31, 1981.
+This amends 31:9107(c)(3) and 9108(d)(2) because the National Consumer Cooperative Bank is no longer a mixed-ownership Government corporation. Section 396(h)(2) and (3) and (i) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 440) provided that references to the Bank in sections 302 and 303(d)(2d sentence) of the Government Corporation Control Act would be deleted on the day after the Final Government Equity Redemption Date. Section 501(36) of the Act of December 23, 1981 (Pub. L. 97–101, 95 Stat. 1440), provided that the Redemption Date was December 31, 1981.
 
 #### <b>Editorial Notes</b>
 

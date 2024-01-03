@@ -135,7 +135,7 @@
 | [828\.](Subchapter%20004%20%28IV%29%20-%20State%20and%20Municipal%20Water%20Conservation%20Facilities/%C2%A7%2000828%20-%20Facilitation%20of%20development%20and%20construction%20of%20water%20conservation%20facilities%3B%20exemption%20from%20certain%20Federal%20requirements.md) | Facilitation of development and construction of water conservation facilities; exemption from certain Federal requirements. |
 | [828a.](Subchapter%20004%20%28IV%29%20-%20State%20and%20Municipal%20Water%20Conservation%20Facilities/%C2%A7%2000828a%20-%20Definitions.md) | Definitions. |
 | [828b.](Subchapter%20004%20%28IV%29%20-%20State%20and%20Municipal%20Water%20Conservation%20Facilities/%C2%A7%2000828b%20-%20Exemption%20from%20formula%2C%20books%20and%20records%2C%20and%20project%20cost%20statement%20requirements%3B%20annual%20charges.md) | Exemption from formula, books and records, and project cost statement requirements; annual charges. |
-| [828c.](Subchapter%20004%20%28IV%29%20-%20State%20and%20Municipal%20Water%20Conservation%20Facilities/%C2%A7%2000828c%20-%20Applicability%20of%20this%20subchapter.md) | Applicability of this subchapter.<br> |
+| [828c.](Subchapter%20004%20%28IV%29%20-%20State%20and%20Municipal%20Water%20Conservation%20Facilities/%C2%A7%2000828c%20-%20Applicability%20of%20this%20subchapter.md) | Applicability of this subchapter. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

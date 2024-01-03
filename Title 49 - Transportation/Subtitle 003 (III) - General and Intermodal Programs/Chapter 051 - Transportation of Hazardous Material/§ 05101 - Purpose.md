@@ -54,7 +54,7 @@ Pub. L. 105–178, title III, §3001, June 9, 1998, 112 Stat. 338, provided that
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–291, title II, §201, Oct. 11, 1996, 110 Stat. 3453, provided that: "This title \[enacting section 5908 of this title and amending sections 5901 to 5903 and 5905 to5907 of this title\] may be cited as the 'Intermodal Safe Container Transportation Amendments Act of 1996'."
+Pub. L. 104–291, title II, §201, Oct. 11, 1996, 110 Stat. 3453, provided that: "This title \[enacting section 5908 of this title and amending sections 5901 to 5903 and 5905 to 5907 of this title\] may be cited as the 'Intermodal Safe Container Transportation Amendments Act of 1996'."
 
 #### Short Title of 1994 Amendment
 

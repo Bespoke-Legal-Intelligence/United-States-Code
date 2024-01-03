@@ -36,7 +36,7 @@ The Director of the Institute, after consultation with the advisory council for 
 
 &emsp;Support may be provided to a center under paragraph (1) for a period not exceeding 5 years. Such period may be extended for one or more additional periods, each of which may not exceed 5 years, if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period be extended.
 
-(July 1, 1944, ch. 373, title IV, §452E, as added Pub. L. 106–310, div. A, title II, §201, Oct. 17, 2000,114 Stat. 1109; amended Pub. L. 109–482, title I, §103(b)(30), Jan. 15, 2007, 120 Stat. 3688.)
+(July 1, 1944, ch. 373, title IV, §452E, as added Pub. L. 106–310, div. A, title II, §201, Oct. 17, 2000, 114 Stat. 1109; amended Pub. L. 109–482, title I, §103(b)(30), Jan. 15, 2007, 120 Stat. 3688.)
 
 #### <b>Editorial Notes</b>
 

@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) another transaction is entered into during the 60-day period beginning on the date the transaction referred to in clause (i) is closed—
 
-&emsp;&emsp;&emsp;&emsp;(I) which would (but for this subparagraph) cause the requirement of subparagraph (A)(iii) not to be met with respect to the transaction described in clause (i) of this subparagraph,
+&emsp;&emsp;&emsp;&emsp;(I) which would (but for this subparagraph) cause the requirement of subparagraph (A)(iii) not to be met with respectto the transaction described in clause (i) of this subparagraph,
 
 &emsp;&emsp;&emsp;&emsp;(II) which is closed on or before the 30th day after the close of the taxable year in which the transaction referred to in clause (i) occurs, and
 

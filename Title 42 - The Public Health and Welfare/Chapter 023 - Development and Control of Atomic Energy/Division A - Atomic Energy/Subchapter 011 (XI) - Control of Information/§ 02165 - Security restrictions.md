@@ -6,7 +6,7 @@ No arrangement shall be made under section 2051 of this title, no contract shall
 
 #### (b) Employment of personnel; access to Restricted Data
 
-Except as authorized by the Commission or the General Manager upon a determination by the Commission or General Manager that such action is clearly consistent with the national interest, no individual shall be employed by the Commission nor shall the Commission permit any individual to have access to Restricted Data until the Director of the Office of Personnel Management shall have made an investigation and report to the Commission on the character, associations, and loyalty of such individual, and the Commission shall have determined that permitting such person to have access to Restricted Data will not endanger the common defense and security.
+Except as authorized by the Commission or the General Manager upon a determination by the Commission or General Manager that such action is clearly consistent with the national interest, no individual shall be employed by the Commission nor shall the Commission permit any individual to have access to Restricted Data until the Director of the Office of Personnel Management shall have made an investigation and report to the Commission on the character, associations, and loyalty of such individual, andthe Commission shall have determined that permitting such person to have access to Restricted Data will not endanger the common defense and security.
 
 #### (c) Acceptance of investigation and clearance granted by other Government agencies
 
@@ -98,5 +98,5 @@ Report.—(1) Not later than six months after the date of the enactment of this 
 
 #### Transfer of Functions
 
-"Director of the Office of Personnel Management" and "his" substituted for "Civil Service Commission"and "its", respectively, in subsecs. (a) to (d), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+"Director of the Office of Personnel Management" and "his" substituted for "Civil Service Commission" and "its", respectively, in subsecs. (a) to (d), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 

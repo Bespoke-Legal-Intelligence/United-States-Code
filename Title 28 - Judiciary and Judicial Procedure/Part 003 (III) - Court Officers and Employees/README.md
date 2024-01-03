@@ -121,7 +121,7 @@ Covered information.—The term 'covered information'—
 
 &emsp;&emsp;&emsp;"(viii) the full date of birth;
 
-&emsp;&emsp;&emsp;"(ix) information regarding current or future school or day care attendance, including thename or address of the school or day care, schedules of attendance, or routes taken to or from the school or day care by an at-risk individual; or
+&emsp;&emsp;&emsp;"(ix) information regarding current or future school or day care attendance, including the name or address of the school or day care, schedules of attendance, or routes taken to or from the school or day care by an at-risk individual; or
 
 &emsp;&emsp;&emsp;"(x) information regarding the employment location of an at-risk individual, including the name or address of the employer, employment schedules, or routes taken to or from the employer by an at-risk individual; and
 
@@ -245,7 +245,7 @@ Authorization of government agencies to make requests.—
 
 &emsp;&emsp;"(A)
 
-Administrative office of the united states courts.—Upon written request of an at-risk individual described in subparagraphs (A) through (E) of section 5933(4), the Director of the Administrative Office of the United States Courts is authorized to make any notice or request required or authorized by this section on behalf of the at-risk individual. The notice or request shall include information necessary to ensure compliance with thissection, as determined by the Administrative Office of the United States Courts. The Director may delegate this authority under section 602(d) of title 28, United States Code. Any notice or request made under this subsection shall be deemed to have been made by the at-risk individual and comply with the notice and request requirements of this section.
+Administrative office of the united states courts.—Upon written request of an at-risk individual described in subparagraphs (A) through (E) of section 5933(4), the Director of the Administrative Office of the United States Courts is authorized to make any notice or request required or authorized by this section on behalf of the at-risk individual. The notice or request shall include information necessary to ensure compliance with this section, as determined by the Administrative Office of the United States Courts. The Director may delegate this authority under section 602(d) of title 28, United States Code. Any notice or request made under this subsection shall be deemed to have been made by the at-risk individual and comply with the notice and request requirements of this section.
 
 &emsp;&emsp;"(B)
 
@@ -457,7 +457,7 @@ Vulnerability management for certain article i courts.—The functions and suppo
 
 &emsp;"(3)
 
-Technical and conforming amendment.—\[Amended section 604 of Title 28, Judiciary and Judicial Procedure.\]
+Technical and conforming amendment.—\[Amended section 604 of this title.\]
 
 "(b)
 
@@ -475,7 +475,7 @@ In general.—The United States Marshals Service is authorized to expand the cur
 
 &emsp;"(2)
 
-Information sharing.—If any of the activities of the United States Marshals Service uncover information related to threats to individuals other than Federal judges, the United States Marshals Serviceshall, to the maximum extent practicable, share such information with the appropriate Federal, State, and local law enforcement agencies.
+Information sharing.—If any of the activities of the United States Marshals Service uncover information related to threats to individuals other than Federal judges, the United States Marshals Service shall, to the maximum extent practicable, share such information with the appropriate Federal, State, and local law enforcement agencies.
 
 "(c)
 
@@ -519,7 +519,7 @@ In General.—Nothing in this subtitle shall be construed—
 
 "(b)
 
-Protection of Covered Information.—This subtitle shall be broadly construed to favor the protection of the covered information of at-risk individuals and their immediate family members.
+Protection of Covered Information.—This subtitle shall be broadly construed to favor the protectionof the covered information of at-risk individuals and their immediate family members.
 
 #### "SEC. 5938. SEVERABILITY.
 

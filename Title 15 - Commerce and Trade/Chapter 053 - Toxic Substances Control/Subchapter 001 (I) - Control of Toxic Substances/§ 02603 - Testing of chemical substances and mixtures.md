@@ -110,7 +110,7 @@ Tiered testing.—When requiring the development of new information under this s
 
 > &emsp;whichever is later.
 
-(4)(A) If the exemption under paragraph (2) of any person from the requirement to conduct tests and submit information on a chemical substance or mixture is granted on the basis of the fact that information is being developed by one or more persons pursuant to a rule, order, or consent agreement under subsection (a), then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
+(4)(A) If the exemption under paragraph (2) of any person from the requirement to conducttests and submit information on a chemical substance or mixture is granted on the basis of the fact that information is being developed by one or more persons pursuant to a rule, order, or consent agreement under subsection (a), then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
 
 &emsp;(i) to each such person who is developing such information, for a portion of the costs incurred by each such person in complying with such rule, order, or consent agreement, and
 
@@ -172,7 +172,7 @@ Upon the receipt of any information pursuant to a rule, order, or consent agreem
 
 (B)(i) An appointed member may designate an individual to serve on the committee on the member's behalf. Such a designation may be made only with the approval of the applicable appointing authority and only if the individual is from the entity from which the member was appointed.
 
-(ii) No individual may serve as a member of the committee for more than four years in theaggregate. If any member of the committee leaves the entity from which the member was appointed, such member may not continue as a member of the committee, and the member's position shall be considered to be vacant. A vacancy in the committee shall be filled in the same manner in which the original appointment was made.
+(ii) No individual may serve as a member of the committee for more than four years in the aggregate. If any member of the committee leaves the entity from which the member was appointed, such member may not continue as a member of the committee, and the member's position shall be considered to be vacant. A vacancy in the committee shall be filled in the same manner in which the original appointment was made.
 
 (iii) Initial appointments to the committee shall be made not later than the 60th day after January 1, 1977. Not later than the 90th day after such date the members of the committee shall hold a meeting for the selection of a chairperson from among their number.
 
@@ -224,7 +224,7 @@ A person intending to manufacture or process a chemical substance for which noti
 
 &emsp;To promote the development and timely incorporation of new scientifically valid test methods and strategies that are not based on vertebrate animals, the Administrator shall—
 
-&emsp;&emsp;(A) not later than 2 years after June 22, 2016, develop a strategic plan to promote thedevelopment and implementation of alternative test methods and strategies to reduce, refine, or replace vertebrate animal testing and provide information of equivalent or better scientific quality and relevance for assessing risks of injury to health or the environment of chemical substances or mixtures through, for example—
+&emsp;&emsp;(A) not later than 2 years after June 22, 2016, develop a strategic plan to promote the development and implementation of alternative test methods and strategies to reduce, refine, or replace vertebrate animal testing and provide information of equivalent or better scientific quality and relevance for assessing risks of injury to health or the environment of chemical substances or mixtures through, for example—
 
 &emsp;&emsp;&emsp;(i) computational toxicology and bioinformatics;
 

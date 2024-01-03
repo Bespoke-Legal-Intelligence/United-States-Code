@@ -20,7 +20,7 @@ The Secretary shall have the authority under this subchapter to conduct or to re
 
 #### (1) First compliance date
 
-&emsp;The initial regulations promulgated under subsection (a) shall not impose requirementson small tobacco product manufacturers before the later of—
+&emsp;The initial regulations promulgated under subsection (a) shall not impose requirements on small tobacco product manufacturers before the later of—
 
 &emsp;&emsp;(A) the end of the 2-year period following the final promulgation of such regulations; and
 

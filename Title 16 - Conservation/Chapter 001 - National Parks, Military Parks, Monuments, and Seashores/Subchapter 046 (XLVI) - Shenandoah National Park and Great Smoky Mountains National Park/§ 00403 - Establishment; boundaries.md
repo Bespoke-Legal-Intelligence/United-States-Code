@@ -36,7 +36,7 @@ Conditions of Transfer.—
 
 &emsp;"(1)
 
-Protection of the park.—An agreement to transfer pursuant to subsection (a) shall include such provisions for the protection of Shenandoah NationalPark as the Secretary of the Interior considers necessary.
+Protection of the park.—An agreement to transfer pursuant to subsection (a) shall include such provisions for the protection of Shenandoah National Park as the Secretary of the Interior considers necessary.
 
 &emsp;"(2)
 

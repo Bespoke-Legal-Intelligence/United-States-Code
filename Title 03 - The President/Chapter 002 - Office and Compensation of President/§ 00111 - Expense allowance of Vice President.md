@@ -36,7 +36,7 @@ Sec. 2. The temporary official residence of the Vice President shall be adequate
 
 "
 
-Sec. 3. The Secretary of the Navy shall, subject to the supervision and control of the Vice President, provide for the military staffing, utilities (including electrical) for, and the care and maintenance of thegrounds of the temporary official residence of the Vice President and, subject to reimbursement therefor out of funds appropriated for such purposes, provide for the civilian staffing, care, maintenance, repair, improvement, alteration, and furnishing of such residence.
+Sec. 3. The Secretary of the Navy shall, subject to the supervision and control of the Vice President, provide for the military staffing, utilities (including electrical) for, and the care and maintenance of the grounds of the temporary official residence of the Vice President and, subject to reimbursement therefor out of funds appropriated for such purposes, provide for the civilian staffing, care, maintenance, repair, improvement, alteration, and furnishing of such residence.
 
 "
 

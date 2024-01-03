@@ -60,7 +60,7 @@ In this subchapter:
 
 #### (10) Local government
 
-&emsp;The term "local government" means any borough, city, county, parish, town, township,village, or other political subdivision of a State.
+&emsp;The term "local government" means any borough, city, county, parish, town, township, village, or other political subdivision of a State.
 
 #### (11) Malicious cyber command and control
 

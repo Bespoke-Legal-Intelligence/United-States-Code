@@ -64,7 +64,7 @@ Activities for which assistance may be provided under this section are activitie
 
 The authority of the Secretary of Defense to provide assistance under this section terminates at the close of fiscal year 2003.
 
-(Pub. L. 102–484, div. A, title XV, §1505, Oct. 23, 1992, 106 Stat. 2569; Pub. L. 103–160, div. A, title XI, §1182(c)(5), title XVI, §1602, Nov. 30, 1993, 107 Stat. 1772, 1843; Pub. L. 103–337, div. A, title X, §1070(c)(1), title XV, §1501, Oct. 5, 1994, 108 Stat. 2857, 2914; Pub. L. 104–106, div. A, title XIV, §1403, title XV, §1502(c)(2)(B), Feb. 10, 1996, 110 Stat. 489, 507; Pub. L. 104–201, div. A, title XIII, §1301, Sept. 23, 1996, 110 Stat. 2700; Pub. L. 105–85, div. A, title XIII, §1308, Nov. 18, 1997, 111 Stat. 1956; Pub. L. 105–261, div. A, title XV, §1531(b), Oct. 17, 1998, 112 Stat. 2180; Pub. L. 106–65, div. A, title X, §1067(8), title XV, §1505(b), (c), Oct. 5, 1999, 113 Stat. 774, 808; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1201(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–324; Pub. L. 107–107, div. A, title XII, §1203(b), Dec. 28, 2001, 115 Stat. 1246; Pub. L. 107–314, div. A, title XII, §1204(b), Dec. 2, 2002, 116 Stat. 2664.)
+(Pub. L. 102–484, div. A, title XV, §1505, Oct. 23, 1992, 106 Stat. 2569; Pub. L. 103–160, div. A, title XI, §1182(c)(5), title XVI, §1602, Nov. 30, 1993, 107 Stat. 1772, 1843; Pub. L. 103–337, div. A, title X, §1070(c)(1), title XV, §1501, Oct. 5, 1994, 108 Stat. 2857, 2914; Pub. L. 104–106, div. A, title XIV, §1403, title XV, §1502(c)(2)(B), Feb. 10, 1996, 110 Stat. 489, 507; Pub. L. 104–201, div. A, title XIII, §1301, Sept. 23, 1996, 110 Stat. 2700; Pub. L. 105–85, div. A, title XIII, §1308, Nov. 18, 1997, 111 Stat. 1956;Pub. L. 105–261, div. A, title XV, §1531(b), Oct. 17, 1998, 112 Stat. 2180; Pub. L. 106–65, div. A, title X, §1067(8), title XV, §1505(b), (c), Oct. 5, 1999, 113 Stat. 774, 808; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1201(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–324; Pub. L. 107–107, div. A, title XII, §1203(b), Dec. 28, 2001, 115 Stat. 1246; Pub. L. 107–314, div. A, title XII, §1204(b), Dec. 2, 2002, 116 Stat. 2664.)
 
 #### <b>Editorial Notes</b>
 
@@ -138,7 +138,7 @@ Subsec. (d)(3). Pub. L. 103–160, §1602(b)(2), struck out at end "Of such amou
 
 Pub. L. 103–160, §1602(b)(1), substituted "$25,000,000, including funds used for activities of the On-Site Inspection Agency in support of the United Nations Special Commission on Iraq" for "40,000,000".
 
-Subsec. (d)(4). Pub. L. 103–160, §1602(c), struck out par. (4) which read as follows: "Not less than 30 days before obligating any funds to provide assistance under this section, the Secretary of Defense shall transmit to the committees of Congress named in subsection (e)(2) of this section a report on the proposed obligation. Each such report shall specify—
+Subsec. (d)(4). Pub. L. 103–160, §1602(c), struck out par. (4) which read as follows: "Not less than 30 days before obligating any funds to provide assistance under thissection, the Secretary of Defense shall transmit to the committees of Congress named in subsection (e)(2) of this section a report on the proposed obligation. Each such report shall specify—
 
 &emsp;"(A) the account, budget activity, and particular program or programs from which the funds proposed to be obligated are to be derived and the amount of the proposed obligation; and
 

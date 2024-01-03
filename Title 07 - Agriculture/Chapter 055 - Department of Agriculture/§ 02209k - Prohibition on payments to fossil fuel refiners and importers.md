@@ -4,7 +4,7 @@
 
 In General.—The Secretary of Agriculture may not use any funds, facilities, or authorities of the Commodity Credit Corporation or the Department of Agriculture—
 
-&emsp;(1) to provide a payment to a refiner or importer (as those terms are defined in section80.2 of title 40, Code of Federal Regulations (or successor regulations)); or
+&emsp;(1) to provide a payment to a refiner or importer (as those terms are defined in section 80.2 of title 40, Code of Federal Regulations (or successor regulations)); or
 
 &emsp;(2) to otherwise support, directly or indirectly, a refiner or importer (as so defined) in meeting any requirements under—
 

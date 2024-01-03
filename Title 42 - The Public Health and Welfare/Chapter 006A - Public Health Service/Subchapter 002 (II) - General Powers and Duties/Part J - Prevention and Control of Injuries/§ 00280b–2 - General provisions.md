@@ -32,7 +32,7 @@ A prior section 394 of act July 1, 1944, was renumbered section 394A and is clas
 
 <b>1992</b>—Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control" in introductory provisions.
 
-<b>1990</b>—Pub. L. 101–558 amended section generally. Prior to amendment, section read as follows: "By January 1, 1989, the Secretary, through the Director of the Centers for Disease Control, shall prepare and transmit to the Congress a report analyzing the incidence and causes of childhood injuries in the United States and containing recommendations for such legislation with respect to injury control as the Secretary considers appropriate."
+<b>1990</b>—Pub. L. 101–558 amended section generally. Prior to amendment, section read as follows: "By January 1, 1989, the Secretary, through the Director of the Centers for Disease Control, shall prepare and transmit to the Congress a report analyzing the incidence and causes of childhood injuries in the United States and containingrecommendations for such legislation with respect to injury control as the Secretary considers appropriate."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

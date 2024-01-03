@@ -10,7 +10,7 @@ Required Display.—The POW/MIA flag shall be displayed at the locations specifi
 
 &emsp;(1) as the symbol of the Nation's concern and commitment to achieving the fullest possible accounting of Americans who, having been prisoners of war or missing in action, still remain unaccounted for; and
 
-&emsp;(2) as the symbol of the Nation's commitment to achieving the fullest possible accounting for Americans who in the future may become prisoners of war, missing in action, orotherwise unaccounted for as a result of hostile action.
+&emsp;(2) as the symbol of the Nation's commitment to achieving the fullest possible accounting for Americans who in the future may become prisoners of war, missing in action, or otherwise unaccounted for as a result of hostile action.
 
 (c)
 

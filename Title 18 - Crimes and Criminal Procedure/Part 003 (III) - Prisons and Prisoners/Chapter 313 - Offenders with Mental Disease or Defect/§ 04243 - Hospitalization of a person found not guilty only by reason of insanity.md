@@ -22,13 +22,13 @@ Determination and Disposition.—If, after the hearing, the court fails to find 
 
 &emsp;(1) such a State will assume such responsibility; or
 
-&emsp;(2) the person's mental condition is such that his release, or his conditional release under a prescribed regimen of medical, psychiatric, or psychological care or treatment, would not create a substantial risk of bodily injury to another person or serious damage to property of another;
+&emsp;(2) the person's mental condition is such that his release, or his conditional releaseunder a prescribed regimen of medical, psychiatric, or psychological care or treatment, would not create a substantial risk of bodily injury to another person or serious damage to property of another;
 
 > whichever is earlier. The Attorney General shall continue periodically to exert all reasonable efforts to cause such a State to assume such responsibility for the person's custody, care, and treatment.
 
 (f)
 
-Discharge.—When the director of the facility in which an acquitted person is hospitalized pursuant to subsection (e) determines that the person has recovered from his mental disease or defect to such an extent that his release, or his conditional release under a prescribed regimen of medical, psychiatric, or psychological care or treatment, would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person's counsel and to the attorney for the Government. The court shall order the discharge of the acquitted person or, on the motion of the attorney for the Government or on its own motion, shall hold a hearing, conducted pursuant to the provisions of section 4247(d), todetermine whether he should be released. If, after the hearing, the court finds by the standard specified in subsection (d) that the person has recovered from his mental disease or defect to such an extent that—
+Discharge.—When the director of the facility in which an acquitted person is hospitalized pursuant to subsection (e) determines that the person has recovered from his mental disease or defect to such an extent that his release, or his conditional release under a prescribed regimen of medical, psychiatric, or psychological care or treatment, would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person's counsel and to the attorney for the Government. The court shall order the discharge of the acquitted person or, on the motion of the attorney for the Government or on its own motion, shall hold a hearing, conducted pursuant to the provisions of section 4247(d), to determine whether he should be released. If, after the hearing, the court finds by the standard specified in subsection (d) that the person has recovered from his mental disease or defect to such an extent that—
 
 &emsp;(1) his release would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, the court shall order that he be immediately discharged; or
 
@@ -76,7 +76,7 @@ Notice.—The Attorney General shall, by any means reasonably designed to do so,
 
 &emsp;&emsp;(C)
 
-Order.—Upon application of the Attorney General, the court shall order the person transferred to the custody of the Attorney General, unless, pursuant to a hearing under this paragraph, the court finds that the proposed transfer would violate a right of such person under the United States Constitution.
+Order.—Upon application of the Attorney General, the court shall order the person transferred to the custody of the Attorney General, unless, pursuant to a hearing underthis paragraph, the court finds that the proposed transfer would violate a right of such person under the United States Constitution.
 
 &emsp;&emsp;(D)
 

@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 June 11, 1946, ch. 324, §6, 60 Stat. 240.
 
-In subsection (b), the words "is entitled" are substituted for "shall be accorded the right". The word "officers" is omitted as included in "employees" in view of the definition of "employee" in section 2105. The words "With due regard for the convenience and necessity of the parties or their representatives and within a reasonable time" are substituted for "with reasonable dispatch" and "except that due regard shall be had for the convenience and necessity of the parties or their representatives". The prohibition in the last sentence is restated in positive form and the words"This subsection does not" are substituted for "Nothing herein shall be construed either to".
+In subsection (b), the words "is entitled" are substituted for "shall be accorded the right". The word "officers" is omitted as included in "employees" in view of the definition of "employee" in section 2105. The words "With due regard for the convenience and necessity of the parties or their representatives and within a reasonable time" are substituted for "with reasonable dispatch" and "except that due regard shall be had for the convenience and necessity of the parties or their representatives". The prohibition in the last sentence is restated in positive form and the words "This subsection does not" are substituted for "Nothing herein shall be construed either to".
 
 In subsection (c), the words "in any manner or for any purpose" are omitted as surplusage.
 

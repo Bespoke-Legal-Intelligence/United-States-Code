@@ -74,7 +74,7 @@ In carrying out this section, the Secretary shall—
 
 #### (7) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to the Secretary to carry out to completion the construction of the facility under this section—
+&emsp;There are authorized to be appropriated to the Secretary to carry out to completion theconstruction of the facility under this section—
 
 &emsp;&emsp;(A) $295,000,000 for fiscal year 2021;
 

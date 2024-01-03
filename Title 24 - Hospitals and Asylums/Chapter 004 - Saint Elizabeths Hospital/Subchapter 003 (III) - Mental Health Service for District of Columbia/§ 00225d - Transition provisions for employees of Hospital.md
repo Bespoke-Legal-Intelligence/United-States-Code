@@ -6,7 +6,7 @@ Employees of the Hospital directly affected by the assumption of programs and fu
 
 #### (b) Specific number and types of positions; transfer to District employment
 
-(1) The system implementation plan shall prescribe the specific number and types of positions needed by the District government at the end of the service coordination period.
+(1) The system implementation plan shall prescribe the specific number and types of positionsneeded by the District government at the end of the service coordination period.
 
 (2) Notwithstanding section 3503 of title 5, employees of the Hospital shall only be transferred to District employment under the provisions of this section.
 
@@ -14,7 +14,7 @@ Employees of the Hospital directly affected by the assumption of programs and fu
 
 (1) While on the retention list or the District or Federal agency reemployment priority list, the system implementation plan shall provide to Hospital employees a right-of-first-refusal to District employment in positions for which such employees may qualify, (A) created under the system implementation plan in the comprehensive District mental health system, (B) available under the Department of Human Services of the District, and (C) available at the District of Columbia General Hospital.
 
-(2) In accordance with Federal regulations, the Secretary shall establish retention registers ofHospital employees and provide such retention registers to the District government. Employment in positions identified in the system implementation plan under subsection (b) shall be offered to Hospital employees by the District government according to each such employee's relative standing on the retention registers.
+(2) In accordance with Federal regulations, the Secretary shall establish retention registers of Hospital employees and provide such retention registers to the District government. Employment in positions identified in the system implementation plan under subsection (b) shall be offered to Hospital employees by the District government according to each such employee's relative standing on the retention registers.
 
 (3) Employee appeals concerning the retention registers established by the Secretary shall be in accordance with Federal regulations.
 

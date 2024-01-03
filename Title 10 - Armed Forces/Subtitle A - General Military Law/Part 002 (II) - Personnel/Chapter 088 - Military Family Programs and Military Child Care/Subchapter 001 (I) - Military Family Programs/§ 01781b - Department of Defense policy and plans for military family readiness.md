@@ -12,7 +12,7 @@ Purposes.—The purposes of the policy and plans required under subsection (a) a
 
 &emsp;(2) To ensure that support is continuously available to military families in peacetime and in war, as well as during periods of force structure change and relocation of military units.
 
-&emsp;(3) To ensure that the military family readiness programs and activities of the Department of Defense are available to all military families, including military families of members of the regular components and military families of members of the reserve components.
+&emsp;(3) To ensure that the military family readiness programs and activities of the Department of Defense are available to all military families, including military families of members of the regular components, the reserve components, and the Space Force.
 
 &emsp;(4) To make military family readiness an explicit element of applicable Department of Defense plans, programs, and budgeting activities, and that achievement of military family readiness is expressed through Department-wide goals that are identifiable and measurable.
 
@@ -24,7 +24,7 @@ Elements of Policy.—The policy required under subsection (a) shall include the
 
 &emsp;(1) A list of military family readiness programs and activities.
 
-&emsp;(2) Department of Defense-wide goals for military family support, including joint programs, both for military families of members of the regular components and military families of members of the reserve components.
+&emsp;(2) Department of Defense-wide goals for military family support, including joint programs, for military families of members of the regular components, members of the reserve components, and members of the Space Force.
 
 &emsp;(3) Policies on access to military family support programs and activities based on military family populations served and geographical location.
 
@@ -32,11 +32,15 @@ Elements of Policy.—The policy required under subsection (a) shall include the
 
 &emsp;(5) A summary, by fiscal year, of the allocation of funds (including appropriated funds and nonappropriated funds) for major categories of military family readiness programs and activities of the Department of Defense, set forth for each of the military departments and for the Office of the Secretary of Defense.
 
-(Added Pub. L. 110–181, div. A, title V, §581(a), Jan. 28, 2008, 122 Stat. 121; amended Pub. L. 111–383, div. A, title X, §1075(b)(23), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 115–91, div. A, title X, §1051(a)(9), Dec. 12, 2017, 131 Stat. 1560.)
+(Added Pub. L. 110–181, div. A, title V, §581(a), Jan. 28, 2008, 122 Stat. 121; amended Pub. L. 111–383, div. A, title X, §1075(b)(23), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 115–91, div. A, title X,§1051(a)(9), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 118–31, div. A, title XVII, §1722(k)(2), Dec. 22, 2023, 137 Stat. 673.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(3). Pub. L. 118–31, §1722(k)(2)(A), substituted "military families of members of the regular components, the reserve components, and the Space Force" for "military families of members of the regular components and military families of members of the reserve components".
+
+Subsec. (c)(2). Pub. L. 118–31, §1722(k)(2)(B), struck out "both" after "joint programs," and substituted "military families of members of the regular components, members of the reserve components, and members of the Space Force" for "military families of members of the regular components and military families of members of the reserve components".
 
 <b>2017</b>—Subsec. (d). Pub. L. 115–91 struck out subsec. (d). Text read as follows: "Not later than March 1 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the plans required under subsection (a) for the five-fiscal year period beginning with the fiscal year in which the report is submitted. Each report shall include the plans covered by the report and an assessment of the discharge by the Department of Defense of the previous plans submitted under this section."
 

@@ -48,7 +48,7 @@ The Coordinator shall—
 
 &emsp;&emsp;(F) guidelines—
 
-&emsp;&emsp;&emsp;(i) that information should be provided to the National Crime Information Center database operated by the Federal Bureau of Investigation under section 534 of title 28, and any relevant crime information repository of the State involved, relating to—
+&emsp;&emsp;&emsp;(i) that information should be provided to the National Crime Information Center database operated by the Federal Bureau of Investigation under section 534 of title28, and any relevant crime information repository of the State involved, relating to—
 
 &emsp;&emsp;&emsp;&emsp;(I) a law enforcement officer who is seriously injured or killed in the line of duty; or
 
@@ -128,7 +128,7 @@ The Coordinator shall—
 
 #### (d) Cooperation with other agencies
 
-The Coordinator shall cooperate with the Secretary of Homeland Security, the Secretary ofTransportation, the Chairman of the Federal Communications Commission, and appropriate offices of the Department of Justice in carrying out activities under this chapter.
+The Coordinator shall cooperate with the Secretary of Homeland Security, the Secretary of Transportation, the Chairman of the Federal Communications Commission, and appropriate offices of the Department of Justice in carrying out activities under this chapter.
 
 #### (e) Restrictions on Coordinator
 

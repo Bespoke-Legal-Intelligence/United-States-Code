@@ -66,5 +66,5 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 #### Senior Executive Service; Maximum Aggregate Amount Payable, Etc.; Report
 
-Pub. L. 98–168, title III, §301(a), Nov. 29, 1983, 97 Stat. 1112, required Office of Personnel Management to study and, within 12 months after Nov. 29, 1983, submit to each House of Congress a report on effect which 5 U.S.C. 5383(b) (relating to maximum aggregate amount payable to a member of Senior Executive Service in a fiscal year) has had with respect to recruitment, retention, and morale of career appointees in Senior Executive Service.
+Pub. L. 98–168, title III, §301(a), Nov. 29, 1983, 97 Stat. 1112, required Office of Personnel Management to studyand, within 12 months after Nov. 29, 1983, submit to each House of Congress a report on effect which 5 U.S.C. 5383(b) (relating to maximum aggregate amount payable to a member of Senior Executive Service in a fiscal year) has had with respect to recruitment, retention, and morale of career appointees in Senior Executive Service.
 

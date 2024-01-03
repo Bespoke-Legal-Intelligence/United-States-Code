@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) Graduates of the basic officer training program of the commissioned officer corps of the Administration.
 
-&emsp;&emsp;(B) Subject to the approval of the Secretary of Defense, graduates of the military service academies of the United States who otherwise meet the academic standards for enrollment in the training program described in subparagraph (A).
+&emsp;&emsp;(B) Subject to the approval of the Secretary of Defense, graduates of the military service academies of the United States whootherwise meet the academic standards for enrollment in the training program described in subparagraph (A).
 
 &emsp;&emsp;(C) Graduates of the State maritime academies who—
 

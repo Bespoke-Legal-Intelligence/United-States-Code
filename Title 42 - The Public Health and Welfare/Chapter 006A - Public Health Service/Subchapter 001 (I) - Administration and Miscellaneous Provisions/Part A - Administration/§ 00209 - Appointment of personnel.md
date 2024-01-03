@@ -52,7 +52,7 @@ In accordance with regulations, individual scientists, other than commissioned o
 
 #### (h) Aliens
 
-Persons who are not citizens may be employed as consultants pursuant to subsection (f) and may be appointed to fellowships pursuant to subsection (g). Unless otherwise specifically provided, any prohibition in any other Act against the employment of aliens, or against the payment of compensation to them, shall not be applicable in the case of persons employed or appointed pursuant to such subsections.
+Persons who are not citizens may be employed as consultants pursuant to subsection (f) and may be appointed to fellowships pursuant to subsection (g). Unless otherwise specifically provided, any prohibition in any other Act againstthe employment of aliens, or against the payment of compensation to them, shall not be applicable in the case of persons employed or appointed pursuant to such subsections.
 
 #### (i) Civil service appointments by Secretary
 

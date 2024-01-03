@@ -38,7 +38,7 @@
 
 &emsp;(vi) Any health profession performed by officers in the Veterinary Corps of the Army or by officers designated as a veterinary officer.
 
-(3) The amount of constructive service credit credited to an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment as a reserve officer of the Army, Air Force, or Marine Corps in the grade of colonel or as a reserve officer of the Navy in the grade of captain.
+(3) The amount of constructive service credit credited to an officer under this subsection maynot exceed the amount required in order for the officer to be eligible for an original appointment as a reserve officer of the Army, Air Force, or Marine Corps in the grade of colonel or as a reserve officer of the Navy in the grade of captain.
 
 (4) Constructive service credited an officer under this subsection is in addition to any service credited that officer under subsection (a) and shall be credited at the time of the original appointment of the officer or assignment to or designation in an officer category in which advanced education or training or special experience is required.
 
@@ -84,7 +84,7 @@ Subsec. (f). Pub. L. 115–91, §512(a)(2), (4), redesignated subsec. (e) as (f)
 
 Subsec. (g). Pub. L. 115–91, §512(a)(2), redesignated subsec. (f) as (g).
 
-<b>2008</b>—Subsec. (b)(2). Pub. L. 110–181, §512(a), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: "If the Secretary of Defense determines that the number of medical or dental officers serving in an active status in a reserve component of the Army, Navy, or Air Force in grades below major or lieutenant commander is critically below the number needed by such reserve component in such grades, the Secretary of Defense may authorize the Secretary of the military department concerned to credit any person who is receiving an original appointment for service as a medical or dental officer with a period of constructive credit in such amount (in addition to any amount credited such person under subsection (b)) as will result in the grade of such person being that of captain or, in the case of the Navy Reserve, lieutenant."
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–181, §512(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "If the Secretary of Defense determines that the number of medical or dental officers serving in an active status in a reserve component of the Army, Navy, or Air Force in grades below major or lieutenant commander is critically below the number needed by such reserve component in such grades, the Secretary of Defense may authorize the Secretary of the military department concerned to credit any person who is receiving an original appointment for service as a medical or dental officer with a period of constructive credit in such amount (in addition to any amount credited such person under subsection (b)) as will result in the grade of such person being that of captain or, in the case of the Navy Reserve, lieutenant."
 
 Subsec. (b)(3). Pub. L. 110–181, §512(b), substituted "officers covered by paragraph (2)" for "a medical or dental officer".
 

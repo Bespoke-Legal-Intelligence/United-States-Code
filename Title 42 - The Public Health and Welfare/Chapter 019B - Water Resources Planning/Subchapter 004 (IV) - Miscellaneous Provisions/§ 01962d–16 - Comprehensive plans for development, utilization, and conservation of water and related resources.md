@@ -4,7 +4,7 @@
 
 #### (1) Comprehensive plans
 
-&emsp;The Secretary of the Army, acting through the Chief of Engineers, is authorized to cooperate with any State, group of States, non-Federal interest working with a State or group of States, local government, or regional coalition of governmental entities in the preparation of comprehensive plans for the development, utilization, and conservation of the water and related resources of drainage basins, watersheds, or ecosystems located within the boundaries of such State, interest, local government, or entity, including plans to comprehensively address water resources challenges, and to submit to Congress reports and recommendations with respect to appropriate Federal participation in carrying out such plans.
+&emsp;The Secretary of the Army, acting through the Chief of Engineers, is authorized to cooperate with any State, group of States, non-Federal interest working with a State or group of States, local government, or regional coalition of governmental entities in the preparation of comprehensive plans for the development, utilization, and conservation of the water and related resources of drainage basins, watersheds, or ecosystems located within theboundaries of such State, interest, local government, or entity, including plans to comprehensively address water resources challenges, and to submit to Congress reports and recommendations with respect to appropriate Federal participation in carrying out such plans.
 
 #### (2) Technical assistance
 
@@ -54,7 +54,7 @@
 
 #### (d) Annual submission of proposed activities
 
-Concurrent with the President's submission to Congress of the President's request for appropriations for the Civil Works Program for a fiscal year, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of theSenate a report describing the individual activities proposed for funding under subsection (a)(1) for that fiscal year.
+Concurrent with the President's submission to Congress of the President's request for appropriations for the Civil Works Program for a fiscal year, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the individual activities proposed for funding under subsection (a)(1) for that fiscal year.
 
 #### (e) "State" defined
 
@@ -70,7 +70,7 @@ For the purposes of this section, the term "State" means the several States of t
 
 &emsp;Notwithstanding subsection (b)(1) and the limitation in section 2310 of title 33, as applicable pursuant to paragraph (1) of this subsection, the Secretary is authorized to waive the collection of fees for any local government to which assistance is provided under subsection (a) that the Secretary determines is an economically disadvantaged community, as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 (33 U.S.C. 2201 note) (including economically disadvantaged communities located in urban and rural areas).
 
-(Pub. L. 93–251, title I, §22, Mar. 7, 1974, 88 Stat. 20; Pub. L. 94–587, §168, Oct. 22, 1976, 90 Stat. 2936; Pub. L. 96–597, title VI, §605, Dec. 24, 1980, 94 Stat. 3482; Pub. L. 99–662, title IX, §921, Nov. 17, 1986, 100 Stat. 4194; Pub. L. 101–640, title III, §319, Nov. 28, 1990, 104 Stat. 4642; Pub. L. 102–580, title II, §208, Oct. 31, 1992, 106 Stat. 4829; Pub. L. 104–303, title II, §221, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 110–114, title II, §2013, Nov. 8, 2007, 121 Stat. 1075; Pub. L. 113–121, title III, §3015, June 10, 2014, 128 Stat. 1288; Pub. L. 114–322, title I, §§1128, 1129, Dec. 16, 2016, 130 Stat. 1649; Pub. L. 115–270, title I, §1159, Oct. 23, 2018, 132 Stat. 3795; Pub. L. 117–263, div. H, title LXXXI, §8119(a), Dec. 23, 2022, 136 Stat. 3711.)
+(Pub. L. 93–251, title I, §22, Mar. 7, 1974, 88 Stat. 20; Pub. L. 94–587, §168, Oct. 22, 1976, 90 Stat. 2936; Pub. L. 96–597, title VI, §605, Dec. 24, 1980, 94 Stat. 3482; Pub. L. 99–662, title IX, §921, Nov. 17, 1986, 100 Stat. 4194; Pub. L. 101–640, title III, §319, Nov. 28, 1990, 104 Stat. 4642; Pub. L. 102–580, title II, §208, Oct. 31, 1992, 106 Stat. 4829; Pub. L. 104–303, title II, §221, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 110–114, title II, §2013, Nov. 8, 2007, 121 Stat. 1075; Pub. L. 113–121, title III, §3015, June10, 2014, 128 Stat. 1288; Pub. L. 114–322, title I, §§1128, 1129, Dec. 16, 2016, 130 Stat. 1649; Pub. L. 115–270, title I, §1159, Oct. 23, 2018, 132 Stat. 3795; Pub. L. 117–263, div. H, title LXXXI, §8119(a), Dec. 23, 2022, 136 Stat. 3711.)
 
 #### <b>Editorial Notes</b>
 

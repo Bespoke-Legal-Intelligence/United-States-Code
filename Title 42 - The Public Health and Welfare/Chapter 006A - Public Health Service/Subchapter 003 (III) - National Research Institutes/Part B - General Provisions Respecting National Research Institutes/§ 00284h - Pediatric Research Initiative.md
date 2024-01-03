@@ -98,7 +98,7 @@ In making awards under subsection (d)(2) for pediatric research consortia, the D
 
 &emsp;(1) consider pediatric rare diseases or conditions, or those related to birth defects; and
 
-&emsp;(2) conduct or coordinate one or more multisite clinical trials of therapies for, or approaches to, the prevention, diagnosis, or treatment of one or more pediatric rare diseases or conditions.
+&emsp;(2) conduct or coordinate one or more multisite clinical trials of therapies for, or approaches to, the prevention, diagnosis, ortreatment of one or more pediatric rare diseases or conditions.
 
 #### (f) Transfer of funds
 
@@ -122,7 +122,7 @@ Subsec. (d)(2)(A), (E). Pub. L. 114–255, §2071(2), substituted "shall" for "m
 
 <b>2007</b>—Subsec. (c)(1). Pub. L. 110–154 substituted "Eunice Kennedy Shriver National Institute of Child Health and Human Development" for "National Institute of Child Health and Human Development".
 
-Subsecs. (d), (e). Pub. L. 109–482 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sumsas may be necessary for each of the fiscal years 2002 through 2005."
+Subsecs. (d), (e). Pub. L. 109–482 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

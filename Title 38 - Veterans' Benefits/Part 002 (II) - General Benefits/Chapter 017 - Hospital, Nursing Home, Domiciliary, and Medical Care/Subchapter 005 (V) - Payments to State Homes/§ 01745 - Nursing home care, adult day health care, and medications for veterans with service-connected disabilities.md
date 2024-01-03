@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(C) is in need of such drugs and medicines.
 
-&emsp;(3) Any veteran who has been determined by the Secretary to be catastrophically disabled,as defined in section 17.36(e) of title 38, Code of Federal Regulations, or successor regulations, and on whose behalf the Secretary is paying a per diem for nursing home or domiciliary care in a State home under this chapter.
+&emsp;(3) Any veteran who has been determined by the Secretary to be catastrophically disabled, as defined in section 17.36(e) of title 38, Code of Federal Regulations, or successor regulations, and on whose behalf the Secretary is paying a per diem for nursing home or domiciliary care in a State home under this chapter.
 
 (c) Any State home that requests payment or reimbursement for services provided to a veteran under this section shall provide to the Secretary such information as the Secretary considers necessary to identify each individual veteran eligible for payment under such section.
 

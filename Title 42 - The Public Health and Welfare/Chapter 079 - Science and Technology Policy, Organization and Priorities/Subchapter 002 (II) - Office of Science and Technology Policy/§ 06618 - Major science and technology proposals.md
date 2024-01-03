@@ -1,6 +1,6 @@
 ### §6618. Major science and technology proposals
 
-The Director shall identify and provide an annual report to Congress on each major multinational science and technology project, in which the United States is not a participant, which has a total estimated cost greater than $1,000,000,000.
+The Director shall identify and provide an annual report to Congress on each major multinational science and technology project, inwhich the United States is not a participant, which has a total estimated cost greater than $1,000,000,000.
 
 (Pub. L. 94–282, title II, §209, as added Pub. L. 102–245, title V, §502, Feb. 14, 1992, 106 Stat. 24.)
 

@@ -72,7 +72,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 (d)
 
-Withholding Approval.—(1) The Secretary may withhold approval of an application under this subchapter for amounts apportioned under section 47114(c) and (e) of this title for violating an assurance or requirement of this subchapter only if—
+Withholding Approval.—(1) The Secretary may withhold approval of an application underthis subchapter for amounts apportioned under section 47114(c) and (e) of this title for violating an assurance or requirement of this subchapter only if—
 
 &emsp;(A) the Secretary provides the sponsor an opportunity for a hearing; and
 
@@ -286,7 +286,7 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 2000 Amendment
 
@@ -330,5 +330,5 @@ Pub. L. 106–181, title V, §514(d), Apr. 5, 2000, 114 Stat. 144, provided that
 
 #### Compliance With Requirements
 
-Pub. L. 106–181, title VII, §737, Apr. 5, 2000, 114 Stat. 172, provided that: "Notwithstanding any other provision of law, in order to avoid unnecessary duplication of expense and effort, the Secretary \[of Transportation\]may authorize the use, in whole or in part, of a completed environmental assessment or environmental impact study for new construction projects on the air operations area of an airport, if the completed assessment or study was for a project at the airport that is substantially similar in nature to the new project. Any such authorized use shall meet all requirements of Federal law for the completion of such an assessment or study."
+Pub. L. 106–181, title VII, §737, Apr. 5, 2000, 114 Stat. 172, provided that: "Notwithstanding any other provision of law, in order to avoid unnecessary duplication of expense and effort, the Secretary \[of Transportation\] may authorize the use, in whole or in part, of a completed environmental assessment or environmental impact study for new construction projects on the air operations area of an airport, if the completed assessment or study was for a project at the airport that is substantially similar in nature to the new project. Any such authorized use shall meet all requirements of Federal law for the completion of such an assessment or study."
 

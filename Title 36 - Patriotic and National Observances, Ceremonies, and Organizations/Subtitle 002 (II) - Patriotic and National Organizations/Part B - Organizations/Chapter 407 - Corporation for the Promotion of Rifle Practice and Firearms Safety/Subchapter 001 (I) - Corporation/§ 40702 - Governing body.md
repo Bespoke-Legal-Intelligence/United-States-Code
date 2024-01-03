@@ -2,7 +2,7 @@
 
 (a)
 
-Board of Directors.—(1) The board of directors is the governing body of the corporation.The board of directors may adopt bylaws, policies, and procedures for the corporation and may take any other action that it considers necessary for the management and operation of the corporation.
+Board of Directors.—(1) The board of directors is the governing body of the corporation. The board of directors may adopt bylaws, policies, and procedures for the corporation and may take any other action that it considers necessary for the management and operation of the corporation.
 
 (2) The board shall have at least 9 directors.
 

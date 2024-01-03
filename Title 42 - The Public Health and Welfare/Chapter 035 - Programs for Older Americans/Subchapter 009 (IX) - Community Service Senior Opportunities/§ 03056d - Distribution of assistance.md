@@ -40,7 +40,7 @@ The funds appropriated to carry out this subchapter for any fiscal year that rem
 
 #### (A) Up to $35,000,000
 
-&emsp;&emsp;The amount of funds remaining (if any) after the application of paragraph (1), but not to exceed $35,000,000, shall be divided so that 75 percent shall be provided to Stategrantees and 25 percent shall be provided to grantees that operate under this subchapter under national grants from the Secretary.
+&emsp;&emsp;The amount of funds remaining (if any) after the application of paragraph (1), but not to exceed $35,000,000, shall be divided so that 75 percent shall be provided to State grantees and 25 percent shall be provided to grantees that operate under this subchapter under national grants from the Secretary.
 
 #### (B) Over $35,000,000
 

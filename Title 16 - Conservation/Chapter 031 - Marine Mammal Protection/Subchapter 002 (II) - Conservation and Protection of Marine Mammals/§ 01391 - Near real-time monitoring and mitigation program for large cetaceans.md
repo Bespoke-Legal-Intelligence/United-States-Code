@@ -16,7 +16,7 @@ The Program shall—
 
 &emsp;(2) prioritize areas where such impacts are of particular concern;
 
-&emsp;(3) be capable of detecting and alerting ocean users and enforcement agencies of theprobable location of large cetaceans on an actionable real-time basis, including through real-time data whenever possible;
+&emsp;(3) be capable of detecting and alerting ocean users and enforcement agencies of the probable location of large cetaceans on an actionable real-time basis, including through real-time data whenever possible;
 
 &emsp;(4) inform sector-specific mitigation protocols to effectively reduce takes (as defined in section 216.3 of title 50, Code of Federal Regulations, or successor regulations) of large cetaceans;
 

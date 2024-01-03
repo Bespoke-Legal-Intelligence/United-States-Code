@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-From amounts made available to carry out this section, the Attorney General shall makegrants to each State, consistent with State plans for the integration, automation, and accessibility of criminal history records, for use by the State court system to improve the automation and transmittal of criminal history dispositions, records relevant to determining whether a person has been convicted of a misdemeanor crime of domestic violence, court orders, and mental health adjudications or commitments, to Federal and State record repositories in accordance with sections 40912 and 40913 of this title and the National Criminal History Improvement Program.
+From amounts made available to carry out this section, the Attorney General shall make grants to each State, consistent with State plans for the integration, automation, and accessibility of criminal history records, for use by the State court system to improve the automation and transmittal of criminal history dispositions, records relevant to determining whether a person has been convicted of a misdemeanor crime of domestic violence, court orders, and mental health adjudications or commitments, to Federal and State record repositories in accordance with sections 40912 and 40913 of this title and the National Criminal History Improvement Program.
 
 #### (b) Grants to Indian tribes
 

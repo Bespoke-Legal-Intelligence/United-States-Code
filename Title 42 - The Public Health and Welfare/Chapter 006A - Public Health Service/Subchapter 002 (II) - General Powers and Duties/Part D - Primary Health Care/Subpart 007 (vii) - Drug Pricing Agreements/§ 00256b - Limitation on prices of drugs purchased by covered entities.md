@@ -20,7 +20,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (A), in the case of over the counter drugs, the "rebate percentage" shall be determined as if the rebate required under section 1927(c) of the Social Security Act \[42 U.S.C. 1396r–8(c)\] is based on the applicable percentage provided under section 1927(c)(3) of such Act.
+&emsp;&emsp;&emsp;For purposes of subparagraph (A), in the case of over the counter drugs, the "rebatepercentage" shall be determined as if the rebate required under section 1927(c) of the Social Security Act \[42 U.S.C. 1396r–8(c)\] is based on the applicable percentage provided under section 1927(c)(3) of such Act.
 
 #### (ii) "Over the counter drug" defined
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(L) A subsection (d) hospital (as defined in section 1886(d)(1)(B) of the Social Security Act \[42 U.S.C. 1395ww(d)(1)(B)\]) that—
 
-&emsp;&emsp;&emsp;(i) is owned or operated by a unit of State or local government, is a public orprivate non-profit corporation which is formally granted governmental powers by a unit of State or local government, or is a private non-profit hospital which has a contract with a State or local government to provide health care services to low income individuals who are not entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] or eligible for assistance under the State plan under this subchapter;
+&emsp;&emsp;&emsp;(i) is owned or operated by a unit of State or local government, is a public or private non-profit corporation which is formally granted governmental powers by a unit of State or local government, or is a private non-profit hospital which has a contract with a State or local government to provide health care services to low income individuals who are not entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] or eligible for assistance under the State plan under this subchapter;
 
 &emsp;&emsp;&emsp;(ii) for the most recent cost reporting period that ended before the calendar quarter involved, had a disproportionate share adjustment percentage (as determined under section 1886(d)(5)(F) of the Social Security Act \[42 U.S.C. 1395ww(d)(5)(F)\]) greater than 11.75 percent or was described in section 1886(d)(5)(F)(i)(II) of such Act \[42 U.S.C. 1395ww(d)(5)(F)(i)(II)\]; and
 
@@ -110,7 +110,7 @@
 
 #### (C) Criteria
 
-&emsp;&emsp;The Secretary shall make available to all manufacturers of covered outpatient drugs adescription of the criteria for certification under this paragraph.
+&emsp;&emsp;The Secretary shall make available to all manufacturers of covered outpatient drugs a description of the criteria for certification under this paragraph.
 
 #### (D) List of purchasers and dispensers
 
@@ -210,7 +210,7 @@
 
 &emsp;&emsp;&emsp;(iii) The development of more detailed guidance describing methodologies and options available to covered entities for billing covered outpatient drugs to State Medicaid agencies in a manner that avoids duplicate discounts pursuant to subsection (a)(5)(A).
 
-&emsp;&emsp;&emsp;(iv) The establishment of a single, universal, and standardized identification system by which each covered entity site can be identified by manufacturers, distributors, covered entities, and the Secretary for purposes of facilitating the ordering, purchasing, and delivery of covered outpatient drugs under this section, including the processing of chargebacks for such drugs.
+&emsp;&emsp;&emsp;(iv) The establishment of a single, universal, and standardized identification system by which each covered entity site can be identified by manufacturers, distributors, covered entities, and the Secretary for purposes of facilitating the ordering,purchasing, and delivery of covered outpatient drugs under this section, including the processing of chargebacks for such drugs.
 
 &emsp;&emsp;&emsp;(v) The imposition of sanctions, in appropriate cases as determined by the Secretary, additional to those to which covered entities are subject under subsection (a)(5)(D), through one or more of the following actions:
 
@@ -230,7 +230,7 @@
 
 &emsp;&emsp;Regulations promulgated by the Secretary under subparagraph (A) shall—
 
-&emsp;&emsp;&emsp;(i) designate or establish a decision-making official or decision-making body within the Department of Health and Human Services to be responsible for reviewing and finally resolving claims by covered entities that they have been charged pricesfor covered outpatient drugs in excess of the ceiling price described in subsection (a)(1), and claims by manufacturers that violations of subsection (a)(5)(A) or (a)(5)(B) have occurred;
+&emsp;&emsp;&emsp;(i) designate or establish a decision-making official or decision-making body within the Department of Health and Human Services to be responsible for reviewing and finally resolving claims by covered entities that they have been charged prices for covered outpatient drugs in excess of the ceiling price described in subsection (a)(1), and claims by manufacturers that violations of subsection (a)(5)(A) or (a)(5)(B) have occurred;
 
 &emsp;&emsp;&emsp;(ii) establish such deadlines and procedures as may be necessary to ensure that claims shall be resolved fairly, efficiently, and expeditiously;
 
@@ -254,7 +254,7 @@
 
 For covered entities described in subparagraph (M) (other than a children's hospital described in subparagraph (M)), (N), or (O) of subsection (a)(4), the term "covered outpatient drug" shall not include a drug designated by the Secretary under section 360bb of title 21 for a rare disease or condition.
 
-(July 1, 1944, ch. 373, title III, §340B, as added Pub. L. 102–585, title VI, §602(a), Nov. 4, 1992, 106 Stat. 4967; amended Pub. L. 103–43, title XX, §2008(i)(1)(A), June 10, 1993, 107 Stat. 212; Pub. L. 111–148, title II, §2501(f)(1), title VII, §§7101(a)–(d), 7102, Mar. 23, 2010, 124 Stat. 309, 821–823; Pub. L. 111–152, title II, §2302, Mar. 30, 2010, 124 Stat. 1082; Pub. L. 111–309, title II, §204(a)(1), Dec. 15, 2010, 124 Stat. 3289.)
+(July 1, 1944, ch. 373, title III, §340B, as added Pub. L. 102–585, title VI, §602(a), Nov. 4, 1992, 106 Stat. 4967; amended Pub. L. 103–43, title XX, §2008(i)(1)(A), June 10, 1993, 107 Stat. 212; Pub. L.111–148, title II, §2501(f)(1), title VII, §§7101(a)–(d), 7102, Mar. 23, 2010, 124 Stat. 309, 821–823; Pub. L. 111–152, title II, §2302, Mar. 30, 2010, 124 Stat. 1082; Pub. L. 111–309, title II, §204(a)(1), Dec. 15, 2010, 124 Stat. 3289.)
 
 #### <b>Editorial Notes</b>
 
@@ -282,7 +282,7 @@ Another section 340B of act July 1, 1944, was renumbered section 340C and is cla
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–152, §2302(1)(A), substituted "covered outpatient drug" for "covered drug" and "covered outpatient drugs" for "covered drugs" wherever appearing.
 
-Pub. L. 111–148, §7102(b)(1), inserted at end "Each such agreement shall require that the manufacturer furnish the Secretary with reports, on a quarterly basis, of the price for each covered drug subject to the agreement that, according to the manufacturer, represents the maximum price that covered entities may permissibly be required to pay for the drug (referred to in this section as the 'ceiling price'), and shall require that the manufacturer offer each covered entity covered drugsfor purchase at or below the applicable ceiling price if such drug is made available to any other purchaser at any price."
+Pub. L. 111–148, §7102(b)(1), inserted at end "Each such agreement shall require that the manufacturer furnish the Secretary with reports, on a quarterly basis, of the price for each covered drug subject to the agreement that, according to the manufacturer, represents the maximum price that covered entities may permissibly be required to pay for the drug (referred to in this section as the 'ceiling price'), and shall require that the manufacturer offer each covered entity covered drugs for purchase at or below the applicable ceiling price if such drug is made available to any other purchaser at any price."
 
 Subsec. (a)(2)(A). Pub. L. 111–152, §2302(1)(A), substituted "covered outpatient drug" for "covered drug" in introductory provisions.
 
@@ -466,7 +466,7 @@ Civil monetary penalties.—The Secretary of Health and Human Services may impos
 
 #### Study of Treatment of Certain Clinics as Covered Entities Eligible for Prescription Drug Discounts
 
-Pub. L. 102–585, title VI, §602(b), Nov. 4, 1992, 106 Stat. 4970, directed Secretary of Health and Human Servicesto conduct a study of feasibility and desirability of including specified entities receiving funds from a State as covered entities eligible for limitations on prices of covered outpatient drugs under 42 U.S.C. 256b(a) and, not later than 1 year after Nov. 4, 1992, to submit a report to Congress on the study, including in the report a description of the entities that were the subject of the study, an analysis of the extent to which such entities procured prescription drugs, and an analysis of the impact of the inclusion of such entities as covered entities on the quality of care provided to and the health status of the patients of such entities.
+Pub. L. 102–585, title VI, §602(b), Nov. 4, 1992, 106 Stat. 4970, directed Secretary of Health and Human Services to conduct a study of feasibility and desirability of including specified entities receiving funds from a State as covered entities eligible for limitations on prices of covered outpatient drugs under 42 U.S.C. 256b(a) and, not later than 1 year after Nov. 4, 1992, to submit a report to Congress on the study, including in the report a description of the entities that were the subject of the study, an analysis of the extent to which such entities procured prescription drugs, and an analysis of the impact of the inclusion of such entities as covered entities on the quality of care provided to and the health status of the patients of such entities.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

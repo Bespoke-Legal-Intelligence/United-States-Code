@@ -77,7 +77,7 @@ Exception From Applicability of Limitations.—(1) No limitation applies under s
 
 "(e)
 
-Termination of Applicability of Limitations.—Subsection (c) shall cease to apply to a GSA Client Support Center on the date on which the Inspector General of the Department of Defense and the InspectorGeneral of the General Services Administration jointly determine that such Center is compliant with defense procurement requirements and notify the Secretary of Defense of that determination.
+Termination of Applicability of Limitations.—Subsection (c) shall cease to apply to a GSA Client Support Center on the date on which the Inspector General of the Department of Defense and the Inspector General of the General Services Administration jointly determine that such Center is compliant with defense procurement requirements and notify the Secretary of Defense of that determination.
 
 "(f)
 

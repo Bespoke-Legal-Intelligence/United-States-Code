@@ -126,7 +126,7 @@ In making grants under this part, the Corporation shall give priority to applica
 
 &emsp;(2) implement service-learning programs in low-income or rural communities; and
 
-&emsp;(3) utilize adult volunteers, including tapping the resources of retired and retiringadults, in the planning and implementation of service-learning programs.
+&emsp;(3) utilize adult volunteers, including tapping the resources of retired and retiring adults, in the planning and implementation of service-learning programs.
 
 #### (f) Requirements
 
@@ -140,7 +140,7 @@ In making grants under this part, the Corporation shall give priority to applica
 
 #### (3) Evaluation
 
-&emsp;Not later than 4 years after the effective date of the Serve America Act, the Corporation shall conduct an independent evaluation of the programs and activities carried out using funds made available under this part, and determine best practices relating to service-learning and recommendations for improvement of those programs and activities. The Corporation shall widely disseminate the results of the evaluations, and information on the best practices and recommendations to the service community through multiple channels, including the Corporation's Resource Center or a clearinghouse of effective strategies.
+&emsp;Not later than 4 years after the effective date of the Serve America Act, the Corporation shall conduct an independent evaluation of the programs and activities carried out using funds made available under this part, and determine best practices relating to service-learning and recommendations for improvement of those programs and activities. The Corporation shall widely disseminate theresults of the evaluations, and information on the best practices and recommendations to the service community through multiple channels, including the Corporation's Resource Center or a clearinghouse of effective strategies.
 
 (Pub. L. 101–610, title I, §119, as added Pub. L. 111–13, title I, §1204, Apr. 21, 2009, 123 Stat. 1479; amended Pub. L. 114–95, title IX, §9215(bbb)(3), Dec. 10, 2015, 129 Stat. 2185.)
 

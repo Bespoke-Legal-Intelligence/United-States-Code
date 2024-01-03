@@ -10,7 +10,7 @@
 
 &emsp;(B) in the case of an obligation or expenditure in excess of $500,000, but not in excess of $1,000,000, 5 days have elapsed since the date of the notification.
 
-(2) Subparagraph (A) or (B) of paragraph (1) shall not apply to an obligation or expenditure of funds otherwise covered by such subparagraph if the Secretary of Defense determines that the national security objectives of the United States will be compromised by the application of the subparagraph to the obligation or expenditure. If the Secretary makes a determination with respect to an obligation or expenditure under the preceding sentence, the Secretary shall immediately notify the committees referred to in paragraph (1) that such obligation or expenditure is necessary and provide any relevant information (in classified form, if necessary) jointly to the chairman and ranking minority member (or their designees) of such committees.
+(2) Subparagraph (A) or (B) of paragraph (1) shall not apply to an obligation or expenditureof funds otherwise covered by such subparagraph if the Secretary of Defense determines that the national security objectives of the United States will be compromised by the application of the subparagraph to the obligation or expenditure. If the Secretary makes a determination with respect to an obligation or expenditure under the preceding sentence, the Secretary shall immediately notify the committees referred to in paragraph (1) that such obligation or expenditure is necessary and provide any relevant information (in classified form, if necessary) jointly to the chairman and ranking minority member (or their designees) of such committees.
 
 (3) A notification under paragraph (1) and information referred to in paragraph (2) shall include the amount to be obligated or expended, as the case may be, and the purpose of the obligation or expenditure.
 
@@ -70,7 +70,7 @@ Pub. L. 104–106, §1502(a)(5), substituted "Committee on Armed Services and th
 
 Subsec. (d). Pub. L. 104–106, §915(1), redesignated subsec. (c), as amended by Pub. L. 104–106, §§1502(a)(5), 1506, as (d).
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–337 struck out par. (1) designation before "In any case" and struck out par. (2) which read as follows: "The amount of funds expended by the Inspector General of the Department of Defense under subsections (a) and (b) during a fiscal year may not exceed $400,000."
+<b>1994</b>—Subsec. (c). Pub. L. 103–337 struck out par. (1) designation before "In any case" and struck out par. (2) which read as follows: "The amount of funds expendedby the Inspector General of the Department of Defense under subsections (a) and (b) during a fiscal year may not exceed $400,000."
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–160, §361(1), inserted ", the Inspector General of the Department of Defense," after "the Secretary of Defense" and "or the Inspector General" after "the Secretary concerned" and after "The Secretary concerned".
 

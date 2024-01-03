@@ -34,7 +34,7 @@ Limitations.—
 
 &emsp;(1)
 
-In general.—The authority in subsection (a) may be used only to the extent necessaryto competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c).
+In general.—The authority in subsection (a) may be used only to the extent necessary to competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c).
 
 &emsp;(2)
 

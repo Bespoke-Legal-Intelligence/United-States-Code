@@ -58,7 +58,7 @@ If the President determines that a State or local government has identified natu
 
 &emsp;&emsp;&emsp;(iii) to establish hazard mitigation priorities, and an appropriate hazard mitigation plan, for a community; or
 
-&emsp;&emsp;&emsp;(iv) to establish and carry out enforcement activities and implement the latest published editions of relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings' users against disasters.
+&emsp;&emsp;&emsp;(iv) to establish and carry out enforcement activities and implement the latest published editions of relevant consensus-based codes, specifications, and standardsthat incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings' users against disasters.
 
 #### (2) Dissemination
 
@@ -132,7 +132,7 @@ In determining whether to provide technical and financial assistance to a State 
 
 #### (1) In general
 
-&emsp;The President may set aside from the Disaster Relief Fund, with respect to each major disaster, an amount equal to 6 percent of the estimated aggregate amount of the grants to be made pursuant to sections 5170b, 5172, 5173, 5174, 5177, 5183, and 5189f of this title for the major disaster in order to provide technical and financial assistance under this section and such set aside shall be deemed to be related to activities carried out pursuant to major disasters under this chapter.
+&emsp;The President may set aside from the Disaster Relief Fund, with respect to each major disaster, an amount equal to 6 percent of the estimated aggregate amount of the grants to be made pursuant to sections 5170b, 5172, 5173, 5174, 5177, 5183, and 5189f of this title for themajor disaster in order to provide technical and financial assistance under this section and such set aside shall be deemed to be related to activities carried out pursuant to major disasters under this chapter.
 
 #### (2) Estimated aggregate amount
 
@@ -190,15 +190,7 @@ Not later than 18 months after October 30, 2000, the President, in consultation 
 
 &emsp;The Administrator of the Federal Emergency Management Agency shall submit to Congress a certification regarding whether all financial assistance under this section was awarded in accordance with this section.
 
-#### (m) Latest published editions
-
-For purposes of subsections (e)(1)(B)(iv) and (g)(10), the term "latest published editions" means, with respect to relevant consensus-based codes, specifications, and standards, the 2 most recently published editions.
-
-(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan.23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649; Pub. L. 110–329, div. D, title V, §553, Sept. 30, 2008, 122 Stat. 3690; Pub. L. 111–83, title V, §543, Oct. 28, 2009, 123 Stat. 2176; Pub. L. 111–351, §§3(a), (b), 4, Jan. 4, 2011, 124 Stat. 3864; Pub. L. 115–254, div. D, §1234(a), (d), Oct. 5, 2018, 132 Stat. 3461, 3463.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–254, div. D, §1234(d), Oct. 5, 2018, 132 Stat. 3463, provided that, effective 5 years after Oct. 5, 2018, this section is amended by striking subsection (m). See 2018 Amendment note below.</i>
+(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan. 23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649; Pub. L. 110–329, div. D, title V, §553, Sept. 30, 2008, 122 Stat. 3690; Pub. L. 111–83, title V, §543, Oct. 28, 2009, 123 Stat. 2176; Pub. L. 111–351, §§3(a), (b), 4, Jan. 4, 2011, 124 Stat. 3864; Pub. L. 115–254, div. D, §1234(a), (d), Oct. 5, 2018, 132 Stat. 3461, 3463.)
 
 #### <b>Editorial Notes</b>
 
@@ -311,8 +303,6 @@ Purpose.—The purpose of this title \[enacting this section and sections 5134, 
 &emsp;"(1) to reduce the loss of life and property, human suffering, economic disruption, and disaster assistance costs resulting from natural disasters; and
 
 &emsp;"(2) to provide a source of predisaster hazard mitigation funding that will assist States and local governments (including Indian tribes) in implementing effective hazard mitigation measures that are designed to ensure the continued functionality of critical services and facilities after a natural disaster."
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions; Red Flag Warnings and Predisaster Actions
 

@@ -104,7 +104,7 @@ Definitions.—In this section:
 
 #### References in Text
 
-Chapter 137 of this title, referred to in subsec. (g)(3), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+Chapter 137 of this title, referred to in subsec. (g)(3), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of "chapter 137 legacy provisions", see section 3016 of this title.
 
 #### Prior Provisions
 
@@ -190,7 +190,7 @@ Subsec. (e)(1)(A). Pub. L. 107–107, §1048(b)(2), substituted "Under Secretary
 
 Subsec. (e)(2)(A). Pub. L. 107–107, §1212(a)(4)(A), substituted "any country or organization referred to in subsection (a)(2)" for "one or more of the major allies of the United States".
 
-Subsec. (e)(2)(B). Pub. L. 107–107, §§1048(b)(2), 1212(a)(4)(B), substituted "countries and organizationsreferred to in subsection (a)(2)" for "major allies of the United States or NATO organizations" and "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
+Subsec. (e)(2)(B). Pub. L. 107–107, §§1048(b)(2), 1212(a)(4)(B), substituted "countries and organizations referred to in subsection (a)(2)" for "major allies of the United States or NATO organizations" and "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
 
 Subsec. (e)(2)(C). Pub. L. 107–107, §1212(a)(4)(C), substituted "countries and organizations referred to in subsection (a)(2)" for "major allies of the United States".
 
@@ -276,13 +276,13 @@ Definition.—In this section, the term 'appropriate congressional committees' m
 
 &emsp;"(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives."
 
-#### Administration of the American, British, Canadian, and Australian Armies' Program
+#### Administration of the American, British, Canadian, and Australian Armies' Program and the Five Eyes Air Force Interoperability Council
 
-Pub. L. 112–239, div. A, title XII, §1274, Jan. 2, 2013, 126 Stat. 2026, as amended by Pub. L. 115–91, div. A, title XII, §1274, Dec. 12, 2017, 131 Stat. 1697; Pub. L. 117–81, div. A, title XIII, §1321, Dec. 27, 2021, 135 Stat. 2002, provided that:
+Pub. L. 112–239, div. A, title XII, §1274, Jan. 2, 2013, 126 Stat. 2026, as amended by Pub. L. 115–91, div. A, title XII, §1274, Dec. 12, 2017, 131 Stat. 1697; Pub. L. 117–81, div. A, title XIII, §1321, Dec. 27, 2021, 135 Stat. 2002; Pub. L. 118–31, div. A, title XII, §1222, Dec. 22, 2023, 137 Stat. 453, provided that:
 
 "(a)
 
-Authority.—As part of the participation by the United States in the land-force program known as the American, British, Canadian, and Australian Armies' Program (in this section referred to as the 'Program'), the Secretary of Defense may, with the concurrence of the Secretary of State, enter into agreements with the other participating countries in accordance with this section, and the Program shall be managed pursuant to a joint agreement among the participating countries.
+Authority.—As part of the participation by the United States in the land-force program known as the American, British, Canadian, and Australian Armies' Program or the air force \[sic\] program known as the Five Eyes Air Force Interoperability Council (in this section referred to as the 'Program'), the Secretary of Defense may, with the concurrence of the Secretary of State, enter into agreements with the other participating countries in accordance with this section, and the Program shall be managed pursuant to a joint agreement among the participating countries.
 
 "(b)
 

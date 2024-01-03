@@ -6,7 +6,7 @@ Mandatory Refusal.—The Administrator of the Transportation Security Administra
 
 &emsp;(1) a passenger who does not consent to a search under section 44901(a) of this title establishing whether the passenger is carrying unlawfully a dangerous weapon, explosive, or other destructive substance; or
 
-&emsp;(2) property of a passenger who does not consent to a search of the property establishing whether the property unlawfully contains adangerous weapon, explosive, or other destructive substance.
+&emsp;(2) property of a passenger who does not consent to a search of the property establishing whether the property unlawfully contains a dangerous weapon, explosive, or other destructive substance.
 
 (b)
 

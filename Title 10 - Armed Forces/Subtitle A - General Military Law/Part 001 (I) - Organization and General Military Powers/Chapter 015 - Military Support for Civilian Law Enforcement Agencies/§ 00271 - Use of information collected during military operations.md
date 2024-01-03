@@ -24,11 +24,11 @@ A prior section 271, added Pub. L. 85–861, §1(5)(A), Sept. 2, 1958, 72 Stat. 
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–570, title III, §3051, Oct. 27, 1986, 100 Stat. 3207–74, provided that: "This subtitle \[subtitle A (§§3051–3059) of title III of Pub. L. 99–570, enacting section 379 of this title, amending sections 374 and 911 of this title, enacting provisions set out as notes undersections 374, 525, and 9441 of this title, and repealing provisions set out as a note under section 89 of Title 14, Coast Guard\] may be cited as the 'Defense Drug Interdiction Assistance Act'."
+Pub. L. 99–570, title III, §3051, Oct. 27, 1986, 100 Stat. 3207–74, provided that: "This subtitle \[subtitle A (§§3051–3059) of title III of Pub. L. 99–570, enacting section 379 of this title, amending sections 374 and 911 of this title, enacting provisions set out as notes under sections 374, 525, and 9441 of this title, and repealing provisions set out as a note under section 89 of Title 14, Coast Guard\] may be cited as the 'Defense Drug Interdiction Assistance Act'."
 
 #### Enhancement of Information Sharing and Coordination of Military Training Between Department of Homeland Security and Department of Defense
 
-Pub. L. 114–328, div. A, title X, §1014, Dec. 23, 2016, 130 Stat. 2386, as amended by Pub. L. 116–92, div. A, title X, §1053, Dec. 20, 2019, 133 Stat. 1591; Pub. L. 117–81, div. A, title X, §1063, Dec. 27, 2021, 135 Stat. 1909; Pub. L. 117–263, div. A, title X, §1058, Dec. 23, 2022, 136 Stat. 2780, provided that:
+Pub. L. 114–328, div. A, title X, §1014, Dec. 23, 2016, 130 Stat. 2386, as amended by Pub. L. 116–92, div. A, title X, §1053, Dec. 20, 2019, 133 Stat. 1591; Pub. L. 117–81, div. A, title X, §1063, Dec. 27, 2021, 135 Stat. 1909; Pub. L. 117–263, div. A, title X, §1058, Dec. 23, 2022, 136 Stat. 2780; Pub. L. 118–31, div. A, title X, §1062, Dec. 22, 2023, 137 Stat. 400, provided that:
 
 "(a)
 
@@ -70,7 +70,7 @@ In general.—Not later than March 31 of each year, the Secretary of Defense sha
 
 Elements.—Each report submitted under subparagraph (A) shall include each of the following:
 
-&emsp;&emsp;&emsp;"(i) A description of the military training and operational activities of each military component leveraged, pursuant to section 271 of title 10, United States Code, to support the border security mission of the Department of Homeland Security at the southern border of the United States.
+&emsp;&emsp;&emsp;"(i) A description of the military training and operational activities of each military componentleveraged, pursuant to section 271 of title 10, United States Code, to support the border security mission of the Department of Homeland Security at the southern border of the United States.
 
 &emsp;&emsp;&emsp;"(ii) For each activity described in clause (i), each of the following, identified by component:
 
@@ -120,11 +120,11 @@ Department of homeland security report.—Not later than March 31 of each year, 
 
 &emsp;"(3)
 
-Termination.—The requirement to submit a report under paragraph (1) or (2) shall terminate on December 31, 2024."
+Termination.—The requirement to submit a report under paragraph (1) or (2) shall terminate on December 31, 2025."
 
 #### Authority for Joint Task Forces to Provide Support to Law Enforcement Agencies Conducting Counter-Terrorism Activities
 
-Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, §1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, \[div. A\], title X, §1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, §1012, Oct. 28, 2009, 123 Stat. 2441; Pub. L. 111–383, div. A, title X, §1012(a)–(b)(2), Jan. 7, 2011, 124 Stat. 4346, 4347; Pub. L. 112–81, div. A, title X, §1004(a), Dec. 31, 2011, 125 Stat. 1556; Pub. L. 112–239, div. A, title X, §1011, Jan. 2, 2013,126 Stat. 1907; Pub. L. 113–66, div. A, title X, §1012, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §1014, Dec. 19, 2014, 128 Stat. 3484; Pub. L. 115–91, div. A, title X, §1081(i), Dec. 12, 2017, 131 Stat. 1601; Pub. L. 116–92, div. A, title X, §1022, Dec. 20, 2019, 133 Stat. 1578; Pub. L. 117–81, div. A, title X, §1008, Dec. 27, 2021, 135 Stat. 1889, provided that:
+Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, §1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, \[div. A\], title X, §1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, §1012, Oct. 28, 2009, 123 Stat. 2441; Pub. L. 111–383, div. A, title X, §1012(a)–(b)(2), Jan. 7, 2011, 124 Stat. 4346, 4347; Pub. L. 112–81, div. A, title X, §1004(a), Dec. 31, 2011, 125 Stat. 1556; Pub. L. 112–239, div. A, title X, §1011, Jan. 2, 2013, 126 Stat. 1907; Pub. L. 113–66, div. A, title X, §1012, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §1014, Dec. 19, 2014, 128 Stat. 3484; Pub. L. 115–91, div. A, title X, §1081(i), Dec. 12, 2017, 131 Stat. 1601; Pub. L. 116–92, div. A, title X, §1022, Dec. 20, 2019, 133 Stat. 1578; Pub. L. 117–81, div. A, title X, §1008, Dec. 27, 2021, 135 Stat. 1889, provided that:
 
 "(a)
 
@@ -158,5 +158,5 @@ Definitions.—(1) In this section, the term 'transnational organized crime' has
 
 "(2) For purposes of applying the definition of transnational organized crime under paragraph (1) to this section, the term 'illegal means', as it appears in such definition, includes the trafficking of money, human trafficking, illicit financial flows, illegal trade in natural resources and wildlife, trade in illegal drugs and weapons, and other forms of illegal means determined by the Secretary of Defense."
 
-\[Pub. L. 112–81, div. A, title X, §1004(b), Dec. 31, 2011, 125 Stat. 1556, provided that: "The authority in section 1022 of the National Defense Authorization Act for Fiscal Year 2004 \[Pub. L. 108–136, set out above\], as amended by subsection (a), may not be exercised unless the Secretary of Defense certifies to Congress, in writing, that the Department of Defense is in compliance with the provisions of paragraph (2) of subsection (d) of such section, as added by section 1012(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4346)."\]
+\[Pub. L. 112–81, div. A, title X, §1004(b), Dec. 31, 2011, 125 Stat. 1556, provided that: "The authority in section 1022 of the National Defense Authorization Act for Fiscal Year 2004 \[Pub. L. 108–136, set out above\], as amended by subsection (a), may not be exercised unless the Secretary of Defense certifies to Congress, in writing, that the Department of Defense is in compliance with the provisions of paragraph (2) of subsection (d) of suchsection, as added by section 1012(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4346)."\]
 

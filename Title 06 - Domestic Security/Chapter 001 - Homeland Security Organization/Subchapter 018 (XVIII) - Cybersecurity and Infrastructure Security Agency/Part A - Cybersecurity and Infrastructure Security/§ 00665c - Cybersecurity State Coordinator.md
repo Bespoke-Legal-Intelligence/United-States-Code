@@ -18,7 +18,7 @@ The duties of a Cybersecurity State Coordinator appointed under subsection (a) s
 
 &emsp;(5) supporting training, exercises, and planning for continuity of operations to expedite recovery from cybersecurity incidents, including ransomware;
 
-&emsp;(6) serving as a principal point of contact for non-Federal entities to engage, on a voluntary basis, with the Federal Government on preparing, managing, and responding to cybersecurity incidents;
+&emsp;(6) serving as a principal point of contact for non-Federal entities to engage, on a voluntarybasis, with the Federal Government on preparing, managing, and responding to cybersecurity incidents;
 
 &emsp;(7) assisting non-Federal entities in developing and coordinating vulnerability disclosure programs consistent with Federal and information security industry standards;
 
@@ -26,7 +26,7 @@ The duties of a Cybersecurity State Coordinator appointed under subsection (a) s
 
 &emsp;(9) coordinating with appropriate officials within the Agency; and
 
-&emsp;(10) performing such other duties as determined necessary by the Director to achieve the goal of managing cybersecurity risks inthe United States and reducing the impact of cyber threats to non-Federal entities.
+&emsp;(10) performing such other duties as determined necessary by the Director to achieve the goal of managing cybersecurity risks in the United States and reducing the impact of cyber threats to non-Federal entities.
 
 #### (c) Feedback
 

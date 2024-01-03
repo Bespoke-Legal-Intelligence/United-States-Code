@@ -62,7 +62,7 @@
 
 #### (3) Limitation on actions during initial congressional review period
 
-&emsp;Notwithstanding any other provision of law, except as provided in paragraph (6), prior to and during the period for transmission of an agreement in subsection (a)(1) and during the period for congressional review provided in paragraph (1), including any additional period as applicable under the exception provided in paragraph (2), the President may not waive, suspend, reduce, provide relief from, or otherwise limit the application of statutory sanctions with respect to Iran under any provision of law or refrain from applying any such sanctions pursuant to an agreement described in subsection (a).
+&emsp;Notwithstanding any other provision of law, except as provided in paragraph (6), prior to and during the period for transmission of anagreement in subsection (a)(1) and during the period for congressional review provided in paragraph (1), including any additional period as applicable under the exception provided in paragraph (2), the President may not waive, suspend, reduce, provide relief from, or otherwise limit the application of statutory sanctions with respect to Iran under any provision of law or refrain from applying any such sanctions pursuant to an agreement described in subsection (a).
 
 #### (4) Limitation on actions during presidential consideration of a joint resolution of disapproval
 
@@ -122,7 +122,7 @@
 
 #### (2) Potentially significant breaches and compliance incidents
 
-&emsp;The President shall, within 10 calendar days of receiving credible and accurate information relating to a potentially significant breach or compliance incident by Iran with respect to an agreement subject to subsection (a), submit such information to the appropriate congressional committees and leadership.
+&emsp;The President shall, within 10 calendar days of receiving credible and accurate information relating to a potentially significant breach or compliance incident by Iran with respect to anagreement subject to subsection (a), submit such information to the appropriate congressional committees and leadership.
 
 #### (3) Material breach report
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;&emsp;(i) Iran is transparently, verifiably, and fully implementing the agreement, including all related technical or additional agreements;
 
-&emsp;&emsp;&emsp;(ii) Iran has not committed a material breach with respect to the agreement or, if Iran has committed a material breach, Iran has cured the material breach;
+&emsp;&emsp;&emsp;(ii) Iran has not committed a material breach with respect to the agreement or, ifIran has committed a material breach, Iran has cured the material breach;
 
 &emsp;&emsp;&emsp;(iii) Iran has not taken any action, including covert activities, that could significantly advance its nuclear weapons program; and
 
@@ -250,7 +250,7 @@
 
 #### (C) Consideration
 
-&emsp;&emsp;The qualifying legislation shall be considered as read. All points of order against the qualifying legislation and against its consideration are waived. The previous question shall be considered as ordered on the qualifying legislation to final passage without intervening motion except two hours of debate equally divided and controlled by the sponsor of the qualifying legislation (or a designee) and an opponent. A motion to reconsider the vote on passage of the qualifying legislation shall not be in order.
+&emsp;&emsp;The qualifying legislation shall be considered as read. All points of order against thequalifying legislation and against its consideration are waived. The previous question shall be considered as ordered on the qualifying legislation to final passage without intervening motion except two hours of debate equally divided and controlled by the sponsor of the qualifying legislation (or a designee) and an opponent. A motion to reconsider the vote on passage of the qualifying legislation shall not be in order.
 
 #### (5) Consideration in the Senate
 
@@ -264,7 +264,7 @@
 
 #### (C) Proceeding to consideration
 
-&emsp;&emsp;Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the committee authorized to consider qualifying legislation reports it to the Senate or has been discharged from its consideration (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of qualifying legislation, and all points of order against qualifying legislation (and against consideration of the qualifying legislation) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motionto proceed to the consideration of the qualifying legislation is agreed to, the qualifying legislation shall remain the unfinished business until disposed of.
+&emsp;&emsp;Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the committee authorized to consider qualifying legislation reports it to the Senate or has been discharged from its consideration (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of qualifying legislation, and all points of order against qualifying legislation (and against consideration of the qualifying legislation) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the qualifying legislation is agreed to, the qualifying legislation shall remain the unfinished business until disposed of.
 
 #### (D) Debate
 
@@ -338,7 +338,7 @@ In this section:
 
 #### (2) Appropriate congressional committees
 
-&emsp;The term "appropriate congressional committees" means the Committee on Finance,the Committee on Banking, Housing, and Urban Affairs, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate and the Committee on Ways and Means, the Committee on Financial Services, the Permanent Select Committee on Intelligence, and the Committee on Foreign Affairs of the House of Representatives.
+&emsp;The term "appropriate congressional committees" means the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate and the Committee on Ways and Means, the Committee on Financial Services, the Permanent Select Committee on Intelligence, and the Committee on Foreign Affairs of the House of Representatives.
 
 #### (3) Appropriate congressional committees and leadership
 

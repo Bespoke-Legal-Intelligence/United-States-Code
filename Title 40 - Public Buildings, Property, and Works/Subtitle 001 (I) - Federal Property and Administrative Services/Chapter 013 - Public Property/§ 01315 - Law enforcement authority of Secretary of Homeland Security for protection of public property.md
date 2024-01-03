@@ -138,7 +138,7 @@ In subsection (g)(2)(B), the words "similar offense" are substituted for "like o
 
 #### References in Text
 
-The Homeland Security Act of 2002, referred to in subsecs. (a) and (b)(1), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter1 (§101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
+The Homeland Security Act of 2002, referred to in subsecs. (a) and (b)(1), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 
 #### Amendments
 
@@ -162,7 +162,7 @@ Use of Other Law Enforcement Agencies.—When it is considered economical and in
 
 "(e)
 
-Nonuniformed Special Police.—The Administrator, or an official of the Administration authorized by the Administrator, may empower officials or employees of the Administration authorized to perform investigative functions to act as nonuniformed special police to protect property under the charge and control of the Administration and to carry firearms, whether on federal property or in travel status. When on real property under the charge and control of the Administration, officials or employees empowered to act as nonuniformed special police have the power to enforce federal laws for the protection of individuals and property and to enforce regulations for that purpose that the Administrator or an official of the Administration authorized by the Administrator prescribes and publishes. The special police may make arrests without warrant for any offense committed on the property if the police have reasonable grounds to believe the offense constitutes a felony under the laws of the United States and that the individual to be arrested is guilty of that offense.
+Nonuniformed Special Police.—The Administrator, or an official of the Administration authorized by the Administrator, may empower officials or employees of the Administration authorized to perform investigative functions to act as nonuniformed special police to protect property under the charge and control of the Administration and to carry firearms, whether on federal property or in travel status. When on real property under the charge and control of the Administration, officials or employees empowered to act as nonuniformed special police have the power to enforce federal laws for the protection of individuals and property and to enforce regulations for that purpose that the Administrator or an official of the Administration authorized by the Administrator prescribes and publishes. The special police may make arrests withoutwarrant for any offense committed on the property if the police have reasonable grounds to believe the offense constitutes a felony under the laws of the United States and that the individual to be arrested is guilty of that offense.
 
 "(f)
 
@@ -234,7 +234,7 @@ Contents.—The regulations under this subsection shall—
 
 &emsp;&emsp;"(B) require contractors to provide information regarding any relevant felony convictions when submitting bids or proposals; and
 
-&emsp;&emsp;"(C) provide guidelines for the contracting officer to assess present responsibility, mitigating factors,and the risk associated with the previous conviction, and allow the contracting officer to award a contract under certain circumstances.
+&emsp;&emsp;"(C) provide guidelines for the contracting officer to assess present responsibility, mitigating factors, and the risk associated with the previous conviction, and allow the contracting officer to award a contract under certain circumstances.
 
 "(b)
 
@@ -242,5 +242,5 @@ Regulations.—Not later than 6 months after the date of the enactment of this A
 
 #### "SEC. 3. REPORT ON GOVERNMENT-WIDE APPLICABILITY.
 
-"Not later than 18 months after the date of enactment of the \[probably should be "this"\] Act, the Administrator for Federal Procurement Policy shall submit a report on establishing similar guidelines government-wide to the Committee on Homeland Security and Governmental Affairs and the Committee on Oversight and Government Reform of the House of Representatives."
+"Not later than 18 months after the date of enactment of the \[probably should be "this"\] Act, the Administrator for Federal Procurement Policy shall submit a report on establishing similar guidelines government-wide to the Committee on Homeland Security and Governmental Affairs and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives."
 

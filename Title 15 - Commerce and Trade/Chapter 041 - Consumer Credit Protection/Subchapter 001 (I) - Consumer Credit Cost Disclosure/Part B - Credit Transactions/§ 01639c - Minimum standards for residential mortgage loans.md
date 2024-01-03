@@ -8,7 +8,7 @@
 
 #### (2) Multiple loans
 
-&emsp;If the creditor knows, or has reason to know, that 1 or more residential mortgage loans secured by the same dwelling will be made to the same consumer, the creditor shall make a reasonable and good faith determination, based on verified and documented information, that the consumer has a reasonable ability to repay the combined payments of all loans on the same dwelling according to the terms of those loans and all applicable taxes, insurance (including mortgage guarantee insurance), and assessments.
+&emsp;If the creditor knows, or has reason to know, that 1 or more residential mortgage loans secured by the same dwelling will be made to the same consumer, the creditor shall make a reasonable and good faith determination, based on verified and documented information, that the consumer has a reasonable ability to repay the combined payments of all loans on the same dwelling according to the terms of those loans and all applicable taxes, insurance\(including mortgage guarantee insurance), and assessments.
 
 #### (3) Basis for determination
 
@@ -204,7 +204,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) for which the covered institution considers and documents the debt, income, and financial resources of the consumer in accordance with clause (iv); and
 
-&emsp;&emsp;&emsp;&emsp;(II) a residential mortgage loan described in subclause (I) shall be deemed to meet the requirements of subsection (a).
+&emsp;&emsp;&emsp;&emsp;(II) a residential mortgage loan described in subclause (I) shall be deemedto meet the requirements of subsection (a).
 
 #### (iii) Exception for certain transfers
 
@@ -254,7 +254,7 @@
 
 #### (i) Definition
 
-&emsp;&emsp;&emsp;In this subparagraph, the term "Property Assessed Clean Energy financing"means financing to cover the costs of home improvements that results in a tax assessment on the real property of the consumer.
+&emsp;&emsp;&emsp;In this subparagraph, the term "Property Assessed Clean Energy financing" means financing to cover the costs of home improvements that results in a tax assessment on the real property of the consumer.
 
 #### (ii) Regulations
 
@@ -322,7 +322,7 @@ No creditor may finance, directly or indirectly, in connection with any resident
 
 &emsp;(1) insurance premiums or debt cancellation or suspension fees calculated and paid in full on a monthly basis shall not be considered financed by the creditor; and
 
-&emsp;(2) this subsection shall not apply to credit unemployment insurance for which the unemployment insurance premiums are reasonable, the creditor receives no direct or indirect compensation in connection with the unemployment insurance premiums, and the unemployment insurance premiums are paid pursuantto another insurance contract and not paid to an affiliate of the creditor.
+&emsp;(2) this subsection shall not apply to credit unemployment insurance for which the unemployment insurance premiums are reasonable, the creditor receives no direct or indirect compensation in connection with the unemployment insurance premiums, and the unemployment insurance premiums are paid pursuant to another insurance contract and not paid to an affiliate of the creditor.
 
 #### (e) Arbitration
 
@@ -336,7 +336,7 @@ No creditor may finance, directly or indirectly, in connection with any resident
 
 #### (3) No waiver of statutory cause of action
 
-&emsp;No provision of any residential mortgage loan or of any extension of credit under an open end consumer credit plan secured by the principal dwelling of the consumer, and no other agreement between the consumer and the creditor relating to the residential mortgage loan or extension of credit referred to in paragraph (1), shall be applied or interpreted so as to bar a consumer from bringing an action in an appropriate district court of the United States, or any other court of competent jurisdiction, pursuant to section 1640 of this title or any other provision of law, for damages or other relief in connection with any alleged violation of this section, any other provision of this subchapter, or any other Federal law.
+&emsp;No provision of any residential mortgage loan or of any extension of credit under an open end consumer credit plan secured by the principal dwelling of the consumer, and no other agreement between the consumer and the creditor relating to the residential mortgage loan or extension of credit referred to in paragraph (1), shall be applied or interpreted so as to bar a consumer from bringing an action in an appropriate district court of theUnited States, or any other court of competent jurisdiction, pursuant to section 1640 of this title or any other provision of law, for damages or other relief in connection with any alleged violation of this section, any other provision of this subchapter, or any other Federal law.
 
 #### (f) Mortgages with negative amortization
 

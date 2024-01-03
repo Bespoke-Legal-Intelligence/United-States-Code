@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(B) that surrendered such a license while a formal disciplinary proceeding was pending before such an authority, if the proceeding concerned the provider's professional competence, professional performance, or financial integrity.
 
-&emsp;(2) Any provider that is an entity directly or indirectly owned, or with a control interest of 5 percent or more held, by an individual who has been convicted of any offense described in subsection (b), against whom a civil monetary penalty has been assessed under subsection (d), or who has been debarred from participation under this chapter.
+&emsp;(2) Any provider that is an entity directly or indirectly owned, or with a control interest of 5 percent or more held, by an individual who has been convicted of any offense described in subsection (b), against whom a civil monetary penalty has been assessed under subsection\(d), or who has been debarred from participation under this chapter.
 
 &emsp;(3) Any individual who directly or indirectly owns or has a control interest in a sanctioned entity and who knows or should know of the action constituting the basis for the entity's conviction of any offense described in subsection (b), assessment with a civil monetary penalty under subsection (d), or debarment from participation under this chapter.
 
@@ -134,7 +134,7 @@
 
 #### References in Text
 
-Section 2455 of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (b)(5), is section 2455 of Pub. L. 103–355, which is set out as a note under section 6101 of Title 31, Money and Finance.
+Section 2455 of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (b)(5), is section 2455of Pub. L. 103–355, which is set out as a note under section 6101 of Title 31, Money and Finance.
 
 #### Amendments
 

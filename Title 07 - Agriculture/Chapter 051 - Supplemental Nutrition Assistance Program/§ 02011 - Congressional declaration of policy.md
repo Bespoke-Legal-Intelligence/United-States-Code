@@ -2,7 +2,9 @@
 
 It is declared to be the policy of Congress, in order to promote the general welfare, to safeguard the health and well-being of the Nation's population by raising levels of nutrition among low-income households. Congress finds that the limited food purchasing power of low-income households contributes to hunger and malnutrition among members of such households. Congress further finds that increased utilization of food in establishing and maintaining adequate national levels of nutrition will promote the distribution in a beneficial manner of the Nation's agricultural abundance and will strengthen the Nation's agricultural economy, as well as result in more orderly marketing and distribution of foods. To alleviate such hunger and malnutrition, a supplemental nutrition assistance program is herein authorized which will permit low-income households to obtain a more nutritious diet through normal channels of trade by increasing food purchasing power for all eligible households who apply for participation.
 
-(Pub. L. 88–525, §2, Aug. 31, 1964, 78 Stat. 703; Pub. L. 91–671, §1, Jan. 11, 1971, 84 Stat. 2048; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958; Pub. L. 110–234, title IV, §4001(b), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, §4(a), title IV, §4001(b), June 18, 2008, 122 Stat. 1664, 1853.)
+That program includes as a purpose to assist low-income adults in obtaining employment and increasing their earnings. Such employment and earnings, along with program benefits, will permit low-income households to obtain a more nutritious diet through normal channels of trade by increasing food purchasing power for all eligible households who apply for participation.
+
+(Pub. L. 88–525, §2, Aug. 31, 1964, 78 Stat. 703; Pub. L. 91–671, §1, Jan. 11, 1971, 84 Stat. 2048; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958; Pub. L. 110–234, title IV, §4001(b), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, §4(a), title IV, §4001(b), June 18, 2008, 122 Stat. 1664, 1853; Pub. L. 118–5, div. C, title II, §313, June 3, 2023, 137 Stat. 38.)
 
 #### <b>Editorial Notes</b>
 
@@ -11,6 +13,8 @@ It is declared to be the policy of Congress, in order to promote the general wel
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–5 added second par.
 
 <b>2008</b>—Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
@@ -32,7 +36,7 @@ Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided tha
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–171, title IV, §4001, May 13, 2002, 116 Stat. 305, provided that: "This title \[enacting section 3007 of this title and section 1161 of Title 2, The Congress, amending sections 1431e, 2012, 2014 to 2017, 2019, 2020, 2022, 2023, 2025 to 2028, 2031, 2034, 2036, and 7508 of this title, sections 1612, 1613, and 1631 of Title 8, Aliens and Nationality, and sections 1755, 1758, 1760, 1769, and 1786 of Title 42, The Public Health and Welfare, repealing section 2033 of this title, enacting provisions set out as notes under sections 612c, 2014 to 2016, 2019, 2020, 2022, 2023, 2025, 2026, 2028, 2034, 2036, and 3171 of this title, section 1161 of Title 2, section 1612 of Title 8, and sections 1755, 1758, 1769, and 1786 of Title 42, and amending provisions set out as a note under section 612c of this title\] may be cited as the 'Food Stamp Reauthorization Act of 2002'."
+Pub. L. 107–171, title IV, §4001, May 13, 2002, 116 Stat. 305, provided that: "This title \[enacting section 3007 of this title and section 1161 of Title 2, The Congress,amending sections 1431e, 2012, 2014 to 2017, 2019, 2020, 2022, 2023, 2025 to 2028, 2031, 2034, 2036, and 7508 of this title, sections 1612, 1613, and 1631 of Title 8, Aliens and Nationality, and sections 1755, 1758, 1760, 1769, and 1786 of Title 42, The Public Health and Welfare, repealing section 2033 of this title, enacting provisions set out as notes under sections 612c, 2014 to 2016, 2019, 2020, 2022, 2023, 2025, 2026, 2028, 2034, 2036, and 3171 of this title, section 1161 of Title 2, section 1612 of Title 8, and sections 1755, 1758, 1769, and 1786 of Title 42, and amending provisions set out as a note under section 612c of this title\] may be cited as the 'Food Stamp Reauthorization Act of 2002'."
 
 #### Short Title of 2000 Amendment
 
@@ -52,7 +56,7 @@ Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided t
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–435, §1(a), Sept. 19, 1988, 102 Stat. 1645, provided that: "This Act \[amending sections 2012, 2014 to 2017, 2020 to 2023, 2025, and 2026 of this title, section 713a–14 of Title 15, Commerce and Trade, and sections 1761, 1766, 1773, and 1786 of Title 42, The Public Healthand Welfare, enacting provisions set out as notes under sections 612c and 2012 of this title and sections 1766 and 1786 of Title 42, and amending provisions set out as notes under sections 612c, 1731, and 2012 of this title\] may be cited as the 'Hunger Prevention Act of 1988'."
+Pub. L. 100–435, §1(a), Sept. 19, 1988, 102 Stat. 1645, provided that: "This Act \[amending sections 2012, 2014 to 2017, 2020 to 2023, 2025, and 2026 of this title, section 713a–14 of Title 15, Commerce and Trade, and sections 1761, 1766, 1773, and 1786 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 612c and 2012 of this title and sections 1766 and 1786 of Title 42, and amending provisions set out as notes under sections 612c, 1731, and 2012 of this title\] may be cited as the 'Hunger Prevention Act of 1988'."
 
 Pub. L. 100–232, §1, Jan. 5, 1988, 101 Stat. 1566, provided that: "This Act \[amending section 2014 of this title and enacting provisions set out as a note under section 612c of this title\] may be cited as the 'Charitable Assistance and Food Bank Act of 1987'."
 
@@ -192,7 +196,7 @@ Use of EBT System.—A State agency may provide assistance under this section th
 
 "(e)
 
-Release of Information.—Notwithstanding any other provision of law, the Secretary of Agriculture may authorize State educational agencies and school food authorities administering a school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) to release to appropriate officials administering the supplemental nutrition assistance program such information as may be necessary to carry out this section.
+Release of Information.—Notwithstanding any other provision of law, the Secretary of Agriculture may authorize State educational agencies and schoolfood authorities administering a school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) to release to appropriate officials administering the supplemental nutrition assistance program such information as may be necessary to carry out this section.
 
 "(f)
 
@@ -292,7 +296,7 @@ State.—The term 'State' has the meaning given the term in section 12(d) of the
 
 "(k)
 
-Funding.—There are hereby appropriated to the Secretary of Agriculture such amounts as are necessary to carry out this section (including all administrative expenses for Federal agencies, State agencies, other agencies of the State, local units, and schools): <i>Provided</i>, That such amount is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
+Funding.—There are hereby appropriated to the Secretary of Agriculture such amounts as are necessary to carry out this section (including all administrative expenses for Federal agencies, State agencies, other agencies of the State, local units, and schools): <i>Provided</i>, That such amount is designated by the Congress as being for an emergency requirement pursuantto section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
 
 #### SNAP Waivers
 
@@ -310,7 +314,7 @@ Pub. L. 116–127, div. B, title III, Mar. 18, 2020, 134 Stat. 187, as amended b
 
 &emsp;"(1) shall provide, at the request of a State agency (as defined in section 3 of the Food and Nutrition Act of 2008 \[7 U.S.C. 2012\]) that provides sufficient data (as determined by the Secretary through guidance) supporting such request, for emergency allotments to households participating in the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\] to address temporary food needs not greater than the applicable maximum monthly allotment for the household size; and
 
-&emsp;"(2) may adjust, at the request of State agencies or by guidance in consultation with one or more Stateagencies, issuance methods and application and reporting requirements under the Food and Nutrition Act of 2008 to be consistent with what is practicable under actual conditions in affected areas. (In making this adjustment, the Secretary shall consider the availability of offices and personnel in State agencies, any conditions that make reliance on electronic benefit transfer systems described in section 7(h) of the Food and Nutrition Act of 2008 \[7 U.S.C. 2016(h)\] impracticable, any disruptions of transportation and communication facilities, and any health considerations that warrant alternative approaches.)
+&emsp;"(2) may adjust, at the request of State agencies or by guidance in consultation with one or more State agencies, issuance methods and application and reporting requirements under the Food and Nutrition Act of 2008 to be consistent with what is practicable under actual conditions in affected areas. (In making this adjustment, the Secretary shall consider the availability of offices and personnel in State agencies, any conditions that make reliance on electronic benefit transfer systems described in section 7(h) of the Food and Nutrition Act of 2008 \[7 U.S.C. 2016(h)\] impracticable, any disruptions of transportation and communication facilities, and any health considerations that warrant alternative approaches.)
 
 "(b) Not later than 10 days after the date of the receipt or issuance of each document listed in paragraphs (1), (2), or (3) of this subsection, the Secretary of Agriculture shall make publicly available on the website of the Department the following documents:
 
@@ -370,7 +374,7 @@ Funding.—Out of any moneys in the Treasury not otherwise appropriated, the Sec
 
 #### Welfare Simplification and Coordination Advisory Committee
 
-Pub. L. 101–624, title XVII, §1778, Nov. 28, 1990, 104 Stat. 3814, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (D), (2)(KK), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (D), (2)(KK), June 18, 2008, 122 Stat. 1857, 1859, provided that:
+Pub. L. 101–624, title XVII, §1778, Nov. 28, 1990, 104 Stat. 3814, as amended by Pub. L. 110–234, title IV,§4002(b)(1)(A), (D), (2)(KK), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (D), (2)(KK), June 18, 2008, 122 Stat. 1857, 1859, provided that:
 
 "(a)
 
@@ -426,7 +430,7 @@ Pub. L. 95–113, title XIII, §1303, Sept. 29, 1997, 91 Stat. 979, as amended b
 
 "(d) \[Repealed. Pub. L. 97–375, title I, §103(a), Dec. 1, 1982, 96 Stat. 1819.\]"
 
-\[References to the food stamp program established under the Food and Nutrition Act of 2008 considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of this title.\]
+\[References to the food stamp program established under the Food and Nutrition Act of 2008 considered torefer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of this title.\]
 
 #### Definitions
 

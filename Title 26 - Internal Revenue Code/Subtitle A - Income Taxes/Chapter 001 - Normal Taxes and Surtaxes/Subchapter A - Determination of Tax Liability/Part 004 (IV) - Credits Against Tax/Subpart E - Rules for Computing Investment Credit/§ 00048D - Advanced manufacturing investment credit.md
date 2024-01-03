@@ -32,7 +32,7 @@ For purposes of section 46, the advanced manufacturing investment credit for any
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "qualified property" includes any building or its structural componentswhich otherwise satisfy the requirements under subparagraph (A).
+&emsp;&emsp;&emsp;The term "qualified property" includes any building or its structural components which otherwise satisfy the requirements under subparagraph (A).
 
 #### (ii) Exception
 
@@ -72,7 +72,7 @@ For purposes of this section, the term "eligible taxpayer" means any taxpayer wh
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of the credit determined under subsection (a) with respect to any property held directly by a partnership or S corporation, any election under paragraph (1) shall be made by such partnership or S corporation. If such partnership or S corporation makes an election under such paragraph (in such manner as the Secretary may provide) with respect to such credit—
+&emsp;&emsp;&emsp;In the case of the credit determined under subsection (a) with respect to any property held directly by a partnership or S corporation, any election under paragraph (1) shall be made by such partnership or S corporation. If such partnership or S corporation makes an election under such paragraph (in such manner as theSecretary may provide) with respect to such credit—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Secretary shall make a payment to such partnership or S corporation equal to the amount of such credit,
 

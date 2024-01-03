@@ -2,7 +2,7 @@
 
 #### (a) Development of System
 
-The Secretary shall consult with a representative group of guaranty agencies, eligible lenders,and eligible institutions to develop a mutually agreeable proposal for the establishment of a National Student Loan Data System containing information regarding loans made, insured, or guaranteed under part B and loans made under parts D and E, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower's loan not later than one year after October 7, 1998. The information in the data system shall include (but is not limited to)—
+The Secretary shall consult with a representative group of guaranty agencies, eligible lenders, and eligible institutions to develop a mutually agreeable proposal for the establishment of a National Student Loan Data System containing information regarding loans made, insured, or guaranteed under part B and loans made under parts D and E, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower's loan not later than one year after October 7, 1998. The information in the data system shall include (but is not limited to)—
 
 &emsp;(1) the amount and type of each such loan made;
 
@@ -64,7 +64,7 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 &emsp;&emsp;(F) includes other information as determined appropriate by the Secretary;
 
-&emsp;(4) requiring guaranty agencies, eligible lenders, and eligible institutions of higher education that enter into an agreement with a potential student, student, or parent of such student regarding a loan under part B, D, or E,to inform the student or parent that such loan shall be—
+&emsp;(4) requiring guaranty agencies, eligible lenders, and eligible institutions of higher education that enter into an agreement with a potential student, student, or parent of such student regarding a loan under part B, D, or E, to inform the student or parent that such loan shall be—
 
 &emsp;&emsp;(A) submitted to the data system; and
 
@@ -166,7 +166,7 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 The Secretary shall, not later than July 1, 1993—
 
-&emsp;(1) revise the codes used to identify institutions and students in the student loan data system authorized by this section to make such codes consistent with the codes used in each database used by the Department of Education that contains information of participation in programs under this subchapter; and
+&emsp;(1) revise the codes used to identify institutions and students in the student loan data system authorized by this section to makesuch codes consistent with the codes used in each database used by the Department of Education that contains information of participation in programs under this subchapter; and
 
 &emsp;(2) modify the design or operation of the system authorized by this section to ensure that data relating to any institution is readily accessible and can be used in a form compatible with the integrated postsecondary education data system (IPEDS).
 
@@ -252,7 +252,7 @@ Amendment by Pub. L. 116–251 effective 180 days after Dec. 22, 2020, see secti
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 

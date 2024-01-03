@@ -6,7 +6,7 @@ The Secretary of the Interior is directed to encourage States to consider, in th
 
 #### (b) Secretary of Housing and Urban Development to encourage metropolitan and other urban areas; administrative and financial assistance in connection with recreation and transportation planning; administration of urban open-space program
 
-The Secretary of Housing and Urban Development is directed, in administering the program of comprehensive urban planning and assistance under section 701 <sup>2</sup> of the Housing Act of 1954, to encourage the planning of recreation trails inconnection with the recreation and transportation planning for metropolitan and other urban areas. He is further directed, in administering the urban open-space program under title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\], to encourage such recreation trails.
+The Secretary of Housing and Urban Development is directed, in administering the program of comprehensive urban planning and assistance under section 701 <sup>2</sup> of the Housing Act of 1954, to encourage the planning of recreation trails in connection with the recreation and transportation planning for metropolitan and other urban areas. He is further directed, in administering the urban open-space program under title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\], to encourage such recreation trails.
 
 #### (c) Secretary of Agriculture to encourage States, local agencies, and private interests
 

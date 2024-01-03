@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Vulnerabilities Equities Process
 
-&emsp;The term "Vulnerabilities Equities Process" means the interagency review of vulnerabilities, pursuant to the Vulnerabilities Equities Policy and Process document or any successor document.
+&emsp;The term "Vulnerabilities Equities Process" means the interagency review of vulnerabilities, pursuant to theVulnerabilities Equities Policy and Process document or any successor document.
 
 #### (3) Vulnerability
 

@@ -20,7 +20,7 @@ The head of an element of the intelligence community may not award a grant to a 
 
 &emsp;&emsp;The process established under subparagraph (A) shall include the following:
 
-&emsp;&emsp;&emsp;(i) The immediate transmission of a copy of each applicant's certification madeunder subsection (a) to the Director of National Intelligence.
+&emsp;&emsp;&emsp;(i) The immediate transmission of a copy of each applicant's certification made under subsection (a) to the Director of National Intelligence.
 
 &emsp;&emsp;&emsp;(ii) The review of the certification and any accompanying disclosures submitted under subsection (a) as soon as practicable.
 

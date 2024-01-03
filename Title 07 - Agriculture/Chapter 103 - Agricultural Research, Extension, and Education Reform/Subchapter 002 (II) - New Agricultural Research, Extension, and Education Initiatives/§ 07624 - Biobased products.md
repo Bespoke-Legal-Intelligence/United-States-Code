@@ -86,7 +86,7 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -144,7 +144,7 @@ Qualified institution.—The term 'qualified institution' means a bioproducts re
 
 &emsp;&emsp;"(A) is funded, in part, by a State;
 
-&emsp;&emsp;"(B) is located within a reasonable distance, not to exceed 3 miles, of the primary residence hall ofan institution of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)));
+&emsp;&emsp;"(B) is located within a reasonable distance, not to exceed 3 miles, of the primary residence hall of an institution of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)));
 
 &emsp;&emsp;"(C) provides students opportunities to engage in research activities; and
 

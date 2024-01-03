@@ -8,11 +8,13 @@ Of the funds made available by the Department of Energy for activities at govern
 
 #### References in Text
 
-This Act, referred to in text, is div. C of Pub. L. 111–8, Mar. 11, 2009, 123 Stat. 601, known as the Energy andWater Development and Related Agencies Appropriations Act, 2009. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is div. C of Pub. L. 111–8, Mar. 11, 2009, 123 Stat. 601, known as the Energy and Water Development and Related Agencies Appropriations Act, 2009. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
 Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Atomic Energy Defense Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 
@@ -23,8 +25,6 @@ Pub. L. 111–85, title III, §307, Oct. 28, 2009, 123 Stat. 2872.
 Pub. L. 110–161, div. C, title III, §309, Dec. 26, 2007, 121 Stat. 1968.
 
 Pub. L. 109–103, title III, §311, Nov. 19, 2005, 119 Stat. 2280.
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Funding for Laboratory Directed Research and Development
 

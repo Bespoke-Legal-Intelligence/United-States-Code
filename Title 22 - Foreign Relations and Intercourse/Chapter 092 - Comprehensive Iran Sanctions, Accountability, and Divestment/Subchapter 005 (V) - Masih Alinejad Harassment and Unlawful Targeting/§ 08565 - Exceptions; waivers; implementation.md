@@ -8,7 +8,7 @@
 
 #### (2) Exception to comply with United Nations Headquarters agreement
 
-&emsp;Sanctions under section 8563(c)(2) of this title shall not apply with respect to the admission of an individual to the United States if the admission of the individual is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other applicable international obligations.
+&emsp;Sanctions under section 8563(c)(2) of this title shall not apply with respect to the admission of an individual to the United States if the admission of the individual is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other applicable international obligations.
 
 #### (b) National interests waiver
 

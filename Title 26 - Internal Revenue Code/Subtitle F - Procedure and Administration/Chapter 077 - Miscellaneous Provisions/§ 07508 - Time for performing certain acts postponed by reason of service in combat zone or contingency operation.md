@@ -2,7 +2,7 @@
 
 #### (a) Time to be disregarded
 
-In the case of an individual serving in the Armed Forces of the United States, or serving in support of such Armed Forces, in an area designated by the President of the United States by Executive order as a "combat zone" for purposes of section 112, or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law, at any time during the period designated by the President by Executive order as the period of combatant activities in such zone for purposes of such section or at any time during the period of such contingency operation, or hospitalized as a result of injury received while serving in such an area or operation during such time, the period of service in such area or operation, plus the period of continuous qualified hospitalization attributable to such injury, and the next 180 days thereafter, shall be disregarded in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such individual—
+In the case of an individual serving in the Armed Forces of the United States, or serving insupport of such Armed Forces, in an area designated by the President of the United States by Executive order as a "combat zone" for purposes of section 112, or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law, at any time during the period designated by the President by Executive order as the period of combatant activities in such zone for purposes of such section or at any time during the period of such contingency operation, or hospitalized as a result of injury received while serving in such an area or operation during such time, the period of service in such area or operation, plus the period of continuous qualified hospitalization attributable to such injury, and the next 180 days thereafter, shall be disregarded in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such individual—
 
 &emsp;(1) Whether any of the following acts was performed within the time prescribed therefor:
 
@@ -58,7 +58,7 @@ The period of service in the area or contingency operation referred to in subsec
 
 #### (2) Action taken before ascertainment of right to benefits
 
-&emsp;The assessment or collection of any internal revenue tax or of any liability to the United States in respect of any internal revenue tax, or any action or proceeding by or on behalf of the United States in connection therewith, may be made, taken, begun, or prosecuted in accordance with law, without regard to the provisions of subsection (a), unless prior to such assessment collection, action, or proceeding it is ascertained that the person concerned is entitled to the benefits of subsection (a).
+&emsp;The assessment or collection of any internal revenue tax or of any liability to the United States in respect of any internal revenue tax, or any action or proceeding by or on behalf of the United States in connection therewith, may be made, taken, begun, or prosecuted in accordance with law, without regard to the provisions of subsection (a), unless prior tosuch assessment collection, action, or proceeding it is ascertained that the person concerned is entitled to the benefits of subsection (a).
 
 #### (3) Collection period after assessment not extended as a result of hospitalization
 
@@ -110,7 +110,7 @@ Subsec. (e)(3). Pub. L. 114–113 added par. (3).
 
 <b>2003</b>—Pub. L. 108–121, §104(b)(2), inserted "or contingency operation" after "combat zone" in section catchline.
 
-Subsec. (a). Pub. L. 108–121, §104(a), in introductory provisions, inserted ", or when deployed outside theUnited States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law" after "section 112", "or at any time during the period of such contingency operation" after "for purposes of such section", "or operation" after "such an area", and "or operation" after "such area".
+Subsec. (a). Pub. L. 108–121, §104(a), in introductory provisions, inserted ", or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law" after "section 112", "or at any time during the period of such contingency operation" after "for purposes of such section", "or operation" after "such an area", and "or operation" after "such area".
 
 Subsec. (d). Pub. L. 108–121, §104(b)(1), inserted "or contingency operation" after "area".
 
@@ -136,7 +136,7 @@ Subsecs. (f), (g). Pub. L. 102–2, §1(a), (c)(2), added subsecs. (f) and (g).
 
 <b>1976</b>—Pub. L. 94–455, §1906(a)(51)(A), substituted "by reason of service in combat zone" for "by reason of war" in section catchline.
 
-Subsec. (a). Pub. L. 94–455, §1906(a)(51)(B), (b)(13)(A), substituted "United States" for "States of the Union and the District of Columbia" in two places after "hospitalized outside the" and "hospitalization outside the", and struck out "or his delegate" after "Secretary".
+Subsec. (a). Pub. L. 94–455, §1906(a)(51)(B), (b)(13)(A), substituted "United States" for "States of the Unionand the District of Columbia" in two places after "hospitalized outside the" and "hospitalization outside the", and struck out "or his delegate" after "Secretary".
 
 Subsec. (b). Pub. L. 94–569 substituted "taxable year beginning" for "taxable year beginning more than 2 years after" in provisions preceding par. (1), substituted "after January 2, 1978" for "the date of the enactment of this subsection" in par. (1), and substituted "more than 2 years after the date designated" for "the date designated" in par. (2).
 
@@ -196,7 +196,7 @@ Office of Postmaster General of Post Office Department abolished and all functio
 
 Ex. Ord. No. 12750, Feb. 14, 1991, 56 F.R. 6785, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 7508 of the Internal Revenue Code of 1986 (26 U.S.C. 7508), I hereby designate, for purposes of that section, the following locations, including the air space above such locations, as the Persian GulfDesert Shield area in which any individual who performed Desert Shield services (including the spouse of such individual) is entitled to the benefits of section 7508 of the Internal Revenue Code of 1986:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 7508 of the Internal Revenue Code of 1986 (26 U.S.C. 7508), I hereby designate, for purposes of that section, the following locations, including the air space above such locations, as the Persian Gulf Desert Shield area in which any individual who performed Desert Shield services (including the spouse of such individual) is entitled to the benefits of section 7508 of the Internal Revenue Code of 1986:
 
 —the Persian Gulf
 

@@ -10,7 +10,7 @@ In general.—A prime contract (or change or modification to a prime contract) u
 
 &emsp;(2)
 
-What constitutes defective cost or pricing data.—For the purposes of this chapter, defective cost or pricing data are cost or pricing data which, as of the date of agreement on the price of the contract (or another date agreed upon between the parties), were inaccurate, incomplete, or noncurrent. If for purposes of the preceding sentence the parties agree upon a date other than the date of agreement on the price of the contract, the date agreed upon by the parties shall be as close tothe date of agreement on the price of the contract as is practicable.
+What constitutes defective cost or pricing data.—For the purposes of this chapter, defective cost or pricing data are cost or pricing data which, as of the date of agreement on the price of the contract (or another date agreed upon between the parties), were inaccurate, incomplete, or noncurrent. If for purposes of the preceding sentence the parties agree upon a date other than the date of agreement on the price of the contract, the date agreed upon by the parties shall be as close to the date of agreement on the price of the contract as is practicable.
 
 (b)
 
@@ -60,7 +60,7 @@ The text of subsec. (e) of section 2306a of this title, which was transferred to
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §1831(g)(1), transferred subsec. (e) of section 2306a of this title to this section, struck out subsec. (e) designation and heading "Price Reductions for Defective Cost or Pricing Data" at beginning, and redesignated pars. (1) to (4) as subsecs. (a) to (d), resepectively.
+<b>2021</b>—Pub. L. 116–283, §1831(g)(1), transferred subsec. (e) of section 2306a of this title to this section, struckout subsec. (e) designation and heading "Price Reductions for Defective Cost or Pricing Data" at beginning, and redesignated pars. (1) to (4) as subsecs. (a) to (d), resepectively.
 
 Subsec. (a). Pub. L. 116–283, §1831(g)(2), after redesignation of section 2306a(e)(1) of this title as subsec. (a) of this section, inserted subsec. heading, redesignated subpar. (A) as par. (1), inserted heading, and substituted "section 3702(b) of this title" for "subsection (a)(2)", and redesignated subpar. (B) as par. (2), inserted heading, and substituted "of this chapter" for "of this section".
 
@@ -76,7 +76,7 @@ Subsec. (d)(1). Pub. L. 116–283, §1831(g)(5)(A), (B), (D), inserted heading, 
 
 Subsec. (d)(1)(B). Pub. L. 116–283, §1831(g)(5)(E), substituted "subsection (a)(2)" for "paragraph (1)(B)" and "section 3702(c) of this title" for "subsection (a)(3)".
 
-Subsec. (d)(2). Pub. L. 116–283, §1831(g)(5)(F)(i), (ii), substituted "paragraph (1)" for "subparagraph (A)" in introductory provisions and redesignated cls. (i) and\(ii) of former section 2306a(e)(4)(B) as subpars. (A) and (B), respectively.
+Subsec. (d)(2). Pub. L. 116–283, §1831(g)(5)(F)(i), (ii), substituted "paragraph (1)" for "subparagraph (A)" in introductory provisions and redesignated cls. (i) and (ii) of former section 2306a(e)(4)(B) as subpars. (A) and (B), respectively.
 
 Subsec. (d)(2)(A). Pub. L. 116–283, §1831(g)(5)(F)(iii), substituted "section 3702(b) of this title" for "subsection (a)(2)".
 

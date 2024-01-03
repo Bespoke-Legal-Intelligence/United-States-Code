@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall evaluate and report to the Congress biennially on the effectiveness of the programs carried out pursuant to this subpart in accomplishing the purposes of this subpart, and may evaluate any other Federal, State, or local program, regardless of whether federally assisted, that is designed to achieve the same purposes as the program under this subpart, in accordance with criteria established in accordance with paragraph (2).
+&emsp;The Secretary shall evaluate and report to the Congress biennially on the effectiveness ofthe programs carried out pursuant to this subpart in accomplishing the purposes of this subpart, and may evaluate any other Federal, State, or local program, regardless of whether federally assisted, that is designed to achieve the same purposes as the program under this subpart, in accordance with criteria established in accordance with paragraph (2).
 
 #### (2) Criteria to be used
 
@@ -54,7 +54,7 @@ To the extent funds are available therefor, the Secretary shall provide technica
 
 #### (2) Program components
 
-&emsp;The family recovery and reunification program conducted under the project shall adhere closely to the elements and protocol determined to be most effective in other recovery coaching programs that have been rigorously evaluated and shown to increase family reunification and protect children and, consistentwith such elements and protocol, shall provide such items and services as—
+&emsp;The family recovery and reunification program conducted under the project shall adhere closely to the elements and protocol determined to be most effective in other recovery coaching programs that have been rigorously evaluated and shown to increase family reunification and protect children and, consistent with such elements and protocol, shall provide such items and services as—
 
 &emsp;&emsp;(A) assessments to evaluate the needs of the parent or guardian;
 
@@ -108,7 +108,7 @@ To the extent funds are available therefor, the Secretary shall provide technica
 
 #### (C) Impact study
 
-&emsp;&emsp;The impact study component of the evaluation shall determine the impacts of the family recovery and reunification program conducted under the project on the parentsand guardians and their children participating in the program. The impact study component shall—
+&emsp;&emsp;The impact study component of the evaluation shall determine the impacts of the family recovery and reunification program conducted under the project on the parents and guardians and their children participating in the program. The impact study component shall—
 
 &emsp;&emsp;&emsp;(i) be conducted using an experimental design that uses a random assignment research methodology;
 

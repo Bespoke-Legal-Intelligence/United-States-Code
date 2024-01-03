@@ -154,7 +154,7 @@ Pub. L. 114–73, §1301(b), amended par. (2) generally. Prior to amendment, tex
 
 &emsp;"(E) $79,235 to carry out section 5116(j)."
 
-Pub. L. 114–41, §1301(b)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on July 31, 2015—
+Pub. L. 114–41, §1301(b)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "From the Hazardous Materials EmergencyPreparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on July 31, 2015—
 
 &emsp;"(A) $156,581 to carry out section 5115;
 

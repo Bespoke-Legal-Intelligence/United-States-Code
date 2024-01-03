@@ -74,7 +74,7 @@ Establishment.—The Secretary of Health and Human Services (referred to in this
 
 Duties.—The Advisory Committee shall provide advice, recommendations, or information to the Secretary as may be necessary to improve activities and programs to reduce severe maternal morbidity, maternal mortality, infant mortality, and preterm birth, which may include recommendations, advice, or information related to the following:
 
-&emsp;"(A) Programs of the Department of Health and Human Services that are directed at reducing infantmortality, preterm birth, and improving the health status of pregnant women and infants, and information on cost-effectiveness and outcomes of such programs.
+&emsp;"(A) Programs of the Department of Health and Human Services that are directed at reducing infant mortality, preterm birth, and improving the health status of pregnant women and infants, and information on cost-effectiveness and outcomes of such programs.
 
 &emsp;"(B) Strategies to coordinate the various Federal programs and activities with State, local, and private programs and efforts that address factors that affect infant mortality.
 

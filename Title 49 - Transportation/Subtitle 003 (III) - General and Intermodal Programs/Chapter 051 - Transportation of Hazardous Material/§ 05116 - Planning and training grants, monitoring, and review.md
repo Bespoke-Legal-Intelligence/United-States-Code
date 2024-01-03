@@ -62,7 +62,7 @@ Planning and Training Grants.—(1) The Secretary shall make grants to States an
 
 (b)
 
-Compliance With Certain Law.—The Secretary may make a grant to a State under this section in a fiscal year only if the State certifiesthat the State complies with sections 301 and 303 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001, 11003).
+Compliance With Certain Law.—The Secretary may make a grant to a State under this section in a fiscal year only if the State certifies that the State complies with sections 301 and 303 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001, 11003).
 
 (c)
 
@@ -134,7 +134,7 @@ Supplemental Training Grants.—
 
 &emsp;(5) The Secretary may not award a grant to an organization under this subsection unless the organization ensures that emergency responders who receive training under the grant will have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving the transportation of hazardous material in accordance with existing regulations or National Fire Protection Association standards for competence of responders to accidents and incidents involving hazardous materials.
 
-&emsp;(6) Notwithstanding paragraphs (1) and (3), to the extent determined appropriate by the Secretary, a grant awarded by the Secretary to an organization under this subsection to conduct hazardous material response training programs may be used to train individuals with responsibility to respond to accidents and incidents involving hazardous material.
+&emsp;(6) Notwithstanding paragraphs (1) and (3), to the extent determined appropriate by the Secretary, a grant awarded by the Secretary to an organization under this subsection to conduct hazardous material response trainingprograms may be used to train individuals with responsibility to respond to accidents and incidents involving hazardous material.
 
 &emsp;(7) For the purposes of this subsection, the term "portable training" means live, instructor-led training provided by certified fire service instructors that can be offered in any suitable setting, rather than specific designated facilities. Under this training delivery model, instructors travel to locations convenient to students and utilize local facilities and resources.
 
@@ -356,7 +356,7 @@ Subsec. (g). Pub. L. 109–59, §7126, substituted "Secretary" for "Secretary of
 
 Pub. L. 109–59, §7114(c), substituted "Federal financial assistance" for "Government grant programs" in introductory provisions.
 
-Subsec. (i). Pub. L. 109–59, §7114(d)(1), (2), in introductory provisions, inserted "(to be known as the 'Hazardous Materials Emergency Preparedness Fund')" after "an account in the Treasury" and struck out "collects under section 5108(g)(2)(A) of this title and" before "transfers to the Secretary", added par. (3), and redesignated former par. (3) as (4) and substituted "2 percent" for "10 percent".
+Subsec. (i). Pub. L. 109–59, §7114(d)(1), (2), in introductory provisions, inserted "(to be known as the 'Hazardous Materials Emergency Preparedness Fund')" after "an account in the Treasury" and struck out "collects under section 5108(g)(2)(A) of this title and" before "transfers to the Secretary", added par. (3), andredesignated former par. (3) as (4) and substituted "2 percent" for "10 percent".
 
 Subsec. (k). Pub. L. 109–59, §7114(e), substituted "The Secretary shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available to the public information on the allocation and uses of the planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107" for "Not later than September 30, 1997, the Secretary shall submit to Congress a report on the allocation and uses of training grants authorized under subsection (b) for fiscal year 1993 through fiscal year 1996 and grants authorized under subsection (j) and section 5107 for fiscal years 1995 and 1996" and "The report" for "Such report".
 

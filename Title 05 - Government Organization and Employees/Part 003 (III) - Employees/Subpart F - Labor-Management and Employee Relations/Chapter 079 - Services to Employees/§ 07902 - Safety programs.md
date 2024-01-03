@@ -118,7 +118,7 @@ Heads of Agencies
 
 (j) Operate an occupational safety and health management information system, which shall include the maintenance of such records as the Secretary may require.
 
-(k) Provide safety and health training for supervisory employees, employees responsible for conducting occupational safety and health inspections, all members ofoccupational safety and health committees where established, and other employees.
+(k) Provide safety and health training for supervisory employees, employees responsible for conducting occupational safety and health inspections, all members of occupational safety and health committees where established, and other employees.
 
 (l) Submit to the Secretary an annual report on the agency occupational safety and health program that includes information the Secretary prescribes.
 
@@ -210,9 +210,11 @@ Ex. Ord. No. 12566, Sept. 26, 1986, 51 F.R. 34575, which related to safety belt 
 
 #### Extension of Term of Federal Advisory Council on Occupational Safety and Health
 
-Term of Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of this title.
+Term of Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of this title.
 
 Previous extensions of term of Federal Advisory Council on Occupational Safety and Health were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
@@ -286,7 +288,7 @@ Executive departments and agencies (except the U.S. Postal Service) shall coordi
 
 Each executive department and agency shall bear its own costs for participating in the POWER Initiative, and nothing in this memorandum shall be construed to impair or otherwise affect the authority granted by law to an executive department or agency, or the head thereof.
 
-This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural,enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 The Secretary of Labor is authorized and directed to publish this memorandum in the Federal Register.
 

@@ -36,7 +36,7 @@
 
 #### (C) Secretary of Defense
 
-&emsp;&emsp;The Secretary of Defense shall, by July 1 of each year, submit to the Director and the appropriate congressional committees information for the preceding year regarding the number of air and maritime patrol hours primarily dedicated to drug supply reduction missions undertaken by each component of the Department of Defense.
+&emsp;&emsp;The Secretary of Defense shall, by July 1 of each year, submit to the Director and theappropriate congressional committees information for the preceding year regarding the number of air and maritime patrol hours primarily dedicated to drug supply reduction missions undertaken by each component of the Department of Defense.
 
 #### (D) Attorney General
 
@@ -120,7 +120,7 @@ The Administrator of General Services shall provide to the Director, on a reimbu
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (a)(2)(A), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (a)(2)(A), is act July 26, 1947, ch. 343, 61 Stat. 495,which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

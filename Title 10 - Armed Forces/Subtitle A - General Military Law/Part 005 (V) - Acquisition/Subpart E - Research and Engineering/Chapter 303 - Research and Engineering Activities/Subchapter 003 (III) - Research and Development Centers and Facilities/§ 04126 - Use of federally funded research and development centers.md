@@ -20,7 +20,7 @@ Limitation on Creation of New Centers.—(1) The head of an agency may not oblig
 
 (d)
 
-Identification to Congress of FFRDC Workload Effort.—After the close of a fiscal year, and not later than January 1 of the next year, the Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report setting forth the actual obligations and the actual man-years of effort expended at each federally funded research and development center during that fiscal year.
+Identification to Congress of FFRDC Workload Effort.—After the close of a fiscal year, and not later than January 1 of the next year, the Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report setting forth the actual obligations and the actual man-years of effort expended at eachfederally funded research and development center during that fiscal year.
 
 (Added Pub. L. 99–500, §101(c) \[title X, §912(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–146, and Pub. L. 99–591, §101(c) \[title X, §912(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–146, §2367; Pub. L. 99–661, div. A, title IX, formerly title IV, §912(a)(1), Nov. 14, 1986, 100 Stat. 3925, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 102–190, div. A, title II, §256(a)(1), Dec. 5, 1991, 105 Stat. 1330; Pub. L. 104–106, div. A, title XV, §1502(a)(9), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(a)(12), Dec. 2, 2002, 116 Stat. 2645; renumbered §4126, Pub. L. 116–283, div. A, title XVIII, §1843(b)(1), as added Pub. L. 117–81, div. A, title XVII, §1701(u)(4)(A), Dec. 27, 2021, 135 Stat. 2153; Pub. L. 116–283, div. A, title XVIII, §§1844(b)(1), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4245, 4294; Pub. L. 117–81, div. A, title XVII, §1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 2154.)
 
@@ -86,7 +86,7 @@ FFRDCs.—The pilot program shall be carried out with one or more federally fund
 
 "(c)
 
-FFRDC Personnel.—Sensitive information may be disclosed to personnel of a federally funded research and development center under the pilot program only if such personnel and contractors agree to be subject to,and comply with, appropriate ethics standards and requirements applicable to Government personnel, including the Ethics in Government Act of 1978 \[see 5 U.S.C. 13101 et seq.\], section 1905 of title 18, United States Code, and chapter 21 of title 41, United States Code.
+FFRDC Personnel.—Sensitive information may be disclosed to personnel of a federally funded research and development center under the pilot program only if such personnel and contractors agree to be subject to, and comply with, appropriate ethics standards and requirements applicable to Government personnel, including the Ethics in Government Act of 1978 \[see 5 U.S.C. 13101 et seq.\], section 1905 of title 18, United States Code, and chapter 21 of title 41, United States Code.
 
 "(d)
 
@@ -98,7 +98,7 @@ Conditions on Disclosure.—Sensitive information may be disclosed under the pil
 
 &emsp;"(3) sensitive information furnished under the pilot program shall not be used by the federally funded research and development center or parent organization to compete against a third party for a Government or non-Government contract or funding, or to support other current or future research or technology development activities performed by the federally funded research and development center; and
 
-&emsp;"(4) any personnel of a federally funded research and development center participating in the pilot program may not disclose or use any trade secrets or any nonpublic information accessed under the pilot program, unless specifically authorized by this section.
+&emsp;"(4) any personnel of a federally funded research and development center participating in the pilot program may not disclose or use any trade secrets orany nonpublic information accessed under the pilot program, unless specifically authorized by this section.
 
 "(e)
 

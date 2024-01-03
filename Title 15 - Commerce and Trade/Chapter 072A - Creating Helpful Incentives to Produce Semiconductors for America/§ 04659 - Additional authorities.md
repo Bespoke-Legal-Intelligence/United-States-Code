@@ -12,7 +12,7 @@ In carrying out the responsibilities of the Department of Commerce under this ch
 
 &emsp;(4) procure temporary and intermittent services of experts and consultants in accordance with section 3109 of title 5;
 
-&emsp;(5) notwithstanding section 3104 of title 5 or the provisions of any other law relating to theappointment, number, classification, or compensation of employees, make appointments of scientific, engineering, and professional personnel, and fix the basic pay of such personnel at a rate to be determined by the Secretary at rates not in excess of the highest total annual compensation payable at the rate determined under section 104 of title 3, except that the Secretary shall appoint not more than 25 personnel under this paragraph;
+&emsp;(5) notwithstanding section 3104 of title 5 or the provisions of any other law relating to the appointment, number, classification, or compensation of employees, make appointments of scientific, engineering, and professional personnel, and fix the basic pay of such personnel at a rate to be determined by the Secretary at rates not in excess of the highest total annual compensation payable at the rate determined under section 104 of title 3, except that the Secretary shall appoint not more than 25 personnel under this paragraph;
 
 &emsp;(6) with the consent of another Federal agency, enter into an agreement with that Federal agency to use, with or without reimbursement, any service, equipment, personnel, or facility of that Federal agency; and
 

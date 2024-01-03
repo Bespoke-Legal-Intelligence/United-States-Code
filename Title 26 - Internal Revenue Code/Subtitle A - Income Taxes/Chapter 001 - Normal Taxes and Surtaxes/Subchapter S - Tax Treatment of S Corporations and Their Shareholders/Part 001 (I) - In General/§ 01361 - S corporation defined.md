@@ -56,7 +56,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this title, if any corporation which was a qualified subchapter S subsidiary ceases to meet the requirements of subparagraph (B), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the S corporation in exchange for its stock.
+&emsp;&emsp;&emsp;For purposes of this title, if any corporation which was a qualified subchapter Ssubsidiary ceases to meet the requirements of subparagraph (B), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the S corporation in exchange for its stock.
 
 #### (ii) Termination by reason of sale of stock
 
@@ -78,7 +78,7 @@
 
 #### (E) Information returns
 
-&emsp;&emsp;Except to the extent provided by the Secretary, this paragraph shall not apply topart III of subchapter A of chapter 61 (relating to information returns).
+&emsp;&emsp;Except to the extent provided by the Secretary, this paragraph shall not apply to part III of subchapter A of chapter 61 (relating to information returns).
 
 #### (c) Special rules for applying subsection (b)
 
@@ -334,7 +334,7 @@ The date of the enactment of this clause, referred to in subsec. (c)(2)(A)(vi), 
 
 #### Prior Provisions
 
-A prior section 1361, acts Aug. 16, 1954, ch. 736, 68A Stat. 350; Oct. 10, 1962, Pub. L. 87–792, §7(h), 76 Stat. 829;Feb. 26, 1964, Pub. L. 88–272, title II, §225(k)(5), 78 Stat. 94; Apr. 14, 1966, Pub. L. 89–389, §4(a), 80 Stat. 115, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by Pub. L. 89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116, effective Jan. 1, 1969.
+A prior section 1361, acts Aug. 16, 1954, ch. 736, 68A Stat. 350; Oct. 10, 1962, Pub. L. 87–792, §7(h), 76 Stat. 829; Feb. 26, 1964, Pub. L. 88–272, title II, §225(k)(5), 78 Stat. 94; Apr. 14, 1966, Pub. L. 89–389, §4(a), 80 Stat. 115, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by Pub. L. 89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116, effective Jan. 1, 1969.
 
 #### Amendments
 
@@ -436,7 +436,7 @@ Subsec. (e)(1)(A)(i). Pub. L. 104–188, §1316(e), struck out "which holds a co
 
 Subsec. (d)(3). Pub. L. 99–514, §1879(m)(1)(A), inserted at end "A substantially separate and independent share of a trust treated as a separate trust under section 663(c) shall be treated as a separate trust for purposes of this subsection and subsection (c)."
 
-<b>1984</b>—Subsec. (c)(6). Pub. L. 98–369, §721(c), amended par. (6) generally, substituting "during any period within a taxable year" for "during any taxable year" in provisions preceding subpar. (A), and substituting "onor before the close of such period" for "on or after the date of its incorporation and before the close of such taxable year" in subpar. (A), and "does not have gross income for such period" for "does not have taxable income for the period included within such taxable year" in subpar. (B).
+<b>1984</b>—Subsec. (c)(6). Pub. L. 98–369, §721(c), amended par. (6) generally, substituting "during any period within a taxable year" for "during any taxable year" in provisions preceding subpar. (A), and substituting "on or before the close of such period" for "on or after the date of its incorporation and before the close of such taxable year" in subpar. (A), and "does not have gross income for such period" for "does not have taxable income for the period included within such taxable year" in subpar. (B).
 
 Subsec. (d)(2)(B)(i). Pub. L. 98–369, §721(f)(3), substituted "corporation" for "S corporation" in heading and text.
 
@@ -498,7 +498,7 @@ Amendment by Pub. L. 106–554 effective as if included in the provisions of the
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to whichsuch amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -524,7 +524,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 901(d)(4)(G) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 901(e) of Pub. L. 99–514, set out as a note under section 166 of this title.
 
-Pub. L. 99–514, title XVIII, §1879(m)(2), Oct. 22, 1986, 100 Stat. 2910, provided that: "The amendments madeby this subsection \[amending this section and section 1368 of this title\] shall apply to taxable years beginning after December 31, 1982."
+Pub. L. 99–514, title XVIII, §1879(m)(2), Oct. 22, 1986, 100 Stat. 2910, provided that: "The amendments made by this subsection \[amending this section and section 1368 of this title\] shall apply to taxable years beginning after December 31, 1982."
 
 #### Effective Date of 1984 Amendment
 
@@ -602,7 +602,7 @@ Grandfather Rules.—
 
 &emsp;"(1)
 
-Subsidiaries which are foreign corporations or disc's.—In the case of any corporation which on September 28, 1982, would have been a member of the same affiliated group as an electing small business corporation but for paragraph (3) or (7) of section 1504(b) of the Internal Revenue Code of 1986, subparagraph (A) of section 1361(b)(2) of such Code (as amended by section 2) shall be applied by substituting 'without regard to the exceptions contained in paragraphs (1), (2), (4), (5), and (6) of subsection (b) thereof' for 'without regard to the exceptions contained in subsection (b) thereof'.
+Subsidiaries which are foreign corporations or disc's.—In the case of any corporation which on September 28, 1982, would have been a member of the same affiliated group as an electing small business corporation but for paragraph (3) or (7) of section1504(b) of the Internal Revenue Code of 1986, subparagraph (A) of section 1361(b)(2) of such Code (as amended by section 2) shall be applied by substituting 'without regard to the exceptions contained in paragraphs (1), (2), (4), (5), and (6) of subsection (b) thereof' for 'without regard to the exceptions contained in subsection (b) thereof'.
 
 &emsp;"(2)
 
@@ -714,7 +714,7 @@ Taxable Year of S Corporations.—Section 1378 of the Internal Revenue Code of 1
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 401(d)(1)(D)(xvi) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by section 401(d)(1)(D)(xvi) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending afterMar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Elimination of all Earnings and Profits Attributable to Pre-1983 Years for Certain Corporations
 
@@ -738,7 +738,7 @@ Pub. L. 104–188, title I, §1311(a), Aug. 20, 1996, 110 Stat. 1784, provided t
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transitional Provisions
 

@@ -1,6 +1,6 @@
 ### §7806. Settlement or compromise: final and conclusive
 
-Notwithstanding any other provision of law, upon acceptance of payment the settlement or compromise of a claim under section 7802 or 7803 of this title is final and conclusive.
+Notwithstanding any other provision of law, upon acceptance of payment the settlement orcompromise of a claim under section 7802 or 7803 of this title is final and conclusive.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 272, §4806; renumbered §7806 and amended Pub. L. 115–232, div. A, title VIII, §§808(d), 809(a), Aug. 13, 2018, 132 Stat. 1839, 1840.)
 

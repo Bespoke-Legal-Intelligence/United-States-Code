@@ -8,7 +8,7 @@ The Oversight Board may intervene in any litigation filed against the territoria
 
 #### (1) In general
 
-&emsp;If the Oversight Board intervenes in a litigation under subsection (a), the Oversight Board may seek injunctive relief, including a stay of litigation.
+&emsp;If the Oversight Board intervenes in a litigation under subsection (a), the Oversight Boardmay seek injunctive relief, including a stay of litigation.
 
 #### (2) No independent basis for relief
 

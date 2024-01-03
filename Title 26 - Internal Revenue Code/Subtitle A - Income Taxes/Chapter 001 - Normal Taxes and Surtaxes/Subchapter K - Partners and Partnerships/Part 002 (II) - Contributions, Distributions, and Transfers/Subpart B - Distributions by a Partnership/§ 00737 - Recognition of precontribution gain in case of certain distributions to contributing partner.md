@@ -62,7 +62,7 @@ Subsec. (e). Pub. L. 103–465, §741(b)(2), added subsec. (e).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to property contributed to a partnership after June 8, 1997, but not applicable to any property contributed pursuant to awritten binding contract in effect on June 8, 1997, and at all times thereafter before such contribution if such contract provides for the contribution of a fixed amount of property, see section 1063(b) of Pub. L. 105–34, set out as a note under section 704 of this title.
+Amendment by Pub. L. 105–34 applicable to property contributed to a partnership after June 8, 1997, but not applicable to any property contributed pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such contribution if such contract provides for the contribution of a fixed amount of property, see section 1063(b) of Pub. L. 105–34, set out as a note under section 704 of this title.
 
 #### Effective Date of 1994 Amendment
 

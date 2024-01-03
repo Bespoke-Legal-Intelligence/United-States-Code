@@ -8,7 +8,7 @@ Not later than 90 days after August 2, 2017, and annually thereafter, the Secret
 
 &emsp;&emsp;(A) to expose illegal activity carried out by officials of the Government of Iran; or
 
-&emsp;&emsp;(B) to obtain, exercise, defend, or promote internationally recognized human rights and freedoms, such as the freedoms of religion, expression, association, and assembly, and the rights to a fair trial and democratic elections; or
+&emsp;&emsp;(B) to obtain, exercise, defend, or promote internationally recognized human rights andfreedoms, such as the freedoms of religion, expression, association, and assembly, and the rights to a fair trial and democratic elections; or
 
 &emsp;(2) acts as an agent of or on behalf of a foreign person in a matter relating to an activity described in paragraph (1).
 

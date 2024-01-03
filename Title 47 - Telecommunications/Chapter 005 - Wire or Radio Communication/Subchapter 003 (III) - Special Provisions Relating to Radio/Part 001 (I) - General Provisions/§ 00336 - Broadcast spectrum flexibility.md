@@ -48,7 +48,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 &emsp;&emsp;(A) be designed (i) to recover for the public a portion of the value of the public spectrum resource made available for such commercial use, and (ii) to avoid unjust enrichment through the method employed to permit such uses of that resource;
 
-&emsp;&emsp;(B) recover for the public an amount that, to the extent feasible, equals but does not exceed (over the term of the license) the amount that would have been recovered had such services been licensed pursuant to the provisions of section 309(j) of this title and the Commission's regulations thereunder; and
+&emsp;&emsp;(B) recover for the public an amount that, to the extent feasible, equals but does notexceed (over the term of the license) the amount that would have been recovered had such services been licensed pursuant to the provisions of section 309(j) of this title and the Commission's regulations thereunder; and
 
 &emsp;&emsp;(C) be adjusted by the Commission from time to time in order to continue to comply with the requirements of this paragraph.
 
@@ -208,7 +208,7 @@ Within 10 years after the date the Commission first issues additional licenses f
 
 &emsp;(M) W24AJ, Aurora, Illinois.
 
-(3) Notwithstanding any requirement of section 553 of title 5, the Commission shall promulgate regulations establishing the procedures,consistent with the requirements of paragraphs (4) and (5), governing the pilot projects for the provision of digital data services by certain low power television licensees within 120 days after the date of enactment of LPTV Digital Data Services Act.<sup>1</sup> The regulations shall set forth—
+(3) Notwithstanding any requirement of section 553 of title 5, the Commission shall promulgate regulations establishing the procedures, consistent with the requirements of paragraphs (4) and (5), governing the pilot projects for the provision of digital data services by certain low power television licensees within 120 days after the date of enactment of LPTV Digital Data Services Act.<sup>1</sup> The regulations shall set forth—
 
 &emsp;(A) requirements as to the form, manner, and information required for submitting requests to the Commission to provide digital data service as a pilot project;
 

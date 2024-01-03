@@ -56,7 +56,7 @@ The Corporation may undertake activities, including activities carried out throu
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (b), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Part A of title I of the Act is classified generally to part A (§4951 et seq.) of subchapter I of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b), is Pub.L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Prior Provisions
 

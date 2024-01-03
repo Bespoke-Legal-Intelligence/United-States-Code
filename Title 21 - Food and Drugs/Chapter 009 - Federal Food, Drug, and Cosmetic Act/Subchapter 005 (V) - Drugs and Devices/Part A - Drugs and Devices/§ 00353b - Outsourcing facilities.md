@@ -186,7 +186,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 #### (5) Adverse event reporting
 
-&emsp;Outsourcing facilities shall submit adverse event reports to the Secretary in accordancewith the content and format requirements established through guidance or regulation under section 310.305 of title 21, Code of Federal Regulations (or any successor regulations).
+&emsp;Outsourcing facilities shall submit adverse event reports to the Secretary in accordance with the content and format requirements established through guidance or regulation under section 310.305 of title 21, Code of Federal Regulations (or any successor regulations).
 
 #### (c) Regulations
 

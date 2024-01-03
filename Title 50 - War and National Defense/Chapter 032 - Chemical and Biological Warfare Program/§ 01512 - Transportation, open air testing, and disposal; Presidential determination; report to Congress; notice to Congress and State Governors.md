@@ -34,7 +34,7 @@ Pub. L. 109–163, div. A, title XII, §1232, Jan. 6, 2006, 119 Stat. 3468, prov
 
 "(a)
 
-Restatement of Policy.—It is the policy of the United States that riot control agents are not chemical weapons and that the President may authorize their use as legitimate, legal, and non-lethal alternatives to the use of force that, as provided in Executive Order No. 11850 (40 Fed. Reg. 16187) \[set out below\] and consistent with the resolution of ratification of the Chemical Weapons Convention, may be employed by members of the Armed Forces in war in defensive militarymodes to save lives, including the illustrative purposes cited in Executive Order No. 11850.
+Restatement of Policy.—It is the policy of the United States that riot control agents are not chemical weapons and that the President may authorize their use as legitimate, legal, and non-lethal alternatives to the use of force that, as provided in Executive Order No. 11850 (40 Fed. Reg. 16187) \[set out below\] and consistent with the resolution of ratification of the Chemical Weapons Convention, may be employed by members of the Armed Forces in war in defensive military modes to save lives, including the illustrative purposes cited in Executive Order No. 11850.
 
 "(b)
 

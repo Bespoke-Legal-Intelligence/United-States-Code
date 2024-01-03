@@ -228,7 +228,7 @@ The Assistant Secretary shall establish a program under which the Assistant Secr
 
 &emsp;&emsp;&emsp;&emsp;(III) Speed and usage surveys of existing broadband service that—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) demonstrate that more than 25 percent of the respondents display abroadband service speed that is slower than the speeds required for an area to qualify as unserved; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) demonstrate that more than 25 percent of the respondents display a broadband service speed that is slower than the speeds required for an area to qualify as unserved; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) are conducted by—
 
@@ -300,7 +300,7 @@ The Assistant Secretary shall establish a program under which the Assistant Secr
 
 #### (iii) Inclusion in application
 
-&emsp;&emsp;&emsp;An applicant for a middle mile grant shall disclose the applicant's proposed interconnection, nondiscrimination, and network management practices in the application submitted through the process established under subsection (d).
+&emsp;&emsp;&emsp;An applicant for a middle mile grant shall disclose the applicant's proposed interconnection, nondiscrimination, andnetwork management practices in the application submitted through the process established under subsection (d).
 
 #### (4) Accountability
 
@@ -324,7 +324,7 @@ The Assistant Secretary shall establish a program under which the Assistant Secr
 
 &emsp;&emsp;&emsp;(ii) the project to build out middle mile infrastructure is underway; or
 
-&emsp;&emsp;&emsp;(iii) extenuating circumstances require an extension of time to allow completionof the project to build out middle mile infrastructure.
+&emsp;&emsp;&emsp;(iii) extenuating circumstances require an extension of time to allow completion of the project to build out middle mile infrastructure.
 
 #### (B) Effect on interim buildout requirements
 

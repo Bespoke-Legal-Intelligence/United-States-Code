@@ -36,7 +36,7 @@ No provision of this title,<sup>1</sup> except as provided in section 1083,<sup>
 
 &emsp;&emsp;(A) shall include a discussion of the considerations required in paragraph (2) in the Federal Register notice of a final regulation prescribed pursuant to this subsection; and
 
-&emsp;&emsp;(B) whenever the Bureau determines not to prescribe a final regulation, shall publish an explanation of such determination in the Federal Register, and provide a copy of such explanation to each State that enacted aresolution in support of the proposed regulation, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives.
+&emsp;&emsp;(B) whenever the Bureau determines not to prescribe a final regulation, shall publish an explanation of such determination in the Federal Register, and provide a copy of such explanation to each State that enacted a resolution in support of the proposed regulation, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives.
 
 #### (4) Reservation of authority
 

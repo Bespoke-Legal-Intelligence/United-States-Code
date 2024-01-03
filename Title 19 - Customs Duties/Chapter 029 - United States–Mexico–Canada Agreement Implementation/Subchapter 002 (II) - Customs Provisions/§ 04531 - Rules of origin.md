@@ -156,7 +156,7 @@ In this section:
 
 &emsp;The term "sales promotion, marketing, and after-sales service costs" means the costs related to sales promotion, marketing, and after-sales service for the following:
 
-&emsp;&emsp;(A) Sales and marketing promotion, media advertising, advertising and market research, promotional and demonstration materials, exhibits, sales conferences, trade shows, conventions, banners, marketing displays, free samples, sales, marketing, and after-sales service literature (product brochures, catalogs, technical literature, price lists, service manuals, and sales aid information), establishment and protection of logos and trademarks, sponsorships, wholesale and retail charges, and entertainment.
+&emsp;&emsp;(A) Sales and marketing promotion, media advertising, advertising and market research, promotional and demonstration materials, exhibits, sales conferences, trade shows, conventions, banners, marketing displays, free samples, sales, marketing, and after-sales service literature (product brochures, catalogs, technical literature, pricelists, service manuals, and sales aid information), establishment and protection of logos and trademarks, sponsorships, wholesale and retail charges, and entertainment.
 
 &emsp;&emsp;(B) Sales and marketing incentives, consumer, retailer, or wholesaler rebates, and merchandise incentives.
 
@@ -260,7 +260,7 @@ In this section:
 
 &emsp;&emsp;(A) the good is a good wholly obtained or produced entirely in the territory of one or more USMCA countries;
 
-&emsp;&emsp;(B) the good is produced entirely in the territory of one or more USMCA countries using nonoriginating materials, if the good satisfies all applicable requirements set forth in Annex 4–B of the USMCA; or
+&emsp;&emsp;(B) the good is produced entirely in the territory of one or more USMCA countriesusing nonoriginating materials, if the good satisfies all applicable requirements set forth in Annex 4–B of the USMCA; or
 
 &emsp;&emsp;(C) the good is produced entirely in the territory of one or more USMCA countries, exclusively from originating materials;
 
@@ -566,7 +566,7 @@ nc
 
 #### (3) Use of inventory management method
 
-&emsp;A person that selects an inventory management method for purposes of paragraph (1) or (2) shall use that inventory managementmethod throughout the fiscal year of the person.
+&emsp;A person that selects an inventory management method for purposes of paragraph (1) or (2) shall use that inventory management method throughout the fiscal year of the person.
 
 #### (h) Accessories, spare parts, tools, and instructional or other information materials
 

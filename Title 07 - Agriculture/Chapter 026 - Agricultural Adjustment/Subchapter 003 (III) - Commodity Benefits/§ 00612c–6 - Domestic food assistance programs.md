@@ -32,7 +32,7 @@ In this section, the term "section 32" means section 32 of the Act of August 24,
 
 &emsp;&emsp;(ix) in the case of fiscal year 2017, $1,322,000,000; and
 
-&emsp;&emsp;(x) for fiscal year 2018 and each fiscal year thereafter, the amount made available for the preceding fiscal year, as adjusted to reflect changes for the 12-month period ending on the preceding November 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor; and
+&emsp;&emsp;(x) for fiscal year 2018 and each fiscal year thereafter, the amount made available for the preceding fiscal year, as adjusted to reflect changes for the 12-month period endingon the preceding November 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor; and
 
 &emsp;&emsp;(B) any transfers for the fiscal year from section 32 to the Department of Commerce under the Fish and Wildlife Act of 1956 (16 U.S.C. 742a et seq.).
 

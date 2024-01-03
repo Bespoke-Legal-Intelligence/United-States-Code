@@ -4,13 +4,13 @@ For purposes of this chapter, the term—
 
 &emsp;(1) "burial site" means any natural or prepared physical location, whether originally below, on, or above the surface of the earth, into which as a part of the death rite or ceremony of a culture, individual human remains are deposited.
 
-&emsp;(2) "cultural affiliation" means that there is a relationship of shared group identity which can be reasonably traced historically orprehistorically between a present day Indian tribe or Native Hawaiian organization and an identifiable earlier group.
+&emsp;(2) "cultural affiliation" means that there is a relationship of shared group identity which can be reasonably traced historically or prehistorically between a present day Indian tribe or Native Hawaiian organization and an identifiable earlier group.
 
 &emsp;(3) "cultural items" means human remains and—
 
 &emsp;&emsp;(A) "associated funerary objects" which shall mean objects that, as a part of the death rite or ceremony of a culture, are reasonably believed to have been placed with individual human remains either at the time of death or later, and both the human remains and associated funerary objects are presently in the possession or control of a Federal agency or museum, except that other items exclusively made for burial purposes or to contain human remains shall be considered as associated funerary objects.<sup>1</sup>
 
-&emsp;&emsp;(B) "unassociated funerary objects" which shall mean objects that, as a part of the death rite or ceremony of a culture, are reasonably believed to have been placed with individual human remains either at the time of death or later, where the remains are not in the possession or control of the Federal agency or museum and the objects can be identified by a preponderance of the evidence as related to specific individuals or families or to known human remains or, by a preponderance of the evidence, as having been removed from a specific burial site of an individual culturally affiliated with a particular Indian tribe,
+&emsp;&emsp;(B) "unassociated funerary objects" which shall mean objects that, as a part of the death rite or ceremony of a culture, are reasonably believed to have been placed with individual human remains either at the timeof death or later, where the remains are not in the possession or control of the Federal agency or museum and the objects can be identified by a preponderance of the evidence as related to specific individuals or families or to known human remains or, by a preponderance of the evidence, as having been removed from a specific burial site of an individual culturally affiliated with a particular Indian tribe,
 
 &emsp;&emsp;(C) "sacred objects" which shall mean specific ceremonial objects which are needed by traditional Native American religious leaders for the practice of traditional Native American religions by their present day adherents, and
 

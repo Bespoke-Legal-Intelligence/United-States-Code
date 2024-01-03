@@ -16,7 +16,7 @@ Grants.—The Secretary may make grants under this section for—
 
 &emsp;&emsp;(D) operating costs of equipment and facilities for use in public transportation in an urbanized area with a population of fewer than 200,000 individuals, as determined by the Bureau of the Census.
 
-&emsp;(2) The Secretary may make grants under this section to finance the operating cost of equipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
+&emsp;(2) The Secretary may make grants under this section to finance the operating cost ofequipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
 
 &emsp;&emsp;(A) for public transportation systems that—
 
@@ -66,7 +66,7 @@ Grant Recipient Requirements.—A recipient may receive a grant in a fiscal year
 
 &emsp;&emsp;&emsp;(i) senior;
 
-&emsp;&emsp;&emsp;(ii) individual who, because of illness, injury, age, congenital malfunction, or other incapacity or temporary or permanent disability (including an individual who is a wheelchair user or has semiambulatory capability), cannot use a public transportation service or a public transportationfacility effectively without special facilities, planning, or design; and
+&emsp;&emsp;&emsp;(ii) individual who, because of illness, injury, age, congenital malfunction, or other incapacity or temporary or permanent disability (including an individual who is a wheelchair user or has semiambulatory capability), cannot use a public transportation service or a public transportation facility effectively without special facilities, planning, or design; and
 
 &emsp;&emsp;&emsp;(iii) individual presenting a Medicare card issued to that individual under title II or XVIII of the Social Security Act (42 U.S.C. 401 et seq. and 1395 et seq.);
 
@@ -80,7 +80,7 @@ Grant Recipient Requirements.—A recipient may receive a grant in a fiscal year
 
 &emsp;&emsp;(I) has a locally developed process to solicit and consider public comment before raising a fare or carrying out a major reduction of transportation;
 
-&emsp;&emsp;(J)(i) will expend for each fiscal year for public transportation security projects, including increased lighting in or adjacent to a public transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of an area in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned public transportation system, at least 1 percent of the amount the recipient receives for each fiscal year under section 5336 of this title; or
+&emsp;&emsp;(J)(i) will expend for each fiscal year for public transportation security projects, including increased lighting in or adjacent toa public transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of an area in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned public transportation system, at least 1 percent of the amount the recipient receives for each fiscal year under section 5336 of this title; or
 
 &emsp;&emsp;(ii) has decided that the expenditure for security projects is not necessary;
 
@@ -168,7 +168,7 @@ Annual review.—
 
 &emsp;&emsp;(A)
 
-In general.—At least annually, the Secretary shall carry out, or require a recipient to have carried out independently,reviews and audits the Secretary considers appropriate to establish whether the recipient has carried out—
+In general.—At least annually, the Secretary shall carry out, or require a recipient to have carried out independently, reviews and audits the Secretary considers appropriate to establish whether the recipient has carried out—
 
 &emsp;&emsp;&emsp;(i) the activities proposed under subsection (c) of this section in a timely and effective way and can continue to do so; and
 
@@ -180,7 +180,7 @@ Auditing procedures.—An audit of the use of amounts of the Government shall co
 
 &emsp;(2)
 
-Triennial review.—At least once every 3 years, the Secretary shall review and evaluate completely the performance of a recipient in carrying out the recipient's program, specifically referring to compliance with statutory and administrative requirements and the extent to which actual program activities are consistent with the activities proposed under subsection (c) of this section and the planning process required under sections 5303, 5304, and 5305 of this title. To the extent practicable, the Secretary shall coordinate such reviews with any related State or local reviews.
+Triennial review.—At least once every 3 years, the Secretary shall review and evaluate completely the performance of a recipient in carrying out the recipient's program, specifically referring to compliance with statutory and administrative requirements and the extent to which actual program activities areconsistent with the activities proposed under subsection (c) of this section and the planning process required under sections 5303, 5304, and 5305 of this title. To the extent practicable, the Secretary shall coordinate such reviews with any related State or local reviews.
 
 &emsp;(3)
 
@@ -418,7 +418,7 @@ The Social Security Act, referred to in subsec. (c)(1)(D)(iii), is act Aug. 14, 
 
 "(2)
 
-Special rule.—The Secretary may make grants under this section to finance the operating cost of equipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
+Special rule.—The Secretary may make grants under this section to finance the operating cost ofequipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
 
 &emsp;"(A) for public transportation systems that operate 75 or fewer buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 75 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; and
 
@@ -630,7 +630,7 @@ Subsec. (j). Pub. L. 109–59, §3009(a), redesignated subsec. (m) as (j) and st
 
 Subsec. (k). Pub. L. 109–59, §3009(g), reenacted heading without change and amended text of subsec. (k) generally. Prior to amendment, text read as follows:
 
-"(1) Section 1001 of title 18 applies to a certificate or submission under this section. The Secretary may end a grant under this section and seek reimbursement, directly or by offsetting amounts available under section 5336 of this title, when a false or fraudulent statementor related act within the meaning of section 1001 is made in connection with a certification or submission.
+"(1) Section 1001 of title 18 applies to a certificate or submission under this section. The Secretary may end a grant under this section and seek reimbursement, directly or by offsetting amounts available under section 5336 of this title, when a false or fraudulent statement or related act within the meaning of section 1001 is made in connection with a certification or submission.
 
 "(2) Sections 5302, 5318, 5319, 5323(a)(1), (d), and (f), 5332, and 5333 of this title apply to this section and to a grant made under this section. Except as provided in this section, no other provision of this chapter applies to this section or to a grant made under this section."
 
@@ -642,7 +642,7 @@ In general.—One percent of the funds apportioned to urbanized areas with a pop
 
 "(2)
 
-Period of availability.—Funds apportioned under paragraph (1) shall be available for obligation for 3 years following the fiscal year in which the funds are apportioned. Funds that are not obligated at the end of such period shall be reapportioned under the urbanized area formula program of section 5336.
+Period of availability.—Funds apportioned under paragraph (1) shall be available for obligation for 3 years following the fiscal year in which the funds are apportioned. Funds that are not obligated at the end ofsuch period shall be reapportioned under the urbanized area formula program of section 5336.
 
 "(3)
 

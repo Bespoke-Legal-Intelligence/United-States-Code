@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(E) establishment of business outreach centers;
 
-&emsp;&emsp;(F) studies evaluating the needs of, and development potential for, economic growth ofareas that the Secretary determines have substantial need for the assistance;
+&emsp;&emsp;(F) studies evaluating the needs of, and development potential for, economic growth of areas that the Secretary determines have substantial need for the assistance;
 
 &emsp;&emsp;(G) studies that evaluate the effectiveness of coordinating projects funded under this chapter with projects funded under other Acts;
 

@@ -158,7 +158,7 @@ In General.—Not later than 270 days after the date of enactment of this Act \[
 
 "(b)
 
-Rulemaking.—Not later than 2 years after the date of enactment of this Act, the Administrator shall review and initiate a rulemaking to update the factors considered when evaluating a Governor's request for amajor disaster declaration, including reviewing how the \[Federal Emergency Management\] Agency estimates the cost of major disaster assistance, and consider other impacts on the capacity of a jurisdiction to respond to disasters. In determining the capacity of a jurisdiction to respond to disasters, and prior to the issuance of such a rule, the Administrator shall engage in meaningful consultation with relevant representatives of State, regional, local, and Indian tribal government stakeholders."
+Rulemaking.—Not later than 2 years after the date of enactment of this Act, the Administrator shall review and initiate a rulemaking to update the factors considered when evaluating a Governor's request for a major disaster declaration, including reviewing how the \[Federal Emergency Management\] Agency estimates the cost of major disaster assistance, and consider other impacts on the capacity of a jurisdiction to respond to disasters. In determining the capacity of a jurisdiction to respond to disasters, and prior to the issuance of such a rule, the Administrator shall engage in meaningful consultation with relevant representatives of State, regional, local, and Indian tribal government stakeholders."
 
 \[For definition of "State" as used in section 1239 of Pub. L. 115–254, set out above, see section 1203 of Pub. L. 115–254, set out as a note under section 5122 of this title.\]
 

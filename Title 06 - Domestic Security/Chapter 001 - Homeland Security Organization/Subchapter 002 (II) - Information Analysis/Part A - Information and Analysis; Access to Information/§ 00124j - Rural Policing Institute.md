@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish a Rural Policing Institute, which shall be administered by theFederal Law Enforcement Training Center, to target training to law enforcement agencies and other emergency response providers located in rural areas. The Secretary, through the Rural Policing Institute, shall—
+The Secretary shall establish a Rural Policing Institute, which shall be administered by the Federal Law Enforcement Training Center, to target training to law enforcement agencies and other emergency response providers located in rural areas. The Secretary, through the Rural Policing Institute, shall—
 
 &emsp;(1) evaluate the needs of law enforcement agencies and other emergency response providers in rural areas;
 

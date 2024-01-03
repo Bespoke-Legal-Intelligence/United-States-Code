@@ -18,7 +18,7 @@
 | :--- | :---: | ---: |
 | [<b>911.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20911%20-%20Strength/README.md) | <b>Strength</b> | <b>9110</b> |
 | [<b>913.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20913%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>9131</b> |
-| [<b>915.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20915%20-%20Appointments%20in%20the%20Regular%20Air%20Force%20and%20the%20Regular%20Space%20Force/README.md) | <b>Appointments in the Regular Air Force and the Regular Space Force</b> | <b>9151</b> |
+| [<b>915.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20915%20-%20Appointments%20in%20the%20Regular%20Air%20Force%20and%20in%20the%20Space%20Force/README.md) | <b>Appointments in the Regular Air Force and in the Space Force</b> | <b>9151</b> |
 | [<b>919.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20919%20-%20Temporary%20Appointments/README.md) | <b>Temporary Appointments</b> | <b>9176</b> |
 | [<b>921.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20921%20-%20Active%20Duty/README.md) | <b>Active Duty</b> | <b>9191</b> |
 | [<b>923.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20923%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md) | <b>Special Appointments, Assignments, Details, and Duties</b> | <b>9217</b> |
@@ -70,7 +70,9 @@
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. A, title IX, §923(a)(1), (c)(3)(C), title X, §1081(a)(47), Jan. 1, 2021, 134 Stat. 3807, 3810, 3873, substituted "Air Force and Space Force" for "Air Force" in subtitle heading, struck out period atend of item for chapter 908, and added item for chapter 915 and struck out former item for chapter 915 "Appointments in the Regular Air Force".
+<b>2023</b>—Pub. L. 118–31, div. A, title XVII, §1721(a)(5)(B), Dec. 22, 2023, 137 Stat. 666, added item for chapter 915 and struck out former item for chapter 915 "Appointments in the Regular Air Force and the Regular Space Force". Amendment was executed to reflect the probable intent of Congress, notwithstanding directory language amending this analysis as if it were within part II of this subtitle.
+
+<b>2021</b>—Pub. L. 116–283, div. A, title IX, §923(a)(1), (c)(3)(C), title X, §1081(a)(47), Jan. 1, 2021, 134 Stat. 3807, 3810, 3873, substituted "Air Force and Space Force" for "Air Force" in subtitle heading, struck out period at end of item for chapter 908, and added item for chapter 915 and struck out former item for chapter 915 "Appointments in the Regular Air Force".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title IX, §952(f), Dec. 20, 2019, 133 Stat. 1562, added item for chapter 908.
 

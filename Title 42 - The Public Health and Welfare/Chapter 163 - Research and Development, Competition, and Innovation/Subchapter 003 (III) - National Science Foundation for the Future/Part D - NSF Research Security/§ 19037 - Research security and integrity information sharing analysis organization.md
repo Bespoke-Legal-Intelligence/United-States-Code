@@ -40,7 +40,7 @@ The Foundation may provide initial funds toward the RSI-ISAO but shall seek to h
 
 #### (e) Board of directors
 
-The RSI-ISAO may establish a board of directors to provide guidance for policies, legalissues, and plans and strategies of the entity's operations. The board shall include a diverse group of stakeholders representing the research community, including academia, industry, and experienced research security administrators.
+The RSI-ISAO may establish a board of directors to provide guidance for policies, legal issues, and plans and strategies of the entity's operations. The board shall include a diverse group of stakeholders representing the research community, including academia, industry, and experienced research security administrators.
 
 #### (f) Stakeholder engagement
 

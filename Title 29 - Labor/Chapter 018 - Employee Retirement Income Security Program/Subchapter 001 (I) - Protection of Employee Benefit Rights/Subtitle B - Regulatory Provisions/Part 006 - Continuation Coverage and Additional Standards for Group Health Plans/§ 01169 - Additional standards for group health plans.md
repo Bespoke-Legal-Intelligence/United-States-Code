@@ -128,7 +128,7 @@
 
 #### (1) Coverage effective upon placement for adoption
 
-&emsp;In any case in which a group health plan provides coverage for dependent children of participants or beneficiaries, such plan shallprovide benefits to dependent children placed with participants or beneficiaries for adoption under the same terms and conditions as apply in the case of dependent children who are natural children of participants or beneficiaries under the plan, irrespective of whether the adoption has become final.
+&emsp;In any case in which a group health plan provides coverage for dependent children of participants or beneficiaries, such plan shall provide benefits to dependent children placed with participants or beneficiaries for adoption under the same terms and conditions as apply in the case of dependent children who are natural children of participants or beneficiaries under the plan, irrespective of whether the adoption has become final.
 
 #### (2) Restrictions based on preexisting conditions at time of placement for adoption prohibited
 
@@ -262,7 +262,7 @@ State or local governmental group health plan.—The term 'State or local govern
 
 &emsp;&emsp;"(B)
 
-Alternate recipient.—The term 'alternate recipient' means any child of a participant who is recognized under a National Medical Support Notice as having a right to enrollment under a State or local governmental group health plan with respect to such participant.
+Alternate recipient.—The term 'alternate recipient' means any child of a participant who isrecognized under a National Medical Support Notice as having a right to enrollment under a State or local governmental group health plan with respect to such participant.
 
 &emsp;&emsp;"(C)
 
@@ -396,7 +396,7 @@ Payment to state official treated as satisfaction of plan's obligation to make p
 
 &emsp;"(8)
 
-Effective date.—The provisions of this subsection shall take effect on the date of the issuance of interim regulations pursuant to subsection (b)(4) ofthis section \[section 401(b)(4) of Pub. L. 105–200, 42 U.S.C. 651 note\].
+Effective date.—The provisions of this subsection shall take effect on the date of the issuance of interim regulations pursuant to subsection (b)(4) of this section \[section 401(b)(4) of Pub. L. 105–200, 42 U.S.C. 651 note\].
 
 "(g)
 

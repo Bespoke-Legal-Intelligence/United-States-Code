@@ -134,7 +134,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[Oc
 
 "(a)
 
-Research Utilization and Commercialization Management Activities.—The Administrator of the National Aeronautics and Space Administration shall enter into an agreement with a non-government organization to conduct research utilization and commercialization management activities of the International Space Station subsequent to substantial completion as defined in section 202(b)(3). The agreement may not take effect less than 120 days after the implementation plan for the agreement is submitted to the Congress under subsection (b).
+Research Utilization and Commercialization Management Activities.—The Administrator of theNational Aeronautics and Space Administration shall enter into an agreement with a non-government organization to conduct research utilization and commercialization management activities of the International Space Station subsequent to substantial completion as defined in section 202(b)(3). The agreement may not take effect less than 120 days after the implementation plan for the agreement is submitted to the Congress under subsection (b).
 
 "(b)
 
@@ -150,7 +150,7 @@ Implementation Plan.—Not later than September 30, 2001, the Administrator shal
 
 &emsp;"(5) a statement of the duration of the agreement."
 
-\[Pub. L. 109–155, title VII, §706(a)(2), Dec. 30, 2005, 119 Stat. 2937, which directed insertion of two sentences at end of section 201 of Pub. L. 106–391, set out above, wasexecuted by making the insertion at the end of section 201(a) of Pub. L. 106–391, to reflect the probable intent of Congress.\]
+\[Pub. L. 109–155, title VII, §706(a)(2), Dec. 30, 2005, 119 Stat. 2937, which directed insertion of two sentences at end of section 201 of Pub. L. 106–391, set out above, was executed by making the insertion at the end of section 201(a) of Pub. L. 106–391, to reflect the probable intent of Congress.\]
 
 #### Permanently Manned Space Station
 

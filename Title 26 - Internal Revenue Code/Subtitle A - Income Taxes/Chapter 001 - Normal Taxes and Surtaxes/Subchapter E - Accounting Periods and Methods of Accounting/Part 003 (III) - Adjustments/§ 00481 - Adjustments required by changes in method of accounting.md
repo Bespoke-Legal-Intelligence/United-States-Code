@@ -60,7 +60,7 @@ In the case of any change described in subsection (a), the taxpayer may, in such
 
 &emsp;&emsp;(B) the owners of the stock of which, determined on the date such revocation is made, are the same owners (and in identical proportions) as on the date of such enactment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 160; Pub. L. 85–866, title I, §29(a), (b), Sept. 2, 1958, 72 Stat. 1626–1628; Pub. L. 91–172, title V, §512(f)(4), Dec. 30, 1969, 83 Stat. 641; Pub. L. 94–455, title XIX, §§1901(a)(70), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1776, 1834; Pub. L. 96–471, §2(b)(3), Oct. 19, 1980, 94 Stat. 2254; Pub. L. 113–295, div. A, title II, §221(a)(61), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §13543(a), Dec. 22, 2017, 131 Stat. 2155.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 160; Pub. L. 85–866, title I, §29(a), (b), Sept. 2, 1958, 72 Stat.1626–1628; Pub. L. 91–172, title V, §512(f)(4), Dec. 30, 1969, 83 Stat. 641; Pub. L. 94–455, title XIX, §§1901(a)(70), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1776, 1834; Pub. L. 96–471, §2(b)(3), Oct. 19, 1980, 94 Stat. 2254; Pub. L. 113–295, div. A, title II, §221(a)(61), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §13543(a), Dec. 22, 2017, 131 Stat. 2155.)
 
 #### <b>Editorial Notes</b>
 
@@ -138,5 +138,5 @@ Pub. L. 86–459, May 13, 1960, 74 Stat. 124, authorized any person who computed
 
 #### Election To Return to Former Method of Accounting
 
-Pub. L. 85–866, title I, §29(e), Sept. 2, 1958, 72 Stat. 1629, authorized an election by certain taxpayers, who, for any taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, and before Sept. 2, 1958, computed their taxable incomes using different accounting methods in succeeding taxable years, to return to their first method of accounting, where the election was made within six months after Sept. 2, 1958. Claims for refunds of overpayments of tax resulting from the election were to be filed within one year after the date of the election. Such an election was to be considered a consent to an assessment of a deficiency resulting from the election, where the assessment is made within one year after the date of the election.
+Pub. L. 85–866, title I, §29(e), Sept. 2, 1958, 72 Stat. 1629, authorized an election by certain taxpayers, who, for any taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, and before Sept. 2, 1958, computed their taxable incomes using different accounting methods in succeeding taxable years, to return to their first method of accounting, where the election wasmade within six months after Sept. 2, 1958. Claims for refunds of overpayments of tax resulting from the election were to be filed within one year after the date of the election. Such an election was to be considered a consent to an assessment of a deficiency resulting from the election, where the assessment is made within one year after the date of the election.
 

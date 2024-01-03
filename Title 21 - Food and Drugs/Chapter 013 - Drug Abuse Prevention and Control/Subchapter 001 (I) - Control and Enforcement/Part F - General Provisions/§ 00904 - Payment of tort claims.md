@@ -1,6 +1,6 @@
 ### §904. Payment of tort claims
 
-Notwithstanding section 2680(k) of title 28, the Attorney General, in carrying out the functions of the Department of Justice under this subchapter, is authorized to pay tort claims in the manner authorized by section 2672 of title 28, when such claims arise in a foreign country in connection with the operations of the Drug Enforcement Administration abroad.
+Notwithstanding section 2680(k) of title 28, the Attorney General, in carrying out the functions of the Department of Justice under this subchapter, is authorized to pay tort claims in the manner authorized by section 2672 of title 28, when such claims arise in a foreign country inconnection with the operations of the Drug Enforcement Administration abroad.
 
 (Pub. L. 91–513, title II, §709, Oct. 27, 1970, 84 Stat. 1284; Pub. L. 93–481, §1, Oct. 26, 1974, 88 Stat. 1455; Pub. L. 95–137, §1(a), Oct. 18, 1977, 91 Stat. 1169; Pub. L. 96–132, §§13, 15, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 97–414, §9(g)(1), Jan. 4, 1983, 96 Stat. 2064.)
 

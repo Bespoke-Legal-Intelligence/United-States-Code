@@ -44,7 +44,7 @@ Section 3204(b) of the SUPPORT for Patients and Communities Act, referred to in 
 
 #### Amendments
 
-<b>2022</b>—Subsec. (a)(2). Pub. L. 117–328, §1262(b)(2), which directed substitution of "the controlled substance is a narcotic drug in schedule III, IV, or V to be administered for the purpose of maintenance or detoxification treatment and is to be administered by injection or implantation;" for "the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under section 823(g)(2) and—"
+<b>2022</b>—Subsec. (a)(2). Pub. L. 117–328, §1262(b)(2), which directed substitution of "the controlled substance is a narcotic drug in schedule III, IV, or V to be administered for the purpose of maintenance or detoxificationtreatment and is to be administered by injection or implantation;" for "the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under section 823(g)(2) and—"
 
 &emsp;"(A) the practitioner who issued the prescription is a qualifying practitioner authorized under, and acting within the scope of that section; and
 

@@ -38,7 +38,7 @@ Each State shall make 2 separate inventories of all underground storage tanks in
 
 #### (1) In general
 
-&emsp;The Administrator shall require each State that receives Federal funds to carry out this subchapter to maintain, update at least annually, and make available to the public, in such manner and form as the Administrator shallprescribe (after consultation with States), a record of underground storage tanks regulated under this subchapter.
+&emsp;The Administrator shall require each State that receives Federal funds to carry out this subchapter to maintain, update at least annually, and make available to the public, in such manner and form as the Administrator shall prescribe (after consultation with States), a record of underground storage tanks regulated under this subchapter.
 
 #### (2) Considerations
 

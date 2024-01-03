@@ -66,7 +66,7 @@ Subsec. (b)(1)(A). Pub. L. 110–404, §3(a)(1)(B), substituted "not more than 4
 
 Subsec. (d). Pub. L. 110–404, §3(b)(1), added subsec. (d).
 
-<b>1988</b>—Pub. L. 100–365 substituted "appointment and tenure; meetings" for "appointment and tenure" in section catchline, and amended text generally, revisingand restating as subsecs. (a) to (c) provisions formerly contained in a single undesignated paragraph.
+<b>1988</b>—Pub. L. 100–365 substituted "appointment and tenure; meetings" for "appointment and tenure" in section catchline, and amended text generally, revising and restating as subsecs. (a) to (c) provisions formerly contained in a single undesignated paragraph.
 
 <b>1984</b>—Pub. L. 98–497 struck out "The authority of the Administrator of General Services under section 754 of title 40 to regroup, transfer, and distribute functions within the General Services Administration does not extend to the Commission or its functions."
 

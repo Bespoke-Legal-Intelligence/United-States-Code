@@ -2,7 +2,7 @@
 
 #### (a) Allocation based on previous allocation
 
-(1) From the amount appropriated pursuant to section 1087–51(b) of this title for each fiscal year, the Secretary shall first allocate to each eligible institution for each succeeding fiscal year, an amount equal to 100 percent of the amount such institution received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year).
+(1) From the amount appropriated pursuant to section 1087–51(b) of this title for each fiscal year, the Secretary shall first allocate to each eligible institution for each succeeding fiscalyear, an amount equal to 100 percent of the amount such institution received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year).
 
 (2)(A) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1999 but is not a first or second time participant, an amount equal to the greater of—
 
@@ -84,7 +84,7 @@
 
 &emsp;(A) establish various income categories of graduate and professional students;
 
-&emsp;(B) establish an expected family contribution for each income category of graduate and professional students, determined on the basis of the average expected family contribution (computed in accordance with part F of this subchapter of a representative sample withineach income category for the second preceding fiscal year;
+&emsp;(B) establish an expected family contribution for each income category of graduate and professional students, determined on the basis of the average expected family contribution (computed in accordance with part F of this subchapter of a representative sample within each income category for the second preceding fiscal year;
 
 &emsp;(C) determine the average cost of attendance for all graduate and professional students;
 
@@ -204,7 +204,7 @@ Pub. L. 105–244, title IV, §442(c), Oct. 7, 1998, 112 Stat. 1712, provided th
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

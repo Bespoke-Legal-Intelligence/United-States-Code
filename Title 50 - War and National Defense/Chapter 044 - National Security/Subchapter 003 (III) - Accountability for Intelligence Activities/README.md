@@ -31,3 +31,4 @@
 - [&sect; 03112 - Annual reports on the domestic activities of the intelligence community](%C2%A7%2003112%20-%20Annual%20reports%20on%20the%20domestic%20activities%20of%20the%20intelligence%20community.md)
 - [&sect; 03113 - Unfunded priorities of the intelligence community annual report](%C2%A7%2003113%20-%20Unfunded%20priorities%20of%20the%20intelligence%20community%20annual%20report.md)
 - [&sect; 03114 - Submission of covered documents and classified annexes](%C2%A7%2003114%20-%20Submission%20of%20covered%20documents%20and%20classified%20annexes.md)
+- [&sect; 03115 - Submission of legislative proposals](%C2%A7%2003115%20-%20Submission%20of%20legislative%20proposals.md)

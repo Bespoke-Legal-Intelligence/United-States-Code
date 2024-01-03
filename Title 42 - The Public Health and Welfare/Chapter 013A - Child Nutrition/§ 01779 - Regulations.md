@@ -60,7 +60,7 @@ The Secretary shall prescribe such regulations as the Secretary may deem necessa
 
 In such regulations the Secretary may provide for the transfer of funds by any State between the programs authorized under this chapter and the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] on the basis of an approved State plan of operation for the use of the funds and may provide for the reserve of up to 1 per centum of the funds available for apportionment to any State to carry out special developmental projects.
 
-(Pub. L. 89–642, §10, Oct. 11, 1966, 80 Stat. 889; Pub. L. 91–248, §8, May 14, 1970, 84 Stat. 212; Pub.L. 92–433, §7, Sept. 26, 1972, 86 Stat. 729; Pub. L. 95–166, §17, Nov. 10, 1977, 91 Stat. 1345; Pub. L. 101–147, title III, §323, Nov. 10, 1989, 103 Stat. 916; Pub. L. 103–448, title II, §203, Nov. 2, 1994, 108 Stat. 4738; Pub. L. 104–193, title VII, §725, Aug. 22, 1996, 110 Stat. 2302; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 111–296, title II, §208, Dec. 13, 2010, 124 Stat. 3221.)
+(Pub. L. 89–642, §10, Oct. 11, 1966, 80 Stat. 889; Pub. L. 91–248, §8, May 14, 1970, 84 Stat. 212; Pub. L. 92–433, §7, Sept. 26, 1972, 86 Stat. 729; Pub. L. 95–166, §17, Nov. 10, 1977, 91 Stat. 1345; Pub. L. 101–147, title III, §323, Nov. 10, 1989, 103 Stat. 916; Pub. L. 103–448, title II, §203, Nov. 2, 1994, 108 Stat. 4738; Pub. L. 104–193, title VII, §725, Aug. 22, 1996, 110 Stat. 2302; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 111–296, title II, §208, Dec. 13, 2010, 124 Stat. 3221.)
 
 #### <b>Editorial Notes</b>
 
@@ -93,6 +93,10 @@ The Richard B. Russell National School Lunch Act, referred to in text, is act Ju
 <b>1970</b>—Pub. L. 91–248 provided that regulations under this chapter and under the National School Lunch Act may include provisions relating to the service of food in participating schools and service institutions in competition with programs under this chapter and the National School Lunch Act, provided for transfer of funds by any State between programs authorized under this chapter and under the National School Lunch Act, and provided for a reserve of up to one percent of the funds available for apportionment to any State to carry out special development projects.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education andthe Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2010 Amendment
 

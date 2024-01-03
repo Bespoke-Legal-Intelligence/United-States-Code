@@ -24,7 +24,7 @@ For purposes of this subchapter only:
 
 &emsp;&emsp;(B) Measures to be undertaken during a hazard (including the enforcement of passive defense regulations prescribed by duly established military or civil authorities, the evacuation of personnel to shelter areas, the control of traffic and panic, and the control and use of lighting and civil communications).
 
-&emsp;&emsp;(C) Measures to be undertaken following a hazard (including activities for fire fighting, rescue, emergency medical, health and sanitation services, monitoring for specific dangers of special weapons, unexploded bomb reconnaissance, essential debris clearance, emergency welfare measures, and immediately essential emergency repair or restoration of damaged vital facilities).
+&emsp;&emsp;(C) Measures to be undertaken following a hazard (including activities for fire fighting, rescue, emergency medical, health and sanitation services, monitoring for specific dangers of special weapons, unexploded bomb reconnaissance, essential debris clearance,emergency welfare measures, and immediately essential emergency repair or restoration of damaged vital facilities).
 
 #### (4) Organizational equipment
 
@@ -64,7 +64,7 @@ The terms "national defense" and "defense," <sup>2</sup> as used in the Defense
 
 #### References in Text
 
-The Defense Production Act of 1950, referred to in subsec. (b), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which was classified to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering aschapter 55 (§4501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Defense Production Act of 1950, referred to in subsec. (b), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which was classified to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 55 (§4501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 

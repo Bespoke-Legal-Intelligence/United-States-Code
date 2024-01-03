@@ -322,7 +322,7 @@ Subsec. (d)(8). Pub. L. 105–206, §6004(d)(2)(C), added par. (8).
 
 #### Effective Date of 2018 Amendment
 
-Amendment by section 101(l)(16) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
+Amendment by section 101(l)(16) of Pub. L. 115–141 effective as if included in the provision of the ProtectingAmericans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -348,7 +348,7 @@ Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. 
 
 Amendment by section 401(a)(1), (b)–(g)(1), (2)(C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 401(h) of Pub. L. 107–16, set out as a note under section 25A of this title.
 
-Amendment by section 402(a)(4)(A), (C) of Pub. L. 107–16 applicable to taxable years beginning after Dec.31, 2001, see section 402(h) of Pub. L. 107–16, set out as a note under section 72 of this title.
+Amendment by section 402(a)(4)(A), (C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) of Pub. L. 107–16, set out as a note under section 72 of this title.
 
 #### Effective Date of 1998 Amendment
 

@@ -38,7 +38,7 @@ Definitions.—As used in this clause—
 
 Certification.—By submitting this offer, the Offeror certifies that it is not—
 
-&emsp;"(1) taking or knowingly agreeing to take any action, with respect to the boycott ofIsrael by Arab League countries, which section 8(a) of the Export Administration Act of 1979 (50 U.S.C. App. 2407(a)) prohibits a United States person from taking; or
+&emsp;"(1) taking or knowingly agreeing to take any action, with respect to the boycott of Israel by Arab League countries, which section 8(a) of the Export Administration Act of 1979 (50 U.S.C. App. 2407(a)) prohibits a United States person from taking; or
 
 &emsp;"(2) discriminating in the award of subcontracts on the basis of religion."
 

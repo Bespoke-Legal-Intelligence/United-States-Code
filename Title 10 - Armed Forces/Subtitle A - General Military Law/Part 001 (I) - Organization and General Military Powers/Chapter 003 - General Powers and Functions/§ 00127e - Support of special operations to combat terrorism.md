@@ -48,7 +48,7 @@ Elements.—A notification required by this subsection shall include the followi
 
 &emsp;&emsp;(E) A detailed description of the legal and operational authorities related to the authorized ongoing operation, including relevant execute orders issued by the Secretary of Defense and combatant commanders related to the authorized ongoing operation, including an identification of operational activities United States Special Operations Forces are authorized to conduct under such execute orders.
 
-&emsp;&emsp;(F) The duration for which the support is expected to be provided and an identification of the timeframe in which the provision of support will be reviewed by the combatantcommander for a determination regarding the necessity of continuation of support.
+&emsp;&emsp;(F) The duration for which the support is expected to be provided and an identification of the timeframe in which the provision of support will be reviewed by the combatant commander for a determination regarding the necessity of continuation of support.
 
 &emsp;&emsp;(G) A description of the entities with which the recipients of support are engaged in hostilities and whether each such entity is covered under an authorization for use of military force.
 

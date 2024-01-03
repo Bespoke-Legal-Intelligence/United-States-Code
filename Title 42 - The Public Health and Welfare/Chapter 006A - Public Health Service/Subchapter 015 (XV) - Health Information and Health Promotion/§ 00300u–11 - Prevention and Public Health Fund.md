@@ -104,9 +104,9 @@ Pub. L. 115–31, div. H, title II, §219, May 5, 2017, 131 Stat. 541, provided 
 
 &emsp;"(2) Identification (along with a link to the full text) of each funding opportunity announcement, request for proposals, or other announcement or solicitation of proposals for grants, cooperative agreements, or contracts intended to be awarded using such funds, to be posted not later than the day after the announcement or solicitation is issued.
 
-&emsp;"(3) Identification of each grant, cooperative agreement, or contract with a value of $25,000 or moreawarded using such funds, including the purpose of the award and the identity of the recipient, to be posted not later than 5 days after the award is made.
+&emsp;"(3) Identification of each grant, cooperative agreement, or contract with a value of $25,000 or more awarded using such funds, including the purpose of the award and the identity of the recipient, to be posted not later than 5 days after the award is made.
 
-&emsp;"(4) A report detailing the uses of all funds transferred under section 4002(c) during the fiscal year, to be posted not later than 90 days after the end of the fiscal year.
+&emsp;"(4) A report detailing the uses of all funds transferred under section 4002(c) during the fiscal year, tobe posted not later than 90 days after the end of the fiscal year.
 
 "(c) With respect to awards made in fiscal years 2013 through 2017, the Secretary shall also include on the Web site established under subsection (a), semi-annual reports from each entity awarded a grant, cooperative agreement, or contract from such funds with a value of $25,000 or more, summarizing the activities undertaken and identifying any sub-grants or sub-contracts awarded (including the purpose of the award and the identity of the recipient), to be posted not later than 30 days after the end of each 6-month period.
 

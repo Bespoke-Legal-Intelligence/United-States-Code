@@ -86,7 +86,7 @@ Subsection (a) shall not apply—
 
 &emsp;(3) in any case in which the total value of the stock repurchased during the taxable year does not exceed $1,000,000,
 
-&emsp;(4) under regulations prescribed by the Secretary, in cases in which the repurchase is bya dealer in securities in the ordinary course of business,
+&emsp;(4) under regulations prescribed by the Secretary, in cases in which the repurchase is by a dealer in securities in the ordinary course of business,
 
 &emsp;(5) to repurchases by a regulated investment company (as defined in section 851) or a real estate investment trust, or
 
@@ -132,5 +132,5 @@ Section 4514, act Aug. 16, 1954, ch. 736, 68A Stat. 536, set forth a cross-refer
 
 #### Effective Date
 
-Pub. L. 117–169, title I, §10201(d), Aug. 16, 2022, 136 Stat. 1831, provided that: "The amendments made by this section \[enacting this chapter and amending section 275 of this title\] shall apply to repurchases (within the meaning of section 4501(c) of the Internal Revenue Code of 1986, as added by this section) of stock after December 31, 2022."
+Pub. L. 117–169, title I, §10201(d), Aug. 16, 2022, 136 Stat. 1831, provided that: "The amendments made bythis section \[enacting this chapter and amending section 275 of this title\] shall apply to repurchases (within the meaning of section 4501(c) of the Internal Revenue Code of 1986, as added by this section) of stock after December 31, 2022."
 

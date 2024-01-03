@@ -102,7 +102,7 @@ In general.—For purposes of chapter 13 of the Internal Revenue Code of 1986 (a
 
 &emsp;&emsp;"(C) an election under this subsection applies to such transfer.
 
-> &emsp;Any transfer treated as a direct skip by reason of the preceding sentence shall be subject to Federal estatetax on the grandchild's death in the same manner as if the contingent gift over had been to the grandchild's estate.
+> &emsp;Any transfer treated as a direct skip by reason of the preceding sentence shall be subject to Federal estate tax on the grandchild's death in the same manner as if the contingent gift over had been to the grandchild's estate.
 
 &emsp;"(2)
 

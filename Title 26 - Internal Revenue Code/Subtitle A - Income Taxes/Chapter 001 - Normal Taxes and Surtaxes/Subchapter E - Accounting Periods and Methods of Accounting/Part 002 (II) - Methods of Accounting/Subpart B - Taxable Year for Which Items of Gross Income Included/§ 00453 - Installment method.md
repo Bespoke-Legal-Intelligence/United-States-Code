@@ -336,7 +336,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### (C) Carrying charges or interest
 
-&emsp;&emsp;Any carrying charges or interest with respect to a disposition described in subparagraph (A) or (B) which are added on thebooks of account of the seller to the established cash selling price of the property shall be included in the total contract price of the property and, if such charges or interest are not so included, any payments received shall be treated as applying first against such carrying charges or interest.
+&emsp;&emsp;Any carrying charges or interest with respect to a disposition described in subparagraph (A) or (B) which are added on the books of account of the seller to the established cash selling price of the property shall be included in the total contract price of the property and, if such charges or interest are not so included, any payments received shall be treated as applying first against such carrying charges or interest.
 
 #### (3) Payment of interest on timeshares and residential lots
 
@@ -368,7 +368,7 @@ For purposes of subsection (b)(2)(A)—
 
 &emsp;&emsp;Any amount payable under this paragraph shall be taken into account in computing the amount of any deduction allowable to the taxpayer for interest paid or accrued during such taxable year.
 
-(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247; amended Pub. L. 97–34, title II, §202(c), Aug. 13, 1981, 95 Stat. 221; Pub. L. 97–448, title III, §303, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §112(a), title IV, §421(b)(6)(B), (C), July 18, 1984, 98 Stat. 635, 794; Pub. L. 99–514, title VI, §§631(e)(8), 642(a)(1)(D), (3), (b), title VIII, §812(a), title XVIII, §1809(c), Oct. 22, 1986, 100 Stat. 2274, 2284, 2371, 2821; Pub. L. 100–203, title X, §10202(b), Dec. 22, 1987, 101 Stat. 1330–388; Pub. L. 100–647, title I, §§1006(e)(7), (i)(1), (2), 1008(g)(1), 1018(u)(25), (26), title II, §2004(d)(1), (5), Nov. 10, 1988, 102 Stat. 3401, 3410, 3442, 3591, 3599; Pub. L. 106–170, title V, §536(a), Dec. 17, 1999, 113 Stat. 1936; Pub. L. 106–573, §2(a), Dec. 28, 2000, 114 Stat. 3061; Pub. L. 108–357, title VIII, §897(a), Oct. 22, 2004, 118 Stat. 1649.)
+(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247; amended Pub. L. 97–34, title II, §202(c), Aug. 13, 1981, 95 Stat. 221; Pub. L. 97–448, title III, §303, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §112(a), title IV, §421(b)(6)(B), (C), July 18, 1984, 98 Stat. 635, 794; Pub. L. 99–514, title VI, §§631(e)(8), 642(a)(1)(D), (3), (b), title VIII, §812(a), title XVIII, §1809(c), Oct. 22, 1986, 100 Stat. 2274, 2284, 2371, 2821; Pub. L. 100–203, title X, §10202(b), Dec. 22, 1987, 101 Stat. 1330–388; Pub. L. 100–647, title I, §§1006(e)(7), (i)(1), (2), 1008(g)(1), 1018(u)(25), (26), title II, §2004(d)(1), (5), Nov. 10, 1988, 102 Stat. 3401, 3410, 3442, 3591, 3599; Pub. L. 106–170, title V, §536(a), Dec. 17, 1999, 113 Stat. 1936; Pub. L. 106–573, §2(a), Dec. 28, 2000, 114 Stat.3061; Pub. L. 108–357, title VIII, §897(a), Oct. 22, 2004, 118 Stat. 1649.)
 
 #### <b>Editorial Notes</b>
 
@@ -498,7 +498,7 @@ Special rules for dealers.—
 
 &emsp;"(A)
 
-In general.—In the case of dealer dispositions (within the meaning of section 453(l)(1) of the Internal Revenue Code of 1986 as added by this section), theamendments made by subsections (a) and (b) \[amending this section and repealing section 453C of this title\] shall apply to installment obligations arising from dispositions after December 31, 1987.
+In general.—In the case of dealer dispositions (within the meaning of section 453(l)(1) of the Internal Revenue Code of 1986 as added by this section), the amendments made by subsections (a) and (b) \[amending this section and repealing section 453C of this title\] shall apply to installment obligations arising from dispositions after December 31, 1987.
 
 &emsp;"(B)
 
@@ -556,7 +556,7 @@ Minimum tax.—The amendment made by subsection (d) \[amending section 56 of thi
 
 "(5)
 
-Coordination with tax reform act of 1986.—The amendments made by this section shall not apply to any installment obligation or to any taxpayer during any period to the extent the amendments made by section 811 of the Tax Reform Act of 1986 \[section 811 of Pub. L. 99–514, amending former section 453C of this title and enacting provisions set out as a note under former section 453C of this title\] do not apply to such obligation or during such period."
+Coordination with tax reform act of 1986.—The amendments made by this section shall not apply toany installment obligation or to any taxpayer during any period to the extent the amendments made by section 811 of the Tax Reform Act of 1986 \[section 811 of Pub. L. 99–514, amending former section 453C of this title and enacting provisions set out as a note under former section 453C of this title\] do not apply to such obligation or during such period."
 
 #### Effective Date of 1986 Amendment
 
@@ -603,7 +603,7 @@ Acceleration of adjustments where contraction in amount of installment obligatio
 
 &emsp;"(A)
 
-In general.—If the percentage determined under subparagraph (B) for any taxable year in the adjustment period exceeds the percentage whichwould otherwise apply under paragraph (3)(D) for such taxable year (determined after the application of this paragraph for prior taxable years in the adjustment period)—
+In general.—If the percentage determined under subparagraph (B) for any taxable year in the adjustment period exceeds the percentage which would otherwise apply under paragraph (3)(D) for such taxable year (determined after the application of this paragraph for prior taxable years in the adjustment period)—
 
 &emsp;&emsp;"(i) the percentage determined under subparagraph (B) shall be substituted for the applicable percentage which would otherwise apply under paragraph (3)(D), and
 

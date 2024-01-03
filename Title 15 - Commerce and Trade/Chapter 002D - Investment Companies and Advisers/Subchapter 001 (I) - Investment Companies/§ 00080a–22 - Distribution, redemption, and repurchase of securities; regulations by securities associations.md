@@ -28,7 +28,7 @@ No registered investment company shall sell any redeemable security issued by it
 
 #### (e) Suspension of right of redemption or postponement of date of payment
 
-No registered investment company shall suspend the right of redemption, or postpone the date of payment or satisfaction upon redemption of any redeemable security in accordance with its terms for more than seven days after the tender of such security to the company or its agent designated for that purpose for redemption, except—
+No registered investment company shall suspend the right of redemption, or postpone thedate of payment or satisfaction upon redemption of any redeemable security in accordance with its terms for more than seven days after the tender of such security to the company or its agent designated for that purpose for redemption, except—
 
 &emsp;(1) for any period (A) during which the New York Stock Exchange is closed other than customary week-end and holiday closings or (B) during which trading on the New York Stock Exchange is restricted;
 
@@ -44,7 +44,7 @@ No registered open-end company shall restrict the transferability or negotiabili
 
 #### (g) Issuance of securities for services or property other than cash
 
-No registered open-end company shall issue any of its securities (1) for services; or (2) for property other than cash or securities (includingsecurities of which such registered company is the issuer), except as a dividend or distribution to its security holders or in connection with a reorganization.
+No registered open-end company shall issue any of its securities (1) for services; or (2) for property other than cash or securities (including securities of which such registered company is the issuer), except as a dividend or distribution to its security holders or in connection with a reorganization.
 
 (Aug. 22, 1940, ch. 686, title I, §22, 54 Stat. 823; Pub. L. 91–547, §12, Dec. 14, 1970, 84 Stat. 1422; Pub. L. 100–181, title VI, §616, Dec. 4, 1987, 101 Stat. 1262.)
 

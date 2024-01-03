@@ -22,7 +22,7 @@ The report under subsection (a) shall assess evidence supporting such best pract
 
 &emsp;&emsp;(B) ensure that such teams—
 
-&emsp;&emsp;&emsp;(i) are composed of trained, diverse stakeholders with expertise in child and youth development, behavioral and mental health, and disability; and
+&emsp;&emsp;&emsp;(i) are composed of trained, diverse stakeholders with expertise in child andyouth development, behavioral and mental health, and disability; and
 
 &emsp;&emsp;&emsp;(ii) use cross validation by a wide-range of individual perspectives on the team.
 

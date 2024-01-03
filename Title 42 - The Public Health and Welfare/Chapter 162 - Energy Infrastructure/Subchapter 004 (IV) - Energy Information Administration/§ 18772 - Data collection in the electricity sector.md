@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 90 days after November 15, 2021, the Administrator shall establish anonline database to track the operation of the bulk power system in the contiguous 48 States (referred to in this section as the "Dashboard").
+&emsp;&emsp;Not later than 90 days after November 15, 2021, the Administrator shall establish an online database to track the operation of the bulk power system in the contiguous 48 States (referred to in this section as the "Dashboard").
 
 #### (B) Improvement of existing dashboard
 
@@ -52,7 +52,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 1 year after November 15, 2021, the Administrator shall establish, in accordance with section 18777 of this title and this subsection and to the extent the Administrator determines to be appropriate, a system to harmonize the operating data on electricity generation collected under subsection (a) with—
+&emsp;Not later than 1 year after November 15, 2021, the Administrator shall establish, in accordance with section 18777 of this title andthis subsection and to the extent the Administrator determines to be appropriate, a system to harmonize the operating data on electricity generation collected under subsection (a) with—
 
 &emsp;&emsp;(A) measurements of greenhouse gas and other pollutant emissions collected by the Environmental Protection Agency;
 

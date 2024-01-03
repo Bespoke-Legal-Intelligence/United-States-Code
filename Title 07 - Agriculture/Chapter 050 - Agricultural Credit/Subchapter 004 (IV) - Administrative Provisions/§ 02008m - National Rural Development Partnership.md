@@ -50,7 +50,7 @@ In this section:
 
 &emsp;&emsp;(A) to cooperate with States to implement the Partnership;
 
-&emsp;&emsp;(B) to provide States with the technical and administrative support necessary to plan and implement tailored rural development strategies to meet local needs;
+&emsp;&emsp;(B) to provide States with the technical and administrative support necessary toplan and implement tailored rural development strategies to meet local needs;
 
 &emsp;&emsp;(C) to ensure that the head of each agency with rural responsibilities designates a senior-level agency official to represent the agency on the Coordinating Committee and directs appropriate field staff to participate fully with the State rural development council within the jurisdiction of the field staff; and
 
@@ -219,6 +219,8 @@ The authority provided under this section shall terminate on September 30, 2023.
 #### <b>Editorial Notes</b>
 
 #### Codification
+
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 

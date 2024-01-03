@@ -22,9 +22,9 @@ Each funding agreement shall—
 
 &emsp;&emsp;(B) programs, services, functions, and activities or portions thereof administered by the Secretary of the Interior that are otherwise available to Indian tribes or Indians for which appropriations are made to agencies other than the Department of the Interior; and
 
-&emsp;&emsp;(C) any other program, service, function, or activity (or portion thereof) that is provided through the Bureau of Indian Affairs, the Office of the Assistant Secretary for Indian Affairs, or the Office of the Special Trustee for American Indians with respect to which Indian Tribes or Indians are primary or significant beneficiaries;
+&emsp;&emsp;(C) any other program, service, function, or activity (or portion thereof) that is provided through the Bureau of Indian Affairs,the Office of the Assistant Secretary for Indian Affairs, or the Office of the Special Trustee for American Indians with respect to which Indian Tribes or Indians are primary or significant beneficiaries;
 
-&emsp;(2) subject to such terms as may be negotiated, authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department ofthe Interior, other than through the Bureau of Indian Affairs, that are otherwise available to Indian tribes or Indians, as identified in section 5372(c) of this title, except that nothing in this subsection may be construed to provide any tribe with a preference with respect to the opportunity of the tribe to administer programs, services, functions, and activities, or portions thereof, unless such preference is otherwise provided for by law; and
+&emsp;(2) subject to such terms as may be negotiated, authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior, other than through the Bureau of Indian Affairs, that are otherwise available to Indian tribes or Indians, as identified in section 5372(c) of this title, except that nothing in this subsection may be construed to provide any tribe with a preference with respect to the opportunity of the tribe to administer programs, services, functions, and activities, or portions thereof, unless such preference is otherwise provided for by law; and
 
 &emsp;(3) subject to the terms of the agreement, authorize the tribe to redesign or consolidate programs, services, functions, and activities, or portions thereof, and reallocate funds for such programs, services, functions, and activities, or portions thereof, except that, with respect to the reallocation, consolidation, and redesign of programs described in paragraph (2), a joint agreement between the Secretary and the tribe shall be required.
 
@@ -76,11 +76,11 @@ Not later than 90 days before the proposed effective date of an agreement entere
 
 (2)(A) A tribe may submit a written request for a waiver to the Secretary identifying the regulation sought to be waived and the basis for the request.
 
-(B) Not later than 60 days after receipt by the Secretary of a written request by a tribe to waive application of a Federal regulation for an agreement entered into under this section, the Secretary shall either approve or deny the requested waiver in writing to the tribe. A denial may be made only upon a specific finding by the Secretary that identified language in the regulation may not be waived because such waiver is prohibited by Federal law. The Secretary's decision shall be final for the Department.
+(B) Not later than 60 days after receipt by the Secretary of a written request by a tribe to waive application of a Federal regulation for an agreement entered into under this section, the Secretary shall either approve or deny the requested waiver in writing to the tribe. A denialmay be made only upon a specific finding by the Secretary that identified language in the regulation may not be waived because such waiver is prohibited by Federal law. The Secretary's decision shall be final for the Department.
 
 #### (j) Funds
 
-All funds provided under funding agreements entered into pursuant to this chapter, and all funds provided under contracts or grants made pursuant to this chapter, shall be treated asnon-Federal funds for purposes of meeting matching requirements under any other Federal law.
+All funds provided under funding agreements entered into pursuant to this chapter, and all funds provided under contracts or grants made pursuant to this chapter, shall be treated as non-Federal funds for purposes of meeting matching requirements under any other Federal law.
 
 #### (k) Disclaimer
 
@@ -156,9 +156,9 @@ A funding agreement shall become effective on the date specified in the funding 
 
 #### (4) Multiyear funding agreements
 
-&emsp;An Indian Tribe may, at the discretion of the Indian Tribe, negotiate with the Secretary for a funding agreement with a term that exceeds 1 year.
+&emsp;An Indian Tribe may, at the discretion of the Indian Tribe, negotiate with the Secretaryfor a funding agreement with a term that exceeds 1 year.
 
-(Pub. L. 93–638, title IV, §403, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4272; amended Pub. L. 104–109, §19, Feb. 12, 1996, 110 Stat. 766; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 106–568, title VIII, §812(b), Dec. 27, 2000, 114 Stat. 2917; Pub. L. 110–315, title IX, §941(k)(2)(H), Aug. 14, 2008, 122Stat. 3467; Pub. L. 116–180, title I, §101(d), Oct. 21, 2020, 134 Stat. 862; Pub. L. 116–260, div. DD, §13(a)(3), Dec. 27, 2020, 134 Stat. 3033.)
+(Pub. L. 93–638, title IV, §403, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4272; amended Pub. L. 104–109, §19, Feb. 12, 1996, 110 Stat. 766; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 106–568, title VIII, §812(b), Dec. 27, 2000, 114 Stat. 2917; Pub. L. 110–315, title IX, §941(k)(2)(H), Aug. 14, 2008, 122 Stat. 3467; Pub. L. 116–180, title I, §101(d), Oct. 21, 2020, 134 Stat. 862; Pub. L. 116–260, div. DD, §13(a)(3), Dec. 27, 2020, 134 Stat. 3033.)
 
 #### <b>Editorial Notes</b>
 

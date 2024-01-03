@@ -62,7 +62,7 @@ In awarding funds to States under this section, the Secretary shall set forth pr
 
 #### (1) Supplement not supplant
 
-&emsp;Amounts provided to States under this section shall be used to supplement and not supplant other Federal, State, and local public funds expended to provide services of the type described in subsection (a).
+&emsp;Amounts provided to States under this section shall be used to supplement and not supplant other Federal, State, and local publicfunds expended to provide services of the type described in subsection (a).
 
 #### (2) Studies
 
@@ -74,7 +74,7 @@ In awarding funds to States under this section, the Secretary shall set forth pr
 
 #### (f) Report
 
-Not later than 1 year after March 15, 2022, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to the Committee on Appropriations, the Committee on Energy and Commerce, and the Committee on the Judiciary of the House of Representatives and the Committee onAppropriations, the Committee on Health, Education, Labor, and Pensions, and the Committee on the Judiciary of the Senate a report on the activities funded by grants awarded under this section and best practices relating to rape prevention and education.
+Not later than 1 year after March 15, 2022, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to the Committee on Appropriations, the Committee on Energy and Commerce, and the Committee on the Judiciary of the House of Representatives and the Committee on Appropriations, the Committee on Health, Education, Labor, and Pensions, and the Committee on the Judiciary of the Senate a report on the activities funded by grants awarded under this section and best practices relating to rape prevention and education.
 
 (July 1, 1944, ch. 373, title III, §393A, formerly §393B, as added Pub. L. 106–386, div. B, title IV, §1401(a), Oct. 28, 2000, 114 Stat. 1512; amended Pub. L. 109–162, title III, §302, Jan. 5, 2006, 119 Stat. 3004; renumbered §393C, Pub. L. 110–202, §2(1), Apr. 23, 2008, 122 Stat. 697; renumbered §393A, Pub. L. 110–206, §2(1), Apr. 28, 2008, 122 Stat. 714; Pub. L. 113–4, title III, §301, Mar. 7, 2013, 127 Stat. 84; Pub. L. 117–103, div. W, title III, §301, Mar. 15, 2022, 136 Stat. 863.)
 

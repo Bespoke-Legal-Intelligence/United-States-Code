@@ -116,13 +116,13 @@ Pub. L. 117–263, div. E, title LIII, §5305(a)(3), Dec. 23, 2022, 136 Stat. 32
 
 &emsp;"(B) add breast cancer, gynecological cancers, and rhabdomyolysis to the list, by rule in accordance with subsection (b)(3) of section 8143b of title 5, United States Code, as added by paragraph (1) of this subsection, if the Secretary determines that such evidence supports that addition; and
 
-&emsp;"(C) submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Education and Labor of the House of Representatives a report containing—
+&emsp;"(C) submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives a report containing—
 
 &emsp;&emsp;"(i) the findings of the Secretary after making the evaluation required under subparagraph (A); and
 
 &emsp;&emsp;"(ii) the determination of the Secretary under subparagraph (B)."
 
-\["The list" as used in section 5305(a)(3) of Pub. L. 117–263, set out above, defined as in subsec. (b)(2) of this section, see section 5305(a)(2) of Pub. L. 117–263, set out as a note above.\]
+\["The list" as used in section 5305(a)(3) of Pub. L. 117–263, set out above, defined as in subsec. (b)(2) of thissection, see section 5305(a)(2) of Pub. L. 117–263, set out as a note above.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be "</i>
 

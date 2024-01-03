@@ -60,7 +60,7 @@ Locations and Periods Specified.—(1) The locations and periods specified in th
 
 &emsp;(K) Such other locations and corresponding periods as the Secretary, in collaboration with the Secretary of Defense, may determine appropriate in a report submitted under paragraph (2).
 
-(2) Not later than two years after the date of the enactment of the Dr. Kate Hendricks Thomas Supporting Expanded Review for Veterans InCombat Environments Act, and not less frequently than once every two years thereafter, the Secretary of Veterans Affairs, in collaboration with the Secretary of Defense, shall submit to Congress a report specifying other locations and corresponding periods for purposes of paragraph (1)(K).
+(2) Not later than two years after the date of the enactment of the Dr. Kate Hendricks Thomas Supporting Expanded Review for Veterans In Combat Environments Act, and not less frequently than once every two years thereafter, the Secretary of Veterans Affairs, in collaboration with the Secretary of Defense, shall submit to Congress a report specifying other locations and corresponding periods for purposes of paragraph (1)(K).
 
 (3) A location under this subsection shall not include any body of water around or any airspace above such location.
 

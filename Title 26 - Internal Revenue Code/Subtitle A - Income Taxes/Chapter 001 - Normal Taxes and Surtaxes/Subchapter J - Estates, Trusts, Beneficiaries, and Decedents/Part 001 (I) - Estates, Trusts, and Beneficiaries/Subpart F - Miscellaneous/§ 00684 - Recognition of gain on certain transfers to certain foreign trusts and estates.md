@@ -16,7 +16,7 @@ Subsection (a) shall not apply to a transfer to a trust by a United States perso
 
 If a trust which is not a foreign trust becomes a foreign trust, such trust shall be treated for purposes of this section as having transferred, immediately before becoming a foreign trust, all of its assets to a foreign trust.
 
-(Added Pub. L. 105–34, title XI, §1131(b), Aug. 5, 1997, 111 Stat. 978; amended Pub. L. 107–16, title V, §542(e)(1)(A)–(C), June 7, 2001, 115 Stat. 84, 85;Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
+(Added Pub. L. 105–34, title XI, §1131(b), Aug. 5, 1997, 111 Stat. 978; amended Pub. L. 107–16, title V, §542(e)(1)(A)–(C), June 7, 2001, 115 Stat. 84, 85; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
 
 #### <b>Editorial Notes</b>
 

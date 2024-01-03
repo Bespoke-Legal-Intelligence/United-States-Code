@@ -32,7 +32,7 @@ Subsection (a) shall not apply to any transfer, directly or indirectly, between 
 
 &emsp;&emsp;<b>For special rule relating to nonresident aliens, see section 871(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 329; Pub. L. 85–866, title I, §54(a), Sept. 2, 1958, 72 Stat. 1644;Pub. L. 94–455, title XIV, §1402(b)(1)(V), (2), Oct. 4, 1976, 90 Stat. 1732; Pub. L. 98–369, div. A, title I, §174(b)(5)(C), title X, §1001(b)(19), (e), July 18, 1984, 98 Stat. 707, 1012; Pub. L. 105–206, title V, §5001(a)(5), title VI, §6005(d)(4), July 22, 1998, 112 Stat. 788, 805; Pub. L. 113–295, div. A, title II, §221(a)(82), Dec. 19, 2014, 128 Stat. 4049.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 329; Pub. L. 85–866, title I, §54(a), Sept. 2, 1958, 72 Stat. 1644; Pub. L. 94–455, title XIV, §1402(b)(1)(V), (2), Oct. 4, 1976, 90 Stat. 1732; Pub. L. 98–369, div. A, title I, §174(b)(5)(C), title X, §1001(b)(19), (e), July 18, 1984, 98 Stat. 707, 1012; Pub. L. 105–206, title V, §5001(a)(5), title VI, §6005(d)(4), July 22, 1998, 112 Stat. 788, 805; Pub. L. 113–295, div. A, title II, §221(a)(82), Dec. 19, 2014, 128 Stat. 4049.)
 
 #### <b>Editorial Notes</b>
 

@@ -44,7 +44,7 @@ Ex. Ord. No. 13256, Feb. 12, 2002, 67 F.R. 6823, which established in the Office
 
 #### Executive Order No. 13532
 
-Ex. Ord. No. 13532, Feb. 26, 2010, 75 F.R. 9749, as amended by Ex. Ord. No. 13569, §4, Apr. 5, 2011, 76 F.R. 19891, which established the White House Initiative on Historically Black Colleges and Universities and the President's Board of Advisors on Historically Black Colleges and Universities, was revoked by Ex. Ord. No. 13779, §4, Feb. 28, 2017, 82 F.R. 12501, formerly set out below.
+Ex. Ord. No. 13532, Feb. 26, 2010, 75 F.R. 9749, as amended by Ex. Ord. No. 13569, §4, Apr. 5, 2011, 76 F.R.19891, which established the White House Initiative on Historically Black Colleges and Universities and the President's Board of Advisors on Historically Black Colleges and Universities, was revoked by Ex. Ord. No. 13779, §4, Feb. 28, 2017, 82 F.R. 12501, formerly set out below.
 
 #### Executive Order No. 13779
 
@@ -58,7 +58,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. HBCUs have a proud history and legacy of achievement. In the face of discrimination against Black Americans by many institutions of higher education, HBCUs created pathways to opportunity and educational excellence for Black students throughout our Nation. That legacy continues. Today, more than 100 HBCUs, located in 19 States, the District of Columbia, and the U.S. Virgin Islands, serve nearly 300,000 students annually. HBCUs vary in size and academic focus and serve a range of diverse students and communities in urban, rural, and suburban settings.
 
-HBCUs play a vital role in providing educational opportunities, scholarly growth, and a sense of community for students. HBCU graduates are barrier-breaking public servants, scientists, artists, lawyers, engineers, educators, business owners, and leaders. For generations, HBCUs have been advancing intergenerational economic mobility for Black families and communities, developing vital academic research, and making our country more prosperous and equitable. HBCUs are proven means of advancement for people of all ethnic, racial, and economic backgrounds, especially BlackAmericans. HBCUs produce nearly 20 percent of all Black college graduates and 25 percent of Black graduates who earn degrees in the disciplines of science, technology, engineering, and math.
+HBCUs play a vital role in providing educational opportunities, scholarly growth, and a sense of community for students. HBCU graduates are barrier-breaking public servants, scientists, artists, lawyers, engineers, educators, business owners, and leaders. For generations, HBCUs have been advancing intergenerational economic mobility for Black families and communities, developing vital academic research, and making our country more prosperous and equitable. HBCUs are proven means of advancement for people of all ethnic, racial, and economic backgrounds, especially Black Americans. HBCUs produce nearly 20 percent of all Black college graduates and 25 percent of Black graduates who earn degrees in the disciplines of science, technology, engineering, and math.
 
 HBCUs' successes have come despite many systemic barriers to accessing resources and opportunities. For example, compared to other higher education institutions, on average HBCUs educate a greater percentage of lower-income, Pell-grant eligible students, while receiving less revenue from tuition and possessing much smaller endowments. Disparities in resources and opportunities for HBCUs and their students remain, and the COVID–19 pandemic has highlighted continuing and new challenges. These challenges include addressing the need for enhanced physical and digital infrastructure in HBCU communities and ensuring equitable funding for HBCUs as compared to other institutions of higher education. The Federal Government must promote a variety of modern solutions for HBCUs, recognizing that HBCUs are not a monolith, and that the opportunities and challenges relevant to HBCUs are as diverse as the institutions themselves and the communities they serve.
 
@@ -100,7 +100,7 @@ Sec. 2. <i>White House Initiative on Advancing Educational Equity, Excellence, a
 
 &emsp;(N) hosting the National HBCU Week Conference, for HBCU executive leaders, faculty, students, alumni, supporters, and other stakeholders to share information, innovative educational tools and resources, student success models, and ideas for Federal engagement.
 
-(c) The head of each "applicable agency," as defined in section 3(1) of the PARTNERS Act \[20 U.S.C. 1063d note\], shall submit to the Secretary, the Executive Director, the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Education and Labor of the House of Representatives, and the President's Board of Advisors on HBCUs (as established in section 3 of this order) an Agency Plan, not later than February 1 of each year, describing efforts to strengthen the capacity of HBCUs to participate or be eligible to participate in the programs and initiatives under the jurisdiction of such applicable agency. The Agency Plans shall meet the requirements established in section 4(d) of the PARTNERS Act \[20 U.S.C. 1063d(d)\].
+(c) The head of each "applicable agency," as defined in section 3(1) of the PARTNERS Act \[20 U.S.C. 1063d note\], shall submit to the Secretary, the Executive Director, the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives, and the President's Board of Advisors on HBCUs (as established in section 3 of this order) an Agency Plan, not later than February 1 of each year, describing efforts to strengthen the capacity of HBCUs to participate or be eligible to participate in the programs and initiatives under the jurisdiction of such applicable agency. The Agency Plans shall meet the requirements established in section 4(d) of the PARTNERS Act \[20 U.S.C. 1063d(d)\].
 
 (i) In addition, the Agency Plan shall specifically address any changes to agency policies and practices that the agency deems necessary or appropriate to ensure that barriers to participation are addressed and removed. Each Agency Plan shall include details on grant and contract funding provided to HBCUs and, where the agency deems necessary or appropriate, describe plans to address disparities in furtherance of the objectives of this order.
 
@@ -128,7 +128,7 @@ Sec. 4. <i>Administrative Provisions.</i> (a) This order supersedes Executive Or
 
 (b) As used in this order, the terms "Historically Black Colleges and Universities" and "HBCUs" shall mean those institutions listed in 34 C.F.R. 608.2.
 
-(c) The heads of executive departments and agencies shall assist and provide information to the Initiative and Board established in this order, consistent with applicable law, as may be necessary to carry out the functions of the Initiative and the Board.
+(c) The heads of executive departments and agencies shall assist and provide information to the Initiativeand Board established in this order, consistent with applicable law, as may be necessary to carry out the functions of the Initiative and the Board.
 
 (d) Each executive department and agency shall bear its own expenses of participating in the Initiative established in this order.
 
@@ -146,9 +146,13 @@ J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Board of Advisors on Historically Black Colleges and Universities
 
-Term of President's Board of Advisors on Historically Black Colleges and Universities (established by Ex. Ord. No. 14041) extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of President's Board of Advisors on Historically Black Colleges and Universities (established by Ex. Ord. No. 14041) extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Board of Advisors on Historically Black Colleges and Universities as established by various Executive Orders were contained in the following prior Executive Orders:
+
+Established by Ex. Ord. No. 14041:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Established by Ex. Ord. No. 13779:
 

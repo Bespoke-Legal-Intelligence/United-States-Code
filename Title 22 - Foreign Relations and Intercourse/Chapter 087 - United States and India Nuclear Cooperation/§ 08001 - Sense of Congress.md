@@ -64,7 +64,7 @@ Table of Contents.—\[Omitted.\]
 
 &emsp;"(1)
 
-Agreement.—The term 'United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy' or 'Agreement' means the Agreement for Cooperation Between the Government of the United States of America and the Government ofIndia Concerning Peaceful Uses of Nuclear Energy that was transmitted to Congress by the President on September 10, 2008.
+Agreement.—The term 'United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy' or 'Agreement' means the Agreement for Cooperation Between the Government of the United States of America and the Government of India Concerning Peaceful Uses of Nuclear Energy that was transmitted to Congress by the President on September 10, 2008.
 
 &emsp;"(2)
 
@@ -98,7 +98,7 @@ Declarations of Policy Relating to Meaning and Legal Effect of Agreement.—Cong
 
 Declarations of Policy Relating to Transfer of Nuclear Equipment, Materials, and Technology to India.—Congress makes the following declarations of policy:
 
-&emsp;"(1) Pursuant to section 103(a)(6) of the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 (22 U.S.C. 8002(a)(6)), in the event that nuclear transfers to India are suspended or terminated pursuant to title I of such Act (22 U.S.C. 8001 et seq.), the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), or any other United States law, it is the policy of the United States to seek to prevent the transfer to India of nuclear equipment, materials, or technology from other participating governments in the Nuclear Suppliers Group (NSG) or from any other source.
+&emsp;"(1) Pursuant to section 103(a)(6) of the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 (22 U.S.C. 8002(a)(6)), in the event that nuclear transfers to India are suspended or terminated pursuant to title I of such Act (22 U.S.C. 8001 et seq.), the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), or any other United States law, it is the policy of the United States to seek to prevent the transfer to India of nuclear equipment, materials, or technology from other participating governments inthe Nuclear Suppliers Group (NSG) or from any other source.
 
 &emsp;"(2) Pursuant to section 103(b)(10) of the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 (22 U.S.C. 8002(b)(10)), any nuclear power reactor fuel reserve provided to the Government of India for use in safeguarded civilian nuclear facilities should be commensurate with reasonable reactor operating requirements.
 

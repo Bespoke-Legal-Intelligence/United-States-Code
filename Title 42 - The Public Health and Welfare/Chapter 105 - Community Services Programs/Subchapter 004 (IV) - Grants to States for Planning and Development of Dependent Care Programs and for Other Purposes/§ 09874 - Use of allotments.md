@@ -60,7 +60,7 @@
 
 &emsp;(A) that the amount of funds available as a result of one of such percentage requirements is not needed in such fiscal year for the activities for which such amount is so made available; and
 
-&emsp;(B) the adequacy of the alternative percentages, relative to need, the State specifies theState will apply with respect to all of the activities referred to in paragraph (1) if such waiver is granted.
+&emsp;(B) the adequacy of the alternative percentages, relative to need, the State specifies the State will apply with respect to all of the activities referred to in paragraph (1) if such waiver is granted.
 
 #### (d) Prohibition; use of amounts
 
@@ -80,7 +80,7 @@ A State may not use amounts paid to it under this subchapter to—
 
 #### (f) Duplication of services
 
-Projects supported under this section to plan, develop, establish, expand, operate, or improve a State or local resource and referral system or before or after school child care program shall not duplicate any services which are provided before October 30, 1984, by the State or locality which will be served by such system.
+Projects supported under this section to plan, develop, establish, expand, operate, or improve aState or local resource and referral system or before or after school child care program shall not duplicate any services which are provided before October 30, 1984, by the State or locality which will be served by such system.
 
 #### (g) Technical assistance to States; planning and operational activities
 

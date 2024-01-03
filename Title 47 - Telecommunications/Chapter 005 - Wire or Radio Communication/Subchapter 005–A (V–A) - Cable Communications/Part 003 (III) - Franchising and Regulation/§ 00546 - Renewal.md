@@ -20,7 +20,7 @@
 
 #### (c) Notice of proposal; renewal; preliminary assessment of nonrenewal; administrative review; issues; notice and opportunity for hearing; transcript; written decision
 
-(1) Upon submittal by a cable operator of a proposal to the franchising authority for the renewal of a franchise pursuant to subsection (b), the franchising authority shall provide promptpublic notice of such proposal and, during the 4-month period which begins on the date of the submission of the cable operator's proposal pursuant to subsection (b), renew the franchise or, issue a preliminary assessment that the franchise should not be renewed and, at the request of the operator or on its own initiative, commence an administrative proceeding, after providing prompt public notice of such proceeding, in accordance with paragraph (2) to consider whether—
+(1) Upon submittal by a cable operator of a proposal to the franchising authority for the renewal of a franchise pursuant to subsection (b), the franchising authority shall provide prompt public notice of such proposal and, during the 4-month period which begins on the date of the submission of the cable operator's proposal pursuant to subsection (b), renew the franchise or, issue a preliminary assessment that the franchise should not be renewed and, at the request of the operator or on its own initiative, commence an administrative proceeding, after providing prompt public notice of such proceeding, in accordance with paragraph (2) to consider whether—
 
 &emsp;(A) the cable operator has substantially complied with the material terms of the existing franchise and with applicable law;
 

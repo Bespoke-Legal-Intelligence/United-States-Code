@@ -32,7 +32,7 @@
 
 #### Amendments
 
-<b>2002</b>—Par. (1)(c). Pub. L. 107–296, in introductory provisions, inserted "or disseminates by electronic means"after "or other publication" and, in concluding provisions, inserted "knowing the content of the advertisement and" before "knowing or having reason to know".
+<b>2002</b>—Par. (1)(c). Pub. L. 107–296, in introductory provisions, inserted "or disseminates by electronic means" after "or other publication" and, in concluding provisions, inserted "knowing the content of the advertisement and" before "knowing or having reason to know".
 
 <b>1997</b>—Par. (3). Pub. L. 105–112 added par. (3).
 

@@ -30,7 +30,7 @@ In this subpart, the terms "Indian tribe" and "tribal organization" have the mea
 
 For the purpose of carrying out this subpart, there are authorized to be appropriated $20,000,000 for each of fiscal years 2020 through 2024.
 
-(July 1, 1944, ch. 373, title III, §398B, formerly §399A, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat. 982; amended Pub. L. 101–557, title I, §102(c), Nov. 15, 1990, 104 Stat. 2767; renumbered §398B, Pub. L. 102–321, title V, §502(1), July 10, 1992, 106 Stat. 427; Pub. L. 105–392, title III, §302(c), Nov. 13, 1998, 112 Stat. 3586; Pub. L. 115–406, §4, Dec. 31, 2018, 132 Stat. 5366.)
+(July 1, 1944, ch. 373, title III, §398B, formerly §399A, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat. 982; amended Pub. L. 101–557, title I, §102(c), Nov. 15, 1990, 104 Stat.2767; renumbered §398B, Pub. L. 102–321, title V, §502(1), July 10, 1992, 106 Stat. 427; Pub. L. 105–392, title III, §302(c), Nov. 13, 1998, 112 Stat. 3586; Pub. L. 115–406, §4, Dec. 31, 2018, 132 Stat. 5366.)
 
 #### <b>Editorial Notes</b>
 

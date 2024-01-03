@@ -14,11 +14,11 @@ The President may waive the initial application of sanctions under subsection (a
 
 &emsp;&emsp;(B) will further the enforcement of this chapter; and
 
-&emsp;(2) a certification that the Government of the Russian Federation has made significantefforts to reduce the number and intensity of cyber intrusions conducted by that Government.
+&emsp;(2) a certification that the Government of the Russian Federation has made significant efforts to reduce the number and intensity of cyber intrusions conducted by that Government.
 
 #### (c) Delay of imposition of sanctions
 
-The President may delay the imposition of sanctions under subsection (a) with respect to a person if the President certifies to the appropriate congressional committees, not less frequently than every 180 days while the delay is in effect, that the person is substantially reducing the number of significant transactions described in subsection (a) in which that person engages.
+The President may delay the imposition of sanctions under subsection (a) with respect to aperson if the President certifies to the appropriate congressional committees, not less frequently than every 180 days while the delay is in effect, that the person is substantially reducing the number of significant transactions described in subsection (a) in which that person engages.
 
 #### (d) Modified waiver authority for certain sanctionable transactions under this section
 
@@ -90,7 +90,7 @@ Not later than 60 days after August 2, 2017, the President shall issue regulatio
 
 #### (f) Penalties
 
-A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (a) or any regulation, license, or order issued to carry out subsection (a) shall be subject to the penalties set forth in subsections (b)and (c) of section 1705 of title 50 to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (a) or any regulation, license, or order issued to carry out subsection (a) shall be subject to the penalties set forth in subsections (b) and (c) of section 1705 of title 50 to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
 
 (Pub. L. 115–44, title II, §231, Aug. 2, 2017, 131 Stat. 916; Pub. L. 115–232, div. A, title XII, §1294(a), Aug. 13, 2018, 132 Stat. 2085.)
 
@@ -182,7 +182,7 @@ Memorandum of President of the United States, Oct. 26, 2018, 83 F.R. 57671, prov
 
 Memorandum for the Secretary of State\[,\] the Secretary of the Treasury\[,\] the Secretary of Defense\[, and\] the Assistant to the President for National Security Affairs
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of State, in coordination with the Secretary of the Treasury, the Secretary of Defense, and the Assistant to the President for National Security Affairs, the functions and authorities vested in the President by section 1294 of the \[John S. McCain\] National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) \[probably means 22 U.S.C. 9525(d), as added by section 1294(a) of Pub. L. 115–232\].
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of State, in coordination with the Secretary of the Treasury, the Secretary of Defense, and the Assistant to the President for National Security Affairs, the functions and authorities vested in the President by section 1294 of the \[John S. McCain\] National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) \[probably means 22 U.S.C. 9525(d), as added by section 1294(a) of Pub. L. 115–232\].
 
 The delegation in this memorandum shall apply to any provision of any future public law that is the same or substantially the same as the provision referenced in this memorandum.
 

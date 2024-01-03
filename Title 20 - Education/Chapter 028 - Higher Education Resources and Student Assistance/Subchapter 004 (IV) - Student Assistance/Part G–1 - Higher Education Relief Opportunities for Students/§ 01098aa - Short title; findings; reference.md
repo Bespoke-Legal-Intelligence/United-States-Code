@@ -30,7 +30,7 @@ References in this part to "the Act" are references to the Higher Education Act 
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219,which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Codification
 

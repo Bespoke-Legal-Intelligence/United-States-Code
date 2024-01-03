@@ -42,7 +42,7 @@ In this section:
 
 #### (4) State and local assistance
 
-&emsp;The Administrator, in consultation with the Secretary of Energy, shall make available model commercial leasing provisions and best practices developed under this subsection to State, county, and municipal governments for use in managing owned and leased building space in accordance with the goal of encouraging investment in all cost-effective energy efficiency measures and cost-effective water efficiency measures.
+&emsp;The Administrator, in consultation with the Secretary of Energy, shall make available model commercial leasing provisions and best practices developed under this subsection to State, county, and municipal governments for use in managing owned and leased building space in accordance with the goal of encouraging investment in all cost-effective energyefficiency measures and cost-effective water efficiency measures.
 
 (Pub. L. 114–11, title I, §102, Apr. 30, 2015, 129 Stat. 182.)
 

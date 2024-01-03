@@ -8,7 +8,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(B) licensure of a biological product under subsection (a) of section 262 of title 42.
 
-> &emsp;Such term does not include a supplement to such an application, does not include an application with respect to whole blood or a blood component for transfusion, does not include an application with respect to a bovine blood product for topical application licensed before September 1, 1992, does not include an application with respect to an allergenic extract product licensed before October 1, 2022, does not include an application with respect to a standardized allergenic extract product submitted pursuant to a notification to the applicant from the Secretary regarding the existence of a potency test that measures the allergenic activity of an allergenic extract product licensed by the applicant before October 1, 2022, does not include an application with respect to an in vitro diagnostic biologic product licensed under section 262 of title 42, does not include an application with respect to a large volume parenteral drug product approved before September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, and does not include an application or supplement submitted by a State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as describedin subparagraph (B), of a large volume biological product intended for single dose injection for intravenous use or infusion.
+> &emsp;Such term does not include a supplement to such an application, does not include an application with respect to whole blood or a blood component for transfusion, does not include an application with respect to a bovine blood product for topical application licensed before September 1, 1992, does not include an application with respect to an allergenic extract product licensed before October 1, 2022, does not include an application with respect to a standardized allergenic extract product submitted pursuant to a notification to the applicant from the Secretary regarding the existence of a potency test that measures the allergenic activity of an allergenic extract product licensed by the applicant before October 1, 2022, does not include an application with respect to an in vitro diagnostic biologic product licensed under section 262 of title 42, does not include an application with respect to a large volume parenteral drug product approved before September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, and does not include an application or supplement submitted by a State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as described in subparagraph (B), of a large volume biological product intended for single dose injection for intravenous use or infusion.
 
 &emsp;(2) The term "supplement" means a request to the Secretary to approve a change in a human drug application which has been approved.
 
@@ -20,7 +20,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(iii) which is on the list of products described in section 355(j)(7)(A) of this title (not including the discontinued section of such list) or is on a list created and maintained by the Secretary of products approved under human drug applications under section 262 of title 42 (not including the discontinued section of such list).
 
-&emsp;(B) Such term does not include whole blood or a blood component for transfusion, does not include a bovine blood product for topical application licensed before September 1, 1992, an allergenic extract product licensed before October 1, 2022, a standardized allergenic extract product submitted pursuant to a notification to the applicant from the Secretary regarding the existence of a potency test that measures the allergenic activity of an allergenic extract product licensed by the applicant before October 1, 2022, or an in vitro diagnostic biologic product licensed under section 262 of title 42. Such term does not include a biological product that is licensed for further manufacturing use only, and does not include a drug that is not distributed commercially and is the subject of an application or supplement submitted by a State or Federal Government entity. Such term does include a large volume biological product intended for single dose injection for intravenous use or infusion.
+&emsp;(B) Such term does not include whole blood or a blood component for transfusion, does notinclude a bovine blood product for topical application licensed before September 1, 1992, an allergenic extract product licensed before October 1, 2022, a standardized allergenic extract product submitted pursuant to a notification to the applicant from the Secretary regarding the existence of a potency test that measures the allergenic activity of an allergenic extract product licensed by the applicant before October 1, 2022, or an in vitro diagnostic biologic product licensed under section 262 of title 42. Such term does not include a biological product that is licensed for further manufacturing use only, and does not include a drug that is not distributed commercially and is the subject of an application or supplement submitted by a State or Federal Government entity. Such term does include a large volume biological product intended for single dose injection for intravenous use or infusion.
 
 &emsp;(C)(i) If a written request to place a product in the discontinued section of either of the lists referenced in subparagraph (A)(iii) is submitted to the Secretary on behalf of an applicant, and the request identifies the date the product is, or will be, withdrawn from sale, then for purposes of assessing the prescription drug program fee under section 379h(a)(2) of this title, the Secretary shall consider such product to have been included in the discontinued section on the later of—
 
@@ -60,7 +60,7 @@ For purposes of this subpart:
 
 &emsp;(7) The term "costs of resources allocated for the process for the review of human drug applications" means the expenses in connection with the process for the review of human drug applications for—
 
-&emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisorycommittees, and costs related to such officers, employees, and committees and to contracts with such contractors,
+&emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees, and costs related to such officers, employees, and committees and to contracts with such contractors,
 
 &emsp;&emsp;(B) management of information, and the acquisition, maintenance, and repair of computer resources,
 
@@ -154,7 +154,7 @@ Par. (3)(C). Pub. L. 107–188, §503(2)(A)–(C), added subpar. (C).
 
 Par. (6)(F). Pub. L. 107–188, §503(3), added subpar. (F).
 
-Par. (8). Pub. L. 107–188, §503(4), struck out designations of subpars. (A) and (B) and text of subpar. (B) and concluding provisions, substituting definition of "adjustment factor" as the Consumer Price Index for definition of Index as the lower of the Consumer Price Index or the total of discretionary budget authority provided for programs in the domestic category for the immediately preceding fiscal year divided by such budget authority for fiscal year 1997.
+Par. (8). Pub. L. 107–188, §503(4), struck out designations of subpars. (A) and (B) and text of subpar. (B) and concluding provisions, substituting definition of "adjustment factor" as the Consumer Price Index for definition of Index as the lower of the Consumer Price Index or the total of discretionary budget authorityprovided for programs in the domestic category for the immediately preceding fiscal year divided by such budget authority for fiscal year 1997.
 
 <b>1997</b>—Par. (1). Pub. L. 105–115, §102(1), in closing provisions, struck out "and" before "does not include an application" and substituted "September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, and does not include an application or supplement submitted by a State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as described in subparagraph (D), of a large volume biological product intended for single dose injection for intravenous use or infusion" for "September 1, 1992" before period at end.
 
@@ -210,7 +210,7 @@ Pub. L. 107–188, title V, §509, June 12, 2002, 116 Stat. 694, which provided 
 
 #### Effective and Termination Dates of 1997 Amendment
 
-Pub. L. 105–115, title I, §106, Nov. 21, 1997, 111 Stat. 2305, provided that: "The amendments made by this subtitle \[subtitle A (§§101–107) of title I of Pub. L. 105–115, amending this section and section 379h of this title\] shall take effect October 1, 1997."
+Pub. L. 105–115, title I, §106, Nov. 21, 1997, 111 Stat. 2305, provided that: "The amendments made by this subtitle \[subtitle A (§§101–107) of title I of Pub. L.105–115, amending this section and section 379h of this title\] shall take effect October 1, 1997."
 
 Pub. L. 105–115, title I, §107, Nov. 21, 1997, 111 Stat. 2305, which provided that the amendments by sections 102 and 103 of Pub. L. 105–115 (amending this section and section 379h of this title) would cease to be effective Oct. 1, 2002, and the amendment by section 104 (enacting provisions set out as a note below) would cease to be effective 120 days after Oct. 1, 2002, was repealed by Pub. L. 112–144, title I, §105(d)(2)(A), July 9, 2012, 126 Stat. 1001.
 
@@ -244,7 +244,7 @@ Pub. L. 112–144, title IV, §406, July 9, 2012, 126 Stat. 1039, provided that:
 
 Pub. L. 110–85, title I, §108, Sept. 27, 2007, 121 Stat. 842, provided that: "Notwithstanding section 509 of the Prescription Drug User Fee Amendments of 2002 \[Pub. L. 107–188\] (\[former\] 21 U.S.C. 379g note), and notwithstanding the amendments made by this title \[enacting sections 379h–1 and 379h–2 of this title and amending this section and sections 379h and 379j–11 of this title\], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], as in effect on the day before the date of the enactment of this title \[Sept. 27, 2007\], shall continue to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that on or after October 1, 2002, but before October 1, 2007, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2008."
 
-Pub. L. 107–188, title V, §507, June 12, 2002, 116 Stat. 694, provided that: "Notwithstanding section 107 of the Food and Drug Administration Modernization Act of1997 \[section 107 of Pub. L. 105–115, formerly set out as an Effective and Termination Dates of 1997 Amendment note above\], and notwithstanding the amendments made by this subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 356b and 379h of this title\], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], as in effect on the day before the date of the enactment of this Act \[June 12, 2002\], continues to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that, on or after October 1, 1997, but before October 1, 2002, were accepted by the Food and Drug Administration for filing and with respect to assessing and collecting any fee required by such Act for a fiscal year prior to fiscal year 2003."
+Pub. L. 107–188, title V, §507, June 12, 2002, 116 Stat. 694, provided that: "Notwithstanding section 107 of the Food and Drug Administration Modernization Act of 1997 \[section 107 of Pub. L. 105–115, formerly set out as an Effective and Termination Dates of 1997 Amendment note above\], and notwithstanding the amendments made by this subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 356b and 379h of this title\], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], as in effect on the day before the date of the enactment of this Act \[June 12, 2002\], continues to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that, on or after October 1, 1997, but before October 1, 2002, were accepted by the Food and Drug Administration for filing and with respect to assessing and collecting any fee required by such Act for a fiscal year prior to fiscal year 2003."
 
 Pub. L. 105–115, title I, §105, Nov. 21, 1997, 111 Stat. 2305, provided that: "Notwithstanding section 105 of the Prescription Drug User Fee Act of 1992 \[section 105 of Pub. L. 102–571, formerly set out as a Termination Date note above\], the Secretary shall retain the authority to assess and collect any fee required by part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] for a human drug application or supplement accepted for filing prior to October 1, 1997, and to assess and collect any product or establishment fee required by such Act for a fiscal year prior to fiscal year 1998."
 
@@ -284,7 +284,7 @@ Pub. L. 110–85, title I, §101(c), Sept. 27, 2007, 121 Stat. 825, provided tha
 
 Pub. L. 107–188, title V, §502, June 12, 2002, 116 Stat. 687, provided that: "The Congress finds that—
 
-&emsp;"(1) prompt approval of safe and effective new drugs and other therapies is critical to the improvement ofthe public health so that patients may enjoy the benefits provided by these therapies to treat and prevent illness and disease;
+&emsp;"(1) prompt approval of safe and effective new drugs and other therapies is critical to the improvement of the public health so that patients may enjoy the benefits provided by these therapies to treat and prevent illness and disease;
 
 &emsp;"(2) the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for the review of human drug applications and the assurance of drug safety;
 
@@ -292,7 +292,7 @@ Pub. L. 107–188, title V, §502, June 12, 2002, 116 Stat. 687, provided that: 
 
 &emsp;&emsp;"(A) reauthorized for an additional 5 years, with certain technical improvements; and
 
-&emsp;&emsp;"(B) carried out by the Food and Drug Administration with new commitments to implement more ambitious and comprehensive improvements in regulatory processes of the Food and Drug Administration, including—
+&emsp;&emsp;"(B) carried out by the Food and Drug Administration with new commitments to implement moreambitious and comprehensive improvements in regulatory processes of the Food and Drug Administration, including—
 
 &emsp;&emsp;&emsp;"(i) strengthening and improving the review and monitoring of drug safety;
 
@@ -344,7 +344,7 @@ First Report.—Within 60 days after the end of each fiscal year during which fe
 
 "(b)
 
-Second Report.—Within 120 days after the end of each fiscal year during which such fees are collected, the Secretary of Health and Human Services shall submit a report on the implementation of the authority for such fees during such fiscal year and on the use theFood and Drug Administration made of the fees collected during such fiscal year for which the report is made.
+Second Report.—Within 120 days after the end of each fiscal year during which such fees are collected, the Secretary of Health and Human Services shall submit a report on the implementation of the authority for such fees during such fiscal year and on the use the Food and Drug Administration made of the fees collected during such fiscal year for which the report is made.
 
 "(c)
 

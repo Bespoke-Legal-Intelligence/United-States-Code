@@ -18,7 +18,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(i) a supplement to such an application;
 
-&emsp;&emsp;(ii) an application filed under section 262(k) of title 42 that cites as the reference product a bovine blood product for topical application licensed before September 1, 1992, or a large volume parenteral drug product approved before such date;
+&emsp;&emsp;(ii) an application filed under section 262(k) of title 42 that cites as the referenceproduct a bovine blood product for topical application licensed before September 1, 1992, or a large volume parenteral drug product approved before such date;
 
 &emsp;&emsp;(iii) an application filed under section 262(k) of title 42 with respect to—
 
@@ -110,7 +110,7 @@ For purposes of this subpart:
 
 <b>2022</b>—Par. (1). Pub. L. 117–180, §4002(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'adjustment factor' applicable to a fiscal year is the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items) for October of the preceding fiscal year divided by such Index for October 2011."
 
-Par. (4)(B)(iii)(II)–(IV). Pub. L. 117–180, §4002(b), redesignated subcls. (III) and (IV) as (II) and (III), respectively, and struck out former subcl. (II) which read as follows: "an allergenic extract product;".
+Par. (4)(B)(iii)(II) to (IV). Pub. L. 117–180, §4002(b), redesignated subcls. (III) and (IV) as (II) and (III), respectively, and struck out former subcl. (II) which read as follows: "an allergenic extract product;".
 
 <b>2017</b>—Par. (1). Pub. L. 115–52, §402(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'adjustment factor' applicable to a fiscal year that is the Consumer Price Index for all urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items) of the preceding fiscal year divided by such Index for September 2011."
 
@@ -156,7 +156,7 @@ Exception.—Fees under part 8 of subchapter C of chapter VII of the Federal Foo
 
 Pub. L. 117–180, div. F, title IV, §4007, Sept. 30, 2022, 136 Stat. 2167, provided that: "Notwithstanding the amendments made by this title \[see section 4001(a) of Pub. L. 117–180, set out as a Short Title of 2022 Amendment note under section 301 of this title\], part 8 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–51 et seq.), as in effect on the day before the date of the enactment of this title \[Sept. 30, 2022\], shall continue to be in effect with respect to biosimilar biological product applications and supplements (as defined in such part as of such day) that were accepted by the Food and Drug Administration for filing on or after October 1, 2017, but before October 1, 2022, with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2023."
 
-Pub. L. 115–52, title IV, §407, Aug. 18, 2017, 131 Stat. 1035, provided that: "Notwithstanding the amendments made by this title \[see section 401(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under section 301 of this title\], part 8 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–51 et seq.\], as in effect on the day before the date of the enactment of this title \[Aug. 18, 2017\], shall continue to be in effect with respect to biosimilar biological product applications and supplements (as defined in such part as of such day) that were accepted by the Food and Drug Administration for filing on or after October 1, 2012, but before October 1, 2017, with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2018."
+Pub. L. 115–52, title IV, §407, Aug. 18, 2017, 131 Stat. 1035, provided that: "Notwithstanding the amendments made by this title \[see section 401(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note undersection 301 of this title\], part 8 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–51 et seq.\], as in effect on the day before the date of the enactment of this title \[Aug. 18, 2017\], shall continue to be in effect with respect to biosimilar biological product applications and supplements (as defined in such part as of such day) that were accepted by the Food and Drug Administration for filing on or after October 1, 2012, but before October 1, 2017, with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2018."
 
 #### Congressional Findings Concerning Fees Relating to Biosimilar Biological Products
 

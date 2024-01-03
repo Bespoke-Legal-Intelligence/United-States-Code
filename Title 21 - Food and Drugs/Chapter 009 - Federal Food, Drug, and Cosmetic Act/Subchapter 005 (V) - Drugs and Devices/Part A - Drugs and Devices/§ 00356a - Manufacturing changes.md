@@ -50,7 +50,7 @@ For purposes of subsection (a)(1), a drug made with a manufacturing change (whet
 
 #### (B) Authority regarding annual reports
 
-&emsp;&emsp;In the case of a holder that during a single year makes more than one manufacturingchange to which paragraph (1)(A) applies, the Secretary may in carrying out subparagraph (A) authorize the holder to comply with such subparagraph by submitting a single report for the year that provides the information required in such subparagraph for all the changes made by the holder during the year.
+&emsp;&emsp;In the case of a holder that during a single year makes more than one manufacturing change to which paragraph (1)(A) applies, the Secretary may in carrying out subparagraph (A) authorize the holder to comply with such subparagraph by submitting a single report for the year that provides the information required in such subparagraph for all the changes made by the holder during the year.
 
 #### (3) Changes requiring supplemental application
 
@@ -74,5 +74,5 @@ For purposes of subsection (a)(1), a drug made with a manufacturing change (whet
 
 #### Effective Date
 
-Pub. L. 105–115, title I, §116(b), Nov. 21, 1997, 111 Stat. 2315, provided that: "The amendment made by subsection (a) \[enacting this section\] takes effect upon the effective date of regulations promulgated by the Secretary of Health and Human Services to implement such amendment, or upon the expiration of the 24-month period beginning on the date of the enactment of this Act \[Nov. 21, 1997\], whichever occurs first."
+Pub. L. 105–115, title I, §116(b), Nov. 21, 1997, 111 Stat. 2315, provided that: "The amendment made by subsection (a) \[enacting this section\] takes effect upon theeffective date of regulations promulgated by the Secretary of Health and Human Services to implement such amendment, or upon the expiration of the 24-month period beginning on the date of the enactment of this Act \[Nov. 21, 1997\], whichever occurs first."
 

@@ -6,7 +6,7 @@ Covered Policies, Regulations, Procedures, and Forms.—
 
 &emsp;(1)
 
-Required comment period.—Except as provided in subsection (d), a procurement policy, regulation, procedure, or form (including an amendment or modification thereto) maynot take effect until 60 days after it is published for public comment in the Federal Register pursuant to subsection (b) if it—
+Required comment period.—Except as provided in subsection (d), a procurement policy, regulation, procedure, or form (including an amendment or modification thereto) may not take effect until 60 days after it is published for public comment in the Federal Register pursuant to subsection (b) if it—
 
 &emsp;&emsp;(A) relates to the expenditure of appropriated funds; and
 

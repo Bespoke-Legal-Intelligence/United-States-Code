@@ -124,7 +124,7 @@ An initiative—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish guidelines and procedures to prevent any conflict of interest or the appearance of a conflict of interest by an initiative (including a partnerof the initiative) during the allocation of direct assistance under paragraph (1) or grant funding under paragraph (3).
+&emsp;&emsp;The Secretary shall establish guidelines and procedures to prevent any conflict of interest or the appearance of a conflict of interest by an initiative (including a partner of the initiative) during the allocation of direct assistance under paragraph (1) or grant funding under paragraph (3).
 
 #### (B) Penalty
 

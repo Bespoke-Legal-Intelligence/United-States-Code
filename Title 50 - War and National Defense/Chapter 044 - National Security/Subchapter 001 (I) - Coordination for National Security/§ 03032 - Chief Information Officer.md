@@ -20,7 +20,11 @@ Subject to the direction of the Director of National Intelligence, the Chief Inf
 
 An individual serving in the position of Chief Information Officer of the Intelligence Community may not, while so serving, serve as the chief information officer of any other department or agency, or component thereof, of the United States Government.
 
-(July 26, 1947, ch. 343, title I, §103G, as added Pub. L. 108–487, title III, §303(a)(1), Dec. 23, 2004, 118 Stat. 3944; amended Pub. L. 111–259, title IV, §404, Oct. 7, 2010, 124 Stat. 2709; Pub. L. 116–92, div. E, title LXIII, §6304, title LXIV, §6405, Dec. 20, 2019, 133 Stat. 2188, 2196.)
+#### (d) Prohibition on simultaneous service as Chief Data Officer and Chief Information Officer
+
+An individual serving in the position of Chief Information Officer of the Intelligence Community or chief information officer of any other element of the intelligence community shall not concurrently serve as the Intelligence Community Chief Data Officer under section 3034b of this title and as the chief data officer of any other element of the intelligence community.
+
+(July 26, 1947, ch. 343, title I, §103G, as added Pub. L. 108–487, title III, §303(a)(1), Dec. 23, 2004, 118 Stat. 3944; amended Pub. L. 111–259, title IV, §404, Oct. 7, 2010, 124 Stat. 2709; Pub. L. 116–92, div. E, title LXIII, §6304, title LXIV, §6405, Dec. 20, 2019, 133 Stat. 2188, 2196; Pub. L. 118–31, div. G, title III, §7310(a), Dec. 22, 2023, 137 Stat. 1028.)
 
 #### <b>Editorial Notes</b>
 
@@ -34,6 +38,8 @@ Section was formerly classified to section 403–3g of this title prior to edito
 
 #### Amendments
 
+<b>2023</b>—Subsec. (d). Pub. L. 118–31 added subsec. (d).
+
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, §6405, inserted at end "The Chief Information Officer shall report directly to the Director of National Intelligence."
 
 Pub. L. 116–92, §6304, substituted "by the Director" for "by the President".
@@ -46,5 +52,5 @@ Subsecs. (b) to (d). Pub. L. 111–259, §404(2)–(4), redesignated subsecs. (c
 
 #### Effective Date
 
-Pub. L. 108–487, title III, §303(b), Dec. 23, 2004, 118 Stat. 3944, provided that: "The amendments made bythis section \[enacting this section\] shall take effect on the effective date of the National Security Intelligence Reform Act of 2004 \[see section 1097 of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transfer, Termination, and Transition Provisions note under section 3001 of this title\], as provided in section 801 of this Act \[set out in an Effective Date of 2004 Amendments note under section 2656f of Title 22, Foreign Relations and Intercourse\]."
+Pub. L. 108–487, title III, §303(b), Dec. 23, 2004, 118 Stat. 3944, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the effective date of the National Security Intelligence Reform Act of 2004 \[see section 1097 of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transfer, Termination, and Transition Provisions note under section 3001 of this title\], as provided in section 801 of this Act \[set out in an Effective Date of 2004 Amendments note under section 2656f of Title 22, Foreign Relations and Intercourse\]."
 

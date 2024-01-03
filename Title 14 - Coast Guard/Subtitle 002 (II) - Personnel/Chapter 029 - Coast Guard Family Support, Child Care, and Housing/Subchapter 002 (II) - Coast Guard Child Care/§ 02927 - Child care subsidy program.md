@@ -20,7 +20,7 @@ Authority.—The Commandant may operate a child care subsidy program to provide 
 
 Eligible providers.—A provider of child care services or youth program services is eligible for financial assistance under this section if the provider—
 
-&emsp;&emsp;(A) is licensed to provide such services under applicable State and local law or meets all applicable State and local health and safety requirements if licensure is not required;
+&emsp;&emsp;(A) is licensed to provide such services under applicable State and local law ormeets all applicable State and local health and safety requirements if licensure is not required;
 
 &emsp;&emsp;(B) is either—
 
@@ -130,7 +130,7 @@ Report.—
 
 &emsp;"(i)
 
-In general.—Not later than 18 months after the date of the enactment of this Act, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report outlining the expansion of the program.
+In general.—Not later than 18 months after the date of the enactment of this Act, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructureof the House of Representatives a report outlining the expansion of the program.
 
 &emsp;"(ii)
 
@@ -142,7 +142,7 @@ Elements.—The report required by clause (i) shall include the following:
 
 &emsp;&emsp;"(III) A full analysis and justification with respect to the forms of care that were ultimately not included in the manual.
 
-&emsp;&emsp;"(IV) Any recommendation with respect to funding or additional authorities necessary, includingproposals for legislative change, to meet the current and anticipated future child care subsidy demands of the Coast Guard.
+&emsp;&emsp;"(IV) Any recommendation with respect to funding or additional authorities necessary, including proposals for legislative change, to meet the current and anticipated future child care subsidy demands of the Coast Guard.
 
 &emsp;&emsp;"(V) A description of the steps taken to streamline enrollment policies, practices, and requirements for eligible child care providers in accordance with paragraph (2)(A)(iii)."
 

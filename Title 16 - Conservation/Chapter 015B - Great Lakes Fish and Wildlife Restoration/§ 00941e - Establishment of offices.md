@@ -28,7 +28,7 @@
 
 &emsp;The responsibilities of the Upper Great Lakes Fish and Wildlife Conservation Offices shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Upper Great Lakes.
 
-(Pub. L. 101–537, title I, §1007, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, §2007, Nov. 29,1990, 104 Stat. 4777; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §3(b), Oct. 19, 1998, 112 Stat. 2358; Pub. L. 109–326, §6, Oct. 11, 2006, 120 Stat. 1764; Pub. L. 114–322, title III, §3901(d), Dec. 16, 2016, 130 Stat. 1850.)
+(Pub. L. 101–537, title I, §1007, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, §2007, Nov. 29, 1990, 104 Stat. 4777; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §3(b), Oct. 19, 1998, 112 Stat. 2358; Pub. L. 109–326, §6, Oct. 11, 2006, 120 Stat. 1764; Pub. L. 114–322, title III, §3901(d), Dec. 16, 2016, 130 Stat. 1850.)
 
 #### <b>Editorial Notes</b>
 

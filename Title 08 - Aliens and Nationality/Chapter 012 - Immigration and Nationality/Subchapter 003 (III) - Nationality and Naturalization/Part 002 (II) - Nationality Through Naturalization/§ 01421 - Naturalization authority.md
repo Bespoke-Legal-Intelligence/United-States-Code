@@ -58,7 +58,7 @@ The sole authority to naturalize persons as citizens of the United States is con
 
 #### (C) Waiver of exclusive authority
 
-&emsp;&emsp;Notwithstanding the previous provisions of this paragraph, a court may waive exclusive authority to administer the oath of allegiance under section 1448(a) of this title to a person under this subsection if the Attorney General has not provided the court with the certification described in subparagraph (A)(i) within a reasonable time before the date scheduled by the court for oath administration ceremonies. Upon notification of a court's waiver of jurisdiction, the Attorney General shall promptly notify the applicant.
+&emsp;&emsp;Notwithstanding the previous provisions of this paragraph, a court may waive exclusive authority to administer the oath of allegiance under section 1448(a) of this title to a person under this subsection if the Attorney General has not provided the court with the certification described in subparagraph (A)(i) within a reasonable time before the date scheduled by the court for oath administration ceremonies. Upon notification of acourt's waiver of jurisdiction, the Attorney General shall promptly notify the applicant.
 
 #### (4) Issuance of certificates
 

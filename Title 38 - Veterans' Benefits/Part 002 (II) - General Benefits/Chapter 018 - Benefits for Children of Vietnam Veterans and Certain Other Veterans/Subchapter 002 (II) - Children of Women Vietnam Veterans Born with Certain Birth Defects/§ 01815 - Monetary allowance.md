@@ -2,7 +2,7 @@
 
 (a)
 
-Monetary Allowance.—The Secretary shall pay a monthly allowance to any eligiblechild for any disability resulting from the covered birth defects of that child.
+Monetary Allowance.—The Secretary shall pay a monthly allowance to any eligible child for any disability resulting from the covered birth defects of that child.
 
 (b)
 

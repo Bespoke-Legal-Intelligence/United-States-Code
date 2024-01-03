@@ -98,7 +98,7 @@ The plan shall include at a minimum the following program elements:
 
 &emsp;(7) Applied research to identify adaptation strategies for species impacted by changes in ocean chemistry including vegetation-based systems, shell recycling, species and genetic diversity, applied technologies, aquaculture methodologies, and management recommendations.
 
-&emsp;(8) Research to understand related and cumulative stressors and other biogeochemical processes occurring in conjunction with ocean acidification and coastal acidification.
+&emsp;(8) Research to understand related and cumulative stressors and other biogeochemicalprocesses occurring in conjunction with ocean acidification and coastal acidification.
 
 #### (d) Publication
 
@@ -134,7 +134,7 @@ Subsec. (b)(5). Pub. L. 117–167, §10645(2)(E), substituted "the best availabl
 
 Subsec. (b)(6). Pub. L. 117–167, §10645(2)(F), inserted "and coastal acidification" after "ocean acidification" and substituted "within the United States" for "of the United States".
 
-Subsec. (b)(8). Pub. L. 117–167, §10645(2)(G)(iii), which directed the substitution of a semicolon for "; and", could not be executed because "; and" no longer appears after the intervening amendment by Pub. L. 116–271, §110(a). See 2020 Amendment note below.
+Subsec. (b)(8). Pub. L. 117–167, §10645(2)(G)(iii), which directed the substitution of a semicolon for "; and", could not be executed because "and" had already been struck out at the end of par. (8) by Pub. L. 116–271, §110(a)(1), in the course of adding par. (10). See 2020 Amendment note below.
 
 Pub. L. 117–167, §10645(2)(G)(i), (ii), inserted "and coastal acidification" after "ocean acidification" in two places and substituted "their" for "its".
 

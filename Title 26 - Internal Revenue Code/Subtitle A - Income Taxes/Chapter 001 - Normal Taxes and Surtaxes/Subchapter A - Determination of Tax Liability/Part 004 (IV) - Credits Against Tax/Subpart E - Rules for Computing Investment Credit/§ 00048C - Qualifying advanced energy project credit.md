@@ -178,7 +178,7 @@ For purposes of section 46, the qualifying advanced energy project credit for an
 
 #### (B) Time to meet criteria for certification
 
-&emsp;&emsp;Each applicant for certification shall have 2 years from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that the requirements of the certification have been met.
+&emsp;&emsp;Each applicant for certification shall have 2 years from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that therequirements of the certification have been met.
 
 #### (C) Period of issuance
 
@@ -218,7 +218,7 @@ For purposes of section 46, the qualifying advanced energy project credit for an
 
 #### (f) Denial of double benefit
 
-A credit shall not be allowed under this section for any qualified investment for which acredit is allowed under section 48, 48A, 48B, 48E, 45Q, or 45V.
+A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section 48, 48A, 48B, 48E, 45Q, or 45V.
 
 (Added Pub. L. 111–5, div. B, title I, §1302(b), Feb. 17, 2009, 123 Stat. 345; amended Pub. L. 113–295, div. A, title II, §§209(g), 221(a)(2)(C), Dec. 19, 2014, 128 Stat. 4029, 4037; Pub. L. 117–169, title I, §13501(a)–(d), Aug. 16, 2022, 136 Stat. 1969–1971.)
 

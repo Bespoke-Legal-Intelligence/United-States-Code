@@ -37,7 +37,7 @@ The Secretary shall not provide enrichment services or transfer or sell any uran
 | 2003 | 12&nbsp;&nbsp; |
 | 2004 | 14&nbsp;&nbsp; |
 | 2005 | 16&nbsp;&nbsp; |
-| 2006 | 17&nbsp;&nbsp; |
+| 2006 | 17   |
 | 2007 | 18&nbsp;&nbsp; |
 | 2008 | 19&nbsp;&nbsp; |
 | 2009 and each year thereafter | 20\. |
@@ -106,7 +106,7 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

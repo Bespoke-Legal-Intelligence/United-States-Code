@@ -94,7 +94,7 @@ For purposes of this section, the term "qualifying employee" means any employee 
 
 #### (2) Exclusion
 
-&emsp;If an employer provides paid leave as vacation leave, personal leave, or medical or sick leave (other than leave specifically for 1 or more of the purposes referred to in paragraph (1)), that paid leave shall not be considered to be family and medical leave under paragraph (1).
+&emsp;If an employer provides paid leave as vacation leave, personal leave, or medical or sick leave (other than leave specifically for 1 or more of the purposes referred to in paragraph\(1)), that paid leave shall not be considered to be family and medical leave under paragraph (1).
 
 #### (3) Definitions
 
@@ -142,7 +142,7 @@ Section 3(e) of the Fair Labor Standards Act of 1938, referred to in subsec. (d)
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. EE, title I, §119(b), Dec. 27, 2020, 134 Stat. 3051, provided that: "The amendment made bythis section \[amending this section\] shall apply to wages paid in taxable years beginning after December 31, 2020."
+Pub. L. 116–260, div. EE, title I, §119(b), Dec. 27, 2020, 134 Stat. 3051, provided that: "The amendment made by this section \[amending this section\] shall apply to wages paid in taxable years beginning after December 31, 2020."
 
 #### Effective Date of 2019 Amendment
 

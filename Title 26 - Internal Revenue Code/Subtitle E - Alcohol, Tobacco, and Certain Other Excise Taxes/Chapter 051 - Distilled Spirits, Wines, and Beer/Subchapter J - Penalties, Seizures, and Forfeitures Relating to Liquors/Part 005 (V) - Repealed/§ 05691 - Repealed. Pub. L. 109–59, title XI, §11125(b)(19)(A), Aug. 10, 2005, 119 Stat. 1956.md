@@ -12,5 +12,5 @@ A prior section 5691, act Aug. 16, 1954, ch. 736, 68A Stat. 702, related to pena
 
 #### Effective Date of Repeal
 
-Repeal effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as an Effective Date of 2005 Amendment note under section 5002 of this title.
+Repeal effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section11125(c) of Pub. L. 109–59, set out as an Effective Date of 2005 Amendment note under section 5002 of this title.
 

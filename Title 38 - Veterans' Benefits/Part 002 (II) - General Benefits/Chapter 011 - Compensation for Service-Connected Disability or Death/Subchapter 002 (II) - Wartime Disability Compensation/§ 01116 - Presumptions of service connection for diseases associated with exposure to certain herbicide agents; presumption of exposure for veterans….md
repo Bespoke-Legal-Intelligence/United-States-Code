@@ -46,7 +46,7 @@
 
 &emsp;(1) performed in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975;
 
-&emsp;(2) performed in Thailand at any United States or Royal Thai base during the period beginning on January 9, 1962, and ending on June 30, 1976, without regard to where on thebase the veteran was located or what military job specialty the veteran performed;
+&emsp;(2) performed in Thailand at any United States or Royal Thai base during the period beginning on January 9, 1962, and ending on June 30, 1976, without regard to where on the base the veteran was located or what military job specialty the veteran performed;
 
 &emsp;(3) performed in Laos during the period beginning on December 1, 1965, and ending on September 30, 1969;
 
@@ -226,7 +226,7 @@ Elements.—The report required by subsection (a) shall include the following:
 
 &emsp;"(3) A description of the expected effect of repealing the manifestation period from such subparagraphs, including the expected effect on the number of claims for benefits the Department will receive, an estimate of the cost to the Department of such repeal, and a review of the scientific evidence regarding such repeal.
 
-&emsp;"(4) A review of all claims submitted to the Secretary for compensation under chapter 11 of such title that are associated with a disease described insubsection (a)(2), including the type of proof presented to establish a service connection for the manifestation of the disease based on exposure to a herbicide agent.
+&emsp;"(4) A review of all claims submitted to the Secretary for compensation under chapter 11 of such title that are associated with a disease described in subsection (a)(2), including the type of proof presented to establish a service connection for the manifestation of the disease based on exposure to a herbicide agent.
 
 &emsp;"(5) Recommendations on how the Department can better adjudicate claims for benefits, including compensation, submitted to the Department that are associated with a disease described in paragraph (2) of subsection (a) for veterans described in paragraph (1) of such subsection.
 
@@ -352,7 +352,7 @@ Certification.—
 
 &emsp;"(1)
 
-In general.—Not later than 90 days after receiving the results of the assessment and determination under subsection (c), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the Houseof Representatives a certification of the understanding of the Secretary, based on such results and determination, regarding the feasibility of conducting further research regarding health conditions of descendants of veterans with toxic exposure that is expressed by such results and determination.
+In general.—Not later than 90 days after receiving the results of the assessment and determination under subsection (c), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a certification of the understanding of the Secretary, based on such results and determination, regarding the feasibility of conducting further research regarding health conditions of descendants of veterans with toxic exposure that is expressed by such results and determination.
 
 &emsp;"(2)
 
@@ -484,7 +484,7 @@ Availability of Records.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense, the Secretary of Veterans Affairs, and the head of eachFederal agency identified under section 632(b)(3)(E) shall make available to the research entity or entities records held by the Department of Veterans Affairs, the Department of Defense, the Armed Forces, that Federal agency, or any other source under the jurisdiction of any such Federal agency or the Armed Forces, as appropriate, that the research entity or entities determine are necessary to carry out this section.
+In general.—The Secretary of Defense, the Secretary of Veterans Affairs, and the head of each Federal agency identified under section 632(b)(3)(E) shall make available to the research entity or entities records held by the Department of Veterans Affairs, the Department of Defense, the Armed Forces, that Federal agency, or any other source under the jurisdiction of any such Federal agency or the Armed Forces, as appropriate, that the research entity or entities determine are necessary to carry out this section.
 
 &emsp;"(2)
 
@@ -510,7 +510,7 @@ Elements.—Each report submitted under paragraph (1) shall include the followin
 
 &emsp;"(3)
 
-Upon request.—Upon the request of any organization exempt from taxation under section 501(c)(19) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(19)\], the Secretary of Veterans Affairs may transmit to such organization a copy of a report received by the Secretary under paragraph (1)."
+Upon request.—Upon the request of any organization exempt from taxation under section 501(c)(19) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(19)\], the Secretary of Veterans Affairsmay transmit to such organization a copy of a report received by the Secretary under paragraph (1)."
 
 #### Report on Time Limit for Presumption of Cancer Caused by Herbicide Agent
 
@@ -560,7 +560,7 @@ Scientific Determinations Concerning Diseases.—(1) For each disease reviewed, 
 
 "(e)
 
-Recommendations for Additional Scientific Studies.—The Academy shall make any recommendations it has for additional scientific studies to resolve areas of continuing scientific uncertainty relating to herbicide exposure. In making recommendations forfurther study, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from additional studies, and the cost and feasibility of carrying out such additional studies.
+Recommendations for Additional Scientific Studies.—The Academy shall make any recommendations it has for additional scientific studies to resolve areas of continuing scientific uncertainty relating to herbicide exposure. In making recommendations for further study, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from additional studies, and the cost and feasibility of carrying out such additional studies.
 
 "(f)
 
@@ -634,7 +634,7 @@ Annual Report.—The Secretary shall submit to the Committees on Veterans' Affai
 
 &emsp;"(5) other explanations for the incidence of such disabilities considered reasonable by the Secretary; and
 
-&emsp;"(6) the Secretary's views on the scientific validity of drawing conclusions from the incidence of such disabilities, as evidenced by the data compiled under subsection (a), about any association between suchdisabilities and exposure to dioxin or any other toxic substance referred to in section 1710(e)(1)(A) of title 38, United States Code, or between such disabilities and active military, naval, or air service, in the Republic of Vietnam during the Vietnam era.
+&emsp;"(6) the Secretary's views on the scientific validity of drawing conclusions from the incidence of such disabilities, as evidenced by the data compiled under subsection (a), about any association between such disabilities and exposure to dioxin or any other toxic substance referred to in section 1710(e)(1)(A) of title 38, United States Code, or between such disabilities and active military, naval, or air service, in the Republic of Vietnam during the Vietnam era.
 
 "(c)
 
@@ -734,7 +734,7 @@ Effective Date.—(1) This section shall take effect at the end of the 90-day pe
 
 &emsp;"(B) notifies the Committees on Veterans' Affairs of the Senate and House of Representatives of the Secretary's determination and the reasons therefor.
 
-"(2) In making a determination under this subsection, the Secretary shall give great weight to theviews and recommendations of the Academy expressed in that report with respect to the implementation of this section."
+"(2) In making a determination under this subsection, the Secretary shall give great weight to the views and recommendations of the Academy expressed in that report with respect to the implementation of this section."
 
 #### Blood Testing of Certain Vietnam-Era Veterans
 

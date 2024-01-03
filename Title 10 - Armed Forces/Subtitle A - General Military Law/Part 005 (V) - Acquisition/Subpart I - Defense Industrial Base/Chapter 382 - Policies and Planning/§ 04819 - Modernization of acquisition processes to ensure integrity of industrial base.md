@@ -138,7 +138,7 @@ Enabling Data, Tools, and Systems.—(1)(A) The Under Secretary of Defense for A
 
 &emsp;(ii) A description of modern data infrastructure, tools, and applications and an assessment of the extent to which new capabilities would improve the effectiveness and efficiency of mitigating the risks described in subsection (c)(2).
 
-&emsp;(iii) An assessment of the following systems owned or operated outside of the Departmentof Defense that the Department depends upon or to which it provides data, including the following:
+&emsp;(iii) An assessment of the following systems owned or operated outside of the Department of Defense that the Department depends upon or to which it provides data, including the following:
 
 &emsp;&emsp;(I) The Federal Awardee Performance and Integrity Information System (FAPIIS).
 
@@ -216,7 +216,7 @@ Subsec. (c)(2)(E)(ii). Pub. L. 116–283, §1883(b)(2), substituted "section 486
 
 Subsec. (c)(2)(E)(v). Pub. L. 117–81, §1701(d)(16)(B)(iii), which directed the amendment of subsec. (b)(2)(E)(v) of this section by substituting "sections 4841 and 4842" for "section 2521", was executed to subsec. (c)(2)(E)(v) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–81, §841(3). See note above.
 
-Pub. L. 116–283, §1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amendedby striking such reference and inserting a reference to the appropriate redesignated section, was not executed by substituting "section 4841" for "section 2521", to reflect the probable intent of Congress and execution of the subsequent amendment by section 1701(d)(16)(B)(iii) of Pub. L. 117–81 specifically directing the substitution of "sections 4841 and 4842" for "section 2521". See note above. Although section 2521 of this title was redesignated as section 4841, subsec. (e) of section 4841 was transferred to become the text of section 4842 immediately thereafter.
+Pub. L. 116–283, §1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed by substituting "section 4841" for "section 2521", to reflect the probable intent of Congress and execution of the subsequent amendment by section 1701(d)(16)(B)(iii) of Pub. L. 117–81 specifically directing the substitution of "sections 4841 and 4842" for "section 2521". See note above. Although section 2521 of this title was redesignated as section 4841, subsec. (e) of section 4841 was transferred to become the text of section 4842 immediately thereafter.
 
 Subsec. (d). Pub. L. 117–81, §841(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 

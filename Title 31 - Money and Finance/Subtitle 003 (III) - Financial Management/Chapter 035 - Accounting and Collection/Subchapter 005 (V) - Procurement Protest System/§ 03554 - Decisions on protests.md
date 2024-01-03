@@ -8,7 +8,7 @@
 
 (4) The Comptroller General may dismiss a protest that the Comptroller General determines is frivolous or which, on its face, does not state a valid basis for protest.
 
-(b)(1) With respect to a solicitation for a contract, or a proposed award or the award of a contract, protested under this subchapter, the Comptroller General may determine whether the solicitation, proposed award, or award complies with statute and regulation. If the Comptroller General determines that the solicitation, proposed award, or award does not comply with a statute or regulation, the Comptroller General shall recommend that the Federal agency—
+(b)(1) With respect to a solicitation for a contract, or a proposed award or the award of a contract, protested under this subchapter, the Comptroller General may determine whether the solicitation, proposed award, or award complies with statute and regulation. If the Comptroller General determines that the solicitation,proposed award, or award does not comply with a statute or regulation, the Comptroller General shall recommend that the Federal agency—
 
 &emsp;(A) refrain from exercising any of its options under the contract;
 
@@ -68,7 +68,7 @@
 
 (2) Not later than January 31 of each year, the Comptroller General shall transmit to the Congress a report containing a summary of each instance in which a Federal agency did not fully implement a recommendation of the Comptroller General under subsection (b) or (c) during the preceding year. The report shall also describe each instance in which a final decision in a protest was not rendered within 100 days after the date the protest is submitted to the Comptroller General. The report shall also include a summary of the most prevalent grounds for sustaining protests during such preceding year.
 
-(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1201; amended Pub. L. 100–463, title VIII, §8139, Oct. 1, 1988, 102 Stat. 2270–47; Pub. L. 103–355, title I, §1403(a)–(b)(3), Oct. 13, 1994, 108 Stat. 3289, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(3), div. E, title LV, §5501(2), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 111–84, div. A, title III, §327(c), Oct. 28, 2009, 123 Stat. 2255; Pub. L. 112–239, div. A, title VIII, §867, Jan. 2, 2013, 126 Stat. 1862.)
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1201; amended Pub. L. 100–463, title VIII, §8139, Oct. 1, 1988, 102 Stat. 2270–47; Pub. L. 103–355, title I, §1403(a)–(b)(3), Oct. 13, 1994, 108 Stat. 3289, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(3), div. E, title LV, §5501(2), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 111–84, div. A, title III, §327(c), Oct. 28, 2009, 123Stat. 2255; Pub. L. 112–239, div. A, title VIII, §867, Jan. 2, 2013, 126 Stat. 1862.)
 
 #### <b>Editorial Notes</b>
 
@@ -122,7 +122,7 @@ Subsec. (e). Pub. L. 103–355, §1403(b)(3), amended subsec. (e) generally. Pri
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2009 Amendment
 

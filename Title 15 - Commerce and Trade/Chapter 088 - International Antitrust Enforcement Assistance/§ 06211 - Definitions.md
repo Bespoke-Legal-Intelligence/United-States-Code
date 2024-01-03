@@ -14,7 +14,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(D) Citations to the Federal antitrust laws, and the foreign antitrust laws, with respect to which such agreement or such memorandum applies.
 
-&emsp;&emsp;(E) Terms and conditions that specifically require using, disclosing, or permitting theuse or disclosure of, antitrust evidence received under such agreement or such memorandum only—
+&emsp;&emsp;(E) Terms and conditions that specifically require using, disclosing, or permitting the use or disclosure of, antitrust evidence received under such agreement or such memorandum only—
 
 &emsp;&emsp;&emsp;(i) for the purpose of administering or enforcing the foreign antitrust laws involved, or
 

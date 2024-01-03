@@ -76,7 +76,7 @@ Ex. Ord. No. 10988, Jan. 17, 1962, 27 F.R. 551, which related to employee-manage
 
 #### Ex. Ord. No. 11491. Labor-Management Relations in the Federal Service
 
-Ex. Ord. No. 11491, Oct. 29, 1969, 34 F.R. 17605, as amended by Ex. Ord. No. 11616, Aug. 26, 1971, 36 F.R. 17319; Ex. Ord. No. 11636, Dec. 17, 1971, 36 F.R. 24901; Ex.Ord. No. 11838, Feb. 6, 1975, 40 F.R. 5743; Ex. Ord. No. 11901, Jan. 30, 1976, 41 F.R. 4807; Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R. 61851; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
+Ex. Ord. No. 11491, Oct. 29, 1969, 34 F.R. 17605, as amended by Ex. Ord. No. 11616, Aug. 26, 1971, 36 F.R. 17319; Ex. Ord. No. 11636, Dec. 17, 1971, 36 F.R. 24901; Ex. Ord. No. 11838, Feb. 6, 1975, 40 F.R. 5743; Ex. Ord. No. 11901, Jan. 30, 1976, 41 F.R. 4807; Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R. 61851; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
 WHEREAS the public interest requires high standards of employee performance and the continual development and implementation of modern and progressive work practices to facilitate improved employee performance and efficiency; and
 
@@ -234,7 +234,7 @@ Sec. 8. \[Revoked by Ex. Ord. No. 11616, Aug. 26, 1971, 36 F.R. 17319.\]
 
 Sec. 9. <i>National consultation rights</i>. (a) An agency shall accord national consultation rights to a labor organization which qualifies under criteria established by the Federal Labor Relations Authority as the representative of a substantial number of employees of the agency. National consultation rights shall not be accorded for any unit where a labor organization already holds exclusive recognition at the national level for that unit. The granting of national consultation rights does not preclude an agency from appropriate dealings at the national level with other organizations on matters affecting their members. An agency shall terminate national consultation rights when the labor organization ceases to qualify under the established criteria.
 
-(b) When a labor organization has been accorded national consultation rights, the agency, through appropriate officials, shall notify representatives of the organization of proposed substantive changes in personnel policies that affect employees it represents and providean opportunity for the organization to comment on the proposed changes. The labor organization may suggest changes in the agency's personnel policies and have its views carefully considered. It may consult in person at reasonable times, on request, with appropriate officials on personnel policy matters, and at all times present its views thereon in writing. An agency is not required to consult with a labor organization on any matter on which it would not be required to meet and confer if the organization were entitled to exclusive recognition.
+(b) When a labor organization has been accorded national consultation rights, the agency, through appropriate officials, shall notify representatives of the organization of proposed substantive changes in personnel policies that affect employees it represents and provide an opportunity for the organization to comment on the proposed changes. The labor organization may suggest changes in the agency's personnel policies and have its views carefully considered. It may consult in person at reasonable times, on request, with appropriate officials on personnel policy matters, and at all times present its views thereon in writing. An agency is not required to consult with a labor organization on any matter onwhich it would not be required to meet and confer if the organization were entitled to exclusive recognition.
 
 (c) Questions as to the eligibility of labor organizations for national consultation rights may be referred to the Authority for decision.
 
@@ -294,7 +294,7 @@ Sec. 12. <i>Basic provisions of agreements</i>. Each agreement between an agency
 
 (1) to direct employees of the agency;
 
-(2) to hire, promote, transfer, assign, and retain employees in positions within the agency, and to suspend,demote, discharge, or take other disciplinary action against employees;
+(2) to hire, promote, transfer, assign, and retain employees in positions within the agency, and to suspend, demote, discharge, or take other disciplinary action against employees;
 
 (3) to relieve employees from duties because of lack of work or for other legitimate reasons;
 
@@ -410,7 +410,7 @@ Sec. 24. <i>Savings clauses</i>. (a) This Order does not preclude—
 
 (d) By not later than December 31, 1970, all supervisors shall be excluded from units of formal and exclusive recognition and from coverage by negotiated agreements, except as provided in paragraph (a) of this section.
 
-Sec. 25. <i>Guidance, training, review and information</i>. (a) The Office of Personnel Management, in conjunction with the Director of the Office of Management and Budget, shall establish and maintain a program for the policy guidance of agencies on labor-management relations in the Federal service and shall periodically review the implementation of these policies. The Office of Personnel Management shall be responsible for the day-to-day policy guidance under that program. The Office of Personnel Management also shall continuously review the operation of the Federal labor-management relations program to assist in assuring adherence to its provisions and merit system requirements; implement technical advice and information programs for the agencies; assist in the development of programs for training agency personnel and management officials in labor-management relations; and, from time to time, report to the Authority on the state of the program with any recommendations for its improvement.
+Sec. 25. <i>Guidance, training, review and information</i>. (a) The Office of Personnel Management, in conjunction with the Director of the Office of Management and Budget, shall establish and maintain a program for the policy guidance of agencies on labor-management relations in the Federal service and shall periodically review the implementation of these policies. The Office of Personnel Management shall be responsible for the day-to-day policy guidance under that program. TheOffice of Personnel Management also shall continuously review the operation of the Federal labor-management relations program to assist in assuring adherence to its provisions and merit system requirements; implement technical advice and information programs for the agencies; assist in the development of programs for training agency personnel and management officials in labor-management relations; and, from time to time, report to the Authority on the state of the program with any recommendations for its improvement.
 
 (b) The Office of Personnel Management shall develop programs for the collection and dissemination of information appropriate to the needs of agencies, organizations and the public.
 

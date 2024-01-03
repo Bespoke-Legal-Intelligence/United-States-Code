@@ -20,7 +20,7 @@ This section may be cited as the "Broadband Interagency Coordination Act of 2020
 
 &emsp;&emsp;(B) the term "high-cost programs" means—
 
-&emsp;&emsp;&emsp;(i) the program for Universal Service Support for High-Cost Areas set forth under subpart D of part 54 of title 47, Codeof Federal Regulations, or any successor thereto;
+&emsp;&emsp;&emsp;(i) the program for Universal Service Support for High-Cost Areas set forth under subpart D of part 54 of title 47, Code of Federal Regulations, or any successor thereto;
 
 &emsp;&emsp;&emsp;(ii) the Rural Digital Opportunity Fund set forth under subpart J of part 54 of title 47, Code of Federal Regulations, or any successor thereto;
 

@@ -8,7 +8,7 @@ The President shall seek to confer and negotiate with other countries—
 
 &emsp;&emsp;(A) better coordination of macroeconomic policies of the major industrialized nations; and
 
-&emsp;&emsp;(B) more appropriate and sustainable levels of trade and current account balances, and exchange rates of the dollar and other currencies consistent with such balances; and
+&emsp;&emsp;(B) more appropriate and sustainable levels of trade and current account balances,and exchange rates of the dollar and other currencies consistent with such balances; and
 
 &emsp;(2) to develop a program for improving existing mechanisms for coordination and improving the functioning of the exchange rate system to provide for long-term exchange rate stability consistent with more appropriate and sustainable current account balances.
 

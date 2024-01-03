@@ -32,7 +32,7 @@ The certification required by this subsection is a certification by the Secretar
 
 &emsp;&emsp;(A) the Letter of Offer and Acceptance PK–D–YAD signed between the Governments of the United States of America and Pakistan on September 30, 2006;
 
-&emsp;&emsp;(B) the Letter of Offer and Acceptance PK–D–NAP signed between the Governments of the United States of America and Pakistan on September 30, 2006; and
+&emsp;&emsp;(B) the Letter of Offer and Acceptance PK–D–NAP signed between the Governmentsof the United States of America and Pakistan on September 30, 2006; and
 
 &emsp;&emsp;(C) the Letter of Offer and Acceptance PK–D–SAF signed between the Governments of the United States of America and Pakistan on September 30, 2006.
 
@@ -48,7 +48,7 @@ The certification required by this subsection is a certification by the Secretar
 
 #### (2) Prior notice of waiver
 
-&emsp;The Secretary of State, under the direction of the President, may not exercise the authority of paragraph (1) until 7 days after the Secretary of State provides to the appropriate congressional committees a written notice of the intent to issue to waiver <sup>1</sup> and the reasonstherefor. The notice may be submitted in classified or unclassified form, as necessary.
+&emsp;The Secretary of State, under the direction of the President, may not exercise the authority of paragraph (1) until 7 days after the Secretary of State provides to the appropriate congressional committees a written notice of the intent to issue to waiver <sup>1</sup> and the reasons therefor. The notice may be submitted in classified or unclassified form, as necessary.
 
 #### (f) Appropriate congressional committees defined
 
@@ -67,6 +67,12 @@ In this section, the term "appropriate congressional committees" means—
 The Arms Export Control Act, referred to in subsec. (b), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Supplemental Appropriations Act, 2009, referred to in subsec. (d)(1), is Pub. L. 111–32, June 24, 2009, 123 Stat. 1859. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

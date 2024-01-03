@@ -28,5 +28,5 @@ For provisions transferring Foreign Claims Settlement Commission of the United S
 
 #### Transfer of Functions
 
-War Claims Commission, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of theUnited States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, section 4101 of this title and notes thereunder.
+War Claims Commission, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, section 4101 of this title and notes thereunder.
 

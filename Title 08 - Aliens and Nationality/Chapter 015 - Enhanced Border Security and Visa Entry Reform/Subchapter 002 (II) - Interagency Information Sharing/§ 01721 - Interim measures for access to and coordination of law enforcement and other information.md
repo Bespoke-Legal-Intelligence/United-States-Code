@@ -40,7 +40,7 @@ Until the plan required by subsection (c) is implemented, Federal law enforcemen
 
 #### (4) Criminal penalties for misuse of information
 
-&emsp;Any person who obtains information under this subsection without authorization or exceeding authorized access (as defined in section 1030(e) of title 18), and who uses such information in the manner described in any ofthe paragraphs (1) through (7) of section 1030(a) of such title, or attempts to use such information in such manner, shall be subject to the same penalties as are applicable under section 1030(c) of such title for violation of that paragraph.
+&emsp;Any person who obtains information under this subsection without authorization or exceeding authorized access (as defined in section 1030(e) of title 18), and who uses such information in the manner described in any of the paragraphs (1) through (7) of section 1030(a) of such title, or attempts to use such information in such manner, shall be subject to the same penalties as are applicable under section 1030(c) of such title for violation of that paragraph.
 
 (Pub. L. 107–173, title II, §201, May 14, 2002, 116 Stat. 547; Pub. L. 108–177, title III, §377(f), Dec. 13, 2003, 117 Stat. 2631.)
 

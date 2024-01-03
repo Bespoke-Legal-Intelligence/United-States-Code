@@ -32,7 +32,7 @@ The purposes of this section are—
 
 #### (c) Pinelands National Reserve and Federal Project Review Area; establishment; map, availability
 
-There is hereby established the Pinelands National Reserve which shall consist of the approximately 1,000,000-acre area generally depicted on the map entitled "Pinelands National Reserve Boundary Map" numbered NPS/80,011A and dated September 1978. Within the Pinelands National Reserve, there is hereby established the Federal Project Review Area, which shall consist of the approximately 486,000 acre area also depicted on the map. The map shall be onfile and available for public inspection in the offices of the Department of the Interior in Washington, and in the offices of the State of New Jersey planning entity established pursuant to subsection (d), and in locations throughout the Pinelands National Reserve as determined by the planning entity.
+There is hereby established the Pinelands National Reserve which shall consist of the approximately 1,000,000-acre area generally depicted on the map entitled "Pinelands National Reserve Boundary Map" numbered NPS/80,011A and dated September 1978. Within the Pinelands National Reserve, there is hereby established the Federal Project Review Area, which shall consist of the approximately 486,000 acre area also depicted on the map. The map shall be on file and available for public inspection in the offices of the Department of the Interior in Washington, and in the offices of the State of New Jersey planning entity established pursuant to subsection (d), and in locations throughout the Pinelands National Reserve as determined by the planning entity.
 
 #### (d) State planning entity for development of comprehensive management plan; membership; representation of interests; assistance and grants to State
 
@@ -72,11 +72,11 @@ The comprehensive management plan for the Pinelands National Reserve shall inclu
 
 &emsp;(3) A land use capability map and a comprehensive statement of policies for land use management of the area which:
 
-&emsp;&emsp;(A) consider and detail the application of a variety of land and water protection and management techniques, including but not limited to, zoning and regulation derived from State and local police powers, development and use standards and permit systems, acquisition of conservation easements and other interests in land, public access agreements with private landowners, purchase of land for resale or lease-back, fee acquisition of public recreation sites and ecologically sensitive areas and any other method of land and water protection and management which will help meet the goals and carry out the policies of the management plan;
+&emsp;&emsp;(A) consider and detail the application of a variety of land and water protection and management techniques, including but not limited to, zoning and regulation derived from State and local police powers, development and use standards and permit systems, acquisition of conservation easements and other interests in land, public access agreements with private landowners, purchase of land for resale or lease-back, fee acquisition of public recreation sites and ecologically sensitive areas and any other method of land and water protection and managementwhich will help meet the goals and carry out the policies of the management plan;
 
 &emsp;&emsp;(B) include a policy for the use of State and local police power responsibilities to the greatest extent practicable to regulate the use of land and water resources in a manner consistent with the purposes of this section; and
 
-&emsp;&emsp;(C) recognize existing economic activities within the area and provide for the protection and enhancement of such activities as farming, forestry, proprietary recreationalfacilities, and those indigenous industries and commercial and residential developments which are consistent with the findings and purposes of this section.
+&emsp;&emsp;(C) recognize existing economic activities within the area and provide for the protection and enhancement of such activities as farming, forestry, proprietary recreational facilities, and those indigenous industries and commercial and residential developments which are consistent with the findings and purposes of this section.
 
 &emsp;(4) A coordination and consistency component which details the ways in which local, State and Federal programs and policies may best be coordinated to promote the goals and policies of the management plan, and which details how land, water and structures managed by governmental or nongovernmental entities in the public interest within the area may be integrated into the management plan.
 
@@ -116,7 +116,7 @@ The comprehensive management plan for the Pinelands National Reserve shall inclu
 
 (3) If the Secretary disapproves the management plan or a revision thereof, he shall, within sixty days after the date of such disapproval, advise the planning entity in writing of the reasons therefor, together with his recommendations for revision. The State of New Jersey, through the planning entity shall, within one hundred and twenty days after receipt by the planning entity of notification of such disapproval, revise and resubmit the plan to the Secretary who shall approve or disapprove a proposed revision within sixty days after the date it is submitted to him. Should the Secretary fail to act on a proposed revision within sixty days, the revision shall be considered as approved.
 
-(4) The Secretary shall consider a plan revision in accordance with the procedure set forth in paragraph (2). Such revisions must be consistent with the purposes of this section.
+(4) The Secretary shall consider a plan revision in accordance with the procedure set forthin paragraph (2). Such revisions must be consistent with the purposes of this section.
 
 (5) In the event that the planning entity fails to obtain approval of the plan by the Secretary within thirty-six months after the date funds are first provided under subsection (d) for development of the plan, the Secretary shall terminate all Federal assistance for and participation in the development of such plan, and may obtain reimbursement or offset from the State of New Jersey of all Federal funds previously granted under this section.
 
@@ -194,9 +194,9 @@ Nothing in this section shall be construed to limit or prohibit any Federal acti
 
 The Clean Water Act, referred to in subsec. (f)(9), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (f)(9), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to theCode, see Short Title note set out under section 201 of Title 42 and Tables.
+The Safe Drinking Water Act, referred to in subsec. (f)(9), is title XIV of act July 1, 1944, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1660, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Outer Continental Shelf Lands Act, as amended, referred to in subsec. (k)(1), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, as amended, referred to in subsec. (k)(1), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 Enactment of this Act, referred to in subsec. (k)(2), probably means date of enactment of Pub. L. 100–486, which enacted subsec. (k)(2) of this section and which was approved Oct. 13, 1988.
 

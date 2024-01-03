@@ -6,7 +6,7 @@ Except as otherwise provided for in this title <sup>1</sup> (or an amendment ma
 
 #### (b) Continued application of laws
 
-Nothing in this title <sup>1</sup> (or an amendment made by this title) <sup>1</sup> shall be construed to invalidate or limit the rights, remedies, procedures, or legal standards available to individuals aggrieved under title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.), title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), section 794 of title 29, or the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], or to supersede State laws that provide additional protections against discrimination on any basis described in subsection (a).
+Nothing in this title <sup>1</sup> (or an amendment made by this title) <sup>1</sup> shall be construed to invalidate or limit the rights, remedies, procedures, or legal standards available to individuals aggrieved under title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.), title IX of the Education Amendments of 1972 (20 U.S.C.1681 et seq.), section 794 of title 29, or the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], or to supersede State laws that provide additional protections against discrimination on any basis described in subsection (a).
 
 #### (c) Regulations
 

@@ -26,7 +26,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 &emsp;&emsp;&emsp;(ii) an amount equal to 16/17 of the excess referred to in clause (i), multiplied by the international boycott factor determined under section 999, and
 
-&emsp;&emsp;&emsp;(iii) any illegal bribe, kickback, or other payment (within the meaning of section 162(c)) paid by or on behalf of the DISC directly or indirectly to an official, employee, or agent in fact of a government, and
+&emsp;&emsp;&emsp;(iii) any illegal bribe, kickback, or other payment (within the meaning of section162(c)) paid by or on behalf of the DISC directly or indirectly to an official, employee, or agent in fact of a government, and
 
 &emsp;&emsp;(G) the amount of foreign investment attributable to producer's loans (as defined in subsection (d)) of a DISC for the taxable year.
 
@@ -50,7 +50,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 #### (B) Military property
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "military property" means any propertywhich is an arm, ammunition, or implement of war designated in the munitions list published pursuant to section 38 of the Arms Export Control Act (22 U.S.C. 2778).
+&emsp;&emsp;For purposes of subparagraph (A), the term "military property" means any property which is an arm, ammunition, or implement of war designated in the munitions list published pursuant to section 38 of the Arms Export Control Act (22 U.S.C. 2778).
 
 #### (4) Aggregation of qualified export receipts
 

@@ -50,7 +50,7 @@ Establish conditions and criteria.—For each significant program area under the
 
 &emsp;(4)
 
-Preservation programs and activities not diminished.—Nothing in this chapter shallhave the effect of diminishing the preservation programs and activities of the Service.
+Preservation programs and activities not diminished.—Nothing in this chapter shall have the effect of diminishing the preservation programs and activities of the Service.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3196.)
 

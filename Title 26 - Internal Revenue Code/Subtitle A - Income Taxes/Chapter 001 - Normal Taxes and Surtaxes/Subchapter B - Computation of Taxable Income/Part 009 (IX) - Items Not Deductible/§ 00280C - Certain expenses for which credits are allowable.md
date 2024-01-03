@@ -94,7 +94,7 @@ No deduction shall be allowed for that portion of the wages or salaries paid or 
 
 #### (d) Credit for low sulfur diesel fuel production
 
-The deductions otherwise allowed under this chapter for the taxable year shall be reduced bythe amount of the credit determined for the taxable year under section 45H(a).
+The deductions otherwise allowed under this chapter for the taxable year shall be reduced by the amount of the credit determined for the taxable year under section 45H(a).
 
 #### (e) Mine rescue team training credit
 
@@ -172,7 +172,7 @@ Pub. L. 109–135, §103(b)(2), substituted "1396(a), and 1400P(b)" for "and 139
 
 <b>1999</b>—Subsec. (c)(1). Pub. L. 106–170 inserted "or credit" after "deduction" in two places.
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–188, §1205(d)(7), substituted "section 45C(b)" for "section 28(b)", "section45C" for "section 28", and "section 38(c)" for "subsection (d)(2) thereof".
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–188, §1205(d)(7), substituted "section 45C(b)" for "section 28(b)", "section 45C" for "section 28", and "section 38(c)" for "subsection (d)(2) thereof".
 
 Subsec. (b)(2)(A). Pub. L. 104–188, §1205(d)(7)(B), (C), substituted "section 45C" for "section 28" and "section 38(c)" for "subsection (d)(2) thereof".
 
@@ -190,7 +190,7 @@ Subsec. (c)(4). Pub. L. 101–239, §7814(e)(2)(A), redesignated par. (3) as (4)
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–647 added subsec. (c).
 
-<b>1986</b>—Subsec. (b)(1), (2)(A). Pub. L. 99–514, §1847(b)(8), substituted "section 28(b)" for "section 29(b)" in par. (1) and "section 28" for "section 29" in pars. (1) and (2)(A).
+<b>1986</b>—Subsec. (b)(1), (2)(A). Pub. L. 99–514, §1847(b)(8), substituted "section 28(b)" for "section 29(b)" in par.\(1) and "section 28" for "section 29" in pars. (1) and (2)(A).
 
 Subsec. (b)(3). Pub. L. 99–514, §231(d)(3)(E), substituted "section 41(f)(5)", "section 41(f)(1)(B)", and "section 41(f)(1)" for "section 30(f)(5)", "section 30(f)(1)(B)", and "section 30(f)(1)", respectively.
 

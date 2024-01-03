@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(ii) participate in the arrangement and carrying out of coordination agreements described in section 1396a(a)(11) of this title (relating to coordination of care and services available under this subchapter and subchapter XIX),
 
-&emsp;&emsp;&emsp;(iii) participate in the coordination of activities within the State with programs carried out under this subchapter and related Federal grant programs (including supplemental food programs for mothers,infants, and children, related education programs, and other health, developmental disability, and family planning programs), and
+&emsp;&emsp;&emsp;(iii) participate in the coordination of activities within the State with programs carried out under this subchapter and related Federal grant programs (including supplemental food programs for mothers, infants, and children, related education programs, and other health, developmental disability, and family planning programs), and
 
 &emsp;&emsp;&emsp;(iv) provide, directly and through their providers and institutional contractors, for services to identify pregnant women and infants who are eligible for medical assistance under subparagraph (A) or (B) of section 1396a(l)(1) of this title and, once identified, to assist them in applying for such assistance.
 
@@ -128,7 +128,7 @@ Subsec. (2)(D). Pub. L. 97–248, §137(b)(4), substituted "any charges are impo
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 6501(b) of Pub. L. 101–239 applicable to appropriations for fiscal years beginning with fiscal year 1990, and amendment by section 6503(b) of Pub. L. 101–239 applicable to payments for allotments for fiscal years beginning with fiscal year 1991, see section 6510(a), (b)(1) of Pub. L. 101–239, set out as a note under section 701 of this title.
+Amendment by section 6501(b) of Pub. L. 101–239 applicable to appropriations for fiscal years beginning with fiscal year 1990, and amendment by section 6503(b) of Pub. L. 101–239 applicable to payments for allotmentsfor fiscal years beginning with fiscal year 1991, see section 6510(a), (b)(1) of Pub. L. 101–239, set out as a note under section 701 of this title.
 
 #### Effective Date of 1982 Amendment
 

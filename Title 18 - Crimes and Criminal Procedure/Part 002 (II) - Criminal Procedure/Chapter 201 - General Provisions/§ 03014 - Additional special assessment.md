@@ -78,9 +78,9 @@ Grants.—Of the amounts in the Fund used under paragraph (1), not less than $2,
 
 &emsp;(4)
 
-Application of provision.—The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, section 3831 of the CARES Act, section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act,,<sup>3</sup> section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, and section 301(d) of division BB of the Consolidated Appropriations Act, 2021.<sup>3</sup> shall continue to apply to the amounts transferred pursuant to paragraph (1).
+Application of provision.—The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, section 3831 of the CARES Act, section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act, section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, section 301(d) of division BB of the Consolidated Appropriations Act, 2021, section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act, and section 201(d) of the Further Continuing Appropriations and Other Extensions Act, 2024 shall continue to apply to the amounts transferred pursuant to paragraph (1).
 
-(Added and amended Pub. L. 114–22, title I, §101(a), title IX, §905, May 29, 2015, 129 Stat. 228, 266; Pub. L. 115–96, div. C, title I, §3101(e), Dec. 22, 2017, 131 Stat. 2049; Pub. L. 115–123, div. E, title IX, §50901(f), Feb. 9, 2018, 132 Stat. 289; Pub. L. 115–392, §2(b), Dec. 21, 2018, 132 Stat. 5250; Pub. L. 116–59, div. B, title I, §1101(e), Sept. 27, 2019, 133 Stat. 1103; Pub. L. 116–69, div. B, title I, §1101(e), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, §401(e), Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3831(e), Mar. 27, 2020, 134 Stat. 434; Pub. L. 116–159, div. C, title I, §2101(e), Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1201(e), Dec. 11, 2020, 134 Stat. 1044; Pub. L. 116–260, div. BB, title III, §301(e), Dec. 27, 2020, 134 Stat. 2922; Pub. L. 117–43, div. D, title I, §3103, Sept. 30, 2021, 135 Stat. 380; Pub. L. 117–70, div. C, title I, §2102, Dec. 3, 2021, 135 Stat. 1504; Pub. L. 117–86, div. B, title I, §1102, Feb. 18, 2022, 136 Stat. 17; Pub. L. 117–103, div. O, title IV, §401, Mar. 15, 2022, 136 Stat. 788; Pub. L. 117–177, §1, Sept. 16, 2022, 136 Stat. 2109; Pub. L. 117–180, div. C, title I, §102, Sept. 30, 2022, 136 Stat. 2133; Pub. L. 117–229, div. B, title I, §102, Dec. 16, 2022, 136 Stat. 2309; Pub. L. 117–328, div. X, §101, Dec. 29, 2022, 136 Stat. 5523; Pub. L. 117–347, title I, §105(c), Jan. 5, 2023, 136 Stat. 6204.)
+(Added and amended Pub. L. 114–22, title I, §101(a), title IX, §905, May 29, 2015, 129 Stat. 228, 266; Pub. L. 115–96, div. C, title I, §3101(e), Dec. 22, 2017, 131 Stat. 2049; Pub. L. 115–123, div. E, title IX, §50901(f), Feb. 9, 2018, 132 Stat. 289; Pub. L. 115–392, §2(b), Dec. 21, 2018, 132 Stat. 5250; Pub. L. 116–59, div. B, title I, §1101(e), Sept. 27, 2019, 133 Stat. 1103; Pub. L. 116–69, div. B, title I, §1101(e), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, §401(e), Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3831(e), Mar. 27, 2020, 134 Stat. 434; Pub. L. 116–159, div. C, title I, §2101(e), Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1201(e), Dec. 11, 2020, 134 Stat. 1044; Pub. L. 116–260, div. BB, title III, §301(e), Dec. 27, 2020, 134 Stat. 2922; Pub. L. 117–43, div. D, title I, §3103, Sept. 30, 2021, 135 Stat. 380; Pub. L. 117–70, div. C, title I, §2102, Dec. 3, 2021, 135 Stat. 1504; Pub. L. 117–86, div. B, title I, §1102, Feb. 18, 2022, 136 Stat. 17; Pub. L. 117–103, div. O, title IV, §401, Mar. 15, 2022, 136 Stat. 788; Pub. L. 117–177, §1, Sept. 16, 2022, 136 Stat. 2109; Pub. L. 117–180, div. C, title I, §102, Sept. 30, 2022, 136 Stat. 2133; Pub. L. 117–229, div. B, title I, §102, Dec. 16, 2022, 136 Stat. 2309; Pub. L. 117–328, div. X, §101, Dec. 29, 2022, 136 Stat. 5523; Pub. L. 117–347, title I, §105(c), Jan. 5, 2023, 136 Stat. 6204; Pub. L. 118–15, div. B, title III, §2321(e), Sept. 30, 2023, 137 Stat. 95; Pub. L. 118–22, div. B, title II, §201(e), Nov. 17, 2023, 137 Stat. 120.)
 
 #### <b>Editorial Notes</b>
 
@@ -90,9 +90,9 @@ The date of enactment of the Justice for Victims of Trafficking Act of 2015, ref
 
 Sections 202, 203, and 204 of the Trafficking Victims Protection Reauthorization Act of 2005, referred to in subsec. (h)(2)(A), are sections 202, 203, and 204 of Pub. L. 109–164, which were classified to sections 14044a, 14044b, and 14044c, respectively, of Title 42, The Public Health and Welfare, prior to editorial reclassification as sections 20702, 20703, and 20705, respectively, of Title 34, Crime Control and Law Enforcement.
 
-Section 214(b) of the Victims of Child Abuse Act of 1990, referred to in subsec. (h)(2)(C), (3), is section 214(b) of title II of Pub. L. 101–647, which was classified to section 13002(b) of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 20304(b) of Title 34, Crime Control and Law Enforcement.
+Section 214(b) of the Victims of Child Abuse Act of 1990, referred to in subsec. (h)(2)(C), (3), is section 214(b)of title II of Pub. L. 101–647, which was classified to section 13002(b) of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 20304(b) of Title 34, Crime Control and Law Enforcement.
 
-Section 221 of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (h)(4), issection 221 of Pub. L. 114–10, title II, Apr. 16, 2015, 129 Stat. 154. Section 221(c) of the Act provided for a condition on certain appropriations and is not classified to the Code.
+Section 221 of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (h)(4), is section 221 of Pub. L. 114–10, title II, Apr. 16, 2015, 129 Stat. 154. Section 221(c) of the Act provided for a condition on certain appropriations and is not classified to the Code.
 
 Section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, referred to in subsec. (h)(4), is section 50901(e) of Pub. L. 115–123, div. E, title IX, Feb. 9, 2018, 132 Stat. 289. Section 50901(e) of the Act related to application of amounts appropriated pursuant to that section and is not classified to the Code.
 
@@ -103,6 +103,10 @@ Section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act
 Section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, referred to in subsec. (h)(4), is section 1201(d) of Pub. L. 116–215, div. B, title II, Dec. 11, 2020, 134 Stat. 1044, which related to application of amounts appropriated pursuant to the amendments made by that section and is not classified to the Code.
 
 Section 301(d) of division BB of the Consolidated Appropriations Act, 2021, referred to in subsec. (h)(4), is section 301(d) of Pub. L. 116–260, div. BB, title III, Dec. 27, 2020, 134 Stat. 2922, which related to application of amounts appropriated pursuant to the amendments made by that section and is not classified to the Code.
+
+Section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act, referred to in subsec. (h)(4), is section 2321(d) of Pub. L. 118–15, div. B, title III, Sept. 30, 2023, 137 Stat. 95, which related to application of amounts appropriated pursuant to the amendments made by that section and is not classified to the Code.
+
+Section 201(d) of the Further Continuing Appropriations and Other Extensions Act, 2024, referred to in subsec. (h)(4), is section 201(d) of Pub. L. 118–22, div. B, title II, Nov. 17, 2023, 137 Stat. 120, which related to application of amounts appropriated pursuant to the amendments made by that section and is not classified to the Code.
 
 #### Amendments
 
@@ -115,6 +119,10 @@ Subsec. (e)(1)(A). Pub. L. 117–347, §105(c)(2)(B), substituted "(34 U.S.C. 20
 Subsec. (e)(1)(C). Pub. L. 117–347, §105(c)(2)(C), substituted "(34 U.S.C. 20304)" for "(42 U.S.C. 13002(b))".
 
 Subsec. (e)(1)(D). Pub. L. 117–347, §105(c)(2)(D), substituted "(34 U.S.C. 21116)" for "(42 U.S.C. 17616)".
+
+Subsec. (h)(4). Pub. L. 118–22 substituted "section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act, and section 201(d) of the Further Continuing Appropriations and Other Extensions Act, 2024" for "and section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act".
+
+Pub. L. 118–15 substituted "Other Extensions Act, section 1201(d)" for "Other Extensions Act,, section 1201(d)" and "section 301(d) of division BB of the Consolidated Appropriations Act, 2021, and section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act" for "and section 301(d) of division BB of the Consolidated Appropriations Act, 2021."
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–328 substituted "December 23, 2024" for "December 23, 2022" in introductory provisions.
 
@@ -165,6 +173,4 @@ Subsec. (h)(4). Pub. L. 115–96, §3101(e)(2), inserted "and section 3101(d) of
 <i><sup>1</sup></i><i> So in original. Probably should be "(34 U.S.C. 20304(b));".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original.</i>
 

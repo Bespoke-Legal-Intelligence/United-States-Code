@@ -6,7 +6,7 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;(1) a statement for the then most recently concluded fiscal year specifying—
 
-&emsp;&emsp;(A) the amount of funds received by Head Start agencies designated under section 9836of this title to provide Head Start services in a period before such fiscal year; and
+&emsp;&emsp;(A) the amount of funds received by Head Start agencies designated under section 9836 of this title to provide Head Start services in a period before such fiscal year; and
 
 &emsp;&emsp;(B) the amount of funds received by Head Start agencies newly designated under section 9836 of this title to provide such services in such fiscal year;
 
@@ -70,7 +70,7 @@ At least once during every 5-year period, the Secretary shall prepare and submit
 
 &emsp;The Secretary shall track the provision of disability-related services for children, in order to—
 
-&emsp;&emsp;(A) determine whether Head Start agencies are making timely referrals to the State or local agency responsible for providing services under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.);
+&emsp;&emsp;(A) determine whether Head Start agencies are making timely referrals to the Stateor local agency responsible for providing services under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.);
 
 &emsp;&emsp;(B) identify barriers to timely evaluations and eligibility determinations by the State or local agency responsible for providing services under section 619 or part C of the Individuals with Disabilities Education Act; and
 
@@ -130,6 +130,10 @@ Subsec. (g). Pub. L. 101–501, §119, added subsec. (g).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education andthe Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
@@ -144,5 +148,5 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 4th item on page 79 identifies a reporting provision which, as subsequently amended, is contained in subsec. (a) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 4th item on page 79 identifies a reporting provision which, as subsequently amended, is contained in subsec. (a) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

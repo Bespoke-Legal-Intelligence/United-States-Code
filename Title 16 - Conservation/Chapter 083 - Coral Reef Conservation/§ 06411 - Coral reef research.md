@@ -8,7 +8,7 @@
 
 #### (2) Membership
 
-&emsp;Each institute designated under paragraph (1) shall be housed within a single coral reefresearch center designated by the Administrator under subsection (b).
+&emsp;Each institute designated under paragraph (1) shall be housed within a single coral reef research center designated by the Administrator under subsection (b).
 
 #### (3) Functions
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(B) has established management-driven national or regional coral reef research or restoration programs;
 
-&emsp;&emsp;(C) has demonstrated abilities to coordinate closely with appropriate Federal and State agencies, and other academic and nonprofit organizations; and
+&emsp;&emsp;(C) has demonstrated abilities to coordinate closely with appropriate Federal andState agencies, and other academic and nonprofit organizations; and
 
 &emsp;&emsp;(D) maintains significant local community engagement and outreach programs related to coral reef ecosystems.
 

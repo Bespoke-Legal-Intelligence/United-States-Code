@@ -200,7 +200,7 @@ Reemployment Without Loss of Annuity.—
 
 &emsp;(1)
 
-Establishment of policies and procedures.—The head of each executive agency, after consultation with the Administrator and the Director of the Office of Personnel Management, shall establish policies and procedures under which the agency head may reemploy in an acquisition-related position (as described in subsection (g)(1)(A)) an individual receiving an annuity from the Civil Service Retirement and Disability Fund, on the basis of the individual's service, without discontinuing the annuity. The head of each executive agency shall keep the Administrator informed of the agency's use of this authority.
+Establishment of policies and procedures.—The head of each executive agency, after consultation with the Administrator and the Director of the Office of Personnel Management, shall establish policies and procedures under which the agency head may reemploy in an acquisition-related position (as described in subsection (g)(1)(A)) an individual receiving an annuity from the Civil ServiceRetirement and Disability Fund, on the basis of the individual's service, without discontinuing the annuity. The head of each executive agency shall keep the Administrator informed of the agency's use of this authority.
 
 &emsp;(2)
 
@@ -346,7 +346,7 @@ Subsec. (l). Pub. L. 112–81, §864(c)(2), added subsec. (l).
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives byHouse Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2013 Amendment
 
@@ -526,7 +526,7 @@ Appropriate congressional committees and leadership.—The term 'appropriate con
 
 &emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Oversight and Reform and the Committee on Armed Services of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] and the Committee on Armed Services of the House of Representatives.
 
 &emsp;"(2)
 
@@ -550,7 +550,7 @@ Pub. L. 114–92, div. A, title VIII, §887, Nov. 25, 2015, 129 Stat. 949, provi
 
 #### Training for Contracting and Enforcement Personnel
 
-Pub. L. 111–240, title I, §1343(a), Sept. 27, 2010, 124 Stat. 2545, provided that: "Not later than 1 year afterthe date of enactment of this Act \[Sept. 27, 2010\], the Federal Acquisition Institute, in consultation with the Administrator for Federal Procurement Policy, the Defense Acquisition University, and the Administrator \[of the Small Business Administration\], shall develop courses for acquisition personnel concerning proper classification of business concerns and small business size and status for purposes of Federal contracts, subcontracts, grants, cooperative agreements, and cooperative research and development agreements."
+Pub. L. 111–240, title I, §1343(a), Sept. 27, 2010, 124 Stat. 2545, provided that: "Not later than 1 year after the date of enactment of this Act \[Sept. 27, 2010\], the Federal Acquisition Institute, in consultation with the Administrator for Federal Procurement Policy, the Defense Acquisition University, and the Administrator \[of the Small Business Administration\], shall develop courses for acquisition personnel concerning proper classification of business concerns and small business size and status for purposes of Federal contracts, subcontracts, grants, cooperative agreements, and cooperative research and development agreements."
 
 #### Defense Acquisition University Funding
 

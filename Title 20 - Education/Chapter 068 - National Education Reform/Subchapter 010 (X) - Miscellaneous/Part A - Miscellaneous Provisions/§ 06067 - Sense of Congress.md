@@ -16,7 +16,7 @@ It is the sense of the Congress that—
 
 #### Codification
 
-In par. (1), "chapter 83 of title 41" substituted for "sections 2 through 4 of the Act of March 3, 1993 (41U.S.C. 10a–10c, popularly known as the 'Buy American Act')" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In par. (1), "chapter 83 of title 41" substituted for "sections 2 through 4 of the Act of March 3, 1993 (41 U.S.C. 10a–10c, popularly known as the 'Buy American Act')" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Another section 1022 of Pub. L. 103–227 was classified to section 6055a of this title, prior to repeal by Pub. L. 107–279.
 

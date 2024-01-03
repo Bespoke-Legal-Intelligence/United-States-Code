@@ -66,7 +66,7 @@ The requirement established in subsection (a) regarding women and members of min
 
 &emsp;&emsp;(A)(i) In the case of a clinical trial, the guidelines shall provide that the costs of such inclusion in the trial is not a permissible consideration in determining whether such inclusion is inappropriate.
 
-&emsp;&emsp;(ii) In the case of other projects of clinical research, the guidelines shall provide that the costs of such inclusion in the project is not a permissible consideration in determining whether such inclusion is inappropriate unless the data regarding women ormembers of minority groups, respectively, that would be obtained in such project (in the event that such inclusion were required) have been or are being obtained through other means that provide data of comparable quality.
+&emsp;&emsp;(ii) In the case of other projects of clinical research, the guidelines shall provide that the costs of such inclusion in the project is not a permissible consideration in determining whether such inclusion is inappropriate unless the data regarding women or members of minority groups, respectively, that would be obtained in such project (in the event that such inclusion were required) have been or are being obtained through other means that provide data of comparable quality.
 
 &emsp;&emsp;(B) In the case of a clinical trial, the guidelines may provide that such inclusion in the trial is not required if there is substantial scientific data demonstrating that there is no significant difference between—
 

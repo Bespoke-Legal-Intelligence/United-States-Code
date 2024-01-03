@@ -22,7 +22,7 @@
 
 #### (b) State application and plan
 
-Beginning with fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan covering a period of not less than 1fiscal year and not more than 2 fiscal years. The plan shall be submitted not later than 30 days prior to the beginning of the first fiscal year covered by the plan, and shall contain such information as the Secretary shall require, including—
+Beginning with fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan covering a period of not less than 1 fiscal year and not more than 2 fiscal years. The plan shall be submitted not later than 30 days prior to the beginning of the first fiscal year covered by the plan, and shall contain such information as the Secretary shall require, including—
 
 &emsp;(1) an assurance that funds made available through the grant or allotment will be used—
 
@@ -74,7 +74,7 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 &emsp;(7) an assurance that the State will permit and cooperate with Federal investigations undertaken in accordance with section 9916 of this title;
 
-&emsp;(8) an assurance that any eligible entity in the State that received funding in the previous fiscal year through a community services block grant made under this chapter will not have its funding terminated under this chapter, or reduced below the proportional share of funding the entity received in the previous fiscal year unless, after providing notice and an opportunity for a hearing on the record, the State determines that cause exists for such termination or such reduction, subject to review by the Secretary as provided in section 9915(b) of this title;
+&emsp;(8) an assurance that any eligible entity in the State that received funding in the previous fiscal year through a community services block grant made under this chapter will not have its funding terminated under this chapter, or reduced below the proportionalshare of funding the entity received in the previous fiscal year unless, after providing notice and an opportunity for a hearing on the record, the State determines that cause exists for such termination or such reduction, subject to review by the Secretary as provided in section 9915(b) of this title;
 
 &emsp;(9) an assurance that the State and eligible entities in the State will, to the maximum extent possible, coordinate programs with and form partnerships with other organizations serving low-income residents of the communities and members of the groups served by the State, including religious organizations, charitable groups, and community organizations;
 
@@ -136,7 +136,7 @@ Title XXVI, referred to in subsec. (b)(6), is title XXVI of Pub. L. 97–35, Aug
 
 #### Prior Provisions
 
-A prior section 9908, Pub. L. 97–35, title VI, §679, Aug. 13, 1981, 95 Stat. 517; Pub. L. 98–558, title II, §205, Oct. 30, 1984, 98 Stat. 2886; Pub. L. 99–425, title IV, §404(a), Sept. 30, 1986, 100 Stat. 969, related to withholding of funds, prior to the general amendment of this chapter by Pub. L. 105–285.
+A prior section 9908, Pub. L. 97–35, title VI, §679, Aug. 13, 1981, 95 Stat. 517; Pub. L. 98–558, title II, §205, Oct. 30, 1984, 98 Stat. 2886; Pub. L. 99–425, title IV, §404(a), Sept. 30, 1986, 100 Stat. 969, related to withholding offunds, prior to the general amendment of this chapter by Pub. L. 105–285.
 
 A prior section 676 of Pub. L. 97–35 was classified to section 9905 of this title, prior to the general amendment of this chapter by Pub. L. 105–285.
 

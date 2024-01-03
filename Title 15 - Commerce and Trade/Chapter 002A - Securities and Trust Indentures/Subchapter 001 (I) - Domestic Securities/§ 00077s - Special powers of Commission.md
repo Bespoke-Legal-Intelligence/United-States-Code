@@ -72,7 +72,7 @@ For the purpose of evaluating any rule or program of the Commission issued or ca
 
 &emsp;(1) gather information from and communicate with investors or other members of the public;
 
-&emsp;(2) engage in such temporary investor testing programs as the Commission determines are in the public interest or would protect investors; and
+&emsp;(2) engage in such temporary investor testing programs as the Commission determinesare in the public interest or would protect investors; and
 
 &emsp;(3) consult with academics and consultants, as necessary to carry out this subsection.
 

@@ -18,7 +18,7 @@ If the property consists of stock or securities the acquisition of which (or the
 
 #### (e) Certain short sales of stock or securities and securities futures contracts to sell
 
-Rules similar to the rules of subsection (a) shall apply to any loss realized on the closing of a short sale of (or the sale, exchange, or termination of a securities futures contract to sell) stock or securities if, within a period beginning 30 days before the date of such closing and ending 30 days after such date—
+Rules similar to the rules of subsection (a) shall apply to any loss realized on the closing ofa short sale of (or the sale, exchange, or termination of a securities futures contract to sell) stock or securities if, within a period beginning 30 days before the date of such closing and ending 30 days after such date—
 
 &emsp;(1) substantially identical stock or securities were sold, or
 

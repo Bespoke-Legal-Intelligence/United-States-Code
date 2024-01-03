@@ -66,7 +66,7 @@ Through the Department of Homeland Security State, Local, and Regional Fusion Ce
 
 &emsp;&emsp;Any criteria developed under subparagraph (A) may include—
 
-&emsp;&emsp;&emsp;(i) whether the fusion center, through its mission and governance structure, focuses on a broad counterterrorism approach, and whether that broad approach is pervasive through all levels of the organization;
+&emsp;&emsp;&emsp;(i) whether the fusion center, through its mission and governance structure, focuseson a broad counterterrorism approach, and whether that broad approach is pervasive through all levels of the organization;
 
 &emsp;&emsp;&emsp;(ii) whether the fusion center has sufficient numbers of adequately trained personnel to support a broad counterterrorism mission;
 
@@ -266,5 +266,5 @@ Fusion Center Defined.—In this section, the term 'fusion center' has the meani
 
 #### Training for Predeployed Officers and Analysts
 
-Pub. L. 110–53, title V, §511(b), Aug. 3, 2007, 121 Stat. 323, provided that: "An officer or analyst assigned to afusion center by the Secretary of Homeland Security before the date of the enactment of this Act \[Aug. 3, 2007\] shall undergo the training described in section 210A(c)(4)(A) of the Homeland Security Act of 2002 \[6 U.S.C. 124h(c)(4)(A)\], as added by subsection (a), by not later than 6 months after such date."
+Pub. L. 110–53, title V, §511(b), Aug. 3, 2007, 121 Stat. 323, provided that: "An officer or analyst assigned to a fusion center by the Secretary of Homeland Security before the date of the enactment of this Act \[Aug. 3, 2007\] shall undergo the training described in section 210A(c)(4)(A) of the Homeland Security Act of 2002 \[6 U.S.C. 124h(c)(4)(A)\], as added by subsection (a), by not later than 6 months after such date."
 

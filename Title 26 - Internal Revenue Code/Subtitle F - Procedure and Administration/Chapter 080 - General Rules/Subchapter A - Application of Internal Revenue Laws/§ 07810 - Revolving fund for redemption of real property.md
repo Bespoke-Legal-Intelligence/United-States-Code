@@ -12,7 +12,7 @@ The fund shall be reimbursed from the proceeds of a subsequent sale of real prop
 
 The Secretary shall maintain an adequate system of accounts for such fund and prepare annual reports on the basis of such accounts.
 
-(Added Pub. L. 89–719, title I, §112(a), Nov. 2, 1966, 80 Stat. 1145; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §443, July 18, 1984, 98 Stat. 816.)
+(Added Pub. L. 89–719, title I, §112(a), Nov. 2, 1966, 80 Stat. 1145; amended Pub. L. 94–455, titleXIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §443, July 18, 1984, 98 Stat. 816.)
 
 #### <b>Editorial Notes</b>
 

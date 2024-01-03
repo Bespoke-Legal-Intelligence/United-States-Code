@@ -1,6 +1,6 @@
 ### §2286<i>l</i>. Authority of Inspector General
 
-Notwithstanding any other provision of law, in this fiscal year and each fiscal year thereafter,the Inspector General of the Nuclear Regulatory Commission is authorized to exercise the same authorities with respect to the Defense Nuclear Facilities Safety Board, as determined by the Inspector General of the Nuclear Regulatory Commission, as the Inspector General exercises under chapter 4 of title 5 with respect to the Nuclear Regulatory Commission.
+Notwithstanding any other provision of law, in this fiscal year and each fiscal year thereafter, the Inspector General of the Nuclear Regulatory Commission is authorized to exercise the same authorities with respect to the Defense Nuclear Facilities Safety Board, as determined by the Inspector General of the Nuclear Regulatory Commission, as the Inspector General exercises under chapter 4 of title 5 with respect to the Nuclear Regulatory Commission.
 
 (Pub. L. 113–235, div. D, title IV, Dec. 16, 2014, 128 Stat. 2330; Pub. L. 117–286, §4(b)(81), Dec. 27, 2022, 136 Stat. 4351.)
 

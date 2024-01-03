@@ -56,7 +56,7 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 &emsp;&emsp;(B) which is caused by an instrumentality of war.
 
-> &emsp;In the case of an individual who is not described in subparagraph (A) or (B) of paragraph (2), except as provided in paragraph (4), the only amounts taken into account under subsection (a)(4) shall be the amounts which he receives by reason of a combat-related injury.
+> &emsp;In the case of an individual who is not described in subparagraph (A) or (B) of paragraph (2), except as provided in paragraph (4), the only amounts taken into account under subsection (a)(4) shall be the amounts whichhe receives by reason of a combat-related injury.
 
 #### (4) Amount excluded to be not less than veterans' disability compensation
 
@@ -130,7 +130,7 @@ Secretary of Health, Education, and Welfare redesignated Secretary of Health and
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–134, title I, §113(c), Jan. 23, 2002, 115 Stat. 2435, provided that: "The amendments made by this section \[amending this section and section 692 of this title\] shall apply to taxable years ending on or after September 11, 2001."
+Pub. L. 107–134, title I, §113(c), Jan. 23, 2002, 115 Stat. 2435, provided that: "The amendments made by this section \[amending this section and section 692 of thistitle\] shall apply to taxable years ending on or after September 11, 2001."
 
 #### Effective Date of 1996 Amendment
 
@@ -144,7 +144,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Exception.—The amendments made by this section shall not apply to any amount received under awritten binding agreement, court decree, or mediation award in effect on (or issued on or before) September 13, 1995."
+Exception.—The amendments made by this section shall not apply to any amount received under a written binding agreement, court decree, or mediation award in effect on (or issued on or before) September 13, 1995."
 
 #### Effective Date of 1989 Amendment
 

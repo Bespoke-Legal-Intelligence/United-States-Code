@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 101–239, §7811(g)(3), substituted "purposes of limitatio
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–647, §1011A(b)(16), struck out "of capital gain provisions and" after "service for purposes" in heading and substituted "applying section 402(e)" for "applying subsections (a)(2) and (e) of section 402, and section 403(a)(2)" in text.
 
-Subsec. (e). Pub. L. 100–647, §1011A(b)(1)(C), redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: "Section 72(d) (relating to employees' annuities)."
+Subsec. (e). Pub. L. 100–647, §1011A(b)(1)(C), redesignated pars. (2) to (4) as (1) to (3), respectively, andstruck out former par. (1) which read as follows: "Section 72(d) (relating to employees' annuities)."
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1112(d)(3), struck out "(without regard to paragraph (1)(A) thereof)" after "section 410(b)" in introductory text.
 
@@ -166,7 +166,7 @@ Section applicable to taxable years ending after Dec. 31, 1963, see section 220(
 
 #### Regulations
 
-Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1112 and 1114 of Pub. L. 99–514,see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
+Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1112 and 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1998
 

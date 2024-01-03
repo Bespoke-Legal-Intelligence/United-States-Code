@@ -48,7 +48,7 @@ No charge.—Space allotted under subsection (b) may be provided without charge 
 
 &emsp;(3)
 
-Reimbursement for costs.—For space allotted under subsection (b), if there is an agreement for the payment of costs associated with providing space or services, neither title31, nor any other law, prohibits or restricts payment by reimbursement to the miscellaneous receipts or other appropriate account of the Treasury.
+Reimbursement for costs.—For space allotted under subsection (b), if there is an agreement for the payment of costs associated with providing space or services, neither title 31, nor any other law, prohibits or restricts payment by reimbursement to the miscellaneous receipts or other appropriate account of the Treasury.
 
 (d)
 

@@ -89,8 +89,8 @@
 | [353\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000353%20-%20Skill%20incentive%20pay%20or%20proficiency%20bonus.md) | Skill incentive pay or proficiency bonus. |
 | [354\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000354%20-%20Special%20pay%2015-year%20career%20status%20bonus%20for%20members%20entering%20service%20on%20or%20after%20August%201%2C%201986.md) | Special pay: 15-year career status bonus for members entering service on or after August 1, 1986. |
 | [355\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000355%20-%20Special%20pay%20retention%20incentives%20for%20members%20qualified%20in%20critical%20military%20skills%20or%20assigned%20to%20high%20priority%20units.md) | Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units. |
-| [356\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000356%20-%20Continuation%20pay%20full%20TSP%20members%20with%208%20to%2012%20years%20of%20service.md) | Continuation pay: full TSP members with 8 to 12 years of service. |
-| [357\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000357%20-%20Incentive%20pay%20authorities%20for%20members%20of%20the%20reserve%20components%20of%20the%20armed%20forces.md) | Incentive pay authorities for members of the reserve components of the armed forces. |
+| [356\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000356%20-%20Continuation%20pay%20full%20TSP%20members%20with%207%20to%2012%20years%20of%20service.md) | Continuation pay: full TSP members with 7 to 12 years of service. |
+| [357\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000357%20-%20Special%20and%20incentive%20pay%20authorities%20for%20members%20of%20the%20reserve%20components%20of%20the%20armed%20forces.md) | Special and incentive pay authorities for members of the reserve components of the armed forces. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -108,6 +108,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title VI, §§611(b), 612(b)(2), Dec. 22, 2023, 137 Stat. 290, 291, added items 356 and 357 and struck out former items 356 "Continuation pay: full TSP members with 8 to 12 years of service" and 357 "Incentive pay authorities for members of the reserve components of the armed forces".
 
 <b>2021</b>—Pub. L. 117–81, div. A, title VI, §602(b), Dec. 27, 2021, 135 Stat. 1765, added item 357.
 
@@ -131,7 +133,7 @@ Pub. L. 110–181, div. A, title VI, §661(d), Jan. 28, 2008, 122 Stat. 178, ame
 
 Pub. L. 109–163, div. A, title VI, §§629(d)(2), 631(c), 632(c)(2), 634(c)(2), 639(e)(2), 640(f)(2), 641(b), 642(c), 687(e)(2), Jan. 6, 2006, 119 Stat. 3297, 3299, 3300, 3302, 3303, 3305, 3306, 3336, added items 327 and 328, substituted "Special pay: general provisions" for "Special pay: health professionals; general provisions" in item 303a, "Special pay: bonus for affiliation or enlistment in the Selected Reserve" for "Special pay: bonus for enlistment in the Selected Reserve" in item 308c, "Special pay: members of the Selected Reserve assigned to certain high priority units" for "Special pay: enlisted members of the Selected Reserve assigned to certain high priority units" in item 308d, "Special pay: affiliation bonus for officers in the Selected Reserve" for "Special pay: bonus for certain initial service of officers in the Selected Reserve" in item 308j, "Special pay: bonus for members with foreign language proficiency" for "Special pay and bonus for members with foreign language proficiency" in item 316, and "Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units" for "Special pay: retention incentives for members qualified in a critical military skill" in item 323, and struck out item 308e "Special pay: bonus for reserve affiliation agreement" and item 312a "Special pay: nuclear-trained and qualified enlisted members".
 
-<b>2004</b>—Pub. L. 108–375, div. A, title VI, §§619(b), 620(a)(2), (b)(2), Oct. 28, 2004, 118 Stat. 1952, 1954, added item 308j, substituted "Special pay and bonus for members with foreign language proficiency" for "Special pay: foreign language proficiency pay" in item 316, and struck out item 316a "Waiver of certification requirement".
+<b>2004</b>—Pub. L. 108–375, div. A, title VI, §§619(b), 620(a)(2), (b)(2), Oct. 28, 2004, 118 Stat. 1952, 1954, addeditem 308j, substituted "Special pay and bonus for members with foreign language proficiency" for "Special pay: foreign language proficiency pay" in item 316, and struck out item 316a "Waiver of certification requirement".
 
 <b>2003</b>—Pub. L. 108–136, div. A, title VI, §§621(a)(2)(B), 624(b), 625(b), Nov. 24, 2003, 117 Stat. 1505–1507, added items 305b and 326 and substituted "qualified members" for "qualified enlisted members" in item 314.
 
@@ -163,7 +165,7 @@ Pub. L. 102–25, title VII, §702(a)(1), Apr. 6, 1991, 105 Stat. 117, substitut
 
 <b>1986</b>—Pub. L. 99–661, div. A, title VI, §634(a)(2), Nov. 14, 1986, 100 Stat. 3885, added item 316.
 
-<b>1985</b>—Pub. L. 99–145, title VI, §§639(e), 644(a)(2), Nov. 8, 1985, 99 Stat. 651, 653, substituted "dental officers of thearmed forces" for "dentists" in item 302b, added item 308i, and struck out item 311 "Special pay: continuation pay for dentists in the armed forces".
+<b>1985</b>—Pub. L. 99–145, title VI, §§639(e), 644(a)(2), Nov. 8, 1985, 99 Stat. 651, 653, substituted "dental officers of the armed forces" for "dentists" in item 302b, added item 308i, and struck out item 311 "Special pay: continuation pay for dentists in the armed forces".
 
 <b>1984</b>—Pub. L. 98–525, title VI, §623(b)(2), title XIV, §1402(b)(2), Oct. 19, 1984, 98 Stat. 2542, 2621, substituted "special duty assignment pay for enlisted members" for "proficiency pay for enlisted members" in item 307, and added item 306a.
 

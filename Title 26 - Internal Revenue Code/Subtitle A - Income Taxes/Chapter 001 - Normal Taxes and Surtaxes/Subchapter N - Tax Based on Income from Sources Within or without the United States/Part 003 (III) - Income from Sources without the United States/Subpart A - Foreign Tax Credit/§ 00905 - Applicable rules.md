@@ -74,7 +74,7 @@ Subsec. (c)(2)(B)(i). Pub. L. 115–97, §14301(c)(21), amended cl. (i) generall
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–603 inserted provision that the preceding sentence not apply, with respect to any period after the refund or adjustment in the foreign taxes, if the taxpayer fails to notify the Secretary, on or before the date prescribed by regulations for giving such notice, unless it is shown that such failure is due to reasonable cause and not due to willful neglect.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455, §§1901(a)(114), 1906(b)(13)(A), struck out provision allowing credits to be taken for tax on royalties paid, accrued and derived from sources within the United Kingdom of Britain and Northern Ireland and struck out "or his delegate" after "Secretary", in two places.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455, §§1901(a)(114), 1906(b)(13)(A), struck out provision allowing credits to be taken for tax on royalties paid, accrued and derivedfrom sources within the United Kingdom of Britain and Northern Ireland and struck out "or his delegate" after "Secretary", in two places.
 
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" in eight places.
 
@@ -96,7 +96,7 @@ Pub. L. 97–248, title III, §343(b), Sept. 3, 1982, 96 Stat. 635, provided tha
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–603 applicable with respect to employer contributions or accruals for taxable years beginning after Dec. 31, 1979, election to apply amendments retroactively with respect to foreign subsidiaries, allowance or prior deductions in case of certainfunded branch plans, and time and manner for making elections, see section 2(e) of Pub. L. 96–603, set out as an Effective Date note under section 404A of this title.
+Amendment by Pub. L. 96–603 applicable with respect to employer contributions or accruals for taxable years beginning after Dec. 31, 1979, election to apply amendments retroactively with respect to foreign subsidiaries, allowance or prior deductions in case of certain funded branch plans, and time and manner for making elections, see section 2(e) of Pub. L. 96–603, set out as an Effective Date note under section 404A of this title.
 
 #### Effective Date of 1976 Amendment
 

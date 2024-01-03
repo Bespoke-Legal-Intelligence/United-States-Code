@@ -10,7 +10,7 @@
 
 #### (B) Administrative search warrant
 
-&emsp;&emsp;In the absence of consent, the United States Government may seek an administrative search warrant from a judge of the United States under subsection (b). Proceedings regarding the issuance of an administrative search warrant shall be conductedex parte, unless otherwise requested by the United States Government.
+&emsp;&emsp;In the absence of consent, the United States Government may seek an administrative search warrant from a judge of the United States under subsection (b). Proceedings regarding the issuance of an administrative search warrant shall be conducted ex parte, unless otherwise requested by the United States Government.
 
 #### (2) Expedited access
 

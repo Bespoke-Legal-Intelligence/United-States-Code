@@ -6,7 +6,7 @@ Authority to Elect to Receive Reserve Retired Pay.—(1) Notwithstanding the req
 
 &emsp;(A) satisfies the requirements specified in paragraphs (1) and (2) of such section for entitlement to retired pay under this chapter;
 
-&emsp;(B) served in an active status in the Selected Reserve of the Ready Reserve after becoming eligible for retirement under chapter 65, 741, 841, or 941 of this title (without regard towhether the person actually retired or received retired or retainer pay under one of those chapters); and
+&emsp;(B) served in an active status in the Selected Reserve of the Ready Reserve after becoming eligible for retirement under chapter 65, 741, 841, or 941 of this title (without regard to whether the person actually retired or received retired or retainer pay under one of those chapters); and
 
 &emsp;(C) completed not less than two years of satisfactory service (as determined by the Secretary concerned) in such active status (excluding any period of active service).
 
@@ -64,7 +64,7 @@ Election of Reserve Retired Pay.—A person who, after becoming entitled to reti
 
 &emsp;"(3) the person's service in an active status after having become entitled to retired or retainer pay under that chapter is determined by the Secretary concerned to have been satisfactory."
 
-Subsec. (b)(1). Pub. L. 111–84, §643(b), added par. (1) and struck out former par. (1) which read as follows: "terminate the person's entitlement to retired or retainer pay under the applicable chapter of this title referred to in subsection (a); and".
+Subsec. (b)(1). Pub. L. 111–84, §643(b), added par. (1) and struck out former par. (1) which read as follows:"terminate the person's entitlement to retired or retainer pay under the applicable chapter of this title referred to in subsection (a); and".
 
 Subsec. (d)(1). Pub. L. 111–84, §643(c)(1), substituted "attains the eligibility age applicable to the person under section 12731(f) of this title" for "attains 60 years of age".
 

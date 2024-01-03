@@ -6,7 +6,7 @@
 
 &emsp;The purpose of this section is to clarify the Secretary's authority to—
 
-&emsp;&emsp;(A) efficiently update susceptibility test interpretive criteria for antimicrobial drugs when necessary for public health, due to,among other things, the constant evolution of microorganisms that leads to the development of resistance to drugs that have been effective in decreasing morbidity and mortality for patients, which warrants unique management of antimicrobial drugs that is inappropriate for most other drugs in order to delay or prevent the development of further resistance to existing therapies;
+&emsp;&emsp;(A) efficiently update susceptibility test interpretive criteria for antimicrobial drugs when necessary for public health, due to, among other things, the constant evolution of microorganisms that leads to the development of resistance to drugs that have been effective in decreasing morbidity and mortality for patients, which warrants unique management of antimicrobial drugs that is inappropriate for most other drugs in order to delay or prevent the development of further resistance to existing therapies;
 
 &emsp;&emsp;(B) provide for public notice of the availability of recognized interpretive criteria and interpretive criteria standards; and
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) recognizing the new or updated standards;
 
-&emsp;&emsp;&emsp;&emsp;(III) recognizing one or more parts of the new or updated interpretive criteria specified in such a standard and declining to recognize the remainder of such standard; and
+&emsp;&emsp;&emsp;&emsp;(III) recognizing one or more parts of the new or updated interpretive criteriaspecified in such a standard and declining to recognize the remainder of such standard; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) making any necessary updates to the lists under subsection (b)(2).
 
@@ -154,7 +154,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to an antimicrobial drug lawfully introduced or delivered for introduction into interstate commerce for commercial distribution before the establishment of the Interpretive Criteria Website, a holder of an approved application under section 355 ofthis title or section 262 of title 42, as applicable, for each such drug, not later than 1 year after establishment of the Interpretive Criteria Website described in subsection (b)(1), shall remove susceptibility test interpretive criteria, if any, and related information from the approved drug labeling and replace it with a reference to the Interpretive Criteria Website.
+&emsp;&emsp;With respect to an antimicrobial drug lawfully introduced or delivered for introduction into interstate commerce for commercial distribution before the establishment of the Interpretive Criteria Website, a holder of an approved application under section 355 of this title or section 262 of title 42, as applicable, for each such drug, not later than 1 year after establishment of the Interpretive Criteria Website described in subsection (b)(1), shall remove susceptibility test interpretive criteria, if any, and related information from the approved drug labeling and replace it with a reference to the Interpretive Criteria Website.
 
 #### (B) Labeling changes
 

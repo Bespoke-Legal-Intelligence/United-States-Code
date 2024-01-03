@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) in the case of a family meeting the requirements of subsection (b)(1), permit such family to submit only the data elements required under subsection (b)(2) for the purposes of establishing eligibility for student financial aid under this part; and
 
-&emsp;&emsp;(B) in the case of a family meeting the requirements of subsection (c), permit suchfamily to be treated as having an expected family contribution equal to zero for purposes of establishing such eligibility and to submit only the data elements required to make a determination under subsection (c).
+&emsp;&emsp;(B) in the case of a family meeting the requirements of subsection (c), permit such family to be treated as having an expected family contribution equal to zero for purposes of establishing such eligibility and to submit only the data elements required to make a determination under subsection (c).
 
 #### (b) Simplified needs test
 
@@ -196,7 +196,7 @@ In this section:
 
 #### <i>(D) Schedule D</i>
 
-&emsp;&emsp;<i>The term "Schedule D" means a form or information filed by a taxpayer to report sales, exchanges or some involuntary conversions of capital assets, certain capital gain distributions, and nonbusiness bad debts.</i>
+&emsp;&emsp;<i>The term "Schedule D" means a form or information filed by a taxpayer to report sales, ex</i><i>changes or some involuntary conversions of capital assets, certain capital gain distributions, and nonbusiness bad debts.</i>
 
 #### <i>(E) Schedule E</i>
 
@@ -268,7 +268,7 @@ Subsec. (c)(2)(A)(iii). Pub. L. 111–39, §406(a)(4)(B)(ii), amended cl. (iii) 
 
 <b>2007</b>—Subsec. (b)(1)(A)(i), (B)(i). Pub. L. 110–84, §602(a)(1), added subcl. (III), redesignated former subcl. (III) as (IV), and, in subcl. (IV), substituted "24-month" for "12-month".
 
-Subsec. (c). Pub. L. 110–84, §602(a)(2)(C), inserted at end of concluding provisions "The Secretary shall annually adjust the income level necessary to qualify an applicant for the zero expected family contribution.The income level shall be adjusted according to increases in the Consumer Price Index, as defined in section 1087rr(f) of this title."
+Subsec. (c). Pub. L. 110–84, §602(a)(2)(C), inserted at end of concluding provisions "The Secretary shall annually adjust the income level necessary to qualify an applicant for the zero expected family contribution. The income level shall be adjusted according to increases in the Consumer Price Index, as defined in section 1087rr(f) of this title."
 
 Subsec. (c)(1)(A). Pub. L. 110–84, §602(a)(2)(A)(i), added cl. (iii), redesignated former cl. (iii) as (iv), and, in cl. (iv), substituted "24-month" for "12-month".
 
@@ -280,7 +280,7 @@ Subsec. (c)(2)(B). Pub. L. 110–84, §602(a)(2)(B)(ii), substituted "$30,000" f
 
 Subsec. (d). Pub. L. 110–84, §602(a)(3), substituted "Definitions" for "Definition of means-tested Federal benefit program" in heading, added par. (1), designated existing provisions as par. (2) and substituted "The term" for "In this section, the term" in introductory provisions, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (2), and realigned margins.
 
-<b>2006</b>—Subsec. (b)(1)(A)(i). Pub. L. 109–171, §8018(a)(1)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: "the student's parents file or are eligible to file a form described in paragraph (3) or certify that they are not required to file an income tax return and the student files or is eligible to file such a form or certifies that the student is not required to file an income tax return; and".
+<b>2006</b>—Subsec. (b)(1)(A)(i). Pub. L. 109–171, §8018(a)(1)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: "the student's parents file or are eligible to file a form described in paragraph (3) orcertify that they are not required to file an income tax return and the student files or is eligible to file such a form or certifies that the student is not required to file an income tax return; and".
 
 Subsec. (b)(1)(B)(i). Pub. L. 109–171, §8018(a)(1)(A)(ii), added cl. (i) and struck out former cl. (i) which read as follows: "the student (and the student's spouse, if any) files or is eligible to file a form described in paragraph (3) or certifies that the student (and the student's spouse, if any) is not required to file an income tax return; and".
 
@@ -342,7 +342,7 @@ Subsec. (c). Pub. L. 100–50, §14(25), added subsec. (c).
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicablewith respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2014 Amendment
 

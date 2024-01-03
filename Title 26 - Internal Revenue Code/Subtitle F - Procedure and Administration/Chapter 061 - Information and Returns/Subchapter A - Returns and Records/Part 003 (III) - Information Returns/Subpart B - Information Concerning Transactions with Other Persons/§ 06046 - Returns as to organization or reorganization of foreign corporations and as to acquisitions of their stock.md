@@ -56,7 +56,7 @@ No information shall be required to be furnished under this section with respect
 
 <b>2007</b>—Subsec. (b). Pub. L. 110–172 substituted "subsection (a)(1)(A)" for "subsection (a)(1)" and "subparagraph (B) or (C) of subsection (a)(1)" for "paragraph (2) or (3) of subsection (a)".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–34 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "A return complying with the requirements of subsection (b) shall be made by—
+<b>1997</b>—Subsec. (a). Pub. L. 105–34 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: "A return complying with the requirements of subsection (b) shall be made by—
 
 &emsp;"(1) each United States citizen or resident who is on January 1, 1963, an officer or director of a foreign corporation, 5 percent or more in value of the stock of which is owned by a United States person (as defined in section 7701(a)(30)), or who becomes such an officer or director at any time after such date,
 

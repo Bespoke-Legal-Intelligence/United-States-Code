@@ -2,5 +2,5 @@
 
 Section, Pub. L. 89–329, title IV, §419B, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1343, defined terms used in this subpart.
 
-A prior section 1070d–32, Pub. L. 89–329, title IV, §419B, as added Pub. L. 98–558, title VIII, §801(a), Oct. 30, 1984, 98 Stat. 2900, defined terms used in this subpart, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070d–32, Pub. L. 89–329, title IV, §419B, as added Pub. L. 98–558, title VIII, §801(a), Oct.30, 1984, 98 Stat. 2900, defined terms used in this subpart, prior to the general revision of this part by Pub. L. 99–498.
 

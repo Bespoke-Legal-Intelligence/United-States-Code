@@ -4,7 +4,7 @@
 
 (b) Except as provided in sections 223 through 227 of this title, inclusive, section 276 of this title, and section 332 of this title, and subject to the provisions of section 301 of this title and subchapter V–A, nothing in this chapter shall be construed to apply or to give the Commission jurisdiction with respect to (1) charges, classifications, practices, services, facilities, or regulations for or in connection with intrastate communication service by wire or radio of any carrier, or (2) any carrier engaged in interstate or foreign communication solely through physical connection with the facilities of another carrier not directly or indirectly controlling or controlled by, or under direct or indirect common control with such carrier, or (3) any carrier engaged in interstate or foreign communication solely through connection by radio, or by wire and radio, with facilities, located in an adjoining State or in Canada or Mexico (where they adjoin the State in which the carrier is doing business), of another carrier not directly or indirectly controlling or controlled by, or under direct or indirect common control with such carrier, or (4) any carrier to which clause (2) or clause (3) of this subsection would be applicable except for furnishing interstate mobile radio communication service or radio communication service to mobile stations on land vehicles in Canada or Mexico; except that sections 201 to 205 of this title shall, except as otherwise provided therein, apply to carriers described in clauses (2), (3), and (4) of this subsection.
 
-(June 19, 1934, ch. 652, title I, §2, 48 Stat. 1064; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60Stat. 1352; Apr. 27, 1954, ch. 175, §1, 68 Stat. 63; Pub. L. 95–234, §5, Feb. 21, 1978, 92 Stat. 35; Pub. L. 98–549, §3(a), Oct. 30, 1984, 98 Stat. 2801; Pub. L. 101–166, title V, §521(2), Nov. 21, 1989, 103 Stat. 1193; Pub. L. 101–336, title IV, §401(b)(1), July 26, 1990, 104 Stat. 369; Pub. L. 102–243, §3(b), Dec. 20, 1991, 105 Stat. 2401; Pub. L. 103–66, title VI, §6002(b)(2)(B)(i), Aug. 10, 1993, 107 Stat. 396; Pub. L. 117–338, §2(c), Jan. 5, 2023, 136 Stat. 6156.)
+(June 19, 1934, ch. 652, title I, §2, 48 Stat. 1064; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Apr. 27, 1954, ch. 175, §1, 68 Stat. 63; Pub. L. 95–234, §5, Feb. 21, 1978, 92 Stat. 35; Pub. L. 98–549, §3(a), Oct. 30, 1984, 98 Stat. 2801; Pub. L. 101–166, title V, §521(2), Nov. 21, 1989, 103 Stat. 1193; Pub. L. 101–336, title IV, §401(b)(1), July 26, 1990, 104 Stat. 369; Pub. L. 102–243, §3(b), Dec. 20, 1991, 105 Stat. 2401; Pub. L. 103–66, title VI, §6002(b)(2)(B)(i), Aug. 10, 1993, 107 Stat. 396; Pub. L. 117–338, §2(c), Jan. 5, 2023, 136 Stat. 6156.)
 
 #### <b>Editorial Notes</b>
 
@@ -82,7 +82,7 @@ Applicability of Amendments to Future Conduct.—
 
 &emsp;"(1)
 
-AT\&T consent decree.—Any conduct or activity that was, before the date of enactment of this Act \[Feb. 8, 1996\], subject to any restriction or obligation imposed by the AT\&T Consent Decree shall, on and after such date, be subject to the restrictions and obligations imposed by the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] as amended by this Act and shall not be subject to the restrictions and the obligations imposed by such Consent Decree.
+AT\&T consent decree.—Any conduct or activity that was, before the date of enactment of this Act \[Feb. 8, 1996\], subject to any restriction or obligationimposed by the AT\&T Consent Decree shall, on and after such date, be subject to the restrictions and obligations imposed by the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] as amended by this Act and shall not be subject to the restrictions and the obligations imposed by such Consent Decree.
 
 &emsp;"(2)
 
@@ -90,7 +90,7 @@ GTE consent decree.—Any conduct or activity that was, before the date of enact
 
 &emsp;"(3)
 
-McCaw consent decree.—Any conduct or activity that was, before the date of enactment of thisAct, subject to any restriction or obligation imposed by the McCaw Consent Decree shall, on and after such date, be subject to the restrictions and obligations imposed by the Communications Act of 1934 as amended by this Act and subsection (d) of this section and shall not be subject to the restrictions and the obligations imposed by such Consent Decree.
+McCaw consent decree.—Any conduct or activity that was, before the date of enactment of this Act, subject to any restriction or obligation imposed by the McCaw Consent Decree shall, on and after such date, be subject to the restrictions and obligations imposed by the Communications Act of 1934 as amended by this Act and subsection (d) of this section and shall not be subject to the restrictions and the obligations imposed by such Consent Decree.
 
 "(b)
 

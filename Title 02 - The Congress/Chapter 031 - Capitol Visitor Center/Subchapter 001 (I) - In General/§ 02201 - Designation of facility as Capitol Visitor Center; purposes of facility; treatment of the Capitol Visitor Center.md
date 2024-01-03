@@ -34,7 +34,7 @@ The Capitol Visitor Center shall be used—
 
 #### (1) In general
 
-&emsp;The Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives shall jointly prescribe regulations for the assignment of the space in the Capitol Visitor Center known as the Congressional Auditorium and the related adjacent areas.
+&emsp;The Committee on Rules and Administration of the Senate and the Committee onHouse Administration of the House of Representatives shall jointly prescribe regulations for the assignment of the space in the Capitol Visitor Center known as the Congressional Auditorium and the related adjacent areas.
 
 #### (2) Related adjacent areas
 

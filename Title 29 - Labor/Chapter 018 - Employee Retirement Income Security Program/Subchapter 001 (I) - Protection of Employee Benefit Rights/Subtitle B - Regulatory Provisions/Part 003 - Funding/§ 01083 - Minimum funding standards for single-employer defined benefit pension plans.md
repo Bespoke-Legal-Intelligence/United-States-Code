@@ -2,7 +2,7 @@
 
 #### (a) Minimum required contribution
 
-For purposes of this section and section 1082(a)(2)(A) of this title, except as provided insubsection (f), the term "minimum required contribution" means, with respect to any plan year of a single-employer plan—
+For purposes of this section and section 1082(a)(2)(A) of this title, except as provided in subsection (f), the term "minimum required contribution" means, with respect to any plan year of a single-employer plan—
 
 &emsp;(1) in any case in which the value of plan assets of the plan (as reduced under subsection (f)(4)(B)) is less than the funding target of the plan for the plan year, the sum of—
 
@@ -72,7 +72,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of the first 2 plan years in the 9-plan-year period beginning with the election year, interest on the shortfall amortization base of the plan for the election year (determined using the effective interest rate for the plan for the election year), and
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of the last 7 plan years in such 9-plan-year period, the amounts necessary to amortize the remaining balance of the shortfall amortization base of the plan for the election year in level annual installments over such last 7 plan years (using the segment rates under subparagraph (C) for the election year).
+&emsp;&emsp;&emsp;&emsp;(II) in the case of the last 7 plan years in such 9-plan-year period, the amounts necessary to amortize the remaining balance of the shortfall amortization base of the plan for the election year in level annual installments over such last 7 planyears (using the segment rates under subparagraph (C) for the election year).
 
 #### (iii) 15-year amortization
 
@@ -144,7 +144,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) such increase shall not result in the amount of such installment exceeding the present value of such installment and all succeeding installments with respect to such base (determined without regard to such increase but after application of clause (ii)), and
 
-&emsp;&emsp;&emsp;(ii) subsequent shortfall amortization installments with respect to such base shall, in reverse order of the otherwise required installments, be reduced to the extent necessary to limit the present value of suchsubsequent shortfall amortization installments (after application of this paragraph) to the present value of the remaining unamortized shortfall amortization base.
+&emsp;&emsp;&emsp;(ii) subsequent shortfall amortization installments with respect to such base shall, in reverse order of the otherwise required installments, be reduced to the extent necessary to limit the present value of such subsequent shortfall amortization installments (after application of this paragraph) to the present value of the remaining unamortized shortfall amortization base.
 
 #### (C) Installment acceleration amount
 
@@ -208,7 +208,7 @@ For purposes of this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;There shall not be taken into account under clause (i)(I) any amount includible in income with respect to the granting after February 28, 2010, of service recipient stock (within the meaning of section 409A of title 26) that, upon such grant, issubject to a substantial risk of forfeiture (as defined under section 83(c)(1) of such title) for at least 5 years from the date of such grant.
+&emsp;&emsp;&emsp;&emsp;There shall not be taken into account under clause (i)(I) any amount includible in income with respect to the granting after February 28, 2010, of service recipient stock (within the meaning of section 409A of title 26) that, upon such grant, is subject to a substantial risk of forfeiture (as defined under section 83(c)(1) of such title) for at least 5 years from the date of such grant.
 
 #### (II) Secretarial authority
 
@@ -284,7 +284,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;The term "restriction period" means, with respect to any election year—
 
-&emsp;&emsp;&emsp;&emsp;(I) except as provided in subclause (II), the 3-year period beginning with the election year (or, if later, the first planyear beginning after December 31, 2009), and
+&emsp;&emsp;&emsp;&emsp;(I) except as provided in subclause (II), the 3-year period beginning with the election year (or, if later, the first plan year beginning after December 31, 2009), and
 
 &emsp;&emsp;&emsp;&emsp;(II) if the plan sponsor elects 15-year amortization for the shortfall amortization base for the election year, the 5-year period beginning with the election year (or, if later, the first plan year beginning after December 31, 2009).
 
@@ -370,7 +370,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) was in effect for a plan year beginning in 2007, and
 
-&emsp;&emsp;&emsp;&emsp;(II) had a positive balance in the funding standard account under section1082(b) of this title as in effect for such plan year and determined as of the end of such plan year.
+&emsp;&emsp;&emsp;&emsp;(II) had a positive balance in the funding standard account under section 1082(b) of this title as in effect for such plan year and determined as of the end of such plan year.
 
 #### (2) Application of balances
 
@@ -508,7 +508,7 @@ For purposes of this section—
 
 #### (8) Adjustments for investment experience
 
-&emsp;In determining the prefunding balance or the funding standard carryover balance of a plan as of the first day of the plan year, the plan sponsor shall, in accordance with regulations prescribed by the Secretary of the Treasury, adjust such balance to reflect the rate of return on plan assets for the preceding plan year. Notwithstanding subsection (g)(3), such rate of return shall be determined on the basis of fair market value and shall properly take into account, in accordance with such regulations, all contributions, distributions, and other plan payments made during such period.
+&emsp;In determining the prefunding balance or the funding standard carryover balance of aplan as of the first day of the plan year, the plan sponsor shall, in accordance with regulations prescribed by the Secretary of the Treasury, adjust such balance to reflect the rate of return on plan assets for the preceding plan year. Notwithstanding subsection (g)(3), such rate of return shall be determined on the basis of fair market value and shall properly take into account, in accordance with such regulations, all contributions, distributions, and other plan payments made during such period.
 
 #### (9) Elections
 
@@ -604,7 +604,7 @@ For purposes of this section—
 
 #### (B) Interest rates for determining funding target
 
-&emsp;&emsp;For purposes of determining the funding target and normal cost of a plan for any planyear, the interest rate used in determining the present value of the benefits of the plan shall be—
+&emsp;&emsp;For purposes of determining the funding target and normal cost of a plan for any plan year, the interest rate used in determining the present value of the benefits of the plan shall be—
 
 &emsp;&emsp;&emsp;(i) in the case of benefits reasonably determined to be payable during the 5-year period beginning on the valuation date for the plan year, the first segment rate with respect to the applicable month,
 
@@ -662,7 +662,7 @@ For purposes of this section—
 
 #### (E) Applicable month
 
-&emsp;&emsp;For purposes of this paragraph, the term "applicable month" means, with respect toany plan for any plan year, the month which includes the valuation date of such plan for such plan year or, at the election of the plan sponsor, any of the 4 months which precede such month. Any election made under this subparagraph shall apply to the plan year for which the election is made and all succeeding plan years, unless the election is revoked with the consent of the Secretary of the Treasury.
+&emsp;&emsp;For purposes of this paragraph, the term "applicable month" means, with respect to any plan for any plan year, the month which includes the valuation date of such plan for such plan year or, at the election of the plan sponsor, any of the 4 months which precede such month. Any election made under this subparagraph shall apply to the plan year for which the election is made and all succeeding plan years, unless the election is revoked with the consent of the Secretary of the Treasury.
 
 #### (F) Publication requirements
 
@@ -716,7 +716,7 @@ For purposes of this section—
 
 #### (II) Disposition
 
-&emsp;&emsp;&emsp;&emsp;Any mortality table submitted to the Secretary of the Treasury for approval under this subparagraph shall be treated as in effect as of the 1st day of the period described in clause (i) unless the Secretary of the Treasury, during the 180-day period beginning on the date of such submission, disapproves of such table and provides the reasons that such table fails to meet the requirements of clause (iii). The 180-day period shall be extended upon mutual agreement of the Secretary of the Treasury and the plan sponsor.
+&emsp;&emsp;&emsp;&emsp;Any mortality table submitted to the Secretary of the Treasury for approval under this subparagraph shall be treated as in effect as of the 1st day of the period described in clause (i) unless the Secretary of the Treasury, during the 180-day period beginning on the date of suchsubmission, disapproves of such table and provides the reasons that such table fails to meet the requirements of clause (iii). The 180-day period shall be extended upon mutual agreement of the Secretary of the Treasury and the plan sponsor.
 
 #### (D) Separate mortality tables for the disabled
 
@@ -724,7 +724,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary of the Treasury shall establish mortality tables which may be used (in lieu of the tables under subparagraph (A)) under this subsection for individuals who are entitled to benefits underthe plan on account of disability. The Secretary of the Treasury shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995, and for individuals whose disabilities occur in plan years beginning on or after such date.
+&emsp;&emsp;&emsp;The Secretary of the Treasury shall establish mortality tables which may be used (in lieu of the tables under subparagraph (A)) under this subsection for individuals who are entitled to benefits under the plan on account of disability. The Secretary of the Treasury shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995, and for individuals whose disabilities occur in plan years beginning on or after such date.
 
 #### (ii) Special rule for disabilities occurring after 1994
 
@@ -788,7 +788,7 @@ For purposes of this section—
 
 #### (2) Target normal cost of at-risk plans
 
-&emsp;In the case of a plan which is in at-risk status for a plan year, the target normal cost of the plan for such plan year shall be equal to the sum of—
+&emsp;In the case of a plan which is in at-risk status for a plan year, the target normal cost ofthe plan for such plan year shall be equal to the sum of—
 
 &emsp;&emsp;(A) the excess of—
 
@@ -975,7 +975,7 @@ For purposes of this section—
 
 #### (iii) Plan with alternate valuation date
 
-&emsp;&emsp;&emsp;The Secretary of the Treasury shall prescribe regulations for the application of this paragraph in the case of a plan which has a valuation date other than the first day of the plan year.
+&emsp;&emsp;&emsp;The Secretary of the Treasury shall prescribe regulations for the application ofthis paragraph in the case of a plan which has a valuation date other than the first day of the plan year.
 
 #### (F) Quarterly contributions not to include certain increased contributions
 
@@ -985,7 +985,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;A plan to which this paragraph applies shall be treated as failing to pay the full amount of any required installment under paragraph (3) to the extent that the value of the liquid assets paid in such installment is less than the liquidity shortfall (whether or not such liquidity shortfall exceeds theamount of such installment required to be paid but for this paragraph).
+&emsp;&emsp;A plan to which this paragraph applies shall be treated as failing to pay the full amount of any required installment under paragraph (3) to the extent that the value of the liquid assets paid in such installment is less than the liquidity shortfall (whether or not such liquidity shortfall exceeds the amount of such installment required to be paid but for this paragraph).
 
 #### (B) Plans to which paragraph applies
 
@@ -1223,7 +1223,7 @@ In the case of a qualified transfer (as defined in section 420 of title 26), any
 
 Section 106 of the Pension Protection Act of 2006, referred to in subsec. (c)(2)(D)(iv)(I), is section 106 of Pub. L. 109–280, which is set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Section 1055(g)(3)(B)(iii)(I) of this title, referred to in subsec. (h)(2)(F), was redesignated section 1055(g)(3)(B)(iii) of this title by Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(ii), Dec. 19, 2014, 128 Stat. 4046.
+Section 1055(g)(3)(B)(iii)(I) of this title, referred to in subsec. (h)(2)(F), was redesignated section1055(g)(3)(B)(iii) of this title by Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(ii), Dec. 19, 2014, 128 Stat. 4046.
 
 The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

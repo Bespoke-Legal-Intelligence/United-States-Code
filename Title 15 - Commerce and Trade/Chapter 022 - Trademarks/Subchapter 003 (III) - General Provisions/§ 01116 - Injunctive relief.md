@@ -58,7 +58,7 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 &emsp;(B) a particular description of the matter to be seized, and a description of each place at which such matter is to be seized;
 
-&emsp;(C) the time period, which shall end not later than seven days after the date on whichsuch order is issued, during which the seizure is to be made;
+&emsp;(C) the time period, which shall end not later than seven days after the date on which such order is issued, during which the seizure is to be made;
 
 &emsp;(D) the amount of security required to be provided under this subsection; and
 

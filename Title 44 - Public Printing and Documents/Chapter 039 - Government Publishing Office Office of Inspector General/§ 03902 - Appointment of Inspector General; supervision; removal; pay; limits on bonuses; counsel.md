@@ -16,7 +16,7 @@
 
 &emsp;(A) classified as a position as a senior level employee, in accordance with this title; and
 
-&emsp;(B) have a rate of basic pay that is not less than the average rate of basic pay of all othersenior level employees of the Government Publishing Office calculated on an annual basis.
+&emsp;(B) have a rate of basic pay that is not less than the average rate of basic pay of all other senior level employees of the Government Publishing Office calculated on an annual basis.
 
 (2) The Director of the Government Publishing Office shall establish the amount of the annual adjustment in the rate of basic pay for the Inspector General in an amount equal to the average of the annual adjustments in the rate of basic pay provided to all other senior level employees of the Government Publishing Office, consistent with this title.
 

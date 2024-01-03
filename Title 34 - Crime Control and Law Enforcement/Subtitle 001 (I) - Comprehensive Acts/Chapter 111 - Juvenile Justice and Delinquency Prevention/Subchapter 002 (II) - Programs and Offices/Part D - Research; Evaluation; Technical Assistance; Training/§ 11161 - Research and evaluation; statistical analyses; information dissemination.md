@@ -48,13 +48,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) demographic characteristics of victims and perpetrators; and
 
-&emsp;&emsp;&emsp;&emsp;(cc) the type of weapons used in incidents, as classified in the Uniform CrimeReports of the Federal Bureau of Investigation; and
+&emsp;&emsp;&emsp;&emsp;(cc) the type of weapons used in incidents, as classified in the Uniform Crime Reports of the Federal Bureau of Investigation; and
 
 &emsp;&emsp;(xviii) other purposes consistent with the purposes of this subchapter and subchapter I.
 
 (2) The Administrator shall ensure that an equitable amount of funds available to carry out paragraph (1)(B) is used for research and evaluation relating to the prevention of juvenile delinquency.
 
-(3) Nothing in this subsection shall be construed to permit the development of a national database of personally identifiable information on individuals involved in studies, or in data-collection efforts, carried out under paragraph (1)(B)(x).
+(3) Nothing in this subsection shall be construed to permit the development of a nationaldatabase of personally identifiable information on individuals involved in studies, or in data-collection efforts, carried out under paragraph (1)(B)(x).
 
 (4) Not later than 1 year after December 21, 2018, the Administrator shall conduct a study with respect to juveniles who, prior to placement in the juvenile justice system, were under the care or custody of the State child welfare system, and to juveniles who are unable to return to their family after completing their disposition in the juvenile justice system and who remain wards of the State in accordance with applicable confidentiality requirements. Such study shall include—
 
@@ -128,7 +128,7 @@ Subsec. (a)(1)(A). Pub. L. 115–385, §207(1)(A)(ii), substituted "annually pub
 
 Subsec. (a)(1)(B)(iii). Pub. L. 115–385, §207(1)(A)(iii)(I), added cl. (iii) and struck out former cl. (iii) which read as follows: "successful efforts to prevent first-time minor offenders from committing subsequent involvement in serious crime;".
 
-Subsec. (a)(1)(B)(vii). Pub. L. 115–385, §207(1)(A)(iii)(II), added cl. (vii) and struck out former cl. (vii) which read as follows: "appropriate mental health services for juveniles and youth at risk of participating in delinquent activities;".
+Subsec. (a)(1)(B)(vii). Pub. L. 115–385, §207(1)(A)(iii)(II), added cl. (vii) and struck out formercl. (vii) which read as follows: "appropriate mental health services for juveniles and youth at risk of participating in delinquent activities;".
 
 Subsec. (a)(1)(B)(ix) to (xviii). Pub. L. 115–385, §207(1)(A)(iii)(III), (IV), added cls. (ix) to (xiv) and redesignated former cls. (ix) to (xi) as (xvi) to (xviii), respectively.
 

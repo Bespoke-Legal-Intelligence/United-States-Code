@@ -34,7 +34,7 @@ In this section:
 
 &emsp;&emsp;(ii) is for such a biological product—
 
-&emsp;&emsp;&emsp;(I) that contains no active ingredient that has been previously approved in any other application under section 351(a) or 351(k) of the Public Health Service Act \[42 U.S.C. 262(a), 262(k)\]; and
+&emsp;&emsp;&emsp;(I) that contains no active ingredient that has been previously approved in anyother application under section 351(a) or 351(k) of the Public Health Service Act \[42 U.S.C. 262(a), 262(k)\]; and
 
 &emsp;&emsp;&emsp;(II) that is the subject of an application submitted under section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\];
 
@@ -116,7 +116,7 @@ In this section:
 
 &emsp;&emsp;(A) the average cost incurred by the Food and Drug Administration in the review of a human drug application subject to priority review in the previous fiscal year; and
 
-&emsp;&emsp;(B) the average cost incurred by the Food and Drug Administration in the review of a human drug application that is not subject to priority review in the previous fiscal year.
+&emsp;&emsp;(B) the average cost incurred by the Food and Drug Administration in the review of ahuman drug application that is not subject to priority review in the previous fiscal year.
 
 #### (3) Annual fee setting
 
@@ -194,7 +194,7 @@ In this section:
 
 #### (2) Notification
 
-&emsp;If, after the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section, a sponsor of an application submitted under section 355(b) of this title or section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\] for a drug uses a priority review voucher under this section for such application, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and theCommittee on Health, Education, Labor, and Pensions of the Senate a document—
+&emsp;If, after the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section, a sponsor of an application submitted under section 355(b) of this title or section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\] for a drug uses a priority review voucher under this section for such application, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a document—
 
 &emsp;&emsp;(A) notifying such Committees of the use of such voucher; and
 
@@ -276,7 +276,7 @@ In general.—The sponsor of a human drug application shall notify the Secretary
 
 "(B)
 
-Transfer after notice.—The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under subparagraph (A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification."
+Transfer after notice.—The sponsor of a human drug application that provides notification ofthe intent of such sponsor to use the voucher for the human drug application under subparagraph (A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification."
 
 Subsec. (b)(5). Pub. L. 114–255 added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "The Secretary may not award any priority review vouchers under paragraph (1) after December 31, 2016."
 

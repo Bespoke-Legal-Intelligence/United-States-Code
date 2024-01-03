@@ -108,9 +108,7 @@ Pub. L. 85–568, title I, §101, July 29, 1958, 72 Stat. 426, provided that: "T
 
 #### Definitions
 
-Pub. L. 117–167, div. B, title VII, §10802, Aug. 9, 2022, 136 Stat. 1730, provided that:
-
-"In this title \[see Short Title of 2022 Amendment note above\]:
+Pub. L. 117–167, div. B, title VII, §10802, Aug. 9, 2022, 136 Stat. 1730, provided that: "In this title \[see Short Title of 2022 Amendment note above\]:
 
 &emsp;"(1)
 

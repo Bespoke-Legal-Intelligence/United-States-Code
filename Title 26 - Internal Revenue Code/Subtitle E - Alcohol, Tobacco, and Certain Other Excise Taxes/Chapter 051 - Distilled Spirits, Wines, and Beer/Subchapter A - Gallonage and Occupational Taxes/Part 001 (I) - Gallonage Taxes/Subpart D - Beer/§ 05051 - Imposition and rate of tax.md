@@ -68,7 +68,7 @@
 
 #### (B) Foreign manufacturers and importers
 
-&emsp;&emsp;For purposes of paragraph (4), in the case of a controlled group, the 6,000,000 barrelquantity specified in paragraph (1)(A)(i) shall be applied to the controlled group and apportioned among the members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term "controlled group" has the meaning given such term under subparagraph (A). Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
+&emsp;&emsp;For purposes of paragraph (4), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(A)(i) shall be applied to the controlled group and apportioned among the members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term "controlled group" has the meaning given such term under subparagraph (A). Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
 
 #### (C) Single taxpayer
 
@@ -106,7 +106,7 @@
 
 #### (b) Assessment on materials used in production in case of fraud
 
-Nothing contained in this subpart or subchapter G shall be construed to authorize an assessment on the quantity of materials used in producing or purchased for the purpose of producing beer, nor shall the quantity of materials so used or purchased be evidence, for the purpose of taxation, of the quantity of beer produced; but the tax on all beer shall be paid as provided in section 5054, and not otherwise; except that this subsection shall not apply to cases of fraud, and nothing in this subsection shall have the effect to change the rules of law respecting evidence in any prosecution or suit.
+Nothing contained in this subpart or subchapter G shall be construed to authorize an assessment on the quantity of materials used in producing or purchased for the purpose of producing beer, nor shall the quantity of materials so used or purchased be evidence, for the purpose of taxation, of the quantity of beer produced; but the tax on all beer shall be paid as provided in section 5054, and not otherwise; except that this subsection shall not apply tocases of fraud, and nothing in this subsection shall have the effect to change the rules of law respecting evidence in any prosecution or suit.
 
 #### (c) Illegally produced beer
 
@@ -186,7 +186,7 @@ Pub. L. 116–260, div. EE, title I, §106(b)(5), Dec. 27, 2020, 134 Stat. 3042,
 
 Pub. L. 116–260, div. EE, title I, §107(b)(2), Dec. 27, 2020, 134 Stat. 3047, provided that: "The amendment made by this subsection \[amending this section\] shall apply to beer removed after December 31, 2022."
 
-Amendment by section 110(a) of Pub. L. 116–260 applicable to beer, wine, and distilled spirits removed after Dec. 31, 2020, see section 110(d) of div. EE of Pub. L. 116–260, set out as a note under section 5001 of this title.
+Amendment by section 110(a) of Pub. L. 116–260 applicable to beer, wine, and distilled spirits removed afterDec. 31, 2020, see section 110(d) of div. EE of Pub. L. 116–260, set out as a note under section 5001 of this title.
 
 #### Effective Date of 2019 Amendment
 

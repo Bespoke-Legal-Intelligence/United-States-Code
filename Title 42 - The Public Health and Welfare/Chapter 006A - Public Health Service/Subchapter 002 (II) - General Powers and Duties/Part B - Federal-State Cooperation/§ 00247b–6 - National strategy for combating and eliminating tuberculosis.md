@@ -58,7 +58,7 @@ The Secretary may make a grant under subsection (a) or (b) only if the applicant
 
 #### (A) Priority
 
-&emsp;&emsp;In awarding grants under subsection (a) or (b), the Secretary shall give highest priority to an applicant that provides assurancesthat the applicant will contribute non-Federal funds to carry out activities under this section, which may be provided directly or through donations from public or private entities and may be in cash or in kind, including equipment or services.
+&emsp;&emsp;In awarding grants under subsection (a) or (b), the Secretary shall give highest priority to an applicant that provides assurances that the applicant will contribute non-Federal funds to carry out activities under this section, which may be provided directly or through donations from public or private entities and may be in cash or in kind, including equipment or services.
 
 #### (B) Federal amounts not to be included as contributions
 
@@ -122,7 +122,7 @@ The Secretary may make a grant under subsection (a) or (b) only if the applicant
 
 #### (A) In general
 
-&emsp;&emsp;The Council shall submit a biennial report to the Secretary, as determined necessary by the Secretary, on the activities carried under this section. Each such report shall include the opinion of the Council on the extent to which its recommendations regarding the elimination of tuberculosis have been implemented, including with respect to—
+&emsp;&emsp;The Council shall submit a biennial report to the Secretary, as determined necessaryby the Secretary, on the activities carried under this section. Each such report shall include the opinion of the Council on the extent to which its recommendations regarding the elimination of tuberculosis have been implemented, including with respect to—
 
 &emsp;&emsp;&emsp;(i) activities under subsection (b); and
 
@@ -136,7 +136,7 @@ The Secretary may make a grant under subsection (a) or (b) only if the applicant
 
 &emsp;The Council shall be composed of—
 
-&emsp;&emsp;(A) ex officio representatives from the Centers for Disease Control and Prevention, the National Institutes of Health, the United States Agency for International Development, the Agency for Healthcare Research and Quality, the Health Resources and Services Administration, the United States-Mexico Border Health Commission, and other Federal departments and agencies that carryout significant activities related to tuberculosis;
+&emsp;&emsp;(A) ex officio representatives from the Centers for Disease Control and Prevention, the National Institutes of Health, the United States Agency for International Development, the Agency for Healthcare Research and Quality, the Health Resources and Services Administration, the United States-Mexico Border Health Commission, and other Federal departments and agencies that carry out significant activities related to tuberculosis;
 
 &emsp;&emsp;(B) State and local tuberculosis control and public health officials;
 
@@ -212,7 +212,7 @@ The Secretary may make a grant under subsection (a) or (b) only if the applicant
 
 #### References in Text
 
-The reference to section 254b of this title the first place appearing, referred to in subsec. (c), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of thissubchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626.
+The reference to section 254b of this title the first place appearing, referred to in subsec. (c), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626.
 
 Section 256a of this title, referred to in subsec. (c), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 

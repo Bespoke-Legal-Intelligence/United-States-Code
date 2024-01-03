@@ -74,7 +74,7 @@ Of the amounts made available under subsection (a) for the period of fiscal year
 
 #### (2) Alternate allocation
 
-&emsp;Appropriations Acts may provide for alternate allocation of amounts made availableunder subsection (b)(1), consistent with the allocations under subparagraph (B) of that subsection.
+&emsp;Appropriations Acts may provide for alternate allocation of amounts made available under subsection (b)(1), consistent with the allocations under subparagraph (B) of that subsection.
 
 #### (3) Lack of alternate allocations
 
@@ -190,7 +190,7 @@ This Act, referred to in subsec. (b)(1)(B)(iii), is Pub. L. 117–58, Nov. 15, 2
 
 #### Codification
 
-Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Healthy Forests Restoration Act of 2003 which comprises this chapter.
+Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the HealthyForests Restoration Act of 2003 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

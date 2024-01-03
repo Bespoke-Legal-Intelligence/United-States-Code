@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated for grants under this subchapter, such sums as may be necessary for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
-(Pub. L. 95–471, title IV, §403, as added Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat. 805;amended Pub. L. 102–325, title XIII, §1301(c), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, §901(a)(2)(C), Oct. 7, 1998, 112 Stat. 1827; Pub. L. 110–315, title IX, §941(i), Aug. 14, 2008, 122 Stat. 3463.)
+(Pub. L. 95–471, title IV, §403, as added Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat. 805; amended Pub. L. 102–325, title XIII, §1301(c), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, §901(a)(2)(C), Oct. 7, 1998, 112 Stat. 1827; Pub. L. 110–315, title IX, §941(i), Aug. 14, 2008, 122 Stat. 3463.)
 
 #### <b>Editorial Notes</b>
 

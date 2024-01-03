@@ -10,7 +10,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) includes—
 
-&emsp;&emsp;&emsp;(i) children and youths who are sharing the housing of other persons due to loss of housing, economic hardship, or a similar reason; are living in motels, hotels, trailer parks, or camping grounds due to the lack of alternative adequate accommodations; are living in emergency or transitional shelters; or are abandoned in hospitals;
+&emsp;&emsp;&emsp;(i) children and youths who are sharing the housing of other persons due to loss of housing, economic hardship, or a similar reason; are living in motels, hotels, trailerparks, or camping grounds due to the lack of alternative adequate accommodations; are living in emergency or transitional shelters; or are abandoned in hospitals;
 
 &emsp;&emsp;&emsp;(ii) children and youths who have a primary nighttime residence that is a public or private place not designed for or ordinarily used as a regular sleeping accommodation for human beings (within the meaning of section 11302(a)(2)(C) <sup>1</sup> of this title);
 
@@ -62,7 +62,7 @@ Pub. L. 114–95, title IX, §9105(b), Dec. 10, 2015, 129 Stat. 2137, provided t
 
 "(1)
 
-In general.—In the case of a State that is not a covered State, the amendment made by subsection (a)(1) \[amending this section\] shall take effect on thedate that is 1 year after the date of enactment of this Act \[Dec. 10, 2015\].
+In general.—In the case of a State that is not a covered State, the amendment made by subsection (a)(1) \[amending this section\] shall take effect on the date that is 1 year after the date of enactment of this Act \[Dec. 10, 2015\].
 
 "(2)
 

@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(ii) The term "listed", with respect to a primary tumor, means a primary tumor that is listed in the International Classification of Diseases for Oncology (commonly referred to as the ICD–O).
 
-&emsp;&emsp;&emsp;(iii) The term "International Classification of Diseases for Oncology" means a classification system that includes topography (site) information and histology (cell type information) developed by the World Health Organization, in collaboration with international centers, to promote international comparability in the collection, classification, processing, and presentation of cancer statistics. The ICD–O system is a supplement to the International Statistical Classification of Diseases and Related Health Problems (commonly known as the ICD) and is the standard coding system used by cancer registries worldwide. Such term includes any modification made to such system for purposes of the United States. Such term further includes any published classification system that is internationally recognized as a successor to the classification system referred to in the first sentence of this clause.
+&emsp;&emsp;&emsp;(iii) The term "International Classification of Diseases for Oncology" means a classification system that includes topography (site) information and histology\(cell type information) developed by the World Health Organization, in collaboration with international centers, to promote international comparability in the collection, classification, processing, and presentation of cancer statistics. The ICD–O system is a supplement to the International Statistical Classification of Diseases and Related Health Problems (commonly known as the ICD) and is the standard coding system used by cancer registries worldwide. Such term includes any modification made to such system for purposes of the United States. Such term further includes any published classification system that is internationally recognized as a successor to the classification system referred to in the first sentence of this clause.
 
 #### (C) Statewide cancer registry
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;&emsp;(vii) for the authorization or the conduct, by the statewide cancer registry or other persons and organizations, of studies utilizing statewide cancer registry data, including studies of the sources and causes of cancer, evaluations of the cost, quality, efficacy, and appropriateness of diagnostic, therapeutic, rehabilitative, and preventative services and programs relating to cancer, and any other clinical, epidemiological, or other cancer research; and
 
-&emsp;&emsp;&emsp;(viii) for protection for individuals complying with the law, including provisionsspecifying that no person shall be held liable in any civil action with respect to a cancer case report provided to the statewide cancer registry, or with respect to access to cancer case information provided to the statewide cancer registry.
+&emsp;&emsp;&emsp;(viii) for protection for individuals complying with the law, including provisions specifying that no person shall be held liable in any civil action with respect to a cancer case report provided to the statewide cancer registry, or with respect to access to cancer case information provided to the statewide cancer registry.
 
 #### (d) Relationship to certain programs
 

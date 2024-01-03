@@ -78,7 +78,7 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 #### Regulations
 
-Pub. L. 106–117, title II, §207(d), Nov. 30, 1999, 113 Stat. 1567, provided that: "The Secretary \[of Veterans Affairs\] shall prescribe the initial regulations under subsection (a) of section 8134 of title 38, United StatesCode, as added by subsection (a), not later than April 30, 2000."
+Pub. L. 106–117, title II, §207(d), Nov. 30, 1999, 113 Stat. 1567, provided that: "The Secretary \[of Veterans Affairs\] shall prescribe the initial regulations under subsection (a) of section 8134 of title 38, United States Code, as added by subsection (a), not later than April 30, 2000."
 
 #### Transition Provisions
 

@@ -8,7 +8,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "country of risk" means a foreign country determined by the Secretary, in accordance with subparagraph (B), to present a risk of theft of United States intellectual property or a threat to the national security of the United States if nationals of the country, or entities owned or controlled by the country or nationals of the country, participate in any research, development, demonstration, or deployment activity authorized under this division or division A or an amendment made by this division or division A.
+&emsp;&emsp;The term "country of risk" means a foreign country determined by the Secretary, in accordance with subparagraph (B), to present a risk of theft of United States intellectual property or a threat to the nationalsecurity of the United States if nationals of the country, or entities owned or controlled by the country or nationals of the country, participate in any research, development, demonstration, or deployment activity authorized under this division or division A or an amendment made by this division or division A.
 
 #### (B) Determination
 

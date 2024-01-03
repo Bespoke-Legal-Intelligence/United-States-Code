@@ -10,7 +10,7 @@ Law Enforcement Authorities and Personnel.—(1) The Secretary shall protect the
 
 (2) The Secretary may designate military or civilian personnel to perform law enforcement functions and military, civilian, or contract personnel to perform security functions for such buildings, grounds, property, and persons, including, with regard to civilian personnel designated under this section, duty in areas outside the property referred to in paragraph (1) to the extent necessary to protect that property and persons on that property. Subject to the authorization of the Secretary, any such military or civilian personnel so designated may exercise the authorities listed in paragraphs (1) through (5) of section 2672(c) of this title.
 
-(3) The powers granted under paragraph (2) to military and civilian personnel designated underthat paragraph shall be exercised in accordance with guidelines prescribed by the Secretary and approved by the Attorney General.
+(3) The powers granted under paragraph (2) to military and civilian personnel designated under that paragraph shall be exercised in accordance with guidelines prescribed by the Secretary and approved by the Attorney General.
 
 (4) Nothing in this subsection shall be construed to—
 
@@ -42,7 +42,7 @@ Authority To Charge for Provision of Certain Services and Facilities.— The Sec
 
 (e)
 
-Pentagon Reservation Maintenance Revolving Fund.—(1) There is established in the Treasury of the United States a revolving fund to be known as the Pentagon Reservation Maintenance Revolving Fund (hereafter in this section referred to as the "Fund"). There shall be deposited into the Fund funds collected by the Secretary for space and services and other items provided an organization or entity using any facility or land on the Pentagon Reservation pursuant to subsection (d).
+Pentagon Reservation Maintenance Revolving Fund.—(1) There is established in the Treasury of the United States a revolving fund to be known as the Pentagon Reservation Maintenance Revolving Fund (hereafter in this section referred to as the "Fund"). There shall be deposited into the Fund funds collected by theSecretary for space and services and other items provided an organization or entity using any facility or land on the Pentagon Reservation pursuant to subsection (d).
 
 (2) Subject to paragraphs (3) and (4), monies deposited into the Fund shall be available, without fiscal year limitation, for expenditure for real property management, operation, protection, construction, repair, alteration and related activities for the Pentagon Reservation.
 
@@ -66,7 +66,7 @@ Definitions.— In this section:
 
 &emsp;(5) The term "Raven Rock Mountain Complex" means that area of land (consisting of approximately 720 acres) and improvements thereon, including parking areas, at the Raven Rock Mountain Complex and its supporting facilities located in Maryland and Pennsylvania.
 
-(Added Pub. L. 101–510, div. B, title XXVIII, §2804(a)(1), Nov. 5, 1990, 104 Stat. 1784; amended Pub. L. 102–190, div. A, title X, §1061(a)(18), div. B, title XXVIII, §2864, Dec. 5, 1991, 105 Stat. 1473, 1561; Pub. L. 104–106, div. A, title XV, §1502(a)(24), Feb. 10, 1996, 110 Stat. 505; Pub. L. 104–201, div. A, title III, §369(a), (b)(1), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 106–65, div. A, title X,§1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title XI, §1101, Dec. 28, 2001, 115 Stat. 1234; Pub. L. 108–136, div. A, title IX, §933, Nov. 24, 2003, 117 Stat. 1581; Pub. L. 111–383, div. B, title XXVIII, §2802, Jan. 7, 2011, 124 Stat. 4458; Pub. L. 112–81, div. B, title XXVIII, §2811, Dec. 31, 2011, 125 Stat. 1686; Pub. L. 114–328, div. A, title IX, §952(a), (b), div. B, title XXVIII, §2829E, Dec. 23, 2016, 130 Stat. 2374, 2375, 2733; Pub. L. 115–91, div. A, title X, §1081(d)(16), Dec. 12, 2017, 131 Stat. 1600.)
+(Added Pub. L. 101–510, div. B, title XXVIII, §2804(a)(1), Nov. 5, 1990, 104 Stat. 1784; amended Pub. L. 102–190, div. A, title X, §1061(a)(18), div. B, title XXVIII, §2864, Dec. 5, 1991, 105 Stat. 1473, 1561; Pub. L. 104–106, div. A, title XV, §1502(a)(24), Feb. 10, 1996, 110 Stat. 505; Pub. L. 104–201, div. A, title III, §369(a), (b)(1), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title XI, §1101, Dec. 28, 2001, 115 Stat. 1234; Pub. L. 108–136, div. A, title IX, §933, Nov. 24, 2003, 117 Stat. 1581; Pub. L. 111–383, div. B, title XXVIII, §2802, Jan. 7, 2011, 124 Stat. 4458; Pub. L. 112–81, div. B, title XXVIII, §2811, Dec. 31, 2011, 125 Stat. 1686; Pub. L. 114–328, div. A, title IX, §952(a), (b), div. B, title XXVIII, §2829E, Dec. 23, 2016, 130 Stat. 2374, 2375, 2733; Pub. L. 115–91, div. A, title X, §1081(d)(16), Dec. 12, 2017, 131 Stat. 1600.)
 
 #### <b>Editorial Notes</b>
 
@@ -94,7 +94,7 @@ Subsec. (b). Pub. L. 114–328, §2829E(d)(2), inserted heading.
 
 Subsec. (b)(1). Pub. L. 114–328, §2829E(a)(3), which directed insertion of "for the Pentagon Reservation and" after "law enforcement and security functions" and could not be executed, was repealed by Pub. L. 115–91, §1081(d)(16).
 
-Pub. L. 114–328, §952(a)(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows "The Secretary may appoint military or civilian personnel or contract personnel to perform law enforcement and security functions for property occupied by, or under the jurisdiction, custody, and control of the Department of Defense, and located in the National Capital Region. Such individuals—
+Pub. L. 114–328, §952(a)(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows "The Secretary may appoint military or civilian personnel or contract personnel to perform law enforcement and security functions for property occupied by, or under the jurisdiction, custody, and control ofthe Department of Defense, and located in the National Capital Region. Such individuals—
 
 &emsp;"(A) may be armed with appropriate firearms required for personal safety and for the proper execution of their duties, whether on Department of Defense property or in travel status; and
 

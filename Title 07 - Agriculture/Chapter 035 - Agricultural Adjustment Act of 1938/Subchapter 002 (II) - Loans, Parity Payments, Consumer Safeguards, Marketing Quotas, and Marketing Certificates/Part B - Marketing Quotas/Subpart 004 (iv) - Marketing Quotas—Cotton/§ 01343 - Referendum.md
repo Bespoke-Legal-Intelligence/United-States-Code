@@ -52,5 +52,5 @@ Section inapplicable to 1982 through 1985 crops of upland cotton, see section 50
 
 Section inapplicable to 1978 through 1981 crops of upland cotton, see section 601 of Pub. L. 95–113, set out as a note under section 1342 of this title.
 
-Pub. L. 91–524, title VI, §601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, §1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
+Pub. L. 91–524, title VI, §601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, §1(19)(A), Aug. 10,1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
 

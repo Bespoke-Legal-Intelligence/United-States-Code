@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the succeeding provisions of this section, and notwithstanding paragraph (1), (10)(B), or (23)(A) of section 1396a(a) of this title, a State—
+&emsp;&emsp;Subject to the succeeding provisions of this section, and notwithstanding paragraph\(1), (10)(B), or (23)(A) of section 1396a(a) of this title, a State—
 
 &emsp;&emsp;&emsp;(i) may require an individual who is eligible for medical assistance under the State plan under this subchapter to enroll with a managed care entity as a condition of receiving such assistance (and, with respect to assistance furnished by or under arrangements with such entity, to receive such assistance through the entity), if—
 
@@ -166,7 +166,7 @@
 
 #### (1) Specification of benefits
 
-&emsp;Each contract with a managed care entity under section 1396b(m) of this title or under section 1396d(t)(3) of this title shall specify the benefits the provision (or arrangement) for which the entity is responsible.
+&emsp;Each contract with a managed care entity under section 1396b(m) of this title or undersection 1396d(t)(3) of this title shall specify the benefits the provision (or arrangement) for which the entity is responsible.
 
 #### (2) Assuring coverage to emergency services
 
@@ -214,13 +214,13 @@
 
 &emsp;&emsp;&emsp;(i) objects to the provision of such service on moral or religious grounds; and
 
-&emsp;&emsp;&emsp;(ii) in the manner and through the written instrumentalities such organization deems appropriate, makes available information on its policies regarding such service to prospective enrollees before or during enrollment and to enrollees within 90days after the date that the organization adopts a change in policy regarding such a counseling or referral service.
+&emsp;&emsp;&emsp;(ii) in the manner and through the written instrumentalities such organization deems appropriate, makes available information on its policies regarding such service to prospective enrollees before or during enrollment and to enrollees within 90 days after the date that the organization adopts a change in policy regarding such a counseling or referral service.
 
 > &emsp;&emsp;Nothing in this subparagraph shall be construed to affect disclosure requirements under State law or under the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\].
 
 #### (C) "Health care professional" defined
 
-&emsp;&emsp;For purposes of this paragraph, the term "health care professional" means a physician (as defined in section 1395x(r) of this title) or other health care professional if coverage for the professional's services is provided under the contract referred to in subparagraph (A) for the services of the professional. Such term includes a podiatrist, optometrist, chiropractor, psychologist, dentist, physician assistant, physical or occupational therapist and therapy assistant, speech-language pathologist, audiologist, registered or licensed practical nurse (including nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, and certified nurse-midwife), licensed certified social worker, registered respiratory therapist, and certified respiratory therapy technician.
+&emsp;&emsp;For purposes of this paragraph, the term "health care professional" means a physician (as defined in section 1395x(r) of this title) or other health care professional if coverage for the professional's services is provided under the contract referred to in subparagraph (A) for the services of the professional. Such term includes a podiatrist, optometrist, chiropractor, psychologist, dentist, physician assistant, physical or occupational therapist and therapy assistant, speech-language pathologist, audiologist, registered or licensed practical nurse (including nurse practitioner, clinical nursespecialist, certified registered nurse anesthetist, and certified nurse-midwife), licensed certified social worker, registered respiratory therapist, and certified respiratory therapy technician.
 
 #### (4) Grievance procedures
 
@@ -346,7 +346,7 @@
 
 &emsp;&emsp;A person is described in this subparagraph if such person—
 
-&emsp;&emsp;&emsp;(i) is debarred, suspended, or otherwise excluded from participating in procurement activities under the Federal Acquisition Regulation or from participating in nonprocurement activities under regulations issued pursuant to Executive Order No. 12549 or under guidelines implementing such order; or
+&emsp;&emsp;&emsp;(i) is debarred, suspended, or otherwise excluded from participating in procurement activities under the Federal Acquisition Regulation or from participating in nonprocurement activities under regulations issued pursuant to Executive OrderNo. 12549 or under guidelines implementing such order; or
 
 &emsp;&emsp;&emsp;(ii) is an affiliate (as defined in such Regulation) of a person described in clause (i).
 
@@ -400,7 +400,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Beginning not later than January 1, 2018, a State shall require that, in order to participate as a provider in the network of a managed care entity that provides services to, or orders, prescribes, refers, or certifies eligibility for services for, individuals who are eligible for medical assistance under the State plan under this subchapter (or under a waiver of the plan) and who are enrolled with the entity, the provider is enrolled consistent with section 1396a(kk) of this title with the State agency administering the State plan under this subchapter. Such enrollment shall include providing to the State agency the provider's identifying information, including the name, specialty, date of birth,Social Security number, national provider identifier, Federal taxpayer identification number, and the State license or certification number of the provider.
+&emsp;&emsp;Beginning not later than January 1, 2018, a State shall require that, in order to participate as a provider in the network of a managed care entity that provides services to, or orders, prescribes, refers, or certifies eligibility for services for, individuals who are eligible for medical assistance under the State plan under this subchapter (or under a waiver of the plan) and who are enrolled with the entity, the provider is enrolled consistent with section 1396a(kk) of this title with the State agency administering the State plan under this subchapter. Such enrollment shall include providing to the State agency the provider's identifying information, including the name, specialty, date of birth, Social Security number, national provider identifier, Federal taxpayer identification number, and the State license or certification number of the provider.
 
 #### (B) Rule of construction
 
@@ -468,7 +468,7 @@
 
 #### (3) Treatment of chronic substandard entities
 
-&emsp;In the case of a medicaid managed care organization which has repeatedly failed to meet the requirements of section 1396b(m) of thistitle and this section, the State shall (regardless of what other sanctions are provided) impose the sanctions described in subparagraphs (B) and (C) of paragraph (2).
+&emsp;In the case of a medicaid managed care organization which has repeatedly failed to meet the requirements of section 1396b(m) of this title and this section, the State shall (regardless of what other sanctions are provided) impose the sanctions described in subparagraphs (B) and (C) of paragraph (2).
 
 #### (4) Authority to terminate contract
 
@@ -526,7 +526,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 &emsp;&emsp;&emsp;(i) demonstrate that the number of Indian health care providers that are participating providers with respect to such entity are sufficient to ensure timely access to covered Medicaid managed care services for those Indian enrollees who are eligible to receive services from such providers; and
 
-&emsp;&emsp;&emsp;(ii) agree to pay Indian health care providers, whether such providers are participating or nonparticipating providers with respect to the entity, for covered Medicaid managed care services provided to those Indian enrollees who are eligible to receive services from such providers at a rate equal to the rate negotiated between such entity and the provider involved or, if such a rate has not been negotiated, at a rate that is not less than the level and amountof payment which the entity would make for the services if the services were furnished by a participating provider which is not an Indian health care provider.
+&emsp;&emsp;&emsp;(ii) agree to pay Indian health care providers, whether such providers are participating or nonparticipating providers with respect to the entity, for covered Medicaid managed care services provided to those Indian enrollees who are eligible to receive services from such providers at a rate equal to the rate negotiated between such entity and the provider involved or, if such a rate has not been negotiated, at a rate that is not less than the level and amount of payment which the entity would make for the services if the services were furnished by a participating provider which is not an Indian health care provider.
 
 > &emsp;&emsp;The Secretary shall establish procedures for applying the requirements of clause (i) in States where there are no or few Indian health providers.
 
@@ -584,9 +584,9 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 #### (i) Drug utilization review activities and requirements
 
-Beginning not later than October 1, 2019, each contract under a State plan with a managed care entity (other than a primary care case manager) under section 1396b(m) of this title shall provide that the entity is in compliance with the applicable provisions of section438.3(s)(2) of title 42, Code of Federal Regulations, section 483.3(s)(4)) <sup>2</sup> of such title, and section 483.3(s)(5) <sup>3</sup> of such title, as such provisions were in effect on March 31, 2018.
+Beginning not later than October 1, 2019, each contract under a State plan with a managed care entity (other than a primary care case manager) under section 1396b(m) of this title shall provide that the entity is in compliance with the applicable provisions of section 438.3(s)(2) of title 42, Code of Federal Regulations, section 483.3(s)(4)) <sup>2</sup> of such title, and section 483.3(s)(5) <sup>3</sup> of such title, as such provisions were in effect on March 31, 2018.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507; Pub. L. 111–152, title I, §1202(a)(2), Mar. 30, 2010, 124 Stat. 1053; Pub. L. 114–255, div. A, title V, §5005(a)(2), (b)(2), Dec. 13, 2016, 130 Stat. 1192, 1193; Pub. L. 115–271, title I, §1004(a)(3), Oct. 24, 2018, 132 Stat. 3911; Pub. L. 116–260, div. BB, title II, §203(a)(4)(A), Dec. 27, 2020, 134 Stat. 2917; Pub. L. 117–328, div. FF, title V, §5123(a), Dec. 29, 2022, 136 Stat. 5944.)
+(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507; Pub. L. 111–152, title I, §1202(a)(2), Mar. 30, 2010, 124 Stat. 1053; Pub. L. 114–255, div. A, title V, §5005(a)(2),\(b)(2), Dec. 13, 2016, 130 Stat. 1192, 1193; Pub. L. 115–271, title I, §1004(a)(3), Oct. 24, 2018, 132 Stat. 3911; Pub. L. 116–260, div. BB, title II, §203(a)(4)(A), Dec. 27, 2020, 134 Stat. 2917; Pub. L. 117–328, div. FF, title V, §5123(a), Dec. 29, 2022, 136 Stat. 5944.)
 
 #### Amendment of Subsection (a)(5)
 
@@ -642,7 +642,7 @@ Section 9517(c)(3) of the Omnibus Budget Reconciliation Act of 1985, referred to
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(3)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Public Health Service Act, referred to in subsec. (b)(8), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A ofthis title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting "
+The Public Health Service Act, referred to in subsec. (b)(8), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting "
 
 subpart ii—improving coverage" (preceding section 300gg–11 of this title), by striking out "
 

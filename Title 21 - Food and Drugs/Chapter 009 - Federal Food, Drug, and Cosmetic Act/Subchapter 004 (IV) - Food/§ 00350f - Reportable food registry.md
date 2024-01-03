@@ -172,7 +172,7 @@ Except with respect to fruits and vegetables that are raw agricultural commoditi
 
 #### (2) Action by grocery store
 
-&emsp;A notification described under paragraph (1)(B) shall include the date and time such summary was posted on the Internet website of the Food and Drug Administration.
+&emsp;A notification described under paragraph (1)(B) shall include the date and time suchsummary was posted on the Internet website of the Food and Drug Administration.
 
 #### (h) Consumer notification
 
@@ -228,7 +228,7 @@ A report or notification under this section shall not be considered an admission
 
 #### (n) Homeland Security notification
 
-If, after receiving a report under subsection (d), the Secretary believes such food may have been deliberately adulterated, the Secretary shall immediately notify the Secretary of Homeland Security. The Secretary shall makerelevant information from the Reportable Food Registry available to the Secretary of Homeland Security.
+If, after receiving a report under subsection (d), the Secretary believes such food may have been deliberately adulterated, the Secretary shall immediately notify the Secretary of Homeland Security. The Secretary shall make relevant information from the Reportable Food Registry available to the Secretary of Homeland Security.
 
 (June 25, 1938, ch. 675, §417, as added Pub. L. 110–85, title X, §1005(b), Sept. 27, 2007, 121 Stat. 965; amended Pub. L. 111–353, title II, §211(a), Jan. 4, 2011, 124 Stat. 3951.)
 

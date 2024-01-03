@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Whenever the Commissioner of Social Security finds that more or less than the correctamount of payment has been made to any person under this subchapter, proper adjustment or recovery shall be made, as follows:
+Whenever the Commissioner of Social Security finds that more or less than the correct amount of payment has been made to any person under this subchapter, proper adjustment or recovery shall be made, as follows:
 
 &emsp;(1) With respect to payment to a person of more than the correct amount, the Commissioner of Social Security shall decrease any payment under this subchapter to which the overpaid person (if a qualified individual) is entitled, or shall require the overpaid person or his or her estate to refund the amount in excess of the correct amount, or, if recovery is not obtained under these two methods, shall seek or pursue recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury, as authorized under section 3720A of title 31.
 

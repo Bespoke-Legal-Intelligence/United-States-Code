@@ -10,7 +10,7 @@ Oversight by Secretaries of the Military Departments.—The Secretaries of the m
 
 (c)
 
-Responsibilities of Chair.—The chair of the explosive safety board shall carry out the following responsibilities:
+Responsibilities of Chair.—Except as provided in subsection (h), the chair of the explosive safety board shall carry out the following responsibilities:
 
 &emsp;(1) To act as the principal executive representative and advisor of the Secretary on explosive and chemical agent safety matters related to Department of Defense military munitions.
 
@@ -20,7 +20,7 @@ Responsibilities of Chair.—The chair of the explosive safety board shall carry
 
 &emsp;(4) To direct the staff of the explosive safety board.
 
-&emsp;(5) To performs <sup>1</sup> other functions relating to explosives safety management, as directed by the Assistant Secretary of Defense for Sustainment.
+&emsp;(5) To perform other functions relating to explosives safety management, as directed by the Assistant Secretary of Defense for Sustainment.
 
 &emsp;(6) To provide impartial and objective advice related to explosives safety management to the Secretary of Defense and the heads of the military departments.
 
@@ -28,15 +28,15 @@ Responsibilities of Chair.—The chair of the explosive safety board shall carry
 
 &emsp;(8) To provide assistance and advice to the Under Secretary of Defense for Acquisition and Sustainment and the Deputy Director of Land Warfare and Munitions in munitions acquisition oversight and technology advancement for Department of Defense military munitions, especially in the areas of explosives and chemical agent safety and demilitarization.
 
-&emsp;(9) To provide assistance and advice to the Assistant Secretary of Defense for Logistics and Material Readiness in sustainment oversight of Department of Defense military munitions, especially in the areas of explosives and chemical agent safety, storage, transportation, and demilitarization.
+&emsp;(9) To provide assistance and advice to the Assistant Secretary of Defense for Logistics and Material Readiness in sustainment oversight of Department of Defense military munitions, especially in the areas of explosives andchemical agent safety, storage, transportation, and demilitarization.
 
 &emsp;(10) To develop and recommend issuances to define the functions of the explosive safety board.
 
-&emsp;(11) To establishes <sup>1</sup> joint hazard classification procedures with covered components of the Department.
+&emsp;(11) To establish joint hazard classification procedures with covered components of the Department.
 
 &emsp;(12) To make recommendations to the Under Secretary of Defense for Acquisition and Sustainment with respect to explosives and chemical agent safety tenets and requirements.
 
-&emsp;(13) To conducts <sup>1</sup> oversight of Department of Defense explosive safety management programs.
+&emsp;(13) To conduct oversight of Department of Defense explosive safety management programs.
 
 &emsp;(14) To carry out such other responsibilities as the Secretary of Defense determines appropriate.
 
@@ -80,7 +80,13 @@ Covered Components.—In this section, the covered components of the Department 
 
 &emsp;(7) All other organizational entities within the Department.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 104–201, div. A, title IX, §909, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 111–383, div. A, title X, §1075(b)(7), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 115–91, div. A, title III, §341(a), (b)(1), Dec. 12, 2017, 131 Stat. 1361; Pub. L. 115–232, div. A, title III, §351, Aug. 13, 2018, 132 Stat. 1730; Pub. L. 116–283, div. A, title III, §351(a), title IX, §924(b)(2)(A)(ii), Jan. 1, 2021, 134 Stat. 3542, 3821.)
+(h)
+
+Explosives Used by Space Launch Vehicles.—(1) The Secretary of Defense shall delegate to the Secretary of the Air Force, who may further delegate to the Commanders of the Space Launch Deltas, the responsibilities under subsection (c) with respect to explosives used by space launch vehicles.
+
+(2) In this subsection, the term "launch vehicle" has the meaning given such term in section 50902(11) of title 51.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 104–201, div. A, title IX, §909, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 111–383, div. A, title X, §1075(b)(7), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 115–91, div. A, title III, §341(a), (b)(1), Dec. 12, 2017, 131 Stat. 1361; Pub. L. 115–232, div. A, title III, §351, Aug. 13, 2018, 132 Stat. 1730; Pub. L. 116–283, div. A, title III, §351(a), title IX, §924(b)(2)(A)(ii), Jan. 1, 2021, 134 Stat. 3542, 3821; Pub. L. 118–31, div. A, title XVI, §1601(a), title XVIII, §1801(a)(2), Dec. 22, 2023, 137 Stat. 583, 683.)
 
 Historical and Revision Notes
 
@@ -108,6 +114,16 @@ In subsection (b), the words "in carrying out" are substituted for the words "in
 
 #### Amendments
 
+<b>2023</b>—Subsec. (c). Pub. L. 118–31, §1601(a)(1), substituted "Except as provided in subsection (h), the chair" for "The chair" in introductory provisions.
+
+Subsec. (c)(5). Pub. L. 118–31, §1801(a)(2)(A), substituted "perform" for "performs".
+
+Subsec. (c)(11). Pub. L. 118–31, §1801(a)(2)(B), substituted "establish" for "establishes".
+
+Subsec. (c)(13). Pub. L. 118–31, §1801(a)(2)(C), substituted "conduct" for "conducts".
+
+Subsec. (h). Pub. L. 118–31, §1601(a)(2), added subsec. (h).
+
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §924(b)(2)(A)(ii), substituted "Marine Corps, Space Force," for "Marine Corps,".
 
 Subsecs. (c) to (g). Pub. L. 116–283, §351(a), added subsecs. (c) to (g).
@@ -120,7 +136,7 @@ Pub. L. 115–91, §341(a)(1)–(8), designated existing provisions as subsec. (
 
 Subsec. (b). Pub. L. 115–91, §341(a)(9), added subsec. (b).
 
-<b>2011</b>—Pub. L. 111–383 struck out subsec. (a) designation before "The Secretaries" and struck out subsec. (b) which read as follows: "The board shall confer with and advise the Secretaries of the military departments in carrying out the recommendations in House Document No. 199 of the Seventieth Congress."
+<b>2011</b>—Pub. L. 111–383 struck out subsec. (a) designation before "The Secretaries" and struck out subsec.\(b) which read as follows: "The board shall confer with and advise the Secretaries of the military departments in carrying out the recommendations in House Document No. 199 of the Seventieth Congress."
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted "a joint board selected by them composed of officers, civilian officers and employees of the Department of Defense, or both" for "a joint board of officers selected by them".
 
@@ -129,6 +145,4 @@ Subsec. (b). Pub. L. 115–91, §341(a)(9), added subsec. (b).
 #### Deadline for Appointment
 
 Pub. L. 116–283, div. A, title III, §351(b), Jan. 1, 2021, 134 Stat. 3543, provided that: "By not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall take such steps as may be necessary to ensure that the explosive safety board of the Department of Defense, as authorized under section 172 of title 10, United States Code, has a chair who is a military officer and whose responsibilities include the day-to-day management of the explosive safety board and the responsibilities provided in subsection (c) of such section."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

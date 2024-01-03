@@ -10,7 +10,7 @@ To be eligible to receive a grant or contract under subsection (a) an entity sha
 
 &emsp;(1) be—
 
-&emsp;&emsp;(A) a health professions school, including an accredited school or program of public health, health administration, preventive medicine, or dental public health or a school providing health management programs;
+&emsp;&emsp;(A) a health professions school, including an accredited school or program of publichealth, health administration, preventive medicine, or dental public health or a school providing health management programs;
 
 &emsp;&emsp;(B) an academic health center;
 
@@ -66,7 +66,7 @@ Amounts provided under a grant or contract awarded under this section may be use
 
 &emsp;&emsp;(C) provide education or training for students from traditional on-campus programs in practice-based sites; or
 
-&emsp;&emsp;(D) develop educational methods and distance-based approaches or technology thataddress adult learning requirements and increase knowledge and skills related to community-based cultural diversity in public health education.
+&emsp;&emsp;(D) develop educational methods and distance-based approaches or technology that address adult learning requirements and increase knowledge and skills related to community-based cultural diversity in public health education.
 
 #### (2) Severe shortage disciplines
 
@@ -102,7 +102,7 @@ Pub. L. 117–2, title II, §2501, Mar. 11, 2021, 135 Stat. 42, provided that:
 
 "(a)
 
-In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle \[subtitle F (§§2501, 2502) of title II of Pub. L. 117–2, enacting this note\] referred to as the 'Secretary') for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,660,000,000, to remain available until expended, to carry out activities related to establishing, expanding, and sustaining a public health workforce, including by making awards to State, local, and territorial public health departments.
+In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle \[subtitle F (§§2501, 2502) of title II of Pub. L. 117–2, enacting this note\] referred to as the 'Secretary') for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,660,000,000, to remain available until expended, to carry out activities related to establishing, expanding, and sustaining a public health workforce,including by making awards to State, local, and territorial public health departments.
 
 "(b)
 

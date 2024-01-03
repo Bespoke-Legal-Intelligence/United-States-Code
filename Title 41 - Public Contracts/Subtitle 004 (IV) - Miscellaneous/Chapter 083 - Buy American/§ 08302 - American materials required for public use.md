@@ -80,3 +80,9 @@ Subsec. (b). Pub. L. 117–58, §70922(c), amended subsec. (b) generally. Prior 
 
 Subsec. (c). Pub. L. 117–58, §70922(a), added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+

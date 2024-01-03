@@ -116,7 +116,7 @@ In clause (1), the words "a State" are substituted for "any of the several State
 
 In clause (3)(B), the words "upon application" are omitted as unnecessary.
 
-In clause (10)(B), the words "hold at least 20 percent of the membership and voting power on the board" are substituted for "the membership and voting power held . . . is not less than 20 percent of such membership and voting power held in that board of directors or other such governing board" to eliminate unnecessary words.
+In clause (10)(B), the words "hold at least 20 percent of the membership and voting power on the board" aresubstituted for "the membership and voting power held . . . is not less than 20 percent of such membership and voting power held in that board of directors or other such governing board" to eliminate unnecessary words.
 
 The text of 36:391(c) is omitted as executed.
 

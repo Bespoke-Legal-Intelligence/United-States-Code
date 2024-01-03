@@ -18,7 +18,7 @@ For the purposes of this part, an "eligible institution" means an institution of
 
 #### Prior Provisions
 
-A prior section 1102a, Pub. L. 89–329, title V, §502, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 656, related to State applications for allotments, prior to the general amendment of this subchapter by Pub. L. 105–244.
+A prior section 1102a, Pub. L. 89–329, title V, §502, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106Stat. 656, related to State applications for allotments, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 A prior section 512 of Pub. L. 89–329 was renumbered section 522, and is classified to section 1103a of this title.
 

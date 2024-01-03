@@ -26,7 +26,7 @@
 
 &emsp;(3) any other methods and assumptions, including a health care cost trend rate, that the Director of the Office determines to be appropriate.
 
-(f) After consultation with the United States Postal Service, the Office shall promulgate any regulations the Office determines necessary under this subsection.
+(f) After consultation with the United States Postal Service, the Office shall promulgate anyregulations the Office determines necessary under this subsection.
 
 (g) For purposes of this section, the term "estimated net claims costs" shall mean the difference between—
 
@@ -76,7 +76,7 @@ Cancellation of payments.—Any payment required from the Postal Service under s
 
 Effect of this act.—In any determination relating to the future liability for retiree health benefits of the United States Postal Service or the Postal Service Retiree Health Benefits Fund, the Office of Personnel Management shall take into account the actual and reasonably expected effects of this Act \[see Tables for classification\]."
 
-\[For definition of "Postal Service" as used in section 102(c) of Pub. L. 117–108, set out above, see section 102of Title 39, Postal Service, as made applicable by section 2(b) of Pub. L. 117–108, which is set out as a note under section 501 of Title 39.\]
+\[For definition of "Postal Service" as used in section 102(c) of Pub. L. 117–108, set out above, see section 102 of Title 39, Postal Service, as made applicable by section 2(b) of Pub. L. 117–108, which is set out as a note under section 501 of Title 39.\]
 
 #### Review by Postal Regulatory Commission
 

@@ -6,7 +6,7 @@ In accordance with subchapter XII, the Secretary of Agriculture shall transfer t
 
 #### (b) Continued Department of Agriculture access
 
-On completion of the transfer of the Plum Island Animal Disease Center under subsection (a), the Secretary of Homeland Security and the Secretary of Agriculture shall enter into an agreement to ensure that the Department of Agriculture is able to carry out research, diagnostic, and other activities of the Department of Agriculture at the Center.
+On completion of the transfer of the Plum Island Animal Disease Center under subsection\(a), the Secretary of Homeland Security and the Secretary of Agriculture shall enter into an agreement to ensure that the Department of Agriculture is able to carry out research, diagnostic, and other activities of the Department of Agriculture at the Center.
 
 #### (c) Direction of activities
 
@@ -40,7 +40,7 @@ Pub. L. 116–94, div. B, title VII, §766, Dec. 20, 2019, 133 Stat. 2655.
 
 Pub. L. 116–260, div. FF, title V, §501(c), Dec. 27, 2020, 134 Stat. 3136, provided that: "The Administrator of General Services shall ensure that—
 
-&emsp;"(1) Federal property commonly known as Plum Island, New York, including the Orient point facility, all real and personal property and transportation assets that support Plum Island operations and access to Plum Island, be disposed of as a single consolidated asset; and
+&emsp;"(1) Federal property commonly known as Plum Island, New York, including the Orient point \[probably should be "Point"\] facility, all real and personal property and transportation assets that support Plum Island operations and access to Plum Island, be disposed of as a single consolidated asset; and
 
 &emsp;"(2) such disposal is subject to conditions as may be necessary to protect Government interests and meet program requirements."
 

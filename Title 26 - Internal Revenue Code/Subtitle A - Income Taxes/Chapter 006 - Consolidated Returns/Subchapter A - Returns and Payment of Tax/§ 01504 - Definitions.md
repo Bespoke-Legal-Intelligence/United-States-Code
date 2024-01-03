@@ -110,7 +110,7 @@ Despite the provisions of paragraph (1) of subsection (b), two or more organizat
 
 #### (f) Special rule for certain amounts derived from a corporation previously treated as a DISC
 
-In determining the consolidated taxable income of an affiliated group for any taxable yearbeginning after December 31, 1984, a corporation which had been a DISC and which would otherwise be a member of such group shall not be treated as such a member with respect to—
+In determining the consolidated taxable income of an affiliated group for any taxable year beginning after December 31, 1984, a corporation which had been a DISC and which would otherwise be a member of such group shall not be treated as such a member with respect to—
 
 &emsp;(1) any distribution (or deemed distribution) of accumulated DISC income which was not treated as previously taxed income under section 805(b)(2)(A) of the Tax Reform Act of 1984, and
 
@@ -240,7 +240,7 @@ Special rule not to apply to certain sell-downs after june 22, 1984.—If—
 
 "(4)
 
-Exception for certain sell-downs.—Subsection (b)(2) (and not subsection (b)(3)) will apply to a corporation if such corporation issues or sells stock after June 22, 1984, pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984, but only if the requirements of the amendment made by subsection (a) \[amending this section\] (substituting 'more than 50 percent' for 'at least 80 percent' in paragraph (2)(B) of section 1504(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) are satisfied immediately after such issuance or sale and at all times thereafter until the first day of the first taxable year beginning after December 31, 1987. For purposes of the preceding sentence, if there is a letter of intent between a corporation and a securities underwriter entered into on or before June 22, 1984, and the subsequent issuance or sale is effected pursuant to a registration statement filed with the Securities and Exchange Commission, such stock shall be treated as issued or sold pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984.
+Exception for certain sell-downs.—Subsection (b)(2) (and not subsection (b)(3)) will apply to a corporation if such corporation issues or sells stock after June 22, 1984, pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984, but only if the requirements of the amendment made by subsection (a) \[amending this section\] (substituting 'more than 50 percent' for 'at least 80 percent' in paragraph (2)(B) of section 1504(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) are satisfied immediately after such issuance or sale and at all times thereafter until the first day of the first taxable year beginning after December 31, 1987. For purposes of the preceding sentence, if there is a letter of intent between a corporation and a securities underwriter entered into on or before June 22, 1984, and the subsequent issuance or sale is effected pursuant to a registration statement filed with the Securities and Exchange Commission, such stock shall be treated as issued or sold pursuant to a registration statementfiled with the Securities and Exchange Commission on or before June 22, 1984.
 
 "(5)
 
@@ -316,7 +316,7 @@ Pub. L. 94–455, title XV, §1507(c)(1), Oct. 4, 1976, 90 Stat. 1740, provided 
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–178 applicable with respect to taxable years ending after Dec. 31, 1971, except that a corporation may not be a DISC for any taxable year beginning before Jan. 1, 1972, see section 507 of Pub. L. 92–178, set out as an Effective Date note under section 991 of this title.
+Amendment by Pub. L. 92–178 applicable with respect to taxable years ending after Dec. 31, 1971, except that a corporation may not be a DISC for any taxable year beginning before Jan. 1, 1972, see section 507 of Pub. L.92–178, set out as an Effective Date note under section 991 of this title.
 
 #### Effective Date of 1969 Amendment
 
@@ -422,7 +422,7 @@ Extension of statute of limitations.—Subparagraph (A) shall not apply if the S
 
 &emsp;"(3)
 
-Judicial proceedings.—In the case of any proceeding in a Federal court or the United States Tax Court involving a proposed adjustment under paragraph (1), the Native Corporation, subject to the rules of such court, may file an amicus brief concerning such adjustment.
+Judicial proceedings.—In the case of any proceeding in a Federal court or the United States TaxCourt involving a proposed adjustment under paragraph (1), the Native Corporation, subject to the rules of such court, may file an amicus brief concerning such adjustment.
 
 &emsp;"(4)
 

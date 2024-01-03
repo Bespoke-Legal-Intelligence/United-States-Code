@@ -22,7 +22,7 @@
 
 #### (D) Definition
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "reasonable cause to believe that the information is inaccurate" means having specific knowledge, other than solely allegations by the consumer, that would cause a reasonable person to have substantial doubts about the accuracy of the information.
+&emsp;&emsp;For purposes of subparagraph (A), the term "reasonable cause to believe that the information is inaccurate" means having specific knowledge, other than solely allegations bythe consumer, that would cause a reasonable person to have substantial doubts about the accuracy of the information.
 
 #### (E) Rehabilitation of private education loans
 
@@ -82,7 +82,7 @@
 
 #### (ii) Reporting
 
-&emsp;&emsp;&emsp;Except as provided in clause (iii), if a furnisher makes an accommodation withrespect to 1 or more payments on a credit obligation or account of a consumer, and the consumer makes the payments or is not required to make 1 or more payments pursuant to the accommodation, the furnisher shall—
+&emsp;&emsp;&emsp;Except as provided in clause (iii), if a furnisher makes an accommodation with respect to 1 or more payments on a credit obligation or account of a consumer, and the consumer makes the payments or is not required to make 1 or more payments pursuant to the accommodation, the furnisher shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) report the credit obligation or account as current; or
 
@@ -224,7 +224,7 @@
 
 #### (C) Applicability
 
-&emsp;&emsp;Subparagraphs (D) through (G) shall apply in any circumstance identified under theregulations promulgated under subparagraph (A).
+&emsp;&emsp;Subparagraphs (D) through (G) shall apply in any circumstance identified under the regulations promulgated under subparagraph (A).
 
 #### (D) Submitting a notice of dispute
 
@@ -246,7 +246,7 @@
 
 &emsp;&emsp;&emsp;(iii) complete such person's investigation of the dispute and report the results of the investigation to the consumer before the expiration of the period under section 1681i(a)(1) of this title within which a consumer reporting agency would be required to complete its action if the consumer had elected to dispute the information under that section; and
 
-&emsp;&emsp;&emsp;(iv) if the investigation finds that the information reported was inaccurate, promptly notify each consumer reporting agency to which the person furnished the inaccurate information of that determination and provide to the agency any correction to that information that is necessary to make the information provided by the person accurate.
+&emsp;&emsp;&emsp;(iv) if the investigation finds that the information reported was inaccurate, promptly notify each consumer reporting agency to which the person furnished theinaccurate information of that determination and provide to the agency any correction to that information that is necessary to make the information provided by the person accurate.
 
 #### (F) Frivolous or irrelevant dispute
 
@@ -302,7 +302,7 @@
 
 #### (2) Deadline
 
-&emsp;A person shall complete all investigations, reviews, and reports required under paragraph\(1) regarding information provided by the person to a consumer reporting agency, before the expiration of the period under section 1681i(a)(1) of this title within which the consumer reporting agency is required to complete actions required by that section regarding that information.
+&emsp;A person shall complete all investigations, reviews, and reports required under paragraph (1) regarding information provided by the person to a consumer reporting agency, before the expiration of the period under section 1681i(a)(1) of this title within which the consumer reporting agency is required to complete actions required by that section regarding that information.
 
 #### (c) Limitation on liability
 
@@ -382,7 +382,7 @@ Subsec. (a)(9). Pub. L. 108–159, §412(a), added par. (9).
 
 Subsec. (b)(1)(E). Pub. L. 108–159, §314(b), added subpar. (E).
 
-Subsec. (c). Pub. L. 108–159, §312(e)(1), added subsec. (c) and struck out heading and text of former subsec.\(c). Text read as follows: "Sections 1681n and 1681o of this title do not apply to any failure to comply with subsection (a) of this section, except as provided in section 1681s(c)(1)(B) of this title."
+Subsec. (c). Pub. L. 108–159, §312(e)(1), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "Sections 1681n and 1681o of this title do not apply to any failure to comply with subsection (a) of this section, except as provided in section 1681s(c)(1)(B) of this title."
 
 Subsec. (d). Pub. L. 108–159, §312(e)(1), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "Subsection (a) of this section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials and the State officials identified in that section."
 

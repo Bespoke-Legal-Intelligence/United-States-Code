@@ -16,7 +16,7 @@ To be eligible for benefits from the Facility under this subchapter, a country s
 
 &emsp;&emsp;(A) an International Monetary Fund standby arrangement, extended Fund arrangement, or an arrangement under the structural adjustment facility or enhanced structural adjustment facility, or a Fund monitored program, or is implementing sound macroeconomic policies, unless the President determines that such an arrangement or program could reasonably be expected to have significant adverse social or environmental effect; and
 
-&emsp;&emsp;(B) as appropriate, structural or sectoral adjustment loans from the International Bank for Reconstruction and Development or the International Development Association, unless the President determines thatthe resulting adjustment requirements could reasonably be expected to have significant adverse social or environmental effects;
+&emsp;&emsp;(B) as appropriate, structural or sectoral adjustment loans from the International Bank for Reconstruction and Development or the International Development Association, unless the President determines that the resulting adjustment requirements could reasonably be expected to have significant adverse social or environmental effects;
 
 &emsp;(6) if appropriate, has <sup>1</sup> agreed with its commercial bank lenders on a satisfactory financing program, including, as appropriate, debt or debt service reduction; and
 
@@ -32,7 +32,7 @@ To be eligible for benefits from the Facility under this subchapter, a country s
 
 &emsp;The President shall notify the appropriate congressional committees of his intention to designate a country as an eligible country at least 15 days in advance of any formal determination.
 
-(Pub. L. 87–195, pt. V, §805, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 887; amended Pub. L. 107–26, §1, Aug. 17, 2001, 115 Stat. 206; Pub. L. 115–440, §5, Jan. 14, 2019, 132 Stat. 5582.)
+(Pub. L. 87–195, pt. V, §805, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 887; amendedPub. L. 107–26, §1, Aug. 17, 2001, 115 Stat. 206; Pub. L. 115–440, §5, Jan. 14, 2019, 132 Stat. 5582.)
 
 #### <b>Editorial Notes</b>
 

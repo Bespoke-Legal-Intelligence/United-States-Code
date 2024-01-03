@@ -102,5 +102,5 @@ Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a
 
 #### Facilitating Granting of Leave for Attendance at Hearings Involving Parental Support Obligations
 
-Pub. L. 104–193, title III, §363(b), Aug. 22, 1996, 110 Stat. 2248, as amended by Pub. L. 107–296, title XVII,§1704(e)(1)(B), Nov. 25, 2002, 116 Stat. 2315, formerly set out as a note under this section, was transferred to subsec. (c) of this section.
+Pub. L. 104–193, title III, §363(b), Aug. 22, 1996, 110 Stat. 2248, as amended by Pub. L. 107–296, title XVII, §1704(e)(1)(B), Nov. 25, 2002, 116 Stat. 2315, formerly set out as a note under this section, was transferred to subsec. (c) of this section.
 

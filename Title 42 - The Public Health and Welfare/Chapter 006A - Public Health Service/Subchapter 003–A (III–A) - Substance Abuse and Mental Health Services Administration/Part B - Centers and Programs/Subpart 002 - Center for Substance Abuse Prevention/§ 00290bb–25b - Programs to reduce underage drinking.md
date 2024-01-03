@@ -110,7 +110,7 @@ It is the sense of the Congress that:
 
 &emsp;&emsp;&emsp;&emsp;(II) Whether or not the State has comprehensive liability statutes pertaining to underage access to alcohol such as dram shop, social host, and house party laws, and the prevalence of enforcement of each of these laws.
 
-&emsp;&emsp;&emsp;&emsp;(III) Whether or not the State encourages and conducts comprehensive enforcement efforts to prevent underage access to alcohol at retail outlets, such as random compliance checks and shoulder tap programs, and the number of compliance checks within alcohol retail outlets measured against the number of total alcohol retail outlets in each State, and the result of such checks.
+&emsp;&emsp;&emsp;&emsp;(III) Whether or not the State encourages and conducts comprehensive enforcement efforts to prevent underage access to alcohol at retail outlets, such as random compliance checks and shoulder tap programs, and the number ofcompliance checks within alcohol retail outlets measured against the number of total alcohol retail outlets in each State, and the result of such checks.
 
 &emsp;&emsp;&emsp;&emsp;(IV) Whether or not the State encourages training on the proper selling and serving of alcohol for all sellers and servers of alcohol as a condition of employment.
 
@@ -186,7 +186,7 @@ It is the sense of the Congress that:
 
 #### (1) Authorization of program
 
-&emsp;The Assistant Secretary for Mental Health and Substance Use, in consultation with the Director of the Office of National Drug Control Policy, shall award enhancement grants to eligible entities to design, implement, evaluate, and disseminate comprehensive strategies to maximize the effectiveness of community-wide approaches to preventing and reducing underage drinking. This subsection is subject to the availability of appropriations.
+&emsp;The Assistant Secretary for Mental Health and Substance Use, in consultation with the Director of the Office of National Drug Control Policy, shall award enhancement grants to eligible entities to design, implement, evaluate, and disseminate comprehensivestrategies to maximize the effectiveness of community-wide approaches to preventing and reducing underage drinking. This subsection is subject to the availability of appropriations.
 
 #### (2) Purposes
 
@@ -308,7 +308,7 @@ It is the sense of the Congress that:
 
 &emsp;&emsp;&emsp;(iii) The development and identification of evidence-based or evidence-informed strategies to reduce underage drinking, which may include through translational research.
 
-&emsp;&emsp;&emsp;(iv) Improving and conducting public health data collection on alcohol use and alcohol-related conditions in States, whichmay include by increasing the use of surveys, such as the Behavioral Risk Factor Surveillance System, to monitor binge and excessive drinking and related harms among individuals who are at least 18 years of age, but not more than 20 years of age, including harm caused to self or others as a result of alcohol use that is not duplicative of research currently being conducted or supported by the Department of Health and Human Services.
+&emsp;&emsp;&emsp;(iv) Improving and conducting public health data collection on alcohol use and alcohol-related conditions in States, which may include by increasing the use of surveys, such as the Behavioral Risk Factor Surveillance System, to monitor binge and excessive drinking and related harms among individuals who are at least 18 years of age, but not more than 20 years of age, including harm caused to self or others as a result of alcohol use that is not duplicative of research currently being conducted or supported by the Department of Health and Human Services.
 
 #### (B) Authorization of appropriations
 
@@ -344,7 +344,7 @@ Subsecs. (c) to (g). Pub. L. 117–328, §1215(2), added subsecs. (c) to (g) and
 
 <b>2016</b>—Subsec. (c)(1)(B). Pub. L. 114–255, §6001(c)(1), substituted "Assistant Secretary for Mental Health and Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration".
 
-Subsec. (c)(3). Pub. L. 114–255, §9016(1), substituted "each of the fiscal years 2018 through 2022." for "fiscal year 2007, and $1,000,000 for each of the fiscal years 2008 through 2010."
+Subsec. (c)(3). Pub. L. 114–255, §9016(1), substituted "each of the fiscal years 2018 through 2022." for "fiscalyear 2007, and $1,000,000 for each of the fiscal years 2008 through 2010."
 
 Subsec. (d)(4). Pub. L. 114–255, §9016(2), substituted "each of the fiscal years 2018 through 2022." for "fiscal year 2007 and $1,000,000 for each of the fiscal years 2008 through 2010."
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(ii) a general explanation of the applicable—
 
-&emsp;&emsp;&emsp;&emsp;(I) administrative and constitutional provisions with respect to such inquiry (including the right to a conference withthe Secretary before any examination of church records), and
+&emsp;&emsp;&emsp;&emsp;(I) administrative and constitutional provisions with respect to such inquiry (including the right to a conference with the Secretary before any examination of church records), and
 
 &emsp;&emsp;&emsp;&emsp;(II) provisions of this title which authorize such inquiry or which may be otherwise involved in such inquiry.
 
@@ -144,7 +144,7 @@
 
 #### (B) Unrelated business tax
 
-&emsp;&emsp;In the case of any church tax examination with respect to the tax imposed by section 511 (relating to unrelated business income), such tax may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, only with respect to the 6 most recent taxable years ending before the examination notice date.
+&emsp;&emsp;In the case of any church tax examination with respect to the tax imposed by section511 (relating to unrelated business income), such tax may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, only with respect to the 6 most recent taxable years ending before the examination notice date.
 
 #### (C) Exception where shorter statute of limitations otherwise applicable
 
@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (7) Appropriate high-level Treasury official
 
-&emsp;The term "appropriate high-level Treasury official" means the Secretary of the Treasury or any delegate of the Secretary whose rank is no lower than that of a principal Internal Revenue officer for an internal revenue region.
+&emsp;The term "appropriate high-level Treasury official" means the Secretary of the Treasury or any delegate of the Secretary whose rank isno lower than that of a principal Internal Revenue officer for an internal revenue region.
 
 #### (i) Section not to apply to criminal investigations, etc.
 

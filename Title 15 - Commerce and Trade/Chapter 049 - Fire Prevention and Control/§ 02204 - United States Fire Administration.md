@@ -14,7 +14,7 @@ The Administrator may appoint a Deputy Administrator, who shall—
 
 &emsp;(1) perform such functions as the Administrator shall from time to time assign or delegate; and
 
-&emsp;(2) act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
+&emsp;(2) act as Administrator during the absence or disability of the Administrator or in theevent of a vacancy in the office of Administrator.
 
 (Pub. L. 93–498, §5, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 106–503, title I, §110(a)(2)(B)(i), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–166, §2(f)(2), Aug. 10, 2012, 126 Stat. 1284; Pub. L. 112–239, div. A, title XVIII, §§1802(b)(1), 1812, Jan. 2, 2013, 126 Stat. 2100, 2117.)
 
@@ -54,7 +54,7 @@ Pub. L. 105–108, §4, Nov. 20, 1997, 111 Stat. 2264, provided that:
 
 "(a)
 
-In General.—Not later than 60 days before the termination or transfer to a private sector person or entity of any significant function of the United StatesFire Administration, as described in subsection (b), the Administrator of the United States Fire Administration shall transmit to Congress a report providing notice of that termination or transfer.
+In General.—Not later than 60 days before the termination or transfer to a private sector person or entity of any significant function of the United States Fire Administration, as described in subsection (b), the Administrator of the United States Fire Administration shall transmit to Congress a report providing notice of that termination or transfer.
 
 "(b)
 

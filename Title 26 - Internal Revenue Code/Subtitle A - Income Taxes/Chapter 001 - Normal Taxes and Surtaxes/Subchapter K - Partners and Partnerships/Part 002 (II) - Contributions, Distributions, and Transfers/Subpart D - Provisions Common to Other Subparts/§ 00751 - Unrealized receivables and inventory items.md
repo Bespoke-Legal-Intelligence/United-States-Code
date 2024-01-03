@@ -56,7 +56,7 @@ For purposes of this subchapter, the term "unrealized receivables" includes, to 
 
 &emsp;(2) services rendered, or to be rendered.
 
-> For purposes of this section and sections 731, 732, and 741 (but not for purposes of section 736), such term also includes mining property (as defined in section 617(f)(2)), stock in a DISC (as described in section 992(a)), section 1245 property (as defined in section 1245(a)(3)), stock in certain foreign corporations (as described in section 1248), section 1250 property (as defined in section 1250(c)), farm land (as defined in section 1252(a)), franchises, trademarks, or trade names (referred to in section 1253(a)), and an oil, gas, or geothermal property (described in section 1254) but only to the extent of the amount which would be treated as gain to which section 617(d)(1), 995(c),1245(a), 1248(a), 1250(a), 1252(a), 1253(a), or 1254(a) would apply if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership at its fair market value. For purposes of this section and sections 731, 732, and 741 (but not for purposes of section 736), such term also includes any market discount bond (as defined in section 1278) and any short-term obligation (as defined in section 1283) but only to the extent of the amount which would be treated as ordinary income if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership.
+> For purposes of this section and sections 731, 732, and 741 (but not for purposes of section 736), such term also includes mining property (as defined in section 617(f)(2)), stock in a DISC (as described in section 992(a)), section 1245 property (as defined in section 1245(a)(3)), stock in certain foreign corporations (as described in section 1248), section 1250 property (as defined in section 1250(c)), farm land (as defined in section 1252(a)), franchises, trademarks, or trade names (referred to in section 1253(a)), and an oil, gas, or geothermal property (described in section 1254) but only to the extent of the amount which would be treated as gain to which section 617(d)(1), 995(c), 1245(a), 1248(a), 1250(a), 1252(a), 1253(a), or 1254(a) would apply if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership at its fair market value. For purposes of this section and sections 731, 732, and 741 (but not for purposes of section 736), such term also includes any market discount bond (as defined in section 1278) and any short-term obligation (as defined in section 1283) but only to the extent of the amount which would be treated as ordinary income if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership.
 
 #### (d) Inventory items
 
@@ -122,7 +122,7 @@ Subsec. (e). Pub. L. 103–66, §13262(b)(2)(A), substituted "sections 731 and 7
 
 Pub. L. 99–514, §201(d)(10), struck out "section 1245 recovery property (as defined in section 1245(a)(5))," before "stock in certain foreign corporations" in second sentence.
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–369, §492(b)(4), struck out "farm recapture property (as defined in section1251(e)(1))," before "farm land", and "1251(c)," after "1250(a)," in second sentence.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369, §492(b)(4), struck out "farm recapture property (as defined in section 1251(e)(1))," before "farm land", and "1251(c)," after "1250(a)," in second sentence.
 
 Pub. L. 98–369, §43(c)(3), inserted last sentence.
 
@@ -176,7 +176,7 @@ Amendment by section 13262(b)(1) and (2)(A) of Pub. L. 103–66 applicable in th
 
 Amendment by section 201(d)(10) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
-Amendment by section 201(d)(10) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 201(d)(10) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part ofspecified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -202,7 +202,7 @@ Amendment by section 205(b) of Pub. L. 94–455 effective for taxable years endi
 
 Amendment by section 1042(c)(2) of Pub. L. 94–455 applicable to transfers beginning after Oct. 9, 1975, and to sales, exchanges and distributions taking place after that date, see section 1042(e)(1) of Pub. L. 94–455, set out as a note under section 367 of this title.
 
-Amendment by section 1101(d)(2) of Pub. L. 94–455 applicable to sales, exchanges, or other dispositions afterDec. 31, 1975, in taxable years ending after such date, see section 1101(g)(4) of Pub. L. 94–455, set out as a note under section 995 of this title.
+Amendment by section 1101(d)(2) of Pub. L. 94–455 applicable to sales, exchanges, or other dispositions after Dec. 31, 1975, in taxable years ending after such date, see section 1101(g)(4) of Pub. L. 94–455, set out as a note under section 995 of this title.
 
 Amendment by section 1901(a)(93) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 

@@ -2,11 +2,11 @@
 
 (a)
 
-Duty to Provide.—A wire or electronic communication service provider shall comply with a request for subscriber information and toll billing records information, or electroniccommunication transactional records in its custody or possession made by the Director of the Federal Bureau of Investigation under subsection (b) of this section.
+Duty to Provide.—A wire or electronic communication service provider shall comply with a request for subscriber information and toll billing records information, or electronic communication transactional records in its custody or possession made by the Director of the Federal Bureau of Investigation under subsection (b) of this section.
 
 (b)
 
-Required Certification.—The Director of the Federal Bureau of Investigation, or his designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director, may, using a term that specifically identifies a person, entity, telephone number, or account as the basis for a request—
+Required Certification.—The Director of the Federal Bureau of Investigation, or his designee in a position not lower than Deputy Assistant Director at Bureau headquarters or aSpecial Agent in Charge in a Bureau field office designated by the Director, may, using a term that specifically identifies a person, entity, telephone number, or account as the basis for a request—
 
 &emsp;(1) request the name, address, length of service, and local and long distance toll billing records of a person or entity if the Director (or his designee) certifies in writing to the wire or electronic communication service provider to which the request is made that the name, address, length of service, and toll billing records sought are relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely on the basis of activities protected by the first amendment to the Constitution of the United States; and
 
@@ -84,7 +84,7 @@ Requirement That Certain Congressional Bodies Be Informed.—On a semiannual bas
 
 (g)
 
-Libraries.—A library (as that term is defined in section 213(1) of the Library Servicesand Technology Act (20 U.S.C. 9122(1)), the services of which include access to the Internet, books, journals, magazines, newspapers, or other similar forms of communication in print or digitally by patrons for their use, review, examination, or circulation, is not a wire or electronic communication service provider for purposes of this section, unless the library is providing the services defined in section 2510(15) ("electronic communication service") of this title.
+Libraries.—A library (as that term is defined in section 213(1) of the Library Services and Technology Act (20 U.S.C. 9122(1)), the services of which include access to the Internet, books, journals, magazines, newspapers, or other similar forms of communication in print or digitally by patrons for their use, review, examination, or circulation, is not a wire or electronic communication service provider for purposes of this section, unless the library is providing the services defined in section 2510(15) ("electronic communication service") of this title.
 
 (Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1867; amended Pub. L. 103–142, Nov. 17, 1993, 107 Stat. 1491; Pub. L. 104–293, title VI, §601(a), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title V, §505(a), Oct. 26, 2001, 115 Stat. 365; Pub. L. 109–177, title I, §116(a), Mar. 9, 2006, 120 Stat. 213; Pub. L. 109–178, §§4(b), 5, Mar. 9, 2006, 120 Stat. 280, 281; Pub. L. 114–23, title V, §§501(a), 502(a), 503(a), June 2, 2015, 129 Stat. 282, 283, 289.)
 

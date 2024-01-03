@@ -214,7 +214,7 @@ Pub. L. 100–647, title VI, §6032(b), Nov. 10, 1988, 102 Stat. 3695, provided 
 
 #### Effective Date
 
-Pub. L. 99–514, title VIII, §801(d), Oct. 22, 1986, 100 Stat. 2348, as amended by Pub. L. 100–647, title I, §1008(a)(5), (6), Nov. 10, 1988, 102 Stat. 3437, provided that:
+Pub. L. 99–514, title VIII, §801(d), Oct. 22, 1986, 100 Stat. 2348, as amended by Pub. L. 100–647, title I,§1008(a)(5), (6), Nov. 10, 1988, 102 Stat. 3437, provided that:
 
 "(1)
 

@@ -48,7 +48,7 @@ In addition to the selection criteria specified in subsection (c), the Secretary
 
 #### (e) High intensity drug trafficking areas
 
-In evaluating the extent of the drug-related crime problem pursuant to subsection (c), the Secretary may consider whether housingprojects proposed for assistance are located in a high intensity drug trafficking area designated pursuant to section 1504 <sup>3</sup> of title 21.
+In evaluating the extent of the drug-related crime problem pursuant to subsection (c), the Secretary may consider whether housing projects proposed for assistance are located in a high intensity drug trafficking area designated pursuant to section 1504 <sup>3</sup> of title 21.
 
 (Pub. L. 100–690, title V, §5125, Nov. 18, 1988, 102 Stat. 4302; Pub. L. 101–625, title V, §581(a), Nov. 28, 1990, 104 Stat. 4246; Pub. L. 102–550, title I, §161(d)(3), Oct. 28, 1992, 106 Stat. 3719; Pub. L. 104–330, title VII, §704(3), Oct. 26, 1996, 110 Stat. 4051; Pub. L. 105–276, title II, §220(3), title V, §586(e), Oct. 21, 1998, 112 Stat. 2488, 2647.)
 

@@ -28,7 +28,7 @@ Priority in carrying out this section shall be given to the activities described
 
 #### (1) Authorization
 
-&emsp;In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a), the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, funds made available pursuant to sections 108 and 109 of Public Law 102–229 or under the amendments made by section 506(a) of this Act.
+&emsp;In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a), the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, funds made available pursuant to sections 108 and 109 of Public Law 102–229 or underthe amendments made by section 506(a) of this Act.
 
 #### (2) Limitation
 
@@ -56,7 +56,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1138\], Nov. 29, 1
 
 "(a)
 
-Authorization.—For fiscal year 2001 and subsequent fiscal years, funds made available under 'Nonproliferation, Antiterrorism, Demining, and Related Programs' accounts in annual foreign operations appropriations Acts are authorized to be available for science and technology centers in the independent states of the former Soviet Union assisted under section 503(a)(5) of the FREEDOM Support Act (22 U.S.C.5853(a)(5)) or section 1412(b)(5) \[former 22 U.S.C. 5902(b)(5)\] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484; 22 U.S.C. 5901 et seq.), including the use of those and other funds by any Federal agency having expertise and programs related to the activities carried out by those centers, including the Departments of Agriculture, Commerce, and Health and Human Services and the Environmental Protection Agency.
+Authorization.—For fiscal year 2001 and subsequent fiscal years, funds made available under 'Nonproliferation, Antiterrorism, Demining, and Related Programs' accounts in annual foreign operations appropriations Acts are authorized to be available for science and technology centers in the independent states of the former Soviet Union assisted under section 503(a)(5) of the FREEDOM Support Act (22 U.S.C. 5853(a)(5)) or section 1412(b)(5) \[former 22 U.S.C. 5902(b)(5)\] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484; 22 U.S.C. 5901 et seq.), including the use of those and other funds by any Federal agency having expertise and programs related to the activities carried out by those centers, including the Departments of Agriculture, Commerce, and Health and Human Services and the Environmental Protection Agency.
 
 "(b)
 

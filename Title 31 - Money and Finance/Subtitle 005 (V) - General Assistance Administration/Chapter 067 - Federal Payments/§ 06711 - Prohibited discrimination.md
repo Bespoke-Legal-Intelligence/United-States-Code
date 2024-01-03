@@ -12,7 +12,7 @@ Additional Prohibitions.—The following prohibitions and exemptions also apply 
 
 &emsp;(2) A prohibition against discrimination against an otherwise qualified handicapped individual under section 504 of the Rehabilitation Act of 1973.
 
-&emsp;(3) A prohibition against discrimination because of religion, or an exemption from thatprohibition, under the Civil Rights Act of 1964 or title VIII of the Act of April 11, 1968 (popularly known as the Civil Rights Act of 1968).
+&emsp;(3) A prohibition against discrimination because of religion, or an exemption from that prohibition, under the Civil Rights Act of 1964 or title VIII of the Act of April 11, 1968 (popularly known as the Civil Rights Act of 1968).
 
 (c)
 

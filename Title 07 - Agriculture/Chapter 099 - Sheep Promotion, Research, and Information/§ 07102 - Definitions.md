@@ -76,7 +76,7 @@ As used in this chapter (unless the context clearly requires otherwise):
 
 #### (19) Producer information
 
-&emsp;The term "producer information" means activities designed to provide producers, feeders, and importers with information relating to production or marketing efficiencies or developments, program activities, or other information that would facilitate an increase in the consumption of sheep or sheep products.
+&emsp;The term "producer information" means activities designed to provide producers, feeders,and importers with information relating to production or marketing efficiencies or developments, program activities, or other information that would facilitate an increase in the consumption of sheep or sheep products.
 
 #### (20) Promotion
 

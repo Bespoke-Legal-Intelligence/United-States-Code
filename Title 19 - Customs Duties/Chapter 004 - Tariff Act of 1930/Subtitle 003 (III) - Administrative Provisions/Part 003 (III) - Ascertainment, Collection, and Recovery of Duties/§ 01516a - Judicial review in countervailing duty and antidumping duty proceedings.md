@@ -88,7 +88,7 @@
 
 &emsp;&emsp;&emsp;(ii) under subsection (g)(12)(D), the day after the date that notice of settlement is published in the Federal Register.
 
-&emsp;&emsp;(E) For a determination described in clause (vii) of paragraph (2)(B), the 31st dayafter the date on which notice of the implementation of the determination is published in the Federal Register.
+&emsp;&emsp;(E) For a determination described in clause (vii) of paragraph (2)(B), the 31st day after the date on which notice of the implementation of the determination is published in the Federal Register.
 
 #### (b) Standards of review
 
@@ -146,7 +146,7 @@ If the cause of action is sustained in whole or in part by a decision of the Uni
 
 &emsp;(2) entries, the liquidation of which was enjoined under subsection (c)(2),
 
-> shall be liquidated in accordance with the final court decision in the action. Such notice of the court decision shall be published within ten days from the date of the issuance of the court decision.
+> shall be liquidated in accordance with the final court decision in the action. Such notice of thecourt decision shall be published within ten days from the date of the issuance of the court decision.
 
 #### (f) Definitions
 
@@ -350,7 +350,7 @@ For purposes of this section—
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;An interested party who was a party to the proceeding in which a determination is made may request binational panel review of such determination by filing a requestwith the United States Secretary by no later than the date that is 30 days after the date described in subparagraph (A), (B), or (E) of subsection (a)(5) that is applicable to such determination. Receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 1904(4) of the Agreement or article 10.12 of the USMCA. Such request shall contain such information and be in such form, manner, and style as the administering authority, in consultation with the Commission, shall prescribe by regulations.
+&emsp;&emsp;&emsp;An interested party who was a party to the proceeding in which a determination is made may request binational panel review of such determination by filing a request with the United States Secretary by no later than the date that is 30 days after the date described in subparagraph (A), (B), or (E) of subsection (a)(5) that is applicable to such determination. Receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 1904(4) of the Agreement or article 10.12 of the USMCA. Such request shall contain such information and be in such form, manner, and style as the administering authority, in consultation with the Commission, shall prescribe by regulations.
 
 #### (ii) Suspension of time to request binational panel review under the USMCA
 
@@ -404,7 +404,7 @@ For purposes of this section—
 
 &emsp;&emsp;If the operation of article 10.12 of the USMCA is suspended in accordance with article 10.13 of the USMCA—
 
-&emsp;&emsp;&emsp;(i) upon the request of an authorized person described in subparagraph (C), any final determination that is the subject of a binational panel review or an extraordinary challenge committee review shall be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a); or
+&emsp;&emsp;&emsp;(i) upon the request of an authorized person described in subparagraph (C), anyfinal determination that is the subject of a binational panel review or an extraordinary challenge committee review shall be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a); or
 
 &emsp;&emsp;&emsp;(ii) in a case in which—
 
@@ -468,7 +468,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (g)(4)(E), (F), are
 
 #### Codification
 
-In the original, section 1001(a) of Pub. L. 96–39 directed that this section, designated as section 516A, be added to title V of the Tariff Act of 1930, however, since a title V of the Tariff Act of 1930 has not been enacted, this section was added to title IV of the Tariff Act of 1930 to reflect the probable intent of Congress.
+In the original, section 1001(a) of Pub. L. 96–39 directed that this section, designated as section 516A, beadded to title V of the Tariff Act of 1930, however, since a title V of the Tariff Act of 1930 has not been enacted, this section was added to title IV of the Tariff Act of 1930 to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -690,13 +690,13 @@ Amendment by Pub. L. 98–573 applicable with respect to civil actions pending o
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note undersection 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1980 Amendments
 
 Pub. L. 96–542, §3, Dec. 17, 1980, 94 Stat. 3210, provided that: "The amendments made by this Act \[amending this section and provisions set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure\] shall be effective as of November 1, 1980."
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending onor commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of title 28.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of title 28.
 
 #### Effective Date; Transitional Rules
 

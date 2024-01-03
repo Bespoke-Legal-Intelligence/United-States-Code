@@ -6,7 +6,7 @@ The Secretary shall promote and strengthen higher education in the food and agri
 
 #### (b) Grants
 
-The Secretary may make competitive grants (or grants without regard to any requirementfor competition) to land-grant colleges and universities (including the University of the District of Columbia), to colleges and universities having significant minority enrollments and a demonstrable capacity to carry out the teaching of food and agricultural sciences, and to other colleges and universities having a demonstrable capacity to carry out the teaching of food and agricultural sciences, for a period not to exceed 5 years—
+The Secretary may make competitive grants (or grants without regard to any requirement for competition) to land-grant colleges and universities (including the University of the District of Columbia), to colleges and universities having significant minority enrollments and a demonstrable capacity to carry out the teaching of food and agricultural sciences, and to other colleges and universities having a demonstrable capacity to carry out the teaching of food and agricultural sciences, for a period not to exceed 5 years—
 
 &emsp;(1) to strengthen institutional capacities, including curriculum, faculty, scientific instrumentation, instruction delivery systems, and student recruitment and retention, to respond to identified State, regional, national, or international educational needs in the food and agricultural sciences, or in rural economic, community, and business development;
 
@@ -36,7 +36,7 @@ In awarding grants under subsection (b), the Secretary shall give priority to—
 
 #### (2) Minority groups
 
-&emsp;The Secretary may set aside a portion of the funds appropriated for the awarding of grants under subsection (b), and make such amounts available only for grants to eligible colleges and universities (including the University of the District of Columbia) that the Secretary determines have unique capabilities for achieving the objective of full representation of minority groups in the food and agricultural sciences workforce, or in the rural economic, community, and business development workforce, of the United States.
+&emsp;The Secretary may set aside a portion of the funds appropriated for the awarding of grantsunder subsection (b), and make such amounts available only for grants to eligible colleges and universities (including the University of the District of Columbia) that the Secretary determines have unique capabilities for achieving the objective of full representation of minority groups in the food and agricultural sciences workforce, or in the rural economic, community, and business development workforce, of the United States.
 
 #### (3) Research foundations
 
@@ -68,7 +68,7 @@ Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapte
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish a National Food and Agricultural Sciences Teaching,Extension, and Research Awards program to recognize and promote excellence in teaching, extension, and research in the food and agricultural sciences at a college or university.
+&emsp;&emsp;The Secretary shall establish a National Food and Agricultural Sciences Teaching, Extension, and Research Awards program to recognize and promote excellence in teaching, extension, and research in the food and agricultural sciences at a college or university.
 
 #### (B) Minimum requirement
 
@@ -140,7 +140,7 @@ There are authorized to be appropriated for carrying out this section—
 
 #### References in Text
 
-The Act of June 29, 1935, referred to in subsec. (h), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly knownas the Bankhead-Jones Act and also as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under section 3101 of this title and Tables.
+The Act of June 29, 1935, referred to in subsec. (h), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and also as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under section 3101 of this title and Tables.
 
 The Food and Agriculture Act of 1977, referred to in subsec. (k), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
@@ -232,7 +232,7 @@ Subsec. (j). Pub. L. 104–127, §805(d)(1), redesignated subsec. (i) as (j).
 
 Subsec. (a)(3). Pub. L. 99–198, §1412(a)(2), substituted "Each recipient institution shall have a significant ongoing commitment to the food and agricultural sciences generally and to the specific subject area for which such grant is to be used." for "Such grants shall be made without regard to matching funds provided by recipients."
 
-Subsec. (d). Pub. L. 99–198, §1412(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read asfollows: "There are hereby authorized to be appropriated for the purposes of carrying out the provisions of this section $25,000,000 for the fiscal year ending September 30, 1978, $30,000,000 for the fiscal year ending September 30, 1979, $35,000,000 for the fiscal year ending September 30, 1980, $40,000,000 for the fiscal year ending September 30, 1981, and $50,000,000 for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985, and not in excess of such sums as may after the date of enactment of this title be authorized by law for any subsequent fiscal year."
+Subsec. (d). Pub. L. 99–198, §1412(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "There are hereby authorized to be appropriated for the purposes of carrying out the provisions of this section $25,000,000 for the fiscal year ending September 30, 1978, $30,000,000 for the fiscal year ending September 30, 1979, $35,000,000 for the fiscal year ending September 30, 1980, $40,000,000 for the fiscal year ending September 30, 1981, and $50,000,000 for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985, and not in excess of such sums as may after the date of enactment of this title be authorized by law for any subsequent fiscal year."
 
 Subsec. (e). Pub. L. 99–198, §1412(c), added subsec. (e).
 

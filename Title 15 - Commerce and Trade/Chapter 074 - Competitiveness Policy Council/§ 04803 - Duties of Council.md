@@ -6,7 +6,7 @@ The Council shall—
 
 &emsp;(2) provide comments, when appropriate, and through any existing comment procedure, on—
 
-&emsp;&emsp;(A) private sector requests for governmental assistance or relief, specifically as towhether the applicant is likely, by receiving the assistance or relief, to become internationally competitive; and
+&emsp;&emsp;(A) private sector requests for governmental assistance or relief, specifically as to whether the applicant is likely, by receiving the assistance or relief, to become internationally competitive; and
 
 &emsp;&emsp;(B) what actions should be taken by the applicant as a condition of such assistance or relief to ensure that the applicant is likely to become internationally competitive;
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Grants awarded under section 11382 of this title to qualified applicants shall be used tocarry out projects that serve homeless individuals or families that consist of one or more of the following eligible activities:
+Grants awarded under section 11382 of this title to qualified applicants shall be used to carry out projects that serve homeless individuals or families that consist of one or more of the following eligible activities:
 
 &emsp;(1) Construction of new housing units to provide transitional or permanent housing.
 
@@ -76,7 +76,7 @@ The Secretary may impose minimum grant terms of up to 5 years for new projects p
 
 #### (2) Prevention of undue benefits
 
-&emsp;Except as provided in paragraph (3), if any property is used for a project that receives assistance under subsection (a) and consists of activities described in paragraph (1) or (2) of subsection (a), and the sale or other disposition of the property occurs before the expiration of the 15-year period beginning on the date that operation of the project begins, the recipient or project sponsor who received the assistance shall comply with such terms and conditions as the Secretary may prescribe to prevent the recipient or project sponsor from unduly benefitting from such sale or disposition.
+&emsp;Except as provided in paragraph (3), if any property is used for a project that receives assistance under subsection (a) and consists of activities described in paragraph (1) or (2) of subsection (a), and the sale or other disposition of the property occurs before the expiration of the 15-year period beginning on the date that operation of the project begins, the recipient or project sponsor who received the assistance shall comply with such terms andconditions as the Secretary may prescribe to prevent the recipient or project sponsor from unduly benefitting from such sale or disposition.
 
 #### (3) Exception
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal ye
 
 #### Effective Date
 
-Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certainfinal regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
+Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
 
 #### Definition
 

@@ -166,7 +166,7 @@ In this section:
 
 #### (C) Eligible entities
 
-&emsp;&emsp;The Secretary may enter into cooperative agreements under subparagraph (A) with industry stakeholders, including any industry stakeholder operating in partnership withthe National Laboratories, institutions of higher education, multiinstitutional collaborations, and other appropriate entities.
+&emsp;&emsp;The Secretary may enter into cooperative agreements under subparagraph (A) with industry stakeholders, including any industry stakeholder operating in partnership with the National Laboratories, institutions of higher education, multiinstitutional collaborations, and other appropriate entities.
 
 #### (D) Commercial-scale demonstration projects
 
@@ -256,7 +256,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) a list of any activities carried out by the Secretary to solicit or evaluate the applications; and
 
-&emsp;&emsp;&emsp;&emsp;(II) a process for ensuring that any projects carried out under a cooperativeagreement entered into under subparagraph (A) are designed to result in the development or demonstration of qualifying technologies.
+&emsp;&emsp;&emsp;&emsp;(II) a process for ensuring that any projects carried out under a cooperative agreement entered into under subparagraph (A) are designed to result in the development or demonstration of qualifying technologies.
 
 #### (ii) Inclusions
 

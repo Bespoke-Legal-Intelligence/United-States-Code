@@ -164,9 +164,9 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 #### (c) Plan amendments altering vesting schedule
 
-(1)(A) A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
+(1)(A) A plan amendment changing any vesting schedule under the plan shall be treated as notsatisfying the requirements of subsection (a)(2) if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
 
-(B) A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) unless each participant having not less than 3 years of service is permitted to elect, within a reasonable period after adoption of such amendment, to have his nonforfeitable percentagecomputed under the plan without regard to such amendment.
+(B) A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) unless each participant having not less than 3 years of service is permitted to elect, within a reasonable period after adoption of such amendment, to have his nonforfeitable percentage computed under the plan without regard to such amendment.
 
 (2) Subsection (a) shall not apply to benefits which may not be provided for designated employees in the event of early termination of the plan under provisions of the plan adopted pursuant to regulations prescribed by the Secretary of the Treasury to preclude the discrimination prohibited by section 401(a)(4) of title 26.
 
@@ -176,7 +176,7 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 
 #### (e) Consent for distribution; present value; covered distributions
 
-(1) If the present value of any nonforfeitable benefit with respect to a participant in a plan exceeds $5,000, the plan shall provide that such benefit may not be immediately distributed without the consent of the participant.
+(1) If the present value of any nonforfeitable benefit with respect to a participant in a plan exceeds $7,000, the plan shall provide that such benefit may not be immediately distributed without the consent of the participant.
 
 (2) For purposes of paragraph (1), the present value shall be calculated in accordance with section 1055(g)(3) of this title.
 
@@ -220,7 +220,7 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 
 #### <i>"(4) Part-time employees</i>
 
-&emsp;<i>"For purposes of determining whether an employee who became eligible to participate in a qualified cash or deferred arrangement or a salary reduction agreement under a plan solely by reason of section 1052(c)(1)(B) of this title has a nonforfeitable right to employer contributions—</i>
+&emsp;<i>"For purposes of determining whether an employee who became eligible to participate in a</i><i>qualified cash or deferred arrangement or a salary reduction agreement under a plan solely by reason of section 1052(c)(1)(B) of this title has a nonforfeitable right to employer contributions—</i>
 
 &emsp;&emsp;<i>"(A) except as provided in subparagraph (B), each 12-month period for which the employee has at least 500 hours of service shall be treated as a year of service; and</i>
 
@@ -229,10 +229,6 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 > <i>For purposes of this paragraph, 12-month periods shall be determined in the same manner as under the last sentence of section 1052(a)(3)(A) of this title, except that 12-month periods beginning before January 1, 2023, shall not be taken into account."</i>
 
 <i>See 2022 Amendment note below.</i>
-
-#### Amendment of Subsection (e)(1)
-
-<i>Pub. L. 117–328, div. T, title III, §304, Dec. 29, 2022, 136 Stat. 5341, provided that, applicable to distributions made after Dec. 31, 2023, subsection (e)(1) of this section is amended by striking "$5,000" and inserting "$7,000". See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -314,9 +310,9 @@ Subsec. (e)(2). Pub. L. 101–239, §7891(b)(1), (2), realigned margins of subpa
 
 Subsec. (e)(3). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §1113(e)(1), amended par. (2) generally, substituting provisions covering 5-year vesting, 3- to 7-year vesting, and multiemployer plans, for former provisions which covered 10-year vesting, 5- to 15-year vesting, and the "rule of 45" under which a plan satisfied the requirements of this paragraph if an employee who had completed at least 5 years of service and with respect to whom the sum of his age and years of service equalled or exceeded 45 had a right to a percentage of his accrued benefits derived from employer contributions.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §1113(e)(1), amended par. (2) generally, substituting provisions covering 5-year vesting, 3- to 7-year vesting, and multiemployer plans, for former provisions which covered 10-year vesting, 5- to 15-year vesting, and the "rule of 45" underwhich a plan satisfied the requirements of this paragraph if an employee who had completed at least 5 years of service and with respect to whom the sum of his age and years of service equalled or exceeded 45 had a right to a percentage of his accrued benefits derived from employer contributions.
 
-Subsec. (a)(3)(D)(ii). Pub. L. 99–514, §1898(a)(4)(B)(i), inserted last sentence and struck out former last sentence which read as follows: "In the case of a defined contribution plan the plan provision required underthis clause may provide that such repayment must be made before the participant has any 1-year break in service commencing after the withdrawal."
+Subsec. (a)(3)(D)(ii). Pub. L. 99–514, §1898(a)(4)(B)(i), inserted last sentence and struck out former last sentence which read as follows: "In the case of a defined contribution plan the plan provision required under this clause may provide that such repayment must be made before the participant has any 1-year break in service commencing after the withdrawal."
 
 Subsec. (c)(1)(B). Pub. L. 99–514, §1113(e)(4)(A), substituted "3 years" for "5 years".
 
@@ -382,7 +378,7 @@ Amendment by Pub. L. 104–188 applicable to plan years beginning on or after th
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994, except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment, see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994,except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment, see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

@@ -10,7 +10,7 @@ Not later than 30 days after December 20, 2019, and updated semimonthly thereaft
 
 &emsp;&emsp;(B) torture, as defined in section 208.30 of title 8, Code of Federal Regulations (as in effect on January 1, 2018);
 
-&emsp;(2) the total number of cases received by U.S. Citizenship and Immigration Services to adjudicate credible or reasonable fear claims,as described in paragraph (1), and the total number of cases closed.
+&emsp;(2) the total number of cases received by U.S. Citizenship and Immigration Services to adjudicate credible or reasonable fear claims, as described in paragraph (1), and the total number of cases closed.
 
 #### (b) Disaggregation of data
 

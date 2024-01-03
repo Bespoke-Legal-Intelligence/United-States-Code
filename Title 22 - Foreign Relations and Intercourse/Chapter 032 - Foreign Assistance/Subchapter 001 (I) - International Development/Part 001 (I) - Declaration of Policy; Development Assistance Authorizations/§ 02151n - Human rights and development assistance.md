@@ -10,7 +10,7 @@ In determining whether this standard is being met with regard to funds allocated
 
 #### (b) <sup>1</sup> Protection of children from exploitation
 
-No assistance may be provided under subchapter I of this chapter, and no support may be provided under subchapter II of chapter 103 of this title, to any government failing to take appropriate and adequate measures, within their means, to protect children from exploitation, abuse or forced conscription into military or paramilitary services.
+No assistance may be provided under subchapter I of this chapter, and no support may be provided under subchapter II of chapter 103 ofthis title, to any government failing to take appropriate and adequate measures, within their means, to protect children from exploitation, abuse or forced conscription into military or paramilitary services.
 
 #### (c) Factors considered
 
@@ -88,7 +88,19 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;&emsp;&emsp;(i) whether government authorities of each such country participate in, facilitate, or condone such violations of the freedom of the press; and
 
-&emsp;&emsp;&emsp;(ii) what steps the government of each such country has taken to preserve thesafety and independence of the media, and to ensure the prosecution of those individuals who attack or murder journalists.
+&emsp;&emsp;&emsp;(ii) what steps the government of each such country has taken to preserve the safety and independence of the media, and to ensure the prosecution of those individuals who attack or murder journalists.
+
+&emsp;(13) Wherever applicable, a description of the nature and extent of acts of transnational repression that occurred during the preceding year, including identification of—
+
+&emsp;&emsp;(A) incidents in which a government harassed, intimidated, or killed individuals outside of their internationally recognized borders and the patterns of such repression among repeat offenders;
+
+&emsp;&emsp;(B) countries in which such transnational repression occurs and the role of the governments of such countries in enabling, preventing, mitigating, and responding to such acts;
+
+&emsp;&emsp;(C) the tactics used by the governments of countries identified pursuant to subparagraph (A), including the actions identified and any new techniques observed;
+
+&emsp;&emsp;(D) in the case of digital surveillance and harassment, the type of technology or platform, including social media, smart city technology, health tracking systems, general surveillance technology, and data access, transfer, and storage procedures, used by the governments of countries identified pursuant to subparagraph (A) for such actions; and
+
+&emsp;&emsp;(E) groups and types of individuals targeted by acts of transnational repression in each country in which such acts occur.
 
 #### (e) Promotion of civil and political rights
 
@@ -138,7 +150,7 @@ The President is authorized and encouraged to use not less than $3,000,000 of th
 
 &emsp;&emsp;(B) younger than 18 years of age, if no such law exists.
 
-(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L.103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471; Pub. L. 106–386, div. A, §104(a), Oct. 28, 2000, 114 Stat. 1471; Pub. L. 107–228, div. A, title VI, §§665(a), 683(a), Sept. 30, 2002, 116 Stat. 1406, 1410; Pub. L. 108–332, §6(a)(1), Oct. 16, 2004, 118 Stat. 1285; Pub. L. 111–166, §2(1), May 17, 2010, 124 Stat. 1186; Pub. L. 113–4, title XII, §1207(b)(1), Mar. 7, 2013, 127 Stat. 141; Pub. L. 115–254, div. F, title VI, §1470(j)(1), Oct. 5, 2018, 132 Stat. 3516.)
+(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471; Pub. L. 106–386, div. A, §104(a), Oct. 28, 2000, 114 Stat. 1471; Pub. L. 107–228, div. A, title VI, §§665(a), 683(a), Sept. 30, 2002, 116 Stat. 1406, 1410; Pub. L. 108–332, §6(a)(1), Oct. 16, 2004, 118 Stat. 1285; Pub. L. 111–166, §2(1), May 17, 2010, 124 Stat. 1186; Pub. L. 113–4, title XII, §1207(b)(1), Mar. 7, 2013, 127 Stat. 141; Pub. L. 115–254, div. F, title VI, §1470(j)(1), Oct. 5, 2018, 132 Stat. 3516; Pub. L. 118–31, div. F, title LXVII, §6707(a)(2), Dec. 22, 2023, 137 Stat. 1018.)
 
 #### <b>Editorial Notes</b>
 
@@ -153,6 +165,8 @@ Section 2(a) of the Genocide Convention Implementation Act of 1987, referred to 
 The amendment by section 102(d)(1) of Pub. L. 105–292 was executed before the amendment by Pub. L. 105–277 to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d)(13). Pub. L. 118–31 added par. (13).
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §1470(j)(1)(A), inserted ", and no support may be provided under subchapter II of chapter 103 of this title," after "subchapter I of this chapter".
 
@@ -218,7 +232,7 @@ Subsec. (f)(2)(B). Pub. L. 99–631 substituted "subsection" for "paragraph".
 
 Subsec. (g). Pub. L. 99–440, §202(b), added subsec. (g).
 
-<b>1983</b>—Subsec. (e). Pub. L. 98–164, §1002(a), designated existing provisions as par. (1), substituted "$3,000,000 ofthe funds made available under this part and part IV of subchapter II of this chapter for each fiscal year" for "$1,500,000 of the funds made available under this part for each of the fiscal years 1982 and 1983", and added par. (2).
+<b>1983</b>—Subsec. (e). Pub. L. 98–164, §1002(a), designated existing provisions as par. (1), substituted "$3,000,000 of the funds made available under this part and part IV of subchapter II of this chapter for each fiscal year" for "$1,500,000 of the funds made available under this part for each of the fiscal years 1982 and 1983", and added par. (2).
 
 <b>1981</b>—Subsec. (e). Pub. L. 97–113 substituted "each of the fiscal years 1982 and 1983" for "the fiscal year 1981".
 
@@ -256,7 +270,7 @@ Pub. L. 108–332, §6(c), Oct. 16, 2004, 118 Stat. 1286, provided that:"The ame
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department ofState when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -270,6 +284,24 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
 
+#### Modification and Repeal of Reports
+
+Pub. L. 118–31, div. F, title LXVII, §6707(a)(1), Dec. 22, 2023, 137 Stat. 1017, provided that:
+
+"(a)
+
+Country Reports on Human Rights Practices.—
+
+&emsp;"(1)
+
+In general.—The Secretary \[of State\] shall examine the production of the 2023 and subsequent annual Country Reports on Human Rights Practices by the Assistant Secretary for Democracy, Human Rights, and Labor as required under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d), 2304(b)) to maximize—
+
+&emsp;&emsp;"(A) cost and personnel efficiencies;
+
+&emsp;&emsp;"(B) the potential use of data and analytic tools and visualization; and
+
+&emsp;&emsp;"(C) advancement of the modernization agenda for the Department \[of State\] announced by the Secretary on October 27, 2021."
+
 #### Annual Report on Advancing Freedom and Democracy
 
 Pub. L. 107–228, div. A, title VI, §665(c), Sept. 30, 2002, 116 Stat. 1407, as amended by Pub. L. 110–53, title XXI, §2121(b), (d), Aug. 3, 2007, 121 Stat. 532, provided that: "The information to be included in the report required by sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d), 2304(b)\] pursuant to the amendments made by subsections (a) and (b) \[amending this section and section 2304 of this title\] may be submitted by the Secretary as a separate report entitled the Annual Report on Advancing Freedom and Democracy. If the Secretary elects to submit such information as a separate report, such report shall be submitted not later than 90 days after the date of submission of the report required by section \[sic\] 116(d) and 502B(b) of the Foreign Assistance Act of 1961."
@@ -278,25 +310,7 @@ Pub. L. 107–228, div. A, title VI, §665(c), Sept. 30, 2002, 116 Stat. 1407, a
 
 #### Annual Reports on United States-Vietnam Human Rights Dialogue Meetings
 
-Pub. L. 107–228, div. A, title VI, §702, Sept. 30, 2002, 116 Stat. 1420, provided that: "Not later than December 31 of each year or 60 days after the second United States-Vietnam human rights dialogue meeting held in a calendar year, whichever is earlier, the Secretary shall submit to the appropriate congressional committees a report covering the issues discussed at the previous two meetings and describing to what extent the Government of Vietnam has made progress during the calendar year toward achieving the following objectives:
-
-&emsp;"(1) Improving the Government of Vietnam's commercial and criminal codes to bring them into conformity with international standards, including the repeal of the Government of Vietnam's administrative detention decree (Directive 31/CP).
-
-&emsp;"(2) Releasing political and religious activists who have been imprisoned or otherwise detained by the Government of Vietnam, and ceasing surveillance and harassment of those who have been released.
-
-&emsp;"(3) Ending official restrictions on religious activity, including implementing the recommendations of the United Nations Special Rapporteur on Religious Intolerance.
-
-&emsp;"(4) Promoting freedom for the press, including freedom of movement of members of the Vietnamese and foreign press.
-
-&emsp;"(5) Improving prison conditions and providing transparency in the penal system of Vietnam, including implementing the recommendations of the United Nations Working Group on Arbitrary Detention.
-
-&emsp;"(6) Respecting the basic rights of indigenous minority groups, especially in the central and northern highlands of Vietnam.
-
-&emsp;"(7) Respecting the basic rights of workers, including working with the International Labor Organization to improve mechanisms for promoting such rights.
-
-&emsp;"(8) Cooperating with requests by the United States to obtain full and free access to persons who may be eligible for admission to the United States as refugees or immigrants, and allowing such persons to leave Vietnam without being subjected to extortion or other corrupt practices."
-
-\[For definitions of "Secretary" and "appropriate congressional committees" as used in section 702 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+Pub. L. 107–228, div. A, title VI, §702, Sept. 30, 2002, 116 Stat. 1420, which required the Secretary of State to submit to the appropriate congressional committees an annual report of issues discussed at the previous two United States-Vietnam human rights dialogue meetings and progress made during the calendar year toward achieving objectives, not later than December 31 of each year or 60 days after the second meeting, whichever was earlier, was repealed by Pub. L. 118–31, div. F, title LXVII, §6707(b)(4), Dec. 22, 2023, 137 Stat. 1019.
 
 #### Assistance for Promoting Religious Freedom
 

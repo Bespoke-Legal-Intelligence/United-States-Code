@@ -12,7 +12,7 @@ The responsible party or the responsible party's guarantor is liable to a claima
 
 #### (2) Exclusion of period due to offer by guarantor
 
-&emsp;If the guarantor offers to the claimant an amount equal to or greater than that finally paid in satisfaction of the claim, the period described in paragraph (1) does not include theperiod beginning on the date the offer is made and ending on the date the offer is accepted. If the offer is made within 60 days after the date on which the claim is presented under section 2713(a) of this title, the period described in paragraph (1) does not include any period before the offer is accepted.
+&emsp;If the guarantor offers to the claimant an amount equal to or greater than that finally paid in satisfaction of the claim, the period described in paragraph (1) does not include the period beginning on the date the offer is made and ending on the date the offer is accepted. If the offer is made within 60 days after the date on which the claim is presented under section 2713(a) of this title, the period described in paragraph (1) does not include any period before the offer is accepted.
 
 #### (3) Exclusion of periods in interests of justice
 
@@ -52,5 +52,5 @@ This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 S
 
 <b>1996</b>—Pub. L. 104–324, §1142(a)(1), inserted "; partial payment of claims" after "Interest" in section catchline.
 
-Subsec. (a). Pub. L. 104–324, §1142(a)(2), inserted at end "The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim."
+Subsec. (a). Pub. L. 104–324, §1142(a)(2), inserted at end "The responsible party shall establish a procedurefor the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim."
 

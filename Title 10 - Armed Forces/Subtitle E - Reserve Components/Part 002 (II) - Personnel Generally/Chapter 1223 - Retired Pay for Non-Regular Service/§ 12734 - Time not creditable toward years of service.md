@@ -48,7 +48,7 @@ In subsection (b), 10:1036c (proviso of last sentence, less applicability to ina
 
 #### 1962 Act
 
-The change conforms section 1334(b) of title 10 to the source law, the last sentence of section 304 of the Army and Air Force Vitalization and Retirement Equalization Act of 1948 (62 Stat. 1089). Section 305 makes the change retroactive to August 10, 1956, the date of repeal of the source law by the original military codification act of that date.
+The change conforms section 1334(b) of title 10 to the source law, the last sentence of section 304 of the Army and Air Force Vitalization and Retirement Equalization Act of 1948 (62 Stat. 1089). Section 305 makes thechange retroactive to August 10, 1956, the date of repeal of the source law by the original military codification act of that date.
 
 #### <b>Editorial Notes</b>
 

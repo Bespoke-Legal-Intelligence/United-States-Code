@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to the limitation under subsection (f), the Secretary shall provide additional benefits to eligible individuals selected by the Secretary under this section. Such benefits shall be known as the "Edith Nourse Rogers STEM Scholarship".
+In General.—Subject to the limitation under subsection (f), the Secretary shall provideadditional benefits to eligible individuals selected by the Secretary under this section. Such benefits shall be known as the "Edith Nourse Rogers STEM Scholarship".
 
 (b)
 

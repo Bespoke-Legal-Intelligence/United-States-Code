@@ -88,7 +88,7 @@ Notwithstanding section 6013(d)(3)—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;For purposes of clause (i), except as provided in subclause (II), any transferwhich is made after the date which is 1 year before the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals is sent shall be presumed to have as its principal purpose the avoidance of tax or payment of tax.
+&emsp;&emsp;&emsp;&emsp;For purposes of clause (i), except as provided in subclause (II), any transfer which is made after the date which is 1 year before the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals is sent shall be presumed to have as its principal purpose the avoidance of tax or payment of tax.
 
 #### (II) Exceptions
 
@@ -162,7 +162,7 @@ For purposes of subsection (c)—
 
 #### (ii) Authority to enjoin collection actions
 
-&emsp;&emsp;&emsp;Notwithstanding the provisions of section 7421(a), the beginning of such levy or proceeding during the time the prohibition under clause (i) is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Courtshall have no jurisdiction under this subparagraph to enjoin any action or proceeding unless a timely petition has been filed under subparagraph (A) and then only in respect of the amount of the assessment to which the election under subsection (b) or (c) relates or to which the request under subsection (f) relates.
+&emsp;&emsp;&emsp;Notwithstanding the provisions of section 7421(a), the beginning of such levy or proceeding during the time the prohibition under clause (i) is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this subparagraph to enjoin any action or proceeding unless a timely petition has been filed under subparagraph (A) and then only in respect of the amount of the assessment to which the election under subsection (b) or (c) relates or to which the request under subsection (f) relates.
 
 #### (2) Suspension of running of period of limitations
 
@@ -312,7 +312,7 @@ Pub. L. 114–113, div. Q, title IV, §424(a)(2), Dec. 18, 2015, 129 Stat. 3124,
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. C, title IV, §408(c), Dec. 20, 2006, 120 Stat. 3062, provided that: "The amendments madeby this section \[amending this section\] shall apply with respect to liability for taxes arising or remaining unpaid on or after the date of the enactment of this Act \[Dec. 20, 2006\]."
+Pub. L. 109–432, div. C, title IV, §408(c), Dec. 20, 2006, 120 Stat. 3062, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to liability for taxes arising or remaining unpaid on or after the date of the enactment of this Act \[Dec. 20, 2006\]."
 
 #### Effective Date of 2000 Amendment
 

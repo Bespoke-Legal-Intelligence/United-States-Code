@@ -10,7 +10,7 @@ Whenever the President finds it in the national interest to do so, he may cause 
 
 #### (c) Creation of corporations and organization of other partnerships, joint ventures, or associations by private persons
 
-Nothing in this chapter shall be construed to preclude private persons from creating other corporations and organizing other partnerships, joint ventures, or associations for the purposes set forth in this chapter as the purposes of the corporation and the partnership described in section 3937 of this title.
+Nothing in this chapter shall be construed to preclude private persons from creating othercorporations and organizing other partnerships, joint ventures, or associations for the purposes set forth in this chapter as the purposes of the corporation and the partnership described in section 3937 of this title.
 
 (Pub. L. 90–448, title IX, §902, Aug. 1, 1968, 82 Stat. 547.)
 

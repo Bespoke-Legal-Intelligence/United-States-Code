@@ -70,9 +70,17 @@ Use of Center of Excellence for Unmanned Aircraft Systems.—The Administrator, 
 
 (h)
 
-Termination.—The program under this section shall terminate on September 30, 2023.
+Termination.—The program under this section shall terminate on March 8, 2024.
 
-(Added Pub. L. 115–254, div. B, title III, §343(a), Oct. 5, 2018, 132 Stat. 3288.)
+(Added Pub. L. 115–254, div. B, title III, §343(a), Oct. 5, 2018, 132 Stat. 3288; amended Pub. L. 118–15, div. B, title II, §2202(b), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(b), Dec. 26, 2023, 137 Stat. 1113.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2023</b>—Subsec. (h). Pub. L. 118–34 substituted "March 8, 2024" for "December 31, 2023".
+
+Pub. L. 118–15 substituted "December 31, 2023" for "September 30, 2023".
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

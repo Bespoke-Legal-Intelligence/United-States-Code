@@ -36,7 +36,7 @@ The Board and the standard setting body referred to in subsection (a) shall each
 
 The annual accounting support fee for the standard setting body referred to in subsection (a)—
 
-&emsp;(1) shall be allocated in accordance with subsection (g), and assessed and collected against each issuer, on behalf of the standard setting body, by 1 or more appropriate designated collection agents, as may be necessary or appropriate to pay for the budget and provide for the expenses of that standard setting body, and to provide for an independent, stable source of funding for such body, subject to review by the Commission; and
+&emsp;(1) shall be allocated in accordance with subsection (g), and assessed and collected against each issuer, on behalf of the standard setting body, by 1 or more appropriate designated collection agents, as may be necessary or appropriate to pay for the budget and provide for the expenses of that standard setting body,and to provide for an independent, stable source of funding for such body, subject to review by the Commission; and
 
 &emsp;(2) may differentiate among different classes of issuers.
 
@@ -46,7 +46,7 @@ The amount of fees collected under this section for a fiscal year on behalf of t
 
 #### (g) Allocation of accounting support fees among issuers
 
-Any amount due from issuers (or a particular class of issuers) under this section to fund thebudget of the Board or the standard setting body referred to in subsection (a) shall be allocated among and payable by each issuer (or each issuer in a particular class, as applicable) in an amount equal to the total of such amount, multiplied by a fraction—
+Any amount due from issuers (or a particular class of issuers) under this section to fund the budget of the Board or the standard setting body referred to in subsection (a) shall be allocated among and payable by each issuer (or each issuer in a particular class, as applicable) in an amount equal to the total of such amount, multiplied by a fraction—
 
 &emsp;(1) the numerator of which is the average monthly equity market capitalization of the issuer for the 12-month period immediately preceding the beginning of the fiscal year to which such budget relates; and
 

@@ -16,7 +16,7 @@
 
 #### (4) Notice from the Attorney General
 
-&emsp;The Attorney General shall, when funds are appropriated to the Fund for payments to aneligible individual under this section, notify that eligible individual in writing of his or her eligibility for payment under this section. Such notice shall inform the eligible individual that—
+&emsp;The Attorney General shall, when funds are appropriated to the Fund for payments to an eligible individual under this section, notify that eligible individual in writing of his or her eligibility for payment under this section. Such notice shall inform the eligible individual that—
 
 &emsp;&emsp;(A) acceptance of payment under this section shall be in full satisfaction of all claims against the United States arising out of acts described in section 4218(2)(B) of this title, and
 

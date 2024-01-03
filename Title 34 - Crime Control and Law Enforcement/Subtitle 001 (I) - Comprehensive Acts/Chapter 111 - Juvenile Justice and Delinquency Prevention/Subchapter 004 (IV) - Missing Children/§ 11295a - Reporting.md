@@ -2,7 +2,7 @@
 
 #### (a) Required reporting
 
-As a condition of receiving funds under section 11293(b) of this title, the grant recipient shall, based solely on reports received by the grantee and not involving any data collection by the grantee other than those reports, annually provide to the Administrator and make available to the general public, as appropriate—
+As a condition of receiving funds under section 11293(b) of this title, the grant recipient shall,based solely on reports received by the grantee and not involving any data collection by the grantee other than those reports, annually provide to the Administrator and make available to the general public, as appropriate—
 
 &emsp;(1) the number of children nationwide who are reported to the grantee as missing;
 

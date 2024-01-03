@@ -50,7 +50,7 @@ Best Practices Guidelines.—
 
 &emsp;(1)
 
-Uniform guidelines.—The Secretary shall issue uniform management review guidelines and program review guidelines based onthe report under subsection (d). Each regional office shall use the guidelines in executing its State administrative review duties under this section.
+Uniform guidelines.—The Secretary shall issue uniform management review guidelines and program review guidelines based on the report under subsection (d). Each regional office shall use the guidelines in executing its State administrative review duties under this section.
 
 &emsp;(2)
 

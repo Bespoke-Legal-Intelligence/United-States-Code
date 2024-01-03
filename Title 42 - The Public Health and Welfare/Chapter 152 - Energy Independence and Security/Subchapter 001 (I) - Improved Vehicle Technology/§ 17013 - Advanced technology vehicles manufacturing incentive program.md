@@ -144,7 +144,7 @@ An award under subsection (b) shall apply to—
 
 &emsp;&emsp;&emsp;(ii) 25 years;
 
-&emsp;&emsp;(C) may be subject to a deferral in repayment for not more than 5 years after the date on which the eligible project carried out using funds from the loan first begins operations, as determined by the Secretary;
+&emsp;&emsp;(C) may be subject to a deferral in repayment for not more than 5 years after thedate on which the eligible project carried out using funds from the loan first begins operations, as determined by the Secretary;
 
 &emsp;&emsp;(D) shall be made by the Federal Financing Bank; and
 
@@ -182,7 +182,7 @@ The Secretary shall, in making awards or loans to those manufacturers that have 
 
 #### (i) Appointment and pay of personnel
 
-(1) The Secretary may use direct hiring authority pursuant to section 3304(a)(3) of title 5 to appoint such professional and administrativepersonnel as the Secretary deems necessary to the discharge of the Secretary's functions under this section.
+(1) The Secretary may use direct hiring authority pursuant to section 3304(a)(3) of title 5 to appoint such professional and administrative personnel as the Secretary deems necessary to the discharge of the Secretary's functions under this section.
 
 (2) The rate of pay for a person appointed pursuant to paragraph (1) shall not exceed the maximum rate payable for GS-15 of the General Schedule under chapter 53 such <sup>3</sup> title 5.
 

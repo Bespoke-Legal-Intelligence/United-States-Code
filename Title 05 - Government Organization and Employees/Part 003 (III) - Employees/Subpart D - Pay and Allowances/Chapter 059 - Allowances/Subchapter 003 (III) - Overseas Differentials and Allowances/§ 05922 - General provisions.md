@@ -30,7 +30,7 @@
 
 (f)(1) If an employee dies at post in a foreign area, a transfer allowance under section 5924(2)(B) may be granted to the spouse or dependents of such employee (or both) for the purpose of providing for their return to the United States.
 
-(2) A transfer allowance under this subsection may not be granted with respect to the spouse or a dependent of the employee unless, at the time of death, such spouse or dependent was residing—
+(2) A transfer allowance under this subsection may not be granted with respect to the spouseor a dependent of the employee unless, at the time of death, such spouse or dependent was residing—
 
 &emsp;(A) at the employee's post of assignment; or
 

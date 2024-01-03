@@ -20,5 +20,5 @@ This chapter, referred to in par. (2), was in the original "this Act", meaning P
 
 #### Change of Name
 
-Reference to Under Secretary of Transportation for Security deemed to refer to Administrator of the Transportation Security Administration, see section 1994 of Pub. L. 115–254, set out as a note under section 114 of Title 49, Transportation.
+Reference to Under Secretary of Transportation for Security deemed to refer to Administrator of the Transportation Security Administration, see section1994 of Pub. L. 115–254, set out as a note under section 114 of Title 49, Transportation.
 

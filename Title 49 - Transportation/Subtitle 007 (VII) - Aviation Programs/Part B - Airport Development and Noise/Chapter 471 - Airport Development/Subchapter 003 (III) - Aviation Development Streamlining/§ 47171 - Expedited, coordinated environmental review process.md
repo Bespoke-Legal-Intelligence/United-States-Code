@@ -94,7 +94,7 @@ Notification of congress and ceq.— If the Secretary determines that a Federal 
 
 &emsp;(2)
 
-Agency report.—Not later than 30 days after date of receipt of a notice under paragraph (1), the agency or sponsor involved shall submit a report to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Council on Environmental Quality explaining why the agency or sponsor did not meet the deadline and what actions it intends to take to complete or issue the required review, analysis, opinion, permit, license, or approval.
+Agency report.—Not later than 30 days after date of receipt of a notice under paragraph (1), the agency or sponsor involved shall submit a report to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Council on Environmental Quality explaining why the agency or sponsor did not meet the deadline and whatactions it intends to take to complete or issue the required review, analysis, opinion, permit, license, or approval.
 
 (j)
 

@@ -26,7 +26,7 @@ In carrying out this section, the Secretary shall—
 
 #### (d) Disposition of removed sediment
 
-In exchange for providing services under subsection (a), a non-Federal interest or commercial entity is authorized to retain, use, recycle, sell, or otherwise dispose of any sediment removed in connection with the services and the Corps of Engineers may not seek any compensation for the value of the sediment.
+In exchange for providing services under subsection (a), a non-Federal interest or commercial entity is authorized to retain, use, recycle, sell, or otherwise dispose of any sediment removed in connection with the services and theCorps of Engineers may not seek any compensation for the value of the sediment.
 
 #### (e) Congressional notification
 

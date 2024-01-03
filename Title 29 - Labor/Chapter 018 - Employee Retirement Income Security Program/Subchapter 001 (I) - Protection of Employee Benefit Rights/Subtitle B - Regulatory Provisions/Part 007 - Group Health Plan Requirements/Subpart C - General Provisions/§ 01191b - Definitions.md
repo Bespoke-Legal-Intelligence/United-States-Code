@@ -6,7 +6,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;The term "group health plan" means an employee welfare benefit plan to the extent that the plan provides medical care (as defined in paragraph (2) and including items and services paid for as medical care) to employees or their dependents (as defined under the terms of the plan) directly or through insurance, reimbursement, or otherwise. Such term shall not include any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of title 26).
+&emsp;The term "group health plan" means an employee welfare benefit plan to the extent that the plan provides medical care (as defined in paragraph (2) and including items and services paid for as medical care) to employees or their dependents (as defined under the terms of the plan) directly or through insurance, reimbursement, or otherwise. Such term shall notinclude any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of title 26).
 
 #### (2) Medical care
 
@@ -42,7 +42,7 @@ For purposes of this part—
 
 #### (4) Group health insurance coverage
 
-&emsp;The term "group health insurance coverage" means, in connection with a group healthplan, health insurance coverage offered in connection with such plan.
+&emsp;The term "group health insurance coverage" means, in connection with a group health plan, health insurance coverage offered in connection with such plan.
 
 #### (c) Excepted benefits
 

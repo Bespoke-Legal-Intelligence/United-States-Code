@@ -58,7 +58,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### (B) Lump-sum payment
 
-&emsp;&emsp;Any balance of such amounts not so required for such a deposit shall be refunded to the participant in a lump sum after the participant's separation (or, in the event of a death in service, to a beneficiary in order of precedence specified in subsection <sup>1</sup> 2071(c) of this title), subject to prior notification of a current spouse, if any, unless the participant establishes to the satisfaction of the Director, in accordance with regulations which the Director may prescribe, that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the current spouse.
+&emsp;&emsp;Any balance of such amounts not so required for such a deposit shall be refunded to the participant in a lump sum after the participant's separation (or, in the event of a death in service, to a beneficiary in order of precedence specified in section 2071(c) of this title), subject to prior notification of a current spouse, if any, unless the participant establishes to the satisfaction of the Director, in accordance with regulations which the Director may prescribe, that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the current spouse.
 
 #### (C) Purchases of additional elective benefits
 
@@ -88,19 +88,21 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 &emsp;&emsp;(B) the amount of the taxes deducted and withheld from such basic pay under section 3101(a) of title 26 (relating to old-age, survivors, and disability insurance) for that pay period.
 
-(Pub. L. 88–643, title II, §211, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3202; amended Pub. L. 103–178, title II, §202(a)(3), Dec. 3, 1993, 107 Stat. 2026; Pub. L. 112–96, title V, §5003, Feb. 22, 2012, 126 Stat. 200.)
+(Pub. L. 88–643, title II, §211, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3202; amended Pub. L. 103–178, title II, §202(a)(3), Dec. 3, 1993, 107 Stat. 2026; Pub. L. 112–96, title V, §5003, Feb. 22, 2012, 126 Stat. 200; Pub. L. 118–31, div. G, title IX, §7901(d)(1), Dec. 22, 2023, 137 Stat. 1106.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. TitleII of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
 A prior section 211 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045; Pub. L. 91–185, §1, Dec. 30, 1969, 83 Stat. 847; Pub. L. 97–269, title VI, §611, Sept. 27, 1982, 96 Stat. 1153; Pub. L. 99–335, title V, §§501(2), 502, June 6, 1986, 100 Stat. 622, 623; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, related to compulsory contributions to the fund and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c)(2)(B). Pub. L. 118–31 substituted "section 2071(c)" for "subsection 2071(c)".
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–96 added pars. (1) to (3), redesignated former par. (3) as (4), and struck out former pars. (1) and (2) which related to participant's contributions and agency contributions, respectively.
 
@@ -136,6 +138,4 @@ Individual deductions, withholdings, and deposits.—Notwithstanding \[former\] 
 | :--- | :---: | ---: |
 | &nbsp; | 7\.25 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 7\.4 | January 1, 2000, to December 31, 2000." |
-
-<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

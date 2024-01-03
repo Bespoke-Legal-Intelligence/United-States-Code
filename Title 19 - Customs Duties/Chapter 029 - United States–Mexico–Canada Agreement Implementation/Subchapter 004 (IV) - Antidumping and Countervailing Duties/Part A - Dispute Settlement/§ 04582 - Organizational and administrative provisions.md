@@ -86,7 +86,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the "appropriate Congressional Committees") the preliminary candidate lists of those individuals selected by the Trade Representative under subparagraph (A) to be candidates eligible to serve on panels or committees convened pursuant to chapter 10 during the 1-year period beginning on April 1 of such calendar year.
+&emsp;&emsp;&emsp;No later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways andMeans of the House of Representatives (hereafter in this section referred to as the "appropriate Congressional Committees") the preliminary candidate lists of those individuals selected by the Trade Representative under subparagraph (A) to be candidates eligible to serve on panels or committees convened pursuant to chapter 10 during the 1-year period beginning on April 1 of such calendar year.
 
 #### (ii) Additional information
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) select individuals from the list prepared by the interagency group under paragraph (2)(B)(ii) to be included in a proposed amendment to such final candidate list; and
 
-&emsp;&emsp;&emsp;&emsp;(III) by no later than July 1 of such calendar year, submit to the appropriate Congressional Committees the proposedamendments to such final candidate list developed by the Trade Representative under subclause (II), along with the information described in paragraph (3)(B)(ii).
+&emsp;&emsp;&emsp;&emsp;(III) by no later than July 1 of such calendar year, submit to the appropriate Congressional Committees the proposed amendments to such final candidate list developed by the Trade Representative under subclause (II), along with the information described in paragraph (3)(B)(ii).
 
 #### (ii) Consultation with Congressional Committees
 

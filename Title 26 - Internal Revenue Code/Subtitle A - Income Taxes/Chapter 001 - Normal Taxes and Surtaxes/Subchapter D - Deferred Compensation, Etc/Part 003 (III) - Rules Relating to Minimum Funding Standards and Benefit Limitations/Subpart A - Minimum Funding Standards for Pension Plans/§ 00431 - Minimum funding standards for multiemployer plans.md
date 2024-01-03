@@ -90,7 +90,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (D) Interim withdrawal liability payments
 
-&emsp;&emsp;Any amount paid by an employer pending a final determination of the employer's withdrawal liability under part 1 of subtitle E of title IV of such Act and subsequently refunded to the employer by the plan shall be charged to the funding standard account in accordance with regulations prescribed by the Secretary.
+&emsp;&emsp;Any amount paid by an employer pending a final determination of the employer'swithdrawal liability under part 1 of subtitle E of title IV of such Act and subsequently refunded to the employer by the plan shall be charged to the funding standard account in accordance with regulations prescribed by the Secretary.
 
 #### (E) Election for deferral of charge for portion of net experience loss
 
@@ -160,7 +160,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (iii) Amortization of reduction in unfunded accrued liability
 
-&emsp;&emsp;&emsp;If this subparagraph and subparagraph (A) both apply for any plan year, the plan shall treat any reduction in unfunded accrued liability resulting from the application of this subparagraph as a separate experience amortization base, to be amortized in equal annual installments (until fully amortized) over a period of 30 plan years rather than the period such liability would otherwise be amortized over.
+&emsp;&emsp;&emsp;If this subparagraph and subparagraph (A) both apply for any plan year, the plan shall treat any reduction in unfunded accrued liability resulting from the application of this subparagraph as a separate experience amortization base, to be amortized in equal annual installments (until fully amortized) over a period of 30 planyears rather than the period such liability would otherwise be amortized over.
 
 #### (C) Solvency test
 
@@ -234,7 +234,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (5) Full funding
 
-&emsp;If, as of the close of a plan year, a plan would (without regard to this paragraph) have an accumulated funding deficiency in excess of the full funding limitation—
+&emsp;If, as of the close of a plan year, a plan would (without regard to this paragraph) havean accumulated funding deficiency in excess of the full funding limitation—
 
 &emsp;&emsp;(A) the funding standard account shall be credited with the amount of such excess, and
 
@@ -318,7 +318,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (vi) Periodic review
 
-&emsp;&emsp;&emsp;The Secretary shall periodically (at least every 5 years) review any tables in effect under this subparagraph and shall, to the extent such Secretary determines necessary, by regulation update the tables to reflect the actual experience of pension plans and projected trends in such experience.
+&emsp;&emsp;&emsp;The Secretary shall periodically (at least every 5 years) review any tables in effect under this subparagraph and shall, to the extent such Secretary determines necessary, by regulation update the tables to reflect the actual experience of pensionplans and projected trends in such experience.
 
 #### (E) Required change of interest rate
 
@@ -362,7 +362,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (ii) Use of prior year valuation
 
-&emsp;&emsp;&emsp;The valuation referred to in subparagraph (A) may be made as of a date within the plan year prior to the year to whichthe valuation refers if, as of such date, the value of the assets of the plan are not less than 100 percent of the plan's current liability (as defined in paragraph (6)(D) without regard to clause (iv) thereof).
+&emsp;&emsp;&emsp;The valuation referred to in subparagraph (A) may be made as of a date within the plan year prior to the year to which the valuation refers if, as of such date, the value of the assets of the plan are not less than 100 percent of the plan's current liability (as defined in paragraph (6)(D) without regard to clause (iv) thereof).
 
 #### (iii) Adjustments
 
@@ -434,7 +434,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;The Secretary shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
 
-(Added Pub. L. 109–280, title II, §211(a), Aug. 17, 2006, 120 Stat. 890; amended Pub. L. 111–192, titleII, §211(a)(2), June 25, 2010, 124 Stat. 1304; Pub. L. 113–235, div. O, title I, §§101(b)(2), 108(b)(3)(A), Dec. 16, 2014, 128 Stat. 2774, 2788; Pub. L. 113–295, div. A, title I, §171(a), Dec. 19, 2014, 128 Stat. 4023; Pub. L. 115–141, div. U, title IV, §401(a)(101), Mar. 23, 2018, 132 Stat. 1189; Pub. L. 117–2, title IX, §9703(a)(2), Mar. 11, 2021, 135 Stat. 189.)
+(Added Pub. L. 109–280, title II, §211(a), Aug. 17, 2006, 120 Stat. 890; amended Pub. L. 111–192, title II, §211(a)(2), June 25, 2010, 124 Stat. 1304; Pub. L. 113–235, div. O, title I, §§101(b)(2), 108(b)(3)(A), Dec. 16, 2014, 128 Stat. 2774, 2788; Pub. L. 113–295, div. A, title I, §171(a), Dec. 19, 2014, 128 Stat. 4023; Pub. L. 115–141, div. U, title IV, §401(a)(101), Mar. 23, 2018, 132 Stat. 1189; Pub. L. 117–2, title IX, §9703(a)(2), Mar. 11, 2021, 135 Stat. 189.)
 
 #### <b>Editorial Notes</b>
 
@@ -472,7 +472,7 @@ Pub. L. 117–2, title IX, §9703(b), Mar. 11, 2021, 135 Stat. 189, provided tha
 
 "(1)
 
-In general.—The amendments made by this section \[amending this section and section 1084 of Title 29, Labor\] shall take effect as of the first day of the first plan year ending on or after February 29, 2020, except that any election a plan makes pursuant to this section that affects the plan's funding standard account for the first plan year beginning after February 29, 2020, shall be disregarded for purposes of applying the provisions of section 305 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1085\] and section 432 of the Internal Revenue Code of 1986 to such plan year.
+In general.—The amendments made by this section \[amending this section and section 1084 of Title 29, Labor\] shall take effect as of the first day of the first plan year ending on or after February 29, 2020, except that any election a plan makes pursuant to this section that affects the plan's funding standard account for the first plan year beginning after February 29, 2020, shall be disregarded for purposes of applying the provisionsof section 305 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1085\] and section 432 of the Internal Revenue Code of 1986 to such plan year.
 
 "(2)
 

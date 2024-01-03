@@ -42,7 +42,7 @@ Part B of title V (as such part was in effect on the day before December 10, 201
 
 #### Prior Provisions
 
-A prior section 7221a, Pub. L. 89–10, title IV, §4302, formerly title V, §5202, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1788; renumbered title IV, §4302, Pub. L. 114–95, title IV, §4001(b)(2)(A), (B), (D)(iii), Dec. 10, 2015, 129 Stat. 1967, related to authorization of grant program, prior to repeal by Pub. L. 114–95, §5, title IV, §4301(1), Dec. 10, 2015, 129 Stat. 1806, 1993, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+A prior section 7221a, Pub. L. 89–10, title IV, §4302, formerly title V, §5202, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1788; renumbered title IV, §4302, Pub. L. 114–95, title IV, §4001(b)(2)(A), (B), (D)(iii), Dec. 10, 2015, 129 Stat. 1967, related to authorization of grant program, prior to repeal by Pub. L. 114–95, §5,title IV, §4301(1), Dec. 10, 2015, 129 Stat. 1806, 1993, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
 A prior section 4302 of Pub. L. 89–10 was renumbered section 8572, and is classified to section 7972 of this title.
 

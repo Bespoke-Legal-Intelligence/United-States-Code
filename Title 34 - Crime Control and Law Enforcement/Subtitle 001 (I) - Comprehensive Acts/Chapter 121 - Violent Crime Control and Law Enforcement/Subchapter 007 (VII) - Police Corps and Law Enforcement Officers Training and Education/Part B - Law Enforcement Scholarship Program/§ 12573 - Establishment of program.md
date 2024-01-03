@@ -60,7 +60,7 @@ Funds received under this part shall only be used to supplement, and not to supp
 
 #### References in Text
 
-Section 12576 of this title, referred to in subsec. (b)(1), was in the original "section 200203", and was translatedas reading "section 200207", meaning section 200207 of Pub. L. 103–322, to reflect the probable intent of Congress, because section 200203 of Pub. L. 103–322, which is classified to section 12572 of this title, does not provide for submission of applications, and section 12576 does so provide.
+Section 12576 of this title, referred to in subsec. (b)(1), was in the original "section 200203", and was translated as reading "section 200207", meaning section 200207 of Pub. L. 103–322, to reflect the probable intent of Congress, because section 200203 of Pub. L. 103–322, which is classified to section 12572 of this title, does not provide for submission of applications, and section 12576 does so provide.
 
 #### Codification
 

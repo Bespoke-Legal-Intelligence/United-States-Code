@@ -110,7 +110,7 @@ The functions, authorities, duties, and responsibilities of the Federal Coordina
 
 #### (A) In general
 
-&emsp;&emsp;With respect to the duties of the Federal Coordinator, as described in this chapter,the Federal Coordinator shall have similar authority to establish, change, and abolish reasonable filing and service fees, charges, and commissions, require deposits of payments, and provide refunds as provided to the Secretary of the Interior in section 1734 of title 43.
+&emsp;&emsp;With respect to the duties of the Federal Coordinator, as described in this chapter, the Federal Coordinator shall have similar authority to establish, change, and abolish reasonable filing and service fees, charges, and commissions, require deposits of payments, and provide refunds as provided to the Secretary of the Interior in section 1734 of title 43.
 
 #### (B) Authority of Secretary of the Interior
 
@@ -126,7 +126,7 @@ The functions, authorities, duties, and responsibilities of the Federal Coordina
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c)(2) and (d)(1), was in the original "this division", meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. This chapter, referred to in subsec. (h)(4)(A), was in the original "this Act", also meaning division C of Pub. L. 108–324 as provided in section 2 of Pub. L. 108–324, 118 Stat. 1220. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
+This chapter, referred to in subsecs. (c)(2) and (d)(1), was in the original "this division", meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which isclassified principally to this chapter. This chapter, referred to in subsec. (h)(4)(A), was in the original "this Act", also meaning division C of Pub. L. 108–324 as provided in section 2 of Pub. L. 108–324, 118 Stat. 1220. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
 
 Reorganization Plan No. 1 of 1979, referred to in subsec. (f), is set out as a note under section 719e of this title.
 

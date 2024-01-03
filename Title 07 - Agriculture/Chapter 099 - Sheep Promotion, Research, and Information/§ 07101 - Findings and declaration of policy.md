@@ -42,11 +42,11 @@ Pub. L. 108–429, title IV, §4001, Dec. 3, 2004, 118 Stat. 2600, provided that
 
 #### Short Title
 
-Pub. L. 103–407, §1, Oct. 22, 1994, 108 Stat. 4210, provided that: "This Act \[enacting this chapter\] may be cited as the 'Sheep Promotion, Research, and Information Act of 1994'."
+Pub. L. 103–407, §1, Oct. 22, 1994, 108 Stat. 4210, provided that: "This Act \[enacting this chapter\] may becited as the 'Sheep Promotion, Research, and Information Act of 1994'."
 
 #### Agriculture Wool Apparel Manufacturers Trust Fund
 
-Pub. L. 113–79, title XII, §12315, Feb. 7, 2014, 128 Stat. 995, as amended by Pub. L. 115–334, title XII, §12603, Dec. 20, 2018, 132 Stat. 5005, provided that:
+Pub. L. 113–79, title XII, §12315, Feb. 7, 2014, 128 Stat. 995, as amended by Pub. L. 115–334, title XII, §12603, Dec. 20, 2018, 132 Stat. 5005; Pub. L. 118–22, div. B, title I, §102(d)(8)(B), Nov. 17, 2023, 137 Stat. 118, provided that:
 
 "(a)
 
@@ -58,7 +58,7 @@ Distribution of Funds.—
 
 &emsp;"(1)
 
-In general.—From amounts in the Trust Fund, the Secretary \[of Agriculture\] may make payments annually beginning in calendar year 2014 for calendar years 2010 through 2023 as follows:
+In general.—From amounts in the Trust Fund, the Secretary \[of Agriculture\] may make payments annually beginning in calendar year 2014 for calendar years 2010 through 2024 as follows:
 
 &emsp;&emsp;"(A) To each eligible manufacturer under paragraph (3) of section 4002(c) of the Wool Suit and Textile Trade Extension Act of 2004 (Public Law 108–429; 118 Stat. 2600 \[2603\]), as amended by section 1633(c) \[1633(b)(1)\] of the Miscellaneous Trade and Technical Corrections Act of 2006 (Public Law 109–280; 120 Stat. 1166) and section 325(b) of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 (division C of Public Law 110–343; 122 Stat. 3875), and any successor-in-interest to such a manufacturer as provided for under paragraph (4) of such section 4002(c) \[118 Stat. 2603\], that submits an affidavit in accordance with paragraph (2) for the year of the payment, payments in amounts authorized under that paragraph.
 
@@ -74,7 +74,7 @@ Payment of Amounts.—The Secretary shall make payments to eligible manufacturer
 
 "(d)
 
-Memoranda of Understanding.—The Secretary \[of Agriculture\] shall, as soon as practicable after thedate of the enactment of this Act \[Feb. 7, 2014\], negotiate memoranda of understanding with the Commissioner responsible for U.S. Customs and Border Protection and the Secretary of Commerce to establish procedures pursuant to which the Commissioner and the Secretary of Commerce will assist in carrying out the provisions of this section.
+Memoranda of Understanding.—The Secretary \[of Agriculture\] shall, as soon as practicable after the date of the enactment of this Act \[Feb. 7, 2014\], negotiate memoranda of understanding with the Commissioner responsible for U.S. Customs and Border Protection and the Secretary of Commerce to establish procedures pursuant to which the Commissioner and the Secretary of Commerce will assist in carrying out the provisions of this section.
 
 "(e)
 
@@ -94,7 +94,7 @@ Funding.—
 
 &emsp;"(1)
 
-In general.—Of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Trust Fund for each of calendar years 2014 through 2023 an amount equal to the lesser of—
+In general.—Of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Trust Fund for each of calendar years 2014 through 2024 an amount equal to the lesser of—
 
 &emsp;&emsp;"(A) the amount the Secretary determines to be necessary to make payments required by this section in that calendar year; or
 
@@ -106,11 +106,11 @@ Availability.—Amounts transferred to the Trust Fund under paragraph (1) shall 
 
 #### Wool Research and Promotion
 
-Pub. L. 113–79, title XII, §12316, Feb. 7, 2014, 128 Stat. 997, as amended by Pub. L. 115–334, title XII, §12604, Dec. 20, 2018, 132 Stat. 5006, provided that:
+Pub. L. 113–79, title XII, §12316, Feb. 7, 2014, 128 Stat. 997, as amended by Pub. L. 115–334, title XII, §12604, Dec. 20, 2018, 132 Stat. 5006; Pub. L. 118–22, div. B, title I, §102(d)(8)(C), Nov. 17, 2023, 137 Stat. 118, provided that:
 
 "(a)
 
-In General.—Of the funds of the Commodity Credit Corporation, the Secretary \[of Agriculture\] shall use to provide grants described in section 506(d) of the Trade and Development Act of 2000 (7 U.S.C. 7101 note) \[section 506(d) of Pub. L. 106–200\] $2,250,000 for each of calendar years 2019 through 2023, to remain available until expended.
+In General.—Of the funds of the Commodity Credit Corporation, the Secretary \[of Agriculture\] shall use to provide grants described in section 506(d) of the Trade and Development Act of 2000 (7 U.S.C. 7101 note) \[section 506(d) of Pub. L. 106–200\] $2,250,000 for each of calendar years 2019 through 2024, to remain available until expended.
 
 "(b)
 

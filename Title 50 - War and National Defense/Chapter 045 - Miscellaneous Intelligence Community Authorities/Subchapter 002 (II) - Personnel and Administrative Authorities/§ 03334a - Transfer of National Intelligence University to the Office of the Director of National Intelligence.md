@@ -70,7 +70,7 @@ Not later than 90 days after December 20, 2019, the Director of National Intelli
 
 #### (2) Effective date
 
-&emsp;The amendments made by paragraph (1) shall take effect on the date on which the Secretary of Defense and the Director of NationalIntelligence jointly submit the joint certifications under subsection (b)(1). The Secretary and the Director shall jointly notify the Law Revision Counsel of the House of Representatives of the submission of the certifications so that the Law Revision Counsel may execute the amendments made by paragraph (1).
+&emsp;The amendments made by paragraph (1) shall take effect on the date on which the Secretary of Defense and the Director of National Intelligence jointly submit the joint certifications under subsection (b)(1). The Secretary and the Director shall jointly notify the Law Revision Counsel of the House of Representatives of the submission of the certifications so that the Law Revision Counsel may execute the amendments made by paragraph (1).
 
 #### (f) Definitions
 

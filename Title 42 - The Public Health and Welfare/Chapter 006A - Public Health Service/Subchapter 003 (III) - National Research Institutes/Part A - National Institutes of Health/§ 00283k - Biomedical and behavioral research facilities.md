@@ -58,7 +58,7 @@
 
 #### (4) Certain requirements regarding membership
 
-&emsp;In selecting individuals for membership on the Board, the Director of NIH, acting through the Office of the Director of NIH, shall ensure that the members are individuals who, by virtue of their training or experience, are eminently qualified to perform peer review functions. In selecting such individuals for such membership, the Director of NIH, acting through the Office of the Director of NIH,shall ensure that the members of the Board collectively—
+&emsp;In selecting individuals for membership on the Board, the Director of NIH, acting through the Office of the Director of NIH, shall ensure that the members are individuals who, by virtue of their training or experience, are eminently qualified to perform peer review functions. In selecting such individuals for such membership, the Director of NIH, acting through the Office of the Director of NIH, shall ensure that the members of the Board collectively—
 
 &emsp;&emsp;(A) are experienced in the planning, construction, financing, and administration of entities that conduct biomedical or behavioral research sciences;
 
@@ -288,7 +288,7 @@ Subsec. (i). Pub. L. 108–276, §2(b)(6), designated existing provisions as par
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 orsubsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Findings
 

@@ -114,7 +114,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 #### (g) Guarantee of payment of other classes of benefits and establishment of terms and conditions of guarantee; promulgation of regulations for establishment of supplemental program to guarantee benefits otherwise ineligible; status of benefits; applicability of revised schedule of premiums
 
-(1) The corporation may guarantee the payment of such other classes of benefits undermultiemployer plans, and establish the terms and conditions under which those other classes of benefits are guaranteed, as it determines to be appropriate.
+(1) The corporation may guarantee the payment of such other classes of benefits under multiemployer plans, and establish the terms and conditions under which those other classes of benefits are guaranteed, as it determines to be appropriate.
 
 (2)(A) The corporation shall prescribe regulations to establish a supplemental program to guarantee benefits under multiemployer plans which would be guaranteed under this section but for the limitations in subsection (c). Such regulations shall be proposed by the corporation no later than the end of the 18th calendar month following September 26, 1980. The regulations shall make coverage under the supplemental program available no later than January 1, 1983. Any election to participate in the supplemental program shall be on a voluntary basis, and a plan electing such coverage shall continue to pay the premiums required under section 1306(a)(2)(B) of this title to the revolving fund used pursuant to section 1305 of this title in connection with benefits otherwise guaranteed under this section. Any such election shall be irrevocable, except to the extent otherwise provided by regulations prescribed by the corporation.
 
@@ -138,7 +138,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (C) For purposes of subparagraph (A), the term "legislative day" means any calendar day other than a day on which either House is not in session because of a sine die adjournment or an adjournment of more than 3 days to a day certain.
 
-(D) The procedure for disposition of a joint resolution described in subparagraph (B) shall be the procedure described in paragraphs (4) through (7) of section 1306(b) of this title.
+(D) The procedure for disposition of a joint resolution described in subparagraph (B) shall bethe procedure described in paragraphs (4) through (7) of section 1306(b) of this title.
 
 (5) Regulations prescribed by the corporation to carry out the provisions of this subsection, may, to the extent provided therein, supersede the requirements of sections 1426, 1431, and 1441 of this title, and the requirements of section 418E of title 26, but only with respect to benefits guaranteed under this subsection.
 
@@ -207,6 +207,8 @@ Subsec. (g)(4)(D). Pub. L. 99–272, §11005(c)(12), substituted "joint" for "co
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

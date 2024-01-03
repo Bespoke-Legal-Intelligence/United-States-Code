@@ -30,5 +30,5 @@ Subsec. (a)(1). Pub. L. 117–328, §3306(a)(1), inserted "for one or more inten
 
 #### Construction of 2022 Amendment
 
-Pub. L. 117–328, div. FF, title III, §3306(b), Dec. 29, 2022, 136 Stat. 5834, provided that: "Nothing in this section \[amending this section\] shall be construed to limit the authority of the Secretary \[of Health and Human Services\] to amend, in accordance with section 516 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360f), as amended by this section, and chapter 5 of title 5, United States Code, regulations promulgated pursuant to such section 516, as amended by this section."
+Pub. L. 117–328, div. FF, title III, §3306(b), Dec. 29, 2022, 136 Stat. 5834, provided that: "Nothing in this section \[amending this section\] shall be construed to limitthe authority of the Secretary \[of Health and Human Services\] to amend, in accordance with section 516 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360f), as amended by this section, and chapter 5 of title 5, United States Code, regulations promulgated pursuant to such section 516, as amended by this section."
 

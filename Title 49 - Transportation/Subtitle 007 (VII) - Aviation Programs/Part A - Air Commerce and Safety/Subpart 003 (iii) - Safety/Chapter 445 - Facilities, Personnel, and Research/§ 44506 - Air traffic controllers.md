@@ -178,7 +178,7 @@ Maximum entry age for experienced controllers.—Notwithstanding section 3307 of
 
 Retired military controllers.—The Administrator may establish a program to provide an original appointment to a position as an air traffic controller for individuals who—
 
-&emsp;&emsp;(A) are on terminal leave pending retirement from active duty military service orhave retired from active duty military service within 5 years of applying for the appointment; and
+&emsp;&emsp;(A) are on terminal leave pending retirement from active duty military service or have retired from active duty military service within 5 years of applying for the appointment; and
 
 &emsp;&emsp;(B) have held either an air traffic certification or air traffic control facility rating according to Administration standards within 5 years of applying for the appointment.
 
@@ -284,7 +284,7 @@ Pub. L. 112–95, title VI, §609(b), Feb. 14, 2012, 126 Stat. 116, provided tha
 
 #### Controller Staffing
 
-Pub. L. 116–6, div. G, title I, Feb. 15, 2019, 133 Stat. 401, provided in part: "That not later than March 31 of eachfiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]".
+Pub. L. 116–6, div. G, title I, Feb. 15, 2019, 133 Stat. 401, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]".
 
 Similar provisions were contained in the following appropriation acts:
 

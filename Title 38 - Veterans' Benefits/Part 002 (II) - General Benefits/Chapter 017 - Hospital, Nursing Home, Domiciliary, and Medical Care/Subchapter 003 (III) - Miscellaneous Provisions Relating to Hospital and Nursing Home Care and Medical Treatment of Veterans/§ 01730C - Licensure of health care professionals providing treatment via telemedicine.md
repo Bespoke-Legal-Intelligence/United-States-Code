@@ -6,7 +6,7 @@ In General.—Notwithstanding any provision of law regarding the licensure of he
 
 (b)
 
-Covered Health Care Professionals.—For purposes of this section, a covered healthcare professional is any of the following individuals:
+Covered Health Care Professionals.—For purposes of this section, a covered health care professional is any of the following individuals:
 
 &emsp;(1) A health care professional who—
 
@@ -14,7 +14,7 @@ Covered Health Care Professionals.—For purposes of this section, a covered hea
 
 &emsp;&emsp;(B) is authorized by the Secretary to provide health care under this chapter;
 
-&emsp;&emsp;(C) is required to adhere to all standards for quality relating to the provision of health care in accordance with applicable policies of the Department; and
+&emsp;&emsp;(C) is required to adhere to all standards for quality relating to the provision ofhealth care in accordance with applicable policies of the Department; and
 
 &emsp;&emsp;(D)(i) has an active, current, full, and unrestricted license, registration, or certification in a State to practice the health care profession of the health care professional; or
 

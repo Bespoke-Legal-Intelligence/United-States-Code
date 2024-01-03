@@ -4,7 +4,7 @@
 
 Not later than 2 years after December 19, 2007, the Administrator, in consultation with the Secretary of Education, the Secretary of Health and Human Services, and other relevant agencies, shall issue voluntary guidelines for use by the State in developing and implementing an environmental health program for schools that—
 
-&emsp;(1) takes into account the status and findings of Federal initiatives established underthis subchapter or subtitle C of title IV of the Energy Independence and Security Act of 2007 \[42 U.S.C. 17091 et seq.\] and other relevant Federal law with respect to school facilities, including relevant updates on trends in the field, such as the impact of school facility environments on student and staff—
+&emsp;(1) takes into account the status and findings of Federal initiatives established under this subchapter or subtitle C of title IV of the Energy Independence and Security Act of 2007 \[42 U.S.C. 17091 et seq.\] and other relevant Federal law with respect to school facilities, including relevant updates on trends in the field, such as the impact of school facility environments on student and staff—
 
 &emsp;&emsp;(A) health, safety, and productivity; and
 

@@ -14,7 +14,7 @@ No amount shall be paid to any State or local government under the provisions of
 
 &emsp;(1) the average rate of unemployment within the jurisdiction of such State or local government during the most recent calendar quarter which ended three months before the beginning of such calendar quarter was less than 4.5 percent, or
 
-&emsp;(2) the rate of unemployment within the jurisdiction of such government for the lastmonth of the most recent calendar quarter which ended three months before the beginning of such calendar quarter did not exceed 4.5 percent.
+&emsp;(2) the rate of unemployment within the jurisdiction of such government for the last month of the most recent calendar quarter which ended three months before the beginning of such calendar quarter did not exceed 4.5 percent.
 
 (Pub. L. 94–369, title II, §210, July 22, 1976, 90 Stat. 1009; Pub. L. 94–447, title II, §201 (5), Oct. 1, 1976, 90 Stat. 1498.)
 

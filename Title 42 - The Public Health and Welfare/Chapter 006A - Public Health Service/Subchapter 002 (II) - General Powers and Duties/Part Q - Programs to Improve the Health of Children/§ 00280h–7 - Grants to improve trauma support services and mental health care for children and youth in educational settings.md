@@ -16,7 +16,7 @@ An entity that receives a grant, contract, or cooperative agreement under this s
 
 &emsp;(2) To implement schoolwide positive behavioral interventions and supports, or other trauma-informed models of support.
 
-&emsp;(3) To provide professional development to teachers, teacher assistants, school leaders, specialized instructional support personnel, and mental health professionals that—
+&emsp;(3) To provide professional development to teachers, teacher assistants, school leaders,specialized instructional support personnel, and mental health professionals that—
 
 &emsp;&emsp;(A) fosters safe and stable learning environments that prevent and mitigate the effects of trauma, including through social and emotional learning;
 
@@ -36,7 +36,7 @@ An entity that receives a grant, contract, or cooperative agreement under this s
 
 #### (d) Applications
 
-To be eligible to receive a grant, contract, or cooperative agreement under this section, an entity described in subsection (a) shall submit an application to the Secretary at such time, in such manner, and containing such informationas the Secretary may reasonably require, which shall include the following:
+To be eligible to receive a grant, contract, or cooperative agreement under this section, an entity described in subsection (a) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, which shall include the following:
 
 &emsp;(1) A description of the innovative initiatives, activities, or programs to be funded under the grant, contract, or cooperative agreement, including how such program will increase access to evidence-based trauma support services and mental health care for students, and, as applicable, the families of such students.
 
@@ -80,7 +80,7 @@ The Secretary shall reserve not more than 3 percent of the funds made available 
 
 #### (g) Distribution of awards
 
-The Secretary shall ensure that grants, contracts, and cooperative agreements awarded or entered into under this section are equitably distributed among the geographical regions of the United States and among tribal, urban, suburban, and rural populations.
+The Secretary shall ensure that grants, contracts, and cooperative agreements awarded or entered into under this section are equitablydistributed among the geographical regions of the United States and among tribal, urban, suburban, and rural populations.
 
 #### (h) Rule of construction
 

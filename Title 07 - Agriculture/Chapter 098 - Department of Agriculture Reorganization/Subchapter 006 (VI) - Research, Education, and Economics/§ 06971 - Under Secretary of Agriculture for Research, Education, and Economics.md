@@ -404,7 +404,7 @@ Subsec. (e)(1). Pub. L. 115–334, §12411(a)(2), substituted "Office of the Chi
 
 Subsec. (e)(2). Pub. L. 115–334, §12411(a)(3), substituted "Office of the Chief Scientist" for "Research, Education, and Extension Office" in introductory provisions.
 
-Subsec. (e)(3)(C). Pub. L. 115–334, §12411(a)(4), substituted "clauses (i) and (iii) of subparagraph (A) shall be for not less than 3 years" for "subparagraph (A) shall not exceed 4 years".
+Subsec. (e)(3)(C). Pub. L. 115–334, §12411(a)(4), substituted "clauses (i) and (iii) of subparagraph (A) shallbe for not less than 3 years" for "subparagraph (A) shall not exceed 4 years".
 
 Subsec. (e)(4). Pub. L. 115–334, §12411(a)(6), added par. (4). Former par. (4) redesignated (5).
 

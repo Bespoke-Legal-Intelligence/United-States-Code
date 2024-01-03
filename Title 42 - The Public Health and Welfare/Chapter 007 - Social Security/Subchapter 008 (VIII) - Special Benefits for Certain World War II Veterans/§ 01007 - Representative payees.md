@@ -108,7 +108,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 &emsp;&emsp;(iii) a facility that is licensed or certified as a care facility under the law of the political jurisdiction in which the qualified individual resides;
 
-&emsp;&emsp;(iv) a person who is an administrator, owner, or employee of a facility referred to in clause (iii), if the qualified individual resides in the facility, and the payment to the facility or the person is made only after the Commissioner of Social Security has made a good faith effort to locate an alternative representative payee to whom paymentwould serve the best interests of the qualified individual; or
+&emsp;&emsp;(iv) a person who is an administrator, owner, or employee of a facility referred to in clause (iii), if the qualified individual resides in the facility, and the payment to the facility or the person is made only after the Commissioner of Social Security has made a good faith effort to locate an alternative representative payee to whom payment would serve the best interests of the qualified individual; or
 
 &emsp;&emsp;(v) a person who is determined by the Commissioner of Social Security, on the basis of written findings and pursuant to procedures prescribed by the Commissioner of Social Security, to be acceptable to serve as a representative payee.
 
@@ -188,7 +188,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 &emsp;&emsp;(A) Paragraph (1) shall not apply in any case where the other person to whom such payment is made is the spouse of the individual entitled to such payment.
 
-&emsp;&emsp;(B) The Commissioner of Social Security shall establish and implement procedures as necessary for the Commissioner to determine the eligibility of such parties for the exemption provided in subparagraph (A). The Commissioner shall prescribe such regulations as may be necessary to determine eligibility for such exemption.
+&emsp;&emsp;(B) The Commissioner of Social Security shall establish and implement procedures asnecessary for the Commissioner to determine the eligibility of such parties for the exemption provided in subparagraph (A). The Commissioner shall prescribe such regulations as may be necessary to determine eligibility for such exemption.
 
 #### (4) Authority to redirect delivery of benefit payments when a representative payee fails to provide required accounting
 
@@ -232,7 +232,7 @@ For purposes of this subchapter, misuse of benefits by a representative payee oc
 
 #### (2) Report
 
-&emsp;Within 120 days after the end of each fiscal year, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of periodic onsite reviews conducted during the fiscal year pursuant to paragraph (1) and of any other reviews of representative payees conducted during such fiscal year in connection with benefits under this subchapter. Eachsuch report shall describe in detail all problems identified in such reviews and any corrective action taken or planned to be taken to correct such problems, and shall include—
+&emsp;Within 120 days after the end of each fiscal year, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of periodic onsite reviews conducted during the fiscal year pursuant to paragraph (1) and of any other reviews of representative payees conducted during such fiscal year in connection with benefits under this subchapter. Each such report shall describe in detail all problems identified in such reviews and any corrective action taken or planned to be taken to correct such problems, and shall include—
 
 &emsp;&emsp;(A) the number of such reviews;
 

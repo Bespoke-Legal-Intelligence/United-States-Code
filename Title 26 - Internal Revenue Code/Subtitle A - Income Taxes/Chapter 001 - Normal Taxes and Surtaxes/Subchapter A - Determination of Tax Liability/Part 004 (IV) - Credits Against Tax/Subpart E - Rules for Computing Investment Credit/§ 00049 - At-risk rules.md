@@ -72,7 +72,7 @@
 
 #### (v) Related person
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "related person" has the meaning given such term by section 465(b)(3)(C). Except as otherwise provided in regulations prescribed by the Secretary, the determination of whether a person is a related person shall be made as of the close of the taxable year in which the property is placed in service.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "related person" has the meaninggiven such term by section 465(b)(3)(C). Except as otherwise provided in regulations prescribed by the Secretary, the determination of whether a person is a related person shall be made as of the close of the taxable year in which the property is placed in service.
 
 #### (E) Application to partnerships and S corporations
 
@@ -112,7 +112,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, at the close of a taxable year following the taxable year in which the property wasplaced in service, there is a net decrease in the amount of nonqualified nonrecourse financing with respect to such property, such net decrease shall be taken into account as an increase in the credit base for such property in accordance with subparagraph (C).
+&emsp;&emsp;If, at the close of a taxable year following the taxable year in which the property was placed in service, there is a net decrease in the amount of nonqualified nonrecourse financing with respect to such property, such net decrease shall be taken into account as an increase in the credit base for such property in accordance with subparagraph (C).
 
 #### (B) Certain transactions not taken into account
 
@@ -136,7 +136,7 @@
 
 #### (2) Transfers of debt more than 1 year after initial borrowing not treated as increasing nonqualified nonrecourse financing
 
-&emsp;For purposes of paragraph (1), the amount of nonqualified nonrecourse financing (within the meaning of subsection (a)(1)(D)) with respect to the taxpayer shall not be treated as increased by reason of a transfer of (or agreement to transfer) any evidence of any indebtedness if such transfer occurs (or such agreement is entered into) more than 1 year after the date such indebtedness was incurred.
+&emsp;For purposes of paragraph (1), the amount of nonqualified nonrecourse financing (within the meaning of subsection (a)(1)(D)) with respect to the taxpayer shall not be treated asincreased by reason of a transfer of (or agreement to transfer) any evidence of any indebtedness if such transfer occurs (or such agreement is entered into) more than 1 year after the date such indebtedness was incurred.
 
 #### (3) Special rules for certain energy property
 

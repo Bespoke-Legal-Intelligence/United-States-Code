@@ -84,5 +84,5 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 110–234, title XIV, §14007, May 22, 2008, 122 Stat. 1446, and Pub. L. 110–246, §4(a), title XIV, §14007, June 18, 2008, 122 Stat. 1664, 2208, provided that: "The Secretary \[of Agriculture\], acting through the Assistant Secretary for Civil Rights of the Department of Agriculture, shall use the reports described in subsection (c) of section 2501A of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279–1), as amended by section 14006, in the conduct of oversight and evaluation of civil rights compliance."
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

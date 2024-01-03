@@ -34,7 +34,7 @@ Upon the written determination of the Corporation and the Board of Governors und
 
 #### (A) Reconvening
 
-&emsp;&emsp;Upon receipt of a request under subsection (c), if the Senate has adjourned or recessed for more than 2 days, the majority leader of the Senate, after consultation with the minority leader of the Senate, shall notify the Members of the Senate that, pursuant to this section, the Senate shall convene not later than the second calendar day after receipt of such message.
+&emsp;&emsp;Upon receipt of a request under subsection (c), if the Senate has adjourned or recessed for more than 2 days, the majority leader of the Senate, after consultation with the minority leader of the Senate, shall notify theMembers of the Senate that, pursuant to this section, the Senate shall convene not later than the second calendar day after receipt of such message.
 
 #### (B) Placement on calendar
 
@@ -108,7 +108,7 @@ Upon the written determination of the Corporation and the Board of Governors und
 
 #### (2) Excess funds
 
-&emsp;If, at the conclusion of the program established under this section, there are any excess funds collected from the fees associated with such program, the funds shall be deposited in the General Fund of the Treasury.
+&emsp;If, at the conclusion of the program established under this section, there are any excessfunds collected from the fees associated with such program, the funds shall be deposited in the General Fund of the Treasury.
 
 #### (3) Authority of Corporation
 

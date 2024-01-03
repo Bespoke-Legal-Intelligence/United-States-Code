@@ -50,7 +50,7 @@ For portions of the United States Outer Continental Shelf that are adjacent to t
 
 (1) The study report of section 7412(n) <sup>1</sup> of this title shall apply to the coastal waters of the United States to the same extent and in the same manner as such requirements apply to the Great Lakes, the Chesapeake Bay, and their tributary waters.
 
-(2) The regulatory requirements of section 7412(n) <sup>1</sup> of this title shall apply to the coastal waters of the States which are subject to subsection (a) of this section, to the same extentand in the same manner as such requirements apply to the Great Lakes, the Chesapeake Bay, and their tributary waters.
+(2) The regulatory requirements of section 7412(n) <sup>1</sup> of this title shall apply to the coastal waters of the States which are subject to subsection (a) of this section, to the same extent and in the same manner as such requirements apply to the Great Lakes, the Chesapeake Bay, and their tributary waters.
 
 (July 14, 1955, ch. 360, title III, §328, as added Pub. L. 101–549, title VIII, §801, Nov. 15, 1990, 104 Stat. 2685; amended Pub. L. 112–74, div. E, title IV, §432(b), (c), Dec. 23, 2011, 125 Stat. 1048, 1049.)
 

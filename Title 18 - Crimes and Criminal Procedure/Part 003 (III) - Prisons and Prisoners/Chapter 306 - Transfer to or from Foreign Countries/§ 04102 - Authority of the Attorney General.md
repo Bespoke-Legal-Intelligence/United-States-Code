@@ -30,7 +30,7 @@ The Attorney General is authorized—
 
 #### Change of Name
 
-Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by Pub. L. 96–88, title V,§509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
+Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
 
 #### Certification by Attorney General to Secretary of State for Reimbursement of Expenses Incurred Under Transfer Treaty
 

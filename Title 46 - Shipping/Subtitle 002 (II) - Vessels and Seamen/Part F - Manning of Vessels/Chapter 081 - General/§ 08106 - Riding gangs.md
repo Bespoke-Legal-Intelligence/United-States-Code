@@ -104,7 +104,7 @@ Failure to Employ Qualified Available U.S. Citizens or Residents.—
 
 &emsp;(1)
 
-In general.—The owner or operator of a vessel to which subsection (a) applies may not employ a riding gang member who is neither a United States citizen nor an alien lawfully admitted to the United States for permanent residence to perform work described in subsection (b) unless the owner or operator determines, in accordance with procedures established by the Secretary to carry out section 8103(b)(3)(C), that there is not a sufficient number of United States citizens or individuals lawfully admitted to the United States for permanent residence who are qualified and available for the work for which the riding gang member is to be employed.
+In general.—The owner or operator of a vessel to which subsection (a) applies may notemploy a riding gang member who is neither a United States citizen nor an alien lawfully admitted to the United States for permanent residence to perform work described in subsection (b) unless the owner or operator determines, in accordance with procedures established by the Secretary to carry out section 8103(b)(3)(C), that there is not a sufficient number of United States citizens or individuals lawfully admitted to the United States for permanent residence who are qualified and available for the work for which the riding gang member is to be employed.
 
 &emsp;(2)
 

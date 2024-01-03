@@ -102,7 +102,7 @@ Reporting.—Each sexual assault response coordinator shall—
 
 &emsp;&emsp;&emsp;(i) report directly to the Superintendent; and
 
-&emsp;&emsp;&emsp;(ii) have concurrent reporting responsibility to the Executive Director of theMaritime Administration on matters related to the Maritime Administration and the Department of Transportation and upon belief that the Academy leadership is acting inappropriately regarding sexual assault prevention and response matters.
+&emsp;&emsp;&emsp;(ii) have concurrent reporting responsibility to the Executive Director of the Maritime Administration on matters related to the Maritime Administration and the Department of Transportation and upon belief that the Academy leadership is acting inappropriately regarding sexual assault prevention and response matters.
 
 &emsp;&emsp;(B)
 
@@ -196,7 +196,7 @@ Subsec. (e). Pub. L. 117–263, §3531(e)(3), added subsec. (e).
 
 Sexual Assault Response Coordinators.—The United States Merchant Marine Academy shall employ or contract with at least 1 full-time sexual assault response coordinator who shall reside at or near the Academy. The Secretary of Transportation may assign additional full-time or part-time sexual assault response coordinators at the Academy as necessary."
 
-Subsec. (c)(5), (6). Pub. L. 115–91, §3515(b), formerly §3515(c), as renumbered by Pub. L. 117–263, §3513(c)(2),redesignated par. (6) as (5), substituted "paragraphs (3) and (4)" for "paragraphs (3), (4), and (5)", and struck out former par. (5) which read as follows: "
+Subsec. (c)(5), (6). Pub. L. 115–91, §3515(b), formerly §3515(c), as renumbered by Pub. L. 117–263, §3513(c)(2), redesignated par. (6) as (5), substituted "paragraphs (3) and (4)" for "paragraphs (3), (4), and (5)", and struck out former par. (5) which read as follows: "
 
 Hotline.—The Secretary shall establish a 24-hour hotline through which the victim of a sexual assault described in paragraph (1) can receive victim support services."
 

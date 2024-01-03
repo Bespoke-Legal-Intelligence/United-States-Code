@@ -8,7 +8,7 @@ Congress declares that, if a facility constructed with the aid of a grant under 
 
 If, within 20 years after completion of construction of an academic facility which has been constructed, in part with a grant under part A of subchapter VII as such part A was in effect prior to October 7, 1998, or part B of subchapter VII as such part B was in effect prior to July 23, 1992—
 
-&emsp;(1) the applicant under such parts as so in effect (or the applicant's successor in title or possession) ceases or fails to be a public or nonprofit institution; or
+&emsp;(1) the applicant under such parts as so in effect (or the applicant's successor in title orpossession) ceases or fails to be a public or nonprofit institution; or
 
 &emsp;(2) the facility ceases to be used as an academic facility, or the facility is used as a facility excluded from the term "academic facility" (as such term was defined under subchapter VII, as so in effect), unless the Secretary determines that there is good cause for releasing the institution from its obligation,
 
@@ -24,7 +24,7 @@ Notwithstanding the provisions of subsections (a) and (b), no project assisted w
 
 #### References in Text
 
-Subchapter VII, referred to in text, was amended, effective Oct. 1, 1992, by Pub. L. 102–325, title VII, §§703–707(a), July 23, 1992, 106 Stat. 738–753, by amending parts A to C generally, repealing part D, and redesignating former part E as D, and was further amendedgenerally, effective Oct. 1, 1998, by Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1786, by substituting provisions relating to graduate and post-secondary improvement programs for former provisions relating to construction, reconstruction, and renovation of academic facilities.
+Subchapter VII, referred to in text, was amended, effective Oct. 1, 1992, by Pub. L. 102–325, title VII, §§703–707(a), July 23, 1992, 106 Stat. 738–753, by amending parts A to C generally, repealing part D, and redesignating former part E as D, and was further amended generally, effective Oct. 1, 1998, by Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1786, by substituting provisions relating to graduate and post-secondary improvement programs for former provisions relating to construction, reconstruction, and renovation of academic facilities.
 
 #### Prior Provisions
 

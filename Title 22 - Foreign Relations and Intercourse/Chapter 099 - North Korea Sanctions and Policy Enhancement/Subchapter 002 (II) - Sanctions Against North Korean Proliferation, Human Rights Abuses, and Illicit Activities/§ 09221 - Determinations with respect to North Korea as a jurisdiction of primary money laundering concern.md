@@ -82,7 +82,7 @@ Congress—
 
 #### (2) Enhanced due diligence and reporting requirements
 
-&emsp;If the Secretary of the Treasury determines under paragraph (1) that reasonable grounds exist for concluding that North Korea is a jurisdiction of primary money laundering concern, the Secretary, in consultation with the Federal functional regulators (as defined insection 6809 of title 15), shall impose 1 or more of the special measures described in section 5318A(b) of title 31 with respect to the jurisdiction of North Korea.
+&emsp;If the Secretary of the Treasury determines under paragraph (1) that reasonable grounds exist for concluding that North Korea is a jurisdiction of primary money laundering concern, the Secretary, in consultation with the Federal functional regulators (as defined in section 6809 of title 15), shall impose 1 or more of the special measures described in section 5318A(b) of title 31 with respect to the jurisdiction of North Korea.
 
 #### (3) Report required
 

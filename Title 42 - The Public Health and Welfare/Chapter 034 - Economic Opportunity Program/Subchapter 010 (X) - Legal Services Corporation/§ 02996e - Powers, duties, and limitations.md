@@ -50,7 +50,7 @@ The Corporation shall not itself—
 
 (1) The Corporation shall have no power to issue any shares of stock, or to declare or pay any dividends.
 
-(2) No part of the income or assets of the Corporation shall inure to the benefit of any director, officer, or employee, except as reasonable compensation for services or reimbursement for expenses.
+(2) No part of the income or assets of the Corporation shall inure to the benefit of any director, officer, or employee, except as reasonablecompensation for services or reimbursement for expenses.
 
 (3) Neither the Corporation nor any recipient shall contribute or make available corporate funds or program personnel or equipment to any political party or association, or the campaign of any candidate for public or party office.
 

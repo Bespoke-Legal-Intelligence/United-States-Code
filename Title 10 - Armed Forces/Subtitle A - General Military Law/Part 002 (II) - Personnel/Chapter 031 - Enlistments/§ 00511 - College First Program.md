@@ -10,7 +10,7 @@ Delayed Entry With Allowance for Higher Education.—The Secretary concerned may
 
 &emsp;(1) exercise the authority under section 513 of this title—
 
-&emsp;&emsp;(A) to accept the enlistment of a person as a Reserve for service in the Selected Reserve or Individual Ready Reserve of a reserve component, notwithstanding the scope of the authority under subsection (a) of that section, in the case of the Army National Guard of the United States or Air National Guard of the United States; and
+&emsp;&emsp;(A) to accept the enlistment of a person as a Reserve for service in the Selected Reserve or Individual Ready Reserve of a reserve component, or as a member of the Space Force, notwithstanding the scope of the authority under subsection (a) of that section, in the case of the Army National Guard of the United States or Air National Guard of the United States; and
 
 &emsp;&emsp;(B) to authorize, notwithstanding the period limitation in subsection (b) of that section, a delay of the enlistment of any such person in a regular component under that subsection for the period during which the person is enrolled in, and pursuing a program of education at, an institution of higher education, or a program of vocational or technical training, on a full-time basis that is to be completed within the maximum period of delay determined for that person under subsection (c); and
 
@@ -18,7 +18,7 @@ Delayed Entry With Allowance for Higher Education.—The Secretary concerned may
 
 (c)
 
-Maximum Period of Delay.—The period of delay authorized a person under paragraph (1)(B) of subsection (b) may not exceed the 30-month period beginning on the date of the person's enlistment accepted under paragraph (1)(A) of such subsection.
+Maximum Period of Delay.—The period of delay authorized a person under paragraph (1)(B)of subsection (b) may not exceed the 30-month period beginning on the date of the person's enlistment accepted under paragraph (1)(A) of such subsection.
 
 (d)
 
@@ -32,7 +32,7 @@ Allowance.—(1) The monthly allowance paid under subsection (b)(2) shall be equ
 
 (e)
 
-Recoupment of Allowance.—(1) A person who, after receiving an allowance under this section, fails to complete the total period of service required of that person in connection with delayed entry authorized for the person under section 513 shall repay the United States the amount which bears the same ratio to the totalamount of that allowance paid to the person as the unserved part of the total required period of service bears to the total period.
+Recoupment of Allowance.—(1) A person who, after receiving an allowance under this section, fails to complete the total period of service required of that person in connection with delayed entry authorized for the person under section 513 shall repay the United States the amount which bears the same ratio to the total amount of that allowance paid to the person as the unserved part of the total required period of service bears to the total period.
 
 (2) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
 
@@ -44,13 +44,17 @@ Recoupment of Allowance.—(1) A person who, after receiving an allowance under 
 
 Special Pay and Bonuses.—Upon enlisting in the regular component of the member's armed force, a person who initially enlisted as a Reserve under this section may, at the discretion of the Secretary concerned, be eligible for all regular special pays, bonuses, education benefits, and loan repayment programs.
 
-(Added Pub. L. 108–375, div. A, title V, §551(a)(1), Oct. 28, 2004, 118 Stat. 1909.)
+(Added Pub. L. 108–375, div. A, title V, §551(a)(1), Oct. 28, 2004, 118 Stat. 1909; amended Pub. L. 118–31, div. A, title XVII, §1717(b)(6), Dec. 22, 2023, 137 Stat. 655.)
 
 #### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 511 was renumbered section 12103 of this title.
+
+#### Amendments
+
+<b>2023</b>—Subsec. (b)(1)(A). Pub. L. 118–31 inserted "or as a member of the Space Force," after "reserve component,".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

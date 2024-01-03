@@ -96,7 +96,7 @@ Input from vice chief of the national guard bureau.—The Council shall seek, an
 
 (e)
 
-Performance Requirements as Responsibility of Armed Forces.—The Chief of Staff of an armed force is responsible for all performance requirements for that armed force and, except for performance requirements specified in subsections (b)(4) and (b)(5), such performance requirements do not need to be validated by the Joint Requirements Oversight Council.
+Performance Requirements as Responsibility of Armed Forces.—The Chief of Staff ofan armed force is responsible for all performance requirements for that armed force and, except for performance requirements specified in subsections (b)(4) and (b)(5), such performance requirements do not need to be validated by the Joint Requirements Oversight Council.
 
 (f)
 
@@ -136,7 +136,7 @@ Pub. L. 116–283, §1850(m), which directed amendment of par. (6) by substituti
 
 Subsec. (c)(1)(F). Pub. L. 116–283, §924(b)(9), added subpar. (F).
 
-Subsec. (d)(1)(D). Pub. L. 117–81, §903(a)(2), substituted "Engineering who shall serve as the ChiefTechnical Advisor to the Council and—" and cls. (i) and (ii) for "Engineering."
+Subsec. (d)(1)(D). Pub. L. 117–81, §903(a)(2), substituted "Engineering who shall serve as the Chief Technical Advisor to the Council and—" and cls. (i) and (ii) for "Engineering."
 
 Pub. L. 116–283, §906(b), substituted "The" for "the".
 
@@ -162,7 +162,7 @@ Subsec. (b)(3). Pub. L. 112–239, §951(b)(2), substituted "the total cost of s
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–383, §841(d), substituted "There is" for "The Secretary of Defense shall establish".
 
-Subsec. (b)(3). Pub. L. 111–383, §1075(b)(8), which directed substitution of "Program Evaluation" for "Performance Evaluation", could not be executed because of the amendment by Pub. L. 111–383, §841(c)(2). See below.
+Subsec. (b)(3). Pub. L. 111–383, §1075(b)(8), which directed substitution of "Program Evaluation" for "Performance Evaluation", could not be executed becauseof the amendment by Pub. L. 111–383, §841(c)(2). See below.
 
 Pub. L. 111–383, §841(c)(2), substituted "advisors to the Council under subsection (d)" for "Under Secretary of Defense (Comptroller), the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Director of Cost Assessment and Performance Evaluation".
 

@@ -18,7 +18,7 @@
 
 #### (3) Time period in which loans may be consolidated
 
-&emsp;The Secretary may make a Federal Direct Consolidation Loan under this section to aborrower whose application for such Federal Direct Consolidation Loan is received on or after July 1, 2010, and before July 1, 2011.
+&emsp;The Secretary may make a Federal Direct Consolidation Loan under this section to a borrower whose application for such Federal Direct Consolidation Loan is received on or after July 1, 2010, and before July 1, 2011.
 
 #### (b) Terms of loans
 

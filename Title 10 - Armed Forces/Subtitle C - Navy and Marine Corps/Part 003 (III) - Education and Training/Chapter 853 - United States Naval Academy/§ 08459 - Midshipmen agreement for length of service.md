@@ -24,7 +24,7 @@
 
 (2) A midshipman who is transferred to the Navy Reserve or Marine Corps Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
 
-(3) For the purposes of paragraph (1), a midshipman shall be considered to have breached an agreement under subsection (a) if the midshipman is separated from the Naval Academy under circumstances which the Secretary determines constitute a breach by the midshipman of the midshipman's agreement to complete the course of instruction at the Naval Academy andaccept an appointment as a commissioned officer upon graduation from the Naval Academy.
+(3) For the purposes of paragraph (1), a midshipman shall be considered to have breached an agreement under subsection (a) if the midshipman is separated from the Naval Academy under circumstances which the Secretary determines constitute a breach by the midshipman of the midshipman's agreement to complete the course of instruction at the Naval Academy and accept an appointment as a commissioned officer upon graduation from the Naval Academy.
 
 (4) A midshipman who violates paragraph (5) of subsection (a) is not eligible for the alternative obligation under paragraph (1).
 
@@ -76,7 +76,7 @@ The words "Hereafter" and "appointed to the United States Naval Academy" are omi
 
 &emsp;"(A) will not seek release from the midshipman's commissioned service obligation or seek or accept approval for off-duty employment while completing the midshipman's commissioned service obligation to obtain employment as a professional athlete following graduation until the midshipman completes a period of at least two consecutive years of commissioned service; and
 
-&emsp;"(B) understands that the appointment alternative described in paragraph (3) will not be used to allow the midshipman to obtain such employment until at least the end of that two-year period."
+&emsp;"(B) understands that the appointment alternative described in paragraph (3) will not be used to allowthe midshipman to obtain such employment until at least the end of that two-year period."
 
 Subsec. (b)(4). Pub. L. 117–263, §553(b)(2), added par. (4).
 
@@ -130,7 +130,7 @@ Subsec. (a)(2). Pub. L. 88–276 substituted "five" for "three".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
-#### Effective Date of <i>2022</i> Amendment
+#### Effective Date of 2022 Amendment
 
 Amendment by Pub. L. 117–263 only applicable to cadets or midshipmen who first enroll in the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on or after June 1, 2021, see section 553(d) of Pub. L. 117–263, as added by section 202(a) of Pub. L. 117–328, set out as a note under section 7448 of this title.
 
@@ -164,7 +164,7 @@ For effective date of amendment by Pub. L. 88–276, see section 5(c) of Pub. L.
 
 #### Regulations Implementing 1985 Amendment
 
-Secretary of the Navy to prescribe regulations required by subsec. (c) of this section as added by Pub. L. 99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 7448 of this title.
+Secretary of the Navy to prescribe regulations required by subsec. (c) of this section as added by Pub. L.99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 7448 of this title.
 
 #### Savings Provision
 

@@ -272,7 +272,7 @@ GAO Oversight.—The Comptroller General of the United States shall—
 
 &emsp;&emsp;"(A) with respect to the application of this section to the Department of Defense, the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives; and
 
-&emsp;&emsp;"(B) with respect to the application of this section to all covered agencies, including the Department of Defense, the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+&emsp;&emsp;"(B) with respect to the application of this section to all covered agencies, including the Department of Defense, the Committee on Commerce,Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 
 "(e)
 

@@ -38,7 +38,7 @@
 
 #### (2) Payment method
 
-&emsp;A health care group participating in the demonstration under this section shall agree with respect to services furnished to beneficiaries within the scope of the demonstration (as determined under subsection (c))—
+&emsp;A health care group participating in the demonstration under this section shall agreewith respect to services furnished to beneficiaries within the scope of the demonstration (as determined under subsection (c))—
 
 &emsp;&emsp;(A) to be paid on a fee-for-service basis; and
 

@@ -4,7 +4,7 @@
 
 &nbsp;
 
-| <i>Army, Air Force, and Marine Corps</i> | <i>Navy and Coast Guard</i> |
+| <i>Army, Air Force, Marine Corps, and Space Force</i> | <i>Navy and Coast Guard</i> |
 | :--- | ---: |
 | General | Admiral. |
 | Lieutenant general | Vice admiral. |
@@ -49,7 +49,7 @@
 
 (E) Any adjustment in date of rank under this paragraph shall be made under regulations prescribed by the Secretary of Defense, which shall apply uniformly among the Army, Navy, Air Force, Marine Corps, and Space Force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 33; Pub. L. 96–513, title I, §107, Dec. 12, 1980, 94 Stat. 2869; Pub. L. 97–22, §4(h), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(8), Dec. 1, 1981, 95 Stat. 1106; Pub. L. 97–295, §1(11), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–557, §25(c), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–145, title V, §514(b)(8), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–190, div. A, title XI, §1131(1)(A), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title XVI, §1626, Oct. 5, 1994, 108 Stat. 2962; Pub. L. 104–106, div. A, title XV, §1501(a)(3), Feb. 10, 1996, 110 Stat. 495; Pub. L. 107–107, div. A, title V, §506(a), Dec. 28, 2001, 115Stat. 1089; Pub. L. 116–283, div. A, title IX, §924(b)(1)(G), (3)(M), Jan. 1, 2021, 134 Stat. 3820, 3821.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 33; Pub. L. 96–513, title I, §107, Dec. 12, 1980, 94 Stat. 2869; Pub. L. 97–22, §4(h), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(8), Dec. 1, 1981, 95 Stat. 1106; Pub. L. 97–295, §1(11), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–557, §25(c), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–145, title V, §514(b)(8), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–190, div. A, title XI, §1131(1)(A), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title XVI, §1626, Oct. 5, 1994, 108 Stat. 2962; Pub. L. 104–106, div. A, title XV, §1501(a)(3), Feb. 10, 1996, 110 Stat. 495; Pub. L. 107–107, div. A, title V, §506(a), Dec. 28, 2001, 115 Stat. 1089; Pub. L. 116–283, div. A, title IX, §924(b)(1)(G), (3)(M), Jan. 1, 2021, 134 Stat. 3820, 3821; Pub. L. 118–31, div. A, title XVII, §1741(a)(2), Dec. 22, 2023, 137 Stat. 679.)
 
 Historical and Revision Notes
 
@@ -103,7 +103,7 @@ Aug. 4, 1949, ch. 393, §1(43), 63 Stat. 498.
 
 34:241a (less 1st and 2d sentences).
 
-In subsection (a), the word "Regular", pertaining to major generals and brigadier generals, in 10:517 and 34:241a, is omitted, since the last sentence of 10:517 and 34:241a establish the rank of nonregular officers of the Army and the Air Force, with respect to officers of the Regular Army and the Regular Air Force. The effect of establishing their rank with respect to regular officers, when read in connection with the provisions prescribing the rank of officers of the regular components with officers of the other services, under 10:517 (less last sentence), 34:241a (less last sentence), and 34:241, is therefore to establish the rank of nonregular officers with respect to officers of the other listed services. This allows a consolidation of 10:517 (less last sentence, as applicable to rank), 34:241, and 34:241a (less last sentence, as applicable to rank), together with 34:651, into a table of rank among officers of the Army, Navy, Air Force, and Marine Corps. The words "lineal rank only being considered", in 34:241, are covered by setting forth the grades in tabular form. The words "whether on the active or retired list", in 34:241, are omitted, since retired officers of the Navy continue to be officers of the Navy. The words "Lieutenant (junior grade)" are substituted for the word "masters", in R.S. 1466, to reflect the change made in the name of that grade by the Act of March 3, 1883, ch. 97 (2d par.), 22 Stat. 472.
+In subsection (a), the word "Regular", pertaining to major generals and brigadier generals, in 10:517 and 34:241a, is omitted, since the last sentence of 10:517 and 34:241a establish the rank of nonregular officers of the Army and the Air Force, with respect to officers of the Regular Army and the Regular Air Force. The effect of establishing their rank with respect to regular officers, when read in connection with the provisions prescribing the rank of officers of the regular components with officers of the other services, under 10:517 (less last sentence), 34:241a (less last sentence), and 34:241, is therefore to establish the rank of nonregular officers with respect to officers of the other listed services. This allows a consolidation of 10:517 (less last sentence,as applicable to rank), 34:241, and 34:241a (less last sentence, as applicable to rank), together with 34:651, into a table of rank among officers of the Army, Navy, Air Force, and Marine Corps. The words "lineal rank only being considered", in 34:241, are covered by setting forth the grades in tabular form. The words "whether on the active or retired list", in 34:241, are omitted, since retired officers of the Navy continue to be officers of the Navy. The words "Lieutenant (junior grade)" are substituted for the word "masters", in R.S. 1466, to reflect the change made in the name of that grade by the Act of March 3, 1883, ch. 97 (2d par.), 22 Stat. 472.
 
 In subsections (a) and (b), the words "entitled to pay" and "entitled to the pay", respectively, are inserted, since rear admiral is one grade with two ranks depending on the amount of pay to which the incumbent is entitled.
 
@@ -114,6 +114,8 @@ In subsection (c), the words "A commissioned officer of the Army or the Air Forc
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a). Pub. L. 118–31 substituted "Marine Corps, and Space Force" for "and Marine Corps" in table.
 
 <b>2021</b>—Subsec. (c). Pub. L. 116–283, §924(b)(1)(G), substituted "Marine Corps, and Space Force" for "and Marine Corps" in two places.
 

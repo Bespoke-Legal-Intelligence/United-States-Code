@@ -64,13 +64,13 @@ For purposes of this section, the term "cooperative" means a cooperative formed 
 
 #### (2) Exception
 
-&emsp;An entity eligible to receive funding through a grant made under section 1926d of this title shall not be eligible for a grant from funds made available under paragraph (1)(C).
+&emsp;An entity eligible to receive funding through a grant made under section 1926d of this titleshall not be eligible for a grant from funds made available under paragraph (1)(C).
 
 #### (f) Regulations
 
 Not later than 30 days after October 28, 1992, the Secretary shall issue interim final regulations, with a request for public comments, implementing this section.
 
-(Pub. L. 87–128, title III, §306C, as added Pub. L. 101–624, title XXIII, §2327, Nov. 28, 1990, 104 Stat.4015; amended Pub. L. 102–237, title VII, §701(b), Dec. 13, 1991, 105 Stat. 1879; Pub. L. 102–552, title V, §516(l), (m), Oct. 28, 1992, 106 Stat. 4139; Pub. L. 102–554, §24, Oct. 28, 1992, 106 Stat. 4161; Pub. L. 107–171, title VI, §6010, May 13, 2002, 116 Stat. 357.)
+(Pub. L. 87–128, title III, §306C, as added Pub. L. 101–624, title XXIII, §2327, Nov. 28, 1990, 104 Stat. 4015; amended Pub. L. 102–237, title VII, §701(b), Dec. 13, 1991, 105 Stat. 1879; Pub. L. 102–552, title V, §516(l), (m), Oct. 28, 1992, 106 Stat. 4139; Pub. L. 102–554, §24, Oct. 28, 1992, 106 Stat. 4161; Pub. L. 107–171, title VI, §6010, May 13, 2002, 116 Stat. 357.)
 
 #### <b>Editorial Notes</b>
 

@@ -28,7 +28,7 @@
 
 (c) Except as provided in subsection (d), leave granted under subsection (a) shall be leave without pay.
 
-(d)(1) An employee may elect to substitute for leave under subparagraph (C), (D), or (E) of subsection (a)(1) any of the employee's accrued or accumulated annual or sick leave for any part of the 12-week period of leave under such subsection, except that nothing in this subchapter shall require an employing agency to provide paid sick leave in any situation in which such employing agency would not normally provide any such paid leave. An employee may elect to substitute for leave under subsection (a)(3) any of the employee's accrued or accumulated annual or sick leave for any part of the 26-week period of leave under such subsection.
+(d)(1) An employee may elect to substitute for leave under subparagraph (C), (D), or (E) of subsection (a)(1) any of the employee's accrued or accumulated annual or sick leave for any part of the 12-week period of leave under such subsection, except that nothing in this subchapter shall require an employing agency to providepaid sick leave in any situation in which such employing agency would not normally provide any such paid leave. An employee may elect to substitute for leave under subsection (a)(3) any of the employee's accrued or accumulated annual or sick leave for any part of the 26-week period of leave under such subsection.
 
 (2)(A) An employee may elect to substitute for any leave without pay under subparagraph (A) or (B) of subsection (a)(1) any paid leave which is available to such employee for that purpose.
 
@@ -74,7 +74,7 @@
 
 (3) In any case in which the necessity for leave under subsection (a)(1)(E) is foreseeable, whether because the spouse, or a son, daughter, or parent, of the employee is on covered active duty, or because of notification of an impending call or order to covered active duty, the employee shall provide such notice to the employer as is reasonable and practicable.
 
-(Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 20; amended Pub. L. 110–181, div. A, title V, §585(b)(2)–(3)(C), Jan. 28, 2008, 122 Stat. 132; Pub. L. 110–417, \[div. A\], title X, §1061(b)(2), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title V, §565(b)(1)(B), (4), Oct. 28,2009, 123 Stat. 2311, 2312; Pub. L. 116–92, div. F, title LXXVI, §7602(a), (b), Dec. 20, 2019, 133 Stat. 2304, 2305; Pub. L. 116–283, div. A, title XI, §1103(f)(3), Jan. 1, 2021, 134 Stat. 3889.)
+(Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 20; amended Pub. L. 110–181, div. A, title V, §585(b)(2)–(3)(C), Jan. 28, 2008, 122 Stat. 132; Pub. L. 110–417, \[div. A\], title X, §1061(b)(2), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title V, §565(b)(1)(B), (4), Oct. 28, 2009, 123 Stat. 2311, 2312; Pub. L. 116–92, div. F, title LXXVI, §7602(a), (b), Dec. 20, 2019, 133 Stat. 2304, 2305; Pub. L. 116–283, div. A, title XI, §1103(f)(3), Jan. 1, 2021, 134 Stat. 3889.)
 
 #### <b>Editorial Notes</b>
 

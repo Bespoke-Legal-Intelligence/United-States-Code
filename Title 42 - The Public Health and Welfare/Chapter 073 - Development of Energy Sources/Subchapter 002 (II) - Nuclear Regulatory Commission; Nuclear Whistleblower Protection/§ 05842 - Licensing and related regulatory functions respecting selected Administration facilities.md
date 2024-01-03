@@ -30,7 +30,7 @@ The effective date of this chapter, referred to in par. (2), refers to the effec
 
 #### Availability of Funds for Licensing by NRC
 
-Pub. L. 105–261, div. C, title XXXI, §3134(b), Oct. 17, 1998, 112 Stat. 2247, provided that: "Section 210 of theDepartment of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 (42 U.S.C. 7272 \[now 50 U.S.C. 2513\]) shall not apply to any licensing activities required pursuant to section 202(5) of the Energy Reorganization Act of 1974 (42 U.S.C. 5842), as added by subsection (a)."
+Pub. L. 105–261, div. C, title XXXI, §3134(b), Oct. 17, 1998, 112 Stat. 2247, provided that: "Section 210 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 (42 U.S.C. 7272 \[now 50 U.S.C. 2513\]) shall not apply to any licensing activities required pursuant to section 202(5) of the Energy Reorganization Act of 1974 (42 U.S.C. 5842), as added by subsection (a)."
 
 #### Applicability of Occupational Safety and Health Requirements to Activities Under License
 

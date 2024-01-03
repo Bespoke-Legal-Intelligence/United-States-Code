@@ -36,7 +36,7 @@ An organic certification program established under this chapter may—
 
 &emsp;(1) provide for the certification of an entire farm or handling operation or specific fields of a farm or parts of a handling operation if—
 
-&emsp;&emsp;(A) in the case of a farm or field, the area to be certified has distinct, defined boundaries and buffer zones separating the land being operated through the use of organic methods from land that is not being operated through the use of such methods;
+&emsp;&emsp;(A) in the case of a farm or field, the area to be certified has distinct, defined boundaries and buffer zones separating the landbeing operated through the use of organic methods from land that is not being operated through the use of such methods;
 
 &emsp;&emsp;(B) the operators of such farm or handling operation maintain records of all organic operations separate from records relating to other operations and make such records available at all times for inspection by the Secretary, the certifying agent, and the governing State official; and
 

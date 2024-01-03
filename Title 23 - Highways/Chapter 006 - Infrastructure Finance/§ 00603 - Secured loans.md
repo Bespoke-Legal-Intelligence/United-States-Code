@@ -46,7 +46,7 @@ Maximum amount.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), the amount of a secured loan under this section shall not exceed the lesser of 49 percent of the reasonably anticipated eligible project costs or if the secured loan does not receive an investment grade rating, the amount of the senior project obligations.
+In general.—Except as provided in subparagraph (B), the amount of a securedloan under this section shall not exceed the lesser of 49 percent of the reasonably anticipated eligible project costs or if the secured loan does not receive an investment grade rating, the amount of the senior project obligations.
 
 &emsp;&emsp;(B)
 
@@ -174,7 +174,7 @@ In general.—The total Federal assistance provided for a project receiving a lo
 
 &emsp;&emsp;(B)
 
-Rural projects fund.—A project capitalizing a rural projects fund shall satisfy subparagraph (A) through compliance with the Federal share requirement described in section 610(e)(3)(B).
+Rural projects fund.—A project capitalizing a rural projects fund shall satisfy subparagraph (A) through compliance withthe Federal share requirement described in section 610(e)(3)(B).
 
 (c)
 
@@ -198,7 +198,7 @@ Deferred payments.—
 
 &emsp;&emsp;(A)
 
-In general.—If, at any time after the date of substantial completion of the project, the project is unable to generate sufficient revenues to pay the scheduled loanrepayments of principal and interest on the secured loan, the Secretary may, subject to subparagraph (C), allow the obligor to add unpaid principal and interest to the outstanding balance of the secured loan.
+In general.—If, at any time after the date of substantial completion of the project, the project is unable to generate sufficient revenues to pay the scheduled loan repayments of principal and interest on the secured loan, the Secretary may, subject to subparagraph (C), allow the obligor to add unpaid principal and interest to the outstanding balance of the secured loan.
 
 &emsp;&emsp;(B)
 
@@ -298,7 +298,7 @@ In general.—Not later than 120 days after the date of enactment of this paragr
 
 Additional criteria.—The additional criteria referred to in subparagraph (A)(ii) are the following:
 
-&emsp;&emsp;&emsp;(i) The secured loan is made on terms and conditions that substantially conform to the conventional terms and conditions established by the National Surface Transportation Innovative Finance Bureau.
+&emsp;&emsp;&emsp;(i) The secured loan is made on terms and conditions that substantially conform to the conventional terms and conditionsestablished by the National Surface Transportation Innovative Finance Bureau.
 
 &emsp;&emsp;&emsp;(ii) The secured loan is rated in the A category or higher.
 
@@ -310,7 +310,7 @@ Additional criteria.—The additional criteria referred to in subparagraph (A)(i
 
 &emsp;&emsp;(C)
 
-Written notice.—The Secretary shall provide to an applicant seeking a securedloan under the expedited decision process under this paragraph a written notice informing the applicant whether the Secretary has approved or disapproved the application by not later than 180 days after the date on which the Secretary submits to the applicant a letter indicating that the National Surface Transportation Innovative Finance Bureau has commenced the creditworthiness review of the project.
+Written notice.—The Secretary shall provide to an applicant seeking a secured loan under the expedited decision process under this paragraph a written notice informing the applicant whether the Secretary has approved or disapproved the application by not later than 180 days after the date on which the Secretary submits to the applicant a letter indicating that the National Surface Transportation Innovative Finance Bureau has commenced the creditworthiness review of the project.
 
 (Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 245, §183; renumbered §603 and amended Pub. L. 109–59, title I, §§1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 614; Pub. L. 114–94, div. A, title II, §2001(c), Dec. 4, 2015, 129 Stat. 1442; Pub. L. 117–58, div. A, title II, §12001(e), (f), (h), Nov. 15, 2021, 135 Stat. 619.)
 

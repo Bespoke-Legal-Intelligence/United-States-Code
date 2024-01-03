@@ -50,5 +50,5 @@
 
 #### Codification
 
-This section was enacted as part of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017 and also as part of the National IntegratedDrought Information System Reauthorization Act of 2018, and not as part of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 which comprises this chapter.
+This section was enacted as part of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017 and also as part of the National Integrated Drought Information System Reauthorization Act of 2018, and not as part of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 which comprises this chapter.
 

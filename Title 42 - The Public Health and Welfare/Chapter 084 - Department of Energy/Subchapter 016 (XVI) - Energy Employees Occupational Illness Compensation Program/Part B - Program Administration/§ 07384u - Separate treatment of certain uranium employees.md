@@ -38,7 +38,7 @@ The compensation provided under this section and the compensation provided under
 
 > &emsp;then half of such payment shall be made to such surviving spouse, and the other half of such payment shall be made in equal shares to each child of the covered employee who is living and a minor at the time of payment.
 
-(2) If a covered employee eligible for payment dies before filing a claim under this subchapter, a survivor of that employee who may receivepayment under paragraph (1) may file a claim for such payment.
+(2) If a covered employee eligible for payment dies before filing a claim under this subchapter, a survivor of that employee who may receive payment under paragraph (1) may file a claim for such payment.
 
 (3) For purposes of this subsection—
 

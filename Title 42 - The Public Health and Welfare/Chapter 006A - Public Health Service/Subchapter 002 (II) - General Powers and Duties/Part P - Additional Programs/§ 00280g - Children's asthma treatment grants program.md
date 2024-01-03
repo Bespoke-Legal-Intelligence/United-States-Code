@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) To provide access to quality medical care for children who live in areas that have a high prevalence of asthma and who lack access to medical care.
 
-&emsp;&emsp;(B) To provide on-site education to parents, children, health care providers, and medical teams to recognize the signs and symptoms of asthma, and to train them in the use of medications to treat asthma and prevent its exacerbations.
+&emsp;&emsp;(B) To provide on-site education to parents, children, health care providers, andmedical teams to recognize the signs and symptoms of asthma, and to train them in the use of medications to treat asthma and prevent its exacerbations.
 
 &emsp;&emsp;(C) To decrease preventable trips to the emergency room by making medication available to individuals who have not previously had access to treatment or education in the management of asthma.
 
@@ -154,7 +154,7 @@ An eligible entity that receives a grant under this section shall submit to the 
 
 #### (G) Civil liability protection law
 
-&emsp;&emsp;The certification required in subparagraph (F) shall be a certification made by the State attorney general that the State has reviewed any applicable civil liability protection law to determine the application of such law with regard to elementary and secondary school trained personnel who may administer epinephrine to a student reasonably believed to be having an anaphylactic reaction and has concluded that such law provides adequate civil liability protection applicable to such trained personnel. For purposes of the previous sentence, the term "civil liability protection law" means a State law offering legal protection to individuals who give aid on a voluntary basis inan emergency to an individual who is ill, in peril, or otherwise incapacitated.
+&emsp;&emsp;The certification required in subparagraph (F) shall be a certification made by the State attorney general that the State has reviewed any applicable civil liability protection law to determine the application of such law with regard to elementary and secondary school trained personnel who may administer epinephrine to a student reasonably believed to be having an anaphylactic reaction and has concluded that such law provides adequate civil liability protection applicable to such trained personnel. For purposes of the previous sentence, the term "civil liability protection law" means a State law offering legal protection to individuals who give aid on a voluntary basis in an emergency to an individual who is ill, in peril, or otherwise incapacitated.
 
 #### (2) Rule of construction
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–377, §3(b), Oct. 30, 2004, 118 Stat. 2204, provided that: "The amendments made by this section \[amending this section\] shall apply only with respect to grants made on or after the date that is 9 months after the date of the enactment of this Act \[Oct. 30, 2004\]."
+Pub. L. 108–377, §3(b), Oct. 30, 2004, 118 Stat. 2204, provided that: "The amendments made by this section\[amending this section\] shall apply only with respect to grants made on or after the date that is 9 months after the date of the enactment of this Act \[Oct. 30, 2004\]."
 
 #### Findings of 2004 Amendment
 

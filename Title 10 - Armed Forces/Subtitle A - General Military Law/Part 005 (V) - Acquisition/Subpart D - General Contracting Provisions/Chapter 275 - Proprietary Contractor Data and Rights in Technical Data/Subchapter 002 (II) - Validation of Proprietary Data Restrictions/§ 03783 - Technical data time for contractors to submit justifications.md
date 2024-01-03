@@ -18,7 +18,7 @@ The text of subsec. (e) of section 2321 of this title, which was transferred to 
 
 #### Prior Provisions
 
-A prior section 3783, act Aug. 10, 1956, ch. 1041, 70A Stat. 218; Pub. L. 86–616, §2(a), July 12, 1960, 74 Stat. 387, provided for boards of review, composed of three or more officers, to be convened by Secretary of the Army, at such places as he prescribes, to review records of cases of officers recommended by boards of inquiry for removal from active list of Regular Army, prior to repeal by Pub. L. 96–513, title II, §213, title VII, §701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981.
+A prior section 3783, act Aug. 10, 1956, ch. 1041, 70A Stat. 218; Pub. L. 86–616, §2(a), July 12, 1960, 74 Stat. 387, provided for boards of review, composed of three or more officers, to be convened by Secretary of theArmy, at such places as he prescribes, to review records of cases of officers recommended by boards of inquiry for removal from active list of Regular Army, prior to repeal by Pub. L. 96–513, title II, §213, title VII, §701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981.
 
 #### Amendments
 

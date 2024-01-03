@@ -1,6 +1,6 @@
 ### §3504. NOAA joint ocean and coastal mapping centers
 
-The Administrator may maintain and operate up to three joint ocean and coastal mapping centers, including a joint hydrographic center, which shall each be co-located with an institution of higher education. The centers shall serve as hydrographic centers of excellence and mayconduct activities necessary to carry out the purposes of this chapter, including—
+The Administrator may maintain and operate up to three joint ocean and coastal mapping centers, including a joint hydrographic center, which shall each be co-located with an institution of higher education. The centers shall serve as hydrographic centers of excellence and may conduct activities necessary to carry out the purposes of this chapter, including—
 
 &emsp;(1) research and development of innovative ocean and coastal mapping technologies, equipment, and data products;
 

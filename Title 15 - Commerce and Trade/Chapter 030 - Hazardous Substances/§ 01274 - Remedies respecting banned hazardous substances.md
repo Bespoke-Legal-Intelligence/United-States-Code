@@ -44,7 +44,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 (2) If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (e) of this section) that any toy or other article intended for use by children that is not a banned hazardous substance contains a defect which creates a substantial risk of injury to children (because of the pattern of defect, the number of defective toys or such articles distributed in commerce, the severity of the risk, or otherwise) and that action under this paragraph is in the public interest, the Commission may order the manufacturer, distributor, or dealer to take whichever of the following actions the person to whom the order is directed elects:
 
-&emsp;(A) If repairs to or changes in the toy or article can be made so that it will not contain a defect which creates a substantial risk of injury to children, to make such repairs or changes.
+&emsp;(A) If repairs to or changes in the toy or article can be made so that it will not contain adefect which creates a substantial risk of injury to children, to make such repairs or changes.
 
 &emsp;(B) To replace such toy or article with a like or equivalent toy or article which does not contain a defect which creates a substantial risk of injury to children.
 
@@ -76,7 +76,7 @@ Nothing in this section shall be construed to require the Commission, in determi
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b) and (c)(2), is not set out inthe Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b) and (c)(2), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 #### Amendments
 

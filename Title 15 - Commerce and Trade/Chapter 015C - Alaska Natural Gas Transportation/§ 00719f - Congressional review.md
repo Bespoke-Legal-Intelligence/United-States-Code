@@ -6,7 +6,7 @@ Any decision under section 719e(a) of this title or subsection (b) designating f
 
 #### (b) New decision: statement of reasons for proposal; transmittal to Congress
 
-If the Congress does not enact such a joint resolution within such 60-day period, the President,not later than the end of the 30th day following the expiration of the 60-day period, may propose a new decision and shall provide a detailed statement concerning the reasons for such proposal. The new decision shall be submitted in accordance with section 719e(a) of this title and transmitted to the House of Representatives and the Senate on the same day while both are in session and shall take effect pursuant to subsection (a) of this section. In the event that a resolution respecting the President's decision was defeated by vote of either House, no new decision may be transmitted pursuant to this subsection unless such decision differs in a material respect from the previous decision.
+If the Congress does not enact such a joint resolution within such 60-day period, the President, not later than the end of the 30th day following the expiration of the 60-day period, may propose a new decision and shall provide a detailed statement concerning the reasons for such proposal. The new decision shall be submitted in accordance with section 719e(a) of this title and transmitted to the House of Representatives and the Senate on the same day while both are in session and shall take effect pursuant to subsection (a) of this section. In the event that a resolution respecting the President's decision was defeated by vote of either House, no new decision may be transmitted pursuant to this subsection unless such decision differs in a material respect from the previous decision.
 
 #### (c) Sessions of Congress
 
@@ -20,7 +20,7 @@ For purposes of this section—
 
 (1) This subsection is enacted by Congress—
 
-&emsp;(A) as an exercise of the rulemaking power of each House of Congress, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described by paragraph (2) of this subsection; and it supersedes other rules only to the extent that it is inconsistent therewith; and
+&emsp;(A) as an exercise of the rulemaking power of each House of Congress, respectively, and assuch it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described by paragraph (2) of this subsection; and it supersedes other rules only to the extent that it is inconsistent therewith; and
 
 &emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as those rules relate to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.
 

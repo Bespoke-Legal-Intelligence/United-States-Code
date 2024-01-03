@@ -52,7 +52,7 @@ Planning assistance under this subchapter shall be used in conjunction with any 
 
 #### (5) Report to Secretary
 
-&emsp;Each State that receives assistance for the development of a plan under this subsection shall submit to the Secretary an annual report on the planning process assisted under this subsection.
+&emsp;Each State that receives assistance for the development of a plan under this subsectionshall submit to the Secretary an annual report on the planning process assisted under this subsection.
 
 (Pub. L. 89–136, title II, §203, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3602; amended Pub. L. 108–373, title II, §201, Oct. 27, 2004, 118 Stat. 1759.)
 

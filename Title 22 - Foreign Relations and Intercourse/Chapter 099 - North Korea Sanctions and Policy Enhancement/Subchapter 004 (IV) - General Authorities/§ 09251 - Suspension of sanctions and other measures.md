@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any sanction or other measure required under subchapter I, II, or III (or any amendment madeby such subchapters) (other than section 9214(g), 9221b, or 9221c of this title) may be suspended for up to 1 year upon certification by the President to the appropriate congressional committees that the Government of North Korea has made progress toward—
+Any sanction or other measure required under subchapter I, II, or III (or any amendment made by such subchapters) (other than section 9214(g), 9221b, or 9221c of this title) may be suspended for up to 1 year upon certification by the President to the appropriate congressional committees that the Government of North Korea has made progress toward—
 
 &emsp;(1) verifiably ceasing its counterfeiting of United States currency, including the surrender or destruction of specialized materials and equipment used or particularly suitable for counterfeiting;
 
@@ -16,7 +16,7 @@ Any sanction or other measure required under subchapter I, II, or III (or any am
 
 &emsp;&emsp;(B) detained in violation of the Agreement Concerning a Military Armistice in Korea, signed at Panmunjom July 27, 1953 (commonly referred to as the "Korean War Armistice Agreement");
 
-&emsp;(5) accepting and beginning to abide by internationally recognized standards for the distribution and monitoring of humanitarian aid; and
+&emsp;(5) accepting and beginning to abide by internationally recognized standards for thedistribution and monitoring of humanitarian aid; and
 
 &emsp;(6) taking verified steps to improve living conditions in its political prison camps.
 

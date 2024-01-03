@@ -16,7 +16,7 @@ Certification provided under subsection (a) shall be sufficient if it states—
 
 &emsp;(4)(A) for purposes of leave under section 2612(a)(1)(C) of this title, a statement that the eligible employee is needed to care for the son, daughter, spouse, or parent and an estimate of the amount of time that such employee is needed to care for the son, daughter, spouse, or parent; and
 
-&emsp;(B) for purposes of leave under section 2612(a)(1)(D) of this title, a statement that theemployee is unable to perform the functions of the position of the employee;
+&emsp;(B) for purposes of leave under section 2612(a)(1)(D) of this title, a statement that the employee is unable to perform the functions of the position of the employee;
 
 &emsp;(5) in the case of certification for intermittent leave, or leave on a reduced leave schedule, for planned medical treatment, the dates on which such treatment is expected to be given and the duration of such treatment;
 
@@ -38,7 +38,7 @@ Certification provided under subsection (a) shall be sufficient if it states—
 
 #### (1) In general
 
-&emsp;In any case in which the second opinion described in subsection (c) differs from the opinion in the original certification provided under subsection (a), the employer may require, at the expense of the employer, that the employee obtain the opinion of a third health care provider designated or approved jointly by the employer and the employee concerning the information certified under subsection (b).
+&emsp;In any case in which the second opinion described in subsection (c) differs from the opinion in the original certification provided undersubsection (a), the employer may require, at the expense of the employer, that the employee obtain the opinion of a third health care provider designated or approved jointly by the employer and the employee concerning the information certified under subsection (b).
 
 #### (2) Finality
 

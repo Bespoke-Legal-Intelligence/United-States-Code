@@ -34,7 +34,7 @@ The qualification that payments of witness fees or costs be made upon "order of 
 
 Section 578a of title 28, U.S.C., 1940 ed., is rewritten in simplified terms without change of substance. The proviso of such section 578a, prohibiting the collection of fees from the United States, was omitted as covered by section 2412 of this title, providing that the United States should be liable only for fees when such liability is expressly provided by Congress.
 
-The provision of section 578a of title 28, U.S.C., 1940 ed., requiring that fees and emoluments collected by the marshal shall be deposited by him in accordance with the provisions of section 495 of title 31, U.S.C., 1940ed., Money and Finance, was omitted as said section 495 governs such deposits without implementation in this section.
+The provision of section 578a of title 28, U.S.C., 1940 ed., requiring that fees and emoluments collected by the marshal shall be deposited by him in accordance with the provisions of section 495 of title 31, U.S.C., 1940 ed., Money and Finance, was omitted as said section 495 governs such deposits without implementation in this section.
 
 #### <b>Editorial Notes</b>
 

@@ -24,7 +24,7 @@
 
 #### (b) Independence of Advisory Committee
 
-In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submissionto the authorizing committees in accordance with subsection (f). The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
+In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the authorizing committees in accordance with subsection (f). The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
 
 #### (c) Membership
 
@@ -32,7 +32,7 @@ In the exercise of its functions, powers, and duties, the Advisory Committee sha
 
 &emsp;(A) Four members shall be appointed by the President pro tempore of the Senate, of whom two members shall be appointed from recommendations by the Majority Leader of the Senate, and two members shall be appointed from recommendations by the Minority Leader of the Senate.
 
-&emsp;(B) Four members shall be appointed by the Speaker of the House of Representatives, of whom two members shall be appointed from recommendations by the Majority Leader of the House of Representatives, and two members shall be appointed from recommendations by the Minority Leader of the House of Representatives.
+&emsp;(B) Four members shall be appointed by the Speaker of the House of Representatives, ofwhom two members shall be appointed from recommendations by the Majority Leader of the House of Representatives, and two members shall be appointed from recommendations by the Minority Leader of the House of Representatives.
 
 &emsp;(C) Three members shall be appointed by the Secretary, of whom at least one member shall be a student.
 
@@ -98,7 +98,7 @@ The Advisory Committee may submit its proposed recommendations to the Department
 
 #### (g) Compensation and expenses
 
-Members of the Advisory Committee may each receive reimbursement for travel expenses incident to attending Advisory Committee meetings, including per diem in lieu of subsistence,as authorized by section 5703 of title 5, for persons in the Government service employed intermittently.
+Members of the Advisory Committee may each receive reimbursement for travel expenses incident to attending Advisory Committee meetings, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, for persons in the Government service employed intermittently.
 
 #### (h) Personnel and resources
 
@@ -172,7 +172,7 @@ Notwithstanding the sunset and charter provisions of chapter 10 of title 5 or an
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the review, analysis, and development of the website required under paragraph (2), the Advisory Committee shall consult with the Secretary, other Federal agencies, relevant representatives of institutions of higher education, individuals who have expertise and experience with Federal regulations, and the review panels described in subparagraph (B).
+&emsp;&emsp;In carrying out the review, analysis, and development of the website required underparagraph (2), the Advisory Committee shall consult with the Secretary, other Federal agencies, relevant representatives of institutions of higher education, individuals who have expertise and experience with Federal regulations, and the review panels described in subparagraph (B).
 
 #### (B) Review panels
 
@@ -238,7 +238,7 @@ Notwithstanding the sunset and charter provisions of chapter 10 of title 5 or an
 
 &emsp;&emsp;The Advisory Committee shall, not later than three years after August 14, 2008, prepare and submit to the authorizing committees and the Secretary a final report on the study, including recommendations for legislative, regulatory, and administrative changes based on findings related to the topics identified under paragraph (2).
 
-(Pub. L. 89–329, title IV, §491, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1492; amended Pub. L. 100–50, §15(16)–(18), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §496, July 23, 1992, 106 Stat. 631; Pub. L. 103–208, §2(h)(45), (46), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §490C, Oct. 7, 1998, 112 Stat. 1754; Pub. L. 110–315, title IV, §494C, Aug. 14, 2008, 122 Stat. 3319; Pub. L. 111–39, title IV, §407(b)(11), July 1, 2009, 123 Stat. 1953; Pub. L. 113–174, §2, Sept. 26, 2014, 128 Stat. 1900; Pub. L. 117–286, §4(a)(147), Dec. 27, 2022, 136 Stat. 4322.)
+(Pub. L. 89–329, title IV, §491, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat.1492; amended Pub. L. 100–50, §15(16)–(18), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §496, July 23, 1992, 106 Stat. 631; Pub. L. 103–208, §2(h)(45), (46), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §490C, Oct. 7, 1998, 112 Stat. 1754; Pub. L. 110–315, title IV, §494C, Aug. 14, 2008, 122 Stat. 3319; Pub. L. 111–39, title IV, §407(b)(11), July 1, 2009, 123 Stat. 1953; Pub. L. 113–174, §2, Sept. 26, 2014, 128 Stat. 1900; Pub. L. 117–286, §4(a)(147), Dec. 27, 2022, 136 Stat. 4322.)
 
 #### <b>Editorial Notes</b>
 

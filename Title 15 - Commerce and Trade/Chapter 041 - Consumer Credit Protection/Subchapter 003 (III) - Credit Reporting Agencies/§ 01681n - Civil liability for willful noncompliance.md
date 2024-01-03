@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any person who willfully fails to comply with any requirement imposed under this subchapterwith respect to any consumer is liable to that consumer in an amount equal to the sum of—
+Any person who willfully fails to comply with any requirement imposed under this subchapter with respect to any consumer is liable to that consumer in an amount equal to the sum of—
 
 &emsp;(1)(A) any actual damages sustained by the consumer as a result of the failure or damages of not less than $100 and not more than $1,000; or
 
@@ -22,7 +22,7 @@ Upon a finding by the court that an unsuccessful pleading, motion, or other pape
 
 #### (d) Clarification of willful noncompliance
 
-For the purposes of this section, any person who printed an expiration date on any receipt provided to a consumer cardholder at a point of sale or transaction between December 4, 2004, and June 3, 2008, but otherwise complied with the requirements of section 1681c(g) of this title for such receipt shall not be in willful noncompliance with section 1681c(g) of this title by reason of printing such expiration date on the receipt.
+For the purposes of this section, any person who printed an expiration date on any receipt provided to a consumer cardholder at a point of sale or transaction between December 4, 2004, and June 3, 2008, but otherwise complied with the requirements of section 1681c(g) of this titlefor such receipt shall not be in willful noncompliance with section 1681c(g) of this title by reason of printing such expiration date on the receipt.
 
 (Pub. L. 90–321, title VI, §616, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 104–208, div. A, title II, §2412(a)–(c), (e)(1), Sept. 30, 1996, 110 Stat. 3009–446; Pub. L. 110–241, §3(a), June 3, 2008, 122 Stat. 1566.)
 

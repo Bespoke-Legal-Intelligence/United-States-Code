@@ -20,7 +20,7 @@
 
 #### (2) Mandatory reduction
 
-&emsp;After the expiration of the periods referred to in paragraph (1), the Attorney General shall withhold 5 percent of the amount that would otherwise be allocated to a State under section 10156 of this title, if the State provides less than 90 percent of the records required to be provided under sections 40912 and 40913 of this title.
+&emsp;After the expiration of the periods referred to in paragraph (1), the Attorney General shallwithhold 5 percent of the amount that would otherwise be allocated to a State under section 10156 of this title, if the State provides less than 90 percent of the records required to be provided under sections 40912 and 40913 of this title.
 
 #### (3) Waiver by Attorney General
 

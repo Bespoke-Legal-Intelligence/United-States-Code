@@ -22,7 +22,7 @@ Implementation by Secretary of Defense.—The Secretary of Defense shall ensure 
 
 (d)
 
-Market Research Determination Not Subject to Review.—A determination by a contracting officer regarding whether a product or service offered by Federal Prison Industries is comparable to products or services available from the private sector that best meet the Department's needs in terms of price, quality, and time of delivery shall not be subject to review pursuant to section 4124(b) of title 18.
+Market Research Determination Not Subject to Review.—A determination by a contracting officer regarding whether a product or service offered by Federal Prison Industries iscomparable to products or services available from the private sector that best meet the Department's needs in terms of price, quality, and time of delivery shall not be subject to review pursuant to section 4124(b) of title 18.
 
 (e)
 
@@ -96,7 +96,7 @@ Another prior section 3921, acts Aug. 10, 1956, ch. 1041, 70A Stat. 226; Nov. 2,
 
 Prior sections 3922 and 3923 were repealed by Pub. L. 96–513, title II, §217(a), title VII, §701, Dec. 12, 1980, 94 Stat. 2886, 2955, effective Sept. 15, 1981.
 
-Section 3922, acts Aug. 10, 1956, ch. 1041, 70A Stat. 227; Nov. 2, 1966, Pub. L. 89–718, §3, 80 Stat. 1115, provided for retirement of a regular grade brigadier general, other than a professor of the United States Military Academy, except as provided by section 8301 of title 5, on the 30th day after he completes 30 years of service or the5th anniversary of the date of his appointment in that regular grade, whichever is later, with authority for the Secretary of the Army to defer retirement in certain cases. See section 635 of this title.
+Section 3922, acts Aug. 10, 1956, ch. 1041, 70A Stat. 227; Nov. 2, 1966, Pub. L. 89–718, §3, 80 Stat. 1115, provided for retirement of a regular grade brigadier general, other than a professor of the United States Military Academy, except as provided by section 8301 of title 5, on the 30th day after he completes 30 years of service or the 5th anniversary of the date of his appointment in that regular grade, whichever is later, with authority for the Secretary of the Army to defer retirement in certain cases. See section 635 of this title.
 
 Section 3923, acts Aug. 10, 1956, ch. 1041, 70A Stat. 227; Nov. 2, 1966, Pub. L. 89–718, §3, 80 Stat. 1115, provided for retirement of a regular grade major general, except as provided by section 8301 of title 5, on the 30th day after he completes 35 years of service or the 5th anniversary of his appointment in that regular grade, whichever is later, with authority for the Secretary of the Army to defer retirement in certain cases. See section 636 of this title.
 
@@ -164,7 +164,7 @@ Pub. L. 107–107, div. A, title VIII, §811(b), Dec. 28, 2001, 115 Stat. 1181, 
 
 Pub. L. 107–314, div. A, title VIII, §819(b), Dec. 2, 2002, 116 Stat. 2613, provided that:
 
-"(1) Proposed revisions to the Department of Defense Supplement to the Federal Acquisition Regulation to implement this section shall be published not later than 90 days after the date of the enactment of this Act \[Dec. 2, 2002\], and not less than 60 days shall be provided for public comment on the proposed revisions.
+"(1) Proposed revisions to the Department of Defense Supplement to the Federal Acquisition Regulation to implement this section shall be published not later than 90 days after the date of the enactment of this Act\[Dec. 2, 2002\], and not less than 60 days shall be provided for public comment on the proposed revisions.
 
 "(2) Final regulations shall be published not later than 180 days after the date of the enactment of this Act and shall be effective on the date that is 30 days after the date of the publication."
 

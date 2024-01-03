@@ -56,7 +56,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs of the Senate;
 
-&emsp;&emsp;"(B) the Committee on Oversight and Reform of the House of Representatives; and
+&emsp;&emsp;"(B) the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives; and
 
 &emsp;&emsp;"(C) the Committee on Homeland Security of the House of Representatives.
 
@@ -126,7 +126,7 @@ Department Policies and Processes for Procurement and Use of Artificial Intellig
 
 "(c)
 
-Inspector General.—Not later than 180 days after the date of enactment of this Act, the Inspector General of the Department shall identify any training and investments needed to enable employees of the Office of the Inspector General to continually advance their understanding of—
+Inspector General.—Not later than 180 days after the date of enactment of this Act, the InspectorGeneral of the Department shall identify any training and investments needed to enable employees of the Office of the Inspector General to continually advance their understanding of—
 
 &emsp;"(1) artificial intelligence systems;
 
@@ -144,7 +144,7 @@ Artificial Intelligence Hygiene and Protection of Government Information, Privac
 
 &emsp;"(1)
 
-Establishment.—Not later than 1 year after the date of enactment of this Act, the Director, in consultation with a working group consisting ofmembers selected by the Director from appropriate interagency councils, shall develop an initial means by which to—
+Establishment.—Not later than 1 year after the date of enactment of this Act, the Director, in consultation with a working group consisting of members selected by the Director from appropriate interagency councils, shall develop an initial means by which to—
 
 &emsp;&emsp;"(A) ensure that contracts for the acquisition of an artificial intelligence system or service—
 
@@ -236,7 +236,7 @@ Purposes.—The purposes of the pilot program under this subsection include—
 
 &emsp;"(2)
 
-Deployment and pilot.—Not later than 1 year after the date of enactment of this Act, the Director, in coordination with the heads of relevant agencies and Federal entities, including the Administrator of General Services, the Bureau of Fiscal Service of the Department of the Treasury, the Council of the Inspectors General on Integrity and Efficiency, and the Pandemic Response Accountability Committee, and other officials as the Director determines to be appropriate, shall ensure the initiation of the piloting of the 4 new artificial intelligence use case applications identified under subsection (a), leveraging commercially available technologies and systems to demonstrate scalable artificial intelligence-enabled capabilities to support the use cases identified under subsection (a).
+Deployment and pilot.—Not later than 1 year after the date of enactment of this Act, the Director, in coordination with the heads of relevant agencies and Federal entities, including the Administrator of General Services, the Bureau of Fiscal Service of the Department of the Treasury, the Council of the Inspectors General on Integrity and Efficiency, and the Pandemic Response Accountability Committee, and other officials as the Director determines to be appropriate, shall ensure the initiation of the pilotingof the 4 new artificial intelligence use case applications identified under subsection (a), leveraging commercially available technologies and systems to demonstrate scalable artificial intelligence-enabled capabilities to support the use cases identified under subsection (a).
 
 &emsp;"(3)
 
@@ -252,7 +252,7 @@ Risk evaluation and mitigation plan.—In carrying out paragraph (2), the Direct
 
 &emsp;&emsp;&emsp;"(iii) the processes for training and testing, evaluating, validating, and modifying an artificial intelligence system; and
 
-&emsp;&emsp;&emsp;"(iv) the vulnerability of a utilized artificial intelligence system to unauthorized manipulationor misuse, including the use of data resources that substantially differ from the training data.
+&emsp;&emsp;&emsp;"(iv) the vulnerability of a utilized artificial intelligence system to unauthorized manipulation or misuse, including the use of data resources that substantially differ from the training data.
 
 &emsp;"(4)
 
@@ -464,7 +464,7 @@ In General.—Not later than 18 months after the date of enactment of this Act \
 
 "(b)
 
-Plan.—Not later than 120 days after the date of enactment of this Act, the Director of the Office of Personnel Management shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives a comprehensive plan with a timeline to complete requirements described in subsection (a)."
+Plan.—Not later than 120 days after the date of enactment of this Act, the Director of the Office of Personnel Management shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] ofthe House of Representatives a comprehensive plan with a timeline to complete requirements described in subsection (a)."
 
 #### GSA Modernization Centers of Excellence Program
 
@@ -528,7 +528,7 @@ Coordination.—The Administrator shall coordinate with the Secretary of Homelan
 
 "(e)
 
-Program Reporting.—Not later than 1 year after the date of enactment of this Act \[Dec. 3, 2020\], and every year thereafter, the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives a report on the Program, which shall include the following:
+Program Reporting.—Not later than 1 year after the date of enactment of this Act \[Dec. 3, 2020\], and every year thereafter, the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives a report on the Program, which shall include the following:
 
 &emsp;"(1) A description of the reimbursable agreements, statements of work, and associated project schedules and deliverables for the Program.
 
@@ -622,7 +622,7 @@ Use of funds.—An IT working capital fund established under paragraph (1) may o
 
 &emsp;"(4)
 
-Existing funds.—An IT working capital fund may not be used to supplant funds provided for theoperation and maintenance of any system within an appropriation for the covered agency at the time of establishment of the IT working capital fund.
+Existing funds.—An IT working capital fund may not be used to supplant funds provided for the operation and maintenance of any system within an appropriation for the covered agency at the time of establishment of the IT working capital fund.
 
 &emsp;"(5)
 
@@ -748,7 +748,7 @@ Review and approval.—Before making any changes to the established amounts and 
 
 &emsp;&emsp;"(C)
 
-Failure to make timely reimbursement.—The Administrator may obtain reimbursement from an agency under this paragraph by the issuance of transfer and counterwarrants, or other lawful transfer documents, supported by itemized bills, ifpayment is not made by the agency during the 90-day period beginning after the expiration of a repayment period described in a written agreement described in paragraph (6).
+Failure to make timely reimbursement.—The Administrator may obtain reimbursement from an agency under this paragraph by the issuance of transfer and counterwarrants, or other lawful transfer documents, supported by itemized bills, if payment is not made by the agency during the 90-day period beginning after the expiration of a repayment period described in a written agreement described in paragraph (6).
 
 &emsp;"(6)
 
@@ -974,7 +974,7 @@ Sec. 5. <i>Agency Inventory of AI Use Cases</i>. (a) Within 60 days of the date 
 
 Sec. 6. <i>Interagency Coordination</i>. Agencies are expected to participate in interagency bodies for the purpose of advancing the implementation of the Principles and the use of AI consistent with this order. Within 45 days of this order, the CIO Council shall publish a list of recommended interagency bodies and forums in which agencies may elect to participate, as appropriate and consistent with their respective authorities and missions.
 
-Sec. 7. <i>AI Implementation Expertise</i>. (a) Within 90 days of the date of this order, the Presidential Innovation Fellows (PIF) program, administered by the General Services Administration (GSA) in collaboration with other agencies, shall identify priority areas of expertise and establish an AI track to attract experts from industry and academia to undertake a period of work at an agency. These PIF experts will work within agencies to further the design, development, acquisition, and use of AI in Government, consistent with this order.
+Sec. 7. <i>AI Implementation Expertise</i>. (a) Within 90 days of the date of this order, the Presidential Innovation Fellows (PIF) program, administered by the GeneralServices Administration (GSA) in collaboration with other agencies, shall identify priority areas of expertise and establish an AI track to attract experts from industry and academia to undertake a period of work at an agency. These PIF experts will work within agencies to further the design, development, acquisition, and use of AI in Government, consistent with this order.
 
 (b) Within 45 days of the date of this order, the Office of Personnel Management (OPM), in coordination with GSA and relevant agencies, shall create an inventory of Federal Government rotational programs and determine how these programs can be used to expand the number of employees with AI expertise at the agencies.
 
@@ -982,7 +982,7 @@ Sec. 7. <i>AI Implementation Expertise</i>. (a) Within 90 days of the date of th
 
 Sec. 8. <i>Responsible Agencies and Officials</i>. (a) For purposes of this order, the term "agency" refers to all agencies described in section 3502, subsection (1), of title 44, United States Code, except for the agencies described in section 3502, subsection (5), of title 44.
 
-(b) This order applies to agencies that have use cases for AI that fall within the scope defined in section 9 of this order, and excludes the Department of Defense andthose agencies and agency components with functions that lie wholly within the Intelligence Community. The term "Intelligence Community" has the meaning given the term in section 3003 of title 50, United States Code.
+(b) This order applies to agencies that have use cases for AI that fall within the scope defined in section 9 of this order, and excludes the Department of Defense and those agencies and agency components with functions that lie wholly within the Intelligence Community. The term "Intelligence Community" has the meaning given the term in section 3003 of title 50, United States Code.
 
 (c) Within 30 days of the date of this order, each agency shall specify the responsible official(s) at that agency who will coordinate implementation of the Principles set forth in section 3 of this order with the Agency Data Governance Body and other relevant officials and will collaborate with the interagency coordination bodies identified pursuant to section 6 of this order.
 

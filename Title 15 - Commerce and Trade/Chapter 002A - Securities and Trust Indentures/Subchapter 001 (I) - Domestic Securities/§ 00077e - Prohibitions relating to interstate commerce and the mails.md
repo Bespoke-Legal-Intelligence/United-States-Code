@@ -28,7 +28,7 @@ Notwithstanding any other provision of this section, an emerging growth company 
 
 Notwithstanding the provisions of section 77c or 77d of this title, unless a registration statement meeting the requirements of section 77j(a) of this title is in effect as to a security-based swap, it shall be unlawful for any person, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell, offer to buy or purchase or sell a security-based swap to any person who is not an eligible contract participant as defined in section 1a(18) of title 7.
 
-(May 27, 1933, ch. 38, title I, §5, 48 Stat. 77; June 6, 1934, ch. 404, title II, §204, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, §7, 68 Stat. 684; Pub. L. 111–203, title VII, §768(b), July 21, 2010, 124 Stat. 1801; Pub. L. 112–106, title I, §105(c), Apr. 5, 2012, 126 Stat. 311.)
+(May 27, 1933, ch. 38, title I, §5, 48 Stat. 77; June 6, 1934, ch. 404, title II, §204, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, §7, 68 Stat. 684; Pub. L. 111–203, title VII, §768(b), July 21, 2010, 124 Stat.1801; Pub. L. 112–106, title I, §105(c), Apr. 5, 2012, 126 Stat. 311.)
 
 #### <b>Editorial Notes</b>
 
@@ -112,7 +112,7 @@ Interim Effectiveness of Safe Harbor.—
 
 &emsp;"(1)
 
-In general.—From and after the 270-day period beginning on the date of enactment of this Act, if the Commission has not adopted revisions to section 230.139 of title 17, Code of Federal Regulations, as required by subsection (a), and until such time as the Commission has done so, a broker or dealer distributing or publishing a covered investment fund research report after such date shall be able to rely on the provisions of section 230.139 of title 17, Code of Federal Regulations, and the broker or dealer's publication of such report shall be deemed to satisfy the conditions of paragraph (1) or (2) of section 230.139(a) of title 17, Code of Federal Regulations, if the covered investment fund that is the subject of such report satisfies the reporting history requirements (withoutregard to Form S–3 or Form F–3 eligibility) and minimum float provisions of such subsections for purposes of the Commission's rules and regulations under the Federal securities laws and the rules of any self-regulatory organization, as if revised and implemented in accordance with subsections (a) and (b).
+In general.—From and after the 270-day period beginning on the date of enactment of this Act, if the Commission has not adopted revisions to section 230.139 of title 17, Code of Federal Regulations, as required by subsection (a), and until such time as the Commission has done so, a broker or dealer distributing or publishing a covered investment fund research report after such date shall be able to rely on the provisions of section 230.139 of title 17, Code of Federal Regulations, and the broker or dealer's publication of such report shall be deemed to satisfy the conditions of paragraph (1) or (2) of section 230.139(a) of title 17, Code of Federal Regulations, if the covered investment fund that is the subject of such report satisfies the reporting history requirements (without regard to Form S–3 or Form F–3 eligibility) and minimum float provisions of such subsections for purposes of the Commission's rules and regulations under the Federal securities laws and the rules of any self-regulatory organization, as if revised and implemented in accordance with subsections (a) and (b).
 
 &emsp;"(2)
 

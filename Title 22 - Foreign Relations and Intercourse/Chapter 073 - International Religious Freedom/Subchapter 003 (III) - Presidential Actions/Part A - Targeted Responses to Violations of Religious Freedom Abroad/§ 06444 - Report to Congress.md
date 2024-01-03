@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b), not later than 90 days after the President decides to take action under section 6441 of this title in response to violations of religious freedom and the President decides to take action under paragraphs (9) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto) with respect to that country, or not later than 90 days after the President designates a country as a country of particular concern for religious freedom under section 6442 of this title, as the case may be, the President shall submit a report to Congress containing the following:
+Subject to subsection (b), not later than 90 days after the President decides to take action under section 6441 of this title in response to violations of religious freedom and the President decides to take action under paragraphs (9) through (15) of section 6445(a) of this title (orcommensurate action in substitution thereto) with respect to that country, or not later than 90 days after the President designates a country as a country of particular concern for religious freedom under section 6442 of this title, as the case may be, the President shall submit a report to Congress containing the following:
 
 #### (1) Identification of Presidential actions
 
@@ -20,7 +20,7 @@ Subject to subsection (b), not later than 90 days after the President decides to
 
 #### (A) Description
 
-&emsp;&emsp;An evaluation, in consultation with the Secretary of State, the Ambassador at Large, the Commission, the Special Adviser,the parties described in section 6443(c) and (d) of this title, and whoever else the President deems appropriate, of—
+&emsp;&emsp;An evaluation, in consultation with the Secretary of State, the Ambassador at Large, the Commission, the Special Adviser, the parties described in section 6443(c) and (d) of this title, and whoever else the President deems appropriate, of—
 
 &emsp;&emsp;&emsp;(i) the impact upon the foreign government;
 

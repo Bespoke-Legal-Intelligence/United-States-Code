@@ -14,7 +14,7 @@ Acquisition of Land by Condemnation for Certain Military Purposes.—(1) Subject
 
 (b)
 
-Acquisition by Purchase in Lieu of Condemnation.—The Secretary of the military department concerned may contract for or buy any interest in land, including temporary use, needed for any purpose named in subsection (a), as soon as the owner fixes a price for it and the Secretary considers that price to be reasonable.
+Acquisition by Purchase in Lieu of Condemnation.—The Secretary of the military department concerned may contract for or buy any interest in land, including temporary use, needed for any purpose named in subsection (a),as soon as the owner fixes a price for it and the Secretary considers that price to be reasonable.
 
 (c)
 
@@ -50,7 +50,7 @@ Acquisition of Interests in Land When Need Is Urgent.—(1) The Secretary of a m
 
 (e)
 
-Survey Authority; Acquisition Methods.—Authority provided the Secretary of amilitary department by law to acquire an interest in real property (including a temporary interest) includes authority—
+Survey Authority; Acquisition Methods.—Authority provided the Secretary of a military department by law to acquire an interest in real property (including a temporary interest) includes authority—
 
 &emsp;(1) to make surveys; and
 
@@ -82,7 +82,7 @@ Land Acquisition Options in Advance of Military Construction Projects.—(1) The
 
 (2) As consideration for an option acquired under paragraph (1), the Secretary may pay, from funds available to the military department under the jurisdiction of the Secretary for real property activities, an amount that is not more than 12 percent of the appraised fair market value of the property.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 85–861, §33(a)(14), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 109–163, div. B, title XXVIII, §2821(a), Jan. 6, 2006, 119 Stat. 3511; Pub. L. 109–364, div. B, title XXVIII, §2821(b), Oct. 17, 2006, 120 Stat. 2474; Pub. L. 110–181, div. B, title XXVIII, §2822(a), Jan. 28, 2008, 122 Stat. 544; Pub. L. 111–383, div. A, title X, §1075(g)(6), Jan. 7, 2011, 124 Stat. 4377; Pub. L. 115–91, div. B, title XXVIII, §2811(b), (c), Dec. 12, 2017, 131 Stat. 1848.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 85–861, §33(a)(14), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 109–163, div. B, title XXVIII, §2821(a), Jan. 6, 2006, 119 Stat. 3511; Pub. L. 109–364, div. B, title XXVIII, §2821(b), Oct. 17, 2006, 120 Stat. 2474; Pub. L. 110–181, div. B, title XXVIII, §2822(a), Jan. 28, 2008, 122 Stat. 544; Pub. L. 111–383, div. A, title X, §1075(g)(6), Jan. 7, 2011, 124 Stat. 4377;Pub. L. 115–91, div. B, title XXVIII, §2811(b), (c), Dec. 12, 2017, 131 Stat. 1848.)
 
 Historical and Revision Notes<br>1956
 

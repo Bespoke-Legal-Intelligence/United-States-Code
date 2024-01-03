@@ -34,7 +34,7 @@ Program Administration.—In carrying out the program under this section, the Na
 
 &emsp;(1) projects and researchers are selected to conduct research for the program on the basis of merit and open solicitation of proposals and review by panels of appropriate experts;
 
-&emsp;(2) State department of transportation officials and other stakeholders, as appropriate, are involved in the governance of the program at the overall program level and technicallevel through the use of expert panels and committees;
+&emsp;(2) State department of transportation officials and other stakeholders, as appropriate, are involved in the governance of the program at the overall program level and technical level through the use of expert panels and committees;
 
 &emsp;(3) the Council acquires a qualified, permanent core staff with the ability and expertise to manage the program and multiyear budget; and
 

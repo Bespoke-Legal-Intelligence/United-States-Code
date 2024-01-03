@@ -48,7 +48,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act, t
 
 #### Modification of Certificate of Release or Discharge From Active Duty (DD Form 214)
 
-Pub. L. 110–181, div. A, title V, §596, Jan. 28, 2008, 122 Stat. 139, provided that: "The Secretary of Defense, in consultation with the Secretary of Veterans Affairs,shall modify the Certificate of Release or Discharge from Active Duty (DD Form 214) in order to permit a member of the Armed Forces, upon discharge or release from active duty in the Armed Forces, to elect that the DD–214 issued with regard to the member be forwarded to the following:
+Pub. L. 110–181, div. A, title V, §596, Jan. 28, 2008, 122 Stat. 139, provided that: "The Secretary of Defense, in consultation with the Secretary of Veterans Affairs, shall modify the Certificate of Release or Discharge from Active Duty (DD Form 214) in order to permit a member of the Armed Forces, upon discharge or release from active duty in the Armed Forces, to elect that the DD–214 issued with regard to the member be forwarded to the following:
 
 &emsp;"(1) The Central Office of the Department of Veterans Affairs in the District of Columbia.
 

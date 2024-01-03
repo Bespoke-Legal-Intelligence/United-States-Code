@@ -2,7 +2,7 @@
 
 Whoever steals, purloins, or embezzles any property used by the Postal Service, or appropriates any such property to his own or any other than its proper use, or conveys away any such property to the hindrance or detriment of the public service, shall be fined under this title or imprisoned not more than three years, or both; but if the value of such property does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 779; Pub. L. 91–375, §6(j)(18), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, §330016(1)(G), (H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 779; Pub. L. 91–375, §6(j)(18), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, §330016(1)(G), (H), Sept. 13,1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -22,7 +22,7 @@ Minor changes in phraseology were made.
 
 <b>1996</b>—Pub. L. 104–294 substituted "$1,000" for "$100".
 
-<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" after "service,shall be" and for "fined not more than $500" after "he shall be".
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" after "service, shall be" and for "fined not more than $500" after "he shall be".
 
 <b>1970</b>—Pub. L. 91–375 substituted "Postal Service" for "Post Office Department".
 

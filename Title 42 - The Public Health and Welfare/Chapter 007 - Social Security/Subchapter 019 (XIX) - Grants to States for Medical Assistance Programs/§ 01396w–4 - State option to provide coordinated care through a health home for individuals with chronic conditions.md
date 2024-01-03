@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability), and any other provision of this subchapter for which the Secretary determines it is necessary to waive in order to implement this section, beginning January 1, 2011, a State, at its option as a State plan amendment, may provide for medical assistance under this subchapter to eligible individuals with chronic conditions who select a designated provider (as described under subsection (h)(5)), a team of health care professionals (as described under subsection (h)(6)) operating with such a provider, or a health team (as described under subsection (h)(7)) as the individual's health home for purposes of providing the individual with health home services.
+Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section1396a(a)(10)(B) of this title (relating to comparability), and any other provision of this subchapter for which the Secretary determines it is necessary to waive in order to implement this section, beginning January 1, 2011, a State, at its option as a State plan amendment, may provide for medical assistance under this subchapter to eligible individuals with chronic conditions who select a designated provider (as described under subsection (h)(5)), a team of health care professionals (as described under subsection (h)(6)) operating with such a provider, or a health team (as described under subsection (h)(7)) as the individual's health home for purposes of providing the individual with health home services.
 
 #### (b) Health home qualification standards
 
@@ -62,7 +62,7 @@ The Secretary shall establish standards for qualification as a designated provid
 
 #### (C) Best practices
 
-&emsp;&emsp;Not later than October 1, 2020, the Secretary shall make publicly available on the internet website of the Centers for Medicare \& Medicaid Services best practices for designing and implementing an SUD-focused State plan amendment, based on the experiences of States that have State plan amendments approved under this section that include SUD-eligible individuals.
+&emsp;&emsp;Not later than October 1, 2020, the Secretary shall make publicly available on theinternet website of the Centers for Medicare \& Medicaid Services best practices for designing and implementing an SUD-focused State plan amendment, based on the experiences of States that have State plan amendments approved under this section that include SUD-eligible individuals.
 
 #### (D) Definitions
 

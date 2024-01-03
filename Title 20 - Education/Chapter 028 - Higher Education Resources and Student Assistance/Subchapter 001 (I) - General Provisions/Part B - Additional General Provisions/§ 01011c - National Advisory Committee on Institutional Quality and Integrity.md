@@ -142,7 +142,7 @@ A prior section 1011c, Pub. L. 89–329, title I, §124, as added Pub. L. 102–
 
 #### Amendments
 
-<b>2022</b>—Subsec. (d)(4). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5 shall apply to the Committee, except that section 1013 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee, except that section 14 of such Act" in text.
+<b>2022</b>—Subsec. (d)(4). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5 shallapply to the Committee, except that section 1013 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee, except that section 14 of such Act" in text.
 
 <b>2020</b>—Subsec. (f). Pub. L. 116–260 substituted "2021" for "2020".
 
@@ -168,7 +168,7 @@ Pub. L. 110–315, title I, §106(c), Aug. 14, 2008, 122 Stat. 3093, provided th
 
 #### Termination of Committee
 
-Pub. L. 117–328, div. H, title III, §305, Dec. 29, 2022, 136 Stat. 4897, provided that: "Section 114(f) of the HEA\[Higher Education Act of 1965\] (20 U.S.C. 1011c(f)) shall be applied by substituting '2023' for '2021'."
+Pub. L. 117–328, div. H, title III, §305, Dec. 29, 2022, 136 Stat. 4897, provided that: "Section 114(f) of the HEA \[Higher Education Act of 1965\] (20 U.S.C. 1011c(f)) shall be applied by substituting '2023' for '2021'."
 
 Similar provisions were contained in the following prior appropriation act:
 

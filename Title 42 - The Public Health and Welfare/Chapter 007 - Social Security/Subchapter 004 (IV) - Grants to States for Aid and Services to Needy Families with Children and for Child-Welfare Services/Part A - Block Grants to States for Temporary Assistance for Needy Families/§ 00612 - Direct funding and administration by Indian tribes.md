@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Labor shall award a grant in accordance with this paragraph to an Indian tribe for each fiscal year specified in section 603(a)(5)(H) of this title for which the Indian tribe is a welfare-to-work tribe,in such amount as the Secretary of Labor deems appropriate, subject to subparagraph (B) of this paragraph.
+&emsp;&emsp;The Secretary of Labor shall award a grant in accordance with this paragraph to an Indian tribe for each fiscal year specified in section 603(a)(5)(H) of this title for which the Indian tribe is a welfare-to-work tribe, in such amount as the Secretary of Labor deems appropriate, subject to subparagraph (B) of this paragraph.
 
 #### (B) Welfare-to-work tribe
 
@@ -116,7 +116,7 @@ Nothing in this section shall preclude an Indian tribe from seeking emergency as
 
 #### (e) Accountability
 
-Nothing in this section shall be construed to limit the ability of the Secretary to maintainprogram funding accountability consistent with—
+Nothing in this section shall be construed to limit the ability of the Secretary to maintain program funding accountability consistent with—
 
 &emsp;(1) generally accepted accounting principles; and
 
@@ -140,7 +140,7 @@ Section 611 of this title shall apply to an Indian tribe with an approved tribal
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, and except as provided in paragraph (2), an Indian tribe in the State of Alaska that receives a tribal family assistance grant under this section shall use the grant to operate a program in accordance with requirements comparable to the requirements applicable to the program of the State of Alaska funded under this part. Comparability of programs shall be established on the basis of program criteria developed by the Secretary in consultation with the State of Alaska and such Indian tribes.
+&emsp;Notwithstanding any other provision of this section, and except as provided in paragraph (2), an Indian tribe in the State of Alaska that receives a tribal family assistance grant under this section shall use the grant to operate a program in accordance with requirements comparable to the requirements applicable to the program of the State of Alaska funded under this part. Comparability of programsshall be established on the basis of program criteria developed by the Secretary in consultation with the State of Alaska and such Indian tribes.
 
 #### (2) Waiver
 

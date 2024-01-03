@@ -26,7 +26,7 @@ Not later than 1 year after September 27, 2007, the Secretary shall establish an
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this title", meaning title X of Pub. L. 110–85, Sept. 27, 2007, 121 Stat. 962, which enacted this chapter and section 350f of this title, amended sections 321 and 331 of this title, and enacted provisions set out as notesunder sections 350f and 2110 of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in subsec. (a), was in the original "this title", meaning title X of Pub. L. 110–85, Sept. 27, 2007, 121 Stat. 962, which enacted this chapter and section 350f of this title, amended sections 321 and 331 of this title, and enacted provisions set out as notes under sections 350f and 2110 of this title. For complete classification of title X to the Code, see Tables.
 
 #### Amendments
 

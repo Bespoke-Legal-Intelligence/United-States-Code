@@ -12,7 +12,7 @@ The Strategic and Critical Materials Stock Piling Act, referred to in text, is a
 
 The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 1421 of this title and Tables.
 
-The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§1281 et seq.) of thistitle. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 #### Amendments
 

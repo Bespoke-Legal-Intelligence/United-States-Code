@@ -136,7 +136,7 @@ Delegation.—The Secretary may not delegate the approval required under subpara
 
 &emsp;"(4)
 
-Protection measures.—If the Secretary determines that the identity of the recipient of a rewardor of the members of the recipient's immediate family must be protected, the Secretary shall, consistent with applicable law, take such measures in connection with the payment of the reward as the Secretary considers necessary to effect such protection.
+Protection measures.—If the Secretary determines that the identity of the recipient of a reward or of the members of the recipient's immediate family must be protected, the Secretary shall, consistent with applicable law, take such measures in connection with the payment of the reward as the Secretary considers necessary to effect such protection.
 
 &emsp;"(5)
 

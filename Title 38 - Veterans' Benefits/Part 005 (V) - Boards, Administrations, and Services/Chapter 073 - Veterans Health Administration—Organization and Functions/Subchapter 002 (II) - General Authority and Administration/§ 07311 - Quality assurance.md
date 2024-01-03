@@ -8,7 +8,7 @@
 
 (b)(1) As part of the quality-assurance program, the Under Secretary for Health shall periodically evaluate—
 
-&emsp;(A) whether there are significant deviations in mortality and morbidity rates for surgical procedures performed by the Administration from prevailing national mortality and morbidity standards for similar procedures; and
+&emsp;(A) whether there are significant deviations in mortality and morbidity rates for surgicalprocedures performed by the Administration from prevailing national mortality and morbidity standards for similar procedures; and
 
 &emsp;(B) if there are such deviations, whether they indicate deficiencies in the quality of health care provided by the Administration.
 
@@ -160,7 +160,7 @@ Pub. L. 102–139, title I, §101, Oct. 28, 1991, 105 Stat. 742, provided that:
 
 "(a)
 
-Regulations for Standards of Performance in Department of Veterans Affairs Laboratories.—(1) Within the 120-day period beginning on the date on which the Secretary of Health and Human Services promulgates final regulations to implement the standards required by section 353 of the Public Health Service Act\(42 U.S.C. 263a), the Secretary of Veterans Affairs, in accordance with the Secretary's authority under title 38, United States Code, shall prescribe regulations to assure consistent performance by medical facility laboratories under the jurisdiction of the Secretary of valid and reliable laboratory examinations and other procedures. Such regulations shall be prescribed in consultation with the Secretary of Health and Human Services and shall establish standards equal to that applicable to other medical facility laboratories in accordance with the requirements of section 353(f) of the Public Health Service Act.
+Regulations for Standards of Performance in Department of Veterans Affairs Laboratories.—(1) Within the 120-day period beginning on the date on which the Secretary of Health and Human Services promulgates final regulations to implement the standards required by section 353 of the Public Health Service Act (42 U.S.C. 263a), the Secretary of Veterans Affairs, in accordance with the Secretary's authority under title 38, United States Code, shall prescribe regulations to assure consistent performance by medical facility laboratories under the jurisdiction of the Secretary of valid and reliable laboratory examinations and other procedures. Such regulations shall be prescribed in consultation with the Secretary of Health and Human Services and shall establish standards equal to that applicable to other medical facility laboratories in accordance with the requirements of section 353(f) of the Public Health Service Act.
 
 "(2) Such regulations—
 

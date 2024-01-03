@@ -16,7 +16,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;Under regulations prescribed by the Secretary, if any shareholder terminates the shareholder's interest in the corporation during the taxable year and all affected shareholders and the corporation agree to the application of this paragraph, paragraph (1) shall be applied to the affected shareholders as if the taxable year consisted of 2 taxable years the first of which ends on the date of the termination.
+&emsp;&emsp;Under regulations prescribed by the Secretary, if any shareholder terminates the shareholder's interest in the corporationduring the taxable year and all affected shareholders and the corporation agree to the application of this paragraph, paragraph (1) shall be applied to the affected shareholders as if the taxable year consisted of 2 taxable years the first of which ends on the date of the termination.
 
 #### (B) Affected shareholders
 

@@ -174,11 +174,11 @@ Limitation on Use of Funds.—\[Amended section 401(c)(2) of this title.\]
 
 "(c)
 
-Notifications Regarding Humanitarian Relief.—Any notification provided to the appropriate congressional committees with respect to assistanceactivities under section 2551 \[now 2561\] of title 10, United States Code, shall include a detailed description of any items for which transportation is provided that are excess nonlethal supplies of the Department of Defense, including the quantity, acquisition value, and value at the time of the transportation of such items.
+Notifications Regarding Humanitarian Relief.—Any notification provided to the appropriate congressional committees with respect to assistance activities under section 2551 \[now 2561\] of title 10, United States Code, shall include a detailed description of any items for which transportation is provided that are excess nonlethal supplies of the Department of Defense, including the quantity, acquisition value, and value at the time of the transportation of such items.
 
 "(d)
 
-Report on Humanitarian Assistance Activities.—(1) The Secretary of Defense shall submit to the appropriate congressional committees a report on the activities planned to be carried out by the Department of Defense during fiscal year 1995 under sections 401, 402, 2547 \[now 2557\], and 2551 \[now 2561\] of title 10, United States Code. The report shall include information, developed after consultation with the Secretary of State, on the distribution of excess nonlethal supplies transferred to the Secretary of State during fiscal year 1993 pursuant to section 2547 of that title.
+Report on Humanitarian Assistance Activities.—(1) The Secretary of Defense shall submit to the appropriate congressional committees a report on theactivities planned to be carried out by the Department of Defense during fiscal year 1995 under sections 401, 402, 2547 \[now 2557\], and 2551 \[now 2561\] of title 10, United States Code. The report shall include information, developed after consultation with the Secretary of State, on the distribution of excess nonlethal supplies transferred to the Secretary of State during fiscal year 1993 pursuant to section 2547 of that title.
 
 "(2) The report shall be submitted at the same time that the President submits the budget for fiscal year 1995 to Congress pursuant to section 1105 of title 31, United States Code.
 

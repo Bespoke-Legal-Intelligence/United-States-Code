@@ -66,7 +66,7 @@
 
 #### (e) Report
 
-Not later than 180 days after the end of fiscal year 2005, the Comptroller General shall submitto the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives a report on the use of the authorities provided in this section. The report shall contain the following:
+Not later than 180 days after the end of fiscal year 2005, the Comptroller General shall submit to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives a report on the use of the authorities provided in this section. The report shall contain the following:
 
 &emsp;(1) An assessment of the extent to which property and services acquired using authorities provided under this section contributed to the capacity of the Federal workforce to facilitate the mission of the Department as described in section 111 of this title.
 
@@ -104,7 +104,7 @@ Section is comprised of section 833 of Pub. L. 107–296. Subsec. (c)(2) of sect
 
 #### Change of Name
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

@@ -18,7 +18,7 @@ As used in this chapter, the term—
 
 &emsp;(C) In determining the amount of power that a conservation measure or other resource may be expected to save or to produce, the Council or the Administrator, as the case may be, shall take into account projected realization factors and plant factors, including appropriate historical experience with similar measures or resources.
 
-&emsp;(D) For purposes of this paragraph, the "estimated incremental system cost" of any conservation measure or resource shall not be treated as greater than that of any nonconservation measure or resource unless the incremental system cost of such conservation measure or resource is in excess of 110 per centum of the incremental system cost of the nonconservation measure or resource.
+&emsp;(D) For purposes of this paragraph, the "estimated incremental system cost" of any conservation measure or resource shall not be treated as greater than that of any nonconservation measure or resource unless the incremental system cost of such conservationmeasure or resource is in excess of 110 per centum of the incremental system cost of the nonconservation measure or resource.
 
 &emsp;(5) "Consumer" means any end user of electric power.
 

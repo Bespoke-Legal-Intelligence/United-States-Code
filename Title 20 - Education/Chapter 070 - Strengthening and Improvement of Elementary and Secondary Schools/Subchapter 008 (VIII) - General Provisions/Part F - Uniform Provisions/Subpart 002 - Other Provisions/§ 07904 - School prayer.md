@@ -10,7 +10,7 @@ As a condition of receiving funds under this chapter, a local educational agency
 
 #### (c) Enforcement
 
-The Secretary is authorized and directed to effectuate subsection (b) by issuing, and securing compliance with, rules or orders with respect to a local educational agency that fails to certify, or is found to have certified in bad faith, that no policy of the local educational agency prevents, or otherwise denies participation in, constitutionally protected prayer in public elementary schools and secondary schools.
+The Secretary is authorized and directed to effectuate subsection (b) by issuing, and securing compliance with, rules or orders with respect to a local educational agency that fails to certify, or is found to have certified in bad faith, that nopolicy of the local educational agency prevents, or otherwise denies participation in, constitutionally protected prayer in public elementary schools and secondary schools.
 
 (Pub. L. 89–10, title VIII, §8524, formerly title IX, §9524, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1980; renumbered title VIII, §8524, and amended Pub. L. 114–95, title VIII, §§8001(a)(6), 8021, Dec. 10, 2015, 129 Stat. 2088, 2089, 2112.)
 

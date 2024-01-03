@@ -46,6 +46,7 @@
 | [<b>1407.</b>](Part%20003%20%28III%29%20-%20Promotion%20and%20Retention%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List/Chapter%201407%20-%20Failure%20of%20Selection%20for%20Promotion%20and%20Involuntary%20Separation/README.md) | <b>Failure of Selection for Promotion and Involuntary Separation</b> | <b>14501</b> |
 | [<b>1409.</b>](Part%20003%20%28III%29%20-%20Promotion%20and%20Retention%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List/Chapter%201409%20-%20Continuation%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List%20and%20Selective%20Early%20Removal/README.md) | <b>Continuation of Officers on the Reserve Active-Status List and Selective Early Removal</b> | <b>14701</b> |
 | [<b>1411.</b>](Part%20003%20%28III%29%20-%20Promotion%20and%20Retention%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List/Chapter%201411%20-%20Additional%20Provisions%20Relating%20to%20Involuntary%20Separation/README.md) | <b>Additional Provisions Relating to Involuntary Separation</b> | <b>14901</b> |
+| [<b>1413.</b>](Part%20003%20%28III%29%20-%20Promotion%20and%20Retention%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List/Chapter%201413%20-%20Alternative%20Promotion%20Authority%20for%20Officers%20in%20Designated%20Competitive%20Categories/README.md) | <b>Alternative Promotion Authority for Officers in Designated Competitive Categories</b> | <b>15101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,6 +76,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title V, §514(a), Dec. 22, 2023, 137 Stat. 245, added item for chapter 1413. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title X, §1073(a)(33), Oct. 28, 2009, 123 Stat. 2474, substituted "Reserve Active-Status List" for "Reserve-Active Status List" in item for chapter 1409.
 

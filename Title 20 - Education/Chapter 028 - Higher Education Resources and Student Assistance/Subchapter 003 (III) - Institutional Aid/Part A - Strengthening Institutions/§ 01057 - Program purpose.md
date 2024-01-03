@@ -90,7 +90,7 @@ A prior section 1057, Pub. L. 89–329, title III, §311, as added Pub. L. 96–
 
 Subsec. (b)(3)(F). Pub. L. 110–315, §301(1)(B), inserted ", including services that will assist in the education of special populations" before period at end.
 
-Subsec. (c)(6). Pub. L. 110–315, §301(2)(A), inserted ", including innovative, customized, instruction courses designed to help retain students and move the students rapidly into core courses and through program completion, which may include remedial education and English language instruction" before period at end.
+Subsec. (c)(6). Pub. L. 110–315, §301(2)(A), inserted ", including innovative, customized, instruction courses designed to help retain students and move the students rapidly into core courses and through programcompletion, which may include remedial education and English language instruction" before period at end.
 
 Subsec. (c)(7) to (13). Pub. L. 110–315, §301(2)(B)–(E), added par. (7), redesignated former pars. (7) to (12) as pars. (8) to (13), respectively, in par. (12), substituted "distance education technologies" for "distance learning academic instruction capabilities" and, in introductory provisions of par. (13), substituted "subsection (b) and section 1068 of this title" for "subsection (c)".
 

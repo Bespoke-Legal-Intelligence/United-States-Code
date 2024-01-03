@@ -70,7 +70,7 @@ Academy Graduates and Distinguished ROTC Graduates To Serve in Selected Reserve 
 
 "(b)
 
-ROTC Graduates.—The Secretary of the Army shall provide a program under which graduates of theReserve Officers' Training Corps program may perform their minimum period of obligated service by a combination of (A) two years of active duty, and (B) such additional period of service as is necessary to complete the remainder of such obligation, to be served in the Selected Reserve.
+ROTC Graduates.—The Secretary of the Army shall provide a program under which graduates of the Reserve Officers' Training Corps program may perform their minimum period of obligated service by a combination of (A) two years of active duty, and (B) such additional period of service as is necessary to complete the remainder of such obligation, to be served in the Selected Reserve.
 
 #### "\[SEC. 1113. Repealed. Pub. L. 116–92, div. A, title V, §520, Dec. 20, 2019, 133 Stat. 1351.\]
 

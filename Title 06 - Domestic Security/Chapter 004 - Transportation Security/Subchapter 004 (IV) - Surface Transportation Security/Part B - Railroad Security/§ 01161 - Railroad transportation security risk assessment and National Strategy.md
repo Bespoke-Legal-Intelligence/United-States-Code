@@ -56,7 +56,7 @@ The Secretary shall establish a Federal task force, including the Transportation
 
 #### (3) Responsibilities
 
-&emsp;The Secretary shall include in the modal plan a description of the roles, responsibilities, and authorities of Federal, State, and local agencies, government-sponsored entities,tribal governments, and appropriate stakeholders described in subsection (c). The plan shall also include—
+&emsp;The Secretary shall include in the modal plan a description of the roles, responsibilities, and authorities of Federal, State, and local agencies, government-sponsored entities, tribal governments, and appropriate stakeholders described in subsection (c). The plan shall also include—
 
 &emsp;&emsp;(A) the identification of, and a plan to address, gaps and unnecessary overlaps in the roles, responsibilities, and authorities described in this paragraph;
 

@@ -8,9 +8,9 @@
 
 &emsp;(A) in the case of a grantee which discontinues the provision of all hospital services or all inpatient hospital services or an identifiable part of a hospital facility which provides inpatient hospital services, for the liquidation of the outstanding debt on the facilities of the grantee used for the provision of the services or for the liquidation of the outstanding debt of the grantee on such identifiable part;
 
-&emsp;(B) in the case of a grantee which in discontinuing the provision of an inpatient hospital service converts or proposes to convert an identifiable part of a hospital facility used in the provision of the discontinued service tothe delivery of other health services, for the planning, development (including construction and acquisition of equipment), and delivery of the health service;
+&emsp;(B) in the case of a grantee which in discontinuing the provision of an inpatient hospital service converts or proposes to convert an identifiable part of a hospital facility used in the provision of the discontinued service to the delivery of other health services, for the planning, development (including construction and acquisition of equipment), and delivery of the health service;
 
-&emsp;(C) to provide reasonable termination pay for personnel of the grantee who will lose employment because of the discontinuance of hospital services made by the grantee, retraining of such personnel, assisting such personnel in securing employment, and other costs of implementing arrangements described in subsection (c); and
+&emsp;(C) to provide reasonable termination pay for personnel of the grantee who will lose employment because of the discontinuance ofhospital services made by the grantee, retraining of such personnel, assisting such personnel in securing employment, and other costs of implementing arrangements described in subsection (c); and
 
 &emsp;(D) for such other costs which the Secretary determines may need to be incurred by the grantee in discontinuing hospital services.
 
@@ -46,7 +46,7 @@
 
 (1) Except as provided in paragraph (3), the Secretary may not approve an application submitted under subsection (b) unless the Secretary of Labor has certified that fair and equitable arrangements have been made to protect the interests of employees affected by the discontinuance of services against a worsening of their positions with respect to their employment, including arrangements to preserve the rights of employees under collective-bargaining agreements, continuation of collective-bargaining rights consistent with the provisions of the National Labor Relations Act \[29 U.S.C. 151 et seq.\], reassignment of affected employees to other jobs, retraining programs, protecting pension, health benefits, and other fringe benefits of affected employees, and arranging adequate severance pay, if necessary.
 
-(2) The Secretary of Labor shall by regulation prescribe guidelines for arrangements for the protection of the interests of employees affected by the discontinuance of hospital services. The Secretary of Labor shall consult with the Secretary of Health and Human Services in the promulgation of such guidelines. Such guidelines shall first be promulgated not later than the promulgation of regulations by the Secretary for the administration of the grants authorized by section 300t–11 of this title.
+(2) The Secretary of Labor shall by regulation prescribe guidelines for arrangements for the protection of the interests of employees affected by the discontinuance of hospital services. The Secretary of Labor shall consult with the Secretary of Health and Human Services in the promulgation of such guidelines. Such guidelines shall first be promulgated not later than the promulgation of regulations by the Secretaryfor the administration of the grants authorized by section 300t–11 of this title.
 
 (3) The Secretary of Labor shall review each application submitted under subsection (b) to determine if the arrangements described in paragraph (1) have been made and if they are satisfactory and shall notify the Secretary respecting his determination. Such review shall be completed within—
 

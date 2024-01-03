@@ -44,7 +44,7 @@ Each center for independent living that receives assistance under this subpart s
 
 #### (c) Assurances
 
-The eligible agency shall provide at such time and in such manner as the Administrator may require, such satisfactory assurances as the Administrator may require, including satisfactory assurances that—
+The eligible agency shall provide at such time and in such manner as the Administrator mayrequire, such satisfactory assurances as the Administrator may require, including satisfactory assurances that—
 
 &emsp;(1) the applicant is an eligible agency;
 
@@ -86,7 +86,7 @@ The eligible agency shall provide at such time and in such manner as the Adminis
 
 &emsp;(14) an independent living plan described in section 796c(e) of this title will be developed unless the individual who would receive services under the plan signs a waiver stating that such a plan is unnecessary.
 
-(Pub. L. 93–112, title VII, §725, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1234;amended Pub. L. 105–332, §5(c), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 113–128, title IV, §483, July 22, 2014, 128 Stat. 1693.)
+(Pub. L. 93–112, title VII, §725, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1234; amended Pub. L. 105–332, §5(c), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 113–128, title IV, §483, July 22, 2014, 128 Stat. 1693.)
 
 #### <b>Editorial Notes</b>
 

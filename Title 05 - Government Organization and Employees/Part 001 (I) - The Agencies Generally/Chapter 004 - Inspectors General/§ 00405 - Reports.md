@@ -70,7 +70,7 @@ Semiannual Reports.—Each Inspector General shall, not later than April 30 and 
 
 &emsp;(4) a summary of matters referred to prosecutive authorities and the prosecutions and convictions which have resulted;
 
-&emsp;(5) a summary of each report made to the head of the establishment under section406(c)(2) of this title during the reporting period;
+&emsp;(5) a summary of each report made to the head of the establishment under section 406(c)(2) of this title during the reporting period;
 
 &emsp;(6) a listing, subdivided according to subject matter, of each audit report, inspection report, and evaluation report issued by the Office during the reporting period and for each report, where applicable, the total dollar value of questioned costs (including a separate category for the dollar value of unsupported costs) and the dollar value of recommendations that funds be put to better use;
 
@@ -138,7 +138,7 @@ Semiannual Reports.—Each Inspector General shall, not later than April 30 and 
 
 &emsp;(18) a description of the metrics used for developing the data for the statistical tables under paragraph (17);
 
-&emsp;(19) a report on each investigation conducted by the Office involving a senior Government employee where allegations of misconduct were substantiated, including the name of the senior government official (as defined by the department or agency) if already made public by the Office, and a detailed description of—
+&emsp;(19) a report on each investigation conducted by the Office involving a senior Governmentemployee where allegations of misconduct were substantiated, including the name of the senior government official (as defined by the department or agency) if already made public by the Office, and a detailed description of—
 
 &emsp;&emsp;(A) the facts and circumstances of the investigation; and
 
@@ -218,7 +218,7 @@ Reports Available to Public.—Within 60 days of the transmission of the semiann
 
 (e)
 
-Reporting Serious Problems, Abuses, or Deficiencies.—Each Inspector General shall report immediately to the head of the establishment involved whenever the Inspector General becomes aware of particularly serious or flagrant problems, abuses, or deficiencies relating to the administration of programs and operations of the establishment. The head of the establishment shall transmit any such report to the appropriate committees or subcommittees of Congress within 7 calendar days, together with a report by the head of the establishment containing any comments the establishment head deems appropriate.
+Reporting Serious Problems, Abuses, or Deficiencies.—Each Inspector General shall report immediately to the head of the establishment involved whenever the Inspector General becomes aware of particularly serious or flagrant problems, abuses, or deficiencies relatingto the administration of programs and operations of the establishment. The head of the establishment shall transmit any such report to the appropriate committees or subcommittees of Congress within 7 calendar days, together with a report by the head of the establishment containing any comments the establishment head deems appropriate.
 
 (f)
 
@@ -230,7 +230,7 @@ In general.—Nothing in this section shall be construed to authorize the public
 
 &emsp;&emsp;(A) specifically prohibited from disclosure by any other provision of law;
 
-&emsp;&emsp;(B) specifically required by Executive order to be protected from disclosure in theinterest of national defense or national security or in the conduct of foreign affairs; or
+&emsp;&emsp;(B) specifically required by Executive order to be protected from disclosure in the interest of national defense or national security or in the conduct of foreign affairs; or
 
 &emsp;&emsp;(C) a part of an ongoing criminal investigation.
 
@@ -302,7 +302,7 @@ Protection of personally identifiable information of whistleblowers.—An Office
 
 &emsp;&emsp;&emsp;<i>"(i) with budget constraints designed to limit the capabilities of the Office; and</i>
 
-&emsp;&emsp;&emsp;<i>"(ii) incidents where the establishment has resisted or objected to oversight activities of the Office or restricted or significantly delayed access to information, including the justification of the establishment for such action; and</i>
+&emsp;&emsp;&emsp;<i>"(ii) incidents where the establishment has resisted or objected to oversight activities of the Office or restricted or significantly de</i><i>layed access to information, including the justification of the establishment for such action; and</i>
 
 &emsp;&emsp;<i>"(B) a summary of each report made to the head of the establishment under section 6(c)(2) during the reporting period;";</i>
 
@@ -312,7 +312,7 @@ Protection of personally identifiable information of whistleblowers.—An Office
 
 <i>(B) by striking paragraphs (2) and (3) and inserting the following:</i>
 
-&emsp;<i>"(2) where final action on audit, inspection, and evaluation reports had not been taken before</i><i>the commencement of the reporting period, statistical tables showing—</i>
+&emsp;<i>"(2) where final action on audit, inspection, and evaluation reports had not been taken before the commencement of the reporting period, statistical tables showing—</i>
 
 &emsp;&emsp;<i>"(A) with respect to management decisions—</i>
 
@@ -524,7 +524,7 @@ Requirement.—The head of each Federal department or agency shall provide, with
 
 Committees.—The committees listed in this paragraph are the following:
 
-&emsp;&emsp;"(A) The Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives.
+&emsp;&emsp;"(A) The Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives.
 
 &emsp;&emsp;"(B) The Committee on Homeland Security and Governmental Affairs of the Senate.
 
@@ -562,9 +562,9 @@ Pub. L. 103–355, title VI, §6009, Oct. 13, 1994, 108 Stat. 3367, as amended b
 
 Management Decisions.—(1) The head of a Federal agency shall make management decisions on all findings and recommendations set forth in an audit report of the inspector general of the agency within a maximum of six months after the issuance of the report.
 
-"(2) The head of a Federal agency shall make management decisions on all findings and recommendations set forth in an audit report of any auditor from outside the Federal Government within a maximum of six months after the date on which the head of the agency receives the report.
+"(2) The head of a Federal agency shall make management decisions on all findings and recommendationsset forth in an audit report of any auditor from outside the Federal Government within a maximum of six months after the date on which the head of the agency receives the report.
 
 "(b)
 
-Completion of Final Action.—The head of a Federal agency shall complete final action on each management decision required with regard to a recommendation in an inspector general's report under subsection (a)(1) within 12 months after the date of the inspector general's report. If the head of the agency fails to complete final action with regard to a management decision within the 12-month period, the inspector general concerned shall identify the matter in each of the inspector general's semiannual reports pursuant to section 405(b)(3) of title 5, United States Code, untilfinal action on the management decision is completed."
+Completion of Final Action.—The head of a Federal agency shall complete final action on each management decision required with regard to a recommendation in an inspector general's report under subsection (a)(1) within 12 months after the date of the inspector general's report. If the head of the agency fails to complete final action with regard to a management decision within the 12-month period, the inspector general concerned shall identify the matter in each of the inspector general's semiannual reports pursuant to section 405(b)(3) of title 5, United States Code, until final action on the management decision is completed."
 

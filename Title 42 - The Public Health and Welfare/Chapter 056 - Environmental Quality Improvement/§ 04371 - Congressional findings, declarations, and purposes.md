@@ -12,7 +12,7 @@
 
 (2) The primary responsibility for implementing this policy rests with State and local government.
 
-(3) The Federal Government encourages and supports implementation of this policy throughappropriate regional organizations established under existing law.
+(3) The Federal Government encourages and supports implementation of this policy through appropriate regional organizations established under existing law.
 
 (c) The purposes of this chapter are—
 

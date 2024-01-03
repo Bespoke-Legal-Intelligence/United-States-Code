@@ -40,7 +40,7 @@ Assistance provided under this section shall be used primarily to expand and str
 
 #### (D) Marginalized children and vulnerable groups
 
-&emsp;&emsp;The term "marginalized children and vulnerable groups" includes girls, children affected by or emerging from armed conflict orhumanitarian crises, children with disabilities, children in remote or rural areas (including those who lack access to safe water and sanitation), religious or ethnic minorities, indigenous peoples, orphans and children affected by HIV/AIDS, child laborers, married adolescents, and victims of trafficking.
+&emsp;&emsp;The term "marginalized children and vulnerable groups" includes girls, children affected by or emerging from armed conflict or humanitarian crises, children with disabilities, children in remote or rural areas (including those who lack access to safe water and sanitation), religious or ethnic minorities, indigenous peoples, orphans and children affected by HIV/AIDS, child laborers, married adolescents, and victims of trafficking.
 
 #### (E) National education plan
 
@@ -262,7 +262,7 @@ Elements.—The strategy required under subsection (a)—
 
 &emsp;"(2) shall seek—
 
-&emsp;&emsp;"(A) to prioritize assistance provided under this subsection to countries that are partners of the United States and whose populations are most in need of improved basic education, as determined by indicators such as literacy and numeracy rates;
+&emsp;&emsp;"(A) to prioritize assistance provided under this subsection to countries that are partners of theUnited States and whose populations are most in need of improved basic education, as determined by indicators such as literacy and numeracy rates;
 
 &emsp;&emsp;"(B) to build the capacity of relevant actors in partner countries, including in government and in civil society, to develop and implement national education plans that measurably improve basic education;
 
@@ -350,7 +350,7 @@ Matters To Be Included.—The report required under subsection (a) shall include
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 #### Delegation of Authorities Under the Reinforcing Education Accountability in Development Act
 

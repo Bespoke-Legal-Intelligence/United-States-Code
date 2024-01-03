@@ -10,7 +10,7 @@ For the purposes of this chapter:
 
 &emsp;The term "military service" means—
 
-&emsp;&emsp;(A) in the case of a servicemember who is a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard—
+&emsp;&emsp;(A) in the case of a servicemember who is a member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard—
 
 &emsp;&emsp;&emsp;(i) active duty, as defined in section 101(d)(1) of title 10, and
 
@@ -64,7 +64,7 @@ For the purposes of this chapter:
 
 &emsp;The term "judgment" means any judgment, decree, order, or ruling, final or temporary.
 
-(Oct. 17, 1940, ch. 888, title I, §101, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2836; amended Pub. L. 108–454, title VII, §701, Dec. 10, 2004, 118 Stat. 3624.)
+(Oct. 17, 1940, ch. 888, title I, §101, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2836; amended Pub. L. 108–454, title VII, §701, Dec. 10, 2004, 118 Stat. 3624; Pub. L. 118–31, div. A, title XVII, §1742(c)(1), Dec. 22, 2023, 137 Stat. 681.)
 
 #### <b>Editorial Notes</b>
 
@@ -81,6 +81,8 @@ Section was formerly classified to section 511 of the former Appendix to this ti
 A prior section 101 of act Oct. 17, 1940, ch. 888, art. I, 54 Stat. 1179; Pub. L. 92–540, title V, §504(1), Oct. 24, 1972, 86 Stat. 1098; Pub. L. 102–12, §9(1), Mar. 18, 1991, 105 Stat. 38; Pub. L. 107–330, title III, §305, Dec. 6, 2002, 116 Stat. 2826, related to definitions, prior to the general amendment of this Act by Pub. L. 108–189.
 
 #### Amendments
+
+<b>2023</b>—Par. (2)(A). Pub. L. 118–31 inserted "Space Force," after "Marine Corps," in introductory provisions.
 
 <b>2004</b>—Par. (9). Pub. L. 108–454 added par. (9).
 

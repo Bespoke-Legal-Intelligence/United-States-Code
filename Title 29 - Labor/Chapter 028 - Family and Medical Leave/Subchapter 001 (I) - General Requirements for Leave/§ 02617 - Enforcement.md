@@ -22,7 +22,7 @@
 
 #### (2) Right of action
 
-&emsp;An action to recover the damages or equitable relief prescribed in paragraph (1) may bemaintained against any employer (including a public agency) in any Federal or State court of competent jurisdiction by any one or more employees for and in behalf of—
+&emsp;An action to recover the damages or equitable relief prescribed in paragraph (1) may be maintained against any employer (including a public agency) in any Federal or State court of competent jurisdiction by any one or more employees for and in behalf of—
 
 &emsp;&emsp;(A) the employees; or
 
@@ -54,7 +54,7 @@
 
 #### (3) Sums recovered
 
-&emsp;Any sums recovered by the Secretary pursuant to paragraph (2) shall be held in a special deposit account and shall be paid, on order of the Secretary, directly to each employee affected. Any such sums not paid to an employee because of inability to do so within a period of 3 years shall be deposited into the Treasury of the United States as miscellaneous receipts.
+&emsp;Any sums recovered by the Secretary pursuant to paragraph (2) shall be held in a specialdeposit account and shall be paid, on order of the Secretary, directly to each employee affected. Any such sums not paid to an employee because of inability to do so within a period of 3 years shall be deposited into the Treasury of the United States as miscellaneous receipts.
 
 #### (c) Limitation
 

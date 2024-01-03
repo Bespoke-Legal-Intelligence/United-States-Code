@@ -60,7 +60,7 @@ Except as otherwise provided in this title, and except to the extent inconsisten
 
 In the case of a distribution of money by an eligible terminated S corporation (as defined in section 481(d)) after the post-termination transition period, the accumulated adjustments account shall be allocated to such distribution, and the distribution shall be chargeable to accumulated earnings and profits, in the same ratio as the amount of such accumulated adjustments account bears to the amount of such accumulated earnings and profits.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1681; amended Pub. L. 98–369, div. A, title VII, §721(e), (o), (x)(3), July 18, 1984, 98 Stat. 967, 970, 971; Pub. L. 99–514, title XVIII, §1899A(33), (34),Oct. 22, 1986, 100 Stat. 2960; Pub. L. 101–508, title XI, §11813(b)(23), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 104–188, title I, §1310, Aug. 20, 1996, 110 Stat. 1784; Pub. L. 115–97, title I, §13543(b), Dec. 22, 2017, 131 Stat. 2155; Pub. L. 117–167, div. A, §107(b)(3)(C), Aug. 9, 2022, 136 Stat. 1398.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1681; amended Pub. L. 98–369, div. A, title VII, §721(e), (o), (x)(3), July 18, 1984, 98 Stat. 967, 970, 971; Pub. L. 99–514, title XVIII, §1899A(33), (34), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 101–508, title XI, §11813(b)(23), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 104–188, title I, §1310, Aug. 20, 1996, 110 Stat. 1784; Pub. L. 115–97, title I, §13543(b), Dec. 22, 2017, 131 Stat. 2155; Pub. L. 117–167, div. A, §107(b)(3)(C), Aug. 9, 2022, 136 Stat. 1398.)
 
 #### <b>Editorial Notes</b>
 

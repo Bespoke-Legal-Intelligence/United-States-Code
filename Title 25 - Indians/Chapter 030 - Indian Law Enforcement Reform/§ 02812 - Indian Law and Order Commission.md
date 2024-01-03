@@ -264,7 +264,7 @@ The Tribal Law and Order Act of 2010, referred to in subsec. (d)(5), is title II
 
 #### Amendments
 
-<b>2022</b>—Subsec. (m). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "Chapter10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
+<b>2022</b>—Subsec. (m). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2013</b>—Subsec. (f). Pub. L. 113–4 substituted "3 years" for "2 years" in introductory provisions.
 

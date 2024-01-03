@@ -68,7 +68,7 @@ The Secretary shall establish a program under which States and covered Indian Tr
 
 &emsp;&emsp;(C) establish procedures to carry out the enrollment described in subparagraph (A);
 
-&emsp;&emsp;(D) establish procedures for expunging summer EBT benefits from the account of ahousehold, consistent with the requirements under subsection (b)(4); and
+&emsp;&emsp;(D) establish procedures for expunging summer EBT benefits from the account of a household, consistent with the requirements under subsection (b)(4); and
 
 &emsp;&emsp;(E) allow eligible households to opt out of participation in the program under this section and establish procedures for opting out of such participation.
 

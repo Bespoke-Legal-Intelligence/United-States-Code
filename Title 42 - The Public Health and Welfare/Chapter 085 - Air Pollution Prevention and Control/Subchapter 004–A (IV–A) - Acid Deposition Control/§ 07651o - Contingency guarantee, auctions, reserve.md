@@ -194,7 +194,7 @@ Pursuant to rulemaking after public notice and comment the Administrator may at 
 
 #### (f) Termination of auctions
 
-The Administrator may terminate the withholding of allowances and the auction sales under this section if the Administrator determines that, during any period of 3 consecutive calendar years after 2002, less than 20 percent ofthe allowances available in the auction subaccount have been purchased. Pursuant to regulations under this section, the Administrator may by delegation or contract provide for the conduct of sales or auctions under the Administrator's supervision by other departments or agencies of the United States Government or by nongovernmental agencies, groups, or organizations.
+The Administrator may terminate the withholding of allowances and the auction sales under this section if the Administrator determines that, during any period of 3 consecutive calendar years after 2002, less than 20 percent of the allowances available in the auction subaccount have been purchased. Pursuant to regulations under this section, the Administrator may by delegation or contract provide for the conduct of sales or auctions under the Administrator's supervision by other departments or agencies of the United States Government or by nongovernmental agencies, groups, or organizations.
 
 (July 14, 1955, ch. 360, title IV, §416, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2626.)
 

@@ -26,7 +26,7 @@ Where the decedent was the donor of the gift but, under the provisions of sectio
 
 #### (1) Amount of tax
 
-&emsp;For purposes of subsection (a), the amount of tax paid on a gift under chapter 12, or under corresponding provisions of prior laws, withrespect to any gift shall be an amount which bears the same ratio to the total tax paid for the calendar quarter (or calendar year if the gift was made before January 1, 1971) in which the gift was made as the amount of such gift bears to the total amount of taxable gifts (computed without deduction of the specific exemption) for such quarter or year.
+&emsp;For purposes of subsection (a), the amount of tax paid on a gift under chapter 12, or under corresponding provisions of prior laws, with respect to any gift shall be an amount which bears the same ratio to the total tax paid for the calendar quarter (or calendar year if the gift was made before January 1, 1971) in which the gift was made as the amount of such gift bears to the total amount of taxable gifts (computed without deduction of the specific exemption) for such quarter or year.
 
 #### (2) Amount of gift
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XIX, §1902(c)(1), Oct. 4, 1976, 90 Stat. 1806, as amended by Pub. L. 95–600, title VII, §703(j)(12), Nov. 6, 1978, 92 Stat. 2942, provided that: "The amendments made by paragraphs (1) through (8), and paragraphs (12)(A), (B), and (C), of subsection (a) and by subsection (b) \[amending this section and sections 2011, 2013, 2016, 2038, 2053, 2055, 2056, 2106, 2107, 2108, 2201, 6167, and 6503 of this title, repealing section 2202 of this title, and enacting provisions set out as a note under section 2201 of this title\] shall apply in the case of estates of decedents dying after the date of the enactment of this Act \[Oct. 4, 1976\], and the amendment made by paragraph (9) of subsection (a) \[amending section 2204 of this title\] shall apply in the case of estates of decedents dying after December 31, 1970."
+Pub. L. 94–455, title XIX, §1902(c)(1), Oct. 4, 1976, 90 Stat. 1806, as amended by Pub. L. 95–600, title VII, §703(j)(12), Nov. 6, 1978, 92 Stat. 2942, provided that: "The amendments made by paragraphs (1) through (8), and paragraphs (12)(A), (B), and (C), of subsection (a) and by subsection (b) \[amending this section and sections 2011, 2013, 2016, 2038, 2053, 2055, 2056, 2106, 2107, 2108, 2201, 6167, and 6503 of this title, repealing section 2202 of this title, and enacting provisions set out as a note under section 2201 of this title\] shall apply in the case of estates of decedents dying after the date of the enactment of this Act \[Oct. 4, 1976\], and the amendmentmade by paragraph (9) of subsection (a) \[amending section 2204 of this title\] shall apply in the case of estates of decedents dying after December 31, 1970."
 
 Amendment by section 2001(a)(3), (c)(1)(B) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under section 2001 of this title.
 

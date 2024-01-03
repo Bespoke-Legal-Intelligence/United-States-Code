@@ -56,7 +56,7 @@ In this section:
 
 #### (6) Dating violence
 
-&emsp;The term "dating violence" means any violation of the criminal law of the Indian tribe that has jurisdiction over the Indian country where the violation occurs that is committed by a person who is or has been in a social relationship of a romantic or intimate nature with the victim, as determined by the length of the relationship, the type of relationship, and the frequency of interaction between the persons involved in the relationship.
+&emsp;The term "dating violence" means any violation of the criminal law of the Indian tribethat has jurisdiction over the Indian country where the violation occurs that is committed by a person who is or has been in a social relationship of a romantic or intimate nature with the victim, as determined by the length of the relationship, the type of relationship, and the frequency of interaction between the persons involved in the relationship.
 
 #### (7) Domestic violence
 
@@ -96,7 +96,7 @@ In this section:
 
 #### (13) Sexual violence
 
-&emsp;The term "sexual violence" means any nonconsensual sexual act or contact proscribed bythe criminal law of the Indian tribe that has jurisdiction over the Indian country where the violation occurs, including in any case in which the victim lacks the capacity to consent to the act.
+&emsp;The term "sexual violence" means any nonconsensual sexual act or contact proscribed by the criminal law of the Indian tribe that has jurisdiction over the Indian country where the violation occurs, including in any case in which the victim lacks the capacity to consent to the act.
 
 #### (14) Special Tribal criminal jurisdiction
 
@@ -146,7 +146,7 @@ In this section:
 
 &emsp;&emsp;(A) creates or eliminates any Federal or State criminal jurisdiction over Indian country; or
 
-&emsp;&emsp;(B) affects the authority of the United States or any State government that has been delegated authority by the United States to investigate and prosecute a criminal violation in Indian country.
+&emsp;&emsp;(B) affects the authority of the United States or any State government that hasbeen delegated authority by the United States to investigate and prosecute a criminal violation in Indian country.
 
 #### (4) Exception if victim and defendant are both non-Indians
 
@@ -270,7 +270,7 @@ A participating tribe that has ordered the detention of any person has a duty to
 
 &emsp;The Attorney General may award grants to Tribal governments (or authorized designees of Tribal governments), including a Tribal government (or an authorized designee of a Tribal government) of an Indian tribe designated as a participating Tribe under subtitle B of title VIII of the Violence Against Women Act Reauthorization Act of 2022—
 
-&emsp;&emsp;(A) to strengthen Tribal criminal justice systems to assist Indian tribes in exercisingspecial Tribal criminal jurisdiction, including for—
+&emsp;&emsp;(A) to strengthen Tribal criminal justice systems to assist Indian tribes in exercising special Tribal criminal jurisdiction, including for—
 
 &emsp;&emsp;&emsp;(i) law enforcement (including the capacity of law enforcement, court personnel, or other non-law enforcement entities that have no Federal or State arrest authority agencies but have been designated by an Indian tribe as responsible for maintaining public safety within the territorial jurisdiction of the Indian tribe, to enter information into and obtain information from national crime information databases);
 
@@ -414,7 +414,7 @@ Findings.—Congress finds that—
 
 &emsp;"(3) the vast majority of American Indian and Alaska Native victims of violence—96 percent of women victims and 89 percent of male victims—have experienced sexual violence by a non-Indian perpetrator at least once in their lifetime;
 
-&emsp;"(4) Indian Tribes exercising special domestic violence criminal jurisdiction over non-Indians pursuant to section 204 of Public Law 90–284 (25 U.S.C. 1304) (commonly known as the 'Indian Civil Rights Act of 1968'), restored by section 904 of the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 120), have reported significant success holding violent offenders accountable for crimes of domestic violence, dating violence, and civil protection order violations;
+&emsp;"(4) Indian Tribes exercising special domestic violence criminal jurisdiction over non-Indians pursuant to section 204 of Public Law 90–284 (25 U.S.C. 1304) (commonly known as the 'Indian Civil Rights Act of 1968'), restored by section 904 of the Violence Against Women Reauthorization Act of 2013 (Public Law113–4; 127 Stat. 120), have reported significant success holding violent offenders accountable for crimes of domestic violence, dating violence, and civil protection order violations;
 
 &emsp;"(5) Tribal prosecutors for Indian Tribes exercising special domestic violence criminal jurisdiction report that the majority of domestic violence cases involve children either as witnesses or victims, and the Department of Justice reports that American Indian and Alaska Native children suffer exposure to violence at one of the highest rates in the United States;
 

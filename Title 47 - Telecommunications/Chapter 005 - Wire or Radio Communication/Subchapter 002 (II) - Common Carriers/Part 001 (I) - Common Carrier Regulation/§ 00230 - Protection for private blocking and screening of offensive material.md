@@ -44,7 +44,7 @@ It is the policy of the United States—
 
 #### (d) Obligations of interactive computer service
 
-A provider of interactive computer service shall, at the time of entering an agreement with a customer for the provision of interactive computer service and in a manner deemed appropriate by the provider, notify such customer that parental control protections (such as computer hardware, software, or filtering services) are commercially available that may assist thecustomer in limiting access to material that is harmful to minors. Such notice shall identify, or provide the customer with access to information identifying, current providers of such protections.
+A provider of interactive computer service shall, at the time of entering an agreement with a customer for the provision of interactive computer service and in a manner deemed appropriate by the provider, notify such customer that parental control protections (such as computer hardware, software, or filtering services) are commercially available that may assist the customer in limiting access to material that is harmful to minors. Such notice shall identify, or provide the customer with access to information identifying, current providers of such protections.
 
 #### (e) Effect on other laws
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 105–277 effective 30 days after Oct. 21, 1998, see sectio
 
 #### Savings
 
-Pub. L. 115–164, §7, Apr. 11, 2018, 132 Stat. 1255, provided that: "Nothing in this Act \[see Short Title of 2018Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure\] or the amendments made by this Act shall be construed to limit or preempt any civil action or criminal prosecution under Federal law or State law (including State statutory law and State common law) filed before or after the day before the date of enactment of this Act \[Apr. 11, 2018\] that was not limited or preempted by section 230 of the Communications Act of 1934 (47 U.S.C. 230), as such section was in effect on the day before the date of enactment of this Act."
+Pub. L. 115–164, §7, Apr. 11, 2018, 132 Stat. 1255, provided that: "Nothing in this Act \[see Short Title of 2018 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure\] or the amendments made by this Act shall be construed to limit or preempt any civil action or criminal prosecution under Federal law or State law (including State statutory law and State common law) filed before or after the day before the date of enactment of this Act \[Apr. 11, 2018\] that was not limited or preempted by section 230 of the Communications Act of 1934 (47 U.S.C. 230), as such section was in effect on the day before the date of enactment of this Act."
 
 #### Sense of Congress
 

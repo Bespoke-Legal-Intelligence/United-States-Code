@@ -22,7 +22,7 @@ Upon the establishment of the National Civilian Community Corps Program, the Nat
 
 #### (A) In general
 
-&emsp;&emsp;The Director may select individuals with prior supervisory or service experience to be team leaders within units in the National Civilian Community Corps, to perform service that includes leading and supervising teams of Corps members. Each team leadershall be selected without regard to the age limitation under section 12613(b) of this title.
+&emsp;&emsp;The Director may select individuals with prior supervisory or service experience to be team leaders within units in the National Civilian Community Corps, to perform service that includes leading and supervising teams of Corps members. Each team leader shall be selected without regard to the age limitation under section 12613(b) of this title.
 
 #### (B) Rights and benefits
 

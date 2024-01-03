@@ -4,7 +4,7 @@
 
 It shall be unlawful for any person, partnership, or corporation to disseminate, or cause to be disseminated, any false advertisement—
 
-&emsp;(1) By United States mails, or in or having an effect upon commerce, by any means, for the purpose of inducing, or which is likely toinduce, directly or indirectly the purchase of food, drugs, devices, services, or cosmetics; or
+&emsp;(1) By United States mails, or in or having an effect upon commerce, by any means, for the purpose of inducing, or which is likely to induce, directly or indirectly the purchase of food, drugs, devices, services, or cosmetics; or
 
 &emsp;(2) By any means, for the purpose of inducing, or which is likely to induce, directly or indirectly, the purchase in or having an effect upon commerce, of food, drugs, devices, services, or cosmetics.
 

@@ -48,6 +48,10 @@ It is the sense of Congress that—
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 118–31, div. E, title LV, §5501(a), Dec. 22, 2023, 137 Stat. 956, provided that: "This section \[amending sections 7384l and 7385s–16 of this title\] may be cited as the 'Beryllium Testing Fairness Act'."
+
 #### Short Title
 
 Pub. L. 106–398, §1 \[div. C, title XXXVI, §3601\], Oct. 30, 2000, 114 Stat. 1654, 1654A–495, provided that: "This title \[enacting this subchapter\] may be cited as the 'Energy Employees Occupational Illness Compensation Program Act of 2000'."
@@ -144,7 +148,7 @@ Sec. 2. <i>Designation of Responsibilities for Administering the Energy Employee
 
 (i) No later than May 31, 2001, promulgate regulations establishing:
 
-(A) guidelines, pursuant to section 3623(c) of the Act \[42 U.S.C. 7384n(c)\], to assess the likelihood that an individual with cancer sustained the cancer in the performance of duty at a Department of Energy facility oran atomic weapons employer facility, as defined by the Act; and
+(A) guidelines, pursuant to section 3623(c) of the Act \[42 U.S.C. 7384n(c)\], to assess the likelihood that an individual with cancer sustained the cancer in the performance of duty at a Department of Energy facility or an atomic weapons employer facility, as defined by the Act; and
 
 (B) methods, pursuant to section 3623(d) of the Act, for arriving at and providing reasonable estimates of the radiation doses received by individuals applying for assistance under this program for whom there are inadequate records of radiation exposure;
 
@@ -166,7 +170,7 @@ Sec. 2. <i>Designation of Responsibilities for Administering the Energy Employee
 
 (iv) Designate, pursuant to sections 3621(4)(B) and 3622 of the Act \[42 U.S.C. 7384l(4)(B), 7384m\], atomic weapons employers and additions to the list of designated beryllium vendors;
 
-(v) Pursuant to Subtitle D of the Act \[42 U.S.C. 7385o\], negotiate agreements with the chief executive officer of each State in which there is a DOE facility, and other States as appropriate, to provide assistance to a DOE contractor employee on filing a State workers' compensation system claim, and establish a Worker Assistance Program to help individuals whose illness is related to employment in the DOE's nuclear weapons complex, or the individual's survivor if the individual is deceased, in applying for State workers' compensation benefits. This assistance shall include:
+(v) Pursuant to Subtitle D of the Act \[42 U.S.C. 7385o\], negotiate agreements with the chief executive officer of each State in which there is a DOE facility, and other States as appropriate, to provide assistance to a DOE contractor employee on filing a State workers' compensation system claim, and establish a Worker Assistance Program to help individuals whose illness is related to employment in the DOE's nuclear weaponscomplex, or the individual's survivor if the individual is deceased, in applying for State workers' compensation benefits. This assistance shall include:
 
 (1) Submittal of reasonable claims to a physician panel, appointed by the Secretary of Health and Human Services and administered by the Secretary of Energy, under procedures established by the Secretary of Energy, for determination of whether the individual's illness or death arose out of and in the course of employment by the DOE or its contractors and exposure to a toxic substance at a DOE facility; and
 
@@ -216,9 +220,11 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Advisory Board on Radiation and Worker Health
 
-Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of Advisory Board on Radiation and Worker Health were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 

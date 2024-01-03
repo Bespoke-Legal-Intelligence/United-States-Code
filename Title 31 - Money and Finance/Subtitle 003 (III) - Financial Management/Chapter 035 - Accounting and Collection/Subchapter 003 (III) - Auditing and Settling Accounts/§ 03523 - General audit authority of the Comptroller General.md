@@ -4,7 +4,7 @@
 
 (b) The Comptroller General shall audit the Architect of the Capitol at times the Comptroller General considers appropriate. Section 716 of this title applies to the Architect in conducting the audit. The Comptroller General shall report the results of the audit to Congress. Each report shall be printed as a Senate document.
 
-(c)(1) When the Comptroller General decides an audit shall be conducted at a place at which the records of an executive agency or the Architect of the Capitol are usually kept, the Comptroller General may require the head of the agency or the Architect to keep any part of anaccount of an accountable official or of a record required to be submitted to the Comptroller General. The Comptroller General may require records be kept under conditions and for a period of not more than 10 years specified by the Comptroller General. However, the Comptroller General and the head of the agency or the Architect may agree on a longer period.
+(c)(1) When the Comptroller General decides an audit shall be conducted at a place at which the records of an executive agency or the Architect of the Capitol are usually kept, the Comptroller General may require the head of the agency or the Architect to keep any part of an account of an accountable official or of a record required to be submitted to the Comptroller General. The Comptroller General may require records be kept under conditions and for a period of not more than 10 years specified by the Comptroller General. However, the Comptroller General and the head of the agency or the Architect may agree on a longer period.
 
 (2) The Comptroller General and the head of an agency in the legislative or judicial branch of the United States Government (except the Architect) may agree to apply this subsection to the agency.
 
@@ -52,5 +52,5 @@ In subsection (c)(2), the words "<i>Provided</i>, That" are omitted because of t
 
 #### Payment for Audits
 
-Pub. L. 108–83, title I, §1401, Sept. 30, 2003, 117 Stat. 1034, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, authorized the Comptroller General, at any time during fiscal year 2004 or thereafter, to accept payment from the Securities and Exchange Commission for performance of audits of financial statements of the Commission, prior to repeal by Pub. L. 110–323, §6(b), Sept. 22, 2008, 122 Stat. 3547, effective Oct. 1, 2010.
+Pub. L. 108–83, title I, §1401, Sept. 30, 2003, 117 Stat. 1034, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, authorized the Comptroller General, at any time during fiscal year 2004 or thereafter, to acceptpayment from the Securities and Exchange Commission for performance of audits of financial statements of the Commission, prior to repeal by Pub. L. 110–323, §6(b), Sept. 22, 2008, 122 Stat. 3547, effective Oct. 1, 2010.
 

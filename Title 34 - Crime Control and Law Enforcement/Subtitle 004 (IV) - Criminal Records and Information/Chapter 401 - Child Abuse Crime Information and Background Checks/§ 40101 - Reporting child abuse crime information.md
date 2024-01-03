@@ -24,7 +24,7 @@ In each State, an authorized criminal justice agency of the State shall report c
 
 #### (c) Liaison
 
-An authorized agency of a State shall maintain close liaison with the National Center on Child Abuse and Neglect, the National Center for Missing and Exploited Children, and the National Center for the Prosecution of Child Abusefor the exchange of technical assistance in cases of child abuse.
+An authorized agency of a State shall maintain close liaison with the National Center on Child Abuse and Neglect, the National Center for Missing and Exploited Children, and the National Center for the Prosecution of Child Abuse for the exchange of technical assistance in cases of child abuse.
 
 #### (d) Annual summary
 

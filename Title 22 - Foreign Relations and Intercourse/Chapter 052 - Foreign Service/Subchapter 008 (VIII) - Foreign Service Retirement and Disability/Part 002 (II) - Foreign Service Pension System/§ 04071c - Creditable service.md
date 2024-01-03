@@ -63,7 +63,7 @@ The Peace Corps Act, referred to in subsec. (c)(1)(A), is Pub. L. 87–293, Sept
 
 The Economic Opportunity Act of 1964, referred to in subsec. (c)(1)(B), is Pub. L. 88–452, Aug. 20, 1964, 73 Stat. 508. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452, as added by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. See sections 4951 et seq., 5042(13)(A), and 5055 of Title 42.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§4951 et seq.) and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which had been classified generally to part B (§4971 et seq.) of subchapter I of chapter 66 of Title 42,was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§4951 et seq.) and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which had been classified generally to part B (§4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
 #### Amendments
 
@@ -93,7 +93,7 @@ Subsec. (e). Pub. L. 99–556, §405(b), added subsec. (e).
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) \[title V, §505(i)\] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter,see section 101(a) \[title V, §505(i)\] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1997 Amendment
 

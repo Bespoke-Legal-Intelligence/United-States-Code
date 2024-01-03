@@ -54,7 +54,7 @@ In subsection (b) the words "Deputy Chief of the Bureau" are substituted for the
 
 #### Prior Provisions
 
-A prior section 8077, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, related to composition of Air National Guard of United States, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See section 10111 of this title.
+A prior section 8077, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, related to composition of Air National Guard of United States, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat.2980, 3026, effective Dec. 1, 1994. See section 10111 of this title.
 
 #### Amendments
 

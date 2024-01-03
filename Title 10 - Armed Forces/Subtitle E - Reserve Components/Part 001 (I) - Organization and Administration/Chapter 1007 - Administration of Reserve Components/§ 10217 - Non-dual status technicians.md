@@ -122,7 +122,7 @@ Plan for Full Utilization of Military Technicians (Dual Status).—(1) Not later
 
 &emsp;"(B) Contracting with private sector sources for the performance of functions performed by military technicians.
 
-&emsp;"(C) Converting non-dual status military technician positions to military technician (dual status) positions or to positions in the competitive service or, in the case of positions of the Army National Guardof the United States or the Air National Guard of the United States, to positions of State employment.
+&emsp;"(C) Converting non-dual status military technician positions to military technician (dual status) positions or to positions in the competitive service or, in the case of positions of the Army National Guard of the United States or the Air National Guard of the United States, to positions of State employment.
 
 &emsp;"(D) Use of incentives to facilitate attainment of the objectives specified for the plan in paragraphs (1) and (2).
 

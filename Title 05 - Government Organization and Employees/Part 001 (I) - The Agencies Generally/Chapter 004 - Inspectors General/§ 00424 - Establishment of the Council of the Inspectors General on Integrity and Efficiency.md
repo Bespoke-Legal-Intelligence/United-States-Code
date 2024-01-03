@@ -128,7 +128,7 @@ In general.—The Council shall—
 
 &emsp;&emsp;(G) make such reports to Congress as the Chairperson determines are necessary or appropriate;
 
-&emsp;&emsp;(H) except for matters coordinated among Inspectors General under section 103H of the National Security Act of 1947 (50 U.S.C. 3033), receive, review, and mediate any disputes submitted in writing to the Council by an Office of Inspector General regarding anaudit, investigation, inspection, evaluation, or project that involves the jurisdiction of more than one Office of Inspector General; and
+&emsp;&emsp;(H) except for matters coordinated among Inspectors General under section 103H of the National Security Act of 1947 (50 U.S.C. 3033), receive, review, and mediate any disputes submitted in writing to the Council by an Office of Inspector General regarding an audit, investigation, inspection, evaluation, or project that involves the jurisdiction of more than one Office of Inspector General; and
 
 &emsp;&emsp;(I) perform other duties within the authority and jurisdiction of the Council, as appropriate.
 
@@ -380,7 +380,7 @@ Completion of investigation.—If an allegation of wrongdoing is referred to the
 
 &emsp;&emsp;(D)
 
-Concurrent investigation.—If an allegation of wrongdoing against an Inspector General or a staff member of an Office of Inspector General described under paragraph (4)(C) is referred to the Department of Justice or the Office of Special Counsel under paragraph (5)(A), the Chairperson of the Integrity Committee may conduct any related investigation referred to the Chairperson under paragraph (5)(B) concurrently with the Department of Justice or the Office of Special Counsel, as applicable.
+Concurrent investigation.—If an allegation of wrongdoing against an Inspector General or a staff member of an Office of Inspector General described under paragraph\(4)(C) is referred to the Department of Justice or the Office of Special Counsel under paragraph (5)(A), the Chairperson of the Integrity Committee may conduct any related investigation referred to the Chairperson under paragraph (5)(B) concurrently with the Department of Justice or the Office of Special Counsel, as applicable.
 
 &emsp;&emsp;(E)
 
@@ -446,7 +446,7 @@ Annual report.—The Council shall submit to Congress and the President by Decem
 
 &emsp;(10)
 
-Requests for more information.—With respect to paragraphs (8) and (9), the Councilshall provide more detailed information about specific allegations upon request from any Member of Congress.
+Requests for more information.—With respect to paragraphs (8) and (9), the Council shall provide more detailed information about specific allegations upon request from any Member of Congress.
 
 &emsp;(11)
 
@@ -470,7 +470,7 @@ In general.—An allegation of wrongdoing against the Special Counsel or the Dep
 
 &emsp;&emsp;&emsp;(ii)
 
-Coordination with existing provisions of law.—This paragraph shall not eliminate access to the Merit Systems Protection Board for review under section 7701 of title 5. To the extent that an allegation brought under this paragraph involves section 2302(b)(8) of title 5, a failure to obtain corrective action within 120 days after the date on which the allegation is received by the Integrity Committee shall, for purposes of section 1221 of title 5, be considered to satisfy section 1214(a)(3)(B) of title 5.
+Coordination with existing provisions of law.—This paragraph shall not eliminate access to the Merit Systems Protection Board for review under section 7701 of title 5. To the extent that an allegation brought under this paragraph involves section 2302(b)(8) of title 5, a failure to obtain corrective action within 120 days afterthe date on which the allegation is received by the Integrity Committee shall, for purposes of section 1221 of title 5, be considered to satisfy section 1214(a)(3)(B) of title 5.
 
 &emsp;&emsp;(C)
 
@@ -660,6 +660,10 @@ Section 1229 of the National Defense Authorization Act for Fiscal Year 2008, ref
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Pandemic Response Accountability Committee
 
 Pub. L. 116–136, div. B, title V, §15010, Mar. 27, 2020, 134 Stat. 533, as amended by Pub. L. 116–260, div. O, title VIII, §801(b), Dec. 27, 2020, 134 Stat. 2155; Pub. L. 117–103, div. E, title VII, §750, Mar. 15, 2022, 136 Stat. 307, provided that:
@@ -674,7 +678,7 @@ Pub. L. 116–136, div. B, title V, §15010, Mar. 27, 2020, 134 Stat. 533, as am
 
 &emsp;&emsp;"(B) the Committee on Homeland Security and Governmental Affairs of the Senate;
 
-&emsp;&emsp;"(C) the Committee on Oversight and Reform of the House of Representatives; and
+&emsp;&emsp;"(C) the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives; and
 
 &emsp;&emsp;"(D) any other relevant congressional committee of jurisdiction;
 
@@ -700,7 +704,7 @@ Pub. L. 116–136, div. B, title V, §15010, Mar. 27, 2020, 134 Stat. 533, as am
 
 &emsp;"(7) the term 'Coronavirus response' means the Federal Government's response to the nationwide public health emergency declared by the Secretary of Health and Human Services, retroactive to January 27, 2020, pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d), as a result of confirmed cases of the novel coronavirus (COVID–19) in the United States.
 
-"(b) There is established within the Council the Pandemic Response Accountability Committee to promote transparency and conduct and support oversight of covered funds and the Coronavirus response to—
+"(b) There is established within the Council the Pandemic Response Accountability Committee to promotetransparency and conduct and support oversight of covered funds and the Coronavirus response to—
 
 &emsp;"(1) prevent and detect fraud, waste, abuse, and mismanagement; and
 
@@ -858,7 +862,7 @@ Pub. L. 116–136, div. B, title V, §15010, Mar. 27, 2020, 134 Stat. 533, as am
 
 "(B) The employment of annuitants under this paragraph shall be subject to the provisions of section 9902(g) of title 5, United States Code, as if the Committee was the Department of Defense.
 
-"(3) Upon request of the Committee for information or assistance from any agency or other entity of the Federal Government, the head of such entity shall, insofar as is practicable and not in contravention of anyexisting law, and consistent with section 6 of the Inspector General Act of 1978 (5 U.S.C. App.), furnish such information or assistance to the Committee, or an authorized designee, including an Inspector General designated by the Chairperson.
+"(3) Upon request of the Committee for information or assistance from any agency or other entity of the Federal Government, the head of such entity shall, insofar as is practicable and not in contravention of any existing law, and consistent with section 6 of the Inspector General Act of 1978 (5 U.S.C. App.), furnish such information or assistance to the Committee, or an authorized designee, including an Inspector General designated by the Chairperson.
 
 "(4) Any Inspector General responsible for conducting oversight related to covered funds or the Coronavirus response may, consistent with the duties, responsibilities, policies, and procedures of the Inspector General, provide information requested by the Committee or an Inspector General on the Committee relating to the responsibilities of the Committee.
 
@@ -948,7 +952,7 @@ Duties.—
 
 &emsp;&emsp;"(A)
 
-Meetings.—The Council of Inspectors General shall meet not less than once each quarter, ormore frequently if the chair considers it appropriate, to facilitate the sharing of information among inspectors general and to discuss the ongoing work of each inspector general who is a member of the Council of Inspectors General, with a focus on concerns that may apply to the broader financial sector and ways to improve financial oversight.
+Meetings.—The Council of Inspectors General shall meet not less than once each quarter, or more frequently if the chair considers it appropriate, to facilitate the sharing of information among inspectors general and to discuss the ongoing work of each inspector general who is a member of the Council of Inspectors General, with a focus on concerns that may apply to the broader financial sector and ways to improve financial oversight.
 
 &emsp;&emsp;"(B)
 

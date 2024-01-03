@@ -32,7 +32,7 @@ Certain Expenditures or Contributions Exempted.—Subsection (a) does not apply 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–92, §2801(1), substituted "in excess of the amount specified in section 2805(b)(1) of this title" for "in an amount in excess of $750,000" in introductory provisions.
+<b>2015</b>—Subsec. (a). Pub. L. 114–92, §2801(1), substituted "in excess of the amount specified in section 2805(b)(1)of this title" for "in an amount in excess of $750,000" in introductory provisions.
 
 Subsec. (b)(3). Pub. L. 114–92, §2801(2), substituted "subsection (e) of section 2811 of this title) that costs less than the amount specified in subsection (d) of such section" for "section 2811(e) of this title) that costs less than $7,500,000".
 

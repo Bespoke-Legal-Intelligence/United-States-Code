@@ -27,7 +27,7 @@ In general.—Except as provided for under subsection (d), the head of each exec
 
 &emsp;"(2)
 
-Methods of acquisition.—The methods of acquisition to be compared in the analysis under paragraph (1) shall include, at a minimum, purchase, short-term rental or lease, long-term rental or lease, interagency acquisition, and acquisition agreementswith a State or a local government as described in subsection (c).
+Methods of acquisition.—The methods of acquisition to be compared in the analysis under paragraph (1) shall include, at a minimum, purchase, short-term rental or lease, long-term rental or lease, interagency acquisition, and acquisition agreements with a State or a local government as described in subsection (c).
 
 &emsp;"(3)
 
@@ -65,7 +65,7 @@ Exceptions.—The analysis otherwise required under subsection (a) is not requir
 
 "(e)
 
-Study of Agency Analyses.—Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a comprehensive report on the decisions made by the executive agencies with the highest levels of acquisition spending, and a sample of executive agencies with lower levels of acquisition spending, to acquire high-value equipment by lease, rental, or purchase pursuant to subpart 7.4 of the Federal Acquisition Regulation.
+Study of Agency Analyses.—Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a comprehensive report on the decisions made by the executive agencies with the highest levels of acquisition spending, and a sample of executive agencies with lower levels of acquisition spending, to acquire high-value equipment by lease, rental, or purchase pursuant to subpart 7.4 of the Federal Acquisition Regulation.
 
 "(f)
 
@@ -97,7 +97,7 @@ Uniform Standards and Controls Required.—Not later than 180 days after the dat
 
 &emsp;"(1) establish uniform data standards, internal control requirements, independent verification and validation requirements, and business process rules for processing procurement requests, contracts, receipts, and invoices by the Department of Defense or other executive agencies, as applicable;
 
-&emsp;"(2) establish and maintain one or more approved electronic contract writing systems that conform with the standards, requirements, and rules established pursuant to paragraph (1); and
+&emsp;"(2) establish and maintain one or more approved electronic contract writing systems that conformwith the standards, requirements, and rules established pursuant to paragraph (1); and
 
 &emsp;"(3) require the use of electronic contract writing systems approved in accordance with paragraph (2) for all contracts entered into by the Department of Defense or other executive agencies, as applicable.
 
@@ -135,7 +135,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Foreign Relations, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\], and the Committee on Appropriations of the House of Representatives.
 
 &emsp;"(2) The term 'executive agency' has the meaning given that term in section 133 of title 41, United States Code."
 

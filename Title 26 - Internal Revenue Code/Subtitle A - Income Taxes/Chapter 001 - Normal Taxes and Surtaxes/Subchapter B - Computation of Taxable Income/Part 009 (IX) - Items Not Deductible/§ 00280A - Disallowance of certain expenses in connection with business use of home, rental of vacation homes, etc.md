@@ -24,7 +24,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (2) Certain storage use
 
-&emsp;Subsection (a) shall not apply to any item to the extent such item is allocable to space within the dwelling unit which is used on a regular basis as a storage unit for the inventory or product samples of the taxpayer heldfor use in the taxpayer's trade or business of selling products at retail or wholesale, but only if the dwelling unit is the sole fixed location of such trade or business.
+&emsp;Subsection (a) shall not apply to any item to the extent such item is allocable to space within the dwelling unit which is used on a regular basis as a storage unit for the inventory or product samples of the taxpayer held for use in the taxpayer's trade or business of selling products at retail or wholesale, but only if the dwelling unit is the sole fixed location of such trade or business.
 
 #### (3) Rental use
 
@@ -108,7 +108,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (ii) Determination of fair rental
 
-&emsp;&emsp;&emsp;In the case of a rental pursuant to a shared equity financing agreement, fair rental shall be determined as of the time the agreement is entered into and by taking into account the occupant's qualified ownership interest.
+&emsp;&emsp;&emsp;In the case of a rental pursuant to a shared equity financing agreement, fairrental shall be determined as of the time the agreement is entered into and by taking into account the occupant's qualified ownership interest.
 
 #### (C) Shared equity financing agreement
 
@@ -180,7 +180,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (4) Coordination with section 162(a)(2)
 
-&emsp;Nothing in this section shall be construed to disallow any deduction allowable under section 162(a)(2) (or any deduction which meetsthe tests of section 162(a)(2) but is allowable under another provision of this title) by reason of the taxpayer's being away from home in the pursuit of a trade or business (other than the trade or business of renting dwelling units).
+&emsp;Nothing in this section shall be construed to disallow any deduction allowable under section 162(a)(2) (or any deduction which meets the tests of section 162(a)(2) but is allowable under another provision of this title) by reason of the taxpayer's being away from home in the pursuit of a trade or business (other than the trade or business of renting dwelling units).
 
 #### (g) Special rule for certain rental use
 
@@ -190,7 +190,7 @@ Notwithstanding any other provision of this section or section 183, if a dwellin
 
 &emsp;(2) the income derived from such use for the taxable year shall not be included in the gross income of such taxpayer under section 61.
 
-(Added Pub. L. 94–455, title VI, §601(a), Oct. 4, 1976, 90 Stat. 1569; amended Pub. L. 95–30, title III, §306(a), (b), May 23, 1977, 91 Stat. 152, 153; Pub. L. 95–600, title VII, §701(h)(1), Nov. 6, 1978, 92 Stat. 2904; Pub. L. 97–119, title I, §113(a)–(d), Dec. 29, 1981, 95 Stat. 1641, 1642; Pub. L. 97–216, title II, §215(b), July 18, 1982, 96 Stat. 194; Pub. L. 97–354, §5(a)(26), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 99–514, title I, §143(b), (c), Oct. 22, 1986, 100 Stat. 2120; Pub. L. 100–647, title I, §1001(h)(1), (2), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 104–188, title I, §§1113(a), 1704(t)(39), Aug. 20, 1996, 110 Stat. 1759, 1889; Pub. L. 105–34, title III, §312(d)(1), title IX, §932(a), Aug. 5, 1997, 111 Stat. 839, 881.)
+(Added Pub. L. 94–455, title VI, §601(a), Oct. 4, 1976, 90 Stat. 1569; amended Pub. L. 95–30, title III, §306(a), (b), May 23, 1977, 91 Stat. 152, 153; Pub. L. 95–600, title VII, §701(h)(1), Nov. 6, 1978,92 Stat. 2904; Pub. L. 97–119, title I, §113(a)–(d), Dec. 29, 1981, 95 Stat. 1641, 1642; Pub. L. 97–216, title II, §215(b), July 18, 1982, 96 Stat. 194; Pub. L. 97–354, §5(a)(26), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 99–514, title I, §143(b), (c), Oct. 22, 1986, 100 Stat. 2120; Pub. L. 100–647, title I, §1001(h)(1), (2), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 104–188, title I, §§1113(a), 1704(t)(39), Aug. 20, 1996, 110 Stat. 1759, 1889; Pub. L. 105–34, title III, §312(d)(1), title IX, §932(a), Aug. 5, 1997, 111 Stat. 839, 881.)
 
 #### <b>Editorial Notes</b>
 
@@ -254,7 +254,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Dates of 1982 Amendment
 
-Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) ofPub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
+Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
 Amendment by Pub. L. 97–216 applicable to taxable years beginning after Dec. 31, 1981, see section 215(d) of Pub. L. 97–216, set out as a note under section 162 of this title.
 
@@ -264,7 +264,7 @@ Pub. L. 97–119, title I, §113(e), Dec. 29, 1981, 95 Stat. 1642, provided that
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §701(h)(2), Nov. 6, 1978, 92 Stat. 2904, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in section 280A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as such provision was added to such Code by section 601(a) of the Tax Reform Act of 1976 \[Pub. L. 94–455, title VI, §601(a), Oct. 4, 1976, 90 Stat. 1569\]."
+Pub. L. 95–600, title VII, §701(h)(2), Nov. 6, 1978, 92 Stat. 2904, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in section 280A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as such provision was added to such Code by section 601(a) of theTax Reform Act of 1976 \[Pub. L. 94–455, title VI, §601(a), Oct. 4, 1976, 90 Stat. 1569\]."
 
 #### Effective Date of 1977 Amendment
 

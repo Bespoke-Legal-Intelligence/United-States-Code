@@ -50,7 +50,7 @@ Pub. L. 104–127, title III, §381(b), Apr. 4, 1996, 110 Stat. 1016, provided t
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–623, title IV, §405(d), Nov. 8, 1984, 98 Stat. 3409, provided that: "For purposes of section 135 of the Omnibus Budget Reconciliation Act of 1982 (7 U.S.C. 612c note) \[Pub. L. 97–253\], the amendments made by this section \[amending this section and sections 1707aand 1732 of Title 7, Agriculture\] shall be considered to have taken effect before the date of the enactment of that Act \[Sept. 8, 1982\]."
+Pub. L. 98–623, title IV, §405(d), Nov. 8, 1984, 98 Stat. 3409, provided that: "For purposes of section 135 of the Omnibus Budget Reconciliation Act of 1982 (7 U.S.C. 612c note) \[Pub. L. 97–253\], the amendments made by this section \[amending this section and sections 1707a and 1732 of Title 7, Agriculture\] shall be considered to have taken effect before the date of the enactment of that Act \[Sept. 8, 1982\]."
 
 #### Continuation of Liability for 2004 and Earlier Crop Years
 

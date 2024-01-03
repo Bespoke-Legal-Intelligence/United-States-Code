@@ -6,9 +6,9 @@ Whenever a political committee makes a disbursement for the purpose of financing
 
 &emsp;(1) if paid for and authorized by a candidate, an authorized political committee of a candidate, or its agents, shall clearly state that the communication has been paid for by such authorized political committee, or <sup>1</sup>
 
-&emsp;(2) if paid for by other persons but authorized by a candidate, an authorized political committee of a candidate, or its agents, shall clearly state that the communication is paid for by such other persons and authorized by such authorized political committee; <sup>1</sup>
+&emsp;(2) if paid for by other persons but authorized by a candidate, an authorized political committee of a candidate, or its agents, shall clearly state that the communication is paidfor by such other persons and authorized by such authorized political committee; <sup>1</sup>
 
-&emsp;(3) if not authorized by a candidate, an authorized political committee of a candidate, or its agents, shall clearly state the name and permanent street address, telephone number,or World Wide Web address of the person who paid for the communication and state that the communication is not authorized by any candidate or candidate's committee.
+&emsp;(3) if not authorized by a candidate, an authorized political committee of a candidate, or its agents, shall clearly state the name and permanent street address, telephone number, or World Wide Web address of the person who paid for the communication and state that the communication is not authorized by any candidate or candidate's committee.
 
 #### (b) Charge for newspaper or magazine space
 
@@ -72,7 +72,7 @@ Subsec. (a)(3). Pub. L. 107–155, §311(1)(B), inserted "and permanent street a
 
 Subsecs. (c), (d). Pub. L. 107–155, §311(2), added subsecs. (c) and (d).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–187, §111, designated existing provisions as subsec. (a), and in revising text, provided for solicitation of contributions; prescribed three categories of communications: (1) paid for and authorized by the candidate, (2) paid for by others but authorized by the candidate, and (3) not authorized by the candidate for prior two categories where (1) authorized and (2) not authorized by the candidate; struck out requirement for statement in accordance with regulations of Commission and in a conspicuous manner; and struck out from the communication not authorized by the candidate statement of name of affiliated or connected organization required to be disclosed under section 433 (b)(2) of this title.
+<b>1980</b>—Subsec. (a). Pub. L. 96–187, §111, designated existing provisions as subsec. (a), and in revising text, provided for solicitation of contributions; prescribed three categories of communications: (1) paid for and authorized by the candidate, (2) paid for by others but authorized by the candidate, and (3) not authorized by the candidate for prior two categories where (1) authorized and (2) not authorized by the candidate; struck outrequirement for statement in accordance with regulations of Commission and in a conspicuous manner; and struck out from the communication not authorized by the candidate statement of name of affiliated or connected organization required to be disclosed under section 433 (b)(2) of this title.
 
 Subsec. (b). Pub. L. 96–187, §111, added subsec. (b).
 

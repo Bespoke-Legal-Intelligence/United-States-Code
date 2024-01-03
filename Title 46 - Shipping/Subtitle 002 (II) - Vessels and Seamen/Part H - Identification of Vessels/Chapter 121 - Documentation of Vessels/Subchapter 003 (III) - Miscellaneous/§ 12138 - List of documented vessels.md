@@ -14,7 +14,7 @@ In general.—The Secretary of Transportation shall develop, maintain, and perio
 
 &emsp;(2)
 
-Information to be included.—For each vessel listed in the inventory, the Secretary ofTransportation shall include in the inventory—
+Information to be included.—For each vessel listed in the inventory, the Secretary of Transportation shall include in the inventory—
 
 &emsp;&emsp;(A) the name, length, beam, depth, and other distinguishing characteristics of the vessel;
 

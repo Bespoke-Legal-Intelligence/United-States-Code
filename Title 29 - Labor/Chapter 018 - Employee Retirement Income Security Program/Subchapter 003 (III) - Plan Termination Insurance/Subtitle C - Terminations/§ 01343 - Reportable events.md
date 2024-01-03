@@ -12,7 +12,7 @@ Within 30 days after the plan administrator or the contributing sponsor knows or
 
 &emsp;(B) the funded vested benefit percentage for such plans is less than 90 percent.
 
-> For purposes of subparagraph (B), the funded vested benefit percentage means the percentagewhich the aggregate value of the assets of such plans bears to the aggregate vested benefits of such plans (determined in accordance with section 1306(a)(3)(E)(iii) of this title).
+> For purposes of subparagraph (B), the funded vested benefit percentage means the percentage which the aggregate value of the assets of such plans bears to the aggregate vested benefits of such plans (determined in accordance with section 1306(a)(3)(E)(iii) of this title).
 
 (2) This subsection shall not apply to an event if the contributing sponsor, or the member of the contributing sponsor's controlled group to which the event relates, is—
 
@@ -48,7 +48,7 @@ For purposes of this section a reportable event occurs—
 
 &emsp;&emsp;(C) immediately after the distribution, the plan has nonforfeitable benefits which are not funded;
 
-&emsp;(8) when a plan merges, consolidates, or transfers its assets under section 1058 of this title, or when an alternative method of compliance is prescribed by the Secretary of Labor under section 1030 of this title;
+&emsp;(8) when a plan merges, consolidates, or transfers its assets under section 1058 of thistitle, or when an alternative method of compliance is prescribed by the Secretary of Labor under section 1030 of this title;
 
 &emsp;(9) when, as a result of an event, a person ceases to be a member of the controlled group;
 

@@ -1,10 +1,10 @@
 ### §1431. Authorization; official approval; Congressional action: notification of committees of certain proposed obligations, resolution of disapproval, continuity of session, computation of period
 
-(a) The President may authorize any department or agency of the Government which exercises functions in connection with the national defense, acting in accordance with regulations prescribed by the President for the protection of the Government, to enter into contracts or into amendments or modifications of contracts heretofore or hereafter made and to make advance payments thereon, without regard to other provisions of law relating to the making, performance, amendment, or modification of contracts, whenever he deems that such action would facilitate the national defense. The authority conferred by this section shall not be utilized to obligate the United States in an amount in excess of $500,000 without approval by an official at or above the level of an Assistant Secretary or his Deputy, or an assistant head or his deputy, of such department or agency, or by a Contract Adjustment Board established therein. The authority conferred by this section may not be utilized to obligate the United States in an amount in excess of $150,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives and in addition, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate with respect to contracts, or modifications or amendments to contracts, or advance payments proposed to be made under this section by the Secretary of the Department in which the Coast Guard is operating with respect to the acquisition of Coast Guard cutters or aircraft, have been notified in writing of such proposed obligation and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die at the end of a Congress, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain, or because of an adjournment sine die other than at the end of a Congress, are excluded in the computation of such 60-day period.
+(a) The President may authorize any department or agency of the Government which exercises functions in connection with the national defense, acting in accordance with regulations prescribed by the President for the protection of the Government, to enter into contracts or into amendments or modifications of contracts heretofore or hereafter made and to make advance payments thereon, without regard to other provisions of law relating to the making, performance, amendment, or modification of contracts, whenever he deems that such action would facilitate the national defense. The authority conferred by this section shall not be utilized to obligate the United States in an amount in excess of $500,000 without approval by an official at or above the level of an Assistant Secretary or his Deputy, or an assistant head or his deputy, of such department or agency, or by a Contract Adjustment Board established therein. The authority conferred by this section may not be utilized to obligate the United States in an amount in excess of $150,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives and in addition, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate with respect to contracts, or modifications or amendments to contracts, or advance payments proposed to be made under this section by the Secretary of the Department inwhich the Coast Guard is operating with respect to the acquisition of Coast Guard cutters or aircraft, have been notified in writing of such proposed obligation and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die at the end of a Congress, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain, or because of an adjournment sine die other than at the end of a Congress, are excluded in the computation of such 60-day period.
 
 (b)
 
-Temporary Authority to Modify Certain Contracts and Options Based on the Impacts of Inflation.—Only amounts specifically provided by an appropriations Act for the purposes detailed in subsections (c) and (d) of this section may be used by the Secretary of Defense to carry out such subsections.
+Temporary Authority to Modify Certain Contracts and Options Based on the Impacts of Inflation.—Only amounts specifically provided by an appropriations Act for the purposes detailed in subsections (c) and (d) of this section may be used by the Secretary of Defense to carry out such subsections. If any such amounts are so specifically provided, the Secretary may use them for such purposes.
 
 (c)(1) The Secretary of Defense, acting pursuant to a Presidential authorization under subsection (a) and in accordance with subsection (b)—
 
@@ -26,7 +26,7 @@ Temporary Authority to Modify Certain Contracts and Options Based on the Impacts
 
 &emsp;(2) account only for the actual cost of performing such eligible contract or such eligible subcontract, but may account for indirect costs of performance, as the Secretary of Defense determines appropriate.
 
-(e) The authority under subsections (c) and (d) shall be effective during the period beginning on December 23, 2022, and ending on December 31, 2023.
+(e) The authority under subsections (c) and (d) shall be effective during the period beginning on December 23, 2022, and ending on December 31, 2024.
 
 (f) In this section:
 
@@ -36,11 +36,15 @@ Temporary Authority to Modify Certain Contracts and Options Based on the Impacts
 
 &emsp;(3) The term "eligible subcontract" means a subcontract made under an eligible contract to a covered subcontractor.
 
-(Pub. L. 85–804, §1, Aug. 28, 1958, 72 Stat. 972; Pub. L. 93–155, title VIII, §807(a), Nov. 16, 1973, 87 Stat. 615; Pub. L. 101–510, div. A, title XIII, §1313, Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–25, title VII, §705(f), Apr. 6, 1991, 105 Stat. 120; Pub. L. 116–92, div. C, title XXXV, §3507(c), Dec. 20, 2019, 133 Stat. 1976; Pub. L. 117–263, div. A, title VIII, §822(a), Dec. 23, 2022, 136 Stat. 2709.)
+(Pub. L. 85–804, §1, Aug. 28, 1958, 72 Stat. 972; Pub. L. 93–155, title VIII, §807(a), Nov. 16, 1973, 87 Stat. 615; Pub. L. 101–510, div. A, title XIII, §1313, Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–25, title VII, §705(f), Apr. 6, 1991, 105 Stat. 120; Pub. L. 116–92, div. C, title XXXV, §3507(c), Dec. 20, 2019, 133 Stat. 1976; Pub. L. 117–263, div. A, title VIII, §822(a), Dec. 23, 2022, 136 Stat. 2709; Pub. L. 118–31, div. A, title VIII, §824, Dec. 22, 2023, 137 Stat. 332.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b). Pub. L. 118–31, §824(1), inserted at end "If any such amounts are so specifically provided, the Secretary may use them for such purposes."
+
+Subsec. (e). Pub. L. 118–31, §824(2), substituted "December 31, 2024" for "December 31, 2023".
 
 <b>2022</b>—Pub. L. 117–263, §822(a)(1), (4), inserted section 1 designation in original Act, designated existing provisions as subsec. (a), and added subsecs. (b) to (f).
 
@@ -54,7 +58,7 @@ Pub. L. 102–25, §705(f)(2), in fourth sentence, inserted "at the end of a Con
 
 <b>1990</b>—Pub. L. 101–510 struck out before period at end of third sentence "and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such obligation".
 
-<b>1973</b>—Pub. L. 93–155 provided for notification of Congressional Committees with respect to certain proposed obligations, Congressional resolution of disapproval, continuity of Congressional session, and computation of period.
+<b>1973</b>—Pub. L. 93–155 provided for notification of Congressional Committees with respect to certain proposed obligations, Congressional resolution of disapproval,continuity of Congressional session, and computation of period.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -68,7 +72,7 @@ The provisions of the National Emergencies Act \[see Short Title note set out un
 
 #### Guidance
 
-Pub. L. 117–263, div. A, title VIII, §822(b), Dec. 23, 2022, 136 Stat. 2711, provided that: "Not later than 90 days after the date of the enactment of an Act providing appropriations to carry out section 1 of Public Law 85–804 (50 U.S.C. 1431) (as added by subsection (a)), the Under Secretary of Defense for Acquisition and Sustainment shall issue guidance implementing the authority undersubsections (b) through (d) of section 1 of Public Law 85–804 (50 U.S.C. 1431) (as added by subsection (a))."
+Pub. L. 117–263, div. A, title VIII, §822(b), Dec. 23, 2022, 136 Stat. 2711, provided that: "Not later than 90 days after the date of the enactment of an Act providing appropriations to carry out section 1 of Public Law 85–804 (50 U.S.C. 1431) (as added by subsection (a)), the Under Secretary of Defense for Acquisition and Sustainment shall issue guidance implementing the authority under subsections (b) through (d) of section 1 of Public Law 85–804 (50 U.S.C. 1431) (as added by subsection (a))."
 
 #### Obligations Entered Into Before November 16, 1973
 
@@ -110,11 +114,11 @@ Under such regulations, which shall be uniform to the extent practicable, as may
 
 (2) control or assistance by the United States, at its election, in the settlement or defense of any such claim or action.
 
-2\. The Secretaries of Defense, the Army, the Navy, and the Air Force, respectively, may exercise the authority herein conferred and, in their discretion and by their direction, may delegate such authority to any other military or civilian officers or officials of their respective departments, and may confer upon any such military or civilian officers or officials the power to make further delegations of such authority within their respective commands or organizations: <i>Provided</i>, That the authority herein conferred shall not be utilized to obligate the United States in an amount in excess of $50,000 without approval by an official at or above the level of an Assistant Secretary or his Deputy, or by a departmental Contract Adjustment Board.
+2\. The Secretaries of Defense, the Army, the Navy, and the Air Force, respectively, may exercise the authority herein conferred and, in their discretion and by their direction, may delegate such authority to any other military or civilian officers or officials of their respective departments, and may confer upon any such military or civilian officers or officials the power tomake further delegations of such authority within their respective commands or organizations: <i>Provided</i>, That the authority herein conferred shall not be utilized to obligate the United States in an amount in excess of $50,000 without approval by an official at or above the level of an Assistant Secretary or his Deputy, or by a departmental Contract Adjustment Board.
 
 3\. The contracts hereby authorized to be made shall include agreements of all kinds (whether in the form of letters of intent, purchase orders, or otherwise) for all types and kinds of property or services necessary, appropriate, or convenient for the national defense, or for the invention, development, or production of, or research concerning, any such property or services, including, but not limited to, aircraft, missiles, buildings, vessels, arms, armament, equipment or supplies of any kind, or any portion thereof, including plans, spare parts and equipment therefor, materials, supplies, facilities, utilities, machinery, machine tools, and any other equipment without any restriction of any kind as to type, character, location, or form.
 
-4\. The Department of Defense may by agreement modify or amend or settle claims under contracts heretofore or hereafter made, may make advance payments upon such contracts of any portion of the contract price, and may enter into agreements with contractorsor obligors modifying or releasing accrued obligations of any sort, including accrued liquidated damages or liability under surety or other bonds. Amendments or modifications of contracts may be with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished hereunder, irrespective of the time or circumstances of the making, or the form, of the contract amended or modified, or of the amending or modifying contract, and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof.
+4\. The Department of Defense may by agreement modify or amend or settle claims under contracts heretofore or hereafter made, may make advance payments upon such contracts of any portion of the contract price, and may enter into agreements with contractors or obligors modifying or releasing accrued obligations of any sort, including accrued liquidated damages or liability under surety or other bonds. Amendments or modifications of contracts may be with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished hereunder, irrespective of the time or circumstances of the making, or the form, of the contract amended or modified, or of the amending or modifying contract, and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof.
 
 5\. Proper records of all actions taken under the authority of the act shall be maintained within the Department of Defense. The Secretaries of Defense, the Army, the Navy, and the Air Force shall make such records available for public inspection except to the extent that they, or their duly authorized representatives, may respectively deem the disclosure of information therein to be detrimental to the national security.
 
@@ -162,7 +166,7 @@ Under such regulations, which shall be uniform to the extent practicable, as may
 
 #### Part II—Extension of Provisions of Paragraphs 1 to 14
 
-21\. Subject to the limitations and regulations contained in paragraphs 1 to 14, inclusive, hereof, and under any regulations prescribed by him in pursuance of the provisions of paragraph 22 hereof, the head of each of the following-named agencies is authorized to perform or exercise as to his agency, independently of any Secretary referred to in the said paragraphs 1 to 14, all the functions and authority vested by those paragraphs in the Secretaries mentioned therein:
+21\. Subject to the limitations and regulations contained in paragraphs 1 to 14, inclusive, hereof, andunder any regulations prescribed by him in pursuance of the provisions of paragraph 22 hereof, the head of each of the following-named agencies is authorized to perform or exercise as to his agency, independently of any Secretary referred to in the said paragraphs 1 to 14, all the functions and authority vested by those paragraphs in the Secretaries mentioned therein:
 
 Department of the Treasury.
 

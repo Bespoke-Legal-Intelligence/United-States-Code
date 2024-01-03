@@ -8,7 +8,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;(2) provide assurances that an adequate proportion, as required under section 3027(a)(2) of this title, of the amount allotted for part B to the planning and service area will be expended for the delivery of each of the following categories of services—
 
-&emsp;&emsp;(A) services associated with access to services (transportation, health services (including mental and behavioral health services), outreach, information and assistance (which may include information and assistance to consumers on availability of services under part B and how to receive benefits under and participate in publicly supported programsfor which the consumer may be eligible), and case management services);
+&emsp;&emsp;(A) services associated with access to services (transportation, health services (including mental and behavioral health services), outreach, information and assistance (which may include information and assistance to consumers on availability of services under part B and how to receive benefits under and participate in publicly supported programs for which the consumer may be eligible), and case management services);
 
 &emsp;&emsp;(B) in-home services, including supportive services for families of older individuals with Alzheimer's disease and related disorders with neurological and organic brain dysfunction); <sup>1</sup> and
 
@@ -140,7 +140,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;(9) provide assurances that—
 
-&emsp;&emsp;(A) the area agency on aging, in carrying out the State Long-Term Care Ombudsman program under section 3027(a)(9) of this title, will expend not less than the total amount of funds appropriated under this chapter and expended by the agency in fiscal year 2019 in carrying out such a program under this subchapter; and
+&emsp;&emsp;(A) the area agency on aging, in carrying out the State Long-Term Care Ombudsman program under section 3027(a)(9) of this title, will expend not less than the total amount of funds appropriated under this chapter and expended by the agency in fiscal year 2019 incarrying out such a program under this subchapter; and
 
 &emsp;&emsp;(B) funds made available to the area agency on aging pursuant to section 3058g of this title shall be used to supplement and not supplant other Federal, State, and local funds expended to support activities described in section 3058g of this title;
 
@@ -200,7 +200,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;(A) the projected change in the number of older individuals in the planning and service area;
 
-&emsp;(B) an analysis of how such change may affect such individuals, including individuals with low incomes, individuals with greatest economic need, minority older individuals, older individuals residing in rural areas, and older individuals with limited English proficiency;
+&emsp;(B) an analysis of how such change may affect such individuals, including individuals with low incomes, individuals with greatest economic need, minority older individuals, older individuals residing in rural areas, andolder individuals with limited English proficiency;
 
 &emsp;(C) an analysis of how the programs, policies, and services provided by such area agency can be improved, and how resource levels can be adjusted to meet the needs of the changing population of older individuals in the planning and service area; and
 
@@ -276,7 +276,7 @@ Nothing in this chapter shall restrict an area agency on aging from providing se
 
 (3) other arrangements with entities or individuals that increase the availability of home- and community-based services and supports.
 
-(Pub. L. 89–73, title III, §306, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1522; amended Pub. L. 97–115, §§3(d), 6, Dec. 29, 1981, 95 Stat. 1597, 1598; Pub. L. 98–459, title III, §306, Oct. 9, 1984, 98 Stat. 1774; Pub. L. 100–175, title I, §§104(c), 125–127, 130(a), 131(a), 132(b), 133, 134(a)(2), (b), 135, 136(b), 137(a), 140(b), 141(b), 143(b), 144(c), 155(e)(1), 182(e)(3), (i), (j), Nov. 29, 1987, 101 Stat. 930, 934, 938–944, 946, 947, 949, 952, 965; Pub. L. 100–628, title VII, §705(5), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), (10)(C), (E), title III, §306, title IX, §904(a)(12), Sept. 30, 1992, 106 Stat. 1201, 1202, 1223, 1307; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 105–285, title II, §202(a), Oct. 27, 1998, 112 Stat. 2755; Pub. L. 106–501, title III, §305, Nov. 13, 2000, 114 Stat. 2240; Pub. L. 109–365, title III, §306, Oct. 17, 2006, 120 Stat. 2540; Pub. L. 114–144, §§4(d), 9(4), Apr. 19, 2016, 130 Stat. 338, 352; Pub. L. 116–131, title I, §§104(2), 118(b), title II, §§205, 206(1), 207(a), title VII, §701(8), Mar. 25, 2020, 134 Stat. 243, 246, 256, 257, 271.)
+(Pub. L. 89–73, title III, §306, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1522; amended Pub. L. 97–115, §§3(d), 6, Dec. 29, 1981, 95 Stat. 1597, 1598; Pub. L. 98–459, title III, §306, Oct. 9, 1984, 98 Stat. 1774; Pub. L. 100–175, title I, §§104(c), 125–127, 130(a), 131(a), 132(b), 133, 134(a)(2), (b), 135, 136(b), 137(a), 140(b), 141(b), 143(b), 144(c), 155(e)(1), 182(e)(3), (i), (j), Nov. 29, 1987, 101 Stat. 930, 934, 938–944, 946, 947, 949, 952, 965; Pub. L. 100–628, title VII, §705(5), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), (10)(C), (E), title III, §306, title IX, §904(a)(12),Sept. 30, 1992, 106 Stat. 1201, 1202, 1223, 1307; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 105–285, title II, §202(a), Oct. 27, 1998, 112 Stat. 2755; Pub. L. 106–501, title III, §305, Nov. 13, 2000, 114 Stat. 2240; Pub. L. 109–365, title III, §306, Oct. 17, 2006, 120 Stat. 2540; Pub. L. 114–144, §§4(d), 9(4), Apr. 19, 2016, 130 Stat. 338, 352; Pub. L. 116–131, title I, §§104(2), 118(b), title II, §§205, 206(1), 207(a), title VII, §701(8), Mar. 25, 2020, 134 Stat. 243, 246, 256, 257, 271.)
 
 #### <b>Editorial Notes</b>
 
@@ -394,7 +394,7 @@ Subsec. (a)(5). Pub. L. 106–501, §305(a)(9), added par. (5). Former par. (5) 
 
 Subsec. (a)(6)(A). Pub. L. 106–501, §305(a)(10)(A), (B), redesignated subpar. (C) as (A) and struck out former subpar. (A) which read as follows: "conduct periodic evaluations of, and public hearings on, activities carried out under the area plan and an annual evaluation of the effectiveness of outreach conducted under paragraph (5)(B);".
 
-Subsec. (a)(6)(B). Pub. L. 106–501, §305(a)(10)(A), (B), redesignated subpar. (D) as (B) and struck out formersubpar. (B) which read as follows: "furnish appropriate technical assistance, and timely information in a timely manner, to providers of supportive services, nutrition services, or multipurpose senior centers in the planning and service area covered by the area plan;".
+Subsec. (a)(6)(B). Pub. L. 106–501, §305(a)(10)(A), (B), redesignated subpar. (D) as (B) and struck out former subpar. (B) which read as follows: "furnish appropriate technical assistance, and timely information in a timely manner, to providers of supportive services, nutrition services, or multipurpose senior centers in the planning and service area covered by the area plan;".
 
 Subsec. (a)(6)(C). Pub. L. 106–501, §305(a)(10)(B), (C), redesignated subpar. (E) as (C) and substituted ", assistance to older individuals caring for relatives who are children" for "or adults" in cl. (i). Former subpar. (C) redesignated (A).
 
@@ -456,7 +456,7 @@ Subsec. (a)(2)(B). Pub. L. 102–375, §904(a)(12)(A)(ii), substituted "older in
 
 Subsec. (a)(3). Pub. L. 102–375, §306(b), designated existing provisions as subpar. (A), inserted "(including multipurpose senior centers operated by organizations referred to in paragraph (6)(E)(ii))" after "centers", and added subpar. (B).
 
-Subsec. (a)(4). Pub. L. 102–375, §306(c)(1), inserted before semicolon at end ", with particular emphasis on linking services available to isolated older individualsand older individuals with Alzheimer's disease or related disorders with neurological and organic brain dysfunction (and the caretakers of individuals with such disease or disorders)".
+Subsec. (a)(4). Pub. L. 102–375, §306(c)(1), inserted before semicolon at end ", with particular emphasis on linking services available to isolated older individuals and older individuals with Alzheimer's disease or related disorders with neurological and organic brain dysfunction (and the caretakers of individuals with such disease or disorders)".
 
 Pub. L. 102–375, §102(b)(4), substituted "information and assistance" for "information and referral".
 
@@ -538,7 +538,7 @@ Subsec. (a)(5)(B). Pub. L. 100–175, §136(b), inserted "and older individuals 
 
 Pub. L. 100–175, §132(b)(2), inserted "older individuals who have greatest economic need (with particular attention to low-income minority individuals), older individuals who have greatest social need (with particular attention to low-income minority individuals)," after "rural elderly".
 
-Subsec. (a)(6)(A). Pub. L. 100–175, §§125, 132(b)(3), inserted ", and public hearings on," after "evaluationsof" and "and an annual evaluation of the effectiveness of outreach conducted under paragraph (5)(B)" before semicolon at end.
+Subsec. (a)(6)(A). Pub. L. 100–175, §§125, 132(b)(3), inserted ", and public hearings on," after "evaluations of" and "and an annual evaluation of the effectiveness of outreach conducted under paragraph (5)(B)" before semicolon at end.
 
 Subsec. (a)(6)(E). Pub. L. 100–175, §126, inserted "or adults, and respite for families," after "for children" and ", adults, and families" after "to children".
 
@@ -576,7 +576,7 @@ Subsec. (a)(2). Pub. L. 98–459, §306(a)(2)(A), inserted "each of the followin
 
 Pub. L. 98–459, §306(a)(2)(D), substituted "and specify annually in such plan, as submitted or as amended, in detail the amount of funds expended for each such category during the fiscal year most recently concluded" for "and that some funds will be expended for each such category of services" in provisions following subpar. (C).
 
-Subsec. (a)(2)(B). Pub. L. 98–459, §306(a)(2)(B), substituted "chore maintenance, and supportive services for families of elderly victims of Alzheimer's disease and other neurological and organic brain disorders of the Alzheimer's type" for "and chore maintenance".
+Subsec. (a)(2)(B). Pub. L. 98–459, §306(a)(2)(B), substituted "chore maintenance, and supportive servicesfor families of elderly victims of Alzheimer's disease and other neurological and organic brain disorders of the Alzheimer's type" for "and chore maintenance".
 
 Subsec. (a)(2)(C). Pub. L. 98–459, §306(a)(2)(C), substituted "legal assistance" for "legal services".
 
@@ -624,7 +624,7 @@ Reference to community health center, migrant health center, public housing heal
 
 #### Implementation Information
 
-Pub. L. 100–175, title I, §155(g), Nov. 29, 1987, 101 Stat. 954, directed Commissioner on Aging, not later thanSept. 1, 1988, to analyze and compile information on successful and unsuccessful activities carried out to conduct outreach of the type described in 42 U.S.C. 3026(a)(6)(P) and distribute such information to State agencies on aging for dissemination to interested area agencies on aging to assist such area agencies in designing outreach activities.
+Pub. L. 100–175, title I, §155(g), Nov. 29, 1987, 101 Stat. 954, directed Commissioner on Aging, not later than Sept. 1, 1988, to analyze and compile information on successful and unsuccessful activities carried out to conduct outreach of the type described in 42 U.S.C. 3026(a)(6)(P) and distribute such information to State agencies on aging for dissemination to interested area agencies on aging to assist such area agencies in designing outreach activities.
 
 #### Evaluation of Guidelines
 

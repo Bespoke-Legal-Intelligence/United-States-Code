@@ -80,7 +80,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), if during any taxable year of the partnership there is a change in any partner's interest in the partnership, each partner's distributive share of any item of income, gain, loss, deduction, or credit of the partnership for such taxable year shall be determined by the use of any method prescribed by the Secretary by regulations which takes into account the varying interests of the partners in the partnership during such taxable year.
+&emsp;Except as provided in paragraphs (2) and (3), if during any taxable year of the partnershipthere is a change in any partner's interest in the partnership, each partner's distributive share of any item of income, gain, loss, deduction, or credit of the partnership for such taxable year shall be determined by the use of any method prescribed by the Secretary by regulations which takes into account the varying interests of the partners in the partnership during such taxable year.
 
 #### (2) Certain cash basis items prorated over period to which attributable
 

@@ -38,7 +38,7 @@ Mar. 3, 1919, ch. 100, §§7(b), 8, 40 Stat. 1312, 1313.
 
 Apr. 24, 1917, ch. 4, §3, 40 Stat. 35.
 
-In the section, the words "government of a foreign country" are substituted for "foreign governments" for consistency in the revised title and with other titles of the United States Code.
+In the section, the words "government of a foreign country" are substituted for "foreign governments" forconsistency in the revised title and with other titles of the United States Code.
 
 In subsection (a), the text of 31:801 and 802 (related to converting certain obligations of foreign governments into obligations bearing a higher rate of interest or with a longer term to maturity) is omitted as executed.
 
@@ -52,5 +52,5 @@ The First Liberty Bond Act, referred to in subsec. (a)(1), is act Apr. 24, 1917,
 
 The Second Liberty Bond Act, referred to in subsec. (a)(2), is act Sept. 24, 1917, ch. 56, 40 Stat. 288, which enacted sections 747, 752 to 754b, 757, 757b, 757c to 757e, 758, 760, 765, 766, 771, 773, and 801 and amended sections 745, 764, 769, and 774 of former Title 31, and was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1072.
 
-Section 7(a) of the Victory Liberty Loan Act, referred to in subsec. (a)(3), is section 7(a) of act Mar. 3, 1919, ch.100, 40 Stat. 1309, and was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1072.
+Section 7(a) of the Victory Liberty Loan Act, referred to in subsec. (a)(3), is section 7(a) of act Mar. 3, 1919, ch. 100, 40 Stat. 1309, and was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1072.
 

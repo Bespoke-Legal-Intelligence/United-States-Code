@@ -150,7 +150,7 @@
 
 &emsp;The term "qualified real property business indebtedness" means indebtedness which—
 
-&emsp;&emsp;(A) was incurred or assumed by the taxpayer in connection with real property used in a trade or business and is secured by such real property,
+&emsp;&emsp;(A) was incurred or assumed by the taxpayer in connection with real property usedin a trade or business and is secured by such real property,
 
 &emsp;&emsp;(B) was incurred or assumed before January 1, 1993, or if incurred or assumed on or after such date, is qualified acquisition indebtedness, and
 
@@ -160,7 +160,7 @@
 
 #### (4) Qualified acquisition indebtedness
 
-&emsp;For purposes of paragraph (3)(B), the term "qualified acquisition indebtedness" means,with respect to any real property described in paragraph (3)(A), indebtedness incurred or assumed to acquire, construct, reconstruct, or substantially improve such property.
+&emsp;For purposes of paragraph (3)(B), the term "qualified acquisition indebtedness" means, with respect to any real property described in paragraph (3)(A), indebtedness incurred or assumed to acquire, construct, reconstruct, or substantially improve such property.
 
 #### (5) Regulations
 
@@ -236,7 +236,7 @@ For purposes of this title—
 
 #### (1) No other insolvency exception
 
-&emsp;Except as otherwise provided in this section, there shall be no insolvency exception from the general rule that gross income includes income from the discharge of indebtedness.
+&emsp;Except as otherwise provided in this section, there shall be no insolvency exception fromthe general rule that gross income includes income from the discharge of indebtedness.
 
 #### (2) Income not realized to extent of lost deductions
 
@@ -250,7 +250,7 @@ For purposes of this title—
 
 #### (A) Treated as acquisition by debtor
 
-&emsp;&emsp;For purposes of determining income of the debtor from discharge of indebtedness, tothe extent provided in regulations prescribed by the Secretary, the acquisition of outstanding indebtedness by a person bearing a relationship to the debtor specified in section 267(b) or 707(b)(1) from a person who does not bear such a relationship to the debtor shall be treated as the acquisition of such indebtedness by the debtor. Such regulations shall provide for such adjustments in the treatment of any subsequent transactions involving the indebtedness as may be appropriate by reason of the application of the preceding sentence.
+&emsp;&emsp;For purposes of determining income of the debtor from discharge of indebtedness, to the extent provided in regulations prescribed by the Secretary, the acquisition of outstanding indebtedness by a person bearing a relationship to the debtor specified in section 267(b) or 707(b)(1) from a person who does not bear such a relationship to the debtor shall be treated as the acquisition of such indebtedness by the debtor. Such regulations shall provide for such adjustments in the treatment of any subsequent transactions involving the indebtedness as may be appropriate by reason of the application of the preceding sentence.
 
 #### (B) Members of family
 
@@ -386,7 +386,7 @@ For purposes of this title—
 
 &emsp;Gross income does not include any amount which (but for this subsection) would be includible in gross income by reason of the discharge (in whole or in part) after December 31, 2020, and before January 1, 2026, of—
 
-&emsp;&emsp;(A) any loan provided expressly for postsecondary educational expenses, regardless of whether provided through the educational institution or directly to the borrower, if such loan was made, insured, or guaranteed by—
+&emsp;&emsp;(A) any loan provided expressly for postsecondary educational expenses, regardless of whether provided through the educationalinstitution or directly to the borrower, if such loan was made, insured, or guaranteed by—
 
 &emsp;&emsp;&emsp;(i) the United States, or an instrumentality or agency thereof,
 
@@ -456,7 +456,7 @@ For purposes of this title—
 
 #### (2) Qualified principal residence indebtedness
 
-&emsp;For purposes of this section, the term "qualified principal residence indebtedness" means acquisition indebtedness (within the meaning of section 163(h)(3)(B), applied by substituting "$750,000 ($375,000" for "$1,000,000 ($500,000" in clause (ii) thereof and determined without regard to the substitution described in section 163(h)(3)(F)(i)(II)) with respect to the principal residence of the taxpayer.
+&emsp;For purposes of this section, the term "qualified principal residence indebtedness"means acquisition indebtedness (within the meaning of section 163(h)(3)(B), applied by substituting "$750,000 ($375,000" for "$1,000,000 ($500,000" in clause (ii) thereof and determined without regard to the substitution described in section 163(h)(3)(F)(i)(II)) with respect to the principal residence of the taxpayer.
 
 #### (3) Exception for certain discharges not related to taxpayer's financial condition
 
@@ -464,7 +464,7 @@ For purposes of this title—
 
 #### (4) Ordering rule
 
-&emsp;If any loan is discharged, in whole or in part, and only a portion of such loan is qualifiedprincipal residence indebtedness, subsection (a)(1)(E) shall apply only to so much of the amount discharged as exceeds the amount of the loan (as determined immediately before such discharge) which is not qualified principal residence indebtedness.
+&emsp;If any loan is discharged, in whole or in part, and only a portion of such loan is qualified principal residence indebtedness, subsection (a)(1)(E) shall apply only to so much of the amount discharged as exceeds the amount of the loan (as determined immediately before such discharge) which is not qualified principal residence indebtedness.
 
 #### (5) Principal residence
 
@@ -530,7 +530,7 @@ For purposes of this title—
 
 #### (B) Acquisition
 
-&emsp;&emsp;The term "acquisition" shall, with respect to any applicable debt instrument, include an acquisition of the debt instrument for cash, the exchange of the debt instrument for another debt instrument (including an exchange resulting from a modification of the debt instrument), the exchange of the debt instrument for corporate stock or a partnership interest, and the contribution of the debt instrument to capital. Such term shall also include the complete forgiveness of the indebtedness by the holder of the debt instrument.
+&emsp;&emsp;The term "acquisition" shall, with respect to any applicable debt instrument, include an acquisition of the debt instrument forcash, the exchange of the debt instrument for another debt instrument (including an exchange resulting from a modification of the debt instrument), the exchange of the debt instrument for corporate stock or a partnership interest, and the contribution of the debt instrument to capital. Such term shall also include the complete forgiveness of the indebtedness by the holder of the debt instrument.
 
 #### (5) Other definitions and rules
 
@@ -544,7 +544,7 @@ For purposes of this title—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An election under this subsection with respect to any applicable debt instrumentshall be made by including with the return of tax imposed by chapter 1 for the taxable year in which the reacquisition of the debt instrument occurs a statement which—
+&emsp;&emsp;&emsp;An election under this subsection with respect to any applicable debt instrument shall be made by including with the return of tax imposed by chapter 1 for the taxable year in which the reacquisition of the debt instrument occurs a statement which—
 
 &emsp;&emsp;&emsp;&emsp;(I) clearly identifies such instrument, and
 
@@ -586,7 +586,7 @@ For purposes of this title—
 
 &emsp;&emsp;(C) rules for the application of this subsection to partnerships, S corporations, and other pass-thru entities, including for the allocation of deferred deductions.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, title IV, §402(a), Mar. 9, 2002, 116 Stat. 40; Pub. L. 108–357, title III, §320(a), title VIII, §896(a), Oct. 22, 2004, 118 Stat. 1473, 1648; Pub. L. 110–142, §2(a)–(c), Dec. 20, 2007, 121 Stat. 1803, 1804; Pub. L. 110–343, div. A, title III, §303(a), Oct. 3, 2008, 122 Stat. 3807; Pub. L. 111–5, div. B, title I, §1231(a), Feb. 17, 2009, 123 Stat. 338; Pub. L. 111–148, title X, §10908(a), Mar. 23, 2010, 124 Stat. 1021; Pub. L. 112–240, title II, §202(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §102(a), Dec. 19, 2014, 128 Stat. 4013; Pub. L. 114–113, div. Q, title I, §151(a), (b), Dec. 18, 2015, 129 Stat. 3065; Pub. L. 115–97, title I, §11031(a), Dec. 22, 2017, 131 Stat. 2081; Pub. L. 115–123, div. D, title I, §40201(a), Feb. 9, 2018, 132 Stat. 145; Pub. L. 116–94, div. Q, title I, §101(a), (b), Dec. 20, 2019, 133 Stat. 3227; Pub. L. 116–260, div. EE, title I, §114(a), (b), Dec. 27, 2020, 134 Stat. 3050; Pub. L. 117–2, title IX, §9675(a), Mar. 11, 2021, 135 Stat. 185.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, title IV, §402(a), Mar. 9, 2002, 116 Stat. 40; Pub. L. 108–357, title III, §320(a), title VIII, §896(a), Oct. 22, 2004, 118 Stat. 1473, 1648; Pub. L. 110–142, §2(a)–(c), Dec. 20, 2007, 121 Stat. 1803, 1804; Pub. L. 110–343, div. A, title III, §303(a), Oct. 3, 2008,122 Stat. 3807; Pub. L. 111–5, div. B, title I, §1231(a), Feb. 17, 2009, 123 Stat. 338; Pub. L. 111–148, title X, §10908(a), Mar. 23, 2010, 124 Stat. 1021; Pub. L. 112–240, title II, §202(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §102(a), Dec. 19, 2014, 128 Stat. 4013; Pub. L. 114–113, div. Q, title I, §151(a), (b), Dec. 18, 2015, 129 Stat. 3065; Pub. L. 115–97, title I, §11031(a), Dec. 22, 2017, 131 Stat. 2081; Pub. L. 115–123, div. D, title I, §40201(a), Feb. 9, 2018, 132 Stat. 145; Pub. L. 116–94, div. Q, title I, §101(a), (b), Dec. 20, 2019, 133 Stat. 3227; Pub. L. 116–260, div. EE, title I, §114(a), (b), Dec. 27, 2020, 134 Stat. 3050; Pub. L. 117–2, title IX, §9675(a), Mar. 11, 2021, 135 Stat. 185.)
 
 #### <b>Editorial Notes</b>
 
@@ -594,7 +594,7 @@ For purposes of this title—
 
 Sections 338B(g) and 338I of the Public Health Service Act, referred to in subsec. (f)(4), are classified to sections 254l–1(g) and 254q–1, respectively, of Title 42, The Public Health and Welfare.
 
-Section 140(a) of the Truth in Lending Act, referred to in subsec. (f)(5), is classified to section 1650(a) ofTitle 15, Commerce and Trade. Section 140(a)(7) of the Act was redesignated section 140(a)(8) by Pub. L. 115–174, title VI, §601(a)(1)(A), May 24, 2018, 132 Stat. 1365.
+Section 140(a) of the Truth in Lending Act, referred to in subsec. (f)(5), is classified to section 1650(a) of Title 15, Commerce and Trade. Section 140(a)(7) of the Act was redesignated section 140(a)(8) by Pub. L. 115–174, title VI, §601(a)(1)(A), May 24, 2018, 132 Stat. 1365.
 
 #### Amendments
 
@@ -694,7 +694,7 @@ Subsec. (e)(8). Pub. L. 103–66, §13226(a)(1)(B), amended heading and text of 
 
 Subsec. (e)(10), (11). Pub. L. 103–66, §13226(a)(1)(A), redesignated par. (11) as (10) and struck out former par. (10) which related to satisfaction of indebtedness by transfer of corporation's stock.
 
-Subsec. (g)(3)(B). Pub. L. 103–66, §13226(b)(3)(D), substituted "subparagraphs (A), (B), (C), (D), (F), and (G)" for "subparagraphs (A), (B), (C), and (E)" and "subparagraphs (B), (C), and (G)" for "subparagraphs (B) and (E)" and inserted before period at end "and the attribute described in subparagraph (F) of subsection\(b)(2) to the extent attributable to any passive activity credit carryover".
+Subsec. (g)(3)(B). Pub. L. 103–66, §13226(b)(3)(D), substituted "subparagraphs (A), (B), (C), (D), (F), and (G)" for "subparagraphs (A), (B), (C), and (E)" and "subparagraphs (B), (C), and (G)" for "subparagraphs (B) and (E)" and inserted before period at end "and the attribute described in subparagraph (F) of subsection (b)(2) to the extent attributable to any passive activity credit carryover".
 
 <b>1990</b>—Subsec. (e)(8). Pub. L. 101–508, §11325(b)(2), inserted provision at end that any stock which is a disqualified stock, as so defined, not be treated as stock for purposes of this paragraph.
 
@@ -776,7 +776,7 @@ Subsec. (g). Pub. L. 99–514, §405(a), added subsec. (g).
 
 <b>1984</b>—Subsec. (b)(2)(B). Pub. L. 98–369, §474(r)(5), substituted provisions relating to research credits and general business credits covering carryovers to or from the taxable year of a discharge of an amount for purposes of determining the amount allowable as a credit under section 30 (relating to credit for increasing research activities), or section 38 (relating to general business credit), and directing that there shall not be taken into account any portion of a carryover which is attributable to the employee stock ownership credit determined under section 41 for former provisions covering carryovers to or from the taxable year of the discharge of an amount for purposes of determining the amount of a credit allowable under section 38 (relating to investment in certain depreciable property), section 40 (relating to expenses of work incentive programs), section 44B (relating to credit for employment of certain new employees), section 44E (relating to alcohol used as a fuel), or section 44F (relating to credit for increasing research activities), and directing that, for purposes of clause (i), there could not be taken into account any portion of a carryover which was attributable to the employee plan credit (within the meaning of section 48(o)(3)).
 
-Subsec. (d)(6). Pub. L. 98–369, §721(b)(2), struck out "or S corporation shareholder level" in heading and second sentence which provided that "In the case of anS corporation, subsections (a), (b), and (c) shall apply at the shareholder level.". See par. (7)(A).
+Subsec. (d)(6). Pub. L. 98–369, §721(b)(2), struck out "or S corporation shareholder level" in heading and second sentence which provided that "In the case of an S corporation, subsections (a), (b), and (c) shall apply at the shareholder level.". See par. (7)(A).
 
 Subsec. (d)(7) to (10). Pub. L. 98–369, §721(b)(2), added par. (7) and redesignated former pars. (7) to (9) as (8) to (10), respectively.
 
@@ -880,7 +880,7 @@ Exception.—The amendment made by this section shall not apply to any discharge
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -958,7 +958,7 @@ Amendment by section 1847(b)(7) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §59(b)(2), July 18, 1984, 98 Stat. 577, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if it had been included in the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976 \[Pub. L. 94–455\]." See Effective Date of 1976 Amendment note set out under section 382 of this title.
+Pub. L. 98–369, div. A, title I, §59(b)(2), July 18, 1984, 98 Stat. 577, provided that: "The amendment made byparagraph (1) \[amending this section\] shall take effect as if it had been included in the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976 \[Pub. L. 94–455\]." See Effective Date of 1976 Amendment note set out under section 382 of this title.
 
 Pub. L. 98–369, div. A, title I, §59(b)\[(c)\], July 18, 1984, 98 Stat. 577, provided that:
 
@@ -970,7 +970,7 @@ In general.—Except as otherwise provided in this subsection, the amendment mad
 
 Transitional rule.—The amendment made by subsection (a) shall not apply to the transfer by a corporation of its stock in exchange for debt of the corporation after the date of the enactment of this Act if such transfer is—
 
-&emsp;"(A) pursuant to a written contract requiring such transfer which was binding on the corporation at all times on June 7, 1984, and at all times after such date but only if the transfer takes place before January 1,1985, and only if the transferee held the debt at all times on June 7, 1984, or
+&emsp;"(A) pursuant to a written contract requiring such transfer which was binding on the corporation at all times on June 7, 1984, and at all times after such date but only if the transfer takes place before January 1, 1985, and only if the transferee held the debt at all times on June 7, 1984, or
 
 &emsp;"(B) pursuant to the exercise of an option to exchange debt for stock but only if such option was in effect at all times on June 7, 1984, and at all times after such date and only if at all times on June 7, 1984, the option and the debt were held by the same person.
 
@@ -1074,7 +1074,7 @@ For subsection (b)
 
 For subsection (c)
 
-(relating to application of 12-month liquidation rule).—The amendment made by subsection (c) of section 5 \[amending section 337 of this title\] shall apply to any bankruptcy case or similar judicial proceeding commenced after December 31, 1980.
+(relating to application of 12-month liquidation rule).—The amendment made by subsection (c) of section 5 \[amending section 337 of this title\] shall apply to any bankruptcy caseor similar judicial proceeding commenced after December 31, 1980.
 
 &emsp;"(4)
 

@@ -6,7 +6,7 @@ The Congress calls upon all Federal departments and agencies and other persons a
 
 #### (b) Authorization for transfers of funds
 
-For this purpose, the Congress authorizes and requests all Federal departments and agencies having functions or objectives which coincidewith or are related to those of the international biological program to obligate or make appropriate transfers of funds to the program from moneys available for such functions or objectives and provide such other support as may be appropriate.
+For this purpose, the Congress authorizes and requests all Federal departments and agencies having functions or objectives which coincide with or are related to those of the international biological program to obligate or make appropriate transfers of funds to the program from moneys available for such functions or objectives and provide such other support as may be appropriate.
 
 (Pub. L. 91–438, §2, Oct. 7, 1970, 84 Stat. 889.)
 

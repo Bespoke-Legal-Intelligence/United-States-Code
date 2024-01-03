@@ -50,7 +50,7 @@
 
 &emsp;(IV) any person not otherwise described in this clause that conducts, or has conducted, a study described in subparagraph (E) yielding records or other information described in subparagraph (B).
 
-(D)(i) Subject to clause (ii), an entity that owns or operates any site or facility subject to inspection under this paragraph shall provide the Secretary with access to records and other information described in subparagraph (B) that is held by or under the control of such entity, including—
+(D)(i) Subject to clause (ii), an entity that owns or operates any site or facility subject to inspection under this paragraph shall provide the Secretary with access to records and other information described in subparagraph (B) thatis held by or under the control of such entity, including—
 
 &emsp;(I) permitting the Secretary to record or copy such information for purposes of this paragraph;
 
@@ -144,7 +144,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 (5)(A) To ensure that persons accredited under this subsection continue to meet the standards of accreditation, the Secretary shall (i) audit the performance of such persons on a periodic basis through the review of inspection reports and inspections by persons designated by the Secretary to evaluate the compliance status of a device establishment and the performance of accredited persons, and (ii) take such additional measures as the Secretary determines to be appropriate.
 
-(B) The Secretary may withdraw accreditation of any person accredited under paragraph (2),after providing notice and an opportunity for an informal hearing, when such person is substantially not in compliance with the standards of accreditation, poses a threat to public health, fails to act in a manner that is consistent with the purposes of this subsection, or where the Secretary determines that there is a financial conflict of interest in the relationship between the accredited person and the owner or operator of a device establishment that the accredited person has inspected under this subsection. The Secretary may suspend the accreditation of such person during the pendency of the process under the preceding sentence.
+(B) The Secretary may withdraw accreditation of any person accredited under paragraph (2), after providing notice and an opportunity for an informal hearing, when such person is substantially not in compliance with the standards of accreditation, poses a threat to public health, fails to act in a manner that is consistent with the purposes of this subsection, or where the Secretary determines that there is a financial conflict of interest in the relationship between the accredited person and the owner or operator of a device establishment that the accredited person has inspected under this subsection. The Secretary may suspend the accreditation of such person during the pendency of the process under the preceding sentence.
 
 (6)(A) Subject to subparagraphs (B) and (C), a device establishment is eligible for inspection by persons accredited under paragraph (2) if the following conditions are met:
 
@@ -236,7 +236,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 &emsp;(A) the number of inspections conducted by accredited persons pursuant to this subsection and the number of inspections conducted by Federal employees pursuant to section 360(h) of this title and of device establishments required to register under section 360(i) of this title;
 
-&emsp;(B) the number of persons who sought accreditation under this subsection, as well as the number of persons who were accredited under this subsection;
+&emsp;(B) the number of persons who sought accreditation under this subsection, as well asthe number of persons who were accredited under this subsection;
 
 &emsp;(C) the reasons why persons who sought accreditation, but were denied accreditation, were denied;
 
@@ -286,7 +286,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 (3) Nothing in this subsection affects the authority of the Secretary to conduct inspections otherwise permitted under this chapter in order to ensure compliance with this chapter.
 
-(June 25, 1938, ch. 675, §704, 52 Stat. 1057; Aug. 7, 1953, ch. 350, §1, 67 Stat. 476; Pub. L. 87–781, title II, §201(a), (b), Oct. 10, 1962, 76 Stat. 792, 793; Pub.L. 94–295, §6, May 28, 1976, 90 Stat. 581; Pub. L. 96–359, §4, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 103–80, §3(aa), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(L), title II, §210(b), title IV, §412(b), Nov. 21, 1997, 111 Stat. 2326, 2344, 2375; Pub. L. 107–188, title III, §306(b), June 12, 2002, 116 Stat. 670; Pub. L. 107–250, title II, §201(a), (b), Oct. 26, 2002, 116 Stat. 1602, 1609; Pub. L. 108–214, §2(b)(1), Apr. 1, 2004, 118 Stat. 573; Pub. L. 110–85, title II, §228, Sept. 27, 2007, 121 Stat. 855; Pub. L. 111–31, div. A, title I, §103(i), June 22, 2009, 123 Stat. 1837; Pub. L. 111–353, title I, §101(b), Jan. 4, 2011, 124 Stat. 3887; Pub. L. 112–144, title VI, §612, title VII, §706, July 9, 2012, 126 Stat. 1060, 1067; Pub. L. 115–52, title VII, §§702(a), 703, 705, Aug. 18, 2017, 131 Stat. 1055–1057; Pub. L. 116–136, div. A, title III, §3112(d), Mar. 27, 2020, 134 Stat. 362; Pub. L. 117–180, div. F, title V, §5007, Sept. 30, 2022, 136 Stat. 2168; Pub. L. 117–229, div. C, title III, §306, Dec. 16, 2022, 136 Stat. 2312; Pub. L. 117–328, div. FF, title II, §2515(a)(2), title III, §§3106, 3504, 3611(a), (b)(1), 3612(a), 3613(b), Dec. 29, 2022, 136 Stat. 5806, 5807, 5859, 5869, 5872.)
+(June 25, 1938, ch. 675, §704, 52 Stat. 1057; Aug. 7, 1953, ch. 350, §1, 67 Stat. 476; Pub. L. 87–781, title II, §201(a), (b), Oct. 10, 1962, 76 Stat. 792, 793; Pub. L. 94–295, §6, May 28, 1976, 90 Stat. 581; Pub. L. 96–359, §4, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 103–80, §3(aa), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(L), title II, §210(b), title IV, §412(b), Nov. 21, 1997, 111 Stat. 2326, 2344, 2375; Pub. L. 107–188, title III, §306(b), June 12, 2002, 116 Stat. 670; Pub. L. 107–250, title II, §201(a), (b), Oct. 26, 2002, 116 Stat. 1602, 1609; Pub. L. 108–214, §2(b)(1), Apr. 1, 2004, 118 Stat. 573; Pub. L. 110–85, title II, §228, Sept. 27, 2007, 121 Stat. 855; Pub. L. 111–31, div. A, title I, §103(i), June 22, 2009, 123 Stat. 1837; Pub. L. 111–353, title I, §101(b), Jan. 4, 2011, 124 Stat. 3887; Pub. L. 112–144, title VI, §612, title VII, §706, July 9, 2012, 126 Stat. 1060, 1067; Pub. L. 115–52, title VII, §§702(a), 703, 705, Aug. 18, 2017, 131 Stat. 1055–1057; Pub. L. 116–136, div. A, title III, §3112(d), Mar. 27, 2020, 134 Stat. 362; Pub. L. 117–180, div. F, title V, §5007, Sept. 30, 2022, 136 Stat. 2168; Pub. L. 117–229, div. C, title III, §306, Dec. 16, 2022, 136 Stat. 2312; Pub. L. 117–328, div. FF, title II, §2515(a)(2), title III, §§3106, 3504, 3611(a), (b)(1), 3612(a), 3613(b), Dec. 29, 2022, 136 Stat. 5806, 5807, 5859, 5869, 5872.)
 
 #### <b>Editorial Notes</b>
 
@@ -352,7 +352,7 @@ Subsec. (g)(7)(F). Pub. L. 110–85, §228(5)(B), added subpar. (F).
 
 Subsec. (g)(10)(C)(iii). Pub. L. 110–85, §228(6), substituted "base amount applicable" for "based amount applicable".
 
-<b>2004</b>—Subsec. (g)(1). Pub. L. 108–214, §2(b)(1)(A), in first sentence, substituted "conducting inspections of establishments that manufacture, prepare, propagate, compound, or process class II or class III devices, which inspections are required under section 360(h) of thistitle or are inspections of such establishments required to register under section 360(i) of this title." for "conducting inspections of establishments that manufacture, prepare, propagate, compound, or process class II or class III devices that are required in section 360(h) of this title, or inspections of such establishments required to register pursuant to section 360(i) of this title."
+<b>2004</b>—Subsec. (g)(1). Pub. L. 108–214, §2(b)(1)(A), in first sentence, substituted "conducting inspections of establishments that manufacture, prepare, propagate, compound, or process class II or class III devices, which inspections are required under section 360(h) of this title or are inspections of such establishments required to register under section 360(i) of this title." for "conducting inspections of establishments that manufacture, prepare, propagate, compound, or process class II or class III devices that are required in section 360(h) of this title, or inspections of such establishments required to register pursuant to section 360(i) of this title."
 
 Subsec. (g)(5)(B). Pub. L. 108–214, §2(b)(1)(B), in first sentence, substituted "poses a threat to public health, fails to act in a manner that is consistent with the purposes of this subsection, or where the Secretary determines that there is a financial conflict of interest in the relationship between the accredited person and the owner or operator of a device establishment that the accredited person has inspected under this subsection." for "or poses a threat to public health or fails to act in a manner that is consistent with the purposes of this subsection."
 
@@ -414,7 +414,7 @@ Subsec. (a)(3). Pub. L. 96–359, §4(4), added par. (3).
 
 Subsec. (e). Pub. L. 94–295, §6(d), added subsec. (e).
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–781, §201(a), extended the inspection, where prescription drugs are manufactured, processed, packed, or held, to all things bearing on whether adulterated or misbranded drugs, or any which may not be manufactured, introduced in interstate commerce, or sold or offered for sale under any provision of this chapter, have been or are being manufactured, processed, packed, transported or held in any such place, or otherwise bearing on violation of this chapter, but excluded from such inspection, data concerning finance, sales other than shipment, pricing, personnel other than qualifications of technical andprofessional personnel, research other than relating to new drugs subject to reporting, provided that provisions of second sentence of this subsection shall be inapplicable to pharmacies, practitioners and other persons enumerated in pars. (1) to (4), and struck out "are held" before "after such introduction".
+<b>1962</b>—Subsec. (a). Pub. L. 87–781, §201(a), extended the inspection, where prescription drugs are manufactured, processed, packed, or held, to all things bearing on whether adulterated or misbranded drugs, or any which may not be manufactured, introduced in interstate commerce, or sold or offered for sale under any provision of this chapter, have been or are being manufactured, processed, packed, transported or held in any such place, or otherwise bearing on violation of this chapter, but excluded from such inspection, data concerning finance, sales other than shipment, pricing, personnel other than qualifications of technical and professional personnel, research other than relating to new drugs subject to reporting, provided that provisions of second sentence of this subsection shall be inapplicable to pharmacies, practitioners and other persons enumerated in pars. (1) to (4), and struck out "are held" before "after such introduction".
 
 Subsec. (b). Pub. L. 87–781, §201(b), inserted "consulting laboratory" after "warehouse".
 
@@ -508,7 +508,7 @@ Pub. L. 117–328, div. FF, title III, §3611(b)(2), Dec. 29, 2022, 136 Stat. 58
 
 In general.—The Secretary \[of Health and Human Services\] shall issue or update guidance describing—
 
-&emsp;"(i) circumstances in which the Secretary intends to issue requests for records or other information in advance of, or in lieu of, an inspection under section704(a)(4) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 374(a)(4)\], as amended by paragraph (1);
+&emsp;"(i) circumstances in which the Secretary intends to issue requests for records or other information in advance of, or in lieu of, an inspection under section 704(a)(4) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 374(a)(4)\], as amended by paragraph (1);
 
 &emsp;"(ii) processes for responding to such requests electronically or in physical form; and
 

@@ -66,7 +66,7 @@ In subsection (b)(2), the words "amounts equal to amounts expended annually out 
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–254 amended subsec. (a) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated for the purposes of this chapter $57,000,000 for fiscal year 2000, $65,000,000 for fiscal year 2001, $72,000,000 for fiscal year 2002, $73,325,000 for fiscal year 2003, $78,757,000 for fiscalyear 2004, $83,011,000 for fiscal year 2005, $87,539,000 for fiscal year 2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008. Such sums shall remain available until expended."
+<b>2018</b>—Subsec. (a). Pub. L. 115–254 amended subsec. (a) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated for the purposes of this chapter $57,000,000 for fiscal year 2000, $65,000,000 for fiscal year 2001, $72,000,000 for fiscal year 2002, $73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, $87,539,000 for fiscal year 2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008. Such sums shall remain available until expended."
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–443, §8(a), struck out "and" after "2005," and substituted "2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008." for "2006."
 
@@ -84,7 +84,7 @@ Subsecs. (c), (d). Pub. L. 108–168, §2(c), added subsecs. (c) and (d).
 
 "(a)
 
-In General.—There is authorized to be appropriated for the purposes of this chapter $37,580,000 for fiscal year 1994, $44,000,000 for fiscal year 1995, $45,100,000 for fiscal year 1996, $42,400,00 for fiscal year 1997, $44,400,000 for fiscal year 1998, and $46,600,000 for fiscal year 1999. Such sums shall remain available until expended.
+In General.—There is authorized to be appropriated for the purposes of this chapter $37,580,000 forfiscal year 1994, $44,000,000 for fiscal year 1995, $45,100,000 for fiscal year 1996, $42,400,00 for fiscal year 1997, $44,400,000 for fiscal year 1998, and $46,600,000 for fiscal year 1999. Such sums shall remain available until expended.
 
 "(b)
 

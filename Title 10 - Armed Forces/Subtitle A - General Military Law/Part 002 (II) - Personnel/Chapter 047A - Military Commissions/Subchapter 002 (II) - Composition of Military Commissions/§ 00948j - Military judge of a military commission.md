@@ -14,11 +14,11 @@ Ineligibility of Certain Individuals.—No person is eligible to act as military
 
 (d)
 
-Consultation With Members; Ineligibility to Vote.—A military judge detailed to a military commission under this chapter may not consult with the members except in the presence of the accused (except as otherwise provided in section 949d of this title), trial counsel, and defense counsel, nor may such military judge vote with the members.
+Consultation With Members; Ineligibility to Vote.—A military judge detailed to a military commission under this chapter may not consult with the members except in thepresence of the accused (except as otherwise provided in section 949d of this title), trial counsel, and defense counsel, nor may such military judge vote with the members.
 
 (e)
 
-Other Duties.—A commissioned officer who is certified to be qualified for duty as amilitary judge of a military commission under this chapter may perform such other duties as are assigned to such officer by or with the approval of the Judge Advocate General of the armed force of which such officer is a member or the designee of such Judge Advocate General.
+Other Duties.—A commissioned officer who is certified to be qualified for duty as a military judge of a military commission under this chapter may perform such other duties as are assigned to such officer by or with the approval of the Judge Advocate General of the armed force of which such officer is a member or the designee of such Judge Advocate General.
 
 (f)
 

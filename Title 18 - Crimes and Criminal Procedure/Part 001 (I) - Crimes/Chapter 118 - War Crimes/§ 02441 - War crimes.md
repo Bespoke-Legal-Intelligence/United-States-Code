@@ -118,7 +118,7 @@ Inapplicability of taking hostages to prisoner exchange.—Paragraph (1)(I) does
 
 &emsp;(5)
 
-Definition of grave breaches.—The definitions in this subsection are intendedonly to define the grave breaches of common Article 3 and not the full scope of United States obligations under that Article.
+Definition of grave breaches.—The definitions in this subsection are intended only to define the grave breaches of common Article 3 and not the full scope of United States obligations under that Article.
 
 (e)
 
@@ -208,11 +208,11 @@ Pub. L. 109–366, §6(a), Oct. 17, 2006, 120 Stat. 2632, provided that:
 
 "(1)
 
-In general.—The acts enumerated in subsection (d) of section 2441 of title 18, United States Code, asadded by subsection (b) of this section, and in subsection (c) of this section \[enacting section 2000dd–0 of Title 42, The Public Health and Welfare\], constitute violations of common Article 3 of the Geneva Conventions prohibited by United States law.
+In general.—The acts enumerated in subsection (d) of section 2441 of title 18, United States Code, as added by subsection (b) of this section, and in subsection (c) of this section \[enacting section 2000dd–0 of Title 42, The Public Health and Welfare\], constitute violations of common Article 3 of the Geneva Conventions prohibited by United States law.
 
 "(2)
 
-Prohibition on grave breaches.—The provisions of section 2441 of title 18, United States Code, as amended by this section, fully satisfy the obligation under Article 129 of the Third Geneva Convention for the United States to provide effective penal sanctions for grave breaches which are encompassed in common Article 3 in the context of an armed conflict not of an international character. No foreign or international source of law shall supply a basis for a rule of decision in the courts of the United States in interpreting the prohibitions enumerated in subsection (d) of such section 2441.
+Prohibition on grave breaches.—The provisions of section 2441 of title 18, United States Code, as amended by this section, fully satisfy the obligation under Article 129 of the Third Geneva Convention for the United States to provide effective penal sanctions for grave breaches which are encompassed in common Article 3 in the context of an armed conflict not of an international character. No foreign or international source of law shall supply a basis for a rule of decisionin the courts of the United States in interpreting the prohibitions enumerated in subsection (d) of such section 2441.
 
 "(3)
 

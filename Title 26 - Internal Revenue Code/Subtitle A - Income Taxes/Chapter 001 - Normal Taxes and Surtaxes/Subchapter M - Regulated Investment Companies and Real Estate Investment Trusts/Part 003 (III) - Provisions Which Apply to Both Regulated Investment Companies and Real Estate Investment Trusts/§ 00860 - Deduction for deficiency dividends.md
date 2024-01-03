@@ -80,7 +80,7 @@ For purposes of this section, the term "determination" means—
 
 &emsp;&emsp;The amount of deficiency dividends (other than deficiency dividends qualifying as capital gain dividends) paid by a qualified investment entity for the taxable year with respect to which the liability for tax resulting from the determination exists shall not exceed the sum of—
 
-&emsp;&emsp;&emsp;(i) the excess of the amount of increase referred to in subparagraph (A) of paragraph (1) or (2) of subsection (d) (whichever applies) over the amount of any increase in the deduction for dividends paid (computed without regard to capital gain dividends) for such taxable year which results from such determination, and
+&emsp;&emsp;&emsp;(i) the excess of the amount of increase referred to in subparagraph (A) of paragraph (1) or (2) of subsection (d) (whichever applies) over the amount of any increasein the deduction for dividends paid (computed without regard to capital gain dividends) for such taxable year which results from such determination, and
 
 &emsp;&emsp;&emsp;(ii) the amount of decrease referred to in subparagraph (C) of paragraph (1) or (2) of subsection (d) (whichever applies).
 
@@ -154,7 +154,7 @@ Subsec. (j). Pub. L. 111–325, §501(b), struck out subsec. (j). Text read as f
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 301(a)(2) of Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010, see section 301(h) of Pub. L. 111–325, set out as a note under section 852 of this title.
+Amendment by section 301(a)(2) of Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010,see section 301(h) of Pub. L. 111–325, set out as a note under section 852 of this title.
 
 Pub. L. 111–325, title V, §501(c), Dec. 22, 2010, 124 Stat. 3554, provided that: "The amendments made by this section \[amending this section and repealing section 6697 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2010\]."
 

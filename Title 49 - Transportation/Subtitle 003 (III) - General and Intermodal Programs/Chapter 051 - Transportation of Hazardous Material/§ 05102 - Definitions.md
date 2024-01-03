@@ -52,7 +52,7 @@ In this chapter—
 
 &emsp;&emsp;&emsp;&emsp;(II) causes hazardous material to be transported in commerce; or
 
-&emsp;&emsp;&emsp;&emsp;(III) designs, manufactures, fabricates, inspects, marks, maintains, reconditions, repairs, or tests a package, container, or packaging component that is represented, marked, certified, or sold as qualified for use in transporting hazardous material in commerce; and
+&emsp;&emsp;&emsp;&emsp;(III) designs, manufactures, fabricates, inspects, marks, maintains, reconditions, repairs, or tests a package, container, or packaging component that isrepresented, marked, certified, or sold as qualified for use in transporting hazardous material in commerce; and
 
 &emsp;&emsp;(B) includes a department, agency, or instrumentality of the United States Government, or an authority of a State, political subdivision of a State, or Indian tribe, carrying out an activity described in clause (ii).
 
@@ -186,7 +186,7 @@ In clause (12), the words "by any mode" are omitted as surplus.
 
 #### References in Text
 
-Section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b), referred to in par. (6), is section 4 of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2204, which was classified to section 450b of Title 25, Indians, prior to editorial reclassification as section 5304 of Title 25.
+Section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b), referred to inpar. (6), is section 4 of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2204, which was classified to section 450b of Title 25, Indians, prior to editorial reclassification as section 5304 of Title 25.
 
 #### Amendments
 

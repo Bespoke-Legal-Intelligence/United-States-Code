@@ -30,7 +30,7 @@ Section 7438, added Pub. L. 102–40, title I, §102, May 7, 1991, 105 Stat. 196
 
 Section 7439, added Pub. L. 102–40, title I, §102, May 7, 1991, 105 Stat. 197, related to periodic review and quadrennial reports regarding pay of physicians and dentists.
 
-Section 7440, added Pub. L. 102–40, title I, §102, May 7, 1991, 105 Stat. 198; amended Pub. L. 103–446, title XII, §1201(c)(6), Nov. 2, 1994, 108 Stat. 4684, related to annual reports of the use of authorities provided in this subchapter.
+Section 7440, added Pub. L. 102–40, title I, §102, May 7, 1991, 105 Stat. 198; amended Pub. L. 103–446, title XII,§1201(c)(6), Nov. 2, 1994, 108 Stat. 4684, related to annual reports of the use of authorities provided in this subchapter.
 
 #### Amendments
 

@@ -24,7 +24,7 @@ Baseline.—(1) The Secretary shall use the information on the cost, schedule, a
 
 (c)
 
-Changes and Variances.—(1) Not later than 60 days after the date on which the Secretary identifies a change or variance described in paragraph (2) in the cost, schedule, or performance of a major information technology project, the Secretary, acting through the ChiefInformation Officer, shall submit to the appropriate congressional committees a notification of such change or variance, including a description and explanation for such change or variance.
+Changes and Variances.—(1) Not later than 60 days after the date on which the Secretary identifies a change or variance described in paragraph (2) in the cost, schedule, or performance of a major information technology project, the Secretary, acting through the Chief Information Officer, shall submit to the appropriate congressional committees a notification of such change or variance, including a description and explanation for such change or variance.
 
 (2) A change or variance in the cost, schedule, or performance of a major information technology project described in this paragraph is—
 

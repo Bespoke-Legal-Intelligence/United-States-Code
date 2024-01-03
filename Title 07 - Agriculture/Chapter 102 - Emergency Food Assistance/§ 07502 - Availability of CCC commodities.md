@@ -18,7 +18,7 @@ Notwithstanding any other provision of law, in order to complement the domestic 
 
 #### (c) Additional commodities
 
-In addition to any commodities described in subsection (a), in carrying out this chapter, theSecretary may use agricultural commodities and the products thereof made available under clause (2) of the second sentence of section 612c of this title.
+In addition to any commodities described in subsection (a), in carrying out this chapter, the Secretary may use agricultural commodities and the products thereof made available under clause (2) of the second sentence of section 612c of this title.
 
 #### (d) Varieties of commodities
 
@@ -80,7 +80,7 @@ Subsecs. (c) to (e). Pub. L. 99–198, §1564(a), added subsecs. (c) to (e).
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–92, §2(3), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Notwithstanding any other provision of law, commodities acquired by the Commodity Credit Corporation that are in excess of quantities needed for the fiscal year to carry out a payment-in-kind acreage diversion program, maintain U.S. share of world markets, and meet international market development and food aid commitments, shall be made available by the Secretary of Agriculture (hereinafter in this chapter referred to as the 'Secretary') without charge or credit in such fiscal year for use by eligible recipient agencies. Upon request, commodities provided by the CCC shall be provided in a form suitable for individual household or institutional use."
 
-Subsec. (b). Pub. L. 98–92, §2(4), substituted "may be used" for "shall be used" and directed the substitutionof "October 1, 1985" for "December 1, 1983", which was executed by making the substitution for "December 31, 1983" to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 98–92, §2(4), substituted "may be used" for "shall be used" and directed the substitution of "October 1, 1985" for "December 1, 1983", which was executed by making the substitution for "December 31, 1983" to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -78,11 +78,11 @@
 
 #### (vii) Beneficiaries qualifying for long-term care services
 
-&emsp;&emsp;&emsp;The individual qualifies based on medical condition for medical assistance forlong-term care services described in section 1396p(c)(1)(C) of this title.
+&emsp;&emsp;&emsp;The individual qualifies based on medical condition for medical assistance for long-term care services described in section 1396p(c)(1)(C) of this title.
 
 #### (viii) Children in foster care receiving child welfare services and children receiving foster care or adoption assistance
 
-&emsp;&emsp;&emsp;The individual is an individual with respect to whom child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age, or the individual qualifies for medical assistance on the basis of section 1396a(a)(10)(A)(i)(IX) of this title.
+&emsp;&emsp;&emsp;The individual is an individual with respect to whom child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or with respect to whom adoption or foster care assistance is made availableunder part E of such subchapter, without regard to age, or the individual qualifies for medical assistance on the basis of section 1396a(a)(10)(A)(i)(IX) of this title.
 
 #### (ix) TANF and section 1396u–1 parents
 
@@ -222,11 +222,11 @@
 
 &emsp;&emsp;(A) COVID–19 vaccines and administration of the vaccines; and
 
-&emsp;&emsp;(B) testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of such an individual who is diagnosed with or presumed to have COVID–19,during the period such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan).
+&emsp;&emsp;(B) testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of such an individual who is diagnosed with or presumed to have COVID–19, during the period such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan).
 
 #### (c) Publication of provisions affected
 
-With respect to a State plan amendment to provide benchmark benefits in accordance with subsections (a) and (b) that is approved by the Secretary, the Secretary shall publish on the Internet website of the Centers for Medicare \& Medicaid Services, a list of the provisions of this subchapter that the Secretary has determined do not apply in order to enable the State to carry out the plan amendment and the reason for each such determination on the date such approval is made, and shall publish such list in the Federal Register and <sup>2</sup> not later than 30 days after such date of approval.
+With respect to a State plan amendment to provide benchmark benefits in accordance with subsections (a) and (b) that is approved by the Secretary, the Secretary shall publish on the Internet website of the Centers for Medicare \& Medicaid Services, a list of the provisions of thissubchapter that the Secretary has determined do not apply in order to enable the State to carry out the plan amendment and the reason for each such determination on the date such approval is made, and shall publish such list in the Federal Register and <sup>2</sup> not later than 30 days after such date of approval.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1937, as added Pub. L. 109–171, title VI, §6044(a), Feb. 8, 2006, 120 Stat. 88; amended Pub. L. 111–3, title VI, §611(a)–(c), Feb. 4, 2009, 123 Stat. 100, 101; Pub. L. 111–148, title II, §§2001(a)(5)(E), (c), 2004(c)(2), 2303(c), Mar. 23, 2010, 124 Stat. 275, 276, 283, 296; Pub. L. 116–260, div. BB, title II, §203(a)(4)(B), div. CC, title II, §§209(a)(2), 210(c), Dec. 27, 2020, 134 Stat. 2917, 2986, 2991; Pub. L. 117–2, title IX, §9811(a)(5), Mar. 11, 2021, 135 Stat. 211.)
 

@@ -74,7 +74,7 @@ Pub. L. 115–428, §2, Jan. 9, 2019, 132 Stat. 5509, provided that:
 
 &emsp;"(4) Lack of access to financial services that address gender-specific constraints impedes women's economic inclusion. Roughly 1,000,000,000 women around the world are currently left out of the formal financial system, which causes many women to rely on informal means of saving and borrowing that are riskier and less reliable.
 
-&emsp;"(5) Among other consequences, this lack of access hampers the success of women entrepreneurs, including women who are seeking to run or grow small and medium-sized enterprises. The International Finance Corporation has estimated that 70 percent of women-owned small and medium-sized enterprises in the formal sector are unserved or underserved in terms of access to financial services, resulting in a financing gap of $300,000,000,000 for women-owned small businesses.
+&emsp;"(5) Among other consequences, this lack of access hampers the success of women entrepreneurs, including women who are seeking to run or grow small and medium-sized enterprises. The International Finance Corporation has estimated that 70 percent of women-owned small and medium-sized enterprises in the formal sector are unserved or underserved in terms ofaccess to financial services, resulting in a financing gap of $300,000,000,000 for women-owned small businesses.
 
 &emsp;"(6) Women's economic empowerment is inextricably linked to a myriad of other women's human rights that are essential to their ability to thrive as economic actors across the lifecycle, including—
 

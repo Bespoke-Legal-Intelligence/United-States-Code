@@ -46,7 +46,7 @@ For the purposes of this Act, the term—
 
 &emsp;(22) "offshore facility" means any facility of any kind located in, on, or under any of the navigable waters of the United States, and any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters, other than a vessel or a public vessel;
 
-&emsp;(23) "oil" means oil of any kind or in any form, including petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil, but does not include any substance which is specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of section 101(14) of the Comprehensive Environmental Response,Compensation, and Liability Act (42 U.S.C. 9601) and which is subject to the provisions of that Act \[42 U.S.C. 9601 et seq.\];
+&emsp;(23) "oil" means oil of any kind or in any form, including petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil, but does not include any substance which is specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act (42 U.S.C. 9601) and which is subject to the provisions of that Act \[42 U.S.C. 9601 et seq.\];
 
 &emsp;(24) "onshore facility" means any facility (including, but not limited to, motor vehicles and rolling stock) of any kind located in, on, or under, any land within the United States other than submerged land;
 
@@ -78,7 +78,7 @@ For the purposes of this Act, the term—
 
 &emsp;&emsp;&emsp;(vi) notwithstanding subparagraph (B)(ii), a person that is a lender and that holds indicia of ownership primarily to protect a security interest in a vessel or facility if, while the borrower is still in possession of the vessel or facility encumbered by the security interest, the person—
 
-&emsp;&emsp;&emsp;&emsp;(I) exercises decision making control over the environmental compliance related to the vessel or facility, such that the person has undertaken responsibility for oil handling or disposal practices related to the vessel or facility; or
+&emsp;&emsp;&emsp;&emsp;(I) exercises decision making control over the environmental compliance related to the vessel or facility, such that the person has undertaken responsibilityfor oil handling or disposal practices related to the vessel or facility; or
 
 &emsp;&emsp;&emsp;&emsp;(II) exercises control at a level comparable to that of a manager of the vessel or facility, such that the person has assumed or manifested responsibility—
 
@@ -114,7 +114,7 @@ For the purposes of this Act, the term—
 
 &emsp;(28) "permittee" means a person holding an authorization, license, or permit for geological exploration issued under section 11 of the Outer Continental Shelf Lands Act (43 U.S.C. 1340) or applicable State law;
 
-&emsp;(29) "public vessel" means a vessel owned or bareboat chartered and operated by the UnitedStates, or by a State or political subdivision thereof, or by a foreign nation, except when the vessel is engaged in commerce;
+&emsp;(29) "public vessel" means a vessel owned or bareboat chartered and operated by the United States, or by a State or political subdivision thereof, or by a foreign nation, except when the vessel is engaged in commerce;
 
 &emsp;(30) "remove" or "removal" means containment and removal of oil or a hazardous substance from water and shorelines or the taking of other actions as may be necessary to minimize or mitigate damage to the public health or welfare, including, but not limited to, fish, shellfish, wildlife, and public and private property, shorelines, and beaches;
 
@@ -148,7 +148,7 @@ Pipelines.—In the case of a pipeline, any person owning or operating the pipel
 
 &emsp;&emsp;(G)
 
-Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater port, pipeline,,<sup>1</sup> offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that would have been responsible parties immediately prior to the abandonment of the vessel or facility.
+Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater port, pipeline,,<sup>1</sup> offshore facility, or foreignoffshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that would have been responsible parties immediately prior to the abandonment of the vessel or facility.
 
 &emsp;(33) "Secretary" means the Secretary of the department in which the Coast Guard is operating;
 
@@ -218,7 +218,7 @@ This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 48
 
 The Deepwater Port Act of 1974, referred to in pars. (6) and (32)(C), (D), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, which is classified generally to chapter 29 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
-Presidential Proclamation Numbered 5030, referred to in par. (8), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under section 1453 of Title 16, Conservation.
+Presidential Proclamation Numbered 5030, referred to in par. (8), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605,which is set out as a note under section 1453 of Title 16, Conservation.
 
 The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 

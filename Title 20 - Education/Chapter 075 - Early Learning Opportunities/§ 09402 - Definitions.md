@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Caregiver
 
-&emsp;The term "caregiver" means an individual, including a relative, neighbor, or family friend, who regularly or frequently providescare, with or without compensation, for a child for whom the individual is not the parent.
+&emsp;The term "caregiver" means an individual, including a relative, neighbor, or family friend, who regularly or frequently provides care, with or without compensation, for a child for whom the individual is not the parent.
 
 #### (2) Child care provider
 

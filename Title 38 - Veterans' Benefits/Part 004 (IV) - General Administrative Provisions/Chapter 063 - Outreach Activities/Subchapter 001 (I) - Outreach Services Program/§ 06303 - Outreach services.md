@@ -16,7 +16,7 @@ Distribution of Information.—(1) The Secretary—
 
 &emsp;(B) may, to the extent feasible, distribute information on other governmental programs (including manpower and training programs) which the Secretary determines would be beneficial to veterans.
 
-(2) Whenever a veteran or dependent first applies for any benefit under laws administered bythe Secretary (including a request for burial or related benefits or an application for life insurance proceeds), the Secretary shall provide to the veteran or dependent information concerning benefits and health care services under programs administered by the Secretary. Such information shall be provided not later than three months after the date of such application.
+(2) Whenever a veteran or dependent first applies for any benefit under laws administered by the Secretary (including a request for burial or related benefits or an application for life insurance proceeds), the Secretary shall provide to the veteran or dependent information concerning benefits and health care services under programs administered by the Secretary. Such information shall be provided not later than three months after the date of such application.
 
 (d)
 
@@ -144,7 +144,7 @@ First report.—Not later than one year after the date of the enactment of this 
 
 &emsp;&emsp;&emsp;"(i) strategies to increase Veterans Justice Outreach specialists responsible for supporting justice-involved veterans in rural, remote, or underserved areas; and
 
-&emsp;&emsp;&emsp;"(ii) the progress of the Secretary in addressing gaps in the workforce of the Veterans JusticeOutreach Program identified pursuant to paragraph (2) of such subsection.
+&emsp;&emsp;&emsp;"(ii) the progress of the Secretary in addressing gaps in the workforce of the Veterans Justice Outreach Program identified pursuant to paragraph (2) of such subsection.
 
 &emsp;&emsp;"(B) The performance goals and implementation plans established under subsection (d)(1).
 
@@ -570,7 +570,7 @@ Contents.—The report submitted under paragraph (1) shall include the following
 
 &emsp;&emsp;&emsp;"(i) The status of the efforts of the Secretary to hire Veterans Justice Outreach Specialists pursuant to subsection (a)(1), including the total number of Veterans Justice Outreach Specialists hired by the Secretary pursuant to such subsection and the number that the Secretary expects to hire pursuant to such subsection.
 
-&emsp;&emsp;&emsp;"(ii) The total number of Veterans Justice Outreach Specialists assigned to each Department of Veterans Affairs medical center that participates in the Veterans Justice Outreach Program, including the number of Veterans Justice Outreach Specialists hired under subsection (a)(1) disaggregated by Department of Veterans Affairs medical center.
+&emsp;&emsp;&emsp;"(ii) The total number of Veterans Justice Outreach Specialists assigned to each Department of Veterans Affairs medical center that participates in the Veterans Justice Outreach Program, including the number of Veterans Justice OutreachSpecialists hired under subsection (a)(1) disaggregated by Department of Veterans Affairs medical center.
 
 &emsp;&emsp;&emsp;"(iii) The total number of eligible Department of Veterans Affairs medical centers that sought placement of a Veterans Justice Outreach Specialist under subsection (a)(1), how many Veterans Justice Outreach Specialists each such center sought, and how many of such medical centers received no placement of a Veterans Justice Outreach Specialist under subsection (a)(1).
 

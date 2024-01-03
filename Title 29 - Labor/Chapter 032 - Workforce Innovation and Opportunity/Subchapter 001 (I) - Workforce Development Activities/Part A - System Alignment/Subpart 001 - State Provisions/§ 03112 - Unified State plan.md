@@ -2,7 +2,7 @@
 
 #### (a) Plan
 
-For a State to be eligible to receive allotments for the core programs, the Governor shall submit to the Secretary of Labor for the approval process described under subsection (c)(2),a unified State plan. The unified State plan shall outline a 4-year strategy for the core programs of the State and meet the requirements of this section.
+For a State to be eligible to receive allotments for the core programs, the Governor shall submit to the Secretary of Labor for the approval process described under subsection (c)(2), a unified State plan. The unified State plan shall outline a 4-year strategy for the core programs of the State and meet the requirements of this section.
 
 #### (b) Contents
 
@@ -16,7 +16,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;&emsp;&emsp;(ii) the employment needs of employers, including a description of the knowledge, skills, and abilities, needed in those industries and occupations;
 
-&emsp;&emsp;(B) an analysis of the current workforce, employment and unemployment data, labor market trends, and the educational and skill levels of the workforce, including individuals with barriers to employment (including individuals with disabilities), in the State;
+&emsp;&emsp;(B) an analysis of the current workforce, employment and unemployment data, labormarket trends, and the educational and skill levels of the workforce, including individuals with barriers to employment (including individuals with disabilities), in the State;
 
 &emsp;&emsp;(C) an analysis of the workforce development activities (including education and training) in the State, including an analysis of the strengths and weaknesses of such activities, and the capacity of State entities to provide such activities, in order to address the identified education and skill needs of the workforce and the employment needs of employers in the State;
 
@@ -66,7 +66,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;&emsp;&emsp;(III) the privacy safeguards incorporated in such system, including safeguards required by section 1232g of title 20 and other applicable Federal laws;
 
-&emsp;&emsp;&emsp;(vi) how the State will implement the priority of service provisions for veterans in accordance with the requirements of section 4215 of title 38;
+&emsp;&emsp;&emsp;(vi) how the State will implement the priority of service provisions for veteransin accordance with the requirements of section 4215 of title 38;
 
 &emsp;&emsp;&emsp;(vii) how the one-stop delivery system, including one-stop operators and the one-stop partners, will comply with section 3248 of this title, if applicable, and applicable provisions of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), regarding the physical and programmatic accessibility of facilities, programs, services, technology, and materials, for individuals with disabilities, including complying through providing staff training and support for addressing the needs of individuals with disabilities; and
 
@@ -118,13 +118,13 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;&emsp;&emsp;(i) that the State has established a policy identifying circumstances that may present a conflict of interest for a State board or local board member, or the entity or class of officials that the member represents, and procedures to resolve such conflicts;
 
-&emsp;&emsp;&emsp;(ii) that the State has established a policy to provide to the public (including individuals with disabilities) access to meetings of State boards and local boards, and information regarding activities of Stateboards and local boards, such as data on board membership and minutes;
+&emsp;&emsp;&emsp;(ii) that the State has established a policy to provide to the public (including individuals with disabilities) access to meetings of State boards and local boards, and information regarding activities of State boards and local boards, such as data on board membership and minutes;
 
 &emsp;&emsp;&emsp;(iii)(I) that the lead State agencies with responsibility for the administration of core programs reviewed and commented on the appropriate operational planning elements of the unified State plan, and approved the elements as serving the needs of the populations served by such programs; and
 
 &emsp;&emsp;&emsp;(II) that the State obtained input into the development of the unified State plan and provided an opportunity for comment on the plan by representatives of local boards and chief elected officials, businesses, labor organizations, institutions of higher education, other primary stakeholders, and the general public and that the unified State plan is available and accessible to the general public;
 
-&emsp;&emsp;&emsp;(iv) that the State has established, in accordance with section 3141(i) of this title, fiscal control and fund accounting procedures that may be necessary to ensure the proper disbursement of, and accounting for, funds paid to the State through allotments made for adult, dislocated worker, and youth programs to carry out workforce investment activities under subparts 2 and 3 of part B;
+&emsp;&emsp;&emsp;(iv) that the State has established, in accordance with section 3141(i) of this title,fiscal control and fund accounting procedures that may be necessary to ensure the proper disbursement of, and accounting for, funds paid to the State through allotments made for adult, dislocated worker, and youth programs to carry out workforce investment activities under subparts 2 and 3 of part B;
 
 &emsp;&emsp;&emsp;(v) that the State has taken appropriate action to secure compliance with uniform administrative requirements in this Act, including that the State will annually monitor local areas to ensure compliance and otherwise take appropriate action to secure compliance with the uniform administrative requirements under section 3244(a)(3) of this title;
 
@@ -190,7 +190,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2)(C)(vii), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (b)(2)(D)(iii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(2)(D)(iii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of titleI of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 The Wagner-Peyser Act, referred to in subsec. (b)(2)(D)(iv), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 

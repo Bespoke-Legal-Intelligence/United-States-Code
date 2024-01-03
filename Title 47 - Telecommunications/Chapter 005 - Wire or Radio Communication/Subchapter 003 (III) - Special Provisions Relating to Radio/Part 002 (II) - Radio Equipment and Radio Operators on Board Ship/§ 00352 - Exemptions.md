@@ -18,7 +18,7 @@ The provisions of this part shall not apply to—
 
 &emsp;(7) A ship navigating solely on the Great Lakes of North America and the River Saint Lawrence as far east as a straight line drawn from Cap des Rosiers to West Point, Anticosti Island, and, on the north side of Anticosti Island, the sixty-third meridian, or to a ship leaving or attempting to leave any harbor or port of the United States for a voyage solely on such waters and within such area;
 
-&emsp;(8) A ship which is navigated during the course of a voyage both on the Great Lakes of North America and in the open sea, during the period while such ship is being navigated within the Great Lakes of North America and their connecting and tributary waters as far east as the lower exit of the Saint Lambert lock at Montreal in the Province of Quebec, Canada.
+&emsp;(8) A ship which is navigated during the course of a voyage both on the Great Lakes of North America and in the open sea, during the period while such ship is being navigated within the Great Lakes of North America and their connecting and tributary waters as far east asthe lower exit of the Saint Lambert lock at Montreal in the Province of Quebec, Canada.
 
 #### (b) Radio station unreasonable or unnecessary
 
@@ -38,7 +38,7 @@ If, because of unforeseeable failure of equipment, a ship is unable to comply wi
 
 #### (d) Radio direction finding apparatus unreasonable or unnecessary
 
-Except for nuclear ships, and except for ships of five thousand gross tons and upward which are subject to the Safety Convention, the Commission may exempt from the requirements, for radio direction finding apparatus, of this part and of the Safety Convention, any ship whichfalls within the descriptions set forth in paragraphs (1), (2), (3), and (4) of subsection (b) of this section, if it considers that the route or conditions of the voyage or other circumstances are such as to render such apparatus unreasonable or unnecessary.
+Except for nuclear ships, and except for ships of five thousand gross tons and upward which are subject to the Safety Convention, the Commission may exempt from the requirements, for radio direction finding apparatus, of this part and of the Safety Convention, any ship which falls within the descriptions set forth in paragraphs (1), (2), (3), and (4) of subsection (b) of this section, if it considers that the route or conditions of the voyage or other circumstances are such as to render such apparatus unreasonable or unnecessary.
 
 (June 19, 1934, ch. 652, title III, §352, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 192; amended Sept. 26, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038; Aug. 13, 1954, ch. 729, §1(b), (c), 68 Stat. 705; Pub. L. 89–121, §3, Aug. 13, 1965, 79 Stat. 512; Pub. L. 97–31, §12(151), Aug. 6, 1981, 95 Stat. 167.)
 
@@ -104,7 +104,7 @@ Functional Requirements.—A fishing vessel exempted under subsection (b) shall�
 
 &emsp;"(3) maintain a continuous watch on VHF Channel 16; and
 
-&emsp;"(4) as an alternative to the equipment listed in subparagraphs (A) through (F) of paragraph (2), carry equipment found by the Federal Communications Commission, in consultation with the Secretary, to be equivalent or superior with respect to ensuring the safety of the vessel.
+&emsp;"(4) as an alternative to the equipment listed in subparagraphs (A) through (F) of paragraph (2), carry equipment found by the Federal Communications Commission, in consultation with the Secretary, tobe equivalent or superior with respect to ensuring the safety of the vessel.
 
 "(d)
 

@@ -58,7 +58,7 @@ A member of the Board appointed under subsection (b)(4) may be removed by the Pr
 
 #### (g) Conflict of interests
 
-No member of the Board may participate in any decision, action, or recommendation with respect to any matter which directly and financially benefits the member or pertains specifically to any public body or any private or nonprofit firm or organization with which the member is then formally associated or has been formally associated within a period of two years, except that this subsection shall not be construed to prohibit an ex officio member of the Board from participation in actions of the Board which pertain specifically to the public body of which that member is an officer.
+No member of the Board may participate in any decision, action, or recommendation withrespect to any matter which directly and financially benefits the member or pertains specifically to any public body or any private or nonprofit firm or organization with which the member is then formally associated or has been formally associated within a period of two years, except that this subsection shall not be construed to prohibit an ex officio member of the Board from participation in actions of the Board which pertain specifically to the public body of which that member is an officer.
 
 #### (h) Meetings; Chairman; Vice Chairman; quorum; notice in Federal Register; closure
 
@@ -99,6 +99,8 @@ Subsec. (b)(4), (5). Pub. L. 105–277, §1225(c)(1)(B), (C), redesignated par. 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

@@ -24,7 +24,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 &emsp;&emsp;&emsp;(v) the identification of prisoners, to the extent possible, in that country pursuant to section 6417(d) of this title;
 
-&emsp;&emsp;&emsp;(vi) any action taken by the government of that country to censor religious content, communications, or worship activities online, including descriptions of the targeted religious group, the content, communication, or activities censored, and the means used; and
+&emsp;&emsp;&emsp;(vi) any action taken by the government of that country to censor religious content, communications, or worship activities online, including descriptions of thetargeted religious group, the content, communication, or activities censored, and the means used; and
 
 &emsp;&emsp;&emsp;(vii) wherever applicable, an assessment and description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement that occur in that country during the preceding year, including—
 
@@ -76,7 +76,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 &emsp;&emsp;&emsp;(ii) to the extent practicable, the efforts of the United States Government over the reporting period to partner with European law enforcement agencies and civil society groups regarding the sharing of information and best practices to combat anti-Semitic incidents in Europe;
 
-&emsp;&emsp;&emsp;(iii) European educational programming and public awareness initiatives that aim to collaborate on educational curricula and campaigns that impart shared values of pluralism and tolerance, and showcase the positive contributions of Jews in culture, scholarship, science, and art, with special attention to those segments of thepopulation that exhibit a high degree of anti-Semitic animus; and
+&emsp;&emsp;&emsp;(iii) European educational programming and public awareness initiatives that aim to collaborate on educational curricula and campaigns that impart shared values of pluralism and tolerance, and showcase the positive contributions of Jews in culture, scholarship, science, and art, with special attention to those segments of the population that exhibit a high degree of anti-Semitic animus; and
 
 &emsp;&emsp;&emsp;(iv) efforts by European governments to adopt and apply a working definition of anti-Semitism.
 

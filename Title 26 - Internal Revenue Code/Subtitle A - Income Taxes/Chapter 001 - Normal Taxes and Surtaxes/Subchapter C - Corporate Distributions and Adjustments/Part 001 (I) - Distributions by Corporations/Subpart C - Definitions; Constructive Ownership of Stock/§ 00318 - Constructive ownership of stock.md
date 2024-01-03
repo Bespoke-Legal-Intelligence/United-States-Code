@@ -48,7 +48,7 @@ For purposes of those provisions of this subchapter to which the rules contained
 
 #### (C) To corporations
 
-&emsp;&emsp;If 50 percent or more in value of the stock in a corporation is owned, directly or indirectly, by or for any person, such corporation shall be considered as owning the stock owned, directly or indirectly, by or for such person.
+&emsp;&emsp;If 50 percent or more in value of the stock in a corporation is owned, directly or indirectly, by or for any person, such corporation shall be considered as owning the stockowned, directly or indirectly, by or for such person.
 
 #### (4) Options
 
@@ -148,7 +148,7 @@ Amendment by section 721(j) of Pub. L. 98–369 effective as if included in the 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to any target corporation with respect to which the acquisition date occurs after Aug. 31, 1982, with special rules for certain acquisitions before Sept. 1, 1982, and certain acquisitions of financial institutions in which there was a binding contract on July 22, 1982, to acquire control, see section 224(d) of Pub. L. 97–248, set out as an Effective Date note under section 338 of this title.
+Amendment by Pub. L. 97–248 applicable to any target corporation with respect to which the acquisitiondate occurs after Aug. 31, 1982, with special rules for certain acquisitions before Sept. 1, 1982, and certain acquisitions of financial institutions in which there was a binding contract on July 22, 1982, to acquire control, see section 224(d) of Pub. L. 97–248, set out as an Effective Date note under section 338 of this title.
 
 #### Effective Date of 1964 Amendment
 

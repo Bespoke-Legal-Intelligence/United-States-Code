@@ -72,7 +72,7 @@ Pub. L. 110–181, div. C, title XXXI, subtitle D, Jan. 28, 2008, 122 Stat. 586,
 
 "(a)
 
-Policy.—It is the policy of the United States to work with the international community to take all possible steps to ensure that all nuclear weapons around the world are secure and accounted for and that all formula quantities of strategic special nuclear material are eliminated, removed, or secure and accounted for to a level sufficient to defeat the threats posed by terrorists and criminals.
+Policy.—It is the policy of the United States to work with the international community to take all possible steps to ensure that all nuclear weaponsaround the world are secure and accounted for and that all formula quantities of strategic special nuclear material are eliminated, removed, or secure and accounted for to a level sufficient to defeat the threats posed by terrorists and criminals.
 
 "(b)
 
@@ -112,7 +112,7 @@ Elements.—The report required under subsection (a) shall include the following
 
 &emsp;&emsp;"(A) A survey of the facilities and sites worldwide that contain nuclear weapons or related equipment, or formula quantities of strategic special nuclear material.
 
-&emsp;&emsp;"(B) A list of such facilities and sites determined to be of the highest priority for security and accounting of nuclear weapons and related equipment, or the elimination, removal, or security andaccounting of formula quantities of strategic special nuclear material, taking into account risk of theft from such facilities and sites, and organized by level of priority.
+&emsp;&emsp;"(B) A list of such facilities and sites determined to be of the highest priority for security and accounting of nuclear weapons and related equipment, or the elimination, removal, or security and accounting of formula quantities of strategic special nuclear material, taking into account risk of theft from such facilities and sites, and organized by level of priority.
 
 &emsp;&emsp;"(C) A prioritized plan, including measurable milestones, metrics, estimated timetables, and estimated costs of implementation, on the following:
 

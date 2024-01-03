@@ -20,7 +20,7 @@
 
 (4) A transfer may not be made for an employee, Member, former employee, or former Member under paragraph (2) until the Executive Director receives from that individual the information required by the Executive Director specifically to identify the eligible retirement plan or plans to which the transfer is to be made.
 
-(5) Withdrawals under this subsection shall be subject to such other limitations or conditions as the Executive Director may prescribe by regulation.
+(5) Withdrawals under this subsection shall be subject to such other limitations or conditionsas the Executive Director may prescribe by regulation.
 
 (d)(1) Subject to paragraph (2) and subsections (a) and (c) of section 8435 of this title, an employee or Member may change an election previously made under this subchapter, except that in the case of an election to receive an annuity, a former employee or Member may not change an election under this section on or after the date on which an annuity contract is purchased to provide for the annuity elected by the former employee or Member.
 
@@ -42,7 +42,7 @@
 
 (f) Notwithstanding subsection (b), if an employee or Member separates from Government employment, and such employee's or Member's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment, unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred.
 
-(g)(1) At any time before separation, an employee or Member may apply to the Board for permission to borrow from the employee's or Member's account an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member. Before a loan is issued, the Executive Director shall provide in writing theemployee or Member with appropriate information concerning the cost of the loan relative to other sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee's or Member's final account balance.
+(g)(1) At any time before separation, an employee or Member may apply to the Board for permission to borrow from the employee's or Member's account an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member. Before a loan is issued, the Executive Director shall provide in writing the employee or Member with appropriate information concerning the cost of the loan relative to other sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee's or Member's final account balance.
 
 (2) Loans under this subsection shall be available to all employees and Members on a reasonably equivalent basis, and shall be subject to such other conditions as the Board may by regulation prescribe. The restrictions of section 8477(c)(1) of this title shall not apply to loans made under this subsection.
 
@@ -72,7 +72,7 @@ Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to i
 
 #### Amendments
 
-<b>2017</b>—Subsec. (c)(1). Pub. L. 115–84, §2(a)(1), substituted "may make one or more withdrawals" for "and who has not made a withdrawal under subsection (h)(1)(A) may make one withdrawal" and "in the same manner as a single payment is made" for "as a single payment".
+<b>2017</b>—Subsec. (c)(1). Pub. L. 115–84, §2(a)(1), substituted "may make one or more withdrawals" for "and who has not made a withdrawal under subsection (h)(1)(A) may make one withdrawal" and "in the samemanner as a single payment is made" for "as a single payment".
 
 Subsec. (c)(5). Pub. L. 115–84, §2(a)(2), added par. (5).
 
@@ -110,7 +110,7 @@ Subsec. (h)(4), (5). Pub. L. 115–84, §2(d)(2), redesignated pars. (4) and (5)
 
 Subsec. (c). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(1)\]\], added subsec. (c) and struck out former subsec. (c) which read as follows:
 
-"(1) The Executive Director shall make each transfer elected under subsection (b)(4) directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Code of 1986) identified by theemployee, Member, former employee, or former Member for whom the transfer is made.
+"(1) The Executive Director shall make each transfer elected under subsection (b)(4) directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Code of 1986) identified by the employee, Member, former employee, or former Member for whom the transfer is made.
 
 "(2) A transfer may not be made for an employee, Member, former employee, or former Member under paragraph (1) until the Executive Director receives from that individual the information required by the Executive Director specifically to identify the eligible retirement plan or plans to which the transfer is to be made."
 

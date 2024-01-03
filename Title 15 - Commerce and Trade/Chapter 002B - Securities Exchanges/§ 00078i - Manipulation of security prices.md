@@ -66,7 +66,7 @@ The provisions of subsection (a) shall not apply to an exempted security.
 
 #### (h) Foreign currencies and security futures products
 
-(1) Notwithstanding any other provision of law, the Commission shall have the authority toregulate the trading of any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency (but not, with respect to any of the foregoing, an option on a contract for future delivery other than a security futures product).
+(1) Notwithstanding any other provision of law, the Commission shall have the authority to regulate the trading of any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency (but not, with respect to any of the foregoing, an option on a contract for future delivery other than a security futures product).
 
 (2) Notwithstanding the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], the Commission shall have the authority to regulate the trading of any security futures product to the extent provided in the securities laws.
 
@@ -122,7 +122,7 @@ Subsec. (j). Pub. L. 111–203, §929X(b)(1), redesignated subsec. (i), relating
 
 Pub. L. 111–203, §763(g), added subsec. (j) relating to regulations relating to security-based swaps.
 
-Pub. L. 111–203, §762(d)(2)(B), which directed amendment of subsec. (i) by striking out "(as defined in section 206B of the Gramm-Leach-Bliley Act)", was executed by making the strike out after "security-based swap agreements" in subsec. (j) relating to limitationon Commission authority, to reflect the probable intent of Congress and the redesignation of subsec. (i) as (j) by Pub. L. 111–203, §929X(b)(1). See above and Effective Date of 2010 Amendment notes below.
+Pub. L. 111–203, §762(d)(2)(B), which directed amendment of subsec. (i) by striking out "(as defined in section 206B of the Gramm-Leach-Bliley Act)", was executed by making the strike out after "security-based swap agreements" in subsec. (j) relating to limitation on Commission authority, to reflect the probable intent of Congress and the redesignation of subsec. (i) as (j) by Pub. L. 111–203, §929X(b)(1). See above and Effective Date of 2010 Amendment notes below.
 
 <b>2000</b>—Subsec. (a)(2) to (5). Pub. L. 106–554, §1(a)(5) \[title III, §303(b)\], amended pars. (2) to (5) generally. Prior to amendment, pars. (2) to (5) read as follows:
 

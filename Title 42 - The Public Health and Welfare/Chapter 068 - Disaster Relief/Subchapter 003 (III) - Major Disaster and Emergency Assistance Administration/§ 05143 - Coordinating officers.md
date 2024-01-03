@@ -22,7 +22,7 @@ When the President determines assistance under this chapter is necessary, he sha
 
 #### (d) Single Federal coordinating officer for multistate area
 
-Where the area affected by a major disaster or emergency includes parts of more than 1 State, the President, at the discretion of the President,may appoint a single Federal coordinating officer for the entire affected area, and may appoint such deputy Federal coordinating officers to assist the Federal coordinating officer as the President determines appropriate.
+Where the area affected by a major disaster or emergency includes parts of more than 1 State, the President, at the discretion of the President, may appoint a single Federal coordinating officer for the entire affected area, and may appoint such deputy Federal coordinating officers to assist the Federal coordinating officer as the President determines appropriate.
 
 (Pub. L. 93–288, title III, §302, formerly §303, May 22, 1974, 88 Stat. 147; renumbered §302 and amended Pub. L. 100–707, title I, §105(b), Nov. 23, 1988, 102 Stat. 4691; Pub. L. 109–295, title VI, §687, Oct. 4, 2006, 120 Stat. 1448.)
 

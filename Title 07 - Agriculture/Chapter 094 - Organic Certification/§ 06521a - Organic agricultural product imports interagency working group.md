@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(D) collecting and organizing quantitative data on imports of organically produced agricultural products; and
 
-&emsp;&emsp;(E) requesting feedback from stakeholders on how to improve the oversight of imports of organically produced agricultural products.
+&emsp;&emsp;(E) requesting feedback from stakeholders on how to improve the oversight of importsof organically produced agricultural products.
 
 #### (4) Designated employees and officials
 

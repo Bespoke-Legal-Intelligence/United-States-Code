@@ -10,7 +10,7 @@ In accordance with section 283c of this title, the United States Governor of the
 
 &emsp;(3) undisbursed balances of existing loans of the Fund for Special Operations to Haiti are to be converted to grants; and
 
-&emsp;(4) the Fund for Special Operations is to make available significant and immediategrant financing to Haiti as well as appropriate resources to other countries remaining as borrowers within the Fund for Special Operations, consistent with paragraph 6 of the Cancun Declaration of March 21, 2010.
+&emsp;(4) the Fund for Special Operations is to make available significant and immediate grant financing to Haiti as well as appropriate resources to other countries remaining as borrowers within the Fund for Special Operations, consistent with paragraph 6 of the Cancun Declaration of March 21, 2010.
 
 #### (b) Contribution authority
 

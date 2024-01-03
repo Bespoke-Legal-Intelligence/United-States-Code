@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) There is in the Department a Director of Construction and Facilities Management, who shall be appointed by the Secretary.
+In General.—(1) There is in the Department a Director of Construction and FacilitiesManagement, who shall be appointed by the Secretary.
 
 (2) The position of Director of Construction and Facilities Management is a career reserved position, as such term is defined in section 3132(a)(8) of title 5.
 
@@ -26,7 +26,7 @@ Responsibilities.—(1) The Director of Construction and Facilities Management s
 
 &emsp;(B) perform such other functions as the Secretary shall prescribe.
 
-(2) In carrying out the oversight and management of construction and operation of facilitiesand infrastructure under this section, the Director shall be responsible for the following:
+(2) In carrying out the oversight and management of construction and operation of facilities and infrastructure under this section, the Director shall be responsible for the following:
 
 &emsp;(A) Development and updating of short-range and long-range strategic capital investment strategies and plans of the Department.
 

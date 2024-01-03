@@ -22,7 +22,7 @@ In the case of information furnished under a provision of law referred to in sub
 
 #### (c) Violations; penalties
 
-Any person who shall publish, cause to be published, or otherwise publicly release information collected pursuant to a provision of law referred to in subsection (d), in any manner or for any purpose prohibited in section <sup>1</sup> (a), shall be fined not more than $10,000 or imprisoned for not more than 1 year, or both.
+Any person who shall publish, cause to be published, or otherwise publicly release information collected pursuant to a provision of law referred to in subsection (d), in any manner or for any purpose prohibited in section <sup>1</sup> (a), shall be finednot more than $10,000 or imprisoned for not more than 1 year, or both.
 
 #### (d) Provisions of law references
 
@@ -58,7 +58,7 @@ For purposes of this section, a provision of law referred to in this subsection 
 
 This section shall not prohibit the release of information under section 2204g(f)(2) of this title.
 
-(Pub. L. 99–198, title XVII, §1770, Dec. 23, 1985, 99 Stat. 1657; Pub. L. 105–113, §4(a)(2), (b), Nov. 21, 1997, 111 Stat. 2276; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §348\], Nov. 29, 1999, 113 Stat.1535, 1501A–207; Pub. L. 107–171, title II, §2004(b), May 13, 2002, 116 Stat. 236; Pub. L. 115–334, title X, §10109(d), Dec. 20, 2018, 132 Stat. 4907.)
+(Pub. L. 99–198, title XVII, §1770, Dec. 23, 1985, 99 Stat. 1657; Pub. L. 105–113, §4(a)(2), (b), Nov. 21, 1997, 111 Stat. 2276; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §348\], Nov. 29, 1999, 113 Stat. 1535, 1501A–207; Pub. L. 107–171, title II, §2004(b), May 13, 2002, 116 Stat. 236; Pub. L. 115–334, title X, §10109(d), Dec. 20, 2018, 132 Stat. 4907.)
 
 #### <b>Editorial Notes</b>
 

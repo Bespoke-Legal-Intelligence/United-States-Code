@@ -8,7 +8,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 &emsp;(2) A requirement—
 
-&emsp;&emsp;(A) prohibiting or otherwise restricting the manufacture, processing, or distribution in commerce of such substance or mixture for (i) a particular use or (ii) a particular use in a concentration in excess of a level specified by the Administrator in the rule imposing the requirement, or
+&emsp;&emsp;(A) prohibiting or otherwise restricting the manufacture, processing, or distribution in commerce of such substance or mixturefor (i) a particular use or (ii) a particular use in a concentration in excess of a level specified by the Administrator in the rule imposing the requirement, or
 
 &emsp;&emsp;(B) limiting the amount of such substance or mixture which may be manufactured, processed, or distributed in commerce for (i) a particular use or (ii) a particular use in a concentration in excess of a level specified by the Administrator in the rule imposing the requirement.
 
@@ -78,7 +78,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 #### (E) Metals and metal compounds
 
-&emsp;&emsp;In identifying priorities for risk evaluation and conducting risk evaluations of metals and metal compounds, the Administrator shall use the Framework for Metals Risk Assessment of the Office of the Science Advisor, Risk Assessment Forum, and datedMarch 2007, or a successor document that addresses metals risk assessment and is peer reviewed by the Science Advisory Board.
+&emsp;&emsp;In identifying priorities for risk evaluation and conducting risk evaluations of metals and metal compounds, the Administrator shall use the Framework for Metals Risk Assessment of the Office of the Science Advisor, Risk Assessment Forum, and dated March 2007, or a successor document that addresses metals risk assessment and is peer reviewed by the Science Advisory Board.
 
 #### (3) Initiation of risk evaluations; designations
 
@@ -114,7 +114,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 #### (D) Scope
 
-&emsp;&emsp;The Administrator shall, not later than 6 months after the initiation of a risk evaluation, publish the scope of the risk evaluation to be conducted, including the hazards, exposures, conditions of use, and the potentially exposed or susceptible subpopulations the Administrator expects to consider, and, for each designation of a high-priority substance, ensure not less than 12 months between the initiation of the prioritization process for the chemical substance and the publication of the scope of the risk evaluation for the chemical substance, and for risk evaluations conducted on chemical substances that have been identified under paragraph (2)(A) or selected under subparagraph (E)(iv)(II) of this paragraph, ensure not less than 3 months before the Administrator publishes the scope of the risk evaluation.
+&emsp;&emsp;The Administrator shall, not later than 6 months after the initiation of a risk evaluation, publish the scope of the risk evaluation to be conducted, including the hazards, exposures, conditions of use, and the potentially exposed or susceptible subpopulations the Administrator expects to consider, and, for each designation of a high-priority substance, ensure not less than 12 months between the initiation of the prioritization process for the chemical substance and the publication of the scope of the risk evaluation for the chemical substance, and for riskevaluations conducted on chemical substances that have been identified under paragraph (2)(A) or selected under subparagraph (E)(iv)(II) of this paragraph, ensure not less than 3 months before the Administrator publishes the scope of the risk evaluation.
 
 #### (E) Limitation and criteria
 
@@ -216,7 +216,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 &emsp;&emsp;&emsp;In this subparagraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) the term "complex consumer goods" means electronic or mechanicaldevices composed of multiple manufactured components, with an intended useful life of 3 or more years, where the product is typically not consumed, destroyed, or discarded after a single use, and the components of which would be impracticable to redesign or replace; and
+&emsp;&emsp;&emsp;&emsp;(I) the term "complex consumer goods" means electronic or mechanical devices composed of multiple manufactured components, with an intended useful life of 3 or more years, where the product is typically not consumed, destroyed, or discarded after a single use, and the components of which would be impracticable to redesign or replace; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the term "complex durable goods" means manufactured goods composed of 100 or more manufactured components, with an intended useful life of 5 or more years, where the product is typically not consumed, destroyed, or discarded after a single use.
 
@@ -282,7 +282,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 (2)(A) Except as provided under subparagraph (B), effective one year after January 1, 1977, no person may manufacture, process, or distribute in commerce or use any polychlorinated biphenyl in any manner other than in a totally enclosed manner.
 
-(B) The Administrator may by rule authorize the manufacture, processing, distribution in commerce or use (or any combination of suchactivities) of any polychlorinated biphenyl in a manner other than in a totally enclosed manner if the Administrator finds that such manufacture, processing, distribution in commerce, or use (or combination of such activities) will not present an unreasonable risk of injury to health or the environment.
+(B) The Administrator may by rule authorize the manufacture, processing, distribution in commerce or use (or any combination of such activities) of any polychlorinated biphenyl in a manner other than in a totally enclosed manner if the Administrator finds that such manufacture, processing, distribution in commerce, or use (or combination of such activities) will not present an unreasonable risk of injury to health or the environment.
 
 (C) For the purposes of this paragraph, the term "totally enclosed manner" means any manner which will ensure that any exposure of human beings or the environment to a polychlorinated biphenyl will be insignificant as determined by the Administrator by rule.
 

@@ -8,7 +8,7 @@
 
 (b) Each Federal agency shall keep such records, make such certifications, and furnish the Office, the qualified company, or both, with such information and reports as the Office may require.
 
-(c) The Office shall conduct periodic reviews of plans under this chapter, including a comparison of the dental benefits available under chapter 89, to ensure the competitiveness of plans under this chapter. The Office shall cooperate with the Government Accountability Office to provide periodic evaluations of the program.
+(c) The Office shall conduct periodic reviews of plans under this chapter, including a comparison of the dental benefits available under chapter 89, to ensure the competitiveness of plans under this chapter. The Office shall cooperatewith the Government Accountability Office to provide periodic evaluations of the program.
 
 (Added Pub. L. 108–496, §2, Dec. 23, 2004, 118 Stat. 4005.)
 

@@ -6,11 +6,11 @@ The Director shall continue to support databases, tools, methods, and other acti
 
 #### (b) Specimen management plan
 
-In consultation with other relevant Federal research agencies, and as the Director determines is appropriate, the Director shall requirethat proposals submitted to the Foundation for funding for research that involves collecting or generating specimens include, as part of the data management plan under section 19053 of this title, a description of how the specimens and associated data will be accessioned into and maintained in an established biological collection.
+In consultation with other relevant Federal research agencies, and as the Director determines is appropriate, the Director shall require that proposals submitted to the Foundation for funding for research that involves collecting or generating specimens include, as part of the data management plan under section 19053 of this title, a description of how the specimens and associated data will be accessioned into and maintained in an established biological collection.
 
 #### (c) Action Center for Biological Collections
 
-In coordination with other relevant Federal research agencies, as appropriate, the Director shall make awards on a competitive basis to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to facilitate coordination and data sharing among communities of practice for research, education, workforce training, evaluation, and business model development, including by establishing an Action Center for Biological Collections.
+In coordination with other relevant Federal research agencies, as appropriate, the Director shall make awards on a competitive basis to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to facilitate coordination and data sharing among communities of practice for research, education, workforce training, evaluation, and business model development, includingby establishing an Action Center for Biological Collections.
 
 (Pub. L. 117–167, div. B, title III, §10355, Aug. 9, 2022, 136 Stat. 1562.)
 

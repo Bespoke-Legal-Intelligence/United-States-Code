@@ -182,7 +182,7 @@ The purposes of the Foundation shall be—
 
 &emsp;&emsp;In establishing bylaws under subparagraph (A)(i), the Board shall ensure that the bylaws do not—
 
-&emsp;&emsp;&emsp;(i) reflect unfavorably on the ability of the Foundation to carry out the duties of the Foundation in a fair and objective manner; or
+&emsp;&emsp;&emsp;(i) reflect unfavorably on the ability of the Foundation to carry out the duties ofthe Foundation in a fair and objective manner; or
 
 &emsp;&emsp;&emsp;(ii) compromise, or appear to compromise, the integrity of any governmental agency or program, or any officer or employee employed by, or involved in, a governmental agency or program.
 
@@ -276,7 +276,7 @@ The purposes of the Foundation shall be—
 
 &emsp;&emsp;&emsp;(i) provide for annual audits of the financial condition of the Foundation; and
 
-&emsp;&emsp;&emsp;(ii) make the audits, and all other records, documents, and other papers of the Foundation, available to the Secretary and the Comptroller General of the United States for examination or audit.
+&emsp;&emsp;&emsp;(ii) make the audits, and all other records, documents, and other papers ofthe Foundation, available to the Secretary and the Comptroller General of the United States for examination or audit.
 
 #### (B) Reports
 
@@ -284,7 +284,7 @@ The purposes of the Foundation shall be—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Not later than 5 months following the end of each fiscal year, the Foundationshall publish and post online a report for the preceding fiscal year that includes—
+&emsp;&emsp;&emsp;&emsp;Not later than 5 months following the end of each fiscal year, the Foundation shall publish and post online a report for the preceding fiscal year that includes—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) a description of Foundation activities, including accomplishments and how those activities align to the challenges identified in the strategic plan under clause (iv);
 
@@ -388,6 +388,10 @@ The purposes of the Foundation shall be—
 
 &emsp;&emsp;&emsp;On the date on which the strategic plan described in subsection (f)(3)(B)(iv) is submitted, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $185,000,000, to remain available until expended.
 
+#### (iii) Additional funding
+
+&emsp;&emsp;&emsp;Not later than 30 days after November 17, 2023, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $37,000,000, to remain available until expended.
+
 #### (B) Conditions on expenditure
 
 #### (i) In general
@@ -406,7 +410,7 @@ The purposes of the Foundation shall be—
 
 &emsp;The Executive Director shall ensure that any funds received under paragraph (1) are held in separate accounts from funds received from nongovernmental entities as described in subsection (f)(2)(A)(iii).
 
-(Pub. L. 113–79, title VII, §7601, Feb. 7, 2014, 128 Stat. 904; Pub. L. 115–334, title VII, §7603, Dec. 20, 2018, 132 Stat. 4826; Pub. L. 117–286, §4(c)(18), Dec. 27, 2022, 136 Stat. 4356.)
+(Pub. L. 113–79, title VII, §7601, Feb. 7, 2014, 128 Stat. 904; Pub. L. 115–334, title VII, §7603, Dec. 20, 2018, 132 Stat. 4826; Pub. L. 117–286, §4(c)(18), Dec. 27, 2022, 136 Stat. 4356; Pub. L. 118–22, div. B, title I, §102(d)(5)(C), Nov. 17, 2023, 137 Stat. 117.)
 
 #### <b>Editorial Notes</b>
 
@@ -415,6 +419,8 @@ The purposes of the Foundation shall be—
 Section was enacted as part of the Agricultural Act of 2014, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (g)(1)(A)(iii). Pub. L. 118–22 added cl. (iii).
 
 <b>2022</b>—Subsec. (f)(4)(B)(ii). Pub. L. 117–286 substituted "section 13101 of title 5)" for "section 109 of the Ethics in Government Act of 1978 (5 U.S.C. App.))".
 

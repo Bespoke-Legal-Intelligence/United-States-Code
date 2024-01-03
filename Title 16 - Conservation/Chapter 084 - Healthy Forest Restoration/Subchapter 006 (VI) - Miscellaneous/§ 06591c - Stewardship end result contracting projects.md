@@ -38,7 +38,7 @@ The land management goals of a project under subsection (b) may include any of t
 
 #### (1) Procurement procedure
 
-&emsp;A source for performance of an agreement or contract under subsection (b) shall be selectedon a best-value basis, including consideration of source under other public and private agreements or contracts.
+&emsp;A source for performance of an agreement or contract under subsection (b) shall be selected on a best-value basis, including consideration of source under other public and private agreements or contracts.
 
 #### (2) Contract for sale of property
 
@@ -190,9 +190,9 @@ The Materials Act of 1947, referred to in subsec. (d)(5), is act July 31, 1947, 
 
 The Act of June 9, 1930, referred to in subsec. (e)(3)(B), is act June 9, 1930, ch. 416, 46 Stat. 527, popularly known as the Knutson-Vandenberg Act, which is classified generally to sections 576, 576a, and 576b of this title. For complete classification of this Act to the Code, see Short Title note set out under section 576 of this title and Tables.
 
-Section 490 of this title, referred to in subsec. (f)(1), was in the original "the Act of August 11, 1916 (16 U.S.C. 490)", and was translated as referring to the undesignated provisions appearing in act Aug. 11, 1916, ch. 313, 39 Stat. 462, as amended, which are classified to section 490 of this title.
+Section 490 of this title, referred to in subsec. (f)(1), was in the original "the Act of August 11, 1916 (16 U.S.C. 490)", and was translated as referring to the undesignated provisions appearing in act Aug. 11, 1916, ch. 313, 39 Stat. 462, which are classified to section 490 of this title.
 
-Section 498 of this title, referred to in subsec. (f)(2), was in the original "the Act of June 30, 1914 (16 U.S.C. 498)", and was translated as referring to the undesignated provisions appearing in act June 30, 1914, ch. 131, 38 Stat. 430, as amended, which are classified to section 498 of this title.
+Section 498 of this title, referred to in subsec. (f)(2), was in the original "the Act of June 30, 1914 (16 U.S.C. 498)", and was translated as referring to the undesignated provisions appearing in act June 30, 1914, ch. 131, 38 Stat. 430, which are classified to section 498 of this title.
 
 #### Amendments
 
@@ -218,7 +218,7 @@ Pub. L. 115–141, div. O, title II, §207, Mar. 23, 2018, 132 Stat. 1065, provi
 
 "(a)
 
-In General.—The Secretary of Agriculture and the Secretary of the Interior may award contracts or agreements under section 604 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511 \[6591c\]), for termsnot to exceed 20 years on areas where the majority of Federal lands are in Fire Regime Groups I, II, or III.
+In General.—The Secretary of Agriculture and the Secretary of the Interior may award contracts or agreements under section 604 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511 \[6591c\]), for terms not to exceed 20 years on areas where the majority of Federal lands are in Fire Regime Groups I, II, or III.
 
 "(b)
 

@@ -14,7 +14,7 @@ Benefits.—Upon the approval of the request of an eligible member, the member s
 
 &emsp;&emsp;(A) separation pay equal to 15 percent of the product of (i) the member's years of active service, and (ii) 12 times the monthly basic pay to which the member is entitled at the time of his discharge or release from active duty; and
 
-&emsp;&emsp;(B) the same benefits and services as are provided under chapter 58 of this title, sections 452 and 453(c) of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 476 <sup>1</sup> note) for members of the armedforces who are involuntarily separated within the meaning of section 1141 of this title.
+&emsp;&emsp;(B) the same benefits and services as are provided under chapter 58 of this title, sections 452 and 453(c) of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 476 <sup>1</sup> note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
 
 (c)
 
@@ -186,7 +186,7 @@ Effective Date.—This section shall apply with respect to officers separated af
 
 #### Separation Payments; Reductions and Prohibitions
 
-Pub. L. 103–335, title VIII, §8106A, Sept. 30, 1994, 108 Stat. 2645, as amended by Pub. L. 104–6, title I, §105(a),Apr. 10, 1995, 109 Stat. 79, which provided that members who separated after Sept. 30, 1994, from active duty or full-time National Guard duty in a military department pursuant to a Special Separation Benefits program under section 1174a of this title or a Voluntary Separation Incentive program under section 1175 of this title would have their separation payments reduced by the amount of certain bonus payments and eliminated if they are rehired within 180 days by the Department of Defense in a civilian position and that civilian Department of Defense employees would not receive voluntary separation payments if rehired by a Federal agency within 180 days of separating from the Department of Defense, was from the Department of Defense Appropriations Act, 1995, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation act:
+Pub. L. 103–335, title VIII, §8106A, Sept. 30, 1994, 108 Stat. 2645, as amended by Pub. L. 104–6, title I, §105(a), Apr. 10, 1995, 109 Stat. 79, which provided that members who separated after Sept. 30, 1994, from active duty or full-time National Guard duty in a military department pursuant to a Special Separation Benefits program under section 1174a of this title or a Voluntary Separation Incentive program under section 1175 of this title would have their separation payments reduced by the amount of certain bonus payments and eliminated if they are rehired within 180 days by the Department of Defense in a civilian position and that civilian Department of Defense employees would not receive voluntary separation payments if rehired by a Federal agency within 180 days of separating from the Department of Defense, was from the Department of Defense Appropriations Act, 1995, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 103–139, title VIII, §8127, Nov. 11, 1993, 107 Stat. 1469.
 

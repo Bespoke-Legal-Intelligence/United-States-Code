@@ -11,12 +11,15 @@
 | [507\.](%C2%A7%2000507%20-%20Instruction%20in%20firing%3B%20supply%20of%20ammunition.md) | Instruction in firing; supply of ammunition. |
 | [508\.](%C2%A7%2000508%20-%20Assistance%20for%20certain%20youth%20and%20charitable%20organizations.md) | Assistance for certain youth and charitable organizations. |
 | [509\.](%C2%A7%2000509%20-%20National%20Guard%20Youth%20Challenge%20Program%20of%20opportunities%20for%20civilian%20youth.md) | National Guard Youth Challenge Program of opportunities for civilian youth. |
+| [510\.](%C2%A7%2000510%20-%20Authorization%20for%20FireGuard%20Program.md) | Authorization for FireGuard Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title V, §515(b), Dec. 22, 2023, 137 Stat. 249, added item 510.
 
 <b>2004</b>—Pub. L. 108–375, div. A, title V, §594(b)(2), Oct. 28, 2004, 118 Stat. 1936, substituted "National Guard Youth Challenge" for "National Guard Challenge" in item 509.
 
@@ -38,3 +41,4 @@
 - [&sect; 00507 - Instruction in firing; supply of ammunition](%C2%A7%2000507%20-%20Instruction%20in%20firing%3B%20supply%20of%20ammunition.md)
 - [&sect; 00508 - Assistance for certain youth and charitable organizations](%C2%A7%2000508%20-%20Assistance%20for%20certain%20youth%20and%20charitable%20organizations.md)
 - [&sect; 00509 - National Guard Youth Challenge Program of opportunities for civilian youth](%C2%A7%2000509%20-%20National%20Guard%20Youth%20Challenge%20Program%20of%20opportunities%20for%20civilian%20youth.md)
+- [&sect; 00510 - Authorization for FireGuard Program](%C2%A7%2000510%20-%20Authorization%20for%20FireGuard%20Program.md)

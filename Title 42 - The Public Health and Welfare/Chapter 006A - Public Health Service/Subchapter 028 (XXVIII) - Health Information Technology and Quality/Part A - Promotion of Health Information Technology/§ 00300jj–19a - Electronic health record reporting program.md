@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(iv) accessing and exchanging information and data from medical devices;
 
-&emsp;&emsp;&emsp;(v) accessing and exchanging information and data held by Federal, State, andlocal agencies and other applicable entities useful to a health care provider or other applicable user in the furtherance of patient care;
+&emsp;&emsp;&emsp;(v) accessing and exchanging information and data held by Federal, State, and local agencies and other applicable entities useful to a health care provider or other applicable user in the furtherance of patient care;
 
 &emsp;&emsp;&emsp;(vi) accessing and exchanging information from other health care providers or applicable users;
 
@@ -146,7 +146,7 @@ As a condition of maintaining certification under section 300jj–11(c)(5)(D) of
 
 #### (A) Development of reports
 
-&emsp;&emsp;Each recipient of a grant, contract, or agreement under paragraph (1) shall reporton the information reported to such recipient pursuant to subsection (a) and the user feedback collected under paragraph (5) by preparing summary reports and detailed reports of such information.
+&emsp;&emsp;Each recipient of a grant, contract, or agreement under paragraph (1) shall report on the information reported to such recipient pursuant to subsection (a) and the user feedback collected under paragraph (5) by preparing summary reports and detailed reports of such information.
 
 #### (B) Distribution of reports
 

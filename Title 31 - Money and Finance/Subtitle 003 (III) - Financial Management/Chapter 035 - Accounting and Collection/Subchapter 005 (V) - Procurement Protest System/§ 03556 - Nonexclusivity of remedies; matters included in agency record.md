@@ -8,7 +8,7 @@ This subchapter does not give the Comptroller General exclusive jurisdiction ove
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–320, which directed the amendment of this section by striking "a court of the United States or" in first sentence, was executed by striking "a district court of the United States or" after "to file an action in" in first sentence to reflect the probable intent of Congress.
+<b>1996</b>—Pub. L. 104–320, which directed the amendment of this section by striking "a court of the UnitedStates or" in first sentence, was executed by striking "a district court of the United States or" after "to file an action in" in first sentence to reflect the probable intent of Congress.
 
 <b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 

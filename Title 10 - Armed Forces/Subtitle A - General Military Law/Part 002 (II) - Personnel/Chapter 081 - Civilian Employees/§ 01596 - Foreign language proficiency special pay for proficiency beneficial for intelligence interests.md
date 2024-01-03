@@ -30,7 +30,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. 
 
 #### Effective Date
 
-Pub. L. 101–193, title V, §501(b), Nov. 30, 1989, 103 Stat. 1708, provided that: "Section 1592 \[now 1596\] of title 10, United States Code, as added by subsection (a), shall take effect on the first day of the first pay period beginning on or after the later of—
+Pub. L. 101–193, title V, §501(b), Nov. 30, 1989, 103 Stat. 1708, provided that: "Section 1592 \[now 1596\] of title 10,United States Code, as added by subsection (a), shall take effect on the first day of the first pay period beginning on or after the later of—
 
 &emsp;"(1) October 1, 1989, or
 

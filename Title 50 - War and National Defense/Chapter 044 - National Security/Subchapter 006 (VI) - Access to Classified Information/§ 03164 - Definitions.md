@@ -8,17 +8,17 @@ For purposes of this subchapter—
 
 &emsp;(3) the term "consumer reporting agency" has the meaning given such term in section 1681a of title 15;
 
-&emsp;(4) the term "employee" includes any person who receives a salary or compensation of any kind from the United States Government, is a contractor of the United States Government or an employee thereof, is an unpaid consultant of the United States Government, or otherwise acts for or on behalf of the United States Government, except as otherwise determined by the President;
+&emsp;(4) the term "employee" includes any person who receives a salary or compensation of any kind from the United States Government, is acontractor of the United States Government or an employee thereof, is an unpaid consultant of the United States Government, or otherwise acts for or on behalf of the United States Government, except as otherwise determined by the President;
 
 &emsp;(5) the terms "financial agency" and "financial institution" have the meanings given to such terms in section 5312(a) of title 31 and the term "holding company" has the meaning given to such term in section 3401(6) of title 12;
 
-&emsp;(6) the terms "foreign power" and "agent of a foreign power" have the same meanings as set forth in sections <sup>1</sup> 1801(a) and (b), respectively, of this title;
+&emsp;(6) the terms "foreign power" and "agent of a foreign power" have the same meanings as set forth in subsections (a) and (b) of section 1801, respectively, of this title;
 
-&emsp;(7) the term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of PuertoRico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, and any other possession of the United States; and
+&emsp;(7) the term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, and any other possession of the United States; and
 
 &emsp;(8) the term "computer" means any electronic, magnetic, optical, electrochemical, or other high speed data processing device performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device and any data or other information stored or contained in such device.
 
-(July 26, 1947, ch. 343, title VIII, §805, formerly §804, as added Pub. L. 103–359, title VIII, §802(a), Oct. 14, 1994, 108 Stat. 3438; amended Pub. L. 106–120, title III, §305(b), Dec. 3, 1999, 113 Stat. 1611; renumbered §805, Pub. L. 116–92, div. E, title LXVI, §6605(a)(1), Dec. 20, 2019, 133 Stat. 2213.)
+(July 26, 1947, ch. 343, title VIII, §805, formerly §804, as added Pub. L. 103–359, title VIII, §802(a), Oct. 14, 1994, 108 Stat. 3438; amended Pub. L. 106–120, title III, §305(b), Dec. 3, 1999, 113 Stat. 1611; renumbered §805, Pub. L. 116–92, div. E, title LXVI, §6605(a)(1), Dec. 20, 2019, 133 Stat. 2213; Pub. L. 118–31, div. G, title IX, §7901(a)(3), Dec. 22, 2023, 137 Stat. 1106.)
 
 #### <b>Editorial Notes</b>
 
@@ -34,6 +34,8 @@ Section was formerly classified to section 438 of this title prior to editorial 
 
 #### Amendments
 
+<b>2023</b>—Par. (6). Pub. L. 118–31 substituted "subsections (a) and (b) of section 1801" for "sections 1801(a) and (b)".
+
 <b>1999</b>—Par. (8). Pub. L. 106–120 added par. (8).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
@@ -41,6 +43,4 @@ Section was formerly classified to section 438 of this title prior to editorial 
 #### Effective Date
 
 Section effective 180 days after Oct. 14, 1994, see section 802(c) of Pub. L. 103–359, set out as a note under section 3161 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

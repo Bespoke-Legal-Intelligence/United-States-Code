@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;This section shall apply only to a recovery, by a domestic corporation subject to the tax imposed by section 11 or 801, of a foreign expropriation loss sustained by such corporation and only if such corporation was subject to the tax imposed by section 11 or 801, as the case may be, for the year of the loss and elects to have the provisions of this section apply with respect to such loss.
+&emsp;This section shall apply only to a recovery, by a domestic corporation subject to the tax imposed by section 11 or 801, of a foreign expropriation loss sustained by such corporation and only if such corporation was subject to the tax imposed by section 11 or 801, as the case may be, for the year of the loss and elects tohave the provisions of this section apply with respect to such loss.
 
 #### (2) Time, manner, and scope
 
@@ -62,7 +62,7 @@ For purposes of this section, if the value of any interest in, or with respect t
 
 #### (h) Special rule for evidences of indebtedness
 
-Bonds or other evidences of indebtedness received as a recovery of a foreign expropriation loss to which this section applies shall not be considered to have any original issue discount within the meaning of section 1273(a).
+Bonds or other evidences of indebtedness received as a recovery of a foreign expropriation loss to which this section applies shall not beconsidered to have any original issue discount within the meaning of section 1273(a).
 
 #### (i) Adjustments for succeeding years
 
@@ -80,7 +80,7 @@ For purposes of this subtitle, proper adjustment shall be made, under regulation
 
 > for the taxable year of a recovery of a foreign expropriation loss to which this section applies, and for succeeding taxable years, to take into account items changed in making the computations under subsection (d) for taxable years prior to the taxable year of such recovery.
 
-(Added Pub. L. 89–384, §1(a), Apr. 8, 1966, 80 Stat. 99; amended Pub. L. 94–455, title X, §1031(b)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1623, 1834; Pub. L. 95–600, title III, §301(b)(17), Nov. 6, 1978, 92 Stat. 2823; Pub. L. 98–369, div. A,title I, §42(a)(12), title II, §211(b)(18), title IV, §474(r)(25), July 18, 1984, 98 Stat. 557, 756, 844; Pub. L. 99–514, title XVIII, §1812(a)(4), Oct. 22, 1986, 100 Stat. 2833; Pub. L. 115–97, title I, §13511(b)(8), Dec. 22, 2017, 131 Stat. 2142.)
+(Added Pub. L. 89–384, §1(a), Apr. 8, 1966, 80 Stat. 99; amended Pub. L. 94–455, title X, §1031(b)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1623, 1834; Pub. L. 95–600, title III, §301(b)(17), Nov. 6, 1978, 92 Stat. 2823; Pub. L. 98–369, div. A, title I, §42(a)(12), title II, §211(b)(18), title IV, §474(r)(25), July 18, 1984, 98 Stat. 557, 756, 844; Pub. L. 99–514, title XVIII, §1812(a)(4), Oct. 22, 1986, 100 Stat. 2833; Pub. L. 115–97, title I, §13511(b)(8), Dec. 22, 2017, 131 Stat. 2142.)
 
 #### <b>Editorial Notes</b>
 

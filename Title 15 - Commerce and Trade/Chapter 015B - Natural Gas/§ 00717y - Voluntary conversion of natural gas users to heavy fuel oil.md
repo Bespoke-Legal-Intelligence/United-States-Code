@@ -48,7 +48,7 @@ For purposes of this section—
 
 &emsp;(1) The term "natural gas" has the same meaning as provided by section 2(5) of the Natural Gas Act \[15 U.S.C. 717a(5)\].
 
-&emsp;(2) The term "just compensation", when used with respect to any contractual interests pursuant to the rule required under subsection (a)(1), means the maximum amount of, ormethod of determining, consideration which does not exceed the amount by which—
+&emsp;(2) The term "just compensation", when used with respect to any contractual interests pursuant to the rule required under subsection (a)(1), means the maximum amount of, or method of determining, consideration which does not exceed the amount by which—
 
 &emsp;&emsp;(A) the reasonable costs (not including capital costs) incurred, during the remainder of the period of the contract with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1), in direct association with the use of heavy petroleum fuel oil as a fuel in the applicable facility, exceeds
 

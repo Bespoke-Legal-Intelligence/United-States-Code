@@ -120,7 +120,7 @@ In this section:
 
 &emsp;&emsp;(C) does not include interruptions in manufacturing of components or raw materials so long as such interruptions do not result in a shortage of the device and the manufacturer expects to resume operations in a reasonable period of time; and
 
-&emsp;&emsp;(D) does not include interruptions in manufacturing that do not lead to a reduction inprocedures or diagnostic tests associated with a medical device designed to perform more than one procedure or diagnostic test.
+&emsp;&emsp;(D) does not include interruptions in manufacturing that do not lead to a reduction in procedures or diagnostic tests associated with a medical device designed to perform more than one procedure or diagnostic test.
 
 #### (2) Shortage
 
@@ -144,7 +144,7 @@ Pub. L. 117–328, div. FF, title II, §2514(b), Dec. 29, 2022, 136 Stat. 5806, 
 
 #### Guidance on Device Shortage Notification Requirement
 
-Pub. L. 117–328, div. FF, title II, §2514(c), Dec. 29, 2022, 136 Stat. 5806, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 29, 2022\], the Secretary shall issue or revise draft guidance regarding requirements under section 506J of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356j). Such guidance shall include a list of each device product code for which a manufacturer of such device is required to notify the Secretary in accordance with section 506J."
+Pub. L. 117–328, div. FF, title II, §2514(c), Dec. 29, 2022, 136 Stat. 5806, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 29, 2022\], the Secretary shall issue or revise draft guidance regarding requirements under section 506J of the FederalFood, Drug, and Cosmetic Act (21 U.S.C. 356j). Such guidance shall include a list of each device product code for which a manufacturer of such device is required to notify the Secretary in accordance with section 506J."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "a".</i>
 

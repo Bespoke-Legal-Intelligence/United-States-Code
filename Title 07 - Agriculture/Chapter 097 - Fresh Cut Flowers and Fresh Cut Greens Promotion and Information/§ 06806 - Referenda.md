@@ -8,7 +8,7 @@
 
 #### (2) Approval of order needed
 
-&emsp;The order shall be continued only if the Secretary determines that the order has been approved by a simple majority of all votes castin the referendum. If the order is not approved, the Secretary shall terminate the order as provided in subsection (d).
+&emsp;The order shall be continued only if the Secretary determines that the order has been approved by a simple majority of all votes cast in the referendum. If the order is not approved, the Secretary shall terminate the order as provided in subsection (d).
 
 #### (b) Votes permitted
 

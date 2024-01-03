@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to receive an allotment under section 7172 of this title for any fiscal year, a State shall submit to the Secretary, at such time as the Secretary may require, an application that—
+In order to receive an allotment under section 7172 of this title for any fiscal year, a State shallsubmit to the Secretary, at such time as the Secretary may require, an application that—
 
 &emsp;(1) designates the State educational agency as the agency responsible for the administration and supervision of programs assisted under this part;
 
@@ -52,7 +52,7 @@ In order to receive an allotment under section 7172 of this title for any fiscal
 
 &emsp;(12) provides—
 
-&emsp;&emsp;(A) an assurance that the application was developed in consultation and coordination with appropriate State officials, including the chief State school officer, and other State agencies administering before andafter school (or summer recess) programs and activities, the heads of the State health and mental health agencies or their designees, statewide after-school networks (where applicable) and representatives of teachers, local educational agencies, and community-based organizations; and
+&emsp;&emsp;(A) an assurance that the application was developed in consultation and coordination with appropriate State officials, including the chief State school officer, and other State agencies administering before and after school (or summer recess) programs and activities, the heads of the State health and mental health agencies or their designees, statewide after-school networks (where applicable) and representatives of teachers, local educational agencies, and community-based organizations; and
 
 &emsp;&emsp;(B) a description of any other representatives of teachers, parents, students, or the business community that the State has selected to assist in the development of the application, if applicable;
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than March 31 of each year, the Secretary shall submit a report, containingthe information described in paragraph (2), to the appropriate congressional committees.
+&emsp;Not later than March 31 of each year, the Secretary shall submit a report, containing the information described in paragraph (2), to the appropriate congressional committees.
 
 #### (2) Contents
 

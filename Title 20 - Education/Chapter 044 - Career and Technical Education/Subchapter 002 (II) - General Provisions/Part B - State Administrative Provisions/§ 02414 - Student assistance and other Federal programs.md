@@ -38,7 +38,7 @@ Section 2416, Pub. L. 88–210, title IV, §416, as added Pub. L. 101–392, tit
 
 Section 2417, Pub. L. 88–210, title IV, §417, as added Pub. L. 101–392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 818, related to educational programs for Federal correctional institutions.
 
-Another prior section 2417, Pub. L. 88–210, title IV, §417, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2471; amended Pub. L. 99–159, title VII, §710, Nov. 22, 1985, 99 Stat. 907, related to establishment of grant program to establish and operate model centers for vocational education for older individuals, prior to the general amendment of part B of former subchapter IV of this chapter by Pub. L. 101–392.
+Another prior section 2417, Pub. L. 88–210, title IV, §417, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat.2471; amended Pub. L. 99–159, title VII, §710, Nov. 22, 1985, 99 Stat. 907, related to establishment of grant program to establish and operate model centers for vocational education for older individuals, prior to the general amendment of part B of former subchapter IV of this chapter by Pub. L. 101–392.
 
 Section 2418, Pub. L. 88–210, title IV, §418, as added Pub. L. 101–392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 819, related to dropout prevention.
 

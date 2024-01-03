@@ -32,7 +32,7 @@ For purposes of this subchapter—
 
 #### (5) EPA guidance document
 
-&emsp;The term "Guidance for Controlling Asbestos-Containing Material in Buildings", meansthe Environmental Protection Agency document with such title as in effect on March 31, 1986.
+&emsp;The term "Guidance for Controlling Asbestos-Containing Material in Buildings", means the Environmental Protection Agency document with such title as in effect on March 31, 1986.
 
 #### (6) Friable asbestos-containing material
 

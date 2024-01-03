@@ -54,7 +54,7 @@ Pub. L. 94–472, §1, Oct. 11, 1976, 90 Stat. 2059, as amended by Pub. L. 98–
 
 #### Ex. Ord. No. 11961. International Investment and Trade in Services
 
-Ex. Ord. No. 11961, Jan. 19, 1977, 42 F.R. 4321, as amended by Ex. Ord. No. 12013, Oct. 7, 1977, 42 F.R. 54931;Ex. Ord. No. 12318, Aug. 21, 1981, 46 F.R. 42833; Ex. Ord. No. 12518, June 3, 1985, 50 F.R. 23661, provided:
+Ex. Ord. No. 11961, Jan. 19, 1977, 42 F.R. 4321, as amended by Ex. Ord. No. 12013, Oct. 7, 1977, 42 F.R. 54931; Ex. Ord. No. 12318, Aug. 21, 1981, 46 F.R. 42833; Ex. Ord. No. 12518, June 3, 1985, 50 F.R. 23661, provided:
 
 By virtue of the authority vested in me by the International Investment and Trade in Services Survey Act (90 Stat. 2059, 22 U.S.C. 3101) \[this chapter\], and section 301 of title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 

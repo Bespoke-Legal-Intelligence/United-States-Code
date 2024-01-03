@@ -198,7 +198,7 @@ Final Report.—Not later than January 31, 2018, the Commission shall submit a f
 
 &emsp;"(2) shall make the results of any such audit available to the public; and
 
-&emsp;"(3) shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+&emsp;"(3) shall transmit such results to the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
 #### "SEC. 9. DEFINITIONS.
 

@@ -14,7 +14,7 @@
 
 #### (3) Focus
 
-&emsp;(A) Each Center shall be focused on a different challenge faced by elementary school or secondary school teachers of mathematics and science. In determining the research focus of the Centers, the Director shall consult with the National Academy of Sciences and the Secretary of Education and take into accountthe extent to which other Federal programs support research on similar questions.
+&emsp;(A) Each Center shall be focused on a different challenge faced by elementary school or secondary school teachers of mathematics and science. In determining the research focus of the Centers, the Director shall consult with the National Academy of Sciences and the Secretary of Education and take into account the extent to which other Federal programs support research on similar questions.
 
 &emsp;(B) The proposal solicitation issued by the Director shall state the focus of each Center and applicants shall apply for designation as a specific Center.
 
@@ -26,7 +26,7 @@
 
 #### (1) Application
 
-&emsp;An institution of higher education or an eligible nonprofit organization (or a consortium thereof) seeking funding under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
+&emsp;An institution of higher education or an eligible nonprofit organization (or a consortiumthereof) seeking funding under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
 
 &emsp;&emsp;(A) the initial research projects that will be undertaken by the Center and the process by which new projects will be identified;
 

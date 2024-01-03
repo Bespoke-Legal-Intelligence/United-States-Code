@@ -58,7 +58,7 @@
 
 #### (3) Cybersecurity scholarships and graduate fellowships
 
-&emsp;The Director shall ensure that students pursuing master's degrees and doctoral degrees infields relating to cybersecurity are eligible to apply for scholarships and graduate fellowships under the Graduate Research Fellowship Program under section 1869 of this title.
+&emsp;The Director shall ensure that students pursuing master's degrees and doctoral degrees in fields relating to cybersecurity are eligible to apply for scholarships and graduate fellowships under the Graduate Research Fellowship Program under section 1869 of this title.
 
 #### (c) Study on graduate student funding
 
@@ -232,7 +232,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the event that a scholarship recipient is required to repay the scholarship award under this section, the qualified institution of higher education providing the scholarship shall—
+&emsp;&emsp;In the event that a scholarship recipient is required to repay the scholarship awardunder this section, the qualified institution of higher education providing the scholarship shall—
 
 &emsp;&emsp;&emsp;(i) determine the repayment amounts and notify the recipient and the Director of the amounts owed; and
 
@@ -297,6 +297,12 @@ The Higher Education Act of 1965, referred to in subsec. (d)(13)(A), is Pub. L. 
 #### Codification
 
 Section is comprised of section 10313 of div. B of Pub. L. 117–167. Subsecs. (a)(1)(A) and (b)(2) of section 10313 of div. B of Pub. L. 117–167 amended sections 1862o and 1869 of this title, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

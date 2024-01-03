@@ -64,7 +64,7 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 #### Codification
 
-In subsec. (c)(3), "chapter 81 of title 41" substituted for "the Drug-Free Workplace Act of 1988 (41 U.S.C. 701 et seq.)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(3), "chapter 81 of title 41" substituted for "the Drug-Free Workplace Act of 1988 (41 U.S.C. 701et seq.)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

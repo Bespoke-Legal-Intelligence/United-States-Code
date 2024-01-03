@@ -6,7 +6,7 @@
 
 (2) The credit shall be permitted against the tax for the taxable year only for the amount of contributions paid with respect to such taxable year.
 
-(3) The credit against the tax for any taxable year shall be permitted only for contributions paid on or before the last day upon which the taxpayer is required under section 6071 to file a return for such year; except that credit shall be permitted for contributions paid after such last day, but such credit shall not exceed 90 percent of the amount which would have been allowable as credit on account of such contributions had they been paid on or before such last day.
+(3) The credit against the tax for any taxable year shall be permitted only for contributionspaid on or before the last day upon which the taxpayer is required under section 6071 to file a return for such year; except that credit shall be permitted for contributions paid after such last day, but such credit shall not exceed 90 percent of the amount which would have been allowable as credit on account of such contributions had they been paid on or before such last day.
 
 (4) Upon the payment of contributions into the unemployment fund of a State which are required under the unemployment compensation law of that State with respect to remuneration on the basis of which, prior to such payment into the proper fund, the taxpayer erroneously paid an amount as contributions under another unemployment compensation law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made at the time of the erroneous payment. If, by reason of such other law, the taxpayer was entitled to cease paying contributions with respect to services subject to such other law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made on the date the return for the taxable year was filed under section 6071.
 
@@ -46,7 +46,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 &emsp;(B) fulfilled its commitments under an agreement with the Secretary of Labor as described in section 239 of the Trade Act of 1974,
 
-> then, in the case of a taxpayer subject to the unemployment compensation law of such State, the total credits (after applying subsections (a) and (b) and paragraphs (1) and (2) of this section) otherwise allowable under this section for a year during which such State or agency does not enter into or fulfill such an agreement shall be reduced by 7½ percent of the tax imposed with respect to wages paid by such taxpayer during such year which are attributable to such State.
+> then, in the case of a taxpayer subject to the unemployment compensation law of such State, the total credits (after applying subsections (a) and (b) and paragraphs (1) and (2) of this section) otherwise allowable under this section for a year during which such State or agency does not enter into or fulfill such an agreement shall be reduced by 7½ percent of the tax imposed withrespect to wages paid by such taxpayer during such year which are attributable to such State.
 
 #### (d) Definitions and special rules relating to subsection (c)
 

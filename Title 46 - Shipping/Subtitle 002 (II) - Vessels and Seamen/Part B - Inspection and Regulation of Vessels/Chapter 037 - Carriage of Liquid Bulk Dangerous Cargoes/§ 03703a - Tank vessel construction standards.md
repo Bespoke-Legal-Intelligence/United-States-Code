@@ -24,7 +24,7 @@
 
 &emsp;(B) is delivered after completion of a major conversion; or
 
-&emsp;(C) had its appraised salvage value determined by the Coast Guard and is qualified for documentation as a wrecked vessel under section 12112 of this title.
+&emsp;(C) had its appraised salvage value determined by the Coast Guard and is qualified fordocumentation as a wrecked vessel under section 12112 of this title.
 
 (2) A vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title for which a building contract or contract for major conversion was placed before June 30, 1990, and that was delivered under that contract before January 1, 1994, and a vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualified for documentation as a wrecked vessel under section 12112 of this title before January 1, 1994, may not operate in the navigable waters or the Exclusive Economic Zone of the United States unless the vessel is equipped with a double hull or with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil.
 

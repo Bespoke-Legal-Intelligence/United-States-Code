@@ -18,7 +18,7 @@ The Director shall continue to support the development of artificial intelligenc
 
 #### References in Text
 
-The National Artificial Intelligence Initiative Act of 2020, referred to in introductory provisions of subsec.\(a), is div. E of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4523, which is classified principally to chapter 119 of Title 15, Commerce and Trade. For complete classification of div. E to the Code, see Short Title note set out under section 9401 of Title 15 and Tables.
+The National Artificial Intelligence Initiative Act of 2020, referred to in introductory provisions of subsec. (a), is div. E of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4523, which is classified principally to chapter 119 of Title 15, Commerce and Trade. For complete classification of div. E to the Code, see Short Title note set out under section 9401 of Title 15 and Tables.
 
 Division E of the National Defense Authorization Act for Fiscal Year 2021, referred to in introductory provisions of subsec. (a), is div. E of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 3388, also known as the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021. For complete classification of this Act to the Code, see Tables.
 

@@ -46,7 +46,7 @@
 
 &emsp;(C) the money is withdrawn and the expenses are incurred after such date of enactment,
 
-&emsp;(D)(i) the appropriation law limits the total amount which may be obligated under such appropriation at any time to an amount which does not exceed, at any such time, the amount by which—
+&emsp;(D)(i) the appropriation law limits the total amount which may be obligated under suchappropriation at any time to an amount which does not exceed, at any such time, the amount by which—
 
 &emsp;&emsp;(I) the aggregate of the amounts transferred to the account of such State pursuant to subsections (a) and (b), exceeds
 
@@ -170,7 +170,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 &emsp;&emsp;&emsp;(II) due to a change in location of the spouse's employment.
 
-&emsp;(C)(i) Weekly unemployment compensation is payable under this subparagraph to any individual who is unemployed (as determined under the State unemployment compensation law), has exhausted all rights to regular unemployment compensation under the State law, and is enrolled and making satisfactory progress in a State-approved training program or in a job training program authorized under the Workforce Investment Act of 1998,<sup>1</sup> except that such compensation is not required to be paid to an individual who is receiving similar stipends or other training allowances for non-training costs.
+&emsp;(C)(i) Weekly unemployment compensation is payable under this subparagraph to any individual who is unemployed (as determined under the State unemployment compensation law), has exhausted all rights to regular unemployment compensation under the State law, and is enrolled and making satisfactory progress in a State-approved training program or in a job training program authorized underthe Workforce Investment Act of 1998,<sup>1</sup> except that such compensation is not required to be paid to an individual who is receiving similar stipends or other training allowances for non-training costs.
 
 &emsp;(ii) Each State-approved training program or job training program referred to in clause (i) shall prepare individuals who have been separated from a declining occupation, or who have been involuntarily and indefinitely separated from employment as a result of a permanent reduction of operations at the individual's place of employment, for entry into a high-demand occupation.
 
@@ -206,7 +206,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 #### (g) Special transfer in fiscal year 2009 for administration
 
-(1) In addition to any other amounts, the Secretary of the Treasury shall transfer from the employment security administration account to the account of each State in the Unemployment Trust Fund, within 30 days after February 17, 2009, the amount determined with respect to such State under paragraph (2).
+(1) In addition to any other amounts, the Secretary of the Treasury shall transfer from theemployment security administration account to the account of each State in the Unemployment Trust Fund, within 30 days after February 17, 2009, the amount determined with respect to such State under paragraph (2).
 
 (2) The amount to be transferred under this subsection to a State account shall (as determined by the Secretary of Labor and certified by such Secretary to the Secretary of the Treasury) be equal to the amount obtained by multiplying $500,000,000 by the same ratio as determined under subsection (f)(1)(B) with respect to such State.
 
@@ -254,7 +254,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 &emsp;(B) a description of steps the State intends to take to increase such recipiency rate.
 
-(6)(A) Notwithstanding any other provision of law, the Secretary of the Treasury shall transferfrom the general fund of the Treasury (from funds not otherwise appropriated) to the employment security administration account (as established by section 1101 of this title) such sums as the Secretary of Labor estimates to be necessary for purposes of making the transfers described in paragraph (1)(C).
+(6)(A) Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the employment security administration account (as established by section 1101 of this title) such sums as the Secretary of Labor estimates to be necessary for purposes of making the transfers described in paragraph (1)(C).
 
 (B) There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
 
@@ -296,7 +296,7 @@ A prior section 1103, act Aug. 14, 1935, ch. 531, title IX, §903, 49 Stat. 640,
 
 #### Amendments
 
-<b>2021</b>—Subsec. (i)(1)(B). Pub. L. 117–2, §9012(b), inserted "and except as otherwise provided in this subparagraph" after "as determined by the Secretary of Labor" and "With respect to the amounts of such compensation paid for weeks of unemployment beginning after March 31, 2021, and ending on or before September6, 2021, the preceding sentence shall be applied by substituting '75 percent' for 'one-half'." after "during such period."
+<b>2021</b>—Subsec. (i)(1)(B). Pub. L. 117–2, §9012(b), inserted "and except as otherwise provided in this subparagraph" after "as determined by the Secretary of Labor" and "With respect to the amounts of such compensation paid for weeks of unemployment beginning after March 31, 2021, and ending on or before September 6, 2021, the preceding sentence shall be applied by substituting '75 percent' for 'one-half'." after "during such period."
 
 Subsec. (i)(1)(D). Pub. L. 117–2, §9012(a), substituted "September 6, 2021" for "March 14, 2021".
 
@@ -376,7 +376,7 @@ Subsec. (c)(2). Pub. L. 92–224, §1, substituted "twenty-four preceding fiscal
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–778 substituted provisions of par. (1) for first sentence of the section which read "So much of any amount transferred to the Unemployment Trust Fund at the close of any fiscal year under section 1101(a) of this title as is not credited to the Federal unemployment account under section 1102 of this title shall be credited (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund" and designated existing provisions of second sentence as part (2), substituting "transferred" for "credited", and striking out "on or" before "before" in subpar. (A).
 
-Subsec. (b). Pub. L. 86–778 redesignated existing provisions as par. (1) and cls. (1) and (2) thereof as subpars. (A) and (B), substituted "section 3304 of title 26" for "section 1603 of title 26", in two places, and "transferto such States' account", "transferred", and "transfer" for "crediting to such States' account", "credited" and "credit", respectively, except where already reading "shall transfer", and added par. (2).
+Subsec. (b). Pub. L. 86–778 redesignated existing provisions as par. (1) and cls. (1) and (2) thereof as subpars. (A) and (B), substituted "section 3304 of title 26" for "section 1603 of title 26", in two places, and "transfer to such States' account", "transferred", and "transfer" for "crediting to such States' account", "credited" and "credit", respectively, except where already reading "shall transfer", and added par. (2).
 
 Subsec. (c). Pub. L. 86–778 substituted "transferred" for "credited", wherever appearing, "obligation" for "expenditure" in par. (2)(B), "obligated" for "so used" in par. (2)(D), and "obligated for administration" for "used" in concluding par., inserted references to subsection (b) in pars. (1) and (2)(D), and struck out "any of" before "such five fiscal years" in par. (2)(D).
 

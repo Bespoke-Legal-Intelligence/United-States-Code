@@ -38,7 +38,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 #### (A) Allocation
 
-&emsp;&emsp;Notwithstanding any other provision of this subsection, in making expenditures under paragraph (1) for each fiscal year, theSecretary shall allocate for operation and maintenance costs of emerging harbor projects an amount that is not less than 10 percent of the funds made available under this section for fiscal year 2012 to pay the costs described in subsection (a)(2).
+&emsp;&emsp;Notwithstanding any other provision of this subsection, in making expenditures under paragraph (1) for each fiscal year, the Secretary shall allocate for operation and maintenance costs of emerging harbor projects an amount that is not less than 10 percent of the funds made available under this section for fiscal year 2012 to pay the costs described in subsection (a)(2).
 
 #### (B) Additional uses at emerging harbors
 
@@ -68,7 +68,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 #### (A) In general
 
-&emsp;&emsp;For each fiscal year, if priority funds are available, the Secretary shall use at least 10 percent of such funds for emerging harbor projects.
+&emsp;&emsp;For each fiscal year, if priority funds are available, the Secretary shall use at least 10percent of such funds for emerging harbor projects.
 
 #### (B) Additional considerations
 
@@ -118,7 +118,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 #### (A) In general
 
-&emsp;&emsp;For each of fiscal years 2015 through 2024, if after fully funding all projects eligible for funding under paragraphs (1)(B) and (2)(B)(i), priority funds made available under thoseparagraphs remain unobligated, the Secretary shall use those remaining funds to pay for operation and maintenance costs of any harbor or inland harbor referred to in subsection (a)(2) based on an equitable allocation of those funds among the harbors and inland harbors.
+&emsp;&emsp;For each of fiscal years 2015 through 2024, if after fully funding all projects eligible for funding under paragraphs (1)(B) and (2)(B)(i), priority funds made available under those paragraphs remain unobligated, the Secretary shall use those remaining funds to pay for operation and maintenance costs of any harbor or inland harbor referred to in subsection (a)(2) based on an equitable allocation of those funds among the harbors and inland harbors.
 
 #### (B) Criteria
 
@@ -154,7 +154,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 #### (B) Uses of harbors and inland harbors
 
-&emsp;&emsp;In carrying out paragraph (1), the Secretary shall identify current uses (and, to the extent practicable, assess the national, regional, and local benefits of such uses) of harbors and inland harbors referred to in subsection (a)(2), including the use of those harbors for—
+&emsp;&emsp;In carrying out paragraph (1), the Secretary shall identify current uses (and, tothe extent practicable, assess the national, regional, and local benefits of such uses) of harbors and inland harbors referred to in subsection (a)(2), including the use of those harbors for—
 
 &emsp;&emsp;&emsp;(i) commercial navigation, including the movement of goods;
 
@@ -244,7 +244,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) is located in, or adjacent to, a berth that is accessible to a Federal navigation project.
 
-&emsp;&emsp;(D) An activity to maintain slope stability at a berth in a harbor that is accessible to a Federal navigation project if such activity benefits commercial navigation at the harbor.
+&emsp;&emsp;(D) An activity to maintain slope stability at a berth in a harbor that is accessible to aFederal navigation project if such activity benefits commercial navigation at the harbor.
 
 #### (5) Great Lakes Navigation System
 

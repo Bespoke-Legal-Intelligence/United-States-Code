@@ -1,6 +1,6 @@
 ### §4362a. Membership of Task Force on Environmental Cancer and Heart and Lung Disease
 
-The Director of the National Center for Health Statistics and the head of the Center for Disease Control (or the successor to such entity) shall each serve as members of the Task Force on Environmental Cancer and Heart and Lung Disease established under section 4362 of this title.
+The Director of the National Center for Health Statistics and the head of the Center for DiseaseControl (or the successor to such entity) shall each serve as members of the Task Force on Environmental Cancer and Heart and Lung Disease established under section 4362 of this title.
 
 (Pub. L. 95–623, §9, Nov. 9, 1978, 92 Stat. 3455.)
 

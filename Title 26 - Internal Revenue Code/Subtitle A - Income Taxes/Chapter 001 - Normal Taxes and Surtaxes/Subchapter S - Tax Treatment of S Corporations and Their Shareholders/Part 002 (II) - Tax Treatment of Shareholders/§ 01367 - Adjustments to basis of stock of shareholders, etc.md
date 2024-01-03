@@ -58,7 +58,7 @@
 
 &emsp;&emsp;The basis determined under section 1014 of any stock in an S corporation shall be reduced by the portion of the value of the stock which is attributable to items constituting income in respect of the decedent.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1679; amended Pub. L. 98–369, div. A, title VII, §§721(d), (w), 722(e)(2), July 18, 1984, 98 Stat. 967, 971, 974; Pub. L. 104–188, title I, §§1313(a), 1702(h)(14), Aug. 20, 1996, 110 Stat. 1785, 1874; Pub. L. 109–280, title XII, §1203(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, §307(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §752(a), Dec. 17, 2010, 124 Stat. 3321; Pub. L. 112–240, title III, §325(a), Jan. 2, 2013, 126 Stat. 2333; Pub. L. 113–295, div. A, title I, §137(a), Dec. 19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, §115(a), Dec. 18, 2015, 129 Stat. 3049.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1679; amended Pub. L. 98–369, div. A, title VII, §§721(d), (w), 722(e)(2), July 18, 1984, 98 Stat. 967, 971, 974; Pub. L. 104–188, title I, §§1313(a), 1702(h)(14), Aug. 20, 1996, 110 Stat. 1785, 1874; Pub. L. 109–280, title XII, §1203(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, §307(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §752(a), Dec. 17, 2010, 124 Stat. 3321; Pub. L. 112–240, title III, §325(a), Jan. 2, 2013, 126 Stat. 2333; Pub. L. 113–295, div. A, titleI, §137(a), Dec. 19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, §115(a), Dec. 18, 2015, 129 Stat. 3049.)
 
 #### <b>Editorial Notes</b>
 
@@ -94,7 +94,7 @@ Pub. L. 114–113, div. Q, title I, §115(b), Dec. 18, 2015, 129 Stat. 3049, pro
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §137(b), Dec. 19, 2014, 128 Stat. 4020, provided that: "The amendment made bythis section \[amending this section\] shall apply to contributions made in taxable years beginning after December 31, 2013."
+Pub. L. 113–295, div. A, title I, §137(b), Dec. 19, 2014, 128 Stat. 4020, provided that: "The amendment made by this section \[amending this section\] shall apply to contributions made in taxable years beginning after December 31, 2013."
 
 #### Effective Date of 2013 Amendment
 

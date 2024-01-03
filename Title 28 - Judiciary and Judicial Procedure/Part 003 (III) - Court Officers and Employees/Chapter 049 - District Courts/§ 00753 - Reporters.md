@@ -14,7 +14,7 @@ If any such court and the Judicial Conference are of the opinion that it is in t
 
 The reporter or other individual designated to produce the record shall attach his official certificate to the original shorthand notes or other original records so taken and promptly file them with the clerk who shall preserve them in the public records of the court for not less than ten years.
 
-The reporter or other individual designated to produce the record shall transcribe and certify such parts of the record of proceedings as may be required by any rule or order of court, including all arraignments, pleas, and proceedings in connection with the imposition of sentence in criminal cases unless they have been recorded by electronic sound recording as provided in this subsection and the original records so taken have been certified by him and filed with the clerk as provided in this subsection. He shall also transcribe and certify such other parts of the record of proceedings as may be required by rule or order of court. Upon the request of any party to any proceeding which has been so recorded who has agreed to pay the fee therefor, orof a judge of the court, the reporter or other individual designated to produce the record shall promptly transcribe the original records of the requested parts of the proceedings and attach to the transcript his official certificate, and deliver the same to the party or judge making the request.
+The reporter or other individual designated to produce the record shall transcribe and certify such parts of the record of proceedings as may be required by any rule or order of court, including all arraignments, pleas, and proceedings in connection with the imposition of sentence in criminal cases unless they have been recorded by electronic sound recording as provided in this subsection and the original records so taken have been certified by him and filed with the clerk as provided in this subsection. He shall also transcribe and certify such other parts of the record of proceedings as may be required by rule or order of court. Upon the request of any party to any proceeding which has been so recorded who has agreed to pay the fee therefor, or of a judge of the court, the reporter or other individual designated to produce the record shall promptly transcribe the original records of the requested parts of the proceedings and attach to the transcript his official certificate, and deliver the same to the party or judge making the request.
 
 The reporter or other designated individual shall promptly deliver to the clerk for the records of the court a certified copy of any transcript so made.
 
@@ -24,7 +24,7 @@ The original notes or other original records and the copy of the transcript in t
 
 (c) The reporters shall be subject to the supervision of the appointing court and the Judicial Conference in the performance of their duties, including dealings with parties requesting transcripts.
 
-(d) The Judicial Conference shall prescribe records which shall be maintained and reports which shall be filed by the reporters. Such records shall be inspected and audited in the same manner as the records and accounts of clerks of the district courts, and may include records showing:
+(d) The Judicial Conference shall prescribe records which shall be maintained and reportswhich shall be filed by the reporters. Such records shall be inspected and audited in the same manner as the records and accounts of clerks of the district courts, and may include records showing:
 
 &emsp;(1) the quantity of transcripts prepared;
 
@@ -50,7 +50,7 @@ Based on title 28, U.S.C., 1940 ed., §9a(a), (b), (c), (d), and section 644 of 
 
 Section consolidates section 9a(a), (b), (c), (d) of title 28, U.S.C., 1940 ed., and part of section 644 of title 48, U.S.C., 1940 ed., relating to reporters.
 
-The provisions of section 644 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, relating toclerks and deputy clerks, were incorporated in section 751 of this title. The provision of said section 644 fixing the salary of the reporter at $1,200 per annum was omitted as inconsistent with this section. Certain other provisions of said section 644 were also omitted. (See reviser's note under section 751 of this title.)
+The provisions of section 644 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, relating to clerks and deputy clerks, were incorporated in section 751 of this title. The provision of said section 644 fixing the salary of the reporter at $1,200 per annum was omitted as inconsistent with this section. Certain other provisions of said section 644 were also omitted. (See reviser's note under section 751 of this title.)
 
 Words "including the District Court of the United States for the District of Columbia, and the district courts in the territories and insular possessions" were omitted as covered by "Each district court in the United States, the District Court for the Territory of Alaska, the United States District Court for the District of the Canal Zone, and the District Court of the Virgin Islands." (See reviser's note under section 88 of this title.) The courts in Hawaii and Puerto Rico are district courts of the United States under definitive section 451 of this title.
 

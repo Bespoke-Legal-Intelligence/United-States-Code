@@ -58,7 +58,7 @@ Regulations under subsection (a) shall—
 
 &emsp;(5) require the Administrator to provide a hearing on the record (within the meaning of subchapter II of chapter 5 of title 5) and to make a decision on such petition (including findings of fact and conclusions of law) not later than ninety days after the receipt of any petition under paragraph (4)(B), unless the State agrees to provide a hearing which is substantially similar to such a hearing on the record and to make a decision on such petition (including such findings and conclusions) within such ninety-day period;
 
-&emsp;(6)(A) authorize the Administrator on his own initiative to review the decision of the State under paragraph (5) and disapprove it if it is not in accordance with the requirements of this section, and (B) require the Administrator to do so not later than sixty days afterreceipt of a petition under this subparagraph, notice, and public hearing and a showing by such petitioner that the State decision under paragraph (5) is not in accordance with the requirements of this section;
+&emsp;(6)(A) authorize the Administrator on his own initiative to review the decision of the State under paragraph (5) and disapprove it if it is not in accordance with the requirements of this section, and (B) require the Administrator to do so not later than sixty days after receipt of a petition under this subparagraph, notice, and public hearing and a showing by such petitioner that the State decision under paragraph (5) is not in accordance with the requirements of this section;
 
 &emsp;(7) require payment, in accordance with subsection (d), of the penalty by each person to whom notice of noncompliance is given under paragraph (3) with respect to each noncomplying source for which such notice is given unless there has been a final determination granting a petition under paragraph (4)(B) with respect to such source;
 
@@ -102,7 +102,7 @@ If the owner or operator of any stationary source to whom a notice is issued und
 
 > and ending on the date on which such source comes into (or for the purpose of establishing the schedule of payments, is estimated to come into) compliance with such requirement.
 
-(4) Upon making a determination that a source with respect to which a penalty has been paid under this section is in compliance and is maintaining compliance with the applicable requirement, the State (or the Administrator as the case may be) shall review the actual expenditures made by the owner or operator of suchsource for the purpose of attaining and maintaining compliance, and shall within 180 days after such source comes into compliance—
+(4) Upon making a determination that a source with respect to which a penalty has been paid under this section is in compliance and is maintaining compliance with the applicable requirement, the State (or the Administrator as the case may be) shall review the actual expenditures made by the owner or operator of such source for the purpose of attaining and maintaining compliance, and shall within 180 days after such source comes into compliance—
 
 &emsp;(A) provide reimbursement with interest (to be paid by the State or Secretary of the Treasury, as the case may be) at appropriate prevailing rates (as determined by the Secretary of the Treasury) for any overpayment by such person, or
 

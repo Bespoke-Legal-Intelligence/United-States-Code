@@ -10,7 +10,7 @@ Definition of United States Segment of the International Space Station.—In thi
 
 (b)
 
-Designation.—To further the policy described in section 70501(a) of this title, the United States segment of the International Space Station is hereby designated a national laboratory.
+Designation.—To further the policy described in section 70501(a) of this title, the United States segment of the InternationalSpace Station is hereby designated a national laboratory.
 
 (c)
 

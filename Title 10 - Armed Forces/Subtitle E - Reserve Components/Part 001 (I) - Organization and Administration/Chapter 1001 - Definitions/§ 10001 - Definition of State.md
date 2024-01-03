@@ -16,7 +16,7 @@ Pub. L. 103–337, div. A, title XVI, §1691, Oct. 5, 1994, 108 Stat. 3026, prov
 
 "(a)
 
-Effective Date for Amendments.—Except as provided in subsection (b), the amendment made by section 1611 \[enacting heading and analysis of this subtitle and enacting part III of this subtitle\] and the amendments made by subtitles C and D \[subtitles C\(§§1661 to 1665) and D (§§1671 to 1677) of title XVI of div. A of Pub. L. 103–337, see Tables for classification\] shall take effect on December 1, 1994.
+Effective Date for Amendments.—Except as provided in subsection (b), the amendment made by section 1611 \[enacting heading and analysis of this subtitle and enacting part III of this subtitle\] and the amendments made by subtitles C and D \[subtitles C (§§1661 to 1665) and D (§§1671 to 1677) of title XVI of div. A of Pub. L. 103–337, see Tables for classification\] shall take effect on December 1, 1994.
 
 "(b)
 

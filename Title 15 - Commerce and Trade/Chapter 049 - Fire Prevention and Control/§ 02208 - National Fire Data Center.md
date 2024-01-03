@@ -6,7 +6,7 @@ The Administrator shall operate, directly or through contracts or grants, an int
 
 &emsp;(1) information on the frequency, causes, spread, and extinguishment of fires;
 
-&emsp;(2) information on the number of injuries and deaths resulting from fires, including the maximum available information on the specific causes and nature of such injuries and deaths, categorized by the type of fire, and information on property losses;
+&emsp;(2) information on the number of injuries and deaths resulting from fires, including themaximum available information on the specific causes and nature of such injuries and deaths, categorized by the type of fire, and information on property losses;
 
 &emsp;(3) information on the occupational hazards faced by firefighters, including the causes of deaths and injuries arising, directly and indirectly, from firefighting activities, including—
 
@@ -54,7 +54,7 @@ The collection, storage, and transfer of any medical data collected under this s
 
 &emsp;(2) other applicable regulations, including parts 160, 162, and 164 of title 45, Code of Federal Regulations (as in effect on March 12, 2019).
 
-(Pub. L. 93–498, §9, Oct. 29, 1974, 88 Stat. 1541; Pub. L. 110–376, §5, Oct. 8, 2008, 122 Stat. 4059;Pub. L. 112–239, div. A, title XVIII, §1815, Jan. 2, 2013, 126 Stat. 2118; Pub. L. 116–9, title I, §1114(g), Mar. 12, 2019, 133 Stat. 617.)
+(Pub. L. 93–498, §9, Oct. 29, 1974, 88 Stat. 1541; Pub. L. 110–376, §5, Oct. 8, 2008, 122 Stat. 4059; Pub. L. 112–239, div. A, title XVIII, §1815, Jan. 2, 2013, 126 Stat. 2118; Pub. L. 116–9, title I, §1114(g), Mar. 12, 2019, 133 Stat. 617.)
 
 #### <b>Editorial Notes</b>
 

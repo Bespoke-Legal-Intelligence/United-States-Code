@@ -20,7 +20,7 @@
 
 (c) On paying a claim under this section, the Government is subrogated for the amount of the payment to a right or claim that the claimant may have against a foreign country for the damage or loss for which the Government made the payment.
 
-(d) The Mayor of the District of Columbia may settle and pay a claim against the District ofColumbia government made by an officer or employee of the District of Columbia government to the same extent the head of an agency may settle and pay a claim under this section.
+(d) The Mayor of the District of Columbia may settle and pay a claim against the District of Columbia government made by an officer or employee of the District of Columbia government to the same extent the head of an agency may settle and pay a claim under this section.
 
 (e) A claim may not be allowed under this section if the personal property damage or loss occurred at quarters occupied by the claimant in a State or the District of Columbia that were not assigned or provided in kind by the United States Government or the District of Columbia government.
 
@@ -186,7 +186,7 @@ In subsection (h)(1), the words "the surviving . . . of a dead member, officer
 
 Subsection (h)(2) is substituted for "Claims of survivors shall be settled and paid in the order named" in 31:241(a)(3) and (b)(2) and "Claims of survivors shall be settled and paid in the order set forth in the preceding sentence" in 31:243a(b) for clarity.
 
-In subsection (i), the words "to the contrary" are omitted as surplus. The words "representative of a claimant" are substituted for "agent or attorney" for clarity and consistency. The words "be paid or delivered to or" are omitted as surplus. The word "payment" is substituted for "amount paid in settlement" to eliminate unnecessary words. The words "individual . . . submitted and settled . . . the authority of" are omitted as surplus. The words "and the same shall be unlawful" are omitted because of the restatement. The words "shall be deemed guilty of a misdemeanor and upon conviction thereof . . . in any sum" are omitted as surplus.
+In subsection (i), the words "to the contrary" are omitted as surplus. The words "representative of a claimant" are substituted for "agent or attorney" for clarity and consistency. The words "be paid or delivered to or" are omitted as surplus. The word "payment" is substituted for "amount paid in settlement" to eliminate unnecessary words. The words "individual. . . submitted and settled . . . the authority of" are omitted as surplus. The words "and the same shall be unlawful" are omitted because of the restatement. The words "shall be deemed guilty of a misdemeanor and upon conviction thereof . . . in any sum" are omitted as surplus.
 
 In subsection (j), the words "the purposes of" in 31:241(b)(1)(1st sentence words before 5th comma) are omitted as surplus. The words "(except subsection (b) to the extent that subsection (b) applies to the military departments, the Department of Defense, and the Coast Guard)" are substituted for the source provisions because of the restatement. The words "to carry out this section" after "regulations" are added for clarity.
 

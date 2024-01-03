@@ -10,7 +10,7 @@ There are hereby authorized to be appropriated for each fiscal year such sums as
 
 &emsp;&emsp;(B) to State or local public agencies responsible for administering, or supervising the administration of, the plan under this part, for projects for the demonstration of the utilization of research (including findings resulting therefrom) in the field of child welfare in order to encourage experimental and special types of welfare services; and
 
-&emsp;&emsp;(C) to public or other nonprofit institutions of higher learning for special projects for training personnel for work in the field of child welfare, including traineeships described in section 628a <sup>1</sup> of this title withsuch stipends and allowances as may be permitted by the Secretary; and
+&emsp;&emsp;(C) to public or other nonprofit institutions of higher learning for special projects for training personnel for work in the field of child welfare, including traineeships described in section 628a <sup>1</sup> of this title with such stipends and allowances as may be permitted by the Secretary; and
 
 &emsp;(2) for contracts or jointly financed cooperative arrangements with States and public and other organizations and agencies for the conduct of research, special projects, or demonstration projects relating to such matters.
 
@@ -30,7 +30,7 @@ The Secretary may approve an application for a grant to a public or nonprofit in
 
 &emsp;&emsp;(C) to furnish to the institution and the Secretary evidence of compliance with subparagraphs (A) and (B); and
 
-&emsp;&emsp;(D) if the recipient fails to comply with subparagraph (A) or (B) and does not qualify for any exception to this subparagraph which the Secretary may prescribe in regulations, to repay to the Secretary all (or an appropriately prorated part) of the amount of the stipend, plus interest, and, if applicable, reasonable collection fees (in accordance with regulations promulgated by the Secretary);
+&emsp;&emsp;(D) if the recipient fails to comply with subparagraph (A) or (B) and does not qualifyfor any exception to this subparagraph which the Secretary may prescribe in regulations, to repay to the Secretary all (or an appropriately prorated part) of the amount of the stipend, plus interest, and, if applicable, reasonable collection fees (in accordance with regulations promulgated by the Secretary);
 
 &emsp;(2) provides assurances that the institution will—
 

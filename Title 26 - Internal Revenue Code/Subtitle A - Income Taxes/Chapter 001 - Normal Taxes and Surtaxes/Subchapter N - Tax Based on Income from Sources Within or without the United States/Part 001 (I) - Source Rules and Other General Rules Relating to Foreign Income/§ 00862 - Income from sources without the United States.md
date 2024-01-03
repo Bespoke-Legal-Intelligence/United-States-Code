@@ -72,7 +72,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 104(b)(12) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 104(b)(12) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 1211(b)(1)(C) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1211(c) of Pub. L. 99–514, set out as an Effective Date note under section 865 of this title.
 
@@ -100,7 +100,7 @@ For nonapplication of amendment by section 1211(b)(1)(C) of Pub. L. 99–514 to 
 
 #### Qualified Research and Experimental Expenditures; Allocation and Apportionment; Definitions; Special Rules; Effective Dates
 
-For allocation and apportionment of qualified research and experimental expenditures for purposes of sections 861 to 863 of this title, see section 4009 of Pub.L. 100–647, set out as a note under section 861 of this title.
+For allocation and apportionment of qualified research and experimental expenditures for purposes of sections 861 to 863 of this title, see section 4009 of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### 1-Year Modification in Regulations Providing for Allocation of Research and Experimental Expenditures
 

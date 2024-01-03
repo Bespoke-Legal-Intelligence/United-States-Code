@@ -26,7 +26,7 @@ Baby changing facility.—The term "baby changing facility" means a table or oth
 
 &emsp;(2)
 
-Pubic <sup>1</sup> building.—The term "public building" means a public building as defined in section 3301 and controlled by the Public Building Service of the General Services Administration.
+Pubic <sup>1</sup> building.—The term "public building" means a public building as defined in section 3301 and controlled by the PublicBuilding Service of the General Services Administration.
 
 (Added Pub. L. 114–235, §2(a)(2), Oct. 7, 2016, 130 Stat. 964.)
 

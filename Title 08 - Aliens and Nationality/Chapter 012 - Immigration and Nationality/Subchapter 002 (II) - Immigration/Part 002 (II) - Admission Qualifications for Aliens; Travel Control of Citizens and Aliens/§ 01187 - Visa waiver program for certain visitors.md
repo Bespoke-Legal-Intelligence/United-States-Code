@@ -98,7 +98,7 @@ The Secretary of Homeland Security and the Secretary of State are authorized to 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 60 days after December 18, 2015, the Secretary of Homeland Security, in consultation with the Secretary ofState and the Director of National Intelligence, shall determine whether the requirement under subparagraph (A) shall apply to any other country or area.
+&emsp;&emsp;&emsp;Not later than 60 days after December 18, 2015, the Secretary of Homeland Security, in consultation with the Secretary of State and the Director of National Intelligence, shall determine whether the requirement under subparagraph (A) shall apply to any other country or area.
 
 #### (ii) Criteria
 
@@ -156,7 +156,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (ii) Validation of passports
 
-&emsp;&emsp;&emsp;Not later than October 1, 2016, the government of the country certifies that it has in place mechanisms to validate passports described in subparagraphs (A) and (B) of subsection (a)(3) at each key port of entry into that country. This requirement shall not apply to travel between countries which fall within the Schengen Zone.
+&emsp;&emsp;&emsp;Not later than October 1, 2016, the government of the country certifies that it has in place mechanisms to validate passports described in subparagraphs (A) and (B) of subsection (a)(3) at each key port ofentry into that country. This requirement shall not apply to travel between countries which fall within the Schengen Zone.
 
 #### (C) Law enforcement and security interests
 
@@ -272,7 +272,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (iv) Program suspension authority
 
-&emsp;&emsp;&emsp;The Director of National Intelligence shall immediately inform the Secretary of Homeland Security of any current and credible threat which poses an imminent danger to the United States or its citizens and originates from a country participating in the visa waiver program. Upon receiving such notification, the Secretary, in consultation with the Secretary of State—
+&emsp;&emsp;&emsp;The Director of National Intelligence shall immediately inform the Secretary of Homeland Security of any current and credible threat which poses an imminent danger to the United States or its citizens and originates from a country participating in the visa waiver program. Upon receiving such notification, the Secretary,in consultation with the Secretary of State—
 
 &emsp;&emsp;&emsp;&emsp;(I) may suspend a country from the visa waiver program without prior notice;
 
@@ -290,7 +290,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (6) Computation of visa refusal rates
 
-&emsp;For purposes of determining the eligibility of a country to be designated as a program country, the calculation of visa refusal rates shall not include any visa refusals which incorporate any procedures based on, or are otherwise based on, race, sex, or disability, unless otherwise specifically authorized by law or regulation. No court shall have jurisdiction under this paragraph to review any visa refusal, the denial of admission to the UnitedStates of any alien by the Secretary of Homeland Security, the Secretary's computation of the visa refusal rate, or the designation or nondesignation of any country.
+&emsp;For purposes of determining the eligibility of a country to be designated as a program country, the calculation of visa refusal rates shall not include any visa refusals which incorporate any procedures based on, or are otherwise based on, race, sex, or disability, unless otherwise specifically authorized by law or regulation. No court shall have jurisdiction under this paragraph to review any visa refusal, the denial of admission to the United States of any alien by the Secretary of Homeland Security, the Secretary's computation of the visa refusal rate, or the designation or nondesignation of any country.
 
 #### (7) Visa waiver information
 
@@ -338,7 +338,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (iii) Temporary suspension of waiver authority
 
-&emsp;&emsp;&emsp;Notwithstanding any certification made under clause (i), if the Secretary has not notified Congress in accordance with clause (ii) by June 30, 2009, the Secretary's waiver authority under subparagraph (B) shall be suspended beginning on July 1, 2009, until such time as the Secretary makes such notification.
+&emsp;&emsp;&emsp;Notwithstanding any certification made under clause (i), if the Secretary has notnotified Congress in accordance with clause (ii) by June 30, 2009, the Secretary's waiver authority under subparagraph (B) shall be suspended beginning on July 1, 2009, until such time as the Secretary makes such notification.
 
 #### (iv) Rule of construction
 
@@ -402,7 +402,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (B) Reporting requirement
 
-&emsp;&emsp;The Director shall provide to the Secretary of Homeland Security, the Secretary of State, and the Attorney General the independent intelligence assessment required under subparagraph (A).
+&emsp;&emsp;The Director shall provide to the Secretary of Homeland Security, the Secretaryof State, and the Attorney General the independent intelligence assessment required under subparagraph (A).
 
 #### (C) Contents
 
@@ -460,7 +460,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 &emsp;The agreement referred to in subsection (a)(4) is an agreement between a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title and the Secretary of Homeland Security under which the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title agrees, in consideration of the waiver of the visa requirement with respect to a nonimmigrant visitor under the program—
 
-&emsp;&emsp;(A) to indemnify the United States against any costs for the transportation of the alien from the United States if the visitor is refused admission to the United States or remains in the United States unlawfully after the 90-day period described in subsection (a)(1)(A),
+&emsp;&emsp;(A) to indemnify the United States against any costs for the transportation of the alien from the United States if the visitor is refused admission to the United States or remains in the United States unlawfully afterthe 90-day period described in subsection (a)(1)(A),
 
 &emsp;&emsp;(B) to submit daily to immigration officers any immigration forms received with respect to nonimmigrant visitors provided a waiver under the program,
 
@@ -542,7 +542,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 #### (A) In general
 
-&emsp;&emsp;Beginning on the date that is 270 days after December 18, 2015, if the Secretary ofHomeland Security and the Secretary of State jointly determine that the program country is not conducting the screening required by subsection (c)(2)(G), the Secretary of Homeland Security shall terminate the designation of the country as a program country.
+&emsp;&emsp;Beginning on the date that is 270 days after December 18, 2015, if the Secretary of Homeland Security and the Secretary of State jointly determine that the program country is not conducting the screening required by subsection (c)(2)(G), the Secretary of Homeland Security shall terminate the designation of the country as a program country.
 
 #### (B) Redesignation
 
@@ -604,7 +604,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (i) Supplying information to immigration officers conducting inspections at ports of entry
 
-&emsp;&emsp;&emsp;Not later than October 1, 2002, the system shall enable immigration officers conducting inspections at ports of entry under section 1225 of this title to obtain from thesystem, with respect to aliens seeking a waiver under the program—
+&emsp;&emsp;&emsp;Not later than October 1, 2002, the system shall enable immigration officers conducting inspections at ports of entry under section 1225 of this title to obtain from the system, with respect to aliens seeking a waiver under the program—
 
 &emsp;&emsp;&emsp;&emsp;(I) any photograph of the alien that may be contained in the records of the Department of State or the Service; and
 
@@ -740,7 +740,7 @@ Subsec. (c)(2)(F). Pub. L. 114–113, §204(c), inserted before period at end ",
 
 Subsec. (c)(2)(G). Pub. L. 114–113, §204(b), added subpar. (G).
 
-Subsec. (c)(5)(A)(i)(III). Pub. L. 114–113, §205(a)(2)(A)(i), (ii), inserted "the Permanent Select Committee on Intelligence," after "the Committee onForeign Affairs," and "the Select Committee on Intelligence" after "the Committee on Foreign Relations,".
+Subsec. (c)(5)(A)(i)(III). Pub. L. 114–113, §205(a)(2)(A)(i), (ii), inserted "the Permanent Select Committee on Intelligence," after "the Committee on Foreign Affairs," and "the Select Committee on Intelligence" after "the Committee on Foreign Relations,".
 
 Subsec. (c)(5)(A)(i)(V). Pub. L. 114–113, §205(a)(2)(A)(iii)–(C), added subcl. (V).
 
@@ -816,7 +816,7 @@ Subsec. (a)(1). Pub. L. 106–396, §101(a)(2)(C), substituted "program" for "pi
 
 Subsec. (a)(2). Pub. L. 106–396, §101(a)(2)(D), in heading struck out "pilot" before "program".
 
-Subsec. (a)(2)(A). Pub. L. 106–396, §201, inserted ", either on its own or in conjunction with one or more other countries that are described in subparagraph (B) and that have established with it a common area for immigration admissions," after "to extend)".
+Subsec. (a)(2)(A). Pub. L. 106–396, §201, inserted ", either on its own or in conjunction with one or more other countries that are described in subparagraph (B)and that have established with it a common area for immigration admissions," after "to extend)".
 
 Subsec. (a)(3), (4). Pub. L. 106–396, §202(a), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
@@ -930,7 +930,7 @@ Subsec. (a)(4). Pub. L. 101–649, §201(a)(3), added par. (4) and struck out fo
 
 Subsec. (a)(7). Pub. L. 101–649, §201(a)(4), added par. (7).
 
-Subsec. (b). Pub. L. 101–649, §201(a)(5), redesignated subsec. (b)(4) as subsec. (b) and subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out subsec. (b)heading "Conditions before pilot program can be put into operation" and pars. (1) to (3) which related to prior notice to Congress, automated data arrival and departure system, and visa waiver information form, respectively.
+Subsec. (b). Pub. L. 101–649, §201(a)(5), redesignated subsec. (b)(4) as subsec. (b) and subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out subsec. (b) heading "Conditions before pilot program can be put into operation" and pars. (1) to (3) which related to prior notice to Congress, automated data arrival and departure system, and visa waiver information form, respectively.
 
 Subsec. (c)(1). Pub. L. 101–649, §201(a)(6)(A), substituted in heading, "In general" for "Up to 8 countries" and in text substituted "any country as a pilot program country if it meets the requirements of paragraph (2)" for "up to eight countries as pilot program countries for purposes of the pilot program".
 
@@ -1014,7 +1014,7 @@ Pub. L. 106–396, title IV, §403(e), Oct. 30, 2000, 114 Stat. 1649, provided t
 
 #### Transition Provisions
 
-Pub. L. 104–208, div. C, title VI, §635(c)(2), Sept. 30, 1996, 110 Stat. 3009–703, provided that: "A country designated as a pilot program country with probationary status under section 217(g) of the Immigration and Nationality Act \[8 U.S.C. 1187(g)\] (as in effect on the daybefore the date of the enactment of this Act \[Sept. 30, 1996\]) shall be considered to be designated as a pilot program country on and after such date, subject to placement in probationary status or termination of such designation under such section (as amended by paragraph (1))."
+Pub. L. 104–208, div. C, title VI, §635(c)(2), Sept. 30, 1996, 110 Stat. 3009–703, provided that: "A country designated as a pilot program country with probationary status under section 217(g) of the Immigration and Nationality Act \[8 U.S.C. 1187(g)\] (as in effect on the day before the date of the enactment of this Act \[Sept. 30, 1996\]) shall be considered to be designated as a pilot program country on and after such date, subject to placement in probationary status or termination of such designation under such section (as amended by paragraph (1))."
 
 #### Operation of Automated Data Arrival and Departure Control System; Report to Congress
 

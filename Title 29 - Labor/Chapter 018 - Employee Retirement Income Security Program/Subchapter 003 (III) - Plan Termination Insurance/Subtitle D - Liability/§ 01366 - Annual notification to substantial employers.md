@@ -1,6 +1,6 @@
 ### §1366. Annual notification to substantial employers
 
-The plan administrator of each single-employer plan which has at least two contributing sponsors at least two of whom are not under common control shall notify, within 6 months after the close of each plan year, any contributing sponsor of the plan who is described in section 1301(a)(2) of this title that such contributing sponsor (alone or together with members of such contributing sponsor's controlled group) constitutes a substantial employer for that year.
+The plan administrator of each single-employer plan which has at least two contributing sponsors at least two of whom are not under common control shall notify, within 6 months after the close of each plan year, any contributing sponsor of the plan who is described in section 1301(a)(2) of this title that such contributing sponsor (alone or together with membersof such contributing sponsor's controlled group) constitutes a substantial employer for that year.
 
 (Pub. L. 93–406, title IV, §4066, Sept. 2, 1974, 88 Stat. 1032; Pub. L. 96–364, title IV, §403(j), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(a)(5)(C), Apr. 7, 1986, 100 Stat. 271; Pub. L. 101–239, title VII, §7893(g)(2), Dec. 19, 1989, 103 Stat. 2447.)
 

@@ -228,7 +228,7 @@ In general.—The Sport Fishing and Boating Partnership Council established by t
 
 "(2)
 
-FACA.— The Secretary of the Interior and the Secretary of Commerce shall jointly carry out the requirements of the Federal Advisory Committee Act (5 U.S.C. App.) with respect to the Sport Fishing and Boating Partnership Council described in paragraph (1).
+FACA.— The Secretary of the Interior and the Secretary of Commerce shall jointly carry out the requirements of the Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) with respect to the Sport Fishing and Boating Partnership Council described in paragraph (1).
 
 "(3)
 
@@ -272,7 +272,7 @@ Mixed-use fishery.—The term 'mixed-use fishery' means a Federal fishery in whi
 
 Ex. Ord. No. 12962, June 7, 1995, 60 F.R. 30769, as amended by Ex. Ord. No. 13474, Sept. 26, 2008, 73 F.R. 57229, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a–d, and e–j), the Fish and Wildlife Coordination Act (16 U.S.C. 661–666c \[666c–1\]), the National Environmental Policy Act of 1969 (42 U.S.C. 4321 <i>et seq</i>.), the National Marine SanctuariesAct of 1972 (16 U.S.C. 1431 <i>et seq</i>.), the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd–ee), the National Park Service Organic Act (\[former\] 16 U.S.C. 1 <i>et seq</i>.) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], the National Historic Preservation Act (\[former\] 16 U.S.C. 470 <i>et seq</i>.) \[see 54 U.S.C. 300101 et seq.\], \[the\] Wilderness Act (16 U.S.C. 1131 <i>et seq</i>.), the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 <i>et seq</i>.), the Coastal Zone Management Act \[of 1972\] (16 U.S.C. 1451 <i>et seq</i>.), the Outer Continental Shelf Lands Act (43 U.S.C. 1331 <i>et seq</i>.), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a–d, and e–j), the Fish and Wildlife Coordination Act (16 U.S.C. 661–666c \[666c–1\]), the National Environmental Policy Act of 1969\(42 U.S.C. 4321 <i>et seq</i>.), the National Marine Sanctuaries Act of 1972 (16 U.S.C. 1431 <i>et seq</i>.), the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd–ee), the National Park Service Organic Act (\[former\] 16 U.S.C. 1 <i>et seq</i>.) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], the National Historic Preservation Act (\[former\] 16 U.S.C. 470 <i>et seq</i>.) \[see 54 U.S.C. 300101 et seq.\], \[the\] Wilderness Act (16 U.S.C. 1131 <i>et seq</i>.), the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 <i>et seq</i>.), the Coastal Zone Management Act \[of 1972\] (16 U.S.C. 1451 <i>et seq</i>.), the Outer Continental Shelf Lands Act (43 U.S.C. 1331 <i>et seq</i>.), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
 
 Section 1. <i>Federal Agency Duties</i>. Federal agencies shall, to the extent permitted by law and where practicable, and in cooperation with States and Tribes, improve the quantity, function, sustainable productivity, and distribution of U.S. aquatic resources for increased recreational fishing opportunities by: (a) developing and encouraging partnerships between governments and the private sector to advance aquatic resource conservation and enhance recreational fishing opportunities;
 
@@ -354,7 +354,7 @@ Sec. 3. <i>Definitions</i>. For purposes of this order:
 
 (d) "Exclusive economic zone of the United States" means the zone established in Proclamation 5030 of March 10, 1983 (Exclusive Economic Zone of the United States of America) \[16 U.S.C. 1453 note\];
 
-(e) "Lead agency" has the meaning given that term in the regulations of the Council on Environmental Quality, contained in title 40, Code of Federal Regulations, that implement the procedural provisions of the National Environmental Policy Act \[of 1969\] (NEPA) (42 U.S.C. 4321 et seq.);
+(e) "Lead agency" has the meaning given that term in the regulations of the Council on Environmental Quality, contained in title 40, Code of Federal Regulations, that implement the procedural provisions of the National Environmental Policy Act \[of 1969\] (NEPA) (42 U.S.C. 4321 <i>et seq</i>.);
 
 (f) "Maritime domain" means all areas and things of, on, under, relating to, adjacent to, or bordering on a sea, ocean, or other navigable waterway, including all maritime-related activities, infrastructure, people, cargo, and vessels and other conveyances;
 
@@ -366,7 +366,7 @@ Sec. 4. <i>Removing Barriers to American Fishing</i>. (a) The Secretary of Comme
 
 (i) Recommended actions may include changes to regulations, orders, guidance documents, or other similar agency actions.
 
-(ii) Recommended actions shall be consistent with the requirements of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.); the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.); the Marine Mammal Protection Act \[of 1972\] (16 U.S.C. 1361 et seq.); and other applicable laws.
+(ii) Recommended actions shall be consistent with the requirements of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 <i>et seq</i>.); the Endangered Species Act of 1973 (16 U.S.C. 1531 <i>et seq</i>.); the Marine Mammal Protection Act \[of 1972\] (16 U.S.C. 1361 <i>et seq</i>.); and other applicable laws.
 
 (iii) Consistent with section 302(f) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(f)), and within existing appropriations, the Secretary of Commerce shall provide administrative and technical support to the Regional Fishery Management Councils to carry out this subsection.
 
@@ -422,7 +422,7 @@ Sec. 8. <i>Improving Regulatory Transparency for Aquaculture</i>. (a) Within 240
 
 (b) The Secretary of Commerce, acting through the Administrator of NOAA, shall update this guidance as appropriate, but not less than once every 18 months.
 
-Sec. 9. <i>Updating National Aquaculture Development Plan</i>. (a) Within 180 days of the date of this order, the Secretary of the Interior, the Secretary of Agriculture, and the Secretary of Commerce, in consultation with the Joint Subcommittee on Aquaculture, established pursuant to the National Aquaculture Act of 1980 (16 U.S.C. 2801 et seq.), shall assess whether to revise the National Aquaculture Development Plan, consistent with 16 U.S.C. 2803(a)(2) and (d), in order to strengthen our Nation's domestic aquaculture production and improve the efficiency and predictability of aquaculture permitting, including permitting for aquaculture projects located outside of the waters of any State or Territory and within the exclusive economic zone of the United States.
+Sec. 9. <i>Updating National Aquaculture Development Plan</i>. (a) Within 180 days of the date of this order, the Secretary of the Interior, the Secretary of Agriculture, and the Secretary of Commerce, in consultation with the Joint Subcommittee on Aquaculture, established pursuant to the National Aquaculture Act of 1980 (16 U.S.C. 2801 <i>et seq</i>.), shall assess whether to revise the National Aquaculture Development Plan, consistent with 16 U.S.C. 2803(a)(2) and (d), in order to strengthen our Nation's domestic aquaculture production and improve the efficiency and predictability of aquaculture permitting, including permitting for aquaculture projects located outside of the waters of any State or Territory and within the exclusive economic zone of the United States.
 
 (b) In making any revisions to the National Aquaculture Development Plan as a result of this assessment, the Secretary of the Interior, the Secretary of Agriculture, and the Secretary of Commerce shall, as appropriate:
 

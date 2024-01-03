@@ -16,6 +16,12 @@
 | [4333\.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004333%20-%20Conformity%20of%20administrative%20procedures%20to%20national%20environmental%20policy.md) | Conformity of administrative procedures to national environmental policy. |
 | [4334\.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004334%20-%20Other%20statutory%20obligations%20of%20agencies.md) | Other statutory obligations of agencies. |
 | [4335\.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004335%20-%20Efforts%20supplemental%20to%20existing%20authorizations.md) | Efforts supplemental to existing authorizations. |
+| [4336\.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004336%20-%20Procedure%20for%20determination%20of%20level%20of%20review.md) | Procedure for determination of level of review. |
+| [4336a.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004336a%20-%20Timely%20and%20unified%20Federal%20reviews.md) | Timely and unified Federal reviews. |
+| [4336b.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004336b%20-%20Programmatic%20environmental%20document.md) | Programmatic environmental document. |
+| [4336c.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004336c%20-%20Adoption%20of%20categorical%20exclusions.md) | Adoption of categorical exclusions. |
+| [4336d.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004336d%20-%20E-NEPA.md) | E-NEPA. |
+| [4336e.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004336e%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

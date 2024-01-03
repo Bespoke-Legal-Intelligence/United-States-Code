@@ -8,7 +8,7 @@ There are authorized to be appropriated $42,000,000 for each of the fiscal years
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–356 substituted provisions authorizing appropriations of $42,000,000 for each of the fiscal years 1992, 1993, and 1994 for provisions authorizing appropriations of $40,000,000 for each of the fiscal years 1979, 1980, and 1981, $20,000,000 for fiscal year 1982, $15,000,000 for fiscal year 1983, $12,000,000 for fiscal year 1984, $24,000,000 for fiscal year 1986, $28,000,000 for fiscal year 1987, $32,000,000 for fiscal year 1988, $36,000,000 for fiscal year 1989, $39,000,000 for fiscal year 1990, and $42,000,000 for fiscal year 1991.
+<b>1992</b>—Pub. L. 102–356 substituted provisions authorizing appropriations of $42,000,000 for each of the fiscal years 1992, 1993, and 1994 for provisions authorizing appropriations of $40,000,000 for each of the fiscal years 1979, 1980, and 1981, $20,000,000 for fiscal year 1982, $15,000,000 for fiscal year 1983, $12,000,000 for fiscal year 1984, $24,000,000 for fiscal year 1986, $28,000,000 for fiscal year 1987, $32,000,000 for fiscal year 1988, $36,000,000 forfiscal year 1989, $39,000,000 for fiscal year 1990, and $42,000,000 for fiscal year 1991.
 
 <b>1988</b>—Pub. L. 100–626 struck out "and" after "fiscal year 1987," and inserted "$36,000,000 for fiscal year 1989, $39,000,000 for fiscal year 1990, and $42,000,000 for fiscal year 1991," after "fiscal year 1988,".
 

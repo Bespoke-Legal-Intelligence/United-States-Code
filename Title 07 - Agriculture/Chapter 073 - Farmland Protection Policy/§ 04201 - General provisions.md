@@ -32,7 +32,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) unique farmland is land other than prime farmland that is used for production of specific high-value food and fiber crops, as determined by the Secretary. It has the special combination of soil quality, location, growing season, and moisture supply needed to economically produce sustained high quality or high yields of specific crops when treated and managed according to acceptable farming methods. Examples of such crops include citrus, tree nuts, olives, cranberries, fruits, and vegetables; and
 
-&emsp;&emsp;(C) farmland, other than prime or unique farmland, that is of statewide or local importance for the production of food, feed, fiber, forage, or oilseed crops, as determined by the appropriate State or unit of local government agency or agencies, and that the Secretary determines should be considered as farmland for the purposes of this chapter;
+&emsp;&emsp;(C) farmland, other than prime or unique farmland, that is of statewide or local importance for the production of food, feed, fiber, forage, or oilseed crops, as determined by the appropriate State or unit of localgovernment agency or agencies, and that the Secretary determines should be considered as farmland for the purposes of this chapter;
 
 &emsp;(2) the term "State" means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, or any territory or possession of the United States;
 
@@ -278,7 +278,7 @@ Match and Maximum Amount.—
 
 &emsp;"(1)
 
-In general.—The total amount of any guarantees provided by the Secretary under this program foreach eligible State shall equal an amount that is equal to double the amount that is, or shall be, made available to the trust fund (including matching funds described in paragraphs (2) through (4)) in each such eligible State by the State, political subdivisions thereof, charitable organizations, private persons, or any other entity, for acquiring interests in land to protect and preserve important farmlands for future agricultural use but in no event shall the total Federal share exceed $10,000,000 in any fiscal year for any given State.
+In general.—The total amount of any guarantees provided by the Secretary under this program for each eligible State shall equal an amount that is equal to double the amount that is, or shall be, made available to the trust fund (including matching funds described in paragraphs (2) through (4)) in each such eligible State by the State, political subdivisions thereof, charitable organizations, private persons, or any other entity, for acquiring interests in land to protect and preserve important farmlands for future agricultural use but in no event shall the total Federal share exceed $10,000,000 in any fiscal year for any given State.
 
 &emsp;"(2)
 
@@ -318,7 +318,7 @@ Regulations.—Not later than December 31, 1991, the Secretary of Agriculture sh
 
 #### "SEC. 1470A. COMPTROLLER GENERAL REPORTS.
 
-"On February 15 of 1992, and on December 1 of each of the years 1992 through 1996, the Comptroller General of the United States shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, on whether the Secretary of Agriculture is complying with the requirements of this chapter. The report shall include information concerning loans guaranteed under this chapter and the steps the Secretary of Agriculture has taken to comply with this chapter.
+"On February 15 of 1992, and on December 1 of each of the years 1992 through 1996, the Comptroller Generalof the United States shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, on whether the Secretary of Agriculture is complying with the requirements of this chapter. The report shall include information concerning loans guaranteed under this chapter and the steps the Secretary of Agriculture has taken to comply with this chapter.
 
 #### "SEC. 1470B. SPECIAL RULES FOR ISSUANCE OF STOCK FOR 1992.
 

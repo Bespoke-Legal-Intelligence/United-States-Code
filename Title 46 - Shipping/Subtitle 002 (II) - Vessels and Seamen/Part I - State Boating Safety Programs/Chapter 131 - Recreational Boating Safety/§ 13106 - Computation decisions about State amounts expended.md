@@ -16,7 +16,7 @@
 
 (b) The Secretary shall decide an issue arising out of the computation made under subsection (a) of this section.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 596, §13105; Pub. L. 98–369, div. A, title X, §1011(e), July 18, 1984, 98 Stat. 1013; Pub. L. 101–595, title III, §312(c), Nov. 16, 1990, 104 Stat. 2987; renumbered §13106, Pub. L. 109–304, §16(b)(1), Oct. 6, 2006, 120 Stat. 1705.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 596, §13105; Pub. L. 98–369, div. A, title X, §1011(e), July 18,1984, 98 Stat. 1013; Pub. L. 101–595, title III, §312(c), Nov. 16, 1990, 104 Stat. 2987; renumbered §13106, Pub. L. 109–304, §16(b)(1), Oct. 6, 2006, 120 Stat. 1705.)
 
 Historical and Revision Notes
 

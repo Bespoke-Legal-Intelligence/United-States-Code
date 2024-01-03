@@ -8,7 +8,7 @@ Based upon the reports provided to a State educational agency under section 6841
 
 Every second year, the Secretary shall prepare and submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report—
 
-&emsp;(1) on programs and activities carried out to serve English learners under this part, and the effectiveness of such programs and activitiesin improving the academic achievement and English proficiency of English learners;
+&emsp;(1) on programs and activities carried out to serve English learners under this part, and the effectiveness of such programs and activities in improving the academic achievement and English proficiency of English learners;
 
 &emsp;(2) on the types of language instruction educational programs used by local educational agencies or eligible entities receiving funding under this part to teach English learners;
 
@@ -26,7 +26,7 @@ Every second year, the Secretary shall prepare and submit to the Committee on Ed
 
 &emsp;(9) containing other information gathered from the evaluations from specially qualified agencies and other reports submitted to the Secretary under this part when applicable.
 
-(Pub. L. 89–10, title III, §3122, formerly §3123, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1704; renumbered §3122 and amended Pub. L. 114–95, title III, §§3001(2)(B), 3003(i), Dec. 10, 2015, 129 Stat. 1953, 1963.)
+(Pub. L. 89–10, title III, §3122, formerly §3123, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002,115 Stat. 1704; renumbered §3122 and amended Pub. L. 114–95, title III, §§3001(2)(B), 3003(i), Dec. 10, 2015, 129 Stat. 1953, 1963.)
 
 #### <b>Editorial Notes</b>
 
@@ -59,10 +59,6 @@ Subsec. (b)(8). Pub. L. 114–95, §3003(i)(3)(F), substituted "of English learn
 Subsec. (b)(9). Pub. L. 114–95, §3003(i)(3)(G), substituted "part" for "subchapter".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 

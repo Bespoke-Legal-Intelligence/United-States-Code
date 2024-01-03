@@ -74,7 +74,7 @@ It is the policy of the United States—
 
 &emsp;(1) to support early childhood development in relevant foreign assistance programs, including by integrating evidence-based, efficient, and effective interventions into relevant strategies and programs, in coordination with partner countries, other donors, international organizations, international financial institutions, local and international nongovernmental organizations, private sector partners, and civil society, including faith-based and community-based organizations; and
 
-&emsp;(2) to encourage partner countries to lead early childhood development initiatives thatinclude incentives for building local capacity for continued implementation and measurable results, by—
+&emsp;(2) to encourage partner countries to lead early childhood development initiatives that include incentives for building local capacity for continued implementation and measurable results, by—
 
 &emsp;&emsp;(A) scaling up the most effective, evidence-based, national interventions, including for the most vulnerable populations and children with disabilities and developmental delays, with a focus on adaptation to country resources, cultures, and languages;
 

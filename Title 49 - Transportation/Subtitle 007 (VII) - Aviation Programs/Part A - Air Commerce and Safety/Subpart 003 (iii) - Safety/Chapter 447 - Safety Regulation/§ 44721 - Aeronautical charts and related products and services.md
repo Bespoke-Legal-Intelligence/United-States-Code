@@ -10,7 +10,7 @@ In general.—The Administrator of the Federal Aviation Administration may arran
 
 &emsp;(2)
 
-Navigation routes.—In carrying out paragraph (1), the Administrator shall update and arrange for the publication of clearly defined routes for navigating through a complex terminal airspace area and to and from an airport located in such an area, if the Administrator decides that publication of the routes would promote safety in air navigation. The routes shall be developed in consultation with pilots and other users of affected airports and shall be for the optional use of pilots operating under visual flight rules.
+Navigation routes.—In carrying out paragraph (1), the Administrator shall update and arrange for the publication of clearly defined routes for navigating through a complex terminal airspace area and to and from an airport located in such an area, if the Administrator decides that publication of the routeswould promote safety in air navigation. The routes shall be developed in consultation with pilots and other users of affected airports and shall be for the optional use of pilots operating under visual flight rules.
 
 (b)
 
@@ -106,7 +106,7 @@ Distribution.—The Administrator may distribute aeronautical products and provi
 
 &emsp;(4)
 
-Fees.—The fees provided for in this subsection are for the purpose of reimbursing theGovernment for the costs of creating, printing and disseminating aeronautical products and services under this section. The collection of fees authorized by this section does not alter or expand any duty or liability of the Government under existing law for the performance of functions for which fees are collected, nor does the collection of fees constitute an express or implied undertaking by the Government to perform any activity in a certain manner.
+Fees.—The fees provided for in this subsection are for the purpose of reimbursing the Government for the costs of creating, printing and disseminating aeronautical products and services under this section. The collection of fees authorized by this section does not alter or expand any duty or liability of the Government under existing law for the performance of functions for which fees are collected, nor does the collection of fees constitute an express or implied undertaking by the Government to perform any activity in a certain manner.
 
 &emsp;(5)
 
@@ -204,7 +204,7 @@ Pub. L. 106–181, title VI, §604, Apr. 5, 2000, 114 Stat. 152, provided that:
 
 Continued Effectiveness of Directives.—All orders, determinations, rules, regulations, permits, contracts, certificates, licenses, privileges, and financial assistance that—
 
-&emsp;"(1) have been issued, made, granted, or allowed to become effective by the President of the United States, the Secretary of Commerce, the Administrator of the National Oceanic and Atmospheric Administration, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred by this title \[amending this section, sections 883b and 883e of Title 33, Navigation and Navigable Waters, and section 1307 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under this section\]; and
+&emsp;"(1) have been issued, made, granted, or allowed to become effective by the President of the United States, the Secretary of Commerce, the Administrator of the National Oceanic and Atmospheric Administration, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred by thistitle \[amending this section, sections 883b and 883e of Title 33, Navigation and Navigable Waters, and section 1307 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under this section\]; and
 
 &emsp;"(2) are in effect on the date of transfer,
 

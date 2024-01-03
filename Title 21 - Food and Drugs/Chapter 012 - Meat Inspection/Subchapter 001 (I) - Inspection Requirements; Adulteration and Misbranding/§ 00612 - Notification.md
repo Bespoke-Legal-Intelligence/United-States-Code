@@ -18,5 +18,5 @@ A prior section 612, acts Mar. 4, 1907, ch. 2907, title I, §12, formerly 10th p
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 

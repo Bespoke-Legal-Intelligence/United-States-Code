@@ -32,7 +32,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (3) Credit reduced for tax-exempt bonds
 
-&emsp;The amount of the credit determined under subsection (a) with respect to any facility forany taxable year (determined after the application of paragraphs (1) and (2)) shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of 15 percent or a fraction—
+&emsp;The amount of the credit determined under subsection (a) with respect to any facility for any taxable year (determined after the application of paragraphs (1) and (2)) shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of 15 percent or a fraction—
 
 &emsp;&emsp;(A) the numerator of which is the sum, for the taxable year and all prior taxable years, of proceeds of an issue of any obligations the interest on which is exempt from tax under section 103 and which is used to provide financing for the qualified facility, and
 
@@ -104,7 +104,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of any taxpayer which fails to satisfy the requirement under subparagraph (A) with respect to the construction of any qualified facility or with respect to the alteration or repair of a facility in any year during the period described in subparagraph (A)(ii), such taxpayer shall be deemed to have satisfied such requirement under such subparagraph with respect to such facility for any year if, with respectto any laborer or mechanic who was paid wages at a rate below the rate described in such subparagraph for any period during such year, such taxpayer—
+&emsp;&emsp;&emsp;In the case of any taxpayer which fails to satisfy the requirement under subparagraph (A) with respect to the construction of any qualified facility or with respect to the alteration or repair of a facility in any year during the period described in subparagraph (A)(ii), such taxpayer shall be deemed to have satisfied such requirement under such subparagraph with respect to such facility for any year if, with respect to any laborer or mechanic who was paid wages at a rate below the rate described in such subparagraph for any period during such year, such taxpayer—
 
 &emsp;&emsp;&emsp;&emsp;(I) makes payment to such laborer or mechanic in an amount equal to the sum of—
 
@@ -182,7 +182,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (ii) Good faith effort
 
-&emsp;&emsp;&emsp;For purposes of clause (i), a taxpayer shall be deemed to have satisfied the requirements under this paragraph with respect to a qualified facility if such taxpayer has requested qualified apprenticesfrom a registered apprenticeship program, as defined in section 3131(e)(3)(B), and—
+&emsp;&emsp;&emsp;For purposes of clause (i), a taxpayer shall be deemed to have satisfied the requirements under this paragraph with respect to a qualified facility if such taxpayer has requested qualified apprentices from a registered apprenticeship program, as defined in section 3131(e)(3)(B), and—
 
 &emsp;&emsp;&emsp;&emsp;(I) such request has been denied, provided that such denial is not the result of a refusal by the taxpayer or any contractors or subcontractors engaged in the performance of construction, alteration, or repair work with respect to such qualified facility to comply with the established standards and requirements of the registered apprenticeship program, or
 
@@ -226,7 +226,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The requirement described in this clause is satisfied with respect to any qualified facility if the taxpayer certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that any steel, iron, or manufactured product which is a component of such facility (upon completion of construction) was produced in the United States (as determined under section <sup>2</sup> 661 of title 49, Code of Federal Regulations).
+&emsp;&emsp;&emsp;The requirement described in this clause is satisfied with respect to any qualifiedfacility if the taxpayer certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that any steel, iron, or manufactured product which is a component of such facility (upon completion of construction) was produced in the United States (as determined under section <sup>2</sup> 661 of title 49, Code of Federal Regulations).
 
 #### (ii) Steel and iron
 
@@ -318,7 +318,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (12) Regulations and guidance
 
-&emsp;The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+&emsp;The Secretary shall issue such regulations or other guidance as the Secretary determinesnecessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 
 #### (c) Resources
 
@@ -458,7 +458,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(iii) the hydroelectric project is operated so that the water surface elevation at any given location and time that would have occurred in the absence of the hydroelectric project is maintained, subject to any license requirements imposed under applicable law that change the water surface elevation for the purpose of improving environmental quality of the affected waterway.
 
-> &emsp;&emsp;The Secretary, in consultation with the Federal Energy Regulatory Commission, shallcertify if a hydroelectric project licensed at a nonhydroelectric dam meets the criteria in clause (iii). Nothing in this section shall affect the standards under which the Federal Energy Regulatory Commission issues licenses for and regulates hydropower projects under part I of the Federal Power Act.
+> &emsp;&emsp;The Secretary, in consultation with the Federal Energy Regulatory Commission, shall certify if a hydroelectric project licensed at a nonhydroelectric dam meets the criteria in clause (iii). Nothing in this section shall affect the standards under which the Federal Energy Regulatory Commission issues licenses for and regulates hydropower projects under part I of the Federal Power Act.
 
 #### (9) Indian coal
 
@@ -546,7 +546,7 @@ For purposes of this section:
 
 #### (B) Expansion of facility
 
-&emsp;&emsp;Such term shall include a new unit placed in service after the date of the enactment of this subparagraph in connection with a facility described in subparagraph (A), but only to the extent of the increased amount ofelectricity produced at the facility by reason of such new unit.
+&emsp;&emsp;Such term shall include a new unit placed in service after the date of the enactment of this subparagraph in connection with a facility described in subparagraph (A), but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
 
 #### (C) Credit eligibility
 
@@ -700,7 +700,7 @@ For purposes of this section—
 
 #### (C) Application of rules
 
-&emsp;&emsp;Rules similar to the rules of the subsection (b)(3) and paragraphs (1) through (5) of thissubsection shall apply for purposes of determining the amount of any increase under this paragraph.
+&emsp;&emsp;Rules similar to the rules of the subsection (b)(3) and paragraphs (1) through (5) of this subsection shall apply for purposes of determining the amount of any increase under this paragraph.
 
 #### (D) Special rule for steel industry fuel
 
@@ -744,7 +744,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "refined coal production facility" shall not include any facility the production from which is allowed as a credit under section 45K for the taxable year or any prior taxable year (or under section 29,<sup>3</sup> as in effect on the day before the date of enactment of the Energy Tax Incentives Act of 2005, for any prior taxable year).
+&emsp;&emsp;&emsp;The term "refined coal production facility" shall not include any facility the production from which is allowed as a credit under section 45K for the taxable year or any prior taxable year (or under section 29,<sup>3</sup> as in effect on the day before the dateof enactment of the Energy Tax Incentives Act of 2005, for any prior taxable year).
 
 #### (ii) Exception for steel industry coal
 
@@ -792,7 +792,7 @@ For purposes of this section—
 
 #### (ii) Form and effect of election
 
-&emsp;&emsp;&emsp;An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, oncemade, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).
+&emsp;&emsp;&emsp;An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).
 
 #### (B) Treatment of organizations and patrons
 
@@ -844,7 +844,7 @@ The date of the enactment of this clause and the date of the enactment of this p
 
 The Federal Power Act, referred to in subsec. (c)(8)(C), is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Act is classified generally to subchapter I (§791a et seq.) of chapter 12 of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
-The date of the enactment of this subparagraph and the date of the enactment of this paragraph, referred toin subsec. (d)(2)(B), (3)(B), (11), are the date of enactment of Pub. L. 110–343, which was approved Oct. 3, 2008.
+The date of the enactment of this subparagraph and the date of the enactment of this paragraph, referred to in subsec. (d)(2)(B), (3)(B), (11), are the date of enactment of Pub. L. 110–343, which was approved Oct. 3, 2008.
 
 Section 29, referred to in subsec. (e)(9)(B)(i), was redesignated section 45K of this title by Pub. L. 109–58, title XIII, §1322(a)(1), Aug. 8, 2005, 119 Stat. 1011.
 
@@ -892,7 +892,7 @@ Subsec. (d)(4). Pub. L. 117–169, §13101(c), substituted "and the construction
 
 &emsp;"(A) in the case of a facility using solar energy, is placed in service before January 1, 2006, or
 
-&emsp;"(B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2022"
+&emsp;"(B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2022".
 
 > Concluding provisions following former subpar. (B) were joined with the preceding paragraph to reflect the probable intent of Congress.
 
@@ -1014,7 +1014,7 @@ Subsec. (c)(1)(I). Pub. L. 110–343, §102(a), added subpar. (I).
 
 Subsec. (c)(7)(A). Pub. L. 110–343, §108(a)(1), reenacted heading without change and amended text generally. Prior to amendment, subpar. (A) defined "refined coal".
 
-Subsec. (c)(7)(A)(i). Pub. L. 110–343, §101(b)(1), amended subsec. (c)(7)(A)(i) as amended by Pub. L. 110–348, §108(a)(1), by inserting "and" at end of subcl. (II), substituting period for ", and" at end of subcl. (III), and striking out subcl. (IV) which read as follows: "is produced in such a manner as to result in an increase of at least 50 percent in the market value of the refined coal (excluding any increase caused by materials combined or added during the production process), as compared to the value of the feedstock coal, or".
+Subsec. (c)(7)(A)(i). Pub. L. 110–343, §101(b)(1), amended subsec. (c)(7)(A)(i) as amended by Pub. L. 110–348, §108(a)(1), by inserting "and" at end of subcl. (II), substituting period for ", and" at end of subcl. (III), andstriking out subcl. (IV) which read as follows: "is produced in such a manner as to result in an increase of at least 50 percent in the market value of the refined coal (excluding any increase caused by materials combined or added during the production process), as compared to the value of the feedstock coal, or".
 
 Subsec. (c)(7)(B). Pub. L. 110–343, §101(b)(2), inserted "at least 40 percent of the emissions of" after "nitrogen oxide and".
 
@@ -1178,7 +1178,7 @@ Pub. L. 117–169, title I, §13102(q), Aug. 16, 2022, 136 Stat. 1921, provided 
 
 "(1)
 
-In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section\[amending this section and sections 48, 50, and 7701 of this title\] shall apply to property placed in service after December 31, 2021.
+In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and sections 48, 50, and 7701 of this title\] shall apply to property placed in service after December 31, 2021.
 
 "(2)
 
@@ -1230,7 +1230,7 @@ Pub. L. 114–113, div. Q, title I, §187(c), Dec. 18, 2015, 129 Stat. 3074, pro
 
 Pub. L. 113–295, div. A, title I, §154(b), Dec. 19, 2014, 128 Stat. 4021, provided that: "The amendment made by this section \[amending this section\] shall apply to coal produced after December 31, 2013."
 
-Pub. L. 113–295, div. A, title I, §155(c), Dec. 19, 2014, 128 Stat. 4021, provided that: "The amendments made by this section \[amending this section and section 48 of this title\] shall take effect on January 1, 2014."
+Pub. L. 113–295, div. A, title I, §155(c), Dec. 19, 2014, 128 Stat. 4021, provided that: "The amendments made bythis section \[amending this section and section 48 of this title\] shall take effect on January 1, 2014."
 
 Pub. L. 113–295, div. A, title II, §210(h), Dec. 19, 2014, 128 Stat. 4032, provided that: "The amendments made by this section \[amending this section and sections 45K, 168, 907, 1012, and 6045 of this title and provisions set out as a note under section 9501 of this title\] shall take effect as if included in the provisions of the Energy Improvement and Extension Act of 2008 \[Pub. L. 110–343, div. B\] to which they relate."
 
@@ -1330,7 +1330,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 "(2)
 
-Certain biomass facilities.—With respect to any facility described in section 45(d)(3)(A)(ii) of the Internal Revenue Code of 1986, as added by subsection (b)(1), which is placed in service before the date of the enactment of this Act, the amendments made by this section shall apply to electricity produced and sold after December 31, 2004, in taxable years ending after such date.
+Certain biomass facilities.—With respect to any facility described in section 45(d)(3)(A)(ii) of the Internal Revenue Code of 1986, as added by subsection (b)(1), which is placed in service before the date of the enactment of this Act, the amendments made by this section shall apply to electricity produced and soldafter December 31, 2004, in taxable years ending after such date.
 
 "(3)
 
@@ -1361,6 +1361,8 @@ Section applicable to taxable years ending after Dec. 31, 1992, see section 1914
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2023</b>—Internal Revenue Notice 2023–51.
 
 2022–Internal Revenue Notice 2022–20.
 

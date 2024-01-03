@@ -22,7 +22,7 @@ Rights of Crime Victims.—A crime victim has the following rights:
 
 &emsp;(9) The right to be informed in a timely manner of any plea bargain or deferred prosecution agreement.
 
-&emsp;(10) The right to be informed of the rights under this section and the services described in section 503(c) of the Victims' Rights and Restitution Act of 1990 (42 U.S.C. 10607(c)) <sup>1</sup> and provided contact information for the Office ofthe Victims' Rights Ombudsman of the Department of Justice.
+&emsp;(10) The right to be informed of the rights under this section and the services described in section 503(c) of the Victims' Rights and Restitution Act of 1990 (42 U.S.C. 10607(c)) <sup>1</sup> and provided contact information for the Office of the Victims' Rights Ombudsman of the Department of Justice.
 
 (b)
 

@@ -86,7 +86,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 &emsp;&emsp;&emsp;(i) relate to the preparation or issuance of audit reports for issuers; and
 
-&emsp;&emsp;&emsp;(ii) are established or adopted by the Board under section 7213(a) of this title, or are promulgated as rules of the Commission.
+&emsp;&emsp;&emsp;(ii) are established or adopted by the Board under section 7213(a) of this title, orare promulgated as rules of the Commission.
 
 #### (11) Public accounting firm
 
@@ -102,7 +102,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 #### (13) Rules of the Board
 
-&emsp;The term "rules of the Board" means the bylaws and rules of the Board (as submitted to,and approved, modified, or amended by the Commission, in accordance with section 7217 of this title), and those stated policies, practices, and interpretations of the Board that the Commission, by rule, may deem to be rules of the Board, as necessary or appropriate in the public interest or for the protection of investors.
+&emsp;The term "rules of the Board" means the bylaws and rules of the Board (as submitted to, and approved, modified, or amended by the Commission, in accordance with section 7217 of this title), and those stated policies, practices, and interpretations of the Board that the Commission, by rule, may deem to be rules of the Board, as necessary or appropriate in the public interest or for the protection of investors.
 
 #### (14) Security
 

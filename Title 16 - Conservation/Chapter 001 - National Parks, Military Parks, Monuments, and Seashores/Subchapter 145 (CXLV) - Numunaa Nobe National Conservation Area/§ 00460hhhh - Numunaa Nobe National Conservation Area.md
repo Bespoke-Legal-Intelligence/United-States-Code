@@ -110,7 +110,7 @@ Except as needed for administrative purposes, planned military activities author
 
 #### (ii) Consultation required
 
-&emsp;&emsp;Except in an emergency, the Secretary shall consult with the appropriate Stateagency and notify the public before taking any action under clause (i).
+&emsp;&emsp;Except in an emergency, the Secretary shall consult with the appropriate State agency and notify the public before taking any action under clause (i).
 
 #### (8) Grazing
 

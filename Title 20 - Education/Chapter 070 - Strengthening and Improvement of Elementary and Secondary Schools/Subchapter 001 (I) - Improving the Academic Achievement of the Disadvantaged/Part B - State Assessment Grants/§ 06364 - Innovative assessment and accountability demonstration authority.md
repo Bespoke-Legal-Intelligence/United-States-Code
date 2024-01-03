@@ -158,7 +158,7 @@ Upon completion and publication of the report described in subsection (c), the S
 
 &emsp;&emsp;(D) If the innovative assessment system will initially be administered in a subset of local educational agencies—
 
-&emsp;&emsp;&emsp;(i) a description of the local educational agencies within the State educationalagency that will participate, including what criteria the State has for approving any additional local educational agencies to participate during the demonstration authority period;
+&emsp;&emsp;&emsp;(i) a description of the local educational agencies within the State educational agency that will participate, including what criteria the State has for approving any additional local educational agencies to participate during the demonstration authority period;
 
 &emsp;&emsp;&emsp;(ii) assurances from such local educational agencies that such agencies will comply with the requirements of this subsection;
 
@@ -218,7 +218,7 @@ The Secretary shall withdraw the authorization for demonstration authority provi
 
 &emsp;(2) includes all students attending schools participating in the innovative assessment system in a State that has demonstration authority, including each of the subgroups of students, as defined under section 6311(c)(2) of this title;
 
-&emsp;(3) provides an unbiased, rational, and consistent determination of progress toward the goals described under section 6311(c)(4)(A)(i) of this title for all students, which are comparable to measures of academic achievement under section 6311(c)(4)(B)(i) of this titleacross the State in which the local educational agencies are located;
+&emsp;(3) provides an unbiased, rational, and consistent determination of progress toward the goals described under section 6311(c)(4)(A)(i) of this title for all students, which are comparable to measures of academic achievement under section 6311(c)(4)(B)(i) of this title across the State in which the local educational agencies are located;
 
 &emsp;(4) presents a high-quality plan to transition to full statewide use of the innovative assessment system by the end of the State's approved demonstration authority period or 2-year extension, if the innovative assessment system will initially be administered in a subset of local educational agencies; and
 
@@ -302,7 +302,7 @@ A consortium of States may apply to participate in the program of demonstration 
 
 #### Prior Provisions
 
-A prior section 6364, Pub. L. 89–10, title I, §1204, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1546, related to award of targeted assistance grants, prior to the general amendment of this part by Pub. L. 114–95.
+A prior section 6364, Pub. L. 89–10, title I, §1204, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat.1546, related to award of targeted assistance grants, prior to the general amendment of this part by Pub. L. 114–95.
 
 Another prior section 6364, Pub. L. 89–10, title I, §1204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3580; amended Pub. L. 104–134, title I, §101(b) \[title II, §2755(a)\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–151; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §306(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–260; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(h)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–330, related to uses of funds in carrying out an Even Start program, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
@@ -372,7 +372,7 @@ Section 6381j, Pub. L. 89–10, title I, §1241, as added Pub. L. 107–110, tit
 
 Section 6381k, Pub. L. 89–10, title I, §1242, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1567, related to construction of provisions.
 
-Section 6383, Pub. L. 89–10, title I, §1251, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1567, related to improvement of literacy through school libraries.
+Section 6383, Pub. L. 89–10, title I, §1251, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1567,related to improvement of literacy through school libraries.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

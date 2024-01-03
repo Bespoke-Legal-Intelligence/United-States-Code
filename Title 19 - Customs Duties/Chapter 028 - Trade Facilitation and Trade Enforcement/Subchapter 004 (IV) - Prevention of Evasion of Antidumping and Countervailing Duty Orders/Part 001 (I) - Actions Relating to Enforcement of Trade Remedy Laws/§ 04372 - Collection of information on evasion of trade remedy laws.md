@@ -34,7 +34,7 @@ To determine whether covered merchandise is being entered into the customs terri
 
 #### (C) Application
 
-&emsp;&emsp;An inference described in subparagraph (A) may be used under that subparagraph withrespect to a person described in clause (ii) or (iii) of subparagraph (B) without regard to whether another person involved in the same transaction or transactions under examination has provided the information sought by the Secretary, such as import or export documentation.
+&emsp;&emsp;An inference described in subparagraph (A) may be used under that subparagraph with respect to a person described in clause (ii) or (iii) of subparagraph (B) without regard to whether another person involved in the same transaction or transactions under examination has provided the information sought by the Secretary, such as import or export documentation.
 
 #### (2) Adverse inference described
 

@@ -52,7 +52,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (D) Reviewability of imposition of a penalty
 
-&emsp;&emsp;The Secretary's determination or order imposing a penalty under paragraph (1) shallnot be subject to review, except as provided in paragraph (4).
+&emsp;&emsp;The Secretary's determination or order imposing a penalty under paragraph (1) shall not be subject to review, except as provided in paragraph (4).
 
 #### (4) Judicial review of agency determination
 

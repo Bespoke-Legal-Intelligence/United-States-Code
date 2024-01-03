@@ -220,7 +220,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) a State that demonstrates a commitment to ensuring the creation of a Statewide system to address the issues of early intervention and financial support for eligible students to enter and remain in college; and
 
-&emsp;&emsp;&emsp;(iii) at the discretion of the philanthropic organization described in clause (i), additional partners, including other non-profit organizations, government entities (including local municipalities, school districts, cities, and counties), institutions of higher education, and other public or private programs that provide mentoring or outreach programs; and
+&emsp;&emsp;&emsp;(iii) at the discretion of the philanthropic organization described in clause\(i), additional partners, including other non-profit organizations, government entities (including local municipalities, school districts, cities, and counties), institutions of higher education, and other public or private programs that provide mentoring or outreach programs; and
 
 &emsp;&emsp;(B) conducts activities to assist students with entering and remaining in college, which may include—
 

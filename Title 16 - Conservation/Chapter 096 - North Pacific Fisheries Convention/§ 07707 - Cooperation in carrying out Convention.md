@@ -6,7 +6,7 @@ The Secretary may cooperate with any Federal agency, any public or private insti
 
 #### (b) Scientific and other programs; facilities and personnel
 
-Each Federal agency may, upon the request of the Secretary, cooperate in the conduct of scientific and other programs and furnish facilities and personnel for the purpose of assisting theCommission in carrying out its duties under the North Pacific Fisheries Convention.
+Each Federal agency may, upon the request of the Secretary, cooperate in the conduct of scientific and other programs and furnish facilities and personnel for the purpose of assisting the Commission in carrying out its duties under the North Pacific Fisheries Convention.
 
 #### (c) Sanctioned fishing operations and biological experiments
 

@@ -18,7 +18,7 @@ The following-named offices, bureaus, divisions, and branches of the public serv
 
 8\. Women's Bureau.
 
-(Mar. 4, 1913, ch. 141, §3, 37 Stat. 737; June 5, 1920, ch. 248, §1, 41 Stat. 987; June 6, 1933, ch. 49, §1, 48 Stat. 113; Ex. Ord. No. 6166, §14, June 10, 1933; June 30, 1936, ch. 881, §4, 49 Stat. 2038; June 25, 1938, ch. 676, §4, 52 Stat. 1061; 1939 Reorg. Plan No. I, §201, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1940 Reorg. Plan No. V, §1, eff. June 4, 1940, 5 F.R. 2223, 54 Stat. 1238; Ex. Ord. No. 9247, Sept. 17, 1942, 7 F.R. 7379; Ex. Ord. No. 9617, Sept. 19, 1945, 10 F.R. 11929; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; June 23,1947, ch. 120, title II, §202, 61 Stat. 153; 1949 Reorg. Plan No. 2, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065; 1950 Reorg. Plan No. 19, §§1, 2, eff. May 24, 1952, 15 F.R. 3178, 64 Stat. 1271, 1272.)
+(Mar. 4, 1913, ch. 141, §3, 37 Stat. 737; June 5, 1920, ch. 248, §1, 41 Stat. 987; June 6, 1933, ch. 49, §1, 48 Stat. 113; Ex. Ord. No. 6166, §14, June 10, 1933; June 30, 1936, ch. 881, §4, 49 Stat. 2038; June 25, 1938, ch. 676, §4, 52 Stat. 1061; 1939 Reorg. Plan No. I, §201, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1940 Reorg. Plan No. V, §1, eff. June 4, 1940, 5 F.R. 2223, 54 Stat. 1238; Ex. Ord. No. 9247, Sept. 17, 1942, 7 F.R. 7379; Ex. Ord. No. 9617, Sept. 19, 1945, 10 F.R. 11929; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; June 23, 1947, ch. 120, title II, §202, 61 Stat. 153; 1949 Reorg. Plan No. 2, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065; 1950 Reorg. Plan No. 19, §§1, 2, eff. May 24, 1952, 15 F.R. 3178, 64 Stat. 1271, 1272.)
 
 #### <b>Editorial Notes</b>
 
@@ -32,7 +32,7 @@ Section was formerly classified to section 616 of Title 5 prior to the general r
 
 For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6, of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Bureau of Employees' Compensation transferred to Department of Labor from Federal Security Agency by Reorg. Plan No. 19 of 1950, §1, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662, the subject matter of which is covered by section 8101 et seq. of Title 5. Subsequently, Bureau of Compensation absorbed by Employment Standards Administration in Department of Labor.
+Bureau of Employees' Compensation transferred to Department of Labor from Federal Security Agency by Reorg. Plan No. 19 of 1950, §1, which was repealed byPub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662, the subject matter of which is covered by section 8101 et seq. of Title 5. Subsequently, Bureau of Compensation absorbed by Employment Standards Administration in Department of Labor.
 
 Bureau of Labor Standards established in Department of Labor by departmental order in 1934, and its functions absorbed by Occupational Safety and Health Administration in May 1971.
 

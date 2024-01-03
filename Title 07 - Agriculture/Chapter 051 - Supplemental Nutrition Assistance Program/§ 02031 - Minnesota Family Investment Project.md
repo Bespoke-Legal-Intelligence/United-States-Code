@@ -2,9 +2,9 @@
 
 #### (a) In general
 
-(1) Subject to paragraph (2), upon written application of the State of Minnesota that complies with this section and sections 6 to 11, 13, 130, and 132 of article 5 of 282 of the 1989 Laws of Minnesota, and after approval of such application by the Secretary in accordance with subsections (b) and (d), the State may implement a family investment demonstration project (hereinafter in this section referred to as the "Project") in parts of the State to determine whether the Project more effectively helps families to become self-supporting and enhances their ability to care for their children than do the supplemental nutrition assistance program and programs under parts A and F <sup>1</sup> of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]. The State may provide cash payments under the Project, subject to paragraph (2), that replace assistance otherwise available under the supplemental nutrition assistance program and under part A of title IV of the Social Security Act.
+(1) Subject to paragraph (2), upon written application of the State of Minnesota that complies with this section and sections 6 to 11, 13, 130, and 132 of article 5 of 282 of the 1989 Laws ofMinnesota, and after approval of such application by the Secretary in accordance with subsections (b) and (d), the State may implement a family investment demonstration project (hereinafter in this section referred to as the "Project") in parts of the State to determine whether the Project more effectively helps families to become self-supporting and enhances their ability to care for their children than do the supplemental nutrition assistance program and programs under parts A and F <sup>1</sup> of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]. The State may provide cash payments under the Project, subject to paragraph (2), that replace assistance otherwise available under the supplemental nutrition assistance program and under part A of title IV of the Social Security Act.
 
-(2) The Project may be implemented only in accordance with this section and only if the Secretary of Health and Human Services approvesan application submitted by the State permitting the State to include in the Project families who are eligible to receive benefits under part A of title IV of the Social Security Act.
+(2) The Project may be implemented only in accordance with this section and only if the Secretary of Health and Human Services approves an application submitted by the State permitting the State to include in the Project families who are eligible to receive benefits under part A of title IV of the Social Security Act.
 
 #### (b) Required terms and conditions of Project
 
@@ -44,7 +44,7 @@ The application submitted by the State under subsection (a) shall provide an ass
 
 &emsp;(E)(i) Individuals ineligible for the Project who are members of a household including a participating family shall have their eligibility for the supplemental nutrition assistance program determined and have their benefits calculated and issued following the standards established under the supplemental nutrition assistance program, except as provided differently in this subparagraph.
 
-&emsp;(ii) The State agency shall determine such individuals' eligibility for benefits under the supplemental nutrition assistance program and the amount of such benefits without regard to the participating family.
+&emsp;(ii) The State agency shall determine such individuals' eligibility for benefits under thesupplemental nutrition assistance program and the amount of such benefits without regard to the participating family.
 
 &emsp;(iii) In computing such individuals' income for purposes of determining eligibility (under section 2014(c)(1) of this title) and benefits, the State agency shall apply the maximum excess shelter expense deduction specified under section 2014(e) of this title.
 
@@ -86,9 +86,9 @@ The application submitted by the State under subsection (a) shall provide an ass
 
 &emsp;(10)(A) The State shall provide each family or family member whose participation in the Project ends and each family whose participation is terminated with notice of the existence of the supplemental nutrition assistance program and the person or agency to contact for more information.
 
-&emsp;(B)(i) Following the standards specified in subparagraph (C), the State shall ensure that benefits under the supplemental nutrition assistance program are provided to participating families in case the Project is terminated or to participating families or family members that are determined ineligible for the Project because of income, resources, or change in household composition, if such families or individuals are determined eligible for the supplemental nutrition assistance program. Benefits shall be issued to eligible families and individuals described in this clause retroactive to the date of termination from the Project; and
+&emsp;(B)(i) Following the standards specified in subparagraph (C), the State shall ensure that benefits under the supplemental nutrition assistance program are provided to participating families in case the Project is terminated or to participating families or family members that are determined ineligible for the Project because of income, resources, or change in household composition, if such families or individuals are determined eligible for the supplemental nutrition assistance program. Benefits shall be issued to eligible families and individuals described in this clause retroactiveto the date of termination from the Project; and
 
-&emsp;(ii) If sections 256.031 through 256.036 of the Minnesota Statutes, 1989 Supplement, or Minnesota Laws 1989, chapter 282, article 5, section 130, are amended to reduce or eliminate benefits provided under those sections or restrict the rights of Project applicants or participating families, the State shall exclude from the Project applicants or participating families or individuals affected by such amendments and follow the standards specified in subparagraph (C), except that the State shall continue to pay from State funds an amount equal to the food assistance portion to such families and individuals until the State determines eligibility or ineligibility for the supplemental nutrition assistance program or the family or individual has failed to supply the needed additional information within ten days. Food benefits shall be provided to families and individuals excluded from the Projectunder this clause who are determined eligible for the supplemental nutrition assistance program retroactive to the date of the determination of eligibility. The Secretary shall pay to the State the value of the benefits for which such families and individuals would have been eligible in the absence of food assistance payments under this clause from the date of termination from the Project to the date benefits are provided.
+&emsp;(ii) If sections 256.031 through 256.036 of the Minnesota Statutes, 1989 Supplement, or Minnesota Laws 1989, chapter 282, article 5, section 130, are amended to reduce or eliminate benefits provided under those sections or restrict the rights of Project applicants or participating families, the State shall exclude from the Project applicants or participating families or individuals affected by such amendments and follow the standards specified in subparagraph (C), except that the State shall continue to pay from State funds an amount equal to the food assistance portion to such families and individuals until the State determines eligibility or ineligibility for the supplemental nutrition assistance program or the family or individual has failed to supply the needed additional information within ten days. Food benefits shall be provided to families and individuals excluded from the Project under this clause who are determined eligible for the supplemental nutrition assistance program retroactive to the date of the determination of eligibility. The Secretary shall pay to the State the value of the benefits for which such families and individuals would have been eligible in the absence of food assistance payments under this clause from the date of termination from the Project to the date benefits are provided.
 
 &emsp;(C) Each family whose Project participation is terminated shall be screened for potential eligibility for the supplemental nutrition assistance program and if the screening indicates potential eligibility, the family or family member shall be given a specific request to supply all additional information needed to determine such eligibility and assistance in completing a signed supplemental nutrition assistance program application including provision of any relevant information obtained by the State for purpose of the Project. If the family or family member supplies such additional information within ten days after receiving the request, the State shall, within five days after the State receives such information, determine whether the family or family member is eligible for the supplemental nutrition assistance program. Each family or family member who is determined through the screening or otherwise to be ineligible for the supplemental nutrition assistance program shall be notified of that determination.
 
@@ -130,7 +130,7 @@ The Project shall be subject to the following additional terms and conditions:
 
 &emsp;(2) The State shall not require any parent of a child under six years of age in a participating family with only one parent to be employed or participate in education or employment and training services for more than twenty hours a week.
 
-&emsp;(3) For any period during which an individual required to participate in education, employment, or training requirements fails to comply without good cause with a requirement imposed by the State under paragraph (1), the amount of assistance to the family under the Project may be reduced by an amount not more than 10 percent of the assistance the family would be eligible for with no income other than that from the Project.
+&emsp;(3) For any period during which an individual required to participate in education,employment, or training requirements fails to comply without good cause with a requirement imposed by the State under paragraph (1), the amount of assistance to the family under the Project may be reduced by an amount not more than 10 percent of the assistance the family would be eligible for with no income other than that from the Project.
 
 #### (d) Funding
 
@@ -192,7 +192,7 @@ Participating families shall be excluded from any sample taken for purposes of m
 
 For purposes of this section, the following definitions apply:
 
-&emsp;(1) The term "family" means the following individuals who live together: a minor child ora group of minor children related to each other as siblings, half siblings, stepsiblings, or adopted siblings, together with their natural or adoptive parents, or their caregiver. Family also includes a pregnant woman in the third trimester of pregnancy with no children.
+&emsp;(1) The term "family" means the following individuals who live together: a minor child or a group of minor children related to each other as siblings, half siblings, stepsiblings, or adopted siblings, together with their natural or adoptive parents, or their caregiver. Family also includes a pregnant woman in the third trimester of pregnancy with no children.
 
 &emsp;(2) The term "contract" means a plan to help a family pursue self-sufficiency, based on the State's assessment of the family's needs and abilities and developed with a parental caregiver.
 
@@ -254,7 +254,7 @@ Subsec. (h). Pub. L. 102–237, §941(11)(C), substituted "subsection (b)(12)" f
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set outas an Effective Date note under section 8701 of this title.
 
 Amendment by sections 4001(b), 4002(a)(11), and 4115(b)(15) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
@@ -270,7 +270,7 @@ Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (f)(2) of this section relating to submittingreports on periodic audits to certain committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 2 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (f)(2) of this section relating to submitting reports on periodic audits to certain committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 2 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

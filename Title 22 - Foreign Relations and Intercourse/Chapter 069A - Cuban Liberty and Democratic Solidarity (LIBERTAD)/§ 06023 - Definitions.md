@@ -84,7 +84,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;(A) As used in subchapter III, and except as provided in subparagraph (B), a person "traffics" in confiscated property if that person knowingly and intentionally—
 
-&emsp;&emsp;(i) sells, transfers, distributes, dispenses, brokers, manages, or otherwise disposes of confiscated property, or purchases, leases,receives, possesses, obtains control of, manages, uses, or otherwise acquires or holds an interest in confiscated property,
+&emsp;&emsp;(i) sells, transfers, distributes, dispenses, brokers, manages, or otherwise disposes of confiscated property, or purchases, leases, receives, possesses, obtains control of, manages, uses, or otherwise acquires or holds an interest in confiscated property,
 
 &emsp;&emsp;(ii) engages in a commercial activity using or otherwise benefiting from confiscated property, or
 
@@ -128,7 +128,7 @@ The Cuban Democracy Act of 1992, referred to in par. (7)(A), is title XVII of di
 
 Section 902(c) of the Food Security Act of 1985, referred to in par. (7)(B), is section 902(c) of Pub. L. 99–198, title IX, Dec. 23, 1985, 99 Stat. 1443, which was set out as a note under former section 1446g of Title 7, Agriculture.
 
-The International Claims Settlement Act of 1949, referred to in par. (12)(B)(i), is act Mar. 10, 1950, ch. 54, 64 Stat. 12. Title V of the Act is classified generally to subchapter V (§1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+The International Claims Settlement Act of 1949, referred to in par. (12)(B)(i), is act Mar. 10, 1950, ch. 54, 64Stat. 12. Title V of the Act is classified generally to subchapter V (§1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -42,7 +42,7 @@ In carrying out the duties of the Secretary under this chapter, the Secretary ma
 
 &emsp;(12) conduct environmental reviews and incur necessary expenses to evaluate and monitor the environmental impact of economic development assistance provided and proposed to be provided under this chapter, including expenses associated with the representation and defense of the actions of the Secretary relating to the environmental impact of the assistance, using any funds made available to carry out section 3147 of this title;
 
-&emsp;(13) sue and be sued in any court of record of a State having general jurisdiction or in anyUnited States district court, except that no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Secretary or the property of the Secretary; and
+&emsp;(13) sue and be sued in any court of record of a State having general jurisdiction or in any United States district court, except that no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Secretary or the property of the Secretary; and
 
 &emsp;(14) establish such rules, regulations, and procedures as the Secretary considers appropriate for carrying out this chapter.
 

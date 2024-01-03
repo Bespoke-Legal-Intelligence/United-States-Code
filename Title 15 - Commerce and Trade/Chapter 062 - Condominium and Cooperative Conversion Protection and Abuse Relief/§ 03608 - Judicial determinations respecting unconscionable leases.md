@@ -20,7 +20,7 @@ Cooperative and condominium unit owners through the unit owners' association may
 
 #### (b) Presumption of unconscionability; rebuttal
 
-A rebuttal presumption of unconscionability exists if it is established that, in addition to the characteristics set forth in subsection (a) of this section, the lease—
+A rebuttal presumption of unconscionability exists if it is established that, in addition to thecharacteristics set forth in subsection (a) of this section, the lease—
 
 &emsp;(1) creates a lien subjecting any unit to foreclosure for failure to make payments;
 
@@ -46,7 +46,7 @@ Whenever it is claimed, or appears to the court, that a lease or any portion the
 
 #### (d) Remedial relief; matters considered; attorneys' fees
 
-Upon finding that any lease, or portion thereof, is unconscionable, the court shall exercise its authority to grant remedial relief as necessary to avoid an unconscionable result, taking into consideration the economic value of the lease. Such relief may include, but shall not be limited to rescission, reformation, restitution, the award of damages and reasonable attorney fees and court costs. A defendant may recover reasonable attorneys' fees if the court determinesthat the cause of action filed by the plantiff <sup>1</sup> is frivolous, malicious, or lacking in substantial merit.
+Upon finding that any lease, or portion thereof, is unconscionable, the court shall exercise its authority to grant remedial relief as necessary to avoid an unconscionable result, taking into consideration the economic value of the lease. Such relief may include, but shall not be limited to rescission, reformation, restitution, the award of damages and reasonable attorney fees and court costs. A defendant may recover reasonable attorneys' fees if the court determines that the cause of action filed by the plantiff <sup>1</sup> is frivolous, malicious, or lacking in substantial merit.
 
 #### (e) Actions allowed after termination of special developer control
 

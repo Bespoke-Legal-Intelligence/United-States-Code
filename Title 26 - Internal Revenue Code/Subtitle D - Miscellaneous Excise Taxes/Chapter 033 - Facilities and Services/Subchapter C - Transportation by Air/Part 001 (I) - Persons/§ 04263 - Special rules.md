@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 87–508 inserted "by air" after "transportation of any per
 
 Subsec. (e). Pub. L. 87–508 substituted "subchapter" for "part".
 
-Subsec. (f). Pub. L. 87–508 substituted "subchapter" for "part", struck out par. (1) designation for provision respecting transportation outside the northern portion of the Western Hemisphere and par. (2) prohibiting consideration as a stop at a port within the United States a stop at an intermediate port at which vessel is not authorized to discharge and take on passengers.
+Subsec. (f). Pub. L. 87–508 substituted "subchapter" for "part", struck out par. (1) designation for provisionrespecting transportation outside the northern portion of the Western Hemisphere and par. (2) prohibiting consideration as a stop at a port within the United States a stop at an intermediate port at which vessel is not authorized to discharge and take on passengers.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

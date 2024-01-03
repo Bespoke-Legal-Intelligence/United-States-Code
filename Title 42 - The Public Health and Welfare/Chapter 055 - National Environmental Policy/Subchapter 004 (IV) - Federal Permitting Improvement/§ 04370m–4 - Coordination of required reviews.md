@@ -4,7 +4,7 @@
 
 To integrate environmental reviews and authorizations, each agency shall, to the maximum extent practicable—
 
-&emsp;(1) carry out the obligations of the agency with respect to a covered project under any other applicable law concurrently, and in conjunction with, other environmental reviews and authorizations being conducted by other cooperating or participating agencies, including environmental reviews and authorizations required under NEPA, unless the agency determines that doing so would impair the ability of the agency to carry out the statutory obligations of the agency;
+&emsp;(1) carry out the obligations of the agency with respect to a covered project under anyother applicable law concurrently, and in conjunction with, other environmental reviews and authorizations being conducted by other cooperating or participating agencies, including environmental reviews and authorizations required under NEPA, unless the agency determines that doing so would impair the ability of the agency to carry out the statutory obligations of the agency;
 
 &emsp;(2) formulate and implement administrative, policy, and procedural mechanisms to enable the agency to ensure completion of the environmental review process in a timely, coordinated, and environmentally responsible manner; and
 
@@ -72,7 +72,7 @@ To integrate environmental reviews and authorizations, each agency shall, to the
 
 #### (A) In general
 
-&emsp;&emsp;The lead agency shall determine, in collaboration with each cooperating agency at appropriate times during the environmental review, the methodologies to be used and the level of detail required in the analysis of each alternative for a covered project.
+&emsp;&emsp;The lead agency shall determine, in collaboration with each cooperating agency atappropriate times during the environmental review, the methodologies to be used and the level of detail required in the analysis of each alternative for a covered project.
 
 #### (B) Environmental review
 

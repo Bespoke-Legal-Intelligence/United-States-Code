@@ -24,7 +24,7 @@
 
 #### (ii) Selection criteria
 
-&emsp;&emsp;&emsp;In making each appointment under clause (i), the President shall select a Commissioner from among individuals who are knowledgeable or experienced concerning fisheries resources in the North Pacific Ocean.
+&emsp;&emsp;&emsp;In making each appointment under clause (i), the President shall select aCommissioner from among individuals who are knowledgeable or experienced concerning fisheries resources in the North Pacific Ocean.
 
 #### (B) North Pacific Fishery Management Council
 

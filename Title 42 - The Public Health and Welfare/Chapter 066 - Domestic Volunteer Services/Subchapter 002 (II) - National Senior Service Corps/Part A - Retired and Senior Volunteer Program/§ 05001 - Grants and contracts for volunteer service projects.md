@@ -2,7 +2,7 @@
 
 #### (a) Approval of projects; rules and regulations
 
-In order to help retired individuals and working older individuals to share their experiences, abilities, and skills to improve their communities and themselves through service in their communities, the Director is authorized to make grants to State agencies (established or designated pursuant to section 3025(a)(1) of thistitle) or grants to or contracts with other public and nonprofit private agencies and organizations to pay part or all of the costs for the development or operation, or both, of volunteer service projects under this section, if the Director determines, in accordance with regulations the Director shall prescribe, that—
+In order to help retired individuals and working older individuals to share their experiences, abilities, and skills to improve their communities and themselves through service in their communities, the Director is authorized to make grants to State agencies (established or designated pursuant to section 3025(a)(1) of this title) or grants to or contracts with other public and nonprofit private agencies and organizations to pay part or all of the costs for the development or operation, or both, of volunteer service projects under this section, if the Director determines, in accordance with regulations the Director shall prescribe, that—
 
 &emsp;(1) volunteers will not be reimbursed for other than transportation, meals, and other out-of-pocket expenses incident to the provision of services under this part;
 
@@ -14,7 +14,7 @@ In order to help retired individuals and working older individuals to share thei
 
 #### (b) Proportion of required local contribution; exceptions
 
-In no event shall the required proportion of the local contribution (including in-kind contributions) for a grant or contract made under this section be more than 10 per centum in the first year of assistance under this section, 20 per centum in the second such year, and 30 per centum in any subsequent such years: <i>Provided, however</i>, That the Director may make exceptions in cases of demonstrated need, determined (in accordance with regulations which the Director shall prescribe) on the basis of the financial capability of a particular recipient of assistance under this section, to permit a lesser local contribution proportion than any required contribution proportion established by the Director in generally applicable regulations.
+In no event shall the required proportion of the local contribution (including in-kind contributions) for a grant or contract made under this section be more than 10 per centum in the first year of assistance under this section, 20 per centum in the second such year, and 30 per centum in any subsequent such years: <i>Provided, however</i>, That the Director may make exceptions in cases of demonstrated need, determined (in accordance with regulations which the Director shall prescribe) on the basis of the financial capability of a particular recipient of assistanceunder this section, to permit a lesser local contribution proportion than any required contribution proportion established by the Director in generally applicable regulations.
 
 #### (c) Conditions upon award of grant or contract
 
@@ -82,7 +82,7 @@ Notwithstanding any other provision of law, volunteer service under this part sh
 
 #### (g) Performance measures, outcomes, and other criteria
 
-(1) The Corporation shall, with particular attention to the different needs of rural and urban programs assisted under this section, develop performance measures, outcomes, and other criteria for programs assisted under this section that—
+(1) The Corporation shall, with particular attention to the different needs of rural and urbanprograms assisted under this section, develop performance measures, outcomes, and other criteria for programs assisted under this section that—
 
 &emsp;(A) include an assessment of the strengths and areas in need of improvement of a program assisted under this section;
 

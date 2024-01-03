@@ -6,7 +6,7 @@ As used in this subchapter—
 
 &emsp;(1) the term "area studies" means a program of comprehensive study of the aspects of a society or societies, including study of its history, culture, economy, politics, international relations and languages;
 
-&emsp;(2) the term "comprehensive foreign language and area or international studies center" means an administrative unit of a university that contributes significantly to the national interest in advanced research and scholarship, employs a critical mass of scholars in diverse disciplines related to a geographic concentration, offers intensive language training in languages of its area specialization, maintains important library collections related to the area, and makes training available in language and area studies to a graduate, postgraduate, and undergraduate clientele; and <sup>1</sup>
+&emsp;(2) the term "comprehensive foreign language and area or international studies center" means an administrative unit of a university that contributes significantly to the national interest in advanced research and scholarship, employs a critical mass of scholars in diverse disciplines related to a geographic concentration, offers intensive language trainingin languages of its area specialization, maintains important library collections related to the area, and makes training available in language and area studies to a graduate, postgraduate, and undergraduate clientele; and <sup>1</sup>
 
 &emsp;(3) the term "educational programs abroad" means programs of study, internships, or service learning outside the United States which are part of a foreign language or other international curriculum at the undergraduate or graduate education levels;
 
@@ -42,7 +42,7 @@ Another prior section 1132, Pub. L. 89–329, title VI, §622, Nov. 8, 1965, 79 
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–39 made technical correction to directory language of Pub. L. 110–315, §621. See 2008 Amendment notes below.
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–315, §621(2), (3), as amended by Pub. L. 111–39, redesignated par. (5) as (2) and substituted "comprehensive foreign language andarea or international studies center" for "comprehensive language and area center". Former par. (2) redesignated (7).
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–315, §621(2), (3), as amended by Pub. L. 111–39, redesignated par. (5) as (2) and substituted "comprehensive foreign language and area or international studies center" for "comprehensive language and area center". Former par. (2) redesignated (7).
 
 Subsec. (a)(3). Pub. L. 110–315, §621(2), (4), as amended by Pub. L. 111–39, redesignated par. (9) as (3) and substituted semicolon for period at end. Former par. (3) redesignated (4).
 
@@ -62,7 +62,7 @@ Subsec. (a)(9). Pub. L. 110–315, §621(7), as amended by Pub. L. 111–39, add
 
 Pub. L. 110–315, §621(2), as amended by Pub. L. 111–39, redesignated par. (9) as (3).
 
-Subsec. (a)(10). Pub. L. 110–315, §621(2), (8), as amended by Pub. L. 111–39, redesignated par. (6) as (10) and substituted "undergraduate foreign language and area or international studies center" for "undergraduate language and area center" and a period for the semicolon at end.
+Subsec. (a)(10). Pub. L. 110–315, §621(2), (8), as amended by Pub. L. 111–39, redesignated par. (6) as (10) and substituted "undergraduate foreign language and area or international studies center" for "undergraduatelanguage and area center" and a period for the semicolon at end.
 
 <b>1998</b>—Subsec. (a)(8). Pub. L. 105–244, §102(b)(8), substituted "section 1001" for "section 1141(a)" in two places and "of section 1001" for "of 1141(a)".
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) in the case of a defined benefit plan which is a single-employer plan (other than a CSEC plan), the employer makes contributions to or under the plan for the plan year which, in the aggregate, are not less than the minimum required contribution determined under section 1083 of this title for the plan for the plan year,
 
-&emsp;&emsp;(B) in the case of a money purchase plan which is a single-employer plan, the employer makes contributions to or under theplan for the plan year which are required under the terms of the plan,
+&emsp;&emsp;(B) in the case of a money purchase plan which is a single-employer plan, the employer makes contributions to or under the plan for the plan year which are required under the terms of the plan,
 
 &emsp;&emsp;(C) in the case of a multiemployer plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under section 1084 of this title as of the end of the plan year, and
 
@@ -74,7 +74,7 @@
 
 #### (3) Waived funding deficiency
 
-&emsp;For purposes of this part, the term "waived funding deficiency" means the portion of the minimum funding standard under subsection (a) (determined without regard to the waiver) for a plan year waived by the Secretary of the Treasury and not satisfied by employer contributions.
+&emsp;For purposes of this part, the term "waived funding deficiency" means the portion of the minimum funding standard under subsection\(a) (determined without regard to the waiver) for a plan year waived by the Secretary of the Treasury and not satisfied by employer contributions.
 
 #### (4) Security for waivers for single-employer plans, consultations
 
@@ -82,7 +82,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (C), the Secretary of the Treasury may require an employer maintaining a defined benefit plan which is a single-employer plan (within the meaning of section 1301(a)(15) of this title) to provide security to such plan as acondition for granting or modifying a waiver under paragraph (1) or for granting an extension under section 1085a(d) of this title.
+&emsp;&emsp;&emsp;Except as provided in subparagraph (C), the Secretary of the Treasury may require an employer maintaining a defined benefit plan which is a single-employer plan (within the meaning of section 1301(a)(15) of this title) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1) or for granting an extension under section 1085a(d) of this title.
 
 #### (ii) Special rules
 
@@ -156,7 +156,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of the Treasury shall, before granting a waiver under this subsection, require each applicant to provide evidencesatisfactory to such Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 1301(a)(21) of this title). Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under subchapter III and for benefit liabilities.
+&emsp;&emsp;The Secretary of the Treasury shall, before granting a waiver under this subsection, require each applicant to provide evidence satisfactory to such Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 1301(a)(21) of this title). Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under subchapter III and for benefit liabilities.
 
 #### (B) Consideration of relevant information
 
@@ -208,7 +208,7 @@
 
 #### Prior Provisions
 
-A prior section 1082, Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 869; Pub. L. 96–364, title III, §304(b), Sept. 26, 1980, 94 Stat. 1293; Pub. L. 100–203, title IX, §§9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, 101 Stat. 1330–332, 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; Pub. L. 100–647, title II, §2005(a)(2)(B), (d)(2), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §§7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, 103 Stat. 2435–2439, 2445, 2447, 2449, 2450; Pub. L. 101–508, title XII, §12012(c), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–465, title VII, §§761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, 108 Stat. 5024–5031, 5033–5036, 5041; Pub. L. 105–34, title XV, §1521(b), (c)(2), (3)(B), title XVI, §1604(b)(2)(B), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(b), 661(b), June 7, 2001, 115 Stat. 129, 142; Pub. L. 107–147, title IV, §§405(b), 411(v)(2), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(a)(1)–(3), 102(a), 104(a)(1), Apr. 10, 2004, 118 Stat. 596, 597, 599, 604; Pub. L. 109–135, title IV, §412(x)(2), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title III, §301(a)(1), (2), Aug. 17, 2006, 120 Stat. 919, related to minimum funding standards, prior to repeal by Pub. L. 109–280, title I, §101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
+A prior section 1082, Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 869; Pub. L. 96–364, title III, §304(b), Sept. 26, 1980, 94 Stat. 1293; Pub. L. 100–203, title IX, §§9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, 101 Stat. 1330–332, 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; Pub. L. 100–647, title II, §2005(a)(2)(B), (d)(2), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §§7881(a)(1)(B), (2)(B), (3)(B),\(4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, 103 Stat. 2435–2439, 2445, 2447, 2449, 2450; Pub. L. 101–508, title XII, §12012(c), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–465, title VII, §§761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, 108 Stat. 5024–5031, 5033–5036, 5041; Pub. L. 105–34, title XV, §1521(b), (c)(2), (3)(B), title XVI, §1604(b)(2)(B), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(b), 661(b), June 7, 2001, 115 Stat. 129, 142; Pub. L. 107–147, title IV, §§405(b), 411(v)(2), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(a)(1)–(3), 102(a), 104(a)(1), Apr. 10, 2004, 118 Stat. 596, 597, 599, 604; Pub. L. 109–135, title IV, §412(x)(2), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title III, §301(a)(1), (2), Aug. 17, 2006, 120 Stat. 919, related to minimum funding standards, prior to repeal by Pub. L. 109–280, title I, §101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
 
 #### <b>Editorial Notes</b>
 
@@ -302,7 +302,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractorplans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 

@@ -6,7 +6,7 @@ Members Traveling In Connection With Medical Evacuation.—The Secretary of the 
 
 &emsp;(1) is medically evacuated for treatment in a medical facility by reason of an illness or injury incurred or aggravated while on active duty; or
 
-&emsp;(2) after being medically evacuated as described in paragraph (1), is in an authorizedtravel status from a medical facility to another location approved by the Secretary.
+&emsp;(2) after being medically evacuated as described in paragraph (1), is in an authorized travel status from a medical facility to another location approved by the Secretary.
 
 (b)
 

@@ -12,7 +12,7 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 #### (1) Establishment
 
-&emsp;There is established in the Department of Agriculture an Agriculture and Food Research Initiative under which the Secretary of Agriculture (referred to in this subsection as "the Secretary") may make competitive grants for fundamental and applied research, extension, and education to address food and agricultural sciences (as defined under section 3103 of this title).
+&emsp;There is established in the Department of Agriculture an Agriculture and Food ResearchInitiative under which the Secretary of Agriculture (referred to in this subsection as "the Secretary") may make competitive grants for fundamental and applied research, extension, and education to address food and agricultural sciences (as defined under section 3103 of this title).
 
 #### (2) Priority areas
 
@@ -60,7 +60,7 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 &emsp;&emsp;&emsp;&emsp;(I) epizootic diseases in domestic livestock (including deer, elk, bison, and other animals of the family Cervidae); and
 
-&emsp;&emsp;&emsp;&emsp;(II) zoonotic diseases (including bovine brucellosis and bovine tuberculosis) indomestic livestock or wildlife reservoirs that present a potential concern to public health; and
+&emsp;&emsp;&emsp;&emsp;(II) zoonotic diseases (including bovine brucellosis and bovine tuberculosis) in domestic livestock or wildlife reservoirs that present a potential concern to public health; and
 
 &emsp;&emsp;&emsp;(x) the identification of animal drug needs and the generation and dissemination of data for safe and effective therapeutic applications of animal drugs for minor species and minor uses of such drugs in major species.
 
@@ -244,7 +244,7 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 #### (V) Indirect costs
 
-&emsp;&emsp;&emsp;&emsp;The indirect cost rate applicable to appropriated funds for a grant funded under paragraph (6)(E) shall apply toamounts contributed by an entity under clause (i).
+&emsp;&emsp;&emsp;&emsp;The indirect cost rate applicable to appropriated funds for a grant funded under paragraph (6)(E) shall apply to amounts contributed by an entity under clause (i).
 
 #### (C) Applied research
 
@@ -340,7 +340,7 @@ Exceptions.—Clause (i) shall not apply to the extent that making the report, o
 
 #### (1) Purpose
 
-&emsp;The purpose of this subsection is to encourage the design of adaptive prototype systems for improving extension and education that seek to advance the application, translation, and demonstration of scientific discoveries and other agricultural research for the adoption and understanding of food, agricultural, and natural resources practices, techniques,methods, and technologies using digital or other novel platforms.
+&emsp;The purpose of this subsection is to encourage the design of adaptive prototype systems for improving extension and education that seek to advance the application, translation, and demonstration of scientific discoveries and other agricultural research for the adoption and understanding of food, agricultural, and natural resources practices, techniques, methods, and technologies using digital or other novel platforms.
 
 #### (2) Grants
 
@@ -384,7 +384,7 @@ Exceptions.—Clause (i) shall not apply to the extent that making the report, o
 
 &emsp;(B) tolerances for residues of minor use chemicals in or on raw agricultural commodities under sections 346a and 348 of title 21.
 
-(2) The Secretary shall carry out the IR–4 Program in cooperation with the Administrator of the Environmental Protection Agency, State agricultural experiment stations, colleges and universities, extension services, private industry, and other interested parties.
+(2) The Secretary shall carry out the IR–4 Program in cooperation with the Administrator ofthe Environmental Protection Agency, State agricultural experiment stations, colleges and universities, extension services, private industry, and other interested parties.
 
 (3) In carrying out the IR–4 Program, the Secretary shall give priority to registrations, reregistrations, and tolerances for pesticide uses related to the production of agricultural crops for food use.
 
@@ -446,7 +446,7 @@ Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 (7
 
 The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term "sustainable agriculture" has the meaning given that term in section 3103 of this title.
 
-(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604; Pub. L. 107–76, title VII, §775, Nov. 28, 2001, 115 Stat. 746; Pub. L. 107–171, title VI, §6403(b), title VII, §§7136, 7211, May 13, 2002, 116 Stat. 429, 436, 447; Pub. L. 110–234, title VII, §§7101(b)(2), 7406(a), (b)(2), May 22, 2008, 122 Stat. 1213, 1247, 1251; Pub. L. 110–246, §4(a), title VII, §§7101(b)(2), 7406(a), (b)(2), June 18, 2008, 122 Stat. 1664, 1974, 2009, 2013; Pub. L. 113–79, title VII, §§7128(b)(4), 7404, Feb. 7, 2014, 128 Stat. 879, 895; Pub. L. 115–334, title VII, §§7504, 7505, 7614(b)(4)(B), Dec. 20, 2018, 132 Stat. 4821, 4822, 4836; Pub. L. 117–286, §4(a)(36), Dec. 27, 2022, 136 Stat. 4309.)
+(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604; Pub. L. 107–76, title VII, §775, Nov. 28, 2001, 115 Stat. 746; Pub. L. 107–171, title VI, §6403(b), title VII, §§7136, 7211, May 13, 2002, 116 Stat. 429, 436, 447; Pub. L. 110–234, title VII,§§7101(b)(2), 7406(a), (b)(2), May 22, 2008, 122 Stat. 1213, 1247, 1251; Pub. L. 110–246, §4(a), title VII, §§7101(b)(2), 7406(a), (b)(2), June 18, 2008, 122 Stat. 1664, 1974, 2009, 2013; Pub. L. 113–79, title VII, §§7128(b)(4), 7404, Feb. 7, 2014, 128 Stat. 879, 895; Pub. L. 115–334, title VII, §§7504, 7505, 7614(b)(4)(B), Dec. 20, 2018, 132 Stat. 4821, 4822, 4836; Pub. L. 117–286, §4(a)(36), Dec. 27, 2022, 136 Stat. 4309.)
 
 #### <b>Editorial Notes</b>
 
@@ -484,7 +484,7 @@ Subsec. (b)(9)(A)(iii). Pub. L. 115–334, §7614(b)(4)(B)(i), struck out cl. (i
 
 Subsec. (b)(9)(B)(i). Pub. L. 115–334, §7614(b)(4)(B)(ii)(I), substituted "clause (ii)," for "clauses (ii) and (iii),".
 
-Subsec. (b)(9)(B)(iii). Pub. L. 115–334, §7614(b)(4)(B)(ii)(II), struck out cl. (iii). Text read asfollows: "The contribution requirement under clause (i) shall be in addition to any matching funds requirement for grant recipients required by section 3371 of this title."
+Subsec. (b)(9)(B)(iii). Pub. L. 115–334, §7614(b)(4)(B)(ii)(II), struck out cl. (iii). Text read as follows: "The contribution requirement under clause (i) shall be in addition to any matching funds requirement for grant recipients required by section 3371 of this title."
 
 Subsec. (b)(9)(C). Pub. L. 115–334, §7614(b)(4)(B)(iii), added subpar. (C).
 

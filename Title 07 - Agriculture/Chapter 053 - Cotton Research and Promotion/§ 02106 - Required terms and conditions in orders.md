@@ -20,7 +20,7 @@ Orders issued pursuant to this chapter shall contain the following terms and con
 
 (e)(1) Providing that—
 
-&emsp;(A) the producer or other person for whom the cotton is being handled shall pay to the handler of such cotton designated by the Cotton Board pursuant to regulations issued under the order;
+&emsp;(A) the producer or other person for whom the cotton is being handled shall pay to thehandler of such cotton designated by the Cotton Board pursuant to regulations issued under the order;
 
 &emsp;(B) such handler shall collect from the producer or other person for whom the cotton, including cotton owned by the handler, is being handled, and shall pay to the Cotton Board; and
 

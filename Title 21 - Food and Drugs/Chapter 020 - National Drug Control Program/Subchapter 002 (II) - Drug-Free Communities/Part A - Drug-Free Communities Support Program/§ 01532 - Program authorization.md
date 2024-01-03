@@ -106,7 +106,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;&emsp;&emsp;(ii) biennial surveys (or incorporate local surveys in existence at the time of the evaluation) to measure the progress and effectiveness of the coalition; and
 
-&emsp;&emsp;(C) provide assurances that the entity conducting an evaluation under this paragraph,or from which the coalition receives information, has experience—
+&emsp;&emsp;(C) provide assurances that the entity conducting an evaluation under this paragraph, or from which the coalition receives information, has experience—
 
 &emsp;&emsp;&emsp;(i) in gathering data related to substance use and misuse among youth; or
 
@@ -194,7 +194,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (C) No priority for applications
 
-&emsp;&emsp;The Administrator may not afford a higher priority in the award of an additional grantunder this paragraph than the Administrator would afford the applicant for the grant if the applicant were submitting an application for an initial grant under paragraph (1) or (2) rather than an application for a grant under this paragraph.
+&emsp;&emsp;The Administrator may not afford a higher priority in the award of an additional grant under this paragraph than the Administrator would afford the applicant for the grant if the applicant were submitting an application for an initial grant under paragraph (1) or (2) rather than an application for a grant under this paragraph.
 
 #### (D) Renewal grants
 
@@ -214,7 +214,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (4) Process for suspension
 
-&emsp;A grantee shall not be suspended or terminated under paragraph (1)(A)(ii), (2)(A)(iii), or (3)(E) unless that grantee is afforded a fair, timely, and independent appeal prior to such suspension or termination.
+&emsp;A grantee shall not be suspended or terminated under paragraph (1)(A)(ii), (2)(A)(iii), or\(3)(E) unless that grantee is afforded a fair, timely, and independent appeal prior to such suspension or termination.
 
 #### (c) Treatment of funds for coalitions representing certain organizations
 
@@ -292,7 +292,7 @@ Limitation.—The Administrator may not provide a grant or renewal grant to an e
 
 #### Report to Congress
 
-Pub. L. 109–469, title VIII, §802(b), Dec. 29, 2006, 120 Stat. 3535, as amended by Pub. L. 115–271, title VIII, §8203(a)(3)(A), formerly §8203(a)(4)(A), Oct. 24, 2018, 132 Stat. 4111, as renumbered by Pub. L. 116–74, §2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157; Pub. L. 116–74, §2(c)(1)(A)(i)(V), Nov. 27, 2019, 133 Stat. 1157, provided that: "Not later than 60 days after the date of enactment of this Act \[Dec. 29, 2006\], the Director of the Office of National Drug Control Policy shall submit to Congress a report detailing the appeals process required by section 1032(b)(4) of the Anti-Drug Abuse Act of 1988 \[21 U.S.C. 1532(b)(4)\], as added by subsection (a)."
+Pub. L. 109–469, title VIII, §802(b), Dec. 29, 2006, 120 Stat. 3535, as amended by Pub. L. 115–271, title VIII, §8203(a)(3)(A), formerly §8203(a)(4)(A), Oct. 24, 2018, 132 Stat. 4111, as renumbered by Pub. L. 116–74,§2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157; Pub. L. 116–74, §2(c)(1)(A)(i)(V), Nov. 27, 2019, 133 Stat. 1157, provided that: "Not later than 60 days after the date of enactment of this Act \[Dec. 29, 2006\], the Director of the Office of National Drug Control Policy shall submit to Congress a report detailing the appeals process required by section 1032(b)(4) of the Anti-Drug Abuse Act of 1988 \[21 U.S.C. 1532(b)(4)\], as added by subsection (a)."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subparagraph (F),".</i>
 

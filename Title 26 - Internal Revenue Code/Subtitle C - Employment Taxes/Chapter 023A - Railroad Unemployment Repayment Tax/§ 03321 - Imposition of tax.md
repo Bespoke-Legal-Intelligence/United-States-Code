@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-There is hereby imposed on every rail employer for each calendar month an excise tax, with respect to having individuals in his employ, equal to 4 percent of the total rail wages paid by him during such month.
+There is hereby imposed on every rail employer for each calendar month an excise tax,with respect to having individuals in his employ, equal to 4 percent of the total rail wages paid by him during such month.
 
 #### (b) Tax on employee representatives
 
@@ -32,7 +32,7 @@ Section 10(d) of the Railroad Unemployment Insurance Act, referred to in subsec.
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–647, §7106(a), amended section generally, revising and restating provisions of subsecs. (a)and (b) and specifying imposition of 4 percent tax on rail wages rather than a tax based on the "applicable percentage" of rail wages, and in subsec. (c) substituting provisions relating to termination if loans to railroad unemployment fund repaid for provisions relating to rates of tax.
+<b>1988</b>—Pub. L. 100–647, §7106(a), amended section generally, revising and restating provisions of subsecs. (a) and (b) and specifying imposition of 4 percent tax on rail wages rather than a tax based on the "applicable percentage" of rail wages, and in subsec. (c) substituting provisions relating to termination if loans to railroad unemployment fund repaid for provisions relating to rates of tax.
 
 Pub. L. 100–647, §1018(u)(17), added a period at end of par. (4).
 

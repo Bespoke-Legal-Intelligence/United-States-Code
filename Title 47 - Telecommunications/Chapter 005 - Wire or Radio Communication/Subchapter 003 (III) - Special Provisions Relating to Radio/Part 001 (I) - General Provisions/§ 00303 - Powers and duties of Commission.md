@@ -12,7 +12,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (e) Regulate the kind of apparatus to be used with respect to its external effects and the purity and sharpness of the emissions from each station and from the apparatus therein;
 
-(f) Make such regulations not inconsistent with law as it may deem necessary to prevent interference between stations and to carry out the provisions of this chapter: <i>Provided, however</i>, That changes in the frequencies, authorized power, or in the times of operation of any station, shall not be made without the consent ofthe station licensee unless the Commission shall determine that such changes will promote public convenience or interest or will serve public necessity, or the provisions of this chapter will be more fully complied with;
+(f) Make such regulations not inconsistent with law as it may deem necessary to prevent interference between stations and to carry out the provisions of this chapter: <i>Provided, however</i>, That changes in the frequencies, authorized power, or in the times of operation of any station, shall not be made without the consent of the station licensee unless the Commission shall determine that such changes will promote public convenience or interest or will serve public necessity, or the provisions of this chapter will be more fully complied with;
 
 (g) Study new uses for radio, provide for experimental uses of frequencies, and generally encourage the larger and more effective use of radio in the public interest;
 
@@ -90,7 +90,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (w) Omitted.
 
-(x) Require, in the case of an apparatus designed to receive television signals that are shipped in interstate commerce or manufactured in the United States and that have a picture screen 13 inches or greater in size (measured diagonally), that such apparatus be equipped with a feature designed to enable viewers to block display of all programs with a common rating, except as otherwise permitted by regulations pursuant to section 330(c)(4) of this title.
+(x) Require, in the case of an apparatus designed to receive television signals that are shipped in interstate commerce or manufactured in the United States and that have a picture screen 13 inches or greater in size (measured diagonally), that such apparatus be equipped with a feature designed to enable viewers to blockdisplay of all programs with a common rating, except as otherwise permitted by regulations pursuant to section 330(c)(4) of this title.
 
 (y) Have authority to allocate electromagnetic spectrum so as to provide flexibility of use, if—
 
@@ -230,7 +230,7 @@ Applicability of rating provision.—The amendment made by subsection (b) of thi
 
 "(2)
 
-Effective date of manufacturing provision.—In prescribing regulations to implement the amendment made by subsection (c) \[amending this section\], the Federal Communications Commission shall, after consultation with the television manufacturing industry, specify the effective date for the applicability ofthe requirement to the apparatus covered by such amendment, which date shall not be less than two years after the date of enactment of this Act \[Feb. 8, 1996\]." \[On Mar. 12, 1998, the Federal Communications Commission adopted technical rules that require certain television receivers to be equipped with features to block display of programs with a common rating. This feature was to be phased in, with half of subject television receivers to have it by July 1, 1999, and all such models to have it by Jan. 1, 2000.\]
+Effective date of manufacturing provision.—In prescribing regulations to implement the amendment made by subsection (c) \[amending this section\], the Federal Communications Commission shall, after consultation with the television manufacturing industry, specify the effective date for the applicability of the requirement to the apparatus covered by such amendment, which date shall not be less than two years after the date of enactment of this Act \[Feb. 8, 1996\]." \[On Mar. 12, 1998, the Federal Communications Commission adopted technical rules that require certain television receivers to be equipped with features to block display of programs with a common rating. This feature was to be phased in, with half of subject television receivers to have it by July 1, 1999, and all such models to have it by Jan. 1, 2000.\]
 
 #### Effective Date of 1992 Amendment
 
@@ -498,7 +498,7 @@ Applicable caps.—The Commission shall revise section 73.3555(a) of its regulat
 
 &emsp;&emsp;"(C) in a radio market with between 15 and 29 (inclusive) commercial radio stations, a party may own, operate, or control up to 6 commercial radio stations, not more than 4 of which are in the same service (AM or FM); and
 
-&emsp;&emsp;"(D) in a radio market with 14 or fewer commercial radio stations, a party may own, operate, or control up to 5 commercial radio stations, not more than 3 of which are in the same service (AM or FM), except that a party may not own, operate, or control more than 50 percent of the stations in such market.
+&emsp;&emsp;"(D) in a radio market with 14 or fewer commercial radio stations, a party may own, operate, or control up to 5 commercial radio stations, not morethan 3 of which are in the same service (AM or FM), except that a party may not own, operate, or control more than 50 percent of the stations in such market.
 
 &emsp;"(2)
 

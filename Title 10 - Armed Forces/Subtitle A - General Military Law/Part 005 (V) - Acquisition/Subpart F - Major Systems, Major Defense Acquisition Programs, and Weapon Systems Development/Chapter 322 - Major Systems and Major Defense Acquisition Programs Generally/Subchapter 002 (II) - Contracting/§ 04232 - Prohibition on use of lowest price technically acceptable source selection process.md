@@ -22,7 +22,7 @@ Engineering and manufacturing development contract.—The term "engineering and 
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283 renumbered section 2442 of this title as this section and, in subsec. (b), redesignated par. (3) as (2) and struck out former par. (2) which defined "major defense acquisition program".
+<b>2021</b>—Pub. L. 116–283 renumbered section 2442 of this title as this section and, in subsec. (b), redesignatedpar. (3) as (2) and struck out former par. (2) which defined "major defense acquisition program".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

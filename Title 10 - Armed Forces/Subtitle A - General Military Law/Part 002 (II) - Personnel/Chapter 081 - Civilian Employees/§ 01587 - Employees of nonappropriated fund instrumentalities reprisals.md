@@ -58,7 +58,7 @@ Subsec. (a)(1). Pub. L. 104–106, §1040(c), substituted "Navy Exchange Service
 
 Pub. L. 104–106, §1040(a), inserted at end "Such term includes a civilian employee of a support organization within the Department of Defense or a military department, such as the Defense Finance and Accounting Service, who is paid from nonappropriated funds on account of the nature of the employee's duties."
 
-Subsec. (d). Pub. L. 104–106, §903(a), (f)(3), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting "official in the Department of Defense with principal responsibility for personnel and readiness" for "Assistant Secretary of Defense for Manpower and Logistics", was repealed by Pub. L. 104–201.
+Subsec. (d). Pub. L. 104–106, §903(a), (f)(3), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting "official in the Department of Defensewith principal responsibility for personnel and readiness" for "Assistant Secretary of Defense for Manpower and Logistics", was repealed by Pub. L. 104–201.
 
 Subsec. (e). Pub. L. 104–106, §1040(b), inserted before period at end of second sentence "and to permit the reporting of alleged violations of subsection (b) directly to the Inspector General of the Department of Defense".
 
@@ -106,7 +106,7 @@ Progress Report.—Not later than March 15, 1995, the Secretary of Defense shall
 
 Treatment of Program as Federal Health Benefit Program.—(1) No State tax, fee, other monetary payment, or State health plan requirement, may be imposed, directly or indirectly, on the Nonappropriated Fund Uniform Health Benefits Program of the Department of Defense, or on a carrier or an underwriting or plan administration contractor of the Program, to the same extent as such prohibition applies to the health insurance program authorized by chapter 89 of title 5, United States Code, under section 8909(f) of such title.
 
-"(2) Paragraph (1) shall not be construed to exempt the Nonappropriated Fund Uniform Health Benefits Program of the Department of Defense, or any carrier or underwriting or plan administration contractor of the Program from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to, or realized by, theProgram or by such carrier or contractor from business conducted under the Program, so long as the tax, fee, or payment is applicable to a broad range of business activity.
+"(2) Paragraph (1) shall not be construed to exempt the Nonappropriated Fund Uniform Health Benefits Program of the Department of Defense, or any carrier or underwriting or plan administration contractor of the Program from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to, or realized by, the Program or by such carrier or contractor from business conducted under the Program, so long as the tax, fee, or payment is applicable to a broad range of business activity.
 
 "(3) In this subsection, the term 'State' means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, and any political subdivision or other non-Federal authority thereof."
 

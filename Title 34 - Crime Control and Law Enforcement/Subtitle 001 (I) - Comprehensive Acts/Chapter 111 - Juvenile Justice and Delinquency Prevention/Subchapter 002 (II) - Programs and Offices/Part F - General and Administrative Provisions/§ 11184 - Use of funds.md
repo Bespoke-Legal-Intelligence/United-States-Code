@@ -10,13 +10,13 @@ Funds paid pursuant to this subchapter to any public or private agency, organiza
 
 #### (b) Prohibition against use of funds in construction
 
-Except as provided in subsection (a), no funds paid to any public or private agency, or institution or to any individual under this subchapter\(either directly or through a State agency or local agency) may be used for construction.
+Except as provided in subsection (a), no funds paid to any public or private agency, or institution or to any individual under this subchapter (either directly or through a State agency or local agency) may be used for construction.
 
 #### (c) Funds paid to residential programs
 
 No funds may be paid under this subchapter to a residential program (excluding a program in a private residence) unless—
 
-&emsp;(1) there is in effect in the State in which such placement or care is provided, a requirement that the provider of such placement or such care may be licensed only after satisfying, at a minimum, explicit standards of discipline that prohibit neglect, and physical and mental abuse, as defined by State law;
+&emsp;(1) there is in effect in the State in which such placement or care is provided, a requirement that the provider of such placement orsuch care may be licensed only after satisfying, at a minimum, explicit standards of discipline that prohibit neglect, and physical and mental abuse, as defined by State law;
 
 &emsp;(2) such provider is licensed as described in paragraph (1) by the State in which such placement or care is provided; and
 

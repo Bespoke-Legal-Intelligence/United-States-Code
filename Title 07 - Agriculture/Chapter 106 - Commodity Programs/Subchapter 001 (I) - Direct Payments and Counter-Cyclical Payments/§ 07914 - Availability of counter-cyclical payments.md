@@ -96,7 +96,7 @@ If counter-cyclical payments are required to be paid for any of the 2002 through
 
 &emsp;&emsp;When the Secretary makes partial payments available under paragraph (2) for a covered commodity for any of the 2002 through 2006 crop years—
 
-&emsp;&emsp;&emsp;(i) the first partial payment for the crop year shall be made not earlier than October 1, and, to the maximum extent practicable, not later than October 31, of the calendar year in which the crop of the covered commodity is harvested;
+&emsp;&emsp;&emsp;(i) the first partial payment for the crop year shall be made not earlier than October 1, and, to the maximum extent practicable, not later than October 31, of thecalendar year in which the crop of the covered commodity is harvested;
 
 &emsp;&emsp;&emsp;(ii) the second partial payment shall be made not earlier than February 1 of the next calendar year; and
 

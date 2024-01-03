@@ -4,7 +4,7 @@
 
 In carrying out the program authorized by section 3402 of this title, the Administrator of the National Oceanic and Atmospheric Administration, in consultation with the Ocean Policy Committee established under section 8932 of title 10, shall—
 
-&emsp;(1) conduct interdisciplinary expeditions or other scientific activities in conjunction with other Federal and State agencies, Tribal Governments, private industry, academia (including secondary schools, community colleges, and universities), and nongovernmental organizations, to map, explore, and characterize little known areas of the marine environment, inventory, observe, characterize, and assess living and nonliving marine resources, and report such findings;
+&emsp;(1) conduct interdisciplinary expeditions or other scientific activities in conjunction with other Federal and State agencies, Tribal Governments, private industry, academia (including secondary schools, community colleges, and universities), and nongovernmental organizations, to map, explore, and characterize little known areas of the marine environment, inventory, observe, characterize, and assessliving and nonliving marine resources, and report such findings;
 
 &emsp;(2) give priority attention to deep ocean regions of the exclusive economic zone, with a focus on deep water marine systems that hold potential for important scientific discoveries, such as hydrothermal vent communities and seamounts;
 

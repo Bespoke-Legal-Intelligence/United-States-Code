@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 #### (6) Material safety data sheet
 
-&emsp;The term "material safety data sheet" means the sheet required to be developedunder section 1910.1200(g) of title 29 of the Code of Federal Regulations, as that section may be amended from time to time.
+&emsp;The term "material safety data sheet" means the sheet required to be developed under section 1910.1200(g) of title 29 of the Code of Federal Regulations, as that section may be amended from time to time.
 
 #### (7) Person
 
@@ -32,7 +32,7 @@ For purposes of this chapter—
 
 #### (8) Release
 
-&emsp;The term "release" means any spilling, leaking, pumping, pouring, emitting, emptying, discharging, injecting, escaping, leaching, dumping, or disposing into the environment (including the abandonment or discarding of barrels, containers, and other closed receptacles) of any hazardous chemical, extremely hazardous substance, or toxic chemical.
+&emsp;The term "release" means any spilling, leaking, pumping, pouring, emitting, emptying, discharging, injecting, escaping, leaching, dumping, or disposing into the environment (including the abandonment or discarding of barrels, containers, and other closed receptacles) of any hazardous chemical,extremely hazardous substance, or toxic chemical.
 
 #### (9) State
 

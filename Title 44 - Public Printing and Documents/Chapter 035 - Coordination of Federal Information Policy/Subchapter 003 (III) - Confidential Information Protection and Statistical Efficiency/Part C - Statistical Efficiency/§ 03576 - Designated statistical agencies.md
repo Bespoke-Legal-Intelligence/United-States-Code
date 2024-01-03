@@ -74,7 +74,7 @@ General use.—Business data provided by a Designated Statistical Agency pursuan
 
 &emsp;(2)
 
-Publication.—Publication of business data acquired by a Designated Statistical Agency shall occur in a manner whereby the data furnished by any particular respondent are not in identifiable form.
+Publication.—Publication of business data acquired by a Designated StatisticalAgency shall occur in a manner whereby the data furnished by any particular respondent are not in identifiable form.
 
 (e)
 

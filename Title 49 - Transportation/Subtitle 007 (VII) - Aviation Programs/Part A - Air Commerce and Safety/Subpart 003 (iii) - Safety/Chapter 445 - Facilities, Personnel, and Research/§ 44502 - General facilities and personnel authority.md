@@ -22,7 +22,7 @@ Establishment of program.—The Secretary shall purchase precision approach inst
 
 &emsp;(B)
 
-Authorization.—No less than $30,000,000 of the amounts appropriated under section 48101(a) for each of fiscal years 2000 through 2002 shall be used for the purpose of carrying out this paragraph, including acquisition under new or existing contracts, site preparation work, installation, and related expenditures.
+Authorization.—No less than $30,000,000 of the amounts appropriated under section 48101(a) for each of fiscal years 2000 through 2002 shall be used for the purpose of carrying out this paragraph, including acquisitionunder new or existing contracts, site preparation work, installation, and related expenditures.
 
 (5)
 
@@ -326,7 +326,7 @@ Certification.—Not later than 180 days after the conclusion of work under the 
 
 #### Transfer by Airports of Instrument Landing Systems and Associated Equipment to Federal Aviation Administration
 
-Pub. L. 109–115, div. A, title I, §101, Nov. 30, 2005, 119 Stat. 2401, which provided that airports may transfer to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant, provided that the FAA accept such equipment and operate and maintain it in accordance with agency criteria, was from the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 109–115, div. A, title I, §101, Nov. 30, 2005, 119 Stat. 2401, which provided that airports may transfer to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant, provided that the FAA accept such equipment and operate andmaintain it in accordance with agency criteria, was from the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 108–447, div. H, title I, §101, Dec. 8, 2004, 118 Stat. 3203.
 

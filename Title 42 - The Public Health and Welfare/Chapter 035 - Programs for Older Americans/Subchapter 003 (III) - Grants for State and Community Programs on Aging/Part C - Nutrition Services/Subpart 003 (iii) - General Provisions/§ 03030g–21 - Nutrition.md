@@ -62,7 +62,7 @@ A prior section 3030g–21, Pub. L. 89–73, title III, §339, as added Pub. L. 
 
 #### Amendments
 
-<b>2020</b>—Par. (2)(A)(ii)(I). Pub. L. 116–131, §701(9), substituted "National Academies of Sciences, Engineering, and Medicine" for "Institute of Medicine of the National Academy of Sciences".
+<b>2020</b>—Par. (2)(A)(ii)(I). Pub. L. 116–131, §701(9), substituted "National Academies of Sciences, Engineering,and Medicine" for "Institute of Medicine of the National Academy of Sciences".
 
 Par. (2)(A)(iii). Pub. L. 116–131, §215, inserted ", including meals adjusted for cultural considerations and preferences and medically tailored meals" before comma at end.
 

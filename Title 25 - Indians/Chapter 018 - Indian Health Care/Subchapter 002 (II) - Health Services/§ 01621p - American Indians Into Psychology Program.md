@@ -6,7 +6,7 @@ The Secretary, acting through the Service, shall make grants of not more than $3
 
 #### (b) Quentin N. Burdick program grant
 
-The Secretary shall provide a grant authorized under subsection (a) to develop and maintain a program at the University of North Dakota to be known as the "Quentin N. Burdick American Indians Into Psychology Program". Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian health programs authorized under section 1616j(b) <sup>1</sup> of this title, the Quentin N. Burdick American Indians Into Nursing Program authorized under section 1616h(e) <sup>1</sup> of this title, and existing university research and communications networks.
+The Secretary shall provide a grant authorized under subsection (a) to develop and maintain a program at the University of North Dakota to be known as the "Quentin N. Burdick American Indians Into Psychology Program". Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian health programs authorized under section 1616j(b) <sup>1</sup> of this title, the Quentin N. BurdickAmerican Indians Into Nursing Program authorized under section 1616h(e) <sup>1</sup> of this title, and existing university research and communications networks.
 
 #### (c) Regulations
 

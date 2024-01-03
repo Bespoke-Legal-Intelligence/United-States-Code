@@ -90,7 +90,7 @@ Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Amendment by section 4002(b)(1)(B), (D), (2)(V) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 ofPub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+Amendment by section 4002(b)(1)(B), (D), (2)(V) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 2006 Amendment
 

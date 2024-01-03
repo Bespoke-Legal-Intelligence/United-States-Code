@@ -140,7 +140,7 @@ A State shall include in the State plan amendment—
 
 #### (B) Report on best practices
 
-&emsp;&emsp;Not later than 90 days after a State has a State plan amendment approved under thissection, such State shall submit to the Secretary, and make publicly available on the appropriate State website, a report on how the State is implementing guidance issued under subsection (e)(1), including through any best practices adopted by the State.
+&emsp;&emsp;Not later than 90 days after a State has a State plan amendment approved under this section, such State shall submit to the Secretary, and make publicly available on the appropriate State website, a report on how the State is implementing guidance issued under subsection (e)(1), including through any best practices adopted by the State.
 
 #### (h) Rule of construction
 
@@ -236,7 +236,7 @@ In this section:
 
 &emsp;&emsp;(A) include—
 
-&emsp;&emsp;&emsp;(i) physicians and other professionals, such as pediatricians or pediatric specialtyor subspecialty providers, nurse care coordinators, dietitians, nutritionists, social workers, behavioral health professionals, physical therapists, occupational therapists, speech pathologists, nurses, individuals with experience in medical supportive technologies, or any professionals determined to be appropriate by the State and approved by the Secretary;
+&emsp;&emsp;&emsp;(i) physicians and other professionals, such as pediatricians or pediatric specialty or subspecialty providers, nurse care coordinators, dietitians, nutritionists, social workers, behavioral health professionals, physical therapists, occupational therapists, speech pathologists, nurses, individuals with experience in medical supportive technologies, or any professionals determined to be appropriate by the State and approved by the Secretary;
 
 &emsp;&emsp;&emsp;(ii) an entity or individual who is designated to coordinate such a team; and
 

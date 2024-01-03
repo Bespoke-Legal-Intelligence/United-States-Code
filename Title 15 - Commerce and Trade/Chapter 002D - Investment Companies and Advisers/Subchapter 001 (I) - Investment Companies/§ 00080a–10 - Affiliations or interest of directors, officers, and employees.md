@@ -50,7 +50,7 @@ If by reason of the death, disqualification, or bona fide resignation of any dir
 
 #### (f) Officer, director, etc., of company acting as principal underwriter of security acquired by company
 
-No registered investment company shall knowingly purchase or otherwise acquire, during the existence of any underwriting or selling syndicate, any security (except a security of which such company is the issuer) a principal underwriter of which is an officer, director, member of an advisory board, investment adviser, or employee of such registered company, or is a person (other than a company of the character described in section 80a–12(d)(3)(A) and (B) of this title) of which any such officer, director, member of an advisory board, investment adviser, or employee is an affiliated person, unless in acquiring such security such registered company is itself acting as a principal underwriter for the issuer. The Commission, by rules and regulations upon its own motion or by order upon application, may conditionally or unconditionally exempt any transaction or classes of transactions from any of the provisions of this subsection, if and to the extent that such exemption is consistent with the protection of investors.
+No registered investment company shall knowingly purchase or otherwise acquire, during the existence of any underwriting or selling syndicate, any security (except a security of which such company is the issuer) a principal underwriter of which is an officer, director, member of an advisory board, investment adviser, or employee of such registered company, or is a person (other than a company of the character described in section 80a–12(d)(3)(A) and (B) of this title) of which any such officer, director, member of an advisory board, investment adviser, or employee is an affiliated person, unless in acquiring such security such registered company is itself acting as a principal underwriter for the issuer. The Commission, by rulesand regulations upon its own motion or by order upon application, may conditionally or unconditionally exempt any transaction or classes of transactions from any of the provisions of this subsection, if and to the extent that such exemption is consistent with the protection of investors.
 
 #### (g) Advisory boards; restrictions on membership
 
@@ -74,7 +74,7 @@ In the case of a registered management company which is an unincorporated compan
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–351 inserted "or any one savings and loan holding company, together with its affiliates and subsidiaries (as such terms are defined in section 1467a of title 12)," after "1841 of title 12)".
 
-<b>1999</b>—Subsec. (c). Pub. L. 106–102 substituted "bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates andsubsidiaries) (as such terms are defined in section 1841 of title 12), except" for "bank, except".
+<b>1999</b>—Subsec. (c). Pub. L. 106–102 substituted "bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12), except" for "bank, except".
 
 <b>1975</b>—Subsec. (e). Pub. L. 94–29 inserted reference to provisions of section 80a–15(f)(1) of this title.
 

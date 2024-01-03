@@ -69,7 +69,7 @@ Pub. L. 96–223, §101(a)(2), Apr. 2, 1980, 94 Stat. 250, added item for chapte
 
 <b>1978</b>—Pub. L. 95–227, §4(c)(2)(C), Feb. 10, 1978, 92 Stat. 22, inserted ", black lung benefit trusts" after "foundations" in item for chapter 42.
 
-<b>1976</b>—Pub. L. 94–455, title XIII, §1307(d)(3)(A), title XVI, §1605(c), title XIX, §§1904(b)(7)(E), (10)(G),1952(n)(6), Oct. 4, 1976, 90 Stat. 1728, 1755, 1815, 1818, 1846, substituted "41. Public charities" for "41. Interest equalization tax" added item for chapter 44 and struck out items for chapters "38. Import taxes" and "39. Regulatory taxes".
+<b>1976</b>—Pub. L. 94–455, title XIII, §1307(d)(3)(A), title XVI, §1605(c), title XIX, §§1904(b)(7)(E), (10)(G), 1952(n)(6), Oct. 4, 1976, 90 Stat. 1728, 1755, 1815, 1818, 1846, substituted "41. Public charities" for "41. Interest equalization tax" added item for chapter 44 and struck out items for chapters "38. Import taxes" and "39. Regulatory taxes".
 
 <b>1974</b>—Pub. L. 93–406, title II, §1016(b)(2), Sept. 2, 1974, 88 Stat. 932, added item for chapter 43.
 

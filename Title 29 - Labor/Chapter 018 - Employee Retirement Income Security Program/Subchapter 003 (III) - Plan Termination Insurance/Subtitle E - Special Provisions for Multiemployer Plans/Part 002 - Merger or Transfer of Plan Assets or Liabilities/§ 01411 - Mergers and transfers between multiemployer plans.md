@@ -48,7 +48,7 @@ A plan to which liabilities are transferred under this section is a successor pl
 
 > &emsp;Not later than 14 days after the provision of such financial assistance, the corporation shall provide notice of such financial assistance to the Committee on Education and the Workforce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
-(Pub. L. 93–406, title IV, §4231, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1244; amended Pub. L. 113–235, div. O, title I, §121(a), Dec. 16, 2014, 128 Stat. 2794.)
+(Pub. L. 93–406, title IV, §4231, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1244;amended Pub. L. 113–235, div. O, title I, §121(a), Dec. 16, 2014, 128 Stat. 2794.)
 
 #### <b>Editorial Notes</b>
 
@@ -57,10 +57,6 @@ A plan to which liabilities are transferred under this section is a successor pl
 <b>2014</b>—Subsec. (e). Pub. L. 113–235 added subsec. (e).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2014 Amendment
 

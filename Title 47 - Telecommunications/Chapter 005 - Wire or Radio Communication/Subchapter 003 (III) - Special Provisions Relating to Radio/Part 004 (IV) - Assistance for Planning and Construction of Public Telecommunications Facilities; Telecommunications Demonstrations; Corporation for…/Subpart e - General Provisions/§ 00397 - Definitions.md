@@ -34,7 +34,7 @@ For the purposes of this part—
 
 > Such term includes the fair market value of personal services of volunteers, as computed using the valuation standards established by the Corporation, but only, with respect to such an entity in a fiscal year, to the extent that the value of the services does not exceed 5 percent of the total non-Federal financial support of the entity in such fiscal year.
 
-(10) The term "preoperational expenses" means all nonconstruction costs incurred by new telecommunications entities before the date on which they begin providing service to thepublic, and all nonconstruction costs associated with expansion of existing entities before the date on which such expanded capacity is activated, except that such expenses shall not include any portion of the salaries of any personnel employed by an operating public telecommunications entity.
+(10) The term "preoperational expenses" means all nonconstruction costs incurred by new telecommunications entities before the date on which they begin providing service to the public, and all nonconstruction costs associated with expansion of existing entities before the date on which such expanded capacity is activated, except that such expenses shall not include any portion of the salaries of any personnel employed by an operating public telecommunications entity.
 
 (11) The term "public broadcasting entity" means the Corporation, any licensee or permittee of a public broadcast station, or any nonprofit institution engaged primarily in the production, acquisition, distribution, or dissemination of educational and cultural television or radio programs.
 

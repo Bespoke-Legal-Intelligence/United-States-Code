@@ -52,7 +52,7 @@ The Secretary shall appoint—
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish a hazard potential classification system for use under thelevee safety initiative and participating programs.
+&emsp;The Secretary shall establish a hazard potential classification system for use under the levee safety initiative and participating programs.
 
 #### (2) Revision
 
@@ -148,7 +148,7 @@ The Secretary shall appoint—
 
 &emsp;&emsp;&emsp;(i) meet the requirements of a participating program established by the guidelines issued under paragraph (1);
 
-&emsp;&emsp;&emsp;(ii) use not less than 25 percent of any amounts received to identify and assessnon-Federal levees within the State or regional district or on land of the Indian tribe;
+&emsp;&emsp;&emsp;(ii) use not less than 25 percent of any amounts received to identify and assess non-Federal levees within the State or regional district or on land of the Indian tribe;
 
 &emsp;&emsp;&emsp;(iii) submit to the Secretary and Administrator any information collected by the State, regional district, or Indian tribe in carrying out this subsection for inclusion in the national levee safety database; and
 
@@ -324,7 +324,7 @@ Nothing in this section—
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(2)(B)(iv), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143,which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(2)(B)(iv), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 The Disaster Mitigation Act of 2000, referred to in subsec. (h)(2)(B)(ii), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 5121 of Title 42, The Public Health and Welfare, and Tables.
 
@@ -412,7 +412,7 @@ In General.—The Secretary \[of the Army\] shall carry out measures that addres
 
 "(b)
 
-Limitation.—This section shall only apply to those projects for which the executed project partnership agreement provides that the non-Federal interest is not required to perform future measures to restore the project to the authorized level of protection of theproject to account for subsidence and sea-level rise as part of the operation, maintenance, repair, replacement, and rehabilitation responsibilities.
+Limitation.—This section shall only apply to those projects for which the executed project partnership agreement provides that the non-Federal interest is not required to perform future measures to restore the project to the authorized level of protection of the project to account for subsidence and sea-level rise as part of the operation, maintenance, repair, replacement, and rehabilitation responsibilities.
 
 "(c)
 

@@ -10,7 +10,7 @@ No public utility shall, with respect to any transmission or sale subject to the
 
 #### (c) Schedules
 
-Under such rules and regulations as the Commission may prescribe, every public utility shall file with the Commission, within such time and in such form as the Commission may designate, and shall keep open in convenient form and place for public inspection schedules showing all rates and charges for any transmission or sale subject to the jurisdiction of the Commission, and the classifications, practices, and regulations affecting such rates and charges, together with all contracts which in any manner affect or relate to such rates, charges, classifications, and services.
+Under such rules and regulations as the Commission may prescribe, every public utility shallfile with the Commission, within such time and in such form as the Commission may designate, and shall keep open in convenient form and place for public inspection schedules showing all rates and charges for any transmission or sale subject to the jurisdiction of the Commission, and the classifications, practices, and regulations affecting such rates and charges, together with all contracts which in any manner affect or relate to such rates, charges, classifications, and services.
 
 #### (d) Notice required for rate changes
 
@@ -50,7 +50,7 @@ Whenever any such new schedule is filed the Commission shall have authority, eit
 
 #### (1) In general
 
-&emsp;With respect to a change described in subsection (d), if the Commission permits the 60-day period established therein to expire without issuing an order accepting or denying the change because the Commissioners are divided two against two as to the lawfulness of the change, as a result of vacancy, incapacity, or recusal on the Commission, or if the Commission lacks a quorum—
+&emsp;With respect to a change described in subsection (d), if the Commission permits the 60-day period established therein to expire without issuing an order accepting or denying the change because the Commissioners are divided two against two as to the lawfulness of thechange, as a result of vacancy, incapacity, or recusal on the Commission, or if the Commission lacks a quorum—
 
 &emsp;&emsp;(A) the failure to issue an order accepting or denying the change by the Commission shall be considered to be an order issued by the Commission accepting the change for purposes of section 825l(a) of this title; and
 

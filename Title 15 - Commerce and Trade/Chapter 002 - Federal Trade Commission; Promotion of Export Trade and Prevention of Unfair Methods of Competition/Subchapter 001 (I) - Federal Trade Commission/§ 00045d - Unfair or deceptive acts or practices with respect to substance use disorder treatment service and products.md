@@ -18,7 +18,7 @@ It is unlawful to engage in an unfair or deceptive act or practice with respect 
 
 #### (B) Privileges and immunities
 
-&emsp;&emsp;Any person who violates subsection (a) shall be subject to the penalties and entitledto the privileges and immunities provided in the Federal Trade Commission Act as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated and made part of this section.
+&emsp;&emsp;Any person who violates subsection (a) shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated and made part of this section.
 
 #### (c) Authority preserved
 

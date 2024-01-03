@@ -54,5 +54,5 @@ Section was enacted as a part of the Water Resources Development Act of 2020, an
 
 #### "Secretary" Defined
 
-Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a noteunder section 2201 of Title 33, Navigation and Navigable Waters.
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of Title 33, Navigation and Navigable Waters.
 

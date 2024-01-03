@@ -20,7 +20,7 @@ Subject to the requirements of subsection (d), the Director may award grants ann
 
 &emsp;&emsp;(C) to provide a stipend to mentor teachers participating in the program; and
 
-&emsp;&emsp;(D) to support curriculum development and implementation strategies for science,technology, engineering, and mathematics content courses taught through the program; and
+&emsp;&emsp;(D) to support curriculum development and implementation strategies for science, technology, engineering, and mathematics content courses taught through the program; and
 
 &emsp;(2) up to $500,000 shall be set aside by the grantee for technical support and evaluation services from the institution whose programs will be replicated.
 
@@ -88,7 +88,7 @@ Within 90 days after January 4, 2011, the Director shall initiate a proceeding t
 
 #### References in Text
 
-Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(6), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer relates to highly qualified teachers. A reference in this section to "highly qualified", as defined in section 9101 of the Act, with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements,including any requirements for certification obtained through alternative routes to certification. See section 9214(a)(2) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of this title.
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(6), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer relates to highly qualified teachers. A reference in this section to "highly qualified", as defined in section 9101 of the Act, with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification. See section 9214(a)(2) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

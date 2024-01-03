@@ -36,7 +36,7 @@ Pub. L. 110–96, §2(b), Oct. 16, 2007, 121 Stat. 1011, provided that:
 
 "(1)
 
-Civil penalties.—Section 206(b) of the International Emergency Economic Powers Act \[50 U.S.C. 1705(b)\], as amended by subsection (a), shall apply to violations described in section 206(a) of such Act with respect to which enforcement action is pending or commenced on or after the date of the enactment of this Act \[Oct. 16, 2007\].
+Civil penalties.—Section 206(b) of the International Emergency Economic Powers Act \[50 U.S.C. 1705(b)\], as amended by subsection (a), shall apply toviolations described in section 206(a) of such Act with respect to which enforcement action is pending or commenced on or after the date of the enactment of this Act \[Oct. 16, 2007\].
 
 "(2)
 

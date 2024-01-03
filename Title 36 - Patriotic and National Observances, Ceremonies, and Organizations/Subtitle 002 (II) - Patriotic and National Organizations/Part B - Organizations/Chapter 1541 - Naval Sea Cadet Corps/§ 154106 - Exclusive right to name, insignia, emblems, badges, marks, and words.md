@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Sept. 10, 1962, Pub. L. 87–655, §16, 76 Stat. 533.
 
-The words "sole", "to have and", and "in carrying out its purposes" are omitted as unnecessary. The words "required to carry out the duties and powers ofthe corporation" are substituted for "as may be required in the furtherance of its functions" for consistency in the revised title and with other titles of the United States Code. The words "This section does not affect any vested rights" are substituted for "No powers or privileges granted shall, however, interfere or conflict with established or vested rights" for consistency in the revised title and to eliminate unnecessary words.
+The words "sole", "to have and", and "in carrying out its purposes" are omitted as unnecessary. The words "required to carry out the duties and powers of the corporation" are substituted for "as may be required in the furtherance of its functions" for consistency in the revised title and with other titles of the United States Code. The words "This section does not affect any vested rights" are substituted for "No powers or privileges granted shall, however, interfere or conflict with established or vested rights" for consistency in the revised title and to eliminate unnecessary words.
 

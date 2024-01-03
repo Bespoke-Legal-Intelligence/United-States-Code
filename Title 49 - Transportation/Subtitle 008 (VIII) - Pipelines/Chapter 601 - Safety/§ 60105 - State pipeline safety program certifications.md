@@ -14,7 +14,7 @@ Contents.—Each certification submitted under subsection (a) of this section sh
 
 &emsp;(3) is enforcing each adopted standard through ways that include inspections conducted by State employees meeting the qualifications the Secretary prescribes under section 60107(d)(1)(C) of this title;
 
-&emsp;(4) is encouraging and promoting the establishment of a program designed to prevent damage by demolition, excavation, tunneling, or construction activity to the pipeline facilities to which the certification applies that subjects persons who violate the applicable requirements of that program to civil penalties and other enforcement actions that are substantially the same as are provided under thischapter, and addresses the elements in section 60134(b);
+&emsp;(4) is encouraging and promoting the establishment of a program designed to prevent damage by demolition, excavation, tunneling, or construction activity to the pipeline facilities to which the certification applies that subjects persons who violate the applicable requirements of that program to civil penalties and other enforcement actions that are substantially the same as are provided under this chapter, and addresses the elements in section 60134(b);
 
 &emsp;(5) may require record maintenance, reporting, and inspection substantially the same as provided under section 60117 of this title;
 

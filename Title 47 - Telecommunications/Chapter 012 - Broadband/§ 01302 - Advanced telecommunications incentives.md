@@ -36,7 +36,7 @@ For purposes of this subsection: <sup>2</sup>
 
 #### References in Text
 
-Subsection (d)(1), referred to in subsec. (c), was in the original "section 706(c)(1) of the TelecommunicationsAct of 1996" and was translated as reading "section 706(d)(1) of the Telecommunications Act of 1996", which is classified to subsection (d)(1) of this section, to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by Pub. L. 110–385, title I, §103(a)(2), Oct. 10, 2008, 122 Stat. 4096.
+Subsection (d)(1), referred to in subsec. (c), was in the original "section 706(c)(1) of the Telecommunications Act of 1996" and was translated as reading "section 706(d)(1) of the Telecommunications Act of 1996", which is classified to subsection (d)(1) of this section, to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by Pub. L. 110–385, title I, §103(a)(2), Oct. 10, 2008, 122 Stat. 4096.
 
 #### Codification
 

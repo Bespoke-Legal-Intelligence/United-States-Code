@@ -1,6 +1,6 @@
 ### §4016. Annual report
 
-During each calendar year until 1999, the Administrator shall prepare and submit, not later than June 1 of each year, to the Committee on Environment and Public Works of the Senateand to the Committee on Energy and Commerce of the House of Representatives a report on the loan and grant program authorized by section 4014 of this title.
+During each calendar year until 1999, the Administrator shall prepare and submit, not later than June 1 of each year, to the Committee on Environment and Public Works of the Senate and to the Committee on Energy and Commerce of the House of Representatives a report on the loan and grant program authorized by section 4014 of this title.
 
 &emsp;(1) describe the number of applications received;
 
@@ -22,7 +22,7 @@ During each calendar year until 1999, the Administrator shall prepare and submit
 
 <b>1990</b>—Pub. L. 101–637, §14(a)(7), made technical amendment to section catchline.
 
-Pub. L. 101–637, §8(a), amended first sentence generally. Prior to amendment, first sentence read as follows: "During each of the ten calendar years after 1984, the Administrator shall prepare and submit not later than February 1 of each year a report to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives on the loan and grant program authorized by section 4014 of this title."
+Pub. L. 101–637, §8(a), amended first sentence generally. Prior to amendment, first sentence read as follows: "During each of the ten calendar years after 1984, the Administrator shall prepare and submit not laterthan February 1 of each year a report to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives on the loan and grant program authorized by section 4014 of this title."
 
 Par. (6). Pub. L. 101–637, §8(b), inserted before period at end "and the amount of resources needed by such schools, categorized by State, to abate all remaining asbestos hazards".
 

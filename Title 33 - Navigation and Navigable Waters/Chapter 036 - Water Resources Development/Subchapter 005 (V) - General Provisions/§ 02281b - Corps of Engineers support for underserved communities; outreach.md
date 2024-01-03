@@ -128,7 +128,7 @@ Committee.—The term 'Committee' means the Tribal and Economically Disadvantage
 
 &emsp;"(2)
 
-Economically disadvantaged community.—The term 'economically disadvantaged community' has the meaning given the term as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 \[div. AA of Pub. L. 116–260\] (33 U.S.C. 2201 note).
+Economically disadvantaged community.—The term 'economically disadvantaged community'has the meaning given the term as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 \[div. AA of Pub. L. 116–260\] (33 U.S.C. 2201 note).
 
 &emsp;"(3)
 

@@ -38,7 +38,7 @@ Persons knowingly furnishing false information.—Subsection (a) does not apply 
 
 (c)
 
-Preemption of State and Local Law.—No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) that prohibits, penalizes, or imposes liability for furnishing or using safety performance records in accordance with regulations issued by the Secretary to carry out this section. Notwithstanding any provision of law, written authorization shall not be required to obtain information on the motor vehicle driving record ofan individual under consideration for employment with a motor carrier.
+Preemption of State and Local Law.—No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) that prohibits, penalizes, or imposes liability for furnishing or using safety performance records in accordance with regulations issued by the Secretary to carry out this section. Notwithstanding any provision of law, written authorization shall not be required to obtain information on the motor vehicle driving record of an individual under consideration for employment with a motor carrier.
 
 (Added Pub. L. 105–178, title IV, §4014(a)(1), June 9, 1998, 112 Stat. 409.)
 
@@ -50,7 +50,7 @@ Pub. L. 105–178, title IV, §4014(a)(1), June 9, 1998, 112 Stat. 409, which di
 
 #### Prior Provisions
 
-A prior section 508, added Pub. L. 102–548, §2(a), Oct. 28, 1992, 106 Stat. 3646, related to certification of weights and description, prior to repeal by Pub. L. 103–272, §4(j)(11)(B), July 5, 1994, 108 Stat. 1368. See chapter 59 of this title.
+A prior section 508, added Pub. L. 102–548, §2(a), Oct. 28, 1992, 106 Stat. 3646, related to certification ofweights and description, prior to repeal by Pub. L. 103–272, §4(j)(11)(B), July 5, 1994, 108 Stat. 1368. See chapter 59 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

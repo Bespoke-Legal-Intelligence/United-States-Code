@@ -36,7 +36,7 @@ Pub. L. 109–401, title II, §201, Dec. 18, 2006, 120 Stat. 2741, provided that
 
 Ex. Ord. No. 13458, Feb. 4, 2008, 73 F.R. 7181, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the United States Additional Protocol Implementation Act (the "Act") (Public Law 109–401\[, title II\]) and section 301 of title 3, United States Code, and in order to facilitate implementation of the Act and the Protocol Additional to the Agreement between the United States and the International Atomic Energy Agency for the Application of Safeguards in the United States of America (the "Additional Protocol"), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the United States Additional Protocol Implementation Act (the "Act") (Public Law 109–401\[, title II\]) and section 301 of title 3, United States Code, and in order to facilitate implementation of the Act and the Protocol Additional to the Agreement between the United States and the InternationalAtomic Energy Agency for the Application of Safeguards in the United States of America (the "Additional Protocol"), it is hereby ordered as follows:
 
 Section 1. The Secretaries of State, Defense, Commerce, and Energy, the Attorney General, the Nuclear Regulatory Commission, and heads of such other agencies as appropriate, each shall issue, amend, or revise, and enforce such regulations, orders, directives, instructions, or procedures as are necessary to implement the Act and United States obligations under the Additional Protocol.
 

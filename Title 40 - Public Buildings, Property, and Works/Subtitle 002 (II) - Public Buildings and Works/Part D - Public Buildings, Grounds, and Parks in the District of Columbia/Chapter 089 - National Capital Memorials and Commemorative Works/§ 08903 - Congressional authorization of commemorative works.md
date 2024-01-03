@@ -10,7 +10,7 @@ In General.—Commemorative works—
 
 (b)
 
-Military Commemorative Works.—A military commemorative work may be authorized only to commemorate a war or similar major military conflict or a branch of the armed forces. A commemorative work solely commemorating a limited military engagement or a unit of an armed force may not be authorized. Commemorative works to a war or similar major military conflict may not be authorizeduntil at least 10 years after the officially designated end of such war or conflict.
+Military Commemorative Works.—A military commemorative work may be authorized only to commemorate a war or similar major military conflict or a branch of the armed forces. A commemorative work solely commemorating a limited military engagement or a unit of an armed force may not be authorized. Commemorative works to a war or similar major military conflict may not be authorized until at least 10 years after the officially designated end of such war or conflict.
 
 (c)
 
@@ -100,7 +100,7 @@ Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–3
 
 African-Americans Civil War Union Memorial.—Pub. L. 102–412, Oct. 14, 1992, 106 Stat. 2104.
 
-Air Force Memorial.—Pub. L. 103–163, Dec. 2, 1993, 107 Stat. 1973; Pub. L. 106–302, Oct. 13, 2000, 114 Stat. 1062; Pub. L. 107–107, div. B, title XXVIII, §2863(a)–(e), Dec. 28, 2001, 115 Stat. 1330–1332.
+Air Force Memorial.—Pub. L. 103–163, Dec. 2, 1993, 107 Stat. 1973; Pub. L. 106–302, Oct. 13, 2000, 114 Stat. 1062; Pub. L. 107–107, div. B, title XXVIII, §2863(a)–(e), Dec. 28, 2001, 115 Stat. 1330–1332; Pub. L. 118–31, div. B, title XXVIII, §2884, Dec. 22, 2023, 137 Stat. 782.
 
 American Armored Force Memorial.—Pub. L. 99–620, Nov. 6, 1986, 100 Stat. 3493.
 

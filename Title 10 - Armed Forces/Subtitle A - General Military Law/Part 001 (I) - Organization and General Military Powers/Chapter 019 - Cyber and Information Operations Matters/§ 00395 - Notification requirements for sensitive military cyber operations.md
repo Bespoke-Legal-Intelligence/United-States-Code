@@ -14,7 +14,7 @@ Procedures.—(1) The Secretary of Defense shall establish and submit to the con
 
 (c)
 
-Sensitive Military Cyber Operation Defined.—(1) In this section, the term "sensitivemilitary cyber operation" means an action described in paragraph (2) that—
+Sensitive Military Cyber Operation Defined.—(1) In this section, the term "sensitive military cyber operation" means an action described in paragraph (2) that—
 
 &emsp;(A) is carried out by the armed forces of the United States;
 
@@ -56,7 +56,7 @@ Exceptions.—The notification requirement under subsection (a) does not apply�
 
 Rule of Construction.—Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution (50 U.S.C. 1541 et seq.), the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note), or any requirement under the National Security Act of 1947 (50 U.S.C. 3001 et seq.).
 
-(Added Pub. L. 115–91, div. A, title XVI, §1631(a), Dec. 12, 2017, 131 Stat. 1736, §130j; renumbered §395 and amended Pub. L. 115–232, div. A, title X, §1081(a)(1), title XVI, §1631(a), Aug. 13, 2018, 132 Stat. 1983, 2123; Pub. L. 116–92, div. A, title XVI, §1632, Dec. 20, 2019, 133 Stat. 1745; Pub. L. 116–283, div. A, title XVII, §1702, Jan. 1, 2021, 134 Stat. 4080.)
+(Added Pub. L. 115–91, div. A, title XVI, §1631(a), Dec. 12, 2017, 131 Stat. 1736, §130j; renumbered §395 and amended Pub. L. 115–232, div. A, title X, §1081(a)(1), title XVI, §1631(a), Aug. 13, 2018, 132Stat. 1983, 2123; Pub. L. 116–92, div. A, title XVI, §1632, Dec. 20, 2019, 133 Stat. 1745; Pub. L. 116–283, div. A, title XVII, §1702, Jan. 1, 2021, 134 Stat. 4080.)
 
 #### <b>Editorial Notes</b>
 

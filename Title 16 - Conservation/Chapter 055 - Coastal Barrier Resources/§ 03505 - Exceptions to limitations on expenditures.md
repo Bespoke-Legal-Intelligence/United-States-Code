@@ -46,7 +46,7 @@ The limitations on the use of Federal expenditures or financial assistance withi
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3) of this subsection, limitations on the use of Federal expenditures or financial assistance within the System under section 3504 of this title shall not apply to expenditures or assistance provided for services or facilities and related infrastructure located outside theboundaries of unit T–11 of the System (as depicted on the maps referred to in section 3503(a) of this title) which relate to an activity within that unit.
+&emsp;Except as provided in paragraphs (2) and (3) of this subsection, limitations on the use ofFederal expenditures or financial assistance within the System under section 3504 of this title shall not apply to expenditures or assistance provided for services or facilities and related infrastructure located outside the boundaries of unit T–11 of the System (as depicted on the maps referred to in section 3503(a) of this title) which relate to an activity within that unit.
 
 #### (2) Prohibition of flood insurance coverage
 

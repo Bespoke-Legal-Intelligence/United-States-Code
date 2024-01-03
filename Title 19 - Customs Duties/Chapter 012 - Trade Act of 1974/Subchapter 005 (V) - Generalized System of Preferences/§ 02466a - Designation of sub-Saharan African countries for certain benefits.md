@@ -58,7 +58,7 @@
 
 #### (1) In general
 
-&emsp;In carrying out subsection (a)(2), the President shall publish annually in the FederalRegister a notice of review and request for public comments on whether beneficiary sub-Saharan African countries are meeting the eligibility requirements set forth in section 104 of the African Growth and Opportunity Act \[19 U.S.C. 3703\] and the eligibility criteria set forth in section 2462 of this title.
+&emsp;In carrying out subsection (a)(2), the President shall publish annually in the Federal Register a notice of review and request for public comments on whether beneficiary sub-Saharan African countries are meeting the eligibility requirements set forth in section 104 of the African Growth and Opportunity Act \[19 U.S.C. 3703\] and the eligibility criteria set forth in section 2462 of this title.
 
 #### (2) Public hearing
 
@@ -140,7 +140,7 @@ Subsec. (c). Pub. L. 108–274, §7(a)(2)(B), substituted "subchapter—" for "s
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–27, title I, §104(d), June 29, 2015, 129 Stat. 365, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] take effect on the date of the enactment of this Act \[June 29, 2015\] and apply with respect to any article described in section 503(b)(1)(B) through (G) of the Trade Act of 1974 \[19 U.S.C. 2463(b)(1)(B) through (G)\] that is the growth, product, or manufacture of a beneficiary sub-Saharan African country and that is imported into the customs territory of the United States on or after the date that is 30 days after such date of enactment."
+Pub. L. 114–27, title I, §104(d), June 29, 2015, 129 Stat. 365, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] take effect on the date of the enactment of this Act \[June 29, 2015\]and apply with respect to any article described in section 503(b)(1)(B) through (G) of the Trade Act of 1974 \[19 U.S.C. 2463(b)(1)(B) through (G)\] that is the growth, product, or manufacture of a beneficiary sub-Saharan African country and that is imported into the customs territory of the United States on or after the date that is 30 days after such date of enactment."
 
 \[For definition of "beneficiary sub-Saharan African country" as used in section 104(d) of Pub. L. 114–27, set out above, see section 112 of Pub. L. 114–27, set out as a note under section 3701 of this title.\]
 

@@ -16,6 +16,7 @@
 - [&sect; 03926 - Regulations; delegation of functions](%C2%A7%2003926%20-%20Regulations%3B%20delegation%20of%20functions.md)
 - [&sect; 03927 - Chief of mission](%C2%A7%2003927%20-%20Chief%20of%20mission.md)
 - [&sect; 03927a - Review by chief of mission](%C2%A7%2003927a%20-%20Review%20by%20chief%20of%20mission.md)
+- [&sect; 03927b - Reporting requirement on chiefs of mission](%C2%A7%2003927b%20-%20Reporting%20requirement%20on%20chiefs%20of%20mission.md)
 - [&sect; 03928 - Director General of Foreign Service](%C2%A7%2003928%20-%20Director%20General%20of%20Foreign%20Service.md)
 - [&sect; 03929 - Inspector General](%C2%A7%2003929%20-%20Inspector%20General.md)
 - [&sect; 03929a - Abolishment of Inspector General of Department of State and Foreign Service](%C2%A7%2003929a%20-%20Abolishment%20of%20Inspector%20General%20of%20Department%20of%20State%20and%20Foreign%20Service.md)

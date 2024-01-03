@@ -80,7 +80,7 @@ Not later than 4 years after June 10, 2014, the Secretary shall submit to the Co
 
 #### References in Text
 
-Section 1005, referred to in subsec. (d)(1), is section 1005 of Pub. L. 113–121, which enacted section 2349 of this title and amended generally section 2348 of this title.
+Section 1005, referred to in subsec. (d)(1), is section 1005 of Pub. L. 113–121, which enacted section 2349 ofthis title and amended generally section 2348 of this title.
 
 #### Codification
 

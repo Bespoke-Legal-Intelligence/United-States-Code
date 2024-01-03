@@ -26,7 +26,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), there shall be allowed as a deduction all the ordinary and necessary expenses paid or incurred for the production or collection of gross investment income or for the management, conservation, or maintenance of property held for the production of such income, determined with the modifications set forth in subparagraph (B).
+&emsp;&emsp;For purposes of paragraph (1), there shall be allowed as a deduction all the ordinaryand necessary expenses paid or incurred for the production or collection of gross investment income or for the management, conservation, or maintenance of property held for the production of such income, determined with the modifications set forth in subparagraph (B).
 
 #### (B) Modifications
 
@@ -242,7 +242,7 @@ Section 4941.—Section 4941 shall not apply to—
 
 Section 4942.—In the case of organizations organized before May 27, 1969, section 4942 shall—
 
-&emsp;"(A) for all purposes other than the determination of the minimum investment return under section 4942(j)(3)(B)(ii), for taxable years beginning beforeJanuary 1, 1972, apply without regard to section 4942(e) (relating to minimum investment return), and for taxable years beginning in 1972, 1973, and 1974, apply with an applicable percentage (as prescribed in section 4942(e)(3)) which does not exceed 4½ percent, 5 percent, and 5½ percent, respectively;
+&emsp;"(A) for all purposes other than the determination of the minimum investment return under section 4942(j)(3)(B)(ii), for taxable years beginning before January 1, 1972, apply without regard to section 4942(e) (relating to minimum investment return), and for taxable years beginning in 1972, 1973, and 1974, apply with an applicable percentage (as prescribed in section 4942(e)(3)) which does not exceed 4½ percent, 5 percent, and 5½ percent, respectively;
 
 &emsp;"(B) not apply to an organization to the extent its income is required to be accumulated pursuant to the mandatory terms (as in effect on May 26, 1969, and at all times thereafter) of an instrument executed before May 27, 1969, with respect to the transfer of income producing property to such organization, except that section 4942 shall apply to such organization if the organization would have been denied exemption if section 504(a) had not been repealed by this Act, or would have had its deductions under section 642(c) limited if section 681(c) had not been repealed by this Act. In applying the preceding sentence, in addition to the limitations contained in section 504(a) or 681(c) before its repeal, section 504(a)(1) or 681(c)(1) shall be treated as not applying to an organization to the extent its income is required to be accumulated pursuant to the mandatory terms (as in effect on January 1, 1951, and at all times thereafter) of an instrument executed before January 1, 1951, with respect to the transfer of income producing property to such organization before such date, if such transfer was irrevocable on such date;
 
@@ -270,7 +270,7 @@ Section 4943.—
 
 &emsp;&emsp;"(i) which was incorporated before January 1, 1951;
 
-&emsp;&emsp;"(ii) substantially all of the assets of which on May 26, 1969, consist of more than 90 percent of the stock of an incorporated business enterprise which is licensed and regulated, the sales or contracts of which are regulated, and the professional representatives of which are licensed, by State regulatory agencies in at least 10 States; and
+&emsp;&emsp;"(ii) substantially all of the assets of which on May 26, 1969, consist of more than 90 percent of the stock of an incorporated business enterprise whichis licensed and regulated, the sales or contracts of which are regulated, and the professional representatives of which are licensed, by State regulatory agencies in at least 10 States; and
 
 &emsp;&emsp;"(iii) which acquired such stock solely by gift, devise, or bequest, section 4943(c)(4)(A)(i) shall be applied with respect to the holdings of such foundation in such incorporated business enterprise as if it did not contain the phrase ', but in no event shall the percentage so substituted be more than 50 percent', and section 4943(c)(4)(D) shall not apply with respect to such holdings. For purposes of the preceding sentence, stock of such enterprise in a trust created before May 27, 1969, of which the foundation is the remainder beneficiary shall be deemed to be held by such foundation on May 26, 1969, if such foundation held (without regard to such trust) more than 20 percent of the stock of such enterprise on May 26, 1969.
 
@@ -300,7 +300,7 @@ Certain redemptions.—For purposes of applying section 302(b)(1) to the determi
 
 \[Pub. L. 98–369, div. A, title III, §314(b)(2), July 18, 1984, 98 Stat. 787, provided that: "The amendment made by paragraph (1) \[amending section 101(4)(A)(iii) of Pub. L. 91–172, set out above\] shall apply as if included in section 101(l)(4) of the Tax Reform Act of 1969 \[Pub. L. 91–172\]."\]
 
-\[Pub. L. 94–455, title XIII, §1301(b), Oct. 4, 1976, 90 Stat. 1713, provided that: "The amendments made bysubsection (a) \[enacting subpar. (F) of section 101(2) of Pub. L. 91–172, set out above\] shall apply to dispositions after the date of the enactment of this Act \[Oct. 4, 1976\] in taxable years ending after such date."\]
+\[Pub. L. 94–455, title XIII, §1301(b), Oct. 4, 1976, 90 Stat. 1713, provided that: "The amendments made by subsection (a) \[enacting subpar. (F) of section 101(2) of Pub. L. 91–172, set out above\] shall apply to dispositions after the date of the enactment of this Act \[Oct. 4, 1976\] in taxable years ending after such date."\]
 
 \[Pub. L. 94–455, title XIII, §1309(b), Oct. 4, 1976, 90 Stat. 1729, provided that: "The amendment made by this section \[amending section 101(2)(B) of Pub. L. 91–172, set out above\] shall apply to dispositions made after the date of enactment of this Act \[Oct. 4, 1976\]."\]
 

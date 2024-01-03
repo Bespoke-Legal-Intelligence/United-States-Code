@@ -52,7 +52,7 @@ For purposes of this chapter, the term "qualified alien" includes—
 
 &emsp;(3) an alien child who—
 
-&emsp;&emsp;(A) resides in the same household as a parent who has been battered or subjected to extreme cruelty in the United States by that parent's spouse or by a member of thespouse's family residing in the same household as the parent and the spouse consented or acquiesced to such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
+&emsp;&emsp;(A) resides in the same household as a parent who has been battered or subjected to extreme cruelty in the United States by that parent's spouse or by a member of the spouse's family residing in the same household as the parent and the spouse consented or acquiesced to such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
 
 &emsp;&emsp;(B) who meets the requirement of subparagraph (B) of paragraph (1); or
 
@@ -72,7 +72,7 @@ This chapter, referred to in text, was in the original "this title" meaning titl
 
 The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-Section 243 of such Act, referred to in subsec. (b)(5), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section 243 of such Act, referred to in subsec. (b)(5), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III,§307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Section 203(a)(7) of such Act as in effect prior to April 1, 1980, referred to in subsec. (b)(6), means section 203(a)(7) of act June 27, 1952, which was classified to section 1153(a)(7) of this title. Section 1153(a)(7) of this title was repealed and section 1153(a)(8) was redesignated section 1153(a)(7) by Pub. L. 96–212, title II, §203(c)(3), (6), Mar. 17, 1980, 94 Stat. 107, effective Apr. 1, 1980.
 

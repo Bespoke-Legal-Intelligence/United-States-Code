@@ -12,7 +12,7 @@ Grant Conditions.—Any grant made under this section shall provide that—
 
 &emsp;(2) the Secretary shall have the right of access at reasonable times to the public portions of the property for interpretive and other purposes; and
 
-&emsp;(3) conversion, use, or disposal of the property for purposes contrary to the purposes of this chapter, as determined by the Secretary, shall result in a right of the United States to compensation equal to all Federal funds made available to the grantee under this chapter.
+&emsp;(3) conversion, use, or disposal of the property for purposes contrary to the purposes of this chapter, as determined by the Secretary,shall result in a right of the United States to compensation equal to all Federal funds made available to the grantee under this chapter.
 
 (c)
 

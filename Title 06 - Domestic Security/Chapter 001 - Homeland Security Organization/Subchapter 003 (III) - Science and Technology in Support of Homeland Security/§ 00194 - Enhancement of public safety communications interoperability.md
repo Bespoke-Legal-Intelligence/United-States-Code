@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) develop, in consultation with other appropriate Federal agencies and State and local authorities, appropriate minimum capabilities for communications interoperability for Federal, State, and local public safety agencies;
 
-&emsp;&emsp;(D) accelerate, in consultation with other Federal agencies, including the National Institute of Standards and Technology, the private sector, and nationally recognizedstandards organizations as appropriate, the development of national voluntary consensus standards for public safety interoperable communications, recognizing—
+&emsp;&emsp;(D) accelerate, in consultation with other Federal agencies, including the National Institute of Standards and Technology, the private sector, and nationally recognized standards organizations as appropriate, the development of national voluntary consensus standards for public safety interoperable communications, recognizing—
 
 &emsp;&emsp;&emsp;(i) the value, life cycle, and technical capabilities of existing communications infrastructure;
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(H) establish coordinated guidance for Federal grant programs for public safety interoperable communications;
 
-&emsp;&emsp;(I) provide technical assistance to State and local public safety agencies regarding planning, acquisition strategies, interoperability architectures, training, and other functions necessary to achieve public safety communications interoperability;
+&emsp;&emsp;(I) provide technical assistance to State and local public safety agencies regarding planning, acquisition strategies, interoperability architectures, training, and otherfunctions necessary to achieve public safety communications interoperability;
 
 &emsp;&emsp;(J) develop and disseminate best practices to improve public safety communications interoperability; and
 
@@ -106,7 +106,7 @@ Not later than 18 months after December 17, 2004, the President shall establish 
 
 #### (C) Notice to Secretary
 
-&emsp;&emsp;An applicant that is issued a letter of intent under this subsection shall notify theSecretary of the applicant's intent to carry out a project pursuant to the letter before the project begins.
+&emsp;&emsp;An applicant that is issued a letter of intent under this subsection shall notify the Secretary of the applicant's intent to carry out a project pursuant to the letter before the project begins.
 
 #### (D) Notice to Congress
 
@@ -182,7 +182,7 @@ Section 510 of the Homeland Security Act of 2002, as added by subsection (d), re
 
 Section is comprised of section 7303 of Pub. L. 108–458. Subsec. (d) of section 7303 of Pub. L. 108–458 enacted section 321 of this title. Subsec. (h) of section 7303 of Pub. L. 108–458 amended sections 238 and 314 of this title.
 
-Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also aspart of the 9/11 Commission Implementation Act of 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 Section 301(c) of Pub. L. 110–53, which directed the amendment of section 7303 of the "Intelligence Reform and Terrorist Prevention Act of 2004", was executed to this section, which is section 7303 of the Intelligence Reform and Terrorism Prevention Act of 2004, to reflect the probable intent of Congress. See 2007 Amendment notes below.
 
@@ -276,7 +276,7 @@ In General.—Not later than 180 days after the date of enactment of this Act \[
 
 Supplementary Material.—Together with the strategy required under subsection (a), the Under Secretary for Management shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate information on—
 
-&emsp;"(1) any intra-agency effort or task force that has been delegated certain responsibilities by the Under Secretary for Management relating to achieving and maintaining interoperable communications amongthe components of the Department by the dates referred to in subsection (a)(7); and
+&emsp;"(1) any intra-agency effort or task force that has been delegated certain responsibilities by the Under Secretary for Management relating to achieving and maintaining interoperable communications among the components of the Department by the dates referred to in subsection (a)(7); and
 
 &emsp;"(2) who, within each such component, is responsible for implementing policies and directives issued by the Under Secretary for Management to so achieve and maintain such interoperable communications.
 

@@ -20,7 +20,7 @@ As programs authorized under this Act are implemented, the Director shall—
 
 #### (2) Submission
 
-&emsp;Not later than 1 year after December 19, 2002, and annually thereafter as part of the annual Office of Science and Technology Policy's budget submission to Congress, the Director of the Office of Science and Technology Policy shall complete a report on the review carried out under this subsection and shall submit the report to the Committee on Science and the Committee on Appropriations of the House of Representatives, and to the Committee on Commerce, Science, and Transportation, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate.
+&emsp;Not later than 1 year after December 19, 2002, and annually thereafter as part of the annual Office of Science and Technology Policy's budget submission to Congress, the Director ofthe Office of Science and Technology Policy shall complete a report on the review carried out under this subsection and shall submit the report to the Committee on Science and the Committee on Appropriations of the House of Representatives, and to the Committee on Commerce, Science, and Transportation, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate.
 
 (Pub. L. 107–368, §12, Dec. 19, 2002, 116 Stat. 3054.)
 

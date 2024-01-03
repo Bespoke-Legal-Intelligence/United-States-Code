@@ -14,3 +14,4 @@
 - [&sect; 04027 - Visiting Scholars Program](%C2%A7%2004027%20-%20Visiting%20Scholars%20Program.md)
 - [&sect; 04028 - Training for Foreign Service officers](%C2%A7%2004028%20-%20Training%20for%20Foreign%20Service%20officers.md)
 - [&sect; 04029 - Increased training in multilateral diplomacy](%C2%A7%2004029%20-%20Increased%20training%20in%20multilateral%20diplomacy.md)
+- [&sect; 04030 - Suitability reviews for Foreign Service Institute instructors](%C2%A7%2004030%20-%20Suitability%20reviews%20for%20Foreign%20Service%20Institute%20instructors.md)

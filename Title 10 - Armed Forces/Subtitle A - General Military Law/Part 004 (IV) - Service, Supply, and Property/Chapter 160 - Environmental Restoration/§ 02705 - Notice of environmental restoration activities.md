@@ -42,17 +42,45 @@ Restoration Advisory Board.—(1) In lieu of establishing a technical review com
 
 (e)
 
-Technical Assistance.—(1) The Secretary may, upon the request of the technical review committee or restoration advisory board for an installation, authorize the commander of the installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) to obtain for the committee or advisory board, as the case may be, from private sector sources technical assistance for interpreting scientific and engineering issues with regard to the nature of environmental hazards at the installation and the restoration activities conducted, or proposed to be conducted, at the installation. The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) shall use funds made available under subsection (g) for obtaining assistance under this paragraph.
+Technical Assistance.—(1) The Secretary may, upon the request of the technical review committee for an installation, restoration advisory board for an installation, community concerned with respect to an installation, or individual member of such community, authorize the commander of the installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) to obtain from covered sources technical assistance for the committee, advisory board, community, or individual (as the case may be) to interpret scientific and engineering issues with regard to the nature of environmental hazards at the installation and the restoration activities conducted, or proposed to be conducted, at the installation. The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) shall use funds made available under subsection (g) for obtaining assistance under this paragraph.
 
-(2) The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) may obtain technical assistance under paragraph (1) for a technical review committee or restoration advisory board only if—
+(2) The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) may obtain technical assistance under paragraph (1) for a technical review committee, restoration advisory board, community, or individual only if the technical assistance—
 
-&emsp;(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technical expertise necessary for achieving the objective for which the technical assistance is to be obtained; or
+&emsp;(A) is likely to contribute to the efficiency, effectiveness, or timeliness of environmental restoration activities at the installation; or
 
-&emsp;(B) the technical assistance—
+&emsp;(B) is a service described in paragraph (3).
 
-&emsp;&emsp;(i) is likely to contribute to the efficiency, effectiveness, or timeliness of environmental restoration activities at the installation; and
+(3) A service described in this paragraph is a service to improve public participation in, or assist in the navigation of, environmental restoration activities at an installation by the community concerned or an individual member of such community, including with respect to the following:
 
-&emsp;&emsp;(ii) is likely to contribute to community acceptance of environmental restoration activities at the installation.
+&emsp;(A) The interpretation of site-related documents, including documents concerning the nature of a release or threatened release at the installation, monitoring, testing plans, and reports associated with site assessment and characterization at the installation.
+
+&emsp;(B) The interpretation of health-related information.
+
+&emsp;(C) The interpretation of documents, plans, proposed actions, and final decisions relating to—
+
+&emsp;&emsp;(i) an interim remedial action;
+
+&emsp;&emsp;(ii) a remedial investigation or feasibility study;
+
+&emsp;&emsp;(iii) a record of decision;
+
+&emsp;&emsp;(iv) a remedial design;
+
+&emsp;&emsp;(v) the selection and construction of remedial action;
+
+&emsp;&emsp;(vi) operation and maintenance;
+
+&emsp;&emsp;(vii) a five-year review at the installation; or
+
+&emsp;&emsp;(viii) a removal action at the installation.
+
+&emsp;(D) Assistance with the preparation of public comments.
+
+&emsp;(E) The development of outreach materials to improve public participation.
+
+&emsp;(F) The provision of advice and guidance regarding additional technical assistance for which the community or individual, as the case may be, may be eligible.
+
+(4) In this subsection, the term "covered source" means a private sector source, a Federaldepartment or agency other than the Department of Defense (pursuant to a Federal interagency agreement), or a nonprofit entity (pursuant to a cooperative agreement entered into with such entity).
 
 (f)
 
@@ -76,11 +104,25 @@ Funding.—The Secretary shall, to the extent provided in appropriations Acts, m
 
 &emsp;(2) In the case of an installation approved for closure pursuant to such a law, the Department of Defense Base Closure Account established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 103–337, div. A, title III, §326(a)–(c), Oct. 5, 1994, 108 Stat. 2712, 2713; Pub. L. 104–106, div. A, title III, §324(a)–(d)(1), (e), Feb. 10, 1996, 110 Stat. 252–254; Pub. L. 104–201, div. A, title III, §322(c), Sept. 23, 1996, 110 Stat. 2479; Pub. L. 108–136, div. A, title III, §317(b), title X, §1043(c)(5), Nov. 24, 2003, 117 Stat. 1432, 1612; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(C), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 117–286, §4(a)(53), Dec. 27, 2022, 136 Stat. 4311.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 103–337, div. A, title III, §326(a)–(c), Oct. 5, 1994, 108 Stat. 2712, 2713; Pub. L. 104–106, div. A, title III, §324(a)–(d)(1), (e), Feb. 10, 1996, 110 Stat. 252–254; Pub. L. 104–201, div. A, title III, §322(c), Sept. 23, 1996, 110 Stat. 2479; Pub. L. 108–136, div. A, title III, §317(b), title X, §1043(c)(5), Nov. 24, 2003, 117 Stat. 1432, 1612; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(C), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 117–286, §4(a)(53), Dec. 27, 2022, 136 Stat. 4311; Pub. L. 118–31, div. A, title III, §313, Dec. 22, 2023, 137 Stat. 215.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (e)(1). Pub. L. 118–31, §313(1), substituted "upon the request of the technical review committee for an installation, restoration advisory board for an installation, community concerned with respect to an installation, or individual member of such community" for "upon the request of the technical review committee or restoration advisory board for an installation" and "to obtain from covered sources technical assistance for the committee, advisory board, community, or individual (as the case may be) to interpret" for "to obtain for the committee or advisory board, as the case may be, from private sector sources technical assistance for interpreting".
+
+Subsec. (e)(2). Pub. L. 118–31, §313(2), substituted "technical review committee, restoration advisory board, community, or individual only if the technical assistance—" and subpars. (A) and (B) for "technical review committee or restoration advisory board only if—
+
+&emsp;"(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technical expertise necessary for achieving the objective for which the technical assistance is to be obtained; or
+
+&emsp;"(B) the technical assistance—
+
+&emsp;&emsp;"(i) is likely to contribute to the efficiency, effectiveness, or timeliness of environmental restoration activities at the installation; and
+
+&emsp;&emsp;"(ii) is likely to contribute to community acceptance of environmental restoration activities at the installation."
+
+Subsec. (e)(3), (4). Pub. L. 118–31, §313(3), added pars. (3) and (4).
 
 <b>2022</b>—Subsec. (d)(2)(C). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)".
 

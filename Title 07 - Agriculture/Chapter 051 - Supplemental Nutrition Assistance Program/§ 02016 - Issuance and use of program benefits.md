@@ -42,7 +42,7 @@ Notwithstanding any other provision of this chapter, the State agency shall be s
 
 &emsp;&emsp;The Secretary may exempt from subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) farmers' markets and other direct-to-consumer markets, military commissaries, nonprofit food buying cooperatives, and establishments, organizations, programs, or group living arrangements described inparagraphs (5), (7), and (8) of section 2012(k) of this title; and
+&emsp;&emsp;&emsp;(i) farmers' markets and other direct-to-consumer markets, military commissaries, nonprofit food buying cooperatives, and establishments, organizations, programs, or group living arrangements described in paragraphs (5), (7), and (8) of section 2012(k) of this title; and
 
 &emsp;&emsp;&emsp;(ii) establishments described in paragraphs (3), (4), and (9) of section 2012(k) of this title, other than restaurants participating in a State option restaurant program.
 
@@ -132,7 +132,7 @@ In general.—
 
 &emsp;(A)
 
-Implementation.—Not later than October 1, 2002, each State agency shall implement an electronic benefit transfer system under which household benefits determined under section 2017(a) or 2035 of this title are issuedfrom and stored in a central databank, unless the Secretary provides a waiver for a State agency that faces unusual barriers to implementing an electronic benefit transfer system.
+Implementation.—Not later than October 1, 2002, each State agency shall implement an electronic benefit transfer system under which household benefits determined under section 2017(a) or 2035 of this title are issued from and stored in a central databank, unless the Secretary provides a waiver for a State agency that faces unusual barriers to implementing an electronic benefit transfer system.
 
 &emsp;(B)
 
@@ -216,7 +216,7 @@ Requirements.—The terms and conditions established by the Secretary shall prov
 
 &emsp;&emsp;&emsp;(II) after an excessive number of lost cards, the head of the household shall be required to review program rights and responsibilities with State agency personnel authorized to make determinations under section 2014(a) of this title; and
 
-&emsp;&emsp;&emsp;(III) any action taken, including actions required under section 2015(b)(2) of this title, other than the withholding of theelectronic benefit transfer card until an explanation described in subclause (I) is provided, shall be consistent with the due process protections under section 2015(b) or 2020(e)(10) of this title, as appropriate.
+&emsp;&emsp;&emsp;(III) any action taken, including actions required under section 2015(b)(2) of this title, other than the withholding of the electronic benefit transfer card until an explanation described in subclause (I) is provided, shall be consistent with the due process protections under section 2015(b) or 2020(e)(10) of this title, as appropriate.
 
 &emsp;(C)
 
@@ -422,7 +422,7 @@ Report to congress.—The Secretary shall—
 
 #### (B) Crediting
 
-&emsp;&emsp;Notwithstanding section 3302(b) of title 31, payments received under subparagraph (A) shall be credited to the supplemental nutrition assistance program appropriation account or the account from which the costs were drawn, as appropriate, for the fiscal year in which the payment is received.
+&emsp;&emsp;Notwithstanding section 3302(b) of title 31, payments received under subparagraph (A) shall be credited to the supplemental nutrition assistance program appropriation account or the account from which the costswere drawn, as appropriate, for the fiscal year in which the payment is received.
 
 #### (3) Reporting
 
@@ -516,7 +516,7 @@ Report to congress.—The Secretary shall—
 
 &emsp;&emsp;At the request of a State agency, the Secretary may provide 1 waiver to temporarily exempt, for a period ending on or before the date specified under clause (iii), the State agency from complying with the requirements of paragraph (2), if the State agency—
 
-&emsp;&emsp;&emsp;(i) establishes to the satisfaction of the Secretary that the State agency faces unusual technological barriers to achievingby October 1, 2002, the interoperability and portability required under paragraph (2);
+&emsp;&emsp;&emsp;(i) establishes to the satisfaction of the Secretary that the State agency faces unusual technological barriers to achieving by October 1, 2002, the interoperability and portability required under paragraph (2);
 
 &emsp;&emsp;&emsp;(ii) demonstrates that the best interest of the supplemental nutrition assistance program would be served by granting the waiver with respect to the electronic benefit transfer system used by the State agency to administer the supplemental nutrition assistance program; and
 
@@ -590,7 +590,7 @@ Report to congress.—The Secretary shall—
 
 &emsp;&emsp;&emsp;(vi) such other criteria, including security criteria, as established by the Secretary.
 
-(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, §3, Feb. 11, 2000, 114 Stat. 3; Pub. L. 107–171, title IV, §4110, May 13, 2002, 116 Stat. 309; Pub. L.110–234, title IV, §§4001(b), 4002(a)(4), 4113–4115(a), May 22, 2008, 122 Stat. 1092, 1093, 1103; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(4), 4113–4115(a), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1864, 1865; Pub. L. 111–203, title X, §1075(b), July 21, 2010, 124 Stat. 2074; Pub. L. 113–79, title IV, §§4002(b)–(d), 4010–4011(b)(2)(A), 4030(e), Feb. 7, 2014, 128 Stat. 783, 784, 789–792, 814; Pub. L. 115–334, title IV, §§4001(b), 4006(a)–(e), Dec. 20, 2018, 132 Stat. 4624, 4634, 4635.)
+(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L.99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, §3, Feb. 11, 2000, 114 Stat. 3; Pub. L. 107–171, title IV, §4110, May 13, 2002, 116 Stat. 309; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(4), 4113–4115(a), May 22, 2008, 122 Stat. 1092, 1093, 1103; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(4), 4113–4115(a), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1864, 1865; Pub. L. 111–203, title X, §1075(b), July 21, 2010, 124 Stat. 2074; Pub. L. 113–79, title IV, §§4002(b)–(d), 4010–4011(b)(2)(A), 4030(e), Feb. 7, 2014, 128 Stat. 783, 784, 789–792, 814; Pub. L. 115–334, title IV, §§4001(b), 4006(a)–(e), Dec. 20, 2018, 132 Stat. 4624, 4634, 4635.)
 
 #### <b>Editorial Notes</b>
 
@@ -662,7 +662,7 @@ Subsec. (f)(2). Pub. L. 113–79, §4002(b)(1), added par. (2) and struck out fo
 
 Subsec. (f)(4), (5). Pub. L. 113–79, §4002(b)(2), added pars. (4) and (5).
 
-Subsec. (h)(2)(C)(ii). Pub. L. 113–79, §4002(c), added cl. (ii) and struck out former cl. (ii) which read as follows: "effective not later than 2 years after August 22, 1996, to the extent practicable, measures that permit a system to differentiate items of food that may be acquired with an allotment from items of food that may not be acquired with an allotment;".
+Subsec. (h)(2)(C)(ii). Pub. L. 113–79, §4002(c), added cl. (ii) and struck out former cl. (ii) which read as follows: "effective not later than 2 years after August 22, 1996,to the extent practicable, measures that permit a system to differentiate items of food that may be acquired with an allotment from items of food that may not be acquired with an allotment;".
 
 Subsec. (h)(3)(B). Pub. L. 113–79, §4002(d), substituted "is operational at a sufficient number" for "is operational—
 
@@ -752,7 +752,7 @@ Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance pro
 
 Subsec. (k)(5)(B)(ii), (C). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program" wherever appearing.
 
-<b>2002</b>—Subsec. (i)(2). Pub. L. 107–171 redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which read as follows: "determining the cost-effectiveness of the system to ensure that its operational cost, including the pro rata cost of capital expenditures and other reasonable startup costs, does not exceed the operational cost of issuance systems in use prior to the implementation of the electronic benefit transfer system;".
+<b>2002</b>—Subsec. (i)(2). Pub. L. 107–171 redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which read as follows: "determining the cost-effectiveness of the system to ensurethat its operational cost, including the pro rata cost of capital expenditures and other reasonable startup costs, does not exceed the operational cost of issuance systems in use prior to the implementation of the electronic benefit transfer system;".
 
 <b>2000</b>—Subsec. (k). Pub. L. 106–171 added subsec. (k).
 
@@ -844,7 +844,7 @@ Amendment by Pub. L. 97–253 effective Sept. 8, 1982, see section 193(a) of Pub
 
 Amendment by Pub. L. 97–98 effective on earlier of Sept. 8, 1982, or date such amendment became effective pursuant to section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title, see section 192(b) of Pub. L. 97–253, set out as a note under section 2012 of this title.
 
-Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agriculture may prescribe, taking intoaccount need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1977 Amendment
 

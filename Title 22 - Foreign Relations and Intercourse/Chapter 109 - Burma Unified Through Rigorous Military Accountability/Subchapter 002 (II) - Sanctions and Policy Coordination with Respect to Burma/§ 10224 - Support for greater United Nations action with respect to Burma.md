@@ -20,7 +20,7 @@ The President shall direct the United States Permanent Representative to the Uni
 
 &emsp;(3) pushing the United Nations and other United Nations authorities to cut off assistance to the Government of Burma while providing humanitarian assistance directly to the people of Burma through United Nations bodies and civil society organizations, particularly such organizations working with ethnic minorities that have been adversely affected by the coup and the Burmese military's violent crackdown; and
 
-&emsp;(4) spurring the United Nations Security Council to consider multilateral sanctions against the Burmese military for its atrocities against Rohingya and individuals of other ethnic and religious minorities, its coup, and theatrocities it has and continues to commit in the coup's aftermath.
+&emsp;(4) spurring the United Nations Security Council to consider multilateral sanctions against the Burmese military for its atrocities against Rohingya and individuals of other ethnic and religious minorities, its coup, and the atrocities it has and continues to commit in the coup's aftermath.
 
 #### (c) Sense of Congress
 

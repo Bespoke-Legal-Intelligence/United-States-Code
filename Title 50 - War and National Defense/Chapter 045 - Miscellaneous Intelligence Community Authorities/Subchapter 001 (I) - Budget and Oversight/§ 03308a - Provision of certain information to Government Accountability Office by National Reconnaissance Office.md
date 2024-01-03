@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director of the National Reconnaissance Office shall provide to the Comptroller General of the United States, in a timely manner, access to the cost, schedule, and performance information the Comptroller General requires to conduct assessments, as required by any of the appropriate congressional committees, of programs of the National Reconnaissance Office.
+The Director of the National Reconnaissance Office shall provide to the Comptroller Generalof the United States, in a timely manner, access to the cost, schedule, and performance information the Comptroller General requires to conduct assessments, as required by any of the appropriate congressional committees, of programs of the National Reconnaissance Office.
 
 #### (b) Appropriate congressional committees defined
 

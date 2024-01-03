@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) increase, directly and indirectly, job opportunities and national economic output;
 
-&emsp;(4) the primary responsibility for the implementation of such major programs should belodged with the governments of the States; the diversity of conditions among the various States and regions of the Nation is sufficiently great that a wholly federally administered program would not be as effective as one which is tailored to meet local requirements and to respond to local opportunities; the State should be allowed flexibility within which to fashion such programs, subject to general Federal guidelines and monitoring sufficient to protect the financial investments of consumers and the financial interest of the United States and to insure that the measures undertaken in fact result in significant energy and cost savings which would probably not otherwise occur;
+&emsp;(4) the primary responsibility for the implementation of such major programs should be lodged with the governments of the States; the diversity of conditions among the various States and regions of the Nation is sufficiently great that a wholly federally administered program would not be as effective as one which is tailored to meet local requirements and to respond to local opportunities; the State should be allowed flexibility within which to fashion such programs, subject to general Federal guidelines and monitoring sufficient to protect the financial investments of consumers and the financial interest of the United States and to insure that the measures undertaken in fact result in significant energy and cost savings which would probably not otherwise occur;
 
 &emsp;(5) to the extent that direct Federal administration is more economical and efficient, direct Federal financial incentives and assistance should be extended through existing and proven Federal programs rather than through new programs that would necessitate new and separate administrative bureaucracies; and
 
@@ -42,7 +42,7 @@ The Energy Policy and Conservation Act, referred to in subsec. (a)(5), is Pub. L
 
 Section 2809(a)(12) of this title, referred to in subsec. (a)(6), which was redesignated as section 2809(a)(5) by Pub. L. 95–568, §5(a)(2)(E), Nov. 2, 1978, 92 Stat. 2426, was subsequently repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519.
 
-This subchapter, referred to in subsec. (b), was in the original "this title," meaning title IV of Pub. L. 94–385, known as the Energy Conservation in Existing Buildings Act of 1976, which enacted this subchapter, section 6327 of this title, and section 1701z–8 of Title 12, Banks and Banking, amended sections 6323, 6325, and 6326 of this title, and enacted provisions set out as a note under section 6801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+This subchapter, referred to in subsec. (b), was in the original "this title," meaning title IV of Pub. L. 94–385, known as the Energy Conservation in Existing Buildings Act of 1976, which enacted this subchapter, section 6327 of this title, and section 1701z–8 of Title 12, Banks and Banking, amended sections 6323, 6325, and 6326 of this title, and enacted provisions set out as a noteunder section 6801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

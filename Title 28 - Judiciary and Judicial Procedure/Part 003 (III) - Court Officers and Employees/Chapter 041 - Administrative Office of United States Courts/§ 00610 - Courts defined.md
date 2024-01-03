@@ -2,7 +2,7 @@
 
 As used in this chapter the word "courts" includes the courts of appeals and district courts of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, the United States Court of Federal Claims, and the Court of International Trade.
 
-(June 25, 1948, ch. 646, 62 Stat. 915; Oct. 31, 1951, ch. 655, §44, 65 Stat. 725; Pub. L. 85–508, §12(e),July 7, 1958, 72 Stat. 348; Pub. L. 95–598, title II, §226, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 96–417, title V, §501(15), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, §120(a), Apr. 2, 1982, 96 Stat. 33; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 915; Oct. 31, 1951, ch. 655, §44, 65 Stat. 725; Pub. L. 85–508, §12(e), July 7, 1958, 72 Stat. 348; Pub. L. 95–598, title II, §226, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 96–417, title V, §501(15), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, §120(a), Apr. 2, 1982, 96 Stat. 33; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -36,7 +36,7 @@ Those provisions of this section which related to the Tax Court were eliminated 
 
 <b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-<b>1978</b>—Pub. L. 95–598 directed the amendment of section by substituting ", district courts, and bankruptcy courts" for "and district courts", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Pub. L. 95–598 directed the amendment of section by substituting ", district courts, and bankruptcycourts" for "and district courts", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 <b>1958</b>—Pub. L. 85–508 struck out provisions which included District Court for Territory of Alaska within definition of court. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 

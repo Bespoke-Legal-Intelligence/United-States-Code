@@ -146,7 +146,7 @@ Subsec. (b)(1). Pub. L. 117–328, §2113(c)(3), added subpars. (A) to (D) and s
 
 "(B) an Indian tribe (as defined in section 1603 of title 25) or a partnership of 1 or more Indian tribes."
 
-Subsec. (c). Pub. L. 117–328, §2113(c)(4)(A), in introductory provisions, struck out "that proposes a pilot project" after "an eligible entity" and substituted "a new or existing emergency medical and trauma system. Such eligible entity shall use amounts awarded under this subsection to carry out 2 or more of the following activities:" for "an emergency medical and trauma system that—".
+Subsec. (c). Pub. L. 117–328, §2113(c)(4)(A), struck out "that proposes a pilot project" after "an eligible entity" and substituted "a new or existing emergency medical and trauma system. Such eligible entity shall use amounts awarded under this subsection to carry out 2 or more of the following activities:" for "an emergency medical and trauma system that—" in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 117–328, §2113(c)(4)(B), substituted "Strengthening coordination and communication" for "coordinates" and "approaches to improve situational awareness and emergency medical and trauma system access." for "an approach to emergencymedical and trauma system access throughout the region, including 9–1–1 Public Safety Answering Points and emergency medical dispatch;".
 

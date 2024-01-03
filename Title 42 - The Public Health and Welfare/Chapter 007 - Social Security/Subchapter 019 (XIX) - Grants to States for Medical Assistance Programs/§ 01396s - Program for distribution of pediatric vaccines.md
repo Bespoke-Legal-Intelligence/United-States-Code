@@ -8,13 +8,13 @@
 
 &emsp;&emsp;(A) each vaccine-eligible child (as defined in subsection (b)), in receiving an immunization with a qualified pediatric vaccine (as defined in subsection (h)(8)) from a program-registered provider (as defined in subsection (c)) on or after October 1, 1994, is entitled to receive the immunization without charge for the cost of such vaccine; and
 
-&emsp;&emsp;(B)(i) each program-registered provider who administers such a pediatric vaccine to a vaccine-eligible child on or after such dateis entitled to receive such vaccine under the program without charge either for the vaccine or its delivery to the provider, and (ii) no vaccine is distributed under the program to a provider unless the provider is a program-registered provider.
+&emsp;&emsp;(B)(i) each program-registered provider who administers such a pediatric vaccine to a vaccine-eligible child on or after such date is entitled to receive such vaccine under the program without charge either for the vaccine or its delivery to the provider, and (ii) no vaccine is distributed under the program to a provider unless the provider is a program-registered provider.
 
 #### (2) Delivery of sufficient quantities of pediatric vaccines to immunize federally vaccine-eligible children
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall provide under subsection (d) for the purchase and delivery on behalf of each State meeting the requirement of section 1396a(a)(62) of this title (or, with respect to vaccines administered by an Indian tribe or tribal organization to Indian children, directly to the tribe or organization), without charge to the State, of such quantities of qualified pediatric vaccines as may be necessary for the administration of such vaccines to all federally vaccine-eligible children in the State on or after October 1, 1994. This paragraph constitutes budget authority in advance of appropriations Acts, and represents the obligation of the Federal Government to provide for the purchase and delivery to States of the vaccines (or payment under subparagraph (C)) in accordance with this paragraph.
+&emsp;&emsp;The Secretary shall provide under subsection (d) for the purchase and delivery on behalf of each State meeting the requirement of section 1396a(a)(62) of this title (or, with respect to vaccines administered by an Indian tribe or tribal organization to Indian children, directly to the tribe or organization), without charge to the State, of suchquantities of qualified pediatric vaccines as may be necessary for the administration of such vaccines to all federally vaccine-eligible children in the State on or after October 1, 1994. This paragraph constitutes budget authority in advance of appropriations Acts, and represents the obligation of the Federal Government to provide for the purchase and delivery to States of the vaccines (or payment under subparagraph (C)) in accordance with this paragraph.
 
 #### (B) Special rules where vaccine is unavailable
 
@@ -84,7 +84,7 @@ For purposes of this section:
 
 &emsp;A provider agreement for a provider under this paragraph is an agreement (in such form and manner as the Secretary may require) that the provider agrees as follows:
 
-&emsp;&emsp;(A)(i) Before administering a qualified pediatric vaccine to a child, the provider will ask a parent of the child such questions as are necessary to determine whether the child is a vaccine-eligible child, but the provider need not independently verify the answers to such questions.
+&emsp;&emsp;(A)(i) Before administering a qualified pediatric vaccine to a child, the provider will ask a parent of the child such questions as are necessary to determine whether thechild is a vaccine-eligible child, but the provider need not independently verify the answers to such questions.
 
 &emsp;&emsp;(ii) The provider will, for a period of time specified by the Secretary, maintain records of responses made to the questions.
 
@@ -130,7 +130,7 @@ For purposes of this section:
 
 #### (B) Negotiation of discounted price for current vaccines
 
-&emsp;&emsp;With respect to contracts entered into under this subsection for a pediatric vaccine for which the Centers for Disease Control and Prevention has a contract in effect under section 247b(j)(1) of this title as of May 1, 1993, no price for the purchase of such vaccine for vaccine-eligible children shall be agreed to by the Secretary under this subsection if the price per dose of such vaccine (including delivery costs and any applicable excise tax established under section 4131 of the Internal Revenue Code of 1986) exceeds the price per dose for the vaccine in effectunder such a contract as of such date increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) from May 1993 to the month before the month in which such contract is entered into.
+&emsp;&emsp;With respect to contracts entered into under this subsection for a pediatric vaccine for which the Centers for Disease Control and Prevention has a contract in effect under section 247b(j)(1) of this title as of May 1, 1993, no price for the purchase of such vaccine for vaccine-eligible children shall be agreed to by the Secretary under this subsection if the price per dose of such vaccine (including delivery costs and any applicable excise tax established under section 4131 of the Internal Revenue Code of 1986) exceeds the price per dose for the vaccine in effect under such a contract as of such date increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) from May 1993 to the month before the month in which such contract is entered into.
 
 #### (C) Negotiation of discounted price for new vaccines
 
@@ -180,7 +180,7 @@ For purposes of this section:
 
 &emsp;(3) The terms "Indian", "Indian tribe" and "tribal organization" have the meanings given such terms in section 4 of the Indian Health Care Improvement Act \[25 U.S.C. 1603\].
 
-&emsp;(4) The term "manufacturer" means any corporation, organization, or institution, whetherpublic or private (including Federal, State, and local departments, agencies, and instrumentalities), which manufactures, imports, processes, or distributes under its label any pediatric vaccine. The term "manufacture" means to manufacture, import, process, or distribute a vaccine.
+&emsp;(4) The term "manufacturer" means any corporation, organization, or institution, whether public or private (including Federal, State, and local departments, agencies, and instrumentalities), which manufactures, imports, processes, or distributes under its label any pediatric vaccine. The term "manufacture" means to manufacture, import, process, or distribute a vaccine.
 
 &emsp;(5) The term "parent" includes, with respect to a child, an individual who qualifies as a legal guardian under State law.
 
@@ -188,7 +188,7 @@ For purposes of this section:
 
 &emsp;(7) The term "program-registered provider" has the meaning given such term in subsection (c).
 
-&emsp;(8) The term "qualified pediatric vaccine" means a pediatric vaccine with respect to which a contract is in effect under subsection (d).
+&emsp;(8) The term "qualified pediatric vaccine" means a pediatric vaccine with respect towhich a contract is in effect under subsection (d).
 
 &emsp;(9) The terms "vaccine-eligible child", "federally vaccine-eligible child", and "State vaccine-eligible child" have the meaning given such terms in subsection (b).
 

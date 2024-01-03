@@ -84,11 +84,11 @@ Subsec. (f). Pub. L. 114–328, §1242(b)(4), inserted "defense or security mini
 
 #### Defense Operational Resilience International Cooperation Pilot Program
 
-Pub. L. 117–263, div. A, title XII, §1212, Dec. 23, 2022, 136 Stat. 2834, provided that:
+Pub. L. 117–263, div. A, title XII, §1212, Dec. 23, 2022, 136 Stat. 2834, as amended by Pub. L. 118–31, div. A, title XII, §1226, Dec. 22, 2023, 137 Stat. 455, provided that:
 
 "(a)
 
-Establishment.—The Secretary of Defense, in consultation with the Secretary of State and in coordination with the commanders of the geographic combatant commands, may establish a pilot program, to be known as the 'Defense Operational Resilience International Cooperation Pilot Program' (in this section referred to as the 'pilot program') to support engagement with military forces of partner countries on defense-related environmental and operational energy issues in support of the theater campaign plans of the geographic combatant commands.
+Establishment.—The Secretary of Defense, in consultation with the Secretary of State and in coordination with the commanders of the geographic combatant commands, may establish a pilot program, to be known as the 'Defense Operational Resilience International Cooperation Pilot Program' (in this section referred to as the 'pilot program') to support engagement with national security forces of partner countries on defense-related environmental and operational energy issues in support of the theater campaign plans of the geographic combatant commands.
 
 "(b)
 
@@ -102,11 +102,11 @@ Limitations.—
 
 Purposes.—The pilot program shall be limited to the following purposes:
 
-&emsp;&emsp;"(A) To build military-to-military relationships in support of the efforts of the Department of Defense to engage in long-term strategic competition.
+&emsp;&emsp;"(A) To build relationships with the national security forces of partner countries in support of theefforts of the Department of Defense to engage in long-term strategic competition.
 
 &emsp;&emsp;"(B) To sustain the mission capability and forward posture of the Armed Forces of the United States.
 
-&emsp;&emsp;"(C) To enhance the capability, capacity, and resilience of the military forces of partner countries.
+&emsp;&emsp;"(C) To enhance the capability, capacity, and resilience of the national security forces of partner countries.
 
 &emsp;"(2)
 
@@ -115,6 +115,10 @@ Prohibited assistance.—The Secretary may not use the pilot program to provide 
 &emsp;"(3)
 
 Security cooperation.—The Secretary shall plan and prioritize assistance, training, and exercises with partner countries pursuant to the pilot program in a manner that is consistent with applicable guidance relating to security cooperation program and activities of the Department of Defense.
+
+&emsp;"(4)
+
+Sustainment and non-lethal assistance.—A program under subsection (a) may include the provision of sustainment and non-lethal assistance, including training, defense services, and supplies (including consumables).
 
 "(d)
 
@@ -136,7 +140,7 @@ Deadline.—The Secretary shall submit each such report not later than March 1 o
 
 Elements.—Each such report shall include the following:
 
-&emsp;&emsp;"(A) An accounting of each obligation and expenditure made to carry out the pilot program, disaggregated, where applicable, by partner country and military force of a partner country.
+&emsp;&emsp;"(A) An accounting of each obligation and expenditure made to carry out the pilot program, disaggregated, where applicable, by partner country and national security forces of a partner country.
 
 &emsp;&emsp;"(B) An explanation of the manner in which each such obligation or expenditure—
 
@@ -148,11 +152,15 @@ Elements.—Each such report shall include the following:
 
 "(f)
 
-Temporary Cessation of Authorization.—No funds authorized to be appropriated or otherwise made available for any of fiscal years 2023 through 2025 for the Department of Defense may be made available for the 'Defense Environmental International Cooperation Program'. During the period specified in subsection (b), all activities and functions of the 'Defense Environmental International Cooperation Program' may only be carried out under the pilot program."
+Temporary Cessation of Authorization.—No funds authorized to be appropriated or otherwise made available for any of fiscal years 2023 through 2025 for the Department of Defense may be made available for the 'Defense Environmental International Cooperation Program'. During the period specified in subsection (b), all activities and functions of the 'Defense Environmental International Cooperation Program' may only be carried out under the pilot program.
+
+"(g)
+
+Definitions.—In this section the terms 'defense services', 'national security forces', and 'training' have the meaning given those terms in section 301 of title 10, United States Code."
 
 #### Pilot Program To Develop Young Civilian Defense Leaders in the Indo-Pacific Region
 
-Pub. L. 117–263, div. A, title XII, §1261, Dec. 23, 2022, 136 Stat. 2856, provided that:
+Pub. L. 117–263, div. A, title XII, §1261, Dec. 23, 2022, 136 Stat. 2856, as amended by Pub. L. 118–31, div. A, title XIII, §1303, Dec. 22, 2023, 137 Stat. 489, provided that:
 
 "(a)
 
@@ -160,19 +168,19 @@ In General.—The Secretary of Defense may establish, using existing authorities
 
 "(b)
 
-Purposes.—The activities of the pilot program under subsection (a) shall include training of, and engagement with, young civilian leaders from foreign partner ministries of defense and other appropriate ministries with a national defense mission in the Indo-Pacific region for purposes of—
+Purposes.—The activities of the pilot program under subsection (a) shall include training of, and engagement with, young civilian leaders from foreign partner ministries of defense and other appropriate ministries with a defense-related national security mission in the Indo-Pacific region for purposes of—
 
 &emsp;"(1) enhancing bilateral and multilateral cooperation between—
 
 &emsp;&emsp;"(A) civilian leaders in the Department; and
 
-&emsp;&emsp;"(B) civilian leaders in foreign partner ministries of defense; and
+&emsp;&emsp;"(B) civilian leaders in foreign partner ministries of defense and other appropriate ministries with a defense-related national security mission; and
 
-&emsp;"(2) building the capacity of young civilian leaders in foreign partner ministries of defense to promote civilian control of the military, respect for human rights, and adherence to the law of armed conflict.
+&emsp;"(2) building the capacity of young civilian leaders in foreign partner ministries of defense and other appropriate ministries with a defense-related national security mission to promote civilian control of the military, respect for human rights, and adherence to the law of armed conflict.
 
 "(c)
 
-Priority.—In carrying out the pilot program under subsection (a), the Secretary of Defense shall prioritize engagement with civilian defense leaders from foreign partner ministries of defense who are 40 years of age or younger.
+Priority.—In carrying out the pilot program under subsection (a), the Secretary of Defense shall prioritize engagement with civilian leaders in foreign partner ministries of defense and other appropriate ministries with a defense-related national security mission who are 40 years of age or younger.
 
 "(d)
 

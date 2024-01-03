@@ -14,7 +14,7 @@ For the purpose of this section:
 
 #### (b) Certification of products; Low-Noise-Emission Product Advisory Committee
 
-(1) The Administrator shall determine which products qualify as low-noise-emission products in accordance with the provisions of this section.
+(1) The Administrator shall determine which products qualify as low-noise-emission productsin accordance with the provisions of this section.
 
 (2) The Administrator shall certify any product—
 

@@ -82,7 +82,7 @@ Pub. L. 102–138, §1, Oct. 28, 1991, 105 Stat. 647, provided that: "This Act \
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–246, §1(a), Feb. 16, 1990, 104 Stat. 15, provided that: "This Act \[enacting sections 1464a, 1464b,1465aa to 1465ff, 1475f, 2414a, 2461, 2665a, 2678, 2715 to 2719, 2877a, 4027, 4141, 4141a to 4141c, 4863, and 4864 of this title, amending sections 277a, 277b, 277d–12, 290f, 300, 1461, 1465c, 1469, 1474, 1475e, 2456, 2460, 2606, 2656f, 2669, 2684, 2696, 2698, 2703, 2708, 2709, 2871, 2877, 3905, 3968, 4002, 4010, 4056, 4057, 4069a to 4069c, 4081, 4303, 4304, 4403, 4801, 4802, and 4852 of this title, sections 8345 and 9101 of Title 5, Government Organization and Employees, and section 1101 and 1182 of Title 8, Aliens and Nationality, repealing section 4192 of this title, enacting provisions set out as notes under this section, sections 287e, 1461, 1463, 1465aa, 1465c, 1469, 2151, 2456, 2460, 2656, 2715, 3941, 3968, 4001, 4140, 4171, 4301, and 4852 of this title, sections 5921 and 5928 of Title 5, and section 1102 of Title 8, amending provisions set out as notes under this section and sections 287, 2151, and 4851 of this title and section 1182 of Title 8, and repealing provisions set out as notes under sections 2414a and 2656 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Years 1990 and 1991'."
+Pub. L. 101–246, §1(a), Feb. 16, 1990, 104 Stat. 15, provided that: "This Act \[enacting sections 1464a, 1464b, 1465aa to 1465ff, 1475f, 2414a, 2461, 2665a, 2678, 2715 to 2719, 2877a, 4027, 4141, 4141a to 4141c, 4863, and 4864 of this title, amending sections 277a, 277b, 277d–12, 290f, 300, 1461, 1465c, 1469, 1474, 1475e, 2456, 2460, 2606, 2656f, 2669, 2684, 2696, 2698, 2703, 2708, 2709, 2871, 2877, 3905, 3968, 4002, 4010, 4056, 4057, 4069a to 4069c, 4081, 4303, 4304, 4403, 4801, 4802, and 4852 of this title, sections 8345 and 9101 of Title 5, Government Organization and Employees, and section 1101 and 1182 of Title 8, Aliens and Nationality, repealing section 4192 of this title, enacting provisions set out as notes under this section, sections 287e, 1461, 1463, 1465aa, 1465c, 1469, 2151, 2456, 2460, 2656, 2715, 3941, 3968, 4001, 4140, 4171, 4301, and 4852 of this title, sections 5921 and 5928 of Title 5, and section 1102 of Title 8, amending provisions set out as notes under this section and sections 287, 2151, and 4851 of this title and section 1182 of Title 8, and repealing provisions set out as notes under sections 2414a and 2656 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Years 1990 and 1991'."
 
 #### Short Title of 1987 Amendment
 
@@ -116,7 +116,7 @@ Pub. L. 92–352, §1, July 13, 1972, 86 Stat. 489, provided: "That this Act \[e
 
 Act Aug. 1, 1956, ch. 841 (first sentence), as added by Pub. L. 102–138, title I, §111(2), Oct. 28, 1991, 105 Stat. 654, provided: "That this Act \[enacting sections 2662, 2669 to 2672, 2673 to 2680a, 2684, 2687 to 2692, 2695 to 2723, 4301 to 4316, 4341 to 4343, and 4351 to 4357 of this title\] may be cited as the 'State Department Basic Authorities Act of 1956'."
 
-Act Aug. 1, 1956, ch. 841, title I, §48, formerly §33, as added Oct. 17, 1980, Pub. L. 96–465, title II, §2201(a), 94 Stat. 2157, and renumbered §34 and redesignated title I, Aug. 24, 1982, Pub. L. 97–241, title I, §117, title II, §202(a), 96 Stat. 279, 282; renumbered §35 and §36, Nov. 22, 1983, Pub. L. 98–164, title I, §§123, 124, 97 Stat. 1025; renumbered §37, Oct. 19, 1984, Pub. L. 98–533, title I, §102, 98 Stat. 2708; renumbered §38 and §39, Aug. 16, 1985, Pub. L. 99–93, title I, §§125(a), 128, 99 Stat. 415, 419; renumbered §40 and §41, Aug. 27, 1986, Pub. L. 99–399, title V, §§504(1), 506(1), 100 Stat. 871; renumbered §42, Dec. 22, 1987, Pub. L. 100–204, title I, §126(a)(1), 101 Stat. 1341; renumbered §43, Nov. 18, 1988, Pub. L. 100–690, title IV, §4603(1), 102 Stat. 4287; renumbered §44, §45, §46, §47,and §48, Feb. 16, 1990, Pub. L. 101–246, title I, §§115(c)(1), 117(1), 118(1), 119(1), 150(1), 104 Stat. 23, 25, 26, 42, which provided that act Aug. 1, 1956, ch. 841, was to be cited as the "State Department Basic Authorities Act of 1956", was repealed by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
+Act Aug. 1, 1956, ch. 841, title I, §48, formerly §33, as added Oct. 17, 1980, Pub. L. 96–465, title II, §2201(a), 94 Stat. 2157, and renumbered §34 and redesignated title I, Aug. 24, 1982, Pub. L. 97–241, title I, §117, title II, §202(a), 96 Stat. 279, 282; renumbered §35 and §36, Nov. 22, 1983, Pub. L. 98–164, title I, §§123, 124, 97 Stat. 1025; renumbered §37, Oct. 19, 1984, Pub. L. 98–533, title I, §102, 98 Stat. 2708; renumbered §38 and §39, Aug. 16, 1985, Pub. L. 99–93, title I, §§125(a), 128, 99 Stat. 415, 419; renumbered §40 and §41, Aug. 27, 1986, Pub. L. 99–399, title V, §§504(1), 506(1), 100 Stat. 871; renumbered §42, Dec. 22, 1987, Pub. L. 100–204, title I, §126(a)(1), 101 Stat. 1341; renumbered §43, Nov. 18, 1988, Pub. L. 100–690, title IV, §4603(1), 102 Stat. 4287; renumbered §44, §45, §46, §47, and §48, Feb. 16, 1990, Pub. L. 101–246, title I, §§115(c)(1), 117(1), 118(1), 119(1), 150(1), 104 Stat. 23, 25, 26, 42, which provided that act Aug. 1, 1956, ch. 841, was to be cited as the "State Department Basic Authorities Act of 1956", was repealed by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### References to Diplomatic and Consular Programs Account
 
@@ -151,6 +151,20 @@ Pub. L. 96–241, §2, May 3, 1980, 94 Stat. 343, provided that:
 "(d) This section applies only with respect to the Secretary of State who is first appointed to that office after the enactment of this Act \[May 3, 1980\]."
 
 #### Definitions
+
+Pub. L. 118–31, div. F, §6002, Dec. 22, 2023, 137 Stat. 964, provided that: "In this division \[see Tables for classification\]:
+
+"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+"(2)
+
+Department.—The term 'Department' means the Department of State.
+
+"(3)
+
+Secretary.—The term 'Secretary' means the Secretary of State."
 
 Pub. L. 117–263, div. I, §9002, Dec. 23, 2022, 136 Stat. 3857, provided that: "In this division \[see Tables for classification\]:
 
@@ -194,7 +208,7 @@ Foreign service.—The term 'Foreign Service' has the meaning given such term in
 
 &emsp;"(4)
 
-Inspector general.—Unless otherwise specified, the term 'Inspector General' means the Office of Inspector General of the Department of State and the Broadcasting Board of Governors \[now United States Agency for Global Media\].
+Inspector general.—Unless otherwise specified, the term 'Inspector General' means the Office ofInspector General of the Department of State and the Broadcasting Board of Governors \[now United States Agency for Global Media\].
 
 &emsp;"(5)
 

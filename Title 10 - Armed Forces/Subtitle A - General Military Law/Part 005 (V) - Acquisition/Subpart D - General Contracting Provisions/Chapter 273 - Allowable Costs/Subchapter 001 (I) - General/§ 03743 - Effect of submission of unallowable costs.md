@@ -68,5 +68,5 @@ Subsec. (b). Pub. L. 116–283, §1832(c)(2), realigned margins of pars. (1) and
 
 #### Effective Date
 
-Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an EffectiveDate of 2021 Amendment note preceding section 3001 of this title.
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 

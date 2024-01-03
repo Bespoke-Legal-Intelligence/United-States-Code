@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, including section 552a of title 5 (c
 
 &emsp;&emsp;(A) submitted an application for naturalization not later than 24 months after the date on which the individual enlisted in the United States Armed Forces; or
 
-&emsp;&emsp;(B) provided the required biometric information to the Department of Homeland Security through a United States Citizenship and Immigration Services Application Support Center at the time of the individual's application for adjustment of status if filed not later than 24 months after the date on which the individual enlisted in the United States Armed Forces; and
+&emsp;&emsp;(B) provided the required biometric information to the Department of Homeland Security through a United States Citizenship and Immigration Services Application Support Center at the time of the individual's application for adjustment of status if filed not later than 24 months after the date onwhich the individual enlisted in the United States Armed Forces; and
 
 &emsp;(4) the Secretary of Homeland Security determines that the biometric information provided, including fingerprints, is sufficient to conduct the required background and security checks needed for the applicant's naturalization application.
 
@@ -44,7 +44,7 @@ Not later than one year after June 26, 2008, the Secretary of Homeland Security 
 
 #### (2) Expedited processing
 
-&emsp;The Secretary of Homeland Security, the Director of the Federal Bureau of Investigation,and the Director of National Intelligence shall take appropriate actions to ensure that applications for naturalization by members of the United States Armed Forces described in paragraph (1), and associated background checks, receive expedited processing and are adjudicated within 180 days of the receipt of responses to all background checks.
+&emsp;The Secretary of Homeland Security, the Director of the Federal Bureau of Investigation, and the Director of National Intelligence shall take appropriate actions to ensure that applications for naturalization by members of the United States Armed Forces described in paragraph (1), and associated background checks, receive expedited processing and are adjudicated within 180 days of the receipt of responses to all background checks.
 
 (Pub. L. 110–251, §2, June 26, 2008, 122 Stat. 2319.)
 

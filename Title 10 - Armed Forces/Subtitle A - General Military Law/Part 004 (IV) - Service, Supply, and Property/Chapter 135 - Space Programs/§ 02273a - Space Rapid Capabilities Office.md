@@ -88,13 +88,13 @@ Subsec. (e)(1). Pub. L. 112–239, §914(d), amended par. (1) generally. Prior t
 
 Subsec. (g). Pub. L. 112–239, §914(e), added subsec. (g).
 
-<b>2006</b>—Pub. L. 109–364 amended section catchline and text generally, substituting provisions relating to establishment, control, mission, elements, and authority of the Operationally Responsive Space Program Office within the Department of Defense for provisions relating to requirement for a separate, dedicated program element for operationally responsive national securitypayloads and buses within budget program elements for space programs of the Department of Defense.
+<b>2006</b>—Pub. L. 109–364 amended section catchline and text generally, substituting provisions relating to establishment, control, mission, elements, and authority of the Operationally Responsive Space Program Office within the Department of Defense for provisions relating to requirement for a separate, dedicated program element for operationally responsive national security payloads and buses within budget program elements for space programs of the Department of Defense.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
-Pub. L. 108–375, div. A, title IX, §913(b), Oct. 28, 2004, 118 Stat. 2028, provided that: "Subsection (a) of section 2273a of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 2005."
+Pub. L. 108–375, div. A, title IX, §913(b), Oct. 28, 2004, 118 Stat. 2028, provided that: "Subsection (a) of section2273a of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 2005."
 
 #### United States Policy on Operationally Responsive Space
 

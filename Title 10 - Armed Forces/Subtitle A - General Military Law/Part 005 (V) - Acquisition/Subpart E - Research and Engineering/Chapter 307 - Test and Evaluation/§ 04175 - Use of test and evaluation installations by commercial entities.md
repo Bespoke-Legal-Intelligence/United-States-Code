@@ -38,7 +38,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) construction specifically performed for a commercial entity to conduct test and evaluation activities.
 
-(Added Pub. L. 103–160, div. A, title VIII, §846(a), Nov. 30, 1993, 107 Stat. 1722, §2681; amended Pub. L. 105–85, div. A, title VIII, §842, Nov. 18, 1997, 111 Stat. 1844; Pub. L. 105–261, div. A, title VIII, §820, Oct. 17, 1998, 112 Stat. 2090; renumbered §4175 and amended Pub. L. 116–283, div. A, title XVIII,§§1844(b)(1), 1845(b), Jan. 1, 2021, 134 Stat. 4245, 4247; Pub. L. 117–81, div. A, title XVII, §1701(u)(5)(B), (6)(B), Dec. 27, 2021, 135 Stat. 2154.)
+(Added Pub. L. 103–160, div. A, title VIII, §846(a), Nov. 30, 1993, 107 Stat. 1722, §2681; amended Pub. L. 105–85, div. A, title VIII, §842, Nov. 18, 1997, 111 Stat. 1844; Pub. L. 105–261, div. A, title VIII, §820, Oct. 17, 1998, 112 Stat. 2090; renumbered §4175 and amended Pub. L. 116–283, div. A, title XVIII, §§1844(b)(1), 1845(b), Jan. 1, 2021, 134 Stat. 4245, 4247; Pub. L. 117–81, div. A, title XVII, §1701(u)(5)(B), (6)(B), Dec. 27, 2021, 135 Stat. 2154.)
 
 #### <b>Editorial Notes</b>
 

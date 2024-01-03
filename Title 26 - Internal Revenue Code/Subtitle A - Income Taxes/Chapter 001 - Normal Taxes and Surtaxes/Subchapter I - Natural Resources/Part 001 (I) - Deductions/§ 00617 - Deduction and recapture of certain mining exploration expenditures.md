@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;At the election of the taxpayer, expenditures paid or incurred during the taxable year for the purpose of ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral, and paid or incurred before the beginning of the development stage of the mine, shall be allowed as a deduction in computing taxable income. This subsection shall apply only with respect to the amount of such expenditures which, but for this subsection, would not be allowable as a deduction for the taxable year. This subsection shall not apply to expenditures for the acquisition or improvement of property of a character which is subject to the allowance for depreciation provided in section 167, but allowances for depreciation shall be considered, for purposes of this subsection, as expenditures paid or incurred. In no case shall this subsection apply with respect to amounts paid or incurred for the purpose of ascertaining the existence, location, extent, or quality of any deposit of oil or gas or of any mineral with respect to which a deduction for percentage depletion is not allowable under section 613.
+&emsp;At the election of the taxpayer, expenditures paid or incurred during the taxable year for the purpose of ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral, and paid or incurred before the beginning of the development stage of the mine, shall be allowed as a deduction in computing taxable income. This subsection shall apply only with respect to the amount of such expenditures which, but for this subsection, would not be allowable as a deduction for thetaxable year. This subsection shall not apply to expenditures for the acquisition or improvement of property of a character which is subject to the allowance for depreciation provided in section 167, but allowances for depreciation shall be considered, for purposes of this subsection, as expenditures paid or incurred. In no case shall this subsection apply with respect to amounts paid or incurred for the purpose of ascertaining the existence, location, extent, or quality of any deposit of oil or gas or of any mineral with respect to which a deduction for percentage depletion is not allowable under section 613.
 
 #### (2) Elections
 
@@ -18,7 +18,7 @@
 
 #### (C) Deficiencies
 
-&emsp;&emsp;The statutory period for the assessment of any deficiency for any taxable year, to the extent such deficiency is attributable to an election or revocation of an election under this subsection, shall not expire before the last day of the 2-year period beginning on the day after the date on which such election or revocation of election is made; and such deficiency may be assessed at any time before the expiration of such 2-year period,notwithstanding any law or rule of law which would otherwise prevent such assessment.
+&emsp;&emsp;The statutory period for the assessment of any deficiency for any taxable year, to the extent such deficiency is attributable to an election or revocation of an election under this subsection, shall not expire before the last day of the 2-year period beginning on the day after the date on which such election or revocation of election is made; and such deficiency may be assessed at any time before the expiration of such 2-year period, notwithstanding any law or rule of law which would otherwise prevent such assessment.
 
 #### (b) Recapture on reaching producing stage
 
@@ -100,7 +100,7 @@ For purposes of this section
 
 &emsp;The term "adjusted exploration expenditures" means, with respect to any property or mine—
 
-&emsp;&emsp;(A) the amount of the expenditures allowed for the taxable year and all preceding taxable years as deductions under subsection (a) to the taxpayer or any other personwhich are properly chargeable to such property or mine and which (but for the election under subsection (a)) would be reflected in the adjusted basis of such property or mine, reduced by
+&emsp;&emsp;(A) the amount of the expenditures allowed for the taxable year and all preceding taxable years as deductions under subsection (a) to the taxpayer or any other person which are properly chargeable to such property or mine and which (but for the election under subsection (a)) would be reflected in the adjusted basis of such property or mine, reduced by
 
 &emsp;&emsp;(B) for the taxable year and for each preceding taxable year, the amount (if any) by which (i) the amount which would have been allowable for percentage depletion under section 613 but for the deduction of such expenditures, exceeds (ii) the amount allowable for depletion under section 611,
 
@@ -140,7 +140,7 @@ In the case of any expenditures paid or incurred before the development stage fo
 
 &emsp;&emsp;<b>For election of 10-year amortization of expenditures allowable as a deduction under this section, see section 59(e).</b>
 
-(Added Pub. L. 89–570, §1(a), Sept. 12, 1966, 80 Stat. 759; amended Pub. L. 91–172, title V, §504(b), Dec. 30, 1969, 83 Stat. 632; Pub. L. 94–455, title XIX, §§1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1793, 1797, 1834; Pub. L. 97–248, title II, §201(d)(9)(D), formerly §201(c)(9)(D), §224(c)(8), Sept. 3, 1982, 96 Stat. 420, 489, renumbered §201(d)(9)(D), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, §§411(b)(2)(B), 413(b), Oct. 22, 1986, 100 Stat. 2226, 2228; Pub. L. 100–647, title I, §1007(g)(7), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §11801(a)(27), (c)(13), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
+(Added Pub. L. 89–570, §1(a), Sept. 12, 1966, 80 Stat. 759; amended Pub. L. 91–172, title V, §504(b), Dec. 30, 1969, 83 Stat. 632; Pub. L. 94–455, title XIX, §§1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1793, 1797, 1834; Pub. L. 97–248, title II, §201(d)(9)(D), formerly §201(c)(9)(D), §224(c)(8), Sept. 3, 1982, 96 Stat. 420, 489, renumbered §201(d)(9)(D), Pub. L.97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, §§411(b)(2)(B), 413(b), Oct. 22, 1986, 100 Stat. 2226, 2228; Pub. L. 100–647, title I, §1007(g)(7), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §11801(a)(27), (c)(13), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
 
 #### <b>Editorial Notes</b>
 
@@ -170,7 +170,7 @@ Subsecs. (d)(2), (e)(2), (g)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out 
 
 Subsec. (h)(1). Pub. L. 94–455, §1901(b)(21)(C), substituted "and subsection (a) of section 615 (as in effect before the enactment of the Tax Reform Act of 1976)" for "and section 615(a) and the amounts which are or have been treated as deferred expenses under section 615(b)".
 
-Subsec. (h)(3). Pub. L. 94–455, §1901(b)(21)(D), struck out "and all amounts treated as deferred expenseswhich were paid or incurred" after "amounts deducted" in introductory provisions, redesignated subpar. (C) as (B), and in subpar. (B) as so redesignated, substituted "374(b)(1)" for "373(b)(1)". Former subpar. (B), which related to the application of par. (2)(B) where the taxpayer would be entitled under section 381(c)(10) to deduct expenses deferred under section 615(b) had the distributor or transferor corporation elected to defer such expenses, was struck out.
+Subsec. (h)(3). Pub. L. 94–455, §1901(b)(21)(D), struck out "and all amounts treated as deferred expenses which were paid or incurred" after "amounts deducted" in introductory provisions, redesignated subpar. (C) as (B), and in subpar. (B) as so redesignated, substituted "374(b)(1)" for "373(b)(1)". Former subpar. (B), which related to the application of par. (2)(B) where the taxpayer would be entitled under section 381(c)(10) to deduct expenses deferred under section 615(b) had the distributor or transferor corporation elected to defer such expenses, was struck out.
 
 Subsec. (i). Pub. L. 94–455, §1901(b)(21)(E), added subsec. (i).
 

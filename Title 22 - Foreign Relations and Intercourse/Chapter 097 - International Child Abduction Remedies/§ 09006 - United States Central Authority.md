@@ -66,7 +66,7 @@ In order that the Government of the United States of America may give full and c
 
 NOW, THEREFORE, by virtue of the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of Title 3 of the United States Code and section 7 of the International Child Abduction Remedies Act, it is ordered as follows:
 
-Section 1. <i>Designation of Central Authority</i>. The Department of State is hereby designated as the Central Authority of the United States for purposes of the Hague Convention on the Civil Aspects of International Child Abduction. The Secretary of State is hereby authorized and empowered, in accordance with such regulations as he may prescribe, to perform all lawful acts that may be necessary and proper in order to execute the functions of the Central Authority in a timely and efficient manner.
+Section 1. <i>Designation of Central Authority</i>. The Department of State is hereby designated as the Central Authority of the United States for purposes of the Hague Convention on the Civil Aspects of InternationalChild Abduction. The Secretary of State is hereby authorized and empowered, in accordance with such regulations as he may prescribe, to perform all lawful acts that may be necessary and proper in order to execute the functions of the Central Authority in a timely and efficient manner.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

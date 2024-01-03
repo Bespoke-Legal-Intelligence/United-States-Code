@@ -126,7 +126,7 @@ Duties.—The duties of the Council shall include—
 
 &emsp;&emsp;"(B) the Senator Paul Simon Water for the World Act of 2014 \[Pub. L. 113–289\] (22 U.S.C. 2151 note) \[see Short Title of 2014 Amendment note set out under section 2151 of this title\];
 
-&emsp;&emsp;"(C) the Global Child Thrive Act of 2020 (subtitle I of title XII of division A of Public Law 116–283)\[see Short Title of 2021 Amendment note set out under section 2151 of this title\]; and
+&emsp;&emsp;"(C) the Global Child Thrive Act of 2020 (subtitle I of title XII of division A of Public Law 116–283) \[see Short Title of 2021 Amendment note set out under section 2151 of this title\]; and
 
 &emsp;&emsp;"(D) the Global Fragility Act of 2019 (22 U.S.C. 9801 et seq.); and
 

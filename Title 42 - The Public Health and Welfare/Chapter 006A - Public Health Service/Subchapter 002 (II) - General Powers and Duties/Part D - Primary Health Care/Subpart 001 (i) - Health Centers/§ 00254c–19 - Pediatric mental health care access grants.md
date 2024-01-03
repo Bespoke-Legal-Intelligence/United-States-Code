@@ -48,7 +48,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (3) Pediatric mental health teams
 
-&emsp;In this subsection, the term "pediatric mental health team" means a team consisting of at least one case coordinator, at least one child and adolescent psychiatrist, and at least one licensed clinical mental health professional, such as a psychologist, social worker, or mental health counselor, and which may include a developmental-behavioral pediatrician. Such a team may be regionally based.
+&emsp;In this subsection, the term "pediatric mental health team" means a team consisting ofat least one case coordinator, at least one child and adolescent psychiatrist, and at least one licensed clinical mental health professional, such as a psychologist, social worker, or mental health counselor, and which may include a developmental-behavioral pediatrician. Such a team may be regionally based.
 
 #### (c) Application
 

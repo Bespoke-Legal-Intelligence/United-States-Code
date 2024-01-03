@@ -42,7 +42,7 @@ The Board shall have such of the powers and authority of the Association as may 
 
 #### (D) Service through term
 
-&emsp;&emsp;If a Board member appointed under paragraph (1)(A) ceases to be a State insurance commissioner during the term of the Board member, the Board member shall cease to be a Board member.
+&emsp;&emsp;If a Board member appointed under paragraph (1)(A) ceases to be a State insurance commissioner during the term of the Boardmember, the Board member shall cease to be a Board member.
 
 #### (3) Private sector representatives
 

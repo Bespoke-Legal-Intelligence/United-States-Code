@@ -2,7 +2,7 @@
 
 #### (a) National advanced STEM education program
 
-The Director of the National Science Foundation (hereafter in sections 1862h to 1862j of this title referred to as the "Director") shall award grants to associate-degree-granting colleges, and consortia thereof, to assist them in providing education in advanced-technology fields and education to prepare the skilled technical workforce to meet workforce demands, and to improve the quality of their core education courses in STEM fields. The grant program shall place emphasis on the needs of students whohave been in the workforce (including veterans and individuals engaged in work in the home) and on building a pathway from secondary schools to associate-degree-granting institutions, to careers that require technical training, and shall be designed to strengthen and expand the scientific and technical education and training capabilities of associate-degree-granting colleges through such methods as—
+The Director of the National Science Foundation (hereafter in sections 1862h to 1862j of this title referred to as the "Director") shall award grants to associate-degree-granting colleges, and consortia thereof, to assist them in providing education in advanced-technology fields and education to prepare the skilled technical workforce to meet workforce demands, and to improve the quality of their core education courses in STEM fields. The grant program shall place emphasis on the needs of students who have been in the workforce (including veterans and individuals engaged in work in the home) and on building a pathway from secondary schools to associate-degree-granting institutions, to careers that require technical training, and shall be designed to strengthen and expand the scientific and technical education and training capabilities of associate-degree-granting colleges through such methods as—
 
 &emsp;(1) the development and study of model instructional programs in advanced-technology fields and in core STEM courses;
 
@@ -216,7 +216,7 @@ As used in this section—
 
 #### References in Text
 
-Sections 1862h to 1862j of this title, referred to in subsecs. (a) and (i), was in the original "this Act", meaning Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, known as the Scientific and Advanced-Technology Act of 1992, which enacted this section and sections 1862h and 1862j of this title and amended section 1862 of this title. For complete classification of this Act to the Code, seeShort Title of 1992 Amendment note set out under section 1861 of this title and Tables.
+Sections 1862h to 1862j of this title, referred to in subsecs. (a) and (i), was in the original "this Act", meaning Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, known as the Scientific and Advanced-Technology Act of 1992, which enacted this section and sections 1862h and 1862j of this title and amended section 1862 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1861 of this title and Tables.
 
 Section 4(b) of the Innovations in Mentoring, Training, and Apprenticeships Act, referred to in subsec. (j)(9), is section 4(b) of Pub. L. 115–402, which is set out as a note under section 1862p of this title.
 

@@ -22,7 +22,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 &emsp;&emsp;(C) short-term emergency lodging in motels or shelters, either directly or through vouchers;
 
-&emsp;&emsp;(D) construction of new housing units to provide transitional or permanent housing to homeless individuals and families and individuals and families at risk of homelessness;
+&emsp;&emsp;(D) construction of new housing units to provide transitional or permanent housingto homeless individuals and families and individuals and families at risk of homelessness;
 
 &emsp;&emsp;(E) acquisition or rehabilitation of a structure to provide supportive services or to provide transitional or permanent housing, other than emergency shelter, to homeless individuals and families and individuals and families at risk of homelessness;
 
@@ -196,7 +196,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) located in a county where at least 75 percent of the population is rural; or
 
-&emsp;&emsp;(C) any area or community, respectively, located in a State that has population density of less than 30 persons per square mile (as reported in the most recent decennial census), and of which at least 1.25 percent of the total acreage of such State is under Federal jurisdiction, provided that no metropolitan city (as such term is defined in section 5302 of this title) in such State is the sole beneficiary of the grant amounts awarded under this section.
+&emsp;&emsp;(C) any area or community, respectively, located in a State that has population density of less than 30 persons per square mile (as reported in the most recent decennial census), and of which at least 1.25 percent of the total acreage of such State is under Federal jurisdiction, provided that no metropolitan city (as such term is defined in section 5302 of this title) in such State is thesole beneficiary of the grant amounts awarded under this section.
 
 #### (3) Secretary
 
@@ -250,7 +250,7 @@ Subsec. (d)(7), (8). Pub. L. 111–22, §1401(2)(F)(i), (ii)(II), (iii), added p
 
 Subsecs. (f), (g). Pub. L. 111–22, §1401(2)(G), added subsecs. (f) and (g) and struck out former subsecs. (f) and (g) which related to the Federal share of the costs of providing assistance and participation of homeless individuals, respectively.
 
-Subsec. (h)(1). Pub. L. 111–22, §1401(2)(H)(i)–(iii), substituted "Not later than 18 months after funding is first made available pursuant to the amendments made by title IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the" for "The"in introductory provisions, "meeting the goals described in subsection (a)" for "providing housing and other assistance to homeless persons" in subpar. (A), and "meet the goals described in subsection (a) in rural areas" for "address homelessness in rural areas" in subpar. (B).
+Subsec. (h)(1). Pub. L. 111–22, §1401(2)(H)(i)–(iii), substituted "Not later than 18 months after funding is first made available pursuant to the amendments made by title IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the" for "The" in introductory provisions, "meeting the goals described in subsection (a)" for "providing housing and other assistance to homeless persons" in subpar. (A), and "meet the goals described in subsection (a) in rural areas" for "address homelessness in rural areas" in subpar. (B).
 
 Subsec. (h)(2). Pub. L. 111–22, §1401(2)(H)(iv), substituted "Not later than 24 months after funding is first made available pursuant to the amendment made by title IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the" for "The", struck out ", not later than 18 months after the date on which the Secretary first makes grants under the program," after "Congress", and substituted "meet the goals described in subsection (a)" for "prevent and respond to homelessness".
 

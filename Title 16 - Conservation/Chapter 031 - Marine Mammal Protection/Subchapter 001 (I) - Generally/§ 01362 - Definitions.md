@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 (1) The term "depletion" or "depleted" means any case in which—
 
-&emsp;(A) the Secretary, after consultation with the Marine Mammal Commission and theCommittee of Scientific Advisors on Marine Mammals established under subchapter III of this chapter, determines that a species or population stock is below its optimum sustainable population;
+&emsp;(A) the Secretary, after consultation with the Marine Mammal Commission and the Committee of Scientific Advisors on Marine Mammals established under subchapter III of this chapter, determines that a species or population stock is below its optimum sustainable population;
 
 &emsp;(B) a State, to which authority for the conservation and management of a species or population stock is transferred under section 1379 of this title, determines that such species or stock is below its optimum sustainable population; or
 
@@ -46,9 +46,9 @@ For the purposes of this chapter—
 
 &emsp;(A) the territorial sea of the United States;
 
-&emsp;(B) the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the other boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured; and
+&emsp;(B) the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the other boundary isa line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured; and
 
-&emsp;(C) the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured, except that this subparagraph shall not apply before the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the MaritimeBoundary, signed June 1, 1990, enters into force for the United States.
+&emsp;(C) the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured, except that this subparagraph shall not apply before the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States.
 
 (16) The term "fishery" means—
 
@@ -114,7 +114,7 @@ For the purposes of this chapter—
 
 (27) The term "minimum population estimate" means an estimate of the number of animals in a stock that—
 
-&emsp;(A) is based on the best available scientific information on abundance, incorporating the precision and variability associated with such information; and
+&emsp;(A) is based on the best available scientific information on abundance, incorporating theprecision and variability associated with such information; and
 
 &emsp;(B) provides reasonable assurance that the stock size is equal to or greater than the estimate.
 
@@ -122,7 +122,7 @@ For the purposes of this chapter—
 
 (29) The term "Declaration of Panama" means the declaration signed in Panama City, Republic of Panama, on October 4, 1995.
 
-(Pub. L. 92–522, §3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, §13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, §404(a), Apr. 13, 1976, 90Stat. 360; Pub. L. 97–58, §1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, §304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, §2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, §3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621; Pub. L. 105–42, §3, Aug. 15, 1997, 111 Stat. 1123; Pub. L. 106–555, title II, §202(b), Dec. 21, 2000, 114 Stat. 2768; Pub. L. 108–136, div. A, title III, §319(a), Nov. 24, 2003, 117 Stat. 1433.)
+(Pub. L. 92–522, §3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, §13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, §404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, §1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, §304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, §2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, §3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621; Pub. L. 105–42, §3, Aug. 15, 1997, 111 Stat. 1123; Pub. L. 106–555, title II, §202(b), Dec. 21, 2000, 114 Stat. 2768; Pub. L. 108–136, div. A, title III, §319(a), Nov. 24, 2003, 117 Stat. 1433.)
 
 #### <b>Editorial Notes</b>
 

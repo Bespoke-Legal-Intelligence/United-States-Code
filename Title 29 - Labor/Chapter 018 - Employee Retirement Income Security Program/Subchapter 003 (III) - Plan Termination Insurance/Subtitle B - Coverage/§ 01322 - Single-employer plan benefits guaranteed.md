@@ -28,7 +28,7 @@ Subject to the limitations contained in subsection (b), the corporation shall gu
 
 &emsp;(i) the term "gross income" means "earned income" within the meaning of section 911(b) of title 26 (determined without regard to any community property laws),
 
-&emsp;(ii) in the case of a participant in a plan under which contributions are made by morethan one employer, amounts received as gross income from any employer under that plan shall be aggregated with amounts received from any other employer under that plan during the same period, and
+&emsp;(ii) in the case of a participant in a plan under which contributions are made by more than one employer, amounts received as gross income from any employer under that plan shall be aggregated with amounts received from any other employer under that plan during the same period, and
 
 &emsp;(iii) any non-basic benefit shall be disregarded.
 
@@ -58,7 +58,7 @@ Subject to the limitations contained in subsection (b), the corporation shall gu
 
 &emsp;(B) $20 per month,
 
-> multiplied by the number of years (but not more than 5) the plan or amendment, as the case may be, has been in effect. In determining how many years a plan or amendment has been in effect for purposes of this paragraph, the first 12 months beginning with the date on which the plan or amendment is made or first becomes effective (whichever is later) constitutes one year, and each consecutive period of 12 months thereafter constitutes an additional year. This paragraph does not apply to benefits payable under a plan unless the corporation finds substantial evidence that the plan was terminated for a reasonable business purpose and not for the purpose of obtaining the payment of benefits by the corporation under this subchapter.
+> multiplied by the number of years (but not more than 5) the plan or amendment, as the case may be, has been in effect. In determining how many years a plan or amendment has been in effect forpurposes of this paragraph, the first 12 months beginning with the date on which the plan or amendment is made or first becomes effective (whichever is later) constitutes one year, and each consecutive period of 12 months thereafter constitutes an additional year. This paragraph does not apply to benefits payable under a plan unless the corporation finds substantial evidence that the plan was terminated for a reasonable business purpose and not for the purpose of obtaining the payment of benefits by the corporation under this subchapter.
 
 (8) If an unpredictable contingent event benefit (as defined in section 1056(g)(1) of this title) is payable by reason of the occurrence of any event, this section shall be applied as if a plan amendment had been adopted on the date such event occurred.
 
@@ -84,7 +84,7 @@ In general.—Except as provided in subparagraph (C), the term "recovery ratio" 
 
 &emsp;(i) the corporation has determined the value of recoveries under section 1362, 1363, or 1364 of this title, and
 
-&emsp;(ii) notices of intent to terminate were provided (or in the case of a termination by the corporation, a notice of determination under section 1342 of this title was issued) during the5-Federal fiscal year period ending with the third fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate (or the notice of determination under section 1342 of this title) with respect to the plan termination for which the recovery ratio is being determined.
+&emsp;(ii) notices of intent to terminate were provided (or in the case of a termination by the corporation, a notice of determination under section 1342 of this title was issued) during the 5-Federal fiscal year period ending with the third fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate (or the notice of determination under section 1342 of this title) with respect to the plan termination for which the recovery ratio is being determined.
 
 (C) In the case of a terminated plan with respect to which the outstanding amount of benefit liabilities exceeds $20,000,000, for purposes of this section, the term "recovery ratio" means, with respect to the termination of such plan, the ratio of—
 

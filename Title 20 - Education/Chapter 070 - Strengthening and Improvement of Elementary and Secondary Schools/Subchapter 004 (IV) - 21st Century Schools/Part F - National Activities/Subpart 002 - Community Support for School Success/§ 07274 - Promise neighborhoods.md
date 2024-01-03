@@ -90,7 +90,7 @@ Each eligible entity that receives a grant under this subpart to carry out a pro
 
 #### (1) Funds for pipeline services
 
-&emsp;Each eligible entity that receives a grant under this subpart for activities described in this section shall, for the first year of the grant, use not less than 50 percent of the grant funds, and, for the second year of the grant, use not less than 25 percent of the grant funds, to carry out the activities described in subsection (d)(1).
+&emsp;Each eligible entity that receives a grant under this subpart for activities described inthis section shall, for the first year of the grant, use not less than 50 percent of the grant funds, and, for the second year of the grant, use not less than 25 percent of the grant funds, to carry out the activities described in subsection (d)(1).
 
 #### (2) Operational flexibility
 

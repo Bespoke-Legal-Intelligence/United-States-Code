@@ -14,7 +14,7 @@ So much of the net income of a taxpayer for the taxable year 1917, or any succee
 
 #### (d) Sales or exchanges of property; involuntary conversion
 
-Any property sold or exchanged by the Alien Property Custodian (whether before or afterMarch 10, 1928) shall be considered as having been compulsorily or involuntarily converted, within the meaning of the income, excess-profits, and war-profits tax laws and regulations; and the provisions of such laws and regulations relating to such a conversion shall (under regulations prescribed by the Commissioner of Internal Revenue with the approval of the Secretary of the Treasury) apply in the case of the proceeds of such sale or exchange. For the purpose of determining whether the proceeds of such conversion have been expended within such time as will entitle the taxpayer to the benefits of such laws and regulations relating to such a conversion, the date of the return of the proceeds to the person entitled thereto shall be considered as the date of the conversion.
+Any property sold or exchanged by the Alien Property Custodian (whether before or after March 10, 1928) shall be considered as having been compulsorily or involuntarily converted, within the meaning of the income, excess-profits, and war-profits tax laws and regulations; and the provisions of such laws and regulations relating to such a conversion shall (under regulations prescribed by the Commissioner of Internal Revenue with the approval of the Secretary of the Treasury) apply in the case of the proceeds of such sale or exchange. For the purpose of determining whether the proceeds of such conversion have been expended within such time as will entitle the taxpayer to the benefits of such laws and regulations relating to such a conversion, the date of the return of the proceeds to the person entitled thereto shall be considered as the date of the conversion.
 
 #### (e) Interest or civil penalty
 
@@ -30,7 +30,7 @@ The benefits of subsections (c), (d), and (e) shall be extended to the taxpayer 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b), was in the original "this Act" or "the Trading with the Enemy Act, as amended", meaning act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4301 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original "this Act" or "the Trading with the Enemy Act, as amended", meaning act Oct. 6, 1917, ch. 106, 40 Stat. 411, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4301 of this title and Tables.
 
 Section 208 of the Revenue Act of 1926 (relating to capital net gains), referred to in subsec. (c), is act Feb. 26, 1926, ch. 27, §208, 44 Stat. 19, which enacted section 939 of former Title 26, Internal Revenue, prior to repeal by act May 29, 1928, ch. 852, §63, 45 Stat. 810. See section 1201 et seq. of Title 26, Internal Revenue Code.
 

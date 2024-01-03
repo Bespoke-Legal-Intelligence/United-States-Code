@@ -36,7 +36,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Total budget resources.—The term "total budget resources" means the total amount made available from the Airport and Airway Trust Fund for the sum of obligation limitations and budget authority made available for a fiscal year for the following budget accounts that are subject to the obligation limitation on contract authority provided inthis title and for which appropriations are provided pursuant to authorizations contained in this title:
+Total budget resources.—The term "total budget resources" means the total amount made available from the Airport and Airway Trust Fund for the sum of obligation limitations and budget authority made available for a fiscal year for the following budget accounts that are subject to the obligation limitation on contract authority provided in this title and for which appropriations are provided pursuant to authorizations contained in this title:
 
 &emsp;&emsp;(A) 69–8106–0–7–402 (Grants in Aid for Airports).
 

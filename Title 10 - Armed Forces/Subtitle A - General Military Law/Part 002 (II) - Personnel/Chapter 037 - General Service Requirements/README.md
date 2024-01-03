@@ -5,7 +5,7 @@
 | [651\.](%C2%A7%2000651%20-%20Members%20required%20service.md) | Members: required service. |
 | [652\.](%C2%A7%2000652%20-%20Notice%20to%20Congress%20of%20proposed%20changes%20in%20units%2C%20assignments%2C%20etc.%20to%20which%20female%20members%20may%20be%20assigned.md) | Notice to Congress of proposed changes in units, assignments, etc. to which female members may be assigned. |
 | [653\.](%C2%A7%2000653%20-%20Minimum%20service%20requirement%20for%20certain%20flight%20crew%20positions.md) | Minimum service requirement for certain flight crew positions. |
-| \[654. | Repealed.\] |
+| [654\.](%C2%A7%2000654%20-%20Minimum%20service%20requirement%20for%20certain%20cyberspace%20occupational%20specialties.md) | Minimum service requirement for certain cyberspace occupational specialties. |
 | [655\.](%C2%A7%2000655%20-%20Designation%20of%20persons%20having%20interest%20in%20status%20of%20a%20missing%20member.md) | Designation of persons having interest in status of a missing member. |
 | [656\.](%C2%A7%2000656%20-%20Diversity%20in%20military%20leadership%20plan%3B%20mentoring%20and%20career%20counseling%20program.md) | Diversity in military leadership: plan; mentoring and career counseling program. |
 | [657\.](%C2%A7%2000657%20-%20Prohibition%20on%20service%20in%20the%20armed%20forces%20by%20individuals%20convicted%20of%20certain%20sexual%20offenses.md) | Prohibition on service in the armed forces by individuals convicted of certain sexual offenses. |
@@ -15,6 +15,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title V, §509(b), Dec. 22, 2023, 137 Stat. 243, added item 654. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 116–283, div. A, title V, §571(a)(3)(B), Jan. 1, 2021, 134 Stat. 3643, added item 656 and struck out former item 656 "Diversity in military leadership: plan".
 
@@ -116,7 +118,7 @@ Memorandum of President of the United States, Mar. 23, 2018, 83 F.R. 13367, whic
 - [&sect; 00651 - Members required service](%C2%A7%2000651%20-%20Members%20required%20service.md)
 - [&sect; 00652 - Notice to Congress of proposed changes in units, assignments, etc. to which female members may be assigned](%C2%A7%2000652%20-%20Notice%20to%20Congress%20of%20proposed%20changes%20in%20units%2C%20assignments%2C%20etc.%20to%20which%20female%20members%20may%20be%20assigned.md)
 - [&sect; 00653 - Minimum service requirement for certain flight crew positions](%C2%A7%2000653%20-%20Minimum%20service%20requirement%20for%20certain%20flight%20crew%20positions.md)
-- [&sect; 00654 - Repealed. Pub. L. 111&#8211;321, &sect;2(f)(1)(A), Dec. 22, 2010, 124 Stat. 3516](%C2%A7%2000654%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93321%2C%20%C2%A72%28f%29%281%29%28A%29%2C%20Dec.%2022%2C%202010%2C%20124%20Stat.%203516.md)
+- [&sect; 00654 - Minimum service requirement for certain cyberspace occupational specialties](%C2%A7%2000654%20-%20Minimum%20service%20requirement%20for%20certain%20cyberspace%20occupational%20specialties.md)
 - [&sect; 00655 - Designation of persons having interest in status of a missing member](%C2%A7%2000655%20-%20Designation%20of%20persons%20having%20interest%20in%20status%20of%20a%20missing%20member.md)
 - [&sect; 00656 - Diversity in military leadership plan; mentoring and career counseling program](%C2%A7%2000656%20-%20Diversity%20in%20military%20leadership%20plan%3B%20mentoring%20and%20career%20counseling%20program.md)
 - [&sect; 00657 - Prohibition on service in the armed forces by individuals convicted of certain sexual offenses](%C2%A7%2000657%20-%20Prohibition%20on%20service%20in%20the%20armed%20forces%20by%20individuals%20convicted%20of%20certain%20sexual%20offenses.md)

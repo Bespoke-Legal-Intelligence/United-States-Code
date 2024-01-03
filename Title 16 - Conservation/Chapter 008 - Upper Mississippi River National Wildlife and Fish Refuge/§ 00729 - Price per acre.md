@@ -1,6 +1,6 @@
 ### §729. Price per acre
 
-The Secretary of the Interior shall not pay for any land or land and water a price which shall exceed an average cost of $10 per acre: <i>Provided</i>,That this provision shall not apply to any land or land and water prior to May 12, 1928, acquired or contracted for under the provisions of this chapter.
+The Secretary of the Interior shall not pay for any land or land and water a price which shall exceed an average cost of $10 per acre: <i>Provided</i>, That this provision shall not apply to any land or land and water prior to May 12, 1928, acquired or contracted for under the provisions of this chapter.
 
 (June 7, 1924, ch. 346, §10, 43 Stat. 652; Mar. 4, 1925, ch. 558, 43 Stat. 1354; May 12, 1928, ch. 534, 45 Stat. 502; 1939 Reorg. Plan No. II, §4 (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 

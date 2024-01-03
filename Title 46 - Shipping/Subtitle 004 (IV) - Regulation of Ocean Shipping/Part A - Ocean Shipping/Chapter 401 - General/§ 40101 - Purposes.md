@@ -8,7 +8,7 @@ The purposes of this part are to—
 
 &emsp;(3) encourage the development of an economically sound and efficient liner fleet of vessels of the United States capable of meeting national security needs and supporting commerce; and
 
-&emsp;(4) promote the growth and development of United States exports through a competitiveand efficient system for the carriage of goods by water in the foreign commerce of the United States, and by placing a greater reliance on the marketplace.
+&emsp;(4) promote the growth and development of United States exports through a competitive and efficient system for the carriage of goods by water in the foreign commerce of the United States, and by placing a greater reliance on the marketplace.
 
 (Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1523; Pub. L. 117–146, §2, June 16, 2022, 136 Stat. 1272.)
 

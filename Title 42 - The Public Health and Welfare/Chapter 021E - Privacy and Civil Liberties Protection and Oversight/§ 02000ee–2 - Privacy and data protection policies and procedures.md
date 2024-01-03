@@ -48,7 +48,7 @@ The Inspector General of each agency shall periodically conduct a review of the 
 
 #### (f) Definition
 
-In this section, the definition of "identifiable form" is consistent with Public Law 107–347, the E-Government Act of 2002, and means any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means.
+In this section, the definition of "identifiable form" is consistent with Public Law 107–347, theE-Government Act of 2002, and means any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means.
 
 (Pub. L. 108–447, div. H, title V, §522, Dec. 8, 2004, 118 Stat. 3268; Pub. L. 110–161, div. D, title VII, §742(b), Dec. 26, 2007, 121 Stat. 2032.)
 
@@ -76,7 +76,7 @@ Section was formerly set out as a note under section 552a of Title 5, Government
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### <b>Executive Documents</b>
 

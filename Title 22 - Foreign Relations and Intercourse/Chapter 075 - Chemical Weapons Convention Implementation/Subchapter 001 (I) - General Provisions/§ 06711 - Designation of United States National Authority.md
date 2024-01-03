@@ -54,7 +54,7 @@ Sec. 4. The Secretary of Commerce is authorized:
 
 (c) to carry out all functions with respect to proceedings under section 501(a) of the Act \[22 U.S.C. 6761(a)\] and to issue regulations with respect thereto, except for those functions that the Act specifies are to be performed by the Secretary of State or the USNA.
 
-Sec. 5. The Departments of State, Defense, Commerce, and Energy, and other agencies as appropriate,are authorized to carry out, consistent with the Act and in accordance with subsequent directives, appropriate functions that are not otherwise assigned in the Act and are necessary to implement the provisions of the Convention and the Act.
+Sec. 5. The Departments of State, Defense, Commerce, and Energy, and other agencies as appropriate, are authorized to carry out, consistent with the Act and in accordance with subsequent directives, appropriate functions that are not otherwise assigned in the Act and are necessary to implement the provisions of the Convention and the Act.
 
 Sec. 6. The Departments of State, Defense, Commerce, and Energy, and other agencies, as appropriate, are authorized to provide assistance to facilities not owned or operated by the U.S. Government, or contracted for use by or for the U.S. Government, in meeting reporting requirements and in preparing the facilities for possible inspection pursuant to the Convention.
 

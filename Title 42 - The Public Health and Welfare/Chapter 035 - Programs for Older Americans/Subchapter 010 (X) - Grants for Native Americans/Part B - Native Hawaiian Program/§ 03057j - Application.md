@@ -10,7 +10,7 @@ No grant may be made under this part unless the public or nonprofit private orga
 
 &emsp;(3) provide assurances that the organization will coordinate its activities with the State agency on aging and with the activities carried out under subchapter III in the same geographical area;
 
-&emsp;(4) provide that the organization will make such reports in such form and containing such information as the Assistant Secretary may reasonably require, and comply with such requirements as the Assistant Secretary may impose to ensure the correctness of such reports;
+&emsp;(4) provide that the organization will make such reports in such form and containing suchinformation as the Assistant Secretary may reasonably require, and comply with such requirements as the Assistant Secretary may impose to ensure the correctness of such reports;
 
 &emsp;(5) provide for periodic evaluation of activities and projects carried out under the application;
 

@@ -116,7 +116,7 @@ The Secretary may also award grants to public and private nonprofit agencies and
 
 &emsp;Of the total amount of grant funds awarded to a grantee under this section, the grantee may use not more than ten percent of such funds for the activity described in subsection (a)(2)(I).
 
-(Pub. L. 89–329, title VI, §604, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1778; amended Pub. L. 110–315, title VI, §§604, 610(a), Aug. 14, 2008, 122 Stat. 3336, 3338; Pub. L. 111–39, title VI, §601(a)(1), July 1, 2009, 123 Stat. 1953.)
+(Pub. L. 89–329, title VI, §604, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1778;amended Pub. L. 110–315, title VI, §§604, 610(a), Aug. 14, 2008, 122 Stat. 3336, 3338; Pub. L. 111–39, title VI, §601(a)(1), July 1, 2009, 123 Stat. 1953.)
 
 #### <b>Editorial Notes</b>
 

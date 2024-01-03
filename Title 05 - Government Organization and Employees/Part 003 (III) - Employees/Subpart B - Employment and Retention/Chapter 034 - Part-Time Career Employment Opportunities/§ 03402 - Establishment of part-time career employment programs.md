@@ -20,7 +20,7 @@
 
 (2) The Office shall conduct a research and demonstration program with respect to part-time career employment within the Federal Government. In particular, such program shall be directed to—
 
-&emsp;(A) determining the extent to which part-time career employment may be used in fillingpositions which have not traditionally been open for such employment on any extensive basis, such as supervisory, managerial, and professional positions;
+&emsp;(A) determining the extent to which part-time career employment may be used in filling positions which have not traditionally been open for such employment on any extensive basis, such as supervisory, managerial, and professional positions;
 
 &emsp;(B) determining the extent to which job-sharing arrangements may be established for various occupations and positions; and
 

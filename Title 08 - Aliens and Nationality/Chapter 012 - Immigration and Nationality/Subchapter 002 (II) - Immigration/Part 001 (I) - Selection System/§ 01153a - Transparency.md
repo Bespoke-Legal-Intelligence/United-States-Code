@@ -48,7 +48,7 @@ Activities that constitute preferential treatment under subsection (a) shall inc
 
 #### (i) Law enforcement or intelligence agencies
 
-&emsp;&emsp;&emsp;Evidence received from law enforcement or intelligence agencies may not be made part of the record of proceeding without the consent of the relevant agency or law enforcement entity.
+&emsp;&emsp;&emsp;Evidence received from law enforcement or intelligence agencies may not be made part of the record of proceeding withoutthe consent of the relevant agency or law enforcement entity.
 
 #### (ii) Whistleblowers, confidential sources, or intelligence agencies
 
@@ -78,7 +78,7 @@ Activities that constitute preferential treatment under subsection (a) shall inc
 
 #### (A) Announcement of appropriate channels of communication
 
-&emsp;&emsp;Not later than 40 days after March 15, 2022, the Director of U.S. Citizenship and Immigration Services shall announce that theonly channels or offices by which industry stakeholders, petitioners, applicants, and seekers of benefits under the immigrant visa program described in section 1153(b)(5) of this title may communicate with the Department of Homeland Security regarding specific cases under such section (except for communication made by applicants and petitioners pursuant to regular adjudicatory procedures), or information that is not case-specific about the visa program applicable to certain cases under such section, are through—
+&emsp;&emsp;Not later than 40 days after March 15, 2022, the Director of U.S. Citizenship and Immigration Services shall announce that the only channels or offices by which industry stakeholders, petitioners, applicants, and seekers of benefits under the immigrant visa program described in section 1153(b)(5) of this title may communicate with the Department of Homeland Security regarding specific cases under such section (except for communication made by applicants and petitioners pursuant to regular adjudicatory procedures), or information that is not case-specific about the visa program applicable to certain cases under such section, are through—
 
 &emsp;&emsp;&emsp;(i) the email address or equivalent channel described in paragraph (1);
 

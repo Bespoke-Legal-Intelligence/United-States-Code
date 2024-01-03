@@ -14,7 +14,7 @@ Notwithstanding any other provision of law, it shall not be unlawful for authori
 
 #### (b) Employees and agents of United States
 
-Notwithstanding any other provision of law, it shall not be unlawful for authorized employees or agents of the United States (including members of the Armed Forces of the United States) to provide assistance for the interdiction actions of foreign countries authorized under subsection (a). The provision of such assistance shall not give rise to any civil action seeking money damages or any other form of relief against the United States or its employees or agents (including members of the Armed Forces of the United States).
+Notwithstanding any other provision of law, it shall not be unlawful for authorized employeesor agents of the United States (including members of the Armed Forces of the United States) to provide assistance for the interdiction actions of foreign countries authorized under subsection (a). The provision of such assistance shall not give rise to any civil action seeking money damages or any other form of relief against the United States or its employees or agents (including members of the Armed Forces of the United States).
 
 #### (c) Annual report
 
@@ -92,7 +92,9 @@ Determination No. 2006–02, Oct. 16, 2005, 70 F.R. 62227.
 
 Determination No. 2005–03, Oct. 16, 2004, 69 F.R. 62797.
 
-Colombia.—Determination No. 2022–20, Aug. 9, 2022, 87 F.R. 51233.
+Colombia.—Determination No. 2023–09, Aug. 11, 2023, 88 F.R. 56997.
+
+Determination No. 2022–20, Aug. 9, 2022, 87 F.R. 51233.
 
 Determination No. 2021–10, Aug. 10, 2021, 86 F.R. 45619.
 

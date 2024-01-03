@@ -12,7 +12,7 @@ Mechanisms to Provide Funds.—(1) The Secretary of Defense, in consultation wit
 
 &emsp;(D) To fund the repair or minor military construction of the laboratory infrastructure and equipment, in accordance with subsection (b).
 
-(2) The mechanisms established under paragraph (1) shall provide that funding shall be used under paragraph (1) at the discretion of the director of a defense laboratory in consultation with the science and technology executive of the military department concerned.
+(2) The mechanisms established under paragraph (1) shall provide that funding shall be usedunder paragraph (1) at the discretion of the director of a defense laboratory in consultation with the science and technology executive of the military department concerned.
 
 (3) The science and technology executive of a military department may develop policies and guidance to leverage funding and promote cross-laboratory collaboration, including with laboratories of other military departments.
 

@@ -8,7 +8,7 @@
 
 (d) Until the penalty on the farm marketing excess is paid, all cotton produced on the farm and marketed by the producer shall be subject to the penalty provided by this section and a lien on the entire crop of cotton produced on the farm shall be in effect in favor of the United States.
 
-(e) Notwithstanding any other provision of this chapter, for the 1966 through 1970 crops of upland cotton, if the farm operator elects to forgo price support for any such crop of cotton by applying to the county committee of the county in which the farm is located for additional acreage under this subsection, he may plant an acreage not in excess of the farm acreage allotment established under section 1344 of this title plus the acreage apportioned to the farm from the national export market acreage reserve, and all cotton of such crop produced onthe farm may be marketed for export free of any penalty under this section: <i>Provided</i>, That the foregoing shall be applicable only to farms which had upland cotton allotments for 1965 and are operated by the same operator as in 1965 or by his heir.
+(e) Notwithstanding any other provision of this chapter, for the 1966 through 1970 crops of upland cotton, if the farm operator elects to forgo price support for any such crop of cottonby applying to the county committee of the county in which the farm is located for additional acreage under this subsection, he may plant an acreage not in excess of the farm acreage allotment established under section 1344 of this title plus the acreage apportioned to the farm from the national export market acreage reserve, and all cotton of such crop produced on the farm may be marketed for export free of any penalty under this section: <i>Provided</i>, That the foregoing shall be applicable only to farms which had upland cotton allotments for 1965 and are operated by the same operator as in 1965 or by his heir.
 
 For the 1966 crop the national export market acreage reserve shall be 250,000 acres. For each subsequent crop—
 
@@ -59,9 +59,9 @@ Section inapplicable to 1982 through 1985 crops of upland cotton, see section 50
 
 Section inapplicable to 1978 through 1981 crops of upland cotton, see section 601 of Pub. L. 95–113, set out as a note under section 1342 of this title.
 
-Pub. L. 91–524, title VI, §601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, §1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
+Pub. L. 91–524, title VI, §601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, §1(19)(A), Aug. 10,1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
 
 #### Removal of Marketing Penalties on Certain Long Staple Cotton
 
-Act Jan. 9, 1951, ch. 1215, 64 Stat. 1237, provided that the marketing penalty provided in this section, shall not be applied to long staple cotton of the 1950 cropginned on saw type gins where such action was necessary to conserve the cotton because of frost or weather damage.
+Act Jan. 9, 1951, ch. 1215, 64 Stat. 1237, provided that the marketing penalty provided in this section, shall not be applied to long staple cotton of the 1950 crop ginned on saw type gins where such action was necessary to conserve the cotton because of frost or weather damage.
 

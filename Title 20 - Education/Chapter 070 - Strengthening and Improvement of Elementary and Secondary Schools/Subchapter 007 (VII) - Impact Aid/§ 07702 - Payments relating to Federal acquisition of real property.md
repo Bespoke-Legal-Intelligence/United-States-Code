@@ -42,7 +42,7 @@ Where the Secretary, after consultation with any local educational agency and wi
 
 &emsp;(B) If funds appropriated under section 7714(a) of this title are insufficient to pay the amount determined under subparagraph (A), the Secretary shall calculate the payment for each eligible local educational agency in accordance with subsection (h).
 
-&emsp;(C) Notwithstanding any other provision of this subsection, a local educational agency may not be paid an amount under this section that, when added to the amount such agency receives under section 7703(b) of this title, exceeds the maximum amount that such agency is eligible to receive for such fiscal year under section 7703(b)(1)(C) of this title, or the maximum amount that such agency is eligible to receive for such fiscal year under this section, whichever is greater.
+&emsp;(C) Notwithstanding any other provision of this subsection, a local educational agencymay not be paid an amount under this section that, when added to the amount such agency receives under section 7703(b) of this title, exceeds the maximum amount that such agency is eligible to receive for such fiscal year under section 7703(b)(1)(C) of this title, or the maximum amount that such agency is eligible to receive for such fiscal year under this section, whichever is greater.
 
 #### (2) Application of current levied real property tax rate
 
@@ -106,7 +106,7 @@ Beginning with fiscal year 1995, a local educational agency shall be deemed to m
 
 #### (f) Special rule
 
-For each fiscal year beginning on or after December 10, 2015, a local educational agency shall be deemed to meet the requirements of subsection (a)(1)(C) if the agency was eligible under paragraph (1) or (3) of section 7702(f) of this title as such section was in effect on the day before December 10, 2015.
+For each fiscal year beginning on or after December 10, 2015, a local educational agency shallbe deemed to meet the requirements of subsection (a)(1)(C) if the agency was eligible under paragraph (1) or (3) of section 7702(f) of this title as such section was in effect on the day before December 10, 2015.
 
 #### (g) Former districts
 
@@ -138,7 +138,7 @@ For any fiscal year for which the amount appropriated under section 7714(a) of t
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall first make a foundation payment to each local educational agency that is determined by the Secretary to be eligible to receive a payment underthis section for the fiscal year involved and that filed a timely application, and met, or has been determined by statute to meet, the eligibility requirements of subsection (a) for fiscal year 2009.
+&emsp;&emsp;The Secretary shall first make a foundation payment to each local educational agency that is determined by the Secretary to be eligible to receive a payment under this section for the fiscal year involved and that filed a timely application, and met, or has been determined by statute to meet, the eligibility requirements of subsection (a) for fiscal year 2009.
 
 #### (B) Amount
 
@@ -226,7 +226,7 @@ Notwithstanding any other provision of this section, in determining the eligibil
 
 &emsp;&emsp;(B) beginning in fiscal year 2003 or a subsequent fiscal year, is no longer eligible for payments under this section as provided for in subsection (a)(1)(C) as a result of the transfer of the Federal property involved to a non-Federal entity.
 
-(Pub. L. 89–10, title VII, §7002, formerly title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–365; Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–247; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803\], Oct. 30, 2000, 114 Stat. 1654, 1654A–369; Pub. L. 107–110, title VIII, §801(a)–(e), Jan. 8, 2002, 115 Stat. 1947, 1948; Pub. L. 108–447, div. F, title III, §305, Dec. 8, 2004, 118 Stat. 3151; Pub. L. 112–239, div. A, title V, §563(b)(1), (c)(4), Jan. 2, 2013, 126 Stat. 1744, 1748; renumbered title VII, §7002, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(6), (9), 7003, Dec. 10, 2015, 129 Stat. 2074, 2075.)
+(Pub. L. 89–10, title VII, §7002, formerly title VIII, §8002, as added Pub. L. 103–382, title I, §101,Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–365; Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–247; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803\], Oct. 30, 2000, 114 Stat. 1654, 1654A–369; Pub. L. 107–110, title VIII, §801(a)–(e), Jan. 8, 2002, 115 Stat. 1947, 1948; Pub. L. 108–447, div. F, title III, §305, Dec. 8, 2004, 118 Stat. 3151; Pub. L. 112–239, div. A, title V, §563(b)(1), (c)(4), Jan. 2, 2013, 126 Stat. 1744, 1748; renumbered title VII, §7002, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(6), (9), 7003, Dec. 10, 2015, 129 Stat. 2074, 2075.)
 
 #### <b>Editorial Notes</b>
 
@@ -254,7 +254,7 @@ Pub. L. 114–95, §7001(d)(6), made technical amendment to reference in origina
 
 Subsec. (b)(3)(B). Pub. L. 114–95, §7003(2)(B), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "In the case of Federal property eligible under this section that is within the boundaries of 2 or more local educational agencies, such a local educational agency may ask the Secretary to calculate the per acre value of each such local educational agency as provided under subparagraph (A) and apply the average of these per acre values to the acres of the Federal property in such agency."
 
-Subsec. (e)(2). Pub. L. 114–95, §7003(3), inserted at end "For each fiscal year beginning on or after December 10, 2015, the Secretary shall treat local educational agencies chartered in 1871 having more than 70 percentof the county in Federal ownership as meeting the eligibility requirements of subparagraphs (A) and (C) of subsection (a)(1)."
+Subsec. (e)(2). Pub. L. 114–95, §7003(3), inserted at end "For each fiscal year beginning on or after December 10, 2015, the Secretary shall treat local educational agencies chartered in 1871 having more than 70 percent of the county in Federal ownership as meeting the eligibility requirements of subparagraphs (A) and (C) of subsection (a)(1)."
 
 Subsec. (f). Pub. L. 114–95, §7003(4), added subsec. (f) and struck out former subsec. (f) which related to special rules for certain local educational agencies.
 
@@ -364,7 +364,7 @@ Pub. L. 112–239, div. A, title V, §563(c), Jan. 2, 2013, 126 Stat. 1748, as a
 
 "(1)
 
-Effective date.—With respect to applications submitted under section 8002 \[now 7002\] of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7702\], as such section was in effect on the day before the date of enactment of the Every Student Succeeds Act \[Dec. 10, 2015\], for fiscal year 2010, title VIII \[now VII\] of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7701 et seq.\] (including the amendments made by subsection (b)(1) \[amending this section\]), as in effect on such date, and subsection (b)(1) shall take effect with respect to such applications, notwithstanding section 8005(d) \[now 7005(d)\] of such Act \[20 U.S.C. 7705(d)\], as in effect on such date.
+Effective date.—With respect to applications submitted under section 8002 \[now 7002\] of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7702\], as such section was in effect on the day before the date of enactment of the Every Student Succeeds Act \[Dec. 10, 2015\], for fiscal year 2010, title VIII \[now VII\] of the Elementary and Secondary Education Act of 1965\[20 U.S.C. 7701 et seq.\] (including the amendments made by subsection (b)(1) \[amending this section\]), as in effect on such date, and subsection (b)(1) shall take effect with respect to such applications, notwithstanding section 8005(d) \[now 7005(d)\] of such Act \[20 U.S.C. 7705(d)\], as in effect on such date.
 
 "(2)
 

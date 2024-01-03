@@ -48,7 +48,7 @@ In this Act:
 
 #### (3) Activities
 
-&emsp;Under an agreement or contract entered into under paragraph (2), the Indian tribe may carry out activities to achieve land management goals for Federal land that is—
+&emsp;Under an agreement or contract entered into under paragraph (2), the Indian tribe maycarry out activities to achieve land management goals for Federal land that is—
 
 &emsp;&emsp;(A) under the jurisdiction of the Secretary; and
 

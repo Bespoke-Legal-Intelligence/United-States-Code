@@ -60,7 +60,7 @@ In subsection (c), the third sentence is substituted for 10:1811(c) (1st 13 word
 
 In subsections (c) and (d), the word "hereafter" is omitted, since all wars and emergencies declared by Congress before September 19, 1951, have been terminated.
 
-In subsection (d), the words "now or hereafter" are omitted as surplusage and as executed. The second sentence is substituted for 10:1811(d) (last 31 words of 1st sentence). The third sentence is substituted for 10:1811(d) (2d sentence). 10:1811(d) (1st 13 words of last sentence) is omitted as executed. The words "This subsection does not apply" are substituted for the words "and shall be inapplicable".
+In subsection (d), the words "now or hereafter" are omitted as surplusage and as executed. The second sentence is substituted for 10:1811(d) (last 31 words of 1st sentence). The third sentence is substituted for 10:1811(d) (2d sentence). 10:1811(d) (1st 13 words of lastsentence) is omitted as executed. The words "This subsection does not apply" are substituted for the words "and shall be inapplicable".
 
 #### <b>Editorial Notes</b>
 

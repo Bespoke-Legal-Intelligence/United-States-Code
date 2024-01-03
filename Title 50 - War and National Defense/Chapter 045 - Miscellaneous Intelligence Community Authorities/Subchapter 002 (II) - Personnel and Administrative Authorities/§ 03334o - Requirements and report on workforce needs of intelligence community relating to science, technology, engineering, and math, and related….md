@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-The Director of National Intelligence, in coordination with the heads of human capital from each element of the intelligence community, shall—
+The Director of National Intelligence, in coordination with the heads of human capital fromeach element of the intelligence community, shall—
 
 &emsp;(1) develop a plan for the recruitment and retention of personnel to positions the primary duties of which involve the integration, maintenance, or use of artificial intelligence (and the retention and training of personnel serving in such positions), including with respect to the authorities and requirements under section 6732(b); <sup>1</sup>
 

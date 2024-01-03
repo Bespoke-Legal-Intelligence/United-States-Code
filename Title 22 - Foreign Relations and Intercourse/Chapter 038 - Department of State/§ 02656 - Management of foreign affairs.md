@@ -18,6 +18,78 @@ Section was formerly classified to section 156 of Title 5 prior to the general r
 
 Pub. L. 115–409, §412, Dec. 31, 2018, 132 Stat. 5411, provided that: "Nothing in this Act \[see Short Title of 2018 Amendment note set out under section 2651 of this title\] may be construed as authorizing the use of military force."
 
+#### Global Cooperative Framework to End Human Rights Abuses in Sourcing Critical Minerals
+
+Pub. L. 118–31, div. E, title LIV, §5411, Dec. 22, 2023, 137 Stat. 948, provided that:
+
+"(a)
+
+In General.—The Secretary of State shall seek to convene a meeting of foreign leaders to establish a multilateral framework to end human rights abuses, including the exploitation of forced labor and child labor, related to the mining and sourcing of critical minerals.
+
+"(b)
+
+Implementation Report.—The Secretary shall lead the development of an annual global report on the implementation of the framework under subsection (a), including progress and recommendations to fully end human rights abuses, including the exploitation of forced labor and child labor, related to the extraction of critical minerals around the world.
+
+"(c)
+
+Consultations.—The Secretary shall consult closely on a timely basis with the following with respect to developing and implementing the framework under subsection (a):
+
+&emsp;"(1) The Forced Labor Enforcement Task Force established under section 741 of the United States-Mexico-Canada Agreement Implementation Act (19 U.S.C. 4681); and
+
+&emsp;"(2) Congress.
+
+"(d)
+
+Relationship to United States Law.—Nothing in the framework under subsection (a) shall be construed—
+
+&emsp;"(1) to amend or modify any law of the United States; or
+
+&emsp;"(2) to limit any authority conferred under any law of the United States.
+
+"(e)
+
+Extractive Industries Transparency Initiative and Certain Provisions of the Dodd-Frank WallStreet Reform and Consumer Protection Act.—Nothing in this section shall—
+
+&emsp;"(1) affect the authority of the President to take any action to join and subsequently comply with the terms and obligations of the Extractive Industries Transparency Initiative (EITI); or
+
+&emsp;"(2) affect section 1502 of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[Pub. L. 111–203\] (15 U.S.C. 78m note), or subsection (q) of section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m), as added by section 1504 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203; 124 Stat. 2220), or any rule prescribed under either such section.
+
+"(f)
+
+Critical Mineral Defined.—In this section, the term 'critical mineral' has the meaning given the term in section 7002(a) of the Energy Act of 2020 (30 U.S.C. 1606(a))."
+
+#### US-ASEAN Center
+
+Pub. L. 118–31, div. F, title LXVII, §6705, Dec. 22, 2023, 137 Stat. 1017, provided that:
+
+"(a)
+
+Defined Term.—In this section, the term 'ASEAN' means the Association of Southeast Asian Nations.
+
+"(b)
+
+Establishment.—The Secretary \[of State\] is authorized to enter into a public-private partnership for the purposes of establishing a US-ASEAN Center in the United States to support United States economic and cultural engagement with Southeast Asia.
+
+"(c)
+
+Functions.—Notwithstanding any other provision of law, the US-ASEAN Center established pursuant to subsection (b) may—
+
+&emsp;"(1) provide grants for research to support and elevate the importance of the US-ASEAN partnership;
+
+&emsp;"(2) facilitate activities to strengthen US-ASEAN trade and investment;
+
+&emsp;"(3) expand economic and technological relationships between ASEAN countries and the United States into new areas of cooperation;
+
+&emsp;"(4) provide training to United States citizens and citizens of ASEAN countries that improve people-to-people ties;
+
+&emsp;"(5) develop educational programs to increase awareness for the United States and ASEAN countries on the importance of relations between the United States and ASEAN countries; and
+
+&emsp;"(6) carry out other activities the Secretary considers necessary to strengthen ties between the United States and ASEAN countries and achieve the objectives of the US-ASEAN Center.
+
+"(d)
+
+Parameters.—In carrying out this section, the Secretary shall ensure that the activities of the US-ASEAN Center do not duplicate current lines of effort being conducted by the United States Government or its grantees."
+
 #### Establishment of United States Embassies in Solomon Islands, Kiribati, and Tonga and a Diplomatic Presence in Vanuatu
 
 Pub. L. 117–263, div. I, title XCIII, §9303, Dec. 23, 2022, 136 Stat. 3890, provided that:
@@ -458,6 +530,12 @@ Pub. L. 114–328, div. A, title XII, subtitle F, Dec. 23, 2016, 130 Stat. 2533,
 
 #### Global Engagement Center
 
+Pub. L. 118–31, div. A, title XII, §1231, Dec. 22, 2023, 137 Stat. 458, provided that: "Not later than 30 days after making funds or personnel available to the Global Engagement Center established pursuant to section 1287 of the National Defense Authorization Act for Fiscal Year 2017 \[Pub. L. 114–328\] (22 U.S.C. 2656 note) \[set out below\], the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a notification that includes—
+
+&emsp;"(1) an accounting of such funds or personnel; and
+
+&emsp;"(2) an explanation of the reason for the availability of such funds or personnel."
+
 Pub. L. 117–81, div. E, title LIII, §5320, Dec. 27, 2021, 135 Stat. 2368, provided that: "The Secretary may appoint, for a 3-year period that may be extended for up to an additional 2 years, solely to carry out the functions of the Global Engagement Center, employees of the Department without regard to the provisions of title 5, United States Code, governing appointment in the competitive service, and may fix the basic compensation of such employees without regard to chapter 51 and subchapter III of chapter 53 of such title."
 
 \[For definitions of "Secretary" and "Department" as used in section 5320 of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under section 263c of this title.\]
@@ -528,7 +606,7 @@ Temporary personnel.—The Secretary of State should, when hiring temporary Unit
 
 &emsp;&emsp;"(A) the Secretary determines that existing personnel resources or expertise are insufficient;
 
-&emsp;&emsp;"(B) the period in which services are provided by a personal services contractor, including options, does not exceed 3 years, unless the Secretary determines that exceptional circumstances justify an extension of up to one additional year;
+&emsp;&emsp;"(B) the period in which services are provided by a personal services contractor, including options,does not exceed 3 years, unless the Secretary determines that exceptional circumstances justify an extension of up to one additional year;
 
 &emsp;&emsp;"(C) not more than 50 United States citizens or aliens are employed as personal services contractors under the authority of this paragraph at any time; and
 
@@ -544,7 +622,7 @@ In general.—For each of fiscal years 2019 and 2020, the Secretary of Defense i
 
 &emsp;"(2)
 
-Notice requirement.—The Secretary of Defense shall notify the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives of a proposed transfer under paragraph (1) not less than 15 days prior to making such transfer.
+Notice requirement.—The Secretary of Defense shall notify the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives of a proposed transfer under paragraph (1) not less than 15 days prior to making such transfer.
 
 &emsp;"(3)
 
@@ -588,7 +666,7 @@ Definition.—In this subsection, the term 'appropriate congressional committees
 
 "(h)
 
-Congressional Briefings.—The Secretary of State, together with the heads of other relevant Federal departments and agencies, shall provide a briefing to the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives not less often than annually regarding the activities of the Global Engagement Center. The briefings required under this subsection shall terminate on the date specified in subsection (j).
+Congressional Briefings.—The Secretary of State, together with the heads of other relevant Federal departments and agencies, shall provide a briefing to the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives not less often than annually regarding the activities of the Global Engagement Center. The briefings required under this subsection shall terminate on the date specified in subsection (j).
 
 "(i)
 
@@ -616,7 +694,7 @@ Congressional Findings.—Congress finds that:
 
 &emsp;"(5) The United States and Saudi Arabia established a Strategic Dialogue in 2005, which provides a framework for the two countries to discuss a range of bilateral issues at high levels, including counterterrorism policy and political and economic reforms.
 
-&emsp;"(6) It is in the national security interest of the United States to support the Government of Saudi Arabia in undertaking a number of political and economic reforms, including increasing anti-terrorism operations conducted by law enforcement agencies, providing more political and religious rights to its citizens, increasing the rights of women, engaging in comprehensive educational reform, enhancing monitoring of charitable organizations, and promulgating and enforcing domestic laws and regulation on terrorist financing.
+&emsp;"(6) It is in the national security interest of the United States to support the Government of Saudi Arabia in undertaking a number of political and economic reforms, including increasing anti-terrorism operations conducted by law enforcement agencies, providing more political and religious rights to its citizens, increasing the rights of women, engaging in comprehensive educational reform, enhancing monitoring of charitable organizations, and promulgatingand enforcing domestic laws and regulation on terrorist financing.
 
 "(b)
 
@@ -714,11 +792,11 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(1) International terrorists travel across international borders to raise funds, recruit members, train for operations, escape capture, communicate, and plan and carry out attacks.
 
-&emsp;"(2) The international terrorists who planned and carried out the attack on the World Trade Center on February 26, 1993, the attack on the embassies of the United States in Kenya and Tanzania on August 7, 1998, the attack on the USS Cole on October 12, 2000, and the attack on the World Trade Center and the Pentagon on September 11, 2001, traveled across international borders to plan and carry out these attacks.
+&emsp;"(2) The international terrorists who planned and carried out the attack on the World Trade Center on February 26, 1993, the attack on the embassies of the United States in Kenya and Tanzania on August 7,1998, the attack on the USS Cole on October 12, 2000, and the attack on the World Trade Center and the Pentagon on September 11, 2001, traveled across international borders to plan and carry out these attacks.
 
 &emsp;"(3) The international terrorists who planned other attacks on the United States, including the plot to bomb New York City landmarks in 1993, the plot to bomb the New York City subway in 1997, and the millennium plot to bomb Los Angeles International Airport on December 31, 1999, traveled across international borders to plan and carry out these attacks.
 
-&emsp;"(4) Many of the international terrorists who planned and carried out large-scale attacks againstforeign targets, including the attack in Bali, Indonesia, on October 11, 2002, and the attack in Madrid, Spain, on March 11, 2004, traveled across international borders to plan and carry out these attacks.
+&emsp;"(4) Many of the international terrorists who planned and carried out large-scale attacks against foreign targets, including the attack in Bali, Indonesia, on October 11, 2002, and the attack in Madrid, Spain, on March 11, 2004, traveled across international borders to plan and carry out these attacks.
 
 &emsp;"(5) Throughout the 1990s, international terrorists, including those involved in the attack on the World Trade Center on February 26, 1993, the plot to bomb New York City landmarks in 1993, and the millennium plot to bomb Los Angeles International Airport on December 31, 1999, traveled on fraudulent passports and often had more than 1 passport.
 
@@ -840,7 +918,7 @@ Availability.—Amounts appropriated pursuant to the authorization of appropriat
 
 #### "SEC. 633. MULTILATERAL ASSISTANCE.
 
-"The Secretary of the Treasury shall instruct the United States executive director at each internationalfinancial institution to which the United States is a member to use the voice, vote, and influence of the United States to support economic and democratic development in East Timor.
+"The Secretary of the Treasury shall instruct the United States executive director at each international financial institution to which the United States is a member to use the voice, vote, and influence of the United States to support economic and democratic development in East Timor.
 
 #### "SEC. 634. TRADE AND INVESTMENT ASSISTANCE.
 
@@ -946,9 +1024,9 @@ Information.—The report required by subsection (a) shall include—
 
 &emsp;"(6) statistical data drawn from other sources on economic growth, health, education, and distribution of resources in East Timor."
 
-\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.\]
+\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.\]
 
-\[For definitions of "appropriate congressional committees" and "Secretary" as used in subtitle C of titleVI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+\[For definitions of "appropriate congressional committees" and "Secretary" as used in subtitle C of title VI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
 \[For Presidential certification authorizing security assistance to East Timor pursuant to section 637(b)(2) of Pub. L. 107–228, set out above, see Presidential Determination No. 2003–19, set out below.\]
 
@@ -1128,7 +1206,7 @@ Contracting Authority.—The Secretary of State shall, subject to the availabili
 
 "(d)
 
-Notification to Congress.—The Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives shall be notified of any exercise of the authority of section 34 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2706\] with respect to the Office or any of its programs, projects, or activities at least 15 days in advance in accordance with procedures applicable to notifications under that section.
+Notification to Congress.—The Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives shall be notified of any exercise of the authority of section 34 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2706\] with respect to the Office or any of its programs, projects, or activities at least 15 days in advance in accordancewith procedures applicable to notifications under that section.
 
 #### "SEC. 574. REPORTING REQUIREMENT.
 
@@ -1200,11 +1278,11 @@ Definition.—As used in this section, the term 'respect for freedom of the pres
 
 #### Emergency Telephone Service at United States Consular Offices
 
-Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: "It is the sense of the Congress that the Secretary of State should ensure that all United States consular offices are equipped with 24-hour emergency telephone service through which United States citizens can contact a member of the staff of any such office. The Secretary should publicize the telephone number of each such service for the information of United States citizens. Not more than 90 days after the date of the enactment of this Act \[Aug. 16, 1985\], the Secretary shall submit a report to the Congress on steps taken in accordance with this section."
+Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: "It is the sense of the Congress that the Secretary of State should ensure that all United States consular offices are equipped with 24-hour emergency telephone service through which United States citizens can contact a member of the staff of any such office. The Secretary should publicize the telephone numberof each such service for the information of United States citizens. Not more than 90 days after the date of the enactment of this Act \[Aug. 16, 1985\], the Secretary shall submit a report to the Congress on steps taken in accordance with this section."
 
 #### Torture by Foreign Governments; United States Policy in Opposition; Implementation
 
-Pub. L. 98–447, Oct. 4, 1984, 98 Stat. 1721, provided: "That the Congress reaffirms that it is the continuing policy of the United States Government to oppose thepractice of torture by foreign governments through public and private diplomacy and, when necessary and appropriate, through the enactment and vigorous implementation of laws intended to reinforce United States policies with respect to torture. The United States Government opposes acts of torture wherever they occur, without regard to ideological or regional considerations, and will make every effort to work cooperatively with other governments and with nongovernmental organizations to combat the practice of torture worldwide.
+Pub. L. 98–447, Oct. 4, 1984, 98 Stat. 1721, provided: "That the Congress reaffirms that it is the continuing policy of the United States Government to oppose the practice of torture by foreign governments through public and private diplomacy and, when necessary and appropriate, through the enactment and vigorous implementation of laws intended to reinforce United States policies with respect to torture. The United States Government opposes acts of torture wherever they occur, without regard to ideological or regional considerations, and will make every effort to work cooperatively with other governments and with nongovernmental organizations to combat the practice of torture worldwide.
 
 "Sec. 2. (a) The President is requested—
 
@@ -1308,7 +1386,7 @@ Sec. 4. <i>Establishment of a Steering Committee</i>. The Secretary shall establ
 
 Sec. 5. <i>Interagency Support</i>. Agencies are hereby directed, consistent with budget priorities and mission constraints, upon request by the Secretary and to the extent permitted by law and consistent with the need to protect intelligence and law enforcement sources, methods, operations, and investigations, to provide to the Center, and the Center is authorized to use, for the purpose of carrying out the responsibilities outlined in this order:
 
-(a) details or assignments of personnel, which shall be based on reasonable requests in light of the need for specific domain expertise, and after consultation with the relevant agency to ensure that such requests align with their authorities and resources;
+(a) details or assignments of personnel, which shall be based on reasonable requests in light of the need forspecific domain expertise, and after consultation with the relevant agency to ensure that such requests align with their authorities and resources;
 
 (b) the use of physical premises, equipment, and logistical or administrative support;
 
@@ -1316,7 +1394,7 @@ Sec. 5. <i>Interagency Support</i>. Agencies are hereby directed, consistent wit
 
 (d) such other resources and assistance as the Coordinator may request for the purpose of carrying out the responsibilities outlined in this order.
 
-Sec. 6. <i>Establishment of a Temporary Organization</i>. (a) There is established within the Department of State, inaccordance with section 3161 of title 5, United States Code, a temporary organization to be known as the Global Engagement Center Coordination Office (GECCO).
+Sec. 6. <i>Establishment of a Temporary Organization</i>. (a) There is established within the Department of State, in accordance with section 3161 of title 5, United States Code, a temporary organization to be known as the Global Engagement Center Coordination Office (GECCO).
 
 (b) The purpose of the GECCO shall be to perform the specific project of providing technical, marketing, management, and operational support to the Center in its efforts to build and maintain a network of partners outside the U.S. Government, including private sector entities and non-governmental organizations, and to develop research and analytics to enable measurement and evaluation of the activities of the Center and related activities conducted by other agencies.
 
@@ -1405,6 +1483,10 @@ Sec. 6. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of President's Advisory Council on African Diaspora Engagement in the United States
+
+Term of President's Advisory Council on African Diaspora Engagement in the United States extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 #### Presidential Certification Authorizing Security Assistance to East Timor
 

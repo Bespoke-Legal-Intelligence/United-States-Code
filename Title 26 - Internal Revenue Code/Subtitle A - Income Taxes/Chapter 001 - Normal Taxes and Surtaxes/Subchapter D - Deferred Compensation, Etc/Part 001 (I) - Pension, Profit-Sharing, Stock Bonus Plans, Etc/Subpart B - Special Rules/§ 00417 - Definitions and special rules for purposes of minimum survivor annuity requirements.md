@@ -148,7 +148,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (3) Security interests taken into account
 
-&emsp;For purposes of paragraphs (1) and (2), any security interest held by the plan by reason of a loan outstanding to the participant shall be taken into account in determining the amountof the qualified preretirement survivor annuity.
+&emsp;For purposes of paragraphs (1) and (2), any security interest held by the plan by reason of a loan outstanding to the participant shall be taken into account in determining the amount of the qualified preretirement survivor annuity.
 
 #### (d) Survivor annuities need not be provided if participant and spouse married less than 1 year
 
@@ -190,7 +190,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraphs (1) and (2), the present value shall not be less than the present value calculated by using the applicable mortality table and the applicable interest rate.
+&emsp;&emsp;For purposes of paragraphs (1) and (2), the present value shall not be less than thepresent value calculated by using the applicable mortality table and the applicable interest rate.
 
 #### (B) Applicable mortality table
 
@@ -232,7 +232,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (4) Plan may take into account increased costs
 
-&emsp;A plan may take into account in any equitable manner (as determined by the Secretary)any increased costs resulting from providing a qualified joint or survivor annuity or a qualified preretirement survivor annuity.
+&emsp;A plan may take into account in any equitable manner (as determined by the Secretary) any increased costs resulting from providing a qualified joint or survivor annuity or a qualified preretirement survivor annuity.
 
 #### (5) Distributions by reason of security interests
 
@@ -272,7 +272,7 @@ For purposes of this section and section 401(a)(11)—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term "survivor annuity percentage" means the percentage which the survivor annuity under the plan's qualified joint and survivor annuity bears to the annuity payable during the joint lives of the participant and the spouse.
 
-(Added Pub. L. 98–397, title II, §203(b), Aug. 23, 1984, 98 Stat. 1441; amended Pub. L. 99–514, title XI, §1139(b), title XVIII, §1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, 100 Stat. 2487, 2944, 2945, 2947–2951; Pub. L. 100–647, title I, §1018(u)(9), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 101–239, title VII, §7862(d)(1)(A), Dec. 19, 1989, 103 Stat. 2433; Pub. L. 103–465, title VII, §767(a)(2), Dec. 8, 1994, 108 Stat. 5038; Pub. L. 104–188, title I, §1451(a), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–147, title IV, §411(r)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(b), title X, §1004(a), title XI, §1102(a)(1)(A), Aug. 17, 2006, 120 Stat. 920, 1053, 1056; Pub. L. 110–458, title I, §103(b)(2)(A), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(a)(2)(C), July 6, 2012, 126 Stat. 847; Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(i), Dec. 19, 2014, 128 Stat. 4046.)
+(Added Pub. L. 98–397, title II, §203(b), Aug. 23, 1984, 98 Stat. 1441; amended Pub. L. 99–514, title XI, §1139(b), title XVIII, §1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, 100 Stat. 2487, 2944, 2945, 2947–2951; Pub. L. 100–647, title I, §1018(u)(9), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 101–239, title VII, §7862(d)(1)(A), Dec. 19, 1989, 103 Stat. 2433; Pub. L. 103–465, title VII, §767(a)(2), Dec. 8, 1994, 108 Stat. 5038; Pub. L. 104–188, title I, §1451(a), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat.948; Pub. L. 107–147, title IV, §411(r)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(b), title X, §1004(a), title XI, §1102(a)(1)(A), Aug. 17, 2006, 120 Stat. 920, 1053, 1056; Pub. L. 110–458, title I, §103(b)(2)(A), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(a)(2)(C), July 6, 2012, 126 Stat. 847; Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(i), Dec. 19, 2014, 128 Stat. 4046.)
 
 #### <b>Editorial Notes</b>
 
@@ -308,7 +308,7 @@ Subsec. (e)(2)(A). Pub. L. 107–147, §411(r)(1)(B), substituted "exceeds the a
 
 <b>1994</b>—Subsec. (e)(3). Pub. L. 103–465 amended par. (3) generally, substituting present provisions for provisions directing that present value be calculated by using a rate no greater than the applicable interest rate or 120 percent of such rate, depending upon amount of vested accrued benefit, and defining "applicable interest rate".
 
-<b>1989</b>—Subsec. (a)(3)(B)(ii). Pub. L. 101–239 added sentence at end and struck out former subcl. (V) which read as follows: "A reasonable period after separationfrom service in case of a participant who separates before attaining age 35."
+<b>1989</b>—Subsec. (a)(3)(B)(ii). Pub. L. 101–239 added sentence at end and struck out former subcl. (V) which read as follows: "A reasonable period after separation from service in case of a participant who separates before attaining age 35."
 
 <b>1988</b>—Subsec. (e)(3)(A). Pub. L. 100–647 substituted "clause (ii)" for "subclause (II)" in last sentence.
 
@@ -400,7 +400,7 @@ Amendment by Pub. L. 103–465 applicable to plan years and limitation years beg
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L.99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set out as a note under section 106 of this title.
+Amendment by Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set out as a note under section 106 of this title.
 
 #### Effective Date of 1988 Amendment
 

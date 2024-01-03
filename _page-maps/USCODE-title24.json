@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title24",
- "package": "USCODE-2022-title24",
+ "package": "USCODE-2023-title24",
  "pieces": [
   {
    "id": "24_",
@@ -1318,10 +1318,10 @@
    "marks": [
     [
      "I",
-     16,
+     8,
      [
       [
-       96,
+       93,
        "[Page 21]"
       ]
      ]
@@ -1338,10 +1338,10 @@
    "marks": [
     [
      "I",
-     18,
+     10,
      [
       [
-       140,
+       137,
        "[Page 22]"
       ]
      ]
@@ -1357,10 +1357,14 @@
    "id": "24_225f",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 23]",
-     true
+     "I",
+     10,
+     [
+      [
+       1056,
+       "[Page 23]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 003 (III) - Mental Health Service for District of Columbia/§ 00225f - Property transfer.md",
@@ -1373,14 +1377,10 @@
    "id": "24_225g",
    "marks": [
     [
-     "I",
-     46,
-     [
-      [
-       284,
-       "[Page 24]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 24]",
+     true
     ]
    ],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 003 (III) - Mental Health Service for District of Columbia/§ 00225g - Financing provisions.md",
@@ -1394,7 +1394,7 @@
    "marks": [
     [
      "L",
-     40,
+     28,
      "[Page 25]",
      true
     ]
@@ -1445,14 +1445,10 @@
    "id": "24_-ch7",
    "marks": [
     [
-     "I",
-     134,
-     [
-      [
-       101,
-       "[Page 26]"
-      ]
-     ]
+     "L",
+     80,
+     "[Page 26]",
+     true
     ]
    ],
    "path": "Chapter 007 - National Cemeteries/README.md",
@@ -1481,26 +1477,30 @@
   },
   {
    "id": "24_278_to_279d",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       115,
+       "[Page 27]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 007 - National Cemeteries/§ 00278 to 279d - Repealed. Pub. L. 93–43, §7(a)(1), (4), (5), (7), June 18, 1973, 87 Stat. 82.md",
    "printed_pages": [
     26,
-    26
+    27
    ]
   },
   {
    "id": "24_280_to_280b",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 27]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - National Cemeteries/§ 00280 to 280b - Repealed. July 1, 1948, ch. 791, §4, 62 Stat. 1216.md",
    "printed_pages": [
-    26,
+    27,
     27
    ]
   },
@@ -1526,10 +1526,14 @@
    "id": "24_286_to_290",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 28]",
-     true
+     "I",
+     16,
+     [
+      [
+       110,
+       "[Page 28]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 007 - National Cemeteries/§ 00286 to 290 - Repealed. Pub. L. 93–43, §7(a)(1), (13)–(18), (42), (44)–(46), June 18, 1973, 87 Stat. 82, 83, 85.md",
@@ -1558,11 +1562,18 @@
   },
   {
    "id": "24_296",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 29]",
+     true
+    ]
+   ],
    "path": "Chapter 007 - National Cemeteries/§ 00296 - Repealed. Pub. L. 93–43, §7(a)(9), June 18, 1973, 87 Stat. 82.md",
    "printed_pages": [
     28,
-    28
+    29
    ]
   },
   {
@@ -1570,8 +1581,8 @@
    "marks": [],
    "path": "Chapter 007A - Private and Commercial Cemeteries/README.md",
    "printed_pages": [
-    28,
-    28
+    29,
+    29
    ]
   },
   {
@@ -1579,8 +1590,8 @@
    "marks": [],
    "path": "Chapter 007A - Private and Commercial Cemeteries/§ 00298 - Repealed. Oct. 31, 1951, ch. 654, §1(47), 65 Stat. 703.md",
    "printed_pages": [
-    28,
-    28
+    29,
+    29
    ]
   },
   {
@@ -1588,8 +1599,8 @@
    "marks": [],
    "path": "Chapter 008 - Gorgas Hospital/README.md",
    "printed_pages": [
-    28,
-    28
+    29,
+    29
    ]
   },
   {
@@ -1597,27 +1608,16 @@
    "marks": [],
    "path": "Chapter 008 - Gorgas Hospital/§ 00301 - Ancon Hospital to be known as Gorgas Hospital.md",
    "printed_pages": [
-    28,
-    28
+    29,
+    29
    ]
   },
   {
    "id": "24_302",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 29]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - Gorgas Hospital/§ 00302 - Change of name as affecting various rights; records, maps, and public documents.md",
    "printed_pages": [
-    28,
+    29,
     29
    ]
   },
@@ -1641,30 +1641,30 @@
   },
   {
    "id": "24_322",
-   "marks": [],
-   "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00322 - Reception of eligible persons at ports of entry or debarkation.md",
-   "printed_pages": [
-    29,
-    29
-   ]
-  },
-  {
-   "id": "24_323",
    "marks": [
     [
      "I",
-     2,
+     4,
      [
       [
-       99,
+       701,
        "[Page 30]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00323 - Transfer and release to State of residence or legal domicile, or to relative.md",
+   "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00322 - Reception of eligible persons at ports of entry or debarkation.md",
    "printed_pages": [
     29,
+    30
+   ]
+  },
+  {
+   "id": "24_323",
+   "marks": [],
+   "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00323 - Transfer and release to State of residence or legal domicile, or to relative.md",
+   "printed_pages": [
+    30,
     30
    ]
   },
@@ -1679,11 +1679,22 @@
   },
   {
    "id": "24_325",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       91,
+       "[Page 31]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00325 - Examination of persons admitted.md",
    "printed_pages": [
     30,
-    30
+    31
    ]
   },
   {
@@ -1691,27 +1702,16 @@
    "marks": [],
    "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00326 - Release of patient.md",
    "printed_pages": [
-    30,
-    30
+    31,
+    31
    ]
   },
   {
    "id": "24_327",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       94,
-       "[Page 31]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00327 - Notification to committing court of discharge or conditional release.md",
    "printed_pages": [
-    30,
+    31,
     31
    ]
   },
@@ -1735,11 +1735,22 @@
   },
   {
    "id": "24_-ch10",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     21,
+     [
+      [
+       60,
+       "[Page 32]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 010 - Armed Forces Retirement Home/README.md",
    "printed_pages": [
     31,
-    31
+    32
    ]
   },
   {
@@ -1747,15 +1758,15 @@
    "marks": [
     [
      "L",
-     22,
-     "[Page 32]",
+     84,
+     "[Page 33]",
      true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/§ 00401 - Definitions.md",
    "printed_pages": [
-    31,
-    32
+    32,
+    33
    ]
   },
   {
@@ -1763,8 +1774,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/README.md",
    "printed_pages": [
-    32,
-    32
+    33,
+    33
    ]
   },
   {
@@ -1772,26 +1783,16 @@
    "marks": [
     [
      "L",
-     14,
-     "[Page 33]",
+     52,
+     "[Page 34]",
      true
     ],
     [
      "I",
-     76,
+     114,
      [
       [
-       95,
-       "[Page 34]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     138,
-     [
-      [
-       263,
+       108,
        "[Page 35]"
       ]
      ]
@@ -1799,7 +1800,7 @@
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00411 - Establishment of the Armed Forces Retirement Home.md",
    "printed_pages": [
-    32,
+    33,
     35
    ]
   },
@@ -1808,7 +1809,7 @@
    "marks": [
     [
      "L",
-     76,
+     18,
      "[Page 36]",
      true
     ]
@@ -1824,10 +1825,10 @@
    "marks": [
     [
      "I",
-     48,
+     8,
      [
       [
-       167,
+       321,
        "[Page 37]"
       ]
      ]
@@ -1844,7 +1845,7 @@
    "marks": [
     [
      "L",
-     68,
+     24,
      "[Page 38]",
      true
     ]
@@ -1860,10 +1861,10 @@
    "marks": [
     [
      "I",
-     68,
+     20,
      [
       [
-       95,
+       281,
        "[Page 39]"
       ]
      ]
@@ -1880,7 +1881,7 @@
    "marks": [
     [
      "L",
-     70,
+     24,
      "[Page 40]",
      true
     ]
@@ -1896,11 +1897,21 @@
    "marks": [
     [
      "I",
-     60,
+     8,
      [
       [
-       89,
+       94,
        "[Page 41]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     82,
+     [
+      [
+       218,
+       "[Page 42]"
       ]
      ]
     ]
@@ -1908,7 +1919,7 @@
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00416 - Advisory Council.md",
    "printed_pages": [
     40,
-    41
+    42
    ]
   },
   {
@@ -1916,8 +1927,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00416a - Resident Advisory Committees.md",
    "printed_pages": [
-    41,
-    41
+    42,
+    42
    ]
   },
   {
@@ -1925,20 +1936,14 @@
    "marks": [
     [
      "L",
-     32,
-     "[Page 42]",
-     true
-    ],
-    [
-     "L",
-     118,
+     54,
      "[Page 43]",
      true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00417 - Administrators, Ombudsmen, and staff of facilities.md",
    "printed_pages": [
-    41,
+    42,
     43
    ]
   },
@@ -1946,10 +1951,14 @@
    "id": "24_418",
    "marks": [
     [
-     "L",
-     72,
-     "[Page 44]",
-     true
+     "I",
+     24,
+     [
+      [
+       115,
+       "[Page 44]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00418 - Periodic inspection of retirement home facilities.md",
@@ -1960,82 +1969,89 @@
   },
   {
    "id": "24_419",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     24,
+     [
+      [
+       90,
+       "[Page 45]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00419 - Armed Forces Retirement Home Trust Fund.md",
    "printed_pages": [
     44,
-    44
+    45
    ]
   },
   {
    "id": "24_420",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 45]",
-     true
+     "I",
+     30,
+     [
+      [
+       187,
+       "[Page 46]"
+      ]
+     ]
     ],
     [
      "L",
-     74,
-     "[Page 46]",
+     104,
+     "[Page 47]",
      true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00420 - Disposition of effects of deceased persons; unclaimed property.md",
    "printed_pages": [
-    44,
-    46
+    45,
+    47
    ]
   },
   {
    "id": "24_421",
-   "marks": [
-    [
-     "I",
-     34,
-     [
-      [
-       117,
-       "[Page 47]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00421 - Payment of residents for services.md",
    "printed_pages": [
-    46,
+    47,
     47
    ]
   },
   {
    "id": "24_422",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 48]",
+     true
+    ]
+   ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00422 - Authority to accept certain uncompensated services.md",
    "printed_pages": [
     47,
-    47
+    48
    ]
   },
   {
    "id": "24_423",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       128,
-       "[Page 48]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 49]",
+     true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00423 - Preservation of historic buildings and grounds at the Armed Forces Retirement Home—Washington.md",
    "printed_pages": [
-    47,
-    48
+    48,
+    49
    ]
   },
   {
@@ -2043,8 +2059,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00424 - Repealed. Pub. L. 107–107, div. A, title XIV, §1410(a)(5), Dec. 28, 2001, 115 Stat. 1266.md",
    "printed_pages": [
-    48,
-    48
+    49,
+    49
    ]
   },
   {
@@ -2052,8 +2068,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 002 (II) - Transitional Provisions/README.md",
    "printed_pages": [
-    48,
-    48
+    49,
+    49
    ]
   },
   {
@@ -2061,8 +2077,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 002 (II) - Transitional Provisions/§ 00431 to 433 - Repealed. Pub. L. 112–81, div. A, title V, §567(a), Dec. 31, 2011, 125 Stat. 1425.md",
    "printed_pages": [
-    48,
-    48
+    49,
+    49
    ]
   },
   {
@@ -2070,8 +2086,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 003 (III) - Authorization of Appropriations/README.md",
    "printed_pages": [
-    48,
-    48
+    49,
+    49
    ]
   },
   {
@@ -2079,11 +2095,11 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 003 (III) - Authorization of Appropriations/§ 00441 - Repealed. Pub. L. 107–107, div. A, title XIV, §1410(b)(3), Dec. 28, 2001, 115 Stat. 1266.md",
    "printed_pages": [
-    48,
-    48
+    49,
+    49
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2022-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2023-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 24 - Hospitals and Asylums"
 }

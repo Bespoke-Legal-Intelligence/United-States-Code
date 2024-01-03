@@ -308,7 +308,7 @@ Sec. 5. (a) All improvements and other items acquired by the Federal Government 
 
 "
 
-Sec. 6. Executive departments and Executive agencies shall assist the Secret Service in the performanceof its duties by providing services, equipment, and facilities on a temporary and reimbursable basis when requested by the Director and on a permanent and reimbursable basis upon advance written request of the Director; except that the Department of Defense and the Coast Guard shall provide such assistance on a temporary basis without reimbursement when assisting the Secret Service in its duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President.
+Sec. 6. Executive departments and Executive agencies shall assist the Secret Service in the performance of its duties by providing services, equipment, and facilities on a temporary and reimbursable basis when requested by the Director and on a permanent and reimbursable basis upon advance written request of the Director; except that the Department of Defense and the Coast Guard shall provide such assistance on a temporary basis without reimbursement when assisting the Secret Service in its duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President.
 
 "
 
@@ -324,11 +324,11 @@ Sec. 8. No funds may be expended or obligated for the purpose of carrying out th
 
 "
 
-Sec. 9. The Director, the Secretary of Defense, and the Commandant of the Coast Guard shall each transmit a detailed semi-annual report of expenditures made pursuant to this Act during the six-month period immediately preceding such report by the Secret Service, the Department of Defense, and the Coast Guard, respectively, to the Committees on Appropriations, Committees on the Judiciary, and Committees on Government Operations \[now Committee on Oversight and Reform of the House of Representatives and Committee on Homeland Security and Governmental Affairs of the Senate\] of the House of Representatives and the Senate, respectively, on March 31 and September 30, of each year.
+Sec. 9. The Director, the Secretary of Defense, and the Commandant of the Coast Guard shall each transmit a detailed semi-annual report of expenditures made pursuant to this Act during the six-month period immediately preceding such report by the Secret Service, the Department of Defense, and the Coast Guard, respectively, to the Committees on Appropriations, Committees on the Judiciary, and Committees on Government Operations \[now Committee on Oversight and Accountability of the House of Representatives and Committee on Homeland Security and Governmental Affairs of the Senate\] of the House of Representatives and the Senate, respectively, on March 31 and September 30, of each year.
 
 "
 
-Sec. 10. Expenditures made pursuant to this Act shall be subject to audit by the Comptroller General and his authorized representatives, who shall have access to all records relating to such expenditures. The Comptroller General shall transmit a report of the results of any such audit to the Committees on Appropriations, Committees on the Judiciary, and Committees on Government Operations \[now Committee on Oversight and Reform of the House of Representatives and Committee on Homeland Security and Governmental Affairs of the Senate\] of the House of Representatives and the Senate, respectively.
+Sec. 10. Expenditures made pursuant to this Act shall be subject to audit by the Comptroller General and his authorized representatives, who shall have access to all records relating to such expenditures. The Comptroller General shall transmit a report of the results of any such audit to the Committees on Appropriations, Committees on the Judiciary, and Committees on Government Operations \[now Committee on Oversight and Accountability of the House of Representatives and Committee on Homeland Security and Governmental Affairs of the Senate\] of the House of Representatives and the Senate, respectively.
 
 "
 

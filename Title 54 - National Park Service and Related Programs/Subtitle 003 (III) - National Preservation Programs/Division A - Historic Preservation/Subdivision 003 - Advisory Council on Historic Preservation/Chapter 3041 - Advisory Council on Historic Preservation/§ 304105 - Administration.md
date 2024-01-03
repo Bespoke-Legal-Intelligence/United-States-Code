@@ -58,7 +58,7 @@ Provided by federal agency.—Any Federal agency may provide the Council, with o
 
 &emsp;(2)
 
-Obtaining additional property, facilities, and services and receiving donationsof money.—To the extent of available appropriations, the Council may obtain by purchase, rental, donation, or otherwise additional property, facilities, and services as may be needed to carry out its duties and may receive donations of money for that purpose. The Executive Director may accept, hold, use, expend, and administer the property, facilities, services, and money for the purposes of this division.
+Obtaining additional property, facilities, and services and receiving donations of money.—To the extent of available appropriations, the Council may obtain by purchase, rental, donation, or otherwise additional property, facilities, and services as may be needed to carry out its duties and may receive donations of money for that purpose. The Executive Director may accept, hold, use, expend, and administer the property, facilities, services, and money for the purposes of this division.
 
 (h)
 
@@ -106,7 +106,7 @@ In subsection (a), the words "at a rate within the Executive Schedule" are added
 
 In subsection (c), the words "that exceed that prescribed for the highest rate established for grade 15 of the General Schedule under section 5332 of title 5 or in the Senior Executive Service under section 3393 of title 5" are substituted for "not to exceed that now or hereafter prescribed for the highest rate of grade 15 of the General Schedule under section 5332 of title 5" for consistency with the intent of the source provision language as it existed in 1966, which included all Federal employees. The language is updated to reflect the existence of the Senior Executive Service and senior level employees above grade 15.
 
-In subsection (d), the words "chapter 51 and subchapter III of chapter 53 of title 5" are substituted for "the Classification Act of 1949" because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the 1st section of which enacted Title 5, United States Code.
+In subsection (d), the words "chapter 51 and subchapter III of chapter 53 of title 5" are substituted for"the Classification Act of 1949" because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the 1st section of which enacted Title 5, United States Code.
 
 In subsection (f)(1), the word "Secretary" is substituted for "Department of the Interior" because of 43 U.S.C. 1451.
 

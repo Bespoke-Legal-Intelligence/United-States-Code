@@ -288,6 +288,42 @@ Subsec. (i). Pub. L. 104–324, §712(2), inserted "as measured under section 14
 
 Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under section 3101 of this title.
 
+#### Small Passenger Vessels With Overnight Accommodations
+
+Pub. L. 118–31, div. C, title XXXV, §3531(b), Dec. 22, 2023, 137 Stat. 826, provided that:
+
+"(1)
+
+Extension authority.—
+
+&emsp;"(A)
+
+In general.—The Commandant of the Coast Guard shall not enforce the requirements of section 3306(n)(3)(A)(v) of title 46, United States Code, against an operator of an overnight fishing charter before April 1, 2024.
+
+&emsp;"(B)
+
+Plan required.—Not later than April 1, 2024, an operator of an overnight fishing charter not in compliance with such section 3306(n)(3)(A)(v) shall submit to the Commandant a plan for complying with such requirements.
+
+&emsp;"(C)
+
+Extension.—On and after April 1, 2024, with respect to an operator of an overnight fishing charter which has submitted a plan for compliance in accordance with subparagraph (B), a captain of the port may extend the period described under subparagraph (A) until a date not later than January 1, 2026.
+
+"(2)
+
+Limitation.—Without further Congressional action, a captain of the port may not extend the period of nonenforcement of the requirements of section 3306(n)(3)(A)(v) of title 46, United States Code, with respect to an overnight fishing charter, to a date later than January 1, 2026.
+
+"(3)
+
+Notice to passengers.—Beginning on the date on which the requirements under section 3306(n)(3)(A)(v) of title 46, United States Code, take effect, the owner or operator of a vessel for which an extension is granted under paragraph (1)(C) shall provide on the website of such owner or operator of the vessel, the vessel, and each ticket for a passenger a prominently displayed notice that the vessel is exempt from meeting the Coast Guard safety compliance standards concerning egress as described in such section.
+
+"(4)
+
+Overnight fishing charter defined.—In this section, the term 'overnight fishing charter' means a vessel that—
+
+&emsp;"(A) is engaged in 'charter fishing' as such term is defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802); and
+
+&emsp;"(B) has overnight accommodations for passengers."
+
 #### Regulations
 
 Pub. L. 103–206, title V, §512(b), (c), Dec. 20, 1993, 107 Stat. 2442, provided that:
@@ -398,7 +434,7 @@ Notice to Passengers.—A DUKW amphibious passenger vessel that receives a waive
 
 "(f)
 
-Interim Requirements.—Prior to issuing final regulations pursuant to subsection (a) and not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant shall require that operators of DUKW amphibious passenger vessels implement the following requirements:
+Interim Requirements.—Prior to issuing final regulations pursuant to subsection (a) and not laterthan 180 days after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant shall require that operators of DUKW amphibious passenger vessels implement the following requirements:
 
 &emsp;"(1) Remove the canopies and any window coverings of such vessels for waterborne operations, or install in such vessels a canopy that does not restrict horizontal or vertical escape by passengers in the event of flooding or sinking.
 
@@ -428,7 +464,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee Transportation and Infrastructure ofthe House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 &emsp;"(2)
 
@@ -500,7 +536,7 @@ Savings Clause.—Nothing in this section shall limit any authority available, a
 
 "(f)
 
-Notice to Passengers.—Any vessel that receives a waiver under subsection (c) or subsection (d) shall, beginning on the date on which the requirements under section 3306(n)(3)(v) of title 46, United States Code, take effect, provide a prominently displayed notice on its website, ticket counter, and each ticket for a passenger that the vessel is exempt from meeting the Coast Guard safety compliance standards concerning egress as described under such section.
+Notice to Passengers.—Any vessel that receives a waiver under subsection (c) or subsection (d) shall, beginning on the date on which the requirements under section 3306(n)(3)(v) of title 46, United States Code, take effect, provide a prominently displayed notice on its website, ticket counter, and each ticket for a passengerthat the vessel is exempt from meeting the Coast Guard safety compliance standards concerning egress as described under such section.
 
 "(g)
 

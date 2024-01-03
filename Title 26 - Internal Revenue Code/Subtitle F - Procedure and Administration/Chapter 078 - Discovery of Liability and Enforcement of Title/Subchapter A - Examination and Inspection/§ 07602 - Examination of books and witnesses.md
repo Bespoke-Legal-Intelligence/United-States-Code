@@ -12,7 +12,7 @@ For the purpose of ascertaining the correctness of any return, making a return w
 
 #### (b) Purpose may include inquiry into offense
 
-The purposes for which the Secretary may take any action described in paragraph (1), (2),or (3) of subsection (a) include the purpose of inquiring into any offense connected with the administration or enforcement of the internal revenue laws.
+The purposes for which the Secretary may take any action described in paragraph (1), (2), or (3) of subsection (a) include the purpose of inquiring into any offense connected with the administration or enforcement of the internal revenue laws.
 
 #### (c) Notice of contact of third parties
 
@@ -122,7 +122,7 @@ Pub. L. 116–25, title I, §1208(b), July 1, 2019, 133 Stat. 991, provided that
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3417(b), July 22, 1998, 112 Stat. 758, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to contacts made after the 180th day after the date of the enactment of this Act \[July 22, 1998\]."
+Pub. L. 105–206, title III, §3417(b), July 22, 1998, 112 Stat. 758, provided that: "The amendments made bysubsection (a) \[amending this section\] shall apply to contacts made after the 180th day after the date of the enactment of this Act \[July 22, 1998\]."
 
 #### Effective Date of 1982 Amendment
 

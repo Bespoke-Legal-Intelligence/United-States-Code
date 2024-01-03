@@ -36,7 +36,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the percentage of the voting stock owned by all disqualified persons.
 
-> &emsp;&emsp;In any case in which all disqualified persons together do not own more than 20 percent ofthe voting stock of an incorporated business enterprise, nonvoting stock held by the private foundation shall also be treated as permitted holdings.
+> &emsp;&emsp;In any case in which all disqualified persons together do not own more than 20 percent of the voting stock of an incorporated business enterprise, nonvoting stock held by the private foundation shall also be treated as permitted holdings.
 
 #### (B) 35 percent rule where third person has effective control of enterprise
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 &emsp;(A)(i) In applying this section with respect to the holdings of any private foundation in a business enterprise, if such foundation and all disqualified persons together have holdings in such enterprise in excess of 20 percent of the voting stock on May 26, 1969, the percentage of such holdings shall be substituted for "20 percent," and for "35 percent" (if the percentage of such holdings is greater than 35 percent), wherever it appears in paragraph (2), but in no event shall the percentage so substituted be more than 50 percent.
 
-&emsp;(ii) If the percentage of the holdings of any private foundation and all disqualified persons together in a business enterprise (or if the percentage of the holdings of the private foundation in such enterprise) decreases for any reason, clause (i) and subparagraph (D) shall, except as provided in the next sentence, be applied for all periods after such decrease by substituting such decreased percentage for the percentage held on May 26, 1969, but in no event shall the percentage substituted be less than 20 percent. For purposes of the preceding sentence, any decrease in percentage holdings attributable to issuances of stock (or to issuances of stock coupled with redemptions of stock) shall be disregarded so long as—
+&emsp;(ii) If the percentage of the holdings of any private foundation and all disqualified persons together in a business enterprise (or if the percentage of the holdings of the private foundation in such enterprise) decreases for any reason, clause (i) and subparagraph (D) shall, except as provided in the next sentence, be applied for all periods after such decrease by substituting such decreased percentage for the percentage held on May 26, 1969, but in no event shall the percentage substituted be less than 20 percent. For purposes of the precedingsentence, any decrease in percentage holdings attributable to issuances of stock (or to issuances of stock coupled with redemptions of stock) shall be disregarded so long as—
 
 &emsp;&emsp;(I) the net percentage decrease disregarded under this sentence does not exceed 2 percent, and
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) an increase in excess business holdings in such enterprise (determined without regard to subparagraph (A)), subparagraph (A) shall apply, except that the excess holdings immediately preceding the increase therein shall not be treated, solely because of such increase, as held by a disqualified person (rather than by the foundation).
 
-> &emsp;In any case where an acquisition by a disqualified person would result in a substitution under clause (i) or (ii) of subparagraph (D) of paragraph (4), the preceding sentence shall be applied with respect to such acquisition as if it did not contain the phrase "or by a disqualified person" in the material preceding subparagraph (A).
+> &emsp;In any case where an acquisition by a disqualified person would result in a substitution under clause (i) or (ii) of subparagraph (D) of paragraph (4), the preceding sentence shall beapplied with respect to such acquisition as if it did not contain the phrase "or by a disqualified person" in the material preceding subparagraph (A).
 
 #### (7) 5-year extension of period to dispose of certain large gifts and bequests
 
@@ -270,7 +270,7 @@ For purposes of this section—
 
 &emsp;The requirements of this paragraph are met if—
 
-&emsp;&emsp;(A) 100 percent of the voting stock in the business enterprise is held by the private foundation at all times during the taxable year, and
+&emsp;&emsp;(A) 100 percent of the voting stock in the business enterprise is held by the privatefoundation at all times during the taxable year, and
 
 &emsp;&emsp;(B) all the private foundation's ownership interests in the business enterprise were acquired by means other than by purchase.
 
@@ -314,7 +314,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) any trust described in section 4947(a)(2) (relating to split-interest trusts).
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 507; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834;Pub. L. 96–596, §2(a)(1)(D), (2)(C), (3)(C), (4)(B), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 98–369, div. A, title III, §§307(a), 308(a), 309(a), 310(a), 314(c)(1), July 18, 1984, 98 Stat. 784, 785, 787; Pub. L. 109–280, title XII, §§1212(c), 1233(a), 1243(a), Aug. 17, 2006, 120 Stat. 1074, 1099, 1105; Pub. L. 113–295, div. A, title II, §220(r), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–123, div. D, title II, §41110(a), Feb. 9, 2018, 132 Stat. 159.)
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 507; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–596, §2(a)(1)(D), (2)(C), (3)(C), (4)(B), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 98–369, div. A, title III, §§307(a), 308(a), 309(a), 310(a), 314(c)(1), July 18, 1984, 98 Stat. 784, 785, 787; Pub. L. 109–280, title XII, §§1212(c), 1233(a), 1243(a), Aug. 17, 2006, 120 Stat. 1074, 1099, 1105; Pub. L. 113–295, div. A, title II, §220(r), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–123, div. D, title II, §41110(a), Feb. 9, 2018, 132 Stat. 159.)
 
 #### <b>Editorial Notes</b>
 
@@ -350,7 +350,7 @@ Subsec. (d)(4). Pub. L. 98–369, §314(c)(1), added par. (4).
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–596, §2(a)(1)(D), substituted "taxable period" for "correction period".
 
-Subsec. (d)(2). Pub. L. 96–596, §2(a)(2)(C), substituted provision ending the taxable period on the earlier of the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (a) of this section under section 6212 of this title in respect to such holdings or the date on which the tax imposed by subsec. (a) of this section in respect to such holdings is assessed for provision ending the taxable period on the date of mailing the notice of deficiency with respect to a tax imposed by subsec. (a) of this section under section 6212 of this title in respect to such holdings.
+Subsec. (d)(2). Pub. L. 96–596, §2(a)(2)(C), substituted provision ending the taxable period on the earlier of the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (a) of this section under section 6212 of this title in respect to such holdings or the date on which the tax imposed by subsec. (a) of this section in respect to such holdings is assessed for provision ending the taxable period on the date ofmailing the notice of deficiency with respect to a tax imposed by subsec. (a) of this section under section 6212 of this title in respect to such holdings.
 
 Subsec. (d)(3), (4). Pub. L. 96–596, §2(a)(3)(C), (4)(B), redesignated par. (4) as (3), and in subpar. (A) of par. (3) as so redesignated, substituted "section 4942(j)(4)" for "section 4942(j)(5)", and struck out par. (3), which defined correction period, with respect to excess business holdings of a private foundation in a business enterprise, as the period ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b) of this section under section 6212 of this title, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to permit orderly disposition of such excess business holdings.
 
@@ -388,7 +388,7 @@ Pub. L. 98–369, div. A, title III, §309(b), July 18, 1984, 98 Stat. 785, prov
 
 Pub. L. 98–369, div. A, title III, §310(b), July 18, 1984, 98 Stat. 786, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to acquisitions after the date of the enactment of this Act \[July 18, 1984\]."
 
-Pub. L. 98–369, div. A, title III, §314(c)(2), July 18, 1984, 98 Stat. 788, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply with respect to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\]."
+Pub. L. 98–369, div. A, title III, §314(c)(2), July 18, 1984, 98 Stat. 788, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\]."
 
 #### Effective Date of 1980 Amendment
 

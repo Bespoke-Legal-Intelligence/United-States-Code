@@ -148,9 +148,11 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Presidential Advisory Council on HIV/AIDS
 
-Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of Presidential Advisory Council on HIV/AIDS were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743 extended term until Sept. 30, 2021.
 
@@ -168,7 +170,7 @@ Section 1. <i>Policy</i>. Addressing the domestic HIV epidemic is a priority of 
 
 Since the release of the Strategy, additional scientific discoveries have greatly enhanced our understanding of how to prevent and treat HIV. Accordingly, further Federal action is appropriate in response to these new developments. For example, a breakthrough research trial supported by the National Institutes of Health showed that initiating HIV treatment when the immune system was relatively healthy reduced HIV transmission by 96 percent. In addition, evidence suggests that early treatment may reduce HIV-related complications. These findings highlight the importance of prompt HIV diagnosis, and because of recent advances in HIV testing technology, HIV can be detected sooner and more rapidly than ever before.
 
-Based on these and other data, recommendations for HIV testing and treatment have changed. The U.S. Preventive Services Task Force now recommends that clinicians screen all individuals ages 15 to 65 years forHIV, and the Department of Health and Human Services Guidelines for Use of Antiretroviral Agents now recommends offering treatment to all adolescents and adults diagnosed with HIV.
+Based on these and other data, recommendations for HIV testing and treatment have changed. The U.S. Preventive Services Task Force now recommends that clinicians screen all individuals ages 15 to 65 years for HIV, and the Department of Health and Human Services Guidelines for Use of Antiretroviral Agents now recommends offering treatment to all adolescents and adults diagnosed with HIV.
 
 Furthermore, ongoing implementation of the Affordable Care Act provides a historic opportunity for Americans to access affordable, quality health care. The Act is expanding access to recommended preventive services with no out-of-pocket costs, including HIV testing, and, beginning in 2014, insurance companies will not be able to deny coverage based on pre-existing conditions, including HIV. Starting October 1, 2013, Americans can select the coverage that best suits them through the new Health Insurance Marketplace, and coverage will begin January 1, 2014.
 
@@ -300,7 +302,7 @@ Sec. 6. <i>National HIV/AIDS Strategy Federal Interagency Working Group</i>. The
 
 (b) <i>Consultation</i>. The Federal Interagency Working Group shall consult with the PACHA, as appropriate.
 
-(c) <i>Outreach</i>. The Federal Interagency Working Group shall hold regular meetings and conduct outreach with representatives of private and nonprofit organizations, State, tribal, and local governments and agencies,elected officials, and other interested persons to assist the Federal Interagency Working Group in its efforts.
+(c) <i>Outreach</i>. The Federal Interagency Working Group shall hold regular meetings and conduct outreach with representatives of private and nonprofit organizations,State, tribal, and local governments and agencies, elected officials, and other interested persons to assist the Federal Interagency Working Group in its efforts.
 
 (d) <i>Functions</i>. As part of its efforts, the Federal Interagency Working Group shall:
 
@@ -446,7 +448,7 @@ Section 1. <i>Working Group on the Intersection of HIV/AIDS, Violence Against Wo
 
 (c) The Department of State, the United States Agency for International Development, and the President's Emergency Plan for AIDS Relief Gender Technical Working Group shall act in an advisory capacity to the Working Group, providing information on lessons learned and evidence-based best practices based on their global experience addressing issues involving the intersection between HIV/AIDS and violence against women.
 
-Sec. 2. <i>Mission and Functions of the Working Group</i>. (a) The Working Group shall coordinate agency efforts to address issues involving the intersection of HIV/AIDS, violence against women and girls, and gender-related health disparities. Such efforts shall include, but not be limited to:
+Sec. 2. <i>Mission and Functions of the Working Group</i>. (a) The Working Group shall coordinate agency efforts to address issues involving the intersection of HIV/AIDS,violence against women and girls, and gender-related health disparities. Such efforts shall include, but not be limited to:
 
 (i) increasing government and public awareness of the need to address the intersection of HIV/AIDS, violence against women and girls, and gender-related health disparities, including sexual and reproductive health and access to health care;
 

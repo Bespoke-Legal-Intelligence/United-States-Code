@@ -48,7 +48,7 @@ The Secretary, acting through the Office, may undertake the following activities
 
 In selecting among applications for grants under subsection (c), the Secretary shall give priority to proposals which emphasize—
 
-&emsp;(1) techniques and processes that relate to weather-induced agricultural losses, and toimproving the advisory information on weather extremes such as drought, floods, freezes, and storms well in advance of their actual occurrence;
+&emsp;(1) techniques and processes that relate to weather-induced agricultural losses, and to improving the advisory information on weather extremes such as drought, floods, freezes, and storms well in advance of their actual occurrence;
 
 &emsp;(2) the improvement of site-specific weather data collection and forecasting; or
 
@@ -60,7 +60,7 @@ In selecting among applications for grants under subsection (c), the Secretary s
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

@@ -24,7 +24,7 @@ State laws, regulations, provisions, or other actions purporting to regulate ins
 
 &emsp;&emsp;(B) impose any requirement upon a member of the Association that it be licensed, registered, or otherwise qualified to do business or remain in good standing in the State, including any requirement that the insurance producer register as a foreign company with the secretary of state or equivalent State official;
 
-&emsp;&emsp;(C) require that a member of the Association submit to a criminal history recordcheck as a condition of doing business in the State; or
+&emsp;&emsp;(C) require that a member of the Association submit to a criminal history record check as a condition of doing business in the State; or
 
 &emsp;&emsp;(D) impose any licensing, registration, or appointment requirements upon a member of the Association, or require a member of the Association to be authorized to operate as an insurance producer, in order to sell, solicit, or negotiate insurance for commercial property and casualty risks to an insured with risks located in more than one State, if the member is licensed or otherwise authorized to operate in the State where the insured maintains its principal place of business and the contract of insurance insures risks located in that State.
 

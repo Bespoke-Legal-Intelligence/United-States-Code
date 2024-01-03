@@ -14,7 +14,7 @@ The Director of the National Security Agency shall arrange for, and shall prescr
 
 #### (b) Incentives
 
-(1) In order to maintain necessary capability in foreign language skills and related abilitiesneeded by the National Security Agency, the Director, without regard to subchapter IV of chapter 55 of title 5, may provide special monetary or other incentives to encourage civilian cryptologic personnel of the Agency to acquire or retain proficiency in foreign languages or special related abilities needed by the Agency.
+(1) In order to maintain necessary capability in foreign language skills and related abilities needed by the National Security Agency, the Director, without regard to subchapter IV of chapter 55 of title 5, may provide special monetary or other incentives to encourage civilian cryptologic personnel of the Agency to acquire or retain proficiency in foreign languages or special related abilities needed by the Agency.
 
 (2) In order to provide linguistic training and support for cryptologic personnel, the Director—
 
@@ -24,7 +24,7 @@ The Director of the National Security Agency shall arrange for, and shall prescr
 
 #### (c) Cryptologic linguist reserve
 
-(1) To the extent not inconsistent, in the opinion of the Secretary of Defense, with the operation of military cryptologic reserve units and in order to maintain necessary capability in foreign language skills and related abilities needed by the National Security Agency, the Director may establish a cryptologic linguist reserve. The cryptologic linguist reserve may consist of former or retired civilian or military cryptologic personnel of the National Security Agency and of other qualified individuals, as determined by the Director of the Agency. Each member of the cryptologic linguist reserve shall agree that, during any period of emergency (as determined by the Director), the member shall return to active civilian status with the National Security Agency and shall perform such linguistic or linguistic-related duties as the Director may assign.
+(1) To the extent not inconsistent, in the opinion of the Secretary of Defense, with the operation of military cryptologic reserve units and in order to maintain necessary capability in foreign language skills and related abilities needed by the National Security Agency, the Directormay establish a cryptologic linguist reserve. The cryptologic linguist reserve may consist of former or retired civilian or military cryptologic personnel of the National Security Agency and of other qualified individuals, as determined by the Director of the Agency. Each member of the cryptologic linguist reserve shall agree that, during any period of emergency (as determined by the Director), the member shall return to active civilian status with the National Security Agency and shall perform such linguistic or linguistic-related duties as the Director may assign.
 
 (2) In order to attract individuals to become members of the cryptologic linguist reserve, the Director, without regard to subchapter IV of chapter 55 of title 5, may provide special monetary incentives to individuals eligible to become members of the reserve who agree to become members of the cryptologic linguist reserve and to acquire or retain proficiency in foreign languages or special related abilities.
 

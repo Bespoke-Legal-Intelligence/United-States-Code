@@ -40,7 +40,7 @@
 
 #### (e) Advance notification of transfer of seized assets
 
-The President shall notify the appropriate congressional committees at least 10 days prior to any transfer by the United States Government to a foreign country for narcotics control purposes of any property or funds seized by or otherwise forfeited to the United States Government in connection with narcotics-related activity.
+The President shall notify the appropriate congressional committees at least 10 days priorto any transfer by the United States Government to a foreign country for narcotics control purposes of any property or funds seized by or otherwise forfeited to the United States Government in connection with narcotics-related activity.
 
 #### (f) Treatment of funds
 
@@ -56,7 +56,7 @@ For purposes of this part, the Secretary of State may use the authority of secti
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–164, §131(b), substituted "Contributions and reimbursement" for "Contributionby recipient country" in heading, redesignated existing provisions as par. (1), and added pars. (2) and (3).
+<b>1996</b>—Subsec. (c). Pub. L. 104–164, §131(b), substituted "Contributions and reimbursement" for "Contribution by recipient country" in heading, redesignated existing provisions as par. (1), and added pars. (2) and (3).
 
 Subsecs. (f), (g). Pub. L. 104–164, §131(c), added subsecs. (f) and (g).
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Colombian Anti-Narcotics Enforcement Program
 
-Pub. L. 96–533, title IV, §402(c), Dec. 16, 1980, 94 Stat. 3150, provided: "Notwithstanding the provisions of section 482(a)(2) of the Foreign Assistance Act of 1961 \[subsec. (a)(2) of this section\] as in effect immediately prior to the enactment of this Act \[Dec. 16, 1980\], funds appropriated for the fiscal year 1980 to carry out the purposes of section 481 of that Act \[section 2291 of this title\] which were obligated for assistance for Colombia may be used for fixed-wing aircraft, communications equipment, and such other equipment and operationalsupport, including aviation services, as are essential to the Colombian anti-narcotics enforcement program."
+Pub. L. 96–533, title IV, §402(c), Dec. 16, 1980, 94 Stat. 3150, provided: "Notwithstanding the provisions of section 482(a)(2) of the Foreign Assistance Act of 1961 \[subsec. (a)(2) of this section\] as in effect immediately prior to the enactment of this Act \[Dec. 16, 1980\], funds appropriated for the fiscal year 1980 to carry out the purposes of section 481 of that Act \[section 2291 of this title\] which were obligated for assistance for Colombia may be used for fixed-wing aircraft, communications equipment, and such other equipment and operational support, including aviation services, as are essential to the Colombian anti-narcotics enforcement program."
 
 #### <b>Executive Documents</b>
 

@@ -62,7 +62,7 @@
 
 #### (2) Assistant Secretary of State for Democracy, Human Rights, and Labor
 
-&emsp;(A) There shall be in the Department of State an Assistant Secretary of State for Democracy, Human Rights, and Labor who shall be responsible to the Secretary of State for matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy and such other related duties as the Secretary may from time to time designate. The Secretary of State shall carry out the Secretary's responsibilityunder section 2304 of this title through the Assistant Secretary.
+&emsp;(A) There shall be in the Department of State an Assistant Secretary of State for Democracy, Human Rights, and Labor who shall be responsible to the Secretary of State for matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy and such other related duties as the Secretary may from time to time designate. The Secretary of State shall carry out the Secretary's responsibility under section 2304 of this title through the Assistant Secretary.
 
 &emsp;(B) The Assistant Secretary of State for Democracy, Human Rights, and Labor shall maintain continuous observation and review all matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy including the following:
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(iv) Ensuring the inclusion of human rights and women's participation issues in law enforcement programs, in consultation with the Assistant Secretary for Democracy, Human Rights, and Labor, and other senior officials in regional and thematic bureaus and offices.
 
-&emsp;&emsp;&emsp;(v) Combating, in conjunction with other relevant bureaus of the Department of State and other United States Government agencies, all forms of transnational organized crime, including human trafficking, illicit trafficking in arms, wildlife, and cultural property, migrant smuggling, corruption, money laundering, the illicit smuggling of bulk cash, the licit use of financial systems for malign purposes, and other new and emerging forms of crime.
+&emsp;&emsp;&emsp;(v) Combating, in conjunction with other relevant bureaus of the Department ofState and other United States Government agencies, all forms of transnational organized crime, including human trafficking, illicit trafficking in arms, wildlife, and cultural property, migrant smuggling, corruption, money laundering, the illicit smuggling of bulk cash, the licit use of financial systems for malign purposes, and other new and emerging forms of crime.
 
 &emsp;&emsp;&emsp;(vi) Identifying and responding to global corruption, including strengthening the capacity of foreign government institutions responsible for addressing financial crimes and engaging with multilateral organizations responsible for monitoring and supporting foreign governments' anti-corruption efforts.
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;(iii) develop standard requirements for monitoring and evaluation of Bureau programs, including metrics for success that do not rely solely on the amounts of illegal drugs that are produced or seized;
 
-&emsp;&emsp;&emsp;(iv) in coordination with the Secretary of State, annually certify in writing to the Committee on Foreign Relations of the Senate that United States and the Committee on Foreign Affairs of the House of Representatives enforcement personnel posted abroad whose activities are funded to any extent by the Bureau of International Narcotics and Law EnforcementAffairs are complying with section 3927 of this title; and
+&emsp;&emsp;&emsp;(iv) in coordination with the Secretary of State, annually certify in writing to the Committee on Foreign Relations of the Senate that United States and the Committee on Foreign Affairs of the House of Representatives enforcement personnel posted abroad whose activities are funded to any extent by the Bureau of International Narcotics and Law Enforcement Affairs are complying with section 3927 of this title; and
 
 &emsp;&emsp;&emsp;(v) carry out such other relevant duties as the Secretary may assign.
 
@@ -166,7 +166,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 #### (B) Duties described
 
-&emsp;&emsp;The principal duty of the Coordinator shall be the overall supervision (including policy oversight of resources) of international counterterrorism activities. The Coordinator shall be the principal adviser to the Secretary of State on international counterterrorism matters. The Coordinator shall be the principal counterterrorism official within the senior management of the Department of State and shall report directly to the Secretary of State.
+&emsp;&emsp;The principal duty of the Coordinator shall be the overall supervision (including policy oversight of resources) of international counterterrorism activities. The Coordinator shall be the principal adviser tothe Secretary of State on international counterterrorism matters. The Coordinator shall be the principal counterterrorism official within the senior management of the Department of State and shall report directly to the Secretary of State.
 
 #### (3) Rank and status of Ambassador
 
@@ -284,7 +284,7 @@ There is in the Department of State the Bureau of Population, Refugees, and Migr
 
 &emsp;&emsp;&emsp;(ii) to lead, coordinate, and execute, in coordination with other relevant bureaus and offices, the Department of State's diplomatic cyberspace, and cybersecurity efforts (including efforts related to data privacy, data flows, internet governance, information and communications technology standards, and other issues that the Secretary has assigned to the Bureau);
 
-&emsp;&emsp;&emsp;(iii) to coordinate with relevant Federal agencies and the Office of the National Cyber Director to ensure the diplomatic and foreign policy aspects of the cyber strategy in section 9501 of the Department of State Authorization Act of 2022 \[22 U.S.C. 10301\] and any other subsequent strategy are implemented in a manner that is fully integrated with the broader strategy;
+&emsp;&emsp;&emsp;(iii) to coordinate with relevant Federal agencies and the Office of the NationalCyber Director to ensure the diplomatic and foreign policy aspects of the cyber strategy in section 9501 of the Department of State Authorization Act of 2022 \[22 U.S.C. 10301\] and any other subsequent strategy are implemented in a manner that is fully integrated with the broader strategy;
 
 &emsp;&emsp;&emsp;(iv) to promote an open, interoperable, reliable, and secure information and communications technology infrastructure globally;
 
@@ -300,7 +300,7 @@ There is in the Department of State the Bureau of Population, Refugees, and Migr
 
 &emsp;&emsp;&emsp;(x) to promote an open, interoperable, reliable, and secure information and communications technology infrastructure globally and an open, interoperable, secure, and reliable internet governed by the multi-stakeholder model;
 
-&emsp;&emsp;&emsp;(xi) to promote an international environment for technology investments and theinternet that benefits United States economic and national security interests;
+&emsp;&emsp;&emsp;(xi) to promote an international environment for technology investments and the internet that benefits United States economic and national security interests;
 
 &emsp;&emsp;&emsp;(xii) to promote cross-border flow of data and combat international initiatives seeking to impose unreasonable requirements on United States businesses;
 
@@ -534,7 +534,7 @@ There is in the Department of State the Bureau of Population, Refugees, and Migr
 
 #### (4) Penalties and injunctions
 
-&emsp;Any violations of the restrictions under paragraphs (2) or (3) shall be subject to thepenalties and injunctions provided for under section 216 of title 18.
+&emsp;Any violations of the restrictions under paragraphs (2) or (3) shall be subject to the penalties and injunctions provided for under section 216 of title 18.
 
 #### (5) Notice of restrictions
 
@@ -552,7 +552,69 @@ There is in the Department of State the Bureau of Population, Refugees, and Migr
 
 &emsp;The restrictions under this subsection shall expire on the date that is 5 years after December 23, 2022.
 
-(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933; Pub. L. 112–166, §2(j), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 116–94, div. J, title VII, §703, Dec. 20, 2019, 133 Stat. 3070; Pub. L. 116–260, div. FF, title III, §361(a)(1), (2), Dec. 27, 2020, 134 Stat. 3131, 3132; Pub. L. 117–81, div. E, title LI, §§5102(a), 5103, 5105, Dec. 27, 2021, 135 Stat. 2343, 2345, 2346; Pub. L. 117–263, div. I, title XCI, §9107(a), title XCII, §9215(b), title XCV, §9502(a), title XCVI, §9602(a), Dec. 23, 2022, 136 Stat. 3859, 3876, 3898, 3910.)
+#### (n) Chief Artificial Intelligence Officer
+
+#### (1) In general
+
+&emsp;There shall be within the Department of State a Chief Artificial Intelligence Officer, which may be dual-hatted as the Department's Chief Data Officer, who shall be a member of the Senior Executive Service.
+
+#### (2) Duties described
+
+&emsp;The principal duties and responsibilities of the Chief Artificial Intelligence Officer shall be—
+
+&emsp;&emsp;(A) to evaluate, oversee, and, if appropriate, facilitate the responsible adoption of artificial intelligence (AI) and machine learning applications to help inform decisions by policymakers and to support programs and management operations of the Department of State; and
+
+&emsp;&emsp;(B) to act as the principal advisor to the Secretary of State on the ethical use of AI and advanced analytics in conducting data-informed diplomacy.
+
+#### (3) Qualifications
+
+&emsp;The Chief Artificial Intelligence Officer should be an individual with demonstrated skill and competency in—
+
+&emsp;&emsp;(A) the use and application of data analytics, AI, and machine learning; and
+
+&emsp;&emsp;(B) transformational leadership and organizational change management, particularly within large, complex organizations.
+
+#### (4) Partner with the Chief Information Officer on scaling artificial intelligence use cases
+
+&emsp;To ensure alignment between the Chief Artificial Intelligence Officer and the Chief Information Officer, the Chief Information Officer will consult with the Chief Artificial Intelligence Officer on best practices for rolling out and scaling AI capabilities across the Bureau of Information and <sup>2</sup> Resource Management's broader portfolio of software applications.
+
+#### (5) Artificial intelligence defined
+
+&emsp;In this subsection, the term "artificial intelligence" has the meaning given the term in section 238(g) of the National Defense Authorization Act for Fiscal Year 2019 <sup>3</sup> (Public Law 115–232; 10 U.S.C. 4001 note).
+
+#### (o) Special Envoy to the Pacific Islands Forum
+
+#### (1) Appointment
+
+&emsp;The President shall appoint, by and with the advice and consent of the Senate, a qualified individual to serve as Special Envoy to the Pacific Islands Forum (referred to in this section as the "Special Envoy").
+
+#### (2) Considerations
+
+#### (A) Selection
+
+&emsp;&emsp;The Special Envoy shall be—
+
+&emsp;&emsp;&emsp;(i) a United States Ambassador to a country that is a member of the Pacific Islands Forum; or
+
+&emsp;&emsp;&emsp;(ii) a qualified individual who is not described in clause (i).
+
+#### (B) Limitations
+
+&emsp;&emsp;If the President appoints an Ambassador to a country that is a member of the Pacific Islands Forum to serve concurrently as the Special Envoy to the Pacific Islands Forum, such Ambassador—
+
+&emsp;&emsp;&emsp;(i) may not begin service as the Special Envoy until he or she has been confirmed by the Senate for an ambassadorship to a country that is a member of the Pacific Islands Forum; and
+
+&emsp;&emsp;&emsp;(ii) shall not receive additional compensation for his or her service as Special Envoy.
+
+#### (3) Duties
+
+&emsp;The Special Envoy shall—
+
+&emsp;&emsp;(A) represent the United States in its role as dialogue partner to the Pacific Islands Forum; and
+
+&emsp;&emsp;(B) carry out such other duties as the President or the Secretary of State may prescribe.
+
+(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933; Pub. L. 112–166, §2(j), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 116–94, div. J, title VII, §703, Dec. 20, 2019, 133 Stat. 3070; Pub. L. 116–260, div. FF, title III, §361(a)(1), (2), Dec. 27, 2020, 134 Stat. 3131, 3132; Pub. L. 117–81, div. E, title LI, §§5102(a), 5103, 5105, Dec. 27, 2021, 135 Stat. 2343, 2345, 2346; Pub. L. 117–263, div. I, title XCI, §9107(a), title XCII, §9215(b), title XCV, §9502(a), title XCVI, §9602(a), Dec. 23, 2022, 136 Stat. 3859, 3876, 3898, 3910; Pub. L. 118–31, div. F, title LXIII, §6303, title LXIV, §6405(b), Dec. 22, 2023, 137 Stat. 986, 998.)
 
 #### <b>Editorial Notes</b>
 
@@ -566,6 +628,8 @@ The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 
 
 Title V of the Department of State Authorization Act of 2022, referred to in subsec. (i)(2)(B)(v), (xiv), probably means title XCV of div. I of Pub. L. 117–263. Div. I of Pub. L. 117–263 is the Department of State Authorization Act of 2022. Title XCV of div. I, relating to Information Security and Cyber Diplomacy, is classified principally to chapter 110 (§10301 et seq.) of this title. For complete classification of title XCV to the Code, see Tables.
 
+Section 238(g) of the National Defense Authorization Act for Fiscal Year 2019, referred to in subsec. (n)(5), probably means section 238(g) of Pub. L. 115–232, known as the John S. McCain National Defense Authorization Act for Fiscal Year 2019, which is set out as a note preceding section 4061 of Title 10, Armed Forces.
+
 #### Codification
 
 Section was formerly classified to section 2662 of this title.
@@ -573,6 +637,10 @@ Section was formerly classified to section 2662 of this title.
 Section was also formerly classified to section 170f of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (n). Pub. L. 118–31, §6303, added subsec. (n).
+
+Subsec. (o). Pub. L. 118–31, §6405(b), added subsec. (o).
 
 <b>2022</b>—Subsec. (b)(3)(F). Pub. L. 117–263, §9602(a), added subpar. (F).
 
@@ -614,7 +682,7 @@ Subsec. (f)(2)(B)(ii)(IV), (V). Pub. L. 110–293, §102(2)(A), (B), added subcl
 
 "(V) Pursuing coordination with other countries and international organizations."
 
-Subsec. (f)(2)(B)(ii)(VII), (VIII). Pub. L. 110–293, §102(2)(D), added subcls. (VII) and (VIII). Former subcls.\(VII) and (VIII) redesignated (IX) and (XII), respectively.
+Subsec. (f)(2)(B)(ii)(VII), (VIII). Pub. L. 110–293, §102(2)(D), added subcls. (VII) and (VIII). Former subcls. (VII) and (VIII) redesignated (IX) and (XII), respectively.
 
 Subsec. (f)(2)(B)(ii)(IX). Pub. L. 110–293, §102(2)(E), inserted "Vietnam," after "Uganda," and ", and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program" after "May 27, 2003" and inserted at end "In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country."
 
@@ -694,6 +762,154 @@ Pub. L. 103–236, title I, §161(b), Apr. 30, 1994, 108 Stat. 404, as amended b
 
 Amendment by Pub. L. 97–241, effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an Effective Date note under section 4301 of this title.
 
+#### Authorization
+
+Pub. L. 118–31, div. F, title LXI, §6107(b), Dec. 22, 2023, 137 Stat. 967, provided that: "The Secretary \[of State\] is authorized to hire additional, permanent, dedicated staff for the Office of Authentications."
+
+#### Special Hiring Authority
+
+Pub. L. 118–31, div. F, title LXII, §6202(c), Dec. 22, 2023, 137 Stat. 972, provided that: "For an initial period of not more than 3 years after the date of the enactment of this division \[Dec. 22, 2023\], the Secretary \[of State\] may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, United States Code,up to 80 candidates directly to positions in the competitive service at the Department \[of State\], as defined in section 2102 of that title, in the following occupational series: 25 candidates under 1560 Data Science, 25 candidates under 2210 Information Technology Management, and 30 candidates under 0201 Human Resources Management."
+
+#### Extending Paths to Service for Paid Student Interns
+
+Pub. L. 118–31, div. F, title LXII, §6203(a), Dec. 22, 2023, 137 Stat. 972, provided that: "
+
+In General.—For up to 2 years following the end of a compensated internship at the Department \[of State\], the Department may offer employment to up to 25 such interns and appoint them directly to positions in the competitive service, as defined in section 2102 of title 5, United States Code, without regard to the provisions of sections 3309 through 3318 of such title."
+
+#### Establishment and Expansion of the Bureau Chief Data Officer Program
+
+Pub. L. 118–31, div. F, title LXIII, §6302, Dec. 22, 2023, 137 Stat. 985, provided that:
+
+"(a)
+
+Bureau Chief Data Officer Program.—
+
+&emsp;"(1)
+
+Establishment.—The Secretary \[of State\] shall establish a program, which shall be known as the 'Bureau Chief Data Officer Program' (referred to in this section as the 'Program'), overseen by the Department \[of State\]'s Chief Data Officer. The Bureau Chief Data Officers hired under this program shall report to their respective Bureau leadership.
+
+&emsp;"(2)
+
+Goals.—The goals of the Program shall include the following:
+
+&emsp;&emsp;"(A) Cultivating a data culture by promoting data fluency and data collaboration across the Department.
+
+&emsp;&emsp;"(B) Promoting increased data analytics use in critical decisionmaking areas.
+
+&emsp;&emsp;"(C) Promoting data integration and standardization.
+
+&emsp;&emsp;"(D) Increasing efficiencies across the Department by incentivizing acquisition of enterprise data solutions and subscription data services to be shared across bureaus and offices and within bureaus.
+
+"(b)
+
+Implementation Plan.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this division \[Dec. 22, 2023\], the Secretary shall submit to the appropriate committees of Congress an implementation plan that outlines strategies for—
+
+&emsp;&emsp;"(A) advancing the goals described in subsection (a)(2);
+
+&emsp;&emsp;"(B) hiring Bureau Chief Data Officers at the GS–14 or GS–15 grade or a similar rank;
+
+&emsp;&emsp;"(C) assigning at least one Bureau Chief Data Officer to each bureau of the Department; and
+
+&emsp;&emsp;"(D) allocation of necessary resources to sustain the Program.
+
+&emsp;"(2)
+
+Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\];
+
+&emsp;&emsp;"(B) the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;"(C) the Committee on Oversight and Accountability and the Committee on Appropriations of the House of Representatives.
+
+"(c)
+
+Assignment.—In implementing the Bureau Chief Data Officer Program, bureaus may not dual-hat currently employed personnel as Bureau Chief Data Officers.
+
+"(d)
+
+Annual Reporting Requirement.—Not later than 180 days after the date of the enactment of this division, and annually thereafter for the following 3 years, the Secretary shall submit a report to the appropriate congressional committees regarding the status of the implementation plan required under subsection (b)."
+
+#### Implementation of GAO High Risk List Recommendations
+
+Pub. L. 118–31, div. F, title LXIII, §6309, Dec. 22, 2023, 137 Stat. 994, provided that:
+
+"(a)
+
+In General.—The Secretary \[of State\] shall implement the Government Accountability Office's High Risk List recommendations as applicable to the Department \[of State\] for the following activities:
+
+&emsp;"(1) Improving the management of IT acquisitions and operations.
+
+&emsp;"(2) Improving strategic human capital management.
+
+&emsp;"(3) Managing Federal real property.
+
+&emsp;"(4) Ensuring the cybersecurity of the nation.
+
+&emsp;"(5) Managing government-wide personnel security clearance process.
+
+"(b)
+
+Report.—Not later than 90 days after the date of the enactment of this division \[Dec. 22, 2023\], the Secretary shall submit to the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\] a report on the Department's progress in implementing all of the Government Accountability Office's High Risk List recommendations as applicable to the Department described in subsection (a).
+
+"(c)
+
+High Risk List Defined.—In this section, the term 'High Risk List' refers to GAO–23–106203, the April 20, 2023, report by the Government Accountability Office titled, 'High-Risk Series: Efforts Made to Achieve Progress Need to Be Maintained and Expanded to Fully Address All Areas'."
+
+#### Special Envoy to the Pacific Islands Forum
+
+Pub. L. 118–31, div. F, title LXIV, §6405(a), Dec. 22, 2023, 137 Stat. 998, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) the United States must increase its diplomatic activity and presence in the Pacific, particularly among Pacific Island nations; and
+
+&emsp;"(2) the Special Envoy to the Pacific Islands Forum—
+
+&emsp;&emsp;"(A) should advance the United States partnership with Pacific Island Forum nations and with the organization itself on key issues of importance to the Pacific region; and
+
+&emsp;&emsp;"(B) should coordinate policies across the Pacific region with like-minded democracies."
+
+#### Establishment of Fiscal Responsibility Award
+
+Pub. L. 118–31, div. F, title LXIV, §6410, Dec. 22, 2023, 137 Stat. 1006, provided that: "The Under Secretary of State for Management shall establish, in consultation with the Director of the Budget and Planning Bureau and the Director of Global Talent, an annual departmental award for any exemplary employee who recommends, identifies, or adopts significant cost-saving measures for program implementation or through the reallocation of resources."
+
+#### Notification of Revocation of Clearances
+
+Pub. L. 118–31, div. F, title LXVII, §6710, Dec. 22, 2023, 137 Stat. 1020, provided that:
+
+"(a)
+
+In General.—With respect to any covered official whose security clearance is suspended or revoked, the Secretary \[of State\] shall—
+
+&emsp;"(1) submit to the Chair and Ranking Member of the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\], the Majority Leader of the Senate, the Minority Leader of the Senate, the Speaker of the House ofRepresentatives, and the Minority Leader of the House of Representatives a notification not later than 15 days after the suspension or revocation of such clearance; and
+
+&emsp;"(2) brief the Chair and Ranking Member of the appropriate congressional committees, the Majority Leader of the Senate, the Minority Leader of the Senate, the Speaker of the House of Representatives, and the Minority Leader of the House of Representatives not later than 30 days after such suspension or revocation on the present employment status of such individual and whether the job duties of such individual have changed since such suspension or revocation.
+
+"(b)
+
+Form.—The notification and briefing required by subsection (a) may be provided in classified form, if necessary.
+
+"(c)
+
+Covered Official Defined.—For purposes of this section, the term 'covered official' means any of the following:
+
+&emsp;"(1) Any individual holding a position at or higher than the level of Assistant Secretary or its equivalent in the Department of State.
+
+&emsp;"(2) Any individual holding the position of chief of mission or principal officer at any diplomatic or consular post.
+
+&emsp;"(3) Any individual holding the rank and status of an ambassador or otherwise holding a position that reports directly to the Secretary, such as a special envoy.
+
+"(d)
+
+Sunset.—This section shall terminate not later than three years after the date of the enactment of this division \[Dec. 22, 2023\]."
+
 #### Provision of Parking Services and Retention of Parking Fees
 
 Pub. L. 117–263, div. I, title XCVII, §9712, Dec. 23, 2022, 136 Stat. 3920, provided that: "The Secretary of State may—
@@ -752,11 +968,11 @@ Appropriate Congressional Committees Defined.—In this section, the term 'appro
 
 &emsp;"(1) the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Homeland Security and Governmental Affairs, and the Committee on Finance of the Senate; and
 
-&emsp;"(2) the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Oversight and Reform, and the Committee on Way \[sic\] and Means of the House of Representatives."
+&emsp;"(2) the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\], and the Committee on Way \[sic\] and Means of the House of Representatives."
 
 #### Additional Paid Leave To Address Employee Hardships Resulting From Coronavirus
 
-Pub. L. 116–136, div. B, title XI, §21007, Mar. 27, 2020, 134 Stat. 592, provided that: "Notwithstanding any other provision of law, and in addition to leave authorized under any other provision of law, the Secretary of State and the Administrator of the United States Agency for International Development may, in order to prevent, prepare for, and respond to coronavirus, provide additional paid leave to address employee hardships resulting from coronavirus: <i>Provided</i>, That this authority shall apply to leave taken since January 29, 2020, and may be provided abroad and domestically: <i>Provided further</i>, That the Secretary and the Administrator shall consult with the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives prior to implementation of such authority: <i>Provided further</i>, That the authority made available pursuant to this section shall expire on September 30, 2022."
+Pub. L. 116–136, div. B, title XI, §21007, Mar. 27, 2020, 134 Stat. 592, provided that: "Notwithstanding any other provision of law, and in addition to leave authorized under any other provision of law, the Secretary of State and the Administrator of the United States Agency for International Development may, in order to prevent, prepare for, and respond to coronavirus, provide additional paid leave to address employee hardships resulting from coronavirus: <i>Provided</i>, That this authority shall apply to leave taken since January 29,2020, and may be provided abroad and domestically: <i>Provided further</i>, That the Secretary and the Administrator shall consult with the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives prior to implementation of such authority: <i>Provided further</i>, That the authority made available pursuant to this section shall expire on September 30, 2022."
 
 \[For definition of "coronavirus" as used in section 21007 of Pub. L. 116–136, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of Title 2, The Congress.\]
 
@@ -922,7 +1138,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §303\], Nov. 29, 1
 
 "(a)
 
-Designation.—The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the 'Adviser'). The Adviser shall have substantial experience in the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
+Designation.—The Secretary of State shall designate a senior-level official of the Department of Stateas the Science and Technology Adviser to the Secretary of State (in this section referred to as the 'Adviser'). The Adviser shall have substantial experience in the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
 
 "(b)
 
@@ -971,4 +1187,8 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be "under".</i>
+
+<i><sup>2</sup></i><i> So in original. The word "and" probably should not appear.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

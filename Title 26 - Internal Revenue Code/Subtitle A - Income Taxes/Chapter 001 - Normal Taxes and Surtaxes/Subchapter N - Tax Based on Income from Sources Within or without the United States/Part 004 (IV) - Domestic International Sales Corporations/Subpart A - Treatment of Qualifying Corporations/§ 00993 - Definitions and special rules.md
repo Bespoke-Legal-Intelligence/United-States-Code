@@ -72,7 +72,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;(C) not more than 50 percent of the fair market value of which is attributable to articles imported into the United States.
 
-> &emsp;In applying subparagraph (C), the fair market value of any article imported into the United States shall be its appraised value, as determined by the Secretary under section 402 of the Tariff Act of 1930 (19 U.S.C. 1401a) in connection with its importation.
+> &emsp;In applying subparagraph (C), the fair market value of any article imported into the UnitedStates shall be its appraised value, as determined by the Secretary under section 402 of the Tariff Act of 1930 (19 U.S.C. 1401a) in connection with its importation.
 
 #### (2) Excluded property
 
@@ -148,7 +148,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;&emsp;(iii) the studio, if any, used or to be used for the taking of photographs and the recording of sound incorporated into such film is located in the United States;
 
-&emsp;&emsp;&emsp;(iv) the aggregate playing time of portions of such film photographed outsidethe United States does not or will not exceed 20 percent of the playing time of such film; and
+&emsp;&emsp;&emsp;(iv) the aggregate playing time of portions of such film photographed outside the United States does not or will not exceed 20 percent of the playing time of such film; and
 
 &emsp;&emsp;&emsp;(v) not less than 80 percent of the total amount paid or to be paid for services performed in the making of such film is paid or to be paid to persons who are United States persons at the time such services are performed or consists of amounts which are fully taxable by the United States.
 
@@ -192,7 +192,7 @@ In determining whether a corporation (hereinafter in this subsection referred to
 
 #### (f) Gross receipts
 
-For purposes of this part, the term "gross receipts" means the total receipts from the sale, lease, or rental of property held primarily for sale, lease, or rental in the ordinary course of trade or business, and gross income from all other sources. In the case of commissions on the sale, lease, or rental of property, the amount taken into account for purposes of this part as gross receipts shall be the gross receipts on the sale, lease, or rental of the property on which such commissions arose.
+For purposes of this part, the term "gross receipts" means the total receipts from the sale, lease, or rental of property held primarily forsale, lease, or rental in the ordinary course of trade or business, and gross income from all other sources. In the case of commissions on the sale, lease, or rental of property, the amount taken into account for purposes of this part as gross receipts shall be the gross receipts on the sale, lease, or rental of the property on which such commissions arose.
 
 #### (g) United States defined
 
@@ -270,7 +270,7 @@ Binding contract.—The amendments made by subsection (a) \[amending this sectio
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–482, §3(b), Oct. 26, 1974, 88 Stat. 1456, provided that: "The amendment made by subsection (a) \[amending this section\] applies to taxable years beginning after December 31, 1973. The amendment shall, at the election of the taxpayer made within 90 days after the date of enactment of this Act \[Oct. 26, 1974\], also apply to any taxable year beginning after December 31, 1971, and before January 1, 1974."
+Pub. L. 93–482, §3(b), Oct. 26, 1974, 88 Stat. 1456, provided that: "The amendment made by subsection (a)\[amending this section\] applies to taxable years beginning after December 31, 1973. The amendment shall, at the election of the taxpayer made within 90 days after the date of enactment of this Act \[Oct. 26, 1974\], also apply to any taxable year beginning after December 31, 1971, and before January 1, 1974."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

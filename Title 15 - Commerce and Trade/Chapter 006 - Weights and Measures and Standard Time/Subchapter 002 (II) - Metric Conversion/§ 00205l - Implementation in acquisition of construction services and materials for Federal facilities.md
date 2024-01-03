@@ -52,7 +52,7 @@ The provisions of subsections (b) and (c) of this section shall not apply to Fed
 
 &emsp;(A) whether the agency is adequately applying the policies and procedures in this section;
 
-&emsp;(B) whether the availability of hard-metric products and services from United States firms is sufficient to ensure full and open competition; and
+&emsp;(B) whether the availability of hard-metric products and services from United Statesfirms is sufficient to ensure full and open competition; and
 
 &emsp;(C) the total installed price to the Federal Government.
 
@@ -70,7 +70,7 @@ The effective date of the Savings in Construction Act of 1996, referred to in su
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a). Pub. L. 117–81 substituted "set forth in the provisions of title 10, referred to in section 3016 of such title as 'chapter 137 legacy provisions', section 3453 of such title, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41," for "set forth in chapter 137 of title 10, section 2377 of title 10, title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.),"; "under section 3453(c) of title 10 and section 3307(d) of title 41." for "under section 2377(c) of title 10 and section 314B(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 264b(c))."; and "section 3453 of title 10 or section 3307(b) to (d) of title41, then the provisions of such sections 3453 or 3307(b) to (d) shall take" for "section 2377 of title 10 or section 314B of the Federal Property and Administrative Services Act of 1949, then the provisions of 2377 or 314B shall take".
+<b>2021</b>—Subsec. (a). Pub. L. 117–81 substituted "set forth in the provisions of title 10, referred to in section 3016 of such title as 'chapter 137 legacy provisions', section 3453 of such title, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41," for "set forth in chapter 137 of title 10, section 2377 of title 10, title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.),"; "under section 3453(c) of title 10 and section 3307(d) of title 41." for "under section 2377(c) of title 10 and section 314B(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 264b(c))."; and "section 3453 of title 10 or section 3307(b) to (d) of title 41, then the provisions of such sections 3453 or 3307(b) to (d) shall take" for "section 2377 of title 10 or section 314B of the Federal Property and Administrative Services Act of 1949, then the provisions of 2377 or 314B shall take".
 
 <b>2004</b>—Subsec. (e). Pub. L. 108–423 struck out heading and text of subsec. (e). Text read as follows: "The provisions contained in subsections (b) and (c) of this section shall expire 10 years from the effective date of the Savings in Construction Act of 1996."
 

@@ -14,7 +14,7 @@ In the case of any individual who has died, who does not meet the requirements o
 
 &emsp;(3) 5 quarters of coverage if such surviving spouse attains the age of 72 in 1968.
 
-> The amount of the surviving spouse's insurance benefit for each month shall, notwithstanding the provisions of section 402(e) or section 402(f)of this title (and section 402(m) <sup>1</sup> of this title), be the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title.
+> The amount of the surviving spouse's insurance benefit for each month shall, notwithstanding the provisions of section 402(e) or section 402(f) of this title (and section 402(m) <sup>1</sup> of this title), be the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title.
 
 #### (c) Deceased individual entitled to benefits by reason of subsection (a) deemed to meet requirements of subsection (b)
 

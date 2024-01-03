@@ -66,7 +66,7 @@ Amendment by Pub. L. 93–625 applicable with respect to estates of decedents dy
 
 #### Effective Date of 1973 Amendment
 
-Pub. L. 93–17, §3(a)(2), Apr. 10, 1973, 87 Stat. 12, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1972, except that in the case of the assumption of a debt obligation of a foreign corporation which is treated as issued under section 4912(c)(2) after December 31, 1972, and before January 1, 1974, the amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1973."
+Pub. L. 93–17, §3(a)(2), Apr. 10, 1973, 87 Stat. 12, provided that: "The amendment made by paragraph (1)\[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1972, except that in the case of the assumption of a debt obligation of a foreign corporation which is treated as issued under section 4912(c)(2) after December 31, 1972, and before January 1, 1974, the amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1973."
 
 #### Effective Date of 1966 Amendment
 

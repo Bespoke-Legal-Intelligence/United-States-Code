@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) describing the extent to which the requirements of applicable United Nations Security Council resolutions to de-register any vessel owned, controlled, or operated by or on behalf of the Government of North Korea have been implemented by other foreign countries;
 
-&emsp;&emsp;(C) describing the compliance of the Islamic Republic of Iran with the sanctions mandated in applicable United Nations Security Council resolutions;
+&emsp;&emsp;(C) describing the compliance of the Islamic Republic of Iran with the sanctionsmandated in applicable United Nations Security Council resolutions;
 
 &emsp;&emsp;(D) identifying vessels, aircraft, and conveyances owned or controlled by the Reconnaissance General Bureau of the Workers' Party of Korea; and
 

@@ -12,7 +12,7 @@ To be eligible to participate in the Program, an individual shall—
 
 &emsp;(ii) be employed by, or have accepted employment with, a State, local, or Tribal public health agency, or a related training fellowship at such State, local, or Tribal public health agency, as recognized by the Secretary, to commence upon graduation; or
 
-&emsp;(B)(i) have graduated, during the preceding 10-year period, from an accredited institution of higher education or school of public health and received a certificate or degree, including a master's or doctoral degree, in public health, epidemiology, laboratory sciences, data systems, data science, data analytics,informatics, statistics, or another subject matter related to public health; and
+&emsp;(B)(i) have graduated, during the preceding 10-year period, from an accredited institution of higher education or school of public health and received a certificate or degree, including a master's or doctoral degree, in public health, epidemiology, laboratory sciences, data systems, data science, data analytics, informatics, statistics, or another subject matter related to public health; and
 
 &emsp;(ii) be employed by, or have accepted employment with, a State, local, or Tribal public health agency or a related training fellowship at such State, local, or Tribal public health agency, as recognized by the Secretary;
 

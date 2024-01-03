@@ -16,7 +16,7 @@ The terms and conditions of electronic fund transfers involving a consumer's acc
 
 &emsp;(6) the consumer's right to receive documentation of electronic fund transfers under section 1693d of this title;
 
-&emsp;(7) a summary, in a form prescribed by regulations of the Bureau, of the error resolution provisions of section 1693f of this title and the consumer's rights thereunder. The financial institution shall thereafter transmit such summary at least once per calendar year;
+&emsp;(7) a summary, in a form prescribed by regulations of the Bureau, of the error resolutionprovisions of section 1693f of this title and the consumer's rights thereunder. The financial institution shall thereafter transmit such summary at least once per calendar year;
 
 &emsp;(8) the financial institution's liability to the consumer under section 1693h of this title;
 

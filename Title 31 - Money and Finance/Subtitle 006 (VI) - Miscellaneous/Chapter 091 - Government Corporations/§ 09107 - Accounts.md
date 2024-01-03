@@ -8,7 +8,7 @@
 
 (2) Subsection (b) of this section does not apply to a mixed-ownership Government corporation when the corporation has no capital of the Government.
 
-(3) Subsection (b) of this section does not apply to the Federal Intermediate Credit Banks, the Central Bank for Cooperatives, the Regional Banks for Cooperatives, or the Federal Land Banks. However, the head of each of those banks shall report each year to the Secretary the names of depositaries where accounts are kept. If the Secretary considers it advisable when an annual report is received, the Secretary may make a written report to the corporation, the President, and Congress.
+(3) Subsection (b) of this section does not apply to the Federal Intermediate Credit Banks, the Central Bank for Cooperatives, the Regional Banks for Cooperatives, or the Federal Land Banks. However, the head of each of those banks shall report each year to the Secretary the names of depositaries where accounts are kept. If the Secretary considers it advisable when anannual report is received, the Secretary may make a written report to the corporation, the President, and Congress.
 
 (Pub. L. 97–258, §§1, 2(l)(2), Sept. 13, 1982, 96 Stat. 1044, 1062; Pub. L. 97–452, §1(27), Jan. 12, 1983, 96 Stat. 2478.)
 

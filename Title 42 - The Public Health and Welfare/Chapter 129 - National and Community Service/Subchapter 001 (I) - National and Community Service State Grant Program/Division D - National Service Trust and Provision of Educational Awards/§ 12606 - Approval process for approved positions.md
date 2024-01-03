@@ -8,11 +8,11 @@
 
 &emsp;&emsp;(A) shall approve the position at the time the Corporation—
 
-&emsp;&emsp;&emsp;(i) enters into an enforceable agreement with an individual participant to serve ina program carried out under division E of this subchapter, section 12653b or 12653c(a) of this title, or under title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), a summer of service program described in section 12563(c)(8) of this title, or a silver scholarship program described in section 12653c(a) of this title; or
+&emsp;&emsp;&emsp;(i) enters into an enforceable agreement with an individual participant to serve in a program carried out under division E of this subchapter, section 12653b or 12653c(a) of this title, or under title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), a summer of service program described in section 12563(c)(8) of this title, or a silver scholarship program described in section 12653c(a) of this title; or
 
 &emsp;&emsp;&emsp;(ii) except as provided in clause (i), awards a grant to (or enters into a contract or cooperative agreement with) an entity to carry out a program for which such a position is approved under section 12573 of this title; and
 
-&emsp;&emsp;(B) shall record as an obligation an estimate of the net present value of the national service educational award, summer of service educational award, or silver scholar educational award associated with the position, based on a formula that takes into consideration historical rates of enrollment in such a program, and of earning and using national service educational awards, summer of service educational awards, or silver scholar educational awards, as appropriate, for such a program and remain available.
+&emsp;&emsp;(B) shall record as an obligation an estimate of the net present value of the nationalservice educational award, summer of service educational award, or silver scholar educational award associated with the position, based on a formula that takes into consideration historical rates of enrollment in such a program, and of earning and using national service educational awards, summer of service educational awards, or silver scholar educational awards, as appropriate, for such a program and remain available.
 
 #### (2) Formula
 

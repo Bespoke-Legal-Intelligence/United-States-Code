@@ -122,7 +122,7 @@ Every insurance company for which an election is in effect under subsection (b) 
 
 &emsp;&emsp;<b>(2) For exemption from tax for certain insurance companies other than life, see section 501(c)(15).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 264; Pub. L. 87–834, §8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, 76 Stat. 997–999; Pub. L. 89–809, title I, §104(i)(6), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834; Pub. L. 99–514, title X, §1024(a)(4), Oct. 22, 1986, 100 Stat. 2405; Pub. L. 100–647, title I, §1010(f)(1), (9), Nov. 10, 1988, 102 Stat. 3454, 3455; Pub. L. 108–218, title II, §206(c), (d), Apr. 10, 2004, 118 Stat. 611; Pub. L. 114–113, div. Q, title III, §333(a), (b), Dec. 18, 2015, 129 Stat. 3106, 3108; Pub.L. 115–97, title I, §§11002(d)(1)(AA), 13001(b)(2)(H), 13511(b)(2)(B), Dec. 22, 2017, 131 Stat. 2060, 2096, 2142; Pub. L. 115–141, div. U, title I, §101(r), title IV, §401(a)(142), Mar. 23, 2018, 132 Stat. 1168, 1191.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 264; Pub. L. 87–834, §8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, 76 Stat. 997–999; Pub. L. 89–809, title I, §104(i)(6), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834; Pub. L. 99–514, title X, §1024(a)(4), Oct. 22, 1986, 100 Stat. 2405; Pub. L. 100–647, title I, §1010(f)(1), (9), Nov. 10, 1988, 102 Stat. 3454, 3455; Pub. L. 108–218, title II, §206(c), (d), Apr. 10, 2004, 118 Stat. 611; Pub. L. 114–113, div. Q, title III, §333(a), (b), Dec. 18, 2015, 129 Stat. 3106, 3108; Pub. L. 115–97, title I, §§11002(d)(1)(AA), 13001(b)(2)(H), 13511(b)(2)(B), Dec. 22, 2017, 131 Stat. 2060, 2096, 2142; Pub. L. 115–141, div. U, title I, §101(r), title IV, §401(a)(142), Mar. 23, 2018, 132 Stat. 1168, 1191.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -204,7 +204,7 @@ Pub. L. 114–113, div. Q, title III, §333(c), Dec. 18, 2015, 129 Stat. 3108, p
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–218 applicable to taxable years beginning after Dec. 31, 2003, with exception forcompanies in receivership or liquidation, see section 206(e) of Pub. L. 108–218, set out as a note under section 501 of this title.
+Amendment by Pub. L. 108–218 applicable to taxable years beginning after Dec. 31, 2003, with exception for companies in receivership or liquidation, see section 206(e) of Pub. L. 108–218, set out as a note under section 501 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -34,7 +34,7 @@ Designation of Posts.—In order to carry out the purposes of section 702 of the
 
 "(b)
 
-'Hard Language Country' Post To Be Designated.—At least one of the posts designated under subsection (a) shall be in a 'hard language' country, as identified in the report to the Under Secretary of Statefor Management of May 12, 1986, entitled 'Hard Language Proficiency in the Foreign Service'. Such post shall be in one of the countries where the official or principal language is Arabic, Chinese, Japanese, or Russian.
+'Hard Language Country' Post To Be Designated.—At least one of the posts designated under subsection (a) shall be in a 'hard language' country, as identified in the report to the Under Secretary of State for Management of May 12, 1986, entitled 'Hard Language Proficiency in the Foreign Service'. Such post shall be in one of the countries where the official or principal language is Arabic, Chinese, Japanese, or Russian.
 
 "(c)
 

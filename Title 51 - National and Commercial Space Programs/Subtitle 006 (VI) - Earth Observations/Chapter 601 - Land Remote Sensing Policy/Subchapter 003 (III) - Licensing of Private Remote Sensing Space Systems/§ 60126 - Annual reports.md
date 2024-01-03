@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives not later than 180 days after the date of enactment of the U.S. Commercial Space Launch Competitiveness Act, and annually thereafter, on—
+In General.—The Secretary shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of theHouse of Representatives not later than 180 days after the date of enactment of the U.S. Commercial Space Launch Competitiveness Act, and annually thereafter, on—
 
 &emsp;(1) the Secretary's implementation of section 60121, including—
 

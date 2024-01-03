@@ -114,7 +114,7 @@ Notwithstanding any other provisions of this chapter, the Secretary may, in his 
 
 This chapter, referred to in text, was in the original "this Act", meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
-Public Law 849, Seventy-sixth Congress, as amended, referred to in subsec. (a)(1), is act Oct. 14, 1940, ch. 862, 54 Stat. 1125, as amended, known as the "Lanham Public War Housing Act", which is classified generally to subchapters II to VII (§§ 1521 et seq., 1531 et seq., 1541 et seq., 1561 et seq., 1571 et seq., and 1581 et seq.) ofchapter 9 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 42 and Tables.
+Public Law 849, Seventy-sixth Congress, as amended, referred to in subsec. (a)(1), is act Oct. 14, 1940, ch. 862, 54 Stat. 1125, known as the "Lanham Public War Housing Act", which is classified generally to subchapters II to VII (§§ 1521 et seq., 1531 et seq., 1541 et seq., 1561 et seq., 1571 et seq., and 1581 et seq.) of chapter 9 of Title42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 42 and Tables.
 
 Public Laws 9, 73, and 353, Seventy-seventh Congress, referred to in subsec. (a)(1), refer to the following acts, respectively: Public Law 9, Urgent Deficiency Appropriation Act, 1941, act Mar. 1, 1941, ch. 9, 55 Stat. 14; Public Law 73, Additional Urgent Deficiency Appropriation Act, 1941, act May 24, 1941, ch. 132, 55 Stat. 197; and Public Law 353, Third Supplemental National Defense Appropriation Act, 1942, act Dec. 17, 1941, ch. 591, 55 Stat. 810. These three acts appropriated a total of $320,000,000 to the President for the purpose of providing housing necessary because of national defense activities and conditions arising out of World War II. These provisions were not classified to the code, although all three acts are cited in a "Prior Additional Appropriations" note under section 1523 of Title 42.
 
@@ -124,7 +124,7 @@ The Emergency Relief Appropriation Act of 1935, referred to in subsec. (a)(3), i
 
 Subsections 3(b)(1) and 3(b)(2) of the Coulee Dam Community Act of 1957 \[Pub. L. 85–240, Aug. 30, 1957, 71 Stat. 524\], referred to in subsec. (a)(3), are set out in a note under section 835c of Title 16, Conservation.
 
-The Boulder Canyon Project Act of December 21, 1928, as amended and supplemented, referred to in subsec. (a)(3), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of Title 43, Public Lands. For complete classification of this Act to the Code, see section 617t of Title 43 and Tables.
+The Boulder Canyon Project Act of December 21, 1928, as amended and supplemented, referred to in subsec. (a)(3), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of Title 43, Public Lands. For complete classification of this Act to the Code, see section 617t of Title 43 and Tables.
 
 Subsections 3(b)(1) and 3(b)(2) of the Boulder City Act of 1958 \[Pub. L. 85–900, Sept. 2, 1958, 72 Stat. 1726\], referred to in subsec. (a)(3), are not classified to the Code. Subsections (a) to (d) of section 3 read as follows:
 
@@ -160,7 +160,7 @@ Section 1437o of title 42, referred to in subsec. (f)(5), was repealed by Pub. L
 
 <b>2002</b>—Subsec. (a)(7). Pub. L. 107–116, §615(1), substituted "under this chapter, or an existing mortgage held by the Secretary that is subject to a mortgage restructuring and rental assistance sufficiency plan pursuant to the Multifamily Assisted Housing Reform and Affordability Act of 1997 (42 U.S.C. 1437f note), provided that—" for "under this chapter: <i>Provided</i>, That".
 
-Subsec. (a)(7)(A). Pub. L. 107–116, §615(1)–(5), designated as subpar. (A) existing provisions beginning "the principal amount of any such refinancing mortgage shall not exceed" and ending "a new insurancecontract", redesignated former cls. (A) to (D) as (i) to (iv), respectively, of subpar. (A), and inserted "; and" at end after "a new insurance contract".
+Subsec. (a)(7)(A). Pub. L. 107–116, §615(1)–(5), designated as subpar. (A) existing provisions beginning "the principal amount of any such refinancing mortgage shall not exceed" and ending "a new insurance contract", redesignated former cls. (A) to (D) as (i) to\(iv), respectively, of subpar. (A), and inserted "; and" at end after "a new insurance contract".
 
 Subsec. (a)(7)(B). Pub. L. 107–116, §615(6), (7), substituted "(B) a mortgage" for ": <i>Provided further</i>, That a mortgage" and struck out "or" after "and the mortgagee;". Former cl. (B) redesignated cl. (ii) of subpar. (A).
 
@@ -220,7 +220,7 @@ Subsec. (e). Pub. L. 91–152, §418(d), substituted "this chapter" for "this su
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–448, §312(a)(1), substituted "chapter" for "subchapter", "any section or subchapter of this chapter" for "section 1709, 1713, 1715e, 1715k, 1715l, 1715m, 1715v, 1715w, or 1715x of this title" and "under any section or subchapter of this chapter" for "under either of said sections".
 
-Subsec. (a)(7). Pub. L. 90–448, §312(a)(2), substituted "prescribed under the applicable section or subchapter of this chapter" for "applicable to loans insured undersection 1709, 1713, 1715e, 1715k, 1715l, 1715m, 1715v, 1715w, or 1715x of this title" in two places.
+Subsec. (a)(7). Pub. L. 90–448, §312(a)(2), substituted "prescribed under the applicable section or subchapter of this chapter" for "applicable to loans insured under section 1709, 1713, 1715e, 1715k, 1715l, 1715m, 1715v, 1715w, or 1715x of this title" in two places.
 
 Subsec. (c). Pub. L. 90–448, §312(a)(3)–(5), substituted "this chapter" for "this subchapter" in two places, and "any section or subchapter of this chapter" for "subchapters I, II, VI, VII, VIII or X of this chapter", and struck out phrase which required payment of insurance to be in debentures.
 

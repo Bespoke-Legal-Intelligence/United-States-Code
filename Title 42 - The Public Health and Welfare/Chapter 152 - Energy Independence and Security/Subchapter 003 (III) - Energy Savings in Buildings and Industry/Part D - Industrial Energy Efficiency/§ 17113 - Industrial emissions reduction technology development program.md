@@ -188,7 +188,7 @@ The Secretary shall carry out the activities authorized in this section in accor
 
 #### Wage Rate Requirements
 
-For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction,alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 
 #### Purpose
 

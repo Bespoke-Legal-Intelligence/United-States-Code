@@ -16,7 +16,7 @@ The purpose of the program under this section is to provide local educational ag
 
 #### (2) Flexibility
 
-&emsp;Except as described in subsection (d)(1)(I), the Secretary is authorized to waive, for local educational agencies entering into agreements under this section, any provision of this chapter that would otherwise prevent such agencyfrom using eligible Federal funds as part of such agreement.
+&emsp;Except as described in subsection (d)(1)(I), the Secretary is authorized to waive, for local educational agencies entering into agreements under this section, any provision of this chapter that would otherwise prevent such agency from using eligible Federal funds as part of such agreement.
 
 #### (c) Selection of local educational agencies
 
@@ -84,7 +84,7 @@ The purpose of the program under this section is to provide local educational ag
 
 &emsp;&emsp;&emsp;(iii) ensure that each high-poverty school receives, in the first year of the demonstration agreement—
 
-&emsp;&emsp;&emsp;&emsp;(I) more per-pupil funding, including from Federal, State, and local sources,for low-income students than such funding received for low-income students in the year prior to entering into a demonstration agreement under this section; and
+&emsp;&emsp;&emsp;&emsp;(I) more per-pupil funding, including from Federal, State, and local sources, for low-income students than such funding received for low-income students in the year prior to entering into a demonstration agreement under this section; and
 
 &emsp;&emsp;&emsp;&emsp;(II) at least as much per-pupil funding, including from Federal, State, and local sources, for English learners as such funding received for English learners in the year prior to entering into a demonstration agreement under this section;
 
@@ -152,7 +152,7 @@ From the amount reserved for evaluation activities under section 7981 of this ti
 
 &emsp;(1) the implementation of the local flexibility demonstration agreements under this section; and
 
-&emsp;(2) the impact of such agreements on improving the equitable distribution of State andlocal funding and increasing student achievement.
+&emsp;(2) the impact of such agreements on improving the equitable distribution of State and local funding and increasing student achievement.
 
 #### (k) Renewal of local flexibility demonstration agreement
 
@@ -246,7 +246,7 @@ Section 6535, Pub. L. 89–10, title I, §1705, as added Pub. L. 107–110, titl
 
 Section 6536, Pub. L. 89–10, title I, §1706, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1609, related to use of grants to supplement, not supplant other non-Federal funds.
 
-Section 6537, Pub. L. 89–10, title I, §1707, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1609;amended Pub. L. 108–11, title II, §2503, Apr. 16, 2003, 117 Stat. 599, defined terms in former part G of this subchapter.
+Section 6537, Pub. L. 89–10, title I, §1707, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1609; amended Pub. L. 108–11, title II, §2503, Apr. 16, 2003, 117 Stat. 599, defined terms in former part G of this subchapter.
 
 Section 6551, Pub. L. 89–10, title I, §1801, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1610, provided that former part H of this subchapter could be cited as the "Dropout Prevention Act".
 

@@ -18,7 +18,7 @@ Areas Considered in Performance Assessments.—(1) Each performance assessment c
 
 &emsp;(B) the staffing and quality of the acquisition workforce and the effectiveness of the management of the acquisition workforce, including workforce incentives and career paths.
 
-(2) The Secretary of Defense shall ensure that the performance assessments required by this section are appropriately tailored to reflect the diverse nature of the work performed by each element of the defense acquisition system. In addition to the mandatory areas under paragraph (1), a performance assessment may consider, as appropriate, specific areas of acquisition concern, such as—
+(2) The Secretary of Defense shall ensure that the performance assessments required by thissection are appropriately tailored to reflect the diverse nature of the work performed by each element of the defense acquisition system. In addition to the mandatory areas under paragraph (1), a performance assessment may consider, as appropriate, specific areas of acquisition concern, such as—
 
 &emsp;(A) the selection of contractors, including—
 

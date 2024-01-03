@@ -10,7 +10,7 @@ Notwithstanding any other provision of law—
 
 (4) The Secretary shall issue regulations defining the term "person" and prescribing such rules as he determines necessary to assure a fair and reasonable application of such limitation: <i>Provided</i>, That the provisions of this Act which limit payments to any person shall not be applicable to lands owned by States, political subdivisions, or agencies thereof, so long as such lands are farmed primarily in the direct furtherance of a public function, as determined by the Secretary. The rules for determining whether corporations and their stockholders may be considered as separate persons shall be in accordance with the regulations issued by the Secretary on December 18, 1970.
 
-(Pub. L. 91–524, title I, §101, Nov. 30, 1970, 84 Stat. 1358; Pub. L. 93–86, §1(1), Aug. 10, 1973, 87 Stat. 221; Pub. L. 95–113, title I, §104, Sept. 29, 1977, 91 Stat. 919.)
+(Pub. L. 91–524, title I, §101, Nov. 30, 1970, 84 Stat. 1358; Pub. L. 93–86, §1(1), Aug. 10, 1973, 87 Stat.221; Pub. L. 95–113, title I, §104, Sept. 29, 1977, 91 Stat. 919.)
 
 #### <b>Editorial Notes</b>
 

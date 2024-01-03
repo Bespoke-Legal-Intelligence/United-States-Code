@@ -18,7 +18,7 @@ Subject to the approval of the Committee on Appropriations of the Senate, amount
 
 #### (d) Withdrawal of excess amounts
 
-The Architect of the Capitol shall withdraw from the revolving fund and deposit in theTreasury of the United States as miscellaneous receipts all moneys in the revolving fund that the Architect determines are in excess of the current and reasonably foreseeable needs of the Senate Staff Health and Fitness Facility.
+The Architect of the Capitol shall withdraw from the revolving fund and deposit in the Treasury of the United States as miscellaneous receipts all moneys in the revolving fund that the Architect determines are in excess of the current and reasonably foreseeable needs of the Senate Staff Health and Fitness Facility.
 
 #### (e) Regulations
 

@@ -18,7 +18,7 @@ In General.—There is established in the Treasury of the United States a fund t
 
 &emsp;(D) Satisfaction of—
 
-&emsp;&emsp;(i) liens for freight, charges, and contributions in general average, notice of which has been filed with the appropriate Customs officer according to law; and
+&emsp;&emsp;(i) liens for freight, charges, and contributions in general average, notice of which hasbeen filed with the appropriate Customs officer according to law; and
 
 &emsp;&emsp;(ii) subject to the discretion of the Secretary, other valid liens and mortgages against property that has been forfeited pursuant to any law enforced or administered by a Department of the Treasury law enforcement organization. To determine the validity of any such lien or mortgage, the amount of payment to be made, and to carry out the functions described in this subparagraph, the Secretary may employ and compensate attorneys and other personnel skilled in State real estate law.
 
@@ -172,7 +172,7 @@ Reports to Congress.—The Secretary shall transmit to the Congress, not later t
 
 &emsp;&emsp;(F) the balance of the Fund at the end of the preceding fiscal year;
 
-&emsp;&emsp;(G) the net amount, if any, of the excess unobligated amounts remaining in the Fundat the end of the preceding fiscal year and available to the Secretary for Federal law enforcement related purposes;
+&emsp;&emsp;(G) the net amount, if any, of the excess unobligated amounts remaining in the Fund at the end of the preceding fiscal year and available to the Secretary for Federal law enforcement related purposes;
 
 &emsp;&emsp;(H) a complete set of audited financial statements (including a balance sheet, income statement, and cash flow analysis) prepared in a manner consistent with the requirements of the Chief Financial Officers Act of 1990 (Public Law 101–576); and
 
@@ -206,7 +206,7 @@ Appropriations.—
 
 &emsp;(B) After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994, and on September 30 of each fiscal year thereafter, shall be available to the Secretary, without fiscal year limitation, for transfers pursuant to subparagraph (A)(ii) <sup>1</sup> and for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
 
-&emsp;(C) Any obligation or expenditure in excess of $500,000 with respect to an unobligated balance described in subparagraph (B) may not be made by the Secretary unless the Appropriations Committees of both Houses of Congress are notified at least 15 days in advance of such obligation or expenditure.
+&emsp;(C) Any obligation or expenditure in excess of $500,000 with respect to an unobligated balance described in subparagraph (B) may not be made by the Secretary unless the Appropriations Committees of both Houses of Congressare notified at least 15 days in advance of such obligation or expenditure.
 
 (h)
 
@@ -298,7 +298,7 @@ Secretary.—The term "Secretary" means the Secretary of the Treasury.
 
 #### References in Text
 
-Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (d)(2)(A), (h)(1), and (j)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. Section 5872(b)(2) of the Internal Revenue Code of 1986, referredto in subsec. (o)(1), is classified to section 5872(b)(2) of Title 26.
+Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (d)(2)(A), (h)(1), and (j)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. Section 5872(b)(2) of the Internal Revenue Code of 1986, referred to in subsec. (o)(1), is classified to section 5872(b)(2) of Title 26.
 
 The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
 

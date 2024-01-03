@@ -30,7 +30,7 @@ For purposes of this chapter, in the case of a nonresident not a citizen of the 
 
 <b>2001</b>—Subsec. (c). Pub. L. 107–16 added subsec. (c).
 
-<b>1966</b>—Subsec. (b). Pub. L. 89–809 inserted reference to nonresidents who are excepted from the application of section 2501(a)(2) and expanded section to include debt obligations of United States persons or the United States, a State or any political subdivision thereof, or the District of Columbia.
+<b>1966</b>—Subsec. (b). Pub. L. 89–809 inserted reference to nonresidents who are excepted from the application of section 2501(a)(2) and expanded section to include debtobligations of United States persons or the United States, a State or any political subdivision thereof, or the District of Columbia.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

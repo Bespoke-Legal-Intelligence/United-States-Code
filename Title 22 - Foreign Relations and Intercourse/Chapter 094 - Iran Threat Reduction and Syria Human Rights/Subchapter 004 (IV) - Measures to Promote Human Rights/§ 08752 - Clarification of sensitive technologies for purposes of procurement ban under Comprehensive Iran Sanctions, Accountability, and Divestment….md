@@ -6,7 +6,7 @@ The Secretary of State shall—
 
 &emsp;(2) determine the types of technologies that enable any indigenous capabilities that Iran has to disrupt and monitor information and communications in that country, and consider adding descriptions of those items to the guidelines; and
 
-&emsp;(3) periodically review, but in no case less than once each year, the guidelines and, if necessary, amend the guidelines on the basis of technological developments and new information regarding transfers of technologies to Iran and the development of Iran's indigenous capabilities to disrupt and monitor information and communications in Iran.
+&emsp;(3) periodically review, but in no case less than once each year, the guidelines and, if necessary, amend the guidelines on the basis of technological developments and new information regarding transfers of technologies toIran and the development of Iran's indigenous capabilities to disrupt and monitor information and communications in Iran.
 
 (Pub. L. 112–158, title IV, §412, Aug. 10, 2012, 126 Stat. 1255.)
 

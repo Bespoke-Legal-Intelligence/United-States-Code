@@ -26,7 +26,7 @@ This Act, referred to in subsec. (a), is Pub. L. 99–662, Nov. 17, 1986, 100 St
 
 The date of enactment of this Act, referred to in subsec. (a), is the date of enactment of Pub. L. 99–662, which was approved Nov. 17, 1986.
 
-The Water Resources Development Act of 1988, referred to in subsec. (a), is Pub. L. 100–676, Nov. 17, 1988, 102 Stat. 4012. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2201 of this title and Tables.
+The Water Resources Development Act of 1988, referred to in subsec. (a), is Pub. L. 100–676, Nov. 17, 1988,102 Stat. 4012. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2201 of this title and Tables.
 
 #### Amendments
 

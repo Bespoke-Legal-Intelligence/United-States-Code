@@ -160,7 +160,7 @@ Subsec. (g)(1). Pub. L. 99–514, §803(b)(7)(C), substituted "Notwithstanding s
 
 Subsec. (g)(1). Pub. L. 97–248, §230(a)(1), inserted "or qualified partnership" after "corporation" wherever appearing.
 
-Subsec. (g)(3). Pub. L. 97–248, §230(a)(2), designated existing provisions from "a corporation acquired" through "transferee corporation", as subpar. (A), inserted "qualified" before "farming trade", and added subpar. (B).
+Subsec. (g)(3). Pub. L. 97–248, §230(a)(2), designated existing provisions from "a corporation acquired"through "transferee corporation", as subpar. (A), inserted "qualified" before "farming trade", and added subpar. (B).
 
 Subsec. (g)(4). Pub. L. 97–354, §5(a)(29), substituted in subpar. (A)(i) "an S corporation" for "an electing small business corporation (within the meaning of section 1371(b))".
 
@@ -204,7 +204,7 @@ Amendment by Pub. L. 99–514 applicable to costs incurred after Dec. 31, 1986, 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) ofPub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
+Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
 Pub. L. 97–248, title II, §230(b), Sept. 3, 1982, 96 Stat. 496, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1981."
 
@@ -300,7 +300,7 @@ In general.—If—
 
 &emsp;&emsp;"(iii) such corporation elects, within one year after the date of the enactment of this Act \[Oct. 4, 1976\] and in such manner as the Secretary of the Treasury or his delegate prescribes, to change to the annual accrual method of accounting (within the meaning of section 447(g)(2) \[now section 447(e)(2)\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) for taxable years beginning after December 31, 1976,
 
-> &emsp;such change shall be treated as having been made with the consent of the Secretary of the Treasury,and, under regulations prescribed by the Secretary of the Treasury or his delegate, the net amount of the adjustments required by section 481(a) of the Internal Revenue Code of 1986 to be taken into account by the taxpayer in computing taxable income shall (except as otherwise provided in such regulations) be taken into account in each of the 10 taxable years beginning with the year of change.
+> &emsp;such change shall be treated as having been made with the consent of the Secretary of the Treasury, and, under regulations prescribed by the Secretary of the Treasury or his delegate, the net amount of the adjustments required by section 481(a) of the Internal Revenue Code of 1986 to be taken into account by the taxpayer in computing taxable income shall (except as otherwise provided in such regulations) be taken into account in each of the 10 taxable years beginning with the year of change.
 
 &emsp;"(B)
 

@@ -40,7 +40,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 #### (2) Triage procedures
 
-&emsp;The Secretary may award grants under this subsection to public and private agencies that demonstrate innovation in responding to reports of child abuse and neglect, including programs of collaborative partnerships between the State child protective services agency, community social service agencies and family support programs, law enforcement agencies, developmental disability agencies, substance abuse treatment entities, health care entities, domestic violence prevention entities, mental health service entities, schools, churches and synagogues, and other community agencies, to allow for the establishment of a triage system that—
+&emsp;The Secretary may award grants under this subsection to public and private agencies thatdemonstrate innovation in responding to reports of child abuse and neglect, including programs of collaborative partnerships between the State child protective services agency, community social service agencies and family support programs, law enforcement agencies, developmental disability agencies, substance abuse treatment entities, health care entities, domestic violence prevention entities, mental health service entities, schools, churches and synagogues, and other community agencies, to allow for the establishment of a triage system that—
 
 &emsp;&emsp;(A) accepts, screens, and assesses reports received to determine which such reports require an intensive intervention and which require voluntary referral to another agency, program, or project;
 
@@ -94,7 +94,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 #### (C) Application
 
-&emsp;&emsp;A State desiring a grant under this paragraph shall submit an application to the Secretary at such time and in such manner as the Secretary may require. Such application shall include—
+&emsp;&emsp;A State desiring a grant under this paragraph shall submit an application to theSecretary at such time and in such manner as the Secretary may require. Such application shall include—
 
 &emsp;&emsp;&emsp;(i) a description of—
 
@@ -116,7 +116,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 &emsp;&emsp;&emsp;&emsp;(VI) an assessment of the treatment and other services and programs available in the State to effectively carry out any plan of safe care developed, including identification of needed treatment, and other services and programs to ensure the well-being of young children and their families affected by substance use disorder, such as programs carried out under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.) and comprehensive early childhood development services and programs such as Head Start programs;
 
-&emsp;&emsp;&emsp;(ii) a description of how the State plans to use funds for activities described in subparagraph (D) for the purposes of ensuringState compliance with requirements under clauses (ii) and (iii) of section 5106a(b)(2)(B) of this title; and
+&emsp;&emsp;&emsp;(ii) a description of how the State plans to use funds for activities described in subparagraph (D) for the purposes of ensuring State compliance with requirements under clauses (ii) and (iii) of section 5106a(b)(2)(B) of this title; and
 
 &emsp;&emsp;&emsp;(iii) an assurance that the State will comply with requirements to refer a child identified as substance-exposed to early intervention services as required pursuant to a grant under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.).
 
@@ -399,10 +399,4 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, §141(2), substituted "child with disa
 <b>1988</b>—Pub. L. 100–294 amended section generally, substituting provision authorizing grants to public agencies and nonprofit private organizations for demonstration or service programs and projects for provision directing the Secretary to ensure coordination among Federal programs related to child abuse and neglect. See section 5106e of this title.
 
 <b>1984</b>—Pub. L. 98–457 substituted "among programs" for "between programs".
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

@@ -22,7 +22,7 @@ Termination Clause.—A multiyear contract entered into under the authority of t
 
 (d)
 
-Cancellation Ceiling Notice.—Before a contract described in subsection (b) that contains a clause setting forth a cancellation ceiling in excess of $10,000,000 may be awarded, the executive agency shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to Congress. The contract may not be awarded until the end of the 30-day period beginning on the date of the notification.
+Cancellation Ceiling Notice.—Before a contract described in subsection (b) that contains a clause setting forth a cancellation ceiling in excess of $10,000,000 may be awarded, the executive agency shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to Congress. The contract may not be awarded untilthe end of the 30-day period beginning on the date of the notification.
 
 (e)
 

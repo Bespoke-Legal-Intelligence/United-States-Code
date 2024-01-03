@@ -16,7 +16,7 @@ The duties of the Administrator in implementing and effectuating the Program sha
 
 &emsp;&emsp;(C) the means of abating the threat posed by asbestos and asbestos containing materials;
 
-&emsp;(2) the distribution of the information described in paragraph (1) (in any appropriate form such as pamphlets, reports, or instructions) to State and local educational agencies and to other institutions, including parent andemployee organizations, for the purpose of carrying out activities described in this subchapter;
+&emsp;(2) the distribution of the information described in paragraph (1) (in any appropriate form such as pamphlets, reports, or instructions) to State and local educational agencies and to other institutions, including parent and employee organizations, for the purpose of carrying out activities described in this subchapter;
 
 &emsp;(3) not later than November 15 of each year for which this subchapter is authorized, the development and distribution of applications, or notifications to all local educational agencies of the availability of application forms including information for obtaining such forms; and
 
@@ -36,5 +36,5 @@ Subsec. (b). Pub. L. 101–637, §14(b)(4), inserted heading.
 
 Subsec. (b)(2). Pub. L. 101–637, §4(1), (2), substituted "educational agencies" for "agencies" and "institutions, including parent and employee organizations," for "institutions".
 
-Subsec. (b)(3). Pub. L. 101–637, §4(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the development within forty-five days of August 11, 1984, of an interim or final application form, which shall be distributed promptly to local educational agencies; and".
+Subsec. (b)(3). Pub. L. 101–637, §4(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows:"the development within forty-five days of August 11, 1984, of an interim or final application form, which shall be distributed promptly to local educational agencies; and".
 

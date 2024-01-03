@@ -128,7 +128,7 @@ Subsec. (b)(3). Pub. L. 108–169, §206(a)(3), substituted "4 members" for "3 m
 
 <b>2000</b>—Subsec. (f). Pub. L. 106–503, §113(b)(1), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: "Appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States."
 
-Subsecs. (g), (h). Pub. L. 106–503, §113(b), redesignated subsec. (h) as (g) and struck out heading and text of former subsec. (g). Text read as follows: "Members of the board serve without compensation."
+Subsecs. (g), (h). Pub. L. 106–503, §113(b), redesignated subsec. (h) as (g) and struck out heading and text offormer subsec. (g). Text read as follows: "Members of the board serve without compensation."
 
 <b>1998</b>—Subsecs. (f) to (h). Pub. L. 105–354 amended subsecs. (f) and (g) generally and added subsec. (h). Prior to amendment, subsecs. (f) and (g) read as follows:
 

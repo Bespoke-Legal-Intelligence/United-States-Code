@@ -144,9 +144,11 @@ Salaries, operations, and maintenance.—There is authorized to be appropriated 
 
 &emsp;&emsp;(D) $11,000,000,000 for fiscal year 2021;
 
-&emsp;&emsp;(E) $11,269,000,000 for fiscal year 2022; and
+&emsp;&emsp;(E) $11,269,000,000 for fiscal year 2022;
 
-&emsp;&emsp;(F) $11,537,000,000 for fiscal year 2023.
+&emsp;&emsp;(F) $11,537,000,000 for fiscal year 2023; and
+
+&emsp;&emsp;(G) $5,208,743,169 for the period beginning on October 1, 2023, and ending on March 8, 2024.
 
 > &emsp;Such sums shall remain available until expended.
 
@@ -176,7 +178,7 @@ Authorized expenditures.—Out of amounts appropriated under paragraph (1), the 
 
 &emsp;(3)
 
-Administering program within available funding.—Notwithstanding any other provision of law, in each of fiscal years 2018 through 2023, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
+Administering program within available funding.—Notwithstanding any other provision of law, in each of fiscal years 2018 through 2023 and for the period beginning on October 1, 2023, and ending on March 8, 2024, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
 
 (l)
 
@@ -224,7 +226,7 @@ Prohibition on certain performance-based incentives.—No employee of the Admini
 
 (m)
 
-Cooperation by Administrator.—With the consent of appropriate officials, the Administrator may, with or without reimbursement, use or accept the services, equipment, personnel, and facilities of any other Federal agency (as such term is defined in section 551(1) of title 5) and any other public or private entity. The Administrator may also cooperate with appropriate officials of other public and private agencies and instrumentalities concerning the use of services, equipment, personnel, and facilities.The head of each Federal agency shall cooperate with the Administrator in making the services, equipment, personnel, and facilities of the Federal agency available to the Administrator. The head of a Federal agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, with or without reimbursement, supplies, personnel, services, and equipment other than administrative supplies or equipment.
+Cooperation by Administrator.—With the consent of appropriate officials, the Administrator may, with or without reimbursement, use or accept the services, equipment, personnel, and facilities of any other Federal agency (assuch term is defined in section 551(1) of title 5) and any other public or private entity. The Administrator may also cooperate with appropriate officials of other public and private agencies and instrumentalities concerning the use of services, equipment, personnel, and facilities. The head of each Federal agency shall cooperate with the Administrator in making the services, equipment, personnel, and facilities of the Federal agency available to the Administrator. The head of a Federal agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, with or without reimbursement, supplies, personnel, services, and equipment other than administrative supplies or equipment.
 
 (n)
 
@@ -528,7 +530,7 @@ Meetings.—The Committee shall meet at least quarterly and at such other times 
 
 &emsp;&emsp;&emsp;(iii)
 
-Quorum.—Three members of the Committee shall constitute a quorum. Amajority of members present and voting shall be required for the Committee to take action.
+Quorum.—Three members of the Committee shall constitute a quorum. A majority of members present and voting shall be required for the Committee to take action.
 
 &emsp;&emsp;(H)
 
@@ -656,7 +658,7 @@ In general.—
 
 &emsp;&emsp;(A)
 
-Appointment.—There shall be a Chief Technology Officer appointed by the ChiefOperating Officer. The Chief Technology Officer shall report directly to the Chief Operating Officer.
+Appointment.—There shall be a Chief Technology Officer appointed by the Chief Operating Officer. The Chief Technology Officer shall report directly to the Chief Operating Officer.
 
 &emsp;&emsp;(B)
 
@@ -762,7 +764,7 @@ Complaints and investigations.—
 
 Authority of director.—The Director shall—
 
-&emsp;&emsp;&emsp;(i) receive complaints and information submitted by employees of persons holding certificates issued under title 14, Code of Federal Regulations (if the certificate holder does not have a similar in-house whistleblower or safety and regulatory noncompliance reporting process established under or pursuant to a safety management system) and employees of the Agency concerning the possible existenceof an activity relating to a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety;
+&emsp;&emsp;&emsp;(i) receive complaints and information submitted by employees of persons holding certificates issued under title 14, Code of Federal Regulations (if the certificate holder does not have a similar in-house whistleblower or safety and regulatory noncompliance reporting process established under or pursuant to a safety management system) and employees of the Agency concerning the possible existence of an activity relating to a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety;
 
 &emsp;&emsp;&emsp;(ii) assess complaints and information submitted under clause (i) and determine whether a substantial likelihood exists that a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety has occurred;
 
@@ -840,13 +842,13 @@ Duties.—The Ombudsman shall carry out the following duties:
 
 &emsp;&emsp;&emsp;(ii) Serve as an independent confidential resource for Administration employees to discuss any specific retaliation allegation and available rights or remedies based on the circumstances, as appropriate.
 
-&emsp;&emsp;&emsp;(iii) Coordinate with Human Resource Management, the Office of Accountability and Whistleblower Protection, the Officeof Professional Responsibility, and the Office of the Chief Counsel, as necessary.
+&emsp;&emsp;&emsp;(iii) Coordinate with Human Resource Management, the Office of Accountability and Whistleblower Protection, the Office of Professional Responsibility, and the Office of the Chief Counsel, as necessary.
 
 &emsp;&emsp;&emsp;(iv) Coordinate with the Office of the Inspector General of the Department of Transportation's Whistleblower Protection Coordinator and the Office of the Special Counsel, as necessary.
 
 &emsp;&emsp;&emsp;(v) Conduct outreach and assist in the development of training within the Agency to mitigate the potential for retaliation and promote timely and appropriate processing of any protected disclosure or allegation of materially adverse acts of retaliation.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603; Pub. L. 108–176, title I, §103(a),(b), title II, §§201–204, 224(c), Dec. 12, 2003, 117 Stat. 2495, 2496, 2522–2526, 2528; Pub. L. 110–330, §6, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §6, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §6, Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §6, Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §6, Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §6, Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §6, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §105, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §206, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §6, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §103, title II, §§203, 204, title III, §§306(b), 341, Feb. 14, 2012, 126 Stat. 16, 37, 61, 78; Pub. L. 112–166, §2(k)(2), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 113–188, title XV, §1501(a), Nov. 26, 2014, 128 Stat. 2023; Pub. L. 114–55, title I, §103, Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §103, Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1103, July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §103, Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §103, Mar. 23, 2018, 132 Stat. 1047; Pub. L. 115–254, div. B, title I, §113, title V, §§545(a), 564, div. K, title I, §1991(a), Oct. 5, 2018, 132 Stat. 3200, 3374, 3385, 3626; Pub. L. 116–260, div. V, title I, §§114, 133(a), (b), Dec. 27, 2020, 134 Stat. 2333, 2353, 2355; Pub. L. 117–286, §4(a)(302), (c)(46), Dec. 27, 2022, 136 Stat. 4339, 4359; Pub. L. 117–328, div. Q, §104, Dec. 29, 2022, 136 Stat. 5253.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603; Pub. L. 108–176, title I, §103(a),(b), title II, §§201–204, 224(c), Dec. 12, 2003, 117 Stat. 2495, 2496, 2522–2526, 2528; Pub. L. 110–330, §6, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §6, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §6, Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §6, Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §6, Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §6, Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §6, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §105, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §206, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §6, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §103, title II, §§203, 204, title III, §§306(b), 341, Feb. 14, 2012, 126 Stat. 16, 37, 61, 78; Pub. L. 112–166, §2(k)(2), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 113–188, title XV, §1501(a), Nov. 26, 2014, 128 Stat. 2023; Pub. L. 114–55, title I, §103, Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §103, Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1103, July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §103, Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §103, Mar. 23, 2018, 132 Stat. 1047; Pub. L. 115–254, div. B, title I, §113, title V, §§545(a), 564, div. K, title I, §1991(a), Oct. 5, 2018, 132 Stat. 3200, 3374, 3385, 3626; Pub. L. 116–260, div. V, title I, §§114, 133(a), (b), Dec. 27, 2020, 134 Stat. 2333, 2353, 2355; Pub. L. 117–286, §4(a)(302), (c)(46), Dec. 27, 2022, 136 Stat. 4339, 4359; Pub. L. 117–328, div. Q, §104, Dec. 29, 2022, 136 Stat. 5253; Pub. L. 118–15, div. B, title II, §2203, Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §103, Dec. 26, 2023, 137 Stat. 1114.)
 
 Historical and Revision Notes
 
@@ -952,7 +954,7 @@ In subsection (c), the text of 49:1652(e)(2) (last sentence) is omitted as execu
 
 In subsection (d)(1), the words "Nothing in this chapter or other law shall preclude" in 49:1342(b) (4th sentence) are omitted as unnecessary because of the positive statement of authority. The words "armed force" are substituted for "armed services" to conform to title 10. The words "to the position of" are omitted as surplus.
 
-In subsection (d)(2), the word "continue" is omitted as surplus. The words "pay provided by law for the Deputy Administrator" are substituted for "compensation provided for the Deputy Administrator" in 49:1342(b)because the pay provisions were repealed and replaced by 5:5315. The words "(including personal money allowance)" are omitted as being within the meaning of "allowance" in title 37. The words "as the case may be" are omitted as surplus. The words "of the military grade held" are substituted for "military . . . payable to a commissioned officer of his grade and length of service" to eliminate unnecessary words. The words "Administration" and "military" are added for clarity. The words "to defray" are omitted as surplus.
+In subsection (d)(2), the word "continue" is omitted as surplus. The words "pay provided by law for the Deputy Administrator" are substituted for "compensation provided for the Deputy Administrator" in 49:1342(b) because the pay provisions were repealed and replaced by 5:5315. The words "(including personal money allowance)" are omitted as being within the meaning of "allowance" in title 37. The words "as the case may be" are omitted as surplus. The words "of the military grade held" are substituted for "military . . . payable to a commissioned officer of his grade and length of service" to eliminate unnecessary words. The words "Administration" and "military" are added for clarity. The words "to defray" are omitted as surplus.
 
 In subsection (d)(3), the words "acceptance of, and" are omitted as unnecessary. The word "held" is substituted for "may occupy or hold" to eliminate unnecessary words. The words "right or benefit" are substituted for "emolument, perquisite, right, privilege, or benefit" to eliminate unnecessary words. The words "incident to or" before "arising" are omitted as surplus.
 
@@ -981,6 +983,14 @@ The date of the enactment of the Air Traffic Management System Performance Impro
 The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (p)(6)(C), (7)(A), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (k)(1)(G). Pub. L. 118–34, §103(1), added subpar. (G) and struck out former subpar. (G) which read as follows: "$2,995,027,322 for the period beginning on October 1, 2023, and ending on December 31, 2023."
+
+Pub. L. 118–15, §2203(1), added subpar. (G).
+
+Subsec. (k)(3). Pub. L. 118–34, §103(2), substituted "March 8, 2024" for "December 31, 2023".
+
+Pub. L. 118–15, §2203(2), inserted "and for the period beginning on October 1, 2023, and ending on December 31, 2023" after "fiscal years 2018 through 2023".
 
 <b>2022</b>—Subsec. (d)(1). Pub. L. 117–328 struck out ", a retired regular officer of an armed force, or a former regular officer of an armed force" after "active duty in an armed force".
 
@@ -1014,11 +1024,11 @@ Subsec. (t)(8). Pub. L. 116–260, §133(b), added par. (8).
 
 "(1) Except as provided in paragraph (2) of this subsection, the Administrator shall carry out—
 
-&emsp;"(A) duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
+&emsp;"(A) duties and powers of the Secretary of Transportation under subsection (f) of this section relatedto aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
 
 &emsp;"(B) additional duties and powers prescribed by the Secretary of Transportation.
 
-"(2) In carrying out sections 40119, 44901, 44903(a)–(c) and (e), 44906, 44912, 44935–44937, 44938(a) and (b), and48107 of this title, paragraph (1)(A) of this subsection does not apply to duties and powers vested in the Director of Intelligence and Security by section 44931 of this title."
+"(2) In carrying out sections 40119, 44901, 44903(a)–(c) and (e), 44906, 44912, 44935–44937, 44938(a) and (b), and 48107 of this title, paragraph (1)(A) of this subsection does not apply to duties and powers vested in the Director of Intelligence and Security by section 44931 of this title."
 
 Subsec. (k)(1)(A)–(E). Pub. L. 115–254, §113(a), added subpars. (A) to (E) and struck out former subpars. (A) to (E) which read as follows:
 
@@ -1224,7 +1234,7 @@ Procurement of temporary and intermittent services.—The chairperson of the Sub
 
 Pub. L. 108–176, §202(14)(C), redesignated subpar (D) as (F). Former subpar. (F) redesignated (H).
 
-Subsec. (p)(7)(G). Pub. L. 108–176, §202(14)(K), substituted "Committee" for "Subcommittee" wherever appearing, redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read asfollows: "
+Subsec. (p)(7)(G). Pub. L. 108–176, §202(14)(K), substituted "Committee" for "Subcommittee" wherever appearing, redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read as follows: "
 
 Term of chair.—The members of the Subcommittee shall elect for a 2-year term a chairperson from among the members of the Subcommittee."
 
@@ -1288,7 +1298,7 @@ Subsec. (p)(2). Pub. L. 106–528, which directed the substitution of "18" for "
 
 Subsec. (p)(2)(C) to (E). Pub. L. 106–181, §302(a)(1), added subpars. (C) to (E) and struck out former subpar. (C) which read as follows: "13 members representing aviation interests, appointed by the President by and with the advice and consent of the Senate."
 
-Subsec. (p)(3). Pub. L. 106–181, §302(a)(2), designated existing provisions as subpar. (A), inserted subpar. heading, realigned margins, inserted "or (2)(E)" after "paragraph (2)(C)", and added subpars. (B) and (C).
+Subsec. (p)(3). Pub. L. 106–181, §302(a)(2), designated existing provisions as subpar. (A), inserted subpar.heading, realigned margins, inserted "or (2)(E)" after "paragraph (2)(C)", and added subpars. (B) and (C).
 
 Subsec. (p)(6). Pub. L. 106–181, §302(b), added subpars. (A) to (I), redesignated former subpars. (B) to (D) as (J) to (L), respectively, and struck out former subpar. (A) which related to terms of members appointed to the Advisory Council.
 
@@ -1390,7 +1400,7 @@ Effect on actions prior to appointment of subcommittee.—Nothing in this sectio
 
 Pub. L. 105–102, §3(c), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(c)(3) is effective Oct. 9, 1996.
 
-Pub. L. 105–102, §3(f), Nov. 20, 1997, 111 Stat. 2216, provided that: "The amendments made by subsections (a) through (d) of this section \[amending this section and sections 5302, 30501 to 30504, 45301, 46301, 46316, 47117, and 47128 of this title, renumbering section 40121 of this title as 40124 of this title, and amending provisions set out as notes under sections 5303 and 47117 of this title\] shall take effect as if included in the provisions of the Acts to which the amendments relate."
+Pub. L. 105–102, §3(f), Nov. 20, 1997, 111 Stat. 2216, provided that: "The amendments made by subsections (a) through (d) of this section \[amending this section and sections 5302, 30501 to 30504, 45301, 46301, 46316, 47117, and47128 of this title, renumbering section 40121 of this title as 40124 of this title, and amending provisions set out as notes under sections 5303 and 47117 of this title\] shall take effect as if included in the provisions of the Acts to which the amendments relate."
 
 #### Effective Date of 1996 Amendment
 
@@ -1404,7 +1414,7 @@ In General.—Except as otherwise specifically provided, this Act \[see Tables f
 
 Limitation on Statutory Construction.—Nothing in this Act or any amendment made by this Act shall be construed as affecting funds made available for a fiscal year ending before October 1, 1996."
 
-Pub. L. 104–264, title II, §203, Oct. 9, 1996, 110 Stat. 3227, provided that: "The provisions of this title \[enacting sections 40121, 40122, 45301, 45303, 48111, and 48201 of this title, amending this section and section 41742 ofthis title, renumbering section 45303 of this title as section 45304, repealing section 45301 of this title, and enacting provisions set out as notes under this section and sections 40101, 40110, and 41742 of this title\] and the amendments made by this title shall take effect on the date that is 30 days after the date of the enactment of this Act \[Oct. 9, 1996\]."
+Pub. L. 104–264, title II, §203, Oct. 9, 1996, 110 Stat. 3227, provided that: "The provisions of this title \[enacting sections 40121, 40122, 45301, 45303, 48111, and 48201 of this title, amending this section and section 41742 of this title, renumbering section 45303 of this title as section 45304, repealing section 45301 of this title, and enacting provisions set out as notes under this section and sections 40101, 40110, and 41742 of this title\] and the amendments made by this title shall take effect on the date that is 30 days after the date of the enactment of this Act \[Oct. 9, 1996\]."
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
@@ -1620,7 +1630,7 @@ Earmark Defined.—In this section, the term 'earmark' means a statutory provisi
 
 "(b)
 
-Rescission.—If any earmark relating to the Federal Aviation Administration has more than 90 percent of applicable appropriated amounts remaining available for obligation at the end of the 9th fiscal year beginning after the fiscal year in which those amounts were appropriated, the unobligated portion of those amounts is rescinded effective at the end of that 9th fiscal year, except that the Administrator of the Federal Aviation Administration may delay any such rescission if the Administrator determines that an obligation with respect to those amounts is likely to occur during the 12-month period beginning on the last day of that 9th fiscal year.
+Rescission.—If any earmark relating to the Federal Aviation Administration has more than 90 percent of applicable appropriated amounts remaining available for obligation at the end of the 9th fiscal year beginning after the fiscal year in which those amounts were appropriated, the unobligated portion of thoseamounts is rescinded effective at the end of that 9th fiscal year, except that the Administrator of the Federal Aviation Administration may delay any such rescission if the Administrator determines that an obligation with respect to those amounts is likely to occur during the 12-month period beginning on the last day of that 9th fiscal year.
 
 "(c)
 
@@ -1634,7 +1644,7 @@ Agency identification.—At the end of each fiscal year, the Administrator shall
 
 Annual report.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], and annually thereafter, the Director shall submit to Congress and make available to the public on the Internet Web site of the Office a report that includes—
 
-&emsp;&emsp;"(A) a listing of each earmark related to the Administration and with respect to which there is anunobligated balance of appropriated amounts, which shall include the amount of the original earmark, the amount of the unobligated balance related to that earmark, and the date on which the funding expires, if applicable;
+&emsp;&emsp;"(A) a listing of each earmark related to the Administration and with respect to which there is an unobligated balance of appropriated amounts, which shall include the amount of the original earmark, the amount of the unobligated balance related to that earmark, and the date on which the funding expires, if applicable;
 
 &emsp;&emsp;"(B) the number of rescissions under subsection (b) and the savings resulting from those rescissions for the previous fiscal year; and
 
@@ -1690,7 +1700,7 @@ Pub. L. 108–176, title VII, §702, Dec. 12, 2003, 117 Stat. 2576, provided tha
 
 "(h)(1) Any obligation of an individual incurred under the Program (or a contractual agreement thereunder) for service or payment shall be canceled upon the death of the individual.
 
-"(2) The Administrator shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment incurred by an individual under the Program (or a contractual agreement thereunder) whenever compliance by the individual is impossible or would involve extreme hardship to the individual, or if enforcement of such obligation with respect to the individual would be contrary to the best interests of the Government.
+"(2) The Administrator shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment incurred by an individual under the Program (or a contractual agreementthereunder) whenever compliance by the individual is impossible or would involve extreme hardship to the individual, or if enforcement of such obligation with respect to the individual would be contrary to the best interests of the Government.
 
 "(i) For purposes of this section—
 
@@ -1770,7 +1780,7 @@ Pub. L. 104–50, title III, §347, Nov. 15, 1995, 109 Stat. 460, as amended by 
 
 #### Dependents of Federal Aviation Administration Personnel
 
-Pub. L. 106–346, §101(a) \[title III, §303\], Oct. 23, 2000, 114 Stat. 1356, 1356A–23, as amended by Pub. L. 114–95, title IX, §9215(x), Dec. 10, 2015, 129 Stat. 2172, provided that: "Hereafter, funds appropriated under this or anyother Act for expenditures by the Federal Aviation Administration shall be available: (1) except as otherwise authorized by title VII of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7701 et seq.\], for expenses of primary and secondary schooling for dependents of Federal Aviation Administration personnel stationed outside the continental United States at costs for any given area not in excess of those of the Department of Defense for the same area, when it is determined by the Secretary that the schools, if any, available in the locality are unable to provide adequately for the education of such dependents; and (2) for transportation of said dependents between schools serving the area that they attend and their places of residence when the Secretary, under such regulations as may be prescribed, determines that such schools are not accessible by public means of transportation on a regular basis."
+Pub. L. 106–346, §101(a) \[title III, §303\], Oct. 23, 2000, 114 Stat. 1356, 1356A–23, as amended by Pub. L. 114–95, title IX, §9215(x), Dec. 10, 2015, 129 Stat. 2172, provided that: "Hereafter, funds appropriated under this or any other Act for expenditures by the Federal Aviation Administration shall be available: (1) except as otherwise authorized by title VII of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7701 et seq.\], for expenses of primary and secondary schooling for dependents of Federal Aviation Administration personnel stationed outside the continental United States at costs for any given area not in excess of those of the Department of Defense for the same area, when it is determined by the Secretary that the schools, if any, available in the locality are unable to provide adequately for the education of such dependents; and (2) for transportation of said dependents between schools serving the area that they attend and their places of residence when the Secretary, under such regulations as may be prescribed, determines that such schools are not accessible by public means of transportation on a regular basis."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -1876,7 +1886,7 @@ Pub. L. 102–308, June 26, 1992, 106 Stat. 273, provided: "That notwithstanding
 
 "
 
-Sec. 2. In the performance of his duties as Administrator of the Federal Aviation Administration, General Richards shall be subject to no supervision, control, restriction, or prohibition (military or otherwise) other than would be operative with respect to him if he were not an officer on the retired list of the United States Air Force.
+Sec. 2. In the performance of his duties as Administrator of the Federal Aviation Administration, GeneralRichards shall be subject to no supervision, control, restriction, or prohibition (military or otherwise) other than would be operative with respect to him if he were not an officer on the retired list of the United States Air Force.
 
 "
 

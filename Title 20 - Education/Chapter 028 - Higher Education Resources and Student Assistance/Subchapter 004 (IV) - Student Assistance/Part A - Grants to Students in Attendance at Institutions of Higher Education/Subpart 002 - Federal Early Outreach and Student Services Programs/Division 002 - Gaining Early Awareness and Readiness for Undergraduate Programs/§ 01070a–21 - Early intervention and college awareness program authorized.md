@@ -52,7 +52,7 @@ For the purposes of this division, the term "eligible entity" means—
 
 &emsp;&emsp;&emsp;(ii) one or more degree granting institutions of higher education; and
 
-&emsp;&emsp;(B) which may include not less than two other community organizations or entities, such as businesses, professional organizations, State agencies, institutions or agencies sponsoring programs authorized under subpart 4, or other public or private agencies or organizations.
+&emsp;&emsp;(B) which may include not less than two other community organizations or entities,such as businesses, professional organizations, State agencies, institutions or agencies sponsoring programs authorized under subpart 4, or other public or private agencies or organizations.
 
 (Pub. L. 89–329, title IV, §404A, as added Pub. L. 105–244, title IV, §403, Oct. 7, 1998, 112 Stat. 1656; amended Pub. L. 110–315, title IV, §404(a), Aug. 14, 2008, 122 Stat. 3206.)
 

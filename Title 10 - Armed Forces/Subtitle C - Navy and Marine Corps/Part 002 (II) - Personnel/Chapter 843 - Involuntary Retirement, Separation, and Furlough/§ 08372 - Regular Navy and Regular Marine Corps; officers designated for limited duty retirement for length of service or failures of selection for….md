@@ -6,7 +6,7 @@ Mandatory Retirement.—(1) Except as provided in subsection (k), each regular o
 
 (2) Except as provided in subsection (k), each regular officer of the Navy designated for limited duty who is serving in the grade of commander, has failed of selection for promotion to the grade of captain for the second time, and is not on a list of officers recommended for promotion to the grade of captain shall—
 
-&emsp;(A) if eligible for retirement as a commissioned officer under any provision of law, be retired under that provision of law on the date requested by the officer and approved by the Secretary of the Navy, except that the date of retirement may not be later than the first day of the seventh month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed for promotion to the grade of captain for a second time; or
+&emsp;(A) if eligible for retirement as a commissioned officer under any provision of law, be retired under that provision of law on the date requested by the officer and approved by the Secretary of the Navy, except that the date of retirement may not be later than the first day of the seventh month beginning after the month in which the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public; or
 
 &emsp;(B) if not eligible for retirement as a commissioned officer, be retired on the date requested by the officer and approved by the Secretary of the Navy after the officer becomes eligible for retirement as a commissioned officer, except that the date of retirement may not be later than the first day of the seventh calendar month beginning after the month in which the officer becomes eligible for retirement as a commissioned officer.
 
@@ -76,7 +76,7 @@ Selective Retention Boards for LDOs.—Under such regulations as he may prescrib
 
 Applicability of Section Only to Permanent LDOs.—This section does not apply to officers designated for limited duty under section 8146 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 405, §6383; Pub. L. 85–422, §11(a)(6)(D), May 20, 1958, 72 Stat. 131; Pub. L. 86–616, §5(2), July 12, 1960, 74 Stat. 390; Pub. L. 87–509, §4(b), June 28, 1962, 76 Stat. 121; Pub. L. 88–132, §5(h)(4), Oct. 2, 1963, 77 Stat. 214; Pub. L. 96–342, title VIII, §813(d)(7), Sept. 8, 1980, 94 Stat. 1106; Pub. L. 96–513, title III, §336, title V, §513(17), Dec. 12, 1980, 94 Stat. 2898, 2932; Pub. L. 98–94, title IX, §922(a)(11), Sept. 24, 1983, 97 Stat. 642; Pub. L. 98–525, title V, §529(c), Oct. 19, 1984, 98 Stat. 2526; Pub. L. 99–348, title II, §203(b)(7), July 1, 1986, 100 Stat. 696; Pub. L. 101–510, div. A, title V, §501(f)(2), Nov. 5, 1990, 104 Stat. 1551; Pub. L. 102–484, div. A, title V, §504(c), (d), Oct. 23, 1992, 106 Stat. 2403, 2404; Pub. L. 103–160, div. A, title V, §561(e), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title V, §503, Oct. 5, 1994, 108 Stat. 2749; Pub. L. 105–261, div. A, title V, §504(c), (d), Oct. 17, 1998, 112 Stat. 2004; renumbered §8372 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(16), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 405, §6383; Pub. L. 85–422, §11(a)(6)(D), May 20, 1958, 72 Stat. 131; Pub. L. 86–616, §5(2), July 12, 1960, 74 Stat. 390; Pub. L. 87–509, §4(b), June 28, 1962, 76 Stat. 121; Pub. L. 88–132, §5(h)(4), Oct. 2, 1963, 77 Stat. 214; Pub. L. 96–342, title VIII, §813(d)(7), Sept. 8, 1980, 94 Stat. 1106; Pub. L. 96–513, title III, §336, title V, §513(17), Dec. 12, 1980, 94 Stat. 2898, 2932; Pub. L. 98–94, title IX, §922(a)(11), Sept. 24, 1983, 97 Stat. 642; Pub. L. 98–525, title V, §529(c), Oct. 19, 1984, 98 Stat. 2526; Pub. L. 99–348, title II, §203(b)(7), July 1, 1986, 100 Stat. 696; Pub. L. 101–510, div. A, title V, §501(f)(2), Nov. 5, 1990, 104 Stat. 1551; Pub. L. 102–484, div. A, title V, §504(c), (d), Oct. 23, 1992, 106 Stat. 2403, 2404; Pub. L. 103–160, div. A, title V, §561(e), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title V, §503, Oct. 5, 1994, 108 Stat. 2749; Pub. L. 105–261, div. A, title V, §504(c), (d), Oct. 17, 1998, 112 Stat. 2004; renumbered §8372 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(16), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 118–31, div. A, title V, §508(b), Dec. 22, 2023, 137 Stat. 242.)
 
 Historical and Revision Notes
 
@@ -186,6 +186,8 @@ A prior section 8372, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Sta
 
 #### Amendments
 
+<b>2023</b>—Subsec. (a)(2)(A). Pub. L. 118–31, which directed the substitution of "Secretary concerned releases thepromotion results of the board which considered the officer for the second time to the public" for "President approves the report of the board which considered him for the second time", was executed by making the substitution for "President approves the report of the selection board in which the officer is considered as having failed for promotion to the grade of captain for a second time", to reflect the probable intent of Congress.
+
 <b>2018</b>—Pub. L. 115–232, §807(b)(16), renumbered section 6383 of this title as this section.
 
 Subsec. (c)(2). Pub. L. 115–232, §809(a), substituted "section 8333" for "section 6333".
@@ -248,11 +250,11 @@ Subsec. (b). Pub. L. 96–513, §336(b), authorized the discharge of certain off
 
 Subsec. (c)(1). Pub. L. 96–513, §336(c), substituted "determined under section 1370 of this title" for "in which he was serving at the time of retirement".
 
-Subsec. (c)(2). Pub. L. 96–513, §513(17), substituted "September 8, 1980" for "the date of the enactment of the Department of Defense Authorization Act, 1981" wherever appearing.
+Subsec. (c)(2). Pub. L. 96–513, §513(17), substituted "September 8, 1980" for "the date of the enactment ofthe Department of Defense Authorization Act, 1981" wherever appearing.
 
 Pub. L. 96–342, designated existing provisions as subpar. (A), inserted provision limiting applicability to officers who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
 
-Subsec. (d). Pub. L. 96–513, §336(d), provided that Navy lieutenants designated for limited duty and MarineCorps captains similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection.
+Subsec. (d). Pub. L. 96–513, §336(d), provided that Navy lieutenants designated for limited duty and Marine Corps captains similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection.
 
 Subsec. (e). Pub. L. 96–513, §336(d), designated existing provisions as par. (1), provided that Navy lieutenants (junior grade) designated for limited duty and Marine Corps first lieutenants similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection, and added par. (2).
 

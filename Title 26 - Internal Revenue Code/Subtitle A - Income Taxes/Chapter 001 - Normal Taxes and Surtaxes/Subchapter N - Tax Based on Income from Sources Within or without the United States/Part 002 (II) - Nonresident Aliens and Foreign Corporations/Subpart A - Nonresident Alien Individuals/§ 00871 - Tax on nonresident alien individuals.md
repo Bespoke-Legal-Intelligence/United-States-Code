@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) a sale or exchange of an original issue discount obligation, the amount of the original issue discount accruing while such obligation was held by the nonresident alien individual (to the extent such discount was not theretofore taken into account under clause (ii)), and
 
-&emsp;&emsp;&emsp;(ii) a payment on an original issue discount obligation, an amount equal to the original issue discount accruing while such obligation was held by the nonresident alien individual (except that such original issue discount shall be taken into account under this clause only to the extent such discount was not theretofore taken into account under this clause and only to the extent that the tax thereon does not exceed the payment less the tax imposed by subparagraph (A) thereon), and
+&emsp;&emsp;&emsp;(ii) a payment on an original issue discount obligation, an amount equal to the original issue discount accruing while such obligation was held by the nonresidentalien individual (except that such original issue discount shall be taken into account under this clause only to the extent such discount was not theretofore taken into account under this clause and only to the extent that the tax thereon does not exceed the payment less the tax imposed by subparagraph (A) thereon), and
 
 &emsp;&emsp;(D) gains from the sale or exchange after October 4, 1966, of patents, copyrights, secret processes and formulas, good will, trademarks, trade brands, franchises, and other like property, or of any interest in any such property, to the extent such gains are from payments which are contingent on the productivity, use, or disposition of the property or interest sold or exchanged,
 
@@ -22,7 +22,7 @@
 
 #### (2) Capital gains of aliens present in the United States 183 days or more
 
-&emsp;In the case of a nonresident alien individual present in the United States for a period or periods aggregating 183 days or more during the taxable year, there is hereby imposed for such year a tax of 30 percent of the amount by which his gains, derived from sources within the United States, from the sale or exchange at any time during such year of capital assets exceed his losses, allocable to sources within the United States, from the sale or exchange at any time during such year of capital assets. For purposes of this paragraph, gains and losses shall be taken into account only if, and to the extent that, they would be recognized and taken into account if such gains and losses were effectively connected with the conduct of a trade or business within the United States, except that such gains and losses shall be determined without regard to section 1202 and such losses shall be determined without the benefits of the capital loss carryover provided in section 1212. Any gain or loss which is taken into account in determining the tax under paragraph (1) or subsection (b) shall not be taken into account in determining the tax under this paragraph. For purposes of the 183-day requirement of this paragraph, a nonresident alien individual not engaged in trade or business within the United States who hasnot established a taxable year for any prior period shall be treated as having a taxable year which is the calendar year.
+&emsp;In the case of a nonresident alien individual present in the United States for a period or periods aggregating 183 days or more during the taxable year, there is hereby imposed for such year a tax of 30 percent of the amount by which his gains, derived from sources within the United States, from the sale or exchange at any time during such year of capital assets exceed his losses, allocable to sources within the United States, from the sale or exchange at any time during such year of capital assets. For purposes of this paragraph, gains and losses shall be taken into account only if, and to the extent that, they would be recognized and taken into account if such gains and losses were effectively connected with the conduct of a trade or business within the United States, except that such gains and losses shall be determined without regard to section 1202 and such losses shall be determined without the benefits of the capital loss carryover provided in section 1212. Any gain or loss which is taken into account in determining the tax under paragraph (1) or subsection (b) shall not be taken into account in determining the tax under this paragraph. For purposes of the 183-day requirement of this paragraph, a nonresident alien individual not engaged in trade or business within the United States who has not established a taxable year for any prior period shall be treated as having a taxable year which is the calendar year.
 
 #### (3) Taxation of social security benefits
 
@@ -240,7 +240,7 @@ For purposes of this section and section 881—
 
 &emsp;&emsp;(B) a securities clearing organization, a bank, or other financial institution that holds customers' securities in the ordinary course of its trade or business.
 
-> &emsp;The preceding sentence shall not apply to any statement with respect to payment of interest on any obligation by any person if, at least one month before such payment, the Secretary has published a determination that any statement from such person (or any class including such person) does not meet the requirements of this paragraph.
+> &emsp;The preceding sentence shall not apply to any statement with respect to payment of intereston any obligation by any person if, at least one month before such payment, the Secretary has published a determination that any statement from such person (or any class including such person) does not meet the requirements of this paragraph.
 
 #### (6) Secretary may provide subsection not to apply in cases of inadequate information exchange
 
@@ -712,7 +712,7 @@ Subsec. (a)(1)(C). Pub. L. 99–514, §1810(e)(2)(A), amended subpar. (C) genera
 
 &emsp;"(i) a sale or exchange of an original issue discount obligation, the amount of any gain not in excess of the original issue discount accruing while such obligation was held by the nonresident alien individual (to the extent such discount was not theretofore taken into account under clause (ii)), and
 
-&emsp;"(ii) the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this clause only to the extent that the taxthereon does not exceed the interest payment less the tax imposed by subparagraph (A) thereon), and".
+&emsp;"(ii) the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this clause only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by subparagraph (A) thereon), and".
 
 Subsec. (a)(1)(D). Pub. L. 99–514, §1211(b)(4), struck out "or from payments which are treated as being so contingent under subsection (e)," after "sold or exchanged,".
 
@@ -846,7 +846,7 @@ Estate tax treatment.—The amendment made by subsection (b) \[amending section 
 
 "(3)
 
-Certain other provisions.—The amendments made by subsection (c) \[amending section 897 of this title\] (other than paragraph (1) thereof) shall take effect after December 31, 2004."
+Certain other provisions.—The amendments made by subsection (c) \[amending section 897 of thistitle\] (other than paragraph (1) thereof) shall take effect after December 31, 2004."
 
 #### Effective Date of 1999 Amendment
 
@@ -964,7 +964,7 @@ Amendment by section 421(e)(4) of Pub. L. 95–600 applicable to taxable years b
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1012(a)(2) of Pub. L. 94–455 applicable to taxable years ending on or after Dec. 31,1975, see section 1012(d) of Pub. L. 94–455, set out as a note under section 6013 of this title.
+Amendment by section 1012(a)(2) of Pub. L. 94–455 applicable to taxable years ending on or after Dec. 31, 1975, see section 1012(d) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
 Amendment by section 1901(b)(3)(I) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -1014,7 +1014,7 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendments by sections 1211(b)(4), (5) and 1214(c)(1) of Pub. L. 99–514 to the extent application of such amendments would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendments by sections 1211(b)(4), (5) and 1214(c)(1) of Pub. L. 99–514 to the extent application of such amendments would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L.99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1998
 

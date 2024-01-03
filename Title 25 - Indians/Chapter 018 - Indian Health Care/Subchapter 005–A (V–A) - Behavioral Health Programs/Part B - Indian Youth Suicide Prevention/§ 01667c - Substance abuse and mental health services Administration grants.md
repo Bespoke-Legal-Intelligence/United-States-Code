@@ -80,7 +80,7 @@ Due to the rural, isolated nature of most Indian reservations and communities (e
 
 &emsp;The Secretary, acting through the Administration, shall carry out such measures (including monitoring and the provision of required assistance) as the Secretary determines to be necessary to ensure the provision of adequate suicide prevention and mental health services to Indian tribes described in paragraph (2), regardless of whether those Indian tribes possess adequate personnel or infrastructure—
 
-&emsp;&emsp;(A) to submit an application for a grant under any program administered by the Administration, including due to problems relating to access to the Internet or otherelectronic means that may have resulted in previous obstacles to submission of a grant application; or
+&emsp;&emsp;(A) to submit an application for a grant under any program administered by the Administration, including due to problems relating to access to the Internet or other electronic means that may have resulted in previous obstacles to submission of a grant application; or
 
 &emsp;&emsp;(B) to fulfill all applicable requirements of the relevant program.
 

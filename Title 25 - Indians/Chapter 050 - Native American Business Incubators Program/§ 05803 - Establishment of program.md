@@ -160,7 +160,7 @@ The Secretary shall establish a program in the Office of Indian Energy and Econo
 
 #### (B) More frequent disbursements
 
-&emsp;&emsp;On request by the applicant, the Secretary may make disbursements of grant funds more frequently than annually, on the condition that disbursements shall be made not more frequently than quarterly.
+&emsp;&emsp;On request by the applicant, the Secretary may make disbursements of grant fundsmore frequently than annually, on the condition that disbursements shall be made not more frequently than quarterly.
 
 #### (3) Non-Federal contributions for initial assistance
 

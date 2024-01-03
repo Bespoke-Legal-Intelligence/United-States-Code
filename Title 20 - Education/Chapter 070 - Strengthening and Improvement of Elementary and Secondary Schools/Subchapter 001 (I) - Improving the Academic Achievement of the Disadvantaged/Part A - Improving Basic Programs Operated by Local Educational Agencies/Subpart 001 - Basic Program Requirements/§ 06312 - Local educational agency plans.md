@@ -22,7 +22,7 @@
 
 #### (B) Approval
 
-&emsp;&emsp;The State educational agency shall approve a local educational agency's plan onlyif the State educational agency determines that the local educational agency's plan—
+&emsp;&emsp;The State educational agency shall approve a local educational agency's plan only if the State educational agency determines that the local educational agency's plan—
 
 &emsp;&emsp;&emsp;(i) provides that schools served under this part substantially help children served under this part meet the challenging State academic standards; and
 
@@ -100,7 +100,7 @@ Each local educational agency plan shall provide assurances that the local educa
 
 &emsp;(3) participate, if selected, in the National Assessment of Educational Progress in reading and mathematics in grades 4 and 8 carried out under section 9622(b)(3) of this title;
 
-&emsp;(4) coordinate and integrate services provided under this part with other educational services at the local educational agency or individual school level, such as services for English learners, children with disabilities, migratory children, American Indian, Alaska Native, and Native Hawaiian children, and homeless children and youths, in order to increase program effectiveness, eliminate duplication, and reduce fragmentation of the instructional program;
+&emsp;(4) coordinate and integrate services provided under this part with other educational services at the local educational agency or individual school level, such as services for English learners, children with disabilities,migratory children, American Indian, Alaska Native, and Native Hawaiian children, and homeless children and youths, in order to increase program effectiveness, eliminate duplication, and reduce fragmentation of the instructional program;
 
 &emsp;(5) collaborate with the State or local child welfare agency to—
 
@@ -160,7 +160,7 @@ For local educational agencies using funds under this part for the purposes desc
 
 #### (A) In general
 
-&emsp;&emsp;At the beginning of each school year, a local educational agency that receives funds under this part shall notify the parents of each student attending any school receiving funds under this part that the parents may request, and the local educational agency will provide the parents on request (and in a timely manner), information regarding any State or local educational agency policy regarding student participation in any assessments mandated by section 6311(b)(2) of this title and by the State or local educational agency, which shall include a policy, procedure, or parental right to opt the child out of such assessment, where applicable.
+&emsp;&emsp;At the beginning of each school year, a local educational agency that receives funds under this part shall notify the parents of each student attending any school receiving funds under this part that the parents may request, and the local educational agency will provide the parents on request (and in a timely manner), information regarding anyState or local educational agency policy regarding student participation in any assessments mandated by section 6311(b)(2) of this title and by the State or local educational agency, which shall include a policy, procedure, or parental right to opt the child out of such assessment, where applicable.
 
 #### (B) Additional information
 
@@ -208,7 +208,7 @@ For local educational agencies using funds under this part for the purposes desc
 
 &emsp;&emsp;&emsp;&emsp;(II) detailing the options that parents have to decline to enroll their child in such program or to choose another program or method of instruction, if available; and
 
-&emsp;&emsp;&emsp;&emsp;(III) assisting parents in selecting among various programs and methods ofinstruction, if more than 1 program or method is offered by the eligible entity.
+&emsp;&emsp;&emsp;&emsp;(III) assisting parents in selecting among various programs and methods of instruction, if more than 1 program or method is offered by the eligible entity.
 
 #### (B) Special rule applicable during the school year
 

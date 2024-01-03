@@ -6,7 +6,7 @@ A desert-land entry made or held under the desert-land laws before the entrance 
 
 &emsp;(1) for failure to expend any required amount per acre per year in improvements upon the claim;
 
-&emsp;(2) for failure to effect the reclamation of the claim during the period the entryman or the entryman's successor in interest is in the military service, or for 180 days after termination of or release from military service; or
+&emsp;(2) for failure to effect the reclamation of the claim during the period the entryman or the entryman's successor in interest is in themilitary service, or for 180 days after termination of or release from military service; or
 
 &emsp;(3) during any period of hospitalization or rehabilitation due to an injury or disability incurred in the line of duty.
 
@@ -14,7 +14,7 @@ A desert-land entry made or held under the desert-land laws before the entrance 
 
 #### (b) Service-related disability
 
-If an entryman or claimant is honorably discharged and is unable to accomplish reclamation of, and payment for, desert land due to a disability incurred in the line of duty, theentryman or claimant may make proof without further reclamation or payments, under regulations prescribed by the Secretary of the Interior, and receive a patent for the land entered or claimed.
+If an entryman or claimant is honorably discharged and is unable to accomplish reclamation of, and payment for, desert land due to a disability incurred in the line of duty, the entryman or claimant may make proof without further reclamation or payments, under regulations prescribed by the Secretary of the Interior, and receive a patent for the land entered or claimed.
 
 #### (c) Filing requirement
 

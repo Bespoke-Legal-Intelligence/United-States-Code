@@ -50,7 +50,7 @@ The Secretary may make grants to any eligible coastal state to assist that state
 
 #### (d) State matching contributions; ratio; maximum amount of grants
 
-(1) The Secretary may make grants to any coastal state for the purpose of carrying out theproject or purpose for which such grants are awarded, if the state matches any such grant according to the following ratios of Federal to state contributions for the applicable fiscal year: 4 to 1 for fiscal year 1986; 2.3 to 1 for fiscal year 1987; 1.5 to 1 for fiscal year 1988; and 1 to 1 for each fiscal year after fiscal year 1988.
+(1) The Secretary may make grants to any coastal state for the purpose of carrying out the project or purpose for which such grants are awarded, if the state matches any such grant according to the following ratios of Federal tostate contributions for the applicable fiscal year: 4 to 1 for fiscal year 1986; 2.3 to 1 for fiscal year 1987; 1.5 to 1 for fiscal year 1988; and 1 to 1 for each fiscal year after fiscal year 1988.
 
 (2) Grants provided under this section may be used to pay a coastal state's share of costs required under any other Federal program that is consistent with the purposes of this section.
 

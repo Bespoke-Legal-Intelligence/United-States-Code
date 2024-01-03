@@ -29,6 +29,124 @@ A prior chapter 223 "PLANNING AND SOLICITATION RELATING TO PARTICULAR ITEMS OR S
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Pilot Program To Analyze and Monitor Certain Supply Chains
+
+Pub. L. 118–31, div. A, title VIII, §856, Dec. 22, 2023, 137 Stat. 345, provided that:
+
+"(a)
+
+In General.—Not later than 90 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Under Secretary of Defense for Acquisition and Sustainment shall establish and carry out a pilot program to analyze, map, and monitor supply chains for up to five covered weapons platforms, under which the Under Secretary shall—
+
+&emsp;"(1) identify impediments to production and opportunities to expand the production of components of such a covered weapons platform;
+
+&emsp;"(2) identify potential risks to and vulnerabilities of suppliers for such covered weapons platforms and ways to mitigate such risks; and
+
+&emsp;"(3) identify critical suppliers for such covered weapons platforms.
+
+"(b)
+
+Use of Tools.—The Under Secretary may use a combination of commercial tools and tools available to the Department of Defense to carry out the program established under this section, including artificial intelligence and machine learning tools to improve data analysis capabilities for such supply chains.
+
+"(c)
+
+Annual Reports.—Not later than one year after the date of the enactment of this Act, and annuallythereafter until the date specified in subsection (d), the Under Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing—
+
+&emsp;"(1) a list of the vulnerabilities of the supply chains for each covered weapons platform selected under subsection (a), categorized by severity of threat or risk to deployment of such a platform;
+
+&emsp;"(2) for each vulnerability, a description of such vulnerability, whether such vulnerability has been resolved, and, if resolved, the time from identification to resolution; and
+
+&emsp;"(3) an assessment of any efficiencies achieved by addressing impediments to the supply chain.
+
+"(d)
+
+Termination.—The authority to carry out the pilot program under this section shall terminate on January 1, 2028.
+
+"(e)
+
+Covered Weapons Platform Defined.—In this section, the term 'covered weapons platform' means any weapons platform identified in the reports submitted under section 1251(d)(1) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 \[Pub. L. 116–283\] (10 U.S.C. 113 note)."
+
+#### Pilot Program Relating to Semiconductor Supply Chain and Cybersecurity Collaboration Center
+
+Pub. L. 118–31, div. A, title XV, §1513, Dec. 22, 2023, 137 Stat. 543, provided that:
+
+"(a)
+
+Establishment.—Not later than 90 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense, in coordination with the Director of the National Security Agency, shall commence the conduct of a pilot program under which the Cybersecurity Collaboration Center of the National Security Agency may collaborate with, including by entering into contracts or other agreements with, eligible persons under subsection (c), for the purpose of assessing the feasibility and advisability of improving the cybersecurity of the semiconductor supply chain (in this section referred to as the 'pilot program').
+
+"(b)
+
+Program Objectives.—Under the pilot program, the Secretary of Defense shall seek to improve the cybersecurity of the supply chain for the design, manufacturing, assembly, packaging, and testing of semiconductors, including through the following:
+
+&emsp;"(1) Improving the cybersecurity of processes for such design, manufacturing, assembly, packaging, and testing.
+
+&emsp;"(2) Protecting against cyber-driven intellectual property theft with respect to such design, manufacturing, assembly, packaging, and testing.
+
+&emsp;"(3) Reducing the risk of disruptions caused by cyberattacks to the supply chain for such design, manufacturing, assembly, packaging, and testing.
+
+"(c)
+
+Eligibility.—A person is eligible to participate in the pilot program if such person—
+
+&emsp;"(1) directly supports the design, manufacturing, assembly, packaging, or testing of semiconductors within the United States; and
+
+&emsp;"(2) provides semiconductor components for the Department of Defense, any national security system (as such term is defined in section 3552(b) of title 44, United States Code), or the defense industrial base.
+
+"(d)
+
+Briefings.—
+
+&emsp;"(1)
+
+Initial briefing.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall provide to the appropriate congressional committees an initial briefing on the pilot program.
+
+&emsp;&emsp;"(B)
+
+Elements.—The briefing under subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) A description of the status of the implementation of the pilot program.
+
+&emsp;&emsp;&emsp;"(ii) An identification of key priorities for the pilot program.
+
+&emsp;&emsp;&emsp;"(iii) An identification of any challenges to implementing the pilot program or impediments to participation in the pilot program by eligible persons under subsection (c).
+
+&emsp;"(2)
+
+Annual briefings.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than one year after the date of the initial briefing under paragraph (1), and annually thereafter until the date of termination under subsection (f), the Secretary of Defense shall provide to the appropriate congressional committees a briefing on the progress of the pilot program.
+
+&emsp;&emsp;"(B)
+
+Elements.—Each briefing under subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) Recommendations for addressing relevant policy, budgetary, security, and legislative gaps to increase the effectiveness of the pilot program, including, with respect to the first briefing under such subparagraph, an assessment of the resources necessary for successful implementation of the pilot program.
+
+&emsp;&emsp;&emsp;"(ii) Recommendations for increasing participation in the pilot program by eligible persons under subsection (c).
+
+&emsp;&emsp;&emsp;"(iii) A description of any challenges encountered in carrying out the pilot program, including any concerns expressed by manufacturers of semiconductors or suppliers of semiconductor components.
+
+&emsp;&emsp;&emsp;"(iv) The findings of the Secretary, in consultation with the Director of the National Security Agency, with respect to the feasibility and advisability of extending or expanding the pilot program.
+
+&emsp;&emsp;&emsp;"(v) Such other matters as the Secretary considers appropriate.
+
+"(e)
+
+Termination.—The pilot program shall terminate on the date that is four years after the date of the enactment of this Act \[Dec. 22, 2023\].
+
+"(f)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives; and
+
+&emsp;"(2) the Committee on Armed Services and the Select Committee on Intelligence of the Senate."
+
 #### Quantifiable Assurance Capability for Security of Microelectronics
 
 Pub. L. 117–263, div. A, title II, §219, Dec. 23, 2022, 136 Stat. 2477, provided that:
@@ -59,7 +177,7 @@ Assessment.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall assess whether the Department of Defense, to enable expanded use of unprogrammed application specific integrated circuits or other custom-designed integrated circuits manufactured by a supplier that is not using processes accredited by the Defense Microelectronics Activity for the purpose of enabling the Department to access commercial state-of-the-art microelectronics technology using risk-based quantifiable assurance security methodology, should—
+In general.—The Secretary of Defense shall assess whether the Department of Defense, to enableexpanded use of unprogrammed application specific integrated circuits or other custom-designed integrated circuits manufactured by a supplier that is not using processes accredited by the Defense Microelectronics Activity for the purpose of enabling the Department to access commercial state-of-the-art microelectronics technology using risk-based quantifiable assurance security methodology, should—
 
 &emsp;&emsp;"(A) seek changes to the International Traffic in Arms Regulations under subchapter M of chapter I of title 22, Code of Federal Regulations, and Department of Defense Instruction 5200.44 (relating to protection of mission critical functions to achieve trusted systems and networks); and
 
@@ -271,7 +389,7 @@ Elements.—The strategy under subsection (a) shall include the following:
 
 &emsp;&emsp;"(A) developing a national laboratory exclusively focused on the research and development of microelectronics to serve as a center for Federal Government expertise in high-performing, trusted microelectronics and as a hub for Federal Government research into breakthrough microelectronics-related technologies; and
 
-&emsp;&emsp;"(B) incorporating into such national laboratory a commercial incubator to provide early-stage microelectronics startups, which face difficulties scaling due to the high costs of microelectronics design and fabrication, with access to funding resources, fabrication facilities, design tools, and shared intellectual property.
+&emsp;&emsp;"(B) incorporating into such national laboratory a commercial incubator to provide early-stage microelectronics startups, which face difficultiesscaling due to the high costs of microelectronics design and fabrication, with access to funding resources, fabrication facilities, design tools, and shared intellectual property.
 
 &emsp;"(16) The development of multiple models of public-private partnerships to execute the strategy, including in-depth analysis of establishing a semiconductor manufacturing corporation to leverage private sector technical, managerial, and investment expertise, and private capital, that would have the authority and funds to provide grants or approve investment tax credits, or both, to implement the strategy.
 
@@ -357,7 +475,7 @@ Avoidance of Use of Lowest Price Technically Acceptable Source Selection Criteri
 
 &emsp;"(3) knowledge-based training or logistics services in contingency operations or other operations outside the United States, including in Afghanistan or Iraq."
 
-\[Pub. L. 115–91, div. A, title VIII, §822(b)(2), Dec. 12, 2017, 131 Stat. 1465, provided that: "The amendment made by this subsection \[amending section 813 of Pub. L. 114–328, set out above\] shall apply with respect to the second, third, and fourth reports submitted under \[former\] subsection (d) of section 813 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat 2271; 10 U.S.C. 2305 note)."\]
+\[Pub. L. 115–91, div. A, title VIII, §822(b)(2), Dec. 12, 2017, 131 Stat. 1465, provided that: "The amendment made by this subsection \[amending section 813 of Pub. L. 114–328, set out above\] shall apply with respect to the second, third, and fourth reports submitted under\[former\] subsection (d) of section 813 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat 2271; 10 U.S.C. 2305 note)."\]
 
 #### Use of Commercial or Non-Government Standards in Lieu of Military Specifications and Standards
 
@@ -409,7 +527,7 @@ Review of Anti-competitive Specifications in Information Technology Acquisitions
 
 &emsp;"(1)
 
-Review required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Under Secretary of Defense for Acquisition and Sustainment shall conduct a review of the policy,guidance, regulations, and training related to specifications included in information technology acquisitions to ensure current policies eliminate the unjustified use of potentially anti-competitive specifications. In conducting the review, the Under Secretary shall examine the use of brand names or proprietary specifications or standards in solicitations for procurements of goods and services, as well as the current acquisition training curriculum related to those areas.
+Review required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Under Secretary of Defense for Acquisition and Sustainment shall conduct a review of the policy, guidance, regulations, and training related to specifications included in information technology acquisitions to ensure current policies eliminate the unjustified use of potentially anti-competitive specifications. In conducting the review, the Under Secretary shall examine the use of brand names or proprietary specifications or standards in solicitations for procurements of goods and services, as well as the current acquisition training curriculum related to those areas.
 
 &emsp;"(2)
 
@@ -453,7 +571,7 @@ Pub. L. 113–291, div. A, title VIII, §852, Dec. 19, 2014, 128 Stat. 3458, as 
 
 #### Detection and Avoidance of Counterfeit Electronic Parts
 
-Pub. L. 112–81, div. A, title VIII, §818(a)–(g), Dec. 31, 2011, 125 Stat. 1493–1496, as amended by Pub. L. 112–239, div. A, title VIII, §833, Jan. 2, 2013, 126 Stat. 1844; Pub. L. 113–291, div. A, title VIII, §817, Dec. 19, 2014, 128 Stat. 3432; Pub. L. 114–92, div. A, title VIII, §885, Nov. 25, 2015, 129 Stat. 948; Pub. L. 114–328, div. A, title VIII, §815, Dec. 23, 2016, 130 Stat. 2271; Pub. L. 115–232, div. A, title VIII, §812(b)(5), Aug. 13, 2018, 132 Stat. 1848, provided that:
+Pub. L. 112–81, div. A, title VIII, §818(a)–(g), Dec. 31, 2011, 125 Stat. 1493–1496, as amended by Pub. L. 112–239,div. A, title VIII, §833, Jan. 2, 2013, 126 Stat. 1844; Pub. L. 113–291, div. A, title VIII, §817, Dec. 19, 2014, 128 Stat. 3432; Pub. L. 114–92, div. A, title VIII, §885, Nov. 25, 2015, 129 Stat. 948; Pub. L. 114–328, div. A, title VIII, §815, Dec. 23, 2016, 130 Stat. 2271; Pub. L. 115–232, div. A, title VIII, §812(b)(5), Aug. 13, 2018, 132 Stat. 1848, provided that:
 
 "(a)
 
@@ -683,7 +801,7 @@ Pub. L. 111–84, div. A, title VIII, §820, Oct. 28, 2009, 123 Stat. 2410, prov
 
 "(a)
 
-Requirement to Publish Notification for Bundling.—A contracting officer of the Department of Defense carrying out a covered acquisition shall publish a notification consistent with the requirements of paragraph (c)(2) of subpart 10.001 of the Federal Acquisition Regulation on the website known as FedBizOpps.gov (or any successor site) at least 30 days prior to the release of a solicitation for such acquisition and, if the agency has determined that measurably substantialbenefits are expected to be derived as a result of bundling such acquisition, shall include in the notification a brief description of the benefits.
+Requirement to Publish Notification for Bundling.—A contracting officer of the Department of Defense carrying out a covered acquisition shall publish a notification consistent with the requirements of paragraph (c)(2) of subpart 10.001 of the Federal Acquisition Regulation on the website known as FedBizOpps.gov (or any successor site) at least 30 days prior to the release of a solicitation for such acquisition and, if the agency has determined that measurably substantial benefits are expected to be derived as a result of bundling such acquisition, shall include in the notification a brief description of the benefits.
 
 "(b)
 
@@ -739,7 +857,7 @@ Full and open competition.—The full and open competition described in this par
 
 &emsp;&emsp;"(A) is open to all developmental item solutions and non-developmental item solutions; and
 
-&emsp;&emsp;"(B) provides for the award of a contract based on selection criteria that reflect the key performance parameters and attributes identified in a service requirements document approved by the Army.
+&emsp;&emsp;"(B) provides for the award of a contract based on selection criteria that reflect the key performanceparameters and attributes identified in a service requirements document approved by the Army.
 
 "(c)
 
@@ -843,7 +961,7 @@ Definitions.—In this section:
 
 #### Enhanced Authority To Acquire Products and Services Produced in Afghanistan
 
-Pub. L. 110–181, div. A, title VIII, §886, Jan. 28, 2008, 122 Stat. 266, as amended by Pub. L. 112–239, div. A, title VIII, §842, Jan. 2, 2013, 126 Stat. 1845; Pub. L. 114–92, div. A, title VIII, §886(a), Nov. 25, 2015, 129 Stat. 949, provided that:
+Pub. L. 110–181, div. A, title VIII, §886, Jan. 28, 2008, 122 Stat. 266, as amended by Pub. L. 112–239, div. A, titleVIII, §842, Jan. 2, 2013, 126 Stat. 1845; Pub. L. 114–92, div. A, title VIII, §886(a), Nov. 25, 2015, 129 Stat. 949, provided that:
 
 "(a)
 
@@ -897,7 +1015,7 @@ Pub. L. 110–181, div. A, title VIII, §890, Jan. 28, 2008, 122 Stat. 269, as a
 
 "(a)
 
-Prevention of Export Control Violations.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall prescribe regulations requiring any contractor under a contract with the Department of Defense to provide goods or technology that is subject to export controls under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] or the Export Administration Act of 1979 \[50 U.S.C. 4601 et seq.\] (as continued in effect under the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\]) to comply with those Acts and applicable regulations with respect to such goods andtechnology, including the International Traffic in Arms Regulations and the Export Administration Regulations. Regulations prescribed under this subsection shall include a contract clause enforcing such requirement.
+Prevention of Export Control Violations.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall prescribe regulations requiring any contractor under a contract with the Department of Defense to provide goods or technology that is subject to export controls under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] or the Export Administration Act of 1979 \[50 U.S.C. 4601 et seq.\] (as continued in effect under the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\]) to comply with those Acts and applicable regulations with respect to such goods and technology, including the International Traffic in Arms Regulations and the Export Administration Regulations. Regulations prescribed under this subsection shall include a contract clause enforcing such requirement.
 
 "(b)
 
@@ -989,7 +1107,7 @@ Implementation of Demonstration Project.—The Secretary of Defense shall begin 
 
 "(e)
 
-Report on Demonstration Project.—Not later than six months after award of a contract under thedemonstration project, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report setting forth a review of the demonstration project and recommendations on the actions, if any, that can be implemented to ensure compliance by the Department of Defense with Executive Order No. 12989.
+Report on Demonstration Project.—Not later than six months after award of a contract under the demonstration project, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report setting forth a review of the demonstration project and recommendations on the actions, if any, that can be implemented to ensure compliance by the Department of Defense with Executive Order No. 12989.
 
 "(f)
 
@@ -1031,7 +1149,7 @@ Assessment of Training and Education.—The Secretary of Defense shall assess th
 
 "(c)
 
-Reporting Requirement.—Not later than March 1, 2004, and each March 1 thereafter through 2007, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report detailing the results obtained from the tracking system developed under subsection (a).
+Reporting Requirement.—Not later than March 1, 2004, and each March 1 thereafter through 2007, theSecretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report detailing the results obtained from the tracking system developed under subsection (a).
 
 "(d)
 

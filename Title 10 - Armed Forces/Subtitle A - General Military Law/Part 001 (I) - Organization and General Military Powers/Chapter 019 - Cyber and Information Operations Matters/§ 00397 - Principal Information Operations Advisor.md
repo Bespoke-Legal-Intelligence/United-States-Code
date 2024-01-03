@@ -94,7 +94,7 @@ Treatment of Clandestine Military Operations in the Information Environment as T
 
 "(d)
 
-Quarterly Information Operations Briefings.—(1) Not less frequently than once each quarter, the Secretary of Defense shall provide the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on significant military operations, including all clandestine operations in the information environment, carried out by the Department of Defense during the immediately preceding quarter.
+Quarterly Information Operations Briefings.—(1) Not less frequently than once each quarter,the Secretary of Defense shall provide the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on significant military operations, including all clandestine operations in the information environment, carried out by the Department of Defense during the immediately preceding quarter.
 
 "(2) Each briefing under paragraph (1) shall include, with respect to the military operations in the information environment described in such paragraph, the following:
 

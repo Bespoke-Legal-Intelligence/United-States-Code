@@ -206,7 +206,7 @@ The text of subsec. (d) of section 2304 of this title, which was transferred to 
 
 The text of subsec. (e) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (d), and amended by Pub. L. 116–283, §1811(d)(5), was based on Pub. L. 98–369, div. B, title VII, §2723(a)(1)(C), July 18, 1984, 98 Stat. 1187.
 
-The text of subsec. (f) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (e), and amended by Pub. L. 116–283, §1811(d)(6), was based on Pub. L. 98–369, div. B, title VII, §2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 98–577, title V, §504(b)(2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 100–26, §7(d)(3)(A), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§817, 818, Nov. 29, 1989, 103 Stat. 1501, 1502; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §1003, Oct. 13, 1994, 108 Stat. 3249; Pub. L. 104–106, div. D, title XLI, §§4102(a), title XLIII, §4321(b)(4), Feb. 10, 1996, 110 Stat. 643, 672; Pub. L. 105–85, div. A, title VIII, §841(b), title X, §1073(a)(43), Nov. 18, 1997, 111 Stat. 1843, 1902; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 108–375, div. A, title VIII, §815, Oct. 28, 2004, 118 Stat. 2015; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title VIII, §844(b)(2), Jan. 28, 2008, 122 Stat. 239; Pub. L. 111–350, §5(b)(12)(A)–(C), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 115–91, div. A, title XVII, §1709(b)(2), Dec. 12, 2017, 131 Stat. 1809; Pub. L. 115–232, div. A, title VIII, §836(c)(2)(A), Aug. 13, 2018, 132 Stat. 1864; Pub. L. 116–92, div. A, title IX, §902(39), title XVII, §1731(a)(37), Dec. 20, 2019, 133 Stat. 1547, 1814.
+The text of subsec. (f) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (e), and amended by Pub. L. 116–283, §1811(d)(6), was based on Pub. L. 98–369, div. B, title VII, §2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 98–577, title V, §504(b)(2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 100–26, §7(d)(3)(A), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§817, 818, Nov. 29, 1989, 103 Stat. 1501, 1502; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §1003, Oct. 13, 1994, 108 Stat. 3249; Pub. L. 104–106, div. D, title XLI, §§4102(a), title XLIII, §4321(b)(4), Feb. 10, 1996, 110 Stat. 643, 672; Pub. L. 105–85, div. A, title VIII, §841(b), title X, §1073(a)(43), Nov. 18, 1997, 111 Stat. 1843, 1902; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 108–375, div. A, title VIII, §815, Oct. 28, 2004, 118 Stat. 2015; Pub.L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title VIII, §844(b)(2), Jan. 28, 2008, 122 Stat. 239; Pub. L. 111–350, §5(b)(12)(A)–(C), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 115–91, div. A, title XVII, §1709(b)(2), Dec. 12, 2017, 131 Stat. 1809; Pub. L. 115–232, div. A, title VIII, §836(c)(2)(A), Aug. 13, 2018, 132 Stat. 1864; Pub. L. 116–92, div. A, title IX, §902(39), title XVII, §1731(a)(37), Dec. 20, 2019, 133 Stat. 1547, 1814.
 
 The text of subsec. (l) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (f), and amended by Pub. L. 116–283, §1811(d)(7), was based on Pub. L. 110–181, div. A, title VIII, §844(b)(1), Jan. 28, 2008, 122 Stat. 239.
 
@@ -284,7 +284,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 #### Pilot Program To Incentivize Contracting With Employee-Owned Businesses
 
-Pub. L. 117–81, div. A, title VIII, §874, Dec. 27, 2021, 135 Stat. 1863, provided that:
+Pub. L. 117–81, div. A, title VIII, §874, Dec. 27, 2021, 135 Stat. 1863, as amended by Pub. L. 118–31, div. A, title VIII, §872, Dec. 22, 2023, 137 Stat. 349, provided that:
 
 "(a)
 
@@ -296,15 +296,15 @@ Pilot Program to Use Noncompetitive Procedures for Certain Follow-on Contracts t
 
 &emsp;"(1)
 
-Establishment.—The Secretary of Defense may establish a pilot program to carry out the requirements of this section.
+Establishment.—The Secretary of Defense may establish a pilot program and prescribe regulations to carry out the requirements of this section.
 
 &emsp;"(2)
 
-Follow-on contracts.—Notwithstanding the requirements of section 2304 of title 10, United States Code \[see 10 U.S.C. 3201 et seq.\], and with respect to a follow-on contract for the continued development, production, or provision of products or services that are the same as or substantially similar to the products or services procured by the Department of Defense under a prior contract held by a qualified business wholly-owned through an Employee Stock Ownership Plan, the products or services to be procured under the follow-on contract may be procured by the Department of Defense through procedures other than competitive procedures if the performance of the qualified business wholly-owned through an Employee Stock Ownership Plan on the prior contract was rated as satisfactory (or the equivalent) or better in the applicable past performance database.
+Follow-on contracts.—Notwithstanding the requirements of section 2304 of title 10, United States Code \[see 10 U.S.C. 3201 et seq.\], and with respect to a follow-on contract for the continued development, production, or provision of products or services that are the same as or substantially similar to the products or services procured by or for the Department of Defense under a prior contract held by a qualified business wholly-owned through an Employee Stock Ownership Plan, the products or services to be procured under the follow-on contract may be procured by or for the Department of Defense through procedures other than competitive procedures if the performance of the qualified business wholly-owned through an Employee Stock Ownership Plan on the prior contract was rated as satisfactory (or the equivalent) or better in the applicable past performance database.
 
 &emsp;"(3)
 
-Limitation.—A qualified business wholly-owned through an Employee Stock Ownership Plan may have a single opportunity for award of a sole-source follow-on contract under this section, unless a senior contracting official (as defined in section 1737 of title 10, United States Code) approves a waiver of the requirements of this section.
+Limitation.—Each contract held by a qualified business wholly-owned through an Employee Stock Ownership Plan may have a single opportunity for award of a sole-source follow-on contract under this section, unless a senior contracting official (as defined in section 1737 of title 10, United States Code) approves a waiver of the requirements of this section.
 
 "(c)
 
@@ -312,7 +312,13 @@ Verification and Reporting of Qualified Businesses Wholly-owned Through an Emplo
 
 &emsp;"(1) for businesses to verify status as a qualified businesses wholly-owned through an Employee Stock Ownership Plan for the purposes of this section by using existing Federal reporting mechanisms;
 
-&emsp;"(2) for a qualified businesses wholly-owned through an Employee Stock Ownership Plan to certify that not more than 50 percent of the amount paid under the contract will be expended on subcontracts, subject to such necessary and reasonable waivers as the Secretary may prescribe; and
+&emsp;"(2) for a qualified businesses wholly-owned through an Employee Stock Ownership Plan to certify that not more than 50 percent of the amount paid under the contract will be expended on subcontracts, except—
+
+&emsp;&emsp;"(A) to the extent subcontracted amounts exceeding 50 percent are subcontracted to other qualified businesses wholly-owned through an Employee Stock Ownership Plan;
+
+&emsp;&emsp;"(B) in the case of contracts for products, to the extent subcontracted amounts exceeding 50 percent are for materials not available from another qualified business wholly-owned through an Employee Stock Ownership Plan; or
+
+&emsp;&emsp;"(C) pursuant to such necessary and reasonable waivers as the Secretary may prescribe; and
 
 &emsp;"(3) to record information on each follow-on contract awarded under subsection (b), including details relevant to the nature of such contract and the qualified business wholly-owned through an Employee Stock Ownership Plan that received such contract, and to provide such information to the Comptroller General of the United States.
 
@@ -326,7 +332,7 @@ In general.—If the Secretary of Defense establishes a pilot program under this
 
 &emsp;&emsp;"(A) developing and sharing best practices relating to the pilot program;
 
-&emsp;&emsp;"(B) providing information to leadership and the congressional defense committees \[Committees onArmed Services and Appropriations of the Senate and the House of Representatives\] on the pilot program, including with respect to each qualified business wholly-owned through an Employee Stock Ownership Plan that received a follow-on contract under this section—
+&emsp;&emsp;"(B) providing information to leadership and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on the pilot program, including with respect to each qualified business wholly-owned through an Employee Stock Ownership Plan that received a follow-on contract under this section—
 
 &emsp;&emsp;&emsp;"(i) the size of such business;
 
@@ -346,7 +352,7 @@ Limitation.—The Secretary of Defense may not carry out the pilot program under
 
 "(e)
 
-Sunset.—Any pilot program established under this section shall expire on the date that is five years after the date of the enactment of this Act \[Dec. 27, 2021\].
+Sunset.—Any pilot program established under this section shall expire on the date that is eight years after the date of the enactment of this Act \[Dec. 27, 2021\].
 
 "(f)
 

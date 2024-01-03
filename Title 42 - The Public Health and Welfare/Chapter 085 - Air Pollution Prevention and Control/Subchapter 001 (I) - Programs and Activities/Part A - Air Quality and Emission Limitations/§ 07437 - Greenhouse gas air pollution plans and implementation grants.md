@@ -4,7 +4,7 @@
 
 #### (1) Greenhouse gas air pollution planning grants
 
-&emsp;In addition to amounts otherwise available, there is appropriated to the Administrator forfiscal year 2022, out of any amounts in the Treasury not otherwise appropriated, $250,000,000, to remain available until September 30, 2031, to carry out subsection (b).
+&emsp;In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any amounts in the Treasury not otherwise appropriated, $250,000,000, to remain available until September 30, 2031, to carry out subsection (b).
 
 #### (2) Greenhouse gas air pollution implementation grants
 
@@ -26,7 +26,7 @@ The Administrator shall make a grant to at least one eligible entity in each Sta
 
 #### (2) Application
 
-&emsp;To apply for a grant under this subsection, an eligible entity shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator shall require, which such application shall include information regarding the degree to which greenhouse gas air pollution is projected to be reduced in total and with respect to low-income and disadvantaged communities.
+&emsp;To apply for a grant under this subsection, an eligible entity shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator shall require, which such application shall include information regarding the degree to which greenhouse gas air pollution is projected to be reduced in totaland with respect to low-income and disadvantaged communities.
 
 #### (3) Terms and conditions
 

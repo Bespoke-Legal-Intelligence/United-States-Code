@@ -36,7 +36,7 @@
 
 #### (b) Statements to be furnished to individuals involved in the settlement
 
-Every person required to make a return under subsection (a) shall furnish to each person who is a party to the suit or agreement a written statement showing—
+Every person required to make a return under subsection (a) shall furnish to each person whois a party to the suit or agreement a written statement showing—
 
 &emsp;(1) the name of the government or entity, and
 

@@ -58,7 +58,7 @@ Counsel for Missing Person.—(1) The Secretary appointing a board to conduct an
 
 &emsp;(B) have a security clearance that affords the counsel access to all information relating to the whereabouts and status of the person or persons covered by the inquiry; and
 
-&emsp;(C) have expertise in the law relating to missing persons, the determination of thedeath of such persons, and the rights of family members and dependents of such persons.
+&emsp;(C) have expertise in the law relating to missing persons, the determination of the death of such persons, and the rights of family members and dependents of such persons.
 
 (3) A missing person's counsel—
 
@@ -90,7 +90,7 @@ Report.—(1) A board appointed under this section shall submit to the Secretary
 
 (2) A board shall submit a report under this subsection with respect to the inquiry carried out by the board not later than 30 days after the date of the appointment of the board to carry out the inquiry. The report may include a classified annex.
 
-(3) The Secretary of Defense shall prescribe procedures for the release of a report submitted under this subsection with respect to a missing person. Such procedures shall provide that the report may not be made public (except as provided for in subsection (j)) until one year after the date on which the report is submitted.
+(3) The Secretary of Defense shall prescribe procedures for the release of a report submitted under this subsection with respect to a missing person. Such procedures shall provide that thereport may not be made public (except as provided for in subsection (j)) until one year after the date on which the report is submitted.
 
 (i)
 

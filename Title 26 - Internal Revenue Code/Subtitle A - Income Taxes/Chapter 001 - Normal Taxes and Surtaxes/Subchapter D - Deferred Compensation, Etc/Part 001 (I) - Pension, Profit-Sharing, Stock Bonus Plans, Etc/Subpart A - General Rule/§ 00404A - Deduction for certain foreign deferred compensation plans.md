@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (B) Redetermination where foreign tax deduction is adjusted
 
-&emsp;&emsp;If the deduction under foreign tax law is adjusted, the taxpayer shall notify the Secretary of such adjustment on or before thedate prescribed by regulations, and the Secretary shall redetermine the amount of the tax for the year or years affected. In any case described in the preceding sentence, rules similar to the rules of subsection (c) of section 905 shall apply.
+&emsp;&emsp;If the deduction under foreign tax law is adjusted, the taxpayer shall notify the Secretary of such adjustment on or before the date prescribed by regulations, and the Secretary shall redetermine the amount of the tax for the year or years affected. In any case described in the preceding sentence, rules similar to the rules of subsection (c) of section 905 shall apply.
 
 #### (3) Actuarial assumptions must be reasonable; full funding
 
@@ -266,7 +266,7 @@ Revocation only with consent.—An election under this paragraph may be revoked 
 
 &emsp;"(E)
 
-Open period.—For purposes of this subsection, the term 'open period' means, with respect to any taxpayer, all taxable years which begin before January 1, 1980, and which begin after December 31, 1971, and for which, on December 31, 1980, the making of a refund, or the assessment of a deficiency, was not barred by any law or rule of law.
+Open period.—For purposes of this subsection, the term 'open period' means, with respect to any taxpayer, all taxable years which begin before January 1, 1980, and which begin after December 31, 1971, and for which, on December 31, 1980, the making of arefund, or the assessment of a deficiency, was not barred by any law or rule of law.
 
 "(3)
 

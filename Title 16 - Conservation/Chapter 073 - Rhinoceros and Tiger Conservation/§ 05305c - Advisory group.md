@@ -12,7 +12,7 @@ To assist in carrying out this chapter, the Secretary may convene an advisory gr
 
 &emsp;&emsp;(A) ensure that each meeting of the advisory group is open to the public; and
 
-&emsp;&emsp;(B) provide, at each meeting, an opportunity for interested persons to present oralor written statements concerning items on the agenda.
+&emsp;&emsp;(B) provide, at each meeting, an opportunity for interested persons to present oral or written statements concerning items on the agenda.
 
 #### (2) Notice
 

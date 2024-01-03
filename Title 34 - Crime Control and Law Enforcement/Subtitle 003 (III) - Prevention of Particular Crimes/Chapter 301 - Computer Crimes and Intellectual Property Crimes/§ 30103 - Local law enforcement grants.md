@@ -44,7 +44,7 @@ The Office of Justice Programs of the Department of Justice may make grants to e
 
 #### (B) Limitation
 
-&emsp;&emsp;Of the amount made available to carry out this subsection in any fiscal year, not more than 3 percent may be used by the Attorney General for salaries and administrative expenses.
+&emsp;&emsp;Of the amount made available to carry out this subsection in any fiscal year, not more than 3 percent may be used by the AttorneyGeneral for salaries and administrative expenses.
 
 (Pub. L. 110–403, title IV, §401, Oct. 13, 2008, 122 Stat. 4271.)
 

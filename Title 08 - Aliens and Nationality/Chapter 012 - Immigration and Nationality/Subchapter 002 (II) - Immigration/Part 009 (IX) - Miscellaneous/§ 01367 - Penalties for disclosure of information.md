@@ -20,7 +20,7 @@ Except as provided in subsection (b), in no case may the Attorney General, or an
 
 > &emsp;unless the alien has been convicted of a crime or crimes listed in section 237(a)(2) of the Immigration and Nationality Act \[8 U.S.C. 1227(a)(2)\]; or
 
-&emsp;(2) permit use by or disclosure to anyone (other than a sworn officer or employee of the Department, or bureau or agency thereof, for legitimate Department, bureau, or agency purposes) of any information which relates to an alien who is the beneficiary of an application for relief under paragraph (15)(T), (15)(U), or\(51) of section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T), (U), (51)\] or section 240A(b)(2) of such Act \[8 U.S.C. 1229b(b)(2)\].
+&emsp;(2) permit use by or disclosure to anyone (other than a sworn officer or employee of the Department, or bureau or agency thereof, for legitimate Department, bureau, or agency purposes) of any information which relates to an alien who is the beneficiary of an application for relief under paragraph (15)(T), (15)(U), or (51) of section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T), (U), (51)\] or section 240A(b)(2) of such Act \[8 U.S.C. 1229b(b)(2)\].
 
 > The limitation under paragraph (2) ends when the application for relief is denied and all opportunities for appeal of the denial have been exhausted.
 
@@ -114,7 +114,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Implementation
 
-Pub. L. 113–4, title VIII, §810(c), Mar. 7, 2013, 127 Stat. 118, provided that: "Not later than 180 days after the date of the enactment of this Act \[Mar. 7, 2013\], the Attorney General, the Secretary of State, and Secretary of Homeland Security shall provide the guidance required by section 384(d) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1367(d)), consistent with the amendments made by subsections (a) and (b) \[amending this section\]."
+Pub. L. 113–4, title VIII, §810(c), Mar. 7, 2013, 127 Stat. 118, provided that: "Not later than 180 days after the date of the enactment of this Act \[Mar. 7, 2013\], the Attorney General, the Secretary of State, and Secretaryof Homeland Security shall provide the guidance required by section 384(d) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1367(d)), consistent with the amendments made by subsections (a) and (b) \[amending this section\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "or".</i>
 

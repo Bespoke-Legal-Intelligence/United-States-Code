@@ -14,7 +14,7 @@
 
 (2) In this subsection—
 
-&emsp;(A) the term "financial institution" includes a foreign bank (as defined in section 1(b)(7) of the International Banking Act of 1978 (12 U.S.C. 3101(b)(7))); <sup>1</sup> and
+&emsp;(A) the term "financial institution" includes a foreign bank (as defined in section 1(b)(7) ofthe International Banking Act of 1978 (12 U.S.C. 3101(b)(7))); <sup>1</sup> and
 
 &emsp;(B) the term "interbank account" means an account held by one financial institution at another financial institution primarily for the purpose of facilitating customer transactions.
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 106–185, §13(a)(1), redesignated subsec. (c) as (b). For
 
 Subsec. (c). Pub. L. 106–185, §13(a)(1), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (c)(1). Pub. L. 106–185, §13(a)(3)(A), added par. (1) and struck out former par. (1) which read as follows: "No action pursuant to this section to forfeit propertynot traceable directly to the offense that is the basis for the forfeiture may be taken against funds held by a financial institution in an interbank account, unless the financial institution holding the account knowingly engaged in the offense."
+Subsec. (c)(1). Pub. L. 106–185, §13(a)(3)(A), added par. (1) and struck out former par. (1) which read as follows: "No action pursuant to this section to forfeit property not traceable directly to the offense that is the basis for the forfeiture may be taken against funds held by a financial institution in an interbank account, unless the financial institution holding the account knowingly engaged in the offense."
 
 Subsec. (c)(2). Pub. L. 106–185, §13(a)(3)(B), substituted "In this subsection—" for "As used in this section, the term", added subpar. (A), and inserted "(B) the term" before " 'interbank account' means".
 

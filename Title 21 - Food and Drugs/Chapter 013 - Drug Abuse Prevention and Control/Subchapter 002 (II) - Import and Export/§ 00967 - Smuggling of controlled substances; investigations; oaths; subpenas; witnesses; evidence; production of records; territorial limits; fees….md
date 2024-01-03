@@ -16,7 +16,7 @@ Section was also formerly classified to section 198a of this title.
 
 #### Amendments
 
-<b>1970</b>—Pub. L. 91–513 substituted "section 545 of title 18 (relating to smuggling goods into the United States) with respect to any controlled substance (as defined in section 802 of this title)" for "the laws of the United States relating to narcotic drugs and marihuana" and substituted the customs territory of the United States for any State or any territory or other place subject to the jurisdiction of the United States is the defined area from within which the attendance of witnesses and the production of records may be required, and struck outprovisions making the discretion of the Secretary of the Treasury the determinative factor as to what is relevant or material to the investigation.
+<b>1970</b>—Pub. L. 91–513 substituted "section 545 of title 18 (relating to smuggling goods into the United States) with respect to any controlled substance (as defined in section 802 of this title)" for "the laws of the United States relating to narcotic drugs and marihuana" and substituted the customs territory of the United States for any State or any territory or other place subject to the jurisdiction of the United States is the defined area from within which the attendance of witnesses and the production of records may be required, and struck out provisions making the discretion of the Secretary of the Treasury the determinative factor as to what is relevant or material to the investigation.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

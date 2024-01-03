@@ -78,7 +78,7 @@
 
 &emsp;(B) Construction identifiable with the vessel has begun and assembly of that vessel has commenced comprising of at least 50 metric tons or one percent of the estimated mass of all structural material, whichever is less.
 
-(2) In the case of a vessel greater than 79 feet overall in length, for purposes of paragraph\(1)(A) a keel is deemed to be laid when a marine surveyor affirms that a structure adequate for serving as a keel for such vessel is in place and identified for use in the construction of such vessel.
+(2) In the case of a vessel greater than 79 feet overall in length, for purposes of paragraph (1)(A) a keel is deemed to be laid when a marine surveyor affirms that a structure adequate for serving as a keel for such vessel is in place and identified for use in the construction of such vessel.
 
 (Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(b), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1587; Pub. L. 111–281, title VI, §604(e)(1), Oct. 15, 2010, 124 Stat. 2966; Pub. L. 112–213, title III, §305(c), Dec. 20, 2012, 126 Stat. 1564; Pub. L. 114–120, title III, §318(a), Feb. 8, 2016, 130 Stat. 63; Pub. L. 114–328, div. C, title XXXV, §3503(a), (b)(2), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–282, title V, §§507, 508(a), (b), Dec. 4, 2018, 132 Stat. 4272; Pub. L. 117–263, div. K, title CXV, §11509(a)(2), Dec. 23, 2022, 136 Stat. 4137.)
 
@@ -166,5 +166,5 @@ Pub. L. 115–282, title V, §508(f), Dec. 4, 2018, 132 Stat. 4273, provided tha
 
 #### Construction of 2022 Amendment
 
-Nothing in amendment by Pub. L. 117–263 to be construed to affect or apply to any alternative compliance and safety agreement entered into by the Coast Guard that is in effect on Dec. 23, 2022, see section 11509(b) of Pub. L. 117–263, set out as a note under section 4502 of this title.
+Nothing in amendment by Pub. L. 117–263 to be construed to affect or apply to any alternative complianceand safety agreement entered into by the Coast Guard that is in effect on Dec. 23, 2022, see section 11509(b) of Pub. L. 117–263, set out as a note under section 4502 of this title.
 

@@ -34,7 +34,7 @@ The Administrator of the Agency shall establish criteria for determining which f
 
 #### (d) Additional requirement
 
-Assistance provided under this section may only be used to support programs for micro, small, and medium-sized enterprises and households and may not be used to support programs not directly related to the purposes described in subsection (b).
+Assistance provided under this section may only be used to support programs for micro, small, and medium-sized enterprises and households and may not be used to support programsnot directly related to the purposes described in subsection (b).
 
 #### (e) Procurement provision
 
@@ -62,7 +62,7 @@ Section 256, formerly 108, of Pub. L. 87–195 is based on section 407 of title 
 
 #### Prior Provisions
 
-A prior section 2212, Pub. L. 87–195, pt. I, §252, as added Pub. L. 87–565, pt. I, §106, Aug. 1, 1962, 76 Stat.258; amended Pub. L. 88–205, pt. I, §106(b), Dec. 16, 1963, 77 Stat. 383; Pub. L. 88–633, pt. I, §105, Oct. 7, 1964, 78 Stat. 1010; Pub. L. 89–171, pt. I, §105, Sept. 6, 1965, 79 Stat. 655; Pub. L. 89–583, pt. I, §105(b), Sept. 19, 1966, 80 Stat. 799; Pub. L. 90–137, pt. I, §106(b), Nov. 14, 1967, 81 Stat. 451; Pub. L. 90–554, pt. I, §105, Oct. 8, 1968, 82 Stat. 961; Pub. L. 91–175, pt. I, §106, Dec. 30, 1969, 83 Stat. 818; Pub. L. 92–226, pt. I, §105, Feb. 7, 1972, 86 Stat. 23; Pub. L. 93–189, §7, Dec. 17, 1973, 87 Stat. 718, related to authorization of appropriations for Alliance for Progress, prior to repeal by Pub. L. 95–424, title I, §102(g)(1)(A), title VI, §605, Oct. 6, 1978, 92 Stat. 942, 961, effective Oct. 1, 1978.
+A prior section 2212, Pub. L. 87–195, pt. I, §252, as added Pub. L. 87–565, pt. I, §106, Aug. 1, 1962, 76 Stat. 258; amended Pub. L. 88–205, pt. I, §106(b), Dec. 16, 1963, 77 Stat. 383; Pub. L. 88–633, pt. I, §105, Oct. 7, 1964, 78 Stat. 1010; Pub. L. 89–171, pt. I, §105, Sept. 6, 1965, 79 Stat. 655; Pub. L. 89–583, pt. I, §105(b), Sept. 19, 1966, 80 Stat. 799; Pub. L. 90–137, pt. I, §106(b), Nov. 14, 1967, 81 Stat. 451; Pub. L. 90–554, pt. I, §105, Oct. 8, 1968, 82 Stat. 961; Pub. L. 91–175, pt. I, §106, Dec. 30, 1969, 83 Stat. 818; Pub. L. 92–226, pt. I, §105, Feb. 7, 1972, 86 Stat. 23; Pub. L. 93–189, §7, Dec. 17, 1973, 87 Stat. 718, related to authorization of appropriations for Alliance for Progress, prior to repeal by Pub. L. 95–424, title I, §102(g)(1)(A), title VI, §605, Oct. 6, 1978, 92 Stat. 942, 961, effective Oct. 1, 1978.
 
 #### Amendments
 
@@ -190,7 +190,7 @@ Pub. L. 106–309, title I, §102, Oct. 17, 2000, 114 Stat. 1079, provided that:
 
 &emsp;"(B) The United States should seek to improve coordination among G–7 countries in the support of the microenterprise sector in order to leverage the investment of the United States with that of other donor nations.
 
-&emsp;"(18) Through increased support for microenterprise, especially credit for the poorest, the United States can continue to play a leadership role in the global effort to expand financial services and opportunity to 100,000,000 of the poorest families on the planet."
+&emsp;"(18) Through increased support for microenterprise, especially credit for the poorest, the UnitedStates can continue to play a leadership role in the global effort to expand financial services and opportunity to 100,000,000 of the poorest families on the planet."
 
 #### Purposes of 2000 Amendment
 
@@ -210,7 +210,7 @@ Pub. L. 106–309, title I, §103, Oct. 17, 2000, 114 Stat. 1081, as amended by 
 
 #### Definitions
 
-Pub. L. 106–309, title I, §104, Oct. 17, 2000, 114 Stat. 1082, as amended by Pub. L. 108–31, §1(b), June 17, 2003,117 Stat. 775, provided that: "In this title \[see Short Title of 2000 Amendments note set out under section 2151 of this title\]:
+Pub. L. 106–309, title I, §104, Oct. 17, 2000, 114 Stat. 1082, as amended by Pub. L. 108–31, §1(b), June 17, 2003, 117 Stat. 775, provided that: "In this title \[see Short Title of 2000 Amendments note set out under section 2151 of this title\]:
 
 &emsp;"(1)
 

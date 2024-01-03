@@ -18,7 +18,7 @@ It is the sense of Congress that individuals representing the United States at i
 
 #### (B) Form of delivery
 
-&emsp;&emsp;Briefing materials related to the human rights record of covered countries may be delivered electronically or disseminated in person, as appropriate.
+&emsp;&emsp;Briefing materials related to the human rights record of covered countries may bedelivered electronically or disseminated in person, as appropriate.
 
 #### (C) Special consideration
 

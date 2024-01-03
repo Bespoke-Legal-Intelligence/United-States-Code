@@ -24,7 +24,7 @@
 
 (f) This section does not apply to a person who is entitled to special pay under section 302, 302a, 302b, or 303 of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 466; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–284, §6, June 28, 1980, 94 Stat. 593; Pub. L. 96–470, title II, §202(b), Oct. 19, 1980, 94 Stat. 2242; Pub. L. 97–322, title I, §116, Oct. 15, 1982, 96 Stat. 1586; Pub. L. 101–510, div. A, title XIII, §1322(c)(3), Nov. 5, 1990, 104 Stat. 1672; Pub. L.102–587, title V, §5205, Nov. 4, 1992, 106 Stat. 5074; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title VI, §616, Nov. 24, 2003, 117 Stat. 1502.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 466; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–284, §6, June 28, 1980, 94 Stat. 593; Pub. L. 96–470, title II, §202(b), Oct. 19, 1980, 94 Stat. 2242; Pub. L. 97–322, title I, §116, Oct. 15, 1982, 96 Stat. 1586; Pub. L. 101–510, div. A, title XIII, §1322(c)(3), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–587, title V, §5205, Nov. 4, 1992, 106 Stat. 5074; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title VI, §616, Nov. 24, 2003, 117 Stat. 1502.)
 
 Historical and Revision Notes
 
@@ -82,7 +82,7 @@ Subsecs. (e), (f). Pub. L. 108–136, §616(a)(2), redesignated subsecs. (d) and
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–587, §5205(a), substituted "of pay grade O–6 or below" for "of pay grade O–3, O–4, O–5, or O–6" in text and amended table by substituting "O–4 and below" for "O–4" and striking out line providing monthly rate of $50 for pay grade O–3.
+<b>1992</b>—Subsec. (a). Pub. L. 102–587, §5205(a), substituted "of pay grade O–6 or below" for "of pay grade O–3, O–4,O–5, or O–6" in text and amended table by substituting "O–4 and below" for "O–4" and striking out line providing monthly rate of $50 for pay grade O–3.
 
 Subsec. (c). Pub. L. 102–587, §5205(b), substituted "in each of the pay grades O–3 and below," for "in pay grade O–3,".
 

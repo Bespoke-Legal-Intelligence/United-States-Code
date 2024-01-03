@@ -40,7 +40,7 @@ Subsec. (e). Pub. L. 113–288, §2(1)(B), (C), redesignated subsec. (d) as (e) 
 
 #### Effective Date
 
-Pub. L. 93–167, §8, Nov. 29, 1973, 87 Stat. 687, provided that: "This Act \[enacting this chapter\] shall apply only to imitation political items and imitation numismaticitems manufactured after the date of enactment of this Act \[Nov. 29, 1973\]."
+Pub. L. 93–167, §8, Nov. 29, 1973, 87 Stat. 687, provided that: "This Act \[enacting this chapter\] shall apply only to imitation political items and imitation numismatic items manufactured after the date of enactment of this Act \[Nov. 29, 1973\]."
 
 #### Short Title of 2014 Amendment
 

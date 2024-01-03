@@ -20,7 +20,7 @@
 
 &emsp;(B) in an established merit system in the excepted service,
 
-> if such individual (i) served satisfactorily under the authority of this subsection, as certified by the President, for not less than thirty-six months on a continuous basis without a break in service of more than three days, and (ii) is qualified for the position in question.
+> if such individual (i) served satisfactorily under the authority of this subsection, as certified bythe President, for not less than thirty-six months on a continuous basis without a break in service of more than three days, and (ii) is qualified for the position in question.
 
 (5) Except as provided in paragraph (6), the Director of the Peace Corps may make appointments or assignments of United States citizens under paragraph (2) for periods of more than five years only in the case of individuals whose performance as employees of the Peace Corps has been exceptional and only in order to achieve one or more of the following purposes:
 
@@ -102,7 +102,7 @@ Subsec. (a)(5), (6). Pub. L. 99–83, §1103(a)(2), added pars. (5) and (6).
 
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–473 inserted provision that subparagraphs (A) and (B) do not apply with respect to foreign national employees.
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–465, §2202(b)(1)(A), substituted "which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980" for ", who shall receive compensation at any of the rates provided for persons appointed to the Foreign Service Reserveand Staff under the Foreign Service Act of 1946, as amended (22 U.S.C. 801 et seq.)" and "section 310" for "section 528" and struck out reference to the applicability of section 1005 of the Foreign Service Act of 1946.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–465, §2202(b)(1)(A), substituted "which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980" for ", who shall receive compensation at any of the rates provided for persons appointed to the Foreign Service Reserve and Staff under the Foreign Service Act of 1946, as amended (22 U.S.C. 801 et seq.)" and "section 310" for "section 528" and struck out reference to the applicability of section 1005 of the Foreign Service Act of 1946.
 
 Subsec. (a)(2). Pub. L. 96–465, §2202(b)(1)(B), among other changes, substituted references to the Foreign Service Act of 1980 for references to the Foreign Service Act of 1946 and references to class 9 for class 10, and inserted provision relating to section 206(a)(1) of title 29.
 
@@ -158,7 +158,7 @@ Pub. L. 108–7, div. E, title II, Feb. 20, 2003, 117 Stat. 171.
 
 #### Reports to Congress
 
-Pub. L. 99–83, title XI, §1103(b), Aug. 8, 1985, 99 Stat. 273, which required the Director of the Peace Corps to submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives reports on the exercise of certain appointment authority granted under section 1103(a) of Pub. L. 99–83 (amending subsec. (a) of this section), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 189 of House Document No. 103–7.
+Pub. L. 99–83, title XI, §1103(b), Aug. 8, 1985, 99 Stat. 273, which required the Director of the Peace Corps to submit to the Committee on Foreign Relations of theSenate and the Committee on Foreign Affairs of the House of Representatives reports on the exercise of certain appointment authority granted under section 1103(a) of Pub. L. 99–83 (amending subsec. (a) of this section), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 189 of House Document No. 103–7.
 
 #### Transfer of Washington Headquarters Personnel from Civil Service to Foreign Service Appointments
 

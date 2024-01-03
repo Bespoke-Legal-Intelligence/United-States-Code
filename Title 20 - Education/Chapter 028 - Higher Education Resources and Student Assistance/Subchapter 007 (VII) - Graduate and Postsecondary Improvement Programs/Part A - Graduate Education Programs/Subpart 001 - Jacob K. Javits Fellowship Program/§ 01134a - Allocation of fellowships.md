@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) appoint members who represent the various geographic regions of the United States;
 
-&emsp;&emsp;&emsp;(iii) ensure that individuals appointed to the Board are broadly representative of a range of disciplines in graduate education in arts, humanities, and social sciences; and
+&emsp;&emsp;&emsp;(iii) ensure that individuals appointed to the Board are broadly representative of a range of disciplines in graduate educationin arts, humanities, and social sciences; and
 
 &emsp;&emsp;&emsp;(iv) ensure that such individuals include representatives from institutions that are eligible for one or more of the grants under subchapter III or V.
 

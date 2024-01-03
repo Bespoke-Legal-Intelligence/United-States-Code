@@ -88,7 +88,7 @@ Pub. L. 110–181, §1646(a)(2), redesignated subsec. (c) as (d).
 
 Pub. L. 110–181, div. A, title XVI, §1646(d), formerly §1646(c), Jan. 28, 2008, 122 Stat. 472, renumbered §1646(d) by Pub. L. 110–389, title I, §103(a)(1), Oct. 10, 2008, 122 Stat. 4148, provided that: "The amendments made by this section \[amending this section and section 1161 of Title 38, Veterans' Benefits\] shall take effect on the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to members of the Armed Forces separated from the Armed Forces under chapter 61 of title 10, United States Code, on or after that date."
 
-\[Amendment by Pub. L. 110–389, §103(a)(1), redesignating section 1646(c) as 1646(d) of Pub. L. 110–181, setout above, effective Jan. 28, 2008, as if included in the Wounded Warrior Act, title XVI of Pub. L. 110–181, to which such amendment relates, see section 103(b) of Pub. L. 110–389, set out as an Effective Date of 2008 Amendment note under section 1161 of Title 38, Veterans' Benefits.\]
+\[Amendment by Pub. L. 110–389, §103(a)(1), redesignating section 1646(c) as 1646(d) of Pub. L. 110–181, set out above, effective Jan. 28, 2008, as if included in the Wounded Warrior Act, title XVI of Pub. L. 110–181, to which such amendment relates, see section 103(b) of Pub. L. 110–389, set out as an Effective Date of 2008 Amendment note under section 1161 of Title 38, Veterans' Benefits.\]
 
 #### Effective Date of 2002 Amendment
 

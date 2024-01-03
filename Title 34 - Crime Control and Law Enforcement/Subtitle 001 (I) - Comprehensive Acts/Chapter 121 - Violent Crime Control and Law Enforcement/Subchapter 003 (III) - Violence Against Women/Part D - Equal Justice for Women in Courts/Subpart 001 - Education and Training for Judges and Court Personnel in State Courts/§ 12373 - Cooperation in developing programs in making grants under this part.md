@@ -12,5 +12,5 @@ Section was formerly classified to section 13993 of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–386 inserted ", including national, State, tribal, and local domestic violence and sexualassault programs and coalitions" after "victim advocates".
+<b>2000</b>—Pub. L. 106–386 inserted ", including national, State, tribal, and local domestic violence and sexual assault programs and coalitions" after "victim advocates".
 

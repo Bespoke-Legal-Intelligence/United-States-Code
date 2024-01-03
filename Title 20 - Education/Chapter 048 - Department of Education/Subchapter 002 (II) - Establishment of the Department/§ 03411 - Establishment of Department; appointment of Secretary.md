@@ -40,7 +40,7 @@ Ex. Ord. No. 13555, Oct. 19, 2010, 75 F.R. 65417, which established the White Ho
 
 #### Extension of Term of President's Advisory Commission on Educational Excellence for Hispanics
 
-Term of President's Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2021, by Ex. Ord. No. 13889, §1(u), Sept. 27, 2019, 84 F.R. 52744, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees. Section 1(u) of Ex. Ord. No. 13889 was superseded by Ex. Ord. No. 13935, §4(a), July 9, 2020, 85 F.R. 42685, formerly set out below.
+Term of President's Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2021, by Ex. Ord. No. 13889, §1(u), Sept. 27, 2019, 84 F.R. 52744, formerly set out as a note under section 1013of Title 5, Government Organization and Employees. Section 1(u) of Ex. Ord. No. 13889 was superseded by Ex. Ord. No. 13935, §4(a), July 9, 2020, 85 F.R. 42685, formerly set out below.
 
 Previous extensions of term of President's Advisory Commission on Educational Excellence for Hispanics were contained in the following prior Executive Orders:
 
@@ -58,7 +58,7 @@ Ex. Ord. No. 13621, July 26, 2012, 77 F.R. 45471, which established the White Ho
 
 #### Extension of Term of President's Advisory Commission on Educational Excellence for African Americans
 
-Term of President's Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of President's Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Advisory Commission on Educational Excellence for African Americans were contained in the following prior Executive Orders:
 
@@ -250,7 +250,7 @@ Sec. 3. <i>Presidential Advisory Commission</i>. (a) There is established in the
 
 (f) The Commission shall terminate 2 years from the date of this order \[Sept. 13, 2021\], unless extended by the President.
 
-Sec. 4. <i>Administrative Provisions</i>. (a) This order supersedes Executive Order 13935 of July 9, 2020 (White House Hispanic Prosperity Initiative) \[formerly set out above\], which is hereby revoked. To the extent that there are other Executive Orders that may conflict with or overlap with the provisions in this order, the provisions in this order supersede those other Executive Orders on these subjects.
+Sec. 4. <i>Administrative Provisions</i>. (a) This order supersedes Executive Order 13935 of July 9, 2020 (White HouseHispanic Prosperity Initiative) \[formerly set out above\], which is hereby revoked. To the extent that there are other Executive Orders that may conflict with or overlap with the provisions in this order, the provisions in this order supersede those other Executive Orders on these subjects.
 
 (b) The heads of agencies shall assist and provide information to the Initiative and Commission established in this order, consistent with applicable law, as may be necessary to carry out the functions of the Initiative and Commission.
 
@@ -270,7 +270,11 @@ J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics
 
-Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+
+Previous extension of term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics was contained in the following prior Executive Order:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 #### Ex. Ord. No. 14050. White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans
 
@@ -284,7 +288,7 @@ Over the course of America's history, Black Americans have helped to build, stre
 
 In spite of this progress, entrenched disparities continue to plague America's education system, holding far too many Black students back from achieving their full potential. Because of persistent racial and systemic injustices in our Nation, Black students remain more likely to attend high-poverty and racially segregated schools than White students. Black students are inequitably disciplined and suspended from school at disproportionately higher rates than White students for similar offenses. In addition, Black students too often face limited access to advanced and college-preparatory courses. Systemic racial disparities in education negatively impact learning outcomes for Black students and many face persistent gaps in reading and mathematics achievement. Studies show that school districts with high concentrations of Black students are much more likely to be underfunded than districts where a majority of students are White, and face much wider funding gaps, with an average deficit of more than $5,000 per student. Black students are still below the national average for educational attainment in high school, and that gap is even higher for college attainment rates, as 26 percent of Black Americans ages 25 and older have attained a bachelor's degree, while the national average is 36 percent. Black students also face unique challenges at the intersection of race and gender. Barriers to equity in education can compound for Black students who are also LGBTQ+ students, English-language learners, Dreamers, or students with disabilities.
 
-These disparities result in long-standing college and postsecondary educational attainment gaps that affect life outcomes and access to opportunities. Although student populations are becoming increasingly diverse, Black teachers remain significantly underrepresented in our Nation's classrooms. Educational inequities haveonly widened throughout the COVID–19 pandemic, as Black students are more likely to experience remote learning challenges and greater learning loss as compared to their White peers. The persistent digital divide faced by some Black students has contributed to this disparity. It is a priority of my Administration to ensure an equitable recovery from COVID–19, and to provide all students with a successful return to the classroom.
+These disparities result in long-standing college and postsecondary educational attainment gaps that affect life outcomes and access to opportunities. Although student populations are becoming increasingly diverse, Black teachers remain significantly underrepresented in our Nation's classrooms. Educational inequities have only widened throughout the COVID–19 pandemic, as Black students are more likely to experience remote learning challenges and greater learning loss as compared to their White peers. The persistent digital divide faced by some Black students has contributed to this disparity. It is a priority of my Administration to ensure an equitable recovery from COVID–19, and to provide all students with a successful return to the classroom.
 
 In the face of these historic and present-day inequities in our Nation's schools, Black students continue to persevere. Black students and scholars today are breaking the barriers confronted by generations who came before. Our Nation's schools and communities are irrefutably strengthened by the success, scholarship, and tenacity of Black students of all ages. But our Nation must go further to finally root out systemic barriers in our schools.
 
@@ -292,7 +296,7 @@ Additionally, these barriers are present not just in the classroom, but also in 
 
 It is the policy of my Administration to advance educational equity, excellence, and economic opportunity for Black Americans and communities from early childhood until their chosen career.
 
-Sec. 2. <i>White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans</i>. (a) To advance equity in our Nation's schools and to promote the economic opportunity that follows it, there is established in the Department of Education (Department) the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans (Initiative), of which the Secretary of Education (Secretary) shall serve as Chair. The Secretary shall designate an Executive Director for the Initiative (Executive Director).
+Sec. 2. <i>White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans</i>. (a) To advance equity in our Nation's schools and to promote the economic opportunity that follows it, there is established in the Department of Education (Department) the White House Initiative onAdvancing Educational Equity, Excellence, and Economic Opportunity for Black Americans (Initiative), of which the Secretary of Education (Secretary) shall serve as Chair. The Secretary shall designate an Executive Director for the Initiative (Executive Director).
 
 (b) The Initiative shall advance educational equity and economic opportunity for Black students, families, and communities by focusing on the following policy goals:
 
@@ -334,7 +338,7 @@ Sec. 2. <i>White House Initiative on Advancing Educational Equity, Excellence, a
 
 (vi) advise the Secretary on issues of importance to Black Americans and policies relating to educational equity, excellence, and economic opportunity for Black Americans.
 
-(d) There is established a Federal Interagency Working Group, which shall be convened by the Executive Director and shall support the efforts of the Initiative.The Interagency Working Group shall collaborate regarding resources and opportunities available across the Federal Government to increase educational and economic opportunities for Black Americans.
+(d) There is established a Federal Interagency Working Group, which shall be convened by the Executive Director and shall support the efforts of the Initiative. The Interagency Working Group shall collaborate regarding resources and opportunities available across the Federal Government to increase educational and economic opportunities for Black Americans.
 
 (i) The Interagency Working Group shall consist of senior officials (designated by the heads of their respective departments, agencies, and offices) from the following:
 
@@ -388,7 +392,7 @@ Sec. 2. <i>White House Initiative on Advancing Educational Equity, Excellence, a
 
 &emsp;(Y) such additional executive departments, agencies, and offices as the Secretary may designate.
 
-(ii) The Executive Director may establish subgroups of the Interagency Working Group to focus on different aspects of the educational system (such as PBIs and HBCUs, early childhood education, kindergarten through 12th grade education, children and adults with disabilities, teacher diversity, higher education, career and technical education, adult education, or correctional education and reengagement), economic opportunity (work-based learning, entrepreneurship, financial education, or mentorship), or educational challenges facing particular populations.
+(ii) The Executive Director may establish subgroups of the Interagency Working Group to focus on different aspects of the educational system (such as PBIs and HBCUs, early childhood education, kindergarten through 12th grade education, children and adults with disabilities, teacher diversity, higher education, careerand technical education, adult education, or correctional education and reengagement), economic opportunity (work-based learning, entrepreneurship, financial education, or mentorship), or educational challenges facing particular populations.
 
 (e) Each agency designated to participate in the Interagency Working Group shall prepare a plan (Agency Plan) outlining measurable actions the agency will take to advance educational equity and economic opportunity for Black communities, including their plans to implement the policy goals and directives outlined in section 2(b) of this order and other relevant work. These plans shall be submitted to the Chair of the Initiative on a date established by the Chair.
 
@@ -432,7 +436,7 @@ Sec. 3. <i>Presidential Advisory Commission</i>. (a) There is established in the
 
 (d) The Commission shall consist of not more than 21 members appointed by the President. The Commission may include individuals with relevant experience or subject matter expertise, as well as individuals who may serve as representatives from a variety of sectors, including education (early childhood education, elementary and secondary education, higher education, career and technical education, and adult education), labor organizations, research institutions, public and private philanthropic organizations, private sector, nonprofit, and community-based organizations at the national, State, Tribal, regional, or local levels. Commission members should be able to provide specific insight into the lived experiences of those served by the Initiative, including young adults, and have diversity across the Black diaspora and the geography of the country.
 
-(i) The President shall designate one member of the Commission to serve as its Chair. The Chair, in consultation with the Executive Director, shall conveneregular meetings of the Commission, determine the Commission meeting agenda, and support the work of the Commission, consistent with this order.
+(i) The President shall designate one member of the Commission to serve as its Chair. The Chair, in consultation with the Executive Director, shall convene regular meetings of the Commission, determine the Commission meeting agenda, and support the work of the Commission, consistent with this order.
 
 (ii) The Commission shall meet on a regular basis, and at least twice a year.
 
@@ -457,6 +461,10 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans
+
+Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 #### Creating and Expanding Ladders of Opportunity for Boys and Young Men of Color
 
@@ -522,7 +530,7 @@ Section 1. <i>Task Force on Improving the Lives of Boys and Young Men of Color a
 
 (xxiii) the heads of such other executive departments, agencies, and offices as the Chair may, from time to time, designate.
 
-(b) A member of the Task Force may designate a senior-level official who is from the member's department,agency, or office, and is a full-time officer or employee of the Federal Government, to perform the day-to-day Task Force functions of the member. At the direction of the Chair, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees under this subsection, as appropriate.
+(b) A member of the Task Force may designate a senior-level official who is from the member's department, agency, or office, and is a full-time officer or employee of the Federal Government, to perform the day-to-day Task Force functions of the member. At the direction of the Chair, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees under this subsection, as appropriate.
 
 (c) The Deputy Secretary of Education shall serve as Executive Director of the Task Force, determine its agenda, convene regular meetings of the Task Force, and supervise its work under the direction of the Chair. The Department of Education shall provide funding and administrative support for the Task Force to the extent permitted by law and within existing appropriations. Each executive department or agency shall bear its own expenses for participating in the Task Force.
 

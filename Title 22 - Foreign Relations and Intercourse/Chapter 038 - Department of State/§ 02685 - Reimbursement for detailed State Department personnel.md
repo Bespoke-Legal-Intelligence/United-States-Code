@@ -12,5 +12,5 @@
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–93 inserted "or if the number of officers and employees so detailed, assigned, or otherwise made available at any one time does not exceed fifteen and the period of any such detail, assignment, or availability of an officer or employee does not exceed two years," after "does not exceed one year,".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–426 substituted "does not exceed one year" for "does not exceed ninety days", and inserted provision excepting from any personnel ceiling for the Department of State any officers and employees who are detailed, etc., to another Executive agency for a period of not to exceed one year.
+<b>1978</b>—Subsec. (a). Pub. L. 95–426 substituted "does not exceed one year" for "does not exceed ninety days", and inserted provision excepting from any personnelceiling for the Department of State any officers and employees who are detailed, etc., to another Executive agency for a period of not to exceed one year.
 

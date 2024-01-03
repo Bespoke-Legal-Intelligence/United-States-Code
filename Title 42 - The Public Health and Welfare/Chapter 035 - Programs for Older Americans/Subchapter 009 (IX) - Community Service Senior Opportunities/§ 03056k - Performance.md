@@ -20,7 +20,7 @@
 
 #### (i) First 2 years
 
-&emsp;&emsp;&emsp;Each grantee shall reach agreement with the Secretary on levels of performance for each measure described in subparagraph (A)(i),<sup>1</sup> for each of the first 2 program years covered by the grant agreement. In reaching the agreement, the grantee and the Secretary shall take into account the expected levels proposed by the grantee and the factors described in subparagraph\(D). The levels agreed to shall be considered to be the expected levels of performance for the grantee for such program years.
+&emsp;&emsp;&emsp;Each grantee shall reach agreement with the Secretary on levels of performance for each measure described in subparagraph (A)(i),<sup>1</sup> for each of the first 2 program years covered by the grant agreement. In reaching the agreement, the grantee and the Secretary shall take into account the expected levels proposed by the grantee and the factors described in subparagraph (D). The levels agreed to shall be considered to be the expected levels of performance for the grantee for such program years.
 
 #### (ii) Third and fourth year
 
@@ -76,7 +76,7 @@ The Secretary shall annually evaluate, and publish and make available for public
 
 #### (A) In general
 
-&emsp;&emsp;As soon as practicable after July 1, 2016, the Secretary shall determine if a grantee under this subchapter has, for program year 2016, met the expected levels of performance established under subsection (a)(2)(B) (including any adjustments to such levels made in accordance with subsection (a)(2)(E)) for the core indicators of performance.
+&emsp;&emsp;As soon as practicable after July 1, 2016, the Secretary shall determine if a granteeunder this subchapter has, for program year 2016, met the expected levels of performance established under subsection (a)(2)(B) (including any adjustments to such levels made in accordance with subsection (a)(2)(E)) for the core indicators of performance.
 
 #### (B) Technical assistance
 

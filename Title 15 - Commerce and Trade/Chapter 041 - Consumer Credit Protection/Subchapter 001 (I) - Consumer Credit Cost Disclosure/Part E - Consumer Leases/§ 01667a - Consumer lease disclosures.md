@@ -8,7 +8,7 @@ Each lessor shall give a lessee prior to the consummation of the lease a dated w
 
 &emsp;(3) The amount paid or payable by the lessee for official fees, registration, certificate of title, or license fees or taxes;
 
-&emsp;(4) The amount of other charges payable by the lessee not included in the periodic payments, a description of the charges and that the lessee shall be liable for the differential, if any, between the anticipated fair market value of the leased property and its appraised actual value at the termination of the lease, if the lessee has such liability;
+&emsp;(4) The amount of other charges payable by the lessee not included in the periodic payments, a description of the charges and that the lessee shall be liable for the differential, ifany, between the anticipated fair market value of the leased property and its appraised actual value at the termination of the lease, if the lessee has such liability;
 
 &emsp;(5) A statement of the amount or method of determining the amount of any liabilities the lease imposes upon the lessee at the end of the term and whether or not the lessee has the option to purchase the leased property and at what price and time;
 

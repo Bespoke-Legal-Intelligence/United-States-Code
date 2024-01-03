@@ -30,7 +30,7 @@
 
 &emsp;(I) an assessment of the overall transportation system in the State or region and future plans for that overall system, including the adequacy of highways and bridges; and
 
-&emsp;(J) consideration of the feasibility and advisability of the ownership and operation of rail branch lines by farmer-owned cooperatives, and the role that such cooperatives might play in any overall planning for the restructuring and rehabilitation of rail service and marketing facilities within the State or region.
+&emsp;(J) consideration of the feasibility and advisability of the ownership and operation of rail branch lines by farmer-owned cooperatives, and the role that such cooperatives might play in any overall planning for the restructuringand rehabilitation of rail service and marketing facilities within the State or region.
 
 #### (b) Plan review commissions
 
@@ -58,7 +58,7 @@ Whenever any State or region has submitted a State or regional plan under this s
 
 #### (f) Authorization of appropriations
 
-To carry out the purposes of this section, there are authorized to be appropriated not toexceed $3,300,000 for each of the fiscal years ending September 30, 1981, September 30, 1982, and September 30, 1983.
+To carry out the purposes of this section, there are authorized to be appropriated not to exceed $3,300,000 for each of the fiscal years ending September 30, 1981, September 30, 1982, and September 30, 1983.
 
 (Pub. L. 96–358, §4, Sept. 25, 1980, 94 Stat. 1185.)
 

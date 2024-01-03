@@ -10,7 +10,7 @@
 
 #### References in Text
 
-Public Law 88–552, referred to in subsec. (a), is act Aug. 31, 1964, 78 Stat. 756, which is classified generally to chapter 12F (§837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Public Law 88–552, referred to in subsec. (a), is act Aug. 31, 1964, 78 Stat. 756, which is classified generallyto chapter 12F (§837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 Public Law 89–448, referred to in subsec. (a), is Pub. L. 89–448, §§1–3, June 14, 1966, 80 Stat. 200, which enacted sections 835j and 835k of this title and amended section 832h of this title.
 

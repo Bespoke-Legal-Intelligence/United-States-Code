@@ -16,20 +16,20 @@ Determination of Fee.—(1) The amount of the fee shall be determined from the l
 | :--- | :---: | :---: | ---: |
 | (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before January 1, 2020) | 2\.15 | 2\.40 | NA |
 | (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2020, and before April 7, 2023) | 2\.30 | 2\.30 | NA |
-| (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after April 7, 2023, and before November 14, 2031) | 2\.15 | 2\.15 | NA |
-| (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after November 14, 2031) | 1\.40 | 1\.40 | NA |
+| (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after April 7, 2023, and before November 15, 2031) | 2\.15 | 2\.15 | NA |
+| (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after November 15, 2031) | 1\.40 | 1\.40 | NA |
 | (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2004, and before January 1, 2020) | 3\.30 | 3\.30 | NA |
 | (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after January 1, 2020, and before April 7, 2023) | 3\.60 | 3\.60 | NA |
-| (B)(iii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after April 7, 2023, and before November 14, 2031) | 3\.30 | 3\.30 | NA |
-| (B)(iv) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after November 14, 2031) | 1\.25 | 1\.25 | NA |
+| (B)(iii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after April 7, 2023, and before November 15, 2031) | 3\.30 | 3\.30 | NA |
+| (B)(iv) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after November 15, 2031) | 1\.25 | 1\.25 | NA |
 | (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before January 1, 2020) | 1\.50 | 1\.75 | NA |
 | (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after January 1, 2020, and before April 7, 2023) | 1\.65 | 1\.65 | NA |
-| (C)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after April 7, 2023, and before November 14, 2031) | 1\.50 | 1\.50 | NA |
-| (C)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after November 14, 2031) | 0\.75 | 0\.75 | NA |
+| (C)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after April 7, 2023, and before November 15, 2031) | 1\.50 | 1\.50 | NA |
+| (C)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after November 15, 2031) | 0\.75 | 0\.75 | NA |
 | (D)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before January 1, 2020) | 1\.25 | 1\.50 | NA |
 | (D)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after January 1, 2020, and before April 7, 2023) | 1\.40 | 1\.40 | NA |
-| (D)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after April 7, 2023, and before November 14, 2031) | 1\.25 | 1\.25 | NA |
-| (D)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after November 14, 2031) | 0\.50 | 0\.50 | NA |
+| (D)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after April 7, 2023, and before November 15, 2031) | 1\.25 | 1\.25 | NA |
+| (D)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after November 15, 2031) | 0\.50 | 0\.50 | NA |
 | (E) Interest rate reduction refinancing loan | 0\.50 | 0\.50 | NA |
 | (F) Direct loan under section 3711 | 1\.00 | 1\.00 | NA |
 | (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan) | 1\.00 | 1\.00 | NA |
@@ -77,11 +77,13 @@ Waiver of Fee.—(1) A fee may not be collected under this section from a vetera
 
 &emsp;(ii) based on a pre-discharge review of existing medical evidence (including service medical and treatment records) that results in the issuance of a memorandum rating.
 
-(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, §202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669; Pub. L. 105–368, title VI, §§602(e)(1)(D), 603(b), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, §402(b), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–14, §8(b)(4), June 5, 2001, 115 Stat. 36; Pub. L. 107–103, title IV, §§405(c), 406, Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title IV, §405, Dec. 16, 2003, 117 Stat. 2665; Pub. L. 108–454, title IV, §406, Dec. 10, 2004, 118 Stat. 3617; Pub. L. 111–275, title II, §204, Oct. 13, 2010, 124 Stat. 2874; Pub. L. 112–26, §3(a), Aug. 3, 2011, 125 Stat. 269; Pub. L. 112–37, §15, Oct. 5, 2011, 125 Stat. 398; Pub. L. 112–56, title II, §265(a), Nov. 21, 2011, 125 Stat. 732; Pub. L. 112–154, title II, §210, title VII, §702(b), Aug. 6, 2012, 126 Stat. 1179, 1205; Pub. L. 113–146, title VII, §704, Aug. 7, 2014, 128 Stat. 1797; Pub. L. 115–46, title IV, §402, Aug. 12, 2017, 131 Stat. 969; Pub. L. 115–182, title V, §508, June 6, 2018, 132 Stat. 1480; Pub. L. 116–23, §6(b), (c), June 25, 2019, 133 Stat. 973, 975; Pub. L. 116–154, §7, Aug. 8, 2020, 134 Stat. 694; Pub. L. 116–283, div. A, title IX, §926(a)(49), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, §§2102, 2103, Jan. 5, 2021, 134 Stat. 4981; Pub. L. 117–76, §6, Dec. 21, 2021, 135 Stat. 1520; Pub. L. 117–328, div. U, title II, §204, Dec. 29, 2022, 136 Stat. 5451.)
+(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, §202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669; Pub. L. 105–368, title VI, §§602(e)(1)(D), 603(b), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, §402(b), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–14, §8(b)(4), June 5, 2001, 115 Stat. 36; Pub. L. 107–103, title IV, §§405(c), 406, Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title IV, §405, Dec. 16, 2003, 117 Stat. 2665; Pub. L. 108–454, title IV, §406, Dec. 10, 2004, 118 Stat. 3617; Pub. L. 111–275, title II, §204, Oct. 13, 2010, 124 Stat. 2874; Pub. L. 112–26, §3(a), Aug. 3, 2011, 125 Stat. 269; Pub. L. 112–37, §15, Oct. 5, 2011, 125 Stat. 398; Pub. L. 112–56, title II, §265(a), Nov. 21, 2011, 125 Stat. 732; Pub. L. 112–154, title II, §210, title VII, §702(b), Aug. 6, 2012, 126 Stat. 1179, 1205; Pub. L. 113–146, title VII, §704, Aug. 7, 2014, 128 Stat. 1797; Pub. L. 115–46, title IV, §402, Aug. 12, 2017, 131 Stat. 969; Pub. L. 115–182, title V, §508, June 6, 2018, 132 Stat. 1480; Pub. L. 116–23, §6(b), (c), June 25, 2019, 133 Stat. 973, 975; Pub. L. 116–154, §7, Aug. 8, 2020, 134 Stat. 694; Pub. L. 116–283, div. A, title IX, §926(a)(49), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, §§2102, 2103, Jan. 5, 2021, 134 Stat. 4981; Pub. L. 117–76, §6, Dec. 21, 2021, 135 Stat. 1520; Pub. L. 117–328, div. U, title II, §204, Dec. 29, 2022, 136 Stat. 5451; Pub. L. 118–19, §4, Oct. 6, 2023, 137 Stat. 107.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(2). Pub. L. 118–19 substituted "November 15, 2031" for "November 14, 2031" wherever appearing in table.
 
 <b>2022</b>—Subsec. (b)(2). Pub. L. 117–328 substituted "November 14, 2031" for "January 14, 2031" wherever appearing in table.
 
@@ -135,7 +137,7 @@ Subsec. (b)(2)(C), (D). Pub. L. 112–56, §265(a)(3), (4), substituted "October
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–454 designated existing provisions as par. (1) and added par. (2).
 
-<b>2003</b>—Subsec. (b)(2). Pub. L. 108–183 amended par. (2) generally, revising table by adding cls. (iii) and (iv) of subpars. (A) and (B) and changing dates in subpars. (A) and (B).
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–183 amended par. (2) generally, revising table by adding cls. (iii) and (iv) ofsubpars. (A) and (B) and changing dates in subpars. (A) and (B).
 
 <b>2001</b>—Pub. L. 107–14 made technical amendment to Pub. L. 106–419. See 2000 Amendment note below.
 
@@ -221,9 +223,9 @@ Subsec. (c). Pub. L. 100–198, §2(a), and Pub. L. 100–203, amended subsec. i
 
 Subsec. (d). Pub. L. 100–198, §10(c), added subsec. (d).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2511(a)(1), inserted "and from each person obtaining a loan from the Administrator to finance the purchase of real property from the Administrator," after "under this chapter,", struck out "one-half of" before "one percent of the total loan amount", and struck out "to the veteran" after "in the loan".
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2511(a)(1), inserted "and from each person obtaining a loan from the Administrator to finance the purchase of real property from the Administrator," after "under this chapter,",struck out "one-half of" before "one percent of the total loan amount", and struck out "to the veteran" after "in the loan".
 
-Subsecs. (c), (d). Pub. L. 98–367, §2511(a)(2), (3), redesignated subsec. (d) as (c) and substituted "September30, 1987" for "September 30, 1985". Former subsec. (c), which related to deposit of fees collected under this section into Treasury as miscellaneous receipts, was struck out.
+Subsecs. (c), (d). Pub. L. 98–367, §2511(a)(2), (3), redesignated subsec. (d) as (c) and substituted "September 30, 1987" for "September 30, 1985". Former subsec. (c), which related to deposit of fees collected under this section into Treasury as miscellaneous receipts, was struck out.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -321,5 +323,5 @@ Pub. L. 100–136, §1(b), Oct. 16, 1987, 101 Stat. 813, authorized collection o
 
 #### Home Loan Origination Fee
 
-Pub. L. 99–576, title IV, §409, Oct. 28, 1986, 100 Stat. 3283, provided that: "It is the sense of the Congress that the Veterans' Administration loan origination feeshould not be increased above its present level of one percent of the amount of the loan guaranteed."
+Pub. L. 99–576, title IV, §409, Oct. 28, 1986, 100 Stat. 3283, provided that: "It is the sense of the Congress thatthe Veterans' Administration loan origination fee should not be increased above its present level of one percent of the amount of the loan guaranteed."
 

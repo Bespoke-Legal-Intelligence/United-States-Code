@@ -74,7 +74,7 @@ The private, independent, self-regulatory, nonprofit corporation, to be known as
 
 #### (A) In general
 
-&emsp;&emsp;The Authority shall establish a racetrack safety standing committee, which shall provide advice and guidance to the Board on thedevelopment and maintenance of the racetrack safety program.
+&emsp;&emsp;The Authority shall establish a racetrack safety standing committee, which shall provide advice and guidance to the Board on the development and maintenance of the racetrack safety program.
 
 #### (B) Membership
 

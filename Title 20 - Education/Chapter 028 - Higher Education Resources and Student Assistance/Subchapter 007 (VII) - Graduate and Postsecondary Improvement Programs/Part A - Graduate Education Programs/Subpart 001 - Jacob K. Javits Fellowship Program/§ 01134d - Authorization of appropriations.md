@@ -22,7 +22,7 @@ A prior section 705 of Pub. L. 89–329 was classified to section 1132a–4 of t
 
 Prior sections 1134e to 1134w were repealed by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
 
-Section 1134e, Pub. L. 89–329, title IX, §922, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1550; amended Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 763; Pub. L. 103–208, §2(j)(28), Dec. 20, 1993,107 Stat. 2482, authorized Patricia Roberts Harris Fellowship program.
+Section 1134e, Pub. L. 89–329, title IX, §922, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1550; amended Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 763; Pub. L. 103–208, §2(j)(28), Dec. 20, 1993, 107 Stat. 2482, authorized Patricia Roberts Harris Fellowship program.
 
 Another prior section 1134e, Pub. L. 89–329, title IX, §922, as added Pub. L. 96–374, title IX, §902(a), Oct. 3, 1980, 94 Stat. 1482, authorized program of grants to assist graduate and professional study, prior to the general amendment of subchapter IX of this chapter by Pub. L. 99–498.
 
@@ -34,7 +34,7 @@ Section 1134f, Pub. L. 89–329, title IX, §923, as added Pub. L. 99–498, tit
 
 Another prior section 1134f, Pub. L. 89–329, title IX, §923, as added Pub. L. 96–374, title IX, §902(a), Oct. 3, 1980, 94 Stat. 1484, related to award of fellowships to graduate and professional students, prior to the general amendment of subchapter IX of this chapter by Pub. L. 99–498.
 
-Another prior section 1134f, Pub. L. 89–329, title IX, §923, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 306; amended Pub. L. 94–482, title I, §171(b), Oct. 12, 1976, 90 Stat. 2160, related to the award of fellowships and the approval of graduate programs, prior to the general amendment of part B of subchapter IX of this chapter by Pub. L. 96–374.
+Another prior section 1134f, Pub. L. 89–329, title IX, §923, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 306; amended Pub. L. 94–482, title I,§171(b), Oct. 12, 1976, 90 Stat. 2160, related to the award of fellowships and the approval of graduate programs, prior to the general amendment of part B of subchapter IX of this chapter by Pub. L. 96–374.
 
 Another prior section 1134f, Pub. L. 89–329, title IX, §914, as added Pub. L. 90–575, title II, §261, Oct. 16, 1968, 82 Stat. 1045, provided for stipends for public service fellowships, prior to repeal by Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 304.
 
@@ -72,7 +72,7 @@ Another prior section 1134j, Pub. L. 89–329, title IX, §923, as added Pub. L.
 
 Section 1134k, Pub. L. 89–329, title IX, §934, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1554; amended Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 767, related to fellowship conditions. See section 1134c of this title.
 
-Another prior section 1134k, Pub. L. 89–329, title IX, §934, as added Pub. L. 96–374, title IX, §903, Oct. 3, 1980, 94 Stat. 1486, related to conditions on continuance of fellowships for graduate study in arts, humanities, andsocial sciences, prior to the general amendment of subchapter IX of this chapter by Pub. L. 99–498.
+Another prior section 1134k, Pub. L. 89–329, title IX, §934, as added Pub. L. 96–374, title IX, §903, Oct. 3, 1980, 94 Stat. 1486, related to conditions on continuance of fellowships for graduate study in arts, humanities, and social sciences, prior to the general amendment of subchapter IX of this chapter by Pub. L. 99–498.
 
 Another prior section 1134k, Pub. L. 89–329, title IX, §943, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 308; amended Pub. L. 94–482, title I, §171(c)(3), Oct. 12, 1976, 90 Stat. 2163, related to requisite approval of programs of graduate or professional study, prior to repeal by section 902(b) of Pub. L. 96–374.
 
@@ -86,7 +86,7 @@ Another prior section 1134l, Pub. L. 89–329, title IX, §941, as added Pub. L.
 
 Another prior section 1134l, Pub. L. 89–329, title IX, §944, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 309; amended Pub. L. 94–482, title I, §171(c)(4), Oct. 12, 1976, 90 Stat. 2163, related to payments to persons awarded public service fellowships, prior to repeal by section 902(b) of Pub. L. 96–374.
 
-Another prior section 1134l, Pub. L. 89–329, title IX, §925, as added Pub. L. 90–575, title II, §261, Oct. 16, 1968, 82 Stat. 1046, authorized appropriations for education for the public service, prior to repeal by Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 304.
+Another prior section 1134l, Pub. L. 89–329, title IX, §925, as added Pub. L. 90–575, title II, §261, Oct. 16, 1968,82 Stat. 1046, authorized appropriations for education for the public service, prior to repeal by Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 304.
 
 Section 1134m, Pub. L. 89–329, title IX, §942, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1555; amended Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 768, authorized grants to academic departments and programs to provide assistance to graduate students. See section 1135 of this title.
 
@@ -128,7 +128,7 @@ Another prior section 1134r–1, Pub. L. 89–329, title IX, §966, as added Pub
 
 Section 1134r–2, Pub. L. 89–329, title IX, §953, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 773, related to applications required for grants.
 
-Another prior section 1134r–2, Pub. L. 89–329, title IX, §971, as added Pub. L. 94–482, title I, §171(e), Oct. 12, 1976, 90 Stat. 2164, related to an annual report on graduate and assistance program, prior to repeal by Pub. L.96–374, title IX, §902(b), Oct. 3, 1980, 94 Stat. 1484, eff. Oct. 1, 1980, and also by Pub. L. 96–470, title I, §106(b), Oct. 19, 1980, 94 Stat. 2238.
+Another prior section 1134r–2, Pub. L. 89–329, title IX, §971, as added Pub. L. 94–482, title I, §171(e), Oct. 12, 1976, 90 Stat. 2164, related to an annual report on graduate and assistance program, prior to repeal by Pub. L. 96–374, title IX, §902(b), Oct. 3, 1980, 94 Stat. 1484, eff. Oct. 1, 1980, and also by Pub. L. 96–470, title I, §106(b), Oct. 19, 1980, 94 Stat. 2238.
 
 Section 1134r–3, Pub. L. 89–329, title IX, §954, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 774, related to fellowship agreements.
 
@@ -144,7 +144,7 @@ Another prior section 1134s, Pub. L. 89–329, title IX, §981, as added Pub. L.
 
 Section 1134t, Pub. L. 89–329, title IX, §962, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1559; amended Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 776, authorized appropriations for program for assistance for training in legal profession.
 
-Section 1134u, Pub. L. 89–329, title IX, §971, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1560; amended Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 776, authorized grants and contracts for programs to provide law school clinical experience programs.
+Section 1134u, Pub. L. 89–329, title IX, §971, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat.1560; amended Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 776, authorized grants and contracts for programs to provide law school clinical experience programs.
 
 Section 1134v, Pub. L. 89–329, title IX, §972, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 777, related to applications for grants or contracts.
 

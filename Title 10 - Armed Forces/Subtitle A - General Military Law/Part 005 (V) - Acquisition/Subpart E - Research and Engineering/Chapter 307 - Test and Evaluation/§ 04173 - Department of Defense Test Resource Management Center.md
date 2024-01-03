@@ -40,7 +40,7 @@ Quadrennial Strategic Plan for Department of Defense Test and Evaluation Resourc
 
 &emsp;(B) An identification of performance measures associated with the successful achievement of test and evaluation objectives for the period covered by the plan.
 
-&emsp;(C) An assessment of the test and evaluation facilities and resources that will be needed to meet current and future requirements for test and evaluation of the Department of Defense major weapon systems based on current and emerging threats.
+&emsp;(C) An assessment of the test and evaluation facilities and resources that will be needed tomeet current and future requirements for test and evaluation of the Department of Defense major weapon systems based on current and emerging threats.
 
 &emsp;(D) An assessment of the current state of the test and evaluation facilities and resources of the Department.
 
@@ -68,7 +68,7 @@ Quadrennial Strategic Plan for Department of Defense Test and Evaluation Resourc
 
 (e)
 
-Certification of Budgets.—(1) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall requirethat the Secretary of each military department and the head of each Defense Agency with test and evaluation responsibilities transmit such Secretary's or Defense Agency head's proposed budget for test and evaluation activities, including modeling and simulation activities, for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year to the Director of the Center for review under paragraph (2) before submitting such proposed budget to the Under Secretary of Defense (Comptroller).
+Certification of Budgets.—(1) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require that the Secretary of each military department and the head of each Defense Agency with test and evaluation responsibilities transmit such Secretary's or Defense Agency head's proposed budget for test and evaluation activities, including modeling and simulation activities, for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year to the Director of the Center for review under paragraph (2) before submitting such proposed budget to the Under Secretary of Defense (Comptroller).
 
 (2)(A) The Director of the Center shall review each proposed budget transmitted under paragraph (1) and shall, not later than January 31 of the year preceding the fiscal year for which such budgets are proposed, submit to the Secretary of Defense a report containing the comments of the Director with respect to all such proposed budgets, together with the certification of the Director as to whether such proposed budgets are adequate.
 
@@ -100,7 +100,7 @@ Administrative Support of Center.—The Secretary of Defense shall provide the D
 
 (i)
 
-Definition.—In this section, the term "Major Range and Test Facility Base" means the test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.
+Definition.—In this section, the term "Major Range and Test Facility Base" meansthe test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.
 
 (Added Pub. L. 107–314, div. A, title II, §231(a)(1), Dec. 2, 2002, 116 Stat. 2487, §196; amended Pub. L. 108–136, div. A, title II, §212, Nov. 24, 2003, 117 Stat. 1416; Pub. L. 109–163, div. A, title II, §258(a), title IX, §902, Jan. 6, 2006, 119 Stat. 3185, 3397; Pub. L. 111–84, div. A, title II, §251, Oct. 28, 2009, 123 Stat. 2241; Pub. L. 113–291, div. A, title II, §214, Dec. 19, 2014, 128 Stat. 3326; Pub. L. 114–328, div. A, title V, §502(c), title X, §1081(a)(3), Dec. 23, 2016, 130 Stat. 2102, 2417; Pub. L. 115–91, div. A, title II, §222, Dec. 12, 2017, 131 Stat. 1333; Pub. L. 115–232, div. A, title II, §221, title IX, §904, Aug. 13, 2018, 132 Stat. 1681, 1922; renumbered §4173 and amended Pub. L. 116–283, div. A, title II, §272, title XVIII, §1845(b), Jan. 1, 2021, 134 Stat. 3502, 4247; Pub. L. 117–81, div. A, title X, §1081(a)(5), title XVII, §1701(u)(6)(B), Dec. 27, 2021, 135 Stat. 1919, 2154.)
 
@@ -128,7 +128,7 @@ Subsec. (e)(2)(B). Pub. L. 116–283, §272(a)(1), inserted "quadrennial" before
 
 <b>2018</b>—Subsec. (c)(1)(B). Pub. L. 115–232, §904, which directed substitution of "Under Secretary of Defense for Research and Engineering" for "Under Secretary of Defense for Acquisition, Technology, and Logistics", was executed by making the substitution for "Under Secretary of Acquisition, Technology, and Logistics" to reflect the probable intent of Congress.
 
-Subsec. (d)(1). Pub. L. 115–232, §221(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Not less often than once every two fiscal years, the Director, in coordination with the Director of Operational Test and Evaluation, the Secretaries of themilitary departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a strategic plan reflecting the needs of the Department of Defense with respect to test and evaluation facilities and resources, including modeling and simulation capabilities. Each such strategic plan shall cover the period of ten fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The strategic plan shall be based on a comprehensive review of the test and evaluation requirements of the Department and the adequacy of the test and evaluation facilities and resources of the Department to meet those requirements."
+Subsec. (d)(1). Pub. L. 115–232, §221(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Not less often than once every two fiscal years, the Director, in coordination with the Director of Operational Test and Evaluation, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a strategic plan reflecting the needs of the Department of Defense with respect to test and evaluation facilities and resources, including modeling and simulation capabilities. Each such strategic plan shall cover the period of ten fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The strategic plan shall be based on a comprehensive review of the test and evaluation requirements of the Department and the adequacy of the test and evaluation facilities and resources of the Department to meet those requirements."
 
 Subsec. (d)(2)(C). Pub. L. 115–232, §221(2), substituted "needed to meet current and future requirements based on current and emerging threats" for "needed to meet such requirements".
 

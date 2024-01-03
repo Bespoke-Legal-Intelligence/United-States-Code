@@ -8,7 +8,7 @@ The following acts and the causing thereof are prohibited:
 
 (c) The receipt in interstate commerce of any misbranded hazardous substance or banned hazardous substance and the delivery or proffered delivery thereof for pay or otherwise.
 
-(d) The giving of a guarantee or undertaking referred to in section 1264(b)(2) of this title which guarantee or undertaking is false, except by a person who relied upon a guarantee or undertaking to the same effect signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the hazardous substance.
+(d) The giving of a guarantee or undertaking referred to in section 1264(b)(2) of this title which guarantee or undertaking is false, exceptby a person who relied upon a guarantee or undertaking to the same effect signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the hazardous substance.
 
 (e) The failure to permit entry or inspection as authorized by section 1270(b) of this title or to permit access to and copying of any record as authorized by section 1271 of this title.
 

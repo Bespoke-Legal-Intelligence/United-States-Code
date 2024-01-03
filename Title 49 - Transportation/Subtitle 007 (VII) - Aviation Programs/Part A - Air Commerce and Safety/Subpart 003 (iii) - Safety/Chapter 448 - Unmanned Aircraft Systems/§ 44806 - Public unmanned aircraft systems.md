@@ -50,7 +50,7 @@ Public Actively Tethered Unmanned Aircraft Systems.—
 
 &emsp;(1)
 
-In general.—Not later than 180 days after the date of enactment of this Act, theAdministrator of the Federal Aviation Administration shall permit the use of, and may issue guidance regarding, the use of public actively tethered unmanned aircraft systems that are—
+In general.—Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Aviation Administration shall permit the use of, and may issue guidance regarding, the use of public actively tethered unmanned aircraft systems that are—
 
 &emsp;&emsp;(A) operated at an altitude of less than 150 feet above ground level;
 

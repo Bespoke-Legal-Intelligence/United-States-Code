@@ -68,7 +68,7 @@ Congress finds the following:
 
 &emsp;(B) Studies have documented apparent discrepancies in the levels of referral and placement of limited English proficient children in special education.
 
-&emsp;(C) Such discrepancies pose a special challenge for special education in the referral of, assessment of, and provision of services for, our Nation's students from non-English language backgrounds.
+&emsp;(C) Such discrepancies pose a special challenge for special education in the referral of, assessment of, and provision of services for,our Nation's students from non-English language backgrounds.
 
 &emsp;(12)(A) Greater efforts are needed to prevent the intensification of problems connected with mislabeling and high dropout rates among minority children with disabilities.
 
@@ -118,7 +118,7 @@ Section is comprised of section 601 of Pub. L. 91–230. Subsec. (b) of section 
 
 #### Prior Provisions
 
-A prior section 1400, Pub. L. 91–230, title VI, §601, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat.37, contained short title for this chapter and related to congressional findings and purposes, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1400, Pub. L. 91–230, title VI, §601, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37, contained short title for this chapter and related to congressional findings and purposes, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1400, Pub. L. 91–230, title VI, §601, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94–142, §3, Nov. 29, 1975, 89 Stat. 774; Pub. L. 101–476, title IX, §901(a)(1), (b)(1)–(9), Oct. 30, 1990, 104 Stat. 1141, 1142; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, contained short title for this chapter and related to congressional statements and declarations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17. This section had been classified as a note under former section 1401 of this title prior to being amended by Pub. L. 94–142.
 
@@ -148,7 +148,7 @@ of part D.—Subparts 2, 3, and 4 of part D of the Individuals with Disabilities
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–256, §1, Oct. 5, 2010, 124 Stat. 2643, provided that: "This Act \[amending this section, sections 1140, 1401, and 7512 of this title, sections 705, 764, and 791 of Title 29, Labor, and sections 217a–1, 247b–4, 285g, 285g–2, 291k, 294c, and 300d–52 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, and amending provisions set out as notes under sections 280f, 285g, 300b–1, and 2000ff of Title 42\] may be cited as 'Rosa's Law'."
+Pub. L. 111–256, §1, Oct. 5, 2010, 124 Stat. 2643, provided that: "This Act \[amending this section, sections 1140,1401, and 7512 of this title, sections 705, 764, and 791 of Title 29, Labor, and sections 217a–1, 247b–4, 285g, 285g–2, 291k, 294c, and 300d–52 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, and amending provisions set out as notes under sections 280f, 285g, 300b–1, and 2000ff of Title 42\] may be cited as 'Rosa's Law'."
 
 #### Short Title of 2004 Amendment
 
@@ -190,7 +190,7 @@ Pub. L. 94–142, §1, Nov. 29, 1975, 89 Stat. 773, provided: "That this Act \[e
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–380, title VI, §611, Aug. 21, 1974, 88 Stat. 579, provided that: "This title \[enacting section 1424a ofthis title, amending sections 1402, 1403, 1411 to 1413, 1426, 1436, 1444, 1452, 1454, and 1461 of this title, and enacting provisions set out as notes under sections 1402 and 1411 to 1413 of this title\] may be cited as the 'Education of the Handicapped Amendments of 1974'."
+Pub. L. 93–380, title VI, §611, Aug. 21, 1974, 88 Stat. 579, provided that: "This title \[enacting section 1424a of this title, amending sections 1402, 1403, 1411 to 1413, 1426, 1436, 1444, 1452, 1454, and 1461 of this title, and enacting provisions set out as notes under sections 1402 and 1411 to 1413 of this title\] may be cited as the 'Education of the Handicapped Amendments of 1974'."
 
 #### Regulations
 

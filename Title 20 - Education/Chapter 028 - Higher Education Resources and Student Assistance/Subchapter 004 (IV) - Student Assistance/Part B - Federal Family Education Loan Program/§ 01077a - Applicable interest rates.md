@@ -94,7 +94,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (a), (b), (d), and (e) of this section, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the firstdisbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;Notwithstanding subsections (a), (b), (d), and (e) of this section, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -146,7 +146,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (2) Interest rates for new PLUS loans after July 1, 1998
 
-&emsp;Notwithstanding subsections (a), (b), (d), (e), (f), and (g), with respect to any loan made under section 1078–2 of this title for which the first disbursement is made on or after July 1, 1998, paragraph (1) shall be applied—
+&emsp;Notwithstanding subsections (a), (b), (d), (e), (f), and (g), with respect to any loan madeunder section 1078–2 of this title for which the first disbursement is made on or after July 1, 1998, paragraph (1) shall be applied—
 
 &emsp;&emsp;(A) by substituting "2.1 percent" for "1.0 percent" in subparagraph (B); and
 
@@ -180,7 +180,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (3) Excess interest on loans after 1992 amendments, to borrowers with outstanding balances
 
-&emsp;If, with respect to a loan made on or after July 23, 1992, to a borrower, who on the date ofentering into the note or other written evidence of the loan, has an outstanding balance of principal or interest on any other loan made, insured, or guaranteed under this part, the sum of the average of the bond equivalent rates of 91-day Treasury bills auctioned for that quarter and 3.1 percent is less than the applicable interest rate, then an adjustment shall be made—
+&emsp;If, with respect to a loan made on or after July 23, 1992, to a borrower, who on the date of entering into the note or other written evidence of the loan, has an outstanding balance of principal or interest on any other loan made, insured, or guaranteed under this part, the sum of the average of the bond equivalent rates of 91-day Treasury bills auctioned for that quarter and 3.1 percent is less than the applicable interest rate, then an adjustment shall be made—
 
 &emsp;&emsp;(A) by calculating excess interest in the amount computed under paragraph (4) of this subsection; and
 
@@ -208,7 +208,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (7) Conversion to variable rate
 
-&emsp;(A) Subject to subparagraphs (C) and (D), a lender or holder shall convert the interest rate on a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. Such conversion shall occur not later than January 1, 1995, and, commencing on the date of conversion, the applicable interest rate for each 12-month period beginning on July 1 and ending on June 30 shall be determined by the Secretary on the June 1 preceding each such 12-month period and be equal to the sum of (i) the bond equivalent rate of the 91-day Treasury bills auctioned at the final auction prior to such June 1; and (ii) 3.25 percent in the case of loans described in paragraph (1), or 3.10 percent in the case of loans described in paragraph (3).
+&emsp;(A) Subject to subparagraphs (C) and (D), a lender or holder shall convert the interest rateon a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. Such conversion shall occur not later than January 1, 1995, and, commencing on the date of conversion, the applicable interest rate for each 12-month period beginning on July 1 and ending on June 30 shall be determined by the Secretary on the June 1 preceding each such 12-month period and be equal to the sum of (i) the bond equivalent rate of the 91-day Treasury bills auctioned at the final auction prior to such June 1; and (ii) 3.25 percent in the case of loans described in paragraph (1), or 3.10 percent in the case of loans described in paragraph (3).
 
 &emsp;(B) In connection with the conversion specified in subparagraph (A) for any period prior to such conversion, and subject to paragraphs (C) and (D), a lender or holder shall convert the interest rate to a variable rate on a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. The interest rates for such period shall be reset on a quarterly basis and the applicable interest rate for any quarter or portion thereof shall equal the sum of (i) the average of the bond equivalent rates of 91-Treasury bills auctioned for the preceding 3-month period, and (ii) 3.25 percent in the case of loans described in paragraph (1) or 3.10 percent in the case of loans described in paragraph (3). The rebate of excess interest derived through this conversion shall be provided to the borrower as specified in paragraph (5) for loans described in paragraph (1) or to the Government and borrower as specified in paragraph (3).
 
@@ -300,7 +300,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (h), with respect to any loan made, insured, or guaranteedunder this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 2006, and before July 1, 2010, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
+&emsp;Notwithstanding subsection (h), with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 2006, and before July 1, 2010, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
 
 #### (2) PLUS loans
 
@@ -336,7 +336,7 @@ For the purpose of subsections (a) and (d) of this section—
 
 &emsp;(2) the term "period of enrollment" shall be the period for which the loan is made as determined by the institution of higher education and shall coincide with academic terms such as academic year, semester, trimester, quarter, or other academic period as defined by such institution.
 
-(Pub. L. 89–329, title IV, §427A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1364; amended Pub. L. 100–50, §10(d)(1), June 3, 1987, 101 Stat. 342; Pub. L. 102–325, title IV, §415, July 23, 1992, 106 Stat. 514; Pub. L. 103–66, title IV, §4101, Aug. 10, 1993, 107 Stat. 364; Pub. L. 103–208, §2(c)(5)–(10), Dec. 20, 1993, 107 Stat. 2461; Pub. L. 105–178, title VIII, §8301(a)(1), June 9, 1998, 112 Stat. 496; Pub. L. 105–244, title IV, §416(a)(1), Oct. 7, 1998, 112 Stat. 1679; Pub. L. 106–554, §1(a)(1) \[title III, §318(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(a)(1), (c), Feb. 8, 2002, 116 Stat. 8, 9; Pub. L. 109–171, title VIII, §8006(a), Feb. 8, 2006, 120 Stat. 159; Pub. L. 110–84, title II, §201(a)(1), Sept. 27, 2007, 121 Stat. 790; Pub. L. 111–152, title II, §2203, Mar. 30, 2010, 124 Stat. 1074.)
+(Pub. L. 89–329, title IV, §427A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1364; amended Pub. L. 100–50, §10(d)(1), June 3, 1987, 101 Stat. 342; Pub. L. 102–325, title IV, §415, July 23, 1992, 106 Stat. 514; Pub. L. 103–66, title IV, §4101, Aug. 10, 1993, 107 Stat. 364; Pub. L. 103–208, §2(c)(5)–(10), Dec. 20, 1993, 107 Stat. 2461;Pub. L. 105–178, title VIII, §8301(a)(1), June 9, 1998, 112 Stat. 496; Pub. L. 105–244, title IV, §416(a)(1), Oct. 7, 1998, 112 Stat. 1679; Pub. L. 106–554, §1(a)(1) \[title III, §318(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(a)(1), (c), Feb. 8, 2002, 116 Stat. 8, 9; Pub. L. 109–171, title VIII, §8006(a), Feb. 8, 2006, 120 Stat. 159; Pub. L. 110–84, title II, §201(a)(1), Sept. 27, 2007, 121 Stat. 790; Pub. L. 111–152, title II, §2203, Mar. 30, 2010, 124 Stat. 1074.)
 
 #### <b>Editorial Notes</b>
 

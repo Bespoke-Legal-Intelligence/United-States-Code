@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Authority of attorney general over certain audits and investigations.—Notwithstanding the 2d sentence and last sentence of section 403(a) of this title, the InspectorGeneral shall be under the authority, direction, and control of the Attorney General with respect to audits or investigations, or the issuance of subpoenas, which require access to sensitive information concerning—
+Authority of attorney general over certain audits and investigations.—Notwithstanding the 2d sentence and last sentence of section 403(a) of this title, the Inspector General shall be under the authority, direction, and control of the Attorney General with respect to audits or investigations, or the issuance of subpoenas, which require access to sensitive information concerning—
 
 &emsp;&emsp;(A) ongoing civil or criminal investigations or proceedings;
 
@@ -60,7 +60,7 @@ Regulation To Ensure Reporting of Certain Allegations to Inspector General.—Th
 
 <i>(A) by striking "committees or subcommittees of the Congress" and inserting "congressional committees"; and</i>
 
-<i>(B) by striking "Committees on the Judiciary and Governmental Affairs of the Senate and the Committees on the Judiciary and Government Operations of the House of Representatives" and inserting "Committee on the Judiciary of</i><i>the Senate and the Committee on the Judiciary of the House of Representatives".</i>
+<i>(B) by striking "Committees on the Judiciary and Governmental Affairs of the Senate and the Committees on the Judiciary and Government Operations of the House of Representatives" and inserting "Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives".</i>
 
 <i>Some of the text directed to be stricken in subsections (a)(3) and (c) did not appear exactly as quoted in the text enacted by Pub. L. 117–286. See Historical and Revision notes below.</i>
 
@@ -87,6 +87,10 @@ In subsection (a)(3) and subsection (c), the words "\[Committee\] on Homeland Se
 In subsection (a)(3) and subsection (c), the words "Committee on Oversight and Reform \[of the House of Representatives\]" are substituted for "\[Committee on\] Government Operations \[of the House of Representatives\]" on authority of section 1(a) of Public Law 104–14 (2 U.S.C. note prec. 21), House Resolution No. 5 (106th Congress, January 6, 1999), House Resolution No. 6 (110th Congress, January 5, 2007), and rule X(1)(n) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (116th Congress, January 9, 2019).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Appointment of Oversight Official Within the Office of Inspector General
 

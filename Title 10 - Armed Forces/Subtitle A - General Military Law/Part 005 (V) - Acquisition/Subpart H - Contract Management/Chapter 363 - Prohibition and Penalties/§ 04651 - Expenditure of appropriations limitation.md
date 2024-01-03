@@ -2,7 +2,7 @@
 
 (a) Money appropriated to the Department of Defense may not be spent under a contract other than a contract for personal services unless that contract provides that—
 
-&emsp;(1) the United States may, by written notice to the contractor, terminate the right of the contractor to proceed under the contract if the Secretary concerned or his designee finds, after notice and hearing, that the contractor, or his agent or other representative, offered or gave any gratuity, such as entertainment or a gift, to an officer, official, or employee of the United States to obtain a contract or favorable treatment in the awarding, amending, or making of determinations concerning the performance, of a contract; and
+&emsp;(1) the United States may, by written notice to the contractor, terminate the right of thecontractor to proceed under the contract if the Secretary concerned or his designee finds, after notice and hearing, that the contractor, or his agent or other representative, offered or gave any gratuity, such as entertainment or a gift, to an officer, official, or employee of the United States to obtain a contract or favorable treatment in the awarding, amending, or making of determinations concerning the performance, of a contract; and
 
 &emsp;(2) if a contract is terminated under clause (1), the United States has the same remedies against the contractor that it would have had if the contractor had breached the contract and, in addition to other damages, is entitled to exemplary damages in an amount at least three, but not more than 10, as determined by the Secretary or his designee, times the cost incurred by the contractor in giving gratuities to the officer, official, or employee concerned.
 

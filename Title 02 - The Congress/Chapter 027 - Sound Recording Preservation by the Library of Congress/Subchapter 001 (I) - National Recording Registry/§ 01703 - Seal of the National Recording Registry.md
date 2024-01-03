@@ -18,7 +18,7 @@ The Librarian shall establish guidelines for approval of the use of the seal pro
 
 #### (c) Effective date of the seal
 
-The use of the seal provided under subsection (a) with respect to a sound recording shall be effective beginning on the date the Librarian publishes in the Federal Register (in accordance with section 1702(b) of this title) the name of the recording, as selected for inclusion in the National Recording Registry.
+The use of the seal provided under subsection (a) with respect to a sound recording shall be effective beginning on the date the Librarian publishes in the Federal Register (in accordance with section 1702(b) of this title) the name of therecording, as selected for inclusion in the National Recording Registry.
 
 #### (d) Prohibited uses of the seal
 
@@ -28,7 +28,7 @@ The use of the seal provided under subsection (a) with respect to a sound record
 
 &emsp;&emsp;(A) is not included in the National Recording Registry; or
 
-&emsp;&emsp;(B) is included in the National Recording Registry but has not been approved for useof the seal by the Librarian pursuant to the guidelines established under subsection (b).
+&emsp;&emsp;(B) is included in the National Recording Registry but has not been approved for use of the seal by the Librarian pursuant to the guidelines established under subsection (b).
 
 #### (2) Prohibition on promotion
 

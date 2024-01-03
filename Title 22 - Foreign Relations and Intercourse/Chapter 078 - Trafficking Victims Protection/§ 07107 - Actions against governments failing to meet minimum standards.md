@@ -86,7 +86,7 @@ It is the policy of the United States not to provide nonhumanitarian, nontrade-r
 
 &emsp;&emsp;&emsp;&emsp;(I) 2 consecutive years after December 23, 2008; and
 
-&emsp;&emsp;&emsp;&emsp;(II) any additional years after such date of enactment as a result of thePresident exercising the waiver authority under subparagraph (D)(ii); and
+&emsp;&emsp;&emsp;&emsp;(II) any additional years after such date of enactment as a result of the President exercising the waiver authority under subparagraph (D)(ii); and
 
 &emsp;&emsp;&emsp;(ii) was subsequently included on the list of countries described in paragraph (1)(C).
 
@@ -182,7 +182,7 @@ The determinations referred to in subsection (c) are the following:
 
 &emsp;&emsp;(ii) in the case of a country whose government received no nonhumanitarian, nontrade-related foreign assistance from the United States during the previous fiscal year, the United States will not provide such assistance to the government of the country for the subsequent fiscal year and will not provide funding for participation by officials or employees of such governments in educational and cultural exchange programs for the subsequent fiscal year until such government complies with the minimum standards or makes significant efforts to bring itself into compliance; and
 
-&emsp;&emsp;(B) the President will instruct the United States Executive Director of each multilateral development bank and of the International Monetary Fund to vote against, and to use the Executive Director's best efforts to deny, any loan or other utilization of the funds of the respective institution to that country (other than for humanitarian assistance, for trade-related assistance, or for development assistance which directly addresses basic human needs, is not administered by the government of the sanctioned country, and confers no benefit to that government) for the subsequent fiscal year until such government complies with the minimum standards or makes significant efforts to bring itself into compliance.
+&emsp;&emsp;(B) the President will instruct the United States Executive Director of each multilateral development bank and of the International Monetary Fund to vote against, andto use the Executive Director's best efforts to deny, any loan or other utilization of the funds of the respective institution to that country (other than for humanitarian assistance, for trade-related assistance, or for development assistance which directly addresses basic human needs, is not administered by the government of the sanctioned country, and confers no benefit to that government) for the subsequent fiscal year until such government complies with the minimum standards or makes significant efforts to bring itself into compliance.
 
 #### (2) Ongoing, multiple, broad-based restrictions on assistance in response to human rights violations
 
@@ -222,7 +222,7 @@ Together with any notification under subsection (c), the President shall provide
 
 #### (f) Subsequent waiver authority
 
-After the President has made a determination described in subsection (d)(1) with respect to thegovernment of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) to waive, in whole or in part, the measures imposed against the country by the previous determination under subsection (d)(1).
+After the President has made a determination described in subsection (d)(1) with respect to the government of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) to waive, in whole or in part, the measures imposed against the country by the previous determination under subsection (d)(1).
 
 (Pub. L. 106–386, div. A, §110, Oct. 28, 2000, 114 Stat. 1482; Pub. L. 108–193, §6(e), (h), (i), Dec. 19, 2003, 117 Stat. 2882, 2884; Pub. L. 109–164, title I, §104(e)(1), Jan. 10, 2006, 119 Stat. 3565; Pub. L. 110–457, title I, §§107(a), (b), 108(b), Dec. 23, 2008, 122 Stat. 5049, 5051; Pub. L. 113–4, title XII, §§1205, 1212(b)(2)(A)(i), Mar. 7, 2013, 127 Stat. 139, 143; Pub. L. 115–425, title II, §203, Jan. 8, 2019, 132 Stat. 5482; Pub. L. 115–427, §6, Jan. 9, 2019, 132 Stat. 5505; Pub. L. 116–283, div. A, title XII, §1299R(b), Jan. 1, 2021, 134 Stat. 4027.)
 
@@ -240,7 +240,7 @@ Section 7102(8) of this title, referred to in subsec. (e), was redesignated sect
 
 <b>2019</b>—Subsec. (b)(1). Pub. L. 115–427, §6(1)(A), substituted "The report shall, to the extent concurrent reporting data is available, cover efforts and activities taking place during the period between April 1 of the year preceding the report and March 31 of the year in which the report is made, and should" for "The report should" in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 115–427, §6(1)(B), inserted "based only on concrete actions taken by the country that are recorded during the reporting period" after "such standards".
+Subsec. (b)(1)(A). Pub. L. 115–427, §6(1)(B), inserted "based only on concrete actions taken by the countrythat are recorded during the reporting period" after "such standards".
 
 Subsec. (b)(1)(B). Pub. L. 115–427, §6(1)(C), inserted "based only on concrete actions taken by the country (excluding any commitments by the country to take additional future steps during the next year) that are recorded during the reporting period" after "compliance".
 
@@ -340,37 +340,43 @@ Pub. L. 110–457, title I, §107(c), Dec. 23, 2008, 122 Stat. 5050, provided th
 
 #### Presidential Determination With Respect to the Efforts of Foreign Governments Regarding Trafficking in Persons
 
-Determination of President of the United States, No. 2023–02, Oct. 14, 2022, 87 F.R. 64361, provided:
+Determination of President of the United States, No. 2023–14, Sept. 29, 2023, 88 F.R. 73523, provided:
 
 Memorandum for the Secretary of State
 
 Consistent with section 110 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107) (the "Act"), as amended, I hereby determine as follows:
 
-As provided for in section 110(d)(1)(A)(i) of the Act, that the United States will not provide nonhumanitarian, nontrade-related assistance to the Governments of Afghanistan, Burma, Guinea-Bissau, Iran, the People's Republic of China (PRC), and South Sudan for Fiscal Year (FY) 2023 until such governments comply with the Act's minimum standards or make significant efforts to bring themselves into compliance with the minimum standards;
+As provided for in section 110(d)(1)(A)(i) of the Act, that the United States will not provide nonhumanitarian, nontrade-related assistance to the Governments of Afghanistan, Burma, Chad, Equatorial Guinea, Guinea-Bissau, Iran, the People's Republic of China (PRC), and South Sudan for Fiscal Year (FY) 2024 until such governments comply with the Act's minimum standards or make significant efforts to bring themselves into compliance with the minimum standards;
 
-As provided for in section 110(d)(1)(A)(ii) of the Act, that the United States will not provide nonhumanitarian, nontrade-related assistance to, or allow funding for participation in educational and cultural exchange programs by officials or employees of, the Governments of Belarus, Cuba, the Democratic People's Republic of Korea (DPRK), Eritrea, Macau (Special Administrative Region of the PRC), Nicaragua, Russia, and Syria for FY 2023 until such governments comply with the Act's minimum standards or make significant efforts to bring themselves into compliance with the minimum standards;
+As provided for in section 110(d)(1)(A)(ii) of the Act, that the United States will not provide nonhumanitarian, nontrade-related assistance to, or allow funding for participation in educational and cultural exchange programs by officials or employees of, the Governments of Belarus, Cuba, the Democratic People's Republic of Korea (DPRK), Eritrea, Macau (Special Administrative Region of the PRC), Nicaragua, Russia, and Syria for FY 2024 until such governments comply with the Act's minimum standards or make significant efforts to bring themselves into compliance with the minimum standards;
 
-As provided for in section 110(d)(1)(B) of the Act, I hereby instruct the United States Executive Director of each multilateral development bank, as defined in the Act, and of the International Monetary Fund to vote against and use best efforts to deny any loan or other utilization of the funds of the respective institution (other than for humanitarian assistance; for trade-related assistance; or for development assistance that directly addresses basic human needs, is not administered by the government of such country, and confers no benefit to that government) for the Governments of Belarus, Burma, Cuba, the DPRK, Eritrea, Iran, Macau (Special Administrative Region of the PRC), Nicaragua, the PRC, Russia, South Sudan, and Syria for FY 2023 until such governments comply with the Act's minimum standards or make significant efforts to bring themselves into compliance with the minimum standards;
+As provided for in section 110(d)(1)(B) of the Act, I hereby instruct the United States Executive Director of each multilateral development bank, as defined in the Act, and of the International Monetary Fund to vote against and use best efforts to deny any loan or other utilization of the funds of the respective institution (other than for humanitarian assistance; for trade-related assistance; or for development assistance that directly addresses basic human needs, is not administered by the government of such country, and confers no benefit to that government) for the Governments of Belarus, Burma, Cuba, the DPRK, Eritrea, Iran, Macau (Special Administrative Region of the PRC), Nicaragua, the PRC, Russia, South Sudan, and Syria for FY 2024 until such governments comply with the Act's minimum standards or make significant efforts to bring themselves into compliance with the minimum standards;
 
-Consistent with section 110(d)(4) of the Act, I determine that the provision of all programs, projects, activities, and funding for educational and cultural exchange programs described in sections 110(d)(1)(A) and 110(d)(1)(B) of the Act to Brunei, Cambodia, Malaysia, Turkmenistan, Venezuela, and Vietnam, would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Consistent with section 110(d)(4) of the Act, I determine that the provision of all programs, projects, activities, and funding for educational and cultural exchange programs described in sections 110(d)(1)(A) and 110(d)(1)(B) of the Act to Algeria, Cambodia, Djibouti, Papua New Guinea, Turkmenistan, and Venezuela would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Consistent with section 110(d)(4) of the Act, I determine that providing the assistance described in section 110(d)(1)(B) of the Act to Afghanistan and Guinea-Bissau would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Consistent with section 110(d)(4) of the Act, I determine that providing the assistance described in section 110(d)(1)(B) of the Act to Afghanistan, Chad, Equatorial Guinea, and Guinea-Bissau would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
 Consistent with section 110(d)(4) of the Act, I determine that a partial waiver with respect to Belarus, Eritrea, Macau (Special Administrative Region of the PRC), and Russia to allow funding for educational and cultural exchange programs described in section 110(d)(1)(A)(ii) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
 Consistent with section 110(d)(4) of the Act, with respect to Afghanistan, I determine that a partial waiver of the restriction described in section 110(d)(1)(A)(i) of the Act to allow for Economic Support Fund (ESF) and Global Health Programs (GHP) assistance would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Consistent with section 110(d)(4) of the Act, with respect to Guinea-Bissau, I determine that a partial waiver of the restriction described in section 110(d)(1)(A)(i) of the Act to allow for International Military Education and Training (IMET); Nonproliferation, Anti-terrorism, Demining, and Related Programs–Conventional Weapons Destruction (NADR–CWD); Development Assistance (DA); ESF; and GHP assistance would promote the purposes of the Act or is otherwise in the national interest of the United States; and
+Consistent with section 110(d)(4) of the Act, with respect to Chad, I determine that a partial waiver of the restriction described in section 110(d)(1)(A)(i) of the Act to allow for Development Assistance (DA), ESF, and GHP assistance would promote the purposes of the Act or is otherwise in the national interest of the United States;
+
+Consistent with section 110(d)(4) of the Act, with respect to Equatorial Guinea, I determine that a partial waiver of the restriction described in section 110(d)(1)(A)(i) of the Act to allow for International Military Education and Training (IMET), Peacekeeping Operations (PKO), DA, ESF, and GHP assistance would promote the purposes of the Act or is otherwise in the national interest of the United States;
+
+Consistent with section 110(d)(4) of the Act, with respect to Guinea-Bissau, I determine that a partial waiver of the restriction described in section 110(d)(1)(A)(i) of the Act to allow for IMET, PKO, DA, ESF, and GHP assistance would promote the purposes of the Act or is otherwise in the national interest of the United States; and
 
 Consistent with section 110(d)(4) of the Act, with respect to South Sudan, I determine that a partial waiver of the restriction described in section 110(d)(1)(A)(i) of the Act to allow for GHP assistance would promote the purposes of the Act or is otherwise in the national interest of the United States.
 
-In addition, with respect to the Governments of Curacao and Sint Maarten, consistent with the United States Government's firm stand against human trafficking, and until such governments take steps consistent with compliance with the minimum standards of the Act or make significant efforts to do so, I hereby: (i) direct that executive departments and agencies shall not provide nonhumanitarian, nontrade-related foreign assistance, as described in section 110(d)(1)(A) of the Act, to the Governments of Curacao and Sint Maarten; (ii) instruct the United States Executive Director of each multilateral development bank, as defined in the Act, and of the International Monetary Fund to vote against and use best efforts to deny any loan or other utilization of the funds of the respective institution (other than for humanitarian assistance, for trade-related assistance, or for development assistance that directly addresses basic human needs, is not administered by such government, and confers no benefit to that government) to Curacao and Sint Maarten, as described in section 110(d)(1)(B) of the Act; and (iii) direct that funding for participation by officials or employees of the Governments of Curacao and Sint Maarten in educational and cultural exchange programs shall continue to be permitted in FY 2023, consistent with the foreign policy and all applicable laws of the United States.
+In addition, with respect to the Governments of Curacao and Sint Maarten, consistent with the United States Government's firm stand against human trafficking, and until such governments take steps consistent with compliance with the minimum standards of the Act or make significant efforts to do so, I hereby: (i) direct that executive departments and agencies shall not provide nonhumanitarian, nontrade-related foreign assistance, as described in section 110(d)(1)(A) of the Act, to the Governments of Curacao and Sint Maarten; (ii) instruct the United States Executive Director of each multilateral development bank, as defined in the Act, and of the International Monetary Fund to vote against and use best efforts to deny any loan or other utilization of the funds of the respective institution (other than for humanitarian assistance, for trade-related assistance, or for development assistance that directly addresses basic human needs, is not administered by such government, and confers no benefit to that government) to Curacao and Sint Maarten, as described in section 110(d)(1)(B) of the Act; and (iii) direct that funding for participation by officials or employees of the Governments of Curacao and Sint Maarten in educational and cultural exchange programs shall continue to be permitted in FY 2024, consistent with the foreign policy and all applicable laws of the United States.
 
 You are authorized and directed to submit this determination, the certification required by section 110(e) of the Act, and the Memorandum of Justification, on which I have relied, to the Congress, and to publish this determination in the Federal Register.
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior determinations and certifications regarding trafficking in persons were contained in the following:
+
+Determination of President of the United States, No. 2023–02, Oct. 14, 2022, 87 F.R. 64361.
 
 \[Determination of President of the United States, No. 2022–06, Dec. 21, 2021, not published in the Federal Register.\]
 

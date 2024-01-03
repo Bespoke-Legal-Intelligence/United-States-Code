@@ -22,7 +22,7 @@ The words "United States," as used herein, shall be deemed to mean all land and 
 
 The words "the beginning of the war," as used herein, shall be deemed to mean midnight ending the day on which Congress has declared or shall declare war or the existence of a state of war.
 
-The words "end of the war," as used herein, shall be deemed to mean the date of proclamation of exchange of ratifications of the treaty of peace, unless the President shall, by proclamation, declare a prior date, in which case the date so proclaimed shall be deemed to be the "end of the war" within the meaning of this chapter.
+The words "end of the war," as used herein, shall be deemed to mean the date of proclamation of exchange of ratifications of the treaty ofpeace, unless the President shall, by proclamation, declare a prior date, in which case the date so proclaimed shall be deemed to be the "end of the war" within the meaning of this chapter.
 
 The words "bank or banks," as used herein, shall be deemed to mean and include national banks, State banks, trust companies, or other banks or banking associations doing business under the laws of the United States, or of any State of the United States.
 

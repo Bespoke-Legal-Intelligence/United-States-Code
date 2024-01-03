@@ -102,7 +102,7 @@ Relinquishment of Investigative Priority.—
 
 &emsp;(1)
 
-General rule.—This section (other than subsection (g)) shall not apply to an aircraftaccident if the Board has relinquished investigative priority under section 1131(a)(2)(B) and the Federal agency to which the Board relinquished investigative priority is willing and able to provide assistance to the victims and families of the passengers involved in the accident.
+General rule.—This section (other than subsection (g)) shall not apply to an aircraft accident if the Board has relinquished investigative priority under section 1131(a)(2)(B) and the Federal agency to which the Board relinquished investigative priority is willing and able to provide assistance to the victims and families of the passengers involved in the accident.
 
 &emsp;(2)
 

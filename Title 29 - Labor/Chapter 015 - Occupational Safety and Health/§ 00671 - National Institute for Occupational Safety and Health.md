@@ -66,7 +66,7 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 #### (2) Evaluation of programs
 
-&emsp;The Institute shall conduct periodic and comprehensive assessments of the efficacy of the worker and supervisor training programs developed and offered by those receiving grants under this section. The Director shall prepare reports on the results of these assessments addressed to the Administrator of the Environmental Protection Agency to include recommendations as may be appropriate for the revision of these programs. The sum of $500,000 is authorized to be appropriated to the Institute for each of the fiscal years 1994 through 1997 to carry out this paragraph.
+&emsp;The Institute shall conduct periodic and comprehensive assessments of the efficacy of the worker and supervisor training programs developed and offered by those receiving grants under this section. The Director shall prepare reports on the results of these assessments addressed to the Administrator of the Environmental Protection Agency to include recommendations as may be appropriate forthe revision of these programs. The sum of $500,000 is authorized to be appropriated to the Institute for each of the fiscal years 1994 through 1997 to carry out this paragraph.
 
 #### (h) Office of Mine Safety and Health
 
@@ -118,7 +118,7 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 &emsp;There is authorized to be appropriated, such sums as may be necessary to enable the Institute and the Office of Mine Safety and Health to carry out this subsection.
 
-(Pub. L. 91–596, §22, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–550, title X, §1033, Oct. 28,1992, 106 Stat. 3924; Pub. L. 109–236, §6(a), June 15, 2006, 120 Stat. 498.)
+(Pub. L. 91–596, §22, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–550, title X, §1033, Oct. 28, 1992, 106 Stat. 3924; Pub. L. 109–236, §6(a), June 15, 2006, 120 Stat. 498.)
 
 #### <b>Editorial Notes</b>
 
@@ -143,8 +143,6 @@ In subsec. (e)(8), "section 3324(a) and (b) of title 31" substituted for "sectio
 #### Change of Name
 
 "Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (a) to (d) and (f) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Termination of Reporting Requirements
 

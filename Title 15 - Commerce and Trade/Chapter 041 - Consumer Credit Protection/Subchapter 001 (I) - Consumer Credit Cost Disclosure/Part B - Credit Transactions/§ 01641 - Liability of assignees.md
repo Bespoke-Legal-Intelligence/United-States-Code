@@ -2,7 +2,7 @@
 
 #### (a) Prerequisites
 
-Except as otherwise specifically provided in this subchapter, any civil action for a violationof this subchapter or proceeding under section 1607 of this title which may be brought against a creditor may be maintained against any assignee of such creditor only if the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement, except where the assignment was involuntary. For the purpose of this section, a violation apparent on the face of the disclosure statement includes, but is not limited to (1) a disclosure which can be determined to be incomplete or inaccurate from the face of the disclosure statement or other documents assigned, or (2) a disclosure which does not use the terms required to be used by this subchapter.
+Except as otherwise specifically provided in this subchapter, any civil action for a violation of this subchapter or proceeding under section 1607 of this title which may be brought against a creditor may be maintained against any assignee of such creditor only if the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement, except where the assignment was involuntary. For the purpose of this section, a violation apparent on the face of the disclosure statement includes, but is not limited to (1) a disclosure which can be determined to be incomplete or inaccurate from the face of the disclosure statement or other documents assigned, or (2) a disclosure which does not use the terms required to be used by this subchapter.
 
 #### (b) Proof of compliance with statutory provisions
 
@@ -100,7 +100,7 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 #### References in Text
 
-Section 1602(aa) of this title, referred to in subsec. (d)(1), (4), was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(aa) of this title, referred to in subsec. (d)(1), (4), was redesignated section 1602(bb) of this titleby Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 #### Amendments
 

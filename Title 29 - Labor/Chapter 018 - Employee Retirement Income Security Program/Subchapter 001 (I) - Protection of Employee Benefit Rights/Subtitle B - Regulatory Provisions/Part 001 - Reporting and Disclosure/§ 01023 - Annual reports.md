@@ -52,7 +52,7 @@
 
 An annual report under this section shall include a financial statement containing the following information:
 
-(1) With respect to an employee welfare benefit plan: a statement of assets and liabilities; a statement of changes in fund balance; and a statement of changes in financial position. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; a description of material lease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of the plan.
+(1) With respect to an employee welfare benefit plan: a statement of assets and liabilities; a statement of changes in fund balance; and a statement of changes in financial position. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; a description of material lease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax rulingor determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of the plan.
 
 (2) With respect to an employee pension benefit plan: a statement of assets and liabilities, and a statement of changes in net assets available for plan benefits which shall include details of revenues and expenses and other changes aggregated by general source and application. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; the funding policy (including policy with respect to prior service cost), and any changes in such policies during the year; a description of any significant changes in plan benefits made during the period; a description of material lease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of such pension plan.
 
@@ -82,7 +82,7 @@ An annual report under this section shall include a financial statement containi
 
 &emsp;&emsp;(iv) a transaction with or in conjunction with a person respecting a security, if any other transaction with or in conjunction with such person in the plan year respecting a security is required to be reported by reason of clause (i).
 
-(4) The Secretary may, by regulation, relieve any plan from filing a copy of a statement of assets and liabilities (or other information) described in paragraph (3)(G) if such statementand other information is filed with the Secretary by the bank or insurance carrier which maintains the common or collective trust or separate account.
+(4) The Secretary may, by regulation, relieve any plan from filing a copy of a statement of assets and liabilities (or other information) described in paragraph (3)(G) if such statement and other information is filed with the Secretary by the bank or insurance carrier which maintains the common or collective trust or separate account.
 
 #### (c) Information to be furnished by administrator
 
@@ -260,7 +260,7 @@ Amendment by Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L.113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2008 Amendment
 

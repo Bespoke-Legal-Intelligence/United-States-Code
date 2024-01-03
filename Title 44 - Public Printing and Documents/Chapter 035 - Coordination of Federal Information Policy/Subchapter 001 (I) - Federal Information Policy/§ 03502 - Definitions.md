@@ -30,7 +30,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(A) means the obtaining, causing to be obtained, soliciting, or requiring the disclosure to third parties or the public, of facts or opinions by or for an agency, regardless of form or format, calling for either—
 
-&emsp;&emsp;&emsp;(i) answers to identical questions posed to, or identical reporting or recordkeepingrequirements imposed on, ten or more persons, other than agencies, instrumentalities, or employees of the United States; or
+&emsp;&emsp;&emsp;(i) answers to identical questions posed to, or identical reporting or recordkeeping requirements imposed on, ten or more persons, other than agencies, instrumentalities, or employees of the United States; or
 
 &emsp;&emsp;&emsp;(ii) answers to questions posed to agencies, instrumentalities, or employees of the United States which are to be used for general statistical purposes; and
 
@@ -38,7 +38,7 @@ As used in this subchapter—
 
 &emsp;(4) the term "Director" means the Director of the Office of Management and Budget;
 
-&emsp;(5) the term "independent regulatory agency" means the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Federal Communications Commission, the Federal Deposit Insurance Corporation, the Federal Energy Regulatory Commission, the Federal Housing Finance Agency, the Federal Maritime Commission, the Federal Trade Commission, the Interstate Commerce Commission, the Mine Enforcement Safety and Health Review Commission, the National Labor Relations Board, the Nuclear Regulatory Commission, the Occupational Safety and Health Review Commission, the Postal Regulatory Commission, the Securities and Exchange Commission, the Bureau of Consumer Financial Protection, the Office of Financial Research, Office of the Comptroller of the Currency, and any other similar agency designated by statute as a Federal independent regulatory agency or commission;
+&emsp;(5) the term "independent regulatory agency" means the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Federal Communications Commission, the Federal Deposit Insurance Corporation, the Federal Energy Regulatory Commission, the Federal Housing Finance Agency, the Federal Maritime Commission, the Federal Trade Commission, the Interstate Commerce Commission, the Mine Enforcement Safety and Health Review Commission, the National Labor Relations Board, the Nuclear Regulatory Commission, the Occupational Safety and Health Review Commission, the Postal Regulatory Commission, the Securities and Exchange Commission, the Bureau of Consumer Financial Protection, the Office of Financial Research, Office of theComptroller of the Currency, and any other similar agency designated by statute as a Federal independent regulatory agency or commission;
 
 &emsp;(6) the term "information resources" means information and related resources, such as personnel, equipment, funds, and information technology;
 

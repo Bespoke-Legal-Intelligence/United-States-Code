@@ -30,7 +30,7 @@ Depreciation.—Depreciation under paragraph (1)(A) shall be based on—
 
 (c)
 
-Option To Purchase.—The charter may contain an option to the charterer to purchase the vessels from the Secretary of Transportation within 5 years after delivery under the charter, on the same terms and conditions as provided in title V of the Merchant Marine Act, 1936, for the purchase of new vessels from the Secretary. However—
+Option To Purchase.—The charter may contain an option to the charterer to purchase the vessels from the Secretary of Transportation within 5 years after delivery under thecharter, on the same terms and conditions as provided in title V of the Merchant Marine Act, 1936, for the purchase of new vessels from the Secretary. However—
 
 &emsp;(1) the purchase price shall be the foreign cost less depreciation to the date of purchase based on the useful life specified in subsection (b)(2);
 

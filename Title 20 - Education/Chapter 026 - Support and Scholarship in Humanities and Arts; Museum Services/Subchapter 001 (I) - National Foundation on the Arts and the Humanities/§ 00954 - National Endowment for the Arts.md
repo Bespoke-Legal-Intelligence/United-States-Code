@@ -392,6 +392,8 @@ Subsecs. (j), (k). Pub. L. 90–348, §2(b), inserted "of exceptional talent" af
 
 #### Change of Name
 
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1990 Amendment
@@ -420,5 +422,5 @@ Pub. L. 101–512, title III, §318 \[title I, §111\], Nov. 5, 1990, 104 Stat. 
 
 #### Temporary Independent Commission To Review Grant Making Procedures and Consider Standards for Publicly Funded Art
 
-Pub. L. 101–121, title III, §304(a)–(c), Oct. 23, 1989, 103 Stat. 741, 742, prohibited use of funds for National Endowment for the Arts or National Endowment for the Humanities to promote, disseminate, or produce materials which in judgment of National Endowment for theArts or National Endowment for the Humanities may be considered obscene; stated the sense of Congress concerning present procedures employed for awarding National Endowment for the Arts grants; and established Independent Commission, to expire Sept. 30, 1990, for purpose of reviewing National Endowment for the Arts grant making procedures, and considering whether standard for publicly funded art should be different than standard for privately funded art.
+Pub. L. 101–121, title III, §304(a)–(c), Oct. 23, 1989, 103 Stat. 741, 742, prohibited use of funds for National Endowment for the Arts or National Endowment for the Humanities to promote, disseminate, or produce materials which in judgment of National Endowment for the Arts or National Endowment for the Humanities may be considered obscene; stated the sense of Congress concerning present procedures employed for awarding National Endowment for the Arts grants; and established Independent Commission, to expire Sept. 30, 1990, for purpose of reviewing National Endowment for the Arts grant making procedures, and considering whether standard for publicly funded art should be different than standard for privately funded art.
 

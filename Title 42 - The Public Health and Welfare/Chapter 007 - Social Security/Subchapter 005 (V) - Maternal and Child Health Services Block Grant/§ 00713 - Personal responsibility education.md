@@ -6,9 +6,9 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2023, the Secretary shall allot to each State an amount equal to the product of—
+&emsp;&emsp;For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2023, for the period beginning on October 1, 2023, and ending on November 17, 2023, and for the period beginning on November 18, 2023, and ending on January 19, 2024, the Secretary shall allot to each State an amount equal to the product of—
 
-&emsp;&emsp;&emsp;(i) the amount appropriated under subsection (f) for the fiscal year and available for allotments to States after the application of subsection (c); and
+&emsp;&emsp;&emsp;(i) the amount appropriated under subsection (f) for the fiscal year or period and available for allotments to States after the application of subsection (c); and
 
 &emsp;&emsp;&emsp;(ii) the State youth population percentage determined under paragraph (2).
 
@@ -16,7 +16,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each State allotment under this paragraph for a fiscal year shall be at least $250,000.
+&emsp;&emsp;&emsp;Each State allotment under this paragraph for a fiscal year shall be at least $250,000. The previous sentence shall not apply with respect to State allotments under this paragraph for the period beginning on October 1, 2023, and ending on November 17, 2023, and for the period beginning on November 18, 2023, and ending on January 19, 2024.
 
 #### (ii) Pro rata adjustments
 
@@ -26,13 +26,13 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A State shall not be paid from its allotment for a fiscal year unless the State submits an application to the Secretary for the fiscal year and the Secretary approves the application (or requires changes to the application that the State satisfies) and meets such additional requirements as the Secretary may specify.
+&emsp;&emsp;&emsp;A State shall not be paid from its allotment for a fiscal year or period described in subparagraph (A) unless the State submits an application to the Secretary for the fiscal year or period and the Secretary approves the application (or requires changes to the application that the State satisfies) and meets such additional requirements as the Secretary may specify.
 
 #### (ii) Requirements
 
 &emsp;&emsp;&emsp;The State application shall contain an assurance that the State has complied with the requirements of this section in preparing and submitting the application and shall include the following as well as such additional information as the Secretary may require:
 
-&emsp;&emsp;&emsp;&emsp;(I) Based on data from the Centers for Disease Control and Prevention National Center for Health Statistics, the most recent pregnancy rates for the State for youth ages 10 to 14 and youth ages 15 to 19 for which data are available, the most recent birth rates for such youth populations in the State for which data areavailable, and trends in those rates for the most recently preceding 5-year period for which such data are available.
+&emsp;&emsp;&emsp;&emsp;(I) Based on data from the Centers for Disease Control and Prevention National Center for Health Statistics, the most recent pregnancy rates for the State for youth ages 10 to 14 and youth ages 15 to 19 for which data are available, the most recent birth rates for such youth populations in the State for which data are available, and trends in those rates for the most recently preceding 5-year period for which such data are available.
 
 &emsp;&emsp;&emsp;&emsp;(II) State-established goals for reducing the pregnancy rates and birth rates for such youth populations.
 
@@ -54,19 +54,19 @@
 
 #### (3) Availability of State allotments
 
-&emsp;Subject to paragraph (4)(A), amounts allotted to a State pursuant to this subsection for a fiscal year shall remain available for expenditure by the State through the end of the second fiscal year following such fiscal year.
+&emsp;Subject to paragraph (4)(A), amounts allotted to a State pursuant to this subsection for a fiscal year or period described in paragraph (1)(A) shall remain available for expenditure by the State through the end of the second fiscal year following such fiscal year or period.
 
 #### (4) Authority to award grants from State allotments to local organizations and entities in nonparticipating States
 
 #### (A) Grants from unexpended allotments
 
-&emsp;&emsp;If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2023 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2023. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
+&emsp;&emsp;If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2023 and for each period described in paragraph (1)(A) and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2023 and for each period so described. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year or period so described that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
 
 #### (B) Competitive prep grants
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall continue through the period described in paragraph (1)(A) grants awarded for any of fiscal years 2015 through 2017 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
+&emsp;&emsp;&emsp;The Secretary shall continue through each period described in paragraph (1)(A) grants awarded for any of fiscal years 2015 through 2017 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
 
 #### (ii) Faith-based organizations or consortia
 
@@ -78,7 +78,7 @@
 
 #### (5) Maintenance of effort
 
-&emsp;No payment shall be made to a State from the allotment determined for the State under this subsection or to a local organization or entity awarded a grant under paragraph (4), if the expenditure of non-federal funds by the State, organization, or entity for activities, programs, or initiatives for which amounts from allotments and grants under this subsection may be expended is less than the amount expended by the State, organization, or entity for such programs or initiatives for fiscal year 2009.
+&emsp;No payment shall be made to a State from the allotment determined for the State under this subsection or to a local organization or entity awarded a grant under paragraph (4), if the expenditure of non-federal funds by the State, organization, or entity for activities,programs, or initiatives for which amounts from allotments and grants under this subsection may be expended is less than the amount expended by the State, organization, or entity for such programs or initiatives for fiscal year 2009.
 
 #### (6) Data collection and reporting
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;The requirements of this subparagraph are the following:
 
-&emsp;&emsp;&emsp;(i) The program replicates evidence-based effective programs or substantially incorporates elements of effective programs that have been proven on the basis of rigorous scientific research to change behavior, which means delaying sexual activity, increasing condom or contraceptiveuse for sexually active youth, or reducing pregnancy among youth.
+&emsp;&emsp;&emsp;(i) The program replicates evidence-based effective programs or substantially incorporates elements of effective programs that have been proven on the basis of rigorous scientific research to change behavior, which means delaying sexual activity, increasing condom or contraceptive use for sexually active youth, or reducing pregnancy among youth.
 
 &emsp;&emsp;&emsp;(ii) The program is medically-accurate and complete.
 
@@ -136,11 +136,11 @@
 
 #### (1) Grants to implement innovative strategies
 
-&emsp;From the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount for purposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, victims of human trafficking, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
+&emsp;Subject to paragraph (3), from the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount for purposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, victims of human trafficking, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
 
 #### (2) Other reservations
 
-&emsp;From the amount appropriated under subsection (f) for the fiscal year that remains after the application of paragraph (1), the Secretary shall reserve the following amounts:
+&emsp;Subject to paragraph (3), from the amount appropriated under subsection (f) for the fiscal year that remains after the application of paragraph (1), the Secretary shall reserve the following amounts:
 
 #### (A) Grants for Indian tribes or tribal organizations
 
@@ -154,11 +154,15 @@
 
 #### (ii) Program support
 
-&emsp;&emsp;&emsp;The Secretary shall provide, directly or through a competitive grant process, research, training and technical assistance, including dissemination of research and information regarding effective and promising practices, providing consultation and resources on a broad array of teen pregnancy prevention strategies, including abstinence and contraception, and developing resources and materials to support the activities of recipients of grants and other State, tribal, and community organizations working to reduce teen pregnancy. In carrying out such functions, the Secretary shall collaborate with a variety of entities that have expertise in the prevention of teen pregnancy, HIV and sexually transmitted infections, healthy relationships, financial literacy, and other topics addressed through the personal responsibility education programs.
+&emsp;&emsp;&emsp;The Secretary shall provide, directly or through a competitive grant process, research, training and technical assistance,including dissemination of research and information regarding effective and promising practices, providing consultation and resources on a broad array of teen pregnancy prevention strategies, including abstinence and contraception, and developing resources and materials to support the activities of recipients of grants and other State, tribal, and community organizations working to reduce teen pregnancy. In carrying out such functions, the Secretary shall collaborate with a variety of entities that have expertise in the prevention of teen pregnancy, HIV and sexually transmitted infections, healthy relationships, financial literacy, and other topics addressed through the personal responsibility education programs.
 
 #### (iii) Evaluation
 
 &emsp;&emsp;&emsp;The Secretary shall evaluate the programs and activities carried out with funds made available through allotments or grants under this section.
+
+#### (3) Exception
+
+&emsp;Paragraphs (1) and (2) shall not apply with respect to any amount appropriated under subsection (f) for a period described in subsection (a)(1)(A) for fiscal year 2024.
 
 #### (d) Administration
 
@@ -214,9 +218,9 @@ In this section:
 
 #### (f) Appropriation
 
-For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2023. Amounts appropriated under this subsection shall remain available until expended.
+For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2023, for the period beginning on October 1, 2023, and ending on November 17, 2023, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023, and for the period beginning on November 18, 2023, and ending on January 19, 2024, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023. Amounts appropriated under this subsection shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title V, §513, as added and amended Pub. L. 111–148, title II, §2953, title X, §10201(h), Mar. 23, 2010, 124 Stat. 347, 922; Pub. L. 113–93, title II, §206, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §215, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title V, §50503(a), Feb. 9, 2018, 132 Stat. 227; Pub. L. 116–59, div. B, title II, §1202, Sept. 27, 2019, 133 Stat. 1104; Pub. L. 116–69, div. B, title II, §1202, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §304, Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3822, Mar. 27, 2020, 134 Stat. 432; Pub. L. 116–159, div. C, title I, §2103, Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1203(b), Dec. 11, 2020, 134 Stat. 1045; Pub. L. 116–260, div. CC, title III, §302, Dec. 27, 2020, 134 Stat. 2992.)
+(Aug. 14, 1935, ch. 531, title V, §513, as added and amended Pub. L. 111–148, title II, §2953, title X, §10201(h), Mar. 23, 2010, 124 Stat. 347, 922; Pub. L. 113–93, title II, §206, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §215, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title V, §50503(a), Feb. 9, 2018, 132 Stat. 227; Pub. L. 116–59, div. B, title II, §1202, Sept. 27, 2019, 133 Stat. 1104; Pub. L. 116–69, div. B, title II, §1202, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §304, Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3822, Mar. 27, 2020, 134 Stat. 432; Pub. L. 116–159, div. C, title I, §2103, Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1203(b), Dec. 11, 2020, 134 Stat. 1045; Pub. L. 116–260, div. CC, title III, §302, Dec. 27, 2020, 134 Stat. 2992; Pub. L. 118–15, div. B, title III, §2353, Sept. 30, 2023, 137 Stat. 97; Pub. L. 118–22, div. B, title II, §403, Nov. 17, 2023, 137 Stat. 122.)
 
 #### <b>Editorial Notes</b>
 
@@ -229,6 +233,40 @@ Another prior section 713, acts Aug. 14, 1935, ch. 531, title V, §513, 49 Stat.
 Provisions similar to those comprising former section 713 were contained in section 541 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 634 (formerly classified to section 731 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(1)(A). Pub. L. 118–22, §403(1)(A)(i), in introductory provisions, substituted ", for the period beginning on October 1, 2023, and ending on November 17, 2023, and for the period beginning on November 18, 2023, and ending on January 19, 2024," for "and for the period beginning on October 1, 2023, and ending on November 17, 2023,".
+
+Pub. L. 118–15, §2353(1)(A)(i)(I), inserted "and for the period beginning on October 1, 2023, and ending on November 17, 2023" after "2023" in introductory provisions.
+
+Subsec. (a)(1)(A)(i). Pub. L. 118–15, §2353(1)(A)(i)(II), inserted "or period" after "for the fiscal year".
+
+Subsec. (a)(1)(B)(i). Pub. L. 118–22, §403(1)(A)(ii), inserted ", and for the period beginning on November 18, 2023, and ending on January 19, 2024" after "November 17, 2023".
+
+Pub. L. 118–15, §2353(1)(A)(ii), inserted at end "The previous sentence shall not apply with respect to State allotments under this paragraph for the period beginning on October 1, 2023, and ending on November 17, 2023."
+
+Subsec. (a)(1)(C)(i). Pub. L. 118–22, §403(1)(A)(iii), substituted "for a fiscal year or period" for "for a fiscal year or the period".
+
+Pub. L. 118–15, §2353(1)(A)(iii), inserted "or the period described in subparagraph (A)" after "for a fiscal year" and "or period" after "the fiscal year".
+
+Subsec. (a)(3). Pub. L. 118–22, §403(1)(B), substituted "for a fiscal year or period" for "for a fiscal year or the period".
+
+Pub. L. 118–15, §2353(1)(B), inserted "or the period described in paragraph (1)(A)" after "for a fiscal year" and "or period" after "such fiscal year".
+
+Subsec. (a)(4)(A). Pub. L. 118–22, §403(1)(C), substituted "for each period" for "for the period" in two places and "for a fiscal year or period" for "for a fiscal year or the period".
+
+Pub. L. 118–15, §2353(1)(C), inserted "and for the period described in paragraph (1)(A)" after "fiscal years 2010 through 2023", "and for the period so described" after "fiscal years 2012 through 2023", and "or the period so described" after "for a fiscal year".
+
+Subsec. (a)(4)(B)(i). Pub. L. 118–22, §403(1)(D), substituted "each period described in paragraph (1)(A)" for "the period described in paragraph (1)(A)".
+
+Subsec. (c)(1), (2). Pub. L. 118–15, §2353(2)(A), substituted "Subject to paragraph (3), from" for "From".
+
+Subsec. (c)(3). Pub. L. 118–22, §403(2), substituted "for a period described in subsection (a)(1)(A) for fiscal year 2024" for "for the period described in subsection (a)(1)(A)".
+
+Pub. L. 118–15, §2353(2)(B), added par. (3).
+
+Subsec. (f). Pub. L. 118–22, §403(3), substituted "2023, for the period beginning on October 1, 2023, and ending on November 17, 2023, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023, and for the period beginning on November 18, 2023, and ending on January 19, 2024, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023" for "2023, and for the period beginning on October 1, 2023, and ending on November 17, 2023, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023".
+
+Pub. L. 118–15, §2353(3), inserted ", and for the period beginning on October 1, 2023, and ending on November 17, 2023, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023" after "through 2023".
 
 <b>2020</b>—Pub. L. 116–215 substituted "December 18, 2020" for "December 11, 2020" wherever appearing.
 

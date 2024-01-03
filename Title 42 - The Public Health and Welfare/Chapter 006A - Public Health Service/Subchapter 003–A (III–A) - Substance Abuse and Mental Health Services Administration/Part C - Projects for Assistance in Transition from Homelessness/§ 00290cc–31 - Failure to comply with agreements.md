@@ -16,7 +16,7 @@
 
 #### (c) Opportunity for hearing
 
-Before requiring repayment of payments under subsection (a)(1), or withholding payments under subsection (b)(1), the Secretary shall provide to the State an opportunity for a hearing.
+Before requiring repayment of payments under subsection (a)(1), or withholding paymentsunder subsection (b)(1), the Secretary shall provide to the State an opportunity for a hearing.
 
 #### (d) Rule of construction
 

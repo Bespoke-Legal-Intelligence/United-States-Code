@@ -46,7 +46,7 @@ In this section, the term "Indian tribe" means a federally recognized Indian tri
 
 #### (g) Authorization of appropriations
 
-(1) There is authorized to be appropriated for the Department of Justice $5,000,000 for fiscalyear 2019 to carry out this section and, in addition, $5,000,000 for fiscal year 2019 to carry out paragraphs (3) and (4) of subsection (b).
+(1) There is authorized to be appropriated for the Department of Justice $5,000,000 for fiscal year 2019 to carry out this section and, in addition, $5,000,000 for fiscal year 2019 to carry out paragraphs (3) and (4) of subsection (b).
 
 (2) Amounts appropriated pursuant to the authorization of appropriations in paragraph (1) shall remain available until expended.
 

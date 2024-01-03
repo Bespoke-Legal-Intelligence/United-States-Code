@@ -12,7 +12,7 @@
 
 > The expenditures may include payments for clothing, equipment, and other materials necessary for the purposes of this section. Any appropriation available for the activities in which the personnel are engaged shall be available for these purposes.
 
-(b) The Secretary, to the extent he considers proper, may delegate the authority conferred bythis section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
+(b) The Secretary, to the extent he considers proper, may delegate the authority conferred by this section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 443, §7205; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §513(24), Dec. 12, 1980, 94 Stat. 2932; renumbered §8605, Pub. L. 115–232, div. A, title VIII, §807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 

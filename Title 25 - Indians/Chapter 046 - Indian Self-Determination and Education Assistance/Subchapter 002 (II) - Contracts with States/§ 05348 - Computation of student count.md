@@ -40,7 +40,7 @@ For the purposes of sections 5342 to 5348 of this title, the following definitio
 
 #### (i) Preliminary report
 
-&emsp;&emsp;&emsp;Not later than 180 days after December 31, 2018, the Secretary shall publish a preliminary report describing the number of eligible Indian students served or potentially served by each eligible entity, using the most applicable and accurate data (as determined by the Secretary in consultation with eligible entities) from the fiscal year preceding the fiscal year for which the initial determination is to be made from—
+&emsp;&emsp;&emsp;Not later than 180 days after December 31, 2018, the Secretary shall publish a preliminary report describing the number of eligible Indian students served or potentially served by each eligible entity, using the most applicable and accurate data (as determined by the Secretary in consultation with eligible entities) from the fiscalyear preceding the fiscal year for which the initial determination is to be made from—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Bureau of the Census;
 
@@ -134,7 +134,7 @@ For the purposes of sections 5342 to 5348 of this title, the following definitio
 
 #### (II) Violations of contract or law
 
-&emsp;&emsp;&emsp;&emsp;The Secretary has found that the existing contracting party has violated the terms of a contract entered into undersections 5342 to 5348 of this title or has otherwise violated Federal law.
+&emsp;&emsp;&emsp;&emsp;The Secretary has found that the existing contracting party has violated the terms of a contract entered into under sections 5342 to 5348 of this title or has otherwise violated Federal law.
 
 #### (III) Student count decrease
 
@@ -206,7 +206,7 @@ To the maximum extent practicable, the Secretary shall consult with Indian tribe
 
 #### (i) Student privacy
 
-The Secretary shall ensure that data is collected and each report is prepared under this section in a manner that protects the rights of eligible Indian students in accordance with section 1232g of title 20 (commonly referred to asthe Family Educational Rights and Privacy Act of 1974).
+The Secretary shall ensure that data is collected and each report is prepared under this section in a manner that protects the rights of eligible Indian students in accordance with section 1232g of title 20 (commonly referred to as the Family Educational Rights and Privacy Act of 1974).
 
 #### (j) GAO Report
 
@@ -249,10 +249,4 @@ Nothing in this section—
 The Johnson-O'Malley Supplemental Indian Education Program Modernization Act, referred to subsec. (a)(4), is Pub. L. 115–404, Dec. 31, 2018, 132 Stat. 5349, which enacted this section and provisions set out as a note under section 5301 of this title. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 5301 of this title and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VI of the Act is classified generally to subchapter VI (§7401 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

@@ -1,6 +1,6 @@
 ### §3737. Running mates
 
-(a) The Secretary shall assign a running mate to each Reserve officer in an active status noton the active duty promotion list. The officer initially assigned as a running mate under this section shall be that officer on the active duty promotion list of the same grade who is next senior in precedence to the Reserve officer concerned. An officer who has twice failed of selection or who has been considered but has not been recommended for continuation under section 2150 of this title shall not be assigned as a running mate under this section.
+(a) The Secretary shall assign a running mate to each Reserve officer in an active status not on the active duty promotion list. The officer initially assigned as a running mate under this section shall be that officer on the active duty promotion list of the same grade who is next senior in precedence to the Reserve officer concerned. An officer who has twice failed of selection or who has been considered but has not been recommended for continuation under section 2150 of this title shall not be assigned as a running mate under this section.
 
 (b) A Reserve officer in an active status not on the active duty promotion list shall be assigned a new running mate as follows:
 

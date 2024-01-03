@@ -44,7 +44,7 @@ Pub. L. 101–189, div. A, title IX, §935, Nov. 29, 1989, 103 Stat. 1538, provi
 
 "(a)
 
-Authority.—The United States Army Russian Institute in Garmisch-Partenkirchen, Federal Republic of Germany, shall be treated for purposes of section 544 of the Foreign Assistance Act of 1961 (22 U.S.C. 2347c) as if it were located in the United States.
+Authority.—The United States Army Russian Institute in Garmisch-Partenkirchen, Federal Republic of Germany, shall be treated for purposes of section 544of the Foreign Assistance Act of 1961 (22 U.S.C. 2347c) as if it were located in the United States.
 
 "(b)
 

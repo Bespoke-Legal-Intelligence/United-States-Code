@@ -22,7 +22,7 @@ Section 711(a) of Pub. L. 93–203, cited as a credit to this section, was omitt
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a). Pub. L. 113–128, §512(ee)(1), substituted "Whoever, being an officer, director, agent, oremployee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998" for "Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998".
+<b>2014</b>—Subsec. (a). Pub. L. 113–128, §512(ee)(1), substituted "Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998" for "Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998".
 
 Subsec. (b). Pub. L. 113–128, §512(ee)(2), substituted "a contract of employment in connection with a financial assistance agreement or contract under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998" for "a contract of employment in connection with a financial assistance agreement or contract under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998".
 

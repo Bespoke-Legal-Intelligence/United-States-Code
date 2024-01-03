@@ -58,7 +58,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;(C) provision of critical agricultural inputs, such as seeds, tools, and fertilizer, and strengthening of seed multiplication, certification, and distribution systems;
 
-&emsp;&emsp;(D) improvement in the quantity and quality of water available through, among other things, rehabilitation of existing irrigation systems and the development of local capacity to manage irrigation systems;
+&emsp;&emsp;(D) improvement in the quantity and quality of water available through, among otherthings, rehabilitation of existing irrigation systems and the development of local capacity to manage irrigation systems;
 
 &emsp;&emsp;(E) livestock rehabilitation through market development and other mechanisms to distribute stocks to replace those stocks lost as a result of conflict or drought;
 
@@ -106,7 +106,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(iv) support for the effective administration of justice at the national, regional, and local levels, including programs to improve penal institutions and the rehabilitation of prisoners, and to establish a responsible and community-based police force;
 
-&emsp;&emsp;&emsp;(v) support to increase the transparency, accountability, and participatory natureof governmental institutions, including programs designed to combat corruption and other programs for the promotion of good governance, such as the development of regulations relating to financial disclosure for public officials, political parties, and candidates for public office, and transparent budgeting processes and financial management systems;
+&emsp;&emsp;&emsp;(v) support to increase the transparency, accountability, and participatory nature of governmental institutions, including programs designed to combat corruption and other programs for the promotion of good governance, such as the development of regulations relating to financial disclosure for public officials, political parties, and candidates for public office, and transparent budgeting processes and financial management systems;
 
 &emsp;&emsp;&emsp;(vi) support for establishment of a central bank and central budgeting authority;
 
@@ -122,7 +122,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(ii) strengthening democratic political parties;
 
-&emsp;&emsp;&emsp;(iii) international exchanges and professional training for members or officials of government, political, and civic or other nongovernmental entities;
+&emsp;&emsp;&emsp;(iii) international exchanges and professional training for members or officials ofgovernment, political, and civic or other nongovernmental entities;
 
 &emsp;&emsp;&emsp;(iv) national, regional, and local elections and political party development;
 
@@ -180,7 +180,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(xi) to provide women's rights and human rights training for military, police, and legal personnel; and
 
-&emsp;&emsp;&emsp;(xii) to support the Afghan Independent Human Rights Commission in programs to promote women's rights and human rights, including the rights of religious freedom,freedom of expression, and freedom of association, and in the investigation and monitoring of women's rights and human rights abuses.
+&emsp;&emsp;&emsp;(xii) to support the Afghan Independent Human Rights Commission in programs to promote women's rights and human rights, including the rights of religious freedom, freedom of expression, and freedom of association, and in the investigation and monitoring of women's rights and human rights abuses.
 
 #### (B) Availability of funds
 
@@ -288,7 +288,7 @@ Pub. L. 114–328, div. A, title XV, §1521(c)(2), Dec. 23, 2016, 130 Stat. 2576
 
 "(A)
 
-In general.—The Secretary of Defense, with the concurrence of the Secretary of State, shall support, to the extent practicable, the efforts of the Government of Afghanistan to promote the security of Afghan women and girls during and after the security transition process through the development and implementation by the Government of Afghanistan of an Afghan-led plan that should include the elements described in this paragraph.
+In general.—The Secretary of Defense, with the concurrence of the Secretary of State, shall support, tothe extent practicable, the efforts of the Government of Afghanistan to promote the security of Afghan women and girls during and after the security transition process through the development and implementation by the Government of Afghanistan of an Afghan-led plan that should include the elements described in this paragraph.
 
 "(B)
 

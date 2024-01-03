@@ -50,7 +50,7 @@
 
 (4) An imposition of a civil penalty under this subsection does not prevent the United States from seeking any other remedy that the United States may have for the same conduct that is the basis for the imposition of such civil penalty.
 
-(d)(1)(A) Subsection (a)(1) of this section does not apply in the case of a payment of reasonable compensation made to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement to the extent that the payment is for agency and legislative liaison activities not directly related to a Federal action referred to in subsection (a)(2) of this section.
+(d)(1)(A) Subsection (a)(1) of this section does not apply in the case of a payment of reasonablecompensation made to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement to the extent that the payment is for agency and legislative liaison activities not directly related to a Federal action referred to in subsection (a)(2) of this section.
 
 (B) Subsection (a)(1) of this section does not prohibit any reasonable payment to a person in connection with, or any payment of reasonable compensation to an officer or employee of a person requesting or receiving, a Federal contract, grant, loan, or cooperative agreement or an extension, continuation, renewal, amendment, or modification of a Federal contract, grant, loan, or cooperative agreement if the payment is for professional or technical services rendered directly in the preparation, submission, or negotiation of any bid, proposal, or application for that Federal contract, grant, loan, or cooperative agreement or for meeting requirements imposed by or pursuant to law as a condition for receiving that Federal contract, grant, loan, or cooperative agreement.
 
@@ -198,7 +198,7 @@ Subsec. (h)(7). Pub. L. 103–272, §4(f)(1)(F)(iii), inserted periods after "ag
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2220 of Title 10, Armed Forces.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, setout as a note under section 2220 of Title 10, Armed Forces.
 
 #### Effective Date of 1995 Amendment
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 
 #### Effective Date
 
-Pub. L. 101–121, title III, §319(d), Oct. 23, 1989, 103 Stat. 756, provided that: "Section 1352 of title 31, UnitedStates Code (as added by subsection (a)), shall take effect with respect to Federal contracts, grants, loans, cooperative agreements, loan insurance commitments, and loan guaranty commitments that are entered into or made more than 60 days after the date of the enactment of this Act \[Oct. 23, 1989\]."
+Pub. L. 101–121, title III, §319(d), Oct. 23, 1989, 103 Stat. 756, provided that: "Section 1352 of title 31, United States Code (as added by subsection (a)), shall take effect with respect to Federal contracts, grants, loans, cooperative agreements, loan insurance commitments, and loan guaranty commitments that are entered into or made more than 60 days after the date of the enactment of this Act \[Oct. 23, 1989\]."
 
 #### First Report on May 31, 1990; Content
 

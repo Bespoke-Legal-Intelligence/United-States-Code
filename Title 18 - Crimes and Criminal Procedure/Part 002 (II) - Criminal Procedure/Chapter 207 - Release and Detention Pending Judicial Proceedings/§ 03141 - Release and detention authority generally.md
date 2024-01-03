@@ -18,7 +18,7 @@ A prior section 3141, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, 
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–646, §55(a), (b), substituted "authorized to order the arrest of a person under section 3041 of this title before whom an arrested person is brought shall order that such person be released" for "who is authorized to order the arrest of a person pursuant to section 3041 of this title shall order that an arrested person who is brought before him be released" and "under this chapter" for "pursuant to the provisions of this chapter".
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §55(a), (b), substituted "authorized to order the arrest of a personunder section 3041 of this title before whom an arrested person is brought shall order that such person be released" for "who is authorized to order the arrest of a person pursuant to section 3041 of this title shall order that an arrested person who is brought before him be released" and "under this chapter" for "pursuant to the provisions of this chapter".
 
 Subsec. (b). Pub. L. 99–646, §55(a), substituted "under this chapter" for "pursuant to the provisions of this chapter".
 
@@ -38,7 +38,7 @@ Pub. L. 101–647, title IX, §901, Nov. 29, 1990, 104 Stat. 4826, provided that
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–473, title II, §202, Oct. 12, 1984, 98 Stat. 1976, provided that: "This chapter \[chapter I (§§202–210) oftitle II of Pub. L. 98–473, enacting sections 3062 and 3141 to 3150 of this title, amending sections 3041, 3042, 3154, 3156, 3731, 3772, and 4282 of this title and section 636 of Title 28, Judiciary and Judicial Procedure, repealing sections 3043 and 3141 to 3151 of this title, and amending rules 5, 15, 40, 46, and 54 of the Federal Rules of Criminal Procedure, set out in the Appendix to this title, and rule 9 of the Federal Rules of Appellate Procedure, set out in the Appendix to Title 28\] may be cited as the 'Bail Reform Act of 1984'."
+Pub. L. 98–473, title II, §202, Oct. 12, 1984, 98 Stat. 1976, provided that: "This chapter \[chapter I (§§202–210) of title II of Pub. L. 98–473, enacting sections 3062 and 3141 to 3150 of this title, amending sections 3041, 3042, 3154, 3156, 3731, 3772, and 4282 of this title and section 636 of Title 28, Judiciary and Judicial Procedure, repealing sections 3043 and 3141 to 3151 of this title, and amending rules 5, 15, 40, 46, and 54 of the Federal Rules of Criminal Procedure, set out in the Appendix to this title, and rule 9 of the Federal Rules of Appellate Procedure, set out in the Appendix to Title 28\] may be cited as the 'Bail Reform Act of 1984'."
 
 #### Short Title of 1982 Amendment
 

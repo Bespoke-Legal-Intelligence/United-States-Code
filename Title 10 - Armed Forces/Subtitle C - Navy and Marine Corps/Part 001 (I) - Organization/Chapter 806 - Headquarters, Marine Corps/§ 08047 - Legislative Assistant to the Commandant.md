@@ -2,7 +2,7 @@
 
 There is in the Marine Corps a Legislative Assistant to the Commandant.
 
-(Added Pub. L. 107–314, div. A, title V, §504(d)(3)(A), Dec. 2, 2002, 116 Stat. 2532, §5047; amended Pub. L. 114–328, div. A, title V, §502(y), Dec. 23, 2016, 130 Stat. 2104; renumbered §8047, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 107–314, div. A, title V, §504(d)(3)(A), Dec. 2, 2002, 116 Stat. 2532, §5047;amended Pub. L. 114–328, div. A, title V, §502(y), Dec. 23, 2016, 130 Stat. 2104; renumbered §8047, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 #### <b>Editorial Notes</b>
 

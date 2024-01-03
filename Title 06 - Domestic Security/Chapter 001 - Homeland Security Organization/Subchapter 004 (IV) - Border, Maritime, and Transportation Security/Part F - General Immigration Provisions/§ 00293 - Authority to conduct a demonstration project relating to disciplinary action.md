@@ -22,7 +22,7 @@ Under the demonstration project—
 
 #### (d) Actions involving discrimination
 
-Notwithstanding any other provision of this section, if, in the case of any matter described in section 7702(a)(1)(B) of title 5, there is no judicially reviewable action under the demonstration project within 120 days after the filing of an appeal or other formal request for review (referred to in subsection (c)(2)), an employee shall be entitled to file a civil action to the same extent and in the same manner as provided in section 7702(e)(1) of such title 5 (in the matter following subparagraph (C) thereof).
+Notwithstanding any other provision of this section, if, in the case of any matter describedin section 7702(a)(1)(B) of title 5, there is no judicially reviewable action under the demonstration project within 120 days after the filing of an appeal or other formal request for review (referred to in subsection (c)(2)), an employee shall be entitled to file a civil action to the same extent and in the same manner as provided in section 7702(e)(1) of such title 5 (in the matter following subparagraph (C) thereof).
 
 #### (e) Certain employees
 
@@ -54,7 +54,7 @@ In this section, the term "covered entity" has the meaning given such term in se
 
 #### Change of Name
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

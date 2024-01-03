@@ -40,7 +40,7 @@ Maximum Amount and Method of Payment.—
 
 &emsp;(1)
 
-Maximum amount.—The Secretary concerned shall determine the amount of a bonusor incentive pay to be paid under this section, except that—
+Maximum amount.—The Secretary concerned shall determine the amount of a bonus or incentive pay to be paid under this section, except that—
 
 &emsp;&emsp;(A) aviation incentive pay under subsection (a) shall be paid at a monthly rate not to exceed $1,500 per month; and
 
@@ -120,13 +120,15 @@ Definitions.—In this section:
 
 (i)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2023.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2024.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 167; amended Pub. L. 110–417, \[div. A\], title VI, §618(b), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(4), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(4), Jan. 7, 2011, 124Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(4), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(4), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(4), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(4), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §§614(4), 617(a)–(d), Nov. 25, 2015, 129 Stat. 839, 840; Pub. L. 114–328, div. A, title VI, §§614(4), 616, Dec. 23, 2016, 130 Stat. 2158, 2159; Pub. L. 115–91, div. A, title VI, §614(4), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(d)(3), title VIII, §809(m)(3), Aug. 13, 2018, 132 Stat. 1797, 1843; Pub. L. 116–92, div. A, title VI, §611(d)(3), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, §611(d)(3), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, §611(d)(3), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, §§601(d)(3), 602(c), Dec. 23, 2022, 136 Stat. 2619, 2620.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 167; amended Pub. L. 110–417, \[div. A\], title VI, §618(b), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(4), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(4), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(4), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(4), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(4), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(4), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §§614(4), 617(a)–(d), Nov. 25, 2015, 129 Stat. 839, 840; Pub. L. 114–328, div. A, title VI, §§614(4), 616, Dec. 23, 2016, 130 Stat. 2158, 2159; Pub. L. 115–91, div. A, title VI, §614(4), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(d)(3), title VIII, §809(m)(3), Aug. 13, 2018, 132 Stat. 1797, 1843; Pub. L. 116–92, div. A, title VI, §611(d)(3), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, §611(d)(3), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, §611(d)(3), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, §§601(d)(3), 602(c), Dec. 23, 2022, 136 Stat. 2619, 2620; Pub. L. 118–31, div. A, title VI, §613(d)(3), Dec. 22, 2023, 137 Stat. 291.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (i). Pub. L. 118–31 substituted "December 31, 2024" for "December 31, 2023".
 
 <b>2022</b>—Subsec. (c)(1)(A). Pub. L. 117–263, §602(c)(1), substituted "$1,500" for "$1,000".
 

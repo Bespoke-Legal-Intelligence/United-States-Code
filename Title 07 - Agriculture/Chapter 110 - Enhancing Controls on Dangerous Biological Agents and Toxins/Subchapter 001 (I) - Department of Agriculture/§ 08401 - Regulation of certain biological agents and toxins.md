@@ -56,7 +56,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (1) Registration
 
-&emsp;Regulations under subsections (b) and (c) shall require registration with the Secretary of the possession, use, and transfer of listed agents and toxins, and shall include provisions to ensure that persons seeking to register under such regulations have a lawful purpose to possess, use, or transfer such agents and toxins, including provisions in accordance with subsection (e)(6).
+&emsp;Regulations under subsections (b) and (c) shall require registration with the Secretary of the possession, use, and transfer of listed agents and toxins, and shall include provisions to ensure that persons seeking to registerunder such regulations have a lawful purpose to possess, use, or transfer such agents and toxins, including provisions in accordance with subsection (e)(6).
 
 #### (2) Identification; database
 
@@ -314,7 +314,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (j) Notification in event of release
 
-Regulations under subsections (b) and (c) shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to animal or plant health, or animal or plant products, the Secretary shall take appropriate action to notify relevant Federal, State, and local authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin, the Secretary shall promptly notify the Secretary of Health and Human Services upon notification by the registered person.
+Regulations under subsections (b) and (c) shall require the prompt notification of the Secretaryby a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to animal or plant health, or animal or plant products, the Secretary shall take appropriate action to notify relevant Federal, State, and local authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin, the Secretary shall promptly notify the Secretary of Health and Human Services upon notification by the registered person.
 
 #### (k) Reports
 

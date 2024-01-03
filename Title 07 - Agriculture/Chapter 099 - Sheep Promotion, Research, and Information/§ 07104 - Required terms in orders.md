@@ -42,7 +42,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 | Michigan | 1&nbsp;&nbsp;&nbsp; |
 | Minnesota | 2&nbsp;&nbsp;&nbsp; |
 | Mississippi | 1&nbsp;&nbsp;&nbsp; |
-| Missouri | 1    |
+| Missouri | 1&nbsp;&nbsp;&nbsp; |
 | Montana | 5&nbsp;&nbsp;&nbsp; |
 | Nebraska | 1&nbsp;&nbsp;&nbsp; |
 | Nevada | 1&nbsp;&nbsp;&nbsp; |
@@ -105,7 +105,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (B) Feeder and importer nominations
 
-&emsp;&emsp;The Secretary shall solicit nominations for each seat for which feeders or importers are entitled to representation from organizations that represent feeders and importers, respectively. In determining whether an organization is eligible to submit nominations under this subparagraph, the Secretary shall determine whether—
+&emsp;&emsp;The Secretary shall solicit nominations for each seat for which feeders or importersare entitled to representation from organizations that represent feeders and importers, respectively. In determining whether an organization is eligible to submit nominations under this subparagraph, the Secretary shall determine whether—
 
 &emsp;&emsp;&emsp;(i) the active membership of the organization includes a significant number of feeders or importers in relation to the total membership of the organization;
 
@@ -235,7 +235,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (A) Plans or projects
 
-&emsp;&emsp;The Executive Committee shall develop plans or projects of promotion, research,consumer information, education, industry information, and producer information, which shall be paid for with assessments collected by the Board. The plans or projects shall not become effective until the plans or projects are approved by the Secretary.
+&emsp;&emsp;The Executive Committee shall develop plans or projects of promotion, research, consumer information, education, industry information, and producer information, which shall be paid for with assessments collected by the Board. The plans or projects shall not become effective until the plans or projects are approved by the Secretary.
 
 #### (B) Budgets
 
@@ -435,7 +435,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the order shall prohibit any funds collected by theBoard under the order from being used in any manner for the purpose of influencing legislation or government action or policy.
+&emsp;Except as provided in paragraph (2), the order shall prohibit any funds collected by the Board under the order from being used in any manner for the purpose of influencing legislation or government action or policy.
 
 #### (2) Exceptions
 
@@ -495,7 +495,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (E) Penalty
 
-&emsp;&emsp;Any person who willfully violates this paragraph, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if the person is an officer or employee of the Board or the Department, shall be removed from office.
+&emsp;&emsp;Any person who willfully violates this paragraph, on conviction, shall be subject toa fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if the person is an officer or employee of the Board or the Department, shall be removed from office.
 
 #### (n) Other terms and conditions
 

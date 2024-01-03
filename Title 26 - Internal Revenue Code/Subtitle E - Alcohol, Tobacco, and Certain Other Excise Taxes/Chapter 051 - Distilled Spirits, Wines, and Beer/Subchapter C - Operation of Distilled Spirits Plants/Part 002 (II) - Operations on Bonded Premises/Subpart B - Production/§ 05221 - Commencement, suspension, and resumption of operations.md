@@ -18,7 +18,7 @@ Provisions similar to those comprising subsec. (a) of this section were containe
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–39 substituted "until written notice has been given to the Secretary stating when operations will begin" for "until an internal revenue officer has been assigned to the premises".
+<b>1979</b>—Subsec. (a). Pub. L. 96–39 substituted "until written notice has been given to the Secretary statingwhen operations will begin" for "until an internal revenue officer has been assigned to the premises".
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 

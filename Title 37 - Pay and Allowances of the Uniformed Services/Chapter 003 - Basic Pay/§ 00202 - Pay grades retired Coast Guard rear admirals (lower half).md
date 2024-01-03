@@ -2,7 +2,7 @@
 
 An officer of the Coast Guard holding a permanent appointment in the grade of rear admiral (lower half) on the retired list, and who in time of war or national emergency has served satisfactorily on active duty for two years in that grade or in a higher grade, is entitled when on active duty to the basic pay of a rear admiral.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 454; Pub. L. 89–718, §50, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–130, §3(1), Nov. 8, 1967, 81 Stat. 383; Pub. L. 90–179, §7, Dec. 8, 1967, 81 Stat. 548; Pub. L. 90–623, §3(2), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–451, §2, Oct. 2, 1972, 86 Stat. 757; Pub. L. 96–342, title X, §1004(a), Sept. 8, 1980, 94 Stat. 1120; Pub. L. 96–513, title IV, §401, Dec. 12, 1980, 94 Stat. 2904; Pub. L. 97–417, §3(a), Jan. 4, 1983, 96 Stat. 2087; Pub. L. 98–557, §25(b)(2)(A), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(d)(2)(A), (B), Nov. 8, 1985, 99 Stat. 629.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 454; Pub. L. 89–718, §50, Nov. 2, 1966, 80 Stat. 1121; Pub. L.90–130, §3(1), Nov. 8, 1967, 81 Stat. 383; Pub. L. 90–179, §7, Dec. 8, 1967, 81 Stat. 548; Pub. L. 90–623, §3(2), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–451, §2, Oct. 2, 1972, 86 Stat. 757; Pub. L. 96–342, title X, §1004(a), Sept. 8, 1980, 94 Stat. 1120; Pub. L. 96–513, title IV, §401, Dec. 12, 1980, 94 Stat. 2904; Pub. L. 97–417, §3(a), Jan. 4, 1983, 96 Stat. 2087; Pub. L. 98–557, §25(b)(2)(A), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(d)(2)(A), (B), Nov. 8, 1985, 99 Stat. 629.)
 
 Historical and Revision Notes
 

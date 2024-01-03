@@ -18,7 +18,7 @@ Criteria for Receiving Waiver.—The requirement that certain laborers and mecha
 
 &emsp;(3) who is not employed by and does not provide services to a contractor or subcontractor at any time on the federally assisted or insured project for which the individual is volunteering; and
 
-&emsp;(4) who otherwise is not employed by the same public agency or recipient of federal assistance to perform the same type of servicesas those for which the individual proposes to volunteer.
+&emsp;(4) who otherwise is not employed by the same public agency or recipient of federal assistance to perform the same type of services as those for which the individual proposes to volunteer.
 
 (b)
 

@@ -22,7 +22,7 @@
 
 #### (3) Distribution of grants to teacher candidates
 
-&emsp;Payments under this subpart shall be made, in accordance with regulations promulgated by the Secretary for such purpose, in such manner as will best accomplish the purposes of this subpart. Any disbursement allowed to be made by crediting the teacher candidate's account shall be limited to tuition and fees and, in the case of institutionally-owned housing, room and board. The teacher candidate may elect to have the institution provide other such goods and services by crediting the teacher candidate's account.
+&emsp;Payments under this subpart shall be made, in accordance with regulations promulgated by the Secretary for such purpose, in such manner as will best accomplish the purposes of this subpart. Any disbursement allowed to be made by crediting the teacher candidate'saccount shall be limited to tuition and fees and, in the case of institutionally-owned housing, room and board. The teacher candidate may elect to have the institution provide other such goods and services by crediting the teacher candidate's account.
 
 #### (c) Reductions in amount
 

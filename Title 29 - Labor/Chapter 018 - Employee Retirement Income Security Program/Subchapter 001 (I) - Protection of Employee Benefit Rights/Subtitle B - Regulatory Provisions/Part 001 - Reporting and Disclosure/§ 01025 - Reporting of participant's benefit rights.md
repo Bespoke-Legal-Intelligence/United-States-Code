@@ -138,7 +138,7 @@ In no case shall a participant or beneficiary of a plan be entitled to more than
 
 Each administrator required to register under section 6057 of title 26 shall, before the expiration of the time prescribed for such registration, furnish to each participant described in subsection (a)(2)(C) of such section, an individual statement setting forth the information with respect to such participant required to be contained in the registration statement required by section 6057(a)(2) of title 26. Such statement shall also include a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date.
 
-(Pub. L. 93–406, title I, §105, Sept. 2, 1974, 88 Stat. 849; Pub. L. 98–397, title I, §106, Aug. 23, 1984, 98 Stat. 1436; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(b)(5), Dec. 19, 1989, 103 Stat. 2445, 2448; Pub.L. 109–280, title V, §508(a)(1)–(2)(B), Aug. 17, 2006, 120 Stat. 949, 951; Pub. L. 116–94, div. O, title II, §203, Dec. 20, 2019, 133 Stat. 3163; Pub. L. 117–328, div. T, title III, §338(a), Dec. 29, 2022, 136 Stat. 5373.)
+(Pub. L. 93–406, title I, §105, Sept. 2, 1974, 88 Stat. 849; Pub. L. 98–397, title I, §106, Aug. 23, 1984, 98 Stat. 1436; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(b)(5), Dec. 19, 1989, 103 Stat. 2445, 2448; Pub. L. 109–280, title V, §508(a)(1)–(2)(B), Aug. 17, 2006, 120 Stat. 949, 951; Pub. L. 116–94, div. O, title II, §203, Dec. 20, 2019, 133 Stat. 3163; Pub. L. 117–328, div. T, title III, §338(a), Dec. 29, 2022, 136 Stat. 5373.)
 
 #### Amendment of Subsection (a)(2)
 
@@ -216,7 +216,7 @@ Special rule for collectively bargained agreements.—In the case of a plan main
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-Amendment by section 7894(b)(5) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7894(b)(5) of Pub. L. 101–239 effective, except as otherwise provided, as if originallyincluded in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -228,7 +228,7 @@ Pub. L. 117–328, div. T, title III, §338(b), Dec. 29, 2022, 136 Stat. 5373, p
 
 "(1)
 
-In general.—The Secretary of Labor shall, not later than December 31, 2024, update section 2520.104b-1(c) of title 29, Code of Federal Regulations, to provide that a plan may furnish the statements referred to in subparagraph (E) of section 105(a)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1025(a)(2)(E)\] by electronic delivery only if, with respect to participants who first become eligible to participate, and beneficiaries who first become eligible for benefits, after December 31, 2025, in addition to meeting theother requirements under the regulations such plan furnishes each participant or beneficiary a one-time initial notice on paper in written form, prior to the electronic delivery of any pension benefit statement, of their right to request that all documents required to be disclosed under title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] be furnished on paper in written form.
+In general.—The Secretary of Labor shall, not later than December 31, 2024, update section 2520.104b-1(c) of title 29, Code of Federal Regulations, to provide that a plan may furnish the statements referred to in subparagraph (E) of section 105(a)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1025(a)(2)(E)\] by electronic delivery only if, with respect to participants who first become eligible to participate, and beneficiaries who first become eligible for benefits, after December 31, 2025, in addition to meeting the other requirements under the regulations such plan furnishes each participant or beneficiary a one-time initial notice on paper in written form, prior to the electronic delivery of any pension benefit statement, of their right to request that all documents required to be disclosed under title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] be furnished on paper in written form.
 
 "(2)
 

@@ -12,7 +12,7 @@
 
 (d) The Administrator of General Services shall include in each directory which lists lodging accommodations a description of the access and safety devices, including appropriate emergency alerting devices, which each listed place of public accommodation provides for guests who are hearing-impaired or visually or physically handicapped.
 
-(e) The Administrator of General Services may take any additional actions the Administrator determines appropriate to facilitate the abilityof employees traveling on official business to stay at approved places of public accommodation.
+(e) The Administrator of General Services may take any additional actions the Administratordetermines appropriate to facilitate the ability of employees traveling on official business to stay at approved places of public accommodation.
 
 (f) For purposes of this section:
 

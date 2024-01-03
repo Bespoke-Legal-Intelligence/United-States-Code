@@ -110,11 +110,11 @@ Delegation of Assessment Authority to Banking Agencies.—
 
 &emsp;(1)
 
-In general.—The Secretary of the Treasury shall delegate, in accordance with section 5318(a)(1) and subject to such terms and conditions as the Secretary may impose in accordance with paragraph (3), any authority of theSecretary to assess a civil money penalty under this section on depository institutions (as defined in section 3 of the Federal Deposit Insurance Act) to the appropriate Federal banking agencies (as defined in such section 3).
+In general.—The Secretary of the Treasury shall delegate, in accordance with section 5318(a)(1) and subject to such terms and conditions as the Secretary may impose in accordance with paragraph (3), any authority of the Secretary to assess a civil money penalty under this section on depository institutions (as defined in section 3 of the Federal Deposit Insurance Act) to the appropriate Federal banking agencies (as defined in such section 3).
 
 &emsp;(2)
 
-Authority of agencies.—Subject to any term or condition imposed by the Secretary of the Treasury under paragraph (3), the provisions of this section shall apply to an appropriate Federal banking agency to which is delegated any authority of the Secretary under this section in the same manner such provisions apply to the Secretary.
+Authority of agencies.—Subject to any term or condition imposed by the Secretary of the Treasury under paragraph (3), the provisions of this section shall apply to an appropriate Federal banking agency to which is delegated any authority of the Secretary underthis section in the same manner such provisions apply to the Secretary.
 
 &emsp;(3)
 

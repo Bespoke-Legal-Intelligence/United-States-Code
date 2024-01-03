@@ -60,7 +60,7 @@
 
 Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 <sup>1</sup> of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
 
-(Pub. L. 101–646, title I, §1204, Nov. 29, 1990, 104 Stat. 4770; Pub. L. 104–332, §2(e)(6), (h)(1), Oct. 26, 1996, 110 Stat. 4089, 4091; Pub. L. 117–263, div. K, title CXIII, §11327(e)(4), Dec. 23, 2022, 136 Stat. 4098.)
+(Pub. L. 101–646, title I, §1204, Nov. 29, 1990, 104 Stat. 4770; Pub. L. 104–332, §2(e)(6), (h)(1), Oct. 26,1996, 110 Stat. 4089, 4091; Pub. L. 117–263, div. K, title CXIII, §11327(e)(4), Dec. 23, 2022, 136 Stat. 4098.)
 
 #### <b>Editorial Notes</b>
 

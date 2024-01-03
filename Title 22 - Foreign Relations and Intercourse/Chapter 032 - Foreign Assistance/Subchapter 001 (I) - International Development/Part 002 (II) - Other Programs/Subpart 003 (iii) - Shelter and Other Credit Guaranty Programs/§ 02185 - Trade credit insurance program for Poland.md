@@ -44,7 +44,7 @@ The aggregate amount of outstanding commitments under subsection (a) may not exc
 
 #### (i) Administrative and technical assistance
 
-The Bank shall provide, without reimbursement, such administrative and technical assistance to the administering agency as the Bank and the Administrator determine appropriate to assist the administering agency in carrying out this section.
+The Bank shall provide, without reimbursement, such administrative and technical assistance to the administering agency as the Bankand the Administrator determine appropriate to assist the administering agency in carrying out this section.
 
 #### (j) Fees and premiums
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Export-Import Bank Act of 1945, referred to in subsec. (a)(2), is act July 31, 1945, ch. 341, 59 Stat. 526,which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
+The Export-Import Bank Act of 1945, referred to in subsec. (a)(2), is act July 31, 1945, ch. 341, 59 Stat. 526, which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
 
 #### Codification
 

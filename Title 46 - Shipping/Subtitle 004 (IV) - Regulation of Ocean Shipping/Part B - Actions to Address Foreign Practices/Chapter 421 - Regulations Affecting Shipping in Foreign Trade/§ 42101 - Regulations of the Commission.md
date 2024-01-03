@@ -2,7 +2,7 @@
 
 (a)
 
-Unfavorable Conditions.—To further the objectives and policy set forth in section 50101 of this title, the Federal Maritime Commission shall prescribe regulations affecting shipping in foreign trade, not in conflict with law, to adjust or meet general or special conditions unfavorable to shipping in foreign trade, whether in a particular trade or on a particular route or in commerce generally, including intermodal movements, terminal operations, cargo solicitation, agency services, ocean transportation intermediary services and operations, and other activities and services integral to transportation systems, and which arise out of or result from laws or regulations of a foreign country or competitive methods, pricing practices, or other practices employed by owners, operators, agents, or masters of vessels of a foreign country.
+Unfavorable Conditions.—To further the objectives and policy set forth in section 50101 of this title, the Federal Maritime Commission shall prescribe regulations affecting shipping in foreign trade, not in conflict with law, to adjust or meet general or special conditions unfavorable to shipping in foreign trade, whether in aparticular trade or on a particular route or in commerce generally, including intermodal movements, terminal operations, cargo solicitation, agency services, ocean transportation intermediary services and operations, and other activities and services integral to transportation systems, and which arise out of or result from laws or regulations of a foreign country or competitive methods, pricing practices, or other practices employed by owners, operators, agents, or masters of vessels of a foreign country.
 
 (b)
 
@@ -36,7 +36,7 @@ Pub. L. 100–418, title X, §10002(h) (related to §19(b)(1)(b)), Aug. 23, 1988
 
 46 App.:876(e).
 
-In subsection (a), the word "shall" is substituted for "is authorized and directed", and the words "prescribe regulations" are substituted for "make rules and regulations", for consistency in the revised title and toeliminate unnecessary words. The text of 46 App. U.S.C. 1710a(h), insofar as it relates to 46 App. U.S.C. 876(a)(2), is omitted as unnecessary because this chapter already provides for the same remedies as those authorized by the omitted provision.
+In subsection (a), the word "shall" is substituted for "is authorized and directed", and the words "prescribe regulations" are substituted for "make rules and regulations", for consistency in the revised title and to eliminate unnecessary words. The text of 46 App. U.S.C. 1710a(h), insofar as it relates to 46 App. U.S.C. 876(a)(2), is omitted as unnecessary because this chapter already provides for the same remedies as those authorized by the omitted provision.
 
 In subsection (b), the words "on the petition of any person, including another component of the United States Government" are substituted for "pursuant to a petition. Any person, including a common carrier, tramp operator, bulk operator, shipper, shippers' association, ocean transportation intermediary, marine terminal operator, or any component of the Government of the United States, may file a petition for relief under subsection (a)(2) of this section." for consistency with section 42302(b) of the revised title and to eliminate unnecessary words.
 

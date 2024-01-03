@@ -26,9 +26,9 @@ Responsibilities.—The Principal Cyber Advisor shall be responsible for the fol
 
 Cross-functional team.—Consistent with section 911 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 111 note), the Principal Cyber Advisor shall—
 
-&emsp;&emsp;(A) integrate the cyber expertise and perspectives of appropriate organizations within the Office of the Secretary of Defense, Joint Staff, military departments, the Defense Agencies and Field Activities, and combatant commands, by establishing and maintaining a full-time cross-functional team of subject matter experts from those organizations; and
+&emsp;&emsp;(A) integrate the cyber expertise and perspectives of appropriate organizations within the Office of the Secretary of Defense,Joint Staff, military departments, the Defense Agencies and Field Activities, and combatant commands, by establishing and maintaining a full-time cross-functional team of subject matter experts from those organizations; and
 
-&emsp;&emsp;(B) select team members, and designate a team leader, from among those personnelnominated by the heads of such organizations.
+&emsp;&emsp;(B) select team members, and designate a team leader, from among those personnel nominated by the heads of such organizations.
 
 &emsp;(4)
 
@@ -76,7 +76,7 @@ In general.—The officer designated pursuant to paragraph (1) is each of the fo
 
 &emsp;&emsp;(B)
 
-Direction and control and reporting.—In carrying out duties under this section, the officer designed <sup>1</sup> pursuant to paragraph (1) shall be subject to the authority, direction, and control of, and shall report directly to, the following:
+Direction and control and reporting.—In carrying out duties under this section, the officer designated pursuant to paragraph (1) shall be subject to the authority, direction, and control of, and shall report directly to, the following:
 
 &emsp;&emsp;&emsp;(i) The Under Secretary with respect to Senior Military Advisor for Cyber Policy duties.
 
@@ -104,9 +104,9 @@ Duties as deputy principal cyber advisor.—The duties of the officer designated
 
 &emsp;&emsp;&emsp;(i) To synchronize, coordinate, and oversee implementation of the Cyber Strategy of the Department of Defense and other relevant policy and planning.
 
-&emsp;&emsp;&emsp;(ii) To advise the Secretary of Defense on cyber programs, projects, and activities of the Department, including with respect to policy, training, resources, personnel, manpower, and acquisitions and technology.
+&emsp;&emsp;&emsp;(ii) To advise the Secretary of Defense on cyber programs, projects, and activities of the Department, including with respect to policy, training, resources, personnel,manpower, and acquisitions and technology.
 
-&emsp;&emsp;&emsp;(iii) To oversee implementation of Department policy and operational directives on cyber programs, projects, and activities, including with respect to resources,personnel, manpower, and acquisitions and technology.
+&emsp;&emsp;&emsp;(iii) To oversee implementation of Department policy and operational directives on cyber programs, projects, and activities, including with respect to resources, personnel, manpower, and acquisitions and technology.
 
 &emsp;&emsp;&emsp;(iv) To assist in the overall supervision of Department cyber activities relating to offensive missions.
 
@@ -118,7 +118,7 @@ Duties as deputy principal cyber advisor.—The duties of the officer designated
 
 &emsp;&emsp;&emsp;(viii) To coordinate and consult with stakeholders in the cyberspace domain across the Department in order to identify other issues on cyberspace for the attention of senior leadership of the Department.
 
-&emsp;&emsp;&emsp;(ix) On behalf of the Principal Cyber Advisor, to lead the cross-functional team established pursuant to 932(c)(3) <sup>2</sup> of the National Defense Authorization Act for Fiscal Year 2014 (10 U.S.C. 2224 note) <sup>3</sup> in order to synchronize and coordinate military and civilian cyber forces and activities of the Department.
+&emsp;&emsp;&emsp;(ix) On behalf of the Principal Cyber Advisor, to lead the cross-functional team established pursuant to 932(c)(3) <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 2014 (10 U.S.C. 2224 note) <sup>2</sup> in order to synchronize and coordinate military and civilian cyber forces and activities of the Department.
 
 (c)
 
@@ -186,7 +186,7 @@ Budget Certification Authority.—
 
 &emsp;&emsp;(A)
 
-In general.—Each of the secretaries of the military departments shall require service components with responsibilities associated with cyberspace operations forces, offensive or defensive cyberspace operations and capabilities, and cyberspace issues relevant to the duties specified in paragraph (2) to transmit the proposed budget for such responsibilities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of title 10, United States Code, for that fiscal year to the relevant service's Principal Cyber Advisor for review under clause (ii) <sup>4</sup> before submitting the proposed budget to the department's comptroller.
+In general.—Each of the secretaries of the military departments shall require service components with responsibilities associated with cyberspace operations forces, offensive or defensive cyberspace operations and capabilities, and cyberspace issues relevant to the duties specified in paragraph (2) to transmit the proposed budget for such responsibilities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of title 10, United States Code, for that fiscal year to the relevant service's Principal Cyber Advisor for review under subparagraph (B) before submitting the proposed budget to the department's comptroller.
 
 &emsp;&emsp;(B)
 
@@ -200,7 +200,7 @@ Report.—Not later than March 31 of each year, each of the secretaries of the m
 
 Principal Cyber Advisors' Briefing to Congress.—Not later than February 1, 2021, and biannually thereafter, each Principal Cyber Advisor under paragraph (1) shall brief the Committees on Armed Services of the Senate and House of Representatives on that Advisor's activities and ability to perform the functions specified in paragraph (2).
 
-(Added and amended Pub. L. 117–263, div. A, title XV, §1501(b), Dec. 23, 2022, 136 Stat. 2877.)
+(Added and amended Pub. L. 117–263, div. A, title XV, §1501(b), Dec. 23, 2022, 136 Stat. 2877; Pub. L. 118–31, div. A, title XVIII, §1801(a)(5), Dec. 22, 2023, 137 Stat. 683.)
 
 #### <b>Editorial Notes</b>
 
@@ -221,6 +221,10 @@ The text of section 905 of Pub. L. 116–92, formerly set out as a note under se
 The text of section 1657 of Pub. L. 116–92, formerly set out as a note under section 391 of this title, which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 117–263, §1501(b)(4), was based on Pub. L. 116–92, div. A, title XVI, §1657, Dec. 20, 2019, 133 Stat. 1767.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(2)(B). Pub. L. 118–31, §1801(a)(5)(A), substituted "designated" for "designed" in introductory provisions.
+
+Subsec. (c)(4)(A). Pub. L. 118–31, §1801(a)(5)(B), substituted "subparagraph (B)" for "clause (ii)".
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–263, §1501(b)(2)(A), (B), (D), transferred section 932(c) of Pub. L. 113–66 to this section, redesignated it as subsec. (a), and inserted "to Secretary of Defense" after "Advisor" in heading. See Codification note above.
 
@@ -246,17 +250,13 @@ Subsec. (c)(4)(C). Pub. L. 117–263, §1501(b)(4)(B)(iii), substituted "subpara
 
 Subsec. (c)(5). Pub. L. 117–263, §1501(b)(4)(B)(v), (vi), substituted "paragraph (1)" for "subsection (a)" and "paragraph (2)" for "subsection (b)".
 
-Subsec. (c)(6). Pub. L. 117–263, §1501(b)(4)(B)(vii), struck out par. (6) which authorized each of the secretaries of the military departments to review relevant military department's current governance model for cybersecurity with respect to current authorities and responsibilities.
+Subsec. (c)(6). Pub. L. 117–263, §1501(b)(4)(B)(vii), struck out par. (6) which authorized each of the secretaries of the military departments to review relevant military department's current governance model forcybersecurity with respect to current authorities and responsibilities.
 
 Subsec. (c)(6)(B). Pub. L. 117–263, §1501(b)(4)(B)(ii), (v), substituted "subparagraph (A)" for "paragraph (1)" in introductory provisions and "paragraph (1)" for "subsection (a)" in cl. (i).
 
 Subsec. (c)(6)(C). Pub. L. 117–263, §1501(b)(4)(B)(ii), substituted "subparagraph (A)" for "paragraph (1)".
 
-<i><sup>1</sup></i><i> So in original. Probably should be "designated".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by "section".</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be "subparagraph (B)".</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

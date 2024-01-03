@@ -36,7 +36,7 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 &emsp;&emsp;(ii) any applicable procedures for granting a request by a parent for reasonable access to such survey within a reasonable period of time after the request is received.
 
-&emsp;&emsp;(B) Arrangements to protect student privacy that are provided by the agency in the event of the administration or distributionof a survey to a student containing one or more of the following items (including the right of a parent of a student to inspect, upon the request of the parent, any survey containing one or more of such items):
+&emsp;&emsp;(B) Arrangements to protect student privacy that are provided by the agency in the event of the administration or distribution of a survey to a student containing one or more of the following items (including the right of a parent of a student to inspect, upon the request of the parent, any survey containing one or more of such items):
 
 &emsp;&emsp;&emsp;(i) Political affiliations or beliefs of the student or the student's parent.
 
@@ -112,7 +112,7 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 &emsp;&emsp;&emsp;(iii) Curriculum and instructional materials used by elementary schools and secondary schools.
 
-&emsp;&emsp;&emsp;(iv) Tests and assessments used by elementary schools and secondary schools to provide cognitive, evaluative, diagnostic, clinical, aptitude, or achievement information about students (or to generate otherstatistically useful data for the purpose of securing such tests and assessments) and the subsequent analysis and public release of the aggregate data from such tests and assessments.
+&emsp;&emsp;&emsp;(iv) Tests and assessments used by elementary schools and secondary schools to provide cognitive, evaluative, diagnostic, clinical, aptitude, or achievement information about students (or to generate other statistically useful data for the purpose of securing such tests and assessments) and the subsequent analysis and public release of the aggregate data from such tests and assessments.
 
 &emsp;&emsp;&emsp;(v) The sale by students of products or services to raise funds for school-related or education-related activities.
 

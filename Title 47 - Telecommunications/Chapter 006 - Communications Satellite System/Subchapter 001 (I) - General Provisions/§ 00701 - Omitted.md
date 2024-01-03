@@ -80,7 +80,7 @@ Implementation.—In implementing the provisions of this section, the Secretary 
 
 "(g)
 
-Definition.—For the purposes of this section, the term 'separate international telecommunications satellite system' or 'separate system' means a systemof one or more telecommunications satellites separate from the Intelsat space segment which is established to provide international telecommunications services between points within the United States and points outside the United States, except that such term shall not include any satellite or system of satellites established—
+Definition.—For the purposes of this section, the term 'separate international telecommunications satellite system' or 'separate system' means a system of one or more telecommunications satellites separate from the Intelsat space segment which is established to provide international telecommunications services between points within the United States and points outside the United States, except that such term shall not include any satellite or system of satellites established—
 
 &emsp;"(1) primarily for domestic telecommunications purposes and which incidentally provides services on an ancillary basis to points outside the jurisdiction of the United States but within the western hemisphere, or
 

@@ -2,7 +2,7 @@
 
 #### (a) Activities constituting administration; use of excess funds to supplement cost of administration of area plans; election to pay costs from sums received for administration of area plans
 
-(1) Amounts available to States under subsection (b) may be used to make grants to States for paying such percentages as each State agency determines, but not more than 75 percent, of the cost of the administration of its State plan, including the preparation of the State plan, the evaluation of activities carried out under such plan, the collection of data and the carrying out of analyses related to the need for supportive services, nutrition services, and multipurpose senior centers within the State, and dissemination of information so obtained, the provision of short-term training to personnel of public or nonprofit private agencies and organizations engaged in the operation of programs authorized by this chapter, and the carrying out of demonstration projects of statewide significance relating to the initiation, expansion, or improvement of services assisted under this subchapter.
+(1) Amounts available to States under subsection (b) may be used to make grants to States for paying such percentages as each State agency determines, but not more than 75 percent, of the cost of the administration of its State plan, including the preparation of theState plan, the evaluation of activities carried out under such plan, the collection of data and the carrying out of analyses related to the need for supportive services, nutrition services, and multipurpose senior centers within the State, and dissemination of information so obtained, the provision of short-term training to personnel of public or nonprofit private agencies and organizations engaged in the operation of programs authorized by this chapter, and the carrying out of demonstration projects of statewide significance relating to the initiation, expansion, or improvement of services assisted under this subchapter.
 
 (2) Any sums available to a State under subsection (b) for part of the cost of the administration of its State plan which the State determines is not needed for such purpose may be used by the State to supplement the amount available under section 3024(d)(1)(A) of this title to cover part of the cost of the administration of area plans.
 
@@ -38,7 +38,7 @@
 
 (B) The Assistant Secretary may approve any application transmitted by a State under subparagraph (A) if the Assistant Secretary determines, based upon a particularized showing of need, that—
 
-&emsp;(i) the State will be unable to fully and effectively administer its State plan and to carry out programs and projects authorized by this subchapter unless such additionalamounts are made available by the Assistant Secretary;
+&emsp;(i) the State will be unable to fully and effectively administer its State plan and to carry out programs and projects authorized by this subchapter unless such additional amounts are made available by the Assistant Secretary;
 
 &emsp;(ii) the State is making full and effective use of its allotment under paragraph (1) and of the personnel of the State agency and area agencies designated under section 3025(a)(2)(A) of this title in the administration of its State plan in accordance with subsection (a); and
 
@@ -50,7 +50,7 @@
 
 (E) No application by a State under subparagraph (A) shall be approved unless it contains assurances that no amounts received by the State under this paragraph will be used to hire any individual to fill a job opening created by the action of the State in laying off or terminating the employment of any regular employee not supported under this chapter in anticipation of filling the vacancy so created by hiring an employee to be supported through use of amounts received under this paragraph.
 
-(4)(A) Notwithstanding any other provision of this subchapter and except as provided in subparagraph (B), with respect to funds received by a State and attributable to funds appropriated under paragraph (1) or (2) of section 3023(b) of this title, the State may elect to transfer not more than 40 percent of the funds so received between subpart I and subpart II of part C, for use as the State considers appropriate to meet the needs of the area served. The Assistant Secretary shall approve any such transfer unless the Assistant Secretary determines that such transfer is not consistent with the objectives of this chapter.
+(4)(A) Notwithstanding any other provision of this subchapter and except as provided in subparagraph (B), with respect to funds received by a State and attributable to funds appropriated under paragraph (1) or (2) of section 3023(b) of this title, the State may elect to transfer not more than 40 percent of the funds so received between subpart I and subpart II of part C, for useas the State considers appropriate to meet the needs of the area served. The Assistant Secretary shall approve any such transfer unless the Assistant Secretary determines that such transfer is not consistent with the objectives of this chapter.
 
 (B) If a State demonstrates, to the satisfaction of the Assistant Secretary, that funds received by the State and attributable to funds appropriated under paragraph (1) or (2) of section 3023(b) of this title, including funds transferred under subparagraph (A) without regard to this subparagraph, for any fiscal year are insufficient to satisfy the need for services under subpart I or subpart II of part C, then the Assistant Secretary may grant a waiver that permits the State to transfer under subparagraph (A) to satisfy such need an additional 10 percent of the funds so received by a State and attributable to funds appropriated under paragraph (1) or (2) of section 3023(b) of this title.
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(II) part C, including the effect on the number of meals served.
 
-(8) The Assistant Secretary shall review the reports submitted under section 3027(a)(30) ofthis title and include aggregate data in the report required by section 3018(a) of this title, including data on—
+(8) The Assistant Secretary shall review the reports submitted under section 3027(a)(30) of this title and include aggregate data in the report required by section 3018(a) of this title, including data on—
 
 &emsp;(A) the effectiveness of the programs, policies, and services provided by area agencies on aging in assisting older individuals whose needs were the focus of all centers funded under subchapter IV in fiscal year 2019; and
 
@@ -110,7 +110,7 @@ The amounts of any State's allotment under subsection (b) for any fiscal year wh
 
 #### Prior Provisions
 
-A prior section 3028, Pub. L. 89–73, title III, §308, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 44; Pub. L. 94–135, title I, §§108, 112(c), Nov. 28, 1975, 89 Stat. 717, 719, related to model projects, prior to the general amendment of this subchapter by Pub. L. 95–478.
+A prior section 3028, Pub. L. 89–73, title III, §308, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 44; Pub. L. 94–135, title I, §§108, 112(c), Nov. 28, 1975, 89Stat. 717, 719, related to model projects, prior to the general amendment of this subchapter by Pub. L. 95–478.
 
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §306, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 43; Pub. L. 94–135, title I, §107, Nov. 28, 1975, 89 Stat. 716, which was classified to section 3026 of this title prior to repeal by Pub. L. 95–478.
 

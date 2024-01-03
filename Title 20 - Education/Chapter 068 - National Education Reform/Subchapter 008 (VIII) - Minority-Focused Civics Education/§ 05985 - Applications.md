@@ -2,7 +2,7 @@
 
 #### (a) Application required
 
-Each eligible entity desiring a grant under this subchapter shall submit an application tothe Secretary, at such time, in such manner and containing or accompanied by such information as the Secretary may reasonably require.
+Each eligible entity desiring a grant under this subchapter shall submit an application to the Secretary, at such time, in such manner and containing or accompanied by such information as the Secretary may reasonably require.
 
 #### (b) Contents of application
 
@@ -12,7 +12,7 @@ Each application submitted pursuant to subsection (a) shall—
 
 &emsp;(2) provide assurances that educators successfully participating in each seminar will qualify for either graduate credit or professional development or advancement credit according to the criteria established by a State or local educational agency;
 
-&emsp;(3) describe the manner in which seminar participants shall receive exposure to a broad array of individuals who are actively involved in the political process, including political party representatives drawn equally from the major political parties, as well as representatives of other organizations involved in the political process;
+&emsp;(3) describe the manner in which seminar participants shall receive exposure to a broad array of individuals who are actively involved in the political process, including politicalparty representatives drawn equally from the major political parties, as well as representatives of other organizations involved in the political process;
 
 &emsp;(4) provide assurances that the seminars will be conducted on a nonpartisan basis;
 

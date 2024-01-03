@@ -4,7 +4,7 @@
 
 (b) Each such commission for an area, river basin, or group of river basins shall, to the extent consistent with section 1962–1 of this title—
 
-&emsp;(1) serve as the principal agency for the coordination of Federal, State, interstate, local and nongovernmental plans for the development of water and related land resources in its area, river basin, or group of river basins;
+&emsp;(1) serve as the principal agency for the coordination of Federal, State, interstate, localand nongovernmental plans for the development of water and related land resources in its area, river basin, or group of river basins;
 
 &emsp;(2) prepare and keep up to date, to the extent practicable, a comprehensive, coordinated, joint plan for Federal, State, interstate, local and nongovernmental development of water and related resources: <i>Provided</i>, That the plan shall include an evaluation of all reasonable alternative means of achieving optimum development of water and related land resources of the basin or basins, and it may be prepared in stages, including recommendations with respect to individual projects;
 

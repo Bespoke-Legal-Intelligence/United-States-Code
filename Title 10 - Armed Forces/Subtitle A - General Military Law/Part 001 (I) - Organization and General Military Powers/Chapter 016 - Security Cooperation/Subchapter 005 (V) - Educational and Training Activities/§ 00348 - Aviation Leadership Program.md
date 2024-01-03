@@ -6,7 +6,7 @@ In General.—Under regulations prescribed by the Secretary of Defense, the Secr
 
 (b)
 
-Supplies and Clothing.—(1) The Secretary of the Air Force may, under such conditions asthe Secretary may prescribe, provide to a person receiving training under this section—
+Supplies and Clothing.—(1) The Secretary of the Air Force may, under such conditions as the Secretary may prescribe, provide to a person receiving training under this section—
 
 &emsp;(A) transportation incident to the training;
 

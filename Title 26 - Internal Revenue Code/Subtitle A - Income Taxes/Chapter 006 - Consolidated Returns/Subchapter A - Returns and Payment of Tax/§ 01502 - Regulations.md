@@ -94,7 +94,7 @@ Net amount.—The net amount of any item of income is the amount of such income 
 
 Second same country corporation may be treated as domestic corporation in certain cases.—If—
 
-&emsp;&emsp;"(A) another foreign corporation acquires from the common parent stock of the foreign corporation referred to in subsection (a) after the transaction referred to in subsection (a),
+&emsp;&emsp;"(A) another foreign corporation acquires from the common parent stock of the foreign corporationreferred to in subsection (a) after the transaction referred to in subsection (a),
 
 &emsp;&emsp;"(B) both of such foreign corporations are subject to the income tax of the same foreign country on a residence basis, and
 
@@ -104,5 +104,5 @@ Second same country corporation may be treated as domestic corporation in certai
 
 #### Special Rule for Disposition of Stock of Subsidiary
 
-Pub. L. 99–514, title VI, §647, Oct. 22, 1986, 100 Stat. 2294, provided that: "If for a taxable year of an affiliated group filing a consolidated return ending on or before December 31, 1987, there is a disposition of stock of a subsidiary (within the meaning of Treasury Regulation section 1.1502–19), the amount required to be included in income with respect to such disposition under Treasury Regulation section 1.1502–19(a) shall, notwithstanding such section, be included in income ratably over the 15-year period beginning with the taxable year in which the disposition occurs. The preceding sentence shall apply only if such subsidiary was incorporated on December 24, 1969, and is a participant in a mineral joint venture with a corporation organized under thelaws of the foreign country in which the joint venture mineral project is located."
+Pub. L. 99–514, title VI, §647, Oct. 22, 1986, 100 Stat. 2294, provided that: "If for a taxable year of an affiliated group filing a consolidated return ending on or before December 31, 1987, there is a disposition of stock of a subsidiary (within the meaning of Treasury Regulation section 1.1502–19), the amount required to be included in income with respect to such disposition under Treasury Regulation section 1.1502–19(a) shall, notwithstanding such section, be included in income ratably over the 15-year period beginning with the taxable year in which the disposition occurs. The preceding sentence shall apply only if such subsidiary was incorporated on December 24, 1969, and is a participant in a mineral joint venture with a corporation organized under the laws of the foreign country in which the joint venture mineral project is located."
 

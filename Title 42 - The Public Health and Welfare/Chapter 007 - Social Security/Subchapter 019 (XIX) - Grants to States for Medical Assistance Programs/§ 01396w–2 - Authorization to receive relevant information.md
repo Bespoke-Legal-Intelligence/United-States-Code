@@ -34,7 +34,7 @@ Data or information may be conveyed pursuant to subsection (a) only if the follo
 
 #### (d) Rule of construction
 
-The limitations and requirements that apply to disclosure pursuant to this section shall notbe construed to prohibit the conveyance or disclosure of data or information otherwise permitted under Federal law (without regard to this section).
+The limitations and requirements that apply to disclosure pursuant to this section shall not be construed to prohibit the conveyance or disclosure of data or information otherwise permitted under Federal law (without regard to this section).
 
 (Aug. 14, 1935, ch. 531, title XIX, §1942, as added Pub. L. 111–3, title II, §203(d)(1), Feb. 4, 2009, 123 Stat. 47.)
 

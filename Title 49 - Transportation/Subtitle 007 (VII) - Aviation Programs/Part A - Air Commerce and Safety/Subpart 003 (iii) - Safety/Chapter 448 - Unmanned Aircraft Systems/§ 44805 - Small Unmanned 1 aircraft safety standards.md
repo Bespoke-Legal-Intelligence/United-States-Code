@@ -52,7 +52,7 @@ Revocation.—The Administrator may suspend or revoke the authorizations in subs
 
 (g)
 
-Requirements.—With regard to an authorization under the processes in subsection (a), the Administrator may require a manufacturer of small unmanned aircraft systems to provide the Federal Aviation Administration with the following:
+Requirements.—With regard to an authorization under the processes in subsection (a), theAdministrator may require a manufacturer of small unmanned aircraft systems to provide the Federal Aviation Administration with the following:
 
 &emsp;(1) The aircraft system's operating instructions.
 

@@ -62,7 +62,7 @@ A grant under this section may be used to—
 
 #### (2) Other grants
 
-&emsp;In making grants under subsection (b)(8) the Attorney General shall take into account theextent to which the grantee has expertise addressing the judicial system's handling of family violence, child custody, child abuse and neglect, adoption, foster care, supervised visitation, divorce, and parentage.
+&emsp;In making grants under subsection (b)(8) the Attorney General shall take into account the extent to which the grantee has expertise addressing the judicial system's handling of family violence, child custody, child abuse and neglect, adoption, foster care, supervised visitation, divorce, and parentage.
 
 #### (d) Applicant requirements
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal ye
 
 #### Effective Date
 
-Section not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L.113–4, set out as an Effective Date of 2013 Amendment note under section 2261 of Title 18, Crimes and Criminal Procedure.
+Section not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as an Effective Date of 2013 Amendment note under section 2261 of Title 18, Crimes and Criminal Procedure.
 
 #### Definitions
 

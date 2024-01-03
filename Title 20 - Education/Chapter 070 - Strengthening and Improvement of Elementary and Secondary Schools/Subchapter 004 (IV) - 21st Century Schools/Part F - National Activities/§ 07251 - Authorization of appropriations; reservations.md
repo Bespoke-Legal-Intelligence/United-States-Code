@@ -40,7 +40,7 @@ From the amounts appropriated under subsection (a) for a fiscal year, the Secret
 
 #### Prior Provisions
 
-A prior section 7251, Pub. L. 89–10, title V, §5451, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat.1824, related to inexpensive book distribution program for reading motivation, prior to repeal by Pub. L. 114–95, §5, title IV, §4001(b)(1)(C), Dec. 10, 2015, 129 Stat. 1806, 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+A prior section 7251, Pub. L. 89–10, title V, §5451, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1824, related to inexpensive book distribution program for reading motivation, prior to repeal by Pub. L. 114–95, §5, title IV, §4001(b)(1)(C), Dec. 10, 2015, 129 Stat. 1806, 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
 A prior section 4601 of Pub. L. 89–10 was classified to section 3151 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 

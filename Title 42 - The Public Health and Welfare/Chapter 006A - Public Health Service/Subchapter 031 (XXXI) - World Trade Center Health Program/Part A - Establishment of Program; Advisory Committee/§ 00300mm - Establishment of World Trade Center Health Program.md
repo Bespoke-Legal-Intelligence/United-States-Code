@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is hereby established within the Department of Health and Human Services a programto be known as the World Trade Center Health Program, which shall be administered by the WTC Program Administrator, to provide beginning on July 1, 2011—
+There is hereby established within the Department of Health and Human Services a program to be known as the World Trade Center Health Program, which shall be administered by the WTC Program Administrator, to provide beginning on July 1, 2011—
 
 &emsp;(1) medical monitoring and treatment benefits to eligible emergency responders and recovery and cleanup workers (including those who are Federal employees) who responded to the September 11, 2001, terrorist attacks; and
 
@@ -66,7 +66,7 @@ The WTC Program Administrator working with the Clinical Centers of Excellence sh
 
 #### (1) In general
 
-&emsp;Not later than 6 months after the end of each fiscal year in which the WTC Program is in operation, the WTC Program Administrator shall submit an annual report to the Congress on the operations of this subchapter for such fiscal year and for the entire period of operation of the program.
+&emsp;Not later than 6 months after the end of each fiscal year in which the WTC Program is in operation, the WTC Program Administrator shall submit an annual report to the Congresson the operations of this subchapter for such fiscal year and for the entire period of operation of the program.
 
 #### (2) Contents included in report
 
@@ -80,7 +80,7 @@ The WTC Program Administrator working with the Clinical Centers of Excellence sh
 
 &emsp;&emsp;&emsp;(ii) of the individuals who were certified, on the number who received monitoring under the program and the number of such individuals who received medical treatment under the program;
 
-&emsp;&emsp;&emsp;(iii) with respect to individuals so certified who received such treatment, on theWTC-related health conditions for which they were treated; and
+&emsp;&emsp;&emsp;(iii) with respect to individuals so certified who received such treatment, on the WTC-related health conditions for which they were treated; and
 
 &emsp;&emsp;&emsp;(iv) on the projected number of individuals who will be certified under part B in the succeeding fiscal year and the succeeding 10-year period.
 
@@ -150,7 +150,7 @@ The WTC Program Administrator shall engage in ongoing outreach and consultation 
 
 &emsp;&emsp;(B) The procedures for providing certifications of coverage of conditions as WTC-related health conditions for enrolled WTC responders under section 300mm–22(b)(2)(B)(iii) of this title and for screening-eligible WTC survivors and certified-eligible WTC survivors under such section as applied under section 300mm–32(a) of this title.
 
-&emsp;&emsp;(C) Any action under the WTC Program to ensure appropriate payment (including the avoidance of improper payments), including determining the extent to which individuals enrolled in the WTC Program are eligible for workers compensation or sources of health coverage, ascertaining the liability of such compensation or sources of health coverage, and making recommendations for ensuring effective and efficient coordination of benefits for individuals enrolled in the WTC Program that does not place an undue burden on such individuals.
+&emsp;&emsp;(C) Any action under the WTC Program to ensure appropriate payment (including the avoidance of improper payments), includingdetermining the extent to which individuals enrolled in the WTC Program are eligible for workers compensation or sources of health coverage, ascertaining the liability of such compensation or sources of health coverage, and making recommendations for ensuring effective and efficient coordination of benefits for individuals enrolled in the WTC Program that does not place an undue burden on such individuals.
 
 #### (2) Subsequent assessments
 
@@ -158,7 +158,7 @@ The WTC Program Administrator shall engage in ongoing outreach and consultation 
 
 &emsp;&emsp;(A) consult the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate on the objectives in assessing the WTC Program; and
 
-&emsp;&emsp;(B) prepare and submit to such Committees a report that assesses the WTC Programfor the applicable reporting period, including the objectives described in subparagraph (A).
+&emsp;&emsp;(B) prepare and submit to such Committees a report that assesses the WTC Program for the applicable reporting period, including the objectives described in subparagraph (A).
 
 #### (j) Regulations
 

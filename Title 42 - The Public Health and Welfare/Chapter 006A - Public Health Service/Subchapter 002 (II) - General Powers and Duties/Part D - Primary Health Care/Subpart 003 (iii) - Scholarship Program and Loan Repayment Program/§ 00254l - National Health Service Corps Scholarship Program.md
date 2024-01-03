@@ -42,7 +42,7 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (1) Subject to section 254f–1 of this title, in providing contracts under the Scholarship Program—
 
-&emsp;(A) the Secretary shall consider the extent of the demonstrated interest of the applicants for the contracts in providing primary health services;
+&emsp;(A) the Secretary shall consider the extent of the demonstrated interest of the applicantsfor the contracts in providing primary health services;
 
 &emsp;(B) the Secretary, in considering applications from individuals accepted for enrollment or enrolled in dental school, shall consider applications from all individuals accepted for enrollment or enrolled in any accredited dental school in a State; and
 
@@ -74,7 +74,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&emsp;(i) to accept provision of such a scholarship to the individual;
 
-&emsp;&emsp;&emsp;(ii) to maintain enrollment in a course of study described in subsection (b)(1)(B)until the individual completes the course of study;
+&emsp;&emsp;&emsp;(ii) to maintain enrollment in a course of study described in subsection (b)(1)(B) until the individual completes the course of study;
 
 &emsp;&emsp;&emsp;(iii) while enrolled in such course of study, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study);
 
@@ -98,7 +98,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 (1) A scholarship provided to a student for a school year under a written contract under the Scholarship Program shall consist of—
 
-&emsp;(A) payment to, or (in accordance with paragraph (2)) on behalf of, the student of the amount (except as provided in section 292k <sup>2</sup> of this title) of—
+&emsp;(A) payment to, or (in accordance with paragraph (2)) on behalf of, the student of the amount (except as provided in section 292k <sup>3</sup> of this title) of—
 
 &emsp;&emsp;(i) the tuition of the student in such school year; and
 
@@ -106,7 +106,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;(B) payment to the student of a stipend of $400 per month (adjusted in accordance with paragraph (3)) for each of the 12 consecutive months beginning with the first month of such school year.
 
-(2) The Secretary may contract with an educational institution, in which a participant in the Scholarship Program is enrolled, for the payment to the educational institution of the amounts of tuition and other reasonable educational expenses described in paragraph (1)(A). Payment to such an educational institution may be made without regard to section 3324(a) and (b) of title 31.
+(2) The Secretary may contract with an educational institution, in which a participant in the Scholarship Program is enrolled, for thepayment to the educational institution of the amounts of tuition and other reasonable educational expenses described in paragraph (1)(A). Payment to such an educational institution may be made without regard to section 3324(a) and (b) of title 31.
 
 (3) The amount of the monthly stipend, specified in paragraph (1)(B) and as previously adjusted (if at all) in accordance with this paragraph, shall be increased by the Secretary for each school year ending in a fiscal year beginning after September 30, 1978, by an amount (rounded to the next highest multiple of $1) equal to the amount of such stipend multiplied by the overall percentage (under section 5303 of title 5) of the adjustment (if such adjustment is an increase) in the rates of pay under the General Schedule made effective in the fiscal year in which such school year ends.
 
@@ -128,7 +128,7 @@ The General Schedule, referred to in subsec. (g)(3), is set out under section 53
 
 #### Codification
 
-In subsec. (g)(2), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes (31U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (g)(2), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes (31 U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was formerly classified to section 294t of this title prior to its renumbering by Pub. L. 97–35.
 
@@ -214,7 +214,7 @@ Reference to Reserve Corps of the Public Health Service deemed to be a reference
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L.107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
+Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 
 #### Effective Date of 1990 Amendment
 

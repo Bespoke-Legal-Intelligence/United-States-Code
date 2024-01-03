@@ -20,5 +20,5 @@ The Secretary of Commerce shall provide notice to the Committees on Merchant Mar
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One HundredFourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

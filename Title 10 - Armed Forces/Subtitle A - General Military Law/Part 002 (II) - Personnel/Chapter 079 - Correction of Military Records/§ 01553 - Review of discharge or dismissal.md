@@ -1,6 +1,6 @@
 ### §1553. Review of discharge or dismissal
 
-(a) The Secretary concerned shall, after consulting the Secretary of Veterans Affairs, establish a board of review, consisting of not fewer than three members, to review the discharge ordismissal (other than a discharge or dismissal by sentence of a general court-martial) of any former member of an armed force under the jurisdiction of his department upon its own motion or upon the request of the former member or, if he is dead, his surviving spouse, next of kin, or legal representative. A motion or request for review must be made within 15 years after the date of the discharge or dismissal. With respect to a discharge or dismissal adjudged by a court-martial case tried or reviewed under chapter 47 of this title (or under the Uniform Code of Military Justice (Public Law 506 of the 81st Congress)), action under this subsection may extend only to a change in the discharge or dismissal or issuance of a new discharge for purposes of clemency.
+(a) The Secretary concerned shall, after consulting the Secretary of Veterans Affairs, establish a board of review, consisting of not fewer than three members, to review the discharge or dismissal (other than a discharge or dismissal by sentence of a general court-martial) of any former member of an armed force under the jurisdiction of his department upon its own motion or upon the request of the former member or, if he is dead, his surviving spouse, next of kin, or legal representative. A motion or request for review must be made within 15 years after the date of the discharge or dismissal. With respect to a discharge or dismissal adjudged by a court-martial case tried or reviewed under chapter 47 of this title (or under the Uniform Code of Military Justice (Public Law 506 of the 81st Congress)), action under this subsection may extend only to a change in the discharge or dismissal or issuance of a new discharge for purposes of clemency.
 
 (b)(1) A board established under this section may, subject to review by the Secretary concerned, change a discharge or dismissal, or issue a new discharge, to reflect its findings.
 
@@ -28,7 +28,7 @@
 
 &emsp;(1) The number of motions or requests for review considered by such board during the calendar quarter preceding the calendar quarter in which such information is made available, including cases in which a mental health condition of the former member, including post-traumatic stress disorder or traumatic brain injury, is alleged to have contributed, whether in whole or part, to the original characterization of the discharge or dismissal of the former member.
 
-&emsp;(2) The number of claims submitted during the calendar quarter preceding the calendar quarter in which such information is made available that relate to service by a formermember during a war or contingency operation, catalogued by each war or contingency operation.
+&emsp;(2) The number of claims submitted during the calendar quarter preceding the calendar quarter in which such information is made available that relate to service by a former member during a war or contingency operation, catalogued by each war or contingency operation.
 
 &emsp;(3) The number of discharges or dismissals corrected pursuant to the consideration described in paragraph (1) to upgrade the characterization of discharge or dismissal of former members.
 
@@ -85,6 +85,18 @@ Subsec. (e). Pub. L. 113–291, §521(b)(2), added subsec. (e).
 #### Effective Date
 
 Section effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans' Benefits.
+
+#### Reviews of Characterization of Administrative Discharges of Certain Members on the Basis of Failure To Receive COVID-19 Vaccine
+
+Pub. L. 118–31, div. A, title V, §527, Dec. 22, 2023, 137 Stat. 255, provided that:
+
+"(a)
+
+Mandatory Review.—A board established under section 1553 of title 10, United States Code, shall grant a request pursuant to such section to review the characterization of a discharge or dismissal of a former member of a covered Armed Force if such discharge or dismissal was solely based on the failure of such former member to obey a lawful order to receive a vaccine for COVID-19.
+
+"(b)
+
+Covered Armed Force Defined.—In this section, the term 'covered Armed Force' means the Army, Navy, Marine Corps, Air Force, Coast Guard, or Space Force."
 
 #### Discharge Review Boards
 

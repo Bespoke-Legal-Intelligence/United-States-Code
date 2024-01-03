@@ -4,7 +4,7 @@
 
 In a case of actual controversy involving—
 
-&emsp;(1) a determination by the Secretary whether interest on prospective obligations will beexcludable from gross income under section 103(a), or
+&emsp;(1) a determination by the Secretary whether interest on prospective obligations will be excludable from gross income under section 103(a), or
 
 &emsp;(2) a failure by the Secretary to make a determination with respect to any matter referred to in paragraph (1),
 

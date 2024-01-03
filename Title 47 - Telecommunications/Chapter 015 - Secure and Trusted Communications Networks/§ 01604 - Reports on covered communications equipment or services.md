@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each provider of advanced communications service shall submit an annual report to the Commission, in a form to be determined by the Commission, regarding whether such provider has purchased, rented, leased, or otherwise obtained any covered communications equipment or service on or after—
+Each provider of advanced communications service shall submit an annual report to theCommission, in a form to be determined by the Commission, regarding whether such provider has purchased, rented, leased, or otherwise obtained any covered communications equipment or service on or after—
 
 &emsp;(1) in the case of any covered communications equipment or service that is on the initial list published under section 1601(a) of this title, August 14, 2018; or
 

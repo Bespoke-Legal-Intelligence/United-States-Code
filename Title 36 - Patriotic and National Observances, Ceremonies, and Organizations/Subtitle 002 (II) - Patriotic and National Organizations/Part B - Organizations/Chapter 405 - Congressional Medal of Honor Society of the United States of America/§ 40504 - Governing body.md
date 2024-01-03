@@ -12,7 +12,7 @@ Board of Directors.—(1) The board of directors is the governing body of the co
 
 (b)
 
-Officers.—(1) The officers of the corporation are a president, an executive vice president, a secretary, a treasurer, and 6 regional vice presidents as provided in the bylaws. The offices of secretary and treasurer may be combined and held by the same individual, but an individual holding those combined offices has only one vote as a director.
+Officers.—(1) The officers of the corporation are a president, an executive vice president,a secretary, a treasurer, and 6 regional vice presidents as provided in the bylaws. The offices of secretary and treasurer may be combined and held by the same individual, but an individual holding those combined offices has only one vote as a director.
 
 (2) The manner of election, term of office, duties, and powers of the officers are as provided in the bylaws.
 

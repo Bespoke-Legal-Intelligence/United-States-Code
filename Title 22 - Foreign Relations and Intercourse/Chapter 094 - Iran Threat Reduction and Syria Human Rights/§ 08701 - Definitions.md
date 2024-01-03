@@ -34,6 +34,32 @@ Pub. L. 112–158, §1(a), Aug. 10, 2012, 126 Stat. 1214, provided that: "This A
 
 Pub. L. 112–158, title VII, §701, Aug. 10, 2012, 126 Stat. 1265, provided that: "This title \[enacting subchapter VII of this chapter\] may be cited as the 'Syria Human Rights Accountability Act of 2012'."
 
+#### Monitoring Iranian Enrichment of Uranium-235
+
+Pub. L. 118–31, div. G, title IV, §7413, Dec. 22, 2023, 137 Stat. 1078, provided that:
+
+"(a)
+
+Significant Enrichment Activity Defined.—In this section, the term 'significant enrichment activity' means—
+
+&emsp;"(1) any enrichment of any amount of uranium-235 to a purity percentage that is 5 percent higher than the purity percentage indicated in the prior submission to Congress under subsection (b)(1); or
+
+&emsp;"(2) any enrichment of uranium-235 in a quantity exceeding 10 kilograms.
+
+"(b)
+
+Submission to Congress.—
+
+&emsp;"(1)
+
+In general.—Not later than 48 hours after the Director of National Intelligence assesses that the Islamic Republic of Iran has produced or possesses any amount of uranium-235 enriched to greater than 60 percent purity or has engaged in significant enrichment activity, the Director shall submit to Congress such assessment, consistent with the protection of intelligence sources and methods.
+
+&emsp;"(2)
+
+Duplication.—For any submission required by this subsection, the Director of National Intelligence may rely upon existing products that reflect the current analytic judgment of the intelligence community, including reports or products produced in response to congressional mandate or requests from executive branch officials."
+
+\[For definition of "intelligence community" as used in section 7413 of Pub. L. 118–31, set out above, see section 7002 of Pub. L. 118–31, set out as a note under section 3003 of Title 50, War and National Defense.\]
+
 #### Iran Nuclear Weapons Capability and Terrorism Monitoring
 
 Pub. L. 117–263, div. E, title LV, §5593, Dec. 23, 2022, 136 Stat. 3385, provided that:
@@ -342,7 +368,7 @@ Contents.—The diplomatic strategy required by paragraph (1) shall include—
 
 &emsp;&emsp;"(C) a description of efforts of the United States to counter efforts of the Islamic Republic of Iran to project political and military influence into the Middle East;
 
-&emsp;&emsp;"(D) a description of efforts to address the increased threat that new or evolving uranium enrichment, nuclear weaponization, missile, or drone development activities by the Islamic Republic of Iran pose to United States citizens, the diplomatic presence of the United States in the Middle East, and the national security interests of the United States;
+&emsp;&emsp;"(D) a description of efforts to address the increased threat that new or evolving uranium enrichment, nuclear weaponization, missile, or drone development activities by the Islamic Republic of Iran pose to United States citizens, the diplomaticpresence of the United States in the Middle East, and the national security interests of the United States;
 
 &emsp;&emsp;"(E) a description of efforts to address the threat that terrorism by, or sponsored by, the Islamic Republic of Iran poses to United States citizens, the diplomatic presence of the United States in the Middle East, and the national security interests of the United States;
 
@@ -430,7 +456,7 @@ Pub. L. 113–291, div. A, title XII, §1271, Dec. 19, 2014, 128 Stat. 3588, pro
 
 "(a)
 
-In General.—Not later than 30 days after the date of the enactment of this Act \[Dec. 19, 2014\], the President shall submit to the appropriate congressional committees a report on the interim agreement relatingto the nuclear program of Iran. Such report shall include—
+In General.—Not later than 30 days after the date of the enactment of this Act \[Dec. 19, 2014\], the President shall submit to the appropriate congressional committees a report on the interim agreement relating to the nuclear program of Iran. Such report shall include—
 
 &emsp;"(1) verification of whether Iran is complying with such agreement; and
 
@@ -508,7 +534,7 @@ Relevant congressional committees.—The term 'relevant congressional committees
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 28, 2012\], theSecretary of State shall conduct an assessment of the threats posed to the United States by Iran's growing presence and activity in the Western Hemisphere and submit to the relevant congressional committees the results of the assessment and a strategy to address Iran's growing hostile presence and activity in the Western Hemisphere.
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 28, 2012\], the Secretary of State shall conduct an assessment of the threats posed to the United States by Iran's growing presence and activity in the Western Hemisphere and submit to the relevant congressional committees the results of the assessment and a strategy to address Iran's growing hostile presence and activity in the Western Hemisphere.
 
 "(b)
 
@@ -520,7 +546,7 @@ Matters To Be Included.—The strategy described in subsection (a) should includ
 
 &emsp;"(3) a description of the relationship of Iran, the IRGC, its Qods Force, and Hezbollah with transnational criminal organizations linked to Iran and other terrorist organizations in the Western Hemisphere, including information on financial networks and trafficking activities;
 
-&emsp;"(4) a description of the relationship of Iran, the IRGC, its Qods Force, Hezbollah, and other terrorist organizations linked to Iran that may be present in the Western Hemisphere with the governments in the Western Hemisphere, including military-to-military relations and diplomatic, economic, and security partnerships and agreements;
+&emsp;"(4) a description of the relationship of Iran, the IRGC, its Qods Force, Hezbollah, and other terrorist organizations linked to Iran that may be present in the Western Hemisphere with the governments in theWestern Hemisphere, including military-to-military relations and diplomatic, economic, and security partnerships and agreements;
 
 &emsp;"(5) a description of the Federal law enforcement capabilities, military forces, State and local government institutions, and other critical elements, such as nongovernmental organizations, in the Western Hemisphere that may organize to counter the threat posed by Iran, the IRGC, its Qods Force, Hezbollah, and other terrorist organizations linked to Iran that may be present in the Western Hemisphere;
 

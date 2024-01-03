@@ -4,7 +4,7 @@
 
 (2) A member of the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
 
-(3) A member of the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
+(3) A member of the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service who is removed fromsuch service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
 
 (b)(1) Except as provided in paragraphs (2) and (3), an employee who—
 
@@ -76,7 +76,7 @@
 
 &emsp;(A) The employee is separated from the service voluntarily during a period in which the organization within the Department of Defense in which the employee is serving is undergoing a major organizational adjustment.
 
-&emsp;(B) The employee has been employed continuously by the Department of Defense for more than 30 days before the date on which the head of the employee's organization requests the determinations required under subparagraph (A).
+&emsp;(B) The employee has been employed continuously by the Department of Defense formore than 30 days before the date on which the head of the employee's organization requests the determinations required under subparagraph (A).
 
 &emsp;(C) The employee is serving under an appointment that is not limited by time.
 

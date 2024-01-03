@@ -120,7 +120,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) the fuels identified with respect to the gasification technology for such project will comprise at least 90 percent of the fuels required by the project for the production of chemical feedstocks, liquid transportation fuels, or coproduction of electricity,
 
-&emsp;&emsp;(E) the award recipient's project team is competent in the construction and operationof the gasification technology proposed, with preference given to those recipients with experience which demonstrates successful and reliable operations of the technology on domestic fuels so identified, and
+&emsp;&emsp;(E) the award recipient's project team is competent in the construction and operation of the gasification technology proposed, with preference given to those recipients with experience which demonstrates successful and reliable operations of the technology on domestic fuels so identified, and
 
 &emsp;&emsp;(F) the award recipient has met other criteria established and published by the Secretary.
 

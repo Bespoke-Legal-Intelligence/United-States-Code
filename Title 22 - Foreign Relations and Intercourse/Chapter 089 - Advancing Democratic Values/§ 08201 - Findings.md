@@ -22,6 +22,96 @@ Congress finds the following:
 
 Pub. L. 110–53, title XXI, §2101, Aug. 3, 2007, 121 Stat. 526, provided that: "This title \[enacting this chapter and amending provisions set out as a note under section 2151n of this title\] may be cited as the 'Advance Democratic Values, Address Nondemocratic Countries, and Enhance Democracy Act of 2007' or the 'ADVANCE Democracy Act of 2007'."
 
+#### Institute for Transatlantic Engagement
+
+Pub. L. 118–31, div. F, title LXVII, §6709, Dec. 22, 2023, 137 Stat. 1019, provided that:
+
+"(a)
+
+Establishment.—The Secretary of State is authorized to establish the Institute for Transatlantic Engagement (referred to in this section as the 'Institute').
+
+"(b)
+
+Purpose.—The purpose of any Institute established pursuant to subsection (a) shall be to strengthen national security by highlighting, to a geographically diverse set of populations from the United States, Canada, and European nations, the importance of the transatlantic relationship and the threats posed by adversarial countries, such as the Russian Federation and the People's Republic of China, to democracy, free-market economic principles, and human rights.
+
+"(c)
+
+Director.—Any Institute established pursuant to subsection (a) shall be headed by a Director, to be appointed by the Secretary \[of State\], who shall have expertise in transatlantic relations and diverse populations in the United States and Europe.
+
+"(d)
+
+Scope and Activities.—Any Institute established pursuant to subsection (a) shall—
+
+&emsp;"(1) strengthen knowledge among participants of the formation and implementation of transatlantic policies critical to national security, including the threats posed by the Russian Federation and the People's Republic of China;
+
+&emsp;"(2) increase awareness among participants of the roles of government and nongovernmental actors, such as multilateral organizations, businesses, civil society actors, academia, think tanks, and philanthropic institutions, in transatlantic policy development and execution;
+
+&emsp;"(3) increase understanding among participants of the manner in which diverse backgrounds and perspectives affect the development of transatlantic policies;
+
+&emsp;"(4) enhance the skills, abilities, and effectiveness of participating government officials;
+
+&emsp;"(5) increase awareness among participants of the importance of, and interest in, international public service careers;
+
+&emsp;"(6) not less than 3 times annually, convene representatives of the United States Government, the Government of Canada, and of governments of European nations for a program offered by the Institute; and
+
+&emsp;"(7) develop metrics to track the success and efficacy of the program which shall be reported to the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\] and prior to the convening of the first program described in paragraph (6).
+
+"(e)
+
+Eligibility to Participate.—Participants in the programs of the Institute shall include elected government officials—
+
+&emsp;"(1) serving at national, regional, or local levels in the United States, Canada, and European nations; and
+
+&emsp;"(2) who represent geographically diverse backgrounds or constituencies in the United States, Canada, and Europe.
+
+"(f)
+
+Selection of Participants.—
+
+&emsp;"(1)
+
+United states participants.—Participants from the United States shall be appointed in an equally divided manner by—
+
+&emsp;&emsp;"(A) the chairpersons and ranking members of the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives;
+
+&emsp;&emsp;"(B) the majority leader of the Senate and the minority leader of the Senate; and
+
+&emsp;&emsp;"(C) the Speaker of the House of Representatives and the minority leader of the House of Representatives.
+
+&emsp;"(2)
+
+European and canadian participants.—Participants from Europe and Canada shall be appointed by the Secretary of State, in consultation with—
+
+&emsp;&emsp;"(A) the chairpersons and ranking members of the appropriate congressional committees;
+
+&emsp;&emsp;"(B) the majority leader of the Senate and the minority leader of the Senate; and
+
+&emsp;&emsp;"(C) the Speaker of the House of Representatives and the minority leader of the House of Representatives.
+
+"(g)
+
+Restrictions.—
+
+&emsp;"(1)
+
+Unpaid participation.—Participants in the Institute may not be paid a salary for such participation.
+
+&emsp;"(2)
+
+Reimbursement.—The Institute may pay or reimburse participants for reasonable travel, lodging, and food in connection with participation in the program.
+
+&emsp;"(3)
+
+Travel.—No funds authorized to be appropriated under subsection (h) may be used for travel for members of Congress to participate in Institute activities.
+
+"(h)
+
+Authorization of Appropriations.—There is authorized to be appropriated up to $750,000 for fiscal years 2024 and 2025 to carry out this section.
+
+"(i)
+
+Sunset.—The authority provided by this section terminates on December 31, 2025."
+
 #### David E. Price Legislative Strengthening Program
 
 Pub. L. 117–328, div. K, title VII, §7032(k), Dec. 29, 2022, 136 Stat. 5029, provided that: "Funds appropriated by this Act \[div. K of Pub. L. 117–328\] under the heading 'Democracy Fund' \[136 Stat. 4988\] shall be made available for legislative strengthening programs: <i>Provided</i>, That such funds shall be subject to prior consultation with, and the regular notification procedures of, the Committees on Appropriations: <i>Provided further</i>, That such programs shall hereafter be collectively named the 'David E. Price Legislative Strengthening Program'."
@@ -52,7 +142,7 @@ Sec. 1. <i>Engaging in Consultation with Civil Society Representatives</i>. (a) 
 
 Sec. 2. <i>Working with Civil Society Organizations</i>. The U.S. Government works with civil society organizations even when local laws restrict the ability of civil society organizations to operate or where local laws restrict the fundamental freedoms of expression, peaceful assembly, and association, with due regard for the safety of civil society interlocutors and their operations. Agencies engaged abroad shall oppose, through appropriate means, efforts by foreign governments to dictate the nature of U.S. assistance to civil society, the selection of individuals or entities to implement U.S. Government programs, or the selection of recipients or beneficiaries of those programs. Additionally, agencies engaged abroad shall review their internal regulations, policies, and procedures to ensure that programmatic requirements do not inadvertently impede civil society operations.
 
-Sec. 3. <i>Opposing Undue Restrictions on Civil Society and Fundamental Freedoms</i>. (a) Agencies engaged abroad shall oppose, through appropriate means, efforts by foreign governments that restrict the freedoms of expression, peaceful assembly, and association in a manner inconsistent with their international obligations and commitments. Such actions may include urging relevant governments or legislatures to reverse course; making high-level statements or delivering messages publicly or privately; working with local and international civil society organizations and stakeholders, like-minded countries, and regional and multilateral organizations and bodies; and, where possible, providing direct assistance to civil society actors engaged in these efforts.
+Sec. 3. <i>Opposing Undue Restrictions on Civil Society and Fundamental Freedoms</i>. (a) Agencies engaged abroad shall oppose, through appropriate means, efforts by foreign governments that restrict the freedoms of expression, peaceful assembly, and association in a manner inconsistent with their international obligations andcommitments. Such actions may include urging relevant governments or legislatures to reverse course; making high-level statements or delivering messages publicly or privately; working with local and international civil society organizations and stakeholders, like-minded countries, and regional and multilateral organizations and bodies; and, where possible, providing direct assistance to civil society actors engaged in these efforts.
 
 (b) Agencies engaged abroad shall, where possible, expand the provision of advice and other support to governments seeking to institute legal and political reforms to protect civic space, and to civil society organizations where governments are not engaged in such affirmative reform efforts. This may include funding for democracy, human rights, workers' rights, and governance assistance, as well as emergency support to activists and organizations.
 

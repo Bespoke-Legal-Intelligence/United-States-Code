@@ -2,7 +2,7 @@
 
 #### (a) Studies
 
-The Secretary of Health and Human Services, acting through the United States Preventive Services Task Force, shall conduct a series of studies designed to identify preventive interventions that can be delivered in the primary care setting and that are most valuable to older Americans.
+The Secretary of Health and Human Services, acting through the United States PreventiveServices Task Force, shall conduct a series of studies designed to identify preventive interventions that can be delivered in the primary care setting and that are most valuable to older Americans.
 
 #### (b) Mission statement
 

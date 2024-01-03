@@ -42,7 +42,7 @@ Each provider of advanced communications services has the duty not to install ne
 
 &emsp;Within one year after October 8, 2010, the Commission shall promulgate such regulations as are necessary to implement this section. In prescribing the regulations, the Commission shall—
 
-&emsp;&emsp;(A) include performance objectives to ensure the accessibility, usability, and compatibility of advanced communications services and the equipment used for advanced communications services by individuals with disabilities;
+&emsp;&emsp;(A) include performance objectives to ensure the accessibility, usability, and compatibility of advanced communications services and the equipment used for advancedcommunications services by individuals with disabilities;
 
 &emsp;&emsp;(B) provide that advanced communications services, the equipment used for advanced communications services, and networks used to provide advanced communications services may not impair or impede the accessibility of information content when accessibility has been incorporated into that content for transmission through advanced communications services, equipment used for advanced communications services, or networks used to provide advanced communications services;
 
@@ -74,7 +74,7 @@ For purposes of this section and section 619 of this title, the term "achievable
 
 #### (1) Waiver
 
-&emsp;The Commission shall have the authority, on its own motion or in response to a petition by a manufacturer or provider of advancedcommunications services or any interested party, to waive the requirements of this section for any feature or function of equipment used to provide or access advanced communications services, or for any class of such equipment, for any provider of advanced communications services, or for any class of such services, that—
+&emsp;The Commission shall have the authority, on its own motion or in response to a petition by a manufacturer or provider of advanced communications services or any interested party, to waive the requirements of this section for any feature or function of equipment used to provide or access advanced communications services, or for any class of such equipment, for any provider of advanced communications services, or for any class of such services, that—
 
 &emsp;&emsp;(A) is capable of accessing an advanced communications service; and
 

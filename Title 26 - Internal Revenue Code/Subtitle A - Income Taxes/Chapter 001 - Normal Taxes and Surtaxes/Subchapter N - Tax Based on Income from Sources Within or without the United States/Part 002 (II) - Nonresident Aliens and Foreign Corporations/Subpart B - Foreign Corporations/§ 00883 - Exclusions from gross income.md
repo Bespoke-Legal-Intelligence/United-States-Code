@@ -14,7 +14,7 @@ The following items shall not be included in gross income of a foreign corporati
 
 #### (3) Railroad rolling stock of foreign corporations
 
-&emsp;Earnings derived from payments by a common carrier for the use on a temporary basis (not expected to exceed a total of 90 days inany taxable year) of railroad rolling stock owned by a corporation of a foreign country which grants an equivalent exemption to corporations organized in the United States.
+&emsp;Earnings derived from payments by a common carrier for the use on a temporary basis (not expected to exceed a total of 90 days in any taxable year) of railroad rolling stock owned by a corporation of a foreign country which grants an equivalent exemption to corporations organized in the United States.
 
 #### (4) Special rules
 
@@ -58,7 +58,7 @@ The earnings derived from the ownership or operation of a communications satelli
 
 #### References in Text
 
-The Communications Satellite Act of 1962, referred to in subsec. (b), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, which is classified generally to chapter 6 (§701 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 47 and Tables.
+The Communications Satellite Act of 1962, referred to in subsec. (b), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat.419, which is classified generally to chapter 6 (§701 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 47 and Tables.
 
 #### Amendments
 

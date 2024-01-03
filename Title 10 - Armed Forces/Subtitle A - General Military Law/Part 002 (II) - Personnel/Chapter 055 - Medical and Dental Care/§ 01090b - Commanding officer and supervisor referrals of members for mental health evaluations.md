@@ -26,7 +26,7 @@ Prohibition on Use of Referrals for Mental Health Evaluations to Retaliate Again
 
 (e)
 
-Self-initiated Referral Process.—(1) The regulations required by subsection (a) shall, with respect to a member of the armed forces—
+Self-initiated Referral Process.—(1) The regulations required by subsection (a) shall, with respect to a member of the armed forces described in paragraph (3)—
 
 &emsp;(A) provide for a self-initiated process that enables the member to trigger a referral for a mental health evaluation by requesting such a referral from a commanding officer or supervisor who is in a grade above E-5;
 
@@ -34,11 +34,11 @@ Self-initiated Referral Process.—(1) The regulations required by subsection (a
 
 &emsp;&emsp;(i) requiring the commanding officer or supervisor of the member to refer the member to a mental health provider for a mental health evaluation as soon as practicable following the request of the member (including by providing to the mental health provider the name and contact information of the member and providing to the member the date, time, and place of the scheduled mental health evaluation); and
 
-&emsp;&emsp;(ii) ensure <sup>1</sup> the member may request a referral pursuant to subparagraph (A) on any basis (including on the basis of a concern relating to fitness for duty, occupational requirements, safety issues, significant changes in performance, or behavioral changes that may be attributable to possible changes in mental status); and
+&emsp;&emsp;(ii) ensuring the member may request a referral pursuant to subparagraph (A) on any basis (including on the basis of a concern relating to fitness for duty, occupational requirements, safety issues, significant changes in performance, or behavioral changes that may be attributable to possible changes in mental status); and
 
 &emsp;(C) ensure that the process described in subparagraph (A)—
 
-&emsp;&emsp;(i) reduces stigma in accordance with subsection (b), including by treating referrals for mental health evaluations made pursuant to such process in a manner similar to referrals for other medical services, to the maximum extent practicable; and
+&emsp;&emsp;(i) reduces stigma in accordance with subsection (b), including by treating referralsfor mental health evaluations made pursuant to such process in a manner similar to referrals for other medical services, to the maximum extent practicable; and
 
 &emsp;&emsp;(ii) protects the confidentiality of the member to the maximum extent practicable, in accordance with requirements for the confidentiality of health information under the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) and applicable privacy laws.
 
@@ -51,6 +51,12 @@ Self-initiated Referral Process.—(1) The regulations required by subsection (a
 &emsp;&emsp;(i) the member requesting the referral; and
 
 &emsp;&emsp;(ii) the commander or supervisor making such referral based on the request.
+
+(3) A member of the armed forces described in this paragraph is—
+
+&emsp;(A) a member on active duty for a period of longer than 30 days; or
+
+&emsp;(B) a member of the Selected Reserve in a duty status.
 
 (f)
 
@@ -70,7 +76,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) in which treatment is available and the risks of physical injury or property damage posed by such placement are warranted by the proposed plan of treatment.
 
-(Added Pub. L. 112–81, div. A, title VII, §711(a)(1), Dec. 31, 2011, 125 Stat. 1475, §1090a; renumbered §1090b and amended Pub. L. 117–81, div. A, title VII, §§701(c)(1)(A), 704, Dec. 27, 2021, 135 Stat. 1778, 1780.)
+(Added Pub. L. 112–81, div. A, title VII, §711(a)(1), Dec. 31, 2011, 125 Stat. 1475, §1090a; renumbered §1090b and amended Pub. L. 117–81, div. A, title VII, §§701(c)(1)(A), 704, Dec. 27, 2021, 135 Stat. 1778, 1780; Pub. L. 118–31, div. A, title VII, §705, title XVIII, §1801(a)(14), Dec. 22, 2023, 137 Stat. 300, 684.)
 
 #### <b>Editorial Notes</b>
 
@@ -79,6 +85,12 @@ Definitions.—In this section:
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (e)(1)(C)(ii), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of Title 42, The Public Health and Welfare, and Tables.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (e)(1). Pub. L. 118–31, §705(1), inserted "described in paragraph (3)" after "member of the armed forces" in introductory provisions.
+
+Subsec. (e)(1)(B)(ii). Pub. L. 118–31, §1801(a)(14), substituted "ensuring" for "ensure".
+
+Subsec. (e)(3). Pub. L. 118–31, §705(2), added par. (3).
 
 <b>2021</b>—Pub. L. 117–81, §701(c)(1)(A), renumbered section 1090a of this title as this section.
 
@@ -151,6 +163,4 @@ Report.—Not later than July 1, 2023, the Secretary of Defense shall submit to 
 "(e)
 
 Exigent Circumstance Defined.—In this section, the term 'exigent circumstance' means a circumstance in which the Secretary of Defense determines the need to prevent serious harm to an individual or essential military function clearly outweighs the need for confidentiality of information obtained by a health care provider incident to mental health care services voluntarily sought by a member of the Armed Forces."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "ensuring".</i>
 

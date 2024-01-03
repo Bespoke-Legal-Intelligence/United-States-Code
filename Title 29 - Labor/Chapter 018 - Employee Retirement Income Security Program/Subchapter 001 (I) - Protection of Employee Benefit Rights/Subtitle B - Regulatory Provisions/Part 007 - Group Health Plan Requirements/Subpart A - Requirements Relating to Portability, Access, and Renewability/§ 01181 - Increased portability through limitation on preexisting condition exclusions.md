@@ -30,7 +30,7 @@ For purposes of this part—
 
 #### (3) Late enrollee
 
-&emsp;The term "late enrollee" means, with respect to coverage under a group health plan, a participant or beneficiary who enrolls under the plan other than during—
+&emsp;The term "late enrollee" means, with respect to coverage under a group health plan, aparticipant or beneficiary who enrolls under the plan other than during—
 
 &emsp;&emsp;(A) the first period in which the individual is eligible to enroll under the plan, or
 
@@ -76,7 +76,7 @@ For purposes of this part—
 
 #### (B) Waiting period not treated as a break in coverage
 
-&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4), any period that an individualis in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2)) shall not be taken into account in determining the continuous period under subparagraph (A).
+&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4), any period that an individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2)) shall not be taken into account in determining the continuous period under subparagraph (A).
 
 #### (C) TAA-eligible individuals
 
@@ -116,7 +116,7 @@ For purposes of this part—
 
 #### (1) Exclusion not applicable to certain newborns
 
-&emsp;Subject to paragraph (4), a group health plan, and a health insurance issuer offering group health insurance coverage, may not impose any preexisting condition exclusion in the case of an individual who, as of the last day of the 30-day period beginning with the date of birth, is covered under creditable coverage.
+&emsp;Subject to paragraph (4), a group health plan, and a health insurance issuer offering group health insurance coverage, may not impose any preexisting condition exclusion inthe case of an individual who, as of the last day of the 30-day period beginning with the date of birth, is covered under creditable coverage.
 
 #### (2) Exclusion not applicable to certain adopted children
 
@@ -184,7 +184,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(i) was under a COBRA continuation provision and the coverage under such provision was exhausted; or
 
-&emsp;&emsp;&emsp;(ii) was not under such a provision and either the coverage was terminated as a result of loss of eligibility for the coverage (including as a result of legal separation, divorce, death, termination of employment, or reduction in the number of hours of employment) or employer contributions toward such coverage were terminated.
+&emsp;&emsp;&emsp;(ii) was not under such a provision and either the coverage was terminated as aresult of loss of eligibility for the coverage (including as a result of legal separation, divorce, death, termination of employment, or reduction in the number of hours of employment) or employer contributions toward such coverage were terminated.
 
 &emsp;&emsp;(D) Under the terms of the plan, the employee requests such enrollment not later than 30 days after the date of exhaustion of coverage described in subparagraph (C)(i) or termination of coverage or employer contribution described in subparagraph (C)(ii).
 
@@ -244,7 +244,7 @@ For purposes of this part—
 
 #### (II) Model notice
 
-&emsp;&emsp;&emsp;&emsp;Not later than 1 year after February 4, 2009, the Secretary and the Secretary of Health and Human Services, in consultation with Directors of State Medicaid agencies under title XIX of the Social Security Act and Directors of State CHIP agencies under title XXI of such Act, shall jointly develop national and State-specific model notices for purposes of subparagraph (A). The Secretary shall provide employers with such model notices so as to enable employers to timely comply with the requirements of subparagraph (A). Such model notices shall include information regarding how an employee may contact the State in which the employee resides for additional information regarding potential opportunities for such premium assistance, including how to apply for such assistance.
+&emsp;&emsp;&emsp;&emsp;Not later than 1 year after February 4, 2009, the Secretary and the Secretary of Health and Human Services, in consultation with Directors of State Medicaid agencies under title XIX of the Social Security Act and Directors of State CHIP agencies under title XXI of such Act, shall jointly develop national andState-specific model notices for purposes of subparagraph (A). The Secretary shall provide employers with such model notices so as to enable employers to timely comply with the requirements of subparagraph (A). Such model notices shall include information regarding how an employee may contact the State in which the employee resides for additional information regarding potential opportunities for such premium assistance, including how to apply for such assistance.
 
 #### (III) Option to provide concurrent with provision of plan materials to employee
 
@@ -294,7 +294,7 @@ The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (
 
 Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (f)(3)(B)(ii), is section 311(b)(1)(C) of Pub. L. 111–3, which is set out as a note under this section.
 
-The Public Health Service Act, referred to in subsec. (g)(3), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XXVII of the Act is classified generally to part A (§300gg et seq.) of subchapter XXV of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (g)(3), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A oftitle XXVII of the Act is classified generally to part A (§300gg et seq.) of subchapter XXV of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
 
@@ -448,7 +448,7 @@ Compensation.—The members of the Working Group shall serve without compensatio
 
 "(iv)
 
-Administrative support.—The Department of Health and Human Services and the Department ofLabor shall jointly provide appropriate administrative support to the Working Group, including technical assistance. The Working Group may use the services and facilities of either such Department, with or without reimbursement, as jointly determined by such Departments.
+Administrative support.—The Department of Health and Human Services and the Department of Labor shall jointly provide appropriate administrative support to the Working Group, including technical assistance. The Working Group may use the services and facilities of either such Department, with or without reimbursement, as jointly determined by such Departments.
 
 "(v)
 

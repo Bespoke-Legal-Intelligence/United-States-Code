@@ -130,7 +130,7 @@
 
 #### (D) Copy
 
-&emsp;&emsp;A copy of the individualized plan for employment for an eligible individual shall beprovided to the individual or, as appropriate, to the individual's representative, in writing and, if appropriate, in the native language or mode of communication of the individual or, as appropriate, of the individual's representative.
+&emsp;&emsp;A copy of the individualized plan for employment for an eligible individual shall be provided to the individual or, as appropriate, to the individual's representative, in writing and, if appropriate, in the native language or mode of communication of the individual or, as appropriate, of the individual's representative.
 
 #### (E) Review and amendment
 
@@ -192,7 +192,7 @@
 
 &emsp;&emsp;&emsp;(i) the extended services needed by the eligible individual; and
 
-&emsp;&emsp;&emsp;(ii) the source of extended services or, to the extent that the source of the extendedservices cannot be identified at the time of the development of the individualized plan for employment, a description of the basis for concluding that there is a reasonable expectation that such source will become available;
+&emsp;&emsp;&emsp;(ii) the source of extended services or, to the extent that the source of the extended services cannot be identified at the time of the development of the individualized plan for employment, a description of the basis for concluding that there is a reasonable expectation that such source will become available;
 
 &emsp;&emsp;(G) as determined to be necessary, a statement of projected need for post-employment services; and
 
@@ -362,7 +362,7 @@
 
 #### (B) Application
 
-&emsp;&emsp;The provisions of paragraphs (1), (2), and (3) that relate to due process hearings do not apply, and paragraph (5) (other than subparagraph (J)) does not apply, to any State to which subparagraph (A) applies.
+&emsp;&emsp;The provisions of paragraphs (1), (2), and (3) that relate to due process hearings do notapply, and paragraph (5) (other than subparagraph (J)) does not apply, to any State to which subparagraph (A) applies.
 
 #### (7) Impact on provision of services
 
@@ -428,7 +428,7 @@ Each designated State agency, in consultation with the State Rehabilitation Coun
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(3)(A) and (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(3)(A) and (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat.620. Titles II and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 

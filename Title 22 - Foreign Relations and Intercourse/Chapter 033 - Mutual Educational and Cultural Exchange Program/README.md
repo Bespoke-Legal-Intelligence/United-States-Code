@@ -21,6 +21,7 @@
 | [2462\.](%C2%A7%2002462%20-%20Establishment%20of%20grant%20program%20for%20foreign%20study%20by%20American%20college%20students%20of%20limited%20financial%20means.md) | Establishment of grant program for foreign study by American college students of limited financial means. |
 | [2463\.](%C2%A7%2002463%20-%20Allocation%20of%20funds%20transferred%20to%20the%20Bureau%20of%20Educational%20and%20Cultural%20Affairs.md) | Allocation of funds transferred to the Bureau of Educational and Cultural Affairs. |
 | [2464\.](%C2%A7%2002464%20-%20Ethical%20issues%20in%20international%20health%20research.md) | Ethical issues in international health research. |
+| [2465\.](%C2%A7%2002465%20-%20John%20Lewis%20Civil%20Rights%20Fellowship%20Program.md) | John Lewis Civil Rights Fellowship Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,3 +49,4 @@
 - [&sect; 02462 - Establishment of grant program for foreign study by American college students of limited financial means](%C2%A7%2002462%20-%20Establishment%20of%20grant%20program%20for%20foreign%20study%20by%20American%20college%20students%20of%20limited%20financial%20means.md)
 - [&sect; 02463 - Allocation of funds transferred to the Bureau of Educational and Cultural Affairs](%C2%A7%2002463%20-%20Allocation%20of%20funds%20transferred%20to%20the%20Bureau%20of%20Educational%20and%20Cultural%20Affairs.md)
 - [&sect; 02464 - Ethical issues in international health research](%C2%A7%2002464%20-%20Ethical%20issues%20in%20international%20health%20research.md)
+- [&sect; 02465 - John Lewis Civil Rights Fellowship Program](%C2%A7%2002465%20-%20John%20Lewis%20Civil%20Rights%20Fellowship%20Program.md)

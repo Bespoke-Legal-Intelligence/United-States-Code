@@ -10,7 +10,7 @@ In general.—The Secretary of Transportation shall issue a determination as to 
 
 &emsp;&emsp;(A) a written request for such determination is filed with the Secretary by such owner or operator; or
 
-&emsp;&emsp;(B) a written complaint requesting such determination is filed with the Secretary by an affected air carrier or foreign air carrier within 60 days after such carrier receives written notice of the establishment or increase of such fee.
+&emsp;&emsp;(B) a written complaint requesting such determination is filed with the Secretary byan affected air carrier or foreign air carrier within 60 days after such carrier receives written notice of the establishment or increase of such fee.
 
 &emsp;(2)
 

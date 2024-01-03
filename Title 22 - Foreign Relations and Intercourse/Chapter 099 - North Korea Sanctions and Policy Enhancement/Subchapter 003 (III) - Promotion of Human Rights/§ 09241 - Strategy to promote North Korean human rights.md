@@ -24,7 +24,7 @@ The report required under subsection (a) should include—
 
 &emsp;(3) opportunities to coordinate and collaborate with appropriate nongovernmental organizations and private sector entities to raise awareness and provide assistance to North Korean defectors throughout the world.
 
-(Pub. L. 114–122, title III, §302, Feb. 18, 2016, 130 Stat. 112; Pub. L. 115–44, title III, §321(a)(1), Aug.2, 2017, 131 Stat. 951; Pub. L. 115–272, title III, §303(c)(2), Oct. 25, 2018, 132 Stat. 4157; Pub. L. 116–92, div. F, title LXXI, §7122(b)(4), Dec. 20, 2019, 133 Stat. 2248.)
+(Pub. L. 114–122, title III, §302, Feb. 18, 2016, 130 Stat. 112; Pub. L. 115–44, title III, §321(a)(1), Aug. 2, 2017, 131 Stat. 951; Pub. L. 115–272, title III, §303(c)(2), Oct. 25, 2018, 132 Stat. 4157; Pub. L. 116–92, div. F, title LXXI, §7122(b)(4), Dec. 20, 2019, 133 Stat. 2248.)
 
 #### <b>Editorial Notes</b>
 
@@ -42,7 +42,7 @@ The report required under subsection (a) should include—
 
 Pub. L. 115–44, title III, §321(a)(2), Aug. 2, 2017, 131 Stat. 951, provided that: "With respect to any country identified in section 302(b)(2) of the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 9241(b)(2)), as amended by paragraph (1), the report required under section 302(a) of such Act shall—
 
-&emsp;"(A) include a determination whether each person identified in section 302(b)(3) of such Act (as amended by paragraph (1)) who is a national or a citizen of such identified country meets the criteria for sanctions under—
+&emsp;"(A) include a determination whether each person identified in section 302(b)(3) of such Act (as amendedby paragraph (1)) who is a national or a citizen of such identified country meets the criteria for sanctions under—
 
 &emsp;&emsp;"(i) section 111 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7108) (relating to the prevention of trafficking in persons); or
 

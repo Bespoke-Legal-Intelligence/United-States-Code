@@ -42,7 +42,7 @@ Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federa
 
 (2)(A) Except as provided in subparagraphs (B) and (C), a dependent of a Federal employee who is enrolled in an educational program provided by the Secretary pursuant to subsection (a) and who is not residing on a military installation may be enrolled in the program for not more than five consecutive school years.
 
-(B) At the discretion of the Secretary, a dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the dependent is otherwise qualified for enrollment, space is available in the program, and the Secretary will be reimbursed for the educational services provided. Any such extension shall cover only one school year at a time.
+(B) At the discretion of the Secretary, a dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the dependent is otherwise qualified for enrollment, space is available in the program, and the Secretary will be reimbursed for the educational services provided.Any such extension shall cover only one school year at a time.
 
 (C) Subparagraph (A) shall not apply to an individual who is a dependent of a Federal employee in the excepted service (as defined in section 2103 of title 5) and who is enrolled in an educational program provided by the Secretary pursuant to subsection (a) in Puerto Rico, Wake Island, Guam, American Samoa, the Northern Mariana Islands, or the Virgin Islands.
 
@@ -106,7 +106,7 @@ Administration and Staff.—(1) The Secretary of Defense may enter into such arr
 
 (C) Transfers under this paragraph shall extend for such periods as the Secretary considers appropriate. The Secretary shall provide appropriate compensation for employees so transferred.
 
-(D) The Secretary may provide that the transfer of an employee under this paragraph occur without reimbursement of the school or system concerned.
+(D) The Secretary may provide that the transfer of an employee under this paragraph occurwithout reimbursement of the school or system concerned.
 
 (E) In this paragraph, the term "defense dependents' education system" means the program established and operated under section 1402(a) of the Defense Dependents' Education Act of 1978 (20 U.S.C. 921(a)).
 
@@ -166,7 +166,7 @@ Tuition-free Enrollment of Dependents of Foreign Military Personnel Residing on 
 
 (k)
 
-Enrollment of Relocated Defense Dependents' Education System Students.—(1) The Secretary of Defense may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent of a member of the armed forces or a dependent of a Federal employee who is enrolled in the defense dependents' education system established under section 1402 of the Defense Dependents' Education Act of 1978 (20 U.S.C. 921) if—
+Enrollment of Relocated Defense Dependents' Education System Students.—(1)The Secretary of Defense may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent of a member of the armed forces or a dependent of a Federal employee who is enrolled in the defense dependents' education system established under section 1402 of the Defense Dependents' Education Act of 1978 (20 U.S.C. 921) if—
 
 &emsp;(A) the dependents departed the overseas location as a result of a evacuation order;
 
@@ -178,7 +178,7 @@ Enrollment of Relocated Defense Dependents' Education System Students.—(1) The
 
 (l)
 
-Enrollment in Virtual Elementary and Secondary Education Program.—(1) Under regulations prescribed by the Secretary of Defense,the Secretary may authorize the enrollment in the virtual elementary and secondary education program established as a component of the Department of Defense education program of a dependent of a member of the armed forces on active duty who—
+Enrollment in Virtual Elementary and Secondary Education Program.—(1) Under regulations prescribed by the Secretary of Defense, the Secretary may authorize the enrollment in the virtual elementary and secondary education program established as a component of the Department of Defense education program of a dependent of a member of the armed forces on active duty who—
 
 &emsp;(A) is enrolled in an elementary or secondary school operated by a local educational agency or another accredited educational program in the United States (other than a school operated by the Department of Defense education program); and
 
@@ -248,7 +248,7 @@ Subsec. (e)(4). Pub. L. 104–106 added par. (4).
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–66, div. A, title V, §553(b), Dec. 26, 2013, 127 Stat. 764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to tuition payments received under section 2164(l) of title 10, United States Code, for enrollments authorized by such section, after the date of theenactment of this Act \[Dec. 26, 2013\], in the virtual elementary and secondary education program of the Department of Defense education program."
+Pub. L. 113–66, div. A, title V, §553(b), Dec. 26, 2013, 127 Stat. 764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to tuition payments received under section 2164(l) of title 10, United States Code, for enrollments authorized by such section, after the date of the enactment of this Act \[Dec. 26, 2013\], in the virtual elementary and secondary education program of the Department of Defense education program."
 
 #### Effective Date of 1998 Amendment
 

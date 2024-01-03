@@ -36,7 +36,7 @@
 
 #### Amendments
 
-<b>2022</b>—Subsec. (f). Pub. L. 117–263 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "The promotion of an officer who is under investigation or against whom proceedings of a court-martial or a board of officers are pending may be delayed without prejudice by the Secretary until completion of the investigation or proceedings. However, unless theSecretary determines that a further delay is necessary in the public interest, a promotion may not be delayed under this subsection for more than one year after the date the officer would otherwise have been promoted. An officer whose promotion is delayed under this subsection and who is subsequently promoted shall be given the date of rank and position on the active duty promotion list in the grade to which promoted that he would have held had his promotion not been so delayed."
+<b>2022</b>—Subsec. (f). Pub. L. 117–263 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "The promotion of an officer who is under investigation or against whom proceedings of a court-martial or a board of officers are pending may be delayed without prejudice by the Secretary until completion of the investigation or proceedings. However, unless the Secretary determines that a further delay is necessary in the public interest, a promotion may not be delayed under this subsection for more than one year after the date the officer would otherwise have been promoted. An officer whose promotion is delayed under this subsection and who is subsequently promoted shall be given the date of rank and position on the active duty promotion list in the grade to which promoted that he would have held had his promotion not been so delayed."
 
 <b>2018</b>—Pub. L. 115–282, §112(b), renumbered section 271 of this title as this section.
 
@@ -115,4 +115,10 @@ Pub. L. 97–417, §4, Jan. 4, 1983, 96 Stat. 2087, provided that:
 #### Temporary Grades and Recommendations for Promotions in Effect Prior to September 24, 1963
 
 Savings provisions in section 5(a), (b), and (d) of Pub. L. 88–130, protecting officers recommended for promotion or serving in temporary grade higher than permanent grade, are set out as a note under section 2101 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Authority
+
+Authority of President under subsec. (e) of this section to appoint officers in the grades of lieutenant (junior grade) and lieutenant delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, §1(d), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of this title.
 

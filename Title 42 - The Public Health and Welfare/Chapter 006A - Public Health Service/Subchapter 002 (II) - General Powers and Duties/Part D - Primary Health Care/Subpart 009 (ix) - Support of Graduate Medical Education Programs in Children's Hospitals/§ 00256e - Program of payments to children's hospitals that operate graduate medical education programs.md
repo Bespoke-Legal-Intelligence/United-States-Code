@@ -42,7 +42,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 #### (ii) Notice and opportunity to provide missing information
 
-&emsp;&emsp;&emsp;Before imposing a reduction under clause (i) on the basis of a hospital's failure to provide information described in clause (i)(II), the Secretary shall provide notice to the hospital of such failure andthe Secretary's intention to impose such reduction and shall provide the hospital with the opportunity to provide the required information within a period of 30 days beginning on the date of such notice. If the hospital provides such information within such period, no reduction shall be made under clause (i) on the basis of the previous failure to provide such information.
+&emsp;&emsp;&emsp;Before imposing a reduction under clause (i) on the basis of a hospital's failure to provide information described in clause (i)(II), the Secretary shall provide notice to the hospital of such failure and the Secretary's intention to impose such reduction and shall provide the hospital with the opportunity to provide the required information within a period of 30 days beginning on the date of such notice. If the hospital provides such information within such period, no reduction shall be made under clause (i) on the basis of the previous failure to provide such information.
 
 #### (B) Annual report
 
@@ -218,7 +218,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary is authorized to make available up to 25 percent of the total amounts in excess of $245,000,000 appropriated under paragraphs (1) and (2) of subsection (f), but not to exceed $7,000,000, for payments to hospitals qualified as described in paragraph (2), for the direct and indirect expenses associated with operating approved graduate medical residency training programs, as described in subsection (a).
+&emsp;The Secretary is authorized to make available up to 25 percent of the total amounts in excess of $245,000,000 appropriated under paragraphs (1) and (2) of subsection (f), but not to exceed $7,000,000, for payments to hospitalsqualified as described in paragraph (2), for the direct and indirect expenses associated with operating approved graduate medical residency training programs, as described in subsection (a).
 
 #### (2) Qualified hospitals
 
@@ -258,7 +258,7 @@ In this section:
 
 #### (B) Quality bonus system
 
-&emsp;&emsp;For purposes of distributing the remaining amounts described in subparagraph (A), the Secretary may establish a quality bonus system, whereby the Secretary distributesbonus payments to hospitals participating in the program under this subsection or subsection (a) that meet standards specified by the Secretary, which may include a focus on quality measurement and improvement, interpersonal and communications skills, delivering patient-centered care, and practicing in integrated health systems, including training in community-based settings. In developing such standards, the Secretary shall collaborate with relevant stakeholders, including program accrediting bodies, certifying boards, training programs, health care organizations, health care purchasers, and patient and consumer groups.
+&emsp;&emsp;For purposes of distributing the remaining amounts described in subparagraph (A), the Secretary may establish a quality bonus system, whereby the Secretary distributes bonus payments to hospitals participating in the program under this subsection or subsection (a) that meet standards specified by the Secretary, which may include a focus on quality measurement and improvement, interpersonal and communications skills, delivering patient-centered care, and practicing in integrated health systems, including training in community-based settings. In developing such standards, the Secretary shall collaborate with relevant stakeholders, including program accrediting bodies, certifying boards, training programs, health care organizations, health care purchasers, and patient and consumer groups.
 
 (July 1, 1944, ch. 373, title III, §340E, as added Pub. L. 106–129, §4, Dec. 6, 1999, 113 Stat. 1671; amended Pub. L. 106–310, div. A, title XX, §2001, Oct. 17, 2000, 114 Stat. 1155; Pub. L. 108–490, §1(a), Dec. 23, 2004, 118 Stat. 3972; Pub. L. 109–307, §2, Oct. 6, 2006, 120 Stat. 1721; Pub. L. 113–98, §§2, 3, Apr. 7, 2014, 128 Stat. 1140; Pub. L. 115–241, §2, Sept. 18, 2018, 132 Stat. 2892.)
 
@@ -298,7 +298,7 @@ Subsec. (c)(2)(E)(ii). Pub. L. 109–307, §2(c)(1), substituted "applied under 
 
 Subsec. (e)(1). Pub. L. 109–307, §2(a)(2), substituted "12" for "26".
 
-Subsec. (e)(2). Pub. L. 109–307, §2(c)(2), struck out first sentence which read as follows: "The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1)."
+Subsec. (e)(2). Pub. L. 109–307, §2(c)(2), struck out first sentence which read as follows: "The Secretary shallwithhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1)."
 
 Subsec. (e)(3). Pub. L. 109–307, §2(c)(3), substituted "made and pay" for "made to pay".
 

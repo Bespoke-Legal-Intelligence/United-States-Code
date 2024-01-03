@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(ii) testing methods that significantly improve sensitivity and accelerate timelines for test results on non-live cervids;
 
-&emsp;&emsp;(B) the long-term suppression or eradication of chronic wasting disease; or <sup>1</sup>
+&emsp;&emsp;(B) the long-term suppression or eradication of chronic wasting disease; or <sup>2</sup>
 
 &emsp;&emsp;(C) determination markers for genetic resistance to chronic wasting disease and strategies for using genetic resistance to combat the spread of the disease;
 
@@ -156,5 +156,5 @@ Section 2 of H.R. 5608, One Hundred Seventeenth Congress, as engrossed in the Ho
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "section".</i>
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> So in original.</i>
 

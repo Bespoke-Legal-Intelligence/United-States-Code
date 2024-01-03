@@ -62,7 +62,7 @@ There is established within the Institute a board to be known as the "National M
 
 #### (2) Authority to adjust terms
 
-&emsp;The terms of the members appointed to the Museum and Library Service Board shall be adjusted by the President as necessary to ensure that the terms of not more than fourmembers expire in the same year. Such adjustments shall be carried out through designation of the adjusted term at the time of appointment.
+&emsp;The terms of the members appointed to the Museum and Library Service Board shall be adjusted by the President as necessary to ensure that the terms of not more than four members expire in the same year. Such adjustments shall be carried out through designation of the adjusted term at the time of appointment.
 
 #### (3) Vacancies
 
@@ -166,5 +166,5 @@ Subsec. (i). Pub. L. 111–340, §104(4), substituted "coordinate the developmen
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made onand after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 

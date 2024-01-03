@@ -378,6 +378,24 @@ Effective Date.—Notwithstanding section 701(b) \[set out as a note above\], th
 
 #### COVID–19 Pandemic Education Relief
 
+Pub. L. 118–5, div. B, title IV, §271, June 3, 2023, 137 Stat. 33, provided that:
+
+"(a)
+
+In General.—Sixty days after June 30, 2023, the waivers and modifications described in subsection (c) shall cease to be effective.
+
+"(b)
+
+Prohibition.—Except as expressly authorized by an Act of Congress enacted after the date of enactment of this Act \[June 3, 2023\], the Secretary of Education may not use any authority to implement an extension of any executive action or rule specified in subsection (c).
+
+"(c)
+
+Waivers and Modifications Described.—The waivers and modifications described in this subsection are the waivers and modifications of statutory and regulatory provisions relating to an extension of the suspension of payments on certain loans and waivers of interest on such loans under section 3513 of the CARES Act \[Pub. L. 116–136\] (20 U.S.C. 1001 note)—
+
+&emsp;"(1) described by the Department of Education in the Federal Register on October 12, 2022 (87 Fed. Reg. 61513 et seq.); and
+
+&emsp;"(2) most recently extended in the announcement by the Department of Education on November 22, 2022."
+
 Pub. L. 116–136, div. A, title III, §§3502–3510, 3512, 3513, 3517–3519, Mar. 27, 2020, 134 Stat. 395–399, 403, 404, 408, 409, as amended by Pub. L. 116–260, div. FF, title I, §101(a), Dec. 27, 2020, 134 Stat. 3082; Pub. L. 117–49, §4(a), (b), Oct. 13, 2021, 135 Stat. 404, 405; Pub. L. 117–103, div. HH, title I, §101, Mar. 15, 2022, 136 Stat. 1112, provided that:
 
 #### "SEC. 3502. DEFINITIONS.
@@ -416,7 +434,7 @@ Secretary.—The term 'Secretary' means the Secretary of Education.
 
 "(a)
 
-Waiver of Non-federal Share Requirement.—Notwithstanding sections 413C(a)(2) and 443(b)(5) of the Higher Education Act of 1965 (20 U.S.C. 1070b–2(a)(2) and 1087–53(b)(5)), with respect to funds made available for award years 2019–2020 and 2020–2021, the Secretary shall waive the requirement that a participating institutionof higher education provide a non-Federal share to match Federal funds provided to the institution for the programs authorized pursuant to subpart 3 of part A and part C of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq. and 1087–51 et seq.) for all awards made under such programs during such award years, except nothing in this subsection shall affect the non-Federal share requirement under section 443(c)(3) that applies to private for-profit organizations.
+Waiver of Non-federal Share Requirement.—Notwithstanding sections 413C(a)(2) and 443(b)(5) of the Higher Education Act of 1965 (20 U.S.C. 1070b–2(a)(2) and 1087–53(b)(5)), with respect to funds made available for award years 2019–2020 and 2020–2021, the Secretary shall waive the requirement that a participating institution of higher education provide a non-Federal share to match Federal funds provided to the institution for the programs authorized pursuant to subpart 3 of part A and part C of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq. and 1087–51 et seq.) for all awards made under such programs during such award years, except nothing in this subsection shall affect the non-Federal share requirement under section 443(c)(3) that applies to private for-profit organizations.
 
 "(b)
 
@@ -484,7 +502,7 @@ In general.—The Secretary shall waive the institutional requirement under sect
 
 &emsp;"(2)
 
-Waivers.—The Secretary shall require each institution using a waiver relating to the withdrawal of recipients under this subsection to report the number of such recipients, the amount of grant or loan assistance (other than assistance received under part C of title IV of such Act) associated with each such recipient, and the total amount of grant or loan assistance (other than assistance received under part C of title IV of such Act) for which each institution has not returned assistance under title IV to the Secretary.
+Waivers.—The Secretary shall require each institution using a waiver relating to the withdrawal of recipients under this subsection to report the numberof such recipients, the amount of grant or loan assistance (other than assistance received under part C of title IV of such Act) associated with each such recipient, and the total amount of grant or loan assistance (other than assistance received under part C of title IV of such Act) for which each institution has not returned assistance under title IV to the Secretary.
 
 "(b)
 
@@ -580,7 +598,7 @@ In general.—In this section, the term 'covered period', when used with respect
 
 &emsp;"(2)
 
-Special rule for certain payment periods.—For purposes of paragraph (1)(B)(i), if the following payment period for an award year ends before June 30 of such award year, the covered period shall be extended until June 30 of such award year.
+Special rule for certain payment periods.—For purposes of paragraph (1)(B)(i), if the followingpayment period for an award year ends before June 30 of such award year, the covered period shall be extended until June 30 of such award year.
 
 #### "SEC. 3512. HBCU CAPITAL FINANCING.
 
@@ -602,7 +620,7 @@ Terms.—During the deferment period granted under this subsection—
 
 &emsp;"(3)
 
-Closing.—At the closing of a loan deferred under this subsection, terms shall be set under whichthe institution shall be required to repay the Secretary for the payments of principal and interest made by the Secretary during the deferment, on a schedule that begins upon repayment to the lender in full on the loan agreement, except in no case shall repayment be required to begin before the date that is 1 full fiscal year after the date that is the end of the qualifying emergency.
+Closing.—At the closing of a loan deferred under this subsection, terms shall be set under which the institution shall be required to repay the Secretary for the payments of principal and interest made by the Secretary during the deferment, on a schedule that begins upon repayment to the lender in full on the loan agreement, except in no case shall repayment be required to begin before the date that is 1 full fiscal year after the date that is the end of the qualifying emergency.
 
 "(b)
 
@@ -690,7 +708,7 @@ Notice to Borrowers and Transition Period.—To inform borrowers of the actions 
 
 "(a)
 
-Waiver Authority.—Notwithstanding any other provision of the Higher Education Act of 1965 (\[20\] U.S.C. 1001 et seq.), unless enacted with specific reference to this section, for any institution of higher education that was receiving assistance under title III, title V, or subpart 4 of part A of title VII of such Act (20 U.S.C. 1051 et seq.; 1101 et seq.; 1136a et seq.) at the time of a qualifying emergency, the Secretary may, for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency—
+Waiver Authority.—Notwithstanding any other provision of the Higher Education Act of 1965 (\[20\] U.S.C. 1001 et seq.), unless enacted with specific reference to this section, for any institution of higher education that was receiving assistance under title III, title V, or subpart 4 of part A of title VII of such Act (20 U.S.C. 1051 et seq.; 1101 et seq.; 1136a et seq.) at the time of a qualifying emergency, the Secretary may, for the period beginning on the first day of the qualifyingemergency and ending on September 30 of the fiscal year following the end of the qualifying emergency—
 
 &emsp;"(1) waive—
 
@@ -702,7 +720,7 @@ Waiver Authority.—Notwithstanding any other provision of the Higher Education 
 
 &emsp;&emsp;"(D) the allotment requirements under subsections (b), (c), and (g) of section 324 of the Higher Education Act of 1965 (20 U.S.C. 1063), the reference to 'the end of the school year preceding the beginning of that fiscal year' under such section 324(a), and the reference to 'the academic year preceding such fiscal year' under such section 324(h);
 
-&emsp;&emsp;"(E) subparagraphs (A), (C), (D), and (E) of section 326(f)(3) of the Higher Education Act of 1965 (20U.S.C. 1063b(f)(3)), and references to 'previous year' under such section 326(f)(3)(B);
+&emsp;&emsp;"(E) subparagraphs (A), (C), (D), and (E) of section 326(f)(3) of the Higher Education Act of 1965 (20 U.S.C. 1063b(f)(3)), and references to 'previous year' under such section 326(f)(3)(B);
 
 &emsp;&emsp;"(F) subparagraphs (A), (C), (D), and (E) of section 723(f)(3) and subparagraphs (A), (C), (D), and (E) of section 724(f)(3) of the Higher Education Act of 1965 (20 U.S.C. 1136a(f)(3); 1136b(f)(3)), and references to 'previous academic year' under subparagraph (B) of such sections 723(f)(3) and 724(f)(3); and
 
@@ -812,11 +830,11 @@ Exception.—The programs described in subsection (a) for which the authorizatio
 
 \[Pub. L. 110–256, §1(b), June 30, 2008, 122 Stat. 2425, provided that: "Nothing in this section \[amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\], by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\], or by the Ensuring Continued Access to Student Loans Act of 2008 (Public Law 110–227) \[see Short Title of 2008 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
-\[Pub. L. 110–238, §1(b), May 30, 2008, 122 Stat. 1558, provided that: "Nothing in this section \[amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\], by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\], or by the Ensuring Continued Access to Student Loans Act of 2008 (Public Law 110–227) \[see Short Title of 2008 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
+\[Pub. L. 110–238, §1(b), May 30, 2008, 122 Stat. 1558, provided that: "Nothing in this section \[amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\], by the College Cost Reductionand Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\], or by the Ensuring Continued Access to Student Loans Act of 2008 (Public Law 110–227) \[see Short Title of 2008 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
 \[Pub. L. 110–230, §1(b), May 13, 2008, 122 Stat. 877, provided that: "Nothing in this section \[enacting provisions set out above and amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] or by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
-\[Pub. L. 110–198, §3, Mar. 24, 2008, 122 Stat. 656, provided that: "Nothing in this Act \[see Short Title of 2008Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] or by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
+\[Pub. L. 110–198, §3, Mar. 24, 2008, 122 Stat. 656, provided that: "Nothing in this Act \[see Short Title of 2008 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] or by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
 \[Pub. L. 110–109, §3, Oct. 31, 2007, 121 Stat. 1028, provided that: "Nothing in this Act \[see Short Title of 2007 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] or by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 

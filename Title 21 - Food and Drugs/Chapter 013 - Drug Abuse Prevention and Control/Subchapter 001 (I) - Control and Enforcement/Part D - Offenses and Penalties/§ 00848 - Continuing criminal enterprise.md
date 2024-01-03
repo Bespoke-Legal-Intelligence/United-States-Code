@@ -2,7 +2,7 @@
 
 #### (a) Penalties; forfeitures
 
-Any person who engages in a continuing criminal enterprise shall be sentenced to a termof imprisonment which may not be less than 20 years and which may be up to life imprisonment, to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, and to the forfeiture prescribed in section 853 of this title; except that if any person engages in such activity after one or more prior convictions of him under this section have become final, he shall be sentenced to a term of imprisonment which may not be less than 30 years and which may be up to life imprisonment, to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, and to the forfeiture prescribed in section 853 of this title.
+Any person who engages in a continuing criminal enterprise shall be sentenced to a term of imprisonment which may not be less than 20 years and which may be up to life imprisonment, to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, and to the forfeiture prescribed in section 853 of this title; except that if any person engages in such activity after one or more prior convictions of him under this section have become final, he shall be sentenced to a term of imprisonment which may not be less than 30 years and which may be up to life imprisonment, to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, and to the forfeiture prescribed in section 853 of this title.
 
 #### (b) Life imprisonment for engaging in continuing criminal enterprise
 
@@ -56,7 +56,7 @@ For the purposes of subsection (b), in the case of continuing criminal enterpris
 
 #### References in Text
 
-Section 841(b)(1)(A), referred to in subsec. (e)(1)(A), was in the original a reference to "section 841(b)(1)(A)"but probably should be a reference to "section 401(b)(1)(A)", meaning section 401(b)(1)(A) of Pub. L. 91–513, title II, Oct. 27, 1970, 84 Stat. 1260.
+Section 841(b)(1)(A), referred to in subsec. (e)(1)(A), was in the original a reference to "section 841(b)(1)(A)" but probably should be a reference to "section 401(b)(1)(A)", meaning section 401(b)(1)(A) of Pub. L. 91–513, title II, Oct. 27, 1970, 84 Stat. 1260.
 
 Section 960(b)(1), referred to in subsec. (e)(1)(A), was in the original a reference to "section 960(b)(1)" but probably should be a reference to "section 1010(b)(1)", meaning section 1010(b)(1) of Pub. L. 91–513, title III, Oct. 27, 1970, 84 Stat. 1290.
 
@@ -74,7 +74,7 @@ Subsec. (r). Pub. L. 109–177, §221(3), struck out subsec. (r) which provided 
 
 Subsec. (s). Pub. L. 109–177, §733, added subsec. (s).
 
-<b>1996</b>—Subsec. (q)(9). Pub. L. 104–132, §108, amended par. (9) generally. Prior to amendment, par. (9) read as follows: "Upon a finding in ex parte proceedings that investigative, expert or other services are reasonably necessary for the representation of the defendant, whether in connection with issues relating to guilt or sentence, the court shall authorize the defendant's attorneys to obtain such services on behalf of the defendant and shall order the payment of fees and expenses therefore, under paragraph (10). Upon a finding that timely procurement of such services could not practicably await prior authorization, the court may authorize the provision of and payment for such services nunc pro tunc."
+<b>1996</b>—Subsec. (q)(9). Pub. L. 104–132, §108, amended par. (9) generally. Prior to amendment, par. (9) read as follows: "Upon a finding in ex parte proceedings that investigative, expert or other services are reasonably necessary for the representation of the defendant, whether in connection with issues relating to guilt or sentence, the court shall authorize the defendant's attorneys to obtain such services on behalf of the defendant and shall order the payment of fees and expensestherefore, under paragraph (10). Upon a finding that timely procurement of such services could not practicably await prior authorization, the court may authorize the provision of and payment for such services nunc pro tunc."
 
 Subsec. (q)(10). Pub. L. 104–132, §903(b), amended par. (10) generally. Prior to amendment, par. (10) read as follows: "Notwithstanding the rates and maximum limits generally applicable to criminal cases and any other provision of law to the contrary, the court shall fix the compensation to be paid to attorneys appointed under this subsection and the fees and expenses to be paid for investigative, expert, and other reasonably necessary services authorized under paragraph (9), at such rates or amounts as the court determines to be reasonably necessary to carry out the requirements of paragraphs (4) through (9)."
 

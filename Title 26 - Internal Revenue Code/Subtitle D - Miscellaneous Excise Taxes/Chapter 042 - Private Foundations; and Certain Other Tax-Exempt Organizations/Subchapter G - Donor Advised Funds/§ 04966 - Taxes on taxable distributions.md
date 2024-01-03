@@ -8,7 +8,7 @@
 
 #### (2) On the fund management
 
-&emsp;There is hereby imposed on the agreement of any fund manager to the making of a distribution, knowing that it is a taxable distribution, a tax equal to 5 percent of the amount thereof.The tax imposed by this paragraph shall be paid by any fund manager who agreed to the making of the distribution.
+&emsp;There is hereby imposed on the agreement of any fund manager to the making of a distribution, knowing that it is a taxable distribution, a tax equal to 5 percent of the amount thereof. The tax imposed by this paragraph shall be paid by any fund manager who agreed to the making of the distribution.
 
 #### (b) Special rules
 
@@ -72,7 +72,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) which is owned and controlled by a sponsoring organization, and
 
-&emsp;&emsp;&emsp;(iii) with respect to which a donor (or any person appointed or designated by such donor) has, or reasonably expects to have, advisory privileges with respect to the distribution or investment of amounts held in such fund or account by reason of the donor's status as a donor.
+&emsp;&emsp;&emsp;(iii) with respect to which a donor (or any person appointed or designated by such donor) has, or reasonably expects to have, advisory privileges with respect to the distribution or investment of amountsheld in such fund or account by reason of the donor's status as a donor.
 
 #### (B) Exceptions
 

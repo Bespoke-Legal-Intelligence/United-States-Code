@@ -4,7 +4,7 @@
 
 #### (1) Grants for local educational agencies and Puerto Rico
 
-&emsp;Except as provided in paragraph (4) and in section 6338 of this title, the grant that a local educational agency is eligible to receive under this section for a fiscal year is the amount determined by multiplying—
+&emsp;Except as provided in paragraph (4) and in section 6338 of this title, the grant that a localeducational agency is eligible to receive under this section for a fiscal year is the amount determined by multiplying—
 
 &emsp;&emsp;(A) the number of children counted under subsection (c); and
 
@@ -140,7 +140,7 @@ A local educational agency is eligible for a basic grant under this section for 
 
 #### (4) Other children to be counted
 
-&emsp;(A) For the purpose of this section, the Secretary shall determine the number of children aged 5 to 17, inclusive, from families above the poverty level on the basis of the number of such children from families receiving an annual income, in excess of the current criteriaof poverty, from payments under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]; and in making such determinations, the Secretary shall use the criteria of poverty used by the Bureau of the Census in compiling the most recent decennial census for a family of four in such form as those criteria have been updated by increases in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics.
+&emsp;(A) For the purpose of this section, the Secretary shall determine the number of children aged 5 to 17, inclusive, from families above the poverty level on the basis of the number of such children from families receiving an annual income, in excess of the current criteria of poverty, from payments under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]; and in making such determinations, the Secretary shall use the criteria of poverty used by the Bureau of the Census in compiling the most recent decennial census for a family of four in such form as those criteria have been updated by increases in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics.
 
 &emsp;(B) The Secretary shall determine the number of such children and the number of children aged 5 through 17 living in institutions for neglected or delinquent children, or being supported in foster homes with public funds, on the basis of the caseload data for the month of October of the preceding fiscal year (using, in the case of children described in the preceding sentence, the criteria of poverty and the form of such criteria required by such sentence which were determined for the calendar year preceding such month of October) or, to the extent that such data are not available to the Secretary before January of the calendar year in which the Secretary's determination is made, then on the basis of the most recent reliable data available to the Secretary at the time of such determination.
 

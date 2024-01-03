@@ -6,7 +6,7 @@ Not later than one year after October 6, 2017, and again four years thereafter, 
 
 &emsp;(1) support and be aligned with plans developed by other countries to improve the meaningful participation of women in peace and security processes, conflict prevention, peace building, transitional processes, and decisionmaking institutions; and
 
-&emsp;(2) include specific and measurable goals, benchmarks, performance metrics, timetables, and monitoring and evaluation plans to ensure the accountability and effectiveness of all policies and initiatives carried out under the strategy.
+&emsp;(2) include specific and measurable goals, benchmarks, performance metrics, timetables,and monitoring and evaluation plans to ensure the accountability and effectiveness of all policies and initiatives carried out under the strategy.
 
 #### (b) Specific plans for departments and agencies
 
@@ -34,7 +34,7 @@ It is the sense of Congress that the President, in implementing each strategy su
 
 &emsp;(5) support the training, education, and mobilization of men and boys as partners in support of the meaningful participation of women;
 
-&emsp;(6) encourage the development of transitional justice and accountability mechanismsthat are inclusive of the experiences and perspectives of women and girls;
+&emsp;(6) encourage the development of transitional justice and accountability mechanisms that are inclusive of the experiences and perspectives of women and girls;
 
 &emsp;(7) expand and apply gender analysis, as appropriate, to improve program design and targeting; and
 

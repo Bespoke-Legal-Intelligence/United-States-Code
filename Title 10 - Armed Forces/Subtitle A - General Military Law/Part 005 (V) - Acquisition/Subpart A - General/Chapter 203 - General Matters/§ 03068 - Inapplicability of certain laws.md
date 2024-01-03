@@ -8,7 +8,7 @@ Laws Inapplicable to Agencies Named in Section 3063.—Sections 6101 and 6304 of
 
 Laws Inapplicable to Procurement of Automatic Data Processing Equipment and Services for Certain Defense Purposes.—For purposes of subtitle III of title 40, the term "national security system", with respect to a telecommunications and information system operated by the Department of Defense, has the meaning given that term by section 3552(b)(6) of title 44.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1807(e)(1)–(3), Jan. 1, 2021, 134 Stat. 4158, 4159; Pub. L. 117–81, div. A, title XVII, §1701(b)(2)(C), Dec. 27, 2021, 135 Stat. 2132.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1807(e)(1)–(3), Jan. 1, 2021, 134 Stat. 4158,4159; Pub. L. 117–81, div. A, title XVII, §1701(b)(2)(C), Dec. 27, 2021, 135 Stat. 2132.)
 
 #### <b>Editorial Notes</b>
 

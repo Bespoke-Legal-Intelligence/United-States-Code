@@ -24,7 +24,7 @@ The Secretary of the Interior shall encourage and assist the States to consider,
 
 #### References in Text
 
-The Volunteers in the Forest Act of 1972, referred to in subsec. (b)(2)(A), probably means the Volunteers in the National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
+The Volunteers in the Forest Act of 1972, referred to in subsec. (b)(2)(A), probably means the Volunteers inthe National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
 
 #### Codification
 

@@ -20,7 +20,7 @@ After March 31, 1994, no person shall permit smoking within any indoor facility 
 
 #### (2) Health or day care or early childhood development services
 
-&emsp;After March 31, 1994, no Federal agency shall permit smoking within any indoor facility (orportion thereof) operated by such agency, directly or by contract, to provide routine or regular health or day care or early childhood development (Head Start) services to children, except that this paragraph shall not apply to—
+&emsp;After March 31, 1994, no Federal agency shall permit smoking within any indoor facility (or portion thereof) operated by such agency, directly or by contract, to provide routine or regular health or day care or early childhood development (Head Start) services to children, except that this paragraph shall not apply to—
 
 &emsp;&emsp;(A) any portion of such facility that is used for inpatient hospital treatment of individuals dependent on, or addicted to, drugs or alcohol; and
 
@@ -32,7 +32,7 @@ After March 31, 1994, no person shall permit smoking within any indoor facility 
 
 #### (d) Notice
 
-The prohibitions in subsections (a) through (c) shall be incorporated by publication of a notice in the Federal Register by the Secretary (in consultation with the heads of other affected agencies) and by such agency heads in funding arrangements involving the provision of children's services administered by such heads. Such prohibitions shall be effective 90 days after such notice is published, or 270 days after March 31, 1994, whichever occurs first.
+The prohibitions in subsections (a) through (c) shall be incorporated by publication of a noticein the Federal Register by the Secretary (in consultation with the heads of other affected agencies) and by such agency heads in funding arrangements involving the provision of children's services administered by such heads. Such prohibitions shall be effective 90 days after such notice is published, or 270 days after March 31, 1994, whichever occurs first.
 
 #### (e) Special waiver
 
@@ -82,7 +82,7 @@ The prohibitions in subsections (a) through (c) shall be incorporated by publica
 
 #### (6) Failure to comply
 
-&emsp;If a person fails to pay an assessment of a civil penalty or comply with an order, after either or both are final under this section, or after a court under paragraph (5) has entered a final judgment in favor of the Secretary, the Attorney General, at the request of the Secretary, shall recover the amount of the civil penalty (plus interest at then currently prevailing rates from the day either or both are final) or enforce the order in an action brought in the appropriate district court of the United States. In such action, the validity and appropriateness of the penalty or order or the amount of the penalty shall not be subject to review.
+&emsp;If a person fails to pay an assessment of a civil penalty or comply with an order, after either or both are final under this section, or after a court under paragraph (5) has entered a final judgment in favor of the Secretary, the Attorney General, at the request of the Secretary, shall recover the amount of the civil penalty (plus interest at then currently prevailing rates from the day either or both are final) or enforce the order in an action brought in the appropriate district court of the United States. In such action, the validity and appropriateness of the penalty or order orthe amount of the penalty shall not be subject to review.
 
 (Pub. L. 103–227, title X, §1043, Mar. 31, 1994, 108 Stat. 272.)
 

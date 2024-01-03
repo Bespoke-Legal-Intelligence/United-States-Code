@@ -2,7 +2,7 @@
 
 #### (a) Families included; rent options; minimum amount; occupancy by police officers and over-income families
 
-(1) Dwelling units assisted under this chapter shall be rented only to families who are low-income families at the time of their initial occupancy of such units. Reviews of family income shall be made at least annually; except that, in the case of any family with a fixed income, as defined by the Secretary, after the initial review of the family's income, the public housing agency or owner shall not be required to conduct a review of the family's income for any year for which such family certifies, in accordance with such requirements as the Secretary shall establish, which shall include policies to adjust for inflation-based income changes, that 90 percent or more of the income of the family consists of fixed income, and that the sources of such income have not changed since the previous year, except that the public housing agency or owner shall conduct a review of each such family's income not less than once every 3 years. Except as provided in paragraph (2) and subject to the requirement under paragraph (3), a family shall pay as rent for a dwelling unit assisted under this chapter (other than a family assisted under section 1437f(o) or (y) of this title or paying rent under section 1437f(c)(3)(B) <sup>1</sup> of this title) the highest of the following amounts, rounded to the nearest dollar:
+(1) Dwelling units assisted under this chapter shall be rented only to families who are low-income families at the time of their initial occupancy of such units. Reviews of family income shall be made pursuant to paragraph (6); except that, in the case of any family with a fixed income, as defined by the Secretary, after the initial review of the family's income, the public housing agency or owner shall not be required to conduct a review of the family's income for any year for which such family certifies, in accordance with such requirements as the Secretary shall establish, which shall include policies to adjust for inflation-based income changes, that 90 percent or more of the income of the family consists of fixed income, and that the sources of such income have not changed since the previous year, except that the public housing agency or owner shall conduct a review of each such family's income not less than once every 3 years. Except as provided in paragraph (2) and subject to the requirement under paragraph (3), a family shall pay as rent for a dwelling unit assisted under this chapter (other than a family assisted under section 1437f(o) or (y) of this title or paying rent under section 1437f(c)(3)(B) <sup>1</sup> of this title) the highest of the following amounts, rounded to the nearest dollar:
 
 &emsp;(A) 30 per centum of the family's monthly adjusted income;
 
@@ -32,7 +32,7 @@ Allowable rent structures.—
 
 &emsp;&emsp;(i)
 
-Flat rents.—Each public housing agency shall establish, for each dwelling unit in public housing owned or operated by the agency, a flat rental amount for the dwelling unit, which—
+Flat rents.—Each public housing agency shall establish, for each dwellingunit in public housing owned or operated by the agency, a flat rental amount for the dwelling unit, which—
 
 &emsp;&emsp;&emsp;(I) shall not be lower than 80 percent of—
 
@@ -74,7 +74,7 @@ Encouragement of self-sufficiency.—The rental policy developed by each public 
 
 &emsp;(E)
 
-Income reviews.—Notwithstanding the second sentence of paragraph (1), in the case offamilies that are paying rent in the amount determined under subparagraph (B)(i), the agency shall review the income of such family not less than once every 3 years.
+Income reviews.—Notwithstanding the second sentence of paragraph (1), in the case of families that are paying rent in the amount determined under subparagraph (B)(i), the agency shall review the income of such family not less than once every 3 years.
 
 (3)
 
@@ -136,7 +136,7 @@ Terms and conditions.—The number and location of dwelling units of a public ho
 
 &emsp;&emsp;(i) notwithstanding paragraph (2), rent for a unit shall be in an amount that is not less than the costs to operate the unit;
 
-&emsp;&emsp;(ii) if an eligible family applies for residence after an over-income family moves in to the last available unit, the over-income family shall vacate the unit in accordancewith notice of termination of tenancy provided by the agency, which shall be provided not less than 30 days before such termination; and
+&emsp;&emsp;(ii) if an eligible family applies for residence after an over-income family moves in to the last available unit, the over-income family shall vacate the unit in accordance with notice of termination of tenancy provided by the agency, which shall be provided not less than 30 days before such termination; and
 
 &emsp;&emsp;(iii) if a unit is vacant and there is no one on the waiting list, the public housing agency may allow an over-income family to gain immediate occupancy in the unit, while simultaneously providing reasonable public notice and outreach with regard to availability of the unit.
 
@@ -144,13 +144,61 @@ Terms and conditions.—The number and location of dwelling units of a public ho
 
 Definition.—For purposes of this paragraph, the term "over-income family" means an individual or family that is not a low-income family at the time of initial occupancy.
 
-#### (8) <sup>3</sup> Carbon monoxide alarms
+(6)
 
-&emsp;Each public housing agency shall ensure that carbon monoxide alarms or detectors are installed in each dwelling unit in public housing owned or operated by the public housing agency in a manner that meets or exceeds—
+Reviews of family income.—
 
-&emsp;&emsp;(A) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+&emsp;(A)
 
-&emsp;&emsp;(B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+Frequency.—Reviews of family income for purposes of this section shall be made—
+
+&emsp;&emsp;(i) in the case of all families, upon the initial provision of housing assistance for the family;
+
+&emsp;&emsp;(ii) annually thereafter, except as provided in paragraph (1) with respect to fixed-income families;
+
+&emsp;&emsp;(iii) upon the request of the family, at any time the income or deductions (under subsection (b)(5)) of the family change by an amount that is estimated to result in a decrease of 10 percent (or such lower amount as the Secretary may, by notice, establish, or permit the public housing agency or owner to establish) or more in annual adjusted income; and
+
+&emsp;&emsp;(iv) at any time the income or deductions (under subsection (b)(5)) of the family change by an amount that is estimated to result in an increase of 10 percent or more in annual adjusted income, or such other amount as the Secretary may by notice establish, except that any increase in the earned income of a family shall not be considered for purposes of this clause (except that earned income may be considered if the increase corresponds to previous decreases under clause (iii)), except that a public housing agency or owner may elect not to conduct such review in the last three months of a certification period.
+
+&emsp;(B)
+
+In general.—Reviews of family income for purposes of this section shall be subject to the provisions of section 3544 of this title.
+
+(7)
+
+Calculation of income.—
+
+&emsp;(A)
+
+Use of current year income.—In determining family income for initial occupancy or provision of housing assistance pursuant to clause (i) of paragraph (6)(A) or pursuant to reviews pursuant to clause (iii) or (iv) of such paragraph, a public housing agency or owner shall use the income of the family as estimated by the agency or owner for the upcoming year.
+
+&emsp;(B)
+
+Use of prior year income.—In determining family income for annual reviews pursuant to paragraph (6)(A)(ii), a public housing agency or owner shall, except as otherwise provided in this paragraph and paragraph (1), use the income of the family as determined by the agency or owner for the preceding year, taking into consideration any redetermination of income during such prior year pursuant to clause (iii) or (iv) of paragraph (6)(A).
+
+&emsp;(C)
+
+Other income.—In determining the income for any family based on the prior year's income, with respect to prior year calculations of income not subject to subparagraph (B), a public housing agency or owner may make other adjustments as it considers appropriate to reflect current income.
+
+&emsp;(D)
+
+Safe harbor.—A public housing agency or owner may, to the extent such information is available to the public housing agency or owner, determine the family's income prior to the application of any deductions based on timely income determinations made for purposes of other means-tested Federal public assistance programs (including the program for block grants to States for temporary assistance for needy families under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], a program for Medicaid assistance under a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], and the supplemental nutrition assistance program (as such term is defined in section 2012 of title 7)). The Secretary shall, in consultation with other appropriate Federal agencies, develop electronic procedures to enable public housing agencies and owners to have access to such benefit determinations made by other means-tested Federal programs that the Secretary determines to have comparable reliability. Exchanges of such information shall be subject to the same limitations and tenant protections provided under section 3544 of this title with respect to information obtained under the requirements of section 303(i) of the Social Security Act (42 U.S.C. 503(i)).
+
+&emsp;(E)
+
+Electronic income verification.—The Secretary shall develop a mechanism for disclosing information to a public housing agency for the purpose of verifying the employment and income of individuals and families in accordance with section 453(j)(7)(E) of the Social Security Act (42 U.S.C. 653(j)(7)(E)), and shall ensure public housing agencies have access to information contained in the "Do Not Pay" system established by section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012 (Public Law 112–248; 126 Stat. 2392).<sup>1</sup>
+
+&emsp;(F)
+
+PHA and owner compliance.—A public housing agency or owner may not be considered to fail to comply with this paragraph or paragraph (6) due solely to any de minimis errors made by the agency or owner in calculating family incomes.
+
+(8)
+
+Carbon monoxide alarms.—Each public housing agency shall ensure that carbon monoxide alarms or detectors are installed in each dwelling unit in public housing owned or operated by the public housing agency in a manner that meets or exceeds—
+
+&emsp;(A) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+
+&emsp;(B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 
 #### (b) Definition of terms under this chapter
 
@@ -162,7 +210,7 @@ When used in this chapter:
 
 (B) The term "very low-income families" means low-income families whose incomes do not exceed 50 per centum of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 50 per centum of the median for the area on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes.
 
-(C) The term extremely low-income families <sup>4</sup> means very low-income families whose incomes do not exceed the higher of—
+(C) The term extremely low-income families <sup>3</sup> means very low-income families whose incomes do not exceed the higher of—
 
 &emsp;(i) the poverty guidelines updated periodically by the Department of Health and Human Services under the authority of section 9902(2) of this title applicable to a family of the size involved (except that this clause shall not apply in the case of public housing agencies or projects located in Puerto Rico or any other territory or possession of the United States); or
 
@@ -210,77 +258,79 @@ Displaced person.—The term "displaced person" means a person displaced by gove
 
 Near-elderly person.—The term "near-elderly person" means a person who is at least 50 years of age but below the age of 62.
 
-(4) The term "income" means income from all sources of each member of the household, as determined in accordance with criteria prescribed by the Secretary, in consultation with the Secretary of Agriculture, except that any amounts not actually received by the family and any amounts which would be eligible for exclusion under section 1382b(a)(7) of this title or any deferred Department of Veterans Affairs disability benefits that are received in a lump sum amount or in prospective monthly amounts may not be considered as income under this paragraph.
+(4)
 
-(5)
-
-Adjusted income.—The term "adjusted income" means, with respect to a family, the amount (as determined by the public housing agency) of the income of the members of the family residing in a dwelling unit or the persons on a lease, after any income exclusions as follows:
+Income.—The term "income" means, with respect to a family, income received from all sources by each member of the household who is 18 years of age or older or is the head of household or spouse of the head of the household, plus unearned income by or on behalf of each dependent who is less than 18 years of age, as determined in accordance with criteria prescribed by the Secretary, in consultation with the Secretary of Agriculture, subject to the following requirements:
 
 &emsp;(A)
 
-Mandatory exclusions.—In determining adjusted income, a public housing agency shall exclude from the annual income of a family the following amounts:
-
-&emsp;&emsp;(i)
-
-Elderly and disabled families.—$400 for any elderly or disabled family.
-
-&emsp;&emsp;(ii)
-
-Medical expenses.—The amount by which 3 percent of the annual family income is exceeded by the sum of—
-
-&emsp;&emsp;&emsp;(I) unreimbursed medical expenses of any elderly family or disabled family;
-
-&emsp;&emsp;&emsp;(II) unreimbursed medical expenses of any family that is not covered under subclause (I), except that this subclause shall apply only to the extent approved in appropriation Acts; and
-
-&emsp;&emsp;&emsp;(III) unreimbursed reasonable attendant care and auxiliary apparatus expenses for each handicapped member of the family, to the extent necessary to enable any member of such family (including such handicapped member) to be employed.
-
-&emsp;&emsp;(iii)
-
-Child care expenses.—Any reasonable child care expenses necessary to enable a member of the family to be employed or to further his or her education.
-
-&emsp;&emsp;(iv)
-
-Minors, students, and persons with disabilities.—$480 for each member of the family residing in the household (other than the head of the household or his or her spouse) who is less than 18 years of age or is attending school or vocational training on a full-time basis, or who is 18 years of age or older and is a person with disabilities.
-
-&emsp;&emsp;(v)
-
-Child support payments.—Any payment made by a member of the family for the support and maintenance of any child who does not reside in the household, except that the amount excluded under this clause may not exceed $480 for each child for whom such payment is made; except that this clause shall apply only to the extent approved in appropriations Acts.
-
-&emsp;&emsp;(vi)
-
-Spousal support expenses.—Any payment made by a member of the family for the support and maintenance of any spouse or former spouse who does not reside in the household, except that the amount excluded under this clause shall not exceed the lesser of (I) the amount that such family member has a legal obligation to pay, or (II) $550 for each individual for whom such payment is made; except that this clause shall apply only to the extent approved in appropriations Acts.
-
-&emsp;&emsp;(vii)
-
-Earned income of minors.—The amount of any earned income of a member of the family who is not—
-
-&emsp;&emsp;&emsp;(I) 18 years of age or older; and
-
-&emsp;&emsp;&emsp;(II) the head of the household (or the spouse of the head of the household).
+Included amounts.—Such term includes recurring gifts and receipts, actual income from assets, and profit or loss from a business.
 
 &emsp;(B)
 
-Permissive exclusions for public housing.—In determining adjusted income, a public housing agency may, in the discretion of the agency, establish exclusions from the annualincome of a family residing in a public housing dwelling unit. Such exclusions may include the following amounts:
+Excluded amounts.—Such term does not include—
 
-&emsp;&emsp;(i)
+&emsp;&emsp;(i) any imputed return on assets, except to the extent that net family assets exceed $50,000, except that such amount (as it may have been previously adjusted) shall be adjusted for inflation annually by the Secretary in accordance with an inflationary index selected by the Secretary;
 
-Excessive travel expenses.—Excessive travel expenses in an amount not to exceed $25 per family per week, for employment- or education-related travel.
+&emsp;&emsp;(ii) any amounts that would be eligible for exclusion under section 1613(a)(7) of the Social Security Act (42 U.S.C. 1382b(a)(7));
 
-&emsp;&emsp;(ii)
+&emsp;&emsp;(iii) deferred disability benefits from the Department of Veterans Affairs that are received in a lump sum amount or in prospective monthly amounts;
 
-Earned income.—An amount of any earned income of the family, established at the discretion of the public housing agency, which may be based on—
+&emsp;&emsp;(iv) any expenses related to aid and attendance under section 1521 of title 38 to veterans who are in need of regular aid and attendance; and
 
-&emsp;&emsp;&emsp;(I) all earned income of the family,<sup>5</sup>
+&emsp;&emsp;(v) exclusions from income as established by the Secretary by regulation or notice, or any amount required by Federal law to be excluded from consideration as income.
 
-&emsp;&emsp;&emsp;(II) the amount earned by particular members of the family;
+&emsp;(C)
 
-&emsp;&emsp;&emsp;(III) the amount earned by families having certain characteristics; or
+Earned income of students.—Such term does not include—
 
-&emsp;&emsp;&emsp;(IV) the amount earned by families or members during certain periods or from certain sources.
+&emsp;&emsp;(i) earned income, up to an amount as the Secretary may by regulation establish, of any dependent earned during any period that such dependent is attending school or vocational training on a full-time basis; or
 
-&emsp;&emsp;(iii)
+&emsp;&emsp;(ii) any grant-in-aid or scholarship amounts related to such attendance used—
 
-Others.—Such other amounts for other purposes, as the public housing agency may establish.
+&emsp;&emsp;&emsp;(I) for the cost of tuition or books; or
+
+&emsp;&emsp;&emsp;(II) in such amounts as the Secretary may allow, for the cost of room and board.
+
+&emsp;(D)
+
+Educational savings accounts.—Income shall be determined without regard to any amounts in or from, or any benefits from, any Coverdell education savings account under section 530 of title 26 or any qualified tuition program under section 529 of such title.
+
+&emsp;(E)
+
+Recordkeeping.—The Secretary may not require a public housing agency or owner to maintain records of any amounts excluded from income pursuant to this subparagraph.
+
+(5)
+
+Adjusted income.—The term "adjusted income" means, with respect to a family, the amount (as determined by the public housing agency or owner) of the income of the members of the family residing in a dwelling unit or the persons on a lease, after any deductions from income as follows:
+
+&emsp;(A)
+
+Elderly and disabled families.—$525 in the case of any family that is an elderly family or a disabled family.
+
+&emsp;(B)
+
+Minors, students, and persons with disabilities.—$480 for each member of the family residing in the household (other than the head of the household or his or her spouse) who is less than 18 years of age or is attending school or vocational training on a full-time basis, or who is 18 years of age or older and is a person with disabilities.
+
+&emsp;(C)
+
+Child care.—Any reasonable child care expenses necessary to enable a member of the family to be employed or to further his or her education.
+
+&emsp;(D)
+
+Health and medical expenses.—The amount, if any, by which 10 percent of annual family income is exceeded by the sum of—
+
+&emsp;&emsp;(i) in the case of any elderly or disabled family, any unreimbursed health and medical care expenses; and
+
+&emsp;&emsp;(ii) any unreimbursed reasonable attendant care and auxiliary apparatus expenses for each handicapped member of the family, if determined necessary by the public housing agency or owner to enable any member of such family to be employed.
+
+> &emsp;The Secretary shall, by regulation, provide hardship exemptions to the requirements of this subparagraph and subparagraph (C) for impacted families who demonstrate an inability to pay calculated rents because of financial hardship. Such regulations shall include a requirement to notify tenants regarding any changes to the determination of adjusted income pursuant to such subparagraphs based on the determination of the family's claim of financial hardship exemptions required by the preceding sentence. Such regulations shall be promulgated in consultation with tenant organizations, industry participants, and the Secretary of Health and Human Services, with an adequate comment period provided for interested parties.
+
+&emsp;(E)
+
+Permissive deductions.—Such additional deductions as a public housing agency may, at its discretion, establish, except that the Secretary shall establish procedures to ensure that such deductions do not materially increase Federal expenditures.
+
+> The Secretary shall annually calculate the amounts of the deductions under subparagraphs (A) and (B), as such amounts may have been previously calculated, by applying an inflationary factor as the Secretary shall, by regulation, establish, except that the actual deduction determined for each year shall be established by rounding such amount to the next lowest multiple of $25.
 
 (6)
 
@@ -298,9 +348,9 @@ program.—For purposes of the program for tenant-based assistance under section
 
 &emsp;&emsp;(i) a consortia of public housing agencies that the Secretary determines has the capacity and capability to administer a program for assistance under such section in an efficient manner;
 
-&emsp;&emsp;(ii) any other public or private nonprofit entity that, upon the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, was administering any program for tenant-based assistance under section 1437f of this title (as in effect before the effective date of such Act), pursuant to a contract with the Secretary or a public housing agency; and
+&emsp;&emsp;(ii) any other public or private nonprofit entity that, upon the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, was administering any program for tenant-based assistance under section 1437f of this title (asin effect before the effective date of such Act), pursuant to a contract with the Secretary or a public housing agency; and
 
-&emsp;&emsp;(iii) with respect to any area in which no public housing agency has been organized or where the Secretary determines that a public housing agency is unwilling or unable to implement a program for tenant-based assistance <sup>6</sup> section 1437f of this title, or is not performing effectively—
+&emsp;&emsp;(iii) with respect to any area in which no public housing agency has been organized or where the Secretary determines that a public housing agency is unwilling or unable to implement a program for tenant-based assistance <sup>4</sup> section 1437f of this title, or is not performing effectively—
 
 &emsp;&emsp;&emsp;(I) the Secretary or another public or private nonprofit entity that by contract agrees to receive assistance amounts under section 1437f of this title and enter into housing assistance payments contracts with owners and perform the other functions of public housing agency under section 1437f of this title; or
 
@@ -336,7 +386,7 @@ When used in reference to public housing:
 
 (1) The term "development" means any or all undertakings necessary for planning, land acquisition, demolition, construction, or equipment, in connection with a low-income housing project. The term "development cost" comprises the costs incurred by a public housing agency in such undertakings and their necessary financing (including the payment of carrying charges), and in otherwise carrying out the development of such project, but does not include the costs associated with the demolition of or remediation of environmental hazards associated with public housing units that will not be replaced on the project site, or other extraordinary site costs as determined by the Secretary. Construction activity in connection with a low-income housing project may be confined to the reconstruction, remodeling, or repair of existing buildings.
 
-(2) The term "operation" means any or all undertakings appropriate for management, operation, services, maintenance, security (including the cost of security personnel), or financing in connection with a low-income housing project. The term also means the financing of tenant programs and services for families residing in low-income housing projects, particularly where there is maximum feasible participation of the tenants in the development and operation of such tenant programs and services. As used in this paragraph, the term "tenant programs and services" includes the development and maintenance of tenant organizations which participate in the management of low-income housing projects; the training of tenants to manage andoperate such projects and the utilization of their services in project management and operation; counseling on household management, housekeeping, budgeting, money management, child care, and similar matters; advice as to resources for job training and placement, education, welfare, health, and other community services; services which are directly related to meeting tenant needs and providing a wholesome living environment; and referral to appropriate agencies in the community when necessary for the provision of such services. To the maximum extent available and appropriate, existing public and private agencies in the community shall be used for the provision of such services.
+(2) The term "operation" means any or all undertakings appropriate for management, operation, services, maintenance, security (including the cost of security personnel), or financing in connection with a low-income housing project. The term also means the financing of tenant programs and services for families residing in low-income housing projects, particularly where there is maximum feasible participation of the tenants in the development and operation of such tenant programs and services. As used in this paragraph, the term "tenant programs and services" includes the development and maintenance of tenant organizations which participate in the management of low-income housing projects; the training of tenants to manage and operate such projects and the utilization of their services in project management and operation; counseling on household management, housekeeping, budgeting, money management, child care, and similar matters; advice as to resources for job training and placement, education, welfare, health, and other community services; services which are directly related to meeting tenant needs and providing a wholesome living environment; and referral to appropriate agencies in the community when necessary for the provision of such services. To the maximum extent available and appropriate, existing public and private agencies in the community shall be used for the provision of such services.
 
 (3) The term "acquisition cost" means the amount prudently required to be expended by a public housing agency in acquiring property for a low-income housing project.
 
@@ -344,63 +394,11 @@ When used in reference to public housing:
 
 (5) The terms "group home" and "independent living facility" have the meanings given such terms in section 8013(k) of this title.
 
-#### (d) Disallowance of earned income from rent determinations
-
-#### (1) In general
-
-&emsp;Notwithstanding any other provision of law, the rent payable under subsection (a) by a family described in paragraph (3) of this subsection may not be increased as a result of the increased income due to such employment during the 12-month period beginning on the date on which the employment is commenced.
-
-#### (2) Phase-in of rent increases
-
-&emsp;Upon the expiration of the 12-month period referred to in paragraph (1), the rent payable by a family described in paragraph (3) may be increased due to the continued employment of the family member described in paragraph (3)(B), except that during the 12-month period beginning upon such expiration the amount of the increase may not be greater than 50 percent of the amount of the total rent increase that would be applicable but for this paragraph.
-
-#### (3) Eligible families
-
-&emsp;A family described in this paragraph is a family—
-
-&emsp;&emsp;(A) that—
-
-&emsp;&emsp;&emsp;(i) occupies a dwelling unit in a public housing project; or
-
-&emsp;&emsp;&emsp;(ii) receives assistance under section 1437f of this title; and
-
-&emsp;&emsp;(B)(i) whose income increases as a result of employment of a member of the family who was previously unemployed for 1 or more years;
-
-&emsp;&emsp;(ii) whose earned income increases during the participation of a family member in any family self-sufficiency or other job training program; or
-
-&emsp;&emsp;(iii) who is or was, within 6 months, assisted under any State program for temporary assistance for needy families funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] and whose earned income increases.
-
-#### (4) Applicability
-
-&emsp;This subsection and subsection (e) shall apply beginning upon October 1, 1999, except that this subsection and subsection (e) shall apply with respect to any family described in paragraph 3(A)(ii) <sup>7</sup> only to the extent provided in advance in appropriations Acts.
-
-#### (e) Individual savings accounts
-
-#### (1) In general
-
-&emsp;In lieu of a disallowance of earned income under subsection (d), upon the request of a family that qualifies under subsection (d), a public housing agency may establish an individual savings account in accordance with this subsection for that family.
-
-#### (2) Deposits to account
-
-&emsp;The public housing agency shall deposit in any savings account established under this subsection an amount equal to the total amount that otherwise would be applied to the family's rent payment under subsection (a) as a result of employment.
-
-#### (3) Withdrawal from account
-
-&emsp;Amounts deposited in a savings account established under this subsection may only be withdrawn by the family for the purpose of—
-
-&emsp;&emsp;(A) purchasing a home;
-
-&emsp;&emsp;(B) paying education costs of family members;
-
-&emsp;&emsp;(C) moving out of public or assisted housing; or
-
-&emsp;&emsp;(D) paying any other expense authorized by the public housing agency for the purpose of promoting the economic self-sufficiency of residents of public and assisted housing.
-
-#### (f) Availability of income matching information
+#### (d) Availability of income matching information
 
 #### (1) Disclosure to PHA
 
-&emsp;A public housing agency, or the owner responsible for determining the participant's eligibility or level of benefits, shall require any family described in paragraph (2) who receives information regarding income, earnings, wages, or unemployment compensation from the Department of Housing and Urban Development pursuant to income verification procedures of the Department to disclose such information, upon receipt of the information, to the public housing agency that owns or operates the public housing dwelling unit in which such family resides or that provides the housing assistance under this chapter on behalf of such family, as applicable, or to the owner responsible for determining the participant's eligibility or level of benefits.
+&emsp;A public housing agency, or the owner responsible for determining the participant's eligibility or level of benefits, shall require any family described in paragraph (2) who receives information regarding income, earnings, wages, or unemployment compensation from the Department of Housing and Urban Development pursuant to income verification procedures of the Department to disclose such information, upon receipt of the information, to the public housing agency that owns or operates the public housing dwelling unit in which such family resides or that provides the housing assistance under this chapter on behalf ofsuch family, as applicable, or to the owner responsible for determining the participant's eligibility or level of benefits.
 
 #### (2) Families covered
 
@@ -408,13 +406,13 @@ When used in reference to public housing:
 
 &emsp;&emsp;(A) that is a public housing dwelling unit;
 
-&emsp;&emsp;(B) for which tenant-based assistance is provided under section 1437f of this title,<sup>8</sup> or
+&emsp;&emsp;(B) for which tenant-based assistance is provided under section 1437f of this title,<sup>5</sup> or
 
 &emsp;&emsp;(C) for which project-based assistance is provided under section 1437f of this title, section 1437bb <sup>1</sup> of this title, or section 811.<sup>1</sup>
 
 (Sept. 1, 1937, ch. 896, title I, §3, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 654; amended Pub. L. 94–375, §2(f), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–557, title II, §206(c), Oct. 31, 1978, 92 Stat. 2091; Pub. L. 96–153, title II, §202(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 97–35, title III, §322(a), Aug. 13, 1981, 95 Stat. 400; Pub. L. 98–181, title I \[title II, §§202, 206(a)–(c)\], Nov. 30, 1983, 97 Stat. 1178, 1179; Pub. L. 98–479, title I, §102(b)(1)–(3), Oct. 17, 1984, 98 Stat. 2221; Pub. L. 100–242, title I, §§102(a), 111, 170(c), Feb. 5, 1988, 101 Stat. 1821, 1823, 1867; renumbered title I and amended Pub. L. 100–358, §§4, 5, June 29, 1988, 102 Stat. 680, 681; Pub. L. 101–235, title III, §302, Dec. 15, 1989, 103 Stat. 2043; Pub. L. 101–625, title V, §§515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, 104 Stat. 4199, 4236–4238; Pub. L. 102–550, title I, §§102–103(a)(2), 185(c)(4), title VI, §§621, 622(c), 625(a)(1), Oct. 28, 1992, 106 Stat. 3683, 3748, 3812, 3817, 3820; Pub. L. 103–233, title III, §301, Apr. 11, 1994, 108 Stat. 369; Pub. L. 104–99, title IV, §402(b)(1), (c), Jan. 26, 1996, 110 Stat. 40, 41; Pub. L. 104–330, title V, §501(b)(1), Oct. 26, 1996, 110 Stat. 4041; Pub. L. 105–276, title V, §§506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, 112 Stat. 2523–2529, 2562, 2565–2567, 2604; Pub. L. 106–74, title II, §214(a), Oct. 20, 1999, 113 Stat. 1074; Pub. L. 106–402, title IV, §401(b)(7), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 110–289, div. B, title VI, §2608, July 30, 2008, 122 Stat. 2862; Pub. L. 113–76, div. L, title II, §§210, 212, 238(a), Jan. 17, 2014, 128 Stat. 625, 626, 635; Pub. L. 113–235, div. K, title II, §238, Dec. 16, 2014, 128 Stat. 2758; Pub. L. 114–94, div. G, title LXXVIII, §78001(a), Dec. 4, 2015, 129 Stat. 1791; Pub. L. 114–201, title I, §102(a), (c), July 29, 2016, 130 Stat. 786, 788; Pub. L. 116–260, div. Q, title I, §§101(b)(1), 103(a), Dec. 27, 2020, 134 Stat. 2163, 2166; Pub. L. 117–328, div. AA, title VI, §601(a)(1), Dec. 29, 2022, 136 Stat. 5542.)
 
-#### Amendment of Section
+#### Amendment of Subsection (a)
 
 <i>Pub. L. 117–328, div. AA, title VI, §601(a)(1), (h), Dec. 29, 2022, 136 Stat. 5542, 5548, provided that, effective two years after Dec. 29, 2022, subsection (a) of this section is amended by adding at the end the following:</i>
 
@@ -448,144 +446,6 @@ When used in reference to public housing:
 
 <i>See 2022 Amendment note below.</i>
 
-<i>Pub. L. 114–201, title I, §102(a), (c), (h), July 29, 2016, 130 Stat. 786, 788, 791, provided that, effective upon the issuance of notice or regulations implementing section 102 of Pub. L. 114–201, except that such section 102 may only take effect upon the commencement of a calendar year, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)—</i>
-
-<i>(A) in the second sentence of paragraph (1), by striking "at least annually" and inserting "pursuant to paragraph (6)"; and</i>
-
-<i>(B) by adding at the end the following new paragraphs:</i>
-
-<i>"(6)</i>
-
-<i>Reviews of family income.—</i>
-
-&emsp;<i>"(A)</i>
-
-<i>Frequency.—Reviews of family income for purposes of this section shall be made—</i>
-
-&emsp;&emsp;<i>"(i) in the case of all families, upon the initial provision of housing assistance for the family;</i>
-
-&emsp;&emsp;<i>"(ii) annually thereafter, except as provided in paragraph (1) with respect to fixed-income families;</i>
-
-&emsp;&emsp;<i>"(iii) upon the request of the family, at any time the income or deductions (under subsection (b)(5)) of the family change by an amount that is estimated to result in a decrease of 10 percent (or such lower amount as the Secretary may, by notice, establish, or permit the public housing agency or owner to establish) or more in annual adjusted income; and</i>
-
-&emsp;&emsp;<i>"(iv) at any time the income or deductions (under subsection (b)(5)) of the family change by an amount that is estimated to result in an increase of 10 percent or more in annual adjusted income, or such other amount as the Secretary may by notice establish, except that any increase in the earned income of a family shall not be considered for purposes of this clause (except that earned income may be considered if the increase corresponds to previous decreases under clause (iii)), except that a public housing agency or owner may elect not to conduct such</i><i>review in the last three months of a certification period.</i>
-
-&emsp;<i>"(B)</i>
-
-<i>In general.—Reviews of family income for purposes of this section shall be subject to the provisions of section 3544 of this title.</i>
-
-<i>"(7)</i>
-
-<i>Calculation of income.—</i>
-
-&emsp;<i>"(A)</i>
-
-<i>Use of current year income.—In determining family income for initial occupancy or provision of housing assistance pursuant to clause (i) of paragraph (6)(A) or pursuant to reviews pursuant to clause (iii) or (iv) of such paragraph, a public housing agency or owner shall use the income of the family as estimated by the agency or owner for the upcoming year.</i>
-
-&emsp;<i>"(B)</i>
-
-<i>Use of prior year income.—In determining family income for annual reviews pursuant to paragraph (6)(A)(ii), a public housing agency or owner shall, except as otherwise provided in this paragraph and paragraph (1), use the income of the family as determined by the agency or owner for the preceding year, taking into consideration any redetermination of income during such prior year pursuant to clause (iii) or (iv) of paragraph (6)(A).</i>
-
-&emsp;<i>"(C)</i>
-
-<i>Other income.—In determining the income for any family based on the prior year's income, with respect to prior year calculations of income not subject to subparagraph (B), a public housing agency or owner may make other adjustments as it considers appropriate to reflect current income.</i>
-
-&emsp;<i>"(D)</i>
-
-<i>Safe harbor.—A public housing agency or owner may, to the extent such information is available to the public housing agency or owner, determine the family's income prior to the application of any deductions based on timely income determinations made for purposes of other means-tested Federal public assistance programs (including the program for block grants to States for temporary assistance for needy families under part A of title IV of the Social Security Act, a program for Medicaid assistance under a State plan approved under title XIX of the Social Security Act, and the supplemental nutrition assistance program (as such term is defined in section 2012 of title 7)). The Secretary shall, in consultation with other appropriate Federal agencies, develop electronic procedures to enable public housing agencies and owners to have access to such benefit determinations made by other means-tested Federal programs that the Secretary determines to have comparable reliability. Exchanges of such information shall be subject to the same limitations and tenant protections provided under section 3544 of this title with respect to information obtained under the requirements of section 303(i) of the Social Security Act (42 U.S.C. 503(i)).</i>
-
-&emsp;<i>"(E)</i>
-
-<i>Electronic income verification.—The Secretary shall develop a mechanism for disclosing information to a public housing agency for the purpose of verifying the employment and income of individuals and families in accordance with section 453(j)(7)(E) of the Social Security Act (42 U.S.C. 653(j)(7)(E)), and shall ensure public housing agencies have access to information contained in the 'Do Not Pay' system established by section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012 (Public Law 112–248; 126 Stat. 2392).</i>
-
-&emsp;<i>"(F)</i>
-
-<i>PHA and owner compliance.—A public housing agency or owner may not be considered to fail to comply with this paragraph or paragraph (6) due solely to any de minimis errors made by the agency or owner in calculating family incomes.";</i>
-
-<i>(2) in subsection (b), by striking paragraphs (4) and (5) and inserting the following new paragraphs:</i>
-
-<i>"(4)</i>
-
-<i>Income.—The term 'income' means, with respect to a family, income received from all sources by each member of the household who is 18 years of age or older or is the head of household or spouse of the head of the household, plus unearned income by or on behalf of each dependent who is less than 18 years of age, as determined in accordance with criteria prescribed by the Secretary, in consultation with the Secretary of Agriculture, subject to the following requirements:</i>
-
-&emsp;<i>"(A)</i>
-
-<i>Included amounts.—Such term includes recurring gifts and receipts, actual income from assets, and profit or loss from a business.</i>
-
-&emsp;<i>"(B)</i>
-
-<i>Excluded amounts.—Such term does not include—</i>
-
-&emsp;&emsp;<i>"(i) any imputed return on assets, except to the extent that net family assets exceed $50,000, except that such amount (as it may have been previously adjusted) shall be adjusted for inflation annually by the Secretary in accordance with an inflationary index selected by the Secretary;</i>
-
-&emsp;&emsp;<i>"(ii) any amounts that would be eligible for exclusion under section 1613(a)(7) of the Social Security Act (42 U.S.C. 1382b(a)(7));</i>
-
-&emsp;&emsp;<i>"(iii) deferred disability benefits from the Department of Veterans Affairs that are received in a lump sum amount or in prospective monthly amounts;</i>
-
-&emsp;&emsp;<i>"(iv) any expenses related to aid and attendance under section 1521 of title 38 to veterans who are in need of regular aid and attendance; and</i>
-
-&emsp;&emsp;<i>"(v) exclusions from income as established by the Secretary by regulation or notice, or any amount required by Federal law to be excluded from consideration as income.</i>
-
-&emsp;<i>"(C)</i>
-
-<i>Earned income of students.—Such term does not include—</i>
-
-&emsp;&emsp;<i>"(i) earned income, up to an amount as the Secretary may by regulation establish, of any dependent earned during any period that such dependent is attending school or vocational training on a full-time basis; or</i>
-
-&emsp;&emsp;<i>"(ii) any grant-in-aid or scholarship amounts related to such attendance used—</i>
-
-&emsp;&emsp;&emsp;<i>"(I) for the cost of tuition or books; or</i>
-
-&emsp;&emsp;&emsp;<i>"(II) in such amounts as the Secretary may allow, for the cost of room and board.</i>
-
-&emsp;<i>"(D)</i>
-
-<i>Educational savings accounts.—Income shall be determined without regard to any amounts in or from, or any benefits from, any Coverdell education savings account under section 530 of title 26 or any qualified tuition program under section 529 of such title.</i>
-
-&emsp;<i>"(E)</i>
-
-<i>Recordkeeping.—The Secretary may not require a public housing agency or owner to maintain records of any amounts excluded from income pursuant to this subparagraph.</i>
-
-<i>"(5)</i>
-
-<i>Adjusted income.—The term 'adjusted income' means, with respect to a family, the amount (as determined by the public housing agency or</i><i>owner) of the income of the members of the family residing in a dwelling unit or the persons on a lease, after any deductions from income as follows:</i>
-
-&emsp;<i>"(A)</i>
-
-<i>Elderly and disabled families.—$525 in the case of any family that is an elderly family or a disabled family.</i>
-
-&emsp;<i>"(B)</i>
-
-<i>Minors, students, and persons with disabilities.—$480 for each member of the family residing in the household (other than the head of the household or his or her spouse) who is less than 18 years of age or is attending school or vocational training on a full-time basis, or who is 18 years of age or older and is a person with disabilities.</i>
-
-&emsp;<i>"(C)</i>
-
-<i>Child care.—Any reasonable child care expenses necessary to enable a member of the family to be employed or to further his or her education.</i>
-
-&emsp;<i>"(D)</i>
-
-<i>Health and medical expenses.—The amount, if any, by which 10 percent of annual family income is exceeded by the sum of—</i>
-
-&emsp;&emsp;<i>"(i) in the case of any elderly or disabled family, any unreimbursed health and medical care expenses; and</i>
-
-&emsp;&emsp;<i>"(ii) any unreimbursed reasonable attendant care and auxiliary apparatus expenses for each handicapped member of the family, if determined necessary by the public housing agency or owner to enable any member of such family to be employed.</i>
-
-> &emsp;<i>The Secretary shall, by regulation, provide hardship exemptions to the requirements of this subparagraph and subparagraph (C) for impacted families who demonstrate an inability to pay calculated rents because of financial hardship. Such regulations shall include a requirement to notify tenants regarding any changes to the determination of adjusted income pursuant to such subparagraphs based on the determination of the family's claim of financial hardship exemptions required by the preceding sentence. Such regulations shall be promulgated in consultation with tenant organizations, industry participants, and the Secretary of Health and Human Services, with an adequate comment period provided for interested parties.</i>
-
-&emsp;<i>"(E)</i>
-
-<i>Permissive deductions.—Such additional deductions as a public housing agency may, at its discretion, establish, except that the Secretary shall establish procedures to ensure that such deductions do not materially increase Federal expenditures.</i>
-
-> <i>The Secretary shall annually calculate the amounts of the deductions under subparagraphs (A) and (B), as such amounts may have been previously calculated, by applying an inflationary factor as the Secretary shall, by regulation, establish, except that the actual deduction determined for each year shall be established by rounding such amount to the next lowest multiple of $25.";</i>
-
-<i>(3) by striking subsections (d) and (e); and</i>
-
-<i>(4) by redesignating subsection (f) as subsection (d).</i>
-
-<i>See 2016 Amendment notes below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### References in Text
@@ -602,13 +462,15 @@ The Immigration and Nationality Act, referred to in subsec. (a)(3)(B)(i)(I), is 
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(3)(B)(i)(I), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
 
+The Social Security Act, referred to in subsec. (a)(7)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. PartA of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+Section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012 (Public Law 112–248; 126 Stat. 2392), referred to in subsec. (a)(7)(E), is section 5 of Pub. L. 112–248, which was formerly set out in a note under section 3321 of Title 31, Money and Finance, prior to repeal by Pub. L. 116–117, §3(a)(3), Mar. 2, 2020, 134 Stat. 133. See section 3354 of Title 31.
+
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (b)(6)(B)(ii), is section 503(a) of Pub. L. 105–276 which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
-The Social Security Act, referred to in subsec. (d)(3)(B)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+Section 1437bb of this title, referred to in subsec. (d)(2)(C), was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041.
 
-Section 1437bb of this title, referred to in subsec. (f)(2)(C), was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041.
-
-Section 811, referred to in subsec. (f)(2)(C), means section 811 of the United States Housing Act of 1937, but that Act does not contain a section 811.
+Section 811, referred to in subsec. (d)(2)(C), means section 811 of the United States Housing Act of 1937, but that Act does not contain a section 811.
 
 #### Prior Provisions
 
@@ -668,7 +530,7 @@ Subsec. (b)(1). Pub. L. 105–276, §506(1), inserted after second sentence "The
 
 Subsec. (b)(2). Pub. L. 105–276, §508(c)(1), substituted "limits for Westchester and Rockland Counties" for "limits for Westchester County", inserted "each" before "such county", substituted "include Westchester or Rockland Counties" for "include Westchester County" and "included Westchester and Rockland Counties" for "included Westchester County", and inserted at end "In determining areas that are designated as difficult development areas for purposes of the low-income housing tax credit, the Secretary shall include Westchester and Rockland Counties, New York, in the New York City metropolitan area."
 
-Subsec. (b)(3)(A). Pub. L. 105–276, §506(2)(A), struck out at end "In determining priority for admission to housing under this chapter, the Secretary shall give preference to single persons who are elderly, disabled, or displaced persons before single persons who are eligible under clause (v) of the first sentence."
+Subsec. (b)(3)(A). Pub. L. 105–276, §506(2)(A), struck out at end "In determining priority for admission to housing under this chapter, the Secretary shall give preference to single persons who are elderly, disabled,or displaced persons before single persons who are eligible under clause (v) of the first sentence."
 
 Subsec. (b)(3)(B). Pub. L. 105–276, §506(2)(B), substituted "public housing agency plan" for "regulations of the Secretary" in second sentence.
 
@@ -826,7 +688,7 @@ Subsec. (b)(2). Pub. L. 98–181, §206(b), qualified the term "very low-income 
 
 Subsec. (b)(3). Pub. L. 98–181, §202, inserted provision at end of par. (3) authorizing increase from 15 to 30 per centum in the single person occupancy limitation for nonoccupancy of the involved dwelling units.
 
-Subsec. (b)(5). Pub. L. 98–181, §206(c), amended par. (5) generally, substituting provisions designating cls. (A) to (D) for prior exclusion from "adjusted income" of such amounts or types of income as the Secretary might prescribe, taking into account the number of minor children and other appropriate factors.
+Subsec. (b)(5). Pub. L. 98–181, §206(c), amended par. (5) generally, substituting provisions designating cls. (A) to (D) for prior exclusion from "adjusted income" ofsuch amounts or types of income as the Secretary might prescribe, taking into account the number of minor children and other appropriate factors.
 
 <b>1981</b>—Pub. L. 97–35 added subsecs. (a) and (c) and designated provisions constituting former section as subsec. (b), and in subsec. (b) as so designated, substituted provisions defining "lower income housing", "lower income families", "families", "income", "adjusted income", "public housing agency", "State", and "Secretary" for provisions defining "low-income housing", "low-income families", "development", "operation", "acquisition cost", "public housing agency", "State", "Secretary", and "low-income housing project".
 
@@ -850,7 +712,7 @@ Pub. L. 116–260, div. Q, title I, §103(d), Dec. 27, 2020, 134 Stat. 2170, pro
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–201, title I, §102(h), July 29, 2016, 130 Stat. 791, provided that: "The Secretary of Housing and Urban Development shall issue notice or regulations to implement this section \[amending this section and section 1437f of this title and enacting provisions set out as a note below\] and this section shall take effect after such issuance, except that this section may only takeeffect upon the commencement of a calendar year." \[Amendment by section 102 effective Jan. 1, 2024, based on notice issued Feb. 14, 2023, see 88 F.R. 9600, as corrected Feb. 28, 2023, 88 F.R. 12559.\]
+Pub. L. 114–201, title I, §102(h), July 29, 2016, 130 Stat. 791, provided that: "The Secretary of Housing and Urban Development shall issue notice or regulations to implement this section \[amending this section and section 1437f of this title and enacting provisions set out as a note below\] and this section shall take effect after such issuance, except that this section may only take effect upon the commencement of a calendar year." \[Amendment by section 102 effective Jan. 1, 2024, based on notice issued Feb. 14, 2023, see 88 F.R. 9600, as corrected Feb. 28, 2023, 88 F.R. 12559.\]
 
 #### Effective Date of 1998 Amendment
 
@@ -914,7 +776,7 @@ The Department of Housing and Urban Development adopted an interim rule, 24 C.F.
 
 Pub. L. 115–31, div. K, title II, §240, May 5, 2017, 131 Stat. 789, provided that: "The Secretary shall establish by notice such requirements as may be necessary to implement section 78001 of title LXXVIII of the Fixing America's Surface Transportation Act (Public Law 114–94) \[amending this section and section 1437f of this title\], and the notice shall take effect upon issuance: <i>Provided</i>, That the Secretary shall commence rulemaking based on the initial notice no later than the expiration of the 6-month period following issuance of the notice and the rulemaking shall allow for the opportunity for public comment."
 
-Pub. L. 113–76, div. L, title II, §243, Jan. 17, 2014, 128 Stat. 637, provided that: "The Secretary shall establishby notice such requirements as may be necessary to implement sections 210, 212, 220, 238, and 242 \[amending this section and sections 1437f and 1437n of this title and enacting provisions set out as a note under section 1437f of this title\] under this title and the notice shall take effect upon issuance: <i>Provided</i>, That the Secretary shall commence rulemaking based on the initial notice no later than the expiration of the 6-month period following issuance of the notice and the rulemaking shall allow for the opportunity for public comment."
+Pub. L. 113–76, div. L, title II, §243, Jan. 17, 2014, 128 Stat. 637, provided that: "The Secretary shall establish by notice such requirements as may be necessary to implement sections 210, 212, 220, 238, and 242 \[amending this section and sections 1437f and 1437n of this title and enacting provisions set out as a note under section 1437f of this title\] under this title and the notice shall take effect upon issuance: <i>Provided</i>, That the Secretary shall commence rulemaking based on the initial notice no later than the expiration of the 6-month period following issuance of the notice and the rulemaking shall allow for the opportunity for public comment."
 
 Pub. L. 104–99, title IV, §402(b)(2), Jan. 26, 1996, 110 Stat. 41, provided that:
 
@@ -984,7 +846,7 @@ Pub. L. 116–260, div. Q, title I, §101(g), Dec. 27, 2020, 134 Stat. 2165, pro
 
 #### Adjustments to Operating Formula Due to Impact on Public Housing Revenues
 
-Pub. L. 114–201, title I, §102(g)(1), July 29, 2016, 130 Stat. 791, provided that: "If the Secretary of Housingand Urban Development determines that the application of subsections (a) through (e) of this section \[amending this section and section 1437f of this title\] results in a material and disproportionate reduction in the rental income of certain public housing agencies during the first year in which such subsections are implemented, the Secretary may make appropriate adjustments in the formula income for such year of those agencies experiencing such a reduction."
+Pub. L. 114–201, title I, §102(g)(1), July 29, 2016, 130 Stat. 791, provided that: "If the Secretary of Housing and Urban Development determines that the application of subsections (a) through (e) of this section \[amending this section and section 1437f of this title\] results in a material and disproportionate reduction in the rental income of certain public housing agencies during the first year in which such subsections are implemented, the Secretary may make appropriate adjustments in the formula income for such year of those agencies experiencing such a reduction."
 
 #### Transitional Ceiling Rents
 
@@ -1038,7 +900,7 @@ Repayment of Additional Rent Paid Under HUD Housing Programs Because of Failure 
 
 &emsp;"(1)
 
-Authority.—To the extent that amounts are provided in appropriation Acts for payments under this subsection, the Secretary of Housing and Urban Development shall make payments to qualified individuals in the amount determined under paragraph (3).
+Authority.—To the extent that amounts are provided in appropriation Acts for payments underthis subsection, the Secretary of Housing and Urban Development shall make payments to qualified individuals in the amount determined under paragraph (3).
 
 &emsp;"(2)
 
@@ -1098,7 +960,7 @@ Pub. L. 98–181, title I \[title II, §206(d)\], Nov. 30, 1983, 97 Stat. 1180, 
 
 "(2) Tenants of assisted housing other than those referred to in paragraph (1) shall be subject to immediate rent payment or contribution determinations in accordance with applicable law and without regard to the provisions of paragraph (1), but the Secretary shall provide that the rent or contribution payable by any such tenant who is occupying assisted housing on the effective date of any provision of Federal law or regulation shall not increase, as a result of any such provision of Federal law or regulation, by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to such law or regulation.
 
-"(3) In the case of tenants receiving rental assistance under section 521(a)(1) of the Housing Act of 1949 \[section 1490a(a)(1) of this title\] on the effective date of this section \[Nov. 30, 1983\] whose assistance is converted to assistance under section 8 of the United States Housing Act of 1937 \[section 1437f of this title\] on or after such date, the Secretary shall provide that the rent or contribution payable by any such tenant shall not increase, as a result of such conversion, by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to such conversion or to any provision of Federal law or regulation.
+"(3) In the case of tenants receiving rental assistance under section 521(a)(1) of the Housing Act of 1949 \[section 1490a(a)(1) of this title\] on the effective date of this section \[Nov. 30, 1983\] whose assistance is converted to assistance under section 8 of the United States Housing Act of 1937 \[section 1437f of this title\] on or after such date, the Secretary shall provide that the rent or contribution payable by any such tenant shall not increase, as a result of such conversion, by more than 10per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to such conversion or to any provision of Federal law or regulation.
 
 "(4)(A) Notwithstanding any other provision of law, in the case of the conversion of any assistance under section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\], section 236(f)(2) of the National Housing Act \[12 U.S.C. 1715z–1(f)(2)\], or section 23 of the United States Housing Act of 1937 \[section 1421b of this title\] (as in effect before the date of the enactment of the Housing and Community Development Act of 1974 \[Aug. 22, 1974\]) to assistance under section 8 of the United States Housing Act of 1937, any increase in rent payments or contributions resulting from such conversion, and from the amendments made by this section of any tenant benefiting from such assistance who is sixty-two years of age or older may not exceed 10 per centum per annum.
 
@@ -1110,7 +972,7 @@ Pub. L. 98–181, title I \[title II, §206(d)\], Nov. 30, 1983, 97 Stat. 1180, 
 
 "(7) The provisions of subsections (a) through (h) of section 322 of the Housing and Community Development Amendments of 1981 shall be implemented and fully applicable to all affected tenants no later than five years following the date of enactment of such amendments \[Aug. 13, 1981\], except that the Secretary may extend the time for implementation if the Secretary determines that full implementation would result in extraordinary hardship for any class of tenants."
 
-Prior provisions for determining rent payable by tenants occupying assisted housing under and authorizing delayed application or staged implementation of provisions amended by section 322 of Pub. L. 97–35 were contained in Pub. L. 97–35, title III, §322(i), Aug. 13, 1981, 95Stat. 404, which was repealed by Pub. L. 98–181, title I \[title II, §206(e)\], Nov. 30, 1983, 97 Stat. 1181.
+Prior provisions for determining rent payable by tenants occupying assisted housing under and authorizing delayed application or staged implementation of provisions amended by section 322 of Pub. L. 97–35 were contained in Pub. L. 97–35, title III, §322(i), Aug. 13, 1981, 95 Stat. 404, which was repealed by Pub. L. 98–181, title I \[title II, §206(e)\], Nov. 30, 1983, 97 Stat. 1181.
 
 #### Establishment of Increased Monthly Rental Charge for Family Occupying Low-Income Housing Unit; Adjustment Factors
 
@@ -1126,15 +988,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 <i><sup>2</sup></i><i> So in original. Probably should be "or".</i>
 
-<i><sup>3</sup></i><i> For delayed enactment of pars. (6) and (7), see Amendment of Section note below.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be " 'extremely low-income families' ".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be " 'extremely low-income families' ".</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "assistance under".</i>
 
 <i><sup>5</sup></i><i> So in original. The comma probably should be a semicolon.</i>
-
-<i><sup>6</sup></i><i> So in original. Probably should be "assistance under".</i>
-
-<i><sup>7</sup></i><i> So in original. Probably should be paragraph "(3)(A)(ii)".</i>
-
-<i><sup>8</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

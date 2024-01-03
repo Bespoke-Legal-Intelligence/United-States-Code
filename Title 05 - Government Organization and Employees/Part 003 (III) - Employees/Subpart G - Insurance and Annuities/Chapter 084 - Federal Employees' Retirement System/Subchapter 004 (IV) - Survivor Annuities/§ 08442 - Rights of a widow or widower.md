@@ -46,7 +46,7 @@
 
 (B)(i) Notwithstanding the first sentence of subsection (d)(1), the annuity of the widow or widower of a former employee or Member under subparagraph (A)(ii) commences—
 
-&emsp;(I) on the day after the date on which the former employee or Member would have attained age 62 (or, if applicable, either age 60 if the former employee or Member completed at least 20 years of service, or the applicable minimum retirement age (under section 8412(h)) if the former employee or Member completed at least 30 years of service); or
+&emsp;(I) on the day after the date on which the former employee or Member would have attained age 62 (or, if applicable, either age 60 ifthe former employee or Member completed at least 20 years of service, or the applicable minimum retirement age (under section 8412(h)) if the former employee or Member completed at least 30 years of service); or
 
 &emsp;(II) if the widow or widower so designates in the election, as of the day after the death of the former employee or Member.
 

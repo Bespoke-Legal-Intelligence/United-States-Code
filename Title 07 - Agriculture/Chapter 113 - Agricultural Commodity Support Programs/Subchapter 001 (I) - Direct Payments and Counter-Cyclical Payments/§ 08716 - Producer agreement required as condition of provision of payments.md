@@ -44,7 +44,7 @@
 
 #### (1) Acreage reports
 
-&emsp;As a condition on the receipt of any benefits under this subchapter or subchapter II, theSecretary shall require producers on a farm to submit to the Secretary annual acreage reports with respect to all cropland on the farm.
+&emsp;As a condition on the receipt of any benefits under this subchapter or subchapter II, the Secretary shall require producers on a farm to submit to the Secretary annual acreage reports with respect to all cropland on the farm.
 
 #### (2) Production reports
 

@@ -48,7 +48,7 @@ The Secretary of State may modify the goals described in subsection (b) if, not 
 
 &emsp;&emsp;(B) Federal grant programs such as the Information Access Fund; or
 
-&emsp;&emsp;(C) nongovernmental or international organizations, such as the Organization for Security and Co-operation in Europe, the National Endowment for Democracy, the Black Sea Trust, the Balkan Trust for Democracy, the Prague Civil Society Centre, the NorthAtlantic Treaty Organization Strategic Communications Centre of Excellence, the European Endowment for Democracy, and related organizations.
+&emsp;&emsp;(C) nongovernmental or international organizations, such as the Organization for Security and Co-operation in Europe, the National Endowment for Democracy, the Black Sea Trust, the Balkan Trust for Democracy, the Prague Civil Society Centre, the North Atlantic Treaty Organization Strategic Communications Centre of Excellence, the European Endowment for Democracy, and related organizations.
 
 #### (3) Report on implementation
 

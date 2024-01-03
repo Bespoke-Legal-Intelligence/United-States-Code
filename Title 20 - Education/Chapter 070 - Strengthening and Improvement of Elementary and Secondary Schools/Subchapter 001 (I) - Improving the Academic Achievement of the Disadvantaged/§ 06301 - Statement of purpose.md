@@ -1,6 +1,6 @@
 ### §6301. Statement of purpose
 
-The purpose of this subchapter is to provide all children significant opportunity to receive a fair, equitable, and high-quality education, and to close educational achievement gaps.
+The purpose of this subchapter is to provide all children significant opportunity to receive afair, equitable, and high-quality education, and to close educational achievement gaps.
 
 (Pub. L. 89–10, title I, §1001, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1439; amended Pub. L. 114–95, title I, §1001, Dec. 10, 2015, 129 Stat. 1814.)
 
@@ -98,11 +98,13 @@ Impact Aid.—With respect to title VIII (Impact Aid) \[probably meant title VII
 
 #### Short Title of 2023 Amendment
 
+Pub. L. 118–17, §1, Oct. 6, 2023, 137 Stat. 102, provided that: "This Act \[amending section 7906 of this title\] may be cited as the 'Protecting Hunting Heritage and Education Act'."
+
 Pub. L. 117–335, §1, Jan. 5, 2023, 136 Stat. 6143, provided that: "This Act \[enacting section 7457 of this title\] may be cited as the 'Native American Language Resource Center Act of 2022'."
 
 #### Short Title of 2020 Amendment
 
-Pub. L. 116–211, §1, Dec. 4, 2020, 134 Stat. 1017, provided that: "This Act \[enacting provisions set out as notes under sections 6393 and 7705 of this title\] may be cited as the 'Impact Aid Coronavirus Relief Act'."
+Pub. L. 116–211, §1, Dec. 4, 2020, 134 Stat. 1017, provided that: "This Act \[enacting provisions set out as notesunder sections 6393 and 7705 of this title\] may be cited as the 'Impact Aid Coronavirus Relief Act'."
 
 #### Short Title of 2019 Amendment
 
@@ -194,7 +196,7 @@ Pub. L. 90–247, §1, Jan. 2, 1968, 81 Stat. 783, provided that: "This Act \[se
 
 #### Short Title of 1966 Amendment
 
-Pub. L. 89–750, §1, Nov. 3, 1966, 80 Stat. 1191, provided: "That this Act \[see Tables for classification\] may be cited as the 'Elementary and Secondary Education Amendments of 1966'."
+Pub. L. 89–750, §1, Nov. 3, 1966, 80 Stat. 1191, provided: "That this Act \[see Tables for classification\] may becited as the 'Elementary and Secondary Education Amendments of 1966'."
 
 #### Short Title
 
@@ -252,7 +254,7 @@ Authorized programs.—Except as otherwise provided in this Act, or the amendmen
 
 &emsp;"(2)
 
-Planning and transition.—Notwithstanding any other provision of law, a recipient of funds under a program described in paragraph (1)(A)(ii) or (1)(B) may use funds awarded to the recipient under such program, to carry out necessary and reasonable planning and transition activities in order to ensure therecipient's compliance with the amendments to such program made by this Act.
+Planning and transition.—Notwithstanding any other provision of law, a recipient of funds under a program described in paragraph (1)(A)(ii) or (1)(B) may use funds awarded to the recipient under such program, to carry out necessary and reasonable planning and transition activities in order to ensure the recipient's compliance with the amendments to such program made by this Act.
 
 "(b)
 
@@ -322,7 +324,7 @@ Sec. 2. <i>Technical Assistance and Capacity Building</i>. (a) The Secretary of 
 
 &emsp;(7) providing States and LEAs with information on effective approaches to school accountability, including the effectiveness of such strategies as school reconstitution, peer review teams, and financial rewards and incentives;
 
-&emsp;(8) providing LEAs with information and assistance on the design and implementation of approaches to choice among public schools that create incentives for improvement throughout the local educational agency, especially in the lowest-performing schools, and that maximize the opportunity of students in low-performing schools to attend a higher-performing public school;
+&emsp;(8) providing LEAs with information and assistance on the design and implementation of approaches tochoice among public schools that create incentives for improvement throughout the local educational agency, especially in the lowest-performing schools, and that maximize the opportunity of students in low-performing schools to attend a higher-performing public school;
 
 &emsp;(9) exploring the use of well-trained tutors to raise student achievement through initiatives such as "America Reads," "America Counts," and other work-study opportunities to help low-performing schools;
 

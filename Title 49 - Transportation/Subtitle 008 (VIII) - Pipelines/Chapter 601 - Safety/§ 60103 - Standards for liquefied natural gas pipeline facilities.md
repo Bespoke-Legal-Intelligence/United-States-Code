@@ -364,7 +364,7 @@ Considerations.—In determining the location of the Center, the Secretary shall
 
 &emsp;&emsp;"(A) take into account the strategic value of locating resources in close proximity to LNG facilities; and
 
-&emsp;&emsp;"(B) locate the Center in the State with the largest LNG production capacity, as determined by thetotal capacity (in billion cubic feet per day) of LNG production authorized by the Federal Energy Regulatory Commission under section 3 of the Natural Gas Act (15 U.S.C. 717b) as of the date of enactment of this Act \[Dec. 27, 2020\].
+&emsp;&emsp;"(B) locate the Center in the State with the largest LNG production capacity, as determined by the total capacity (in billion cubic feet per day) of LNG production authorized by the Federal Energy Regulatory Commission under section 3 of the Natural Gas Act (15 U.S.C. 717b) as of the date of enactment of this Act \[Dec. 27, 2020\].
 
 "(f)
 

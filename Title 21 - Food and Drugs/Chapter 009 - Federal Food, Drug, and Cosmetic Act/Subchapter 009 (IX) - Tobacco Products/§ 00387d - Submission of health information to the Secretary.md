@@ -50,7 +50,7 @@ At the request of the Secretary, each tobacco product manufacturer or importer o
 
 #### (e) Data collection
 
-Not later than 24 months after June 22, 2009, the Secretary shall establish, and periodically revise as appropriate, a list of harmful and potentially harmful constituents, including smoke constituents, to health in each tobacco product by brand and by quantity in each brand and subbrand. The Secretary shall publish a public notice requesting the submission by interested persons of scientific and other information concerning the harmful and potentially harmful constituents in tobacco products and tobacco smoke.
+Not later than 24 months after June 22, 2009, the Secretary shall establish, and periodically revise as appropriate, a list of harmful and potentially harmful constituents, including smoke constituents, to health in each tobacco productby brand and by quantity in each brand and subbrand. The Secretary shall publish a public notice requesting the submission by interested persons of scientific and other information concerning the harmful and potentially harmful constituents in tobacco products and tobacco smoke.
 
 (June 25, 1938, ch. 675, §904, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1790.)
 

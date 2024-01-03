@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(ii) at the option of the State, any items or services under the State plan (but not including medical assistance for medicare cost-sharing or for benefits described in section 1396a(a)(10)(E) of this title).
 
-&emsp;(C)(i) In the case of an individual who has received (or is entitled to receive) benefits under a long-term care insurance policy in connection with which assets or resources are disregarded in the manner described in clause (ii), except as provided in such clause, the State shall seek adjustment or recovery from the individual's estate on account of medical assistance paid on behalf of the individual for nursing facility and other long-term care services.
+&emsp;(C)(i) In the case of an individual who has received (or is entitled to receive) benefits under a long-term care insurance policy in connection with which assets or resources are disregarded in the manner described in clause\(ii), except as provided in such clause, the State shall seek adjustment or recovery from the individual's estate on account of medical assistance paid on behalf of the individual for nursing facility and other long-term care services.
 
 &emsp;(ii) Clause (i) shall not apply in the case of an individual who received medical assistance under a State plan of a State which had a State plan amendment approved as of May 14, 1993, and which satisfies clause (iv), or which has a State plan amendment that provides for a qualified State long-term care insurance partnership (as defined in clause (iii)) which provided for the disregard of any assets or resources—
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(VII) The State does not impose any requirement affecting the terms or benefits of such a policy unless the State imposes such requirement on long-term care insurance policies without regard to whether the policy is covered under the partnership or is offered in connection with such a partnership.
 
-> &emsp;In the case of a long-term care insurance policy which is exchanged for another such policy, subclause (I) shall be applied based on thecoverage of the first such policy that was exchanged. For purposes of this clause and paragraph (5), the term "long-term care insurance policy" includes a certificate issued under a group insurance contract.
+> &emsp;In the case of a long-term care insurance policy which is exchanged for another such policy, subclause (I) shall be applied based on the coverage of the first such policy that was exchanged. For purposes of this clause and paragraph (5), the term "long-term care insurance policy" includes a certificate issued under a group insurance contract.
 
 &emsp;(iv) With respect to a State which had a State plan amendment approved as of May 14, 1993, such a State satisfies this clause for purposes of clause (ii) if the Secretary determines that the State plan amendment provides for consumer protection standards which are no less stringent than the consumer protection standards which applied under such State plan amendment as of December 31, 2005.
 
@@ -162,7 +162,7 @@
 
 (B) For purposes of this paragraph and paragraph (1)(C)—
 
-&emsp;(i) the terms "model regulation" and "model Act" mean the long-term care insurance model regulation, and the long-term care insurance model Act, respectively, promulgated by the National Association of Insurance Commissioners (as adopted as of October 2000);
+&emsp;(i) the terms "model regulation" and "model Act" mean the long-term care insurancemodel regulation, and the long-term care insurance model Act, respectively, promulgated by the National Association of Insurance Commissioners (as adopted as of October 2000);
 
 &emsp;(ii) any provision of the model regulation or model Act listed under subparagraph (A) shall be treated as including any other provision of such regulation or Act necessary to implement the provision; and
 
@@ -190,7 +190,7 @@
 
 &emsp;(III) Home or community-based services furnished under a waiver granted under subsection (c) or (d) of section 1396n of this title.
 
-(ii) The services described in this subparagraph with respect to a noninstitutionalized individual are services (not including any services described in clause (i)) that are described in paragraph (7), (22), or (24) of section 1396d(a) of this title, and, at the option of a State, otherlong-term care services for which medical assistance is otherwise available under the State plan to individuals requiring long-term care.
+(ii) The services described in this subparagraph with respect to a noninstitutionalized individual are services (not including any services described in clause (i)) that are described in paragraph (7), (22), or (24) of section 1396d(a) of this title, and, at the option of a State, other long-term care services for which medical assistance is otherwise available under the State plan to individuals requiring long-term care.
 
 (D)(i) In the case of a transfer of asset made before February 8, 2006, the date specified in this subparagraph is the first day of the first month during or after which assets have been transferred for less than fair market value and which does not occur in any other periods of ineligibility under this subsection.
 
@@ -208,7 +208,7 @@
 
 &emsp;(II) the average monthly cost to a private patient of nursing facility services in the State (or, at the option of the State, in the community in which the individual is institutionalized) at the time of application.
 
-(iii) The number of months of ineligibility otherwise determined under clause (i) or (ii) with respect to the disposal of an asset shall be reduced—
+(iii) The number of months of ineligibility otherwise determined under clause (i) or (ii) withrespect to the disposal of an asset shall be reduced—
 
 &emsp;(I) in the case of periods of ineligibility determined under clause (i), by the number of months of ineligibility applicable to the individual under clause (ii) as a result of such disposal, and
 
@@ -368,7 +368,7 @@
 
 #### (e) Disclosure and treatment of annuities
 
-(1) In order to meet the requirements of this section for purposes of section 1396a(a)(18) of this title, a State shall require, as a condition for the provision of medical assistance for services described in subsection (c)(1)(C)(i) (relating to long-term care services) for an individual, theapplication of the individual for such assistance (including any recertification of eligibility for such assistance) shall disclose a description of any interest the individual or community spouse has in an annuity (or similar financial instrument, as may be specified by the Secretary), regardless of whether the annuity is irrevocable or is treated as an asset. Such application or recertification form shall include a statement that under paragraph (2) the State becomes a remainder beneficiary under such an annuity or similar financial instrument by virtue of the provision of such medical assistance.
+(1) In order to meet the requirements of this section for purposes of section 1396a(a)(18) of this title, a State shall require, as a condition for the provision of medical assistance for services described in subsection (c)(1)(C)(i) (relating to long-term care services) for an individual, the application of the individual for such assistance (including any recertification of eligibility for such assistance) shall disclose a description of any interest the individual or community spouse has in an annuity (or similar financial instrument, as may be specified by the Secretary), regardless of whether the annuity is irrevocable or is treated as an asset. Such application or recertification form shall include a statement that under paragraph (2) the State becomes a remainder beneficiary under such an annuity or similar financial instrument by virtue of the provision of such medical assistance.
 
 (2)(A) In the case of disclosure concerning an annuity under subsection (c)(1)(F), the State shall notify the issuer of the annuity of the right of the State under such subsection as a preferred remainder beneficiary in the annuity for medical assistance furnished to the individual. Nothing in this paragraph shall be construed as preventing such an issuer from notifying persons with any other remainder interest of the State's remainder interest under such subsection.
 
@@ -380,7 +380,7 @@
 
 #### (f) Disqualification for long-term care assistance for individuals with substantial home equity
 
-(1)(A) Notwithstanding any other provision of this subchapter, subject to subparagraphs (B) and (C) of this paragraph and paragraph (2), in determining eligibility of an individual for medical assistance with respect to nursing facility services or other long-term care services, the individual shall not be eligible for such assistance if the individual's equity interest in the individual's home exceeds $500,000.
+(1)(A) Notwithstanding any other provision of this subchapter, subject to subparagraphs (B) and (C) of this paragraph and paragraph (2), in determining eligibility of an individual for medical assistance with respect to nursing facility services or other long-term care services, the individual shall not be eligible for such assistanceif the individual's equity interest in the individual's home exceeds $500,000.
 
 (B) A State may elect, without regard to the requirements of section 1396a(a)(1) of this title (relating to statewideness) and section 1396a(a)(10)(B) of this title (relating to comparability), to apply subparagraph (A) by substituting for "$500,000", an amount that exceeds such amount, but does not exceed $750,000.
 
@@ -444,7 +444,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (b)(1)(C)(iii)(II) an
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–123, §53102(b)(1), repealed Pub. L. 113–67, §202(b)(3), and provided that the provisions amended by section 202(b) shall be applied and administered as if such amendment had never been enacted. See 2013 Amendment note below.
+<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–123, §53102(b)(1), repealed Pub. L. 113–67, §202(b)(3), and provided that theprovisions amended by section 202(b) shall be applied and administered as if such amendment had never been enacted. See 2013 Amendment note below.
 
 <b>2016</b>—Subsec. (d)(4)(A). Pub. L. 114–255 inserted "the individual," after "for the benefit of such individual by".
 
@@ -534,7 +534,7 @@ Subsec. (e). Pub. L. 103–66, §13611(c), added subsec. (e).
 
 Subsec. (c)(2)(B)(i). Pub. L. 101–239, §6411(e)(1)(B)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "to (or to another for the sole benefit of) the community spouse, as defined in section 1396r–5(h)(2) of this title,,".
 
-Subsec. (c)(2)(B)(ii), (iii). Pub. L. 101–239, §6411(e)(1)(B)(ii), struck out ", or" after "subparagraph (A)(ii)(II)" in cl. (ii) and struck out cl. (iii) which read as follows: "to (or to another for the sole benefit of) the individual's spouse if such spouse does not transfer such resources to another person other than the spouse for less than fair market value".
+Subsec. (c)(2)(B)(ii), (iii). Pub. L. 101–239, §6411(e)(1)(B)(ii), struck out ", or" after "subparagraph\(A)(ii)(II)" in cl. (ii) and struck out cl. (iii) which read as follows: "to (or to another for the sole benefit of) the individual's spouse if such spouse does not transfer such resources to another person other than the spouse for less than fair market value".
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–360, §303(b), amended subsec. (c) generally, substituting pars. (1) to (4) relating to taking into account certain transfers of assets, for former pars. (1) to (3) relating to denial of medical assistance, period of eligibility, and exceptions.
 
@@ -608,7 +608,7 @@ Exceptions.—The amendments made by this section shall not apply—
 
 "(3)
 
-Extension of effective date for state law amendment.—In the case of a State plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by a provision of this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session is considered to be a separate regular session of the State legislature."
+Extension of effective date for state law amendment.—In the case of a State plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by a provision of this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of theenactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session is considered to be a separate regular session of the State legislature."
 
 #### Effective Date of 1993 Amendment
 
@@ -678,7 +678,7 @@ Pub. L. 109–171, title VI, §6011(d), Feb. 8, 2006, 120 Stat. 62, provided tha
 
 #### Expansion of State Long-Term Care Partnership Program
 
-Pub. L. 109–171, title VI, §6021, Feb. 8, 2006, 120 Stat. 68, as amended by Pub. L. 111–148, title VIII, §8002(d), title X, §10801(c), Mar. 23, 2010, 124 Stat. 847, 1015; Pub. L. 112–240, title VI, §642(b)(3), Jan. 2, 2013, 126 Stat. 2358, provided that:
+Pub. L. 109–171, title VI, §6021, Feb. 8, 2006, 120 Stat. 68, as amended by Pub. L. 111–148, title VIII, §8002(d), title X, §10801(c), Mar. 23, 2010, 124 Stat. 847, 1015; Pub.L. 112–240, title VI, §642(b)(3), Jan. 2, 2013, 126 Stat. 2358, provided that:
 
 "(a)
 

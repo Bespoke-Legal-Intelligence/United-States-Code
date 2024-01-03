@@ -102,7 +102,7 @@ In subsection (c), reference to the Canal Zone is omitted because of the Panama 
 
 In subsection (c)(1), before clause (A), the words "and to do all things necessary in connection with the" are omitted as surplus. The word "airway" is added for consistency in this chapter. In clause (B), the words "treaty, convention, or" are omitted as surplus.
 
-In subsection (c)(2), the words "in its discretion", "therefor", "airport property or airway property orother real or personal", and "the purposes of" are omitted as surplus.
+In subsection (c)(2), the words "in its discretion", "therefor", "airport property or airway property or other real or personal", and "the purposes of" are omitted as surplus.
 
 In subsection (d)(1), the words "as determined by the Secretary of the department which made the transfer" are omitted as surplus. The words "(with any improvements to it)" are substituted for "together with any improvements or additions made thereto" to eliminate unnecessary words. The words "or persons" are omitted because of 1:1.
 

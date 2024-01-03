@@ -12,7 +12,7 @@
 
 (b)(1) In the event that an eligible veteran has not utilized any or all of such veteran's entitlement by the end of the delimiting period applicable to the veteran under subsection (a) of this section and at the end of one year thereafter has not filed a claim for utilizing such entitlement, such eligible veteran is automatically disenrolled.
 
-(2)(A) Any contributions which were made by a veteran disenrolled under paragraph (1) of thissubsection and remain in the fund shall be refunded to the veteran after notice of disenrollment is transmitted to the veteran and the veteran applies for such refund.
+(2)(A) Any contributions which were made by a veteran disenrolled under paragraph (1) of this subsection and remain in the fund shall be refunded to the veteran after notice of disenrollment is transmitted to the veteran and the veteran applies for such refund.
 
 (B) If no application for refund of contributions under subparagraph (A) of this paragraph is received from a disenrolled veteran within one year after the date the notice referred to in such subparagraph is transmitted to the veteran, it shall be presumed that the veteran's whereabouts is unknown and the funds shall be transferred to the Secretary for payments for entitlement earned under subchapter II of chapter 30.
 

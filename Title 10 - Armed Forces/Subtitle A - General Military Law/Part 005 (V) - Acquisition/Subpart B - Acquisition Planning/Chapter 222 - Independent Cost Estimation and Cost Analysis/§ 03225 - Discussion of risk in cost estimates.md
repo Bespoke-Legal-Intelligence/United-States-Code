@@ -26,7 +26,7 @@ The text of subsec. (e) of section 2334 of this title, which was transferred to 
 
 #### Prior Provisions
 
-A prior section 3225, act Aug. 10, 1956, ch. 1041, 70A Stat. 177; Pub. L. 96–513, title V, §502(7), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to authorized strength of Army National Guard and Army National Guard of United States, exclusive of members on active duty, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12002 of this title.
+A prior section 3225, act Aug. 10, 1956, ch. 1041, 70A Stat. 177; Pub. L. 96–513, title V, §502(7), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to authorizedstrength of Army National Guard and Army National Guard of United States, exclusive of members on active duty, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12002 of this title.
 
 #### Amendments
 

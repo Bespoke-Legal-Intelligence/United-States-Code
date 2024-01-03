@@ -76,7 +76,7 @@ Any employee of a covered intelligence community element or an agency who has au
 
 #### (c) Contractor employees
 
-(1) Any employee of an agency or of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of a covered intelligence community element who has authorityto take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take, or threaten to take or fail to take, a personnel action with respect to any contractor employee as a reprisal for—
+(1) Any employee of an agency or of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of a covered intelligence community element who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take, or threaten to take or fail to take, a personnel action with respect to any contractor employee as a reprisal for—
 
 &emsp;(A) any lawful disclosure of information by the contractor employee to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose), the Inspector General of the Intelligence Community, a supervisor in the contractor employee's direct chain of command, or a supervisor of the employing or contracting agency or employing contractor with responsibility for the subject matter of the disclosure, up to and including the head of the employing or contracting agency (or an employee designated by the head of that agency for that purpose) or employing contractor, the appropriate inspector general of the employing or contracting agency, a congressional intelligence committee, or a member of a congressional intelligence committee, which the contractor employee reasonably believes evidences—
 
@@ -220,7 +220,7 @@ Nonapplicability to Certain Terminations.—Section 1104 of the National Securit
 
 &emsp;&emsp;"(D) section 7532 of title 5, United States Code, if the head of the agency determines that the termination is in the interest of the United States; and
 
-&emsp;"(2) not later than 30 days after such termination, the head of the agency that employed the affected employee notifies the congressional intelligence committees of the termination."
+&emsp;"(2) not later than 30 days after such termination, the head of the agency that employed the affectedemployee notifies the congressional intelligence committees of the termination."
 
 \[For definition of "congressional intelligence committees" as used in section 604 of Pub. L. 113–126, set out above, see section 2 of Pub. L. 113–126, set out as a note under section 3003 of this title.\]
 

@@ -54,7 +54,7 @@ Information, Training, and Resources.—The Maritime Administrator shall ensure 
 
 &emsp;(2) is equipped with an appropriate means of communication and has been trained on its use;
 
-&emsp;(3) has access to a helpline to report incidents of sexual harassment, dating violence,domestic violence, sexual assault, or stalking that is monitored by trained personnel; and
+&emsp;(3) has access to a helpline to report incidents of sexual harassment, dating violence, domestic violence, sexual assault, or stalking that is monitored by trained personnel; and
 
 &emsp;(4) is informed of the legal requirements for vessel owners and operators to provide for the security of individuals onboard, including requirements under section 70103(c) and chapter 81.
 

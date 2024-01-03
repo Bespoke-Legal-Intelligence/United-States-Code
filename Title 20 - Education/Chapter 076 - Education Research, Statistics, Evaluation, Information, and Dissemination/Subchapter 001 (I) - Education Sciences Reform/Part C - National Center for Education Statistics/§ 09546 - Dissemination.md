@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Statistics Center may furnish transcripts or copies of tables and other statisticalrecords and make special statistical compilations and surveys for State and local officials, public and private organizations, and individuals.
+&emsp;The Statistics Center may furnish transcripts or copies of tables and other statistical records and make special statistical compilations and surveys for State and local officials, public and private organizations, and individuals.
 
 #### (2) Compilations
 

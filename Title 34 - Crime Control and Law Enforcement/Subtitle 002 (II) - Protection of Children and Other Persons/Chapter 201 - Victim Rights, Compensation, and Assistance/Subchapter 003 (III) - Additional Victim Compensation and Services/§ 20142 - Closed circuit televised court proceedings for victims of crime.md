@@ -22,7 +22,7 @@ Notwithstanding any provision of the Federal Rules of Criminal Procedure to the 
 
 #### (c) Restrictions
 
-(1) The signal transmitted pursuant to subsection (a) shall be under the control of thecourt at all times and shall only be transmitted subject to the terms and conditions imposed by the court.
+(1) The signal transmitted pursuant to subsection (a) shall be under the control of the court at all times and shall only be transmitted subject to the terms and conditions imposed by the court.
 
 (2) No public broadcast or dissemination shall be made of the signal transmitted pursuant to subsection (a). In the event any tapes are produced in carrying out subsection (a), such tapes shall be the property of the court and kept under seal.
 

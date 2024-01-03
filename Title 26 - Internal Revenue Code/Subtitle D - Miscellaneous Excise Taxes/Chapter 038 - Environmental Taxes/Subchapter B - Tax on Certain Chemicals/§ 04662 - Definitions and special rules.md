@@ -146,7 +146,7 @@ For purposes of this subchapter—
 
 #### (D) Special rule for groundwater treatment
 
-&emsp;&emsp;In the case of corrective action requiring groundwater treatment, such action shall betreated as completed as of the close of the 10-year period beginning on the date such action is required if such treatment complies with the permit or order applicable under subparagraph (C)(i) throughout such period. The preceding sentence shall cease to apply beginning on the date such treatment ceases to comply with such permit or order.
+&emsp;&emsp;In the case of corrective action requiring groundwater treatment, such action shall be treated as completed as of the close of the 10-year period beginning on the date such action is required if such treatment complies with the permit or order applicable under subparagraph (C)(i) throughout such period. The preceding sentence shall cease to apply beginning on the date such treatment ceases to comply with such permit or order.
 
 #### (E) Solid waste
 
@@ -194,7 +194,7 @@ For purposes of this subchapter—
 
 #### (B) Removal, etc., treated as use
 
-&emsp;&emsp;For purposes of this part, if any organic taxable chemical on which no tax was imposed by reason of subparagraph (A) is isolated, extracted, or otherwise removed from, or ceases to be part of, an intermediate hydrocarbon stream—
+&emsp;&emsp;For purposes of this part, if any organic taxable chemical on which no tax was imposed by reason of subparagraph (A) is isolated, extracted, or otherwise removed from,or ceases to be part of, an intermediate hydrocarbon stream—
 
 &emsp;&emsp;&emsp;(i) such isolation, extraction, removal, or cessation shall be treated as use by the person causing such event, and
 
@@ -388,7 +388,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–499 effective Jan. 1, 1987, except as otherwise provided, see section 513(h) of Pub. L. 99–499, set out as a note under section 4661 of this title.
+Amendment by Pub. L. 99–499 effective Jan. 1, 1987, except as otherwise provided, see section 513(h) of Pub.L. 99–499, set out as a note under section 4661 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -60,7 +60,7 @@ A prior section 4405 of Pub. L. 89–10 was classified to section 3125 of this t
 
 <b>2015</b>—Subsec. (b)(1)(A). Pub. L. 114–95, §4401(2)(A)(i), inserted "any available evidence on, or if such evidence is not available, a rationale, based on current research, for" before "how the proposed magnet school programs".
 
-Subsec. (b)(1)(B). Pub. L. 114–95, §4401(2)(A)(ii), inserted ", including any evidence, or if such evidence isnot available, a rationale based on current research findings, to support such description" before semicolon at end.
+Subsec. (b)(1)(B). Pub. L. 114–95, §4401(2)(A)(ii), inserted ", including any evidence, or if such evidence is not available, a rationale based on current research findings, to support such description" before semicolon at end.
 
 Subsec. (b)(1)(D) to (F). Pub. L. 114–95, §4401(2)(A)(iii), (iv), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 

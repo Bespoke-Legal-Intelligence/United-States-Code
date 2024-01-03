@@ -34,7 +34,7 @@ Basic Pay.—(1) In accordance with this section, the Secretary shall fix the ra
 
 (c)
 
-Additional Compensation, Incentives, and Allowances.—(1) The Secretary may provideemployees in qualified positions compensation (in addition to basic pay), including benefits, incentives, and allowances, consistent with, and not in excess of the level authorized for, comparable positions authorized by title 5.
+Additional Compensation, Incentives, and Allowances.—(1) The Secretary may provide employees in qualified positions compensation (in addition to basic pay), including benefits, incentives, and allowances, consistent with, and not in excess of the level authorized for, comparable positions authorized by title 5.
 
 (2) An employee in a qualified position whose rate of basic pay is fixed under subsection (b)(1) shall be eligible for an allowance under section 5941 of title 5 on the same basis and to the same extent as if the employee was an employee covered by such section, including eligibility conditions, allowance rates, and all other terms and conditions in law or regulation.
 
@@ -158,11 +158,11 @@ Subsecs. (i) to (k). Pub. L. 114–328, §1103(a)(1), redesignated subsecs. (h) 
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Department of Defense Cyber Workforce Efforts
 
-Pub. L. 116–283, div. A, title XVII, §1726(a), Jan. 1, 2021, 134 Stat. 4115, provided that:
+Pub. L. 116–283, div. A, title XVII, §1726(a), (b), Jan. 1, 2021, 134 Stat. 4115, as amended by Pub. L. 118–31, div. A, title XV, §1531(c)(4), Dec. 22, 2023, 137 Stat. 563, provided that:
 
 "(a)
 
@@ -196,7 +196,13 @@ Implementation plan.—The report required under subparagraph (A) shall detail t
 
 &emsp;&emsp;"(C)
 
-Deadline.—Not later than 120 days after the submission of the report required under subparagraph (A), the Chief Information Officer of the Department of Defense shall carry out the implementation plan contained in such report."
+Deadline.—Not later than 120 days after the submission of the report required under subparagraph (A), the Chief Information Officer of the Department of Defense shall carry out the implementation plan contained in such report.
+
+"(b)
+
+Discharge Through Director.—In carrying out this section, the Chief Information Officer of the Department of Defense shall act through the Director of the office established under section 2192c of title 10, United States Code."
+
+\[Subsec. (b) of section 1726 of Pub. L. 116–283, set out above, was added by Pub. L. 118–31, div. A, title XV, §1531(c)(4), Dec. 22, 2023, 137 Stat. 563. Another subsec. (b) of section 1726 is set out as a note under section 2224 of this title.\]
 
 #### Zero-Based Review of Department of Defense Cyber and Information Technology Personnel
 
@@ -242,7 +248,7 @@ Scope of Review.—As part of a review conducted pursuant to subsection (a)(1), 
 
 &emsp;&emsp;"(C) to guide prioritization of investment and funding;
 
-&emsp;"(5) develop recommendations and objectives for organizational, manning, and equipping change, taking into account anticipated developments in information technologies, workload projections, automationand process enhancements, and Department requirements;
+&emsp;"(5) develop recommendations and objectives for organizational, manning, and equipping change, taking into account anticipated developments in information technologies, workload projections, automation and process enhancements, and Department requirements;
 
 &emsp;"(6) develop a gap analysis, contrasting the current organization and the objectives developed pursuant to paragraph (5); and
 

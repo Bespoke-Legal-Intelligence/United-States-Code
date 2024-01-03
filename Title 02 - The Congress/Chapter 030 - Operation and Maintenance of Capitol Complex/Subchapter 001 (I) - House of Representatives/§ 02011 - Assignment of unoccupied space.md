@@ -1,6 +1,6 @@
 ### §2011. Assignment of unoccupied space
 
-Unoccupied space in said building shall be assigned by the Architect of the Capitol under the direction of the commission and subject to the control of the House of Representatives.
+Unoccupied space in said building shall be assigned by the Architect of the Capitol under thedirection of the commission and subject to the control of the House of Representatives.
 
 (May 28, 1908, No. 30, 35 Stat. 579; Mar. 3, 1921, ch. 124, 41 Stat. 1291.)
 
@@ -14,5 +14,5 @@ Section was classified to section 184 of former Title 40, prior to the enactment
 
 #### Change of Name
 
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under section 1801 of this title.
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former section 1801 of this title.
 

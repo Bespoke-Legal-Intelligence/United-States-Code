@@ -72,7 +72,7 @@ Amendment by Pub. L. 106–476, except as otherwise provided, applicable with re
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–573 applicable with respect to vessels returning from the British Virgin Islands onor after 15th day after Oct. 30, 1984, see section 214(a), (c)(1) of Pub. L. 98–573, set out as a note under section 1304 of this title.
+Amendment by Pub. L. 98–573 applicable with respect to vessels returning from the British Virgin Islands on or after 15th day after Oct. 30, 1984, see section 214(a), (c)(1) of Pub. L. 98–573, set out as a note under section 1304 of this title.
 
 #### Effective Date of 1970 Amendment
 

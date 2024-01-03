@@ -110,7 +110,7 @@ Premium sharing plans.—(A) The dental insurance plan established under subsect
 
 &emsp;(E) Beginning on January 1, 2026, the amount of the premium required under subparagraph (A)—
 
-&emsp;&emsp;(i) for standard option plans, shall be established by the Secretary annually such that in the aggregate (taking into account the adjustments under subparagraph (F) and subsection (e)(3),<sup>1</sup> the Secretary's share of each premium is 60 percent of the premium for each enrollment category (self, self plus one, and family, respectively) of each standard option plan; and
+&emsp;&emsp;(i) for standard option plans, shall be established by the Secretary annually such that in the aggregate (taking into account the adjustments under subparagraph (F) and subsection (e)(3)), the Secretary's share of each premium is 60 percent of the premium for each enrollment category (self, self plus one, and family, respectively) of each standard option plan; and
 
 &emsp;&emsp;(ii) for non-standard option plans, shall be equal to the amount determined under clause (i) plus 100 percent of the additional premium amount applicable to such non-standard option plan.
 
@@ -134,7 +134,7 @@ Copayments Under Premium Sharing Plans.—(1) Except as provided pursuant to par
 
 &emsp;(B) in the case of care described in subsection (c)(2), pay 20 percent of the charges for the care; and
 
-&emsp;(C) in the case of care described in subsection (c)(3), pay a percentage of the charges for the care that is determined appropriate by the Secretary of Defense, after consultation with the other administering Secretaries.
+&emsp;(C) in the case of care described in subsection (c)(3), pay a percentage of the chargesfor the care that is determined appropriate by the Secretary of Defense, after consultation with the other administering Secretaries.
 
 (2)(A) During a national emergency declared by the President or Congress and subject to regulations prescribed by the Secretary of Defense, the Secretary may waive, in whole or in part, the charges otherwise payable by a member of the Selected Reserve of the Ready Reserve or a member of the Individual Ready Reserve under paragraph (1) for the coverage of the member alone under the dental insurance plan established under subsection (a)(1) if the Secretary determines that such waiver of the charges would facilitate or ensure the readiness of a unit or individual for deployment.
 
@@ -148,7 +148,7 @@ Transfer of Members.—If a member whose dependents are enrolled in the plan est
 
 (g)
 
-Care Outside the United States.—The Secretary of Defense may exercise the authority provided under subsection (a) to establish dental insurance plans and dental benefits plans for dental benefits provided outside the United States for the eligible members and dependents of members of the uniformed services. In thecase of such an overseas dental plan, the Secretary may waive or reduce any copayments required by subsection (e) to the extent the Secretary determines appropriate for the effective and efficient operation of the plan.
+Care Outside the United States.—The Secretary of Defense may exercise the authority provided under subsection (a) to establish dental insurance plans and dental benefits plans for dental benefits provided outside the United States for the eligible members and dependents of members of the uniformed services. In the case of such an overseas dental plan, the Secretary may waive or reduce any copayments required by subsection (e) to the extent the Secretary determines appropriate for the effective and efficient operation of the plan.
 
 (h)
 
@@ -196,7 +196,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "standard option plan" means a dental insurance plan that provides for the coverage of preventive services, basic restorative services, and specialty dental care services at a level that is at least commensurate with the coverage of the same services provided under the premium sharing plans under this section during the period preceding January 1, 2026.
 
-(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, §713, Jan. 6, 2006, 119 Stat. 3343; Pub. L. 110–417, \[div. A\], title VII, §735(b), Oct. 14, 2008, 122 Stat. 4514; Pub. L. 111–84, div. A, title VII, §704, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 111–383, div. A, title VII, §703, Jan. 7, 2011, 124 Stat. 4245; Pub. L. 112–239, div. A, title VII, §701(b), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 115–232, div. A, title VII, §713(b), Aug. 13, 2018, 132 Stat. 1811; Pub. L. 116–283, div. A, title VII, §711(b)—(d), Jan. 1, 2021, 134 Stat. 3691; Pub. L. 117–263, div. A, title VII, §701(a), Dec. 23, 2022, 136 Stat. 2644.)
+(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, §713, Jan. 6, 2006, 119 Stat. 3343; Pub. L. 110–417, \[div. A\], title VII, §735(b), Oct. 14, 2008, 122 Stat. 4514; Pub. L. 111–84, div. A, title VII, §704, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 111–383, div. A, title VII, §703, Jan. 7, 2011, 124 Stat. 4245; Pub. L. 112–239, div. A, title VII, §701(b), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 115–232, div. A, title VII, §713(b), Aug. 13, 2018, 132 Stat. 1811; Pub. L.116–283, div. A, title VII, §711(b)—(d), Jan. 1, 2021, 134 Stat. 3691; Pub. L. 117–263, div. A, title VII, §701(a), Dec. 23, 2022, 136 Stat. 2644; Pub. L. 118–31, div. A, title XVIII, §1801(a)(12), Dec. 22, 2023, 137 Stat. 684.)
 
 #### <b>Editorial Notes</b>
 
@@ -205,6 +205,8 @@ Definitions.—In this section:
 A prior section 1076a, added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, §707(a), (b), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 102–190, div. A, title VII, §701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, §701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800; Pub. L. 105–85, div. A, title VII, §732, Nov. 18, 1997, 111 Stat. 1812; Pub. L. 105–261, div. A, title VII, §701(a)(1), (b), Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title X, §1066(a)(8), Oct. 5, 1999, 113 Stat. 770; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, related to dependents' dental program, prior to repeal by Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d)(1)(E)(i). Pub. L. 118–31 substituted "subsection (e)(3))" for "subsection (e)(3)".
 
 <b>2022</b>—Subsec. (b). Pub. L. 117–263, §701(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -218,7 +220,7 @@ Subsec. (d)(1)(E), (F). Pub. L. 117–263, §701(a)(2)(D), added subpars. (E) an
 
 Subsec. (e)(3). Pub. L. 117–263, §701(a)(3), added par. (3).
 
-Subsec. (j). Pub. L. 117–263, §701(a)(4), substituted "During the period preceding January 1, 2026, the Secretary of Defense may not reduce benefits provided under a plan established under this section, and on or after January 1, 2026, the Secretary may not reducebenefits provided under a standard option plan under this section, until" for "The Secretary of Defense may not reduce benefits provided under a plan established under this section until" in introductory provisions.
+Subsec. (j). Pub. L. 117–263, §701(a)(4), substituted "During the period preceding January 1, 2026, the Secretary of Defense may not reduce benefits provided under a plan established under this section, and on or after January 1, 2026, the Secretary may not reduce benefits provided under a standard option plan under this section, until" for "The Secretary of Defense may not reduce benefits provided under a plan established under this section until" in introductory provisions.
 
 Subsec. (l). Pub. L. 117–263, §701(a)(5), added subsec. (l).
 
@@ -294,11 +296,9 @@ Covered Members.—A member referred to in subsection (a) is a member of the uni
 
 "(c)
 
-Report on Advisability of Expansion.—Not later than February 28, 1994, the Secretary shall submitto Congress a report evaluating the advisability of expanding the enrollment eligibility of members of the uniformed services in the dependents' dental program in the manner authorized in subsection (a). The report shall include an analysis of the cost implications for such an expansion to the Federal Government, beneficiaries under the dependents' dental program, and contractors under the program.
+Report on Advisability of Expansion.—Not later than February 28, 1994, the Secretary shall submit to Congress a report evaluating the advisability of expanding the enrollment eligibility of members of the uniformed services in the dependents' dental program in the manner authorized in subsection (a). The report shall include an analysis of the cost implications for such an expansion to the Federal Government, beneficiaries under the dependents' dental program, and contractors under the program.
 
 "(d)
 
 Notification of Exercise of Authority.—The Secretary shall notify Congress of any decision to expand the enrollment eligibility of dependents in the dependents' dental program as provided in subsection (a) not later than 30 days before such expansion takes effect."
-
-<i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 

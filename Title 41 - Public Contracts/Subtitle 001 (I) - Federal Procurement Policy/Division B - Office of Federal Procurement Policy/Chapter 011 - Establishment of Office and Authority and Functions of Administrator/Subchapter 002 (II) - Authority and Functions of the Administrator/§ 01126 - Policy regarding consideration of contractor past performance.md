@@ -2,7 +2,7 @@
 
 (a)
 
-Guidance.—The Administrator shall prescribe for executive agencies guidance regarding consideration of the past contract performance of offerors in awarding contracts. The guidance shall include—
+Guidance.—The Administrator shall prescribe for executive agencies guidance regarding consideration of the past contract performanceof offerors in awarding contracts. The guidance shall include—
 
 &emsp;(1) standards for evaluating past performance with respect to cost (when appropriate), schedule, compliance with technical or functional specifications, and other relevant performance factors that facilitate consistent and fair evaluation by all executive agencies;
 
@@ -100,7 +100,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Foreign Relations, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\], and the Committee on Appropriations of the House of Representatives.
 
 &emsp;"(2) The term 'executive agency' has the meaning given that term in section 133 of title 41, United States Code, except that the term excludes the Department of Defense and the military departments.
 

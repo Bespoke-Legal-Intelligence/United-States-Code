@@ -162,7 +162,7 @@ Subsec. (f)(2). Pub. L. 116–260, §702(n)(1)(B), substituted "section 1091(o)"
 
 Subsec. (e)(5). Pub. L. 111–39, §402(f)(2)(B), struck out par. (5) which related to notification to borrowers of availability of refinancing options for certain loans made before Oct. 17, 1986.
 
-<b>2008</b>—Subsec. (a)(3). Pub. L. 110–227, §4, amended par. (3) generally. Prior to amendment, text read as follows: "Whenever necessary to carry out the provisions of this section, the terms 'student' and 'borrower' as used in this part shall include a parent borrower under this section."
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–227, §4, amended par. (3) generally. Prior to amendment, text read as follows: "Whenever necessary to carry out the provisions of thissection, the terms 'student' and 'borrower' as used in this part shall include a parent borrower under this section."
 
 Subsec. (a)(3)(B)(i)(II). Pub. L. 110–315, §424(a)(1), added subcl. (II) and struck out former subcl. (II) which read as follows: "is not and has not been more than 89 days delinquent on the repayment of any other debt during such period."
 
@@ -250,7 +250,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 Amendment by Pub. L. 110–315 effective for loans for which the first disbursement is made on or after July 1, 2008, see section 424(c) of Pub. L. 110–315, set out as a note under section 1078 of this title.
 
-Amendment by section 3(a) of Pub. L. 110–227 effective for loans first disbursed on or after July 1, 2008, seesection 3(c) of Pub. L. 110–227, set out as a note under section 1078 of this title.
+Amendment by section 3(a) of Pub. L. 110–227 effective for loans first disbursed on or after July 1, 2008, see section 3(c) of Pub. L. 110–227, set out as a note under section 1078 of this title.
 
 #### Effective Date of 2006 Amendment
 

@@ -20,7 +20,7 @@
 
 &emsp;(2) consider relevant available recreational vessel safety standards, statistics, and data, including public and private research, development, testing, and evaluation;
 
-&emsp;(3) not compel substantial alteration of a recreational vessel or item of associatedequipment that is in existence, or the construction or manufacture of which is begun before the effective date of the regulation, but subject to that limitation may require compliance or performance, to avoid a substantial risk of personal injury to the public, that the Secretary considers appropriate in relation to the degree of hazard that the compliance will correct; and
+&emsp;(3) not compel substantial alteration of a recreational vessel or item of associated equipment that is in existence, or the construction or manufacture of which is begun before the effective date of the regulation, but subject to that limitation may require compliance or performance, to avoid a substantial risk of personal injury to the public, that the Secretary considers appropriate in relation to the degree of hazard that the compliance will correct; and
 
 &emsp;(4) consult with the National Boating Safety Advisory Committee established under section 15105 of this title about the considerations referred to in clauses (1)–(3) of this subsection.
 
@@ -90,7 +90,7 @@ Pub. L. 115–282, title VIII, §828, Dec. 4, 2018, 132 Stat. 4314, provided tha
 
 "(a)
 
-In General.—The Secretary of the department in which the Coast Guard is operating shall develop a performance standard for the alternative use and possession of visual distress alerting and locating signals as mandated by carriage requirements for recreational boats in subpart C of part 175 of title 33, Code of Federal Regulations.
+In General.—The Secretary of the department in which the Coast Guard is operating shall develop aperformance standard for the alternative use and possession of visual distress alerting and locating signals as mandated by carriage requirements for recreational boats in subpart C of part 175 of title 33, Code of Federal Regulations.
 
 "(b)
 
@@ -112,7 +112,7 @@ Issuance.—The Secretary of the department in which the Coast Guard is operatin
 
 Scope and content of regulations.—The regulations issued under this subsection—
 
-&emsp;&emsp;"(A) subject to subparagraph (B), shall be comparable to the code set forth in Merchant Shipping Notice 1851(M) (commonly referred to as the 'LargeCommercial Yacht Code (LY3)'), as published by the Maritime and Coastguard Agency of the United Kingdom on August 20, 2013, or an equivalent code, regulation, or standard that is acceptable to the Secretary; and
+&emsp;&emsp;"(A) subject to subparagraph (B), shall be comparable to the code set forth in Merchant Shipping Notice 1851(M) (commonly referred to as the 'Large Commercial Yacht Code (LY3)'), as published by the Maritime and Coastguard Agency of the United Kingdom on August 20, 2013, or an equivalent code, regulation, or standard that is acceptable to the Secretary; and
 
 &emsp;&emsp;"(B) shall require that, as part of the review of an application for documentation of a vessel that is subject to the regulations, the owner shall disclose to the Coast Guard—
 

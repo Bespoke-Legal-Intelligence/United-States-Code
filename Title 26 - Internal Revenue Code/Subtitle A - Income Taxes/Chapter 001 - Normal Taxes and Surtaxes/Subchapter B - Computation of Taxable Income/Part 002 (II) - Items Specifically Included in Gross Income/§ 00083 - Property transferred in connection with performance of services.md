@@ -144,7 +144,7 @@ In the case of a transfer of property to which this section applies or a cancell
 
 #### (B) Limitation
 
-&emsp;&emsp;The term "qualified stock" shall not include any stock if the employee may sell such stock to, or otherwise receive cash inlieu of stock from, the corporation at the time that the rights of the employee in such stock first become transferable or not subject to a substantial risk of forfeiture.
+&emsp;&emsp;The term "qualified stock" shall not include any stock if the employee may sell such stock to, or otherwise receive cash in lieu of stock from, the corporation at the time that the rights of the employee in such stock first become transferable or not subject to a substantial risk of forfeiture.
 
 #### (C) Eligible corporation
 

@@ -4,7 +4,7 @@
 
 (1) Not later than 120 days after October 30, 2000, the President shall establish and appoint an Advisory Board on Radiation and Worker Health (in this section referred to as the "Board").
 
-(2) The President shall make appointments to the Board in consultation with organizationswith expertise on worker health issues in order to ensure that the membership of the Board reflects a balance of scientific, medical, and worker perspectives.
+(2) The President shall make appointments to the Board in consultation with organizations with expertise on worker health issues in order to ensure that the membership of the Board reflects a balance of scientific, medical, and worker perspectives.
 
 (3) The President shall designate a Chair for the Board from among its members.
 
@@ -30,7 +30,7 @@ Members of the Board, other than full-time employees of the United States, while
 
 #### (e) Security clearances
 
-(1) The Secretary of Energy shall ensure that the members and staff of the Board, and the contractors performing work in support of the Board, are afforded the opportunity to apply for a security clearance for any matter for which such a clearance is appropriate. The Secretary should, not later than 180 days after receiving a completed application, make a determination whether or not the individual concerned is eligible for the clearance.
+(1) The Secretary of Energy shall ensure that the members and staff of the Board, and the contractors performing work in support of theBoard, are afforded the opportunity to apply for a security clearance for any matter for which such a clearance is appropriate. The Secretary should, not later than 180 days after receiving a completed application, make a determination whether or not the individual concerned is eligible for the clearance.
 
 (2) For fiscal year 2007 and each fiscal year thereafter, the Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for that fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report specifying the number of applications for security clearances under this subsection, the number of such applications granted, and the number of such applications denied.
 

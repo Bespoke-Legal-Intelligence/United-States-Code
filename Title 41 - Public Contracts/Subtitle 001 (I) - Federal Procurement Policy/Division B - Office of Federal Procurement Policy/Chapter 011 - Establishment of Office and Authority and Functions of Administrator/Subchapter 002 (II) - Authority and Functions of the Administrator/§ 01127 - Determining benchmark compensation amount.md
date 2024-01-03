@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Benchmark compensation amount.—The term "benchmark compensation amount", fora fiscal year, is the median amount of the compensation provided for all senior executives of all benchmark corporations for the most recent year for which data is available at the time the determination under subsection (b) is made.
+Benchmark compensation amount.—The term "benchmark compensation amount", for a fiscal year, is the median amount of the compensation provided for all senior executives of all benchmark corporations for the most recent year for which data is available at the time the determination under subsection (b) is made.
 
 &emsp;(2)
 

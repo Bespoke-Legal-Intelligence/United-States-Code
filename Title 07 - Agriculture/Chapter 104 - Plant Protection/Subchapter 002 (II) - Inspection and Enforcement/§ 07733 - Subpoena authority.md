@@ -10,7 +10,7 @@ The attendance of any witness and production of evidence relevant to the inquiry
 
 #### (c) Enforcement of Subpoena
 
-In the case of disobedience to a subpoena by any person, the Secretary may request the Attorney General to invoke the aid of any court of the United States within the jurisdiction in which the investigation is conducted, or where the person resides, is found, transacts business, is licensed to do business, or is incorporated, in requiring the attendance and testimony of any witness, the production of evidence, or the inspection of premises. In case of a refusal to obey a subpoena issued to any person, a court may order the person to appear before the Secretary and give evidence concerning the matter in question, produce evidence, or permit the inspection of premises. Any failure to obey the court's order may be punished by the court as a contempt of the court.
+In the case of disobedience to a subpoena by any person, the Secretary may request the Attorney General to invoke the aid of any court of the United States within the jurisdiction in which the investigation is conducted, or where the person resides, is found, transacts business, is licensed to do business, or is incorporated, in requiring the attendance and testimony of any witness, the production of evidence, or the inspection of premises. In case of a refusal to obey a subpoena issued to any person, a court may order the person to appear before the Secretary and give evidence concerning the matter in question, produce evidence, or permit the inspection of premises. Any failure to obey thecourt's order may be punished by the court as a contempt of the court.
 
 #### (d) Compensation
 
@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 110–246, §10203(c)(3), in first sentence substituted "te
 
 Subsec. (e). Pub. L. 107–171, §10418(b)(2)(B), inserted "to an agency other than the Office of Administrative Law Judges" after "subpoena is delegated".
 
-Subsec. (f). Pub. L. 107–171, §10418(b)(2)(C), struck out heading and text of subsec. (f). Text read as follows:"Subpoenas for witnesses to attend court in any judicial district or to testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under this chapter may run to any other judicial district."
+Subsec. (f). Pub. L. 107–171, §10418(b)(2)(C), struck out heading and text of subsec. (f). Text read as follows: "Subpoenas for witnesses to attend court in any judicial district or to testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under this chapter may run to any other judicial district."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

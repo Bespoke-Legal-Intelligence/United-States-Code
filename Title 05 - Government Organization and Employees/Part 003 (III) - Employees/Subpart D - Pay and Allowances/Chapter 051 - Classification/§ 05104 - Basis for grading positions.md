@@ -1,6 +1,6 @@
 ### §5104. Basis for grading positions
 
-The General Schedule, the symbol for which is "GS", is the basic pay schedule for positions towhich this chapter applies. The General Schedule is divided into grades of difficulty and responsibility of work, as follows:
+The General Schedule, the symbol for which is "GS", is the basic pay schedule for positions to which this chapter applies. The General Schedule is divided into grades of difficulty and responsibility of work, as follows:
 
 &emsp;(1) Grade GS–1 includes those classes of positions the duties of which are to perform, under immediate supervision, with little or no latitude for the exercise of independent judgment—
 
@@ -150,7 +150,7 @@ The General Schedule, the symbol for which is "GS", is the basic pay schedule fo
 
 &emsp;(13) Grade GS–13 includes those classes of positions the duties of which are—
 
-&emsp;&emsp;(A) to perform, under administrative direction, with wide latitude for the exercise of independent judgment, work of unusual difficulty and responsibility along special technical, supervisory, or administrative lines, requiring extended specialized, supervisory, or administrative training and experiencewhich has demonstrated leadership and marked attainments;
+&emsp;&emsp;(A) to perform, under administrative direction, with wide latitude for the exercise of independent judgment, work of unusual difficulty and responsibility along special technical, supervisory, or administrative lines, requiring extended specialized, supervisory, or administrative training and experience which has demonstrated leadership and marked attainments;
 
 &emsp;&emsp;(B) to serve as assistant head of a major organization involving work of comparable level within a bureau;
 
@@ -242,7 +242,7 @@ Sec. 101. The Congress hereby finds that—
 
 &emsp;"(2) the large number and variety of job evaluation and ranking systems in the executive branch have resulted in significant inequities in selection, promotion, and pay of employees in comparable positions among these systems;
 
-&emsp;"(3) little effort has been made by Congress or the executive branch to consolidate or coordinate the various job evaluation and ranking systems, andthere has been no progress toward the establishment of a coordinated system in which job evaluation and ranking, regardless of the methods used, is related to a unified set of principles providing coherence and equity throughout the executive branch;
+&emsp;"(3) little effort has been made by Congress or the executive branch to consolidate or coordinate the various job evaluation and ranking systems, and there has been no progress toward the establishment of a coordinated system in which job evaluation and ranking, regardless of the methods used, is related to a unified set of principles providing coherence and equity throughout the executive branch;
 
 &emsp;"(4) within the executive branch, there has been no significant study of, or experimentation with the several recognized methods of job evaluation and ranking to determine which of those methods are most appropriate for use and application to meet the present and future needs of the Federal Government; and
 

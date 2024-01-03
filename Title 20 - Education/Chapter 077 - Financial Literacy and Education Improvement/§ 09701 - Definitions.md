@@ -240,7 +240,7 @@ Sec. 4. <i>Functions of the Council</i>. To assist in implementing the policy se
 
 (a) collect information and views concerning financial capability from:
 
-(i) executive departments and agencies (agencies), including members of the Financial Literacy and Education Commission established under title V of theFair and Accurate Credit Transactions Act of 2003 (20 U.S.C. 9702);
+(i) executive departments and agencies (agencies), including members of the Financial Literacy and Education Commission established under title V of the Fair and Accurate Credit Transactions Act of 2003 (20 U.S.C. 9702);
 
 (ii) State, local, territorial, and tribal officials; and
 

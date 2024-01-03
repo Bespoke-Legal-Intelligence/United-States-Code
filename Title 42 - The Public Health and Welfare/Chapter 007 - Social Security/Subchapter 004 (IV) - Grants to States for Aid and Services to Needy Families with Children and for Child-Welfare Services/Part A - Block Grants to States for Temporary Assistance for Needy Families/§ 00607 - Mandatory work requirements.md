@@ -53,7 +53,7 @@
 
 #### (A) Average monthly rate
 
-&emsp;&emsp;For purposes of subsection (a)(2), the participation rate for 2-parent families of a State for a fiscal year is the average of theparticipation rates for 2-parent families of the State for each month in the fiscal year.
+&emsp;&emsp;For purposes of subsection (a)(2), the participation rate for 2-parent families of a State for a fiscal year is the average of the participation rates for 2-parent families of the State for each month in the fiscal year.
 
 #### (B) Monthly participation rates
 
@@ -228,7 +228,7 @@ It is the sense of the Congress that the States should require noncustodial, non
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than June 30, 2006, the Secretary shall promulgate regulations to ensure consistent measurement of work participation rates under State programs funded under this part and State programs funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), which shall include information with respect to—
+&emsp;&emsp;&emsp;Not later than June 30, 2006, the Secretary shall promulgate regulations to ensure consistent measurement of work participation rates under State programs funded under this part and State programsfunded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), which shall include information with respect to—
 
 &emsp;&emsp;&emsp;&emsp;(I) determining whether an activity of a recipient of assistance may be treated as a work activity under subsection (d);
 
@@ -250,7 +250,21 @@ It is the sense of the Congress that the States should require noncustodial, non
 
 &emsp;Not later than September 30, 2006, a State to which a grant is made under section 603 of this title shall establish procedures for determining, with respect to recipients of assistance under the State program funded under this part or under any State programs funded with qualified State expenditures (as so defined), whether activities may be counted as work activities, how to count and verify reported hours of work, and who is a work-eligible individual, in accordance with the regulations promulgated pursuant to paragraph (1)(A)(i) and shall establish internal controls to ensure compliance with the procedures.
 
-(Aug. 14, 1935, ch. 531, title IV, §407, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2129; amended Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), Aug. 5, 1997, 111 Stat. 594, 609, 620; Pub. L. 109–171, title VII, §7102(a), (b)(1), (c)(1), Feb. 8, 2006, 120 Stat. 136; Pub. L. 111–5, div. B, title II, §2101(b), (d)(2), Feb. 17, 2009, 123 Stat. 448, 449; Pub. L. 112–96, title IV, §4005(b), Feb. 22, 2012, 126 Stat. 198.)
+(Aug. 14, 1935, ch. 531, title IV, §407, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2129; amended Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), Aug. 5, 1997, 111 Stat. 594, 609, 620; Pub. L. 109–171, title VII, §7102(a), (b)(1), (c)(1), Feb. 8, 2006, 120 Stat. 136; Pub. L. 111–5, div. B, title II, §2101(b), (d)(2), Feb. 17, 2009, 123 Stat. 448, 449; Pub. L. 112–96, title IV, §4005(b), Feb. 22, 2012, 126 Stat. 198; Pub. L. 118–5, div. C, title I, §§301, 303, June 3, 2023, 137 Stat. 34, 35.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 118–5, div. C, title I, §§301, 303, 305, June 3, 2023, 137 Stat. 34–36, provided that, effective Oct. 1, 2025, subsection (b) of this section is amended:</i>
+
+<i>(1) in subparagraphs (A)(ii) and (B) of paragraph (3), by striking "2005" and inserting "2015"; and</i>
+
+<i>(2) by adding at the end the following:</i>
+
+#### <i>(6) Special rule regarding calculation of the minimum participation rate</i>
+
+&emsp;<i>The Secretary shall determine participation rates under this section without regard to any individual engaged in work in a family that receives no assistance under this part and less than $35 in assistance funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title).</i>
+
+<i>See 2023 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -259,6 +273,10 @@ It is the sense of the Congress that the States should require noncustodial, non
 A prior section 607, act Aug. 14, 1935, ch. 531, title IV, §407, as added May 8, 1961, Pub. L. 87–31, §1, 75 Stat. 75; amended July 25, 1962, Pub. L. 87–543, title I, §§104(a)(3)(E), 131(a), 134, 76 Stat. 185, 193, 196; Oct. 13, 1964, Pub. L. 88–641, §2(b), 78 Stat. 1042; June 29, 1967, Pub. L. 90–36, §2, 81 Stat. 94; Jan. 2, 1968, Pub. L. 90–248, title II, §203(a), 81 Stat. 882; June 28, 1968, Pub. L. 90–364, title III, §302, 82 Stat. 273; Dec. 28, 1971, Pub. L. 92–223, §3(a)(10), (11), 85 Stat. 805; Oct. 20, 1976, Pub. L. 94–566, title V, §507(a), (b), (d), 90 Stat. 2688; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §§2313(a), (c)(2), 2353(q), 95 Stat. 853, 854, 874; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(4), (j)(3)(B)(ii), 98 Stat. 1166, 1171; Oct. 13, 1988, Pub. L. 100–485, title II, §202(b)(7)–(11), title IV, §401(a)(2)(B), (C), (b)(1), (3), (c), (h), 102 Stat. 2377, 2378, 2394–2396; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8105(1)–(3), (5), 102 Stat. 3797; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(a)(1)(A)(i), (2), 103 Stat. 2487, 2488; Nov. 5, 1990, Pub. L. 101–508, title V, §§5061(a), 5062(a), 104 Stat. 1388–231, 1388–232, related to dependent children of unemployed parents, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(3)(A)(ii), (B). Pub. L. 118–5, §301, substituted "2015" for "2005".
+
+Subsec. (b)(6). Pub. L. 118–5, §303, added par. (6).
 
 <b>2012</b>—Subsec. (c)(2)(A)(i). Pub. L. 112–96 substituted "603(b)(5)" for "603(b)(6)".
 
@@ -305,6 +323,10 @@ Subsec. (c)(2)(D). Pub. L. 105–33, §5003(a), amended heading and text of subp
 Subsec. (e)(2). Pub. L. 105–33, §5504(j), substituted "engage in work required in accordance with this section" for "work" in introductory provisions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2023 Amendment
+
+Pub. L. 118–5, div. C, title I, §305, June 3, 2023, 137 Stat. 36, provided that: "The amendments made by this title \[amending this section and section 611 of this title\] shall take effect on October 1, 2024, except for sections 301 and 303 \[amending this section\] which shall take effect on October 1, 2025."
 
 #### Effective Date of 2009 Amendment
 

@@ -72,7 +72,7 @@ Except to the extent inconsistent with the provisions of this chapter, the admin
 
 #### (2) Funding
 
-&emsp;Of the amount authorized to be appropriated under section 7718(a) of this title for a fiscalyear, up to $5,000,000 is authorized to be made available to carry out paragraph (1).
+&emsp;Of the amount authorized to be appropriated under section 7718(a) of this title for a fiscal year, up to $5,000,000 is authorized to be made available to carry out paragraph (1).
 
 (Pub. L. 108–199, div. D, title VI, §614, Jan. 23, 2004, 118 Stat. 222.)
 

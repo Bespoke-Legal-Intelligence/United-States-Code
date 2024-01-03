@@ -62,7 +62,7 @@ In this chapter:
 
 &emsp;&emsp;(D) An unmarried person—
 
-&emsp;&emsp;&emsp;(i) who is placed in the home of the member or former member by a placementagency (recognized by the Secretary of Defense), or by any other source authorized by State or local law to provide adoption placement, in anticipation of the legal adoption of the person by the member or former member; and
+&emsp;&emsp;&emsp;(i) who is placed in the home of the member or former member by a placement agency (recognized by the Secretary of Defense), or by any other source authorized by State or local law to provide adoption placement, in anticipation of the legal adoption of the person by the member or former member; and
 
 &emsp;&emsp;&emsp;(ii) who otherwise meets the requirements specified in paragraph (2)(D).
 
@@ -162,7 +162,7 @@ Par. (6). Pub. L. 103–337, §701(a)(2), added par. (6).
 
 &emsp;"(i) has not passed his twenty-first birthday;
 
-&emsp;"(ii) is incapable of self-support because of a mental or physical incapacity that existed before that birthday and is, or was at the time of the member's or former member's death, in fact dependent on him for over one-half of his support; or
+&emsp;"(ii) is incapable of self-support because of a mental or physical incapacity that existed before that birthday and is, or was at the time of the member's orformer member's death, in fact dependent on him for over one-half of his support; or
 
 &emsp;"(iii) has not passed his twenty-third birthday, is enrolled in a full-time course of study in an institution of higher learning approved by the administering Secretary and is, or was at the time of the member's or former member's death, in fact dependent on him for over one-half of his support;".
 

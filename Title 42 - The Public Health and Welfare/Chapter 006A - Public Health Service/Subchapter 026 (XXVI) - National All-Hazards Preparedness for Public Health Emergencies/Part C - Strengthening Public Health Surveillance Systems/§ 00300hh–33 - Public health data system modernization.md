@@ -44,7 +44,7 @@
 
 #### (ii) Designation of standards
 
-&emsp;&emsp;&emsp;Consistent with sections 17901 and 17902 of this title, the data and technology standards designated pursuant to this paragraph shall align with the standards and implementation specifications previously adopted by the Secretary pursuant to section 300jj–14 of this title, as applicable.
+&emsp;&emsp;&emsp;Consistent with sections 17901 and 17902 of this title, the data and technology standards designated pursuant to this paragraph shall align with the standards and implementation specifications previously adopted by the Secretary pursuantto section 300jj–14 of this title, as applicable.
 
 #### (C) Privacy and security
 
@@ -110,7 +110,7 @@ In this section, the term "electronic case reporting" means the automated identi
 
 To carry out this section, there are authorized to be appropriated $100,000,000 for each of fiscal years 2021 through 2025.
 
-(July 1, 1944, ch. 373, title XXVIII, §2823, as added Pub. L. 116–260, div. BB, title III, §314, Dec. 27, 2020, 134 Stat. 2929; Pub. L. 117–328, div. FF, title II, §2213(a), Dec. 29, 2022, 136 Stat. 5734.)
+(July 1, 1944, ch. 373, title XXVIII, §2823, as added Pub. L. 116–260, div. BB, title III, §314, Dec. 27, 2020, 134 Stat. 2929; amended Pub. L. 117–328, div. FF, title II, §2213(a), Dec. 29, 2022, 136 Stat. 5734.)
 
 #### <b>Editorial Notes</b>
 

@@ -66,7 +66,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b)(1). Pub. L. 106–554 inserted "for a voyage or a segment of a voyage that begins and ends in the State of Hawaii, or" after "Except" in introductory provisions.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–554 inserted "for a voyage or a segment of a voyage that begins and endsin the State of Hawaii, or" after "Except" in introductory provisions.
 
 <b>1996</b>—Subsec. (b)(1)(C). Pub. L. 104–324, §1106(b), added subpar. (C).
 

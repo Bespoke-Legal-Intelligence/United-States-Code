@@ -26,7 +26,7 @@
 
 &emsp;To the extent consistent with section 1181 of this title, paragraph (1) shall not be construed—
 
-&emsp;&emsp;(A) to require a group health plan, or group health insurance coverage, to provide particular benefits other than those provided under the terms of such plan or coverage, or
+&emsp;&emsp;(A) to require a group health plan, or group health insurance coverage, to provideparticular benefits other than those provided under the terms of such plan or coverage, or
 
 &emsp;&emsp;(B) to prevent such a plan or coverage from establishing limitations or restrictions on the amount, level, extent, or nature of the benefits or coverage for similarly situated individuals enrolled in the plan or coverage.
 
@@ -56,7 +56,7 @@
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Nothing in subparagraph (A) or in paragraphs (1) and (2) of subsection (d) shall be construed to limit the ability of a health insurance issuer offering health insurance coverage in connection with a group health planto increase the premium for an employer based on the manifestation of a disease or disorder of an individual who is enrolled in the plan. In such case, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other group members and to further increase the premium for the employer.
+&emsp;&emsp;Nothing in subparagraph (A) or in paragraphs (1) and (2) of subsection (d) shall be construed to limit the ability of a health insurance issuer offering health insurance coverage in connection with a group health plan to increase the premium for an employer based on the manifestation of a disease or disorder of an individual who is enrolled in the plan. In such case, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other group members and to further increase the premium for the employer.
 
 #### (c) Genetic testing
 

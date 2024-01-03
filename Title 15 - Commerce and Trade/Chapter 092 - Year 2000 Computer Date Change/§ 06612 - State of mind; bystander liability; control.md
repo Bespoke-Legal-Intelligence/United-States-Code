@@ -20,7 +20,7 @@ In a Y2K action other than a claim for breach or repudiation of contract, and in
 
 #### (2) Substantial privity
 
-&emsp;For purposes of paragraph (1)(B), a plaintiff and a defendant are in substantial privitywhen, in a Y2K action arising out of the performance of professional services, the plaintiff and the defendant either have contractual relations with one another or the plaintiff is a person who, prior to the defendant's performance of such services, was specifically identified to and acknowledged by the defendant as a person for whose special benefit the services were being performed.
+&emsp;For purposes of paragraph (1)(B), a plaintiff and a defendant are in substantial privity when, in a Y2K action arising out of the performance of professional services, the plaintiff and the defendant either have contractual relations with one another or the plaintiff is a person who, prior to the defendant's performance of such services, was specifically identified to and acknowledged by the defendant as a person for whose special benefit the services were being performed.
 
 #### (3) Certain claims excluded
 

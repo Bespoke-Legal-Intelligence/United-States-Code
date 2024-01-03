@@ -50,7 +50,7 @@ Section 425, referred to in subsec. (e), is probably a reference to section 425 
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §419(a)(1), inserted "(including transportation by air ambulance (as defined by the Secretary of Transportation))" after "air transportation" in introductory provisions.
 
-Subsec. (c). Pub. L. 115–254, §423(a)(1), substituted "Each air carrier and foreign air carrier" for "An air carrier or foreign air carrier providing scheduled air transportation using any aircraft that as originally designed has a passenger capacity of 30 or more passenger seats" in introductory provisions.
+Subsec. (c). Pub. L. 115–254, §423(a)(1), substituted "Each air carrier and foreign air carrier" for "An aircarrier or foreign air carrier providing scheduled air transportation using any aircraft that as originally designed has a passenger capacity of 30 or more passenger seats" in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 115–254, §423(a)(2), substituted "carrier operates" for "air carrier operates".
 
@@ -72,7 +72,7 @@ Pub. L. 115–254, div. B, title IV, §423(b), Oct. 5, 2018, 132 Stat. 3337, pro
 
 #### Aviation Consumer Advocate
 
-Pub. L. 115–254, div. B, title IV, §424, Oct. 5, 2018, 132 Stat. 3337, provided that:
+Pub. L. 115–254, div. B, title IV, §424, Oct. 5, 2018, 132 Stat. 3337, as amended by Pub. L. 118–15, div. B, title II, §2202(s), Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §102(s), Dec. 26, 2023, 137 Stat. 1114, provided that:
 
 "(a)
 
@@ -130,7 +130,7 @@ Annual Reports.—The Secretary, through the Aviation Consumer Advocate, shall s
 
 "(e)
 
-Sunset on Reporting Requirement.—The reporting requirement of subsection (d) shall terminate on September 30, 2023."
+Sunset on Reporting Requirement.—The reporting requirement of subsection (d) shall terminate on March 8, 2024."
 
 \[For definition of "ticket agent" as used in section 424 of Pub. L. 115–254, set out above, see section 401 of Pub. L. 115–254, set out as a Definitions of Terms in Pub. L. 115–254 note under section 40101 of this title.\]
 

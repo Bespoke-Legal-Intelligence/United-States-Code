@@ -30,7 +30,7 @@ The rules of the Authority promulgated in accordance with this chapter shall pre
 
 &emsp;&emsp;&emsp;(ii) issuance and enforcement of subpoenas and subpoenas duces tecum; and
 
-&emsp;&emsp;&emsp;(iii) other investigatory powers of the nature and scope exercised by State racingcommissions before the program effective date; and
+&emsp;&emsp;&emsp;(iii) other investigatory powers of the nature and scope exercised by State racing commissions before the program effective date; and
 
 &emsp;&emsp;(B) with respect to an unfair or deceptive act or practice described in section 3059 of this title, may recommend that the Commission commence an enforcement action.
 
@@ -70,7 +70,7 @@ The rules of the Authority promulgated in accordance with this chapter shall pre
 
 #### (B) Agreement with other entity
 
-&emsp;&emsp;If the Authority and the United States Anti-Doping Agency are unable to enter into the agreement described in subparagraph (A), the Authority shall enter into an agreement with an entity that is nationally recognized as being a medication regulation agency equal in qualification to the United States Anti-Doping Agency to act as the anti-doping and medication control enforcement agency under this chapter for services consistent with the horseracing anti-doping and medication control program.
+&emsp;&emsp;If the Authority and the United States Anti-Doping Agency are unable to enter into the agreement described in subparagraph (A), the Authority shall enter into an agreement with an entity that is nationally recognized as being a medication regulationagency equal in qualification to the United States Anti-Doping Agency to act as the anti-doping and medication control enforcement agency under this chapter for services consistent with the horseracing anti-doping and medication control program.
 
 #### (C) Negotiations
 
@@ -104,7 +104,7 @@ The rules of the Authority promulgated in accordance with this chapter shall pre
 
 &emsp;&emsp;&emsp;At the end of the 5-year period described in clause (i), the Authority may—
 
-&emsp;&emsp;&emsp;&emsp;(I) extend the term of the initial agreement under this paragraph for such additional term as is provided by the rules ofthe Authority and consistent with this chapter; or
+&emsp;&emsp;&emsp;&emsp;(I) extend the term of the initial agreement under this paragraph for such additional term as is provided by the rules of the Authority and consistent with this chapter; or
 
 &emsp;&emsp;&emsp;&emsp;(II) enter into an agreement meeting the requirements of this paragraph with an entity described by subparagraph (B) for such term as is provided by such rules and consistent with this chapter.
 
@@ -200,7 +200,7 @@ The Authority shall develop a list of civil penalties with respect to the enforc
 
 #### (B) State racing commission
 
-&emsp;&emsp;With respect to conduct described in subparagraph (A), the applicable State racingcommission shall retain authority until the final resolution of the matter.
+&emsp;&emsp;With respect to conduct described in subparagraph (A), the applicable State racing commission shall retain authority until the final resolution of the matter.
 
 #### (3) Other laws unaffected
 

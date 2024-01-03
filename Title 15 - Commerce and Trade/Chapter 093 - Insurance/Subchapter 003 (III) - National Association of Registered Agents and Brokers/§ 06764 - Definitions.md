@@ -20,7 +20,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (5) Insurance producer
 
-&emsp;The term "insurance producer" means any insurance agent or broker, excess or surpluslines broker or agent, insurance consultant, limited insurance representative, and any other individual or entity that sells, solicits, or negotiates policies of insurance or offers advice, counsel, opinions or services related to insurance.
+&emsp;The term "insurance producer" means any insurance agent or broker, excess or surplus lines broker or agent, insurance consultant, limited insurance representative, and any other individual or entity that sells, solicits, or negotiates policies of insurance or offers advice, counsel, opinions or services related to insurance.
 
 #### (6) Insurer
 

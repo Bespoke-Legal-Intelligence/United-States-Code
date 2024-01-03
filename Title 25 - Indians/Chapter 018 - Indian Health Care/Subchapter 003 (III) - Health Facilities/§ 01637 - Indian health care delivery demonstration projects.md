@@ -84,7 +84,7 @@ The Secretary, in approving projects pursuant to this section—
 
 #### (A) Application or request
 
-&emsp;&emsp;On receipt of an application or request from an Indian tribe, a consortium of Indian tribes, or a tribal organization within a Service area, the Secretary shall take into consideration alternative or innovated <sup>3</sup> methods to deliver health care services within the Service area (or a portion of, or facility within, the Service area) as described in the application or request, including medical, dental, pharmaceutical, nursing, clinical laboratory, contract health services, convenient care services, community health centers, or any other health care services delivery models designed to improve access to, or efficiency or quality of, the health care, health promotion, or disease prevention services and programs under this chapter.
+&emsp;&emsp;On receipt of an application or request from an Indian tribe, a consortium of Indian tribes, or a tribal organization within a Service area, the Secretary shall take into consideration alternative or innovated <sup>3</sup> methods to deliver health care services within the Service area (or a portion of, or facility within, the Service area) as described in the application or request, including medical, dental, pharmaceutical, nursing, clinical laboratory, contract health services, convenient care services, community health centers, or any other health care services delivery models designed to improve access to, or efficiency or quality of, the health care,health promotion, or disease prevention services and programs under this chapter.
 
 #### (B) Approval
 
@@ -124,7 +124,7 @@ For purposes of subsection (c), the Secretary, in evaluating facilities operated
 
 The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities that are the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>2</sup> for health services are fully and equitably integrated into the implementation of the health care delivery demonstration projects under this section.
 
-(Pub. L. 94–437, title III, §307, as added Pub. L. 101–630, title V, §504, Nov. 28, 1990, 104 Stat. 4562;amended Pub. L. 102–573, title III, §§304, 307(b)(2), title VII, §701(c)(2), title IX, §902(4)(A), Oct. 29, 1992, 106 Stat. 4562, 4564, 4572, 4591; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title III, §307, as added Pub. L. 101–630, title V, §504, Nov. 28, 1990, 104 Stat. 4562; amended Pub. L. 102–573, title III, §§304, 307(b)(2), title VII, §701(c)(2), title IX, §902(4)(A), Oct. 29, 1992, 106 Stat. 4562, 4564, 4572, 4591; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### <b>Editorial Notes</b>
 

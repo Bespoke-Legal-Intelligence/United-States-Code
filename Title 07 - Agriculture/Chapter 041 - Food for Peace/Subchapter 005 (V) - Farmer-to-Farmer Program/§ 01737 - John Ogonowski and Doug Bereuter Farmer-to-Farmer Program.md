@@ -216,7 +216,7 @@ Subsec. (d). Pub. L. 107–76, §777(2), added subsec. (d).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–127, §277(c)(1)(A), substituted "emerging markets" for "emerging democracies" in introductory provisions.
 
-Subsec. (a)(6). Pub. L. 104–127, §224(1), added par. (6) and struck out former par. (6) which read as follows: "to the extent practicable, augment the funds available for programs established under this section through theuse of foreign currencies that accrue from the sale of agricultural commodities under this chapter, and local currencies generated from other types of foreign assistance activities."
+Subsec. (a)(6). Pub. L. 104–127, §224(1), added par. (6) and struck out former par. (6) which read as follows: "to the extent practicable, augment the funds available for programs established under this section through the use of foreign currencies that accrue from the sale of agricultural commodities under this chapter, and local currencies generated from other types of foreign assistance activities."
 
 Subsec. (b)(1). Pub. L. 104–127, §277(c)(1)(B), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "The term 'emerging democracy' means a country that is taking steps toward—
 

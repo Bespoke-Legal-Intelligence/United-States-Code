@@ -50,7 +50,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(iii) any person who acts in any other capacity at the order, request, or under the direction or control, of an entity listed in subparagraph (A), or of a person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized in whole or in majority part by an entity listed in subparagraph (A);
 
-&emsp;&emsp;&emsp;(iv) any person who directly or indirectly through any contract, arrangement,understanding, relationship, or otherwise, owns 25 percent or more of the equity interests of an entity listed in subparagraph (A);
+&emsp;&emsp;&emsp;(iv) any person who directly or indirectly through any contract, arrangement, understanding, relationship, or otherwise, owns 25 percent or more of the equity interests of an entity listed in subparagraph (A);
 
 &emsp;&emsp;&emsp;(v) any person with significant responsibility to control, manage, or direct an entity listed in subparagraph (A);
 
@@ -134,7 +134,7 @@ Pars. (12), (13). Pub. L. 117–167, §103(a)(2), redesignated pars. (8) and (9)
 
 #### Short Title of 2022 Amendment
 
-Pub. L. 117–167, div. A, §101, Aug. 9, 2022, 136 Stat. 1372, provided that: "This division \[enacting section4659 of this title and section 48D of Title 26, Internal Revenue Code, amending this section, sections 4652 and 4656 of this title, section 905 of Title 2, The Congress, sections 46, 49, 50, and 1371 of Title 26, and section 906 of Title 47, Telecommunications, and enacting provisions set out as notes under section 4652 of this title and section 905 of Title 2\] may be cited as the 'CHIPS Act of 2022'."
+Pub. L. 117–167, div. A, §101, Aug. 9, 2022, 136 Stat. 1372, provided that: "This division \[enacting section 4659 of this title and section 48D of Title 26, Internal Revenue Code, amending this section, sections 4652 and 4656 of this title, section 905 of Title 2, The Congress, sections 46, 49, 50, and 1371 of Title 26, and section 906 of Title 47, Telecommunications, and enacting provisions set out as notes under section 4652 of this title and section 905 of Title 2\] may be cited as the 'CHIPS Act of 2022'."
 
 #### <b>Executive Documents</b>
 

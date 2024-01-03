@@ -32,7 +32,7 @@ Not later than 2 years after February 17, 2009, and annually thereafter, the Sec
 
 &emsp;&emsp;(A) an evaluation of—
 
-&emsp;&emsp;&emsp;(i) methods for identifying current, emerging, and future health technologythat can be used to meet the needs of seniors and individuals with disabilities and their caregivers across all aging services settings, as specified by the Secretary;
+&emsp;&emsp;&emsp;(i) methods for identifying current, emerging, and future health technology that can be used to meet the needs of seniors and individuals with disabilities and their caregivers across all aging services settings, as specified by the Secretary;
 
 &emsp;&emsp;&emsp;(ii) methods for fostering scientific innovation with respect to aging services technology within the business and academic communities; and
 

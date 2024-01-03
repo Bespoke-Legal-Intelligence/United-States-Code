@@ -69,6 +69,7 @@
 | [2683\.](%C2%A7%2002683%20-%20Assumption%20of%20obligations%20of%20operation%20of%20broadcasting%20facilities.md) | Assumption of obligations of operation of broadcasting facilities. |
 | [2684\.](%C2%A7%2002684%20-%20Capital%20fund%20for%20Department%20of%20State%20to%20centralize%20reproduction%2C%20editorial%2C%20data%20processing%2C%20audiovisual%20and%20other%20services%3B%20maximum%E2%80%A6.md) | Capital fund for Department of State to centralize reproduction, editorial, data processing, audiovisual and other services; maximum amount; operation of fund. |
 | [2684a.](%C2%A7%2002684a%20-%20Capital%20Investment%20Fund.md) | Capital Investment Fund. |
+| [2684b.](%C2%A7%2002684b%20-%20Strengthening%20the%20Chief%20Information%20Officer%20of%20the%20Department%20of%20State.md) | Strengthening the Chief Information Officer of the Department of State. |
 | [2685\.](%C2%A7%2002685%20-%20Reimbursement%20for%20detailed%20State%20Department%20personnel.md) | Reimbursement for detailed State Department personnel. |
 | [2686\.](%C2%A7%2002686%20-%20Review%20of%20world-wide%20supply%2C%20demand%2C%20and%20price%20of%20basic%20raw%20and%20processed%20materials.md) | Review of world-wide supply, demand, and price of basic raw and processed materials. |
 | [2686a.](%C2%A7%2002686a%20-%20Appointment%20of%20Special%20Coordinator%20for%20water%20policy%20negotiations%20and%20water%20resources%20policy.md) | Appointment of Special Coordinator for water policy negotiations and water resources policy. |
@@ -89,8 +90,10 @@
 | [2699\.](%C2%A7%2002699%20-%20Employment%20opportunities%20for%20family%20members.md) | Employment opportunities for family members. |
 | [2700\.](%C2%A7%2002700%20-%20Use%20of%20vehicles.md) | Use of vehicles. |
 | [2701\.](%C2%A7%2002701%20-%20Educational%20facilities.md) | Educational facilities. |
+| [2701a.](%C2%A7%2002701a%20-%20Education%20allowance%20for%20dependents%20of%20Department%20of%20State%20employees%20located%20in%20United%20States%20territories.md) | Education allowance for dependents of Department of State employees located in United States territories. |
 | [2702\.](%C2%A7%2002702%20-%20Malpractice%20protection.md) | Malpractice protection. |
 | [2703\.](%C2%A7%2002703%20-%20Services%20and%20facilities%20for%20employees%20at%20posts%20abroad.md) | Services and facilities for employees at posts abroad. |
+| [2703a.](%C2%A7%2002703a%20-%20Emergency%20back-up%20care.md) | Emergency back-up care. |
 | [2704\.](%C2%A7%2002704%20-%20Subsistence%20expenses.md) | Subsistence expenses. |
 | [2705\.](%C2%A7%2002705%20-%20Documentation%20of%20citizenship.md) | Documentation of citizenship. |
 | [2706\.](%C2%A7%2002706%20-%20Reprograming%20of%20funds%3B%20notice%20requirements.md) | Reprograming of funds; notice requirements. |
@@ -140,14 +143,19 @@
 | [2734e.](%C2%A7%2002734e%20-%20Annual%20Report.md) | Annual Report. |
 | [2734f.](%C2%A7%2002734f%20-%20Strategic%20staffing%20plan%20for%20the%20Department%20of%20State.md) | Strategic staffing plan for the Department of State. |
 | [2734g.](%C2%A7%2002734g%20-%20Promoting%20transparency%20and%20accountability%20in%20the%20Department%20of%20State%20workforce.md) | Promoting transparency and accountability in the Department of State workforce. |
+| [2734h.](%C2%A7%2002734h%20-%20Increased%20accountability%20in%20assignment%20restrictions%20and%20reviews.md) | Increased accountability in assignment restrictions and reviews. |
 | [2735\.](%C2%A7%2002735%20-%20Foreign%20relations%20exchange%20programs.md) | Foreign relations exchange programs. |
+| [2735a.](%C2%A7%2002735a%20-%20Presidential%20Envoy%20for%20the%20Abraham%20Accords%2C%20Negev%20Forum%2C%20and%20Related%20Integration%20and%20Normalization%20Fora%20and%20Agreements.md) | Presidential Envoy for the Abraham Accords, Negev Forum, and Related Integration and Normalization Fora and Agreements. |
 | [2736\.](%C2%A7%2002736%20-%20Exit%20interviews%20for%20workforce.md) | Exit interviews for workforce. |
 | [2736a.](%C2%A7%2002736a%20-%20Recruitment%20and%20retention.md) | Recruitment and retention. |
 | [2736b.](%C2%A7%2002736b%20-%20Leadership%20engagement%20and%20accountability.md) | Leadership engagement and accountability. |
 | [2736c.](%C2%A7%2002736c%20-%20Professional%20development%20opportunities%20and%20tools.md) | Professional development opportunities and tools. |
 | [2736d.](%C2%A7%2002736d%20-%20Payne%20fellowship%20authorization.md) | Payne fellowship authorization. |
 | [2736e.](%C2%A7%2002736e%20-%20Voluntary%20participation.md) | Voluntary participation. |
+| [2736f.](%C2%A7%2002736f%20-%20Efforts%20to%20improve%20retention%20and%20prevent%20retaliation.md) | Efforts to improve retention and prevent retaliation. |
 | [2737\.](%C2%A7%2002737%20-%20Department%20of%20State%20paid%20Student%20Internship%20Program.md) | Department of State paid Student Internship Program. |
+| [2738\.](%C2%A7%2002738%20-%20Mid-Career%20Mentoring%20Program.md) | Mid-Career Mentoring Program. |
+| [2739\.](%C2%A7%2002739%20-%20Civil%20service%20rotational%20program.md) | Civil service rotational program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -224,6 +232,7 @@
 - [&sect; 02683 - Assumption of obligations of operation of broadcasting facilities](%C2%A7%2002683%20-%20Assumption%20of%20obligations%20of%20operation%20of%20broadcasting%20facilities.md)
 - [&sect; 02684 - Capital fund for Department of State to centralize reproduction, editorial, data processing, audiovisual and other services; maximum&#8230;](%C2%A7%2002684%20-%20Capital%20fund%20for%20Department%20of%20State%20to%20centralize%20reproduction%2C%20editorial%2C%20data%20processing%2C%20audiovisual%20and%20other%20services%3B%20maximum%E2%80%A6.md)
 - [&sect; 02684a - Capital Investment Fund](%C2%A7%2002684a%20-%20Capital%20Investment%20Fund.md)
+- [&sect; 02684b - Strengthening the Chief Information Officer of the Department of State](%C2%A7%2002684b%20-%20Strengthening%20the%20Chief%20Information%20Officer%20of%20the%20Department%20of%20State.md)
 - [&sect; 02685 - Reimbursement for detailed State Department personnel](%C2%A7%2002685%20-%20Reimbursement%20for%20detailed%20State%20Department%20personnel.md)
 - [&sect; 02686 - Review of world-wide supply, demand, and price of basic raw and processed materials](%C2%A7%2002686%20-%20Review%20of%20world-wide%20supply%2C%20demand%2C%20and%20price%20of%20basic%20raw%20and%20processed%20materials.md)
 - [&sect; 02686a - Appointment of Special Coordinator for water policy negotiations and water resources policy](%C2%A7%2002686a%20-%20Appointment%20of%20Special%20Coordinator%20for%20water%20policy%20negotiations%20and%20water%20resources%20policy.md)
@@ -244,8 +253,10 @@
 - [&sect; 02699 - Employment opportunities for family members](%C2%A7%2002699%20-%20Employment%20opportunities%20for%20family%20members.md)
 - [&sect; 02700 - Use of vehicles](%C2%A7%2002700%20-%20Use%20of%20vehicles.md)
 - [&sect; 02701 - Educational facilities](%C2%A7%2002701%20-%20Educational%20facilities.md)
+- [&sect; 02701a - Education allowance for dependents of Department of State employees located in United States territories](%C2%A7%2002701a%20-%20Education%20allowance%20for%20dependents%20of%20Department%20of%20State%20employees%20located%20in%20United%20States%20territories.md)
 - [&sect; 02702 - Malpractice protection](%C2%A7%2002702%20-%20Malpractice%20protection.md)
 - [&sect; 02703 - Services and facilities for employees at posts abroad](%C2%A7%2002703%20-%20Services%20and%20facilities%20for%20employees%20at%20posts%20abroad.md)
+- [&sect; 02703a - Emergency back-up care](%C2%A7%2002703a%20-%20Emergency%20back-up%20care.md)
 - [&sect; 02704 - Subsistence expenses](%C2%A7%2002704%20-%20Subsistence%20expenses.md)
 - [&sect; 02705 - Documentation of citizenship](%C2%A7%2002705%20-%20Documentation%20of%20citizenship.md)
 - [&sect; 02706 - Reprograming of funds; notice requirements](%C2%A7%2002706%20-%20Reprograming%20of%20funds%3B%20notice%20requirements.md)
@@ -295,11 +306,16 @@
 - [&sect; 02734e - Annual Report](%C2%A7%2002734e%20-%20Annual%20Report.md)
 - [&sect; 02734f - Strategic staffing plan for the Department of State](%C2%A7%2002734f%20-%20Strategic%20staffing%20plan%20for%20the%20Department%20of%20State.md)
 - [&sect; 02734g - Promoting transparency and accountability in the Department of State workforce](%C2%A7%2002734g%20-%20Promoting%20transparency%20and%20accountability%20in%20the%20Department%20of%20State%20workforce.md)
+- [&sect; 02734h - Increased accountability in assignment restrictions and reviews](%C2%A7%2002734h%20-%20Increased%20accountability%20in%20assignment%20restrictions%20and%20reviews.md)
 - [&sect; 02735 - Foreign relations exchange programs](%C2%A7%2002735%20-%20Foreign%20relations%20exchange%20programs.md)
+- [&sect; 02735a - Presidential Envoy for the Abraham Accords, Negev Forum, and Related Integration and Normalization Fora and Agreements](%C2%A7%2002735a%20-%20Presidential%20Envoy%20for%20the%20Abraham%20Accords%2C%20Negev%20Forum%2C%20and%20Related%20Integration%20and%20Normalization%20Fora%20and%20Agreements.md)
 - [&sect; 02736 - Exit interviews for workforce](%C2%A7%2002736%20-%20Exit%20interviews%20for%20workforce.md)
 - [&sect; 02736a - Recruitment and retention](%C2%A7%2002736a%20-%20Recruitment%20and%20retention.md)
 - [&sect; 02736b - Leadership engagement and accountability](%C2%A7%2002736b%20-%20Leadership%20engagement%20and%20accountability.md)
 - [&sect; 02736c - Professional development opportunities and tools](%C2%A7%2002736c%20-%20Professional%20development%20opportunities%20and%20tools.md)
 - [&sect; 02736d - Payne fellowship authorization](%C2%A7%2002736d%20-%20Payne%20fellowship%20authorization.md)
 - [&sect; 02736e - Voluntary participation](%C2%A7%2002736e%20-%20Voluntary%20participation.md)
+- [&sect; 02736f - Efforts to improve retention and prevent retaliation](%C2%A7%2002736f%20-%20Efforts%20to%20improve%20retention%20and%20prevent%20retaliation.md)
 - [&sect; 02737 - Department of State paid Student Internship Program](%C2%A7%2002737%20-%20Department%20of%20State%20paid%20Student%20Internship%20Program.md)
+- [&sect; 02738 - Mid-Career Mentoring Program](%C2%A7%2002738%20-%20Mid-Career%20Mentoring%20Program.md)
+- [&sect; 02739 - Civil service rotational program](%C2%A7%2002739%20-%20Civil%20service%20rotational%20program.md)

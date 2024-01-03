@@ -60,7 +60,7 @@ Prohibited Basis of Penalty.—The Commission or a court may not order a person 
 
 (e)
 
-Time Limit.—A proceeding to assess a civil penalty or order a refund of money under this section must be commenced within 5 years after the date of the violation.
+Time Limit.—A proceeding to assess a civil penalty or order a refund of money under thissection must be commenced within 5 years after the date of the violation.
 
 (f)
 
@@ -120,7 +120,7 @@ Pub. L. 98–237, §13(c)–(f), Mar. 20, 1984, 98 Stat. 82; Pub. L. 105–258, 
 
 Subsec. (c). Pub. L. 117–146, §15(b), substituted "subsection (a) or (d) of section 41102 or paragraph (1) or (2) of section 41104(a)" for "section 41102(a) or 41104(1) or (2) of this title".
 
-Pub. L. 117–146, §8(a)(2)(B), substituted "or refund of money under subparagraph (A) or (B), respectively, ofsubsection (a)(1) may not be imposed" for "may not be imposed".
+Pub. L. 117–146, §8(a)(2)(B), substituted "or refund of money under subparagraph (A) or (B), respectively, of subsection (a)(1) may not be imposed" for "may not be imposed".
 
 Subsec. (e). Pub. L. 117–146, §8(a)(2)(C), inserted "or order a refund of money" after "penalty".
 

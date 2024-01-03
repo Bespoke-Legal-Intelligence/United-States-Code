@@ -17,6 +17,334 @@
 
 Act June 30, 1949, ch. 288, title VI, §604, formerly title V, §504, 63 Stat. 403, renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583, provided that: "If any provision of this Act \[see Tables for classification\], or the application thereof to any person or circumstances, is held invalid, the remainder of this Act, and the application of such provision to other persons or circumstances, shall not be affected thereby."
 
+#### American Security Drones
+
+Pub. L. 118–31, div. A, title XVIII, subtitle B, Dec. 22, 2023, 137 Stat. 691, provided that:
+
+#### "SEC. 1821. SHORT TITLE.
+
+"This subtitle may be cited as the 'American Security Drone Act of 2023'.
+
+#### "SEC. 1822. DEFINITIONS.
+
+"In this subtitle:
+
+&emsp;"(1)
+
+Covered foreign entity.—The term 'covered foreign entity' means an entity included on a list developed and maintained by the Federal Acquisition Security Council and published in the System for Award Management (SAM). This list will include entities in the following categories:
+
+&emsp;&emsp;"(A) An entity included on the Consolidated Screening List.
+
+&emsp;&emsp;"(B) Any entity that is subject to extrajudicial direction from a foreign government, as determined by the Secretary of Homeland Security.
+
+&emsp;&emsp;"(C) Any entity the Secretary of Homeland Security, in coordination with the Attorney General, Director of National Intelligence, and the Secretary of Defense, determines poses a national security risk.
+
+&emsp;&emsp;"(D) Any entity domiciled in the People's Republic of China or subject to influence or control by the Government of the People's Republic of China or the Communist Party of the People's Republic of China, as determined by the Secretary of Homeland Security.
+
+&emsp;&emsp;"(E) Any subsidiary or affiliate of an entity described in subparagraphs (A) through (D).
+
+&emsp;"(2)
+
+Covered unmanned aircraft system.—The term 'covered unmanned aircraft system' has the meaning given the term 'unmanned aircraft system' in section 44801 of title 49, United States Code.
+
+&emsp;"(3)
+
+Intelligence; intelligence community.—The terms 'intelligence' and 'intelligence community' have the meanings given those terms in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+
+#### "SEC. 1823. PROHIBITION ON PROCUREMENT OF COVERED UNMANNED AIRCRAFT SYSTEMS FROM COVERED FOREIGN ENTITIES.
+
+"(a)
+
+In General.—Except as provided under subsections (b) through (f), the head of an executive agency may not procure any covered unmanned aircraft system that is manufactured or assembled by a covered foreign entity, which includes associated elements related to the collection and transmission of sensitive information (consisting of communication links and the components that control the unmanned aircraft) that enable the operator to operate the aircraft in the National Airspace System. The Federal Acquisition Security Council, in coordination with the Secretary of Transportation, shall develop and update a list of associated elements.
+
+"(b)
+
+Exemption.—The Secretary of Homeland Security, the Secretary of Defense, the Secretary of State, and the Attorney General are exempt from the restriction under subsection (a) if the procurement is required in the national interest of the United States and—
+
+&emsp;"(1) is for the sole purposes of research, evaluation, training, testing, or analysis for electronic warfare, information warfare operations, cybersecurity, or development of unmanned aircraft system or counter-unmanned aircraft system technology;
+
+&emsp;"(2) is for the sole purposes of conducting counterterrorism or counterintelligence activities, protective missions, or Federal criminal or national security investigations, including forensic examinations, or for electronic warfare, information warfare operations, cybersecurity, or development of an unmanned aircraft system or counter-unmanned aircraft system technology; or
+
+&emsp;"(3) is an unmanned aircraft system that, as procured or as modified after procurement but before operational use, can no longer transfer to, or download data from, a covered foreign entity and otherwise poses no national security cybersecurity risks as determined by the exempting official.
+
+"(c)
+
+Department of Transportation and Federal Aviation Administration Exemption.—The Secretary of Transportation is exempt from the restriction under subsection (a) if the operation or procurement is deemed to support the safe, secure, or efficient operation of the National Airspace System or maintenance of public safety, including activities carried out underthe Federal Aviation Administration's Alliance for System Safety of UAS through Research Excellence (ASSURE) Center of Excellence (COE) and any other activity deemed to support the safe, secure, or efficient operation of the National Airspace System or maintenance of public safety, as determined by the Secretary or the Secretary's designee.
+
+"(d)
+
+National Transportation Safety Board Exemption.—The National Transportation Safety Board, in consultation with the Secretary of Homeland Security, is exempt from the restriction under subsection (a) if the operation or procurement is necessary for the sole purpose of conducting safety investigations.
+
+"(e)
+
+National Oceanic and Atmospheric Administration Exemption.—The Administrator of the National Oceanic and Atmospheric Administration (NOAA), in consultation with the Secretary of Homeland Security, is exempt from the restriction under subsection (a) if the procurement is necessary for the purpose of meeting NOAA's science or management objectives or operational mission.
+
+"(f)
+
+Waiver.—The head of an executive agency may waive the prohibition under subsection (a) on a case-by-case basis—
+
+&emsp;"(1) with the approval of the Director of the Office of Management and Budget, after consultation with the Federal Acquisition Security Council; and
+
+&emsp;"(2) upon notification to—
+
+&emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+&emsp;&emsp;"(B) the Committee on Oversight and Accountability in the House of Representatives; and
+
+&emsp;&emsp;"(C) other appropriate congressional committees of jurisdiction.
+
+#### "SEC. 1824. PROHIBITION ON OPERATION OF COVERED UNMANNED AIRCRAFT SYSTEMS FROM COVERED FOREIGN ENTITIES.
+
+"(a)
+
+Prohibition.—
+
+&emsp;"(1)
+
+In general.—Beginning on the date that is two years after the date of the enactment of this Act \[Dec. 22, 2023\], no Federal department or agency may operate a covered unmanned aircraft system manufactured or assembled by a covered foreign entity.
+
+&emsp;"(2)
+
+Applicability to contracted services.—The prohibition under paragraph (1) applies to any covered unmanned aircraft systems that are being used by any executive agency through the method of contracting for the services of covered unmanned aircraft systems.
+
+"(b)
+
+Exemption.—The Secretary of Homeland Security, the Secretary of Defense, the Secretary of State, and the Attorney General are exempt from the restriction under subsection (a) if the operation is required in the national interest of the United States and—
+
+&emsp;"(1) is for the sole purposes of research, evaluation, training, testing, or analysis for electronic warfare, information warfare operations, cybersecurity, or development of unmanned aircraft system or counter-unmanned aircraft system technology;
+
+&emsp;"(2) is for the sole purposes of conducting counterterrorism or counterintelligence activities, protective missions, or Federal criminal or national security investigations, including forensic examinations, or for electronic warfare, information warfare operations, cybersecurity, or development of an unmanned aircraft system or counter-unmanned aircraft system technology; or
+
+&emsp;"(3) is an unmanned aircraft system that, as procured or as modified after procurement but before operational use, can no longer transfer to, or download data from, a covered foreign entity and otherwise poses no national security cybersecurity risks as determined by the exempting official.
+
+"(c)
+
+Department of Transportation and Federal Aviation Administration Exemption.—The Secretary of Transportation is exempt from the restriction under subsection (a) if the operation is deemed to support the safe, secure, or efficient operation of the National Airspace System or maintenance of public safety, including activities carried out under the Federal Aviation Administration's Alliance for System Safety of UAS through Research Excellence (ASSURE) Center of Excellence (COE) and any other activity deemed to support the safe, secure, or efficient operation of the National Airspace System or maintenance of public safety, as determined by the Secretary or the Secretary's designee.
+
+"(d)
+
+National Transportation Safety Board Exemption.—The National Transportation Safety Board, in consultation with the Secretary of Homeland Security, is exempt from the restriction under subsection (a) if the operation is necessary for the sole purpose of conducting safety investigations.
+
+"(e)
+
+National Oceanic and Atmospheric Administration Exemption.—The Administrator of the National Oceanic and Atmospheric Administration (NOAA), in consultation with the Secretary of Homeland Security, is exempt from the restriction under subsection (a) if the procurement is necessary for the purpose of meeting NOAA's science or management objectives or operational mission.
+
+"(f)
+
+Waiver.—The head of an executive agency may waive the prohibition under subsection (a) on a case-by-case basis—
+
+&emsp;"(1) with the approval of the Director of the Office of Management and Budget, after consultation with the Federal Acquisition Security Council; and
+
+&emsp;"(2) upon notification to—
+
+&emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+&emsp;&emsp;"(B) the Committee on Oversight and Accountability in the House of Representatives; and
+
+&emsp;&emsp;"(C) other appropriate congressional committees of jurisdiction.
+
+"(g)
+
+Regulations and Guidance.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Homeland Security, in consultation with the Attorney General and the Secretary of Transportation, shall prescribe regulations or guidance to implement this section.
+
+#### "SEC. 1825. PROHIBITION ON USE OF FEDERAL FUNDS FOR PROCUREMENT AND OPERATION OF COVERED UNMANNED AIRCRAFT SYSTEMS FROM COVERED FOREIGN ENTITIES.
+
+"(a)
+
+In General.—Beginning on the date that is two years after the date of the enactment of this Act \[Dec. 22, 2023\], except as provided in subsection (b), no Federal funds awarded through a contract, grant, or cooperative agreement, or otherwise made available may be used—
+
+&emsp;"(1) to procure a covered unmanned aircraft system that is manufactured or assembled by a covered foreign entity; or
+
+&emsp;"(2) in connection with the operation of such a drone or unmanned aircraft system.
+
+"(b)
+
+Exemption.—The Secretary of Homeland Security, the Secretary of Defense, the Secretary of State, and the Attorney General are exempt from the restriction under subsection (a) if the procurement or operation is required in the national interest of the United States and—
+
+&emsp;"(1) is for the sole purposes of research, evaluation, training, testing, or analysis for electronic warfare, information warfare operations, cybersecurity, or development of unmanned aircraft system or counter-unmanned aircraft system technology;
+
+&emsp;"(2) is for the sole purposes of conducting counterterrorism or counterintelligence activities, protective missions, or Federal criminal or national security investigations, including forensic examinations, or for electronic warfare, information warfare operations, cybersecurity, or development of an unmanned aircraft system or counter-unmanned aircraft system technology; or
+
+&emsp;"(3) is an unmanned aircraft system that, as procured or as modified after procurement but before operational use, can no longer transfer to, or download data from, a covered foreign entity and otherwise poses no national security cybersecurity risks as determined by the exempting official.
+
+"(c)
+
+Department of Transportation and Federal Aviation Administration Exemption.—The Secretary of Transportation is exempt from the restriction under subsection (a) if the operation or procurement is deemed to support the safe, secure, or efficient operation of the National Airspace System or maintenance of public safety, including activities carried out under the Federal Aviation Administration's Alliance for System Safety of UAS through Research Excellence (ASSURE) Center of Excellence (COE) and any other activity deemed to support the safe, secure, or efficient operation of the National Airspace System or maintenance of public safety, as determined by the Secretary or the Secretary's designee.
+
+"(d)
+
+National Oceanic and Atmospheric Administration Exemption.—The Administrator of the National Oceanic and Atmospheric Administration (NOAA), in consultation with the Secretary of Homeland Security, is exempt from the restriction under subsection (a) if the operation or procurement is necessary for the purpose of meeting NOAA's science or management objectives or operational mission.
+
+"(e)
+
+Waiver.—The head of an executive agency may waive the prohibition under subsection (a) on a case-by-case basis—
+
+&emsp;"(1) with the approval of the Director of the Office of Management and Budget, after consultation with the Federal Acquisition Security Council; and
+
+&emsp;"(2) upon notification to—
+
+&emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+&emsp;&emsp;"(B) the Committee on Oversight and Accountability in the House of Representatives; and
+
+&emsp;&emsp;"(C) other appropriate congressional committees of jurisdiction.
+
+"(f)
+
+Regulations.—Not later than 180 days after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall prescribe regulations or guidance, as necessary, to implement the requirements of this section pertaining to Federal contracts.
+
+#### "SEC. 1826. PROHIBITION ON USE OF GOVERNMENT-ISSUED PURCHASE CARDS TO PURCHASE COVERED UNMANNED AIRCRAFT SYSTEMS FROM COVERED FOREIGN ENTITIES.
+
+"Effective immediately, Government-issued Purchase Cards may not be used to procure any covered unmanned aircraft system from a covered foreign entity.
+
+#### "SEC. 1827. MANAGEMENT OF EXISTING INVENTORIES OF COVERED UNMANNED AIRCRAFT SYSTEMS FROM COVERED FOREIGN ENTITIES.
+
+"(a)
+
+In General.—All executive agencies must account for existing inventories of covered unmanned aircraft systems manufactured or assembled by a covered foreign entity in their personal property accounting systems, within one year of the date of enactment of this Act \[Dec. 22, 2023\], regardless of the original procurement cost, or the purpose of procurement due to the special monitoring and accounting measures necessary to track the items' capabilities.
+
+"(b)
+
+Classified Tracking.—Due to the sensitive nature of missions and operations conducted by the United States Government, inventory data related to covered unmanned aircraft systems manufactured or assembled by a covered foreign entity may be tracked at a classified level, as determined by the Secretary of Homeland Security or the Secretary's designee.
+
+"(c)
+
+Exceptions.—The Department of Defense, the Department of Homeland Security, the Department of Justice, the Department of Transportation, and the National Oceanic and Atmospheric Administration may exclude from the full inventory process, covered unmanned aircraft systems that are deemed expendable due to mission risk such as recovery issues, or that are one-time-use covered unmanned aircraft due to requirements and low cost.
+
+"(d)
+
+Intelligence Community Exception.—Nothing in this section shall apply to any element of the intelligence community.
+
+#### "SEC. 1828. COMPTROLLER GENERAL REPORT.
+
+"Not later than 275 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Comptroller General of the United States shall submit to Congress a report on the amount of commercial off-the-shelf drones and covered unmanned aircraft systems procured by Federal departments and agencies from covered foreign entities, except that nothing in this section shall apply to any element of the intelligence community.
+
+#### "SEC. 1829. GOVERNMENT-WIDE POLICY FOR PROCUREMENT OF UNMANNED AIRCRAFT SYSTEMS.
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act, the Director of the Office of Management and Budget, in coordination with the Department of Homeland Security, Department of Transportation, the Department of Justice, and other Departments as determined by the Director of the Office of Management and Budget, and in consultation with the National Institute of Standards and Technology, shall establish a government-wide policy for the procurement of an unmanned aircraft system—
+
+&emsp;"(1) for non-Department of Defense and non-intelligence community operations; and
+
+&emsp;"(2) through grants and cooperative agreements entered into with non-Federal entities.
+
+"(b)
+
+Information Security.—The policy developed under subsection (a) shall include the following specifications, which to the extent practicable, shall be based on industry standards and technical guidance from the National Institute of Standards and Technology, to address the risks associated with processing, storing, and transmitting Federal information in an unmanned aircraft system:
+
+&emsp;"(1) Protections to ensure controlled access to an unmanned aircraft system.
+
+&emsp;"(2) Protecting software, firmware, and hardware by ensuring changes to an unmanned aircraft system are properly managed, including by ensuring an unmanned aircraft system can be updated using a secure, controlled, and configurable mechanism.
+
+&emsp;"(3) Cryptographically securing sensitive collected, stored, and transmitted data, including proper handling of privacy data and other controlled unclassified information.
+
+&emsp;"(4) Appropriate safeguards necessary to protect sensitive information, including during and after use of an unmanned aircraft system.
+
+&emsp;"(5) Appropriate data security to ensure that data is not transmitted to or stored in non-approved locations.
+
+&emsp;"(6) The ability to opt out of the uploading, downloading, or transmitting of data that is not required by law or regulation and an ability to choose with whom and where information is shared when it is required.
+
+"(c)
+
+Requirement.—The policy developed under subsection (a) shall reflect an appropriate risk-based approach to information security related to use of an unmanned aircraft system.
+
+"(d)
+
+Revision of Acquisition Regulations.—Not later than 180 days after the date on which the policy required under subsection (a) is issued—
+
+&emsp;"(1) the Federal Acquisition Regulatory Council shall revise the Federal Acquisition Regulation, as necessary, to implement the policy; and
+
+&emsp;"(2) any Federal department or agency or other Federal entity not subject to, or not subject solely to, the Federal Acquisition Regulation shall revise applicable policy, guidance, or regulations, as necessary, to implement the policy.
+
+"(e)
+
+Exemption.—In developing the policy required under subsection (a), the Director of the Office of Management and Budget shall—
+
+&emsp;"(1) incorporate policies to implement the exemptions contained in this subtitle; and
+
+&emsp;"(2) incorporate an exemption to the policy in the case of a head of the procuring department or agency determining, in writing, that no product that complies with the information security requirements described in subsection (b) is capable of fulfilling mission critical performance requirements, and such determination—
+
+&emsp;&emsp;"(A) may not be delegated below the level of the Deputy Secretary, or Administrator, of the procuring department or agency;
+
+&emsp;&emsp;"(B) shall specify—
+
+&emsp;&emsp;&emsp;"(i) the quantity of end items to which the waiver applies and the procurement value of those items; and
+
+&emsp;&emsp;&emsp;"(ii) the time period over which the waiver applies, which shall not exceed three years;
+
+&emsp;&emsp;"(C) shall be reported to the Office of Management and Budget following issuance of such a determination; and
+
+&emsp;&emsp;"(D) not later than 30 days after the date on which the determination is made, shall be provided to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives.
+
+#### "SEC. 1830. STATE, LOCAL, AND TERRITORIAL LAW ENFORCEMENT AND EMERGENCY SERVICE EXEMPTION.
+
+"(a)
+
+Rule of Construction.—Nothing in this subtitle shall prevent a State, local, or territorial law enforcement or emergency service agency from procuring or operating a covered unmanned aircraft system purchased with non-Federal dollars.
+
+"(b)
+
+Continuity of Arrangements.—The Federal Government may continue entering into contracts, grants, and cooperative agreements or other Federal funding instruments with State, local, or territorial law enforcement or emergency service agencies under which a covered unmanned aircraft system will be purchased or operated if the agency has received approval or waiver to purchase or operate a covered unmanned aircraft system pursuant to section 1825.
+
+#### "SEC. 1831. STUDY.
+
+"(a)
+
+Study on the Supply Chain for Unmanned Aircraft Systems and Components.—
+
+&emsp;"(1)
+
+Report required.—Not later than one year after the date of the enactment of this Act \[Dec. 22, 2023\], the Under Secretary of Defense for Acquisition and Sustainment shall provide to the appropriate congressional committees a report on the supply chain for covered unmanned aircraft systems, including a discussion of current and projected future demand for covered unmanned aircraft systems.
+
+&emsp;"(2)
+
+Elements.—The report under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A description of the current and future global and domestic market for covered unmanned aircraft systems that are not widely commercially available except from a covered foreign entity.
+
+&emsp;&emsp;"(B) A description of the sustainability, availability, cost, and quality of secure sources of covered unmanned aircraft systems domestically and from sources in allied and partner countries.
+
+&emsp;&emsp;"(C) The plan of the Secretary of Defense to address any gaps or deficiencies identified in subparagraph (B), including through the use of funds available under the Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) and partnerships with the National Aeronautics and Space Administration and other interested persons.
+
+&emsp;&emsp;"(D) Such other information as the Under Secretary of Defense for Acquisition and Sustainment determines to be appropriate.
+
+&emsp;"(3)
+
+Appropriate congressional committees defined.—In this section, the term 'appropriate congressional committees' means the following:
+
+&emsp;&emsp;"(A) The Committees on Armed Services of the Senate and the House of Representatives.
+
+&emsp;&emsp;"(B) The Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives.
+
+&emsp;&emsp;"(C) The Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+
+&emsp;&emsp;"(D) The Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;&emsp;"(E) The Committee on Transportation and Infrastructure of the House of Representatives.
+
+&emsp;&emsp;"(F) The Committee on Homeland Security of the House of Representatives.
+
+&emsp;&emsp;"(G) The Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+#### "SEC. 1832. EXCEPTIONS.
+
+"(a)
+
+Exception for Wildfire Management Operations and Search and Rescue Operations.—The appropriate Federal agencies, in consultation with the Secretary of Homeland Security, are exempt from the procurement and operation restrictions under sections 1823, 1824, and 1825 to the extent the procurement or operation is necessary for the purpose of supporting the full range of wildfire management operations or search and rescue operations.
+
+"(b)
+
+Exception for Intelligence Activities.—Sections 1823, 1824, and 1825 shall not apply to any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.), any authorized intelligence activities of the United States, or any activity or procurement that supports an authorized intelligence activity.
+
+"(c)
+
+Exception for Tribal Law Enforcement or Emergency Service Agency.—Tribal law enforcement or Tribal emergency service agencies, in consultation with the Secretary of Homeland Security, are exempt from the procurement, operation, and purchase restrictions under sections 1823, 1824, and 1825 to the extent the procurement or operation is necessary for the purpose of supporting the full range of law enforcement operations or search and rescue operations on Indian lands.
+
+#### "SEC. 1833. SUNSET.
+
+"Sections 1823, 1824, and 1825 shall cease to have effect on the date that is five years after the date of the enactment of this Act \[Dec. 22, 2023\]."
+
 #### Prohibition on Certain Telecommunications and Video Surveillance Services or Equipment
 
 Pub. L. 115–232, div. A, title VIII, §889, Aug. 13, 2018, 132 Stat. 1917, as amended by Pub. L. 116–283, div. A, title X, §1081(d)(5), Jan. 1, 2021, 134 Stat. 3874, provided that:
@@ -25,7 +353,7 @@ Pub. L. 115–232, div. A, title VIII, §889, Aug. 13, 2018, 132 Stat. 1917, as 
 
 Prohibition on Use or Procurement.—(1) The head of an executive agency may not—
 
-&emsp;"(A) procure or obtain or extend or renew a contract to procure or obtain any equipment, system, orservice that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system; or
+&emsp;"(A) procure or obtain or extend or renew a contract to procure or obtain any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system; or
 
 &emsp;"(B) enter into a contract (or extend or renew a contract) with an entity that uses any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system.
 
@@ -77,7 +405,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;&emsp;"(A) the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives.
 
 &emsp;"(2)
 
@@ -121,7 +449,7 @@ Authority To Enter Into Share-in-Savings Contracts.—(1) The head of an executi
 
 "(4) Contracts awarded pursuant to the authority of this section shall include a provision containing a quantifiable baseline that is to be the basis upon which a savings share ratio is established that governs the amount of payment a contractor is to receive under the contract. Before commencement of performance of such a contract, the senior procurement executive of the agency shall determine in writing that the terms of the provision are quantifiable and will likely yield value to the Government.
 
-"(5)(A) The head of the agency may retain savings realized through the use of a share-in-savings contract under this section that are in excess of the total amount of savings paid to the contractor under the contract, but may not retain any portion of such savings that is attributable to a decrease in the number of civilian employees of the Federal Government performing the function. Except as provided in subparagraph (B), savings shall be credited to the appropriation or fund against which charges were made to carry out the contract and shall be used for information technology.
+"(5)(A) The head of the agency may retain savings realized through the use of a share-in-savings contractunder this section that are in excess of the total amount of savings paid to the contractor under the contract, but may not retain any portion of such savings that is attributable to a decrease in the number of civilian employees of the Federal Government performing the function. Except as provided in subparagraph (B), savings shall be credited to the appropriation or fund against which charges were made to carry out the contract and shall be used for information technology.
 
 "(B) Amounts retained by the agency under this subsection shall—
 
@@ -243,7 +571,7 @@ Sec. 9. <i>Cooperation</i>. Each contracting department and agency shall coopera
 
 Sec. 10. <i>Sufficiency of Remedies</i>. If the Secretary finds that the authority vested in the Secretary by sections 5 through 9 of this order is not sufficient to effectuate the purposes of this order, the Secretary shall develop recommendations on how better to effectuate those purposes.
 
-Sec. 11. <i>Delegation</i>. The Secretary may, in accordance with law, delegate any function or duty of the Secretary under this order to any officer in the Department of Labor or to any other officer in the executive branch of the Government, with the consent of the head of the department or agency in which that officer serves.
+Sec. 11. <i>Delegation</i>. The Secretary may, in accordance with law, delegate any function or duty of the Secretary under this order to any officer in the Department of Labor or to any other officer in the executive branch of the Government, with the consent of thehead of the department or agency in which that officer serves.
 
 Sec. 12. <i>Implementation</i>. To the extent permitted by law, the Federal Acquisition Regulatory Council (FAR Council) shall take whatever action is required to implement in the Federal Acquisition Regulation (FAR) the provisions of this order and any related rules, regulations, or orders issued by the Secretary under this order and shall amend the FAR to require each solicitation of offers for a contract to include a provision that implements section 2 of this order.
 
@@ -309,7 +637,7 @@ Sec. 4. Any project labor agreement reached pursuant to this order shall:
 
 Sec. 5. This order does not require an executive agency to use a project labor agreement on any construction project, nor does it preclude the use of a project labor agreement in circumstances not covered by this order, including leasehold arrangements and projects receiving Federal financial assistance. This order also does not require contractors or subcontractors to enter into a project labor agreement with any particular labor organization.
 
-Sec. 6. Within 120 days of the date of this order, the Federal Acquisition Regulatory Council (FAR Council), to the extent permitted by law, shall take whatever action is required to amend the Federal Acquisition Regulation to implement the provisions of this order.
+Sec. 6. Within 120 days of the date of this order, the Federal Acquisition Regulatory Council (FAR Council),to the extent permitted by law, shall take whatever action is required to amend the Federal Acquisition Regulation to implement the provisions of this order.
 
 Sec. 7. The Director of OMB, in consultation with the Secretary of Labor and with other officials as appropriate, shall provide the President within 180 days of this order, recommendations about whether broader use of project labor agreements, with respect to both construction projects undertaken under Federal contracts and construction projects receiving Federal financial assistance, would help to promote the economical, efficient, and timely completion of such projects.
 
@@ -361,7 +689,7 @@ Sec. 2. <i>Reviewing Federal Government Authority to Limit Government Procuremen
 
 Sec. 3. <i>Reviewing Federal Government Use of UAS</i>. (a) Within 60 days of the date of this order \[Jan. 18, 2021\], the heads of all agencies shall each submit a report to the Director of National Intelligence and the Director of the Office of Science and Technology Policy describing the manufacturer, model, and any relevant security protocols for all UAS currently owned or operated by their respective agency, or controlled by their agency through a third party, such as a contractor, that are manufactured by foreign adversaries or have significant components that are manufactured by foreign adversaries.
 
-(b) Within 180 days of the date of this order, the Director of National Intelligence, in consultation with the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, the Director of the Office of Science and Technology Policy, and the heads of other agencies, as appropriate, shall review the reports required by subsection (a) of this section and submit a report to the President assessing the security risks posed by the existing Federal UAS fleet and outlining potential steps that could be taken to mitigate these risks, including, if warranted, discontinuing all Federaluse of covered UAS and the expeditious removal of UAS from Federal service.
+(b) Within 180 days of the date of this order, the Director of National Intelligence, in consultation with the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, the Director of the Office of Science and Technology Policy, and the heads of other agencies, as appropriate, shall review the reports required by subsection (a) of this section and submit a report to the President assessing the security risks posed by the existing Federal UAS fleet and outlining potential steps that could be taken to mitigate these risks, including, if warranted, discontinuing all Federal use of covered UAS and the expeditious removal of UAS from Federal service.
 
 Sec. 4. <i>Restricting Use of UAS On or Over Critical Infrastructure or Other Sensitive Sites</i>. Within 270 days of the date of this order, the Administrator of the Federal Aviation Administration (FAA) shall propose regulations pursuant to section 2209 of the FAA Extension, Safety, and Security Act of 2016 (Public Law 114–190) \[49 U.S.C. 44802 note\].
 
@@ -371,7 +699,7 @@ Sec. 5. <i>Budget</i>. (a) The heads of all agencies shall consider the replacem
 
 Sec. 6. <i>Definitions</i>. For purposes of this order, the following definitions shall apply:
 
-(a) The term "adversary country" means the Democratic People's Republic of Korea, the Islamic Republic of Iran, the People's Republic of China, the Russian Federation, or, as determined by the Secretary of Commerce, any other foreign nation, foreign area, or foreign non-government entity engaging in long-term patterns or serious instances of conduct significantly adverse to the national or economic security of the United States.
+(a) The term "adversary country" means the Democratic People's Republic of Korea, the Islamic Republicof Iran, the People's Republic of China, the Russian Federation, or, as determined by the Secretary of Commerce, any other foreign nation, foreign area, or foreign non-government entity engaging in long-term patterns or serious instances of conduct significantly adverse to the national or economic security of the United States.
 
 (b) The term "covered UAS" means any UAS that:
 
@@ -481,7 +809,7 @@ Sec. 10. <i>Revocation of Prior Orders, Rules, and Regulations</i>. Executive Or
 
 Sec. 11. <i>Severability</i>. If any provision of this order, or the application of such provision to any person or circumstance, is held to be invalid, the remainder of this order and its application to any other person or circumstance shall not be affected thereby.
 
-Sec. 12. <i>Effective Date</i>. This order shall be effective immediately and shall apply to all solicitations for contracts issued on or after the effective date of the final regulations issued by the FAR Council under section 8(a) of this order. For solicitations issued between the date of this order and the effective date of the final regulations issued by the FAR Council under section 8(a) of this order, or solicitations that have already been issued and are outstanding as of the date of this order, agencies are strongly encouraged, to the extent permitted by law, to comply with this order.
+Sec. 12. <i>Effective Date</i>. This order shall be effective immediately and shall apply to all solicitations for contracts issued on or after the effective date of the final regulations issued by the FAR Council under section 8(a) of this order \[Jan. 22, 2024, see 88 F.R. 88707\]. For solicitations issued between the date of this order and the effective date of the final regulations issued by the FAR Council under section 8(a) of this order, or solicitations that have already been issued and are outstanding as of the date of this order, agencies are strongly encouraged, to the extent permitted by law, to comply with this order.
 
 Sec. 13. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

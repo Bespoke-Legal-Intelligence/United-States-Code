@@ -126,6 +126,8 @@
 | [<b>108.</b>](Chapter%20108%20-%20Global%20Magnitsky%20Human%20Rights%20Accountability/README.md) | <b>Global Magnitsky Human Rights Accountability</b> | <b>10101</b> |
 | [<b>109.</b>](Chapter%20109%20-%20Burma%20Unified%20Through%20Rigorous%20Military%20Accountability/README.md) | <b>Burma Unified through Rigorous Military Accountability</b> | <b>10201</b> |
 | [<b>110.</b>](Chapter%20110%20-%20Information%20Security%20and%20Cyber%20Diplomacy/README.md) | <b>Information Security and Cyber Diplomacy</b> | <b>10301</b> |
+| [<b>111.</b>](Chapter%20111%20-%20Australia%2C%20United%20Kingdom%2C%20and%20United%20States%20%28AUKUS%29%20Security%20Partnership/README.md) | <b>Australia, United Kingdom, and United States (AUKUS) Security Partnership</b> | <b>10401</b> |
+| [<b>112.</b>](Chapter%20112%20-%20Combating%20Global%20Corruption/README.md) | <b>Combating Global Corruption</b> | <b>10501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -257,3 +259,5 @@
 - [Chapter 108 - Global Magnitsky Human Rights Accountability](Chapter%20108%20-%20Global%20Magnitsky%20Human%20Rights%20Accountability/README.md)
 - [Chapter 109 - Burma Unified Through Rigorous Military Accountability](Chapter%20109%20-%20Burma%20Unified%20Through%20Rigorous%20Military%20Accountability/README.md)
 - [Chapter 110 - Information Security and Cyber Diplomacy](Chapter%20110%20-%20Information%20Security%20and%20Cyber%20Diplomacy/README.md)
+- [Chapter 111 - Australia, United Kingdom, and United States (AUKUS) Security Partnership](Chapter%20111%20-%20Australia%2C%20United%20Kingdom%2C%20and%20United%20States%20%28AUKUS%29%20Security%20Partnership/README.md)
+- [Chapter 112 - Combating Global Corruption](Chapter%20112%20-%20Combating%20Global%20Corruption/README.md)

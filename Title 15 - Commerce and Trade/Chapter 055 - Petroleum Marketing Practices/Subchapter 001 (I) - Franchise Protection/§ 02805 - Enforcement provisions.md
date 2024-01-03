@@ -2,7 +2,7 @@
 
 #### (a) Maintenance of civil action by franchisee against franchisor; jurisdiction and venue; time for commencement of action
 
-If a franchisor fails to comply with the requirements of section 2802, 2803, or 2807 of this title, the franchisee may maintain a civil action against such franchisor. Such action may be brought, without regard to the amount in controversy, in the district court of the United States in any judicial district in which the principal place of business of such franchisor is located or in which such franchisee is doing business, except that no such action may be maintained unless commenced within 1 year after the later of—
+If a franchisor fails to comply with the requirements of section 2802, 2803, or 2807 of thistitle, the franchisee may maintain a civil action against such franchisor. Such action may be brought, without regard to the amount in controversy, in the district court of the United States in any judicial district in which the principal place of business of such franchisor is located or in which such franchisee is doing business, except that no such action may be maintained unless commenced within 1 year after the later of—
 
 &emsp;(1) the date of termination of the franchise or nonrenewal of the franchise relationship; or
 
@@ -34,7 +34,7 @@ If a franchisor fails to comply with the requirements of section 2802, 2803, or 
 
 #### (c) Burden of proof; burden of going forward with evidence
 
-In any action under subsection (a), the franchisee shall have the burden of proving thetermination of the franchise or the nonrenewal of the franchise relationship. The franchisor shall bear the burden of going forward with evidence to establish as an affirmative defense that such termination or nonrenewal was permitted under section 2802(b) or 2803 of this title, and, if applicable, that such franchisor complied with the requirements of section 2802(d) of this title.
+In any action under subsection (a), the franchisee shall have the burden of proving the termination of the franchise or the nonrenewal of the franchise relationship. The franchisor shall bear the burden of going forward with evidence to establish as an affirmative defense that such termination or nonrenewal was permitted under section 2802(b) or 2803 of this title, and, if applicable, that such franchisor complied with the requirements of section 2802(d) of this title.
 
 #### (d) Actual and exemplary damages and attorney and expert witness fees to franchisee; determination by court of right to exemplary damages and amount; attorney and expert witness fees to franchisor for frivolous actions
 
@@ -64,7 +64,7 @@ In any action under subsection (a), the franchisee shall have the burden of prov
 
 &emsp;&emsp;(iv) to withdraw from the marketing of motor fuel through retail outlets in the relevant geographic market area in which the marketing premises are located, or
 
-&emsp;&emsp;(v) that renewal of the franchise relationship is likely to be uneconomical to the franchisor despite any reasonable changes or reasonable additions to the provisions of the franchise which may be acceptable to the franchisee; and
+&emsp;&emsp;(v) that renewal of the franchise relationship is likely to be uneconomical to the franchisor despite any reasonable changes or reasonable additions to the provisions of thefranchise which may be acceptable to the franchisee; and
 
 &emsp;(B) the requirements of section 2804 of this title have been complied with.
 

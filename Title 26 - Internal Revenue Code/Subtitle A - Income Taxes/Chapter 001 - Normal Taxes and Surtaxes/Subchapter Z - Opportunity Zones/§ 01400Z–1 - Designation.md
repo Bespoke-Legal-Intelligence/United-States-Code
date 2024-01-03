@@ -24,7 +24,7 @@ For the purposes of this subchapter, the term "qualified opportunity zone" means
 
 #### (3) Special rule for Puerto Rico
 
-&emsp;Each population census tract in Puerto Rico that is a low-income community shall be deemed to be certified and designated as aqualified opportunity zone, effective on the date of the enactment of Public Law 115–97.
+&emsp;Each population census tract in Puerto Rico that is a low-income community shall be deemed to be certified and designated as a qualified opportunity zone, effective on the date of the enactment of Public Law 115–97.
 
 #### (c) Other definitions
 

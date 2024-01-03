@@ -18,7 +18,7 @@ The Secretary shall make the following 2 types of awards in accordance with this
 
 #### (A) Infrastructure development
 
-&emsp;&emsp;For purposes of subsection (a)(1), the term "eligible entity" means a school of medicine or osteopathic medicine, an incorporated consortium of such schools, or the parent institutions of such a school. With respect to a State in which no area health education center program is in operation, the Secretary may award a grant or contract under subsection (a)(1) to a school of nursing.
+&emsp;&emsp;For purposes of subsection (a)(1), the term "eligible entity" means a school of medicine or osteopathic medicine, an incorporated consortium of such schools, or the parent institutions of such a school. With respect toa State in which no area health education center program is in operation, the Secretary may award a grant or contract under subsection (a)(1) to a school of nursing.
 
 #### (B) Point of service maintenance and enhancement
 
@@ -42,7 +42,7 @@ The Secretary shall make the following 2 types of awards in accordance with this
 
 &emsp;&emsp;(D) Conduct and participate in interdisciplinary training that involves physicians, physician assistants, nurse practitioners, nurse midwives, dentists, psychologists, pharmacists, optometrists, community health workers, public and allied health professionals, or other health professionals, as practicable.
 
-&emsp;&emsp;(E) Deliver or facilitate continuing education and information dissemination programs for health care professionals, with an emphasis on individuals providing care inunderserved areas and for health disparity populations.
+&emsp;&emsp;(E) Deliver or facilitate continuing education and information dissemination programs for health care professionals, with an emphasis on individuals providing care in underserved areas and for health disparity populations.
 
 &emsp;&emsp;(F) Propose and implement effective program and outcomes measurement and evaluation strategies.
 
@@ -100,7 +100,7 @@ Not less than 75 percent of the total amount provided to an area health educatio
 
 #### (g) Award
 
-An award to an entity under this section shall be not less than $250,000 annually per areahealth education center included in the program involved. If amounts appropriated to carry out this section are not sufficient to comply with the preceding sentence, the Secretary may reduce the per center amount provided for in such sentence as necessary, provided the distribution established in subsection (j)(2) is maintained.
+An award to an entity under this section shall be not less than $250,000 annually per area health education center included in the program involved. If amounts appropriated to carry out this section are not sufficient to comply with the preceding sentence, the Secretary may reduce the per center amount provided for in such sentence as necessary, provided the distribution established in subsection (j)(2) is maintained.
 
 #### (h) Project terms
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 #### Waiver of Requirements
 
-Pub. L. 117–328, div. H, title II, Dec. 29, 2022, 136 Stat. 4854, provided in part: "That for any program operating under section 751 of the PHS \[Public Health Service\] Act on or before January 1, 2009, the Secretary of Health and Human Services (referred to in this title as the 'Secretary') may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section".
+Pub. L. 117–328, div. H, title II, Dec. 29, 2022, 136 Stat. 4854, provided in part: "That for any program operating under section 751 of the PHS \[Public Health Service\] Act \[42 U.S.C. 294a\] on or before January 1, 2009, the Secretary of Health and Human Services (referred to in this title as the 'Secretary') may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section".
 
 Similar provisions were contained in the following prior appropriation acts:
 

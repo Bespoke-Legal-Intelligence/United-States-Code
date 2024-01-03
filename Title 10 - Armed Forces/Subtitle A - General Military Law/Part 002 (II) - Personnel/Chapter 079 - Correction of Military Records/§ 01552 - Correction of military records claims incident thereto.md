@@ -2,7 +2,7 @@
 
 (a)(1) The Secretary of a military department may correct any military record of the Secretary's department when the Secretary considers it necessary to correct an error or remove an injustice. Except as provided in paragraph (2), such corrections shall be made by the Secretary acting through boards of civilians of the executive part of that military department. The Secretary of Homeland Security may in the same manner correct any military record of the Coast Guard.
 
-(2) The Secretary concerned is not required to act through a board in the case of the correction of a military record announcing a decision that a person is not eligible to enlist (or reenlist) or is not accepted for enlistment (or reenlistment) or announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlistedmember to a higher grade. Such a correction may be made only if the correction is favorable to the person concerned.
+(2) The Secretary concerned is not required to act through a board in the case of the correction of a military record announcing a decision that a person is not eligible to enlist (or reenlist) or is not accepted for enlistment (or reenlistment) or announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade. Such a correction may be made only if the correction is favorable to the person concerned.
 
 (3)(A) Corrections under this section shall be made under procedures established by the Secretary concerned. In the case of the Secretary of a military department, those procedures must be approved by the Secretary of Defense.
 
@@ -44,7 +44,7 @@
 
 &emsp;(2) action on the sentence of a court-martial for purposes of clemency.
 
-(g)(1) Any medical advisory opinion issued to a board established under subsection (a)(1) withrespect to a member or former member of the armed forces who was diagnosed while serving in the armed forces as experiencing a mental health disorder shall include the opinion of a clinical psychologist or psychiatrist if the request for correction of records concerned relates to a mental health disorder.
+(g)(1) Any medical advisory opinion issued to a board established under subsection (a)(1) with respect to a member or former member of the armed forces who was diagnosed while serving in the armed forces as experiencing a mental health disorder shall include the opinion of a clinical psychologist or psychiatrist if the request for correction of records concerned relates to a mental health disorder.
 
 (2) If a board established under subsection (a)(1) is reviewing a claim described in subsection (h), the board shall seek advice and counsel in the review from a psychiatrist, psychologist, or social worker with training on mental health issues associated with post-traumatic stress disorder or traumatic brain injury or other trauma as specified in the current edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association.
 
@@ -194,7 +194,7 @@ Subsec. (g). Pub. L. 105–261, §545(b), added subsec. (g).
 
 <b>1992</b>—Subsec. (a)(2). Pub. L. 102–484 substituted "announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade" for "announcing a decision not to promote an enlisted member to a higher grade".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–189, §514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary of a military department, under procedures established by him and approved by the Secretary of Defense, and acting through boards of civilians of the executive part of that military department, may correct any military record of that department when he considers it necessary to correct an error or remove an injustice. Under procedures prescribed by him, the Secretary of Transportationmay in the same manner correct any military record of the Coast Guard. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States."
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary of a military department, under procedures established by him and approved by the Secretary of Defense, and acting through boards of civilians of the executive part of that military department, may correct any military record of that department when he considers it necessary to correct an error or remove an injustice. Under procedures prescribed by him, the Secretary of Transportation may in the same manner correct any military record of the Coast Guard. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States."
 
 Subsec. (b). Pub. L. 101–189, §514(b), substituted "subsection (a)(1)" for "subsection (a)" in two places.
 
@@ -236,7 +236,7 @@ Pub. L. 117–263, div. A, title V, §549, Dec. 23, 2022, 136 Stat. 2587, provid
 
 Review of Titling an \[sic\]
 
-Indexing Decisions.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of the Army shall review the case file of each member or former member of the Army, the Army Reserve, or the Army National Guard who was titled or indexed in connection with the Guard Recruiting Assistance Program, the Army Reserve Recruiting Assistance Program, or any related activity to determine the appropriateness of the titling or indexing decision that was made with respect to such member or former member.
+Indexing Decisions.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of the Army shall review the case file of each member or former member of the Army, the Army Reserve, or the Army National Guard who was titled or indexed in connection with the Guard Recruiting Assistance Program, theArmy Reserve Recruiting Assistance Program, or any related activity to determine the appropriateness of the titling or indexing decision that was made with respect to such member or former member.
 
 "(b)
 
@@ -292,7 +292,7 @@ Secretary of Defense Review and Report.—
 
 &emsp;"(1)
 
-Review.—The Secretary of Defense shall conduct a review the titling and indexing practices of the criminal investigative organizations of the Armed Forces. Such review shall include—
+Review.—The Secretary of Defense shall conduct a review \[of\] the titling and indexing practices of the criminal investigative organizations of the Armed Forces. Such review shall include—
 
 &emsp;&emsp;"(A) an assessment of the practices of titling and indexing and the continued relevance of such practices to the operation of such criminal investigative organizations;
 
@@ -442,7 +442,7 @@ Pub. L. 114–328, div. A, title V, §534(c), Dec. 23, 2016, 130 Stat. 2122, as 
 
 "(1)
 
-In general.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2016\], each Secretary concerned shall develop and implement a comprehensive training curriculum for members of boards for the correction of military records under the jurisdiction of such Secretary in the duties of such boards under section 1552 of title 10, United States Code. The curriculum shall address all areas of administrative law applicable to the duties of such boards. This curriculum shall also address the proper handling of claims in which a sex-related offense is alleged to have contributed to the original characterization of the discharge or release of the claimant, including guidelines for the consideration of evidence substantiating such allegations in accordance with the requirements of section 1554b(b) of title 10, United States Code, as added by section 522 of the National Defense Authorization Act for Fiscal Year 2018 \[Pub. L. 115–91\].
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2016\], each Secretary concerned shall develop and implement a comprehensive training curriculum for members ofboards for the correction of military records under the jurisdiction of such Secretary in the duties of such boards under section 1552 of title 10, United States Code. The curriculum shall address all areas of administrative law applicable to the duties of such boards. This curriculum shall also address the proper handling of claims in which a sex-related offense is alleged to have contributed to the original characterization of the discharge or release of the claimant, including guidelines for the consideration of evidence substantiating such allegations in accordance with the requirements of section 1554b(b) of title 10, United States Code, as added by section 522 of the National Defense Authorization Act for Fiscal Year 2018 \[Pub. L. 115–91\].
 
 "(2)
 

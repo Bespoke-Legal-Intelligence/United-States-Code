@@ -28,7 +28,7 @@ The Secretary may arrange for career and technical education and training of enr
 
 #### (1) In general
 
-&emsp;The Secretary may arrange for programs of advanced career training for selected enrollees in which the enrollees may continue to participate for a period of not to exceed 1 year in addition to the period of participation to which the enrollees would otherwise be limited. The advanced career training may be provided through the eligible providers of training services identified under section 3152 of this title.
+&emsp;The Secretary may arrange for programs of advanced career training for selected enrolleesin which the enrollees may continue to participate for a period of not to exceed 1 year in addition to the period of participation to which the enrollees would otherwise be limited. The advanced career training may be provided through the eligible providers of training services identified under section 3152 of this title.
 
 #### (2) Benefits
 

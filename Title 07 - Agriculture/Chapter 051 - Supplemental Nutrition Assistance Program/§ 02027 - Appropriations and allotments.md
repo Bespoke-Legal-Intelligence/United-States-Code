@@ -2,7 +2,7 @@
 
 #### (a) Authorization of allotments; monthly reports of expenditures to Congressional committees; restriction on use of funds; nutrition education improvements
 
-(1) To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of fiscal years 2008 through 2023. Not to exceed one-fourth of 1 per centum of the previous year's appropriation is authorized in each such fiscal year to carry out the provisions of section 2026 of this title, subject to paragraph (3).
+(1) To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of fiscal years 2008 through 2023. Not to exceed one-fourth of 1 per centum of the previous year's appropriation is authorized ineach such fiscal year to carry out the provisions of section 2026 of this title, subject to paragraph (3).
 
 (2) No funds authorized to be appropriated under this chapter or any other Act of Congress shall be used by any person, firm, corporation, group, or organization at any time, directly or indirectly, to interfere with or impede the implementation of any provision of this chapter or any rule, regulation, or project thereunder, except that this limitation shall not apply to the provision of legal and related assistance in connection with any proceeding or action before any State or Federal agency or court. The President shall ensure that this paragraph is complied with by such order or other means as the President deems appropriate.
 
@@ -140,7 +140,7 @@ Subsecs. (c), (d). Pub. L. 96–58, §1(4), added subsecs. (c) and (d).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by sections 4001(b), 4002(a)(10), and 4406(a)(1) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

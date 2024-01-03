@@ -110,7 +110,7 @@ The Secretary shall offer technical assistance, in accordance with section 9858g
 
 Nothing in this section shall be construed as providing the Secretary the authority to regulate, direct, dictate, or place conditions (outside of what is required by this subchapter) on a State adopting specific State child care quality activities or progress in implementing those activities.
 
-(Pub. L. 97–35, title VI, §658G, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–241; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §607, Aug. 22, 1996, 110 Stat. 2283; Pub. L. 113–186, §6, Nov. 19, 2014, 128 Stat. 1987.)
+(Pub. L. 97–35, title VI, §658G, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat.1388–241; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §607, Aug. 22, 1996, 110 Stat. 2283; Pub. L. 113–186, §6, Nov. 19, 2014, 128 Stat. 1987.)
 
 #### <b>Editorial Notes</b>
 

@@ -46,7 +46,7 @@
 
 &emsp;(C) The United States Government shall terminate all foreign military financing for that country under this chapter.
 
-&emsp;(D) The United States Government shall deny to that country any credit, credit guarantees, or other financial assistance by any department, agency, or instrumentality of theUnited States Government, except that the sanction of this subparagraph shall not apply—
+&emsp;(D) The United States Government shall deny to that country any credit, credit guarantees, or other financial assistance by any department, agency, or instrumentality of the United States Government, except that the sanction of this subparagraph shall not apply—
 
 &emsp;&emsp;(i) to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\] (relating to congressional oversight of intelligence activities),
 
@@ -236,7 +236,7 @@ Reporting requirement.—Not later than 60 days after the date of the enactment 
 
 "(e)
 
-Congressional Notification.—The issuance of a license for export of a defense article, defense service, or technology under the authority of this section shall be subject to the same requirements as are applicable to the export of items described in section 36(c) of the Arms Export Control Act (22 U.S.C. 2776(c)), including the transmittal of information and the application of congressional review procedures. The application of these requirements shall be subject to the dollar amount thresholds specified in that section.
+Congressional Notification.—The issuance of a license for export of a defense article, defense service, or technology under the authority of this section shallbe subject to the same requirements as are applicable to the export of items described in section 36(c) of the Arms Export Control Act (22 U.S.C. 2776(c)), including the transmittal of information and the application of congressional review procedures. The application of these requirements shall be subject to the dollar amount thresholds specified in that section.
 
 "(f)
 

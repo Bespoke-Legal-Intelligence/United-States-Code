@@ -2,7 +2,7 @@
 
 (a)
 
-Date of Release.—A prisoner shall be released by the Bureau of Prisons on the date ofthe expiration of the prisoner's term of imprisonment, less any time credited toward the service of the prisoner's sentence as provided in subsection (b). If the date for a prisoner's release falls on a Saturday, a Sunday, or a legal holiday at the place of confinement, the prisoner may be released by the Bureau on the last preceding weekday.
+Date of Release.—A prisoner shall be released by the Bureau of Prisons on the date of the expiration of the prisoner's term of imprisonment, less any time credited toward the service of the prisoner's sentence as provided in subsection (b). If the date for a prisoner's release falls on a Saturday, a Sunday, or a legal holiday at the place of confinement, the prisoner may be released by the Bureau on the last preceding weekday.
 
 (b)
 
@@ -252,13 +252,13 @@ Subsec. (b)(2). Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(2)\], ame
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322, §20405(2), substituted "the prisoner's" for "his" after "the expiration of" and "toward the service of".
 
-Subsec. (b). Pub. L. 103–322, §20412(1), (2), designated existing provisions as par. (1), substituted "Credit that has not been earned may not later be granted." for "Such credit toward service of sentence vests at the time that it is received. Credit that has vested may not later be withdrawn, and credit that has not been earned may not later be granted.", and added pars. (2) to (4).
+Subsec. (b). Pub. L. 103–322, §20412(1), (2), designated existing provisions as par. (1), substituted "Credit that has not been earned may not later be granted." for "Such credit toward service of sentence vests at the time that it is received. Credit that has vested may notlater be withdrawn, and credit that has not been earned may not later be granted.", and added pars. (2) to (4).
 
 Pub. L. 103–322, §20405, inserted "(other than a prisoner serving a sentence for a crime of violence)" after "A prisoner" in first sentence, substituted "the prisoner" for "he" before "has not satisfactorily complied with" in first sentence and before "shall receive no such credit toward" in third sentence and "the prisoner's" for "his" wherever appearing in first and third sentences, and inserted after first sentence "A prisoner who is serving a term of imprisonment of more than 1 year for a crime of violence, other than a term of imprisonment for the duration of the prisoner's life, may receive credit toward the service of the prisoner's sentence, beyond the time served, of up to 54 days at the end of each year of the prisoner's term of imprisonment, beginning at the end of the first year of the term, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with such institutional disciplinary regulations."
 
 Subsec. (c). Pub. L. 103–322, §20405(2), substituted "the prisoner's re-entry" for "his re-entry".
 
-Subsec. (d). Pub. L. 103–322, §20405(2), (3), substituted "the prisoner" for "him" in introductory provisionsand "the prisoner's" for "his" wherever appearing in introductory provisions and par. (3).
+Subsec. (d). Pub. L. 103–322, §20405(2), (3), substituted "the prisoner" for "him" in introductory provisions and "the prisoner's" for "his" wherever appearing in introductory provisions and par. (3).
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–647, §2902(a), inserted after first sentence "The authority provided by this subsection may be used to place a prisoner in home confinement."
 

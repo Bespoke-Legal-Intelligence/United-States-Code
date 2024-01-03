@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-There is authorized to be appropriated $25,000,000 for each of the fiscal years 1978 and 1979 <sup>1</sup> $20,000,000 for fiscal year 1980, $35,000,000 for fiscal year 1981, $40,000,000 for the fiscal year1982, $55,000,000 for the fiscal year 1985, $60,000,000 for the fiscal year 1986, $60,000,000 for the fiscal year 1987, and $60,000,000 for the fiscal year 1988 to be used to make grants to the States for purposes of assisting the States in the development and implementation of authorized State hazardous waste programs.
+There is authorized to be appropriated $25,000,000 for each of the fiscal years 1978 and 1979 <sup>1</sup> $20,000,000 for fiscal year 1980, $35,000,000 for fiscal year 1981, $40,000,000 for the fiscal year 1982, $55,000,000 for the fiscal year 1985, $60,000,000 for the fiscal year 1986, $60,000,000 for the fiscal year 1987, and $60,000,000 for the fiscal year 1988 to be used to make grants to the States for purposes of assisting the States in the development and implementation of authorized State hazardous waste programs.
 
 #### (b) Allocation
 

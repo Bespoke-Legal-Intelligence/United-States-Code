@@ -14,7 +14,7 @@ Reduction of Annuity for Removed Employee.—(1) The Secretary shall order that 
 
 &emsp;(C) the Secretary issues the order—
 
-&emsp;&emsp;(i) in the case of a proposed order to which an individual responds under subparagraph (B)(ii), not later than five business daysafter receiving the response of the individual; or
+&emsp;&emsp;(i) in the case of a proposed order to which an individual responds under subparagraph (B)(ii), not later than five business days after receiving the response of the individual; or
 
 &emsp;&emsp;(ii) in the case of a proposed order to which an individual does not respond, not later than 15 business days after the Secretary provides notice to the individual under subparagraph (B)(i).
 
@@ -52,7 +52,7 @@ Lump-Sum Annuity Credit.—Any individual with respect to whom an annuity is red
 
 (e)
 
-Spouse or Children Exception.—(1) The Secretary, in consultation with the Director of the Office of Personnel Management, shall prescribe regulations that may provide for the payment to the spouse or children of any individual referred to in subsection (a) or (b) of any amounts which (but for this subsection) would otherwise have been nonpayable by reason of such subsections.
+Spouse or Children Exception.—(1) The Secretary, in consultation with the Director ofthe Office of Personnel Management, shall prescribe regulations that may provide for the payment to the spouse or children of any individual referred to in subsection (a) or (b) of any amounts which (but for this subsection) would otherwise have been nonpayable by reason of such subsections.
 
 (2) Regulations prescribed under paragraph (1) shall be consistent with the requirements of section 8332(o)(5) and 8411(l)(5) of title 5, as the case may be.
 

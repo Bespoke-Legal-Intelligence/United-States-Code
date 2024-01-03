@@ -74,7 +74,7 @@ Section was formerly classified to section 290cc–13 of this title prior to ren
 
 #### Amendments
 
-<b>2022</b>—Subsec. (a). Pub. L. 117–328, §1121(d)(1), substituted "Indian Tribes or Tribal organizations" for "Indian tribes or tribal organizations" in concluding provisions.
+<b>2022</b>—Subsec. (a). Pub. L. 117–328, §1121(d)(1), substituted "Indian Tribes or Tribal organizations" for"Indian tribes or tribal organizations" in concluding provisions.
 
 Subsec. (f). Pub. L. 117–328, §1121(d)(2), substituted "$599,036,000 for each of fiscal years 2023 through 2027" for "$394,550,000 for each of fiscal years 2018 through 2022".
 

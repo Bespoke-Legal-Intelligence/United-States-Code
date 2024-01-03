@@ -72,7 +72,7 @@ To carry out the purposes of this chapter, the Secretary may obtain technical as
 
 #### (h) Contract authority
 
-In addition to any other authority established by law, the Secretary is authorized to contractwith Indian tribes under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> to carry out the Dam Safety Maintenance and Repair Program established under this chapter.
+In addition to any other authority established by law, the Secretary is authorized to contract with Indian tribes under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> to carry out the Dam SafetyMaintenance and Repair Program established under this chapter.
 
 #### (i) Annual report
 

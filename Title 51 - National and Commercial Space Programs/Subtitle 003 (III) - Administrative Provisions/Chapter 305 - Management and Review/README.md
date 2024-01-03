@@ -5,7 +5,7 @@
 | [30501\.](%C2%A7%2030501%20-%20Lessons%20learned%20and%20best%20practices.md) | Lessons learned and best practices. |
 | [30502\.](%C2%A7%2030502%20-%20Whistleblower%20protection.md) | Whistleblower protection. |
 | [30503\.](%C2%A7%2030503%20-%20Performance%20assessments.md) | Performance assessments. |
-| [30504\.](%C2%A7%2030504%20-%20Assessment%20of%20science%20mission%20extensions.md) | Assessment of science mission extensions. |
+| [30504\.](%C2%A7%2030504%20-%20Assessment%20of%20science%20mission%20extensions.md) | Assessment of science mission extensions.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

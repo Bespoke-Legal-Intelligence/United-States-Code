@@ -32,11 +32,11 @@ For the purposes of this chapter—
 
 (2) The term "counterfeit device" means a device which, or the container, packaging, or labeling of which, without authorization, bears a trademark, trade name, or other identifying mark or imprint, or any likeness thereof, or is manufactured using a design, of a device manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such device and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other device manufacturer, processor, packer, or distributor.
 
-(i) The term "cosmetic" means (1) articles intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or otherwise applied to the human body or any part thereof for cleansing, beautifying, promoting attractiveness, or altering the appearance, and (2) articles intended for use as a component of any such articles; except that such term shall not include soap.
+(i) The term "cosmetic" means (1) articles intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or otherwise applied to the human body or any part thereof for cleansing, beautifying, promoting attractiveness, or altering the appearance, and\(2) articles intended for use as a component of any such articles; except that such term shall not include soap.
 
 (j) The term "official compendium" means the official United States Pharmacopoeia, official Homoeopathic Pharmacopoeia of the United States, official National Formulary, or any supplement to any of them.
 
-(k) The term "label" means a display of written, printed, or graphic matter upon the immediate container of any article; and a requirement made by or under authority of this chapterthat any word, statement, or other information appear on the label shall not be considered to be complied with unless such word, statement, or other information also appears on the outside container or wrapper, if any there be, of the retail package of such article, or is easily legible through the outside container or wrapper.
+(k) The term "label" means a display of written, printed, or graphic matter upon the immediate container of any article; and a requirement made by or under authority of this chapter that any word, statement, or other information appear on the label shall not be considered to be complied with unless such word, statement, or other information also appears on the outside container or wrapper, if any there be, of the retail package of such article, or is easily legible through the outside container or wrapper.
 
 (l) The term "immediate container" does not include package liners.
 
@@ -64,9 +64,9 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(III) The substance is applied during the transportation of such commodity between the field and such a treatment facility.
 
-&emsp;(ii) The definition in such clause for the term "pesticide chemical" does not include the substance if the substance is a food contact substance as defined in section 348(h)(6) of this title, and any of the following circumstances exist: The substance is included for such use in an object that has a food contact surface but is not intended to have an ongoing effect on any portion of the object; the substance is included for such use in an object that has a food contact surface and is intended to have an ongoing effect on a portion of the object but not on the food contact surface; or the substance is included for such use in or is applied for such use on food packaging (without regard to whether the substance is intended to have an ongoing effect on any portion of the packaging). The food contact substance is not excluded under this subclause from such definition if any of the following circumstances exist: The substance is applied for such use on a semipermanent or permanent food contact surface (other than being applied on food packaging); or the substance is included for such use in an object that has a semipermanent or permanent food contact surface (other than being included in food packaging) and the substance is intended to have an ongoing effect on the food contact surface.
+&emsp;(ii) The definition in such clause for the term "pesticide chemical" does not include the substance if the substance is a food contact substance as defined in section 348(h)(6) of this title, and any of the following circumstances exist: The substance is included for such use in an object that has a food contact surface but is not intended to have an ongoing effect on any portion of the object; the substance is included for such use in an object that has a food contact surface and is intended to have an ongoing effect on a portion of the object but not on the food contact surface; or the substance is included for such use in or is applied for such use on food packaging (without regard to whether the substance is intended to have an ongoing effect on any portion of the packaging). The food contact substance is not excluded under this subclause from such definition if any of the following circumstances exist: The substance is appliedfor such use on a semipermanent or permanent food contact surface (other than being applied on food packaging); or the substance is included for such use in an object that has a semipermanent or permanent food contact surface (other than being included in food packaging) and the substance is intended to have an ongoing effect on the food contact surface.
 
-> With respect to the definition of the term "pesticide" that is applicable to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C.136 et seq.\], this clause does not exclude any substance from such definition.
+> With respect to the definition of the term "pesticide" that is applicable to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], this clause does not exclude any substance from such definition.
 
 (2) The term "pesticide chemical residue" means a residue in or on raw agricultural commodity or processed food of—
 
@@ -116,9 +116,9 @@ For the purposes of this chapter—
 
 &emsp;(2) the composition of which is such that such drug, as a result of investigations to determine its safety and effectiveness for use under such conditions, has become so recognized but which has not, otherwise than in such investigations, been used to a material extent or for a material time under such conditions.
 
-> Provided that any drug intended for minor use or use in a minor species that is not the subject of a final regulation published by the Secretary through notice and comment rulemaking finding that the criteria of paragraphs (1) and (2) have not been met (or that the exception to the criterion in paragraph (1) has been met) is a new animal drug.
+> Provided that any drug intended for minor use or use in a minor species that is not the subjectof a final regulation published by the Secretary through notice and comment rulemaking finding that the criteria of paragraphs (1) and (2) have not been met (or that the exception to the criterion in paragraph (1) has been met) is a new animal drug.
 
-(w) The term "animal feed", as used in paragraph (w) <sup>2</sup> of this section, in section 360b of this title, and in provisions of this chapter referring to such paragraph or section, means an articlewhich is intended for use for food for animals other than man and which is intended for use as a substantial source of nutrients in the diet of the animal, and is not limited to a mixture intended to be the sole ration of the animal.
+(w) The term "animal feed", as used in paragraph (w) <sup>2</sup> of this section, in section 360b of this title, and in provisions of this chapter referring to such paragraph or section, means an article which is intended for use for food for animals other than man and which is intended for use as a substantial source of nutrients in the diet of the animal, and is not limited to a mixture intended to be the sole ration of the animal.
 
 (x) The term "informal hearing" means a hearing which is not subject to section 554, 556, or 557 of title 5 and which provides for the following:
 
@@ -296,15 +296,15 @@ Section 101(4) of the Food and Drug Administration Modernization Act of 1997, re
 
 #### Amendments
 
-<b>2022</b>—Subsec. (rr)(1). Pub. L. 117–103, §111(a)(1), inserted ", or containing nicotine from any source," after "from tobacco".
+<b>2022</b>—Par. (rr)(1). Pub. L. 117–103, §111(a)(1), inserted ", or containing nicotine from any source," after "from tobacco".
 
-Subsec. (rr)(5). Pub. L. 117–103, §111(a)(2), added par. (5).
+Par. (rr)(5). Pub. L. 117–103, §111(a)(2), added subpar. (5).
 
-Subsec. (ss). Pub. L. 117–328 added subsec. (ss).
+Par. (ss). Pub. L. 117–328 added par. (ss).
 
 <b>2021</b>—Par. (h). Pub. L. 116–304 redesignated introductory provisions as subpar. (1) and former subpars. (1) to (3) as cls. (A) to (C), respectively, of subpar. (1) and added subpar. (2).
 
-Subsec. (qq)(1). Pub. L. 117–11 substituted "soybeans, and sesame" for "and soybeans".
+Par. (qq)(1). Pub. L. 117–11 substituted "soybeans, and sesame" for "and soybeans".
 
 <b>2016</b>—Par. (h). Pub. L. 114–255 inserted at end of concluding provisions "The term 'device' does not include software functions excluded pursuant to section 360j(o) of this title."
 
@@ -528,11 +528,11 @@ Pub. L. 91–513, title II, §702, Oct. 27, 1970, 84 Stat. 1283, as amended by P
 
 Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
 
-Functions of Secretary of Health, Education, and Welfare \[now Health and Human Services\] under Federal Food, Drug, and Cosmetic Act, to the extent such functions related to administration and enforcement of the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471 et seq.), transferred to Consumer Product Safety Commission by section 2079 of Title 15, Commerce and Trade.
+Functions of Secretary of Health, Education, and Welfare \[now Health and Human Services\] under Federal Food, Drug, and Cosmetic Act, to the extent such functions related to administration and enforcement of the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471 et seq.), transferred to Consumer Product SafetyCommission by section 2079 of Title 15, Commerce and Trade.
 
 #### Regulation of Tobacco
 
-Pub. L. 117–103, div. P, title I, §111(e), Mar. 15, 2022, 136 Stat. 790, provided that: "Effective 30 days after the date of enactment of this Act \[Mar. 15, 2022\], with respect to any regulation promulgated or related guidance issued, in whole or part, under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) before the date that is 30 days after such date of enactment, theterm 'tobacco product' shall have the meaning of, and shall be deemed amended to reflect the meaning of, such term as defined in section 201(rr) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(rr)), as amended by subsection (a). Products that are tobacco products under such section 201(rr), as so amended, shall be subject to all requirements of regulations for tobacco products. The Secretary of Health and Human Services shall publish a notice in the Federal Register to update the Code of Federal Regulations to reflect such deemed amendment to existing regulations and guidance."
+Pub. L. 117–103, div. P, title I, §111(e), Mar. 15, 2022, 136 Stat. 790, provided that: "Effective 30 days after the date of enactment of this Act \[Mar. 15, 2022\], with respect to any regulation promulgated or related guidance issued, in whole or part, under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) before the date that is 30 days after such date of enactment, the term 'tobacco product' shall have the meaning of, and shall be deemed amended to reflect the meaning of, such term as defined in section 201(rr) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(rr)), as amended by subsection (a). Products that are tobacco products under such section 201(rr), as so amended, shall be subject to all requirements of regulations for tobacco products. The Secretary of Health and Human Services shall publish a notice in the Federal Register to update the Code of Federal Regulations to reflect such deemed amendment to existing regulations and guidance."
 
 Pub. L. 105–115, title IV, §422, Nov. 21, 1997, 111 Stat. 2380, provided that: "Nothing in this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\] or the amendments made by this Act shall be construed to affect the question of whether the Secretary of Health and Human Services has any authority to regulate any tobacco product, tobacco ingredient, or tobacco additive. Such authority, if any, shall be exercised under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] as in effect on the day before the date of the enactment of this Act \[Nov. 21, 1997\]."
 
@@ -594,7 +594,7 @@ Pub. L. 89–74, §10, July 15, 1965, 79 Stat. 235, provided that:
 
 "(a) Nothing in this Act \[enacting section 360a of this title, amending sections 321, 331, 333, 334, 360, and 372 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 321, 352, and 360a of this title\] shall be construed as authorizing the manufacture, compounding, processing, possession, sale, delivery, or other disposal of any drug in any State in contravention of the laws of such State.
 
-"(b) No provision of this Act nor any amendment made by it shall be construed as indicating an intent on the part of the Congress to occupy the field in which such provision or amendment operates to the exclusionof any State law on the same subject matter, unless there is a direct and positive conflict between such provision or amendment and such State law so that the two cannot be reconciled or consistently stand together.
+"(b) No provision of this Act nor any amendment made by it shall be construed as indicating an intent on the part of the Congress to occupy the field in which such provision or amendment operates to the exclusion of any State law on the same subject matter, unless there is a direct and positive conflict between such provision or amendment and such State law so that the two cannot be reconciled or consistently stand together.
 
 "(c) No amendment made by this Act shall be construed to prevent the enforcement in the courts of any State of any statute of such State prescribing any criminal penalty for any act made criminal by any such amendment."
 

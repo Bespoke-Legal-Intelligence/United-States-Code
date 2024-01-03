@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [1061\.](%C2%A7%2001061%20-%20Survivors%20of%20certain%20Reserve%20and%20Guard%20members.md) | Survivors of certain Reserve and Guard members. |
-| [1062\.](%C2%A7%2001062%20-%20Certain%20former%20spouses.md) | Certain former spouses. |
+| [1062\.](%C2%A7%2001062%20-%20Certain%20former%20spouses%20and%20surviving%20spouses.md) | Certain former spouses and surviving spouses. |
 | [1063\.](%C2%A7%2001063%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20reserve%20components%20and%20reserve%20retirees%20under%20age%2060.md) | Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60. |
 | [1064\.](%C2%A7%2001064%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20National%20Guard%20serving%20in%20federally%20declared%20disaster%20or%20national%20emergency.md) | Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster or national emergency. |
 | [1065\.](%C2%A7%2001065%20-%20Use%20of%20commissary%20stores%20and%20MWR%20facilities%20certain%20veterans%2C%20caregivers%20for%20veterans%2C%20and%20Foreign%20Service%20officers.md) | Use of commissary stores and MWR facilities: certain veterans, caregivers for veterans, and Foreign Service officers. |
@@ -14,6 +14,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title VI, §633(c), Dec. 22, 2023, 137 Stat. 297, inserted "and surviving spouses" after "spouses" in item 1062. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title X, §1081(a)(16), Dec. 27, 2021, 135 Stat. 1920, added item 1065 and struck out former item 1065 "Use of commissary stores and MWR facilities: certain veterans and caregivers for veterans".
 
@@ -41,7 +43,7 @@ Pub. L. 116–283, div. A, title VI, §631(b), title X, §1081(a)(23), Jan. 1, 2
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01061 - Survivors of certain Reserve and Guard members](%C2%A7%2001061%20-%20Survivors%20of%20certain%20Reserve%20and%20Guard%20members.md)
-- [&sect; 01062 - Certain former spouses](%C2%A7%2001062%20-%20Certain%20former%20spouses.md)
+- [&sect; 01062 - Certain former spouses and surviving spouses](%C2%A7%2001062%20-%20Certain%20former%20spouses%20and%20surviving%20spouses.md)
 - [&sect; 01063 - Use of commissary stores and MWR retail facilities members of reserve components and reserve retirees under age 60](%C2%A7%2001063%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20reserve%20components%20and%20reserve%20retirees%20under%20age%2060.md)
 - [&sect; 01063a - Renumbered &sect;1064](%C2%A7%2001063a%20-%20Renumbered%20%C2%A71064.md)
 - [&sect; 01064 - Use of commissary stores and MWR retail facilities members of National Guard serving in federally declared disaster or national emergency](%C2%A7%2001064%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20National%20Guard%20serving%20in%20federally%20declared%20disaster%20or%20national%20emergency.md)

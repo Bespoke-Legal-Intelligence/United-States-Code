@@ -60,7 +60,7 @@ Authority To Recruit and Train Persons Providing Services.—The Secretary conce
 
 (d)
 
-Status of Persons Providing Services.—(1) Subject to paragraph (3), while providing voluntary services accepted under subsection (a) or receiving training under subsection (c), a person, other than a person referred to in paragraph (2), shall be considered to be an employee of theFederal Government only for purposes of the following provisions of law:
+Status of Persons Providing Services.—(1) Subject to paragraph (3), while providing voluntary services accepted under subsection (a) or receiving training under subsection (c), a person, other than a person referred to in paragraph (2), shall be considered to be an employee of the Federal Government only for purposes of the following provisions of law:
 
 &emsp;(A) Subchapter I of chapter 81 of title 5 (relating to compensation for work-related injuries).
 
@@ -122,7 +122,7 @@ Subsec. (g). Pub. L. 116–259, §205(b)(2)(B), added subsec. (g).
 
 <b>2004</b>—Subsec. (a)(8). Pub. L. 108–375, §516(1), added par. (8).
 
-Subsec. (d)(1)(B). Pub. L. 108–375, §1081, inserted before period at end "and the Act of March 9, 1920, commonly known as the 'Suits in Admiralty Act' (41 Stat. 525; 46 U.S.C. App. 741 et seq.) and the Act of March 3,1925, commonly known as the 'Public Vessels Act' (43 Stat. 1112; 46 U.S.C. App. 781 et seq.) (relating to claims for damages or loss on navigable waters)".
+Subsec. (d)(1)(B). Pub. L. 108–375, §1081, inserted before period at end "and the Act of March 9, 1920, commonly known as the 'Suits in Admiralty Act' (41 Stat. 525; 46 U.S.C. App. 741 et seq.) and the Act of March 3, 1925, commonly known as the 'Public Vessels Act' (43 Stat. 1112; 46 U.S.C. App. 781 et seq.) (relating to claims for damages or loss on navigable waters)".
 
 Subsec. (f)(1). Pub. L. 108–375, §516(2), substituted "paragraph (3) or (8) of subsection (a)" for "subsection (a)(3)".
 
@@ -170,7 +170,7 @@ Pub. L. 99–145, title XVI, §1624(b), Nov. 8, 1985, 99 Stat. 778, provided tha
 
 #### Report on Implementation of Authority To Install Telecommunications Equipment for Persons Performing Voluntary Services
 
-Pub. L. 106–65, div. A, title III, §371(b), Oct. 5, 1999, 113 Stat. 579, provided that: "Not later than two years after final regulations prescribed under subsection (f)(4) of section 1588 of title 10, United States Code, as added by subsection (a), take effect, the Comptroller General shall review the exercise of authority under such subsection (f) and submit to Congress a report on the findings resulting from the review."
+Pub. L. 106–65, div. A, title III, §371(b), Oct. 5, 1999, 113 Stat. 579, provided that: "Not later than two years after final regulations prescribed under subsection (f)(4) of section 1588 of title 10, United States Code, as addedby subsection (a), take effect, the Comptroller General shall review the exercise of authority under such subsection (f) and submit to Congress a report on the findings resulting from the review."
 
 #### Acceptance of Voluntary Services Pilot Program
 

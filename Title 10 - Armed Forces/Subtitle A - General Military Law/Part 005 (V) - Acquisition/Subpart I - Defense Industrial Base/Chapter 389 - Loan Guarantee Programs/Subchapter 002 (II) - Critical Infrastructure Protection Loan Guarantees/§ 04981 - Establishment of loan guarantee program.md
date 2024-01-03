@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—In order to meet the national security objectives in section 4811(a) of this title, the Secretary of Defense shall establish a program under which the Secretary may issue guarantees assuring lenders against losses of principal or interest, or both principal and interest, for loans made to qualified commercialfirms to fund, in whole or in part, any of the following activities:
+Establishment.—In order to meet the national security objectives in section 4811(a) of this title, the Secretary of Defense shall establish a program under which the Secretary may issue guarantees assuring lenders against losses of principal or interest, or both principal and interest, for loans made to qualified commercial firms to fund, in whole or in part, any of the following activities:
 
 &emsp;(1) The improvement of the protection of the critical infrastructure of the commercial firms.
 
@@ -56,7 +56,7 @@ Subsec. (b)(5). Pub. L. 116–283, §1873(e)(1), substituted "section 4985" for 
 
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
+Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII ofPub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

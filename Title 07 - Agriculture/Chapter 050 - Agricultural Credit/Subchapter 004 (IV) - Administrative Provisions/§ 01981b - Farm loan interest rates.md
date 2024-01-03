@@ -8,7 +8,7 @@ Any loan for farm ownership purposes under subchapter I of this chapter, farm op
 
 &emsp;(3) the rate being charged by the Secretary for loans, other than guaranteed loans, of the same type at the time of the deferral, consolidation, rescheduling, or reamortization.
 
-(Pub. L. 87–128, title III, §331B, as added Pub. L. 98–258, title VI, §605, Apr. 10, 1984, 98 Stat. 139;amended Pub. L. 107–171, title V, §5305, May 13, 2002, 116 Stat. 345.)
+(Pub. L. 87–128, title III, §331B, as added Pub. L. 98–258, title VI, §605, Apr. 10, 1984, 98 Stat. 139; amended Pub. L. 107–171, title V, §5305, May 13, 2002, 116 Stat. 345.)
 
 #### <b>Editorial Notes</b>
 

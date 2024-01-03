@@ -32,7 +32,7 @@ Public availability.—
 
 &emsp;&emsp;(A)
 
-In general.—The Director shall make available to the public a list of each major information technology investment, without regard to whether the investments are for new information technology acquisitions or for operations and maintenance of existing information technology, including data on cost, schedule, and performance.
+In general.—The Director shall make available to the public a list of each major information technology investment, without regard to whether the investments are for new information technology acquisitions orfor operations and maintenance of existing information technology, including data on cost, schedule, and performance.
 
 &emsp;&emsp;(B)
 
@@ -166,7 +166,7 @@ Subsec. (c)(1). Pub. L. 108–458, §8401(2), inserted ", including information
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Management of Software Licenses
 

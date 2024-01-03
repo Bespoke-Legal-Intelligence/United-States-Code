@@ -12,7 +12,7 @@ The Congress finds that sole dependence upon fiscal or monetary policies or both
 
 The President shall initiate specific policies to reduce the rate of inflation, including recommendations to the Congress where necessary, and include recommendations within the Economic Report and the President's budget to the extent practicable. Structural policies to reduce the rate of inflation may include—
 
-&emsp;(1) an effective information system to monitor and analyze inflationary trends in individual economic sectors, so that the President and Congress can be alerted to developing inflation problems especially those caused bybottlenecks inhibiting the flow of goods and services;
+&emsp;(1) an effective information system to monitor and analyze inflationary trends in individual economic sectors, so that the President and Congress can be alerted to developing inflation problems especially those caused by bottlenecks inhibiting the flow of goods and services;
 
 &emsp;(2) programs and policies for alleviating shortages of goods, services, labor, and capital, with particular emphasis on food, energy, and critical industrial materials to aid in stabilizing prices;
 

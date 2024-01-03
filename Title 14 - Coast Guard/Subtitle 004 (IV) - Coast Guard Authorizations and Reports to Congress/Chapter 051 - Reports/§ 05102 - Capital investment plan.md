@@ -154,7 +154,7 @@ Pub. L. 109–241, title IV, §408, July 11, 2006, 120 Stat. 537, as amended by 
 
 "(b)
 
-Deepwater Acceleration Report.—Not later than 30 days after the date of enactment of this Act \[July 11, 2006\], the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the acceleration of the current Deepwater program acquisition timeline that reflects completion of theDeepwater program in each of 10 years and 15 years and includes—
+Deepwater Acceleration Report.—Not later than 30 days after the date of enactment of this Act \[July 11, 2006\], the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the acceleration of the current Deepwater program acquisition timeline that reflects completion of the Deepwater program in each of 10 years and 15 years and includes—
 
 &emsp;"(1) a detailed explanation of the number and type of each asset that would be procured for each fiscal year under each accelerated acquisition timeline;
 

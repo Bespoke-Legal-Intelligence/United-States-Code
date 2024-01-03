@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;(i) the number and type of each Internet of Things device for which a waiver under subsection (b)(1) was granted during the 2-year period prior to the submission of the report; and
 
-&emsp;&emsp;&emsp;(ii) the legal authority under which each such waiver was granted, such as whether the waiver was granted pursuant to subparagraph (A), (B), or (C) of such subsection.
+&emsp;&emsp;&emsp;(ii) the legal authority under which each such waiver was granted, such as whetherthe waiver was granted pursuant to subparagraph (A), (B), or (C) of such subsection.
 
 #### (2) Classification of report
 
@@ -59,6 +59,10 @@ The prohibition under subsection (a)(1) shall take effect 2 years after December
 Section was enacted as part of the Internet of Things Cybersecurity Improvement Act of 2020, also known as the IoT Cybersecurity Improvement Act of 2020, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Definitions
 

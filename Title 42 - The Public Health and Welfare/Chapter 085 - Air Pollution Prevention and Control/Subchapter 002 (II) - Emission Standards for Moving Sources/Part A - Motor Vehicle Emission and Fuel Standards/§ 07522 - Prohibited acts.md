@@ -16,7 +16,7 @@ The following acts and the causing thereof are prohibited—
 
 &emsp;(3)(A) for any person to remove or render inoperative any device or element of design installed on or in a motor vehicle or motor vehicle engine in compliance with regulations under this subchapter prior to its sale and delivery to the ultimate purchaser, or for any person knowingly to remove or render inoperative any such device or element of design after such sale and delivery to the ultimate purchaser; or
 
-&emsp;(B) for any person to manufacture or sell, or offer to sell, or install, any part or component intended for use with, or as part of, any motor vehicle or motor vehicle engine, where a principal effect of the part or component is to bypass, defeat, or render inoperative any deviceor element of design installed on or in a motor vehicle or motor vehicle engine in compliance with regulations under this subchapter, and where the person knows or should know that such part or component is being offered for sale or installed for such use or put to such use; or
+&emsp;(B) for any person to manufacture or sell, or offer to sell, or install, any part or component intended for use with, or as part of, any motor vehicle or motor vehicle engine, where a principal effect of the part or component is to bypass, defeat, or render inoperative any device or element of design installed on or in a motor vehicle or motor vehicle engine in compliance with regulations under this subchapter, and where the person knows or should know that such part or component is being offered for sale or installed for such use or put to such use; or
 
 &emsp;(4) for any manufacturer of a new motor vehicle or new motor vehicle engine subject to standards prescribed under section 7521 of this title or part C—
 
@@ -24,7 +24,7 @@ The following acts and the causing thereof are prohibited—
 
 &emsp;&emsp;(B) to fail or refuse to comply with the requirements of section 7541(c) or (e) of this title, or the corresponding requirements of part C in the case of clean fuel vehicles <sup>1</sup>
 
-&emsp;&emsp;(C) except as provided in subsection (c)(3) of section 7541 of this title and the corresponding requirements of part C in the case of clean fuel vehicles, to provide directly or indirectly in any communication to the ultimate purchaser or any subsequent purchaser that the coverage of any warranty under this chapter is conditioned upon use of any part, component, or system manufactured by such manufacturer or any person acting for such manufacturer or under his control, or conditioned upon service performed by any such person, or
+&emsp;&emsp;(C) except as provided in subsection (c)(3) of section 7541 of this title and the corresponding requirements of part C in thecase of clean fuel vehicles, to provide directly or indirectly in any communication to the ultimate purchaser or any subsequent purchaser that the coverage of any warranty under this chapter is conditioned upon use of any part, component, or system manufactured by such manufacturer or any person acting for such manufacturer or under his control, or conditioned upon service performed by any such person, or
 
 &emsp;&emsp;(D) to fail or refuse to comply with the terms and conditions of the warranty under section 7541(a) or (b) of this title or the corresponding requirements of part C in the case of clean fuel vehicles with respect to any vehicle; or
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effectimmediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

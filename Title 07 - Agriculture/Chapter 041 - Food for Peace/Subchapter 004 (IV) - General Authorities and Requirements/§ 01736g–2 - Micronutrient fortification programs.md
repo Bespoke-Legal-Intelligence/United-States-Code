@@ -28,6 +28,8 @@ The authority to carry out programs established under this section shall termina
 
 #### Codification
 
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 #### Amendments
@@ -50,7 +52,7 @@ Subsecs. (b) to (d). Pub. L. 110–246, §3023(2), (3), redesignated subsecs. (c
 
 <b>2002</b>—Pub. L. 107–171, §3013(1), substituted "programs" for "pilot program" in section catchline.
 
-Subsec. (a). Pub. L. 107–171, §3013(2), designated first sentence as par. (1), inserted heading, and substituted "Not later than September 30, 2003, the Administrator, in consultation with the Secretary, shall establish micronutrient fortification programs." for "Subject to the availability of practical technology and to cost effectiveness, not later than September 30, 1997, the Secretary, in consultation with the Administrator, shall establish a micronutrient fortification pilot program under this chapter.", designated second sentence as par. (2), inserted heading, and substituted "The purpose of a program" for "The purpose of the program", redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (2), respectively, struck out "and" at end of subpar. (A), struck out "whole" before "grains and other commodities" and substituted "; and" for period at end of subpar. (B), and added subpar. (C).
+Subsec. (a). Pub. L. 107–171, §3013(2), designated first sentence as par. (1), inserted heading, and substituted "Not later than September 30, 2003, the Administrator, in consultation with the Secretary, shall establish micronutrient fortification programs." for "Subject to the availability of practical technology and to cost effectiveness, not later than September 30, 1997, the Secretary, in consultation with the Administrator, shallestablish a micronutrient fortification pilot program under this chapter.", designated second sentence as par. (2), inserted heading, and substituted "The purpose of a program" for "The purpose of the program", redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (2), respectively, struck out "and" at end of subpar. (A), struck out "whole" before "grains and other commodities" and substituted "; and" for period at end of subpar. (B), and added subpar. (C).
 
 Subsec. (b). Pub. L. 107–171, §3013(3), substituted "a program under this section" for "the pilot program".
 

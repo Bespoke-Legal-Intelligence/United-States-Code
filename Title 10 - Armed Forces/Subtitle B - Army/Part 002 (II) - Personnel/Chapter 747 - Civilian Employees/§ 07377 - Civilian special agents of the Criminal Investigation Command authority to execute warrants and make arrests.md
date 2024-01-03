@@ -12,7 +12,7 @@ Agents To Have Authority.—Subsection (a) applies to any employee of the Depart
 
 Guidelines for Exercise of Authority.—The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Secretary of the Army and approved by the Secretary of Defense and the Attorney General and any other applicable guidelines prescribed by the Secretary of the Army, the Secretary of Defense, or the Attorney General.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §554(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–126, §4027; renumbered §7377, Pub. L. 115–232, div. A, title VIII, §808(b)(15), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §554(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–126,§4027; renumbered §7377, Pub. L. 115–232, div. A, title VIII, §808(b)(15), Aug. 13, 2018, 132 Stat. 1839.)
 
 #### <b>Editorial Notes</b>
 
@@ -24,5 +24,5 @@ Guidelines for Exercise of Authority.—The authority provided under subsection 
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

@@ -1,6 +1,6 @@
 ### §151310. Immunity of United States Government
 
-The United States Government is not liable for any debts, defaults, acts, or omissions of thecorporation. The full faith and credit of the Government does not extend to any obligation of the corporation.
+The United States Government is not liable for any debts, defaults, acts, or omissions of the corporation. The full faith and credit of the Government does not extend to any obligation of the corporation.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1401.)
 

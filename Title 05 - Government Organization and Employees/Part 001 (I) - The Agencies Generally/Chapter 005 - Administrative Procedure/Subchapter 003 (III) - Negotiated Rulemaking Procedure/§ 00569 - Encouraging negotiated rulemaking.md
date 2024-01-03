@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–320 in section catchline substituted "Encouraging negotiated rulemaking" for "Role of theAdministrative Conference of the United States and other entities", and in text added subsecs. (a) and (b) and struck out former subsecs. (a) to (g) which related to: in subsec. (a), consultation by agencies; in subsec. (b), roster of potential conveners and facilitators; in subsec. (c), procedures to obtain conveners and facilitators; in subsec. (d), compilation of data on negotiated rulemaking and report to Congress; in subsec. (e), training in negotiated rulemaking; in subsec. (f), payment of expenses of agencies; and in subsec. (g), use of funds of the conference.
+<b>1996</b>—Pub. L. 104–320 in section catchline substituted "Encouraging negotiated rulemaking" for "Role of the Administrative Conference of the United States and other entities", and in text added subsecs. (a) and (b) and struck out former subsecs. (a) to (g) which related to: in subsec. (a), consultation by agencies; in subsec. (b), roster of potential conveners and facilitators; in subsec. (c), procedures to obtain conveners and facilitators; in subsec. (d), compilation of data on negotiated rulemaking and report to Congress; in subsec. (e), training in negotiated rulemaking; in subsec. (f), payment of expenses of agencies; and in subsec. (g), use of funds of the conference.
 
 <b>1992</b>—Pub. L. 102–354, §3(a)(2), renumbered section 589 of this title as this section.
 

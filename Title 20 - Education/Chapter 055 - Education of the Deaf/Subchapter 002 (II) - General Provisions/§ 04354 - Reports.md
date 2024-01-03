@@ -20,7 +20,7 @@ The Board of Trustees of Gallaudet University and the Board of Trustees or other
 
 &emsp;&emsp;(G) Strategies (such as parent groups and training classes in the development of individualized education programs) used by the elementary and secondary programs and the extension centers to reach and actively involve minority parents in the educational programs of their children who are deaf or hard of hearing and the number of parents who have been served as a result of these activities.
 
-&emsp;(3)(A) A summary of the annual audited financial statements and auditor's report of the University, as required under section 4353 of this title, and (B) a summary of the annual audited financial statements and auditor's report of NTID programs and activities, and such supplementary schedules presenting financial information for NTID for the end of the Federal fiscal year as determined by the Secretary.
+&emsp;(3)(A) A summary of the annual audited financial statements and auditor's report of theUniversity, as required under section 4353 of this title, and (B) a summary of the annual audited financial statements and auditor's report of NTID programs and activities, and such supplementary schedules presenting financial information for NTID for the end of the Federal fiscal year as determined by the Secretary.
 
 &emsp;(4) For the preceding fiscal year, a statement showing the receipts of the University and NTID and from what Federal sources, and a statement showing the expenditures of each institution by function, activity, and administrative and academic unit.
 
@@ -61,6 +61,10 @@ Par. (6). Pub. L. 103–73, §204(c)(4), substituted "Program funds are" for "Pr
 <b>1992</b>—Pub. L. 102–421, §134, amended section generally, substituting present provisions for provisions requiring annual reports from Board of Trustees of Gallaudet University and National Technical Institute for the Deaf and providing for an annual monitoring and evaluation report.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 1998 Amendment
 

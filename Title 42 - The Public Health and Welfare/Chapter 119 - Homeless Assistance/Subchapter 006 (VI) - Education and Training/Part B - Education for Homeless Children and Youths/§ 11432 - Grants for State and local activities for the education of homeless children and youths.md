@@ -20,7 +20,7 @@ The Secretary shall make the grants to States from the allotments made under sub
 
 &emsp;&emsp;(iii) the amount such State received under this section for fiscal year 2001.
 
-&emsp;(B) If there are insufficient funds in a fiscal year to allot to each State the minimumamount under subparagraph (A), the Secretary shall ratably reduce the allotments to all States based on the proportionate share that each State received under this subsection for the preceding fiscal year.
+&emsp;(B) If there are insufficient funds in a fiscal year to allot to each State the minimum amount under subparagraph (A), the Secretary shall ratably reduce the allotments to all States based on the proportionate share that each State received under this subsection for the preceding fiscal year.
 
 #### (2) Reservations
 
@@ -82,7 +82,7 @@ Grants under this section shall be used for the following:
 
 &emsp;&emsp;For the State to be eligible under subparagraph (B) to receive funds under this part, the school described in such subparagraph shall—
 
-&emsp;&emsp;&emsp;(i) provide written notice, at the time any child or youth seeks enrollment in such school, and at least twice annually while the child or youth is enrolled in such school, to the parent or guardian of thechild or youth (or, in the case of an unaccompanied youth, the youth) that—
+&emsp;&emsp;&emsp;(i) provide written notice, at the time any child or youth seeks enrollment in such school, and at least twice annually while the child or youth is enrolled in such school, to the parent or guardian of the child or youth (or, in the case of an unaccompanied youth, the youth) that—
 
 &emsp;&emsp;&emsp;&emsp;(I) shall be signed by the parent or guardian (or, in the case of an unaccompanied youth, the youth);
 
@@ -102,7 +102,7 @@ Grants under this section shall be used for the following:
 
 &emsp;&emsp;&emsp;(ii)(I) provide assistance to the parent or guardian of each homeless child or youth (or, in the case of an unaccompanied youth, the youth) to exercise the right to attend the parent's or guardian's (or youth's) choice of schools, as provided in subsection (g)(3)(A); and
 
-&emsp;&emsp;&emsp;(II) coordinate with the local educational agency with jurisdiction for the school selected by the parent or guardian (or youth), to provide transportation and other necessary services;
+&emsp;&emsp;&emsp;(II) coordinate with the local educational agency with jurisdiction for theschool selected by the parent or guardian (or youth), to provide transportation and other necessary services;
 
 &emsp;&emsp;&emsp;(iii) ensure that the parent or guardian (or, in the case of an unaccompanied youth, the youth) shall receive the information required by this subparagraph in a manner and form understandable to such parent or guardian (or youth), including, if necessary and to the extent feasible, in the native language of such parent or guardian (or youth); and
 
@@ -242,7 +242,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;(i) homeless children have access to public preschool programs, administered by the State educational agency or local educational agency, as provided to other children in the State;
 
-&emsp;&emsp;&emsp;(ii) youths described in section 11434a(2) of this title and youths separated from public schools are identified and accorded equal access to appropriate secondary education and support services, including by identifying and removing barriers that prevent youths described in this clause from receiving appropriate credit for full or partial coursework satisfactorily completed while attending a prior school, in accordance with State, local, and school policies; and
+&emsp;&emsp;&emsp;(ii) youths described in section 11434a(2) of this title and youths separated from public schools are identified and accordedequal access to appropriate secondary education and support services, including by identifying and removing barriers that prevent youths described in this clause from receiving appropriate credit for full or partial coursework satisfactorily completed while attending a prior school, in accordance with State, local, and school policies; and
 
 &emsp;&emsp;&emsp;(iii) homeless children and youths who meet the relevant eligibility criteria do not face barriers to accessing academic and extracurricular activities, including magnet school, summer school, career and technical education, advanced placement, online learning, and charter school programs, if such programs are available at the State and local levels.
 
@@ -274,7 +274,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;&emsp;(II) If the child's or youth's living arrangements in the area served by the local educational agency of origin terminate and the child or youth, though continuing the child's or youth's education in the school of origin, begins living in an area served by another local educational agency, the local educational agency of origin and the local educational agency in which the child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child or youth with transportation to and from the school of origin. If the local educational agencies are unable to agree upon such method, the responsibility and costs for transportation shall be shared equally.
 
-&emsp;&emsp;&emsp;(iv) The State and the local educational agencies in the State will adopt policies and practices to ensure participation by liaisons described in clause (ii) in professional development and other technical assistance activities provided pursuant toparagraphs (5) and (6) of subsection (f), as determined appropriate by the Office of the Coordinator.
+&emsp;&emsp;&emsp;(iv) The State and the local educational agencies in the State will adopt policies and practices to ensure participation by liaisons described in clause (ii) in professional development and other technical assistance activities provided pursuant to paragraphs (5) and (6) of subsection (f), as determined appropriate by the Office of the Coordinator.
 
 &emsp;&emsp;(K) A description of how youths described in section 11434a(2) of this title will receive assistance from counselors to advise such youths, and prepare and improve the readiness of such youths for college.
 
@@ -358,7 +358,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (G) Privacy
 
-&emsp;&emsp;Information about a homeless child's or youth's living situation shall be treated as a student education record, and shall not be deemed to be directory information, under section 1232g of title 20.
+&emsp;&emsp;Information about a homeless child's or youth's living situation shall be treated as astudent education record, and shall not be deemed to be directory information, under section 1232g of title 20.
 
 #### (H) Contact information
 
@@ -434,7 +434,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;(v) the parents or guardians of homeless children and youths are informed of the educational and related opportunities available to their children and are provided with meaningful opportunities to participate in the education of their children;
 
-&emsp;&emsp;&emsp;(vi) public notice of the educational rights of homeless children and youths is disseminated in locations frequented by parents or guardians of such children and youths, and unaccompanied youths, including schools, shelters, public libraries, and soup kitchens, in a manner and form understandable to the parents and guardians of homeless children and youths, and unaccompanied youths;
+&emsp;&emsp;&emsp;(vi) public notice of the educational rights of homeless children and youths isdisseminated in locations frequented by parents or guardians of such children and youths, and unaccompanied youths, including schools, shelters, public libraries, and soup kitchens, in a manner and form understandable to the parents and guardians of homeless children and youths, and unaccompanied youths;
 
 &emsp;&emsp;&emsp;(vii) enrollment disputes are mediated in accordance with paragraph (3)(E);
 
@@ -531,10 +531,6 @@ Subsec. (h). Pub. L. 114–95, §9102(6), struck out subsec. (h) which related t
 <b>2008</b>—Subsec. (h). Pub. L. 110–289 added subsec. (h).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 

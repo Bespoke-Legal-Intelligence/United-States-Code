@@ -136,7 +136,7 @@ Requirement.—The Director of National Intelligence, acting through the Nationa
 
 &emsp;"(2)
 
-Considerations.—In developing the lexicon under paragraph (1), the National Intelligence Council shall include in the lexicon each term (and the corresponding definition for each term) specified in subsection (b)(5), unless the National IntelligenceCouncil determines that an alternative term (or alternative definition)—
+Considerations.—In developing the lexicon under paragraph (1), the National Intelligence Council shall include in the lexicon each term (and the corresponding definition for each term) specified in subsection (b)(5), unless the National Intelligence Council determines that an alternative term (or alternative definition)—
 
 &emsp;&emsp;"(A) more accurately describes a concept associated with gray zone activities; or
 

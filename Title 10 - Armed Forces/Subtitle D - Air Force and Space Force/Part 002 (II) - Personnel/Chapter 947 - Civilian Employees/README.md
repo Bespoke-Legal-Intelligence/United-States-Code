@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [9371\.](%C2%A7%2009371%20-%20Air%20University%20civilian%20faculty%20members.md) | Air University: civilian faculty members. |
+| [9371\.](%C2%A7%2009371%20-%20Air%20University%20and%20Space%20Delta%2013%20civilian%20faculty%20members.md) | Air University and Space Delta 13: civilian faculty members. |
 | [9375\.](%C2%A7%2009375%20-%20Production%20of%20supplies%20and%20munitions%20hours%20and%20pay%20of%20laborers%20and%20mechanics.md) | Production of supplies and munitions: hours and pay of laborers and mechanics. |
 | [9377\.](%C2%A7%2009377%20-%20Civilian%20special%20agents%20of%20the%20Office%20of%20Special%20Investigations%20authority%20to%20execute%20warrants%20and%20make%20arrests.md) | Civilian special agents of the Office of Special Investigations: authority to execute warrants and make arrests. |
 
@@ -15,6 +15,8 @@
 A prior chapter 947, consisting of repealed sections 9741 to 9748, related to transportation, prior to renumbering as chapter 977 of this title.
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title XI, §1117(b), Dec. 22, 2023, 137 Stat. 433, added item 9371 and struck out former item 9371 "Air University: civilian faculty members".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(d)(3)(B)(ii), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 873 of this title as this chapter and items 9021, 9025, and 9027 as 9371, 9375, and 9377, respectively.
 
@@ -33,6 +35,6 @@ A prior chapter 947, consisting of repealed sections 9741 to 9748, related to tr
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 09371 - Air University civilian faculty members](%C2%A7%2009371%20-%20Air%20University%20civilian%20faculty%20members.md)
+- [&sect; 09371 - Air University and Space Delta 13 civilian faculty members](%C2%A7%2009371%20-%20Air%20University%20and%20Space%20Delta%2013%20civilian%20faculty%20members.md)
 - [&sect; 09375 - Production of supplies and munitions hours and pay of laborers and mechanics](%C2%A7%2009375%20-%20Production%20of%20supplies%20and%20munitions%20hours%20and%20pay%20of%20laborers%20and%20mechanics.md)
 - [&sect; 09377 - Civilian special agents of the Office of Special Investigations authority to execute warrants and make arrests](%C2%A7%2009377%20-%20Civilian%20special%20agents%20of%20the%20Office%20of%20Special%20Investigations%20authority%20to%20execute%20warrants%20and%20make%20arrests.md)

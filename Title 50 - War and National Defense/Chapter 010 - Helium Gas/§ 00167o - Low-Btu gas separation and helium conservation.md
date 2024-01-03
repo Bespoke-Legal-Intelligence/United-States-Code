@@ -18,7 +18,7 @@ The Secretary of Energy shall support programs of research, development, commerc
 
 #### (2) Helium separation technology
 
-&emsp;The Secretary of Energy shall support a research program to develop technologies forseparating, gathering, and processing helium in low concentrations that occur naturally in geological reservoirs or formations, including—
+&emsp;The Secretary of Energy shall support a research program to develop technologies for separating, gathering, and processing helium in low concentrations that occur naturally in geological reservoirs or formations, including—
 
 &emsp;&emsp;(A) low-Btu gas production streams; and
 

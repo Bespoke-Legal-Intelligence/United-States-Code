@@ -18,5 +18,5 @@ Ex. Ord. No. 10657, eff. Feb. 14, 1956, 21 F.R. 1063, as amended by Ex. Ord. No.
 
 #### Executive Order No. 11105
 
-Ex. Ord. No. 11105, eff. Apr. 18, 1963, 28 F.R. 3909, which provided for the transfer of certain functions of the Atomic Energy Commission under this chapter to the Housing and Home Finance Administrator, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 11105, eff. Apr. 18, 1963, 28 F.R. 3909, which provided for the transfer of certain functions of theAtomic Energy Commission under this chapter to the Housing and Home Finance Administrator, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 

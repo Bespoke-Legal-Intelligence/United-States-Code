@@ -30,7 +30,7 @@ The requirements of this part shall not apply to any group health plan (and grou
 
 #### (3) Supplemental excepted benefits
 
-&emsp;The requirements of this part shall not apply to any group health plan (and group health insurance coverage) in relation to itsprovision of excepted benefits described in section 1191b(c)(4) of this title if the benefits are provided under a separate policy, certificate, or contract of insurance.
+&emsp;The requirements of this part shall not apply to any group health plan (and group health insurance coverage) in relation to its provision of excepted benefits described in section 1191b(c)(4) of this title if the benefits are provided under a separate policy, certificate, or contract of insurance.
 
 #### (d) Treatment of partnerships
 

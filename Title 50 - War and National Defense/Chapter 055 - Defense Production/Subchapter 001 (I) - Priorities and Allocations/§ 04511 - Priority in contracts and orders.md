@@ -74,7 +74,7 @@ Subsec. (c)(2) to (4). Pub. L. 102–99, §6(3), (4), added par. (2), redesignat
 
 <b>1953</b>—Subsec. (a). Act June 30, 1953, struck out provisions which related to slaughtering of livestock and allocation of meat and meat products.
 
-Subsec. (b). Act June 30, 1953, retained priorities and allocation authority for defense production but generally to discontinue such authority with respect to the civilian market except in the special cases where,because of shortages and demands of the defense effort, there otherwise would be a significant dislocation in the civilian market resulting in appreciable hardship.
+Subsec. (b). Act June 30, 1953, retained priorities and allocation authority for defense production but generally to discontinue such authority with respect to the civilian market except in the special cases where, because of shortages and demands of the defense effort, there otherwise would be a significant dislocation in the civilian market resulting in appreciable hardship.
 
 <b>1952</b>—Act June 30, 1952, redesignated existing provisions as subsec. (a), inserted provisions relating to meat and meat products, and added subsec. (b).
 
@@ -132,7 +132,7 @@ For delegation of certain authority of President under this section, see section
 
 Ex. Ord. No. 13909, Mar. 18, 2020, 85 F.R. 16227, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended (50 U.S.C. 4501 et seq.) (the "Act"), and section 301 of title 3, United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended (50 U.S.C. 4501 <i>et seq</i>.) (the "Act"), and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Policy and Findings</i>. On March 13, 2020, I declared a national emergency recognizing the threat that the novel (new) coronavirus known as SARS–CoV–2 poses to our national security. In recognizing the public health risk, I noted that on March 11, 2020, the World Health Organization announced that the outbreak of COVID–19 (the disease caused by SARS–CoV–2) can be characterized as a pandemic. I also noted that while the Federal Government, along with State and local governments, have taken preventive and proactive measures to slow the spread of the virus and to treat those affected, the spread of COVID–19 within our Nation's communities threatens to strain our Nation's healthcare system. To ensure that our healthcare system is able to surge capacity and capability to respond to the spread of COVID–19, it is critical that all health and medical resources needed to respond to the spread of COVID–19 are properly distributed to the Nation's healthcare system and others that need them most at this time.
 
@@ -158,11 +158,11 @@ Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex Ord. No. 13911. Delegating Additional Authority Under the Defense Production Act With Respect to Health and Medical Resources To Respond to the Spread of COVID–19
+#### Ex. Ord. No. 13911. Delegating Additional Authority Under the Defense Production Act With Respect to Health and Medical Resources To Respond to the Spread of COVID–19
 
 Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended (50 U.S.C. 4501 et seq.) (the "Act"), the National Emergencies Act (50 U.S.C. 1601 et seq.), and section 301 of title 3, United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended (50 U.S.C. 4501 <i>et seq</i>.) (the "Act"), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. In Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) \[50 U.S.C. 1621 note\], I declared a national emergency recognizing the threat that the novel (new) coronavirus known as SARS–CoV–2 poses to our Nation's healthcare systems. In recognizing the public health risk, I noted that on March 11, 2020, the World Health Organization announced that the outbreak of COVID–19 (the disease caused by SARS–CoV–2) can be characterized as a pandemic. I also noted that while the Federal Government, along with State and local governments, have taken preventive and proactive measures to slow the spread of the virus and to treat those affected, the spread of COVID–19 within our Nation's communities threatens to strain our Nation's healthcare systems.
 
@@ -172,7 +172,7 @@ To ensure that our healthcare systems are able to surge capacity and capability 
 
 Sec. 2. <i>Delegation of Authority Under Title III of the Act</i>. (a) Notwithstanding Executive Order 13603 of March 16, 2012 (National Defense Resources Preparedness) \[50 U.S.C. 4553 note\], the Secretary of Health and Human Services and the Secretary of Homeland Security are each delegated, with respect to responding to the spread of COVID–19 within the United States, the authority of the President conferred by sections 301, 302, and 303 of the Act (50 U.S.C. 4531, 4532, and 4533), and the authority to implement the Act in subchapter III \[50 U.S.C. 4551 et seq.\] of chapter 55 of title 50, United States Code (50 U.S.C. 4554, 4555, 4556, and 4560).
 
-(b) The Secretary of Health and Human Services and the Secretary of Homeland Security may each use the authority under sections 301, 302, and 303 of the Act, in consultation with the Secretary of Defense and the heads of other executive departments and agencies as he deems appropriate, to respond to the spread of COVID–19.
+(b) The Secretary of Health and Human Services and the Secretary of Homeland Security may each use the authority under sections 301, 302, and 303 of the Act, in consultation with the Secretary of Defense and theheads of other executive departments and agencies as he deems appropriate, to respond to the spread of COVID–19.
 
 (c) To provide additional authority to respond to the national emergency I declared in Proclamation 9994, the requirements of section 301(a)(2), section 301(d)(1)(A), and section 303(a)(1) through (a)(6) of the Act are waived during the period of that national emergency.
 
@@ -180,7 +180,7 @@ Sec. 2. <i>Delegation of Authority Under Title III of the Act</i>. (a) Notwithst
 
 (e) Before exercising the authority delegated under this section with respect to health or medical resources, the Secretary of Homeland Security shall consult with the Secretary of Health and Human Services.
 
-Sec. 3. <i>Delegation of Authority Under Title VII of the Act</i>. (a) Notwithstanding Executive Order 13603, theSecretary of Health and Human Services and the Secretary of Homeland Security are each delegated, with respect to responding to the spread of COVID–19 within the United States, the authority of the President conferred by section 708(c)(1) and (d) of the Act \[50 U.S.C. 4558(c)(1) and (d)\]. The Secretary of Health and Human Services shall provide to the Secretary of Homeland Security notice of any use of such delegated authority.
+Sec. 3. <i>Delegation of Authority Under Title VII of the Act</i>. (a) Notwithstanding Executive Order 13603, the Secretary of Health and Human Services and the Secretary of Homeland Security are each delegated, with respect to responding to the spread of COVID–19 within the United States, the authority of the President conferred by section 708(c)(1) and (d) of the Act \[50 U.S.C. 4558(c)(1) and (d)\]. The Secretary of Health and Human Services shall provide to the Secretary of Homeland Security notice of any use of such delegated authority.
 
 (b) The delegation made in this section is made upon the condition that the Secretary of Health and Human Services or the Secretary of Homeland Security consult with the Attorney General and with the Federal Trade Commission, and obtain the prior approval of the Attorney General, after consultation by the Attorney General with the Federal Trade Commission, as required by section 708(c)(2) of the Act, except when such consultation is waived under subsection (c) of section 3 of this order and section 708(c)(3) of the Act.
 
@@ -218,7 +218,7 @@ Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13917, Apr. 28, 2020, 85 F.R. 26313, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended (50 U.S.C. 4501 et seq.) (the "Act"), and section 301 of title 3, United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended (50 U.S.C. 4501 <i>et seq</i>.) (the "Act"), and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. The 2019 novel (new) coronavirus known as SARS–CoV–2, the virus causing outbreaks of the disease COVID–19, has significantly disrupted the lives of Americans. In Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) \[50 U.S.C. 1621 note\], I declared that the COVID–19 outbreak in the United States constituted a national emergency, beginning March 1, 2020. Since then, the American people have united behind a policy of mitigation strategies, including social distancing, to flatten the curve of infections and reduce the spread of COVID–19. The COVID–19 outbreak and these necessary mitigation measures have taken a dramatic toll on the United States economy and critical infrastructure.
 
@@ -228,7 +228,7 @@ Such closures threaten the continued functioning of the national meat and poultr
 
 Accordingly, I find that meat and poultry in the food supply chain meet the criteria specified in section 101(b) of the Act (50 U.S.C. 4511(b)). Under the delegation of authority provided in this order, the Secretary of Agriculture shall take all appropriate action under that section to ensure that meat and poultry processors continue operations consistent with the guidance for their operations jointly issued by the CDC and OSHA. Under the delegation of authority provided in this order, the Secretary of Agriculture may identify additional specific food supply chain resources that meet the criteria of section 101(b).
 
-Sec. 2. <i>Ensuring the Continued Supply of Meat and Poultry</i>. (a) Notwithstanding Executive Order 13603 ofMarch 16, 2012 (National Defense Resources Preparedness) \[50 U.S.C. 4553 note\], the authority of the President to require performance of contracts or orders (other than contracts of employment) to promote the national defense over performance of any other contracts or orders, to allocate materials, services, and facilities as deemed necessary or appropriate to promote the national defense, and to implement the Act in subchapter III of chapter 55 of title 50, United States Code (50 U.S.C. 4554, 4555, 4556, 4559, 4560), is delegated to the Secretary of Agriculture with respect to food supply chain resources, including meat and poultry, during the national emergency caused by the outbreak of COVID–19 within the United States.
+Sec. 2. <i>Ensuring the Continued Supply of Meat and Poultry</i>. (a) Notwithstanding Executive Order 13603 of March 16, 2012 (National Defense Resources Preparedness) \[50 U.S.C. 4553 note\], the authority of the President to require performance of contracts or orders (other than contracts of employment) to promote the national defense over performance of any other contracts or orders, to allocate materials, services, and facilities as deemed necessary or appropriate to promote the national defense, and to implement the Act in subchapter III of chapter 55 of title 50, United States Code (50 U.S.C. 4554, 4555, 4556, 4559, 4560), is delegated to the Secretary of Agriculture with respect to food supply chain resources, including meat and poultry, during the national emergency caused by the outbreak of COVID–19 within the United States.
 
 (b) The Secretary of Agriculture shall use the authority under section 101 of the Act, in consultation with the heads of such other executive departments and agencies as he deems appropriate, to determine the proper nationwide priorities and allocation of all the materials, services, and facilities necessary to ensure the continued supply of meat and poultry, consistent with the guidance for the operations of meat and poultry processing facilities jointly issued by the CDC and OSHA.
 

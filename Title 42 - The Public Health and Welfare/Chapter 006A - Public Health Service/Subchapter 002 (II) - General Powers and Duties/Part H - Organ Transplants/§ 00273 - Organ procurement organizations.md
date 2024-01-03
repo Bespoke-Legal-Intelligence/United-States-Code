@@ -34,11 +34,13 @@
 
 &emsp;&emsp;&emsp;(IV) provide for a qualified organ procurement organization to appeal a decertification to the Secretary on substantive and procedural grounds; <sup>2</sup>
 
-&emsp;(E) has a defined service area that is of sufficient size to assure maximum effectiveness in the procurement and equitable distribution of organs, and that either includes an entire metropolitan statistical area (as specified by the Director of the Office of Management and Budget) or does not include any part of the area,
+&emsp;(E) has procedures to obtain payment for non-renal organs provided to transplant centers,
 
-&emsp;(F) has a director and such other staff, including the organ donation coordinators and organ procurement specialists necessary to effectively obtain organs from donors in its service area, and
+&emsp;(F) has a defined service area that is of sufficient size to assure maximum effectiveness inthe procurement and equitable distribution of organs, and that either includes an entire metropolitan statistical area (as specified by the Director of the Office of Management and Budget) or does not include any part of the area,
 
-&emsp;(G) has a board of directors or an advisory board which—
+&emsp;(G) has a director and such other staff, including the organ donation coordinators and organ procurement specialists necessary to effectively obtain organs from donors in its service area, and
+
+&emsp;(H) has a board of directors or an advisory board which—
 
 &emsp;&emsp;(i) is composed of—
 
@@ -46,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(II) members who represent the public residing in such area,
 
-&emsp;&emsp;&emsp;(III) a physician with knowledge, experience, or skill in the field of histocompatability <sup>3</sup> or an individual with a doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility,
+&emsp;&emsp;&emsp;(III) a physician with knowledge, experience, or skill in the field of histocompatibility or an individual with a doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility,
 
 &emsp;&emsp;&emsp;(IV) a physician with knowledge or skill in the field of neurology, and
 
@@ -88,7 +90,7 @@
 
 Pancreata procured by an organ procurement organization and used for islet cell transplantation or research shall be counted for purposes of certification or recertification under subsection (b).
 
-(July 1, 1944, ch. 373, title III, §371, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2342; amended Pub. L. 100–607, title IV, §402(a), (c)(1), (2), (d), Nov. 4, 1988, 102 Stat. 3114, 3115; Pub. L. 101–616, title II, §§201(a)–(c)(1), (d), (e), 206(b), Nov. 16, 1990, 104 Stat. 3283, 3285; Pub. L. 106–505, title VII, §701(c), Nov. 13, 2000, 114 Stat. 2347; Pub. L. 106–554, §1(a)(1) \[title II, §219(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–29; Pub. L. 108–216, §9, Apr. 5, 2004, 118 Stat. 590; Pub. L. 108–362, §2, Oct. 25, 2004, 118 Stat. 1703; Pub. L. 113–51, §2(a)(2), (3), Nov. 21, 2013, 127 Stat. 579, 580.)
+(July 1, 1944, ch. 373, title III, §371, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2342; amended Pub. L. 100–607, title IV, §402(a), (c)(1), (2), (d), Nov. 4, 1988, 102 Stat. 3114, 3115; Pub. L. 101–616, title II, §§201(a)–(c)(1), (d), (e), 206(b), Nov. 16, 1990, 104 Stat. 3283, 3285; Pub. L. 106–505, title VII, §701(c), Nov. 13, 2000, 114 Stat. 2347; Pub. L. 106–554, §1(a)(1) \[title II, §219(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–29; Pub. L. 108–216, §9, Apr. 5, 2004, 118 Stat. 590; Pub. L. 108–362, §2, Oct. 25, 2004, 118 Stat. 1703; Pub. L. 113–51, §2(a)(2), (3), Nov. 21, 2013, 127 Stat. 579, 580; Pub. L. 118–14, §3(1), Sept. 22, 2023, 137 Stat. 69.)
 
 #### <b>Editorial Notes</b>
 
@@ -98,21 +100,25 @@ Paragraph (2), referred to in subsec. (b)(1), meaning paragraph (2) of subsec. (
 
 The Social Security Act, referred to in subsec. (b)(1)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-Paragraph (1)(E), referred to in subsec. (b)(2)(A), meaning paragraph (1)(E) of subsec. (b) of this section, was redesignated paragraph (1)(F) by section 701(c)(1) of Pub. L. 106–505 and section 1(a)(1) \[title II, §219(b)(1)\] of Pub. L. 106–554. See 2000 Amendment note below.
+Paragraph (1)(E), referred to in subsec. (b)(2)(A), meaning par. (1)(E) of subsec. (b) of this section, probably should refer to par. (1)(F) of subsec. (b) after the redesignations by section 701(c)(1) of Pub. L. 106–505, section 1(a)(1) \[title II, §219(b)(1)\] of Pub. L. 106–554, and section 2(a)(3)(B) of Pub. L. 113–51, which successively redesignated such subpar. (E) as (F), (G), and (F). See 2000 and 2013 Amendment notes below.
 
 #### Prior Provisions
 
-A prior section 273, act July 1, 1944, ch. 373, title III, §371, as added July 28, 1956, ch. 772, title II, §201, 70 Stat. 709, authorized grants to the Territory of Alaska for an integrated mental health program, prior to repeal by Pub. L. 86–70, §31(b)(1), June 25, 1959, 73 Stat. 148, effective July 1, 1959.
+A prior section 273, act July 1, 1944, ch. 373, title III, §371, as added July 28, 1956, ch. 772, title II, §201, 70 Stat. 709, authorized grants to the Territory of Alaskafor an integrated mental health program, prior to repeal by Pub. L. 86–70, §31(b)(1), June 25, 1959, 73 Stat. 148, effective July 1, 1959.
 
 A prior section 371 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1, 70 Stat. 960, was renumbered section 381 and classified to section 275 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(1)(E), (F). Pub. L. 113–51, §2(a)(3)(A), (B), redesignated subpars. (F) and (G) as (E) and (F), respectively, and struck out former subpar. (E) which read as follows: "has procedures to obtain payment for non-renal organs provided to transplant centers,".
+<b>2023</b>—Subsec. (b)(1)(H)(i)(III). Pub. L. 118–14 substituted "histocompatibility or an individual" for "histocompatability or an individual".
 
-Subsec. (b)(1)(G). Pub. L. 113–51, §2(a)(3)(C), which directed the substitution of "(G) has a director" for "(H) has a director", was executed by substituting "(G) has a board of directors" for "(H) has a board of directors" to reflect the probable intent of Congress. Former subpar. (G) redesignated (F).
+<b>2013</b>—Subsec. (b)(1)(E), (F). Pub. L. 113–51, §2(a)(3)(A), (B), redesignated subpars. (F) and (G) as (E) and (F), respectively, and struck out former subpar. (E) which was identical to subpar. (D).
 
-Subsec. (b)(1)(G)(i)(V), (ii). Pub. L. 113–51, §2(a)(3)(D), which directed the amendment of subpar. (H) by substituting "paragraph (3)(G)" for "paragraph (2)(G)" in cl. (i)(V) and "paragraph (3)" for "paragraph (2)" in cl. (ii), was executed by making the substitutions in subpars. (G)(i)(V) and (G)(ii), respectively, to reflect the probable intent of Congress and the redesignation of subpar. (H) as (G) by Pub. L. 113–51, §2(a)(3)(C). See above.
+Subsec. (b)(1)(G). Pub. L. 113–51, §2(a)(3)(C), substituted "(G) has a director" for "(H) has a director". Former subpar. (G) redesignated (F).
+
+Subsec. (b)(1)(H)(i)(V). Pub. L. 113–51, §2(a)(3)(D)(i), substituted "paragraph (3)(G)" for "paragraph (2)(G)".
+
+Subsec. (b)(1)(H)(ii). Pub. L. 113–51, §2(a)(3)(D)(ii), substituted "paragraph (3)" for "paragraph (2)".
 
 Subsec. (b)(3)(C). Pub. L. 113–51, §2(a)(2), substituted "including arranging for testing with respect to identifying organs that are infected with human immunodeficiency virus (HIV)" for "including arranging for testing with respect to preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome".
 
@@ -120,7 +126,9 @@ Subsec. (b)(3)(C). Pub. L. 113–51, §2(a)(2), substituted "including arranging
 
 Subsec. (c). Pub. L. 108–362 added subsec. (c).
 
-<b>2000</b>—Subsec. (b)(1)(D) to (H). Pub. L. 106–505 and Pub. L. 106–554 amended par. (1) identically, adding subpar. (D), redesignating former subpars. (D) to (G) as (E) to (H), respectively, and realigning margins of subpar. (F).
+<b>2000</b>—Subsec. (b)(1)(D) to (H). Pub. L. 106–554 added subpar. (D) identical to that added by Pub. L. 106–505 and redesignated former subpars. (D) to (G), respectively, as (E) to (G) and (H) relating to director and such other staff obtaining organs from donors in its service area. Additional amendment directing realignment of margin of subpar. (F) could not be executed after amendment by Pub. L. 106–505.
+
+Pub. L. 106–505 added subpar. (D), redesignated former subpars. (D) to (G), respectively, as (E) to (G) and (H) relating to board of directors or advisory board, and realigned margin of subpar. (F).
 
 <b>1990</b>—Pub. L. 101–616, §201(a), substituted "Organ procurement organizations" for "Assistance for organ procurement organizations" in section catchline.
 
@@ -217,6 +225,4 @@ Pub. L. 98–507, title IV, §401, Oct. 19, 1984, 98 Stat. 3268, directed Secret
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The semicolon probably should be a comma.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be "histocompatibility".</i>
 

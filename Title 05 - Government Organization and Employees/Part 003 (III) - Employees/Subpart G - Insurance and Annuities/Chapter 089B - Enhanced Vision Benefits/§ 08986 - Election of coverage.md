@@ -1,6 +1,6 @@
 ### §8986. Election of coverage
 
-(a) An eligible individual may enroll in a vision benefits plan for self-only, self plus one, or for self and family. If an eligible individual hasa spouse who is also eligible to enroll, either spouse, but not both, may enroll for self plus one or self and family. An individual may not be enrolled both as an employee, annuitant, or other individual eligible to enroll and as a member of the family.
+(a) An eligible individual may enroll in a vision benefits plan for self-only, self plus one, or for self and family. If an eligible individual has a spouse who is also eligible to enroll, either spouse, but not both, may enroll for self plus one or self and family. An individual may not be enrolled both as an employee, annuitant, or other individual eligible to enroll and as a member of the family.
 
 (b) The Office shall prescribe regulations under which—
 
@@ -34,5 +34,5 @@ Amendment by Pub. L. 116–92 applicable to any contract for supplemental vision
 
 #### Effective Date
 
-Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
+Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendaryear 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 

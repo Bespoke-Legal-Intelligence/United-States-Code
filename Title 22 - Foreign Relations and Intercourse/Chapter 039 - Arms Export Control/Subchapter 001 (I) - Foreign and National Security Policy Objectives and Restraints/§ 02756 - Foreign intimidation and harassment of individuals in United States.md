@@ -12,5 +12,5 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 #### Amendments
 
-<b>2014</b>—Pub. L. 113–276 substituted "the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and" for "the Speaker of the House of Representatives and".
+<b>2014</b>—Pub. L. 113–276 substituted "the Speaker of the House of Representatives, the Committee on ForeignAffairs of the House of Representatives, and" for "the Speaker of the House of Representatives and".
 

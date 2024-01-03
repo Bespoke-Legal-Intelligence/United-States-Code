@@ -30,7 +30,7 @@ Membership of the Task Force shall consist of—
 
 #### (c) Ex officio members
 
-The chairpersons designated under subsection (d) shall invite representatives of the GreatLakes Commission, the Patrick Leahy Lake Champlain Basin Program, the Chesapeake Bay Program, the San Francisco Bay-Delta Estuary Program, and State agencies and other governmental entities to participate as ex officio members of the Task Force.
+The chairpersons designated under subsection (d) shall invite representatives of the Great Lakes Commission, the Patrick Leahy Lake Champlain Basin Program, the Chesapeake Bay Program, the San Francisco Bay-Delta Estuary Program, and State agencies and other governmental entities to participate as ex officio members of the Task Force.
 
 #### (d) Chairpersons
 

@@ -76,7 +76,7 @@ Subsec. (c). Pub. L. 90–130 struck out provisions entitling each assistant chi
 
 Subsec. (c). Pub. L. 89–609, §1(3), combined second and third sentences, substituting ", and" for period at end of second sentence and introductory word "She" to third sentence, substituted "An assistant chief" for "She" in fourth sentence, and in fifth sentence substituted "the regular grade held" and "in the section" for "her regular grade" and "in her section", respectively, and struck out "and the pay and allowances" before "of a lieutenant colonel".
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–649, §6(b)(2), struck out provisions which authorized the pay and allowances of a colonel for Chief of the Army Medical Specialist Corps.
+<b>1962</b>—Subsec. (b). Pub. L. 87–649, §6(b)(2), struck out provisions which authorized the pay and allowances ofa colonel for Chief of the Army Medical Specialist Corps.
 
 Subsec. (c). Pub. L. 87–649, §6(b)(3), struck out provisions which authorized the pay and allowances of a lieutenant colonel for each assistant chief of the Army Medical Specialist Corps.
 

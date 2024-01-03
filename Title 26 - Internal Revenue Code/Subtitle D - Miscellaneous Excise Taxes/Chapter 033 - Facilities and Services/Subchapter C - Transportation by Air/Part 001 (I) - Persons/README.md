@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [4261\.](%C2%A7%2004261%20-%20Imposition%20of%20tax.md) | Imposition of tax. |
 | [4262\.](%C2%A7%2004262%20-%20Definition%20of%20taxable%20transportation.md) | Definition of taxable transportation. |
-| [4263\.](%C2%A7%2004263%20-%20Special%20rules.md) | Special rules.<br> |
+| [4263\.](%C2%A7%2004263%20-%20Special%20rules.md) | Special rules. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

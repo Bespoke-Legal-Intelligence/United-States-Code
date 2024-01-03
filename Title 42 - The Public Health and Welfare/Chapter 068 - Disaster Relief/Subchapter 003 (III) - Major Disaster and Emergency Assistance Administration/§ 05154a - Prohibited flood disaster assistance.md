@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, no Federal disaster relief assistanc
 
 &emsp;In the event of the transfer of any property described in paragraph (3), the transferor shall, not later than the date on which such transfer occurs, notify the transferee in writing of the requirements to—
 
-&emsp;&emsp;(A) obtain flood insurance in accordance with applicable Federal law with respect tosuch property, if the property is not so insured as of the date on which the property is transferred; and
+&emsp;&emsp;(A) obtain flood insurance in accordance with applicable Federal law with respect to such property, if the property is not so insured as of the date on which the property is transferred; and
 
 &emsp;&emsp;(B) maintain flood insurance in accordance with applicable Federal law with respect to such property.
 
@@ -30,7 +30,7 @@ Notwithstanding any other provision of law, no Federal disaster relief assistanc
 
 #### (3) Property described
 
-&emsp;For purposes of paragraph (1), a property is described in this paragraph if it is personal, commercial, or residential property for which Federal disaster relief assistance made available in a flood disaster area has been provided, prior to the date on which the property is transferred, for repair, replacement, or restoration of the property, if such assistance was conditioned upon obtaining flood insurance in accordance with applicable Federal law with respect to such property.
+&emsp;For purposes of paragraph (1), a property is described in this paragraph if it is personal, commercial, or residential property for which Federal disaster relief assistance made available in a flood disaster area has been provided, prior to the date on which the property istransferred, for repair, replacement, or restoration of the property, if such assistance was conditioned upon obtaining flood insurance in accordance with applicable Federal law with respect to such property.
 
 #### (c) Omitted
 

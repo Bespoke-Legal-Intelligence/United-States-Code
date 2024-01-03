@@ -62,6 +62,56 @@ Subsec. (c)(3). Pub. L. 107–217, §3(b)(1)(D), substituted "section 11103 of t
 
 Pub. L. 105–261, div. A, title III, §331(b), Oct. 17, 1998, 112 Stat. 1968, provided that: "Section 2223 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1998."
 
+#### Required Policies To Establish Datalink Strategy of Department of Defense
+
+Pub. L. 118–31, div. A, title XV, §1527, Dec. 22, 2023, 137 Stat. 559, provided that:
+
+"(a)
+
+Policies Required.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall develop and implement policies to establish a unified datalink strategy of the Department of Defense (in this section referred to as the 'strategy').
+
+&emsp;"(2)
+
+Elements.—The policies under paragraph (1) shall provide for, at a minimum, the following:
+
+&emsp;&emsp;"(A) The designation of an organization to serve as the lead coordinator of datalink activities throughout the Department of Defense.
+
+&emsp;&emsp;"(B) The prioritization and coordination across the military departments with respect to the strategy within the requirements generation process of the Department.
+
+&emsp;&emsp;"(C) The use throughout the Department of a common standardized datalink network or transport protocol that ensures interoperability between independently developed datalinks, regardless of physical medium used, and ensures mesh routing. In developing such policy, the Secretary of Defense shall consider the use of a subset of Internet Protocol.
+
+&emsp;&emsp;"(D) A programmatic decoupling of the physical method used to transmit data, the network or transport protocols used in the transmission and reception of data, and the applications used to process and use data.
+
+&emsp;&emsp;"(E) Coordination of the strategy with respect to weapon systems executing the same mission types across the military departments, including through the use of a common set of datalink waveforms. In developing such policy, the Secretary shall evaluate the use of redundant datalinks for line-of-sight and beyond-line-of-sight information exchange for each weapon systems platform.
+
+&emsp;&emsp;"(F) Coordination between the Department and the intelligence community (as such term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)) to leverage any efficiencies and overlap with existing datalink waveforms of the intelligence community.
+
+&emsp;&emsp;"(G) Methods to support the rapid integration of common datalinks across the military departments.
+
+&emsp;&emsp;"(H) Support for modularity of specific datalink waveforms to enable rapid integration of future datalinks, including the use of software defined radios compliant with modular open system architecture and sensor open system architecture.
+
+"(b)
+
+Information to Congress.—Not later than June 1, 2024, the Secretary of Defense shall—
+
+&emsp;"(1) provide to the appropriate congressional committees a briefing on the proposed policies under subsection (a)(1), including timelines for the implementation of such policies; and
+
+&emsp;"(2) submit to the appropriate congressional committees—
+
+&emsp;&emsp;"(A) an estimated timeline for the implementations of datalinks;
+
+&emsp;&emsp;"(B) a list of any additional resources and authorities necessary to implement the strategy; and
+
+&emsp;&emsp;"(C) a determination of whether a common set of datalinks can and should be implemented across all major weapon systems (as such term is defined in section 3455 of title 10, United States Code) of the Department of Defense.
+
+"(c)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the congressional intelligence committees, as such term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)."
+
 #### Demonstration Program for Component Content Management Systems
 
 Pub. L. 117–263, div. A, title IX, §917, Dec. 23, 2022, 136 Stat. 2756, provided that:
@@ -326,7 +376,7 @@ In General.—The Secretary of Defense shall direct the Chief Information Office
 
 &emsp;"(1) The continuous prioritization of the policies, principles, standards, and guidelines developed under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3) with agencies and offices operating or exercising control of national security systems (including the National Security Agency) based upon the evolving threat of information security incidents with respect to national security systems, the vulnerability of such systems to such incidents, and the consequences of information security incidents involving such systems.
 
-&emsp;"(2) The automation of continuous monitoring of the effectiveness of the information security policies, procedures, and practices within the information infrastructure of the Department of Defense, and the compliance of that infrastructure with such policies, procedures, and practices, including automation of—
+&emsp;"(2) The automation of continuous monitoring of the effectiveness of the information security policies, procedures, and practices within the information infrastructure of the Department of Defense, and thecompliance of that infrastructure with such policies, procedures, and practices, including automation of—
 
 &emsp;&emsp;"(A) management, operational, and technical controls of every information system identified in the inventory required under section 3505(c) of title 44, United States Code; and
 
@@ -344,5 +394,5 @@ Definitions.—In this section:
 
 &emsp;"(2) The term 'information infrastructure' means the underlying framework, equipment, and software that an information system and related assets rely on to process, transmit, receive, or store information electronically.
 
-&emsp;"(3) The term 'national security system' has the meaning given that term in \[former\] section 3542(b)(2)of title 44, United States Code \[see now 44 U.S.C. 3552(b)(6)\]."
+&emsp;"(3) The term 'national security system' has the meaning given that term in \[former\] section 3542(b)(2) of title 44, United States Code \[see now 44 U.S.C. 3552(b)(6)\]."
 

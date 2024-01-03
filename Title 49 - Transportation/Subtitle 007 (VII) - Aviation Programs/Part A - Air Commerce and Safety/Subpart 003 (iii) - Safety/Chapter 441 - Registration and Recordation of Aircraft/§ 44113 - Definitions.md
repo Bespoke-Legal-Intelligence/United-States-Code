@@ -4,7 +4,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(1)
 
-Cape town treaty.—The term "Cape Town Treaty" means the Convention on International Interests in Mobile Equipment, as modified by the Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment, signed at Rome on May 9, 2003.
+Cape town treaty.—The term "Cape Town Treaty" means the Convention on International Interests in Mobile Equipment, as modified by the Protocol to the Convention onInternational Interests in Mobile Equipment on Matters Specific to Aircraft Equipment, signed at Rome on May 9, 2003.
 
 &emsp;(2)
 

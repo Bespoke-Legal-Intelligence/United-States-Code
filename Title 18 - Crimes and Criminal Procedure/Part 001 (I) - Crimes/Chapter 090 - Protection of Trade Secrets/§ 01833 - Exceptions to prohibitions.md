@@ -74,7 +74,7 @@ The date of enactment of this subsection, referred to in subsec. (b)(3)(D), is t
 
 Pub. L. 114–153, §2(c), inserted "or create a private right of action for" after "prohibit" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 114–153, §7(a)(2), substituted "the disclosure of a trade secret in accordance with subsection (b)" for "the reporting of a suspected violation of law to any governmental entity of the United States, a State, or a political subdivision of a State, if such entity has lawful authority with respect to that violation".
+Subsec. (a)(2). Pub. L. 114–153, §7(a)(2), substituted "the disclosure of a trade secret in accordance withsubsection (b)" for "the reporting of a suspected violation of law to any governmental entity of the United States, a State, or a political subdivision of a State, if such entity has lawful authority with respect to that violation".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -88,5 +88,5 @@ Pub. L. 114–153, §2(f), May 11, 2016, 130 Stat. 382, provided that: "Nothing 
 
 #### Applicability of Section 2 of Pub. L. 114–153 to Other Laws
 
-Pub. L. 114–153, §2(g), May 11, 2016, 130 Stat. 382, provided that: "This section \[amending this section and sections 1836 and 1839 of this title and enacting provisions set out as notes under this section\] and theamendments made by this section shall not be construed to be a law pertaining to intellectual property for purposes of any other Act of Congress."
+Pub. L. 114–153, §2(g), May 11, 2016, 130 Stat. 382, provided that: "This section \[amending this section and sections 1836 and 1839 of this title and enacting provisions set out as notes under this section\] and the amendments made by this section shall not be construed to be a law pertaining to intellectual property for purposes of any other Act of Congress."
 

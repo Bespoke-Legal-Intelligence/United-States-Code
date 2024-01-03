@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, an officer or employee of the Centra
 
 &emsp;(1) has five years of civilian service credit toward retirement under such subchapter III of chapter 83, title 5;
 
-&emsp;(2) has not been designated under section 2013 of this title,<sup>1</sup> as a participant in the Central Intelligence Agency Retirement and Disability System;
+&emsp;(2) has not been designated under section 2013 of this title as a participant in the Central Intelligence Agency Retirement and Disability System;
 
 &emsp;(3) has become disabled during a period of assignment to the performance of duties that are qualifying toward such designation under such section 2013 of this title; and
 
@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, in the case of an officer or employe
 
 The annuities provided under subsections (a) and (b) of this section shall be deemed to be annuities under chapter 83 of title 5 for purposes of the other provisions of such chapter and other laws (including title 26) relating to such annuities, and shall be payable from the Central Intelligence Agency Retirement and Disability Fund maintained pursuant to section 2012 of this title.
 
-(June 20, 1949, ch. 227, §19, as added Pub. L. 101–193, title III, §307(a), Nov. 30, 1989, 103 Stat. 1705; amended Pub. L. 102–496, title VIII, §803(a)(3), Oct. 24, 1992, 106 Stat. 3252; Pub. L. 103–178, title V, §501(3), Dec. 3, 1993, 107 Stat. 2038.)
+(June 20, 1949, ch. 227, §19, as added Pub. L. 101–193, title III, §307(a), Nov. 30, 1989, 103 Stat. 1705; amended Pub. L. 102–496, title VIII, §803(a)(3), Oct. 24, 1992, 106 Stat. 3252; Pub. L. 103–178, title V, §501(3), Dec. 3, 1993, 107 Stat. 2038; Pub. L. 118–31, div. G, title IX, §7901(g)(5), Dec. 22, 2023, 137 Stat. 1107.)
 
 #### <b>Editorial Notes</b>
 
@@ -41,6 +41,8 @@ The annuities provided under subsections (a) and (b) of this section shall be de
 Section was formerly classified to section 403s of this title prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(2). Pub. L. 118–31 substituted "as a participant" for ", as a participant".
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–178, §501(3)(A), (C), substituted "section 2052" for "section 2051" in heading and concluding provisions.
 

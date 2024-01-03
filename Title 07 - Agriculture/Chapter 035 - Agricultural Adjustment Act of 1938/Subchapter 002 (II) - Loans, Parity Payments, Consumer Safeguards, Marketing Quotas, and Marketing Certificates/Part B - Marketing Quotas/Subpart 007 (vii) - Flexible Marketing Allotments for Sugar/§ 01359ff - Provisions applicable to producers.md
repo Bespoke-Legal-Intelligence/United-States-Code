@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If allotments for a crop year are allocated to processors under section 1359dd of this title, the Secretary shall obtain from the processors such assurances as the Secretary considers adequate that the allocation will be shared among producers served by the processor in a fair and equitable manner that adequately reflects producers' production histories.
+&emsp;If allotments for a crop year are allocated to processors under section 1359dd of this title, the Secretary shall obtain from the processors such assurances as the Secretary considers adequate that the allocation will be shared among producers served by the processor in afair and equitable manner that adequately reflects producers' production histories.
 
 #### (2) Arbitration
 
@@ -82,7 +82,7 @@
 
 &emsp;For purposes of this subsection, the acreage base for each sugarcane-producing farm shall be determined by the Secretary, as follows:
 
-&emsp;&emsp;(A) The acreage base for any farm shall be the number of acres that is equal to the average of the acreage planted and considered planted for harvest for sugar or seed on thefarm in the 2 highest of the 1999, 2000, and 2001 crop years.
+&emsp;&emsp;(A) The acreage base for any farm shall be the number of acres that is equal to the average of the acreage planted and considered planted for harvest for sugar or seed on the farm in the 2 highest of the 1999, 2000, and 2001 crop years.
 
 &emsp;&emsp;(B) Acreage planted to sugarcane that producers on a farm were unable to harvest to sugarcane for sugar or seed because of drought, flood, other natural disaster, or other condition beyond the control of the producers may be considered as harvested for the production of sugar or seed for purposes of this paragraph.
 

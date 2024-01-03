@@ -104,7 +104,7 @@ Pub. L. 97–377, title I, §101(e)(1) \[title V, §501\], Dec. 21, 1982, 96 Sta
 
 #### Availability of Appropriations for Services
 
-Pub. L. 102–394, title V, §503, Oct. 6, 1992, 106 Stat. 1825, provided that: "Appropriations contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for services as authorized by 5 U.S.C. 3109 but at rates for individuals not to exceed the per diem rate equivalent to the maximum rate payable for senior-level positions under 5 U.S.C. 5376."
+Pub. L. 102–394, title V, §503, Oct. 6, 1992, 106 Stat. 1825, provided that: "Appropriations contained in thisAct or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for services as authorized by 5 U.S.C. 3109 but at rates for individuals not to exceed the per diem rate equivalent to the maximum rate payable for senior-level positions under 5 U.S.C. 5376."
 
 \[For reference to maximum rate under section 5376 of this title, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of this title.\]
 

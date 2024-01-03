@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in paragraph (2), a transfer of (or change in) the interest of theproducers on a farm in the base acres for peanuts for which direct payments or counter-cyclical payments are made, or on which average crop revenue election payments are based, shall result in the termination of the direct payments, counter-cyclical payments, or average crop revenue election payments to the extent the payments are made or based on the base acres, unless the transferee or owner of the acreage agrees to assume all obligations under subsection (a).
+&emsp;&emsp;Except as provided in paragraph (2), a transfer of (or change in) the interest of the producers on a farm in the base acres for peanuts for which direct payments or counter-cyclical payments are made, or on which average crop revenue election payments are based, shall result in the termination of the direct payments, counter-cyclical payments, or average crop revenue election payments to the extent the payments are made or based on the base acres, unless the transferee or owner of the acreage agrees to assume all obligations under subsection (a).
 
 #### (B) Effective date
 
@@ -56,7 +56,7 @@ In carrying out this subchapter, the Secretary shall provide adequate safeguards
 
 #### (e) Sharing of payments
 
-The Secretary shall provide for the sharing of direct payments, counter-cyclical payments, or average crop revenue election payments under section 8715 <sup>1</sup> of this title among the producers on a farm on a fair and equitable basis.
+The Secretary shall provide for the sharing of direct payments, counter-cyclical payments, oraverage crop revenue election payments under section 8715 <sup>1</sup> of this title among the producers on a farm on a fair and equitable basis.
 
 #### (f) Extension of 2008 signup
 

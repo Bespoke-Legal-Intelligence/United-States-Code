@@ -1,6 +1,6 @@
 ### §60307. Vessels engaged in coastwise trade or the fisheries
 
-A vessel with a registry endorsement or a coastwise endorsement, trading from one port in the United States to another port in the United States or employed in the bank, whale, or otherfisheries, is exempt from tonnage taxes and light money.
+A vessel with a registry endorsement or a coastwise endorsement, trading from one port in the United States to another port in the United States or employed in the bank, whale, or other fisheries, is exempt from tonnage taxes and light money.
 
 (Pub. L. 109–304, §9(b), Oct. 6, 2006, 120 Stat. 1678.)
 

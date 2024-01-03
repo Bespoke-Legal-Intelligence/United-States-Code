@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of section 38, the enhanced oil recovery credit for any taxable year is an amountequal to 15 percent of the taxpayer's qualified enhanced oil recovery costs for such taxable year.
+For purposes of section 38, the enhanced oil recovery credit for any taxable year is an amount equal to 15 percent of the taxpayer's qualified enhanced oil recovery costs for such taxable year.
 
 #### (b) Phase-out of credit as crude oil prices increase
 
@@ -195,6 +195,8 @@ Special rule for significant expansion of projects.—For purposes of section 43
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2023</b>—Internal Revenue Notice 2023–57.
 
 <b>2022</b>—Internal Revenue Notice 2022–19.
 

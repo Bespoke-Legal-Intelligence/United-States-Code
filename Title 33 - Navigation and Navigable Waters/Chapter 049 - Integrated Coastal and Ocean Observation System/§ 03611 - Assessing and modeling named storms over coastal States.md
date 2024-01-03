@@ -126,7 +126,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than December 31, 2020, the Administrator shall establish a protocol, based on the plan submitted under subsection (d)(3), to collect and assemble all covered data requiredby the Administrator to produce post-storm assessments required by subsection (b), including assembling data collected by participants and stored in the database established under subsection (f) and from such other sources as the Administrator considers appropriate.
+&emsp;Not later than December 31, 2020, the Administrator shall establish a protocol, based on the plan submitted under subsection (d)(3), to collect and assemble all covered data required by the Administrator to produce post-storm assessments required by subsection (b), including assembling data collected by participants and stored in the database established under subsection (f) and from such other sources as the Administrator considers appropriate.
 
 #### (2) Acquisition of sensors and structures
 

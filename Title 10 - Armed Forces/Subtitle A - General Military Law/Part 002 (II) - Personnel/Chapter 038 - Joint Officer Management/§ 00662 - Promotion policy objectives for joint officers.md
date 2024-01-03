@@ -42,7 +42,7 @@ Subsec. (a)(2)(B). Pub. L. 107–314, §1062(a)(4)(B), substituted "after Decemb
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–201, §510(b), in first sentence, substituted "paragraphs" for "clauses" and, in second sentence, inserted "for any fiscal year" after "such objectives" and substituted "report for that fiscal year" for "periodic report required by this subsection".
 
-Pub. L. 104–201, §510(a), substituted "Annual Report" for "Report" in heading and "Not later than January 1 of each year, the Secretary of Defense shall submit to Congress a report on the promotion rates during the preceding fiscal year" for "The Secretary of Defense shall periodically (and not less often than every six months) report to Congress on the promotion rates" in text.
+Pub. L. 104–201, §510(a), substituted "Annual Report" for "Report" in heading and "Not later than January 1of each year, the Secretary of Defense shall submit to Congress a report on the promotion rates during the preceding fiscal year" for "The Secretary of Defense shall periodically (and not less often than every six months) report to Congress on the promotion rates" in text.
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–510 substituted "the Secretary shall include in the periodic report required by this subsection information on such failure and on" for "the Secretary shall immediately notify Congress of such failure and of".
 

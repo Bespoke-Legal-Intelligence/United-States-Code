@@ -300,7 +300,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) another school from which the student is expected to receive a regular high school diploma; or
 
-&emsp;&emsp;&emsp;&emsp;(II) another educational program from which the student is expected to receivea regular high school diploma or an alternate diploma that meets the requirements of subparagraph (A)(ii)(I)(bb).
+&emsp;&emsp;&emsp;&emsp;(II) another educational program from which the student is expected to receive a regular high school diploma or an alternate diploma that meets the requirements of subparagraph (A)(ii)(I)(bb).
 
 #### (ii) Confirmation requirements
 
@@ -416,7 +416,7 @@ Except as otherwise provided, in this chapter:
 
 #### (39) Parental involvement
 
-&emsp;The term "parental involvement" means the participation of parents in regular, two-way, and meaningful communication involving student academic learning and other school activities, including ensuring—
+&emsp;The term "parental involvement" means the participation of parents in regular, two-way,and meaningful communication involving student academic learning and other school activities, including ensuring—
 
 &emsp;&emsp;(A) that parents play an integral role in assisting their child's learning;
 
@@ -514,7 +514,7 @@ Except as otherwise provided, in this chapter:
 
 #### (45) Secondary school
 
-&emsp;The term "secondary school" means a nonprofit institutional day or residential school, including a public secondary charter school,that provides secondary education, as determined under State law, except that the term does not include any education beyond grade 12.
+&emsp;The term "secondary school" means a nonprofit institutional day or residential school, including a public secondary charter school, that provides secondary education, as determined under State law, except that the term does not include any education beyond grade 12.
 
 #### (46) Secretary
 
@@ -552,7 +552,7 @@ Except as otherwise provided, in this chapter:
 
 #### (52) Well-rounded education
 
-&emsp;The term "well-rounded education" means courses, activities, and programming in subjects such as English, reading or language arts, writing, science, technology, engineering, mathematics, foreign languages, civics and government, economics, arts, history, geography, computer science, music, career and technical education, health, physical education, and any other subject, as determined by the State or local educational agency, with the purpose of providing all students access to an enriched curriculum and educational experience.
+&emsp;The term "well-rounded education" means courses, activities, and programming in subjects such as English, reading or language arts, writing, science, technology, engineering, mathematics, foreign languages, civics and government, economics, arts, history, geography, computer science, music, career andtechnical education, health, physical education, and any other subject, as determined by the State or local educational agency, with the purpose of providing all students access to an enriched curriculum and educational experience.
 
 (Pub. L. 89–10, title VIII, §8101, formerly title IX, §9101, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1956; renumbered title VIII, §8101, and amended Pub. L. 114–95, title VIII, §§8001(a)(1), (b)(2), (3), 8002, Dec. 10, 2015, 129 Stat. 2088, 2089.)
 

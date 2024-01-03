@@ -14,7 +14,7 @@ Papa Ola Lokahi shall be responsible for the—
 
 #### (b) Special project funds
 
-Papa Ola Lokahi is authorized to receive special project funds that may be appropriated forthe purpose of research on the health status of Native Hawaiians or for the purpose of addressing the health care needs of Native Hawaiians.
+Papa Ola Lokahi is authorized to receive special project funds that may be appropriated for the purpose of research on the health status of Native Hawaiians or for the purpose of addressing the health care needs of Native Hawaiians.
 
 #### (c) Clearinghouse
 
@@ -48,7 +48,7 @@ Papa Ola Lokahi is authorized to enter into agreements or memoranda of understan
 
 #### Codification
 
-The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on "September 12, 1992", has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
+The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on "September 12, 1992", has been treated as referring to S. 2681, as passed by theSenate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
 Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections. The text of this section is based on section 5 of Pub. L. 100–579, as subsequently amended.
 

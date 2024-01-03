@@ -32,7 +32,7 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 &emsp;&emsp;(B) Beneficial ownership by any person who acquires securities or interests in securities of an issuer described in the first sentence of this paragraph shall be deemed to be beneficial ownership by the person from whom such transfer was made, pursuant to such rules and regulations as the Commission shall prescribe as necessary or appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of this subchapter, where the transfer was caused by legal separation, divorce, death, or other involuntary event.
 
-&emsp;&emsp;(C)(i) The term "qualifying venture capital fund" means a venture capital fund that has not more than $10,000,000 in aggregate capital contributions and uncalled committed capital, with such dollar amount to be indexed for inflation once every 5 years by the Commission, beginning from a measurement made by the Commission on a date selected by the Commission, rounded to the nearest $1,000,000.
+&emsp;&emsp;(C)(i) The term "qualifying venture capital fund" means a venture capital fund that has not more than $10,000,000 in aggregate capital contributions and uncalled committedcapital, with such dollar amount to be indexed for inflation once every 5 years by the Commission, beginning from a measurement made by the Commission on a date selected by the Commission, rounded to the nearest $1,000,000.
 
 &emsp;&emsp;(ii) The term "venture capital fund" has the meaning given the term in section 275.203(l)–1 of title 17, Code of Federal Regulations, or any successor regulation.
 
@@ -50,7 +50,7 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 &emsp;&emsp;&emsp;(III) is entered into in response to a request from a counter party for a quotation, or is otherwise entered into and structured to accommodate the objectives of the counter party to such arrangement.
 
-&emsp;(3) Any bank or insurance company; any savings and loan association, building and loan association, cooperative bank, homestead association, or similar institution, or any receiver, conservator, liquidator, liquidating agent, or similar official or person thereof ortherefor; or any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment of moneys contributed thereto by the bank in its capacity as a trustee, executor, administrator, or guardian, if—
+&emsp;(3) Any bank or insurance company; any savings and loan association, building and loan association, cooperative bank, homestead association, or similar institution, or any receiver, conservator, liquidator, liquidating agent, or similar official or person thereof or therefor; or any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment of moneys contributed thereto by the bank in its capacity as a trustee, executor, administrator, or guardian, if—
 
 &emsp;&emsp;(A) such fund is employed by the bank solely as an aid to the administration of trusts, estates, or other accounts created and maintained for a fiduciary purpose;
 
@@ -92,7 +92,7 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 &emsp;(8) \[Repealed\] Pub. L. 111–203, title IX, §986(c)(2), July 21, 2010, 124 Stat. 1936.
 
-&emsp;(9) Any person substantially all of whose business consists of owning or holding oil, gas,or other mineral royalties or leases, or fractional interests therein, or certificates of interest or participation in or investment contracts relative to such royalties, leases, or fractional interests.
+&emsp;(9) Any person substantially all of whose business consists of owning or holding oil, gas, or other mineral royalties or leases, or fractional interests therein, or certificates of interest or participation in or investment contracts relative to such royalties, leases, or fractional interests.
 
 &emsp;(10)(A) Any company organized and operated exclusively for religious, educational, benevolent, fraternal, charitable, or reformatory purposes—
 
@@ -156,7 +156,7 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 &emsp;&emsp;(B) substantially all of the activities of which consist of—
 
-&emsp;&emsp;&emsp;(i) managing or holding assets contributed to such church plans or other assetswhich are permitted to be commingled with the assets of church plans under title 26; or
+&emsp;&emsp;&emsp;(i) managing or holding assets contributed to such church plans or other assets which are permitted to be commingled with the assets of church plans under title 26; or
 
 &emsp;&emsp;&emsp;(ii) administering or providing benefits pursuant to church plans.
 

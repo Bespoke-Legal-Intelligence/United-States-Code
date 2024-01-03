@@ -120,7 +120,7 @@
 
 &emsp;&emsp;&emsp;(iii) identify the specific resources required to enable the relevant National Drug Control Program agencies to implement that strategy; and
 
-&emsp;&emsp;&emsp;(iv) identify the resources, including private sources, required to eliminate the unmet need for evidence-based substance use disorder treatment.
+&emsp;&emsp;&emsp;(iv) identify the resources, including private sources, required to eliminate theunmet need for evidence-based substance use disorder treatment.
 
 #### (2) Consultation
 
@@ -250,7 +250,7 @@ If the Director does not submit a National Drug Control Strategy to Congress in 
 
 &emsp;&emsp;&emsp;&emsp;(IV) the known and estimated levels of domestic production in the calendar year and each of the previous three calendar years, including the levels of domestic production if the drug is a prescription drug, as determined under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], for which a listing is in effect under section 812 of this title;
 
-&emsp;&emsp;&emsp;&emsp;(V) the average street price for the calendar year and the highest known streetprice during the preceding 10-year period; and
+&emsp;&emsp;&emsp;&emsp;(V) the average street price for the calendar year and the highest known street price during the preceding 10-year period; and
 
 &emsp;&emsp;&emsp;&emsp;(VI) to the extent practicable, related prosecutions by State, local, and Tribal governments; <sup>2</sup>
 
@@ -338,7 +338,7 @@ Not later than February 1 of each year, the Director shall submit to Congress as
 
 &emsp;&emsp;(C) the adequacy of the coverage of existing national treatment outcome monitoring systems to measure the effectiveness of drug abuse treatment in reducing illicit drug use and criminal behavior during and after the completion of substance abuse treatment; and
 
-&emsp;&emsp;(D) the actions the Director shall take to correct any deficiencies and limitations identified pursuant to subparagraphs (A) and (B) of this subsection; and
+&emsp;&emsp;(D) the actions the Director shall take to correct any deficiencies and limitationsidentified pursuant to subparagraphs (A) and (B) of this subsection; and
 
 &emsp;(7) develops performance measures and targets for the National Drug Control Strategy for supplemental strategies (the Southwest Border, Northern Border, and Caribbean Border Counternarcotics Strategies) to effectively evaluate region-specific goals, to the extent the performance measurement system does not adequately measure the effectiveness of the strategies, as determined by the Director, such strategies may evaluate interdiction efforts at and between ports of entry, interdiction technology, intelligence sharing, diplomacy, and other appropriate metrics, specific to each supplemental strategies region, as determined by the Director.
 
@@ -402,7 +402,7 @@ Amendment by section 2(c)(1)(B) of Pub. L. 116–74 effective as if included in 
 
 #### Requirement for Southwest Border Counternarcotics Strategy
 
-Pub. L. 109–469, title XI, §1110, Dec. 29, 2006, 120 Stat. 3543, which directed the Director of National Drug Control Policy to submit to Congress every two years aSouthwest Border Counternarcotics Strategy, was repealed by Pub. L. 115–271, title VIII, §8221(b)(2), Oct. 24, 2018, 132 Stat. 4142. See subsection (c)(3)(B) of this section.
+Pub. L. 109–469, title XI, §1110, Dec. 29, 2006, 120 Stat. 3543, which directed the Director of National Drug Control Policy to submit to Congress every two years a Southwest Border Counternarcotics Strategy, was repealed by Pub. L. 115–271, title VIII, §8221(b)(2), Oct. 24, 2018, 132 Stat. 4142. See subsection (c)(3)(B) of this section.
 
 #### Requirement for Northern Border Counternarcotics Strategy
 

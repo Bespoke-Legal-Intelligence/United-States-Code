@@ -24,7 +24,7 @@ Sustainment and Operation for Civilian Purposes.—The Secretary of Defense shal
 
 (c)
 
-Federal Radionavigation Plan.—The Secretary of Defense and the Secretary of Transportation shall jointly prepare the Federal Radionavigation Plan. The plan shall be revised and updated not less often than every two years. The plan shall be prepared in accordance with the requirements applicable to such plan as first prepared pursuant to section 507 of the International Maritime Satellite Telecommunications Act <sup>1</sup> (47 U.S.C. 756). The plan, and anyamendment to the plan, shall be published in the Federal Register.
+Federal Radionavigation Plan.—The Secretary of Defense and the Secretary of Transportation shall jointly prepare the Federal Radionavigation Plan. The plan shall be revised and updated not less often than every two years. The plan shall be prepared in accordance with the requirements applicable to such plan as first prepared pursuant to section 507 of the International Maritime Satellite Telecommunications Act <sup>1</sup> (47 U.S.C. 756). The plan, and any amendment to the plan, shall be published in the Federal Register.
 
 (d)
 
@@ -206,7 +206,7 @@ Elements.—In carrying out the program under subsection (a), the Secretary shal
 
 &emsp;"(4) conduct an assessment of the desirability of establishing a program for the development and deployment of the receiver system described in subsection (a) in a manner that—
 
-&emsp;&emsp;"(A) is a cooperative effort, coordinated with the Secretary of State, between the United States andthe allies of the United States that may also have interest in funding a multi-global navigation satellite system and M-code program; and
+&emsp;&emsp;"(A) is a cooperative effort, coordinated with the Secretary of State, between the United States and the allies of the United States that may also have interest in funding a multi-global navigation satellite system and M-code program; and
 
 &emsp;&emsp;"(B) the Secretary of Defense, in coordination with the Secretary of State, ensures that the United States has access to sufficient insight into trusted signals of allied systems to assure potential reliance by the United States on such signals.
 
@@ -400,7 +400,7 @@ Briefings by Comptroller General.—The Comptroller General shall provide to the
 
 "(d)
 
-Termination.—The requirement under subsection (a) shall terminate with respect to an acquisition program specified in that subsection on the date on which that program reaches initial operational capability."
+Termination.—The requirement under subsection (a) shall terminate with respect to an acquisition program specified in that subsection on the dateon which that program reaches initial operational capability."
 
 #### Limitation on Construction on United States Territory of Satellite Positioning Ground Monitoring Stations of Foreign Governments
 

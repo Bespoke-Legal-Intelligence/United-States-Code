@@ -12,7 +12,7 @@ Each application under this section—
 
 &emsp;&emsp;(A) a judge of the court established by section 1803(a) of this title; or
 
-&emsp;&emsp;(B) a United States Magistrate Judge under chapter 43 of title 28 who is publicly designated by the Chief Justice of theUnited States to have the power to hear applications and grant orders for the release of records under this section on behalf of a judge of that court; and
+&emsp;&emsp;(B) a United States Magistrate Judge under chapter 43 of title 28 who is publicly designated by the Chief Justice of the United States to have the power to hear applications and grant orders for the release of records under this section on behalf of a judge of that court; and
 
 &emsp;(2) shall specify that—
 

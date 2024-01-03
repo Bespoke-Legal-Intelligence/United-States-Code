@@ -76,7 +76,7 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 #### (b) Existing facilities
 
-(1) The Assistant Secretary shall carry out a program for making grants to States under State plans approved under section 3027 of this title for the acquisition, alteration, or renovation of existing facilities, including mobileunits, and, where appropriate, construction or modernization of facilities to serve as multipurpose senior centers.
+(1) The Assistant Secretary shall carry out a program for making grants to States under State plans approved under section 3027 of this title for the acquisition, alteration, or renovation of existing facilities, including mobile units, and, where appropriate, construction or modernization of facilities to serve as multipurpose senior centers.
 
 (2) Funds made available to a State under this part may be used for the purpose of assisting in the operation of multipurpose senior centers and meeting all or part of the costs of compensating professional and technical personnel required for the operation of multipurpose senior centers.
 
@@ -98,7 +98,7 @@ In this section, the term "adult child with a disability" means a child who—
 
 &emsp;(3) has a disability.
 
-(Pub. L. 89–73, title III, §321, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1535; amended Pub. L. 97–115, §§3(d), 10(a)–(c), Dec. 29, 1981, 95 Stat. 1597, 1600; Pub. L. 98–459, title III, §312, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 100–175, title I, §§136(d), 146(b), 182(m), Nov. 29, 1987, 101 Stat. 943, 950, 967; Pub. L. 102–375, title III, §312, title VII, §708(b), title IX, §904(a)(15), Sept. 30, 1992, 106 Stat. 1237, 1292, 1308; Pub. L. 103–171, §§2(12), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 106–501, title III, §311, title VIII, §801(c)(5), Nov. 13, 2000, 114 Stat. 2251, 2292; Pub. L. 109–365, title III, §311, Oct. 17, 2006, 120 Stat. 2547; Pub. L. 113–128, title V, §512(w)(2), July 22, 2014, 128 Stat. 1713; Pub. L. 114–144, §§4(g), 9(5), Apr. 19, 2016, 130 Stat. 339, 352; Pub. L. 116–131, title II, §§213, 214, Mar. 25, 2020, 134 Stat. 259.)
+(Pub. L. 89–73, title III, §321, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1535;amended Pub. L. 97–115, §§3(d), 10(a)–(c), Dec. 29, 1981, 95 Stat. 1597, 1600; Pub. L. 98–459, title III, §312, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 100–175, title I, §§136(d), 146(b), 182(m), Nov. 29, 1987, 101 Stat. 943, 950, 967; Pub. L. 102–375, title III, §312, title VII, §708(b), title IX, §904(a)(15), Sept. 30, 1992, 106 Stat. 1237, 1292, 1308; Pub. L. 103–171, §§2(12), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 106–501, title III, §311, title VIII, §801(c)(5), Nov. 13, 2000, 114 Stat. 2251, 2292; Pub. L. 109–365, title III, §311, Oct. 17, 2006, 120 Stat. 2547; Pub. L. 113–128, title V, §512(w)(2), July 22, 2014, 128 Stat. 1713; Pub. L. 114–144, §§4(g), 9(5), Apr. 19, 2016, 130 Stat. 339, 352; Pub. L. 116–131, title II, §§213, 214, Mar. 25, 2020, 134 Stat. 259.)
 
 #### <b>Editorial Notes</b>
 
@@ -148,7 +148,7 @@ Subsec. (a)(23) to (25). Pub. L. 109–365, §311(5)–(7), added pars. (23) and
 
 Subsec. (a)(4). Pub. L. 106–501, §311(1)(B), substituted "or (D) to assist older individuals in obtaining housing for which assistance is provided under programs of the Department of Housing and Urban Development;" for "or (D) to receive applications from older individuals for housing under section 1701q of title 12;".
 
-Subsec. (a)(5). Pub. L. 106–501, §311(1)(C), substituted "including—" and subpars. (A) to (C) for "including client assessment through case management and integration and coordination of community services such as preinstitution evaluation and screening and home health services, homemaker services, shopping services, escort services, reader services, and letter writingservices, through resource development and management to assist such individuals to live independently in a home environment;".
+Subsec. (a)(5). Pub. L. 106–501, §311(1)(C), substituted "including—" and subpars. (A) to (C) for "including client assessment through case management and integration and coordination of community services such as preinstitution evaluation and screening and home health services, homemaker services, shopping services, escort services, reader services, and letter writing services, through resource development and management to assist such individuals to live independently in a home environment;".
 
 Subsec. (a)(12). Pub. L. 106–501, §311(1)(D), inserted before semicolon at end ", and including the coordination of the services with programs administered by or receiving assistance from the Department of Labor, including programs carried out under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)".
 

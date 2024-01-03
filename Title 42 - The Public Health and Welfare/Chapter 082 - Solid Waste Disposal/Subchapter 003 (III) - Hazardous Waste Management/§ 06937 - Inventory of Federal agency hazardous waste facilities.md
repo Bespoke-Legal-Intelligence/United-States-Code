@@ -6,7 +6,7 @@ Each Federal agency shall undertake a continuing program to compile, publish, an
 
 &emsp;(1) A description of the location of each site at which any such treatment, storage, or disposal has taken place before the date on which permits are required under section 6925 of this title for such storage, treatment, or disposal, and where hazardous waste has been disposed, a description of hydrogeology of the site and the location of withdrawal wells and surface water within one mile of the site.
 
-&emsp;(2) Such information relating to the amount, nature, and toxicity of the hazardous waste in each site as may be necessary to determinethe extent of any health hazard which may be associated with any site.
+&emsp;(2) Such information relating to the amount, nature, and toxicity of the hazardous waste in each site as may be necessary to determine the extent of any health hazard which may be associated with any site.
 
 &emsp;(3) Information on the known nature and extent of environmental contamination at each site, including a description of the monitoring data obtained.
 

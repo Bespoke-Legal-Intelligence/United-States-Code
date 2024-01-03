@@ -1,6 +1,6 @@
 ### §714. Final settlement of accounts: deceased members
 
-(a) In the settlement of the accounts of a member of the National Guard who dies afterDecember 31, 1955, an amount due from the armed force of which he was a member shall be paid to the person highest on the following list living on the date of death:
+(a) In the settlement of the accounts of a member of the National Guard who dies after December 31, 1955, an amount due from the armed force of which he was a member shall be paid to the person highest on the following list living on the date of death:
 
 &emsp;(1) Beneficiary designated by him in writing to receive such an amount, if the designation is received, before the deceased member's death, at the place named in regulations to be prescribed by the Secretary concerned.
 

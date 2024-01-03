@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) the employee becomes disabled (within the meaning of section 72(m)(7)),
 
-&emsp;&emsp;&emsp;&emsp;(V) in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), the employee encounters financial hardship, or
+&emsp;&emsp;&emsp;&emsp;(V) subject to the provisions of paragraph (17), the employee encounters financial hardship, or
 
 &emsp;&emsp;&emsp;&emsp;(VI) except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the contract, and
 
@@ -162,7 +162,7 @@
 
 #### (10) Distribution requirements
 
-&emsp;Under regulations prescribed by the Secretary, this subsection shall not apply to anyannuity contract (or to any custodial account described in paragraph (7) or retirement income account described in paragraph (9)) unless requirements similar to the requirements of sections 401(a)(9) and 401(a)(31) are met (and requirements similar to the incidental death benefit requirements of section 401(a) are met) with respect to such annuity contract (or custodial account or retirement income account). Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of the transfer.
+&emsp;Under regulations prescribed by the Secretary, this subsection shall not apply to any annuity contract (or to any custodial account described in paragraph (7) or retirement income account described in paragraph (9)) unless requirements similar to the requirements of sections 401(a)(9) and 401(a)(31) are met (and requirements similar to the incidental death benefit requirements of section 401(a) are met) with respect to such annuity contract (or custodial account or retirement income account). Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of the transfer.
 
 #### (11) Requirement that distributions not begin before age 59½, severance from employment, death, or disability
 
@@ -170,7 +170,7 @@
 
 &emsp;&emsp;(A) when the employee attains age 59½, has a severance from employment, dies, or becomes disabled (within the meaning of section 72(m)(7)),
 
-&emsp;&emsp;(B) in the case of hardship,
+&emsp;&emsp;(B) subject to the provisions of paragraph (17), in the case of hardship,
 
 &emsp;&emsp;(C) for distributions to which section 72(t)(2)(G) applies, or
 
@@ -180,7 +180,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
 
-> &emsp;Such contract may not provide for the distribution of any income attributable to such contributions in the case of hardship. In determining whether a distribution is upon hardship of an employee, the administrator of the plan may rely on a written certification by the employee that the distribution is on account of a financial need of a type which is deemed in regulations prescribed by the Secretary to be an immediate and heavy financial need and is not in excess of the amount required to satisfy such financial need, and that the employee has no alternative means reasonably available to satisfy such financial need. The Secretary may provide by regulations for exceptions to the rule of the preceding sentence in cases where the plan administrator has actual knowledge to the contrary of the employee's certification, and for procedures for addressing cases of employee misrepresentation.
+> &emsp;In determining whether a distribution is upon hardship of an employee, the administrator of the plan may rely on a written certification by the employee that the distribution is on account of a financial need of a type which is deemed in regulations prescribed by the Secretary to be an immediate and heavy financial need and is not in excess of the amount required to satisfy such financial need, and that the employee has no alternative means reasonably available to satisfy such financial need. The Secretary may provide by regulations for exceptions to the rule of the preceding sentence in cases where the plan administrator has actual knowledge to the contrary of the employee's certification, and for procedures for addressing cases of employee misrepresentation.
 
 #### (12) Nondiscrimination requirements
 
@@ -196,7 +196,7 @@
 
 #### (B) Church
 
-&emsp;&emsp;For purposes of paragraph (1)(D), the term "church" has the meaning given to such term by section 3121(w)(3)(A). Such term shall include any qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
+&emsp;&emsp;For purposes of paragraph (1)(D), the term "church" has the meaning given to such term by section 3121(w)(3)(A). Such termshall include any qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
 
 #### (C) State and local governmental plans
 
@@ -230,6 +230,98 @@
 
 &emsp;&emsp;&emsp;A plan shall not be treated as meeting the requirements of this subparagraph unless the plan satisfies rules similar to the rules of subparagraph (A) or (B) of section 413(e)(1), except in the case of a multiple employer plan maintained solely by any of the following: A State, a political subdivision of a State, or an agency or instrumentality of any one or more of the foregoing.
 
+#### (16) Safe harbor deferral-only plans for employers with no retirement plan
+
+#### (A) In general
+
+&emsp;&emsp;A safe harbor deferral-only plan maintained by an eligible employer shall be treated as meeting the requirements of paragraph (12).
+
+#### (B) Safe harbor deferral-only plan
+
+&emsp;&emsp;For purposes of this paragraph, the term "safe harbor deferral-only plan" means any plan which meets—
+
+&emsp;&emsp;&emsp;(i) the automatic deferral requirements of subparagraph (C),
+
+&emsp;&emsp;&emsp;(ii) the contribution limitations of subparagraph (D), and
+
+&emsp;&emsp;&emsp;(iii) the requirements of subparagraph (E) of section 401(k)(13).
+
+#### (C) Automatic deferral
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The requirements of this subparagraph are met if, under the plan, each eligible employee is treated as having elected to have the employer make elective contributions in an amount equal to a qualified percentage of compensation.
+
+#### (ii) Election out
+
+&emsp;&emsp;&emsp;The election treated as having been made under clause (i) shall cease to apply with respect to any eligible employee if such eligible employee makes an affirmative election—
+
+&emsp;&emsp;&emsp;&emsp;(I) to not have such contributions made, or
+
+&emsp;&emsp;&emsp;&emsp;(II) to make elective contributions at a level specified in such affirmative election.
+
+#### (iii) Qualified percentage
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified percentage" means, with respect to any employee, any percentage determined under the plan if such percentage is applied uniformly and is not less than 3 or more than 15 percent.
+
+#### (D) Contribution limitations
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The requirements of this subparagraph are met if, under the plan—
+
+&emsp;&emsp;&emsp;&emsp;(I) the only contributions which may be made are elective contributions of eligible employees, and
+
+&emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of such elective contributions which may be made with respect to any employee for any calendar year shall not exceed $6,000.
+
+#### (ii) Cost-of-living adjustment
+
+&emsp;&emsp;&emsp;In the case of any calendar year beginning after December 31, 2024, the $6,000 amount under clause (i) shall be adjusted in the same manner as under section 402(g)(4), except that "2023" shall be substituted for "2005".
+
+#### (iii) Catch-up contributions for individuals age 50 or over
+
+&emsp;&emsp;&emsp;In the case of an individual who has attained the age of 50 before the close of the taxable year, the limitation under clause (i)(II) shall be increased by the applicable amount determined under section 219(b)(5)(B)(ii) (after the application of section 219(b)(5)(C)(iii)).
+
+#### (E) Eligible employer
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term "eligible employer" means any employer if the employer does not maintain a qualified plan with respect to which contributions are made, or benefits are accrued, for service in the year for which the determination is being made. If only individuals other than employees described in subparagraph (A) of section 410(b)(3) are eligible to participate in such arrangement, then the preceding sentence shall be applied without regard to any qualified plan in which only employees described in such subparagraph are eligible to participate.
+
+#### (ii) Relief for acquisitions, etc.
+
+&emsp;&emsp;&emsp;Rules similar to the rules of section 408(p)(10) shall apply for purposes of clause (i).
+
+#### (iii) Qualified plan
+
+&emsp;&emsp;&emsp;The term "qualified plan" means a plan, contract, pension, account, or trust described in subparagraph (A) or (B) of paragraph (5) of section 219(g) (determined without regard to the last sentence of such paragraph (5)).
+
+#### (F) Eligible employee
+
+&emsp;&emsp;For purposes of this paragraph, the term "eligible employee" means any employee of the employer other than an employee who is permitted to be excluded under paragraph (12)(A).
+
+#### (17) Special rules relating to hardship withdrawals
+
+&emsp;For purposes of paragraphs (7) and (11)—
+
+#### (A) Amounts which may be withdrawn
+
+&emsp;&emsp;The following amounts may be distributed upon hardship of the employee:
+
+&emsp;&emsp;&emsp;(i) Contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)).
+
+&emsp;&emsp;&emsp;(ii) Qualified nonelective contributions (as defined in section 401(m)(4)(C)).
+
+&emsp;&emsp;&emsp;(iii) Qualified matching contributions described in section 401(k)(3)(D)(ii)(I).
+
+&emsp;&emsp;&emsp;(iv) Earnings on any contributions described in clause (i), (ii), or (iii).
+
+#### (B) No requirement to take available loan
+
+&emsp;&emsp;A distribution shall not be treated as failing to be made upon the hardship of an employee solely because the employee does not take any available loan under the plan.
+
 #### (c) Taxability of beneficiary under nonqualified annuities or under annuities purchased by exempt organizations
 
 Premiums paid by an employer for an annuity contract which is not subject to subsection (a) shall be included in the gross income of the employee in accordance with section 83 (relating to property transferred in connection with performance of services), except that the value of such contract shall be substituted for the fair market value of the property for purposes of applying such section. The preceding sentence shall not apply to that portion of the premiums paid which is excluded from gross income under subsection (b). In the case of any portion of any contract which is attributable to premiums to which this subsection applies, the amount actually paid or made available under such contract to any beneficiary which is attributable to such premiums shall be taxable to the beneficiary (in the year in which so paid or made available) under section 72 (relating to annuities).
@@ -238,115 +330,7 @@ Premiums paid by an employer for an annuity contract which is not subject to sub
 
 #### Amendment of Section
 
-<i>Pub. L. 117–328, div. T, title I, §121(b), (d), title VI, §602, Dec. 29, 2022, 136 Stat. 5310, 5311, 5391, provided that, applicable to plan years beginning after Dec. 31, 2023, subsection (b) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (7)(A)(i)(V), by striking "in the case of contributions made pursuant to a</i><i>salary reduction agreement (within the meaning of section 3121(a)(5)(D))" and inserting "subject to the provisions of paragraph (17)";</i>
-
-<i>(2) in paragraph (11)—</i>
-
-<i>(A) by striking "in" in subparagraph (B) and inserting "subject to the provisions of paragraph (17), in", and</i>
-
-<i>(B) by striking the second sentence;</i>
-
-<i>(3) by adding at the end the following new paragraph (16):</i>
-
-#### <i>"(16) Safe harbor deferral-only plans for employers with no retirement plan</i>
-
-#### <i>"(A) In general</i>
-
-&emsp;&emsp;<i>"A safe harbor deferral-only plan maintained by an eligible employer shall be treated as meeting the requirements of paragraph (12).</i>
-
-#### <i>"(B) Safe harbor deferral-only plan</i>
-
-&emsp;&emsp;<i>"For purposes of this paragraph, the term 'safe harbor deferral-only plan' means any plan which meets—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) the automatic deferral requirements of subparagraph (C),</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) the contribution limitations of subparagraph (D), and</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) the requirements of subparagraph (E) of section 401(k)(13).</i>
-
-#### <i>"(C) Automatic deferral</i>
-
-#### "(i) In general
-
-&emsp;&emsp;&emsp;<i>"The requirements of this subparagraph are met if, under the plan, each eligible employee is treated as having elected to have the employer make elective contributions in an amount equal to a qualified percentage of compensation.</i>
-
-#### <i>"(ii) Election out</i>
-
-&emsp;&emsp;&emsp;<i>"The election treated as having been made under clause (i) shall cease to apply with respect to any eligible employee if such eligible employee makes an affirmative election—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) to not have such contributions made, or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) to make elective contributions at a level specified in such affirmative election.</i>
-
-#### <i>"(iii) Qualified percentage</i>
-
-&emsp;&emsp;&emsp;<i>"For purposes of this subparagraph, the term 'qualified percentage' means, with respect to any employee, any percentage determined under the plan if such percentage is applied uniformly and is not less than 3 or more than 15 percent.</i>
-
-#### <i>"(D) Contribution limitations</i>
-
-#### <i>"(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>"The requirements of this subparagraph are met if, under the plan—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) the only contributions which may be made are elective contributions of eligible employees, and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) the aggregate amount of such elective contributions which may be made with respect to any employee for any calendar year shall not exceed $6,000.</i>
-
-#### <i>"(ii) Cost-of-living adjustment</i>
-
-&emsp;&emsp;&emsp;<i>"In the case of any calendar year beginning after December 31, 2024, the $6,000 amount under clause (i) shall be adjusted in the same manner as under section 402(g)(4), except that '2023' shall be substituted for '2005'.</i>
-
-#### <i>"(iii) Catch-up contributions for individuals age 50 or over</i>
-
-&emsp;&emsp;&emsp;<i>"In the case of an individual who has attained the age of 50 before the close of the taxable year, the limitation under clause (i)(II) shall be increased by the applicable amount determined under section 219(b)(5)(B)(ii) (after the application of section 219(b)(5)(C)(iii)).</i>
-
-#### <i>"(E) Eligible employer</i>
-
-&emsp;&emsp;<i>"For purposes of this paragraph—</i>
-
-#### <i>"(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>"The term 'eligible employer' means any employer if the employer does not maintain a qualified plan with respect to which contributions are made, or benefits are accrued, for service in the year for which the determination is being made. If only individuals other than employees described in subparagraph (A) of section 410(b)(3) are eligible to participate in such arrangement, then the preceding sentence shall be applied without regard to any qualified plan in which only employees described in such subparagraph are eligible to participate.</i>
-
-#### <i>"(ii) Relief for acquisitions, etc.</i>
-
-&emsp;&emsp;&emsp;<i>"Rules similar to the rules of section 408(p)(10) shall apply for purposes of clause (i).</i>
-
-#### <i>"(iii) Qualified plan</i>
-
-&emsp;&emsp;&emsp;<i>"The term 'qualified plan' means a plan, contract, pension, account, or trust described in subparagraph (A) or (B) of paragraph (5) of section 219(g) (determined without regard to the last sentence of such paragraph (5)).</i>
-
-#### <i>"(F) Eligible employee</i>
-
-&emsp;&emsp;<i>"For purposes of this paragraph, the term 'eligible employee' means any employee of the employer other than an employee who is permitted to be excluded under paragraph (12)(A)."; and</i>
-
-<i>(4) by adding at the end the following new paragraph (17):</i>
-
-#### <i>"(17) Special rules relating to hardship withdrawals</i>
-
-&emsp;<i>"For purposes of paragraphs (7) and (11)—</i>
-
-#### <i>"(A) Amounts which may be withdrawn</i>
-
-&emsp;&emsp;<i>"The following amounts may be distributed upon hardship of the employee:</i>
-
-&emsp;&emsp;&emsp;<i>"(i) Contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)).</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) Qualified nonelective contributions (as defined in section 401(m)(4)(C)).</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) Qualified matching contributions described in section 401(k)(3)(D)(ii)(I).</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) Earnings on any contributions described in clause (i), (ii), or (iii).</i>
-
-#### <i>"(B) No requirement to take available loan</i>
-
-&emsp;&emsp;<i>"A distribution shall not be treated as failing to be made upon the hardship of an employee solely because the employee does not take any available loan under the plan."</i>
-
-<i>See 2022 Amendment notes below.</i>
-
-<i>Pub. L. 117–328, div. T, title I, §125(a)(2)(A), (B)(i), (f)(1), Dec. 29, 2022, 136 Stat. 5314–5316, provided that, applicable to plan years beginning after Dec. 31, 2024, subsection (b)(12) of this section is amended as follows:</i>
+<i>Pub. L. 117–328, div. T, title I, §125(a)(2)(A), (B)(i), (f)(1), Dec. 29, 2022, 136 Stat. 5314–5316,</i><i>provided that, applicable to plan years beginning after Dec. 31, 2024, subsection (b)(12) of this section is amended as follows:</i>
 
 <i>(1) in the last sentence of subparagraph (A), by inserting "and section 202(c) of the Employee Retirement Income Security Act of 1974" after "under section 410(b)(4)"; and</i>
 
@@ -658,7 +642,7 @@ Subsecs. (b) to (d). Pub. L. 85–866, §23(a), added subsec. (b), redesignated 
 
 #### Effective Date of 2022 Amendment
 
-Pub. L. 117–328, div. T, title I, §106(h)(1), Dec. 29, 2022, 136 Stat. 5289, provided that: "The amendments made by this section \[amending this section, sections 6057 and 6058 of this title, and section 1002 of Title 29, Labor\] shall apply to plan years beginning after December 31, 2022."
+Pub. L. 117–328, div. T, title I, §106(h)(1), Dec. 29, 2022, 136 Stat. 5289, provided that: "The amendments madeby this section \[amending this section, sections 6057 and 6058 of this title, and section 1002 of Title 29, Labor\] shall apply to plan years beginning after December 31, 2022."
 
 Amendment by section 110(e) of Pub. L. 117–328 applicable to contributions made for plan years beginning after Dec. 31, 2023, see section 110(h) of Pub. L. 117–328, set out as a note under section 401 of this title.
 
@@ -736,9 +720,9 @@ Pub. L. 104–188, title I, §1450(c)(2), Aug. 20, 1996, 110 Stat. 1815, provide
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 521(b)(12), (13) of Pub. L. 102–318 applicable to distributions after Dec. 31, 1992,see section 521(e) of Pub. L. 102–318, set out as a note under section 402 of this title.
+Amendment by section 521(b)(12), (13) of Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, see section 521(e) of Pub. L. 102–318, set out as a note under section 402 of this title.
 
-Amendment by section 522(a)(3), (c)(2), (3) of Pub. L. 102–318 applicable, except as otherwise provided, to distributions after Dec. 31, 1992, see section 522(d) of Pub. L. 102–318, set out as a note under section 401 of this title.
+Amendment by section 522(a)(3), (c)(2), (3) of Pub. L. 102–318 applicable, except as otherwise provided, to distributions after Dec. 31, 1992, see section 522(d) of Pub.L. 102–318, set out as a note under section 401 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -900,7 +884,7 @@ Pub. L. 117–328, div. T, title I, §106(g), Dec. 29, 2022, 136 Stat. 5288, pro
 
 #### Treatment of Custodial Accounts on Termination of Section 403(b) Plans
 
-Pub. L. 116–94, div. O, title I, §110, Dec. 20, 2019, 133 Stat. 3152, provided that: "Not later than six months after the date of enactment of this Act \[Dec. 20, 2019\], the Secretary of the Treasury shall issue guidance to provide that, if an employer terminates the plan under which amounts are contributed to a custodial account under subparagraph (A) of section 403(b)(7), the plan administrator or custodian may distribute an individual custodial account in kind to a participant or beneficiary of the plan and the distributed custodial account shall be maintained by the custodian on a tax-deferred basis as a section 403(b)(7) custodial account, similar to the treatment of fully-paid individual annuity contracts under Revenue Ruling 2011–7, until amounts are actually paid to the participant or beneficiary. The guidance shall provide further (i) that the section 403(b)(7) status of the distributed custodial account is generally maintained if the custodial account thereafter adheres to the requirements of section 403(b) that are in effect at the time of the distribution of the account and (ii) that a custodial account would not be considered distributed to the participant or beneficiary if the employer has any material retained rights under the account (but the employer would not be treated as retaining material rights simply because the custodial account was originally opened under a group contract). Such guidance shall be retroactively effective for taxable years beginning after December 31, 2008."
+Pub. L. 116–94, div. O, title I, §110, Dec. 20, 2019, 133 Stat. 3152, provided that: "Not later than six monthsafter the date of enactment of this Act \[Dec. 20, 2019\], the Secretary of the Treasury shall issue guidance to provide that, if an employer terminates the plan under which amounts are contributed to a custodial account under subparagraph (A) of section 403(b)(7), the plan administrator or custodian may distribute an individual custodial account in kind to a participant or beneficiary of the plan and the distributed custodial account shall be maintained by the custodian on a tax-deferred basis as a section 403(b)(7) custodial account, similar to the treatment of fully-paid individual annuity contracts under Revenue Ruling 2011–7, until amounts are actually paid to the participant or beneficiary. The guidance shall provide further (i) that the section 403(b)(7) status of the distributed custodial account is generally maintained if the custodial account thereafter adheres to the requirements of section 403(b) that are in effect at the time of the distribution of the account and (ii) that a custodial account would not be considered distributed to the participant or beneficiary if the employer has any material retained rights under the account (but the employer would not be treated as retaining material rights simply because the custodial account was originally opened under a group contract). Such guidance shall be retroactively effective for taxable years beginning after December 31, 2008."
 
 #### Election To Modify Section 403(b) Exclusion Allowance To Conform to Section 415 Modification
 

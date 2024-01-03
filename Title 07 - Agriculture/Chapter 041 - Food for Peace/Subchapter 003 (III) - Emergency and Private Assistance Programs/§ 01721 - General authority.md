@@ -26,7 +26,7 @@ The President shall establish a program under this subchapter (to be implemented
 
 Par. (7). Pub. L. 113–79, §3001(2), added par. (7) and struck out former par. (7). Prior to amendment, par. (7) read as follows: "promote economic and nutritional security by increasing educational, training, and other productive activities."
 
-<b>2008</b>—Par. (1). Pub. L. 110–246, §3007(1), added par. (1) and struck out former par. (1) which read as follows: "address famine or other urgent or extraordinary relief requirements;".
+<b>2008</b>—Par. (1). Pub. L. 110–246, §3007(1), added par. (1) and struck out former par. (1) which read as follows:"address famine or other urgent or extraordinary relief requirements;".
 
 Par. (5). Pub. L. 110–246, §3007(2)(A), inserted "food security and support" after "promote".
 
@@ -36,7 +36,7 @@ Par. (7). Pub. L. 110–246, §3007(2)(B)–(4), added par. (7).
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–198, §1102, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The minimum quantity of agricultural commodities distributed under this subchapter—
 
-&emsp;"(1) for fiscal years 1978 through 1980 shall be 1,600,000 metric tons, of which not less than 1,300,000metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program;
+&emsp;"(1) for fiscal years 1978 through 1980 shall be 1,600,000 metric tons, of which not less than 1,300,000 metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program;
 
 &emsp;"(2) for fiscal year 1981 shall be 1,650,000 metric tons, of which not less than 1,350,000 metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program; and
 
@@ -104,7 +104,7 @@ Other Requirements.—In providing assistance under the Food for Peace Act \[7 U
 
 #### Authorization for Commodity Credit Corporation To Purchase and Donate Flour and Cornmeal
 
-Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as authorizing Commodity Credit Corporation to purchase and donate flour and cornmeal when it has wheat or corn available for donation pursuant to this subchapter, see note set out under section 1431 of this title.
+Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as authorizing Commodity Credit Corporation to purchase anddonate flour and cornmeal when it has wheat or corn available for donation pursuant to this subchapter, see note set out under section 1431 of this title.
 
 #### <b>Executive Documents</b>
 

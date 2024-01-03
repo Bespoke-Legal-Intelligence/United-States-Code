@@ -4,7 +4,7 @@
 | :--- | :---: | ---: |
 | [<b>911.</b>](Chapter%20911%20-%20Strength/README.md) | <b>Strength</b> | <b>9110</b> |
 | [<b>913.</b>](Chapter%20913%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>9131</b> |
-| [<b>915.</b>](Chapter%20915%20-%20Appointments%20in%20the%20Regular%20Air%20Force%20and%20the%20Regular%20Space%20Force/README.md) | <b>Appointments in the Regular Air Force and the Regular Space Force</b> | <b>9151</b> |
+| [<b>915.</b>](Chapter%20915%20-%20Appointments%20in%20the%20Regular%20Air%20Force%20and%20in%20the%20Space%20Force/README.md) | <b>Appointments in the Regular Air Force and in the Space Force</b> | <b>9151</b> |
 | [<b>919.</b>](Chapter%20919%20-%20Temporary%20Appointments/README.md) | <b>Temporary Appointments</b> | <b>9176</b> |
 | [<b>921.</b>](Chapter%20921%20-%20Active%20Duty/README.md) | <b>Active Duty</b> | <b>9191</b> |
 | [<b>923.</b>](Chapter%20923%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md) | <b>Special Appointments, Assignments, Details, and Duties</b> | <b>9217</b> |
@@ -25,6 +25,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 118–31, div. A, title XVII, §1721(a)(5)(B), Dec. 22, 2023, 137 Stat. 666, added item for chapter 915 and struck out former item for chapter 915 "Appointments in the Regular Air Force and the Regular Space Force".
 
 <b>2021</b>—Pub. L. 116–283, div. A, title IX, §923(c)(3)(C), Jan. 1, 2021, 134 Stat. 3810, added item for chapter 915 and struck out former item for chapter 915 "Appointments in the Regular Air Force".
 
@@ -51,7 +53,7 @@ Pub. L. 90–235, §8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for chapte
 
 - [Chapter 911 - Strength](Chapter%20911%20-%20Strength/README.md)
 - [Chapter 913 - Enlistments](Chapter%20913%20-%20Enlistments/README.md)
-- [Chapter 915 - Appointments in the Regular Air Force and the Regular Space Force](Chapter%20915%20-%20Appointments%20in%20the%20Regular%20Air%20Force%20and%20the%20Regular%20Space%20Force/README.md)
+- [Chapter 915 - Appointments in the Regular Air Force and in the Space Force](Chapter%20915%20-%20Appointments%20in%20the%20Regular%20Air%20Force%20and%20in%20the%20Space%20Force/README.md)
 - [Chapter 919 - Temporary Appointments](Chapter%20919%20-%20Temporary%20Appointments/README.md)
 - [Chapter 921 - Active Duty](Chapter%20921%20-%20Active%20Duty/README.md)
 - [Chapter 923 - Special Appointments, Assignments, Details, and Duties](Chapter%20923%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md)

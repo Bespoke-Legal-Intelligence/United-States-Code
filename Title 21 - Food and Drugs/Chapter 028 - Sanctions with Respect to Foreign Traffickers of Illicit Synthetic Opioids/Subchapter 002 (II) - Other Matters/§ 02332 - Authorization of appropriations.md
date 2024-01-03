@@ -34,3 +34,9 @@ This chapter, referred to in subsec. (a), was in the original "this title", mean
 
 Sections 1403, 4501, and section 7221, referred to in subsec. (b), mean sections sections 1403, 4501, and section 7221 of Pub. L. 116–92, respectively, which are not classified to the Code.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight andAccountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+

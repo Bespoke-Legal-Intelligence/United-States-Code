@@ -20,7 +20,7 @@ Report to Congress.—(1) Not later than the first Monday in February of the yea
 
 &emsp;(F) An assessment of the production capability, capacity, and infrastructure, of the Department of Defense organic industrial base and private sector industrial base required to meet steady-state and surge production requirements for ammunition and other military munitions.
 
-&emsp;(G) An assessment of the condition, capacity, location, and survivability under likely threats of military infrastructure located both inside the continental United States and outside the continental United States, including agreements with and infrastructure providedby international partners, required to generate, project, and sustain military forces to meet steady-state and contingency requirements.
+&emsp;(G) An assessment of the condition, capacity, location, and survivability under likely threats of military infrastructure located both inside the continental United States and outside the continental United States, including agreements with and infrastructure provided by international partners, required to generate, project, and sustain military forces to meet steady-state and contingency requirements.
 
 &emsp;(H) An assessment of the cybersecurity risks to military and commercial logistics networks and information technology systems.
 

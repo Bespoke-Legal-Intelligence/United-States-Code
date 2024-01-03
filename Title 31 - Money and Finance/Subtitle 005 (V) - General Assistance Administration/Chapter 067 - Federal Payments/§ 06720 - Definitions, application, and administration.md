@@ -12,7 +12,7 @@ Definitions.—In this chapter—
 
 &emsp;(2) "payment period" means each 1-year period beginning on October 1 of the years 1994 through 2000;
 
-&emsp;(3) "State and local taxes" means taxes imposed by a State government or unit of general local government or other political subdivision of a State government for public purposes (except employee and employer assessments and contributions to finance retirementand social insurance systems and other special assessments for capital outlay) as determined by the Secretary of Commerce for general statistical purposes;
+&emsp;(3) "State and local taxes" means taxes imposed by a State government or unit of general local government or other political subdivision of a State government for public purposes (except employee and employer assessments and contributions to finance retirement and social insurance systems and other special assessments for capital outlay) as determined by the Secretary of Commerce for general statistical purposes;
 
 &emsp;(4) "State" means any of the several States and the District of Columbia;
 

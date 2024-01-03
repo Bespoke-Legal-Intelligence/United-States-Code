@@ -92,7 +92,7 @@ There is an Office of Inspector General within the Office of the Architect of th
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), any supervisory special agent under the InspectorGeneral and any special agent supervised by such a supervisory special agent is authorized to—
+&emsp;&emsp;Subject to subparagraph (B), any supervisory special agent under the Inspector General and any special agent supervised by such a supervisory special agent is authorized to—
 
 &emsp;&emsp;&emsp;(i) make an arrest without a warrant while engaged in official duties as authorized under this section or any other statute for any offense against the United States committed in the presence of such supervisory special agent or special agent, or for any felony cognizable under the laws of the United States if such supervisory special agent or special agent has reasonable grounds to believe that the person to be arrested has committed or is committing such felony;
 
@@ -152,7 +152,7 @@ There is an Office of Inspector General within the Office of the Architect of th
 
 #### (D) Peer review
 
-&emsp;&emsp;To ensure the proper exercise of the law enforcement powers authorized under this paragraph, the Office of Inspector General shall submit to and participate in the external review process established by the Council of the Inspectors General on Integrity and Efficiency for ensuring that adequate internal safeguards and management procedures continue to exist. Under the review process, the exercise of the law enforcementpowers by the Office of Inspector General shall be reviewed periodically by another Office of Inspector General or by a committee of Inspectors General. The results of each review shall be communicated in writing to the Inspector General, the Council of the Inspectors General on Integrity and Efficiency, and the appropriate committees of Congress.
+&emsp;&emsp;To ensure the proper exercise of the law enforcement powers authorized under this paragraph, the Office of Inspector General shall submit to and participate in the external review process established by the Council of the Inspectors General on Integrity and Efficiency for ensuring that adequate internal safeguards and management procedures continue to exist. Under the review process, the exercise of the law enforcement powers by the Office of Inspector General shall be reviewed periodically by another Office of Inspector General or by a committee of Inspectors General. The results of each review shall be communicated in writing to the Inspector General, the Council of the Inspectors General on Integrity and Efficiency, and the appropriate committees of Congress.
 
 #### (E) Alleged misconduct
 

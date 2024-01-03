@@ -12,7 +12,7 @@ In the case of a taxpayer determined by the Secretary to be affected by a federa
 
 #### (b) Special rules regarding pensions, etc.
 
-In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a disaster, fire, or action described in subsection (a), the Secretary may specify a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this title. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
+In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a disaster, fire, oraction described in subsection (a), the Secretary may specify a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this title. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
 
 #### (c) Special rules for overpayments
 
@@ -68,7 +68,7 @@ The rules of section 7508(b) shall apply for purposes of this section.
 
 #### (6) Multiple declarations
 
-&emsp;For purposes of paragraph (1), in the case of multiple declarations relating to a disaster area which are issued within a 60-day period, a separate period shall be determined undersuch paragraph with respect to each such declaration.
+&emsp;For purposes of paragraph (1), in the case of multiple declarations relating to a disaster area which are issued within a 60-day period, a separate period shall be determined under such paragraph with respect to each such declaration.
 
 #### (e) Significant fire
 
@@ -146,7 +146,7 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 #### Extension of Certain Deferred Payroll Taxes by Reason of Coronavirus Pandemic
 
-Pub. L. 116–260, div. N, title II, §274, Dec. 27, 2020, 134 Stat. 1978, provided that: "The Secretary of the Treasury (or the Secretary's delegate) shall ensure that Internal Revenue Service Notice 2020–65 (entitled 'Relief with Respect to Employment Tax Deadlines Applicableto Employers Affected by the Ongoing Coronavirus (COVID–19) Disease 2019 Pandemic') and any successor or related regulation, notice, or guidance is applied—
+Pub. L. 116–260, div. N, title II, §274, Dec. 27, 2020, 134 Stat. 1978, provided that: "The Secretary of the Treasury (or the Secretary's delegate) shall ensure that Internal Revenue Service Notice 2020–65 (entitled 'Relief with Respect to Employment Tax Deadlines Applicable to Employers Affected by the Ongoing Coronavirus (COVID–19) Disease 2019 Pandemic') and any successor or related regulation, notice, or guidance is applied—
 
 &emsp;"(1) by substituting 'December 31, 2021' for 'April 30, 2021' each place it appears therein, and
 

@@ -36,7 +36,7 @@
 
 #### (B) Indirect expense amount
 
-&emsp;&emsp;The amount determined under subsection (d) for indirect expenses associated with the additional costs relating to teaching residents in such programs.
+&emsp;&emsp;The amount determined under subsection (d) for indirect expenses associated with theadditional costs relating to teaching residents in such programs.
 
 #### (2) Capped amount
 
@@ -118,7 +118,7 @@ The Secretary shall determine any changes to the number of residents reported by
 
 #### (1) In general
 
-&emsp;To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, and $126,500,000 for each of fiscal years 2018 through 2023, to remain available until expended.
+&emsp;To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, $126,500,000 for each of fiscal years 2018 through 2023, $16,635,616 for the period beginning on October 1, 2023, and ending on November 17, 2023, and $21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024, to remain available until expended.
 
 #### (2) Administrative expenses
 
@@ -176,7 +176,7 @@ The Secretary shall determine any changes to the number of residents reported by
 
 #### (4) Residents
 
-&emsp;The residents described in this paragraph are those who are in part-time or full-time equivalent resident training positions at a qualified teaching health center in any approved graduate medical residency training program.
+&emsp;The residents described in this paragraph are those who are in part-time or full-timeequivalent resident training positions at a qualified teaching health center in any approved graduate medical residency training program.
 
 #### (i) Regulations
 
@@ -206,7 +206,7 @@ In this section:
 
 &emsp;The term "qualified teaching health center" has the meaning given the term "teaching health center" in section 293l–1 of this title.
 
-(July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670; amended Pub. L. 114–10, title II, §221(b), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–63, title III, §301(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–96, div. C, title I, §3101(c), Dec. 22, 2017, 131 Stat. 2048; Pub. L. 115–123, div. E, title IX, §50901(d)(1)–(3), (5), (6), Feb. 9, 2018, 132 Stat. 287–289; Pub. L. 116–59, div. B, title I, §1101(c), Sept. 27, 2019, 133 Stat. 1102; Pub. L. 116–69, div. B, title I, §1101(c), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, §401(c), Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3831(c), Mar. 27, 2020, 134 Stat. 434; Pub. L. 116–159, div. C, title I, §2101(c), Oct. 1, 2020, 134 Stat. 728; Pub. L. 116–215, div. B, title II, §1201(c), Dec. 11, 2020, 134 Stat. 1044; Pub. L. 116–260, div. BB, title III, §301(c), Dec. 27, 2020, 134 Stat. 2922.)
+(July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670; amended Pub. L. 114–10, title II, §221(b), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–63, title III, §301(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–96, div. C, title I, §3101(c), Dec. 22, 2017, 131 Stat. 2048; Pub. L. 115–123, div. E, title IX, §50901(d)(1)–(3), (5), (6), Feb. 9, 2018, 132 Stat. 287–289; Pub. L. 116–59, div. B, title I, §1101(c), Sept. 27, 2019, 133 Stat. 1102; Pub. L. 116–69, div. B, title I, §1101(c), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, §401(c), Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3831(c), Mar. 27, 2020, 134 Stat. 434; Pub. L. 116–159, div. C, title I, §2101(c), Oct. 1, 2020, 134 Stat. 728; Pub. L. 116–215, div. B, title II, §1201(c), Dec. 11, 2020, 134 Stat. 1044; Pub. L. 116–260, div. BB, title III, §301(c), Dec. 27, 2020, 134 Stat. 2922; Pub. L. 118–15, div. B, title III, §2321(a), Sept. 30, 2023, 137 Stat. 94; Pub. L. 118–22, div. B, title II, §201(a), Nov. 17, 2023, 137 Stat. 119.)
 
 #### <b>Editorial Notes</b>
 
@@ -221,6 +221,10 @@ Section 1395ww(d) of this title, referred to in subsec. (f), was in the original
 Another section 340H of act July 1, 1944, was renumbered section 340I and is classified to section 256i of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (g)(1). Pub. L. 118–22 substituted "$16,635,616 for the period beginning on October 1, 2023, and ending on November 17, 2023, and $21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024" for "and $16,635,616 for the period beginning on October 1, 2023, and ending on November 17, 2023".
+
+Pub. L. 118–15 struck out "and" before "$126,500,000" and inserted "and $16,635,616 for the period beginning on October 1, 2023, and ending on November 17, 2023," before "to remain available".
 
 <b>2020</b>—Subsec. (g)(1). Pub. L. 116–260 inserted "and" after "2017," and substituted "2023" for "fiscal year 2020, and $27,379,452 for the period beginning on October 1, 2020, and ending on December 18, 2020".
 
@@ -246,7 +250,7 @@ Subsec. (h)(1)(D) to (H). Pub. L. 115–123, §50901(d)(3), added subpars. (D) t
 
 Subsec. (j)(2) to (4). Pub. L. 115–123, §50901(d)(5), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-<b>2017</b>—Subsec. (g). Pub. L. 115–96 designated existing provisions as par. (1), inserted heading, substituted "and $30,000,000 for the period of the first and second quarters of fiscal year 2018, to remain available until expended" for "and $15,000,000 for the first quarter of fiscal year 2018", and added par. (2).
+<b>2017</b>—Subsec. (g). Pub. L. 115–96 designated existing provisions as par. (1), inserted heading, substituted"and $30,000,000 for the period of the first and second quarters of fiscal year 2018, to remain available until expended" for "and $15,000,000 for the first quarter of fiscal year 2018", and added par. (2).
 
 Pub. L. 115–63 substituted "2015, $60,000,000" for "2015 and $60,000,000" and inserted ", and $15,000,000 for the first quarter of fiscal year 2018" before period at end.
 

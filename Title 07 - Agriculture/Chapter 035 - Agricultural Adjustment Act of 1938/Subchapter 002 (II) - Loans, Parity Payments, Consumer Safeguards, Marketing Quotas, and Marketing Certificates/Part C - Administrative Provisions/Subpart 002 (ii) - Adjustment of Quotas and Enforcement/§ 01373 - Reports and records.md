@@ -2,7 +2,7 @@
 
 #### (a) Persons reporting
 
-This subsection shall apply to warehousemen, processors, and common carriers of corn, wheat, cotton, or rice, and <sup>1</sup> all ginners of cotton,<sup>2</sup> all persons engaged in the business of purchasing corn, wheat, cotton, or rice from producers. Any such person shall, from time to time on request of the Secretary, report to the Secretary such information and keep such records as the Secretary finds to be necessary to enable him to carry out the provisions of this subchapter. Such information shall be reported and such records shall be kept in accordance with forms which the Secretary shall prescribe. For the purpose of ascertaining the correctness of any report made or record kept, or of obtaining information required to be furnished in any report, but not so furnished, the Secretary is authorized to examine such books, papers, records, accounts, correspondence, contracts, documents, and memoranda as he has reason to believe are relevant and are within the control of such person. Any such person failing to make any report or keep any record as required by this subsection or making any false report or record shall be deemed guilty of a misdemeanor and upon conviction thereof shall be subject to a fine of not more than $500.
+This subsection shall apply to warehousemen, processors, and common carriers of corn, wheat, cotton, or rice, and <sup>1</sup> all ginners of cotton,<sup>2</sup> all persons engaged in the business of purchasing corn, wheat, cotton, or rice from producers. Any such person shall, from time to time on request of the Secretary, report to the Secretary such information and keep such records as the Secretary finds to be necessary to enable him tocarry out the provisions of this subchapter. Such information shall be reported and such records shall be kept in accordance with forms which the Secretary shall prescribe. For the purpose of ascertaining the correctness of any report made or record kept, or of obtaining information required to be furnished in any report, but not so furnished, the Secretary is authorized to examine such books, papers, records, accounts, correspondence, contracts, documents, and memoranda as he has reason to believe are relevant and are within the control of such person. Any such person failing to make any report or keep any record as required by this subsection or making any false report or record shall be deemed guilty of a misdemeanor and upon conviction thereof shall be subject to a fine of not more than $500.
 
 #### (b) Proof of acreage yield
 
@@ -54,11 +54,11 @@ Subsec. (b). Act Apr. 3, 1941, §7, inserted "peanuts," after "rice,".
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as an Effective Date note under section 518 of this title.
+Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub.L. 108–357, set out as an Effective Date note under section 518 of this title.
 
 #### Effective and Termination Dates of 1996 Amendment
 
-Pub. L. 104–127, title I, §171(a)(2), Apr. 4, 1996, 110 Stat. 937, provided that the amendment made by section171(a)(2) is effective only for the 1996 through 2002 crops of peanuts.
+Pub. L. 104–127, title I, §171(a)(2), Apr. 4, 1996, 110 Stat. 937, provided that the amendment made by section 171(a)(2) is effective only for the 1996 through 2002 crops of peanuts.
 
 #### Effective and Termination Dates of 1990 Amendment
 

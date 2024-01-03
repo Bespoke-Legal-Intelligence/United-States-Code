@@ -160,7 +160,7 @@
 
 &emsp;&emsp;(E) Provisions that the center, in carrying out the activities, will seek, where appropriate, the advice, participation, expertise, and assistance of representatives of business, industry, educational institutions, the Federal Government, and State and local governments.
 
-&emsp;&emsp;(F) Provisions that the center will take all practicable steps to develop continuing sources of financial support for the center,particularly from sources in the private sector.
+&emsp;&emsp;(F) Provisions that the center will take all practicable steps to develop continuing sources of financial support for the center, particularly from sources in the private sector.
 
 &emsp;&emsp;(G) Provisions for—
 
@@ -236,7 +236,7 @@
 
 #### (12) Interagency working group
 
-&emsp;Not later than 90 days after February 7, 2014, the Secretary shall coordinate and chair an interagency working group to foster cooperative development and ensure coordination with Federal agencies and national and localcooperative organizations that have cooperative programs and interests.
+&emsp;Not later than 90 days after February 7, 2014, the Secretary shall coordinate and chair an interagency working group to foster cooperative development and ensure coordination with Federal agencies and national and local cooperative organizations that have cooperative programs and interests.
 
 #### (13) Authorization of appropriations
 
@@ -320,7 +320,7 @@
 
 #### (B) Accounts receivable
 
-&emsp;&emsp;In the discretion of the Secretary, if the Secretary determines that the action wouldnot create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government, the Secretary may take accounts receivable as security for the obligations entered into in connection with loans and a borrower may use accounts receivable as collateral to secure a loan made or guaranteed under this subsection.
+&emsp;&emsp;In the discretion of the Secretary, if the Secretary determines that the action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government, the Secretary may take accounts receivable as security for the obligations entered into in connection with loans and a borrower may use accounts receivable as collateral to secure a loan made or guaranteed under this subsection.
 
 #### (8) Limitations on loan guarantees for cooperative organizations
 
@@ -400,7 +400,7 @@
 
 #### (h) Loan guarantees for certain loans
 
-The Secretary may guarantee loans made under subsection (a) to finance the issuance of bonds for the projects described in section 1926(a)(24) of this title.
+The Secretary may guarantee loans made under subsection (a) to finance the issuance ofbonds for the projects described in section 1926(a)(24) of this title.
 
 #### (i) Appropriate technology transfer for rural areas program
 
@@ -466,6 +466,8 @@ The date of enactment of this subsection, referred to in subsec. (j), is the dat
 
 In subsec. (d)(7), "chapter 11 of title 31" substituted for "the Budget and Accounting Act of 1921 \[31 U.S.C. 1 et seq.\]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -478,7 +480,7 @@ Subsec. (c)(3)(A)(v). Pub. L. 115–334, §6701(c), substituted "markets; or" fo
 
 Subsec. (c)(4)(A). Pub. L. 115–334, §6411, substituted "2023" for "2018".
 
-Subsec. (e)(5)(F). Pub. L. 115–334, §6701(d)(1), inserted before period at end ", except that the Secretary shall not require non-Federal financial support in an amountthat is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382))".
+Subsec. (e)(5)(F). Pub. L. 115–334, §6701(d)(1), inserted before period at end ", except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382))".
 
 Subsec. (e)(10). Pub. L. 115–334, §6412(a)(1), inserted "(including research and analysis based on data from the latest available Economic Census conducted by the Bureau of the Census)" after "conduct research".
 
@@ -552,7 +554,7 @@ Subsecs. (i), (j). Pub. L. 110–246, §§6016, 6017, added subsecs. (i) and (j)
 
 Subsec. (c)(1). Pub. L. 107–171, §6014, substituted "Grants" for "In general" in heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
 
-Subsec. (e)(5)(F). Pub. L. 107–171, §6015(1), which directed amendment of this section "in paragraph (5)(F), before the period at the end the following: ', except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382))' ", could not be executed because the phrase "by inserting" did not appear. Corrected amendment was made by Pub. L. 115–334, §6701(d)(1), effective as if included in Pub. L. 107–171, §6015. See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
+Subsec. (e)(5)(F). Pub. L. 107–171, §6015(1), which directed amendment of this section "in paragraph (5)(F),before the period at the end the following: ', except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382))' ", could not be executed because the phrase "by inserting" did not appear. Corrected amendment was made by Pub. L. 115–334, §6701(d)(1), effective as if included in Pub. L. 107–171, §6015. See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
 
 Subsec. (e)(9). Pub. L. 107–171, §6015(2), substituted "2007" for "2002".
 
@@ -566,7 +568,7 @@ Definition of farmer.—In this subsection, the term 'farmer' means any farmer t
 
 "(2)
 
-Loan guarantees.—The Secretary may guarantee loans under this section to individual farmers for the purpose of purchasing start-up capital stock of afarmer cooperative established for the purpose of processing an agricultural commodity.
+Loan guarantees.—The Secretary may guarantee loans under this section to individual farmers for the purpose of purchasing start-up capital stock of a farmer cooperative established for the purpose of processing an agricultural commodity.
 
 "(3)
 
@@ -636,7 +638,7 @@ Pub. L. 101–624, §2347, formerly §2347(a), as renumbered by Pub. L. 104–12
 
 "(2) Grants under this subsection may be made on a competitive basis. In making grants, the Secretary shall give preference to applicants that will establish centers for rural technology in areas that have (A) few industries and agribusinesses, (B) high levels of unemployment, (C) high rates of out-migration of people, business, and industries, and (D) low levels of per capita income.
 
-"(3) If grants are to be made under this subsection, the Secretary shall issue regulations implementingthis subsection that shall include provisions for the monitoring and evaluation of the rural technology development activities carried out by institutions that receive grants under this subsection."
+"(3) If grants are to be made under this subsection, the Secretary shall issue regulations implementing this subsection that shall include provisions for the monitoring and evaluation of the rural technology development activities carried out by institutions that receive grants under this subsection."
 
 Subsecs. (g), (h). Pub. L. 101–624, §2347, formerly §2347(a), as renumbered by Pub. L. 104–127, §705(1), added subsecs. (g) and (h).
 
@@ -710,7 +712,7 @@ Pub. L. 101–624, title XXIII, §2336, Nov. 28, 1990, 104 Stat. 4022, provided 
 
 Pub. L. 99–198, title XIII, §1323, Dec. 23, 1985, 99 Stat. 1534, as amended by Pub. L. 99–425, title IV, §407(c), Sept. 30, 1986, 100 Stat. 971; Pub. L. 99–500, §101(a) \[title VI, §641\], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, §101(a) \[title VI, §641\], Oct. 30, 1986, 100 Stat. 3341, 3341–35; Pub. L. 100–202, §101(k) \[title VI, §636\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357; Pub. L. 113–79, title VI, §6017(b), Feb. 7, 2014, 128 Stat. 846, provided that:
 
-"(a)(1) Prior to September 30, 1988, the Secretary of Agriculture (hereafter in this section referred to as the 'Secretary') shall guarantee loans made by public agencies or private organizations (including loans made by financial institutions such as insurance companies) to nonprofit national rural development and finance corporations that establish similar and affiliated statewide rural development and finance programs for the purpose of providing loans, guarantees, and other financial assistance to profit or nonprofit local businesses to improve business, industry, and employment opportunities in a rural area (as determined by the Secretary).
+"(a)(1) Prior to September 30, 1988, the Secretary of Agriculture (hereafter in this section referred to as the'Secretary') shall guarantee loans made by public agencies or private organizations (including loans made by financial institutions such as insurance companies) to nonprofit national rural development and finance corporations that establish similar and affiliated statewide rural development and finance programs for the purpose of providing loans, guarantees, and other financial assistance to profit or nonprofit local businesses to improve business, industry, and employment opportunities in a rural area (as determined by the Secretary).
 
 "(2) To be eligible to obtain a loan guarantee under this subsection, a corporation must—
 

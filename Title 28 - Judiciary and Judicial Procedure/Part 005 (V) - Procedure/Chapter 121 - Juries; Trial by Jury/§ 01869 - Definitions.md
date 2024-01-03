@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 &emsp;(e) "division" shall mean: (1) one or more statutory divisions of a judicial district; or (2) in statutory divisions that contain more than one place of holding court, or in judicial districts where there are no statutory divisions, such counties, parishes, or similar political subdivisions surrounding the places where court is held as the district court plan shall determine: <i>Provided</i>, That each county, parish, or similar political subdivision shall be included in some such division;
 
-&emsp;(f) "district court of the United States", "district court", and "court" shall mean any district court established by chapter 5 of thistitle, and any court which is created by Act of Congress in a territory and is invested with any jurisdiction of a district court established by chapter 5 of this title;
+&emsp;(f) "district court of the United States", "district court", and "court" shall mean any district court established by chapter 5 of this title, and any court which is created by Act of Congress in a territory and is invested with any jurisdiction of a district court established by chapter 5 of this title;
 
 &emsp;(g) "jury wheel" shall include any device or system similar in purpose or function, such as a properly programed electronic data processing system or device;
 
@@ -52,7 +52,7 @@ Subsec. (h). Pub. L. 95–572, §3(b), struck out "by pardon or amnesty" after "
 
 Subsecs. (j) to (l). Pub. L. 95–572, §4, added subsecs. (j) to (l).
 
-<b>1972</b>—Subsec. (h). Pub. L. 92–437 added race and occupation to the particulars to be elicited on the juror qualification form, in provisions distinguishing between information to be requested and information to be required, struck out "race and occupation of a potential juror", and in information to be contained in the form, struck out "race, color" and "occupation" from the particulars, and required additional material to be contained in the form that information concerning race is required solely to enforce nondiscrimination in jury selection and that it has no bearing on an individual's qualification for jury service.
+<b>1972</b>—Subsec. (h). Pub. L. 92–437 added race and occupation to the particulars to be elicited on the juror qualification form, in provisions distinguishing between information to be requested and information to be required, struck out "race and occupation of a potential juror", and in information to be contained in the form, struck out "race, color" and "occupation"from the particulars, and required additional material to be contained in the form that information concerning race is required solely to enforce nondiscrimination in jury selection and that it has no bearing on an individual's qualification for jury service.
 
 <b>1970</b>—Subsec. (f). Pub. L. 91–358 substituted reference to the Superior Court of the District of Columbia for references to the District of Columbia Court of General Sessions and the Juvenile Court of the District of Columbia.
 

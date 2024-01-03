@@ -42,7 +42,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(A) the status of the nuclear weapons stockpile, including the number and age of warheads (including both active and inactive) for each warhead type;
 
-&emsp;&emsp;(B) for each five-year period occurring during the period beginning on the date of the report and ending on the date that is 20 years after the date of the report—
+&emsp;&emsp;(B) for each five-year period occurring during the period beginning on the date of thereport and ending on the date that is 20 years after the date of the report—
 
 &emsp;&emsp;&emsp;(i) the planned number of nuclear warheads (including active and inactive) for each warhead type in the nuclear weapons stockpile; and
 
@@ -92,7 +92,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(B) a strategy for using the science-based tools (including advanced simulation and computing capabilities) of each national security laboratory to ensure that the nuclear weapons stockpile is safe, secure, and reliable without the use of nuclear testing;
 
-&emsp;&emsp;(C) an assessment of the science-based tools (including advanced simulation andcomputing capabilities) of each national security laboratory that exist at the time of the assessment compared with the science-based tools expected to exist during the period covered by the future-years nuclear security program; and
+&emsp;&emsp;(C) an assessment of the science-based tools (including advanced simulation and computing capabilities) of each national security laboratory that exist at the time of the assessment compared with the science-based tools expected to exist during the period covered by the future-years nuclear security program; and
 
 &emsp;&emsp;(D) an assessment of the core scientific and technical competencies required to achieve the objectives of the stockpile stewardship program and other weapons activities and weapons-related activities of the Administration, including—
 
@@ -102,7 +102,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;(4) With respect to the nuclear security infrastructure—
 
-&emsp;&emsp;(A) a description of the modernization and refurbishment measures the Administrator determines necessary to meet the requirements prescribed in—
+&emsp;&emsp;(A) a description of the modernization and refurbishment measures the Administratordetermines necessary to meet the requirements prescribed in—
 
 &emsp;&emsp;&emsp;(i) the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 3043 of this title if such strategy has been submitted as of the date of the plan;
 
@@ -340,7 +340,7 @@ Matters Included.—The matters referred to in subsection (a) are the following:
 
 "(c) 2005
 
-Stockpile Stewardship Plan Defined.—In this section, the term '2005 stockpile stewardship plan'means the updated version of the plan for maintaining the nuclear weapons stockpile developed under section 4203 of the Atomic Energy Defense Act \[50 U.S.C. 2523\] (as transferred and redesignated by section 3161(e)(4) \[probably should be "3141(e)(4)"\] of this Act) that is required to be submitted to Congress not later than March 15, 2005."
+Stockpile Stewardship Plan Defined.—In this section, the term '2005 stockpile stewardship plan' means the updated version of the plan for maintaining the nuclear weapons stockpile developed under section 4203 of the Atomic Energy Defense Act \[50 U.S.C. 2523\] (as transferred and redesignated by section 3161(e)(4) \[probably should be "3141(e)(4)"\] of this Act) that is required to be submitted to Congress not later than March 15, 2005."
 
 #### <b>Executive Documents</b>
 

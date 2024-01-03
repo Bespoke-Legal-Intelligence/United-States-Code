@@ -34,7 +34,7 @@ In general.—Except as provided in paragraph (2), any person who violates subse
 
 &emsp;(2)
 
-Use in felonies, crimes of terrorism, or drug trafficking crimes.—If a violation of subsection (b) is committed knowing or with reasonable cause to believe that any firearm involved will be used to commit a felony, a Federal crime of terrorism, or a drug trafficking crime, the person shall be sentenced to a term of imprisonment of not more than 25 years.
+Use in felonies, crimes of terrorism, or drug trafficking crimes.—If a violation of subsection (b) is committed knowing or with reasonable cause to believe that any firearm involved will be used to commit a felony, a Federal crime of terrorism, or a drug trafficking crime, the person shall be sentenced toa term of imprisonment of not more than 25 years.
 
 (Added Pub. L. 117–159, div. A, title II, §12004(a)(1), June 25, 2022, 136 Stat. 1326.)
 

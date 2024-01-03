@@ -28,7 +28,7 @@ Payments under grants made under this chapter may be made in installments, and i
 
 &emsp;(B) may provide any such Indian tribe grant and contract assistance to carry out functions provided by this chapter.
 
-(2) The Administrator shall promulgate regulations within 18 months after November 15, 1990, specifying those provisions of this chapter for which it is appropriate to treat Indian tribes as States. Such treatment shall be authorized only if—
+(2) The Administrator shall promulgate regulations within 18 months after November 15, 1990, specifying those provisions of this chapterfor which it is appropriate to treat Indian tribes as States. Such treatment shall be authorized only if—
 
 &emsp;(A) the Indian tribe has a governing body carrying out substantial governmental duties and powers;
 

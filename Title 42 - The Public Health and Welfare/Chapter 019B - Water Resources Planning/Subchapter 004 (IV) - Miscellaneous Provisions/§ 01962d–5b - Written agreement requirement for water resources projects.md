@@ -12,7 +12,7 @@
 
 #### (3) Obligation of future appropriations
 
-&emsp;In any partnership agreement described in paragraph (1) and entered into by a State, or a body politic of the State which derives its powers from the State constitution, or a governmental entity created by the State legislature, the agreement may reflect that it does not obligate future appropriations for such performance and payment when obligating future appropriations would be inconsistent with constitutional or statutory limitations of the State or a political subdivision of the State.
+&emsp;In any partnership agreement described in paragraph (1) and entered into by a State, ora body politic of the State which derives its powers from the State constitution, or a governmental entity created by the State legislature, the agreement may reflect that it does not obligate future appropriations for such performance and payment when obligating future appropriations would be inconsistent with constitutional or statutory limitations of the State or a political subdivision of the State.
 
 #### (4) Credit for in-kind contributions
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(i) shall not exceed the non-Federal share of the cost of the project;
 
-&emsp;&emsp;&emsp;(ii) shall not alter any other requirement that a non-Federal interest provide lands,easements, relocations, rights-of-way, or areas for disposal of dredged material for the project;
+&emsp;&emsp;&emsp;(ii) shall not alter any other requirement that a non-Federal interest provide lands, easements, relocations, rights-of-way, or areas for disposal of dredged material for the project;
 
 &emsp;&emsp;&emsp;(iii) shall not alter any requirement that a non-Federal interest pay a portion of the costs of construction of the project under sections 2211(a)(2) and 2213(a)(1)(A) of title 33; and
 
@@ -76,7 +76,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To the extent that credit for in-kind contributions, as limited by subparagraph (D), and credit for required land, easements, rights-of-way, dredged material disposal areas, and relocations provided by the non-Federal interest exceed the non-Federal share of the cost of construction of a project other than a navigation project, the Secretary, subject to the availability of funds, shall enter into a reimbursement agreement with the non-Federal interest, which shall be in addition to a partnership agreement under subparagraph (A), to reimburse the difference to the non-Federal interest.
+&emsp;&emsp;&emsp;To the extent that credit for in-kind contributions, as limited by subparagraph (D), and credit for required land, easements, rights-of-way, dredged material disposal areas, and relocations provided by the non-Federal interest exceed the non-Federal share of the cost of construction of a project other than a navigation project, the Secretary, subject to the availability of funds, shall enter into a reimbursement agreement with the non-Federal interest, which shall be in addition to a partnershipagreement under subparagraph (A), to reimburse the difference to the non-Federal interest.
 
 #### (ii) Priority
 

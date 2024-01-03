@@ -58,5 +58,5 @@ Amendment by Pub. L. 95–600 effective as if included within the enactment of t
 
 #### Effective Date
 
-Pub. L. 94–455, title XXI, §2124(b)(3), Oct. 4, 1976, 90 Stat. 1918, which had provided that enactment of this section by subsec. (b) shall apply with respect todemolitions commencing after June 30, 1976, and before Jan. 1, 1981, was repealed by Pub. L. 96–541, §2(e)(2), Dec. 17, 1980, 94 Stat. 3205. See subsec. (c) of this section.
+Pub. L. 94–455, title XXI, §2124(b)(3), Oct. 4, 1976, 90 Stat. 1918, which had provided that enactment of this section by subsec. (b) shall apply with respect to demolitions commencing after June 30, 1976, and before Jan. 1, 1981, was repealed by Pub. L. 96–541, §2(e)(2), Dec. 17, 1980, 94 Stat. 3205. See subsec. (c) of this section.
 

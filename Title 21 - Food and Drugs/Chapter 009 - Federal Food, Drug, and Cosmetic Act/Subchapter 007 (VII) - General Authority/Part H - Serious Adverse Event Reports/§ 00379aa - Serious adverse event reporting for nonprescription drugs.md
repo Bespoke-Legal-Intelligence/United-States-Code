@@ -82,7 +82,7 @@ Each serious adverse event report under this section shall be submitted to the S
 
 #### (1) Maintenance
 
-&emsp;The responsible person shall maintain records related to each report of an adverseevent received by the responsible person for a period of 6 years.
+&emsp;The responsible person shall maintain records related to each report of an adverse event received by the responsible person for a period of 6 years.
 
 #### (2) Records inspection
 
@@ -108,7 +108,7 @@ A serious adverse event report submitted to the Secretary under this section, in
 
 #### (g) Rule of construction
 
-The submission of any adverse event report in compliance with this section shall not be construed as an admission that the nonprescription drug involved caused or contributed to the adverse event.
+The submission of any adverse event report in compliance with this section shall not be construed as an admission that the nonprescriptiondrug involved caused or contributed to the adverse event.
 
 #### (h) Preemption
 

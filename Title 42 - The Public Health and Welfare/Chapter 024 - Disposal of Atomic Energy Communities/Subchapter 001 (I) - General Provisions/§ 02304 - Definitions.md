@@ -40,7 +40,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 &emsp;(1) an occupant in a residential unit designated for sale at the community, or
 
-&emsp;(2) a project-connected person who is entitled, in accordance with a lease or similaragreement, to residential occupancy of privately owned rental housing in the community.
+&emsp;(2) a project-connected person who is entitled, in accordance with a lease or similar agreement, to residential occupancy of privately owned rental housing in the community.
 
 (l) The term "utility" means any electrical distribution system, any natural gas distribution system, any public transportation system, or any public communication system, and any fixtures, equipment, or other property appropriate to the operation, maintenance or repair of the foregoing.
 

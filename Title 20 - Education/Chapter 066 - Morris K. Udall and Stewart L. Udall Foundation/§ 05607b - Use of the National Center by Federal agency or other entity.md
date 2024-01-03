@@ -36,7 +36,7 @@ A Federal agency may use the Foundation and the National Center to provide asses
 
 #### (A) In general
 
-&emsp;&emsp;In a matter that involves two or more agencies or instrumentalities of the FederalGovernment (including branches or divisions of a single agency or instrumentality), the agencies or instrumentalities of the Federal Government shall obtain the concurrence of the chairperson of the President's Council on Environmental Quality before using the Foundation or National Center to provide the services described in subsection (a).
+&emsp;&emsp;In a matter that involves two or more agencies or instrumentalities of the Federal Government (including branches or divisions of a single agency or instrumentality), the agencies or instrumentalities of the Federal Government shall obtain the concurrence of the chairperson of the President's Council on Environmental Quality before using the Foundation or National Center to provide the services described in subsection (a).
 
 #### (B) Indication of concurrence or nonconcurrence
 
@@ -48,7 +48,7 @@ A Federal agency may use the Foundation and the National Center to provide asses
 
 #### (A) In general
 
-&emsp;&emsp;A dispute or conflict involving agencies or instrumentalities of the Federal Government (including branches or divisions of a single agency or instrumentality) that concern purely legal issues or matters, interpretation or determination of law, or enforcement of law by one agency against another agency shall not be submitted to the Foundation or National Center.
+&emsp;&emsp;A dispute or conflict involving agencies or instrumentalities of the Federal Government (including branches or divisions of a single agency or instrumentality) that concern purely legal issues or matters, interpretation or determination of law, or enforcement of law by one agency against anotheragency shall not be submitted to the Foundation or National Center.
 
 #### (B) Applicability
 

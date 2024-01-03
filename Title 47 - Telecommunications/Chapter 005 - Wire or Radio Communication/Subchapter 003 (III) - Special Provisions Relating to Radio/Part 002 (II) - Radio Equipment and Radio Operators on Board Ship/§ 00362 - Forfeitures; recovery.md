@@ -6,7 +6,7 @@ The following forfeitures shall apply to this part, in addition to the penalties
 
 (b) Every willful failure on the part of the master of a ship of the United States to enforce or to comply with the provisions of this chapter or the rules and regulations of the Commission as to equipment, operators, watches, or radio service shall cause him to forfeit to the United States the sum of $1,000.
 
-(June 19, 1934, ch. 652, title III, §364, formerly §362, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 196; renumbered §364, Aug. 13, 1954, ch. 729, §2(a)(1), 68 Stat. 706; amended Pub. L. 101–239, title III, §3002(g), Dec. 19, 1989, 103 Stat. 2131.)
+(June 19, 1934, ch. 652, title III, §364, formerly §362, as added May 20, 1937, ch. 229, §10(b), 50Stat. 196; renumbered §364, Aug. 13, 1954, ch. 729, §2(a)(1), 68 Stat. 706; amended Pub. L. 101–239, title III, §3002(g), Dec. 19, 1989, 103 Stat. 2131.)
 
 #### <b>Editorial Notes</b>
 

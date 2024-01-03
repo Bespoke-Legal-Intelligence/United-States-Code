@@ -27,6 +27,7 @@
 | [3926\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003926%20-%20Regulations%3B%20delegation%20of%20functions.md) | Regulations; delegation of functions. |
 | [3927\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003927%20-%20Chief%20of%20mission.md) | Chief of mission. |
 | [3927a.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003927a%20-%20Review%20by%20chief%20of%20mission.md) | Review by chief of mission. |
+| [3927b.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003927b%20-%20Reporting%20requirement%20on%20chiefs%20of%20mission.md) | Reporting requirement on chiefs of mission. |
 | [3928\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003928%20-%20Director%20General%20of%20Foreign%20Service.md) | Director General of Foreign Service. |
 | [3929\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003929%20-%20Inspector%20General.md) | Inspector General. |
 | [3929a.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003929a%20-%20Abolishment%20of%20Inspector%20General%20of%20Department%20of%20State%20and%20Foreign%20Service.md) | Abolishment of Inspector General of Department of State and Foreign Service. |
@@ -126,6 +127,7 @@
 | [4027\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004027%20-%20Visiting%20Scholars%20Program.md) | Visiting Scholars Program. |
 | [4028\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004028%20-%20Training%20for%20Foreign%20Service%20officers.md) | Training for Foreign Service officers. |
 | [4029\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004029%20-%20Increased%20training%20in%20multilateral%20diplomacy.md) | Increased training in multilateral diplomacy. |
+| [4030\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004030%20-%20Suitability%20reviews%20for%20Foreign%20Service%20Institute%20instructors.md) | Suitability reviews for Foreign Service Institute instructors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -198,12 +200,14 @@
 |  |  |
 | :--- | ---: |
 | [4081\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004081%20-%20Travel%20and%20related%20expenses.md) | Travel and related expenses. |
+| [4081a.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004081a%20-%20Exception%20for%20Government-financed%20air%20transportation%3B%20reducing%20hardship%20for%20transportation%20of%20domestic%20animals.md) | Exception for Government-financed air transportation; reducing hardship for transportation of domestic animals. |
 | [4082\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004082%20-%20Loan%20of%20household%20effects.md) | Loan of household effects. |
 | [4083\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004083%20-%20Required%20leave.md) | Required leave. |
 | [4084\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004084%20-%20Health%20care%20program.md) | Health care program. |
 | [4085\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004085%20-%20Entertainment%20and%20representation%20expenses.md) | Entertainment and representation expenses. |
 | [4086\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004086%20-%20Entitlement%20to%20vote%20in%20a%20State%20in%20a%20Federal%20election%3B%20preconditions%3B%20applicability.md) | Entitlement to vote in a State in a Federal election; preconditions; applicability. |
 | [4087\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004087%20-%20Termination%20of%20residential%20or%20motor%20vehicle%20leases%20and%20telephone%20service%20contracts.md) | Termination of residential or motor vehicle leases and telephone service contracts. |
+| [4088\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004088%20-%20Education%20allowance.md) | Education allowance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

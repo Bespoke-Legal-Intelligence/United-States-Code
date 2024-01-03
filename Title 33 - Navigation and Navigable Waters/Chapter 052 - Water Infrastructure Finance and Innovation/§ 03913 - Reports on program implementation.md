@@ -44,7 +44,7 @@ As soon as practicable after each fiscal year for which amounts are made availab
 
 &emsp;&emsp;&emsp;(ii) by establishing a Government corporation or Government-sponsored enterprise to provide assistance in accordance with this chapter; or
 
-&emsp;&emsp;&emsp;(iii) by terminating the authority of the Secretary and the Administrator under this chapter and relying on the capital markets to fund the types of infrastructure investments assisted by this chapter without Federal participation; and
+&emsp;&emsp;&emsp;(iii) by terminating the authority of the Secretary and the Administrator underthis chapter and relying on the capital markets to fund the types of infrastructure investments assisted by this chapter without Federal participation; and
 
 &emsp;&emsp;(C) any proposed changes to improve the efficiency and effectiveness of this chapter in providing financing for water infrastructure projects, taking into consideration the recommendations made under subparagraphs (A) and (B).
 

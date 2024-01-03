@@ -12,7 +12,7 @@ For the purposes of this chapter—
 
 &emsp;(c) The term "antitrust investigation" means any inquiry conducted by any antitrust investigator for the purpose of ascertaining whether any person is or has been engaged in any antitrust violation or in any activities in preparation for a merger, acquisition, joint venture, or similar transaction, which, if consummated, may result in an antitrust violation;
 
-&emsp;(d) The term "antitrust violation" means any act or omission in violation of any antitrust law, any antitrust order or, with respect to the International Antitrust EnforcementAssistance Act of 1994 \[15 U.S.C. 6201 et seq.\], any of the foreign antitrust laws;
+&emsp;(d) The term "antitrust violation" means any act or omission in violation of any antitrust law, any antitrust order or, with respect to the International Antitrust Enforcement Assistance Act of 1994 \[15 U.S.C. 6201 et seq.\], any of the foreign antitrust laws;
 
 &emsp;(e) The term "antitrust investigator" means any attorney or investigator employed by the Department of Justice who is charged with the duty of enforcing or carrying into effect any antitrust law;
 
@@ -28,7 +28,7 @@ For the purposes of this chapter—
 
 &emsp;(k) The term "foreign antitrust laws" has the meaning given such term in section 12 of the International Antitrust Enforcement Assistance Act of 1994 \[15 U.S.C. 6211\].
 
-(Pub. L. 87–664, §2, Sept. 19, 1962, 76 Stat. 548; Pub. L. 94–435, title I, §101, Sept. 30, 1976, 90 Stat. 1383; Pub. L. 96–349, §§2(a), 7(a)(1), Sept. 12, 1980, 94 Stat. 1154, 1158; Pub. L. 103–438, §3(e)(1)(A), Nov. 2, 1994, 108 Stat. 4598.)
+(Pub. L. 87–664, §2, Sept. 19, 1962, 76 Stat. 548; Pub. L. 94–435, title I, §101, Sept. 30, 1976, 90 Stat.1383; Pub. L. 96–349, §§2(a), 7(a)(1), Sept. 12, 1980, 94 Stat. 1154, 1158; Pub. L. 103–438, §3(e)(1)(A), Nov. 2, 1994, 108 Stat. 4598.)
 
 #### <b>Editorial Notes</b>
 

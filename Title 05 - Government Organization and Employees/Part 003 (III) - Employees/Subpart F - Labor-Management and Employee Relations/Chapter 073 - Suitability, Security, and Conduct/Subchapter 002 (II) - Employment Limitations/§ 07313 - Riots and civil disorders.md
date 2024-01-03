@@ -20,7 +20,7 @@
 
 #### Effective Date
 
-Pub. L. 90–351, title V, §1002, June 19, 1968, 82 Stat. 235, provided that: "The provisions of section 1001(a) of this title \[enacting this section\] shall apply only with respect to acts referred to in section 7313(a)(1)–(4) of title 5, United States Code, as added by section 1001 of this title, which are committed after the date of enactment of this title \[June 19, 1968\]."
+Pub. L. 90–351, title V, §1002, June 19, 1968, 82 Stat. 235, provided that: "The provisions of section 1001(a) ofthis title \[enacting this section\] shall apply only with respect to acts referred to in section 7313(a)(1)–(4) of title 5, United States Code, as added by section 1001 of this title, which are committed after the date of enactment of this title \[June 19, 1968\]."
 
 #### Receipt of Benefits Under Laws Providing Relief for Disaster Victims
 

@@ -1,6 +1,6 @@
 ### §12552. Funeral honors functions at funerals for veterans
 
-Performance by a Reserve of funeral honors functions at the funeral of a veteran (as defined in section 1491(h) of this title) may not be considered to be a period of drill or training, but may be performed as funeral honors duty under section 12503 of this title.
+Performance by a Reserve of funeral honors functions at the funeral of a veteran (as definedin section 1491(h) of this title) may not be considered to be a period of drill or training, but may be performed as funeral honors duty under section 12503 of this title.
 
 (Added Pub. L. 105–261, div. A, title V, §567(c)(1), Oct. 17, 1998, 112 Stat. 2031; amended Pub. L. 106–65, div. A, title V, §578(g)(4), Oct. 5, 1999, 113 Stat. 628; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(21)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291.)
 

@@ -38,7 +38,7 @@ Subsec. (f)(3), (4). Pub. L. 105–55, §308(c), added pars. (3) and (4).
 
 <b>1994</b>—Subsecs. (a) to (c). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $250".
 
-<b>1991</b>—Pub. L. 102–229, §210(a), substituted "the seals of the President and Vice President, and the seal of theUnited States Senate" for "and of the seals of the President and Vice President" in section catchline.
+<b>1991</b>—Pub. L. 102–229, §210(a), substituted "the seals of the President and Vice President, and the seal of the United States Senate" for "and of the seals of the President and Vice President" in section catchline.
 
 Subsec. (a). Pub. L. 102–229, §210(b), inserted "or the seal of the United States Senate," after "Vice President of the United States,".
 

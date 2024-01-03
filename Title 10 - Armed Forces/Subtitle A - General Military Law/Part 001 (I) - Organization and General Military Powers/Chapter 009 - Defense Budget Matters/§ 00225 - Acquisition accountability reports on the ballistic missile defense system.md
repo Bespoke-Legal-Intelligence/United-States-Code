@@ -136,7 +136,7 @@ Operations and Sustainment Cost Estimates.—The Director shall ensure that each
 
 &emsp;(C) if and when the source was independently verified by the Office for Cost Assessment and Program Evaluation.
 
-(Added Pub. L. 112–81, div. A, title II, §231(a)(1), Dec. 31, 2011, 125 Stat. 1337; amended Pub. L. 113–66, div. A, title II, §231(b), Dec. 26, 2013, 127 Stat. 711; Pub. L. 117–263, div. A, title XVI, §1652, Dec. 23, 2022, 136 Stat. 2948.)
+(Added Pub. L. 112–81, div. A, title II, §231(a)(1), Dec. 31, 2011, 125 Stat. 1337; amended Pub. L.113–66, div. A, title II, §231(b), Dec. 26, 2013, 127 Stat. 711; Pub. L. 117–263, div. A, title XVI, §1652, Dec. 23, 2022, 136 Stat. 2948.)
 
 #### <b>Editorial Notes</b>
 

@@ -120,7 +120,7 @@ In general.—Not later than 60 days after the end of each fiscal year, the Dire
 
 &emsp;"(C) the Committee on Homeland Security and Governmental Affairs of the Senate;
 
-&emsp;"(D) the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives;
+&emsp;"(D) the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives;
 
 &emsp;"(E) the Committee on Appropriations of the Senate; and
 
@@ -146,7 +146,7 @@ Costs Not Allowable.—(1) The costs of gifts or recreation for employees of a c
 
 "(2) Not later than 90 days after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall amend the cost principle in the Federal Acquisition Regulation that is set out in section 31.205–14 of title 48, Code of Federal Regulations, relating to unallowability of entertainment costs—
 
-&emsp;"(A) by inserting in the cost principle a statement that costs made specifically unallowable under thatcost principle are not allowable under any other cost principle; and
+&emsp;"(A) by inserting in the cost principle a statement that costs made specifically unallowable under that cost principle are not allowable under any other cost principle; and
 
 &emsp;"(B) by striking out '(but see 31.205–1 and 31.205–13)'.
 

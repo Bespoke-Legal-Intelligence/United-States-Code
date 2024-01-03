@@ -30,7 +30,7 @@ In making grants under this section, the Attorney General shall ensure that diff
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated for each of the fiscal years 2007 through 2009 such sums as may be necessary to carry out this section.
+&emsp;There are authorized to be appropriated for each of the fiscal years 2007 through 2009 suchsums as may be necessary to carry out this section.
 
 #### (2) Report
 

@@ -58,7 +58,7 @@ Subject to subsection (c), any consumer reporting agency may furnish a consumer 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), a person may not procure a consumer report,or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless—
+&emsp;&emsp;Except as provided in subparagraph (B), a person may not procure a consumer report, or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless—
 
 &emsp;&emsp;&emsp;(i) a clear and conspicuous disclosure has been made in writing to the consumer at any time before the report is procured or caused to be procured, in a document that consists solely of the disclosure, that a consumer report may be obtained for employment purposes; and
 
@@ -74,7 +74,7 @@ Subject to subsection (c), any consumer reporting agency may furnish a consumer 
 
 #### (C) Scope
 
-&emsp;&emsp;Subparagraph (B) shall apply to a person procuring a consumer report on a consumer in connection with the consumer's application for employment only if—
+&emsp;&emsp;Subparagraph (B) shall apply to a person procuring a consumer report on a consumerin connection with the consumer's application for employment only if—
 
 &emsp;&emsp;&emsp;(i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49, or a position subject to safety regulation by a State transportation agency; and
 
@@ -198,7 +198,7 @@ Subject to subsection (c), any consumer reporting agency may furnish a consumer 
 
 #### (1) In general
 
-&emsp;A consumer may elect to have the consumer's name and address excluded from anylist provided by a consumer reporting agency under subsection (c)(1)(B) in connection with a credit or insurance transaction that is not initiated by the consumer, by notifying the agency in accordance with paragraph (2) that the consumer does not consent to any use of a consumer report relating to the consumer in connection with any credit or insurance transaction that is not initiated by the consumer.
+&emsp;A consumer may elect to have the consumer's name and address excluded from any list provided by a consumer reporting agency under subsection (c)(1)(B) in connection with a credit or insurance transaction that is not initiated by the consumer, by notifying the agency in accordance with paragraph (2) that the consumer does not consent to any use of a consumer report relating to the consumer in connection with any credit or insurance transaction that is not initiated by the consumer.
 
 #### (2) Manner of notification
 
@@ -284,7 +284,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 #### (3) Actions authorized by Federal law, insurance activities and regulatory determinations
 
-&emsp;Section 1681a(d)(3) of this title shall not be construed so as to treat information or any communication of information as a consumer report if the information or communication is disclosed—
+&emsp;Section 1681a(d)(3) of this title shall not be construed so as to treat information or anycommunication of information as a consumer report if the information or communication is disclosed—
 
 &emsp;&emsp;(A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and Health Information Regulation issued by the National Association of Insurance Commissioners (as in effect on January 1, 2003);
 
@@ -338,7 +338,7 @@ Subsec. (a)(4)(C), (D). Pub. L. 114–94, §80001(3), (4), redesignated subpar. 
 
 <b>2010</b>—Subsec. (b)(1)(B), (3)(A)(ii), (B)(ii). Pub. L. 111–203, §1088(a)(2)(A), substituted "Bureau" for "Federal Trade Commission".
 
-Subsec. (g)(3)(C). Pub. L. 111–203, §1088(a)(4)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: "as otherwise determined to be necessary and appropriate, by regulation or order and subject to paragraph (6), by the Commission, any Federal banking agency or the National Credit Union Administration (with respect to any financial institution subject to the jurisdiction of such agency or Administration under paragraph (1), (2), or (3) of section 1681s(b) of this title, or the applicable State insurance authority (with respect to any person engaged in providing insurance or annuities)."
+Subsec. (g)(3)(C). Pub. L. 111–203, §1088(a)(4)(A), added subpar. (C) and struck out former subpar. (C) whichread as follows: "as otherwise determined to be necessary and appropriate, by regulation or order and subject to paragraph (6), by the Commission, any Federal banking agency or the National Credit Union Administration (with respect to any financial institution subject to the jurisdiction of such agency or Administration under paragraph (1), (2), or (3) of section 1681s(b) of this title, or the applicable State insurance authority (with respect to any person engaged in providing insurance or annuities)."
 
 Subsec. (g)(5). Pub. L. 111–203, §1088(a)(4)(B), added par. (5) and struck out former par. (5) which related to prescription of par. (2) regulations by each Federal banking agency and the National Credit Union Administration and required issuance of final regulations before the end of the 6-month period beginning on Dec. 4, 2003.
 

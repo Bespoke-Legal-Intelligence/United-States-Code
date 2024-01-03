@@ -52,7 +52,7 @@ Prohibition.—Except as provided in subsection (b), the Secretary of the Navy m
 
 "(b)
 
-Waiver.—The Secretary of the Navy may waive the prohibition under subsection (a) if the Secretary, with the concurrence of the Director of Operational Test and Evaluation, certifies in writing to the congressional defense committees \[Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives\] that the Secretary has—
+Waiver.—The Secretary of the Navy may waive the prohibition under subsection (a) if the Secretary, with the concurrence of the Director of Operational Test and Evaluation, certifies in writing to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that the Secretary has—
 
 &emsp;"(1) identified a replacement capability and the necessary quantity of such capability to meet alloperational requirements currently being met by the Marine Mammal Program, including a detailed explanation of such capability and quantity;
 

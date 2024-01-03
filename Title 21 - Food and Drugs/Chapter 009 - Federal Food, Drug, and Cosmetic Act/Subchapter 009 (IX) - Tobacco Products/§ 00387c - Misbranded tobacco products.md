@@ -18,7 +18,7 @@ A tobacco product shall be deemed to be misbranded—
 
 > &emsp;except that under subparagraph (B) reasonable variations shall be permitted, and exemptions as to small packages shall be established, by regulations prescribed by the Secretary;
 
-&emsp;(3) if any word, statement, or other information required by or under authority of this subchapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, or designs in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
+&emsp;(3) if any word, statement, or other information required by or under authority of this subchapter to appear on the label or labeling is not prominently placed thereon with suchconspicuousness (as compared with other words, statements, or designs in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
 &emsp;(4) if it has an established name, unless its label bears, to the exclusion of any other nonproprietary name, its established name prominently printed in type as required by the Secretary by regulation;
 
@@ -40,7 +40,7 @@ A tobacco product shall be deemed to be misbranded—
 
 &emsp;&emsp;&emsp;(i) the uses of the tobacco product and relevant warnings, precautions, side effects, and contraindications; and
 
-&emsp;&emsp;&emsp;(ii) in the case of specific tobacco products made subject to a finding by the Secretary after notice and opportunity forcomment that such action is appropriate to protect the public health, a full description of the components of such tobacco product or the formula showing quantitatively each ingredient of such tobacco product to the extent required in regulations which shall be issued by the Secretary after an opportunity for a hearing;
+&emsp;&emsp;&emsp;(ii) in the case of specific tobacco products made subject to a finding by the Secretary after notice and opportunity for comment that such action is appropriate to protect the public health, a full description of the components of such tobacco product or the formula showing quantitatively each ingredient of such tobacco product to the extent required in regulations which shall be issued by the Secretary after an opportunity for a hearing;
 
 &emsp;(9) if it is a tobacco product subject to a tobacco product standard established under section 387g of this title, unless it bears such labeling as may be prescribed in such tobacco product standard; or
 
@@ -80,7 +80,7 @@ Pub. L. 111–31, div. A, title I, §103(q)(5), (6), June 22, 2009, 123 Stat. 18
 
 "(5)
 
-Package label requirements.—The package label requirements of paragraphs (3) and (4) of section 903(a) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 387c(a)\] (as amended by this division) shall take effect on the date that is 12 months after the date of enactment of this Act \[June 22, 2009\]. The package label requirements of paragraph (2) of such section 903(a) for cigarettes shall take effect on the date that is 15 months after the issuance of the regulations required by section 4(d) of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333\[(d)\]), as amended by section 201 of this division. The package label requirements of paragraph (2) of such section 903(a) for tobacco products other than cigarettes shall take effect on the date that is 12 months after the date of enactment of this Act. The effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with section 903(a)(2), (3), and (4) and section 920(a) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 387t(a)\].
+Package label requirements.—The package label requirements of paragraphs (3) and (4) of section 903(a) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 387c(a)\] (as amended by this division) shall take effect on the date that is 12 months after the date of enactment of this Act \[June 22, 2009\]. The package label requirements of paragraph (2) of such section 903(a) for cigarettes shall take effect on the date that is 15 months after the issuance of the regulations required by section 4(d) of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333\[(d)\]), as amended by section 201 of this division. The package label requirements of paragraph (2) of such section 903(a) for tobacco products other than cigarettes shall take effect on the date that is 12 months after the date of enactment of this Act. The effective date shall be with respect to thedate of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with section 903(a)(2), (3), and (4) and section 920(a) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 387t(a)\].
 
 "(6)
 

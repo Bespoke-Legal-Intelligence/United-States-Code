@@ -22,7 +22,7 @@ The tax imposed by section 2101 shall be credited with the amounts determined in
 
 #### (A) Coordination with treaties
 
-&emsp;&emsp;To the extent required under any treaty obligation of the United States, the credit allowed under this subsection shall be equal to the amount which bears the same ratio to the applicable credit amount in effect under section 2010(c) for the calendar year which includes the date of death as the value of thepart of the decedent's gross estate which at the time of his death is situated in the United States bears to the value of his entire gross estate wherever situated. For purposes of the preceding sentence, property shall not be treated as situated in the United States if such property is exempt from the tax imposed by this subchapter under any treaty obligation of the United States.
+&emsp;&emsp;To the extent required under any treaty obligation of the United States, the credit allowed under this subsection shall be equal to the amount which bears the same ratio to the applicable credit amount in effect under section 2010(c) for the calendar year which includes the date of death as the value of the part of the decedent's gross estate which at the time of his death is situated in the United States bears to the value of his entire gross estate wherever situated. For purposes of the preceding sentence, property shall not be treated as situated in the United States if such property is exempt from the tax imposed by this subchapter under any treaty obligation of the United States.
 
 #### (B) Coordination with gift tax unified credit
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 105–34 applicable to estates of decedents dying, and gift
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable to estates of decedents dying after Nov. 10, 1988, see section 5032(d) of Pub. L. 100–647, set out as a note under section 2101 of this title.
+Amendment by Pub. L. 100–647 applicable to estates of decedents dying after Nov. 10, 1988, see section 5032(d)of Pub. L. 100–647, set out as a note under section 2101 of this title.
 
 #### Effective Date of 1976 Amendment
 

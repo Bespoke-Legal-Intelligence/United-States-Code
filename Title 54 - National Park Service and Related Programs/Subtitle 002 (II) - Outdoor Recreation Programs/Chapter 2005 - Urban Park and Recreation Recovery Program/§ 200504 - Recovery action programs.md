@@ -16,7 +16,7 @@ Evidence of Local Commitment to Ongoing Programs.—As a requirement for project
 
 (b)
 
-Continuing Planning Process.—Where appropriate, the Secretary may encourage local governments to meet action program requirements through a continuing planning process that includes periodic improvements and updates in action program submissions to eliminate identified gaps in program information and policy development.
+Continuing Planning Process.—Where appropriate, the Secretary may encourage localgovernments to meet action program requirements through a continuing planning process that includes periodic improvements and updates in action program submissions to eliminate identified gaps in program information and policy development.
 
 (c)
 

@@ -34,7 +34,7 @@
 
 &emsp;(8) amounts equal to amounts paid by a veteran, veterans' spouse, or surviving spouse or by or on behalf of a veteran's child for unreimbursed medical expenses, to the extent that such amounts exceed 5 percent of the maximum annual rate of pension (including any amount of increased pension payable on account of family members but not including any amount of pension payable because a person is in need of regular aid and attendance or because a person is permanently housebound) payable to such veteran, surviving spouse, or child;
 
-&emsp;(9) in the case of a veteran or surviving spouse pursuing a course of education or vocational rehabilitation or training, amounts equal to amounts paid by such veteran or surviving spouse for such course of education or vocational rehabilitation or training, including (A) amounts paid for tuition, fees, books, and materials, and (B) in the case of such a veteran or surviving spouse in need of regularaid and attendance, unreimbursed amounts paid for unusual transportation expenses in connection with the pursuit of such course of education or vocational rehabilitation or training, to the extent that such amounts exceed the reasonable expenses which would have been incurred by a nondisabled person using an appropriate means of transportation (public transportation, if reasonably available);
+&emsp;(9) in the case of a veteran or surviving spouse pursuing a course of education or vocational rehabilitation or training, amounts equal to amounts paid by such veteran or surviving spouse for such course of education or vocational rehabilitation or training, including (A) amounts paid for tuition, fees, books, and materials, and (B) in the case of such a veteran or surviving spouse in need of regular aid and attendance, unreimbursed amounts paid for unusual transportation expenses in connection with the pursuit of such course of education or vocational rehabilitation or training, to the extent that such amounts exceed the reasonable expenses which would have been incurred by a nondisabled person using an appropriate means of transportation (public transportation, if reasonably available);
 
 &emsp;(10) in the case of a child, any current-work income received during the year, to the extent that the total amount of such income does not exceed an amount equal to the sum of—
 
@@ -106,7 +106,7 @@ Subsec. (a)(9). Pub. L. 95–588, §102(a)(8), (13), added par. (9) and struck o
 
 Subsec. (a)(10). Pub. L. 95–588, §102(a)(13), added par. (10). Former subsec. (10) redesignated (6).
 
-Subsec. (a)(11) to (14). Pub. L. 95–588, §102(a)(10), struck out pars. (11) to (14) which related to paymentsfor discharge of jury duty, educational assistance allowances, bonuses based on service in the Armed Forces, and indebtednesses secured by mortgages, respectively.
+Subsec. (a)(11) to (14). Pub. L. 95–588, §102(a)(10), struck out pars. (11) to (14) which related to payments for discharge of jury duty, educational assistance allowances, bonuses based on service in the Armed Forces, and indebtednesses secured by mortgages, respectively.
 
 Subsec. (a)(15). Pub. L. 95–588, §102(a)(11), redesignated par. (15) as (7).
 

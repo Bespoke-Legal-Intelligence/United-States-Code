@@ -12,7 +12,7 @@
 
 #### Pilot Program To Accelerate Contracting and Pricing Processes
 
-Pub. L. 115–232, div. A, title VIII, §890, Aug. 13, 2018, 132 Stat. 1919, as amended by Pub. L. 116–92, div. A, title VIII, §825, Dec. 20, 2019, 133 Stat. 1491; Pub. L. 116–283, div. A, title XVIII, §1831(j)(7), Jan. 1, 2021, 134 Stat. 4217; Pub. L. 117–263, div. A, title VIII, §818, Dec. 23, 2022, 136 Stat. 2708, provided that:
+Pub. L. 115–232, div. A, title VIII, §890, Aug. 13, 2018, 132 Stat. 1919, as amended by Pub. L. 116–92, div. A, title VIII, §825, Dec. 20, 2019, 133 Stat. 1491; Pub. L. 116–283, div. A, title XVIII, §1831(j)(7), Jan. 1, 2021, 134 Stat. 4217; Pub. L. 117–263, div. A, title VIII, §818, Dec. 23, 2022, 136 Stat. 2708; Pub. L. 118–31, div. A, title VIII, §841, Dec. 22, 2023, 137 Stat. 339, provided that:
 
 "(a)
 
@@ -24,11 +24,19 @@ In General.—The Secretary of Defense shall establish a pilot program to reform
 
 "(b)
 
-Report.—Not later than January 30, 2021, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the pilot program authorized under subsection (a).
+Implementation Guidance.—The Secretary, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall ensure that each senior contracting official (as defined in section 1737 of title 10, United States Code) for a contract described in subsection (a) has the discretion to implement the pilot program under this section efficiently and effectively by ensuring the following:
+
+&emsp;"(1) That the pilot program does not include any preferences for contract type or specific contract requirements.
+
+&emsp;"(2) That each Secretary of a military department has minimal reporting requirements to the Under Secretary of Defense for Acquisition and Sustainment with respect to the pilot program.
 
 "(c)
 
-Sunset.—The authority to carry out the pilot program under this section shall expire on January 2, 2024."
+Report.—Not later than January 30, 2021, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the pilot program authorized under subsection (a).
+
+"(d)
+
+Sunset.—The authority to carry out the pilot program under this section shall expire on January 2, 2028."
 
 #### Guidance and Training Related to Evaluating Reasonableness of Price
 
@@ -76,7 +84,7 @@ Review requirement.—The Comptroller General of the United States shall conduct
 
 Report requirement.—Not later than 180 days after the end of the two-year period referred to in paragraph (1), the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on—
 
-&emsp;&emsp;"(A) the extent to which the Department of Defense needed access to additional cost information pursuant to sections 2306a(d) \[now 10 U.S.C. 3705\]and 2379 \[now 10 U.S.C. 3455\] of title 10, United States Code, during such two-year period in order to determine price reasonableness;
+&emsp;&emsp;"(A) the extent to which the Department of Defense needed access to additional cost information pursuant to sections 2306a(d) \[now 10 U.S.C. 3705\] and 2379 \[now 10 U.S.C. 3455\] of title 10, United States Code, during such two-year period in order to determine price reasonableness;
 
 &emsp;&emsp;"(B) the extent to which acquisition officials of the Department of Defense complied with the guidance issued pursuant to subsection (a) during such two-year period;
 

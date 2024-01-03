@@ -48,7 +48,7 @@ The basis of property (other than money) distributed by a partnership to a partn
 
 #### (d) Special partnership basis to transferee
 
-For purposes of subsections (a), (b), and (c), a partner who acquired all or a part of his interest by a transfer with respect to which the election provided in section 754 is not in effect, and to whom a distribution of property (other than money) is made with respect to the transferred interest within 2 years after such transfer, may elect, under regulations prescribed by the Secretary, to treat as the adjusted partnership basis of such property the adjusted basis such property would have if the adjustment provided in section 743(b) were in effect with respect to the partnership property. The Secretary may by regulations require the application of this subsection in the case of a distribution to a transferee partner, whether or not made within 2 years after the transfer, if at the time of the transfer the fair market value of the partnership property (other than money) exceeded 110 percent of its adjusted basis to the partnership.
+For purposes of subsections (a), (b), and (c), a partner who acquired all or a part of his interest by a transfer with respect to which the election provided in section 754 is not in effect, and towhom a distribution of property (other than money) is made with respect to the transferred interest within 2 years after such transfer, may elect, under regulations prescribed by the Secretary, to treat as the adjusted partnership basis of such property the adjusted basis such property would have if the adjustment provided in section 743(b) were in effect with respect to the partnership property. The Secretary may by regulations require the application of this subsection in the case of a distribution to a transferee partner, whether or not made within 2 years after the transfer, if at the time of the transfer the fair market value of the partnership property (other than money) exceeded 110 percent of its adjusted basis to the partnership.
 
 #### (e) Exception
 
@@ -120,7 +120,7 @@ This section shall not apply to the extent that a distribution is treated as a s
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–34, §1061(a), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "The basis of distributed properties to which subsection (a)(2) or subsection (b) is applicable shall be allocated—
 
-&emsp;"(1) first to any unrealized receivables (as defined in section 751(c)) and inventory items (as defined in section 751(d)(2)) in an amount equal to the adjusted basis of each such property to the partnership (or if the basis to be allocated is less than the sum of the adjusted bases of such properties to the partnership, in proportion to such bases), and
+&emsp;"(1) first to any unrealized receivables (as defined in section 751(c)) and inventory items (as defined insection 751(d)(2)) in an amount equal to the adjusted basis of each such property to the partnership (or if the basis to be allocated is less than the sum of the adjusted bases of such properties to the partnership, in proportion to such bases), and
 
 &emsp;"(2) to the extent of any remaining basis, to any other distributed properties in proportion to their adjusted bases to the partnership."
 

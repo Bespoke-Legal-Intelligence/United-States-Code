@@ -18,7 +18,7 @@ The Secretary of State shall notify the Committees on Appropriations, the Commit
 
 #### Amendments
 
-<b>2022</b>—Pub. L. 117–328 substituted subsecs. (a) to (c) for "Nothing in this subchapter shall prohibit the UnitedStates from rendering assistance to international efforts to bring to justice Saddam Hussein, Slobodan Milosovic, Osama bin Laden, other members of Al Queda, leaders of Islamic Jihad, and other foreign nationals accused of genocide, war crimes or crimes against humanity."
+<b>2022</b>—Pub. L. 117–328 substituted subsecs. (a) to (c) for "Nothing in this subchapter shall prohibit the United States from rendering assistance to international efforts to bring to justice Saddam Hussein, Slobodan Milosovic, Osama bin Laden, other members of Al Queda, leaders of Islamic Jihad, and other foreign nationals accused of genocide, war crimes or crimes against humanity."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

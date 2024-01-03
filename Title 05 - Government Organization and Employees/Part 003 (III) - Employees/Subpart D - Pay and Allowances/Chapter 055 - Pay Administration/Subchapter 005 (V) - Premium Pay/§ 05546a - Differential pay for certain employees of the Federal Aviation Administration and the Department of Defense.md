@@ -16,7 +16,7 @@
 
 &emsp;(3) any employee of the Federal Aviation Administration who occupies a position at the Federal Aviation Administration Academy, Oklahoma City, Oklahoma, the duties of which are determined by the Administrator to require the individual to be actively engaged in or directly responsible for training employees to perform the duties of a position described in subparagraph (a); (b); or (c) or paragraph (1) of this subsection, and who, immediately prior to assuming such position at such Academy, occupied a position referred to in subparagraph (a), (b), or (c) of paragraph (1) of this subsection.
 
-(b) The premium pay payable under any subsection of this section is in addition to basic payand to premium pay payable under any other subsection of this section and any other provision of this subchapter.
+(b) The premium pay payable under any subsection of this section is in addition to basic pay and to premium pay payable under any other subsection of this section and any other provision of this subchapter.
 
 (c)(1) The Administrator or the Secretary may pay premium pay to any employee of the Federal Aviation Administration or the Department of Defense who—
 

@@ -16,7 +16,7 @@ R.S. §1821 derived from acts Mar. 2, 1867, ch. 167, §2, 14 Stat. 466; Mar. 3, 
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–145, §6(e)(3), amended first sentence of R.S. §1821 by striking ", the members of which shallbe appointed by the Sergeants-at-Arms of the two Houses and the Architect of the Capitol Extension" after "There shall be a Capitol police".
+<b>2010</b>—Pub. L. 111–145, §6(e)(3), amended first sentence of R.S. §1821 by striking ", the members of which shall be appointed by the Sergeants-at-Arms of the two Houses and the Architect of the Capitol Extension" after "There shall be a Capitol police".
 
 Pub. L. 111–145, §6(e)(2), repealed Pub. L. 108–7, §1018(h)(1), and provided that the sentence repealed by such section is restored to appear at end of section. See 2003 Amendment note below.
 
@@ -308,7 +308,7 @@ Rule of Construction Relating to Personnel Authority of the Librarian of Congres
 
 Similar provisions were contained in Pub. L. 110–161, div. H, title I, §1004(b), (c), (h), Dec. 26, 2007, 121 Stat. 2227, 2231, 2236, prior to repeal by Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.
 
-Pub. L. 108–83, title I, §1006, Sept. 30, 2003, 117 Stat. 1023, as amended by Pub. L. 108–447, div. G, title I, §1002, Dec. 8, 2004, 118 Stat. 3179; Pub. L. 109–55, title I, §1006(a), Aug. 2, 2005, 119 Stat. 576, related to the effective and efficient transfer of Library of Congress Police to Capitol Police under section 1015 of Pub. L. 108–7, prior to repeal by Pub. L. 110–161, div. H, title I, §1004(g), Dec. 26, 2007, 121 Stat. 2236, and Pub. L. 110–178,§7, Jan. 7, 2008, 121 Stat. 2554, effective Oct. 1, 2009. Pub. L. 110–161, §1004, was repealed by Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.
+Pub. L. 108–83, title I, §1006, Sept. 30, 2003, 117 Stat. 1023, as amended by Pub. L. 108–447, div. G, title I, §1002, Dec. 8, 2004, 118 Stat. 3179; Pub. L. 109–55, title I, §1006(a), Aug. 2, 2005, 119 Stat. 576, related to the effective and efficient transfer of Library of Congress Police to Capitol Police under section 1015 of Pub. L. 108–7, prior to repeal by Pub. L. 110–161, div. H, title I, §1004(g), Dec. 26, 2007, 121 Stat. 2236, and Pub. L. 110–178, §7, Jan. 7, 2008, 121 Stat. 2554, effective Oct. 1, 2009. Pub. L. 110–161, §1004, was repealed by Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.
 
 Pub. L. 108–7, div. H, title I, §1015, Feb. 20, 2003, 117 Stat. 362, related to the transfer of Library of Congress Police to the United States Capitol Police, prior to repeal by Pub. L. 110–161, div. H, title I, §1004(g), Dec. 26, 2007, 121 Stat. 2236, and Pub. L. 110–178, §7, Jan. 7, 2008, 121 Stat. 2554, effective Oct. 1, 2009. Pub. L. 110–161, §1004, was repealed by Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.
 

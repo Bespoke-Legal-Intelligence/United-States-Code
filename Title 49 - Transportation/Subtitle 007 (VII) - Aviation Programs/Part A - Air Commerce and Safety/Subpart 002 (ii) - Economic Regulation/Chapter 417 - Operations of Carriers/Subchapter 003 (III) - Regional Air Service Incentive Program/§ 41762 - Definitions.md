@@ -16,7 +16,7 @@ Capital reserve subsidy amount.—The term "capital reserve subsidy amount" mean
 
 &emsp;(4)
 
-Commuter air carrier.—The term "commuter air carrier" means an air carrier that primarily operates aircraft designed to have a maximum passenger seating capacity of 75 or less in accordance with published flight schedules.
+Commuter air carrier.—The term "commuter air carrier" means an air carrier that primarily operates aircraft designed to have amaximum passenger seating capacity of 75 or less in accordance with published flight schedules.
 
 &emsp;(5)
 
@@ -28,7 +28,7 @@ Financial obligation.—The term "financial obligation" means any note, bond, de
 
 &emsp;(7)
 
-Lender.—The term "lender" means any non-Federal qualified institutional buyer (as defined by section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation) known as Rule 144A(a) of the Securityand Exchange Commission and issued under the Security Act of 1933 (15 U.S.C. 77a et seq.)), including—
+Lender.—The term "lender" means any non-Federal qualified institutional buyer (as defined by section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation) known as Rule 144A(a) of the Security and Exchange Commission and issued under the Security Act of 1933 (15 U.S.C. 77a et seq.)), including—
 
 &emsp;&emsp;(A) a qualified retirement plan (as defined in section 4974(c) of the Internal Revenue Code of 1986) that is a qualified institutional buyer; and
 

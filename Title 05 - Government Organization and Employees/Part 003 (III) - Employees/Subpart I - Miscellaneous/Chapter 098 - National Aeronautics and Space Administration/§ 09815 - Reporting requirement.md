@@ -22,7 +22,7 @@ The Administrator shall submit to the appropriate committees of Congress, not la
 
 &emsp;(10) The number of employees for whom the Administrator set the pay under section 9814 during the preceding fiscal year and the number of times pay was set under such section to address a critical need described in the workforce plan pursuant to section 9802(b)(2).
 
-&emsp;(11) A summary of all recruitment, relocation, redesignation, and retention bonuses paid under authorities other than this chapter and excluding the authorities provided in sections 5753 and 5754 of this title, during the preceding fiscal year. Such summary shall include, for each type of bonus, the total amount of bonuses paid, the total number of bonuses paid, the percentage of the amount of bonuses awarded to supervisors and management officials, and the average percentage used to calculate the total average bonus amount.
+&emsp;(11) A summary of all recruitment, relocation, redesignation, and retention bonuses paid under authorities other than this chapter and excluding the authorities provided in sections 5753 and 5754 of this title, during the preceding fiscal year. Such summary shall include, for each type of bonus, the total amount of bonuses paid, the total number of bonusespaid, the percentage of the amount of bonuses awarded to supervisors and management officials, and the average percentage used to calculate the total average bonus amount.
 
 (Added Pub. L. 108–201, §3(a), Feb. 24, 2004, 118 Stat. 475.)
 

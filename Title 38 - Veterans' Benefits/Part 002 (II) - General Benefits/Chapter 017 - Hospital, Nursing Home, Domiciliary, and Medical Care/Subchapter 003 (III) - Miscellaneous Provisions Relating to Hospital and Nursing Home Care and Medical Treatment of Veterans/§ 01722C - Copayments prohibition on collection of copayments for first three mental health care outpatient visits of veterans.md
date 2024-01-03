@@ -18,10 +18,6 @@ Sunset.—This section shall terminate on the date that is five years after the 
 
 (Added Pub. L. 117–328, div. U, title I, §193A(a), Dec. 29, 2022, 136 Stat. 5440.)
 
-#### Applicability of Section
-
-<i>Section applicable with respect to mental health care outpatient visits occurring on or after the date that is 180 days after Dec. 29, 2022. See Effective Date of 2022 Amendment note below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### References in Text

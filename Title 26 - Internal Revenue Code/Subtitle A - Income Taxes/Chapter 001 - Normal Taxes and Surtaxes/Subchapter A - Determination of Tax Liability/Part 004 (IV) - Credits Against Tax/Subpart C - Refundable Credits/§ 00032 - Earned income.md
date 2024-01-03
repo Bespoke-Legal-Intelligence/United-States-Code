@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the credit percentage of so much of the taxpayer's earned income for thetaxable year as does not exceed the earned income amount.
+&emsp;In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the credit percentage of so much of the taxpayer's earned income for the taxable year as does not exceed the earned income amount.
 
 #### (2) Limitation
 
@@ -641,7 +641,7 @@ Subsec. (i)(1). Pub. L. 103–66, §13131(c)(1), added par. (1) and struck out t
 
 Subsec. (i)(2), (3). Pub. L. 103–66, §13131(c), redesignated par. (3) as (2) and struck out former par. (2) which defined terms for purposes of the inflation adjustment in par. (1).
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §11111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a)read as follows: "In the case of an eligible individual, there is allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to 14 percent of so much of the earned income for the taxable year as does not exceed $5,714."
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §11111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "In the case of an eligible individual, there is allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to 14 percent of so much of the earned income for the taxable year as does not exceed $5,714."
 
 Subsec. (b). Pub. L. 101–508, §11111(a), substituted heading for one which read "Limitation" and amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The amount of the credit allowable to a taxpayer under subsection (a) for any taxable year shall not exceed the excess (if any) of—
 
@@ -733,7 +733,7 @@ Subsec. (c)(1). Pub. L. 95–600, §104(e), amended par. (1) generally, substitu
 
 Subsec. (c)(1)(C). Pub. L. 95–615, §202(f)(5), which directed the amendment of subsec. (c)(1)(B) by substituting "(relating to income earned by employees in certain camps)" for "(relating to earned income from sources without the United States)", was executed to subsec. (c)(1)(C) to reflect the probable intent of Congress and the general amendment of subsec. (c)(1) by Pub. L. 95–600 which enacted provisions formerly contained in subsec. (c)(1)(B) in subsec. (c)(1)(C).
 
-Subsec. (c)(2)(B). Pub. L. 95–600, §104(d), redesignated cls. (ii) to (iv) as (i) to (iii), respectively. Former cl. (i),which provided that amounts be taken into account only if includible in the gross income of the taxpayer for the taxable year, was struck out.
+Subsec. (c)(2)(B). Pub. L. 95–600, §104(d), redesignated cls. (ii) to (iv) as (i) to (iii), respectively. Former cl. (i), which provided that amounts be taken into account only if includible in the gross income of the taxpayer for the taxable year, was struck out.
 
 Subsec. (f). Pub. L. 95–600, §104(c), added subsec. (f).
 
@@ -771,7 +771,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–113, div. Q, title I, §103(d), Dec. 18, 2015, 129 Stat. 3045, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2015."
+Pub. L. 114–113, div. Q, title I, §103(d), Dec. 18, 2015, 129 Stat. 3045, provided that: "The amendments made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2015."
 
 Pub. L. 114–113, div. Q, title II, §204(b), Dec. 18, 2015, 129 Stat. 3081, as amended by Pub. L. 115–141, div. U, title I, §101(h), Mar. 23, 2018, 132 Stat. 1162, provided that: "The amendment made by this section \[amending this section\] shall apply to any return of tax, and any amendment or supplement to any return of tax, which is filed after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
@@ -1009,7 +1009,7 @@ In general.—For purposes of this section, the term 'earned income' has the mea
 
 &emsp;"(2)
 
-Application to joint returns.—For purposes of subsection (a), in the case of a joint return, theearned income of the taxpayer for the first taxable year beginning in 2019 shall be the sum of the earned income of each spouse for such taxable year.
+Application to joint returns.—For purposes of subsection (a), in the case of a joint return, the earned income of the taxpayer for the first taxable year beginning in 2019 shall be the sum of the earned income of each spouse for such taxable year.
 
 "(c)
 
@@ -1049,7 +1049,7 @@ Pub. L. 116–260, div. EE, title II, §211, Dec. 27, 2020, 134 Stat. 3066, prov
 
 "(a)
 
-In General.—If the earned income of the taxpayer for the taxpayer's first taxable year beginning in 2020 is less than the earned income of the taxpayer for the preceding taxable year, the credits allowed under sections 24(d) and 32 of the Internal Revenue Code of 1986 may, at the election of the taxpayer, be determined by substituting—
+In General.—If the earned income of the taxpayer for the taxpayer's first taxable year beginning in 2020 is less than the earned income of the taxpayer forthe preceding taxable year, the credits allowed under sections 24(d) and 32 of the Internal Revenue Code of 1986 may, at the election of the taxpayer, be determined by substituting—
 
 &emsp;"(1) such earned income for the preceding taxable year, for
 
@@ -1143,7 +1143,7 @@ Secretary of the Treasury, or Secretary's delegate, to establish taxpayer awaren
 
 #### Employee Notification
 
-Pub. L. 99–514, title I, §111(e), Oct. 22, 1986, 100 Stat. 2108, provided that: "The Secretary of the Treasury isdirected to require, under regulations, employers to notify any employee who has not had any tax withheld from wages (other than an employee whose wages are exempt from withholding pursuant to section 3402(n) of the Internal Revenue Code of 1986) that such employee may be eligible for a refund because of the earned income credit."
+Pub. L. 99–514, title I, §111(e), Oct. 22, 1986, 100 Stat. 2108, provided that: "The Secretary of the Treasury is directed to require, under regulations, employers to notify any employee who has not had any tax withheld from wages (other than an employee whose wages are exempt from withholding pursuant to section 3402(n) of the Internal Revenue Code of 1986) that such employee may be eligible for a refund because of the earned income credit."
 
 #### Disregard of Refund for Determination of Eligibility for Federal Benefits or Assistance
 

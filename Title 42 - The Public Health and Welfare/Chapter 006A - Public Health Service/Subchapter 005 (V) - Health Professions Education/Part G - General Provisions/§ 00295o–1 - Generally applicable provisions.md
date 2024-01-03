@@ -44,7 +44,7 @@ Training programs conducted with amounts received under this subchapter shall me
 
 #### (1) In general
 
-&emsp;Each application for a grant under this subchapter, except any scholarship or loan program, including those under sections <sup>1</sup> 292, 292q, or 292s of this title, shall be submitted to a peer review group for an evaluation of the merits of the proposals made in the application. The Secretary may not approve such an application unless a peer review group has recommended the application for approval.
+&emsp;Each application for a grant under this subchapter, except any scholarship or loan program, including those under sections <sup>1</sup> 292, 292q, or 292s of this title, shall be submitted to a peer review group for an evaluation of the merits of the proposals made in the application. The Secretary may not approve such anapplication unless a peer review group has recommended the application for approval.
 
 #### (2) Composition
 

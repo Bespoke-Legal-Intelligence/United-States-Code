@@ -278,7 +278,7 @@ In general.—In conducting research under this section, the Secretary shall eva
 
 Treatment.—The research described in paragraph (1) shall be in addition to any other research carried out under this section.
 
-(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286,291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325; Pub. L. 109–59, title II, §§2003(a), (b), 2013(e), Aug. 10, 2005, 119 Stat. 1522, 1540; Pub. L. 112–141, div. C, title I, §31103, July 6, 2012, 126 Stat. 739; Pub. L. 113–159, title I, §1101(b), Aug. 8, 2014, 128 Stat. 1843; Pub. L. 114–21, title I, §1101(b), May 29, 2015, 129 Stat. 221; Pub. L. 114–41, title I, §1101(b), July 31, 2015, 129 Stat. 448; Pub. L. 114–73, title I, §1101(b), Oct. 29, 2015, 129 Stat. 571; Pub. L. 114–87, title I, §1101(b), Nov. 20, 2015, 129 Stat. 680; Pub. L. 114–94, div. A, title IV, §§4003, 4014(2), div. B, title XXIV, §24202(b), Dec. 4, 2015, 129 Stat. 1500, 1513, 1712; Pub. L. 116–159, div. B, title I, §1103, Oct. 1, 2020, 134 Stat. 726; Pub. L. 117–58, div. B, title IV, §24103, Nov. 15, 2021, 135 Stat. 792.)
+(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325; Pub. L. 109–59, title II, §§2003(a), (b), 2013(e), Aug. 10, 2005, 119 Stat. 1522, 1540; Pub. L. 112–141, div. C, title I, §31103, July 6, 2012, 126 Stat. 739; Pub. L. 113–159, title I, §1101(b), Aug. 8, 2014, 128 Stat. 1843; Pub. L. 114–21, title I, §1101(b), May 29, 2015, 129 Stat. 221; Pub. L. 114–41, title I, §1101(b), July 31, 2015, 129 Stat. 448; Pub. L. 114–73, title I, §1101(b), Oct. 29, 2015, 129 Stat. 571; Pub. L. 114–87, title I, §1101(b), Nov. 20, 2015, 129 Stat. 680; Pub. L. 114–94, div. A, title IV, §§4003, 4014(2), div. B, title XXIV, §24202(b), Dec. 4, 2015, 129 Stat. 1500, 1513, 1712; Pub. L. 116–159, div. B, title I, §1103, Oct. 1, 2020, 134 Stat. 726; Pub. L. 117–58, div. B, title IV, §24103, Nov. 15, 2021, 135 Stat. 792.)
 
 #### <b>Editorial Notes</b>
 
@@ -408,7 +408,7 @@ Pub. L. 105–178, title IV, §4030, June 9, 1998, 112 Stat. 418, provided that:
 
 "(a)
 
-Study.—Not later than 3 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall offer to enter into an agreement with the Transportation Research Board of the National Academy of Sciences to conduct, subject to the availability of appropriations, a study of the safety issues attendant to the transportation of school children to and fromschool and school-related activities by various transportation modes.
+Study.—Not later than 3 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall offer to enter into an agreement with the Transportation Research Board of the National Academy of Sciences to conduct, subject to the availability of appropriations, a study of the safety issues attendant to the transportation of school children to and from school and school-related activities by various transportation modes.
 
 "(b)
 

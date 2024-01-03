@@ -34,7 +34,7 @@ Subsec. (i)(1). Pub. L. 104–201 substituted "February 10, 1996" for "the date 
 
 Pub. L. 106–398, §1 \[div. B, title XXVIII, §2803(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, provided that:
 
-"(1) The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2001, butthe Secretary of Defense shall anticipate the requirements of section 2826 of title 10, United States Code, as added by such subsection, when preparing the budget request for new construction, acquisition, or improvement of military family housing for fiscal year 2002.
+"(1) The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2001, but the Secretary of Defense shall anticipate the requirements of section 2826 of title 10, United States Code, as added by such subsection, when preparing the budget request for new construction, acquisition, or improvement of military family housing for fiscal year 2002.
 
 "(2) Section 2826 of title 10, United States Code, as in effect on September 30, 2001, shall continue to apply with respect to the construction, acquisition, or improvement of military family housing commenced on or before that date."
 

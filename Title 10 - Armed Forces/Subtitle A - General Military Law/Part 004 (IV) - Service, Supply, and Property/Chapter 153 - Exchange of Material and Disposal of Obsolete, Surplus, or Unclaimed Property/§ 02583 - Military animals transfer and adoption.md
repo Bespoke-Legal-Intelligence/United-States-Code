@@ -52,7 +52,7 @@ Veterinary Screening and Care for Military Working Dogs To Be Retired.—(1)(A) 
 
 Transportation of Retiring Military Working Dogs.—Upon completion of veterinary screening and care for a military working dog to be retired pursuant to subsection (f), the Secretary of the military department concerned shall—
 
-&emsp;(1) if the dog was at a location outside the United States immediately prior to transportation for such screening and care and a United States citizen or member of the armedforces living abroad agrees to adopt the dog, transport the dog to such location for adoption; or
+&emsp;(1) if the dog was at a location outside the United States immediately prior to transportation for such screening and care and a United States citizen or member of the armed forces living abroad agrees to adopt the dog, transport the dog to such location for adoption; or
 
 &emsp;(2) for any other dog, transport the dog—
 

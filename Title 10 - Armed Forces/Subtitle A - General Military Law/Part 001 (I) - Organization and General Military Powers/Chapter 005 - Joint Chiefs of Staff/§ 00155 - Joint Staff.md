@@ -66,7 +66,7 @@ Personnel Limitations.—(1) The total number of members of the armed forces and
 
 (4) Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1009; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(2), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title IX, §902, Nov. 5, 1990, 104 Stat. 1620; Pub. L. 102–484, div. A, title IX, §911(b)(2), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 103–35, title II, §202(a)(8), May 31, 1993, 107 Stat. 101; Pub. L. 113–291, div. A, title X, §1071(c)(1), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title IX, §903(b)(1), Dec. 23, 2016, 130 Stat. 2344; Pub. L. 116–92, div. A, title IX, §901(a)(2)(A), Dec.20, 2019, 133 Stat. 1541; Pub. L. 116–283, div. A, title IX, §924(b)(7)(B), Jan. 1, 2021, 134 Stat. 3822.)
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1009; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(2), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title IX, §902, Nov. 5, 1990, 104 Stat. 1620; Pub. L. 102–484, div. A, title IX, §911(b)(2), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 103–35, title II, §202(a)(8), May 31, 1993, 107 Stat. 101; Pub. L. 113–291, div. A, title X, §1071(c)(1), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title IX, §903(b)(1), Dec. 23, 2016, 130 Stat. 2344; Pub. L. 116–92, div. A, title IX, §901(a)(2)(A), Dec. 20, 2019, 133 Stat. 1541; Pub. L. 116–283, div. A, title IX, §924(b)(7)(B), Jan. 1, 2021, 134 Stat. 3822.)
 
 #### <b>Editorial Notes</b>
 
@@ -162,7 +162,7 @@ In General.—Amounts available to the Chairman of the Joint Chiefs of Staff for
 
 "(b)
 
-Supplement Not Supplant.—Any amounts made available by the Chairman of the Joint Chiefs of Staffunder subsection (a) for expenses covered by that subsection are in addition to any other amounts available under law for such expenses."
+Supplement Not Supplant.—Any amounts made available by the Chairman of the Joint Chiefs of Staff under subsection (a) for expenses covered by that subsection are in addition to any other amounts available under law for such expenses."
 
 #### Assistants to Chairman of the Joint Chiefs of Staff for National Guard Matters and for Reserve Matters
 

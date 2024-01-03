@@ -280,7 +280,7 @@ Not later than December 31, 2012, the Secretary shall issue proposed regulations
 
 &emsp;&emsp;(A) individually identifiable health information so collected shall not be disclosed when presenting any information from such project; and
 
-&emsp;&emsp;(B) any such disclosure shall be made in compliance with regulations issued pursuantto section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note) and sections 552 and 552a of title 5.
+&emsp;&emsp;(B) any such disclosure shall be made in compliance with regulations issued pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note) and sections 552 and 552a of title 5.
 
 #### (7) Limitations
 
@@ -288,7 +288,7 @@ Not later than December 31, 2012, the Secretary shall issue proposed regulations
 
 #### (8) Other projects required to comply
 
-&emsp;Paragraphs (1)(B), (4)(A)(i), (4)(A)(ii), (5), (6), and (7) shall apply with respect to any pilot project undertaken in coordination with the comprehensive system described in paragraph (1)(C) that relates to the use of real world evidence for devices in the same manner and to the same extent as such paragraphs apply with respect to pilot projects conducted under this subsection.
+&emsp;Paragraphs (1)(B), (4)(A)(i), (4)(A)(ii), (5), (6), and (7) shall apply with respect to any pilot project undertaken in coordination with the comprehensive system described in paragraph (1)(C) that relates to the use of real world evidence for devices in the same manner and to the same extent as such paragraphs apply withrespect to pilot projects conducted under this subsection.
 
 #### (9) Report to Congress
 
@@ -450,7 +450,7 @@ Pub. L. 101–629, §3(c), Nov. 28, 1990, 104 Stat. 4514, as amended by Pub. L. 
 
 &emsp;"(iv) include such other requirements as the Secretary deems necessary for the adoption of an effective user tracking program under section 519(e) of such Act.
 
-"(2) Not later than 18 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement sections \[sic\] 519(a)(6) of the Federal Food, Drug, and Cosmetic Act. If the Secretary does not promulgate such final regulations upon the expiration of such 18 months, the Congress finds that there is good cause for the proposed regulations to be considered as the final regulations without response to comment because the implementation of sections \[sic\] 519(a)(6) of such Act is essential to protect the health of patients who use such devices. Consequently, in such event, the proposed regulations issued under paragraph (1) shall become final regulations as of the expirationof such 18 months. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations.
+"(2) Not later than 18 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement sections \[sic\] 519(a)(6) of the Federal Food, Drug, and Cosmetic Act. If the Secretary does not promulgate such final regulations upon the expiration of such 18 months, the Congress finds that there is good cause for the proposed regulations to be considered as the final regulations without response to comment because the implementation of sections \[sic\] 519(a)(6) of such Act is essential to protect the health of patients who use such devices. Consequently, in such event, the proposed regulations issued under paragraph (1) shall become final regulations as of the expiration of such 18 months. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations.
 
 "(3) Not later than November 28, 1992, the Secretary shall issue final regulations to implement section 519(e) of the Federal Food, Drug, and Cosmetic Act. If the Secretary does not promulgate such final regulations by November 28, 1992, the Congress finds that there is good cause for the proposed regulations to be considered as the final regulations without response to comment because the implementation of section 519(e) of such Act is essential to protect the health of patients who use devices. In such event, the proposed regulations issued under paragraph (1) shall become the issued final regulations on November 29, 1992. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations."
 

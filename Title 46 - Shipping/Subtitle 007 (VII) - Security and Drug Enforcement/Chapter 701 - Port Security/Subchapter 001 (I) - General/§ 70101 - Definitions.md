@@ -96,7 +96,7 @@ Training.—The Secretary, acting through the Commandant and in consultation wit
 
 "(d)
 
-Coordination.—The Secretary, acting through the Commandant, shall coordinate the Program withother similar border security and antiterrorism programs within the Department of Homeland Security.
+Coordination.—The Secretary, acting through the Commandant, shall coordinate the Program with other similar border security and antiterrorism programs within the Department of Homeland Security.
 
 "(e)
 
@@ -362,13 +362,13 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 #### Report on Training Center
 
-Pub. L. 107–295, title I, §110(b), Nov. 25, 2002, 116 Stat. 2091, provided that: "The Commandant of the United States Coast Guard, in conjunction with the Secretary of the Navy, shall submit to Congress a report, at the time they submit their fiscal year 2005 budget, on thelife cycle costs and benefits of creating a Center for Coastal and Maritime Security. The purpose of the Center would be to provide an integrated training complex to prevent and mitigate terrorist threats against coastal and maritime assets of the United States, including ports, harbors, ships, dams, reservoirs, and transport nodes."
+Pub. L. 107–295, title I, §110(b), Nov. 25, 2002, 116 Stat. 2091, provided that: "The Commandant of the United States Coast Guard, in conjunction with the Secretary of the Navy, shall submit to Congress a report, at the time they submit their fiscal year 2005 budget, on the life cycle costs and benefits of creating a Center for Coastal and Maritime Security. The purpose of the Center would be to provide an integrated training complex to prevent and mitigate terrorist threats against coastal and maritime assets of the United States, including ports, harbors, ships, dams, reservoirs, and transport nodes."
 
 #### Performance Standards
 
 Pub. L. 107–295, title I, §111, Nov. 25, 2002, 116 Stat. 2092, provided that: "Not later than January 1, 2004, the Secretary of the department in which the Coast Guard is operating, in consultation with the Transportation Security Oversight Board, shall—
 
-&emsp;"(1) develop and maintain an antiterrorism cargo identification, tracking, and screening system for containerized cargo shipped to and from the United States either directly or via a foreign port; and
+&emsp;"(1) develop and maintain an antiterrorism cargo identification, tracking, and screening system forcontainerized cargo shipped to and from the United States either directly or via a foreign port; and
 
 &emsp;"(2) develop performance standards to enhance the physical security of shipping containers, including standards for seals and locks."
 

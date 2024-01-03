@@ -20,7 +20,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;&emsp;(i) in the case of a plan which comes into existence on or after January 1, 2008, the unfunded past service liability under the plan on the first day of the first plan year to which this section applies, over a period of 15 plan years,
 
-&emsp;&emsp;&emsp;(ii) separately, with respect to each plan year, the net increase (if any) in unfunded past service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
+&emsp;&emsp;&emsp;(ii) separately, with respect to each plan year, the net increase (if any) in unfundedpast service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
 
 &emsp;&emsp;&emsp;(iii) separately, with respect to each plan year, the net experience loss (if any) under the plan, over a period of 15 plan years, and
 
@@ -80,7 +80,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;&emsp;(i) shall be eliminated by an offsetting credit or charge (as the case may be), but
 
-&emsp;&emsp;&emsp;(ii) shall be taken into account in subsequent plan years by being amortized in equal annual installments (until fully amortized) over 30 plan years.
+&emsp;&emsp;&emsp;(ii) shall be taken into account in subsequent plan years by being amortized inequal annual installments (until fully amortized) over 30 plan years.
 
 > &emsp;&emsp;The preceding sentence shall not apply to the extent of any accumulated funding deficiency under section 1423(a) <sup>1</sup> of this title as of the end of the last plan year that the plan was in reorganization.
 
@@ -234,7 +234,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (5) Full funding
 
-&emsp;If, as of the close of a plan year, a plan would (without regard to this paragraph) havean accumulated funding deficiency in excess of the full funding limitation—
+&emsp;If, as of the close of a plan year, a plan would (without regard to this paragraph) have an accumulated funding deficiency in excess of the full funding limitation—
 
 &emsp;&emsp;(A) the funding standard account shall be credited with the amount of such excess, and
 
@@ -318,7 +318,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (vi) Periodic review
 
-&emsp;&emsp;&emsp;The Secretary of the Treasury shall periodically (at least every 5 years) review any tables in effect under this subparagraph and shall, to the extent such Secretary determines necessary, by regulation update the tables to reflect the actual experienceof pension plans and projected trends in such experience.
+&emsp;&emsp;&emsp;The Secretary of the Treasury shall periodically (at least every 5 years) review any tables in effect under this subparagraph and shall, to the extent such Secretary determines necessary, by regulation update the tables to reflect the actual experience of pension plans and projected trends in such experience.
 
 #### (E) Required change of interest rate
 
@@ -472,7 +472,7 @@ Amendment by Pub. L. 117–2 effective as of the first day of the first plan yea
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–295 applicable to applications submitted under subsec. (d)(1)(C) of this sectionafter Dec. 31, 2014, see section 171(c) of Pub. L. 113–295, set out as a note under section 431 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 113–295 applicable to applications submitted under subsec. (d)(1)(C) of this section after Dec. 31, 2014, see section 171(c) of Pub. L. 113–295, set out as a note under section 431 of Title 26, Internal Revenue Code.
 
 Amendment by section 108(a)(3)(B) of Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31, 2014, see section 108(c) of Pub. L. 113–235, set out as an Effective Date of Repeal note under section 418 of Title 26, Internal Revenue Code.
 

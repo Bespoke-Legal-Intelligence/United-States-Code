@@ -26,7 +26,7 @@ Pub. L. 109–347, title VIII, §803, Oct. 13, 2006, 120 Stat. 1962, provided th
 
 "(a)
 
-In General.—In deliberations between the United States Government and any foreign country onmoney laundering, corruption, and crime issues, the United States Government should—
+In General.—In deliberations between the United States Government and any foreign country on money laundering, corruption, and crime issues, the United States Government should—
 
 &emsp;"(1) encourage cooperation by foreign governments and relevant international fora in identifying whether Internet gambling operations are being used for money laundering, corruption, or other crimes;
 

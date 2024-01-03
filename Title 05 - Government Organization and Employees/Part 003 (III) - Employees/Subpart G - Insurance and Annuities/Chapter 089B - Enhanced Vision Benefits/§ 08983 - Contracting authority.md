@@ -42,7 +42,7 @@
 
 #### References in Text
 
-The Contract Disputes Act of 1978, referred to in subsec. (d)(3), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, which was classified principally to chapter 9 (§601 et seq.) of former Title 41, Public Contracts, and was substantially repealed and restated as chapter 71 (§7101 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Sections 8(c) and 10(a)(1) of the Act, which were classified to sections 607(c) and 609(a)(1), respectively, of former Title 41, were repealed and restated as section 7105(d), (e)(1)(C) and section 7104(b)(1), respectively, of Title 41. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+The Contract Disputes Act of 1978, referred to in subsec. (d)(3), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, which was classified principally to chapter 9 (§601 et seq.) of former Title 41, Public Contracts, and was substantially repealed and restated as chapter 71 (§7101 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Sections 8(c) and 10(a)(1) of the Act, which were classified to sections607(c) and 609(a)(1), respectively, of former Title 41, were repealed and restated as section 7105(d), (e)(1)(C) and section 7104(b)(1), respectively, of Title 41. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 #### Amendments
 

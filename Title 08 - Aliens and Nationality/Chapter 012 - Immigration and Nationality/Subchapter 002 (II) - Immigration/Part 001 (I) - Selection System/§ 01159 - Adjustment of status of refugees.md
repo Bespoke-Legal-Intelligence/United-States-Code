@@ -34,7 +34,7 @@ The Secretary of Homeland Security or the Attorney General, in the Secretary's o
 
 The provisions of paragraphs (4), (5), and (7)(A) of section 1182(a) of this title shall not be applicable to any alien seeking adjustment of status under this section, and the Secretary of Homeland Security or the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §209, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title I, §104(a)(1), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(l)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title III, §§308(g)(3)(A), (4)(A), 371(b)(2), Sept. 30, 1996, 110 Stat. 3009–622, 3009–645; Pub. L. 109–13, div. B, title I, §101(g)(1), May 11, 2005, 119 Stat. 305.)
+(June 27, 1952, ch. 477, title II, ch. 1, §209, as added Pub. L. 96–212, title II, §201(b), Mar. 17,1980, 94 Stat. 105; amended Pub. L. 101–649, title I, §104(a)(1), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(l)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title III, §§308(g)(3)(A), (4)(A), 371(b)(2), Sept. 30, 1996, 110 Stat. 3009–622, 3009–645; Pub. L. 109–13, div. B, title I, §101(g)(1), May 11, 2005, 119 Stat. 305.)
 
 #### <b>Editorial Notes</b>
 
@@ -62,7 +62,7 @@ Subsec. (a)(2). Pub. L. 104–208, §371(b)(2), substituted "an immigration judg
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–649, §104(a)(1), substituted "10,000" for "five thousand".
 
-Subsec. (c). Pub. L. 101–649, §603(a)(4), substituted "(4), (5), and (7)(A)" for "(14), (15), (20), (21), (25), and (32)" and "(other than paragraph (2)(C) or subparagraphs (A), (B), (C), or (E) of paragraph (3))" for "(other than paragraph (27), (29), or (33) and other than so muchof paragraph (23) as relates to trafficking in narcotics)".
+Subsec. (c). Pub. L. 101–649, §603(a)(4), substituted "(4), (5), and (7)(A)" for "(14), (15), (20), (21), (25), and (32)" and "(other than paragraph (2)(C) or subparagraphs (A), (B), (C), or (E) of paragraph (3))" for "(other than paragraph (27), (29), or (33) and other than so much of paragraph (23) as relates to trafficking in narcotics)".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

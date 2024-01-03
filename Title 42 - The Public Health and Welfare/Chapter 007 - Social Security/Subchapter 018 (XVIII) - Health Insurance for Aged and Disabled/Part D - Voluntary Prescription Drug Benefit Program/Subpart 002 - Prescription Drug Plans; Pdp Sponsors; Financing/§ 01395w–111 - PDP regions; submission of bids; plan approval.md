@@ -18,7 +18,7 @@
 
 #### (C) Authority for territories
 
-&emsp;&emsp;The Secretary shall establish, and may revise, PDP regions for areas in States thatare not within the 50 States or the District of Columbia.
+&emsp;&emsp;The Secretary shall establish, and may revise, PDP regions for areas in States that are not within the 50 States or the District of Columbia.
 
 #### (3) National plan
 
@@ -206,7 +206,7 @@
 
 #### (A) Limited risk plan
 
-&emsp;&emsp;The term "limited risk plan" means a prescription drug plan that provides basic prescription drug coverage and for which the PDP sponsor includes a modification of risk level described in subparagraph (E) of subsection (b)(2) in its bid submitted for the plan under such subsection. Such term does not include a fallback prescription drug plan.
+&emsp;&emsp;The term "limited risk plan" means a prescription drug plan that provides basic prescription drug coverage and for which thePDP sponsor includes a modification of risk level described in subparagraph (E) of subsection (b)(2) in its bid submitted for the plan under such subsection. Such term does not include a fallback prescription drug plan.
 
 #### (B) Full risk plan
 
@@ -280,7 +280,7 @@
 
 #### (i) Costs
 
-&emsp;&emsp;&emsp;The entity contains costs to the Medicare Prescription Drug Account and to part D eligible individuals enrolled in a fallback prescription drug plan offered by the entity through mechanisms such as generic substitution and price discounts.
+&emsp;&emsp;&emsp;The entity contains costs to the Medicare Prescription Drug Account and to part D eligible individuals enrolled in a fallback prescription drug plan offered bythe entity through mechanisms such as generic substitution and price discounts.
 
 #### (ii) Quality programs
 
@@ -342,7 +342,7 @@ A PDP sponsor offering a prescription drug plan shall permit State Pharmaceutica
 
 #### References in Text
 
-Section 1395w–115(e)(2)(B)(iii) of this title, referred to in subsec. (b)(2)(E)(ii)(I), was in the original "section 1869D–15(e)(2)(B)(iii)", and was translated as reading "section 1860D–15(e)(2)(B)(iii)", meaning 1860D–15(e)(2)(B)(iii) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1869D–15and section 1395w–115(e)(2)(B)(iii) of this title provides for an application of a higher percentage for years 2006 and 2007.
+Section 1395w–115(e)(2)(B)(iii) of this title, referred to in subsec. (b)(2)(E)(ii)(I), was in the original "section 1869D–15(e)(2)(B)(iii)", and was translated as reading "section 1860D–15(e)(2)(B)(iii)", meaning 1860D–15(e)(2)(B)(iii) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1869D–15 and section 1395w–115(e)(2)(B)(iii) of this title provides for an application of a higher percentage for years 2006 and 2007.
 
 #### Codification
 

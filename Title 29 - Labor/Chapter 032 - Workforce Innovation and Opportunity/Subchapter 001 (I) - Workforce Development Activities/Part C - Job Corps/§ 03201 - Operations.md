@@ -2,7 +2,7 @@
 
 #### (a) Operating plan
 
-The provisions of the contract between the Secretary and an entity selected to operate a Job Corps center shall, at a minimum, serve as an operating plan for the Job Corps center.
+The provisions of the contract between the Secretary and an entity selected to operate aJob Corps center shall, at a minimum, serve as an operating plan for the Job Corps center.
 
 #### (b) Additional information
 

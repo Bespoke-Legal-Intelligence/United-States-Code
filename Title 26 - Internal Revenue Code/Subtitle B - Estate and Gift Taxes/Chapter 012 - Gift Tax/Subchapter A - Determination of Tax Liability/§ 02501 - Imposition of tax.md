@@ -14,7 +14,7 @@
 
 #### (A) Certain individuals
 
-&emsp;&emsp;Paragraph (2) shall not apply in the case of a donor to whom section 877(b) applies for the taxable year which includes the date of the transfer.
+&emsp;&emsp;Paragraph (2) shall not apply in the case of a donor to whom section 877(b) applies forthe taxable year which includes the date of the transfer.
 
 #### (B) Credit for foreign gift taxes
 
@@ -122,7 +122,7 @@ Subsec. (c). Pub. L. 85–866, §102(b), redesignated former subsec. (b) as (c) 
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–113, div. Q, title IV, §408(b), Dec. 18, 2015, 129 Stat. 3121, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to gifts made after the date of the enactment of this Act \[Dec. 18, 2015\]."
+Pub. L. 114–113, div. Q, title IV, §408(b), Dec. 18, 2015, 129 Stat. 3121, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to gifts made after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
 #### Effective Date of 2004 Amendment
 

@@ -138,5 +138,5 @@ Reclamation state.—The term 'Reclamation State' means a State or territory des
 
 Secretary.—The term 'Secretary' means the Secretary of the Interior."
 
-\[The first paragraph of 43 U.S.C. 391 is comprised of act June 17, 1902, ch. 1093, §1 (part), 32 Stat. 388. The second paragraph of 43 U.S.C. 391 is comprised of act June 12, 1906, ch. 3288, 34 Stat. 259, as amended. See Codification note under section 391 of Title 43, Public Lands.\]
+\[The first paragraph of 43 U.S.C. 391 is comprised of act June 17, 1902, ch. 1093, §1 (part), 32 Stat. 388. The second paragraph of 43 U.S.C. 391 is comprised of act June 12, 1906, ch. 3288, 34 Stat. 259, as amended. SeeCodification note under section 391 of Title 43, Public Lands.\]
 

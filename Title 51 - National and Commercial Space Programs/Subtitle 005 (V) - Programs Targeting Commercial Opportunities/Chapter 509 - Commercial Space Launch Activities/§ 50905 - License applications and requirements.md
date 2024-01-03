@@ -28,13 +28,13 @@ Requirements.—(1) Except as provided in this subsection, all requirements of t
 
 &emsp;(A) the crew has received training and has satisfied medical or other standards specified in the license or permit in accordance with regulations promulgated by the Secretary;
 
-&emsp;(B) the holder of the license or permit has informed any individual serving as crew in writing, prior to executing any contract or other arrangement to employ that individual (or, in the case of an individual already employed as of the date of enactment of the Commercial Space Launch Amendments Act of 2004, as early as possible, but in any event prior to any launch in which the individual will participate as crew), that the United States Government has not certified the launch vehicle as safe for carrying crew or space flight participants; and
+&emsp;(B) the holder of the license or permit has informed any individual serving as crew in writing, prior to executing any contract or other arrangement to employ that individual (or, in the case of an individual already employed as of the date of enactment of the Commercial Space Launch Amendments Act of 2004, as early as possible, but in any eventprior to any launch in which the individual will participate as crew), that the United States Government has not certified the launch vehicle as safe for carrying crew or space flight participants; and
 
 &emsp;(C) the holder of the license or permit and crew have complied with all requirements of the laws of the United States that apply to crew.
 
 (5) The holder of a license or a permit under this chapter may launch or reenter a space flight participant only if—
 
-&emsp;(A) in accordance with regulations promulgated by the Secretary, the holder of the license or permit has informed the space flight participant in writing about the risks of the launch and reentry, including the safety record of the launch or reentry vehicle type, and the Secretary has informed the space flight participant in writing of any relevantinformation related to risk or probable loss during each phase of flight gathered by the Secretary in making the determination required by section 50914(a)(2) and (c);
+&emsp;(A) in accordance with regulations promulgated by the Secretary, the holder of the license or permit has informed the space flight participant in writing about the risks of the launch and reentry, including the safety record of the launch or reentry vehicle type, and the Secretary has informed the space flight participant in writing of any relevant information related to risk or probable loss during each phase of flight gathered by the Secretary in making the determination required by section 50914(a)(2) and (c);
 
 &emsp;(B) the holder of the license or permit has informed any space flight participant in writing, prior to receiving any compensation from that space flight participant or (in the case of a space flight participant not providing compensation) otherwise concluding any agreement to fly that space flight participant, that the United States Government has not certified the launch vehicle as safe for carrying crew or space flight participants;
 
@@ -122,7 +122,7 @@ Independent review.—Not later than December 31, 2022, an independent systems e
 
 &emsp;(9)
 
-Learning period.—Beginning on October 1, 2023, the Secretary may propose regulations under this subsection without regard to subparagraphs (C) and (D) of paragraph (2). The development of any such regulations shall take into consideration the evolving standards of the commercial space flight industry as identified in the reports published under paragraphs (5), (6), and (7).
+Learning period.—Beginning on March 9, 2024, the Secretary may propose regulations under this subsection without regard to subparagraphs (C) and (D) of paragraph (2). The development of any such regulations shall take into consideration the evolving standards of the commercial space flight industry as identified in the reports published under paragraphs (5), (6), and (7).
 
 &emsp;(10)
 
@@ -132,7 +132,7 @@ Rule of construction.—Nothing in this subsection shall be construed to limit t
 
 Procedures and Timetables.—The Secretary shall establish procedures and timetables that expedite review of a license or permit application and reduce the regulatory burden for an applicant.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1333, §70105 of title 49; Pub. L. 105–303, title I, §102(a)(6), Oct. 28, 1998, 112 Stat. 2848; Pub. L. 108–492, §2(c)(6)–(15), Dec. 23, 2004, 118 Stat. 3976–3979; renumbered §70105 then §50905 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(E), (5)(F), Dec. 18, 2010, 124 Stat. 3440, 3441; Pub. L. 112–95, title VIII, §827, Feb. 14, 2012, 126 Stat. 133; Pub. L. 114–55, title I, §102(e), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–90, title I, §§111, 112(l), Nov. 25, 2015, 129 Stat. 709, 713.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1333, §70105 of title 49; Pub. L. 105–303, title I, §102(a)(6), Oct. 28, 1998, 112 Stat. 2848; Pub. L. 108–492, §2(c)(6)–(15), Dec. 23, 2004, 118 Stat. 3976–3979; renumbered §70105 then §50905 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(E), (5)(F), Dec. 18, 2010, 124 Stat. 3440, 3441; Pub. L. 112–95, title VIII, §827, Feb. 14, 2012, 126 Stat. 133; Pub. L. 114–55, title I, §102(e), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–90, title I, §§111, 112(l), Nov. 25, 2015, 129 Stat. 709, 713; Pub. L. 118–15, div. B, title II, §2202(k), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(k), Dec. 26, 2023, 137 Stat. 1114.)
 
 Historical and Revision Notes
 
@@ -193,6 +193,10 @@ The date of enactment of the Commercial Space Launch Amendments Act of 2004, ref
 The date of enactment of the SPACE Act of 2015, referred to in subsec. (c)(6), is the date of enactment of title I of Pub. L. 114–90, which was approved Nov. 25, 2015.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c)(9). Pub. L. 118–34 substituted "March 9, 2024" for "January 1, 2024".
+
+Pub. L. 118–15 substituted "January 1, 2024" for "October 1, 2023".
 
 <b>2015</b>—Subsec. (a)(2). Pub. L. 114–90, §112(l)(1), substituted "crew, government astronauts, and space flight participants" for "crews and space flight participants".
 

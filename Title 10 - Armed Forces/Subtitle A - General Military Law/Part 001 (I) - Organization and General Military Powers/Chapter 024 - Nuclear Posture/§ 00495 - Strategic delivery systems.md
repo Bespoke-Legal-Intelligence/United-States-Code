@@ -16,7 +16,7 @@ Annual Certification.—The President shall annually certify in writing to the c
 
 (b)
 
-Additional Report Matters Following Certain Certifications.—If in any year before fiscal year 2020 the President certifies under subsection (a) that plans to modernize or replace strategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 the following:
+Additional Report Matters Following Certain Certifications.—If in any year prior to the expiration of the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011 (commonly referred to as the "New START Treaty"), the President certifies under subsection (a) that plans to modernize or replace strategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 492(a) <sup>1</sup> of this title the following:
 
 &emsp;(1) A determination of whether or not the lack of full funding will result in a loss of military capability when compared with the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010.
 
@@ -58,7 +58,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "strategic delivery system" means a delivery system for nuclear weapons.
 
-(Added Pub. L. 112–239, div. A, title X, §1035(a), Jan. 2, 2013, 126 Stat. 1923; amended Pub. L. 112–240, title VIII, §801(a), Jan. 2, 2013, 126 Stat. 2369; Pub. L. 115–232, div. A, title X, §1081(a)(6), Aug. 13, 2018, 132 Stat. 1983.)
+(Added Pub. L. 112–239, div. A, title X, §1035(a), Jan. 2, 2013, 126 Stat. 1923; amended Pub. L. 112–240, title VIII, §801(a), Jan. 2, 2013, 126 Stat. 2369; Pub. L. 115–232, div. A, title X, §1081(a)(6), Aug. 13, 2018, 132 Stat. 1983; Pub. L. 118–31, div. A, title XVI, §1632, Dec. 22, 2023, 137 Stat. 592.)
 
 #### <b>Editorial Notes</b>
 
@@ -66,9 +66,13 @@ Definitions.—In this section:
 
 Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsecs. (a) and (b)(1), is section 1251 of Pub. L. 111–84, which is set out as a note under section 2523 of Title 50, War and National Defense.
 
-Section 1043 of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsecs. (a)(5) and (b), is section 1043 of title X of div. A of Pub. L. 112–81, Dec. 31, 2011, 125 Stat. 1576, which is not classified to the Code.
+Section 1043 of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsec. (a)(5), is section 1043 of Pub. L. 112–81, Dec. 31, 2011, 125 Stat. 1576, which is not classified to the Code.
+
+Section 492(a) of this title, referred to in subsec. (b), relates to biennial assessments by certain military officials of delivery platforms for nuclear weapons and the nuclear command and control system. Section 492a(a) of this title requires the President to transmit annual reports to Congress on certain nuclear matters.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b). Pub. L. 118–31, in introductory provisions, substituted "prior to the expiration of the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011 (commonly referred to as the 'New START Treaty')," for "before fiscal year 2020" and "492(a) of this title" for "1043 of the National Defense Authorization Act for Fiscal Year 2012".
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–232 substituted "The" for "Beginning in fiscal year 2013, the" in introductory provisions.
 
@@ -78,17 +82,63 @@ Section 1043 of the National Defense Authorization Act for Fiscal Year 2012, ref
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–240, title VIII, §801(b), Jan. 2, 2013, 126 Stat. 2369, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the National Defense Authorization Act for Fiscal Year 2013 \[Pub. L. 112–239\]."
+Pub. L. 112–240, title VIII, §801(b), Jan. 2, 2013, 126 Stat. 2369, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effectas if included in the enactment of the National Defense Authorization Act for Fiscal Year 2013 \[Pub. L. 112–239\]."
+
+#### Congressional Notification of Decision To Delay Strategic Delivery System Test Event
+
+Pub. L. 118–31, div. A, title XVI, §1648, Dec. 22, 2023, 137 Stat. 600, provided that:
+
+"(a)
+
+Notification.—Not later than five days after the Secretary of Defense makes a decision to delay a scheduled test event for a strategic delivery system, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] written notice of such decision.
+
+"(b)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (3), not later than 60 days after the submission of a notification required under subsection (a) with respect to a decision to delay a scheduled test event, the Secretary shall submit to the congressional defense committees a report on the decision.
+
+&emsp;"(2)
+
+Elements required.—A report submitted under paragraph (1) shall include each of the following with respect to the scheduled test event covered by the report:
+
+&emsp;&emsp;"(A) A description of the objectives of the test.
+
+&emsp;&emsp;"(B) An explanation for the decision to cancel the test.
+
+&emsp;&emsp;"(C) An estimate of expenditures related to the cancelled test.
+
+&emsp;&emsp;"(D) An assessment of the effect of the test cancellation on—
+
+&emsp;&emsp;&emsp;"(i) confidence in the reliability of the strategic nuclear weapons delivery system involved; and
+
+&emsp;&emsp;&emsp;"(ii) any research, development, test, and evaluation activities related to the test.
+
+&emsp;&emsp;"(E) A plan to reschedule the test event.
+
+&emsp;"(3)
+
+Exception.—A report shall not be required under paragraph (1) in the case of a decision to delay a scheduled test event due to any of the following circumstances:
+
+&emsp;&emsp;"(A) Unfavorable weather conditions.
+
+&emsp;&emsp;"(B) Safety concerns.
+
+&emsp;&emsp;"(C) Technical issues related to the delivery system or test facility.
+
+&emsp;&emsp;"(D) Operational or security concerns at the test facility or on the test range."
 
 #### Retention of Capability To Redeploy Multiple Independently Targetable Reentry Vehicles
 
-Pub. L. 113–66, div. A, title X, §1057, Dec. 26, 2013, 127 Stat. 864, provided that:
+Pub. L. 113–66, div. A, title X, §1057, Dec. 26, 2013, 127 Stat. 864, as amended by Pub. L. 118–31, div. A, title XVI, §1638, Dec. 22, 2023, 137 Stat. 594, provided that:
 
 "(a)
 
 Deployment Capability.—The Secretary of the Air Force shall ensure that the Air Force is capable of—
 
-&emsp;"(1) deploying multiple independently targetable reentry vehicles to Minuteman III intercontinental ballistic missiles; and
+&emsp;"(1) deploying multiple independently targetable reentry vehicles to Minuteman III and Sentinel intercontinental ballistic missiles; and
 
 &emsp;"(2) commencing such deployment not later than 180 days after the date on which the President determines such deployment necessary.
 
@@ -96,7 +146,7 @@ Deployment Capability.—The Secretary of the Air Force shall ensure that the Ai
 
 Warhead Capability.—The Nuclear Weapons Council established by section 179 of title 10, United States Code, shall ensure that—
 
-&emsp;"(1) the nuclear weapons stockpile contains a sufficient number of nuclear warheads that are capable of being deployed as multiple independently targetable reentry vehicles with respect to Minuteman III intercontinental ballistic missiles; and
+&emsp;"(1) the nuclear weapons stockpile contains a sufficient number of nuclear warheads that are capable of being deployed as multiple independently targetable reentry vehicles with respect to Minuteman III and Sentinel intercontinental ballistic missiles; and
 
 &emsp;"(2) such deployment is capable of being commenced not later than 180 days after the date on which the President determines such deployment necessary."
 
@@ -129,4 +179,6 @@ Any reference in this memorandum to section 1035 of the National Defense Authori
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

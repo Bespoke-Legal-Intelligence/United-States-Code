@@ -2,7 +2,7 @@
 
 #### (a) Payments
 
-Subject to subsection (f), the Secretary of Defense shall make a payment for fiscal years after fiscal year 2001, to each local educational agency eligible to receive a payment for a child described in subparagraph (A)(ii) or (B), or clause (i) or (ii) of subparagraph (D), of section 7703(a)(1) <sup>1</sup> of this title that serves two or more such children with severe disabilities, for costsincurred in providing a free appropriate public education to each such child.
+Subject to subsection (f), the Secretary of Defense shall make a payment for fiscal years after fiscal year 2001, to each local educational agency eligible to receive a payment for a child described in subparagraph (A)(ii) or (B), or clause (i) or (ii) of subparagraph (D), of section 7703(a)(1) <sup>1</sup> of this title that serves two or more such children with severe disabilities, for costs incurred in providing a free appropriate public education to each such child.
 
 #### (b) Payment amount
 
@@ -40,7 +40,7 @@ Each local educational agency desiring a payment under subsection (a) shall repo
 
 #### (f) Payments subject to appropriation
 
-Payments shall be made for any period in a fiscal year under this section only to the extent that funds are appropriated specifically for making such payments for that fiscal year.
+Payments shall be made for any period in a fiscal year under this section only to the extentthat funds are appropriated specifically for making such payments for that fiscal year.
 
 #### (g) Local educational agency defined
 

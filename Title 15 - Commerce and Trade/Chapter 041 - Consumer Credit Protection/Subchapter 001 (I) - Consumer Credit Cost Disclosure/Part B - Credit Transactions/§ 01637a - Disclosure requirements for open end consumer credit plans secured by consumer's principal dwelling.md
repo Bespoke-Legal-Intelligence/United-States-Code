@@ -12,7 +12,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;In the case of a plan which provides for variable rates of interest on credit extended under the plan—
 
-&emsp;&emsp;(A) a description of the manner in which such rate will be computed and a statementthat such rate does not include costs other than interest;
+&emsp;&emsp;(A) a description of the manner in which such rate will be computed and a statement that such rate does not include costs other than interest;
 
 &emsp;&emsp;(B) a description of the manner in which any changes in the annual percentage rate will be made, including—
 

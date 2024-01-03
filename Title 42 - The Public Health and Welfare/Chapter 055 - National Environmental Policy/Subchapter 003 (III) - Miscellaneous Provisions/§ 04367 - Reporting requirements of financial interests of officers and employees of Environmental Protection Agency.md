@@ -28,7 +28,7 @@ In the rules prescribed under subsection (b) of this section, the Administrator 
 
 #### (d) Violations; penalties
 
-Any officer or employee who is subject to, and knowingly violates, this section, shall be finednot more than $2,500 or imprisoned not more than one year, or both.
+Any officer or employee who is subject to, and knowingly violates, this section, shall be fined not more than $2,500 or imprisoned not more than one year, or both.
 
 (Pub. L. 95–155, §12, Nov. 8, 1977, 91 Stat. 1263.)
 

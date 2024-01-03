@@ -6,7 +6,7 @@ The Secretary is authorized to make grants to and enter into contracts with publ
 
 #### (b) Factors determining awards; establishment and preservation of rights of local and regional entities
 
-In making grants and contracts under this section the Secretary shall take into account the number of patients to be served, the extent to which family planning services are needed locally, the relative need of the applicant, and its capacity to make rapid and effective use of such assistance. Local and regional entities shall be assured the right to apply for direct grants and contracts under this section, and the Secretary shall by regulation fully provide for and protect such right.
+In making grants and contracts under this section the Secretary shall take into account the number of patients to be served, the extent to which family planning services are needed locally, the relative need of the applicant, and its capacity to make rapid and effective use of such assistance. Local and regional entities shall be assured the right to apply for direct grants and contracts under this section, and the Secretaryshall by regulation fully provide for and protect such right.
 
 #### (c) Reduction of grant amount
 
@@ -80,7 +80,7 @@ Pub. L. 91–572, §2, Dec. 24, 1970, 84 Stat. 1504, provided that: "It is the p
 
 &emsp;"(7) to assist in providing trained manpower needed to effectively carry out programs of population research and family planning services; and
 
-&emsp;"(8) to establish an Office of Population Affairs in the Department of Health, Education, and Welfare as a primary focus within the Federal Government on matters pertaining to population research and family planning, through which the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereafter in this Act referred to as the 'Secretary') shall carry out the purposes of this Act."
+&emsp;"(8) to establish an Office of Population Affairs in the Department of Health, Education, and Welfare as a primary focus within the Federal Government onmatters pertaining to population research and family planning, through which the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereafter in this Act referred to as the 'Secretary') shall carry out the purposes of this Act."
 
 #### <b>Executive Documents</b>
 
@@ -158,7 +158,7 @@ Following that order, the Department of Health and Human Services (HHS) has take
 
 However, the continued advancement of restrictive abortion laws in States across the country has created legal uncertainty and disparate access to reproductive healthcare services depending on where a person lives, putting patients, providers, and third parties at risk and fueling confusion for hospitals and healthcare providers, including pharmacies. There have been numerous reports of women denied health- and life-saving emergency care, as providers fearful of legal reprisal delay necessary treatment for patients until their conditions worsen to dangerous levels. There are also reports of women of reproductive age being denied prescription medication at pharmacies—including medication that is used to treat stomach ulcers, lupus, arthritis, and cancer—due to concerns that these medications, some of which can be used in medication abortions, could be used to terminate a pregnancy. Reportedly, a healthcare provider, citing a State law restricting abortion, even temporarily stopped providing emergency contraception.
 
-As it remains the policy of my Administration to support women's access to reproductive healthcare services, including their ability to travel to seek abortion care in States where it is legal, I am directing my Administration to take further action to protect accessto reproductive healthcare services and to address the crisis facing women's health and public health more broadly.
+As it remains the policy of my Administration to support women's access to reproductive healthcare services, including their ability to travel to seek abortion care in States where it is legal, I am directing my Administration to take further action to protect access to reproductive healthcare services and to address the crisis facing women's health and public health more broadly.
 
 Sec. 2. <i>Definition</i>. The term "reproductive healthcare services" means medical, surgical, counseling, or referral services relating to the human reproductive system, including services relating to pregnancy or the termination of a pregnancy.
 
@@ -175,6 +175,90 @@ Sec. 4. <i>Promoting Compliance with Non-Discrimination Law in Obtaining Medical
 Sec. 5. <i>Data Collection</i>. The Secretary of HHS shall evaluate the adequacy of research, data collection, and data analysis and interpretation efforts at the National Institutes of Health, the Centers for Disease Control and Prevention, and other relevant HHS components in accurately measuring the effect of access to reproductive healthcare on maternal health outcomes and other health outcomes. Following that evaluation, the Secretary shall take appropriate actions to improve those efforts.
 
 Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 14101. Strengthening Access to Affordable, High-Quality Contraception and Family Planning Services
+
+Ex. Ord. No. 14101, June 23, 2023, 88 F.R. 41815, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. Women should have access to the healthcare they need, including contraception and family planning services. Access to contraception is essential to ensuring that all people have control over personal decisions about their own health, lives, and families. High-quality contraception improves health outcomes, advances economic stability, and promotes women's overall well-being. Contraception access is linked to improved maternal and child health, expanded educational and professional opportunities, and higher lifetime earnings.
+
+Through new requirements for private health coverage and expanded access to Medicaid, the \[Patient Protection and\] Affordable Care Act \[Pub. L. 111–148, see Tables for classification\] extended access to affordable contraception to millions of women, helping them save billions of dollars on birth control. Yet access to high-quality contraception continues to vary based on income, location, health insurance coverage, and the availability of healthcare providers. Millions of people continue to face barriers to obtaining the contraception they need even as access has become more critical in the wake of the Supreme Court's decision in <i>Dobbs v. Jackson Women's Health Organization</i>, 142 S. Ct. 2228 (2022), to overturn <i>Roe v. Wade</i>, 410 U.S. 113 (1973).
+
+Given that the Supreme Court overruled <i>Roe</i>, which rested on the fundamental right to privacy in matters of health, bodily autonomy, and family, it has never been more important to protect and expand access to family planning services. <i>Dobbs</i> has already had, and will continue to have, devastating implications for women's health. In States with laws that restrict access to abortion, health clinics that provide contraception and other essential health services have shuttered, eliminating critical points of care. Some State officials have adopted policies interfering with access to emergency contraception, including for vulnerable populations. Such policies further threaten women's ability to make decisions about their own bodies, families, and futures. These threats persist despite decades of Supreme Court precedent, beginning with <i>Griswold v. Connecticut</i>, 381 U.S. 479 (1965), and <i>Eisenstadt v. Baird</i>, 405 U.S. 438 (1972), affirming the right to contraception. Moreover, an overwhelming majority of Americans support access to contraception.
+
+In the wake of the Supreme Court's decision in <i>Dobbs</i>, I issued Executive Order 14076 of July 8, 2022 (Protecting Access to Reproductive Healthcare Services) \[set out above\], and Executive Order 14079 of August 3, 2022 (Securing Access to Reproductive and Other Healthcare Services) \[set out above\], to direct my Administration to take action to protect access to reproductive healthcare services, including contraception and abortion. In Executive Order 14076, I directed the Secretary of Health and Human Services and the Director of the Gender Policy Council to establish an Interagency Task Force on Reproductive Healthcare Access to coordinate these efforts across my Administration. Consistent with these Executive Orders and other applicable authorities, executive departments and agencies have taken numerous steps to protect and strengthen access to contraception, including:
+
+(a) issuing guidance and convening sponsors of employee benefit plans and health insurers to clarify contraception coverage requirements under the Affordable Care Act;
+
+(b) expanding walk-in contraceptive care services for active duty service members and other Military Health System beneficiaries;
+
+(c) issuing a Notice of Proposed Rulemaking to improve access to affordable contraception for certain dependents of veterans;
+
+(d) providing additional funding to bolster training, develop and expand telehealth infrastructure and capacity, and provide technical assistance for clinics funded under Title X of the Public Health Service Act (42 U.S.C. 300 et seq.) (Title X);
+
+(e) strengthening the inclusion of family planning providers in insurance networks for qualified health plans under the Affordable Care Act;
+
+(f) issuing a Notice of Proposed Rulemaking to provide a new pathway for women to access contraceptives when their private health coverage is exempt from covering this benefit;
+
+(g) issuing a Notice of Proposed Rulemaking to strengthen privacy protections under the Health Insurance Portability and Accountability Act of 1996, Public Law 104–191, 110 Stat. 1936 \[see Tables for classification\], as amended by Public Law 111–5, 123 Stat. 115 (2009), by proposing to prohibit doctors, other healthcare providers, and health plans from using or disclosing individuals' protected health information related to lawful reproductive healthcare, such as contraception use, under certain circumstances;
+
+(h) issuing a Notice of Proposed Rulemaking to ensure healthcare providers that receive Federal financial assistance do not deny healthcare, including contraception, on the basis of any ground protected by Federal law; and
+
+(i) reminding Health Resources and Services Administration (HRSA)-funded health centers of their obligations to provide family planning services to patients consistent with Federal requirements.
+
+Through this order, I direct my Administration to build on this progress and further strengthen and bolster access to affordable, high-quality contraception. It remains the policy of my Administration to support access to reproductive healthcare services and to protect and defend reproductive rights in the face of ongoing efforts to strip Americans of their fundamental freedoms.
+
+Sec. 2. <i>Improving Access and Affordability Under the Affordable Care Act</i>. (a) The Secretaries of the Treasury, Labor, and Health and Human Services (Secretaries) shall consider issuing guidance, consistent with applicable law, to further improve Americans' ability to access contraception, without out-of-pocket expenses, under the Affordable Care Act. In doing so, the Secretaries shall consider actions that would, to the greatest extent permitted by law:
+
+(i) ensure coverage of comprehensive contraceptive care, including all contraceptives approved, granted, or cleared by the Food and Drug Administration, without cost sharing for enrollees, participants, and beneficiaries; and
+
+(ii) streamline the process for patients and healthcare providers to request coverage, without cost sharing, of medically necessary contraception.
+
+(b) The Secretaries shall consider additional actions, as appropriate and consistent with applicable law, to promote increased access to affordable over-the-counter contraception, including emergency contraception.
+
+Sec. 3. <i>Supporting Access Through Medicaid and Medicare</i>. The Secretary of Health and Human Services, through the Administrator of the Centers for Medicare and Medicaid Services, shall consider taking steps, as appropriate and consistent with applicable law, to:
+
+(a) expand access to affordable family planning services and supplies across the Medicaid program, including by identifying and disseminating best practices for providing high-quality family planning services and supplies, including through Medicaid-managed care; and
+
+(b) improve coverage and payment for contraceptives for Medicare beneficiaries through Medicare Advantage and Medicare Part D plans.
+
+Sec. 4. <i>Additional Actions to Support Contraception Access</i>. (a) To promote access to affordable, high-quality contraception, the Secretary of Defense, the Secretary of Veterans Affairs, and the Director of the Office of Personnel Management shall consider additional actions, as appropriate and consistent with applicable law, to:
+
+(i) ensure, where appropriate, robust coverage of contraception under Federal programs;
+
+(ii) offer technical assistance to help promote access to contraception, where relevant; and
+
+(iii) educate Federal program participants and beneficiaries on how to access affordable, high-quality contraception, including through public awareness initiatives that provide timely and accurate information about such access.
+
+(b) To promote access to affordable, high-quality contraception across Federal healthcare programs and relevant human services programs, including throughTitle X clinics, HRSA-funded health centers, and the Indian Health Service, the Secretary of Health and Human Services shall consider taking actions, as appropriate and consistent with applicable law, to:
+
+(i) encourage all federally funded health centers, including HRSA-funded health centers, to expand the availability and quality of voluntary family planning services offered to beneficiaries;
+
+(ii) support healthcare providers that participate in the Title X program through new technical assistance and training;
+
+(iii) support access to culturally and linguistically appropriate care, including by developing and disseminating materials on family planning services available at federally funded health centers;
+
+(iv) provide guidance on contraception-related obligations, such as confidentiality protections, and technical assistance resources to funding recipients, where relevant; and
+
+(v) support research and data analysis to document gaps and disparities in access to contraception, as well as the benefits of comprehensive coverage for contraception and family planning services through public and private healthcare programs.
+
+(c) The Secretary of Labor shall identify best practices for making affordable, high-quality contraception available to health plan enrollees, participants, and beneficiaries to share with employers and organizations that sponsor private health coverage.
+
+(d) The Secretary of Education shall convene institutions of higher education to share best practices for making affordable, high-quality contraception available, as well as ways to raise awareness of options for accessing contraception.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 
@@ -212,7 +296,7 @@ Section 1. <i>Policy</i>. Women should have access to the healthcare they need. 
 
 In the United States, Title X of the Public Health Services \[sic\] Act (42 U.S.C. 300 to 300a–6) provides Federal funding for family planning services that primarily benefit low-income patients. The Act specifies that Title X funds may not be used in programs where abortion is a method of family planning, but places no further abortion-related restrictions on recipients of Title X funds. See 42 U.S.C. 300a–6. In 2019, the Secretary of Health and Human Services finalized changes to regulations governing the Title X program and issued a final rule entitled "Compliance With Statutory Program Integrity Requirements," 84 FR 7714 (Mar. 4, 2019) (Title X Rule), which prohibits recipients of Title X funds from referring patients to abortion providers and imposes other onerous requirements on abortion providers. The Title X Rule has caused the termination of Federal family planning funding for many women's healthcare providers and puts women's health at risk by making it harder for women to receive complete medical information.
 
-It is the policy of my Administration to support women's and girls' sexual and reproductive health and rights in the United States, as well as globally. The Foreign Assistance Act of 1961 (22 U.S.C. 2151b(f)(1)), prohibits nongovernmental organizations (NGOs) that receive Federal funds from using those funds "to pay for the performance of abortions as a method of family planning, or to motivate or coerce any person to practice abortions." The August 1984 announcement byPresident Reagan of what has become known as the "Mexico City Policy" directed the United States Agency for International Development (USAID) to expand this limitation and withhold USAID family planning funds from NGOs that use non-USAID funds to perform abortions, provide advice, counseling, or information regarding abortion, or lobby a foreign government to legalize abortion or make abortion services more easily available. These restrictions were rescinded by President Clinton in 1993, reinstated by President George W. Bush in 2001, and rescinded by President Obama in 2009. President Trump substantially expanded these restrictions by applying the policy to global health assistance provided by all executive departments and agencies (agencies). These excessive conditions on foreign and development assistance undermine the United States' efforts to advance gender equality globally by restricting our ability to support women's health and programs that prevent and respond to gender-based violence. The expansion of the policy has also affected all other areas of global health assistance, limiting the United States' ability to work with local partners around the world and inhibiting their efforts to confront serious health challenges such as HIV/AIDS, tuberculosis, and malaria, among others. Such restrictions on global health assistance are particularly harmful in light of the coronavirus disease 2019 (COVID–19) pandemic. Accordingly, I hereby order as follows:
+It is the policy of my Administration to support women's and girls' sexual and reproductive health and rights in the United States, as well as globally. The Foreign Assistance Act of 1961 (22 U.S.C. 2151b(f)(1)), prohibits nongovernmental organizations (NGOs) that receive Federal funds from using those funds "to pay for the performance of abortions as a method of family planning, or to motivate or coerce any person to practice abortions." The August 1984 announcement by President Reagan of what has become known as the "Mexico City Policy" directed the United States Agency for International Development (USAID) to expand this limitation and withhold USAID family planning funds from NGOs that use non-USAID funds to perform abortions, provide advice, counseling, or information regarding abortion, or lobby a foreign government to legalize abortion or make abortion services more easily available. These restrictions were rescinded by President Clinton in 1993, reinstated by President George W. Bush in 2001, and rescinded by President Obama in 2009. President Trump substantially expanded these restrictions by applying the policy to global health assistance provided by all executive departments and agencies\(agencies). These excessive conditions on foreign and development assistance undermine the United States' efforts to advance gender equality globally by restricting our ability to support women's health and programs that prevent and respond to gender-based violence. The expansion of the policy has also affected all other areas of global health assistance, limiting the United States' ability to work with local partners around the world and inhibiting their efforts to confront serious health challenges such as HIV/AIDS, tuberculosis, and malaria, among others. Such restrictions on global health assistance are particularly harmful in light of the coronavirus disease 2019 (COVID–19) pandemic. Accordingly, I hereby order as follows:
 
 Sec. 2. <i>Agency Revocations and Other Actions</i>. (a) The Secretary of Health and Human Services shall review the Title X Rule and any other regulations governing the Title X program that impose undue restrictions on the use of Federal funds or women's access to complete medical information and shall consider, as soon as practicable, whether to suspend, revise, or rescind, or publish for notice and comment proposed rules suspending, revising, or rescinding, those regulations, consistent with applicable law, including the Administrative Procedure Act \[see 5 U.S.C. 551 to 559, 701 to 706\].
 
@@ -249,6 +333,58 @@ Sec. 3. <i>General Provisions</i>. (a) Nothing in this memorandum shall be const
 (c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 (d) The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Further Efforts To Protect Access to Reproductive Healthcare Services
+
+Memorandum of President of the United States, Jan. 22, 2023, 88 F.R. 4895, provided:
+
+Memorandum for the Attorney General\[,\] the Secretary of Health and Human Services\[, and\] the Secretary of Homeland Security
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. Since 2000, the medication mifepristone has been approved by the Food and Drug Administration (FDA) for use in the United States as a safe and effective method to end early pregnancy.
+
+The Food and Drug Administration Amendments Act of 2007 (Public Law 110–85) \[see Tables for classification\] requires the FDA, working with drug manufacturers, to specify conditions for the use of certain drugs after considering six congressionally mandated factors. The Act sets forth a detailed administrative process to develop such conditions for use, known collectively as the Risk Evaluation and Mitigation Strategies (REMS), for individual drugs. Mifepristone has long had a REMS specifying the conditions for its use.
+
+On January 3, 2023, the FDA, after an independent and comprehensive review of the risks and benefits of the drug, modified the REMS for mifepristone. The FDA took evidence-based action that supports access to mifepristone by helping ensure that healthcare providers and patients can continue to use telehealth to prescribe and receive mifepristone by mail after the end of the COVID–19 public health emergency. During the COVID–19 public health emergency, the FDA stopped enforcing a prior requirement that mifepristone be dispensed in person, and the FDA's January 2023 REMS permanently removed the in-person dispensing requirement. Additionally, pharmacies can now choose to become certified to dispense mifepristone to patients. These changes seek to reduce the burden on the healthcare delivery system while ensuring the benefits of the medication outweigh the risks. These changes also help ensure that patients can access mifepristone similarly to how they would access other prescribed medications.
+
+In the wake of the new REMS for mifepristone, there have been reports of efforts to suppress access to medication abortion. Some State officials have announced that they will impose restrictions to limit access to this evidence-based, safe, and effective medication. In a letter to the FDA, for example, 22 State Attorneys General threatened to enforce State laws that purport to interfere with access to mifepristone. In Florida, the Governor recently said that major pharmacy chains in the State will not offer mifepristone. Florida health officials issued guidance discouraging pharmacies from dispensing mifepristone, claiming that State law limits where abortion medication can be provided to hospitals, clinics, or physician offices. These actions have stoked confusion, sowed fear, and may prevent patients from accessing safe and effective FDA-approved medication.
+
+At the same time, those who provide reproductive healthcare continue to face heightened safety concerns. There are reports that some have vowed to make people uncomfortable entering pharmacies that dispense mifepristone.
+
+In Executive Order 14076 of July 8, 2022 (Protecting Access to Reproductive Healthcare Services) \[set out above\], I directed the Secretary of Health and Human Services (HHS) to identify potential actions to protect and expand access to abortion care, including medication abortion. In that order, I directed the Attorney General and the Secretary of Homeland Security to consider actions, as appropriate and consistent with applicable law, that would protect the safety and security of patients, providers, and third parties, and that would protect the security of pharmacies and other entities providing, dispensing, or delivering reproductive and related healthcare services.
+
+Since the issuance of Executive Order 14076, my Administration has taken steps to clarify the protections available to those who seek reproductive health services. The Department of Justice announced the formation of a Reproductive Rights Task Force, which, among other things, is focused on evaluating and monitoring State and local legislation, regulation, and enforcement actions that threaten to infringe on Federal legal protections relating to the provision or pursuit of reproductive care. HHS has published a report detailing its efforts to protect access to reproductive healthcare, including abortion care; protect patients' privacy and promote access to accurate information about reproductive healthcare services; and ensure that patients receive appropriate medical treatment under the law. Furthermore, HHS has continued taking action to help ensure non-discrimination in healthcare service delivery, including with respect to reproductive healthcare services and pharmacy access.
+
+My Administration remains committed to supporting safe access to mifepristone, consistent with applicable law, and defending women's fundamental freedoms. Defending and protecting reproductive rights is essential to our Nation's health, safety, and progress. It is the policy of my Administration to protect against threats to the liberty and autonomy of those who live in this country.
+
+Sec. 2. <i>Continuing to Protect Access to FDA-Approved Medication</i>. In light of recent developments and consistent with Executive Order 14076, within 60 days of the date of this memorandum \[Jan. 22, 2023\]:
+
+(a) The Secretary of HHS, in consultation with the Attorney General and the Secretary of Homeland Security, shall consider:
+
+(i) issuing guidance for patients seeking legal access to mifepristone, as well as for providers and entities, including pharmacies, that provide reproductive healthcare and seek to legally prescribe and provide mifepristone; and
+
+(ii) any further actions, as appropriate and consistent with applicable law, to educate individuals on their ability to seek legal reproductive care, free from threats or violence.
+
+(b) The Attorney General, the Secretary of Homeland Security, and the Secretary of HHS shall, as appropriate, provide the Interagency Task Force on Reproductive Healthcare Access, established in Executive Order 14076, with information concerning:
+
+(i) potential barriers faced by patients seeking legal access to mifepristone or other reproductive healthcare, as well as by providers and entities, including pharmacies, that provide reproductive healthcare in providing mifepristone or other reproductive healthcare, and any recommendations for addressing these barriers; and
+
+(ii) whether any additional institutional resources may be necessary to address these barriers.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Attorney General is authorized and directed to publish this memorandum in the Federal Register.
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

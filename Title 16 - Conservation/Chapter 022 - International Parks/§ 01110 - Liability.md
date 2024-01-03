@@ -2,7 +2,7 @@
 
 #### (a) United States
 
-The United States Government shall not be liable for any act or omission of the Commissionor of any person employed by, or assigned or detailed to, the Commission.
+The United States Government shall not be liable for any act or omission of the Commission or of any person employed by, or assigned or detailed to, the Commission.
 
 #### (b) Payment; exemption of property from attachment, execution, etc.
 

@@ -10,5 +10,5 @@ Section, Pub. L. 105–83, title VII, §702, Nov. 14, 1997, 111 Stat. 1624, whic
 
 #### Short Title
 
-Pub. L. 105–83, title VII, §701, Nov. 14, 1997, 111 Stat. 1624, provided that title VII of Pub. L. 105–83, enactingthis part, could be cited as the "Miccosukee Settlement Act of 1997".
+Pub. L. 105–83, title VII, §701, Nov. 14, 1997, 111 Stat. 1624, provided that title VII of Pub. L. 105–83, enacting this part, could be cited as the "Miccosukee Settlement Act of 1997".
 

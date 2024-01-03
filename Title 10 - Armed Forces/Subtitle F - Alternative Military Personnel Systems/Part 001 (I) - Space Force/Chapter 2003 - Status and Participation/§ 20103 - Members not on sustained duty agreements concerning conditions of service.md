@@ -1,0 +1,28 @@
+### §20103. Members not on sustained duty: agreements concerning conditions of service
+
+(a)
+
+Agreements.—The Secretary of the Air Force may enter into a written agreement with a member of the Space Force not on sustained duty—
+
+&emsp;(1) requiring the member to serve on active duty for a definite period of time;
+
+&emsp;(2) specifying the conditions of the member's service on active duty; and
+
+&emsp;(3) for a member serving in a space force inactive status, specifying the conditions for the member's continued service as well as order to active duty with and without the consent of the member.
+
+(b)
+
+Conditions of Service.—An agreement under subsection (a) shall specify the conditions of service. The Secretary of the Air Force shall prescribe regulations establishing—
+
+&emsp;(1) what conditions of service may be specified in the agreement;
+
+&emsp;(2) the obligations of the parties; and
+
+&emsp;(3) the consequences of failure to comply with the terms of the agreement.
+
+(c)
+
+Authority for Retention on Active Duty During War or National Emergency.—If the period of service on active duty of a member under an agreement under subsection (a) expiresduring a war or during a national emergency declared by Congress or the President, the member concerned may be kept on active duty, without the consent of the member, as otherwise prescribed by law.
+
+(Added Pub. L. 118–31, div. A, title XVII, §1715, Dec. 22, 2023, 137 Stat. 628.)
+

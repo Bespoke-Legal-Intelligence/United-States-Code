@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the daily accrual with respect to any residual interestfor any day in any calendar quarter shall be determined by allocating to each day in such quarter its ratable portion of the product of—
+&emsp;&emsp;For purposes of this subsection, the daily accrual with respect to any residual interest for any day in any calendar quarter shall be determined by allocating to each day in such quarter its ratable portion of the product of—
 
 &emsp;&emsp;&emsp;(i) the adjusted issue price of such interest at the beginning of such quarter, and
 
@@ -142,7 +142,7 @@ If a residual interest in a REMIC is held by a real estate investment trust, und
 
 &emsp;&emsp;&emsp;(iii) any organization to which part I of subchapter T applies.
 
-> &emsp;&emsp;Except as provided in regulations, a person holding an interest in a pass-thru entity asa nominee for another person shall, with respect to such interest, be treated as a pass-thru entity.
+> &emsp;&emsp;Except as provided in regulations, a person holding an interest in a pass-thru entity as a nominee for another person shall, with respect to such interest, be treated as a pass-thru entity.
 
 #### (C) Tax to be deductible
 
@@ -192,7 +192,7 @@ Exception for certain financial institutions.—Paragraph (1) shall not apply to
 
 Subsec. (a)(3). Pub. L. 104–188, §1616(b)(10)(B), redesignated par. (5) as (3). Former par. (3) redesignated (2).
 
-Subsec. (a)(4). Pub. L. 104–188, §1616(b)(10)(B), (D), redesignated par. (6) as (4), struck out at end "The preceding sentence shall not apply to any organization to which section 593 applies, except to the extent provided in regulations prescribed by the Secretary under paragraph (2).", and struck out former par. (4) which related to certain subsidiaries being treated as single corporations to which section 593 applied.
+Subsec. (a)(4). Pub. L. 104–188, §1616(b)(10)(B), (D), redesignated par. (6) as (4), struck out at end "The preceding sentence shall not apply to any organization to which section 593 applies, except to the extent provided in regulations prescribed by the Secretary under paragraph (2).", and struck out former par. (4) which relatedto certain subsidiaries being treated as single corporations to which section 593 applied.
 
 Subsec. (a)(5). Pub. L. 104–188, §1616(b)(10)(B), redesignated par. (5) as (3).
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 1616(b)(10) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, but not applicable to any residual interest held by a taxpayer if such interest has been held by such taxpayer at all times since Oct. 31, 1995, see section 1616(c)(1), (4) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
-Pub. L. 104–188, title I, §1704(h)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: "The amendment made byparagraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 671 of the Tax Reform Act of 1986 \[Pub. L. 99–514\] unless the taxpayer elects to apply such amendment only to taxable years beginning after the date of the enactment of this Act \[Aug. 20, 1996\]."
+Pub. L. 104–188, title I, §1704(h)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 671 of the Tax Reform Act of 1986 \[Pub. L. 99–514\] unless the taxpayer elects to apply such amendment only to taxable years beginning after the date of the enactment of this Act \[Aug. 20, 1996\]."
 
 #### Effective Date of 1988 Amendment
 

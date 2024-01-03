@@ -12,7 +12,7 @@ Subject to the availability of appropriations for this section, the Corporation 
 
 #### (1) In general
 
-&emsp;Each State Commission or nonprofit organization desiring a grant under this section shall submit an application to the Corporation at such time, in such manner, and accompanied by such information as the Corporation may reasonably require.
+&emsp;Each State Commission or nonprofit organization desiring a grant under this section shallsubmit an application to the Corporation at such time, in such manner, and accompanied by such information as the Corporation may reasonably require.
 
 #### (2) Contents
 

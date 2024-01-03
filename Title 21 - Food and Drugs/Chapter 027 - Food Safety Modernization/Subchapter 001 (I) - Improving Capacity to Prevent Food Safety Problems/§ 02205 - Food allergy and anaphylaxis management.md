@@ -154,7 +154,7 @@ In this section:
 
 #### (5) Limitation on grant funding
 
-&emsp;The Secretary may not provide grant funding to a local educational agency under this subsection after such local educational agency has received 2 years of grant funding under this subsection.
+&emsp;The Secretary may not provide grant funding to a local educational agency under thissubsection after such local educational agency has received 2 years of grant funding under this subsection.
 
 #### (6) Maximum amount of annual awards
 

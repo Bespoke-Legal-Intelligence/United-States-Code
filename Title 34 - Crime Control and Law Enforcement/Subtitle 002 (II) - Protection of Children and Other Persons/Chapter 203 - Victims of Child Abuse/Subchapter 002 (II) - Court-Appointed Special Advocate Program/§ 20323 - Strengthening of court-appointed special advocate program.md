@@ -34,7 +34,7 @@ The Administrator of the Office of Juvenile Justice and Delinquency Prevention s
 
 &emsp;(G) a court-appointed special advocate program have an established procedure to allow the immediate reporting to a court or appropriate agency of a situation in which a court-appointed special advocate volunteer has reason to believe that a child is in imminent danger;
 
-&emsp;(H) a court-appointed special advocate volunteer be an individual who has been screened and trained by a recognized court-appointed special advocate program and appointed by the court to advocate for children who come into the court system primarily as a result of abuse or neglect; and
+&emsp;(H) a court-appointed special advocate volunteer be an individual who has been screened and trained by a recognized court-appointed special advocate program and appointed by the court to advocate for children who comeinto the court system primarily as a result of abuse or neglect; and
 
 &emsp;(I) a court-appointed special advocate volunteer serve the function of reviewing records, facilitating prompt, thorough review of cases, and interviewing appropriate parties in order to make recommendations on what would be in the best interests of the child.
 
@@ -82,5 +82,5 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002,and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 11101 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 11101 of this title.
 

@@ -14,7 +14,7 @@ The Commission shall have juridical personality and all powers and capacity nece
 
 &emsp;(f) to adopt such rules of procedure as it deems desirable to enable it to perform the functions set forth in this agreement;
 
-&emsp;(g) to charge admission fees for entrance to the park should the Commission consider such fees desirable; however, such fees shall be set at a level which will make the facilities readily available to visitors; any revenues derived from admission fees or concession operations of the Commission shall be transmitted in equal shares to the two Governments within sixty days of the end of the Commission's fiscal year, the United States share to be turnedover to the appropriate Federal agency for deposit into the United States Treasury in accordance with the laws governing entrance fees received by the National Park Service;
+&emsp;(g) to charge admission fees for entrance to the park should the Commission consider such fees desirable; however, such fees shall be set at a level which will make the facilities readily available to visitors; any revenues derived from admission fees or concession operations of the Commission shall be transmitted in equal shares to the two Governments within sixty days of the end of the Commission's fiscal year, the United States share to be turned over to the appropriate Federal agency for deposit into the United States Treasury in accordance with the laws governing entrance fees received by the National Park Service;
 
 &emsp;(h) to grant concessions; if deemed desirable;
 

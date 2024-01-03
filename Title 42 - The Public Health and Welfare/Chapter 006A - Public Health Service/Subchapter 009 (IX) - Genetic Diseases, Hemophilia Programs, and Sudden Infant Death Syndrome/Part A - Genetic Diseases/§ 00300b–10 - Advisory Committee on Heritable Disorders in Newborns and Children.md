@@ -24,7 +24,7 @@ The Advisory Committee shall—
 
 &emsp;(8) provide such recommendations, advice or information as may be necessary to enhance, expand or improve the ability of the Secretary to reduce the mortality or morbidity from heritable disorders, which may include recommendations, advice, or information dealing with—
 
-&emsp;&emsp;(A) follow-up activities, including those necessary to achieve best practices in rapid diagnosis and appropriate treatment in the short-term, and those that ascertain long-term case management outcomes and appropriate access to related services;
+&emsp;&emsp;(A) follow-up activities, including those necessary to achieve best practices in rapiddiagnosis and appropriate treatment in the short-term, and those that ascertain long-term case management outcomes and appropriate access to related services;
 
 &emsp;&emsp;(B) implementation, monitoring, and evaluation of newborn screening activities, including diagnosis, screening, follow-up, and treatment activities;
 
@@ -98,7 +98,7 @@ Not later than 3 years after April 24, 2008, and each fiscal year thereafter, th
 
 &emsp;(2) submit such report to the appropriate committees of Congress, the Secretary, the Interagency Coordinating Committee established under section 300b–13 of this title, and the State departments of health; and
 
-&emsp;(3) disseminate such report on as wide a basis as practicable, including through posting on the internet clearinghouse established under section 300b–11 of this title.
+&emsp;(3) disseminate such report on as wide a basis as practicable, including through postingon the internet clearinghouse established under section 300b–11 of this title.
 
 #### (f) Meetings
 
@@ -174,7 +174,7 @@ Pub. L. 110–204, §4(3), added subsec. (g).
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the PublicHealth Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "committee".</i>
 

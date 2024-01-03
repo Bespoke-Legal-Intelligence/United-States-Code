@@ -306,7 +306,7 @@ In general.—Not later than one year after the date of publication of final reg
 
 Limitation.—The Secretary may not require any such vessel or facility to provide on-site receipt and activation of transportation worker identification credentials.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2073; amended Pub. L. 109–241, title III, §309, July 11, 2006, 120 Stat. 528; Pub. L. 109–347, title I, §104(a), (b), Oct. 13, 2006, 120 Stat. 1888, 1890; Pub. L. 110–53, title XIII, §1309(a), Aug. 3, 2007, 121 Stat. 397; Pub. L. 111–281, title VIII, §§809, 814, 818(a), 819, 823, title IX, §903(c)(2), Oct. 15, 2010, 124 Stat. 2995, 2999–3001, 3003, 3011; Pub. L. 111–330, §1(13), Dec. 22, 2010, 124 Stat. 3570; Pub. L. 114–120, title III, §306(a)(9), Feb. 8, 2016, 130 Stat. 54; Pub. L. 114–328, div. C, title XXXV, §3509(a), Dec. 23, 2016, 130 Stat. 2780; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8346, Jan. 1, 2021, 134 Stat. 4718; Pub. L. 117–263, div. K, title CXVIII, §11804(a), Dec. 23, 2022, 136 Stat. 4163.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2073; amended Pub. L. 109–241, title III, §309, July 11, 2006, 120 Stat. 528; Pub. L. 109–347, title I, §104(a), (b), Oct. 13, 2006, 120 Stat. 1888, 1890; Pub. L. 110–53, title XIII, §1309(a), Aug. 3, 2007, 121 Stat. 397; Pub. L. 111–281, title VIII, §§809, 814, 818(a), 819, 823, title IX, §903(c)(2), Oct. 15, 2010, 124 Stat. 2995, 2999–3001, 3003, 3011; Pub. L. 111–330, §1(13), Dec. 22, 2010, 124 Stat. 3570; Pub. L. 114–120, title III, §306(a)(9), Feb. 8, 2016, 130 Stat. 54; Pub. L. 114–328, div. C, title XXXV,§3509(a), Dec. 23, 2016, 130 Stat. 2780; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8346, Jan. 1, 2021, 134 Stat. 4718; Pub. L. 117–263, div. K, title CXVIII, §11804(a), Dec. 23, 2022, 136 Stat. 4163.)
 
 #### <b>Editorial Notes</b>
 
@@ -402,15 +402,11 @@ Subsecs. (g) to (m). Pub. L. 109–347, §104(a), added subsecs. (g) to (m).
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–328, div. C, title XXXV, §3509(c), Dec. 23, 2016, 130 Stat. 2781, provided that: "Section 70105(j)(2) of title 46, United States Code, as amended by this section, shall apply to applications for transportation security cards submitted after the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 23, 2016\]."
+Pub. L. 114–328, div. C, title XXXV, §3509(c), Dec. 23, 2016, 130 Stat. 2781, provided that: "Section 70105(j)(2) oftitle 46, United States Code, as amended by this section, shall apply to applications for transportation security cards submitted after the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 23, 2016\]."
 
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–330, §1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(13) is effective with the enactment of Pub. L. 111–281.
-
-#### Deadline for Section 70105 Regulations
-
-Pub. L. 109–347, title I, §104(c), Oct. 13, 2006, 120 Stat. 1891, provided that: "Not later than January 1, 2007, the Secretary \[of Homeland Security\] shall promulgate final regulations implementing the requirements for issuing transportation security cards under section 70105 of title 46, United States Code. The regulations shall include a background check process to enable newly hired workers to begin working unless the Secretary makes an initial determination that the worker poses a security risk. Such process shall include a check against the consolidated and integrated terrorist watch list maintained by the Federal Government."
 
 #### Transportation Worker Identification Credential Reader Requirements Rule Implementation
 
@@ -431,6 +427,10 @@ Covered Facilities Defined.—In this section, the term 'covered facilities' mea
 &emsp;"(3) facilities that receive vessels carrying Certain Dangerous Cargoes in bulk but, during the vessel-to-facility interface, do not transfer it from or to the vessel."
 
 \[For definition of "Secretary" as used in section 11804(c) of Pub. L. 117–263, set out above, see section 11002 of Pub. L. 117–263, set out as a note under section 106 of Title 14, Coast Guard.\]
+
+#### Deadline for Section 70105 Regulations
+
+Pub. L. 109–347, title I, §104(c), Oct. 13, 2006, 120 Stat. 1891, provided that: "Not later than January 1, 2007, the Secretary \[of Homeland Security\] shall promulgate final regulations implementing the requirements for issuing transportation security cards under section 70105 of title 46, United States Code. The regulations shall include a background check process to enable newly hired workers to begin working unless the Secretary makes an initial determination that the worker poses a security risk. Such process shall include a check against the consolidated and integrated terrorist watch list maintained by the Federal Government."
 
 #### Transportation Worker Identification Credentials
 
@@ -506,7 +506,7 @@ Required actions.—The actions described under paragraph (1) shall include—
 
 &emsp;"(3)
 
-Report.—Not later than 2 years after the date of enactment of this Act, the Inspector General of theDepartment of Homeland Security shall submit a report to Congress that evaluates the implementation of the actions described in paragraph (1).
+Report.—Not later than 2 years after the date of enactment of this Act, the Inspector General of the Department of Homeland Security shall submit a report to Congress that evaluates the implementation of the actions described in paragraph (1).
 
 "(b)
 
@@ -620,7 +620,7 @@ Pub. L. 111–281, title VIII, §818(b), Oct. 15, 2010, 124 Stat. 3000, provided
 
 "(1)
 
-Report by comptroller general.—Within 180 days after the date of enactment of this Act \[Oct. 15, 2010\], the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report assessing the costs, technical feasibility, and security measures associated with implementing procedures to deliver a transportation security card to an approved applicant's place of residence in a secure manner or to allow an approved applicant to receive the card at an enrollment center of the individual's choosing.
+Report by comptroller general.—Within 180 days after the date of enactment of this Act \[Oct. 15,2010\], the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report assessing the costs, technical feasibility, and security measures associated with implementing procedures to deliver a transportation security card to an approved applicant's place of residence in a secure manner or to allow an approved applicant to receive the card at an enrollment center of the individual's choosing.
 
 "(2)
 

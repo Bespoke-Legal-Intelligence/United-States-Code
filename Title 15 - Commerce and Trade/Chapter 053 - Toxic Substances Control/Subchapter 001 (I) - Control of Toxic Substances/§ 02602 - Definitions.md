@@ -20,7 +20,7 @@ As used in this chapter:
 
 &emsp;(iv) any source material, special nuclear material, or byproduct material (as such terms are defined in the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] and regulations issued under such Act),
 
-&emsp;(v) any article the sale of which is subject to the tax imposed by section 4181 of the Internal Revenue Code of 1986 \[26 U.S.C. 4181\] (determined without regard to any exemptions from such tax provided by section 4182 or 4221 or any other provision of such Code) and any component of such an article (limited to shot shells, cartridges, and components of shot shells and cartridges), and
+&emsp;(v) any article the sale of which is subject to the tax imposed by section 4181 of the InternalRevenue Code of 1986 \[26 U.S.C. 4181\] (determined without regard to any exemptions from such tax provided by section 4182 or 4221 or any other provision of such Code) and any component of such an article (limited to shot shells, cartridges, and components of shot shells and cartridges), and
 
 &emsp;(vi) any food, food additive, drug, cosmetic, or device (as such terms are defined in section 201 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321\]) when manufactured, processed, or distributed in commerce for use as a food, food additive, drug, cosmetic, or device.
 
@@ -40,7 +40,7 @@ As used in this chapter:
 
 (9) The term "manufacture" means to import into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), produce, or manufacture.
 
-(10) The term "mixture" means any combination of two or more chemical substances if the combination does not occur in nature and is not, in whole or in part, the result of a chemical reaction; except that such term does include anycombination which occurs, in whole or in part, as a result of a chemical reaction if none of the chemical substances comprising the combination is a new chemical substance and if the combination could have been manufactured for commercial purposes without a chemical reaction at the time the chemical substances comprising the combination were combined.
+(10) The term "mixture" means any combination of two or more chemical substances if the combination does not occur in nature and is not, in whole or in part, the result of a chemical reaction; except that such term does include any combination which occurs, in whole or in part, as a result of a chemical reaction if none of the chemical substances comprising the combination is a new chemical substance and if the combination could have been manufactured for commercial purposes without a chemical reaction at the time the chemical substances comprising the combination were combined.
 
 (11) The term "new chemical substance" means any chemical substance which is not included in the chemical substance list compiled and published under section 2607(b) of this title.
 
@@ -76,7 +76,7 @@ As used in this chapter:
 
 (17) The term "United States", when used in the geographic sense, means all of the States.
 
-(Pub. L. 94–469, title I, §3, Oct. 11, 1976, 90 Stat. 2004; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 100–418, title I, §1214(e)(1), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 114–92, div. A, title III, §315, Nov. 25, 2015, 129 Stat. 791; Pub. L. 114–182, title I, §§3, 19(c), June 22, 2016, 130 Stat. 448, 505.)
+(Pub. L. 94–469, title I, §3, Oct. 11, 1976, 90 Stat. 2004; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 100–418, title I, §1214(e)(1), Aug. 23, 1988, 102 Stat. 1156; Pub. L.114–92, div. A, title III, §315, Nov. 25, 2015, 129 Stat. 791; Pub. L. 114–182, title I, §§3, 19(c), June 22, 2016, 130 Stat. 448, 505.)
 
 #### <b>Editorial Notes</b>
 
@@ -122,7 +122,7 @@ Pars. (16), (17). Pub. L. 114–182, §3(1), redesignated pars. (13) and (14) as
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418,set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
 #### Effective Date
 

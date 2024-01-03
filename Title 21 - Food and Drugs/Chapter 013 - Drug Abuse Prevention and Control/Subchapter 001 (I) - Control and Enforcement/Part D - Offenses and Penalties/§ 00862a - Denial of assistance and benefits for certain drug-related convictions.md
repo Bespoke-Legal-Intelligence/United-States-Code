@@ -20,7 +20,7 @@ An individual convicted (under Federal or State law) of any offense which is cla
 
 #### (c) Enforcement
 
-A State that has not exercised its authority under subsection (d)(1)(A) shall require each individual applying for assistance or benefits referred to in subsection (a), during the application process, to state, in writing, whether theindividual, or any member of the household of the individual, has been convicted of a crime described in subsection (a).
+A State that has not exercised its authority under subsection (d)(1)(A) shall require each individual applying for assistance or benefits referred to in subsection (a), during the application process, to state, in writing, whether the individual, or any member of the household of the individual, has been convicted of a crime described in subsection (a).
 
 #### (d) Limitations
 
@@ -44,7 +44,7 @@ For purposes of this section, the term "State" has the meaning given it—
 
 &emsp;(1) in section 419(5) of the Social Security Act \[42 U.S.C. 619(5)\], when referring to assistance provided under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], and
 
-&emsp;(2) in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012), when referring to the supplemental nutrition assistance program (as defined in that section) or any State program carried out under that Act \[7 U.S.C. 2011 et seq.\].
+&emsp;(2) in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012), when referring to the supplemental nutrition assistance program (asdefined in that section) or any State program carried out under that Act \[7 U.S.C. 2011 et seq.\].
 
 #### (f) Rule of interpretation
 
@@ -104,7 +104,7 @@ References to the food stamp program established under the Food Stamp Act of 197
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Amendment by section 4115(c)(2)(C) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246,set out as a note under section 1161 of Title 2, The Congress.
+Amendment by section 4115(c)(2)(C) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1997 Amendment
 

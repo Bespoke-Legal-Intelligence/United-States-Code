@@ -10,7 +10,7 @@ The principal negotiating objective of the United States in the extended negotia
 
 #### (b) Trade in basic telecommunications services
 
-The principal negotiating objective of the United States in the extended negotiations onbasic telecommunications services to be conducted under the auspices of the WTO is to obtain the opening on nondiscriminatory terms and conditions of foreign markets for basic telecommunications services through facilities-based competition or through the resale of services on existing networks.
+The principal negotiating objective of the United States in the extended negotiations on basic telecommunications services to be conducted under the auspices of the WTO is to obtain the opening on nondiscriminatory terms and conditions of foreign markets for basic telecommunications services through facilities-based competition or through the resale of services on existing networks.
 
 #### (c) Trade in civil aircraft
 

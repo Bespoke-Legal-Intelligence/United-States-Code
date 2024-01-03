@@ -1,6 +1,6 @@
 ### §1334b. Designation of States outside commercial wheat-producing areas
 
-If the acreage allotment for any State for any crop of wheat is twenty-five thousand acres or less, the Secretary, in order to promote efficient administration of this chapter and the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], may designate such State as outside the commercial wheat-producing area for the marketing year for such crop. If such State is so designated, acreage allotments for such crop and marketing quotas for the marketing year therefor shall not be applicable to any farm in such State. Acreage allotments in any State shall not be increased by reason of such designation.
+If the acreage allotment for any State for any crop of wheat is twenty-five thousand acres or less, the Secretary, in order to promote efficient administration of this chapter and the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], may designate such State as outside the commercial wheat-producing area for the marketing year for such crop. If such State is so designated, acreageallotments for such crop and marketing quotas for the marketing year therefor shall not be applicable to any farm in such State. Acreage allotments in any State shall not be increased by reason of such designation.
 
 (Feb. 16, 1938, ch. 30, title III, §334a, as added Pub. L. 87–703, title III, §314, Sept. 27, 1962, 76 Stat. 620.)
 
@@ -14,7 +14,7 @@ The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792
 
 #### Effective Date
 
-Section effective only with respect to programs applicable to crops planted for harvest in calendar year 1964 or any subsequent year and marketing years beginningin calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as an Effective Date of 1962 Amendment note under section 1301 of this title.
+Section effective only with respect to programs applicable to crops planted for harvest in calendar year 1964 or any subsequent year and marketing years beginning in calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as an Effective Date of 1962 Amendment note under section 1301 of this title.
 
 #### Inapplicability of Section
 

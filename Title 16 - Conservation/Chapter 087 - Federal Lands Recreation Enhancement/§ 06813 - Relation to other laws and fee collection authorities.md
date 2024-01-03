@@ -6,7 +6,7 @@ Nothing in this chapter shall authorize Federal hunting or fishing licenses or f
 
 #### (b) Relation to revenue allocation laws
 
-Amounts collected under this chapter, and the existence of a fee management agreement with a governmental entity under section 6805(a) of this title, may not be taken into account for the purposes of any of the following laws:
+Amounts collected under this chapter, and the existence of a fee management agreement with agovernmental entity under section 6805(a) of this title, may not be taken into account for the purposes of any of the following laws:
 
 &emsp;(1) The sixth paragraph under the heading "
 

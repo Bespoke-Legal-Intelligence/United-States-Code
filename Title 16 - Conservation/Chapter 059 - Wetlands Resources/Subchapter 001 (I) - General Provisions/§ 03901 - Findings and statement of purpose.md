@@ -34,7 +34,7 @@ It is the purpose of this chapter to promote, in concert with other Federal and 
 
 &emsp;(1) intensifying cooperative efforts among private interests and local, State, and Federal governments for the management and conservation of wetlands; and
 
-&emsp;(2) intensifying efforts to protect the wetlands of the Nation through acquisition in fee, easements or other interests and methods by local, State, and Federal governments and the private sector.
+&emsp;(2) intensifying efforts to protect the wetlands of the Nation through acquisition in fee,easements or other interests and methods by local, State, and Federal governments and the private sector.
 
 (Pub. L. 99–645, §2, Nov. 10, 1986, 100 Stat. 3582.)
 

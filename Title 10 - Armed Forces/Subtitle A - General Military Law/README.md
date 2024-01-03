@@ -31,6 +31,7 @@
 | [<b>22.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20022%20-%20National%20Geospatial-Intelligence%20Agency/README.md) | <b>National Geospatial  -  Intelligence Agency</b> | <b>441</b> |
 | [<b>23.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>480</b> |
 | [<b>24.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20024%20-%20Nuclear%20Posture/README.md) | <b>Nuclear Posture</b> | <b>491</b> |
+| [<b>25.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20025%20-%20Electromagnetic%20Warfare/README.md) | <b>Electronic Warfare </b><b><sup>2</sup></b> | <b>500</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -112,12 +113,7 @@
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>113.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20113%20-%20Defense%20Civilian%20Training%20Corps/README.md) | <b>Defense Civilian Training Corps</b> | <b>2200g.</b><b><sup>2</sup></b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>113.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20113%20-%20Defense%20Civilian%20Training%20Corps/README.md) | <b>Defense Civilian Training Corps</b> | <b>2200g</b> |
 | [<b>131.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Property/Chapter%20131%20-%20Planning%20and%20Coordination/README.md) | <b>Planning and Coordination</b> | <b>2201</b> |
 | [<b>133.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Property/Chapter%20133%20-%20Facilities%20for%20Reserve%20Components/README.md) | <b>Facilities for Reserve Components</b> | <b>2231</b> |
 | [<b>134.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Property/Chapter%20134%20-%20Miscellaneous%20Administrative%20Provisions/README.md) | <b>Miscellaneous Administrative Provisions</b> | <b>2241</b> |
@@ -162,13 +158,7 @@
 | [<b>201.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20A%20-%20General/Chapter%20201%20-%20Definitions/README.md) | <b>Definitions</b> | <b>3001</b> |
 | [<b>203.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20A%20-%20General/Chapter%20203%20-%20General%20Matters/README.md) | <b>General Matters</b> | <b>3061</b> |
 | [<b>205.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20A%20-%20General/Chapter%20205%20-%20Defense%20Acquisition%20System/README.md) | <b>Defense Acquisition System</b> | <b>3101</b> |
-| [<b>207.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20A%20-%20General/Chapter%20207%20-%20Budgeting%20and%20Appropriations/README.md) | <b>Budgeting and Appropriations Matters </b><b><sup>3</sup></b> |  |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| ---: | :---: | ---: |
-|  |  | <b>3131</b> |
+| [<b>207.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20A%20-%20General/Chapter%20207%20-%20Budgeting%20and%20Appropriations/README.md) | <b>Budgeting and Appropriations</b> | <b>3131</b> |
 | [<b>209.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20A%20-%20General/Chapter%20209%20-%20Operational%20Contract%20Support/README.md) | <b>Operational Contract Support</b> | <b>3151</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -180,7 +170,7 @@
 | [<b>221.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20B%20-%20Acquisition%20Planning/Chapter%20221%20-%20Planning%20and%20Solicitation%20Generally/README.md) | <b>Planning and Solicitation Generally</b> | <b>3201</b> |
 | [<b>222.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20B%20-%20Acquisition%20Planning/Chapter%20222%20-%20Independent%20Cost%20Estimation%20and%20Cost%20Analysis/README.md) | <b>Independent Cost Estimation and Cost Analysis</b> | <b>3221</b> |
 | [<b>223.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20B%20-%20Acquisition%20Planning/Chapter%20223%20-%20Other%20Provisions%20Relating%20to%20Planning%20and%20Solicitation%20Generally/README.md) | <b>Other Provisions Relating to Planning and Solicitation Generally</b> | <b>3241</b> |
-| [<b>225.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20B%20-%20Acquisition%20Planning/Chapter%20225%20-%20%5BReserved/README.md) | <b>Planning and Solicitation Relating to Particular Items or Services </b><b><sup>4</sup></b> | <b>3271</b> |
+| [<b>225.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20B%20-%20Acquisition%20Planning/Chapter%20225%20-%20%5BReserved/README.md) | <b>\[Reserved\]</b> | <b>3271</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -190,7 +180,7 @@
 | :--- | :---: | ---: |
 | [<b>241.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20C%20-%20Contracting%20Methods%20and%20Contract%20Types/Chapter%20241%20-%20Awarding%20of%20Contracts/README.md) | <b>Awarding of Contracts</b> | <b>3301</b> |
 | [<b>242.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20C%20-%20Contracting%20Methods%20and%20Contract%20Types/Chapter%20242%20-%20Specific%20Types%20of%20Contracts/README.md) | <b>Specific Types of Contracts</b> | <b>3321</b> |
-| [<b>243.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20C%20-%20Contracting%20Methods%20and%20Contract%20Types/Chapter%20243%20-%20Other%20Matters%20Relating%20to%20Awarding%20of%20Contracts/README.md) | <b>Other Matters Relating to Awarding and Types of Contracts </b><b><sup>3</sup></b> | <b>3341</b> |
+| [<b>243.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20C%20-%20Contracting%20Methods%20and%20Contract%20Types/Chapter%20243%20-%20Other%20Matters%20Relating%20to%20Awarding%20of%20Contracts/README.md) | <b>Other Matters Relating to Awarding and Types of Contracts </b><b><sup>2</sup></b> | <b>3341</b> |
 | [<b>244.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20C%20-%20Contracting%20Methods%20and%20Contract%20Types/Chapter%20244%20-%20Undefinitized%20Contractual%20Actions/README.md) | <b>Undefinitized Contractual Actions</b> | <b>3371</b> |
 | [<b>245.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20C%20-%20Contracting%20Methods%20and%20Contract%20Types/Chapter%20245%20-%20Task%20and%20Delivery%20Order%20Contracts%20%28Multiple%20Award%20Contracts%29/README.md) | <b>Task and Delivery Order Contracts (Multiple Award Contracts)</b> | <b>3401</b> |
 | [<b>247.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20C%20-%20Contracting%20Methods%20and%20Contract%20Types/Chapter%20247%20-%20Procurement%20of%20Commercial%20Products%20and%20Commercial%20Services/README.md) | <b>Procurement of Commercial Products and Commercial Services</b> | <b>3451</b> |
@@ -208,14 +198,14 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>271.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20D%20-%20General%20Contracting%20Provisions/Chapter%20271%20-%20Truthful%20Cost%20or%20Pricing%20Data%20%28Truth%20in%20Negotiations%29/README.md) | <b>Truthful Cost or Pricing Data (Truth in Negotiations)</b> | <b>3701</b> |
-| [<b>272.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20D%20-%20General%20Contracting%20Provisions/Chapter%20272%20-%20%5BReserved/README.md) | <b>Other Provisions Relating to Cost or Pricing Data </b><b><sup>4</sup></b> | <b>3721</b> |
+| [<b>272.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20D%20-%20General%20Contracting%20Provisions/Chapter%20272%20-%20%5BReserved/README.md) | <b>\[Reserved\]</b> | <b>3721</b> |
 | [<b>273.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20D%20-%20General%20Contracting%20Provisions/Chapter%20273%20-%20Allowable%20Costs/README.md) | <b>Allowable Costs</b> | <b>3741</b> |
 | [<b>275.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20D%20-%20General%20Contracting%20Provisions/Chapter%20275%20-%20Proprietary%20Contractor%20Data%20and%20Rights%20in%20Technical%20Data/README.md) | <b>Proprietary Contractor Data and Rights in Technical Data</b> | <b>3771</b> |
 | [<b>277.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20D%20-%20General%20Contracting%20Provisions/Chapter%20277%20-%20Contract%20Financing/README.md) | <b>Contract Financing</b> | <b>3801</b> |
 | [<b>279.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20D%20-%20General%20Contracting%20Provisions/Chapter%20279%20-%20Contractor%20Audits%20and%20Accounting/README.md) | <b>Contractor Audits and Accounting</b> | <b>3841</b> |
 | [<b>281.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20D%20-%20General%20Contracting%20Provisions/Chapter%20281%20-%20Claims%20and%20Disputes/README.md) | <b>Claims and Disputes</b> | <b>3861</b> |
 | [<b>283.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20D%20-%20General%20Contracting%20Provisions/Chapter%20283%20-%20%5BReserved/README.md) | <b>\[Reserved\]</b> |  |
-| [<b>287.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20D%20-%20General%20Contracting%20Provisions/Chapter%20287%20-%20Other%20Contracting%20Programs/README.md) | <b>Other Contracting Programs</b> | <b>3961 </b><b><sup>5</sup></b> |
+| [<b>287.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20D%20-%20General%20Contracting%20Provisions/Chapter%20287%20-%20Other%20Contracting%20Programs/README.md) | <b>Other Contracting Programs</b> | <b>3901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -225,31 +215,34 @@
 | :--- | :---: | ---: |
 | [<b>301.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20E%20-%20Research%20and%20Engineering/Chapter%20301%20-%20Research%20and%20Engineering%20Generally/README.md) | <b>Research and Engineering Generally</b> | <b>4001</b> |
 | [<b>303.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20E%20-%20Research%20and%20Engineering/Chapter%20303%20-%20Research%20and%20Engineering%20Activities/README.md) | <b>Research and Engineering Activities</b> | <b>4061</b> |
-| [<b>305.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20E%20-%20Research%20and%20Engineering/Chapter%20305%20-%20Universities/README.md) | <b>Universities</b> | <b>4131 </b><b><sup>6</sup></b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>305.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20E%20-%20Research%20and%20Engineering/Chapter%20305%20-%20Universities/README.md) | <b>Universities</b> | <b>4141</b> |
 | [<b>307.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20E%20-%20Research%20and%20Engineering/Chapter%20307%20-%20Test%20and%20Evaluation/README.md) | <b>Test and Evaluation</b> | <b>4171</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart f—major systems, major defense acquisition programs, and weapon systems development
+#### subpart f—major systems, major defense acquisition programs, and weapon systems development <sup>3</sup>
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>321.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20321%20-%20General%20Matters/README.md) | <b>General Matters</b> | <b>4201 </b><b><sup>7</sup></b> |
+| [<b>321.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20321%20-%20General%20Matters/README.md) | <b>General Matters</b> | <b>4201</b> |
+| [<b>322.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20322%20-%20Major%20Systems%20and%20Major%20Defense%20Acquisition%20Programs%20Generally/README.md) | <b>Major Systems and Major Defense Acquisition Programs Generally</b> | <b>4211</b> |
+| [<b>323.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20323%20-%20Life-Cycle%20and%20Sustainment/README.md) | <b>Life-Cycle and Sustainment</b> | <b>4321</b> |
+| [<b>324.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20324%20-%20Selected%20Acquisition%20Reports/README.md) | <b>Selected Acquisition Reports</b> | <b>4350</b> |
+| [<b>325.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20325%20-%20Cost%20Growth%E2%80%94Unit%20Cost%20Reports%20%28Nunn-McCurdy%29/README.md) | <b>Cost Growth-Unit Cost Reports (Nunn-McCurdy)</b> | <b>4371</b> |
+| <b>326.</b><b><sup>4</sup></b> | <b>Weapon Systems Development And </b><b><sup>5</sup></b> <b>Related Matters</b> | <b>4401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-|  |  |  |
-| :--- | :---: | ---: |
-| [<b>322.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20322%20-%20Major%20Systems%20and%20Major%20Defense%20Acquisition%20Programs%20Generally/README.md) | <b>Major Systems and Major Defense Acquisition Programs Generally</b> | <b>4211 </b><b><sup>7</sup></b> |
-| [<b>323.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20323%20-%20Life-Cycle%20and%20Sustainment/README.md) | <b>Life-Cycle And Sustainment</b> | <b>4321 </b><b><sup>7</sup></b> |
-| [<b>324.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20324%20-%20Selected%20Acquisition%20Reports/README.md) | <b>Program Status—Selected Acquisition Reports </b><b><sup>4</sup></b> | <b>4350 </b><b><sup>7</sup></b> |
-| [<b>325.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20325%20-%20Cost%20Growth%E2%80%94Unit%20Cost%20Reports%20%28Nunn-McCurdy%29/README.md) | <b>Cost Growth—Unit Cost Reports (Nunn-McCurdy)</b> | <b>4371 </b><b><sup>7</sup></b> |
-| [<b>327.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20327%20-%20Weapon%20Systems%20Development%20and%20Related%20Matters/README.md) | <b>Weapon Systems Development and Related Matters</b> | <b>4401 </b><b><sup>7</sup></b> |
+#### subpart f—major systems, major defense acquisition programs, and weapon systems development <sup>3</sup>
+
+|  |  |
+| :--- | :---: |
+| [<b>321.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20321%20-%20General%20Matters/README.md) | <b>General Matters</b> |
+| [<b>322.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20322%20-%20Major%20Systems%20and%20Major%20Defense%20Acquisition%20Programs%20Generally/README.md) | <b>Major Systems and Major Defense Acquisition Programs Generally</b> |
+| [<b>323.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20323%20-%20Life-Cycle%20and%20Sustainment/README.md) | <b>Life-Cycle And Sustainment</b> |
+| [<b>324.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20324%20-%20Selected%20Acquisition%20Reports/README.md) | <b>Program Status—Selected Acquisition Reports</b> |
+| [<b>325.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20325%20-%20Cost%20Growth%E2%80%94Unit%20Cost%20Reports%20%28Nunn-McCurdy%29/README.md) | <b>Cost Growth—Unit Cost Reports (Nunn-McCurdy)</b> |
+| [<b>327.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20F%20-%20Major%20Systems%2C%20Major%20Defense%20Acquisition%20Programs%2C%20and%20Weapon%20Systems%20Development/Chapter%20327%20-%20Weapon%20Systems%20Development%20and%20Related%20Matters/README.md) | <b>Weapon Systems Development and Related Matters</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -268,9 +261,9 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>361.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20H%20-%20Contract%20Management/Chapter%20361%20-%20Contract%20Administration/README.md) | <b>Contract Administration</b> | <b>4601</b> |
-| [<b>363.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20H%20-%20Contract%20Management/Chapter%20363%20-%20Prohibition%20and%20Penalties/README.md) | <b>Prohibitions and Penalties</b> | <b>4651</b> |
+| [<b>363.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20H%20-%20Contract%20Management/Chapter%20363%20-%20Prohibition%20and%20Penalties/README.md) | <b>Prohibitions and Penalties </b><b><sup>2</sup></b> | <b>4651</b> |
 | [<b>365.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20H%20-%20Contract%20Management/Chapter%20365%20-%20Contractor%20Workforce/README.md) | <b>Contractor Workforce</b> | <b>4701</b> |
-| [<b>367.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20H%20-%20Contract%20Management/Chapter%20367%20-%20Other%20Administrative%20Matters/README.md) | <b>Other Administrative and Miscellaneous Provisions</b> | <b>4751</b> |
+| [<b>367.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20H%20-%20Contract%20Management/Chapter%20367%20-%20Other%20Administrative%20Matters/README.md) | <b>Other Administrative and Miscellaneous Provisions </b><b><sup>2</sup></b> | <b>4751</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -280,7 +273,7 @@
 | :--- | :---: | ---: |
 | [<b>381.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20I%20-%20Defense%20Industrial%20Base/Chapter%20381%20-%20Defense%20Industrial%20Base%20Generally/README.md) | <b>Defense Industrial Base Generally</b> | <b>4801</b> |
 | [<b>382.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20I%20-%20Defense%20Industrial%20Base/Chapter%20382%20-%20Policies%20and%20Planning/README.md) | <b>Policies and Planning</b> | <b>4811</b> |
-| [<b>383.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20I%20-%20Defense%20Industrial%20Base/Chapter%20383%20-%20Development%2C%20Application%2C%20and%20Support%20of%20Dual-Use%20Technologies/README.md) | <b>Development, Application, \& Support of Dual-Use Technologies </b><b><sup>3</sup></b> | <b>4831</b> |
+| [<b>383.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20I%20-%20Defense%20Industrial%20Base/Chapter%20383%20-%20Development%2C%20Application%2C%20and%20Support%20of%20Dual-Use%20Technologies/README.md) | <b>Development, Application, and Support of Dual-Use Technologies</b> | <b>4831</b> |
 | [<b>384.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20I%20-%20Defense%20Industrial%20Base/Chapter%20384%20-%20Manufacturing%20Technology/README.md) | <b>Manufacturing Technology</b> | <b>4841</b> |
 | [<b>385.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20I%20-%20Defense%20Industrial%20Base/Chapter%20385%20-%20Other%20Technology%20Base%20Policies%20and%20Programs/README.md) | <b>Other Technology Base Policies and Programs</b> | <b>4851</b> |
 | [<b>387.</b>](Part%20005%20%28V%29%20-%20Acquisition/Subpart%20I%20-%20Defense%20Industrial%20Base/Chapter%20387%20-%20Small%20Business%20Programs/README.md) | <b>Small Business Programs</b> | <b>4901</b> |
@@ -293,6 +286,10 @@
 
 #### Amendments
 
+<b>2023</b>—Pub. L. 118–31, div. A, title XVIII, §1801(a)(1)(G), Dec. 22, 2023, 137 Stat. 683, which directed the insertion of new items for subpart F and chapters 321 to 326 after the item relating to chapter 307, was so executed, notwithstanding that items for subpart F and chapters 321 to 327 (which chapter items did not include designators indicating the first section of each chapter) had been added previously by Pub. L. 116–283, div. A, title XVIII, §1846(a), Jan. 1, 2021, 134 Stat. 4247. See 2021 Amendment note below.
+
+Pub. L. 118–31, div. A, title XVI, §1682(b), title XVIII, §1801(a)(1)(A)–(F), (H), Dec. 22, 2023, 137 Stat. 617, 682, 683, added items for chapters 25, 113, 207, 287, 305, and 383 and items for Reserved chapters 225 and 272 and struck out former items for chapters 113 "Defense Civilian Training Corps", 207 "Budgeting and Appropriations Matters", 225 "Planning and Solicitation Relating to Particular Items or Services", 272 "Other Provisions Relating to Cost or Pricing Data", 287 "Other Contracting Programs", 305 "Universities", and 383 "Development, Application, \& Support of Dual-Use Technologies".
+
 <b>2022</b>—Pub. L. 117–263, div. A, title VIII, §804(b), title X, §1081(a)(1), (e)(2), Dec. 23, 2022, 136 Stat. 2701, 2797, 2798, substituted "Definitions, Rules of Construction, Cross References, and Related Matters" for "Definitions" in item for chapter 1, struck out second item for chapter 19 "Cyber Matters", and added item for chapter 253 and struck out former item for chapter 253 "\[Reserved\]". Amendment to item for chapter 1 was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title XVII, §1701(i)(8)(A), (l)(2), Dec. 27, 2021, 135 Stat. 2142, 2144, which directed amendment of this analysis by substituting "\[Reserved\]" for "Foreign Acquisitions" and starting section number 3881 in item for chapter 283 and by adding item for chapter 287 and striking out former item for chapter 287 "Socioeconomic Programs", was executed by amending this analysis as directed, notwithstanding that other amendments by section 1701(i) and (l) of Pub. L. 117–81 were directed to Pub. L. 116–283, and not to the Code directly, and that such amendments are effective as if included in title XVIII of Pub. L. 116–283.
@@ -303,7 +300,7 @@ Pub. L. 117–81, div. A, title XVII, §1701(g), Dec. 27, 2021, 135 Stat. 2140, 
 
 Pub. L. 116–283, div. A, title XVIII, §§1841(a)(2), 1856(a), Jan. 1, 2021, 134 Stat. 4243, 4273, as amended by Pub. L. 117–81, div. A, title XVII, §1701(i)(9)(A), (u)(1), Dec. 27, 2021, 135 Stat. 2142, 2150, added items for subpart E and chapters 301 to 307 and item for Reserved chapter 343 and struck out former items for subpart E "special categories of contracting: major defense acquisition programs and major systems" including chapters 301 "Major Defense Acquisition Programs", 303 "Weapon Systems Development and Related Matters", and 305 "Other Matters Relating to Major Systems" and item for chapter 343 "Acquisition of Services".
 
-Pub. L. 116–283, div. A, title XVIII, §§1808(a)(4), 1811(a), 1816(a), 1821(a)(4), 1824(b), 1825(l), 1831(l), 1833(a)(2), 1846(a), 1851(d)(2), 1866(a), 1872(b)(2), 1873(f), 1880(b), 1881(b), 1882(a)(2), Jan. 1, 2021, 134 Stat. 4159, 4164, 4181, 4195, 4205, 4208, 4217, 4226, 4247, 4279, 4289, 4290, 4293, substituted "SERVICE, SUPPLY, AND PROPERTY" for "SERVICE, SUPPLY, AND PROCUREMENT" in heading of part IV and "Miscellaneous Provisions Relating to Property" for "Miscellaneous Procurement Provisions" in item for chapter 141, struck out items for chapters 137 "Procurement Generally", 139 "Research and Development", 140 "Procurement of Commercial Products and Commercial Services", 142 "Procurement Technical Assistance Cooperative Agreement Program", 144 "Major Defense Acquisition Programs", 144B "Weapon Systems Development and Related Matters", 148 "National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion", and 149 "Defense Acquisition System", added items for chapters 221 to 225, 241 to 244, 253, 257, 271, 272, and 275, item for subpart F and chapters 321 to 327, and items for chapters 341, 381 to 385, and 387 to 389 and struck out former items for chapters 221 "Planning and Solicitation Generally", 223 "Planning and Solicitation Relating to Particular Items or Services", 241 "Awarding of Contracts", 243 "Specific Types of Contracts", 253 "Emergency and Rapid Acquisitions", 271 "Truthful Cost or Pricing Data", 275 "Proprietary Contractor Data and Technical Data", and 285 "Small Business Programs", former item for subpart F "special categories of contracting: research, development, test, and evaluation" including chapters 321 "Research and Development Generally", 323 "Innovation", 325 "Department of Defense Laboratories", 327 "Research and Development Centers and Facilities", and 329 "Operational Test and Evaluation; Developmental Test and Evaluation", and former items for chapters 341 "Contracting for Performance of Civilian Commercial or Industrial Type Functions", 381 "Defense Industrial Base Generally", 383 "Loan Guarantee Programs", and 385 "Procurement Technical Assistance Cooperative Agreement Program".
+Pub. L. 116–283, div. A, title XVIII, §§1808(a)(4), 1811(a), 1816(a), 1821(a)(4), 1824(b), 1825(l), 1831(l), 1833(a)(2), 1846(a), 1851(d)(2), 1866(a), 1872(b)(2), 1873(f), 1880(b), 1881(b), 1882(a)(2), Jan. 1, 2021, 134 Stat. 4159, 4164, 4181, 4195, 4205, 4208, 4217, 4226, 4247, 4279, 4289, 4290, 4293, substituted "SERVICE, SUPPLY, AND PROPERTY" for "SERVICE, SUPPLY, AND PROCUREMENT" in heading of part IV and "Miscellaneous Provisions Relating to Property" for "Miscellaneous Procurement Provisions" in item for chapter 141, struck out items for chapters 137 "Procurement Generally", 139 "Research and Development", 140 "Procurement of Commercial Products and Commercial Services", 142 "Procurement Technical Assistance Cooperative Agreement Program", 144 "Major Defense Acquisition Programs", 144B "Weapon Systems Development and Related Matters", 148 "National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion", and 149 "Defense Acquisition System", added items for chapters 221 to 225, 241 to 244, 253, 257, 271, 272, and 275, item for subpart F and chapters 321 to 327, and items for chapters 341, 381 to 385, and 387 to 389 and struck out former items for chapters 221 "Planning and Solicitation Generally", 223 "Planning and Solicitation Relating to Particular Items or Services", 241 "Awarding of Contracts", 243 "Specific Types of Contracts", 253 "Emergency and Rapid Acquisitions", 271 "Truthful Cost or Pricing Data", 275 "Proprietary Contractor Data and Technical Data", and 285 "Small Business Programs", former item for subpart F "special categories of contracting: research, development, test, and evaluation" including chapters 321 "Research and Development Generally", 323 "Innovation", 325 "Department of Defense Laboratories", 327 "Research and Development Centers and Facilities", and 329 "Operational Test and Evaluation; Developmental Test and Evaluation", and former items for chapters 341 "Contracting for Performance of Civilian Commercialor Industrial Type Functions", 381 "Defense Industrial Base Generally", 383 "Loan Guarantee Programs", and 385 "Procurement Technical Assistance Cooperative Agreement Program".
 
 Pub. L. 116–283, title X, §1081(a)(1)–(3), Jan. 1, 2021, 134 Stat. 3870, added second item for chapter 19 and item for chapter 113 and substituted "2375" for "2377" in item for chapter 140.
 
@@ -373,7 +370,7 @@ Pub. L. 102–25, title VII, §701(e)(1), (2), Apr. 6, 1991, 105 Stat. 114, adde
 
 <b>1989</b>—Pub. L. 101–189, div. A, title VIII, §843(d)(2), title IX, §931(e)(2), title XVI, §1622(d)(2), Nov. 29, 1989, 103 Stat. 1517, 1535, 1605, substituted "Training and Education" for "Training" in item for part III, added item for chapter 111, and substituted "Cooperative Agreements" for "Acquisition and Cross-Servicing Agreements" in item for chapter 138.
 
-<b>1988</b>—Pub. L. 100–456, div. A, title III, §§342(a)(2), 344(b)(2), title VIII, §821(b)(2), title XI, §1104(b), Sept. 29, 1988, 102 Stat. 1961, 1962, 2016, 2046, substituted "Support for" for "Cooperation With" and "Agencies" for "Officials" in item for chapter 18, substituted "Defense Industrial Base" for "Buy American Requirements" initem for chapter 148, substituted "Property Records and Report of Theft or Loss of Certain Property" for "Property Records" in item for chapter 161, and added item for chapter 171.
+<b>1988</b>—Pub. L. 100–456, div. A, title III, §§342(a)(2), 344(b)(2), title VIII, §821(b)(2), title XI, §1104(b), Sept. 29, 1988, 102 Stat. 1961, 1962, 2016, 2046, substituted "Support for" for "Cooperation With" and "Agencies" for "Officials" in item for chapter 18, substituted "Defense Industrial Base" for "Buy American Requirements" in item for chapter 148, substituted "Property Records and Report of Theft or Loss of Certain Property" for "Property Records" in item for chapter 161, and added item for chapter 171.
 
 Pub. L. 100–370, §§1(c)(3), (e)(2), 2(a)(2), 3(a)(2), July 19, 1988, 102 Stat. 841, 845, 854, 855, added items for chapters 54, 134, 146, and 148.
 
@@ -437,17 +434,13 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 
 <i><sup>1</sup></i><i> Chapter heading amended by Pub. L. 116–92 without corresponding amendment of subtitle analysis.</i>
 
-<i><sup>2</sup></i><i> So in original. The period probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. Does not conform to chapter heading.</i>
 
-<i><sup>3</sup></i><i> So in original. Does not conform to chapter heading.</i>
+<i><sup>3</sup></i><i> See Amendment note below for Pub. L. 118–31, div. A, title XVIII, §1801(a)(1)(G).</i>
 
-<i><sup>4</sup></i><i> Chapter heading amended by Pub. L. 117–81 without corresponding amendment of subtitle analysis.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "327."</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be "3901".</i>
-
-<i><sup>6</sup></i><i> So in original. Probably should be "4141".</i>
-
-<i><sup>7</sup></i><i> Editorially supplied.</i>
+<i><sup>5</sup></i><i> So in original. Probably should not be capitalized.</i>
 
 
 ---

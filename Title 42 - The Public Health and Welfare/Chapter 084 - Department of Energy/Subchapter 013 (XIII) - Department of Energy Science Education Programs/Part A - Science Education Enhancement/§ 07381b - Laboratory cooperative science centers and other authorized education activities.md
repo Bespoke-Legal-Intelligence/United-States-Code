@@ -28,7 +28,7 @@ The Secretary is authorized to:
 
 &emsp;(12) Support graduate students and, through university-based cooperative programs, undergraduate students for the purpose of encouraging more students to pursue scientific and technical careers, with a particular focus on the recruitment of women and minority students.
 
-&emsp;(13) Establish a prefreshman enrichment program in which middle-school students attendsummer workshops on mathematics, science, and engineering conducted by universities on their campuses.
+&emsp;(13) Establish a prefreshman enrichment program in which middle-school students attend summer workshops on mathematics, science, and engineering conducted by universities on their campuses.
 
 &emsp;(14) Support competitive events for students under the supervision of teachers, designed to encourage student interest and knowledge in science and mathematics.
 

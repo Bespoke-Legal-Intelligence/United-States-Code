@@ -52,7 +52,7 @@ Considerations.—The Secretary shall consider addressing the following matters 
 
 (d)
 
-Submission to Congressional Committees.—(1) The Secretary shall submit a reporton each quadrennial quality of life review to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. The report shall include the following:
+Submission to Congressional Committees.—(1) The Secretary shall submit a report on each quadrennial quality of life review to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. The report shall include the following:
 
 &emsp;(A) The assumptions used in the review.
 
@@ -84,5 +84,5 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this s
 
 #### First Quadrennial Quality of Life Review
 
-Pub. L. 107–314, div. A, title V, §581(b), Dec. 2, 2002, 116 Stat. 2561, directed that the first quadrennial quality of life review under this section would be conducted during 2003, and that the report on such review was to be submitted not later than the date on which the President submitted the budget for fiscal year 2005 to Congress.
+Pub. L. 107–314, div. A, title V, §581(b), Dec. 2, 2002, 116 Stat. 2561, directed that the first quadrennial quality oflife review under this section would be conducted during 2003, and that the report on such review was to be submitted not later than the date on which the President submitted the budget for fiscal year 2005 to Congress.
 

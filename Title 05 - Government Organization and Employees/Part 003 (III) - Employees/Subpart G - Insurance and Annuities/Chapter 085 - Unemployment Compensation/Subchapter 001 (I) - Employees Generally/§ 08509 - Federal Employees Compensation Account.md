@@ -10,7 +10,7 @@
 
 (c)(1) Each employing agency shall deposit into the Account amounts equal to the expenditures incurred under this chapter on account of Federal service performed by employees and former employees of that agency.
 
-(2) Deposits required by paragraph (1) shall be made during each calendar quarter and the amount of the deposit to be made by any employing agency during any quarter shall be based on a determination by the Secretary of Labor as to the amounts of payments, madeprior to such quarter from the Account based on Federal service performed by employees of such agency after December 31, 1980, with respect to which deposit has not previously been made. The amount to be deposited by any employing agency during any calendar quarter shall be adjusted to take account of any overpayment or underpayment of deposit during any previous quarter for which adjustment has not already been made.
+(2) Deposits required by paragraph (1) shall be made during each calendar quarter and the amount of the deposit to be made by any employing agency during any quarter shall be based on a determination by the Secretary of Labor as to the amounts of payments, made prior to such quarter from the Account based on Federal service performed by employees of such agency after December 31, 1980, with respect to which deposit has not previously been made. The amount to be deposited by any employing agency during any calendar quarter shall be adjusted to take account of any overpayment or underpayment of deposit during any previous quarter for which adjustment has not already been made.
 
 (3) If any Federal agency does not deposit in the Federal Employees Compensation Account any amount before the date 30 days after the date on which the Secretary of Labor has notified such agency that it is required to so deposit such amount, the Secretary of Labor shall notify the Secretary of the Treasury of the failure to make such deposit and the Secretary of the Treasury shall transfer such amount to the Federal Employees Compensation Account from amounts otherwise appropriated to such Federal agency.
 
@@ -32,7 +32,7 @@
 
 (f) The Secretary of Labor is authorized to establish such rules and regulations as may be necessary or appropriate to carry out the provisions of this section.
 
-(g) Any funds appropriated after the establishment of the Account, for the making of payments for which expenditures are authorized to be made from moneys in the Account, shall be made to the Account; and there are hereby authorized to be appropriated to the Account, from time to time, such sums as may be necessary to assure that there will, at all times, be sufficient sums available in the Account to meet the expenditures authorized to be made from moneys therein.
+(g) Any funds appropriated after the establishment of the Account, for the making of payments for which expenditures are authorized to be made from moneys in the Account, shall be made to the Account; and there are hereby authorized to be appropriated to the Account, fromtime to time, such sums as may be necessary to assure that there will, at all times, be sufficient sums available in the Account to meet the expenditures authorized to be made from moneys therein.
 
 (h) For purposes of this section, the term "Federal service" includes Federal service as defined in section 8521(a).
 

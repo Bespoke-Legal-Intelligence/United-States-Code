@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(C) a full description of the methods used in, and the facilities and controls used for, the manufacture, processing, and, when relevant, packing and installation of, such tobacco product;
 
-&emsp;&emsp;(D) an identifying reference to any tobacco product standard under section 387g of this title which would be applicable to any aspect of such tobacco product, and either adequate information to show that such aspect of such tobacco product fully meets such tobacco product standard or adequate information to justify any deviation from such standard;
+&emsp;&emsp;(D) an identifying reference to any tobacco product standard under section 387g of thistitle which would be applicable to any aspect of such tobacco product, and either adequate information to show that such aspect of such tobacco product fully meets such tobacco product standard or adequate information to justify any deviation from such standard;
 
 &emsp;&emsp;(E) such samples of such tobacco product and of components thereof as the Secretary may reasonably require;
 
@@ -106,7 +106,7 @@
 
 #### (B) Restrictions on sale and distribution
 
-&emsp;&emsp;An order under subparagraph (A)(i) may require that the sale and distribution of thetobacco product be restricted but only to the extent that the sale and distribution of a tobacco product may be restricted under a regulation under section 387f(d) of this title.
+&emsp;&emsp;An order under subparagraph (A)(i) may require that the sale and distribution of the tobacco product be restricted but only to the extent that the sale and distribution of a tobacco product may be restricted under a regulation under section 387f(d) of this title.
 
 #### (2) Denial of application
 
@@ -146,7 +146,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, upon obtaining, where appropriate, advice on scientific matters from the Tobacco Products Scientific Advisory Committee, and after due notice and opportunity for informal hearing for a tobacco product for which an order was issued under subsection (c)(1)(A)(i), issue an order withdrawing the order if the Secretary finds—
+&emsp;The Secretary shall, upon obtaining, where appropriate, advice on scientific matters from the Tobacco Products Scientific AdvisoryCommittee, and after due notice and opportunity for informal hearing for a tobacco product for which an order was issued under subsection (c)(1)(A)(i), issue an order withdrawing the order if the Secretary finds—
 
 &emsp;&emsp;(A) that the continued marketing of such tobacco product no longer is appropriate for the protection of the public health;
 
@@ -168,7 +168,7 @@
 
 #### (2) Appeal
 
-&emsp;The holder of an application subject to an order issued under paragraph (1) withdrawingan order issued pursuant to subsection (c)(1)(A)(i) may, by petition filed on or before the 30th day after the date upon which such holder receives notice of such withdrawal, obtain review thereof in accordance with section 387l of this title.
+&emsp;The holder of an application subject to an order issued under paragraph (1) withdrawing an order issued pursuant to subsection (c)(1)(A)(i) may, by petition filed on or before the 30th day after the date upon which such holder receives notice of such withdrawal, obtain review thereof in accordance with section 387l of this title.
 
 #### (3) Temporary suspension
 
@@ -212,7 +212,7 @@ Pub. L. 117–103, div. P, title I, §111(d), Mar. 15, 2022, 136 Stat. 789, prov
 
 "(1)
 
-Transition period for all products.—With respect to a tobacco product that contains nicotine from any source other than tobacco and that was being marketed in the United States within 30 days after the date of enactment of this Act \[Mar. 15, 2022\], such product shall not be considered to be in violation of section 910 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387j) (relating to applications for review of certain tobacco products) during the 60-day period following the date of enactment of this Act.
+Transition period for all products.—With respect to a tobacco product that contains nicotine fromany source other than tobacco and that was being marketed in the United States within 30 days after the date of enactment of this Act \[Mar. 15, 2022\], such product shall not be considered to be in violation of section 910 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387j) (relating to applications for review of certain tobacco products) during the 60-day period following the date of enactment of this Act.
 
 "(2)
 

@@ -8,7 +8,7 @@ Pursuant to the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C.
 
 &emsp;&emsp;(A) of or for American citizens and nationals in foreign countries; and
 
-&emsp;&emsp;(B) of or for citizens and nationals of foreign countries in American private businesses, trade associations, unions, chambersof commerce, and local, State, and Federal Government agencies, located in or outside the United States; and
+&emsp;&emsp;(B) of or for citizens and nationals of foreign countries in American private businesses, trade associations, unions, chambers of commerce, and local, State, and Federal Government agencies, located in or outside the United States; and
 
 &emsp;(2) by financing visits and interchanges between the United States and countries in transition from totalitarianism to democracy.
 

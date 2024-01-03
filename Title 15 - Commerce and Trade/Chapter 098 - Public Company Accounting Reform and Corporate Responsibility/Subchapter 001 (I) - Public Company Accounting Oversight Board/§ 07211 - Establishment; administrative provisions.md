@@ -42,7 +42,7 @@ The members of the Board shall take such action (including hiring of staff, prop
 
 #### (3) Full-time independent service
 
-&emsp;Each member of the Board shall serve on a full-time basis, and may not, concurrent with service on the Board, be employed by any other person or engage in any other professional or business activity. No member of the Board may share in any of the profits of, or receive payments from, a public accounting firm (or any other person, as determined by rule of the Commission), other than fixed continuing payments, subject to such conditions as the Commission may impose, under standard arrangements for the retirement of members of public accounting firms.
+&emsp;Each member of the Board shall serve on a full-time basis, and may not, concurrent withservice on the Board, be employed by any other person or engage in any other professional or business activity. No member of the Board may share in any of the profits of, or receive payments from, a public accounting firm (or any other person, as determined by rule of the Commission), other than fixed continuing payments, subject to such conditions as the Commission may impose, under standard arrangements for the retirement of members of public accounting firms.
 
 #### (4) Appointment of Board members
 
@@ -108,7 +108,7 @@ The rules of the Board shall, subject to the approval of the Commission—
 
 #### (h) Annual report to the Commission
 
-The Board shall submit an annual report (including its audited financial statements) to the Commission, and the Commission shall transmit a copy of that report to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives, not later than 30 days after the date of receipt of that report by the Commission.
+The Board shall submit an annual report (including its audited financial statements) to the Commission, and the Commission shall transmita copy of that report to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives, not later than 30 days after the date of receipt of that report by the Commission.
 
 (Pub. L. 107–204, title I, §101, July 30, 2002, 116 Stat. 750; Pub. L. 111–203, title IX, §982(b), July 21, 2010, 124 Stat. 1928.)
 
@@ -122,7 +122,7 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), 
 
 #### Constitutionality
 
-For information regarding the constitutionality of certain provisions of this section, see the Table of LawsHeld Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
+For information regarding the constitutionality of certain provisions of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 

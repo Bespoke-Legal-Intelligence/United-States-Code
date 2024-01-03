@@ -28,7 +28,7 @@ Launch.—The term "launch" means to place, or attempt to place, a launch vehicl
 
 &emsp;(6)
 
-Launch services.—The term "launch services" means activities involved in the preparation of a launch vehicle and its payload for launch and the conduct of a launch.
+Launch services.—The term "launch services" means activities involved in thepreparation of a launch vehicle and its payload for launch and the conduct of a launch.
 
 &emsp;(7)
 

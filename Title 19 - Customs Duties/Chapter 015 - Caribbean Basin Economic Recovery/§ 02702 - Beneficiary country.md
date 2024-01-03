@@ -16,7 +16,7 @@
 
 &emsp;(F) The term "former beneficiary country" means a country that ceases to be designated as a beneficiary country under this chapter because the country has become a party to a free trade agreement with the United States.
 
-(2) If the President has designated any country as a beneficiary country for purposes of this chapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless,at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
+(2) If the President has designated any country as a beneficiary country for purposes of this chapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
 
 #### (b) Countries eligible for designation as beneficiary countries; conditions
 
@@ -95,7 +95,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;(9) the extent to which such country provides under its law adequate and effective means for foreign nationals to secure, exercise, and enforce exclusive rights in intellectual property, including patent, trademark, and copyright rights;
 
-&emsp;(10) the extent to which such country prohibits its nationals from engaging in the broadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent; and
+&emsp;(10) the extent to which such country prohibits its nationals from engaging in thebroadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent; and
 
 &emsp;(11) the extent to which such country is prepared to cooperate with the United States in the administration of the provisions of this chapter.
 
@@ -171,7 +171,7 @@ This chapter, referred to in subsec. (e)(1)(B), was in the original "this subtit
 
 #### Codification
 
-Subsec. (d) of this section amended general headnote 3(a) of the Tariff Schedules of the United States. The Tariff Schedules were replaced by the Harmonized Tariff Schedule of the United States. See References in Text note above.
+Subsec. (d) of this section amended general headnote 3(a) of the Tariff Schedules of the United States. TheTariff Schedules were replaced by the Harmonized Tariff Schedule of the United States. See References in Text note above.
 
 #### Amendments
 

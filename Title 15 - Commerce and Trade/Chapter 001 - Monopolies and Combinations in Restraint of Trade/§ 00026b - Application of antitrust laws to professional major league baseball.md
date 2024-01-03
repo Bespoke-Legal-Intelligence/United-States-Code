@@ -6,7 +6,7 @@ Subject to subsections (b) through (d), the conduct, acts, practices, or agreeme
 
 #### (b) Limitation of section
 
-No court shall rely on the enactment of this section as a basis for changing the application of the antitrust laws to any conduct, acts, practices, or agreements other than those set forth in subsection (a). This section does not create, permit or imply a cause of action by which to challenge under the antitrust laws, or otherwise apply the antitrust laws to, any conduct, acts, practices, or agreements that do not directly relate to or affect employment of major league baseball players to play baseball at the major league level, including but not limited to—
+No court shall rely on the enactment of this section as a basis for changing the application ofthe antitrust laws to any conduct, acts, practices, or agreements other than those set forth in subsection (a). This section does not create, permit or imply a cause of action by which to challenge under the antitrust laws, or otherwise apply the antitrust laws to, any conduct, acts, practices, or agreements that do not directly relate to or affect employment of major league baseball players to play baseball at the major league level, including but not limited to—
 
 &emsp;(1) any conduct, acts, practices, or agreements of persons engaging in, conducting or participating in the business of organized professional baseball relating to or affecting employment to play baseball at the minor league level, any organized professional baseball amateur or first-year player draft, or any reserve clause as applied to minor league players;
 
@@ -52,7 +52,7 @@ Only a major league baseball player has standing to sue under this section. For 
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.
 
-Public Law 87–331, referred to in subsec. (b)(4), is Pub. L. 87–331, Sept. 30, 1961, 75 Stat. 732, which is classified generally to chapter 32 (§1291 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Public Law 87–331, referred to in subsec. (b)(4), is Pub. L. 87–331, Sept. 30, 1961, 75 Stat. 732, which is classifiedgenerally to chapter 32 (§1291 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -62,5 +62,5 @@ Another section 27 of act Oct. 15, 1914, ch. 323, was renumbered section 28 and 
 
 #### Purpose
 
-Pub. L. 105–297, §2, Oct. 27, 1998, 112 Stat. 2824, provided that: "It is the purpose of this legislation to statethat major league baseball players are covered under the antitrust laws (i.e., that major league baseball players will have the same rights under the antitrust laws as do other professional athletes, e.g., football and basketball players), along with a provision that makes it clear that the passage of this Act \[enacting this section and provisions set out as a note under section 1 of this title\] does not change the application of the antitrust laws in any other context or with respect to any other person or entity."
+Pub. L. 105–297, §2, Oct. 27, 1998, 112 Stat. 2824, provided that: "It is the purpose of this legislation to state that major league baseball players are covered under the antitrust laws (i.e., that major league baseball players will have the same rights under the antitrust laws as do other professional athletes, e.g., football and basketball players), along with a provision that makes it clear that the passage of this Act \[enacting this section and provisions set out as a note under section 1 of this title\] does not change the application of the antitrust laws in any other context or with respect to any other person or entity."
 

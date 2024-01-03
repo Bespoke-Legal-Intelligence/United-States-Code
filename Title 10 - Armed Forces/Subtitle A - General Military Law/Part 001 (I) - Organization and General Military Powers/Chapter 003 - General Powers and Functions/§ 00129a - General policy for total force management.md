@@ -14,11 +14,15 @@ Delegation of Responsibilities.—The Secretary shall delegate responsibility fo
 
 &emsp;(1) The Under Secretary of Defense for Personnel and Readiness shall have overall responsibility for guidance to implement such policies and procedures.
 
-&emsp;(2) The Secretaries of the military departments and the heads of the Defense Agencies shall have overall responsibility for the requirements determination, planning, programming, and budgeting for such policies and procedures.
+&emsp;(2) The Secretaries of the military departments and the heads of the Defense Agencies shall have overall responsibility for the requirements determination, planning, programming, and budgeting for such policies and procedures. The Secretary of Defense shall ensure that the requirements determination, planning, programming, and budgeting conducted under this paragraph considers all components of the total force (including active and reserve military, the civilian workforce, and contract support) in a holistic manner—
+
+&emsp;&emsp;(A) to avoid duplication of efforts and waste of resources attributable to a component working outside the scope of its responsibilities; and
+
+&emsp;&emsp;(B) to ensure that risk, cost, and mission validation and prioritization considerations are consistent with the national defense strategy.
 
 &emsp;(3) The Under Secretary of Defense for Acquisition and Sustainment shall be responsible for ensuring that the defense acquisition system, as defined in section 3001 of this title, is consistent with such policies and procedures and with implementation pursuant to paragraph (1).
 
-&emsp;(4) The Under Secretary of Defense (Comptroller) shall be responsible for ensuring that the budget for the Department of Defense is consistent with such policies and procedures. The Under Secretary shall notify the congressional defense committees of any deviations from such policies and procedures that are recommended in the budget.
+&emsp;(4) The Under Secretary of Defense (Comptroller) shall be responsible for ensuring thatthe budget for the Department of Defense is consistent with such policies and procedures. The Under Secretary shall notify the congressional defense committees of any deviations from such policies and procedures that are recommended in the budget.
 
 (d)
 
@@ -68,7 +72,7 @@ Performance of Civilian Functions by Military Personnel.—(1) Functions perform
 
 (2) In determining the workforce mix between civilian and military personnel, the Secretary of a military department shall reserve military personnel for the performance of the functions that, in the estimation of the Secretary, are required to be performed by military personnel in order to achieve national defense goals or in order to enable the proper functioning of the military department. In making workforce decisions, the Secretary shall account for the relative budgetary impact of military versus civilian personnel in determining the functions required to be performed by military personnel.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(b)(2), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 112–81, div. A, title IX, §931(a), Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–328, div. A, title IX, §914, Dec. 23, 2016, 130 Stat. 2350; Pub. L. 115–91, div. A, title X, §§1051(a)(6)(B), 1081(a)(5), Dec. 12, 2017, 131 Stat. 1560, 1594; Pub. L. 115–232, div. A, title IX, §933, Aug. 13, 2018, 132 Stat. 1938; Pub. L. 116–92, div. A, title IX, §902(1), title XI, §1106, Dec. 20, 2019, 133 Stat. 1542, 1597; Pub. L. 116–283, div. A, title IX, §912, title XVIII, §§1808(d)(1), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3802, 4160, 4294.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(b)(2), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 112–81, div. A, title IX, §931(a), Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–328, div. A, title IX, §914, Dec. 23, 2016, 130 Stat. 2350; Pub. L. 115–91, div. A, title X, §§1051(a)(6)(B), 1081(a)(5), Dec. 12, 2017, 131 Stat. 1560, 1594; Pub. L. 115–232, div. A, title IX, §933, Aug. 13, 2018, 132 Stat. 1938; Pub. L. 116–92, div. A, title IX, §902(1), title XI, §1106, Dec. 20, 2019, 133 Stat. 1542, 1597; Pub. L. 116–283, div. A, title IX, §912, title XVIII, §§1808(d)(1), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3802, 4160, 4294; Pub. L. 118–31, div. A, title IX, §911, Dec. 22, 2023, 137 Stat. 364.)
 
 #### <b>Editorial Notes</b>
 
@@ -77,6 +81,8 @@ Performance of Civilian Functions by Military Personnel.—(1) Functions perform
 Provisions similar to those in this section were contained in section 115(b)(5) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c)(2). Pub. L. 118–31 inserted at end "The Secretary of Defense shall ensure that the requirements determination, planning, programming, and budgeting conducted under this paragraph considers all components of the total force (including active and reserve military, the civilian workforce, and contract support) in a holistic manner—" and added subpars. (A) and (B).
 
 <b>2021</b>—Subsec. (b). Pub. L. 116–283, §912, inserted at end "The Secretary may not reduce the civilian workforce programmed full-time equivalent levels unless the Secretary conducts an appropriate analysis of the impacts of such reductions on workload, military force structure, lethality, readiness, operational effectiveness, stress on the military force, and fully burdened costs."
 
@@ -180,7 +186,7 @@ Elements.—The policy required under paragraph (1) shall include the following 
 
 &emsp;&emsp;"(A) Establishment and assignment of responsibilities and authorities within the Department for oversight and execution of the planning, organization, and management of the programs to reestablish the readiness of redeployed operating forces.
 
-&emsp;&emsp;"(B) Guidance concerning priorities, goals, objectives, timelines, and resources to reestablish the readiness of redeployed operating forces in support of national defense objectives and combatant command requirements.
+&emsp;&emsp;"(B) Guidance concerning priorities, goals, objectives, timelines, and resources to reestablish thereadiness of redeployed operating forces in support of national defense objectives and combatant command requirements.
 
 &emsp;&emsp;"(C) Oversight reporting requirements and metrics for the evaluation of Department of Defense and military department progress on restoring the readiness of redeployed operating forces in accordance with the policy required under paragraph (1).
 
@@ -220,7 +226,7 @@ Pub. L. 112–239, div. A, title IX, §955, Jan. 2, 2013, 126 Stat. 1896, which 
 
 #### Conversion of Military Positions to Civilian Positions
 
-Pub. L. 104–106, div. A, title X, §1032, Feb. 10, 1996, 110 Stat. 429, as amended by Pub. L. 104–201, div. A, title XVI, §1601, Sept. 23, 1996, 110 Stat. 2734, directed Secretary of Defense, by Sept. 30, 1996, to convert at least 3,000 military positions to civilian positions and, notlater than Mar. 31, 1996, submit to Congress a plan for the implementation of conversion.
+Pub. L. 104–106, div. A, title X, §1032, Feb. 10, 1996, 110 Stat. 429, as amended by Pub. L. 104–201, div. A, title XVI, §1601, Sept. 23, 1996, 110 Stat. 2734, directed Secretary of Defense, by Sept. 30, 1996, to convert at least 3,000 military positions to civilian positions and, not later than Mar. 31, 1996, submit to Congress a plan for the implementation of conversion.
 
 #### Prohibition on Use of Funds To Assign Supervisor's Title or Grade Based Upon Number of People Supervised
 

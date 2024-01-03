@@ -14,7 +14,7 @@ Not later than July 1, 2025, the Secretary, in coordination with the Administrat
 
 &emsp;(2) Outlines the Federal authorities through which States may finance and enhance under Medicaid and CHIP the availability of crisis response services across each stage of the continuum of crisis response services.
 
-&emsp;(3) Addresses how States under Medicaid and CHIP may support the ongoing implementation of crisis call centers, including 988 crisis services hotlines, and how Medicaid administrative funding, including enhanced matching, and the Medicaid Information Technology Architecture 3.0 framework, may be used to establish or enhance regional or statewide crisis call centers, including 988 crisis services hotlines, that coordinate in real time.
+&emsp;(3) Addresses how States under Medicaid and CHIP may support the ongoing implementation of crisis call centers, including 988 crisis services hotlines, and how Medicaid administrative funding, including enhanced matching, and the Medicaid Information Technology Architecture 3.0 framework, may be used to establish or enhance regional or statewide crisiscall centers, including 988 crisis services hotlines, that coordinate in real time.
 
 &emsp;(4) Identifies how States under Medicaid and CHIP may support access to crisis response services that are responsive to the needs of children, youth, and families, including through CHIP health services initiatives, behavioral disorder-specific crisis response, trained peer support services, and establishing or enhancing crisis call centers that are youth-focused.
 
@@ -70,5 +70,5 @@ In this section:
 
 #### Codification
 
-Section was enacted as part of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP,and Strengthening Public Health Act of 2022 and also as part of the Consolidated Appropriations Act, 2023, and not as part of the Social Security Act which comprises this chapter.
+Section was enacted as part of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022 and also as part of the Consolidated Appropriations Act, 2023, and not as part of the Social Security Act which comprises this chapter.
 

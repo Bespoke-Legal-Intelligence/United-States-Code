@@ -18,7 +18,7 @@
 
 #### (B) Clarification
 
-&emsp;&emsp;A State administering a short-time compensation program that does not meet the definition of a short-time compensation program under section 3306(v) of title 26, and a State with an agreement under section 9027 of this title, shall not be eligible to receive a grant under this section until such time as the State law of the State provides for payments under a short-time compensation program that meets such definition and such law.
+&emsp;&emsp;A State administering a short-time compensation program that does not meet thedefinition of a short-time compensation program under section 3306(v) of title 26, and a State with an agreement under section 9027 of this title, shall not be eligible to receive a grant under this section until such time as the State law of the State provides for payments under a short-time compensation program that meets such definition and such law.
 
 #### (b) Amount of grants
 

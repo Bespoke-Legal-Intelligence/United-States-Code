@@ -24,7 +24,7 @@ A State seeking a grant under this section shall submit an application to the At
 
 The amount of a grant to a State under this section shall be in an amount that is not greater than 10 percent of the average of the total amount of funding of the 3 most recent awards that the State received under the following grant programs:
 
-&emsp;(1) Part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C.10441 et seq.) (commonly referred to as the "STOP Violence Against Women Formula Grant Program").
+&emsp;(1) Part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10441 et seq.) (commonly referred to as the "STOP Violence Against Women Formula Grant Program").
 
 &emsp;(2) Section 12511 of this title (commonly referred to as the "Sexual Assault Services Program").
 

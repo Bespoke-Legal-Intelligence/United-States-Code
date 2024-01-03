@@ -16,7 +16,7 @@ The Secretary of State, in collaboration with the United State Agency for Intern
 
 &emsp;(7) working with community and national governments to develop relevant policy and regulatory frameworks to enable and promote community conservation programs, including supporting law enforcement engagement with wildlife protection authorities to promote information-sharing; and
 
-&emsp;(8) working with national governments to ensure that communities have timely and effective support from national authorities tomitigate risks that communities may face when engaging in anti-poaching and anti-trafficking activities.
+&emsp;(8) working with national governments to ensure that communities have timely and effective support from national authorities to mitigate risks that communities may face when engaging in anti-poaching and anti-trafficking activities.
 
 (Pub. L. 114–231, title IV, §404, Oct. 7, 2016, 130 Stat. 955.)
 

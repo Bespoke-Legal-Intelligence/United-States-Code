@@ -8,7 +8,7 @@ Congress finds that—
 
 &emsp;(2) virtually all domestically produced kiwifruit are grown in the State of California, although there is potential for production in many other areas of the United States;
 
-&emsp;(3) kiwifruit move in interstate and foreign commerce, and kiwifruit that do not move in channels of commerce directly burden or affect interstate commerce;
+&emsp;(3) kiwifruit move in interstate and foreign commerce, and kiwifruit that do not move inchannels of commerce directly burden or affect interstate commerce;
 
 &emsp;(4) in recent years, large quantities of kiwifruit have been imported into the United States;
 

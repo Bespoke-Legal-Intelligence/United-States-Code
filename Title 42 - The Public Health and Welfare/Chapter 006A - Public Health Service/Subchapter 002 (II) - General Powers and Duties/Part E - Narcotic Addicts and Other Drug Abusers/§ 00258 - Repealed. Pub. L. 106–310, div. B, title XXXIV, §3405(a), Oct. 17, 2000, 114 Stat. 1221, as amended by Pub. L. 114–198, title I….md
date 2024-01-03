@@ -6,5 +6,5 @@ Section, acts July 1, 1944, ch. 373, title III, §342, 58 Stat. 699; 1953 Reorg.
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–198, title I, §110(b), July 22, 2016, 130 Stat. 710, provided that the amendment made by section 110(b) (amending directory language of section 3405(a)of Pub. L. 106–310, which repealed this section) is effective as if included in the enactment of Pub. L. 106–310.
+Pub. L. 114–198, title I, §110(b), July 22, 2016, 130 Stat. 710, provided that the amendment made by section 110(b) (amending directory language of section 3405(a) of Pub. L. 106–310, which repealed this section) is effective as if included in the enactment of Pub. L. 106–310.
 

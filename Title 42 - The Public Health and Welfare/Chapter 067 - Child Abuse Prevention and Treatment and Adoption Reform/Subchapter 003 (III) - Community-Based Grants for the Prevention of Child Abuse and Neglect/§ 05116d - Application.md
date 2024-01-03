@@ -12,7 +12,7 @@ A grant may not be made to a State under this subchapter unless an application t
 
 &emsp;(5) an assurance that funds received under this subchapter will supplement, not supplant, other State and local public funds designated for the start up, maintenance, expansion, and redesign of community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect;
 
-&emsp;(6) a description of the State's capacity to ensure the meaningful involvement of parentswho are consumers, of family advocates, and of adult former victims of child abuse or neglect, who can provide leadership in the planning, implementation, and evaluation of the programs and policy decisions of the applicant agency in accomplishing the desired outcomes for such efforts;
+&emsp;(6) a description of the State's capacity to ensure the meaningful involvement of parents who are consumers, of family advocates, and of adult former victims of child abuse or neglect, who can provide leadership in the planning, implementation, and evaluation of the programs and policy decisions of the applicant agency in accomplishing the desired outcomes for such efforts;
 
 &emsp;(7) a description of the criteria that the entity will use to develop, or select and fund, community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect as part of network development, expansion, or enhancement;
 

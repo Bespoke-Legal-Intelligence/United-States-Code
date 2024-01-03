@@ -46,7 +46,7 @@ Subsecs. (c), (d). Pub. L. 109–163, §909(a)(3), added subsecs. (c) and (d).
 
 Subsec. (b). Pub. L. 107–107, §1410(a)(1), struck out "maintained as a separate establishment" after "available at a facility" in second sentence.
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–160 added second and third sentences and struck out former second sentence which read as follows: "Secondary and tertiary hospitalcare for residents that is not available at the Retirement Home shall be obtained through agreements with facilities administered by the Secretary of Veterans Affairs or the Secretary of Defense or at private facilities."
+<b>1993</b>—Subsec. (b). Pub. L. 103–160 added second and third sentences and struck out former second sentence which read as follows: "Secondary and tertiary hospital care for residents that is not available at the Retirement Home shall be obtained through agreements with facilities administered by the Secretary of Veterans Affairs or the Secretary of Defense or at private facilities."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

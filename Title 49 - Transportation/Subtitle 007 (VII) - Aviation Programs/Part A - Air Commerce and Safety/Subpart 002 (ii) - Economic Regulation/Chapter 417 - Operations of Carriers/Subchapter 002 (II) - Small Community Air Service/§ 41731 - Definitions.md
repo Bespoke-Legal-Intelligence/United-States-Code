@@ -150,7 +150,7 @@ Limitation.—The Secretary may not require air carriers to participate in the p
 
 #### Measurement of Highway Miles for Purposes of Determining Eligibility of Essential Air Service Subsidies
 
-Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, §4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, §5(k), Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–69, §5(k), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(k), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(k), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(k), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, §431, Feb. 14, 2012, 126 Stat. 100; Pub. L. 114–55, title I, §102(g), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(f), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(g), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §102(g), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–141, div. M, title I, §102(f), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title IV, §457, Oct. 5, 2018, 132 Stat. 3350, provided that:
+Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, §4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, §5(k), Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–69, §5(k), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(k), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(k), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(k), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, §431, Feb. 14, 2012, 126 Stat. 100; Pub. L. 114–55, title I, §102(g), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(f), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(g), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §102(g), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–141, div. M, title I, §102(f), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title IV, §457, Oct. 5, 2018, 132 Stat. 3350; Pub. L. 118–15, div. B, title II, §2202(m), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(m), Dec. 26, 2023, 137 Stat. 1114, provided that:
 
 "(a)
 
@@ -174,7 +174,7 @@ Eligibility Determination.—Not later than 60 days after receiving a request un
 
 "(d)
 
-Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on September 30, 2023."
+Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on March 8, 2024."
 
 \[Pub. L. 110–190, §4(d)(2), Feb. 28, 2008, 122 Stat. 644, provided that: "The amendment made by paragraph (1) \[amending section 409(d) of Pub. L. 108–176, set out above\] shall take effect on September 29, 2007, and shall apply with respect to any final order issued under section 409(c) of such Act \[section 409(c) of Pub. L. 108–176, set out above\] that was in effect on such date."\]
 
@@ -224,7 +224,7 @@ Reduction in Subsidy-per-passenger.—
 
 &emsp;\["(1)
 
-In general.—The Secretary shall waive application of the subsidy-per-passenger cap described under subsection (c) if the Secretary finds that the community's subsidy-per-passenger for a fiscal year is lower than the subsidy-per-passenger for any of the 3 previous fiscal years.
+In general.—The Secretary shall waive application of the subsidy-per-passenger cap describedunder subsection (c) if the Secretary finds that the community's subsidy-per-passenger for a fiscal year is lower than the subsidy-per-passenger for any of the 3 previous fiscal years.
 
 &emsp;\["(2)
 

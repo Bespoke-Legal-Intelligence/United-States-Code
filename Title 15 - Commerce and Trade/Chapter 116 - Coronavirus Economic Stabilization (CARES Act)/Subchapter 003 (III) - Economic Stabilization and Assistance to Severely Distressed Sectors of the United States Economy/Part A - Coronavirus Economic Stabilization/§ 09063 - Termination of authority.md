@@ -46,7 +46,7 @@ Except as provided in subsection (b), on December 31, 2020, the authority provid
 
 #### (B) Exception
 
-&emsp;&emsp;The fund established under section 5302 of title 31 shall not be available for any program or facility established under section 343(3) of title 12 that is the same as any such program or facility in which the Secretary made an investment pursuant to section 9042(b)(4) of this title, except the Term Asset-Backed Securities Loan Facility.
+&emsp;&emsp;The fund established under section 5302 of title 31 shall not be available for any program or facility established under section343(3) of title 12 that is the same as any such program or facility in which the Secretary made an investment pursuant to section 9042(b)(4) of this title, except the Term Asset-Backed Securities Loan Facility.
 
 (Pub. L. 116–136, div. A, title IV, §4029, Mar. 27, 2020, 134 Stat. 497; Pub. L. 116–260, div. N, title X, §1005, Dec. 27, 2020, 134 Stat. 2146.)
 

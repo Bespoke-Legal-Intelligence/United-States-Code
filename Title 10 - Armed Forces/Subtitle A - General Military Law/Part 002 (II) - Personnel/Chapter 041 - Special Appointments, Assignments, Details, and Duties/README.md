@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [711\.](%C2%A7%2000711%20-%20Senior%20members%20of%20Military%20Staff%20Committee%20of%20United%20Nations%20appointment.md) | Senior members of Military Staff Committee of United Nations: appointment. |
+| [711\.](%C2%A7%2000711%20-%201%20Senior%20members%20of%20Military%20Staff%20Committee%20of%20United%20Nations%20appointment.md) | Senior members of Military Staff Committee of United Nations: appointment. |
 | [711a.](%C2%A7%2000711a%20-%20American%20National%20Red%20Cross%20detail%20of%20commissioned%20officers.md) | American National Red Cross: detail of commissioned officers. |
 | [712\.](%C2%A7%2000712%20-%20Foreign%20governments%20detail%20to%20assist.md) | Foreign governments: detail to assist. |
 | [713\.](%C2%A7%2000713%20-%20State%20Department%20assignment%20or%20detail%20as%20couriers%20and%20building%20inspectors.md) | State Department: assignment or detail as couriers and building inspectors. |
@@ -139,7 +139,7 @@ Criteria for selection.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Chairman and the Administrator shall select participants for the exchangeprogram established under subsection (a) from among mid-career employees and based on—
+In general.—The Chairman and the Administrator shall select participants for the exchange program established under subsection (a) from among mid-career employees and based on—
 
 &emsp;&emsp;&emsp;"(i) the qualifications and desire to participate in the program of the employee; and
 
@@ -175,7 +175,7 @@ Reports on Details and Fellowships of Long Duration.—Whenever a member of the 
 
 "(b)
 
-Reports on Certain Military Details and Fellowships.—If a member of the Armed Forces is assigned to a covered legislative detail or fellowship as the last tour of duty of such member before retirement or separation from the Armed Forces in contravention of the regulations of the Department of Defense, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the assignment of such member to such covered legislative detail or fellowship. The report shall include a rationale for the waiver of the regulations of the Department in order to permit the detail or fellowship.
+Reports on Certain Military Details and Fellowships.—If a member of the Armed Forces is assigned to a covered legislative detail or fellowship as the last tour of duty of such member before retirement or separation from the Armed Forces in contravention of the regulations of the Department of Defense, the Secretary shall submit to the congressional defensecommittees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the assignment of such member to such covered legislative detail or fellowship. The report shall include a rationale for the waiver of the regulations of the Department in order to permit the detail or fellowship.
 
 "(c)
 
@@ -204,7 +204,7 @@ Covered Legislative Detail or Fellowship Defined.—In this section, the term 'c
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00711 - Senior members of Military Staff Committee of United Nations appointment](%C2%A7%2000711%20-%20Senior%20members%20of%20Military%20Staff%20Committee%20of%20United%20Nations%20appointment.md)
+- [&sect; 00711 - 1 Senior members of Military Staff Committee of United Nations appointment](%C2%A7%2000711%20-%201%20Senior%20members%20of%20Military%20Staff%20Committee%20of%20United%20Nations%20appointment.md)
 - [&sect; 00711a - American National Red Cross detail of commissioned officers](%C2%A7%2000711a%20-%20American%20National%20Red%20Cross%20detail%20of%20commissioned%20officers.md)
 - [&sect; 00712 - Foreign governments detail to assist](%C2%A7%2000712%20-%20Foreign%20governments%20detail%20to%20assist.md)
 - [&sect; 00713 - State Department assignment or detail as couriers and building inspectors](%C2%A7%2000713%20-%20State%20Department%20assignment%20or%20detail%20as%20couriers%20and%20building%20inspectors.md)

@@ -54,7 +54,7 @@ Par. (3)(B) to (D). Pub. L. 114–22, §116(b)(2), added subpar. (B) and redesig
 
 Par. (4). Pub. L. 114–22, §116(b)(3)(A), substituted "paragraph (3)" for "paragraph (2)" in introductory provisions.
 
-Par. (4)(A). Pub. L. 114–22, §116(b)(3)(B), substituted "30 days" for "60 days" and inserted "and a photographtaken during the previous 180 days" after "dental records".
+Par. (4)(A). Pub. L. 114–22, §116(b)(3)(B), substituted "30 days" for "60 days" and inserted "and a photograph taken during the previous 180 days" after "dental records".
 
 Par. (4)(B), (C). Pub. L. 114–22, §116(b)(3)(C), (E), struck out "and" at end of subpar. (B) and added subpar. (C). Former subpar. (C) redesignated (D).
 

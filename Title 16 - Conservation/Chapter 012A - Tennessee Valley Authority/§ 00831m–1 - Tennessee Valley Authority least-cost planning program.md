@@ -44,7 +44,7 @@ Before the selection and addition of a major new energy resource on the Tennesse
 
 #### (e) Exemption from certain requirements
 
-The Tennessee Valley Authority shall not be subject to the least-cost planning requirementscontained in section 2621(d) of this title or any similar requirement which might arise out of the Tennessee Valley Authority's electric power transactions with the Southeastern Power Administration.
+The Tennessee Valley Authority shall not be subject to the least-cost planning requirements contained in section 2621(d) of this title or any similar requirement which might arise out of the Tennessee Valley Authority's electric power transactions with the Southeastern Power Administration.
 
 (Pub. L. 102–486, title I, §113, Oct. 24, 1992, 106 Stat. 2798.)
 

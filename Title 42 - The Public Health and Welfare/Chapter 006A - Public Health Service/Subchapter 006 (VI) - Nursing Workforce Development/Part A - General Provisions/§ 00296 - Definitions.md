@@ -20,7 +20,7 @@ As used in this subchapter:
 
 #### (4) Associate degree school of nursing
 
-&emsp;The term "associate degree school of nursing" means a department, division, or other administrative unit in a junior college, community college, college, or university which provides primarily or exclusively a two-year program of education in professional nursing and allied subjects leading to an associate degree in nursing or to an equivalent degree, but only if such program, or such unit, college, or university is accredited.
+&emsp;The term "associate degree school of nursing" means a department, division, or otheradministrative unit in a junior college, community college, college, or university which provides primarily or exclusively a two-year program of education in professional nursing and allied subjects leading to an associate degree in nursing or to an equivalent degree, but only if such program, or such unit, college, or university is accredited.
 
 #### (5) Diploma school of nursing
 

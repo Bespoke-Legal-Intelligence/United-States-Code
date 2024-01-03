@@ -12,7 +12,7 @@
 
 #### (b) Administration of coordination program
 
-A condition for the receipt of a grant under subsection (a) is that the applicant involved agree that the program under such subsection will be carried out jointly—
+A condition for the receipt of a grant under subsection (a) is that the applicant involvedagree that the program under such subsection will be carried out jointly—
 
 &emsp;(1) by representatives from the eligible hospital and the qualified organ procurement organization with respect to which the grant is made; and
 

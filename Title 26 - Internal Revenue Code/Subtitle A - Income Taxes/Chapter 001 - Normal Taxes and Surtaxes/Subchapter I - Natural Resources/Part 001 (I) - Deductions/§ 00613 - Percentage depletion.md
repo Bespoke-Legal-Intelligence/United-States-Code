@@ -80,7 +80,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) in the case of sulfur recovered by the Frasch process—cleaning, pumping to vats, cooling, breaking, and loading for shipment;
 
-&emsp;&emsp;(C) in the case of iron ore, bauxite, ball and sagger clay, rock asphalt, and ores orminerals which are customarily sold in the form of a crude mineral product—sorting, concentrating, sintering, and substantially equivalent processes to bring to shipping grade and form, and loading for shipment;
+&emsp;&emsp;(C) in the case of iron ore, bauxite, ball and sagger clay, rock asphalt, and ores or minerals which are customarily sold in the form of a crude mineral product—sorting, concentrating, sintering, and substantially equivalent processes to bring to shipping grade and form, and loading for shipment;
 
 &emsp;&emsp;(D) in the case of lead, zinc, copper, gold, silver, uranium, or fluorspar ores, potash, and ores or minerals which are not customarily sold in the form of the crude mineral product—crushing, grinding, and beneficiation by concentration (gravity, flotation, amalgamation, electrostatic, or magnetic), cyanidation, leaching, crystallization, precipitation (but not including electrolytic deposition, roasting, thermal or electric smelting, or refining), or by substantially equivalent processes or combination of processes used in the separation or extraction of the product or products from the ore or the mineral or minerals from other material from the mine or other natural deposit;
 
@@ -118,7 +118,7 @@ Except as provided in section 613A, in the case of any oil or gas well, the allo
 
 #### (3) Percentage depletion not to include lease bonuses, etc.
 
-&emsp;In the case of any geothermal deposit, the term "gross income from the property" shall, for purposes of this section, not include any amount described in section 613A(d)(5).
+&emsp;In the case of any geothermal deposit, the term "gross income from the property" shall,for purposes of this section, not include any amount described in section 613A(d)(5).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 208; Pub. L. 85–866, title I, §36(a), Sept. 2, 1958, 72 Stat. 1633; Pub. L. 86–564, title III, §302(a), (b), June 30, 1960, 74 Stat. 291, 292; Pub. L. 87–834, §13(e), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–571, §6(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 89–809, title II, §§207(a), 208(a), 209(a), (b), Nov. 13, 1966, 80 Stat. 1579, 1580; Pub. L. 91–172, title V, §§501(a), 502(a), Dec. 30, 1969, 83 Stat. 629, 630; Pub. L. 93–499, §2(a), Oct. 29, 1974, 88 Stat. 1550; Pub. L. 94–12, title V, §501(b)(1), (2), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–618, title IV, §403(a)(1), (2)(A), Nov. 9, 1978, 92 Stat. 3203; Pub. L. 99–514, title IV, §412(a)(2), Oct. 22, 1986, 100 Stat. 2227; Pub. L. 101–508, title XI, §§11522(a), 11815(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–486, 1388–557, 1388–558; Pub. L. 104–188, title I, §1704(t)(34), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title I, §102(d)(6), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 109–135, title IV, §412(gg), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 115–97, title I, §§11011(d)(3), 13305(b)(4), Dec. 22, 2017, 131 Stat. 2071, 2126; Pub. L. 115–141, div. T, §101(a)(2)(D), Mar. 23, 2018, 132 Stat. 1155.)
 
@@ -306,7 +306,7 @@ Statutes of limitation.—Notwithstanding any other law, the period within which
 
 &emsp;&emsp;"(E)
 
-Terms; applicability of other laws.—Except where otherwise distinctly expressed or manifestly intended, terms used in this paragraph shall have the same meaning as when used in the Internal Revenue Code of 1986 \[this title\] (or corresponding provisions of the Internal Revenue Code of 1939) and all provisions of law shall apply withrespect to this paragraph as if this paragraph were a part of such Code (or corresponding provisions of the Internal Revenue Code of 1939).
+Terms; applicability of other laws.—Except where otherwise distinctly expressed or manifestly intended, terms used in this paragraph shall have the same meaning as when used in the Internal Revenue Code of 1986 \[this title\] (or corresponding provisions of the Internal Revenue Code of 1939) and all provisions of law shall apply with respect to this paragraph as if this paragraph were a part of such Code (or corresponding provisions of the Internal Revenue Code of 1939).
 
 &emsp;&emsp;"(F)
 

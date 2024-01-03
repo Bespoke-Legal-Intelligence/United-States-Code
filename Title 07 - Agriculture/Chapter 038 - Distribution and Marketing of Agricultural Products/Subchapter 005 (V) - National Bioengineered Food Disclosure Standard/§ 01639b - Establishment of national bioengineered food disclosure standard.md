@@ -24,7 +24,7 @@ Not later than 2 years after July 29, 2016, the Secretary shall—
 
 &emsp;&emsp;(C) establish a process for requesting and granting a determination by the Secretary regarding other factors and conditions under which a food is considered a bioengineered food;
 
-&emsp;&emsp;(D) in accordance with subsection (d), require that the form of a food disclosure under this section be a text, symbol, or electronic or digital link, but excluding Internet website Uniform Resource Locators not embedded in the link, with the disclosure option to be selected by the food manufacturer;
+&emsp;&emsp;(D) in accordance with subsection (d), require that the form of a food disclosure under this section be a text, symbol, or electronic or digital link, but excluding Internetwebsite Uniform Resource Locators not embedded in the link, with the disclosure option to be selected by the food manufacturer;
 
 &emsp;&emsp;(E) provide alternative reasonable disclosure options for food contained in small or very small packages;
 
@@ -126,7 +126,7 @@ The Secretary shall consider establishing consistency between—
 
 #### (B) Notice and hearing
 
-&emsp;&emsp;A person subject to an examination, audit, or similar activity under subparagraph (A)shall be provided notice and opportunity for a hearing on the results of any examination, audit, or similar activity.
+&emsp;&emsp;A person subject to an examination, audit, or similar activity under subparagraph (A) shall be provided notice and opportunity for a hearing on the results of any examination, audit, or similar activity.
 
 #### (C) Audit results
 

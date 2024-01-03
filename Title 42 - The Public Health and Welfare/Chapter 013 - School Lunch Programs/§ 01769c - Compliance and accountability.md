@@ -116,7 +116,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A local educational agency that has demonstrated a high level of, or a high risk for, administrative error associated with certification, verification, and other administrative processes, as determined by the Secretary, shall ensure that the initial eligibility determination for each application is reviewed for accuracy prior to notifying a household of the eligibility or ineligibility of the household for free or reduced price meals.
+&emsp;&emsp;A local educational agency that has demonstrated a high level of, or a high risk for, administrative error associated with certification, verification, and other administrative processes, as determined by the Secretary, shall ensure that the initial eligibility determination for each application is reviewed for accuracy prior to notifying a household of the eligibility or ineligibilityof the household for free or reduced price meals.
 
 #### (B) Timeliness
 
@@ -240,7 +240,7 @@ A prior section 1769c, act June 4, 1946, ch. 281, §22, as added Nov. 10, 1978, 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–296, §207(1), added subsec. (a) and struck out former subsec. (a). Prior toamendment, text read as follows: "There shall be a unified system prescribed and administered by the Secretary for ensuring that local food service authorities that participate in the school lunch program under this chapter comply with the provisions of this chapter. Such system shall be established through the publication of regulations and the provision of an opportunity for public comment, consistent with the provisions of section 553 of title 5."
+<b>2010</b>—Subsec. (a). Pub. L. 111–296, §207(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "There shall be a unified system prescribed and administered by the Secretary for ensuring that local food service authorities that participate in the school lunch program under this chapter comply with the provisions of this chapter. Such system shall be established through the publication of regulations and the provision of an opportunity for public comment, consistent with the provisions of section 553 of title 5."
 
 Subsec. (b)(1). Pub. L. 111–296, §207(2), added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
 

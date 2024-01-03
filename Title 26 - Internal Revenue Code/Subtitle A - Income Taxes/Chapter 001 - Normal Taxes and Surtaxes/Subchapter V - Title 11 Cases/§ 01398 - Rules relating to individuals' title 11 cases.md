@@ -138,7 +138,7 @@ The estate shall succeed to and take into account the following items (determine
 
 #### (1) Administration, liquidation, and reorganization expenses
 
-&emsp;Any administrative expense allowed under section 503 of title 11 of the United States Code, and any fee or charge assessed against the estate under chapter 123 of title 28 of the United States Code, to the extent not disallowed under any other provision of this title, shall be allowed as a deduction.
+&emsp;Any administrative expense allowed under section 503 of title 11 of the United StatesCode, and any fee or charge assessed against the estate under chapter 123 of title 28 of the United States Code, to the extent not disallowed under any other provision of this title, shall be allowed as a deduction.
 
 #### (2) Carryback and carryover of excess administrative costs, etc., to estate taxable years
 
@@ -160,7 +160,7 @@ The estate shall succeed to and take into account the following items (determine
 
 #### (i) Debtor succeeds to tax attributes of estate
 
-In the case of a termination of an estate, the debtor shall succeed to and take into account the items referred to in paragraphs (1), (2), (3), (4), (5), and (6) of subsection (g) in a manner similar to that provided in such paragraphs (but taking into account that the transfer is from the estate to the debtor instead of from the debtor to the estate). In addition, the debtor shall succeed to and take into account the othertax attributes of the estate, to the extent provided in regulations prescribed by the Secretary as necessary or appropriate to carry out the purposes of this section.
+In the case of a termination of an estate, the debtor shall succeed to and take into account the items referred to in paragraphs (1), (2), (3), (4), (5), and (6) of subsection (g) in a manner similar to that provided in such paragraphs (but taking into account that the transfer is from the estate to the debtor instead of from the debtor to the estate). In addition, the debtor shall succeed to and take into account the other tax attributes of the estate, to the extent provided in regulations prescribed by the Secretary as necessary or appropriate to carry out the purposes of this section.
 
 #### (j) Other special rules
 

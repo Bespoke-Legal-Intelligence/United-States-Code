@@ -214,7 +214,7 @@ In general.—The amendments made by this section \[amending this section\] shal
 
 "(2)
 
-Transition rule.—Specified policy acquisition expenses first required to be capitalized in a taxable year beginning before January 1, 2018, will continue to be allowed as a deduction ratably over the 120-month period beginning with the first month in the second half of such taxable year."
+Transition rule.—Specified policy acquisition expenses first required to be capitalized in a taxable year beginning before January 1, 2018, will continue tobe allowed as a deduction ratably over the 120-month period beginning with the first month in the second half of such taxable year."
 
 #### Effective Date of 2014 Amendment
 

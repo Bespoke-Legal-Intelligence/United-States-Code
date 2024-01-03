@@ -12,7 +12,7 @@ Congress makes the following findings:
 
 &emsp;(5) According to the Department of State, "\[t\]he \[North Korean\] Penal Code is \[d\]raconian, stipulating capital punishment and confiscation of assets for a wide variety of 'crimes against the revolution,' including defection, attempted defection, slander of the policies of the Party or State, listening to foreign broadcasts, writing 'reactionary' letters, and possessing reactionary printed matter".
 
-&emsp;(6) The Government of North Korea executes political prisoners, opponents of the regime, some repatriated defectors, some members of underground churches, and others, sometimes at public meetings attended by workers, students, and schoolchildren.
+&emsp;(6) The Government of North Korea executes political prisoners, opponents of the regime, some repatriated defectors, some members ofunderground churches, and others, sometimes at public meetings attended by workers, students, and schoolchildren.
 
 &emsp;(7) The Government of North Korea holds an estimated 200,000 political prisoners in camps that its State Security Agency manages through the use of forced labor, beatings, torture, and executions, and in which many prisoners also die from disease, starvation, and exposure.
 
@@ -40,7 +40,7 @@ Congress makes the following findings:
 
 &emsp;(19) The Government of China does not provide North Koreans whose asylum requests are rejected a right to have the rejection reviewed prior to deportation despite its obligations under the 1951 United Nations Convention Relating to the Status of Refugees and the 1967 Protocol Relating to the Status of Refugees.
 
-&emsp;(20) North Koreans who seek asylum while in China are routinely imprisoned and tortured,and in some cases killed, after they are returned to North Korea.
+&emsp;(20) North Koreans who seek asylum while in China are routinely imprisoned and tortured, and in some cases killed, after they are returned to North Korea.
 
 &emsp;(21) The Government of China has detained, convicted, and imprisoned foreign aid workers attempting to assist North Korean refugees in proceedings that did not comply with Chinese law or international standards.
 
@@ -152,7 +152,7 @@ Pub. L. 110–346, §3, Oct. 7, 2008, 122 Stat. 3940, provided that: "It is the 
 
 &emsp;"(2) at the same time that careful screening of intending refugees is important, the United States also should make every effort to ensure that its screening, processing, and resettlement of North Korean refugees are as efficient and expeditious as possible;
 
-&emsp;"(3) the Special Envoy for North Korean Human Rights Issues should be a full-time position within the Department of State in order to properly promote and coordinate North Korean human rights and humanitarian issues, and to participate in policy planning and implementation with respect to refugeeissues, as intended by the North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.);
+&emsp;"(3) the Special Envoy for North Korean Human Rights Issues should be a full-time position within the Department of State in order to properly promote and coordinate North Korean human rights and humanitarian issues, and to participate in policy planning and implementation with respect to refugee issues, as intended by the North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.);
 
 &emsp;"(4) in an effort to more efficiently and actively participate in humanitarian burden-sharing, the United States should approach our ally, the Republic of Korea, to revisit and explore new opportunities for coordinating efforts to screen and resettle North Koreans who have expressed a wish to pursue resettlement in the United States and have not yet availed themselves of any right to citizenship they may enjoy under the Constitution of the Republic of Korea; and
 
